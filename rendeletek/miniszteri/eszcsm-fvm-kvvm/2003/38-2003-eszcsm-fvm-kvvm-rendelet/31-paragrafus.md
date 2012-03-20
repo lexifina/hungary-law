@@ -1,10 +1,10 @@
-31. §[^66] (1) A 8. számú melléklet 1. pontja szerint irtószernek minősülő biocid termék az OEK szakvéleménye alapján az OTH által kiadott engedély birtokában hozható forgalomba. Az engedély iránti kérelmet az OTH-nak címezve az OEK-hez kell benyújtani. Az OEK az irtószernek minősülő biocid termékeket nyilvántartja. Az engedélykérelemnek a 9. melléklet 2. pontja szerinti, a szakvéleményezéshez szükséges adatokat tartalmaznia kell.
+31. §[^71] (1) A 8. számú melléklet 1. pontja szerint irtószernek minősülő biocid termék az OEK szakvéleménye alapján az OTH által kiadott engedély birtokában hozható forgalomba. Az engedély iránti kérelmet az OTH-nak címezve az OEK-hez kell benyújtani. Az OEK az irtószernek minősülő biocid termékeket nyilvántartja. Az engedélykérelemnek a 9. melléklet 2. pontja szerinti, a szakvéleményezéshez szükséges adatokat tartalmaznia kell.
 
 (2) Az emberek és állatok általi fogyasztásra szánt ivóvíz, a használati meleg víz, az uszodai és egyéb, fürdőzésre használt vizek fertőtlenítésére, valamint az ilyen vizekkel érintkező felületek fertőtlenítésére szolgáló, továbbá a vizekben alkalmazott algásodásgátló biocid termék az OKI szakvéleménye alapján az OTH által kiadott engedély birtokában hozható forgalomba. Az engedély iránti kérelmet az OTH-nak címezve az OKI-hoz kell benyújtani.
 
-(3)[^67] Az állatok általi fogyasztásra szánt ivóvíz fertőtlenítésére szolgáló fertőtlenítőszerek esetében az OKI a szakvéleményezési eljárásba bevonja az MgSzH-t. Az engedélykérelemnek a 9. melléklet 1. pontja szerinti, a szakvéleményezéshez szükséges adatokat tartalmaznia kell.
+(3)[^72] Az állatok általi fogyasztásra szánt ivóvíz fertőtlenítésére szolgáló fertőtlenítőszerek esetében az OKI a szakvéleményezési eljárásba bevonja az MgSzH-t. Az engedélykérelemnek a 9. melléklet 1. pontja szerinti, a szakvéleményezéshez szükséges adatokat tartalmaznia kell.
 
-(4) A fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló jogszabályban meghatározott fertőző beteg, valamint a fertőző betegségre gyanús személy környezetében és az egészségügyi szolgáltató által végzendő megelőző jellegű fertőtlenítésre szolgáló, az (5) bekezdésben felsorolt biocid termék az OEK szakvéleménye alapján az OTH által kiadott engedély birtokában hozható forgalomba. Az engedély iránti kérelmet az OTH-nak címezve az OEK-hez kell benyújtani. A 3. terméktípusba tartozó felület-fertőtlenítőszerek szakvéleményezésére irányuló eljárásba az MgSzH-t be kell vonni. Az engedélykérelemnek a 9. melléklet 3. pontja szerinti, a szakvéleményezéshez szükséges adatokat tartalmaznia kell.
+(4)[^73] Az (5) bekezdésben felsorolt biocid termék az OEK szakvéleménye alapján az OTH által kiadott engedély birtokában hozható forgalomba. Az engedély iránti kérelmet az OTH-nak címezve az OEK-hez kell benyújtani. A 3. terméktípusba tartozó felület-fertőtlenítőszerek szakvéleményezésére irányuló eljárásban az MgSzH szakértőként vesz részt. Az engedélykérelemnek a 9. számú melléklet 3. pontja szerinti, a szakvéleményezéshez szükséges adatokat tartalmaznia kell.
 
 (5) A (4) bekezdés szerint kell engedélyezni a következő biocid termékeket:
 
@@ -20,8 +20,9 @@ c) azon fertőtlenítőszerek, amelyeket állatok elhelyezési, tartási vagy sz
 
 (8) Egyes, a 3., 18. és 19. terméktípusba tartozó, az állatgyógyászati termékekről szóló jogszabályban meghatározott állategészségügyi biocid termékek forgalomba hozatalát – azok valamennyi hatóanyagának a közösségi jegyzékbe való felvételéig – az MgSzH engedélyezi.
 
-(9)[^68] A 3., 18. és 19. terméktípusba tartozó biocid termék felhasználhatóságával összefüggő határozatát az OTH az MgSzH-val is közli.
+(9)[^74] A 3., 18. és 19. terméktípusba tartozó biocid termék felhasználhatóságával összefüggő határozatát az OTH az MgSzH-val is közli.
 
-[^66]: A 31. § a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 14. §-ával megállapított szöveg.
-[^67]: A 31. § (3) bekezdése a 31/2011. (VI. 16.) NEFMI rendelet 2. § f) pontja szerint módosított szöveg.
-[^68]: A 31. § (9) bekezdése a 31/2011. (VI. 16.) NEFMI rendelet 2. § g) pontja szerint módosított szöveg.
+[^71]: A 31. § a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 14. §-ával megállapított szöveg.
+[^72]: A 31. § (3) bekezdése a 31/2011. (VI. 16.) NEFMI rendelet 2. § f) pontja szerint módosított szöveg.
+[^73]: A 31. § (4) bekezdése a 15/2012. (III. 12.) NEFMI rendelet 7. §-ával megállapított szöveg.
+[^74]: A 31. § (9) bekezdése a 31/2011. (VI. 16.) NEFMI rendelet 2. § g) pontja szerint módosított szöveg.

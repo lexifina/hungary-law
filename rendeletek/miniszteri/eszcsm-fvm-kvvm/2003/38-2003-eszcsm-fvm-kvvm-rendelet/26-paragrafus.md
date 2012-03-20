@@ -2,8 +2,8 @@
 
 ## Illetékes hatóságok
 
-26. § (1)[^55] A Magyar Köztárságban az illetékes hatóság az OTH, amely feladatát e rendeletben meghatározottak szerint az OKBI, OKI, OÉTI és az OEK, valamint a kistérségi népegészségügyi intézet, továbbá a szakhatóság bevonásával látja el.
+26. § (1)[^58] Magyarországon az illetékes hatóság az OTH, amely feladatát e rendeletben meghatározottak szerint az OKBI, OKI, OÉTI és az OEK, valamint a kistérségi népegészségügyi intézet, továbbá a szakhatóság bevonásával látja el.
 
 (2) Az OTH az illetékes hatóságról a Bizottságot e rendelet hatálybalépését követő 30 napon belül tájékoztatja.
 
-[^55]: A 26. § (1) bekezdése a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (8) bekezdésének l) pontja, a 31/2011. (VI. 16.) NEFMI rendelet 2. § e) pontja szerint módosított szöveg.
+[^58]: A 26. § (1) bekezdése a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (8) bekezdésének l) pontja, a 31/2011. (VI. 16.) NEFMI rendelet 2. § e) pontja, a 15/2012. (III. 12.) NEFMI rendelet 10. §-a szerint módosított szöveg.

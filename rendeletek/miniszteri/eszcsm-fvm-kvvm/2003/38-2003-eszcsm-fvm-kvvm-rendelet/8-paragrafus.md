@@ -1,6 +1,6 @@
 ## Az engedélyezési és a regisztrációs eljárás rendje
 
-8. § (1)[^13] Az engedély, illetőleg a regisztráció iránti kérelmet az nyújtja be, aki a Magyar Köztársaságban a biocid terméket forgalomba hozatal céljából első alkalommal gyártja, illetve importálja. Az engedély, illetve regisztráció iránti kérelmet az OTH-hoz kell benyújtani. A kérelmezőnek a kérelem benyújtásához valamely tagállamban székhellyel (lakóhellyel), telephellyel vagy állandó képviselettel kell rendelkeznie.
+8. § (1)[^13] Az engedély, illetőleg a regisztráció iránti kérelmet az nyújtja be, aki Magyarországon a biocid terméket forgalomba hozatal céljából első alkalommal gyártja, illetve importálja. Az engedély, illetve regisztráció iránti kérelmet az OTH-hoz kell benyújtani. A kérelmezőnek a kérelem benyújtásához valamely tagállamban székhellyel (lakóhellyel), telephellyel vagy állandó képviselettel kell rendelkeznie.
 
 (2) A biocid termék engedélyezése iránti kérelemhez be kell nyújtani
 
@@ -58,7 +58,7 @@ i)[^17] biztonsági adatlap a vegyi anyagok regisztrálásáról, értékelésé
 
 (13)[^23] Az OTH az engedély okiratot, illetőleg a regisztrációs okiratot – a koordináló intézet véleménye alapján – adja ki és küldi meg a kérelmezőnek. Ha a dokumentáció értékelése a 8/A. § (2) vagy (3) bekezdése szerinti közreműködők feladatkörén kívül eső kérdésekkel összefüggésben is szükséges, a koordináló intézet e feladat ellátására – a dokumentáció adatvédelmének biztosításával – szakértőt is felkérhet. Az engedélyezési eljárás során az illetékes koordináló intézet egyeztetett szakvéleményétől való esetleges eltérést az OTH írásban indokolja, az egyeztetett szakvélemény kialakításában a 8/A. § (2) vagy (3) bekezdése szerint részt vevő közreműködők közötti véleményeltérést az illetékes koordináló intézet az egyeztetett szakvéleményben írásban bemutatja. Az OTH annak kibocsátásával egyidejűleg megküldi a közreműködő szakhatóságoknak a szakvéleményeik alapján kiadott engedélyek, regisztrációs okiratok, használati utasítások és címkék másolatát.
 
-[^13]: A 8. § (1) bekezdése a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 2. § (1) bekezdésével megállapított, a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 17. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^13]: A 8. § (1) bekezdése a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 2. § (1) bekezdésével megállapított, a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 17. § (1) bekezdés a) pontja, a 15/2012. (III. 12.) NEFMI rendelet 10. §-a szerint módosított szöveg.
 [^14]: A 8. § (2) bekezdés a) pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 4. §-ával megállapított szöveg.
 [^15]: A 8. § (2) bekezdésének b) pontja a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (8) bekezdése c) pontjának cb) alpontja szerint módosított szöveg.
 [^16]: A 8. § (3) bekezdés nyitó szövegrésze a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 17. § (1) bekezdés b) pontja szerint módosított szöveg.

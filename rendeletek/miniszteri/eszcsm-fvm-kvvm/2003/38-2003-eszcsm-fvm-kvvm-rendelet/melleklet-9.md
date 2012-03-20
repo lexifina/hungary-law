@@ -4,7 +4,7 @@
 
 ## 1. Fogalmi meghatározások
 
-## 1.[^82] Irtószer: olyan biocid termék, amely
+## 1.[^88] Irtószer: olyan biocid termék, amely
 
 ## a) a 2. pont szerinti egészségügyi kártevők megtelepedésének és elszaporodásának meggátlására, elpusztítására, csalogatására és összefogására szolgál (a továbbiakban: rovar- és rágcsálóirtó szer), vagy
 
@@ -14,13 +14,13 @@
 
 ## 3. Védekezés: az egészségügyi kártevők megtelepedésének és elszaporodásának meggátlása, valamint életfolyamataik megzavarása, illetőleg a kártevők csalogatása vagy távoltartása (riasztása), továbbá elpusztítása (rovarirtás, rágcsálóirtás, együtt: egészségügyi kártevőirtás).
 
-## 4.[^83] Gázmester: az egészségügyi kártevőirtó tevékenységről és az egészségügyi kártevőirtó tevékenység engedélyezésének részletes szabályairól szóló 2/2010. (I. 26.) EüM rendelet 1. § (3) bekezdés a) pontja szerinti szakképesítéssel rendelkező személy.
+## 4.[^89] Gázmester: az egészségügyi kártevőirtó tevékenységről és az egészségügyi kártevőirtó tevékenység engedélyezésének részletes szabályairól szóló 2/2010. (I. 26.) EüM rendelet 1. § (3) bekezdés a) pontja szerinti szakképesítéssel rendelkező személy.
 
-## 5.[^84] Szakképzett személy: az egészségügyi kártevőirtó tevékenységről és az egészségügyi kártevőirtó tevékenység engedélyezésének részletes szabályairól szóló jogszabály szerinti, egészségügyi kártevőirtási tevékenységre jogosító szakképesítéssel rendelkező személy.
+## 5.[^90] Szakképzett személy: az egészségügyi kártevőirtó tevékenységről és az egészségügyi kártevőirtó tevékenység engedélyezésének részletes szabályairól szóló jogszabály szerinti, egészségügyi kártevőirtási tevékenységre jogosító szakképesítéssel rendelkező személy.
 
-## 6.[^85] Szolgáltató: az egészségügyi kártevőirtó tevékenységről és az egészségügyi kártevőirtó tevékenység engedélyezésének részletes szabályairól szóló jogszabály alapján egészségügyi kártevőirtást végző vállalkozás.
+## 6.[^91] Szolgáltató: az egészségügyi kártevőirtó tevékenységről és az egészségügyi kártevőirtó tevékenység engedélyezésének részletes szabályairól szóló jogszabály alapján egészségügyi kártevőirtást végző vállalkozás.
 
-## 7.[^86] Felhasználó: az irtószert alkalmazó természetes vagy jogi személy, vagy jogi személyiség nélküli szervezet.
+## 7.[^92] Felhasználó: az irtószert alkalmazó természetes vagy jogi személy, vagy jogi személyiség nélküli szervezet.
 
 ## 8. Szolgáltatás: irtószerrel más számára végzett egészségügyi kártevőirtás.
 
@@ -74,13 +74,13 @@
 
 ## 4. II. forgalmi kategóriájú irtószer csak figyelmeztető felirattal megjelölt, lezárt, lakás céljára és haszonállatok tartására nem szolgáló, kizárólag erre a célra használt, helyen tárolható.
 
-## 5.[^87] A kártevőirtást végző vállalkozások a II. és III. forgalmazási kategóriájú irtószert csak biztonsági zárral ellátott, más célra nem használt, figyelmeztető felirattal megjelölt, száraz, világos, hézagmentes, felmosható padozattal, lemosható falakkal, ajtóval ellátott, jól szellőztethető, túlzott felmelegedéstől védett, villámvédelemmel, megfelelő felirattal és belépést tiltó jelzéssel ellátott raktárban (a továbbiakban: irtószerraktár) tárolhatják, amelynek szellőzése és világítása külső kapcsolóval biztosítandó és amely nem nyílhat közvetlenül lakó- vagy emberi tartózkodásra szolgáló egyéb helyiségbe, haszonállatok tartására szolgáló helyiségbe, élelmiszer- vagy takarmányraktárba, továbbá szellőzőnyílása, kéménye, csatornája nem lehet közvetlen kapcsolatban a szomszédos helyiségek hasonló rendeltetésű berendezéseivel.
+## 5.[^93] A kártevőirtást végző vállalkozások a II. és III. forgalmazási kategóriájú irtószert csak biztonsági zárral ellátott, más célra nem használt, figyelmeztető felirattal megjelölt, száraz, világos, hézagmentes, felmosható padozattal, lemosható falakkal, ajtóval ellátott, jól szellőztethető, túlzott felmelegedéstől védett, villámvédelemmel, megfelelő felirattal és belépést tiltó jelzéssel ellátott raktárban (a továbbiakban: irtószerraktár) tárolhatják, amelynek szellőzése és világítása külső kapcsolóval biztosítandó és amely nem nyílhat közvetlenül lakó- vagy emberi tartózkodásra szolgáló egyéb helyiségbe, haszonállatok tartására szolgáló helyiségbe, élelmiszer- vagy takarmányraktárba, továbbá szellőzőnyílása, kéménye, csatornája nem lehet közvetlen kapcsolatban a szomszédos helyiségek hasonló rendeltetésű berendezéseivel.
 
 ## 6. Egy helyiséges irtószerraktárban az I. forgalmi kategóriájú irtószerek csak méregkazettában (méregszekrényben, méregládában) tárolhatók.
 
 ## 7. A méregtárolót/irtószerraktárt – amely a használaton kívül zárva tartandó – biztonsági zárral kell ellátni, melynek kulcsát a munkarendben megjelölt vagy adott forgalmi kategóriájú irtószerek felhasználására jogosult szakképesített személy köteles őrizni.
 
-## 8.[^88] A méregkamrában, az irtószerraktárban vagy az erre a célra kijelölt zárt helyen kell elhelyezni az irtószerek szállításához, méréséhez, előkészítéséhez és a takarításhoz szükséges, feltűnően megjelölt eszközöket, valamint a kiürült, de még használható csomagolást. Ugyancsak itt tartandó az egyéni védőfelszerelés és az elsősegély felszerelés, továbbá a folyóvizes mosdóberendezés a tisztálkodó szerekkel együtt.
+## 8.[^94] A méregkamrában, az irtószerraktárban vagy az erre a célra kijelölt zárt helyen kell elhelyezni az irtószerek szállításához, méréséhez, előkészítéséhez és a takarításhoz szükséges, feltűnően megjelölt eszközöket, valamint a kiürült, de még használható csomagolást. Ugyancsak itt tartandó az egyéni védőfelszerelés és az elsősegély felszerelés, továbbá a folyóvizes mosdóberendezés a tisztálkodó szerekkel együtt.
 
 ## 9. A méregkamrában/irtószerraktárban az adott forgalmi kategóriájú irtószer felhasználására jogosult szakképesített személy felügyelete mellett munkát csak olyan személy végezhet, aki az ott tárolt irtószerek veszélyeiről (mérgezés, tűz, robbanás), a vonatkozó óvórendszabályokról és az adott esetben alkalmazandó elsősegélynyújtás módjáról oktatásban részesült.
 
@@ -138,7 +138,7 @@
 
 ## 4. III. forgalmi kategóriájú irtószer felhasználása szakképesítéshez nem kötött.
 
-## 5.[^89] II. forgalmi kategóriájú irtószert csak szakképzett személy, vagy szakképzett személy felügyeletével a szakképesítés megszerzése érdekében szakmai gyakorlatát töltő személy használhat fel.
+## 5.[^95] II. forgalmi kategóriájú irtószert csak szakképzett személy, vagy szakképzett személy felügyeletével a szakképesítés megszerzése érdekében szakmai gyakorlatát töltő személy használhat fel.
 
 ## 6. I. forgalmi kategóriába sorolt irtószert csak gázmester használhat fel.
 
@@ -148,7 +148,7 @@
 
 ## 9. Szakképzett személyek a Tájékoztatóban megjelölt, arra engedélyezett hatóanyagokból a jelen jogszabályban foglalt előírások betartása mellett, kizárólag saját felhasználásra irtószert készíthetnek és alkalmazhatnak.
 
-## 10.[^90]
+## 10.[^96] Az irtószerek felhasználását a munkavégzés helyén dokumentálni kell. A dokumentáció tartalmazza az elvégzett tevékenységet (irtás vagy monitorozás), a kártevő megnevezését, mely ellen védekezik, annak időpontját, a felhasznált irtószer megnevezését, hatóanyagát, a kezelt terület nagyságát, a munkavégző nevét, engedély számát, a felhasznált irtószer biztonsági adatlapját, a munkavégzés utáni teendőket.
 
 ## 11. Szolgáltatást szakképzett személy végezhet.
 
@@ -166,19 +166,19 @@
 
 ## 15. Védett természeti területeket érintő védekezés esetén az illetékes természetvédelmi hatóság előzetes írásbeli szakvéleményének beszerzése kötelező. A kérelmet a védekezést megelőző munkanap reggel 9 óráig kell az igazgatósághoz eljuttatni. A külön jogszabályban meghatározott vadászterületen történő védekezés esetén a vadászatra jogosultakat a védekezés megelőzését megelőzően legalább 3 munkannapal írásban értesíteni kell. Az értesítésben az érintett területet azonosítható módon meg kell jelölni.
 
-## 16.[^91] I. forgalmi kategóriájú, szilárd és/vagy folyékony halmazállapotú irtószerrel élelmiszer-ipari és élelmiszerkereskedelmi üzemekben, üzletekben, raktárakban, vendéglátó-ipari egységekben, közétkeztetési helyeken, illetőleg fekvőbeteg-ellátó és gyermekvédelmi intézményekben egészségügyi kártevőirtást a szakképzett személy is csak a felhasználás helye szerint illetékes kistérségi népegészségügyi intézet esetenként, vagy meghatározott időre kiadott engedélyével (a továbbiakban: irtószer-felhasználási engedély), az abban megszabott feltételek megtartása mellett végezhet.
+## 16.[^97] I. forgalmi kategóriájú, szilárd és/vagy folyékony halmazállapotú irtószerrel élelmiszer-ipari és élelmiszerkereskedelmi üzemekben, üzletekben, raktárakban, vendéglátó-ipari egységekben, közétkeztetési helyeken, illetőleg fekvőbeteg-ellátó és gyermekvédelmi intézményekben egészségügyi kártevőirtást a szakképzett személy is csak a felhasználás helye szerint illetékes kistérségi népegészségügyi intézet esetenként, vagy meghatározott időre kiadott engedélyével (a továbbiakban: irtószer-felhasználási engedély), az abban megszabott feltételek megtartása mellett végezhet.
 
-## 17.[^92]
+## 17.[^98] Az I. forgalmi kategóriájú növényvédőszerrel végzett 50-500 m3 , valamint az 500 m3 feletti légtérgázosítást az egészségügyi gázmester a munkavégzés megkezdése előtt 48 órával köteles írásban bejelenteni a munkavégzés helye szerint illetékes kistérségi népegészségügyi intézethez.
 
-## 18.[^93] Az irtószerek felhasználásának helyszínén a megfelelő elsősegélynyújtó felszerelés készenlétben tartandó.
+## 18.[^99] Az irtószerek felhasználásának helyszínén a megfelelő elsősegélynyújtó felszerelés készenlétben tartandó.
 
 ## 19. Aki I. és/vagy II. forgalmi kategóriájú irtószer elvesztését, elcserélését, eltulajdonítását, irtószernek élelmiszerbe, takarmányba keveredését, ivóvízbe (kútba, forrásba, víztározóba), állóvízbe vagy vízfolyásba kerülését, illetőleg kezelésre nem szánt területre jutását észleli, köteles azt az alább felsorolt hatóságnak haladéktalanul bejelenteni:
 
 ## a) irtószer elvesztéséről, eltulajdonításáról – amenynyiben az adott körülményt saját hatáskörben kivizsgálta és bűncselekményre utaló adatot, tényt és körülményt állapított meg – a jegyzőnek;
 
-## b)[^94] irtószer élelmiszerbe, takarmányba keveredéséről, ivóvízbe, állóvízbe vagy vízfolyásba jutásáról – a veszélyeztetett egyidejű tájékoztatása mellett – az a kistérségi népegészségügyi intézetnek, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak vagy környezetvédelmi, természetvédelmi és vízügyi felügyelőségnek;
+## b)[^100] irtószer élelmiszerbe, takarmányba keveredéséről, ivóvízbe, állóvízbe vagy vízfolyásba jutásáról – a veszélyeztetett egyidejű tájékoztatása mellett – az a kistérségi népegészségügyi intézetnek, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak vagy környezetvédelmi, természetvédelmi és vízügyi felügyelőségnek;
 
-## c)[^95] irtószernek a kezelésre nem szánt területre jutásáról – a veszélyeztetett egyidejű tájékoztatása mellett – a kistérségi népegészségügyi intézetnek, helyi jelentőségű védett természeti területre jutásakor az illetékes települési önkormányzat jegyzőjének, országos jelentőségű védett természeti területre jutás esetén a környezetvédelmi, természetvédelmi és vízügyi felügyelőségnek.
+## c)[^101] irtószernek a kezelésre nem szánt területre jutásáról – a veszélyeztetett egyidejű tájékoztatása mellett – a kistérségi népegészségügyi intézetnek, helyi jelentőségű védett természeti területre jutásakor az illetékes települési önkormányzat jegyzőjének, országos jelentőségű védett természeti területre jutás esetén a környezetvédelmi, természetvédelmi és vízügyi felügyelőségnek.
 
 ## 20. Az irtószerek szakszerű és biztonságos felhasználásával kapcsolatos részletes előírásokat és azok értelmezésének kötelező érvényű szabályait a Tájékoztató tartalmazza.
 
@@ -214,15 +214,11 @@
 
 ## – I. és/vagy II. forgalmi kategóriájú irtószerrel történő kezelés idejére az irtási területet le kell zárni, vagy biztonságos módon őriztetni kell. Az irtási terület határán az irtószer mérgező hatásának megfelelő szöveggel figyelmeztető táblát (táblákat) kell kihelyezni, amelyen az alkalmazott rágcsálóirtószer hatóanyagát, az ellenmérget (gyógyszert) és az alkalmazó nevét, címét, telefonszámát fel kell tüntetni. I. forgalmi kategóriájú irtószer alkalmazásakor a hatályos jogszabályoknak megfelelő jelzést kell elhelyezni;
 
-## d)[^96] szabadban melegködképzéssel/hidegködképzéssel/ULV-eljárással/permetezéssel történő rovarirtás esetén, a méhek védelme érdekében 400 m2 feletti terület kezelésekor, legkésőbb a kezelés megkezdését megelőző munkanapon 9 óráig bejelentést kell tenni. Ebben közölni kell a kezelendő terület helyét és nagyságát, a rovarirtás kezdetének és befejezésének időpontját, az alkalmazásra kerülő irtószert, továbbá a kijuttatás módját.
-
-## A bejelentést a növényvédelemről szóló 2000. évi XXXV. törvény (a továbbiakban: Nvt.) 45. § (3) bekezdésében foglaltakkal megegyezően a kezelendő terület helye szerint illetékes települési önkormányzat jegyzőjének kell írásban megtenni.
-
-## A méhesek tulajdonosait (kezelőit) a bejelentésköteles rovarirtási tevékenységről a jegyző az Nvt. 57. §-ának d) pontjában foglaltakkal megegyezően értesíti.
+## d)[^102] szabadban melegködképzéssel/hidegködképzéssel/ULV-eljárással/permetezéssel történő rovarirtás esetén a méhek védelme érdekében 400 m2 feletti terület kezelésekor, legkésőbb a kezelés megkezdését megelőző munkanapon 9 óráig bejelentést kell tenni a méhek vándoroltatásával kapcsolatos nyilvántartást vezető települési (fővárosi kerületi) önkormányzat jegyzőjének. Ebben közölni kell a kezelendő terület helyét és nagyságát, a rovarirtás kezdetének és befejezésének időpontját, az alkalmazásra kerülő irtószert, továbbá a kijuttatás módját.
 
 9. számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
-együttes rendelethez[^97]
+együttes rendelethez[^103]
 
 1. Az emberek és állatok általi fogyasztásra szánt ivóvíz, valamint a használati melegvíz, az uszoda és egyéb fürdőzésre használt vizek fertőtlenítésére használt szerek, továbbá az algásodásgátló biocid termékek szakvéleményezéséhez szükséges adatok
 
@@ -352,19 +348,19 @@ együttes rendelethez[^97]
 
 4.12. Toxikológiai, ökotoxikológiai vizsgálati dokumentáció
 
-[^82]: A 8. számú melléklet 1. alcím 1. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
-[^83]: A 8. számú melléklet 1. alcím 4. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
-[^84]: A 8. számú melléklet 1. alcím 5. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
-[^85]: A 8. számú melléklet 1. alcím 6. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
-[^86]: A 8. számú melléklet 1. alcím 7. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
-[^87]: A 8. számú melléklet 5. alcím 5. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
-[^88]: A 8. számú melléklet 5. alcím 8. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
-[^89]: A 8. számú melléklet 6. alcím 5. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
-[^90]: A 8. számú melléklet 6. alcím 10. pontját a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 17. § (1) bekezdés d) pontja hatályon kívül helyezte.
-[^91]: A 8. számú melléklet 6. pontjának 16. alpontja a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (9) bekezdése b) pontjának ba) pontja, a 31/2011. (VI. 16.) NEFMI rendelet 3. § (3) bekezdése szerint módosított szöveg.
-[^92]: A 8. számú melléklet 6. alcím 17. pontját a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 17. § (1) bekezdés d) pontja hatályon kívül helyezte.
-[^93]: A 8. számú melléklet 6. alcím 18. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
-[^94]: A 8. számú melléklet 19. pontjának b) alpontja a 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet 18. § (2) bekezdésével megállapított, a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (9) bekezdése b) pontjának ba)–bb) alpontja, a 31/2011. (VI. 16.) NEFMI rendelet 3. § (3) bekezdése szerint módosított szöveg.
-[^95]: A 8. számú melléklet 19. pontjának c) alpontja a 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet 18. § (2) bekezdésével megállapított, valamint a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (9) bekezdése b) pontjának ba) pontja, a 31/2011. (VI. 16.) NEFMI rendelet 3. § (3) bekezdése szerint módosított szöveg.
-[^96]: A 8. számú melléklet 6. pontjának 22. d) alpontja a 22/2006. (V. 17.) EüM–FVM–KvVM együttes rendelet 6. § (2) bekezdése és 7. § (2) bekezdésének d) pontja szerint módosított szöveg.
-[^97]: A 9. számú melléklet a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § c) pontjával megállapított szöveg.
+[^88]: A 8. számú melléklet 1. alcím 1. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
+[^89]: A 8. számú melléklet 1. alcím 4. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
+[^90]: A 8. számú melléklet 1. alcím 5. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
+[^91]: A 8. számú melléklet 1. alcím 6. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
+[^92]: A 8. számú melléklet 1. alcím 7. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
+[^93]: A 8. számú melléklet 5. alcím 5. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
+[^94]: A 8. számú melléklet 5. alcím 8. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
+[^95]: A 8. számú melléklet 6. alcím 5. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
+[^96]: A 8. számú melléklet 6. alcím 10. pontját a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 17. § (1) bekezdés d) pontja hatályon kívül helyezte, újonnan a 15/2012. (III. 12.) NEFMI rendelet 9. § (2) bekezdése iktatta be.
+[^97]: A 8. számú melléklet 6. pontjának 16. alpontja a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (9) bekezdése b) pontjának ba) pontja, a 31/2011. (VI. 16.) NEFMI rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^98]: A 8. számú melléklet 6. alcím 17. pontját a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 17. § (1) bekezdés d) pontja hatályon kívül helyezte, újonnan a 15/2012. (III. 12.) NEFMI rendelet 9. § (2) bekezdése iktatta be.
+[^99]: A 8. számú melléklet 6. alcím 18. pontja a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § b) pontjával megállapított szöveg.
+[^100]: A 8. számú melléklet 19. pontjának b) alpontja a 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet 18. § (2) bekezdésével megállapított, a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (9) bekezdése b) pontjának ba)–bb) alpontja, a 31/2011. (VI. 16.) NEFMI rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^101]: A 8. számú melléklet 19. pontjának c) alpontja a 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet 18. § (2) bekezdésével megállapított, valamint a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (9) bekezdése b) pontjának ba) pontja, a 31/2011. (VI. 16.) NEFMI rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^102]: A 8. számú melléklet 6. pont 22. d) alpontja a 15/2012. (III. 12.) NEFMI rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^103]: A 9. számú melléklet a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 16. § c) pontjával megállapított szöveg.
