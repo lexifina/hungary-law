@@ -1,4 +1,4 @@
-2. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^17]
+2. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^18]
 
 ## Étrend-kiegészítők gyártásához felhasználható vitamin és ásványi anyag vegyületek
 
@@ -238,6 +238,10 @@
 
 2.3.14. vas(II)-foszfát (ferro-foszfát)
 
+2.3.14.a. vas-ammónium-foszfát
+
+2.3.14.b vas-nátrium-EDTA
+
 2.3.15. vas(II)-taurát (ferro-taurát)
 
 2.4. Réz
@@ -342,7 +346,11 @@
 
 2.8.8. nátrium ortofoszforsavval alkotott sói
 
+2.8.9. nátrium-szulfát
+
 2.9. Kálium
+
+2.9.a. kálium-szulfát
 
 2.9.1. kálium-bikarbonát (hidrogén-karbonát)
 
@@ -454,4 +462,4 @@
 
 3.6. (6) Gél formájában.
 
-[^17]: A 2. számú melléklet a 24/2010. (V. 7.) EüM rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^18]: A 2. számú melléklet a 24/2010. (V. 7.) EüM rendelet 1. § (5) bekezdésével megállapított, a 15/2012. (III. 12.) NEFMI rendelet 4. §-a szerint módosított szöveg.

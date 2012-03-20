@@ -4,6 +4,6 @@
 
 (3) A 2. számú mellékletben felsorolt olyan anyag esetében, amelynek tisztasági követelményeit sem hazai jogszabály, sem európai közösségi előírás nem határozza meg, a nemzetközi testületek általánosan elfogadott javaslatait kell figyelembe venni.
 
-(4)–(5)[^1]
+(4)–(5)[^2]
 
-[^1]: A 4. § (4)–(5) bekezdését a 24/2010. (V. 7.) EüM rendelet 1. § (7) bekezdés a) pontja hatályon kívül helyezte.
+[^2]: A 4. § (4)–(5) bekezdését a 24/2010. (V. 7.) EüM rendelet 1. § (7) bekezdés a) pontja hatályon kívül helyezte.

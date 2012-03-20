@@ -6,6 +6,6 @@ b) a vitamin és ásványi anyag egyéb élelmiszerekből származó bevitelét.
 
 (2) Az (1) bekezdés szerinti legmagasabb mennyiség megállapításához figyelembe kell venni a vitaminok és ásványi anyagok népesség számára ajánlott napi beviteli értékét is.
 
-(3)[^2] A tápérték jelölésben megadott vitaminnak, illetve ásványi anyagnak jelentős mennyiségben – a napi ajánlott bevitel legalább 15%-ában – kell jelen lennie az étrend-kiegészítő gyártó által javasolt napi adagjában.
+(3)[^3] A tápérték jelölésben megadott vitaminnak, illetve ásványi anyagnak jelentős mennyiségben – a napi ajánlott bevitel legalább 15%-ában – kell jelen lennie az étrend-kiegészítő gyártó által javasolt napi adagjában.
 
-[^2]: Az 5. § (3) bekezdése a 86/2004. (X. 1.) ESZCSM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 5. § (3) bekezdése a 86/2004. (X. 1.) ESZCSM rendelet 1. §-ával megállapított szöveg.
