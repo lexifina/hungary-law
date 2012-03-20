@@ -1544,30 +1544,4 @@ Megjegyzés: A maximális tételsúlyt 5%-nál nagyobb mértékben nem szabad t�
 
 Megjegyzés: Melilotus spp. megengedett mennyisége SE-E: 0 db/minta; I–II. fok: 0,3%. Rumex spp.: Rumex spp. (Vadsóska fajok) a Rumex acetosella (Juhsóska) kivételével. A herefélék vetőmagjának arankatartalmát mintavételkor a teljes alapmintából külön is meg kell vizsgálni. A nagymagvú hereféléknél (alexandriai here, bíborhere, lucerna, vöröshere, nyúlszapuka, somkóró és tarka koronafürt) az arankavizsgálathoz az 1,12 mm (20-as) rostaalj összes mennyiségét a rosta fölével 400 g-ra kell kiegészíteni. Ha a rostaalj mennyisége 400 g-nál több, akkor is kell a rostaaljhoz még 100 g rostafölet keverni. Az így elkészített mintát finom vasporral összekeverve mágnesgépen kell átereszteni és a mágnesgépről lekerülő aljat arankára megvizsgálni. Arankavizsgálat alkalmával az első életképes arankamag megtalálásakor a vetőmagot arankafertőzöttnek kell nyilvánítani. A csírázóképesség vizsgálat és a biokémiai életképesség vizsgálat alkalmával megállapított keményhéjú és duzzadt magvak mennyiségét (db/100 db) a vetőmag-minősítő bizonyítványon külön is fel kell tüntetni.
 
-| Növényfaj | Szaporítási fok | Csírázó- képesség % legalább | Tisztaság % legalább | Idegen mag % legfeljebb | Idegen mag db/minta legfeljebb | Anyarozs szklerócium és üszög % legfeljebb | Nedvesség- tartalom % legfeljebb |
-
-| Összes | Ebből egy faj | Elytrigia repens | Alopecurus myo- suroides | Ebből egy faj | Elytrigia repens | Alopecurus myo- suroides | Rumex spp. |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-
-| Amaránt (Amaranthus spp.) | SE-E I. fok, ker. | 80 | 99 | 0,5 1,5 | 0,2 1,0 | X | X | X | X | X | X |  | 13,0 |
-
-| Csenkesz fajok (Festuca spp.) | SE-E I. fok, ker. | 75 | 85,0 | 0,3 2,0 | – 1,0 | – 0,5 | – 0,3 | 20 – | 5 – | 5 – | 2 5 | 0,05 | 14,0 |
-
-| Magas tarackbúza (Elytrigia elongata) | SE-E I. fok, ker. | 80 | 97,0 | 0,4 1,5 | 1,0 | 0,3 | 0,3 | 20 | 5 – | 5 – | 5 10 | 14,0 | 20,0 |
-
-| Magyar rozsnok (Bromus inermis) | SE-E I. fok, ker. | 80 | 97 | 0,4 1,5 | – 1,0 | – 0,5 | – 0,3 | 20 – | 5 – | 5 – | 5 10 | 0,20 | 14,0 |
-
-| Mohar (Setaria italica) | SE-E I. fok, ker. | 85 | 97,5 | 0,5 1,5 | 0,2 0,5 | X | X | X | X | X | X | 0,04 | 14,0 |
-
-| Sudár rozsnok (Bromus erectus) | SE-E I. fok, ker. | 75 | 97,0 | 0,4 1,5 | – 1,0 | – 0,5 | – 0,3 | 20 – | 5 – | 5 – | 5 10 |  |  |
-
-| Taréjos búzafű (Agropyron cristatum) | SE-E I. fok, ker. | 85 | 91,0 | 0,3 2,0 | – 1,0 | – 0,3 | – 0,3 | 20 – | 1 – | 1 – | 2 5 | 0,08 | 14,0 |
-
-| Taréjos cincor (Cynosurus cristatus) | SE-E I. fok, ker. | 75 | 91,0 | 2,5 | 1,0 | 0,3 | 0,3 | – | – | – | 5 | 0,03 | 14,0 |
-
-| Zöld pántlikafű (Phalaris arundinacea) | SE-E I. fok, ker. | 70 | 96,0 | 0,3 1,5 | – 1,0 | – 0,3 | – 0,3 | 20 – | 5 – | 5 – | 2 5 | 0,04 | 14,0 |
-
-Megjegyzés: Az anyarozs szklerócium, üszögcsomó, illetve üszögös mag mennyiségét a teljes mintából kell meghatározni. Minden fajnál: Avena spp. (Vadzab); Cuscuta spp. (Aranka fajok): 0 db/minta.
-
 [^145]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított szöveg.

@@ -4,15 +4,15 @@
 
 ## A rendeletben foglaltak végrehajtásának ellenőrzése
 
-53. § (1)[^121] Az MgSzH ellenőrzést végezhet minden olyan helyen, ahol a vetőmag előállítását, feldolgozását, kezelését, kiszerelését, tárolását végzik, továbbá ahol vetőmagot forgalomba hoznak vagy felhasználnak.
+53. § (1)[^120] Az MgSzH ellenőrzést végezhet minden olyan helyen, ahol a vetőmag előállítását, feldolgozását, kezelését, kiszerelését, tárolását végzik, továbbá ahol vetőmagot forgalomba hoznak vagy felhasználnak.
 
-(2)[^122] Az ellenőrzés során az MgSzH e rendelet előírásai szerint jár el, megállapításairól a helyszínen hatósági jegyzőkönyvet készít.
+(2)[^121] Az ellenőrzés során az MgSzH e rendelet előírásai szerint jár el, megállapításairól a helyszínen hatósági jegyzőkönyvet készít.
 
-(3)[^123] Az MgSzH ellenőrzést végző munkatársa jogosultságát az erre a célra rendszeresített fényképes igazolvánnyal igazolja.
+(3)[^122] Az MgSzH ellenőrzést végző munkatársa jogosultságát az erre a célra rendszeresített fényképes igazolvánnyal igazolja.
 
-(4)[^124] Az MgSzH hatósági jogkörrel felruházott munkatársa jogosult az ellenőrzés során
+(4)[^123] Az MgSzH hatósági jogkörrel felruházott munkatársa jogosult az ellenőrzés során
 
-a)[^125] az üzemi és üzleti titok védelmére vonatkozó jogszabályok betartásával a vetőmagvak nyilvántartásával, forgalomba hozatalával, felhasználásával kapcsolatos iratokba, számlákba betekinteni, azok valódiságát vizsgálni és róluk másolatot készíteni,
+a)[^124] az üzemi és üzleti titok védelmére vonatkozó jogszabályok betartásával a vetőmagvak nyilvántartásával, forgalomba hozatalával, felhasználásával kapcsolatos iratokba, számlákba betekinteni, azok valódiságát vizsgálni és róluk másolatot készíteni,
 
 b) a vetőmagvakból térítés nélkül mintát venni,
 
@@ -20,13 +20,13 @@ c) az ellenőrzött vetőmag minőségét megvizsgálni,
 
 d) a vetőmag-feldolgozást, -kiszerelést és -tárolást ellenőrizni,
 
-e)[^126] a vetőmag-forgalomba hozatalt ellenőrizni,
+e)[^125] a vetőmag-forgalomba hozatalt ellenőrizni,
 
 f) a kiszerelési tevékenységet felülvizsgálni.
 
-[^121]: Az 53. § (1) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének c) pontja szerint módosított szöveg.
-[^122]: Az 53. § (2) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.
-[^123]: Az 53. § (3) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének c) pontja szerint módosított szöveg.
-[^124]: Az 53. § (4) bekezdésének bevezető szövegrésze a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének c) pontja szerint módosított szöveg.
-[^125]: Az 53. § (4) bekezdés a) pontja a 16/2011. (III. 2.) VM rendelet 32. § p) pontja szerint módosított szöveg.
-[^126]: Az 53. § (4) bekezdés e) pontja a 16/2011. (III. 2.) VM rendelet 32. § r) pontja szerint módosított szöveg.
+[^120]: Az 53. § (1) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^121]: Az 53. § (2) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^122]: Az 53. § (3) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^123]: Az 53. § (4) bekezdésének bevezető szövegrésze a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^124]: Az 53. § (4) bekezdés a) pontja a 16/2011. (III. 2.) VM rendelet 32. § p) pontja szerint módosított szöveg.
+[^125]: Az 53. § (4) bekezdés e) pontja a 16/2011. (III. 2.) VM rendelet 32. § r) pontja szerint módosított szöveg.
