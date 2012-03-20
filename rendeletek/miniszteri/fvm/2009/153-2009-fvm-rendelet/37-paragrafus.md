@@ -1,21 +1,27 @@
-37. § (1) Az erdővédelmi mérő- és megfigyelőrendszer működtetése keretében a 200 hektárnál nagyobb kiterjedésű, erdőként nyilvántartott földterületre nyilvántartásba vett erdőgazdálkodó köteles az általa kezelt erdőt ért károsításokat az erdészeti hatóság központi szerve által rendszeresített, az alábbi adatokat tartalmazó „Erdővédelmi jelzőlap” formanyomtatványon az Erdészeti Tudományos Intézet részére bejelenteni:
+37. §[^3] (1) Az erdővédelmi mérő- és megfigyelőrendszer működtetése keretében az erdészeti szakszemélyzet köteles a szakirányítási tevékenysége során kezelt erdőt ért károsításokat az erdészeti hatóság központi szerve által rendszeresített, az alábbi adatokat tartalmazó „Erdővédelmi kárbejelentő lap” formanyomtatványon az erdészeti hatóság részére bejelenteni:
 
-a) az erdőgazdálkodó neve, erdőgazdálkodói kódszáma, statisztikai számjele,
+a) bejelentő személy neve, szakszemélyzeti kódszáma,
 
-b) a jogosult erdészeti szakszemélyzet neve, erdészeti hatósági nyilvántartási kódja,
+b) a károsítás negyedéve,
 
-c) az erdőterület szerint illetékes erdészeti hatóság megnevezése,
+c) a károsítás helye (erdőrészlet vagy EOV koordináta),
 
-d) a bejelentés vonatkozási időszaka,
+d) a károsított egyed fafaja,
 
-e) a károsító megnevezése, kódja,
+e) a károsító kódja,
 
-f) a károsítással érintett terület,
+f) a károsítás mértéke,
 
-g) a károsítás mértéke,
+g) a károsítással érintett terület,
 
-h) a károsítás jelentkezésének időszaka, valamint
+h) a károsítással érintett fatömeg,
 
-i) a károsító elleni védekezés módja és érintett területe.
+i) a károsítás észlelésének időpontja,
 
-(2) Az Erdővédelmi jelzőlapokat naptári negyedévenkénti bontásban, az adott tárgynegyedévet követő hónap 8. napjáig kell megküldeni az Erdészeti Tudományos Intézet részére.
+j) a károsítás elleni védekezés módja, a védekezés állapota,
+
+k) zárlati károsító megerősítése.
+
+(2) Az Erdővédelmi kárbejelentő lapokat naptári negyedévenkénti bontásban, az adott tárgynegyedévet követő hónap 8. napjáig, míg zárlati károsító esetén a káresemény észlelését követően haladéktalanul meg kell küldeni az erdészeti hatóság részére.
+
+[^3]: A 37. § a 24/2012. (III. 19.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
