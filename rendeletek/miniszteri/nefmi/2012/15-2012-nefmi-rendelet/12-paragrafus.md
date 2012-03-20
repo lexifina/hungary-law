@@ -1,4 +1,4 @@
-## 11. §[^8]
+## 11. §[^2]
 
 ## 6. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) Ez a rendelet 2013. május 2-án hatályát veszti.
 
-[^8]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
