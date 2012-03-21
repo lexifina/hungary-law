@@ -1,0 +1,1 @@
+A Kormány a fogyasztói árkiegészítésről szóló 2003. évi LXXXVII. törvény 9. § (4) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
