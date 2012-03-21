@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és Katar Állam Kormánya között a jövedelemadók területén a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról szóló, Budapesten, 2012. január 18. napján aláírt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
