@@ -52,13 +52,13 @@
 
 | 21. | 18. éves korig a képzésben részt vevő álláskereső a lakóhely és a képzés helye között | 3. § (1) g) | 90 |  | – |
 
-| Nyugdíjasok utazási utalványával igénybe vehető utazási kedvezmények |
+| Ellátottak utazási utalványával igénybe vehető utazási kedvezmények |
 
-| 22. a) | nyugdíjas utalvány alapján (évente 16 alkalommal), vagy | 4. § (1) | 50 | – | a Fát. mellékletében meghatározott mértékű kedvezmény |
+| 22. a ) | Ellátottak utazási utalványa alapján (évente 16 alkalommal), vagy | 4. § (1) | 50 | – | a Fát. mellékletében meghatározott mértékű kedvezmény |
 
 | b) | az a) pont szerinti 2 kedvezményes utazási lehetőség összevonásával | 4. § (2) | 90 | – |
 
-| 23. | nyugdíjas utalvány alapján évente további 2 alkalommal | 4. § (3) | 90 | – |
+| 23. | Ellátottak utazási utalványa alapján évente további 2 alkalommal | 4. § (3) | 90 | – |
 
 | Állást kereső személyek utazási kedvezménye |
 
@@ -110,6 +110,6 @@
 
 | 43. | a szülő (szülők) és a vele (velük) együtt utazó legalább 3 gyermekük | 9. § f) | 90 | – | – |
 
-2. melléklet a 85/2007. (IV. 25.) Korm. rendelethez[^30]
+2. melléklet a 85/2007. (IV. 25.) Korm. rendelethez[^38]
 
-[^30]: A 2. számú melléklet a Magyar Közlöny 2007. évi 65. számában megjelent helyesbítésnek megfelelő szöveg.
+[^38]: A 2. számú melléklet a Magyar Közlöny 2007. évi 65. számában megjelent helyesbítésnek megfelelő szöveg.

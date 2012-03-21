@@ -1,8 +1,8 @@
 8. § (1) Az 1. mellékletben meghatározott utazási kedvezmény igénybevételére jogosult:
 
-a)[^19] korlátlan számban megváltható kedvezményes menetjeggyel, vagy bármely viszonylatban megváltható, viszonylathoz kötött kedvezményes bérlettel az a vak személy, aki vakok személyi járadékában részesül, az erről szóló igazolás alapján, vagy a Magyar Vakok és Gyengénlátók Országos Szövetségének arcképes igazolványával rendelkezik;
+a)[^24] korlátlan számban megváltható kedvezményes menetjeggyel, vagy bármely viszonylatban megváltható, viszonylathoz kötött kedvezményes bérlettel az a vak személy, aki vakok személyi járadékában részesül, az erről szóló igazolás alapján, vagy a Magyar Vakok és Gyengénlátók Országos Szövetségének arcképes igazolványával rendelkezik;
 
-b)[^20] korlátlan számban megváltható kedvezményes menetjeggyel, vagy bármely viszonylatban megváltható, viszonylathoz kötött kedvezményes bérlettel a Siketek és Nagyothallók Országos Szövetségének arcképes igazolványával utazó hallássérült személy;
+b)[^25] korlátlan számban megváltható kedvezményes menetjeggyel, vagy bármely viszonylatban megváltható, viszonylathoz kötött kedvezményes bérlettel a Siketek és Nagyothallók Országos Szövetségének arcképes igazolványával utazó hallássérült személy;
 
 c) korlátlan számban megváltható kedvezményes menetjeggyel, vagy bármely viszonylatban megváltható, viszonylathoz kötött kedvezményes bérlettel az a személy, aki vagy aki után szülője vagy eltartója magasabb összegű családi pótlékban részesül, a külön jogszabályban meghatározott okmány alapján;
 
@@ -12,7 +12,7 @@ e) korlátlan számban megváltható kedvezményes menetjeggyel az a)–d) pontb
 
 f) a hadirokkant, hadiözvegy a hadigondozási igazolványa és személyi igazolványa felmutatásával, a vasúti közlekedésben bármely kocsiosztályon;
 
-g)[^21] a hadirokkant kísérője, ha a hadirokkant az orvosszakértői szerv szakvéleménye alapján kísérőre szorul, és azt a hadigondozási igazolvány tartalmazza, a vasúti közlekedésben bármely kocsiosztályon;
+g)[^26] a hadirokkant kísérője, ha a hadirokkant az orvosszakértői szerv szakvéleménye alapján kísérőre szorul, és azt a hadigondozási igazolvány tartalmazza, a vasúti közlekedésben bármely kocsiosztályon;
 
 h) a 75%-os vagy annál nagyobb mértékben rokkant hadirokkant családtagja;
 
@@ -20,9 +20,9 @@ i) a rokkantsági járadékos, ha ezt a lakóhelye szerint illetékes jegyző ig
 
 (2) Az (1) bekezdésben meghatározottak tekintetében igényjogosult családtagnak minősül a kedvezményezettel közös háztartásban együtt élő házastárs (élettárs) és gyermek. A családtag igényjogosultságát személyi igazolvánnyal és a jogosultságot megalapozó okmánnyal kell igazolni.
 
-(3)[^22] Az (1) bekezdés a), c) és d) pontjában meghatározott személyek a kedvezményre való jogosultságot – a Magyar Vakok és Gyengénlátók Országos Szövetségének arcképes igazolványával rendelkező személyek kivételével – a Magyar Államkincstár által kiadott sorszámozott igazolvánnyal igazolják. A kedvezmény érvényesítésekor a sorszámozott igazolvány mellé személyi igazolvány vagy egyéb személyazonosságot igazoló okmány felmutatása is megkövetelhető.
+(3)[^27] Az (1) bekezdés a), c) és d) pontjában meghatározott személyek a kedvezményre való jogosultságot – a Magyar Vakok és Gyengénlátók Országos Szövetségének arcképes igazolványával rendelkező személyek kivételével – a Magyar Államkincstár által kiadott sorszámozott igazolvánnyal igazolják. A kedvezmény érvényesítésekor a sorszámozott igazolvány mellé személyi igazolvány vagy egyéb személyazonosságot igazoló okmány felmutatása is megkövetelhető.
 
-[^19]: A 8. § (1) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 538. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^20]: A 8. § (1) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 538. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^21]: A 8. § (1) bekezdés g) pontja a 332/2010. (XII. 27.) Korm. rendelet 24. §-a szerint módosított szöveg.
-[^22]: A 8. § (3) bekezdését a 172/2010. (V. 13.) Korm. rendelet 1. §-a iktatta be.
+[^24]: A 8. § (1) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 538. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^25]: A 8. § (1) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 538. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: A 8. § (1) bekezdés g) pontja a 332/2010. (XII. 27.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^27]: A 8. § (3) bekezdését a 172/2010. (V. 13.) Korm. rendelet 1. §-a iktatta be.

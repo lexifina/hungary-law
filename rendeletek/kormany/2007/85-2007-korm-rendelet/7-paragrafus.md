@@ -4,9 +4,9 @@
 
 a) a költségvetési szervek és intézmények – beleértve az önkormányzati költségvetésből gazdálkodó szerveket is – közalkalmazotti vagy közszolgálati jogviszony, ideértve a bírói, az igazságügyi és az ügyészségi szolgálati viszonyt is, keretében foglalkoztatott, valamint a közigazgatási szerveknél ügykezelőként, illetve fizikai alkalmazottként foglalkoztatott (továbbfoglalkoztatott) dolgozója,
 
-b)[^17] az egyházi intézmények, a társadalmi szervezetek, továbbá az alapítványok azon dolgozója, aki az a) pontban hivatkozott személlyel azonos munkakört tölt be kórházakban, szociális szolgáltatókban, alsó-, közép- és felsőfokú nevelési, oktatási intézményekben.
+b)[^22] az egyházi intézmények, a társadalmi szervezetek, továbbá az alapítványok azon dolgozója, aki az a) pontban hivatkozott személlyel azonos munkakört tölt be kórházakban, szociális szolgáltatókban, alsó-, közép- és felsőfokú nevelési, oktatási intézményekben.
 
-(2)[^18] Az (1) bekezdés szerinti jogosultságot a munkahely útján igényelhető, a 2. melléklet szerinti utalvány alapján lehet megszerezni, ha a jogosult legalább egyéves – bármely munkáltatónál eltöltött – munkaviszonnyal rendelkezik. Az igényjogosultság alapjául szolgáló munkaviszony számításához a részidőket össze kell adni.
+(2)[^23] Az (1) bekezdés szerinti jogosultságot a munkahely útján igényelhető, a 2. melléklet szerinti utalvány alapján lehet megszerezni, ha a jogosult legalább egyéves – bármely munkáltatónál eltöltött – munkaviszonnyal rendelkezik. Az igényjogosultság alapjául szolgáló munkaviszony számításához a részidőket össze kell adni.
 
 (3) A 2. melléklet szerinti „Utazási utalvány”-t a munkáltató minden év március 31. napjáig az (1)–(2) bekezdés szerint jogosultak rendelkezésére bocsátja. Az utazási utalvány a rajta feltüntetett érvényességi idő kezdete előtt is felhasználható.
 
@@ -14,5 +14,5 @@ b)[^17] az egyházi intézmények, a társadalmi szervezetek, továbbá az alap�
 
 (5) Egy utazási alkalomnak tekintendő a kiindulási és a célállomás közötti egyirányú – közvetlen vagy átszállásos – utazás akkor is, ha az több közlekedési eszközzel történik. A kedvezmény kombinált (vasúton és autóbuszon történő) utazás esetén az utazás megkezdését követő nap 24. órájáig vehető igénybe.
 
-[^17]: A 7. § (1) bekezdésének b) pontja a Magyar Közlöny 2007. évi 65. számában megjelent helyesbítésnek megfelelő szöveg.
-[^18]: A 7. § (2) bekezdésének első mondata a Magyar Közlöny 2007. évi 65. számában megjelent helyesbítésnek megfelelő szöveg.
+[^22]: A 7. § (1) bekezdésének b) pontja a Magyar Közlöny 2007. évi 65. számában megjelent helyesbítésnek megfelelő szöveg.
+[^23]: A 7. § (2) bekezdésének első mondata a Magyar Közlöny 2007. évi 65. számában megjelent helyesbítésnek megfelelő szöveg.
