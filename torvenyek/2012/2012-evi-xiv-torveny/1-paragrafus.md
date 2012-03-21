@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és Georgia Kormánya között a jövedelem- és a vagyonadók területén a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról szóló, Budapesten, 2012. február 16. napján aláírt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
