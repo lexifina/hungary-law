@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-65-00-00
 | 2011-06-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-65-00-00.1 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2011-65-00-00.2 |
 | 2012-03-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-65-00-00.3 |
+| 2012-03-21 | 2010. évi CXXX. törvény | 2011-65-00-00.4 |
