@@ -4,30 +4,6 @@
 
 (2) A rendeletnek a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló, – 98/48/EK európai parlamenti és tanácsi irányelvvel, továbbá a 2006/96/EK tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelve szerinti bejelentése megtörtént.
 
-Melléklet a 23/2012. (III. 19.) VM rendelethez
+Melléklet a 23/2012. (III. 19.) VM rendelethez[^7]
 
-„6. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez
-
-GMO mentességre vonatkozó nyilatkozat
-
-A .............................................................................................................. (cégnév, székhely címe, telefonszám, e-mail, fax) igazolja, hogy a szántóföldi növényfajok vetőmagvainak előállításáról és forgalomba hozataláról szóló 48/2004. (IV. 21.) FVM rendelet
-
-□ 50/B. § (1) bekezdése
-
-□ 50/B. § (3) bekezdése*
-
-szerinti, .................................. fémzárszámú/fémzárolásra bejelentett**, ........................... mennyiségű kukorica/repce/szója** vetőmagtétel nem tartalmaz olyan természetes szervezetet, illetve nem áll olyan természetes szervezetből, amelyben a génállomány géntechnológiai módosítás által változott meg, ideértve ennek a szervezetnek a módosítás következtében kialakult tulajdonságot továbbvivő utódait is.
-
-Kelt: ............................................................ (hely), ................................................................................. (év/hónap/nap)
-
-_________________
-
-* A megfelelő x-szel jelölendő.
-
-** A megfelelő szöveget aláhúzással kell jelölni.
-
-....................................................................
-
-aláírás
-
-”
+[^7]: A melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
