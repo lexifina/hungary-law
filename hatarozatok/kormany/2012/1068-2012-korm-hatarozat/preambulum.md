@@ -1,0 +1,1 @@
+A Kormány a személyeknek és közösségeiknek más vagy mások javára a társadalmi szolidaritás jegyében végzett önkéntes tevékenységét elismerve, annak elősegítésére – építve és számítva az állami és az önkormányzati szervek, az egyházak, a helyi közösségek, a civil szervezetek együttműködésére – a következő határozatot hozza:
