@@ -1,1 +1,0 @@
-## „(8a) Az egyes biocidokkal és élelmiszerekkel összefüggő miniszteri rendeletek módosításáról szóló 15/2012. (III. 12.) NEFMI rendelettel (a továbbiakban: MódR.) megállapított (8) bekezdést a MódR. hatálybalépését követően megadott termékengedélyek esetében kell alkalmazni.”
