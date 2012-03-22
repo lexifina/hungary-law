@@ -1,8 +1,9 @@
-## lép.
+## 1–5. §[^1]
 
-6. § (1)[^1]
+6. § (1)[^2]
 
-(2)[^2]
+(2)[^3]
 
-[^1]: A 6. § (1) bekezdése a 7. § (2) bekezdése alapján 2012. május 1-jén lép hatályba.
-[^2]: A 6. § (2) bekezdése a 7. § (3) bekezdése alapján 2013. január 6-án lép hatályba.
+[^1]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6. § (1) bekezdése a 7. § (2) bekezdése alapján 2012. május 1-jén lép hatályba.
+[^3]: A 6. § (2) bekezdése a 7. § (3) bekezdése alapján 2013. január 6-án lép hatályba.
