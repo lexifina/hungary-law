@@ -50,4 +50,6 @@ Határidő: a 3. pont szerinti vagyonátadást követően azonnal
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
-6. Hatályát veszti a Magyar Mozgókép Közalapítvány megszüntetéséről szóló 1202/2011. (VI. 21.) Korm. határozat.
+6.[^2]
+
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
