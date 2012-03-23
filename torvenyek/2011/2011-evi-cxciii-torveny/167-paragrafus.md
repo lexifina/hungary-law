@@ -1,1 +1,1 @@
-167. §
+167. § A pénzügyi közvetítőrendszer stabilitásának erősítéséről szóló 2008. évi CIV. törvény 24. § (1) és (2) bekezdésében a „2011. december 31-ig” szövegrész helyébe a „2012. június 30-ig” szöveg lép.”
