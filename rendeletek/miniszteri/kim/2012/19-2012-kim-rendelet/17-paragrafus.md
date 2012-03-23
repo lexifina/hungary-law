@@ -1,0 +1,7 @@
+## 16. § A költségvetési támogatás kifizetésére hatályos támogatási szerződés alapján, kizárólag a kedvezményezett támogatási szerződésben meghatározott pénzforgalmi számlájára, vagy az Áht. 52. § (3) bekezdésének hatálya alá nem tartozó kedvezményezett esetében a kedvezményezett által megjelölt engedményes számlájára történő átutalással kerülhet sor.
+
+17. § (1) Ha e rendelet a támogatási előleg folyósítását kifejezetten nem zárja ki, az előirányzatok terhére támogatási előleg egy összegű vagy részletekben történő folyósítására a támogatási szerződés ilyen rendelkezése alapján kerülhet sor. A támogatási szerződés támogatási előleg folyósítását akkor teheti lehetővé, ha a költségvetési támogatás teljesítésarányos finanszírozása a támogatási cél megvalósítását nem teszi lehetővé.
+
+(2) Az egyházi célú fejezeti kezelésű előirányzatból nyújtott hitéleti működési támogatás kivételével, a támogatási előleg részletekben történő folyósítása esetén a fennmaradó, a támogatási szerződésben rögzített ütemezés szerinti költségvetési támogatás folyósításának feltétele a már folyósított költségvetési támogatási előleggel történő elszámolás.
+
+(3) A (2) bekezdés szerinti részelszámolási kötelezettség alól a kötelezettségvállaló különösen indokolt esetben – a kedvezményezett írásban előterjesztett kérelmére – felmentést adhat. Szükség esetén a támogatási szerződés megfelelő módosítását a kötelezettségvállaló köteles haladéktalanul kezdeményezni.

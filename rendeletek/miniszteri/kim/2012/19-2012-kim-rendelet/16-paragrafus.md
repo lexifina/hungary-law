@@ -1,0 +1,1 @@
+## 15. § Ha e rendelet eltérően nem rendelkezik a költségvetési támogatás igénybevétele időszakos vagy záró beszámolót követő, a kedvezményezett által benyújtott és a szakmai szervezeti egység által ellenőrzött és elfogadott elszámolások alapján utófinanszírozás formájában történhet.

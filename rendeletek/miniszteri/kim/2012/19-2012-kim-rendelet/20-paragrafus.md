@@ -1,0 +1,19 @@
+## 19. § A teljesítésigazoló figyelemmel kíséri a támogatási szerződés teljesítését és a kedvezményezett szerződésellenes eljárása esetén ennek tényét a kedvezményezettnek haladéktalanul jelzi, az eljárás körülményeit tisztázza, az ehhez szükséges egyeztetést a kedvezményezettel lefolytatja.
+
+20. § (1) A kedvezményezettnek a költségvetési támogatás rendeltetésszerű felhasználására vonatkozó beszámolójának
+
+a) pénzügyi elszámolás része
+
+aa) a költségvetési tervben szereplő tételek felhasználására vonatkozó összesítő kimutatást,
+
+ab) a költségvetési támogatás felhasználását igazoló számlák, számviteli bizonylatok eredeti példányának a (2) bekezdés szerint záradékolt és hitelesített másolatait a költségvetési terv szerinti bontásban,
+
+ac) készpénzkifizetés esetén a készpénzkiadás tényét igazoló számviteli bizonylatot, átutalással teljesített kifizetés esetén a pénzforgalmi számla terheléséről szóló banki igazolást vagy olyan kivonatot, amelyen a kifizetett számla összegét meg kell jelölni,
+
+ad) bérköltség elszámolása esetén a kifizetés pontos jogcímének megjelölését és a bérfizetést megalapozó jogviszony-igazolásokat,
+
+b) szakmai része a támogatott tevékenység megvalósításának igazolása tekintetében legalább a pályázati felhívásban, támogatási szerződésben meghatározott támogatott cél (projektek) főbb naturális mutatószámait, a pályázati felhívásban, támogatási szerződésben rögzített feladat vagy beruházás megvalósításának helyét és időpontját
+
+foglalja magában.
+
+(2) A beszámolóhoz felhasznált számlák, számviteli bizonylatok eredeti példányaira szövegszerűen fel kell vezetni a költségvetési támogatásból felhasznált összeget és a támogatási szerződés iktatószámát vagy nyilvántartási számát, és ezt követően a dokumentumról a beszámolóhoz csatolandó másolatot kell készíteni. A másolatra az eredeti irattal történő egyezőségre vonatkozó záradékot kell felvezetni és azt a kedvezményezett aláírásával hitelesíteni.
