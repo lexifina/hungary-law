@@ -1,0 +1,9 @@
+# 45/2012. (III. 20.) Korm. rendelet
+
+a közszolgálati tisztviselők személyi irataira, a közigazgatási szerveknél foglalkoztatott munkavállalók személyi irataira és a munkaügyi nyilvántartásra, a közszolgálati alapnyilvántartásra és közszolgálati statisztikai adatgyűjtésre, valamint a tartalékállományra vonatkozó egyes szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-45-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-03-23 | 2012-45-20-22.1 | 45/2012. (III. 20.) Korm. rendelet |
