@@ -1,1 +1,0 @@
-## 19. § A szerződés módosítását bármely fél – a támogatás célja, összege, az azt alátámasztó költségterv, továbbá a támogatás felhasználásának kezdő időpontja és véghatárideje tekintetében – az eredeti támogatási szerződésben a támogatás felhasználására vonatkozó véghatáridő lejáratának időpontja előtt írásban kezdeményezheti. A kezdeményezést indokolással kell ellátni.

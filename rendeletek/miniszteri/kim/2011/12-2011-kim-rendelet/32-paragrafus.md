@@ -1,5 +1,0 @@
-## 15. Nemzeti és kiemelt ünnepek, egyéb rendezvények, események támogatása (15/2/7)
-
-32. § (1) Az előirányzat biztosítja a nemzeti ünnepek, valamint a kiemelkedő fontosságú rendezvények előkészítésének és lebonyolításának rendjéről szóló 1137/2010. (VII. 1.) Korm. határozatban megjelölt állami és nemzeti ünnepek és az egyéb – országos jelentőségű – kiemelt ünnepek, események, évfordulók, világnapok méltó, a kormányprogramhoz kapcsolódó, az ország márkaképe építéséhez hozzájáruló szervezésének, lebonyolításának, a rendezvényekhez kapcsolódóan a lakosság széles körű és részletes tájékoztatásának, az ünnepi tájékoztató kiadványok összeállításának, kiadásának, a rendezvényekhez kapcsolódó sajtóesemények lebonyolításának és egyes nemzeti rendezvények lebonyolítását biztonsági szempontból felügyelő és irányító operatív törzs működési költségeinek forrását.
-
-(2) Az előirányzat felhasználása közvetlen módon, a feladat ellátásával megbízott kedvezményezett részére közhasznú tevékenység ellátása tárgyában keretszerződés, továbbá egyedi szerződések alapján történő kifizetéssel valósul meg.
