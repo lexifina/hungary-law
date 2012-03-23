@@ -1,1 +1,0 @@
-## 1. § E rendelet hatálya kiterjed a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet 15. Fejezeti kezelésű előirányzatok cím, 4. Határon túli magyarok programjainak támogatása alcíme alatti fejezeti kezelésű előirányzatokra (a továbbiakban: határon túli előirányzatok).
