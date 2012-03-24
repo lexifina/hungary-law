@@ -72,6 +72,6 @@
 
 ## Szerv hivatali szervezetének vezetőjének aláírása:
 
-8–12. melléklet a 45/2012. (III. 20.) Korm. rendelethez[^10]
+8–12. melléklet a 45/2012. (III. 20.) Korm. rendelethez[^12]
 
-[^10]: A 8–12. melléklet a 27. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
+[^12]: A 8–12. melléklet a 27. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.

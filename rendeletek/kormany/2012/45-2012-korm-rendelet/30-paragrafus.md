@@ -2,18 +2,16 @@
 
 ## 30. § Hatályát veszti
 
-a) a közszolgálati jogviszonnyal összefüggő adatkezelésre és a közszolgálati nyilvántartásra vonatkozó szabályokról szóló 233/2001. (XII. 10.) Korm. rendelet,
+a)–b)[^8]
 
-b) a köztisztviselők és a kormánytisztviselők tartalékállományba helyezéséről szóló 292/2010. (XII. 22.) Korm. rendelet,
+c)[^9]
 
-c)[^8]
+d)[^10]
 
-d)[^9]
-
-e) a közszolgálati nyilvántartás egyes kérdéseiről szóló 7/2002. (III. 12.) BM rendelet,
-
-f) az egyes központi államigazgatási szervek személyügyi nyilvántartási és integrált emberi erőforrás-gazdálkodási rendszeréről szóló 335/2010. (XII. 27.) Korm. rendelet melléklete.
+e)–f)[^11]
 
 [^7]: A 29. § a 27. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
-[^8]: A 30. § c) pontja a 27. § (4) bekezdése alapján 2012. december 31-én lép hatályba.
-[^9]: A 30. § d) pontja a 27. § (3) bekezdése alapján 2012. szeptember 2-án lép hatályba.
+[^8]: A 30. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 30. § c) pontja a 27. § (4) bekezdése alapján 2012. december 31-én lép hatályba.
+[^10]: A 30. § d) pontja a 27. § (3) bekezdése alapján 2012. szeptember 2-án lép hatályba.
+[^11]: A 30. § e)–f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
