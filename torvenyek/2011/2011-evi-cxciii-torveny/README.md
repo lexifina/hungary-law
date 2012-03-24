@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-193-00-00
 | 2012-02-02 | 2010. évi CXXX. törvény | 2011-193-00-00.9 |
 | 2012-03-01 | 2010. évi CXXX. törvény | 2011-193-00-00.10 |
 | 2012-03-23 | 2/2012. (V. 22.) NGM határozat | 2011-193-00-00.11 |
+| 2012-03-24 | 2010. évi CXXX. törvény | 2011-193-00-00.12 |
