@@ -1,1 +1,9 @@
 ## 3. § A zöldség-gyümölcs termelői csoportok a tanácsi rendelet 103a. cikk (1) bekezdés a) pontja szerinti támogatást vehetnek igénybe a tanácsi rendelet 103a. cikk (3) bekezdésében, valamint a gyümölcs- és zöldségágazatban a 2200/96/EK, a 2201/96/EK és az 1182/2007/EK rendeletre vonatkozó végrehajtási szabályok megállapításáról szóló, 2007. december 21-i 1580/2007/EK bizottsági rendelet (a továbbiakban: bizottsági rendelet) 45. cikkében foglaltaknak megfelelően.
+
+4. §[^2] (1) A zöldség-gyümölcs termelői csoportok a tanácsi rendelet 103a. cikk (1) bekezdés b) pontja szerinti támogatást vehetnek igénybe legfeljebb a bizottsági rendelet 49. cikk (2) bekezdésében meghatározott mértékig a bizottsági rendelet 46. cikkében foglaltaknak megfelelően, figyelemmel a strukturális alapokból a „konvergencia” célkitűzés alapján 2007–2013 között nyújtott támogatásra jogosult régiók jegyzékének felállításáról szóló 2006. augusztus 4-i 2006/595/EK bizottsági határozatra, valamint a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) 9. § a) pontjára.
+
+(2) A bizottsági rendelet 49. cikk (2) bekezdés a) és b) pontjában hivatkozott támogatási mértéket a zöldség-gyümölcs termelői csoport székhelyére figyelemmel kell megállapítani.
+
+(3) A közbeszerzésekről szóló 2011. évi CVIII. törvény 5. §-ában és 6. § (1) bekezdésének g) pontjában foglaltakra figyelemmel ajánlatkérőnek minősül az a zöldség-gyümölcs termelői csoport, amely a bizottsági rendelet 39. cikk c) pontja szerinti beruházás megvalósítása érdekében szükséges szerződését a bizottsági rendelet 47. cikke szerinti támogatási kérelemre vonatkozó – a bizottsági rendelet 114. cikk alapján hozott – döntést követően köti meg.
+
+[^2]: A 4. § a 28/2012. (III. 24.) VM rendelet 2. §-ával megállapított szöveg.
