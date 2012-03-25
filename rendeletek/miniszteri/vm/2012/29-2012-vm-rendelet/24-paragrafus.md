@@ -1,0 +1,3 @@
+## „21. § E rendeletnek az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások 2012. évi igénybevételével kapcsolatos egységes eljárási szabályokról szóló 29/2012. (III. 24.) VM rendelettel megállapított 16. § (1) és (2) bekezdését a 2012. március 1-jétől benyújtott átírási kérelmekre is alkalmazni kell.”
+
+24. § Hatályát veszti az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások 2011. évi igénybevételével kapcsolatos egységes eljárási szabályokról szóló 22/2011. (III. 25.) VM rendelet.

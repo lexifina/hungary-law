@@ -1,0 +1,5 @@
+## 13. Állandó legelőként hasznosított földterületek fenntartása
+
+19. § (1) Ha az egyes támogatási jogcímekre vonatkozó jogszabály az állandó legelőterület csökkentésével összefüggésben az érintett területekre vonatkozóan külön engedélyezési, bejelentési kötelezettséget ír elő vagy jogkövetkezmény alkalmazását rendeli el, akkor azok a MePAR, valamint a támogatási kérelmek nyilvántartási rendszerének az adott földterületre vonatkozó adatai alapján meghatározott állapot figyelembevételével kerülnek meghatározásra.
+
+(2) Az 1122/2009/EK bizottsági rendelet 3. cikk (2) bekezdése szerint meghatározott referenciaarány (0,0264) biztosítása érdekében az egységes kérelemben az ügyfél az erre a célra fenntartott hasznosítási kóddal nyilatkozik az általa bejelentett terület vonatkozásában állandó legelőként hasznosított földterület nagyságáról és az 1122/2009/EK bizottsági rendelet 13. cikk (8) bekezdésében foglaltaknak megfelelően hasznosított egyéb, bejelentési kötelezettséggel érintett területekről. A bejelentési kötelezettség elmulasztásából eredő jogkövetkezményekre az 1122/2009/EK bizottsági rendelet 55. cikk (1) és (2) bekezdését kell alkalmazni.
