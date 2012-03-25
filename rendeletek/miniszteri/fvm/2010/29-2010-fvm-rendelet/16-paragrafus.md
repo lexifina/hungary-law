@@ -1,18 +1,14 @@
-16. §[^22] (1) A zöldség-, gyümölcstermelő az átruházás évében aktivált területhez kapcsolódó szerkezetátalakítási támogatási jogosultságát
+16. §[^22] (1)[^23] A zöldség-, illetve gyümölcs szerkezetátalakítási támogatási jogosultság
 
-a) részben, vagy egészben kizárólag a szerkezetátalakítási programba bejelentkezett bármely zöldség-, gyümölcstermelőre, vagy
+a) részben, vagy egészben kizárólag a szerkezetátalakítási programba bejelentkezett zöldség-, gyümölcstermelőre, vagy
 
-b) kizárólag a gazdaság átadási támogatást igénybe vevő termelő által bármely, a gazdaságot átvevő személyre
+b) gazdaságátadási támogatást igénybe vevő termelő által bármely, a gazdaságot átvevő személyre ruházható át.
 
-ruházhatja át.
+(2)[^24] A Virginia, illetve a Burley dohány szerkezetátalakítási támogatási jogosultság
 
-(2) A Virginia, a Burley dohány szerkezetátalakítási támogatási jogosultság
+a) részben, vagy egészben kizárólag a szerkezetátalakítási programba bejelentkezett Virginia, Burley dohánytermelőre, vagy
 
-a) részben, vagy egészben kizárólag szerkezetátalakítási programba bejelentkezett Virginia, Burley dohánytermelőre, vagy
-
-b) kizárólag a gazdaság átadási támogatást igénybe vevő termelő által bármely, a gazdaságot átvevő személyre
-
-ruházható át.
+b) gazdaságátadási támogatást igénybe vevő termelő által bármely, a gazdaságot átvevő személyre ruházható át.
 
 (3) A szerkezetátalakítási támogatási jogosultság átruházása esetén a nyilvántartásban történő átvezetés iránti kérelmet az MVH által rendszeresített és az MVH honlapján közzétett nyomtatványon kell benyújtani, amelyhez csatolni szükséges az átruházás tényét igazoló közokiratot vagy teljes bizonyító erejű magánokiratot.
 
@@ -43,3 +39,5 @@ d) azt a személyt, akire vagy amelyre gazdaságátadási támogatást igénybev
 (12) A (10) és (11) bekezdésében foglaltak alól kivételt képez, ha az átruházást követően öröklés vagy jogutódlás útján, vagy gazdaságátadási támogatási igénybe vevő termelőtől átruházás útján kerül a termelő a tulajdonába a szerkezetátalakítási támogatási jogosultság.
 
 [^22]: A 16. § a 4/2012. (II. 7.) VM rendelet 11. §-ával megállapított szöveg.
+[^23]: A 16. § (1) bekezdése a 29/2012. (III. 24.) VM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^24]: A 16. § (2) bekezdése a 29/2012. (III. 24.) VM rendelet 23. § (1) bekezdésével megállapított szöveg.
