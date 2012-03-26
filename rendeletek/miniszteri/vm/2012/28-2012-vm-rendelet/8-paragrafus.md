@@ -1,3 +1,0 @@
-## 7. § Az R. a következő 9/A. §-sal egészül ki:
-
-## „9/A. § A támogatási kérelem bírálata során az MVH a bizottsági rendelet 114. cikk (2) bekezdésében hivatkozott ellenőrzést a bizottsági rendelet 102. cikkében hivatkozott, rendszeres időközönként végzett mintavétel alapján végzi úgy, hogy a kiválasztott minta az igényelt támogatási összeg vonatkozásában megfeleljen a bizottsági rendelet 114. cikk (3) bekezdésében meghatározott mértéknek. A mintavételnél alkalmazott kockázatelemzés során az MVH figyelembe veszi az egy kérelemben szereplő támogatási igényt, valamint a kérelmezőnél a korábbi kérelmek ellenőrzése során feltárt, vagy más hatóságok által megállapított, és az MVH tudomására jutott szabálytalanságok típusát és mértékét.”
