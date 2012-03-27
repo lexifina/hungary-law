@@ -1,0 +1,3 @@
+5. § (1) A több települést ellátó ivóvízmű, illetve csatornamű esetén a pályázatot – településenkénti bontásban és településenként összesítve – gesztor önkormányzat nyújthatja be. A gesztor önkormányzatot a pályázatban résztvevő önkormányzatok – megegyezés alapján – maguk jelölik ki, és az 1. melléklet szerinti 6. nyilatkozatban meghatalmazzák a támogatás igénylésének benyújtására és a pályázattal kapcsolatos technikai teendők lebonyolítására.
+
+(2) A több megyében szolgáltatást végző szolgáltató esetében a pályázatot a gesztor önkormányzat székhelye szerint illetékes Igazgatóságon keresztül kell benyújtani, megyénkénti bontásban és összesítve is.
