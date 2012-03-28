@@ -1,4 +1,4 @@
-## 5. §[^4]
+## 5. §[^5]
 
 ## 6. § Az MVH a Magyar Tejgazdasági Kísérleti Intézet Kft. szakértői közreműködését veheti igénybe az alábbi feladatai végrehajtása során:
 
@@ -26,22 +26,22 @@ k) a vaj-, tejszín- és sovány tejpor-előállító üzemek intervenciós jóv
 
 l) az Európai Unió élelmiszersegély programjába bevont tejtermékekkel kapcsolatos minőségi vizsgálatok;
 
-m)[^5] a tejkvóta-nyilvántartás működtetéséhez kapcsolódó kérelmek és egyéb dokumentumok érkeztetése, iktatása, adatrögzítése és az ügyiratok MVH felé történő továbbítása;
+m)[^6] a tejkvóta-nyilvántartás működtetéséhez kapcsolódó kérelmek és egyéb dokumentumok érkeztetése, iktatása, adatrögzítése és az ügyiratok MVH felé történő továbbítása;
 
-n)[^6] a tejfelvásárlók éves és havi jelentéseinek, valamint a tejtermelők éves jelentéseinek feldolgozása;
+n)[^7] a tejfelvásárlók éves és havi jelentéseinek, valamint a tejtermelők éves jelentéseinek feldolgozása;
 
-o)[^7] a tejfelvásárlókhoz beszállító tejtermelőknek az új kvótaévben rendelkezésre álló kvótamennyiséget tartalmazó kimutatás megküldése;
+o)[^8] a tejfelvásárlókhoz beszállító tejtermelőknek az új kvótaévben rendelkezésre álló kvótamennyiséget tartalmazó kimutatás megküldése;
 
-p)[^8] a jóváhagyott felvásárlók által jelentett, szerződött tejtermelők személyében történő változások ellenőrzése, majd átvezetése a tejkvóta-nyilvántartásban;
+p)[^9] a jóváhagyott felvásárlók által jelentett, szerződött tejtermelők személyében történő változások ellenőrzése, majd átvezetése a tejkvóta-nyilvántartásban;
 
-q)[^9] az ügyfélszolgálati teendők;
+q)[^10] az ügyfélszolgálati teendők;
 
-r)[^10] a tejtermelőket és tejfelvásárlókat érintő, illetve a tejkvóta-nyilvántartással összefüggő helyszíni ellenőrzés.
+r)[^11] a tejtermelőket és tejfelvásárlókat érintő, illetve a tejkvóta-nyilvántartással összefüggő helyszíni ellenőrzés.
 
-[^4]: Az 5. §-t a 82/2011. (VIII. 31.) VM rendelet 3. §-a hatályon kívül helyezte.
-[^5]: A 6. § m) pontját a 82/2011. (VIII. 31.) VM rendelet 1. §-a iktatta be.
-[^6]: A 6. § n) pontját a 82/2011. (VIII. 31.) VM rendelet 1. §-a iktatta be.
-[^7]: A 6. § o) pontját a 82/2011. (VIII. 31.) VM rendelet 1. §-a iktatta be.
-[^8]: A 6. § p) pontját a 82/2011. (VIII. 31.) VM rendelet 1. §-a iktatta be.
-[^9]: A 6. § q) pontját a 82/2011. (VIII. 31.) VM rendelet 1. §-a iktatta be.
-[^10]: A 6. § r) pontját a 82/2011. (VIII. 31.) VM rendelet 1. §-a iktatta be.
+[^5]: Az 5. §-t a 82/2011. (VIII. 31.) VM rendelet 3. §-a hatályon kívül helyezte.
+[^6]: A 6. § m) pontját a 82/2011. (VIII. 31.) VM rendelet 1. §-a iktatta be.
+[^7]: A 6. § n) pontját a 82/2011. (VIII. 31.) VM rendelet 1. §-a iktatta be.
+[^8]: A 6. § o) pontját a 82/2011. (VIII. 31.) VM rendelet 1. §-a iktatta be.
+[^9]: A 6. § p) pontját a 82/2011. (VIII. 31.) VM rendelet 1. §-a iktatta be.
+[^10]: A 6. § q) pontját a 82/2011. (VIII. 31.) VM rendelet 1. §-a iktatta be.
+[^11]: A 6. § r) pontját a 82/2011. (VIII. 31.) VM rendelet 1. §-a iktatta be.
