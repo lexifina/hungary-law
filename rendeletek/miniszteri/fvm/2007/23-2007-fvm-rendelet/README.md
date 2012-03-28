@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-23-20-8
 | 2011-12-22 | 2007-23-20-82.26 | 124/2011. (XII. 21.) VM rendelet |
 | 2012-01-01 | 2007-23-20-82.27 | 124/2011. (XII. 21.) VM rendelet |
 | 2012-02-11 | 2007-23-20-82.28 | 5/2012. (II. 10.) VM rendelet |
+| 2012-03-28 | 2007-23-20-82.29 | 25/2012. (III. 20.) VM rendelet |
