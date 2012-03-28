@@ -8,6 +8,12 @@
 
 (4) Árverés útján történő értékesítés esetén az árverési hirdetményben az árverés szervezője, a kereskedő (bizományos, végrehajtó) köteles a védettség tényéről és annak jogkövetkezményeiről tájékoztatást adni, és az árverés időpontja előtt legkésőbb 15 nappal a Hivatalt értesíteni. Amennyiben a Hivatal képviselője élni kíván az állam elővásárlási jogával, az árverésen a leütés után haladéktalanul köteles nyilatkozni.
 
-(5) Az elővásárlási jog alapján állami tulajdonba került kulturális javak kezelésére a Kincstári Vagyoni Igazgatóság a Hivatal által javasolt közgyűjteménnyel köt szerződést.
+(5)[^62] Az elővásárlási jog alapján állami tulajdonba került kulturális javak vagyonkezelésére a tulajdonosi joggyakorló szervezet a Hivatal által javasolt, vagyonkezelésre jogosult közgyűjteménnyel köt szerződést.
 
-(6) Az elővásárlási jog alapján állami tulajdonba került védett ingatlanok vagyonkezelőjének kijelöléséről a Kincstári Vagyoni Igazgatóság gondoskodik.
+(6)[^63] Az elővásárlási jog alapján állami tulajdonba került védett ingatlanok vagyonkezelésbe adásáról a tulajdonosi joggyakorló szervezet gondoskodik.
+
+(7)[^64] Az ingatlanra vonatkozó elővásárlási jog gyakorlása kérdésében a Hivatal kikéri a szakigazgatási szerv véleményét.
+
+[^62]: A 22. § (5) bekezdése a 16/2012. (III. 20.) NEFMI rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^63]: A 22. § (6) bekezdése a 16/2012. (III. 20.) NEFMI rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^64]: A 22. § (7) bekezdését a 16/2012. (III. 20.) NEFMI rendelet 1. § (10) bekezdése iktatta be.

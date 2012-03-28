@@ -1,6 +1,6 @@
 ## [A Tv. 63. §-a (2) bekezdésének c) és e) pontjaihoz]
 
-9. § (1) A Tv. 63. § (2) bekezdésének c) és e) pontjai alapján, műemlék ingatlanon az építési engedély nélkül végezhető beavatkozások közül a Hivatal örökségvédelmi hatósági engedélyét kell kérni a következőkhöz:
+9. § (1)[^22] A Tv. 63. § (2) bekezdésének c) és e) pontjai alapján, műemlék ingatlanon az építési engedély nélkül végezhető beavatkozások közül a hatóság örökségvédelmi hatósági engedélyét kell kérni a következőkhöz:
 
 a) tetőszerkezet felújítása, helyreállítása, átalakítása,
 
@@ -56,7 +56,7 @@ d) homlokzat felújítás és utólagos falszigetelés esetén a faldiagnosztika
 
 (4) A tényállás tisztázása érdekében az engedélyezési eljárás során helyszíni szemlét kell tartani.
 
-(5) A tervezett beavatkozás mértékétől és jellegétől függően a Hivatal az engedély iránti kérelemhez egyéb mellékleteket is előírhat, így különösen
+(5)[^23] A tervezett beavatkozás mértékétől és jellegétől függően a hatóság az engedély iránti kérelemhez egyéb mellékleteket is előírhat, így különösen
 
 a) helyszíni építéstörténeti kutatás elvégzését,
 
@@ -64,16 +64,19 @@ b) az ingatlan építéstörténetére vonatkozó adatok beszerzését,
 
 c) épületdiagnosztikai kutatás elvégzését,
 
-d)[^14] örökségvédelmi hatástanulmányt,
+d)[^24] örökségvédelmi hatástanulmányt,
 
-e)[^15] beruházói nyilatkozatot arról, hogy a tervezett beruházás a nagyberuházások körébe tartozik-e.
+e)[^25] beruházói nyilatkozatot arról, hogy a tervezett beruházás a nagyberuházások körébe tartozik-e.
 
-(6) Az engedély megtagadása vonatkozásában az 5. § (3)–(4) bekezdéseit kell megfelelően alkalmazni.
+(6)[^26] A kérelem elutasítása vonatkozásában az 5. § (3)–(4) bekezdéseit kell megfelelően alkalmazni.
 
-(7)[^16] A Hivatal engedélye az erről szóló határozatának végrehajthatóvá válásától számított 1 év után hatályát veszti, kivéve, ha az engedélyezett tevékenységet megkezdték és 2 éven belül a 9. § (8) bekezdésében foglaltak szerinti bejelentés megtörtént.
+(7)[^27] A hatóság engedélye az erről szóló határozatának végrehajthatóvá válásától számított 1 év után hatályát veszti, kivéve, ha az engedélyezett tevékenységet megkezdték és 2 éven belül a 9. § (8) bekezdésében foglaltak szerinti bejelentés megtörtént.
 
 (8) Az engedélyezett munkák befejezése vonatkozásában az 5. § (7) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
-[^14]: A 9. § (5) bekezdésének d) pontját a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdése e) pontjának ec) alpontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.
-[^15]: A 9. § (5) bekezdésének e) pontját a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdése e) pontjának ec) alpontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.
-[^16]: A 9. § (7) bekezdése a 19/2010. (IV. 23.) OKM rendelet 6. § (4) bekezdése szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^22]: A 9. § (1) bekezdés nyitó szövegrésze a 16/2012. (III. 20.) NEFMI rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^23]: A 9. § (5) bekezdés nyitó szövegrésze a 16/2012. (III. 20.) NEFMI rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^24]: A 9. § (5) bekezdésének d) pontját a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdése e) pontjának ec) alpontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.
+[^25]: A 9. § (5) bekezdésének e) pontját a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdése e) pontjának ec) alpontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.
+[^26]: A 9. § (6) bekezdése a 16/2012. (III. 20.) NEFMI rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^27]: A 9. § (7) bekezdése a 19/2010. (IV. 23.) OKM rendelet 6. § (4) bekezdése, a 16/2012. (III. 20.) NEFMI rendelet 1. § (11) bekezdése szerint módosított szöveg.

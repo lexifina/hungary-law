@@ -8,7 +8,7 @@ c) kutatási terv: védett építményen tervezett roncsolásos vizsgálat enged
 
 d) kutatási dokumentáció: egy objektum roncsolásos vizsgálatát lezáró dokumentáció, amelynek tartalmaznia kell az épületkutatás leírását; a kutatási eredmények összefoglalását; a kutatás rajzi és fényképes dokumentálását; helyreállítási, illetve restaurálási javaslatot, a felhasznált szakirodalmat, a történeti forrásokat és ezek feldolgozását;
 
-e)[^7] reklám: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény (a továbbiakban: Rtv.) 3. § d) pontjában meghatározott reklám, továbbá az építmény (helyiség) rendeltetésére, tulajdonosára vonatkozó, közterületről látható feliratot, ábrát vagy figurát tartalmazó felület, önállóan szerelt épülettartozék (cégér), a pártok választásokon való részvételének, jelöltjének támogatására felszólító politikai, valamint társadalmi célú hirdetés,
+e)[^3] reklám: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény (a továbbiakban: Rtv.) 3. § d) pontjában meghatározott reklám, továbbá az építmény (helyiség) rendeltetésére, tulajdonosára vonatkozó, közterületről látható feliratot, ábrát vagy figurát tartalmazó felület, önállóan szerelt épülettartozék (cégér), a pártok választásokon való részvételének, jelöltjének támogatására felszólító politikai, valamint társadalmi célú hirdetés,
 
 f) reklámhordozó: reklám közzététele céljából építményen vagy azon kívül elhelyezett eszköz;
 
@@ -16,4 +16,4 @@ g) restaurálás: műemlékeken, azok tartozékaként védett képző- és iparm
 
 h) részleges bontás: az építési, kivitelezési tevékenységgel összefüggésben végzett szükségszerű bontási munkák kivételével minden olyan szerkezetet-teherhordószerkezetet érintő átalakítás, amely a védett építmény alapterületének végleges csökkenéséhez, egyes részeinek megsemmisüléséhez vezet, feltéve, hogy az nem jár a védetté nyilvánítást megalapozó műemléki érték jelentős sérelmével.
 
-[^7]: A 3. § e) pontja a 19/2010. (IV. 23.) OKM rendelet 5. § (5) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^3]: A 3. § e) pontja a 19/2010. (IV. 23.) OKM rendelet 5. § (5) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.

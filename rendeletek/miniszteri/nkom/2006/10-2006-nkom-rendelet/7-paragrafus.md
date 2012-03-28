@@ -1,8 +1,8 @@
 ## [A Tv. 63. §-a (1) bekezdésének b) pontjához]
 
-7. § (1) A Tv. 63. § (1) bekezdésének b) pontja szerinti, műemlék ingatlant érintő telekalakítási ügyekben a Hivatal az Étv. és a telekalakításról szóló 85/2000. (XI. 8.) FVM rendelet alapján jár el.
+7. § (1)[^13] A műemlék ingatlant érintő telekalakítási ügyekben a hatóság az Étv., a Korm. r. és a telekalakításról szóló miniszteri rendelet alapján jár el.
 
-(2) A Hivatal a telekalakítást megtagadhatja, ha
+(2)[^14] A hatóság a telekalakítási engedély iránti kérelmet elutasíthatja, ha
 
 a) a tervezett telekfelosztás és telekhatár-rendezés nem veszi figyelembe a történeti településszerkezetet, a történeti utcavonalat;
 
@@ -11,3 +11,6 @@ b) a tervezett telekfelosztás a műemlékhez tartozó eredeti ingatlanterület 
 (3) A telekalakítási eljárások során törekedni kell a történeti településszerkezet sajátosságainak megőrzésére, a korábban történetileg összetartozó, illetőleg részben védett ingatlanrészek újraegyesítésére.
 
 (4) A telekalakítási eljárás a védettség hatályát nem érinti, valamennyi létrejövő ingatlanra, amelyre az eljárás megindításakor műemléki védelem vonatkozott, a védelem továbbra is fennáll.
+
+[^13]: A 7. § (1) bekezdése a 16/2012. (III. 20.) NEFMI rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^14]: A 7. § (2) bekezdés nyitó szövegrésze a 16/2012. (III. 20.) NEFMI rendelet 1. § (11) bekezdése szerint módosított szöveg.
