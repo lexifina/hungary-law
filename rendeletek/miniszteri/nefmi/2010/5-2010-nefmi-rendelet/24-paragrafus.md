@@ -1,4 +1,4 @@
-## 23. § A beruházással érintett régészeti lelőhelyeken – a 14. § esetleges alkalmazása esetén szükség szerint – megelőző feltárást kell végezni és a beruházás további, földmunkával érintett részein mind az előkészítő munkálatok, mind a kivitelezés tekintetében régészeti megfigyelést kell biztosítani.
+## 23. §[^20] A beruházással érintett régészeti lelőhelyeken – a 15. § esetleges alkalmazása esetén szükség szerint – megelőző feltárást kell végezni és a beruházás további, földmunkával érintett részein mind az előkészítő munkálatok, mind a kivitelezés tekintetében régészeti megfigyelést kell biztosítani.
 
 24. § (1) A Magyar Nemzeti Múzeum a nagyberuházásokhoz kapcsolódó megelőző régészeti feltárások esetében szakmai koordinációs, valamint központi adatnyilvántartó és adatszolgáltató tevékenységet lát el.
 
@@ -13,3 +13,5 @@ b) közreműködhet a megelőző feltárások szakmai kapacitásának biztosít�
 c) részt vehet a tudományos eredmények feldolgozásában, közzétételében és kiállításokon való bemutatásában,
 
 d) biztosítja a megelőző régészeti feltárásokhoz kapcsolódó központi kommunikációt.
+
+[^20]: A 23. § a 16/2012. (III. 20.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.

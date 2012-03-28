@@ -1,6 +1,6 @@
 ## 7. § Az engedélyes a feltárás vezetője útján köteles
 
-a) feltárás megkezdését a hatóság illetékes területi szervének és – amennyiben a feltárást egyéb feltárási jogosultsággal rendelkező intézmény végzi – a területileg illetékes megyei múzeumnak (a fővárosban a Budapesti Történeti Múzeum, a továbbiakban együtt: illetékes múzeum) bejelenteni, a régészeti munkavégzésre alkalmas munkaterületet átvenni, a feltárási munkálatokat a tudományos, műszaki és gazdaságossági követelményeknek megfelelően a legnagyobb gondossággal és az engedélyben rögzített feltételek betartásával irányítani,
+a)[^6] feltárás megkezdését a szakigazgatási szervnek és – amennyiben a feltárást egyéb feltárási jogosultsággal rendelkező intézmény végzi – a területileg illetékes megyei múzeumnak (a fővárosban a Budapesti Történeti Múzeum, a továbbiakban együtt: illetékes múzeum) bejelenteni, a régészeti munkavégzésre alkalmas munkaterületet átvenni, a feltárási munkálatokat a tudományos, műszaki és gazdaságossági követelményeknek megfelelően a legnagyobb gondossággal és az engedélyben rögzített feltételek betartásával irányítani,
 
 b) a feltárási naplót naprakészen, a munkálatokkal egy időben vezetni, munkaidőben a helyszínen őrizni,
 
@@ -17,3 +17,5 @@ g) a feltárási munkálatok szünetelése esetén a feltárt részek ideiglenes
 h) a feltárás leletanyagának restaurálásában közreműködni,
 
 i) a leletek elsődleges nyilvántartásba vételét elvégezni és gyűjteményi alapleltárba vételében közreműködni.
+
+[^6]: A 7. § a) pontja a 16/2012. (III. 20.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.

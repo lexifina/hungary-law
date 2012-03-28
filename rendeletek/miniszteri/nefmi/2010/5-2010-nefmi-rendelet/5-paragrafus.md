@@ -6,7 +6,7 @@ b) a feltárás vezetőjének nevét,
 
 c) a terület azonosításra alkalmas megjelölését, a feltárás pontos helyét,
 
-d)[^2] a feltárás jellegét és a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.). 7. § 6., 7., 12., 15., 18., 21. és 25. pontjaiban foglalt módját, várható időtartamát,
+d)[^3] a feltárás jellegét és a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.). 7. § 6., 7., 12., 15., 18., 21. és 25. pontjaiban foglalt módját, várható időtartamát,
 
 e) a leletanyagot befogadó muzeális intézmény nevét, székhelyének címét és
 
@@ -16,8 +16,10 @@ f) a feltárásra vonatkozó szakmai és jogszabályi követelményeket, feltét
 
 (3) A feltárás vezetőjének az egyes feltárási munkafolyamatok elvégzésében történő akadályoztatása esetén az engedélyes köteles a helyettesítésről, a 2. §-ában foglaltaknak megfelelően gondoskodni.
 
-(4) A hatóság a jogerős engedélyt megküldi a Magyar Nemzeti Múzeumnak is.
+(4)[^4] A szakigazgatási szerv a jogerős engedélyt megküldi a Magyar Nemzeti Múzeumnak is.
 
-(5) Az engedélyben meghatározottaktól eltérni csak a hatóság engedélyével lehet. A hatóság az eltérés engedélyezése során az eltérés tárgya által indokolt körben folytatja le az eljárást.
+(5)[^5] Az engedélyben meghatározottaktól eltérni csak a Kulturális Örökségvédelmi Hivatal (a továbbiakban: Hivatal) vagy a szakigazgatási szerv engedélyével lehet. A Hivatal és a szakigazgatási szerv (a továbbiakban együtt: hatóság) az eltérés engedélyezése során az eltérés tárgya által indokolt körben folytatja le az eljárást.
 
-[^2]: Az 5. § (1) bekezdés d) pontja a 14/2010. (XI. 25.) NEFMI rendelet 11. §-a szerint módosított szöveg. E módosító rendelet 8. §-a alapján a 2010. december 3-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: Az 5. § (1) bekezdés d) pontja a 14/2010. (XI. 25.) NEFMI rendelet 11. §-a szerint módosított szöveg. E módosító rendelet 8. §-a alapján a 2010. december 3-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: Az 5. § (4) bekezdése a 16/2012. (III. 20.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^5]: Az 5. § (5) bekezdése a 16/2012. (III. 20.) NEFMI rendelet 2. § (1) bekezdésével megállapított szöveg.

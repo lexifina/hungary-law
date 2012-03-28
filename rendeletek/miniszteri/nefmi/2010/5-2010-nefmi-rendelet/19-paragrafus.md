@@ -6,8 +6,8 @@
 
 (3) Amennyiben a beruházás bármilyen okból meghiúsul, vagy szünetelésének időtartama a feltárás felfüggesztésétől vagy befejezésétől számítva meghaladja az egy évet, akkor a beruházó köteles a feltárt részeknek, illetve a feltárt jelenségeknek a hatóság által előírt állagmegóvásáról, illetve az ingatlan korábbi használatának megfelelő állapotot helyreállító tereprendezési munkák elvégzéséről gondoskodni.
 
-(4)[^11] Ha a beruházás vagy a feltárás munkálatainak harminc napot meghaladó szünetelésére a feltárást végzőnek fel nem róható okból kerül sor, a feltárt részek ideiglenes állagmegóvásáról, biztonságáról, őrzéséről a feltárást végző intézmény a beruházó költségére köteles gondoskodni.
+(4)[^17] Ha a beruházás vagy a feltárás munkálatainak harminc napot meghaladó szünetelésére a feltárást végzőnek fel nem róható okból kerül sor, a feltárt részek ideiglenes állagmegóvásáról, biztonságáról, őrzéséről a feltárást végző intézmény a beruházó költségére köteles gondoskodni.
 
 (5) A feltárási naplóhoz csatolni kell a munkaterületnek a területátvétel idején meglevő állapotát rögzítő jegyzőkönyvet, illetve a feltárás befejezése után a területátadásról szóló jegyzőkönyvet. A területátvétel és a területátadás tényét a feltárási naplóban is rögzíteni kell.
 
-[^11]: A 19. § (4) bekezdése a 6/2011. (III. 8.) NEFMI rendelet 9. § j) pontja szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^17]: A 19. § (4) bekezdése a 6/2011. (III. 8.) NEFMI rendelet 9. § j) pontja szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
