@@ -32,7 +32,9 @@ o)[^6] vagyonkezelőként ellátja az m)–n) pont szerinti egészségügyi int�
 
 p)[^7] kidolgozza a fekvőbeteg-szakellátás, valamint a járóbeteg-szakellátás kapacitásai és ellátási területe felosztásának, módosításának, valamint a jogszabályban meghatározott egészségügyi szakellátási kapacitások felosztásának, módosításának módszertanát, külön jogszabályban foglaltak szerint részt vesz az ezekkel kapcsolatos eljárásokban,
 
-q)[^8] meghatározza a területi egészségügyi ellátás megszervezésének módszertanát, és irányítja annak megszervezését.
+q)[^8] meghatározza a területi egészségügyi ellátás megszervezésének módszertanát, és irányítja annak megszervezését,
+
+r)[^9] a fekvőbeteg szakellátást nyújtó intézmények részére történő gyógyszer-, orvostechnikai eszköz és fertőtlenítőszer beszerzések országos központosított rendszeréről szóló 46/2012. (III. 28.) Korm. rendeletben foglaltak szerint központi beszerző szervezetként jár el.
 
 [^3]: A 2. § a 3. § (2) bekezdése alapján 2011. május 1-jén lép hatályba.
 [^4]: A 2. § m) pontja a 372/2011. (XII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.
@@ -40,3 +42,4 @@ q)[^8] meghatározza a területi egészségügyi ellátás megszervezésének m�
 [^6]: A 2. § o) pontja a 372/2011. (XII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^7]: A 2. § p) pontja a 372/2011. (XII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^8]: A 2. § q) pontja a 372/2011. (XII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^9]: A 2. § r) pontját a 46/2012. (III. 28.) Korm. rendelet 12. §-a iktatta be. Alkalmazására lásd e módosító rendelet 10. §-át.

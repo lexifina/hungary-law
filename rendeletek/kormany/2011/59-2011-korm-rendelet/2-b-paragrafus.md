@@ -1,4 +1,4 @@
-2/B. §[^10] (1) A Kormány egészségügyi államigazgatási szervként a GYEMSZI-t jelöli ki az egészségügyről szóló 1997. évi CLIV. törvény
+2/B. §[^11] (1) A Kormány egészségügyi államigazgatási szervként a GYEMSZI-t jelöli ki az egészségügyről szóló 1997. évi CLIV. törvény
 
 a) 146. § (1) bekezdése,
 
@@ -16,4 +16,4 @@ c) 7. § (7) bekezdése,
 
 szerinti feladatok ellátására.
 
-[^10]: A 2/B. §-t a 258/2011. (XII. 7.) Korm. rendelet 43. § (4) bekezdése iktatta be.
+[^11]: A 2/B. §-t a 258/2011. (XII. 7.) Korm. rendelet 43. § (4) bekezdése iktatta be.
