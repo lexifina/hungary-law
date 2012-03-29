@@ -22,7 +22,7 @@
 
 | 10. |  | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Dabas Város Önkormányzata Hivatásos Tűzoltósága | Pest Megyei Katasztrófavédelmi Igazgatóság |
 
-2. melléklet a 156/2011. (VIII. 10.) Korm. rendelethez[^7]
+2. melléklet a 156/2011. (VIII. 10.) Korm. rendelethez[^8]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -62,4 +62,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 ”
 
-[^7]: A 2. melléklet a 265/2011. (XII. 13.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 63. §-a szerint módosított szöveg.
+[^8]: A 2. melléklet a 265/2011. (XII. 13.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 63. §-a szerint módosított szöveg.
