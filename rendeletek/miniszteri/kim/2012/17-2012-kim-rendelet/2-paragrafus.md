@@ -1,1 +1,0 @@
-## „4/C. § A központ végzi a helyi esélyegyenlőségi programmal kapcsolatos feladatai körében a helyi esélyegyenlőségi program elkészítésben részt vevők képzését, és esélyegyenlőségi mentori hálózatot működtet.”
