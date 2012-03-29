@@ -34,6 +34,8 @@ jön létre.
 
 (8) Ha a szolgáltató az előfizetői szerződésben a szolgáltatás nyújtásának megkezdésére meghatározott határidőt túllépi, akkor az előfizetői hozzáférési pont létesítését megelőzően az előfizető jogosult a szerződéstől hátrányos jogkövetkezmények nélkül elállni. Az előfizető elállása esetén a felek kötelesek egymással elszámolni, a szolgáltató köteles az adott szerződés alapján befizetett díjakat legfeljebb az elállást követő 30 napon belül visszatéríteni az előfizető számára, az előfizető pedig egyidejűleg köteles a szolgáltató által részére átadott eszközöket a szolgáltatónak átadni.
 
-(9) A távollévők között szóban megkötött szerződés esetén az előfizető a szerződés megkötésétől számított 5 napon belül hátrányos jogkövetkezmények nélkül elállhat a szerződéstől. Az előfizető elállási jogát nem gyakorolhatja, amennyiben a szolgáltató az előfizetői szerződésnek megfelelően a szolgáltatás nyújtását megkezdte.
+(9)[^1] A távollévők között szóban megkötött szerződés esetén az előfizető a szerződés megkötésétől számított 8 munkanapon belül hátrányos jogkövetkezmények nélkül elállhat a szerződéstől. Az előfizető elállási jogát nem gyakorolhatja, amennyiben a szolgáltató az előfizetői szerződésnek megfelelően a szolgáltatás nyújtását megkezdte.
 
 (10) Az Eht. 134. § (15) bekezdése szerinti jogkövetkezményt a szolgáltatásnyújtás megkezdésétől kell számítani.
+
+[^1]: Az 5. § (9) bekezdése a 9/2012. (III. 28.) NMHH rendelet 6. § (1) bekezdésével megállapított szöveg.
