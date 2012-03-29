@@ -34,7 +34,7 @@
 
 ## – Másolók és sokszorosítók
 
-## –[^85]
+## –[^90]
 
 ## – Irodatechnikai termékekhez kapcsolódó szolgáltatások
 
@@ -68,9 +68,9 @@
 
 ## – Gépjármű-flottaüzemeltetési szolgáltatások
 
-## –[^86] Új gépjárművekhez kapcsolódó szolgáltatások
+## –[^91] Új gépjárművekhez kapcsolódó szolgáltatások
 
-## –[^87]
+## –[^92]
 
 ## Gépjármű-üzemanyagok
 
@@ -82,38 +82,14 @@
 
 ## – Nemzetközi utazásszervezések
 
-## Egészségügyi termékek
-
-## – Tisztító hatású eszközfertőtlenítő szerek
-
-## – Röntgen-kontrasztanyagok
-
-## – Kötésrögzítő kötszerek
-
-## – Műtéti kötszerek
-
-## – Primer sebfedők
-
-## – Orvosi kesztyűk
-
-## – Infúziós és transzfúziós szerelékek
-
-## – Intravénás kanülök
-
-## – Egyszerhasználatos fecskendők
-
-## – Egyszerhasználatos injekciós tűk
-
-## – Zárt vérvételi rendszerek
-
-## Elektronikus közbeszerzési szolgáltatások[^88]
+## Elektronikus közbeszerzési szolgáltatások[^93]
 
 ## – elektronikus árlejtés szolgáltatás
 
-2. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^89]
+2. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^94]
 
-[^85]: Az 1. számú melléklet „Irodatechnikai berendezések és szolgáltatások” termékkör harmadik franciabekezdését a 33/2012. (III. 7.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
-[^86]: Az 1. számú melléklet „Gépjárművek” termékkör negyedik franciabekezdése a 33/2012. (III. 7.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^87]: Az 1. számú melléklet „Gépjárművek” termékkörének ötödik franciabekezdését a 360/2007. (XII. 23.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 33/2012. (III. 7.) Korm. rendelet 11. § b) pontja.
-[^88]: Az 1. számú melléklet „Elektronikus közbeszerzési szolgáltatások” termékkörét a 257/2007. (X. 4.) Korm. rendelet 27. § (2) bekezdésének b) pontja iktatta be. E módosító rendelet 27. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után megkezdett közbeszerzésekre [Kbt. 35. § (2) bekezdés], tervpályázatokra, illetőleg ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
-[^89]: A 2. számú mellékletet a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.
+[^90]: Az 1. számú melléklet „Irodatechnikai berendezések és szolgáltatások” termékkör harmadik franciabekezdését a 33/2012. (III. 7.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^91]: Az 1. számú melléklet „Gépjárművek” termékkör negyedik franciabekezdése a 33/2012. (III. 7.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^92]: Az 1. számú melléklet „Gépjárművek” termékkörének ötödik franciabekezdését a 360/2007. (XII. 23.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 33/2012. (III. 7.) Korm. rendelet 11. § b) pontja.
+[^93]: Az 1. számú melléklet „Elektronikus közbeszerzési szolgáltatások” termékkörét a 257/2007. (X. 4.) Korm. rendelet 27. § (2) bekezdésének b) pontja iktatta be. E módosító rendelet 27. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után megkezdett közbeszerzésekre [Kbt. 35. § (2) bekezdés], tervpályázatokra, illetőleg ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
+[^94]: A 2. számú mellékletet a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.

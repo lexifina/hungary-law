@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-168-20-
 | 2010-12-31 | 2004-168-20-22.14 | 338/2009. (XII. 29.) Korm. rendelet |
 | 2012-01-01 | 2004-168-20-22.15 | 196/2006. (IX. 27.) Korm. rendelet |
 | 2012-03-08 | 2004-168-20-22.16 | 33/2012. (III. 7.) Korm. rendelet |
+| 2012-03-29 | 2004-168-20-22.17 | 46/2012. (III. 28.) Korm. rendelet |
