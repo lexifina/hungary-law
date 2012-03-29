@@ -12,7 +12,9 @@ a) a használatba vételi engedélyt (bejelentést) megelőző tulajdon-átruhá
 
 b) ha ugyanabban az ingatlanban résztulajdonnal rendelkező tulajdonos szerez ellenérték fejében további tulajdonrészt;
 
-c) az épület (önálló rendeltetési egység, lakás) egy éves, vagy annál rövidebb idejű bérbeadása
+c) az épület (önálló rendeltetési egység, lakás) egy éves, vagy annál rövidebb idejű bérbeadása;
+
+d)[^5] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény hatálya alá tartozó tulajdonosváltás és bérbeadás
 
 ## esetén.
 
@@ -22,3 +24,4 @@ c) az épület (önálló rendeltetési egység, lakás) egy éves, vagy annál 
 
 [^3]: A 3. § (1) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 62. § (10) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
 [^4]: A 3. § (2) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 62. § (10) bekezdésének c) pontja szerint módosított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^5]: A 3. § (4) bekezdés d) pontját a 49/2012. (III. 28.) Korm. rendelet 1. §-a iktatta be.
