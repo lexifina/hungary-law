@@ -1,0 +1,9 @@
+## 3. Adatszolgáltatás
+
+3. § (1) A szolgáltatók által fizetendő felügyeleti díj összegének ellenőrizhetősége érdekében a szolgáltatók kötelesek a Hatóság számára minden év január 20-áig – a Hatóság erre irányuló külön felhívása vagy döntése nélkül – előzetes adatot szolgáltatni az előző évben az elektronikus hírközlési, illetve postai szolgáltatásokból származó éves nettó árbevételük (a továbbiakban: árbevétel) összegéről. A számvitelről szóló törvény hatálya alá nem tartozó szolgáltatók esetében az elektronikus hírközlési, illetve postai szolgáltatásokból származó árbevétel a szolgáltató adóbevallásában bevételként bevallott általános forgalmi adót nem tartalmazó összegnek az elektronikus hírközlési, illetve postai szolgáltatások ellenértékeként megszerzett része.
+
+(2) Azon szolgáltatók, amelyek az elektronikus hírközlési szolgáltatás minőségének az előfizetők és felhasználók védelmével összefüggő követelményeiről, valamint a díjazás hitelességéről szóló 13/2011. (XII. 27.) NMHH rendelet 9. § (2) bekezdése értelmében csökkentett mértékű felügyeleti díj megfizetésére jogosultak, az előzetes adatszolgáltatással együtt kötelesek a díjcsökkentés alapját képező számlamásolatot benyújtani.
+
+(3) Azon szolgáltatók, amelyek a tárgyévben kezdték meg elektronikus hírközlési vagy postai szolgáltatásaik nyújtását, a tárgyévet követő év február 15-éig kötelesek előzetes adatot szolgáltatni a Hatóság számára a tárgyévre vonatkozó árbevétel összegéről.
+
+(4) A szolgáltatók minden év június 30-áig – a Hatóság erre irányuló külön felhívása vagy döntése nélkül – kötelesek megküldeni a Hatóság számára a számvitelről szóló törvényben meghatározott beszámolón alapuló, illetve a számvitelről szóló törvény hatálya alá nem tartozó szolgáltatók esetében az adóbevalláson, adónyilvántartáson alapuló árbevétel, bevétel összegére vonatkozó adatokat.
