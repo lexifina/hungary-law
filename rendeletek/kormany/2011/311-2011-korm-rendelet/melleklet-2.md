@@ -20,7 +20,7 @@
 
 | 9. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapesti 1. számú Körzeti Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
 
-| 10. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 10. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -34,7 +34,7 @@
 
 | 16. | hajózási engedélyek, kikötő engedélyezése | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-2. melléklet a 311/2011. (XII. 23.) Korm. rendelethez[^4]
+2. melléklet a 311/2011. (XII. 23.) Korm. rendelethez[^7]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -64,7 +64,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 12. | a) termőföldvédelem | Budapesti 1. számú Körzeti Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
 
-| 13. | b) talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 13. | b) talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 14. | egészségügy | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -72,7 +72,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 16. | műszaki biztonság | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 17. | élelmiszer-egészségügy | Pest Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 17. | élelmiszer-egészségügy | Pest Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 18. | területrendezés | Budapest Főváros Kormányhivatala Építésügyi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
 
@@ -80,4 +80,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 20. | bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-[^4]: A 2. melléklet a 6. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 2. melléklet a 6. § (2) bekezdése, az 51/2012. (III. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
