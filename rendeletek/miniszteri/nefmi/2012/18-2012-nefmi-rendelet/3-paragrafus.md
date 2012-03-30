@@ -1,1 +1,0 @@
-## 2. § A „Minősített Közművelődési Intézmény Cím” és a „Közművelődési Minőség Díj” adományozásáról szóló 10/2010. (III. 11.) OKM rendelet 2. § (2) bekezdésében az „a Magyar Köztársaság hivatalos lapjában” szövegrész helyébe az „a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben” szöveg lép.

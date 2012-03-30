@@ -1,1 +1,0 @@
-## 1. § A helyi önkormányzatok könyvtári és közművelődési érdekeltségnövelő támogatásáról szóló 4/2004. (II. 20.) NKÖM rendelet 2. §-ában a „Magyar Köztársaság költségvetéséről szóló törvényben” szövegrész helyébe a „Magyarország központi költségvetéséről szóló törvényben” szöveg lép.
