@@ -1,0 +1,1 @@
+## „(2a) Az iratokat a táborozás szervezőjéhez – az általa megállapított határidőig – kell visszajuttatni. A nyilatkozatot legkésőbb a táborozás megkezdésekor a táborozás szervezőjének kell átadni. A nyilatkozatot a táborozás ideje alatt a tábor helyszínén kell tartani.”
