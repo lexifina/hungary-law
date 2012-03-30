@@ -138,7 +138,7 @@ b) A krónikus beteg, valamint a testi, szellemi, érzékszervi fogyatékos tanu
 
 c) A testi, érzékszervi, értelmi és beszédfogyatékosságot megállapító szakértői bizottság elé utalás esetén a bizottság részére a tanuló egészségi állapotára vonatkozó adatok közlése.
 
-d) Üdülés, táborozás előtti orvosi vizsgálatok elvégzése.
+d)[^18]
 
 e) Az átfogó gyermekfogászati program szervezésében való közreműködés és végrehajtásának ellenőrzése.
 
@@ -154,11 +154,11 @@ b) A testnevelési csoportbeosztás elkészítése, gyógytestneveléssel, testn
 
 a) Az iskolai életkorhoz kötött és kampányoltások elvégzése és dokumentálása.
 
-b)[^18] A járványügyi előírások betartásának ellenőrzése, fertőző megbetegedések esetén járványügyi intézkedések elrendelése, a megtett intézkedésekről a fővárosi és megyei kormányhivatal kistérségi népegészségügyi intézetének értesítése.
+b)[^19] A járványügyi előírások betartásának ellenőrzése, fertőző megbetegedések esetén járványügyi intézkedések elrendelése, a megtett intézkedésekről a fővárosi és megyei kormányhivatal kistérségi népegészségügyi intézetének értesítése.
 
 c) A nevelési-oktatási intézményben folyó étkeztetés ellenőrzése.
 
-d)[^19] Közegészségügyi-járványügyi hiányosságok észlelésekor javaslattétel a hibák megszüntetésére, valamint a fővárosi és megyei kormányhivatal kistérségi népegészségügyi intézetének értesítése.
+d)[^20] Közegészségügyi-járványügyi hiányosságok észlelésekor javaslattétel a hibák megszüntetésére, valamint a fővárosi és megyei kormányhivatal kistérségi népegészségügyi intézetének értesítése.
 
 4. Elsősegélynyújtás
 
@@ -178,10 +178,11 @@ a) Az intézményi környezet – tantermek, gyakorlati helyiségek, tornaterem,
 
 b) A tanulók gyakorlati oktatásával kapcsolatos munkahelyi körülmények figyelemmel kísérése.
 
-7. Az ellátott gyermekekről nyilvántartás vezetése, a külön jogszabályok szerinti jelentések elkészítése, valamint az elvégzett vizsgálatok, oltások dokumentálása külön jogszabály szerint az Egészségügyi Könyvben[^20].
+7. Az ellátott gyermekekről nyilvántartás vezetése, a külön jogszabályok szerinti jelentések elkészítése, valamint az elvégzett vizsgálatok, oltások dokumentálása külön jogszabály szerint az Egészségügyi Könyvben[^21].
 
 [^16]: A 2. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^17]: A 2. számú melléklet 1. pont a) alpontja a 19/2010. (IV. 22.) EüM rendelet 1. § (2) bekezdés a) pont aa) és ab) alpontja szerint módosított szöveg.
-[^18]: A 2. számú melléklet 3. pont b) alpontja a 10/2011. (III. 30.) NEFMI rendelet 4. § (2) bekezdése szerint módosított szöveg.
-[^19]: A 2. számú melléklet 3. pont d) alpontja a 10/2011. (III. 30.) NEFMI rendelet 4. § (2) bekezdése szerint módosított szöveg.
-[^20]: 2009. szeptember 1-je előtt született gyermekek esetében a Gyermek-egészségügyi kiskönyvben.
+[^18]: A 2. melléklet 1. pont d) alpontját a 19/2012. (III. 28.) NEFMI rendelet 6. §-a hatályon kívül helyezte.
+[^19]: A 2. számú melléklet 3. pont b) alpontja a 10/2011. (III. 30.) NEFMI rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^20]: A 2. számú melléklet 3. pont d) alpontja a 10/2011. (III. 30.) NEFMI rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^21]: 2009. szeptember 1-je előtt született gyermekek esetében a Gyermek-egészségügyi kiskönyvben.
