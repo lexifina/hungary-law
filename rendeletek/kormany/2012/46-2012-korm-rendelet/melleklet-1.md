@@ -1,29 +1,3 @@
-## „Egészségügyi termékek
-
-## – Tisztító hatású eszközfertőtlenítő szerek
-
-## – Röntgen-kontrasztanyagok
-
-## – Kötésrögzítő kötszerek
-
-## – Műtéti kötszerek
-
-## – Primer sebfedők
-
-## – Orvosi kesztyűk
-
-## – Infúziós és transzfúziós szerelékek
-
-## – Intravénás kanülök
-
-## – Egyszerhasználatos fecskendők
-
-## – Egyszerhasználatos injekciós tűk
-
-## – Zárt vérvételi rendszerek”
-
-## szövegrész.
-
 1. melléklet a 46/2012. (III. 28.) Korm. rendelethez
 
 Azon gyógyszerek és orvostechnikai eszközök, amelyek beszerzésére az 1. § (1) bekezdésében meghatározottakon túl az 1. § (3) bekezdése szerinti egyéb szervezetek is e rendelet szerint kötelesek eljárni:
