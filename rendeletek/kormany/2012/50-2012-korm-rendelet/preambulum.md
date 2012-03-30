@@ -1,1 +1,0 @@
-A Kormány az Alaptörvény 15. cikk (1) bekezdésében megállapított feladatkörében eljárva, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 90. § (5) bekezdés c) pontjában, továbbá a földmérési és térképészeti tevékenységről szóló 1996. évi LXXVI. törvény 29. § (5) bekezdés a) pontjában foglalt felhatalmazás alapján a következő rendeletet alkotja:
