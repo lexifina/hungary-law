@@ -1,3 +1,3 @@
-2. melléklet a 6/2012. (II. 14.) NEFMI rendelethez[^13]
+2. melléklet a 6/2012. (II. 14.) NEFMI rendelethez[^14]
 
-[^13]: A 2. melléklet a 10. § (2) bekezdése alapján 2012. március 31-én lép hatályba.
+[^14]: A 2. melléklet a 19/2012. (III. 28.) NEFMI rendelet 9. § (1) bekezdése alapján nem lép hatályba.
