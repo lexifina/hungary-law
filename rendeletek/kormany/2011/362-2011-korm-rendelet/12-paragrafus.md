@@ -2,9 +2,9 @@
 
 a) a 15. § (1) bekezdésben,
 
-b)[^9]
+b)[^13]
 
-c)[^10]
+c)[^14]
 
 ## foglaltakra való jogosultságot.
 
@@ -12,5 +12,5 @@ c)[^10]
 
 (3) Az igazolás – a 21. § (3) bekezdésben meghatározott igazolás kivételével – a kiállításától számított 60 napig érvényes.
 
-[^9]: A 12. § (1) bekezdés b) pontja a 41. § (2) bekezdése alapján 2012. augusztus 15-én lép hatályba.
-[^10]: A 12. § (1) bekezdés c) pontja a 41. § (2) bekezdése alapján 2012. augusztus 15-én lép hatályba.
+[^13]: A 12. § (1) bekezdés b) pontja a 41. § (2) bekezdése alapján 2012. augusztus 15-én lép hatályba.
+[^14]: A 12. § (1) bekezdés c) pontja a 41. § (2) bekezdése alapján 2012. augusztus 15-én lép hatályba.

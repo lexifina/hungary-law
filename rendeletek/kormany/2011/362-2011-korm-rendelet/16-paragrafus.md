@@ -18,6 +18,6 @@ b) az intézmény képviseletére jogosult személy hitelesíti az igénylést �
 
 (7) A diákigazolvány-igénylések csak abban az esetben tekinthetők érvényesnek, ha a közreműködő intézmény szerepel az adatkezelő által vezetett intézményi adatbázisban. A közreműködő intézményeket tartalmazó adatbázis módosítása az adatkezelő felé, az adatkezelő által meghatározott módon tett bejelentéssel lehetséges.
 
-(8)[^11]
+(8)[^15]
 
-[^11]: A 16. § (8) bekezdése a 41. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^15]: A 16. § (8) bekezdése a 41. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.

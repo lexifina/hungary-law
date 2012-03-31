@@ -8,6 +8,6 @@ c) a nem magyar oktatási intézménnyel tanulói, hallgatói jogviszonyban áll
 
 d) a 19. § (1) bekezdésében meghatározott jogosultak esetében a fogadó intézmény,
 
-e)[^4]
+e)[^8]
 
-[^4]: A 6. § e) a 41. § (2) bekezdése alapján 2012. augusztus 15-én lép hatályba.
+[^8]: A 6. § e) a 41. § (2) bekezdése alapján 2012. augusztus 15-én lép hatályba.

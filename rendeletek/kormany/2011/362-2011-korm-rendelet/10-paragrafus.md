@@ -8,8 +8,8 @@ a) az oktatási igazolványra jogosító jogviszony fennállásának ideje alatt
 
 b) az elveszett, megsemmisült, megrongálódott oktatási igazolvány helyett,
 
-c)[^7]
+c)[^11]
 
 (2) Amennyiben a közreműködő intézmény adataiban változás következik be, és ez a változás az oktatási igazolványokhoz kapcsolódó jogokat és kedvezményeket nem érinti, a jogosult nem köteles új oktatási igazolványt igényelni.
 
-[^7]: A 10. § (1) bekezdés c) pontja a 41. § (2) bekezdése alapján 2012. augusztus 15-én lép hatályba.
+[^11]: A 10. § (1) bekezdés c) pontja a 41. § (2) bekezdése alapján 2012. augusztus 15-én lép hatályba.

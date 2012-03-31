@@ -6,6 +6,6 @@
 
 (4) Egyidejűleg fennálló tanulói és hallgatói jogviszony esetén a közreműködő intézmények sorrendjét az oktatás, képzés munkarendje (nappali, esti, levelező, más sajátos, távoktatás) határozza meg.
 
-(5)[^8]
+(5)[^12]
 
-[^8]: A 11. § (5) bekezdése a 41. § (2) bekezdése alapján 2012. augusztus 15-én lép hatályba.
+[^12]: A 11. § (5) bekezdése a 41. § (2) bekezdése alapján 2012. augusztus 15-én lép hatályba.

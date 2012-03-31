@@ -2,7 +2,7 @@
 
 8. § (1) Az adatkezelő a közoktatásról szóló törvény 2. számú mellékletének
 
-a)[^5]
+a)[^9]
 
 b) A diákigazolvány
 
@@ -10,7 +10,7 @@ alcímeiben felsorolt adatokról a (3) bekezdésben meghatározott nyilvántart�
 
 (2) Az adatkezelő a felsőoktatásról szóló törvény
 
-a)[^6]
+a)[^10]
 
 b) 35. § (6)–(6d) bekezdésében
 
@@ -36,5 +36,5 @@ h) a 39. § alapján megfizetett díjakat,
 
 i) a közreműködő intézmény által a 12. § szerint kiadott igazoláson szereplő adatokat
 
-[^5]: A 8. § (1) bekezdés a) pontja a 41. § (2) bekezdése alapján 2012. augusztus 15-én lép hatályba.
-[^6]: A 8. § (2) bekezdés a) pontja a 41. § (2) bekezdése alapján 2012. augusztus 15-én lép hatályba.
+[^9]: A 8. § (1) bekezdés a) pontja a 41. § (2) bekezdése alapján 2012. augusztus 15-én lép hatályba.
+[^10]: A 8. § (2) bekezdés a) pontja a 41. § (2) bekezdése alapján 2012. augusztus 15-én lép hatályba.

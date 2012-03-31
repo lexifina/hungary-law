@@ -2,11 +2,11 @@
 
 34. § (1) Az oktatási igazolvány kiadására irányuló kérelem hiányosnak minősül abban az esetben, ha
 
-a) a KEK KH nyilvántartásában – a jogosultnak felróható okból – nem található az igénylés adataihoz hozzárendelhető érvényes fénykép vagy aláírás,
+a)[^26] a megszemélyesítéshez szükséges fénykép és aláírás nyilvántartásában – a jogosultnak felróható okból – nem található az igénylés adataihoz hozzárendelhető érvényes fénykép vagy aláírás,
 
 b) a közreműködő intézmény az oktatási igazolvány igazgatási szolgáltatási díját határidőben nem fizette meg,
 
-c)[^22]
+c)[^27]
 
 (2) Hiányos igénylés esetén az adatkezelő a hiány észlelésétől számított tizenöt napon belül elektronikus úton – megfelelő határidő tűzésével – felhívja a fizetésre kötelezettet a hiánypótlásra, azzal, hogy
 
@@ -14,7 +14,7 @@ a) az (1) bekezdés a) pontjában meghatározott esetben szólítsa fel a jogosu
 
 b) fizesse meg az oktatási igazolvány igazgatási szolgáltatási díját,
 
-c)[^23]
+c)[^28]
 
 (3) A (2) bekezdés a) és c) pontja esetében a hiánypótlás az igénylésnek az igénylésre szolgáló felületen történő ismételt rögzítésével és továbbításával teljesíthető. Ebben az esetben a hiánypótlás a megrendelés teljesítésének határideje szempontjából új igénylésnek minősül.
 
@@ -24,5 +24,6 @@ c)[^23]
 
 (6) A tanulmányi rendszerrel rendelkező felsőoktatási intézmények által továbbított felsőoktatási oktatási igazolvány igénylése esetén a jogosult felel az oktatási igazolvány elkészítésének alapjául szolgáló adatok valóságtartalmáért. A jogosult által szolgáltatott valótlan adatok alapján valótlan adattartalommal előállított oktatási igazolvány kicserélésének teljes költsége a jogosultat terheli.
 
-[^22]: A 34. § (1) bekezdés c) pontja a 41. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^23]: A 34. § (2) bekezdés c) pontja a 41. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^26]: A 34. § (1) bekezdés a) pontja az 59/2012. (III. 30.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^27]: A 34. § (1) bekezdés c) pontja a 41. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^28]: A 34. § (2) bekezdés c) pontja a 41. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
