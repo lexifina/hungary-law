@@ -6,4 +6,6 @@
 
 1. § (1) A rendelet hatálya kiterjed a 2007–2013 programozási időszakban – az Európai Területi Együttműködés programjaiból származó támogatások kivételével – az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból (a továbbiakban együtt: alapok) származó – visszterhes vagy támogatási célú – kötelezettségek vállalására, teljesítésére, a teljesítés ellenőrzésére, a felhasználásában, a lebonyolításban és az ellenőrzésben részt vevő természetes személyekre, jogi személyekre, és jogi személyiséggel nem rendelkező szervezetekre, a támogatást igénylőkre, a címzettekre és a kedvezményezettekre.
 
-(2) Az e rendelet hatálya alá tartozó források felhasználásának tekintetében az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendeletet (a továbbiakban: Ámr.) csak akkor kell alkalmazni, ha e rendelet eltérő szabályokat nem állapít meg.
+(2)[^1] Az e rendelet hatálya alá tartozó források felhasználásának tekintetében az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletet (a továbbiakban: Ávr.) csak akkor kell alkalmazni, ha e rendelet eltérő szabályokat nem állapít meg.
+
+[^1]: Az 1. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -1,31 +1,15 @@
-26. § (1) A közreműködő szervezet a döntés-előkészítő bizottság ülése előtt legalább 5 nappal megküldi a tagoknak a projektjavaslatok összegző lapjait. A döntés-előkészítő bizottság ülésén részt vesz a közreműködő szervezet azon munkatársa, vagy a tartalmi értékelést végző szakértője, aki szükség esetén kiegészítő tájékoztatást ad vagy részletezi az összegző lapban foglaltak indokait.
+26. §[^77] (1) A projektjavaslatról – a (2) bekezdésben meghatározott kivétellel – az NFÜ dönt. Csökkentett, feltételes vagy elutasító döntés esetén döntését részletesen indokolni köteles. Döntés-előkészítő bizottság alkalmazása esetén az NFÜ a döntés-előkészítő bizottság szakmai tartalom érvényesülését célzó javaslatától csak részletes, írásban rögzített indokolás alapján térhet el.
 
-(2) A döntés-előkészítő bizottság döntési javaslatot tesz
+(2) Ha a projektjavaslat javasolt támogatási összege meghaladja az ötmilliárd forintot, a fejlesztéspolitikáért felelős miniszter előterjesztése alapján a projektjavaslatról a Kormány dönt.
 
-a) a projektjavaslat támogatására,
+(3) A projektjavaslat csökkentett elszámolható összköltséggel vagy csökkentett támogatási összeggel támogatható, ha a projektjavaslat tervezett elszámolható költségei között olyan költségtétel szerepel, amely nem elszámolható, nem szükséges a projekt céljának teljesítéséhez vagy aránytalanul magas.
 
-b) a projektjavaslat feltételekkel vagy csökkentett összköltséggel történő támogatására, vagy
+(4) Ha a projektjavaslat csak feltételekkel támogatható, a támogatási döntésben meg kell határozni a támogatást igénylő által teljesítendő feltételeket.
 
-c) a projektjavaslat elutasítására,
+(5) A döntést követő 1 napon belül rögzíteni kell a döntést az EMIR-ben.
 
-d)[^13] a forráskezelő szervezet által előterjesztett javaslat alapján a közvetítők kiválasztására.
+(6) A döntésről a közreműködő szervezet tájékoztatja a támogatást igénylőt. A tájékoztatásnak tartalmaznia kell a projektjavaslat elutasítása, csökkentett összköltséggel történő támogatása vagy feltételekkel történő támogatása esetén a kifogás benyújtásának lehetőségét, módját.
 
-(3) A döntés-előkészítő bizottság szavazással határoz a döntési javaslatról. Határozatát tagjai több mint felének egyező szavazatával hozza meg.
+(7) A támogatást igénylők a projektjavaslatuk értékelését a döntésről szóló tájékoztatás kézhezvételét követően megtekinthetik.
 
-(4) A támogatási döntés előkészítését írásban dokumentálni kell. Az elbírált projektjavaslatokról döntési javaslatot kell készíteni. A döntési javaslat tartalmazza a támogatásra javasolt projektek azonosító adatait, a javasolt támogatási összeget, az elutasításra javasolt projektek azonosító adatait és az elutasításra irányuló javaslatot.
-
-(5) A közreműködő szervezet a döntés-előkészítő bizottság ülését követően haladéktalanul elkészíti a döntési javaslatot.
-
-(6) Az NFÜ a döntési javaslat kézhezvételétől számított 5 napon belül jóváhagyja a döntés-előkészítő bizottság döntési javaslatát, vagy részletes írásban rögzített indokolás alapján, a döntés-előkészítő bizottság javaslatát megváltoztatja. Jogszabálysértés vagy a pályázati kiírás szerinti tájékoztatásban foglaltak megsértésének gyanúja esetén részletes, írásban rögzített indokolás alapján elrendeli a projektjavaslat soron kívüli újbóli értékelését.
-
-(7) Ha a projektjavaslat javasolt támogatása meghaladja az ötmilliárd forintot, a fejlesztéspolitikáért felelős miniszter előterjesztésére a Kormány dönt a projektjavaslat támogatásáról.
-
-(8) A döntésről a közreműködő szervezet tájékoztatja a támogatást igénylőt. A közreműködő szervezet döntésről szóló tájékoztatása tartalmazza a projektjavaslat elutasítása, csökkentett összköltséggel történő támogatása vagy feltételekkel történő támogatása esetén a kifogás benyújtásának lehetőségét, módját.
-
-(9) A támogatásra vonatkozó döntés előkészítésében és meghozatalában részt vevőket a döntésről történő tájékoztatás időpontjáig titoktartási kötelezettség terheli a bírálat és a döntés tartalmával kapcsolatban. A titoktartási kötelezettség nem terjed ki a benyújtott projektjavaslatnak az eljárásban történő előrehaladásáról való tájékoztatásra.
-
-(10) A támogatást igénylők a döntési javaslat pályázatukra vonatkozó részét megtekinthetik.
-
-(11) A közreműködő szervezet a döntést, a döntést követő 4 napon belül rögzíti az EMIR-ben.
-
-[^13]: A 26. § (2) bekezdés d) pontját a 86/2011. (V. 31.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^77]: A 26. § a 25/2012. (II. 29.) Korm. rendelet 15. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 117. § (1) Közmű beruházások támogatásának feltétele, hogy a támogatással megvalósuló létesítmények, eszközök működtetését olyan gazdálkodó szervezet végezze, amelyet a támogatás kedvezményezettje a vonatkozó európai uniós irányelveknek megfelelő eljárás lefolytatásával választ ki. A támogatással megvalósuló hulladékkezelő létesítmények, eszközök, illetve víziközmű vagyon (a továbbiakban együtt: közszolgáltatási célú eszközrendszer) működtetésére a (2)–(7) bekezdésben meghatározott speciális szabályok irányadók.
 
-(2) A támogatás feltétele, hogy – az (5) bekezdés kivételével – a támogatással megvalósuló hulladékkezelő létesítmények, eszközök működtetésével történő, a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény szerinti hulladékkezelési közszolgáltatást olyan gazdálkodó szervezet végezze, amelyet a támogatás kedvezményezettje közbeszerzési eljárás lefolytatásával választ ki, vagy amellyel a közszolgáltatási szerződés megkötésére a Kbt. 2/A. §-a alapján kerül sor.
+(2)[^185] A támogatás feltétele, hogy – az (5) bekezdés kivételével – a támogatással megvalósuló hulladékkezelő létesítmények, eszközök működtetésével történő, a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény szerinti hulladékkezelési közszolgáltatást olyan gazdálkodó szervezet végezze, amelyet a támogatás kedvezményezettje közbeszerzési eljárás lefolytatásával választ ki, vagy amellyel a közszolgáltatási szerződés megkötésére a Kbt. 9. § (1) bekezdés k) pontja, valamint (2)–(4) bekezdése alapján kerül sor.
 
 (3) A támogatás további feltétele, hogy – a (4) és az (5) bekezdés kivételével – a helyi önkormányzatokat érintő, támogatással megvalósuló víziközmű vagyon koncesszióköteles tevékenységnek minősülő működtetésére irányuló tevékenység gyakorlásának időleges joga a koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Koncessziós törvény) és a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) alapján kiírt koncessziós pályázati – építési koncesszió esetében, a Kbt. alapján közbeszerzési – eljárás lefolytatásával, koncessziós szerződésben kerüljön átengedésre.
 
@@ -19,3 +19,5 @@ c) hulladékkezelési közszolgáltatás esetén, a támogatási kérelem benyú
 (6) Az (5) bekezdésben meghatározottak ellenőrzése érdekében a kedvezményezett a közszolgáltató kiválasztásával kapcsolatos dokumentumokat és az arra vonatkozó nyilatkozatot, hogy az abban foglalt adatok teljesek és a valóságnak megfelelnek, a közreműködő szervezet részére megküldi.
 
 (7) Az (5) bekezdés alkalmazása esetén a kedvezményezett a közszolgáltatást végző gazdálkodó szervezetben esetlegesen fennálló tulajdonosi részesedését a támogatással megvalósuló közszolgáltatási célú eszközrendszer üzembe helyezésétől számított 10 évig nem idegenítheti el.
+
+[^185]: A 117. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 44. pontja szerint módosított szöveg.

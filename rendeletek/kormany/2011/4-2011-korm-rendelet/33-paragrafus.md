@@ -2,7 +2,7 @@
 
 a) bankgarancia,
 
-b) ingatlan jelzálogjog, vagyont terhelő zálogjog kikötése,
+b)[^103] ingatlan jelzálogjog,
 
 c) vállalkozások és nonprofit szervezetek esetében a támogatást igénylő szervezet vezetőjének vagy tulajdonosának kezességvállalása, vagy
 
@@ -12,7 +12,7 @@ lehet.
 
 (2) A biztosítékoknak a támogatási jogviszony alapján, – a (3) és (8) bekezdésben meghatározott kivételekkel – a fenntartási kötelezettségek megszűnéséig rendelkezésre kell állniuk. A biztosíték a biztosítéknyújtási kötelezettséggel érintett időszaknál rövidebb lejárattal is rendelkezésre bocsátható azzal, hogy az érintett biztosíték érvényességének lejártát megelőző legalább 45 nappal annak meghosszabbítását vagy cseréjét a kedvezményezettnek igazolnia kell. Ennek elmaradása a kifizetések felfüggesztését, illetve szabálytalansági eljárást von maga után.
 
-(3) A biztosítéki értéknek fedeznie kell legalább a kifizetési igénylésben igényelt, továbbá a már kifizetett támogatás együttes összegét. Biztosíték legfeljebb a projektre megítélt támogatási összeget elérő biztosítéki értékig kérhető. A húszmillió forintot meghaladó, de az ötvenmillió forintot meg nem haladó támogatással megvalósuló beruházási projektek esetében a megvalósítást követő (fenntartási) időszakra vonatkozóan biztosítékokat nem kell nyújtani. Az ötvenmillió forintot meghaladó támogatással megvalósuló beruházási projektek esetében a fenntartási időszakra biztosítékokat a kifizetett támogatás 50%-ának megfelelő mértékben kell nyújtani.
+(3)[^104] A biztosítéki értéknek fedeznie kell legalább a kifizetési igénylésben igényelt, továbbá a már kifizetett támogatás együttes összegét. A záró kifizetési igényléshez a biztosíték értékét csak abban az esetben szükséges kiegészíteni, ha a kedvezményezett fenntartási időszakban nyújtandó biztosítéki értékét nem éri el az addig nyújtott biztosíték. Biztosíték legfeljebb a projektre megítélt támogatási összeget elérő biztosítéki értékig kérhető. A húszmillió forintot meghaladó, de az ötvenmillió forintot meg nem haladó támogatással megvalósuló beruházási projektek esetében a megvalósítást követő (fenntartási) időszakra vonatkozóan biztosítékokat nem kell nyújtani. Az ötvenmillió forintot meghaladó támogatással megvalósuló beruházási projektek esetében a fenntartási időszakra biztosítékokat a kifizetett támogatás 50%-ának megfelelő mértékben kell nyújtani.
 
 (4) Zálogjog alkalmazásánál első ranghelyű jelzálogjogot kell előírni. Második vagy további ranghelyre – akár ranghelycsere útján történő – bejegyzés elfogadásra akkor alkalmas, ha a korábbi ranghelyű bejegyzések teljesítése esetén a vagyontárgy értéke még fedezetet nyújt a támogatási összegre.
 
@@ -26,7 +26,7 @@ lehet.
 
 a) a költségvetési szerv,
 
-b) az egyház és intézménye, ha a támogatás az egyház (egyházi intézmény) olyan közfeladat-ellátásával kapcsolatos, amelyre tekintettel normatív költségvetési támogatásra jogosult,
+b)[^105] az egyház és intézménye,
 
 c) a helyi önkormányzat, a kisebbségi önkormányzat, a többcélú kistérségi társulás, az önkormányzatok egyéb társulása, ha a támogatás teljes egészében önként vállalt helyi közügy megoldását vagy önkormányzati kötelező feladat ellátását szolgálja, továbbá nem kötelesek biztosítékot szolgáltatni, ha a fejlesztés tárgya vagy a fejlesztés eredményeként létrejövő vagyontárgy önkormányzati törzsvagyon, vagy törzsvagyonná válik,
 
@@ -38,10 +38,20 @@ f) a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiak
 
 g) bármely kedvezményezett, ha a projektre megítélt támogatás összege nem haladja meg a húszmillió forintot, vagy ha a projektet több kedvezményezett valósítja meg, és a ráeső megítélt támogatás összege nem haladja meg a húszmillió forintot,
 
-h) bármely kedvezményezett, ha a támogatás nem beruházási célú,
-
-i) bármely kedvezményezett, ha a támogatás kutatás-fejlesztésre vagy innovációra irányul,
+h)–i)[^106]
 
 j) a megvalósítási időszakra az a kedvezményezett, aki a támogatás kifizetését a projekt megvalósítását követően, egy összegben kérelmezi
 
 k) társasház és lakásszövetkezet a szociális célú városrehabilitáció támogatási konstrukciók keretében.
+
+(9)[^107] A pályázati felhívás eltérő rendelkezése hiányában nem köteles biztosítékot nyújtani a kedvezményezett, ha a támogatás
+
+a) nem beruházási célú, vagy
+
+b) kutatás-fejlesztésre vagy innovációra irányul.
+
+[^103]: A 33. § (1) bekezdés b) pontja a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 11. pontja szerint módosított szöveg.
+[^104]: A 33. § (3) bekezdése a 25/2012. (II. 29.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^105]: A 33. § (8) bekezdés b) pontja a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 12. pontja szerint módosított szöveg.
+[^106]: A 33. § (8) bekezdés h)–i) pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 13. pontja hatályon kívül helyezte.
+[^107]: A 33. § (9) bekezdését a 25/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be.

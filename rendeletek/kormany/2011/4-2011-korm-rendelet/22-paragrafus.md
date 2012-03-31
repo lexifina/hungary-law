@@ -26,16 +26,6 @@ j) a felhívásban meghatározott egyéb adatokat.
 
 (3) A projektadatlapot és mellékleteit a támogatást igénylő a felhívásban meghatározott elektronikus alkalmazással készíti el, és a felhívásban meghatározott módon, elektronikus formában nyújtja be. A felhívás előírhatja, hogy a projektadatlapot a támogatást igénylő papír alapon is köteles benyújtani. A kétféle módon benyújtott projektadatlapban mutatkozó eltérés esetén a papír alapú és aláírt projektadatlap tekintendő hitelesnek azzal, hogy a papír alapú és az elektronikus projektadatlap egyezőségéről a támogatást igénylő köteles gondoskodni.
 
-(4) A közreműködő szervezet megvizsgálja, hogy a projektjavaslat megfelel-e a felhívásban meghatározott és az alábbi befogadási kritériumoknak:
+(4)–(7)[^72]
 
-a) a pályázat a benyújtási határidőn belül került benyújtásra,
-
-b) az igényelt támogatás összege nem haladja meg a maximálisan igényelhető támogatási összeget, és eléri a minimálisan igényelhető támogatást, és az igényelt támogatási arány nem haladja meg a kiírásban megjelölt maximális támogatási intenzitást,
-
-c) a támogatást igénylő a pályázati felhívásban meghatározott lehetséges pályázói körbe tartozik.
-
-(5) Kiemelt projektek esetében – a felhívás szerint – az érintett RFT vagy az NFÜ, illetve a miniszter írásos támogatása befogadási kritérium.
-
-(6) Ha a projektjavaslat a (4) és (5) bekezdésben meghatározott feltételeknek nem felel meg, a közreműködő szervezet a támogatást igénylő egyidejű tájékoztatása mellett, az indokok megjelölésével, a projektjavaslat beérkezésétől számított 15 napon belül hiánypótlási felhívás nélkül elutasítja a projektjavaslatot. A tájékoztatásban ki kell térni a kifogás benyújtásának lehetőségére és módjára is.
-
-(7) A támogatói okirat kiadásához vagy a támogatási szerződés megkötéséhez az NFÜ által meghatározott dokumentumok ismételt benyújtása nem szükséges, ha azok korábban már benyújtásra kerültek, és azok tartalma a befogadást követően nem módosult.
+[^72]: A 22. § (4)–(7) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 6. pontja hatályon kívül helyezte.

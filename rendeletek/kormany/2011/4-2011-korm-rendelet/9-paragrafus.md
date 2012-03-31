@@ -1,3 +1,5 @@
+## 8. §
+
 ## 8. A monitoring bizottságok feladatai
 
 9. § (1) Az operatív programok végrehajtását monitoring bizottságok követik nyomon.
@@ -8,13 +10,13 @@
 
 a) a fejlesztéspolitikáért felelős miniszter,
 
-b) prioritástengelyenként a feladatkörében érintett miniszter,
+b)[^36] a miniszter,
 
 c) az államháztartásért felelős miniszter,
 
 d) az NFÜ,
 
-e) regionális program esetében az érintett RFT, és
+e)[^37] regionális program esetében az érintett regionális területfejlesztési konzultációs fórum, és
 
 f) a társadalmi, a gazdasági, a civil és a szakmai szervezetek.
 
@@ -26,22 +28,17 @@ b) az Európai Mezőgazdasági és Vidékfejlesztési Alap és az Európai Halá
 
 c) az igazoló hatóság, az ellenőrzési hatóság és a központi harmonizációs egység képviselője,
 
-d) a közreműködő szervezet és a forráskezelő szervezet.
+d) a közreműködő szervezet és a forráskezelő szervezet,
+
+e)[^38] az érintett miniszter.
 
 (5) A monitoring bizottság ellátja az 1083/2006/EK tanácsi rendelet 65. cikkében meghatározott feladatokat, és megtárgyalja az akciótervet.
 
-(6) Az 1083/2006/EK tanácsi rendelet 65. cikk a) pontja szerinti projektkiválasztási szempontok meghatározásakor biztosítani kell, hogy olyan projektek kerüljenek kiválasztásra, amelyek
-
-a) megvalósulása hozzájárul az operatív program társadalmi-gazdasági céljaihoz,
-
-b) egyértelmű, mérhető és elérhető célokkal rendelkeznek,
-
-c) költséghatékonyak,
-
-d) pénzügyileg, műszakilag és szervezetileg fenntarthatók,
-
-e) hozzájárulnak a környezeti fenntarthatóság és az esélyegyenlőség érvényesítéséhez, és
-
-f) megvalósulásának feltételei biztosítottak.
+(6)[^39]
 
 (7) A monitoring bizottság működésének részletes szabályait ügyrendjében állapítja meg.
+
+[^36]: A 9. § (3) bekezdés b) pontja a 25/2012. (II. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^37]: A 9. § (3) bekezdés e) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 6. pontja szerint módosított szöveg.
+[^38]: A 9. § (4) bekezdés e) pontját a 25/2012. (II. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^39]: A 9. § (6) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 4. pontja hatályon kívül helyezte.

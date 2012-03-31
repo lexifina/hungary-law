@@ -8,7 +8,11 @@ a) a technikai segítségnyújtás projekjeit az akciótervekben nevesíteni,
 
 b) a támogatási kérelem elbírálására döntés-előkészítő bizottságot létrehozni,
 
-c) a fenntartásra vonatkozó rendelkezéseket alkalmazni.
+c) a fenntartásra vonatkozó rendelkezéseket alkalmazni,
+
+d)[^183] a pályázati felhívásra vonatkozó rendelkezéseket alkalmazni,
+
+e)[^184] szállítói finanszírozást tartalmazó kifizetési igényléssel együttesen időszakos vagy záró beszámolót benyújtani.
 
 (3) Az NFÜ tervezési felhívásban tájékoztatja a lehetséges kedvezményezetteket a támogatás igénylésének feltételeiről. A tervezési felhívásban az NFÜ a biztosítéknyújtási kötelezettséget írhat elő, ennek hiányában a kedvezményezett biztosítékot nem köteles nyújtani.
 
@@ -19,3 +23,6 @@ c) a fenntartásra vonatkozó rendelkezéseket alkalmazni.
 (6) Az egyes eljárási cselekményekre, így különösen a projektek kiválasztására, az ellenőrzésre, a szabálytalanságkezelésre vagy a közbeszerzések ellenőrzésére vonatkozó szabályokat az (5) bekezdésben meghatározott szabályok figyelembevételével kell alkalmazni.
 
 (7) Az NFÜ a technikai segítségnyújtás forrásainak felhasználására vonatkozóan részletes eljárásrendet dolgoz ki.
+
+[^183]: A 116. § (2) bekezdés d) pontját a 25/2012. (II. 29.) Korm. rendelet 53. §-a iktatta be.
+[^184]: A 116. § (2) bekezdés e) pontját a 25/2012. (II. 29.) Korm. rendelet 53. §-a iktatta be.

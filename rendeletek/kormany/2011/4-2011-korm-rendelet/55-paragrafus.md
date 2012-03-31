@@ -1,6 +1,6 @@
 ## 27. Támogatás kifizetése
 
-55. § (1) A támogatás igénybevételére irányuló kifizetési igénylés – az előleget kivéve – az időszakos vagy a záró beszámolóval együttesen nyújtható be. Támogatás kizárólag az NFÜ vagy az általa kijelölt közreműködő szervezet által jóváhagyott beszámolóval elszámolható, valós költségek vonatkozásában folyósítható. A beszámoló információkat tartalmaz a támogatott projekt eredményességéről és hatékonyságáról, így különösen
+55. § (1)[^133] A támogatás igénybevételére irányuló kifizetési igénylés – az előleget, valamint a projektfelügyelő által jóváhagyott kifizetési igénylést kivéve – az időszakos vagy a záró beszámolóval együttesen nyújtható be. Támogatás kizárólag az NFÜ vagy az általa kijelölt közreműködő szervezet által jóváhagyott beszámolóval elszámolható, valós költségek vonatkozásában folyósítható. A beszámoló információkat tartalmaz a támogatott projekt eredményességéről és hatékonyságáról, így különösen
 
 a) a célokhoz mért előrehaladásról, ideértve a számszerűsített célok mutatóit, továbbá – megfelelő indokolással és a célok aktualizálásával – a céloktól való jelentős eltérésekről,
 
@@ -21,3 +21,5 @@ c) az NFÜ által meghatározott formátumú összesítőt.
 (4) A kedvezményezett a kifizetési igénylésben nyilatkozik arról, hogy a benyújtott kifizetési igényléshez kapcsolódó elszámolások alapbizonylatai valós és elszámolható költségeken alapulnak és a támogatott projekt kapcsán merültek fel. A hitelesítés módját az NFÜ határozza meg.
 
 (5) A projektek pénzügyi zárása eredményeként utalandó támogatást, ha az ezer forintot nem haladja meg, nem kell folyósítani a kedvezményezettnek.
+
+[^133]: Az 55. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 36. §-ával megállapított szöveg.

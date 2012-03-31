@@ -10,20 +10,17 @@ a) dönt a fejlesztéspolitikai tevékenység irányítási, finanszírozási, i
 
 b) dönt az operatív programok tartalmára és azok módosítására vonatkozóan az Európai Bizottság számára benyújtandó javaslatokról,
 
-c) elfogadja az 1083/2006/EK tanácsi rendelet 39. cikke szerinti nagyprojektekre vonatkozóan az Európai Bizottság számára benyújtandó javaslatokat,
+c)[^23] elfogadja a nagyprojektekre vonatkozóan az Európai Bizottság számára benyújtandó javaslatokat,
 
-d)[^3] dönt az akciótervről, ennek keretében az akciótervben meghatározott
+d)[^24] dönt az akciótervről és annak módosításáról, kivéve, ha
 
-da) prioritások tartalmáról, célkitűzéséről és ütemezéséről,
+da) a módosítás prioritáson belül már nevesített támogatási konstrukciók között olyan forrásátcsoportosításra irányul, amelynek mértéke a módosítással érintett prioritás – adott akcióterv legutóbbi kormánydöntéssel megállapított – keretének 15%-át nem haladja meg vagy
 
-db) támogatási konstrukciók számáról, nevéről, céljáról, a támogatási konstrukciókban meghirdethető támogatás keretösszegéről,
-
-dc) a da) és db) alpontban meghatározott adatok módosításáról,
-
-dd) prioritások új támogatási konstrukcióval való kiegészítéséről és meglevő támogatási konstrukciójának törléséről,
+db) a módosítás a tartalék támogatási konstrukció aktiválására vonatkozik,
 
 e) dönt a kiemelt projektek nevesítéséről,
 
 f) dönt az ötmilliárd forintot meghaladó támogatási igényű projektjavaslatokról.
 
-[^3]: A 3. § d) pontja a 153/2011. (VIII. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^23]: A 3. § c) pontja a 25/2012. (II. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^24]: A 3. § d) pontja a 25/2012. (II. 29.) Korm. rendelet 3. §-ával megállapított szöveg.

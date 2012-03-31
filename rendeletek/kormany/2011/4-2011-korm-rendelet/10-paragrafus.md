@@ -1,25 +1,25 @@
 ## 9. A döntés-előkészítő bizottságok feladatai
 
-10. § (1) Az NFÜ a projektjavaslatok elbírálására döntés-előkészítő bizottságot hoz létre. A döntés-előkészítő bizottság elnöke felügyeli az eljárás átláthatóságát és pártatlanságát, az eljárási szabályok betartását.
+10. §[^40] (1) Az egyfordulós és a kiemelt projekt-kiválasztási eljárás esetén a miniszter vagy a fejlesztéspolitikáért felelős miniszter kezdeményezésére az NFÜ – kiemelt projekt esetén a kiemelt projekt felhívásban, pályázat esetén a pályázati felhívásban (a továbbiakban együtt: a felhívás) meghatározottak szerint – döntés-előkészítő bizottságot hoz létre, az NFÜ saját döntése alapján döntés-előkészítő bizottságot hozhat létre.
 
-(2) A döntés-előkészítő bizottság tagjait az NFÜ kéri fel. A döntés-előkészítő bizottságba tagot jelölhet
+7 (2) A döntés-előkészítő bizottság a pályázati konstrukció vonatkozásában a felhívásban megjelenített szakmai tartalom érvényesülését célzó döntés-előkészítő javaslatot tesz.
+
+(3) A döntés-előkészítő bizottság tagjait az NFÜ kéri fel. A döntés-előkészítő bizottságba tagot jelölhet
 
 a) a fejlesztéspolitikáért felelős miniszter,
 
-b) – prioritástengelyenként – a feladatkörében érintett miniszter,
+b) a miniszter,
 
-c) az NFÜ, és
+c) az NFÜ.
 
-d) – regionális program esetében – az érintett RFT.
+(4) A döntés-előkészítő bizottságba megfigyelőt jelölhet
 
-(3) A döntés-előkészítő bizottságba megfigyelőt jelölhet
+a) a közreműködő szervezet,
 
-a) a közreműködő szervezet, és
+b) a miniszter és
 
-b) – prioritástengelyenként – a feladatkörében érintett miniszter.
-
-(4) A döntés-előkészítő bizottság elnöke és tagjai legkésőbb a döntés-előkészítő bizottság első ülésén benyújtják az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvény szerint megtett vagyonnyilatkozatuk leadásáról szóló igazolást a döntés-előkészítő bizottság titkára részére.
+c) az érintett miniszter.
 
 (5) A döntés-előkészítő bizottság munkájában az elnök és a tagok szavazati joggal, a megfigyelők és a titkár szavazati jog nélkül vesznek részt. A döntés-előkészítő bizottság működésének részletes szabályait ügyrendjében állapítja meg.
 
-(6) A döntés-előkészítő bizottság titkársági feladatait a közreműködő szervezet látja el.
+[^40]: A 10. § a 25/2012. (II. 29.) Korm. rendelet 7. §-ával megállapított szöveg.

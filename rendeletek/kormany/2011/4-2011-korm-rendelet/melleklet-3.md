@@ -12,7 +12,7 @@
 
 |  | Prioritás | Többletkötelezettség- vállalás összege (Mrd Ft) | Többletkötelezettség- vállalás összegének tervezett EU része (Mrd Ft) | Többletkötelezettség- vállalás összegének tervezett Hazai része (Mrd Ft) | Hazai részből tervezett public saját erő (Mrd Ft) | Többletkötelezettség- vállalás összegéből tervezett kifizetése – éves bontásban– 2012–2015 |
 
-3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^35]
+3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^203]
 
 A közreműködő szervezetek felsorolása operatív programonként, prioritásonként és intézkedésenként
 
@@ -104,7 +104,7 @@ A közreműködő szervezetek felsorolása operatív programonként, prioritáso
 
 | 43. | Helyi és térségi közszolgáltatások fejlesztése |  | VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. |
 
-| 44. | Közép-magyarországi Operatív program | A tudásalapú gazdaság innováció- és vállalkozás-orientált fejlesztése | Összes intézkedés, kivéve Helyi gazdaságfejlesztés | MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
+| 44. | Közép-magyarországi Operatív program | A tudásalapú gazdaság innováció- és vállalkozás-orientált fejlesztése | Összes intézkedés, kivéve Helyi gazdaságfejlesztés, KKV-k pénzügyi eszközökhöz való hozzáférésének fejlesztése | MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
 | 45. |  | Helyi gazdaságfejlesztés | Pro Regio Közép-Magyarországi Regionális Fejlesztési és Szolgáltató Nonprofit Közhasznú Kft. |
 
@@ -136,4 +136,4 @@ A közreműködő szervezetek felsorolása operatív programonként, prioritáso
 
 | 59. | Társadalmi Infrastruktúra Operatív Program |  |  | ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
 
-[^35]: A 3. számú melléklet a 86/2011. (V. 31.) Korm. rendelet 13. § (6) bekezdése és a 14. § h) pontja szerint módosított szöveg.
+[^203]: A 3. számú melléklet a 86/2011. (V. 31.) Korm. rendelet 13. § (6) bekezdése és a 14. § h) pontja, a 25/2012. (II. 29.) Korm. rendelet 60. §-a szerint módosított szöveg.

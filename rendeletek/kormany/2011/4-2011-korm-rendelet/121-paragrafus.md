@@ -1,15 +1,17 @@
-121. § (1) Ha a postai úton történő kézbesítés azért hiúsul meg, mert a címzett vagy meghatalmazottja úgy nyilatkozik, hogy a küldeményt nem veszi át, az értesítést a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni.
+121. §[^189] (1) A határidőbe nem számít bele a közlés, kézbesítés napja.
 
-(2) Ha a küldemény „nem kereste” jelzéssel érkezik vissza, az értesítést – az ellenkező bizonyításig – a postai kézbesítés második megkísérlésének napját követő ötödik napon kézbesítettnek kell tekinteni.
+(2) Ha a határidő kezdőnapja nem munkanap, a határidő a következő munkanapon kezdődik.
 
-(3) A határidőbe nem számít bele a közlés, kézbesítés napja.
+(3) A hónapokban vagy években megállapított határidő azon a napon jár le, amely számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, akkor a megállapított határidő a hónap utolsó napján jár le.
 
-(4) A hónapokban, vagy években megállapított határidő azon a napon jár le, amely számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, a hónap utolsó napján.
+(4) Ha a határidő utolsó napja nem munkanap, a határidő a következő munkanapon jár le.
 
-(5) Ha a napokban megállapított határidő utolsó napja nem munkanap, a határidő a következő munkanapon jár le.
+(5) Az elektronikus úton küldött dokumentum előterjesztésének időpontja a dokumentum elküldésének napja.
 
-(6) A postai úton küldött nyilatkozat esetén a postára adás napját kell a nyilatkozat megtételének napjaként tekinteni. Az ezzel kapcsolatos válasz megtételére rendelkezésre álló határidő ilyen esetben a postai úton küldött nyilatkozat esetén azon a napon kezdődik, amely napon azt a részére kézbesítettnek kell tekinteni.
+(6) A postai úton küldött dokumentum előterjesztésének időpontja a postára adás napja.
 
 (7) A határidő elmulasztása vagy a késedelem jogkövetkezményei a határidő utolsó napjának elteltével állnak be.
 
 (8) A határidőt kétség esetén megtartottnak kell tekinteni.
+
+[^189]: A 121. § a 25/2012. (II. 29.) Korm. rendelet 55. §-ával megállapított szöveg.

@@ -14,8 +14,18 @@ e) irányítja az NFÜ-t, és elbírálja a döntései ellen benyújtott jogorvo
 
 f) gondoskodik az állami támogatások versenyszempontú ellenőrzésének koordinálásáról, különös tekintettel az európai uniós jogi aktusok állami támogatási rendelkezéseinek való megfelelés biztosítására, valamint az Európai Bizottsággal való együttműködésre,
 
-g) előterjesztést nyújt be a Kormány részére az operatív programok előrehaladásáról, a monitoring bizottságok által előterjesztett akciótervekről, és a 3. §-ban meghatározott további feladatokkal kapcsolatban,
+g)[^25] előterjesztést nyújt be a Kormány részére a 3. §-ban meghatározott feladatokkal kapcsolatban,
 
-h)[^4] dönt az akciótervben meghatározott prioritások támogatási konstrukcióinak a 3. § d) pontjában meg nem határozott adatairól és az azokban bekövetkező változásról.
+h)[^26] a miniszterrel egyetértésben dönt az akcióterv módosításáról a 3. § d) pont da) alpontja szerinti esetben és erről az NFÜ útján értesíti az államháztartásért felelős minisztert,
 
-[^4]: Az 5. § h) pontját a 153/2011. (VIII. 10.) Korm. rendelet 3. §-a iktatta be.
+i)[^27] a miniszterrel egyetértésben az előkészítettség fokára figyelemmel dönt a tartalék támogatási konstrukció aktiválásáról és erről az NFÜ útján értesíti az államháztartásért felelős minisztert,
+
+j)[^28] felügyeli a pályázati felhívás előkészítésének folyamatát, jóváhagyja a pályázati felhívásokat,
+
+k)[^29] döntés-előkészítő bizottság összehívása esetén tagot delegálhat a döntés-előkészítő bizottságba.
+
+[^25]: Az 5. § g) pontja a 25/2012. (II. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^26]: Az 5. § h) pontját a 153/2011. (VIII. 10.) Korm. rendelet 3. §-a iktatta be, szövege a 25/2012. (II. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^27]: Az 5. § i) pontját a 25/2012. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^28]: Az 5. § j) pontját a 25/2012. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^29]: Az 5. § k) pontját a 25/2012. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.

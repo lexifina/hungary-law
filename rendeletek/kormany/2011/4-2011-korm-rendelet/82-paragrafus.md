@@ -4,7 +4,9 @@ a) a kifogást a 81. § (2) bekezdése szerinti határidőn túl terjesztették 
 
 b) a kifogást nem az arra jogosult terjeszti elő,
 
-c) korábbival azonos tartalmú, ismételt kifogást terjesztenek elő.
+c) korábbival azonos tartalmú, ismételt kifogást terjesztenek elő,
+
+d)[^163] a kifogás nem tartalmaz a megsértett jogszabályban, a felhívásban vagy a támogatási szerződésben foglalt rendelkezésre történő hivatkozást.
 
 (2) Ha érdemi vizsgálat nélküli elutasításnak nincs helye, a kifogást a beérkezésétől számított 30 napon belül kell elbírálni. Az elbírálás határideje egy alkalommal, legfeljebb 30 nappal meghosszabbítható, erről a határidő lejárta előtt tájékoztatni kell a kifogás benyújtóját.
 
@@ -29,3 +31,5 @@ b) a kifogást indokolt döntésével elutasítja.
 (6) Az NFÜ, illetve a fejlesztéspolitikáért felelős miniszter a kifogás tárgyában hozott döntésről az indokok megjelölésével értesíti a támogatást igénylőt vagy a kedvezményezettet, a közreműködő szervezetet és az NFÜ-t.
 
 (7) A kifogás tárgyában hozott döntés ellen további kifogás előterjesztésének nincs helye.
+
+[^163]: A 82. § (1) bekezdés d) pontját a 25/2012. (II. 29.) Korm. rendelet 46. §-a iktatta be.

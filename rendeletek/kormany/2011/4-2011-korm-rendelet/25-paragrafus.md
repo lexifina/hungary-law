@@ -1,5 +1,17 @@
-25. § (1) A projektkiválasztási eljárás keretében a támogatott projektek egyfordulós, könnyített elbírálású vagy kiemelt projektkiválasztási eljárás során kerülnek kiválasztásra, amelyek folyamatos vagy szakaszos meghirdetésűek.
+25. §[^76] (1) Döntés-előkészítő bizottság összehívása esetén az NFÜ 27. § (1) bekezdésében meghatározott döntési határideje 10 nappal meghosszabbodik.
 
-(2) Ha a támogatási döntés mérlegelés nélkül, kizárólag a projektkiválasztási szempontoknak való megfelelőségen alapul (a továbbiakban: könnyített elbírálású támogatás) az összegző lap alapján az NFÜ dönt a projektjavaslat támogatásáról vagy elutasításáról.
+(2) A döntés-előkészítés folyamatát elektronikus formában dokumentálni kell.
 
-(3) Könnyített elbírálású támogatás esetén – a felhívás eltérő rendelkezése hiányában – hiánypótlásnak nincs helye.
+(3) Ha a támogatást igénylő által benyújtott támogatási kérelem nem felel meg a felhívásban meghatározott követelményeknek és a felhívás lehetőséget nyújt a hiánypótlásra, legalább 7 napos határidő kitűzésével, az összes hiány vagy hiba megjelölésével fel kell szólítani a támogatást igénylőt támogatási kérelmének kijavítására. Hiánypótlásra egyszer van lehetőség.
+
+(4) Ha a támogatást igénylő a hiánypótlást hibásan, hiányosan nyújtja be, úgy a hibás, hiányos támogatási kérelmet a rendelkezésre álló adatok alapján kell elbírálni.
+
+(5) Ha a támogatást igénylő a hiánypótlását határidőn túl nyújtja be, az abban foglaltakat a támogatási kérelem elbírálásánál nem lehet figyelembe venni.
+
+(6) Ha a pályázatban szereplő információ nem egyértelmű vagy ellentmondást tartalmaz és a felhívás lehetőséget nyújt tisztázó kérdés alkalmazására, a közreműködő szervezet tisztázó kérdést tehet fel, melynek megválaszolására legalább 3 napos határidőt kell biztosítani.
+
+(7) Ha a támogatást igénylő támogatás szempontjából releváns adataiban változás következik be, a támogatást igénylő köteles azt haladéktalanul írásban bejelenteni a támogatónak.
+
+(8) Ha a támogatást igénylő pályázatában valótlan adatot közölt, vagy valótlan tartalmú nyilatkozatot tett – a nyilvánvaló adminisztrációs hiba esetét kivéve – a projektjavaslat nem támogatható.
+
+[^76]: A 25. § a 25/2012. (II. 29.) Korm. rendelet 15. §-ával megállapított szöveg.

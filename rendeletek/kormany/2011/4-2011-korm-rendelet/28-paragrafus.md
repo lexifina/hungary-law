@@ -1,13 +1,22 @@
 ## 19. A kiemelt projektekre vonatkozó szabályok
 
-28. § (1) Az NFÜ a kiemelt projektek esetében az akciótervi nevesítést megelőzően – a feladatkörében érintett miniszterrel együtt – előterjesztést készít azon projektötletek bemutatására, amelyeket az akciótervben nevesítésre javasol. Az akciótervi nevesítés nem eredményezi a támogatási szerződés megkötésének kötelezettségét.
+28. § (1)[^84] Az NFÜ a kiemelt projektek esetében az akciótervi nevesítést megelőzően – a miniszterrel együtt – előterjesztést készít azon projektötletek bemutatására, amelyeket az akciótervben nevesítésre javasol. Az akciótervi nevesítés nem eredményezi a támogatási szerződés megkötésének kötelezettségét.
 
-(2) Olyan országos jelentőségű fejlesztések esetében, amelyek megvalósításáról a Kormány a kiemelt projektek jóváhagyását megelőzően döntött, a támogatásra vonatkozó döntés előkészítése és meghozatala során az értékelő és a döntés-előkészítő bizottság kizárólag a projektötlet európai uniós forrásból való támogathatóságát, megfelelő előkészítettségét, illetve a többi kiemelt projektötlettel való összhangját vizsgálja.
+(2)[^85] Olyan országos jelentőségű fejlesztések esetében, amelyek megvalósításáról a Kormány a kiemelt projektek jóváhagyását megelőzően döntött vagy a pályázó jogszabály alapján egyértelműen beazonosítható, az akciótervi nevesítés megtörténhet a támogatására vonatkozó döntés előkészítése és meghozatala előtt is. A pályázó a felhívás előkészítésében részt vehet. Ebben az esetben a 4. § (2) bekezdésben előírt adatokat előzetesen az akcióterv módosításával szükséges megadni. A támogatásra vonatkozó döntés előkészítése és meghozatala során a döntés előkészítésében részt vevő kizárólag a projektötlet európai uniós forrásból való támogathatóságát, megfelelő előkészítettségét, illetve a többi kiemelt projektötlettel való összhangját vizsgálja.
 
-(3) Ha a felhívás lehetővé teszi, az akciótervben történő nevesítést megelőzően benyújtott és a 24–27. § szerinti eljárás alapján támogatásra javasolt projektjavaslatra az akciótervi nevesítést követően támogatási szerződés köthető.
+(3)[^86] Ha a felhívás lehetővé teszi, az akciótervben történő nevesítést megelőzően benyújtott és a 23/A–27. § szerinti eljárás alapján támogatásra javasolt projektjavaslatra az akciótervi nevesítést követően támogatási szerződés köthető.
 
-(4) Kiemelt projekt esetében a közreműködő szervezet a hiánypótlásra 15 napnál hosszabb határidőt is meghatározhat.
+(4)[^87]
 
-(5) Kiemelt projektek esetében a támogatást igénylőnek az NFÜ által meghatározott határidőn, de a döntéstől számított legfeljebb egy éven belül be kell nyújtania a részletesen kidolgozott projektjavaslatot. Ha a támogatási konstrukció sajátosságai szükségessé teszik, az NFÜ az egyéves határidő helyett hosszabb határidőt is meghatározhat. A határidő eredménytelen elteltét követően a projektjavaslat nem nyújtható be, és a fejlesztéspolitikáért felelős miniszter az akciótervi nevesítést tartalmazó kormányhatározat módosítását kezdeményezi.
+(5)[^88] Kiemelt projektek esetében a támogatást igénylőnek az útmutató kibocsátásától számított 30 napon belül be kell nyújtania a részletesen kidolgozott projektjavaslatot. A határidő indokolt esetben 30 nappal meghosszabbítható. A határidő – projektgazda hibájára visszavezethető – eredménytelen elteltét követően a projektjavaslat nem nyújtható be, és a fejlesztéspolitikáért felelős miniszter az akciótervi nevesítést tartalmazó kormányhatározat módosítását kezdeményezi.
 
 (6) Kiemelt projekteknél az NFÜ közvetlenül megbízhat a támogatást igénylőtől független műszaki szakértőt.
+
+(7)[^89] A kiemelt projektjavaslat beérkezésétől számított 30 napon belül meg kell hozni a támogatói döntést és meg kell kötni a támogatási szerződést. Ha a támogatási szerződés megkötéséhez a projektgazdától vagy harmadik féltől függő támogatási szerződési feltételek teljesítése szükséges, a 30 napos határidőt a feltételek teljesítésére megállapított határidő utolsó napjától kell számítani. A határidőbe a projektgazda hiánypótlási és tisztázó kérdésre adott válaszadási ideje, a kifogás elbírálásának időtartama, továbbá a Kormány jóváhagyásra vonatkozó döntési ideje nem számít bele. A Kormány döntési ideje a kapcsolódó előterjesztésnek a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumba előzetes egyeztetésre történő beérkezéstől számítandó. Hiánypótlásra a szerződéskötési szakaszban egy alkalommal van lehetőség.
+
+[^84]: A 28. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^85]: A 28. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^86]: A 28. § (3) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 21. pontja szerint módosított szöveg.
+[^87]: A 28. § (4) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 8. pontja hatályon kívül helyezte.
+[^88]: A 28. § (5) bekezdése a 25/2012. (II. 29.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^89]: A 28. § (7) bekezdését a 25/2012. (II. 29.) Korm. rendelet 17. § (3) bekezdése iktatta be.

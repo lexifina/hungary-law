@@ -2,11 +2,17 @@
 
 (2) A kedvezményezett a támogatási szerződésbe foglalt következő nyilatkozatok nyújtására köteles:
 
-a)[^19]
+a)[^108] a kedvezményezett nyilatkozata arról, hogy nem minősül az alacsony keresetű munkavállalók bérének emelését ösztönző egyes törvények módosításáról szóló 2011. évi XCIX. törvény 6. §-a szerinti munkáltatónak,
 
-b)[^20]
+b)[^109] a kedvezményezett nyilatkozata arról, hogy az államháztartásról szóló törvénynek megfelelően
 
-c) a kedvezményezett azon nyilatkozata, hogy az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 122/A. § (1) és (2) bekezdése szerinti támogatási rendszerből való kizárás hatálya alatt nem áll,
+ba) megfelel a rendezett munkaügyi kapcsolatok követelményének,
+
+bb) a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szól törvényben foglalt közzétételi kötelezettségének eleget tett, vagy nem tartozik annak hatály alá, és
+
+bc) jogi személy vagy jogi személyiséggel nem rendelkező más szervezet esetén átlátható szervezetnek minősül.
+
+c)[^110] a kedvezményezett azon nyilatkozata, hogy a támogatási rendszerből való kizárás hatálya alatt nem áll,
 
 d) a kedvezményezett azon nyilatkozata, hogy nem áll fenn harmadik személy irányában olyan kötelezettség, amely a támogatással létrejött projekt céljának megvalósulását meghiúsíthatja,
 
@@ -16,5 +22,6 @@ ea) az adott projektre vonatkozóan a kedvezményezett részére megítélt, de 
 
 eb) a központi költségvetésből biztosított támogatásból – ha a kedvezményezett ilyen támogatásra jogosult – levonásra kerül.
 
-[^19]: A 34. § (2) bekezdés a) pontját a 86/2011. (V. 31.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte.
-[^20]: A 34. § (2) bekezdés b) pontját a 86/2011. (V. 31.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte.
+[^108]: A 34. § (2) bekezdés a) pontját a 86/2011. (V. 31.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte, újonnan a 25/2012. (II. 29.) Korm. rendelet 22. § (1) bekezdése iktatta be.
+[^109]: A 34. § (2) bekezdés b) pontját a 86/2011. (V. 31.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte, újonnan a 25/2012. (II. 29.) Korm. rendelet 22. § (1) bekezdése iktatta be.
+[^110]: A 34. § (2) bekezdés c) pontja a 25/2012. (II. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.

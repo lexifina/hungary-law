@@ -1,5 +1,3 @@
-## 62. § Haladéktalanul fel kell függeszteni a támogatás folyósítását abban az esetben, ha azt e rendelet vagy más jogszabály előírja, illetve a támogatói okirat kiadását vagy a támogatási szerződés megkötését követően a kedvezményezett olyan nyilatkozatot tesz, vagy a támogatás folyósítója olyan körülményről szerez tudomást, amely a támogatás visszavonását, a támogatási szerződéstől történő elállást teheti szükségessé. A felfüggesztésről és annak okáról a kedvezményezettet soron kívül tájékoztatni kell.
-
 63. § (1) A jóváhagyott támogatási összeg kifizetését a támogatás teljes összegének pénzforgalmi lebonyolítási számlán történt jóváírásáról szóló pénzforgalmi számlakivonat kézhezvételét követő 5 napon belül kell elindítani.
 
 (2) A pénzforgalmi lebonyolítási számláról átutalást csak abban az esetben lehet kezdeményezni, ha

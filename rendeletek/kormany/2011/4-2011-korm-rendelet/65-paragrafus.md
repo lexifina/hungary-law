@@ -25,3 +25,31 @@ i) a forráskezelő szervezet cégszerű aláírását.
 (4) A forráskezelő szervezet – a közvetítői szerződésekben megfelelő kikötések érvényesítésével – biztosítja, hogy a programszámlán lévő források a lehető legrövidebb időn belül kifizetésre kerüljenek a kedvezményezettek részére.
 
 (5) A pénzforgalmi lebonyolítási számláról kifizetést az NFÜ kezdeményezhet, ha a megelőző eljárási cselekmények megtörténtek, továbbá a lehívási értesítésben kapott adatokat az NFÜ rögzítette az EMIR-ben.
+
+(6)[^145] Az alapkezelő szervezet az NFÜ által elfogadott programra jóváhagyott összegből a programfinanszírozási és végrehajtási szerződés forrásigényének megfelelő összeget lehívhatja az NFÜ-nek címzett lehívási értesítés, valamint a lehívási értesítéshez csatolt, a programfinanszírozási és végrehajtási szerződésben meghatározott mellékletek átadásával. Az alapkezelő szervezet a lehívási értesítéseket folyamatos sorszámmal látja el. A lehívási értesítésnek tartalmaznia kell legalább
+
+a) a lehívási értesítés megnevezést,
+
+b) annak a bankszámlának a számát, amelyre az alapkezelő szervezet a forrás jóváírását kéri,
+
+c) a lehívott összeget,
+
+d) a lehívott összeg kifizetésének kért értéknapját,
+
+e) a lehíváshoz kapcsolódó program megjelölését,
+
+f) az NFÜ a programot jóváhagyó döntésének számát és keltét,
+
+g) az alapkezelő szervezet nyilatkozatát arról, hogy a lehívási értesítés napján a programfinanszírozási és végrehajtási szerződés alapján teljesítendő valamennyi előfeltétel teljesült,
+
+h) a lehívási értesítés keltezését, és
+
+i) az alapkezelő szervezet cégszerű aláírását.
+
+(7)[^146] A közreműködő szervezet a forrást a szabályszerű lehívási értesítés beérkezésétől számított 15 napon belül utalja át az alapkezelő szervezet bankszámlájára.
+
+(8)[^147] Ha a megvalósítás nyomon követése, illetve folyamatba épített ellenőrzése során szabálytalanság gyanúja merül fel az alapkezelő szervezet vonatkozásában, az NFÜ a forrás kifizetését felfüggesztheti.
+
+[^145]: A 65. § (6) bekezdését a 25/2012. (II. 29.) Korm. rendelet 42. §-a iktatta be.
+[^146]: A 65. § (7) bekezdését a 25/2012. (II. 29.) Korm. rendelet 42. §-a iktatta be.
+[^147]: A 65. § (8) bekezdését a 25/2012. (II. 29.) Korm. rendelet 42. §-a iktatta be.

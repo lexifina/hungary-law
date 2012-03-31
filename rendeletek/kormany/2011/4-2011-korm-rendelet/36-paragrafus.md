@@ -4,16 +4,48 @@
 
 a) a projekt megvalósításának befejezése a hatályos támogatási szerződésben meghatározott időponthoz képest előre láthatóan 3 hónapot meghaladóan késik,
 
-b) a hatályos támogatási szerződésben rögzített bármely indikátor értékének várható teljesülése nem éri el a célérték 90%-át,
+b)[^113]
 
 c) változik a projekt bármely egyéb, a célkitűzéseket befolyásoló lényeges jellemzője.
 
 (3) Támogatói okirat alkalmazása esetén a támogatás visszavonása külön okirat kiadásával és a kedvezményezett részére történő megküldésével történik. A támogatási szerződéstől történő elállásról a támogató írásban értesíti a kedvezményezettet.
 
-(4) A támogatói okirat vagy a támogatási szerződés csak abban az esetben módosítható, ha a támogatott tevékenység az így módosított feltételekkel is támogatható lett volna. Jogszabály eltérő rendelkezése hiányában a módosítás – a vis maior helyzetek kivételével – nem irányulhat a támogatási döntésben meghatározott összegen felüli többlet költségvetésből nyújtott támogatás biztosítására.
+(4)[^114] A támogatói okirat vagy a támogatási szerződés abban az esetben módosítható, ha a támogatott tevékenység az így módosított feltételekkel is támogatható lett volna. A módosítás nem irányulhat a támogatási döntésben meghatározott összegen felüli többlet költségvetésből nyújtott támogatás biztosítására, kivéve ha
+
+a) jogszabály eltérően rendelkezik,
+
+b) vis maior esemény következik be, vagy
+
+c) a projekt elszámolható összköltsége az általános forgalmi adó mértékének emelése következtében megemelkedik és a megnövelt áfa-tartalommal benyújtott kifizetési igénylések alapján kifizetendő támogatás összegére az eredetileg megítélt támogatás nem nyújt fedezetet.
+
+(4a)[^115] A (4) bekezdés c) pontja szerinti esetben a kedvezményezett – az NFÜ honlapján közzétett kérelemminta kitöltésével, legkésőbb az utolsó kifizetési igénylés benyújtásával egyidejűleg – kezdeményezheti a támogatási szerződés módosítását, ha nem vagy csak részben jogosult az áfa levonására, ezért projektjét bruttó módon tervezte vagy arányosítással állapítja meg a levonható és a le nem vonható áfa összegét.
+
+(4b)[^116] A kérelemnek tartalmaznia kell
+
+a) a kedvezményezett nevét,
+
+b) a támogatási szerződés számát,
+
+c) a kérelmezett elszámolható összköltséget,
+
+d) a kérelmezett támogatási összeget és
+
+e) a költségnövekmény okait dokumentumokkal alátámasztva.
+
+(4c)[^117] A kedvezményezett által biztosított saját forrás aránya a projekt támogatásának növelése esetén sem csökkenhet.
+
+(4d)[^118] A (4) bekezdéstől eltérően, ha a projekt egy vagy több, a pályázati felhívásban meghatározott önállóan támogatható eleme már megvalósult, az NFÜ támogatási szerződés-módosítással kezdeményezheti a projekt műszaki tartalmának módosítását.
 
 (5) Ha a támogatott tevékenység összköltsége csökken a tervezetthez képest, a támogatás összegét az összköltség csökkenésének arányában csökkenteni kell, több forrás esetén az eredeti arányoknak megfelelően.
 
 (6) Átalakulás esetén a jogutód akkor léphet be a támogatási jogviszonyba, ha a felhívásban foglalt feltételeknek megfelel és ahhoz az NFÜ előzetesen hozzájárul.
 
-(7) A projekt megvalósítását a kedvezményezett másra átruházhatja, ha az új kedvezményezett a felhívásban foglalt feltételeknek megfelel, és ahhoz az NFÜ előzetesen hozzájárul.
+(7)[^119] A projekt megvalósítását a kedvezményezett másra átruházhatja, ha az új kedvezményezett a felhívásban foglalt feltételeknek megfelel és ahhoz az NFÜ előzetesen írásban hozzájárul vagy, ha az új kedvezményezett jogszabályon alapuló jogutódlás következtében lép be a támogatási jogviszonyba. A projekt átruházása során a projekt céljai nem módosulhatnak.
+
+[^113]: A 36. § (2) bekezdés b) pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 14. pontja hatályon kívül helyezte.
+[^114]: A 36. § (4) bekezdése a 25/2012. (II. 29.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^115]: A 36. § (4a) bekezdését a 25/2012. (II. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^116]: A 36. § (4b) bekezdését a 25/2012. (II. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^117]: A 36. § (4c) bekezdését a 25/2012. (II. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^118]: A 36. § (4d) bekezdését a 25/2012. (II. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^119]: A 36. § (7) bekezdése a 25/2012. (II. 29.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.

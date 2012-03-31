@@ -1,3 +1,13 @@
-120. § (1) Postai úton történő kézbesítés esetén az értesítést hivatalos iratként kell feladni és kézbesíteni.
+120. §[^188] (1) Az elektronikus alkalmazás útján megküldött dokumentumot az átvétel visszaigazolásával kell kézbesítettnek tekinteni.
 
-(2) Elektronikus úton megküldött nyilatkozat esetén az elküldés napját kell a nyilatkozat megtételének napjaként tekinteni. Elektronikus úton előterjesztett nyilatkozat esetén a válaszra rendelkezésre álló határidő a következő napon kezdődik.
+(2) Ha a dokumentum elektronikus alkalmazáson keresztül történő átvételének visszaigazolása a küldés napját követő hét napon belül nem történik meg, a dokumentumot – az ellenkező bizonyításig – kézbesítettnek kell tekinteni.
+
+(3) Postai úton történő kézbesítés esetén a küldeményt hivatalos iratként kell feladni és átvételének napján kell kézbesítettnek tekinteni.
+
+(4) Ha a postai úton történő kézbesítés azért hiúsul meg, mert a címzett vagy meghatalmazottja úgy nyilatkozik, hogy a küldeményt nem veszi át, az értesítést a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni.
+
+(5) Ha a postai úton kézbesített küldemény „nem kereste” jelzéssel érkezik vissza, az értesítést – az ellenkező bizonyításig – a postai kézbesítés második megkísérlésének napját követő ötödik napon kézbesítettnek kell tekinteni.
+
+(6) Az elektronikus alkalmazás útján megküldött tájékoztatást nyomtatott formában nem kell dokumentálni.
+
+[^188]: A 120. § a 25/2012. (II. 29.) Korm. rendelet 55. §-ával megállapított szöveg.

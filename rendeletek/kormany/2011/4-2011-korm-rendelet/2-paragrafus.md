@@ -2,7 +2,9 @@
 
 2. § (1) E rendelet alkalmazásában
 
-1. akcióterv: az operatív program vagy egyes prioritástengelyek végrehajtására vonatkozó, két vagy több évre szóló részletes programozási és végrehajtási dokumentum, amely tartalmazza az operatív program, illetve a prioritástengely megvalósításának bemutatását, ütemezését és indikatív forrásfelosztását a teljes programozási időszakra, továbbá a támogatási konstrukciók bemutatását legalább 2 évre,
+1.[^2] akcióterv: az operatív program vagy egyes prioritástengelyek végrehajtására vonatkozó, két vagy több évre szóló részletes programozási és végrehajtási dokumentum, amely tartalmazza az operatív program, illetve a prioritástengely megvalósításának bemutatását, ütemezését és indikatív forrásfelosztását a teljes programozási időszakra, továbbá a támogatási konstrukciók nevét, célját, keretösszegét, a konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező miniszter (a továbbiakban: miniszter), a konstrukció szakmai tartalma szerint feladatkörében érintett további miniszter vagy miniszterek (a továbbiakban: érintett miniszter) megjelölését, valamint a többletkötelezettség-vállalás esetére a tartalék-konstrukciókat,
+
+1a.[^3] alapkezelő szervezet: a Nemzeti Fejlesztési Ügynökség (a továbbiakban: NFÜ) által kiválasztott, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendelet (a továbbiakban: 1083/2006/EK tanácsi rendelet) 44. cikkében meghatározott alap vagy egyéb ösztönző rendszer keretében pénzügyi konstrukciót közvetlenül működtető szervezet,
 
 2. átutalás igénylési dokumentáció: az igazoló hatóság által kiállított átutalási kérelem, költségnyilatkozat és költségigazoló nyilatkozat, amely alapján az Európai Bizottság átutalja az európai uniós támogatást,
 
@@ -10,13 +12,15 @@
 
 4. egységes működési kézikönyv: normatív utasításban kiadott belső szabályozási dokumentum, amely az egyes intézményi szereplők eljárási cselekményeire vonatkozó szabályokat tartalmazza,
 
-5. ellenőrzési nyomvonal: az Európai Unió által meghatározott, a Nemzeti Stratégia Referencia Keret operatív programok támogatásai felhasználásának rendszervizsgálati eszköze, a támogatástervezési, pénzügyi lebonyolítási és ellenőrzési folyamatainak leírása szövegesen vagy táblázatba foglalva, vagy folyamatábrával szemléltetve, amely tartalmazza különösen a felelősségi és információs szinteket és kapcsolatokat, továbbá irányítási és ellenőrzési folyamatokat, lehetővé téve azok nyomon követését és utólagos ellenőrzését,
+5.[^4] ellenőrzési nyomvonal: az Európai Unió által meghatározott, a Nemzeti Stratégia Referencia Keret operatív programok támogatásai felhasználásának rendszervizsgálati eszköze, a támogatástervezési, pénzügyi irányítási és kontrollrendszerének leírása szövegesen vagy táblázatba foglalva, vagy folyamatábrával szemléltetve, amely tartalmazza különösen a felelősségi és információs szinteket és kapcsolatokat, továbbá irányítási és kontrollfolyamatokat, lehetővé téve azok nyomon követését és utólagos ellenőrzését,
 
-6. finanszírozási keret: a Gazdaságfejlesztési Operatív Program 4. pénzügyi eszközök prioritásra és a Közép-Magyarországi Operatív Program 1.3. intézkedésre vonatkozó kötelezettségvállalások mindenkori támogatási keretösszegei, amelyeket a Nemzeti Fejlesztési Ügynökség (a továbbiakban: NFÜ) a finanszírozási szerződés szerint az 1083/2006/EK tanácsi rendelet 44. cikk b) pont (ii) alpontjában meghatározott holdingalapra, illetve annak kezelésével összefüggésben felmerülő feladatok ellátására kijelölt pénzügyi vállalkozás (a továbbiakban: forráskezelő szervezet) rendelkezésére bocsát,
+6.[^5] finanszírozási keret: a Gazdaságfejlesztési Operatív Program 4. pénzügyi eszközök prioritásra és a Közép-Magyarországi Operatív Program 1.3. intézkedésre vonatkozó kötelezettségvállalások mindenkori támogatási keretösszegei, amelyeket az NFÜ a finanszírozási szerződés szerint a forráskezelő szervezet rendelkezésére bocsát,
 
-7. folyamatos elbírálás: olyan eljárás, amely során a támogatásra vonatkozó döntés előkészítése és meghozatala a beérkezés sorrendjében a rendelkezésre álló forrás kimerüléséig történik,
+7.[^6]
 
 8. forrásgazda: az alapok előirányzatai esetében a tervezési, előirányzat-módosítási, felhasználási, beszámolási, információszolgáltatási, ellenőrzési kötelezettségek viselője és jogok gyakorlója,
+
+8a.[^7] forráskezelő szervezet: az NFÜ által az 1083/2006/EK tanácsi rendelet 44. cikkében meghatározott holdingalap kezelésével összefüggésben felmerülő feladatok ellátására kijelölt pénzügyi vállalkozás,
 
 9. hitelesítési jelentés: a költségigazoló nyilatkozat alátámasztása érdekében az igazoló hatóság által meghatározott formátumban és ütemezéssel az igazoló hatóság részére benyújtandó jelentés,
 
@@ -34,39 +38,51 @@
 
 16. konzorcium: több kedvezményezett támogatásával megvalósuló projektek esetében a részes felek (tagok) polgári jogi szerződésben szabályozott munkamegosztásán alapuló együttműködése a projekt közös megvalósítása, valamint ennek érdekében közös gazdasági érdekeik előmozdítása és erre irányuló tevékenységük összehangolása céljából,
 
-16a.[^1] közkiadás: az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendelet 2. cikk 5. pontja szerinti kiadás, amelynek részét képezi az uniós és a központi költségvetési támogatáson kívül a közbeszerzésekről szóló 2011. évi CVIII. törvény 6. § (1) bekezdése alapján ajánlatkérőnek minősülő közszféra szervezet kedvezményezett által biztosított elismerhető saját forrás is,
+16a.[^8] közkiadás: az 1083/2006/EK tanácsi rendelet 2. cikk 5. pontja szerinti kiadás, amelynek részét képezi az uniós és a központi költségvetési támogatáson kívül a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 6. § (1) bekezdése alapján ajánlatkérőnek minősülő közszféra szervezet kedvezményezett által biztosított elismerhető saját forrás is,
 
-17. közreműködő szervezet: az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendelet (a továbbiakban: 1083/2006/EK tanácsi rendelet) 2. cikk 6. pontja szerint bármely közjogi vagy magánjogi intézmény, amely egy irányító vagy az igazoló hatóság illetékessége alatt jár el, vagy ilyen hatóság nevében hajt végre feladatokat a műveleteket végrehajtó kedvezményezettek tekintetében,
+17.[^9] közreműködő szervezet: az 1083/2006/EK tanácsi rendelet 2. cikk 6. pontja szerinti szervezet,
 
-18. közvetítő: olyan szervezet vagy személy, amely a közvetítői szerződések alapján a kedvezményezettek javára a velük megkötött hitel-, kölcsön-, kezességi vagy tőkebefektetésre irányuló szerződések feltételeibe beépített, visszatérítendő támogatást közvetít,
+18.[^10]
 
-19. lehívási értesítés: a gazdasági eseményt hitelesen dokumentáló olyan bizonylat, amellyel a forráskezelő szervezet kezdeményezi az NFÜ-nél a finanszírozási keret terhére történő kifizetést a programszámlára, és amely az igazoló hatóság számára az Európai Bizottsággal történő elszámolás alapját képezi,
+19.[^11] lehívási értesítés: a gazdasági eseményt hitelesen dokumentáló olyan bizonylat, amellyel a forráskezelő szervezet kezdeményezi az NFÜ-nél a finanszírozási keret terhére történő kifizetést a programszámlára, vagy amellyel az alapkezelő szervezet kezdeményezi az NFÜ-nél a kifizetést és amely az igazoló hatóság számára az Európai Bizottsággal történő elszámolás alapját képezi,
 
-20. pénzügyi eszköz: hitel, tőke vagy garancia eszköz,
+19a.[^12] nagyprojekt: az 1083/2006/EK tanácsi rendelet 39. cikke szerinti projekt,
 
-21. programszámla: erre a számlára kerülnek átutalásra a lebonyolítási számláról a Pénzügyi eszközök programot érintő támogatások,
+20.[^13] pénzügyi eszköz: hitel, pénzkölcsön, lízing, kockázati tőke vagy garancia eszköz,
+
+20a.[^14] pénzügyi konstrukció: a pénzügyi közvetítő vagy az alapkezelő által a kedvezményezettnek kínált pénzügyi eszköz, amelynek feltételeiről a pénzügyi közvetítő vagy az alapkezelő a kedvezményezettel a közöttük létrejött szerződésben állapodik meg,
+
+20b.[^15] pénzügyi közvetítő: olyan szervezet, amely a holdingalapon keresztül megvalósuló pénzügyi program esetében a közvetítői szerződés alapján a kedvezményezett javára támogatott pénzügyi konstrukció igénybevételét teszi lehetővé,
+
+21.[^16] programszámla: a kincstár által az NFÜ, mint számlajogosult javára az egyes operatív programokon belül programonként megnyitott és vezetett, a programok finanszírozására szolgáló elkülönített pénzforgalmi számla, amely felett az irányító hatóság a forráskezelő szervezetnek rendelkezési jogot biztosít,
 
 22. projekt: az 1083/2006/EK tanácsi rendelet 2. cikk 3. pontjában meghatározott művelet,
 
 23. regionális program: regionális operatív program, illetve az ágazati és regionális prioritásokat egyaránt tartalmazó Közép-Magyarország operatív program regionális prioritása, vagy támogatási konstrukciója,
 
-24.[^2] szabálytalanság: az 1083/2006/EK tanácsi rendelet 2. cikk 7. pontjában foglaltak, továbbá a nemzeti jogszabályok előírásainak, és a támogatási szerződésben a felek által vállalt kötelezettségeknek a megsértése, amelyek eredményeképpen Magyarország pénzügyi érdekei sérülnek, illetve sérülhetnek,
+24.[^17] szabálytalanság: az 1083/2006/EK tanácsi rendelet 2. cikk 7. pontjában foglaltak, továbbá a nemzeti jogszabályok előírásainak, és a támogatási szerződésben a felek által vállalt kötelezettségeknek a megsértése, amelyek eredményeképpen Magyarország pénzügyi érdekei sérülnek, illetve sérülhetnek,
 
 25. szabálytalanság-felelős: az NFÜ, illetve a közreműködő szervezet (a továbbiakban együtt: lebonyolításban érintett szervezet) alkalmazásában álló, a szabálytalansági eljárással kapcsolatos feladatok ellátására kijelölt személy,
 
 26. támogatási konstrukció: azonos céllal, támogatható tevékenységekkel, támogatási formával és indikátorokkal jellemezhető egy vagy több pályázat, illetve kiemelt projekt,
 
+26a.[^18] tartalék támogatási konstrukció: olyan támogatási konstrukció, amely az adott operatív program prioritásának keretein felüli többletkötelezettség-vállalás esetére, a megemelt finanszírozási keret lekötése céljából kerül nevesítésre az akciótervben, de a nevesítés kötelezettségvállalással nem jár, a tartalék támogatási konstrukcióban meghatározott tartalék pályázati kiírások, tartalék kiemelt projektek a tartalék támogatási konstrukció aktiválásáig nem indíthatók,
+
+26b.[^19] tartalék támogatási konstrukció aktiválása: a korábban tartalékként nevesített támogatási konstrukció törlése, egyúttal annak a 26. pont szerinti támogatási konstrukcióként történő megjelenítése az akcióterv módosítása révén,
+
 27. támogatási szerződés: a kedvezményezett és az NFÜ között létrejött polgári jogi szerződés,
 
 28. támogatói okirat: a lebonyolításban érintett szervezet által kiadott dokumentum, amely a pályázat elfogadásával keletkeztet a támogatás nyújtásának és felhasználásának részletes szabályairól szólóan polgári jogi jogviszonyt,
 
-29. technikai segítségnyújtás projektjei: azon projektek, amelyek célja a II. Nemzeti Fejlesztési Terv hatékony, eredményes, szabályszerű, átlátható megvalósításának biztosítása és a végrehajtásáért felelős intézményrendszer magas színvonalú működése,
+29.[^20] technikai segítségnyújtás projektjei: azon projektek, amelyek célja a Nemzeti Stratégiai Referencia Keret hatékony, eredményes, szabályszerű, átlátható megvalósításának biztosítása és a végrehajtásáért felelős intézményrendszer magas színvonalú működése,
 
-30. termék: a közvetítő által a potenciális igénybevevőknek kínált pénzügyi eszköz, amelynek feltételeiről a közvetítő és az igénybevevő a közöttük létrejött hitel-, kölcsön-, kezességi vagy tőkebefektetésre irányuló szerződésben állapodik meg,
+30.[^21]
 
 31. tényfeltáró látogatás: a költségigazoló nyilatkozat alátámasztása érdekében az igazoló hatóság által a támogatások lebonyolításában érintett szervezeteknél végzett, az eljárások megfelelőségének vizsgálatára irányuló helyszíni ellenőrzés,
 
 32. tényfeltáró vizsgálat: a költségigazoló nyilatkozat alátámasztása érdekében az igazoló hatóság által a támogatások lebonyolításában érintett szervezeteknél végzett számlák és egyéb, kifizetési kérelmet alátámasztó dokumentumok ellenőrzése,
+
+32a.[^22] többletkötelezettség-vállalás: az operatív program valamely prioritásának keretét meghaladó, az államháztartásért felelős miniszter által jóváhagyott kötelezettség-vállalás,
 
 33. utófinanszírozás: a kedvezményezett vagy a támogatási szerződésben megnevezett, a projekt végrehajtásában részt vevő által kifizetett számlák vagy egyéb, az egységes működési kézikönyvben meghatározott, az elszámolást alátámasztó dokumentumok támogatási összegének utólagos megtérítése közvetlenül a kedvezményezett, vagy az engedményes pénzforgalmi számlájára.
 
@@ -84,5 +100,24 @@ rendelkezései szerint kell értelmezni.
 
 (3) Ha támogatási konstrukció esetében közreműködő szervezet nem kerül kijelölésre, és e rendelet közreműködő szervezetet említ, azon az NFÜ-t kell érteni.
 
-[^1]: A 2. § 16a. pontját a 153/2011. (VIII. 10.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 153/2011. (VIII. 10.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
-[^2]: A 2. § (1) bekezdés 24. pontja a 304/2011. (XII. 23.) Korm. rendelet 43. §-a szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 1. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés 1a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^4]: A 2. § (1) bekezdés 5. pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 1. pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés 6. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdés 7. pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^7]: A 2. § (1) bekezdés 8a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^8]: A 2. § 16a. pontját a 153/2011. (VIII. 10.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 25/2012. (II. 29.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^9]: A 2. § (1) bekezdés 17. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
+[^10]: A 2. § (1) bekezdés 18. pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^11]: A 2. § (1) bekezdés 19. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^12]: A 2. § (1) bekezdés 19a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (8) bekezdése iktatta be.
+[^13]: A 2. § (1) bekezdés 20. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
+[^14]: A 2. § (1) bekezdés 20a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (10) bekezdése iktatta be.
+[^15]: A 2. § (1) bekezdés 20b. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (10) bekezdése iktatta be.
+[^16]: A 2. § (1) bekezdés 21. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (11) bekezdésével megállapított szöveg.
+[^17]: A 2. § (1) bekezdés 24. pontja a 304/2011. (XII. 23.) Korm. rendelet 43. §-a szerint módosított szöveg.
+[^18]: A 2. § (1) bekezdés 26a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (12) bekezdése iktatta be.
+[^19]: A 2. § (1) bekezdés 26b. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (12) bekezdése iktatta be.
+[^20]: A 2. § (1) bekezdés 29. pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 2. pontja szerint módosított szöveg.
+[^21]: A 2. § (1) bekezdés 30. pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^22]: A 2. § (1) bekezdés 32a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (13) bekezdése iktatta be.
