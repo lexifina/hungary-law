@@ -4,20 +4,22 @@
 
 a) az adatfelelős neve és székhelye, az adatfelelőssel való kapcsolattartás adatai (elérhetőség);
 
-b) a szerv nyilatkozatát arra vonatkozóan, hogy
+b)[^16] a szerv nyilatkozatát arra vonatkozóan, hogy
 
-ba) az Eitv. 3. § (1) bekezdése szerinti szervnek,
+ba) az Infotv. 33. § (2) bekezdése szerinti szervnek vagy
 
-bb) megyei önkormányzat vagy 50 000-nél nagyobb lakónépességű városnak, illetve
+bb) egyéb, az Infotv. 33. § (2) bekezdésében nem nevesített közfeladatot ellátó szervnek
 
-bc) egyéb helyi önkormányzatok, vagy a ba) és bb) pontban nem nevesített, helyi önkormányzatnak nem minősülő egyéb közfeladatot ellátó szervnek
-
-## minősül-e.
+minősül-e.
 
 (2) Ha az adatfelelős közzétételi kötelezettségének adatközlő útján tesz eleget, az adatközlőnek az (1) bekezdés a) pontjában foglalt adatait is bejelenti a miniszternek nyilvántartásba vétel céljából.
 
-(3) A bejelentés alapján a miniszter az adatfelelőst nyilvántartásba veszi, és megküldi számára az egységes közadatkereső rendszerhez és a központi elektronikus jegyzékhez való csatlakozáshoz szükséges hozzáférési azonosítót. Ha az adatfelelős kéri, a hozzáférési azonosítót a miniszter az adatközlő számára küldi meg.
+(3)[^17] A bejelentés alapján a miniszter az adatfelelőst nyilvántartásba veszi, és engedélyezi számára az egységes közadatkereső rendszerhez és a központi elektronikus jegyzékhez való csatlakozást.
 
 (4) Az adatfelelős vagy jogutódja a minisztert tájékoztatja az (1) bekezdésben foglalt adatainak megváltozásáról, beleértve az adatfelelős megszűnését vagy átalakulását is.
 
-(5) A bejelentés vagy a változás bejelentésének elmulasztása esetén az adatfelelős az Eitv.-ben foglaltak szerint felel.
+(5)[^18] A bejelentés vagy a változás bejelentésének elmulasztása esetén az adatfelelős az Infotv.-ben foglaltak szerint felel.
+
+[^16]: A 13. § (1) bekezdés b) pontja az 55/2012. (III. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^17]: A 13. § (3) bekezdése az 55/2012. (III. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^18]: A 13. § (5) bekezdése az 55/2012. (III. 30.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.

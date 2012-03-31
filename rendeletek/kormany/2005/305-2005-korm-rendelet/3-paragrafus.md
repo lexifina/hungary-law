@@ -1,10 +1,10 @@
-3. § (1) A saját honlapon közzétevő, a nem saját honlapon közzétevő adatfelelős és az adatközlő közzétételi kötelezettsége teljesítésének szervezeten belüli részletes szabályait – az Eitv. és e rendelet keretei között – közzétételi szabályzatban határozza meg. A nem saját honlapon közzétevő adatfelelős a közreműködő adatközlővel együtt közös közzétételi szabályzatot is létrehozhat.[^1]
-
-(2) A közzétételi szabályzatban kell meghatározni:
+3. §[^4] (1)[^5] A közzétételi szabályzatban kell meghatározni:
 
 a) a közzététellel, helyesbítéssel, frissítéssel és eltávolítással kapcsolatos feladatok ellátásának részletes rendjét;
 
-b) az a) pont szerinti feladatok ellátására kijelölt munkaköröket, a munkakörök közötti együttműködés rendjét.[^2]
+b) az a) pont szerinti feladatok ellátására kijelölt munkaköröket, a munkakörök közötti együttműködés rendjét.
 
-[^1]: Lásd a 14/2009. (V. 20.) SZMM utasítást.
-[^2]: Lásd a 13/2011. (VIII. 4.) MEG utasítást.
+(2) A nem saját honlapon közzétevő adatfelelős a közreműködő adatközlővel együtt közös közzétételi szabályzatot is létrehozhat.
+
+[^4]: A 3. § az 55/2012. (III. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: [Az 55/2012. (III. 30.) Korm. rendelet 11. § a) pontjával elrendelt módosítás, amely szerint az „Eitv.”szövegrész helyébe az „Infotv.” szöveg lép, nem vezethető át.]
