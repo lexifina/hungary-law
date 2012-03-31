@@ -4,7 +4,7 @@
 
 (2)[^4] Az igazolvány kiadására irányuló eljárás kérelemre indul. A kérelemnek a 2. számú mellékletben meghatározott adatokat kell tartalmaznia. A kérelemhez mellékelni kell az 1. számú mellékletben meghatározott szakvéleményt vagy szakhatósági állásfoglalást. Ha az ügyfél nem személyesen vagy nem az (1) bekezdés szerinti hatóságnál nyújtja be kérelmét, egy darab igazolványképet is mellékelnie kell a kérelméhez.
 
-(3)[^5]
+(3)[^5] Ha a kérelem benyújtásakor az 1. számú melléklet szerinti szakvélemény, szakhatósági állásfoglalás nem áll rendelkezésre, a kérelemhez mellékelni kell a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentációt és egyéb iratokat. Ebben az esetben a körzetközponti jegyző a kérelem beérkezésétől számított nyolc napon belül az iratok megküldésével megkeresi a Nemzeti Rehabilitációs és Szociális Hivatalt a közlekedőképesség minősítése érdekében. A közlekedőképesség vizsgálatára egyebekben a Kr. szabályait kell alkalmazni.
 
 (4)[^6] Az igazolvány kiadására irányuló kérelem a lakóhely vagy tartózkodási hely szerint illetékes települési önkormányzat jegyzőjénél is előterjeszthető, aki azt megvizsgálja, és az ügyfelet szükség esetén hiánypótlásra szólítja fel. Ezt követően a kérelmet haladéktalanul megküldi a jogosult lakóhelye szerint illetékes körzetközponti jegyzőnek.
 
@@ -17,7 +17,7 @@
 (8)[^10]
 
 [^4]: A 3. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 312. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^5]: A 3. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 314. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^5]: A 3. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 314. §-a hatályon kívül helyezte, újonnan a 61/2012. (III. 30.) Korm. rendelet 4. §-a iktatta be.
 [^6]: A 3. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 312. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^7]: A 3. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 314. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^8]: A 3. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 313–314. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
