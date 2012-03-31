@@ -1,0 +1,1 @@
+## „c) a pótlólagos igénylés során jelentkező finanszírozási különbözet átutalására a 101. § (4) bekezdés b) és c) pontjában vagy a (8) bekezdésében meghatározott határidők lejártát követő második hónaptól kezdődően a Kincstár a (6) bekezdés b) pontja szerinti módon utalja.”
