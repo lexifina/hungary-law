@@ -1,4 +1,4 @@
-6. § (1)[^8] A szerzési és átalakítási támogatásra (a továbbiakban együtt: közlekedési kedvezmény) a súlyos mozgáskorlátozott személy jogosult, ha
+6. § (1)[^13] A szerzési és átalakítási támogatásra (a továbbiakban együtt: közlekedési kedvezmény) a súlyos mozgáskorlátozott személy jogosult, ha
 
 a) a kérelem benyújtását megelőző hét éven belül ő maga vagy rá tekintettel más személy nem részesült a kérelem szerinti közlekedési kedvezményben, és
 
@@ -14,7 +14,9 @@ e) az 5. § (1) bekezdés b) pontja szerinti esetben szállítást végző szem�
 
 a) a szerzési támogatásban részesülés az átalakítási támogatás igénylését, valamint az átalakítási támogatásban részesülés a szerzési támogatás igénylését nem zárja ki,
 
-b) a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 164/1995. (XII. 27.) Korm. rendelet (a továbbiakban: R.) alapján kapott közlekedési kedvezmények közül a személygépkocsi szerzési és átalakítási támogatást kell figyelembe venni.
+b) a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 164/1995. (XII. 27.) Korm. rendelet (a továbbiakban: R.) alapján kapott közlekedési kedvezmények közül a személygépkocsi szerzési és átalakítási támogatást kell figyelembe venni,
+
+c)[^14] a közlekedési kedvezményben részesülés időpontjaként – ha a jogosult a támogatást ténylegesen felhasználta – a megállapító határozat jogerőre emelkedését kell figyelembe venni.
 
 (3) A közlekedési kedvezmény megállapításánál előnyben kell részesíteni azt a súlyos mozgáskorlátozott személyt, aki
 
@@ -28,4 +30,5 @@ d) honvédelmi kötelezettség teljesítése során, azzal összefüggésben vá
 
 (4) A (3) bekezdés alá nem tartozó súlyos mozgáskorlátozott személy csak akkor részesíthető közlekedési kedvezményben, ha valamennyi, a (3) bekezdésnek és a jogszabályi feltételeknek megfelelő kérelem alapján megállapították a jogosultságot, és ez a keretszámot nem merítette ki.
 
-[^8]: A 6. § (1) bekezdés nyitó szövegrésze a 189/2011. (IX. 19.) Korm. rendelet 11. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^13]: A 6. § (1) bekezdés nyitó szövegrésze a 189/2011. (IX. 19.) Korm. rendelet 11. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^14]: A 6. § (2) bekezdés c) pontját a 61/2012. (III. 30.) Korm. rendelet 10. §-a iktatta be.

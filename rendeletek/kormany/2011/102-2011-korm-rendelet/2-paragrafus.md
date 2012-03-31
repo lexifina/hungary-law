@@ -1,12 +1,12 @@
 ## 2. § E rendelet alkalmazásában
 
-a) súlyos mozgáskorlátozott személy:
+a)[^3] súlyos mozgáskorlátozott személy:
 
-aa) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény (a továbbiakban: Fot.) 23. § (1) bekezdés e) pontja alapján mozgásszervi fogyatékosnak minősülő súlyosan fogyatékos személy,
+aa) az a személy, aki a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény (a továbbiakban: Fot.) 23. § (1) bekezdés e) pontja alapján mozgásszervi fogyatékosnak minősül, vagy f) pontja alapján halmozottan fogyatékosnak minősül és halmozott fogyatékosságai közül legalább az egyik mozgásszervi fogyatékosság,
 
-ab) a 18. életévét be nem töltött, a magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet (a továbbiakban: Mr.) 1. számú mellékletének L) pontjában meghatározott mozgásszervi fogyatékosságban szenvedő személy,
+ab) az a személy, aki a 18. életévét nem töltötte be és a magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet (a továbbiakban: Mr.) 1. számú mellékletének L) pontjában meghatározott mozgásszervi fogyatékosságban szenved, vagy P) pontjában meghatározott többszörös és összetett betegségben szenved és többszörös és összetett betegségei közül legalább az egyik mozgásszervi fogyatékosságot okoz,
 
-ac) a BNO kód XIII. főcsoportjába (csont-izomrendszer és kötőszövet betegségei) tartozó vezető diagnózisra tekintettel megállapított, legalább 40%-os egészségkárosodással rendelkező személy;
+ac) a 4/A. alcím szerinti minősítési rendszer szerint a közlekedőképességében súlyosan akadályozott személy, amennyiben ez az állapota várhatóan legalább három éven keresztül fennáll;
 
 b) tanulói, képzési jogviszonyban álló:
 
@@ -32,13 +32,13 @@ cb) alapján munkanélküli járadékban, álláskeresési járadékban, állás
 
 d) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van, azzal, hogy a házastársak akkor tekinthetők különélőnek, ha lakcímük különböző;
 
-e) keretszám: az évente kiadható támogatásoknak a költségvetési törvény keretei között, a szociál- és nyugdíjpolitikáért felelős miniszter (a továbbiakban: miniszter) és a Mozgáskorlátozottak Egyesületeinek Országos Szövetsége (a továbbiakban: MEOSZ) által egyetértésben meghatározott mértéke;
+e)[^4] keretszám: az évente kiadható támogatásoknak a központi költségvetésről szóló törvény keretei között, a szociál- és nyugdíjpolitikáért felelős miniszter (a továbbiakban: miniszter) és a Mozgáskorlátozottak Egyesületeinek Országos Szövetsége (a továbbiakban: MEOSZ) által egyetértésben meghatározott mértéke;
 
 f) önálló személygépkocsi használó: az a súlyos mozgáskorlátozott személy, aki
 
 fa) gépkocsi vezetésére jogosító érvényes vezetői engedéllyel rendelkezik, vagy
 
-fb)[^1] a 4. § (1) bekezdés c) pontja esetében három- vagy négykerekű segédmotoros kerékpár vezetésére jogosító érvényes vezetői engedéllyel rendelkezik, vagy
+fb)[^5] a 4. § (1) bekezdés c) pontja esetében három- vagy négykerekű segédmotoros kerékpár vezetésére jogosító érvényes vezetői engedéllyel rendelkezik, vagy
 
 fc) az 5. § (1) bekezdés a) pontja szerinti esetben gépjárművezetői alkalmasságát az átalakítás előírásával a Nemzeti Rehabilitációs és Szociális Hivatal (a továbbiakban: szakértői szerv) vagy jogelődje megállapította,
 
@@ -50,9 +50,11 @@ ga) vér szerinti, örökbefogadó- és nevelőszülő, házastárs, élettársi
 
 gb) a súlyos mozgáskorlátozott személlyel legalább egy éve közös háztartásban élő vér szerinti, örökbefogadott és nevelt gyermek, vagy testvér,
 
-gc)[^2] a súlyos mozgáskorlátozott személy személygépkocsival történő szállítását a közérdekű önkéntes tevékenységről szóló törvény szerinti önkéntes jogviszonyban végző személy,
+gc)[^6] a súlyos mozgáskorlátozott személy személygépkocsival történő szállítását a közérdekű önkéntes tevékenységről szóló törvény szerinti önkéntes jogviszonyban végző személy,
 
 amennyiben nem áll a járművezetéstől eltiltó jogerős bírói ítélet vagy szabálysértési határozat hatálya alatt.
 
-[^1]: A 2. § f) pont fb) alpontja a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^2]: A 2. § g) pont gc) alpontját a 189/2011. (IX. 19.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 2. § a) pontja a 61/2012. (III. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^4]: A 2. § e) pontja a 61/2012. (III. 30.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § f) pont fb) alpontja a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 2. § g) pont gc) alpontját a 189/2011. (IX. 19.) Korm. rendelet 1. §-a iktatta be.

@@ -14,7 +14,7 @@ b) a 2011. év folyamán hozott, szerzési, illetve átalakítási támogatásra
 
 (4) E rendelet hatálybalépését követően a lejárt és a hatálybalépésig fel nem használt utalványokra új jogosult nem jelölhető ki. A már kiadott utalványok az érvényességük lejártáig, de legkésőbb 2011. december 31-éig használhatók fel.
 
-(5)[^25] 2011. évben
+(5)[^41] 2011. évben
 
 a) a szerzési, illetve átalakítási támogatás iránti kérelem benyújtásának határideje 2011. október 15-e,
 
@@ -22,8 +22,8 @@ b) a hivatal a jogosultságokról – az általa létrehozott bizottság vélem�
 
 (6) A 2. § f) pont fc) alpontja, a 7. § (3) bekezdés a) pont ac) alpontja, valamint a 7. § (3) bekezdés d) pont dd) alpontja alkalmazásában a szakértői szerv jogelődjének az Országos Rehabilitációs és Szociális Szakértői Intézet minősül.
 
-(7)[^26] A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet módosításáról szóló 189/2011. (IX. 19.) Korm. rendelet hatálybalépéséig[^27] benyújtott kérelmek esetében a hivatal a kérelmezőt tájékoztatja a jogszabály-változásról, és felhívja a 7. § (3) bekezdés f) pontja szerinti, kölcsönszerződés megkötésére vonatkozó nyilatkozat benyújtására a hiánypótlásra vonatkozó szabályok szerint.
+(7)[^42] A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet módosításáról szóló 189/2011. (IX. 19.) Korm. rendelet hatálybalépéséig[^43] benyújtott kérelmek esetében a hivatal a kérelmezőt tájékoztatja a jogszabály-változásról, és felhívja a 7. § (3) bekezdés f) pontja szerinti, kölcsönszerződés megkötésére vonatkozó nyilatkozat benyújtására a hiánypótlásra vonatkozó szabályok szerint.
 
-[^25]: A 13. § (5) bekezdése a 189/2011. (IX. 19.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^26]: A 13. § (7) bekezdését a 189/2011. (IX. 19.) Korm. rendelet 9. §-a iktatta be.
-[^27]: A hatálybalépés időpontja 2011. szeptember 20.
+[^41]: A 13. § (5) bekezdése a 189/2011. (IX. 19.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^42]: A 13. § (7) bekezdését a 189/2011. (IX. 19.) Korm. rendelet 9. §-a iktatta be.
+[^43]: A hatálybalépés időpontja 2011. szeptember 20.
