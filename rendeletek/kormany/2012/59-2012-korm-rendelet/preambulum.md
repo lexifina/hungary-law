@@ -1,0 +1,1 @@
+A Kormány a közoktatásról szóló 1993. évi LXXIX. törvény 94. § (3) bekezdés d), i) és p) pontjában, valamint a felsőoktatásról szóló 2005. évi CXXXIX. törvény 153. § (1) bekezdés 7. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
