@@ -12,10 +12,13 @@ az országos illetékességű központi szervét jelöli ki.
 
 (3) A Kormány
 
-a) a mozgóképszakmai hatóságként,
+a)[^1]
 
-b) a sajtóról szóló 1986. évi II. törvény 12. § (2) bekezdésében meghatározott lapnyilvántartási feladatok ellátására, valamint
+b)[^2]
 
 c) a kulturális javak kiviteléről szóló, 2008. december 18-i 116/2009/EK tanácsi rendeletben és a kulturális javak kiviteléről szóló, 3911/92/EGK tanácsi rendelet végrehajtására vonatkozó rendelkezésekről szóló, – a 2004. április 7-i 656/2004/EK bizottsági rendelettel módosított –1993. március 30-i 752/93/EGK bizottsági rendeletben meghatározott feladatok ellátására,
 
 d) előadó-művészeti államigazgatási szervként
+
+[^1]: A 3. § (3) bekezdés a) pontját az 58/2012. (III. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^2]: A 3. § (3) bekezdés b) pontját az 58/2012. (III. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.

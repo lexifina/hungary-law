@@ -50,7 +50,7 @@
 
 | 1.5. | rövid- és hosszú távú kutathatóságát. |
 
-## B. Műemléket, műemléki környezetet, illetve műemléki jelentőségű területet érintő, más hatóságok előtt indult eljárásokban
+## B. Műemléket, műemléki környezetet, műemléki jelentőségű területet, valamint történeti tájat érintő, más hatóságok előtt indult eljárásokban
 
 | I. | A műemléki környezetet, illetve külön jogszabályban meghatározott esetben műemléket érintő, más hatóságok előtt indult eljárásokban a Hivatal és a szakigazgatási szerv szakhatósági feladatkörébe tartozó szakkérdések: |
 
@@ -90,7 +90,19 @@
 
 | 3.4. | a reklámhordozóknak, fényforrásoknak, illetve egyéb homlokzati szerelvényeknek és berendezéseknek a terület, illetve épület történeti jellegéhez illeszkedő alkalmazása. |
 
-3. melléklet a 324/2010. (XII. 27.) Korm. rendelethez[^3]
+| III. | A történeti tájat érintő, más hatóságok előtt indult eljárásokban a Hivatal és a szakigazgatási szerv szakhatósági feladatkörébe tartozó szakkérdések: |
+
+| 1. | A történeti táj teljes területén azon jellemzők fennmaradásának és érvényesülésének biztosítása, amelyek a történeti tájjá nyilvánításról szóló rendeletben védendő értékként meghatározásra kerültek. |
+
+| 2. | A történeti táj területén a természeti, illetve az épített elemek minőségének, mennyiségének és arányának, azok történetileg kialakult, vallási, kultúrtörténeti, történelmi szempontból jelentős eseményhez kapcsolódó vagy tájhasználattal összefüggő viszonyrendszerének fenntartása az értékek fennmaradását szolgáló fenntartható használat és fejlődés figyelembevételével; ezen belül |
+
+| 2.1. | a táj jellegének, egységességének, történelmileg kialakult szerkezetének, valamint a történetileg kialakult hagyományos tájhasználat által formált összképének, továbbá a környezetével való kapcsolatának megőrzése; |
+
+| 2.2. | a történeti hagyományokon alapuló folytonosság és folyamatosság fenntartása a táj- és területhasználatban, beleértve ebbe a kulturális és táji örökség tárgyi és nem tárgyiasult elemei és tényezői összességét, így különösen a településépítészeti és az építészeti hagyományok, a régészeti, a hagyományos épített, a műemléki, a művészeti vagy a műszaki környezet anyagi megnyilvánulásának megőrzését; |
+
+| 2.3. | a természet és az emberi tevékenység egymásra hatása eredményeként kialakult tájkép és annak jellegzetes elemeinek, valamint esztétikai minőségének – a táj- és természetvédelem szempontjainak figyelembevételével megvalósuló – kulturális örökségvédelmi szemléletű megőrzése. |
+
+3. melléklet a 324/2010. (XII. 27.) Korm. rendelethez[^6]
 
 A Kulturális Örökségvédelmi Hivatal és a kulturális örökségvédelmi szakigazgatási szervek telekalakítási eljárásában közreműködő szakhatóságok
 
@@ -116,4 +128,4 @@ A Kulturális Örökségvédelmi Hivatal és a kulturális örökségvédelmi sz
 
 | 7. | Ha a telekalakítás külterületen, valamint belterület esetén védett természeti területen, országos jelentőségű védett természeti területen, Natura 2000 területen, barlang védőövezetén belül kerül sor. | A természetvédelmi követelményeknek való megfelelés. | Környezet- védelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvé- delmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-[^3]: A 3. melléklet a 23/2012. (II. 29.) Korm. rendelet 61. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 3. melléklet a 23/2012. (II. 29.) Korm. rendelet 61. § (2) bekezdése szerint módosított szöveg.

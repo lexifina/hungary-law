@@ -2,6 +2,6 @@
 
 (2) A Hivatal az (1) bekezdés szerinti adatbázis adott eljárástípusban releváns adatait – azonosító adatként a megye, a település elnevezését, helyrajzi számot és a védettség jellegét feltüntetve, vagy EOV vetületű vektoros térképfedvényt alkalmazva – kérésre átadja azon hatóságoknak, amelyek eljárásában kormányrendelet rendelkezése alapján a szakigazgatási szerv vagy a Hivatal szakhatóságként vesz részt. A Hivatal a frissített adatbázist havonta elektronikus úton átadja az érintett hatóságoknak.
 
-(3)[^1] A Nemzeti Földalap vagyonnyilvántartásának vezetéséhez szükséges feladatok ellátása érdekében a Hivatal havonta elektronikus úton átadja a Nemzeti Földalapkezelő Szervezet részére a régészeti lelőhelyek és a régészeti védőövezetek azonosító adatait tartalmazó havonként aktualizált adatbázist.
+(3)[^3] A Nemzeti Földalap vagyonnyilvántartásának vezetéséhez szükséges feladatok ellátása érdekében a Hivatal havonta elektronikus úton átadja a Nemzeti Földalapkezelő Szervezet részére a régészeti lelőhelyek és a régészeti védőövezetek azonosító adatait tartalmazó havonként aktualizált adatbázist.
 
-[^1]: A 8. § (3) bekezdését a 11/2011. (II. 22.) Korm. rendelet 10. §-a iktatta be.
+[^3]: A 8. § (3) bekezdését a 11/2011. (II. 22.) Korm. rendelet 10. §-a iktatta be.

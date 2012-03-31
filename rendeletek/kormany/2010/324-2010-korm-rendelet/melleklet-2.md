@@ -22,4 +22,6 @@
 
 | 9. | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája (Budapest) | Budapest |
 
-2. melléklet a 324/2010. (XII. 27.) Korm. rendelethez
+2. melléklet a 324/2010. (XII. 27.) Korm. rendelethez[^5]
+
+[^5]: A 2. melléklet az 58/2012. (III. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
