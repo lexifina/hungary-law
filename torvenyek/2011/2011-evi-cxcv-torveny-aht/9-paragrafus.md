@@ -22,6 +22,8 @@ i) a költségvetési szerv jelentéstételre vagy beszámolóra való kötelez�
 
 j) a költségvetési szerv kezelésében lévő közérdekű adatok és közérdekből nyilvános adatok, valamint a b), c) és f)–i) pont szerinti irányítási jogkörök gyakorlásához szükséges, törvényben meghatározott személyes adatok kezelése.
 
+(1a) A 8. § (1) bekezdésében megjelölt alapító szervek a költségvetési szerv irányításával kapcsolatos, az (1) bekezdésben meghatározott hatásköreiket törvény, kormányrendelet, vagy megállapodás alapján egymásnak átadhatják.
+
 (2) A költségvetési szerv költségvetésének végrehajtásáért az irányító szerv közjogi felelősséggel tartozik.
 
 (3) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv esetén törvény vagy kormányrendelet az irányítási jogkört korlátozhatja, azok gyakorlásával más szervet vagy személyt ruházhat fel.

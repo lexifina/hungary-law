@@ -6,4 +6,4 @@
 
 (3) Ha a képviselő-testület a költségvetési rendeletet a költségvetési év kezdetéig vagy az átmeneti gazdálkodásról szóló rendelet hatályvesztéséig nem alkotta meg, és az átmeneti gazdálkodásról rendeletet nem alkotott, vagy az átmeneti gazdálkodásról szóló rendelet hatályát vesztette, a polgármester jogosult a helyi önkormányzatot megillető bevételek beszedésére és az előző évi kiadási előirányzatokon belül a kiadások arányos teljesítésére.
 
-(4) Az (1) és (3) bekezdés alapján folytatott gazdálkodásról a képviselő-testület részére a polgármester beszámol. A képviselő-testület az új költségvetési rendeletet az (1) és (3) bekezdés szerint beszedett bevételeket és teljesített kiadásokat az új költségvetési rendeletbe beépítve fogadja el.
+(4) A (3) bekezdés alapján folytatott gazdálkodásról a képviselő-testület részére a polgármester beszámol. A képviselő-testület az új költségvetési rendeletet az (1) és (3) bekezdés szerint beszedett bevételeket és teljesített kiadásokat az új költségvetési rendeletbe beépítve fogadja el.

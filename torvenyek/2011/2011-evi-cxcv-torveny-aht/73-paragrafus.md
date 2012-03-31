@@ -20,6 +20,6 @@ bd) az állam nevében a többségi állami tulajdonú gazdasági társaságnak 
 
 be) az MNV Zrt.-nek a rábízott vagyonnal való gazdálkodás során hitelviszonyt megtestesítő értékpapírokkal végzett műveletei, és
 
-bf) a 79. § (4) bekezdése szerinti megelőlegezések és azok visszatérítése.
+bf) a 78. § (4) bekezdése szerinti megelőlegezések és azok visszatérítése.
 
 (2) A devizában kibocsátott, értékesített, visszavásárolt értékpapírok, felvett és törlesztett hitelek, kölcsönök kibocsátásakor, értékesítésekor, visszavásárlásakor, felvételekor, törlesztésekor érvényesített devizaárfolyammal – az árfolyamfedezeti műveletek figyelembevétele mellett – meghatározott forintértékét kell finanszírozási bevételként, kiadásként elszámolni.

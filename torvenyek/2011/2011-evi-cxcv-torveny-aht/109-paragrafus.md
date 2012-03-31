@@ -22,7 +22,7 @@
 
 8. a kincstári költségvetés tartalmi és formai követelményeit, kiadásának rendjét, az elemi költségvetés készítésével kapcsolatos követelményeket, a bevételi kiemelt előirányzatokat, a továbbadási célú bevételek elszámolásának sajátos szabályait,
 
-9. a költségvetési szerv és a fejezeti kezelésű előirányzat többletbevétele felhasználása engedélyezésének eseteit, az engedélyezés szempontjait, eljárási szabályait, az engedélyezők körét, az engedély megadása, megtagadása esetén a többletbevétel további rendeltetését, a 33. § (2) bekezdése szerinti eseteket, valamint az előirányzatok módosításának, átcsoportosításának eseteit, feltételeit, részletes szabályait, az arra jogosultakat,
+9. a költségvetési szerv és a fejezeti kezelésű előirányzat többletbevétele felhasználása engedélyezésének eseteit, az engedélyezés szempontjait, eljárási szabályait, az engedélyezők körét, az engedély megadása, megtagadása esetén a többletbevétel további rendeltetését, a 33. § (2) bekezdése szerinti eseteket, valamint az előirányzatok módosításának és az előirányzatok átcsoportosításának módját, az előirányzat-csoportok közötti és a kiemelt előirányzatok közötti átcsoportosítás eseteit, módját és az arra jogosultak körét
 
 10. a 32. § szerinti előirányzatoknál a jóváhagyott előirányzat túllépésének rendjét,
 
@@ -74,7 +74,9 @@
 
 34. az államháztartási összesítések konszolidációs rendjét, és
 
-35. a központosított illetményszámfejtés szabályait.
+35. a központosított illetményszámfejtés szabályait,
+
+36. a letéti pénzkezeléshez kapcsolódóan a letéti számla megnyitásának, a letéti számlán lévő pénzeszközzel való pénzügyi műveletek végzésének és a letéti számla vezetésének szabályait.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
@@ -130,4 +132,6 @@ d) a kezelő szerv esetleges kijelölését, a lebonyolító szerv igénybevéte
 
 (7) Az (1) bekezdés 15. pontjában foglalt felhatalmazás alapján kiadott kormányrendeletben meghatározott nyilvántartásokkal kapcsolatos adatfeldolgozási feladatok ellátásával az adatkezelő csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
-(8) A kormányzati szektorba sorolt egyéb szervezetek megnevezését az államháztartásért felelős miniszter a Hivatalos Értesítőben és a Kormány honlapján közzéteszi.
+(8) A kormányzati szektorba sorolt egyéb szervezetek és a besorolás szempontjából statisztikai módszertani vizsgálat alá vett jogi személyek megnevezését az államháztartásért felelős miniszter a Hivatalos Értesítőben és a Kormány honlapján közzéteszi.
+
+(9) A nemzetközi pénzügyi intézményekkel létrehozandó megállapodásokat az államháztartásért felelős miniszter köti meg.

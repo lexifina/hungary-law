@@ -22,4 +22,4 @@ h) a finanszírozási célú pénzügyi műveletekkel kapcsolatos hatásköröke
 
 (3) A költségvetési rendeletben elkülönítetten szerepel az évközi többletigények, valamint az elmaradt bevételek pótlására szolgáló általános tartalék és céltartalék.
 
-(4) Az általános és céltartalék felett a képviselő-testület rendelkezik, amely e jogát a polgármesterre vagy a képviselő-testület bizottságára átruházhatja.
+(4)

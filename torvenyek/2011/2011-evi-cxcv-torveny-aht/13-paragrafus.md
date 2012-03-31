@@ -8,6 +8,6 @@
 
 (4) A fejezetet irányító szerv a megtervezett bevételeket és kiadásokat július 31-ig egyezteti az államháztartásért felelős miniszterrel, egyidejűleg tájékoztatást ad a költségvetési bevételeket és a költségvetési kiadásokat befolyásoló jogszabályok, közjogi szervezetszabályozó eszközök, szerződések vagy más kötelezettségek módosításának lehetőségéről, módjáról.
 
-(5) A központi költségvetésről szóló törvény elkészítéséhez a kormányzati szektorba sorolt egyéb szervezet, valamint a besorolás szempontjából statisztikai módszertani vizsgálat alá vett állami, helyi önkormányzati, nemzetiségi önkormányzati tulajdonban álló jogi személy adatszolgáltatást teljesít az államháztartásért felelős miniszternek.
+(5) A központi költségvetésről szóló törvény elkészítéséhez a kormányzati szektorba sorolt egyéb szervezet, valamint a besorolás szempontjából statisztikai módszertani vizsgálat alá vett jogi személy adatszolgáltatást teljesít az államháztartásért felelős miniszternek.
 
 (6) A (2)–(5) bekezdés alapján az államháztartásért felelős miniszter elkészíti a központi költségvetésről szóló törvényjavaslat tervezetét, amelyet az abban foglaltak megalapozásához szükséges törvénymódosításokat tartalmazó önálló törvényjavaslattal együtt a Kormány elé terjeszt.
