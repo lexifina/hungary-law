@@ -16,7 +16,7 @@ d) a Fővárosi Önkormányzat és a megyei jogú város esetében a 100 millió
 
 (3) Az önkormányzat 3. § (1) bekezdése szerinti adósságot keletkeztető ügyletből származó tárgyévi összes fizetési kötelezettsége az adósságot keletkeztető ügylet futamidejének végéig egyik évben sem haladja meg az önkormányzat adott évi saját bevételeinek 50%-át.
 
-(4) Az önkormányzat működési célra csak likvid hitelt vehet fel.
+(4)
 
 (5) A települési önkormányzatok többcélú kistérségi társulása és az önkormányzatok egyéb, jogi személyiséggel rendelkező társulása adósságot keletkeztető ügylethez kapcsolódó kötelezettségeinek teljesítését a társulásban résztvevő önkormányzatok kezességvállalása biztosítja.
 
@@ -24,7 +24,7 @@ d) a Fővárosi Önkormányzat és a megyei jogú város esetében a 100 millió
 
 (7) Az önkormányzat a tárgyévre vonatkozó költségvetési rendeletében, határozatában szerepeltetett adósságkeletkeztetési szándékáról, az adósságot keletkeztető ügyletéhez kapcsolódó fejlesztési céljáról és az ügylet várható értékéről a Kormányt előzetesen tájékoztatja a kormányzati hozzájáruláshoz kötött ügyletek esetében.
 
-(8) Az önkormányzat fejlesztési célú adósságot keletkeztető ügyletéhez a Kormány a következő feltételek együttes fennállása esetén járul hozzá:
+(8) Az önkormányzat adósságot keletkeztető ügyletéhez a Kormány a következő feltételek együttes fennállása esetén járul hozzá:
 
 a) az adósságot keletkeztető ügylet az államháztartás önkormányzati alrendszere adósságának a központi költségvetésről szóló törvényben meghatározott mértéke teljesítését nem veszélyezteti,
 
@@ -44,6 +44,6 @@ d) egyéb adósságot keletkeztető ügylet esetén az ügyletet alátámasztó 
 
 (10) A Kormány az önkormányzat olyan adósságot keletkeztető ügyletéhez, amelynek célja azzal megegyező összegű meglévő adósság visszafizetése, abban az esetben járul hozzá, amennyiben teljesül a (3) bekezdés szerinti feltétel. Kivételes vagy az önkormányzat működését veszélyeztető esetben a Kormány a (3) bekezdésben foglalt rendelkezések alkalmazásától eltekinthet.
 
-(11) A (3) bekezdés szerint megállapítandó fizetési kötelezettség mértékébe nem számítandó bele a likvid hitelből és az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelből származó, de beleszámítandó a kezességvállalásból eredő fizetési kötelezettségek összege.
+(11) A (3) bekezdés szerint megállapítandó fizetési kötelezettség mértékébe nem számítandó bele a likvid hitelből, az európai uniós vagy nemzetközi szervezettől elnyert támogatás előfinanszírozásának biztosítására szolgáló adósságot keletkeztető ügyletből, a víziközmű-társulattól annak megszűnése miatt átvett hitelből, és az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelből származó fizetési kötelezettségek összege, de beleszámítandó a kezesség-, illetve garanciavállalásból eredő, jogosult által érvényesített fizetési kötelezettségek összege.
 
 (12) Az önkormányzat – az Európai Unió kötelező jogi aktusából következő vagy nemzetközi szervezet felé vállalt kötelezettségből eredő fejlesztést kivéve – nem indíthat új fejlesztést, ha adósságot keletkeztető ügyletéhez kapcsolódó tárgyévi összes fizetési kötelezettsége eléri vagy meghaladja a (3) bekezdés szerinti mértéket.
