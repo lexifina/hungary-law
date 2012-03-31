@@ -8,4 +8,6 @@ c) a fővárosi és megyei kormányhivatal véleménye szerint az ügylethez kap
 
 d) a hozzájárulás megadása veszélyezteti az államadósság-mutató előző évhez viszonyított tervezett csökkenését.
 
-(2) A Kormány döntéséről – annak meghozatalát követően haladéktalanul – a helyi önkormányzatokért felelős miniszter értesíti az önkormányzatot.
+(2)[^11] A Kormány 8. § (2) bekezdés szerinti döntéséről – annak meghozatalát követően haladéktalanul – a helyi önkormányzatokért felelős miniszter értesíti az önkormányzatot a kincstár által üzemeltetett elektronikus rendszeren keresztül.
+
+[^11]: A 9. § (2) bekezdése az 56/2012. (III. 30.) Korm. rendelet 24. §-ával megállapított szöveg.

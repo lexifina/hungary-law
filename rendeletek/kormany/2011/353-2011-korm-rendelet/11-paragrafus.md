@@ -1,4 +1,4 @@
-## 10. § A 3. §-t, a 4. §-t, az 5. § (1) bekezdését, az 5. § (2) bekezdés a)–c) és f) pontját, a 6. § (1) bekezdés d) pontját, a 6. § (2) bekezdés a) pontját, a 7. § (1) bekezdés b) pontját és a 9. § (1) bekezdés b) és d) pontját olyan ügylet esetében, amelynek célja azzal megegyező összegű meglévő adósság visszafizetése, nem kell alkalmazni.
+## 10. §[^12] A 3. §-t, a 4. §-t, az 5. § (1) bekezdését, az 5. § (2a) bekezdés a)–c), f) és g) pontját, a 6. § (1) bekezdés d) pontját, a 6. § (2) bekezdés a) pontját, a 7. § (1) bekezdés b) pontját és a 9. § (1) bekezdés b) és d) pontját olyan ügylet esetében, amelynek célja azzal megegyező összegű meglévő adósság visszafizetése, nem kell alkalmazni.
 
 ## 3. A kormányzati szektorba sorolt egyéb szervezetek ügyleteinek engedélyezése
 
@@ -15,3 +15,5 @@ b) fejlesztési célú ügylet esetén a fejlesztési cél megjelölését, a fe
 a) a kormányzati szektorba sorolt egyéb szervezetnek a kérelem benyújtását megelőző három évről készült, a számvitelről szóló törvény szerinti beszámolóját (ideértve a kiegészítő mellékletet is), továbbá – ha a kormányzati szektorba sorolt egyéb szervezet a számvitelről szóló törvény alapján könyvvizsgálatra köteles – a beszámolóról készült könyvvizsgálói jelentést, és
 
 b) a kormányzati szektorba sorolt egyéb szervezet tárgyévi üzleti tervét vagy nyilatkozatot arról, hogy üzleti terv készítését az alapító, tulajdonos szervezet, illetve az alapítói, tulajdonosi jogokat gyakorló szervezet nem írta elő.
+
+[^12]: A 10. § az 56/2012. (III. 30.) Korm. rendelet 28. §-a szerint módosított szöveg.
