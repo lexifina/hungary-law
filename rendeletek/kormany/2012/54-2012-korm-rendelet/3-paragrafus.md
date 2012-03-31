@@ -1,0 +1,5 @@
+## 2. § A megyei intézményfenntartó központokról, valamint a megyei önkormányzatok konszolidációjával, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egészségügyi intézményeinek átvételével összefüggő egyes kormányrendeletek módosításáról szóló 258/2011. (XII. 7.) Korm. rendelet 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A megyei intézményfenntartó központ által fenntartásba átvett intézmények közül az önállóan működő és gazdálkodó költségvetési szervként működő szociális, illetve gyermekjóléti, gyermekvédelmi intézmények 2012. április 1-jével önállóan működő költségvetési szervekké alakulnak át. Ezen időponttól kezdve az érintett szervek tekintetében a gazdálkodással összefüggő feladatokat a megyei intézményfenntartó központ látja el. Az átvett intézmények közül az önállóan működő költségvetési szervek gazdálkodással összefüggő feladatait 2012. január 1-jétől a megyei intézményfenntartó központ látja el.”
+
+3. § Ez a rendelet a kihirdetését követő napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
