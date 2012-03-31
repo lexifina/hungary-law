@@ -2,6 +2,4 @@
 
 24. § (1) Hatályát veszti az előadó-művészeti szervezetek működésével kapcsolatos hatósági eljárások részletes szabályairól, továbbá a zenekarok és énekkarok tevékenységéhez szükséges tárgyi feltételekről, valamint a fizetőnézőszám alsó határáról szóló 7/2009. (III. 4.) OKM rendelet 10–12. §-a.
 
-(2)[^18]
-
-[^18]: A 24. § (2) bekezdése a 19. § (1) bekezdése alapján 2012. március 31-én lép hatályba.
+(2) Hatályát veszti az előadó-művészeti szervezetek működésével kapcsolatos hatósági eljárások részletes szabályairól, továbbá a zenekarok és énekkarok tevékenységéhez szükséges tárgyi feltételekről, valamint a fizetőnézőszám alsó határáról szóló 7/2009. (III. 4.) OKM rendelet.

@@ -1,3 +1,19 @@
-6. melléklet a 14/2012. (III. 6.) NEFMI rendelethez[^24]
+## A zenekarok és énekkarok minősítéséhez szükséges fizetőnézőszám alsó határa
 
-[^24]: A 6. melléklet a 19. § (1) bekezdése alapján 2012. március 31-én lép hatályba.
+## A tárgyévet megelőző évben teljesített mutatókra vonatkozóan kell teljesíteni.
+
+|  | a) | szimfonikus zenekar esetében | 22 000 fő |  |
+
+|  | b) | kamara-szimfonikus zenekar esetében | 20 000 fő |  |
+
+|  | c) | kamarazenekar esetében | 15 000 fő |  |
+
+|  | d) | népi koncertzenekar esetében | 20 000 fő |  |
+
+|  | e) | big band esetében | 15 000 fő |  |
+
+|  | f) | énekkar esetében | 10 000 fő |  |
+
+|  | g) | kamarakórus esetében | 5 000 fő |  |
+
+6. melléklet a 14/2012. (III. 6.) NEFMI rendelethez

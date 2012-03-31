@@ -1,3 +1,3 @@
-## 11. §[^11]
+12. § (1) Amennyiben a 6. és 7. mellékletnek a tervszámokra vonatkozó adatlapján feltüntetett adatokban a benyújtást követően változás következik be, a módosított adatlapot legkésőbb augusztus 31-ig kell benyújtani az előadó-művészeti államigazgatási szervnek.
 
-[^11]: A 11. § a 19. § (1) bekezdése alapján 2012. március 31-én lép hatályba.
+(2) A minősített előadó-művészeti szervezetek fenntartója, ennek hiányában képviselője által benyújtott, a 6–8. mellékletben szereplő összesített adatlapokat színház, táncegyüttes, zenekar, valamint énekkar szerinti bontásban az előadó-művészeti államigazgatási szerv július 20-ig megküldi a miniszter és az érintett előadó-művészeti bizottságok részére. Az (1) bekezdésen foglaltaknak megfelelően módosított adatlapokat összesítve, színház, táncegyüttes, zenekar, valamint énekkar szerinti bontásban az előadó-művészeti államigazgatási szerv szeptember 15-ig küldi meg a miniszternek és az érintett bizottságoknak.
