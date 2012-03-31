@@ -1,4 +1,4 @@
-21/A. §[^30] (1) A befogadási eljárás során a Hivatal a szakhatósági állásfoglalását, előzetes szakhatósági hozzájárulását
+21/A. §[^33] (1) A befogadási eljárás során a Hivatal a szakhatósági állásfoglalását, előzetes szakhatósági hozzájárulását
 
 a) az adott területre szolgáltatási típusonként, a költségvetési források és a területi lefedettség figyelembevételével meghatározott befogadható kapacitások (a továbbiakban: kapacitás),
 
@@ -18,4 +18,4 @@ a) szolgáltató, intézmény, hálózat megnevezését és ellátási terület�
 
 b) ellátotti számot, illetve férőhelyszámot.
 
-[^30]: A 21/A. §-t 330/2011. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
+[^33]: A 21/A. §-t 330/2011. (XII. 29.) Korm. rendelet 27. §-a iktatta be.

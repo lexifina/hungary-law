@@ -1,4 +1,4 @@
-## 19. §[^29] A szakértői bizottság az egészségi állapotot, az egészségkárosodás mértékét, a fogyatékosságot, valamint a rehabilitálhatóságot a jogszabályokban foglaltaknak és a szakmai szabályoknak megfelelően véleményezi.
+## 19. §[^32] A szakértői bizottság az egészségi állapotot, az egészségkárosodás mértékét, a fogyatékosságot, valamint a rehabilitálhatóságot a jogszabályokban foglaltaknak és a szakmai szabályoknak megfelelően véleményezi.
 
 20. § (1) Az előadó szakértő a 18. § (2) bekezdése szerinti tevékenységéről folyamatosan konzultál a szakértői bizottság tagjaival.
 
@@ -12,4 +12,4 @@
 
 (6) A szakvéleményt az előadó szakértő és a szakértői bizottság elnöke írja alá. A szakhatósági állásfoglalást az első fokú szakhatósági eljárásban a kirendeltség-vezető, a másodfokú szakhatósági eljárásban a regionális igazgató kiadmányozza.
 
-[^29]: A 19. § a 327/2011. (XII. 29.) Korm. rendelet 25. § (9) bekezdésével megállapított szöveg.
+[^32]: A 19. § a 327/2011. (XII. 29.) Korm. rendelet 25. § (9) bekezdésével megállapított szöveg.

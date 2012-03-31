@@ -2,7 +2,7 @@
 
 ## 4. A Hivatal feladataira vonatkozó hatásköri és illetékességi szabályok
 
-## 12. §[^19] A Hivatalnak
+## 12. §[^22] A Hivatalnak
 
 a) az 5. §-ban meghatározott, a nyilvántartások vezetésére vonatkozó,
 
@@ -12,4 +12,4 @@ c) a 8. §-ban meghatározott foglalkoztatási rehabilitációs, valamint
 
 d) a 10. §-ban meghatározott betegjogi, ellátottjogi és gyermekjogi képviselőkkel kapcsolatos
 
-[^19]: A 12. § záró szövegrésze a 327/2011. (XII. 29.) Korm. rendelet (10) bekezdés d) pontja szerint módosított szöveg.
+[^22]: A 12. § záró szövegrésze a 327/2011. (XII. 29.) Korm. rendelet (10) bekezdés d) pontja szerint módosított szöveg.
