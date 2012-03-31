@@ -48,9 +48,12 @@ b) a betelepíteni kívánt összefüggő terület határától meghatározott �
 
 (7) Alanyültetvény telepítése, valamint pótlás vagy fajtaváltás esetén a telepítésre vonatkozó rendelkezéseket kell megfelelően alkalmazni azzal az eltéréssel, hogy a (4) bekezdés d) pontjában előírtakat nem kell alkalmazni.
 
+(8)[^11] Érdemi vizsgálat nélkül végzéssel elutasított, de ismételten benyújtott kérelmek esetében, amennyiben az első kérelem tartalmazta a megfelelő tulajdoni lap-másolatot, a (4) bekezdés a) pontjában előírtakat nem kell alkalmazni abban az esetben, ha az érdemi vizsgálat nélkül elutasító végzés kézhezvétele, illetve a megismételt kérelem illetékes hegybíróhoz történő benyújtása között legfeljebb harminc nap telt el, valamint a tulajdoni lap-másolat tartalmára vonatkozóan a kérelemben érdemi változás az érdemi vizsgálat nélkül végzéssel elutasított kérelemhez képest nem volt.
+
 [^5]: A 4. § a 18. § (2) bekezdése alapján 2009. augusztus 1-jén lép hatályba.
 [^6]: A 4. § (4) bekezdés f) pontját a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése hatályon kívül helyezte, újonnan az 59/2010. (V. 7.) FVM rendelet 1. § (1) bekezdése iktatta be, szövege a 63/2010. (V. 11.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: A 4. § (4) bekezdés g) pontja a 63/2010. (V. 11.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^8]: A 4. § (4) bekezdés i) pontja a 63/2010. (V. 11.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^9]: A 4. § (5) bekezdése a 63/2010. (V. 11.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^10]: A 4. § (6) bekezdése a 63/2010. (V. 11.) FVM rendelet 1. § (3) bekezdésével megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (35) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^11]: A 4. § (8) bekezdését a 31/2012. (III. 30.) VM rendelet 9. §-a iktatta be.
