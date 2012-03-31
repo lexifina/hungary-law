@@ -1,1 +1,0 @@
-## 2. § A kérelmezőnek a nyilvántartásba vétel, illetve a besorolás alapjául szolgáló adataiban, valamint a nyilvántartott adataiban bekövetkező változások nyilvántartásban történő átvezetéséért igazgatási szolgáltatási díjat kell fizetnie, amelynek mértéke az elsőfokú eljárás díjának 50%-a.
