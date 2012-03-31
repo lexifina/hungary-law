@@ -1,1 +1,3 @@
-160. § A költségvetési szervek, a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok, elkülönített állami pénzalapok, társadalombiztosítás pénzügyi alapjai kezelő szervei az éves költségvetési beszámoló készítési kötelezettségüknek az államháztartási számviteli kormányrendeletben foglalt módon és határidőre tesznek eleget.
+160. §[^48] A költségvetési szervek, a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok, elkülönített állami pénzalapok, társadalombiztosítás pénzügyi alapjai kezelő szervei, valamint a helyi önkormányzatok, a nemzetiségi önkormányzatok, a többcélú kistérségi társulások, a jogi személyiségű társulások, és a térségi fejlesztési tanácsok az éves költségvetési beszámoló készítési kötelezettségüknek az államháztartási számviteli kormányrendeletben foglalt módon és határidőre tesznek eleget.
+
+[^48]: Az Ávr. 160. § az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.

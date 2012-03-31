@@ -14,8 +14,11 @@ bc) az általános és céltartalékot, és
 
 bd) elkülönítetten az európai uniós forrásból finanszírozott támogatással megvalósuló programok, projektek kiadásait, valamint a helyi önkormányzat ilyen projektekhez történő hozzájárulásait.
 
-(2) A helyi önkormányzat által irányított költségvetési szervek közül az önkormányzati hivatal bevételi és kiadási előirányzatai között az önkormányzati hivatal nevében végzett tevékenységekkel, továbbá a képviselő-testület működésével, tagjainak díjazásával kapcsolatos költségvetési bevételeket és költségvetési kiadásokat kell megtervezni.
+(2)[^14] A helyi önkormányzat által irányított költségvetési szervek közül az önkormányzati hivatal bevételi és kiadási előirányzatai között az önkormányzati hivatal nevében végzett tevékenységekkel kapcsolatos költségvetési bevételeket és költségvetési kiadásokat kell megtervezni.
 
-(3) A helyi önkormányzat által irányított költségvetési szervek engedélyezett létszámán felül a költségvetési rendeletben költségvetési szervenként be kell mutatni a közfoglalkoztatottak létszámát is.
+(3)[^15] A helyi önkormányzat által irányított költségvetési szervek engedélyezett létszámán felül a költségvetési rendeletben költségvetési szervenként be kell mutatni az általuk foglalkoztatott közfoglalkoztatottak létszámát is. A helyi önkormányzat által foglalkoztatott közfoglalkoztatottak létszámát a költségvetési rendeletnek a helyi önkormányzat költségvetési bevételeit és költségvetési kiadásait tartalmazó részében kell bemutatni.
 
 (4) A helyi önkormányzat által irányított költségvetési szerv költségvetési bevételeit, költségvetési kiadásait, engedélyezett létszámát abban az esetben is az irányító szerv költségvetési rendelete tartalmazza, ha a helyi önkormányzat más helyi önkormányzattal vagy többcélú kistérségi társulással a 10. § (1) bekezdés b) pontja szerinti megállapodást kötött.
+
+[^14]: Az Ávr. 24. § (2) bekezdése az 56/2012. (III. 30.) Korm. rendelet 29. § (3) bekezdése szerint módosított szöveg.
+[^15]: Az Ávr. 24. § (3) bekezdése az 56/2012. (III. 30.) Korm. rendelet 7. §-ával megállapított szöveg.

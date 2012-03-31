@@ -2,7 +2,7 @@
 
 78. § (1) A költségvetési támogatás Áht. 52. § (1) és (2) bekezdése szerinti módjára vonatkozó döntés meghozatala során figyelemmel kell lenni a költségvetési támogatás céljára, a támogatott tevékenység megvalósítási időszakának hosszára, a kedvezményezett saját forrásának mértékére.
 
-(2) Előfinanszírozás esetén az egyösszegű kifizetésre a támogatott tevékenység megvalósítása során keletkező költségek felmerülése előtt kerül sor.
+(2)[^31] Előfinanszírozás esetén az egyösszegű kifizetésre a záró beszámoló elfogadása előtt kerül sor.
 
 (3) Utófinanszírozás esetén az egyösszegű kifizetésre a záró beszámoló elfogadását követően kerülhet sor.
 
@@ -31,3 +31,5 @@ történő kifizetéssel lehetséges.
 (10) Fel kell függeszteni a költségvetési támogatás folyósítását abban az esetben, ha azt jogszabály előírja vagy a támogatói okirat kiadását, támogatási szerződés megkötését követően a kedvezményezett olyan nyilatkozatot tesz, vagy a támogatás folyósítója olyan körülményről szerez tudomást, amely a költségvetési támogatás visszavonását, a támogatási szerződés felmondását vagy az attól történő elállást teheti szükségessé. A felfüggesztésről és annak okáról a kedvezményezettet soron kívül tájékoztatni kell.
 
 (11) A központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásokra e § rendelkezéseit akkor kell alkalmazni, ha a 140–142. és 144. § másként nem rendelkezik.
+
+[^31]: Az Ávr. 78. § (2) bekezdése az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.

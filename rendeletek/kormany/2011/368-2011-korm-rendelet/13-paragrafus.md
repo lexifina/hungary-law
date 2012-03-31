@@ -40,6 +40,10 @@ h) a közérdekű adatok megismerésére irányuló kérelmek intézésének, to
 
 (3) A központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja kezelő szerve a kezelt központi kezelésű előirányzatokkal, fejezeti kezelésű előirányzatokkal, elkülönített állami pénzalapokkal, társadalombiztosítás pénzügyi alapjaival kapcsolatos tervezési, gazdálkodási, finanszírozási, adatszolgáltatási és beszámolási feladataira nézve külön szabályzatot készít a (2) bekezdés a) pontjában foglalt szempontok figyelembevételével.
 
+(3a)[^13] A 10. § (3a)–(3c) bekezdése szerinti költségvetési szerv és a térségi fejlesztési tanács munkaszervezete a (2) bekezdésben foglalt szempontok figyelembevételével belső szabályzataiban rendelkezik a helyi önkormányzat, nemzetiségi önkormányzat, többcélú kistérségi társulás, jogi személyiségű társulás, térségi fejlesztési tanács sajátos tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolgáltatási és beszámolási feladatairól vagy ezekről külön szabályzatot készít.
+
 (4) Ha a költségvetési szerv számára a (2) bekezdés b)–h) pontjában felsorolt tevékenységeket jogszabály alapján más költségvetési szerv alapfeladatként látja el vagy nyújtja, az adott tevékenységre vonatkozó szabályozást a feladatot ellátó költségvetési szervvel egyeztetett módon kell kiadni.
 
 (5) A költségvetési szerv szervezeti egységei által ellátott feladatok munkafolyamatainak leírását, a szervezeti egység vezetőinek és alkalmazottainak feladat- és hatáskörét, a helyettesítés rendjét, továbbá a szervezeti egység költségvetési szerven belüli belső és azon kívüli külső kapcsolattartásának módját, szabályait – ha azokról a szervezeti és működési szabályzat vagy a költségvetési szerv más szabályzata nem rendelkezik – a szervezeti egységek ügyrendje tartalmazza.
+
+[^13]: Az Ávr. 13. § (3a) bekezdését az 56/2012. (III. 30.) Korm. rendelet 6. §-a iktatta be.

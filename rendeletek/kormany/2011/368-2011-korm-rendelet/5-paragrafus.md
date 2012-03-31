@@ -6,7 +6,7 @@ a) nevét, székhelyét, esetleges telephelyeit,
 
 b) az alapításáról rendelkező jogszabály teljes megjelölését, ha az alapításról jogszabály rendelkezett,
 
-c) közfeladatát és alaptevékenységét az államháztartás szakfeladatrendje szerinti bontásban, államháztartási szakágazati besorolását,
+c)[^2] közfeladatát és alaptevékenységét, továbbá ezek államháztartás szakfeladatrendje szerinti megjelölését, államháztartási szakágazati besorolását,
 
 d) illetékességét, működési körét,
 
@@ -29,3 +29,5 @@ c) megszűnésének időpontját vagy pontos feltételét, ha határozott időre
 (3) Ha az alapítói jogok és az irányítási jogok gyakorlására jogosult személye eltér, az alapító okiratban mindkettőt meg kell jelölni. Ha a költségvetési szervnek felügyeleti szerve van, ezt kell felügyeleti szerv elnevezéssel megjelölni az alapító okiratban.
 
 (4) Az alapító okirat módosítása esetén el kell készíteni és a módosító okirathoz csatolni az egységes szerkezetbe foglalt alapító okiratot is.
+
+[^2]: Az Ávr. 5. § (1) bekezdés c) pontja az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.

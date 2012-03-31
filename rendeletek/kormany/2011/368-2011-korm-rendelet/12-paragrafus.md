@@ -12,4 +12,6 @@ ba) ez időpontban a végzettség vagy szakképesítés megszerzéséhez szüks�
 
 bb) a rá irányadó öregségi nyugdíjkorhatárt 2016. január 1-jét megelőzően betölti.
 
-(4) A 10. § (3) bekezdése szerint működő önkormányzati hivatal esetén az (1) bekezdés szerinti végzettségi és szakképesítési követelményeket akkor nem kell alkalmazni, ha az önkormányzati hivatal állományában van olyan személy, aki a könyvviteli szolgáltatás körébe tartozó feladatok ellátása tekintetében szerepel az Szt. 151. § (3) bekezdése szerinti nyilvántartásban, és rendelkezik a tevékenység ellátására jogosító engedéllyel.
+(4)[^12] A 11. § (4) és (4a) bekezdése szerinti költségvetési szerv vezetőjére az (1) bekezdés szerinti végzettségi és szakképesítési követelményeket nem kell alkalmazni, ha a költségvetési szerv állományában van olyan személy, aki a könyvviteli szolgáltatás körébe tartozó feladatok ellátása tekintetében szerepel az Szt. 151. § (3) bekezdése szerinti nyilvántartásban, és rendelkezik a tevékenység ellátására jogosító engedéllyel.
+
+[^12]: Az Ávr. 12. § (4) bekezdése az 56/2012. (III. 30.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-172. § (1) A gazdasági szervezettel nem rendelkező önállóan működő és gazdálkodó költségvetési szerv e rendeletben meghatározott adatszolgáltatási kötelezettségeit önállóan, a hozzá kijelölt gazdasági szervezettel rendelkező önállóan működő és gazdálkodó költségvetési szerv útján teljesíti.
+172. §[^51]
 
-(2) Az e rendeletben meghatározott adatszolgáltatások során közölt adatokkal kapcsolatban a Kincstár és az adatok statisztikai feldolgozását végző szervezet adategyeztetést végezhet, az adatszolgáltatóhoz módszertani, elszámolási kérdéseket intézhet, a helyes számviteli szabályok alkalmazására, betartására figyelmeztethet. Szóbeli kérdésre szóban, írásbeli kérdésre írásban kell válaszolni. Ha jogszabály másként nem rendelkezik, az adatszolgáltatónak a válaszadást, illetve hibás adatközlés esetén a megismételt adatszolgáltatást a megkereséstől számított nyolc napon belül kell teljesítenie.
+[^51]: Az Ávr. 172. §-t az 56/2012. (III. 30.) Korm. rendelet 29. § (1) bekezdése hatályon kívül helyezte.

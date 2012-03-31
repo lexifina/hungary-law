@@ -12,20 +12,26 @@ c) a gazdasági szervezettel nem rendelkező költségvetési szerv esetén – 
 
 d) a 11. § (4) bekezdése szerinti költségvetési szerv esetén a költségvetési szerv vezetője által írásban kijelölt, a költségvetési szerv állományába tartozó személy,
 
-e) az 52. § (5) bekezdése szerinti keret terhére vállalt kötelezettség esetén az országgyűlési képviselőcsoportnál gazdasági-pénzügyi feladatokat ellátó személy,
+e)[^24] az országgyűlési képviselőcsoportok részére megállapított keret terhére vállalt kötelezettség esetén az országgyűlési képviselőcsoportnál gazdasági-pénzügyi feladatokat ellátó személy,
 
-f) az 52. § (6) bekezdése szerinti esetben az önkormányzati hivatal gazdasági vezetője, ennek hiányában a jegyző által írásban kijelölt, az önkormányzati hivatal állományába tartozó köztisztviselő,
+f)[^25] az 52. § (6) bekezdése szerinti esetben az önkormányzati hivatal gazdasági vezetője vagy az általa írásban kijelölt, az önkormányzati hivatal állományába tartozó köztisztviselő, gazdasági szervezettel nem rendelkező önkormányzati hivatal esetén a jegyző által írásban kijelölt, az önkormányzati hivatal állományába tartozó köztisztviselő,
 
-g) a helyi nemzetiségi önkormányzat kiadási előirányzatai terhére vállalt kötelezettség esetén az Áht. 27. § (2) bekezdése szerinti helyi önkormányzat önkormányzati hivatalának gazdasági vezetője, ennek hiányában a jegyzője által írásban kijelölt, az önkormányzati hivatal állományába tartozó köztisztviselő,
+g)[^26] a helyi nemzetiségi önkormányzat kiadási előirányzatai terhére vállalt kötelezettség esetén az Áht. 27. § (2) bekezdése szerinti helyi önkormányzat önkormányzati hivatalának gazdasági vezetője vagy az általa írásban kijelölt, az önkormányzati hivatal állományába tartozó köztisztviselő, gazdasági szervezettel nem rendelkező önkormányzati hivatal esetén a jegyző által írásban kijelölt, az önkormányzati hivatal állományába tartozó köztisztviselő,
 
 h) az országos nemzetiségi önkormányzat nevében vállalt kötelezettség esetén az országos nemzetiségi önkormányzat hivatalának gazdasági vezetője vagy az általa írásban kijelölt, az országos nemzetiségi önkormányzat hivatalának állományába tartozó köztisztviselő,
 
-i) a többcélú kistérségi társulás nevében vállalt kötelezettség esetén a gazdasági vezető, ennek hiányában a munkaszervezet vezetője által írásban kijelölt, a munkaszervezet állományába tartozó köztisztviselő, ha a többcélú kistérségi társulás nem hozott létre munkaszervezetet a többcélú kistérségi társulás székhelye szerinti helyi önkormányzat önkormányzati hivatalának gazdasági vezetője, ennek hiányában a jegyzője által írásban kijelölt, az önkormányzati hivatal állományába tartozó köztisztviselő,
+i)[^27] a többcélú kistérségi társulás nevében vállalt kötelezettség esetén az Áht. 27. § (4) bekezdése szerinti költségvetési szerv gazdasági vezetője vagy az általa írásban kijelölt, a költségvetési szerv állományába tartozó személy, gazdasági szervezettel nem rendelkező költségvetési szerv esetén a költségvetési szerv vezetője által írásban kijelölt, a költségvetési szerv állományába tartozó személy,
 
-j) a jogi személyiségű társulás nevében vállalt kötelezettség esetén az Áht. 27. § (5) bekezdése szerinti helyi önkormányzat önkormányzati hivatalának gazdasági vezetője, ennek hiányában a jegyzője által írásban kijelölt, az önkormányzati hivatal állományába tartozó köztisztviselő, és
+j)[^28] a jogi személyiségű társulás nevében vállalt kötelezettség esetén az Áht. 27. § (5) bekezdése szerinti költségvetési szerv gazdasági vezetője vagy az általa írásban kijelölt, a költségvetési szerv állományába tartozó személy, gazdasági szervezettel nem rendelkező költségvetési szerv esetén a költségvetési szerv vezetője által írásban kijelölt, a költségvetési szerv állományába tartozó személy, és
 
 k) a térségi fejlesztési tanács esetén a munkaszervezet gazdasági vezetője, ennek hiányában a munkaszervezet vezetője által írásban kijelölt, a munkaszervezet alkalmazottja
 
 írásban jogosult.
 
 (3) A kötelezettségvállalás pénzügyi ellenjegyzésére feljogosított személynek a felsőoktatásban szerzett pénzügyi-számviteli végzettséggel, vagy legalább középfokú iskolai végzettséggel és emellett pénzügyi-számviteli képesítéssel kell rendelkeznie.
+
+[^24]: Az Ávr. 55. § (2) bekezdés e) pontja az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^25]: Az Ávr. 55. § (2) bekezdés f) pontja az 56/2012. (III. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^26]: Az Ávr. 55. § (2) bekezdés g) pontja az 56/2012. (III. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^27]: Az Ávr. 55. § (2) bekezdés i) pontja az 56/2012. (III. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^28]: Az Ávr. 55. § (2) bekezdés j) pontja az 56/2012. (III. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

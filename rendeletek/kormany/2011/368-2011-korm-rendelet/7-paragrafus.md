@@ -10,7 +10,7 @@ c) az önkormányzati hivatal,
 
 d) az országos területi hálózattal rendelkező költségvetési szerv központi szerve,
 
-e) a többcélú kistérségi társulás munkaszervezete, és
+e)[^3] a többcélú kistérségi társulás és a jogi személyiségű társulás munkaszervezete, és
 
 f) a költségvetési szervként működő közreműködő szervezet.
 
@@ -29,3 +29,5 @@ a) kizárólag szakmai szervezeti egységekre tagozódik – ideértve a jogszab
 b) a szellemi, fizikai támogató funkciókat ellátók száma külön szervezeti egység létrehozását nem igényli, e funkciók más költségvetési szerv által elláthatók.
 
 (4) Az országos nemzetiségi önkormányzat hivatala vezetőjének igazgatásszervezői vagy állam- és jogtudományi doktori képesítéssel, okleveles közgazdász képesítéssel, vagy okleveles közigazgatási menedzser szakképesítéssel, a pénzügyi források és a vagyon mértékének megfelelő vezetési-szervezési és pénzügyi-gazdasági ismeretekkel, szakmai és vezetői gyakorlattal rendelkező, pályázati úton kiválasztott természetes személy nevezhető ki.
+
+[^3]: Az Ávr. 7. § (1) bekezdés e) pontja az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.

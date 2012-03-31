@@ -24,7 +24,7 @@ a) saját forrás – jogszabály, pályázati kiírás vagy a támogató által
 
 aa) igazolást a saját forrás rendelkezésre állásáról, az igazolás az ab) és ac) alpontban foglalt igény kivételével történhet a számlavezető igazolásával, hitelszerződéssel, tagi kölcsönszerződéssel, magánkölcsönre vonatkozó szerződéssel, pénztári kiadási bizonylattal, engedményezési okirattal, tőkeemelésre vonatkozó igazolással, zárt végű pénzügy lízingre vonatkozó szerződéssel, értékpapír banki igazolás másolatával, illetve jogszabály vagy a pályázati kiírás által előírt egyéb okirattal,
 
-ab) helyi önkormányzat, többcélú kistérségi társulás, jogi személyiségű társulás esetén a képviselő-testületi, társulási tanácsi határozatot, vagy a képviselő-testület költségvetési rendeletbe, határozatba foglalt – a tartalék feletti rendelkezési jogot átruházó – felhatalmazása alapján a polgármester. társulási tanács elnöke nyilatkozatát a saját forrás biztosításáról,
+ab)[^30] helyi önkormányzat, többcélú kistérségi társulás, jogi személyiségű társulás esetén a képviselő-testületi, társulási tanácsi határozatot, vagy a képviselő-testület költségvetési rendeletbe, határozatba foglalt – a tartalék feletti rendelkezési jogot átruházó – felhatalmazása alapján a polgármester, társulási tanács elnöke nyilatkozatát a saját forrás biztosításáról,
 
 ac) költségvetési szerv esetén az irányító szerv vezetőjének nyilatkozatát a saját forrás biztosításáról, vagy
 
@@ -45,3 +45,5 @@ d) jogszabály, a pályázati kiírás vagy a támogató által előírt egyéb 
 (7) Pályázati úton biztosított költségvetési támogatás esetén a benyújtott pályázathoz csatolni kell a (2) bekezdés c) pontja szerinti nyilatkozatot. Ezen felül a támogató a (2) és (3) bekezdés szerinti további nyilatkozatok, dokumentumok benyújtásától teheti függővé a pályázat befogadását. Ilyen esetben a támogatói okirat kiadásához, támogatási szerződés megkötéséhez nem szükséges azok ismételt benyújtása, ha a nyilatkozat tartalma a befogadást követően további vizsgálatot nem igényel. A pályázó a (2) bekezdés szerinti nyilatkozatait – a (2) bekezdés c) pontja szerinti nyilatkozat kivételével – feltételesen, a pályázaton történő nyertességétől függően is megteheti.
 
 (8) A (3) bekezdés d) pontja szerinti esetben a pályázati kiírás vagy a támogató nem írhatja elő tulajdoni lap másolatának a támogatási igényhez történő csatolását. Szükség esetén a támogatási igény elbírálásához elektronikus tulajdoni lap másolatot kell felhasználni, amelynek költségét – ha jogszabály eltérően nem rendelkezik – a támogatási igény benyújtójának kell viselnie.
+
+[^30]: Az Ávr. 72. § (3) bekezdés a) pont ab) alpontja az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.

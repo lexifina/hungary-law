@@ -6,7 +6,7 @@
 
 120. § (1) A letéti számlán lévő pénzeszközökkel pénzügyi műveletek a letevő rendelkezése szerint végezhetők.
 
-(2) A letéti számlán lebonyolított letéti pénzforgalomról olyan nyilvántartást kell vezetni, amely legalább tartalmaznia
+(2)[^36] A letéti számlán lebonyolított letéti pénzforgalomról olyan nyilvántartást kell vezetni, amely legalább tartalmazza
 
 a) a letét keletkezésének időpontját,
 
@@ -28,4 +28,7 @@ engedélyezi.
 
 (5) Az államháztartás önkormányzati alrendszerében az irányító szerv letéti számla vezetésére külön engedély nélkül jogosult.
 
-(6) A (3) bekezdés szerinti letéti számla kizárólag a Kincstárban vezethető.
+(6)[^37] A (3) bekezdés a) pontja szerinti letéti számla kizárólag a Kincstárban vezethető.
+
+[^36]: Az Ávr. 120. § (2) bekezdése nyitó szövegrésze az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^37]: Az Ávr. 120. § (6) bekezdése az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
