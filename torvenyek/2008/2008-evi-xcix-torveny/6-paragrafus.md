@@ -15,3 +15,11 @@ f) ellátja az e törvényben vagy e törvény felhatalmazása alapján más jog
 (2)
 
 (3) Az előadó-művészeti államigazgatási szerv által végzett nyilvántartási, igazgatási és szolgáltatási tevékenységért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+
+## III. Fejezet
+
+## AZ ELŐADÓ-MŰVÉSZETI SZERVEZETEK NYILVÁNTARTÁSA, MINŐSÍTÉSE, A KÖZSZOLGÁLTATÁSI SZERZŐDÉS
+
+1. CÍM
+
+Az előadó-művészeti szervezetek nyilvántartása

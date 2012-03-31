@@ -110,7 +110,7 @@ Ha nincs a művészeti munkakörnek megfelelő hazai szakirányú felsőfokú k�
 
 51. üzemeltetés: az előadó-művészeti szervezet tulajdonában vagy tartós használatában álló, a művészeti alaptevékenységhez kapcsolódó ingatlan és eszközök rendeltetésszerű használatához folyamatosan szükséges szolgáltatások, személyi és tárgyi feltételek biztosítása,
 
-52. vendégelőadás: olyan színházi alkotás, amelynek előadásához szükséges szerzői jogokkal a felhasználási szerződés alapján meghatározott időre vagy előadásszámra a vendégszínház rendelkezik, az előadás a vendégszínház által szerződtetett alkotó- és előadóművészek művészi tevékenységével jön létre, és a fogadó színház szervezésével, a fogadó színház költségvetéséből kerül a nyilvánosság elé.
+52. vendégelőadás: olyan színházi alkotás, amelynek előadásához szükséges szerzői jogokkal a felhasználási szerződés alapján meghatározott időre vagy előadásszámra a vendégszínház rendelkezik, az előadás a vendégszínház által szerződtetett alkotó- és előadóművészek művészi tevékenységével jön létre, és a fogadó színház szervezésével, a fogadó színház költségvetéséből kerül a nyilvánosság elé,
 
 53. biztosítással járó jogviszony:
 

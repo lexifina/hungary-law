@@ -1,15 +1,25 @@
-11. § (1) Az I. kategóriába kell besorolni azt a szimfonikus zenekart, kamaraszimfonikus zenekart, kamarazenekart (a továbbiakban együtt: zenekar), amely évente legalább 50, és azt az énekkart, amely évente legalább 40 hangversenyt tart.
+11. § (1) A nyilvántartásba vett előadó-művészeti szervezetet a miniszter – az érintett bizottság javaslata alapján, a NEÉT előzetes álláspontjának mérlegelésével – az általa kiadott rendeletben nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek minősítheti.
 
-(2) A besorolás további feltétele, hogy az előadó-művészeti szervezet
+(2) Azt az előadó-művészeti szervezetet lehet nemzeti előadó-művészeti szervezetnek minősíteni, amelynek
 
-a) önkormányzati költségvetési szervként működik vagy önkormányzattal kötött, az e törvény szerinti központi költségvetési támogatás igénybevételének időtartama alatt hatályos közszolgáltatási szerződéssel rendelkezik,
+a) fenntartója a magyar állam vagy az e törvény szerinti közszolgáltatási szerződése van a magyar állammal,
 
-b) tagjainak legalább 80%-a felsőfokú szakirányú végzettséggel rendelkező zene- vagy énekművész,
+b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészei – ide nem értve a gyermek- és csoportos szereplőket – legalább 70%-a szakirányú felsőfokú végzettséggel vagy a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 63. § (2) bekezdésében meghatározott elismeréssel rendelkezik,
 
-c) rendelkezik a tevékenység ellátásához szükséges, a jogszabályban meghatározott tárgyi feltételekkel,
+c) vezetőjét az e törvényben foglalt szabályoknak megfelelően bízták meg, és
 
-d) a tárgyévet megelőző évben teljesítette a jogszabályban meghatározott fizető nézőszámot és
+d) a magyar előadó-művészeti életben betöltött szerepe, a művészeti tevékenysége a magyar nemzeti kulturális identitás és hagyományok őrzése, fejlesztése, a kulturális érték- és mintaközvetítés szempontjából kiemelkedő jelentőségű.
 
-e) a munkáltató vezetőjét az adott szervezetre vonatkozóan e törvényben foglalt szabályoknak megfelelően bízták meg.
+(3) Azt az előadó-művészeti szervezetet lehet kiemelt előadó-művészeti szervezetnek minősíteni, amelynek
 
-(3) A II. kategóriába kell besorolni azokat a zenekarokat és énekkarokat, melyek legalább két éve működnek, és megfelelnek a (2) bekezdés c) és d) pontjában foglalt feltételeknek.
+a) fenntartója helyi önkormányzat vagy az e törvény szerinti közszolgáltatási szerződése van helyi önkormányzattal,
+
+b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészeinek – ide nem értve a gyermek- és csoportos szereplőket – legalább 60%-a szakirányú felsőfokú végzettséggel vagy a Kjt. 63. § (2) bekezdésében meghatározott elismeréssel rendelkezik,
+
+c) vezetőjét az e törvényben foglalt szabályoknak megfelelően bízták meg, és
+
+d) a fővárosi, illetve a megyei előadó-művészeti életben betöltött művészeti, kulturális szerepe, az általa nyújtott művészeti szolgáltatások tartalma és művészeti értéke az állami támogatási és az önkormányzati fenntartói vagy támogatási szerepvállalást egyidejűleg és tartósan indokolja.
+
+(4) A 7. § (2) bekezdés b) pont bc) alpontja szerinti előadó-művészeti szervezet esetében a (2) bekezdés b) pontját és a (3) bekezdés b) pontját a minősítés során nem kell alkalmazni.
+
+(5) Nem minősíthető nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté az előadó-művészeti szervezet, illetve a már nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté minősített előadó-művészeti szervezet ilyen minősítését meg kell szüntetni, ha a minősítés alapjául szolgáló feltételek közül a (2) bekezdés d) pontja vagy a (3) bekezdés d) pontja szerinti feltétel tartósan, a (2) bekezdés a)–c) pontja vagy a (3) bekezdés a)–c) pontja szerinti feltételek valamelyike pedig egy teljes évadot alapul véve nem áll fenn.

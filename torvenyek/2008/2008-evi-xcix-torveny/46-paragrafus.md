@@ -20,4 +20,6 @@ kell alkalmazni. A 2012. december 31-éig igénybe vett támogatással az e tör
 
 (4) E törvénynek a módosító törvénnyel megállapított 39. § (5) és (6) bekezdését a módosító törvény hatálybalépésének napján és az azt követően kiírt pályázatokra kell alkalmazni.
 
+(4) 2014. január 1-jéig olyan előadó művészeti szervezet is nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté minősíthető, amely tekintetében a 11. § (2) bekezdés c) pontjában vagy a 11. § (3) bekezdés c) pontjában meghatározott feltételek nem állnak fenn.
+
 (5) Az Előadó-művészeti Tanács tagjainak jogviszonya a módosító törvény 24. § (2) bekezdésében meghatározott hatálybalépést követő 15. napon megszűnik. Az Előadó-művészeti Tanács a módosító törvény hatálybalépésekor folyamatban lévő ügyeiben az érintett bizottság jár el. A miniszter a bizottság tagjait a módosító törvény 24. § (2) bekezdésében meghatározott hatálybalépést követő 15 napon belül kéri fel.

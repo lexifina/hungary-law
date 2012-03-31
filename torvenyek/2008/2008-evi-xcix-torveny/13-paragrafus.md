@@ -1,9 +1,25 @@
-13. § A nyilvántartásból törölni kell az előadó-művészeti szervezetet, ha
+13. § (1) Az állam, illetve az önkormányzat az előadó-művészeti szolgáltatások (a továbbiakban: szolgáltatások) tartós biztosítására nem állami fenntartású előadó-művészeti szervezettel legalább három évre előadó-művészeti közszolgáltatási szerződést köthet.
 
-a) az előadó-művészeti szervezet nem felel meg a 7. § (1) bekezdésben a nyilvántartásba vétel feltételeként meghatározott szervezeti feltételeknek,
+(2) A közszolgáltatási szerződés tartalmazza
 
-b) ezt a fenntartója, ennek hiányában a szervezet képviselője kéri,
+a) az előadó-művészeti szervezet nevét, székhelyét, képviselőjének nevét, bírósági nyilvántartási vagy cégjegyzékszámát és adószámát,
 
-c) az előadó-művészeti szervezet jogutód nélkül megszűnt,
+b) a szolgáltatások részletes leírását, helyének meghatározását és mutatószámait, továbbá a kapcsolódó egyéb szolgáltatásokat,
 
-d) a nyilvántartásba vételétől számított öt éven át az előadó-művészeti szervezet – ide nem értve a 4. § c) pontja alapján állam által fenntartott és a 4. § d) pontja alapján közszolgáltatási szerződéssel rendelkező előadó-művészeti szervezetet – nem részesült az e törvényben meghatározott egyetlen támogatásból sem.
+c) a szolgáltatások ellátását biztosító személyi, tárgyi és pénzügyi feltételeket,
+
+d) a szolgáltatások folyamatos nyújtását biztosító feltételeket,
+
+e) a szolgáltatások teljesítéséhez elengedhetetlen, lényeges vagyoni eszközök tulajdonviszonyait, a szervezet birtokába adott vagy más módon rendelkezésére bocsátott eszközök használatára, karbantartására és visszaszolgáltatására vonatkozó szabályokat,
+
+f) a szervezet vállalt szolgáltatásaival összefüggő jogait és kötelezettségeit,
+
+g) a szervezet tevékenységére vonatkozó adatok szolgáltatására és az ellenőrzésre vonatkozó szabályokat,
+
+h) a gyermek- és ifjúsági korosztály védelmét szolgáló nézőtájékoztatási, továbbá a jegyrendszerre vonatkozó előírásokat,
+
+i) a közszolgáltatási szerződés módosításának, felmondásának feltételeit,
+
+j) a közszolgáltatási szerződésben meghatározott kötelezettségek megszegése esetére vonatkozó jogkövetkezményeket (így különösen a kötbérfizetési kötelezettséget), valamint a közszolgáltatási szerződés teljesítésével kapcsolatos esetleges jogviták rendezésének módját és
+
+k) az előadó-művészeti közszolgáltatás megkezdésének időpontját és a szerződés időbeli hatályát.
