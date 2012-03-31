@@ -30,11 +30,13 @@ b) ahhoz, hogy az épületet, illetve lakását megfelelően használhassa, töb
 
 (8) A mozgásszervi fogyatékosságot, illetve súlyos mozgáskorlátozottságot a következő módon kell igazolni, a támogatásra irányuló kérelem benyújtásakor:
 
-a)[^67] a 102/2011. (VI. 29.) Korm. rendelet 7. § (3) bekezdés a) pontja szerinti iratokkal,
+a)[^67] a 102/2011. (VI. 29.) Korm. rendelet 7. § (3) bekezdés a) pont aa)–ac) alpontja szerinti iratokkal,
 
 b) az orvosszakértői szervnek a 141/2000. (VIII. 9.) Korm. rendelet szerinti, a súlyos fogyatékosság minősítését tartalmazó szakvéleményével vagy szakhatósági állásfoglalásával arról, hogy az igénylő mozgásszervi fogyatékos vagy súlyos mozgáskorlátozott.
 
 c)[^68]
+
+(8a)[^69] Ha a súlyos mozgáskorlátozottság igazolása céljából szükséges (8) bekezdés szerinti iratok nem állnak rendelkezésre, a súlyos mozgáskorlátozottság 102/2011. (VI. 29.) Korm. rendelet szerinti előzetes vizsgálatát – a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentáció és egyéb iratok benyújtásával – az okmányirodák kijelöléséről és illetékességi területéről szóló kormányrendeletben meghatározott települési, a fővárosban a fővárosi kerületi önkormányzat jegyzőjénél (a továbbiakban: körzetközponti jegyző) lehet kezdeményezni. A körzetközponti jegyző a kérelem beérkezésétől számított nyolc napon belül az iratok megküldésével megkeresi a Nemzeti Rehabilitációs és Szociális Hivatalt a közlekedőképesség minősítése érdekében. A közlekedőképesség vizsgálatára egyebekben a 102/2011. (VI. 29.) Korm. rendelet szabályait kell alkalmazni.
 
 (9) A támogatási kérelemhez az akadálymentesítési munkák műszaki leírását, valamint azok építési költségét tartalmazó költségvetést mellékelni kell.
 
@@ -66,5 +68,6 @@ k) lakás komfortfokozatának növelése céljából gáz, illetve egyéb, szil�
 
 [^65]: A 8/A. §-t a 3/2005. (I. 12.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2005. február 1-jét követően benyújtott támogatási kérelmekre kell alkalmazni.
 [^66]: A 9. § a 74/2011. (V. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^67]: A 9. § (8) bekezdés a) pontja a 102/2011. (VI. 29.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^67]: A 9. § (8) bekezdés a) pontja a 102/2011. (VI. 29.) Korm. rendelet 17. § (2) bekezdésével megállapított, a 61/2012. (III. 30.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^68]: A 9. § (8) bekezdés c) pontját a 102/2011. (VI. 29.) Korm. rendelet 17. § (4) bekezdése hatályon kívül helyezte.
+[^69]: A 9. § (8a) bekezdése a 61/2012. (III. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
