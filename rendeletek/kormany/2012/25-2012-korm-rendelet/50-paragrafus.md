@@ -1,0 +1,1 @@
+## „(6) Ha az ellenőrzési hatóság ellenőrzési tevékenysége során szabálytalanságot állapít meg, az e rendelet szerinti jogkövetkezmények alkalmazásának szükségességéről értesíti az NFÜ vezetőjét, aki gondoskodik azok végrehajtásáról. Az NFÜ döntése ellen a 92. §-ban foglaltak szerint lehetséges jogorvoslatot benyújtani. A jogorvoslati kérelmet az NFÜ-nél kell előterjeszteni.”

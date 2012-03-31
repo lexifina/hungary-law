@@ -1,0 +1,1 @@
+## „(5) Az ellenőrzési hatóság 2008 és 2015 között minden év december 31-éig benyújtja az éves ellenőrzési jelentést és az éves véleményt az Európai Bizottságnak, amelyet megküld az NFÜ-nek és az államháztartásért felelős miniszternek is. Az ellenőrzési hatóság az éves ellenőrzési jelentés összefoglalóját közzéteszi honlapján.”

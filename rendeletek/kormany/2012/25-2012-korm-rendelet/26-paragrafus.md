@@ -1,0 +1,1 @@
+## „(7) A projekt megvalósítását a kedvezményezett másra átruházhatja, ha az új kedvezményezett a felhívásban foglalt feltételeknek megfelel és ahhoz az NFÜ előzetesen írásban hozzájárul vagy, ha az új kedvezményezett jogszabályon alapuló jogutódlás következtében lép be a támogatási jogviszonyba. A projekt átruházása során a projekt céljai nem módosulhatnak.”

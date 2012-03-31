@@ -1,3 +1,1 @@
-## 1–17. §[^1]
-
-[^1]: Az 1–17. § a 63. § (2) bekezdése alapján 2012. március 31-én lép hatályba.
+## „(7) A kiemelt projektjavaslat beérkezésétől számított 30 napon belül meg kell hozni a támogatói döntést és meg kell kötni a támogatási szerződést. Ha a támogatási szerződés megkötéséhez a projektgazdától vagy harmadik féltől függő támogatási szerződési feltételek teljesítése szükséges, a 30 napos határidőt a feltételek teljesítésére megállapított határidő utolsó napjától kell számítani. A határidőbe a projektgazda hiánypótlási és tisztázó kérdésre adott válaszadási ideje, a kifogás elbírálásának időtartama, továbbá a Kormány jóváhagyásra vonatkozó döntési ideje nem számít bele. A Kormány döntési ideje a kapcsolódó előterjesztésnek a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumba előzetes egyeztetésre történő beérkezéstől számítandó. Hiánypótlásra a szerződéskötési szakaszban egy alkalommal van lehetőség.”
