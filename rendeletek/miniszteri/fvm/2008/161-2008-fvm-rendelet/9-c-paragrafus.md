@@ -1,4 +1,4 @@
-## 9/C. §[^37] Az MVH az Egyéni tervet elutasítja, ha
+## 9/C. §[^38] Az MVH az Egyéni tervet elutasítja, ha
 
 a) az Egyéni terv nem felel meg annak benyújtásakor hatályos Borvidéki terv előírásainak;
 
@@ -14,4 +14,4 @@ f) megállapítást nyer, hogy a kérelmezett ültetvény(ek)re vonatkozóan sz�
 
 g) a tevékenység végrehajtása a 2010/2011 borpiaci év előtt megkezdődött.
 
-[^37]: A 9/C. §-t a 85/2011. (IX. 1.) VM rendelet 8. § (3) bekezdése iktatta be.
+[^38]: A 9/C. §-t a 85/2011. (IX. 1.) VM rendelet 8. § (3) bekezdése iktatta be.

@@ -86,6 +86,6 @@
 
 ## Veresegyház
 
-3. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^62]
+3. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^67]
 
-[^62]: A 3. számú melléklet a 13/2011. (II. 18.) VM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^67]: A 3. számú melléklet a 13/2011. (II. 18.) VM rendelet 17. § (2) bekezdésével megállapított szöveg.
