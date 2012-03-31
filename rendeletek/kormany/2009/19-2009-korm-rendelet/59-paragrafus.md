@@ -1,4 +1,4 @@
-59. §[^188] (1) A lakossági fogyasztó – fogyatékkal élő fogyasztóként – a védendő fogyasztók nyilvántartásába történő felvételére való jogosultságát
+59. §[^189] (1) A lakossági fogyasztó – fogyatékkal élő fogyasztóként – a védendő fogyasztók nyilvántartásába történő felvételére való jogosultságát
 
 a) a 10. számú melléklet A) része szerinti, 30 napnál nem régebbi, kitöltött és aláírt nyomtatvány, és
 
@@ -14,4 +14,4 @@ benyújtásával igazolhatja. A benyújtott iratokat vagy azok másolatát az en
 
 (3) Ha a Nemzeti Rehabilitációs és Szociális Hivatal szakvéleményezési hatásköre az érintettre kiterjed, a kezelőorvos vagy háziorvos e szerv szakvéleménye alapján állapítja meg a fogyatékosság jellegét vagy az (1) bekezdés d) pontjának való megfelelést.
 
-[^188]: A Vhr. 59. §-a a 378/2011. (XII. 31.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^189]: A Vhr. 59. §-a a 378/2011. (XII. 31.) Korm. rendelet 50. §-ával megállapított szöveg.

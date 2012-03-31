@@ -1,4 +1,4 @@
-82. §[^244] (1) A rendszerhasználó minden év február 28-ig köteles bejelenteni a következő gázévre szerződéssel lekötni szándékozott nyilvántartott kapacitásokat – mint előzetes lekötési igényt – annak a rendszerüzemeltetőnek, amelynek rendszerén kapacitást kíván lekötni.
+82. §[^245] (1) A rendszerhasználó minden év február 28-ig köteles bejelenteni a következő gázévre szerződéssel lekötni szándékozott nyilvántartott kapacitásokat – mint előzetes lekötési igényt – annak a rendszerüzemeltetőnek, amelynek rendszerén kapacitást kíván lekötni.
 
 (2) Ha a rendszerhasználó az aktuális gázévben lekötött kapacitást a következő gázévre az (1) bekezdés szerint bejelenti, azt a 83. § (1) bekezdés szerint kell lekötni.
 
@@ -12,4 +12,4 @@
 
 (7) Ha a felhasználó a vásárolt kapacitások terhére további kapacitás nyilvántartásba vételét kezdeményezi, a nyilvántartást vezető rendszerüzemeltető köteles a kielégíthetőséget megvizsgálni. Ha a kapacitásigény teljesíthető, köteles azt nyilvántartásba venni, vagy rögzíteni a nyilvántartásba vétel időpontját.
 
-[^244]: A Vhr. 82. §-a a 378/2011. (XII. 31.) Korm. rendelet 60. §-ával megállapított szöveg.
+[^245]: A Vhr. 82. §-a a 378/2011. (XII. 31.) Korm. rendelet 60. §-ával megállapított szöveg.

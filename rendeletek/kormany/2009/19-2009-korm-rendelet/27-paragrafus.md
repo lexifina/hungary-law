@@ -2,7 +2,7 @@
 
 ## Egyetemes szolgáltatás
 
-27. §[^100] (1) Az egyetemes szolgáltatási működési engedélyt kérelmezőnek rendelkeznie kell:
+27. §[^101] (1) Az egyetemes szolgáltatási működési engedélyt kérelmezőnek rendelkeznie kell:
 
 a) 3 évre szóló, könyvvizsgáló által a 7. számú mellékletben megadott szempontok szerint ellenőrzött üzleti tervvel, amely a kérelmező egyéb tevékenységeitől elkülönítve tartalmazza az egyetemes szolgáltatói tevékenységet, a hozzá kapcsolódó költségeket, a pénzforgalmat,
 
@@ -12,7 +12,7 @@ c) az engedélyköteles tevékenység földgázellátási üzemzavar, válsághe
 
 d) az ÜKSZ vonatkozó rendelkezéseit kielégítő adatforgalmi és informatikai rendszerrel,
 
-e)[^101] a szállítási rendszerüzemeltetővel való folyamatos kapcsolattartásra alkalmas személyi és tárgyi feltételekkel,
+e)[^102] a szállítási rendszerüzemeltetővel való folyamatos kapcsolattartásra alkalmas személyi és tárgyi feltételekkel,
 
 f) e rendelet 131. §-ában meghatározott pénzügyi biztosítékkal,
 
@@ -30,5 +30,5 @@ b) az egyetemes szolgáltatásra jogosult felhasználók hozzáférhessenek a sa
 
 c) kapcsolt vállalkozása sem közvetlenül, sem közvetve ne részesüljön előnyben.
 
-[^100]: A Vhr. 27. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^101]: A Vhr. 27. § (1) bekezdés e) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (4) bekezdése szerint módosított szöveg.
+[^101]: A Vhr. 27. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^102]: A Vhr. 27. § (1) bekezdés e) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (4) bekezdése szerint módosított szöveg.

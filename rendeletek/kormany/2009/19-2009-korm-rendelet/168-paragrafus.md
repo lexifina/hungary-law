@@ -1,6 +1,6 @@
 ## Az Európai Unió jogának való megfelelés
 
-168. §[^481] (1) Ez a rendelet a földgázszállító hálózatokhoz való hozzáférés feltételeiről és az 1775/2005/EK rendelet hatályon kívül helyezéséről szóló, 2009. július 13-i 715/2009/EK európai parlamenti és tanácsi rendelet és a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 2004/67/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 994/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+168. §[^482] (1) Ez a rendelet a földgázszállító hálózatokhoz való hozzáférés feltételeiről és az 1775/2005/EK rendelet hatályon kívül helyezéséről szóló, 2009. július 13-i 715/2009/EK európai parlamenti és tanácsi rendelet és a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 2004/67/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 994/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (2) Ez a rendelet
 
@@ -8,4 +8,4 @@ a) az energia-végfelhasználás hatékonyságáról és az energetikai szolgál
 
 b) a földgáz belső piacára vonatkozó közös szabályokról és a 2003/55/EK irányelv hatályon kívül helyezéséről szóló, 2009. július 13-i 2009/73/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-[^481]: A Vhr. 168. §-a a 293/2011. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^482]: A Vhr. 168. §-a a 293/2011. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
