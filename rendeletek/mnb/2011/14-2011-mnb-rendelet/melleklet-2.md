@@ -126,6 +126,8 @@
 
 | 60 | AL2 | Napi jelentés a cash- flow adatokról | kijelölt bankok, szakosított hitelintézetek, az ezen típusú EGT fióktelepek | egyedi elrendelés alapján, napi | elektronikus úton (EBEAD) | tárgynapot követő munkanap 12:00 óra | MNB Statisztika |
 
+| 60a | AL5 | Havi jelentés a devizafinanszírozás megfelelési mutatóról | részvénytársasági formában működő hitelintézetek, a lakás-takarékpénztárak, a Magyar Fejlesztési Bank Zrt., a Magyar Export-Import Bank Zrt. és a Központi Elszámolóház és Értéktár (Budapest) Zrt. kivételével | havi | elektronikus úton (EBEAD) | a naptári negyedév első két hónapja tekintetében: - kizárólag a 01. tábla kitöltésére kötelezett adatszolgáltatóknak a tárgyidőszakot követő hónap 15. munkanap, - a 02. tábla kitöltésére is kötelezett adatszolgáltatóknak a tárgyidőszakot követő hónap 17. munkanap; a naptári negyedév utolsó hónapja tekintetében: - kizárólag a 01. tábla kitöltésére kötelezett adatszolgáltatóknak a tárgyidőszakot követő hónap 20. munkanap, - a 02. tábla kitöltésére is kötelezett adatszolgáltatóknak a tárgyidőszakot követő hónap 22. munkanap | MNB Statisztika |
+
 | 61 | L01 | Nemzetközi tartalékok és devizalikviditás | MÁK, ÁKK Zrt. | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 15. nap. | MNB Statisztika |
 
 | 62 | L10 | Felvett vállalati, illetve késedelemben lévő háztartási hitelek adatai | központi hitelinformációs rendszert működtető pénzügyi vállalkozás | havi | elektronikus úton | tárgyidőszakot követő hónap 5. munkanap | MNB Statisztika |
@@ -2580,5 +2582,5 @@ e) A kódlista szerint kell kitölteni.
 
 | nnn |  |  |  |  |  |  |
 
-[^7]: A 2. melléklet a 3/2012. (I. 12.) MNB rendelet 4. §-a szerint módosított szöveg.
+[^7]: A 2. melléklet a 3/2012. (I. 12.) MNB rendelet 4. §-a, az 5/2012. (III. 30.) MNB rendelet 4. §-a szerint módosított szöveg.
 [^1:]: Az egyes intézmények két alszektor szerinti besorolásához segítséget ad az Európai Központi Bank honlapján elhelyezett ún. MFI lista, amelynek pontos elérési útvonala a 3. melléklet 1. pontja szerinti listákat tartalmazó, az MNB honlapján közzétett technikai segédletben található.
