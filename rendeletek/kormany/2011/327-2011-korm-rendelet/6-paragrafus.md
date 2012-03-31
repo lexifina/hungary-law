@@ -10,7 +10,9 @@ a) természetes személyazonosító adatait,
 
 b) társadalombiztosítási azonosító jelét és
 
-c) adóazonosító jelét, amennyiben a kérelmező Rehabilitációs kártyát igényel.
+c) adóazonosító jelét, amennyiben a kérelmező Rehabilitációs kártyát igényel,
+
+d)[^1] erre vonatkozó igénye esetén a közlekedőképességének vizsgálatára vonatkozó kérelmet.
 
 (4) A kérelemhez csatolni kell
 
@@ -24,4 +26,9 @@ d) a kérelmező nyilatkozatát arról, hogy az Mmtv. szerinti rendszeres pénze
 
 e) a kérelmező nyilatkozatát arról, hogy a jogosultsági feltételek fennállása esetén a Rehabilitációs kártya kiállítását igényli-e és
 
-f) a kérelmező egészségi állapotával kapcsolatos, a 11. § (2) bekezdése szerinti dokumentumokat.
+f) a kérelmező egészségi állapotával kapcsolatos, a 11. § (2) bekezdése szerinti dokumentumokat,
+
+g)[^2] a közlekedőképesség vizsgálatára vonatkozó kérelem esetén a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentációt és egyéb iratokat.
+
+[^1]: A 6. § (3) bekezdés d) pontját a 61/2012. (III. 30.) Korm. rendelet 17. § (1) bekezdése iktatta be.
+[^2]: A 6. § (4) bekezdés g) pontját a 61/2012. (III. 30.) Korm. rendelet 17. § (2) bekezdése iktatta be.
