@@ -1,1 +1,0 @@
-A Kormány a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 80. § (1) bekezdés c) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:

@@ -1,3 +1,0 @@
-## 7. § A támogatások, illetve a költségtérítések folyósítása az 1. § (3) bekezdés a) pontja, valamint az 1. § (4) bekezdés esetében a NAV 10032000-01905049 Egyedi támogatás folyósítási számláról, az 1. § (3) bekezdés b) pontja esetében a NAV 10032000–01905135 Egyéb vállalati támogatás folyósítási számláról történik az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) rendelkezései alapján. Az 1. § (3) bekezdése esetében a szükséges igazolások csatolása alapján történő támogatás folyósítására, ellenőrzésére az Art. szerinti folyósítási és ellenőrzési szabályok irányadók.
-
-8. § Ez a rendelet a kihirdetését követő napon lép hatályba és 2012. március 31-én hatályát veszti.
