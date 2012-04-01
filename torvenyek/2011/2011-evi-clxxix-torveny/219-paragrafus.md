@@ -2,7 +2,7 @@
 
 a)–d)
 
-e) 7. § (2) bc) pontjában a „nemzetiségi és etnikai kisebbségi színház” szövegrész helyébe a nemzetiségi színház szöveg,
+e)
 
 f)–l)
 
