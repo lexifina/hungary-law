@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-53-20-0
 | 2011-07-28 | 2007-53-20-0B.8 | 47/2011. (VII. 27.) NEFMI rendelet |
 | 2011-12-28 | 2007-53-20-0B.9 | 67/2011. (XII. 13.) NEFMI rendelet |
 | 2012-03-01 | 2007-53-20-0B.10 | 2/2012. (I. 3.) NEFMI rendelet |
+| 2012-04-01 | 2007-53-20-0B.11 | 2/2012. (I. 3.) NEFMI rendelet |
