@@ -10,7 +10,9 @@ c) a rendőrség a fogvatartott gondnokának értesítése, a fegyverengedély-�
 
 d) az ügyészség a gondnokság alá helyezés, annak megszüntetése, fenntartása vagy módosítása, a választójogból való kizárás vagy a választójogból való kizárás megszüntetése iránti per megindításával kapcsolatos feladatai ellátása során a 2. § (2) bekezdés a)–f) pontjában meghatározott adatokat,
 
-e) a választójoggal nem rendelkező nagykorú polgárok nyilvántartását vezető szerv a 2. § (2) bekezdés a), c) és g) pontjában szereplő adatokat,
+e) a választójoggal nem rendelkező nagykorú polgárok nyilvántartását vezető szerv a 2. § (2) bekezdés a), c) és
+
+g) pontjában szereplő adatokat,
 
 f) a gyámhatóság
 
@@ -22,4 +24,4 @@ fb) a gondnokság alá helyezési per megindítása, a gondnokság felülvizsgá
 
 (4) A (3) bekezdésben meghatározott felhatalmazás jogosultjának személyéről, hozzáférési jogosultságának terjedelméről és feltételeiről, valamint az abban bekövetkezett változásról a közvetlen hozzáférésre jogosult szerv – a felhatalmazás kiadását, változását követően haladéktalanul – értesíti a Hivatalt.
 
-(5) A központi elektronikus szolgáltató rendszer regisztrációs adatbázisának adatkezelője viszontazonosítással meggyőződhet a saját nyilvántartásában szereplő és a gondnokoltak nyilvántartásában kezelt 2. § (2) bekezdés a) és e) pontjai szerinti adatok egyezőségéről vagy eltéréséről.
+(5)
