@@ -226,9 +226,9 @@
 
 ## 7. Ischaemiás szívbetegek gyógyszeres kezelésének megfelelősége (béta-blokkoló) (HSZGI%) [3. § (1) bekezdés g) pontja]
 
-## 7.1. Célcsoport: A háziorvosi szolgáltatóhoz bejelentkezett azon biztosítottak, akik acut myocardialis infarctuson (AMI; BNO I21, I22.) és/vagy coronaria bypass műtéten (CABG) és/vagy szívkatéteres tágításon (PTCA) és/vagy pacemaker beültetésen átestek.
+## 7.1. Célcsoport: A háziorvosi szolgáltatóhoz bejelentkezett azon biztosítottak, akik acut myocardialis infarctuson (AMI; BNO I21, I22.) és/vagy coronaria bypass műtéten (CABG) és/vagy szívkatéteres tágításon (PTCA átestek.
 
-## 7.2. Jelentése: A háziorvosi szolgáltatóhoz bejelentkezett, acut myocardialis infarctuson (AMI; BNO I21, I22.) és/vagy coronaria bypass műtéten (CABG) és/vagy szívkatéteres tágításon (PTCA) és/vagy pacemaker beültetésen átesett biztosítottak közül azok aránya, akik béta-blokkolót (ATC: C07) váltottak ki legalább 4 alkalommal a tárgyhónapot megelőző 12 hónapban. Egy TAJ a megelőző 12 hónap alatt csak egyszer kerülhet figyelembevételre. Az indikátor magyarázata: az ischaemiás szívbetegek túlélését igazoltan javítja a béta-blokkoló alkalmazása. Cél a minél magasabb arány elérése az indikátor értékében.
+## 7.2. Jelentése: A háziorvosi szolgáltatóhoz bejelentkezett, acut myocardialis infarctuson (AMI; BNO I21, I22.) és/vagy coronaria bypass műtéten (CABG) és/vagy szívkatéteres tágításon (PTCA) átesett biztosítottak közül azok aránya, akik béta-blokkolót (ATC: C07) váltottak ki legalább 4 alkalommal a tárgyhónapot megelőző 12 hónapban. Egy TAJ a megelőző 12 hónap alatt csak egyszer kerülhet figyelembevételre. Az indikátor magyarázata: az ischaemiás szívbetegek túlélését igazoltan javítja a béta-blokkoló alkalmazása. Cél a minél magasabb arány elérése az indikátor értékében.
 
 ## 7.3. Számítás:
 
@@ -506,35 +506,13 @@
 
 ## II. Gyermek körzet indikátorai
 
-## 1. Pneumococcus védőoltás (HSZP%) [3. § (2) bekezdés a) pontja]
-
-## 1.1. Célcsoport: A házi gyermekorvosi szolgáltatóhoz bejelentkezett 1 éves kor alatti gyermekek
-
-## 1.2. Jelentése: A házi gyermekorvosi szolgáltatóhoz bejelentkezett 1 éves kor alatti gyermekek közül azok aránya, akik pneumococcus ellen legalább egy védőoltást kaptak. Egy TAJ csak egyszer kerülhet figyelembevételre. Az indikátor magyarázata: a pneumococcus elleni átoltottsági arányt vizsgálja, minél magasabb az indikátor értéke, annál kedvezőbb a gyermekek átoltottsága.
-
-## 1.3. Számítás:
-
-## HSZP% = HSZP / BB1 * 100
-
-## HSZP%: a praxis TAJ körében pneumococcus elleni védőoltásban részesültek aránya
-
-## HSZP: a BB1 szerinti biztosítottak közül azok száma, akik pneumococcus elleni védőoltásban részesültek
-
-## BB1: a házi gyermekorvosi szolgáltatóhoz bejelentkezett 1 éves kor alatti biztosítottak száma
-
-## 1.4. Adatforrás: házi gyermekorvosi tételes jelentés betegforgalmi adatai (B_300-as jelentés, B_312 OENO adatsorok) (OENO kódja: 43593)
-
-## 1.5. Célérték:
-
-## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
-
-## 1.6. Pontszám: 2,5
+## 1.
 
 ## 2. Meningococcus védőoltás (HSZM%) [3. § (2) bekezdés b) pontja]
 
-## 2.1. Célcsoport: A házi gyermekorvosi szolgáltatóhoz bejelentkezett 2 éves kor alatti gyermekek
+## 2.1. Célcsoport: A házi gyermekorvosi szolgáltatóhoz bejelentkezett 3–24 hónapos gyermekek
 
-## 2.2. Jelentése: A házi gyermekorvosi szolgáltatóhoz bejelentkezett 2 éves kor alatti gyermekek közül azok aránya, akik legalább egy meningococcus elleni védőoltást kaptak. Egy TAJ a megelőző 24 hónap alatt csak egyszer kerülhet figyelembevételre. Az indikátor magyarázata: a meningococcus elleni átoltottsági arányt vizsgálja, minél magasabb az indikátor értéke, annál kedvezőbb a gyermekek átoltottsága.
+## 2.2. Jelentése: A házi gyermekorvosi szolgáltatóhoz bejelentkezett 3–24 hónapos gyermekek közül azok aránya, akik legalább egy meningococcus elleni védőoltást kaptak. Egy TAJ a megelőző 24 hónap alatt csak egyszer kerülhet figyelembevételre. Az indikátor magyarázata: a meningococcus elleni átoltottsági arányt vizsgálja, minél magasabb az indikátor értéke, annál kedvezőbb a gyermekek átoltottsága.
 
 ## 2.3. Számítás:
 
@@ -544,7 +522,7 @@
 
 ## HSZM: a BB2 szerinti biztosítottak közül azok száma, akik a megelőző 24 hónapban meningococcus elleni védőoltásban részesültek
 
-## BB2: a házi gyermekorvosi szolgáltatóhoz bejelentkezett összes 2 éves kor alatti biztosított
+## BB2: a házi gyermekorvosi szolgáltatóhoz bejelentkezett összes 3–24 hónapos biztosított
 
 ## 2.4. Adatforrás: házi gyermekorvosi tételes jelentés betegforgalmi adatai (B_300-as jelentés, B_312 OENO adatsorok) (OENO kódja: 43594)
 
@@ -552,7 +530,7 @@
 
 ## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
 
-## 2.6. Pontszám: 2,5
+## 2.6. Pontszám: 1,875
 
 ## 3. Vaspótló kezelés a 10–18 éves lányok között (HSZV10–18%) [3. § (2) bekezdés b) pontja]
 
@@ -576,7 +554,7 @@
 
 ## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
 
-## 3.6. Pontszám: 2,5
+## 3.6. Pontszám: 1,875
 
 ## 4. Továbbküldési arány a szakellátásba (SZAK%) [3. § (2) bekezdés d) pontja]
 
@@ -600,31 +578,31 @@
 
 ## Azok a praxisok részesülnek pontozásban, amelyek nem haladják meg az indikátor havi szinten megállapított alsó kvartilisének felső határát.
 
-## 4.6. Pontszám: 2,5
+## 4.6. Pontszám: 1,875
 
 ## 5. Ügyeleti ellátásban részesültek aránya (ÜGY%) [3. § (2) bekezdés e) pontja]
 
 ## 5.1. Célcsoport: A házi gyermekorvosi szolgáltatóhoz bejelentkezett biztosítottak
 
-## 5.2. Jelentése: A megelőző 12 hónap alapján egy hónap átlagában a házi gyermekorvosi szolgáltató betegforgalmához viszonyítva az ügyeleti ellátáson megjelent biztosítottak aránya. Az indikátor magyarázata: ha az ügyeleti ellátásban magas a praxis betegeinek megjelenési gyakorisága, az utalhat arra, hogy a rendelési időben nyújtott ellátás nem kielégítő, vagy a praxis betegei kerülik orvosukat. Cél, hogy a bejelentkezett biztosítottak rendelési időben saját orvosukat keressék fel. Minél alacsonyabb a mutató értéke, annál jobb a praxis megítélése.
+## 5.2. Jelentése: A megelőző 12 hónap alapján egy hónap átlagában a házi gyermekorvosi szolgáltató betegforgalmához viszonyítva az ügyeleti ellátáson hétfőtől péntekig (háziorvosi, házi gyermekorvosi ügyeleti ellátásban és/vagy sürgősségi betegellátó osztályon) megjelent biztosítottak aránya. Az indikátor magyarázata: ha az ügyeleti ellátásban magas a praxis betegeinek megjelenési gyakorisága, az utalhat arra, hogy a rendelési időben nyújtott ellátás nem kielégítő, vagy a praxis betegei kerülik orvosukat. Cél, hogy a bejelentkezett biztosítottak rendelési időben saját orvosukat keressék fel. Minél alacsonyabb a mutató értéke, annál jobb a praxis megítélése.
 
 ## 5.3. Számítás:
 
-## ÜGY% = ÜGY / HSZESET*100
+## ÜGY% = ÜGY/HSZESET*100
 
-## ÜGY%: a praxis TAJ körében az ügyeleti rendszerben megjelent biztosítottak aránya a praxis betegforgalmához képest
+## ÜGY%: a praxis TAJ körében az ügyeleti rendszerben és sürgősségi betegellátó osztályon megjelent biztosítottak aránya a praxis betegforgalmához képest
 
-## ÜGY: a házi gyermekorvosi szolgáltatóhoz bejelentkezett biztosítottak közül az ügyeleti ellátásban megjelentek száma a megelőző 12 hónapban
+## ÜGY: a házi gyermekorvosi szolgáltatóhoz bejelentkezett biztosítottak közül az ügyeleti ellátásban vagy sürgősségi betegellátó osztályon megjelentek száma a megelőző 12 hónapban
 
 ## HSZESET: a házi gyermekorvosi szolgáltató esetszáma a megelőző 12 hónapban
 
-## 5.4. Adatforrás: házi gyermekorvosi ügyeleti ellátás adatai
+## 5.4. Adatforrás: B_300-as jelentés, háziorvosi, házi gyermekorvosi ügyeleti ellátás adatai, Járóbeteg szakellátás
 
 ## 5.5. Célérték:
 
 ## Azok a praxisok részesülnek pontozásban, amelyek nem haladják meg az indikátor havi szinten megállapított alsó kvartilisének felső határát.
 
-## 5.6. Pontszám: 2,5
+## 5.6. Pontszám: 1,875
 
 ## 6. Antibiotikumos kezelés gyakorisága (HSZA0–18%) [3. § (2) bekezdés f) pontja]
 
@@ -690,9 +668,81 @@
 
 |  | 21 | Budapest |  | 2,8 |
 
-## 6.6. Pontszám: 2,5
+## 6.6. Pontszám: 1,875
 
-2. melléklet a 11/2011. (III. 30.) NEFMI rendelethez[^2]
+## 7.  Colecalciferol belsőleges oldatos csepp adása (HSZCI%) [3. § (2) bekezdés g) pontja]
+
+## 7.1.  Célcsoport: A házi gyermekorvosi szolgálathoz bejelentkezett 3 éves kor alatti gyermekek
+
+## 7.2.  Jelentése: A háziorvosi szolgálathoz bejelentkezett 3 éves kor alatti gyermekek közül Colecalciferol belsőleges oldatos csepp gyógyszerformájú készítmény kezelésben részesültek aránya. Azt a gyermeket tekintjük megfelelően ellátottnak, akinek a részére a megelőző 12 hónapban legalább 1 alkalommal váltottak ki Colecalciferol belsőleges oldatos csepp gyógyszerformájú készítményt a patikában (ATC: A11CC05).
+
+## 7.3.  Számítás:
+
+## HSZCI% = HSZCI / BB1 * 100
+
+## HSZCI%: Colecalciferol belsőleges oldatos csepp gyógyszerformájú készítmény szedésének aránya a 0–3 éves kor közötti biztosítottak között
+
+## HSZCI: az adott háziorvosi szolgálathoz bejelentkezett 0–3 éves biztosítottak közül azok száma, akiknek a részére legalább egy alkalommal váltottak ki Colecalciferol belsőleges oldatos csepp gyógyszerformájú készítményt a tárgyhónapot megelőző 12 hónapban
+
+## BB1: összes 3 éves kor alatti bejelentkezett biztosított
+
+## 7.4.  Adatforrás: gyógyszer vényforgalmi adatok
+
+## 7.5.  Célérték:
+
+## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
+
+## 7.6.  Pontszám: 1,875
+
+## 8.  Szűrővizsgálatok végzése (HSZSZ%) [3. § (2) bekezdés h) pontja]
+
+## 8.1.  Célcsoport: A házi gyermekorvosi szolgálathoz bejelentkezett 6 éves kor alatti gyermekek
+
+## 8.2.  Jelentése: A háziorvosi szolgálathoz bejelentkezett 6 éves kor alatti gyermekek közül azok aránya, akiknél – a kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló miniszteri rendelet által elrendelt – szűrési tevékenységek közül legalább 1 megtörtént a megelőző 12 hónapban.
+
+## 8.3.  Számítás:
+
+## HSZSZ% = HSZSZ/BB*100
+
+## HSZSZ%: a házi gyermekorvos által végzett szűrővizsgálatokon átesettek aránya
+
+## HSZSZ: háziorvosi szolgálat által végzett szűrésen átesett 6 év alatti biztosítottak száma
+
+## BB: 6 éves kor alatti biztosítottak száma
+
+## 8.4.  Adatforrás: házi gyermekorvosi tételes jelentés betegforgalmi adatai (B_300-as jelentés, B_308 Szűrés adatsorok)
+
+## 8.5.  Célérték:
+
+## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
+
+## 8.6.  Pontszám: 1,875
+
+## 9.  Kizárólag anyatejes táplálásban részesült csecsemők aránya (HSZSZCS%) [3. § (2) bekezdés i) pontja]
+
+## 9.1.  Célcsoport: A házi gyermekorvosi szolgálathoz bejelentkezett 6 hónapos kor alatti gyermekek
+
+## 9.2.  Jelentése: A háziorvosi szolgálathoz bejelentkezett 6 hónapos kor alatti gyermekek közül azok aránya, akiknél a megelőző 6 hónapban maximum 1 V06C, vagy V06D ATC kódot tartalmazó anyatej helyettesítő és/vagy hipoallergén speciális gyógyászati célra szánt tápszer vény került kiváltásra.
+
+## 9.3.  Számítás:
+
+## HSZSZCS% = HSZSZCS/BB*100
+
+## HSZSZCS%: kizárólag anyatejes táplálásban részesült csecsemők aránya
+
+## HSZSZCS: háziorvosi szolgálat 6 hónapos kor alatti azon biztosítottainak száma, akiknél a megelőző 6 hónapban maximum 1 V06C, vagy V06D ATC kódot tartalmazó anyatej helyettesítő és/vagy hipoallergén speciális gyógyászati célra szánt tápszer vény került kiváltásra.
+
+## BB: 6 hónapos kor alatti biztosítottak száma
+
+## 9.4.  Adatforrás: gyógyszer vényforgalmi adatok
+
+## 9.5.  Célérték:
+
+## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
+
+## 9.6.  Pontszám: 1,875
+
+2. melléklet a 11/2011. (III. 30.) NEFMI rendelethez[^13]
 
 I.
 
@@ -844,4 +894,4 @@ II.
 
 4.3. DOT korlát: 2000/negyedév
 
-[^2]: A 2. melléklet a 2/2012. (I. 3.) NEFMI rendelet 24. §-a szerint módosított szöveg.
+[^13]: A 2. melléklet a 2/2012. (I. 3.) NEFMI rendelet 24. §-a szerint módosított szöveg.
