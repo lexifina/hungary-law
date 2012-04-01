@@ -1,69 +1,82 @@
-6. §[^30] (1) A Magyar Állami Eötvös Loránd Geofizikai Intézet (a továbbiakban: ELGI önállóan működő költségvetési szerv, alaptevékenysége alapján kutatóintézet.
+6. §[^30] (1) A Magyar Földtani és Geofizikai Intézet (a továbbiakban: MFGI) a Magyar Állami Eötvös Loránd Geofizikai Intézet névváltozásával létrejövő központi költségvetési szerv, alaptevékenysége alapján kutatóintézet, amely a beolvadó Magyar Állami Földtani Intézet általános jogutódja.
 
-(2) Az ELGI-nek az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) szerinti irányításáért – a (3) bekezdésben meghatározott kivétellel – a miniszter a felelős.
+(2) Az MFGI-nek az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) szerinti irányításáért – a (3) bekezdésben meghatározott kivétellel – a miniszter a felelős.
 
-(3) Az Áht. 93. § (1) bekezdés b)–c) és f)-h) pontjában meghatározott irányítási jogokat az ELGI tekintetében a Hivatal elnöke gyakorolja.
+(3) Az Áht. 93. § (1) bekezdés b)–c) és f)–h) pontjában meghatározott irányítási jogokat az MFGI tekintetében a Hivatal elnöke gyakorolja.
 
-(4) Az állami földtani feladatok, valamint a Hivatal jogszabályokban megállapított földtani feladatai ellátásában az ELGI közreműködik. Az ELGI ellátja az e rendeletben megállapított és alapító okiratában rögzített állami földtani és geofizikai kutatással összefüggő feladatokat.
+(4) Az állami földtani feladatok, valamint a Hivatal jogszabályokban megállapított bányászati és földtani feladatai ellátásában az MFGI közreműködik. Az MFGI ellátja az e rendeletben megállapított és alapító okiratában rögzített állami földtani és geofizikai kutatással, valamint klímapolitikával összefüggő feladatokat.
 
-(5) Az ELGI állami geofizikai kutatási feladatai a következők:
+(5) Az MFGI állami földtani és geofizikai kutatási, valamint klímapolitikával összefüggő feladatai a következők:
 
-a) az ország földtani felépítésének megismerésére és az ismeretesség növelésére irányuló geofizikai kutatások végzése;
+a) a földtani erőforrásokkal történő gazdálkodás és azok hasznosítását megalapozó tevékenység végzése:
 
-b) az ország földtani erőforrás-gazdálkodását megalapozó kutatások végzése;
+aa) az ásványi nyersanyagok, valamint a geotermikus energia kutatásához, kitermeléséhez és hasznosításához kapcsolódó feladatok,
 
-c) az ország földi erőtereinek folyamatos mérése;
+ab) koncessziós eljárásokhoz kapcsolódó feladatok,
 
-d) geofizikai adatok és információk gyűjtése, közreműködés a Magyar Állami Földtani, Geofizikai és Bányászati Adattár, valamint a Földtani és Bányászati Információs Rendszer kiépítésében, fejlesztésében és működtetésében;
+ac) ásványvagyon gazdálkodással és geotermikus energiavagyon-gazdálkodással kapcsolatos feladatok;
 
-e) közreműködés az állami földtani kutatási feladatok ellátásában;
+b) földtani közeg igénybevételéhez kapcsolódó kutatások:
 
-f) az ország geofizikai tér-adat infrastruktúrájának építése és fejlesztése;
+ba) az ipari eredetű szén-dioxid földalatti elhelyezésével kapcsolatos kutatási feladatok,
 
-g) közhasznú információszolgáltatás;
+bb) földalatti gáztárolással összefüggő kutatási feladatok,
 
-h) az Európai Unió közösségi jogából és más nemzetközi együttműködésből következő, a földi erőterekkel, a földtani közeggel kapcsolatos jogszabályok átvételéhez, ezek végrehajtásához kapcsolódó kutatási feladatok végzése, azokban történő közreműködés;
+bc) a földtani közeg egyéb célú igénybevételével kapcsolatos feladatok;
 
-i) muzeális intézmény, szakkönyvtár, obszervatóriumok, mérőhálózatok, laboratóriumok fenntartása;
+c) földtani környezet megismeréséhez kapcsolódó feladatok:
 
-j) kapcsolattartás a hazai és nemzetközi szervezetekkel.
+ca) az ország földtani felépítésének megismerésére és az ismeretség növelésére irányuló kutatások végzése,
 
-(6) Az ELGI élén igazgató áll.
+cb) az ország földi erőtereinek folyamatos mérése,
 
-(7) Az ELGI éves kutatási munkaprogramját – az ELGI javaslata alapján – a Hivatal elnöke az ELGI éves költségvetési keretének ismeretében hagyja jóvá. A kutatási munkaprogram teljesítéséről szóló jelentés elfogadásáról a Hivatal elnöke az éves költségvetési beszámoló ismeretében dönt.
+cc) a geodéziai gravimetriai és mágneses alaphálózat, valamint a kezelésében lévő, a felszín alatti vizek vizsgálatának egyes szabályairól szóló külön jogszabályban meghatározott felszín alatti vízszint megfigyelő hálózat üzemeltetése,
 
-6./A §[^31] (1) A Magyar Állami Földtani Intézet (a továbbiakban: MÁFI) önállóan működő költségvetési szerv, alaptevékenysége alapján kutatóintézet.
+cd) települési, ipari, bányászati és radioaktív hulladékok elhelyezéséhez szükséges földtani védelem követelményeinek meghatározása, telephelytípusok definiálása,
 
-(2) A MÁFI-nek az Áht. szerinti irányításáért – a (3) bekezdésben meghatározott kivétellel – a miniszter a felelős.
+ce) országos, regionális és eseti környezetföldtani, vízföldtani és építésföldtani, mérnökgeológiai vizsgálatok, valamint közreműködés a földtudományi természetvédelmi értékkataszter gondozásában,
 
-(3) Az Áht. 93. § (1) bekezdés b)–c) és f)-h) pontjában meghatározott irányítási jogokat a MÁFI tekintetében a Hivatal elnöke gyakorolja.
+cf) az ország rendszeres földtani és alkalmazott földtani térképezése, a térképek és azok szöveges magyarázatának készítése, közreadása;
 
-(4) Az állami földtani feladatok, valamint a Hivatal jogszabályokban megállapított földtani feladatai ellátásában a MÁFI közreműködik. A MÁFI ellátja az e rendeletben megállapított és alapító okiratában rögzített állami földtani és geofizikai kutatással összefüggő feladatokat.
+d) földtani veszélyek megelőzése:
 
-(5) A MÁFI állami földtani kutatással összefüggő feladatai:
+da) a földtani veszélyforrások országos nyilvántartásának fejlesztése, karbantartása, kiegészítése, a nyilvántartott területek helyszíni reambulációja,
 
-a) az ország földtani felépítésének megismerésére és az ismeretesség növelésére irányuló földtani, valamint az ország földtani erőforrás-gazdálkodását megalapozó kutatások végzése;
+db) bezárt bányászatihulladék-kezelő létesítmények felmérése, környezeti kockázati besorolása, javaslat az esetlegesen szükséges kármentesítési munkákra,
 
-b) az ország földtani tér-adat infrastruktúrájának építése és fejlesztése;
+dc) a bányászati hulladék minősítésének és képződött mennyiségének hiteles ellenőrzése akkreditált laboratóriumi és terepi mérések alkalmazásával,
 
-c) az ország rendszeres földtani és alkalmazott földtani térképezése, a térképek és azok szöveges magyarázatának készítése, közreadása;
+dd) a földalatti bányászattal és hatásaival érintett területek felmérése, nyilvántartása, kockázati besorolása és a szükséges intézkedések megtételéhez a szakmai javaslatok elkészítése,
 
-d) környezetföldtani, vízföldtani, mérnökgeológiai vizsgálatok végzése;
+de) az országos és regionális, valamint helyi területrendezési tervek földtani veszélyforrás övezeteinek kijelölésében, és az adatok közzétételében való közreműködés,
 
-e) az Európai Uniónak a földtani közegre, valamint a felszín alatti vizekre vonatkozó jogszabályai átvételéhez, végrehajtásához kapcsolódó kutatási feladatok ellátása, azokban történő közreműködés;
+df) földrengés-veszélyeztetettségi terület-besorolások aktualizálása és települési szintű kataszterének szolgáltatása;
 
-f) földtani adatok és információk gyűjtése, közreműködés a Magyar Állami Földtani, Geofizikai és Bányászati Adattár, valamint a Földtani és Bányászati Információs Rendszer kiépítésében, fejlesztésében és működtetésében;
+e) földtani információ kezelése, szolgáltatása:
 
-g) közhasznú információszolgáltatás;
+ea) földtani, geofizikai adatok és információk gyűjtése, közreműködés a Magyar Állami Földtani, Geofizikai és Bányászati Adattár, valamint a Földtani és Bányászati Információs Rendszer kiépítésében, fejlesztésében és működtetésében,
 
-h)[^32] országos szakmúzeum vagy tematikus múzeum, szakkönyvtár, mérőhálózat, laboratóriumok fenntartása, üzemeltetése;
+eb) az ország földtani, geofizikai tér-adat infrastruktúrájának építése és fejlesztése, adatszolgáltatás,
 
-i) részvétel nemzetközi kutatási programokban, kapcsolattartás a hazai és nemzetközi szakmai szervezetekkel.
+ec) közhasznú információszolgáltatás,
 
-(6) A MÁFI élén igazgató áll.
+ed) szakmúzeum, szakkönyvtár, obszervatóriumok, mérőhálózatok, laboratóriumok fenntartása;
 
-(7) A MÁFI éves kutatási munkaprogramját – a MÁFI javaslata alapján – a Hivatal elnöke a MÁFI éves költségvetési keretének ismeretében hagyja jóvá. A kutatási munkaprogram teljesítéséről szóló jelentés elfogadásáról a Hivatal elnöke az éves költségvetési beszámoló ismeretében dönt.
+f) kapcsolattartás a hazai és nemzetközi földtani és geofizikai szervezetekkel;
 
-[^30]: A 6. § a 351/2010. (XII. 30.) Korm. rendelet 162. §-ával megállapított szöveg.
-[^31]: A 6/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 163. §-a iktatta be.
-[^32]: A 6/A. § (5) bekezdés h) pontja a 195/2011. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+g) az Európai Unió jogából és más nemzetközi együttműködésből következő, a földi erőterekkel, a földtani közeggel, valamint a felszín alatti vízzel kapcsolatos jogszabályok átvételéhez, ezek végrehajtásához kapcsolódó kutatási feladatok végzése, azokban történő közreműködés;
+
+h) a miniszter hatáskörébe tartozó feladatok végrehajtásához szükséges bányászati ellenőrző geodéziai mérési és térképi ábrázolási feladatok elvégzése és geodéziai nyilvántartások vezetése;
+
+i) bányászati és földtani közeget hasznosító létesítmények engedélyezésével kapcsolatos eljárásokban közreműködés, műszaki biztonsági kérdésekben szakvélemény készítés;
+
+j) a klímaváltozással, az azt kiváltó folyamatokkal és hatásokkal kapcsolatos hazai kutatásokkal, az üvegházhatású gázok hazai kibocsátásainak csökkentésével és a klímaváltozás hazai hatásaihoz való alkalmazkodással kapcsolatos feladatok ellátása, az MFGI szervezeti egységeként működő Nemzeti Alkalmazkodási Központ keretében részvétel a klímapolitikát szolgáló elemzések, térinformatikai vizsgálatok, stratégiák elkészítésében.
+
+(6) Az MFGI élén igazgató áll. Az MFGI dolgozói közalkalmazottak, jogviszonyuk részletes szabályaira a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a Magyar Tudományos Akadémia irányítása alá tartozó költségvetési szerveknél, illetve más kutató- és kutatást kiegészítő intézeteknél történő végrehajtásáról szóló 84/2011. (V. 26.) Korm. rendelet előírásai vonatkoznak.
+
+(7) Az MFGI éves kutatási munkaprogramját – az MFGI igazgatójának javaslata alapján – a Hivatal elnöke az MFGI éves költségvetési keretének ismeretében hagyja jóvá. Jóváhagyás előtt a munkaprogramot a környezetvédelemért és a vízgazdálkodásért felelős miniszter által kijelölt szervezetnek véleményezésre megküldi, tekintettel a hulladékgazdálkodást és a vízgazdálkodást érintő feladatokra. A kutatási munkaprogram teljesítéséről szóló jelentés elfogadásáról a Hivatal elnöke az éves költségvetési beszámoló ismeretében dönt.
+
+6./A §[^31]
+
+[^30]: A 6. § a 320/2011. (XII. 27.) Korm. rendelet 1. § (1) bekezésével megállapított szöveg.
+[^31]: A 6/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 163. §-a iktatta be, hatályon kívül helyezte a 320/2011. (XII. 27.) Korm. rendelet 1. § (2) bekezdése.
