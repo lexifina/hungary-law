@@ -20,4 +20,4 @@ b) ha a szakhatóság az előírt határidőn belül nem ad ki állásfoglalást
 
 (6) A hatóság mellőzi a határozathozatalt, ha jogszabályban biztosított jogosultság gyakorlásának kizárólag az ügyfél erre irányuló kérelmének benyújtása a feltétele. A hatóság az ügyfél kérelmére igazolja, hogy az ügyfél a kérelem benyújtásától a jogszabályban biztosított jogát jogszerűen gyakorolja.
 
-(7) Törvényben vagy kormányrendeletben meghatározott esetben vagy az ügyfél hozzájárulása alapján sor kerülhet informatikai eszközzel végzett automatizált egyedi döntésre is. Automatizált egyedi döntésen a kiadmányozásra jogosult aláírása és a hatóság bélyegzőlenyomata is informatikai eszközzel rögzíthető, ha azt a törvény vagy a kormányrendelet megengedi, és az aláírás és a bélyegzőlenyomat hitelességét a hatáskör gyakorlója egyedi döntésével hitelesítette.
+(7) Ha a technikai lehetőségek adottak, a hatóság papír alapú kapcsolattartás esetén is elektronikusan hozza meg döntését.

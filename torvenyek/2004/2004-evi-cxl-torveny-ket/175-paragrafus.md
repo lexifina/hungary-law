@@ -1,1 +1,43 @@
-175. §
+175. § (1) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
+
+a) az elektronikus ügyintézési felügyeletet,
+
+b) az ügyintézési rendelkezést nyilvántartó szervet,
+
+c) az állam által kötelezően nyújtandó szabályozott elektronikus ügyintézési szolgáltatások szolgáltatóit.
+
+(2) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
+
+a) az elektronikus ügyintézés és az elektronikus kapcsolattartás részletes szabályait,
+
+b) a szabályozott elektronikus ügyintézési szolgáltatás igénybevételének részletes szabályait,
+
+c) az elektronikus ügyintézési felügyelet és a 161. § (5) bekezdése szerinti szakhatóság hatáskörét és eljárását,
+
+d) a hatóság azonosításával kapcsolatos részletes követelményeket,
+
+e) az elektronikus iratok kezelésével és megőrzésével kapcsolatos sajátos követelményeket,
+
+f) a biztonsági szintek meghatározásának szabályait és az elfogadott biztonsági szintek meghatározását a hatóság esetén,
+
+g) a kormányzati hitelesítés-szolgáltató működésének részletes szabályait, valamint
+
+h) az elektronikus ügyintézés céljaira felhasználható elektronikus aláírásokra, az elektronikus aláíráshoz tartozó tanúsítványokra, illetve az azokkal összefüggésben nyújtott elektronikus aláírással kapcsolatos szolgáltatásokra vonatkozó sajátos követelményeket.
+
+(3) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
+
+a) az írásbelinek nem minősülő elektronikus nyilatkozat írásbelinek minősülő elektronikus nyilatkozattá történő átalakításának, elektronikus iratról hiteles papír alapú kiadmány vagy másolat készítésének, papír alapú iratról hiteles elektronikus másolat készítésének részletes szabályait,
+
+b) az ügyintézési rendelkezés tételének és nyilvántartásba vételének részletes szabályait,
+
+c) az azonosítási hibából eredő kockázat és a biztonsági szintek közötti kapcsolatot, az azonosítási hiba bekövetkezéséből származó lehetséges kár jellege és súlyosságának mérlegelése során figyelembe veendő részletes szempontokat,
+
+d) a szabályozott elektronikus ügyintézési szolgáltatások részletes követelményeit, a szabályozott elektronikus ügyintézési szolgáltatásnyújtás részletes eljárási rendjét, valamint a szabályozott elektronikus ügyintézési szolgáltatásnyújtásra vonatkozó szervezési feltételeket,
+
+e) a szabályozott elektronikus ügyintézési szolgáltató által teljesítendő személyi és pénzügyi feltételeket,
+
+f) az elektronikus ügyintézési szolgáltatás engedélyezéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával és csökkentésével kapcsolatos szabályokat, valamint
+
+g) az elektronikus fizetésekre és elszámolásokra vonatkozó részletes szabályokat.
+
+(4) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel egyetértésben a technikai előírásokat igénylő szabályozott elektronikus ügyintézési szolgáltatások részletes műszaki, technikai feltételeit rendeletben állapítsa meg.

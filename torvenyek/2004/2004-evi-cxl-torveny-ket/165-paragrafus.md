@@ -1,7 +1,5 @@
-165. § (1) A hatóság és az integrált ügyfélszolgálati iroda az ügyfelek személyes megjelenéséhez kötött hatósági ügyek intézését elektronikus úton vagy telefonon történő előzetes időpontfoglalással teszi lehetővé.
+## Kézbesítési szolgáltatás
 
-(2) Az ügyfél az elektronikus úton elérhető ügyintézői naptárban megjelölheti, hogy melyik időpontban kíván a hatóságnál ügyintézés céljából megjelenni.
+165. § (1) A kézbesítési szolgáltatást nyújtó személy vagy szervezet (a továbbiakban: kézbesítési szolgáltató) jogszabályban meghatározott módon közreműködik a döntések és más elektronikus nyilatkozatok (e fejezet alkalmazásában a továbbiakban: üzenet) kézbesítésében.
 
-(3)
-
-(4) A hatóság legkésőbb egy munkanappal az időpontfoglalásban meghatározott időpont előtt az időpont módosítását kezdeményezheti.
+(2) Ha a hatóság által használt kézbesítési szolgáltatás nem biztonságos kézbesítési szolgáltatás, a hatóság elektronikus kézbesítést akkor alkalmazhat, ha a címzett ügyintézési rendelkezésében vagy külön nyilatkozatában (külön megállapodásban vagy az eljárás során) az ilyen módon történő kézbesítéshez hozzájárult. Ilyen esetben az üzenet akkor tekinthető kézbesítettnek, ha az ügyfél nyilatkozik az üzenet fogadásáról. A döntések közlésére – az ügyfél elektronikus ügyintézési rendelkezésben tett eltérő rendelkezése hiányában – kizárólag biztonságos kézbesítési szolgáltatás alkalmazható. Az ügyfél elektronikus ügyintézési rendelkezésében a jogszabályban meghatározott követelményeknek megfelelő egyéb kézbesítési szolgáltatás alkalmazását is lehetővé teheti.

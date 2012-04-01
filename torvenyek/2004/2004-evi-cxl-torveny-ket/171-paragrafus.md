@@ -2,7 +2,7 @@
 
 171. § (1) E törvény rendelkezéseitől a 2005. július 1-je előtt jogszabályban kihirdetett nemzetközi szerződés eltérhet.
 
-(2) A (3)–(6) bekezdésben foglalt kivétellel
+(2) A (3)–(9) bekezdésben foglalt kivétellel
 
 a) e törvény rendelkezéseit a törvény,
 
@@ -19,3 +19,9 @@ hatálybalépését követően indult ügyekben és megismételt eljárásokban 
 (5) E törvénynek a Módtv. 46. §-ával megállapított 169/H. §-át az e rendelkezés hatálybalépését követően elkövetett jogsértésekre kell alkalmazni.
 
 (6) E törvénynek a Módtv. 46. §-ával megállapított X/A. Fejezete szerinti eljárás a Módtv. hatálybalépését megelőzően elkövetett jogsértések tekintetében az e rendelkezés hatálybalépését követő harminc napon belül indítható.
+
+(7) E törvénynek a Módtv. 47. §-ával megállapított, az elektronikus kapcsolattartásra és elektronikus ügyintézésre vonatkozó rendelkezéseit az e rendelkezések hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(8) A Módtv. 47. §-ának hatálybalépésekor már nyújtott nem engedélyköteles elektronikus ügyintézési szolgáltatások tekintetében e törvénynek a Módtv. 47. §-ával megállapított rendelkezéseit 2013. január 1-jétől kell alkalmazni. Az ilyen szolgáltatásokat a felügyeletnek 2013. január 1-jéig kell bejelenteni.
+
+(9) A Módtv. 47. §-ának hatálybalépésekor már nyújtott engedélyköteles elektronikus ügyintézési szolgáltatás 2013. január 1. napjától akkor folytatható, ha a szolgáltatást nyújtó az e törvény szerinti engedélyt eddig az időpontig megszerezte.
