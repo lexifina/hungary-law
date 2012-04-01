@@ -8,7 +8,7 @@ aa) döntéshozó testületének tagságán belül a civil és üzleti szféra e
 
 ab) és működési gyakorlata által biztosítja a korlátozásmentes tagfelvétel lehetőségét,
 
-ac)[^11]
+ac)[^16]
 
 b) meghatározott tagsága legalább húsz tagból áll, amelyben az üzleti és civil szféra szféránként legalább hat taggal képviselteti magát;
 
@@ -40,4 +40,4 @@ b) magasabb taglétszámmal rendelkezik és tagságában nagyobb aránnyal képv
 
 (6) Az új HACS elismeréséről az IH a benyújtott dokumentumok alapján az (5) bekezdés szerinti tájékoztatást követően 30 napon belül határozatban dönt, s ezt követően további 30 napon belül a LEADER HACS és az IH együttműködési megállapodást köt.
 
-[^11]: A 13. § (1) bekezdés a) pont ac) alpontját a 76/2011. (VII. 29.) VM rendelet 29. § (3) bekezdés c) pontja hatályon kívül helyezte.
+[^16]: A 13. § (1) bekezdés a) pont ac) alpontját a 76/2011. (VII. 29.) VM rendelet 29. § (3) bekezdés c) pontja hatályon kívül helyezte.

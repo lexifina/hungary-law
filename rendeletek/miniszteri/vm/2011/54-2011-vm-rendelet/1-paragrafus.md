@@ -20,7 +20,7 @@
 
 9. LEADER: az 1698/2005/EK tanácsi rendelet 61. cikke szerint ekként meghatározott fogalom;
 
-10. LEADER HACS: az 1698/2005/EK tanácsi rendelet 62. cikkének megfelelő és az IH által elismert, jogi személyiséggel rendelkező – 2011. december 31. után kizárólag egyesületi formában működő – helyi közösség, amely az elismerés iránti kérelemmel egyidejűleg vállalta a LEADER HACS minősítéshez kapcsolódó feltételek teljesítését;
+10.[^1] LEADER HACS: az 1698/2005/EK tanácsi rendelet 62. cikkének megfelelő és az IH által elismert, jogi személyiséggel rendelkező helyi közösség, amely az elismerés iránti kérelemmel egyidejűleg vállalta a LEADER HACS minősítéshez kapcsolódó feltételek teljesítését;
 
 11. LEADER HACS feladatok: a 141/2008. (X. 30.) FVM rendelet 3. § (1) bekezdésében, valamint a delegálási szerződésben meghatározott feladatok;
 
@@ -28,10 +28,14 @@
 
 13. LEADER terv: a HVS azon része, amely az 1698/2005/EK tanácsi rendelet 61–65. cikkében előírtaknak, valamint az IH által meghatározott egyéb feltételeknek megfelelő fejlesztéseket tartalmaz;
 
-14.[^1] munkaszervezet: a LEADER HACS által létrehozott, , ügyviteli és adminisztratív szervezet, amely a LEADER HACS és az IH között megkötött együttműködési szerződés alapján látja el tevékenységét az ÚMVP III. és IV. tengely intézkedéseinek végrehajtása érdekében, amelynek vezetője nem lehet a LEADER HACS címmel rendelkező egyesület elnöke;
+14.[^2] munkaszervezet: a LEADER HACS által létrehozott, , ügyviteli és adminisztratív szervezet, amely a LEADER HACS és az IH között megkötött együttműködési szerződés alapján látja el tevékenységét az ÚMVP III. és IV. tengely intézkedéseinek végrehajtása érdekében, amelynek vezetője nem lehet a LEADER HACS címmel rendelkező egyesület elnöke;
 
 15. új HACS: a címvisszavonással érintett LEADER HACS területén az IH felhívására vidékfejlesztési céllal szerveződő helyi közösség, amely az e rendelet szerinti előírások alapján szerveződik meg, és az IH-hoz benyújtja LEADER HACS-ként való elismerési kérelmét;
 
-16. üzleti szféra: a gazdálkodó szervezetek – az állami vagy önkormányzati vállalatok és azon gazdálkodó szervezetek kivételével, melyekben az állam vagy az önkormányzat Ptk. 685/B. §-ában meghatározott meghatározó befolyással rendelkezik –, ha nem állnak csődeljárás, felszámolási eljárás, végelszámolás alatt, vagy nincs 90 napnál hosszabb ideje esedékessé vált köztartozásuk.
+16. üzleti szféra: a gazdálkodó szervezetek – az állami vagy önkormányzati vállalatok és azon gazdálkodó szervezetek kivételével, melyekben az állam vagy az önkormányzat Ptk. 685/B. §-ában meghatározott meghatározó befolyással rendelkezik –, ha nem állnak csődeljárás, felszámolási eljárás, végelszámolás alatt, vagy nincs 90 napnál hosszabb ideje esedékessé vált köztartozásuk;
 
-[^1]: Az 1. § 14. pontja a 76/2011. (VII. 29.) VM rendelet 29. § (3) bekezdés a) pontja szerint módosított szöveg.
+17.[^3] bevont szervezet: a LEADER HACS által megbízott jogi személyiségű szervezet, amely közreműködik a támogatott intézkedések keretében benyújtott támogatási kérelmek, pályázatok és kifizetési kérelmek feldolgozásában, értékelésében, ellenőrzésében.
+
+[^1]: Az 1. § 10. pontja a 30/2012. (III. 24.) VM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 14. pontja a 76/2011. (VII. 29.) VM rendelet 29. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 17. pontját a 30/2012. (III. 24.) VM rendelet 15. § (2) bekezdése iktatta be.
