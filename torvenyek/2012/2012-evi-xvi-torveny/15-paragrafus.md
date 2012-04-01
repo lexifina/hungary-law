@@ -15,11 +15,3 @@ ad) egy alkalommal sem érte el a 600 millió forintot, de legalább egy alkalom
 ae) egy alkalommal sem érte el a 300 millió forintot, de legalább egy alkalommal elérte a 150 millió forintot, akkor a (2) bekezdésben meghatározott összeg 5 százaléka,
 
 af) egy alkalommal sem érte el a 150 millió forintot, akkor a (2) bekezdésben meghatározott összeg 2,5 százaléka;”
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
