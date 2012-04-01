@@ -1,3 +1,3 @@
-3. melléklet a 2/2012. (I. 3.) NEFMI rendelethez[^26]
+3. melléklet a 2/2012. (I. 3.) NEFMI rendelethez[^24]
 
-[^26]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
