@@ -1,7 +1,7 @@
-4. § (1)[^1] A Kormány a hivatásos katasztrófavédelmi szerv helyi szerveiként a katasztrófavédelmi kirendeltséget jelöli ki. A katasztrófavédelmi kirendeltség ellátja a részére jogszabályban meghatározott államigazgatási feladat- és hatásköröket.
+4. §[^1] (1) A katasztrófavédelmi kirendeltség a megyei, fővárosi katasztrófavédelmi igazgatóság helyi szerveként, önálló feladat- és hatáskörrel működik. A katasztrófavédelmi kirendeltségek kijelölését az 1. melléklet c) pontja tartalmazza.
 
-(2) A katasztrófavédelmi kirendeltséget kirendeltségvezető vezeti.
+(2) A katasztrófavédelmi kirendeltséget kirendeltség-vezető vezeti.
 
-(3) A helyi szervek kijelölését az 1. melléklet c) pontja tartalmazza.
+(3) A hivatásos tűzoltóság a katasztrófavédelmi kirendeltség szervezeti elemeként működik.
 
-[^1]: A 4. § (1) bekezdése a 259/2011. (XII. 7.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^1]: A 4. § a 43/2012. (III. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
