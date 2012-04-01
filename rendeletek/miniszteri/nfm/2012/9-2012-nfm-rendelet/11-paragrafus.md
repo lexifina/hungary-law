@@ -1,3 +1,3 @@
-## 10. §[^10]
+## 10. § Az R. 32. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-[^10]: A 10. § a 14. § (2) bekezdése alapján 2012. április 1-jén lép hatályba.
+## „(4) Az üzembehelyezési engedély iránti kérelem benyújtása nyilvántartásba vételi iránti kérelemnek is minősül.”
