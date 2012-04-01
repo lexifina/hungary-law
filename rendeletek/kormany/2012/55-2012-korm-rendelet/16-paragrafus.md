@@ -1,4 +1,4 @@
-## 15. §[^3]
+## 15. § Hatályát veszti az R2. 5. § (2) bekezdése.
 
 ## 3. Záró rendelkezések
 
@@ -7,5 +7,3 @@
 (2) A 13–15. § 2012. április 1-jén lép hatályba.
 
 (3) Ez a rendelet 2012. április 2-án a hatályát veszti.
-
-[^3]: A 15. § a 16. § (2) bekezdése alapján 2012. április 1-jén lép hatályba.

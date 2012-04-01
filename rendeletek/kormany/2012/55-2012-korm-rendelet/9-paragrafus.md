@@ -1,3 +1,3 @@
-## 8. § Az R1. 11. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 8. §[^9]
 
-## „(3) A saját honlapon közzétevő vagy az adatfelelős jogutód nélkül történő megszűnése esetén a közzétett közzétételi egységeket átadja a központi elektronikus jegyzék működtetője részére.”
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

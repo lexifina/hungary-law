@@ -1,3 +1,3 @@
-## 7. § Az R1. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^8]
 
-## „(1) A saját honlapon közzétevő, az adatfelelős, vagy az adatközlő megszűnése esetén a jogutód a honlapon megjelöli a jogelőd megszűnésének tényét és jogalapját, több jogutód esetén a jogutód által közzéteendő közérdekű adatok körét is.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

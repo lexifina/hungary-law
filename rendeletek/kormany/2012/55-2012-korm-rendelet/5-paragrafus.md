@@ -1,3 +1,3 @@
-## 4. § Az R1. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 4. §[^5]
 
-## „(1) Az adatfelelős a közzétett adatok pontosságát, időszerűségét és értelmezhetőségét a közzétételt követően is folyamatosan figyelemmel kíséri.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

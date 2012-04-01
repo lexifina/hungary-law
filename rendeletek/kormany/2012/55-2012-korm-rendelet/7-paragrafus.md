@@ -1,3 +1,3 @@
-## 6. § Az R1. 10. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 6. §[^7]
 
-## „(2) A közzétételi lista által előírt megőrzési kötelezettség lejártakor a saját honlapon közzétevő, illetve az adatfelelős a közzétett, külön jogszabályban meghatározott közzétételi egységeket átadja a központi elektronikus jegyzék működtetője részére.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
