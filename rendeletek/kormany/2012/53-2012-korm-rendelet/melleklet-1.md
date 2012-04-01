@@ -1,5 +1,6 @@
-## 49. § Nem lép hatályba a villamosenergia-ellátással, a földgázellátással és a távhőszolgáltatással összefüggő kormányrendeletek módosításáról szóló 378/2011. (XII. 31.) Korm. rendelet 39. §-a.
+## 49. §[^29]
 
-1–7. melléklet az 53/2012. (III. 28.) Korm. rendelethez[^28]
+1–7. melléklet az 53/2012. (III. 28.) Korm. rendelethez[^30]
 
-[^28]: Az 1–7. melléklet a 46. § (2) bekezdése alapján 2012. április 27-én lép hatályba.
+[^29]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: Az 1–7. melléklet a 46. § (2) bekezdése alapján 2012. április 27-én lép hatályba.
