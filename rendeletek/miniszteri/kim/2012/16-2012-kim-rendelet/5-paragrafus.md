@@ -1,3 +1,5 @@
-## 4. §[^3]
+## 4. §[^4] A számviteli törvény szerinti beszámoló elektronikus úton történő letétbe helyezéséről és közzétételéről szóló 11/2009. (IV. 28.) IRM–MeHVM–PM együttes rendelet 3. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-[^3]: A 4. § a 6. § (2) bekezdése alapján 2012. április 1-jén lép hatályba.
+## „(4) A céginformációs szolgálat a beküldött beszámoló informatikai ellenőrzését haladéktalanul elvégzi, és azt követően összeveti a beszámoló mellé csatolt elektronikus űrlapon megjelölt cégjegyzékszámot és adószámot a cégjegyzék adataival. Ha a beszámoló informatikailag helyesen került beküldésre, valamint az elektronikus űrlapon megadott cégjegyzékszám és adószám helyes, a céginformációs szolgálat a dokumentumokat befogadottnak tekinti, amely tényről elektronikus értesítést küld a beszámolót beküldő személy részére. Amennyiben a beküldött beszámoló informatikailag hibás, vagy az elektronikus űrlapon megadott cégjegyzékszám és adószám nem megfelelő, a céginformációs szolgálat erről haladéktalanul elektronikus értesítést küld a beszámolót beküldő személy részére. Ebben az esetben a beszámolót be nem nyújtottnak kell tekinteni.”
+
+[^4]: A 4. § a 6. § (2) bekezdése alapján 2012. április 1-jén lép hatályba.

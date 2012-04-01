@@ -1,4 +1,4 @@
-## 5. §[^4]
+## 5. §[^5]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Ez a rendelet 2012. április 2-án hatályát veszti.
 
-[^4]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
