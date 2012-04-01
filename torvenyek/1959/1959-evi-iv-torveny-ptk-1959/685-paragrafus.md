@@ -16,4 +16,4 @@ d) fogyasztó: a gazdasági vagy szakmai tevékenység körén kívül eső cél
 
 e) fogyasztói szerződés: az a szerződés, amely fogyasztó és olyan személy között jön létre, aki (amely) a szerződést gazdasági vagy szakmai tevékenysége körében köti; a törvény jótállásra és kellékszavatosságra vonatkozó szabályai alkalmazásában az a szerződés minősül fogyasztói szerződésnek, amelynek tárgya ingó dolog, kivéve a villamos energiát, a – tartályban, palackban vagy egyéb módon korlátozott mennyiségben vagy meghatározott űrtartalommal ki nem szerelt – vizet és gázt, továbbá a végrehajtási eljárás vagy más hatósági intézkedés folytán eladott dolgot, valamint az olyan árverésen eladott használt dolgot, amelyen a fogyasztó személyesen részt vehet (fogyasztási cikk);
 
-f) teljes hiteldíj: a kölcsönért fizetendő ellenérték, amely tartalmazza a kamatokat, folyósítási jutalékokat és minden egyéb – a kölcsön felhasználásával kapcsolatosan teljesítendő – ellenszolgáltatást.
+f)

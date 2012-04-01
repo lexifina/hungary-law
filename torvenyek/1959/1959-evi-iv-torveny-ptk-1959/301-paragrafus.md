@@ -2,7 +2,7 @@ Ptk.301. § (1) Pénztartozás esetében – ha jogszabály eltérően nem ren
 
 (2) Az államháztartás alrendszereiben harmadik személyekkel szemben vállalt vagy az alrendszereket egyébként harmadik személyekkel szemben terhelő fizetési kötelezettség késedelmes teljesítése esetén a késedelmi kamat tekintetében is alkalmazni kell a kamatfizetés mellőzésére vagy a törvényesnél alacsonyabb mértékű kamatfizetésre irányuló szerződési kikötés semmisségére vonatkozó rendelkezést.
 
-(3) Ha a jogosultnak a késedelembe esés időpontjáig kamat jogszabály vagy szerződés alapján jár, a kötelezett a késedelembe esés időpontjától e kamaton felül – ha jogszabály eltérően nem rendelkezik – a késedelemmel érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamat egyharmadával megegyező mértékű kamatot, de összességében legalább az (1) bekezdésben meghatározott kamatot köteles megfizetni.
+(3) Ha a jogosultnak a késedelembe esés időpontjáig kamat jogszabály vagy szerződés alapján jár, a kötelezett a késedelembe esés időpontjától e kamaton felül – ha jogszabály eltérően nem rendelkezik – a késedelemmel érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamat egyharmadával megegyező mértékű kamatot, de összességében legalább az (1) bekezdésben meghatározott kamatot köteles megfizetni. A magánszemélyek egymás közötti viszonyában kikötött késedelmi kamat – ha jogszabály másként nem rendelkezik – a jegybanki alapkamat 24 százalékponttal növelt mértékét meghaladó részében semmis.
 
 (4) A felek által túlzott mértékben megállapított késedelmi kamatot a bíróság mérsékelheti.
 
