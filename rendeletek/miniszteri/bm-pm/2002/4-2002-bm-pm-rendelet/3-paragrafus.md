@@ -8,8 +8,8 @@ c) vezényelt határőrök,
 
 d) vezényelt pénzügyőrök,
 
-e)[^1]
+e)[^4]
 
 f) a nemzetközi és regionális bűnüldözési szervezetekhez, illetve külföldi bűnüldöző szervekhez kiküldött összekötők
 
-[^1]: A 3. § e) pontját a 4/2003. (I. 30.) BM–PM együttes rendelet 1. §-a hatályon kívül helyezte.
+[^4]: A 3. § e) pontját a 4/2003. (I. 30.) BM–PM együttes rendelet 1. §-a hatályon kívül helyezte.

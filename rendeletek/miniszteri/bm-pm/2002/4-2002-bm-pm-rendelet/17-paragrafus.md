@@ -1,6 +1,6 @@
 ## 16. § A 10. § (1) bekezdésében meghatározott szervek kötelesek a tudomásukra jutott és a NEBEK hatáskörébe tartozó információról tájékoztatást adni, adatot szolgáltatni, valamint közreműködni bűnügyi elemzések és statisztikák készítésében.
 
-17. § (1)[^6] A NEBEK-hez megküldött megkeresésre – a magyar állam hatáskörrel rendelkező központi nyomozó szerve és a külföldi állam kijelölt hatóságának eseti megállapodása alapján – engedélyezhető Magyarország területén nemzetközi ellenőrzött szállítás végrehajtása.
+17. § (1)[^9] A NEBEK-hez megküldött megkeresésre – a magyar állam hatáskörrel rendelkező központi nyomozó szerve és a külföldi állam kijelölt hatóságának eseti megállapodása alapján – engedélyezhető Magyarország területén nemzetközi ellenőrzött szállítás végrehajtása.
 
 (2) Az ellenőrzött szállításra irányuló megkeresésnek tartalmaznia kell:
 
@@ -24,9 +24,9 @@ i) váratlan esemény esetén alkalmazandó intézkedést,
 
 j) az ellenőrzött szállítás kísérésében részt vevő külföldi nyomozó szerv tagja büntetőjogi, valamint a működési körében okozott károkért való felelősségének szabályait.
 
-(3)[^7] Magyarország területén végrehajtott nemzetközi ellenőrzött szállítás során a művelet irányítására és ellenőrzésére az erre kijelölt magyar nyomozó szerv jogosult.
+(3)[^10] Magyarország területén végrehajtott nemzetközi ellenőrzött szállítás során a művelet irányítására és ellenőrzésére az erre kijelölt magyar nyomozó szerv jogosult.
 
 (4) Az ellenőrzött szállítás kísérésében a felek megegyezése szerint a külföldi nyomozó hatóság tagja is részt vehet.
 
-[^6]: A 17. § (1) bekezdése a 68/2011. (XII. 30.) BM rendelet 19. § a) pontja szerint módosított szöveg.
-[^7]: A 17. § (3) bekezdése a 68/2011. (XII. 30.) BM rendelet 19. § b) pontja szerint módosított szöveg.
+[^9]: A 17. § (1) bekezdése a 68/2011. (XII. 30.) BM rendelet 19. § a) pontja szerint módosított szöveg.
+[^10]: A 17. § (3) bekezdése a 68/2011. (XII. 30.) BM rendelet 19. § b) pontja szerint módosított szöveg.
