@@ -1,4 +1,4 @@
-## 24. §[^3]
+## 24. § Az atomenergia alkalmazása körében eljáró független műszaki szakértőről szóló 247/2011. (XI. 25.) Korm. rendelet 5. § (1) bekezdésében a „tíz éves, az atomenergia alkalmazási körébe tartozó szakmai” szövegrész helyébe a „tíz éves, az 1. mellékletben felsorolt szakterületek valamelyikén megszerzett szakmai” szöveg lép.
 
 ## 4. Záró rendelkezések
 
@@ -7,5 +7,3 @@
 (2) A rendelet 1–12. §-a, 24. §-a, valamint 1–8. melléklete 2012. április 1-jén lép hatályba.
 
 (3) A rendelet 2012. április 2-án hatályát veszti.
-
-[^3]: A 24. § a 25. § (2) bekezdése alapján 2012. április 1-jén lép hatályba.

@@ -1,0 +1,3 @@
+## 1. § A nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló 118/2011. (VII. 11.) Korm. rendelet (a továbbiakban: NBSZ rendelet) 3. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) Ha a kérelmező a nukleáris biztonsággal összefüggő engedély iránti kérelmét az útmutatókban foglaltak szerint terjeszti elő, továbbá, ha az engedélyes a nukleáris biztonsággal összefüggő tevékenységét az útmutatókban foglaltak szerint végzi, akkor a nukleáris biztonsági hatóság a választott módszert a nukleáris biztonság követelményei teljesítésének igazolására alkalmasnak tekinti, és az alkalmazott módszer megfelelőségét nem vizsgálja.”
