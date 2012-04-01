@@ -6,7 +6,7 @@
 
 (3)[^8] Az Alapkezelő ügyvezetői feladatait a vezérigazgató látja el. A vezérigazgatót a Bizottság javaslatára a kormányzati tevékenység összehangolásáért felelős miniszter határozatlan időre nevezi ki. Az Alapkezelő munkatársai felett a munkáltatói jogokat a vezérigazgató gyakorolja.
 
-(4) Az Alapkezelő feladata
+(4)[^9] Az Alapkezelő feladata
 
 a) az Alap pénzeszközeinek kezelése,
 
@@ -16,11 +16,11 @@ c) a Bizottság döntéseinek előkészítése és végrehajtása,
 
 d) a pályázati rendszer működtetése, ideértve a nem pályázati úton nyújtott támogatások lebonyolítását is,
 
-e)[^9] a pályázókkal, kérelmezőkkel való szerződéskötés,
+e) a pályázókkal, kérelmezőkkel való szerződéskötés,
 
 f) a támogatások pénzügyi utalása,
 
-g)[^10] a támogatott pályázatok, kérelmek pénzügyi elszámoltatása és szakmai beszámoltatása,
+g) a támogatott pályázatok, kérelmek pénzügyi elszámoltatása és szakmai beszámoltatása,
 
 h) a pénzügyi és teljesítmény-ellenőrzések szervezése és lebonyolítása,
 
@@ -30,11 +30,12 @@ j) a vonatkozó jogszabályokban előírt nyilvánosság biztosítása,
 
 k) az Alap honlapjának működtetése, továbbá
 
-l) mindazoknak a kötelezettségeknek az ellátása, amelyeket jogszabály az Alapkezelő számára előír.
+l) a határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok lebonyolítása és a támogatásközvetítési feladatok összehangolása,
+
+m) mindazoknak a kötelezettségeknek az ellátása, amelyeket jogszabály az Alapkezelő számára előír.
 
 (5) Az Alapkezelőre egyebekben a gazdasági társaságokról szóló 2006. évi IV. törvény rendelkezéseit kell alkalmazni.
 
 [^7]: A 8. § (1) bekezdése a 117/2011. (VII. 7.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^8]: A 8. § (3) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 1. §-ával megállapított és a 201/2011. (X. 7.) Korm. rendelet 6. § (5) bekezdése szerint módosított szöveg.
-[^9]: A 8. § (4) bekezdés e) pontja a 117/2011. (VII. 7.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^10]: A 8. § (4) bekezdés g) pontja a 117/2011. (VII. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^9]: A 8. § (4) bekezdése 365/2011. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
