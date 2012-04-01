@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-38-00-00
 | 2011-01-01 | 2010. évi CXV. törvény | 2010-38-00-00.3 |
 | 2011-01-03 | 2010. évi CXV. törvény | 2010-38-00-00.4 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2010-38-00-00.5 |
+| 2012-04-01 | 2011. évi CLXXIV. törvény | 2010-38-00-00.6 |

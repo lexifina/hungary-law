@@ -1,8 +1,8 @@
 11. § (1) A közjegyző a hagyatéki eljárás iratait bíróság részére postai úton kézbesíti, a megkeresett bíróság pedig postai úton válaszol a megkeresésre. A cégbírósággal való levelezésre a (2) bekezdésében meghatározott eljárás alkalmazandó.
 
-(2) A közjegyző a hagyatéki eljárás iratait cégbíróság, közigazgatási szerv vagy más hatóság részére elektronikus úton, a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvény rendelkezései szerint kézbesíti, a megkeresett cégbíróság, közigazgatási szerv vagy más hatóság pedig a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvény rendelkezései szerint válaszol a megkeresésre.
+(2) A közjegyző a hagyatéki eljárás iratait cégbíróság, közigazgatási szerv vagy más hatóság részére elektronikus úton, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó rendelkezései szerint kézbesíti, a megkeresett cégbíróság, közigazgatási szerv vagy más hatóság pedig a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó rendelkezései szerint válaszol a megkeresésre.
 
-(3) A hagyatéki eljárásban érdekelt a hagyatéki ügy megjelölésével elektronikus beadványában kérheti, hogy a részére szóló iratok a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben foglalt, a hivatalos szerv iratainak kézbesítésére vonatkozó szabályok szerint, elektronikus úton kerüljenek kézbesítésre.
+(3) A hagyatéki eljárásban érdekelt a hagyatéki ügy megjelölésével elektronikus beadványában kérheti, hogy a részére szóló iratok a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó szabályai szerint, elektronikus úton kerüljenek kézbesítésre.
 
 (4)
 
