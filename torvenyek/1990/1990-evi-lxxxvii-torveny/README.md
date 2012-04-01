@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-87-00-00
 | 2011-04-15 | 2011. évi XXIX. törvény | 1990-87-00-00.37 |
 | 2011-10-01 | 2011. évi CXXVI. törvény | 1990-87-00-00.38 |
 | 2011-12-31 | 2011. évi CCIX. törvény | 1990-87-00-00.39 |
+| 2012-04-01 | 2011. évi CCI. törvény | 1990-87-00-00.40 |

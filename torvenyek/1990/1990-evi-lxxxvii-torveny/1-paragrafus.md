@@ -22,6 +22,8 @@ f) a földgázellátásról szóló 2008. évi XL. törvény hatálya alá tarto
 
 g) pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvényben szabályozott szolgáltatási díjakra;
 
-h) a távhőszolgáltatónak értékesített távhő árára, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díjára.
+h) a távhőszolgáltatónak értékesített távhő árára, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díjára;
+
+j) az autóbusszal végzett menetrend szerinti személyszállításról szóló törvényben, valamint a vasúti közlekedésről szóló törvényben meghatározott helyi és helyközi közösségi közlekedési szolgáltatások áraira.
 
 (3) E törvény alkalmazásában gazdasági tevékenység: nyereség- és vagyonszerzés céljából üzletszerűen, ellenérték fejében történő termelő vagy szolgáltatási tevékenység folytatása.

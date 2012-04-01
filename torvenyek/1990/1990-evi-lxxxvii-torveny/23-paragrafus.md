@@ -66,54 +66,6 @@ A hatósági ár megállapítója
 
 |
 
-405−11−02-ből
-
-|
-
-A belföldi közforgalmú, vasúti menetrend szerinti személyszállítás díja
-
-|
-
-közlekedésért felelős miniszter
-
-|
-
-405−22−01-ből
-
-|
-
-A belföldi menetrend szerinti távolsági autóbusz-közlekedés díja; iskolák és tanintézetek által rendelt belföldi távolsági autóbusz-különjáratok díja
-
-|
-
-közlekedésért felelős miniszter
-
-|
-
-405−22−02-ből
-
-|
-
-A menetrend szerinti helyi autóbusz-közlekedés díja; iskolák és tanintézetek által rendelt helyi autóbusz-különjáratok díja
-
-|
-
-települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete
-
-|
-
-405−3-ból
-
-|
-
-A menetrend szerinti személyszállítás (villamos, fogaskerekű, troli, metró, földalatti) és a helyiérdekű vasút díja
-
-|
-
-települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete
-
-|
-
 64.11.12.0-ból
 
 64.11.14.0-ból
