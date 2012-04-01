@@ -14,6 +14,6 @@ b) hírközlő eszköz,
 
 c) távadat-átviteli eszköz
 
-## útján is szolgáltatható adat.
+útján is szolgáltatható adat.
 
 (5) A (4) bekezdés szerinti adatigénylés esetén az adatigénylő azonosságáról jelszó alkalmazásával, visszahívással vagy más módon meg kell győződni.

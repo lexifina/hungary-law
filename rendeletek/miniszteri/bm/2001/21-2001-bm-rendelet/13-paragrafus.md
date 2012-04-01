@@ -1,0 +1,1 @@
+13. § Ha az adatigénylés körözés alatt álló tárgyra vonatkozik, az adatszolgáltatásra nyitva álló határidő alatt az adatszolgáltató szerv soron kívül megkeresi az adott ügyben eljáró szervet és tájékoztatja az adatigénylés tényéről, céljáról, az adatigénylő személyéről.

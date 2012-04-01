@@ -1,0 +1,1 @@
+8. § A nyilvántartásból törvény alapján teljesíthető statisztikai szolgáltatás igénylésekor meg kell jelölni a felhasználás célját, az érintettek körét és az adatszolgáltatás teljesítésének kért formáját (papír vagy mágneses adathordozó).

@@ -1,0 +1,1 @@
+11. § Ha az adatszolgáltató szerv a kérelmet mágneses adathordozón vagy egyéb módon is képes fogadni, illetve teljesíteni, akkor ennek lehetséges formáit az adatszolgáltató szerv vezetője meghatározza, és azt – valamint annak változását – a helyben szokásos vagy más alkalmas módon közzéteszi.

@@ -1,4 +1,4 @@
-2. számú melléklet a 21/2001. (X. 11.) BM rendelethez
+2. számú melléklet a 21/2001. (X. 11.) BM rendelethez[^7]
 
 ---------------------
 
@@ -6,7 +6,7 @@ Rendőr-főkapitányság megnevezése Előirányzat-felhasználási számla szá
 
 ---------------------
 
-Országos Rendőr-főkapitányság Gazdasági Ellátó Igazgatóság 10023002-01451722-00000000
+Központi Gazdasági Ellátó Igazgatóság 10023002-01451722-00000000
 
 Budapesti Rendőr-főkapitányság 10023002-01451430-00000000
 
@@ -47,3 +47,5 @@ Vas Megyei Rendőr-főkapitányság 10047004-01451636-00000000
 Veszprém Megyei Rendőr-főkapitányság 10048005-01451643-00000000
 
 Zala Megyei Rendőr-főkapitányság 10049006-01451650-00000000
+
+[^7]: A 2. számú melléklet a 13/2012. (III. 30.) BM rendelet 1. § (2) bekezdése szerint módosított szöveg.
