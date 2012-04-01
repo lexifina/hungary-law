@@ -8,10 +8,12 @@
 
 (3) A Nukleáris Biztonsági Szabályzatokban rögzített követelmények teljesítésének módszerére vonatkozó ajánlásokat a nukleáris biztonsági hatóság által kiadott útmutatók tartalmazzák. Az útmutatókat a nukleáris biztonsági hatóság a honlapján közzéteszi.
 
-(4) Ha a kérelmező a nukleáris biztonsággal összefüggő engedély iránti kérelmét az útmutatókban foglaltak szerint terjeszti elő, akkor a nukleáris biztonsági hatóság a választott módszert a nukleáris biztonság követelményei teljesítésének igazolására alkalmasnak tekinti, és az alkalmazott módszer megfelelőségét nem vizsgálja.
+(4)[^2] Ha a kérelmező a nukleáris biztonsággal összefüggő engedély iránti kérelmét az útmutatókban foglaltak szerint terjeszti elő, továbbá, ha az engedélyes a nukleáris biztonsággal összefüggő tevékenységét az útmutatókban foglaltak szerint végzi, akkor a nukleáris biztonsági hatóság a választott módszert a nukleáris biztonság követelményei teljesítésének igazolására alkalmasnak tekinti, és az alkalmazott módszer megfelelőségét nem vizsgálja.
 
 (5) Az útmutatókban foglaltaktól eltérő módszerek alkalmazása esetén a nukleáris biztonsági hatóság az alkalmazott módszer helyességét, megfelelőségét és teljes körűségét részleteiben vizsgálja.
 
 (6) A nukleáris biztonsági hatóság – ha ez a nukleáris létesítmény nukleáris biztonságának biztosítása érdekében szükséges – a határozatában feltételeket és kötelezettségeket határozhat meg.
 
 (7) A Nukleáris Biztonsági Szabályzatokat – a tudomány eredményeinek és a hazai és nemzetközi tapasztalatoknak a figyelembevételével – legalább ötévente felül kell vizsgálni, és szükség szerint korszerűsíteni kell. Az útmutatók felülvizsgálatára a nukleáris biztonsági hatóság által meghatározott időszakonként, vagy az engedélyesek javaslatára soron kívül kerül sor.
+
+[^2]: A 3. § (4) bekezdése a 37/2012. (III. 9.) Korm. rendelet 1. §-ával megállapított szöveg.

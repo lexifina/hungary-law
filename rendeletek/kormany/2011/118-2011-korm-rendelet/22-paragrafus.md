@@ -1,22 +1,30 @@
-## 21. § A nukleáris biztonsági hatóság soron kívül jár el az engedélyköteles tevékenységekre vonatkozó hatósági ügyekben, ha ez egy kedvezőtlen biztonsági állapot megszüntetéséhez szükséges. A soron kívüli eljárás nem indokolhatja a megalapozó dokumentációval szemben támasztott követelmények betartásának elmulasztását, és nem eredményezheti a nukleáris biztonságtól eltérő szempontok előtérbe kerülését, sem a biztonság csökkenését.
+## 21. §[^18] A nukleáris biztonsági hatóság soron kívül járhat el az engedélyköteles tevékenységekre vonatkozó hatósági ügyekben, ha ez egy kedvezőtlen biztonsági állapot megszüntetéséhez szükséges. A soron kívüli eljárás nem indokolhatja a megalapozó dokumentációval szemben támasztott követelmények betartásának elmulasztását, és nem eredményezheti a nukleáris biztonságtól eltérő szempontok előtérbe kerülését, sem a biztonság csökkenését.
 
 ## 12. Ellenőrzés és érvényesítés
 
-22. § (1) A nukleáris biztonsági hatóság a nukleáris biztonság fennmaradása érdekében a nukleáris létesítmények életciklusának valamennyi szakaszában az 1. mellékletben meghatározott módon rendszeresen és tervszerűen legalább az alábbiakat ellenőrzi:
+22. § (1)[^19] A nukleáris biztonsági hatóság a nukleáris biztonság fennmaradása érdekében a nukleáris létesítmények életciklusának valamennyi szakaszában az 1. mellékletben meghatározott módon rendszeresen és tervszerűen legalább az alábbiakat ellenőrzi:
 
-a) a nukleáris létesítmények, azok rendszerei, rendszerelemei, építményei és a munkavégzés megfelelnek az engedélyekben, jogszabályokban előírt követelménynek;
+a) a nukleáris létesítmények, azok rendszerei, rendszerelemei, építményei megfelelnek az engedélyekben, jogszabályokban előírt követelményeknek;
 
-b) a nukleáris létesítmény üzemeltetése megfelel a jogszabályokban meghatározott nukleáris biztonsági követelményeknek, a hatósági engedélyek alapjául szolgáló feltételeknek és körülményeknek, valamint az engedélyekben előírtaknak;
+b) a nukleáris létesítmény tervezése, telephelyének vizsgálata, létesítése, üzembe helyezése, üzemeltetése, átalakítása és megszüntetése megfelel a nukleáris biztonsági követelményeknek, a hatósági engedélyek alapjául szolgáló feltételeknek és körülményeknek, valamint az engedélyekben előírtaknak; továbbá
 
-c) a vonatkozó dokumentumok és utasítások összhangban vannak a tervezési követelményekkel, valamint a rendszerek és rendszerelemek tényleges állapotával, érvényesek, és azokat betartják;
+c) az engedélyes irányítási rendszere megfelel az e rendeletben előírt követelményeknek legalább a következők tekintetében:
 
-d) az engedélyes által alkalmazott munkavállalók és beszállítók megfelelnek a jogszabályban előírt követelményeknek;
+ca) a vonatkozó dokumentumok és utasítások összhangban vannak a tervezési követelményekkel, valamint a rendszerek és rendszerelemek tényleges állapotával, érvényesek, és azokat betartják;
 
-e) a hiányosságokat és az eltéréseket indokolatlan késlekedés nélkül azonosítják, kijavítják, vagy megengedhetőségüket igazolják;
+cb) az engedélyes által alkalmazott munkavállalók és beszállítók megfelelnek a jogszabályban előírt követelményeknek;
 
-f) a levont tanulságokat azonosítják, és továbbadják a beszállítóknak és a nukleáris biztonsági hatóságnak; valamint
+cc) az engedélyes az előírásoknak megfelelő minősítési rendszert dolgoz ki és működtet a beszállítók kiválasztására és alkalmasságuk igazolására;
 
-g) az engedélyes a jogszabályban foglalt rendelkezéseknek, a jogszabályban előírt követelményeknek, valamint a belső szabályozásnak megfelelően kezeli a nukleáris biztonságot.
+cd) az engedélyes a jelentési kötelezettségét teljesíti, a jelentéseket az előírásoknak megfelelő tartalommal állítja össze és a biztonságot érintő események kivizsgálásának eredményeként előirányzott javító intézkedéseket végrehajtja;
+
+ce) az engedélyes a hiányosságokat és az eltéréseket indokolatlan késlekedés nélkül azonosítja, kijavítja vagy megengedhetőségüket igazolja;
+
+cf) az engedélyes az összegyűjtött tapasztalatokat hasznosítja, és ennek eredményét továbbadja a beszállítóknak és a nukleáris biztonsági hatóságnak;
+
+cg) az engedélyes belső előírásrendszere alkalmas a folyamatok szabályozására, beleértve az igénybe vett beszállítók atomerőművi blokkal kapcsolatos tevékenységét is; valamint
+
+ch) az engedélyes a jogszabályban előírt követelményeknek, valamint a belső szabályozásnak megfelelően kezeli a nukleáris biztonságot.
 
 (2) A műszaki sugárvédelmi ellenőrzés és felügyelet kiterjed
 
@@ -41,3 +49,6 @@ b) a technológiai folyamatba beépített ellenőrző rendszerekből.
 (8) A nukleáris biztonsági hatóság ellenőrzései során az ellenőrzés alá vont köteles a nukleáris biztonsági hatósággal együttműködni és az ellenőrzés eredményességét előmozdítani, a saját ellenőrzés eredményeit, dokumentumait a nukleáris biztonsági hatóság rendelkezésére bocsátani.
 
 (9) A nukleáris biztonsági hatóság éves ellenőrzési tervet készít. A tervben szereplő ellenőrzések tervezett idejéről és tartalmáról a nukleáris biztonsági hatóság az ellenőrzéssel érintetteket tájékoztatja.
+
+[^18]: A 21. § a 37/2012. (III. 9.) Korm. rendelet 11. § 11. pontja szerint módosított szöveg.
+[^19]: A 22. § (1) bekezdése a 37/2012. (III. 9.) Korm. rendelet 5. §-ával megállapított szöveg.

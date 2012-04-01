@@ -390,4 +390,6 @@
 
 ## 2.6.6.0200. A fejlesztésre irányuló terveknek tartalmazniuk kell a megfelelő erőforrások biztosítását is. A fejlesztő intézkedések végrehajtását egészen azok befejezéséig monitorozni kell, továbbá ellenőrizni kell az adott intézkedés hatásosságát is.
 
-3. melléklet a 118/2011. (VII. 11.) Korm. rendelethez
+3. melléklet a 118/2011. (VII. 11.) Korm. rendelethez[^34]
+
+[^34]: A 3. melléklet a 37/2012. (III. 9.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

@@ -1,234 +1,416 @@
-## NUKLEÁRIS BIZTONSÁGI SZABÁLYZATOK
+## Nukleáris Biztonsági Szabályzatok
 
 ## 3. kötet
 
-## Atomerőművek tervezése
+## Atomerőművek tervezési követelményei
 
 ## TARTALOMJEGYZÉK
 
 ## 3.1. BEVEZETÉS
 
-## 3.1.1. A szabályzat célja és hatálya
+## 3.1.1. A szabályzat hatálya
 
 ## 3.2. ÁLTALÁNOS TERVEZÉSI KÖVETELMÉNYEK
 
-## 3.2.1. Biztonsági funkciók
+## 3.2.1. Alapvető tervezési követelmények
 
-## 3.2.2. Biztonsági osztályba sorolás
+## Az alapvető biztonsági funkciók biztosítása
 
-## 3.2.3. Alapvető tervezési követelmények
+## A mélységben tagolt védelem elvének alkalmazása
 
-## 3.2.4. A nukleáris biztonság tervezési elvei
+## Egyéb általános tervezési követelmények
 
-## 3.2.5. Az atomerőmű tervezési alapja, feltételezett kezdeti események
+## 3.2.2. A biztonságra való tervezés alapja
 
-## 3.2.6. A tervezési alap kiterjesztése, balesetek
+## Az atomerőmű állapotának és eseményeinek kategorizálása
 
-## 3.2.7. A nukleáris biztonság igazolása
+## Biztonsági osztályba sorolás
 
-## 3.2.8. Üzemzavari és baleseti elemzések elfogadási kritériumai
+## Az atomerőmű tervezési alapja
 
-## 3.2.9. Üzemeltetési feltételek és korlátok
+## A tervezési alap kiterjesztése
+
+## A biztonságra való tervezés elvei
+
+## 3.2.3. A biztonság igazolása
+
+## Alapkövetelmények
+
+## Determinisztikus biztonsági elemzés
+
+## Valószínűségi biztonsági elemzés
+
+## Előzetes és Végleges Biztonsági Jelentés készítése
+
+## 3.2.4. Üzemzavari elemzések elfogadási kritériumai
+
+## 3.2.5. Üzemeltetési feltételek és korlátok
 
 ## 3.3. SPECIÁLIS TERVEZÉSI KÖVETELMÉNYEK
 
-## 3.3.1. Biztonsági rendszerek
+## 3.3.1. Biztonsági osztályba sorolt rendszerek tervezése
 
-## 3.3.2. Nyomástartó berendezések és csővezetékek
+## 3.3.2. Tervezés élettartamra
 
-## 3.3.3. Vegyészet
+## Tervezési élettartam
 
-## 3.3.4. Építmények, épületszerkezetek tervezése
+## Szerkezeti anyagokkal kapcsolatos követelmények
 
-## 3.3.5. Rendszerelemek környezetállósági minősítése
+## Vegyészet
 
-## 3.3.6. Karbantartás, felülvizsgálat, ellenőrzés és ciklusidők
+## Rendszerelemek környezetállósági minősítése
 
-## 3.3.7. Öregedéskezelés
+## Karbantartás, felülvizsgálat, ellenőrzés
 
-## 3.3.8. Szerkezeti anyagok kiválasztása
+## Öregedéskezelés
+
+## 3.3.3. Nyomástartó berendezés és csővezeték tervezése
+
+## 3.3.4. Építmények és épületszerkezetek tervezése
+
+## 3.3.5. Elrendezés
+
+## 3.3.6. Specifikus veszélyeztető tényezők
+
+## Földrengés
+
+## Speciális belső veszélyeztető tényezők
+
+## Külső természeti veszélyeztető tényezők
+
+## Az emberi tevékenységgel összefüggő külső veszélyeztető tényezők
+
+## 3.3.7. Tűzvédelem
+
+## 3.3.8. Leszerelés
 
 ## 3.3.9. Emberi tényező
 
-## 3.3.10. Elrendezés
+## 3.4. A KIEMELTEN FONTOS RENDSZEREK ÉS RENDSZERELEMEK TERVEZÉSE
 
-## 3.3.11. Speciális veszélyeztető tényezők
+## 3.4.1. Az atomreaktor és az aktív zóna tervezése
 
-## 3.3.12. Tűzvédelem
+## Az atomreaktor és aktív zóna integritása
 
-## 3.3.13. Leszerelés
+## A reaktivitás szabályozása
 
-## 3.3.14. Az atomreaktor és az aktív zóna tervezése
+## A fűtőelemkötegek tervezése
 
-## 3.3.15. Blokk- és tartalékvezénylő
+## 3.4.2. A fővízkör tervezése
 
-## 3.3.16. Hőátvitel
+## 3.4.3. Hőelvitel
 
-## 3.3.17. Villamosenergia-ellátó és irányítástechnikai rendszerek
+## 3.4.4. Blokk- és tartalékvezénylő
 
-## 3.3.18. A hermetizálás és környezeti feltételek biztosítása
+## 3.4.5. Villamos rendszerek és irányítástechnika
 
-## 3.3.19. Sugárvédelem
+## Villamos rendszerek és berendezések
 
-## 3.3.20. A nukleáris üzemanyag és a radioaktív hulladék kezelése, tárolása
+## Irányítástechnika
 
-## 3.3.21. A telephelyen belüli baleset-elhárítás tervezése
+## Programozható irányítástechnikai rendszerek, rendszerelemek
+
+## 3.4.6. A konténment és rendszerei
+
+## A konténment konstrukciós kialakítása és szerkezeti integritása
+
+## A konténment technológiai rendszerei
+
+## 3.4.7. Segéd és kiszolgáló rendszerek
+
+## Biztonsági hűtővízrendszer
+
+## Szellőző és klímarendszerek
+
+## Emelő berendezések
+
+## 3.5. SUGÁRVÉDELEM
+
+## 3.5.1. Általános követelmények
+
+## 3.5.2. Dekontaminálás
+
+## 3.5.3. Radiológiai ellenőrző eszközök
+
+## 3.5.4. Biológiai védelem, árnyékolás
+
+## 3.5.5. Radioaktív kibocsátások
+
+## 3.6. A NUKLEÁRIS ÜZEMANYAG ÉS A RADIOAKTÍV HULLADÉK KEZELÉSE, TÁROLÁSA
+
+## 3.6.1. Általános követelmények
+
+## 3.6.2. Nukleáris üzemanyagok kezelése és tárolása
+
+## 3.6.3. Radioaktív hulladékok kezelése és tárolása
+
+## 3.7. A TELEPHELYEN BELÜLI NUKLEÁRISBALESET-ELHÁRÍTÁS TERVEZÉSE
 
 ## 3.1. BEVEZETÉS
 
-## 3.1.1. A szabályzat célja és hatálya
+## 3.1.1. A szabályzat hatálya
 
-## 3.1.1.0100. A szabályzat célja az atomerőmű, mint nukleáris létesítmény és az azt alkotó, a nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezési alapelveinek és tervezési követelményeinek meghatározása.
+## 3.1.1.0100. A szabályzat célja az atomerőmű mint nukleáris létesítmény és az azt alkotó, a nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezési alapelveinek és tervezési követelményeinek meghatározása.
 
-## 3.1.1.0200.[^3] A jelen szabályzat rendelkezéseit Magyarország területén létesítendő és már üzemelő, vízhűtésű, termikus reaktorokkal működő atomerőművek tervezési követelményeinek meghatározása tekintetében kell alkalmazni.
+## 3.1.1.0200. A jelen szabályzat rendelkezéseit a Magyarország területén létesítendő és már üzemelő, vízhűtésű, termikus reaktorokkal működő atomerőművek tervezési követelményeinek meghatározása tekintetében kell alkalmazni, azzal, hogy
+
+## a) az ily módon jelzett pontok kizárólag az újonnan létesítendő atomerőművi blokk tervezésére,
+
+## b) az új és az üzemelő atomerőművi blokk esetében eltérő követelményeket tartalmazó pontokat – a jelzettek szerint – kizárólag az új atomerőművi blokk vagy a már üzemelő blokk esetében kell alkalmazni, továbbá
+
+## c) a tervezés folyamatára vonatkozó, a 3.2.1.0100.–3.2.1.0500. pontban, 3.2.1.2500.–3.2.1.2800. pontban, 3.3.1.0100.–3.3.1.0200. pontban, 3.3.2.0700.–3.3.2.0900. pontban, 3.3.2.1200.–3.3.2.1300. pontban, 3.3.2.2800. pontban, 3.3.2.3600. pontban, 3.3.3.0100. pontban, 3.3.3.0900. pontban és a 3.4.5.3500.–3.4.5.4000. pontban szereplő rendelkezéseket az új atomerőművi blokk tervezése és az üzemelő blokk átalakítása, valamint a további életciklus szakaszt előkészítő tervezési tevékenység során kell alkalmazni.
 
 ## 3.2. ÁLTALÁNOS TERVEZÉSI KÖVETELMÉNYEK
 
-## 3.2.1. Biztonsági funkciók
+## 3.2.1. Alapvető tervezési követelmények
 
-## 3.2.1.0100. Az atomerőmű tervezése során fő követelmény az alapvető biztonsági funkciók teljesítése a normál üzem, várható üzemi események és tervezési üzemzavarok során, valamint ésszerű mértékben a tervezési alap kiterjesztésének keretein belül is.
+## 3.2.1.0100. Az engedélyesnek a tervezés összetett folyamatát szabályozó irányítási rendszert kell működtetnie, amely biztosítja a tervek minőségét, összhangját és a nukleáris biztonsági követelmények teljesítését.
 
-## 3.2.1.0200. Az alapvető biztonsági funkciók teljesítésének érdekében – a mélységben tagolt védelem elvének érvényesítésével – meg kell határozni azokat a rendszereket és rendszerelemeket, amelyek az alapvető biztonsági funkciókhoz rendelt biztonsági funkciók megvalósításához szükségesek.
+## 3.2.1.0200. A tervek megfelelőségét – beleértve a tervezés eszközeit, a tervezési adatokat és eredményeket – a tervezőtől független szervezet által felül kell vizsgáltatni.
 
-## 3.2.2. Biztonsági osztályba sorolás
+## 3.2.1.0300. A tervezésre vonatkozó valamennyi követelmény azonosításával a tervezés kezdeti szakaszában meg kell határozni a tervezési folyamat menetét. Az azonosított követelmények alapján részletesen meg kell határozni a követelmények teljesítéséhez szükséges tervezői előírásokat, feladatokat.
 
-## 3.2.2.0100. A rendszereket és rendszerelemeket a biztonsági hatásuk, funkcióik alapján biztonsági osztályokba kell sorolni. A földrengésre – mint speciális veszélyeztető tényezőre vonatkozó besorolást – a 3.3.11. pontban részletezett független rendszer szerint kell kezelni.
+## 3.2.1.0400. Az atomerőmű tervezését csak olyan tervező szervezet végezheti, amely az érintett tervezési szakterületre érvényes, jogszabály által, ennek hiányában az engedélyes által meghatározott minősítéssel rendelkezik, és a tevékenység végzésére jogosult.
 
-## 3.2.2.0200. A rendszerek, rendszerelemek osztályozásának elsődlegesen determinisztikus módszereken kell alapulnia, kiegészítve valószínűségi módszerekkel és mérnöki becsléssel.
+## 3.2.1.0500. Az engedélyes tervező szervezetet is megbízhat az atomerőmű tervezésellenőrzési és tervkezelési feladatainak koordinációjával.
 
-## 3.2.2.0300. A biztonsági besorolású rendszerek, rendszerelemek tervezése, kivitelezése és karbantartása során biztosítani kell, hogy minőségük és az általuk megvalósított biztonsági funkciók megbízhatósága megfeleljen osztályba sorolásuknak.
+## 3.2.1.0600. Az engedélyesnek biztosítania kell, hogy a tervek kidolgozásának részletezettsége legalább az adott életciklus szakaszhoz tartozó hatósági engedélyezési eljárások lefolytatásához szükséges terjedelemnek feleljen meg.
 
-## 3.2.2.0400. A generáltervezőnek a biztonsági osztályok szerint differenciált, általános követelményrendszert kell meghatároznia szakterületi bontásban, amelyet az egyes rendszerekre, rendszerelemekre érvényesíteni kell. A követelményrendszernek ki kell terjednie az egyes biztonsági osztályokba tartozó rendszerek, rendszerelemek tervezési, gyártási, szerelési, építési, ellenőrzési, üzemeltetési, karbantartási, átalakítási és leszerelési követelményeire.
+## 3.2.1.0700. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezési alapját szisztematikusan kell meghatározni és dokumentálni. A műszaki követelményeket tervezési specifikációkban kell rögzíteni.
 
-## 3.2.2.0500. A tervezési alap kiterjesztésébe tartozó funkciókat teljesítő eszközökre a tervezési alap kiterjesztésénél meghatározott célkitűzésből vezethetők le a követelmények.
+## 3.2.1.0800. Biztosítani kell, hogy az atomerőmű engedélyese minden olyan tervezési információ birtokosa legyen, amely az atomerőmű biztonságos üzemeltetéséért viselt felelősségének fenntartásához szükséges. Az engedélyesnek képesnek kell lennie az atomerőmű teljes élettartama alatt az atomerőmű biztonságát szolgáló tevékenység végzésére vagy végeztetésére, a biztonsággal összefüggő döntések meghozatalára.
 
-## 3.2.2.0600. Az egyes biztonsági osztályokra meg kell határozni:
+## Az alapvető biztonsági funkciók biztosítása
 
-## a) a tervezés, gyártás, szerelés és ellenőrzés során alkalmazandó megfelelő követelményeket és szabványokat,
+## 3.2.1.0900. Az alapvető biztonsági funkcióknak teljesülnie kell a normál üzemben, várható üzemi események, tervezési üzemzavarok esetén. A tervezési alap kiterjesztését képező üzemzavarokat, valamint súlyos baleseteket követően az alapvető biztonsági funkcióknak az atomreaktor ellenőrzött, biztonságos leállított, illetve súlyos baleset utáni biztonságos állapotba viteléhez szükséges mértékben kell teljesülniük.
 
-## b) a tartalék energiaforrásból való betáplálás szükségességét, a környezetállósági minősítés követelményeit,
+## 3.2.1.1000. Az alapvető biztonsági funkciók teljesítésére rendszereket kell tervezni, amelyekkel biztosítható:
 
-## c) a nukleáris biztonság szempontjából fontos rendszerek rendelkezésre állásának vagy rendelkezésre nem állásnak feltételezését a determinisztikus biztonsági elemzésekben, és
+## a) az atomreaktor biztonságos leállítása, és azt követően a biztonságos szubkritikus állapotban tartása,
 
-## d) a minőségirányítási intézkedéseket.
+## b) a besugárzott nukleáris üzemanyagban fejlődő maradványhő elszállítása,
 
-## 3.2.2.0700. A biztonsági funkciókat sérülésük várható következményei alapján három biztonsági osztályba kell csoportosítani. A rendszerek és rendszerelemek biztonsági osztályozását az általuk megvalósított legmagasabb – legkisebb sorszámú – osztályba sorolt funkció alapján kell elvégezni.
+## c) a radioaktív anyagok kibocsátásának korlátozása, annak biztosítására, hogy bármely kibocsátás az előírt határértékek alatt maradjon.
 
-## 3.2.2.0800. Az 1. biztonsági osztályba tartoznak azok a biztonsági funkciók és az azokat megvalósító rendszerek, rendszerelemek, amelyek meghibásodása vagy hibája olyan eseményhez vezethet, amely közvetlenül veszélyezteti az atomreaktor azonnali szubkritikus állapotba vihetőségét vagy hűtését, és megkívánja tervezési üzemzavart elhárító rendszerek, rendszerelemek azonnali indítását vagy működését.
+## 3.2.1.1100. Az alapvető biztonsági funkciók teljesítése érdekében meg kell határozni az összes biztonsági funkciót és az azokat teljesítő rendszereket.
 
-## 3.2.2.0900. Sajátos biztonsági jelentőségük miatt a fűtőelemkötegek az 1. biztonsági osztályba tartoznak.
+## 3.2.1.1200. Biztosítani kell, hogy az atomerőmű rendszereinek és rendszerelemeinek állapotát ellenőrizni lehessen annak igazolására, hogy az alapvető tervezési követelmények teljesülnek.
 
-## 3.2.2.1000. A 2. biztonsági osztályba tartoznak azok a biztonsági funkciók és az azokat megvalósító rendszerek, rendszerelemek – beleértve a működésükhöz szükséges villamos és irányítástechnikai rendszereket, rendszerelemeket –, amelyek időben történő üzembe lépése vagy folytonos működése szükséges annak érdekében, hogy a tervezési alapba tartozó események ne vezessenek balesethez. A nukleáris biztonságot érintő események bekövetkezése esetén feladatuk továbbá az atomreaktor szubkritikusságának és hűtésének biztosítása, vagy a konténment belsejében bekövetkezett, nukleáris biztonságot érintő esemény hatására az atomreaktorból felszabaduló radioaktív anyagok kikerülésének megakadályozása. Ide kell sorolni azokat a rendszereket, rendszerelemeket is, amelyek az atomreaktor hűtőrendszerén kívül tárolt friss és besugárzott fűtőelemkötegek szubkritikusságát, épségük megőrzését és szükséges mértékű hűtésüket biztosítják.
+## 3.2.1.1300. Új atomerőművi blokk esetén biztosítani kell a maradványhő végső hőelnyelőbe való elvitelét úgy, hogy a hőelvitel teljes elvesztésének gyakorisága kisebb legyen, mint 10–7/év.
 
-## 3.2.2.1100. A 3. biztonsági osztályba tartoznak azok a biztonsági funkciók és az azokat megvalósító rendszerek, rendszerelemek, amelyek:
+## A mélységben tagolt védelem elvének alkalmazása
 
-## a) tervezési üzemzavart megelőző szerepet töltenek be, és esetleges üzemképtelenségük a tervezési üzemzavar során nincs hatással az üzemzavar lefolyására;
+## 3.2.1.1400. A 7. § szerinti követelmények mellett a 3.2.1.1500.–3.2.1.1800. pontban meghatározott kiegészítő követelményeket kell teljesíteni a mélységben tagolt védelem öt szintjének alkalmazása során.
 
-## b) biztosítják, hogy az atomreaktoron kívüli sugárforrások nem okoznak többlet-sugárterhelést az üzemeltető személyzet és a lakosság számára;
+## 3.2.1.1500. A tervezés során többszörös fizikai gátakat kell alkalmazni a radioaktív anyagok környezetbe történő ellenőrizetlen kikerülésének megakadályozására. Egymástól független védelmi gátakkal kell biztosítani, hogy a lehetséges meghibásodások, a normál üzemtől való eltérések észlelhetők, ellensúlyozhatók és kezelhetők legyenek.
 
-## c) működésükkel a 2. osztályba sorolt biztonsági funkciók üzembe lépésének szükségességét előzik meg;
+## 3.2.1.1600. A gátak védelmét biztosítani kell. Tervezési megoldásokkal kell biztosítani a biztonsági funkciók és a biztonsági kritériumok teljesülését a védelem valamely szintjének sérülése esetén is.
 
-## d) működési hibájuk megakadályozza a technológia biztonságos paramétertartományon belül való működésének ellenőrzését, vagy ezen információk megőrzését; vagy
+## 3.2.1.1700. Atomerőmű tervezése során, a mélységben tagolt védelem elvével összhangban:
 
-## e) olyan funkciót betöltő rendszerek, rendszerelemek, amelyek balesetek radiológiai következményeinek enyhítését, továbbfejlődésének megelőzését, gátlását szolgálják, valamint baleset esetén információt szolgáltatnak.
+## a) tervezési módszerekkel kell biztosítani, hogy az alapvető biztonsági funkciók a gátak fenntartásával és a meghibásodások vagy normál üzemállapottól való eltérések következményeinek csökkentésével megvalósulhassanak;
 
-## 3.2.2.1200. A 4. – nem biztonsági – osztályba tartozik minden olyan funkció és az azt megvalósító rendszer, rendszerelem, amely nem tartozik az 1., 2. vagy 3. biztonsági osztályba.
+## b) biztonsági funkciót ellátó rendszereket kell alkalmazni a várható üzemi események, az üzemzavarok és a balesetek megakadályozása és kezelése érdekében;
 
-## 3.2.2.1300. Biztonsági funkciót ellátó rendszerek elsődleges rendszerelemei a rendszerrel azonos biztonsági osztályba tartoznak.
+## c) biztosítani kell, hogy a gátak terve konzervatív legyen, a megvalósításuk pedig magas minőségi normák szerint történjen annak érdekében, hogy
 
-## 3.2.2.1400. Valamely rendszer, rendszerelem azon biztonsági funkciójának teljesítéséhez szükséges segédrendszereket, amelyen az osztályba sorolás alapul, a rendszerrel azonos osztályba kell sorolni.
+## ca) a meghibásodások és a normál üzemi állapottól való eltérések lehetősége az ésszerűen elérhető legalacsonyabb szintű legyen,
 
-## 3.2.2.1500. Az épületszerkezeteket és helyiségeket is biztonsági osztályba kell sorolni. Az épületszerkezetek besorolásánál figyelembe kell venni az épületszerkezetekhez rendelhető biztonsági funkciókat, valamint az általuk határolt térrészben elhelyezkedő – nukleáris biztonság szempontjából fontos – rendszereket, rendszerelemeket. Az így meghatározott biztonsági funkciók közül a legmagasabb besorolású képezi az épületszerkezet besorolási alapját.
+## cb) az üzemzavarok az ésszerűen megvalósítható szinten kizárhatók legyenek, továbbá
 
-## 3.2.2.1600. A helyiség besorolásával azonosan kell azokat a benne található épületszerkezeteket besorolni, amelyek kizárólag az adott helyiségre jellemző biztonsági funkciók teljesülését támogatják. A helyiséghez tartozó minden más épületszerkezet besorolását az egész épület nukleáris biztonságára gyakorolt hatása alapján kell besorolni.
+## cc) az atomerőmű jellemzőinek kis változása ne okozhasson hirtelen nagy változásokat;
 
-## 3.2.2.1700. A programozható eszközöket – azok alrendszereivel együtt – az általuk megvalósított legmagasabb besorolású biztonsági funkció szerint kell biztonsági osztályba sorolni.
+## d) műszaki eszközökkel biztosítani kell az atomerőmű állapotának kezelhetőségét úgy, hogy a meghibásodások vagy a normál üzemállapottól való eltérések esetén a biztonsági funkciót ellátó rendszerek működésének szükségessége a lehető legkisebb legyen; továbbá
 
-## 3.2.3. Alapvető tervezési követelmények
+## e) biztosítani kell, hogy az atomerőmű állapotának kezelhetősége a biztonsági funkciót ellátó rendszerek működését igénylő állapotokban is nagy megbízhatóságú legyen, és ne igényelje a kezelő személyzet beavatkozását a folyamat korai szakaszában.
 
-## 3.2.3.0100. A nukleáris biztonság megfelelő szintjének elérése érdekében a tervezésnek biztosítania kell, hogy eszközök álljanak rendelkezésre az alapvető biztonsági funkciók teljesítésére.
+## 3.2.1.1800. Biztosítani kell az ésszerűen megvalósítható legteljesebb mértékben:
 
-## 3.2.3.0200. A 3.2.3.0100. pontban foglaltakat az ésszerűen lehetséges mértékben teljesíteni kell tervezésen túli helyzetekre is.
+## a) a gátak integritását veszélyeztető események megelőzését, a veszélyeztető tényezők elviselését;
 
-## 3.2.3.0300. Atomerőművi blokk tervezése során – a mélységben tagolt védelem elvével összhangban – többszörös fizikai gátak rendszerét kell alkalmazni a radioaktív anyagok környezetbe történő ellenőrizetlen kikerülésének megakadályozására, és biztosítani kell a gátak védelmét.
+## b) egynél több gát egyidejű meghibásodásának elkerülését;
 
-## 3.2.3.0400. A fizikai gátak általános tervezési céljai az alábbiak:
+## c) egy gát meghibásodásának elkerülését egy másik gát vagy egyéb rendszerelem hibája következtében; továbbá
 
-## a) a gátak integritását veszélyeztető események megelőzése;
+## d) az üzemeltetés vagy a karbantartás során bekövetkező emberi hiba káros következményeinek elkerülését.
 
-## b) a gátak méretezése a veszélyeztető tényezők meghatározott mértékének elviselésére, valamint
+## Egyéb általános tervezési követelmények
 
-## c) egy gát egy másik gát vagy egyéb rendszerelem hibája következtében való megsérülésének elkerülése.
+## 3.2.1.1900. A biztonsági funkciót ellátó rendszereket úgy kell megtervezni, hogy a biztonsági funkciók a tervben megkövetelt megbízhatósággal valósuljanak meg a teljes élettartam alatt.
 
-## 3.2.3.0500. Tervezési megoldásokkal kell biztosítani a biztonsági funkciók és a nukleáris biztonsági követelmények teljesülését a mélységben tagolt védelem valamely szintjének sérülése esetén is.
+## 3.2.1.2000. A tervekben megfelelő tartalékokat kell biztosítani a tervezési módszerek, eszközök hibáira, a gyártási és szerelési tűrésekre, a feltételezett hibákra és a tervezett üzemidő alatti öregedési mechanizmusok által okozott romlási folyamatok konzervatívan becsült mértékére.
 
-## 3.2.3.0600. Tervezett megoldásokkal kell biztosítani, hogy bármely, a tervezési alapba tartozó kezdeti esemény bekövetkezése esetén a fűtőelemek belsejéből kiszabaduló radioaktív anyag kibocsátását megakadályozó fizikai gátak közül legalább egy teljesítse a funkcióját.
+## 3.2.1.2100. A biztonsági funkciót ellátó rendszereket, rendszerelemeket a nukleáris iparban elfogadott szabványok alkalmazásával kell tervezni. A tervezésnél a használatra előirányzott szabványok körét előzetesen meg kell határozni, alkalmazhatóságukat igazolni kell.
 
-## 3.2.3.0700. A generáltervezőnek meg kell határoznia az atomerőművi blokk tervezett élettartamát és azt, hogy milyen feltételek mellett teljesíti a tervezett élettartama alatt az előírt nukleáris biztonsági követelményeket. Egyes rendszerek, rendszerelemek élettartama rövidebb lehet, mint az atomerőművi blokk tervezett élettartama, ezek felújíthatóságát, vagy cserélhetőségét a tervekben biztosítani kell. A leszerelésnél, vagy a leszerelésig funkcióval bíró rendszerek, rendszerelemek tervezett élettartamában figyelembe kell venni a 8. melléklet szerinti leszerelési terv által előirányzott időtartamokat is.
+## 3.2.1.2200. A biztonsági funkciót ellátó rendszereket, rendszerelemeket hasonló feltételek között kipróbált, bevált konstrukciós megoldásokat alkalmazva kell tervezni. Ettől eltérő esetben olyan technológiákat és termékeket kell alkalmazni, amelyek alkalmazhatóságát megvizsgálták és igazolták. Az új tervezési megoldások esetében, amelyek eltérnek a műszaki gyakorlatban bevett megoldásoktól, az alkalmazhatóságot adekvát kutatásokkal, tesztekkel, más alkalmazásokban szerzett tapasztalatok elemzésével biztonsági szempontból igazolni kell. Az új megoldást tesztelni kell az üzembe helyezés előtt. A rendszer, rendszerelem működését – annak üzemelése közben – monitorozni kell a megfelelőség végleges igazolása érdekében.
 
-## 3.2.4. A nukleáris biztonság tervezési elvei
+## 3.2.1.2300. A rendszerek, rendszerelemek azonosítására jelölési rendszert kell kialakítani. Az egyes elemeket a helyszínen is jelölni kell olyan módon, hogy egyértelműen azonosítható legyen a teljes élettartam során.
 
-## 3.2.4.0100. A nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek tervezése során olyan megoldásokat kell alkalmazni, amelyek biztosítják, hogy meghibásodásuk külső beavatkozás nélkül is a biztonság irányába mutató hatást idéz elő.
+## 3.2.1.2400. A tervezés során figyelembe kell venni az atomerőművek tervezése, létesítése és üzemletetése során felgyülemlett tapasztalatokat és a releváns kutatási eredményeket.
 
-## 3.2.4.0200. A normál üzemvitel céljaira tervezett rendszerekben, rendszerelemekben fellépő hibák nem akadályozhatják a biztonsági funkciók ellátását.
+## 3.2.1.2500. A tervezés során, e rendeletben meghatározott módon – a tervezés korai szakaszától kezdve – alkalmazni kell a biztonsági elemzési módszereket.
 
-## 3.2.4.0300. Valamely, nukleáris biztonság szempontjából fontos rendszer vagy rendszerelem meghibásodása nem okozhatja egy nála magasabb biztonsági osztályba sorolt biztonsági funkció elvesztését.
+## 3.2.1.2600. A rendszereket, rendszerelemeket úgy kell megtervezni, hogy a gyárthatóság, szerelhetőség, építhetőség, ellenőrizhetőség, karbantarthatóság, javíthatóság biztosítható legyen.
 
-## 3.2.4.0400. A tervezési alapba tartozó bármely kezdeti esemény következtében történő meghibásodás nem okozhatja az adott kezdeti esemény kezeléséhez szükséges biztonsági funkció elvesztését. A kezdeti eseményből származó egyéb meghibásodásokat a kezdeti esemény részeként kell figyelembe venni.
+## 3.2.1.2700. A tervezés során biztosítani kell az atomerőmű leszerelhetőségét, amit a felaktiválódás minimalizálásával, a dekontaminálhatósággal, a hozzáférés biztosításával és a leszerelés irányíthatóságának figyelembevételével kell megvalósítani.
 
-## 3.2.4.0500. A nukleáris biztonság szempontjából fontos rendszereket, rendszerelemeket és azok segédrendszereit úgy kell kialakítani, hogy a lehető legnagyobb mértékben védettek legyenek a belső és külső veszélyeztető tényezők hatásaitól, beleértve a meghibásodott rendszerek, rendszerelemek közötti kölcsönhatásokat is. Amennyiben a védettség ésszerűen nem biztosítható, az ilyen folyamatok következményeit figyelembe kell venni a biztonsági elemzések során.
+## 3.2.1.2800. A nukleáris biztonsági, a fizikai védelmi és a biztosítéki követelményeket integrált módon, a kölcsönhatások figyelembevételével kell érvényesíteni.
 
-## 3.2.4.0600. A nukleáris biztonság szempontjából fontos rendszerek esetében a biztonsági besorolásból származó általános megbízhatósági követelményeket tervezési megoldásokkal kell biztosítani. Ilyenek lehetnek a nagy megbízhatóságú minősített rendszerelemek, a redundancia és a diverzitás alkalmazása, valamint a fizikai és funkcionális elválasztás és elkülönítés.
+## 3.2.2. A biztonságra való tervezés alapja
 
-## 3.2.4.0700. A nukleáris biztonság szempontjából fontos rendszerek redundáns rendszerelemeinél figyelembe kell venni a funkció ellátásához szükséges minden szempontot.
+## Az atomerőmű állapotának és eseményeinek kategorizálása
 
-## 3.2.5. Az atomerőmű tervezési alapja, feltételezett kezdeti események
+## 3.2.2.0100. A normál üzemtől eltérő állapotokat gyakoriságuk alapján a tervezési alapba tartozó, valamint a tervezési alapot meghaladó üzemállapotokra kell osztani.
 
-## 3.2.5.0100. A tervezési alapot szisztematikusan kell meghatározni és dokumentálni úgy, hogy mindenkor megfeleljen az atomerőmű tényleges állapotának. A tervezési alap, a dokumentáció és az atomerőmű rendszereinek, rendszerelemeinek állapota konzisztens rendszert kell, hogy alkosson az atomerőmű teljes élettartama alatt.
+## 3.2.2.0200. A normál üzemállapotot, valamint az atomerőmű tervezési alapjának részeként figyelembe vett üzemállapotokra vezető eseményeket gyakoriságuk alapján új atomerőművi blokk esetén az 1. táblázat szerinti, üzemelő atomerőművi blokk esetén a 2. táblázat szerinti üzemállapotokhoz kell rendelni.
 
-## 3.2.5.0200. A tervezési alapot rögzítő dokumentációban meg kell meghatározni az atomerőműnek azokat a jellemzőit, amelyek biztosítják, hogy az atomerőmű meghatározott állapotaiban az előírt sugárvédelmi követelményeket teljesíteni tudja, így a normál üzemre, a várható üzemi eseményekre és tervezési üzemzavarokra, a biztonsági osztályozásra, a biztonsági elemzések lényeges feltételezéseire és az elemzési módszerekre vonatkozó feltételeket és előírásokat.
+## 1. táblázat:
 
-## 3.2.5.0300. Elő kell állítani a feltételezett kezdeti események listáját, amelynek le kell fednie az összes olyan eseményt, amely befolyásolhatja az atomerőmű nukleáris biztonságát. A listából determinisztikus vagy valószínűségi biztonsági elemzési módszerekkel vagy a kettő kombinációjával ki kell választani a tervezési alapba tartozó kezdeti eseményeket. Ezekből az eseményekből kell származtatni azokat a határfeltételeket és követelményeket, amelyekre a nukleáris biztonság szempontjából fontos rendszereket és rendszerelemeket tervezni kell.
+| Üzemállapot | Megnevezés | Gyakoriság (f [1/év]) |
 
-## 3.2.5.0400. A tervezési alap részét képezik az alacsony teljesítményű, leállított, vagy szétszerelt atomreaktor mellett bekövetkező feltételezett kezdeti események. A vizsgálatnak ki kell terjednie minden olyan rendszerre, rendszerelemre és műveletre, amely potenciálisan radioaktív veszélyforrást jelent.
+| TA1 | normál üzem | 1 |
 
-## 3.2.5.0500. A feltételezett kezdeti események között minden olyan, a nukleáris biztonságot veszélyeztető eseményt figyelembe kell venni, amely:
+| TA2 | várható üzemi események | f > 10–2 |
+
+| TA3 | kis gyakoriságú tervezési üzemzavarok | 10–2 > f > 10–4 |
+
+| TA4 | nagyon kis gyakoriságú tervezési üzemzavarok | 10–4 > f > 10–6 |
+
+## 2. táblázat
+
+| Üzemállapot | Megnevezés | Gyakoriság (f [1/év]) |
+
+| TA1 | normál üzem | 1 |
+
+| TA2 | várható üzemi események | f > 10–2 |
+
+| TA4 | tervezési üzemzavarok | 10–2 > f > 10–5 |
+
+## 3.2.2.0300. A tervezési alapot meghaladó üzemállapotokat komplex üzemzavarok (TAK1) vagy súlyos baleset (TAK2) kategóriába kell sorolni.
+
+## Biztonsági osztályba sorolás
+
+## 3.2.2.0400. A biztonsági funkciókat biztonsági szintekbe kell besorolni a következő módon:
+
+## a) F1A szinthez kell rendelni azokat a biztonsági funkciókat, amelyek a TA2-4 üzemállapotokból az atomerőművi blokk ellenőrzött állapotba hozásához szükségesek;
+
+## b) F1B szinthez kell rendelni azokat a biztonsági funkciókat, amelyek a TA2-4 üzemállapotokból az atomerőművi blokk biztonságos leállított állapotba hozásához és legalább 24 óráig a leállított állapotban tartásához szükségesek;
+
+## c) F2 szinthez kell rendelni:
+
+## ca) azokat a biztonsági funkciókat, amelyek a TA2-4 üzemállapotok után ahhoz szükségesek, hogy az atomerőművi blokkot 24 óra eltelte után legalább 72 óráig biztonságos leállított állapotban tartsák,
+
+## cb) minden olyan normálüzemi szabályozási funkciót, amelynek meghibásodása közvetlenül TA3-4 üzemállapotot eredményezhet,
+
+## cc) a tervezési alap kiterjesztésénél figyelembe vett biztonsági funkciókat, valamint
+
+## cd) az atomreaktor aktív zónájával nem kapcsolatos üzemzavarok elkerülésére szolgáló biztonsági funkciókat.
+
+## 3.2.2.0500. A fizikai gátak funkcióit a gát által elzárt aktivitás és a gát izolálásának lehetősége alapján a 3.2.2.0600.–3.2.2.0800. pontnak megfelelően szintekre kell bontani.
+
+## 3.2.2.0600. B1 szinthez kell rendelni a nem izolálható gátakat, amelyek potenciálisan erősen szennyezett közeget zárnak el és meghibásodásuk esetén jelentős radioaktív közeg kibocsátás következhet be. Ehhez a szinthez tartozik a fűtőelempálcák burkolata és a primerkör nyomáshatára.
+
+## 3.2.2.0700. B2 szinthez kell rendelni az olyan izolálható gátakat, amelyek potenciálisan erősen szennyezett közeget zárnak el, vagy az olyan nem izolálható gátakat, amelyek gyengén szennyezett közeget zárnak el. Ehhez a szinthez tartoznak a szekunder gőz- és vízkörök, valamint a radioaktív anyagok üzemzavar utáni kibocsátásának elhatárolásában részt vevő rendszerelemek.
+
+## 3.2.2.0800. B3 szinthez kell rendelni az olyan izolálható gátakat, amelyek gyengén szennyezett közeget zárnak el. Ehhez a szinthez tartoznak a radioaktív anyagok normál üzem alatti elhatárolásában részt vevő rendszerelemek, valamint a konténment olyan, a nukleáris biztonság szempontjából fontos rendszerei, amelyek normál üzemben és üzemzavarok során nincsenek közvetlen kapcsolatban az atomreaktor hűtőkörével vagy a konténment légterével.
+
+## 3.2.2.0900. Az atomerőmű rendszereit és rendszerelemeit biztonsági hatásuk, legmagasabb biztonsági szintbe sorolt funkcióik alapján a 3.2.2.1000.–3.2.2.1500. pontnak megfelelően biztonsági osztályokba és nem biztonsági osztályba kell sorolni aszerint, hogy azok biztonsági funkciót látnak-e el, vagy korlátozó gátként funkcionálnak-e.
+
+## 3.2.2.1000. ABOS 1. biztonsági osztályba kell sorolni a B1 szintű izoláló funkciót biztosító rendszereket és rendszerelemeket, amelyek meghibásodása vagy hibája olyan eseményhez vezethet, amely közvetlenül veszélyezteti az atomreaktor azonnali szubkritikus állapotba vihetőségét vagy hűtését, és szükségessé tehetik az F1A funkciókat teljesítő rendszerek, rendszerelemek azonnali indítását vagy működését.
+
+## 3.2.2.1100. ABOS 2. biztonsági osztályba kell sorolni azokat a rendszereket és rendszerelemeket, amelyek
+
+## a) B2 szintű izoláló funkciót biztosítanak vagy F1 biztonsági funkciókat valósítanak meg, vagy megfelelő időben történő üzembe lépésük vagy folytonos működésük szükséges annak érdekében, hogy a tervezési alapba tartozó kezdeti események ne vezessenek balesethez; vagy
+
+## b) feladata a biztonságot érintő események bekövetkezése esetén az atomreaktor szubkritikusságának és hűtésének biztosítása, vagy a konténment belsejében bekövetkezett, biztonságot érintő esemény hatására az atomreaktorból felszabaduló radioaktív anyagok kikerülésének megakadályozása; vagy
+
+## c) az atomreaktor hűtőrendszerén kívül tárolt friss és besugárzott fűtőelemek szubkritikusságát, épségének megőrzését és szükséges mértékű hűtését biztosítják.
+
+## 3.2.2.1200. ABOS 3. biztonsági osztályba kell sorolni a B3 szintű izoláló funkciót biztosító, az F2 biztonsági funkciókat megvalósító rendszerelemeket, amelyek:
+
+## a) TA3-4 üzemállapotot megelőző szerepet töltenek be, és esetleges üzemképtelenségük a TA3-4 üzemállapot során nincs hatással az üzemzavar lefolyására, vagy
+
+## b) biztosítják, hogy az atomreaktoron kívüli sugárforrások ne okozzanak többlet-sugárterhelést az atomerőmű telephelyén tartózkodó személyek és a lakosság számára, vagy
+
+## c) működésükkel az ABOS 2. biztonsági osztályba sorolt rendszerek üzembe lépésének szükségességét előzik meg, vagy
+
+## d) működési hibájuk megakadályozza a technológia biztonságos paraméter tartományon belül való működésének ellenőrzését, ezen információk megőrzését, vagy
+
+## e) olyan funkciójú rendszerelemek, amelyek a TAK1 üzemállapot radiológiai következményeinek enyhítését, továbbfejlődésének megelőzését, gátlását szolgálják, valamint ilyen események esetén információt szolgáltatnak.
+
+## 3.2.2.1300. ABOS 4. nem biztonsági osztályba kell sorolni minden olyan rendszert és rendszerelemet, amelynek nincs biztonsági funkciója, és kibocsátást megakadályozó vagy azt korlátozó gátként sincs szerepe.
+
+## 3.2.2.1400. A biztonsági osztályba sorolt rendszerek segédrendszereit az alaprendszer részének kell tekinteni, és ennek megfelelően kell biztonsági osztályba sorolni. Ezen segédrendszerekre a megbízhatóság, redundancia, diverzitás, függetlenség és a tesztelés céljából való leválaszthatóság szempontjából azon alaprendszerre vonatkozó követelményeket kell alkalmazni, amelyhez kapcsolódnak.
+
+## 3.2.2.1500. A természeti eredetű veszélyeztető tényezők által kiváltott esemény alatt és azt követően biztosítani kell, hogy az atomerőmű ellenőrzött állapotban maradjon, illetve amennyiben szükséges, biztonságos leállított állapotba kerüljön. A rendszereket, rendszerelemeket a természeti eredetű veszélyeztető tényezőkkel szembeni ellenállóság, de legalább földrengés-állóság szempontjából is osztályba kell sorolni, és a tervezés során ennek megfelelő és differenciált követelményeket kell alkalmazni a 3.3.6. pont alapján.
+
+## 3.2.2.1600. A rendszerek, rendszerelemek osztályozásának elsődlegesen determinisztikus módszereken kell alapulnia, kiegészítve valószínűségi módszerekkel és mérnöki becsléssel.
+
+## 3.2.2.1700. Első osztályba tartoznak azok a rendszerek, rendszerelemek, amelyek aktív (F1A, F1B és F2) biztonsági funkcióval rendelkeznek az adott természeti eredetű veszélyeztető tényezővel szembeni védelem megvalósításában.
+
+## 3.2.2.1800. Második osztályba tartoznak azok a rendszerek, rendszerelemek, amelyek passzív (B1, B2 és B3) biztonsági funkcióval rendelkeznek az adott természeti eredetű veszélyeztető tényezővel szembeni védelem megvalósításában.
+
+## 3.2.2.1900. Harmadik osztályba tartoznak azok a rendszerek, rendszerelemek, amelyeknek nincs biztonsági vagy fizikai gát funkciójuk, de az adott természeti eredetű veszélyeztető tényező által kiváltott sérülésük nukleáris biztonság szempontjából fontos rendszer, rendszerelem funkcióját veszélyeztethetik, vagy valamely korlát megsértéséhez, továbbá a földrengést követő intézkedések akadályozásához vezethet.
+
+## 3.2.2.2000. Negyedik osztályba kell sorolni az atomerőmű minden rendszerét rendszerelemét, amely nem kerül a fenti első, második vagy harmadik osztályba. Ezeket az általános ipari szabványok szerint kell a természeti eredetű veszélyeztető tényezők hatásaival szemben megtervezni.
+
+## 3.2.2.2100. Új atomerőművi blokk esetén a tervezési alap kiterjesztését képező komplex eseménysorok hatásaira a tervezést minden biztonsági osztályban a hatások, igénybevételek, anyagjellemzők medián értékeire kell elvégezni. A vonatkozó biztonsági elemzésekben legjobb becslést módszerét és adatokat kell alkalmazni.
+
+## Az atomerőmű tervezési alapja
+
+## 3.2.2.2200. A tervezéshez meg kell határozni mindazon feltételezhető kezdeti eseményt, amely befolyásolhatja az atomerőmű biztonságát, s ezekből determinisztikus vagy valószínűségi módszerekkel vagy a kettő kombinációjával ki kell választani a tervezési alapba tartozókat.
+
+## 3.2.2.2300. Új atomerőművi blokk esetén az atomerőmű tervezési alapjában az atomerőmű minden üzemállapotára meg kell határozni azokat a teljesítmény-paramétereket, funkcionális, megbízhatósági jellemzőket, amelyek szükségesek ahhoz, hogy a külső és belső veszélyeztető tényezők által előidézett körülmények között is teljesüljenek az előírt kritériumok.
+
+## 3.2.2.2400. A tervezési alap meghatározása során a bizonytalanságok kompenzálása érdekében ésszerű mértékben konzervatív feltételezéseket kell alkalmazni.
+
+## 3.2.2.2500. A nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek alapvető fizikai jellemzőire tervezési korlátokat és határértékeket kell meghatározni az atomerőmű minden üzemállapotában. A tervezési korlátoknak és határértékeknek meg kell felelniük a nukleáris biztonsági követelményeknek és az alkalmazott szabványoknak.
+
+## 3.2.2.2600. A TA1-4 üzemállapotokat eredményező kezdeti eseményekből kell származtatni azokat a határfeltételeket és követelményeket, amelyekre a nukleáris biztonság szempontjából fontos rendszereket és rendszerelemeket tervezni kell.
+
+## 3.2.2.2700. A feltételezett kezdeti események között minden olyan eseményt figyelembe kell venni, amely:
 
 ## a) az atomerőmű telephelyével és annak környezetével kapcsolatos és természeti eredetű;
 
-## b) szándékos, de nem célzottan az atomerőmű ellen irányuló vagy szándékolatlan telephelyi és telephelyen kívüli emberi tevékenységek következménye; vagy
+## b) szándékos, de nem célzottan az atomerőmű ellen irányuló, vagy szándékolatlan telephelyi és telephelyen kívüli emberi tevékenységek következménye; vagy
 
-## c) az atomerőmű üzemeltetéséből vagy a rendszereinek, rendszerelemeinek véletlenszerű hibájából ered.
+## c) az atomerőmű üzemeltetéséből, rendszereinek, rendszerelemeinek meghibásodásából ered.
 
-## 3.2.5.0600. Az atomerőmű tervezésénél és a nukleáris biztonság igazolásánál legalább az alábbi külső tényezőket kell figyelembe venni:
+## 3.2.2.2800. A tervezési alap részét képezik mindazok az események, amelyeknek radiológiai következményei lehetnek. Ide tartoznak azok a feltételezett kezdeti események is, amelyek az alacsony teljesítményű üzem során, vagy leállított, szétszerelt atomreaktor esetén következnek be. Az atomreaktoron kívüli lehetséges ilyen eseményeket is a tervezési alap részének kell tekinteni.
 
-## a) szélsőséges szélterhelés;
+## 3.2.2.2900. Az atomerőmű tervezésénél meg kell határozni az összes lehetséges külső és belső veszélyeztető tényezőt.
 
-## b) szélsőséges külső hőmérsékletek;
+## 3.2.2.3000. A külső veszélyeztető tényezők közül legalább az alábbiakat figyelembe kell venni:
 
-## c) szélsőséges esőzés, havazás, árvíz és aszály;
+## a) szélsőséges szélterhelés,
 
-## d) villámcsapás;
+## b) szélsőséges külső hőmérsékletek,
 
-## e) szélsőséges hűtővíz-hőmérsékletek és jegesedés;
+## c) szélsőséges esőzés, havazás, árvíz és aszály,
 
-## f) földrengés;
+## d) villámcsapás,
 
-## g) repülőgép-becsapódás;
+## e) jeges árvíz, zöldár, valamint alacsony vízszint,
 
-## h) telephelyhez közeli szállítási és ipari tevékenységek;
+## f) fel- és alvizi létesítmények sérülésének veszélye,
 
-## i) a kapcsolódó külső villamosenergia-rendszer hálózatának zavarai; valamint
+## g) szél által mozgatott repülő tárgyak,
 
-## j) olyan, a telephelyen lévő feltételek, amelyek tűz-, robbanás- vagy egyéb veszélyt jelenthetnek az atomerőműre.
+## h) szélsőséges hűtővíz-hőmérsékletek és jegesedés,
 
-## 3.2.5.0700. Az atomerőművi blokkok nukleáris biztonságára hatással lévő külső környezeti tényezők stabilitását és változásait a teljes élettartamra prognosztizálni kell.
+## i) földrengés,
 
-## 3.2.5.0800. A tervezési alapba tartozó belső eseményeket és azok következményeit figyelembe kell venni az atomerőmű terveiben, és igazolni kell, hogy e feltételezett kezdeti események bekövetkezése esetén is teljesülnek a nukleáris biztonsági kritériumok.
+## j) katonai és polgári repülőgép becsapódása,
 
-## 3.2.5.0900. Nyomottvizes atomreaktorokkal működő atomerőművi blokkok esetén a belső kezdeti események elemzéseinek legalább az alábbiakra kell kiterjednie:
+## k) telephelyhez közeli szállítási és ipari tevékenységek,
 
-## a) kis-, közepes- és nagyfolyással járó hűtőközeg-vesztéses üzemzavarok;
+## l) a kapcsolódó külső távvezeték-hálózat zavarai, beleértve annak tartós, és teljes üzemképtelenségét, valamint
+
+## m) olyan, a telephelyen vagy annak szomszédságában lévő létesítmények, amelyek tüzet, robbanást vagy egyéb veszélyt jelenthetnek az atomerőműre.
+
+## 3.2.2.3100. Az atomerőmű tervezésénél legalább az alábbi belső eseményeket figyelembe kell venni:
+
+## a) hűtőközeg-vesztéses üzemzavar;
 
 ## b) törés a főgőz- és fő tápvízrendszerekben;
 
@@ -238,7 +420,7 @@
 
 ## e) főgőz tömegáramának szabályozhatatlan növekedése vagy csökkenése;
 
-## f) a térfogatkompenzátor szelepeinek szándékolatlan nyitása;
+## f) a térfogat-kompenzátor szelepeinek szándékolatlan nyitása;
 
 ## g) zóna-üzemzavari hűtőrendszerek szándékolatlan működése;
 
@@ -254,1052 +436,2087 @@
 
 ## m) aktív zóna instabilitása;
 
-## n) kémiai és térfogatszabályozó rendszer hibás működése;
+## n) kémiai és térfogat-szabályozó rendszer hibás működése;
 
-## o) az atomreaktor primer hűtőköréhez csatlakozó, és részben a konténmenten kívül elhelyezkedő cső törése, vagy olyan hőcserélő vagy gőzfejlesztő sérülése, amelynek szekunder oldala kivezet a konténmentből;
+## o) az atomreaktor primer hűtőköréhez csatlakozó és részben a konténmenten kívül elhelyezkedő cső törése vagy hőcserélő cső sérülése;
 
-## p) a nukleáris üzemanyag kezelésével, mozgatásával kapcsolatos üzemzavarok;
+## p) a nukleáris üzemanyag kezelésével, mozgatásával és tárolásával kapcsolatos üzemzavarok;
 
-## q) telephelyen kívüli villamosenergia-betáplálás elvesztése;
+## q) nehéz teher leejtése emelőgépek alkalmazása során;
 
-## r) nehéz teher leejtése emelőgépek alkalmazása során;
+## r) tűz, robbanás és belső elárasztás hatásai és az általuk kiváltott kezdeti események; továbbá
 
-## s) tűz, robbanás és belső elárasztás hatásai, és az általuk kiváltott kezdeti események; továbbá
+## s) kezdeti eseményeket potenciálisan kiváltó folyamatok, így különösen repülő tárgyak, beleértve a turbina elszabaduló részeit, meghibásodott rendszerekből kikerülő veszélyes közeg, rezgés, törött csővezeték ostorozó mozgása, folyadéksugár hatásai.
 
-## t) a kezdeti eseményeket potenciálisan kiváltó folyamatok, mint repülő tárgyak – beleértve a turbina elszabaduló részeit –, meghibásodott rendszerekből kikerülő veszélyes közeg, rezgés, törött csővezeték ostorozó mozgása és folyadéksugár hatásai.
+## 3.2.2.3200. Az egyedi események minden reális kombinációját figyelembe kell venni a tervezés során – beleértve a külső és a belső eredetű eseményeket is –, amelyek TA3-4 vagy TAK üzemállapothoz vezethetnek. A tervezésnél figyelembe veendő eseménykombinációkat mérnöki megfontolás vagy valószínűségi elemzések alapján kell kiválasztani.
 
-## 3.2.5.1000. Az egyedi események minden reális kombinációját – beleértve a külső és a belső eredetű eseményeket is –, amely várható üzemi eseményhez vagy tervezési üzemzavarhoz vezethet, figyelembe kell venni a tervezés során. A részletes determinisztikus biztonsági elemzéssel értékelendő eseménykombinációkat mérnöki megfontolás vagy valószínűségi biztonsági elemzések alapján kell kiválasztani.
+## 3.2.2.3300. Új atomerőművi blokk esetén a feltételezett kezdeti események köréből kiszűrhető:
 
-## 3.2.5.1100. A tervezési alapba bevont, azaz feltételezett kezdeti események köréből kiszűrhető:
+## a) a rendszerek, rendszerelemek meghibásodása vagy emberi hiba, vagy mindkettő következtében bekövetkező belső kezdeti esemény, ha a gyakorisága kisebb, mint 10–6/év;
+
+## b) a telephelyre jellemző külső emberi tevékenységből származó olyan esemény, amelynek gyakorisága 10–7/évnél kisebb, vagy ha a veszélyeztető tényező olyan távolságban van, hogy igazolható az, hogy az atomerőművi blokkra az várhatóan nem gyakorol hatást; valamint
+
+## c) a 10–5/évnél kisebb medián gyakorisággal ismétlődő természetes eredetű külső hatás által keltett kezdeti események.
+
+## 3.2.2.3400. Üzemelő atomerőmű esetén a feltételezett kezdeti események köréből kiszűrhető:
 
 ## a) a rendszerek, rendszerelemek meghibásodásából vagy emberi hibából bekövetkező belső kezdeti esemény, ha a gyakorisága kisebb, mint 10–5/év;
 
-## b) a telephelyre jellemző külső emberi tevékenységből származó olyan események, amelyek gyakorisága 10–7/év-nél kisebb, vagy ha a veszélyeztető tényező forrása kellően távol van, és igazolható, hogy az atomerőművi blokkra hatása nem várható;
+## b) a telephelyre jellemző külső emberi tevékenységből származó olyan esemény, amelynek gyakorisága 10–7/évnél kisebb, vagy ha a veszélyeztető tényező forrása kellően távol van és igazolható, hogy az atomerőművi blokkra várhatóan nem gyakorol hatást; valamint
 
-## c) a 10–4/év-nél kisebb gyakorisággal ismétlődő természetes eredetű külső hatás által keltett kezdeti események.
+## c) a 10–4/évnél kisebb gyakorisággal ismétlődő természetes eredetű külső hatás által keltett kezdeti események.
 
-## 3.2.5.1200. Az atomerőművi blokk nukleáris biztonság szempontjából fontos rendszereit és rendszerelemeit méretezni kell a természeti eredetű külső hatásokra, legalább a 104/év ismétlődési gyakoriságnak megfelelően, amennyiben a rendszerelemnek az adott helyzetben biztonsági funkciója lehet.
+## 3.2.2.3500. Több blokkos atomerőművi telephelyen az atomerőmű egésze és a blokkok tervében figyelembe kell venni, hogy egyes külső veszélyeztető tényezők egyidejűleg érinthetik az atomerőmű minden blokkját.
 
-## 3.2.5.1300. Az atomerőművi blokk tervezése során a normál üzemi állapot vizsgálatán túl azonosítani kell a tervezési alapba tartozó feltételezett kezdeti eseményekből eredő eseménysorokat, és meg kell határozni az eseménysoroknak a fűtőelemekre, a primer hűtőközeg nyomástartó határfelületeire, és a konténmentre kifejtett hatását mechanikai, hőtani, kémiai, reaktorfizikai szempontból.
+## 3.2.2.3600. Olyan telephely estén, ahol több nukleáris létesítmény is üzemel, elemezni kell a létesítmények egymásra gyakorolt hatását is a létesítmények valamennyi üzemállapotában és a feltételezhető összes veszélyeztető tényező által létrehozott körülmények között. A kölcsönhatások elemzésénél a létesítési, üzembe helyezési és a leszerelési életciklus szakaszokat is figyelembe kell venni.
 
-## 3.2.5.1400. A várható üzemi események kezelésére kezelési utasításokat, a tervezési üzemzavarok kezelésére üzemzavari kezelési utasításokat kell kidolgozni, felhasználva a biztonsági elemzések eredményeit.
+## 3.2.2.3700. Tervezési megoldásokkal biztosítani kell, hogy az atomerőművi blokk a TA2-4 üzemállapotokat követően az ésszerűen elérhető legrövidebb idő alatt ellenőrzött állapotba, majd biztonságos leállított állapotba kerüljön. Az ellenőrzött állapot elérését legkésőbb 24 órán belül, a biztonságos leállított állapot elérését legkésőbb 72 órán belül biztosítani kell.
 
-## 3.2.6. A tervezési alap kiterjesztése, balesetek
+## A tervezési alap kiterjesztése
 
-## 3.2.6.0100. Tervezésen túli eseményeket kell kiválasztani és figyelembe venni a biztonsági elemzésekben azoknak az eseménysoroknak a meghatározása érdekében, amelyekre ésszerű megelőző, vagy a következményeket enyhítő intézkedések határozhatók meg és alkalmazhatóak. Legalább az alábbi eseményeket kell elemezni, amennyiben azok nem részei a tervezési alapnak:
+## 3.2.2.3800. A tervezési alap kiterjesztéseként a TAK üzemállapotokat eredményező eseményeket olyan terjedelemben kell kiválasztani és figyelembe venni, hogy a 3.2.1.1300. pontban, a 3.2.4.0600. pontban, a 3.2.4.0800. pontban és a 3.2.4.0900. pontban meghatározott valószínűségi biztonsági kritériumok, valamint a 3.2.4.0800. pontban és a 3.2.4.0900. pontban a nagy kibocsátásokra vonatkozó kritériumok teljesíthetőek, az ésszerűen megvalósítható megelőző vagy a következményeket enyhítő intézkedések meghatározhatók és alkalmazhatóak legyenek.
 
-## a) teljes feszültségkiesés;
+## 3.2.2.3900. A tervezési alap kiterjesztésénél legalább az alábbiakat figyelembe kell venni, feltéve, hogy a tervezési alapnak nem képezi részét és az adott erőműtípusra értelmezhető:
 
-## b) teljes tápvízvesztés;
+## a) teljes feszültségkiesés,
 
-## c) hűtőközeg-vesztéses baleset, az egyik zóna-üzemzavari hűtőrendszerfajta teljes elvesztésével;
+## b) a TA2 üzemállapot során szükséges leállítási funkciót ellátó rendszerek elvesztése,
 
-## d) szabályozatlan szintcsökkenés átrakás során;
+## c) gőzvezeték-törés a gőzfejlesztő hőátadó felületének járulékos sérülésével,
 
-## e) a biztonsági hűtővízrendszer teljes elvesztése;
+## d) a konténment védőburkolatának megkerülésével közvetlen környezeti kibocsátáshoz vezető, a konténmentet megkerülő események,
 
-## f) az aktív zóna hűtésének elvesztése a maradványhő elvezetése során;
+## e) teljes tápvízvesztés,
 
-## g) a végső hőelnyelő elvesztése;
+## f) hűtőközegvesztés valamelyik zóna-üzemzavari hűtőrendszer-típus teljes elvesztésével,
 
-## h) ellenőrizetlen bórhígulás (nyomottvizes atomreaktorok);
+## g) szabályozatlan szintcsökkenés a részlegesen feltöltött hurok melletti természetes cirkulációs üzemállapot vagy átrakás során,
 
-## i) többszörös gőzfejlesztő csőtörés (nyomottvizes atomreaktorok); valamint
+## h) az alapvető biztonsági funkciót ellátó berendezések hűtésének teljes elvesztése,
 
-## j) a várható üzemi események kezeléséhez hosszú távon szükséges biztonsági rendszerek elvesztése.
+## i) az aktív zóna hűtésének elvesztése a maradványhő elvezetése során,
 
-## 3.2.6.0200. A tervezési alap kiterjesztésének elemzésénél vizsgálni kell az atomerőmű viselkedését meghatározott tervezésen túli üzemzavarok esetére, beleértve a súlyos baleseteket is annak érdekében, hogy az ésszerűen elérhető legalacsonyabb szintű, a lakosság egészségét és a környezetet károsító radioaktív kibocsátás történjen ezeknek a nagyon kis valószínűségű eseményeknek a bekövetkezése esetén.
+## j) a pihentető medence hűtésének elvesztése,
 
-## 3.2.6.0300. A tervezési alapon túli eseménysorokat olyan mélységben kell elemezni, hogy alapot nyújthasson a súlyosbaleset-kezelési útmutatók kidolgozásához, valamint a baleset-elhárítási felkészülésre vonatkozó követelmények teljesítéséhez.
+## k) ellenőrizetlen bórhígulás,
 
-## 3.2.6.0400. Az elemzés során legalább a következőket kell elvégezni:
+## l) többszörös gőzfejlesztőcső-törés,
 
-## a) meg kell határozni a balesethez vezető domináns eseménysorokat, és veszélyforrás-elemzésben azonosítani kell mindazon – nem csak az atomreaktorral közvetlenül összefüggő – folyamatokat és tevékenységeket, amelyek esetében a feltételezett nukleáris veszélyhelyzet telephelyi vagy telephelyen kívüli óvintézkedés bevezetését teszi szükségessé;
+## m) egy feltételezett kezdeti esemény kezeléséhez hosszú távon szükséges biztonsági rendszerek elvesztése, valamint
 
-## b) vizsgálni kell az atomerőművi blokk konstrukciója alapján meglévő tartalékokat, beleértve egyes rendszereknek, rendszerelemeknek az eredeti tervezési állapotuktól és funkciójuktól eltérő körülmények közötti üzemeltetését, továbbá ideiglenes rendszerek, rendszerelemek alkalmazását az atomerőművi blokk ellenőrzött állapotba való visszaállítása és a baleset következményeinek enyhítése céljából;
+## n) új atomerőművi blokk esetén katonai és polgári repülőgép becsapódása.
 
-## c) értékelni kell a lehetséges tervezési variánsokat, amelyek révén a baleset bekövetkezésének valószínűsége csökkenthető, valamint a következményeik enyhíthetők, és a reálisan megvalósíthatókat be kell vonni a kiterjesztett tervezési alapba;
+## 3.2.2.4000. Új atomerőművi blokk esetén a tervezési alap kiterjesztésénél figyelembe vett TAK1 üzemállapotot követően biztosítani kell az ellenőrzött állapot elérését 24 órán belül, a biztonságos leállított állapot elérését legkésőbb 72 órán belül.
 
-## d) meg kell határozni azokat a meghibásodásokat, amelyek következményeként radioaktív kibocsátás jöhet létre, továbbá a meghibásodások okozta radiológiai következményeket; valamint
+## 3.2.2.4100. A tervezési alap kiterjesztésénél a balesetkezelési funkciók és azokat megvalósító rendszerek képességeit kell figyelembe venni annak érdekében, hogy a TAK2 üzemállapot következményei a 3.2.4.0800. pontban és a 3.2.4.0900. pontban a nagy kibocsátásokra előírt kritériumoknak megfelelően csökkenthetők legyenek. A kezeletlen súlyos balesetek miatti maradó kockázat mértéke nem haladhatja meg a 3.2.1.1300. pontban, a 3.2.4.0600. pontban, a 3.2.4.0800. pontban és a 3.2.4.0900. pontban meghatározott valószínűségi kritériumokat.
 
-## e) az elemzések elkészítésekor vagy a legjobb becslés elvét kell alkalmazni a bizonytalanságok figyelembevételével együtt, vagy ésszerűen konzervatív feltételezésekkel kell élni.
+## 3.2.2.4200. A TAK1 és TAK2 üzemállapot jellemzőiből kell származtatni a határfeltételeket és követelményeket, amelyekre a TAK üzemállapotot eredményező események kezelésre szolgáló rendszereket és rendszerelemeket tervezni kell.
 
-## 3.2.6.0500. Létre kell hozni a szükséges balesetkezelési eszközöket, és ki kell dolgozni a súlyosbaleset-kezelési útmutatókat a részletesen elemzett tervezési alapon túli események – beleértve a zóna teljes megolvadásával járó súlyos baleseti folyamatok – következményeinek hatékony csökkentésére úgy, hogy a környezet és a lakosság veszélyeztetése a balesetkezelési eljárások és eszközök sikeres működése esetén előre meghatározott, kezelhető szint alatt maradjon.
+## 3.2.2.4300. Specifikus tervezési megoldásokkal vagy preventív balesetkezelési képességek kialakításával biztosítani kell, hogy mind a reaktortartályban, mind azon kívül a konténmentben elhanyagolható gyakorisággal alakulhassanak ki a következő katasztrofális mértékű energia-felszabadulással járó baleseti folyamatok:
 
-## 3.2.6.0600. A balesetkezelési eszközökre csak az ésszerűség mértékének megfelelő mértékben kell alkalmazni a biztonsági rendszerekre előírt speciális tervezési követelményeket. A balesetkezelési eszközök nem befolyásolhatják kedvezőtlenül a tervezési alapba tartozó biztonsági funkciók teljesülését.
+## a) prompt kritikussággal járó reaktivitás balesetek, beleértve a heterogén bórhígulási eseteket is,
 
-## 3.2.6.0700. Intézkedéseket kell tenni a nagynyomású zónaolvadási folyamatok megelőzésére úgy, hogy azok ne jelentsenek domináns kibocsátási kockázatot.
+## b) gőzrobbanás, valamint
 
-## 3.2.6.0800. Intézkedéseket kell tenni a konténment zónaolvadék által okozott károsodásának megelőzésére, vagy a következmények ésszerű mértékben való enyhítésére.
+## c) hidrogén detonáció.
 
-## 3.2.7. A nukleáris biztonság igazolása
+## 3.2.2.4400. A tervezés során balesetkezelési funkciókat és azokat megvalósító, baleseti nyomáscsökkentő és hidrogén eltávolító rendszereket olyan terjedelemben kell meghatározni, hogy az aktívzóna jelentős sérülését okozó eseményeknél a nagynyomású folyamatok, valamint a korai konténment sérülések elkerülhetők legyenek.
+
+## 3.2.2.4500. Balesetek következményeit enyhítő funkciókat és szükség esetén azokat megvalósító rendszereket olyan terjedelemben kell meghatározni, hogy súlyos baleseteknél a zónaolvadék a konténmenten belül lehűtött állapotban megtartható legyen.
+
+## 3.2.2.4600. Új atomerőművi blokk esetén a súlyos baleset utáni biztonságos állapot elérését a sérült rendszerek helyreállításával vagy a TAK üzemállapot kezelését biztosító balesetkezelési rendszerek működtetésével legkésőbb 168 órán belül biztosítani kell.
+
+## A biztonságra való tervezés elvei
+
+## 3.2.2.4700. Az atomerőművi blokk tervezése során azonosítani kell a TA2-4 üzemállapotot eredményező kezdeti eseményeket. Konzervatív módszerekkel meg kell határozni az események nukleáris biztonság szempontjából fontos rendszerekre és rendszerelemekre kifejtett hatásait. A kezdeti események reprezentatív csoportokba sorolhatók. A tervezési követelményeket, a figyelembe veendő hatásokat, eseményeket és határértékeket csoportonként, burkoló elv alapján is meg lehet határozni.
+
+## 3.2.2.4800. A kezdeti eseményeket követő folyamatok kezelése során az itt meghatározott sorrendben olyan megoldást kell alkalmazni, mely az ésszerű mértékben biztosítja, hogy:
+
+## a) a kezdeti esemény ne okozhasson szignifikáns hatást a biztonságra, vagy az esemény okozta változás a biztonság irányába történjen, a rendszerek inherens biztonsági jellemzőinek köszönhetően;
+
+## b) a kezdeti esemény hatására az atomerőmű biztonságos maradjon a passzív biztonsági eszközök vagy olyan rendszerek működése révén, amelyek folyamatosan üzemelnek a kezdeti esemény szerinti állapotban;
+
+## c) a kezdeti eseményt követően az atomerőmű biztonságos állapotba kerüljön azoknak a biztonsági rendszereknek a működése révén, amelyek az esemény kezeléséhez szükségesek; valamint
+
+## d) a kezdeti eseményt követően az atomerőmű biztonságos állapotba kerüljön speciális eljárások alkalmazása révén.
+
+## 3.2.2.4900. Amennyiben valamely kezdeti esemény bekövetkezésekor azonnali beavatkozásra van szükség, biztosítani kell, hogy az automatikusan megtörténjen a súlyosabb következmények megelőzése érdekében. A kezelői beavatkozásra akkor kerülhet sor, ha az esemény észlelése és a szükséges intézkedés közötti idő a biztonsági elemzésekben bizonyítottan elegendően hosszú. A kezelői beavatkozás esetén biztosítani kell a kezdeti esemény kezeléséhez szükséges megfelelő adminisztratív, üzemviteli, üzemzavar-elhárítási és balesetkezelési eljárások rendelkezésre állását.
+
+## 3.2.2.5000. A normál üzemvitel céljaira tervezett rendszerekben, rendszerelemekben fellépő meghibásodások nem akadályozhatják a biztonsági funkciók ellátását.
+
+## 3.2.2.5100. A bármely TA2-4 üzemállapotot eredményező kezdeti esemény következtében történő meghibásodás nem okozhatja az adott kezdeti esemény kezeléséhez szükséges biztonsági funkció elvesztését. A kezdeti eseményből származó egyéb meghibásodásokat a kezdeti esemény részeként kell figyelembe venni.
+
+## 3.2.2.5200. A tervezésnél figyelembe kell venni a rendszerelemek szándékolatlan működésének lehetőségét és következményeit, meghibásodási módjait.
+
+## 3.2.2.5300. Megfelelő tervezéssel biztosítani kell, hogy a normál üzem és a várható üzemi események esetén az összes fizikai gát teljesítse funkcióját.
+
+## 3.2.2.5400. Megfelelő tervezéssel biztosítani kell, hogy bármely, TA3 és TA4 üzemállapotot eredményező esemény bekövetkezése esetén a fűtőelemekben lévő radioaktív anyag kibocsátását megakadályozó fizikai gátak közül legalább egy teljesítse a funkcióját.
+
+## 3.2.2.5500. A tervezés során az operátori beavatkozások, a biztonságos üzemeltetéshez szükséges külső szolgáltatások, külső villamos betáplálás és a végső hőelnyelő tekintetében autonómia követelményeket kell meghatározni. A követelményeket az F1 és az F2 szintű biztonsági funkciókra vonatkozó időtartamokból kell levezetni.
+
+## 3.2.2.5600. Új atomerőművi blokk esetén megfelelő tervezéssel biztosítani kell, hogy:
+
+## a) az operátori beavatkozások tekintetében:
+
+## aa) a tervben meghatározott kibocsátási szintek betartásához TA 2-4, valamint TAK üzemállapotot eredményező eseményeknél a vezénylőben 30 percig, a vezénylőn kívül 1 óráig ne legyen szükség operátori beavatkozásra,
+
+## ab) ne legyen szükség telephelyi könnyű mobil berendezésre TAK üzemállapotot eredményező esemény esetén a zónaolvadás megakadályozásához 6 órán belül, valamint a konténment funkció megőrzésére TAK üzemállapotot eredményező esemény esetén 24 órán belül, TA2-4 üzemállapotot eredményező esemény esetén 72 órán keresztül,
+
+## ac) TA2-4 és TAK üzemállapotot eredményező esemény esetén ne legyen szükség telephelyi vagy telephelyen kívüli nehéz mobil berendezésre 72 órán át, és
+
+## ad) a konténment rendszer TAK üzemállapotot eredményező esemény esetén operátori beavatkozás nélkül legalább 12 órán, de lehetőleg 24 órán át álljon ellen;
+
+## b) a hőelnyelő tekintetében:
+
+## ba) hosszútávon megfelelő hőelnyelő álljon rendelkezésre TA2-4 és TAK üzemállapotot eredményező esemény esetében,
+
+## bb) az üzemzavari tápvíz tartalék 24 órán keresztül elég legyen, és
+
+## bc) a gőzfejlesztők hűtésére az atomerőmű területén legalább 72 órára legendő vízmennyiség álljon rendelkezésre;
+
+## c) az elektromos energia ellátásban:
+
+## ca) TA1-4 és TAK üzemállapotok esetében a külső ellátástól való függetlenség legalább 72 óráig biztosított legyen, és
+
+## cb) az F1 biztonsági funkciót ellátó akkumulátorok legalább 2 órán át lássák el biztonsági funkciójukat TA 2-4 üzemállapotot eredményező események esetén utántöltés nélkül.
+
+## 3.2.2.5700. A nukleáris biztonsági osztályba sorolt rendszereket úgy kell tervezni, hogy azok üzem közben szükséges karbantartása vagy tesztelése miatt az atomerőművi blokkot ne kelljen leállítani.
+
+## 3.2.2.5800. A tervezés során egyszerűségre, átláthatóságra kell törekedni. A passzív védelmi rendszerek használatát kell előnyben részesíteni az aktív megoldásokkal szemben.
+
+## 3.2.3. A biztonság igazolása
 
 ## Alapkövetelmények
 
-## 3.2.7.0100. A tervezési alapra vonatkozó általános nukleáris biztonsági követelmények teljesülésének igazolására használt tervező- és elemzőeszközöket, modelleket és modellrészeket, valamint a bemenő adatokat verifikálni és validálni kell. Az elemzési eszközök validációját a megfelelő nemzetközileg elérhető adatok alapján kell bemutatni. Az elemzési modellek verifikációját az elemzést, valamint a tervezést végrehajtó munkavállalótól, munkacsoporttól független munkavállalónak, munkacsoportnak is el kell végeznie.
+## 3.2.3.0100. A tervezési alapra vonatkozó általános biztonsági követelmények teljesülésének bizonyítására használt tervező és elemző eszközöket, modelleket és modellrészeket, valamint a bemenő adatokat verifikálni és validálni kell. Az elemzési eszközök validációját a megfelelő nemzetközileg elérhető adatok – kísérleti eredmények – alapján kell bemutatni. Az elemzési modellek verifikációját az elemzést, tervezést végrehajtó személytől, munkacsoporttól független személynek, munkacsoportnak is el kell végeznie.
 
-## 3.2.7.0200. A tervezési alap meghatározása, valamint a várható üzemi események és a tervezési üzemzavarok elemzése során felhasznált adatok megfelelőségét fizikai adatok, kísérletek, vagy más megfelelő eszközök segítségével kell igazolni. A fennmaradó bizonytalanságok ellensúlyozása érdekében megalapozott, ésszerű mértékben konzervatív feltételezéseket – elsősorban a kezdeti és peremfeltételek konzervatív megválasztásával – kell alkalmazni.
+## 3.2.3.0200. Új atomerőművi blokk esetén el kell végezni a tervek biztonsági szempontból meghatározó jellemzőit tartalmazó elemzések független ellenőrzését eltérő számítási módszerekkel is.
 
-## 3.2.7.0300. Érzékenységi vizsgálatokat kell végezni a feltételezések, a felhasznált adatok és számítási módszerek bizonytalanságának értékelésére. Ahol az elemzés eredményei érzékenyeknek bizonyulnak a modell feltételezéseire, ott további elemzéseket kell végezni az előzőtől független módszerek és eljárások használatával.
+## 3.2.3.0300. A tervezési alap meghatározása, valamint a vizsgált események elemzése során felhasznált adatok megfelelőségét fizikai adatok, kísérletek felhasználásával, vagy más módon kell bizonyítani. A fennmaradó bizonytalanságok kompenzálása érdekében – a biztonsági elemzésben megalapozott, ésszerű mértékben – konzervatív feltételezéseket kell alkalmazni, elsősorban a kezdeti és peremfeltételek konzervatív megválasztásával.
 
-## 3.2.7.0400. A nukleáris biztonság igazolására szolgáló elemzéseket oly módon és olyan mélységben kell dokumentálni, hogy azok az atomerőművi blokk teljes élettartama során megismételhetők, független szakértők által felülvizsgálhatók és módosíthatók legyenek, továbbá az azokban alkalmazott konzervativizmus mértéke és az elemzés alapján rendelkezésre álló tartalékok mértéke felülvizsgálható és újraértékelhető legyen.
+## 3.2.3.0400. Érzékenységi vizsgálatokat kell végezni a feltételezések, a felhasznált adatok és számítási módszerek bizonytalanságának értékelésére. Ahol az elemzés eredményei érzékenyeknek bizonyulnak a modell feltételezéseire, ott további elemzéseket kell végezni az előzőtől független módszerek és eljárások használatával.
 
-## 3.2.7.0500. Az atomerőművi blokk élettartama során minden, a nukleáris biztonság szempontjából fontos rendszereket, rendszerelemeket érintő, az engedélyezett állapottól eltérő helyzetet okozó beavatkozás, módosítás megfelelőségét biztonsági elemzéssel kell igazolni.
+## 3.2.3.0500. A biztonság igazolására szolgáló elemzéseket oly módon és olyan mélységben kell dokumentálni, hogy azok az atomerőmű teljes élettartama során megismételhetőek, független felülvizsgálatnak alávethetőek, és az átalakítások értékeléséhez szükséges terjedelemben módosíthatóak legyenek, továbbá az alkalmazott konzervativizmusok mértéke és az elemzés alapján rendelkezésre álló tartalékok mértéke felülvizsgálható és újraértékelhető legyen.
 
-## 3.2.7.0600. A tervezési fázis során végrehajtott biztonsági elemzéseket a tervezés lezárásakor, valamint az atomerőművi blokk teljes élettartama során, ciklikusan felül kell vizsgálni, és szükség esetén módosításokat kell végrehajtani determinisztikus és valószínűségi biztonsági elemzések eredményei alapján. Az azonosított hiányosságokat értékelni kell, és a biztonsági jelentőség függvényében kell döntést hozni a szükséges intézkedésekről.
+## 3.2.3.0600. Az atomerőmű élettartama során minden, a nukleáris biztonság szempontjából fontos rendszert, rendszerelemet érintő, az engedélyezett állapottól eltérő helyzetet okozó beavatkozás, módosítás megfelelőségét biztonsági elemzéssel kell igazolni.
 
-## 3.2.7.0700. A felülvizsgálat során figyelembe kell venni:
-
-## a) az atomerőművi blokkot vagy a működését érintő változásokat a tervezés vagy a megvalósulás fázisában, és működése során;
-
-## b) bármely, a nukleáris biztonságot szignifikáns módon befolyásoló, érintő új műszaki és tudományos ismeretet az atomerőművi blokk viselkedéséről és a hibalehetőségekről;
-
-## c) bármely olyan anyagi tulajdonság megváltozását, öregedés vagy más hatás miatt, amelyet előzőleg nem vettek figyelembe;
-
-## d) a nukleáris biztonsági szabványok nemzetközi fejlődését; valamint
-
-## e) jelentős, új nukleáris biztonsági információ felmerülését.
-
-## Szilárdsági elemzés
-
-## 3.2.7.0800. Szilárdsági elemzést kell végezni minden, a nukleáris biztonság szempontjából fontos, teherviselő és gépésztechnológiai nyomástartó berendezés, csővezeték megfelelőségének igazolására. Egy adott rendszerre vonatkozó szilárdsági számítást egységes, a nukleáris iparban általánosan elfogadott előírásrendszer, szabvány keretein belül kell elvégezni.
-
-## 3.2.7.0900. A különböző előírásrendszerek alapján méretezett nyomástartó berendezések, csővezetékek illesztésének, összeszerelésének lehetőségét külön elemzéssel kell alátámasztani.
-
-## 3.2.7.1000. A szilárdsági elemzések eredményeinek igazolniuk kell, hogy
-
-## a) a vizsgált berendezés, csővezeték élettartama elegendően hosszú, figyelembe véve a teljes élettartam során várható terheléseket és öregedési folyamatokat;
-
-## b) a szerkezeti anyagok szilárdsági tulajdonságai az öregedés és az üzemállapotra előírt kritériumok figyelembevételével megfelelnek a normál üzemi, a várható üzemi események során fellépő és a tervezési üzemzavari állapotokban a számított maximális terheléseknek; továbbá
-
-## c) a szerkezetben a feszültségintenzitás, valamint a képlékeny alakváltozást is figyelembe vevő J-integrál sehol sem haladja meg a kialakult hőmérséklethez tartozó törési szívósságot.
-
-## 3.2.7.1100. Vizsgálni kell az összes jellemző törési mechanizmust az érintett rendszerelemeknél.
-
-## 3.2.7.1200. A konténmentet mint nyomástartó berendezést kell méretezni és nyomástartó képességének rendszeres ellenőrzési lehetőségét biztosítani kell. Meg kell határozni az ellenőrzés szükséges periódusát.
-
-## 3.2.7.1300. A konténment szilárdsági méretezésére a nyomástartó berendezésekre vonatkozó általános elveket kell alkalmazni, figyelembe véve a teherviselő szerkezet anyagával és konstrukciójával összefüggő sajátosságokat. A tervezésnél figyelembe kell venni a konténmenten belüli potenciális energiaforrásokból, technológiai eredetű feltételezett kezdeti eseményekből, természeti jelenségekből és az emberi tevékenységből származó hatásokat is.
+## 3.2.3.0700. A tervezési alapot és annak igazolását a tervezés lezárásakor, valamint az atomerőmű teljes élettartama során, rendszeres időközönként, továbbá lényeges új biztonsági információk felmerülése esetén felül kell vizsgálni, és szükség esetén módosításokat kell végrehajtani a determinisztikus és valószínűségi számítások eredményei alapján. Az azonosított hiányosságokat értékelni kell, és meg kell tenni a szükséges korrekciós intézkedéseket.
 
 ## Determinisztikus biztonsági elemzés
 
-## 3.2.7.1400. Valamely biztonsági funkció teljesülésének elemzése során kizárólag a nukleáris biztonság szempontjából fontos rendszerek működését lehet feltételezni. A nukleáris biztonság szempontjából fontos rendszerek teljesítményét a vizsgált üzemzavari folyamat szempontjából a lehetségesek közül a legkedvezőtlenebb mértékűnek kell feltételezni. A nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek körébe nem tartozó rendszerek, rendszerelemek működését feltételezni kell, ha azok működése súlyosbítja a kezdeti esemény hatását.
+## 3.2.3.0800. A tervezési alapba, valamint a tervezési alap kiterjesztésébe tartozó összes kezdeti eseményre determinisztikus biztonsági elemzésekkel kell igazolni a vonatkozó elfogadási kritériumok teljesülését.
 
-## 3.2.7.1500. Várható üzemi események és tervezési üzemzavarok elemzéseiben a biztonsági funkciót ellátó rendszereknek az adott esemény következményeit leginkább meghatározó, legsúlyosabb következményt eredményező egyszeres meghibásodását vagy emberi hibát kell feltételezni. Nem szükséges azonban feltételezni passzív rendszerelem meghibásodását, amennyiben igazolható, hogy az adott rendszerelem meghibásodása igen valószínűtlen, és a feltételezett kezdeti esemény bekövetkezése nincs rá hatással.
+## 3.2.3.0900. A TA2-4 üzemállapotot eredményező események elemzése során csak a biztonsági funkciót megvalósító rendszerek működését szabad figyelembe venni. Ezeknek a rendszereknek a teljesítményét a vizsgált folyamat szempontjából lehetséges legkedvezőtlenebb mértékűnek kell feltételezni. A nem biztonsági funkciót megvalósító rendszerek, rendszerelemek működését akkor kell feltételezni, ha azok működése súlyosbítja a kezdeti esemény hatását.
 
-## 3.2.7.1600. Az elemzésekben az eseménysorra hatással bíró nem biztonsági rendszereket vagy működőnek, vagy nem működőnek kell feltételezni, attól függően, hogy melyik állapot jelenti a nagyobb kihívást a kritériumok szempontjából.
+## 3.2.3.1000. A TA2-4 üzemállapotot eredményező események elemzéseiben a biztonsági funkciót ellátó rendszereknek az adott esemény következményeit leginkább meghatározó, legsúlyosabb következményt eredményező egyszeres meghibásodását vagy emberi hibát kell feltételezni. Nem szükséges azonban feltételezni passzív rendszerelem meghibásodását, amennyiben igazolható, hogy az adott rendszerelem meghibásodása nagyon kis valószínűségű, vagy a feltételezett kezdeti esemény bekövetkezése nincs rá hatással.
 
-## 3.2.7.1700. A várható üzemi eseményeket az abszorbens rudak beesésének elmaradásával is elemezni kell. Az értékelés során a tervezési üzemzavarokra vonatkozó kritériumokat kell használni.
+## 3.2.3.1100. A TA2 üzemállapotot eredményező kezdeti eseményeket az abszorbens rudak beesésének elmaradásával is elemezni kell. Az értékelés során az elemzett esetre a kombinált kezdeti eseményre vonatkozó kritériumokat kell használni.
 
-## 3.2.7.1800. A tervezési üzemzavarok során végrehajtott kezelői beavatkozások elemzésekor figyelembe kell venni az üzemellenőrzés, az üzemállapot értékelése, a döntéshozatal és a végrehajtás körülményeit, időszükségletét. Az elemzésnek igazolnia kell, hogy a szükséges tevékenységek végrehajthatók a rendelkezésre álló idő alatt.
+## 3.2.3.1200. A TA1 üzemállapotban fellépő igénybevételekre, nyomáspróbákra, a TA2-4 üzemállapotot eredményező kezdeti eseményekre, valamint bármely, 10–5 1/év-nél gyakoribb eseménylánc során kialakuló nyomás alatti hőütésre elemezni kell a reaktortartály integritására vonatkozó megfelelőségi kritériumok teljesülését.
+
+## 3.2.3.1300. A TA2-4 üzemállapotot eredményező események elemzéseiben kezelői beavatkozásokat csak konzervatívan meghatározott időszükséglet alapján lehet figyelembe venni. 30 percnél rövidebb időtartamon belül feltételezett kezelői beavatkozások esetén a bizonytalanságokat is meghatározó elemzésnek kell igazolnia, hogy a feltételezett kezelői tevékenységek végrehajthatók a rendelkezésre álló idő alatt.
+
+## 3.2.3.1400. A TAK1 és TAK2 üzemállapotot eredményező eseményekre vonatkozó elemzésekben a legjobb becslés módszerét kell alkalmazni. Bármely rendszer vagy rendszerelem működésképtelenségét akkor kell feltételezni, ha annak sérülése a kezdeti esemény vagy az üzemzavari folyamat eredményeképpen valószínűsíthető.
 
 ## Valószínűségi biztonsági elemzés
 
-## 3.2.7.1900. Az atomerőművi blokk jelentette teljes kockázat és a tervezés kiegyensúlyozott voltának értékelésére, valamint a biztonságnövelő intézkedések szükségességének megítélésére valószínűségi biztonsági elemzést kell készíteni. A valószínűségi biztonsági elemzések eredményei – ezen túlmenően – egyéb üzemviteli és karbantartási döntések megalapozásához is felhasználhatók.
+## 3.2.3.1500. Az atomerőmű jelentette teljes kockázat meghatározására, a vonatkozó elfogadási kritériumok teljesülésének igazolására, a terv kiegyensúlyozottságának, egyenszilárdságának értékelésére, valamint a tervezési alap kiterjesztése megfelelőségének megítélésére valószínűségi biztonsági elemzést kell készíteni.
 
-## 3.2.7.2000. Az atomerőművi blokkok terveihez létesítményspecifikus 1. és 2. szintű valószínűségi biztonsági elemzést kell kidolgozni, amely figyelembe vesz minden lehetséges üzemmódot, rendszer-konfigurációt és valamennyi feltételezett kezdeti eseményt, így különösen a repülő tárgyak, folyadék- és gőzsugár hatásait, a belső tüzet és elárasztást, valamint a környező ipari létesítmények üzemzavarait. A szélsőséges időjárási körülményeket és a szeizmikus eseményeket is kezelni kell.
+## 3.2.3.1600. Az atomerőművi blokk tervéhez 1. és 2. szintű valószínűségi biztonsági elemzést kell kidolgozni, amely figyelembe vesz minden lehetséges üzemállapotot, rendszerkonfigurációt és valamennyi feltételezett kezdeti eseményt, amelyre más módszerrel nem bizonyítható, hogy a kockázathoz adott járuléka elhanyagolható.
 
-## 3.2.7.2100. A valószínűségi biztonsági elemzésben figyelembe kell venni a lényeges funkcionális, területi – a rendszerelemek fizikai elhelyezkedéseit alapul vevő – és egyéb közös okból eredő meghibásodásból fakadó függőségeket.
+## 3.2.3.1700. A valószínűségi biztonsági elemzésben figyelembe kell venni a lényeges funkcionális, területi, a rendszerelemek fizikai elhelyezkedéseit alapul vevő, az üzemeltetésből, karbantartásból és egyéb közös okú meghibásodásból fakadó függőségeket, így különösen a repülő tárgyak, folyadék- és gőzsugár hatásait, a belső tüzet és elárasztást, valamint a környező ipari létesítmények üzemzavarait és emberi tevékenységek hatásait. A szélsőséges időjárási körülményeket és a szeizmikus eseményeket is értékelni kell.
 
-## 3.2.7.2200. Az 1. és 2. szintű valószínűségi biztonsági elemzés keretében a bizonytalansági és érzékenységi vizsgálatokat is el kell végezni.
+## 3.2.3.1800. Az 1. és 2. szintű valószínűségi biztonsági elemzés keretében a bizonytalansági és érzékenységi vizsgálatokat is el kell végezni.
 
-## 3.2.7.2300. A valószínűségi biztonsági elemzésnek az atomerőmű viselkedését a valóságnak megfelelően kell modelleznie, felhasználva a vonatkozó tervezési adatokat, és – az üzemeltetési és üzemzavari utasítások, valamint a balesetkezelési útmutatók terjedelmében figyelembe véve – az emberi beavatkozásokat, az azokhoz kapcsolódó potenciális emberi hibákkal együtt.
+## 3.2.3.1900. A valószínűségi biztonsági elemzésnek az atomerőmű viselkedését valósághűen kell modelleznie. Ehhez figyelembe kell venni a vonatkozó tervezési adatokat, az üzemeltetési és üzemzavari utasításokat, balesetkezelési útmutatókat vagy azok tervezeteit, figyelembe véve az emberi beavatkozásokat, az azokhoz kapcsolódó potenciális emberi hibákkal együtt.
 
-## 3.2.7.2400. Emberi megbízhatósági elemzéseket kell végezni, figyelembe véve azokat a tényezőket, amelyek az atomerőművi blokk egyes üzemállapotaiban hatással lehetnek az üzemeltető személyzet tevékenységére, teljesítőképességére.
+## 3.2.3.2000. Emberi megbízhatósági elemzéseket kell végezni, figyelembe véve azokat a tényezőket, amelyek az atomerőművi blokk egyes üzemállapotaiban hatással lehetnek az üzemeltető személyzet tevékenységére, teljesítőképességére.
 
-## 3.2.7.2500. A rendszerek és emberi beavatkozások sikerkritériumainak meghatározására vonatkozó determinisztikus biztonsági elemzésekben a legjobb becslés módszerét kell alkalmazni. Ahol a legjobb becslés módszere nem alkalmazható, ott a feltételezések konzervativizmusát lehet ésszerű mértékben csökkenteni.
+## 3.2.3.2100. A rendszerek és emberi beavatkozások sikerkritériumainak meghatározására vonatkozó elemzésekben a legjobb becslés módszerét kell alkalmazni. Ahol a legjobb becslés módszere nem alkalmazható, ott a feltételezések konzervativizmusa miatti torzító hatást értékelni kell.
 
-## 3.2.7.2600. A számításokhoz megbízható, hiteles, elsősorban az adott atomerőművi blokkra specifikus, másodsorban az atomerőművi blokk típusára specifikus, harmadsorban a rendszer, rendszerelem típusára specifikus statisztikai adatokat kell használni. Az adatok forrását és a minta nagyságát dokumentálni kell. A forrásadatok változása esetén figyelembe kell venni a tervezési adatok és az üzemi viszonyok közötti különbségeket, és ezeket értékelni kell. Ahol nem állnak rendelkezésre használható statisztikai adatok, megalapozott becsléseket kell alkalmazni.
+## 3.2.3.2200. A számításokhoz megbízható, hiteles, elsősorban létesítmény-, másodsorban létesítménytípus-, harmadsorban típus-specifikus megbízhatósági adatokat kell használni. Az adatok forrását, a minta nagyságát dokumentálni kell. A forrásadatok változása esetén figyelembe kell venni a tervezési adatok és az üzemi viszonyok közötti különbségeket, és ezeket értékelni kell. Ahol nem állnak rendelkezésre használható statisztikai adatok, megalapozott becsléseket kell alkalmazni.
 
-## 3.2.7.2700. A valószínűségi biztonsági elemzéssel igazolni kell a kockázati célok és kritériumok teljesülését, valamint a tervek és a konstrukció megfelelően kiegyensúlyozott voltát, tehát azt, hogy nincsenek olyan rendszerek, rendszerelemek és folyamatok, amelyek aránytalanul nagy járulékot adnak a teljes kockázathoz.
+## 3.2.3.2300. A valószínűségi biztonsági elemzéseket a rendszerek, rendszerelemek tervezett, majd tényleges karbantartási és tesztelési, ellenőrzési gyakorlatának megfelelően kell elvégezni. A valószínűségi biztonsági elemzések eredményeire vonatkozó követelmények teljesülését a karbantartások, próbák és ellenőrzések rendszer- és rendszerelem-megbízhatóságra gyakorolt hatásának figyelembevételével kell igazolni.
 
-## 3.2.7.2800. A valószínűségi biztonsági elemzés korlátait fel kell ismerni, és minden alkalmazásnál tekintettel kell lenni azokra. Egy adott valószínűségi biztonsági elemzés helytállóságát a korlátok figyelembevételével kell értékelni.
+## 3.2.3.2400. A valószínűségi biztonsági elemzést a rendelkezésre álló nemzetközi tapasztalatok, validált módszerek alkalmazásával az engedélyes minőségirányítási rendszerével összhangban kell elkészíteni, dokumentálni és karbantartani.
 
-## 3.2.7.2900. A valószínűségi biztonsági elemzéseket a rendszerek, rendszerelemek tervezett, és tényleges karbantartási és tesztelési, ellenőrzési gyakorlatának megfelelően kell elvégezni. A valószínűségi biztonsági elemzések eredményeire vonatkozó követelmények teljesülését a karbantartások, próbák és ellenőrzések rendszer- és rendszerelem-megbízhatóságra gyakorolt hatásának figyelembevételével kell igazolni.
+## Előzetes és Végleges Biztonsági Jelentés készítése
 
-## 3.2.7.3000. A valószínűségi biztonsági elemzést az engedélyes irányítási rendszerével összhangban, a rendelkezésre álló nemzetközi tapasztalatok, a bevált módszerek alkalmazásával kell elkészíteni és dokumentálni. A valószínűségi biztonsági elemzéseket rendszeresen felül kell vizsgálni, különösen abban az esetben, ha az alkalmazott feltételezéseket, adatokat és rendszertechnikai modelleket érintő jelentősebb átalakítást hajtanak végre az atomerőművi blokkon.
+## 3.2.3.2500. Az atomerőművi blokk létesítését, üzembe helyezését és üzemeltetését megelőző hatósági engedélyeztetési eljárások megalapozásához Biztonsági Jelentést kell készíteni. A Biztonsági Jelentésben egységes rendszerbe kell foglalni az atomerőmű létesítésére, üzembe helyezésére és üzemeltetésére vonatkozó követelmények teljesítésének igazolására vonatkozó információkat.
 
-## A Végleges Biztonsági Jelentés tartalma
+## 3.2.3.2600. Az Előzetes és Végleges Biztonsági Jelentést a következő tartalmi követelmények alapján kell összeállítani:
 
-## 3.2.7.3100. Az atomerőművi blokk üzembe helyezése előtt Végleges Biztonsági Jelentést kell készíteni, amely összefoglalja és egységes rendszerbe szervezi a tervezési dokumentáció alapvető elemeit.
+## a) az alkalmazandó jogszabályok, előírások és szabványok,
 
-## 3.2.7.3200. A Végleges Biztonsági Jelentésben ismertetni kell:
+## b) az atomerőművi blokk általános tervezési elvei és az alapvető biztonsági célkitűzések teljesítésére alkalmazott módszerek,
 
-## a) a telephelyet, az atomerőmű kialakítását és normál üzemeltetését, tervezési alapját, valamint az előírt nukleáris biztonsági szint teljesülését igazoló elemzéseket;
+## c) a tervezési dokumentáció alapvető elemei, bemutatva a telephelyet, az atomerőmű kialakítását és normál üzemeltetését, tervezési alapját, valamint az előírt biztonsági szint teljesülését bizonyító elemzéseket,
 
-## b) a biztonsági funkciókat, az azokat megvalósító rendszereket és rendszerelemeket, a biztonsági osztályba sorolás elveit; a rendszerek, rendszerelemek tervezési alapját és működésüket a normál üzem, a várható üzemi események és a tervezési üzemzavarok, valamint tervezési üzemzavarok során;
+## d) a telephely biztonság szempontjából meghatározó jellemzői,
 
-## c) az alkalmazandó jogszabályokat, előírásokat és szabványokat, és be kell mutatni a követelmények teljesülését;
+## e) a biztonsági funkciók, az azokat megvalósító rendszerek és rendszerelemek, a biztonsági osztályba sorolás elvei, a rendszerek, rendszerelemek tervezési alapja és működésük minden üzemállapotban,
 
-## d) az engedélyes üzemeltető szervezetének és az irányítási rendszerének a nukleáris biztonság szempontjából való értékelését;
+## f) az atomerőmű biztonságának értékelése céljából a normál üzem, a feltételezett kezdeti események és azok bekövetkezésének esetére, a biztonsági kritériumok és a radioaktív anyagok kibocsátási korlátai teljesülésének igazolására elvégzett biztonsági elemzések,
 
-## e) a telephely nukleáris biztonság szerinti értékelését;
+## g) a biztonsági funkciókat megvalósító mérő és irányítástechnikai rendszerek, az aktív, elektronikus védelmi rendszerek, valamint az üzemeltető személyzetet támogató és regisztráló rendszerek,
 
-## f) az atomerőművi blokk általános tervezési elveit és az alapvető nukleáris biztonsági célkitűzések teljesítésére alkalmazott módszereket;
+## h) az atomerőművet üzemeltető szervezet és az irányítási rendszer biztonsági szempontjai,
 
-## g) az atomerőmű nukleáris biztonságának értékelése céljából feltételezett kezdeti eseményeket, és azok bekövetkezésének esetére, a biztonsági kritériumok és a radioaktív anyagok kibocsátási korlátai teljesülésének igazolására elvégzett biztonsági elemzéseket;
+## i) az atomerőmű üzembe helyezésének programja és annak alapjául szolgáló megfontolások, továbbá annak bemutatása, hogy az előirányzott üzembe helyezési tevékenység alkalmas annak igazolására, hogy az atomerőművi blokk a terveknek és a biztonsági előírásoknak megfelelően fog működni,
 
-## h) a nukleáris biztonsági funkciókat ellátó mérő és irányítástechnikai rendszereket, vagyis az aktív, elektronikus védelmi rendszereket, valamint az üzemeltető személyzetet támogató és regisztráló rendszereket;
+## j) az üzemzavar-elhárítási utasítások és a súlyos-balesetkezelési útmutatók, az ellenőrzési utasítások, az üzemeltető személyzet képzettségi követelményei és képzés, az üzemeltetési tapasztalatok visszacsatolásának eljárása és az öregedéskezelés programja,
 
-## i) az atomerőművi blokk üzembe helyezésének programját és az annak alapjául szolgáló megfontolásokat, továbbá azt, hogy az előirányzott üzembe helyezési tevékenység alkalmas annak igazolására, hogy az atomerőművi blokk a terveknek és a nukleáris biztonsági előírásoknak megfelelően fog működni;
+## k) a karbantartási, tesztelési és felügyeleti programok és azok alapjául szolgáló megfontolások,
 
-## j) az üzemzavar-elhárítási utasításokat és a súlyosbaleset-kezelési útmutatókat, az ellenőrzési utasításokat, az üzemeltető személyzet képzettségi követelményeit és képzését, az üzemeltetési tapasztalatok visszacsatolásának eljárását és az öregedéskezelés programját;
+## l) az üzemeltetési feltételek és korlátok műszaki megalapozása,
 
-## k) a 4. melléklet 4.6.1. pontja szerinti karbantartási, próba- és felügyeleti programot és az annak alapjául szolgáló megfontolásokat;
+## m) a sugárvédelmi politika, stratégia, módszerek és szabályozás,
 
-## l) az üzemeltetési feltételek és korlátok műszaki megalapozását;
+## n) a telephelyi nukleáris baleset-elhárítási felkészülés tervezési alapja és megfelelősége, valamint a kapcsolatok és koordináció azokkal a telephelyen kívüli szervezetekkel, amelyeknek szerepük van a nukleáris baleset-elhárításban,
 
-## m) a sugárvédelmi politikát, stratégiát, módszereket és szabályozást;
+## o) a radioaktív hulladékok telephelyi kezelésének rendszere,
 
-## n) a telephelyi baleset-elhárítási felkészülés tervezési alapját és megfelelőségét, valamint a kapcsolatokat és koordinációt azokkal a telephelyen kívüli szervezetekkel, amelyeknek szerepük van a baleset-elhárításban;
+## p) a tervezés és üzemeltetés során a végső leállítás és a leszerelés figyelembevételének szempontjai, és
 
-## o) a radioaktív hulladékok telephelyi kezelésének rendszerét; továbbá
+## q) a 3.2.2.3700. pont szerinti elemzés.
 
-## p) azt, hogy az üzemeltetés során hogyan veszik figyelembe a végső leállítás és a leszerelés szempontjait.
+## 3.2.3.2700. Az engedélyesnek valamennyi, az Előzetes és Végleges Biztonsági Jelentésben hivatkozott vagy figyelembe vett – nyilvánosan nem hozzáférhető – dokumentációval rendelkezni kell.
 
-## 3.2.7.3300. Az engedélyes a Végleges Biztonsági Jelentést alapként kell, hogy használja a nukleáris biztonságot érintő hatások értékelésére, az atomerőműben tervezett átalakítások vagy az üzemeltetés megváltoztatása esetén. A megvalósított átalakításokat át kell vezetni a Végleges Biztonsági Jelentésben.
+## 3.2.4. Üzemzavari elemzések elfogadási kritériumai
 
-## 3.2.8. Üzemzavari és baleseti elemzések elfogadási kritériumai
+## 3.2.4.0100. A TA2-4 üzemállapotot eredményező kezdeti eseményből kiinduló folyamatokra bizonyítani kell, hogy a lakosság vonatkoztatási csoportjának dózisa nem haladja meg:
 
-## 3.2.8.0100. Igazolni kell, hogy a lakosság kritikus csoportjának dózisterhelése nem haladja meg eseményenként:
+## a) Új atomerőművi blokk esetén:
 
-## a) várható üzemi eseményekre – minden 10–2/év gyakoriságot meghaladó kezdeti eseményből kiinduló folyamatra – a hatóságilag engedélyezett dózismegszorítás értékét, valamint
+## aa) TA2 üzemállapotot eredményező kezdeti eseményből kiinduló folyamatnál a dózismegszorítás értékét,
 
-## b) tervezési üzemavarok esetében az 5 mSv/esemény értéket.
+## ab) TA3 üzemállapotot eredményező kezdeti eseményből kiinduló folyamatnál az 1 mSv/esemény értéket, és
 
-## 3.2.8.0200. Várható üzemi esemény és tervezési üzemzavar nem okozhatja a megengedett dóziskorlát túllépését az atomerőmű ellenőrzött zónáján kívül, az atomerőmű emberi tartózkodásra engedélyezett üzemi területein.
+## ac) TA4 üzemállapotot eredményező kezdeti eseményből kiinduló folyamatnál az 5 mSv/esemény értéket.
 
-## 3.2.8.0300. A várható üzemi események az atomerőmű ellenőrzött zónájában is csak olyan mértékű és jellegű radioaktív szennyeződést okozhatnak, amelyek az üzemszerűen alkalmazott módszerekkel kezelhetők és eltávolíthatók, amelyek sem a biztonságos továbbüzemeltetést, sem a tervezett módszerekkel való leszerelést nem akadályozzák.
+## b) üzemelő atomerőművi blokk esetén:
 
-## 3.2.8.0400. A várható üzemi események és a tervezési üzemzavarok kategóriájába tartózó kezdeti események – a 3.2.7.1500. pont szerinti egyszeres meghibásodás feltételezése mellett, további független hiba feltételezése nélkül – nem idézhetnek elő olyan következményt, amely sérti az adott kategóriára előírt nukleáris biztonsági kritériumokat.
+## ba) TA2 üzemállapotot eredményező kezdeti eseményből kiinduló folyamatnál a dózismegszorítás értékét;
 
-## 3.2.8.0500. A tervezésnek elemzésekkel kell igazolni, hogy a várható üzemi eseményekhez vezető feltételezett kezdeti események, egyszeres meghibásodás feltételezése mellett nem eredményezik egyetlen gát funkciójának elvesztését sem.
+## bb) a TA4 üzemállapotot eredményező kezdeti eseményből kiinduló folyamatoknál az 5 mSv/esemény értéket.
 
-## 3.2.8.0600. Várható üzemi események és tervezési üzemzavarok során a reaktivitás-szabályozó és biztonságvédelmi szerkezetek még részlegesen sem olvadhatnak meg. A fűtőelemkötegek és az atomreaktor szerkezeti elemei nem sérülhetnek, deformálódhatnak oly mértékben, hogy ezáltal a szabályozó és biztonságvédelmi szerkezeteknek a nukleáris láncreakció leállítására irányuló mozgása lehetetlenné váljon.
+## 3.2.4.0200. TA2 üzemállapotot eredményező kezdeti események nem okozhatnak 1 mSv/esemény értéket meghaladó dózist az atomerőmű ellenőrzött zónáján kívül, az atomerőmű emberi tartózkodásra engedélyezett üzemi területein.
 
-## 3.2.8.0700. Tervezési üzemzavarok esetén a fűtőelemkötegeknek, az atomreaktor primer körének és az ahhoz kapcsolódó rendszereknek olyan állapotban kell maradniuk, hogy a besugárzott nukleáris üzemanyag rövid és hosszú távú hűtése és kezelhetősége biztosítható legyen, és a hő elvonásához szükséges rendszerek rövid és hosszú távon képesek feladatuk ellátására.
+## 3.2.4.0300. TA3-4 üzemállapotot eredményező kezdeti események nem okozhatnak 10 mSv effektív dózisértéket vagy 100 mGy pajzsmirigy dózisértéket meghaladó dózist az atomerőmű ellenőrzött zónáján kívül, az atomerőmű emberi tartózkodásra engedélyezett üzemi területein.
 
-## 3.2.8.0800. Az atomerőművi blokkra 1-es szintű valószínűségi biztonsági elemzéssel igazolni kell, hogy minden lehetséges normál üzemi állapotból induló feltételezett kezdeti esemény figyelembevételével – a földrengés és a szabotázs kivételével – a zónasérülési gyakoriság nem haladja meg a 10–4/év értéket.
+## 3.2.4.0400. A TA2 üzemállapotot eredményező kezdeti események az atomerőmű ellenőrzött zónájában csak olyan mértékű és jellegű radioaktív szennyeződést okozhatnak, amelyek az üzemszerűen alkalmazott módszerekkel, rendszerekkel és rendszerelemekkel kezelhetők és eltávolíthatók.
 
-## 3.2.8.0900. A 3.2.8.0100. pontban meghatározott követelmények teljesülését biztosító kibocsátási határértékeket valamely, a nukleáris iparban nemzetközileg elfogadott normarendszernek megfelelően kell meghatározni, majd a biztonsági elemzésekkel igazolni a kibocsátási határértékek teljesülését.
+## 3.2.4.0500. A TA2-4 üzemállapotot eredményező kezdeti események – az egyszeres meghibásodás feltételezése mellett, további független hiba feltételezése nélkül – nem idézhetnek elő olyan következményt, amely sérti az adott üzemállapotra előírt biztonsági kritériumokat.
 
-## 3.2.8.1000. A nagy kibocsátással járó súlyos baleseti végállapotok összegzett gyakorisága minden kiinduló üzemmódra és hatásra összegezve – a földrengés és a szabotázs kivételével – nem haladhatja meg a 10–5/év értéket, de minden ésszerű átalakítás, beavatkozás alkalmazásával közelíteni kell a 10–6/év értékhez. A követelmények teljesülését 2-es szintű valószínűségi biztonsági elemzésekkel kell igazolni.
+## 3.2.4.0600. Valamennyi tervezett üzemállapot és feltételezett kezdeti esemény figyelembe- vételével – a szabotázst kivéve – a zónasérülési gyakoriság új atomerőművi blokk esetén nem haladja meg a 10–5/év értéket, üzemelő atomerőművi blokk esetében a 10–4/év értéket.
 
-## 3.2.8.1100. A tervezési üzemzavarok elemzésekor a feltételezett kezelői beavatkozásoknál figyelembe kell venni az információ összegyűjtésének, az üzemállapot értékelésének, a döntéshozatalnak és a beavatkozás hatékony végrehajtásnak a körülményeit és időszükségletét. Az elemzésnek igazolnia kell, hogy a szükséges tevékenységek a rendelkezésre álló idő alatt végrehajthatók.
+## 3.2.4.0700. Új atomerőművi blokk esetén a korlátozott környezeti hatás kritérium teljesítéséhez a TAK1 üzemállapotot eredményező eseményre és új atomerőművi blokk esetén a 3.2.2.4100. pont előírásainak figyelembevételével a TAK2 üzemállapotot eredményező eseményekre bizonyítani kell, hogy
 
-## 3.2.8.1200. A tervezés során a várható üzemi eseményekre meg kell határozni a fűtőelempálca sértetlenségének megőrzését biztosító kritériumokat, a nukleáris üzemanyag hőmérsékletére, a kritikus hőfluxusra és a burkolat hőmérsékletére vonatkozó határértékek formájában. A tervezési üzemzavarokra a hosszú távú hűthetőség és kezelhetőség követelményének teljesítése érdekében meg kell határozni a fűtőelem-sérülés megengedhető maximális mértékét és jellegét.
+## a) az atomreaktortól vett 800 m távolságon túl nincs szükség korai veszélyhelyzeti intézkedésekre, azaz nincs szükség a lakosság sürgős kimenekítésére;
 
-## 3.2.8.1300. A tervezés során – az általános követelmények teljesítése érdekében – a fővízkör maximális nyomására, a maximális hőmérsékletre, a termikus és nyomástranziensekre és a feszültségekre vonatkozó kritériumokat kell meghatározni.
+## b) az atomreaktortól vett 3 km távolságon túl nincs szükség semmilyen átmeneti intézkedésre, azaz nincs szükség a lakosság ideiglenes áttelepítésére;
 
-## 3.2.8.1400. Az általános követelmények teljesítése érdekében a tervezés során kritériumokat kell megállapítani a szekunder köri hűtőkör maximális nyomására, a maximális hőmérsékletére, a termikus és nyomástranziensekre és a feszültségekre.
+## c) az atomreaktortól vett 800 m távolságon túl nincs szükség semmilyen késői védőintézkedésre, azaz nincs szükség a lakosság végleges áttelepítésére; továbbá
 
-## 3.2.8.1500. A tervezés során az általános követelmények teljesítése érdekében a konténment hőmérsékletére, nyomására és a szivárgás mértékére kritériumokat kell megállapítani.
+## d) az atomerőmű területén kívül csak korlátozott mértékű gazdasági hatások lehetnek.
 
-## 3.2.8.1600. A biztonsági elemzésekkel – ahol az érintett alapvető kritériumok közvetlenül nem igazolhatóak – a 3.2.8.1200–1500. pontok szerinti másodlagos kritériumok teljesülését kell igazolni.
+## 3.2.4.0800. Új atomerőművi blokk esetén a nagy kibocsátással járó eseményláncok minden kiinduló üzemállapotra és hatásra összegzett gyakorisága – kivéve a szabotázs esetét – nem haladhatja meg a 10–6/év értéket. A követelmények teljesülését 2. szintű valószínűségi alapú biztonsági elemzésekkel kell igazolni.
 
-## 3.2.9. Üzemeltetési feltételek és korlátok
+## 3.2.4.0900. Üzemelő atomerőművi blokk esetében a nagy kibocsátással járó súlyos baleseti eseményláncok összegzett gyakorisága, minden kiinduló üzemállapotra és hatásra összegezve – kivéve a szabotázs esetét, valamint a földrengést – nem haladhatja meg a 10–5/év értéket, de minden ésszerű átalakítás, beavatkozás alkalmazásával közelíteni kell a 10–6/év értékhez. A követelmények teljesülését 2. szintű valószínűségi alapú biztonsági elemzésekkel kell igazolni.
 
-## 3.2.9.0100. Ki kell dolgozni az üzemeltetési feltételeket és korlátokat tartalmazó alapdokumentumot, amely biztosítja, hogy az atomerőmű rendszerei, rendszerelemei a Végleges Biztonsági Jelentésben szereplő tervezési feltételezéseknek és szándékoknak megfelelően működnek. Az üzemeltetési feltételek és korlátok az üzemeltetési engedély szerinti normál üzem feltételeiként és korlátaiként tekintendők, tehát a biztonsági elemzések kezdeti feltételeit is meghatározzák.
+## 3.2.4.1000. A tervezésnek elemzésekkel kell igazolni, hogy a TA2 üzemállapotot eredményező kezdeti események egyszeres hiba feltételezése mellett sem vezetnek egyetlen gát funkciójának elvesztéséhez sem.
 
-## 3.2.9.0200. Az üzemeltetési feltételeket és korlátokat úgy kell meghatározni, hogy azok betartása mellett az üzemzavarokhoz, balesetekhez vezető helyzetek megelőzhetőek legyenek, és egy esetleges üzemzavar esetén lehetséges legyen a következmények enyhítése.
+## 3.2.4.1100. A reaktortartály ridegtöréssel szembeni integritását olyan módon kell biztosítani, hogy a tartály kritikus elemeinek valós pillanatnyi átmeneti hőmérséklete kisebb legyen, mint a TA2-4 üzemállapotot eredményező kezdeti események megfelelő elemzésével meghatározott maximális kritikus átmeneti hőmérséklet.
 
-## 3.2.9.0300. Az üzemeltetési feltételek és korlátok megalapozására az atomerőmű tervezési megfontolásait, biztonsági elemzéseit, továbbá az üzembe helyezési próbák eredményeit kell felhasználni.
+## 3.2.4.1200. TA2-4 üzemállapotot eredményező kezdeti eseményeket követően a reaktivitásra ható szabályozó és biztonságvédelmi szerkezetek, a fűtőelemkötegek, valamint az atomreaktor szerkezeti elemei nem sérülhetnek, deformálódhatnak oly mértékben, hogy ezáltal a szabályozó és biztonságvédelmi szerkezeteknek a hasadási láncreakció leállítására irányuló mozgása lehetetlenné váljon.
 
-## 3.2.9.0400. Az üzemeltetési feltételeknek és korlátoknak le kell fednie minden üzemeltetési állapotot, beleértve a teljesítményüzemet, a leállított állapotot és az átrakást, valamint az előbbi állapotok közötti átmeneti állapotokat, továbbá a karbantartás, a próbák és a rendszerelemek felügyelete során kialakuló ideiglenes helyzeteket.
+## 3.2.4.1300. TA2-4 üzemállapotot eredményező kezdeti eseményeket követően a fűtőelemkötegeknek, az atomreaktor primer körének és az ahhoz kapcsolódó rendszereknek olyan állapotban kell maradniuk, hogy a besugárzott nukleáris üzemanyag rövid és hosszú távú hűtése és kezelhetősége biztosítható legyen, továbbá a hő elvonásához szükséges rendszerek rövid és hosszú távon képesek legyenek feladatuk ellátására.
 
-## 3.2.9.0500. Az atomerőmű tervezése, biztonsági elemzései alapján kidolgozott előzetes üzemeltetési feltételek és korlátok egyes tételeit a 4. mellékletben leírt üzembe helyezési próbák alapján kell véglegesíteni és igazolni.
+## 3.2.4.1400. A TA2 üzemállapotot eredményező eseményekre a tervezés során meg kell határozni a fűtőelempálca sértetlenségének megőrzését biztosító kritériumokat, a nukleáris üzemanyag hőmérsékletére, a kritikus hőfluxusra és a burkolat hőmérsékletére vonatkozó határértékek formájában. A TA3-4 tervezési üzemzavarokra a hosszú távú hűthetőség és kezelhetőség követelményének teljesítése érdekében meg kell határozni a fűtőelem-sérülés megengedhető maximális mértékét és jellegét.
 
-## 3.2.9.0600. A nukleáris biztonság garantálása érdekében a biztonsági rendszerek paramétereinek az üzemeltetési feltételekben és korlátokban korlátozott értékei és a biztonsági korlátok között – megfelelő konzervatív megközelítéssel, valamint a mérések és a biztonsági elemzések bizonytalanságainak figyelembevételével – tartalékot kell alkalmazni.
+## 3.2.4.1500. A radioaktív kibocsátásokat visszatartó vagy korlátozó fizikai gát funkciót ellátó rendszerek a biztonsági funkció ellátása érdekében maximális nyomására, maximális hőmérsékletére, a termikus és nyomástranziensekre, valamint a feszültségekre vonatkozóan kritériumokat kell meghatározni.
 
-## 3.2.9.0700. A biztonsági korlátok meghatározásánál konzervatív megközelítést kell alkalmazni, a biztonsági elemzések bizonytalanságainak figyelembevétele érdekében.
+## 3.2.4.1600. A nukleáris biztonsági követelmények kielégítése érdekében a konténment hőmérsékletére, nyomására és a szivárgás mértékére kritériumokat kell megállapítani.
 
-## 3.2.9.0800. Az üzemeltetési feltételeknek és korlátoknak tartalmaznia kell az üzemi paraméterekre vonatkozó korlátokat, redundáns biztonsági rendszerek esetén az üzemképes rendszerelemek minimálisan előírt számát a különböző normálüzemi állapotokra, amelyeknek üzemi vagy készenléti állapotban kell lenniük. Tartalmaznia kell továbbá az üzemeltetési feltételekhez és korlátokhoz képest észlelt eltérés esetén az üzemeltető személyzet által végrehajtandó beavatkozásokat és a beavatkozások végrehajtására megengedett időt.
+## 3.2.5. Üzemeltetési feltételek és korlátok
 
-## 3.2.9.0900. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek maximálisan megengedett üzemképtelenségi időtartamát, valamint e rendszerek, rendszerelemek időszakos próbáinak, ellenőrzésének ciklusidejét elemzési eredményekre kell alapozni. A ciklusidő meghatározásakor figyelembe kell venni a karbantartás és a próbák miatt fellépő üzemképtelenség okozta kockázat, és az e tevékenységek által elérhető megbízhatóság-növekedés egyensúlyát.
+## 3.2.5.0100. A tervezési folyamat során meg kell határozni a rendszerek és rendszerelemek üzemeltetésének azon feltételeit és korlátait, amelyek betartása mellett igazolt, hogy az atomerőmű a Biztonsági Jelentésben dokumentált tervezői célkitűzéseknek megfelelően, a nukleáris biztonsági követelményekkel összhangban üzemeltethető.
+
+## 3.2.5.0200. Az üzemeltetési feltételeket és korlátokat úgy kell meghatározni, hogy azok betartása mellett az üzemzavarokhoz vezető helyzetek megelőzhetőek, a lehetséges üzemzavarok esetén a következmények enyhíthetőek legyenek. A biztonsági korlátok meghatározásánál konzervatív megközelítést kell alkalmazni a biztonsági elemzések bizonytalanságainak figyelembevétele érdekében.
+
+## 3.2.5.0300. Az egyes üzemeltetési feltételeket és korlátokat az atomerőmű tervezési megfontolásai, biztonsági elemzései, az üzembe helyezési próbák eredményei alapján kell meghatározni.
+
+## 3.2.5.0400. Az üzemeltetési feltételek és korlátok meghatározásánál a következő egymásra épülő biztonsági szinteket kell figyelembe venni:
+
+## a) biztonsági korlátok,
+
+## b) a biztonsági funkciót ellátó rendszerek működésbe lépésének határértékei, és
+
+## c) a normál üzem feltételei és korlátai.
+
+## 3.2.5.0500. Az üzemeltetési feltételeknek és korlátoknak le kell fedni minden üzemi állapotot, beleértve a teljesítményüzemet, a leállított állapotot és az átrakást, valamint az előbbi állapotok közötti átmeneti állapotokat, továbbá a karbantartás, a próbák és a rendszerelemek felügyelete során kialakuló ideiglenes helyzeteket.
+
+## 3.2.5.0600. A biztonság garantálása érdekében a biztonsági funkciót ellátó rendszerek paramétereinek az Üzemeltetési Feltételek és Korlátok dokumentumban meghatározott értékei és a biztonsági korlátok között – megfelelő konzervatív megközelítéssel vagy a biztonsági elemzések bizonytalanságainak figyelembevételével – tartalékot kell fenntartani.
+
+## 3.2.5.0700. Az Üzemeltetési Feltételek és Korlátok dokumentumnak tartalmaznia kell az üzemi paraméterekre vonatkozó korlátokat, a nukleáris biztonság szempontjából fontos rendszerek vonatkozásában pedig azoknak az üzemképes rendszerelemeknek a minimálisan előírt számát, amelyeknek különböző TA1 üzemi állapotokban, üzemi vagy készenléti állapotban kell lenniük. Az üzemeltetési feltételekhez és korlátokhoz képest észlelt eltérés esetére tartalmaznia kell továbbá az üzemeltető szervezet által végrehajtandó beavatkozásokat és a beavatkozások végrehajtására megengedett időt.
+
+## 3.2.5.0800. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek maximálisan megengedett üzemképtelenségi időtartamát, valamint e rendszerek, rendszerelemek időszakos próbáinak, ellenőrzésének ciklusidejét elemzési eredményekre kell alapozni. A ciklusidő meghatározásakor figyelembe kell venni a karbantartás és a próbák miatt fellépő üzemképtelenség okozta kockázat és az e tevékenységek által elérhető megbízhatóság-növekedés egyensúlyát.
+
+## 3.2.5.0900. Az Üzemeltetési Feltételek és Korlátok dokumentum részeként meg kell határozni a biztonságos üzemeltetéshez szükséges és elégséges személyzettel szemben támasztott követelményeket. A biztonságos üzemeltetéshez szükséges és elégséges személyzet meghatározásánál az üzemzavarok kezelésre vonatkozó követelményeket is teljesíteni kell.
+
+## 3.2.5.1000. Az atomerőmű üzembe helyezését megelőzően ki kell dolgozni az Üzemeltetési Feltételek és Korlátok dokumentum előzetes változatát, amelyben rögzítettek biztosítják, hogy az atomerőmű rendszerei, rendszerelemei a Biztonsági Jelentésben szereplő tervezési feltételezéseknek és célkitűzéseknek megfelelően működnek.
+
+## 3.2.5.1100. Az Üzemeltetési Feltételek és Korlátok dokumentum előzetes változatát az üzembe helyezés tapasztalatai alapján felül kell vizsgálni, és a Biztonsági Jelentéssel összhangban szükség szerint módosítani, véglegesíteni kell.
+
+## 3.2.5.1200. Az Üzemeltetési Feltételek és Korlátok dokumentum módosítására, vagy az abban foglaltaktól való ideiglenes eltérésre vonatkozó szabályokat belső eljárásrendben rögzíteni kell. Az eltérések megengedhetőségét, megfelelőségét minden esetben biztonsági elemzéssel kell igazolni.
 
 ## 3.3. SPECIÁLIS TERVEZÉSI KÖVETELMÉNYEK
 
-## 3.3.1. Biztonsági rendszerek
+## 3.3.1. Biztonsági osztályba sorolt rendszerek tervezése
 
-## 3.3.1.0100. A tervezési alapban feltételezett biztonsági rendszerek tervezett redundanciájának és függetlenségének legalább olyannak kell lennie, hogy
+## 3.3.1.0100. A biztonsági osztályba sorolt rendszerek és rendszerelemek tervezése során a megkövetelt tervezési kritériumok teljesítése érdekében elsősorban a redundancia, diverzitás, fizikai és villamos betáplálás szempontjából történő elválasztás, funkcionális elkülönítés és függetlenség, valamint – amennyiben szükséges – független adatkapcsolat és meghibásodás-védett tervezési elveket kell alkalmazni. Az ilyen rendszereket megbízható, minősített rendszerelemek alkalmazásával, szükség szerint független segédrendszerek kialakításával kell megtervezni.
 
-## a) teljesüljön az egyszeres hibatűrés követelménye, és
+## 3.3.1.0200. A biztonsági osztályba sorolt rendszerek és rendszerelemek tervezése során ésszerűen megvalósítható mértékben a passzív, inherensen biztonságos megoldásokat kell alkalmazni, amelyek biztosítják, hogy a rendszerek és rendszerelemek meghibásodása – külső beavatkozás nélkül is – biztonságos állapothoz vezet.
 
-## b) bármely egyedi rendszerelemnek az üzemből való kiesése ne okozza az elemzésekben feltételezett minimális redundancia elvesztését.
+## 3.3.1.0300. Valamely nukleáris biztonság szempontjából fontos rendszer vagy rendszerelem meghibásodása nem okozhatja egy nála magasabb biztonsági osztályba sorolt rendszer vagy rendszerelem meghibásodását.
 
-## 3.3.1.0200. A tervezésnek biztosítania kell, hogy a tervezési alap biztonsági rendszereinek működőképessége üzem közben bármikor, minden szempontból ellenőrizhető legyen az érzékelőtől a végső beavatkozó szervig. A követelmény teljesítése alóli kivételek indokoltságát igazolni kell.
+## 3.3.1.0400. Új atomerőművi blokk esetén ésszerűen megvalósítható mértékben egyszerű biztonsági rendszereket kell alkalmazni annak érdekében, hogy minimálisra csökkenjen:
 
-## 3.3.1.0300. A biztonsági rendszerek aktiválását és működtetését automatizált rendszerekkel kell biztosítani, vagy passzív rendszereket kell alkalmazni úgy, hogy a tervezési alapba tartozó kezdeti eseményt követő 30 percen belül ne legyen szükség operátori beavatkozásra. Bármilyen, a tervek által megkövetelt, a kezdeti eseményt követő 30 percen belüli kezelői beavatkozás indokoltságát és végrehajthatóságát igazolni kell.
+## a) az operátor által végzendő beavatkozások száma,
 
-## 3.3.1.0400. Az aktív biztonsági rendszereket, rendszerelemeket úgy kell tervezni, hogy szándékolatlan vagy indokolatlan üzembe lépésük ne veszélyeztesse egyik biztonsági funkciót sem. Ha ez nem valósítható meg, akkor megfelelő kiegészítő intézkedéseket kell alkalmazni.
+## b) a beavatkozások száma egy adott funkció ellátása érdekében,
 
-## 3.3.1.0500. Az atomreaktor automatikus leállítását és az aktív biztonsági rendszerek vezérlését végző reaktorvédelmi rendszer megfelelő tervezésével biztosítani kell, hogy az üzemeltető személyzet a kiépített operatív irányítási helyekről ne tudja megakadályozni az automatikus biztonsági működéseket sem normál üzem, sem várható üzemi események vagy tervezési üzemzavarok esetén, ugyanakkor a szükséges beavatkozásokat végre tudja hajtani.
+## c) a védelmi reteszelések szükségessége,
 
-## 3.3.1.0600. A biztonsági rendszerben használt programozott rendszereknek – a hasonló rendszerekre vonatkozó általános követelményeken túlmenően – teljesíteniük kell a következő követelményeket:
+## d) a működtetéshez szükséges, valamint a biztonsággal és a megbízhatósággal összefüggő rendszerelemek száma,
 
-## a) a legszigorúbb minőségbiztosítási követelményeket kielégítő, és megfelelő referenciákkal rendelkező hardver és szoftver eszközöket kell használni;
+## e) a karbantartás és az ellenőrzések igénye, és
 
-## b) a teljes fejlesztési folyamatot, beleértve a tervezési változtatások ellenőrzését, tesztelését és üzembe helyezését, szisztematikusan dokumentálni és értékelni kell; továbbá
+## f) a kiszolgáló rendszerek száma.
 
-## c) a számítógépes alapú rendszerek megbízhatóságának igazolása érdekében a számítógépes alapú rendszereket olyan szakértőkkel kell felülvizsgáltatni, akik függetlenek a tervezőtől és a szállítótól; amennyiben egy rendszer szükséges megbízhatósági szintje nem igazolható, akkor a hozzá rendelt biztonsági funkciók teljesítését diverz eszközökkel is biztosítani kell.
+## 3.3.1.0500. A biztonsági osztályba sorolt rendszereket és rendszerelemeket méretezni kell a természeti eredetű külső hatásokra legalább a 10–4/év ismétlődési gyakoriságnak megfelelően, amennyiben a rendszerelemnek az adott helyzetben biztonsági funkciója lehet.
 
-## 3.3.1.0700. A nukleáris biztonság érdekében tartalékokat kell beépíteni a biztonsági korlátok és a biztonsági rendszerek automatikus működésének beállítási értékei közé.
+## 3.3.1.0600. Biztosítani kell, hogy a biztonsági rendszerek, rendszerelemek, azok segédrendszerei a lehető legnagyobb mértékben védettek legyenek a belső és külső veszélyeztető tényezők hatásaitól, a meghibásodott rendszerek, rendszerelemek közötti kölcsönhatásoktól.
 
-## 3.3.1.0800. A 2. biztonsági osztályba sorolt, számítógép alapú rendszereknek a következő tulajdonságokkal kell rendelkezniük:
+## 3.3.1.0700. A közös okú meghibásodás lehetőségét figyelembe kell venni annak meghatározása során, hogy a redundancia, diverzitás, a fizikai elválasztás, valamint a funkcionális elkülönítés elveit hol és milyen módon kell alkalmazni a megkövetelt funkció és megbízhatóság megvalósításához.
 
-## a) determinisztikus működésű;
+## 3.3.1.0800. A tervezésnél alkalmazni kell az egyszeres hibatűrés követelményét. A rendszerelemek szándékolatlan működésének lehetőségét egy lehetséges meghibásodási módként kell kezelni. Passzív rendszerelem meghibásodását figyelembe kell venni, hacsak nem igazolható, hogy a passzív rendszerelem meghibásodása nagyon kis valószínűségű, vagy nem befolyásolja az adott funkciót.
 
-## b) a biztonsági funkciót megvalósító rendszer programja az eseményektől függetlenül, ciklikusan fut, meghatározott ciklusidővel;
+## 3.3.1.0900. Az F1 és a helyreállítás céljából nem megközelíthető F2 szintű biztonsági funkciót ellátó rendszereknek redundáns áganként önálló biztonsági villamos betáplálással kell rendelkezniük, továbbá a tervezett redundanciájuknak és függetlenségüknek legalább olyannak kell lenniük, hogy:
 
-## c) a mért, beolvasott adatok feldolgozásában nem vesz részt operációs rendszer vagy futtatókörnyezet;
+## a) a rendszerben fellépő egyszeres hiba ne okozhassa a védelmi funkció elvesztését, és
 
-## d) a bejövő adatok értékének változása nem hat ki az operációs rendszer, a futtató környezet és a felhasználói rendszer feladatainak elvégzési sorrendjére; továbbá
+## b) bármely egyedi rendszerelemnek az üzemből való kivétele ne okozza az elemzésekben feltételezett minimális redundancia elvesztését.
 
-## e) a beolvasott vagy külvilágból kapott adatok nincsenek hatással az operációs rendszer vagy a futtató környezet viselkedésére, működésére.
+## 3.3.1.1000. Biztosítani kell, hogy az F1 szintű biztonsági funkciót ellátó rendszerek működőképessége üzem közben ellenőrizhető legyen.
 
-## 3.3.2. Nyomástartó berendezések és csővezetékek
+## 3.3.1.1100. Az F1A szintű biztonsági funkciót ellátó rendszerek aktiválását és működtetését vagy automatizált rendszerekkel kell biztosítani, vagy passzív rendszereket kell alkalmazni úgy, hogy TA2-4 üzemállapotot eredményező kezdeti eseményt követő 30 percen belül ne legyen szükség operátori beavatkozásra. Ha a funkció ellátásához a kezdeti eseményt követő 30 percen belüli időszakra operátori beavatkozás kerül betervezésre, akkor igazolni kell, hogy az operátori beavatkozás automatikus működéssel vagy passzív rendszerek alkalmazásával nem helyettesíthető, továbbá igazolni kell azt is, hogy a tervezett beavatkozás az operátor által végrehajtható.
 
-## 3.3.2.0100. A nyomástartó berendezések és csővezetékek tervezésére vonatkozó követelményeket, szabványokat az adott rendszer, rendszerelem biztonsági osztályával összhangban kell alkalmazni.
+## 3.3.1.1200. Amennyiben a valószínűségi biztonsági célok elérése csak különlegesen nagy megbízhatóságú rendszerek alkalmazásával lenne biztosítható, akkor az ilyen biztonsági funkciót diverz módon kell ellátni.
 
-## 3.3.2.0200. A tervezőnek igazolnia kell, hogy az 1. és 2. biztonsági osztályba tartozó, nyomástartó berendezések és csővezetékek anyaga a terhelésnek megfelelő szívóssággal rendelkezik, az anyagban – a normál üzem, várható üzemi események és tervezési üzemzavarok során – új repedések nem keletkezhetnek. Igazolnia kell továbbá, hogy az anyagban már meglévő repedések az instabil repedésterjedéssel szemben megfelelő ellenállással rendelkeznek, ezáltal biztosított, hogy a betervezett rendszeres vizsgálatok a hibákat időben feltárják.
+## 3.3.1.1300. Az atomreaktor automatikus leállítását és az aktív biztonsági funkciót ellátó rendszerek vezérlését végző rendszer megfelelő tervezésével biztosítani kell, hogy az üzemviteli személyzet a kiépített operatív irányítási helyekről ne tudja megakadályozni az automatikus biztonsági működéseket sem TA1 üzemállapot, sem TA2-4 üzemállapotot eredményező események esetén, ugyanakkor a szükséges beavatkozásokat végre tudja hajtani.
 
-## 3.3.2.0300. A nyomástartó berendezések, csővezetékek tervezésekor figyelembe kell venni az anyagok fizikai, mechanikai tulajdonságainak neutronfluxus hatására történő megváltozását.
+## 3.3.1.1400. A biztonsági funkciót ellátó programozott rendszereknek – a programozott rendszerekre vonatkozó általános követelményeken túlmenően – teljesíteniük kell a következő követelményeket:
 
-## 3.3.2.0400. A nyomástartó berendezések és csővezetékek tervezésénél az alkalmazott szabványok keretein belül speciális követelmény, hogy
+## a) a legszigorúbb minőségbiztosítási követelményeket kielégítő referenciákkal rendelkező hardver és szoftver eszközöket kell használni,
 
-## a) a funkciójuknak, igénybevételüknek megfelelő, alakítható szívósságú, összetételükben szabványos anyagokat alkalmazzanak,
+## b) a teljes fejlesztési folyamatot, beleértve a tervezési változtatások ellenőrzését, tesztelését és üzembe helyezését szisztematikusan dokumentálni és értékelni kell,
 
-## b) a kötések számát minimalizálják, továbbá
+## c) a számítógépes alapú rendszerek megbízhatóságának igazolása érdekében a számítógépes alapú rendszereket olyan szakértőkkel kell felülvizsgáltatni, akik függetlenek a tervezőtől és a szállítótól, továbbá
 
-## c) a csővezetékek elemeinek összeillesztésénél hegesztett kötéseket alkalmazzanak, kivéve ahol
+## d) amennyiben egy rendszer szükséges megbízhatósági szintje nem igazolható, akkor a hozzárendelt védelmi funkciók teljesítését diverz eszközökkel is biztosítani kell.
 
-## ca) az üzemeltetési körülmények miatt oldható kötés szükséges, vagy
+## 3.3.1.1500. A biztonsági korlátok és a biztonsági funkciót ellátó rendszerek beállítási értékei között megfelelő tartalékot kell biztosítani.
 
-## cb) hegesztési munkák végzése tilos, vagy
+## 3.3.1.1600. A biztonsági osztályba sorolt rendszerek, rendszerelemek tervezése, kivitelezése és karbantartása során biztosítani kell, hogy minőségük és az általuk megvalósított biztonsági funkciók megbízhatósága megfeleljen osztályba sorolásuknak.
 
-## cc) igazolható, hogy az oldható kötés meghibásodása nem jár a szervezetlen szivárgás növekedésével, vagy primer vagy szekunder köri hűtőközeg-vesztéssel.
+## 3.3.1.1700. Az egyes biztonsági osztályokra meg kell határozni:
 
-## 3.3.2.0500. A rendszerek, rendszerelemek tervezésénél a mechanikai eredetű és az áramlás által keltett rezgéseket, valamint az általuk okozott romlási folyamatokat figyelembe kell venni. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezésekor a rezgéseket minimalizálni szükséges, majd az üzembe helyezés során igazolni kell, hogy a rezgések szintje nem haladja meg a tervezésnél figyelembe vett mértéket.
+## a) a tervezés, gyártás, szerelés és ellenőrzés során alkalmazandó megfelelő követelményeket és szabványokat,
 
-## 3.3.2.0600. Biztosítani kell az alapanyag és a hegesztett kötések szemrevételezési, roncsolásmentes vizsgálattal történő ellenőrzési, valamint tisztítási, lemosási és javítási lehetőségét.
+## b) a tartalék energiaforrásból való betáplálás szükségességét, a környezetállósági minősítés követelményeit,
 
-## 3.3.2.0700. A nyomástartó berendezéseket és csővezetékeket el kell látni ellenőrző és mérőműszerekkel a nyomás, a hőmérséklet, az üzemi közeg közegárama, szintje és kémiai összetétele, valamint az elmozdulások és a hermetikusság ellenőrzésére az általuk teljesített biztonsági funkció által meghatározott mértékben.
+## c) a nukleáris biztonság szempontjából fontos rendszerek rendelkezésre állásának vagy rendelkezésre nem állásnak feltételezését a determinisztikus biztonsági elemzésekben, és
 
-## 3.3.2.0800. Egy rendszerbe beépítendő szerelvények mennyiségét, helyét és típusát úgy kell meghatározni, hogy lehetséges legyen:
+## d) a minőségi követelményeket.
 
-## a) a normál üzemviteli útvonalak és paraméterek beállítása,
+## 3.3.2. Tervezés élettartamra
 
-## b) a tervezési alapban figyelembe vett üzemzavari szituációkban szükséges funkciók ellátása,
+## Tervezési élettartam
 
-## c) időszakos funkciópróbák elvégzése, valamint
+## 3.3.2.0100. Meg kell határozni az atomerőmű tervezett élettartamát és azt, hogy mely biztonsági vagy fizikai gát funkciót teljesítő rendszerelem élettartama határozza meg, vagy korlátozza ezt az élettartamot.
 
-## d) rendszerelemek kizárása karbantartáshoz és javításhoz.
+## 3.3.2.0200. Az élettartamot korlátozó degradációs folyamatok elemzésével bizonyítani kell, hogy a nem cserélhető rendszerelemek és a nem cserélendő passzív biztonsági és fizikai gát funkciót megvalósító rendszerelemek élettartama legalább olyan hosszú, mint az atomerőmű egészére meghatározott tervezett élettartam, figyelembe véve a teljes élettartam során várható terheléseket és öregedési folyamatokat.
 
-## 3.3.2.0900. A nyomás alatt álló berendezéseket, csővezetékeket, amennyiben a megengedettnél nagyobb nyomás alakulhat ki bennük, megfelelő nyomáshatároló eszközzel kell felszerelni. A nyomáshatároló eszközöket úgy kell megtervezni, hogy működésük esetén a környezetbe kikerülő radioaktív anyag mennyisége az ésszerűen elérhető legalacsonyabb szintű legyen.
+## 3.3.2.0300. Meg kell határozni, hogy milyen feltételek mellett teljesíthetők a tervezett élettartam alatt a nukleáris biztonsági követelmények.
 
-## 3.3.2.1000. Radioaktív közeget szállító, tároló berendezések, csővezetékek leürítőit és légtelenítőit oly módon kell kialakítani, hogy a radioaktív közeg elkülönített kezelése lehetővé váljék.
+## 3.3.2.0400. Amennyiben a rendszer, rendszerelem élettartama rövidebb, mint az atomerőmű tervezett élettartama, ezek felújíthatóságát, cserélhetőségét biztosítani kell.
 
-## 3.3.2.1100. Amennyiben egy nukleáris biztonság szempontjából fontos rendszer, rendszerelem kapcsolatban van egy olyan rendszerrel, rendszerelemmel, amelynek üzemi nyomása az előbbinél magasabb, akkor a rendszert, rendszerelemet ezen utóbbi rendszer, rendszerelem nyomásértékeire kell tervezni, vagy tervezési megoldásokkal kell gondoskodni arról, hogy még egyszeres meghibásodás esetén se lépje túl az alacsonyabb nyomásra tervezett rendszer, rendszerelem nyomása a tervezési értéket.
+## 3.3.2.0500. A leszerelés megkezdéséig és a leszerelés során funkciót ellátó rendszerek, rendszerelemek tervezett élettartamában figyelembe kell venni a leszereléshez szükséges időtartamot is.
 
-## 3.3.2.1200. Csak egyedi, különlegesen indokolt esetben, külön elemzés elvégzése esetén szabad varratokat alkalmazni olyan helyeken, ahol ezek hajlító-igénybevételnek vannak kitéve, és ahol a feszültség koncentrálódik. A nyomástartó berendezések, csővezetékek hegesztésénél teljes beolvadást biztosító kötést kell alkalmazni.
+## Szerkezeti anyagokkal kapcsolatos követelmények
 
-## 3.3.3. Vegyészet
+## 3.3.2.0600. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezésekor olyan szerkezeti anyagokat kell alkalmazni, amelyek:
 
-## 3.3.3.0100. Az atomerőművi blokk primer és szekunder köri, valamint segéd- és kiszolgáló rendszereinek kémiai vízüzemét meg kell tervezni, és a hűtő- és munkaközegek megfelelőségét számításokkal és elemzésekkel kell igazolni. A tervezésnél az alábbi szempontokat kell figyelembe venni:
+## a) kipróbáltak, megfelelnek a tervezési és környezeti feltételeknek,
 
-## a) a szerkezeti anyagokat, a konstrukciókat, az alkalmazott technológiai közegek és segédanyagok kémiai összetételét és kondicionálását harmonizáltan úgy kell megválasztani, hogy a korróziós hatások a tervezett mérték alatt maradjanak, és garantálják a berendezések integritását;
+## b) minőségi osztályuk, jellemzőik igazoltan a tervezésnél alkalmazott szabvány vagy tervezői specifikáció által megadott határértéken belüliek,
 
-## b) meg kell tervezni minden rendszerre a korróziótermékek, valamint az egyéb szennyezők eltávolításának folyamatát, és erre megfelelő módszereket kell kidolgozni, és eszközöket kell kiépíteni;
+## c) neutronsugárzásnak kitett rendszerek, rendszerelemek esetén a felaktiválódásra a lehető legkevésbé hajlamosak, szerkezetük pedig olyan, hogy felaktiválódás esetén a felaktiválódott részek helyben maradnak,
 
-## c) a hőhordozó hűtőközeg kémiai összetételét és a primer kör üzemvitelét úgy kell megválasztani és szabályozni, hogy a közegben levő radioaktív anyagok mennyisége mindenkor az ésszerűen elérhető legalacsonyabb szinten legyen, és olyan berendezéseket kell telepíteni, amelyek alkalmasak a hőátadó közeg radioaktív szennyezésektől és korróziótermékektől való megtisztítására;
+## d) a neutronsugárzásnak kitett ABOS 1. biztonsági osztályba sorolt rendszerelemek esetén anyagtulajdonságainak változása a lehető legkisebb és ellenőrizhető,
 
-## d) mintavételi rendszert kell megvalósítani és működtetni, hogy folyamatosan és reprezentatívan nyomon követhető legyen a nukleáris biztonság szempontjából fontos vízüzemi paraméterek változása, időben jelezhetők legyenek a nemkívánatos vízkémiai és korróziós folyamatok, a korróziótermékek felhalmozódása és aktivitások változása, a fűtőelem-burkolatok inhermetikussá válása; valamint
+## e) degradációs folyamataik az adott körülmények között és közegben ismertek, a degradáció a tervezett élettartamon belül a funkciót nem korlátozza,
 
-## e) biztosítani kell minden, az atomerőműben alkalmazott technológiai közeg és segédanyag mintavételét, és a minták minőségbiztosítási követelményeknek megfelelő elemzését, és a mintavételi és elemzési eljárásokat úgy kell kialakítani, hogy a mintavételi rendszerből származó minta reprezentatív, a mintavétel kellően gyakori és a nukleáris biztonság szempontjából visszahatásmentes legyen.
+## f) olyan felületi kiképzést tesznek lehetővé, amelyek az üzemeltetés és a leszerelés során a lehető legnagyobb mértékben dekontaminálhatók, továbbá
 
-## 3.3.3.0200. Az atomerőművi blokk vízüzemét úgy kell megtervezni és működtetésének a paramétereit megállapítani, hogy a lehető legkevesebb radioaktív hulladék keletkezzen, és érvényesüljenek a környezetvédelem szempontjai.
+## g) tűzállóak.
 
-## 3.3.3.0300. A vízüzemek szabályozására alkalmazott vegyszerek koncentrációját, a vízüzemek korróziót befolyásoló paramétereit úgy kell megválasztani, valamint a szennyezőanyagok és korróziótermékek koncentrációját olyan szinten kell meghatározni, hogy azok az adott hőmérséklet, nyomás és áramlási viszonyok mellett az ésszerűen elérhető legalacsonyabb szintű káros hatást gyakorolják az alkalmazott szerkezeti anyagokra normál üzem, várható üzemi események és tervezési üzemzavarok során egyaránt.
+## 3.3.2.0700. A tervezés során az élettartamot korlátozó degradációs folyamatok elemzésével bizonyítani kell, hogy
 
-## 3.3.3.0400. A korróziót befolyásoló paraméterek, és a reaktivitást lekötő, neutronelnyelő anyag koncentrációváltozásával járó pH-effektust korrigáló vegyszerek koncentrációjának szabályozásánál figyelembe kell venni a radiolitikus reakciók hatását.
+## a) a szerkezeti anyagok szilárdsági tulajdonságai az öregedés hatása ellenére megfelelnek a TA1-4 üzemállapotokra számított maximális terheléseknek az üzemállapotra előírt biztonsági tartalékok figyelembevételével; és
 
-## 3.3.3.0500. A vízüzemek tervezésekor elemezni kell a korróziót befolyásoló paramétereknek és a korróziótermékeknek a szerkezeti anyagokra gyakorolt hatását, és meg kell határozni a korróziótermékek koncentrációjának határértékeit, valamint a nukleáris biztonság szempontjából fontos rendszerekben, rendszerelemekben levő lerakódások megengedett mértékeit, amelyek nem veszélyeztethetik a biztonságos üzemeltetést. Meg kell tervezni a szükséges intézkedéseket, eszközöket és eljárásokat a határértékek átlépésének megakadályozására és a normaértékek visszaállítására.
+## b) a kritikus szerkezetekben a törésmechanika követelmények is teljesülnek.
 
-## 3.3.3.0600. Víztisztító rendszereket kell tervezni és létrehozni az alábbi célokkal és szempontok figyelembevételével:
+## 3.3.2.0800. A tervezés során az anyagkiválasztáskor be kell tartani a katasztrofális meghibásodás elleni kritériumokat. Vizsgálni kell az összes jellemző törési mechanizmust az érintett rendszerelemeknél.
 
-## a) a környezetbe kibocsátott radioaktív anyagok mennyiségének és koncentrációjának normál üzem, várható üzemi események és tervezési üzemzavarok során a hatósági korlátok alatt kell maradnia;
+## 3.3.2.0900. A tervezés során a szerkezeti anyagok kiválasztásakor, az anyag- vagy termékszabványoknak megfelelően, meg kell határozni az ellenőrzéseket, anyagvizsgálatokat és a bizonylatolás követelményeit.
 
-## b) a tisztítási folyamatok során a lehető legkevesebb radioaktív hulladék keletkezhet, valamint érvényesülnie kell az ALARA-elvnek;
+## 3.3.2.1000. Új anyagok és gyártási módszerek esetén minősítési eljárást kell lefolytatni, amely alapján a felhasználás céljának és követelményeinek való megfelelés igazolható.
 
-## c) a tisztítórendszerek kapacitásának garantálni kell a rendszerekben lévő korróziótermékek mennyiségének nukleáris biztonsági szempontból állandó, megfelelően alacsony, elfogadható értékét; és
+## 3.3.2.1100. Biztosítani kell, hogy a konténmentben használt anyagok fizikai-kémiai tulajdonságai megakadályozzák a TA2-4 üzemállapotot eredményező események során a jelentős mértékű hidrogénképződést.
 
-## d) a tisztítási technológiáknak biztosítaniuk kell, hogy az érintett szerkezeti anyagok felületén a passzív védőréteg megmarad, vagy ismét kialakul.
+## 3.3.2.1200. A tervezés során a szerkezeti anyagokkal kapcsolatban be kell tartani az alábbi követelményeket:
 
-## 3.3.4. Építmények, épületszerkezetek tervezése
+## a) hegesztendő ausztenites öntvények esetén a delta-ferrit tartalmat korlátozni és ellenőrizni kell,
 
-## 3.3.4.0100. A tervezésnek biztosítania kell, hogy normál üzem, várható üzemi események és tervezési üzemzavarok során fellépő terheléseket az egyes szerkezeti elemek el tudják viselni. Az építmények tervezésekor figyelembe kell venni a telephelyvizsgálatok alapján várható környezeti hatásokat is. Úgy kell az építményeket megtervezni, hogy a tervezési alapba tartozó igénybevételeket elviseljék.
+## b) a nehezen vizsgálható ausztenites öntvények alkalmazása esetén elemezni kell a hőmérsékleti öregedéssel szembeni ellenállást,
 
-## 3.3.4.0200. Az építményeknek meg kell felelniük a radioaktív anyagok jelenlétéből és tulajdonságaiból, valamint a biológiai védelem szükségességéből adódó igényeknek.
+## c) rézötvözetek alkalmazása a tápvíz-, főgőz- és kondenzátum-rendszer üzemi közegeivel érintkező rendszerelemekben nem megengedett,
 
-## 3.3.4.0300. Ahol szükséges, megfelelő mintavételezési és monitorozási lehetőségeket kell kialakítani annak érdekében, hogy az épületszerkezetek megfelelősége az élettartamuk alatt folyamatosan ellenőrizhető legyen.
+## d) gőz- és nagysebességű vízrendszerekben eróziós korróziónak ellenálló anyagokat kell alkalmazni, továbbá
 
-## 3.3.4.0400. A tervezésnek az atomerőművi blokk biztonsági funkcióval bíró építményeinek megfelelő szerkezeti kialakításával minimalizálnia kell azok földrengés során fellépő igénybevételeit. Az épületszerkezeteknek rugalmas-képlékeny alakváltozás tartományban működve rendelkezniük kell energiadisszipáló képességgel. A rideg sérülési módot megfelelő konstrukciós megoldással ki kell zárni. Biztosítani kell, hogy a vízszintes merevítések és födémek átvigyék a földrengésterheket a csatlakozó laterális teherviselő épületszerkezetekre, továbbá az építmény alapozása elviselje és egyenletesen átvigye a földrengés alatt a felszerkezet által okozott terheket az altalajra. A szomszédos építményekkel való kölcsönhatást ki kell zárni.
+## e) vízüzemi közeggel érintkező szénacél rendszerelemek esetén az általános korróziós folyamatokra a szilárdsági elemzésekben meghatározott falvastagság tartalékot kell előirányozni.
 
-## 3.3.4.0500. A földrengésre való méretezést az atomerőművi blokk földrengés-biztonsági osztályba sorolt építményeire és azok épületszerkezeteire elfogadott módszertan és szabványi előírások szerint kell végezni. A földrengés-biztonsági osztályba sorolásra és a terheléskombinációkra vonatkozó követelményeket a 3.3.11. pont tartalmazza.
+## 3.3.2.1300. A tervezés során az alkalmazott anyagok kiválasztásakor figyelembe kell venni az atomerőmű tervezett leszerelésének alábbi szempontjait is:
 
-## 3.3.4.0600. Az építmények és azok épületszerkezetei földrengésállóságához szükséges tervezési input megállapításának alapja a szabadfelszíni válaszspektrum, és ennek ismeretében kell az építmények alapozási mélységére visszaszámolni a földrengés okozta talajmozgást.
+## a) a leszerelési stratégiában meghatározott hosszú idejű tárolhatóság az atomerőműben,
 
-## 3.3.4.0700. Dinamikai elemzésekkel kell igazolni az építmények tartószerkezeteinek megfelelő teherbíró képességét a biztonsági földrengésnek megfelelő talajmozgások által okozott terhekre. A dinamikai elemzés metodikájának és a modellezés bonyolultságának összhangban kell lennie az atomerőművi blokk kockázatával és ezen belül az épületszerkezet biztonsági és földrengés-biztonsági osztályával, a szerkezet funkciójával és a várt számítási eredmények felhasználásának céljával.
+## b) ellenálló-képesség az atomerőműben alkalmazott vegyi anyagokkal szemben,
 
-## 3.3.4.0800. A talaj-építmény kölcsönhatás modellezésénél kezelni kell az építmény beágyazását, a számításba vett talaj mélységét, rétegződését, dinamikai tulajdonságait és az azt terhelő bizonytalanságot.
+## c) kopásállóság, ami lehetővé teszi a megfelelő dekontaminálást az élettartam végén is, továbbá
 
-## 3.3.4.0900. A teherbírás ellenőrzését a nukleáris iparban elfogadott szabványok szerint kell elvégezni. Az épületszerkezet konstrukciós kialakításából származtatható elmozdulásokra, alakváltozásokra vonatkozó korlátok teljesülését értékelni kell.
+## d) az üzemelés során felaktiválódó anyagok esetén – a leszerelés tervezett ütemezésével összhangban – a lehető legrövidebb felezési idő.
 
-## 3.3.4.1000. A földművek tervezését a tárgykörre vonatkozó szabványok szerint kell elvégezni az adott atomerőművi blokk tervezési alapjába tartozó földrengésből származó hatások figyelembevételével.
+## Vegyészet
 
-## 3.3.5. Rendszerelemek környezetállósági minősítése
+## 3.3.2.1400. Az atomerőművi blokk primer és szekunder köri, valamint segéd- és kiszolgáló rendszereinek vízüzemét úgy kell megtervezni, hogy
 
-## 3.3.5.0100. Minősítési eljárásokat kell alkalmazni annak igazolására, hogy a nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek képesek ellátni a funkciójukat az atomerőművi blokk élettartama alatt normál üzemi, várható üzemi események és tervezési üzemzavarok során fennálló környezeti feltételek mellett, amennyiben működésük ekkor szükséges.
+## a) az alkalmazott technológiai közegek és segédanyagok kémiai összetétele és kondicionálása összhangban legyen a szerkezeti anyagokkal, a konstrukcióval;
 
-## 3.3.5.0200. A nukleáris biztonság szempontjából fontos rendszerelemeket úgy kell megtervezni, legyártani, környezeti igénybevételeikre és földrengésre minősíteni, a minősítéskor degradációs mechanizmusaikat feltárni, majd üzemeltetésük során karbantartani, hogy minőségük és megbízhatóságuk az üzemeltetés során elszenvedett esetleges degradációk ellenére is az osztályba sorolásuknak megfelelő legyen.
+## b) a korróziós hatások a tervezett mérték alatt maradjanak, és garantálják a rendszerelemek integritását; valamint
 
-## 3.3.5.0300. A passzív rendszerelemek, nyomáshatárt jelentő rendszerelemek földrengés-állóságát a megfelelő tervezéssel kell biztosítani. Az aktív gépésztechnológiai, valamint a villamos és irányítástechnikai rendszerelemek földrengés-állósági minősítését teszttel vagy empirikus módszerrel kell elvégezni.
+## c) a közegben levő radioaktív anyagok mennyisége mindenkor az ésszerűen elérhető legalacsonyabb szinten legyen.
 
-## 3.3.5.0400. A nukleáris biztonság szempontjából fontos rendszerelemek tervezése során a kezdeti minősítést valamennyi lehetséges károsító folyamat figyelembevételével kell elvégezni. A minősítési eljárás alapján meg kell határozni azokat a normál üzemi, a várható üzemi események és a tervezési üzemzavarok során fellépő környezeti feltételeket, amelyek fenntartása esetén a minősítés érvényes.
+## 3.3.2.1500. A hűtő- és munkaközegek megfelelőségét számításokkal, elemzésekkel kell igazolni figyelembe véve az atomerőmű tervezett élettartamát.
 
-## 3.3.5.0500. Az elárasztásra akkor kell minősíteni, ha az bekövetkezhet a rendszer, rendszerelem felszerelésének helyén és az egyszeres meghibásodás kritériumának használatával nem lehet ellene védekezni.
+## 3.3.2.1600. Mintavételi rendszert kell betervezni, hogy nyomon követhető legyen a biztonság szempontjából fontos vízüzemi paraméterek változása, időben jelezhetők legyenek a nemkívánatos vízkémiai és korróziós folyamatok, a korróziótermékek felhalmozódása és aktivitásuk változása, továbbá az üzemanyag-burkolatok inhermetikussá válása. A tervben biztosítani kell, hogy a mintavételi rendszerből származó minta reprezentatív és a biztonság szempontjából visszahatásmentes legyen.
 
-## 3.3.5.0600. Amennyiben az elektromágneses hatások veszélyeztethetik valamely nukleáris biztonság szempontjából fontos rendszer, rendszerelem funkcionalitását és azok fellépése lehetséges, akkor ezt a minősítési eljárás során figyelembe kell venni.
+## 3.3.2.1700. Meg kell tervezni minden rendszerre a korróziótermékek, radioaktív szennyeződések, valamint az egyéb szennyezők eltávolításának folyamatát, és erre megfelelő módszereket kell kidolgozni, és eszközöket kell tervezni.
 
-## 3.3.5.0700. Még a tervezés időszakában kell elemezni, értékelni és szükség szerint környezeti minősítéssel meghatározni a nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek megengedhető élettartamát, amennyiben azok cseréje nem tervezett vagy nem megvalósítható.
+## 3.3.2.1800. A vízüzemek szabályozására alkalmazott vegyszerek koncentrációját, a vízüzemek korróziót befolyásoló paramétereit úgy kell megválasztani, valamint a szennyezőanyagok és korróziótermékek koncentrációját olyan szinten kell meghatározni, hogy azok az adott hőmérséklet, nyomás és áramlási viszonyok mellett az ésszerűen elérhető legalacsonyabb szintű káros hatást gyakorolják az alkalmazott szerkezeti anyagokra, az atomerőművi blokk minden tervezett üzemállapotában.
 
-## 3.3.5.0800. A 2. biztonsági osztályba sorolt villamos és irányítástechnikai rendszerekben, rendszerelemekben csak – az alkalmazás helyének és az elvárt funkcionalitás időpontjában várható környezetnek megfelelően – bevizsgált, egyedi vagy típusminősítéssel rendelkező hardverelemek használata megengedett.
+## 3.3.2.1900. A vízüzemek tervezésekor elemezni kell a korróziót befolyásoló paramétereknek és a korróziótermékeknek a szerkezeti anyagokra gyakorolt hatását. Meg kell határozni a korróziótermékek koncentrációjának határértékeit, a nukleáris biztonság szempontjából fontos rendszerekben, rendszerelemekben levő lerakódások megengedett mértékeit, amelyek nem veszélyeztethetik a biztonságos üzemeltetést. Meg kell tervezni a szükséges intézkedéseket, eszközöket és eljárásokat a határértékek átlépésének megakadályozására és esetleges átlépés esetén a normaértékek visszaállítására.
 
-## 3.3.5.0900. Gépészeti rendszerelemek esetén a nemfémes, az építészeti rendszerelemek esetén a nembeton és nemfémes elemek alkalmasságának igazolását minősítéssel kell végezni.
+## 3.3.2.2000. A korróziót befolyásoló paraméterek, a reaktivitást lekötő, neutronelnyelő anyag koncentrációváltozásával járó pH-effektust korrigáló vegyszerek koncentrációjának szabályozásánál figyelembe kell venni a radiolitikus reakciók hatását.
 
-## 3.3.5.1000. Baleset kezelésénél, következményeinek enyhítésénél szerepet játszó rendszerek és rendszerelemek minősítési eljárása során, a baleset közben feltételezhető legvalószínűbb körülmények és terhelések mellett igazolni kell azok szükséges ideig fennálló működőképességét.
+## 3.3.2.2100. Víztisztító rendszereket kell tervezni annak elősegítése érdekében, hogy a környezetbe kibocsátott radioaktív anyagok mennyisége és koncentrációja minden tervezett üzemállapotban a korlátok alatt, az ésszerűen elérhető legalacsonyabb szinten maradjon. Biztosítani kell, hogy a tisztítási folyamatok során keletkező radioaktív hulladék mennyisége és aktivitása az ésszerűen elérhető legalacsonyabb legyen.
 
-## 3.3.5.1100. Ha a rendszernek, rendszerelemnek üzemzavari helyzet kialakulása után ellenőrző vagy következménycsökkentő funkciója van, akkor mind az üzemzavar, mind az azt követő állapotok elviselésére minősíteni kell.
+## 3.3.2.2200. A víztisztító rendszerek kapacitásának garantálni kell, hogy a rendszerekben lévő korróziótermékek mennyisége állandóan a terv szerint megengedett, megfelelően alacsony szinten legyen.
 
-## 3.3.6. Karbantartás, felülvizsgálat, ellenőrzés és ciklusidők
+## 3.3.2.2300. Olyan tisztítási technológiákat kell alkalmazni, melyek biztosítják, hogy az érintett szerkezeti anyagok felületén a passzív védőréteg megmarad, vagy ismét kialakul.
 
-## 3.3.6.0100. A tervezés során biztosítani kell a lehetőséget minden nukleáris biztonság szempontjából fontos rendszer, rendszerelem üzem közbeni vagy rendszeres időszakonkénti műszeres ellenőrzésére, felülvizsgálatára, a szerkezeti épség, tömörség megállapítása, funkciópróbájuk, anyagvizsgálati programjuk végrehajtására a sugárzás hatásának, a szerkezeti anyagok öregedésének meghatározása és működőképességük, funkció-ellátási képességük teljességének ellenőrzése céljából. Amennyiben ez nem biztosítható, akkor vagy további tervezési intézkedések szükségesek a hiányosság ellensúlyozására, vagy igazolni kell, hogy a megfelelően hosszú ideig tartó működés fenntartható.
+## Rendszerelemek környezetállósági minősítése
 
-## 3.3.6.0200. Azokon a területeken, ahol az atomerőművi blokk tervezése során figyelembe vett anyagjellemzők és paraméterek valamilyen körülmények hatására megváltozhatnak, ott e jellemzők és paraméterek rendszeres ellenőrizhetősége érdekében meg kell határozni a megfelelőségi értékeket, és megfelelő beavatkozási tervvel kell rendelkezni a megfelelőségi értékektől való eltérés esetére.
+## 3.3.2.2400. A tervezés során meg kell határozni a TA üzemállapotokban, a külső és belső veszélyeztető tényezők hatására kialakuló környezeti körülményeket, hatásokat, amelyek között a rendszereknek, rendszerelemeknek teljesíteniük kell a biztonsági és a fizikai gát funkcióikat. A terv által meghatározott terjedelemben meg kell határozni a környezeti körülményeket a tervezési alap kiterjesztését képező állapotokra is.
 
-## 3.3.6.0300. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek funkciópróbájának ciklusidejét, felülvizsgálatának gyakoriságát, lefolytatásának követelményeit, karbantartásának módozatát és feltételeit a tervezés során úgy kell meghatározni és megalapozni, hogy összhangban legyen a rendszer, rendszerelem tervezési elveivel, konstrukciójával, biztonsági funkciójával és osztályba sorolásával.
+## 3.3.2.2500. Minősítési eljárásokat kell alkalmazni annak igazolására, hogy a nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek képesek ellátni a funkciójukat az atomerőmű élettartama alatt a TA1-4 üzemállapotot eredményező események során fennálló környezeti feltételek mellett, amennyiben működésük ekkor szükséges.
 
-## 3.3.6.0400. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek ellenőrzését, tesztelését és felülvizsgálatát úgy kell megszervezni, és végrehajtani, hogy minden biztonsági funkció a nukleáris biztonság igazolása során feltételezett megbízhatósággal teljesüljön.
+## 3.3.2.2600. Passzív fémes és beton rendszerelemek környezetállóságát tervezéssel kell biztosítani. A környezetállóságot szükség esetén elemzésekkel kell igazolni.
 
-## 3.3.7. Öregedéskezelés
+## 3.3.2.2700. A nem fémes, nem beton rendszerelemek, valamint az aktív rendszerelemek alkalmasságát egyedi vagy típusminősítéssel kell igazolni.
 
-## 3.3.7.0100. Öregedéskezelési rendszert kell kidolgozni és működtetni az atomerőművi blokk teljes üzemideje alatt, és össze kell hangolni a karbantartási folyamatokkal, a rendszerelemek minősítési eljárásaival.
+## 3.3.2.2800. A rendszerelem tervezői minősítésekor figyelembe kell venni az üzem alatti öregedési mechanizmusokat, és igazolni kell, hogy az öregedési hatások ellenére a tervezett üzemidejük végén is képesek a megkövetelt megbízhatósággal funkciójukat teljesíteni.
 
-## 3.3.7.0200. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezésekor vizsgálni kell a várható öregedési folyamatokat és azok hatásait. Igazolni kell – az eredeti állapot és az öregedési folyamatok lehetséges bizonytalanságainak figyelembevételével –, hogy a választott anyagok öregedési folyamatai a tervezett élettartam során nem gátolják a rendszereket, rendszerelemeket biztonsági funkcióik teljesítésében.
+## 3.3.2.2900. A tervben meg kell határozni a minősített állapot fenntartásának módját, feltételeit.
 
-## 3.3.7.0300. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezésekor a választott szerkezeti anyagok tulajdonságainak az öregedési folyamatok következtében beálló változását a nukleáris biztonsági hatóság által elfogadott módszertan és kritériumok szerint értékelni kell. E módszertan alapján, még a tervezés időszakában kell elemezni, értékelni és meghatározni a rendszerek, rendszerelemek megengedhető élettartamát, integrált üzemidejét, működésének, igénybevételének ciklusszámát. Meg kell határozni azokat a feltételeket és korlátokat, amelyeken belül a nukleáris biztonság szempontjából fontos rendszer, rendszerelem teljes körűen működőképes, funkcióját teljes körűen el tudja látni, és ennek alapján megfelelő korlátot kell érvényesíteni az ilyen rendszerek, rendszerelemek megengedhető üzemidejére, vagy működésének, igénybevételének ciklusszámára.
+## 3.3.2.3000. Az elárasztásra és tűzre akkor kell minősíteni, ha azok bekövetkezhetnek a rendszerelem felszerelésének helyén, és a biztonsági funkciók teljesítésének igazolásához az ilyen eseményeket az egyszeres hibakritérium alkalmazása mellett nem lehet kizárni.
 
-## 3.3.7.0400. A nukleáris biztonság szempontjából fontos rendszerekre, rendszerelemekre a tervezés során egyértelmű működési mutatókat, kritériumokat kell meghatározni az elhasználódási állapotuk, üzemben tarthatósági feltételeik és maradék élettartamuk meghatározásához.
+## 3.3.2.3100. Vizsgálni kell, hogy az elektromágneses hatások veszélyeztethetik-e valamely biztonsági funkció ellátását. Biztosítani kell, hogy a biztonsági funkció ellátását ilyen hatások ne befolyásolhassák.
 
-## 3.3.7.0500. A nukleáris biztonság szempontjából fontos rendszerekre, rendszerelemekre ki kell dolgozni az öregedéskezelés tervezői előírásait, amelyek kiterjednek:
+## 3.3.2.3200. Ha a rendszerelemnek üzemzavari helyzet kialakulása után ellenőrző vagy következménycsökkentő funkciója van, akkor mind az üzemzavar, mind az azt követő állapotok elviselésére minősíteni kell.
+
+## 3.3.2.3300. Baleset kezelésénél, következményeinek enyhítésénél szerepet játszó rendszerek és rendszerelemek minősítési eljárása során, a súlyos baleset közben feltételezhető legvalószínűbb körülmények és terhelések mellett, igazolni kell azok szükséges ideig fennálló működőképességét.
+
+## Karbantartás, felülvizsgálat, ellenőrzés
+
+## 3.3.2.3400. Meg kell határozni minden nukleáris biztonság szempontjából fontos rendszer, rendszerelem esetében az üzem közbeni vagy rendszeres időszakonkénti ellenőrzés, felülvizsgálat, anyagvizsgálat programját, a szerkezeti épség, a tömörség-ellenőrzés és a funkciópróbák módját és gyakoriságát, a tervszerű megelőző karbantartásra és más karbantartási stratégiákra vonatkozó tervezői előírásokat.
+
+## 3.3.2.3500. Meg kell határozni a működőképességet, megfelelőséget jellemző paramétereket. Ezekre a paraméterekre meg kell adni a megfelelőségi kritériumokat, amelyek teljesülését a vizsgálatok, ellenőrzések során mérni, ellenőrizni kell. Az elfogadható értékektől való eltérés esetére meg kell tervezni a szükséges intézkedéseket, beleértve a karbantartási programok módosítását.
+
+## 3.3.2.3600. A tervezés során, amennyiben a vizsgálatok, ellenőrzések végrehajtása nem biztosítható a szerkezet takarása, a hozzáférés korlátos volta miatt, akkor vagy tervezési megoldások szükségesek a korlátozott hozzáférés ellensúlyozására, vagy igazolni kell, hogy a tervezett ideig tartó működés ellenőrzés, felügyelet nélkül fenntartható.
+
+## 3.3.2.3700. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek funkciópróbájának ciklusidejét, felülvizsgálatának gyakoriságát, lefolytatásának követelményeit, karbantartásának módját és feltételeit a tervezés során úgy kell meghatározni és megalapozni, hogy
+
+## a) az összhangban legyen a rendszer, rendszerelem tervezési elveivel, konstrukciójával,
+
+## b) biztosítsa, hogy az adott biztonsági funkció a rendszer, rendszerelem próbája, felülvizsgálata, karbantartása mellett megbízhatóan megvalósul, valamint
+
+## c) a rendszer, rendszerelem próba, felülvizsgálat, karbantartás miatt történő üzemből való kivétele a nukleáris biztonság szempontjából tolerálható legyen, a felülvizsgálat, próba, karbantartás gyakorisága nem vezethet a nukleáris biztonság csökkenéséhez.
+
+## 3.3.2.3800. A tervezés során meg kell határozni a rendszerelemek gyártóművi, átvételi vizsgálataira vonatkozó előírásokat. A gyártás közbeni ellenőrzési módszereknek a későbbi összehasonlíthatóság érdekében illeszkedni kell az üzem közben tervezett vizsgálati módszerekhez. Külön előírásokat kell meghatározni azon rendszerelemek gyártás során elvégzendő vizsgálataira, amelyek esetében az ellenőrzés a rendszerelem üzemeltetése során nem végezhető el hozzáférés hiányában vagy a rendszerelemek felaktiválódása miatt.
+
+## Öregedéskezelés
+
+## 3.3.2.3900. Azonosítani kell az öregedési folyamatokat, azok jellemzőit minden biztonsági osztályba sorolt rendszerelem esetében, és meg kell adni az üzemeltetés során végrehajtandó öregedéskezelési program, és rendszer kidolgozásához szükséges adatokat és módszereket. A tervező által meghatározott öregedéskezelési rendszernek összhangban kell lenni a karbantartási programokkal, a rendszerelemek minősítésével és a minősített állapot fenntartását szolgáló programokkal.
+
+## 3.3.2.4000. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezésekor vizsgálni kell a várható öregedési folyamatokat és azok hatásait. Igazolni kell – az eredeti állapot és az öregedési folyamatok lehetséges bizonytalanságainak figyelembe- vételével –, hogy az alkalmazott szerkezeti anyagok öregedési folyamatai a tervezett élettartam során nem gátolják a rendszereket, rendszerelemeket biztonsági funkcióik teljesítésében.
+
+## 3.3.2.4100. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezésekor a választott szerkezeti anyagok tulajdonságainak az öregedési folyamatok következtében bekövetkező változását értékelni kell. Meg kell határozni a rendszerek, rendszerelemek megengedett élettartamát, integrált üzemidejét, igénybevételének ciklusszámát.
+
+## 3.3.2.4200. A nukleáris biztonság szempontjából fontos rendszerekre, rendszerelemekre a tervezés során egyértelmű működési mutatókat, kritériumokat kell meghatározni, az elhasználódási állapotuk, üzemben tarthatósági feltételeik és maradék élettartamuk meghatározásához.
+
+## 3.3.2.4300. A nukleáris biztonság szempontjából fontos rendszerekre, rendszerelemekre ki kell dolgozni az öregedéskezelés előírásait. Az előírásoknak ki kell terjednie:
 
 ## a) a nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek öregedési helyeinek és az azokon várható öregedési folyamatok azonosítására,
 
 ## b) az öregedési folyamatok várható előrehaladásának becslésére,
 
-## c) az öregedési folyamatok kezeléséhez az üzemeltetés során szükséges karbantartási, felügyeleti, próba- és monitorozási tevékenységre, valamint
+## c) az öregedési folyamatok kezeléséhez szükséges karbantartási, felügyeleti, próba- és monitorozási tevékenységre, valamint
 
 ## d) az öregedési és állapotromlási folyamatok lassítására, kedvezőtlen hatásainak csökkentésére szolgáló intézkedések meghatározására.
 
-## 3.3.7.0600. A primer kör nyomástartó határának azon részeire, amelyek nagy neutronsugárzásnak vagy más öregedési folyamatnak vannak kitéve, az alkalmazott anyagokban végbemenő öregedési folyamatok ellenőrzése érdekében felügyeleti programot kell kidolgozni és végrehajtani.
+## 3.3.2.4400. A primer kör nyomástartó berendezéseinek és csővezetékeinek azon részeire, amelyek nagy neutronsugárzásnak vagy más öregedési folyamatnak vannak kitéve, az alkalmazott anyagokban végbemenő öregedési folyamatok ellenőrzése érdekében felügyeleti programot kell kidolgozni és végrehajtani.
 
-## 3.3.8. Szerkezeti anyagok kiválasztása
+## 3.3.3. Nyomástartó berendezés és csővezeték tervezése
 
-## 3.3.8.0100. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezésekor olyan szerkezeti anyagokat kell alkalmazni, amelyek:
+## 3.3.3.0100. A tervezés során a TA1-4 üzemállapotokra – beleértve a külső és belső veszélyeztető tényezők által kiváltott hatásokat – meg kell határozni az üzemi körülményeket és a mechanikai terheket, terhelési ciklusokat.
 
-## a) kipróbáltak, megfelelősségük igazolt,
+## 3.3.3.0200. A méretezést megalapozó, a rendszerelemek megfelelőségét alátámasztó számításokat egységes, a nukleáris iparban elfogadott előírásrendszer, szabvány szerint, a rendszerek, rendszerelemek biztonsági osztályának megfelelően kell elvégezni. Be kell mutatni a méretezést alátámasztó számításokat, az egyes terhelési esetekre végzett ellenőrző elemzéseket, továbbá a tervezés során feltételezett körülményeket, megfontolásokat.
 
-## b) jellemzőik igazoltan pontosak, határértéken belüliek,
+## 3.3.3.0300. Kerülni kell a különböző szabványok, előírás-rendszerek szerint tervezett nyomástartó berendezés és csővezeték alkalmazását. Amennyiben ilyen előfordul, a különböző előírásrendszerek alapján méretezett nyomástartó berendezés és csővezeték illesztésének, összeszerelésének lehetőségét külön elemzéssel kell alátámasztani.
 
-## c) neutronsugárzásnak kitett rendszerek, rendszerelemek esetén a felaktiválódásra a lehető legkevésbé hajlamosak, és szerkezetük olyan, hogy felaktiválódás esetén a felaktiválódott részek helyben maradnak,
+## 3.3.3.0400. A konténmentet mint nyomástartó berendezést kell méretezni és nyomástartó képességének rendszeres ellenőrzési lehetőségét biztosítani kell.
 
-## d) a neutronsugárzásnak kitett 1. biztonsági osztályba sorolt szerkezeti elemek anyagtulajdonságainak változása a lehető legkevesebb és ellenőrizhető,
+## 3.3.3.0500. Igazolni kell, hogy a B1 és B2 szintek szerinti fizikai gát funkciót teljesítő, ABOS 1. és 2. biztonsági osztályba sorolt rendszerelemek anyaga a terhelésnek megfelelő szívóssággal rendelkezik. Az anyagban – a TA1-4 üzemállapotokban – új repedések nem keletkezhetnek. Igazolni kell, hogy az anyagban már meglévő repedések az instabil repedésterjedéssel szemben megfelelő ellenállással rendelkeznek, ezáltal biztosított, hogy a betervezett rendszeres vizsgálatok a hibákat időben feltárják.
 
-## e) olyan felületi kiképzést tesznek lehetővé, amelyek az üzemeltetés és a leszerelés során a lehető legnagyobb mértékben dekontaminálhatók, és
+## 3.3.3.0600. A nyomástartó berendezés és csővezeték tervezésekor figyelembe kell venni az anyagok fizikai, mechanikai tulajdonságainak neutronfluxus hatására történő megváltozását.
 
-## f) tűzállóak.
+## 3.3.3.0700. A nyomástartó berendezés és csővezeték tervezésénél az alkalmazott szabványok keretein belül biztosítani kell, hogy
 
-## 3.3.8.0200. Az alkalmazott anyagok kiválasztásakor figyelembe kell venni a nukleáris létesítmény tervezett leszerelésének következő szempontjait:
+## a) a kötések számát minimalizálják, és
 
-## a) hosszú idejű tárolhatóság az atomerőművi blokkon belül,
+## b) a csővezetékek elemeinek összeillesztésénél hegesztett kötéseket alkalmazzanak, kivéve, ahol
 
-## b) ellenálló-képesség az alkalmazott vegyi anyagokkal szemben,
+## ba) az üzemeltetési körülmények miatt oldható kötés szükséges, vagy
 
-## c) kopásállóság, ami lehetővé teszi a megfelelő dekontaminálást az élettartam végén, valamint
+## bb) hegesztési munkák végzése tilos, vagy
 
-## d) az üzemelés során felaktiválódó anyagok esetén – a leszerelés tervezett ütemezésével összhangban – a lehető legrövidebb felezési idő.
+## bc) igazolható, hogy az oldható kötés meghibásodása nem jár a szervezetlen szivárgás növekedésével, vagy primer vagy szekunder köri hűtőközeg-vesztéssel.
 
-## 3.3.8.0300. A reaktortartály és az atomreaktor hűtőkörének nyomástartó határát alkotó rendszerek, rendszerelemek anyagait a legszigorúbb minőségi követelményeknek megfelelően kell tervezni, gyártani és vizsgálni.
+## 3.3.3.0800. Csak külön elemzés elvégzése esetén, egyedi, indokolt esetben, szabad varratokat alkalmazni olyan helyeken, ahol ezek hajlító-igénybevételnek vannak kitéve, és ahol a feszültség koncentrálódik. A nyomástartó berendezés és csővezeték hegesztésénél teljes beolvadást biztosító kötést kell alkalmazni.
 
-## 3.3.9. Emberi tényező
+## 3.3.3.0900. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek tervezésénél a mechanikai és az áramlás által keltett rezgéseket, valamint az általuk okozott romlási folyamatokat figyelembe kell venni. A rendszereket, rendszerelemeket úgy kell megtervezni, hogy a rezgések minimálisak legyenek. Az üzembe helyezés során bizonyítani kell, hogy a rezgések szintje nem haladja meg a tervezésnél megengedhetőként figyelembe vett mértéket.
 
-## 3.3.9.0100. Az üzemeltető személyzet munkaterületeit, munkakörnyezetét és az ember-gép kapcsolatot ergonómiai szempontból elemezni kell, és az elemzéseket figyelembe véve kell megtervezni.
+## 3.3.3.1000. A nyomástartó berendezést és csővezetéket az általa teljesített biztonsági funkció által meghatározott mértékben el kell látni ellenőrző és mérőműszerekkel a nyomás, a hőmérséklet, az üzemi közeg közegárama, szintje és kémiai összetétele, valamint az elmozdulások és a hermetikusság ellenőrzésére.
 
-## 3.3.9.0200. A rendszerek, rendszerelemek ember-gép kapcsolatát és ergonómiai kialakítását olyan módon kell megtervezni, hogy a megfelelően képzett üzemeltető személyzet – a feltételezett fizikai környezet és a várható pszichikai állapot figyelembevételével – szükség esetén az elvárt időtartam alatt képes legyen sikeresen beavatkozni.
+## 3.3.3.1100. Az egyes rendszerekbe beépítendő szerelvények mennyiségét, helyét és típusát úgy kell meghatározni, hogy lehetséges legyen:
 
-## 3.3.9.0300. Meg kell határozni a követelményeket és az elvégzendő feladatokat a munkavállalók számára. Ki kell dolgozni a különböző munkakörökre vonatkozó betanító és szinten tartó képzési programokat, és meg kell határozni a képzéshez szükséges eszközöket. Az üzemviteli személyzet számára teljesléptékű szimulátoros képzést is kell biztosítani.
+## a) a normál üzemviteli útvonalak és paraméterek beállítása,
 
-## 3.3.9.0400. El kell végezni a biztonsági funkciók teljesülése érdekében az üzemviteli személyzetre háruló feladatok elemzését. A tervezett operátori beavatkozásokat és azok megfelelő megbízhatóságú végrehajthatóságát validálni kell, különös tekintettel a tervezési üzemzavarok és a meghatározott baleseti helyzetek kezelésére. A validációt elsősorban a teljesléptékű szimulátoron kell végrehajtani. Ezek a vizsgálatok alapot képeznek az eljárások és az üzemeltető személyzet betanító és szinten tartó képzése terveinek kidolgozásához.
+## b) a biztonsági funkciók ellátása,
 
-## 3.3.9.0500. Annak érdekében, hogy az üzemeltető személyzet tagjai az atomerőművi blokk minden állapotában – a munkakörüknek megfelelő terjedelemben – teljes és hatékonyan feldolgozható információval rendelkezzenek, az érintett munkaterületeken megfelelően minősített mérőműszereket és hagyományos vagy számítógépes kijelzőket kell elhelyezni. A műszerezésnek biztosítania kell a hasadási folyamat, valamint az aktív zóna, a reaktor-hűtőrendszerek és a konténment integritása szempontjából minden jelentős paraméter mérését, az atomerőművi blokk megbízható és biztonságos üzemeltetéséhez szükséges információ rendelkezésre állását, valamint a nukleáris biztonság szempontjából fontos mért vagy származtatott paraméterek automatikus rögzítését.
+## c) időszakos funkciópróbák, időszakos ellenőrzési programok elvégzése, és
 
-## 3.3.9.0600. Megfelelő kommunikációs rendszert kell tervezni a különböző helyszínek között információáramlás és utasítástovábbítás céljára. Kommunikációs kapcsolatot kell biztosítani olyan külső szervezetekkel is, amelyeknek a tevékenységére szükség lehet normál üzem, várható üzemi esemény és tervezési üzemzavar, vagy baleset során.
+## d) a rendszerelemek kizárása a karbantartáshoz és a javításhoz.
 
-## 3.3.10. Elrendezés
+## 3.3.3.1200. A nyomástartó berendezéseket és csővezetékeket, amennyiben a megengedettnél nagyobb nyomás alakulhat ki bennük, megfelelő nyomáshatároló eszközzel kell felszerelni. A nyomáshatároló eszközöket úgy kell megtervezni, hogy működésük esetén a környezetbe kikerülő radioaktív anyag mennyisége az ésszerűen elérhető legalacsonyabb szintű legyen.
 
-## 3.3.10.0100. A rendszerek, rendszerelemek megkülönböztetésére jelölési rendszert kell kialakítani.
+## 3.3.3.1300. Amennyiben egy nukleáris biztonság szempontjából fontos rendszer, rendszerelem kapcsolatban van egy olyan rendszerrel, rendszerelemmel, amelynek üzemi nyomása az előbbinél magasabb, akkor a rendszert, rendszerelemet ezen utóbbi rendszer, rendszerelem nyomásértékeire kell tervezni, vagy tervezési megoldásokkal kell gondoskodni arról, hogy még egyszeres meghibásodás esetén se lépje túl az alacsonyabb nyomásra tervezett rendszer, rendszerelem nyomása a tervezési értéket.
 
-## 3.3.10.0200. A munkahelyeket megközelítő vagy a menekülésre szolgáló útvonalakat úgy kell méretezni, hogy a személyzet a védőfelszerelésben is könnyen tudjon mozogni. Megfelelő méretű és teherbírású, akadálytalan útvonalakat kell biztosítani a felaktiválódott vagy szennyeződött tárgyak gépi szállításához. A szerszámok, eszközök tárolására, valamint a munkafolyamatok előkészítésére szolgáló helyiségeket a jelentős sugárzású területektől megfelelő távolságban kell kialakítani.
+## 3.3.4. Építmények és épületszerkezetek tervezése
 
-## 3.3.10.0300. Összhangban a tűzvédelmi tervekkel, a munkaterületeket és a közlekedőfolyosókat vészhelyzeti világítással kell ellátni. A menekülési útvonalakat egyértelműen meg kell jelölni. A vészjelző rendszereknek a személyzet minden tagját el kell érniük, a tervezéskor a zajszintet és a védőeszközök kialakítását figyelembe kell venni.
+## 3.3.4.0100. Az atomerőmű építményei tervezése során az építészeti-műszaki tervezésre vonatkozó általános szabályokat a nukleáris biztonsági követelmények figyelembevételével kell alkalmazni.
 
-## 3.3.10.0400. Az atomerőművi blokk biztonságos üzemeléséhez szükséges háttérszolgáltatásokat és eszközöket, elérési utakat, vízellátást, tűzivízhálózatot, telephelyi kommunikációs eszközöket stb. úgy kell tervezni és telepíteni, hogy a várható üzemi események és a tervezési üzemzavarok során is el tudják látni funkciójukat.
+## 3.3.4.0200. Biztosítani kell, hogy az atomerőmű építményei és épületszerkezetei biztonsági osztályba sorolásuk szerint elviseljék a TA1-4 üzemállapotokban fellépő és a tervezési alap kiterjesztését jelentő TAK1, TAK2 körülmények közötti terheléseket, környezeti hatásokat, az adott üzemállapotra meghatározott megfelelőségi kritériumok szerint.
 
-## 3.3.10.0500. Az atomerőművi blokkot úgy kell tervezni, hogy szükség esetén lehetőség legyen az üzemeltető személyzet bejutására a konténment egyes helyiségeibe névleges üzem és várható üzemi esemény során a konténment zártságának folyamatos biztosítása mellett.
+## 3.3.4.0300. Ahol szükséges, megfelelő mintavételezési és monitorozási lehetőségeket kell kialakítani annak érdekében, hogy az épületszerkezetek megfelelősége az élettartamuk alatt folyamatosan ellenőrizhető legyen.
 
-## 3.3.10.0600. Az atomerőmű épületeit úgy kell tervezni, hogy nukleáris vészhelyzet esetén a telephelyen tartózkodó személyek kimenekítése és mentése gyorsan és biztonságosan megvalósítható legyen.
+## 3.3.4.0400. A biztonsági osztályba sorolt építményeket biztonsági földrengés által okozott igénybevételekre kell tervezni, beleértve az alapozás megfelelő tervezését és a biztonsági földrengés által kiváltott geotechnikai veszélyek hatásait is. A biztonsági osztályba sorolt építmények megfelelő szerkezeti kialakításával minimalizálni kell azok földrengés során fellépő igénybevételét. A szomszédos építményekkel való kölcsönhatást a biztonsági földrengés esetén ki kell zárni.
 
-## 3.3.11. Speciális veszélyeztető tényezők
+## 3.3.4.0500. A földrengésre való méretezést, biztonsági osztályba sorolt építményekre és épületszerkezeteire elfogadott módszertani és szabványok szerinti előírások alapján kell végezni.
 
-## Repülőgép-becsapódás
+## 3.3.4.0600. Az építmények, épületszerkezetek földrengésállóságához szükséges tervezési input megállapításának alapja a biztonsági földrengés szabadfelszíni válaszspektrumából származtatott tervezési input válaszspektrum. Ebből kell visszaszámolni az építmény alapozási síkjában ható talajmozgást.
 
-## 3.3.11.0100. Az atomerőmű telephelyén a nukleáris biztonság szempontjából fontos rendszerekre, rendszerelemekre vagy ezek közelébe történő – nem szándékos tevékenységből eredő – repülőgép- vagy helikopter-lezuhanás várható gyakorisága alapján meg kell határozni a különböző repülőgép-kategóriákra vonatkozó, a becsapódással összefüggésbe hozható kockázatot, beleértve a repülőgép-üzemanyag begyulladásának lehetőségét is.
+## 3.3.4.0700. Dinamikai elemzésekkel kell igazolni az építmények tartószerkezeteinek megfelelő teherbíró képességét a biztonsági földrengésnek megfelelő talajmozgások által okozott terhekre. A dinamikai elemzés metodikájának és a modellezés bonyolultságának összhangban kell lennie az atomerőmű kockázatával, és ezen belül az épületszerkezet biztonsági osztályával, az épületszerkezet funkciójával és a várt számítási eredmények felhasználásának céljával.
 
-## 3.3.11.0200. Igazolni kell, hogy a repülőgép-becsapódás kockázata elhanyagolható mértékben járul hozzá az atomerőmű teljes kockázatához.
+## 3.3.4.0800. A talaj-építmény kölcsönhatás modellezésénél kezelni kell az építmény beágyazását, a számításba vett talaj mélységét, rétegződését, dinamikai tulajdonságait és az azt terhelő bizonytalanságot.
+
+## 3.3.4.0900. A teherbírás ellenőrzését a nukleáris iparban elfogadott szabványok szerint kell végezni. Az épületszerkezetek konstrukciós kialakításából származtatható elmozdulásokra, alakváltozásokra vonatkozó korlátok teljesülését értékelni kell.
+
+## 3.3.4.1000. A földművek tervezését a vonatkozó szabványok szerint az atomerőmű tervezési alapjába tartozó földrengésből származó hatások figyelembevételével kell elvégezni.
+
+## 3.3.5. Elrendezés
+
+## 3.3.5.0100. A rendszerelemek elrendezésénél a közös okú hibák elkerülése érdekében a redundancia, a diverzitás és a függetlenség követelményeit figyelembe kell venni.
+
+## 3.3.5.0200. Az elrendezésnek biztosítania kell, hogy a tervezési alapban szereplő események valamint az egyes építmények, rendszerek kölcsönhatásai ne okozhassanak elfogadhatatlan mérvű károsodást az atomerőműben.
+
+## 3.3.5.0300. A nukleáris biztonság szempontjából fontos redundáns rendszereket megfelelő fizikai elválasztással kell tervezni. Üzemelő atomerőművi blokk átalakítása során ezt a követelményt a meglévő műszaki adottságok figyelembevételével kell alkalmazni.
+
+## 3.3.5.0400. Az atomerőműn belüli szállító eszközökkel történő mozgatási útvonalakat úgy kell megtervezni, hogy az emelt terhek esetleges leesése ne veszélyeztesse más rendszer, rendszerelem biztonsági funkciójának ellátását, vagy olyan eszközöket kell tervezni, amelyekkel biztosítható, hogy a teher leejtése legfeljebb TAK üzemállapotot eredményező eseménynek minősül.
+
+## 3.3.5.0500. A rendszerek, rendszerelemek elhelyezését úgy kell tervezni, hogy az biztosítson lehetőséget az ellenőrzés, karbantartás, javítás, tartalék alkatrészek cseréje és leszerelés végrehajtására az ezek során felmerülő dózis minimalizálásával. Biztosítani kell az alapanyag és a hegesztett kötések szemrevételezési, roncsolásmentes vizsgálattal történő ellenőrzési, valamint tisztítási, lemosási és javítási lehetőségét. Üzemelő atomerőművi blokk átalakítása során ezt a pontot a meglévő műszaki adottságok figyelembevételével kell alkalmazni.
+
+## 3.3.5.0600. A munkahelyeket megközelítő vagy a menekülésre szolgáló útvonalakat úgy kell méretezni, hogy az üzemeltető személyzet védőfelszerelésben is könnyen tudjon mozogni. Megfelelő méretű és teherbírású, akadálytalan útvonalakat kell biztosítani a felaktiválódott vagy szennyeződött tárgyak gépi szállításához. A szerszámok, eszközök tárolására, valamint a munkafolyamatok előkészítésére szolgáló helyiségeket a jelentős sugárzású területektől a sugárvédelmi szempontokat figyelembe vevő megfelelő távolságban kell kialakítani.
+
+## 3.3.5.0700. Az atomerőművi blokk biztonságos üzemeléséhez szükséges logisztikai hátteret, szolgáltatásokat és eszközöket, beleértve a közlekedési utakat, vízellátást, tűzivízhálózatot, telephelyi kommunikációs eszközöket úgy kell tervezni és telepíteni, hogy azok a TA1-4 üzemállapotokban és biztonsági földrengés során is el tudják látni funkciójukat.
+
+## 3.3.5.0800. Az atomerőművi blokkot úgy kell megtervezni, hogy szükség esetén lehetőség legyen az üzemeltető személyzet bejutására a konténment egyes helyiségeibe a konténment zártságának folyamatos biztosítása mellett.
+
+## 3.3.5.0900. Az atomerőmű építményeit úgy kell megtervezni, hogy veszélyhelyzet esetén az atomerőmű telephelyén tartózkodó személyek kimenekítése és mentése gyorsan és biztonságosan megvalósítható legyen.
+
+## 3.3.5.1000. Az F1 funkciót ellátó redundáns rendszerek kábeleinek elrendezésekor a fizikai elválasztás elvét alkalmazni kell. A villamos és az irányítástechnikai kábeleket el kell választani. Üzemelő atomerőművi blokk átalakítása során ezt a pontot a meglévő műszaki adottságok figyelembevételével kell alkalmazni.
+
+## 3.3.5.1100. Külső veszélyeztető tényezők hatásainak kezelésében szerepet játszó biztonsági besorolású redundáns rendszereket úgy kell elhelyezni, hogy a hatás ne gátolhassa meg egyidejűleg az összes redundáns elem biztonsági funkciójának teljesítését.
+
+## 3.3.6. Specifikus veszélyeztető tényezők
 
 ## Földrengés
 
-## 3.3.11.0300. Az atomerőművi blokk tervezésénél figyelembe kell venni a biztonsági földrengést. A biztonsági földrengés teljes üzemidőre vonatkoztatott meghaladási valószínűsége nem lehet nagyobb, mint 5–10–3. A biztonsági földrengést a felszíni rétegek nemlineáris átvitelének figyelembevételével kell jellemezni, és a szabadfelszíni válaszspektrummal, vagy ennek megfelelő gyorsulás-idő függvénnyel kell megadni. Telephely-specifikus adatokat kell használni, de tekintet nélkül azokra, a biztonsági földrengés maximális vízszintes gyorsulása a szabad felszínen nem lehet kisebb, mint 0,1g.
+## 3.3.6.0100. A biztonsági földrengés teljes üzemidőre vonatkoztatott meghaladási valószínűsége nem lehet nagyobb, mint 5×10–3. A telephely-specifikus biztonsági földrengést az átlagos veszélyeztetettségi görbe szerint, a szabadfelszíni válaszspektrummal, ennek megfelelő gyorsulás-idő függvénnyel kell jellemezni, a felszíni rétegek nemlineáris átvitelének figyelembevételével. Ennek alapján meg kell határozni azt a válaszspektrumot, amely a tervezés mértékadó inputját képezi a biztonsági földrengésre történő tervezés, ellenőrzés és minősítés során.
 
-## 3.3.11.0400. Az atomerőművi blokkot úgy kell megtervezni, hogy
+## 3.3.6.0200. Függetlenül a telephely szeizmicitásától, a biztonsági földrengés maximális vízszintes gyorsulásértéke a szabad felszínen nem lehet kisebb, mint 0,1g.
 
-## a) a biztonsági földrengés során teljesüljenek az alapvető biztonsági funkciók;
+## 3.3.6.0300. Az atomerőművet úgy kell megtervezni, hogy az alapvető biztonsági funkciók megvalósuljanak a biztonsági földrengés esetén is, és az atomerőmű ellenőrzött, biztonságos leállított állapotba kerüljön a földrengést követően az ehhez szükséges rendszerek, rendszerelemek egyszeres hibája mellett is.
 
-## b) a biztonsági földrengés, és az általa kiváltott másodlagos hatások ne vezessenek a hűtőközeg elvesztését okozó károsodáshoz;
+## 3.3.6.0400. Az F1 biztonsági funkciót megvalósító, továbbá a földrengéssel szembeni védelem megvalósításában résztvevő F2 funkciót ellátó rendszereket és rendszerelemeket úgy kell megtervezni, minősíteni, hogy azok megőrizzék a megkövetelt működőképességüket, funkciójukat biztonsági földrengés esetén. A tervezést és a minősítést a biztonsági osztálynak megfelelően, nukleáris szabványok, tesztelési eljárások szerint kell végezni.
 
-## c) a biztonsági földrengés maximális gyorsulásértékeinek kisebb meghaladása esetén se következzen be azonnali funkcióvesztés;
+## 3.3.6.0500. A B1, B2 funkciót megvalósító ABOS 1. és 2. biztonsági osztályba sorolt, továbbá a fölrengéssel szembeni védelem megvalósításában részt vevő B3 funkciót ellátó rendszereket és rendszerelemeket úgy kell megtervezni, hogy azok megőrizzék szerkezeti integritásukat, stabilitásukat és tömörségüket biztonsági földrengés esetén. A tervezést a biztonsági osztálynak megfelelően, nukleáris szabványok szerint kell végezni.
 
-## d) üzemi földrengés esetén az üzemeltetés zavartalanul folyhasson, és az üzemi földrengés esetén az atomerőmű leállítható és a rengést követően újraindítható maradjon; továbbá
+## 3.3.6.0600. Biztosítani kell az F1, B1, és B2 funkciójú, továbbá a földrengéssel szembeni védelem megvalósításában részt vevő F2 vagy B3 funkciót ellátó rendszer, rendszerelem védelmét a biztonsági vagy fizikai gát funkcióval nem rendelkező rendszerelemeknek biztonsági földrengés hatására bekövetkező sérülésével, kölcsönhatásával szemben.
 
-## e) a földrengésbiztonság megvalósításához szükséges rendszerek, rendszerelemek egyszeres meghibásodás mellett is képesek legyenek funkciójuk ellátására.
+## 3.3.6.0700. Biztosítani kell, hogy a biztonsági földrengés spektrális és maximális gyorsulásértékeinek kisebb meghaladása esetén se következzen be a rendszerek, rendszerelemek azonnali funkcióvesztése.
 
-## 3.3.11.0500. A tervező az atomerőművi rendszereket, rendszerelemeket földrengés-biztonsági osztályokba sorolja aszerint, hogy azok biztonsági földrengés során milyen biztonsági funkciót látnak el.
+## 3.3.6.0800. A rendszerek és rendszerelemek konstrukciója, a csomópontok és kihorgonyzások kialakítása során biztosítani kell, hogy a szerkezet a rugalmas-képlékeny tartományban működve energiadisszipáló képességgel rendelkezzen.
 
-## 3.3.11.0600. Első földrengés-biztonsági osztályba kell sorolni azokat az aktív, a második osztályba azokat a passzív rendszereket, rendszerelemeket, amelyek az atomreaktor leállításához, az atomreaktor szubkritikus állapotban tartásához, a lehűtéshez, vagy a tartós hőelvonásához szükségesek, továbbá amelyek nélkülözhetetlenek a kritikus paraméterek monitorozásához, vagy ahhoz, hogy a radioaktív kibocsátások tervezési üzemzavari körülményekre vonatkozó korlátai betarthatók legyenek. Biztonsági funkcióval rendelkező építményeket, vagy azok épületszerkezeteit a második földrengés-biztonsági osztályba kell sorolni.
+## 3.3.6.0900. A rideg sérülési módot megfelelő anyagválasztással és konstrukciós megoldásokkal ki kell zárni. Meg kell akadályozni a szomszédos rendszerek és rendszerelemek, a körülvevő tartószerkezet kölcsönhatását, egymással való ütközését.
 
-## 3.3.11.0700. Harmadik földrengés-biztonsági osztályba tartoznak azok a rendszerelemek, építmények és azok épületszerkezetei, amelyek egy földrengés következtében bekövetkező esetleges megrongálódásukkal és az ez által kiváltott hatásokkal az első és második osztályba sorolt rendszerelemek funkcióját veszélyeztetik. A tárolt radioaktív anyagok mennyiségének és a meghibásodás potenciális következményeinek mérlegelésével legalább harmadik földrengés-biztonsági osztályba kell sorolni azokat a rendszereket és rendszerelemeket, amelyek meghibásodásának következtében jelentős radioaktív kibocsátás történhet, vagy sérülésük akadályozná az atomerőmű földrengés utáni biztonságos kezelését.
+## 3.3.6.1000. A rendszerek, rendszerelemek funkcióját figyelembe véve kell meghatározni a biztonsági földrengés által kiváltott teherrel kombinált terheket. A földrengés bekövetkezésekor az atomerőmű üzemi vagy leállított, karbantartás, átrakás alatti vagy TA2 üzemállapota alapján, az ezekre az üzemállapotokra jellemző terheket kell kombinálni a biztonsági földrengésből és a földrengés által kiváltott hatásokból adódó terhekkel, figyelembe véve azok egyidejűségét, együtthatását is. A megfelelőség kritériuma vonatkozhat a feszültségekre, az alakváltozásokra, az elmozdulásokra és a működőképességre, valamint ezek kombinációira az adott biztonsági osztályra vonatkozó nukleáris szabványok szerint. A TA3 és TA4 üzemállapotot eredményező események és a biztonsági földrengés mint független események egyidejűségét nem kell feltételezni. A tervezésnél figyelembe kell venni a biztonsági földrengés másodlagos hatásait is.
 
-## 3.3.11.0800. Negyedik, nem földrengés-biztonsági osztályba tartoznak azok a rendszerelemek, amelyek nem tartoznak a három földrengés-biztonsági osztályba.
+## 3.3.6.1100. A rendszerek és rendszerelemek tervezésénél a felállítás helyére jellemző válaszspektrumot, gyorsulás-időfüggvényt kell mértékadónak tekinteni, amelyet szabvány szerint kell képezni telephely-specifikus biztonsági földrengésre meghatározott tervezési input, az építmény dinamikus válasza és a talaj-épület kölcsönhatás figyelembevételével.
 
-## 3.3.11.0900. Az üzemi földrengésre is ellenőrizni kell az atomerőművi blokk érintett rendszereit, ha az üzemi földrengés maximális vízszintes gyorsulásértéke a biztonsági földrengés maximális vízszintes gyorsulásértékének egyharmadát meghaladja.
+## 3.3.6.1200. A földrengés hatásának kezelése nem függhet külső szolgáltatások rendelkezésre állásától, mint villamos hálózati kapcsolat, tűzoltás, logisztikai szolgáltatások.
 
-## 3.3.11.1000. Az atomerőművi blokk rendszereit, rendszerelemeit biztonsági és földrengés-biztonsági osztályuknak megfelelően, differenciált követelmények szerint kell tervezni. A tervezést a nukleáris iparban elfogadott módszertan és szabványi előírások szerint kell végezni.
+## 3.3.6.1300. Az atomerőművi blokkot ABOS 2. osztályba sorolt földrengésjelző rendszerrel kell megtervezni és ellátni, amelynek jelzése alapján vagy automatikus védelmi működések indulnak, vagy a kezelő teszi meg a szükséges intézkedéseket. Mindkét esetben meg kell határozni a földrengés azon jellemzőjét, amihez a működés, az intézkedés kötött. Amennyiben olyan rendszer létesül, amely földrengés esetén automatikus védelmi működést indít, akkor annak felépítését redundanciáját, diverzitását, fizikai elválasztását és megbízhatóságát illeszteni kell a védelmi rendszerrel szemben megköveteltekhez.
 
-## 3.3.11.1100. A tervezésnél a rendszerek, rendszerelemek biztonsági és földrengés-biztonsági osztályba sorolása és funkciója szerint kell a terheket és terheléskombinációkat meghatározni, figyelembe véve a normál üzemi, üzemzavari és tesztkörülményeket. A konkrét kombinációkat a tervezési specifikációban a terhek egyidejűsége és relevanciája alapján kell meghatározni.
+## 3.3.6.1400. Az atomerőművi blokkot ABOS 3. biztonsági osztályba sorolt földrengés regisztráló rendszerrel kell megtervezni és ellátni, amelynek jelét feldolgozva értékelni lehet a földrengés hatásait és a továbbüzemelés biztonságát. A tervben meg kell határozni a földrengés azon jellemzőit, továbbá az atomerőmű állapotának értékeléséhez szükséges jellemzőket, amelyek a biztonságos továbbüzemelés értékelésének alapját képezik.
 
-## 3.3.11.1200. Az első és a második földrengés-biztonsági osztályba sorolt rendszerelemek esetében a normál üzemi állapotból, a biztonsági földrengésből és a földrengés által kiváltott üzemzavarokból adódó terhek kombinációját kell a tervezésnél figyelembe venni. Az első földrengés-biztonsági osztályba tartozó rendszerek és rendszerelemek esetében a működőképesség megtartását biztosító tervezés szükséges. A második földrengés-biztonsági osztályba tartozó rendszereknek és rendszerelemeknek biztonsággal meg kell tartaniuk szilárdságukat, tömörségüket, stabilitásukat, hogy földrengést követően funkciójukat képesek legyenek ellátni.
+## 3.3.6.1500. Speciális üzemzavar- és balesetkezelési eljárásokat, intézkedéseket kell kidolgozni földrengés esetére. Az eljárásokban és intézkedési tervekben szabályozni kell az atomerőmű üzemének és kiszolgálásának szervezését, a földrengést követő állapot értékelését, a földrengést követő ellenőrzések körét és módszerét, az újraindítás feltételeit.
 
-## 3.3.11.1300. A harmadik földrengés-biztonsági osztályba tartozó rendszerelemek tervezésénél elégséges a földrengés okozta terheket figyelembe venni úgy, hogy:
+## 3.3.6.1600. Biztosítani kell, hogy az üzemi eseményekkel azonos gyakoriságú üzemi földrengés esetén az üzemeltetés vagy zavartalanul folyhasson, vagy ha az üzemi földrengés esetén az atomerőmű leáll, akkor a rengést követően újraindítható maradjon.
 
-## a) a biztonsági földrengés hatására esetlegesen bekövetkező sérülés ne veszélyeztesse a környezetében levő magasabb földrengés-biztonsági osztályba tartozó rendszerelem megkövetelt funkcióját; és
+## 3.3.6.1700. Új atomerőművi blokk esetén az üzemi földrengésre is tervezni és minősíteni kell az atomerőmű F1 és F2, valamint B1, B2 és B3 funkcióval rendelkező ABOS 1-3. biztonsági osztályba sorolt rendszereit és rendszerelemeit, ha az üzemi földrengés maximális vízszintes gyorsulásértéke a biztonsági földrengés maximális vízszintes gyorsulásértékének egyharmadát meghaladja. A tervezést, ellenőrzést és minősítést a TA2 üzemállapotra előírt szabályok és megfelelőségi kritériumok szerint kell végezni. Amennyiben az üzemi földrengés maximális vízszintes gyorsulásértéke a biztonsági földrengés maximális vízszintes gyorsulásértéke egyharmadánál kisebb, az atomerőmű biztonsági osztályba sorolt rendszereit és rendszerelemeit az üzemi földregésre nem kell tervezni, minősíteni.
 
-## b) a radioaktív anyagot tartalmazó rendszerelemek esetén legyen biztosított a térfogatok hermetikussága.
+## Speciális belső veszélyeztető tényezők
 
-## 3.3.11.1400. A gépész, villamos és irányítástechnikai rendszerek és rendszerelemek tervezésének biztosítania kell, hogy a konstrukció és a kihorgonyzás rugalmas-képlékeny tartományban működve energiadisszipáló képességgel rendelkezzen. A rideg sérülési módot megfelelő konstrukciós megoldásokkal ki kell zárni. A rendszerelemeknek stabilnak kell lenniük, a felborulás és megcsúszás lehetőségét ki kell küszöbölni. A szomszédos rendszerek, rendszerelemek, és a körülvevő tartószerkezet kölcsönhatását, egymással való ütközését meg kell akadályozni. A normál üzemi és tervezési üzemzavari tranziensek által kiváltott elmozdulások, alakváltozások nem okozhatnak nem megengedhető igénybevételeket.
+## 3.3.6.1800. A kezdeti események vizsgálatának részeként azonosítani kell azokat a speciális belső veszélyeztető tényezőket, mint elárasztás, tűz, robbanás, nagy energiájú csőtörés, amelyek bekövetkezése biztonsági vagy izoláló gát funkcióteljesítését befolyásolhatja.
 
-## 3.3.11.1500. A gépész, villamos és irányítástechnikai rendszerek és rendszerelemek tervezésénél a felállítás helyére jellemző válaszspektrumot, vagy gyorsulás-időfüggvényt kell mértékadónak tekinteni, amelyet a szabványoknak megfelelően kell képezni telephely-specifikus adatok felhasználásával.
+## 3.3.6.1900. Azonosítani kell a belső veszélynek kitett helyiségeket, az azokban potenciálisan érintett, biztonsági funkcióval rendelkező rendszereket és rendszerelemeket. A vizsgált események hatása nem akadályozhatja meg a biztonsági funkciók teljesülését.
 
-## 3.3.11.1600. A rendszerelemek megfelelőségének értékelését ki kell terjeszteni a feszültségek, az alakváltozások, az elmozdulások és a működőképesség ellenőrzésére.
+## 3.3.6.2000. Elárasztás esetén biztosítani kell, hogy a kikerülő közeget megfelelően össze lehessen gyűjteni, biztonságos módon el lehessen vezetni.
 
-## 3.3.11.1700. Az atomerőművi blokkot földrengésjelző és regisztráló rendszerrel kell megtervezni és ellátni. Amennyiben olyan rendszer létesül, amely földrengés esetén automatikus védelmi működést indít, akkor annak megbízhatóság tekintetében illeszkedni kell a védelmi rendszerhez.
+## Külső természeti veszélyeztető tényezők
 
-## 3.3.11.1800. Speciális üzemzavar- és balesetkezelési eljárásokat, intézkedéseket kell kidolgozni földrengés esetére. Az eljárásokban és intézkedési tervekben szabályozni kell az atomerőművi blokk üzemének és kiszolgálásának megszervezését, a földrengést követő állapot értékelését, az üzemi földrengést követő ellenőrzések körét és módszerét, az újraindítás feltételeit.
+## 3.3.6.2100. A telephelyre jellemző, a tervezési alapba tartozó természeti jelenségekkel, folyamatokkal összefüggő veszélyeztető tényezők minden típusára meg kell határozni a tervezés inputját képező mértékadó jellemzőt, amelynek a teljes üzemidőre vonatkoztatott meghaladási valószínűsége nem lehet nagyobb, mint 5×10–3.
 
-## 3.3.11.1900. Üzemelő atomerőművi blokk földrengés-biztonsági felülvizsgálatát a nemzetközi gyakorlatban bevált és elfogadott módszerek szerint kell elvégezni. A szükséges megerősítéseket egységes szabványrendszer szerint kell tervezni és megvalósítani. A földrengés-biztonsági intézkedések végrehajtása után elért kockázatcsökkenést valószínűségi módszerekkel kell értékelni.
+## 3.3.6.2200. Biztosítani kell az atomerőmű biztonságos üzemeltetését a külső természeti veszélyeztető tényezők körülményei között is. Számításba kell venni a természeti veszélyeztető tényezők ésszerűen feltételezhető kombinációit. Figyelembe kell venni a biztonsági funkcióval nem rendelkező rendszerek, rendszerelemek természeti veszélyeztető tényezők hatására bekövetkező meghibásodásainak biztonsági funkciókra gyakorolt hatását.
 
-## Speciális belső veszélyek
+## 3.3.6.2300. Külső veszélyeztető tényezők hatásainak elhárítására tervezett rendszerek és szervezési megoldások esetében figyelembe kell venni azt a helyzetet, ha a telephely megközelítése, a rendszerek kiszolgálása és működtetése tartósan nehézségekbe ütközik.
 
-## 3.3.11.2000. Elemezni kell a telephelyen, valamint az atomerőmű zárt épületszerkezetein belül cseppfolyós közeget szállító- vagy tárolórendszerek meghibásodásait az esetleg kikerülő közeg mennyiségi és minőségi jellemzői szerint. Meg kell határozni az elárasztási veszélynek kitett helyiségeket, és az azokban potenciálisan érintett, nukleáris biztonság szempontjából fontos rendszereket és rendszerelemeket. Biztosítani kell azt, hogy a kikerülő közeg ne akadályozza meg a biztonsági funkciók teljesülését, valamint, hogy a közeget megfelelően össze lehessen gyűjteni, és biztonságos módon el lehessen vezetni.
+## Az emberi tevékenységgel összefüggő külső veszélyeztető tényezők
 
-## 3.3.11.2100. A belső tűz hatásaira vonatkozó követelményeket a 3.3.12. pont határozza meg.
+## 3.3.6.2400. Ha a telephelyen vagy annak környezetében jelentős energiasűrűségű rádiófrekvenciás vagy mikrohullámú elektromágneses sugárforrás található, akkor vizsgálni kell annak hatását a nukleáris biztonság szempontjából fontos rendszerekre, rendszerelemekre. Ha ilyen hatás lehetősége fennáll, akkor megfelelő védelmi intézkedésekről kell gondoskodni.
 
-## Szélsőséges időjárási körülmények
+## 3.3.6.2500. Meg kell határozni a tervezési alapba tartozó emberi tevékenységgel összefüggő veszélyeztető tényezőket és ezek hatását a biztonsági funkcióval rendelkező rendszerekre, rendszerelemekre. Amennyiben ezek a hatások a biztonsági funkció teljesülését befolyásolnák, e hatásokkal szemben védelmet kell biztosítani. A védelem biztosítható adminisztratív eszközökkel is, azaz a veszélyt jelentő emberi tevékenység korlátozásával, de a védelem műszaki megoldásait ezekkel szemben előnyben kell részesíteni, amennyiben ilyen megoldások ésszerűen megvalósíthatók.
 
-## 3.3.11.2200. A szélsőséges időjárási körülmények minden típusára meg kell határozni a méretezési eseményt figyelembe véve a 3.2.5.0700. és a 3.2.5.1000–1200. pontokban foglaltakat. Az időjárási hatások közül vizsgálni kell legalább a nagy erejű széllökések, extrém mennyiségű csapadék, felhalmozódott jég- és hótorlaszok, villám, extrém módon magas és alacsony hőmérséklet, árvíz és aszály gyakoriságát és potenciális hatásait.
+## 3.3.6.2600. A 3.3.6.2700.–3.3.6.3100. pont követelményeit csak az új atomerőművi blokkokra kell alkalmazni.
 
-## 3.3.11.2300. Az események hatásainak tervezése során számításba kell venni a szélsőséges időjárási körülmények ésszerűen feltételezhető kombinációit és a nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek körén kívüli rendszerek és rendszerelemek meghibásodásának a biztonsági funkciókra gyakorolt hatását az adott időjárási körülmények között.
+## 3.3.6.2700. A külső tevékenységből eredő veszélyeztető tényezők hatását jellemző mértékadó tervezési input paramétereket úgy kell meghatározni, hogy azok meghaladási valószínűsége a teljes üzemidő alatt ne legyen nagyobb, mint 5×10–3.
 
-## Elektromágneses hatások
+## 3.3.6.2800. A katonai és polgári repülőgép becsapódás esetére biztosítani kell a TAK1 üzemállapotra vonatkozó követelmények teljesítését.
 
-## 3.3.11.2400. Ha a telephelyen vagy annak környezetében jelentős energiasűrűségű rádiófrekvenciás vagy mikrohullámú elektromágneses sugárforrás található, akkor vizsgálni kell annak hatását a nukleáris biztonság szempontjából fontos rendszerekre, rendszerelemekre. Ha ilyen hatás lehetősége fennáll, akkor az atomerőművi blokk tervezésekor védelmi intézkedésekről kell gondoskodni.
+## 3.3.6.2900. Elemezni szükséges a magyar légtérben repülő, katonai és polgári repülőgép lezuhanásának következményeit.
 
-## Ipari és közlekedési tevékenység hatásai
+## 3.3.6.3000. Igazolni kell, hogy az atomerőművi blokk rendelkezik olyan beépített tervezési jellemzőkkel és funkcionális képességekkel, amelyek biztosítják, hogy katonai vagy polgári repülőgép rázuhanását követően is:
 
-## 3.3.11.2500. Elemezni kell az atomerőmű és a telephelyen vagy azon kívül elhelyezkedő létesítmények potenciális veszélyeztető hatásait a nukleáris biztonság szempontjából fontos rendszerekre, rendszerelemekre. Amennyiben ilyen hatások nem zárhatók ki, megfelelő intézkedéseket kell tenni azok kompenzálására.
+## a) az atomreaktor aktív zónájának hűtése fennmarad, vagy a konténment nem sérül, és
 
-## 3.3.11.2600. Elemezni kell az atomerőmű környezetében zajló közúti és vízi közlekedési, szállítási tevékenység potenciális hatásait, és az ebből eredő kockázatot, különös tekintettel a veszélyes anyagok szállítására.
+## b) a pihentető medence hűtése, vagy integritása fennmarad.
 
-## 3.3.11.2700. Az atomerőmű telephelyén és annak környezetében azonosítani kell és meg kell határozni a jellemzőit minden olyan állandó vagy ideiglenes objektumnak, amely tűz vagy robbanás forrásává válhat, és értékelni kell, hogy az mennyiben veszélyezteti az atomerőművet. Szükség esetén meg kell tenni a megfelelő védőintézkedéseket.
+## 3.3.6.3100. A 3.3.6.2700. pont szerinti elemzésnek ki kell terjednie:
 
-## 3.3.12. Tűzvédelem
+## a) az érintett építmények meghatározására,
 
-## 3.3.12.0100. A nukleáris biztonság szempontjából fontos rendszereket és rendszerelemeket úgy kell tervezni és elhelyezni, hogy a tűz gyakorisága és hatásai minimálisak legyenek, valamint az atomerőmű leállításának, a maradványhő eltávolításának, a radioaktív anyagok elszigetelésének, környezetbe kikerülés megakadályozásának és az atomerőművi üzemállapot monitorozásának képessége a tűz során és utána biztosítva legyen.
+## b) az esemény miatti mechanikai hatásokra: az építmények stabilitása, a szerkezetek átszakítása, az építmények és az érintett rendszerelemek rezgése és ütése,
 
-## 3.3.12.0200. A nukleáris biztonság szempontjából fontos rendszereket és rendszerelemeket magába foglaló építmények tűzállósági paramétereinek meg kell felelniük a hatályos, általános tűzvédelmi követelményeknek, és azon túlmenően mindannak, amit az építmény nukleáris biztonságának szempontjai indokolttá tesznek.
+## c) a tűz és robbanás hatásaira, és
 
-## 3.3.12.0300. A nukleáris biztonság szempontjából fontos rendszereket és rendszerelemeket tartalmazó építmények redundáns rendszereket és rendszerelemeket magába foglaló helyiségeit önálló tűzszakaszként kell kialakítani. Amennyiben ez a megközelítés nem megvalósítható, akkor aktív és passzív tűzvédelmi eszközökkel ellátott tűzcellákat kell alkalmazni, a tűzkockázati elemzésnek megfelelően.
+## d) az üzemeltető személyzetnek a szükséges tevékenységek ellátására való képességére.
 
-## 3.3.12.0400. Tűzveszélyelemzést kell végezni és naprakész állapotban tartani annak igazolása érdekében, hogy a tűzbiztonsági célok teljesülnek, a tűzbiztonsági tervezési elvek érvényesülnek, a tűzvédelmi intézkedések tervezése megfelelő, és minden szükséges adminisztratív intézkedést helyesen azonosítottak.
+## 3.3.7. Tűzvédelem
 
-## 3.3.12.0500. A tűzveszélyelemzést determinisztikus alapon kell elvégezni, az elemzés során minimálisan figyelembe kell venni:
+## 3.3.7.0100. A nukleáris biztonság szempontjából fontos rendszereket, rendszerelemeket úgy kell tervezni és elhelyezni, hogy a tűz gyakorisága és hatásai minimálisak legyenek. Biztosítani kell, hogy az atomerőmű a tűz során és utána egyaránt leállítható, a maradványhő eltávolítható, a radioaktív anyagok környezetbe történő kikerülése megakadályozható, és az atomerőművi üzemállapot monitorozható legyen. A nukleáris biztonság szempontjából fontos rendszereket, rendszerelemeket tartalmazó építményekben a redundáns rendszereket, rendszerelemeket magába foglaló helyiségeket önálló tűzszakaszként kell kialakítani. Amennyiben ez nem valósítható meg, akkor aktív és passzív tűzvédelmi eszközökkel ellátott tűzcellákat kell alkalmazni a tűzveszélyelemzésnek megfelelően.
 
-## a) minden normál üzemi állapotban egyetlen tűz keletkezését és terjedését olyan helyekre, ahol tartósan vagy átmenetileg éghető anyag jelenléte lehetséges, valamint
+## 3.3.7.0200. Minden tűzszakaszt vagy tűzcellát tűzjelzéssel kell felszerelni. A blokkvezénylőben a tűz pontos helyéről tájékoztató jelzést kell biztosítani. Ezeket a rendszereket szünetmentes biztonsági energiabetáplálással és megfelelő tűzálló kábelezéssel kell ellátni.
 
-## b) a tűz és egyéb valószínűleg bekövetkező feltételezett kezdeti esemény valószínű kombinációját.
+## 3.3.7.0300. Állandó beépítésű vagy mozgatható, automata vagy kézi oltórendszereket kell telepíteni, amelyeket úgy kell tervezni és elhelyezni, hogy törésük, téves vagy szándékolatlan működtetésük ne legyen jelentős hatással a nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek biztonsági funkciójának teljesíthetőségére.
 
-## 3.3.12.0600. A tűzveszélyelemzésben be kell mutatni, hogy hogyan vették figyelembe a tűz és a tűzoltó rendszerek működése lehetséges következményeinek hatását.
+## 3.3.7.0400. A tűzivíz elosztó rendszerének, az épületen kívüli és belüli csővezetékeinek biztosítaniuk kell az atomerőmű biztonság szempontjából fontos területeinek lefedettségét. A lefedettséget a tűzveszélyelemzéssel kell igazolni.
 
-## 3.3.12.0700. A tűzveszélyelemzést valószínűségi alapú tűzkockázati elemzéssel kell kiegészíteni. Az 1. szintű valószínűségi biztonsági elemzésben a tüzeket elemezni kell annak érdekében, hogy értékeljék a tűzvédelmi intézkedéseket, és azonosítsák a tüzek által okozott kockázatokat és a kockázatcsökkentési lehetőségeket.
+## 3.3.7.0500. A szellőzőrendszereket úgy kell elrendezni, hogy tűz esetén minden tűzszakasz betöltse az elválasztó funkcióját.
 
-## 3.3.12.0800. Minden tűzszakaszt vagy tűzcellát tűzjelzővel kell felszerelni. A blokkvezénylőben a tűz pontos helyéről tájékoztató jelzést kell biztosítani. Ezeket a rendszereket szünetmentes biztonsági energiabetáplálással és megfelelő tűzálló kábelezéssel kell ellátni.
+## 3.3.7.0600. A szellőzőrendszerek azon részeinek, amelyek a tűzszakaszokon kívül helyezkednek el, ugyanolyan tűzállósági besorolással kell rendelkezniük, mint a tűzszakasz, vagy megfelelő osztályú tűzvédelmi csappantyúval kell biztosítani elszigetelésüket.
 
-## 3.3.12.0900. Állandó beépítésű vagy mozgatható, automata vagy kézi oltórendszereket kell telepíteni, amelyeket úgy kell tervezni és elhelyezni, hogy törésük, téves vagy szándékolatlan működtetésük ne legyen jelentős hatással a nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek biztonsági funkciójának teljesíthetőségére.
+## 3.3.7.0700. Azokat a tereket, ahol a tűz radioaktív kibocsátást okozhat, tűzjelzéssel és – ahol szükséges – beépített tűzoltó berendezéssel kell ellátni. Az ilyen terekben az elrendezést, a tűzvédelmi elválasztásokat, a szellőzőrendszereket és a beépített tűzoltó berendezéseket úgy kell megtervezni és telepíteni, hogy megelőzhető legyen a kontamináció terjedése, és a tűzterhelések az ésszerűen elérhető lehető legkisebbek legyenek. Ahol a radioaktív hulladék kezelése során éghető anyagok kerülnek felhasználásra, olyan beépített oltóberendezést kell alkalmazni, ahol az oltóanyag az alkalmazott éghető anyagnak megfelelő.
 
-## 3.3.12.1000. A tűzivíz elosztórendszerének, az épületen kívüli és belüli csővezetékeinek biztosítaniuk kell az atomerőmű nukleáris biztonság szempontjából fontos területeinek lefedettségét. A lefedettséget a tűzveszélyelemzéssel kell igazolni.
+## 3.3.7.0800. Elemezni kell a radioaktív hulladékok öngyulladásának lehetőségét és potenciális hatásait.
 
-## 3.3.12.1100. A szellőzőrendszereket úgy kell elrendezni, hogy tűz esetén minden tűzszakasz betöltse az elválasztó funkcióját.
+## 3.3.7.0900. Robbanásveszélyes közeg használata és tárolása esetén biztosítani kell, hogy az érintett rendszerelemek védettsége összhangban legyen a közeg veszélyességével.
 
-## 3.3.12.1200. A szellőzőrendszerek azon részeinek, amelyek a tűzszakaszokon kívül helyezkednek el, ugyanolyan tűzállósági besorolással kell rendelkezniük, mint a tűzszakasz, vagy megfelelő osztályú tűzvédelmi csappantyúval kell biztosítani elszigetelésüket.
+## 3.3.8. Leszerelés
 
-## 3.3.12.1300. Azokat a tereket, ahol a tűz radioaktív kibocsátást okozhat, tűzjelzéssel és – lehetőség és indokoltság szerint – beépített tűzoltó berendezéssel kell ellátni. Az ilyen terekben az elrendezést, a tűzvédelmi elválasztásokat, a szellőzőrendszereket és a beépített tűzoltó berendezéseket úgy kell megtervezni és telepíteni, hogy megelőzhető legyen a kontamináció terjedése, és a tűzterhelés az ésszerűen elérhető legalacsonyabb szintű legyen. Ahol a radioaktív hulladék kezelése során éghető anyagok kerülnek felhasználásra, olyan beépített oltóberendezést kell alkalmazni, melynek az oltóanyaga az alkalmazott éghető anyagnak megfelelő.
+## 3.3.8.0100. A tervezés során figyelembe kell venni az atomerőművi blokk végleges leállítására és a leszerelésére vonatkozó követelményeket is.
 
-## 3.3.12.1400. Elemezni kell a radioaktív hulladékok autooxidációjának lehetőségét és potenciális hatásait.
+## 3.3.8.0200. Biztosítani kell az atomerőmű területén tartózkodó személyek és a lakosság sugárterhelésének, valamint a radioaktív kibocsátásoknak az ésszerűen elérhető legalacsonyabb szinten tartását és a környezet radioaktív szennyeződésének elkerülését a leszerelés során is. Ennek érdekében olyan tervezési megoldásokat kell alkalmazni, amelyek lehetővé teszik a leszerelés alatt várhatóan fellépő sugárterhelések optimalizálását, a keletkező radioaktív hulladékok mennyiségének és aktivitásának ésszerűen alacsony szinten tartását.
 
-## 3.3.12.1500. Az atomerőművi blokk és rendszereinek, rendszerelemeinek tervezése, létesítése során be kell tartani a más jogszabályokban megfogalmazott, a nukleáris létesítményekre is vonatkozó tűzvédelmi előírásokat.
+## 3.3.8.0300. Már a tervezési fázisban intézkedéseket kell előirányozni a radioaktív szivárgások és kifolyások, csökkentésére, ennek érdekében:
 
-## 3.3.12.1600. Robbanásveszélyes közeg használata és tárolása esetén az érintett rendszerek, rendszerelemek védettségének és a szükséges védőövezet kijelölésének összhangban kell lennie a közeg veszélyességével, és meg kell felelnie a jogszabályoknak és az alkalmazható szabványoknak.
+## a) korlátozni kell az eltakart, bebetonozott, földbe fektetett csővezetékek, csatornák és rendszerelemek mennyiségét a falakban és födémekben, az eltakart rendszerelemek esetében monitorozási lehetőséget kell biztosítani,
 
-## 3.3.13. Leszerelés
+## b) korlátozni kell a potenciálisan radioaktív közegeket tartalmazó tartályok, aknák és szennyvízvezetékek mennyiségét, továbbá
 
-## 3.3.13.0100. A tervezés során figyelembe kell venni az atomerőművi blokk végleges leállításából és leszereléséből adódó követelményeket:
+## c) a bebetonozott csővezetékeket, a tartályokat és az aknákat rozsdamentes acélból kell készíteni.
 
-## a) a tervezés időszakában rendelkezésre álló technológiai színvonalon a leszerelés megvalósítható legyen;
+## 3.3.9. Emberi tényező
 
-## b) a műveletek során keletkező radioaktív hulladék a lehető legkevesebb legyen, továbbá
+## 3.3.9.0100. Az üzemeltető személyzet munkaterületeit, munkakörnyezetét és az ember-gép kapcsolatot ergonómiai, valamint a téves beavatkozások lehetőségei szempontból elemezni kell. A terveket az elemzések eredményeinek figyelembevételével kell elkészíteni.
 
-## c) biztosított legyen a személyzet és a lakosság sugárterhelésének, valamint a radioaktív kibocsátásoknak az ésszerűen elérhető legalacsonyabb szinten tartása és a környezet radioaktív szennyeződésének elkerülése a leszerelés során is. Ennek érdekében olyan tervezési megoldásokat kell alkalmazni, amelyek megkönnyítik a leszerelés alatt várhatóan fellépő sugárterhelések csökkentését.
+## 3.3.9.0200. A rendszerek, rendszerelemek ember-gép kapcsolatát és ergonómiai kialakítását olyan módon kell megtervezni, hogy – a feltételezett fizikai környezet és a várható pszichikai állapot figyelembevételével – a megfelelően képzett személyzet szükség esetén az elvárt időtartam alatt legyen képes feladatait sikeresen elvégezni.
 
-## 3.3.13.0200. A leszereléssel kapcsolatos részletes követelményeket a 8. melléklet tartalmazza.
+## 3.3.9.0300. A tervezés során el kell végezni az üzemeltető személyzetre háruló, a biztonsági funkciók teljesítéséhez kapcsolódó feladatok elemzését. A tervezett operátori beavatkozásokat és azok megfelelő megbízhatóságú végrehajthatóságát validálni kell, különös tekintettel a tervezési üzemzavarok és a meghatározott baleseti helyzetek kezelésére. A validáció legfontosabb eszköze a teljesléptékű szimulátor. Ezen a vizsgálatok eredményeit az eljárásoknak és a személyzeti betanító és szinten tartó képzés terveinek kidolgozásakor figyelembe kell venni.
 
-## 3.3.14. Az atomreaktor és az aktív zóna tervezése
+## 3.3.9.0400. A kezelői felületek tervezésére, gyártására és minősítésére a koncepcionális tervezés időszakában ergonómiai tervezési követelményeket kell meghatározni.
 
-## 3.3.14.0100. Az aktív zóna szerkezetének és az atomreaktor belső elemeinek tervezésekor figyelembe kell venni az összes lehetséges hatást, különös tekintettel a besugárzásra, a kémiai és fizikai folyamatokra, a statikus és dinamikus mechanikai terhelésekre, és a hőmérséklet okozta deformációkra és feszültségekre, és így az élettartam során létrejövő változások, valamint a gyártási tűrések figyelembevételével kell igazolni a biztonságos üzemképességet.
+## 3.3.9.0500. Az ember-gép kapcsolati felületek – vezénylők, képernyők – tervezésének és ellenőrzésének támogatására üzemeltető, irányítástechnikai, informatikai és technológiai szakembereket kell bevonni.
 
-## 3.3.14.0200. Biztosítani kell, hogy az aktív zóna legyen biztonságosan alátámasztva és rögzítve a reaktortartály belső szerkezeteihez és azokon keresztül a tartályhoz. Kialakításának olyannak kell lennie, hogy megakadályozza a zónaszerkezet egészének, és a szerkezeten belüli elemeknek a nem tervezett elmozdulásait.
+## 3.3.9.0600. Annak érdekében, hogy az üzemeltető személyzet tagjai az atomerőművi blokk minden üzemállapotában – a munkakörüknek megfelelő terjedelemben – teljes és hatékonyan feldolgozható információval rendelkezzenek, az érintett munkaterületeken megfelelően minősített mérőműszereket és hagyományos vagy számítógépes kijelzőket kell elhelyezni. Biztosítani kell, hogy a műszerezés lehetővé tegye minden, a reaktorzóna, a reaktor-hűtőrendszerek és a konténment funkció ellátása szempontjából jelentős paraméter mérését, az atomerőművi blokk megbízható és biztonságos üzemeltetéséhez szükséges információ rendelkezésre állását, valamint a biztonság szempontjából fontos mért vagy származtatott paraméterek automatikus rögzítését.
 
-## 3.3.14.0300. Az atomreaktort és a hozzá tartozó rendszerelemeket úgy kell megtervezni, hogy csak egyféleképpen lehessen összeszerelni, rossz sorrendben történő összeszerelés, vagy nem megfelelő rendszerelem elhelyezése kizárható legyen.
+## 3.3.9.0700. Megfelelő kommunikációs rendszert kell tervezni a különböző helyszínek között információáramlás és utasítástovábbítás céljára. A kommunikációs rendszernek biztosítani kell a nem helyhez kötött tevékenységek elvégzéséhez szükséges megfelelő mobilitást is. Kommunikációs kapcsolatot kell biztosítani olyan külső szervezetekkel is, amelyeknek a tevékenységére szükség lehet a TA1-4 és a TAK1, TAK2 üzemállapotok során.
 
-## 3.3.14.0400. A fűtőelemkötegek konstrukciójának biztosítania kell a lehetőségét annak, hogy szerkezetüket és alkatrészeiket megfelelően ellenőrizzék az aktív zónába való behelyezésük előtt. Eszközöket kell biztosítani a besugárzás utáni ellenőrzésük megvalósítására.
+## 3.4. A KIEMELTEN FONTOS RENDSZEREK ÉS RENDSZERELEMEK TERVEZÉSE
 
-## 3.3.14.0500. Az aktív zóna konstrukciójának figyelembe kell vennie az összes tervezett üzemmódot, így a névleges üzemi állapot, a leállítás, az átrakás, a tesztelés és a tervezési üzemzavarok viszonyait.
+## 3.4.1. Az atomreaktor és az aktív zóna tervezése
 
-## 3.3.14.0600. Az atomreaktort és az aktív zónát úgy kell kialakítani, hogy a tervezési alap keretein belül az atomerőművi blokk rendszereinek, rendszerelemeinek mechanikai meghibásodásai, és az atomreaktor hűtőközegének fizikai viselkedése ne akadályozhassák meg az atomreaktor leállítását.
+## Az atomreaktor és aktív zóna integritása
 
-## 3.3.14.0700. Az aktív zónához telepített mérőrendszereknek biztosítaniuk kell az üzemeltetési feltételek és korlátok teljesülésének ellenőrzéséhez szükséges paraméterek elegendő pontosságú, folyamatos meghatározását rendszeres időközönkénti mérési információkra alapozottan, vagy mérések és számítások kombinációjával.
+## 3.4.1.0100. Az aktív zóna szerkezetének, az atomreaktor belső elemeinek tervezésekor figyelembe kell venni az összes lehetséges őket érő hatást. Különös tekintettel a besugárzás, a kémiai és fizikai folyamatok, a statikus és dinamikus mechanikai terhelések, a hőmérséklet okozta deformációk és feszültségek, és a gyártási tűrések, valamint az élettartam során létrejövő változások figyelembevételével kell igazolni a biztonságos üzemképességet.
 
-## 3.3.14.0800. Megfelelő tervezéssel kell megakadályozni, hogy az aktív zóna bármely alkatrészének kikerülése a zónából, vagy azon belüli elmozdulása, továbbá bármely oda nem illő alkatrésznek bekerülése a zónába a reaktivitás nem tervezett növekedését vagy a hűtőközeg áramlásának akadályozását okozhassa.
+## 3.4.1.0200. Az aktív zónát biztonságosan alá kell támasztani és rögzíteni kell a reaktortartály belső szerkezeteihez és azokon keresztül a tartályhoz. Kialakításának olyannak kell lennie, hogy megakadályozza a zónaszerkezet egészének és a szerkezeten belüli elemek nem tervezett elmozdulásait, károsodáshoz vezető rezgéseit.
 
-## 3.3.14.0900. Az aktív zóna nukleáris jellemzőinek olyanoknak kell lenniük, hogy hőmérséklet-változások, a hűtőközeg elvesztése, bórhígulás vagy az aktív zóna geometriai változásai – sem normál üzemi állapotban, sem várható üzemi események, sem tervezési üzemzavarok során – nem okozhatnak szabályozhatatlan mértékű reaktivitás-növekedést.
+## 3.4.1.0300. Az atomreaktort és szerkezeti elemeit úgy kell megtervezni, hogy csak egyféleképpen lehessen összeállítani, rossz sorrendben történő visszahelyezés, vagy nem megfelelő rendszerelem elhelyezése kizárható legyen.
 
-## 3.3.14.1000. Az atomreaktor leállított állapotában és átrakása során biztosítani kell, hogy hasadóanyag vagy abszorbens aktív zónába való bevitele vagy onnan történő eltávolítása során is folyamatosan fennálljon az előírt mértékű szubkritikusság.
+## 3.4.1.0400. A konstrukciónak vagy a gyártástechnológiának biztosítania kell azt a lehetőséget, hogy a fűtőelemkötegek szerkezetét és alkatrészeit megfelelően ellenőrizni lehessen az aktív zónába való behelyezésük előtt. Eszközöket kell biztosítani a besugárzás utáni ellenőrzésük megvalósítására.
 
-## 3.3.14.1100. Az aktív zóna konstrukciójának biztosítania kell, hogy a tervezési alap keretein belül történő bármely eseményt követően, a fűtőelemkötegek üzemszerű eszközökkel eltávolíthatóak legyenek az atomreaktorból.
+## 3.4.1.0500. Az atomreaktort és az aktív zónát úgy kell kialakítani, hogy a TA1-4 üzemállapotot eredményező események estén az atomerőművi blokk rendszereinek, rendszerelemeinek mechanikai meghibásodásai és az atomreaktor hűtőközegének fizikai viselkedése ne akadályozhassák meg az atomreaktor leállítását, szubkritikus állapotban tartását és hűtését.
+
+## 3.4.1.0600. Az aktív zónához telepített mérőrendszereknek biztosítaniuk kell az üzemeltetés feltételei és korlátai teljesülésének ellenőrzéséhez szükséges paraméterek elegendő pontosságú, folyamatos meghatározását. A szükséges paramétereket rendszeres időközönkénti mérési információkra alapozottan, vagy mérések és számítások kombinációjával kell biztosítani.
+
+## 3.4.1.0700. Az aktív zóna nukleáris jellemzőinek olyanoknak kell lenniük, hogy hőmérséklet-változások, a hűtőközeg elvesztése, bórhígulás vagy az aktív zóna geometriai változásai a TA1-4 üzemállapotokban nem okozhatnak szabályozhatatlan mértékű reaktivitás-növekedést.
+
+## 3.4.1.0800. Az atomreaktor leállított állapotában és átrakása során biztosítani kell, hogy hasadóanyag vagy abszorbens aktív zónába való bejuttatása, vagy onnan történő eltávolítása során is folyamatosan fennálljon az előírt mértékű szubkritikusság.
+
+## 3.4.1.0900. Az aktív zóna tervezésénél biztosítani kell, hogy egy-egy zónaparaméter kismértékű megváltoztatása ne okozzon kedvezőtlen irányú, jelentős változásokat a TA1-4 üzemállapotokban.
+
+## 3.4.1.1000. Az aktív zóna konstrukciójának biztosítania kell, hogy a TA1-4 üzemállapotot eredményező eseményt követően, a fűtőelemkötegek üzemszerű eszközökkel eltávolíthatóak legyenek az atomreaktorból.
 
 ## A reaktivitás szabályozása
 
-## 3.3.14.1200. Az atomreaktor leállítására és reaktivitásának szabályozására legalább két, különböző elv szerint működő diverz rendszernek kell rendelkezésre állnia, amelyek közül bármelyik önmagában is képes a tervezési alap keretein belüli állapotokból az atomreaktor leállítására. A leállítórendszerek közül az egyiknek automatikus és gyors működésűnek kell lennie, amely – előre meghatározott feltételek teljesülése esetén – az üzemeltető személyzet tevékenységétől függetlenül, és megszakíthatatlan módon nagy megbízhatósággal leállítja az atomreaktort. Mindkét leállító- és szabályozórendszer minden szintjének meg kell felelnie az egyszeres hibatűrés követelményének, beleértve bármelyik villamos betáplálás hibáját és a legnagyobb értékességű szabályozórúd működésképtelenségét.
+## 3.4.1.1100. Az atomreaktor leállítását és reaktivitásának szabályozását legalább két, olyan különböző elv szerint működő, F1A biztonsági funkciót megvalósító rendszerrel kell biztosítani, amelyek közül bármelyik önmagában is képes a TA1-4 üzemállapotokból az atomreaktor leállítására. A leállító rendszerek közül legalább az egyiknek automatikus és gyors működésűnek kell lennie, amely – előre meghatározott feltételek teljesülése esetén – az üzemviteli személyzet tevékenységétől függetlenül és megszakíthatatlan módon az atomreaktort nagy megbízhatósággal leállítja. Mindkét leállító- és szabályozórendszer egyszeres hibatűrő kell, hogy legyen, bármelyik villamos betáplálás hibája és a legnagyobb értékességű szabályozórúd működésképtelensége esetén is.
 
-## 3.3.14.1300. Az atomreaktort leállító automatikus rendszernek redundánsnak és diverznek kell lennie, mind a kezdeti esemény detektálását, mind a védelmi működés indítását illetően. A feltételezett kezdeti események esetében a reaktorvédelmi működésnek be kell következnie két különböző – egyenként is megfelelő redundanciával mért – fizikai jellemző bármelyikének határérték-túllépése esetén. A tervezési alapba tartozó kezdeti eseményekből eredő üzemzavarok kimenetele nem függhet lényegesen attól, hogy melyik fizikai paraméter indítja el a reaktorvédelmet.
+## 3.4.1.1200. Az aktív zóna reaktivitás szabályozását az üzemanyag-dúsítás, szabályozó és védelmi rudak, oldott, és kiégő reaktormérgek olyan kombinációjával kell megvalósítani, amely biztosítja az ismételt kritikusság vagy a reaktivitás ugrásszerű változásának elkerülését, a TA1-4 üzemállapotokat követően.
 
-## 3.3.14.1400. Az atomreaktort automatikusan leállító rendszer működési sebességének olyannak kell lennie, hogy a tervezési alapba tartozó összes esemény során garantálja az előírt kritériumok teljesülését.
+## 3.4.1.1300. Az atomreaktort leállító védelmi jeleket úgy kell kialakítani, hogy a TA2-4 üzemállapotot eredményező eseményeknél a védelmi működés két különböző, független – egyenként is megfelelő redundanciával mért – fizikai jellemző bármelyikének határérték-túllépése esetén bekövetkezzen. A TA2-4 üzemállapotot eredményező eseményekből eredő eseményláncok kimenetele nem függhet lényegesen attól, hogy melyik fizikai paraméter indítja el a reaktorvédelmet.
 
-## 3.3.14.1500. A reaktivitást szabályozó és az atomreaktort leállító rendszerek megfelelő tervezésével biztosítani kell, hogy a normál üzem, várható üzemi események és tervezési üzemzavarok során a nukleáris üzemanyag, a fűtőelem-burkolat és hűtőközeg hőmérsékletei, valamint más fizikai paraméterek biztonsági határértékeinek túllépése kizárt legyen.
+## 3.4.1.1400. A reaktivitást szabályozó és az atomreaktort leállító rendszerek megfelelő tervezésével biztosítani kell, hogy a TA1 4 üzemállapotban a nukleáris üzemanyag és hűtőközeg hőmérsékletére, valamint más fizikai paraméterekre vonatkozó biztonsági határértékek túllépése kizárt legyen.
 
-## 3.3.14.1600. A reaktivitást szabályozó és az atomreaktort leállító rendszereket oly módon kell megtervezni, hogy kontrollálatlan működésük esetén se léphesse túl a tervezési határértékeket a reaktivitás-növekedés mértéke és sebessége.
+## 3.4.1.1500. Az aktív zóna teljesítmény szerinti reaktivitás együtthatójának negatívnak kell maradnia a TA1-4 és TAK1 üzemállapotokban.
+
+## 3.4.1.1600. A reaktivitást szabályozó és az atomreaktort leállító rendszereket oly módon kell megtervezni, hogy a reaktivitás-növekedés mértéke és sebessége, nem terv szerinti működés esetén se léphesse túl a tervezési határértéket.
 
 ## A fűtőelemkötegek tervezése
 
-## 3.3.14.1700. A fűtőelemkötegek teljes életútját meg kell tervezni, és igazolni kell a nukleáris biztonsági követelmények teljesülését minden fázisban, a friss fűtőelemkötegek beérkezésétől a kiégett fűtőelemkötegek átmeneti tárolásig – beleértve a kezelési, szállítási folyamatokat – az összes várható hatás fegyelembevételével.
+## 3.4.1.1700. A fűtőelemkötegek teljes életútját meg kell tervezni, és az összes várható hatás figyelembevételével igazolni kell a nukleáris biztonsági követelmények teljesülését minden fázisban, a friss fűtőelemkötegek beérkezésétől a kiégett fűtőelemkötegek átmeneti tárolásáig, beleértve a kezelési, szállítási folyamatokat is.
 
-## 3.3.14.1800. A normál üzem feltételei mellett a besugárzott fűtőelemekből a hasadási termékek szivárgását a gyakorlatilag lehetséges minimális értéken kell tartani.
+## 3.4.1.1800. A normál üzem feltételei mellett a besugárzott fűtőelempálcákból a hasadási termékek szivárgását a gyakorlatilag lehetséges minimális értéken kell tartani.
 
-## 3.3.14.1900. Az atomerőmű fűtőelemkötegeinek kezelésre tervezett rendszereinek biztosítaniuk kell a meghibásodott fűtőelemkötegek azonosítását és speciális kezelését.
+## 3.4.1.1900. A tervezés során módszert kell biztosítani a meghibásodott fűtőelemkötegek azonosítására és speciális kezelésére.
 
-## 3.3.14.2000. A fűtőelemkötegeknek meghibásodás nélkül el kell viselniük az elhasználódási folyamatokból – beleértve a tervező által meghatározott maximális megengedett kiégést – eredő összes hatást a tervezett élettartamuk során.
+## 3.4.1.2000. A fűtőelemkötegeknek – a maximális megengedett kiégést is figyelembe véve – a terv szerint megengedhető mértéket meghaladó meghibásodás nélkül el kell viselniük az elhasználódási folyamatokból eredő összes hatást.
 
-## 3.3.14.2100. Megfelelő mechanikai tervezéssel kell biztosítani, hogy a fűtőelemeket az áramlás által keltett rezgések és elmozdulások ne károsíthassák.
+## 3.4.1.2100. Megfelelő kialakítással kell biztosítani, hogy a fűtőelempálcákat az áramlás által keltett rezgések és elmozdulások ne károsíthassák.
 
-## 3.3.14.2200. Üzemelő atomerőműben módosított fűtőelemköteg csak a nukleáris biztonsági követelmények teljesülésének igazolása után vezethető be. Megfelelő referencia – hasonló atomerőműben, azonos használati körülmények melletti problémamentes alkalmazás dokumentálása – hiányában bevezető fűtőelemkötegek alkalmazása szükséges.
+## 3.4.1.2200. Üzemelő atomerőműben módosított fűtőelemköteg csak az eredeti tervezési követelmények teljesülésének igazolása után vezethető be. Megfelelő referencia – hasonló atomerőműben, azonos használati körülmények melletti problémamentes alkalmazás – hiányában bevezető fűtőelemkötegek alkalmazása szükséges.
 
-## 3.3.15. Blokk- és tartalékvezénylő
+## 3.4.1.2300. Új üzemanyag esetén a fűtőelemkötegek tervezési követelményeinek meghatározását, betarthatóságát és a nukleáris üzemanyag viselkedését leíró modellek validáltságát kísérleti eredmények segítségével kell igazolni.
 
-## 3.3.15.0100. Az atomerőművi blokkon blokkvezénylőt és tartalékvezénylőt kell tervezni és kialakítani úgy, hogy ezek alternatív igénybevételével az atomerőművi blokk biztonságos állapotban tartását, vagy ilyen állapotba való visszavitelét célzó tevékenységek végrehajthatók legyenek a normál üzem, várható üzemi események és tervezési üzemzavarok során.
+## 3.4.1.2400. Új üzemanyag esetén a 3.4.1.1700.–3.4.1.2200. pontban meghatározottakon túl a fűtőelemek biztonságosságának igazolásához be kell mutatni:
 
-## 3.3.15.0200. A blokkvezénylő tervezésekor a vonatkozó legkorszerűbb ergonómiai szempontokat és elveket kell figyelembe venni.
+## a) azon kísérletek eredményeit, amelyek alapján az egyes tervezési követelmények határértékei kellő tartalékkal meghatározhatók,
 
-## 3.3.15.0300. A blokkvezénylőben elégséges kijelző és archiváló, valamint beavatkozó eszköznek kell az üzemeltető személyzet rendelkezésére állnia normál üzemi állapotra, a tervezési üzemzavari helyzetekre és baleseti helyzetekre is, a következő célokból:
+## b) az üzemeltetés utáni fűtőelem állapotra irányuló vizsgálatok eredményeit,
 
-## a) az atomerőművi blokk és rendszerei, rendszerelemei állapotának megfelelő nyomon követése;
+## c) a fűtőelemköteg szerkezeti elemei szilárdsági követelményeinek betarthatóságát igazoló próbapados mérések eredményeit, és
 
-## b) a nukleáris biztonságra lényeges hatással lévő változásoknak nyilvánvaló és időben történő jelzése;
+## d) a nukleáris üzemanyag viselkedését leíró kódoknak fenti kísérleti eredményekre is alapozott validációját.
 
-## c) bármilyen automatikus védelmi működés azonosítása, indokoltság esetén azok indítása vagy jóváhagyása, valamint
+## 3.4.2. A fővízkör tervezése
 
-## d) átfogó kép kialakítása az atomerőművi blokk folyamatairól, különösen a nukleáris biztonságot érintőkről.
+## 3.4.2.0100. A fővízköri rendszerelemeknek el kell viselniük minden statikus és dinamikus terhelést, amely az atomerőmű TA1-4 és a TAK1 üzemállapotokban ezeket a rendszerelemeket éri úgy, hogy a biztonsági és fizikai gát funkciók – az üzemállapothoz rendelet kritériumok szerint – teljesüljenek.
 
-## 3.3.15.0400. Az atomerőművi blokkon tartalékvezénylőt kell kialakítani a blokkvezénylőtől fizikailag és villamos rendszerét tekintve is elkülönített helyen, ahova elégséges műszerezést, szabályozó- és vezérlőeszközöket kell telepíteni annak érdekében, hogy az atomreaktor leállítható, lehűthető és korlátlan ideig biztonságos állapotban tartható legyen. A maradványhő elvonását és az atomerőművi blokk fontos jellemzőinek folyamatos ellenőrzését biztosítani kell, ha a blokkvezénylő üzemszerű használata bármilyen okból lehetetlenné válna. A tartalékvezénylő funkcióképességét rendszeres ellenőrzéssel kell biztosítani.
+## 3.4.2.0200. A tervezésnél figyelembe kell venni az üzemeltetés során várható hatásokat, amelyek a rendszerelemeket élettartamuk során érik, beleértve minden bizonytalanságot, ami a rendszerelemek tulajdonságainak kezdeti állapota és öregedés miatti lehetséges romlásának meghatározásában mutatkozik. Ezeknek megfelelően a fővízköri rendszerelemeket elegendő tartalékkal kell tervezni, ugyanakkor igazolni kell, hogy a robosztus tervezés nem vezet hátrányokhoz üzemzavari helyzetben.
 
-## 3.3.15.0500. A blokkvezénylőben és a tartalékvezénylőben biztosítani kell a műszerekből származó, szükséges információk fogadását és megjelenítését, lehetővé téve, hogy az atomerőművi blokk állapota és a kritikus biztonsági funkciók időben értékelhetőek legyenek üzemzavari és baleseti körülmények között is.
+## 3.4.2.0300. A fővízkört, mint a nyomás alatt lévő B1 funkcióval rendelkező, primerköri hőhordozót tároló rendszert, úgy kell megtervezni, hogy:
 
-## 3.3.15.0600. A biztonsági funkciót teljesítő blokkvezénylői és tartalékvezénylői rendszerek, rendszerelemek számára folyamatos, szünetmentes villamos betáplálást kell biztosítani.
+## a) ki kell zárni a katasztrofális meghibásodás lehetőségét;
 
-## 3.3.15.0700. A tervezés során gondoskodni kell ésszerűen megvalósítható intézkedésekről a blokk- és tartalékvezénylőn belül vagy kívül lehetséges olyan események azonosítása és hatásainak minimalizálása céljából, amelyek közvetlenül veszélyeztethetik a blokkvezénylői személyzet testi épségét, és a vezénylő folytonos használatát.
+## b) új atomerőművi blokk esetén meg kell felelni a törés előtti szivárgás észlelési és intézkedési feltételeinek, és biztosítani kell, hogy az esetleges szivárgások esetén azok továbbfejlődése lassú legyen annak érdekében, hogy az észlelésre és beavatkozásra elegendő idő álljon rendelkezésre;
 
-## 3.3.15.0800. A blokkvezénylőt és a tartalékvezénylőt önálló tűzszakaszokban kell elhelyezni, ami lehetővé teszi az atomreaktor biztonságos leállítását a környező helyiségekben fellépő tűz esetén is.
+## c) a fővízkör lezárását a becsatlakozó csővezetékek törése esetére minden csővezetéken két, a fővízkörhöz közel elhelyezkedő elzáró szerelvénnyel kell biztosítani; és
 
-## 3.3.16. Hőátvitel
+## d) biztosítani kell a fővízkör integritásának folyamatos monitorozását.
 
-## 3.3.16.0100. Meg kell határozni, minőségileg és mennyiségileg elemezni kell a hőfejlődés és hőátvitel jelenségének minden létrejövő formáját. A hőátviteli rendszerek, rendszerelemek segítségével biztosítani kell a szükséges mértékű folyamatos hőelvonást és a végső hőelnyelő közegbe való eljuttatást.
+## 3.4.2.0400. A fővízkör anyagainak kiválasztása során gondoskodni kell a szerkezeti anyagok üzemeltetés alatti felaktiválódásának minimumra csökkentéséről, különös tekintettel az atomerőmű leszerelési szempontjaira.
 
-## 3.3.16.0200. Maradványhőt termelő nukleáris üzemanyagot tartalmazó rendszerek esetében törekedni kell olyan megoldások alkalmazására, hogy a hőelvitel passzív módon is biztosítható legyen.
+## 3.4.2.0500. A fővízkör belső szerkezeti elemei esetében a minimumra kell csökkenteni az olyan meghibásodások lehetőségét, amelyek elszabadult tárgyak keletkezése miatt a fővízkör más elemeinek roncsolódását eredményezhetik.
 
-## 3.3.17. Villamosenergia-ellátó és irányítástechnikai rendszerek
+## 3.4.2.0600. A gőzfejlesztőket úgy kell tervezni, hogy azok megfelelően megbízható gátat jelentsenek mind a primer-, mind a szekunderkör oldaláról. A tervben minimálisra kell korlátozni a primerkörből a szekunderkörbe történő szivárgás lehetőségét, és eszközöket kell biztosítani ennek ellenőrzésére és lokalizálására.
 
-## Villamos rendszerek és rendszerelemek
+## 3.4.2.0700. A gőzfejlesztők hőcserélő csöveit a primer oldalról kell behegeszteni a csőfalba. A hőcserélő csöveket tágítani kell a köztük és a csőfal szekunder oldala közötti rés csökkentése érdekében.
 
-## 3.3.17.0100. Biztosítani kell, hogy az atomerőművi blokk villamosenergia-ellátó rendszere képes legyen – az egyszeres meghibásodás és a telephelyen kívüli külső villamos betáplálás elvesztésének feltételezése mellett – a működéshez szükséges villamos energiával ellátni a nukleáris biztonság szempontjából fontos rendszereket és rendszerelemeket normál üzem, várható üzemi események és tervezési üzemzavarok során.
+## 3.4.2.0800. A gőzfejlesztők hőcserélő csöveit rögzíteni kell a rezgések által okozott romlás csökkentése érdekében. A csőtartókat úgy kell tervezni, hogy minimális legyen az általuk okozott kopás és az üzemi közeg lerakódása, a hőcserélő csövek és a tartózás között. A hőcserélő csöveket kopásálló anyagból kell készíteni.
 
-## 3.3.17.0200. A nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek villamosenergia-ellátását biztonsági osztályuknak megfelelően, differenciált követelmények szerint kell tervezni.
+## 3.4.2.0900. A gőzfejlesztők hőcserélő csőkötegeit úgy kell méretezni, hogy elegendő tartalék álljon rendelkezésre a hőcserélő csövek ledugózásának és eltömődésének kompenzálására a tervezett üzemidő végén is.
 
-## 3.3.17.0300. A villamos rendszerek, rendszerelemek tervezett villamos terhelése – normál üzem, várható üzemi események és tervezési üzemzavarok során – nem haladhatja meg azok névleges terhelhetőségét. A tervezési specifikációnak tartalmaznia kell a rendszerek és rendszerelemek villamos terhelésére vonatkozó korlátozásokat.
+## 3.4.2.1000. Új atomerőművi blokk esetén biztosítani kell, hogy a gőzfejlesztők szekunder oldalának belső kialakítása lehetővé tegye a lerakódások hatékony eltávolítását, idegen agyagok bejutásának megakadályozását a szekunderköri csővezetékekből, valamint a gőzben lévő vízcseppek hatékony eltávolítását.
 
-## 3.3.17.0400. Az atomerőművi blokk normál villamosenergia-ellátó rendszerében bekövetkező események kezelésére a tervezési alapnak megfelelő intézkedéseket kell tartalmaznia úgy, hogy az atomerőművi blokk nukleáris biztonsága ilyen helyzetekben is garantálható legyen.
+## 3.4.2.1100. A gőzfejlesztők víz- és gőztereinek méretét elegendő tartalékkal kell meghatározni annak érdekében, hogy az lehetővé tegye a primer és szekunder körre előirányzott üzemeltetési korlátozások betartását a normál üzem valamennyi állapotában.
 
-## 3.3.17.0500. Az energiaellátó rendszereket, rendszerelemeket a biztonsági osztályba sorolás mellett a villamosenergia-ellátás megengedhető kimaradása szempontjából is csoportosítani szükséges. Ezek alapján kell tervezni az atomerőművi blokk villamos betáplálási hálózatát.
+## 3.4.2.1200. A térfogat-kiegyenlítő víz- és gőztereinek méretét elegendő tartalékkal kell meghatározni, annak érdekében, hogy lehetővé tegye a primerkörre előirányzott üzemeltetési korlátok betartását a normál üzem valamennyi üzemi állapotában.
 
-## 3.3.17.0600. A szünetmentes energiaellátás jellemzőit és a létfontosságú energiaellátás megengedhető kimaradásának időtartamát biztonsági megalapozással kell meghatározni.
+## 3.4.2.1300. A primer kört megfelelő túlnyomás védelemmel kell ellátni. Nyomásszabályozási rendszert kell tervezni a primerköri hőhordozó hőmérsékletváltozásaiból következő térfogatváltozások hatásának kezelésére, az alábbi követelmények figyelembevételével:
 
-## 3.3.17.0700. Az üzemi villamos betáplálás kiesésekor, vagy paramétereinek megengedett tartományból való kilépése esetén a biztonsági villamosenergia-ellátó rendszereknek megfelelő időn belül automatikusan át kell kapcsolniuk a tartalék betáplálásokra.
+## a) a fővízkör rendszerelemeit hideg állapotban is védeni kell a nem megengedhető mértékű túlnyomás ellen,
 
-## 3.3.17.0800. A nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek villamos betáplálásánál láncolt villamos kapcsolatok csak olyan módon létesíthetők, hogy téves üzemi vagy karbantartási műveletek hatására ne fordulhasson elő nem szándékolt funkcióvesztés.
+## b) kizárható nyomáscsökkentő rendszerelemeket kell tervezni a nagyobb nyomástranziensek kezelésére, és
+
+## c) biztosítani kell az üzemzavari nyomáscsökkentést.
+
+## 3.4.2.1400. Új atomerőművi blokk esetén:
+
+## a) cserélhető térfogat-kiegyenlítő üzemi fűtőtesteket, valamint több, olyan független üzemi befecskendező vezetéket kell alkalmazni, amelyek fúvókái könnyen ellenőrizhetők és cserélhetők;
+
+## b) olyan üzemzavari befecskendező rendszert kell tervezni, amely teljesen független az üzemi befecskendező rendszertől; valamint
+
+## c) a térfogat-kiegyenlítőt a primerköri csővezetékkel összekötő vezeték elrendezésénél figyelemmel kell lenni a hőmérséklet-rétegződésre, valamint a külső és belső ellenőrizhetőségre.
+
+## 3.4.3. Hőelvitel
+
+## 3.4.3.0100. Meg kell határozni, minőségileg és mennyiségileg elemezni kell az atomreaktor aktív zónájában történő hőfejlődés és hőátvitel minden létrejövő formáját. A hőátviteli rendszerek, rendszerelemek segítségével biztosítani kell a szükséges mértékű folyamatos hőelvonást és a végső hőelnyelő-közegbe való eljuttatást.
+
+## 3.4.3.0200. Biztosítani kell az aktív zóna hűtését, és ennek érdekében:
+
+## a) kényszercirkulációt kell biztosítani a megtermelt hő vagy maradványhő elszállítására az atomreaktor névleges teljesítményétől a lehűtött állapotáig; és
+
+## b) a fővízkörben elegendő hatékonyságú természetes cirkulációs hűtésről kell gondoskodni, amely biztosítja a maradványhő elvezetését az aktív zónából, a kényszercirkuláció leállított állapotában.
+
+## 3.4.3.0300. A hűtés folyamatos biztosítása érdekében:
+
+## a) kerülni kell a csővezetékek reaktortartályhoz való csatlakoztatását a nukleáris üzemanyag aktív szintje alatt, és amennyiben kisebb vezetékek csatlakoztatása elkerülhetetlen e szint alatt, akkor igazolni kell, hogy a reaktortartály nem üríthető a nukleáris üzemanyag aktív szintje alá leállított állapotokban,
+
+## b) a fővízköri rendszerelemek elrendezésével biztosítani kell, hogy feltöltött állapotban az egyetlen szabad vízfelület a térfogat-kompenzátorban legyen,
+
+## c) a fővízkör nyomvonalának kialakításával biztosítani kell, hogy a gőzfejlesztők leürítéséhez vagy karbantartásához ne legyen szükség a primerköri hőhordozó szintjének a melegági csonkok szintje alá történő csökkentésére,
+
+## d) a nem kondenzálódó gázok eltávolításával biztosítani kell, hogy azok ne tudják a természetes cirkulációt megakadályozni, továbbá
+
+## e) biztosítani kell a korróziós termékek és a lerakódások eltávolítási lehetőségét, annak érdekében, hogy az áramlási útvonalak elzáródása ne veszélyeztethesse az aktív zóna hűthetőségét.
+
+## 3.4.3.0400. A gőzfejlesztőket úgy kell tervezni, hogy azok biztosítsák az atomreaktor megfelelő hűtését minden, a tervezési és kiterjesztett tervezési alapba tartozó üzemállapotban.
+
+## 3.4.3.0500. A maradványhő-elvonó rendszernek egyszeres meghibásodás feltételezésével is biztosítania kell a bomlási hő és a zóna más maradványhőjének az elvezetését oly mértékben, hogy sem a fűtőelemre, sem a primerkör nyomástartó berendezéseire és csővezetékeire megállapított határértékek túllépése ne következzen be.
+
+## 3.4.3.0600. Besugárzott fűtőelemkötegeket tartalmazó rendszerek, így a leállított atomreaktor, vagy a pihentető medence esetében törekedni kell olyan megoldások alkalmazására, hogy a hőelvitel passzív módon is biztosítható legyen.
+
+## 3.4.4. Blokk- és tartalékvezénylő
+
+## 3.4.4.0100. Az atomerőművi blokkon blokkvezénylőt kell kialakítani, ahonnan az atomerőművi blokk normál üzemeltetését, biztonságos állapotban tartását, vagy ilyen állapotba való visszavitelét célzó tevékenységek végrehajthatók a TA1-4 és a TAK1 és TAK2 üzemállapotokban. A blokkvezénylő tervezésekor a legkorszerűbb ergonómiai szempontokat és elveket kell figyelembe venni.
+
+## 3.4.4.0200. Elégséges kijelző és archiváló, valamint beavatkozó eszköznek kell az üzemviteli személyzet rendelkezésére állnia a blokkvezénylőben a TA1-4 és a TAK1 és TAK2 üzemállapotokra a következő célokból:
+
+## a) az atomerőművi blokk és rendszerei, rendszerelemei állapotának megfelelő nyomon követése,
+
+## b) a biztonságra lényeges hatással lévő változások nyilvánvaló és időben történő jelzése,
+
+## c) bármilyen automatikus védelmi működés azonosítása, elmaradásuk esetén azok indítása, valamint
+
+## d) átfogó kép kialakítása az atomerőművi blokk folyamatairól.
+
+## 3.4.4.0300. Az atomerőművi blokkon tartalékvezénylőt kell kialakítani a blokkvezénylőtől fizikailag és villamos rendszerét tekintve is elkülönített helyen, ahová elégséges műszerezést, szabályozó- és vezérlőeszközöket kell telepíteni annak érdekében, hogy ha a blokkvezénylő üzemszerű használata bármilyen okból lehetetlenné válna, akkor:
+
+## a) az atomreaktor leállítható, lehűthető és korlátlan ideig biztonságos állapotban tartható legyen; valamint
+
+## b) az atomreaktor és a besugárzott fűtőelemkötegeket tartalmazó egyéb rendszerek maradványhő elvonása, az atomerőművi blokk fontos jellemzőinek folyamatosan ellenőrzése biztosított legyen.
+
+## 3.4.4.0400. A tartalékvezénylő funkcióképességét rendszeres ellenőrzéssel kell biztosítani.
+
+## 3.4.4.0500. Biztosítani kell, hogy a TA1-4 és a TAK1 és TAK2 üzemállapotok belső vagy külső eseményei során a blokkvezénylő és a tartalékvezénylő egyidejűleg ne válhasson használatra alkalmatlanná, továbbá a blokkvezénylő és tartalékvezénylő alkalmas legyen az üzemviteli személyzet hosszú idejű tartózkodásának biztosítására.
+
+## 3.4.4.0600. A blokk- és a tartalékvezénylőben biztosítani kell a szükséges információk fogadását és megjelenítését, lehetővé téve az atomerőművi blokk állapotának és a kritikus biztonsági funkciók időben történő értékelését TA2-4 és TAK1, TAK2 üzemállapotokban is.
+
+## 3.4.4.0700. A biztonsági funkciót teljesítő blokk- és tartalékvezénylői rendszerek, rendszerelemek számára folyamatos, szünetmentes villamos betáplálást kell biztosítani.
+
+## 3.4.4.0800. Olyan műszaki megoldásokat kell alkalmazni, amelyek kizárják a rendszerek, rendszerelemek egyidejű működtethetőségét a blokkvezénylőből és a tartalékvezénylőből. Amikor valamelyik vezénylő használatban van, ki kell zárni a másik vezénylőből érkező jeleket. A tartalékvezénylő illetéktelen használatát meg kell akadályozni. Új atomerőművi blokk esetén a tartalékvezénylő használatára irányuló próbálkozásról a blokkvezénylőben jelzést kell biztosítani.
+
+## 3.4.4.0900. Kiemelten kell kezelni azoknak a blokk- és tartalékvezénylőn belül vagy kívül lehetséges eseményeknek az azonosítását, amelyek közvetlenül veszélyeztethetik az ott dolgozó személyzetet, a vezénylő folytonos használatát. A tervezés során olyan ésszerűen megvalósítható intézkedéseket kell meghatározni, melyek minimalizálják az ilyen események hatásait.
+
+## 3.4.4.1000. A blokk- és tartalékvezénylőt önálló tűzszakaszokban kell elhelyezni, ami lehetővé teszi az atomreaktor biztonságos leállítását és a leállított állapotban szükséges biztonsági funkciók fenntartását a környező helyiségekben fellépő tűz esetén is.
+
+## 3.4.4.1100. A blokk- és a tartalékvezénylő tervezésekor figyelembe kell venni az alábbi követelményeket:
+
+## a) biztosítani kell a stabil és kiegyensúlyozott feladatmegosztást és elegendő információs eszközt az üzemviteli személyzet számára,
+
+## b) meg kell oldani a megjelenített információ és a beavatkozó eszközök logikus, funkcionális csoportosítását, különös tekintettel arra, hogy az információ és a beavatkozások csoportosítása ne legyen ellentmondásos, valamint
+
+## c) biztosítani kell, hogy felesleges, lényegtelen információ ne legyen megjelenítve.
+
+## 3.4.4.1200. A blokkvezénylő tervezésekor a 3.4.4.0100. pontnak megfelelően figyelembe kell venni az alábbi követelményeket:
+
+## a) biztosítani kell a rendszerek és folyamatok képernyő alapú ellenőrzésének lehetőségét, valamint a kezelő személyzetet segítő nagykapacitású számítástechnikai eszközöket,
+
+## b) a blokkvezénylői személyzet által jól láthatóan és könnyen értelmezhető módon biztosítani kell az atomerőművi blokk mindenkori állapotának és fő paramétereinek egységes áttekintését, valamint
+
+## c) a blokkvezénylői személyzet által biztonságosan elérhető és kezelhető közelségében biztosítani kell:
+
+## ca) a külső és belső kommunikációhoz szükséges eszközök rendelkezésre állását,
+
+## cb) a technológiai folyamatok és a kibocsátások sugárvédelmi méréseinek eredményeit,
+
+## cc) a tűzjelző rendszerekből származó információkat és egyes kiemelt fontosságú tűzoltó rendszerek működtetését,
+
+## cd) a karbantartási feladatok és engedélyezések végrehajtásához szükséges eszközöket,
+
+## ce) a blokkvezénylői dokumentáció rendelkezésre állását, és
+
+## cf) a blokkvezénylőbe történő belépés felügyeletét és korlátozását szolgáló eszközöket.
+
+## 3.4.4.1300. A tartalékvezénylő tervezésekor figyelembe kell venni az alábbi követelményeket:
+
+## a) a tartalékvezénylő várható használati eseteit figyelembe véve biztonságos megközelítési útvonalat kell kialakítani a blokkvezénylő és a tartalékvezénylő között,
+
+## b) a tartalékvezénylő ember-gép kapcsolati megoldásait, a funkció figyelembevételével, a blokkvezénylőhöz hasonlóan kell kialakítani, valamint
+
+## c) a tartalékvezénylőben biztosítani kell:
+
+## ca) a működtetéshez szükséges személyzet megfelelő elhelyezkedését,
+
+## cb) a külső és belső kommunikációhoz szükséges eszközök rendelkezésre állását,
+
+## cc) a tartalékvezénylőből végrehajtandó feladatokhoz szükséges információs és beavatkozó eszközöket, és
+
+## cd) a tartalékvezénylői dokumentáció rendelkezésre állását.
+
+## 3.4.5. Villamos rendszerek és irányítástechnika
+
+## Villamos rendszerek és berendezések
+
+## 3.4.5.0100. Biztosítani kell, hogy az atomerőművi blokk villamosenergia-ellátó rendszere képes legyen – az egyszeres meghibásodás és a telephelyen kívüli külső villamos betáplálás elvesztésének feltételezése mellett – a működéshez szükséges villamos energiával ellátni a biztonsági osztályba sorolt rendszereket és rendszerelemeket.
+
+## 3.4.5.0200. Biztosítani kell, hogy mind a belső, mind a külső hálózatból induló villamos tranziensek az atomerőművi blokk rendszereit minimális mértékben érintsék.
+
+## 3.4.5.0300. A nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek villamosenergia-ellátását biztonsági osztályuknak megfelelően, differenciált követelmények szerint kell tervezni.
+
+## 3.4.5.0400. A TA1-4 üzemállapotokban a villamos rendszerek, rendszerelemek megengedett villamos terhelése nem haladhatja meg azok névleges terhelhetőségét. A tervezési specifikációban kell megadni a rendszerek és rendszerelemek villamos terhelésére vonatkozó korlátozásokat.
+
+## 3.4.5.0500. Az atomerőművi blokk normál villamosenergia-ellátó rendszerében bekövetkező események kezelésére megfelelő intézkedéseket kell tartalmaznia a tervezési alapnak úgy, hogy az atomerőművi blokk biztonsága ilyen helyzetekben is garantálható legyen.
+
+## 3.4.5.0600. Az energiaellátó rendszereket, rendszerelemeket, a biztonsági osztályba sorolás mellett, a villamosenergia-ellátás megengedhető kimaradása szempontjából is csoportosítani kell. Ezek alapján kell megtervezni az atomerőművi blokk villamos betáplálási hálózatát.
+
+## 3.4.5.0700. A szünetmentes energiaellátás jellemzőit és a létfontosságú energiaellátás megengedhető kimaradásának időtartamát biztonsági megalapozással kell meghatározni.
+
+## 3.4.5.0800. Az üzemi villamos betáplálás kiesésekor, vagy paramétereinek megengedett tartományból való kilépése esetén a biztonsági villamosenergia-ellátó rendszereknek megfelelő időn belül automatikusan át kell kapcsolniuk a tartalék betáplálásokra.
+
+## 3.4.5.0900. A nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek villamos betáplálásánál láncolt villamos kapcsolatok csak olyan módon létesíthetők, hogy téves üzemi vagy karbantartási műveletek hatására ne fordulhasson elő nem szándékolt funkcióvesztés.
 
 ## Irányítástechnika
 
-## 3.3.17.0900. Biztosítani kell az alapvető biztonsági funkciók ellenőrzéséhez szükséges paraméterek mérésére alkalmas műszerezést, megteremtve ezzel az atomerőművi blokk megbízható és biztonságos üzemeltetéséhez, a várható üzemi események és tervezési üzemzavarok levezényléséhez szükséges információ rendelkezésre állását. A nukleáris biztonság szempontjából fontos rendszerekre vonatkozó minden lényeges, mért és származtatott paraméter automatikus rögzítéséről is gondoskodni kell.
+## 3.4.5.1000. Biztosítani kell az alapvető biztonsági funkciók ellenőrzéséhez szükséges paraméterek mérésére alkalmas műszerezést, megteremtve ezzel az atomerőművi blokk megbízható és biztonságos üzemeltetéséhez, a TA1-4 és a TAK1, TAK2 üzemállapotot eredményező események kezeléséhez szükséges információk rendelkezésre állását. A nukleáris biztonság szempontjából fontos rendszerekre vonatkozó minden lényeges, mért és származtatott paraméter automatikus rögzítéséről is gondoskodni kell.
 
-## 3.3.17.1000. Ellenőrző és mérőműszerezést kell biztosítani a radioaktív anyagok előfordulási helyeinek megfigyeléséhez és mennyiségének méréséhez minden olyan helyen, ahol a környezetbe történő kibocsátásuk lehetséges.
+## 3.4.5.1100. Ellenőrző és mérőműszerezést kell biztosítani a radioaktív anyagok előfordulási helyeinek megfigyeléséhez és mennyiségének méréséhez minden olyan helyen, ahol a környezetbe történő kibocsátásuk lehetséges.
 
-## 3.3.17.1100. Tervezési és adminisztratív intézkedésekkel kell megakadályozni, hogy egy nukleáris biztonság szempontjából fontos rendszer, rendszerelem műszer- és irányítástechnikai konfigurációja, működtető logikája vagy a hozzá tartozó adatok megváltoztathatók legyenek olyan alkalmi vagy készen található karbantartói vagy tesztmegoldásokkal, amelyeket nem arra a funkcióra terveztek.
+## 3.4.5.1200. A nukleáris biztonság szempontjából fontos rendszer, rendszerelem műszer- és irányítástechnikai konfigurációja, működtető logikája vagy a hozzá tartozó adatok nem lehetnek megváltoztathatók olyan karbantartói vagy tesztmegoldásokkal, amelyek nem arra a funkcióra tervezettek, vagy nem állnak szigorú adminisztratív ellenőrzés alatt.
 
-## 3.3.17.1200. A védelmi működéshez tartozó jelzéseket a határérték-túllépés megszűnése után is csak az üzemeltető személyzet beavatkozásával lehet nyugtázni.
+## 3.4.5.1300. A védelmi működésekhez, fontos paraméter-eltérésekhez tartozó jelzéseket hangjelzéssel kell ellátni a blokk- és tartalékvezénylőben egyaránt. A védelmi működéshez tartozó jelzések a határérték-túllépés megszűnése után is csak az üzemviteli személyzet beavatkozásával lehetnek nyugtázhatóak.
 
-## 3.3.17.1300. A biztonsági paraméterekkel kapcsolatos műszerezésnek biztosítania kell mind a mérés, mind a feldolgozórendszer hibás állapotának felismerhetőségét.
+## 3.4.5.1400. A biztonsági paraméterekkel kapcsolatos műszerezésnek biztosítania kell mind a mérés, mind a feldolgozórendszer hibás állapotának felismerhetőségét.
 
-## 3.3.17.1400. Megfelelő szabályozó eszközöket kell alkalmazni üzemi paraméterek előírt üzemi tartományban való tartása céljából.
+## 3.4.5.1500. Megfelelő szabályozási eszközöket kell alkalmazni az üzemi paraméterek előírt tartományban tartása céljából.
 
-## 3.3.17.1500. Olyan műszerezést kell létesíteni, amely alkalmas arra, hogy információt adjon az atomerőművi blokk állapotáról súlyos balesetek környezeti körülményei között is, az ilyen helyzetre kidolgozott útmutató és utasítások terjedelmében.
+## 3.4.5.1600. Olyan műszerezést, adatfeldolgozó, megjelenítő és archiváló rendszert kell létesíteni, amely alkalmas arra, hogy információt adjon az atomerőművi blokk állapotáról TAK2 üzemállapot környezeti körülményei között is, az ilyen helyzetre kidolgozott útmutató és belső utasítások terjedelmében.
 
 ## Programozható irányítástechnikai rendszerek, rendszerelemek
 
-## 3.3.17.1600. A programozható irányítástechnikai rendszerek funkcionális specifikációjának meg kell felelnie a következő követelményeknek:
+## 3.4.5.1700. A programozható irányítástechnikai rendszereknek biztosítaniuk kell:
 
-## a) azonosítja az irányítási feladatot, a technológiai céloknak és követelménynek megfelelően,
+## a) az atomreaktor biztonságos automatikus leállítását és a biztonsági rendszerek indítását meghatározott paraméterek elérése esetén,
+
+## b) elegendő és megfelelő információt az üzemeltető személyzet számára az atomerőmű állapotáról,
+
+## c) beavatkozási és ellenőrzési eszközöket
+
+## ca) az elmaradt automatikus működések pótlására,
+
+## cb) az atomreaktor kézi vagy automatikus úton történő biztonságos leállított állapotba viteléhez, és ilyen állapotban tartásához, a TA1-4 és a TAK1 üzemállapotok körülményei között,
+
+## cc) azokhoz a biztonsági beavatkozásokhoz, amelyek nem tartoznak az automatikus biztonsági működések körébe, valamint
+
+## cd) a balesetkezeléshez szükséges kézi működtetésű műveletekhez, továbbá
+
+## d) megfelelő adattárolási, rögzítési rendszert arra, hogy valamely tranziens és üzemzavar részletei később kivizsgálhatóak legyenek.
+
+## 3.4.5.1800. Biztosítani kell, hogy a reaktorvédelmi rendszer érzékelje a TA1-4 és a TAK1 üzemállapotokat és az állapotnak megfelelően biztosítsa:
+
+## a) az atomreaktor leállítását,
+
+## b) a megfelelő biztonsági funkciót ellátó rendszerelemek működtetését, és
+
+## c) a támogató funkciók indítását.
+
+## 3.4.5.1900. A programozható irányítástechnikai rendszerek funkcionális specifikációjának meg kell felelnie a következő követelményeknek:
+
+## a) azonosítja az irányítási feladatot a technológiai céloknak és követelménynek megfelelően,
 
 ## b) minden irányítási feladathoz egyértelmű azonosító kódot rendel,
 
-## c) az irányítási feladatokat a hozzárendelt technológiai feladat nukleáris biztonsági szerepe alapján biztonsági osztályba sorolja,
+## c) az irányítási feladatokat a hozzárendelt technológiai feladat biztonsági szerepe alapján biztonsági osztályba sorolja,
 
-## d) meghatározza az operátori beavatkozást igénylő feladatokat normál üzemre, várható üzemi eseményekre és tervezési üzemzavarokra vonatkozóan oly módon, hogy az üzemeltető személyzet képes legyen azokat teljesíteni,
+## d) meghatározza az operátori beavatkozást igénylő feladatokat az atomerőmű TA üzemállapotra vonatkozóan oly módon, hogy az üzemeltető személyzet képes legyen azokat teljesíteni,
 
 ## e) tartalmazza az operátori feladatok végrehajtásához és az automatikus feladatok ellenőrzéséhez szükséges információkat,
 
-## f) az áttekinthetőség érdekében többszintű, és megfelelően strukturált,
+## f) az áttekinthetőség érdekében többszintű, és megfelelően strukturált, továbbá
 
-## g) funkcionális ellenőrzésére, validálásra – 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszerek esetén – szimulációs módszereket alkalmaz, továbbá
+## g) ABOS 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszerek esetén azok funkcionális ellenőrzésére, validálására szimulációs módszereket határoz meg, továbbá
 
-## h) formai ellenőrzésére, verifikálásra automatizált rendszert irányoz elő.
+## h) formai ellenőrzésére, verifikálására automatizált rendszert irányoz elő.
 
-## 3.3.17.1700. Valamely programozható irányítástechnikai rendszer és rendszerelemei tervezése és kivitelezése az adott biztonsági besorolású, programozott irányítástechnikai berendezésekre vonatkozó, kiválasztott szabványoknak megfelelően, differenciált követelmények szerint történik.
+## 3.4.5.2000. A programozható irányítástechnikai rendszerek és rendszerelemek tervezését és kivitelezését az adott biztonsági besorolású, programozott irányítástechnikai rendszerekre és rendszerelemekre vonatkozó kiválasztott szabványoknak megfelelően, differenciált követelmények szerint kell végezni.
 
-## 3.3.17.1800. Meg kell határozni a programozható irányítástechnikai rendszerek és a külvilág közti emberi és automatikus kölcsönhatásokat logikai és fizikai interfészek formájában. A kölcsönhatások tervezése során figyelembe kell venni a normál üzemet, várható üzemi eseményeket és tervezési üzemzavarokat egyaránt. A tervezett kölcsönhatások nem akadályozhatják az automatikus biztonsági funkciók teljesítését.
+## 3.4.5.2100. Meg kell határozni a programozható irányítástechnikai rendszerek és a külvilág közötti emberi és automatikus kölcsönhatásokat logikai és fizikai interfészek formájában. A tervezett kölcsönhatások nem akadályozhatják az automatikus biztonsági funkciók teljesítését.
 
-## 3.3.17.1900. Biztosítani kell, hogy a 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszerek alrendszerei legyenek a megkövetelt hibatűrő képesség teljesítéséhez elegendő mértékben redundánsak, továbbá a redundáns készletek legyenek funkcionálisan a lehető legnagyobb mértékben azonosak, a szándékolt diverzitás alkalmazása mellett.
+## 3.4.5.2200. Az ABOS 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszerek alrendszereinek a megkövetelt hibatűrő képesség teljesítéséhez elegendő mértékben redundánsnak kell lenniük. A redundáns készleteknek funkcionálisan a lehető legnagyobb mértékben azonosak kell lenniük a szándékolt diverzitás alkalmazása mellett.
 
-## 3.3.17.2000. A programozható irányítástechnikai rendszerek funkcióinak alrendszerekhez rendelése során alkalmazni kell a mélységben tagolt védelem elvét. Nem lehet a nem biztonsági vagy az alacsonyabb biztonsági osztályba sorolt funkciókat beépíteni egy adott biztonsági osztályba sorolt alrendszerbe. Amennyiben erre nincs lehetőség, biztonsági elemzéssel kell igazolni, hogy az alacsonyabb biztonsági osztályú funkciót teljesítő alrendszer semmilyen módon nem akadályozza valamely magasabb biztonsági osztályú funkció ellátását.
+## 3.4.5.2300. A programozható irányítástechnikai rendszerek funkcióinak alrendszerekhez rendelése során alkalmazni kell a mélységben tagolt védelem elvét. A nem biztonsági, vagy az alacsonyabb biztonsági osztályba sorolt funkciók nem építhetők be egy biztonsági osztályba sorolt, vagy magasabb biztonsági osztályba sorolt alrendszerbe. Amennyiben erre nincs lehetőség, biztonsági elemzéssel kell igazolni, hogy az alacsonyabb biztonsági osztályú funkciót teljesítő alrendszer semmilyen módon nem akadályozza valamely magasabb biztonsági osztályú funkció ellátását.
 
-## 3.3.17.2100. Különböző biztonsági osztályba sorolt programozható irányítástechnikai rendszerek közötti kapcsolat esetén igazolni kell, hogy az alacsonyabb osztályba sorolt rendszer a magasabb osztályba sorolt rendszer működését nem befolyásolja. Azonos biztonsági osztályba sorolt programozható irányítástechnikai rendszerek közötti kapcsolat esetén igazolni kell, hogy az egyik rendszer hibája a másik autonóm biztonsági funkcióinak teljesítését nem gátolja.
+## 3.4.5.2400. Különböző biztonsági osztályba sorolt programozható irányítástechnikai rendszerek közötti kapcsolat esetén igazolni kell, hogy az alacsonyabb osztályba sorolt rendszer a magasabb osztályba sorolt rendszer működését nem befolyásolja. Azonos biztonsági osztályba sorolt programozható irányítástechnikai rendszerek közötti kapcsolat esetén igazolni kell, hogy az egyik rendszer hibája a másik autonóm biztonsági funkcióinak teljesítését nem gátolja.
 
-## 3.3.17.2200. A különböző biztonsági osztályba sorolt programozható irányítástechnikai rendszer-funkciók megtervezett és az elemzésekben figyelembe vett prioritási sorrendben hatnak a végrehajtó szervekre. A berendezés-védelem a legalacsonyabb prioritást kapja, kivéve, ha a berendezés sérülése további kockázatnövekedést okoz.
+## 3.4.5.2500. A programozható irányítástechnikai rendszerek pontosságára, válaszidejére, eseménysorrend-meghatározására, feldolgozási kapacitástartalékára és kommunikációs kapacitástartalékára vonatkozóan az atomerőmű tervezési alapjával konzisztensen kell a követelményeket meghatározni.
 
-## 3.3.17.2300. A programozható irányítástechnikai rendszerek pontosságára, válaszidejére, eseménysorrend-meghatározására, feldolgozási- és kommunikációskapacitás-tartalékára vonatkozóan az atomerőmű tervezési alapjával konzisztensen kell a követelményeket meghatározni.
+## 3.4.5.2600. Minden ABOS 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszer által ellátott biztonsági funkció tekintetében biztosítani kell az egyszeres hibatűrő képesség folyamatos fenntartását. Funkcióvesztés még karbantartás vagy időszakos próba esetében sem engedhető meg. Igazolni kell, hogy az alkalmazott architektúra megfelel a megbízhatósági követelményeknek.
 
-## 3.3.17.2400. Minden, a 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszer által ellátott biztonsági funkció tekintetében az egyszeres hibatűrés képességének folyamatos fenntartása szükséges. Funkcióelvesztés még karbantartás vagy időszakos próba esetében sem engedhető meg. Az alkalmazott architektúra megfelelését a megbízhatósági követelményeknek biztonsági elemzéssel kell igazolni.
+## 3.4.5.2700. Az ABOS 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszerek összes komponensének automatikus önellenőrző képességgel kell rendelkezni. Az önellenőrzés során feltárt hiba esetén – ha szükséges –, az alrendszer kimeneteit egy előre meghatározott, a biztonság irányába ható állapotba kell vezérelni.
 
-## 3.3.17.2500. A 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszerek összes komponensének rendelkeznie kell automatikus önellenőrző képességgel. Az önellenőrzés során feltárt hiba esetén – ha szükséges –, az alrendszernek egy előre meghatározott, a biztonság irányába ható állapotba kell vezérelnie kimeneteit.
+## 3.4.5.2800. Az ABOS 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszerek önellenőrzés által nem ellenőrizhető meghibásodásainak feltárására, valamint a biztonsági funkciók működőképességének demonstrálására manuális kezdeményezésű tesztelési lehetőséget kell biztosítani. A tesztelési ciklusidő megfelelőségét valószínűségi biztonsági elemzés alapú megbízhatósági számításokkal kell igazolni.
 
-## 3.3.17.2600. A 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszerek önellenőrzés által nem ellenőrizhető meghibásodásainak feltárására, valamint a biztonsági funkciók működőképességének demonstrálására manuális kezdeményezésű tesztelési lehetőséget kell biztosítani. A tesztelési ciklusidő megfelelőségét valószínűségi biztonsági elemzésen alapuló megbízhatósági számításokkal kell igazolni.
+## 3.4.5.2900. Az ABOS 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszerek esetén, a közös okú hibák lehetőségét minimalizálni kell megfelelő mértékű funkcionális vagy rendszerelem szintű diverzitás alkalmazásával. A diverzitás szükséges mértékét a megkívánt megbízhatósági követelményekből kell levezetni. Elemzéssel kell igazolni, hogy a választott megoldás mellett a közös okú meghibásodások valószínűsége elegendően alacsony.
 
-## 3.3.17.2700. A 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszerek esetén a közös okból eredő hibák lehetőségét minimalizálni kell, megfelelő mértékű funkcionális vagy berendezésszintű diverzitás alkalmazásával. A diverzitás szükséges mértékét a megkívánt megbízhatósági követelményekből kell levezetni, és elemzéssel kell igazolni, hogy a választott megoldási mód mellett a közös okból eredő meghibásodások valószínűsége elegendően alacsony.
+## 3.4.5.3000. Az atomerőmű tervezési alapjával összhangban követelményeket kell meghatározni – adott működési igény esetén – a működéselmaradás valószínűségére, valamint, ABOS 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszerek esetén, a téves működés gyakoriságára vonatkozóan.
 
-## 3.3.17.2800. Az atomerőmű tervezési alapjával összhangban követelményeket kell meghatározni – adott működési igény esetén – a működéselmaradás valószínűségére, valamint 2. biztonsági osztályba sorolt programozható irányítástechnikai rendszerek esetén, a téves működés gyakoriságára vonatkozóan.
+## 3.4.5.3100. Biztonsági osztályba sorolt programozható irányítástechnikai rendszerek komponenseit az adott környezetben teljes körűen kell tesztelni, a tesztelési és az elfogadási kritériumok előzetes meghatározásával.
 
-## 3.3.17.2900. Biztonsági osztályba sorolt PIR komponenseit az adott környezetben külön és együtt is teljes körűen kell tesztelni, a tesztelési és az elfogadási kritériumok előzetes rögzítésével.
+## 3.4.5.3200. Megfelelő tervezési megoldásokkal biztosítani kell, továbbá intézkedésekkel kell biztosítani, hogy a programozható irányítástechnikai rendszerekhez – mind fizikailag, mind logikailag – csak azok a személyek férjenek hozzá, akiknek az szükséges és megengedett, és csak olyan szinten, olyan lehetőségekkel, amelyek a számukra előírt feladatok elvégzését lehetővé teszik.
 
-## 3.3.17.3000. Megfelelően megtervezett intézkedésekkel kell biztosítani, hogy a programozható irányítástechnikai rendszerekhez – mind fizikailag, mind logikailag – csak azok a munkavállalók férjenek hozzá, akiknek az szükséges, és csak olyan szinten, olyan lehetőségekkel, amelyek a számukra előírt feladatok elvégzését lehetővé teszik.
+## 3.4.5.3300. Kereskedelmi termék alkalmazása esetén a terméknek rendelkeznie kell egyedi- és típus-azonosítással és megfelelő minősítéssel, annak igazolására, hogy a termék a tervezési alapból levezetett követelményeknek megfelel.
 
-## 3.3.17.3100. Kereskedelmi termék betervezése vagy alkalmazása esetén a terméknek rendelkeznie kell egyedi és típusazonosítással, valamint megfelelő minősítéssel, annak igazolására, hogy a termék a tervezési alapból levezetett követelményeknek megfelel.
+## 3.4.5.3400. A műszerezettségnek a TA1-4 és a TAK1, TAK2 üzemállapotok körülményei között is információt kell szolgáltatnia a kritikus biztonsági funkciók, valamint az atomerőművi blokk és a technológiai rendszerek állapotáról.
 
-## 3.3.17.3200. Amennyiben a rendszerelem élettartama rövidebb a rendszer élettartamánál, a rendszerelem cserélhetőségét biztosítani kell.
+## Az informatikai és irányítástechnikai biztonság tervezési követelményei új atomerőművi blokk esetén
 
-## 3.3.18. A hermetizálás és környezeti feltételek biztosítása
+## 3.4.5.3500. Az Előzetes Biztonsági Jelentésben és a Végleges Biztonsági Jelentésben meg kell határozni az atomerőművi blokk irányítástechnikájával összefüggésben a mereven huzalozott – a félvezető alapú áramkörökkel gyártott logikákat beleértve – és a programozott eszközök megkülönböztetésével az informatikai és irányítástechnikai biztonság szempontjából kockázatot jelentő hozzáférések, valamint a funkció, a programok és az adatok módosításának fizikai lehetőségeit. Ezeket a lehetőségeket a megvalósíthatóság, valamint a módosítás eléréséhez szükséges szakértelem szintjének szempontjából sorrendbe kell állítani.
 
-## 3.3.18.0100. Az atomerőművi blokkon konténment rendszerrel kell biztosítani, hogy a tervezési üzemzavarok során a radioaktív anyagok környezetbe történő kibocsátása az előírt korlátok alatt maradjon. A rendszer tartalmazza:
+## 3.4.5.3600. A számítógépek rendellenességeit detektálni kell. Biztosítani kell, hogy a program és a konstans adatfájlok át nem írható adathordozóról beolvasott, installáláskor képzett megbízható adatok szerint ellenőrizhetőek legyenek. Ahol ésszerűen megvalósítható, szükséges a technológiából beolvasott adatok hihetőségének vizsgálata.
 
-## a) a primer kör minden lényeges részét magába foglaló légtömör szerkezetet;
+## 3.4.5.3700. A védelmi és biztonsági rendszerekhez tartozó végrehajtó szerveket működtető továbbá a nukleáris biztonság szempontjából fontos, az üzemeltető személyzet döntéseit befolyásoló adatokat gyűjtő és megjelenítő funkciókat ellátó rendszereket és eszközöket meg kell védeni a biztonsági funkció megváltoztatását vagy ellehetetlenítését elvileg lehetővé tévő külső informatikai befolyásolás ellen.
 
-## b) a nyomások és hőmérsékletek szabályozására képes rendszereket;
+## 3.4.5.3800. A védelmi és biztonsági rendszerekhez tartozó végrehajtó szerveket működtető, továbbá a nukleáris biztonság szempontjából fontos, az üzemeltető személyzet döntéseit befolyásoló adatokat gyűjtő és megjelenítő funkciókat ellátó rendszereket és eszközöket úgy kell kialakítani, hogy az adatok áramlása csak belülről kifelé mehessen végbe.
 
-## c) hermetizáló elemeket; és
+## 3.4.5.3900. A biztonsági zónákat a rendszerekhez és eszközökhöz való fizikai hozzáférés lehetőségeivel összhangban kell kialakítani, beleértve az informatikai adattovábbító eszközök és az adatkábelek elhelyezését is.
+
+## 3.4.5.4000. Ki kell dolgozni a szükséges adminisztratív rendszert és az ehhez tartozó belső eljárás és a hozzáférések biztonsági protokolljait:
+
+## a) a rendszerekben szükséges karbantartás elvégzésére,
+
+## b) a digitális rendszerek szükséges módosítására,
+
+## c) a feltárt program- és adathibák kijavítására, és
+
+## d) az adathordozók ellenőrzésére, ki- és beszállítására.
+
+## 3.4.6. A konténment és rendszerei
+
+## A konténment konstrukciós kialakítása és szerkezeti integritása
+
+## 3.4.6.0100. A konténment tervezése során meg kell valósítani:
+
+## a) a hasadási termékek kijutását korlátozó fizika gát funkciót és a hasadási termékek ellenőrzött kibocsátását biztosító funkciót;
+
+## b) az atomreaktor TA1-4 üzemállapotai során az ionizáló sugárzástól védő árnyékolás funkcióját; és
+
+## c) a külső események elleni védelem funkcióját.
+
+## 3.4.6.0200. A konténment fizikai gát és ellenőrzött kibocsátási funkciójának megvalósításához:
+
+## a) a konténment szivárgását olyan értéken kell korlátozni, amely mellett a TA3-4 üzemállapot esetén a kibocsátások az ésszerűen elérhető legalacsonyabb szinten tarthatók,
+
+## b) biztosítani kell a radioaktív aeroszolok és a radiojód koncentrációjának csökkentését a konténment légterében,
+
+## c) hermetizáló szerelvények alkalmazásával biztosítani kell a konténment falán keresztülhaladó csővezetékeken a hermetizálást,
+
+## d) a konténment fizikai integritásának megőrzése érdekében biztosítani kell a konténment normálüzemi klímájának megfelelőségét, és azt, hogy a konténment normálüzemi szellőzőrendszere alkalmas legyen a terv szerinti konténmenten belüli nyomás biztosítására,
+
+## e) biztosítani kell a konténment szivárgásának időszakos felügyeletét,
+
+## f) biztosítani kell a hő elvezetését a konténmentből, a szerkezet túlnyomás elleni védelmét és a keletkezett hidrogén kezelését az üzemzavarok során,
+
+## g) biztosítani kell a konténment atmoszférájának tisztítását vagy a konténmentből kibocsátott gáznemű közeg szűrését, továbbá
+
+## h) a konténment elemeinek az ésszerűen elérhető legalacsonyabb szinten kell tartania a bennfoglalt rendszerekből, rendszerelemekből származó közvetlen sugárzás hatását a konténmenten belül munkát végzőkre és a konténmenten kívül tartózkodókra.
+
+## 3.4.6.0300. A külső események elleni védelmi funkció kialakítása során biztosítani kell, hogy:
+
+## a) a konténment épületszerkezete és belső szerkezeti elemei, továbbá a konténment technológiai rendszerei olyan kialakításúak és olyan ellenállóak legyenek a külső veszélyeztető tényezők hatásaival szemben, hogy biztosítsák a B1 fizikai gát funkcióval rendelkező ABOS 1, azaz a primerköri hőhordozót tartalmazó fővízköri rendszerek és rendszerelemek valamint az üzemanyag-sérülés megelőzésére betervezett rendszerek épségét és működőképességét a külső események bekövetkezésekor, a konténment megengedett szivárgási értékének és a szerkezet globális integritásának megtartása mellett, és
+
+## b) új atomerőművi blokk esetén a TAK1 és TAK2 üzemállapotokban is őrizze meg a konténment a globális szerkezeti integritását.
+
+## 3.4.6.0400. A konténment funkcióit egy, vagy két különálló konténment szerkezettel egyaránt lehet biztosítani.
+
+## 3.4.6.0500. A konténment tervezésekor figyelembe kell venni a TA2-4 üzemállapotot eredményező folyamatokat és a TAK1, TAK2 üzemállapotot eredményező eseményeket – az adott üzemállapotra meghatározott megfelelőségi kritériumok szerint. A konténment szilárdsági méretezésére a nyomástartó berendezésekre és csővezetékekre vonatkozó általános elveket kell alkalmazni, figyelembe véve a teherviselő szerkezet anyagával és konstrukciójával összefüggő sajátosságokat.
+
+## 3.4.6.0600. A konténmentet úgy kell megtervezni, hogy lehetőség legyen
+
+## a) a konténment nyomástartó képességének rendszeres ellenőrzésére,
+
+## b) a szivárgás ellenőrzésére üzemi nyomáson,
+
+## c) nyomáspróba végrehajtására,
+
+## d) a konténment állapotának, funkció ellátási képességének ellenőrzésére, valamint
+
+## e) a rugalmas tömítéssel és expanziós toldattal rendelkező átvezetések, közlekedőnyílások, zsilipek tömörségének periodikus, lokális tesztelésére.
+
+## 3.4.6.0700. Meg kell határozni a konténment ellenőrzésének módját és gyakoriságát.
+
+## 3.4.6.0800. A konténmenten megfelelő méretű átvezetésekről kell gondoskodni a belső helyiségek vagy térrészek között, hogy a nyomáskülönbség vagy a konténment közegének nagy áramlási sebessége ne okozzon károsodást a szerkezetben vagy más rendszerelemben.
+
+## 3.4.6.0900. Az üzemeltető személyzet konténmentbe való belépését olyan reteszelt zsilipeken keresztül kell megvalósítani, ahol biztosítható, hogy legalább a zsilip egyik ajtaja zárt állapotban van a TA1-4 üzemállapotokban.
+
+## 3.4.6.1000. Meg kell határozni a konténment zsilipeknek a TAK1, TAK2 üzemállapotra érvényes funkcionalitási követelményeit.
+
+## 3.4.6.1100. Új atomerőművi blokk esetén a konténment nyomástartó részére vonatkozó tervezési tartaléknak biztosítania kell, hogy az üzemeltetés, karbantartás, vizsgálat, valamint a TA1-4 üzemállapotokban feltételezett igénybevételek hatására a ferrites szerkezetű anyagok nem fognak ridegen viselkedni, és az instabil repedésterjedés valószínűsége minimális lesz.
+
+## 3.4.6.1200. A burkolatok és bevonatok anyagát a konténment funkciójának megfelelően kell kiválasztani, alkalmazásukat specifikálni. Alkalmazásuk, kopásuk, meghibásodásuk nem befolyásolhatja a biztonsági funkciók ellátását.
+
+## A konténment technológiai rendszerei
+
+## 3.4.6.1300. A konténmentnek mint rendszernek magába kell foglalnia:
+
+## a) a primer kör minden lényeges részét,
+
+## b) a nyomások és hőmérsékletek szabályozására képes rendszereket,
+
+## c) a hermetizáló elemeket, továbbá
 
 ## d) a konténment légterébe kikerülő hasadási termékek, hidrogén, oxigén és egyéb anyagok kezelésére és eltávolítására szolgáló eszközöket.
 
-## 3.3.18.0200. A konténment tervezésekor figyelembe kell venni az atomerőművi blokk tervezési alapjába tartozó valamennyi üzemzavari folyamatot. Ezen túlmenően, a tervezési alap kiterjesztéseként figyelembe vett folyamatok kezelésére, következményeinek enyhítésére szolgáló műszaki megoldásokat is ki kell alakítani, különös tekintettel a konténment épségének megőrzésére és a keletkező robbanásveszélyes gázelegyek semlegesítésére.
+## 3.4.6.1400. A konténment hőelvonó rendszerének biztosítania kell a konténment nyomásának és hőmérsékletének gyors csökkentését egy hűtőközeg-vesztéssel járó eseményt követően, majd azok ésszerűen megvalósítható alacsony értéken tartását, egyszeres meghibásodás feltételezésével.
 
-## 3.3.18.0300. A konténment határoló falán áthaladó csővezetéket két, megbízhatóan és függetlenül működtetett soros elrendezésű hermetizáló szerelvénnyel – az egyiket a konténmenten belül, a másikat azon kívül elhelyezve – kell ellátni. A hermetizáló szerelvényeknek vagy távműködtetéssel ellátottaknak, vagy zárt állapotban reteszeltnek kell lenniük, és állapotukról helyzetjelzésnek kell megjelennie a blokkvezénylőben. A szerelvényeket a konténment falához a lehető legközelebb kell elhelyezni. A hermetizáló szerelvények specifikációját normál üzem, várható üzemi események és tervezési üzemzavarok figyelembevételével kell meghatározni.
+## 3.4.6.1500. A konténment hőelvonó rendszerét úgy kell megtervezni, hogy a rendszer integritásának és teljesítőképességének biztosításához szükséges elemek időszakos ellenőrzése megvalósítható legyen.
 
-## 3.3.18.0400. A konténmentet úgy kell tervezni, hogy lehetőség legyen
+## 3.4.6.1600. A konténment tervében TAK1 és TAK2 üzemállapotokra műszaki megoldásokat kell alkalmazni a konténment nyomásának és hőmérsékletének ellenőrzésére, szabályozására, valamint az éghető gázok kezelésére, továbbá arra, hogy a konténment légtömörsége ne romoljon lényeges mértékben ilyen eseményeket követő ésszerű időtartam alatt.
 
-## a) a szivárgás ellenőrzésére tervezési nyomáson;
+## 3.4.6.1700. A konténment határoló falán áthaladó csővezetéket két, megbízhatóan és függetlenül működtetett soros elrendezésű hermetizáló szerelvénnyel kell ellátni, az egyiket a konténmenten belül, a másikat azon kívül elhelyezve. A hermetizáló szerelvényeknek vagy távműködtetéssel ellátottaknak, vagy zárt állapotban reteszeltnek kell lenniük. Az állapotukról helyzetjelzésnek kell megjelennie a blokkvezénylőben. A szerelvényeket a konténment falához a lehető legközelebb kell elhelyezni. A hermetizáló szerelvények specifikációját az atomerőmű tervezési alapjába tartozó valamennyi üzemállapot figyelembevételével kell meghatározni.
 
-## b) nyomáspróba végrehajtására;
+## 3.4.6.1800. A konténment hermetizálását lehetővé kell tenni a TAK1 és TAK2 üzemállapotok esetére is. Ha egy esemény a konténment védőburkolatának megkerülésével vezet környezeti kibocsátáshoz, a következményeket enyhíteni kell.
 
-## c) a konténment állapotának, funkció-ellátási képességének ellenőrzésére; és
+## 3.4.6.1900. A konténment szellőzőrendszereit úgy kell megtervezni, hogy
 
-## d) a rugalmas tömítéssel és expanziós toldattal rendelkező átvezetések, közlekedőnyílások, zsilipek tömörségének periodikus, lokális tesztelésére.
-
-## 3.3.18.0500. A konténment szellőzőrendszereit úgy kell megtervezni, hogy
-
-## a) a normál üzemállapotokban kiszolgálható helyiségekben munkára alkalmas környezetet biztosítsanak az üzemeltető személyzet számára;
+## a) a TA1 üzemállapotokban kiszolgálható helyiségekben munkára alkalmas környezetet biztosítsanak az üzemeltető személyzet számára;
 
 ## b) az atomerőművi blokk helyiségeiben elhelyezkedő berendezések minősítésével összhangban lévő körülményeket tartsanak fenn;
 
-## c) korlátozzák az egészségre káros anyagok terjedését, és biztosítsák a levegőben lévő károsanyag-koncentrációnak az egészségügyi határértékek alá történő csökkentését; és
+## c) korlátozzák az egészségre káros anyagok terjedését, és biztosítsák a levegőben lévő károsanyag-koncentrációnak az egészségügyi határértékek alá történő csökkentését; továbbá
 
-## d) biztosítsák a különböző helyiségek megfelelő szellőzését, szükség szerinti leválasztását, szellőzési útvonalak kizárását, bizonyos veszélyek kockázatának elfogadható érték alá csökkentése vagy kiküszöbölése érdekében.
+## d) biztosítsák a különböző helyiségek megfelelő szellőzését, szükség szerinti leválasztását, szellőzési útvonalak kizárhatóságát, a veszélyforrások kockázatának elfogadható érték alá csökkentése vagy kiküszöbölése érdekében.
 
-## 3.3.18.0600. A konténment hermetizálását lehetővé kell tenni tervezésen túli üzemzavarok esetére is. Abban az esetben azonban, ha egy esemény a konténment védőburkolatának megkerülésével vezet környezeti kibocsátáshoz, a következményeket enyhíteni kell.
+## 3.4.6.2000. A konténment légterének tisztítását úgy kell megoldani, hogy a hasadási termékek, hidrogén, oxigén és egyéb, a konténment légterébe esetlegesen bekerülő anyagok kezelésére, ellenőrzésére szolgáló rendszerek az egyszeres meghibásodás feltételezésével biztosítsák a hasadási termékek környezetbe kibocsátott mennyiségének és koncentrációjának a csökkentését, valamint – a konténment integritásának biztosításához – a konténment légterében a hidrogén vagy oxigén koncentrációjának szabályozását.
 
-## 3.3.18.0700. A tervezési alap kiterjesztésének intézkedéseket kell tartalmaznia arra, hogy a konténment légtömörsége ne romoljon lényeges mértékben egy, a tervezési alapot meghaladó balesetet követő ésszerű időtartam alatt, valamint a konténment nyomásának és hőmérsékletének ellenőrzésére, szabályozására, és az éghető gázok kezelésére is biztosítson lehetőségeket.
+## 3.4.6.2100. A konténment légterének tisztító rendszerét úgy kell megtervezni, hogy az lehetővé tegye a fontos elemek megfelelő, időszakos ellenőrzését a rendszer integritásának és teljesítőképességének biztosításához.
 
-## 3.3.19. Sugárvédelem
+## 3.4.6.2200. A tűz ellen megfelelő védettséget ki kell alakítani a konténmentben. A tűzgátak elhelyezése azonban nem akadályozhatja a konténment funkcióit és a konténment üzemeltetését.
 
-## Általános követelmények
+## 3.4.7. Segéd és kiszolgáló rendszerek
 
-## 3.3.19.0100. Az ALARA-elvnek megfelelően, a sugárvédelemnek törekednie kell az atomerőmű területén tartózkodó személyek és a lakosság sugárterhelésének ésszerűen elérhető legalacsonyabb szinten tartására a normál üzem, várható üzemi események és tervezési üzemzavarok során, és a tervezési alap kiterjesztésének keretein belül.
+## Biztonsági hűtővízrendszer
 
-## 3.3.19.0200. A tervezés során figyelembe kell venni a sugárvédelem három alapelvét, az alábbiak szerint:
+## 3.4.7.0100. Biztonsági hűtővízrendszerrel kell biztosítani a nukleáris biztonság szempontjából fontos rendszerektől és rendszerelemektől történő hőelvonást, hőmérsékletük terv szerinti szinten tartását normál üzemi és üzemzavari körülmények között. A rendszer tervezésénél egyszeres meghibásodást kell feltételezni.
 
-## a) Indoklás elve: sugárveszélyes tevékenység csak olyan esetekben végezhető, mikor annak társadalomra vetített hasznossága igazolható;
+## Szellőző és klímarendszerek
 
-## b) optimálás elve: a sugárveszélyes területen foglalkoztatott munkavállalók, az atomerőmű területén tartózkodó személyek valamint a környezetben élő lakosság sugárterhelését az ésszerűen elérhető legalacsonyabb szinten kell tartani az adott gazdasági és társadalmi tényezők figyelembevételével;
+## 3.4.7.0200. Az atomerőművi szellőző rendszereknek biztosítania kell a radioaktív anyagok létesítményen belüli szétterjedésének vagy külső környezetbe jutásának megakadályozását vagy csökkentését, az üzemeltető személyzet vagy a berendezések számára szükséges, a minősített állapot fenntartását szolgáló klímaviszonyokat.
 
-## c) korlátozás elve: a sugárveszélyes területen foglalkoztatott munkavállalókat, az atomerőmű területén tartózkodó személyeket valamint a sugárveszélyes terület közelében élő lakosságot érő sugárterhelésére korlátok vonatkoznak.
+## 3.4.7.0300. A radioaktív anyagok szétterjedését korlátozó szellőző rendszerekkel biztosítani kell:
 
-## 3.3.19.0300. Meg kell határozni az atomerőművi blokkokhoz tartozó biztonsági, és védőövezetet, valamint az ott alkalmazandó építési és egyéb követelményeket, korlátozásokat.
+## a) az adott helyiségben a légcsere mértéke legyen arányos a levegővel mozgó radioaktív anyagok koncentrációjának mértékével,
 
-## 3.3.19.0400. A sugárvédelmi tervezés során – felhasználva az atomerőmű rendszereinek elrendezési tervét – ki kell jelölni az ellenőrzött és felügyelt zónákat. Biztosítani kell minden zónában a belépés és a benntartózkodás ellenőrzését, valamint a becsült dózis alapján szükséges védőfelszereléseket. Gondoskodni kell a helyiségek légterének, felületi szennyezettségének és a sugárforrásoknak az ellenőrzéséről az egyes zónákon belül és azok között. Megfelelő eszközöket kell tervezni, és intézkedéseket kell tenni a radioaktív szennyeződés szétterjedésének korlátozása érdekében.
+## b) a légáramlatok iránya a kevésbé szennyezett helyekről a szennyezettebb helyek felé irányuljon, valamint
 
-## 3.3.19.0500. A tervezés során figyelembe kell venni az atomenergia alkalmazásával összefüggő munkahelyi egészségügyi, sugárvédelmi, valamint a létesítéssel és üzemeltetéssel kapcsolatos speciális egészségügyi előírásokat.
+## c) a rendszerek száma és elrendezése biztosítsa a jobban és kevésbé szennyezett helyiségek szellőzésének szétválasztását.
 
-## 3.3.19.0600. Az atomerőművi blokk minden olyan részén, ahol az üzemeltető személyzet rendeltetésszerűen tartózkodik vagy tartózkodhat, biztosítani kell az ALARA-elvnek megfelelő munkakörnyezetet normál üzem, várható üzemi események és tervezési üzemzavarok során egyaránt.
+## 3.4.7.0400. A szellőző rendszerek tervezése során általános követelményként biztosítani kell:
 
-## 3.3.19.0700. Sugárveszélyes környezetben való tevékenység körülményeinek megtervezésénél az egyének sugárterhelését úgy kell korlátozni, hogy a lehetséges sugárterhelés-kombinációk nem okozhatják sem az effektív dózis, sem pedig a szerveket és szöveteket érő egyenértékdózis korlátainak túllépését.
+## a) az olyan külső hatások és klimatikus viszonyok figyelembevételét, mint a külső tűz vagy robbanás, extrém szélsebességek, hó vagy másfajta szennyeződések általi eltömődés kockázata, magas páratartalom, vegyi anyagok bejutásának kockázata,
 
-## 3.3.19.0800. A védelmi intézkedéseket optimálni kell az ALARA-elv érvényesülése érdekében.
+## b) a tűzvédelmi és tűzkorlátozó funkció ellátását, továbbá
 
-## 3.3.19.0900. Amennyiben egy adott tevékenység várható kollektív dózisa nem haladja meg a 10 személy ⋅ mSv-et, valamint az egyéni maximális dózis értéke 1 mSv alatt marad, az optimálás elvét nem kell figyelembe venni.
+## c) hogy a szellőző rendszerek szükség esetén alkalmasak legyenek a tűz miatt keletkező füst eltávolítására, a normál levegőviszonyok helyreállítására, ugyanakkor meg kell akadályozni a tüzek szellőző rendszereken keresztüli tovaterjedését.
 
-## 3.3.19.1000. Elemezni kell a normál és a potenciális sugárterhelést az atomerőmű teljes területén, figyelembe véve a normál üzemet, a várható üzemi eseményeket és tervezési üzemzavarokat egyaránt annak érdekében, hogy az üzemeltető személyzetet, az atomerőmű területén tartózkodó személyeket és a lakosságot rendszeresen vagy potenciálisan érő sugárzási dózisok megbecsülhetők legyenek.
+## Emelő berendezések
 
-## 3.3.19.1100. Minden dózisbecslésnek megfelelően konzervatívnak kell lennie, hogy a belső és külső sugárterhelés-számításokban meglévő bizonytalanságokat figyelembe vegyék. A számításokhoz fel kell használni a rendelkezésre álló mérési adatokat is.
+## 3.4.7.0500. Az emelő berendezések tervének biztosítani kell a földrengés-állósági, emelési, leesés elleni, tervezési és lepróbálási követelményeket és kritériumokat.
 
-## 3.3.19.1200. A dózisbecslésnek be kell mutatnia a legnagyobb egyéni éves dózisértéket és az átlagos kollektív dózisértéket. A telephelyen, nem sugárveszélyes munkakörben foglalkoztatott személyek dózisterhelését a telephely sugárzási jellemzőiből várható dózisterhelésük maximális értékének becslésével kell meghatározni.
+## 3.4.7.0600. Új atomerőművi blokk esetén az emelő berendezéseknek funkciótól függően rendelkezniük kell kézi mozgatási lehetőségekkel, amelyekkel feszültség-kimaradás esetén biztosítható a teher biztonságos letétele.
 
-## 3.3.19.1300. A telephelyen kívül élő lakosság dózisterhelését olyan számított dózisértékek alapján kell meghatározni, melyek a kritikus csoportra vonatkoznak, és figyelembe veszik a mesterséges forrásokból származó külső és belső sugárterheléseket is, az orvosi eredetű sugárterhelés kivételével.
+## 3.4.7.0700. A biztonsági vagy fizikai gát funkciót érintő emelőgépeket speciális nukleáris tervezési szabvány alkalmazásával kell megtervezni.
 
-## 3.3.19.1400. A tervezési folyamat során számításokkal kell megbecsülni, hogy egy adott rendszer üzemeltetése milyen mértékben járul hozzá a munkavállalók egyéni és kollektív sugárterheléséhez. A sugárterhelés becslésekor figyelembe kell venni a szomszédos rendszerekből és a levegőben lévő radionuklidokból származó járulékot is. Értékelni kell a rendszer tervezett felülvizsgálata, karbantartása, komponenseinek javítása, cseréje során fellépő sugárterheléseket is. Azonosítani kell azokat a rendszereket, amelyek jelentős mértékben hozzájárulnak a munkavállalók kollektív sugárterheléséhez.
+## 3.5. SUGÁRVÉDELEM
 
-## 3.3.19.1500. Az üzemeltetéshez szükséges rendszereket, rendszerelemeket úgy kell megtervezni, hogy az atomerőmű üzemeltethető legyen nagy dózisteljesítményű zónákban való tartózkodás, és munkavégzés nélkül is.
+## 3.5.1. Általános követelmények
 
-## 3.3.19.1600. A nagy aktivitású tárgyak kezelésére távműködtetésű eszközöket kell tervezni és létrehozni.
+## 3.5.1.0100. A tervezés során alkalmazni kell a sugárvédelem három alapelvét, az indoklás, az optimalizálás és korlátozás elvét.
 
-## 3.3.19.1700. Ki kell építeni azt a rendszert, amellyel – a hatósági dózisértékelési rendszer mellett – az üzemeltető rendszeres időközönként elvégzi a munkavállalók sugárdózisainak mérését és értékelését. A rendszernek biztosítania kell a dóziskorlátok betartását a kapott dózisinformációk gyakorisága mellett, megfelelő adatokat kell szolgáltatnia a sugárvédelem optimalizálásához, továbbá biztosítania kell a dóziskorlátok túllépésének megfelelően rövid időn belül való észlelését.
+## 3.5.1.0200. A sugárvédelmi tervezés során ki kell jelölni az ellenőrzött és felügyelt zónákat. Gondoskodni kell a helyiségek légterének, felületi szennyezettségének és a sugárforrásoknak az ellenőrzéséről, az egyes zónákon belül és azok között. Megfelelő eszközöket kell tervezni, és intézkedéseket kell tenni a radioaktív szennyeződés szétterjedésének korlátozása érdekében.
 
-## Dekontaminálás
+## 3.5.1.0300. Az atomerőművi blokk minden olyan részén, ahol az üzemeltető személyzet rendeltetésszerűen tartózkodik, vagy tartózkodhat, a TA1-4 üzemállapotokban olyan munkakörnyezetet kell biztosítani, amely megfelel annak az elvnek, hogy a dózist az ésszerűen elérhető legalacsonyabb szinten kell tartani.
 
-## 3.3.19.1800. A dekontaminálás lehetőségét minden olyan helyen meg kell teremteni, ahol a munkavállalók sugárterhelését – az ALARA-elvnek megfelelően – ily módon csökkenteni lehet. A radioaktív közegek szivárgásának megakadályozásával, az ürítő-, légtelenítő, valamint túlfolyóvezetékek zárt rendszerű kialakításával minimalizálni kell a dekontaminálás szükségességének mértékét.
+## 3.5.1.0400. Sugárveszélyes környezetben való tevékenység körülményeinek megtervezésénél az egyének sugárterhelését úgy kell korlátozni, hogy a lehetséges sugárterhelés-kombinációk ne okozhassák sem az effektív dózis, sem pedig a szerveket és szöveteket érő egyenértékdózis korlátainak túllépését.
 
-## 3.3.19.1900. Biztosítani kell, hogy a radioaktív közeggel üzemszerűen érintkező vagy radioaktív szennyeződésnek kitett rendszerelem anyaga, konstrukciója és kialakítása lehetővé tegye a dekontaminálást és a dekontamináló oldat teljes eltávolítását. A dekontaminálási folyamatot úgy kell megtervezni, hogy az érintett rendszerelemek felületminősége a dekontaminálás után is megfeleljen a követelményeknek.
+## 3.5.1.0500. A védelmi intézkedéseket optimálni kell annak érdekében, hogy az egyéni dózisok nagysága, a sugárzásnak kitett személyek száma és a sugárterhelés valószínűsége ésszerűen alacsony szinten maradhasson az egyéni dóziskorlátokon belül, figyelembe véve az atomerőműre vonatkozó dózismegszorításokat.
 
-## 3.3.19.2000. Biztosítani kell az ellenőrzött zónáknak és az innen származó tárgyak ki- és bevitelének ellenőrzését és – amennyiben szükséges – a dekontaminálását.
+## 3.5.1.0600. Elemezni kell a normál és a potenciális sugárterhelést az atomerőmű teljes területén, figyelembe véve a TA1-4 és TAK1, TAK2 üzemállapotokat, annak érdekében, hogy az atomerőmű területén tartózkodó személyeket és a lakosságot rendszeresen vagy potenciálisan érő dózisok megbecsülhetők legyenek.
 
-## Radiológiai ellenőrző eszközök
+## 3.5.1.0700. Minden dózisbecslésnek megfelelően konzervatívnak kell lennie, hogy a belső és külső sugárterhelés-számításokban meglévő bizonytalanságokat figyelembe vegyék. A számításokhoz fel kell használni a rendelkezésre álló mérési adatokat is.
 
-## 3.3.19.2100. Megfelelő eszközöket kell tervezni a sugárzási helyzet mérésére, melyek a normál üzem, várható üzemi események és tervezési üzemzavarok során egyaránt képesek megfelelő pontossággal mérni, valamint kijelölt helyeken baleseti helyzetben is alkalmasak információ szolgáltatására. A mérőeszközöknek alkalmasnak kell lenniük legalább:
+## 3.5.1.0800. Be kell mutatni a legnagyobb egyéni éves dózisértéket és az átlagos kollektív dózisértéket.
 
-## a) az atomerőmű kijelölt helyiségei, pontjai dózisteljesítményének mérésére;
+## 3.5.1.0900. A telephelyen nem sugárveszélyes munkakörben foglalkoztatott személyek sugárterhelését a telephely sugárzási jellemzőiből várható dózis maximális értékének becslésével kell meghatározni.
 
-## b) a munkavállalók által rendszeresen kiszolgált terek műszeres ellenőrzésére, ha e terekben normál üzem, várható üzemi események és tervezési üzemzavarok során az ott-tartózkodás korlátozás alá eshet;
+## 3.5.1.1000. A telephelyen kívül élő lakosság sugárterhelését olyan számított dózisértékek alapján kell meghatározni, melyek a kritikus csoportra vonatkoznak, és figyelembe veszik a mesterséges forrásokból származó külső és belső sugárterheléseket is, az orvosi eredetű sugárterhelés kivételével.
 
-## c) a tervezési üzemzavarok és balesetek során létrejövő dózisteljesítmény jelzésére;
+## 3.5.1.1100. A sugáregészségügyi követelmények alapján – a rendelkezésre álló tapasztalatok birtokában – meg kell határozni az üzemeltető személyzet kollektív dózisára vonatkozó tervezési célkitűzést.
 
-## d) a technológiai rendszerekből, a környezetből vett légnemű és folyadékminták izotópkoncentrációjának mérésére normál üzem, várható üzemi események és tervezési üzemzavarok során és balesetek esetén;
+## 3.5.1.1200. A tervezési folyamat során számításokkal kell megbecsülni, hogy egy adott rendszer üzemeltetése milyen mértékben járul hozzá az üzemeltető személyzet kollektív sugárterheléséhez. A sugárterhelés becslésekor figyelembe kell venni a szomszédos rendszerekből és a levegőben lévő radionuklidokból származó járulékot is.
 
-## e) a környezeti kibocsátások rendszeres műszeres ellenőrzésére normál üzem, várható üzemi események és tervezési üzemzavarok során és balesetek esetén;
+## 3.5.1.1300. Értékelni kell a rendszer tervezett felülvizsgálata, karbantartása és komponenseinek javítása, cseréje során fellépő sugárterheléseket is. Azonosítani kell azokat a rendszereket, amelyek a kitűzött tervezési dózisérték betartása mellett jelentős mértékben hozzájárulnak az üzemeltető személyzet kollektív sugárterheléséhez.
 
-## f) felületi radioaktív szennyezettség mérésére; valamint
+## 3.5.1.1400. A rendszereket, rendszerelemeket úgy kell megtervezni, hogy az atomerőmű üzemeltethető legyen nagy dózisteljesítményű területeken való tartózkodás, munkavégzés nélkül is.
 
-## g) az atomerőmű területén tartózkodó személyek külső és belső sugárterhelésének, valamint felületi szennyezettségének meghatározására.
+## 3.5.1.1500. A nagy aktivitású tárgyak kezelésére távműködtetésű eszközöket kell tervezni és létrehozni.
 
-## Biológiai védelem, árnyékolás
+## 3.5.1.1600. A radioaktív sugárzást kibocsátó rendszerelemek – dozimetriai szempontból – megfelelő működését, folyamatos és szakaszos sugárvédelmi ellenőrző mérésekkel kell felügyelni. A sugárvédelmi ellenőrzés terjedelmét, a folyamatos és szakaszos műszeres mérések mennyiségét a normál, illetve potenciális sugárterhelés figyelembevételével kell meghatározni.
 
-## 3.3.19.2200. Az atomerőművi blokkon biológiai védelmet kell tervezni minden olyan helyre, ahol számítani lehet a láncreakció következtében fellépő közvetlen radioaktív sugárzásra, valamint radioaktív sugárforrások felhalmozódására.
+## 3.5.1.1700. Radioaktív közeget szállító-, tároló rendszerek, rendszerelemek leürítőit és légtelenítőit oly módon kell kialakítani, hogy a radioaktív közeg elkülönített kezelése lehetővé váljék.
 
-## 3.3.19.2300. Az árnyékolás anyagának megválasztásakor figyelembe kell venni:
+## 3.5.1.1800. Az atomerőmű üzemeltetéséhez olyan dózisértékelési rendszert kell tervezni, amely
 
-## a) a sugárzás jellemzőit;
+## a) a hatósági dózisértékelési rendszer mellett rendszeres időközönként biztosítja a személyzet sugárdózisainak mérését és értékelését,
 
-## b) az anyagok árnyékoló tulajdonságait; és
+## b) alkalmas a kapott dózisinformációk gyakorisága mellett a dóziskorlátok betartásának igazolására,
 
-## c) az árnyékolás mechanikai igénybevételét és az elhelyezésnek megfelelő környezeti igénybevételek mellett feltételezhető öregedési folyamatokat.
+## c) megfelelő adatokat szolgáltat a sugárvédelem optimalizálásához, továbbá
 
-## Radioaktív kibocsátások
+## d) biztosítja a dóziskorlátok túllépésének rövid időn belül történő észlelését.
 
-## 3.3.19.2400. Az atomerőművi blokkon megfelelő rendszereket kell kialakítani a légnemű és folyékony radioaktív anyagok kezelésére annak érdekében, hogy a radioaktív anyag kibocsátásának mennyisége és koncentrációja az előírt határértékek alatt maradjon. A kibocsátási pontok számát az ésszerűen elérhető legalacsonyabb szintűre kell tervezni.
+## 3.5.2. Dekontaminálás
 
-## 3.3.19.2500. Az atomerőművi blokk ellenőrzött zónájának szellőzőrendszereit úgy kell megtervezni, hogy a normál üzemállapotokban:
+## 3.5.2.0100. A dekontaminálás lehetőségét minden olyan helyen meg kell teremteni, ahol az üzemeltető személyzet sugárterhelését ésszerűen csökkenteni lehet. A radioaktív közegek szivárgásának megakadályozásával, az ürítő-, légtelenítő, valamint túlfolyóvezetékek zárt rendszerű kialakításával minimalizálni kell a dekontaminálás szükségességének mértékét.
 
-## a) biztosítsák a légáramlást a kisebb szennyezettségű helyiségek felől a nagyobb szennyezettségű helyiségek felé, és – ahol szükséges – recirkulációs rendszerek segítségével válasszák le a belélegezhető levegőjű zónákat; valamint
+## 3.5.2.0200. Biztosítani kell, hogy radioaktív közeggel üzemszerűen érintkező vagy radioaktív szennyeződésnek kitett rendszerelem anyaga és konstrukciója, kialakítása tegye lehetővé a dekontaminálást és a dekontamináló oldat teljes eltávolítását. A dekontaminálási folyamatot úgy kell megtervezni, hogy az érintett rendszerelemek felületminősége a dekontaminálás után is megfeleljen a követelményeknek.
 
-## b) biztosítsák, hogy az atomerőmű különböző zónákba sorolt helyiségeiből légnemű kibocsátás csak az ellenőrzött kibocsátási pontokon keresztül juthasson ki a környezetbe.
+## 3.5.2.0300. Biztosítani kell az ellenőrzött zónáknak és az innen származó tárgyak ki- és bevitelének ellenőrzését és – amennyiben szükséges – a dekontaminálását.
 
-## 3.3.19.2600. A kibocsátási helyek pozíciójának és konstrukciójának meghatározása során figyelembe kell venni a környezeti terepi viszonyokat, az időjárási feltételeket, az épületek és kémények távolságát, tekintetbe véve a kibocsátások aerodinamikáját és a közeli épületekben folyó műveletekkel való összeférhetőséget.
+## 3.5.3. Radiológiai ellenőrző eszközök
 
-## 3.3.19.2700. Az atomerőműnek rendelkeznie kell meteorológiai mérőállomással, amelynek egy-egy kijelző egységét a blokk-, a tartalékvezénylőbe és a veszélyhelyzeti irányító központba kell telepíteni.
+## 3.5.3.0100. Megfelelő eszközöket kell tervezni a sugárzási helyzet mérésére, melyek a TA1 4 üzemállapotban képesek megfelelő pontossággal mérni, valamint kijelölt helyeken a TAK1 és TAK2 üzemállapotokban is alkalmasak információ szolgáltatására. Mérőeszközöket legalább a következő funkciókra kell tervezni:
 
-## 3.3.19.2800. Az atomerőműnek – a telephelyen kívüli környezet ellenőrzésére – dózisteljesítményt, valamint a radioaktív aeroszolok és a jód izotópok aktivitás-koncentrációját mérő távmérő és mintagyűjtő hálózattal kell rendelkeznie.
+## a) az atomerőmű kijelölt helyiségei, pontjai dózisteljesítményének mérése,
 
-## 3.3.20. A nukleáris üzemanyag és a radioaktív hulladék kezelése, tárolása
+## b) az üzemeltető személyzet által rendszeresen kiszolgált terek műszeres ellenőrzése, ha e terekben egyes tervezési üzemállapotokban az ott-tartózkodás korlátozás alá eshet,
 
-## 3.3.20.0100. A nukleáris üzemanyag és a radioaktív hulladékok atomerőművön belüli átmeneti tárolását úgy kell megtervezni, hogy a kritikusság lehetősége ki legyen zárva a tervezési alapba tartozó bármely folyamat bekövetkezése esetén.
+## c) a TA3-4 és TAK1, TAK2 üzemállapotok során létrejövő dózisteljesítmény jelzése,
 
-## 3.3.20.0200. A telephelyi átmeneti tárolás tervezésekor a gyakorlatilag ésszerű mértékben passzív biztonsági megoldásokat kell alkalmazni.
+## d) a technológiai rendszerekből, a környezetből vett légnemű és folyadékminták izotóp koncentrációjának mérése a TA1-4 és TAK1, TAK2 üzemállapotokban,
 
-## 3.3.20.0300. Igazolni kell – különös tekintettel a tárolási időtartam hosszára –, hogy az alkalmazott építési szabványok alkalmazhatók, és a választott anyagok megfelelőek.
+## e) a környezeti kibocsátások rendszeres műszeres ellenőrzése a TA1-4 és TAK1, TAK2 üzemállapotokban,
 
-## 3.3.20.0400. A kiégett üzemanyag és a radioaktív hulladék biztonságos állapotának fenntartása érdekében meg kell határozni az átmeneti tárolásra vonatkozó üzemeltetési feltételeket és korlátokat.
+## f) felületi radioaktív szennyezettség mérése, valamint
 
-## 3.3.20.0500. Megfelelő felszerelésnek kell rendelkezésre állnia az olyan kiégett üzemanyag és radioaktív hulladékcsomagok kezelésére, amelyek degradáció jeleit mutatják.
+## g) az üzemeltető személyzet külső és belső sugárterhelésének, valamint felületi szennyezettségének meghatározására.
 
-## Nukleáris anyagok
+## 3.5.4. Biológiai védelem, árnyékolás
 
-## 3.3.20.0600. A nukleáris üzemanyag életútját úgy kell megtervezni, hogy minden lehetséges elágazás elvezessen az újrafeldolgozáshoz vagy a biztonságos végső elhelyezéshez.
+## 3.5.4.0100. Az atomerőművi blokkon biológiai védelmet kell tervezni minden olyan helyre, ahol számítani lehet a láncreakció következtében fellépő közvetlen radioaktív sugárzásra, valamint radioaktív sugárforrások felhalmozódására.
 
-## 3.3.20.0700. A tervezőnek igazolnia kell az alkalmazott nukleáris fűtőelemkötegek és a kezelésükre tervezett atomerőművi rendszerek, rendszerelemek mechanikai és kémiai kompatibilitását.
+## 3.5.4.0200. Az árnyékolás anyagának megválasztásakor figyelembe kell venni:
 
-## 3.3.20.0800. Az atomerőműben a friss nukleáris fűtőelemkötegek számára olyan szállító-, kezelő- és tárolórendszereket és rendszerelemeket kell létesíteni, amelyek:
+## a) a sugárzás jellemzőit,
 
-## a) a normál üzem, várható üzemi események és tervezési üzemzavarok során egyaránt megfelelő biztonsági tartalékkal kizárják a kritikusság létrejöttét;
+## b) az anyagok árnyékoló tulajdonságait és mechanikai jellemzőit, valamint
 
-## b) a fűtőelemkötegek leesésének vagy más mechanikai sérülésének lehetőségét minimalizálják;
+## c) az elhelyezésnek megfelelő környezeti igénybevételek mellett feltételezhető öregedési folyamatokat.
 
-## c) biztosítják az atomerőműbe érkező nukleáris üzemanyag ellenőrző felülvizsgálatát;
+## 3.5.5. Radioaktív kibocsátások
 
-## d) biztosítják a fűtőelemkötegek azonosíthatóságát minden tárolási helyszínen; és
+## 3.5.5.0100. Az atomerőművi blokkon megfelelő rendszereket kell kialakítani a légnemű és folyékony radioaktív anyagok kezelésére annak érdekében, hogy a radioaktív anyag kibocsátásának mennyisége és koncentrációja az előírt határértékek alatt, az ésszerűen elérhető legalacsonyabb szinten maradjon. A kibocsátási pontok számát az ésszerűen elérhető legkevesebbre kell tervezni. Biztosítani kell, hogy a kibocsátásokat integráltan lehessen ellenőrizni.
 
-## e) a logisztikai rendszer kizárja a fűtőelemek elvesztésének lehetőségét.
+## 3.5.5.0200. A kibocsátási helyek pozíciójának és konstrukciójának tervezésekor figyelembe kell venni a környezeti terepi viszonyokat, az időjárási feltételeket, az építmények és kémények távolságát, tekintetbe véve a kibocsátások aerodinamikáját és a közeli építményekben folyó műveletekkel való összeférhetőséget.
 
-## 3.3.20.0900. Az atomerőműben olyan, a besugárzott nukleáris fűtőelemkötegek kezelésére, szállítására és tárolására szolgáló rendszereket és rendszerelemeket kell tervezni, amelyek:
+## 3.5.5.0300. Biztosítani kell, hogy a telephely környezetében legyen meteorológiai mérőállomás, amely a tervekben meghatározott terjedelemben és gyakorisággal biztosítja a meteorológiai adatok rendelkezésre állását, minden olyan esetben, amikor azokra szükség van. A meteorológiai információknak minden olyan helyen rendelkezésre kell állni, ahol az a tervek szerinti folyamatokhoz, eljárásokhoz szükséges.
 
-## a) a normál üzem, várható üzemi események és tervezési üzemzavarok során egyaránt megfelelő biztonsági tartalékkal kizárják a kritikusság létrejöttét;
+## 3.5.5.0400. Biztosítani kell a telephelyen kívüli környezet ellenőrzéséhez a dózisteljesítmény, valamint a radioaktív aeroszolok és a jód izotópok aktivitás-koncentrációjának mérését távmérő és mintagyűjtő hálózattal.
 
-## b) minden állapotban normál üzem, várható üzemi események és tervezési üzemzavarok során biztosítják a maradványhő elvitelét;
+## 3.6. A NUKLEÁRIS ÜZEMANYAG ÉS A RADIOAKTÍV HULLADÉK KEZELÉSE, TÁROLÁSA
 
-## c) az fűtőelemkötegek leesésének vagy valamilyen egyéb módon történő károsodásának a lehetőségét minimalizálják;
+## 3.6.1. Általános követelmények
 
-## d) az atomreaktorok melletti pihentető medencékben együttesen elégséges tárolókapacitást biztosítanak egy teljes zóna bármely időpontban történő kirakásához;
+## 3.6.1.0100. Biztosítani kell a nukleáris üzemanyagok és a radioaktív hulladékok atomerőművi telephelyen belül történő megfelelő kezelését, szállítását és tárolását. A tervezés során meg kell határozni a teljesítendő tárolási, szállítási, csomagolási, emelési követelményeket.
 
-## e) megakadályozzák nehéz tárgyaknak a fűtőelemkötegekre történő ráesését;
+## 3.6.1.0200. A nukleáris üzemanyagok és a radioaktív hulladékok telephelyen belüli kezelési, tárolási követelményeit, a telephelyen szükséges mértékű tárolókapacitást a kiégett üzemanyag és a radioaktív hulladékok kezelésének és végleges elhelyezésének nemzeti stratégiájával összhangban kell meghatározni.
 
-## f) biztosítják a besugárzott fűtőelemkötegek vizuális ellenőrzését, és a fűtőelemek hermetikusságának ellenőrzését és minősítését;
+## 3.6.1.0300. A telephelyi tárolás tervezésekor az ésszerűen megvalósítható mértékben passzív biztonsági megoldásokat kell alkalmazni.
 
-## g) biztosítják a feltételezhető vagy kimutatható hibákkal rendelkező fűtőelemek vagy fűtőelemkötegek speciális tárolását;
+## 3.6.1.0400. A nukleáris üzemanyag és a radioaktív hulladékok tervezett telephelyen belül kezelése, tárolása során a fűtőelemköteg és radioaktív hulladék lehetséges állapotainak megfelelő kezelést biztosító eszközöknek rendelkezésre kell állni.
 
-## h) biztosítják a fűtőelemkötegek azonosíthatóságát bármely tárolási helyszínen; továbbá
+## 3.6.1.0500. Megfelelő eszközöknek, csomagolásnak kell rendelkezésre állnia az olyan kiégett üzemanyag és radioaktív hulladékcsomagok kezelésére, amelyek állapotromlás jeleit mutathatják.
 
-## i) a logisztikai rendszer kizárja a fűtőelemek elvesztését.
+## 3.6.2. Nukleáris üzemanyagok kezelése és tárolása
 
-## 3.3.20.1000. A besugárzott fűtőelemek nedves tárolórendszere részére biztosítani kell:
+## 3.6.2.0100. A friss fűtőelemkötegek számára olyan szállító-, kezelő- és tároló rendszereket, rendszerelemeket kell létesíteni, amelyek:
 
-## a) a vízmennyiségek vízkémiai és radiológiai ellenőrzésére szolgáló eszközöket;
+## a) megfelelő biztonsági tartalékkal kizárják a kritikusság létrejöttét,
 
-## b) víztisztító, szivárgásgyűjtő és szivárgás-ellenőrző rendszereket; valamint
+## b) megakadályozzák a kezelésből származó, a fűtőelemkötegekben ébredő nagyobb feszültségek kialakulását,
 
-## c) a tárolómedence szintjét és hőmérsékletét szabályozó és monitorozó rendszereket.
+## c) a fűtőelemkötegek leesésének vagy egyéb módon történő sérülésének, károsodásának lehetőségét minimalizálják,
 
-## Radioaktív hulladékok végső elhelyezést megelőző kezelése
+## d) biztosítják a fűtőelemkötegek ellenőrző felülvizsgálatát,
 
-## 3.3.20.1100. Rendszereket, rendszerelemeket és eljárásokat kell tervezni a keletkező radioaktív hulladékok kezelésére és ésszerű időtartamú telephelyi tárolására, melyek az atomerőművi blokk biztonságos működését nem akadályozhatják. Komplex hulladékkezelési dokumentációt kell kidolgozni a radioaktív anyagok útjának szabályozására és ellenőrzésére annak érdekében, hogy a légnemű és folyékony környezeti kibocsátásokra vonatkozó hatósági korlátok teljesülése biztosítható és ellenőrizhető legyen.
+## e) biztosítják a fűtőelemkötegek azonosíthatóságát minden tárolási helyszínen, valamint
 
-## 3.3.20.1200. A radioaktív hulladékokat kezelő rendszereket és az alkalmazott eljárásokat úgy kell megtervezni, hogy a végtermékként keletkező radioaktív hulladék a rendelkezésre álló technológiával kompatibilis legyen, és megfeleljen a szállítási, átmeneti tárolási követelményeknek, valamint a végső elhelyezés átvételi követelményeinek.
+## f) a logisztikai rendszer kizárja a nukleáris üzemanyag elvesztésének lehetőségét.
 
-## 3.3.20.1300. A hatékonyság érdekében a keletkező radioaktív hulladékokat szét kell választani a halmazállapotuk szerint, és osztályozni kell az aktivitás, aktivitáskoncentráció, felületi dózisteljesítmény szerint.
+## 3.6.2.0200. A besugárzott nukleáris üzemanyag kezelésére, szállítására és tárolására szolgáló rendszerek és rendszerelemek esetében a friss fűtőelemkötegek szállítására, kezelésére és tárolására tervezett rendszerekkel, rendszerelemekkel szemben megfogalmazott követelményeken túl az alábbi követelményeket is teljesíteni kell:
 
-## 3.3.20.1400. Az aktivitáskoncentrációjuk alapján radioaktív hulladékká minősített anyagokat kis, közepes és nagy aktivitású osztályokba kell sorolni. A besorolás alapja az adott radioizotóp mentességi aktivitáskoncentrációja és hőtermelése. Amennyiben alfa-sugárzás és aktinida jelenléte kizárható, és ha a nuklidspecifikus minősítés nem végezhető el megbízhatóan, akkor az osztályozást a göngyölegek felületi dózisteljesítménye szerint is el lehet végezni.
+## a) minden üzemállapotban biztosítják a maradványhő elvitelét,
 
-## 3.3.20.1500. Nuklidspecifikus mérésekkel – vagy a nehezen mérhető radionuklidok esetén közvetett elméleti úton – meg kell határozni a radioaktív hulladékok minden egyes mozgatási vagy terjedési útvonalán azok reprezentatív izotópösszetételét és aktivitását, valamint el kell végezni a keletkező radioaktív hulladékok minősítését. A radioaktív hulladékok minősítésének módszerét – beleértve a nehezen mérhető radionuklidok közvetett meghatározását is – és terjedelmét az illetékes hatóság hagyja jóvá.
+## b) megakadályozzák nehéz tárgyaknak a fűtőelemkötegekre történő ráesését,
 
-## 3.3.20.1600. A folyékony radioaktív hulladékokat aktivitáskoncentrációjuk szerint kell osztályozni, és feldolgozásuk során fizikai és kémiai tulajdonságaikat figyelembe kell venni. A tárolótartályoknak, konténereknek alkalmas szellőzéssel, nyomásmentesítési lehetőséggel és a szivárgások összegyűjtésére alkalmas berendezéssel kell rendelkezniük.
+## c) biztosítják a besugárzott fűtőelemkötegek vizuális vizsgálatát, és a fűtőelemek hermetikusságának ellenőrzését és minősítését, valamint
 
-## 3.3.20.1700. Az atomerőmű területén az átmeneti tárolást úgy kell megtervezni, hogy minden radioaktívhulladék-csomag szükség esetén visszanyerhető legyen.
+## d) a feltételezhető vagy kimutatható hibákkal rendelkező fűtőelemek vagy fűtőelemkötegek esetében biztosítják az állapotuknak megfelelő tárolást.
 
-## 3.3.20.1800. A radioaktív hulladék átmeneti tárolóját úgy kell megtervezni, hogy az egyes radioaktívhulladék-csomagok ellenőrizhetőek legyenek.
+## 3.6.2.0300. A besugárzott fűtőelemkötegek részére szükséges tárolási kapacitás meghatározásánál biztosítani kell, hogy az atomreaktorban lévő fűtőelemkötegek tervezett kezelési eljárásának megfelelően, minden esetben el lehessen végezni a szükséges mennyiségű fűtőelemköteg atomreaktorból történő kirakását.
 
-## 3.3.20.1900. Biztosítani kell, hogy a terv tartalék átmenetitároló-kapacitást irányozzon elő, vagy az egyéb módon álljon rendelkezésre.
+## 3.6.2.0400. A tervezőnek igazolnia kell az alkalmazott nukleáris üzemanyag és a kezelésére tervezett atomerőművi rendszerek, rendszerelemek mechanikai és kémiai kompatibilitását.
 
-## 3.3.21. A telephelyen belüli baleset-elhárítás tervezése
+## 3.6.2.0500. A besugárzott fűtőelem-kötegek víz alatti tároló rendszerének biztosítani kell:
 
-## 3.3.21.0100. A veszélyforrás-elemzés során azonosított veszélyforrásokat azok potenciális súlyossága alapján veszélyhelyzeti tervezési kategóriákba kell sorolni. A felkészülés során a veszélyforrás-elemzés által meghatározott legsúlyosabb nukleáris veszélyhelyzet elhárításának képességét kell elérni. Be kell mutatni, hogy a felkészülés minden feltételezett kezdeti esemény és lehetséges nukleáris veszélyhelyzet esetén biztosítja, hogy a megfelelő intézkedések – osztályozás, értesítés, aktiválás és baleset-elhárítási intézkedések – végrehajtása időben megtörténjen.
+## a) a besugárzott fűtőelemek szükség szerinti vizsgálatát,
 
-## 3.3.21.0200. Veszélyhelyzeti irányító központot kell kialakítani az elhárítást végző személyzet számára. A veszélyhelyzeti irányító központban biztosítani kell, hogy legyen elégséges műszerezés és legyenek eszközök a nukleáris veszélyhelyzet során szükséges beavatkozások irányítására, valamint a nukleáris veszélyhelyzet elhárításért felelős szervezeti egységekkel, helyszínekkel és a telephelyen kívüli veszélyhelyzet-elhárításért felelős szervezetekkel történő kommunikációra.
+## b) a tárolóközeg vízkémiai és radiológiai ellenőrzésére szolgáló eszközöket,
 
-## 3.3.21.0300. A veszélyhelyzeti irányító központot olyan diverz és redundáns kommunikációs rendszerrel kell felszerelni, amely alkalmas a telephelyen belüli-kívüli nukleáris veszélyhelyzet elhárításért felelős szervezeti egységek és a telephelyen kívüli nukleáris veszélyhelyzet elhárításért felelős szervezetek riasztására, valamint a blokk- és tartalékvezénylővel, az atomerőmű egyéb fontos helyszíneivel és az atomerőművön kívüli baleset-elhárítási szervezetekkel történő kommunikációra.
+## c) víztisztító, szivárgásgyűjtő és szivárgás-ellenőrző rendszereket, valamint
 
-## 3.3.21.0400. A veszélyhelyzeti irányító központban tartózkodó munkavállalóknak a nukleáris veszélyhelyzetből eredő körülmények elleni védelmét biztosítani kell. Lehetővé kell tenni a veszélyhelyzeti irányító központ funkcióképességének rendszeres ellenőrzését. A veszélyhelyzeti irányító központ használatának ellehetetlenülése esetére tartalék veszélyhelyzeti irányító központot kell létesíteni, amely kielégíti a veszélyhelyzeti irányító központtal szemben támasztott elvárásokat.
+## d) a tárolómedence szintjét és hőmérsékletét szabályozó és monitorozó rendszereket.
 
-## 3.3.21.0500. A telephelyen tartózkodó minden személy riasztására alkalmas telephelyi riasztórendszert kell kiépíteni. A baleseti intézkedések végrehajtásának érdekében egyszerűen, érthetően és tartós módon megjelölt és megbízhatóan kivilágítható biztonságos menekülési utakat és azok biztonságos használatához szükséges egyéb feltételeket, valamint az atomerőmű területén tartózkodó személyek részére gyülekezési helyek kijelölését kell biztosítani. A menekülési útvonalakat a munkavédelmi, sugárvédelmi, tűzvédelmi és létesítménybiztonsági követelményeknek megfelelően kell kialakítani.
+## 3.6.3. Radioaktív hulladékok kezelése és tárolása
 
-## 3.3.21.0600. Az atomerőmű telephelyén bevezetendő óvintézkedésekhez szükséges védőeszközöket biztosítani kell. A baleset-elhárításban részt vevő személyzet számára a polgári védelmi előírásoknak és a balesetelhárítási tevékenységbe bevont személyek számának megfelelő óvólétesítményeket kell kialakítani, valamint a folyamatos működéshez szükséges készleteket kell biztosítani.
+## 3.6.3.0100. Rendszereket, rendszerelemeket és eljárásokat kell tervezni a keletkező radioaktív hulladékok kezelésére és telephelyi tárolására.
+
+## 3.6.3.0200. Komplex hulladékkezelési dokumentációt kell kidolgozni a radioaktív anyagok útjának szabályozására és ellenőrzésére.
+
+## 3.6.3.0300. A radioaktív hulladékokat kezelő rendszereket és az alkalmazott eljárásokat úgy kell megtervezni, hogy a végtermékként keletkező hulladék megfeleljen a szállítási, átmeneti tárolási követelményeknek, valamint – amennyiben ismert – a végső elhelyezés átvételi követelményeinek.
+
+## 3.6.3.0400. A hatékony hulladékkezelés érdekében a keletkező radioaktív hulladékokat szét kell választani a halmazállapotuk szerint, és osztályozni kell őket.
+
+## 3.6.3.0500. Nuklidspecifikus mérésekkel, a nehezen mérhető radionuklidok esetén közvetett elméleti úton, meg kell határozni a radioaktív hulladékok reprezentatív izotóp összetételét és aktivitását. A keletkező radioaktív hulladékokat minősíteni kell.
+
+## 3.6.3.0600. A folyékony radioaktív hulladékokat aktivitáskoncentrációjuk szerint kell osztályozni. Feldolgozásuk során fizikai és kémiai tulajdonságaikat figyelembe kell venni. Biztosítani kell, hogy a tárolótartályok, konténerek alkalmas szellőzéssel, nyomásmentesítési lehetőséggel és a szivárgások összegyűjtésére alkalmas berendezéssel rendelkezzenek.
+
+## 3.6.3.0700. Az atomerőmű területén a tárolást úgy kell megtervezni, hogy minden radioaktív hulladékcsomag ellenőrizhető, szükség esetén visszanyerhető legyen.
+
+## 3.7. A TELEPHELYEN BELÜLI NUKLEÁRISBALESET-ELHÁRÍTÁS TERVEZÉSE
+
+## 3.7.1.0100. A veszélyhelyzet-elhárítási eljárásokat a TA3-4 és TAK1, TAK2 üzemállapotok elemzési eredményei alapján kell megtervezni. Az elemzések terjedelmének elegendő információt kell szolgáltatni a veszélyhelyzet elhárítási tevékenységek meghatározására.
+
+## 3.7.1.0200. A tervezés során azonosított veszélyforrásokat azok potenciális súlyossága alapján veszélyhelyzeti tervezési kategóriákba kell sorolni. A felkészülés során az elemzések szerinti legsúlyosabb veszélyhelyzet elhárításának képességét kell elérni. Be kell mutatni, hogy a felkészülés minden feltételezett kezdeti esemény és lehetséges veszélyhelyzet esetén biztosítja, hogy a megfelelő intézkedések – osztályozás, értesítés, aktiválás és veszélyhelyzet elhárítási intézkedések – végrehajtása időben megtörténjen.
+
+## 3.7.1.0300. Veszélyhelyzeti irányító központot kell kialakítani az elhárítást végző személyzet számára. Biztosítani kell, hogy a veszélyhelyzeti irányító központban legyen elégséges műszerezés és legyenek eszközök a veszélyhelyzet során szükséges beavatkozások irányítására, valamint a veszélyhelyzet-elhárításért felelős szervezeti egységekkel, helyszínekkel és a telephelyen kívüli veszélyhelyzet-elhárításért felelős szervezetekkel történő kommunikációra.
+
+## 3.7.1.0400. A veszélyhelyzeti irányító központot olyan redundáns és diverz kommunikációs rendszerrel kell felszerelni, amely alkalmas a telephelyen belüli, és a telephelyen kívüli, a veszélyhelyzet-elhárításért felelős szervezeti egységek és a telephelyen kívüli veszélyhelyzet-elhárításért felelős szervezetek riasztására, valamint a blokk- és tartalékvezénylővel, az atomerőmű egyéb fontos helyszíneivel és az atomerőművön kívüli veszélyhelyzet-elhárítási szervezetekkel történő kommunikációra.
+
+## 3.7.1.0500. A veszélyhelyzeti irányító központban tartózkodó személyzetnek a veszélyhelyzetből eredő körülmények elleni védelmét biztosítani kell. Lehetővé kell tenni a veszélyhelyzeti irányító központ funkcióképességének rendszeres ellenőrzését. A veszélyhelyzeti irányító központot úgy kell elhelyezni, hogy megközelíthetősége biztosított legyen a feltételezett veszélyhelyzetekben. A veszélyhelyzeti irányító központ használatának ellehetetlenülése esetére, az atomerőműtől elegendő távolságra tartalék veszélyhelyzeti irányító központot kell létesíteni, amely kielégíti a veszélyhelyzeti irányító központtal szemben támasztott elvárásokat.
+
+## 3.7.1.0600. A telephelyen tartózkodó minden személy riasztására alkalmas telephelyi riasztórendszert kell kiépíteni. A veszélyhelyzet intézkedések végrehajtásának érdekében egyszerűen, érthetően és tartós módon megjelölt és megbízhatóan kivilágítható biztonságos menekülési utakat és azok biztonságos használatához szükséges egyéb feltételeket kell biztosítani az atomerőműben. A menekülési útvonalakat úgy kell megtervezni, hogy azok kielégítsék a munkavédelmi, sugárvédelmi, tűzvédelmi és fizikai védelmi követelményeket.
+
+## 3.7.1.0700. A veszélyhelyzet-elhárításban részt vevő személyzet számára a polgári védelmi előírásoknak és a veszélyhelyzet-elhárítási tevékenységbe bevont személyek számának megfelelő óvólétesítményeket kell kialakítani.
 
 4. melléklet a 118/2011. (VII. 11.) Korm. rendelethez
 
-[^3]: A 3. melléklet 3.1.1.0200. pontja a 304/2011. (XII. 23.) Korm. rendelet 46. §-a szerint módosított szöveg.
+Nukleáris Biztonsági Szabályzatok
+
+4. kötet
+
+Atomerőművek üzemeltetése
+
+TARTALOMJEGYZÉK
+
+4.1. BEVEZETÉS
+
+4.1.1. A szabályzat célja és hatálya
+
+4.2. ÜZEMELTETÉSI FELTÉTELEK ÉS KORLÁTOK
+
+4.3. ÜZEMBE HELYEZÉS
+
+4.3.1. A tevékenység célja
+
+4.3.2. Az üzembe helyezés szervezése, végrehajtása
+
+4.4. AZ ENGEDÉLYES SZERVEZETE
+
+4.4.1. A munkavállalókra vonatkozó követelmények
+
+4.4.2. Biztonsági kultúra
+
+4.5. AZ ÜZEMVITEL OPERATÍV IRÁNYÍTÓ HELYISÉGEI, AZ ÜZEMVITELT TÁMOGATÓ MŰSZAKI ÉS ADMINISZTRATÍV DOKUMENTUMOK
+
+4.5.1. Általános követelmények
+
+4.5.2. Eltérés a normál üzemtől, tervezési üzemzavari állapot
+
+4.5.3. Baleseti helyzet
+
+4.6. A RENDSZEREK ÉS RENDSZERELEMEK MŰSZAKI ÁLLAPOTÁNAK FENNTARTÁSA
+
+4.6.1. A karbantartási, próba- és felügyeleti program
+
+4.6.2. Az öregedés kezelése
+
+4.6.3. Rendszerelemek minősített állapotának fenntartása
+
+4.6.4. Az időszakos vizsgálatok végrehajtása
+
+4.6.5. A javítások és cserék végrehajtása
+
+4.7. A NUKLEÁRIS ÜZEMANYAG KEZELÉSE
+
+4.8. ÁTALAKÍTÁSOK, IDEIGLENES MÓDOSÍTÁSOK VÉGREHAJTÁSA
+
+4.8.1. A változtatások fajtái, differenciált megközelítés alkalmazása
+
+4.8.2. Az átalakítások belső szabályozása, általános követelmények
+
+4.8.3. Az átalakítások előkészítése, végrehajtása, felülvizsgálata, dokumentálása
+
+4.8.4. Az átalakítások lezárása és tapasztalatainak dokumentálása
+
+4.8.5. Az ideiglenes átalakításokra vonatkozó általános és a 3. kategóriába sorolt ideiglenes átalakításra vonatkozó egyszerűsített követelmények
+
+4.9. A VALÓSZÍNŰSÉGI BIZTONSÁGI ELEMZÉS ALKALMAZÁSA
+
+4.10. SUGÁRVÉDELEM
+
+4.11. RADIOAKTÍV HULLADÉKOK KEZELÉSE
+
+4.11.1. Általános követelmények
+
+4.11.2. A radioaktív hulladékok kezelésének szabályozása
+
+4.11.3. A radioaktív hulladékok osztályozása
+
+4.12. BALESET-ELHÁRÍTÁS
+
+4.12.1. Telephelyen belüli baleset-elhárítási felkészülés
+
+4.12.2. A baleset-elhárítás végrehajtása
+
+4.13. TŰZVÉDELEM
+
+4.14. AZ ÜZEMELTETÉSI TAPASZTALATOK
+
+4.14.1. Atomerőművek tapasztalatainak gyűjtése
+
+4.14.2. Az üzemeltetési adatok és tapasztalatok hasznosítása
+
+4.15. FELKÉSZÜLÉS A TERVEZETT ÜZEMIDŐN TÚLI ÜZEMELTETÉSRE
+
+4.16. AZ ÜZEMELTETÉSI DOKUMENTÁCIÓ KEZELÉSE
+
+4.1. BEVEZETÉS
+
+4.1.1. A szabályzat célja és hatálya
+
+4.1.1.0100. A jelen szabályzat célja az atomerőművek, azok nukleáris biztonság szempontjából fontos rendszerei és rendszerelemei üzembe helyezésének, üzemeltetésének, állapotfenntartásának, átalakításának és felülvizsgálatának végrehajtására, valamint a baleset-elhárítási tevékenységre, továbbá az e tevékenységeket végzőkre vonatkozó nukleáris biztonsági követelményeknek a meghatározása.
+
+4.1.1.0200.[^35] A jelen szabályzat követelményeit alkalmazni kell Magyarország területén működő valamennyi atomerőműre.
+
+4.2. ÜZEMELTETÉSI FELTÉTELEK ÉS KORLÁTOK
+
+4.2.0.0100. Az engedélyesnek olyan üzemviteli dokumentumokat kell kidolgoznia és karbantartania, amelyek betartása biztosítja az üzemeltetési feltételek és korlátok 3. melléklet szerinti teljesülését.
+
+4.2.0.0200. Az egyes rendszerek, rendszerelemek helyszíni jelölését ki kell alakítani és fenn kell tartani úgy, hogy azok egyértelműen azonosíthatók legyenek az atomerőmű teljes élettartama alatt.
+
+4.2.0.0300. Az üzemeltetési feltételeket és korlátokat naprakész állapotban kell tartani, és felül kell vizsgálni a megszerzett tapasztalatok, a tudomány és technika fejlődésének tükrében, és minden olyan esetben, ha ezt az atomerőművi átalakítások vagy a biztonsági elemzések változása indokolja, és szükség esetén módosítani kell.
+
+4.2.0.0400.[^36] Az üzemeltetési feltételek és korlátok átalakításának folyamatát meg kell határozni. A változtatásokat biztonsági elemzéssel vagy független biztonsági felülvizsgálattal igazolni kell.
+
+4.2.0.0500. Az üzemeltetési feltételeket és korlátokat tartalmazó dokumentum azonnali hozzáférhetőségét a vezénylőtermi személyzet számára biztosítani kell.
+
+4.2.0.0600. A vezénylőtermi személyzetnek magas szinten ismernie kell az üzemeltetési feltételeket és korlátokat, valamint azok műszaki megalapozását. Az irányítási funkciót ellátó üzemeltető személyzetnek tudatában kell lennie azok jelentőségével az atomerőmű nukleáris biztonságát illetően.
+
+4.2.0.0700. Olyan megfelelő veszélyjelzéseket kell alkalmazni, amelyek lehetővé teszik az üzemeltető személyzet beavatkozását, mielőtt az adott paraméterek a biztonságvédelmi rendszerek működését indító beállítási értéket elérnék.
+
+4.2.0.0800. Meg kell határozni az atomerőművi blokk biztonságosabb állapotba hozása érdekében végrehajtandó intézkedéseket, és meg kell határozni az intézkedések végrehajtására megengedett időt arra az esetre, ha az üzemeltetési feltételek és korlátok nem teljesíthetőek.
+
+4.2.0.0900. Meg kell határozni a különböző üzemállapotok esetén szolgálatot teljesítő személyzet szükséges létszámát és feladatait annak figyelembevételével, hogy az esetleges üzemzavarok során szükséges intézkedéseket is el tudják végezni.
+
+4.2.0.1000. Ha az üzemeltető személyzet nem tud megbizonyosodni arról, hogy az atomerőművi blokk az üzemeltetési feltételeken és korlátokon belül üzemel, vagy ha az atomerőművi blokk nem várt módon viselkedik, akkor késlekedés nélkül intézkedéseket kell foganatosítani az atomerőmű biztonságos és stabil állapotba hozása érdekében.
+
+4.2.0.1100. Az előre nem tervezett módon leállított atomerőművi blokkot addig nem szabad ismét üzembe helyezni, amíg nem igazolt annak biztonságos végrehajtása.
+
+4.2.0.1200. Az engedélyes annak érdekében, hogy az üzemeltetési feltételeknek és korlátoknak meg tudjon felelni, felügyeleti programot alakít ki és hajt végre. A program eredményeit értékelni kell és meg kell őrizni.
+
+4.2.0.1300. Az üzemeltetési feltételek és korlátok megsértése esetén azonnal javító intézkedéseket kell végrehajtani, hogy az üzemeltetési feltételek és korlátok követelményei ismét teljesüljenek.
+
+4.2.0.1400. Az üzemeltetési feltételek és korlátok megsértését ki kell vizsgálni, és javító intézkedést kell hozni a nemmegfelelőség ismételt előfordulásának megelőzése érdekében.
+
+4.2.0.1500.[^37] Amennyiben az üzemeltetési feltételektől és korlátoktól való eltérést megszüntetni hivatott intézkedés nem az előírtaknak megfelelő, beleértve azokat az eseteket is, amikor az intézkedések végrehajtását nem sikerül befejezni az Üzemeltetési Feltételeket és Korlátokat tartalmazó dokumentumban meghatározott leállási idő alatt, akkor az atomerőművi blokkot úgy kell kezelni, mintha az nem az üzemeltetési feltételeknek és korlátoknak megfelelően üzemelne.
+
+4.3. ÜZEMBE HELYEZÉS
+
+4.3.1. A tevékenység célja
+
+4.3.1.0300. Az atomerőmű létesítését és műszaki átalakítását követően az érintett rendszereken kötelező művelet az üzembe helyezés, amelynek során meg kell győződni arról, hogy a tervezési célok teljesülnek, és ezáltal az atomerőmű, annak rendszerei és rendszerelemei alkalmasak a biztonságos üzemeltetésre.
+
+4.3.1.0400. Az üzembe helyezés során az előzetes üzemeltetési feltételeket és korlátokat igazolni és az üzembe helyezési mérések, valamint próbák eredményei alapján véglegesíteni kell.
+
+4.3.2. Az üzembe helyezés szervezése, végrehajtása
+
+4.3.2.0100. A 4.3.1. pontban megfogalmazott célok teljesítéséhez az üzembe helyezésért felelős szervezetnek részletes programot kell készítenie vagy készíttetnie a tervező közreműködésével, amely az egyedi próbák megkezdésétől a próbaüzem lefutásáig logikailag összefoglalja a tevékenységeket.
+
+4.3.2.0200. Az üzembe helyező szervezetnek üzembe helyezési rendet kell kidolgoznia, ami szabályozza az üzembe helyezést előkészítő tevékenységektől a próbaüzem zárásáig a részt vevő szervezetek tevékenységét, felelősségét, kapcsolatait.
+
+4.3.2.0300. A nukleáris létesítmény első üzembe helyezése során a leendő, a nukleáris létesítményben végzett átalakításokat követő üzembe helyezések során pedig az aktuális üzemeltető és karbantartó személyzet részvételét biztosítani kell annak érdekében, hogy számukra az üzembe helyezés az üzemeltetésre való felkészülés fontos gyakorlati lépése legyen.
+
+4.3.2.0400. Az üzembe helyezési tevékenységet az üzembe helyező szervezet által készített munkaprogramok alapján kell elvégezni.
+
+4.3.2.0500. Legalább az alábbi tevékenységek munkaprogramjainak kell rendelkezésre állnia az atomerőmű üzembe helyezésének megkezdése előtt:
+
+a) előzetes próbák,
+
+b) hivatalos próbák,
+
+c) biztonsági funkciót ellátó programozható eszközök,
+
+d) a gépésztechnológiai rendszerek üzembe helyezése,
+
+e) a cirkulációs mosatás végzése,
+
+f) a melegjáratás végzése,
+
+g) a fizikai indítás végrehajtása,
+
+h) energetikai indítás, és
+
+i) a próbaüzem lefuttatása.
+
+4.3.2.0600. A rendszerek, rendszerelemek átalakítását követő üzembe helyezés előtt az átalakítás terjedelmétől függően hagyhatók el a 4.3.2.0500. e)–i) pontok szerinti munkaprogramok.
+
+4.3.2.0700. A munkaprogramoknak legalább az alábbiakat kell tartalmazniuk:
+
+a) a végrehajtandó feladat leírását és megkezdésének előfeltételeit, a közben végzett vizsgálatokat, azok eredményének várható értékeit, elfogadási kritériumait, kapcsolatukat a tervezett üzemeltetési paraméterekkel,
+
+b) a visszatartási pontokat,
+
+c) a vizsgálatok eljárásmódjait és sorrendjét,
+
+d) a szervezeti kérdéseket, felelősségeket,
+
+e) a munkát végzők minimális létszámát, szükséges szakképzettségüket,
+
+f) a tűz- és balesetvédelmi követelményeket, valamint sugárveszélyes tevékenység esetén a sugárvédelmi követelményeket, melyeket a munka közben be kell tartani, valamint
+
+g) a munkaprogramban előírt és a gyakorlati végrehajtás közben tapasztalt paraméterek közötti nemmegfelelőségek kezelését.
+
+4.3.2.0800. Az üzembe helyezési munkaprogramokban foglaltak végrehajtását, az összegyűjtött információk hitelességét a tevékenységekben részt vevő felelős személyzetnek kell igazolnia.
+
+4.3.2.0900. Az üzembe helyezés során el kell végezni a nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek „0” állapotát felmérő és tanúsító vizsgálatokat és azok dokumentálását az előírt terjedelemben, annak érdekében, hogy az üzemeltetési időszak során bekövetkező változások azonosíthatóak legyenek.
+
+4.3.2.1000. Az üzembe helyezés során összegyűjtött tapasztalatokat, az atomerőműre vonatkozó pontosított adatokat a Végleges Biztonsági Jelentésbe be kell építeni.
+
+4.4. AZ ENGEDÉLYES SZERVEZETE
+
+4.4.0.0100. Az engedélyes felső vezetősége biztosítja az atomerőmű biztonságos, az összes vonatkozó jogszabályi és hatósági követelményt kielégítő működését.
+
+4.4.0.0200.[^38] A szervezet kialakításának legfőbb szempontja az atomerőmű biztonságos üzemeltetése a tervezési alapba tartozó valamennyi üzemállapotban, a biztonságos üzemeltetéshez szükséges funkciók meglétének és megfelelő működtetésének, valamint a veszélyhelyzetek megfelelő elhárítására való alkalmasság biztosítása. A szervezeti felépítés e szempontoknak megfelelő alkalmasságát igazolni és dokumentálni kell a nukleáris létesítmény üzembe helyezésének és minden szervezeti átalakításának megkezdése előtt. A szervezeti felépítés kialakításakor, fejlesztésekor és működtetésekor biztosítani kell az alábbi funkciók szétválasztását:
+
+a) irányítási, tervezési funkciók,
+
+b) az üzemeltetés végrehajtási funkciói,
+
+c) független felülvizsgálati funkciók,
+
+d) az üzemeltetést támogató funkciók.
+
+4.4.0.0300. Az engedélyes a nukleáris létesítmény üzemeltetésébe az alábbi megkötésekkel vonhat be beszállítót:
+
+a) az engedélyesnek mindig rendelkeznie kell elegendő számú és szaktudású saját személyzettel és erőforrással ahhoz, hogy ismerje és értse az atomerőmű engedélyezési alapját, az atomerőmű tényleges felépítését, üzemeltetését és működését az atomerőmű valamennyi üzemállapotában;
+
+b) az engedélyesnek elegendő számú és szakértelmű saját személyzetet és erőforrást kell fenntartania a beszállítókra vonatkozó előírások meghatározásához, a beszállítók által végzett munka irányításához, értékeléséhez és felügyeletéhez;
+
+c) az engedélyesnek a nukleáris biztonsággal kapcsolatos minden területen gondoskodnia kell a szükséges mérnöki és műszaki háttértámogatás rendelkezésre állásáról a nukleáris létesítmény fennállásának teljes időtartama alatt;
+
+d) a beszállítók által nyújtott szolgáltatások nem terjedhetnek ki az üzemeltetés tervezési, irányítási és ellenőrzési funkcióira;
+
+e) az üzemvitel területén azon tevékenységek végrehajtásánál lehet beszállítót alkalmazni, amelyek érdemben nem érintik sem az energiatermelés alapfolyamatát, sem a nukleáris biztonságot; adminisztratív előírásokkal biztosítani kell, hogy a váltóműszakos operatív irányítási séma szerinti hierarchia érvényesüljön a beszállítók bevonása révén alkalmazott személyzetre is; továbbá
+
+f) az üzemeltetés felügyeletét az üzemeltetéstől független szervezeti egységnek kell ellátnia; az ellenőrzés tervezését, az eredmények jóváhagyását az engedélyes felügyeletet ellátó szervezeti egységének kell végeznie.
+
+4.4.0.0400. A nukleáris biztonság szempontjából fontos rendszerek, rendszerelemek ellenőrzését megfelelő hatáskörrel rendelkező szervezeti egységre kell bízni.
+
+4.4.0.0500. A beszállítók munkavállalóinak a nukleáris biztonság szempontjából fontos rendszereken vagy rendszerelemeken folytatott munkavégzését az engedélyes – adott munkavégzés szempontjából – megfelelő szaktudással rendelkező munkavállalójának kell jóváhagynia és ellenőriznie.
+
+4.4.0.0600. Az engedélyes felelős azért, hogy az üzemeltető személyzet számára adottak legyenek a biztonságos munkavégzéséhez szükséges felszerelések és munkafeltételek.
+
+4.4.0.0700. A nukleáris biztonság fenntartása és szükség szerinti növelése érdekében az engedélyes folyamatosan figyelemmel kíséri a biztonsági teljesítményt egy erre alkalmas felülvizsgálati rendszeren keresztül.
+
+4.4.0.0800. Az üzemeltetési folyamatok megfelelő szabályozásával el kell érni, hogy a biztonsággal összefüggő döntéseket elegendő és megbízható információ alapján hozzák. A döntéshozatal során figyelembe kell venni a kockázati szempontokat. A nukleáris biztonsággal összefüggő döntéseket megfelelő elemzésnek és független biztonsági felülvizsgálatnak kell megelőznie.
+
+4.4.0.0900. A munkavállalók számára a felelősségeket, a jogosultságokat, az alá-, fölérendeltségi viszonyokat és a kommunikációs útvonalakat világosan definiálni és dokumentálni kell.
+
+4.4.0.1000. Az engedélyes szervezeti és működési szabályzatának tartalmaznia kell a munkaköri leírásokkal kapcsolatos előírásokat. Pontosan meg kell határozni a jogokat, kötelességeket, felelősségeket, a szükséges kompetenciákat és függőségi kapcsolatokat az engedélyes szervezetén belül az egyéntől a különböző méretű szervezetekig. A munkaköri leírásokban ki kell térni az adott munkakör betöltéséhez szükséges ismeretek és feltételek meghatározására is.
+
+4.4.0.1100. Ki kell zárni annak a lehetőségét, hogy az atomerőmű blokkjának üzemeltetése során az atomerőművi blokk üzemmódjaiban az üzemviteli feladatokra kijelölt és szükséges képesítéssel rendelkező munkavállalókon kívül más személyek bármiféle változtatást végrehajthassanak.
+
+4.4.1. A munkavállalókra vonatkozó követelmények
+
+4.4.1.0100. A biztonságos üzemeltetéshez szükséges üzemeltető személyzet létszámát és szaktudását szisztematikusan és dokumentumokban rögzített módon kell elemezni.
+
+4.4.1.0200. A biztonságos üzemeltetéshez szükséges és elégséges üzemeltető személyzet létszámát, szaktudását és a biztonságos munkavégzésre való alkalmasságát szabályozott módon igazolni kell és be kell mutatni a Végleges Biztonsági Jelentésben.
+
+4.4.1.0300. Az engedélyes gondoskodik a biztonságos üzemeltetéshez szükséges és elégséges üzemeltető személyzet rendelkezésre állásáról.
+
+4.4.1.0400. Az engedélyesnek hosszú távú munkaerő-gazdálkodási tervvel kell rendelkeznie a nukleáris biztonság szempontjából fontos tevékenységekre.
+
+4.4.1.0500. Figyelembe kell venni az emberi kapcsolatokat, elsősorban a függőségi viszonyokat, az együttműködés és kommunikáció hatását az üzemeltető személyzet összetételének megállapításakor.
+
+4.4.1.0600.[^39] Az üzemeltető személyzetnek mindenkor meg kell felelnie létszámmal, iskolai végzettséggel, szakképzettséggel, jártassággal, a nukleáris biztonság iránti elkötelezettséggel, egészségi állapottal, fizikai és pszichológiai alkalmassággal kapcsolatos, az adott feladatra írásban rögzített követelményeknek. A fentieknek biztosítaniuk kell, hogy az üzemeltető személyzet tervezési üzemzavar, tervezésen túli üzemzavar és baleset esetén is képes legyen feladatainak ellátására. A követelményeknek való megfelelést dokumentálni kell.
+
+4.4.1.0700. A nukleáris biztonság szempontjából fontos munkakört betöltő munkavállalók fizikai és pszichológiai alkalmasságát orvosi vizsgálaton kell megállapítani. Az orvosi vizsgálatokat időszakonként meg kell ismételni.
+
+4.4.1.0800. A munkavégzésre és a munkavállalókra vonatkozó követelményeknek azonosnak kell lenniük attól függetlenül, hogy a munkát az engedélyes munkavállalója, vagy a beszállító munkavállalója végzi.
+
+4.4.1.0900. Az atomerőműben tevékenykedő munkavállalókat ellenőrizni kell munkaképességük, egészségügyi, fizikai, pszichikai állapotuk, szakképesítésük és szakmai gyakorlatuk megfelelősége szempontjából, ezért erre megfelelő ellenőrzési rendszert és eszközöket kell biztosítani.
+
+4.4.1.1000. Az engedélyesnek átfogó képzési politikájával összhangban az üzemeltető személyzet szakmai felkészítésének, a felkészültség számonkérésének, a rendszeres szinten tartó képzéseknek és a felkészültség időszakos ellenőrzésének programját írásban kell rögzíteni, és időszakonként felül kell vizsgálni.
+
+4.4.1.1100. A képzési és szinten tartó oktatási programnak, a vezetői magatartásnak, példamutatásnak, támogatásnak és elvárásnak kell biztosítania, hogy az üzemeltető személyzet a szervezet minden szintjén megértse a nukleáris biztonság elsőrendű fontosságát, és helyesen tudja teljesíteni kötelességét mind a nukleáris létesítmény normál üzemmódjában, mind pedig tervezési üzemzavar esetén, az írásban rögzített üzemeltetési és üzemzavar-elhárítási utasításoknak megfelelően.
+
+4.4.1.1200. A képzési és szinten tartó oktatási programnak mind az elméleti, mind pedig a gyakorlati – különösen a szimulátoron és munkahelyen történő – képzésre ki kell terjednie.
+
+4.4.1.1300. Az alkalmazott szimulátornak biztosítania kell a normál és az üzemzavar-kezelési utasítások használatának és az üzemviteli személyzet együttműködésének hatékony gyakorlását.
+
+4.4.1.1400. A szinten tartó képzésnek ki kell terjednie az üzemeltetési tapasztalatokra és az átalakításokra.
+
+4.4.1.1500. A vezénylőtermi beosztásokban állandó vagy ideiglenes jelleggel munkát végző üzemviteli személyzet éves szinten tartó képzésének tartalmaznia kell legalább 5 napos szimulátoros gyakorlatot.
+
+4.4.1.1600. A karbantartó és a műszaki háttér személyzetnek képzést kell kapniuk a tőlük megkövetelt, a nukleáris biztonság szempontjából kritikus tevékenységekre.
+
+4.4.1.1700.[^40] A képzési programban kiemelt figyelmet kell fordítani a tervezési üzemzavarok, tervezésen túli üzemzavarok és balesetek során foganatosítandó intézkedésekre. A képzési programban szerepelnie kell a következőknek:
+
+a) az üzemi földrengést követően végrehajtandó ellenőrzések, valamint a biztonsági földrengés esetére vonatkozó intézkedési terv oktatása, továbbá az intézkedési terv végrehajtásának időszakos gyakoroltatása, és
+
+b) az üzemzavar-elhárítási utasításokról a súlyos baleset kezelésére vonatkozó útmutatókra történő áttérésnek és a súlyos baleseti helyzet kezelésének gyakorlása.
+
+4.4.1.1800. A biztonság szempontjából meghatározó munkakörökre nézve
+
+a) megfelelő egyedi képzési programokat kell kifejleszteni a képzési igények folyamatos felmérése alapján;
+
+b) a képzési szervezetnek rendelkeznie kell a szükséges forrásokkal, eszközökkel és létesítményekkel;
+
+c) a képzést megfelelő képzettségű oktatóknak kell végezniük, és az oktatók tevékenységét ellenőrizni kell;
+
+d) rendszeresen mérni kell a képzés hatékonyságát; valamint
+
+e) az üzemeltető személyzet alkalmasságát folyamatosan ellenőrizni kell, és az ellenőrzések tapasztalatait figyelembe kell venni a szintentartó képzések összeállításánál.
+
+4.4.1.1900. A képzésben szisztematikus megközelítést kell alkalmazni. A képzési program kialakítása a különböző munkaköröknél a következő fejlesztési fázisokból áll:
+
+a) elemzés: az adott munkakör megfelelő ellátásához szükséges ismereteken alapuló képzési igények meghatározása;
+
+b) tervezés: az ismeretek elsajátításához szükséges képzési célok meghatározása;
+
+c) fejlesztés: a képzési célok eléréséhez szükséges képzési anyagok előállítása;
+
+d) megvalósítás: a képzési anyagok szisztematikus oktatása;
+
+e) értékelés: a korábbi összes fázis adatainak feldolgozása a képzési program fejlesztése, javítása érdekében.
+
+4.4.1.2000. A képzéssel kapcsolatos dokumentációnak tartalmaznia kell a képzési programra és az oktatók teljesítményére vonatkozó adatokat. A képzések hatékonyságát mérni kell, amiről a vezetőséget rendszeresen tájékoztatni kell.
+
+4.4.1.2100. A képzési programnak ki kell terjednie a vezetőségre, az üzemeltető személyzetre, valamint a képzést végző oktatókra, instruktorokra, akiknek ismernie és értenie kell a hatósági követelményeket is, hogy megfelelő intézkedésekkel időben teljesítsék az előírásokat.
+
+4.4.1.2200. A nukleáris biztonság szempontjából meghatározó munkaköröket betöltők képzéséről, az ismeretek számonkérésének eredményeiről, a munkakörök betöltéséhez szükséges vizsgákról az engedélyesnek személyre szóló nyilvántartást kell létrehoznia és azt naprakész állapotban tartania.
+
+4.4.1.2300. A biztonság szempontjából kiemelten fontos üzemviteli és karbantartói munkaköröket betöltő személyzetnek a munkakör betöltéséhez az 1. melléklet 1.7. pontjában meghatározott érvényes jogosítvánnyal kell rendelkeznie. Az engedélyesnek ki kell dolgoznia e jogosítvány megszerzésének és megújításának eljárását. Dokumentált kritériumokat kell alkalmazni annak megítélésére, hogy az adott munkavállaló szaktudása és alkalmassága alapján a jogosítvány kiadható-e.
+
+4.4.1.2400.[^41] Az üzemeltető személyzetnek rendelkeznie kell nukleáris biztonsági, sugárvédelmi, tűzvédelmi, telephelyi baleset-elhárítási és ipari biztonsági alapismeretekkel.
+
+4.4.2. Biztonsági kultúra
+
+4.4.2.0100. A hatáskörök megfelelő gyakorlása és a feladatok biztonsági előírásokkal összhangban lévő ellátása érdekében a vezetőség kiválasztásánál a nukleáris biztonság iránti elkötelezettséget elengedhetetlen szempontként kell figyelembe venni.
+
+4.4.2.0200. A nukleáris létesítmény üzemeltetésében részt vevő szervezetek biztonsági kultúrájának színvonalát a nemzetközi követelményekkel összhangban a nukleáris létesítmény teljes élettartama alatt folyamatosan fejleszteni kell.
+
+4.5. AZ ÜZEMVITEL OPERATÍV IRÁNYÍTÓ HELYISÉGEI, AZ ÜZEMVITELT TÁMOGATÓ MŰSZAKI ÉS ADMINISZTRATÍV DOKUMENTUMOK
+
+4.5.1. Általános követelmények
+
+4.5.1.0100. A blokkvezénylőt és a tartalékvezénylőt a mindenkori műszaki fejlettségnek megfelelő, az ergonómiai igényeket is figyelembe vevő szinten kell tartani a nukleáris létesítmény teljes élettartama alatt.
+
+4.5.1.0200.[^42] Elégséges, működőképes kijelző és archiváló, valamint beavatkozó eszköznek kell az üzemviteli személyzet rendelkezésére állnia a blokkvezénylőben normál üzemi állapotra, a tervezési üzemzavari helyzetekre, valamint – amilyen mértékben ésszerűen lehetséges – a tervezésen túli üzemzavari helyzetekre és baleseti helyzetekre is a következő célokkal:
+
+a) az atomerőművi blokk és rendszerei, rendszerelemei állapotának megfelelő nyomon követhetősége,
+
+b) bármilyen, a nukleáris biztonságra hatással lévő változásnak nyilvánvaló és időben történő jelzése,
+
+c) bármilyen védelmi beavatkozás azonosítása, indítása és jóváhagyása,
+
+d) teljes kép kialakíthatósága az atomerőmű folyamatairól, különösen a nukleáris biztonságot érintőekről.
+
+4.5.1.0300. A blokkvezénylői rendszerek, rendszerelemek számára tervezett, folyamatos, szünetmentes villamos betáplálásnak az üzemviteli dokumentációkban meghatározott mértékben működőképesnek kell lennie az atomerőművi blokk minden tervezett üzemállapotában.
+
+4.5.1.0400. A blokkvezénylő megfelelő munkafeltételeit folyamatosan biztosítani kell, valamint intézkedéseket kell tenni a vezénylőterem személyzetének védelme érdekében, hogy a blokkvezénylő tervezési üzemzavari körülmények esetén is megközelíthető legyen, és az ott dolgozó személyzet sugárterhelése az elfogadható határértékek alatt maradjon.
+
+4.5.1.0500. A blokkvezénylőben az információt szolgáltató jelzések képi megjelenítésének és hangjelzésének az üzemviteli dokumentációkban meghatározott mértékben folyamatosan működőképesnek kell lenniük.
+
+4.5.1.0600. A tartalékvezénylő funkcióképességét folyamatosan fenn kell tartani, és rendszeresen ellenőrizni kell.
+
+4.5.1.0700. Biztosítani kell, hogy az üzemeltető személyzet minden részletre kiterjedően megismerkedjen az üzemeltetést támogató műszaki dokumentumok tartalmával, beleértve azok mindenkori változtatásait is.
+
+4.5.1.0800. Az üzemeltetést támogató műszaki dokumentumok aktuális verzióit az üzemeltető személyzet számára a vezénylőteremben és az üzemviteli tartózkodó helyiségekben elérhetővé kell tenni.
+
+4.5.1.0900. Az egyes, normál üzemeltetést támogató műszaki dokumentumokban utalni kell azokra az üzemeltetői dokumentumokra, melyek az üzemeltetéskor várható üzemi eseményeket, a tervezési üzemzavarokat kezelik.
+
+4.5.2. Eltérés a normál üzemtől, tervezési üzemzavari állapot
+
+4.5.2.0100. A végrehajtási utasításokban és az eljárásrendekben szabályozni kell a paraméterek dokumentálásának rendjét arra az esetre, ha az üzemviteli és környezeti paraméterek eltérnek a megengedett korlátozásoktól. Az eljárásrendekben meg kell határozni az eltérések esetén elvégzendő hatáselemzések, értékelések készítésének, a szükséges javító intézkedések meghatározásának szervezeti és adminisztratív kereteit.
+
+4.5.2.0200.[^43] Az üzemeltetés operatív dokumentumaival összefüggő változtatások, az ideiglenes módosítások, a normál üzemvitel kereteit meghaladó műveletek, vizsgálatok, kísérletek, vagy műszaki szükségességből elrendelt ideiglenes üzemviteli utasítások kidolgozásának folyamatát szabályozni kell. E dokumentumok jóváhagyási folyamatába az üzemviteltől független, a nukleáris biztonságért felelős szervezeti egységet is be kell vonni.
+
+4.5.2.0300. A normál üzemvitel kereteit meghaladó műveletek, vizsgálatok, kísérletek, vagy műszaki szükségességből elrendelt ideiglenes módosítások végrehajtását biztosító tevékenységeket csak a szabályozás szerint kidolgozott és jóváhagyott dokumentumok birtokában szabad megkezdeni.
+
+4.5.2.0400. Minden ideiglenes módosítást egyértelműen azonosítani kell az átalakítás helyszínén, minden érintett rendszer, rendszerelem kezelésére szolgáló kezelőszervnél, továbbá a velük kapcsolatos adminisztratív és műszaki háttértevékenységet végző munkahelyen. Az üzemviteli személyzetet pontosan tájékoztatni kell az ideiglenes módosításokról és az atomerőmű üzemére gyakorolt hatásairól.
+
+4.5.2.0500. Az atomerőművi blokk rendszereit, rendszerelemeit az érvényes üzemviteli dokumentációkban, folyamat és végrehajtási utasításokban foglaltaktól – az ideiglenes módosításokat meghatározó utasításokat is ideértve – eltérő állapotba hozni még átmenetileg sem szabad.
+
+4.5.2.0600. Az egyidejűleg fennálló ideiglenes módosítások számát a lehető legkevesebbre kell csökkenteni, és fennállásuk időtartamát korlátozni szükséges. Az ideiglenes módosításként kezelt eltérő állapotot a létrehozását indokoló kényszerítő ok felszámolásával az első, műszakilag lehetséges időpontban meg kell szüntetni, és vissza kell állítani az ideiglenes módosítást megelőző, terv szerinti állapotot, vagy az ideiglenes módosítást ideiglenes vagy végleges átalakításként kell kezelni.
+
+4.5.2.0700. A nukleáris létesítmény biztonsági jelentésében elemzett, és a később felismert lehetséges tervezési üzemzavarok kezelésére üzemzavar-elhárítási utasításoknak kell rendelkezésre állniuk. Az üzemzavar-elhárítási utasításoknak tartalmaznia kell az atomerőművi blokk biztonságos állapotának helyreállításához szükséges intézkedéseket.
+
+4.5.2.0800. A kezelési, tesztelési utasításoknak tartalmazniuk kell azokat a teendőket, amelyeket tervezési üzemzavari helyzet bekövetkezésekor végre kell hajtani az atomerőművi blokk biztonságos állapotának helyreállításához.
+
+4.5.2.0900. Az üzemzavar-elhárítási utasításokat ki kell dolgozni, és az ebből a célból elvégzett blokkspecifikus elemzésekkel kell alátámasztani. Az üzemzavar-elhárítási utasításoknak összhangban kell lenniük a többi üzemeltetési utasítással, többek között a védelmi jelzések esetén végrehajtandó utasításokkal és a súlyos baleset kezelésére vonatkozó útmutatókkal.
+
+4.5.2.1000. Az üzemzavar-elhárítási utasításoknak biztosítaniuk kell, hogy a vezénylőtermi személyzet gyorsan felismerje azokat a helyzeteket, amelyekre az utasítás vonatkozik. Ehhez az utasítások belépési és kilépési feltételeit meg kell határozni, amelyek alapján a vezénylőtermi személyzet képes kiválasztani a megfelelő utasítást, és képes navigálni és átváltani az utasításokról a súlyos baleset kezelésére vonatkozó útmutatókra.
+
+4.5.2.1100. Tervezési üzemzavart követően az atomerőművi blokkot újraindítani csak az eljárásrendekben és végrehajtási utasításokban leírtaknak, valamint a vonatkozó kezelési utasításoknak megfelelően szabad.
+
+4.5.3. Baleseti helyzet
+
+4.5.3.0100. A tervezésen túli üzemzavarokra vonatkozó üzemzavar-elhárítási utasításoknak és a súlyos balesetek kezelésére vonatkozó útmutatóknak rendelkezésre kell állnia.
+
+4.5.3.0200. Üzemzavar-elhárítási utasításokat kell biztosítani a tervezésen túli üzemzavarok kezelésére a zónasérülés kezdetének bekövetkezésig terjedően, az elvesztett biztonsági funkciók helyreállítása vagy pótlása és a zóna sérülésének megelőzése érdekében.
+
+4.5.3.0300. A súlyos balesetek kezelésére vonatkozó útmutatókat kell biztosítani a súlyos balesetek következményeinek enyhítése céljából arra az esetre, ha az elvesztett biztonsági funkciók helyreállítását vagy pótlását célzó intézkedések nem voltak sikeresek a zónakárosodás megelőzésében.
+
+4.5.3.0400. A tervezési üzemzavarokra vonatkozó üzemzavar-elhárítási utasítások állapotorientált utasítások, vagy állapotorientált és eseményorientált utasítások kombinációinak kell lenniük. A tervezésen túli üzemzavarokra vonatkozó utasítás csak állapotorientált lehet.
+
+4.5.3.0500.[^44] A súlyos baleset kezelésére vonatkozó útmutatókat szisztematikus módon, atomerőmű-specifikus megközelítést alkalmazva kell kidolgozni. A súlyos baleset kezelésére vonatkozó útmutatóknak olyan stratégiákat kell tartalmazniuk, amelyekkel a súlyos balesetek elemzéseiben azonosított eseménysorokat lehet kezelni. Az elemzések az atomerőmű súlyos balesetekkel szembeni sérülékenységének azonosítását, az atomerőmű képességeinek értékelését és a balesetkezelési intézkedések kifejlesztését célozzák.
+
+4.5.3.0600. Az üzemzavar-elhárítási utasításokat és a súlyos baleset kezelésére vonatkozó útmutatókat a lehetőségek szerint olyan formában kell verifikálni és validálni, amilyen formában alkalmazni fogják azokat, annak érdekében, hogy az atomerőmű számára biztosítsák a dokumentumok adminisztratív és műszaki helyességét, valamint kompatibilitásukat azzal a környezettel, amelyben alkalmazni fogják őket.
+
+4.5.3.0700. Az atomerőmű-specifikus validációhoz és verifikációhoz alkalmazott megközelítést dokumentálni kell. Az emberi tényezők műszaki elvei figyelembevételének hatékonyságát az utasításokban és az útmutatókban a validáció során kell vizsgálni. Az üzemzavar-elhárítási utasítások validációját reprezentatív szimulációra kell alapozni, ahol lehetséges, szimulátor alkalmazásával.
+
+4.5.3.0800. Az üzemzavar-elhárítási utasításokat és a súlyos baleset kezelésére vonatkozó útmutatókat naprakész állapotban kell tartani.
+
+4.5.3.0900. A műszakos személyzetet és a telephelyi, műszaki háttértámogató személyzetet rendszeres időközönként képzésben kell részesíteni, az üzemzavar-elhárítási utasítások, és ha lehetséges, akkor a súlyos baleset kezelésére vonatkozó útmutatók alkalmazására is, és szimulátoros gyakorlatokat kell szervezni számukra.
+
+4.5.3.1000. Az üzemzavar-elhárítási utasításokról a súlyos baleset kezelésére vonatkozó útmutatókra történő áttérést a súlyos balesetek kezelésében gyakoroltatni kell.
+
+4.5.3.1100. A súlyos baleset kezelésére vonatkozó útmutatók által megkövetelt, a szükséges biztonsági funkciók helyreállítása érdekében elengedhetetlen beavatkozásokat tervezni és rendszeresen gyakoroltatni kell.
+
+4.5.3.1200. Baleseti állapot telephelyen belüli kezelésére vonatkozó további követelményeket a 4.12. pont tartalmaz.
+
+4.6. A RENDSZEREK ÉS RENDSZERELEMEK MŰSZAKI ÁLLAPOTÁNAK FENNTARTÁSA
+
+4.6.0.0100.[^45] Az engedélyes az üzemeltetési engedély kiadásának alapjául szolgáló előírásoknak megfelelően igazolja az elvárt biztonsági funkciók ellátásának képességét – ezen belül az elvárt teljesítményparaméterek szerinti teljesítőképességet – az alábbiak közül egy vagy több módszer összehangolt alkalmazásával:
+
+a) biztonsági elemzések,
+
+b) környezetállósági minősítés és annak fenntartása,
+
+c) öregedéskezelési programok működtetése,
+
+d) a karbantartás hatékonyságának monitorozása.
+
+4.6.0.0200.[^46] Az engedélyes dönt, hogy a 4.6.0.0100. pontban meghatározott igazolási módszerek közül melyiket alkalmazza, azzal a megkötéssel, hogy
+
+a) a biztonsági funkció teljesítése során barátságtalan környezetben üzemelő villamos és irányítástechnikai rendszerelemek esetén környezetállósági minősítést végez,
+
+b) a fővízköri rendszerelemekre és tartószerkezeteikre, az ott azonosított öregedési helyekre és romlási mechanizmusokra öregedéskezelést valósít meg,
+
+c) az időszakos ellenőrzési program vizsgálatait jóváhagyott program alapján végzi, a 4.6.4.0500. pontban foglaltakat is figyelembe véve.
+
+4.6.1. A karbantartási, próba- és felügyeleti program
+
+A karbantartási, próba- és felügyeleti program tárgya és terjedelme
+
+4.6.1.0100. Az engedélyes dokumentált karbantartási, próba- és felügyeleti programot készít és hajt végre a nukleáris biztonság szempontjából fontos rendszerekre és rendszerelemekre azért, hogy a rendszerek és rendszerelemek megbízhatóan üzemeltethetőek legyenek, és tervezett funkciójukat teljesítsék az atomerőművi blokk teljes élettartama alatt.
+
+4.6.1.0200. A karbantartási, próba- és felügyeleti programnak ki kell terjednie:
+
+a) az üzem közbeni és leállás alatti ellenőrzés, az alkatrészek javítása és cseréje, a revízió és általános karbantartás, a csere, a karbantartás utáni beszabályozás és újraminősítés tervezésének, végrehajtásának és elemzésének tevékenységeire, valamint a joghatással járó mérések hitelesítésére is;
+
+b) a rendszerek és rendszerelemek rendszeres ellenőrzésére és próbáira a megbízhatóságuk igazolása, valamint annak meghatározása céljából, hogy alkalmasak-e az atomerőművi blokk folyamatos biztonságos üzemeltetésére, vagy szükség van-e valamilyen javító intézkedésre; valamint
+
+c) a rendszerek és rendszerelemek üzem közbeni hatások miatt bekövetkező öregedésének ellenőrzésére, elemzésére és értékelésére.
+
+4.6.1.0300. A hermetikus tér integritását ellenőrző karbantartási, próba és felügyeleti programnak a következőket kell magában foglalnia:
+
+a) szivárgásvizsgálat;
+
+b) az átvezetések tömítésének és a zárószerelvények, a határ részét képező zsilipek vagy szelepek vizsgálata, a szivárgásmentességük és amennyiben szükséges, az üzemképesség igazolása érdekében; és
+
+c) a szerkezeti integritás ellenőrzése.
+
+A program készítése és felülvizsgálata
+
+4.6.1.0400. A nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek karbantartási, próba- és felügyeleti programját az alábbiak alapján kell meghatározni:
+
+a) biztonsági osztályba sorolás,
+
+b) inherens megbízhatóság,
+
+c) romlásra való érzékenység, továbbá
+
+d) üzemeltetési és egyéb tapasztalatok, valamint az öregedéskezelési programok eredményei.
+
+4.6.1.0500. A karbantartási, próba- és felügyeleti programban szereplő elfogadási kritériumokat a tervezési előírások és a mértékadó műszaki szabványok figyelembevételével kell meghatározni.
+
+4.6.1.0600. A karbantartási, próba- és felügyeleti programban figyelembe kell venni az üzemeltetési feltételeket és korlátokat.
+
+4.6.1.0700. A felülvizsgálatnak ki kell terjednie az alábbiakra:
+
+a) a rendszerelemeken azonosított öregedési folyamatok,
+
+b) az ellenőrzési eredmények,
+
+c) a rendszerelemek tényleges műszaki állapota, és
+
+d) a tervezési előírások vagy mértékadó műszaki szabványok által előirányzott biztonsági tartalékok megléte.
+
+4.6.1.0800. A karbantartási, próba- és felügyeleti programok végrehajtása során keletkező adatokat gyűjteni, tárolni és elemezni kell.
+
+4.6.1.0900. A nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek karbantartási, próba- és felügyeleti programjának dokumentációit azok teljes élettartama alatt meg kell őrizni.
+
+4.6.1.1000. Az adatokat a kezdődő és ismétlődő hibák jeleinek felderítése céljából vizsgálni kell azért, hogy ennek alapján javító karbantartást lehessen kezdeményezni, a megelőző karbantartási, próba- és felügyeleti programot pedig ennek nyomán megfelelően módosítani lehessen.
+
+4.6.1.1100. A karbantartási, próba- és felügyeleti programot időszakosan felül kell vizsgálni az üzemeltetési tapasztalat figyelembevételével, és minden, a programban javasolt változtatást a rendszerek rendelkezésre állásának, az atomerőművi blokk biztonságának és az alkalmazandó előírásoknak való megfelelés céljainak figyelembevételével kell értékelni.
+
+4.6.1.1200. Értékelni kell az alkalmazott karbantartási, próba- és felügyeleti program potenciális hatását az atomerőművi blokk biztonságára.
+
+4.6.1.1300. A karbantartási, próba- és felügyeleti program kialakításakor optimális egyensúlyt kell találni a program végrehajtása által elérhető megbízhatóság növekedése és a karbantartás miatt bekövetkező üzemképtelenség kockázatnövelő hatása között. Amennyiben az érvényes karbantartási programok által előirányzott karbantartási ütemezésektől eltérő programokat vezetnek be, úgy azok kockázatra gyakorolt hatását elemezni kell.
+
+4.6.1.1400. Az engedélyes a karbantartási, próba- és felügyeleti programot vagy annak egyes részeit beszállítók bevonásával is megvalósíthatja, de az ilyen átruházott feladatért is teljes felelősséggel tartozik. Az engedélyes elvégzi az adminisztratív, műszaki és ellenőrzési tevékenységek felelős koordinálását, különös tekintettel az alábbi célokra:
+
+a) a leállított atomerőművi blokk mellett is üzemben tartandó rendszerek üzemképességének fenntartása,
+
+b) a karbantartási tevékenységek olyan szervezése, amely az ésszerűen elérhető legalacsonyabb szintű sugárterhelést eredményezi, továbbá
+
+c) az atomerőmű területén tartózkodó személyek és a környezet lakosságának védelme minden megengedhetetlen sugárterheléstől.
+
+A karbantartási, próba- és felügyeleti program megvalósítása
+
+4.6.1.1500. A karbantartási, próba- és felügyeleti programot úgy kell megszervezni, hogy azok ne jelentsenek indokolatlan kockázatot a munkavállalók számára, és ne csökkentsék jelentősen a rendszerek rendelkezésre állását.
+
+4.6.1.1600. A karbantartási, próba- és felügyeleti program végrehajtására eljárásrendeket kell kidolgozni, amelyeket szükséges rendszeresen felülvizsgálni és validálni.
+
+4.6.1.1700. Átfogó munkatervezési és irányítási rendszert kell kialakítani abból a célból, hogy a karbantartási, próba- és felügyeleti program engedélyezett és az eljárásrendekkel összhangban végrehajtott legyen.
+
+4.6.1.1800. A karbantartási munkák tervezésével biztosítani kell azt, hogy a nukleáris létesítmény valamely okból történő leállása során a nukleáris biztonságra kiható műszaki karbantartások és felügyeleti tevékenységek szükség szerint végrehajthatók legyenek.
+
+4.6.1.1900. Az engedélyesnek fel kell készülnie arra, hogy a jóváhagyott karbantartási, próba- és felügyeleti programot akkor is végre tudja hajtani, ha a közreműködésre előirányzott beszállítók a kiadott feladatokat nem tudják ellátni.
+
+4.6.1.2000. A rendszer, rendszerelem üzemből történő kivétele vagy ismételt üzembe helyezése előtt az adott rendszert, rendszerelemet érintő, tervezett technológiai, villamos vagy irányítástechnikai változtatást ellenőrizni kell, és jóvá kell hagyni, amit a végrehajtott változtatás dokumentált igazolása és – ahol lehetséges – funkcionális próba követ.
+
+4.6.1.2100. A rendszereket, rendszerelemeket arra meghatalmazott munkavállalók ellenőrzik, próbázzák és az üzemeltetési utasításoknak megfelelően üzemi állapotba hozzák.
+
+4.6.1.2200. Az általános üzemi rend fenntartása keretében el kell végezni:
+
+a) a hőszigetelések helyreállítását,
+
+b) az üzemeltetéshez nem igényelt eszközök eltávolítását, vagy terv szerinti deponálását és megfelelő rögzítését, valamint
+
+c) a földrengésállóságot biztosító eszközök tervszerű állapotba való visszaállítását.
+
+4.6.1.2300. Az elfogadási kritériumok nem teljesülése esetén végrehajtandó karbantartási, próba- és felügyeleti intézkedéseket eljárásrendekben és végrehajtási dokumentumokban kell meghatározni.
+
+4.6.1.2400. A karbantartási, próba- és felügyeleti program megfelelőségét, hatékonyságát, céljának teljesülését folyamatosan monitorozni és az eredményeit elemezni kell. Az elemzési eredményeket, a nemzetközi gyakorlatból származó ismereteket a karbantartási, próba- és felügyeleti program rendszeres felülvizsgálatánál figyelembe kell venni.
+
+4.6.1.2500. A rendszerek és rendszerelemek javítását indokolatlan késlekedés nélkül kell megtervezni és végrehajtani. A prioritásokat elsősorban a meghibásodott rendszerek és rendszerelemek biztonsági fontossága határozza meg.
+
+4.6.1.2600. Bármilyen rendellenes esemény után az engedélyesnek az esemény által érintett rendszerek és rendszerelemek biztonsági funkcióit és funkcionális integritását újra igazolnia kell, a szükséges javító intézkedéseket – beleértve a felügyeletet, próbát, karbantartást – végre kell hajtania.
+
+4.6.1.2700. A vizsgálatokra és próbákra használt mérő és vizsgáló berendezéseknek azok összes elemével és tartozékával együtt hitelesítettnek vagy kalibráltnak kell lennie, amit a használat előtt ellenőrizni kell. Minden berendezést pontosan azonosítani kell a hitelesítési vagy kalibrációs jegyzőkönyvben. Az engedélyesnek a hitelesítésekkel, kalibrálásokkal összefüggő tevékenységét a minőségirányítási rendszerével összhangban rendszeresen ellenőriznie kell.
+
+4.6.2. Az öregedés kezelése
+
+4.6.2.0100. Az engedélyes olyan átfogó öregedéskezelési programot készít, amelynek keretében:
+
+a) a nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek minden potenciális öregedési mechanizmusát azonosítják,
+
+b) meghatározzák a potenciális öregedési folyamatok lehetséges következményeit,
+
+c) meghatározzák és végrehajtják az öregedési mechanizmusok kialakulásának megelőzéséhez, a következmények csökkentéséhez, a romlás előrehaladásának követéséhez szükséges tevékenységeket annak érdekében, hogy a nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek rendelkezésre állását, megbízhatóságát fenntartsák, biztosítsák a biztonsági funkciók teljesítésének képességét a tervezési alapban meghatározott feltételek között, az atomerőmű teljes üzemideje alatt.
+
+4.6.2.0200. Az átfogó öregedéskezelési programot az atomerőművi blokk teljes üzemideje alatt működtetni kell, és össze kell hangolni az üzemeltetési, a karbantartási, próba- és felügyeleti tevékenységekkel és a rendszerelemek minősítési eljárásaival.
+
+4.6.2.0300. Az átfogó öregedéskezelési program létrehozásakor és működtetésekor az engedélyesnek figyelembe kell vennie a környezeti körülményeket, a folyamatok feltételeit, az üzemi ciklusokat, a karbantartási terveket, a tervezett üzemidőt, a próbák ütemezését és az alkatrészcsere-stratégiát.
+
+4.6.2.0400. Az engedélyes az öregedési hatások értékelésére olyan monitorozási, tesztelési, mintavételezési és ellenőrzési tevékenységet folytat, amely biztosítja az üzem közben nem várt folyamatok vagy romlások időben történő azonosítását és a szükséges megelőző, javító intézkedések megtételét.
+
+4.6.2.0500. Az átfogó öregedéskezelési program hatékony végrehajtásához az engedélyes olyan adatbázist működtet, amely alkalmas a program hatálya alá tartozó rendszerekkel, rendszerelemekkel kapcsolatos információk gyűjtésére, tárolására, elemzésére, és támogatja a szükséges tevékenységek meghatározását, optimalizálását és végrehajtásának koordinálását.
+
+4.6.2.0600. Az öregedéskezelési programot rendszeresen felül kell vizsgálni, és naprakész állapotban kell tartani. Ennek folyamán a programba be kell illeszteni az időközben ismertté vált új információkat, intézkedni kell a felmerült új problémák kezeléséről, figyelembe kell venni az időközben továbbfejlesztett eszközöket és módszereket, valamint értékelni kell az atomerőművi blokk üzemeltetése során alkalmazott karbantartási gyakorlat teljesítményét. A felülvizsgálat során össze kell hasonlítani a romlási folyamatok előzetesen feltételezett hatásait a monitorozási eredményekkel, és szükség esetén javító intézkedésekről kell gondoskodni.
+
+4.6.2.0700. Az atomerőművi blokk jogszabályban előírt időszakos biztonsági felülvizsgálata során az engedélyes megvizsgálja és igazolja, hogy az öregedési, elhasználódási mechanizmusokat figyelembe vették és feltárták az öregedés okozta előzetesen nem várt problémákat.
+
+4.6.3. Rendszerelemek minősített állapotának fenntartása
+
+4.6.3.0100. A nukleáris biztonság szempontjából fontos rendszerelemeknél a 3. melléklet 3.3.5. pontja szerinti kezdeti minősített állapotot az üzemeltetés során fenn kell tartani.
+
+4.6.3.0200. A minősített állapot fenntartását a tervezéskor vagy az üzemeltetési tapasztalatok alapján kiválasztott tevékenységek alkalmazásával kell elérni. A minősített állapot fenntartása érdekében monitorozó eljárásokat tartalmazó programot kell kidolgozni és megvalósítani a rendszerelemek minősített állapotának követésére.
+
+4.6.3.0300. A minősített állapot fenntartására irányuló program végrehajtása esetén a rendszerelemeket úgy kell tekinteni, mint amelyek elvárt funkciójukat teljesíteni tudják minősített élettartamuk alatt a tervekben meghatározott üzemi és üzemzavari körülmények között.
+
+4.6.3.0400. Azon rendszerelemek esetén, amelyeknek minősítése nem teljes, elemezni kell, hogy milyen körülmények között, milyen funkciójuk ellátása válhat kérdésessé. Az ilyen funkciók elmaradása miatt beálló következmények súlyossága alapján kell a minősítés teljessé tételére vonatkozó intézkedések prioritását meghatározni.
+
+4.6.3.0500. A rendszerelemek tervezett és a környezeti minősítési eljárás során meghatározott, várható maradék élettartamát az üzemeltetési tapasztalatok, a biztonsági mutatók és trendek elemzése alapján össze kell vetni, és ezt az időszakos vizsgálatok, cserék, és rekonstrukciók tervezésénél figyelembe kell venni.
+
+4.6.3.0600. A rendszerelemek környezeti minősítésére olyan eljárásnak kell rendelkezésre állni, amely abban az esetben is megalapozza a rendszerelemek maradék élettartamának értékeit, ha azokat a létesítés idején érvényes követelmények szerint másként, vagy egyáltalán nem minősítették.
+
+4.6.3.0700. A minősítés érvényét veszti, ha bármilyen ok következtében degradálódott környezeti körülmények miatt a kezdeti minősítés során figyelembe vett paraméterhatárok sérülnek, vagy ha a minősítés során figyelembe nem vett, vagy akkor csak lassúnak feltételezett, de az új körülmények között gyorsabb degradáció lép fel.
+
+4.6.3.0800. Azokat a rendszerelemeket, amelyek egy esemény során már működtek olyan barátságtalan környezetben, amelyben rájuk nézve szignifikáns öregítő tényező volt jelen, ki kell cserélni.
+
+4.6.3.0900. Műszakilag ésszerűen cserélhető egy rendszerelem, ha a csere szereléssel megvalósítható. Az ilyen villamos és irányítástechnikai rendszerelemet minősítettre kell cserélni, ha
+
+a) számára a minősítés nem adható meg,
+
+b) a minősítése érvényét veszti, vagy
+
+c) a minősítéskor meghatározott, az egymás után, megfelelő sorrendben elvégzett tesztek eredményeként meghatározott minősített élettartamát kimerítette.
+
+4.6.4. Az időszakos vizsgálatok végrehajtása
+
+Az időszakos ellenőrzési program tárgya és terjedelme
+
+4.6.4.0100. Az engedélyesnek dokumentált időszakos ellenőrzési programot kell készítenie és végrehajtania a nukleáris biztonság szempontjából fontos rendszerekre és rendszerelemekre, továbbá a hatósági felügyelet alá tartozó nyomástartó berendezésekre és csővezetékekre, azért, hogy a rendszerek és rendszerelemek integritását igazolja, valamint a biztonságos állapotuk fenntartásához szükséges intézkedéseket megalapozza az atomerőművi blokk teljes élettartama alatt.
+
+4.6.4.0200. Az időszakos ellenőrzési programnak ki kell terjednie a nyomástartó berendezések és csővezetékek biztonsági fontosságával arányosan az üzem közbeni és leállás alatti roncsolásmentes vizsgálattal végrehajtott ellenőrzésekre, azok követelményeire, a cserék, javítások utáni ismételt vizsgálatok végrehajtására és az eredmények értékelésére is.
+
+4.6.4.0300. Az időszakos ellenőrzési programnak tartalmaznia kell a nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek, továbbá a hatósági felügyelet alá tartozó nyomástartó berendezések és csővezetékek időszakos ellenőrzését, vizsgálatát annak meghatározása céljából, hogy alkalmasak-e az atomerőművi blokk folyamatos biztonságos üzemeltetésére vagy szükség van-e valamilyen javítóintézkedésre.
+
+A program készítése és felülvizsgálata
+
+4.6.4.0400.[^47] Az időszakos ellenőrzési programot a karbantartási, próba- és felügyeleti program kidolgozásával megegyező módon kell készíteni és felülvizsgálni.
+
+4.6.4.0500.[^48] Az atomerőművek időszakos roncsolásmentes vizsgálatainak terjedelmét, időbeli ütemezését, kritériumait és a végrehajtásuk módszerét az engedélyes határozza meg és azt a nukleáris biztonsági hatóság a 18. § (4) bekezdése szerint jóváhagyja. Az időszakos roncsolásmentes vizsgálatok ciklusidejét konzervatív feltételezésekkel úgy kell megállapítani, hogy az tegye lehetővé még a legjobban igénybe vett rendszerelemek esetén is a károsodás észlelését a meghibásodást megelőzően.
+
+4.6.4.0600. Az időszakos ellenőrzési programban előírt vizsgálatokat az adott terjedelemben a ciklusidőn belül legalább egyszer végre kell hajtani. Az engedélyes évente elkészíti és benyújtja a nukleáris biztonsági hatóságnak az adott évben elvégzendő vizsgálatok programját.
+
+4.6.4.0700. Az időszakos ellenőrzési program végrehajtásakor keletkező anyagvizsgálati jegyzőkönyveket, adatokat gyűjteni, tárolni és értékelni kell.
+
+4.6.4.0800. Az engedélyes az időszakos ellenőrzési programot, vagy annak egyes részeit más szervezeti egység, vagy beszállító bevonásával is megvalósíthatja, de az ilyen átruházott feladatért is teljes felelősséggel tartozik. Az engedélyes elvégzi az adminisztratív, műszaki és ellenőrzési tevékenységek felelős koordinálását.
+
+A program megvalósítása
+
+4.6.4.0900. Az időszakos ellenőrzési program végrehajtására eljárásrendeket kell kidolgozni, melyeket rendszeresen felül kell vizsgálni.
+
+4.6.4.1000. Az időszakos ellenőrzési program végrehajtásakor a rendszereket, rendszerelemeket arra meghatalmazott munkavállalóknak kell vizsgálniuk, ellenőrizniük, próbázniuk.
+
+4.6.4.1100. Bármilyen rendellenes esemény után az engedélyes az esemény által érintett rendszerek és rendszerelemek funkcionális integritását újra igazolja, a szükséges javító intézkedéseket – beleértve a vizsgálatot, próbát – végrehajtja.
+
+4.6.4.1200. Amennyiben olyan, az atomreaktor leállását kiváltó esemény történt, ami a szivárgásmentességre hatással lehetett, akkor az üzembevétel előtt az atomreaktor hőhordozórendszer nyomástartó határát tömörségvizsgálattal kell ellenőrizni.
+
+4.6.4.1300. Az időszakos roncsolásmentes vizsgálatok hatékony elvégzéséhez el kell végezni a rendszerek és rendszerelemek üzembe helyezés előtti állapotának rögzítését, és a későbbiekben biztosítani kell az időszakos vizsgálati eredmények ezekkel történő összevethetőségét.
+
+4.6.4.1400. A rendszerek és rendszerelemek időszakos anyagvizsgálati rendszereit minősíteni kell, amelyekkel igazolható, hogy a vizsgáló rendszer – a vizsgáló berendezés, a vizsgálattechnológia és a vizsgáló személyzet – képes a követelményeknek való megfelelésre valós vizsgálati körülmények között.
+
+4.6.4.1500. Amennyiben egy vizsgálat során az elfogadási kritériumot meghaladó méretű hibát találnak, akkor az azonos funkciójú és kialakítású rendszerelemeken további vizsgálatokkal kell feltárni az esetleg előforduló hibákat. A további vizsgálatok terjedelmét a hiba természetének és biztonsági következményeinek figyelembevételével kell meghatározni.
+
+[^35]: A 4. melléklet 4.1.1.0200. pontja a 304/2011. (XII. 23.) Korm. rendelet 46. §-a szerint módosított szöveg.
+[^36]: A 4. melléklet 4.2.0.0400. pontja a 37/2012. (III. 9.) Korm. rendelet 12. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^37]: A 4. melléklet 4.2.0.1500. pontja a 37/2012. (III. 9.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg. [E módosító rendelet 11. § 19. pontjával elrendelt módosítás, amely szerint a „nem sikerül a megengedhető leállási idő alatt befejezni” szövegrész helyébe a „nem sikerül befejezni az Üzemeltetési Feltételek és Korlátok dokumentumban meghatározott leállási idő alatt”, valamint a „mintha nem az” szövegrész helyébe a „mintha az nem az” szöveg lép, nem vezethető át.]
+[^38]: A 4. melléklet 4.4.0.0200. pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 20. pontja szerint módosított szöveg.
+[^39]: A 4. melléklet 4.4.1.0600. pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 8. és 21. pontja szerint módosított szöveg.
+[^40]: A 4. melléklet 4.4.1.1700. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 11. § 22. pontja szerint módosított szöveg.
+[^41]: A 4. melléklet 4.4.1.2400. pontját a 37/2012. (III. 9.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^42]: A 4. melléklet 4.5.1.0200. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 11. § 23. pontja szerint módosított szöveg.
+[^43]: A 4. melléklet 4.5.2.0200. pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 24. pontja szerint módosított szöveg.
+[^44]: A 4. melléklet 4.5.3.0500. pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 25. pontja szerint módosított szöveg.
+[^45]: A 4. melléklet 4.6.0.0100. pontja a 37/2012. (III. 9.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^46]: A 4. melléklet 4.6.0.0200. pontját a 37/2012. (III. 9.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^47]: A 4. melléklet 4.6.4.0400. pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 26. pontja szerint módosított szöveg.
+[^48]: A 4. melléklet 4.6.4.0500. pontja a 37/2012. (III. 9.) Korm. rendelet 10. § (3) bekezdésével megállapított, a 11. § 27. pontja szerint módosított szöveg.
