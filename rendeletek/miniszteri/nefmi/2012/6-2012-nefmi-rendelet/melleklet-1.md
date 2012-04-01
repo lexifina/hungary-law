@@ -1,3 +1,3 @@
-1. melléklet a 6/2012. (II. 14.) NEFMI rendelethez[^13]
+1. melléklet a 6/2012. (II. 14.) NEFMI rendelethez[^8]
 
-[^13]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

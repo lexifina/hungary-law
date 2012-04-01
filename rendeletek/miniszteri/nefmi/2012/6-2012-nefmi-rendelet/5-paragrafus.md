@@ -1,3 +1,85 @@
-5. §[^5]
+## 4. § Az R. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^5]: Az 1–5. § a 10. § (3) bekezdése alapján 2012. április 1-jén lép hatályba.
+## „(1) A nyilvántartás a 3. § szerinti célok megvalósítása érdekében – a (2) bekezdésben foglaltakra tekintettel – az alábbi adatokat tartalmazza:
+
+## a) az egészségügyi szolgáltató:
+
+## aa) rövidített és teljes cégnevét,
+
+## ab) fenntartójának megnevezését,
+
+## ac) cégjegyzékszámát vagy bírósági nyilvántartásba vétele számát, egyéni vállalkozó esetén nyilvántartásba vétele számát,
+
+## ad) gazdálkodási működési formáját,
+
+## ae) képviselője nevét,
+
+## af) KSH törzsszámát,
+
+## ag) a nyilvántartó rendszer által meghatározott egyedi azonosító számát,
+
+## ah) felelősségbiztosítási szerződése kötvényszámát;
+
+## b) a szolgáltató székhelyére és az egészségügyi szolgáltatás végzésének helyszínéül szolgáló telephelyére vonatkozó adatokat:
+
+## ba) megye,
+
+## bb) helységnév,
+
+## bc) utca, házszám,
+
+## bd) postai irányítószám,
+
+## be) telefonszám, e-mail cím,
+
+## bf) ingatlan használatának jogcímét;
+
+## c) az egészségügyi szolgáltató valamennyi szervezeti egységére vonatkozóan külön-külön:
+
+## ca) a 2. számú melléklet I. pontja szerinti, engedélyezett egészségügyi szakmákat, a hozzájuk tartozó kóddal, és a 2. számú melléklet II. pontja szerinti ellátási forma megnevezését, a hozzájuk tartozó kóddal,
+
+## cb) közszolgáltatásban való részvételének tényét,
+
+## cc) a ca) alpont szerinti szakmákhoz tartozó szolgáltatási típusok megnevezését a hozzájuk tartozó kóddal, továbbá a szakma külön jogszabályban megállapított progresszivitási szintjét,
+
+## cd) az engedélyezett tevékenységek körét, amennyiben a működési engedély a szakmán belül csak egyes tevékenységek nyújtására került kiadásra,
+
+## ce) a szervezeti egység engedélyező hatóság által kiadott egyedi azonosítóját, valamint az osztály (összevont osztály, mátrix osztály) megnevezését, járóbeteg-szakellátásban, illetve alapellátásban a rendelés megnevezését,
+
+## cf) a területi ellátási kötelezettségre vonatkozó adatokat, amennyiben a szolgáltató területi ellátási kötelezettséggel működik,
+
+## cg) az engedélyező hatóság megnevezését, azonosítóját,
+
+## ch) a működési engedély keltét, számát,
+
+## ci) a működés bármely korlátozásával kapcsolatos adatot,
+
+## cj) a közfinanszírozott egészségügyi szolgáltatások körében a szervezeti egység által nyújtott szolgáltatás jellegére figyelemmel a szervezeti egységben engedélyezett szakmákhoz tartozó kapacitás adatokat,
+
+## ck) jogszabályban foglaltak esetén a szervezeti egységben engedélyezett szakmák szünetelését, a szünetelés kezdő és befejező időpontja szerint,
+
+## cl) az osztály ágyszámát, az osztályon belül engedélyezett szakmánkénti bontásban,
+
+## cm) járóbeteg-szakellátásban és alapellátásban a heti rendelési időt (a szolgáltató rendelésének óraszámát összesítve, illetve napi bontásban a rendelési idő kezdése és befejezése időpontjának megjelölésével), és az alapellátásban a rendelkezésre állási időt napi bontásban,
+
+## cn) a közreműködés nyújtásának tényét,
+
+## co) a szervezeti egység közreműködőjének szolgáltatói egyedi azonosítóját,
+
+## cp) a közreműködést igénybe vevő szolgáltató nevét, egyedi azonosítóját és a szervezeti egység egyedi azonosítóját,
+
+## cq) a cn) és cp) alpontban meghatározott esetekben a közreműködés tartalmára vonatkozó adatokat,
+
+## cr) a szervezeti egységhez tartozóan, ellátási formától függően az ügyeleti részvételt, készenléti rendszerben való részvétel tényét, valamint a sürgősségi betegellátó rendszerben való részvétel tényét, és a sürgősségi ellátásban való részvétel tényét,
+
+## cs) az egészségügyi szolgáltatás nyújtásában részt vevő személyi feltételeket szervezeti egységenként, ennek keretében személynevet, és az orvosi bélyegző számát, vagy szakdolgozó esetén a működési nyilvántartási számot, továbbá alapellátásban a helyettesítés helyét, a helyettesítő nevét és orvosi bélyegző számát vagy működési nyilvántartási számát.”
+
+5. § (1) Az R. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az engedélyezési eljárás során az engedélyező hatóság a nyilvántartó rendszer által szerkesztett azonosítóval látja el az egészségügyi szolgáltatót és a szervezeti egységeket. Az azonosító egyedi, ugyanazon egészségügyi szolgáltató esetében más azonosítóra nem cserélhető. A megszűnt egészségügyi szolgáltató azonosítója másik egészségügyi szolgáltatónak nem adható ki.”
+
+(2) Az R. 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az egészségügyi szolgáltató egyedi azonosítóját és a szervezeti egység azonosítóját a működési engedély tartalmazza.”
+
+(3) Az R. 5. §-a a következő (4) bekezdéssel egészül ki:

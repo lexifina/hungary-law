@@ -1,3 +1,1 @@
-3. §[^3]
-
-[^3]: Az 1–5. § a 10. § (3) bekezdése alapján 2012. április 1-jén lép hatályba.
+## „(3) Az engedélyező hatóság az egészségügyi szolgáltatóra vonatkozó, a 4. §-ban meghatározott adatokat, valamint az azokban bekövetkezett változásokat rögzíti az egészségügyi szolgáltatók országos nyilvántartásában.”
