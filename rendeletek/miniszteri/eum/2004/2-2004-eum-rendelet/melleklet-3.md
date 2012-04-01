@@ -1,4 +1,4 @@
-3. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez[^21]
+3. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez[^25]
 
 A fekvőbeteg-szakellátásban finanszírozott szakmákhoz tartozó progresszivitási szintek
 
@@ -236,4 +236,4 @@ A fekvőbeteg-szakellátásban finanszírozott szakmákhoz tartozó progresszivi
 
 | Krónikus tüdőgyógyászat |  | X |  |  |
 
-[^21]: A 3. számú mellékletet a 6/2012. (II. 14.) NEFMI rendelet 8. § (3) bekezdése iktatta be.
+[^25]: A 3. számú mellékletet a 6/2012. (II. 14.) NEFMI rendelet 8. § (3) bekezdése iktatta be.

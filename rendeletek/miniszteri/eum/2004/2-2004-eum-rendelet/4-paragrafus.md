@@ -1,56 +1,78 @@
-4. § (1) A nyilvántartás a 3. § szerinti célok megvalósítása érdekében – a (2) bekezdésben foglaltakra tekintettel – az alábbi adatokat tartalmazza:
+4. § (1)[^6] A nyilvántartás a 3. § szerinti célok megvalósítása érdekében – a (2) bekezdésben foglaltakra tekintettel – az alábbi adatokat tartalmazza:
 
-a) a szolgáltató:
+a) az egészségügyi szolgáltató:
 
 aa) rövidített és teljes cégnevét,
 
 ab) fenntartójának megnevezését,
 
-ac) gazdálkodási működési formáját az 1. számú mellékletben meghatározott kétjegyű kód feltüntetésével,
+ac) cégjegyzékszámát vagy bírósági nyilvántartásba vétele számát, egyéni vállalkozó esetén nyilvántartásba vétele számát,
 
-ad) számára kiadott törzsszám első nyolc számjegyét,
+ad) gazdálkodási működési formáját,
 
-ae) közszolgáltatásban való részvételének tényét;
+ae) képviselője nevét,
+
+af) KSH törzsszámát,
+
+ag) a nyilvántartó rendszer által meghatározott egyedi azonosító számát,
+
+ah) felelősségbiztosítási szerződése kötvényszámát;
 
 b) a szolgáltató székhelyére és az egészségügyi szolgáltatás végzésének helyszínéül szolgáló telephelyére vonatkozó adatokat:
 
-– megye,
+ba) megye,
 
-– helységnév,
+bb) helységnév,
 
-– utca, házszám,
+bc) utca, házszám,
 
-– postai irányítószám,
+bd) postai irányítószám,
 
-– telefonszám;
+be) telefonszám, e-mail cím,
 
-c) a szolgáltató és amennyiben az rendelkezik önálló szakmai-szervezeti egységgel, akkor valamennyi szakmai-szervezeti egységére vonatkozóan külön-külön:
+bf) ingatlan használatának jogcímét;
 
-ca) az engedélyezett egészségügyi szakmák megnevezését a 2. számú mellékletben meghatározott kóddal együtt,
+c) az egészségügyi szolgáltató valamennyi szervezeti egységére vonatkozóan külön-külön:
 
-cb) a ca) alpont szerinti szakmákhoz tartozó szolgáltatási típusok és ellátási formák megnevezését, továbbá az ellátások progresszivitási szintjét,
+ca) a 2. számú melléklet I. pontja szerinti, engedélyezett egészségügyi szakmákat, a hozzájuk tartozó kóddal, és a 2. számú melléklet II. pontja szerinti ellátási forma megnevezését, a hozzájuk tartozó kóddal,
 
-cc)[^3] az engedélyező hatóság által kiadott országos érvényességű szolgáltatói azonosítót (a továbbiakban: azonosító),
+cb) közszolgáltatásban való részvételének tényét,
 
-cd) amennyiben a szolgáltató területi ellátási kötelezettséggel fog működni, szakmánként a területi ellátási kötelezettséget, a tervezett ellátandó területet,
+cc) a ca) alpont szerinti szakmákhoz tartozó szolgáltatási típusok megnevezését a hozzájuk tartozó kóddal, továbbá a szakma külön jogszabályban megállapított progresszivitási szintjét,
 
-ce)[^4] az engedélyező hatóság megnevezését, azonosítóját,
+cd) az engedélyezett tevékenységek körét, amennyiben a működési engedély a szakmán belül csak egyes tevékenységek nyújtására került kiadásra,
 
-cf) a működési engedély kiadásának keltét, számát, a működés korlátozásának megjelölésével,
+ce) a szervezeti egység engedélyező hatóság által kiadott egyedi azonosítóját, valamint az osztály (összevont osztály, mátrix osztály) megnevezését, járóbeteg-szakellátásban, illetve alapellátásban a rendelés megnevezését,
 
-cg) a működés szüneteltetésével kapcsolatos adatokat,
+cf) a területi ellátási kötelezettségre vonatkozó adatokat, amennyiben a szolgáltató területi ellátási kötelezettséggel működik,
 
-ch) a heti rendelési időt (a szolgáltató rendelésének óraszámát összesítve, illetve napi bontásban a rendelési idő kezdése és befejezése időpontjának megjelölésével) és a rendelkezésre állási időt,
+cg) az engedélyező hatóság megnevezését, azonosítóját,
 
-ci) az ágyszámot,
+ch) a működési engedély keltét, számát,
 
-cj)[^5] a szolgáltató – külön jogszabály szerinti – közreműködőjének az azonosítóját, valamint a működési engedélye számát, az engedélyező hatóság megnevezését és azonosítóját,
+ci) a működés bármely korlátozásával kapcsolatos adatot,
 
-ck) a szakmához tartozóan, ellátási formától függően az ügyeleti részvételt, készenléti rendszerben való részvétel tényét,
+cj) a közfinanszírozott egészségügyi szolgáltatások körében a szervezeti egység által nyújtott szolgáltatás jellegére figyelemmel a szervezeti egységben engedélyezett szakmákhoz tartozó kapacitás adatokat,
 
-cl) az orvosi bélyegző számát, amennyiben a szolgáltató alapellátást nyújt, vagy egyéni vállalkozó.
+ck) jogszabályban foglaltak esetén a szervezeti egységben engedélyezett szakmák szünetelését, a szünetelés kezdő és befejező időpontja szerint,
 
-(2) A gyógyászati segédeszközök forgalmazásával, javításával, illetve kölcsönzésével foglalkozó szolgáltatók vonatkozásában a nyilvántartás az (1) bekezdés a)–b) pontjában, valamint a ca), cc) és ce)–cg) alpontjában foglaltakon túl a következő adatokat tartalmazza:
+cl) az osztály ágyszámát, az osztályon belül engedélyezett szakmánkénti bontásban,
+
+cm) járóbeteg-szakellátásban és alapellátásban a heti rendelési időt (a szolgáltató rendelésének óraszámát összesítve, illetve napi bontásban a rendelési idő kezdése és befejezése időpontjának megjelölésével), és az alapellátásban a rendelkezésre állási időt napi bontásban,
+
+cn) a közreműködés nyújtásának tényét,
+
+co) a szervezeti egység közreműködőjének szolgáltatói egyedi azonosítóját,
+
+cp) a közreműködést igénybe vevő szolgáltató nevét, egyedi azonosítóját és a szervezeti egység egyedi azonosítóját,
+
+cq) a cn) és cp) alpontban meghatározott esetekben a közreműködés tartalmára vonatkozó adatokat,
+
+cr) a szervezeti egységhez tartozóan, ellátási formától függően az ügyeleti részvételt, készenléti rendszerben való részvétel tényét, valamint a sürgősségi betegellátó rendszerben való részvétel tényét, és a sürgősségi ellátásban való részvétel tényét,
+
+cs) az egészségügyi szolgáltatás nyújtásában részt vevő személyi feltételeket szervezeti egységenként, ennek keretében személynevet, és az orvosi bélyegző számát, vagy szakdolgozó esetén a működési nyilvántartási számot, továbbá alapellátásban a helyettesítés helyét, a helyettesítő nevét és orvosi bélyegző számát vagy működési nyilvántartási számát.
+
+(2)[^7] A gyógyászati segédeszközök forgalmazásával, javításával, illetve kölcsönzésével foglalkozó szolgáltatók vonatkozásában a nyilvántartás az (1) bekezdés a)–b) pontjában, valamint c) pont ca), ce), cg)–ci) és ck) alpontjában foglaltakon túl a következő adatokat tartalmazza:
 
 a) a szolgáltató heti nyitvatartási rendjét,
 
@@ -60,6 +82,5 @@ b) annak megjelölését, hogy a szolgáltató – a külön jogszabályban megh
 
 (4) A nyilvántartásban szereplő adatok azonosítására az OTH további kódokat állapíthat meg.
 
-[^3]: A 4. § (1) bekezdés c) pont cc) alpontja a 10/2011. (III. 30.) NEFMI rendelet 47. § (3) bekezdése szerint módosított szöveg.
-[^4]: A 4. § (1) bekezdés c) pont ce) alpontja a 10/2011. (III. 30.) NEFMI rendelet 47. § (4) bekezdése szerint módosított szöveg.
-[^5]: A 4. § (1) bekezdés c) pont cj) alpontja a 10/2011. (III. 30.) NEFMI rendelet 47. § (4) bekezdése szerint módosított szöveg.
+[^6]: A 4. § (1) bekezdése a 6/2012. (II. 14.) NEFMI rendelet 4. §-ával megállapított szöveg.
+[^7]: A 4. § (2) bekezdés nyitó szövegrésze a 6/2012. (II. 14.) NEFMI rendelet 9. §-a szerint módosított szöveg.
