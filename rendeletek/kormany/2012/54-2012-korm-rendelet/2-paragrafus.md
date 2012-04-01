@@ -1,5 +1,0 @@
-## 1. § A közalkalmazottakról szóló 1992. évi XXXIII. törvény végrehajtásáról a közoktatási intézményekben című 138/1992. (X. 8.) Korm. rendelet 22. §-a a következő (2) és (3) bekezdéssel egészül ki:
-
-## „(2) Ha a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 14. § (1) bekezdésben foglaltakkal összefüggésben az intézményvezetői feladatok ellátására kiírt pályázat nem vezetett eredményre, nem volt pályázó, illetve egyik pályázó sem kapott megbízást, az intézmény vezetésével kapcsolatos feladatokkal a pályázati eljárás eredményes befejezéséig, de legfeljebb 2012. július 31-ig megbízható az is, akinek az intézmény vezetésére szóló magasabb vezetői megbízása 2012. március 31-én a törvény erejénél fogva megszűnt, vagy aki a nevelőtestületnek az adott intézménytípusnak megfelelő iskolai végzettséggel és szakképzettséggel rendelkező tagja.
-
-## (3) A (2) bekezdés, valamint az 5. § (16) bekezdés szerinti vezetői megbízást a megyei intézményfenntartó központ vezetője adja.”
