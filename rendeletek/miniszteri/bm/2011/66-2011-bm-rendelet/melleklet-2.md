@@ -32,9 +32,9 @@
 
 ## 3.5. az ORFK területi besorolású szerveinél:
 
-## 3.5.1. az ORFK Gazdasági Főigazgatóság Gazdasági Ellátó Igazgatóságnál,
+## 3.5.1.[^3]
 
-## 3.5.2. az ORFK Gazdasági Főigazgatóság regionális gazdasági ellátó igazgatóságoknál,
+## 3.5.2.[^4]
 
 ## 3.5.3. az ORFK Gazdasági Főigazgatóság Fejlesztési Osztálynál,
 
@@ -42,9 +42,11 @@
 
 ## 3.5.5. az ORFK Rendészeti Szervek Kiképző Központjánál,
 
-## 3.5.6. a Zsaru Magazinnál
+## 3.5.6. a Zsaru Magazinnál,
 
-## szolgálatot teljesítő hivatásos állomány tagja.
+## 3.6.[^5] a Központi Gazdasági Ellátó Igazgatóságnál
+
+## szolgálatot teljesítő hivatásos állomány tagja,
 
 ## 4. 15/10% illetménykiegészítésre jogosult:
 
@@ -113,3 +115,7 @@
 ## szolgálatot teljesítő hivatásos állomány tagja.
 
 2. melléklet a 66/2011. (XII. 30.) BM rendelethez
+
+[^3]: Az 1. melléklet I. pont 3. pont 3.5. pont 3.5.1. alpontját a 13/2012. (III. 30.) BM rendelet 8. §-a hatályon kívül helyezte.
+[^4]: Az 1. melléklet I. pont 3. pont 3.5. pont 3.5.2. alpontját a 13/2012. (III. 30.) BM rendelet 8. §-a hatályon kívül helyezte.
+[^5]: Az 1. melléklet I. pont 3. pont 3.6. pontját a 13/2012. (III. 30.) BM rendelet 8. §-a iktatta be.
