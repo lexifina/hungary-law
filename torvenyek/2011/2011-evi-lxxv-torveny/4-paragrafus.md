@@ -14,6 +14,16 @@ d) a hitelbírálat során, valamint a szerződésszerű teljesítése esetén a
 
 e) amennyiben a hiteladósnak a rögzített árfolyam alkalmazási időszaka kezdő időpontjában a devizakölcsönből eredően 90 napot meg nem haladó késedelmes tartozása áll fenn, e tartozás teljes összegének – a kezdő időpontban érvényes hitelezői törlesztési árfolyam alkalmazásával megállapított – forint ellenértékét a hiteladós a kezdő időpontban a gyűjtőszámlahitel terhére végrehajtott folyósítással megfizeti.
 
+f) a gyűjtőszámlahitel terhére folyósított összegből
+
+fa) a mentesített követelésrészt, valamint
+
+fb) a legmagasabb árfolyamot meghaladó árfolyam miatt felmerülő törlesztési kötelezettség teljes összegét
+
+a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni.
+
+(1a) A közszférában dolgozó a gyűjtőszámlahitele ügyleti kamatát illetően kormányrendeletben meghatározott módon kamattámogatásra jogosult.
+
 (2) A devizakölcsön-szerződésnek a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötésére tekintettel történő módosításáért a pénzügyi intézmény a hiteladóssal szemben semmilyen költséget nem érvényesíthet.
 
 (3) A gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötésével egyidejűleg a felek a devizakölcsönre vonatkozó kölcsönszerződést írásban úgy módosítják, hogy
@@ -31,3 +41,5 @@ d) a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésben meghatározott 
 (5) A gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés végső lejárata nem lehet korábbi, mint a devizakölcsön végső lejárata. A pénzügyi intézmény a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés futamidejét – a hiteladós életkorát is figyelembe véve – úgy határozza meg, hogy annak visszafizetése a devizakölcsön törlesztőrészletét is figyelembe véve aránytalanul magas havi törlesztési terhet a hiteladós számára ne jelentsen. Az aránytalanul magas havi törlesztési teher mértékét kormányrendelet határozza meg.
 
 (6) A gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésben meghatározott, e törvényben nem szabályozott feltételeket a futamidő alatt a felek szabadon módosíthatják, amely az állami kezességvállalás érvényességét nem érinti.
+
+(7) A hiteladós a rögzített árfolyam alkalmazási időszaka alatt jogosult – a kezdő időponttól számított 36. hónapot követően, de legkésőbb a záró időpontot megelőző 2. törlesztés esedékességéig – egyoldalú írásbeli nyilatkozatával a rögzített árfolyam alkalmazásának megszüntetését a pénzügyi intézménynél kezdeményezni. Ilyen kezdeményezés esetén a pénzügyi intézmény a kérelem kézhezvételét követő 30 nap utáni első esedékességtől a rögzített árfolyam alkalmazását megszünteti.

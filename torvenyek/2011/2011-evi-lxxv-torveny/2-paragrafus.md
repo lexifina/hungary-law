@@ -1,8 +1,8 @@
-## 2. Állami kezességvállalás
+## 2. Állami szerepvállalás
 
 2. § (1) Ha a pénzügyi intézmény a kezességvállalás iránt igényt jelentett be, a Magyar Állam az (1a) bekezdésben meghatározott eltéréssel
 
-a) készfizető kezesként felel a gyűjtőszámlahitelből eredő tartozások 100%-áért, ha a pénzügyi intézmény a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést az 1. § (2) bekezdésében meghatározott időszakban a 2. § (3) bekezdés a) pontjában meghatározott okból felmondta,
+a) készfizető kezesként felel – a mentesített követelésrész kivételével – a gyűjtőszámlahitelből eredő tartozások 100%-áért, ha a pénzügyi intézmény a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést az 1. § (2) bekezdésében meghatározott időszakban a 2. § (3) bekezdés a) pontjában meghatározott okból felmondta,
 
 b) egyszerű kezesként felel a gyűjtőszámlahitelből eredő, legfeljebb a rögzített árfolyam alkalmazási időszaka záró időpontjában fennálló tartozások 25%-áért a rögzített árfolyam alkalmazási időszaka záró időpontját követően.
 
