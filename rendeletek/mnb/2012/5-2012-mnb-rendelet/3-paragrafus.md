@@ -1,3 +1,3 @@
-## 2. § Az R. 7. §-a a következő (1) bekezdéssel egészül ki:
+## 1–2. §[^2]
 
-## „(1) A 6. § (3) bekezdése 2012. május 11-én hatályát veszti.”
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
