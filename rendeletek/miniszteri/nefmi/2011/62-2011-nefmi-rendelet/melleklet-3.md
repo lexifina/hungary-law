@@ -12,7 +12,7 @@
 
 ## 1. telepített induktív hurkos rendszer vagy FM rendszer alkalmazása az irodahelyiségben,
 
-## 2. legalább egy, rövid szöveges üzenet (sms) fogadására is alkalmas vonalas telefon- és faxkészülék, előfizetett telefonvonallal,[^11]
+## 2. legalább egy, rövid szöveges üzenet (sms) fogadására is alkalmas vonalas telefon- és faxkészülék, előfizetett telefonvonallal,[^7]
 
 ## 3. legalább egy előfizetéses mobiltelefon a tolmácsszolgálat számára, mint készenléti telefonkészülék, továbbá a szakmai vezető jelnyelvi tolmács és minden további munkaviszony keretében alkalmazott jelnyelvi tolmács számára egy-egy előfizetéses mobiltelefon,
 
@@ -20,7 +20,7 @@
 
 ## 5. szélessávú vagy bérelt vonalas internet-csatlakozás,
 
-## 6. munkaviszony keretében alkalmazott személyenként egy-egy személyi számítógép-konfiguráció (asztali számítógép monitorral, billentyűzettel és egérrel, vagy laptop, továbbá nyomtató, web-camera), amely alkalmas az adatnyilvántartó szoftver futtatására és a számítógép vírusvédelmére,[^12]
+## 6. munkaviszony keretében alkalmazott személyenként egy-egy személyi számítógép-konfiguráció (asztali számítógép monitorral, billentyűzettel és egérrel, vagy laptop, továbbá nyomtató, web-camera), amely alkalmas az adatnyilvántartó szoftver futtatására és a számítógép vírusvédelmére,[^8]
 
 ## 7. heti legalább húsz órás munkaidőben alkalmazott személyenként egy-egy íróasztal és irodai szék,
 
@@ -72,7 +72,7 @@
 
 15. a pályázó nyilatkozata a tolmácsszolgálat helyiségeivel, valamint tárgyi eszköz felszereltségével kapcsolatos e rendelet szerinti követelményeknek való megfelelésről;
 
-16. a szakmai vezető jelnyelvi tolmács, vagy újonnan létrehozandó tolmácsszolgálat esetén a pályázó képviseletére jogosult személy által aláírt szolgáltatási rend a 2. § (2) bekezdés szerinti valamennyi formátumban[^13];
+16. a szakmai vezető jelnyelvi tolmács, vagy újonnan létrehozandó tolmácsszolgálat esetén a pályázó képviseletére jogosult személy által aláírt szolgáltatási rend a 2. § (2) bekezdés szerinti valamennyi formátumban[^9];
 
 17. a tolmácsszolgálatnál munkaviszony keretében alkalmazott, vagy megbízási jogviszony keretében foglalkoztatott, illetve a pályázat pozitív elbírálása esetén újonnan alkalmazni, illetve foglalkoztatni kívánt személyek által vállalt tolmácsolási típusokat, tolmácsolási módokat tartalmazó lista személyenként;
 
@@ -84,7 +84,7 @@
 
 20.1. önéletrajza,
 
-20.2. képesítéséről szóló okirat másolata, továbbá a pályázat benyújtását megelőző három évben szerzett legalább 300 tolmácsolt óra gyakorlatának meglétéről szóló nyilatkozata;
+20.2.[^10]
 
 21. a tolmácsszolgálatnál alkalmazott vagy a pályázat pozitív elbírálása esetén alkalmazni kívánt diszpécser
 
@@ -94,6 +94,7 @@
 
 22. a pályázat pozitív elbírálása esetén újonnan alkalmazni vagy foglalkoztatni kívánt személyek munkavállalásra, megbízási jogviszony létrehozására vonatkozó szándéknyilatkozata.
 
-[^11]: Ha a közös telefon- és faxvonal működése nem biztosítja a zökkenőmentes kommunikációt, önálló faxvonal létesítése szükséges.
-[^12]: A nyomtató lehet közös, ún. hálózati nyomtató, ekkor azonban még egy darab működőképes nyomtatóval kell rendelkeznie a tolmácsszolgálatnak.
-[^13]: A 2015. évben lefolytatott általános pályázati eljárás során a pályázathoz benyújtott szolgáltatási rendnek nem kell tartalmaznia az 1. melléklet 3. és 4. pont szerinti adatokat.
+[^7]: Ha a közös telefon- és faxvonal működése nem biztosítja a zökkenőmentes kommunikációt, önálló faxvonal létesítése szükséges.
+[^8]: A nyomtató lehet közös, ún. hálózati nyomtató, ekkor azonban még egy darab működőképes nyomtatóval kell rendelkeznie a tolmácsszolgálatnak.
+[^9]: A 2015. évben lefolytatott általános pályázati eljárás során a pályázathoz benyújtott szolgáltatási rendnek nem kell tartalmaznia az 1. melléklet 3. és 4. pont szerinti adatokat.
+[^10]: A 3. melléklet 20.2. pontját a 48. § (1) bekezdése hatályon kívül helyezte.

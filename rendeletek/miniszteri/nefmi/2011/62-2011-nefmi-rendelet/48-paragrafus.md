@@ -1,9 +1,8 @@
-48. § (1)[^8]
+48. § (1) Hatályát veszti a 3. melléklet 20.2. pontja.
 
-(2)[^9]
+(2)[^5]
 
-(3)[^10]
+(3)[^6]
 
-[^8]: A 48. § (1) bekezdése a 44. § (2) bekezdése alapján 2012. április 1-jén lép hatályba.
-[^9]: A 48. § (2) bekezdése a 44. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^10]: A 48. § (3) bekezdése a 44. § (4) bekezdése alapján 2015. április 1-jén lép hatályba.
+[^5]: A 48. § (2) bekezdése a 44. § (3) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^6]: A 48. § (3) bekezdése a 44. § (4) bekezdése alapján 2015. április 1-jén lép hatályba.
