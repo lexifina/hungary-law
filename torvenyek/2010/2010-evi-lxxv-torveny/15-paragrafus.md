@@ -4,7 +4,7 @@
 
 a) az egyszerűsített foglalkoztatásra vonatkozó, a bejelentett adatok rögzítésének, állami adóhatóság részére történő átadásának, valamint törlésének módját és technikai feltételeit,
 
-b) elektronikus úton, központi elektronikus szolgáltató rendszeren keresztül, mobil rádiótelefonon, illetve telefonon teljesíthető bejelentéssel használt alkalmazással összefüggő azonosítást, az alkalmazással szemben támasztott biztonsági követelményeket, valamint az alkalmazás használatának biztonsági és egyéb feltételeit,
+b) elektronikus úton, kormányzati azonosítási szolgáltatáson keresztül, mobil rádiótelefonon, illetve telefonon teljesíthető bejelentéssel használt alkalmazással összefüggő azonosítást, az alkalmazással szemben támasztott biztonsági követelményeket, valamint az alkalmazás használatának biztonsági és egyéb feltételeit,
 
 c) a 2. § 6. pontja szerinti tagállam állampolgára egyszerűsített foglalkoztatására előírt bejelentési kötelezettség részletszabályait
 
