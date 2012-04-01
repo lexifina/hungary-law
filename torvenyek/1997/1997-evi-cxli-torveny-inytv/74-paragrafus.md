@@ -8,4 +8,4 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 (2) A szolgáltatási szerződés kötelező elemeit külön jogszabály határozza meg.
 
-(3) Az önálló EKG-kapcsolattal nem rendelkező felhasználók kapcsolódása a számítógépes ingatlan-nyilvántartási rendszerhez a kormányzati portálon az ügyfélkapun keresztül, vagy azonnali érvényességvizsgálatra alkalmas, legalább fokozott biztonságú elektronikus aláírással történhet.
+(3) Az önálló EKG-kapcsolattal nem rendelkező felhasználók kapcsolódása a számítógépes ingatlan-nyilvántartási rendszerhez a Kormány által biztosított azonosítási szolgáltatáson keresztül, vagy azonnali érvényességvizsgálatra alkalmas, legalább fokozott biztonságú elektronikus aláírással történhet.

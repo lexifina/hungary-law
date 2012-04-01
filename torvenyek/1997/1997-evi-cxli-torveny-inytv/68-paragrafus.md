@@ -6,7 +6,7 @@
 
 (3) A körzetközponti feladatokat ellátó települési (fővárosi kerületi) önkormányzat jegyzője (a továbbiakban: körzetközponti jegyző) a polgármesteri hivatal részeként működtetett okmányiroda (a továbbiakban: okmányiroda) útján a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározottak szerint hiteles tulajdonilap-másolatot adhat ki.
 
-(4) A tulajdoni lapról kiállított hiteles másolat kizárólag papír alapon szolgáltatható. Elektronikus dokumentumként hiteles és nem hiteles másolat közvetlenül, illetve az ügyfélkapun keresztül a számítógépes ingatlan-nyilvántartási rendszerből szolgáltatható.
+(4) A tulajdoni lapról kiállított hiteles másolat kizárólag papír alapon szolgáltatható. Elektronikus dokumentumként hiteles és nem hiteles másolat közvetlenül, illetve a Kormány által biztosított azonosítási szolgáltatáson keresztül a számítógépes ingatlan-nyilvántartási rendszerből szolgáltatható.
 
 (5) Tulajdoni lapról másolatot meghatározott formában lehet kiadni. Ha a hiteles tulajdonilap-másolat szolgáltatása elektronikus dokumentumként történik, e tényre a hitelesítési záradékban utalni kell.
 

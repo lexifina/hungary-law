@@ -1,8 +1,8 @@
-75. § (1) A számítógépes ingatlan-nyilvántartási rendszer szolgáltatásainak igénybevétele iránti kérelem tárgyában az ingatlanügyi hatóság határozatot hoz, kivéve ha a tulajdonilap-másolat szolgáltatása ügyfélkapun keresztül történik.
+75. § (1) A számítógépes ingatlan-nyilvántartási rendszer szolgáltatásainak igénybevétele iránti kérelem tárgyában az ingatlanügyi hatóság határozatot hoz, kivéve ha a tulajdonilap-másolat szolgáltatása a Kormány által biztosított azonosítási szolgáltatáson keresztül történik.
 
 (1a) Az ingatlanügyi hatóság az (1) bekezdés szerinti határozatában állapítja meg a kérelmező által – a kérelemben megjelölt jogszabályok alapján – igénybe vehető díjmentességek körét.
 
-(2) A számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybevevőknek – az ügyfélkapun keresztül történő lekérdezések kivételével – a lekérdezéseikről naplót kell készíteniük, amelyet öt évig meg kell őrizniük. A bírósági, ügyészségi, hatósági feladatok ellátásához szükséges lekérdezések esetén a naplóban rögzíteni kell annak a bírósági, ügyészségi, hatósági ügynek az iktatószámát is, melyhez az ingatlan-nyilvántartási adatokat lekérdezték.
+(2) A számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybevevőknek – a Kormány által biztosított azonosítási szolgáltatáson keresztül történő lekérdezések kivételével – a lekérdezéseikről naplót kell készíteniük, amelyet öt évig meg kell őrizniük. A bírósági, ügyészségi, hatósági feladatok ellátásához szükséges lekérdezések esetén a naplóban rögzíteni kell annak a bírósági, ügyészségi, hatósági ügynek az iktatószámát is, melyhez az ingatlan-nyilvántartási adatokat lekérdezték.
 
 (2a) A naplónak minden esetben tartalmazza a lekérdezés időpontját, a lekérdezést végző személy nevét, a lekérdezett ingatlan pontos megjelölését (település neve, helyrajzi szám), díjmentes lekérdezés esetén a lekérdezés célját, valamint a díjmentességet megalapozó jogszabályi rendelkezésre való hivatkozást.
 
