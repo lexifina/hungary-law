@@ -1,12 +1,15 @@
-52. § (1)[^439] E rendelet – a (2) bekezdés kivételével – a kihirdetését követő 5. napon lép hatályba, rendelkezéseit 1999. április 1-jétől kell alkalmazni.
+## 51. §[^435]
 
-(2)[^440] A 25. § (3) bekezdése 1999. július 1. napján lép hatályba.
+52. § (1)[^436] E rendelet – a (2) bekezdés kivételével – a kihirdetését követő 5. napon lép hatályba, rendelkezéseit 1999. április 1-jétől kell alkalmazni.
 
-(3)–(10)[^441]
+(2)[^437] A 25. § (3) bekezdése 1999. július 1. napján lép hatályba.
 
-(11)[^442]
+(3)–(10)[^438]
 
-[^439]: Az 52. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 1242. pontja szerint módosított szöveg.
-[^440]: Az 52. § (2) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 1242. pontja szerint módosított szöveg.
-[^441]: Az 52. § (3)–(10) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1242. pontja hatályon kívül helyezte.
-[^442]: Az 52. § (11) bekezdését a 10/2007. (II. 6.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 41/2007. (III. 13.) Korm. rendelet 19. § (6) bekezdésének b) pontja.
+(11)[^439]
+
+[^435]: Az 51. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1242. pontja hatályon kívül helyezte.
+[^436]: Az 52. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 1242. pontja szerint módosított szöveg.
+[^437]: Az 52. § (2) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 1242. pontja szerint módosított szöveg.
+[^438]: Az 52. § (3)–(10) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1242. pontja hatályon kívül helyezte.
+[^439]: Az 52. § (11) bekezdését a 10/2007. (II. 6.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 41/2007. (III. 13.) Korm. rendelet 19. § (6) bekezdésének b) pontja.

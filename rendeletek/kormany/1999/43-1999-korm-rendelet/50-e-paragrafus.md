@@ -1,3 +1,3 @@
-50/E. §[^437]
+## 50/D. §[^433]
 
-[^437]: Az 50/E. §-t a 15/2005. (I. 26.) Korm. rendelet 15. §-a iktatta be, hatályon kívül helyezte a 318/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdése.
+[^433]: Az 50/C. §-t a 293/2002. (XII. 27.) Korm. rendelet 23. §-a iktatta be, számozását a 264/2003. (XII. 24.) Korm. rendelet 24. §-a 50/D. §-ra változtatta. Az 50/D. §-t a 331/2005. (XII. 29.) Korm. rendelet 19. § (4) bekezdése hatályon kívül helyezte.
