@@ -60,6 +60,6 @@ b) a lajstromkivonat igénylésére vonatkozó kérelmet,
 
 c) az iratbetekintésre vonatkozó kérelmet.
 
-(11) Ha az ügyfél a (10) bekezdés alapján elektronikus úton, az ügyfélkapun keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli az eljárás során hozott döntéseket, illetve küldi meg a hiteles elektronikus lajstromkivonatot.
+(11) Ha az ügyfél a (10) bekezdés alapján elektronikus úton, a Kormány által biztosított azonosítási szolgáltatáson keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli az eljárás során hozott döntéseket, illetve küldi meg a hiteles elektronikus lajstromkivonatot.
 
 (12) A (10) bekezdésben meghatározott beadványok elektronikus úton való benyújtására az 53/D. § (4)–(9) bekezdésében foglaltakat megfelelően alkalmazni kell.
