@@ -44,9 +44,9 @@ u) egyetértést gyakorol a más államigazgatási szervek ügykörébe tartozó
 
 v) ellátja a Nemzetközi Munkaügyi Szervezettel (ILO) kapcsolatos feladatokat,
 
-w) működteti a Munkaügyi Közvetítői és Döntőbírói Szolgálatot, a Munkaügyi Ellenőrzést Támogató Testületet, a Közmunkatanácsot,
+w)[^262] működteti a Munkaügyi Közvetítői és Döntőbírói Szolgálatot, a Munkaügyi Ellenőrzést Támogató Testületet, a Közmunkatanácsot,
 
-x)[^262] ellátja a Nemzeti Foglalkoztatási Szolgálat, valamint a Nemzeti Munkaügyi Hivatal irányítását.
+x)[^263] ellátja a Nemzeti Foglalkoztatási Szolgálat, valamint a Nemzeti Munkaügyi Hivatal irányítását.
 
 (2) A miniszter a szakképzésért és felnőttképzésért való felelőssége körében
 
@@ -84,15 +84,15 @@ p) ellátja a szakképzési hozzájárulásról és a képzés fejlesztésének 
 
 q) működteti a Nemzeti Szakképzési és Felnőttképzési Tanácsot,
 
-r)[^263] irányítja a Nemzeti Munkaügyi Hivatalt és a 30. § b) pontban foglaltakkal összhangban szakmai felügyeletet gyakorol a regionális képző központoknak a vállalatok közvetlen képzési megrendelései tekintetében
+r)[^264] irányítja a Nemzeti Munkaügyi Hivatalt és a 30. § b) pontban foglaltakkal összhangban szakmai felügyeletet gyakorol a regionális képző központoknak a vállalatok közvetlen képzési megrendelései tekintetében
 
 s) törvényességi felügyeletet gyakorol a Felnőttképzési Akkreditáló Testület felett.
 
 (3) A miniszter a társadalmi párbeszédértvaló felelőssége körében
 
-a)[^264]
+a)[^265]
 
-b)[^265] összehangolja – a makroszintű társadalmi párbeszéd vonatkozásában a kormányzati tevékenység összehangolásáért felelős miniszterrel egyeztetve – a kormányzati szervek érdekegyeztetéssel kapcsolatos tevékenységét,
+b)[^266] összehangolja – a makroszintű társadalmi párbeszéd vonatkozásában a kormányzati tevékenység összehangolásáért felelős miniszterrel egyeztetve – a kormányzati szervek érdekegyeztetéssel kapcsolatos tevékenységét,
 
 c) részt vesz a gazdasági, munkaügyi, foglalkoztatási, szakképzési, munkavédelmi, valamint fogyasztóvédelmi érdekegyeztetésben, továbbá ellátja, illetve biztosítja a Kormány képviseletét a feladatköréhez tartozó érdekegyeztető testületekben,
 
@@ -110,11 +110,11 @@ i) gondoskodik a civil szektort érintő minisztériumi szintű elképzelések �
 
 j) elősegíti a civil szektor szervezeteinek részvételét a közfeladatok ellátásában,
 
-k)[^266] részt vesz a közigazgatási és igazságügyi miniszternek a Nemzeti Civil Alapprogrammal kapcsolatos kormányzati feladatai összehangolásában,
+k)[^267] részt vesz a közigazgatási és igazságügyi miniszternek a Nemzeti Civil Alapprogrammal kapcsolatos kormányzati feladatai összehangolásában,
 
-l)[^267]
+l)[^268]
 
-m)[^268] működteti az Országos Közszolgálati Érdekegyeztető Tanácsot és a Közalkalmazottak Országos Munkaügyi Tanácsát.
+m)[^269] működteti az Országos Közszolgálati Érdekegyeztető Tanácsot és a Közalkalmazottak Országos Munkaügyi Tanácsát.
 
 [^256]: A 81. § (1) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (51) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^257]: A 81. § (1) bekezdés e) pontja a 90/2011. (VI. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
@@ -122,10 +122,11 @@ m)[^268] működteti az Országos Közszolgálati Érdekegyeztető Tanácsot és
 [^259]: A 81. § (1) bekezdés h) pontját a 90/2011. (VI. 14.) Korm. rendelet 5. §-a hatályon kívül helyezte.
 [^260]: A 81. § (1) bekezdés o) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (51) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^261]: A 81. § (1) bekezdés r) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (51) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^262]: A 81. § (1) bekezdés x) pontja a 324/2011. (XII. 28.) Korm. rendelet 27. § (1) bekezdés c) pontja és a (2) bekezdés szerint módosított szöveg.
-[^263]: A 81. § (2) bekezdés r) pontja a 324/2011. (XII. 28.) Korm. rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^264]: A 81. § (3) bekezdés a) pontját a 200/2011. (X. 7.) Korm. rendelet 3. §-a hatályon kívül helyezte.
-[^265]: A 81. § (3) bekezdés b) pontja a 200/2011. (X. 7.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^266]: A 81. § (3) bekezdés k) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (51) bekezdés d) pontja, 41. § (35) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^267]: A 81. § (3) bekezdés l) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (35) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^268]: A 81. § (3) bekezdés m) pontja a 200/2011. (X. 7.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^262]: a 81. § (1) bekezdés w) pontja a 324/2011. (XII. 28.) Korm. rendelet 27. § (2) bekezdéáse szerint módosított szöveg.
+[^263]: A 81. § (1) bekezdés x) pontja a 324/2011. (XII. 28.) Korm. rendelet 27. § c) pontja szerint módosított szöveg.
+[^264]: A 81. § (2) bekezdés r) pontja a 324/2011. (XII. 28.) Korm. rendelet 27. § d) pontja szerint módosított szöveg.
+[^265]: A 81. § (3) bekezdés a) pontját a 200/2011. (X. 7.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^266]: A 81. § (3) bekezdés b) pontja a 200/2011. (X. 7.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^267]: A 81. § (3) bekezdés k) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (51) bekezdés d) pontja, 41. § (35) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^268]: A 81. § (3) bekezdés l) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (35) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^269]: A 81. § (3) bekezdés m) pontja a 200/2011. (X. 7.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

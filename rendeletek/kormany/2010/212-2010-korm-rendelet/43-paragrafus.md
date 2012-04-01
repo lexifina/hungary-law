@@ -8,4 +8,4 @@ c) törvényességi felügyeletet gyakorol az ágazathoz tartozó szakmai kamar�
 
 (2) A miniszter az egészségbiztosításért való felelőssége körében irányítja az Országos Egészségbiztosítási Pénztárat.
 
-[^147]: A 43. § (1) bekezdés a) pontja a 320/2011. (XII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^147]: A 43. § (1) bekezdés a) pontja a 320/2011. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.

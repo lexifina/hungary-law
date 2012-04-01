@@ -1,4 +1,4 @@
-## XI/A. Fejezet[^377]
+## XI/A. Fejezet[^378]
 
 ## EGYES NEMZETKÖZI PÉNZÜGYI SZERVEZETEKKEL VALÓ KAPCSOLATTARTÁSÉRT FELELŐS TÁRCA NÉLKÜLI MINISZTER
 
@@ -12,4 +12,4 @@ c) a magyar álláspont megfelelő kialakítása és képviselete érdekében ad
 
 d) a b) és c) pontban meghatározottak alapján kezdeményezi a Kormány döntését a tárgyalásokon képviselendő magyar álláspontról.
 
-[^377]: A XI/A. Fejezetet (117/A–117/B. §-t) a 340/2011. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^378]: A XI/A. Fejezetet (117/A–117/B. §-t) a 340/2011. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
