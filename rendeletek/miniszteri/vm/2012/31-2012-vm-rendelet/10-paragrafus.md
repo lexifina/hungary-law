@@ -1,3 +1,0 @@
-## 9. § A szőlőtermelési potenciálról szóló 86/2009. (VII. 17.) FVM rendelet (a továbbiakban: R2.) 4. §-a a következő (8) bekezdéssel egészül ki:
-
-## „(8) Érdemi vizsgálat nélkül végzéssel elutasított, de ismételten benyújtott kérelmek esetében, amennyiben az első kérelem tartalmazta a megfelelő tulajdoni lap-másolatot, a (4) bekezdés a) pontjában előírtakat nem kell alkalmazni abban az esetben, ha az érdemi vizsgálat nélkül elutasító végzés kézhezvétele, illetve a megismételt kérelem illetékes hegybíróhoz történő benyújtása között legfeljebb harminc nap telt el, valamint a tulajdoni lap-másolat tartalmára vonatkozóan a kérelemben érdemi változás az érdemi vizsgálat nélkül végzéssel elutasított kérelemhez képest nem volt.”
