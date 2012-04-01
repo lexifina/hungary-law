@@ -12,6 +12,6 @@ d) a tanúsítvánnyal ellátott elektronikusan aláírt elektronikus dokumentum
 
 (2) Ha az aláíró elmulasztotta teljesíteni az (1) bekezdés szerinti kötelezettségét, az ebből eredő kárért felel.
 
-(3) Az aláíró, illetve a 10. § szerinti képviselt személy (szervezet) kérheti a tanúsítvány felfüggesztését, illetve visszavonását.
+(3) Az aláíró, illetve a 10. § szerinti képviselt személy, szervezet kérheti a tanúsítvány felfüggesztését, illetve visszavonását.
 
-(4) Az aláíró az aláírás-létrehozó adatot kizárólag az aláírás létrehozására használhatja, betartva a tanúsítványban jelzett esetleges egyéb korlátozásokat is.
+(4) Az aláíró az aláírás-létrehozó adatot kizárólag az aláírás létrehozására használhatja, betartva a tanúsítványban jelzett esetleges egyéb korlátozásokat is. A minősített tanúsítvány felhasználható fokozott biztonságú elektronikus aláírás létrehozására is.

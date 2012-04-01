@@ -6,7 +6,7 @@ a) annak megjelölését, hogy a tanúsítvány minősített tanúsítvány,
 
 b) a hitelesítés-szolgáltató és székhelyének (ország-) azonosítóját,
 
-c) az aláíró nevét vagy egy álnevet, ennek jelzésével,
+c) az aláíró nevét (jogi személy vagy jogi személyiség nélküli szervezet esetében elnevezését) vagy egy álnevet, ennek jelzésével,
 
 d) az aláírónak külön jogszabályban, illetve a szolgáltatási szabályzatban, illetőleg az általános szerződési feltételekben meghatározott speciális jellemzőit, a tanúsítvány szándékolt felhasználásától függően,
 
