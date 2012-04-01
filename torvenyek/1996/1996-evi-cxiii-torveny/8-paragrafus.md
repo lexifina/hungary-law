@@ -12,6 +12,8 @@ b) a lakásszövetkezet tulajdonában vagy a tagjainak közös tulajdonában ál
 
 c) a társasházi lakások lakástulajdonosainak közös tulajdonában álló épületrészek felújítása és korszerűsítése;
 
-d) az a)–c) pontban meghatározott célok finanszírozására pénzügyi intézménytől, vagy biztosítóintézettől felvett kölcsön, valamint a hitelintézet által folyósított és igazolt célra felhasznált munkáltatói, illetve települési önkormányzat által nyújtott kölcsön kiváltása.
+d) az a)–c) pontban meghatározott célok finanszírozására pénzügyi intézménytől vagy biztosítóintézettől felvett kölcsön vagy ehhez kapcsolódó, külön törvényben meghatározott gyűjtőszámlahitel, valamint a hitelintézet által folyósított és igazolt célra felhasznált munkáltatói, illetve települési önkormányzat által nyújtott kölcsön kiváltása,
+
+e) az a)–c) pontban meghatározott célok finanszírozására felvett kölcsön kiváltására felhasznált, a Hpt. 2012. január 1-jén hatályos 200/B. § szerinti végtörlesztés keretében nyújtott kölcsön kiváltása.
 
 (2) Lakáscélú felhasználás szempontjából a lakásszövetkezeti állandó használati joggal rendelkező személyt úgy kell tekinteni, mintha tulajdonos lenne.
