@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-33-00-00
 | 2010-12-31 | 2010. évi CLXXII. törvény | 2004-33-00-00.9 |
 | 2011-01-01 | 2010. évi CLXXII. törvény | 2004-33-00-00.10 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2004-33-00-00.11 |
+| 2012-04-01 | 2011. évi CCI. törvény | 2004-33-00-00.12 |
