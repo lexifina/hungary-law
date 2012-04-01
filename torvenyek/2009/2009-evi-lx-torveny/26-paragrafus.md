@@ -1,3 +1,0 @@
-26. § (1) A központi rendszer kormányrendeletben meghatározott módon központi iratkezelési szolgáltatással a csatlakozott szervezet kérelmére biztosítja a csatlakozott szervezet adatainak biztonságos elektronikus tárolását.
-
-(2) A központi rendszer keretei között működik az elektronikus levéltári szolgáltatás mint a közlevéltárak elektronikus levéltári anyagának hosszú távú megőrzését lehetővé tevő tárolóhely-szolgáltatás, amely biztosítja az illetékes levéltárak hatáskörében lévő elektronikus levéltári szolgáltató rendszerek működtetésének műszaki-informatikai feltételeit, ennek részeként a megőrzött iratok hozzáférhetőségét.
