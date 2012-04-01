@@ -1,4 +1,4 @@
-3. § (1)[^6] Tanulói, hallgatói, doktorjelölti jogviszonya alapján az 1. mellékletben meghatározott kedvezményre jogosult:
+3. § (1)[^6] Tanulói, hallgatói, jogviszonya alapján az 1. mellékletben meghatározott kedvezményre jogosult:
 
 a) a 6 éven felüli óvodás a szolgáltató által – az óvoda igazolása alapján – a részére kiállított igazolvány felmutatásával;
 
@@ -20,7 +20,7 @@ bc) a felsőoktatási intézmények nappali és esti tanrendben részt vevő hal
 
 2. a lakóhely (tartózkodási hely) és az oktatási intézmény között, kedvezményes bérlettel;
 
-bd)[^10] a felsőoktatási intézmények levelező oktatás munkarendje szerint folyó oktatásban részt vevő hallgatója, illetve doktorjelöltje a lakóhely és az oktatási intézmény között megváltható kedvezményes menetjeggyel,
+bd)[^10] a felsőoktatási intézmények levelező oktatás munkarendje szerint folyó oktatásban részt vevő hallgatója, illetve a lakóhely és az oktatási intézmény között megváltható kedvezményes menetjeggyel,
 
 c)[^11] a Szátv. 10. §-ának (1) bekezdésében meghatározott oktatási intézmények nappali oktatás munkarendje és esti oktatás munkarendje szerint folyó oktatásban részt vevő tanulója, hallgatója, ha a jogosultságát a „Magyar igazolvány”, illetve „Magyar hozzátartozói igazolvány” e célra rendszeresített mellékletével igazolja;
 
@@ -44,11 +44,11 @@ a) a tanévre, illetve a tanév II. félévére érvényesített diákigazolván
 
 b) a tanév I. félévére érvényesített diákigazolványnál a tárgyév márciusi
 
-[^6]: A 3. § (1) bekezdésének bevezető szövegrésze a 98/2009. (IV. 24.) Korm. rendelet 16. § (3) bekezdésének a) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdés nyitó szövegrésze a 98/2009. (IV. 24.) Korm. rendelet 16. § (3) bekezdésének a) pontja, a 362/2011. (XII. 30.) Korm. rendelet 45. § (2) bekezdése szerint módosított szöveg.
 [^7]: A 3. § (1) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 538. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^8]: A 3. § (1) bekezdése b) pontjának ba) alpontja a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének s) pontja szerint módosított szöveg.
 [^9]: A 3. § (1) bekezdése b) pontjának bb) alpontja a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének s) pontja szerint módosított szöveg.
-[^10]: A 3. § (1) bekezdés b) pont bd) alpontját a 98/2009. (IV. 24.) Korm. rendelet 16. § (3) bekezdésének b) pontja iktatta be.
+[^10]: A 3. § (1) bekezdés b) pont bd) alpontját a 98/2009. (IV. 24.) Korm. rendelet 16. § (3) bekezdésének b) pontja iktatta be, szövege a 362/2011. (XII. 30.) Korm. rendelet 45. § (2) bekezdése szerint módosított szöveg.
 [^11]: A 3. § (1) bekezdésének c) pontja a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének s) pontja szerint módosított szöveg.
 [^12]: A 3. § (1) bekezdés g) pontja a 182/2009. (IX. 10.) Korm. rendelet 538. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^13]: A 3. § (1) bekezdésének h) pontját a 115/2007. (V. 24.) Korm. rendelet 30. § (3) bekezdése iktatta be.

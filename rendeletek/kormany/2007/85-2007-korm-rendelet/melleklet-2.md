@@ -26,7 +26,7 @@
 
 | 9. | A 65 évnél idősebb menekült | 2. § g) | 100 | – | 100 |
 
-| Tanulói és hallgatói, doktorjelölti jogviszony alapján igénybe vehető utazási kedvezmények |
+| Tanulói és hallgatói, jogviszony alapján igénybe vehető utazási kedvezmények |
 
 | 10. | 6 éven felüli óvodás | 3. § (1) a) | – | 90 | a Fát. mellékletében meghatározott mértékű kedvezmény |
 
@@ -38,7 +38,7 @@
 
 | 14. | nappali és esti tagozatos felsőoktatásban tanuló bármely viszonylatban | 3. § (1) bc) 2. | 50 | – | a Fát. mellékletében meghatározott mértékű kedvezmény |
 
-| 15. | levelező oktatás munkarendje szerint folyó oktatásban a középiskola végéig a tanuló, a felsőoktatásban tanulmányokat folytató hallgató, továbbá a doktorjelölt az iskola, intézmény és lakóhely közötti viszonylatban | 3. § (1) bb) és bd) | 50 | – | – |
+| 15. | levelező oktatás munkarendje szerint folyó oktatásban a középiskola végéig a tanuló, a felsőoktatásban tanulmányokat folytató hallgató, továbbá a az iskola, intézmény és lakóhely közötti viszonylatban | 3. § (1) bb) és bd) | 50 | – | – |
 
 | 16. | a Szátv. hatálya alá tartozó, valamint a szabad mozgás és tartózkodás jogával rendelkező nappali oktatás munkarendje és esti oktatás munkarendje szerint folyó oktatásában részt vevő nappali és esti tagozatos tanuló, hallgató | 3. § (1) c) és h) | 50 | – | a Fát. mellékletében meghatározott mértékű kedvezmény |
 
