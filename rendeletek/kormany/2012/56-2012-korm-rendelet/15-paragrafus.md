@@ -1,3 +1,0 @@
-## 14. § Az Ávr. 145. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A hitellel rendelkező, kötvényt kibocsátó helyi önkormányzat – az Áht. 84. § (4) bekezdésében foglalt kivételekkel – a helyben maradó személyi jövedelemadóval, a normatív hozzájárulással, támogatással, a települési önkormányzatok jövedelemkülönbségének mérséklését szolgáló támogatással, valamint a költségvetési támogatásokkal kapcsolatos pénzforgalmát a fizetési számlájához kapcsolódó alszámlán köteles elkülöníteni. A helyi önkormányzat – az Áht. 84. § (4) bekezdésében foglalt kivételekkel – az alszámláról a hitelen, kötvényen alapuló fizetési kötelezettségeit nem teljesítheti.”
