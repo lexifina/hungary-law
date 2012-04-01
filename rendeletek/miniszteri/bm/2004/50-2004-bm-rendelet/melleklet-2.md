@@ -46,11 +46,11 @@
 
 | 22. | Az Európai Lőfegyvertartási Engedély meghosszabbítása | 4 000 |
 
-2. számú melléklet az 50/2004. (VIII. 31.) BM rendelethez
+2. számú melléklet az 50/2004. (VIII. 31.) BM rendelethez[^9]
 
 | Rendőr-főkapitányság megnevezése | Előirányzat-felhasználási számla száma |
 
-| Országos Rendőr-főkapitányság Gazdasági Ellátó Igazgatóság | 10023002-01451722-00000000 |
+| Központi Gazdasági Ellátó Igazgatóság | 10023002-01451722-00000000 |
 
 | Budapesti Rendőr-főkapitányság | 10023002-01451430-00000000 |
 
@@ -91,3 +91,5 @@
 | Veszprém Megyei Rendőr-főkapitányság | 10048005-01451643-00000000 |
 
 | Zala Megyei Rendőr-főkapitányság | 10049006-01451650-00000000 |
+
+[^9]: A 2. számú melléklet a 13/2012. (III. 30.) BM rendelet 3. §-a szerint módosított szöveg.
