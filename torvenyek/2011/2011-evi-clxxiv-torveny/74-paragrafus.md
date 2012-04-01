@@ -1,3 +1,3 @@
 ## 45. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosítása
 
-74. §
+74. § A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény 11. § (2) bekezdésében a „hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvény” szövegrészek helyébe a „közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó” szöveg, 11. § (3) bekezdésében a „hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben foglalt, a hivatalos szerv iratainak kézbesítésére vonatkozó szabályok” szövegrész helyébe a „közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó szabályai” szöveg, 61. §-ában az „az elektronikus közszolgáltatásról szóló törvény szerinti” szövegrész helyébe az „a külön jogszabályban meghatározott” szöveg lép.

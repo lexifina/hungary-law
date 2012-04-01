@@ -1,3 +1,3 @@
 ## 47. Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény módosítása
 
-76. §
+76. § Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 3. § (1) bekezdés a) pontjában a „központi elektronikus szolgáltató rendszeren keresztül” szövegrész helyébe a „kormányzati kézbesítési szolgáltatás alkalmazásával” szöveg, 3. § (4) bekezdésében az „az elektronikus közszolgáltatásokról szóló törvény rendelkezései alapján a központi elektronikus szolgáltató rendszerben működő központi ügyfélszolgálat által fenntartott ügyfélvonalon keresztül” szövegrész helyébe az „a kormányzati tájékoztató szolgáltatás (a továbbiakban: központi ügyfélszolgálat) útján” szöveg lép.

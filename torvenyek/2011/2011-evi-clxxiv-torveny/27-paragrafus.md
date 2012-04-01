@@ -1,3 +1,3 @@
 ## 15. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-27. §
+27. § Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 68. § (4) bekezdésében az „az ügyfélkapun” szövegrész helyébe az „a Kormány által biztosított azonosítási szolgáltatáson” szöveg, 74. § (3) bekezdésében a „kormányzati portálon az ügyfélkapun” szövegrész helyébe a „Kormány által biztosított azonosítási szolgáltatáson” szöveg, 75. § (1) bekezdésében az „ügyfélkapun” szövegrész helyébe az „a Kormány által biztosított azonosítási szolgáltatáson” szöveg, 75. § (2) bekezdésében az „az ügyfélkapun” szövegrész helyébe az „a Kormány által biztosított azonosítási szolgáltatáson” szöveg lép.
