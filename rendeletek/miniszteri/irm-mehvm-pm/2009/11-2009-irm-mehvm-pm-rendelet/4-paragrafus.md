@@ -1,8 +1,8 @@
-## 3/A. §[^2] A céginformációs szolgálat a közzétételi költségtérítésről kiállított számlát elektronikus úton bocsátja ki.
+## 3/A. §[^3] A céginformációs szolgálat a közzétételi költségtérítésről kiállított számlát elektronikus úton bocsátja ki.
 
 4. § (1) E rendelet 2009. május 1. napján lép hatályba.
 
-(2)–(6)[^3]
+(2)–(6)[^4]
 
 Melléklet a 11/2009. (IV. 28.) IRM rendelethez
 
@@ -50,5 +50,5 @@ Nyilatkozat
 
 Kijelentem, hogy a fent közölt adatok a valóságnak megfelelnek, a csatolt okiratokban szereplő adatok az elfogadott beszámoló (ideértve az adózott eredmény felhasználására vonatkozó határozatot és a független könyvvizsgálói jelentést is) adattartalmával egyezőek.
 
-[^2]: A 3/A. §-t a 38/2011. (XII. 29.) KIM rendelet 5. §-a iktatta be.
-[^3]: A 4. § (2)–(6) bekezdése a (6) bekezdés alapján hatályát vesztette.
+[^3]: A 3/A. §-t a 38/2011. (XII. 29.) KIM rendelet 5. §-a iktatta be.
+[^4]: A 4. § (2)–(6) bekezdése a (6) bekezdés alapján hatályát vesztette.
