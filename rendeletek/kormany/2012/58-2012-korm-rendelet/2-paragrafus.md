@@ -1,1 +1,0 @@
-## 1. § A Kulturális Örökségvédelmi Hivatalról, a kulturális örökségvédelmi szakigazgatási szervekről, és eljárásaikra vonatkozó általános szabályokról szóló 324/2010. (XII. 27.) Korm. rendelet (a továbbiakban: R.) 2. melléklete az 1. melléklet szerint módosul.
