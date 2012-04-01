@@ -1,3 +1,0 @@
-## „(6) Ha a szerződéskötéshez szükséges valamely információ nem egyértelmű vagy ellentmondást tartalmaz, egy alkalommal hiánypótlásra van lehetőség, melynek teljesítésére legalább 3 napos határidőt kell biztosítani.
-
-## (7) A támogatói döntés meghozatalától számított 30 napon belül meg kell kötni a támogatási szerződést. Ha a támogatási szerződés megkötéséhez a projektgazdától vagy harmadik féltől függő támogatási szerződési feltételek teljesítése szükséges, a 30 napos határidőt a feltételek teljesítésére megállapított határidő utolsó napjától kell számítani. A határidőbe a projektgazda hiánypótlási és tisztázó kérdésre adott válaszadási ideje, valamint a kifogás elbírálásának időtartama nem számít bele.”

@@ -1,1 +1,0 @@
-## „(5a) A kedvezményezett által a kifogással érintett döntés alapjául szolgáló eljárási cselekménynek a kifogás elbírálásának ideje alatti megismétlése a kifogásban foglaltak kivizsgálása iránti igényről való lemondásnak kell tekinteni.”

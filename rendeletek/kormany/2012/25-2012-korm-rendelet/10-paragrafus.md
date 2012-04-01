@@ -1,1 +1,0 @@
-## „(2) Az (1) bekezdés q) pontjában meghatározott feladat elvégzéséhez az irányítási jogokat gyakorló miniszter jóváhagyása szükséges. A közreműködő szervezet teljesítményének értékeléséhez – ha adott teljesítéshez az EMIR rögzítő funkciót biztosít – kizárólag az EMIR rendszerben rögzített teljesítések ismerhetőek el.”

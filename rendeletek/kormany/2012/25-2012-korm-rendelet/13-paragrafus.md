@@ -1,1 +1,0 @@
-## „(8a) Ha a támogatási konstrukciók szakmai tartalmát a miniszter nem bocsátja az (1a) bekezdés szerinti határidőre az NFÜ rendelkezésére, az NFÜ kezdeményezi a forrás más konstrukcióra történő átcsoportosítását.”
