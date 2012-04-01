@@ -1,12 +1,12 @@
-1. melléklet a 329/2007 (XII. 13.) Korm. rendelethez[^94]
+1. melléklet a 329/2007 (XII. 13.) Korm. rendelethez[^96]
 
-## Az általános rendőri szerv egyes szerveinek elnevezése és székhelye[^95]
+## Az általános rendőri szerv egyes szerveinek elnevezése és székhelye[^97]
 
-1.[^96] Az általános rendőri szerv központi szervének székhelye
+1.[^98] Az általános rendőri szerv központi szervének székhelye
 
 1.1. Országos Rendőr-főkapitányság, Budapest
 
-2.[^97] Az általános rendőri szerv egyes feladatok ellátására létrehozott szerveinek székhelye
+2.[^99] Az általános rendőri szerv egyes feladatok ellátására létrehozott szerveinek székhelye
 
 2.1. Köztársasági Őrezred, Budapest
 
@@ -16,7 +16,9 @@
 
 2.4. Repülőtéri Rendőr Igazgatóság, Budapest
 
-2.5.[^98] Bűnügyi Szakértői és Kutatóintézet, Budapest
+2.5.[^100] Bűnügyi Szakértői és Kutatóintézet, Budapest
+
+2.6.[^101] Központi Gazdasági Ellátó Igazgatóság, Budapest
 
 3. A rendőr-főkapitányságok elnevezése és székhelye
 
@@ -60,8 +62,9 @@
 
 3.20. Zala Megyei Rendőr-főkapitányság, Zalaegerszeg
 
-[^94]: Az 1. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^95]: Az 1. melléklet címe a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával módosított szöveg.
-[^96]: Az 1. melléklet 1. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^97]: Az 1. melléklet 2. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^98]: Az 1. melléklet 2. pont 2.5. alpontját a 276/2010. (XII. 15.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^96]: Az 1. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^97]: Az 1. melléklet címe a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával módosított szöveg.
+[^98]: Az 1. melléklet 1. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^99]: Az 1. melléklet 2. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^100]: Az 1. melléklet 2. pont 2.5. alpontját a 276/2010. (XII. 15.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^101]: Az 1. melléklet 2. pont 2.6. alpontját a 8/2012. (II. 1.) Korm. rendelet 4. §-a iktatta be.
