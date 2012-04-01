@@ -76,7 +76,7 @@
 
 ## i) a c)-h) pontokban meghatározottakkal azonos besorolású beosztásokban, az állományilletékes parancsnok döntése szerint.
 
-4. melléklet a 65/2011. (XII. 30.) BM rendelethez
+4. melléklet a 65/2011. (XII. 30.) BM rendelethez[^5]
 
 1. Őr-, ügyeleti, készenléti és készültségi szolgálatok a rendőrségnél
 
@@ -196,14 +196,20 @@ d) Speciális (akció) csoportba beosztottak.
 
 3. Ügyeleti szolgálat a hivatásos katasztrófavédelmi szervnél
 
-a) Vezetőügyeletes (központi szervek)
+a) vezető főügyeletes (központi szerv)
 
-b) Ügyeletes
+b) főügyeletes (központi szerv)
 
-c) A hivatali munkarendben foglalkoztatott gépjárművezető (központi szervek)
+c) főügyeletes (területi szervek)
 
-d) Ügyeletvezető (megye, főváros)
+d) Katasztrófavédelmi Mûveleti Szolgálat állománya (területi szervek)
 
-e) Hírközpontvezető (repülőtér, főváros)
+e) Megyei/Fővárosi Mûveltirányítási Ügyelet állománya (területi szervek)
 
-f) A hivatali munkarendben foglalkozatott gépjárművezető (területi és helyi szervek)
+f) Katasztrófavédelmi Mobil Labor (főváros) állománya
+
+g) ügyeletvezető (területi jogállású szervek)
+
+h) ügyeletes (helyi szervek)
+
+[^5]: A 4. melléklet a 11/2012. (III. 30.) BM rendelet 5. § (2) bekezdése szerint módosított szöveg.
