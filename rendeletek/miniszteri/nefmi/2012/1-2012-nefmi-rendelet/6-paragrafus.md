@@ -1,0 +1,1 @@
+## 5. § Az érettségi vizsga részletes követelményeiről szóló 40/2002. (V. 24.) OM rendelet módosításáról szóló 22/2009. (IV. 22.) OKM rendelet (a továbbiakban: OKM rendelet) 43. §-a a „FAIPARI ALAPISMERET” szövegrész helyett a „FAIPARI ALAPISMERETEK” szöveggel lép hatályba.
