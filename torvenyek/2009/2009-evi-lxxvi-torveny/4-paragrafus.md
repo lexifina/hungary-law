@@ -1,4 +1,4 @@
-4. § (1) A valamely más EGT-államban honos szolgáltató letelepedés keretében Magyarországon honos szolgáltatókkal azonos feltételek szerint kezdheti meg és folytathatja szolgáltatási tevékenységét, és vele szemben a Magyarországon honos szolgáltatókkal azonos követelményeket kell alkalmazni.
+4. § (1) A valamely más EGT-államban honos szolgáltató letelepedés keretében a Magyarországon honos szolgáltatókkal azonos feltételek szerint kezdheti meg és folytathatja szolgáltatási tevékenységét, és vele szemben Magyarországon honos szolgáltatókkal azonos követelményeket kell alkalmazni.
 
 (2) A valamely más EGT-államban honos szolgáltatónak a szolgáltatási tevékenység letelepedés keretében történő megkezdésére és folytatására való jogosultsága nem korlátozható az alapján, hogy
 

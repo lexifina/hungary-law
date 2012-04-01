@@ -1,6 +1,6 @@
 ## Integrált ügyintézési és tájékoztatási pont
 
-31. § (1) A központi elektronikus szolgáltató rendszer keretében a Kormány által rendeletben kijelölt szerv integrált ügyintézési és tájékoztatási pontot működtet, amely elektronikus úton elérhető, átlátható, az egyes szolgáltatási tevékenységek szerint egységes szempontok alapján rendszerezett módon,
+31. § (1) A Kormány által rendeletben kijelölt szerv integrált ügyintézési és tájékoztatási pontot működtet, amely elektronikus úton elérhető, átlátható, az egyes szolgáltatási tevékenységek szerint egységes szempontok alapján rendszerezett módon,
 
 a) korlátozásmentesen és ingyenesen hozzáférhetően tájékoztatást nyújt
 

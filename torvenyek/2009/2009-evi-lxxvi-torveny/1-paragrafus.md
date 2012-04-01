@@ -24,7 +24,7 @@ af) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény s
 
 ag) az önkéntes kölcsönös biztosító pénztárakról szóló törvény szerinti pénztári tevékenység,
 
-ah) a foglalkoztatói nyugdíjról és intézményeiről szóló törvény szerinti foglalkoztatói nyugdíjszolgáltatási tevékenység, valamint,
+ah) a foglalkoztatói nyugdíjról és intézményeiről szóló törvény szerinti foglalkoztatói nyugdíjszolgáltatási tevékenység, valamint
 
 ai) a befektetési alapkezelőkről és a kollektív befektetési formákról szóló törvény szerinti befektetési alapkezelési tevékenység;
 

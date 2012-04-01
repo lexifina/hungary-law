@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-76-00-00
 | 2010-10-03 | 2010. évi XCII. törvény | 2009-76-00-00.4 |
 | 2011-01-01 | 2010. évi CLII. törvény | 2009-76-00-00.5 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2009-76-00-00.6 |
+| 2012-04-01 | 2011. évi CXCIII. törvény | 2009-76-00-00.7 |
