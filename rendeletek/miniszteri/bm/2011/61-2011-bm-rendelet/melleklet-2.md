@@ -2,41 +2,41 @@
 
 ## A. Az általános rendőrségi feladatok ellátására létrehozott szerv
 
-|  | A | B | C | D | E | F | G | H |
+|  | A | B | C | D | E | F | G | H | I |
 
 | 1. | Munkáltatói jogkör- csoport | Egyes munkáltatói jogkörök | A munkáltatói jogkör gyakorlója |
 
-| 2. | Főigazgató | Köztársasági Őrezred parancsnoka | megyei (fővárosi) rendőr- főkapitány | Készenléti Rendőrség parancsnoka, Nemzeti Nyomozó Iroda vezetője, Repülőtéri Rendőr Igazgatóság igazgatója | Rendőr- kapitány, Határ- rendészeti kirendeltség vezető | Szolgálati elöljáró |
+| 2. | Főigazgató | Köztársasági Őrezred parancsnoka | megyei (fővárosi) rendőr- főkapitány | Készenléti Rendőrség parancsnoka, Nemzeti Nyomozó Iroda vezetője, Repülőtéri Rendőr Igazgatóság igazgatója | Rendőr- kapitány, Határ- rendészeti kirendeltség vezető | Szolgálati elöljáró | Központi Gazdasági Ellátó Igazgatóság igazgatója |
 
-| 3. | Szolgálati viszony létesítése, meg- szűnése | Szolgálati viszony létesítése zászlós, tiszthelyettes esetében | * | * | * | * | * |  |
+| 3. | Szolgálati viszony létesítése, meg- szűnése | Szolgálati viszony létesítése zászlós, tiszthelyettes esetében | * | * | * | * | * |  | * |
 
-| 4. | Szolgálati viszony létesítése: rendészeti szakközép- iskolások hivatásos állományba vétele | * | * | * | * | * |  |
+| 4. | Szolgálati viszony létesítése: rendészeti szakközép- iskolások hivatásos állományba vétele | * | * | * | * | * |  | * |
 
-| 5. | Szolgálati viszony megszüntetése zászlós, tiszthelyettes esetében | * | * | * | * | * |  |
+| 5. | Szolgálati viszony megszüntetése zászlós, tiszthelyettes esetében | * | * | * | * | * |  | * |
 
-| 6. | Rend- fokozatra vonatkozó döntések | Soron történő előléptetés | * | * | * | * | * |  |
+| 6. | Rend- fokozatra vonatkozó döntések | Soron történő előléptetés | * | * | * | * | * |  | * |
 
-| 7. | Soron kívüli előléptetés zászlós, tiszthelyettes esetében | * | * | * | * | * |  |
+| 7. | Soron kívüli előléptetés zászlós, tiszthelyettes esetében | * | * | * | * | * |  | * |
 
-| 8. | Szolgálati beosztásra vonatkozó döntések | Beosztásból felmentés, kinevezés, áthelyezés, alacsonyabb beosztásba helyezés, megbízás, magasabb vagy azonos beosztásba kinevezés, más beosztás vagy feladatkör ellátásával való tartós megbízás, másik munkakör felajánlása | * | * | * | * | * |  |
+| 8. | Szolgálati beosztásra vonatkozó döntések | Beosztásból felmentés, kinevezés, áthelyezés, alacsonyabb beosztásba helyezés, megbízás, magasabb vagy azonos beosztásba kinevezés, más beosztás vagy feladatkör ellátásával való tartós megbízás, másik munkakör felajánlása | * | * | * | * | * |  | * |
 
-| 9. | Rendel- kezési állo- mányba helyezés | saját állományára |  | * | * | * |  |  |
+| 9. | Rendel- kezési állo- mányba helyezés | saját állományára |  | * | * | * |  |  | * |
 
-| 10. | a városi (kerületi) rendőr- kapitányság és a határrendészeti kirendeltség állományára |  |  | * |  |  |  |
+| 10. | a városi (kerületi) rendőr- kapitányság és a határrendészeti kirendeltség állományára |  |  | * |  |  |  | * |
 
-| 11. | Egyéb döntések | Illetmény nélküli szabadság engedélyezése a saját állományára | * | * | * | * |  |  |
+| 11. | Egyéb döntések | Illetmény nélküli szabadság engedélyezése a saját állományára | * | * | * | * |  |  | * |
 
-| 12. | Illetmény nélküli szabadság engedélyezése a városi (kerületi) rendőr- kapitányság és a határrendészeti kirendeltség állományára |  |  | * |  |  |  |
+| 12. | Illetmény nélküli szabadság engedélyezése a városi (kerületi) rendőr- kapitányság és a határrendészeti kirendeltség állományára |  |  | * |  |  |  | * |
 
-| 13. | Túlszolgálat, elrendelése | * | * | * | * | * |  |
+| 13. | Túlszolgálat, elrendelése | * | * | * | * | * |  | * |
 
-| 14. | Készenlét elrendelése | * | * | * | * | * | * |
+| 14. | Készenlét elrendelése | * | * | * | * | * | * | * |
 
-| 15. | Munkavégzéssel járó egyéb jogviszony engedélyezése | * | * | * | * | * |  |
+| 15. | Munkavégzéssel járó egyéb jogviszony engedélyezése | * | * | * | * | * |  | * |
 
-| 16. | Egyenruha viselési jog megvonása főtiszt, tiszt, zászlós, tiszthelyettes esetén | * | * | * | * | * |  |
+| 16. | Egyenruha viselési jog megvonása főtiszt, tiszt, zászlós, tiszthelyettes esetén | * | * | * | * | * |  | * |
 
-| 17. | Könnyített szolgálatban történő foglalkoztatás elrendelése | * | * | * | * | * |  |
+| 17. | Könnyített szolgálatban történő foglalkoztatás elrendelése | * | * | * | * | * |  | * |
 
 ## B. A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a terrorizmust elhárító szerv
 
