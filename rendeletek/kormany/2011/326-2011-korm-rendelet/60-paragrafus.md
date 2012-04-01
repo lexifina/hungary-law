@@ -18,9 +18,9 @@ f) a négykerekű segédmotoros kerékpárokra S, illetve R betűjellel kezdőd�
 
 fa) E típusú, vagy
 
-fb)[^1]
+fb) amennyiben a jármű műszaki kialakítása azt indokolja, kérelemre az A típusú rendszámtábla méretének megfelelő,
 
-g)[^2]
+g) a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendelet alapján versenycélú járműnek minősített különleges, versenyzési célra használható járművekre (a továbbiakban: versenyjármű) SP betűjelű
 
 különleges rendszámtáblát ad ki.
 
@@ -28,10 +28,6 @@ különleges rendszámtáblát ad ki.
 
 (4) Az OT betűjelű különleges rendszámtáblát a Muzeális Minősítő Bizottság igazolása, továbbá a muzeális jellegű járműhöz a közlekedési hatóság által kiadott „Műszaki Adatlap” alapján a Hivatal adja ki.
 
-(5)[^3]
+(5) Az SP betűjelű különleges rendszámtáblát a versenyjárműhöz a közlekedési hatóság által kiadott „Műszaki Adatlap”, továbbá az országos versenyrendszert működtető országos sportági szövetség szakvéleménye és a versenyjárműhöz kiállított gépkönyv alapján a Hivatal adja ki.
 
 (6) A (2) bekezdés d) és e) pontjában meghatározott különleges rendszámtáblák régi típusú rendszámtáblaként kerülnek előállításra.
-
-[^1]: A 60. § (2) bekezdés f) pont fb) alpontja a 119. § (3) bekezdése alapján 2012. április 1-jén lép hatályba.
-[^2]: A 60. § (2) bekezdés g) pontja a 119. § (3) bekezdése alapján 2012. április 1-jén lép hatályba.
-[^3]: A 60. § (5) bekezdése a 119. § (3) bekezdése alapján 2012. április 1-jén lép hatályba.
