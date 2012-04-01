@@ -160,7 +160,7 @@
 
 ## beírja a módosított tétel(ek)hez tartozó új tartalmat, majd továbbítja az űrlapot bármely olyan tagállam nyilvántartó szervéhez, ahol a járművet nyilvántartásba vették.
 
-6. melléklet a 31/2010. (XII. 23.) NFM rendelethez[^27]
+6. melléklet a 31/2010. (XII. 23.) NFM rendelethez[^28]
 
 A 12 JEGYŰ PÁLYASZÁM KIALAKÍTÁSA:
 
@@ -512,4 +512,4 @@ Az alsorozatjeleket a kocsitípusra jellemzően, az ÁME P. melléklete szerint 
 
 [^(1)]: Ezen űrlapot elektronikus formában is be lehet nyújtani.
 [^(3)]: Első nyilvántartásba vételkor nem kell kitölteni.
-[^27]: A 6. melléklet a 9/2012. (II. 15.) NFM rendelet 13. § (2) bekezdése szerint módosított szöveg.
+[^28]: A 6. melléklet a 9/2012. (II. 15.) NFM rendelet 13. § (2) bekezdése szerint módosított szöveg.

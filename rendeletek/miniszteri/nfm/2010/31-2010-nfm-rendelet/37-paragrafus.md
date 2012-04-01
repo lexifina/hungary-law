@@ -20,7 +20,7 @@ kell kérelmeznie a jármű bejegyzését a nemzeti vasúti járműnyilvántart�
 
 (5) Az e rendelet hatálybalépése előtt kiadott ideiglenes pályaszám helyett a hatóság az (1) bekezdés szerinti nyilvántartásba vétellel egyidejűleg hivatalból kiadja a pályaszámot.
 
-(6)[^21] Az olyan, magyarországi különleges RIV vagy RIC jellel ellátott olyan vasúti jármű, amelynek magyarországi közlekedésére magyar vasúti társaság 2010. december 31-e előtt adott engedélyt, 2012. június 30-át követően csak üzembehelyezési engedély alapján közlekedtethető.
+(6)[^22] Az olyan, magyarországi különleges RIV vagy RIC jellel ellátott olyan vasúti jármű, amelynek magyarországi közlekedésére magyar vasúti társaság 2010. december 31-e előtt adott engedélyt, 2012. június 30-át követően csak üzembehelyezési engedély alapján közlekedtethető.
 
 (7) Az első adatközlés alkalmával vasúti járművenként, pályaszám szerint kell a vasúti jármű tulajdonosának és üzembetartójának adatait (név, székhely, levelezési cím, elektronikus postafiók címe, telefon- és faxszám) és az 1. melléklet szerinti adatokat, valamint a tervszerű megelőző karbantartás szerint sorra kerülő karbantartási és javítási munkákra vonatkozó adatokat – a hely és az időpont feltüntetésével – a hatóság részére szolgáltatni.
 
@@ -28,7 +28,7 @@ kell kérelmeznie a jármű bejegyzését a nemzeti vasúti járműnyilvántart�
 
 (9) Az 1984. július 1-je előtt üzembehelyezett, típusengedéllyel nem rendelkező járművek esetén a hatóság a tulajdonos, vagy üzembentartó kérelmére az (1) bekezdés szerinti nyilvántartásba vétellel egyidejűleg hivatalból típusengedélyt ad ki. Az eljárás illetékét az illetékekről szóló törvény szerint kell leróni.
 
-(10)[^22] Az e rendelet hatálya alá tartozó vasúti járműveknek a 26. §-ban meghatározott időszakos vizsga előírásainak 2013. július 1-jétől kell megfelelniük.
+(10)[^23] Az e rendelet hatálya alá tartozó vasúti járműveknek a 26. §-ban meghatározott időszakos vizsga előírásainak 2013. július 1-jétől kell megfelelniük.
 
-[^21]: A 37. § (6) bekezdése a 9/2012. (II. 15.) NFM rendelet 11. §-ával megállapított szöveg.
-[^22]: A 37. § (10) bekezdése a 9/2012. (II. 15.) NFM rendelet 15. § (1) bekezdése szerint módosított szöveg.
+[^22]: A 37. § (6) bekezdése a 9/2012. (II. 15.) NFM rendelet 11. §-ával megállapított szöveg.
+[^23]: A 37. § (10) bekezdése a 9/2012. (II. 15.) NFM rendelet 15. § (1) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-38. §[^23] (1) Ez a rendelet – a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvénnyel együtt – a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
+38. §[^24] (1) Ez a rendelet – a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvénnyel együtt – a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a közösségi vasutak biztonságáról, valamint a vasúttársaságok engedélyezéséről szóló 95/18/EK tanácsi irányelv és a vasúti infrastruktúrakapacitás elosztásáról, továbbá a vasúti infrastruktúra használati díjának felszámításáról és a biztonsági tanúsítványról szóló 2001/14/EK irányelv módosításáról szóló, 2004. április 29-i 2004/49/EK európai parlamenti és tanácsi irányelv,
 
@@ -20,4 +20,4 @@ e) a vasúti rendszer Közösségen belüli kölcsönös átjárhatóságáról 
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^23]: A 38. § a 9/2012. (II. 15.) NFM rendelet 12. §-ával megállapított szöveg.
+[^24]: A 38. § a 9/2012. (II. 15.) NFM rendelet 12. §-ával megállapított szöveg.
