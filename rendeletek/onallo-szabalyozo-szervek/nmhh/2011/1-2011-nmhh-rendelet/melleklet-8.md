@@ -2,9 +2,7 @@
 
 ## Pont-pont rendszerű rádiórelé állomások 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjai (Ft/kHz/hó)
 
-| Frekvenciasáv (F) | Díj |
-
-|  | (Ft/kHz/hó) |
+| Frekvenciasáv (F) | Díj (Ft/kHz/hó) |
 
 | 960 MHz<F≤10 GHz | 1,12 |
 
@@ -12,7 +10,11 @@
 
 | 13,25 GHz<F≤21,2 GHz | 0,448 |
 
-| F>21,2 GHz | 0,336 |
+| 21,2 GHz<F≤30 GHz | 0,336 |
+
+| 30 GHz<F≤55 GHz | 0,268 |
+
+| 55 GHz<F | 0,134 |
 
 ## 1. táblázat
 
