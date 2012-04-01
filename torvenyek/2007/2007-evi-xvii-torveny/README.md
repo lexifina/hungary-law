@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-17-00-00
 | 2010-12-31 | 2010. évi CLXVIII. törvény | 2007-17-00-00.17 |
 | 2011-01-01 | 2010. évi CXXX. törvény | 2007-17-00-00.18 |
 | 2012-01-01 | 2011. évi CLXVIII. törvény | 2007-17-00-00.19 |
+| 2012-04-01 | 2011. évi CLXXIV. törvény | 2007-17-00-00.20 |
