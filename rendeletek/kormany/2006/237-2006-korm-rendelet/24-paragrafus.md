@@ -12,7 +12,7 @@ b) a tanulmányi pontok és az érettségi pontok összeadásával, vagy
 
 c) az érettségi pontok kétszerezésével,
 
-mindhárom esetben az esetleg szerzett érettségi többletpontok és egyéb többletpontok hozzászámításával.
+## mindhárom esetben az esetleg szerzett érettségi többletpontok és egyéb többletpontok hozzászámításával.
 
 (3) A (2) bekezdés szerinti három számítási módszer közül azt kell alkalmazni, amelyik a jelentkező számára előnyösebb.
 

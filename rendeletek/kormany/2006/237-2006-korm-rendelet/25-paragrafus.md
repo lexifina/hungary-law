@@ -6,7 +6,7 @@ a)[^91] a keresztféléves felvételi eljárás esetén legkésőbb a képzés i
 
 b) az általános felvételi eljárás esetén legkésőbb a képzés indítása szerinti év augusztus 1. napjáig
 
-hozza meg. A besorolási döntés időpontját a Hivatal állapítja meg.
+## hozza meg. A besorolási döntés időpontját a Hivatal állapítja meg.
 
 (2) Besorolási döntéskor arról születik döntés, hogy a jelentkező felvehető-e bármely általa a felvételi kérelmében megjelölt képzésre és ha igen, melyikre. Egyazon felvételi eljárásban a jelentkező csak egy helyre sorolható be.
 

@@ -6,7 +6,7 @@ a) a keresztféléves felvételi eljárásban a besorolási döntés időpontjá
 
 b) az általános felvételi eljárásban augusztus 1-jéig
 
-írásban közli a jelentkezővel. A felsőoktatási intézmény azt a jelentkezőt veszi fel, aki hozzá lett besorolva.
+## írásban közli a jelentkezővel. A felsőoktatási intézmény azt a jelentkezőt veszi fel, aki hozzá lett besorolva.
 
 (2) A határozatnak tartalmaznia kell
 

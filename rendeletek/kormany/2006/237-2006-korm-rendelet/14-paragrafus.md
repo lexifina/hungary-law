@@ -10,7 +10,7 @@ a) a középiskolai teljesítmény alapján kapott pontok (a továbbiakban: tanu
 
 b) az érettségi pontok kétszerezésével,
 
-mindkét esetben az esetleg szerzett érettségi többletpontok és egyéb többletpontok hozzászámításával.
+## mindkét esetben az esetleg szerzett érettségi többletpontok és egyéb többletpontok hozzászámításával.
 
 (2) Az (1) bekezdés szerinti két számítási mód közül azt kell alkalmazni, amelyik a jelentkező számára előnyösebb.
 
@@ -26,7 +26,7 @@ d) egyéb többletteljesítményért a 19–20. §-okban meghatározott többlet
 
 e)[^58] a 22. § (1)–(4) pontjaiban meghatározottak alapján legfeljebb 40 többletpontot
 
-szerezhet.
+## szerezhet.
 
 (4)[^59] A (3) bekezdés c)–e) pontjai alapján adható többletpontok összege legfeljebb 100 pont lehet. A jelentkező abban az esetben is csak 100 pontra jogosult, ha a különböző jogcímek alapján elért többletpontjainak az összege ezt meghaladná.
 

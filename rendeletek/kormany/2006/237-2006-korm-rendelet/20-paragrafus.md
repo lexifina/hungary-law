@@ -8,7 +8,7 @@ ab) a FIDE által szervezett Sakkolimpián,
 
 ac) 1984-től kezdődően a Paralimpián vagy Siketlimpián
 
-szereplő sportágban világ- és Európa-bajnokságon elért legalább 3. helyezésért 16, országos sportági szakszövetség által szervezett országos bajnokságon elért legalább 3. helyezésért 8 többletpontra;
+## szereplő sportágban világ- és Európa-bajnokságon elért legalább 3. helyezésért 16, országos sportági szakszövetség által szervezett országos bajnokságon elért legalább 3. helyezésért 8 többletpontra;
 
 b) a művészeti szakképzésben tanuló szakközépiskolások részére szervezett, a minisztérium által meghirdetett és anyagilag támogatott Országos Művészeti Tanulmányi Versenyeken egyéni versenyzőként elért 1–3. helyezésért 16 többletpontra;
 
@@ -24,7 +24,7 @@ e) az Országos Képzési Jegyzékben szereplő emelt szintű vagy felsőfokú s
 
 f) a szakképzésről szóló 1993. évi LXXVI. törvény 5. §-a [(1)] (2) bekezdésének h) pontja szerint a szakképesítésért felelős miniszter által szervezett országos szakmai tanulmányi versenyen elért helyezése alapján a szakmai vizsga egésze (minden része) alól felmentést kapott jelentkező, a 2. számú melléklet szerint szakiránynak megfelelő továbbtanulás esetén 30 többletpontra
 
-jogosult.
+## jogosult.
 
 (2) Az (1) bekezdés ca) pontja alkalmazása során a döntőbe jutott, de azon részt nem vevő jelentkezőt – a verseny szervezőjének igazolása alapján – a döntőben elvileg elérhető utolsó helyezést elérőnek kell tekinteni.
 

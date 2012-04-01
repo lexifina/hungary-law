@@ -4,7 +4,7 @@ a) középfokú (B2) komplex típusú nyelvvizsga esetén 28 többletpontra, vag
 
 b) felsőfokú (C1) komplex típusú nyelvvizsga esetén 40 többletpontra
 
-jogosult.
+## jogosult.
 
 (2) A jelentkező az (1) bekezdés alapján legfeljebb 40 többletpontot kaphat akkor is, ha a többletpontokra több különböző nyelvből megszerzett nyelvvizsga alapján is jogosult lenne, vagy ha a különböző nyelvvizsgák alapján elérhető többletpontjainak összege ezt meghaladná. Egy nyelvből csak egy nyelvvizsgáért adható többletpont.
 

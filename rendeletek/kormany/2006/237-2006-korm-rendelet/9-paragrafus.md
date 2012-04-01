@@ -12,7 +12,7 @@ ba) kinyomtatva, aláírva, postai úton beküldve, vagy
 
 bb)[^35] ügyfélkapun keresztül
 
-lehet benyújtani. A szükséges mellékleteteket – a (3) bekezdésben foglaltak kivételével – a jelentkező választása szerint postai vagy elektronikus úton nyújtja be.
+## lehet benyújtani. A szükséges mellékleteteket – a (3) bekezdésben foglaltak kivételével – a jelentkező választása szerint postai vagy elektronikus úton nyújtja be.
 
 (3) A kérelem benyújtásakor a készpénzátutalási megbízás eredeti feladóvevényének vagy a banki átutalás eredeti igazolásának mellékelésével igazolni kell az alapdíj és a kiegészítő díj befizetését.
 

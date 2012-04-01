@@ -940,19 +940,19 @@ c)[^136] a választható szakmai előkészítő vizsgatárgyak magyar nyelvű vi
 
 – környezetvédelmi-vízgazdálkodási alapismeretek
 
-– közgazdasági alapismeretek
+– közgazdasági alapismeretek (üzleti gazdaságtan), közgazdasági alapismeretek (elméleti gazdaságtan)
 
-– közgazdasági-marketing alapismeretek
+– kereskedelmi és marketing alapismeretek
 
-– közlekedési alapismeretek
+– közlekedési alapismeretek (közlekedéstechnika), közlekedési alapismeretek (közlekedés-üzemvitel)
 
 – mezőgazdasági alapismeretek
 
 – oktatási alapismeretek
 
-– vendéglátó-idegenforgalmi alapismeretek.
+– vendéglátás-idegenforgalom” alapismeretek.
 
 [^133]: A 3. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 1. § 251. pontja hatályon kívül helyezte, újonnan a 98/2009. (IV. 24.) Korm. rendelet 12. § (2) bekezdése iktatta be. [A 4. számú mellékletet a 39/2011. (III. 22.) Korm. rendelet 11. §-a iktatta be, a 28. § (3) bekezdése alapján a módosítás 2013. január 1-jén lép hatályba.]
 [^134]: A 3. számú melléklet a) pont hatodik franciabekezdése a 39/2011. (III. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^135]: A 3. számú melléklet b) pontja a 39/2011. (III. 22.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^136]: A 3. számú melléklet c) pontjának „közgazdasági alapismeretek” szövegrész helyébe a „közgazdasági alapismeretek (üzleti gazdaságtan), közgazdasági alapismeretek (elméleti gazdaságtan)” szöveg, a „közgazdasági- marketing alapismeretek” szövegrész helyébe „kereskedelmi és marketing alapismeretek” szöveg, a „közlekedési alapismeretek” szövegrész helyébe „közlekedési alapismeretek (közlekedéstechnika), közlekedési alapismeretek (közlekedés-üzemvitel)” szöveg, a „vendéglátó-idegenforgalmi alapismeretek” szövegrész helyébe „vendéglátás-idegenforgalom” alapismeretek” szöveg lép a 39/2011. (III. 22.) Korm. rendelet 10. § (3) bekezdése alapján. [E módosító rendelet 28. § (5) bekezdése alapján 2012. április 1-jén lép hatályba.]
+[^136]: A 3. számú melléklet c) pontja a 39/2011. (III. 22.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.

@@ -30,7 +30,7 @@ a) a hátrányos helyzetű jelentkező a (2) bekezdésben meghatározott díj 50
 
 b) a halmozottan hátrányos helyzetű hallgató a (2) bekezdésben meghatározott díj 100%-ának
 
-megfelelő összegű díjkedvezményben részesül.
+## megfelelő összegű díjkedvezményben részesül.
 
 (14)[^123] A (2)–(6) bekezdések alkalmazása során ugyanazon képzés államilag támogatott és költségtérítéses formája egy jelentkezésnek minősül.
 
