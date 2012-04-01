@@ -1,5 +1,3 @@
-## 6. § A Nemzeti Rehabilitációs és Szociális Hivatalról, valamint eljárásának részletes szabályairól szóló 331/2010. (XII. 27.) Korm. rendelet (a továbbiakban: Hr.) 7. § (2) bekezdés g) pontja helyébe a következő rendelkezés lép:
+## 6. §[^7]
 
-## (A Hivatal a jogszabályban meghatározott esetekben szakértői feladatokat lát el, e feladatkörében szakvéleményt ad)
-
-## „g) a közlekedőképességről,”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

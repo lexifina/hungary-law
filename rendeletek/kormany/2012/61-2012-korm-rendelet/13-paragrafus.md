@@ -1,1 +1,3 @@
-## „(2a) Amennyiben a költségvetési keretek lehetővé teszik, év közben pótkeretszám hirdethető a 2. § e) pontja szerint. Ha pótkeretszám meghirdetésére kerül sor, annak erejéig a (2) bekezdés szerinti sorrend szerint kell a jogosultakat kijelölni. Ha a meghirdetett pótkeretszámot a 4. § (1) bekezdés a) vagy b) pontja szerinti közlekedési kedvezmény iránti kérelmek nem merítették ki, a hivatal a másik típusú szerzési támogatást kérelmező – a keretszám kimerülése miatt elutasított – igénylőket nyilatkoztatja arról, hogy a pótkeretszám ismeretében a meghirdetett támogatást igénybe kívánják-e venni, és a jogosultakat az eredetileg általuk igényelt támogatás szerint megállapított sorrendnek megfelelően jelöli ki.”
+## 12. §[^13]
+
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

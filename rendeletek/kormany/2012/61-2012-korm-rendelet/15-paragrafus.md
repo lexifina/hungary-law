@@ -1,3 +1,3 @@
-## 14. § Az R. 11. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 14. §[^15]
 
-## „(5) A kereskedő az utalványt a közlekedési kedvezmény összegének kiegyenlítése céljából – legkésőbb az utalvány lejártát követő 15 napon belül – a miniszterhez nyújtja be, és mellékeli az általa kiállított számla egy példányát.”
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

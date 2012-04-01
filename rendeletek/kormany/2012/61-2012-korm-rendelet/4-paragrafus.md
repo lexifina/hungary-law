@@ -1,7 +1,3 @@
-## 3. § A mozgásában korlátozott személy parkolási igazolványáról szóló 218/2003. (XII. 11.) Korm. rendelet (a továbbiakban: Pr.) 2. §-a a következő a) ponttal egészül ki:
+## 3. §[^4]
 
-## (E rendelet alapján igazolványra az a személy jogosult,)
-
-## „a) aki a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet (a továbbiakban: Kr.) 2. § a) pont ac) alpontja értelmében közlekedőképességében súlyosan akadályozott,”
-
-## (és ezt az 1. számú mellékletben meghatározott szakvélemények vagy szakhatósági állásfoglalások valamelyikével igazolja.)
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
