@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-112-00-00
 | 2012-01-01 | 2011. évi CXCIII. törvény | 1996-112-00-00.76 |
 | 2012-01-05 | 2011. évi CCVII. törvény | 1996-112-00-00.77 |
 | 2012-03-31 | 2011. évi CXXI. törvény | 1996-112-00-00.78 |
+| 2012-04-01 | 2011. évi CXLVIII. törvény | 1996-112-00-00.79 |

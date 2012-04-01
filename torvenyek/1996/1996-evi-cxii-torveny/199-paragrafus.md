@@ -6,10 +6,8 @@
 
 ## Az ügyfelek védelme
 
-199. § (1) A pénzügyi intézmény egy naptári évben ugyanannak az ügyfélnek egy alkalommal nyújthat olyan kölcsönt, amelynek:
+199. § (1) A pénzügyi intézmény – a (2) bekezdésben meghatározott kivétellel – fogyasztónak nem nyújthat olyan kölcsönt, amelynek a teljes hiteldíj mutatója meghaladja a jegybanki alapkamat 24 százalékponttal növelt mértékét.
 
-a) teljes hiteldíj mutatója meghaladja a hatvanöt százalékot és
+(2) Hitelkártya-szerződéshez vagy fizetési számlához kapcsolódó, vagy a mindennapi élet felszerelési tárgyainak, tartós fogyasztási cikkeinek (ide nem értve a gépjárművet) megvásárlásához, szolgáltatások igénybevételéhez nyújtott kölcsönre, valamint a kézizálog fedezete mellett nyújtott kölcsönre vonatkozó teljes hiteldíj mutató nem haladhatja meg a jegybanki alapkamat 39 százalékponttal növelt mértékét.
 
-b) összege nem haladja meg a kétszázötvenezer forintot.
-
-(2) Az (1) bekezdésben meghatározott feltételeknek megfelelő kölcsön lejárata egy alkalommal legfeljebb hat hónappal hosszabbítható meg.
+(3) E § alkalmazásában az érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamat irányadó az adott naptári félév teljes idejére.

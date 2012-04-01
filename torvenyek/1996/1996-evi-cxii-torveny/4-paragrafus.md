@@ -22,7 +22,7 @@ g) a külön jogszabály alapján létrehozott Diákhitel Központ hitelezési t
 
 h) az önkéntes kölcsönös biztosító pénztárakról szóló 1993. évi XCVI. törvény 11/A. §-ában foglalt feltételekkel tagszervezési tevékenységet,
 
-i) a pénzügyi szolgáltatásból származó veszteség mérséklése, illetve elhárítása érdekében tulajdonába került fedezet, illetőleg biztosíték hasznosítására irányuló tevékenységet,
+i) a pénzügyi szolgáltatásból származó veszteség mérséklése, illetve elhárítása érdekében fedezet, illetve biztosíték hasznosítására vagy az értékesítésben való közreműködésre irányuló tevékenységet,
 
 j) követelések megbízás alapján történő kezelésére, behajtására irányuló tevékenységet,
 
