@@ -6,7 +6,7 @@
 
 (2)[^102] Az (1) bekezdésben meghatározott vizsgatárgyak írásbeli vizsgáztatási követelményei a központi vizsgakövetelményekre épülnek.
 
-(3)[^103] A központi vizsgakövetelményekre épülő vizsgatárgyak írásbeli központi feladatlapjait, továbbá a feladatok megoldásához szükséges segédanyagokat (a továbbiakban a feladatlap és a segédanyag együtt: feladatlap) és a javítási, értékelési útmutatókat a Hivatal készítteti el. A szakmai előkészítő vizsgatárgyak esetén az írásbeli központi feladatlapokat és útmutatókat a Nemzeti unkaügyi Hivatal készítteti el és adja át a Hivatalnak.
+(3)[^103] A központi vizsgakövetelményekre épülő vizsgatárgyak írásbeli központi feladatlapjait, továbbá a feladatok megoldásához szükséges segédanyagokat (a továbbiakban a feladatlap és a segédanyag együtt: feladatlap) és a javítási, értékelési útmutatókat a Hivatal készítteti el. A szakmai előkészítő vizsgatárgyak esetén az írásbeli központi feladatlapokat és útmutatókat a Nemzeti Munkaügyi Hivatal készítteti el és adja át a Hivatalnak.
 
 (4)[^104] A központi vizsgakövetelményekre épülő vizsgatárgyakat és a vizsga részeit e szabályzat 2. számú melléklete tartalmazza.
 

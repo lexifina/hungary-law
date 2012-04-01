@@ -14,7 +14,7 @@ a)[^240] ha legalább 60%-ot ért el, középfokú (B2) komplex típusú,
 
 b)[^241] 40–59% elérése esetén alapfokú (B1) komplex típusú,
 
-államilag elismert nyelvvizsga-bizonyítvánnyal egyenértékű okiratnak minősül.
+## államilag elismert nyelvvizsga-bizonyítvánnyal egyenértékű okiratnak minősül.
 
 (5)[^242] Ha a vizsgázó az idegen nyelvből az emelt szintű érettségi vizsgát a közoktatási törvény 30. §-ában megfogalmazott jogával élve tette le, és megfelel a (4) bekezdés a), b) pontjában foglalt további feltételeknek
 

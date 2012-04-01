@@ -18,7 +18,7 @@ f) javító,
 
 g) ismétlő
 
-érettségi vizsga. Egyes vizsgatárgyakból – a szintemelő vizsga kivételével – középszinten vagy emelt szinten lehet érettségi vizsgát tenni. Szintemelő vizsga csak emelt szinten tehető.
+## érettségi vizsga. Egyes vizsgatárgyakból – a szintemelő vizsga kivételével – középszinten vagy emelt szinten lehet érettségi vizsgát tenni. Szintemelő vizsga csak emelt szinten tehető.
 
 (2) Rendes érettségi vizsga a középiskolai tanulmányok követelményeinek teljesítése után, a tanulói jogviszony fennállása alatt vagy megszűnését követően első alkalommal tett érettségi vizsga.
 

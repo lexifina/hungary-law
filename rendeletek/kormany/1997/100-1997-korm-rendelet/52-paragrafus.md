@@ -16,7 +16,7 @@ a)[^272] tizenöt napon belül a jegyzőkönyv és a törzslap egy példányát 
 
 b)[^273] harminc napon belül az érettségi vizsga eredményéről készült kimutatást a fenntartónak, az illetékes kisebbségi önkormányzatnak
 
-megküldi.
+## megküldi.
 
 (8)[^274] A tantárgyi bizottság üléseiről készített jegyzőkönyveket a kormányhivatalnál, a kormányhivatal által működtetett vizsgabizottság esetén a Hivatalban. kell megőrizni, a többi iratoktól elkülönítve. Az őrzési idő tíz év.
 

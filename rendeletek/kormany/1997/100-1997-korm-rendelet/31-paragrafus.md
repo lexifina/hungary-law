@@ -6,7 +6,7 @@ a)[^186] a központi követelményekre épülő vizsgatárgyakhoz a miniszter á
 
 b)[^187] az akkreditált vizsgatárgyakhoz a vizsgatárgy követelményei
 
-alapján – a vizsgakérdéseket tartalmazó – tételsort állít össze. A tételsorról legalább egy másolati példányt is készíteni kell. Ha az érettségi vizsgát középiskolában szervezik, a tételek elkészítésénél alkalmazni lehet a helyi tantervben található követelményeket is. A kormányhivatal által működtetett vizsgabizottság esetén a Hivatal a tételsorokat elektronikus formában átadja a kormányhivatalnak.
+## alapján – a vizsgakérdéseket tartalmazó – tételsort állít össze. A tételsorról legalább egy másolati példányt is készíteni kell. Ha az érettségi vizsgát középiskolában szervezik, a tételek elkészítésénél alkalmazni lehet a helyi tantervben található követelményeket is. A kormányhivatal által működtetett vizsgabizottság esetén a Hivatal a tételsorokat elektronikus formában átadja a kormányhivatalnak.
 
 (2)[^188] Az igazgató által megküldött tételsorokat a vizsgabizottság elnöke aláírásával jóváhagyja, megőrzi, és a vizsgabizottság előzetes értekezletén átadja a kérdező tanárnak.
 

@@ -64,135 +64,145 @@
 
 ## 16. A vizsgabizottság szükség szerint döntéseihez megfelelő további záradékot alakíthat ki.
 
-2. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez
+2. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez[^354]
 
-ELSŐ RÉSZ[^354]
+ELSŐ RÉSZ[^355]
 
 AZ ÉRETTSÉGI VIZSGA VIZSGATÁRGYAI ÉS A VIZSGA FORMÁI
 
-|  | A vizsgatárgy neve | A vizsga részei |
+|  | A tantárgy neve | A vizsga részei |
 
-| középszinten | emelt szinten |
+|  |  | középszinten | emelt szinten |
 
 | Kötelező vizsgatárgyak | 1. Magyar nyelv és irodalom | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 2. a) Nemzetiségi nyelv és irodalom b) Nemzetiségi nyelv | írásbeli írásbeli | szóbeli szóbeli | írásbeli írásbeli 1. olvasott szöveg értése 2. íráskészség 3. nyelvhelyesség 4. hallott szöveg értése | szóbeli szóbeli |
+| 2. a) Nemzetiségi nyelv és irodalom | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 3. Történelem | írásbeli | szóbeli | írásbeli | szóbeli |
+| b) Nemzetiségi nyelv | írásbeli | szóbeli | Írásbeli 1. olvasott szöveg értése 2. Íráskészség 3. nyelv- helyesség 4. hallott szöveg értése | szóbeli |
 
-| 4. Matematika | írásbeli | – | írásbeli | szóbeli |
+|  | 3. Történelem | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 5. Élő idegen nyelv vagy Latin nyelv | írásbeli írásbeli | szóbeli szóbeli | írásbeli 1. olvasott szöveg értése 2. íráskészség 3. nyelvhelyesség 4. hallott szöveg értése írásbeli | szóbeli szóbeli |
+| 4. Matematika | írásbeli | - | írásbeli | szóbeli |
 
-| Választható közismereti vizsgatárgyak | 1. Élő idegen nyelv | írásbeli | szóbeli | írásbeli 1. olvasott szöveg értése 2. íráskészség 3. nyelvhelyesség 4. hallott szöveg értése | szóbeli |
+| 5. Élő idegen nyelv | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 2. Fizika | írásbeli | szóbeli | írásbeli | szóbeli |
+|  |  |  | 1. olvasott szöveg értése 2. íráskészség 3. nyelv- helyesség 4. hallott szöveg értése |  |
 
-| 3. Kémia | írásbeli | szóbeli | írásbeli | szóbeli |
+| vagy |  |  |  |
 
-| 4. Biológia | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | Latin nyelv | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 5. Földrajz | írásbeli | szóbeli | írásbeli | szóbeli |
+| Választható közismereti vizsgatárgyak | 1. Élő idegen nyelv | írásbeli | szóbeli | írásbeli 1. olvasott szöveg értése 2. íráskészség 3. nyelv- helyesség 4. hallott szöveg értése | szóbeli |
 
-| 6. Ének-zene | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 2. Fizika | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 7. Rajz és vizuális kultúra | írásbeli | gyakorlati | gyakorlati | szóbeli |
+|  | 3. Kémia | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 8. Informatika | gyakorlati | szóbeli | gyakorlati | szóbeli |
+|  | 4. Biológia | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 9. Testnevelés | gyakorlati | szóbeli | gyakorlati | szóbeli |
+|  | 5. Földrajz | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 10. Filozófia | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 6. Ének-zene | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 11. Hittan | – | szóbeli | írásbeli | szóbeli |
+|  | 7. Rajz és vizuális kultúra | írásbeli | gyakorlati | gyakorlati | szóbeli |
 
-| 12. Természet- tudomány | írásbeli | szóbeli | – | – |
+|  | 8. Informatika | gyakorlati | szóbeli | gyakorlati | szóbeli |
 
-| 13. Latin | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 9. Testnevelés | gyakorlati | szóbeli | gyakorlati | szóbeli |
 
-| 14. Emberismeret és etika | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 10. Filozófia | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 15. Társadalom- ismeret | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 11. Hittan | - | szóbeli | írásbeli | szóbeli |
 
-| 16. Ember- és társadalomismeret, etika | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 12. Természettudomány | írásbeli | szóbeli | - | - |
 
-| 17. Dráma | írásbeli | szóbeli, gyakorlati | írásbeli | szóbeli, gyakorlati |
+|  | 13. Latin | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 18. Mozgókép- kultúra és médiaismeret | írásbeli, gyakorlati | – | írásbeli, gyakorlati | szóbeli |
+|  | 14. Emberismeret és etika | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 19. Nemzetiségi (kisebbségi) népismeret | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 15. Társadalomismeret | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 20. Célnyelvi civilizáció | – | szóbeli | írásbeli | szóbeli |
+|  | 16. Ember- és társadalomismeret, etika | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 21. Belügyi rendé- szeti ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 17. Dráma | írásbeli | szóbeli, gyakorlati | írásbeli | szóbeli, gyakorlati |
 
-| 22. Katonai alapismeretek | írásbeli | gyakorlati | – | – |
+|  | 18. Mozgóképkultúra és médiaismeret | írásbeli, gyakorlati | - | írásbeli, gyakorlati | szóbeli |
 
-| 23. Utazás és turizmus | gyakorlati | szóbeli | – | – |
+|  | 19. Nemzetiségi (kisebbségi) népismeret | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 24. Gazdasági ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 20. Célnyelvi civilizáció | - | szóbeli | írásbeli | szóbeli |
 
-| 25. Judaisztika | – | szóbeli | – | – |
+|  | 21. Belügyi rendészeti ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 26. Bibliaismeret – Hit Gyülekezete | – | szóbeli | írásbeli | szóbeli |
+|  | 22. Katonai alapismeretek | írásbeli | gyakorlati | - | - |
+
+|  | 23. Utazás és turizmus | gyakorlati | szóbeli | - | - |
+
+|  | 24. Gazdasági ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+
+|  | 25. Judaisztika | - | szóbeli | - | - |
+
+|  | 26. Bibliaismeret - Hit Gyülekezete | - | szóbeli | írásbeli | szóbeli |
 
 | Választható szakmai előkészítő vizsgatárgyak | 1. Egészségügyi alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 2. Szociális alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 2. Szociális alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 3. Oktatási alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 3. Oktatási alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 4. Művelődési és kommunikációs alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 4. Művelődési és kommunikációs alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 5. Gépészeti alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 5. Gépészeti alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 6. Elektronikai alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 6. Elektronikai alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 7. Informatikai alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 7. Informatikai alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 8. Vegyipari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 8. Vegyipari alapismeretek | írásbeli | gyakorlati | írásbeli | gyakorlati |
 
-| 9. Építészeti és építési alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 9. Építészeti és építési alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 10. Könnyűipari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 10. Könnyűipari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 11. Faipari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 11. Faipari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 12. Nyomdaipari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 12. Nyomdaipari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 13. Közlekedési alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 13. a) Közlekedési alapismeretek (közlekedés-üzemvitel) | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 14. Környezet- védelmi- vízgazdálkodási alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | b) Közlekedési alapismeretek (közlekedéstechnika) | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 15. a) Közgazda- sági alapismeretek (üzleti gazdaságtan) | írásbeli | szóbeli | – | – |
+|  | 14. Környezetvédelmi-vízgazdálkodási alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| b) Közgazdasági alapismeretek (elméleti gazdaságtan) | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 15. a) Közgazdasági alapismeretek (üzleti gazdaságtan) | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 16. Ügyviteli alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | b) Közgazdasági alapismeretek (elméleti gazdaságtan) | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 17. Közgazdasági- marketing alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 16. Ügyviteli alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 18. Vendéglátó- idegenforgalmi alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 17. Kereskedelmi és marketing alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 19. Rendészeti alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 18. Vendéglátás-idegenforgalom alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 20. Mezőgazdasági alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 19. Rendészeti alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 21. Élelmiszeripari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 20. Mezőgazdasági alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| Művészeti vizsgatárgyak | 1. Ábrázoló és művészeti geometria | írásbeli | – | írásbeli | – |
+|  | 21. Élelmiszer-ipari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 2. Népművészet | – | szóbeli | – | szóbeli |
+| Művészeti vizsgatárgyak | 1. Ábrázoló és művészeti geometria | írásbeli | - | írásbeli | - |
 
-| 3. A magyar népzene alapjai | – | szóbeli | írásbeli | szóbeli |
+|  | 2. Népművészet | - | szóbeli | - | szóbeli |
 
-| 4. Hangtani és akusztikai ismeretek | – | szóbeli | – | – |
+|  | 3. A magyar népzene alapjai | - | szóbeli | írásbeli | szóbeli |
 
-| 5. Hangkultúra | – | szóbeli | írásbeli | szóbeli |
+|  | 4. Hangtani és akusztikai ismeretek | - | szóbeli | - | - |
 
-| 6. Művészettörténet | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | 5. Hangkultúra | - | szóbeli | írásbeli | szóbeli |
 
-MÁSODIK RÉSZ[^355]
+|  | 6. Művészettörténet | írásbeli | szóbeli | írásbeli | szóbeli |
+
+MÁSODIK RÉSZ[^356]
 
 AZ ÉRETTSÉGI VIZSGATÁRGYAK ÁLTALÁNOS KÖVETELMÉNYEI
 
@@ -238,8 +248,6 @@ Tartalmi követelmények
 
 KÖZÉPSZINT ÉS EMELT SZINT
 
-3M057006_0
-
 | Témakörök/ képességek | Követelmények |
 
 | Szövegértés |
@@ -259,8 +267,6 @@ KÖZÉPSZINT ÉS EMELT SZINT
 | Fogalomismeret, fogalomhasználat | Nyelvi és irodalmi fogalmak beszédhelyzetnek, témának, megfelelő helyénvaló alkalmazása. Fogalmak értelmezése. |
 
 KÖZÉPSZINT
-
-3M057006_1
 
 | Témakörök | Követelmények |
 
@@ -311,8 +317,6 @@ KÖZÉPSZINT
 | 2.2.3. Korszakok, stílustörténet | A kifejezésmód és világlátás változása a különböző korszakokban a középkortól a szimbolizmusig. |
 
 EMELT SZINT
-
-3M057006_2
 
 | Témakörök | Követelmények |
 
@@ -412,8 +416,6 @@ Az emelt és középszinten a témakörök lényegében nem különböznek egym�
 
 KÖZÉPSZINT
 
-3M057006_3
-
 | Ismeretek és képességek | Követelmények |
 
 | 1. Írásbeli és szóbeli nyelvhasználat |
@@ -435,8 +437,6 @@ KÖZÉPSZINT
 | 4. Fogalomismeret, fogalomhasználat nyelvből és irodalomból | (nemzetiségenként, a részletes követelmények tartalmazzák) |
 
 EMELT SZINT
-
-3M057006_4
 
 | Ismeretek és képességek | Követelmények |
 
@@ -503,8 +503,6 @@ Az érettségi vizsga célja annak megállapítása, hogy a vizsgázó
 – önállóan tud-e reagálni különböző korszakok különböző műfajú szépirodalmi és köznapi szövegeinek következtetéseire
 
 Tartalmi követelmények
-
-3M057006_5
 
 | Kompetenciák | Követelmények | Követelmények |
 
@@ -590,8 +588,6 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
-3M057006_6
-
 | Témakörök/ Kompetenciák | Követelmények |
 
 | 1. Kompetenciák |
@@ -633,8 +629,6 @@ KÖZÉPSZINT
 | A mai magyar társadalom és életmód | Alapvető állampolgári ismeretek. Etnikumok és nemzetiségek a magyar társadalomban. A magyarországi roma társadalom. A parlamenti demokrácia működése és az önkormányzatiság. Társadalmi, gazdasági és demográfiai változások. |
 
 EMELT SZINT
-
-3M057006_7
 
 | Témakörök/ Kompetenciák | Követelmények |
 
@@ -722,8 +716,6 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
-3M057006_8
-
 | Témakör | Követelmények |
 
 | 1. Gondolkodási módszerek, halmazok, logika, kombinatorika, gráfok |
@@ -785,8 +777,6 @@ KÖZÉPSZINT
 | Valószínűség-számítás | Valószínűség fogalma. A valószínűség klasszikus kiszámítási módja. Visszatevéses mintavétel. |
 
 EMELT SZINT
-
-3M057006_9
 
 | Témakör | Követelmények |
 
@@ -868,8 +858,6 @@ Az emelt szintű vizsga célja annak megállapítása, hogy a vizsgázó képes-
 
 KÖZÉPSZINT
 
-8M00389M_0
-
 | Témakörök/ Kompetenciák | Követelmények |
 
 | 1. Kommunikatív készségek |
@@ -909,8 +897,6 @@ KÖZÉPSZINT
 | Tudomány és technika | Például: népszerű tudományok, ismeretterjesztés, a technikai eszközök szerepe a mindennapi életben. |
 
 EMELT SZINT
-
-8M00389M_1
 
 | Témakörök/ Kompetenciák | Követelmények |
 
@@ -1014,8 +1000,6 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
-8M00389M_2
-
 | Témakör | Követelmények |
 
 | 1. Mechanika |  |
@@ -1083,8 +1067,6 @@ KÖZÉPSZINT
 | Elméletek, felfedezések, találmányok | A geo- és heliocentrikus világkép összehasonlítása. Galilei munkásságának jelentősége: a kísérletezés szerepe. Newton munkásságának jelentősége: ,,az égi és földi mechanika egyesítése”, a newtoni fizika hatása. A távcső, a mikroszkóp, a gőzgép, az elektromotor, a generátor, a transzformátor, az elektron, belső égésű motor, a röntgensugárzás, a radioaktivitás, a félvezetők, az atomenergia felhasználásának felfedezése, illetve feltalálása és hatásuk – összekapcsolás a megfelelő nevekkel. A követelményekben szereplő ismeretek alapján megállapítható eltérések a klasszikus fizika és a kvantummechanika között. Az űrkutatás történetének legfontosabb állomásai. |
 
 EMELT SZINT
-
-8M00389M_3
 
 | Témakör | Követelmények |
 
@@ -1222,8 +1204,6 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
-8M00389M_4
-
 | Témakör | Követelmények |
 
 | 1. Általános kémia |
@@ -1353,8 +1333,6 @@ KÖZÉPSZINT
 | Elektrokémia | A standardpotenciál és galvánelemek elektromotoros ereje közötti kapcsolat alkalmazása. |
 
 EMELT SZINT
-
-8M00389M_5
 
 |  | Témakör | Követelmények |
 
@@ -1524,8 +1502,6 @@ A középszintű követelmények a gyakorlathoz közelebb álló, kevésbé elvo
 
 KÖZÉPSZINT
 
-8M00389M_6
-
 | Témakör | Követelmények |
 
 | 1. Bevezetés a biológiába |
@@ -1643,8 +1619,6 @@ KÖZÉPSZINT
 | A bioszféra evolúciója | A fizikai és kémiai evolúció fogalma. Az emberszabású majmok és az ember vonásai. Az emberi faj egysége. |
 
 EMELT SZINT
-
-8M00389M_7
 
 | Témakör | Követelmények |
 
@@ -1794,8 +1768,6 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
-8M00389M_8
-
 | Témakör | Követelmények |
 
 | 1. Térképi ismeretek |
@@ -1851,8 +1823,6 @@ KÖZÉPSZINT
 |  | A legfőbb globális problémák és azok kialakulásának természeti, társadalmi-gazdasági okai. Példák a globális környezeti gondok megoldási lehetőségeire. |
 
 EMELT SZINT
-
-8M00389M_9
 
 | Témakör | Követelmények |
 
@@ -1964,8 +1934,6 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
-8M00389M_10
-
 | Kompetenciák/ Témakörök | Követelmények |
 
 | 1. Éneklés és zenetörténet |
@@ -2011,8 +1979,6 @@ KÖZÉPSZINT
 |  | Egy egyszólamú, hangnemben maradó, periódus terjedelmű dallam átírása betűkottából a vonalrendszerbe violinkulcsban, 2#–2b előjegyzési körben. |
 
 EMELT SZINT
-
-8M00389M_11
 
 | Kompetenciák/ Témakörök | Követelmények |
 
@@ -2102,8 +2068,6 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
-8M00389M_12
-
 | Kompetenciák/ Témakörök | Követelmények |
 
 | 1. Alkotás |
@@ -2189,8 +2153,6 @@ KÖZÉPSZINT
 | Mű és környezete | A mű létrehozását meghatározó összefüggések ismerete. |
 
 EMELT SZINT
-
-8M00389M_13
 
 | Kompetenciák/ Témakörök | Követelmények |
 
@@ -2338,8 +2300,6 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
-8M00389M_14
-
 | Témakör | Követelmények |
 
 | 1. Információs társadalom |
@@ -2419,8 +2379,6 @@ KÖZÉPSZINT
 | Információkeresés | Katalógusok, számítógépes információkeresés. |
 
 EMELT SZINT
-
-8M00389M_15
 
 | Témakörök | Követelmények |
 
@@ -2558,8 +2516,6 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
-8M00389M_16
-
 | Kompetenciák/ Témakörök | Követelmények |
 
 | 1. Elméleti ismeretek |
@@ -2627,8 +2583,6 @@ KÖZÉPSZINT
 | Röplabda | Kosárérintés és alkarérintés fej fölé folyamatosan. Minimum szint: kosárérintésnél 5, alkarérintésnél 4 db érintés. Nyitás választott technikával. |
 
 EMELT SZINT
-
-8M00389M_17
 
 | Kompetenciák/ Témakörök | Követelmények |
 
@@ -2750,8 +2704,6 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
-8M00389M_18
-
 | Témakörök | Követelmények |
 
 | Filozófiai problémák |
@@ -2766,9 +2718,38 @@ KÖZÉPSZINT
 
 |  | Az itt felsorolt korszakok és irányzatok a fentebb említett nevek és/vagy problémák összefüggésében: Görög filozófia. Felvilágosodás. Életfilozófiák. |
 
+EMELT SZINT
+
+| Témakörök | Követelmények |
+
+| Filozófiai problémák |
+
+|  | A probléma lényegének megértése és korszakban, irányzatban, illetve gondolati rendszerben való elhelyezése konkrét filozófiai válaszok tükrében: Mi a filozófia? A létre vonatkozó kérdés. Megismerhetőség, igazság, bizonyosság. Test-lélek probléma. Az én problémája. Az idő filozófiai értelmezése. A végesség és a végtelenség. Az érték problémája: a jó és a szép. A szabadság kérdése. Erkölcsi univerzalizmus és relativizmus. A környezet- és bioetika problémái. Globalizáció és társadalom. Hit és tudás. |
+
+| Filozófusok alapvető gondolatainak ismerete |
+
+|  | Jellemző problémáik és válaszaik ismerete; szövegrészletek értelmezése. Kapcsolódásaik más filozófusokhoz, illetve filozófiákhoz. (Néhány reflexió ismerete.) Közülük 9 kötelező (Platón, Arisztotelész, Szent Ágoston, Szent Tamás, Descartes, Kant, Nietzsche, Heidegger, Wittgenstein) és minimum 4 kötelezően választható: Egy preszókratikus gondolkodó, Bacon, Spinoza, Locke, Berkeley, Hume, Rousseau, Hegel, Marx, Comte, J. S. Mill, Schopenhauer, Kierkegaard, Bergson, Husserl, Bécsi Kör, K. Popper, Kuhn, egy posztmodern (Derrida, Rorty, Levinas stb.), egy magyar filozófus (Apáczai, Palágyi, Hamvas, Polányi, Lukács, Bibó stb.) |
+
+| Korszakok, irányzatok |
+
+|  | Az itt felsorolt korszakok és irányzatok a fentebb említett nevek és/vagy problémák összefüggésében: Antik görög filozófia. Patrisztika. Skolasztika. Felvilágosodás (racionalizmus, empirizmus). Német idealizmus. Életfilozófiák. Pozitivizmus; Logikai pozitivizmus. Analitikus filozófia. Posztmodern. |
+
+HITTAN
+
+ÉRETTSÉGI VIZSGA ÁLTALÁNOS KÖVETELMÉNYEI
+
+(Világnézetileg elkötelezett iskolák részére)
+
+(Katolikus, református, evangélikus vallású tanulók számára)
+
+A vizsga formája
+
+Középszinten: szóbeli.
+
 [^350]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja szerint módosított szöveg.
 [^351]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
 [^352]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^353]: Az 1. számú melléklet II. része a 6/2008. (I. 22.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^354]: A 2. számú melléklet Első Része a 6/2008. (I. 22.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^355]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja szerint módosított szöveg.
+[^354]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^355]: A 2. számú melléklet Első Része a 347/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 23. § (2) bekezdése alapján a rendelkezést a 2011/2012. tanév május-júniusi vizsgaidőszak vizsgáinak megszervezésekor kell alkalmazni.
+[^356]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a szerint módosított szöveg. E módosító rendelet 23. § (2) bekezdése alapján a rendelkezést a 2011/2012. tanév május-júniusi vizsgaidőszak vizsgáinak megszervezésekor kell alkalmazni.

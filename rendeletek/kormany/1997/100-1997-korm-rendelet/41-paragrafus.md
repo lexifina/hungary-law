@@ -8,7 +8,7 @@ b) csak írásbeli vizsgából áll 1–100,
 
 c) csak szóbeli vizsgából áll 1–50
 
-pontskálán egész számokkal kell értékelni.
+## pontskálán egész számokkal kell értékelni.
 
 (2)[^225] A vizsgázó teljesítményét a pontszámok százalékban és osztályzatban történő kifejezésével minősíteni kell. A teljesítmény százalékban történő kifejezésekor a számítást csak az egész szám megállapításáig lehet elvégezni, tizedesjegy nem állapítható meg. Ha a vizsgatárgy vizsgája több vizsgarészből áll, a vizsgázónak minden vizsgarészből legalább tíz százalékot kell teljesítenie ahhoz, hogy a vizsgatárgyból a teljesített százalékérték alapján a (3)–(4) bekezdésben meghatározottak szerint legalább elégséges osztályzatot kaphasson. Középszintű matematika vizsgatárgyi vizsga esetén, ha a tanuló írásbeli teljesítménye elérte a tíz százalékot, de nem érte el a húsz százalékot, a vizsgatárgy részletes követelményeiben meghatározott módon szóbeli vizsgát tehet. Több vizsgarész esetén az egyes vizsgarészeken elérhető pontszámot az adott vizsgatárgy részletes vizsgakövetelménye határozza meg. Ha a vizsgázó a szóbeli vizsgát írásban tette le, teljesítményét a szóbeli vizsgarésznek megfelelően kell minősíteni. Ha a vizsgázó az írásbeli vizsga helyett szóbeli vizsgát tett, mindkét tétel kifejtését a szóbeli tételek értékelési szabályai szerint kell értékelni, majd a két tételre adott pontszámok összegét a szóbeli vizsgán elérhető pontszám kétszeresének százalékában kell kifejezni, és ez adja a vizsga százalékos minősítését. A vizsgázónak ebben az esetben mindkét szóbeli vizsgáján legalább tíz százalékot kell teljesítenie ahhoz, hogy a vizsgatárgyból a teljesített százalékérték alapján a (3)–(4) bekezdésben meghatározottak szerint legalább elégséges osztályzatot kaphasson.
 

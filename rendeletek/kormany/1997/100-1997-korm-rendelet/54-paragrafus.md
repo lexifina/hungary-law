@@ -22,7 +22,7 @@ a) legalább 60%-ot ért el, és
 
 b) a másik két vizsgatárgyból célnyelven, sikeres, legalább középszintű, vizsgát tett,
 
-felsőfokú (C1) komplex típusú államilag elismert nyelvvizsga-bizonyítvánnyal egyenértékű okiratnak minősül.
+## felsőfokú (C1) komplex típusú államilag elismert nyelvvizsga-bizonyítvánnyal egyenértékű okiratnak minősül.
 
 (5) Amennyiben a vizsgázó célnyelvből az emelt szintű vizsgát a közoktatási törvény 30. §-ában megfogalmazott jogával élve tette le, és megfelel a (4) bekezdésben foglalt feltételeknek,
 

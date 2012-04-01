@@ -12,7 +12,7 @@ d) két százalékánál vizsgatárgyanként azoknak a vizsgázóknak a figyelem
 
 e) két százalékánál a törzslapon feltüntetett valamennyi vizsgázó figyelembevételével a vizsgabizottság jegyzője
 
-részére.
+## részére.
 
 (3)[^315] Ha a szaktanári és a kérdező tanári feladatokat azonos személy látja el, a vizsgadíj mind a kettő jogcímen megilleti.
 

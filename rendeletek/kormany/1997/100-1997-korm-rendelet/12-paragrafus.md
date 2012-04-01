@@ -24,7 +24,7 @@ b)[^65] május–júniusi vizsgaidőszak esetén február 24-ig,
 
 c)[^66] október-novemberi vizsgaidőszak esetén szeptember 5-ig
 
-lehet benyújtani a vizsgabizottságot működtető intézmény igazgatójához. A jelentkezési határidő elmulasztása esetén igazolási kérelmet a jelentkezési határidő utolsó napjától számított nyolc napon belül lehet előterjeszteni. Az igazolási kérelem benyújtási határideje jogvesztő. A jelentkezési lapon a kötelező vizsgatárgyak mellett fel kell tüntetni a kötelezően és a szabadon választható vizsgatárgyakat, a vizsga szintjét, valamint a vizsga e rendelet 9. §-ának (1) bekezdése szerinti fajtáját. A vizsgára jelentkezőnek fel kell tüntetnie azt is, ha a vizsgatárgyból nemzeti, etnikai kisebbség nyelvén vagy célnyelven kíván vizsgázni, illetve élni kíván a közoktatásról szóló törvény 30. §-ának (9) bekezdésében meghatározott jogával. Ha a jelentkező még nem rendelkezik érettségi vizsgabizonyítvánnyal, jelentkezési lapján fel kell tüntetnie korábban teljesített érettségi vizsgáit.
+## lehet benyújtani a vizsgabizottságot működtető intézmény igazgatójához. A jelentkezési határidő elmulasztása esetén igazolási kérelmet a jelentkezési határidő utolsó napjától számított nyolc napon belül lehet előterjeszteni. Az igazolási kérelem benyújtási határideje jogvesztő. A jelentkezési lapon a kötelező vizsgatárgyak mellett fel kell tüntetni a kötelezően és a szabadon választható vizsgatárgyakat, a vizsga szintjét, valamint a vizsga e rendelet 9. §-ának (1) bekezdése szerinti fajtáját. A vizsgára jelentkezőnek fel kell tüntetnie azt is, ha a vizsgatárgyból nemzeti, etnikai kisebbség nyelvén vagy célnyelven kíván vizsgázni, illetve élni kíván a közoktatásról szóló törvény 30. §-ának (9) bekezdésében meghatározott jogával. Ha a jelentkező még nem rendelkezik érettségi vizsgabizonyítvánnyal, jelentkezési lapján fel kell tüntetnie korábban teljesített érettségi vizsgáit.
 
 (7)[^67] A jelentkezési lapot személyesen vagy meghatalmazott útján kell benyújtani. A kiegészítő és az ismétlő, valamint a tanulói jogviszony megszűnése után a szintemelő vizsgára történő jelentkezéskor be kell mutatni az érettségi bizonyítványt, tanúsítványt. A tanulói jogviszony megszűnése után – a jelentkezési lap benyújtásakor – a jelentkezőnek igazolnia kell a személyazonosságát, továbbá be kell mutatnia a középiskolai bizonyítványát és az iskola vagy annak jogutódja által az egyes tantárgyakra, tantárgyrészekre vonatkozó mentesítésről szóló igazolást. A pótló-, javítóvizsgára, valamint a tanulói jogviszony fennállása alatt a szintemelő vizsgára történő jelentkezéskor a jelentkezési laphoz csatolni kell az érettségi törzslapkivonatát is. Abban az esetben, ha az érettségi vizsga a közoktatásról szóló törvény 115–116. §-ában foglaltak szerint nem ingyenes, a jelentkezési laphoz csatolni kell a vizsgabizottságot működtető intézmény, az emelt szintű vizsgák, valamint a kormányhivatalnál történő jelentkezés esetén a Hivatal számlájára befizetett térítési díj, tandíj, vizsgáztatási díj befizetésének igazolását.
 
@@ -40,7 +40,7 @@ a) május–júniusi vizsgaidőszak esetén március 1-jéig,
 
 b) október–novemberi vizsgaidőszak esetén szeptember 10-ig
 
-a kétszintű érettségi vizsga adminisztrációs rendszerében elektronikusan meg kell küldeni a Hivatalnak, továbbá kinyomtatva, papír alapon tájékoztatás céljából a középiskola fenntartójának.
+## a kétszintű érettségi vizsga adminisztrációs rendszerében elektronikusan meg kell küldeni a Hivatalnak, továbbá kinyomtatva, papír alapon tájékoztatás céljából a középiskola fenntartójának.
 
 (12)[^72] Az összesítő jelentés alapján
 
@@ -62,7 +62,7 @@ b) a Hivatal a központi vizsgakövetelményekre épülő vizsgatárgyak esetéb
 [^62]: A 12. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 41. § d) pontja szerint módosított szöveg.
 [^63]: A 12. § (6) bekezdésének befejező szövegrésze a 253/2006. (XII. 7.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^64]: A 12. § (6) bekezdésének a) pontját a 256/2005. (XII. 7.) Korm. rendelet 28. § (2) bekezdése hatályon kívül helyezte.
-[^65]: A 12. § (6) bekezdés b) pontja a 12/2012. (II. 14.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^65]: A 12. § (6) beekzdés b) pontja a 12/2012. (II. 14.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^66]: A 12. § (6) bekezdésének c) pontja a 148/2005. (VII. 27.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^67]: A 12. § (7) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 40. § (5) bekezdésével megállapított szöveg.
 [^68]: A 12. § új (8) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése iktatta be, egyidejűleg az eredeti (8)–(12) bekezdés számozását (9)–(13) bekezdésre változtatva. A 12. § (8) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 41. § b) és e) pontja szerint módosított szöveg.
