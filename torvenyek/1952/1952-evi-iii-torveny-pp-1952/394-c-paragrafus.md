@@ -1,6 +1,6 @@
 394/C. § A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2013. április 1. napjától a következő rendelkezéseket kell alkalmazni:
 
-a) a vállalkozás az Állami Elektronikus Kézbesítési Szolgáltatónál kézbesítési tárhellyel rendelkezik; a keresetlevelet, továbbá minden egyéb beadványát, okirati bizonyítékát kizárólag elektronikusan nyújtja be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti;
+a) a keresetlevelet, továbbá minden egyéb beadványát, okirati bizonyítékát kizárólag elektronikusan nyújtja be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti;
 
 b) ha a vállalkozás az eljárásban alperesként (illetve kötelezettként, adósként) vesz részt, részére a bíróság elektronikusan kézbesít, és a vállalkozás a beadványait, okirati bizonyítékait kizárólag elektronikusan nyújthatja be;
 
