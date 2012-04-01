@@ -20,19 +20,19 @@
 
 | 9. | ügyeletvezető (TEK) |
 
-| 10. | Központi | osztályvezető- helyettes | osztályvezető- helyettes | osztályvezető- helyettes | osztályvezető- helyettes |
+| 10. | Központi | osztályvezető- helyettes | osztályvezető- helyettes |  | osztályvezető- helyettes |
 
 | 11. | alosztályvezető | alosztályvezető | alosztályvezető |  |
 
 | 12. | kiemelt főreferens | kiemelt főreferens | kiemelt főreferens |  |
 
-| 13. | szakcsoport- vezető |
+| 13. | szakcsoport- vezető | vezető főügyeletes |
 
 | 14. | főiskolai tanár, docens |
 
-| 15. | Területi | osztályvezető- helyettes, alosztályvezető, kiemelt főreferens, szakcsoport- vezető | osztályvezető- helyettes, alosztályvezető, kiemelt főreferens | osztályvezető- helyettes, alosztályvezető, kiemelt főreferens | osztályvezető- helyettes, kiemelt főreferens |
+| 15. | Területi | osztályvezető- helyettes, alosztályvezető, kiemelt főreferens, szakcsoport- vezető | osztályvezető- helyettes, alosztályvezető, kiemelt főreferens | alosztályvezető, kiemelt főreferens | osztályvezető- helyettes, kiemelt főreferens |
 
-| 16. | Helyi |  | hivatalvezető, alosztályvezető, kiemelt főreferens, kirendeltség- vezető- helyettes | osztályvezető- helyettes, alosztályvezető, kiemelt főreferens |  |
+| 16. | Helyi |  | hivatalvezető, alosztályvezető, kiemelt főreferens, kirendeltség- vezető- helyettes | alosztályvezető, kiemelt főreferens, parancsnok- helyettes |  |
 
 | 17. | V. | Minisztériumi | főreferens |  |  |  |
 
@@ -44,11 +44,11 @@
 
 | 21. | főmérnök (TEK) |
 
-| 22. | Központi | csoportvezető, kiemelt főelőadó, főiskolai adjunktus | csoportvezető, kiemelt főelőadó | csoportvezető, kiemelt főelőadó | kiemelt főelőadó |
+| 22. | Központi | csoportvezető, kiemelt főelőadó, főiskolai adjunktus | csoportvezető, kiemelt főelőadó | kiemelt főelőadó | kiemelt főelőadó |
 
-| 23. | Területi | csoportvezető, kiemelt főelőadó | csoportvezető, kiemelt főelőadó | csoportvezető, kiemelt főelőadó, | csoportvezető, kiemelt főelőadó |
+| 23. | Területi | csoportvezető, kiemelt főelőadó | csoportvezető, kiemelt főelőadó | csoportvezető, kiemelt főelőadó, ügyeletvezető | csoportvezető, kiemelt főelőadó |
 
-| 24. | Helyi | csoportvezető, kiemelt főelőadó | csoportvezető, kiemelt főelőadó |
+| 24. | Helyi | csoportvezető, kiemelt főelőadó | csoportvezető, kiemelt főelőadó, műszaki-biztonsági tiszt, őrsparancsnok, szolgálat- parancsnok |
 
 | 25. | IV. | Minisztériumi | főelőadó (TEK) |  |  |  |
 
@@ -56,9 +56,9 @@
 
 | 27. | Központi | főelőadó, főiskolai tanársegéd | főelőadó | főelőadó | főelőadó |
 
-| 28. | Területi | főelőadó | főelőadó | főelőadó | főelőadó |
+| 28. | Területi | főelőadó | főelőadó | főelőadó, csoportvezető | főelőadó |
 
-| 29. |  | Helyi |  | főelőadó technikai tiszt | főelőadó |  |
+| 29. |  | Helyi |  | főelőadó technikai tiszt | főelőadó, irodavezető, rajparancsnok |  |
 
 | 30. | III. | Minisztériumi | előadó (TEK) |  |  |  |
 
@@ -98,23 +98,23 @@
 
 | 48. | tűzszerész (TEK) |
 
-| 49. | Központi |  | szolgálat- parancsnok, szolgálati csoportvezető |  |  |
+| 49. | Központi |  | szolgálat- parancsnok, szolgálati csoportvezető | referens |  |
 
-| 50. | Területi | szolgálat- parancsnok | szolgálat- parancsnok, szolgálati csoportvezető | szolgálatvezető | főfelügyelő |
+| 50. | Területi | szolgálat- parancsnok | szolgálat- parancsnok, szolgálati csoportvezető | referens, technikus | főfelügyelő |
 
-| 51. | Helyi |  | szolgálat- parancsnok, szolgálati csoport- vezető, körzeti megbízott | szolgálatvezető, szerparancsnok |  |
+| 51. | Helyi |  | szolgálat- parancsnok, szolgálati csoport- vezető, körzeti megbízott | szerparancsnok, referens |  |
 
-| 52. | III. | Központi | segédelőadó | járőrvezető, segédelőadó |  | segédelőadó |
+| 52. | III. | Központi | segédelőadó | járőrvezető, segédelőadó | segédelőadó | segédelőadó |
 
 | 53. | Területi | segédelőadó | járőrvezető, segédelőadó, főhatár- rendész | segédelőadó | segédelőadó, művezető |
 
-| 54. | Helyi |  | járőrvezető, főhatár- rendész | segédelőadó, szerparancsnok különlegesszer- kezelő |  |
+| 54. | Helyi |  | járőrvezető, főhatár- rendész | segédelőadó, különleges szerkezelő |  |
 
 | 55. | II. | Központi |  | gépjármű- vezető |  |  |
 
 | 56. | Területi | kiképző | járőr, határrendész | gépjárművezető | felügyelő |
 
-| 57. | Helyi | járőr, határrendész | beosztott tűzoltó |
+| 57. | Helyi | járőr, határrendész | beosztott tűzoltó, gépjárművezető, ügyeletes |
 
 | 58. | I. | Központi | szerződéses |
 
