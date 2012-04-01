@@ -88,7 +88,7 @@ Melléklet a 3/2010. (X. 21.) BM rendelethez[^1]
 
 | 38 | a Közgazdasági Főosztály vezetője, az Informatikai Főosztály vezetője, az Igazgatási Főosztály vezetője, a Műszaki Főosztály vezetője, a Kommunikációs és Adatátviteli Osztály vezetője, | C |
 
-| 39 | a Számítástechnikai Központ vezetője, a Stratégiai és Szervezési Osztály vezetője, a Fejlesztési Osztály vezetője, a Gazdasági Ellátó Igazgatóságok igazgatói | C |
+| 39 | a Számítástechnikai Központ vezetője, a Stratégiai és Szervezési Osztály vezetője, a Fejlesztési Osztály vezetője | C |
 
 | 40 | Köztársasági Őrezred |  |
 
@@ -120,15 +120,19 @@ Melléklet a 3/2010. (X. 21.) BM rendelethez[^1]
 
 | 54 | az igazgató, a Szakértői Főosztály vezetője, az osztályvezetői, a Bűnügyi Technikai Főosztály vezetője, az osztályvezetői, a Hivatal vezetője, a biztonsági vezető | B |
 
+| 54a | Központi Gazdasági Ellátó Igazgatóság |  |
+
+| 54b | a Központi Gazdasági Ellátó Igazgatóság igazgatója és igazgató-helyettese | C |
+
 | 55 | Megyei (fővárosi) Rendőr-főkapitányságok |  |
 
 | 56 | a Hivatalvezetők, a biztonsági vezetők, az Ellenőrzési Szolgálatok vezetői | C |
 
-| 57 | a Budapesti Rendőr-főkapitányság bűnügyi és rendészeti helyettesei, a Titokvédelmi, Ügykezelési és Kártérítési Osztály vezetője, a Helyi Biztonsági Felügyeleti Alosztály vezetője | C |
+| 57 | a Budapesti Rendőr-főkapitányság bűnügyi, rendészeti és gazdasági helyettesei, a Titokvédelmi, Ügykezelési és Kártérítési Osztály vezetője, a Helyi Biztonsági Felügyeleti Alosztály vezetője | C |
 
 | 58 | a Budapesti Rendőr-főkapitányság Humánigazgatási Szolgálat vezetője, a Nyilvántartó Osztály vezetője, a Fegyelmi Osztály vezetője, a Bűnügyi Szervek főosztály- és osztályvezetői, a Rendészeti Koordinációs Osztály vezetője, a Biztosítási Osztály vezetői, az Őrszolgálati és Objektumvédelmi Főosztály vezetője, a Közrendvédelmi Főosztály vezetője, a Közlekedésrendészeti Főosztály vezetője, a Központi Ügyeleti Főosztály vezetője, az Ügyeleti osztályok vezetői | B |
 
-| 59 | a megyei rendőr-főkapitányságok bűnügyi igazgatója | C |
+| 59 | a megyei rendőr-főkapitányságok bűnügyi és gazdasági igazgatója | C |
 
 | 60 | a megyei rendőr-főkapitányságok rendészeti igazgatója, a humánigazgatási szolgálatvezetők, a bűnügyi igazgatóságok osztályvezetői, a rendészeti igazgatóságok szolgálatvezetői, osztályvezetői (kivétel: Igazgatásrendészeti Osztály vezetője), az ügyeletvezetők, az ügyeletesek | B |
 
@@ -158,31 +162,31 @@ Melléklet a 3/2010. (X. 21.) BM rendelethez[^1]
 
 | 73 | a belső ellenőrök | B |
 
-| 74 | IV. Országos Katasztrófavédelmi Főigazgatóság, az állami és hivatásos önkormányzati tűzoltóságok szervei |
+| 74 | IV. Hivatásos katasztrófavédelmi szervek |  |
 
-| 75 | a BM Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF) főfelügyelője, a főosztályvezetője, a főosztályvezető-helyettese, a nemzetbiztonsági szolgálatok irányában tűzvédelmi hatósági és szakhatósági feladatokat ellátók | C |
+| 75 | a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF) országos főfelügyelője, szolgálatvezetője, főosztályvezetője, főosztályvezető-helyettese, a nemzetbiztonsági szolgálatok irányában hatósági és szakhatósági feladatokat ellátók munkakörei | C |
 
-| 76 | a központi és területi (repülőtéri) katasztrófavédelmi szervek és a fővárosi polgári védelmi igazgatóság polgári védelmi szakterületének vezetői | C |
+| 76 | a területi szervek vezetői, vezető-helyettesei és főfelügyelői | C |
 
-| 77 | a Nukleáris Baleseti Információs és Értékelő Központ vezetője | C |
+| 77 | a katasztrófavédelmi kirendeltségek vezetői és felügyelői | C |
 
-| 78 | a területi (repülőtéri) katasztrófavédelmi igazgatóságok igazgatói és igazgatóhelyettesei | C |
+| 78 | a BM OKF-en a nukleáris baleset-elhárítással kapcsolatos feladatokat, a kritikus infrastruktúra védelemmel kapcsolatos feladatokat, valamint a veszélyes katonai objektumokkal kapcsolatos feladatokat ellátók munkakörei | C |
 
-| 79 | a Katasztrófavédelmi Oktatási Központ igazgatója és helyettese, a Fővárosi Polgári Védelmi Igazgatóság igazgatója és helyettese | C |
+| 79 | a BM OKF Katasztrófavédelmi Oktatási Központ igazgatója és igazgató-helyettese | C |
 
 | 80 | a NATO és EU referensi feladatokat ellátó munkakörök | B |
 
 | 81 | a BM OKF titkárságvezetői (főigazgatói, főigazgató-helyettesei, hivatalvezetői titkárságok vezetői) | B |
 
-| 82 | a Gazdasági Ellátó Központ igazgatója, igazgatóhelyettese | B |
+| 82 | a BM OKF Gazdasági Ellátó Központ igazgatója, igazgatóhelyettese | B |
 
-| 83 | a Gazdasági Ellátó Központ osztályvezetője | B |
+| 83 | a BM OKF Gazdasági Ellátó Központ osztályvezetője | B |
 
-| 84 | a Nemzetközi és Jogi Főosztály nemzetközi feladatokat ellátó munkakörei, a Jogi Osztály vezetője | B |
+| 84 | a BM OKF Nemzetközi Főosztály nemzetközi feladatokat ellátók munkakörei | B |
 
-| 85 | a Főügyeleten és területi szervek ügyeletein ügyeleti szolgálatot ellátó személyek | C |
+| 85 | a BM OKF Központi Főügyeleten szolgálatot ellátó személyek és a területi szervek főügyeletesei | C |
 
-| 86 | valamennyi hivatásos önkormányzati tűzoltó-parancsnokság parancsnoka és helyettese, valamint a tűzvédelmi hatósági és szakhatósági feladatokat ellátók | A |
+| 86 | a hivatásos tűzoltóparancsnokságok parancsnokai | A |
 
 | 87 | a BM OKF Műszaki Főosztály hatósági és szakhatósági feladatokat ellátó osztályvezetői, valamint a védelmi „M” feladatot ellátó személy | C |
 
@@ -252,4 +256,4 @@ Melléklet a 3/2010. (X. 21.) BM rendelethez[^1]
 
 | 120 | akinek a Mavtv. 5. § (4) bekezdés c) pontja szerinti nemzeti „Bizalmas!”, vagy 9. § (1) bekezdésében szereplő, illetve a 9. § (2) bekezdése szerint nemzetközi szerződésben meghatározott vagy külföldi minősítéssel és jelöléssel ellátott „Bizalmas” adatot kell megismernie | A |
 
-[^1]: A melléklet a 38/2011. (XI. 3.) BM rendelet 1. §-ával megállapított szöveg.
+[^1]: A melléklet a 38/2011. (XI. 3.) BM rendelet 1. §-ával megállapított, a 11/2012. (III. 30.) BM rendelet 2. §-a, a 13/2012. (III. 30.) BM rendelet 5. §-a szerint módosított szöveg.
