@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-44-20-0
 | 2012-02-01 | 2004-44-20-0M.23 | 2/2012. (I. 3.) NEFMI rendelet |
 | 2012-02-28 | 2004-44-20-0M.24 | 9/2012. (II. 28.) NEFMI rendelet |
 | 2012-03-01 | 2004-44-20-0M.25 | 2/2012. (I. 3.) NEFMI rendelet |
+| 2012-04-01 | 2004-44-20-0M.26 | 2/2012. (I. 3.) NEFMI rendelet |
