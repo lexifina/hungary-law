@@ -1,6 +1,6 @@
 ## A fémkereskedő nyilvántartási és bejelentési kötelezettsége
 
-5. § (1) A fémkereskedő a fémkereskedelmi engedélyköteles anyag értékesítéséről eladónként és vevőnként (címzettenként) az anyag jogszerű beszerzésének igazolása céljából külön nyilvántartást köteles vezetni, és a beszerzett és értékesített anyag értékét és mennyiségét naponta, a nap végén összesíteni. A fémkereskedő a nyilvántartásban szereplő adatokról külön jogszabályban meghatározott módon az ügyfélkapu nyitásához szükséges regisztrációs eljárást követően elektronikus úton adatot szolgáltat a fémkereskedelmi hatóságnak, amely azt a fémkereskedelmi engedélyköteles anyag jogszerű beszerzésének ellenőrzésére használhatja fel.
+5. § (1) A fémkereskedő a fémkereskedelmi engedélyköteles anyag értékesítéséről eladónként és vevőnként (címzettenként) az anyag jogszerű beszerzésének igazolása céljából külön nyilvántartást köteles vezetni, és a beszerzett és értékesített anyag értékét és mennyiségét naponta, a nap végén összesíteni. A fémkereskedő a nyilvántartásban szereplő adatokról külön jogszabályban meghatározott módon elektronikus úton adatot szolgáltat a fémkereskedelmi hatóságnak, amely azt a fémkereskedelmi engedélyköteles anyag jogszerű beszerzésének ellenőrzésére használhatja fel.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 

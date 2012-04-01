@@ -16,7 +16,7 @@ g) a kérelmező nyilatkozatát az engedély érvényességi idejére felajánlo
 
 h) a kérelmező nyilatkozatát arról, hogy vállalja az engedély kiadását követő évtől pénzügyi mérlege hitelesítésének kötelezettséget;
 
-i) a kérelmező nyilatkozatát az e törvény szerinti adatszolgáltatás feltételeinek ügyfélkapu nyitásához szükséges regisztrációs eljárást követően elektronikus úton történő kialakításáról.
+i) a kérelmező nyilatkozatát az e törvény szerinti adatszolgáltatás feltételeinek elektronikus úton történő kialakításáról.
 
 (2) Az (1) bekezdés g) pontja szerint felajánlott tevékenységi biztosíték készpénz vagy pénzügyi biztosíték lehet. Pénzügyi biztosítékként az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban székhellyel rendelkező hitelintézet által nyújtott bankgarancia és biztosítási szerződés alapján kiállított kötelezvény fogadható el. A tevékenységi biztosíték összegét a fémkereskedelmi hatóság külön jogszabályban meghatározott feltételek szerint a fémkereskedelmi engedély kiadását megelőzően, külön határozatban állapítja meg.
 

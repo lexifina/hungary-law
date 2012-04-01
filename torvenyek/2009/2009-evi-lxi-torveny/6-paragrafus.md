@@ -10,7 +10,7 @@ c) aki nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt,
 
 d) aki a 8. § (2) bekezdésében meghatározott tevékenységi biztosítékot rendelkezésre bocsátotta, letétbe helyezte vagy átutalta,
 
-e) aki a fémkereskedelmi tevékenység vonatkozó adatszolgáltatási kötelezettségét a fémkereskedelmi hatóság részére az ügyfélkapu nyitásához szükséges regisztrációs eljárást követően elektronikus úton teljesíti, és
+e) aki a fémkereskedelmi tevékenység vonatkozó adatszolgáltatási kötelezettségét a fémkereskedelmi hatóság részére elektronikus úton teljesíti, és
 
 f) aki rendelkezik a külön jogszabályban meghatározott képesítéssel vagy amely a külön jogszabályban meghatározott képesítéssel rendelkező személyt foglalkoztat.
 
