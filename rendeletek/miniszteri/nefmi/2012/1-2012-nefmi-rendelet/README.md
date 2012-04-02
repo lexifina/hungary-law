@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1-20-2V
 | 2012-01-11 | 2012-1-20-2V.1 | 1/2012. (I. 3.) NEFMI rendelet |
 | 2012-01-12 | 2012-1-20-2V.2 | 2010: CXXX. törvény |
 | 2012-04-01 | 2012-1-20-2V.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2012-04-02 | 2012-1-20-2V.4 | 2010: CXXX. törvény |
