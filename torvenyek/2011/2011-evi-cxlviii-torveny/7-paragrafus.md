@@ -1,1 +1,0 @@
-7. § A Hpt. 210/A. § (5)–(6) bekezdésében „az (1) bekezdésben meghatározott szerződés” szövegrész helyébe „a fogyasztóval kötött, lakáscélú hitel- és kölcsönszerződés vagy pénzügyi lízingszerződés” szöveg lép.
