@@ -1,1 +1,0 @@
-## „(5) A nonprofit formában működő LEADER HACS címmel rendelkező gazdasági társaság illetékességi területén szerveződő új HACS megalakulása során a 10. § (3)–(5), és (8) bekezdését, valamint a szervezési időszakra vonatkozó rendelkezés kivételével a 13. § (1)–(2), (4)–(5) bekezdését megfelelően alkalmazni kell.”
