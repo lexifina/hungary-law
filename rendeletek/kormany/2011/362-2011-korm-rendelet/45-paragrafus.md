@@ -2,11 +2,11 @@
 
 45. § (1)[^34]
 
-(2) 2012. április 1. napján hatályát veszti a közforgalmú személyszállítási utazási kedvezményekről szóló 85/2007. (IV. 25.) Korm. rendelet 3. § (1) bekezdésében a „doktorjelölti”, 3. § (1) bd) pontjában a „doktorjelöltje”, 1. számú melléklet „Tanulói és hallgatói, doktorjelölti jogviszony alapján igénybe vehető utazási kedvezmények” alcímében a „doktorjelölti”, 1. számú melléklet 15. pontjában a „doktorjelölt” szöveg.
+(2)[^35]
 
 (3) 2012. augusztus 15. napján hatályát veszti a közoktatásról szóló 1993. évi LXXIX. törvény végrehajtásáról szóló 20/1997. (II. 13.) Korm. rendelet 1–3/A. §-a.
 
-Melléklet a 362/2011. (XII. 30.) Korm. rendelethez[^35]
+Melléklet a 362/2011. (XII. 30.) Korm. rendelethez[^36]
 
 Igazolás
 
@@ -74,4 +74,5 @@ megbízott személynek az aláírása
 
 [^33]: A 44. § a 41. § (4) bekezdése alapján 2014. március 31-én lép hatályba.
 [^34]: A 45. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^35]: A melléklet az 59/2012. (III. 30.) Korm. rendelet 1. § (6), (7) és (8) bekezdése szerint módosított szöveg.
+[^35]: A 45. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A melléklet az 59/2012. (III. 30.) Korm. rendelet 1. § (6), (7) és (8) bekezdése szerint módosított szöveg.
