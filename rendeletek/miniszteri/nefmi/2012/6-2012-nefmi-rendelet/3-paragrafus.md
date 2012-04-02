@@ -1,1 +1,0 @@
-## „(3) Az engedélyező hatóság az egészségügyi szolgáltatóra vonatkozó, a 4. §-ban meghatározott adatokat, valamint az azokban bekövetkezett változásokat rögzíti az egészségügyi szolgáltatók országos nyilvántartásában.”
