@@ -1,6 +1,6 @@
 ## A szociális foglalkoztatási támogatás folyósítása
 
-16/B. §[^110] (1)[^111] A miniszter és a Hivatal főigazgatója a központi költségvetésről szóló törvény kihirdetését követő 3 munkanapon belül – figyelemmel a 16/E. §-ban foglaltakra – megállapodást köt a fejezeti kezelésű előirányzatnak a Hivatal részére történő átcsoportosításáról.
+16/B. §[^110] (1)[^111] A fejezeti kezelésű előirányzat kezelő szerve a Hivatal. Az erről szóló szerződést a miniszter és a Hivatal főigazgatója a központi költségvetésről szóló törvény kihirdetését követő 5 munkanapon belül köti meg.
 
 (2) A szociális foglalkoztatási támogatást a fenntartó részére a fenntartó székhelye szerint illetékes igazgatóság (a továbbiakban: folyósító igazgatóság) folyósítja.
 
@@ -37,7 +37,7 @@ f)[^115] a szociális intézmény, a fenntartó vagy a foglalkoztató nem biztos
 (10)[^116] A felfüggesztési ok bekövetkezéséről és megszűnéséről a Hivatal, illetve – a Hivatal egyidejű értesítése mellett – a szociális és gyámhivatal és az ellenőrző igazgatóság haladéktalanul értesíti a folyósító igazgatóságot.
 
 [^110]: A 16/B. §-t és az azt megelőző alcímet a 279/2009. (XII. 9.) Korm. rendelet 16. §-a iktatta be.
-[^111]: A 16/B. § (1) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja, a 21/2012. (II. 29.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
+[^111]: A 16/B. § (1) bekezdése a 60/2012. (III. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^112]: A 16/B. § (3) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
 [^113]: A 16/B. § (4) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
 [^114]: A 16/B. § (8) bekezdés e) pontja a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.

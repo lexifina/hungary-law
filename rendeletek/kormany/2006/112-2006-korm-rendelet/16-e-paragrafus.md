@@ -6,6 +6,7 @@ a) e rendelet II. részében a szociális intézmény fenntartója helyett a szo
 
 b) a szociális foglalkoztatási támogatást közvetlenül a miniszter biztosítja a szociális intézmény részére;
 
-c) a szociális foglalkoztatási támogatás folyósítása az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendelet központi költségvetési szervekre irányadó szabályai alapján történik.
+c)[^131] a szociális foglalkoztatási támogatás folyósítása az államháztartásról szóló törvény végrehajtásáról szóló kormányrendeletnek a központi költségvetési szervekre irányadó szabályai alapján történik.
 
 [^130]: A 16/E. §-t és az azt megelőző alcímet a 279/2009. (XII. 9.) Korm. rendelet 19. §-a iktatta be.
+[^131]: A 16/E. § c) pontja a 60/2012. (III. 30.) Korm. rendelet 8. §-a szerint módosított szöveg.
