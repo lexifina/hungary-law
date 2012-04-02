@@ -2,6 +2,8 @@
 
 ## 7. § Az Igénylő nem jogosult jövedelempótlékra, ha
 
-a) az Szja tv. 29/A. §-ában és 29/B. §-ában foglalt családi kedvezményt 206 250 forintot elérően vagy azt meghaladóan érvényesít,
+a)[^1] az Szja tv. 29/A. §-ában és 29/B. §-ában foglalt családi kedvezményre 206 250 forint vagy azt meghaladó összegben jogosult és a családi kedvezményt legalább egy kedvezményezett eltartott után érvényesíti, vagy
 
 b) 2011. évre vonatkozóan adójóváírást nem vett igénybe.
+
+[^1]: A 7. § a) pontja a 60/2012. (III. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
