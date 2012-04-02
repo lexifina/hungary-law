@@ -1,4 +1,4 @@
-## 11. § Hatályát veszti a belügyminiszter irányítása alatt álló egyes rendvédelmi szervek hivatásos állományú tagjai szolgálati és kiegészítő igazolványainak rendszeresítéséről, kiadásának és nyilvántartásának eljárási rendjéről szóló 35/2011. (X. 17.) BM rendelet.
+## 11. §[^1]
 
 1. melléklet a 14/2012. (III. 30.) BM rendelethez
 
@@ -73,3 +73,5 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID–1 méretű, töb
 | 26. |  | 319. | Veszprém Megyei Rendőr-főkapitányság |
 
 | 27. |  | 320. | Zala Megyei Rendőr-főkapitányság |
+
+[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
