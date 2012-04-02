@@ -1,3 +1,3 @@
 ## 37. Az egyes fémek begyűjtésével és értékesítésével összefüggő visszaélések visszaszorításáról szóló 2009. évi LXI. törvény módosítása
 
-64. § Hatályát veszti az egyes fémek begyűjtésével és értékesítésével összefüggő visszaélések visszaszorításáról szóló 2009. évi LXI. törvény 5. § (1) bekezdésében az „az ügyfélkapu nyitásához szükséges regisztrációs eljárást követően” szövegrész, 6. § (1) bekezdés e) pontjában az „az ügyfélkapu nyitásához szükséges regisztrációs eljárást követően” szövegrész, 8. § (1) bekezdés i) pontjában az „ügyfélkapu nyitásához szükséges regisztrációs eljárást követően” szövegrész.
+64. §
