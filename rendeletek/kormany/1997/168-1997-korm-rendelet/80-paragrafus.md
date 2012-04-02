@@ -10,7 +10,7 @@
 
 (6)[^219]
 
-(7)[^220] A megállapított nyugellátás visszamenőlegesen járó összegét csökkenteni kell annak az ellátásnak az összegével, amely ugyanarra az időszakra került folyósításra, feltéve, hogy a jogosultat a két ellátás egyidejűleg nem illethette volna meg. A beszámítást a nyugdíjfolyósító szerv határozattal rendeli el. Ha a visszamenőlegesen járó ellátás összege alacsonyabb, mint a beszámított összeg, a jogalap nélkül felvett különbözet visszafizetését a Tny. 84. §-ában meghatározott feltételek fennállása esetén el kell rendelni.
+(7)[^220] A megállapított nyugellátás visszamenőlegesen járó összegét csökkenteni kell annak a nyugdíjfolyósító szerv által folyósított ellátásnak az összegével, amely ugyanarra az időszakra került folyósításra, feltéve, hogy a jogosultat a két ellátás egyidejűleg nem illethette volna meg. A beszámítást a nyugdíjfolyósító szerv határozattal rendeli el. Ha a visszamenőlegesen járó ellátás összege alacsonyabb, mint a beszámított összeg, a jogalap nélkül felvett különbözet visszafizetését a Tny. 84. §-ában meghatározott feltételek fennállása esetén el kell rendelni.
 
 (8)[^221] A nyugdíjbiztosítási igazgatási szerv az ellátás jogerős határozattal elrendelt egyösszegű megtérítését a felszámolási (végelszámolási) eljárásban – önállóan vagy az adóhatóság megkeresésével – hitelezői igényként érvényesíti.
 
@@ -23,7 +23,7 @@
 [^217]: A 80. § (2) bekezdésének második mondata a 377/2004. (XII. 28.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg. A (2) bekezdés a 219/2005. (X. 13.) Korm. rendelet 7. §-a és 8. §-ának a) pontja szerint módosított szöveg, e módosító rendelet 6. § (3) bekezdése alapján a 2005. november 1-je után indult ügyekben és a megismételt eljárásban kell alkalmazni.
 [^218]: A 80. § (5) bekezdése a 377/2004. (XII. 28.) Korm. rendelet 18. §-a (4) bekezdésének i) pontja, illetve 18. §-a (5) bekezdésének f) pontja szerint módosított szöveg.
 [^219]: A 80. § (6) bekezdését a 172/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdés n) pontja hatályon kívül helyezte.
-[^220]: A 80. § új (7) bekezdését a 365/2007. (XII. 23.) Korm. rendelet 12. §-a iktatta be, egyidejűleg az eredeti (7)–(9) bekezdésének számozását (8)–(10) bekezdésre változtatta, szövege a 354/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^220]: A 80. § új (7) bekezdését a 365/2007. (XII. 23.) Korm. rendelet 12. §-a iktatta be, egyidejűleg az eredeti (7)–(9) bekezdésének számozását (8)–(10) bekezdésre változtatta, szövege a 354/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított, a 60/2012. (III. 30.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg.
 [^221]: A 80. § eredeti (7) bekezdésének számozását (8) bekezdésre változtatta a 365/2007. (XII. 23.) Korm. rendelet 12. §-a. A 80. § (8) bekezdése a 164/2009. (VIII. 14.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^222]: A 80. § eredeti (8) bekezdésének számozását (9) bekezdésre változtatta a 365/2007. (XII. 23.) Korm. rendelet 12. §-a.
 [^223]: A 80. § (9) bekezdése a 377/2004. (XII. 28.) Korm. rendelet 18. §-a (4) bekezdésének j) pontja szerint módosított szöveg. Az eredeti (9) bekezdés számozását (10) bekezdésre változtatta a 365/2007. (XII. 23.) Korm. rendelet 12. §-a, szövege a 266/2009. (XII. 1.) Korm. rendelet 10. § (2) bekezdés e) pontja szerint módosított szöveg.
