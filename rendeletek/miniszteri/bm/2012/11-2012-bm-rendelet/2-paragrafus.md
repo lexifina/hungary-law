@@ -1,3 +1,0 @@
-## 1. § Az egyes rendvédelmi szervek hivatásos állományú tagjai egészségi, pszichikai és fizikai alkalmasságáról, közalkalmazottai és köztisztviselői munkaköri egészségi alkalmasságáról, a szolgálat-, illetve keresőképtelenség megállapításáról, valamint az egészségügyi alapellátásról szóló 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelet (a továbbiakban: R1.) 7. melléklete az 1. melléklet szerint módosul.
-
-## 2. A Belügyminisztérium és a belügyminiszter irányítása, illetve felügyelete alá tartozó szervek fontos és bizalmas munkaköreiről és a nemzetbiztonsági ellenőrzés szintjének megállapításáról szóló 3/2010. (X. 21.) BM rendelet módosítása
