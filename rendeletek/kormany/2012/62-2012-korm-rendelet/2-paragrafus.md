@@ -1,0 +1,1 @@
+## 1. § A Kormány Magyarország Kormánya és a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) közötti közigazgatás-fejlesztési keretmegállapodás (a továbbiakban: Megállapodás) 2012. január 23-átől hatályos szövegét e rendelettel kihirdeti.
