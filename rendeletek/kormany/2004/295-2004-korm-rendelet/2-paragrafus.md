@@ -6,7 +6,7 @@ b)[^6] az egészségügyi felsőfokú szakirányú szakképzéssel kapcsolatos p
 
 c)[^7]
 
-d)[^8] a kábítószerek és pszichotróp anyagok gyógyászati és nem gyógyászati célú felhasználásával kapcsolatos engedélyek kiadása,
+d)[^8] a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységek engedélyezési eljárásának lefolytatása,
 
 e)[^9] egyes, külön jogszabályban meghatározott egészségügyi tevékenység végzésére jogosító bizonyítványoknak és okleveleknek a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény szerinti elismerése, valamint a törvény alapján hatósági bizonyítványok kiállítása, illetve a törvény alapján meghatározott esetekben előzetes ellenőrzés végzése.
 
@@ -38,7 +38,7 @@ b)[^14] szerint a működési nyilvántartást vezető államigazgatási szervk�
 [^5]: A 2. § (1) bekezdés a) pontja a 139/2011. (VII. 21.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (1) bekezdésének b) pontját a 45/2007. (III. 20.) Korm. rendelet 3. § (3) bekezdése hatályon kívül helyezte, újonnan a 122/2009. (VI. 12.) Korm. rendelet 24. §-a iktatta be.
 [^7]: A 2. § (1) bekezdés c) pontját a 182/2009. (IX. 10.) Korm. rendelet 384. § (1) bekezdése hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^8]: A 2. § (1) bekezdés d) pontja a 139/2011. (VII. 21.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. § (1) bekezdés d) pontja a 66/2012. (IV. 2.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 31. §-át.
 [^9]: A 2. § (1) bekezdés e) pontját a 266/2005. (XII. 14.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 19/2007. (II. 20.) Korm. rendelet 5. § (3) bekezdése. A 2. § (1) bekezdésének e) pontját újonnan a 33/2008. (II. 21.) Korm. rendelet 3. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 383. §-a, továbbá a 384. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^10]: A 2. § (2) bekezdését a 19/2007. (II. 20.) Korm. rendelet 1. §-a iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatva. A (2) bekezdést a 33/2008. (II. 21.) Korm. rendelet 6. § (2) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 337/2009. (XII. 29.) Korm. rendelet 13. § (1) bekezdése iktatta be.
 [^11]: A 2. § (3) bekezdését a 19/2007. (II. 20.) Korm. rendelet 1. §-a iktatta be. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezés 2007. április 1. napján lépett hatályba; az 5. § (1) bekezdése alapján a rendelkezést a 2007. április 1. napját követően indult ügyekben kell alkalmazni.
