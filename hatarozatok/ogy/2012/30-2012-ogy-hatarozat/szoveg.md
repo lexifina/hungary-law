@@ -1,0 +1,7 @@
+Magyarország Országgyűlése a Hajdúdorogi Görögkatolikus Egyházmegye felállításának századik évfordulójára emlékezve, kinyilvánítja, hogy a magyar görögkatolikus közösség társadalmi szerepvállalása és az a missziós szolgálat, melyet különösen az ifjúság, a családok és hátrányos helyzetben élő embertársaink körében végez, felbecsülhetetlen érték az egész ország számára.
+
+Magyarország Országgyűlése tisztelettel adózik azon személyek, kiemelten a hajdúdorogi görögkatolikus közösség emléke előtt, akik száz évvel ezelőtt fáradhatatlanul munkálkodtak a Hajdúdorogi Görögkatolikus Egyházmegye megalapításán, majd a nemzeti nyelvű, magyar liturgia bevezetésén. Magyarország Országgyűlése elismerve a hajdúdorogi közösség ragaszkodását hitéhez és magyarságához, kinyilvánítja, hogy Hajdúdorog a „görögkatolikus hitéhez leghűségesebb város” és ezt a címet a jövőben büszkén használhatja.
+
+Az Országgyűlés az elismeréssel kinyilvánítja, hogy Máriapócs a Kárpát-medencei görögkatolikusok szeretett lelki központja, szent zarándokhelye, Nemzeti Kegyhely és az egyetemes magyarság egyik lelki-kulturális központja. A Máriapócsi Bazilika kiemelt jelentőségű nemzeti kincs.
+
+Magyarország Országgyűlése folyamatosan figyelemmel kíséri a máriapócsi Nemzeti Kegyhely és a kárpát-medencei magyar görögkatolikus egyházi örökség megóvását és különösen a felnövekvő nemzedék részére történő minél szélesebb körű megismertetését.
