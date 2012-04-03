@@ -6,9 +6,13 @@
 
 (4)[^21] E rendeletnek a zöldség-gyümölcs termelői csoportok támogatásáról szóló 24/2010. (III. 19.) FVM rendelet módosításáról szóló 28/2012. (III. 24.) VM rendelet (a továbbiakban: 28/2012. (III. 24.) VM rendelet) által megállapított 2. §-át, 4. §-át, 5. § (3) bekezdését, 6. § (2)–(3) bekezdését, 7. § (2)–(4) bekezdését, 9. § (5) bekezdését és 9/A. §-át a 28/2012. (III. 24.) VM rendelet hatálybalépésekor[^22] folyamatban lévő ügyekben is alkalmazni kell.
 
+(5)[^23] E rendeletnek az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás (SAPS), valamint az ahhoz kapcsolódó kiegészítő nemzeti támogatások (top up) 2012. évi igénybevételével kapcsolatos egyes kérdésekről szóló 32/2012. (IV. 2.) VM rendelet (a továbbiakban: 32/2012. (IV. 2.) VM rendelet) által módosított 5. § (3) bekezdését a 32/2012. (IV. 2.) VM rendelet hatálybalépésekor[^24] folyamatban lévő ügyekben is alkalmazni kell.
+
 [^17]: A 13. §-t a 12/2011. (II. 18.) VM rendelet 11. §-a iktatta be.
 [^18]: A hatálybalépés napja: 2011. február 19.
 [^19]: A hatálybalépés napja: 2011. február 19.
 [^20]: A hatálybalépés napja: 2011. február 19.
 [^21]: A 13. § (4) bekezdését a 28/2012. (III. 24.) VM rendelet 8. §-a iktatta be.
 [^22]: A hatálybalépés napja: 2012. március 25.
+[^23]: A 13. § (5) bekezdését a 32/2012. (IV. 2.) VM rendelet 40. § (2) bekezdése iktatta be.
+[^24]: A hatálybalépés napja: 2012. április 3.
