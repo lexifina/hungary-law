@@ -1,0 +1,9 @@
+# 32/2012. (IV. 2.) VM rendelet
+
+az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás (SAPS), valamint az ahhoz kapcsolódó kiegészítő nemzeti támogatások (top up) 2012. évi igénybevételével kapcsolatos egyes kérdésekről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-32-20-2Y
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-04-03 | 2012-32-20-2Y.1 | 32/2012. (IV. 2.) VM rendelet |
