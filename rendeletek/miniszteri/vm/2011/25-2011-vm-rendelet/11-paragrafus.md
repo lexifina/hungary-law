@@ -1,9 +1,0 @@
-## 4. Hízottbikatartás támogatása
-
-11. § (1) A hízottbikatartás támogatása termeléstől elválasztva, történelmi bázis és kiegészítő történelmi bázis jogosultság alapján kerül megállapításra. A mezőgazdasági termelő a rendelkezésére álló egyéni történelmi bázisa alapján a mérték rendeletben meghatározott mértékű támogatásra jogosult.
-
-(2) A mezőgazdasági termelőt az (1) bekezdés szerinti támogatás igénybevétele esetén hízottbika-tartási kötelezettség nem terheli.
-
-(3) Ha a mezőgazdasági termelő termelést folytat, az (1) bekezdés szerinti támogatás feltétele, hogy gondoskodjon az állattenyésztésről szóló 1993. évi CXIV. törvény (a továbbiakban: állattenyésztési törvény) szerinti apaállat-használatról, és a tenyészetében lévő szarvasmarha-állománynak a szarvasmarha-fajok egyedeinek jelöléséről és az Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 99/2002. (XI. 5.) FVM rendelet (a továbbiakban: szarvasmarha ENAR rendelet) szerinti jelöléséről és nyilvántartásáról.
-
-(4) Amennyiben a mezőgazdasági termelő más szarvasmarha-tartási támogatásban is részt vesz, az ellenőrzések során a támogatási feltételeknek való meg nem felelés esetén az áthúzódó szankciók tekintetében a támogatási összeg meghatározására a 73/2009/EK tanácsi rendeletnek a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási és ellenőrzési rendszer tekintetében, az említett rendeletben létrehozott, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról, valamint az 1234/2007/EK tanácsi rendeletnek a kölcsönös megfeleltetés tekintetében, a borágazatban meghatározott támogatási rendszer keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2009. november 30-i 1122/2009/EK bizottsági rendelet (a továbbiakban: 1122/2009/EK rendelet) 63., 65. és 74. cikke szerinti eljárást kell alkalmazni.
