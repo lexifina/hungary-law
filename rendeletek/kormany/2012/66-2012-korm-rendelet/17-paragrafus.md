@@ -1,0 +1,9 @@
+17. § (1) A kábítószer-vizsgáló laboratóriumok nemzetközi körkísérleteihez és analitikai célú tevékenységéhez szükséges, az 1. melléklet szerinti anyagot tartalmazó minták, standardok szállításához az EEKH által kiadott eseti export vagy import engedély szükséges.
+
+(2) Az 1. melléklet szerinti anyagot tartalmazó egyedi mintáknak a (3) bekezdés szerinti személy által történő szállítása kémiai profil meghatározás vagy rendvédelmi szerv feladatvégzése céljából a rendőrség által kiadott kiviteli vagy behozatali, illetve kiszállítási vagy beérkezési engedély birtokában történhet. A rendőrség által kiadott engedély tartalmazza az anyag vagy készítmény hatóanyagának azonosításra alkalmas nevét, nettó és bruttó (lezárt, azonosítóval ellátott csomagolás) tömegét, az országhatár átlépésének időpontját és a szállításra felhatalmazott személy(ek) nevét.
+
+(3) Az (2) bekezdésben meghatározott egyedi minták szállítását
+
+a) a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény szerinti összekötő tisztek végezhetik, vagy
+
+b) a rendőrség, illetve a vámszerv olyan hivatásos állományú tagjai végezhetik, akiknek az országos rendőrfőkapitány, illetve a vámszerv elnöke erre engedélyt adott.
