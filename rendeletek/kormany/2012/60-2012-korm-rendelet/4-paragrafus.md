@@ -1,7 +1,9 @@
-## 3. § A TnyR. 2. melléklete helyébe az 1. melléklet lép.
+## 3. §[^3]
 
-4. § (1) A TnyR. 80. § (7) bekezdésében az „az ellátásnak” szövegrész helyébe az „a nyugdíjfolyósító szerv által folyósított ellátásnak” szöveg lép.
+## 4. §[^4]
 
-(2)[^3]
+(2)[^5]
 
-[^3]: A 4. § (2) bekezdése a 18. § (2) bekezdése alapján 2012. május 1-jén lép hatályba.
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § (2) bekezdése a 18. § (2) bekezdése alapján 2012. május 1-jén lép hatályba.

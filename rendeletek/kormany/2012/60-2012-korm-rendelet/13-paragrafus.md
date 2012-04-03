@@ -1,3 +1,3 @@
-## 12. § A Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló 52/2011. (III. 31.) Korm. rendelet 3. § (2) bekezdés első mondata helyébe a következő rendelkezés lép:
+## 12. §[^13]
 
-## „Özvegyi ellátásra az elhunyt jogszerző özvegye jogosult, ha megfelel az özvegyi nyugdíjra való jogosultság vagy az özvegyi nyugdíj feléledése Tny.-ben meghatározott feltételeinek azzal, hogy a Tny. 47. § (1) bekezdésének megfelelő alkalmazásával megállapított özvegyi ellátás megszűnését követően az özvegyi ellátás megállapítására és feléledésére – az egyéb feltételek teljesítése esetén – a Tny. 47. § (2) bekezdés a) pontja szerinti esetben kerül sor.”
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
