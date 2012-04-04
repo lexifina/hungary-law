@@ -18,8 +18,6 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: azonnal
 
-4. az állami vagyonról szóló 2007. évi CVI. törvény 24. § (2) bekezdés e) pontja alapján úgy dönt, hogy az 1. pont szerint a Magyar Állam tulajdonába kerülő, Budapest, IX. kerület 38293/75 hrsz. alatt nyilvántartott, természetben 1091 Budapest, Üllői út 129. és 1097 Budapest, Könyves Kálmán körút 34–36. szám alatt található ingatlant az alább megjelölt gazdasági társaság vagyonkezelésébe adja, és az ingatlan vagyonkezelésére a Magyar Nemzeti Vagyonkezelő Zrt. versenyeztetés mellőzésével 50 éves határozott időtartamra kössön vagyonkezelési szerződést a FRADIVÁROS Vagyonkezelő Zártkörűen Működő Részvénytársasággal (székhely: 1091 Budapest, Üllői út 129.; cégjegyzékszám: Cg. 01-10-047119).
+4.[^2]
 
-Felelős: az állami vagyonért felelős miniszter, egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos
-
-Határidő: 2011. december 31.
+[^2]: A 4. pontot a Kormány az 1096/2012. (IV. 4.) Korm. határozatának 1. pontjával visszavonta.
