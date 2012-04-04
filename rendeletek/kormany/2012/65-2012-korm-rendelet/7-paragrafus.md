@@ -1,0 +1,1 @@
+## 6. § A polgári felhasználású robbanóanyagok forgalmazásáról és felügyeletéről szóló 191/2002. (IX. 4.) Korm. rendelet módosításáról szóló 144/2009. (VII. 10.) Korm. rendelet (a továbbiakban: R1.) 2–5. §-a, 6. § (4) és (5) bekezdése és melléklete nem lép hatályba.
