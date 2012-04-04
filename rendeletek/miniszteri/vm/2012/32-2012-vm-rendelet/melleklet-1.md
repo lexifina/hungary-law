@@ -1,4 +1,4 @@
-## 41. § Hatályát veszti az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás (SAPS), valamint az ahhoz kapcsolódó kiegészítő nemzeti támogatások (top up) 2011. évi igénybevételével kapcsolatos egyes kérdésekről szóló 25/2011. (IV.7.) VM rendelet.
+## 40–41. §[^1]
 
 1. melléklet a 32/2012. (IV. 2.) VM rendelethez
 
@@ -131,3 +131,5 @@ ha KNTCSM>(IKNT+KNTETÖK)
 akkor
 
 KNTFT=(KNTTÖ–(KNTCSM–(IKNT+KNTETÖK)))
+
+[^1]: A 40–41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
