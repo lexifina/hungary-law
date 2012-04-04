@@ -1,4 +1,4 @@
-## 33. § Hatályát veszti a kábítószerekkel és pszichotróp anyagokkal végezhető tevékenységekről szóló 142/2004. (IV. 29.) Korm. rendelet.
+## 32–33. §[^1]
 
 ## 34. § Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -9,3 +9,5 @@ b) a Tanács 2008. március 3-i 2008/206/IB határozata (2008. március 3.) az 1
 c) a Tanács 2010. december 2-i 2010/759/IB határozata (2010. december 2.) a 4-metilmetkatinon (mefedron) ellenőrzési intézkedések alá vonásáról,
 
 d) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról.
+
+[^1]: A 32–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
