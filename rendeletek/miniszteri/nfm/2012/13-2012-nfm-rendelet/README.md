@@ -1,0 +1,9 @@
+# 13/2012. (III. 6.) NFM rendelet
+
+a légijárművek és légijármű komponensek karbantartásának személyi jogosításairól és képzési követelményeiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-13-20-2W
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-04-05 | 2012-13-20-2W.1 | 13/2012. (III. 6.) NFM rendelet |

@@ -1,0 +1,9 @@
+## 17. Karbantartás oktató szervezet
+
+23. § (1) Alapismereti képzés és vizsgáztatás esetében karbantartás oktató szervezeti engedélyt az a szervezet kaphat, amelyik rendelkezik a 2042/2003/EK bizottsági rendelet IV. Melléklete szerint a légiközlekedési hatóság által kiadott, alapismereti képzésre és vizsgáztatásra jogosító engedéllyel, valamint az e rendelet szerint jóváhagyott alaptanfolyammal és alapvizsgával.
+
+(2) Az (1) bekezdésben foglaltakon túl az egyes modulokhoz tartozóan alapismereti vizsgáztatásra karbantartás oktató szervezeti engedélyt oktatási tevékenységének megfelelően az a szervezet is kaphat, amelyik közép- vagy felsőfokú oktatásban részt vesz és a 26. § (1) bekezdésében meghatározott feltételeknek megfelel, továbbá rendelkezik vizsgaanyagok készítésére és kezelésére, és a vizsgáztatást végző személyek kiválasztására, megkövetelt képesítésére és megbízására vonatkozó jóváhagyott eljárásokkal.
+
+(3) Légijármű és hajtómű típustanfolyam és típusvizsga esetében karbantartás oktató szervezeti engedélyt az a szervezet kaphat, amelyik rendelkezik a 2042/2003/EK bizottsági rendelet IV. Melléklete szerint a légiközlekedési hatóság által kiadott, légijármű típustanfolyamra és vizsgáztatásra jogosító engedéllyel, valamint az e rendelet szerint jóváhagyott légijármű vagy hajtómű típustanfolyammal és típusvizsgával.
+
+(4) A (3) bekezdésben foglaltakon túl egyszerű könnyű légijárművekre, hőlégballonokra, gázballonokra és léghajókra légijármű típusvizsgáztatásra karbantartás oktató szervezeti engedélyt az a szervezet is kaphat, amelyik rendelkezik az adott légjárműtípusra karbantartói engedéllyel és a 26. § (1) bekezdésében meghatározott feltételeknek megfelel, továbbá rendelkezik vizsgaanyagok készítésére és kezelésére, és a vizsgáztatást végző személyek kiválasztására, megkövetelt képesítésére és megbízására vonatkozó jóváhagyott eljárásokkal.

@@ -1,0 +1,11 @@
+15. § (1) A B-SLA és a B-BL kategóriájú szakszolgálati engedély kiadásához a kérelmezőnek rendelkeznie kell a kérelmezett kategóriának – B-BL kategória esetében a kérelmezett alkategóriának is – megfelelő, a polgári légijárművek karbantartása területén szerzett tapasztalattal. A tapasztalatnak gyakorlati jellegűnek kell lennie, vagyis a légijármű karbantartási feladatainak tipikus keresztmetszetét kell lefednie.
+
+(2) A B-SLA és B-BL kategóriájú szakszolgálati engedély kiadásához szükséges polgári légijármű karbantartási tapasztalati követelmény három év. A B-SLA kategóriájú légijármű karbantartó szakszolgálati engedélybe típuscsoport jogosítás bejegyzéséhez a polgári légijármű karbantartási tapasztalati követelmény öt év.
+
+(3) A B-SLA és a B-BL kategóriájú szakszolgálati engedély esetében a szükséges tapasztalati időből legalább 1 év friss tapasztalatnak kell lennie.
+
+(4) A B-SLA és a B-BL kategóriájú szakszolgálati engedély esetében a légiközlekedési hatóság elfogadhatja az állami légijármű karbantartási környezetben szerzett légijármű karbantartási tapasztalatot, amennyiben meggyőződött arról, hogy az ilyen tapasztalat egyenértékű az e rendeletben előírttal, de ez esetben legalább egy év kiegészítő polgári légijármű karbantartási tapasztalat szükséges a polgári légijármű karbantartási környezet megértésének biztosítására.
+
+(5) A (2) bekezdésben meghatározott tapasztalati követelményt a légiközlekedési hatóság kérelemre enyhíti, amennyiben meggyőződött arról, hogy a kérelmező e rendelet szerint jóváhagyott alapismereti képzésben vagy más, iskolarendszerű műszaki képzésben részesült. Az enyhítés mértéke e rendelet szerint jóváhagyott képzés esetében az előírt tapasztalati idő legfeljebb 65%-a, más, iskolarendszerű műszaki képzés esetében legfeljebb 30%-a lehet. A friss tapasztalatra vonatkozó követelmények tekintetében enyhítés nem alkalmazható.
+
+(6) Amennyiben a kérelmező rendelkezik e rendelet szerint kiadott szakszolgálati engedéllyel, az újonnan bejegyzendő B-SLA vagy B-BL kategória (2) bekezdésben meghatározott tapasztalati követelményei az (5) bekezdésben meghatározott csökkentést követően további 50%-kal csökkenthető. Ebben az esetben a (3) bekezdésben foglaltaktól eltérően hat hónap friss tapasztalat szükséges.

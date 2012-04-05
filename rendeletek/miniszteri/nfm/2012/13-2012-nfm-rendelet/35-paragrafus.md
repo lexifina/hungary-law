@@ -1,0 +1,5 @@
+35. § (1) E rendelet hatálybalépése előtt, a légi járművek és légi jármű berendezések karbantartásának személyi jogosítási és képzési követelményeiről szóló 6/2004. (I. 30.) GKM rendelet szerinti D1, D2, E1 vagy E2 kategóriákban kiadott, e rendelet hatálybalépésekor érvényes üzemképesség tanúsító megbízások továbbra is érvényesek. Ilyen megbízás esetében a légiközlekedési hatóság teljesítettnek fogadja el az adott kategóriára e rendeletben előírt alapképzettségi és tapasztalati követelményeket. Az ilyen megbízás az adott kategórián belül új komponensre az e rendelet szerinti speciális képzési követelmények teljesítését követően kiterjeszthető.
+
+(2) Új kategóriában megbízás csak e rendelet szerinti követelmények teljesítése esetén adható ki.
+
+(3) A hatóság kérelemre teljes felmentést ad az adott kategóriára vonatkozó alapképzettségi követelmények alól azoknak, akik rendelkeztek a légi járművek és légi jármű berendezések karbantartásának személyi jogosítási és képzési követelményeiről szóló 6/2004. (I. 30.) GKM rendelet szerint D1, D2, E1 vagy E2 kategóriákban kiadott üzemképesség tanúsító megbízással.

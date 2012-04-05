@@ -1,0 +1,3 @@
+36. § (1) Az e rendelet hatálybalépése előtt kiadott, hőlégballonok, gázballonok és léghajók üzemképesség tanúsításra jogosító megbízások érvényességi idejük lejártáig, de legkésőbb e rendelet hatálybalépését követő öt évig érvényesek.
+
+(2) Az e rendelet hatálybalépése előtt kiadott, hőlégballonok, gázballonok vagy léghajók üzemképesség tanúsításra jogosító megbízással rendelkező személy részére abban az esetben is kiadható B-BL kategóriájú szakszolgálati engedély „hőlégballonok csoport”, „gázballonok csoport” vagy „léghajók csoport” típuscsoport jogosítás bejegyzéssel, amennyiben a kérelem benyújtásának időpontjában legalább tíz éve rendelkezik hőlégballonok, gázballonok vagy léghajók üzemképesség tanúsítására jogosító megbízással.
