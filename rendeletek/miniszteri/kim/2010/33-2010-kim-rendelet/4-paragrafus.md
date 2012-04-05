@@ -10,4 +10,6 @@ b) „H” a Magyar hozzátartozói igazolvány esetén.
 
 (4) Az okmányszám hat számjegyből álló része az igazolvány betűjelen belüli sorszáma (000001–999999).
 
-(5) Az okmányszám feltüntetése nyomdai úton az igazolvány 2. oldalán, perforálással az igazolvány 3–20. oldalain, valamint a hátsó előzéken, továbbá az igazolvány megszemélyesítésekor lézergravírozással az adatoldal okmányszám rovatában történik.
+(5)[^1] Az okmányszám feltüntetése nyomdai úton az igazolvány 3. oldalán, perforálással az igazolvány 3–20. oldalain, valamint a hátsó előzéken, továbbá az igazolvány megszemélyesítésekor lézergravírozással az adatoldal okmányszám rovatában történik.
+
+[^1]: A 4. § (5) bekezdése a 20/2012. (IV. 4.) KIM rendelet 1. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-## 11. §[^2] E rendeletnek a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény hatálya alá tartozó személyek igazolványának tartalmi és formai követelményeiről szóló 33/2010. (XII. 31.) KIM rendelet módosításáról szóló 33/2011. (XI. 24.) KIM rendelettel (a továbbiakban: 1. módosító rendelet) megállapított rendelkezései az 1. módosító rendelet hatálybalépését megelőzően kiadott okmányok érvényességét nem érinti.
+## 12. §[^4] E rendeletnek a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény hatálya alá tartozó személyek igazolványának tartalmi és formai követelményeiről szóló 33/2010. (XII. 31.) KIM rendelet módosításáról szóló 20/2012. (IV. 4.) KIM rendelettel (a továbbiakban: 2. módosító rendelet) megállapított rendelkezései a 2. módosító rendelet hatálybalépését megelőzően kiadott okmányok érvényességét nem érinti.
 
-1. melléklet a 33/2010. (XII. 31.) KIM rendelethez[^3]
+1. melléklet a 33/2010. (XII. 31.) KIM rendelethez[^5]
 
 A „Magyar igazolvány” és a „Magyar hozzátartozói igazolvány” megjelenése
 
@@ -560,5 +560,5 @@ A hátsó borító belső része:
 
 Hivatalos bejegyzések
 
-[^2]: A 11. §-t a 33/2011. (XI. 24.) KIM rendelet 1. §-a iktatta be.
-[^3]: Az 1. melléklet a 33/2011. (XI. 24.) KIM rendelet 2. §-a szerint módosított szöveg.
+[^4]: A 12. §-t a 20/2012. (IV. 4.) KIM rendelet 2. §-a iktatta be.
+[^5]: Az 1. melléklet a 33/2011. (XI. 24.) KIM rendelet 2. §-a szerint módosított szöveg.
