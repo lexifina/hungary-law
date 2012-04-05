@@ -1,0 +1,1 @@
+## 9. § Az Ávr. 82. §-ában foglaltakon túl a miniszter jogosult – az általa meghatározott egyéb esetek mellett – a támogatási szerződéstől elállni, azt felmondani, ha a kérelmező a 4. § (3) bekezdés a)–c) pontja alapján adott nyilatkozatok bármelyikét visszavonja.
