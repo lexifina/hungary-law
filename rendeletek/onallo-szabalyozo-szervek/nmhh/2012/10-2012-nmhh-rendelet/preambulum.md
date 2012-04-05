@@ -1,0 +1,1 @@
+A mozgóképről szóló 2004. évi II. törvény 38. § b), c) és f) pontjában kapott felhatalmazás alapján, a mozgóképről szóló 2004. évi II. törvény 18. § (1) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
