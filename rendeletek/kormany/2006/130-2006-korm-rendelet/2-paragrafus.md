@@ -28,7 +28,10 @@ l) ellátja a Svájci-Magyar Együttműködési Program tekintetében a Nemzeti 
 
 m) ellátja az INTERREG közösségi kezdeményezés programok irányító hatóságának és nemzeti hatóságának feladatait, gondoskodik azok utánkövetéséről,
 
-n) ellátja az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 85. § b) pontjában meghatározott feladathoz kapcsolódó rendszerek fejlesztési, működtetési és adminisztrációs tevékenységeit.
+n) ellátja az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 85. § b) pontjában meghatározott feladathoz kapcsolódó rendszerek fejlesztési, működtetési és adminisztrációs tevékenységeit,
+
+o)[^3] ellátja a budapesti 4-es – Kelenföldi pályaudvar–Bosnyák tér közötti – metróvonal megépítése projekt tekintetében a Magyar Állam projektbeli feladatait.
 
 [^1]: Az 1. § a 370/2010. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^2]: A 2. § a 370/2010. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^3]: A 2. § o) pontját a 67/2012. (IV. 5.) Korm. rendelet 11. §-a iktatta be.
