@@ -1,6 +1,6 @@
 ## A TeIR működtetésével kapcsolatos feladatok
 
-11. §[^25] (1) A TeIR működtetéséért a miniszter a felelős.
+11. §[^30] (1) A TeIR működtetéséért a miniszter a felelős.
 
 (2) A Kormány a TeIR – mint rendszer – üzemeltetőjeként a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Korlátolt Felelősségű Társaságot jelöli ki.
 
@@ -36,4 +36,4 @@ d) a költségtérítéses szolgáltatásokhoz való hozzáférés módját és
 
 e) a költségtérítés mértéke meghatározásának módját.
 
-[^25]: A 11. § a 65/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^30]: A 11. § a 65/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított szöveg.

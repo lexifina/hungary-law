@@ -4,7 +4,7 @@
 
 | 1. | Adatkezelő szervezet | Adatgyűjtés megnevezése | Az 1. számú melléklet témaköre | Adatátadás gyakorisága | Vonatkoztatási egység | Átadási határnap |
 
-| 2. | ÁFSZ | Munkaügyi központok kirendeltségei | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 2. | NFSZ | Munkaügyi központok kirendeltségei | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 3. | ÁNTSZ | Az alapellátásban működő szolgáltatók adatai szakmákban | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -12,27 +12,23 @@
 
 | 5. | ÁNTSZ | A fekvőbeteg ellátásban működő szolgáltatók adatai szakmákban | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 6. | ÁNTSZ | Népegészségügyi szűrővizsgálatok adatai | 2.3.2. | évente vagy frissítést követően | megye | frissítést követő 90. nap |
-
 | 7. | ÁNTSZ, OKI | Ivóvíz minősége, ivóvíz-indikátorok (bór, nitrit, fluorid, arzén, ammónium), határérték feletti települések | 4.9.1. | évente vagy frissítést követően | település, előfordulási hely | frissítést követő 90. nap |
 
 | 8. | ÁNTSZ, OKI | Fürdők vizének minősége | 4.9.1. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 9. | APEH | A társasági adóbevallások főbb adatai | 1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 9. | NAV | A társasági adóbevallások főbb adatai | 1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 10. | APEH | Személyi jövedelemadó bevallások főbb adatai | 1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 10. | NAV | Személyi jövedelemadó bevallások főbb adatai | 1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 11. | APEH | Egyszerűsített vállalkozási adó bevallások főbb adatai | 1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 11. | NAV | Egyszerűsített vállalkozási adó bevallások főbb adatai | 1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 12. | DK | Térségi területfelhasználási kategóriák térképi lehatárolása az elfogadott területrendezési tervekben | 6.2. | frissítést követően | ország, kiemelt térség, megye | frissítést követő 90. nap |
 
 | 13. | DK | A műszaki infrastruktúra-hálózatok nyomvonalas és az egyedi építmények térképi lehatárolása az elfogadott területrendezési tervekben | 6.2. | frissítést követően | ország, kiemelt térség, megye | frissítést követő 90. nap |
 
-| 14. | DK | Térségi szabályozási övezetek térképi lehatárolása az elfogadott területrendezési tervekben | 6.3. | frissítést követően | ország, kiemelt térség, megye | frissítést követő 90. nap |
-
 | 15. | Elektronikus hírközlési szolgáltatók | Elektronikus hírközlési hálózatok nyomvonalának digitális térképi és műszaki kapacitás adatai | 3.2.2. | frissítést követően | objektum | frissítést követő 90. nap |
 
-| 16. | Energia Központ | Kőolaj-, földgáz-, szén-, villamos energia-termelés, megújuló energiahordozókból történő villamos energia-termelés | 3.3. | frissítést követően | ország | frissítést követő 90. nap |
+| 16. | MEH | Kőolaj-, földgáz-, szén-, villamos energia-termelés, megújuló energiahordozókból történő villamos energia-termelés | 3.3. | frissítést követően | ország | frissítést követő 90. nap |
 
 | 17. | FGSZ | Magyarország nemzetközi és hazai, illetve térségi jelentőségű földgáz szállítóvezetékeinek nyomvonalas térképe | 3.3.3. | évente | ország, kiemelt térség, megye | június 1. |
 
@@ -42,29 +38,29 @@
 
 | 20. | FÖMI | Parlagfű-veszélyeztetettség | 4.5. | évente | település | március 1. |
 
-| 21. | FH | Munkanélküliség adatok | 1.1.4. | negyedévente | település | frissítést követő 30. nap |
+| 21. | NMH | Munkanélküliség adatok | 1.1.4. | negyedévente | település | frissítést követő 30. nap |
 
-| 22. | FH | Kistérségi foglalkoztatottsági és munkanélküliségi információs rendszer | 1.1.4. | negyedévente | kistérség | frissítést követő 30. nap |
+| 22. | NMH | Kistérségi foglalkoztatottsági és munkanélküliségi információs rendszer | 1.1.4. | negyedévente | kistérség | frissítést követő 30. nap |
 
-| 23. | FVM | Nitrát-érzékenységi térkép | 4.5. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 23. | VM | Nitrát-érzékenységi térkép | 4.5. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 24. | FVM | Új Magyarország Vidékfejlesztési Program (ÚMVP) | 5.2. | havonta | projekt | frissítést követő 15. nap |
+| 24. | VM | Új Magyarország Vidékfejlesztési Program (ÚMVP) | 5.2. | havonta | projekt | frissítést követő 15. nap |
 
 | 25. | HM Térképészeti Kft. | DTA–50 Digitális Térképészeti Adatbázis | számos témakör | frissítést követően | objektum | frissítést követő 90. nap |
 
 | 26. | HM Térképészeti Kft., FÖMI | Légifelvételek, űrfelvételek | számos témakör | frissítést követően | ország | frissítést követő 90. nap |
 
-| 27. | IRM | Rendőrkapitányságok területi elhelyezkedése, körzetei | 2.4.6. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 27. | BM | Rendőrkapitányságok területi elhelyezkedése, körzetei | 2.4.6. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 28. | KHEM | Magyarország vízi útjainak térképe szakaszonként, folyamkilométer-szelvényezéssel, megnevezéssel és osztályba sorolással, továbbá a következő elemeket pontként ábrázolva: – nemzetközi és országos jelentőségű közforgalmú kikötők, – térségi közforgalmú kikötők, – személyforgalmi kikötők, – határkikötők, illetve vízi határátkelő helyek, – kompátkelőhelyek. | 3.1.3. | évente | ország, kiemelt térség, megye, objektum | június 1. |
+| 28. | NFM | Magyarország vízi útjainak térképe szakaszonként, folyamkilométer-szelvényezéssel, megnevezéssel és osztályba sorolással, továbbá a következő elemeket pontként ábrázolva: – nemzetközi és országos jelentőségű közforgalmú kikötők, – térségi közforgalmú kikötők, – személyforgalmi kikötők, – határkikötők, illetve vízi határátkelő helyek, – kompátkelőhelyek. | 3.1.3. | évente | ország, kiemelt térség, megye, objektum | június 1. |
 
-| 29. | KHEM | Légi közlekedési és repülőtéri adatok | 3.1.4 | évente vagy frissítést követően | objektum | frissítést követő 90. nap |
+| 29. | NFM | Légi közlekedési és repülőtéri adatok | 3.1.4 | évente vagy frissítést követően | objektum | frissítést követő 90. nap |
 
-| 30. | KHEM | Magyarország hatályos engedéllyel rendelkező működő reptereinek térképi ábrázolása poligonként, a repülőterek megnevezésének feltüntetésével: – országos jelentőségű polgári repülőtér, – kereskedelmi (nemzetközi) repülőtérré fejleszthető repülőtér, – állami repülések céljára szolgáló repülőtér, – egyéb nyilvános és nem nyilvános polgári repülőtér. | 3.1.4. | évente | ország, kiemelt térség, megye, objektum | június 1. |
+| 30. | NFM | Magyarország hatályos engedéllyel rendelkező működő reptereinek térképi ábrázolása poligonként, a repülőterek megnevezésének feltüntetésével: – országos jelentőségű polgári repülőtér, – kereskedelmi (nemzetközi) repülőtérré fejleszthető repülőtér, – állami repülések céljára szolgáló repülőtér, – egyéb nyilvános és nem nyilvános polgári repülőtér. | 3.1.4. | évente | ország, kiemelt térség, megye, objektum | június 1. |
 
 | 31. | Kincstár | A Kincstár által működtetett monitoring rendszer | 5.2. | havonta | projekt | frissítést követő 15. nap |
 
-| 32. | Kincstár, APEH | Részletezett helyi adó adatok | 1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 32. | Kincstár, NAV | Részletezett helyi adó adatok | 1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 33. | KKK | Magyarország országos közúthálózatának térképi adatbázisa szelvényezéssel a következő elemek nyomvonalas, illetve pontszerű ábrázolásával: – gyorsforgalmi utak, – főutak, – mellékutak, – gyorsforgalmi úton, főúton lévő hidak, – gyorsforgalmi és főúthálózaton lévő határátkelők és határátlépési pontok. | 3.1.1. | évente | ország, kiemelt térség, megye, objektum | június 1. |
 
@@ -84,8 +80,6 @@
 
 | 41. | KSH | Általános Mezőgazdasági Összeírás főbb adatkörei | 1.3.1. | a felmérés gyakorisága szerint | település | frissítést követő 90. nap |
 
-| 42. | KSH | Megyei és Regionális Adatbázis Rendszer (MR-STAR) | számos témakör | évente vagy frissítést követően | megye | frissítést követő 90. nap |
-
 | 43. | KSH | Településstatisztikai Adatbázis Rendszer (T-STAR) | számos témakör | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 44. | KSH | Külföldiek magyarországi turisztikai fogyasztása | 1.3.5. | évente vagy frissítést követően | ország | frissítést követő 90. nap |
@@ -102,27 +96,27 @@
 
 | 50. | KSH | Férőhelyek száma a 4 és 5 csillagos szállodákban | 1.3.5. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 51. | KvVM | Országos ökológiai hálózat adatai és térképe (magterület, ökológiai folyosó, pufferterület) | 4.8. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 51. | VM | Országos ökológiai hálózat adatai és térképe (magterület, ökológiai folyosó, pufferterület) | 4.8. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 52. | KvVM | Kiemelten fontos érzékeny természeti terület | 4.8. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 52. | VM | Kiemelten fontos érzékeny természeti terület | 4.8. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 53. | KvVM | Környezetvédelmi, természetvédelmi és vízügyi felügyelőségek illetékessége, vízügyi igazgatóságok, valamint nemzeti park igazgatóságok működési területe | 5.1. | frissítést követően | térség | frissítést követő 90. nap |
+| 53. | VM, BM | Környezetvédelmi, természetvédelmi és vízügyi felügyelőségek illetékessége, vízügyi igazgatóságok, valamint nemzeti park igazgatóságok működési területe | 5.1. | frissítést követően | térség | frissítést követő 90. nap |
 
-| 54. | KvVM | Kiemelten érzékeny felszín alatti vízminőség-védelmi terület | 4.9.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 54. | VM | Kiemelten érzékeny felszín alatti vízminőség-védelmi terület | 4.9.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 55. | KvVM | Országos jelentőségű védett természeti területek adatbázisa, Natura 2000 területek adatbázisa | 4.8. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 55. | VM | Országos jelentőségű védett természeti területek adatbázisa, Natura 2000 területek adatbázisa | 4.8. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 56. | KvVM | Légszennyező anyagok kibocsátott mennyisége | 4.9.2. | frissítést követően | megye, megyeszékhely | frissítést követő 90. nap |
+| 56. | VM | Légszennyező anyagok kibocsátott mennyisége | 4.9.2. | frissítést követően | megye, megyeszékhely | frissítést követő 90. nap |
 
-| 57. | KvVM | Levegőminőségi adatok [Országos Légszennyezettségi Mérőhálózat (OLM) éves értékelés] | 4.9.2. | évente vagy frissítést követően | országos | frissítést követő 90. nap |
+| 57. | VM | Levegőminőségi adatok [Országos Légszennyezettségi Mérőhálózat (OLM) éves értékelés] | 4.9.2. | évente vagy frissítést követően | országos | frissítést követő 90. nap |
 
-| 58. | KvVM | Hulladéklerakók a következő csoportosításban: – A – inert hulladéklerakó, – B1b – vegyes összetételű (ipari), nem veszélyes hulladékot fogadó lerakó, – B3 – magas szervesanyag tartalmú (települési szilárd) hulladékot fogadó lerakó, – C – veszélyes hulladéklerakó. | 3.5. | évente | EOV koordináta | június 1. |
+| 58. | VM | Hulladéklerakók a következő csoportosításban: – A – inert hulladéklerakó, – B1b – vegyes összetételű (ipari), nem veszélyes hulladékot fogadó lerakó, – B3 – magas szervesanyag tartalmú (települési szilárd) hulladékot fogadó lerakó, – C – veszélyes hulladéklerakó. | 3.5. | évente | EOV koordináta | június 1. |
 
-| 59. | KvVM | Zajtérképek | 4.9.2. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 59. | VM | Zajtérképek | 4.9.2. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 60. | KvVM | Veszélyes hulladékok keletkezett mennyisége | 3.5. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 60. | VM | Veszélyes hulladékok keletkezett mennyisége | 3.5. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 61. | KvVM | Kármentesítési munkálatok | 4.12. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 61. | VM | Kármentesítési munkálatok | 4.12. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
 | 62. | MÁV, GYSEV | Vasúthálózat nyomvonalának digitális térképi és műszaki kapacitás adatai | 3.1.2. | frissítést követően | objektum | frissítést követő 90. nap |
 
@@ -166,19 +160,19 @@
 
 | 82. | MOL | Magyarország nemzetközi és hazai, illetve térségi jelentőségű kőolaj- és kőolajtermék vezetékeinek nyomvonalas térképe | 3.3.3. | évente | ország, kiemelt térség, megye | június 1. |
 
-| 83. | MSZH | Szabadalmi bejegyzések | 1.1.6. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 83. | SZTNH | Szabadalmi bejegyzések | 1.1.6. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 84. | MTA-TAKI | Agrotopográfiai térkép | 4.6. | frissítést követően | objektum | frissítést követő 90. nap |
 
-| 85. | NFGM | Logisztikai adatok | 3.1.5. | évente vagy frissítést követően | objektum | frissítést követő 90. nap |
+| 85. | NFM | Logisztikai adatok | 3.1.5. | évente vagy frissítést követően | objektum | frissítést követő 90. nap |
 
-| 86. | NFGM | Ipari park, inkubátorház adatok | 1.1.3. | évente vagy frissítést követően | objektum | frissítést követő 90. nap |
+| 86. | NGM | Ipari park, inkubátorház adatok | 1.1.3. | évente vagy frissítést követően | objektum | frissítést követő 90. nap |
 
-| 87. | NFGM | Ipari parkok (kérdőíves adatok) | 1.1.3. | évente vagy frissítést követően | megye | frissítést követő 90. nap |
+| 87. | NGM | Ipari parkok (kérdőíves adatok) | 1.1.3. | évente vagy frissítést követően | megye | frissítést követő 90. nap |
 
-| 88. | NFGM | Egységes Monitoring Információs Rendszer (EMIR), INTERREG Monitoring és Információs Rendszer (IMIR) | 5.2. | havonta | projekt | frissítést követő 15. nap |
+| 88. | NFM | Egységes Monitoring Információs Rendszer (EMIR), INTERREG Monitoring és Információs Rendszer (IMIR) | 5.2. | havonta | projekt | frissítést követő 15. nap |
 
-| 89. | NHH | Infokommunikációs adatok | 3.2.1. és 3.2.2. | évente vagy frissítést követően | kistérség | frissítést követő 90. nap |
+| 89. | NMHH | Infokommunikációs adatok | 3.2.1. és 3.2.2. | évente vagy frissítést követően | kistérség | frissítést követő 90. nap |
 
 | 90. | NKH | Új, megszűnt, illetve korszerűsítés miatt átépített vasúti pályaszakaszok hossza, a vasútvonal megnevezése, az átépítés helye a vonalon szelvénytől szelvényig | 3.1.2. | frissítést követően | ország, vasútvonal, vonalszakasz | frissítést követő 90. nap |
 
@@ -194,13 +188,13 @@
 
 | 96. | OKI | Pollenterhelés | 4.9.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 97. | OKM | Általános iskolák | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 97. | NEFMI | Általános iskolák | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 98. | OKM | Óvodák | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 98. | NEFMI | Óvodák | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 99. | OKM | Szakiskola, középiskola, gimnázium elhelyezkedése | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 99. | NEFMI | Szakiskola, középiskola, gimnázium elhelyezkedése | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 100. | OKM | Kollégiumok | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 100. | NEFMI | Kollégiumok | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 101. | OH | Felsőoktatási intézmények | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -214,17 +208,17 @@
 
 | 106. | ONYF | Foglalkoztatottak FEÁOR szerinti adatai | 1.1.4. és 2.2.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 107. | SZMM | Adatátadás a magán-munkaközvetítési és munkaerő-kölcsönzési tevékenységről | 1.1.4. | évente | megye | június 1. |
+| 107. | NGM | Adatátadás a magán-munkaközvetítési és munkaerő-kölcsönzési tevékenységről | 1.1.4. | évente | megye | június 1. |
 
-| 108. | SZMM | Ápolást, gondozást nyújtó intézmények (idősek otthona, pszichiátriai betegek otthona, szenvedélybetegek otthona, fogyatékos személyek otthona, hajléktalanok otthona) | 2.4.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 108. | NEFMI | Ápolást, gondozást nyújtó intézmények (idősek otthona, pszichiátriai betegek otthona, szenvedélybetegek otthona, fogyatékos személyek otthona, hajléktalanok otthona) | 2.4.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 109. | SZMM | Bentlakásos és átmeneti elhelyezést nyújtó intézmények idősek, szenvedélybetegek, pszichiátriai betegek, fogyatékosok és hajléktalanok számára | 2.4.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 109. | NEFMI | Bentlakásos és átmeneti elhelyezést nyújtó intézmények idősek, szenvedélybetegek, pszichiátriai betegek, fogyatékosok és hajléktalanok számára | 2.4.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 110. | SZMM | Szociális szolgáltatás (étkeztetést, házi segítségnyújtást, családsegítést szervező központok) | 2.4.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 110. | NEFMI | Szociális szolgáltatás (étkeztetést, házi segítségnyújtást, családsegítést szervező központok) | 2.4.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 111. | SZMM | Falugondnoki és tanyagondnoki szolgáltatás | 2.4.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 111. | NEFMI | Falugondnoki és tanyagondnoki szolgáltatás | 2.4.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 112. | SZMM | Szociális és gyámhivatalok | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 112. | NEFMI | Szociális és gyámhivatalok | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 113. | Térségi vasúthálózatok tulajdonosai és üzemeltetői | Magyarország térségi vasúthálózatának analóg vagy digitális, vektoros, szerkeszthető formátumú térképe EOV koordináta rendszerben vasútvonalankénti szelvényezéssel és az állomások (megállóhelyek) megnevezésével és feltüntetésével (keskeny nyomtávú, személy- és áruszállítás céljából üzemeltetett nem nyílt hozzáférésű vasúti pályahálózat pályatengelyét feltüntető szerkeszthető digitális vagy analóg térképi állomány) | 3.1.2. | évente | ország, vasútvonal, vonalszakasz | március 1. |
 
@@ -254,35 +248,35 @@
 
 | 1. | Adatkezelő szervezet neve | Rövidítés |
 
-| 2. | Adó és Pénzügyi Ellenőrzési Hivatal | APEH |
+| 2. | Nemzeti Adó- és Vámhivatal | NAV |
 
-| 3. | Állami Foglalkoztatási Szolgálat | ÁFSZ |
+| 3. | Nemzeti Foglalkoztatási Szolgálat | NFSZ |
 
 | 4. | Állami Népegészségügyi és Tisztiorvosi Szolgálat | ÁNTSZ |
 
 | 5. | Dokumentációs Központ | DK |
 
-| 6. | Energiahatékonysági, Környezetvédelmi és Energia Információs Ügynökség Nonprofit Kft. | Energia Központ |
+| 6. |  |  |
 
-| 7. | Foglalkoztatási Hivatal | FH |
+| 7. | Belügyminisztérium | BM |
 
 | 8. | FGSZ Földgázszállító Zrt. | FGSZ |
 
 | 9. | Földmérési és Távérzékelési Intézet | FÖMI |
 
-| 10. | Földművelésügyi és Vidékfejlesztési Minisztérium | FVM |
+| 10. | Vidékfejlesztési Minisztérium | VM |
 
 | 11. | Győr-Sopron-Ebenfurti Vasút Zrt. | GYSEV |
 
 | 12. | HM Térképészeti Közhasznú Nonprofit Kft. | HM Térképészeti Kft. |
 
-| 13. | Igazságügyi és Rendészeti Minisztérium | IRM |
+| 13. | Közigazgatási és Igazságügyi Minisztérium | KIM |
 
-| 14. | Környezetvédelmi és Vízügyi Minisztérium | KvVM |
+| 14. |  |  |
 
 | 15. | Közlekedésfejlesztési és Koordinációs Központ | KKK |
 
-| 16. | Közlekedési, Hírközlési és Energiaügyi Minisztérium | KHEM |
+| 16. | Nemzeti Fejlesztési Minisztérium | NFM |
 
 | 17. | Központi Statisztikai Hivatal | KSH |
 
@@ -308,13 +302,13 @@
 
 | 28. | MOL Magyar Olaj- és Gázipari Nyrt. | MOL |
 
-| 29. | Nemzeti Fejlesztési és Gazdasági Minisztérium | NFGM |
+| 29. | Nemzetgazdasági Minisztérium | NGM |
 
-| 30. | Nemzeti Hírközlési Hatóság | NHH |
+| 30. | Nemzeti Média- és Hírközlési Hatóság | NMHH |
 
 | 31. | Nemzeti Közlekedési Hatóság | NKH |
 
-| 32. | Oktatási és Kulturális Minisztérium | OKM |
+| 32. | Nemzeti Erőforrás Minisztérium | NEFMI |
 
 | 33. | Oktatási Hivatal | OH |
 
@@ -334,12 +328,12 @@
 
 | 41. | Országos Nyugdíjbiztosítási Főigazgatóság | ONYF |
 
-| 42. | Szociális és Munkaügyi Minisztérium | SZMM |
+| 42. |  |  |
 
 | 43. | Országos Vízügyi Igazgatóság | OVF |
 
 | 44. | Nemzeti Környezetügyi Intézet | NeKI |
 
-3–4. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^32]
+3–4. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^37]
 
-[^32]: A 3–4. számú mellékletet a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^37]: A 3–4. számú mellékletet a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.

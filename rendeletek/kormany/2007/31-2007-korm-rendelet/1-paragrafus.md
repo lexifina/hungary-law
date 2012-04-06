@@ -24,4 +24,6 @@ b) a társadalom, a gazdaság és a környezet területi jellemzői változásá
 
 c) a terület- és településfejlesztési, valamint a terület- és településrendezési tervek készítéséhez.
 
-(3) A TeIR információkat biztosít a regionális, a térségi, a megyei és a kistérségi fejlesztési tanácsok és munkaszervezeteik, illetve a többcélú kistérségi társulások számára a tervezés, a programmenedzselés, a pályázatértékelés és a monitoring tevékenység ellátásához.
+(3)[^1] A TeIR információkat biztosít a megyei önkormányzatok, illetve a térségi fejlesztési tanácsok és munkaszervezeteik számára a tervezés, a programmenedzselés, a pályázatértékelés és a monitoring tevékenység ellátásához.
+
+[^1]: Az 1. § (3) bekezdése a 67/2012. (IV. 5.) Korm. rendelet 14. §-ával megállapított szöveg.
