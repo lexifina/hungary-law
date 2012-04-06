@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-307-20-
 | 2011-07-05 | 2006-307-20-22.15 | 111/2011. (VII. 4.) Korm. rendelet |
 | 2011-07-08 | 2006-307-20-22.16 | 113/2011. (VII. 7.) Korm. rendelet |
 | 2011-08-25 | 2006-307-20-22.17 | 165/2011. (VIII. 24.) Korm. rendelet |
+| 2012-04-06 | 2006-307-20-22.18 | 67/2012. (IV. 5.) Korm. rendelet |
