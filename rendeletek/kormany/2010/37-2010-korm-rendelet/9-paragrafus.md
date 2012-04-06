@@ -1,5 +1,3 @@
-9. § (1) A területi monitoring rendszerben részt vevő, e rendelet szerinti szervek feladat- és hatáskörüket önállóan gyakorolják.
+9. §[^6]
 
-(2) A területi monitoring rendszer és az OTMB működtetéséért a miniszter, a KTTMB működtetéséért a kiemelt térségi fejlesztési tanács elnöke, az RTMB működtetéséért a regionális fejlesztési tanács elnöke, az MTMB működtetéséért a megyei területfejlesztési tanács elnöke a felelős.
-
-(3) A területi monitoring bizottságok működésének biztosítása érdekében a területi monitoring bizottságok tagjai szakmai felkészítéséről a miniszter gondoskodik.
+[^6]: A 9. §-t a 67/2012. (IV. 5.) Korm. rendelet 29. §-a hatályon kívül helyezte.

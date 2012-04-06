@@ -1,8 +1,6 @@
-## 5. Megyei területi monitoring bizottság
+## 5. [^4] Megyei szintű területi monitoring feladatok
 
-7. § (1) A megyei területi folyamatok alakulásának, a kistérségi fejlesztési koncepciók, programok területi hatásainak megismerése, valamint a megyei területfejlesztési koncepció és program megvalósulása és hasznosulása érdekében megyei területi monitoring bizottság (a továbbiakban: MTMB) működik. Az MTMB feladatait a megyei területfejlesztési tanács látja el.
-
-(2) Az MTMB
+## 7. § A megyei területi folyamatok alakulásának, a megyei területfejlesztési koncepció és program megvalósulása és hasznosulása, valamint a megyei területrendezési terv érvényesülésének elősegítése érdekében a megyei önkormányzat
 
 a) elemzi és értékeli a megyei szintű területi monitoring rendszer működését,
 
@@ -10,14 +8,12 @@ b) elemzi és véleményezi a megyei éves elemző értékelési jelentést,
 
 c) elemzi és véleményezi a megyei területi folyamatok alakulását bemutató több éves jelentést,
 
-d) évente tájékoztatást ad az OTMB, valamint a területileg érintett RTMB-k és KTTMB-k részére a megyei területi monitoring rendszer működéséről és a megyei értékelési jelentésekről a tárgyévet követő március 31-ig,
+d) évente tájékoztatást ad a területfejlesztés stratégiai tervezéséért, valamint a területfejlesztésért felelős miniszter, valamint a területileg érintett kiemelt térségi fejlesztési tanács részére a megyei területi monitoring rendszer működéséről és a megyei értékelési jelentésekről a tárgyévet követő március 31-ig,
 
-e) elvégzi a megyéhez tartozó kistérségi fejlesztési koncepciók és kistérségi fejlesztési programok előzetes, közbülső és utólagos területi szempontú értékelését, valamint az előzetes és közbülső területi szempontú értékelés alapján kezdeményezheti ezek felülvizsgálatát,
+e) elvégzi a megyei területfejlesztési koncepció felülvizsgálatát, valamint a felülvizsgálat alapján a koncepció módosítását,
 
-f) elvégzi a megyei területfejlesztési koncepció felülvizsgálatát, valamint a felülvizsgálat alapján kezdeményezheti a koncepció módosítását,
+f) elvégzi a megyei területfejlesztési program előzetes, közbülső és utólagos értékelését, valamint az előzetes és közbülső értékelés alapján a felülvizsgálatát,
 
-g) elvégzi a megyei területfejlesztési program előzetes, közbülső és utólagos értékelését, valamint az előzetes és közbülső értékelés alapján kezdeményezheti a felülvizsgálatát.
+g) elvégzi a megyei területrendezési terv érvényesítésének értékelését és erről évente tájékoztatást ad a területrendezésért felelős miniszter részére a tárgyévet követő március 31-ig.
 
-(3) Az MTMB a (2) bekezdés e)-g) pontjában meghatározott fejlesztési koncepciókra, programokra vonatkozó módosítási, illetve felülvizsgálati javaslatát írásban a fejlesztési koncepció, program elfogadására jogosult szervnél kezdeményezheti. A fejlesztési koncepció, program elfogadására jogosult szerv az MTMB kezdeményezését köteles megvizsgálni, és a kezdeményezést követő 30 napon belül álláspontjáról az MTMB-t tájékoztatni.
-
-(4) A (2) bekezdés a)–c) pontjában meghatározott tájékoztató és jelentés elkészítése, a (2) bekezdés d) pontja alapján történő továbbítása, valamint a (2) bekezdés e)-g) pontjában meghatározott koncepciókra, programokra vonatkozó elemzések, értékelések kidolgozása, jelentésbe foglalása az MTMB feladatait ellátó megyei területfejlesztési tanács munkaszervezetének feladata.
+[^4]: Az 5. alcím (7. §) a 67/2012. (IV. 5.) Korm. rendelet 27. § (3) bekezdésével megállapított szöveg.
