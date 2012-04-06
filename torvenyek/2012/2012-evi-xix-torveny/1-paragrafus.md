@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló 1978. évi nemzetközi egyezmény (a továbbiakban: Egyezmény) 2010. évi manilai módosításaival egységes szerkezetbe foglalt szövege kötelező hatályának elismerésére.
