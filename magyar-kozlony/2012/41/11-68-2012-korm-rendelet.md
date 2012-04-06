@@ -1,0 +1,221 @@
+# A Kormány 68/2012. (IV. 6.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 41. szám, 2012. április 6. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a8a38b705a3f03712fb5e327927ee1e56b5e5f6b/dokumentumok/4806d60dddef2bbf255492f38d738672068eb3e6/letoltes)
+
+---
+
+A Kormány 68/2012. (IV. 6.) Korm. rendelete
+a nemesfémtárgyak ellenőrzéséről és jelöléséről szóló, Bécsben, 1972. november 15. napján aláírt
+Egyezmény 2010. október 11. napján elfogadott PMC/W/2/2001 számú módosítása kihirdetéséről
+(Az Egyezmény módosítása 2011. augusztus 3-án nemzetközi jogilag hatályba lépett.)
+1. § A Kormány a nemesfémtárgyak ellenőrzéséről és jelöléséről szóló, Bécsben, 1972. november 15. napján aláírt
+Egyezmény 2010. október 11. napján elfogadott PMC/W/2/2001 számú módosítását (a továbbiakban: Módosítás)
+e rendelettel kihirdeti.
+2. § A Módosítás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+„ANNEXES I AND II TO THE CONVENTION ON THE CONTROL AND MARKING OF
+ARTICLES OF PRECIOUS METALS
+ANNEX I
+Definitions and Technical Requirements
+Subparagraph 1.3. the following sentence should be added:
+“Inpart”meansthat apreciousmetalarticlemaycontain(i) non-metallicparts(ii) basemetalpartsfortechnicalreasons
+or decoration. A precious metal article, which contains base metal parts for decoration, is referred to as “multimetal
+article”.
+Subparagraph 1.6. should be replaced by the following paragraph:
+1.6. Coating/plating
+Coating or plating is one or more layers of
+(i) precious metal (or precious metal alloy);
+(ii) base metal (or base metal alloy);
+(iii) non-metallic substance;
+applied to all, or part, of a precious metal article e.g. by chemical, electrochemical, mechanical or physical process.
+The following new subparagraph 1.8. should be added:
+1.8. Other definitions
+The Standing Committee may decide on other definitions.
+Subparagraph 2.2. should be replaced by the following subparagraph:
+2.2. Standards of fineness applied under the Convention
+for platinum: 999, 950, 900, 850
+for gold: 999, 916, 750, 585, 375
+for palladium: 999, 950, 500
+for silver: 999, 925, 830, 800
+Subparagraph 2.5. should be replaced by the following subparagraph:
+2.5. Use of base metal parts and non-metallic substances
+2.5.1. It is permitted to use base metal parts and non-metallic parts in precious metal articles both for technical
+reasons and for decoration, subject to the following conditions:
+a) Base metal parts and non-metallic parts shall be clearly distinguishable from the precious metal.
+b) They shall be neither coated nor treated to give the appearance of a precious metal.
+
+c) They shall not be used for the purpose of strengthening, weighting or filling.
+d) They shall be stamped or engraved “METAL” (or the name of that metal in English).
+2.5.2. The Standing Committee may decide on further details or exceptions.
+Subparagraph 2.6. should be deleted.
+Subparagraph 2.7. should be replaced by the following paragraph, and should be renumbered to 2.6.
+2.6. Coating of precious metal articles
+2.6.1. The Standing Committee decides on permitted coatings.
+ANNEX II
+Control by the authorised assay office(s)
+Paragraph 1 former subparagraphs should become subparagraphs 1.1., 1.2. and a new subparagraph 1.3. should be
+added:
+1. General
+1.1. The authorised assay office(s) (thereafter referred to as “the assay office”) shall examine whether articles of
+precious metals which are presented to it in order to be marked with the Common Control Mark fulfil the conditions of
+Annex I to the Convention.
+1.2. If an article is found by the assay office to be complete as to all its metallic parts and if it complies with the
+provisions of Annex I to this Convention, the assay office shall, on request, mark the article with its assay office mark
+and the Common Control Mark. In cases where the Common Control Mark is applied the assay office shall, before the
+articleleavesitscustody, ensurethat thearticleisfully markedinaccordancewiththeprovisionsofparagraphsbelow.
+1.3. The testing of articles of precious metals submitted for marking with the Common Control Mark consists of the
+two following steps:
+a) the evaluation of the homogeneity of the batch, and
+b) the determination of the fineness of the alloy.
+Paragraph 2. should be replaced by the following paragraph:
+2. Methods of analysis and test methods
+2.1. The assay office may use any of the test methods to evaluate the homogeneity of a batch as defined by the
+Standing Committee.
+2.2. The assay office shall use any of the approved methods of analysis in assaying articles of precious metals as
+defined by the Standing Committee.
+Paragraph 4. should be replaced by the following paragraph:
+4. Marking
+4.1. The following minimum marks shall be applied on articles which satisfy the criteria in Annex I:
+a) a registered responsibility mark as described in paragraph 4.4.;
+b) the mark of the assay office; and
+c) the Common Control Mark as described in paragraph 4.5.; and.
+d) the corresponding fineness mark in arabic numerals;
+4.2. The Standing Committee can decide on exceptions for mark d). Marks b) and c) shall be applied on the article by
+the assay office. The following are accepted methods of marking: punching, and laser. The Standing Committee can
+decide on other methods of marking articles.
+4.3. Whenever possible, all marks shall be placed in immediate proximity to each other.
+Other marks (e.g. year mark), which are not to be confused with the marks mentioned above, are allowed as additional
+marks.
+4.4. The responsibility mark referred to in paragraph 4.1. a), shall be registered in an official register of the Contracting
+State and/or one of its assay offices, which controls the article in question.
+4.5. The Common Control Mark shall consist of the representation of a balance together with the number in Arabic
+numerals showing the standard of fineness of the article in parts per thousand in relief on a lined background
+surrounded by a shield indicating the nature of the precious metal as shown in the following examples:
+
+4.6. The approved sizes of the Common Control Mark are defined by the Standing Committee.
+4.7. Articles consisting of more than one alloy of the same precious metal
+Where an article consists of different alloys of the same precious metal, the fineness mark and the Common Control
+Mark applied shall be that of the lowest fineness present in the article. Exceptions can be decided on by the Standing
+Committee.
+4.8. Articles consisting of parts
+If an article consists of parts which are hinged or readily separable, the above marks shall be applied to the main part.
+Where practicable the Common Control Mark shall be applied also to the lesser parts.
+4.9. Articles consisting of different precious metal alloys
+4.9.1. If an articleconsistsof different preciousmetalalloys,and if the colourand extent of eachalloyare clearlyvisible,
+the marks referred to in paragraph 4. a), b), c) and d) shall be applied on one precious metal alloy and the appropriate
+Common Control Mark on the other(s).
+4.9.2. If an article consists of different precious metal alloys and if the colour and extent of each alloy is not visible, the
+marks referred to in paragraph 4. a), b), c) and d) shall be applied on the least precious metal. The Common Control
+Mark relating to the more precious metals may not be applied.
+4.9.3. Exceptions from the rules above justified by technical reasons are decided on by the Standing Committee.
+Content of APPENDIX I. should be deleted.
+Content of APPENDIX II. should be deleted.
+I. ÉS II. MELLÉKLET A NEMESFÉMTÁRGYAK ELLENŐRZÉSÉRŐL ÉS JELÖLÉSÉRŐL SZÓLÓ EGYEZMÉNYHEZ
+I. MELLÉKLET
+Meghatározások és technikai előírások
+Az 1.3. albekezdés az alábbi mondattal egészül ki:
+A „Részben” azt jelenti, hogy a nemesfémtárgy (i) nem-fém részeket (ii) nem nemesfém részeket tartalmazhat
+technikai okokból vagy díszítési céllal. A „Kombinált tárgy” olyan nemesfémtárgy, amely díszítés céljából nem
+nemesfém részeket is tartalmaz.
+Az 1.6. albekezdés helyébe a következő bekezdés lép:
+1.6. Bevonat/lemezelés
+A nemesfémbevonat vagy lemezelés egy vagy több
+(i) nemesfémből (vagy nemesfém ötvözetből);
+
+Platinum Gold Palladium Silver
+
+(ii) nem nemesfémből (vagy nem nemesfémek ötvözetéből);
+(iii) nemfémes anyagból
+álló réteg, amelyet a nemesfémtárgy egészén vagy egy részén alkalmaznak például kémiai, elektrokémiai, mechanikai
+vagy fizikai eljárással.
+A melléklet egy új 1.8. albekezdéssel egészül ki:
+1.8. Egyéb meghatározások
+Az Állandó Bizottság további meghatározásokat is bevezethet.
+A 2.2. albekezdés helyébe a következő albekezdés lép:
+2.2. Az Egyezmény alapján alkalmazott finomsági fokok
+platina esetében: 999, 950, 900, 850
+arany esetében: 999, 916, 750, 585, 375
+palládium esetében: 999, 950, 500
+ezüst esetében: 999, 925, 830, 800
+A 2.5. albekezdés helyébe a következő albekezdés lép:
+2.5. Nem nemesfém alkatrészek és nemfémes anyagok használata
+2.5.1. Technikai és díszítési céllal megengedett nem nemesfém alkatrészek és nemfémes anyagok használata
+nemesfém tárgyakban, az alábbi feltételekkel:
+a) a nem nemesfém, valamint a nemfémes anyag a nemesfémtől egyértelműen megkülönböztethető kell legyen,
+b) a nem nemesfém, valamint a nemfémes anyag bevonata vagy kezelése nem keltheti nemesfém látszatát,
+c) a nem nemesfém, valamint a nemfémes anyag nem használható megerősítés, súlyosabbá tétel vagy kitöltés
+céljára,
+d) a nem nemesfém, valamint a nemfémes anyagba a „METAL” szót (vagy a fém angol nevét) kell bélyegezni vagy
+bevésni.
+2.5.2. Az Állandó Bizottság további előírásokat vagy kivételeket határozhat meg.
+A 2.6. albekezdés törlésre kerül.
+A 2.7. albekezdés helyébe a következő albekezdés lép, számozása 2.6.-ra módosul:
+2.6. Nemesfémtárgyak bevonata
+2.6.1. A megengedett bevonatokról az Állandó Bizottság dönt.
+II. MELLÉKLET
+A vizsgálatra jogosult nemesfémvizsgáló intézet(ek) által végzett ellenőrzés
+Az1.bekezdéskorábbialbekezdései1.1.és1.2.bekezdésekreváltoznak,valamintegy új,1.3.albekezdésselegészülki:
+1. Általános rész
+1.1. A vizsgálatra jogosult nemesfémvizsgáló intézet(ek) (a továbbiakban: „a nemesfémvizsgáló intézet”)
+megvizsgálja, hogy a számára a Közös Ellenőrző Jellel történő megjelölés céljából benyújtott nemesfémtárgyak
+megfelelnek-e az Egyezmény I. mellékletében foglalt feltételeknek.
+1.2. Amennyiben egy nemesfémtárgynál a nemesfémvizsgáló intézet megállapítja, hogy a tárgy minden fém része
+hiánytalanulmegfeleljelenEgyezmény I. mellékletébenfoglaltrendelkezéseknek,anemesfémvizsgálóintézet kérésre
+a saját hivatal jelével és a Közös Ellenőrző Jellel látja el a nemesfémtárgyat. A Közös Ellenőrző Jel alkalmazása esetén
+a nemesfémvizsgáló intézet – a nemesfémtárgy kiadása előtt – biztosítja, hogy a nemesfémtárgy jelölése
+maradéktalanul megfeleljen az alábbi bekezdések rendelkezéseinek.
+1.3. A Közös Ellenőrző Jel alkalmazására benyújtott nemesfémtárgy vizsgálata az alábbi két lépésből áll:
+a) az egy tételben szereplő nemesfém tárgyak homogenitásának megállapítása, valamint
+b) a nemesfém ötvözet finomsági fokának megállapítása.
+
+A 2. bekezdés helyébe a következő bekezdés lép:
+2. Vizsgálati és tesztelési módszerek
+2.1. A nemesfémvizsgáló intézet bármely, az Állandó Bizottság által jóváhagyott vizsgálati módszert alkalmazhatja
+a tétel homogenitásának megállapításához.
+2.2. A nemesfémvizsgáló intézet az Állandó Bizottság által jóváhagyott bármely vizsgálati módszert alkalmazza
+a nemesfémtárgyak anyagvizsgálata esetén.
+A 4. bekezdés helyébe a következő bekezdés lép:
+4. Jelölés
+4.1. Az I. mellékletben foglalt kritériumoknak megfelelő nemesfémtárgyakon legalább az alábbi jeleket kell
+elhelyezni:
+a) a 4.4. bekezdésben foglalt bejegyzett felelősségjelet;
+b) a nemesfémvizsgáló intézet hivatal jelét;
+c) a 4.5. bekezdésben ismertetett Közös Ellenőrző Jelet; valamint
+d) a megfelelő finomsági jelet arab számokkal.
+4.2. Az Állandó Bizottság meghatározhat kivételeket a d) pontban foglalt jelet illetően. A b) és c) pont alatti hitelesítő
+jeleket a nemesfémvizsgáló intézet üti be.
+A jelek elhelyezése a nemesfémtárgyon beütéssel vagy lézergravírozással történhet. Az Állandó Bizottság dönthet
+egyéb jelölési módszerekről.
+4.3. Amikor csak lehetséges, minden jelzést közvetlenül egymás mellett kell elhelyezni.
+Kiegészítő jelölésként megengedhetők egyéb jelek (pl. évszám) is, amelyek nem lehetnek összetéveszthetőek a fent
+említett jelekkel.
+4.4. A 4.1. bekezdés a) pontjában rögzített felelősségjelet azon szerződő állam és/vagy egyik nemesfémvizsgáló
+intézetének hivatalos nyilvántartásába jegyzik be, amelynek területén az adott nemesfémtárgyat ellenőrzik.
+4.5. A Közös Ellenőrző Jel ábrája egy mérleg, amelyet arab számok egészítenek ki, megjelölve a nemesfémtárgy
+ezredrész finomságban kifejezett finomsági fokát, amely kiemelkedik egy a nemesfém fajtáját jelző pajzzsal körülvett,
+vonalazott háttérből az alábbiak szerint:
+4.6. A Közös Ellenőrző Jel jóváhagyott méreteit az Állandó Bizottság határozza meg.
+4.7. Ugyanannak a nemesfémnek egynél több ötvözetéből álló nemesfémtárgy
+Amennyiben egy nemesfémtárgy ugyanannak a nemesfémnek különböző ötvözeteiből áll, az adott
+nemesfémtárgyban jelenlévő legkisebb finomságú nemesfém finomsági fokot kifejező jele és Közös Ellenőrző Jele
+alkalmazandó. A kivételekről az Állandó Bizottság dönthet.
+4.8. Több részből álló nemesfémtárgy
+Ha egy nemesfémtárgy olyan részekből áll, amelyeket zsanér fog össze, vagy amelyek könnyen szétválaszthatók,
+a fenti jeleket a fő részen kell alkalmazni. Ha megvalósítható, a Közös Ellenőrző Jelet a kisebb részeken is alkalmazni
+kell.
+
+Platina tárgy Arany tárgy Palládium tárgy Ezüst tárgy
+
+4.9. Különböző nemesfémötvözetekből álló nemesfémtárgy
+4.9.1. Ha egy nemesfémtárgy különbözőnemesfémötvözetekbőláll, és az egyes ötvözetek színe és elhatárolhatósága
+egyértelműen felismerhető, a 4. bekezdés a), b), c) és d) pontjaiban meghatározott jeleket az egyik
+nemesfémötvözeten, a megfelelő Közös Ellenőrző Jelet pedig a többi ötvözeten kell alkalmazni.
+4.9.2. Ha egy nemesfémtárgy különbözőnemesfémötvözetekbőláll, és az egyes ötvözetek színe és elhatárolhatósága
+nem ismerhető fel egyértelműen, a 4. bekezdés a), b), c) és d) pontjaiban meghatározott jeleket a legkevésbé értékes
+nemesfémen kell alkalmazni. Az értékesebb nemesfémekre vonatkozó Közös Ellenőrző Jel nem alkalmazható.
+4.9.3. A fenti szabályok alól az Állandó Bizottság határozhat meg technikai okok miatt indokolt kivételeket.
+Az I. FÜGGELÉK tartalma törlésre kerül.
+A II. FÜGGELÉK tartalma törlésre kerül.”
+3. § (1) Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+(2) E rendelet végrehajtásához szükséges intézkedésekről az iparügyekért felelős miniszter gondoskodik.
+Orbán Viktor s. k.,
+miniszterelnök
