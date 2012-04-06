@@ -1,0 +1,1 @@
+## 1. § A környezeti zaj értékeléséről és kezeléséről szóló 280/2004. (X. 20.) Korm. rendelet (a továbbiakban: R1.) 11. § (3) bekezdés d) pontjában a „megyei területfejlesztési tanácsok” szövegrész helyébe a „megyei önkormányzatok” szöveg lép.
