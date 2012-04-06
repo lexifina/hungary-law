@@ -1,1 +1,3 @@
-12. § E rendelet szabályai a tanács, annak szerve vagy tisztségviselője működésének felfüggesztése, és felügyelőbiztos kirendelése lehetőségének kivételével alkalmazandók a Tftv. 10/G. § alapján területfejlesztési feladatokat ellátó többcélú kistérségi társulások, valamint a területfejlesztési feladatot ellátó egy település által alkotott kistérségek tekintetében is.
+12. §[^24]
+
+[^24]: A 12. §-t a 67/2012. (IV. 5.) Korm. rendelet 8. §-a hatályon kívül helyezte.
