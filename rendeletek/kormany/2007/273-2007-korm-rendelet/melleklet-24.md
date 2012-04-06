@@ -218,4 +218,4 @@
 
 Az Európai Unió szervei felé teljesítendő jelentéstétel és adatszolgáltatás rendje
 
-[^367]: A Vhr. 24. számú melléklete a 100/2011. (VI. 29.) Korm. rendelet 22. § (3) bekezdésével megállapított, a 378/2011. (XII. 31.) Korm. rendelet 31. § (15) bekezdése szerint módosított szöveg.
+[^367]: A Vhr. 24. számú melléklete a 100/2011. (VI. 29.) Korm. rendelet 22. § (3) bekezdésével megállapított, a 378/2011. (XII. 31.) Korm. rendelet 31. § (15) bekezdése, a 67/2012. (IV. 5.) Korm. rendelet 19–20. §-a szerint módosított szöveg.
