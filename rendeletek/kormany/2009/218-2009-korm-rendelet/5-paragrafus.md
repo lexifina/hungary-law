@@ -1,11 +1,27 @@
 ## A területi tervek illeszkedési szabályai
 
-5. § (1) A térség nagyságrendjét, illetve az elfogadás szintjét tekintve a területfejlesztési koncepciók és programok egymásra épülő rendszert alkotnak.
+5. §[^4] (1) A térség nagyságrendjét, illetve az elfogadás szintjét tekintve a területfejlesztési koncepciók és programok egymásra épülő rendszert alkotnak.
 
-(2) A kiemelt térség területfejlesztési koncepciója és programja nem lehet ellentétes az Országos Területfejlesztési Koncepcióban (a továbbiakban: OTK), az Országos Területrendezési Tervben (a továbbiakban: OTrT), valamint – érintettség esetén – a kiemelt térség területrendezési tervében foglaltakkal. A kiemelt térség területfejlesztési koncepciója és programja készítése során figyelembe kell venni a kiemelt térség részét képező régióknak, megyéknek és kistérségeknek a kiemelt térségre vonatkozó fejlesztési céljait.
+(2) A megye területfejlesztési koncepciója és programja nem lehet ellentétes
 
-(3) A regionális területfejlesztési koncepció és program nem lehet ellentétes az OTK-ban, az OTrT-ben, valamint – amennyiben a régiót érinti a Budapesti Agglomeráció vagy a Balaton Kiemelt Üdülőkörzet – a kiemelt térség területfejlesztési koncepciójában és területrendezési tervében foglaltakkal. A regionális területfejlesztési koncepció és program készítése során figyelembe kell venni az érintett megyék területfejlesztési koncepcióiban és területrendezési terveiben, illetve a kistérségek területfejlesztési koncepcióiban foglaltakat.
+a) az Országos Területfejlesztési Koncepcióban (a továbbiakban: OTK),
 
-(4) A megyei területfejlesztési koncepció és program nem lehet ellentétes az OTK-ban, az OTrT-ben, valamint – amennyiben a megyét érinti a Budapesti Agglomeráció vagy a Balaton Kiemelt Üdülőkörzet – a kiemelt térség területfejlesztési koncepciójában és területrendezési tervében foglaltakkal, továbbá a regionális területfejlesztési koncepcióban és a megye területrendezési tervében foglaltakkal. A megyei területfejlesztési koncepció és program készítése során figyelembe kell venni a megyében található kistérségek területfejlesztési koncepcióiban foglaltakat.
+b) az Országos Területrendezési Tervben (a továbbiakban: OTrT), a Budapesti Agglomeráció és a Balaton Kiemelt Üdülőkörzet kiemelt térség területrendezési tervében,
 
-(5) A kistérségi területfejlesztési koncepció és program nem lehet ellentétes az OTK-ban, az OTrT-ben, valamint – amennyiben a kistérséget érinti a Budapesti Agglomeráció vagy a Balaton Kiemelt Üdülőkörzet – a kiemelt térség területfejlesztési koncepciójában és területrendezési tervében, továbbá a regionális és a megyei területfejlesztési koncepcióban, a megyei területrendezési tervben foglaltakkal. A kistérségi területfejlesztési koncepció és program készítése során figyelembe kell venni az adott kistérség településeinek fejlesztési koncepcióiban és településrendezési eszközeiben foglaltakat.
+c) a megyei területrendezési tervben
+
+foglaltakkal.
+
+(3) A kiemelt térség területfejlesztési koncepciója és programja nem lehet ellentétes
+
+a) az OTK-ban,
+
+b) az OTrT-ben, a Budapesti Agglomeráció és a Balaton Kiemelt Üdülőkörzet kiemelt térség területrendezési tervében,
+
+c) a megyei területrendezési tervben
+
+d) a megyei területfejlesztési koncepcióban és programban
+
+foglaltakkal.
+
+[^4]: Az 5. § a 67/2012. (IV. 5.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.

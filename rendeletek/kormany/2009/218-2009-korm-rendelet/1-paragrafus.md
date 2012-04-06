@@ -14,9 +14,9 @@ e) horizontális cél: olyan, az adott területi egység fejlesztésének és te
 
 f) jövőkép: nagytávra és nagytávon túlmutatóan meghatározott, elérni kívánt jövőbeli célállapot átfogó és általános leírása, amely a célok kijelölésének alapvető irányát jelöli ki, és amelyben rögzülő elérendő jövőbeni állapotot a koncepció helyzetelemzésében, értékelésében meghatározott sajátosságokra, a számba vett várható fejlődésfolyamatokra tekintettel, a társadalom elvárásainak, értékeinek figyelembevételével lehet megfogalmazni,
 
-g) kidolgozásért felelős szerv: a területfejlesztésről és a területrendezésről szóló törvénynek megfelelően az Országos Területfejlesztési Koncepció, az Országos Területrendezési Terv és a kiemelt térség (Budapesti Agglomeráció és a Balaton Kiemelt Üdülőkörzet) területrendezési tervének kidolgozása esetén a Kormány; a régió területfejlesztési koncepciója és programja kidolgozása esetén a regionális fejlesztési tanács; a megye és az egyéb kiemelt térségek területrendezési tervének kidolgozása esetén a megyei önkormányzat; a megye területfejlesztési koncepciója és programja kidolgozásának esetében a megyei területfejlesztési tanács; a kistérségi területfejlesztési koncepció és program kidolgozása esetében a kistérségi fejlesztési tanács,
+g)[^1] kidolgozásért felelős szerv: a területfejlesztésről és a területrendezésről szóló törvénynek megfelelően az Országos Területfejlesztési Koncepció, az Országos Területrendezési Terv és a kiemelt térség (Budapesti Agglomeráció és a Balaton Kiemelt Üdülőkörzet) területrendezési tervének kidolgozása esetén a Kormány; a megye és az egyéb kiemelt térségek területrendezési terv kidolgozása esetén a megyei önkormányzat; a megye területfejlesztési koncepciója és programja kidolgozásának esetében a megyei önkormányzat; a kiemelt térség területfejlesztési koncepciója és programja kidolgozásának esetében a térségi fejlesztési tanács,
 
-h) kiserőmű: a villamos energiáról szóló törvényben meghatározott, engedélyköteles kiserőművek közül az 5 MW, és az ezt meghaladó, de 50 MW-nál kisebb teljesítőképességű kiserőmű,
+h)[^2] kiserőmű: a villamos energiáról szóló törvényben meghatározott, engedélyköteles kiserőművek közül az 5 MW, és az ezt meghaladó, de 50 MW-nál kisebb teljesítőképességű kiserőmű, ideértve a szélerőműparkot is,
 
 i) prioritás: a specifikus célok elérését szolgáló kiemelt szándékok, a későbbi beavatkozási területek csoportja, amelyek jellemzően komplexek, átfogóan több ágazati intézkedést jeleníthetnek meg, kifejezetten egyes térségekre vagy térségtípusokra is irányulhatnak,
 
@@ -27,3 +27,6 @@ k) területi cél: egy-egy, a térségen belüli térségtípusra, rész terüle
 l) területi terv: a területfejlesztési koncepció, a területfejlesztési program, valamint a területrendezési terv együttes megnevezése,
 
 m) területi terv készítése: a területi terv kidolgozásának, egyeztetésének és elfogadásának együttes megnevezése.
+
+[^1]: Az 1. § g) pontja a 67/2012. (IV. 5.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § h) pontja a 67/2012. (IV. 5.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.

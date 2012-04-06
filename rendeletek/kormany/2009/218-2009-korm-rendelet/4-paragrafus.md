@@ -26,6 +26,8 @@ ac) a prioritások (a specifikus célok alapján);
 
 b) operatív programrészében kerülnek meghatározásra az intézkedések (a stratégiai programrészben meghatározott prioritások alapján).
 
-(4) A 2. melléklet 2.2. pont B. alpontjában meghatározott kistérségi projektlista rövidtávra készül.
+(4)[^3]
 
 (5) A területrendezési tervek nagytávra készülnek.
+
+[^3]: A 4. § (4) bekezdését a 67/2012. (IV. 5.) Korm. rendelet 24. § a) pontja hatályon kívül helyezte.
