@@ -8,9 +8,9 @@ a)[^18] az illetékes megyei népegészségügyi szakigazgatási szerv,
 
 b) az elsőfokú közlekedési hatóság,
 
-c) az illetékes kistérségi fejlesztési tanácsok,
+c)[^19]
 
-d) az illetékes megyei területfejlesztési tanácsok
+d)[^20] az illetékes megyei önkormányzatok
 
 részére.
 
@@ -35,3 +35,5 @@ b) az intézkedési tervjavaslat tartalmáról, valamint az abban foglalt célok
 [^16]: A repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének részletes műszaki szabályairól szóló 18/1997. (X. 11.) KHVM–KTM együttes rendelet.
 [^17]: A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény.
 [^18]: A 11. § (3) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 127. §-a szerint módosított szöveg.
+[^19]: A 11. § (3) bekezdés c) pontját a 67/2012. (IV. 5.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^20]: A 11. § (3) bekezdés d) pontja a 67/2012. (IV. 5.) Korm. rendelet 1. §-a szerint módosított szöveg.

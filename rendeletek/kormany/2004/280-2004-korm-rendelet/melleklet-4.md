@@ -38,7 +38,7 @@ megnevezése:
 
 címe:
 
-1.4. A tevékenység külön jogszabály[^22] szerinti besorolása.
+1.4. A tevékenység külön jogszabály[^24] szerinti besorolása.
 
 1.5. A telephelyen folytatott tevékenység, alkalmazott technológia, helyhez kötött vagy mozgó berendezés, üzemi zajforrásnak minősülő tevékenység leírása, ismertetése:
 
@@ -114,4 +114,4 @@ c) Szezonális (nyári, téli vagy más) működési rend:
 
 – mellékelni kell az üzemi létesítmény környezeti zajvizsgálatáról készült jegyzőkönyvet.
 
-[^22]: Az egységes környezethasználati engedélyezési eljárás részletes szabályairól szóló 193/2001. (X. 19.) Korm. rendelet.
+[^24]: Az egységes környezethasználati engedélyezési eljárás részletes szabályairól szóló 193/2001. (X. 19.) Korm. rendelet.

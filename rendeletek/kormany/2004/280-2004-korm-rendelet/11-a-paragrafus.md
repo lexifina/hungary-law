@@ -1,4 +1,4 @@
-## 11/A. §[^19] Az e rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó
+## 11/A. §[^21] Az e rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó
 
 ## feladatokat
 
@@ -8,4 +8,4 @@ b) a Heves Megyei Népegészségügyi Szakigazgatási Szerv Heves és Nógrád m
 
 kiterjedő illetékességgel látja el.
 
-[^19]: A 11/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 128. §-a iktatta be.
+[^21]: A 11/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 128. §-a iktatta be.
