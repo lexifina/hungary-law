@@ -20,7 +20,7 @@ g) a megvalósítás jogi, pénzügyi, szervezeti és egyéb feltételei biztos�
 
 h) az előkészítés támogatását követően megvalósítani kívánt beruházás költsége legalább 500 M Ft.
 
-(3) Az 1. §-ban meghatározott forrás felhasználására irányuló előkészítési támogatási igények elbírálásának specifikus szempontjait az alábbiak szerint a Regionális Fejlesztési Tanács (a továbbiakban: RFT) állapítja meg:
+(3)[^3] Az 1. §-ban meghatározott forrás felhasználására irányuló előkészítési támogatási igények elbírálásának specifikus szempontjait az alábbiak szerint a Regionális Fejlesztési Tanács, 2012. január 1-jét követően a jogutódjaként eljáró megyei önkormányzat (a továbbiakban együtt: RFT) állapítja meg:
 
 a) a fejlesztés megfelelősége a megcélzott EU-támogatási forrás (Kohéziós Alap, strukturális alapok) felhasználhatóságának egyedi kritériumai szerint;
 
@@ -45,3 +45,5 @@ j) a támogatási kérelem benyújtója a rendezett munkaügyi kapcsolatokkal sz
 (4) Az előkészítési támogatási kérelmek pályázati benyújtásának, elbírálásának, sorolásának részletes szabályait – a fenti általános követelmények és kiválasztási szempontok érvényesítése mellett – az egyes EU-támogatási forrásokhoz és fejlesztési területekhez adaptáltan a régiók maguk alakítják ki.
 
 (5) A (2) és (3) bekezdésekben foglalt támogatási feltételeknek együttesen és egyidejűleg kell teljesülniük.
+
+[^3]: A 3. § (3) bekezdése a 67/2012. (IV. 5.) Korm. rendelet 12. §-a szerint módosított szöveg.
