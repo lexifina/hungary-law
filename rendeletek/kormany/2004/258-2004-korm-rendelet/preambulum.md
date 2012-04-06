@@ -1,1 +1,0 @@
-A Kormány a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény (a továbbiakban: Tftv.) 27. §-a (1) bekezdésének n) pontjában kapott felhatalmazás alapján – figyelemmel a j) pontra is – a következő rendeletet alkotja:
