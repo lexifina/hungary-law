@@ -192,7 +192,7 @@
 
 | Összesen: | ezer forint |
 
-| I.5. A képviselő-testület/közgyűlés az önkormányzat korrigált saját folyó bevételét a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 88. §-a szerint a beruházási adatlap szerinti ütemezésben az alábbiak szerint igazolja [Cct. 10. § (3) bek. b) pont]. Ezen adatlappal egyidejűleg nyilatkozik, hogy az önkormányzat hitelkérelme legalább a hitelfelvétel évére és az azt követő két évre vonatkozóan megfelel az Ötv. 88. §-ában foglaltaknak. (Az önkormányzatnak az I. 5. pontot kizárólag abban az esetben kell kitöltenie, amennyiben az igénybejelentésben megjelölt beruházásához hitelt kíván felvenni!) |
+| I.5. A képviselő-testület/közgyűlés nyilatkozata az önkormányzat egyes bevételeiről és kötelezettségvállalásairól. (Az önkormányzatnak az I. 5. pontot kizárólag abban az esetben kell kitöltenie, amennyiben az igénybejelentésben megjelölt beruházásához hitelt kíván felvenni!) |
 
 | Önkormányzat neve | Összesen | I. ütemév | II. ütemév | III. ütemév |
 
@@ -210,13 +210,13 @@
 
 | Egyéb sajátos bevételek |  |  |  |  |
 
-| I.5.2. Rövid lejáratú kötelezettségek [az 1990. évi LXV. törvény 88. § (3) bekezdésének c) pontja szerint] |  |  |  |
+| I.5.2. Rövid lejáratú kötelezettségek |  |  |  |
 
 | Tőke- és kamattörlesztés |  |  |  |  |
 
 | Lízingdíj |  |  |  |  |
 
-| I.5.3. Korrigált saját folyó bevétel [(I.5.1.–I.5.2.) x 0,7] |  |  |  |
+| I.5.3. |  |  |  |
 
 | I.5.4. Az önkormányzat által adott év(ek)ben még vállalható fizetési kötelezettségek (az önkormányzat részére legfeljebb ezen összeg erejéig bocsátható ki hitelígérvény) |  |  |  |
 
@@ -334,33 +334,7 @@
 
 | .......................................... aláírás |
 
-## D) A céltámogatási igénybejelentés 4. dokumentuma
-
-## IGAZOLÁS
-
-## céltámogatás igénylésénél a megvalósíthatósági tanulmány szakmai értékelése által összességében legelőnyösebb- nek tartott megoldás és a hatósági engedélyes dokumentáció, valamint az egészségügyi gép-műszer igénybejelentés azonosságáról
-
-## A beruházó önkormányzat (a támogatás címzettje) neve:
-
-## Az önkormányzat címe (megye, irányítószám, település, út, hsz.):
-
-## 1. társult önkormányzat neve:
-
-## 2. társult önkormányzat neve:
-
-## 3. társult önkormányzat neve:
-
-## A beruházás helye:
-
-## A beruházás műszaki tartalma:
-
-## Igazolom, hogy a támogatás címzettje a megvalósíthatósági tanulmányban bemutatott változatok közül a legelőnyösebb megoldásra kérte meg egészségügyi gép-műszer beszerzésnél a támogatást.
-
-| Kelt: ..........................................., 20.... év ..................... hó ........... nap |
-
-| P. H. |
-
-| .......................................... aláírás |
+## D)
 
 ## G) A céltámogatási igénybejelentés 7. dokumentuma
 
@@ -384,17 +358,17 @@
 
 ## Tudomásul veszem, hogy
 
-## a) amennyiben az önkormányzat az igénybejelentésben eltér a beruházási koncepciónak a helyi önkormányzatokért felelős miniszterrel és a szakminiszterrel egyeztetett változatától (a támogatható műszaki tartalom, valamint a bevonható önkormányzati saját forrás vonatkozásában), úgy a szakminiszter erről szóló – előzetesen az érintett önkormányzat tudomására hozott – nyilatkozatában a helyi önkormányzatokért felelős miniszter felé kezdeményezi a támogatási javaslat felülvizsgálatát;
+## a) amennyiben az önkormányzat az igénybejelentésben eltér a beruházási koncepciónak a helyi önkormányzatokért felelős miniszterrel és a támogatható cél szerinti feladatkörrel rendelkező miniszterrel egyeztetett változatától (a támogatható műszaki tartalom, valamint a bevonható önkormányzati saját forrás vonatkozásában), úgy a támogatható cél szerinti feladatkörrel rendelkező miniszter erről szóló – előzetesen az érintett önkormányzat tudomására hozott – nyilatkozatában a helyi önkormányzatokért felelős miniszter felé kezdeményezi a támogatási javaslat felülvizsgálatát;
 
-## b) 60 napon túli köztartozás esetén az önkormányzatot a köztartozás megfizetéséig a támogatás nem illeti meg, az esedékes támogatások folyósítása az Ámr. 151. §-ának (2) bekezdése szerint felfüggesztésre kerül, illetve az Áht. 13/A. §-ának (6) bekezdése alapján az esedékes támogatás a köztartozások megfizetése érdekében – a támogatás ellenében vállalt kötelezettségeket nem érintő módon – visszatartásra kerülhet:
+## b) 60 napon túli köztartozás esetén az önkormányzatot a köztartozás megfizetéséig a támogatás nem illeti meg, az esedékes támogatások folyósítása az Ávr. szerint felfüggesztésre kerül, illetve az Áht. alapján az esedékes támogatás a köztartozások megfizetése érdekében – a támogatás ellenében vállalt kötelezettségeket nem érintő módon – visszatartásra kerülhet:
 
-## c) a támogatás kedvezményezettjének megnevezése, a támogatás tárgya, a támogatás összege, a támogatott program megvalósítása helye az Ámr.-ben szabályozott módon nyilvánosságra hozhatók;
+## c) a támogatás kedvezményezettjének megnevezése, a támogatás tárgya, a támogatás összege, a támogatott program megvalósítása helye az Ávr.-ben szabályozott módon nyilvánosságra hozhatók;
 
 ## Hozzájárul, hogy
 
-## a) a köztartozások – az Áht. 13/A. § (4) bekezdésében foglaltak szerint – figyelemmel kísérése céljából a pályázó adószámát, társadalombiztosítási törzsszámát, társadalombiztosítási folyószámlaszámát a Kincstár, illetve a támogatást nyújtó szerv felhasználja a lejárt köztartozások teljesítése, illetőleg az adósság bekövetkezése tényének és összegének megismeréséhez;
+## a) a köztartozások figyelemmel kísérése céljából a pályázó adószámát, társadalombiztosítási törzsszámát, társadalombiztosítási folyószámlaszámát a Kincstár, illetve a támogatást nyújtó szerv felhasználja a lejárt köztartozások teljesítése, illetőleg az adósság bekövetkezése tényének és összegének megismeréséhez;
 
-## b) az igénybejelentés szabályszerűségét és a támogatás rendeltetésszerű felhasználását a helyi önkormányzatokért felelős miniszter és a szakminiszter, valamint a Regionális Egészségügyi Tanács, illetve a Területi Vízgazdálkodási Tanács ellenőrizzék;
+## b) az igénybejelentés szabályszerűségét és a támogatás rendeltetésszerű felhasználását a helyi önkormányzatokért felelős miniszter és a támogatható cél szerinti feladatkörrel rendelkező miniszter, valamint a kijelölt térségi egészségszervezésért felelős államigazgatási szerv, illetve a Területi Vízgazdálkodási Tanács ellenőrizzék;
 
 ## c) a Kincstár által működtetett monitoring rendszer a jogszabályban meghatározott jogosultak (döntéshozók, előirányzat-kezelők, Monitoring Bizottságok) számára hozzáférési lehetőséget biztosíthasson a pénzügyi adatbázishoz.
 
@@ -404,6 +378,6 @@
 
 | .......................................... polgármester |
 
-5/A. melléklet adattartalma a 19/2005. (II. 11.) Korm. rendelethez[^62]
+5/A. melléklet adattartalma a 19/2005. (II. 11.) Korm. rendelethez[^75]
 
-[^62]: Az 5/A. melléklet a 36/2010. (II. 26.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^75]: Az 5/A. melléklet a 36/2010. (II. 26.) Korm. rendelet 16. § (4) bekezdésével megállapított, a 67/2012. (IV. 5.) Korm. rendelet 4. § n) pontja szerint módosított szöveg.

@@ -54,6 +54,6 @@
 
 ## igazgató
 
-7. melléklet a 19/2005. (II. 11.) Korm. rendelethez[^65]
+7. melléklet a 19/2005. (II. 11.) Korm. rendelethez[^78]
 
-[^65]: A 7. melléklet megjelölése a 36/2010. (II. 26.) Korm. rendelet 17. § (5) bekezdése szerint módosított szöveg.
+[^78]: A 7. melléklet megjelölése a 36/2010. (II. 26.) Korm. rendelet 17. § (5) bekezdése szerint módosított szöveg.

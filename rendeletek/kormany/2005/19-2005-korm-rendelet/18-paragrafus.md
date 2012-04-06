@@ -1,4 +1,4 @@
-18. §[^38] (1) A Kincstár megállapodik a helyi önkormányzatokért felelős miniszterrel, az önkormányzattal kötendő finanszírozási szerződés tartalmáról, ezt követően finanszírozási szerződést köt a beruházó önkormányzattal vagy a gesztor önkormányzattal.
+18. §[^40] (1) A Kincstár megállapodik a helyi önkormányzatokért felelős miniszterrel, az önkormányzattal kötendő finanszírozási szerződés tartalmáról, ezt követően finanszírozási szerződést köt a beruházó önkormányzattal vagy a gesztor önkormányzattal.
 
 (2) A Kincstár a finanszírozási szerződés megkötésekor ellenőrzi, hogy a finanszírozási szerződés mellékletét képező dokumentumok adatai megegyeznek-e a helyi önkormányzatokért felelős miniszternek a támogatás odaítéléséről szóló közleménye tartalmával.
 
@@ -6,4 +6,4 @@
 
 (4) A Kincstár által a támogatás folyósításában való közreműködésért felszámított kezelési költséget a szerződő felek a finanszírozási szerződésben rögzítik. A Kincstár által felszámított kezelési költség a ténylegesen igénybe vett támogatási összeg után, 0,45%.
 
-[^38]: A 18. § a 36/2010. (II. 26.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^40]: A 18. § a 36/2010. (II. 26.) Korm. rendelet 9. §-ával megállapított szöveg.

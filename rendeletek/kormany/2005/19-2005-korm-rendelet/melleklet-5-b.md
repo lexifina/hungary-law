@@ -18,7 +18,7 @@
 
 ## a) A közbeszerzési eredményhirdetés időpontja:
 
-## Melléklet: Az 5/2009. (III. 31.) IRM rendelet 7. számú mellékletének hitelesített másolata
+## Melléklet: A 92/2011. (XII. 30.) NFM rendelet 9. mellékletének hitelesített másolata
 
 ## b) A kivitelezés megkezdésének időpontja:
 
@@ -30,6 +30,6 @@
 
 | .......................................... polgármester |
 
-5/B. melléklet a 19/2005. (II. 11.) Korm. rendelethez[^63]
+5/B. melléklet a 19/2005. (II. 11.) Korm. rendelethez[^76]
 
-[^63]: Az 5/B. melléklet megjelölése a 36/2010. (II. 26.) Korm. rendelet 17. § (5) bekezdése szerint módosított szöveg.
+[^76]: Az 5/B. melléklet megjelölése a 36/2010. (II. 26.) Korm. rendelet 17. § (5) bekezdése szerint módosított szöveg.

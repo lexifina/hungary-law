@@ -1,4 +1,4 @@
-19. §[^39] (1) A támogatás címzettje – a Cct. 17. § (4) bekezdésében foglaltak kivételével – kiegyenlítetlen, a műszaki ellenőr teljesítés-igazolását tartalmazó számlát és a számla kiegyenlítéséhez szükséges arányos saját forrás rendelkezésre állását igazoló, finanszírozási szerződésben meghatározott fizetési számla kivonatának hitelesített másolatát nyújtja be a Kincstárhoz.
+19. §[^41] (1) A támogatás címzettje – a Cct. 17. § (4) bekezdésében foglaltak kivételével – kiegyenlítetlen, a műszaki ellenőr teljesítés-igazolását tartalmazó számlát és a számla kiegyenlítéséhez szükséges arányos saját forrás rendelkezésre állását igazoló, finanszírozási szerződésben meghatározott fizetési számla kivonatának hitelesített másolatát nyújtja be a Kincstárhoz.
 
 (2) A számlának – a külön jogszabályban meghatározottakon kívül – tartalmaznia kell a helyi önkormányzatokért felelős miniszter közleménye mellékletének számát, sorszámát és a beruházás típusának kódszámát, továbbá azt, hogy kifizetése az igénylő önkormányzatot terheli. A beruházás során keletkezett számlát a támogatás címzettje záradékolja, és a záradékban nyilatkozik az előzetesen felszámított, de levonhatóvá vált áfa összegről.
 
@@ -12,4 +12,4 @@
 
 (7) A Kincstár az (1)–(6) bekezdésben foglaltaktól eltérő tartalmú számlát – teljesítés nélkül – javításra visszaküldi az önkormányzatnak.
 
-[^39]: A 19. § a 36/2010. (II. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^41]: A 19. § a 36/2010. (II. 26.) Korm. rendelet 10. §-ával megállapított szöveg.

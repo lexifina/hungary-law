@@ -1,3 +1,3 @@
-## 6. §[^14]
+## 6. §[^15]
 
-[^14]: A 6. §-t a 29/2007. (II. 28.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte.
+[^15]: A 6. §-t a 29/2007. (II. 28.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte.
