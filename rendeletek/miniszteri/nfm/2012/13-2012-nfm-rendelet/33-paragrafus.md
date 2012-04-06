@@ -4,4 +4,6 @@
 
 33. § (1) Ez a rendelet a kihirdetését követő harmincadik napon lép hatályba.
 
-(2) Hatályát veszti a légi járművek és légi jármű berendezések karbantartásának személyi jogosítási és képzési követelményeiről szóló 6/2004. (I. 30.) GKM rendelet.
+(2)[^1]
+
+[^1]: A 33. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
