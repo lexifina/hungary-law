@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-219-20-
 | --- | --- | --- |
 | 2012-01-01 | 2011-219-20-22.1 | 219/2011. (X. 20.) Korm. rendelet |
 | 2012-01-02 | 2011-219-20-22.24 | 2010: CXXX. törvény |
+| 2012-04-06 | 2011-219-20-22.2 | 67/2012. (IV. 5.) Korm. rendelet |
