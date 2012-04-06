@@ -2,11 +2,11 @@
 
 (2) Az 1. § a) pont ad) alpontja, valamint az 1. § b) pont bb) alpontja szerinti dokumentáció (6)–(7) bekezdés szerinti elektronikus példányát a miniszter a hozzá történő beérkezést követően 30 napon belül megküldi a Dokumentációs Központnak.
 
-(3)[^3] Az 1. § c) pontja szerinti határozatot és hatásvizsgálatot a határozat jogerőre emelkedését követő 30 napon belül az állami főépítész megküldi a Dokumentációs Központnak. Amennyiben a térségi területfelhasználási engedélykérelemről hozott határozat elleni kereset ügyében a Fővárosi Törvényszék határozatot hoz, azt az állami főépítész a határozat kézhezvételétől számított 30 napon belül megküldi a Dokumentációs Központnak.
+(3)[^6] Az 1. § c) pontja szerinti határozatot és hatásvizsgálatot a határozat jogerőre emelkedését követő 30 napon belül az állami főépítész megküldi a Dokumentációs Központnak. Amennyiben a térségi területfelhasználási engedélykérelemről hozott határozat elleni kereset ügyében a Fővárosi Törvényszék határozatot hoz, azt az állami főépítész a határozat kézhezvételétől számított 30 napon belül megküldi a Dokumentációs Központnak.
 
 (4) Az 1. § d) pontja szerinti területi kutatás iratanyagait a kutatást megrendelő szerv vezetője a kutatás lezárásától számított 90 napon belül megküldi a Dokumentációs Központnak.
 
-(5) Az 1. § e) pontja szerinti jegyzőkönyvet az Országos Területfejlesztési Tanács, a térségi fejlesztési tanács, a regionális fejlesztési tanács, a megyei területfejlesztési tanács, valamint a kistérségi fejlesztési tanács a hitelesítést követő 90 napon belül megküldi a Dokumentációs Központnak.
+(5)[^7] Az 1. § e) pontja szerinti jegyzőkönyvet az Országos Területfejlesztési Tanács és a térségi fejlesztési tanács a hitelesítést követő 90 napon belül megküldi a Dokumentációs Központnak.
 
 (6) Az (1)–(5) bekezdés szerinti dokumentációkat elektronikus úton az ISO 32000 – 1:2008 szabványnak megfelelő PDF (Portable Document Format) formátumban kell a Dokumentációs Központnak 100 MB terjedelemig elektronikus úton a központi elektronikus szolgáltató rendszeren keresztül, 100 MB terjedelem felett egyszer írható elektronikus adathordozón postai úton megküldeni.
 
@@ -32,7 +32,8 @@ g) a munka kezdetének és befejezésének időpontja, és
 
 h) a különleges kezelésre való utalás.
 
-(10)[^4] Az 1. § g)–h) pontja szerinti dokumentációt a kidolgozásért felelős szerv az elfogadást követő 90 napon belül elektronikus úton megküldi a Dokumentációs Központnak.
+(10)[^8] Az 1. § g)–h) pontja szerinti dokumentációt a kidolgozásért felelős szerv az elfogadást követő 90 napon belül elektronikus úton megküldi a Dokumentációs Központnak.
 
-[^3]: A 3. § (3) bekezdése a 314/2011. (XII. 23.) Korm. rendelet 20. §-a szerint módosított szöveg.
-[^4]: A 3. § (10) bekezdését a 37/2010. (II. 26.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^6]: A 3. § (3) bekezdése a 314/2011. (XII. 23.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^7]: A 3. § (5) bekezdése a 67/2012. (IV. 5.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
+[^8]: A 3. § (10) bekezdését a 37/2010. (II. 26.) Korm. rendelet 11. § (2) bekezdése iktatta be.
