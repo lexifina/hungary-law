@@ -1,3 +1,0 @@
-## VI. Fejezet
-
-## ÁTMENETI RENDELKEZÉSEK
