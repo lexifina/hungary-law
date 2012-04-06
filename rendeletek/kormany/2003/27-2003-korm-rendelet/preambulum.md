@@ -1,1 +1,0 @@
-A Magyar Köztársaság 2003. évi költségvetéséről szóló 2002. évi LXII. törvény 57. §-a (7) bekezdésének b) pontjában kapott felhatalmazás alapján a térség- és település-felzárkóztatási célelőirányzat felhasználásával kapcsolatban a Kormány a következőket rendeli el:
