@@ -38,7 +38,7 @@ r) a harmadik országbeli állampolgár és a szabad mozgás és tartózkodás j
 
 s) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harm.tv.) 71. §-ának (1)–(2) bekezdése szerinti kötelezettségek foglalkoztató általi
 
-t) a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés – kormányrendeletben meghatározott – elvárt mértékének megfelelő végrehajtására.
+t) a költségvetési szervek, valamint az egyházi fenntartású közfeladatot ellátó egészségügyi, oktatási, szociális, közgyűjteményi és közművelődési szolgáltatást nyújtó munkáltató kivételével, a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés – kormányrendeletben meghatározott – elvárt mértéke megfelelő végrehajtásának
 
 megtartására.
 
@@ -58,4 +58,4 @@ kiterjed.
 
 (4) Az iskolaszövetkezet tagjának az Mt. XII/A. § fejezete alapján történő munkavégzése tekintetében az iskolaszövetkezetnél végzett munkaügyi ellenőrzés nem terjed ki az (1) bekezdés k) pontjában foglaltak megtartásának ellenőrzésére. Az (1) bekezdés a)–c), e)–i), valamint o)–s) pontjaiban lefolytatott ellenőrzés során a munkaügyi hatóság a munkaügyi szabályok betartásának ellenőrzését a szövetkezetekről szóló 2006. évi X. törvényben foglalt eltérő szabályok figyelembevételével végzi, e körben ellenőrzési jogköre kiterjed a munkáltató iskolaszövetkezeti jogállásának, valamint a foglalkoztatottak tanulói vagy hallgatói jogviszonya fennállásának ellenőrzésére is. E rendelkezés nem érinti az iskolaszövetkezet tagja személyes közreműködését igénybevevő harmadik személy foglalkoztatónál megvalósuló, az iskolaszövetkezet tagjának nem minősülő személy foglalkoztatása szabályai betartásának ellenőrzését.
 
-(5) A munkaügyi ellenőrzés minden esetben kiterjed az (1) bekezdés t) pontjában foglaltak vizsgálatára is.
+(5)
