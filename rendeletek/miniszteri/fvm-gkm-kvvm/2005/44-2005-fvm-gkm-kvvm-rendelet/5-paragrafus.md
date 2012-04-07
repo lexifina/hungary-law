@@ -1,4 +1,4 @@
-## 4. § Mezőgazdasági repülés repülőtérről vagy nem nyilvános fel- és leszállóhelyről végezhető.[^2]
+## 4. § Mezőgazdasági repülés repülőtérről vagy nem nyilvános fel- és leszállóhelyről végezhető.[^9]
 
 5. § (1) A mezőgazdasági légijármű vezetője a mezőgazdasági repülés megkezdése előtt köteles meggyőződni a munkaterület levegőből való megmunkálásához szükséges munkafeltételek együttes meglétéről.
 
@@ -10,4 +10,4 @@
 
 (5) A mezőgazdasági repülést a technológiának megfelelő biztonságos magasságban kell végrehajtani.
 
-[^2]: A légiközlekedésről szóló 1995. évi XCVII. törvény és a végrehajtásáról szóló 141/1995. (XI. 30.) Korm. rendelet szerint.
+[^9]: A légiközlekedésről szóló 1995. évi XCVII. törvény és a végrehajtásáról szóló 141/1995. (XI. 30.) Korm. rendelet szerint.

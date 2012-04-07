@@ -1,19 +1,35 @@
 ## A mezőgazdasági légijármű vezetője
 
-3. § (1) Mezőgazdasági repülést csak az végezhet, akinek érvényes szakszolgálati engedélye és mezőgazdasági jogosítása[^1] van, valamint rendelkezik a (2) bekezdés szerinti légi-mezőgazdasági bizonyítvánnyal.
+3. §[^4] (1) Mezőgazdasági repülést csak az végezhet, aki az 1. melléklet szerinti légi-mezőgazdasági munkavégzésre jogosító engedéllyel (a továbbiakban: légi-mezőgazdasági engedély) rendelkezik.
 
-(2) Légi-mezőgazdasági bizonyítványra olyan személy jogosult, aki
+(2) Légi-mezőgazdasági engedélyre jogosult, aki a hajózó személyzet képzéséről és szakszolgálati engedélyéről szóló 32/2009. (VI. 30.) KHEM rendelet szerinti érvényes szakszolgálati engedéllyel és mezőgazdasági jogosítással rendelkezik, valamint
 
-a) a földművelésügyi és vidékfejlesztési miniszter (a továbbiakban: miniszter) által erre feljogosított és ellenőrzött szervezet előtt növény-, talaj-, környezet- és természetvédelmi, közegészségügyi, munka- és tűzvédelmi, valamint növényvédő szer és elsősegély-nyújtási ismeretekből eredményes vizsgát tett, vagy
+a) a növényvédelmi tevékenységről szóló jogszabályban meghatározott növényvédelmi alaptanfolyamot követően eredményes vizsgát tett,
 
-b) a növényvédelmi tevékenységről szóló 5/2001. (I. 16.) FVM rendelet 13. §-ának (2) és (3) bekezdésében foglalt felsőfokú növényvédelmi képesítéssel rendelkezik, vagy
+b) a növényvédelmi tevékenységről szóló jogszabályban meghatározott felsőfokú növényvédelmi képesítéssel és I. forgalmi kategóriájú növényvédő szer forgalmazási, vásárlási és felhasználási engedéllyel rendelkezik, vagy
 
-c) a Nyíregyházi Mezőgazdasági Főiskolán repülőgép vezetői üzemmérnöki diplomát szerzett,
+c) a Nyíregyházi Főiskola Műszaki és Mezőgazdasági Karán vagy annak jogelőd intézményénél repülőgép vezetői üzemmérnöki diplomát vagy azzal egyenértékű szakképesítést szerzett.
 
-## továbbá eleget tesz a (3) bekezdésben foglaltaknak.
+(3) A légi-mezőgazdasági engedélyt a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) öt évre adja ki és a (4) bekezdésben foglaltak teljesülése esetén az engedély érvényességét, kérelemre, újabb öt évre meghosszabbítja.
 
-(3) A mezőgazdasági légijármű vezetők háromévenként a miniszter által erre kijelölt szervezet által szervezett, és a miniszter által jóváhagyott növényvédelmi szakmai továbbképzésen kötelesek részt venni, és vizsgát tenni.
+(4) A légi-mezőgazdasági engedéllyel rendelkezők ötévenként az élelmiszerlánc felügyeletéért felelős miniszter (a továbbiakban: miniszter) által erre kijelölt szervezet által szervezett és a miniszter által jóváhagyott tematikájú növényvédelmi szakmai továbbképzésen kötelesek részt venni. A továbbképzés vizsgaköteles, arról a továbbképzést végző szervezet vagy intézmény tanúsítványt állít ki, ha a kötelezett a továbbképzésen részt vett és eredményes vizsgát tett.
 
-(4) A légi-mezőgazdasági bizonyítványt a Földművelésügyi és Vidékfejlesztési Minisztérium adja ki és vonja vissza, amennyiben a mezőgazdasági légijármű vezető nem tesz eleget a (3) bekezdésben foglaltaknak.
+(5) A légi-mezőgazdasági engedéllyel rendelkező köteles a NÉBIH -nek bejelenteni, ha
 
-[^1]: A légiközlekedési személyzet szakszolgáti engedélyeiről szóló 5/2001. (II. 6.) KöViM rendelet szerint.
+a) az engedélye elveszett, megrongálódott, az erről való tudomásszerzéstől,
+
+b) az adataiban változás következett be, a változás bekövetkezésétől
+
+számított nyolc napon belül.
+
+(6) A légi-mezőgazdasági engedélyt a NÉBIH visszavonhatja, ha a jogosult
+
+a) nem tesz eleget a (4) bekezdésben foglalt kötelezettségének,
+
+b) a mezőgazdasági légi jármű vezetését – légi mezőgazdasági munkavégzés során – légi-mezőgazdasági engedéllyel nem rendelkezőnek átengedi,
+
+c) a mezőgazdasági repülés során az e rendeletben foglalt szabályokat megszegi.
+
+(7) Az engedély visszavonására irányuló döntését a NÉBIH honlapján is közzéteszi. Az engedély visszavonásától számított két éven belül új engedély nem adható ki.
+
+[^4]: A 3. § a 34/2012. (IV. 6.) VM rendelet 2. §-ával megállapított szöveg.

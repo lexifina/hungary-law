@@ -8,6 +8,6 @@ c) munkaterületen szétszórt fa, bokor, illetőleg fa- és bokorcsoport, tová
 
 d) a repülést akadályozó egyéb természetes és mesterséges tárgy.
 
-(2) A mezőgazdasági légijármű vezetőjének be kell tartania a villamosmű biztonsági övezetéről szóló külön jogszabály[^3] előírásait.
+(2) A mezőgazdasági légijármű vezetőjének be kell tartania a villamosmű biztonsági övezetéről szóló külön jogszabály[^10] előírásait.
 
-[^3]: A villamosmű biztonsági övezetéről szóló 122/2004. (X. 15.) GKM rendelet.
+[^10]: A villamosmű biztonsági övezetéről szóló 122/2004. (X. 15.) GKM rendelet.

@@ -1,35 +1,30 @@
 ## 9. § Növényvédelmi munkát mezőgazdasági légijárművel csak légi kijuttatásra engedélyezett növényvédő szerrel lehet végezni. A felhasznált termék engedélyokiratában foglaltaktól a kijuttatás során eltérni nem lehet.
 
-## A szakirányító és a mezőgazdasági repülés megrendelőjének feladatai
+## A szakirányító feladatai[^11]
 
-10. § (1) A légi növényvédelmet szakirányítónak kell irányítani.
+10. §[^12] (1) A mezőgazdasági repülést szakirányítónak kell felügyelni.
 
-(2) A szakirányító köteles a mezőgazdasági légijármű vezetőjének a légi növényvédelmi munka megkezdése előtt
+(2) A szakirányító köteles
 
-a) írásban átadni a munka megrendelését, a felhasználásra kerülő növényvédő szer megnevezését, a helyi viszonyokhoz igazodó felhasználási utasítással,
+a) a mezőgazdasági repülés megkezdése előtt a légi jármű vezetőjének írásban átadni a kijuttatásra kerülő készítmény megnevezését és a helyi viszonyokhoz igazodó felhasználási utasítását, a kijuttatási tervet engedélyező határozat másolatát vagy a kijuttatási tervhez nem kapcsolódó egyedi légi permetezési bejelentést,
 
-b) átadni az 5. § (2) bekezdésében foglalt munkatérképet,
+b) a mezőgazdasági repülés megkezdése előtt az 5. § (2) bekezdés szerinti adatokat tartalmazó naprakész munkatérképet írásban, egy-egy példányban átadni a repülésfigyelőnek és a légi jármű vezetőjének,
 
-c) bemutatni a Tv. 45. §-ának (3) bekezdése esetén a méhek védelmében tett bejelentés igazolását.
+c) a mezőgazdasági repülés ideje alatt a munka megkezdésétől annak befejezéséig a repülőtéren, a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló 159/2010. (V. 6.) Korm. rendelet szerinti „B” osztályú leszállóhelyen vagy a munkaterületen tartózkodni,
 
-(3) A szakirányító a mezőgazdasági repülés ideje alatt a munka megkezdésétől annak befejezéséig
+d) a munkavégzést módosítani, ideiglenesen felfüggeszteni vagy leállítani, ha azt a meteorológiai körülmények, a munkavégzés módja vagy egyéb veszélyhelyzet fellépése indokolja, és ennek tényét a repülési naplóba bejegyezni,
 
-a) köteles a munkavégzés területén tartózkodni,
+e) a munkavégzés megkezdése előtt a permetezéssel érintettek megfelelő tájékoztatásáról gondoskodni,
 
-b) felelős a munka helyszíni irányításáért,
+f) a méhek védelme érdekében a növényvédelmi tevékenységről szóló jogszabályban foglalt rendelkezéseket a munkavégzés során betartani.
 
-c) a munkavégzést köteles módosítani, felfüggeszteni vagy – ha azt a meteorológiai körülmények, a munkavégzés módja vagy egyéb azonosított veszélyhelyzet váratlan fellépése indokolja – leállítani, melynek tényét a repülési naplóba be kell jegyezni.
+(3) A mezőgazdasági repülés munkatérkép hiányában nem kezdhető meg.
 
-(4) A szakirányító felelős
+(4) A szakirányító felelős a légi permetezést engedélyező határozatban foglaltak betartásáért, a mezőgazdasági repülés helyszíni irányításáért, a felhasználásra kerülő készítmény átmeneti tárolásáért, megfelelő előkészítéséért, a munkavédelemre vonatkozó biztonsági és a visszamaradt veszélyes hulladék ártalmatlanítására vonatkozó külön jogszabályban foglalt előírások betartásáért.
 
-a) a növényvédő szerrel végzett tevékenység során felhasználásra kerülő légi kijuttatásra engedélyezett növényvédő szer átmeneti tárolásáért, az engedélynek megfelelő előkészítéséért, a munkavédelemre vonatkozó biztonsági előírások és a visszamaradt veszélyes hulladék ártalmatlanítására vonatkozó külön jogszabályban foglalt előírások betartásáért, valamint
+(5) A szakirányító felelőssége a mezőgazdasági légi jármű vezetőjének szabálytalan munkavégzésével okozott kárra nem terjed ki.
 
-b) a (2) bekezdésében foglaltakért.
+(6) Talajerő-gazdálkodási mezőgazdasági repülés esetén a szakirányítóra vonatkozó (2)–(5) bekezdésekben foglalt rendelkezéseket a mezőgazdasági repülés megrendelőjére kell alkalmazni.
 
-A szakirányító felelőssége a mezőgazdasági légijármű vezetőjének szabálytalan munkavégzésével okozott károkra nem terjed ki.
-
-(5) A szakirányító köteles – legkésőbb a munkavégzés napján – bejelenteni a légi növényvédelmi munkavégzés helyét és idejét a munkavégzés helye szerint illetékes megyei (fővárosi) növény- és talajvédelmi szolgálatnak (a továbbiakban: Szolgálat).
-
-(6) Talajerő-gazdálkodási mezőgazdasági repülés esetén a szakirányítóra vonatkozó rendelkezéseket a mezőgazdasági repülés megrendelőjére kell alkalmazni.
-
-(7) A mezőgazdasági repülés megrendelőjének feladata a 13. § (2) bekezdésében foglalt engedélyek beszerzése, valamint a 13. § (3) bekezdésében foglalt tájékoztatások megadása.
+[^11]: A 10. §-t megelőző alcím a 34/2012. (IV. 6.) VM rendelet 4. §-ával megállapított szöveg.
+[^12]: A 10. § a 34/2012. (IV. 6.) VM rendelet 4. §-ával megállapított szöveg.
