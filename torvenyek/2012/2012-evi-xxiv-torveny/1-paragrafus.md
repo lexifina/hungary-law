@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Szlovák Köztársaság Kormánya között, a közös államhatáron átvezető közutak forgalmi jellegéről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
