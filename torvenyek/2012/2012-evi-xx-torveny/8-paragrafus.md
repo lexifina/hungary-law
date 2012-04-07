@@ -1,0 +1,1 @@
+8. § A Kötv. 9. melléklete 1. pontjában a „Céltartalékok (24. cím)” szövegrész helyébe a „Közszférában foglalkoztatottak bérkompenzációja, gyermekgondozási díjban és terhességi-gyermekágyi segélyben részesülők kompenzációja (24. cím, 2. alcím) és Különféle kifizetések (24. cím, 3. alcím)” szöveg lép.
