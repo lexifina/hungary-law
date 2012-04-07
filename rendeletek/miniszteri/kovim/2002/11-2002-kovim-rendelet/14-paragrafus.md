@@ -254,7 +254,7 @@ A gyártó köteles minden egyes terméken jelölést és írásos típusmegfele
 
 4.2. A kijelölt testület köteles felhelyezni vagy felhelyeztetni azonosító jelét minden egyes jóváhagyott termékre, és írásos megfelelőségi bizonyítványt kiállítani a lefolytatott vizsgálatokkal kapcsolatosan.
 
-4.3.[^37] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles gondoskodni arról, hogy a lobogó szerinti állam igazgatásának felkérésére képes legyen a kijelölt testület által kibocsátott megfelelőségi bizonyítványt átadni.
+4.3.[^37] A gyártó vagy annak Magyarorzág területén belül letelepedett, engedéllyel rendelkező képviselője köteles gondoskodni arról, hogy a lobogó szerinti állam igazgatásának felkérésére képes legyen a kijelölt testület által kibocsátott megfelelőségi bizonyítványt átadni.
 
 5. Statisztikai ellenőrzés
 
@@ -434,7 +434,7 @@ Kis méretű felszerelések esetében a minimális méretkorlátozástól el leh
 [^31]: A B) melléklet (D MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
 [^32]: A B) melléklet (D MODUL) rész 3. pont 3.4. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
 [^33]: A B) melléklet (E MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
-[^34]: A B) melléklet (E MODUL) 3. pont 3.4. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^34]: A B) melléklet (E MODUL) rész 3. pont 3.4. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
 [^35]: A B) melléklet (F MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
 [^36]: A B) melléklet (F MODUL) rész 3. pont 3.1. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
 [^37]: A B) melléklet (F MODUL) rész 4. pont 4.3. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.

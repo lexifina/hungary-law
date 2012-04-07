@@ -56,7 +56,7 @@ n) típusjóváhagyás: a nemzetközi vizsgálati követelmények alapján a fel
 
 o) EK típusvizsgálat: az e rendelet 7. §-ában meghatározott termékellenőrzés.
 
-[^1]: Az 1. § b) pontja a 90/2011. (XII. 30.) NFM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § b) pontja a 90/2011. (XII. 30) NFM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § d) pontja a 82/2003. (XII. 10.) GKM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § g) pontja a 65/2009. (XI. 26.) KHEM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: Az 1. § i) pontja a 82/2003. (XII. 10.) GKM rendelet 7. §-a szerint módosított szöveg.
