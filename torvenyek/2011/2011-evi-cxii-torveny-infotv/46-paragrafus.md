@@ -2,7 +2,7 @@
 
 46. § (1) A Hatóság elnökének munkáját az általa határozatlan időre kinevezett helyettes segíti. A Hatóság elnökhelyettese felett az elnök gyakorolja a munkáltatói jogokat.
 
-(2) Az elnökhelyettesnek meg kell felelnie a Hatóság elnökének kinevezéséhez szükséges, a 40. § (1) és (2) bekezdésében előírt feltételeknek.
+(2) Az elnökhelyettesnek meg kell felelnie a Hatóság elnökének kinevezéséhez szükséges, a 40. § (1) és (2) bekezdésében előírt feltételeknek, azzal, hogy az adatvédelmet vagy az információszabadságot érintő eljárások ellenőrzésében öt év szakmai tapasztalattal kell rendelkeznie.
 
 (3) Az elnökhelyettes összeférhetetlenségére a 41. §-ban foglaltakat megfelelően alkalmazni kell.
 
