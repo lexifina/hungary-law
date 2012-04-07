@@ -22,4 +22,6 @@ g) a tagsággal vagy részvétellel kapcsolatban a munkavállalók szervezeteibe
 
 h) az előmeneteli rendszerben;
 
-i) a kártérítési, valamint a fegyelmi felelősség érvényesítése során.
+i) a kártérítési, illetve a fegyelmi felelősség érvényesítése során, valamint
+
+j) a munkavállalók szülői és munkavállalói kötelezettségeinek összehangolását és a gyermek gondozására fordítható idő növelését elősegítő szülői szabadság kérelmezésével, illetve igénybevételével összefüggésben.

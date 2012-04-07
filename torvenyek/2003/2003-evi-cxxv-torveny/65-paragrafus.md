@@ -1,4 +1,4 @@
-65. § Ez a törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt és az 1994. évi I. törvénnyel kihirdetett Európai Megállapodás jogközelítésére vonatkozó rendelkezéseivel összhangban az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
+65. § Ez a törvény a következő irányelveknek való megfelelést szolgálja
 
 a) a Tanács 76/207/EGK irányelve a nőkkel és a férfiakkal való egyenlő bánásmód elvének a munkavállalás, a szakképzés és az előmenetel lehetőségei, valamint a munkafeltételek terén történő végrehajtásáról és az azt módosító 2002/73/EK irányelv,
 
@@ -14,4 +14,6 @@ f) a Tanács 2000/43/EK irányelve a személyek közötti, faji vagy etnikai sz�
 
 g) a Tanács 2000/78/EK irányelve a foglalkoztatási és munkahelyi egyenlő bánásmód általános kereteinek a létrehozásáról,
 
-h) a Tanács 2004/113/EK irányelve a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról.
+h) a Tanács 2004/113/EK irányelve a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról,
+
+i) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről szóló 2010. március 8-i 2010/18/EU tanácsi irányelv.

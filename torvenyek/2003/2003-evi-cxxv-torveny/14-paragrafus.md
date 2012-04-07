@@ -8,7 +8,7 @@ c) véleményezi az egyenlő bánásmódot érintő jogszabályok, közjogi szer
 
 d) javaslatot tesz az egyenlő bánásmódot érintő kormányzati döntésekre, jogi szabályozásra;
 
-e) rendszeresen tájékoztatja a közvéleményt és a Kormányt az egyenlő bánásmód érvényesülésével kapcsolatos helyzetről;
+e) rendszeresen tájékoztatja a közvéleményt és az Országgyűlést az egyenlő bánásmód érvényesülésével kapcsolatos helyzetről;
 
 f) feladatainak ellátása során együttműködik a társadalmi és érdek-képviseleti szervezetekkel, valamint az érintett állami szervekkel;
 
@@ -16,9 +16,9 @@ g) az érintettek számára folyamatos tájékoztatást ad és segítséget nyú
 
 h) közreműködik az egyenlő bánásmód követelményével kapcsolatban nemzetközi szervezetek, így különösen az Európa Tanács számára készülő kormányzati jelentések elkészítésében;
 
-i) közreműködik az Európai Unió Bizottsága számára az egyenlő bánásmódra vonatkozó irányelvek harmonizációjáról szóló jelentések elkészítésében;
+i) közreműködik az Európai Unió Bizottsága számára az egyenlő bánásmódra vonatkozó irányelvek harmonizációjáról szóló jelentések elkészítésében.
 
-j) évente beszámol a Kormánynak a hatóság tevékenységéről és e törvény alkalmazása során szerzett tapasztalatairól.
+j)
 
 (2)
 

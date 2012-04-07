@@ -6,4 +6,4 @@
 
 (4) Felhatalmazást kap az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, hogy a helyi esélyegyenlőségi program elkészítésének részletes szabályait rendeletben határozza meg.
 
-(5) Felhatalmazást kap az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, hogy a felzárkózást elősegítő megélhetési támogatásra vonatkozó részletes szabályokat rendeletben határozza meg.
+(5)
