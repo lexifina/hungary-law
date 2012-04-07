@@ -6,4 +6,6 @@ a) az egészségi állapot és a szakszolgálati munkakörnyezet kapcsolata,
 
 b) az egyénnek a szakszolgálati feladatokkal kapcsolatos képességei, jártassága és tapasztalata (szükség esetén repülési szakmai ellenőrzést kell végezni).
 
-(2) A korlátozások, előírások az orvosi minősítésben kerülnek rögzítésre. Amennyiben több korlátozó tényező is fennáll, úgy azok együttes hatását is mérlegeli a szolgálat. A leggyakrabban előforduló korlátozások és előírások jelölését és meghatározását a 7. számú melléklet tartalmazza.
+(2)[^36] A korlátozások, előírások az orvosi minősítésben kerülnek rögzítésre. Amennyiben több korlátozó tényező is fennáll, úgy azok együttes hatását is mérlegeli a szolgálat. A leggyakrabban előforduló korlátozások és előírások jelölését és meghatározását a 6. melléklet tartalmazza.
+
+[^36]: A 16. § (2) bekezdése a 16/2012. (III. 30.) NFM rendelet 10. § g) pontja szerint módosított szöveg.

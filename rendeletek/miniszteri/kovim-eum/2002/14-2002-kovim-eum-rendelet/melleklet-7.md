@@ -1,83 +1,89 @@
-## Minta egészségügyi minősítéshez
-
-| I | Magyarország Köztársaság | VIII | Nemzeti Közlekedési Hatóság Polgári Légiközlekedési Igazgatósága | Első Orvosi Vizsgálat/ Initial medical examination:Időpont/Date: Ország/State: |  |
-
-|  | Hungarian Republic |  | Civil Aviation Administration of National Transport Authority, Hungary |  |
-
-|  | Az ICAO követelményekkel összhangban került kiadásra Issued in accordance ICAO stan- dards |  |  |  |
-
-| III | Szakszolgálati eng. száma/Licen- ce No.: |  |  |  |
-
-|  |  | II | ... Osztályú Orvosi Minősítés/ |  |  |
-
-|  |  |  | Medical certificate class . | Vizsgálatok időpontja: Utolsó Következő Date (YDM) of: Last Next |  |
-
-| IV | A szakszolgálati eng. tulajdonosa/ | IX | Érvényessége lejár/ | Bővített Repülőorvosi Vizsgálat/ Extended Medical Examination |  |
-
-|  | Last and first name of holder: |  | Validity commencement date: |  |
-
-|  |  |  | Ezen Orvosi Minősítés feljogo- sítja tulajdonosát, hogy a szak- szolgálati engedélyhez kötött jo- gait gyakorolja, az alábbi korlá- tozásoknak megfelelően |  |
-
-|  |  |  | The holder of this Medical | Repülőorvosi Vizsgálat/ Medical(general) examination | ... Osztályú Repülőorvosi Minősítés |
-
-| XIV | Születési idő/Date of birth: |  | Certificate is entitled to |
-
-|  |  |  | exercise the privileges of the |
-
-|  |  |  | related pilot licence | EKG/ Electrocardiogram | Medical Certi- ficate Class ... |
-
-|  |  |  | subject to any limitations or |
-
-| V | Lakcím/Address: |  | conditions shown | Hallásvizsgálat/ Audiogram |  |
-
-|  |  | XIII | Korlátozások/Limitations: |  |
-
-| VI | Állampolgárság/Nationality: |  |  |  |  |
-
-|  |  | X | Kibocsátás időpontja és a ható- sági orvos aláírása/ | Megjegyzés/Comments | PERTAINING TO A FLIGHT CREW LICENCE |
-
-|  |  |  | Date of issue and signature |
-
-| VII | A szakszolgálati engedélyes alá- írása/ |  | of issuing officer: |
-
-|  | Signature of holder: |  |  |
-
-|  |  | XI | Bélyegző/Stamp: |
-
-7. számú melléklet a 14/2002. (II. 26.) KöViM–EüM
-
-együttes rendelethez
+## Az engedélyben szereplő korlátozások és előírások jelölése és meghatározása
 
 | No | Kód | Korlátozás, előírás |
 
-| 1 | TML | Érvényes .... Hónapra Valid only for ..... months |
+| 1 | TML | Érvényes .... hónapra |
 
-| 2 | VDL | Szemüveg/kontaktlencse viselése és tartalék szemüveg készenlétben tartása kötelező Shall wear corrective lenses and carry a spare set of spectacles Shall wear corrective lenses and carry a spare set of spectacles |
+|  |  | Valid only for ..... months |
 
-| 3 | VML | Multifokális szemüveg viselése és tartalék szemüveg készenlétben tartása kötelező Shall wear multifocal spectacles and carry a spare set of spectacles |
+| 2 | VDL | Szemüveg/kontaktlencse viselése és tartalék szemüveg készenlétben tartása kötelező |
 
-| 4 | VNL | Közeli látáshoz szemüveg viselése és tartalék szemüveg készenlétben tartása kötelező Shall have available corrective spectacles for near vision and carry a spare set of spectacles |
+|  |  | Shall wear corrective lenses and carry a spare set of spectacles |
 
-| 5 | VCL | – Repülést csak JAA légtérben végezhet – VFR repülést csak nappal végezhet – Flights only within JAA airspace – VFR flights by day only |
+| 3 | VML | Multifokális szemüveg viselése és tartalék szemüveg készenlétben tartása kötelező |
 
-| 6 | OML | Repülést csak másodpilótaként vagy másodpilótával végezhet Valid only as or with qualified co-pilot |
+|  |  | Shall wear multifocal spectacles and carry a spare set of spectacles |
 
-| 7 | OCL | Repülést csak másodpilótaként végezhet Valid only as co-pilot |
+| 4 | VNL | Közeli látáshoz szemüveg és tartalék szemüveg készenlétben tartása kötelező |
 
-| 8 | OSL | Repülést csak biztonsági pilótával és kettőzött kormányrendszerrel végezhet Valid only with safety pilot and in aircraft with dual control |
+|  |  | Shall have available corrective spectacles for near vision and carry a spare set of spectacles |
 
-| 9 | OAL | Repülést csak meghatározott repülőgéptípussal végezhet Restricted to demonstrated aircraft type |
+| 5 | VCL | Repülést csak nappal végezhet |
 
-| 10 | OPL | Utast nem szállíthat Valid only without passengers |
+|  |  | Valid by day only |
 
-| 11 | APL | Repülést csak az engedélyezett protézissel végezhet Valid only with approved prosthesis |
+| 6 | OML | Repülést csak másodpilótaként vagy másodpilótával végezhet |
 
-| 12 | AHL | Repülést csak engedélyezett kezelőszervekkel végezhet Valid only with approved hand controls |
+|  |  | Valid only as or with qualified co-pilot |
 
-| 13 | AGL | Csak az engedélyezett szemvédő eszközzel érvényes Valid only with approved eye proctection |
+| 7 | OFL | Az 1. Egészségügyi Osztályban csak fedélzeti mérnökként alkalmas |
 
-| 14 | SSL | Különleges korlátozás, esetenként részletezve Special restrictions as specified |
+|  |  | Class 1 valid for flight engineer duties only |
 
-| 15 | SIC | Különleges rendelkezések – vegye fel a kapcsolatot az AMS-sel Special instructions-contact AMS |
+| 8 | OCL | Repülést csak másodpilótaként végezhet |
 
-|  | AMS | Az AMS bocsátotta ki Issued by AMS |
+|  |  | Valid only as co-pilot |
+
+| 9 | OSL | Repülést csak biztonsági pilótával és kettőzött kormányrendszerű légijárművel végezhet |
+
+|  |  | Valid only with safety pilot and in aircraft with dual control |
+
+| 10 | OAL | Repülést csak meghatározott repülőgép típussal végezhet |
+
+|  |  | Restricted to demonstrated aircraft type |
+
+| 11 | OPL | Utast nem szállíthat |
+
+|  |  | Valid only without passengers |
+
+| 12 | APL | Repülést csak az engedélyezett protézissel végezhet |
+
+|  |  | Valid only with approved prosthesis |
+
+| 13 | AHL | Repülést csak engedélyezett kezelőszervekkel végezhet |
+
+|  |  | Valid only with approved hand controls |
+
+| 14 | AGL | Csak az engedélyezett szemvédő eszközzel érvényes |
+
+|  |  | Valid only with approved eye proctection |
+
+| 15 | SSL | Különleges korlátozás, esetenként részletezve |
+
+|  |  | Special restrictions as specified |
+
+| 16 | SIC | Különleges rendelkezések – vegye fel a kapcsolatot az AMS-sel |
+
+|  |  | Special instructions-contact AMS |
+
+| 17 | AMS | Az Orvosi Minősítést csak az AMS bocsáthatja ki |
+
+|  |  | Recertification or renewal only by AMS |
+
+| 18 | REV | Az Orvosi Minősítés felülvizsgálati eljárás után került kiadásra, különleges előírások jegyezhetők be a minősítésbe, szükség esetén az AMS-sel felvehető a kapcsolat |
+
+|  |  | Medical certificate issued after review procedure, special instructions may apply, AMS may be contacted |
+
+| 19 | RXO | Szemészeti szakorvosi vizsgálat szükséges |
+
+|  |  | Requires specialist ophthalmological examinations |
+
+| 20 | FEV | Fedélzeti mérnöki szakszolgálatra további 6 hónapig érvényes |
+
+|  |  | For F/E duties valid for an additional period of 6 month |
+
+7. számú melléklet a 14/2002. (II. 26.) KöViM–EüM
+
+együttes rendelethez[^45]
+
+[^45]: A 7. mellékletet a 16/2012. (III. 30.) NFM rendelet 11. § d) pontja hatályon kívül helyezte.

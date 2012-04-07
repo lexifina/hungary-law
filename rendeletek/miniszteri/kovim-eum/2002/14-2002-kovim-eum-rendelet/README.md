@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-14-20-9
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-03-12 | 2002-14-20-93.4 | 14/2002. (II. 26.) KöViM–EüM együttes rendelet |
+| 2012-04-07 | 2002-14-20-93.5 | 16/2012. (III. 30.) NFM rendelet |

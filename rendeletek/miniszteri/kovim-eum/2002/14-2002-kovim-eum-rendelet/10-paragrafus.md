@@ -1,6 +1,6 @@
 ## Az orvosi minősítés
 
-10. § (1) A repülőorvos, illetve a repülőorvosi központ vizsgálata alapján a szolgálat orvosi minősítést ad ki, melynek egészségügyi követelményeit az 1. számú melléklet, mintáját a 6. számú melléklet tartalmazza. A repülőorvosi minősítésben szereplő korlátozások meghatározását és jelölését az e rendelet 7. számú melléklete sorolja fel.
+10. § (1)[^28] A légiközlekedési hatóság az orvosi minősítést a repülőorvos vagy a repülőorvosi központ vizsgálata alapján adja ki, amelynek egészségügyi követelményeit az 1. melléklet, végzésének és ismétlésének kötelező gyakoriságát a 4. melléklet tartalmazza. A repülőorvosi minősítésben szereplő korlátozások meghatározását és jelölését a 6. melléklet tartalmazza.
 
 (2) Az orvosi minősítéssel kapcsolatos intézkedések:
 
@@ -12,13 +12,13 @@ c) az orvosi minősítést megújító/meghosszabbító vizsgálat alkalmával, 
 
 (3) Az egészségügyi állapotban történt változást követő korlátozást vagy az érvényesség felfüggesztését a szolgálat az orvosi minősítésbe bejegyzi. Amennyiben a repülőegészségügyi alkalmasságot korlátozással állapították meg, a légiközlekedési hatóság előírja, hogy a szakszolgálati tevékenységet hogyan kell végrehajtani (pl. kizárólag biztonsági pilótával repülhet).
 
-(4) Eljárás a nem alkalmas vagy korlátozással alkalmas minősítés esetén:
+(4)[^29] Eljárás a nem alkalmas, ideiglenesen nem alkalmas vagy korlátozással alkalmas minősítés esetén:
 
-a) nem alkalmas vagy korlátozással alkalmas minősítésről a légiközlekedési hatóság határozatban értesíti a vizsgált személyt, és tájékoztatja a vizsgálatokat végző repülőorvost,
+a) nem alkalmas, ideiglenesen nem alkalmas vagy korlátozással alkalmas minősítésről a légiközlekedési hatóság határozatban értesíti a vizsgált személyt, és tájékoztatja a vizsgálatokat végző repülőorvost,
 
-b) a nem alkalmas vagy korlátozással alkalmas minősítéseket a légiközlekedési hatóság legkésőbb öt napon belül rögzíti adatbázisában, és megkeresés esetén hozzáférést biztosít a közös légügyi hatóságok[^8] illetékes társhatósága számára,
+b) a nem alkalmas, ideiglenesen nem alkalmas vagy korlátozással alkalmas minősítéseket a légiközlekedési hatóság legkésőbb öt napon belül rögzíti adatbázisában, és megkeresés esetén hozzáférést biztosít a közös légügyi hatóságok illetékes társhatósága számára. A szolgálat az orvosi alkalmasságot „ideiglenesen nem alkalmas” minősítéssel abban az esetben állapítja meg, amennyiben a kivizsgálás, a gyógyulás, illetve a gyógykezelés befejezése és az állapot stabilizálódása 6 hónapon belül várható,
 
-c) fellebbezés esetén az I. fokú repülőegészségügyi minősítés felülvizsgálatára a II. fokú légiközlekedési hatóság felülvizsgáló bizottságot hív össze, amelynek szakmai összetételét és létszámát az eset klinikai jellegének megfelelően határozza meg. A bizottság létszáma legalább három fő.
+c) fellebbezés esetén az I. fokú repülő-egészségügyi minősítés felülvizsgálatára a II. fokú légiközlekedési hatóság felülvizsgáló bizottságot hív össze, amelynek szakmai összetételét és létszámát az eset klinikai jellegének megfelelően határozza meg. A bizottság létszáma legalább három fő.
 
 (5) Az I. fokú alkalmassági vizsgálat ismétlése:
 
@@ -26,4 +26,5 @@ a) az orvosi minősítést I. vagy II. fokon végző szerv – alkalmatlanság m
 
 b) amennyiben az orvosi minősítést végző szerv az (1) bekezdés alapján nem határozta meg az I. fokú egészségügyi alkalmassági vizsgálat ismételt elvégzésének legkorábbi időpontját, az érdekelt személy soron kívüli alkalmassági vizsgálatot kérhet, feltéve, ha orvosi leletekkel igazolja egészségi állapotának olyan mérvű javulását, amelynek alapján feltehető, hogy egészségügyi szempontból alkalmas a szakszolgálati feladatok biztonságos ellátására.
 
-[^8]: Joint Aviation Authorities.
+[^28]: A 10. § (1) bekezdése a 16/2012. (III. 30.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^29]: A 10. § (4) bekezdése a 16/2012. (III. 30.) NFM rendelet 7. § (2) bekezdésével megállapított szöveg.

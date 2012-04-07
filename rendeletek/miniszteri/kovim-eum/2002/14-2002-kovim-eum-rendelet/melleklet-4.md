@@ -1,406 +1,426 @@
 ## A kijelölt vizsgáló repülőorvosok (Authorized Medical Examiner = AME) oktatási tematikája
 
-## A) Repülőorvosi alaptanfolyam 60 óra
+| A) Repülőorvosi alaptanfolyam | 60 óra |
 
-## 1. Bevezetés a repülőorvostanba 1 óra
+| 1. Bevezetés a repülőorvostanba | 1 óra |
 
-## A repülőorvostan története
+| A repülőorvostan története |  |
 
-## A polgári repülőegészségügy sajátos szempontjai
+| A polgári repülő-egészségügy sajátos szempontjai |  |
 
-## A katonai repülőegészségügy és az űrorvostan tárgya
+| A katonai repülő-egészségügy és az űrorvostan tárgya |  |
 
-## 2. Az atmoszféra és a világűr fizikája 1 óra
+| 2. Az atmoszféra és a világűr fizikája | 1 óra |
 
-## Atmoszféra
+| Atmoszféra |  |
 
-## Világűr
+| Világűr |  |
 
-## A gázok és gőzök fizikai törvényei és azok élettani jelentősége
+| A gázok és gőzök fizikai törvényei és azok élettani jelentősége |  |
 
-## 3. Alapvető repüléstani ismeretek 3 óra
+| 3. Alapvető repüléstani ismeretek | 3 óra |
 
-## A repülés mechanizmusa
+| A repülés mechanizmusa |  |
 
-## A légijárművek meghajtása
+| A légijárművek meghajtása |  |
 
-## Fedélzeti műszerek
+| Fedélzeti műszerek |  |
 
-## A hagyományos műszerek és a ,,glass cockpit''
+| A hagyományos műszerek és a „glass cockpit” |  |
 
-## A légitársaságok üzemelési jellegzetességei
+| A légitársaságok üzemelési jellegzetességei |  |
 
-## A katonai repülés
+| A katonai repülés |  |
 
-## A légiforgalmi irányítás
+| A légiforgalmi irányítás |  |
 
-## A nem hivatásos repülés (sport, hobby)
+| A nem hivatásos repülés (sport, hobby) |  |
 
-## Személyes repülőgép/szimulátor tapasztalat
+| Személyes repülőgép/szimulátor tapasztalat |  |
 
-## 4. Repülésélettan
+| 4. Repülésélettan |  |
 
-## a) Atmoszféra
+| a) Atmoszféra |  |
 
-## Az ember funkcionális korlátai a repülésben
+| Az ember funkcionális korlátai a repülésben |  |
 
-## Az atmoszféra rétegei
+| Az atmoszféra rétegei |  |
 
-## Gáztörvények és élettani jelentőségük
+| Gáztörvények és élettani jelentőségük |  |
 
-## A dekompresszió élettani hatásai
+| A dekompresszió élettani hatásai |  |
 
-## b) Légzés
+| b) Légzés |  |
 
-## Vérgázok cseréje
+| Vérgázok cseréje |  |
 
-## Oxigén telítettség
+| Oxigén telítettség |  |
 
-## c) Hipoxia – objektív és szubjektív tünetei
+| c) Hipoxia – objektív és szubjektív tünetei |  |
 
-## Az átlagos önmentési idő
+| Az átlagos önmentési idő |  |
 
-## Hiperventiláció – objektív és szubjektív tünetek
+| Hiperventiláció – objektív és szubjektív tünetek |  |
 
-## Barotrauma
+| Barotrauma |  |
 
-## Dekompressziós betegség
+| Dekompressziós betegség |  |
 
-## Az a) + b) + c) modulok összesen: 4 óra
+| Az a)+b)+c) modulok összesen: | 4 óra |
 
-## d) Gyorsulás 1 óra
+| d) Gyorsulás | 1 óra |
 
-## G-vektorok iránya/állása
+| G-vektorok iránya/állása |  |
 
-## A G-terhelés hatása és korlátai
+| A G-terhelés hatása és korlátai |  |
 
-## A Gz-tűrőképesség fokozásának módszerei
+| A Gz-tűrőképesség fokozásának módszerei |  |
 
-## Pozitív/negatív gyorsulások
+| Pozitív/negatív gyorsulások |  |
 
-## A gyorsulás és a vesztibuláris rendszer
+| A gyorsulás és a vesztibuláris rendszer |  |
 
-## e) Vizuális dezorientáció 1 óra
+| e) Vizuális dezorientáció | 1 óra |
 
-## A felhőalapok és a horizont
+| A felhőalapok és a horizont |  |
 
-## A földi fények és a csillagok konfúziója
+| A földi fények és a csillagok konfúziója |  |
 
-## f) Vestibuláris dezorientáció 2 óra
+| látási autokinézis |  |
 
-## A belsőfül anatómiája
+| f) Vestibuláris dezorientáció | 2 óra |
 
-## A félkörös ívjáratok működése
+| A belsőfül anatómiája |  |
 
-## Az otolith szervek működése
+| A félkörös ívjáratok működése |  |
 
-## Az okulogyralis és a coriolis illúziók
+| Az otolith szervek működése |  |
 
-## ,,A dőlés''
+| Az okulogyralis és a coriolis illúziók |  |
 
-## g) Szimulátor illúzió 1 óra
+| „A dőlés” |  |
 
-## A pozitív és negatív lineáris gyorsulás hatásai
+| g) Szimulátor illúzió | 1 óra |
 
-## Mozgásbetegség – okai és kezelése
+| A pozitív és negatív lineáris gyorsulás hatásai |  |
 
-## h) Zaj és vibráció 1 óra
+| Mozgásbetegség – okai és kezelése |  |
 
-## A zaj és vibráció élettani hatásai
+| h) Zaj és vibráció | 1 óra |
 
-## Preventív intézkedések
+| A zaj és vibráció élettani hatásai |  |
 
-## 5. Szemészet 4 óra (1 óra bemutató és gyakorlás)
+| Preventív intézkedések |  |
 
-## A szem anatómiája
+| 5. Szemészet | 4 óra |
 
-## A szem klinikai vizsgálata
+| (1 óra bemutató és gyakorlás) |  |
 
-## Funkcionális vizsgálatok (látóélesség, színlátás, látótér stb.)
+| A szem anatómiája |  |
 
-## A repülés szempontjából jelentős szemészeti elváltozások
+| A szem klinikai vizsgálata |  |
 
-## Szemészeti követelmények
+| Funkcionális vizsgálatok (látóélesség, színlátás, látótér stb.) |  |
 
-## 6. Fül-orr-gégészet 3 óra (1 óra bemutató és gyakorlás)
+| A repülés szempontjából jelentős szemészeti elváltozások |  |
 
-## A fül-orr-gége anatómiája
+| Szemészeti követelmények |  |
 
-## A fül-orr-gége klinikai vizsgálata
+| 6. Fül-orr-gégészet | 3 óra |
 
-## Funkcionális hallásvizsgálat
+| (1 óra bemutató és gyakorlás) |  |
 
-## Az egyensúly vizsgálata
+| A fül-orr-gége anatómiája |  |
 
-## A nagyothallás és a repülési munkahelyek
+| A fül-orr-gége klinikai vizsgálata |  |
 
-## Barotrauma (középfül, orrmelléküregek)
+| Funkcionális hallásvizsgálat |  |
 
-## A repülés szempontjából jelentős fül-orr-gégészeti elváltozások
+| Az egyensúly vizsgálata |  |
 
-## Fül-orr-gégészeti követelmények
+| A nagyothallás és a repülési munkahelyek |  |
 
-## 7. Általános orvosi vizsgálat és kardiológia 10 óra
+| Barotrauma (középfül, orrmelléküregek) |  |
 
-## A teljes fizikális vizsgálat
+| A repülés szempontjából jelentős fül-orr-gégészeti elváltozások |  |
 
-## Az egészségügyi alkalmasság és a szív- és érrendszer állapot
+| Fül-orr-gégészeti követelmények |  |
 
-## Az egészségügyi alkalmasság és a légzőszervek állapota
+| 7. Általános orvosi vizsgálat és kardiológia | 10 óra |
 
-## Az egészségügyi alkalmasság és a gyomor és bélrendszeri betegségek
+| A teljes fizikális vizsgálat |  |
 
-## Az egészségügyi alkalmasság és a vese betegségei
+| Az egészségügyi alkalmasság és a szív- és érrendszer állapot |  |
 
-## Az egészségügyi alkalmasság és a nőgyógyászati betegségek
+| Az egészségügyi alkalmasság és a légzőszervek állapota |  |
 
-## Az egészségügyi alkalmasság és a szénhidrát háztartás
+| Az egészségügyi alkalmasság és a gyomor és bélrendszeri betegségek |  |
 
-## Az egészségügyi alkalmasság és a haematológiai betegségek
+| Az egészségügyi alkalmasság és a vese betegségei |  |
 
-## Az egészségügyi alkalmasság és az orthopaediai betegségek
+| Az egészségügyi alkalmasság és a nőgyógyászati betegségek |  |
 
-## Korlátozott egészségi állapot és az alkalmasság
+| Az egészségügyi alkalmasság és a szénhidrát háztartás |  |
 
-## Az alkalmassági követelmények
+| Az egészségügyi alkalmasság és a haematológiai betegségek |  |
 
-## 8. Neurológia 2 óra
+| Az egészségügyi alkalmasság és az orthopaediai betegségek |  |
 
-## A teljes memória vizsgálat
+| Korlátozott egészségi állapot és az alkalmasság |  |
 
-## Az egészségügyi alkalmasság és a neurológiai betegségek
+| Az alkalmassági követelmények |  |
 
-## Az alkalmassági követelmények
+| 8. Neurológia | 2 óra |
 
-## 9. Pszichiátria a repülőorvostanban 4 óra
+| A teljes memória vizsgálat |  |
 
-## Pszichiátriai exploráció
+| Az egészségügyi alkalmasság és a neurológiai betegségek |  |
 
-## Az egészségügyi alkalmasság és a pszichiátriai állapotok
+| Az alkalmassági követelmények |  |
 
-## Az alkalmassági követelmények
+| 9. Pszichiátria a repülőorvostanban | 4 óra |
 
-## 10. Pszichológia 4 óra
+| Pszichiátriai exploráció |  |
 
-## Bevezetés a repülés pszichológiába
+| Az egészségügyi alkalmasság és a pszichiátriai állapotok |  |
 
-## Magatartás
+| Tudatmódosítószerek, alkohol |  |
 
-## Személyiség
+| Az alkalmassági követelmények |  |
 
-## Repülési motiváció és alkalmasság
+| 10. Pszichológia | 4 óra |
 
-## A csoportok szociális faktorai
+| Bevezetés a repülés pszichológiába |  |
 
-## Munkaterhelés, ergonómia
+| Magatartás |  |
 
-## Pszichés stressz, fáradtság
+| Személyiség |  |
 
-## A pszichomotoros funkciók és az életkor
+| Repülési motiváció és alkalmasság |  |
 
-## Repülési fóbia
+| A csoportok szociális faktorai |  |
 
-## A vizsgáló orvos és a hajózók közötti kapcsolat
+| Munkaterhelés, ergonómia |  |
 
-## A pszichológiai kiválasztás szempontjai
+| Pszichés stressz, fáradtság |  |
 
-## Az alkalmassági követelmények
+| A pszichomotoros funkciók és az életkor |  |
 
-## 11. Fogászat 1 óra
+| Repülési fóbia |  |
 
-## Fogászati vizsgálat
+| A vizsgáló orvos és a hajózók közötti kapcsolat |  |
 
-## Barodontológia
+| A pszichológiai kiválasztás szempontjai |  |
 
-## Az alkalmassági követelmények
+| Az alkalmassági követelmények |  |
 
-## 12. Repülőesemények – Menekülés – Túlélés 4 óra
+| 11. Fogászat | 1 óra |
 
-## Sérülések jellegzetességei
+| Fogászati vizsgálat |  |
 
-## Repülőesemény statisztikák
+| Barodontológia |  |
 
-## – Általános, sport és hobby repülés
+| Az alkalmassági követelmények |  |
 
-## – Kereskedelmi repülés
+| 12. Repülőesemények – Menekülés – Túlélés | 4 óra |
 
-## – Katonai repülés
+| Sérülések jellegzetességei |  |
 
-## Repülési pathológia, post mortem vizsgálatok, azonosítás
+| Repülőesemény statisztikák |  |
 
-## A repülőgép vészhelyzeti elhagyásának lehetőségei
+| – Általános, sport és hobby repülés |  |
 
-## – Légijármű tűz esetén
+| – Kereskedelmi repülés |  |
 
-## – Légijármű vízre szállásakor
+| – Katonai repülés |  |
 
-## – Ejtőernyővel
+| Repülési pathológia, post mortem vizsgálatok, azonosítás |  |
 
-## – Katapultálás
+| A repülőgép vészhelyzeti elhagyásának lehetőségei |  |
 
-## 13. Jogi szabályozás, törvények és rendeletek 6 óra
+| – Légijármű tűz esetén |  |
 
-## ICAO Szabványok és Ajánlott Eljárások
+| – Légijármű vízre szállásakor |  |
 
-## JAA felépítése, működése és szabályozási gyakorlata
+| – Ejtőernyővel |  |
 
-## 14. Evakuálás légi úton 3 óra (1 óra gyakorlati bemutató)
+| – Katapultálás |  |
 
-## Szervezete és működése
+| 13. Jogi szabályozás, törvények és rendeletek | 6 óra |
 
-## A sérült/beteg utas
+| ICAO Szabványok és Ajánlott Eljárások |  |
 
-## Mentőrepülés
+| JAA rendelkezések |  |
 
-## A szívbeteg utas
+| AMS, AMC, AME |  |
 
-## A légzőszervi betegségek és a repülés
+| 14. Evakuálás légi úton | 3 óra |
 
-## A pszichiátriai sürgősségi esetek
+| (1 óra gyakorlati bemutató) |  |
 
-## 15. Gyógyszerek és a repülés 2 óra
+| Szervezete és működése |  |
 
-## 16. A tanfolyam zárása 2 óra
+| A sérült/beteg utas |  |
 
-## Záróvizsga
+| Mentőrepülés |  |
 
-## A tanfolyam értékelése/kritikák
+| A szívbeteg utas |  |
 
-## B) Haladó szintű repülőorvosi tanfolyam 60 óra
+| A légzőszervi betegségek és a repülés |  |
 
-## 1. A pilóta munkakörnyezete 2 óra
+| A pszichiátriai sürgősségi esetek |  |
 
-## Túlnyomásos kabin
+| 15. Gyógyszerek és a repülés | 2 óra |
 
-## Merevszárnyú repülés
+| 16. A tanfolyam zárása | 2 óra |
 
-## Forgószárnyú repülés
+| Záróvizsga |  |
 
-## Repülés egy- vagy többtagú személyzettel
+| A tanfolyam értékelése/kritikák |  |
 
-## 2. Repülésélettan 4 óra (2 óra gyakorlati bemutató)
+| B) Haladó szintű repülőorvosi tanfolyam | 60 óra |
 
-## A repülésélettani fogalmak rövid ismétlése
+| 1. A pilóta munkakörnyezete | 2 óra |
 
-## (hypoxia, hiperventiláció, gyorsulás, dezorientáció)
+| Túlnyomásos kabin |  |
 
-## 3. Szemészet 5 óra (2 óra bemutató és gyakorlás)
+| Merevszárnyú repülés |  |
 
-## Az alapok rövid ismétlése (látóélesség, refrakció, színlátás, látótér stb.)
+| Forgószárnyú repülés |  |
 
-## Az 1. Egészségügyi Osztály követelményei
+| Repülés egy- vagy többtagú személyzettel |  |
 
-## A látóélesség-javító és más szemészeti beavatkozások megítélése
+| 2. Repülésélettan | 4 óra |
 
-## Esetismertetés
+| (2 óra gyakorlati bemutató) |  |
 
-## 4. Fül-orr-gégészet 4 óra (2 óra bemutató és gyakorlás)
+| A repülésélettani fogalmak rövid ismétlése (hypoxia, hiperventiláció, gyorsulás, dezorientáció) |  |
 
-## Az alapok rövid ismétlése (középfül és a melléküregek barotraumája,
+| 3. Szemészet | 5 óra |
 
-## funkcionális hallásvizsgálat stb.)
+| (2 óra bemutató és gyakorlás) |  |
 
-## Esetismertetés
+| Az alapok rövid ismétlése (látóélesség, refrakció, színlátás, látótér stb.) |  |
 
-## 5. Általános orvosi vizsgálat és kardiológia 10 óra (4 óra bemutató és gyakorlás)
+| Az 1. Egészségügyi Osztály követelményei |  |
 
-## A teljes fizikális vizsgálat és az alapfogalmak áttekintése
+| A látóélesség-javító és más szemészeti beavatkozások megítélése |  |
 
-## Az 1. Egészségügyi Osztály követelményei
+| Esetismertetés |  |
 
-## Gyógyszerek és a repülés
+| 4. Fül-orr-gégészet (2 óra bemutató és gyakorlás) | 4 óra |
 
-## A kardiológiai diagnosztikai lépései
+| Az alapok rövid ismétlése (középfül és a melléküregek barotraumája, funkcionális hallásvizsgálat stb.) |  |
 
-## Esetismertetések
+| Az 1. Egészségügyi Osztály követelményei |  |
 
-## 6. Neurológia/Pszichiátria 6 óra (2 óra bemutató és gyakorlat)
+| Esetismertetés |  |
 
-## Az alapok áttekintése
+| 5. Általános orvosi vizsgálat és kardiológia | 10 óra |
 
-## Drog és alkohol
+| (4 óra bemutató és gyakorlás) |  |
 
-## Az 1. Egészségügyi Osztály követelményei
+| A teljes fizikális vizsgálat és az alapfogalmak áttekintése |  |
 
-## 7. A repülés emberi tényezői 19 óra (9 óra bemutató és gyakorlat)
+| Az 1. Egészségügyi Osztály követelményei |  |
 
-## a) Hosszútávú repülés
+| Gyógyszerek és a repülés |  |
 
-## – Repülési idő szabályozása
+| A kardiológiai diagnosztikai lépései |  |
 
-## – Alvászavar
+| Esetismertetések |  |
 
-## – Repülés kibővített vagy dupla személyzettel
+| 6. Neurológia/Pszichiátria | 6 óra |
 
-## – Jet lag/időzónák
+| (2 óra bemutató és gyakorlat) |  |
 
-## b) Az információ feldolgozás és a rendszerek tervezése
+| Az alapok áttekintése |  |
 
-## – FMS, PFD, datalink, fly by wire
+| Drog és alkohol |  |
 
-## – Adaptáció a ,,glass cockpit''-hoz
+| Az 1. Egészségügyi Osztály követelményei |  |
 
-## – CCC, CRM, LOFT stb.
+| 7. A repülés emberi tényezői | 19 óra |
 
-## – Szimulátor training
+| (9 óra bemutató és gyakorlat) |  |
 
-## – Ergonómia
+| a) Hosszútávú repülés |  |
 
-## – Gyakorlati repülési tapasztalat
+| – Repülési idő szabályozása |  |
 
-## c) A szakszolgálati engedélyek típusai
+| – Alvászavar |  |
 
-## d) A repülőesemények emberi tényezői
+| – Repülés kibővített vagy dupla személyzettel |  |
 
-## – Elemzés és annak légitársasági következményei
+| – Jet lag/időzónák |  |
 
-## – JAA követelmények
+| b) Az információ feldolgozás és a rendszerek tervezése |  |
 
-## 8. Trópusi orvostan 2 óra
+| – FMS, PFD, datalink, fly by wire |  |
 
-## A trópusi betegségek járványtana
+| – Adaptáció a „glass cockpit”-hoz |  |
 
-## A trópusi betegségek és a repülőegészségügy
+| – CCC, CRM, LOFT stb. |  |
 
-## A repülési személyzet és az utasok oltásai
+| – Szimulátor training |  |
 
-## Nemzetközi egészségügyi előírások
+| – Ergonómia |  |
 
-## 9. Higiénia 4 óra (2 óra gyakorlati bemutató)
+| – Gyakorlati repülési tapasztalat |  |
 
-## A légijármű és a betegségek terjedése
+| c) A szakszolgálati engedélyek típusai |  |
 
-## Fertőtlenítés a repülésben
+| d) A repülőesemények emberi tényezői |  |
 
-## Higiénia a repülőgép fedélzetén
+| – Elemzés és annak légitársasági következményei |  |
 
-## Fedélzeti élelmezés (catering)
+| – JAA követelmények |  |
 
-## A hajózó személyzet táplálkozása
+| 8. Trópusi orvostan | 2 óra |
 
-## 10. Űrorvostan 2 óra
+| A trópusi betegségek járványtana |  |
 
-## Sugárzás
+| A trópusi betegségek és a repülő-egészségügy |  |
 
-## Űrhajók/Űrrepülőgépek
+| A repülési személyzet és az utasok oltásai |  |
 
-## 11. A tanfolyam zárása 2 óra
+| Nemzetközi egészségügyi előírások |  |
 
-## Záróvizsga
+| 9. Higiénia | 4 óra |
 
-## A tanfolyam értékelése/kritikák
+| (2 óra gyakorlati bemutató) |  |
 
-## C) Repülőorvosi felfrissítő tréning
+| A légijármű és a betegségek terjedése |  |
 
-## 1.[^17] Részvétel a Nemzeti Közlekedési Hatóság Polgári Légiközlekedési Igazgatósága irányításával (akkreditációjával) szervezett tanfolyamon (minimum 6 óra/3 év)
+| Fertőtlenítés a repülésben |  |
+
+| Higiénia a repülőgép fedélzetén |  |
+
+| Fedélzeti élelmezés (catering) |  |
+
+| A hajózó személyzet táplálkozása |  |
+
+| 10. Űrorvostan | 2 óra |
+
+| Sugárzás |  |
+
+| Űrhajók/Űrrepülőgépek |  |
+
+| 11. A tanfolyam zárása | 2 óra |
+
+| Záróvizsga |  |
+
+## C) Ismeret fejújító tanfolyam
+
+## 1. Részvétel a Légiközlekedési Hatóság irányításával (akkreditációjával) szervezett tanfolyamon (minimum 6 óra/3 év)
 
 ## 2. Tréningként elfogadhatók a következők is:
 
-## a) Részvétel a Nemzetközi Repülő- és Űrorvosi Akadémia (IAASM-ICASM) éves kongresszusán (4 teljes nap = 10 óra)
+## a) Részvétel a Nemzetközi Repülő- és Űrorvosi Akadémia (IAASM-ICASM) éves kongresszusán (4 teljes nap = 10 kredit óra)
 
-## b) Részvétel az Aerospace Medical Association (USA) éves tudományos ülésén (4 teljes nap = 10 óra)
+## b) Részvétel az Aerospace Medical Association (USA) éves tudományos ülésén (4 teljes nap = 10 kredit óra)
 
-## c) Részvétel a JAA tagállamok irányításával/akkreditációjával szervezett tudományos üléseken (a kredit óra értéket az illető ország AMS-e határozza meg).
+## c) Részvétel a JAA tagállamok irányításával/akkreditációjával szervezett tudományos üléseken (a kredit óra értéket az illető ország AMS-e határozza meg)
 
 ## d) Repülési tapasztalat (3 éven belül max. 5 kredit óra számítható be)
 
@@ -410,10 +430,10 @@
 
 ## – Légijármű vezetés (4 óra = 1 kredit óra)
 
-## A kredit időket minden esetben a magyar légügyi hatóság AMS-e hagyja jóvá.
+## A kredit időket minden esetben a légiközlekedési hatóság hagyja jóvá.
 
 4. számú melléklet a 14/2002. (II. 26.) KöViM–EüM
 
-együttes rendelethez
+együttes rendelethez[^42]
 
-[^17]: A 3. számú melléklet C) részének 1. pontja az 5/2007. (I. 18.) GKM–EüM együttes rendelet 1. § b) pontja szerint módosított szöveg.
+[^42]: A 4. számú melléklet a 16/2012. (III. 30.) NFM rendelet 9. § d) pontjával megállapított szöveg.

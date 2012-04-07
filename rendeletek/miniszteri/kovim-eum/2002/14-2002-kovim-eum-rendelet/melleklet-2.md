@@ -1,1644 +1,2311 @@
-## A LÉGIKÖZLEKEDÉSI SZAKSZOLGÁLATI ENGEDÉLYEK EGÉSZSÉGÜGYI FELTÉTELEI
+## I. FEJEZET
 
-## 1. A SZÍV- ÉS ÉRRENDSZER
+## Az 1. Egészségügyi Osztály követelményei
 
-## Vizsgáló eljárások
+## A JAR-FCL 3/B. Alfejezet szerint
 
-## (1) Az 1. Egészségügyi Osztály vizsgálatai
+## 1. A szív- és érrendszer
 
-## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan veleszületett vagy szerzett szív és érrendszeri betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+## 1.1. Vizsgáló eljárások (JAR – FCL 3.130)
 
-## b) 12 elvezetéses nyugalmi EKG felvétel és lelet szükséges az első orvosi minősítés kiadásakor, ezt követően pedig a 30. életévig 5 évente, a 40. életévig 2 évente, az 50. életévig évente, az 50. életév felett pedig 6 havonta, valamint klinikai indikáció esetén kell végezni.
+## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan veleszületett vagy szerzett szív- és érrendszeri betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
 
-## c) Klinikai indikáció esetén terheléses EKG végzése szükséges az 1. (4) a) pontja szerint.
+## b) 12 elvezetéses nyugalmi EKG felvétel és lelet szükséges az első orvosi minősítés kiadásakor, ezt követően pedig a 30. életévig 5 évente, a 40. életévig 2 évente, az 50. életévig évente, az 50. életév felett pedig minden vizsgálatkor, valamint klinikai indikáció esetén kell végezni.
 
-## d) A nyugalmi és a terheléses EKG vizsgálatot az AMS által elfogadott szakorvos leletezze.
+## c) Klinikai indikáció esetén terheléses EKG végzése szükséges a IV. Fejezet 1. Függelék 1. pontja szerint.
 
-## e) A szív- és érrendszeri rizikótényezők megítélése szempontjából vér lipid (koleszterinek/triglicerid stb.) meghatározást kell végezni az első minősítés kiadásakor, illetve a 40. életév betöltését követő első vizsgálat alkalmával [lásd: 1. (4) b) pont].
+## d) A nyugalmi és a terheléses EKG vizsgálatot a repülőorvos vagy a szolgálat által elfogadott szakorvos véleményezze.
 
-## f) 65 éves korban (50 éves korban egyedül repülés esetén) az 1. Osztályú orvosi minősítéssel rendelkezőt az AMS által elfogadott kardiológus szakorvos vizsgálja meg a Repülőorvosi Központban (AMC). Ezen felülvizsgálat alkalmával végezzenek terheléses EKG vizsgálatot és klinikai indikáció alapján minden más kiegészítő vizsgálatot is, mely a szív- és érrendszer állapotának pontos megítéléséhez szükséges. Ezt a kardiológiai vizsgálatot 4 évente meg kell ismételni.
+## e) A szív- és érrendszeri rizikótényezők megítélése szempontjából vér lipid (koleszterineket is ideértve) meghatározást kell végezni az első minősítés kiadásakor, illetve a 40. életév betöltését követő első vizsgálat alkalmával (lásd: IV. Fejezet 1. Függelék 2. pontja).
 
-## (2) A 2. Egészségügyi Osztály vizsgálatai
+## f) 65 életév utáni első meghosszabbító/megújító vizsgálat alkalmával az 1. Osztályú orvosi minősítéssel rendelkezőt a Repülőorvosi Központban vizsgálják meg, vagy a szolgálat döntése alapján vizsgálatot elvégezheti a szolgálat által elfogadott kardiológus is.
 
-## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan veleszületett vagy szerzett szív- és érrendszeri betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+## 1.2. Vérnyomás (JAR – FCL 3.135)
 
-## b) 12 elvezetéses nyugalmi EKG felvétel és lelet szükséges az első orvosi minősítés kiadásakor, ezt követően pedig a 40. életév betöltése utáni első vizsgálatkor, majd ezután 2 évente, az 50. életév betöltése után évente és a 65. életév betöltése után 6 havonta kell végezni.
+## a) A vérnyomást minden vizsgálat alkalmával a IV. Fejezet 1. Függelék 3. pontja szerint kell mérni.
 
-## c) Klinikai indikáció esetén terheléses EKG végzése szükséges az 1. (4) a) pontja szerint.
+## b) Amennyiben a vérnyomás a vizsgálat alkalmával következetesen, kezeléssel vagy kezelés nélkül meghaladja a 160 Hgmm-es szisztolés, illetve 95 Hgmm-es diasztolés értéket, a vizsgált személyt nem alkalmasnak kell minősíteni.
 
-## d) A nyugalmi és a terheléses EKG vizsgálatot az AMS által elfogadott szakorvos leletezze.
-
-## Amennyiben 2 vagy több rizikófaktor (dohányzás, magas vérnyomás, cukorbetegség, elhízás stb.) áll fenn, a vizsgált személynél vér lipid (koleszterinek/triglicerid stb.) meghatározást kell végezni az első minősítés kiadásakor, illetve a 40. életév betöltését követő első vizsgálat alkalmával [lásd: 1. (4) b) pont].
-
-## e) A 2. Osztályú minősítéssel rendelkezőt a 70. életévben az AMS által elfogadott kardiológus szakorvos vizsgálja meg. Ezen vizsgálat alkalmával terheléses EKG vizsgálatot is kell végezni. Ezt a kardiológiai vizsgálatot ezt követően 4 évente meg kell ismételni.
-
-## (3) A 3. Egészségügyi Osztály vizsgálatai
-
-## a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan veleszületett vagy szerzett szív- és érrendszeri betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
-
-## b) 12 elvezetéses nyugalmi EKG felvétel és lelet szükséges az első orvosi minősítés kiadásakor, ezt követően pedig 5 évente a 30. életévig, 2 évente a 40. életév betöltéséig, majd ezt követően évente, illetve klinikai indikáció esetén kell végezni.
-
-## c) Klinikai indikáció esetén terheléses EKG végzése szükséges az 1. (4) a) pontja szerint.
-
-## d) A nyugalmi és a terheléses EKG vizsgálatot az AMS által elfogadott szakorvos leletezze.
-
-## e) A szív- és érrendszeri rizikótényezők megítélése szempontjából vér lipid (koleszterinek/triglicerid stb.) meghatározást kell végezni az első minősítés kiadásakor, illetve a 40. életév betöltését követő első vizsgálat alkalmával [lásd: 1. (4) b) pont].
-
-## (4) Kiegészítő előírások a vizsgáló eljárásokhoz
-
-## a) Terheléses elektrokardiográfiás vizsgálatokat kell végezni:
-
-## 1. Klinikai tünetek vagy vizsgálati eredmények felvetik a szív- és érrendszeri betegség gyanúját.
-
-## 2. A nyugalmi elektrokardiogramon észleltek tisztázására.
-
-## 3. Az AMS által elfogadott kardiológus javaslata alapján.
-
-## 4. 65. életévben és utána 4 évenként az 1. Egészségügyi Osztályban.
-
-## 5. 70. életévben és utána 4 évenként a 2. Egészségügyi Osztályban.
-
-## b) A szív- és érrendszeri rizikótényezők meghatározása:
-
-## 1. A szérum lipidek meghatározása alkalomszerű és a jelentős eltéréseket az AMS felügyeletével kivizsgálni és ellenőrizni kell.
-
-## 2. A rizikófaktorok halmozódása esetén (dohányzás, családi anamnézis, kóros lipidértékek, hypertonia stb.) kardiológiai kivizsgálás szükséges az AMS irányításával, ahol erre mód van az AMC-vel együttműködve.
-
-## 2. A SZÍV- ÉS ÉRRENDSZER
-
-## Vérnyomás
-
-## (1) Az 1. Egészségügyi Osztály követelményei
-
-## a) A vérnyomást a 2. (4) a) pontja szerint kell mérni.
-
-## b) Nem alkalmas a vizsgált személy, amennyiben a vérnyomásérték a vizsgálat alkalmával ismételten meghaladja a 160 Hgmm-es szisztolés, illetve 95 Hgmm-es diasztolés értéket.
-
-## c) A vérnyomáscsökkentő terápiának összeegyeztethetőnek kell lenni a szakszolgálati feladatok biztonságos ellátásával [lásd: 2. (4) b) pont]. A terápiás beállítás idejére ideiglenesen nem alkalmas a vizsgált személy annak megállapítására, hogy nincs jelentős mellékhatása a gyógykezelésnek.
+## c) A vérnyomáscsökkentő terápiának összeegyeztethetőnek kell lennie a szakszolgálati feladatok biztonságos ellátásával és meg kell felelni a IV. Fejezet 1. Függelék 4. pontjának is. A terápiás beállítás idejére ideiglenesen nem alkalmas a vizsgált személy annak megállapítására, hogy nincs jelentős mellékhatása a gyógykezelésnek.
 
 ## d) Tüneteket okozó hypotonia esetén a vizsgált személy nem alkalmas.
 
-## (2) A 2. Egészségügyi Osztály követelményei
+## 1.3. Koszorúsér betegség (JAR – FCL 3.140)
 
-## a) A vérnyomást a 2. (4) a) pontja szerint kell mérni.
+## a) Ischémiás szívbetegség gyanúja esetén a vizsgálatra jelentkezőt ki kell vizsgálni. Kismértékű, tünetmentes, gyógyszeres kezelést nem igénylő koszorúsér-elváltozás esetén a szolgálat mérlegelheti az alkalmasságot, amennyiben a IV. Fejezet 1. Függelék 5. pontja szerinti vizsgálatok eredménye kielégítő.
 
-## b) Nem alkalmas a vizsgált személy, amennyiben a vérnyomásérték a vizsgálat alkalmával ismételten meghaladja a 160 Hgmm-es szisztolés, illetve 95 Hgmm-es diasztolés értéket.
+## b) Tünetet okozó koszorúsér-betegség vagy gyógyszeres kezelést igénylő tünetek esetén a vizsgált személy nem alkalmas.
 
-## c) A vérnyomáscsökkentő terápiának összeegyeztethetőnek kell lenni a szakszolgálati feladatok biztonságos ellátásával [lásd: 2. (4) b) pont]. A terápiás beállítás idejére ideiglenesen nem alkalmas a vizsgált személy annak megállapítására, hogy nincs jelentős mellékhatása a gyógykezelésnek.
+## c) Az 1. Egészségügyi Osztályban először minősítésre jelentkezőnél ischémiás történés után (ilyenek a szívizominfarktus, angina, jelentős ritmuszavar vagy szívelégtelenség, vagy a koszorúsér keringését helyreállító bármely beavatkozás) alkalmas minősítés nem adható ki. A megújító minősítést mérlegelheti a szolgálat, amennyiben a IV. Fejezet 1. Függelék 6. pontja szerinti vizsgálatok eredménye kedvező.
 
-## d) Tüneteket okozó hypotonia esetén a vizsgált személy nem alkalmas.
+## 1.4. Ritmus- és vezetési zavarok (JAR – FCL 3.145)
 
-## (3) A 3. Egészségügyi Osztály követelményei
+## a) A tartós vagy időnként jelentkező, klinikai tünetekkel járó szupraventrikuláris tachykardia, szinoatriális diszfunkció esetén a vizsgált személy nem alkalmas. A szolgálat mérlegelheti az alkalmas minősítést a IV. Fejezet 1. Függelék 7. pontja szerint.
 
-## a) A vérnyomást a 2. (4) a) pontja szerint kell mérni.
+## b) Tünetmentes szinus bradikardia vagy szinusz tachykardia esetén a vizsgált személy alkalmasnak minősíthető, amennyiben más kóros elváltozás nem áll a háttérben.
 
-## b) Nem alkalmas a vizsgált személy, amennyiben a vérnyomásérték a vizsgálat alkalmával ismételten meghaladja a 160 Hgmm-es szisztolés, illetve 95 Hgmm-es diasztolés értéket.
-
-## c) A vérnyomáscsökkentő terápiának összeegyeztethetőnek kell lenni a szakszolgálati feladatok biztonságos ellátásával [lásd: 2. (4) b) pont]. A terápiás beállítás idejére ideiglenesen nem alkalmas a vizsgált személy, annak megállapítására, hogy nincs jelentős mellékhatása a gyógykezelésnek.
-
-## d) Tüneteket okozó hypotonia esetén a vizsgált személy nem alkalmas.
-
-## (4) Kiegészítő előírások a vérnyomás követelményekhez
-
-## a) Hipertonia esetén az összes potenciális rizikótényezőt át kell tekinteni. A szisztolés értéket a Korotkoff hang megjelenése (I. fázis), a diasztolés értéket pedig annak eltűnése (V. fázis) jelzi. A vérnyomást legalább két alkalommal kell megmérni. Amennyiben a vérnyomásérték magas és/vagy a nyugalmi pulzusszám emelkedett, további vizsgálatot szükséges végezni az alkalmassági vizsgálat során.
-
-## b) A vérnyomáscsökkentő kezelés az AMS egyetértésével végezhető. Az AMS által engedélyezhető gyógyszerek:
-
-## 1. Nem-kacsdiuretikumok.
-
-## 2. Bizonyos (általában hidrofil) béta-blokkolók.
-
-## 3. ACE-gátlók.
-
-## 4. Angiotensin-II. receptor antagonisták (a sartan-félék).
-
-## 5. Lassú kalciumcsatorna blokkolók.
-
-## A klinikai állapot függvényében korlátozható az orvosi minősítés: az 1. Egészségügyi Osztályban csak többtagú személyzet tagjaként (Class 1. OML), a 2. Egészségügyi Osztályban csak biztonsági pilótával repülhet (Class 2. OSL).
-
-## 3. A SZÍV- ÉS ÉRRENDSZER
-
-## Koszorúsér-betegség
-
-## (1) Az 1. Egészségügyi Osztály követelményei
-
-## a) Koszorúsér-betegség gyanúja esetén a vizsgálatra jelentkezőt ki kell vizsgálni. Kismértékű, tünetmentes, gyógyszeres kezelést nem igénylő koszorúsér-elváltozás esetén a 3. (4) a) pontja szerint, kizárólag az AMS mérlegelheti az alkalmasságot.
-
-## b) Tünetet okozó koszorúsér-betegség esetén a vizsgált személy nem alkalmas.
-
-## c) Szívizominfarktus után a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 3. (4) b) pontja szerint felsoroltaknak.
-
-## d) Koszorúsér bypass műtét, angioplasztika, illetve koszorúsér stenting után a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 3. (4) c) pontban felsoroltaknak.
-
-## e) A bal kamra isémiás károsodása esetén (ejekciós frakció <0.50) a vizsgált személy nem alkalmas.
-
-## (2) A 2. Egészségügyi Osztály követelményei
-
-## a) Koszorúsér-betegség gyanúja esetén a vizsgálatra jelentkezőt ki kell vizsgálni. Kismértékű, tünetmentes, gyógyszeres kezelést nem igénylő koszorúsér-elváltozás esetén a 3. (4) a) pontja szerint, kizárólag az AMS mérlegelheti az alkalmasságot.
-
-## b) Tünetet okozó koszorúsér-betegség esetén a vizsgált személy nem alkalmas.
-
-## c) Szívizominfarktus után a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 3. (4) b) pontja szerint felsoroltaknak.
-
-## d) Koszorúsér bypass műtét, angioplasztika, illetve koszorúsér stenting után a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 3. (4) c) pontban felsoroltaknak.
-
-## e) A bal kamra isémiás károsodása esetén (ejekciós frakció <0.50) a vizsgált személy nem alkalmas.
-
-## (3) A 3. Egészségügyi Osztály követelményei
-
-## a) Koszorúsér-betegség gyanúja esetén a vizsgálatra jelentkezőt ki kell vizsgálni. Kismértékű, tünetmentes, gyógyszeres kezelést nem igénylő koszorúsér-elváltozás esetén a 3. (4) a) pontja szerint, kizárólag az AMS mérlegelheti az alkalmasságot.
-
-## b) Tünetet okozó koszorúsér-betegség esetén a vizsgált személy nem alkalmas.
-
-## c) Szívizominfarktus után a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 3. (4) b) pontja szerint felsoroltaknak.
-
-## d) Koszorúsér bypass műtét, angioplasztika, illetve koszorúsér stenting után a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 3. (4) c) pontban felsoroltaknak.
-
-## e) A bal kamra isémiás károsodása esetén (ejekciós frakció <0.50) a vizsgált személy nem alkalmas.
-
-## (4) Kiegészítő előírások a koszorúsér-betegség vizsgálatához
-
-## a) Tünetmentes koszorúsér-betegség gyanúja esetén terheléses elektrokardiográfiás vizsgálatot kell végezni és amennyiben indokolt, ezt terheléses scintigráfiának vagy echokardiográfiának és/vagy koronária angiográfiának kell követnie. A követelményeket a 3. (4) b) és 3. (4) c) pontok tartalmazzák.
-
-## b) Szívinfarktus vagy más isémiás eredetű esemény után, a minősítés mérlegelésének előfeltétele, hogy a vizsgált személy
-
-## 1. tünetmentes,
-
-## 2. sikeresen csökkentette a rizikófaktorait,
-
-## 3. az index esemény óta legalább 6 hónap telt el,
-
-## 4. nem részesül antianginás kezelésben.
-
-## c) Szívinfarktus vagy más isémiás eredetű esemény után minősítésért folyamodónak a következő vizsgálati követelményeket kell teljesíteni:
-
-## 1. Tünethatárolt 12 elvezetéses terheléses EKG (Bruce IV. fokozat vagy azzal egyenértékű terhelés), mely az AMS által elfogadott kardiológus véleménye szerint nem mutat isémiás eltérést. Kóros nyugalmi EKG esetén scintigráfia és/vagy terheléses echográfia indikálható.
-
-## 2. A bal kamrai ejekciós frakció ≥ 0.50, nincs jelentős funkciózavar (diszkinézia, hipokinézia vagy akinézia) és a jobb kamrai ejekciós frakció sem kóros.
-
-## 3. A 24 órás ambuláns EKG monitorozás során nem észlelhető jelentős vezetési zavar, illetve komplex vagy sustain ritmuszavar.
-
-## 4. A koszorúsér angiográfia egyik éren sem mutat 30%-nál nagyobb szűkületet az infarktusos területet kivéve, és a szívizom egyik területén sem látható funkciózavar.
-
-## 5. A kontrollvizsgálatokat kóros nyugalmi EKG esetén terheléses EKG-val, illetve terheléses scintigráfiával/echográfiával kell kiegészíteni. A vizsgálatokat az AMS által elfogadott kardiológusnak kell végezni.
-
-## 6. Koszorúsér angiográfia szükséges 5 évvel az index esemény után, kivéve azt az esetet, amikor a maximális terheléses EKG felvétel változatlan vagy ép funkcióra utal.
-
-## A 3. (4) b) ponthoz tartozó klinikai eseteket az AMS minősíti.
-
-## A fentiek sikeres teljesítése után az 1. Egészségügyi Osztályú minősítés csak korlátozással (multicrew rendszer tagjaként, Class 1. OML) adható ki.
-
-## A 2. Egészségügyi Osztályú minősítés kiadható korlátozás nélkül a 3. (4) c) 1–4. pontok teljesítése esetén. Amennyiben csak a 3. (4) c) 1–3. pontjaiban leírt vizsgálatok kerülnek elvégzésre és azok eredményei megfelelnek a követelményeknek, a 2. Egészségügyi Osztályban mérlegelhető az alkalmas minősítés korlátozással (Class 2. OSL).
-
-## d) Koszorúsér bypass műtét vagy angioplasztika/stenting után a minősítés mérlegelésének előfeltétele, hogy a vizsgált személy
-
-## 1. tünetmentes,
-
-## 2. sikeresen csökkentette rizikófaktorait,
-
-## 3. legalább 6 hónap telt el a beavatkozás óta,
-
-## 4. nem részesül antianginás kezelésben.
-
-## e) Koszorúsér bypass műtét vagy angioplasztika/stenting után a minősítésért folyamodónak a következő vizsgálati követelményeket kell teljesítenie:
-
-## 1. Tünethatárolt 12 elvezetéses EKG (Bruce IV. fokozat vagy azzal egyenértékű terhelés), mely az AMS által elfogadott kardiológus véleménye szerint nem mutat isémiás eltérést. Kóros nyugalmi EKG esetén scintigráfia és/vagy terheléses echográfia indikálható.
-
-## 2. A bal kamrai ejekciós frakció ≥ 0.50 nincs jelentős funkciózavar (diszkinézia, hipokinézia vagy akinézia) és a jobb kamrai ejekciós frakció sem kóros.
-
-## 3. A 24 órás ambuláns EKG monitorozás során nem észlelhető jelentős vezetési zavar, komplex vagy sustain ritmuszavar, illetve szívizom isémia.
-
-## 4. A koszorúsér angiográfia egyik nagy éren (vagy annak graftján) sem mutat 30%-nál nagyobb szűkületet. Továbbá az angioplasztika/stenting után az érintett éren sincs 30%-nál nagyobb szűkület. A szívizom egyik területén sincs kimutatható funkciózavar, kivéve az infarktusos területet [lásd: 3. (4) b) pont]. Ilyen esetben a bal kamrai ejekciós frakciónak 50% felett kell lennie. Többszörös angioplasztika/stenting ugyanazon vagy több éren nagyon szigorú megítélés alá esik, általában kizáró ok.
-
-## 5. A későbbiekben évente szükséges kardiológiai felülvizsgálat, melyet az AMS által elfogadott kardiológus végezzen. Kóros nyugalmi EKG esetén terheléses EKG vagy terheléses scintigráfia/echográfia vizsgálatot kell végezni.
-
-## 6. Koszorúsér angiográfia szükséges legkésőbb 5 évvel a fenti beavatkozás után, illetve 2 évvel a többszörös angioplasztika/stenting után.
-
-## A 3. (4) d) ponthoz tartozó klinikai eseteket az AMS minősíti. A fentiek sikeres teljesítése után az 1. Egészségügyi Osztályú minősítés csak korlátozással (multicrew rendszer tagjaként, Class 1. OML) adható ki.
-
-## A 2. Egészségügyi Osztályú minősítés kiadható korlátozás nélkül a 3. (4) c) 1–4. pontok teljesítése esetén. Amennyiben csak a 3. (4) c) 1–3. pontokban leírt vizsgálatokat végzik el és azok eredményei megfelelnek a követelményeknek, a 2. Egészségügyi Osztályban mérlegelhető az alkalmas minősítés korlátozással (Class 2. OSL).
-
-## 4. A SZÍV- ÉS ÉRRENDSZER
-
-## Ritmus- és vezetési zavarok
-
-## (1) Az 1. Egészségügyi Osztály követelményei
-
-## a) A tartós vagy időnként jelentkező, klinikai tünetekkel járó szupraventrikuláris tachykardia (a szinoatriális diszfunkció is) esetén a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 4. (4) a) pontban foglaltaknak.
-
-## b) Tünetmentes szinus bradikardia vagy szinus tachykardia esetén a vizsgált személy minősíthető alkalmasnak, amennyiben más kóros elváltozás nem áll a háttérben.
-
-## c) Tünetmentes egygócú pitvari vagy kamrai extraszisztólék nem jelentenek alkalmatlanságot. A gyakori és komplex formában jelentkező extraszisztólék esetén kardiológiai kivizsgálás szükséges a 4. (4) a) pontja szerint.
+## c) Tünetmentes egygócú szupraventrikuláris vagy ventrikuláris extraszisztólék nem jelentenek alkalmatlanságot. A gyakori és komplex formában jelentkező extraszisztólék esetén kardiológiai kivizsgálás szükséges a IV. Fejezet 1. Függelék 7. pontja szerint.
 
 ## d) Egyéb rendellenesség hiányában az inkomplett szárblokk vagy stabil bal tengelyállás alkalmasnak minősíthető.
 
-## e) Komplett jobb- vagy bal-szárblokk esetén teljes kardiológiai kivizsgálás szükséges az első észleléskor, valamint ezt követően a 4. (4) a) pontja szerint.
+## e) Komplett jobb-szárblokk esetén kardiológiai kivizsgálás szükséges az első észleléskor, valamint ezt követően a IV. Fejezet 1. Függelék 7. pontja szerint.
 
-## f) A széles és/vagy keskeny QRS komplexusokkal járó tachykardia esetén a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 4. (4) a) pontban foglaltaknak.
+## f) Komplett bal-szárblokk esetén a vizsgált személyt nem alkalmasnak kell minősíteni. Az alkalmas minősítést mérlegelheti a szolgálat a IV. fejezet 1. Függelék 7. pontja szerint.
 
-## g) Endokardiális pacemakerrel a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 4. (4) c) pontban foglaltaknak.
+## g) I. fokú és Mobitz 1. típusú A-V block esetén, kóros eltérések hiányában mérlegelhető az alkalmas minősítés. Mobitz 2. típusú vagy teljes A-V block esetén a vizsgált személy nem alkalmas. Az alkalmas minősítést mérlegelheti a szolgálat a IV. Fejezet 1. Függelék 7. pontja szerint.
 
-## (2) A 2. Egészségügyi Osztály követelményei
+## h) A széles és/vagy keskeny QRS komplexusokkal járó tachykardia esetén a vizsgált személy nem alkalmas. Az alkalmas minősítést mérlegelheti a szolgálat a IV. Fejezet 1. Függelék 7. pontja szerint.
 
-## a) A tartós vagy időnként jelentkező, klinikai tünetekkel járó szupraventrikuláris tachykardia (a szinoatriális diszfunkció is) esetén a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 4. (4) a) pontban foglaltaknak.
+## i) Kamrai praeexcitáció esetén a vizsgált személy nem alkalmas. Az alkalmas minősítést mérlegelheti a szolgálat a IV. Fejezet 1. Függelék 7. pontja szerint.
 
-## b) Tünetmentes szinus bradikardia vagy szinus tachykardia esetén a vizsgált személy minősíthető alkalmasnak, amennyiben más kóros elváltozás nem áll a háttérben.
+## j) Endokardiális pacemakerrel a vizsgált személy nem alkalmas. Az alkalmas minősítést mérlegelheti a szolgálat a IV. Fejezet 1. Függelék 7. pontja szerint.
 
-## c) Tünetmentes egygócú pitvari vagy kamrai extraszisztólék nem jelentenek alkalmatlanságot. A gyakori és komplex formában jelentkező extraszisztólék esetén kardiológiai kivizsgálás szükséges a 4. (4) a) pontja szerint.
+## k) Ablációs therápia után a vizsgált személy nem alkalmas. Az alkalmas minősítést mérlegelheti a szolgálat a IV. Fejezet 1. Függelék 7. pontja szerint.
 
-## d) Egyéb rendellenesség hiányában az inkomplett szárblokk vagy stabil bal tengelyállás alkalmasnak minősíthető.
+## 1.5. Általános irányelvek (JAR – FCL 3.150)
 
-## e) Komplett jobb- vagy bal-szárblokk esetén teljes kardiológiai kivizsgálás szükséges az első észleléskor, valamint ezt követően a 4. (4) a) pontja szerint.
+## a) Perifériás artériás betegség, műtét előtt vagy után a vizsgált személy nem alkalmas. Amennyiben nem áll fenn jelentős funkcionális károsodás, a szolgálat mérlegelheti az alkalmas minősítést a IV. Fejezet 1. Függelék 5. és 6. pontja szerint.
 
-## f) A széles és/vagy keskeny QRS komplexusokkal járó tachykardia esetén a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 4. (4) a) pontban foglaltaknak.
+## b) A mellkasi vagy hasi aorta aneurizma műtéte előtt vagy után a vizsgált személy nem alkalmas. Infra-renális hasi aorta aneurizma esetén, meghosszabbító vagy megújító vizsgálat alkalmával a szolgálat mérlegelheti az alkalmas minősítést a IV. Fejezet 1. Függelék 8. pontja szerint.
 
-## g) Endokardiális pacemakerrel a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 4. (4) c) pontban foglaltaknak.
+## c) Bármilyen jelentős szívbillentyű hiba esetén a vizsgált személy nem alkalmas.
 
-## (3) A 3. Egészségügyi Osztály követelményei
+## (1) Kisfokú szívbillentyű elváltozás esetén a vizsgált személyt alkalmasnak minősítheti a szolgálat, amennyiben klinikai állapota eleget tesz a IV. Fejezet 1. Függelék 9. a) és b) pontjában foglaltaknak.
 
-## a) A tartós vagy időnként jelentkező, klinikai tünetekkel járó szupraventrikuláris tachykardia (a szinoatriális diszfunkció is) esetén a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 4. (4) a) pontban foglaltaknak.
+## (2) Szívbillentyű beültetés/plasztika után a vizsgált személy nem alkalmas. A szolgálat mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a IV. Fejezet 1. Függelék 9. c) pontjában foglaltaknak.
 
-## b) Tünetmentes szinus bradikardia vagy szinus tachykardia esetén a vizsgált személy minősíthető alkalmasnak, amennyiben más kóros elváltozás nem áll a háttérben.
+## d) A szisztémás alvadásgátló kezelés kizáró ok. Azt a vizsgált személyt, aki átmeneti ideig részesült alvadásgátló kezelésben, a szolgálat alkalmasnak minősítheti, amennyiben klinikai állapota eleget tesz a IV. Fejezet 1. Függelék 10. pontjában foglaltaknak.
 
-## c) Tünetmentes egygócú pitvari vagy kamrai extraszisztólék nem jelentenek alkalmatlanságot. A gyakori és komplex formában jelentkező extraszisztólék esetén kardiológiai kivizsgálás szükséges a 4. (4) a) pontja szerint.
+## e) A szívburok, szívizom vagy az endokardium minden eddig nem érintett rendellenessége kizáró ok. A szolgálat mérlegelheti az alkalmas minősítést az állapot teljes rendeződése után, amennyiben a kardiológiai kivizsgálás igazolja, hogy a vizsgált személy állapota eleget tesz a IV. Fejezet 1. Függelék 11. pontjában foglaltaknak.
 
-## d) Egyéb rendellenesség hiányában az inkomplett szárblokk vagy stabil bal tengelyállás alkalmasnak minősíthető.
+## f) A szív veleszületett fejlődési rendellenessége, műtét előtt vagy után kizáró okot jelent. Kisfokú rendellenesség esetén a szolgálat mérlegelheti az alkalmas minősítést, amennyiben a vizsgált személy kardiológiai nyomon követése eleget tesz a IV. Fejezet 1. Függelék 12. pontjában foglaltaknak.
 
-## e) Komplett jobb- vagy bal-szárblokk esetén teljes kardiológiai kivizsgálás szükséges az első észleléskor, valamint ezt követően a 4. (4) pont szerint.
+## g) A szív- és szív/tüdőtranszplantáció kizáró ok.
 
-## f) A széles és/vagy keskeny QRS komplexusokkal járó tachykardia esetén a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 4. (4) pontban foglaltaknak.
+## h) A vizsgált személy anamnézisében szereplő ismételten fellépő vasovagalis syncope kizáró okot jelent. A szolgálat mérlegelheti az alkalmasságot, amennyiben az előzményi adatok arra utalnak, hogy a vizsgált személy egészségi állapota megfelel a IV. Fejezet 1. Függelék 13. pontjában foglaltaknak.
 
-## g) Endokardiális pacemakerrel a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 4. (4) c) pontban foglaltaknak.
+## 2. Légzőszervek
 
-## (4) Kiegészítő előírások a ritmus- és vezetési zavarok vizsgáló eljárásaihoz
-
-## a) Minden jelentős ritmus- vagy vezetési zavart az AMS által elfogadott kardiológusnak kell kivizsgálni a következők szerint:
-
-## 1. A nyugalmi és terheléses EKG (Bruce IV. fokozat vagy azzal egyenértékű terhelés), mely az AMS által elfogadott kardiológus véleménye szerint nem mutat isémiás eltérést. Kóros nyugalmi EKG esetén szívizom scintigráfia vagy terhelés echográfia indikálható.
-
-## 2. A 24 órás ambuláns EKG monitorozás során nem észlelhető jelentős vezetési, komplex vagy sustain ritmuszavar, illetve szívizom isémia.
-
-## 3. 2D Doppler echokardiogram nem mutat jelentős szelektív kamrai megnagyobbodást, illetve a szívizomzat és a billentyűk szerkezeti vagy funkcionális károsodását.
-
-## Szükség esetén indikálhatók:
-
-## 4. Koszorúsér angiográfia, mely nem mutat jelentős koszorúsér szűkületet [lásd: 3. (4) a)–e) pontokat].
-
-## 5. Az AMS által elfogadott kardiológus által végzett elektrofiziológiai vizsgálat, mely kizár minden olyan elváltozást, mely a vizsgált személyt hirtelen vagy rejtett cselekvőképtelenségre hajlamosíthatja.
-
-## b) A 4. pont (1), a 4. pont (2) a), e), f), g) és a 4. pont (3) a), e), f), g) pontokhoz tartozó eseteket az AMS minősíti a következő korlátozással: 1. Egészségügyi Osztály csak multicrew rendszerben (Class 1. OML), 2. Egészségügyi Osztály csak biztonsági pilótával (Class 2. OSL), kivéve a következő eseteket.
-
-## 1. Percenként 1 pitvari vagy junkcionális ektópiás komplexus esetén (a nyugalmi EKG-n) nem kell további vizsgálatokat végezni.
-
-## 2. Percenként 1 kamrai ektópiás komplexus esetén a nyugalmi EKG-n nem kell további vizsgálatokat végezni.
-
-## 3. 1 évvel a teljes jobb szárblock, illetve 3 évvel a bal szárblock megjelenése után az OML/OSL korlátozás felfüggeszthető, ha a 4. (4) a) 1–3. pontok szerint végzett ismételt vizsgálatok nem mutatnak változást.
-
-## c) Szubendokardiális, állandó pacemaker beültetés után 3 hónappal az AMS minősíti a vizsgált személyt a következő feltételekkel:
-
-## 1. Nem áll fenn más kizáró betegség.
-
-## 2. Bipoláris elektródát alkalmaztak.
-
-## 3. A vizsgált személy nem pacemaker dependens.
-
-## 4. Tünethatárolt 12 elvezetéses terheléses EKG (Bruce IV. fokozat vagy azzal egyenértékű), mely az AMS által elfogadott kardiológus véleménye szerint nem mutat kóros eltérést a pacemaker beültetés indikációja szempontjából. Szívizom scintigráfia vagy terheléses echográfia indikálható.
-
-## 5. 2D Doppler echokardiogram nem jelez jelentős szelektív kamrai megnagyobbodást, illetve a szívizomzat és a billentyűk szerkezeti vagy funkcionális károsodását.
-
-## 6. A 24 órás Holter monitorozással kizárható mind a tünetekkel járó, mind pedig a tünetmentes paroxizmális tachyarrhythmia.
-
-## 7. 6 havonta, az AMS által elfogadott kardiológus végezze a pacemaker ellenőrzést és Holter monitorozást.
-
-## 8. A minősítést az AMS a következők szerint végzi: az 1. Egészségügyi Osztályban csak a minősítés meghosszabbítása lehetséges multicrew (Class 1. OML) korlátozással, a 2. Egészségügyi Osztályban a minősítés első kiadása is lehetséges korlátozás nélkül.
-
-## 5. A SZÍV- ÉS ÉRRENDSZER
-
-## Általános irányelvek
-
-## (1) Az 1. Egészségügyi Osztály követelményei
-
-## a) Perifériás artériás betegség, műtét előtt vagy után alkalmatlanságot jelent. Amennyiben nem áll fenn funkcionális károsodás, az AMS mérlegelheti az alkalmas minősítést, ha a klinikai állapot eleget tesz a 3. (4) a)–e) pontokban foglaltaknak.
-
-## b) A mellkasi vagy hasi aorta aneurizma, műtét előtt vagy után alkalmatlanságot jelent.
-
-## c) Bármilyen klinikai tüneteket okozó szívbillentyű hiba esetén nem alkalmas a vizsgált személy.
-
-## 1. Kisfokú szívbillentyű elváltozás esetén a vizsgált személyt alkalmasnak minősítheti az AMS, amennyiben klinikai állapota eleget tesz az 5. (4) b) pontban foglaltaknak.
-
-## 2. Szívbillentyű átültetés vagy plasztika után a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz az 5. (4) b) pontban foglaltaknak.
-
-## d) A szisztémás alvadásgátló kezelés kizáró ok. Azt a vizsgált személyt, aki átmeneti ideig részesült alvadásgátló kezelésben, az AMS alkalmasnak minősítheti, amennyiben klinikai állapota eleget tesz az 5. (4) c) pontban foglaltaknak.
-
-## e) A szívburok, szívizom vagy az endokardium minden eddig nem érintett rendellenessége kizáró ok. Az AMS mérlegelheti az alkalmas minősítést az állapot teljes rendeződése után, amennyiben a kardiológiai kivizsgálás igazolja, hogy a vizsgált személy állapota eleget tesz az 5. (4) d) pontban foglaltaknak.
-
-## f) A szív veleszületett fejlődési rendellenessége, műtét előtt vagy után kizáró okot jelent. Kisfokú rendellenesség esetén az AMS mérlegelheti az alkalmas minősítést, amennyiben a vizsgált személy klinikai állapota eleget tesz az 5. (4) e) pontban foglaltaknak.
-
-## g) A szív- és tüdőtranszplantáció kizáró ok.
-
-## h) A vizsgált személy anamnézisében szereplő malignus vasovagalis syncope kizáró okot jelent. Az AMS mérlegelheti az alkalmasságot, amennyiben az előzményi adatok arra utalnak, hogy a vizsgált személy egészségi állapota megfelel az 5. (4) f) pontban foglaltaknak.
-
-## (2) A 2. Egészségügyi Osztály követelményei
-
-## a) Perifériás artériás betegség, műtét előtt vagy után alkalmatlanságot jelent. Amennyiben nem áll fenn funkcionális károsodás, az AMS mérlegelheti az alkalmas minősítést, ha a klinikai állapot eleget tesz a 3. (4) a)–e) pontban foglaltaknak.
-
-## b) A mellkasi vagy hasi aorta aneurizma, műtét előtt vagy után alkalmatlanságot jelent. Infrarenális abdominális aneurizma műtéte után, az alkalmasságot mérlegelheti az AMS, amennyiben a vizsgált személy klinikai állapota eleget tesz a 3. (4) a)–e) és 5. (4) a) pontban foglaltaknak.
-
-## c) Bármilyen klinikai tüneteket okozó szívbillentyű hiba esetén nem alkalmas a vizsgált személy.
-
-## 1. Kisfokú szívbillentyű elváltozás esetén a vizsgált személyt alkalmasnak minősítheti az AMS, amennyiben klinikai állapota eleget tesz az 5. (4) b) pontban foglaltaknak.
-
-## 2. Szívbillentyű átültetés vagy plasztika után a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz az 5. (4) b) pontban foglaltaknak.
-
-## d) A szisztémás alvadásgátló kezelés kizáró ok. Azt a vizsgált személyt, aki átmeneti ideig részesült alvadásgátló kezelésben, az AMS alkalmasnak minősítheti, amennyiben klinikai állapot eleget tesz az 5. (4) c) pontban foglaltaknak.
-
-## e) A szívburok, szívizom vagy az endokardium minden eddig nem érintett rendellenessége kizáró ok. Az AMS mérlegelheti az alkalmas minősítést az állapot teljes rendeződése után, amennyiben a kardiológiai kivizsgálás igazolja, hogy a vizsgált személy állapota eleget tesz az 5. (4) d) pontban foglaltaknak.
-
-## f) A szív veleszületett fejlődési rendellenessége, műtét előtt vagy után kizáró okot jelent. Kisfokú rendellenesség esetén az AMS mérlegelheti az alkalmas minősítést, amennyiben a vizsgált személy klinikai állapota eleget tesz az 5. (4) e) pontban foglaltaknak.
-
-## g) A szív- és tüdőtranszplantáció kizáró ok.
-
-## h) A vizsgált személy anamnézisében szereplő malignus vasovagalis syncope kizáró okot jelent. Az AMS mérlegelheti az alkalmasságot, amennyiben az előzményi adatok arra utalnak, hogy a vizsgált személy egészségi állapota megfelel az 5. (4) f) pontban foglaltaknak.
-
-## (3) A 3. Egészségügyi Osztály követelményei
-
-## a) Perifériás artériás betegség, műtét előtt vagy után alkalmatlanságot jelent. Amennyiben nem áll fenn funkcionális károsodás, az AMS mérlegelheti az alkalmas minősítést, ha a klinikai állapot eleget tesz a 3. (4) a)–e) pontban foglaltaknak.
-
-## b) A mellkasi vagy hasi aorta aneurizma, műtét előtt vagy után alkalmatlanságot jelent. Infrarenális abdominális aneurizma műtéte után, az alkalmasságot mérlegelheti az AMS, amennyiben a vizsgált személy klinikai állapota eleget tesz a 3. (4) a)–e) és 5. (4) a) pontban foglaltaknak.
-
-## c) Bármilyen klinikai tüneteket okozó szívbillentyű hiba esetén nem alkalmas a vizsgált személy.
-
-## 1. Kisfokú szívbillentyű elváltozás esetén a vizsgált személyt alkalmasnak minősítheti az AMS, amennyiben klinikai állapota eleget tesz az 5. (4) b) pontban foglaltaknak.
-
-## 2. Szívbillentyű átültetés vagy plasztika után a vizsgált személy nem alkalmas. Az AMS mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz az 5. (4) b) pontban foglaltaknak.
-
-## d) A szisztémás alvadásgátló kezelés kizáró ok. Azt a vizsgált személyt, aki átmeneti ideig részesült alvadásgátló kezelésben, az AMS alkalmasnak minősítheti, amennyiben klinikai állapot eleget tesz az 5. (4) c) pontban foglaltaknak.
-
-## e) A szívburok, szívizom vagy az endokardium minden eddig nem érintett rendellenessége kizáró ok. Az AMS mérlegelheti az alkalmas minősítést az állapot teljes rendeződése után, amennyiben a kardiológiai kivizsgálás igazolja, hogy a vizsgált személy állapota eleget tesz az 5. (4) d) pontban foglaltaknak.
-
-## f) A szív veleszületett fejlődési rendellenessége, műtét előtt vagy után kizáró okot jelent. Kisfokú rendellenesség esetén az AMS mérlegelheti az alkalmas minősítést, amennyiben a vizsgált személy klinikai állapota eleget tesz az 5. (4) e) pontban foglaltaknak.
-
-## g) A szív- és tüdőtranszplantáció kizáró ok.
-
-## h) A vizsgált személy anamnézisében szereplő malignus vasovagalis syncope kizáró okot jelent. Az AMS mérlegelheti az alkalmasságot, amennyiben az előzményi adatok arra utalnak, hogy a vizsgált személy egészségi állapota megfelel az 5. (4) f) pontban foglaltaknak.
-
-## (4) Kiegészítő előírások a szív- és érrendszer általános irányelveihez
-
-## a) A 2. Egészségügyi Osztályban a következő feltételekkel mérlegelhető a hasi aneurizma minősítése:
-
-## 1. az artéria renalisok eredése alatt helyezkedik el,
-
-## 2. nem szövődik álaneurizmával, thrombózissal vagy az érprotézis gyulladásával,
-
-## 3. nem áll fenn sem veleszületett, sem pedig szerzett szisztémás artériás betegség vagy hipertónia,
-
-## 4. a műtét után stabilizálódott a beteg állapota.
-
-## Évenkénti ellenőrző vizsgálatot kell előírni (AMS) és minden esetben el kell végezni a hasi aorta ultrahang vizsgálatát is.
-
-## b) A szívzörejek kivizsgálása:
-
-## 1. Az AMS által elfogadott kardiológus vizsgáljon ki minden korábban nem tisztázott szívzörejt és az ilyen eseteket az AMS minősíti. Klinikailag jelentősnek vélt zörej esetén, legalább 2 D Doppler echokardiográfiát kell végezni.
-
-## 2. Billentyűhibák:
-
-## (i) A bicuspidalis aorta billentyű korlátozás nélkül lehet alkalmas, amennyiben kizárható minden kóros szív- vagy aortaelváltozás, de évente echokardiográfiás ellenőrzés szükséges.
-
-## (ii) Az aorta stenosis (átlagos nyomáskülönbség (30 <Hgmm) alkalmasnak minősíthető többtagú személyzettel végzett repülés esetén. Évenkénti ellenőrző vizsgálat szükséges 2D Doppler echokardiográfiával, melyet az AMS által elfogadott kardiológus végezzen.
-
-## (iii) A klinikailag nem jelentős mértékű aorta inszufficiencia korlátozás nélkül is minősíthető alkalmasnak. Az aorta ascendensen – 2D Doppler echokardiográfiával vizsgálva – nem lehet kimutatható elváltozás. Az évenkénti ellenőrző vizsgálatot az AMS által elfogadott kardiológus végezze.
-
-## (iv) A reumás eredetű mitrális billentyű betegségek általában kizáró okot jelentenek.
-
-## (v) Mitrális billentyű prolapszus/mitrális regurgitáció. Tünetmentes, izolált mezoszisztolés klikk esetében nem szükséges a korlátozás. Nem alkalmas a vizsgált személy, ha kimutatható a bal kamra volumen-terhelése, illetve a végdiasztolés átmérő növekedése. Az évenkénti ellenőrző vizsgálatot az AMS által elfogadott kardiológus végezze.
-
-## 3. Billentyű műtétek:
-
-## (i) Mechanikus műbillentyű beültetés után a vizsgált személy nem alkalmas.
-
-## (ii) Aorta pozícióba ültetett biograft esetén a panaszmentes egyént a műtét után legkorábban 6 hónap múlva minősítheti az AMS, amennyiben a vizsgálatok normál billentyű funkciót és kamra konfigurációt igazoltak. A következő vizsgálatokat kell elvégezni:
-
-## (iii) Tünethatárolt 12 elvezetéses EKG (Bruce IV. fokozat vagy azzal egyenértékű terhelés), mely az AMS által elfogadott kardiológus véleménye szerint nem mutat isémiás eltérést. Kóros nyugalmi EKG, illetve igazolt koszorúsér-betegség esetén szcintigráfiát vagy terheléses echokardiográfiát kell végezni. Lásd a 3. (4) a)–e) pontjait is.
-
-## (iv) 2D Doppler echokardiogram nem jelez jelentős szelektív kamrai megnagyobbodást a billentyűk szerkezeti vagy funkcionális károsodását. A bal kamrai ejekció és kontraktilitás a normál tartományban van.
-
-## (v) Igazoltan nem áll fenn koszorúsér-betegség, illetve sikeres revaszkularizáció történt [lásd a 3. (4) d)–e) pontját].
-
-## (vi) Kardiákumok szedése nem indikált.
-
-## (vii) Az évenkénti ellenőrző vizsgálatokat (terheléses EKG és 2D Doppler echokardiográfia is) az AMS által elfogadott kardiológus végezze.
-
-## Az 1. Egészségügyi Osztályban a minősítés csak korlátozással (multicrew rendszerben, Class 1. OML), a 2. Egészségügyi Osztályban azonban korlátozás nélkül lehetséges.
-
-## c) Antikoaguláns kezelés után a vizsgált személy felülvizsgálatát az AMS végzi. A vénás thrombózis kizáró okot jelent az antikoaguláns kezelés befejezéséig. Pulmonális embolia után teljes kivizsgálás szükséges, beleértve a jobb szívfél katéterezését is. Az artériás thromboembolia megelőzésére beállított antikoaguláns kezelés kizáró ok.
-
-## d) Az epikardium, miokardium és/vagy endokardium primér vagy szekunder elváltozása esetén az egyén a részletes klinikai kivizsgálásig nem alkalmasként minősítendő. Az AMS által végzett minősítéshez a következő vizsgálatok szükségesek: 2D Doppler echokardiográfia, terheléses EKG és/vagy terheléses szcintigráfia/echokardiográfia és 24 órás Holter EKG Szívkatéterezés (koronária angiográfia is) szükség szerint indikálható. A minősítéskor korlátozás (Class 1. OML vagy Class 2. OSL) alkalmazható, illetve a felülvizsgálat gyakoriságát a klinikai állapot függvényében kell megállapítani.
-
-## e) A veleszületett szívbetegségek (műtéti korrekció után is) általában kizáró jellegűek, kivéve azokat a klinikailag nem jelentős eseteket, melyek gyógyszeres kezelést nem igényelnek. Az AMS a következő kardiológiai vizsgálatok elvégzése után minősítheti: 2D Doppler echokardiográfia, terheléses EKG és 24 órás Holter EKG. A minősítéskor korlátozás (Class 1. OML vagy Class 2. OSL) alkalmazható, illetve a felülvizsgálat gyakoriságát a klinikai állapot függvényében kell megállapítani.
-
-## f) Egyszeri, feltehetően vazovagalis eredetű eszméletvesztés után a következő vizsgálatokat kell végezni:
-
-## 1. Tünethatárolt 12 elvezetéses terheléses EKG (Bruce IV. fokozat vagy azzal egyenértékű), mely az AMS által elfogadott kardiológus véleménye szerint nem mutat isémiás eltérést. Kóros nyugalmi EKG esetén szcintigráfiát vagy terheléses echokardiográfiát kell végezni.
-
-## 2. 2D Doppler echokardiogram nem jelez jelentős szelektív kamrai megnagyobbodást, illetve a szív, a billentyűk és a szívizom szerkezeti vagy funkcionális károsodását.
-
-## 3. 2 x 24 órás ambuláns EKG monitorozás során nem észlelhető jelentős vezetési zavar, komplex vagy sustain ritmuszavar, illetve szívizom isémia.
-
-## 4. Az AMS által elfogadott kardiológus véleménye szerint, a standard módon végzett ,,billenőasztal'' vizsgálat nem utal vazomotor instabilitásra.
-
-## Az index esemény után legkorábban 6 hónappal mérlegelheti az AMS a minősítést, amennyiben a fenti vizsgálatokat elvégezték, és az eszméletvesztés nem ismétlődött. Az 1. és 2. Egészségügyi Osztályban a minősítést korlátozással (Class 1. OML és Class 2. OSL) kell kiadni.
-
-## Neurológiai szakorvosi vizsgálatot is kell végezni.
-
-## A minősítési korlátozás feloldása 5 évvel a rosszullét után mérlegelhető, amennyiben az eszméletvesztés nem ismétlődött. Az AMS mérlegelhet a fentinél rövidebb vagy hosszabb megfigyelési időt az egyén klinikai állapotának függvényében. Az ún. ,,malignus'' eszméletvesztések, melyeknél nincs jól észlelhető ,,bevezető'' tünet, alkalmatlanságot jelentenek.
-
-## g) A szív- és érrendszer rosszindulatú betegségeinek megítélésekor figyelembe kell venni a 23. pontban (Onkológiai követelmények) foglaltakat is. Az AMS a minősítést hatóság által elfogadott onkológus és kardiológus szakvéleménye alapján végezze. Korlátozás (Class 1. OML és Class 2. OSL) a klinikai állapot és a repülésbiztonsági szempontok figyelembevételével alkalmazható.
-
-## 6. LÉGZŐSZERVEK
-
-## (1) Az 1. Egészségügyi Osztály követelményei
+## 2.1. Általános irányelvek (JAR – FCL 3.155)
 
 ## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a légzőszervek olyan veleszületett vagy szerzett elváltozása, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
 
-## b) Az 1. Osztályú orvosi minősítés első kibocsátásakor mellkas röntgen vizsgálat szükséges. A későbbi vizsgálatok során a klinikai kép vagy epidemiológiai adatok alapján elrendelhető az ismételt vizsgálat.
+## b) Az orvosi minősítés első kibocsátásakor, meghosszabbításakor vagy megújításakor hát/mell irányú mellkas röntgen vizsgálat rendelhető el a klinikai kép vagy epidemiológiai adatok alapján.
 
-## c) Az első vizsgálat alkalmával légzésfunkciós vizsgálatot kell végezni [lásd: 6. (4) a) pontot]. Peak Flow Test végzése szükséges a 30. életév betöltése után, majd ezt követően 5 évente, illetve minden esetben, amikor azt a klinikai kép indokolttá teszi.
+## c) Az első vizsgálat alkalmával vagy ha klinikailag indokolt, légzésfunkciós vizsgálatot kell végezni a IV. Fejezet 2. Függelék 1. pontja szerint. Jelentős légzésfunkció károsodás esetén a vizsgált személy nem alkalmas (lásd a IV. Fejezet 2. Függelék 1. pontját).
 
-## d) Krónikus obstruktív légúti megbetegedés kizáró okot jelent.
+## 2.2. Kóresetek (JAR – FCL 3.160)
 
-## e) Gyógyszeres kezelést igénylő, krónikus reaktív légúti betegség (asthma bronchiale) esetén a vizsgált személyt a 6. (4) b) pont követelményei szerint kell minősíteni.
+## a) Krónikus obstruktív légúti megbetegedés kizáró okot jelent. A légzésfunkció enyhe fokú károsodása esetén a vizsgált személy a betöltendő feladat függvényében alkalmasnak minősíthető.
 
-## f) A légzőszervek aktív gyulladásos betegségei esetén ideiglenesen nem alkalmas a vizsgált személy.
+## b) Gyógyszeres kezelést igénylő asthma esetén a vizsgált személyt a IV. Fejezet 2. Függelék 2. pontja alapján kell minősíteni.
 
-## g) Szarkoidozis esetén a vizsgált személyt a 6. (4) c) pont szerint kell minősíteni.
+## c) A légzőszervek aktív gyulladásos betegségei esetén ideiglenesen nem alkalmas a vizsgált személy.
 
-## h) Spontán pneumothorax után a vizsgált személy általában nem alkalmas, az AMS mérlegelheti az egyéni elbírálást, amennyiben a vizsgálati leletek megfelelnek a 6. (4) d) pont követelményeinek.
+## d) Aktív szarkoidózis esetén a vizsgált személyt nem alkalmasnak kell minősíteni (lásd a IV. Fejezet 2. Függelék 3. pontját).
 
-## i) Nagy mellkasi műtétek után az alkalmasságot 3 hónap után lehet mérlegelni, amennyiben a műtét utáni állapot feltehetően már nem akadályozza a szakszolgálati feladatok biztonságos ellátását [lásd: 6. (4) e) pont]. Ilyen esetben figyelembe kell venni a műtéti beavatkozást szükségessé tevő betegséget is. Daganatos betegség esetén a 23. Onkológiai követelményeit is, és a minősítésnél a hatóság által elfogadott onkológus véleményét is figyelembe kell venni.
+## e) Spontán pneumothorax után a vizsgált személyt a IV. Fejezet 2. Függelék 4. pontja szerint elvégzett vizsgálatok alapján kell minősíteni.
 
-## j) A kezeléssel nem befolyásolható légzési apnoe kizáró okot jelent.
+## f) Nagy mellkasi műtétet követően az alkalmasságot legkevesebb 3 hónap után lehet mérlegelni, amennyiben a műtét utáni állapot feltehetően már nem akadályozza a szakszolgálati feladatok biztonságos ellátását (lásd a IV. Fejezet 2. Függelék 5. pontját).
 
-## (2) A 2. Egészségügyi Osztály követelményei
+## g) A kezeléssel nem befolyásolható légzési apnoe kizáró okot jelent.
 
-## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a légzőszervek olyan veleszületett vagy szerzett elváltozása, amely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+## 3. Emésztőszervek
 
-## b) Mellkas röntgen vizsgálat csak akkor szükséges, ha azt a klinikai kép vagy epidemiológiai adat indokolja.
+## 3.1. Általános irányelvek (JAR – FCL 3.165)
 
-## c) Peak Flow Test a 6. (4) a) pont szerint a 2. Osztályú minősítés első kiadásakor, majd a 40. életév betöltése utáni első vizsgálatkor, ezt követően pedig 4 évente szükséges, illetve amikor az a klinikai kép alapján indokolt. Jelentős légzésfunkciós károsodás esetén a vizsgált személy nem alkalmas.
+## Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn az emésztő szervrendszer olyan funkcionális vagy szervi elváltozása, amely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
 
-## d) Krónikus obstruktív légúti megbetegedés kizáró okot jelent.
+## 3.2. Kóresetek (JAR – FCL 3.170)
 
-## e) Gyógyszeres kezelést igénylő, krónikus reaktív légúti betegség (asthma bronchiale) esetén a vizsgált személyt a 6. (4) b) pont követelményei szerint kell minősíteni.
+## a) Visszatérő, gyógyszeres kezelést igénylő, diszpepsziás betegséggel vagy hasnyálmirigy gyulladással a jelentkező nem alkalmas a IV. Fejezet 3. Függelék 1. pontja függvényében.
 
-## f) A légzőszervek aktív gyulladásos betegségei esetén ideiglenesen nem alkalmas a vizsgált személy.
+## b) A véletlenszerűen felfedezett epekövesség eseteit a szolgálat a IV. Fejezet 3. Függelék 2. pontja szerint minősíti.
 
-## g) Szarkoidozis esetén a vizsgált személyt a 6. (4) c) pont szerint kell minősíteni.
+## c) A vizsgált személyt nem alkalmasként kell minősíteni, amennyiben krónikus bélgyulladás áll fenn vagy szerepel az anamnézisben (lásd a IV. Fejezet 3. Függelék 3. pontját).
 
-## h) Spontán pneumothorax után a vizsgált személy általában nem alkalmas, az AMS mérlegelheti az egyéni elbírálást, amennyiben a vizsgálati leletek megfelelnek a 6. (4) d) pont követelményeinek.
+## d) A vizsgált személynek nem lehet olyan jellegű sérve, mely a cselekvőképesség beszűkülésének veszélyével járhat.
 
-## i) Nagy mellkasi műtétek után az alkalmasságot 3 hónap után lehet mérlegelni, amennyiben a műtét utáni állapot feltehetően már nem akadályozza a szakszolgálati feladatok biztonságos ellátását [lásd: 6. (4) e) pont]. Ilyen esetben figyelembe kell venni a műtéti beavatkozást szükségessé tevő betegséget is. Daganatos betegség esetén a 23. Onkológiai követelményeit is, és a minősítésnél a hatóság által elfogadott onkológus véleményét is figyelembe kell venni.
+## e) Alkalmatlanságot jelent az emésztőrendszer minden műtéti vagy betegség utáni szövődményes esete, ami veszélyeztetheti a szakszolgálati feladatok biztonságos ellátását, különös tekintettel szűkület vagy kompresszió miatti passzázs akadályokra.
 
-## j) A kezeléssel nem befolyásolható légzési apnoe kizáró okot jelent.
+## f) Az emésztőrendszeren végzett műtétek után – ideértve egyes részek teljes vagy részleges eltávolítását, áthelyezését is – a vizsgált személyt legkorábban 3 hónap múlva lehet minősíteni, illetve akkor, amikor állapota stabilizálódott és valószínűleg nem veszélyezteti a szakszolgálati feladatok biztonságos ellátását (lásd a IV. Fejezet 3. Függelék 4. pontját).
 
-## (3) A 3. Egészségügyi Osztály követelményei
+## 4. Az anyagcsere, táplálkozás és hormonális rendszer betegségei (JAR – FCL 3.175)
 
-## a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a légzőszervek olyan veleszületett vagy szerzett elváltozása, amely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan funkcionális, illetve szervi jellegű anyagcsere, táplálkozási vagy hormonális betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
 
-## b) Mellkas röntgen vizsgálat csak akkor szükséges, ha azt a klinikai kép vagy epidemiológiai adat indokolja.
+## b) Azok a vizsgált személyek, akiknél anyagcsere, táplálkozási vagy hormonális rendellenesség áll fenn, a IV. Fejezet 4. Függelék 1. és 4. pontja szerint minősíthetők.
 
-## c) Az első vizsgálat alkalmával légzésfunkciós vizsgálatot kell végezni [lásd: 6. (4) a) pontot]. Peak Flow Test végzése szükséges a 30. életév betöltése után, majd ezt követően 5 évente, illetve minden esetben, amikor azt a klinikai kép indokolttá teszi.
-
-## d) Krónikus obstruktív légúti megbetegedés kizáró okot jelent.
-
-## e) Gyógyszeres kezelést igénylő, krónikus reaktív légúti betegség (asthma bronchiale) esetén a vizsgált személyt a 6. (4) b) pont követelményei szerint kell minősíteni.
-
-## f) A légzőszervek aktív gyulladásos betegségei esetén ideiglenesen nem alkalmas a vizsgált személy.
-
-## g) Szarkoidozis esetén a vizsgált személyt a 6. (4) c) pont szerint kell minősíteni.
-
-## h) Spontán pneumothorax után a vizsgált személy általában nem alkalmas, az AMS mérlegelheti az egyéni elbírálást, amennyiben a vizsgálati leletek megfelelnek a 6. (4) d) pont követelményeinek.
-
-## i) Nagy mellkasi műtétek után az alkalmasságot 3 hónap után lehet mérlegelni, amennyiben a műtét utáni állapot feltehetően már nem akadályozza a szakszolgálati feladatok biztonságos ellátását [lásd: 6. (4) e) pont]. Ilyen esetben figyelembe kell venni a műtéti beavatkozást szükségessé tevő betegséget is. Daganatos betegség esetén a 23. Onkológiai követelményeit is, és a minősítésnél a hatóság által elfogadott onkológus véleményét is figyelembe kell venni.
-
-## j) A kezeléssel nem befolyásolható légzési apnoe kizáró okot jelent.
-
-## (4) Kiegészítő előírások a légzőszervi követelményekhez
-
-## a) Spirometriás vizsgálatot kell végezni az 1. és 3. Egészségügyi Osztályú minősítés első kiadásakor. Pulmonológiai kivizsgálás szükséges, amennyiben a FEV1/FVC arány 70%-nál kisebb. A 2. Egészségügyi Osztályban, amennyiben a Peak Flow Test értéke 80%-nál kisebb – az életkor, nem és magasság szerinti normál értéknél – pulmonológiai kivizsgálás szükséges.
-
-## b) Ismétlődő asztmás rohamok esetén a vizsgált személy nem alkalmas.
-
-## 1. Az 1. és 3. Osztályú minősítést mérlegelheti az AMS, amennyiben a hatóság által elfogadott pulmonológus véleménye szerint a légzési funkciók és a gyógykezelés nem veszélyezteti a repülés biztonságát.
-
-## 2. A 2. Osztályú minősítést mérlegelheti az AME – az AMS egyetértésével –, amennyiben a hatóság által elfogadott pulmonológus véleménye szerint, a légzési funkciók és a gyógykezelés nem veszélyezteti a repülés biztonságát. A pulmonológiai leletet meg kell küldeni az AMS-nek.
-
-## c) Az aktív szarkoidózis kizáró ok. Az AMS mérlegelheti a minősítést, amennyiben a kivizsgálás szerint:
-
-## 1. A kivizsgálás során kizárható más szervrendszerek érintettsége.
-
-## 2. A folyamat kizárólag a hiláris nyirokcsomókra korlátozódik és nem szükséges gyógyszeres kezelés.
-
-## d) Spontán pneumotorax.
-
-## 1. Az egyszeri spontán pneumotorax után 1 évvel, az AMS mérlegelheti a minősítést, ha a hatóság által elfogadott pulmonológus véleménye szerint a beteg állapota teljesen rendezett.
-
-## 2. Egyszeri spontán pneumotorax után 6 héttel mérlegelheti az AMS az orvosi minősítést korlátozással (Class 1. OML és Class 2. OSL), amennyiben a hatóság által elfogadott pulmonológus véleménye szerint a beteg állapota teljesen rendezett. A korlátozás feloldását az AMS 1 év után mérlegelheti.
-
-## 3. Az ismétlődő pneumotorax kizáró ok. A minősítést az AMS mérlegelheti a sikeres műtéti beavatkozás után, amennyiben rendezett a klinikai állapot.
-
-## e) A pneumectomia kizáró okot jelent. Kisebb műtéti beavatkozások után az AMS mérlegelheti az orvosi minősítést – korlátozással vagy anélkül –, amennyiben a hatóságilag elfogadott pulmonológus szerint a kivizsgálás alapján a beteg állapota stabilnak tekinthető, és a légzésfunkciók eleget tesznek a szakszolgálati követelményeknek.
-
-## f) A légzési szervrendszer daganatos megbetegedéseit a 23. Onkológiai követelményei is tárgyalják. Ezen esetek minősítésénél a hatóságilag elfogadott onkológus szakvéleményét is figyelembe kell venni.
-
-## 7. EMÉSZTŐSZERVEK
-
-## (1) Az 1. Egészségügyi Osztály követelményei
-
-## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn az emésztő szervrendszer olyan funkcionális vagy szervi elváltozása, amely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
-
-## b) A visszatérő, gyógyszeres kezelést igénylő, pankreatitisszel is szövődött diszpepsziás panaszok kizáró okot jelentenek. A kivizsgálást a 7. (4) a) pont szerint kell végezni.
-
-## c) A véletlenszerűen felfedezett epekövesség eseteit az AMS a 7. (4) b) pont szerint minősíti.
-
-## d) A vizsgált személy általában nem alkalmas, amennyiben az anamnézisben krónikus bélgyulladás szerepel. Az AMS, a 7. (4) c) pontja szerint a hatóságilag elfogadott gasztroenterológus szakorvos véleményére alapozva mérlegelheti az egyéni elbírálást.
-
-## e) A vizsgált személynek nem lehet olyan nagyságú sérve, mely a cselekvőképesség beszűkülésének veszélyével jár.
-
-## f) Alkalmatlanságot jelent az emésztőrendszer minden műtéti vagy betegség utáni szövődményes esete, ami veszélyeztetheti a szakszolgálati feladatok biztonságos ellátását, különös tekintettel a striktura vagy kompresszió miatti obstrukciókat.
-
-## g) Az emésztőrendszeren végzett műtétek után – ideértve egyes részek teljes vagy részleges eltávolítását, áthelyezését is – a vizsgált személyt legkorábban 3 hónap múlva lehet minősíteni, illetve akkor, amikor állapota stabilizálódott és valószínűleg nem veszélyezteti a repülés biztonságát. A minősítési szempontokat lásd a 7. (4) d) pontnál.
-
-## (2) A 2. Egészségügyi Osztály követelményei
-
-## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn az emésztő szervrendszer olyan funkcionális vagy szervi elváltozása, amely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
-
-## b) A visszatérő, gyógyszeres kezelést igénylő, pankreatitisszel is szövődött diszpepsziás panaszok kizáró okot jelentenek. A kivizsgálást a 7. (4) a) pont szerint kell végezni.
-
-## c) A véletlenszerűen felfedezett epekövesség eseteit az AMS a 7. (4) b) pont szerint minősíti.
-
-## d) A vizsgált személy általában nem alkalmas, amennyiben az anamnézisben krónikus bélgyulladás szerepel. Az AMS a 7. (4) c) pont szerint a hatóságilag elfogadott gasztroenterológus szakorvos véleményére alapozva mérlegelheti az egyéni elbírálást.
-
-## e) A vizsgált személynek nem lehet olyan nagyságú sérve, mely a cselekvőképesség beszűkülésének veszélyével jár.
-
-## f) Alkalmatlanságot jelent az emésztőrendszer minden műtéti vagy betegség utáni szövődményes esete, ami veszélyeztetheti a szakszolgálati feladatok biztonságos ellátását, különös tekintettel a striktura vagy kompresszió miatti obstrukciókat.
-
-## g) Az emésztőrendszeren végzett műtétek után – ideértve egyes részek teljes vagy részleges eltávolítását, áthelyezését is – a vizsgált személyt legkorábban 3 hónap múlva lehet minősíteni, illetve akkor, amikor állapota stabilizálódott és valószínűleg nem veszélyezteti a repülés biztonságát. A minősítési szempontokat lásd a 7. (4) d) pontnál.
-
-## (3) A 3. Egészségügyi Osztály követelményei
-
-## a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn az emésztő szervrendszer olyan funkcionális vagy szervi elváltozása, amely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
-
-## b) A visszatérő, gyógyszeres kezelést igénylő, pankreatitisszel is szövődött diszpepsziás panaszok kizáró okot jelentenek. A kivizsgálást a 7. (4) a) pont szerint kell végezni.
-
-## c) A véletlenszerűen felfedezett epekövesség eseteit az AMS a 7. (4) b) pont szerint minősíti.
-
-## d) A vizsgált személy általában nem alkalmas, amennyiben az anamnézisben krónikus bélgyulladás szerepel. Az AMS a 7. (4) c) pont szerint a hatóságilag elfogadott gasztroenterológus szakorvos véleményére alapozva mérlegelheti az egyéni elbírálást.
-
-## e) A vizsgált személynek nem lehet olyan nagyságú sérve, mely a cselekvőképesség beszűkülésének veszélyével jár.
-
-## f) Alkalmatlanságot jelent az emésztőrendszer minden műtéti vagy betegség utáni szövődményes esete, ami veszélyeztetheti a szakszolgálati feladatok biztonságos ellátását, különös tekintettel a striktura vagy kompresszió miatti obstrukciókat.
-
-## g) Az emésztőrendszeren végzett műtétek után – ideértve egyes részek teljes vagy részleges eltávolítását, áthelyezését is – a vizsgált személyt legkorábban 3 hónap múlva lehet minősíteni, illetve akkor, amikor állapota stabilizálódott és valószínűleg nem veszélyezteti a repülés biztonságát. A minősítési szempontokat lásd a 7. (4) d) pontnál.
-
-## (4) Kiegészítő előírások az emésztőszervi követelményekhez
-
-## a) Az emésztőszervi betegségek egyéni elbírálási lehetőségei:
-
-## 1. Visszatérő, gyógyszeres kezelést igénylő diszpepsziás panaszok esetén részletes gasztroenterológiai kivizsgálást kell végezni (radiológiai és endoszkópos). A laboratóriumi vizsgálatok során a hemoglobin meghatározást és székletvizsgálatot is kell végezni. Igazolt fekélybetegség vagy jelentősebb gyulladásos folyamat után, amennyiben panaszmentes, az AMS minősíti a vizsgált személyt.
-
-## 2. A pankreatitisz kizáró ok. A minősítést a hatósági által elfogadott gasztroenterológus véleménye alapján, az AMS mérlegelheti, amennyiben a kiváltó ok vagy az obstrukció oka (pl. gyógyszerhatás, epekő) megszüntethető.
-
-## 3. A diszpepszia és a pankreatitisz összefügghet az alkoholfogyasztással. Szükség szerint tisztázni kell az alkoholfogyasztás jellegét és kizárni az abúzust/dependenciát.
-
-## b) A tünetmentes, szoliter epekő esetén az AMS mérlegelheti a minősítést korlátozás nélkül. Tüneteket nem okozó multiplex epekövek esetén, a hatóságilag elfogadott gasztroenterológus véleménye alapján, az AMS mérlegelheti a minősítést korlátozással (Class 1. OML, Class 2. OSL).
-
-## c) Krónikus, gyulladásos jellegű vastagbél betegségek (ileitis terminális, colitis ulcerosa, diverticulitis) kizáró jellegűek. A 2. Egészségügyi Osztályban az első orvosi minősítést, illetve az összes egészségügyi osztályban a minősítés megújítását mérlegelheti az AMS, a hatóság által elfogadott gasztroenterológus szakorvos véleménye alapján, amennyiben a beteg teljes remisszióban van, és gyógyszeres kezelés egyáltalán nem, vagy csak minimális fenntartó adagban szükséges. Rendszeres ellenőrző vizsgálatot kell végezni, a korlátozás (Class 1. OML vagy Class 2. OSL) alkalmazható a klinikai kép függvényében.
-
-## d) Hasi műtét után legalább 3 hónapig nem alkalmas a szakszolgálati engedélyes. Abban az esetben, ha teljes a gyógyulás, tünetmentes a beteg és minimális veszélye van szövődmény fellépésére vagy kiújulására, az AMS mérlegelheti a rövidebb időn belül is a minősítést.
-
-## e) Az emésztőszervek rosszindulatú betegségeinek minősítésekor figyelembe kell venni a 23. fejezetben (Onkológiai követelmények) foglaltakat is. Az AMS a minősítést, a hatóság által elfogadott gasztroenterológus és onkológus szakvéleményére kell, hogy alapozza. Korlátozás (Class 1. OML, Class 2. OSL) a klinikai állapot és a repülésbiztonsági szempontok figyelembevételével alkalmazható.
-
-## 8. AZ ANYAGCSERE, TÁPLÁLKOZÁS ÉS HORMONÁLIS RENDSZER BETEGSÉGEI
-
-## (1) Az 1. Egészségügyi Osztály követelményei
-
-## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan funkcionális, illetve szervi jellegű anyagcsere-, táplálkozási vagy hormonális betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
-
-## b) Azok a vizsgált személyek, akiknél az anyagcsere-, táplálkozási vagy hormonális rendellenesség áll fenn, a 8. (4) pont szerint minősíthetők.
-
-## c) Diabetes mellitus esetén csak a 8. (4) b) és c) pontjainak megfelelően történhet a minősítés.
+## c) Diabetes mellitus esetén csak a IV. Fejezet 4. Függelék 2. és 3. pontjának megfelelően történhet a minősítés.
 
 ## d) Inzulin terápia esetén a vizsgált személy nem alkalmas.
 
-## e) Amennyiben a Testtömeg Index (BMI) ≥ 35, csak akkor minősíthető alkalmasnak a vizsgált személy, ha a túlsúly feltehetőleg nem akadályozza a szakszolgálati feladatok biztonságos ellátását, és a további szív- és érrendszeri rizikófaktorokat sikeresen tudta csökkenteni.
+## e) Amennyiben a Testtömeg Index (BMI) > 35, csak akkor minősíthető alkalmasnak a vizsgált személy, ha a túlsúly feltehetőleg nem akadályozza a szakszolgálati feladatok biztonságos ellátását, és a szív- és érrendszeri rizikófaktorok átvizsgálása kedvező eredményű (lásd a IV. Fejezet 9. Függelék 1. pontját).
 
-## (2) A 2. Egészségügyi Osztály követelményei
-
-## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan funkcionális, illetve szervi jellegű anyagcsere-, táplálkozási vagy hormonális betegség, mely feltehetőleg nem akadályozza a szakszolgálati feladatok biztonságos ellátását.
-
-## b) Azok a vizsgált személyek, akiknél az anyagcsere-, táplálkozási vagy hormonális rendellenesség áll fenn, a 8. (4) pont szerint minősíthetők.
-
-## c) Diabetes mellitus esetén csak a 8. (4) b) és c) pontjainak megfelelően történhet a minősítés.
-
-## d) Inzulin terápia esetén a vizsgált személy nem alkalmas.
-
-## e) Amennyiben a Testtömeg Index (BMI≥35, csak akkor minősíthető alkalmasnak a vizsgált személy, ha a túlsúly feltehetőleg nem akadályozza a szakszolgálati feladatok biztonságos ellátását, és a további szív- és érrendszeri rizikófaktorokat sikeresen tudta csökkenteni.
-
-## (3) A 3. Egészségügyi Osztály követelményei
-
-## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan funkcionális, illetve szervi jellegű anyagcsere-, táplálkozási vagy hormonális betegség, mely feltehetőleg nem akadályozza a szakszolgálati feladatok biztonságos ellátását.
-
-## b) Azok a vizsgált személyek, akiknél az anyagcsere-, táplálkozási vagy hormonális rendellenesség áll fenn, a 8. (4) pont szerint minősíthetők.
-
-## c) Diabetes mellitus esetén csak a 8. (4) b) és c) pontjainak megfelelően történhet a minősítés.
-
-## d) Inzulin terápia esetén a vizsgált személy nem alkalmas.
-
-## e) Amennyiben a Testtömeg Index (BMI) ≥ 35, csak akkor minősíthető alkalmasnak a vizsgált személy, ha a túlsúly feltehetőleg nem akadályozza a szakszolgálati feladatok biztonságos ellátását, és a további szív- és érrendszeri rizikófaktorokat sikeresen tudta csökkenteni.
-
-## (4) Kiegészítő előírások az anyagcsere, a táplálkozás és a hormonális rendszer követelményeihez
-
-## a) Az anyagcsere, táplálkozás vagy hormonális rendszer funkciózavara kizáró ok. Az AMS mérlegelheti a minősítést abban az esetben, ha az egyén tünetmentes, a klinikai állapot hormonpótló kezeléssel vagy anélkül kompenzált és stabil, és rendszeres szakgondozás alatt áll.
-
-## b) A glukózúriát és az emelkedett vércukorszintet ki kell vizsgálni. Normál glukózterhelés esetén (alacsony veseküszöb) vagy csökkent glukóz tolerancia esetén – diabeteses szövődmény nélkül – kizárólag diéta és rendszeres ellenőrzés mellett az AMS mérlegelheti a minősítést.
-
-## c) Az antidiabetikus kezelés kizáró ok. Mindazonáltal egyes biguanid származékokkal vagy alpha-glukozidáze gátlókkal jól beállított esetekben – diabetes szövődmény kizárása után – mérlegelhető a minősítés az 1. Osztályban korlátozással (Class 1. OML), a 2. és 3. Osztályban korlátozás nélkül. Szulfonilurea származékkal történő kezelés esetén a 2. Osztályban korlátozással (Class 2. OSL) mérlegelhető az alkalmas minősítés megújítása.
-
-## d) Az Addison-betegség kizáró ok. Az 1. Osztályban a minősítés megújítása a 2. és 3. Osztályban pedig a minősítést mérlegelheti az AMS, amennyiben a szakszolgálati feladatának ellátása közben a kortizon készítményt magánál tartja és szükség esetén annak bevétele megoldható. OML vagy OSL korlátozás alkalmazható.
-
-## e) Az anyagcsere, táplálkozás és hormonális rendszer rosszindulatú elváltozását a 23. Onkológiai fejezet is érinti. Ilyen esetekben a minősítéshez az AMS által elfogadott onkológus szakvéleményt is be kell kérni.
-
-## 9. VÉRKÉPZŐ RENDSZER
-
-## (1) Az 1. Egészségügyi Osztály követelményei
+## 5. Vérképző rendszer (JAR – FCL 3.180)
 
 ## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan hematológiai elváltozás, mely befolyásolhatja a szakszolgálati feladatok biztonságos ellátását.
 
-## b) A hemoglobin meghatározást minden orvosi vizsgálat alkalmával el kell végezni. A súlyos anémia (Ht < 32%) alkalmatlanságot jelent [lásd: 9. (4) a) pont].
+## b) A hemoglobin meghatározást minden orvosi vizsgálat alkalmával el kell végezni. Kóros hemoglobin érték esetén a jelentkezőt ki kell vizsgálni. 32% alatti hematokrit érték esetén a jelentkező nem alkalmas (lásd a IV. Fejezet 5. Függelék 1. pontját).
 
-## c) Sarlósejtes anémia esetén a vizsgált személy nem alkalmas [lásd: 9. (4) a) pont].
+## c) Sarlósejtes anémia esetén a vizsgált személy nem alkalmas (lásd a IV. Fejezet 5. Függelék 1. pontját).
 
-## d) A nyirokcsomók jelentős lokális vagy generalizált megnagyobbodása és nyirokrendszeri megbetegedés esetén a vizsgált személy nem alkalmas [lásd: 9. (4) b) pont].
+## d) A nyirokcsomók jelentős lokális vagy generalizált megnagyobbodása és vérképző szervi megbetegedés esetén a vizsgált személy nem alkalmas (lásd a IV. Fejezet 5. Függelék 2. pontját).
 
-## e) Akut leukémia esetén a vizsgált személy nem alkalmas. Stabil remisszió esetén az AMS mérlegelheti a minősítést. Krónikus leukémia az első minősítés alkalmával kizáró okot jelent, a minősítés meghosszabbításának szempontjait a 9. (4) c) pont részletezi.
+## e) Akut leukémia esetén a vizsgált személy nem alkalmas. Stabil remisszió esetén a szolgálat mérlegelheti az alkalmas minősítést. A krónikus leukémia kizáró okot jelent. Bizonyított stabil időszak után a szolgálat mérlegelheti az alkalmas minősítést (lásd a IV. Fejezet 5. Függelék 3. pontját).
 
-## f) Lépmegnagyobbodás esetén részletes kivizsgálás után lehet minősíteni a vizsgált személyt, a 9. (4) d) pont szerint.
+## f) Lépmegnagyobbodás esetén a vizsgált személy nem alkalmas (lásd a IV. Fejezet 5. Függelék 4. pontját).
 
-## g) Policitémia esetén részletes kivizsgálás után lehet minősíteni a vizsgált személyt a 9. (4) e) pont szerint.
+## g) Policitémia esetén a vizsgált személy nem alkalmas (lásd a IV. Fejezet 5. Függelék 5. pontját).
 
-## h) Alvadási zavar esetén részletes kivizsgálás után lehet minősíteni a vizsgált személyt a 9. (4) f) pont szerint.
+## h) Alvadási zavar esetén a vizsgált személy nem alkalmas (lásd a IV. Fejezet 5. Függelék 6. pontját).
 
-## (2) A 2. Egészségügyi Osztály követelményei
-
-## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan haematológiai elváltozás, mely befolyásolhatja a szakszolgálati feladatok biztonságos ellátását.
-
-## b) A hemoglobin meghatározást minden orvosi vizsgálat alkalmával el kell végezni. A súlyos anémia (Ht < 32%) alkalmatlanságot jelent [lásd: 9. (4) a) pont].
-
-## c) Sarlósejtes anémia esetén a vizsgált személy nem alkalmas [lásd: 9. (4) a) pont].
-
-## d) A nyirokcsomók jelentős lokális vagy generalizált megnagyobbodása és nyirokrendszeri megbetegedés esetén a vizsgált személy nem alkalmas [lásd: 9. (4) b) pont].
-
-## e) Akut leukémia esetén a vizsgált személy nem alkalmas. Stabil remisszió esetén az AMS mérlegelheti a minősítést. Krónikus leukémia az első minősítés alkalmával kizáró okot jelent, a minősítés meghosszabbításának szempontjait a 9. (4) c) pont részletezi.
-
-## f) Lépmegnagyobbodás esetén részletes kivizsgálás után lehet minősíteni a vizsgált személyt, a 9. (4) d) pont szerint.
-
-## g) Polcitémia esetén részletes kivizsgálás után lehet minősíteni a vizsgált személyt a 9. (4) e) pont szerint.
-
-## h) Alvadási zavar esetén részletes kivizsgálás után lehet minősíteni a vizsgált személyt a 9. (4) f) pont szerint.
-
-## (3) A 3. Egészségügyi Osztály követelményei
-
-## a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan haematológiai elváltozás, mely befolyásolhatja a szakszolgálati feladatok biztonságos ellátását.
-
-## b) A hemoglobin meghatározást minden orvosi vizsgálat alkalmával el kell végezni. A súlyos anémia (Ht < 32%) alkalmatlanságot jelent [lásd: 9. (4) a) pont].
-
-## c) Sarlósejtes anémia esetén a vizsgált személy nem alkalmas [lásd: 9. (4) a) pont].
-
-## d) A nyirokcsomók jelentős lokális vagy generalizált megnagyobbodása és nyirokrendszeri megbetegedés esetén a vizsgált személy nem alkalmas [lásd: 9. (4) b) pont].
-
-## e) Akut leukémia esetén a vizsgált személy nem alkalmas. Stabil remisszió esetén az AMS mérlegelheti a minősítést. Krónikus leukémia az első minősítés alkalmával kizáró okot jelent, a minősítés meghosszabbításának szempontjait a 9. (4) c) pont részletezi.
-
-## f) Lépmegnagyobbodás esetén részletes kivizsgálás után lehet minősíteni a vizsgált személy, a 9. (4) d) pont szerint.
-
-## g) Policitémia esetén részletes kivizsgálás után lehet minősíteni a vizsgált személyt a 9. (4) e) pont szerint.
-
-## h) Alvadási zavar esetén részletes kivizsgálás után lehet minősíteni a vizsgált személyt a 9. (4) f) pont szerint.
-
-## (4) Kiegészítő előírások a vérképző rendszer követelményeihez
-
-## a) A csökkent hemoglobin értékkel járó anémiát ki kell vizsgálni. A terápiásan nem befolyásolható anémia kizáró okot jelent. Az AMS, a hatóságilag elfogadott hematológus szakorvos véleménye alapján, mérlegelheti a minősítést, amennyiben az anémia oki terápiája sikeres volt (pl. vashiány, B12 hiány esetén), a haematokrit stabilan 32% feletti, illetve az enyhe fokú thalasszaemia vagy haemoglobinopatia esetén az anamnézisben nem szerepel krízis és a beteg funkcionális állapota eleget tesz a szakszolgálati követelményeknek.
-
-## b) A nyirokcsomó megnagyobbodást ki kell vizsgálni. Az AMS, a hatóságilag elfogadott hematológus szakorvos véleménye alapján, mérlegelheti a minősítést, amennyiben a gyulladásos folyamat teljes mértékben gyógyult, illetve a kezelt Hodgkin limfóma remisszióban van.
-
-## c) A krónikus leukémia 0., I. (esetleg II.) stádiumában a minősítés meghosszabbítását mérlegelheti az AMS, ha nem áll fenn anémia és minimális fenntartó kezelés szükséges, továbbá ,,hairy cell'' leukémia esetén, a hemoglobin és thrombocita szám normál értékű.
-
-## d) A lépnagyobbodást ki kell vizsgálni. Az AMS mérlegelheti a minősítést, ha a lépnagyobbodás minimális, stabil és nem áll más kórfolyamat a háttérben (pl. kezelt krónikus malária), vagy a minimális lépnagyobbodás hátterében a minősítéssel összeegyeztethető megbetegedés áll (pl. teljes remisszióban lévő Hodgkin limfóma).
-
-## e) A policitémiát ki kell vizsgálni. Az AMS mérlegelheti korlátozással a minősítést, amennyiben az állapot stabil és nem mutatható ki szövődmény.
-
-## f) A klinikailag jelentős alvadási zavart ki kell vizsgálni. Az AMS mérlegelheti korlátozással a minősítést, amennyiben nem szerepel a kórelőzményben jelentősebb vérzés vagy trombózis.
-
-## g) A vérképzési rendszer malignus folyamatait a 23. Onkológiai követelményei is tárgyalják. Ezen esetek minősítésénél a hatóságilag elfogadott onkológus szakvéleményét is figyelembe kell venni.
-
-## 10. HÚGYÚTI SZERVEK
-
-## (1) Az 1. Egészségügyi Osztály követelményei
+## 6. Húgyúti szervek (JAR – FCL 3.185)
 
 ## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a húgyúti vagy környéki szervek olyan funkcionális vagy szervi elváltozása, mely befolyásolhatja a szakszolgálati feladatok biztonságos ellátását.
 
-## b) Az organikus vesebetegség gyanúja vagy tünete esetén a jelentkezőt ki kell vizsgálni. Minden vizsgálat alkalmával vizeletvizsgálatot kell végezni. A vizeletben nem lehet kóros alakos elem. Különös figyelemmel kell lenni a húgyúti rendszer és a nemi szervek betegségeire [lásd: 10. (4) a) pont].
+## b) Az organikus vesebetegség bármely tünete esetén a vizsgált személy nem alkalmas. Minden vizsgálat alkalmával vizeletvizsgálatot kell végezni. A vizeletben nem lehet kóros elem. Különös figyelemmel kell lenni a húgyúti rendszer és a nemi szervek betegségeire (lásd a IV. Fejezet 6. Függelék 1. pontját).
 
-## c) Kimutatott vesekövesség esetén a jelentkező nem alkalmas, a minősítés további részleteit lásd a 10. (4) b) pontnál.
+## c) Kimutatott vesekövesség esetén a jelentkező nem alkalmas (lásd a IV. Fejezet 6. Függelék 2. pontját).
 
-## d) A vese vagy húgyúti rendszer betegsége vagy műtéte utáni szövődmény esetén, különösen, ha az striktúrával vagy kompresszióval jár, a vizsgált személy nem alkalmas. Kompenzált nefrectomia után az AMS mérlegelheti az alkalmasságot, a hatóságilag elfogadott urológus véleménye alapján, amennyiben nem áll fenn hipertónia vagy urémia [lásd: 10. (4) c) és d) pontokat].
+## d) A vese vagy húgyúti rendszer betegsége vagy műtéte utáni szövődmény esetén, különösen, ha az szűkület vagy kompresszió okozta passzázs zavarral jár, a vizsgált személy nem alkalmas. Kompenzált nefrectomia után, ha az nem jár magas vérnyomással vagy urémiával, mérlegelhető az alkalmasság (lásd a IV. Fejezet 6. Függelék 3. pontját).
 
-## e) Húgyúti szervek kiterjedt műtéte után vagy azok részleges vagy teljes csonkolása, áthelyezése után a vizsgált személy legalább 3 hónapig nem alkalmas, illetve addig, amíg állapota teljesen nem rendeződik és teszi lehetővé a szakszolgálati feladatok biztonságos ellátását [lásd: 10. (4) c) és d) pontjait].
+## e) Húgyúti szervek kiterjedt műtéte után vagy azok részleges vagy teljes csonkolása, áthelyezése után a vizsgált személy legalább 3 hónapig nem alkalmas, illetve addig, amíg állapota teljesen nem rendeződik és teszi lehetővé a szakszolgálati feladatok biztonságos ellátását (lásd a IV. Fejezet 6. Függelék 3. pontját).
 
-## (2) A 2. Egészségügyi Osztály követelményei
+## 7. Nemi úton terjedő és más fertőző betegségek (JAR – FCL 3.190)
 
-## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a húgyúti vagy környéki szervek olyan funkcionális vagy szervi elváltozása, mely befolyásolhatja a szakszolgálati feladatok biztonságos ellátását.
+## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem szerepelhet a kórelőzményben vagy nem állhat fenn nemi úton terjedő vagy más fertőző betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
 
-## b) Az organikus vesebetegség gyanúja vagy tünete esetén a jelentkezőt ki kell vizsgálni. Minden vizsgálat alkalmával vizeletvizsgálatot kell végezni. A vizeletben nem lehet kóros alakos elem. Különös figyelemmel kell lenni a húgyúti rendszer és a nemi szervek betegségeire [lásd: 10. (4) a) pont].
+## b) Különös figyelemmel kell kísérni azokat az eseteket, amikor az alábbiak szerepelnek a kórelőzményben vagy ezek klinikai gyanúja merül fel (lásd a IV. Fejezet 7. Függeléket):
 
-## c) Kimutatott vesekövesség esetén a jelentkező nem alkalmas, a minősítés további részleteit lásd a 10. (4) b) pontnál.
+## (1) HIV pozitivitás,
 
-## d) A vese vagy húgyúti rendszer betegsége vagy műtéte utáni szövődmény esetén, különösen, ha az striktúrával vagy kompresszióval jár, a vizsgált személy nem alkalmas. Kompenzált nefrectomia után az AMS mérlegelheti az alkalmasságot, a hatóságilag elfogadott urológus véleménye alapján, amennyiben nem áll fenn hipertónia vagy urémia [lásd: 10. (4) c) és d) pontokat].
+## (2) immunrendszer zavara,
 
-## e) Húgyúti szervek kiterjedt műtéte után vagy azok részleges vagy teljes csonkolása, áthelyezése után a vizsgált személy legalább 3 hónapig nem alkalmas, illetve addig, amíg állapota teljesen nem rendeződik és teszi lehetővé a szakszolgálati feladatok biztonságos ellátását [lásd: 10. (4) c) és d) pontjait].
+## (3) fertőző májgyulladás,
 
-## (3) A 3. Egészségügyi Osztály követelményei
+## (4) szifilisz.
 
-## a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a húgyúti vagy környéki szervek olyan funkcionális vagy szervi elváltozása, mely befolyásolhatja a szakszolgálati feladatok biztonságos ellátását.
-
-## b) Az organikus vesebetegség gyanúja vagy tünete esetén a jelentkezőt ki kell vizsgálni. Minden vizsgálat alkalmával vizeletvizsgálatot kell végezni. A vizeletben nem lehet kóros alakos elem. Különös figyelemmel kell lenni a húgyúti rendszer és a nemi szervek betegségeire [lásd: 10. (4) a) pont].
-
-## c) Kimutatott vesekövesség esetén a jelentkező nem alkalmas, a minősítés további részleteit lásd a 10. (4) b) pontnál.
-
-## d) A vese vagy húgyúti rendszer betegsége vagy műtéte utáni szövődmény esetén, különösen, ha az striktúrával vagy kompresszióval jár, a vizsgált személy nem alkalmas. Kompenzált nefrectomia után az AMS mérlegelheti az alkalmasságot, a hatóságilag elfogadott urológus véleménye alapján, amennyiben nem áll fenn hipertónia vagy urémia [lásd: 10. (4) c) és d) pontokat].
-
-## e) Húgyúti szervek kiterjedt műtéte után vagy azok részleges vagy teljes csonkolása, áthelyezése után a vizsgált személy legalább 3 hónapig nem alkalmas, illetve addig, amíg állapota teljesen nem rendeződik és teszi lehetővé a szakszolgálati feladatok biztonságos ellátását [lásd: 10. (4) c) és d) pontjait].
-
-## (4) Kiegészítő előírások a húgyúti szervek követelményeihez
-
-## a) A kóros laboratóriumi vizelet lelet okát ki kell vizsgálni.
-
-## b) A tünetmentes húgyúti kő vagy a kórelőzményben szereplő vesekólika esetén kivizsgálás szükséges. A kivizsgálás vagy kezelés idejére az AMS mérlegelheti a minősítés meghosszabbítását, az 1. és 2. Egészségügyi Osztályban korlátozással, a 3. Egészségügyi Osztályban korlátozás nélkül. Sikeres gyógykezelés után az AMS mérlegelheti a korlátozás feloldását. Reziduális kő esetén az AMS mérlegelheti az alkalmas minősítést a következők szerint: 1. Egészségügyi Osztályban OML korlátozással, 2. Egészségügyi Osztályban korlátozás nélkül vagy OSL korlátozással, 3. Egészségügyi Osztályban korlátozás nélkül.
-
-## c) Kiterjedt urológiai műtét után legalább 3 hónapig nem alkalmas a vizsgált személy. Az AMS, a hatóságilag elfogadott urológus szakvéleménye alapján, korábban is mérlegelheti a minősítést, amennyiben teljesen tünetmentes a vizsgált személy és minimális a szövődmények vagy kiújulás veszélye.
-
-## d) Veseátültetés vagy teljes húgyhólyag eltávolítás kizáró okot jelent az 1. és a 3. Egészségügyi Osztályban, az először jelentkezőnél. A minősítés meghosszabbítását, a hatóságilag elfogadott urológus szakvéleménye alapján, mérlegelheti az AMS a következők szerint:
-
-## 1. 12 hónappal a műtét után az átültetett vese funkciója teljesen kompenzált és a fenntartó immunoszupresszív kezelést a beteg jól tűri;
-
-## 2. teljes húgyhólyag eltávolítás után a beteg funkcionális állapota rendezett és nincs gyanú a folyamat kiújulására, fertőzésre vagy más kóros elváltozásra.
-
-## e) A húgyúti szervek malignus folyamatait a 23. Onkológiai követelményei is tárgyalják. Ezen esetek minősítésénél a hatóságilag elfogadott onkológus szakvéleményét is figyelembe kell venni.
-
-## 11. NEMI ÚTON TERJEDŐ ÉS MÁS FERTŐZŐ BETEGSÉGEK
-
-## (1) Az 1. Egészségügyi Osztály követelményei
-
-## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan funkcionális, illetve szervi jellegű nemi- vagy más fertőző betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
-
-## b) Különös figyelemmel kell kísérni azokat az eseteket, amikor az alábbiak kerülnek diagnosztizálásra, vagy szerepelnek a kórelőzményben [lásd: 11. (4) pont]:
-
-## 1. HIV pozitivitás,
-
-## 2. immunrendszer funkciózavara,
-
-## 3. fertőző májgyulladás,
-
-## 4. szifilisz.
-
-## (2) A 2. Egészségügyi Osztály követelményei
-
-## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan funkcionális, illetve szervi jellegű nemi- vagy más fertőző betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
-
-## b) Különös figyelemmel kell kísérni azokat az eseteket, amikor az alábbiak kerülnek diagnosztizálásra, vagy szerepelnek a kórelőzményben [lásd: 11. (4) pont]:
-
-## 1. HIV pozitivitás,
-
-## 2. immunrendszer funkciózavara,
-
-## 3. fertőző májgyulladás,
-
-## 4. szifilisz.
-
-## (3) A 3. Egészségügyi Osztály követelményei
-
-## a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan funkcionális, illetve szervi jellegű nemi- vagy más fertőző betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
-
-## b) Különös figyelemmel kell kísérni azokat az eseteket, amikor az alábbiak kerülnek diagnosztizálásra, vagy szerepelnek a kórelőzményben [lásd: 11. (4) pont]:
-
-## 1. HIV pozitivitás,
-
-## 2. immunrendszer funkciózavara,
-
-## 3. fertőző májgyulladás,
-
-## 4. szifilisz.
-
-## (4) Kiegészítő előírások a nemi úton terjedő és más fertőző betegségek követelményeihez
-
-## a) A HIV pozitivitás klinikai tünetekkel (AIDS) kizáró okot jelent.
-
-## b) Az orvosi minősítés megújítását korlátozással (Class 1. OML, Class 2. OSL) mérlegelheti az AMS, amennyiben klinikailag tünetmentes. Ilyen esetben szakorvosi ellenőrző vizsgálatok előírása kötelező, ezek gyakoriságát az AMS által elfogadott szakorvos véleménye alapján, a klinikai állapot függvényében (pl. gyógyszeres kezelés) kell meghatározni. Az AIDS vagy azzal kapcsolatos klinikai tünetek megjelenése kizáró ok.
-
-## c) A szifilisz és minden akut fertőző betegség kizáró ok. A szifilisz I. és II. stádiumának teljesen gyógyult eseteinek minősítését, az AMS által elfogadott szakorvos véleménye alapján, mérlegelheti az AMS.
-
-## d) A 11. fejezetben tartozó betegségek és malignus kórképek együttes fellépése esetén az AMS által elfogadott onkológus véleményét is figyelembe kell venni.
-
-## 12. NŐGYÓGYÁSZATI ÉS SZÜLÉSZETI KÖVETELMÉNYEK
-
-## (1) Az 1. Egészségügyi Osztály követelményei
+## 8. Nőgyógyászat és szülészet (JAR – FCL 3.195)
 
 ## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan funkcionális, illetve szervi jellegű nőgyógyászati elváltozás, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
 
 ## b) Súlyos, gyógykezelésre nem reagáló menstruációs panaszok esetén a vizsgált személy nem alkalmas.
 
-## c) A terhesség kizáró okot jelent. Amennyiben a nőgyógyászati vizsgálat során teljesen normál terhességet állapítottak meg, a vizsgált személy alkalmasnak minősíthető a 26. terhességi hétig [lásd: 12. (4) a) pont]. Szülés vagy terhesség megszakítása után a szakszolgálati engedélyesnek időszakos vagy megújító orvosi vizsgálatra és minősítésre kell jelentkezni.
+## c) A terhesség kizáró okot jelent. Amennyiben a nőgyógyászati vizsgálat során teljesen normál terhességet állapítottak meg, a vizsgált személy alkalmasnak minősíthető a 26. terhességi hétig, a IV. Fejezet 8. Függelék 1. pontja szerint. Szülés vagy terhesség megszakítása után az állapot teljes rendeződése esetén a szakszolgálati tevékenység újra kezdhető.
 
-## d) Kiterjedt nőgyógyászati műtét után a vizsgált személy legalább 3 hónapig nem alkalmas, illetve addig, amíg állapota teljesen nem rendeződik és teszi lehetővé a szakszolgálati feladatok biztonságos ellátását [lásd: 12. (4) b) pont].
+## d) Kiterjedt nőgyógyászati műtét után a vizsgált személy 3 hónapig nem alkalmas, illetve addig, amíg állapota teljesen nem rendeződik és teszi lehetővé a szakszolgálati feladatok biztonságos ellátását (lásd a IV. Fejezet 8. Függelék 2. pontját).
 
-## (2) A 2. Egészségügyi Osztály követelményei
+## 9. Mozgásszervi követelmények (JAR – FCL 3.200)
+
+## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a csontrendszer, ízületek, izmok vagy inak olyan veleszületett vagy szerzett betegsége, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## b) A vizsgált személy rendelkezzék megfelelő ülő magassággal, kéz- és lábhosszal, izomerővel a szakszolgálati feladatok biztonságos ellátásához (lásd IV. Fejezet 9. Függelék 1. pont).
+
+## c) A vizsgált személy mozgásszervi funkciói legyenek szabadok. A csontrendszer, ízületek, izmok vagy inak veleszületett elváltozásai vagy betegségek, sérülések utáni jelentős funkció beszűkülése esetén a minősítést a IV. Fejezet 9. Függelék 1. 2. és 3. pontjaival összhangban kell végezni.
+
+## 10. Pszichiátriai követelmények (JAR – FCL 3.205)
+
+## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél nem szerepelhet a kórelőzményben vagy nem állhat fenn semmiféle öröklött vagy szerzett, akut vagy krónikus pszichiátriai betegség vagy rendellenesség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## b) Különös figyelemmel kell lenni a következő kóresetekre (lásd a IV. Fejezet 10. Függelékét):
+
+## (1) schizofrénia, schizotípia vagy téves eszmékkel járó betegségek;
+
+## (2) hangulati élet zavara;
+
+## (3) neurotikus, stresszel kapcsolatos és szomatoform betegségek;
+
+## (4) személyiség zavarok;
+
+## (5) organikus mentális rendellenesség;
+
+## (6) alkohol okozta mentális vagy magatartás rendellenesség;
+
+## (7) pszichotróp szerek használata vagy abúzusa.
+
+## 11. Neurológiai követelmények (JAR – FCL 3.210)
+
+## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn semmilyen funkcionális, illetve szervi jellegű neurológiai betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## b) Különös figyelemmel kell kísérni a következő klinikai eseteket (lásd a IV. Fejezet 11. Függelékét):
+
+## (1) idegrendszer progresszív betegségei,
+
+## (2) epilepszia és az egyéb eredetű tudatzavarok,
+
+## (3) cerebrális funkciózavarra fokozottan hajlamosító állapotok,
+
+## (4) traumás fejsérülés,
+
+## (5) gerincvelő vagy a perifériás idegrendszer sérülése.
+
+## c) Elektroenkefalográfiás vizsgálatot akkor kell végezni, ha azt a vizsgált személy kórelőzménye vagy klinikai állapota indokolja (lásd a IV. Fejezet 11. Függelékét).
+
+## 12. Szemészeti követelmények (JAR – FCL 3.215)
+
+## (lásd a IV. Fejezet 12. Függelékét)
+
+## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a szem, illetve a szem védőszerveinek veleszületett vagy szerzett, akut vagy krónikus funkciózavara, illetve műtét/baleset utáni állapota, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## b) Szemészeti vizsgálatot szükséges végezni az első vizsgálat alkalmával, a szolgálat által elfogadott szakorvosnál (minden kóros vagy kétes esetet a szolgálat által elfogadott szemész szakorvos véleményezze), mely a következőkből áll:
+
+## (1) kórelőzmény;
+
+## (2) látóélesség közelre, közbenső távolságra és távolra: korrekció nélkül; a legjobb optikai korrekcióval, ha szükséges;
+
+## (3) objektív refrakció mérés. Távollátóknál 25 év alatt cikloplégiában;
+
+## (4) szemmozgások és kétszemes látás;
+
+## (5) színlátás;
+
+## (6) látótér;
+
+## (7) szemnyomás mérés klinikai indikáció alapján és 40 év felett 2 évente;
+
+## (8) a szem külső vizsgálata, anatómiai viszonyok, törőközegek (réslámpa) és szemfenék vizsgálat.
+
+## c) A szem rutinvizsgálatát a repülőorvos is végezheti. Minden megújító és meghosszabbító vizsgálat alkalmával el kell végezni (lásd a IV. Fejezet 12. Függelék 2. pontját) a következőket:
+
+## (1) kórelőzmény;
+
+## (2) látóélesség közelre, közbenső távolságra és távolra: korrekció nélkül; a legjobb optikai korrekcióval, ha szükséges;
+
+## (3) a szem morfológiai viszonyainak vizsgálata szemtükörrel;
+
+## (4) klinikai indikáció alapján további vizsgálatok a IV. Fejezet 12. Függelék 4. pontja szerint.
+
+## d) Amennyiben a vizsgált személy a látóélesség követelményeit (6/9, 6/9, 6/6, N14, N5) csak korrekciós lencsével teljesíti és a refrakciós hiba meghaladja a ±3 dioptriát, úgy a repülőorvosi vizsgálat alkalmával szemész szakorvos leletét át kell adni a repülőorvosnak (lásd a IV. Fejezet 12. Függelék 3. pontját).
+
+## Abban az esetben, amikor a refrakciós hiba a +5 és –6 dioptria tartományban van, a vizsgálatot 5 évente kell elvégezni, a repülőorvosi vizsgálatot megelőzően. Amikor a refrakciós hiba a fenti tartományon kívül esik, a vizsgálatot 24 hónaponként kell elvégezni, a repülőorvosi vizsgálatot megelőzően. A vizsgálat a következőkből álljon:
+
+## (1) kórelőzmény;
+
+## (2) látóélesség közelre, közbenső távolságra és távolra: korrekció nélkül; a legjobb optikai korrekcióval, ha szükséges;
+
+## (3) refrakció;
+
+## (4) szemmozgások és kétszemes látás;
+
+## (5) látótér;
+
+## (6) szemnyomás mérés 40 év felett;
+
+## (7) a szem külső vizsgálata, anatómiai viszonyok, törőközegek (réslámpa) és szemfenék vizsgálat.
+
+## Bármilyen kóros eltérés esetén, amikor kétséges a vizsgált személy szemének épsége, további szemészeti vizsgálatok szükségesek (lásd a IV. Fejezet 12. Függelék 4. pontját).
+
+## e) Az 1. Osztályú orvosi minősítés birtokosánál, 40 év felett 24 hónaponként kell szemnyomást mérni, a repülőorvosi vizsgálatot megelőzően.
+
+## f) Abban az esetben, amikor bármilyen megalapozott okból szemészeti vizsgálat szükséges, ezt a korlátozást az orvosi minősítésen jelölni kell: „Szemészeti szakvizsgálat szükséges – RXO”. Ilyen korlátozást javasolhat a vizsgáló repülőorvos is.
+
+## 13. A látóélesség követelményei (JAR – FCL 3.220)
+
+## a) Távoli látóélesség. A távoli látóélesség mindkét szemen külön-külön, legalább 6/9 (0.7) legyen, korrekcióval vagy anélkül, és a két szemes látóélesség legalább 6/6 (1.0) legyen [lásd a g) pontot]. A korrekció nélküli látóélességre nincs küszöbérték.
+
+## b) Fénytörés. A fénytörési hiba azon dioptriában kifejezett érték, mely jelzi az emmetrópiától való eltérést a legnagyobb ametróp meridiánon. A fénytörést az általánosan elfogadott módszerrel kell mérni (lásd a IV. Fejezet 13. Függelék 1. pontját). A vizsgált személy, a fénytörési hibát tekintve, a következő követelmények teljesülése esetén alkalmas:
+
+## (1) Fénytörési hiba
+
+## (i) Az első vizsgálat alkalmával a fénytörési hiba +5 és –6 dioptria határok között legyen [lásd a IV. Fejezet 13. Függelék 2. (a) pontját].
+
+## (ii) Az orvosi minősítést megújító/meghosszabbító vizsgálatok alkalmával, amennyiben a vizsgált személy a hatóság előtt sikeresen bizonyította jártasságát, akkor a szolgálat mérlegelheti az alkalmasságot +5 dioptria vagy –6 dioptriát meg nem haladó nagyfokú miópiás fénytörési hiba esetén [lásd a IV. Fejezet 13. Függelék 2. (b) pontját].
+
+## (iii) Nagy mértékű refrakciós hiba esetén a vizsgált személy használjon kontakt vagy könnyített és elvékonyított lencsét.
+
+## (2) Astigmia
+
+## (i) Az első vizsgálat alkalmával az astigmia mértéke nem haladhatja meg a 2.0 dioptriát.
+
+## (ii) Az orvosi minősítést megújító/meghosszabbító vizsgálatok alkalmával, amennyiben a vizsgált személy a hatóság előtt sikeresen bizonyította jártasságát, akkor a szolgálat mérlegelheti az alkalmasságot, ha az astigmia mértéke nem haladja meg a 3.0 dioptriát.
+
+## (3) A keratokónusz kizáró ok. A szolgálat mérlegelheti a minősítés megújítását, ha a vizsgált személy eleget tesz a IV. Fejezet 13. Függelék 3. pontja követelményeinek.
+
+## (4) Anisometropia
+
+## (i) Az első vizsgálat alkalmával a két szem közötti refrakciós hiba (anisometropia) nem haladhatja meg a 2.0 dioptriát.
+
+## (ii) Az orvosi minősítést megújító/meghosszabbító vizsgálatok alkalmával, amennyiben a vizsgált személy a hatóság előtt sikeresen bizonyította jártasságát, akkor a szolgálat mérlegelheti az alkalmasságot, ha a két szem közötti refrakciós hiba mértéke nem haladja meg a 3 dioptriát.
+
+## (5) A presbiópia változását minden repülőorvosi vizsgálat alkalmával ellenőrizni kell.
+
+## (6) A vizsgált személynek szemüveggel vagy anélkül olvasnia kell tudni 30–50 cm-ről az N5 (vagy annak megfelelő), illetve az N14 (vagy annak megfelelő) méretű írásjeleket 100 cm távolságról, ha szükséges korrekciós üveggel [lásd a JAR-FCL 3.220 (g) pontot].
+
+## c) A kétszemes látás jelentős zavara esetén a vizsgált személy nem alkalmas (lásd a IV. Fejezet 13. Függelék 4. pontját).
+
+## d) Kettőslátás esetén a vizsgált személy nem alkalmas.
+
+## e) A szemizmok együttműködési zavara esetén (heterofória) a vizsgált személy nem alkalmas, amennyiben a fória mértéke meghaladja a következő értékeket:
+
+## 2. 0 dioptria hiperfória/6 m-en vizsgálva,
+
+## 10.0 dioptria esofória/6 m-en vizsgálva,
+
+## 8. 0 dioptria exofória/6 m-en vizsgálva,
+
+## 1. 0 dioptria hiperfória/33 cm-en vizsgálva,
+
+## 8. 0 dioptria esofória/33 cm-en vizsgálva,
+
+## 12.0 dioptria exofória/33 cm-en vizsgálva.
+
+## Kivételt képeznek azok az esetek, amikor a fúziós készség megakadályozza az asztenopiát és kettőslátást (lásd a IV. Fejezet 13. Függelék 5. pontját).
+
+## f) Kóros látótér esetén a vizsgált személy nem alkalmas (lásd a IV. Fejezet 13. Függelék 4. pontját).
+
+## g) (1) Amennyiben a megfelelő látóélesség csak korrekcióval érhető el, a szemüvegnek/kontaktlencsének optimális látóélességet kell biztosítania, jól viselhetőnek és alkalmasnak kell lennie a szakszolgálati feladatok ellátására. Kizárólag monofokális és a távollátást javító kontaktlencse viselhető. Orthokeratologiai lencsék nem használhatók.
+
+## (2) A korrekciós lencsének minden távolságra megfelelő látóélességet kell biztosítania. Egy szemüveg használatával teljesíteni kell tudni mindhárom távolság látóélesség követelményeit.
+
+## (3) Repülési célra csak monofokális és nem színezett kontaktlencse használható.
+
+## (4) A megfelelő tartalék szemüveg készenlétben tartása szükséges a szakszolgálati feladatok végzése során.
+
+## h) Szemészeti műtétek
+
+## (1) A látóélességet javító műtét kizáró okot jelent. Az alkalmas minősítést a szolgálat mérlegelheti (lásd a IV. Fejezet 13. Függelék 6. pontját).
+
+## (2) A katarakta műtét, retina sebészi kezelése és a glaukóma miatti műtét kizáró okot jelent. A minősítés meghosszabbításakor/megújításakor a szolgálat mérlegelheti az alkalmas minősítést (lásd a IV. Fejezet 13. Függelék 7. pontját).
+
+## 14. A színlátás követelményei (JAR – FCL 3.225)
+
+## a) Az ép színlátás feltétele, hogy a vizsgált személy hibátlanul olvassa az Ishihara táblákat, vagy igazolható legyen Nagel-féle anomaloszkóppal a normál trikromázia (lásd a IV. Fejezet 14. Függelék 1. pontját).
+
+## b) A vizsgált személynek legyen ép a színlátása vagy legyen színbiztos. Az első vizsgálat alkalmával el kell végezni az Ishihara tesztet. Amennyiben a vizsgált személy téveszt az Ishihara táblák olvasásakor, akkor mondható színbiztosnak, ha megfelel a szolgálat által elfogadott részletes színfelismerési teszteknek (anomaloszkópia vagy standardizált színes lámpa tesztek) (lásd a IV. Fejezet 14. Függelék 2. pontját). Meghosszabbító vagy megújító vizsgálat alkalmával a színlátást csak klinikai indikáció alapján kell vizsgálni.
+
+## c) Az a vizsgált személy, aki az elfogadott színfelismerési tesztek során nem bizonyul színbiztosnak, nem alkalmas.
+
+## 15. Fül-Orr-Gégészeti követelmények (JAR – FCL 3.230)
+
+## a) Az 1. Egészségügyi Osztályú minősítésre először jelentkezőnél vagy a már minősítéssel rendelkezőnél nem állhat fenn az alábbi elváltozások egyike sem, mely kiterjedésénél vagy jellegénél fogva akadályozhatja a szakszolgálati feladatok biztonságos végrehajtását. Ide sorolandók az orr, fül, melléküregek és garat (ideértve a szájüreget, fogakat és a gégét is) funkciózavarai, azok elváltozásai, veleszületett vagy szerzett, akut vagy krónikus, illetve baleset vagy műtét utáni állapotai.
+
+## b) Kibővített fül-orr-gégészeti vizsgálatot kell végezni az első orvosi minősítés kiadásakor, majd klinikai javaslat esetén (a kibővített vizsgálat részletezését lásd a IV. Fejezet 15. Függelék 1. és 2. pontjánál). A vizsgálat a következőkből álljon:
+
+## (1) kórelőzmény;
+
+## (2) a következő klinikai vizsgálatok: otoszkópia, rhinoszkópia, továbbá a száj- és garatüreg vizsgálata;
+
+## (3) timpanometria vagy ezzel egyenértékű vizsgálat;
+
+## (4) az egyensúlyrendszer klinikai vizsgálata.
+
+## Minden kórós vagy kétes fül-orr-gégészeti esetet a szolgálat által elfogadott szakorvos véleményezze.
+
+## c) Az orvosi minősítés megújításakor a rutin fül-orr-gégészeti vizsgálatot minden alkalommal el kell végezni (lásd a IV. Fejezet 15. Függelékét).
+
+## d) A következő betegségek kizáró okot jelentenek:
+
+## (1) a közép- és belsőfül akut vagy krónikus, klinikailag aktív betegsége;
+
+## (2) a dobhártya állandó perforációja vagy funkciózavara (IV. Fejezet 15. Függelék 3. pontja);
+
+## (3) a vesztibuláris funkció zavara (IV. Fejezet 15. Függelék 4. pontja);
+
+## (4) az orrlégzés jelentős akadályozottsága vagy az orrmelléküregek funkciózavara;
+
+## (5) a szájüreg és a felső légutak súlyos akut vagy krónikus gyulladásai, illetve kiterjedt rosszindulatú daganatai;
+
+## (6) a beszéd, illetve hangképzés jelentős zavara.
+
+## 16. A hallás követelményei (JAR – FCL 3.235)
+
+## a) A hallást minden alkalommal meg kell vizsgálni. A vizsgált személy mindkét fülén külön-külön vizsgálva, pontosan értse a társalgási beszédet 2 m távolságról, háttal fordulva a vizsgálónak.
+
+## b) Tiszta hang audiometriát kell végezni az első vizsgálat alkalmával, ezt követően a 40. életévig 5 évente, a 40. életév felett pedig 2 évente (lásd a IV. Fejezet 16. Függelék 1. pontját).
+
+## c) A halláscsökkenés egyik fülön sem lehet nagyobb 35 dB (HL)-nél az 500, 1000 és 2000 Hz, illetve 50 dB (HL)-nél a 3000 Hz frekvencián.
+
+## d) Hypacusis esetén az orvosi minősítés megújításakor és meghosszabbításakor a szolgálat alkalmasnak minősítheti a vizsgált személyt, amennyiben a beszédaudiometriás vizsgálat megfelelő hallásteljesítményt bizonyít (lásd a IV. Fejezet 16. Függelék 2. pontját).
+
+## 17. Pszichológiai követelmények (JAR – FCL 3.240)
+
+## a) Az 1. Osztályú minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan pszichológiai eltérés (lásd a IV. Fejezet 17. Függelék 1. pontját), mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását. A pszichológiai vizsgálatot – kellő indikáció alapján – a szolgálat rendelheti el, mely lehet része vagy kiegészítője a pszichiátriai vagy neurológiai vizsgálatnak is (lásd a IV. Fejezet 17. Függelék 2. pontját).
+
+## b) A pszichológiai vizsgálatot a szolgálat által elfogadott pszichológus végezze.
+
+## c) A pszichológiai vizsgálatról a pszichológus írásos összefoglalót küldjön a szolgálat részére, mely tartalmazza véleményét és esetleges javaslatait is.
+
+## 18. Bőrgyógyászati követelmények (JAR – FCL 3.245)
+
+## a) Az 1. Egészségügyi Osztályú minősítésért először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan diagnosztizált bőrgyógyászati elváltozás, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## b) A következő betegségek esetén részletes szakorvosi vizsgálat szükséges (lásd a IV. Fejezet 18. Függelékét):
+
+## (1) exogén vagy endogén ekcéma,
+
+## (2) súlyos pszoriázis,
+
+## (3) bakteriális fertőzés,
+
+## (4) gyógyszerek okozta bőrelváltozások,
+
+## (5) bullózus kiütések,
+
+## (6) a bőr rosszindulatú elváltozásai,
+
+## (7) allergiás bőrkiütések.
+
+## 19. Onkológia (JAR – FCL 3.246)
+
+## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan diagnosztizált elsődleges vagy szekunder rosszindulatú betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## b) A rosszindulatú betegség kezelése után a vizsgált személy a IV. Fejezet 19. Függeléke szerint minősíthető.
+
+## II. FEJEZET
+
+## A 2. Egészségügyi Osztály követelményei
+
+## A JAR-FCL 3 C/ Alfejezet szerint
+
+## 1. A szív- és érrendszer – Vizsgáló eljárások (JAR – FCL 3.250)
+
+## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan veleszületett vagy szerzett szív- és érrendszeri betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## b) 12 elvezetéses nyugalmi EKG felvétel és lelet szükséges az első orvosi minősítés kiadásakor, ezt követően pedig a 40. életév utáni első vizsgálatkor.
+
+## c) Terheléses EKG vizsgálatot csak klinikai indikáció esetén kell végezni a IV. Fejezet 1. Függelék 1. pontja szerint.
+
+## d) A nyugalmi és a terheléses EKG vizsgálatot a repülőorvos leletezze vagy a szolgálat által elfogadott szakorvos.
+
+## e) Amennyiben 2 vagy több rizikófaktor (dohányzás, magas vérnyomás, cukorbetegség, elhízás stb.) áll fenn, a vizsgált személynél szérum lipid és szérum koleszterin vizsgálatot kell végezni az első minősítés kiadásakor, illetve a 40. életév betöltését követő első vizsgálat alkalmával, valamint klinikai indikáció esetén.
+
+## 1.1. Vérnyomás (JAR – FCL 3.255)
+
+## a) A vérnyomást minden vizsgálat alkalmával a IV. Fejezet 1. Függelék 3. pontja szerint kell mérni.
+
+## b) Amennyiben a vérnyomás a vizsgálat alkalmával következetesen, kezeléssel vagy kezelés nélkül meghaladja a 160 Hgmm-es szisztolés, illetve 95 Hgmm-es diasztolés értéket, a vizsgált személyt nem alkalmasnak kell minősíteni.
+
+## c) A vérnyomáscsökkentő terápiának összeegyeztethetőnek kell lennie a szakszolgálati feladatok biztonságos ellátásával és meg kell felelni a IV. Fejezet 1. Függelék 4. pontjának is. A terápiás beállítás idejére ideiglenesen nem alkalmas a vizsgált személy annak megállapítására, hogy nincs jelentős mellékhatása a gyógykezelésnek.
+
+## d) Tüneteket okozó hypotonia esetén a vizsgált személy nem alkalmas.
+
+## 1.2. Koszorúsér betegség (JAR – FCL 3.260)
+
+## a) Ischémiás szívbetegség gyanúja esetén a vizsgálatra jelentkezőt ki kell vizsgálni. Kismértékű, tünetmentes, gyógyszeres kezelést nem igénylő koszorúsér-elváltozás esetén a szolgálat mérlegelheti az alkalmasságot, amennyiben a IV. Fejezet 1. Függelék 5. pontja szerinti vizsgálatok eredménye kielégítő.
+
+## b) Tünetet okozó koszorúsér-betegség vagy gyógyszeres kezelést igénylő tünetek esetén a vizsgált személy nem alkalmas.
+
+## c) A 2. Egészségügyi Osztályban minősítésre jelentkezőnél ischémiás történés után (ilyenek a szívizominfarktus, angina, jelentős ritmuszavar vagy szívelégtelenség, illetve a koszorúsér keringését helyreállító bármely beavatkozás) a szolgálat mérlegelheti az alkalmas minősítést, amennyiben a IV. Fejezet 1. Függelék 6. pontja szerinti vizsgálatok eredménye kedvező.
+
+## 1.3. Ritmus- és vezetési zavarok (JAR – FCL 3.265)
+
+## a) A tartós vagy időnként jelentkező, klinikai tünetekkel járó szupraventrikuláris tachykardia, szinoatriális diszfunkció esetén a vizsgált személy nem alkalmas. A szolgálat mérlegelheti az alkalmas minősítést a IV. Fejezet 1. Függelék 7. pontja szerint.
+
+## b) Tünetmentes szinus bradikardia vagy szinus tachykardia esetén a vizsgált személy alkalmasnak minősíthető, amennyiben más kóros elváltozás nem áll a háttérben.
+
+## c) Tünetmentes egygócú szupraventrikuláris vagy ventrikuláris extraszisztólék nem jelentenek alkalmatlanságot. A gyakori és komplex formában jelentkező extraszisztólék esetén kardiológiai kivizsgálás szükséges a IV. Fejezet 1. Függelék 7. pontja szerint.
+
+## d) Egyéb rendellenesség hiányában az inkomplett szárblokk vagy stabil bal tengelyállás alkalmasnak minősíthető.
+
+## e) Komplett jobb-szárblokk esetén kardiológiai kivizsgálás szükséges az első észleléskor, valamint ezt követően a IV. Fejezet 1. Függelék 7. pontja szerint.
+
+## f) Komplett bal-szárblokk esetén a vizsgált személyt nem alkalmasnak kell minősíteni. Az alkalmas minősítést mérlegelheti a szolgálat a IV. Fejezet 1. Függelék 7. pontja szerint.
+
+## g) I. fokú és Mobitz 1. típusú A-V block esetén, kóros eltérések hiányában mérlegelhető az alkalmas minősítés. Mobitz 2. típusú vagy teljes A-V block esetén a vizsgált személy nem alkalmas. Az alkalmas minősítést mérlegelheti a szolgálat a IV. Fejezet 1. Függelék 7. pontja szerint.
+
+## h) A széles és/vagy keskeny QRS komplexusokkal járó tachykardia esetén a vizsgált személy nem alkalmas. Az alkalmas minősítést mérlegelheti a szolgálat a IV. Fejezet 1. Függelék 7. pontja szerint.
+
+## i) Kamrai praeexcitáció esetén a vizsgált személy nem alkalmas. Az alkalmas minősítést mérlegelheti a szolgálat a IV. Fejezet 1. Függelék 7. pontja szerint.
+
+## j) Endokardiális pacemakerrel a vizsgált személy nem alkalmas. Az alkalmas minősítést mérlegelheti a szolgálat a IV. Fejezet 1. Függelék 7. pontja szerint.
+
+## k) Ablációs therápia után a vizsgált személy nem alkalmas. Az alkalmas minősítést mérlegelheti a szolgálat a IV. Fejezet 1. Függelék 7. pontja szerint.
+
+## 1.4. Általános irányelvek (JAR – FCL 3.270)
+
+## a) Perifériás artériás betegség esetén, műtét előtt vagy után a vizsgált személy nem alkalmas. Amennyiben nem áll fenn jelentős funkcionális károsodás, a szolgálat mérlegelheti az alkalmas minősítést a IV. Fejezet 1. Függelék 5. és 6. pontja szerint.
+
+## b) A mellkasi vagy hasi aorta aneurizma műtéte előtt vagy után a vizsgált személy nem alkalmas. Infra-renális hasi aorta aneurizma esetén a szolgálat mérlegelheti az alkalmas minősítést a IV. Fejezet 1. Függelék 8. pontja szerint.
+
+## c) Bármilyen jelentős szívbillentyű hiba esetén a vizsgált személy nem alkalmas.
+
+## (1) Kisfokú szívbillentyű elváltozás esetén a vizsgált személyt alkalmasnak minősítheti a szolgálat, amennyiben klinikai állapota eleget tesz a IV. Fejezet 1. Függelék 9. (a) és (b) pontjában foglaltaknak.
+
+## (2) Szívbillentyű beültetés/plasztika után a vizsgált személy nem alkalmas. A szolgálat mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a IV. Fejezet 1. Függelék 9. (c) pontjában foglaltaknak.
+
+## d) A szisztémás alvadásgátló kezelés kizáró ok. Azt a vizsgált személyt, aki átmeneti ideig részesült alvadásgátló kezelésben, a szolgálat alkalmasnak minősítheti, amennyiben klinikai állapota eleget tesz a IV. Fejezet 1. Függelék 10. pontjában foglaltaknak.
+
+## e) A szívburok, szívizom vagy az endokardium minden eddig nem érintett rendellenessége kizáró ok. A szolgálat mérlegelheti az alkalmas minősítést az állapot teljes rendeződése után, amennyiben a kardiológiai kivizsgálás igazolja, hogy a vizsgált személy állapota eleget tesz a IV. Fejezet 1. Függelék 11. pontjában foglaltaknak.
+
+## f) A szív veleszületett fejlődési rendellenessége, műtét előtt vagy után kizáró okot jelent. A szolgálat mérlegelheti az alkalmas minősítést a IV. Fejezet 1. Függelék 12. pontjában foglaltak szerint.
+
+## g) A szív- és tüdőtranszplantáció kizáró ok.
+
+## h) A vizsgált személy anamnézisében szereplő ismételten fellépő vasovagalis syncope kizáró okot jelent. A szolgálat mérlegelheti az alkalmasságot, amennyiben az előzményi adatok arra utalnak, hogy a vizsgált személy egészségi állapota megfelel a IV. Fejezet 1. Függelék 13. pontjában foglaltaknak.
+
+## 2. Légzőszervek
+
+## 2.1. Általános irányelvek (JAR – FCL 3.275)
+
+## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a légzőszervek olyan veleszületett vagy szerzett elváltozása, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## b) A hát/mell irányú mellkas röntgen vizsgálat csak klinikai kép vagy epidemiológiai adatok alapján követelhető meg.
+
+## c) Légzésfunkciós vizsgálat elvégzése klinikai javaslat esetén szükséges (lásd a IV. Fejezet 2. Függelék 1. pontját). Jelentős légzésfunkció károsodás esetén a vizsgált személy nem alkalmas (lásd a IV. Fejezet 2. Függelék 1. pontját).
+
+## 2.2. Kóresetek (JAR – FCL 3.280)
+
+## a) Krónikus obstruktív légúti megbetegedés kizáró okot jelent.
+
+## A légzésfunkció enyhe fokú károsodása esetén a vizsgált személy alkalmasnak minősíthető.
+
+## b) Gyógyszeres kezelést igénylő asthma esetén a vizsgált személyt a IV. Fejezet 2. Függelék 2. pontja alapján kell minősíteni.
+
+## c) A légzőszervek aktív gyulladásos betegségei esetén ideiglenesen nem alkalmas a vizsgált személy.
+
+## d) Aktív szarkoidozis esetén a vizsgált személyt nem alkalmasnak kell minősíteni (lásd a IV. Fejezet 2. Függelék 3. pontját).
+
+## e) Spontán pneumothorax után a vizsgált személyt a IV. Fejezet 2. Függelék 4. pontja szerint elvégzett vizsgálatok alapján kell minősíteni.
+
+## f) Nagy mellkasi műtétet követően az alkalmasságot legkevesebb 3 hónap után lehet mérlegelni, amennyiben a műtét utáni állapot feltehetően már nem akadályozza a szakszolgálati feladatok biztonságos ellátását (lásd a IV. Fejezet 2. Függelék 5. pontját).
+
+## g) A kezeléssel nem befolyásolható légzési apnoe kizáró okot jelent.
+
+## 3. Emésztőszervek
+
+## 3.1. Általános irányelvek (JAR – FCL 3.285)
+
+## A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn az emésztő szervrendszer olyan funkcionális vagy szervi elváltozása, amely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## 3.2. Kóresetek (JAR – FCL 3.290)
+
+## a) Visszatérő, gyógyszeres kezelést igénylő, diszpepsziás betegséggel vagy hasnyálmirigy gyulladással a jelentkező nem alkalmas a IV. Fejezet 3. Függelék 1. pontja függvényében.
+
+## b) A véletlenszerűen felfedezett epekövesség eseteit a szolgálat a IV. Fejezet 3. Függelék 2. pontja szerint minősíti.
+
+## c) A vizsgált személyt nem alkalmasként kell minősíteni, amennyiben krónikus bélgyulladás áll fenn vagy szerepel az anamnézisben (lásd a IV. Fejezet 3. Függelék 3. pontját).
+
+## d) A vizsgált személynek nem lehet olyan jellegű sérve, mely a cselekvőképesség beszűkülésének veszélyével járhat.
+
+## e) Alkalmatlanságot jelent az emésztőrendszer minden műtéti vagy betegség utáni szövődményes esete, ami veszélyeztetheti a szakszolgálati feladatok biztonságos ellátását, különös tekintettel szűkület vagy kompresszió miatti passzázs akadályokra.
+
+## f) Az emésztőrendszeren végzett műtétek után – ideértve egyes részek teljes vagy részleges eltávolítását, áthelyezését is – a vizsgált személyt legkorábban 3 hónap múlva lehet minősíteni, illetve akkor, amikor állapota stabilizálódott és valószínűleg nem veszélyezteti a szakszolgálati feladatok biztonságos ellátását (lásd a IV. Fejezet 3. Függelék 4. pontját).
+
+## 4. Az anyagcsere, táplálkozás és hormonális rendszer betegségei (JAR – FCL 3.295)
+
+## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan funkcionális, illetve szervi jellegű anyagcsere, táplálkozási vagy hormonális betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## b) Azok a vizsgált személyek, akiknél anyagcsere, táplálkozási vagy hormonális rendellenesség áll fenn, a IV. Fejezet 4. Függelék 1. és 4. pontja szerint minősíthetők.
+
+## c) Diabetes mellitus esetén csak a IV. Fejezet 4. Függelék 2. és 3. pontjának megfelelően történhet a minősítés.
+
+## d) Inzulin terápia esetén a vizsgált személy nem alkalmas.
+
+## e) Amennyiben a Testtömeg Index (BMI) > 35, csak akkor minősíthető alkalmasnak a vizsgált személy, ha a túlsúly feltehetőleg nem akadályozza a szakszolgálati feladatok biztonságos ellátását, és a szív- és érrendszeri rizikófaktorok átvizsgálása kedvező eredményű (lásd a IV. Fejezet 9. Függelék 1. pontját).
+
+## 5. Vérképző rendszer (JAR – FCL 3.300)
+
+## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan hematológiai elváltozás, mely befolyásolhatja a szakszolgálati feladatok biztonságos ellátását.
+
+## b) Hemoglobin meghatározást az első orvosi minősítéshez kell végezni. Kóros hemoglobin érték esetén a jelentkezőt ki kell vizsgálni. 32% alatti hematokrit érték esetén a jelentkező nem alkalmas (lásd a IV. Fejezet 5. Függelék 1. pontját).
+
+## c) Sarlósejtes anémia esetén a vizsgált személy nem alkalmas (lásd a IV. Fejezet 5. Függelék 1. pontját).
+
+## d) A nyirokcsomók jelentős lokális vagy generalizált megnagyobbodása és vérképző szervi megbetegedés esetén a vizsgált személy nem alkalmas (lásd a IV. Fejezet 5. Függelék 2. pontját).
+
+## e) Akut leukémia esetén a vizsgált személy nem alkalmas. Stabil remisszió esetén a szolgálat mérlegelheti az alkalmas minősítést. Bizonyított stabil időszak után a szolgálat mérlegelheti az alkalmas minősítést. Lásd a IV. Fejezet 5. Függelék 3. pontjánál.
+
+## f) Lépmegnagyobbodás esetén a vizsgált személy nem alkalmas (lásd a IV. Fejezet 5. Függelék 4. pontját).
+
+## g) Policitémia esetén a vizsgált személy nem alkalmas (lásd a IV. Fejezet 5. Függelék 5. pontját).
+
+## h) Alvadási zavar esetén a vizsgált személy nem alkalmas (lásd a IV. Fejezet 5. Függelék 6. pontját).
+
+## 6. Húgyúti szervek (JAR – FCL 3.305)
+
+## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a húgyúti vagy környéki szervek olyan funkcionális vagy szervi elváltozása, mely befolyásolhatja a szakszolgálati feladatok biztonságos ellátását.
+
+## b) Az organikus vesebetegség bármely tünete esetén a vizsgált személy nem alkalmas. Minden vizsgálat alkalmával vizeletvizsgálatot kell végezni. A vizeletben nem lehet kóros elem. Különös figyelemmel kell lenni a húgyúti rendszer és a nemi szervek betegségeire (lásd a IV. Fejezet 6. Függelék 1. pontját).
+
+## c) Kimutatott vesekövesség esetén a jelentkező nem alkalmas (lásd a IV. Fejezet 6. Függelék 2. pontját).
+
+## d) A vese vagy húgyúti rendszer betegsége vagy műtéte utáni szövődmény esetén, különösen, ha az szűkület vagy kompresszió okozta passzázs zavarral jár, a vizsgált személy nem alkalmas. Nefrectomia után, ha az állapot kompenzált, és nem jár magas vérnyomással vagy urémiával, mérlegelhető az alkalmasság (lásd a IV. Fejezet 6. Függelék 3. pontját).
+
+## e) Húgyúti szervek kiterjedt műtéte után vagy azok részleges vagy teljes csonkolása, áthelyezése után a vizsgált személy legalább 3 hónapig nem alkalmas, illetve addig, amíg állapota teljesen nem rendeződik és teszi lehetővé a szakszolgálati feladatok biztonságos ellátását (lásd a IV. Fejezet 6. Függelék 3. és 4. pontját).
+
+## 7. Nemi úton terjedő és más fertőző betegségek (JAR – FCL 3.310)
+
+## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem szerepelhet a kórelőzményben vagy nem állhat fenn nemi úton terjedő vagy más fertőző betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## b) Különös figyelemmel kell kísérni azokat az eseteket, amikor az alábbiak szerepelnek a kórelőzményben vagy ezek klinikai gyanúja merül fel (lásd a IV. Fejezet 7. Függelékét):
+
+## (1) HIV pozitivitás,
+
+## (2) immunrendszer zavara,
+
+## (3) fertőző májgyulladás,
+
+## (4) szifilisz.
+
+## 8. Nőgyógyászat és szülészet (JAR – FCL 3.315)
 
 ## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan funkcionális, illetve szervi jellegű nőgyógyászati elváltozás, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
 
 ## b) Súlyos, gyógykezelésre nem reagáló menstruációs panaszok esetén a vizsgált személy nem alkalmas.
 
-## c) A terhesség kizáró okot jelent. Amennyiben a nőgyógyászati vizsgálat során teljesen normál terhességet állapítottak meg, a vizsgált személy alkalmasnak minősíthető a 26. terhességi hétig [lásd: 12. (4) a) pont]. Szülés vagy terhesség megszakítása után a szakszolgálati engedélyesnek időszakos vagy megújító orvosi vizsgálatra/minősítésre kell jelentkezni.
+## c) A terhesség kizáró okot jelent. Amennyiben a nőgyógyászati vizsgálat során teljesen normál terhességet állapítottak meg, a vizsgált személy alkalmasnak minősíthető a 26. terhességi hétig, a IV. Fejezet 8. Függelék 1. pontja szerint. Szülés vagy terhesség megszakítása után az állapot teljes rendeződése esetén a szakszolgálati tevékenység újra kezdhető.
 
-## d) Kiterjedt nőgyógyászati műtét után a vizsgált személy legalább 3 hónapig nem alkalmas, illetve addig, amíg állapota teljesen nem rendeződik és teszi lehetővé a szakszolgálati feladatok biztonságos ellátását [lásd: 12. (4) b) pont].
+## d) Kiterjedt nőgyógyászati műtét után a vizsgált személy 3 hónapig nem alkalmas, illetve addig, amíg állapota teljesen nem rendeződik és teszi lehetővé a szakszolgálati feladatok biztonságos ellátását (lásd a IV. Fejezet 8. Függelék 2. pontját).
 
-## (3) A 3. Egészségügyi Osztály követelményei
-
-## a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan funkcionális, illetve szervi jellegű nőgyógyászati elváltozás, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
-
-## b) Súlyos, gyógykezelésre nem reagáló menstruációs panaszok esetén a vizsgált személy nem alkalmas.
-
-## c) A terhesség kizáró okot jelent. Amennyiben a nőgyógyászati vizsgálat során teljesen normál terhességet állapítottak meg, a vizsgált személy alkalmasnak minősíthető a 34. terhességi hétig [lásd: 12. (4) a) pont]. Szülés vagy terhesség megszakítása után a szakszolgálati engedélyesnek időszakos vagy megújító orvosi vizsgálatra/minősítésre kell jelentkezni.
-
-## d) Kiterjedt nőgyógyászati műtét után a vizsgált személy legalább 3 hónapig nem alkalmas, illetve addig, amíg állapota teljesen nem rendeződik és teszi lehetővé a szakszolgálati feladatok biztonságos ellátását [lásd: 12. (4) b) pont].
-
-## (4) Kiegészítő előírások a nőgyógyászati és szülészeti követelményekhez
-
-## a) Terhesség esetén a nőgyógyászati vélemény alapján az 1. és 2. Egészségügyi Osztályban a 26. hétig, a 3. Egészségügyi Osztályban a 34. hétig, az AMS mérlegelheti az alkalmas minősítést. Ilyen esetben az AMS írásban tájékoztatja a szakszolgálati engedélyest és a nőgyógyász kezelőorvost arról, hogy a szakszolgálati tevékenység milyen veszélyt jelenthet a terhességre. Az 1. Osztályú minősítés esetén a tevékenységet a többtagú személyzettel végzett repülésre kell korlátozni (Class 1. OML).
-
-## b) Nagyobb nőgyógyászati műtét után az alkalmasság a műtét után legkorábban 3 hónappal mérlegelhető. Az AMS korábban is mérlegelheti az alkalmasságot, amennyiben a szakszolgálati engedélyes teljesen tünet- és panaszmentes, és minimális az esély a szövődmények a kialakulására.
-
-## c) A nőgyógyászati malignus elváltozásokat a 23. Onkológiai követelmények is érintik, a minősítéskor az AMS által elfogadott onkológus szakvéleményét is be kell kérni.
-
-## 13. MOZGÁSSZERVI KÖVETELMÉNYEK
-
-## (1) Az 1. Egészségügyi Osztály követelményei
-
-## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a csontrendszer, ízületek, izmok vagy inak olyan veleszületett vagy szerzett betegsége, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
-
-## b) A vizsgált személy rendelkezik megfelelő ülő magassággal, kéz- és lábhosszal, izomerővel a szakszolgálati feladatok ellátásához [lásd: 13. (4) a) pontot].
-
-## c) A vizsgált személy mozgásszervi funkciói legyenek szabadok. A csontrendszer, ízületek, izmok vagy inak veleszületett elváltozásai vagy betegségek, sérülések utáni jelentős funkció beszűkülése esetén az AMS a minősítést a 13. (4) a), b) és c) pontjai szerint végzi.
-
-## (2) A 2. Egészségügyi Osztály követelményei
+## 9. Mozgásszervi követelmények (JAR – FCL 3.320)
 
 ## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a csontrendszer, ízületek, izmok vagy inak olyan veleszületett vagy szerzett betegsége, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
 
-## b) A vizsgált személy rendelkezik megfelelő ülő magassággal, kéz- és lábhosszal, izomerővel a szakszolgálati feladatok ellátásához [lásd: 13. (4) a) pontot].
+## b) A vizsgált személy rendelkezzék megfelelő ülő magassággal, kéz- és lábhosszal, izomerővel a szakszolgálati feladatok biztonságos ellátásához (lásd a IV. Fejezet 9. Függelék 1. pontját).
 
-## c) A vizsgált személy mozgásszervi funkciói legyenek szabadok. A csontrendszer, ízületek, izmok vagy inak veleszületett elváltozásai vagy betegségek, sérülések utáni jelentős funkció beszűkülése esetén az AMS a minősítést a 13. (4) a), b) és c) pontjai szerint végzi.
+## c) A vizsgált személy mozgásszervi funkciói legyenek szabadok. A csontrendszer, ízületek, izmok vagy inak veleszületett elváltozásai vagy betegségek, sérülések utáni jelentős funkció beszűkülés esetén a minősítést a IV. Fejezet 9. Függelék 1., 2. és 3. pontjával összhangban kell végezni.
 
-## (3) A 3. Egészségügyi Osztály követelményei
+## 10. Pszichiátriai követelmények (JAR – FCL 3.325)
 
-## a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a csontrendszer, ízületek, izmok vagy inak olyan veleszületett vagy szerzett betegsége, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél nem szerepelhet a kórelőzményben, vagy nem állhat fenn semmiféle öröklött vagy szerzett, akut vagy krónikus pszichiátriai betegség vagy rendellenesség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
 
-## b) A vizsgált személy rendelkezik megfelelő ülő magassággal, kéz- és lábhosszal, izomerővel a szakszolgálati feladatok ellátásához [lásd: 13. (4) a) pontot].
+## b) Különös figyelemmel kell lenni a következő kóresetekre (lásd a IV. Fejezet 10. Függelékét):
 
-## c) A vizsgált személy mozgásszervi funkciói legyenek szabadok. A csontrendszer, ízületek, izmok vagy inak veleszületett elváltozásai vagy betegségek, sérülések utáni jelentős funkció beszűkülése esetén az AMS a minősítést a 13. (4) a), b) és c) pontjai szerint végzi.
+## (1) schizofrénia, schizotípia vagy téves eszmékkel járó betegségek;
 
-## (4) Kiegészítő előírások a mozgásszervi követelményekhez
+## (2) hangulati élet zavara;
 
-## a) Kóros fizikai állapot minősítésekor, ideértve az elhízást vagy izomgyengeséget is, egészségügyi szempontból ellenőrző repülést, illetve szimulátor ellenőrzést kell végezni az AMS kezdeményezésével. Különös figyelemmel kell lenni a vészhelyzeti eljárásokra és a vészhelyzeti kiürítésekre. Szükség esetén minősítési korlátozások alkalmazhatók, pl. csak meghatározott légijárműre érvényes a minősítés, vagy Class 1. OML, illetve Class 2. OSL.
+## (3) neurotikus, stresszel kapcsolatos és szomatoform betegségek;
 
-## b) Végtaghiány esetén az 1. Egészségügyi Osztályban a minősítés meghosszabbítását, a 2. és 3. Egészségügyi Osztályban a minősítést mérlegelheti az AMS sikeres ellenőrző repülés vagy szimulátor ellenőrzés után.
+## (4) személyiség zavarok;
 
-## c) A mozgásszervek gyulladásos, infiltratív traumás vagy degeneratív elváltozásainak minősítését az AMS mérlegeli. Feltétel a folyamat remissziója, valamint, hogy a vizsgált személy ne szedjen olyan gyógyszert, mely nem egyeztethető össze a repülés biztonságával és sikeresen megfelelt az ellenőrző repülésen vagy a szimulátoros ellenőrzésen. Szükség esetén minősítési korlátozások alkalmazhatók, pl. csak meghatározott légijárműre érvényes a minősítés, vagy Class 1. OML, illetve Class 2. OSL.
+## (5) organikus mentális rendellenesség;
 
-## d) A mozgásszervi malignus elváltozásokat a 23. Onkológiai követelmények is érintik, a minősítéskor az AMS által elfogadott onkológus szakvéleményét is be kell kérni.
+## (6) alkohol okozta mentális- vagy magatartászavar;
 
-## 14. PSZICHIÁTRIAI KÖVETELMÉNYEK
+## (7) pszichotróp szerek használata vagy abúzusa.
 
-## (1) Az 1. Egészségügyi Osztály követelményei
+## 11. Neurológiai követelmények (JAR – FCL 3.330)
 
-## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél nem szerepelhet a kórelőzményben vagy nem állhat fenn semmiféle öröklött vagy szerzett, akut vagy krónikus pszichiátriai betegség vagy rendellenesség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn semmilyen funkcionális, illetve szervi jellegű neurológiai betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
 
-## b) Különös figyelemmel kell lenni a következő kóresetekre [lásd: 14. (4) pontot]:
+## b) Különös figyelemmel kell kísérni a következő klinikai eseteket (lásd a IV. Fejezet 11. Függelékét):
 
-## 1. pszichotikus tünetek,
+## (1) idegrendszer progresszív betegségei,
 
-## 2. hangulatzavar,
+## (2) epilepszia és az egyéb eredetű tudatzavarok,
 
-## 3. személyiségzavarok, különösen, ha a tünetek a környezet számára is nyilvánvalóak,
+## (3) cerebrális funkciózavarra fokozottan hajlamosító állapotok,
 
-## 4. mentális rendellenesség és neurotikus zavarok,
+## (4) traumás fejsérülés,
 
-## 5. alkoholizmus,
+## (5) gerincvelő vagy a perifériás idegrendszer sérülése.
 
-## 6. pszichotróp szerek vagy drogok használata/abúzusa függőséggel vagy anélkül.
+## 12. Szemészeti követelmények (JAR – FCL 3.335)
 
-## (2) A 2. Egészségügyi Osztály követelményei
+## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a szem, illetve a szem védőszerveinek veleszületett vagy szerzett, akut vagy krónikus funkciózavara, illetve műtét/baleset utáni állapota, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
 
-## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél nem szerepelhet a kórelőzményben vagy nem állhat fenn semmiféle öröklött vagy szerzett, akut vagy krónikus pszichiátriai betegség vagy rendellenesség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+## b) Szemészeti vizsgálatot szükséges végezni az első vizsgálat alkalmával a szolgálat által elfogadott szakorvosnál (minden kóros vagy kétes esetet a szolgálat által elfogadott szemész szakorvos véleményezze) [lásd a IV. Fejezet 12. Függelék 1. (b) pontját], mely a következőkből áll:
 
-## b) Különös figyelemmel kell lenni a következő kóresetekre [lásd: 14. (4) pontot]:
+## (1) kórelőzmény;
 
-## 1. pszichotikus tünetek,
+## (2) látóélesség közelre, közbenső távolságra és távolra: korrekció nélkül; a legjobb optikai korrekcióval, ha szükséges;
 
-## 2. hangulatzavar,
+## (3) szemmozgások és kétszemes látás;
 
-## 3. személyiségzavarok, különösen, ha a tünetek a környezet számára is nyilvánvalóak,
+## (4) színlátás;
 
-## 4. mentális rendellenesség és neurotikus zavarok,
+## (5) látótér;
 
-## 5. alkoholizmus,
+## (6) a szem külső vizsgálata, anatómiai viszonyok, törőközegek és szemfenék vizsgálat.
 
-## 6. pszichotróp szerek vagy drogok használata/abúzusa függőséggel vagy anélkül.
+## c) A szem rutinvizsgálatát a repülőorvos is végezheti. Minden megújító és meghosszabbító vizsgálat alkalmával el kell végezni [lásd a IV. Fejezet 12. Függelék 2. pontját] a következőket:
 
-## (3) A 3. Egészségügyi Osztály követelményei
+## (1) kórelőzmény;
 
-## a) A 3. Osztályú orvosi minősítésre először jelentkezőnél nem szerepelhet a kórelőzményben vagy nem állhat fenn semmiféle öröklött vagy szerzett, akut vagy krónikus pszichiátriai betegség vagy rendellenesség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+## (2) látóélesség közelre, közbenső távolságra és távolra: korrekció nélkül; a legjobb optikai korrekcióval, ha szükséges;
 
-## b) Különös figyelemmel kell lenni a következő kóresetekre [lásd: 14. (4) pontot]:
+## (3) a szem külső vizsgálata, anatómiai viszonyok, törőközegek és szemfenék vizsgálat;
 
-## 1. pszichotikus tünetek,
+## (4) klinikai indikáció alapján további vizsgálatok (lásd a IV. Fejezet 12. Függelék 4. pontját).
 
-## 2. hangulatzavar,
+## 13. A látóélesség követelményei (JAR – FCL 3.340)
 
-## 3. személyiségzavarok, különösen, ha a tünetek a környezet számára is nyilvánvalóak,
+## a) Távoli látóélesség. A távoli látóélesség mindkét szemen külön-külön, legalább 6/12 (0.5) legyen, korrekcióval vagy anélkül, és a két szemes látóélesség legalább 6/6 (1.0) legyen [lásd a JAR-FCL 3.340 (f) pontot]. A korrekció nélküli látóélességre nincs küszöbérték.
 
-## 4. mentális rendellenesség és neurotikus zavarok,
+## b) Fénytörés. A fénytörési hiba azon dioptriában kifejezett érték, mely jelzi az emmetrópiától való eltérést a legnagyobb ametróp meridiánon. A fénytörést az általánosan elfogadott módszerrel kell mérni (lásd a IV. Fejezet 13. Függelék 1. pontját). A vizsgált személy, a fénytörési hibát tekintve, a következő követelmények teljesülése esetén alkalmas:
 
-## 5. alkoholizmus,
+## (1) Fénytörési hiba
 
-## 6. pszichotróp szerek vagy drogok használata/abúzusa függőséggel vagy anélkül.
+## (i) Az első vizsgálat alkalmával a fénytörési hiba nem lehet nagyobb mint +5 és –8 dioptria [lásd a IV. Fejezet 13. Függelék 2. (c) pontját].
 
-## (4) Kiegészítő előírások a pszichiátriai követelményekhez
+## (ii) Az orvosi minősítést meghosszabbító/megújító vizsgálatok alkalmával, amennyiben a vizsgált személy a hatóság előtt sikeresen bizonyította jártasságát, akkor a szolgálat mérlegelheti az alkalmasságot, ha a fénytörési hiba nem haladja meg a +5 és –8 dioptria közötti értéket [lásd a IV. Fejezet 13. Függelék 2. (c) pontját].
 
-## a) Pszichotikus tünetekkel járó klinikai kép kizáró okot jelent. A kórelőzményben szereplő pszichotikus állapot esetén az AMS akkor mérlegelheti a minősítést, a hatóságilag elfogadott pszichiáter szakvéleménye alapján, ha a korábbi diagnózis pontatlan volt, vagy revízióra került, vagy csak egyszeri toxikus epizód volt és a beteg tudati állapota tartósan rendezett.
+## (iii) Nagy mértékű refrakciós hiba esetén a vizsgált személy használjon kontakt vagy könnyített és elvékonyított lencsét.
 
-## b) A klinikailag igazolt neurotikus szintű zavar kizáró okot jelent. Az állapot teljes rendeződése után az AMS mérlegelheti a minősítést, a hatóságilag elfogadott pszichiátriai vélemény alapján, amennyiben mindenfajta pszichotróp gyógyszeres kezelést legalább 3 hónappal korábban elhagytak.
+## (2) Astigmia
 
-## c) Egyetlen autoagresszív esemény vagy a környezet számára nyilvánvaló viselkedési zavar ismétlődése kizáró okot jelent. Az állapot teljes rendeződése után az AMS mérlegelheti az orvosi minősítést, a hatóságilag elfogadott pszichiáter és pszichológus véleménye alapján.
+## (i) Az első vizsgálat alkalmával az astigmia mértéke nem haladhatja meg a 3.0 dioptriát.
 
-## d) Az alkohol, pszichotróp vagy más drogok abúzusa, függőséggel vagy anélkül kizáró okot jelent.
+## (ii) Az orvosi minősítést meghosszabbító/megújító vizsgálatok alkalmával, amennyiben a vizsgált személy a hatóság előtt sikeresen bizonyította jártasságát, akkor a szolgálat mérlegelheti az alkalmasságot, ha az astigmia mértéke meghaladja a 3.0 dioptriát.
 
-## 1. 2 év dokumentált absztinencia vagy drogmentesség után az AMS, a hatóságilag elfogadott addiktológus és pszichiáter véleménye alapján, mérlegelheti a korlátozás nélküli minősítést az összes egészségügyi osztályban.
+## (3) A keratokónusz kizáró ok. A szolgálat mérlegelheti az alkalmas minősítést, ha a vizsgált személy eleget tesz a látóélesség követelményeinek (lásd a IV. Fejezet 13. Függelék 3. pont).
 
-## 2. A minősítés meghosszabbítását az 1. és 2. Egészségügyi Osztályban korlátozással (OML, OSL), a 3. Egészségügyi Osztályban korlátozás nélkül korábban is mérlegelheti az AMS a következők szerint:
+## (4) Tompalátás esetén, a tompalátó szemen legalább 6/18 (0.32) látóélesség szükséges. A vizsgált személy akkor minősíthető alkalmasnak, ha a másik szemen a látóélesség, korrekcióval vagy anélkül, legalább 6/6 (1.0) és nincs kimutatható kóros elváltozás.
 
-## (i) minimum 4 hetes intézeti kezelés történt,
+## (5) Anisometropia
 
-## (ii) hatóságilag elfogadott pszichiáter véleményezte,
+## (i) Az első vizsgálat alkalmával a két szem közötti refrakciós hiba (anisometropia) nem haladhatja meg a 3.0 dioptriát.
 
-## (iii) a következő 3 év során biztosítható a folyama tos ellenőrzés, rendszeres vérvizsgálat és a szakmai vezetés rendszeres értékelése.
+## (ii) Az orvosi minősítést meghosszabbító/megújító vizsgálatok alkalmával, amennyiben a vizsgált személy a hatóság előtt sikeresen bizonyította jártasságát, akkor a szolgálat mérlegelheti az alkalmasságot, ha a két szem közötti refrakciós hiba mértéke meghaladja a 3.0 dioptriát. Kontaktlencse viselése kötelező, ha a két szem közötti refrakciós hiba meghaladja a 3.0 dioptriát.
 
-## e) A kedvező klinikai leletek és szakmai vélemények alapján az AMS mérlegelheti a korlátozás (OML, OSL) feloldását.
+## (6) A presbiópia változását minden repülőorvosi vizsgálat alkalmával ellenőrizni kell.
 
-## 15. NEUROLÓGIAI KÖVETELMÉNYEK
+## (7) A vizsgált személynek szemüveggel vagy anélkül olvasnia kell tudni 30–50 cm-ről az N5 (vagy annak megfelelő), illetve az N14 (vagy annak megfelelő) méretű írásjeleket 100 cm távolságról, ha szükséges korrekciós üveggel [lásd a JAR-FCL 3.340 (f) pontot].
 
-## (1) Az 1. Egészségügyi Osztály követelményei
-
-## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan funkcionális, illetve szervi jellegű neurológiai betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
-
-## b) Különös figyelemmel kell kísérni a következő klinikai eseteket [lásd: 15. (4) pontot]:
-
-## 1. idegrendszer progresszív betegségei,
-
-## 2. epilepszia és az egyéb eredetű tudatzavarok,
-
-## 3. cerebrális funkciózavarra hajlamosító állapotok,
-
-## 4. koponya traumás sérülése,
-
-## 5. gerincvelő vagy a perifériás idegrendszer sérülése.
-
-## c) Elektroenkephalográfiát kell végezni az első vizsgálat alkalmával, a későbbiek során pedig akkor, ha az a beteg kórelőzménye vagy klinikai állapota indokolja.
-
-## (2) A 2. Egészségügyi Osztály követelményei
-
-## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan funkcionális, illetve szervi jellegű neurológiai betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
-
-## b) Különös figyelemmel kell kísérni a következő klinikai eseteket [lásd: 15. (4) pontot]:
-
-## 1. idegrendszer progresszív betegségei,
-
-## 2. epilepszia és az egyéb eredetű tudatzavarok,
-
-## 3. cerebrális funkciózavarra hajlamosító állapotok,
-
-## 4. koponya traumás sérülése,
-
-## 5. gerincvelő vagy a perifériás idegrendszer sérülése.
-
-## (3) A 3. Egészségügyi Osztály követelményei
-
-## a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan funkcionális, illetve szervi jellegű neurológiai betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
-
-## b) Különös figyelemmel kell kísérni a következő klinikai eseteket [lásd: 15. (4) pontot]:
-
-## 1. idegrendszer progresszív betegségei,
-
-## 2. epilepszia és az egyéb eredetű tudatzavarok,
-
-## 3. cerebrális funkciózavarra hajlamosító állapotok,
-
-## 4. koponya traumás sérülése,
-
-## 5. gerincvelő vagy a perifériás idegrendszer sérülése.
-
-## c) Elektroenkephalográfiát kell végezni az első vizsgálat alkalmával, a későbbiek során pedig akkor, ha az a beteg kórelőzménye vagy klinikai állapota indokolja.
-
-## (4) Kiegészítő előírások a neurológiai követelményekhez
-
-## a) Kizáró okot jelent az idegrendszer minden krónikus vagy progresszív jellegű jelentős funkciózavara. Az AMS mérlegelheti az egyéni elbírálást azokban a kisfokú elváltozással járó krónikus esetekben, amikor a részletes kivizsgálás után az AMS által elfogadott neurológus véleménye szerint az állapot klinikailag stabilnak tekinthető.
-
-## b) Az epilepszia diagnózisa kizáró okot jelent. Kivételt jelentenek a gyermekkori benignus epilepsziák, melyeknek igen alacsony a felnőttkori ismételt jelentkezése és a vizsgált személy legalább 10 éve roham- és gyógyszermentes. Egy vagy több epilepsziás roham az 5. életév után kizáró okot jelent. Az egyszeri szimptómás görcsroham után, amennyiben az AMS által elfogadott neurológus szerint az ismétlődés esélye minimális, az AMS mérlegelheti az alkalmas minősítést korlátozással (Class 1. OML, Class 2. OSL) vagy anélkül.
-
-## c) Az elektroenkephalográfia során észlelt paroxizmális epileptiform jelek, illetve a fokális lassú hullámok kizáró okot jelentenek. Az EEG-n észlelt egyszeri paroxizmális epizód esetén mérlegelhető az alkalmas minősítés, amennyiben a teljes körű neurológiai kivizsgálás esetén, az AMS által elfogadott neurológus véleménye szerint nem áll kóros elváltozás a háttérben.
-
-## d) Az egyszeri vagy ismételten jelentkező, tisztázatlan eredetű tudatzavar kizáró okot jelent. Az egyszeri ájulásos epizód után az AMS mérlegelheti az alkalmas minősítést, amennyiben az AMS által elfogadott neurológus szerint az ok kellően tisztázott és ismétlődésének esélye alacsony. Az ismételten jelentkező ájulásos rosszullétek kizáró okot jelentenek.
-
-## e) Az egyszeri, nem lázas eredetű epilepsziás roham után az AMS mérlegelheti az alkalmas minősítést, amennyiben az AMS által elfogadott neurológus véleménye szerint a vizsgált személy legalább 10 éve roham- és gyógyszermentes, nincs kimutatható prediszponáló tényező és a roham ismétlődésének esélye kisebb, mint 1%. Az 1. Egészségügyi Osztályú minősítésnél az ,,OML'' korlátozást kell alkalmazni.
-
-## f) Az eszméletvesztéssel, illetve penetráló koponyasérülésekkel járó eseteket minden alkalommal az AMS minősíti, az AMS által elfogadott neurológus véleménye alapján. A minősítés a teljes gyógyulás után mérlegelhető, amikor a konvulzív roham egy éven belüli ismétlődésének esélye kisebb, mint 1%.
-
-## g) A gerincvelő és a perifériás idegrendszer sérülése vagy betegsége esetén a minősítéskor figyelembe kell venni a Mozgásszervi követelményeket (13.) is.
-
-## h) Az idegrendszer malignus folyamatainak minősítésekor figyelembe kell venni az AMS által elfogadott neurológus és onkológus véleménye alapján az Onkológiai követelményeket (23.) is. Az intrakraniális malignus folyamatok kivétel nélkül kizáró okot jelentenek.
-
-## 16. SZEMÉSZETI KÖVETELMÉNYEK
-
-## (1) Az 1. Egészségügyi Osztály követelményei
-
-## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a szem, szemizmok, illetve a szem védőszerveinek veleszületett vagy szerzett, akut vagy krónikus funkciózavara, illetve műtét/baleset utáni állapota, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását [lásd: 16. (4) a) pont].
-
-## b) Teljes körű szemészeti vizsgálatot szükséges végezni az első vizsgálat alkalmával [lásd: 16. (4) b) pont].
-
-## c) A szemészeti rutinvizsgálatot el kell végezni minden orvosi minősítés megújító/meghosszabbító vizsgálat alkalmával [lásd: 16. (4) c) pont].
-
-## d) Teljes körű szemészeti vizsgálatot szükséges végezni [lásd: 16. (4) d) pont] az orvosi minősítést megújító/meghosszabbító vizsgálatok következő időpontjaiban:
-
-## 1. minden 5. évben a 40. születésnapig,
-
-## 2. minden 2. évben a 40. születésnap után.
-
-## (2) A 2. Egészségügyi Osztály követelményei
-
-## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a szem, szemizmok, illetve a szem védőszerveinek veleszületett vagy szerzett, akut vagy krónikus funkciózavara, illetve műtét/baleset utáni állapota, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását [lásd: 16. (4) a) pont].
-
-## b) Teljes körű szemészeti vizsgálatot szükséges végezni az első vizsgálat alkalmával, ha azt az AME indokoltnak tartja [lásd: 16. (4) b) pont].
-
-## c) A szemészeti rutinvizsgálatot el kell végezni minden orvosi minősítés megújító/meghosszabbító vizsgálat alkalmával [lásd: 16. (4) c) pont].
-
-## (3) A 3. Egészségügyi Osztály követelményei
-
-## a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a szem, szemizmok, illetve a szem védőszerveinek veleszületett vagy szerzett, akut vagy krónikus funkciózavara, illetve műtét/baleset utáni állapota, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását [lásd: 16. (4) a) pont].
-
-## b) Teljes körű szemészeti vizsgálatot szükséges végezni az első vizsgálat alkalmával [lásd: 16. (4) b) pont].
-
-## c) A szemészeti rutinvizsgálatot el kell végezni minden orvosi minősítés megújító/meghosszabbító vizsgálat alkalmával [lásd: 16. (4) c) pont].
-
-## d) Teljes körű szemészeti vizsgálatot szükséges végezni [lásd: 16. (4) d) pont] az orvosi minősítést megújító/meghosszabbító vizsgálatok következő időpontjaiban:
-
-## 1. minden 4. évben a 40. születésnapig,
-
-## 2. minden 2. évben a 40. születésnap után.
-
-## (4) Kiegészítő előírások a szemészeti követelményekhez
-
-## a) A látóélesség javító műtét kizáró okot jelent. Az orvosi minősítés meghosszabbítását az 1. és a 3. Egészségügyi Osztályban, illetve az első minősítés kiadását a 2. Egészségügyi Osztályban, 12 hónappal a beavatkozás után mérlegelheti az AMS, amennyiben:
-
-## 1. a műtét előtti refrakciós hiba a 17. (1) b), 17. (2) b) és 17. (3) b) pontokban megadott értékeken belül volt,
-
-## 2. megfelelően stabil fénytörőképességet sikerült elérni (a napi ingadozás 0.75 dioptrián belül van), és
-
-## 3. nem fokozódott a kontraszt szenzitivitás.
-
-## b) A teljes körű szemészeti vizsgálat rendje:
-
-## 1. az 1. és 3. Egészségügyi Osztályú minősítés első kiadásakor, a hatóság által elfogadott szemész által vagy irányítása mellett teljes körű szemészeti vizsgálatot kell végezni;
-
-## 2. a 2. Egészségügyi Osztályú minősítés kiadásakor, amennyiben a látóélesség korrekciója szükséges, dokumentálni kell az aktuálisan előírt szemüveg/kontaktlencse adatait.
-
-## c) Minden orvosi minősítést megújító/meghosszabbító vizsgálat alkalmával ellenőrizni kell a látási funkciókat és ki kell zárni az esetleges kóros elváltozásokat. Minden kóros vagy kétséges esetet a hatóság által elfogadott szemész véleményezzen.
-
-## d) A teljes körű szemészeti vizsgálatok ismétlésének időpontjait a 16. (1) d) és a 16. (3) d) pontjai írják elő, és azokat a hatóság által elfogadott szemész által vagy irányítása mellett kell végezni.
-
-## e) A szem malignus folyamatainak minősítésekor figyelembe kell venni az AMS által elfogadott szemész és onkológus véleménye alapján az Onkológiai követelményeket (23.) is. A malignus folyamatok kivétel nélkül kizáró okot jelentenek.
-
-## 17. A LÁTÓÉLESSÉG KÖVETELMÉNYEI
-
-## (1) Az 1. Egészségügyi Osztály követelményei
-
-## a) Távoli látóélesség: A távoli látóélesség mindkét szemen külön-külön, legalább 6/9 (0.7) legyen, korrekcióval vagy anélkül, és a két szemes látóélesség legalább 6/6 (1.0) legyen [lásd: 17. (1) h) pont]. A korrekció nélküli látóélességre nincs küszöbérték.
-
-## b) Fénytörés: A fénytörési hiba a dioptriában kifejezett érték, mely jelzi az emmetrópiától való eltérést a legnagyobb ametróp meridiánon. A fénytörést az általánosan elfogadott módszerrel kell mérni [lásd: 17. (4) a) pont]. A vizsgált személy, a fénytörési hibát tekintve, a következő követelmények teljesülése esetén alkalmas:
-
-## 1. Az első vizsgálat alkalmával a fénytörési hiba nem lehet nagyobb mint ±3 dioptria.
-
-## 2. Az orvosi minősítést megújító/meghosszabbító vizsgálatok alkalmával, amennyiben a vizsgált személy repülési szakmai szempontból sikeres vizsgákat tett, az AMS mérlegelheti az alkalmasságot +5/–8 D fénytörési hiba esetén [lásd: 17. (4) b) 1. pont].
-
-## 3. Astigmia esetén, annak értéke nem haladhatja meg a 2.0 dioptriát.
-
-## 4. A két szem közötti refrakciós hiba (anisometropia) nem haladhatja meg a 2.0 dioptriát.
-
-## 5. A presbiópia változását minden repülőorvosi vizsgálat alkalmával ellenőrizni kell.
-
-## 6. A vizsgált személynek szemüveggel vagy anélkül olvasni kell tudni 30–50 cm-ről az N5 (vagy annak megfelelő) méretű írásjeleket, az N14 (vagy annak megfelelő) méretű írásjeleket 100 cm távolságról [lásd: 17. (1) h) pont].
-
-## c) A kétszemes látás jelentős zavara esetén a vizsgált személy nem alkalmas. A térlátás vizsgálata nem kötelező [lásd: 17. (4) c) pont].
+## c) A kétszemes látás jelentős zavara esetén a vizsgált személy nem alkalmas (lásd a IV. Fejezet 13. Függelék 4. pontját).
 
 ## d) Kettőslátás esetén a vizsgált személy nem alkalmas.
 
-## e) A normálistól eltérő konvergencia kizáró ok [lásd: 17. (4) d) pont].
+## e) Kóros látótér esetén a vizsgált személy nem alkalmas (lásd a IV. Fejezet 13. Függelék 4. pontját).
 
-## f) A szemizmok együttműködési zavara esetén (heterophoria) a vizsgált személy nem alkalmas, amennyiben a foria mértéke meghaladja a következő értékeket:
+## f) (1) Amennyiben a megfelelő látóélesség csak korrekcióval érhető el, a szemüvegnek/kontaktlencsének optimális látóélességet kell biztosítania, jól viselhetőnek és alkalmasnak kell lennie a szakszolgálati feladatok ellátására. Kizárólag monofokális és a távollátást javító kontaktlencse viselhető. Orthokeratologiai lencsék nem használhatók.
 
-## 1. 1.0 dioptria hiperforia/6 m-en vizsgálva,
+## (2) A korrekciós lencsének minden távolságra megfelelő látóélességet kell biztosítania. Egy szemüveg használatával teljesíteni kell tudni mindhárom távolság látóélesség követelményeit.
 
-## 2. 6.0 dioptria esoforia/6 m-en vizsgálva,
+## (3) Repülési célra csak monofokális és nem színezett kontaktlencse használható.
 
-## 3. 8.0 dioptria exoforia/6 m-en vizsgálva,
+## (4) A megfelelő tartalék szemüveg készenlétben tartása szükséges a szakszolgálati feladatok végzése során.
 
-## 4. 1.0 dioptria hiperforia/33 cm-en vizsgálva,
+## g) Szemészeti műtétek
 
-## 5. 6.0 dioptria esoforia/33 cm-en vizsgálva,
+## (1) A látóélességet javító műtét kizáró okot jelent. Az alkalmas minősítést a szolgálat mérlegelheti (lásd a IV. Fejezet 13. Függelék 6. pontját).
 
-## 6. 12.0 dioptria exoforia/33 cm-en vizsgálva.
+## (2) A katarakta műtét, retina sebészi kezelése és a glaukóma miatti műtét kizáró okot jelent. A minősítés meghosszabbításakor/megújításakor a szolgálat mérlegelheti az alkalmas minősítést (lásd a IV. Fejezet 13. Függelék 7. pontját).
 
-## Kivételt képeznek azok az esetek, amikor a fúziós készség megakadályozza az asztenopiát és kettőslátást.
+## 14. A Színlátás követelményei (JAR – FCL 3.345)
 
-## g) Beszűkült látótér esetén a vizsgált személy nem alkalmas [lásd: 18. (4) c) pont].
+## a) Az ép színlátás feltétele, hogy a vizsgált személy hibátlanul olvassa az Ishihara táblákat, vagy igazolható legyen Nagel-féle anomaloszkóppal a normál trikromázia (lásd a IV. Fejezet 14. Függelék 1. pontját).
 
-## h) A látóélesség korrekciója
+## b) A vizsgált személynek legyen ép a színlátása vagy legyen színbiztos. Az első vizsgálat alkalmával el kell végezni az Ishihara tesztet. Amennyiben a vizsgált személy téveszt az Ishihara táblák olvasásakor, akkor mondható színbiztosnak, ha megfelel a szolgálat által elfogadott részletes színfelismerési teszteknek (anomaloszkópia vagy standardizált színes lámpa tesztek) (lásd a IV. Fejezet 14. Függelék 2. pontját). Meghosszabbító vagy megújító vizsgálat alkalmával a színlátást csak klinikai indikáció alapján kell vizsgálni.
 
-## 1. Amennyiben a megfelelő látóélesség csak korrekcióval érhető el, a szemüvegnek/kontaktlencsének optimális látóélességet kell biztosítania és alkalmasnak kell lennie a szakszolgálati feladatok ellátására.
+## c) Az a vizsgált személy, aki az elfogadott színfelismerési tesztek során nem bizonyul színbiztosnak, nem alkalmas.
 
-## 2. A korrekciós lencsének minden távolságra megfelelő látóélességet kell biztosítania. Egy szemüveg használatával teljesíteni kell tudni mindhárom távolság látóélesség követelményeit.
+## d) A nem színbiztos vizsgált személy csak nappali repülésre minősíthető alkalmasnak.
 
-## 3. A 2. pont követelményeinek megfelelő tartalék szemüveg készenlétben tartása szükséges a szakszolgálati feladatok végzése során.
-
-## (2) A 2. Egészségügyi Osztály követelményei
-
-## a) Távoli látóélesség: A távoli látóélesség mindkét szemen külön-külön, legalább 6/12 (0.5) legyen, korrekcióval vagy anélkül, és a kétszemes látóélesség legalább 6/6 (1.0) legyen [lásd: 17. (2) f) pont]. A korrekció nélküli látóélességre nincs küszöbérték.
-
-## b) Fénytörés: A fénytörési hiba az a dioptriában kifejezett érték, mely jelzi az emmetrópiától való eltérést a legnagyobb ametróp meridiánon. A fénytörést az általánosan elfogadott módszerrel kell mérni [lásd: 17. (4) a) pont]. A vizsgált személy a fénytörési hibát tekintve, a következő követelmények teljesülése esetén alkalmas:
-
-## 1. Az első vizsgálat alkalmával a fénytörési hiba nem lehet nagyobb mint ±5 dioptria.
-
-## 2. Az orvosi minősítést megújító/meghosszabbító vizsgálatok alkalmával, amennyiben a vizsgált személy repülési szakmai szempontból sikeres vizsgákat tett, az AMS mérlegelheti az alkalmasságot +5/–8 D fénytörési hiba esetén [lásd: 17. (4) b) 2. pont].
-
-## 3. Tompalátás esetén, a tompalátó szemen legalább 6/18 (0.33) látóélesség szükséges, és csak akkor mérlegelhető az alkalmasság, ha a másik látóélesség legalább 6/6 (1.0).
-
-## 4. Astigmia esetén annak értéke nem haladhatja meg a 3.0 dioptriát.
-
-## 5. A két szem közötti refrakciós hiba (anisometropia) nem haladhatja meg a 3.0 dioptriát.
-
-## 6. A presbiopia változását minden repülőorvosi vizsgálat alkalmával ellenőrizni kell.
-
-## 7. A vizsgált személynek szemüveggel vagy anélkül olvasni kell tudni 30–50 cm-ről az N5 (vagy annak megfelelő) írásjeleket és 100 cm-ről az N14 (vagy annak megfelelő) méretű írásjeleket [lásd: 17. (2) f) pont].
-
-## c) A kétszemes látás jelentős zavara esetén a vizsgált személy nem alkalmas. A térlátás vizsgálat nem kötelező [lásd: 17. (4) c) pont].
-
-## d) Kettőslátás esetén a vizsgált személy nem alkalmas.
-
-## e) A normálistól eltérő látótér esetén a vizsgált személy nem alkalmas [lásd: 17. (4) c) pont].
-
-## f) A látóélesség korrekciója:
-
-## 1. Amennyiben a megfelelő látóélesség csak korrekcióval érhető el, a szemüvegnek/kontaktlencsének optimális látóélességet kell biztosítania, és alkalmasnak kell lennie a szakszolgálati feladatok ellátására.
-
-## 2. A korrekciós lencsének minden távolságra megfelelő látóélességet kell biztosítania. Egy szemüveg használatával teljesíteni kell tudni mindhárom távolság látóélesség követelményeit.
-
-## 3. A 2. pont követelményeinek megfelelő tartalék szemüveg készenlétben tartása szükséges a szakszolgálati feladatok végzése során.
-
-## (3) A 3. Egészségügyi Osztály követelményei
-
-## a) Távoli látóélesség: A távoli látóélesség mindkét szemen külön-külön, legalább 6/9 (0.7) legyen, korrekcióval vagy anélkül, és a két szemes látóélesség legalább 6/6 (1.0) legyen [lásd: 17. (3) h) pont]. A korrekció nélküli látóélességre nincs küszöbérték.
-
-## b) Fénytörés: A fénytörési hiba a dioptriában kifejezett érték, mely jelzi az emmetrópiától való eltérést a legnagyobb ametróp meridiánon. A fénytörést az általánosan elfogadott módszerrel kell mérni [lásd: 17. (4) a) pont]. A vizsgált személy, a fénytörési hibát tekintve, a következő követelmények teljesülése esetén alkalmas.
-
-## 1. Az első vizsgálat alkalmával a fénytörési hiba nem lehet nagyobb mint ±3 dioptria.
-
-## 2. Az orvosi minősítést megújító/meghosszabbító vizsgálatok alkalmával, amennyiben a vizsgált személy repülési szakmai szempontból sikeres vizsgákat tett, az AMS mérlegelheti az alkalmasságot +5/–8 D fénytörési hiba esetén [lásd: 17. (4) b) 1. pont].
-
-## 3. Astigmia esetén, annak értéke nem haladhatja meg a 2.0 dioptriát.
-
-## 4. A két szem közötti refrakciós hiba (anisometropia) nem haladhatja meg a 2.0 dioptriát.
-
-## 5. A presbiópia változását minden repülőorvosi vizsgálat alkalmával ellenőrizni kell.
-
-## 6. A vizsgált személynek szemüveggel vagy anélkül olvasni kell tudni 30–50 cm-ről az N5 (vagy annak megfelelő) méretű írásjeleket, az N14 (vagy annak megfelelő) méretű írásjeleket 100 cm távolságról [lásd: 17. (3) h) pont].
-
-## c) A kétszemes látás jelentős zavara esetén a vizsgált személy nem alkalmas. A térlátás vizsgálata nem kötelező [lásd: 17. (4) c) pont].
-
-## d) Kettőslátás esetén a vizsgált személy nem alkalmas.
-
-## e) A normálistól eltérő konvergencia kizáró ok [lásd: 17. (4) d) pont].
-
-## f) A szemizmok együttműködési zavara esetén (heterophoria) a vizsgált személy nem alkalmas, amennyiben a fória mértéke meghaladja a következő értékeket:
-
-## 1. 1.0 dioptria hiperforia/6 m-en vizsgálva,
-
-## 2. 6.0 dioptria esoforia/6 m-en vizsgálva,
-
-## 3. 8.0 dioptria exoforia/6 m-en vizsgálva,
-
-## 4. 1.0 dioptria hiperforia/33 cm-en vizsgálva,
-
-## 5. 6.0 dioptria esoforia/33 cm-en vizsgálva,
-
-## 6. 12.0 dioptria exoforia/33 cm-en vizsgálva.
-
-## Kivételt képeznek azok az esetek, amikor a fúziós készség megakadályozza az asztenopiát és kettőslátást.
-
-## g) Beszűkült látótér esetén a vizsgált személy nem alkalmas [lásd: 17. (4) c) pont].
-
-## h) A látóélesség korrekciója:
-
-## 1. Amennyiben a megfelelő látóélesség csak korrekcióval érhető el, a szemüvegnek/kontaktlencsének optimális látóélességet kell biztosítania és alkalmasnak kell lennie a szakszolgálati feladatok ellátására.
-
-## 2. A korrekciós lencsének minden távolságra megfelelő látóélességet kell biztosítania. Egy szemüveg használatával teljesíteni kell tudni mindhárom távolság látóélesség követelményeit.
-
-## 3. A 2. pont követelményeinek megfelelő tartalék szemüveg készenlétben tartása szükséges a szakszolgálati feladatok végzése során.
-
-## (4) Kiegészítő előírások a látóélesség követelményeihez
-
-## a) A szem fénytörési értéke a minősítés alapjául szolgál.
-
-## b) Az egyéni elbírálás szempontjai:
-
-## 1. Az 1. és 3. Egészségügyi Osztályban az AMS akkor mérlegelheti maximum +5/–8 dioptrián belül az alkalmasságot, ha
-
-## (i) kizárható a szem kóros elváltozása,
-
-## (ii) 17 éves kor után legalább 4 éven át stabil a fénytörési hiba,
-
-## (iii) a megengedett dioptria határon belül elérhető az optimális látóélesség,
-
-## (iv) a légügyi hatósági ellenőrzés során szakmai szempontból megfelelő teljesítményt ért el a vizsgált személy.
-
-## 2. A 2. Egészségügyi Osztályban az AMS akkor mérlegelheti maximum +5/–8 dioptrián belül az alkalmasságot, ha
-
-## (i) kizárható a szem kóros elváltozása,
-
-## (ii) 17 éves kor után legalább 4 éven át stabil a fénytörési hiba,
-
-## (iii) a megengedett dioptria határon belül elérhető az optimális látóélesség.
-
-## c) Az egyéni elbírálás az egyszemes látás esetén:
-
-## 1. Az egyszemes látás kizáró ok az 1. és 3. Egészségügyi Osztályban. A 2. Egészségügyi Osztályban az AMS mérlegelheti az orvosi minősítés megújítását/meghosszabbítását, amennyiben a hatóság által elfogadott szemész véleménye alapján a fennálló szemészeti állapot lehetővé teszi a szakszolgálati feladatok biztonságos ellátását és ezt a hatósági repülési ellenőrzés is alátámasztja.
-
-## 2. Az 1. és 3. Egészségügyi Osztályban az AMS mérlegelheti az orvosi minősítés megújítását/meghosszabbítását az egyik szem látóélességének határérték alá csökkenése esetén [lásd: 17. (1) és 17. (3) pontjai], feltéve, ha a hatóság által elfogadott szemész véleménye alapján, ép a kétszemes látótér, a fennálló szemészeti állapot lehetővé teszi a szakszolgálati feladatok biztonságos ellátását és ezt a hatósági repülési ellenőrzés is alátámasztja. Az 1. Egészségügyi Osztályban a minősítést kizárólag korlátozással (OML) lehet kiadni.
-
-## 3. A 2. Egészségügyi Osztályban az AMS mérlegelheti az orvosi minősítés megújítását/meghosszabbítását az egyik szem látóélességének határérték alá csökkenése esetén [lásd: 17. (2) pont], feltéve – ha a hatóság által elfogadott szemész véleménye alapján – ép a kétszemes látótér, a fennálló szemészeti állapot lehetővé teszi a szakszolgálati feladatok biztonságos ellátását és ezt szükség esetén a hatósági repülési ellenőrzés is alátámasztja.
-
-## d) A konvergencia normál határon kívüli értékei esetén az AMS mérlegelheti a minősítést, amennyiben az nem befolyásolja a közeli (30–50 cm) és közti távolság (100 cm) látóélességét.
-
-## 18. A SZÍNLÁTÁS KÖVETELMÉNYEI
-
-## (1) Az 1. Egészségügyi Osztály követelményei
-
-## a) Az ép színlátás feltétele, hogy a vizsgált személy hibátlanul olvassa az Ishihara táblákat, vagy igazolható legyen Nagel-féle anomaloszkóppal a normál trikromázia [lásd: 18. (4) a) pont].
-
-## b) A vizsgált személynek legyen ép a színlátása vagy legyen színbiztos. Amennyiben a vizsgált személy téveszt az Ishihara táblák olvasásakor, akkor mondható színbiztosnak, ha megfelel az AMS által elfogadott részletes színfelismerési teszteknek (anomaloszkópia vagy standardizált színes lámpa tesztek) [lásd: 18. (4) b) pont].
-
-## c) Nem alkalmas az a vizsgált személy, aki az elfogadott színfelismerési tesztek során nem bizonyul színbiztosnak.
-
-## (2) A 2. Egészségügyi Osztály követelményei
-
-## a) Az ép színlátás feltétele, hogy a vizsgált személy hibátlanul olvassa az Ishihara táblákat, vagy igazolható legyen Nagel-féle anomaloszkóppal a normál trikromázia [lásd: 18. (4) a) pont].
-
-## b) A vizsgált személynek legyen ép a színlátása vagy legyen színbiztos. Amennyiben a vizsgált személy téveszt az Ishihara táblák olvasásakor, akkor mondható színbiztosnak, ha megfelel az AMS által elfogadott részletes színfelismerési teszteknek (anomaloszkópia vagy standardizált színes lámpa tesztek) [lásd: 18. (4) b) pont].
-
-## c) Nem alkalmas az a vizsgált személy, aki az elfogadott színfelismerési tesztek során nem bizonyul színbiztosnak.
-
-## d) A nem színbiztos személyt az AMS a következő korlátozással minősítheti alkalmasnak: Repülést kizárólag a JAA tagállamainak légterében nappal és VFR körülmények között hajthat végre.
-
-## (3) A 3. Egészségügyi Osztály követelményei
-
-## a) Az ép színlátás feltétele, hogy a vizsgált személy hibátlanul olvassa az Ishihara táblákat, vagy igazolható legyen Nagel-féle anomaloszkóppal a normál trikromázia [lásd: 18. (4) a) pont].
-
-## b) Az első vizsgálat alkalmával nem alkalmas a vizsgált személy, amennyiben nem teljesen ép a színlátása. A minősítés megújítása/meghosszabbítása alkalmával az AMS által elfogadható a ,,színbiztos'' színlátási képesség, amennyiben a fennálló szemészeti állapot nem befolyásolja a szakszolgálati feladatok ellátását és nincs akut patológiás folyamat. Amennyiben a vizsgált személy hibázik az Ishihara táblák olvasásakor, akkor mondható színbiztosnak, ha megfelel az AMS által elfogadott részletes színfelismerési teszteknek (anomaloszkópia vagy standardizált színes lámpa tesztek) [lásd: 18. (4) b) pont].
-
-## c) Nem alkalmas az a vizsgált személy, aki a elfogadott színfelismerési tesztek során nem bizonyul színbiztosnak.
-
-## (4) Kiegészítő előírások a színlátás követelményeihez
-
-## a) Az Ishihara tesztet (24 táblás változat), akkor teljesíti a vizsgált személy, ha valamennyi táblát bizonytalankodás és tétovázás nélkül (3 másodpercen belül) azonnal felismeri. A megvilágítási viszonyok előírásait a JAA Polgári Repülőorvosi Kézikönyvének Szemészeti fejezete is tartalmazza.
-
-## b) Amennyiben a vizsgált személy téveszt az Ishihara táblák olvasásakor, a következő vizsgálatok egyikét el kell végezni:
-
-## 1. Nagel- (vagy azzal egyenértékű) anomaloszkópia. A tesztet akkor teljesítette elfogadhatóan a vizsgált személy, ha a színegyezést maximálisan 4 skála egységen belül talál.
-
-## 2. Színes lámpa teszt. A vizsgálat nem alkalmazható az első vizsgálat alkalmával, csak orvosi minősítés megújító/meghosszabbító vizsgálat során végezhető. A Holmes-Wright-, Beynes- vagy Spectrolux-féle vizsgálatok (vagy hasonló tesztek) eredménye akkor fogadható el, ha a tesztet egyetlen hiba nélkül teljesítette a vizsgált személy. A vizsgálatot a standard vizsgálati protokoll szerint kell végezni. A színlátás pontosságának bármilyen kételye esetén, ellenőrzést kell végezni reális munkahelyi körülmények között. Ez különösen fontos, amikor a vizsgált személy szakszolgálati tevékenysége során színes képernyőt is használ.
-
-## 19. FÜL-ORR-GÉGÉSZETI KÖVETELMÉNYEK
-
-## (1) Az 1. Egészségügyi Osztály követelményei
-
-## a) Az 1. Egészségügyi Osztályú minősítésre először jelentkezőnél vagy a már minősítéssel rendelkezőnél nem állhat fenn az alábbi elváltozások egyike sem, mely kiterjedésénél vagy jellegénél fogva akadályozhatja a szakszolgálati feladatok biztonságos végrehajtását. Ide sorolandók az orr, fül, melléküregek és garat (ideértve a szájüreget, fogakat és a gégét is) funkciózavarai, azok elváltozásai, veleszületett vagy szerzett, akut vagy krónikus, illetve baleset vagy műtét utáni állapotai.
-
-## b) Teljes körű fül-orr-gégészeti vizsgálatot kell végezni az első orvosi minősítés kiadásakor, ezt követően pedig 5 évente a 40. életévig, a 40. életév felet pedig 2 évente. A vizsgálat részletezését lásd a 19. (4) a) és b) pontjainál.
-
-## c) Az orvosi minősítés megújításakor a rutin fül-orr-gégészeti vizsgálatot minden alkalommal el kell végezni [lásd a 19. (4) pontot].
-
-## d) A következő betegségek kizáró okot jelentenek. Az AMS mérlegelheti a minősítést a 19. (4) pontjában részletezettek szerint:
-
-## 1. A közép- és belsőfül akut vagy krónikus, klinikailag aktív betegsége.
-
-## 2. A dobhártya állandó perforációja vagy funkciózavara [lásd: 19. (4) c) pontot].
-
-## 3. A vesztibuláris funkció zavara [lásd: 19. (4) d) pontot].
-
-## 4. Az orrlégzés jelentős akadályozottsága vagy az orrmelléküregek funkciózavara.
-
-## 5. A szájüreg és a felső légutak akut vagy krónikus gyulladásai, illetve rosszindulatú daganatai.
-
-## 6. A beszéd, illetve hangképzés jelentős zavara.
-
-## (2) A 2. Egészségügyi Osztály követelményei
+## 15. Fül-orr-gégészeti követelmények (JAR – FCL 3.350)
 
 ## a) A 2. Egészségügyi Osztályú minősítésre először jelentkezőnél vagy a már minősítéssel rendelkezőnél nem állhat fenn az alábbi elváltozások egyike sem, mely kiterjedésénél vagy jellegénél fogva akadályozhatja a szakszolgálati feladatok biztonságos végrehajtását. Ide sorolandók az orr, fül, melléküregek és garat (ideértve a szájüreget, fogakat és a gégét is) funkciózavarai, azok elváltozásai, veleszületett vagy szerzett, akut vagy krónikus, illetve baleset vagy műtét utáni állapotai.
 
-## b) Az AME végezzen teljes körű fül-orr-gégészeti vizsgálatot az első alkalmassági vizsgálat alkalmával.
+## b) Az első vizsgálatkor és az orvosi minősítés meghosszabbításakor/megújításakor a rutin fül-orr-gégészeti vizsgálatot minden alkalommal el kell végezni (lásd a IV. Fejezet 15. Függelék 2. pontját).
 
-## c) Az orvosi minősítés megújításakor a rutin fül-orr-gégészeti vizsgálatot minden alkalommal el kell végezni [lásd a 19. (4) pontot].
+## c) A következő betegségek kizáró okot jelentenek:
 
-## d) A következő betegségek kizáró okot jelentenek. Az AMS mérlegelheti a minősítést a 19. (4) pontjában részletezettek szerint:
+## (1) a közép- és belsőfül akut vagy krónikus, klinikailag aktív betegsége.
 
-## 1. A közép- és belsőfül akut vagy krónikus, klinikailag aktív betegsége.
+## (2) a dobhártya állandó perforációja vagy funkciózavara (lásd a IV. Fejezet 15. Függelék 3. pontját).
 
-## 2. A dobhártya állandó perforációja vagy funkciózavara [lásd: 19. (4) c) pontot].
+## (3) a vesztibuláris funkció zavara (lásd a IV. Fejezet 15. Függelék 4. pontját).
 
-## 3. A vesztibuláris funkció zavara [lásd: 19. (4) d) pontot].
+## (4) az orrlégzés jelentős akadályozottsága vagy az orrmelléküregek funkciózavara.
 
-## 4. Az orrlégzés jelentős akadályozottsága vagy az orrmelléküregek funkciózavara.
+## (5) a szájüreg és a felső légutak súlyos akut vagy krónikus gyulladásai, illetve kiterjedt rosszindulatú daganatai.
 
-## 5. A szájüreg és a felső légutak akut vagy krónikus gyulladásai, illetve rosszindulatú daganatai.
+## (6) a beszéd, illetve hangképzés jelentős zavara.
 
-## 6. A beszéd, illetve hangképzés jelentős zavara.
+## 16. A hallás követelményei (JAR – FCL 3.355)
 
-## (3) A 3. Egészségügyi Osztály követelményei
+## a) A hallást minden alkalommal meg kell vizsgálni. A vizsgált személy mindkét fülén külön-külön vizsgálva, pontosan értse a társalgási beszédet 2 m távolságról, háttal fordulva a vizsgálónak.
 
-## a) A 3. Egészségügyi Osztályú minősítésre először jelentkezőnél vagy a már minősítéssel rendelkezőnél nem állhat fenn az alábbi elváltozások egyike sem, mely kiterjedésénél vagy jellegénél fogva akadályozhatja a szakszolgálati feladatok biztonságos végrehajtását. Ide sorolandók az orr, fül, melléküregek és garat (ideértve a szájüreget, fogakat és a gégét is) funkciózavarai, azok elváltozásai, veleszületett vagy szerzett, akut vagy krónikus, illetve baleset vagy műtét utáni állapotai.
+## b) Műszerrepülő engedély esetén tiszta hang audiometriát kell végezni az engedély megszerzése előtt, ezt követően a 40. életévig 5 évente, a 40. életév felett pedig 2 évente (lásd a IV. Fejezet 16. Függelék 1. pontját).
 
-## b) Teljes körű fül-orr-gégészeti vizsgálatot kell végezni az első orvosi minősítés kiadásakor, ezt követően pedig 5 évente a 40. életévig, a 40. életév felet pedig 2 évente. A vizsgálat részletezését lásd a 19. (4) a) és b) pontjainál.
+## (1) A halláscsökkenés egyik fülön sem lehet nagyobb 35 dB (HL)-nél az 500, 1000 és 2000 Hz, illetve 50 dB (HL)-nél a 3000 Hz frekvencián.
 
-## c) Az orvosi minősítés megújításakor a rutin fül-orr-gégészeti vizsgálatot minden alkalommal el kell végezni [lásd a 19. (4) pontot].
+## (2) Hypacusis esetén az orvosi minősítés megújításakor vagy meghosszabbításakor a szolgálat alkalmasnak minősítheti a vizsgált személyt, amennyiben a beszédaudiometriás vizsgálat megfelelő hallásteljesítményt bizonyít (lásd a IV. Fejezet 16. Függelék 2. pontját).
 
-## d) A következő betegségek kizáró okot jelentenek. Az AMS mérlegelheti a minősítést a 19. (4) pontjában részletezettek szerint:
+## 17. Pszichológiai követelmények (JAR – FCL 3.360)
 
-## 1. A közép- és belsőfül akut vagy krónikus, klinikailag aktív betegsége.
+## a) A 2. Osztályú minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan pszichológiai eltérés – különösképpen a repülés végrehajtása szempontjából – vagy súlyos személyiségbeli tényező, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
 
-## 2. A dobhártya állandó perforációja vagy funkciózavara [lásd: 19. (4) c) pontot].
+## A pszichológiai vizsgálatot (lásd a IV. Fejezet 17. Függelék 1. pontját) – kellő indikáció alapján – a szolgálat rendelheti el, mely lehet része vagy kiegészítője a pszichiátriai vagy neurológiai vizsgálatnak is (lásd a IV. Fejezet 17. Függelék 2. pontját).
 
-## 3. A vesztibuláris funkció zavara [lásd: 19. (4) d) pontot].
+## b) A pszichológiai vizsgálatot a szolgálat által elfogadott pszichológus végezze.
 
-## 4. A szájüreg és a felső légutak akut vagy krónikus gyulladásai, illetve rosszindulatú daganatai.
+## c) A pszichológiai vizsgálatról a pszichológus írásos összefoglalót küldjön a szolgálat részére, mely tartalmazza véleményét és esetleges javaslatait is.
 
-## 5. A beszéd, illetve hangképzés jelentős zavara.
-
-## (4) Kiegészítő előírások a fül-orr-gégészeti követelményekhez
-
-## a) A teljes körű fül-orr-gégészeti vizsgálatot az első alkalmassági vizsgálat alkalmával az AMS által elfogadott szakorvos végezze.
-
-## b) A teljes körű fül-orr-gégészeti vizsgálat elrendelése:
-
-## 1. Az AMS által elfogadott szakorvos vizsgálja meg a szakszolgálati engedélyest minden olyan esetben, amikor az orvosi minősítés megújításakor a rutin fül-orr-gégészeti vizsgálat során kóros vagy nem egyértelműen negatív státuszt észlelnek.
-
-## 2. A 19. (1) b) és a 19. (3) b) pontjaiban leírt teljes körű vizsgálatokat az AMS által elfogadott szakorvos végezze.
-
-## c) Nem fertőzéses eredetű, egyszeri, kóros dobhártya perforáció esetén az AMS mérlegelheti a minősítést, amennyiben az nem befolyásolja a fül normális működését.
-
-## d) A spontán vagy pozicionális nystagmus esetén részletes vesztibuláris kivizsgálást végezzen az AMS által elfogadott szakorvos. Amennyiben nem észlelhető jelentős kalorikus vagy rotációs ingerelhetőség, az alkalmas minősítés mérlegelhető. A fenti eseteket az AMS minősíti a teljes klinikai kép alapján.
-
-## e) A fül-orr-gégészeti malignus elváltozásokat az Onkológiai (23.) fejezet is érinti, a minősítéskor az AMS által elfogadott onkológus szakvéleményét is be kell kérni.
-
-## 20. A HALLÁS KÖVETELMÉNYEI
-
-## (1) Az 1. Egészségügyi Osztály követelményei
-
-## a) A hallást minden alkalommal meg kell vizsgálni. A vizsgált személy mindkét fülén külön-külön vizsgálva, 100%-osan értse a társalgási beszédet 2 m távolságról, háttal fordulva a vizsgálónak.
-
-## b) Tiszta hang audiometriát kell végezni az első vizsgálat alkalmával, ezt követően a 40. életévig 5 évente, a 40. életév felett pedig 2 évente [lásd: 20. (4) a) pontot].
-
-## c) Az 1. Egészségügyi Osztályú orvosi minősítés első kibocsátásakor a halláscsökkenés egyik fülön sem lehet nagyobb 20 dB (HL)-nál az 500, 1000 és 2000 Hz, illetve 35 dB (HL)-nél a 3000 Hz frekvencián. Amennyiben a halláscsökkenés két vagy több frekvencián 5 dB-lel megközelíti a fenti határértékeket, a tiszta hang audiometriát legalább évenként el kell végezni.
-
-## d) Az orvosi minősítés megújításakor sem lehet nagyobb 35 dB (HL)-nél az 500, 1000 és 2000 Hz, illetve 50 dB (HL)-nél a 3000 Hz frekvencián. Amennyiben a vizsgált személy halláscsökkenése két vagy több frekvencián 5 dB-lel megközelíti a fenti határértéket, a tiszta hang audiometriát legalább évenként el kell végezni.
-
-## e) Az orvosi minősítés megújításakor a 20. (1) c) és d) pontban jelzett értékeket meghaladó halláscsökkenés esetén az AMS alkalmasnak minősítheti a vizsgált személyt, amennyiben a beszédaudiometriás vizsgálat [lásd: 20. (4) b) pont] igazolja a szakszolgálati tevékenységhez szükséges hallásteljesítményt.
-
-## f) Az 1. Egészségügyi Osztályú minősítés első kibocsátásakor a hallókészülék használata kizáró okot jelent. Az orvosi minősítés megújításakor a kétoldali hallókészülék kizáró okot jelent. Az orvosi minősítés megújításakor az egyoldali hallókészülék esetén az AMS minősíti a vizsgált személyt, amennyiben a készülék segítségével elérhető a 20. (1) d) pontban előírt hallásteljesítmény [lásd a 20. (4) c) pontot is].
-
-## (2) A 2. Egészségügyi Osztály követelményei
-
-## a) A hallást minden alkalommal meg kell vizsgálni. A vizsgált személy mindkét fülén külön-külön vizsgálva. 100%-osan értse a társalgási beszédet 2 m távolságról, háttal fordulva a vizsgálónak.
-
-## b) Műszerrepülő engedély esetén tiszta hang audiometriát kell végezni az engedély megszerzése előtt, ezt követően a 40. életévig 5 évente, a 40. életév felett pedig 2 évente [lásd: 20. (4) a) pontot].
-
-## c) A halláscsökkenés egyik fülön sem lehet nagyobb 20 dB (HL)-nél az 500, 1000 és 2000 Hz, illetve 35 dB (HL)-nél a 3000 Hz frekvencián. Amennyiben a halláscsökkenés 2 vagy több frekvencián 5 dB-lel megközelíti a fenti értékeket, a tiszta hang audiometriát legalább évente el kell végezni.
-
-## d) Az orvosi minősítés megújításakor a 20. (2) c) pontjában jelzett értékeket meghaladó halláscsökkenés esetén az AMS alkalmasnak minősítheti a vizsgált személyt, amennyiben a beszédaudiometriás vizsgálat [lásd: 20. (4) b) pont] igazolja a szakszolgálati tevékenységhez szükséges hallásteljesítményt.
-
-## e) A 2. Egészségügyi Osztályú orvosi minősítés első kiadásakor, illetve az orvosi minősítés megújításakor az egyoldali hallókészülék esetén az AMS minősíti a vizsgált személyt, amennyiben a készülék segítségével elérhető a 20. (1) b) pontbantban előírt hallásteljesítmény [lásd a 20. (4) c) pontot is]. Kétoldali hallókészülék használata kizáró okot jelent.
-
-## (3) A 3. Egészségügyi Osztály követelményei
-
-## a) A hallást minden alkalommal meg kell vizsgálni. A vizsgált személy mindkét fülén külön-külön vizsgálva. 100%-osan értse a társalgási beszédet 2 m távolságról, háttal fordulva a vizsgálónak.
-
-## b) Tiszta hang audiometriát kell végezni az első vizsgálat alkalmával, ezt követően a 40. életévig 5 évente, a 40. életév felett pedig 2 évente [lásd: 20. (4) a) pontot].
-
-## c) A 3. Egészségügyi Osztályú orvosi minősítés első kibocsátásakor a halláscsökkenés egyik fülön sem lehet nagyobb 20 dB (HL)-nál az 500, 1000 és 2000 Hz, illetve 35 dB (HL)-nél a 3000 Hz frekvencián. Amennyiben a halláscsökkenés két vagy több frekvencián 5 dB-lel megközelíti a fenti határértékeket, a tiszta hang audiometriát legalább évenként el kell végezni.
-
-## d) Az orvosi minősítés megújításakor sem lehet nagyobb 35 dB (HL)-nél az 500, 1000 és 2000 Hz, illetve 50 dB (HL)-nél a 3000 Hz frekvencián. Amennyiben a vizsgált személy halláscsökkenése két vagy több frekvencián 5 dB-lel megközelíti a fenti határértéket, a tiszta hang audiometriát legalább évenként el kell végezni.
-
-## e) Az orvosi minősítés megújításakor a 20. (3) c) és d) pontban jelzett értékeket meghaladó halláscsökkenés esetén az AMS alkalmasnak minősítheti a vizsgált személyt, amennyiben a beszédaudiometriás vizsgálat [lásd: 20. (4) b) pont] igazolja a szakszolgálati tevékenységhez szükséges hallásteljesítményt.
-
-## f) A 3. Egészségügyi Osztályú minősítés első kibocsátásakor a hallókészülék használata kizáró okot jelent. Az orvosi minősítés megújításakor a kétoldali hallókészülék kizáró okot jelent. Az orvosi minősítés megújításakor az egyoldali hallókészülék esetén az AMS minősíti a vizsgált személyt, amennyi a készülék segítségével elérhető a 20. (3) b) pontban előírt hallásteljesítmény [lásd a 20. (4) c) pontot is].
-
-## (4) Kiegészítő előírások a hallás követelményeihez
-
-## a) A tiszta hang audiogramnak legalább a 250–8000 Hz frekvencia tartományt kell átfognia. A hallásküszöböket a következő frekvenciákon kell meghatározni: 250 Hz, 500 Hz, 1000 Hz, 2000 Hz, 3000 Hz, 4000 Hz, 6000 Hz és 8000 Hz.
-
-## b) Halláscsökkenés esetén az AMS minősíti a vizsgált személyt. Az alkalmas minősítés mérlegelhető akkor, ha a beszédaudiometria során, valamint a munkahely háttérzajában vizsgálva (minden lehetséges helyzetben) igazolható, hogy a hallásteljesítmény megfelelő a szakszolgálati feladatok biztonságos ellátásához.
-
-## c) A minősítés mérlegelésekor meg kell győződni:
-
-## 1. a hallókészülék tökéletes funkciójáról,
-
-## 2. segítségével a vizsgált személy maradéktalanul képes-e ellátni szakszolgálati feladatait,
-
-## 3. a hallókészülék nem okoz interferenciát a használatos fejhallgatóval, illetve a rendszer egyéb berendezéseivel,
-
-## 4. tekintettel a hallókészülék műszaki adottságaira, tartalék készüléknek és elemnek készenlétben tartása szükséges.
-
-## 21. PSZICHOLÓGIAI KÖVETELMÉNYEK
-
-## (1) Az 1. Egészségügyi Osztály követelményei
-
-## a) Az 1. Osztályú minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan pszichológiai eltérés [lásd: 21. (4) pontot], mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását. A pszichológiai vizsgálatot – kellő indikáció alapján – az AMS rendelheti el, mely lehet része vagy kiegészítője a pszichiátriai vagy neurológiai vizsgálatnak is.
-
-## b) A pszichológiai vizsgálatot az AMS által elfogadott pszichológus végezze. Az orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a stressztűrőképesség oly mértékű beszűkülése/zavara, mely feltehetőleg akadályozza a szakszolgálati feladatok ellátását [lásd: 21. (4) c) pontot].
-
-## c) Az elrendelt pszichológiai vizsgálatról a pszichológus írásos összefoglalót küld az AMS-nek, mely tartalmazza véleményét és esetleges javaslatait is.
-
-## (2) A 2. Egészségügyi Osztály követelményei
-
-## a) A 2. Osztályú minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan pszichológiai eltérés [lásd: 21. (4) pontot], mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását. A pszichológiai vizsgálatot – kellő indikáció alapján – az AMS rendelheti el, mely lehet része vagy kiegészítője a pszichiátriai vagy neurológiai vizsgálatnak is.
-
-## b) A pszichológiai vizsgálatot az AMS által elfogadott pszichológus végezze. Az orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a stressztűrőképesség oly mértékű beszűkülése/zavara, mely feltehetőleg akadályozza a szakszolgálati feladatok ellátását [lásd: 21. (4) c) pontot].
-
-## c) Az elrendelt pszichológiai vizsgálatról a pszichológus írásos összefoglalót küld az AMS-nek, mely tartalmazza véleményét és esetleges javaslatait is.
-
-## (3) A 3. Egészségügyi Osztály követelményei
-
-## a) A 3. Osztályú minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan pszichológiai eltérés [lásd: 21. (4) pontot], mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását. A pszichológiai vizsgálatot – kellő indikáció alapján – az AMS rendelheti el, mely lehet része vagy kiegészítője a pszichiátriai vagy neurológiai vizsgálatnak is.
-
-## b) A pszichológiai vizsgálatot az AMS által elfogadott pszichológus végezze. Az orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a stressztűrőképesség oly mértékű beszűkülése/zavara, mely feltehetőleg akadályozza a szakszolgálati feladatok ellátását [lásd: 21. (4) c) pontot].
-
-## c) Az elrendelt pszichológiai vizsgálatról a pszichológus írásos összefoglalót küld az AMS-nek, mely tartalmazza véleményét és esetleges javaslatait is.
-
-## (4) Kiegészítő előírások a pszichológiai követelményekhez
-
-## a)[^15] A pszichológiai vizsgálat indikációja: A pszichológiai vizsgálat végzését akkor kell mérlegelni, amikor a Nemzeti Közlekedési Hatóság Polgári Légiközlekedési Igazgatósága olyan információ birtokába jut, mely alapján megkérdőjelezhető az egyén alkalmassága mentális vagy személyiség tulajdonságok alapján. Ilyen információ forrásai a következők lehetnek: repülőesemény vagy katasztrófa, a szakmai képzés/tréning vagy vizsga, szakmai mulasztás vagy ismerethiány, mely befolyásolja a szakszolgálati feladatok biztonságos ellátását.
-
-## b) A pszichológiai vizsgálat terjedelme: A pszichológiai vizsgálat a következő részekből álljon: anamnézis felvétel, pszichológiai exploráció, képesség- és személyiségtesztek.
-
-## c) A stressztűrőképesség beszűkülése/zavara vagy exhaustio esetén az AMS pszichológiai vizsgálatot indikál. Ennek során a következő készségeket kell ellenőrizni: az extrém intenzív vagy alacsony munkaterhelési helyzetek megoldása, relaxációs képesség, a feszültségek és kritikus munkaköri szituációk kezelése.
-
-## 22. BŐRGYÓGYÁSZATI KÖVETELMÉNYEK
-
-## (1) Az 1. Egészségügyi Osztály követelményei
-
-## a) Az 1. Egészségügyi Osztályú minősítésért először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan diagnosztizált bőrgyógyászati elváltozás, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
-
-## b) A következő betegségek esetén részletes szakorvosi vizsgálat szükséges [lásd a 22. (4) pontot]:
-
-## 1. exogén vagy endogén ekcéma,
-
-## 2. bakteriális fertőzés,
-
-## 3. gyógyszerek/drogok okozta bőrelváltozások,
-
-## 4. bullózus kiütések,
-
-## 5. a bőr rosszindulatú elváltozásai,
-
-## 6. allergiás bőrkiütések.
-
-## A fenti esetekben a vizsgált személyt a 22. (4) pont szerint kell minősíteni.
-
-## (2) A 2. Egészségügyi Osztály követelményei
+## 18. Bőrgyógyászati követelmények (JAR – FCL 3.365)
 
 ## a) A 2. Egészségügyi Osztályú minősítésért először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan diagnosztizált bőrgyógyászati elváltozás, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
 
-## b) A következő betegségek esetén részletes szakorvosi vizsgálat szükséges [lásd a 22. (4) pontot]:
+## b) A következő betegségek esetén részletes szakorvosi vizsgálat szükséges (lásd a IV. Fejezet 18. Függelékét):
 
-## 1. exogén vagy endogén ekcéma,
+## (1) exogén vagy endogén ekcéma,
 
-## 2. bakteriális fertőzés,
+## (2) súlyos pszoriázis,
 
-## 3. gyógyszerek/drogok okozta bőrelváltozások,
+## (3) bakteriális fertőzés,
 
-## 4. bullózus kiütések,
+## (4) gyógyszerek okozta bőrelváltozások,
 
-## 5. a bőr rosszindulatú elváltozásai,
+## (5) bullózus kiütések,
 
-## 6. allergiás bőrkiütések.
+## (6) a bőr rosszindulatú elváltozásai,
 
-## A fenti esetekben a vizsgált személyt a 22. (4) pont szerint kell minősíteni.
+## (7) allergiás bőrkiütések.
 
-## (3) A 3. Egészségügyi Osztály követelményei
+## Minden kétséges esetet jelenteni kell a szolgálat részére.
 
-## a) A 3. Egészségügyi Osztályú minősítésért először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan diagnosztizált bőrgyógyászati elváltozás, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+## 19. Onkológia (JAR – FCL 3.370)
 
-## b) A következő betegségek esetén részletes szakorvosi vizsgálat szükséges [lásd a 22. (4) pontot]:
+## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan diagnosztizált elsődleges vagy szekunder rosszindulatú betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
 
-## 1. exogén vagy endogén ekcéma,
+## b) A rosszindulatú betegség kezelése után a vizsgált személy a IV. Fejezet 19. Függeléke szerint minősíthető.
 
-## 2. bakteriális fertőzés,
+## III. FEJEZET
 
-## 3. gyógyszerek/drogok okozta bőrelváltozások,
+## A 3. Egészségügyi Osztály követelményei
 
-## 4. bullózus kiütések,
+## az Eurocontrol European Class 3 Medical Certification Requirements [EMCR(ATC)] alapján
 
-## 5. a bőr rosszindulatú elváltozásai,
+## 1. Általános irányelvek a 3. Egészségügyi Osztályú minősítés vizsgálatához [EMCR(ATC) 1.]
 
-## 6. allergiás bőrkiütések
+## 1.1. A 3. Egészségügyi Osztály követelményei az első és a megújító vizsgálat alkalmával azonosak, kivéve, ha e rendelet attól eltérően rendelkezik.
 
-## A fenti esetekben a vizsgált személyt a 22. (4) pont szerint kell minősíteni.
+## 2. A szív- és érrendszer [EMCR(ATC) 2]
 
-## (4) Kiegészítő előírások a bőrgyógyászati követelményekhez
+## 2.1. Vizsgálat
 
-## a) Minden bőrelváltozás, mely fájdalommal, diszkomfort érzéssel, irritációval vagy viszketéssel jár, elvonhatja a szakszolgálati engedélyes figyelmét a feladatról, és ezáltal kihat a repülés biztonságára. Az egyéni minősítést minden esetben az AMS által elfogadott bőrgyógyász véleményére kell alapozni.
+## 2.1. (a) 3. Egészségügyi Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan veleszületett vagy szerzett szív- és érrendszeri betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
 
-## b) Minden bőrgyógyászati kezelés vagy besugárzás járhat szisztémás hatással is, melyet figyelembe kell venni az orvosi minősítéskor és szükség szerint korlátozást (Class 1. OML vagy Class 2. OSL) is mérlegelni kell.
+## 2.1. (b) 12 elvezetéses nyugalmi EKG felvétel és lelet szükséges az első orvosi minősítés kiadásakor, ezt követően pedig a 30. életévig 4 évente, utána pedig 2 évente, majd a 40. életév után évente, valamint klinikai indikáció esetén kell végezni. (lásd a 2.1.1 pontot).
 
-## c) A bőr malignus és premalignus elváltozásai:
+## 2.1.1. Az orvosi minősítés érvényessége 12 hónap 40 év felett, ennek megfelelően kell évente nyugalmi EKG felvétel is.
 
-## 1. Kizáró okot jelent a melanoma malignum, a pikkelysejtes epithelioma, a Bowen-kór és a Paget-kór. A minősítést az AMS mérlegelheti, amennyiben az elváltozás teljes eltávolítása megtörtént és folyamatos gondozás biztosított.
+## 2.1. (c) Terheléses EKG vizsgálatot klinikai indikáció alapján kell végezni a 2.1.2. pontnak megfelelően.
 
-## 2. A basalioma (ulcus rodens), keratoacanthoma és egyéb keratózisok eseteit a szükséges kezelés (eltávolítás) után az AMS minősíti.
+## 2.1.2. Terheléses EKG vagy más kardiológiai vizsgálatot kell végezni:
 
-## d) Egyéb bőrelváltozások:
+## (a) ha panaszok vagy tünetek felvetik a kardiovaszkuláris betegség gyanúját;
 
-## 1. Akut vagy kiterjedt krónikus ekcéma.
+## (b) a nyugalmi EKG-n talált eltérés tisztázására;
 
-## 2. Bőr retikulózis.
+## (c) a szolgálat által elfogadott szakorvos javaslata alapján;
 
-## 3. Generalizált betegségek bőrtünetei és minden kezelést igénylő hasonló elváltozás minősítése az AMS hatáskörébe tartozik.
+## (d) 65. életévben, majd utána 4 évente a 3. Egészségügyi Osztályú orvosi minősítés meghosszabbításához.
 
-## e) A bőr malignus és premalignus elváltozásainak minősítéséhez az AMS által elfogadott onkológus szakvéleményét is be kell kérni.
+## 2.1.3. (a) Amennyiben a 6.1. (b) és 6.1.1. pont szerint végzett laboratóriumi vizsgálatok alapján a szolgálat fokozott kardiovaszkuláris rizikót állapít meg.
 
-## 23. ONKOLÓGIAI KÖVETELMÉNYEK
+## 2.1.3. (b) A vér lipidek/koleszterinek szignifikáns emelkedését a szolgálat által elfogadott kardiológus vizsgálja ki és véleményezze.
 
-## (1) Az 1. Egészségügyi Osztály onkológiai követelményei
+## 2.1.3. (c) A rizikó faktorok halmozódása esetén (dohányzás, családi anamnézis, vérzsírok eltérése, magasvérnyomás stb.) a szolgálat által elfogadott kardiológus vizsgálja ki és véleményezze a vizsgált személyt.
 
-## a) Az 1. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan diagnosztizált primér vagy szekunder rosszindulatú betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+## 2.1. (d) A nyugalmi és a terheléses EKG vizsgálatot a repülőorvos vagy a szolgálat által elfogadott szakorvos véleményezze.
 
-## b) A rosszindulatú betegség kezelése után a vizsgált személy a 23. (4) pont szerint minősíthető.
+## 2.1. (e) 65. életévben a 3. Osztályú orvosi minősítéssel rendelkezőt a Repülőorvosi Központban (AMC) a szolgálat által elfogadott kardiológus vizsgálja meg. Ekkor terheléses EKG-t vagy ezzel egyenértékű vizsgálatot kell végezni, és a későbbiek során a klinikai kép alapján kell ismételni.
 
-## (2) A 2. Egészségügyi Osztály onkológiai követelményei:
+## 2.2. Vérnyomás
 
-## a) A 2. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan diagnosztizált primer vagy szekunder rosszindulatú betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+## 2.2. (a) A vérnyomást a 2.2.1. pontban leírt módon kell mérni.
 
-## b) A rosszindulatú betegség kezelése után a vizsgált személy a 23. (4) pontnak megfelelően alkalmasnak minősíthető.
+## 2.2.1. A szisztolés értéket a Korotkoff hang megjelenése (I. fázis), a diasztolés értéket pedig annak eltűnése (V. fázis) jelzi. A hagyományos módszer mellett azzal egyenértékű elektronikus módszer is alkalmazható. Amennyiben a vérnyomásérték magas és/vagy a nyugalmi pulzusszám emelkedett, további vizsgálatot szükséges végezni az alkalmassági vizsgálat során. A különböző alkalmakkor végzett vérnyomásmérés azonos módszerrel történjék, a jobb összehasonlíthatóság érdekében.
 
-## (3) A 3. Egészségügyi Osztály onkológiai követelményei
+## 2.2. (b) Amennyiben a vérnyomás a vizsgálat alkalmával következetesen, kezeléssel vagy kezelés nélkül meghaladja a 160 Hgmm-es szisztolés, illetve 95 Hgmm-es diasztolés értéket, a vizsgált személyt nem alkalmasnak kell minősíteni.
 
-## a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan diagnosztizált prime vagy szekunder rosszindulatú betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+## 2.2. (c) A vérnyomáscsökkentő terápiának összeegyeztethetőnek kell lennie a szakszolgálati feladatok biztonságos ellátásával (lásd a 2.2.2 pontot). A terápiás beállítás idejére ideiglenesen nem alkalmas a vizsgált személy annak megállapítására, hogy nincs jelentős mellékhatása a gyógykezelésnek.
 
-## b) A rosszindulatú betegség kezelése után a vizsgált személy a 23. (4) pontnak megfelelően alkalmasnak minősíthető.
+## 2.2.2. A vérnyomáscsökkentő kezelés a szolgálat egyetértésével végezhető. A szolgálat által engedélyezhető gyógyszerek:
 
-## (4) Kiegészítő előírások az onkológiai követelményekhez
+## (a) Nem-kacsdiuretikumok;
 
-## Az 1. és 3. Osztályú minősítést az AMS végzi, míg a 2. Egészségügyi Osztályban a minősítést az AME is végezheti az AMS-vel történt konzultáció után, amennyiben:
+## (b) Bizonyos (általában hidrofil) béta-blokkolók;
 
-## a) A kezelés után daganatmentesnek tekinthető a vizsgált személy.
+## (c) ACE- gátlók;
 
-## b) A daganat típusának és a kezelés jellegének megfelelően elegendő idő telt el a kezelés befejezése óta.
+## (d) Hosszúhatású lassú kálciumcsatorna blokkolók;
 
-## c) A daganat kiújulása vagy az áttét miatt bekövetkezhető cselekvőképtelenség rizikója az AMS által elfogadható határok között van.
+## (e) Angiotensin 2 receptor blokkolók;
 
-## d) A kezelésnek sem rövid, sem pedig hosszútávon nincs szövődménye. Anthracyclin kemoterápia után rendszeres kardiológiai ellenőrzést kell végezni.
+## A terápiás beállítás idejére ideiglenesen nem alkalmas a vizsgált személy, annak megállapítására, hogy nincs jelentős mellékhatása a gyógykezelésnek.
 
-## e) Az onkológiai utógondozás az AMS-vel egyeztetve történik.
+## 2.2. (d) Tüneteket okozó hypotonia esetén a vizsgált személy nem alkalmas.
 
-## f) Korlátozások, mint a kizárólag többtagú személyzettel (Class 1. OML) vagy biztonsági pilótával (Class 2. OSL) engedélyezett repülések, a klinikai állapot függvényében alkalmazhatók.
+## 2.3. Koszorúsér betegség
+
+## 2.3. (a) Ischémiás szívbetegség gyanúja esetén a vizsgálatra jelentkezőt ki kell vizsgálni. Kismértékű, tünetmentes, gyógyszeres kezelést nem igénylő koszorúsér-elváltozás esetén a szolgálat mérlegelheti az alkalmasságot a 2.3.1. pont szerint.
+
+## 2.3.1. Tünetmentes koszorúsér-betegség gyanúja esetén terheléses elektrokardiográfiás vizsgálatot kell végezni, ezt követően, amennyiben indokolt, további vizsgálat (terheléses scintigráfia, terheléses echokardiográfia, koronária angiográfia vagy más ezekkel egyenértékű és a szolgálat által elfogadott vizsgálat) igazolja, hogy nem áll fenn a szívizom isémiája vagy a koszorúsér szignifikáns szűkülete.
+
+## 2.3. (b) Tünetet okozó koszorúsér-betegség vagy gyógyszeres kezelést igénylő tünetek esetén a vizsgált személy nem alkalmas.
+
+## 2.3. (c) Szívinfarktus után a vizsgált személy nem alkalmas. Az alkalmas minősítést a 2.3.2. pontnak megfelelően mérlegelheti a szolgálat.
+
+## 2.3.2. Amennyiben tünetmentes a vizsgált személy, sikeresen csökkentette rizikó faktorait (amennyiben voltak) és nem részesül antianginás kezelésben, az index esemény (szívinfarktus) után hat hónappal a következő vizsgálatokat kell végezni:
+
+## (a) tünethatárolt terheléses EKG;
+
+## (b) jó bal kamra funkció lényeges fali mozgászavar nélkül (pl. diszkinézis vagy akinézis) és a bal kamrai ejekciós frakció 50% vagy több;
+
+## (c) 24 órás EKG felvétel, mely kizárja a jelentősebb ritmus vagy vezetési zavart;
+
+## és
+
+## (d) a koronária angiográfia vagy más ezzel egyenértékű képalkotó eljárás egyik éren sem mutat 30%-ot meghaladó szűkületet, az infarktusos területet kivéve nincs reverzibilis isémiás terület vagy funkcionális károsodás.
+
+## Évenkénti kardiológiai vizsgálat (ha indokolt, gyakrabban) szükséges terheléses EKG-val vagy scintigráfiával kiegészítve. Koronária angiográfia vagy más ezzel egyenértékű képalkotó eljárás végzése szükséges az index esemény után 5 évvel, hacsak a non-invazív vizsgálat (terheléses EKG stb.) azt korábban nem teszi szükségessé.
+
+## 2.3. (d) Sikeres koszorúsér by-pass, angioplasztika/stenting után 6 hónappal alkalmasnak minősítheti a szolgálat a vizsgált személyt a 2.3.3. pont alapján.
+
+## 2.3.3. Mérlegelhető a minősítés abban az esetben, ha az egyén tünetmentes, sikeresen csökkentette rizikó faktorait (amennyiben voltak) és béta-blokkoló, ACE-gátló, statin és aszpirin kezelésben kizárólag szekunder prevencióként részesül. A következő vizsgálatokat kell végezni:
+
+## (a) tünethatárolt terheléses EKG (Bruce IV. fokozat vagy azzal egyenértékű terhelés);
+
+## (b) jó bal kamra funkció lényeges fali mozgászavar nélkül (pl. diszkinézis vagy akinézis) és a bal kamrai ejekciós frakció 50% vagy több, továbbá normális jobb kamrai funkció;
+
+## (c) 24 órás EKG felvétel indikáció alapján;
+
+## (d) A beavatkozás után végzett koronária angiográfia jó kiáramlási pályát mutatott. Az infarktusos területhez vezető éren kívül egyetlen nem kezelt éren, vénás vagy artériás grafton, továbbá angioplasztika/stenting helyén sem lehet 50%-nál nagyobb szűkület. Kettőnél több 30% és 50 % közötti szűkület nem fogadható el.
+
+## A teljes koszorúsér rendszert megfelelőnek kell véleményeznie a szolgálat által elfogadott kardiológusnak, különös figyelemmel kell lenni a többszörös szűkület és/vagy többszörös revaszkularizáció esetén.
+
+## 30%-nál nagyobb, nem kezelt szűkület a bal főtörzsön vagy az anterior descendens koronária proximális szakaszán nem fogadható el.
+
+## Évenkénti kardiológiai vizsgálat (ha indokolt, gyakrabban) szükséges terheléses EKG-val vagy scintigráfiával kiegészítve. Koronária angiográfia vagy más ezzel egyenértékű képalkotó eljárás végzése szükséges az index esemény után 5 évvel, hacsak a non-invazív vizsgálat (terheléses EKG stb.) azt korábban nem teszi szükségessé.
+
+## 2.4. Ritmus- és vezetési zavarok
+
+## 2.4. (a) A tartós vagy időnként jelentkező, klinikai tünetekkel járó szupraventrikuláris tachykardia, szinoatriális diszfunkció esetén a vizsgált személy nem alkalmas. A szolgálat mérlegelheti az alkalmas minősítést a 2.4.1. pont szerint végzett kedvező eredményű kardiológiai kivizsgálás alapján.
+
+## 2.4.1. Minden jelentős ritmus- vagy vezetési zavart a szolgálat által elfogadott kardiológus vizsgáljon ki, és alkalmas minősítés esetén megfelelő nyomon követés szükséges.
+
+## (a) Ezek a vizsgálatok a következők:
+
+## (1) Bruce protokoll szerinti vagy azzal egyenértékű terheléses vizsgálat. A terhelés maximális vagy tünethatárolt legyen. A Bruce 4. fokozatot kell teljesíteni és nem lehet jelentős ritmus- vagy vezetési zavar, illetve szívizom isémia jele. A kardioaktív gyógyszerek terhelés előtti elhagyását mérlegelni kell.
+
+## (2) 24 órás ambuláns EKG nem mutat jelentős ritmus- vagy vezetési zavart.
+
+## (3) 2D Doppler echokardiogram nem jelez jelentős szelektív kamrai megnagyobbodást, illetve jelentős szerkezeti vagy funkcionális károsodást és a bal kamra ejekciós frakciója legalább 50%.
+
+## (b) További vizsgálatok a következők lehetnek:
+
+## (1) Ismételt 24 órás EKG felvétel;
+
+## (2) Elektrofiziológiai vizsgálatok;
+
+## (3) Szívizom perfúziós vizsgálat vagy más ezzel egyenértékű vizsgálat;
+
+## (4) A szív MRI vagy ezzel egyenértékű vizsgálata;
+
+## (5) Koronária angiográfia vagy ezzel egyenértékű vizsgálat.
+
+## 2.4. (b) Tünetmentes szinus bradikardia vagy szinusz tachykardia esetén a vizsgált személy alkalmasnak minősíthető, amennyiben más kóros elváltozás nem áll a háttérben.
+
+## 2.4. (c) Szinus csomó betegség gyanúja esetén a 2.4.1. pont szerint kardiológiai kivizsgálás szükséges.
+
+## 2.4. (d) Tünetmentes egygócú ventrikuláris extraszisztolék nem jelentenek alkalmatlanságot. A gyakori és komplex formában jelentkező extraszisztólék esetén kardiológiai kivizsgálás szükséges a 2.4.1. pont szerint (lásd a 2.4.2. pontot is.)
+
+## 2.4.2. Tünetmentes egygócú szupraventrikuláris vagy ventrikuláris extraszisztolék nem igényelnek további kivizsgálást, ha gyakoriságuk nem több mint percenként 1 ES.
+
+## 2.4. (e) Egyéb rendellenesség hiányában az inkomplett szárblokk vagy stabil bal tengelyállás alkalmasnak minősíthető. Komplett jobb-, illetve balszárblokk esetén kardiológiai kivizsgálás szükséges az első észleléskor a 2.4.1. pont szerint (lásd a 2.4.3. pontot is).
+
+## 2.4.3. (a) 40 év felett frissen jelentkező jobb szárblokk esetén 12 hónapos stabilitást kell igazolni az alkalmas minősítéshez.
+
+## 2.4.3. (b) A bal szárblokk sokkal gyakrabban társul koszorúsér betegséghez, így azokat részletesebben kell kivizsgálni, és az invazív diagnosztika is szükséges lehet. Az orvosi minősítésre először jelentkező alkalmasnak minősíthető, ha a részletes vizsgálatok nem derítettek ki kóros elváltozást. A frissen jelentkező bal szárblokk esetén a minősítés meghosszabbításához 12 hónapos szoros megfigyeléssel ellenőrzött stabilitás szükséges.
+
+## 2.4. (f) I. fokú és Mobitz 1. típusú A-V blokk esetén, kóros eltérések hiányában mérlegelhető az alkalmas minősítés. Mobitz 2. típusú vagy teljes A-V blokk esetén a vizsgált személy nem alkalmas. Az alkalmas minősítést mérlegelheti a szolgálat a 2.4.1. pont alapján.
+
+## 2.4. (g) A széles és/vagy keskeny QRS komplexusokkal járó tachykardia esetén a vizsgált személy nem alkalmas. Az alkalmas minősítést mérlegelheti a szolgálat a 2.4.1 pont alapján.
+
+## 2.4. (h) Ablációs therápia után a vizsgált személy nem alkalmas. Az alkalmas minősítést mérlegelheti a szolgálat a 2.4.1. pont alapján (lásd a 2.4.4. pontot is.)
+
+## 2.4.4. Sikeres abláció után a vizsgált személy legalább egy évig nem alkalmas, kivéve, ha a beavatkozás után legkorábban 2 hónappal végzett elektrofiziológiai vizsgálat igazolja a beavatkozás sikerét.
+
+## 2.4. (i) Kamrai praeexcitáció esetén a vizsgált személy nem alkalmas. Az alkalmas minősítést mérlegelheti a szolgálat a 2.4.5. pont szerint.
+
+## 2.4.5. (a) Az alkalmas minősítést a 2.4.1. pontban elvégzett vizsgálatok kedvező leletei alapján mérlegelheti a szolgálat.
+
+## 2.4.5. (b) Tünetmentes praeexcitáció esetén a szolgálat mérlegelheti az alkalmasságot, amennyiben az elektrofiziológiai vizsgálat, beleértve a gyógyszeres provokációt is, nem bizonyít re-entry tachycardiát és kizárható a multiplex vezetőnyaláb is.
+
+## 2.4.5. (c) 24 órás EKG monitorozás igazolja, hogy nincs hajlam tünettel járó vagy tünetmentes tachy-arritmiára.
+
+## 2.4. (j) Endokardiális pacemakerrel a vizsgált személy nem alkalmas. Az alkalmas minősítést mérlegelheti a szolgálat a 2.4.6. pont szerint.
+
+## 2.4.6. Szubendokardiális, állandó pacemaker beültetés után 3 hónappal az alkalmas minősítés feltételei a következők:
+
+## (1) nem áll fenn más kizáró betegség;
+
+## (2) bipoláris elektródát alkalmaztak;
+
+## (3) a vizsgált személy nem pacemaker dependens;
+
+## (4) tünethatárolt terheléses EKG során legalább a Bruce 4. fokozatot kell teljesíteni és nem lehet jelentős ritmus- vagy vezetési zavar, illetve szívizom isémia jele. Ritmus- vagy vezetési zavar esetén a scintigráfia informatívabb lehet;
+
+## (5) a szolgálat által elfogadott kardiológus véleménye szükséges a pacemaker megfelelő működéséről és ha indikált, Holter monitorozást kell végezni;
+
+## (6) a tapasztalatok szerint a pacemaker hibák zöme a beültetés utáni első 3 hónapban jelentkezik. Ezért az alkalmas minősítés ezen idő leteltével mérlegelhető. Ismeretes, hogy bizonyos elektromos berendezésekkel a pacemaker interferálhat. Az adott pacemaker esetében meg kell győződni arról, hogy a készülék nem interferál a munkahelyi berendezésekkel. Az ezzel kapcsolatos információkról a pacemaker gyártója tud felvilágosítást adni.
+
+## 2.5. Általános irányelvek
+
+## 2.5. (a) Perifériás artériás betegség, műtét előtt vagy után a vizsgált személy nem alkalmas. Amennyiben nem áll fenn jelentős funkcionális károsodás, a szolgálat mérlegelheti az alkalmas minősítést a 2.5.1. (a) pont szerint.
+
+## 2.5.1. (a) A szolgálat mérlegelheti az alkalmas minősítést, ha nem áll fenn szignifikáns koszorúsér betegség vagy más helyen jelentősebb mértékű atheroma és az artéria által ellátott szervek működése nem károsodott. Terheléses EKG és duplex ultrang vizsgálat szükséges.
+
+## 2.5. (b) A mellkasi vagy hasi aorta aneurizma műtéte előtt vagy után a vizsgált személy nem alkalmas. Infra-renális hasi aorta aneurizma esetén, meghosszabbító vagy megújító vizsgálat alkalmával a szolgálat mérlegelheti az alkalmas minősítést a 2.5.1. (b) pont szerint.
+
+## 2.5.1. (b) Az artéria renalisok eredése alatti sikeresen operált, szövődmény mentes hasi aneurizma eseteiben, szív- és érrendszeri kivizsgálás után, a szolgálat mérlegelheti az orvosi minősítés kiadását.
+
+## 2.5. (c) Bármilyen jelentős szívbillentyű hiba esetén a vizsgált személy nem alkalmas.
+
+## 2.5. (d) Kisfokú szívbillentyű elváltozás esetén a vizsgált személyt alkalmasnak minősítheti a szolgálat, amennyiben klinikai állapota eleget tesz 2.5.1. (c) és (d) pontban leírtaknak.
+
+## 2.5.1. (c) A szolgálat által elfogadott kardiológus vizsgáljon ki minden korábban nem tisztázott szívzörejt. A jelentősnek vélt zörej esetén, a további kivizsgálás során legalább 2 D Doppler echokardiográfiát kell végezni.
+
+## 2.5.1. (d) Billentyűhibák
+
+## (1) A bicuspidalis aorta billentyű esetén a vizsgált személy korlátozás nélkül minősíthető alkalmasnak, amennyiben nincs egyéb kóros szív- vagy aorta elváltozás. Echokardiográfiás ellenőrzés 2 évente szükséges.
+
+## (2) Enyhe fokú aorta stenosis alkalmasnak minősíthető (25 Hgmm-nél kisebb nyomáskülönbség vagy a Dopplerrel mért áramlás 2m/sec értéknél kisebb). Évente 2 D echokardiográfiás vizsgálatot végezzen a szolgálat által elfogadott kardiológus.
+
+## (3) A klinikailag nem jelentős mértékű aorta inszufficiencia korlátozás nélkül is minősíthető alkalmasnak. Az aorta ascendensen – 2D Doppler echokardiográfiával vizsgálva nem lehet kimutatható elváltozás. Az évenkénti ellenőrzéseket a szolgálat által elfogadott kardiológus végezze.
+
+## (4) A reumás eredetű mitrális billentyű betegségek általában kizáró okot jelentenek. Mitrális billentyű prolapszus és enyhe fokú mitrális regurgitáció alkalmasnak minősíthető. Tünetmentes, izolált mezoszisztolés klikk esetében nem szükséges a korlátozás. Szövődménymentes enyhe fokú regurgitáció alkalmasnak minősíthető rendszeres kardiológiai ellenőrzés mellett.
+
+## (5) A bal kamra volumen-terhelése esetén, melyet a végdiasztolés átmérő növekedése jelez, a vizsgált személy nem alkalmas.
+
+## 2.5. (e) Szívbillentyű beültetés/plasztika után a vizsgált személy nem alkalmas. A szolgálat mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 2.5.1. (e) pontban leírtaknak.
+
+## 2.5.1. (e) Billentyű műtétek
+
+## (1) A műtét után 6 hónappal alkalmasnak minősíthető a vizsgált személy a következők alapján:
+
+## (i) 2 D echokardiográfia szerint normál billentyű és kamrai funkció;
+
+## (ii) tünethatárolt, a Bruce protokoll szerinti 4. fokozatú vagy azzal egyenértékű terheléses EKG vizsgálat, mely nem mutat jelentős eltérést;
+
+## (iii) igazoltan nem áll fenn koszorúsér-betegség, illetve sikeres revaszkularizáció történt;
+
+## (iv) kardiákumok szedése nem szükséges;
+
+## (v) a szolgálat által elfogadott kardiológus végezzen évente kontroll vizsgálatot, ami terheléses EKG és 2 Doppler echokardiográfiát is tartalmazzon.
+
+## (2) Mechanikus műbillentyű beültetés után a vizsgált személy alkalmas lehet, amennyiben az anticoaguláns terápia pontos beállítása jól dokumentált. A rizikó elemzésénél az életkort figyelembe kell venni.
+
+## 2.5. (f) A szisztémás alvadásgátló kezelés tüdőembolia vagy mélyvénás thrombózis esetén kizáró ok. Artériás tromboembólia veszélye miatti anticoaguláns kezelés is kizáró okot jelent. Pulmonális embolia után teljes kivizsgálás szükséges. A szolgálat mérlegelheti az alkalmas minősítést, amennyiben a klinikai állapot eleget tesz a 2.5.2. pontban leírtaknak.
+
+## 2.5.2. Részletes kivizsgálás után a szisztémás alvadásgátló kezelés tüdőembolia vagy mélyvénás thrombózis esetén alkalmasnak minősíthető, amennyiben a terápia stabil és a pontos beállítás jól dokumentált a szolgálat által elfogadott kezelőorvos véleménye alapján. Szubkután heparin terápia is elfogadható lehet a szolgálat által elfogadott kezelőorvos kedvező véleménye alapján.
+
+## 2.5. (g) A szívburok, szívizom vagy az endokardium minden eddig nem érintett rendellenessége kizáró ok. A szolgálat mérlegelheti az alkalmas minősítést az állapot teljes rendeződése után, amennyiben a kardiológiai kivizsgálás igazolja, hogy a vizsgált személy állapota eleget tesz a 2.5.3. pontban leírtaknak.
+
+## 2.5.3. Az epikardium, miokardium és/vagy endokardium primér vagy szekunder elváltozása esetén az egyén a részletes klinikai kivizsgálásig nem alkalmasként minősítendő. Az orvosi minősítéshez a következő vizsgálatok indikálhatók: 2D Doppler echokardiográfia, terheléses EKG és/vagy szcintigráfia/ terheléses echokardiográfia és 24 órás Holter EKG, koronária angiográfia.
+
+## 2.5. (h) A szív veleszületett fejlődési rendellenessége, műtét előtt vagy után kizáró okot jelent. Kisfokú rendellenesség esetén a szolgálat mérlegelheti az alkalmas minősítést, amennyiben a vizsgált személy kardiológiai nyomon követése eleget tesz a 2.5.4. pontban leírtaknak.
+
+## 2.5.4. A veleszületett szívbetegségek (műtéti korrekció után is) általában kizáró jellegűek, kivéve azokat a klinikailag nem jelentős eseteket, melyek gyógyszeres kezelést nem igényelnek. A szolgálatnak kardiológiai vizsgálatot kell végeztetnie. Ezek közé tartozhat: 2D Doppler echokardiográfia, terheléses EKG és 24 órás Holter EKG. Rendszeres kardiológiai ellenőrzés szükséges, melynek gyakoriságát a szolgálat által elfogadott kardiológus határozza meg.
+
+## 2.5. (i) A szív- és szív/tüdőtranszplantáció kizáró ok.
+
+## 2.5. (j) A vizsgált személy anamnézisében szereplő ismételten fellépő vasovagalis syncope kizáró okot jelent. A szolgálat mérlegelheti az alkalmasságot, amennyiben az előzményi adatok arra utalnak, hogy a vizsgált személy egészségi állapota megfelel a 2.5.5. pontban leírtaknak.
+
+## 2.5.5. Ismételt ájulásos rosszullétek után a következő vizsgálatokat kell végezni:
+
+## (a) tünethatárolt, a Bruce protokoll szerinti 4. fokozatú vagy azzal egyenértékű terheléses EKG vizsgálat, mely a szolgálat által elfogadott kardiológus véleménye szerint nem mutat jelentős eltérést. Kóros nyugalmi EKG esetén szívizom szcintigráfiát vagy terheléses echokardiográfiát kell végezni;
+
+## (b) 2D Doppler echokardiogram nem jelez jelentős szelektív kamrai megnagyobbodást, illetve a szív, a billentyűk és a szívizom szerkezeti vagy funkcionális károsodását;
+
+## (c) 24 órás ambuláns EKG monitorozás során nem észlelhető jelentős vezetési zavar, komplex vagy tartós (sustained) ritmuszavar, illetve szívizom isémia;
+
+## (d) a szolgálat által elfogadott kardiológus véleménye szerint, a standard módon végzett „billenőasztal” vizsgálat nem utal vazomotor instabilitásra.
+
+## Rendszerint neurológiai vizsgálat is indikált.
+
+## 3. Légzőszervek [EMCR(ATC)]
+
+## 3.1. Általános irányelvek
+
+## 3.1. (a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a légzőszervek olyan veleszületett vagy szerzett elváltozása, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## 3.1. (b) Hát/mell irányú mellkas röntgen vizsgálat rendelhető el a klinikai kép alapján.
+
+## 3.1. (c) Az első vizsgálat alkalmával légzésfunkciós vizsgálatot kell végezni (lásd a 3.1.1. pontot). Jelentős légzésfunkció károsodás esetén a vizsgált személy nem alkalmas.
+
+## 3.1.1. A 3. Osztályú orvosi minősítésre először jelentkezőnél spirometriás vizsgálatot kell végezni. Amennyiben a FEV1/FVC hányados 70%-nál kisebb, pulmonológiai szakvizsgálat szükséges.
+
+## 3.1. (d) Minden jelentős eltérést pulmonológus szakorvos vizsgáljon ki.
+
+## 3.2. Kóresetek
+
+## 3.2. (a) Súlyos krónikus obstruktív légúti megbetegedés kizáró okot jelent. Amennyiben indokolt, történjen pulmonológiai szakorvosi vizsgálat.
+
+## 3.2. (b) Gyógyszeres kezelést igénylő asthma esetén a vizsgált személyt a 3.2.1. pont szerint kell minősíteni.
+
+## 3.2.1. Ismétlődő asztmás rohamok esetén a vizsgált személy nem alkalmas. A 3. Egészségügyi Osztályú alkalmas minősítést akkor mérlegelheti a szolgálat, amennyiben az állapot, elfogadható légzésfunkciós értékek mellett, stabilnak tekinthető, és a szakszolgálati feladatok biztonságos ellátásával összeegyeztethető a gyógykezelés.
+
+## 3.2. (c) A légzőszervek aktív gyulladásos betegségei esetén ideiglenesen nem alkalmas a vizsgált személy.
+
+## 3.2. (d) Aktív szarkoidózis esetén a vizsgált személyt nem alkalmasnak kell minősíteni (lásd a 3.2.2. pontot).
+
+## 3.2.2. A szolgálat akkor mérlegelheti az alkalmasságot, ha:
+
+## (a) a kivizsgálás során kizárható más szervrendszerek érintettsége;
+
+## (b) a folyamat, mely kizárólag a hiláris nyirokcsomókra korlátozódik, inaktív és nem igényel gyógyszeres kezelést.
+
+## 3.2. (e) Spontán pneumothorax után a vizsgált személyt a 3.2.3. pontban leírt vizsgálatok függvényében kell minősíteni.
+
+## 3.2.3. Spontán pneumotorax
+
+## 3.2.3. (a) Teljes gyógyulás után az egyszeri spontán pneumotorax esetén a szolgálat akkor mérlegelheti az alkalmasságot ha a részletes pulmonológiai vizsgálat (MRI-t is beleértve) igazolja az állapot rendeződését.
+
+## 3.2.3. (b) Spontán pneumothorax után 6 héttel az állapot teljes rendeződése esetén a szolgálat mérlegelheti az orvosi minősítés meghosszabbítását vagy megújítását.
+
+## 3.2.3. (c) Az ismétlődő pneumothorax kizáró ok. Az alkalmas minősítést a szolgálat mérlegelheti a sikeres műtéti beavatkozás után, amennyiben rendezett a klinikai állapot.
+
+## 3.2. (f) Nagy mellkasi műtétet követően a vizsgált személy nem alkalmas, az alkalmasságot akkor lehet mérlegelni, amennyiben a műtét utáni állapot feltehetően már nem akadályozza a szakszolgálati feladatok biztonságos ellátását (lásd a 3.2.4. pontot). A műtétet szükségessé tevő alapbetegséget is mérlegelni kell a megújító/meghosszabbító minősítés során.
+
+## 3.2.4. Pneumonectomia vagy kisebb mellkassebészeti beavatkozások esetén az állapot teljes rendeződése után mérlegelhető a minősítés meghosszabbítása vagy megújítása, ha részletes pulmonológiai vizsgálat (MRI-t is beleértve) igazolja az állapot rendeződését.
+
+## 3.2. (g) A tüdőemphysema kizáró ok, lásd a 3.2.5. pontot.
+
+## 3.2.5. Alkalmas minősítést akkor mérlegelhet a szolgálat, ha nem okoz súlyos tüneteket.
+
+## 3.2. (h) Az aktív tuberkulózis kizáró ok, lásd a 3.2.6. pontot.
+
+## 3.2.6. Gyógyult vagy inaktív folyamat alkalmasnak minősíthető.
+
+## 3.2. (i) A kezeléssel nem befolyásolható légzési apnoe kizáró okot jelent, lásd a 3.2.7. pontot.
+
+## 3.2.7. Alvási apnoe esetén a minősítésnél figyelembe kell venni a tünetek súlyosságát, a kezelés eredményességét és a munkahelyi környezetet.
+
+## 4. Emésztőszervek [EMCR(ATC) 4]
+
+## 4.1. Általános irányelvek
+
+## 4.1. A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn az emésztő szervrendszer olyan funkcionális vagy szervi elváltozása, amely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## 4.2. Kóresetek
+
+## 4.2. (a) Visszatérő, gyógyszeres kezelést igénylő diszpepsziás betegséggel a jelentkező nem alkalmas, azonban lásd a 4.2.1. (a) és (c) pontot.
+
+## 4.2.1. (a) A vizsgálatra jelentkezőt visszatérő, gyógyszeres kezelést igénylő diszpepsziás panaszok esetén ki kell vizsgálni (radiológiai vagy endoszkópos úton).
+
+## Szérum hemoglobin és széklet vizsgálat szükséges. Kimutatott fekély vagy jelentős gyulladásos folyamat esetén a minősítés megújítása vagy meghosszabbítása előtt igazolni kell a gyógyulást.
+
+## 4.2.1. (b) A szolgálat mérlegelheti az alkalmas minősítést, ha a kiváltó tényező vagy az elzáródás okozója (gyógyszer, kő stb.) eltávolításra került.
+
+## 4.2.1. (c) A diszpepszia és a pankreatitisz összefügghet az alkoholfogyasztással. Szükség szerint tisztázni kell az alkoholfogyasztás jellegét és kizárni az abúzust/dependenciát.
+
+## 4.2. (b) A hasnyálmirigy gyulladás kizáró ok, azonban lásd a 4.2.1. (b) és (c) pontot.
+
+## 4.2. (c) Tünetekkel járó egy vagy több epekő kizáró okot jelent a sikeres kezelésig, lásd a 4.2.2. pontot.
+
+## 4.2.2. A tünetmentes, szoliter epekő esetén a szolgálat mérlegelheti az alkalmas minősítést. Tünetmentes munltiplex kövesség esetén a vizsgált személy alkalmas lehet a vizsgálati leletek függvényében, amíg a vizsgálatokra vagy kezelésre vár.
+
+## 4.2. (d) A vizsgált személyt nem alkalmasként kell minősíteni, amennyiben krónikus bélgyulladás áll fenn vagy szerepel az anamnézisben (regionalis ileitis, ulcerative colitis, diverticulitis), lásd a 4.2.3. pontot.
+
+## 4.2.3. A vastagbél gyulladásos jellegű betegségeinek minősítése akkor mérlegelhető, ha teljes remisszió van, az állapot stabil és semmiféle vagy csak minimális fenntartó kezelés szükséges. A további rendszeres ellenőrzést elő kell írni.
+
+## 4.2. (e) A vizsgált személynek nem lehet olyan jellegű sérve, mely a cselekvőképesség beszűkülésének veszélyével járhat.
+
+## 4.2. (f) Alkalmatlanságot jelent az emésztőrendszer minden műtéti vagy betegség utáni szövődményes esete, ami veszélyeztetheti a szakszolgálati feladatok biztonságos ellátását, különös tekintettel szűkület vagy kompresszió miatti passzázs akadályokra.
+
+## 4.2. (g) Az emésztőrendszeren végzett műtétek után – ideértve egyes részek teljes vagy részleges eltávolítását, áthelyezését is – a vizsgált személy nem alkalmas, lásd a 4.2.4. pontot.
+
+## 4.2.4. Hasi műtét után legalább 3 hónapig nem alkalmas a vizsgált személy. Abban az esetben, ha teljes a gyógyulás, tünetmentes a beteg és minimális veszélye van szövődmény fellépésének vagy kiújulásának, a szolgálat mérlegelheti rövidebb időn belül is az alkalmas minősítést meghosszabbítás vagy megújítás esetén. Fontos szempont, hogy az aktuális állapot ne akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## 5. Az anyagcsere, táplálkozás és hormonális rendszer betegségei [EMCR(ATC) 5]
+
+## 5.1. (a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan funkcionális, illetve szervi jellegű anyagcsere, táplálkozási vagy hormonális betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## 5.1. (b) Az a vizsgált személy, akinél anyagcsere, táplálkozási vagy hormonális rendellenesség áll fenn, nem alkalmas (lásd az 5.1.1. pontot).
+
+## 5.1.1. Az anyagcsere, táplálkozás vagy hormonális rendszer funkciózavara kizáró ok. A szolgálat mérlegelheti az alkalmas minősítést abban az esetben, ha az egyén tünetmentes, klinikailag egyensúlyban van és stabilan kompenzált hormonpótló kezeléssel vagy anélkül, és rendszeres szakgondozás alatt áll.
+
+## 5.1. (c) Az endokrin szerveken végzett műtét kizáró okot jelent. A teljes gyógyulás után mérlegelheti a szolgálat az alkalmasság minősítését az 5.1.1. pont szerint
+
+## 5.1. (d) Diabetes mellitus esetén a vizsgált személy nem alkalmas (lásd az 5.1.2. és az 5.1.3. pontot).
+
+## 5.1.2. A glukózúriát és az emelkedett vércukorszintet ki kell vizsgálni. A szolgálat mérlegelheti az alkalmas minősítést normál glukózterhelés esetén (alacsony veseküszöb) vagy csökkent glukóz tolerancia esetén – diabeteses szövődmény nélkül – kizárólag diéta és rendszeres ellenőrzés mellett.
+
+## 5.1.3. Biguanid származékokkal vagy alpha-glukozidáze gátlókkal vagy glitazonnal, jól beállított esetekben – diabetes szövődmény kizárása után – mérlegelhető az alkalmas minősítés 2-es típusú diabetes esetén, mivel ezek a szerek nem okoznak hypoglikémiát.
+
+## 5.1. (e) Inzulintherápia esetén a vizsgált személy nem alkalmas.
+
+## 5.1. (f) Az antidiabetikus gyógyszeres terápia kizáró okot jelent, de lásd az 5.1.3. pontot.
+
+## 6. Vérképző rendszer [EMCR(ATC) 6]
+
+## 6.1. (a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan hematológiai elváltozás, mely befolyásolhatja a szakszolgálati feladatok biztonságos ellátását.
+
+## 6.1. (b) Vérvizsgálatot minden vizsgálat alkalmával el kell végezni, 40 éves korig kétévente, utána évente, illetve klinikai indikáció alapján, lásd a 6.6.1. pontot.
+
+## 6.1.1. A szolgálat meghatározhatja a laboratóriumi vizsgálatok terjedelmét.
+
+## 6.1.2. A csökkent hemoglobin értékkel járó anémiát ki kell vizsgálni. A terápiásan nem befolyásolható anémia kizáró okot jelent. A szolgálat mérlegelheti az alkalmas minősítést, amennyiben az anémia oki terápiája sikeres volt (pl. vashiány, B12 hiány esetén), a haematokrit érték stabil (javasolt a 11–17 g/dl érték), illetve a thalasszaemia minor vagy haemoglobinopatia esetén az anamnézisben nem szerepel krízis és a beteg funkcionális állapota igazoltan megfelelő.
+
+## 6.1. (c) A nyirokcsomók jelentős lokális vagy generalizált megnagyobbodása és vérképző szervi megbetegedés esetén a vizsgált személy nem alkalmas (lásd a 6.1.3. pontot).
+
+## 6.1.3. A nyirokcsomó megnagyobbodást ki kell vizsgálni. A szolgálat mérlegelheti az alkalmas minősítést, amennyiben a gyulladásos folyamat teljes mértékben gyógyult, illetve a kezelt Hodgkin limfóma teljes remisszióban van. Egyes kemoterápiás szereknek hosszú távú mellékhatásai lehetnek, így alkalmazásukkor erre figyelemmel kell lenni a későbbiek során.
+
+## 6.1. (d) Akut leukémia esetén a vizsgált személy nem alkalmas. Az először jelentkezőknél a krónikus leukémia kizáró okot jelent (a meghosszabbítás vagy megújítás esetét a 6.1.4. pont szerint kell elbírálni).
+
+## 6.1.4. A krónikus leukémia alkalmas minősítését meghosszabbítás vagy megújítás esetén mérlegelheti a szolgálat, az O vagy I. (esetleg II.) stádiumú anémia nélkül minimális therápia mellett vagy „hajas sejtes” leukémia esetén normál hemoglobin és thrombocita szám mellett. Rendszeres ellenőrző vizsgálat szükséges.
+
+## 6.1. (e) Jelentős lépmegnagyobbodás esetén a vizsgált személy nem alkalmas, lásd a 6.1.5. pontot.
+
+## 6.1.5. A lépnagyobbodást ki kell vizsgálni. A szolgálat mérlegelheti az alkalmas minősítést, ha a lépnagyobbodás minimális, stabil és nem áll más kórfolyamat a háttérben (pl. kezelt krónikus malária), vagy a minimális lépnagyobbodás hátterében a minősítéssel összeegyeztethető megbetegedés áll (pl. teljes remisszióban lévő Hodgkin limfóma). A lépeltávolítás nem zárja ki az alkalmas minősítést, a minősítést egyéni alapon kell elbírálni.
+
+## 6.1. (f) Policitémia esetén a vizsgált személy nem alkalmas, lásd a 6.1.6. pontot. A szolgálat akkor mérlegelheti az alkalmas minősítést, ha az állapot egyensúlyban van és az ellenőrzések pontosan dokumentáltak.
+
+## 6.1.6. A policitémiát ki kell vizsgálni. A szolgálat mérlegelheti az alkalmas minősítést, amennyiben az állapot stabil és nem áll más kóros folyamat a háttérben.
+
+## 6.1. (g) Alvadási zavar esetén a vizsgált személy nem alkalmas, lásd a 6.1.7. és 6.1.8. pontot.
+
+## 6.1.7. A klinikailag jelentős alvadási zavart ki kell vizsgálni. A szolgálat mérlegelheti az alkalmas minősítést, amennyiben nem szerepel a kórelőzményben jelentősebb vérzés vagy trombózis és a hematológiai leletek az állapot rendezettségére utalnak.
+
+## 6.1.8. Az antikoaguláns terápiával kapcsolatos szempontokat és teendőket a 2.5.2. pont írja le.
+
+## 7. Húgyúti szervek [EMCR(ATC) 7]
+
+## 7.1. (a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a húgyúti vagy környéki szervek olyan funkcionális vagy szervi elváltozása, mely befolyásolhatja a szakszolgálati feladatok biztonságos ellátását.
+
+## 7.1. (b) Az organikus vesebetegség bármely tünete esetén a vizsgált személy nem alkalmas. Minden vizsgálat alkalmával vizeletvizsgálatot kell végezni. A vizeletben nem lehet kóros elem. Különös figyelemmel kell lenni a húgyúti rendszer és a nemi szervek betegségeire, lásd a 7.1.1. pontot.
+
+## 7.1.1. A kóros laboratóriumi vizeletlelet okát ki kell vizsgálni. A kivizsgálásnak különösen ki kell terjednie a fehérje, vér és cukor ürítésre.
+
+## 7.1. (c) Kimutatott vesekövesség esetén a vizsgált személy nem alkalmas, lásd a 7.1.2. pontot.
+
+## 7.1.2. A tünetmentes húgyúti kő vagy a kórelőzményben szereplő vesekólika esetén kivizsgálás szükséges. Sikeres gyógykezelés után mérlegelhető az alkalmas minősítés a szolgálat által elfogadott szakorvos megfelelő ellenőrzése mellett. Reziduális kő kizáró okot jelent, kivéve ha elhelyezkedésénél fogva csekély a kimozdulásnak, illetve tünetek kiváltásának az esélye.
+
+## 7.1. (d) A vese vagy húgyúti rendszer betegsége vagy műtéte utáni szövődmény esetén, ha fennáll a cselekvőképtelenség lehetősége, a vizsgált személy nem alkalmas. Kompenzált nefrectomia után, ha az nem jár magas vérnyomással vagy urémiával, mérlegelhető az alkalmasság a 7.1.3. pont szerint.
+
+## 7.1.3. Kiterjedt urológiai műtét után nem alkalmas a vizsgált személy. A szolgálat mérlegelheti a minősítést, amennyiben teljesen tünetmentes a vizsgált személy és minimális a szövődmények vagy kiújulás veszélye.
+
+## 7.1. (e) Húgyúti szervek kiterjedt műtéte után vagy azok részleges vagy teljes csonkolása, áthelyezése után a vizsgált személy nem alkalmas addig, amíg állapota teljesen nem rendeződik és teszi lehetővé a szakszolgálati feladatok biztonságos ellátását, lásd a 7.1.3. és 7.1.4. pontot.
+
+## 7.1.4. Veseátültetés vagy teljes húgyhólyag eltávolítás kizáró okot jelent az első minősítés alkalmával. Meghosszabbítás vagy megújítás esetén a szolgálat mérlegelheti az alkalmas minősítést, ha:
+
+## (a) 12 hónappal a műtét után az átültetett vese funkciója teljesen kompenzált és a beteg jól tűri a minimális fenntartó immunoszupresszív kezelést;
+
+## (b) teljes húgyhólyag eltávolítás után a beteg funkcionális állapota rendezett és nincs gyanú a folyamat kiújulására.
+
+## 8. Nemi úton terjedő és más fertőző betegségek [EMCR(ATC) 8]
+
+## 8.1. (a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem szerepelhet a kórelőzményben vagy nem állhat fenn nemi úton terjedő vagy más fertőző betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását (lásd a 8.1.1. pontot).
+
+## 8.1.1. Különös figyelemmel kell kísérni azokat az eseteket, amikor az alábbiak szerepelnek a kórelőzményben vagy ezek klinikai gyanúja merül fel:
+
+## (1) HIV pozitivitás,
+
+## (2) immunrendszer zavara,
+
+## (3) fertőző májgyulladás,
+
+## (4) szifilisz.
+
+## 8.1. (b) Nem alkalmas az a HIV fertőzött vizsgált személy, akinél az AIDS betegség tünetei jelentkeznek vagy a központi idegrendszer érintettsége mutatható ki. A HIV pozitív egyének minősítésének meghosszabbítása vagy megújítása a 8.1.1–8.1.3. pont szerint mérlegelhető.
+
+## 8.1.2. Nincs kötelező HIV szűrés, a vizsgálatot klinikai indikáció alapján kell elvégezni. HIV pozitivitás bizonyítottsága esetén a vizsgálatok és ellenőrzések szigorú rendjét kell bevezetni, hogy az egyén képes legyen a szakszolgálati feladatok biztonságos ellátására. Az egyéni terápiás tervet a szolgálat által elfogadott szakorvos segítségével kell felállítani.
+
+## 8.1.3. Hirtelen cselekvőképtelenséget okozó görcsroham vagy rejtett cselekvőképesség beszűkülést okozó kognitív működési zavar ismert megjelenési formája a HIV betegségnek, ezért a HIV pozitív egyének rendszeres neurológiai vizsgálata is szükséges.
+
+## 8.1. (c) A szifilisz diagnózisa nem jelent kizáró okot. A betegség tünetei, illetve szövődményei, amennyiben akadályozzák a szakszolgálati feladatok biztonságos ellátását, kizáró okot jelentenek (lásd a 8.1.4. pontot).
+
+## 8.1.4. A szolgálat akkor mérlegelheti az alkalmas minősítést, ha az 1. vagy 2. stádium teljes gyógykezelése befejeződött és gyógyultnak nyilvánították a vizsgált személyt.
+
+## 9. Nőgyógyászat és szülészet [EMCR(ATC) 9]
+
+## 9.1. (a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan funkcionális, illetve szervi jellegű nőgyógyászati elváltozás, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## 9.1. (b) Amennyiben a nőgyógyászati vizsgálat során teljesen normál terhességet állapítottak meg, a vizsgált személy alkalmasnak minősíthető a 34. terhességi hétig.
+
+## 9.1.1. Ilyen esetben a szolgálat írásban tájékoztatja a szakszolgálati engedélyest és a nőgyógyász kezelőorvost arról, hogy a szakszolgálati tevékenység milyen veszélyt jelenthet a terhességre.
+
+## 9.1.2. Szülés vagy terhesség megszakítása után az állapot teljes rendeződése esetén a szakszolgálati tevékenység folytatható.
+
+## 9.1. (c) Kiterjedt nőgyógyászati műtét után a vizsgált személy nem alkalmas, lásd a 9.1.3. pontot.
+
+## 9.1.3. Nagyobb nőgyógyászati műtét után a vizsgált személy nem alkalmas. A szolgálat abban az esetben mérlegelheti a minősítés meghosszabbítását vagy megújítását, ha a szakszolgálati engedélyes teljesen tünet- és panaszmentes, minimális az esély a kiújulásra vagy szövődmények kialakulására.
+
+## 10. Mozgásszervi követelmények [EMCR(ATC) 10]
+
+## 10.1. (a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a csontrendszer, ízületek, izmok vagy inak olyan veleszületett vagy szerzett betegsége, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását (lásd a 10.1.1. és 10.1.2. pontot).
+
+## 10.1.1. Kóros fizikai állapot minősítésekor, ideértve az elhízást vagy izomgyengeséget is, egészségügyi szempontból a munkaképesség munkahelyi ellenőrzésére lehet szükség a szolgálat ellenőrzése mellett.
+
+## 10.1.2. A mozgásszervek súlyos funkció zavara, amputáció, rosszindulatú betegségei és progresszív betegségei esetén az alkalmasságot egyénileg kell mérlegelni. A szolgálat a szakmai vezetéssel együtt elemzi a szakszolgálati feladatok ellátásának képességét, figyelembe véve a feladat komplexitását és az egyén jártasságát.
+
+## 10.1. (b) A kóros elhízásban szenvedő vizsgált személy nem alkalmas (lásd a 10.1.3. pontot).
+
+## 10.1.3. A minősítés alkalmával a vizsgált személy életkorát és testtömeg indexét figyelembe kell venni.
+
+## 10.1. (c) A csontrendszer, ízületek, izmok vagy inak veleszületett elváltozásai vagy progresszív betegségei, jelentős funkció beszűkülése esetén a vizsgált személy nem alkalmas (lásd a 10.1.4. pontot).
+
+## 10.1.4. A mozgásszervek gyulladásos, infiltratív vagy degeneratív elváltozásai lehetnek veleszületettek vagy szerzettek. A funkciók beszűkülését abból a szempontból kell megitélni, hogy képes-e az egyén a szakszolgálati feladatok biztonságos ellátására. A vizsgált személy ne szedjen olyan gyógyszert, mely nem egyeztethető össze a szakszolgálati feladatok biztonságos ellátásával (lásd a 10.1.2. pontot).
+
+## 10.1.5. Végtaghiány esetén, művégtaggal vagy anélkül, a minősítés meghosszabbítása vagy megújítása a munkahelyi ellenőrzés függvényében lehetséges (lásd a 10.1.2. pontot).
+
+## 11. Pszichiátriai és pszichológiai követelmények [EMCR(ATC) 11]
+
+## 11.1. Pszichiátriai követelmények
+
+## 11.1. (a) A 3. Osztályú orvosi minősítésre először jelentkezőnél nem szerepelhet a kórelőzményben vagy nem állhat fenn semmiféle öröklött vagy szerzett, akut vagy krónikus pszichiátriai betegség vagy rendellenesség, amely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## 11.1.1. Az ide tartozó esetek nagyon összetettek. A vizsgálatokhoz és a minősítéshez útmutatóul használható a JAR-FCL 3 kézikönyvének (a továbbiakban: Kézikönyv) pszichiátriai fejezete.
+
+## 11.1. (b) Különös figyelemmel kell lenni a következő kóresetekre (lásd a 11.1.1–11.1.5. pontot):
+
+## (1) pszichotikus tünetek;
+
+## (2) hangulati élet zavara;
+
+## (3) személyiség zavarok, különösen, ha olyan súlyosak, hogy nyilvánvaló tüneteket okoznak;
+
+## (4) mentális rendellenességek és neurózis;
+
+## (5) pszichotróp szerek használata vagy abúzusa, alkohol abúzus függőséggel vagy anélkül.
+
+## 11.1.2. Az orvosi minősítést csak akkor mérlegelheti a szolgálat, ha a korábbi diagnózis pontatlan vagy helytelen volt, illetve egyszeri toxikus epizód okozta a tüneteket.
+
+## 11.1.3. A szolgálat mérlegelheti a minősítést az eset részletes pszichiáteri elemzésére alapozva, függően az eset típusától és súlyosságától és ha a pszichotróp gyógyszerek szedését már elégséges ideje abbahagyták.
+
+## 11.1.4. Az állapot teljes rendeződése után a szolgálat mérlegelheti az orvosi minősítést az eset részletes elemzését követően, és szükség lehet pszichológiai vagy pszichiátriai vizsgálatra is.
+
+## 11.1.5. 2 év dokumentált absztinencia vagy drogmentesség után a szolgálat mérlegelheti a minősítést. A minősítés megújítását korábban is mérlegelheti a szolgálat, kezelésnek és ellenőrzésnek a következőket kell magában foglalni:
+
+## (a) intézeti kezelés;
+
+## (b) folyamatos ellenőrzés, melyet a hatóság által elfogadott pszichiáter végez;
+
+## (c) a továbbiakban is folyamatos ellenőrzés, rendszeres vérvizsgálat és szakmai értékelés szükséges legalább 3 évig.
+
+## 11.1. (c) Pszichotikus tünetekkel járó állapot kizáró okot jelent (lásd a 11.1.2. pontot).
+
+## 11.1. (d) A neurózis megállapítása kizáró okot jelent (lásd a 11.1.3. pontot).
+
+## 11.1. (e) Egyetlen autoagresszív esemény vagy a környezet számára nyilvánvaló viselkedési zavar ismétlődése kizáró okot jelent (lásd a 11.1.4. pontot).
+
+## 11.1. (f) Az alkohol, vagy más drogok okozta mentális vagy viselkedési zavar, függőséggel vagy anélkül kizáró okot jelent (lásd a 11.1.5. pontot).
+
+## 11.2. (a) A vizsgált személynél nem állhat fenn a stressztűrő képesség oly mértékű beszűkülése/zavara, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását (továbbá lásd a 11.2.2. és 11.2.3. pontot).
+
+## 11.2.1. A pszichiátriai kezelés során fontos szerepe van pszichológiai vizsgálatnak az eset minél alaposabb megítélésében.
+
+## 11.2.2. Amikor a stressztűrő képesség beszűkülése a szakszolgálati munkát befolyásolja, a pszichológiai vizsgálatot a szolgálat által elfogadott pszichológus végezze [lásd a 11.2. (c) pontot].
+
+## 11.2.3. A stressz kezelése a következőket jelenti:
+
+## a) megbirkózni a nagy munkaterheléssel,
+
+## b) leküzdeni az unalmat,
+
+## c) a munka utáni lazítás képessége,
+
+## d) a szorongás és félelem kontroll alatt tartása,
+
+## e) a kritikus helyzetek kezelésének képessége.
+
+## A fenti készségek bármelyikének hiánya esetén az egyént a szolgálat által elfogadott szakemberhez kell irányítani [lásd a 11.2. (c) pontot].
+
+## 11.2. (b) A 3. Osztályú minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan pszichológiai eltérés, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását (lásd a 11.2.2–11.2.4. pontot).
+
+## 11.2.4. A szolgálat által elrendelt pszichológiai vizsgálat lehet a neurológiai vagy pszichiátriai vizsgálat része vagy kiegészítője. A szolgálat akkor rendelheti el a pszichológiai vizsgálatot, ha olyan információk birtokába jut, melyek alapján megkérdőjelezhető az egyén alkalmassága mentális vagy személyiség tulajdonságok alapján. Ilyen információ forrásai a következők lehetnek: repülőesemény vagy katasztrófa, a szakmai képzés/tréning vagy vizsga, szakmai mulasztás vagy ismerethiány, mely befolyásolja a szakszolgálati feladatok biztonságos ellátását.
+
+## 11.2. (c) Amennyiben pszichológiai vizsgálat indikált, azt repülésben és az irányítói munkában jártas, a szolgálat által elfogadott pszichológus végezze. A vizsgálat neurológus vagy pszichiáter irányításával történjék (lásd a 11.2.2. pontot).
+
+## 11.2.5. A pszichológiai vizsgálat széleskörű legyen és a következő részekből álljon: anamnézis felvétel, pszichológiai exploráció, képesség- és személyiségtesztek.
+
+## 12. Neurológiai követelmények (EMCR(ATC) 12)
+
+## 12.1. (a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn semmilyen funkcionális, illetve szervi jellegű neurológiai betegség, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását.
+
+## 12.1. (b) A következő klinikai esetek kizáró okot jelentenek:
+
+## (1) idegrendszer progresszív betegségei;
+
+## (2) epilepszia;
+
+## (3) cerebrális funkciózavarra fokozottan hajlamosító állapotok (lásd a 12.1.1–12.1.5. pontot).
+
+## 12.1.1. Az idegrendszer minden progresszív jellegű betegsége kizáró okot jelent. A szolgálat által elfogadott szakorvos részletes vizsgálata alapján a szolgálat mérlegelheti az egyéni elbírálást azokban a kisfokú elváltozással járó krónikus esetekben, amikor az állapot stabilnak tekinthető és nem progresszív jellegű.
+
+## 12.1.2. Az epilepszia diagnózisa kizáró okot jelent. Egy vagy több epilepsziás roham az 5. életév után kizáró okot jelent. Amennyiben az egyén 10 éve roham- és gyógyszermentes, lehetséges az alkalmas minősítés. Az egyszeri epizód után a szolgálat mérlegelheti az alkalmas minősítést, amennyiben az ok kellően tisztázott, nem ismétlődő jellegű, mint a traumás vagy toxikus eredetű.
+
+## 12.1.3. A Rolandikus epilepsziás epizód, amennyiben pontosan tisztázott és dokumentált, a tipikus EEG lelettel együtt alkalmasnak minősíthető. Ebben az esetben a vizsgált személy legalább 10 éve legyen roham- és gyógyszermentes.
+
+## 12.1.4. EEG vizsgálatot akkor kell végezni, amikor az a kórelőzmény vagy klinikai kép alapján indikált.
+
+## 12.1.5. Paroxizmális EEG eltérések kizáró okot jelentenek.
+
+## 12.1. (c) A következő esetek a szolgálat által elfogadott szakorvos által végzett teljes kivizsgálás után alkalmasnak minősíthetők:
+
+## (1) eszméletvesztés vagy tudatzavar;
+
+## (2) traumás agysérülés (lásd a 12.1.6. és 12.1.7. pontot).
+
+## 12.1.6. A kórelőzményben szereplő egyszeri vagy ismételt tudatzavar kizáró ok. A szolgálat akkor minősítheti alkalmasnak, ha az eset pontosan tisztázott, az ismétlődésre kicsi az esély és részletes neurológiai kivizsgálás történt.
+
+## 12.1.7. Minden koponyasérüléssel járó traumás esetet a szolgálat minősít, a szolgálat által elfogadott neurológus véleménye alapján. A minősítés a teljes gyógyulás után mérlegelhető, és amennyiben a szolgálat számára elfogadhatóan alacsony az epilepsziás roham esélye.
+
+## 13. Szemészeti követelmények [EMCR(ATC) 13]
+
+## 13.1. (a) A 3. Osztályú orvosi minősítésre először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn a szem, illetve a szem védőszerveinek veleszületett vagy szerzett, akut vagy krónikus funkciózavara, illetve műtét/baleset utáni állapota, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását (lásd a 13.1.2. pontot).
+
+## 13.1.1. A szolgálat által elfogadott szemész szakorvos ismerje a légiforgalmi irányítók munkahelyi körülményeit és a szakszolgálati feladatok speciális funkcionális követelményeit.
+
+## 13.1.2. Szemészeti vizsgálatot szükséges végezni az első vizsgálat alkalmával, a szolgálat által elfogadott szemész szakorvosnál, mely a következőkből áll:
+
+## (1) kórelőzmény;
+
+## (2) látóélesség közelre, közbenső távolságra és távolra: korrekció nélkül; a legjobb optikai korrekcióval, ha szükséges;
+
+## (3) objektív refrakció mérés. Távollátóknál 25 év alatt cikloplégiában;
+
+## (4) szemmozgások és kétszemes látás;
+
+## (5) színlátás;
+
+## (6) látótér;
+
+## (7) szemnyomás mérés klinikai indikáció alapján és 40 év felett;
+
+## (8) a szem külső vizsgálata, anatómiai viszonyok, törőközegek (réslámpa) és szemfenék vizsgálat;
+
+## (9) a kontrasztérzékenység vizsgálata.
+
+## 13.1. (b) Kibővített szemészeti vizsgálatot az első alkalommal kell végezni (lásd a 13.1.2. pontot).
+
+## 13.1. (c) Az orvosi minősítés meghosszabbítása, illetve megújítása alkalmával a szem rutin vizsgálatát kell végezni (lásd a 13.1.3. pontot).
+
+## 13.1.3. A szem rutin vizsgálatát minden esetben el kell végezni az orvosi minősítés meghosszabbítása, illetve megújítása alkalmával. A látási funkciók vizsgálata mellett figyelemmel kell lenni az esetleges kóros elváltozásokra. A vizsgálatnak a következőkből kell állnia:
+
+## (1) kórelőzmény;
+
+## (2) látóélesség közelre, közbenső távolságra és távolra: korrekció nélkül; a legjobb optikai korrekcióval, ha szükséges;
+
+## (3) a szem morfológiai viszonyainak vizsgálata szemtükörrel;
+
+## (4) klinikai indikáció alapján további vizsgálatok.
+
+## Bármilyen kóros vagy kétséges esetet a szolgálat által elfogadott szemész szakorvos vizsgáljon meg.
+
+## 13.1. (d) A szolgálat által elfogadott szemész szakorvos végezzen vizsgálatot, ha az orvosi minősítés meghosszabbítása, illetve megújítása alkalmával végzett vizsgálat során a korábbiakhoz képest jelentős változást észleltek, illetve a látási követelmények (6/9 (0,7), 6/9 (0,7), 6/6 (1,0), N14, N5) csak korrekcióval érhetők el. Abban az esetben, amikor a refrakciós hiba a +5 és –6 dioptria tartományban van, a vizsgálatot 5 évente kell elvégezni, a repülőorvosi vizsgálatot megelőzően. Amikor a refrakciós hiba a fenti tartományon kívül esik, a vizsgálatot 24 havonta kell elvégezni, a repülőorvosi vizsgálatot megelőzően (lásd a 13.1.4. pontot).
+
+## 13.1.4. A vizsgálat a következőkből álljon:
+
+## (1) kórelőzmény;
+
+## (2) látóélesség közelre, közbenső távolságra és távolra: korrekció nélkül; a legjobb optikai korrekcióval, ha szükséges;
+
+## (3) refrakció;
+
+## (4) szemmozgások és kétszemes látás;
+
+## (5) látótér;
+
+## (6) szemnyomásmérés 40 év felett;
+
+## (7) a szem külső vizsgálata, anatómiai viszonyok, törőközegek (réslámpa) és szemfenék vizsgálat.
+
+## A leletet a szolgálathoz kell továbbítani. Bármilyen kóros eltérés esetén, amikor kétséges a vizsgált személy szemének épsége, további szemészeti vizsgálat szükséges.
+
+## 13.1. (e) A 3. Osztályú orvosi minősítés birtokosánál 40 év felett 24 havonta kell szemnyomást mérni, a repülőorvosi vizsgálatot megelőzően.
+
+## 13.1. (f) Látóélesség javító műtét után a vizsgált személy nem alkalmas (a továbbiakat lásd a 13.1.5. pontnál).
+
+## 13.1.5. A látóélesség javító műtét után a szolgálat mérlegelheti az orvosi minősítést, amennyiben:
+
+## (a) a műtét előtti refrakciós hiba kisebb +5/–6 dioptriánál;
+
+## (b) megfelelően stabil fénytörő képességet sikerült elérni (a napi ingadozás 0.75 dioptrián belül van);
+
+## (c) a szemészeti vizsgálat nem jelez műtét utáni szövődményt;
+
+## (d) a káprázási szenzitivitás a normál értékeken belüli;
+
+## (e) nem károsodott a mezopikus kontraszt szenzitivitás; és
+
+## (f) az AMS által elfogadott szemész szakorvos felülvizsgálata történt.
+
+## 13.1. (g) Minden egyéb szemészeti műtét kizáró okot jelent (a továbbiakban: lásd a 13.1.6. pontot).
+
+## 13.1.6. (a) Szürkehályog műtét. A műtét után 2 hónappal mérlegelheti minősítést a szolgálat, amennyiben a látás követelményeit teljesíti a vizsgált személy, kontakt- vagy intraokuláris lencsével. Csak a monofokális és nem színezett intraokuláris lencse engedélyezhető.
+
+## (b) Retina műtét. Sikeres műtét után 6 hónappal mérlegelheti a szolgálat az orvosi minősítést. Lézeres retina terápia után a szolgálat mérlegelheti az alkalmas minősítést. A továbbiakban évenkénti szemészeti ellenőrzés szükséges.
+
+## (c) Zöldhályog műtét. Sikeres műtét után 6 hónappal mérlegelheti a szolgálat az orvosi minősítést. A továbbiakban félévente szükséges szemészeti ellenőrzés.
+
+## (d) A külső szemizmok műtétei. A beavatkozás után 6 hónappal mérlegelheti a szolgálat az orvosi minősítést. A szükséges vizsgálatokat a szolgálat által elfogadott szemész végezze.
+
+## 13.1. (h) A keratokónusz kizáró ok. A szolgálat mérlegelheti a minősítés meghosszabbítását vagy megújítását, ha a vizsgált személy eleget tesz a látóélesség követelményeinek (lásd a 13.1.7. pontot).
+
+## 13.1.7 Keratokónusz esetén a szolgálat az alábbi feltételek mellett mérlegelheti az orvosi minősítést meghosszabbító vagy megújító vizsgálat alkalmával:
+
+## (a) a vizsgált személy korrekciós lencsével teljesíti a látási követelményeket;
+
+## (b) a szolgálat által elfogadott szemész felülvizsgálata szükséges a szolgálat által meghatározott időszakonként.
+
+## 14. A látóélesség követelményei [EMCR(ATC) 14]
+
+## 14.1. (a) A távoli látóélesség mindkét szemen külön-külön, legalább 6/9 (0.7) legyen, korrekcióval vagy anélkül, és a két szemes látóélesség legalább 6/6 legyen. A vizsgálathoz Snellen vagy azzal egyenértékű táblát kell használni megfelelő világítási körülményeket biztosítva [lásd alább a 14.1. (i) pontot].
+
+## 14.1.1. Amennyiben klinikai adatok alátámasztják, hogy a Snellen táblázat nem megfelelő, akkor a Landolt ’C’ tábla alkalmazható a látóélesség meghatározására.
+
+## 14.1. (b) Fénytörési hiba. A fénytörési hiba azon dioptriában kifejezett érték, mely jelzi az emmetrópiától való eltérést a legnagyobb ametróp meridiánon. A fénytörést az általánosan elfogadott módszerrel kell mérni. A vizsgált személy, a fénytörési hibát tekintve, a következő követelmények teljesülése esetén alkalmas:
+
+## 14.1. (c) Az első vizsgálat alkalmával alkalmas minősítés adható ki, ha a fénytörési hiba +5 és –6 dioptria határok közötti, és
+
+## (1) kizárható a szem kóros elváltozása;
+
+## (2) az optimális korrekciót jól megfontolták;
+
+## (3) a szolgálat által elfogadott szemész szakorvos 5 évenkénti felülvizsgálata szükséges (lásd a 14.1.2. pontot).
+
+## 14.1.2. Az orvosi minősítést meghosszabbító vagy megújító vizsgálat alkalmával +5 és –6 dioptriánál nagyobb fénytörési hiba esetén, a szolgálat mérlegelheti az orvosi minősítés újbóli megadását, a következők szerint:
+
+## (1) kizárható a szem kóros elváltozása;
+
+## (2) az optimális korrekciót jól megfontolták;
+
+## (3) a szolgálat által elfogadott szemész szakorvos 2 évenkénti felülvizsgálata szükséges.
+
+## 14.1. (d) Az első vizsgálat alkalmával az astigmia mértéke nem haladhatja meg a 2.0 dioptriát.
+
+## 14.1.3. Astigmia esetén az orvosi minősítést meghosszabbító vagy megújító vizsgálat alkalmával, a szolgálat által elfogadott szemészeti lelet alapján mérlegelhető az alkalmasság.
+
+## 14.1. (e) Az első vizsgálat alkalmával a két szem közötti refrakciós hiba (anisometropia) nem haladhatja meg a 2.0 dioptriát (lásd 14.1.4. pontot).
+
+## 14.1.4. Megújító vagy meghosszabbító vizsgálat alkalmával, amennyiben a két szem közötti refraktív hiba meghaladja a 3,0 dioptriát, a szolgálat minősítheti alkalmasnak az egyént.
+
+## 14.1. (f) A presbiópia változását minden repülőorvosi vizsgálat alkalmával ellenőrizni kell.
+
+## A vizsgált személynek tudnia kell olvasni a Parinaud 2 táblát, N5 (vagy ennek megfelelő) méretű írásjeleket 30–50 cm-ről és a Parinaud 6 táblát, N14 (vagy ennek megfelelő) méretű írásjeleket 100 cm távolságról, ha szükséges korrekciós üveggel.
+
+## 14.1. (g) Kettőslátás esetén a vizsgált személy nem alkalmas (lásd a 14.1.5. pontot).
+
+## 14.1.5. Fória teszt segítségével meghatározhatók a szemizmok jelentős egyensúly zavarai. Ugyanakkor az eltérő leletek nem jelentenek automatikusan kizáró okot.
+
+## 14.1. (h) Kóros konvergencia kizáró okot jelent (lásd a 14.1.6. pontot).
+
+## 14.1.6. A normál tartományon kívülre eső konvergencia értéke elfogadható abban az esetben, ha az nem zavarja a közeli (30–50 cm) és közbenső távolság (100 cm) látóélességét.
+
+## 14.1. (i) A szemizmok együttműködési zavara esetén (heterofória) a vizsgált személy nem alkalmas, amennyiben a fória mértéke meghaladja a következő értékeket, kivéve, ha a fúziós tartalék elegendő az asthenopia és diplópia kivédésére (lásd a 14.1. pontot):
+
+## 2.0 dioptria hiperfória/6 m-en vizsgálva,
+
+## 10.0 dioptria esofória/6 m-en vizsgálva,
+
+## 8.0 dioptria exofória/6 m-en vizsgálva,
+
+## 1.0 dioptria hiperfória/33 cm-en vizsgálva,
+
+## 8.0 dioptria esofória/33 cm-en vizsgálva,
+
+## 12.0 dioptria exofória/33 cm-en vizsgálva.
+
+## 14.1.7. 12 dioptria feletti exofória esetén szemészhez kell irányítani, a fúziós tartalék meghatározására.
+
+## 14.1. (j) A kétszemes látás jelentős zavara esetén a vizsgált személy nem alkalmas [továbbá lásd a 14.1. (l) pontot].
+
+## 14.1. (k) A kétszemes látás szemészetileg igazolt jelentős zavara esetén, tekintettel a munkahelyi környezetre, a vizsgált személy nem alkalmas (lásd a 14.1.8. pontot).
+
+## 14.1.8. Az egyik szem határérték alatti centrális látása az orvosi minősítés meghosszabbítása vagy megújítása esetén elfogadható, ha a szolgálat által elfogadott szemész véleménye szerint ép a látótér és a háttérben lévő állapot stabil.
+
+## 14.1. (l) Az első vizsgálat alkalmával az egyszemes látás kizáró ok.
+
+## Megújító vagy meghosszabbító vizsgálat alkalmával kiadható az alkalmas minősítés, ha a szemészeti vélemény alapján az állapot nem jelent akadályt a szakszolgálati feladatok ellátásában (lásd a 14.1.9. pontot).
+
+## 14.1.9. Ilyen esetben a funkciók ellenőrzését a munkahelyi környezetben is el kell végezni.
+
+## 14.1. (m) Amennyiben a látóélesség követelményeit szemüveggel vagy kontaktlencsével teljesíti a vizsgált személy, azoknak a légiforgalmi irányítói munkahelyen is optimális funkcionális teljesítményt kell biztosítaniuk.
+
+## Amennyiben szemüveg szükséges a szakszolgálati feladatok ellátására, annak minden távolságra biztosítania kell a megfelelő látóélességet. Egy szemüveggel kell tudni biztosítani a szükséges éles látást minden távolságra (továbbá lásd a 14.1.12. pontot).
+
+## 14.1.10. Ilyen esetben tartalék szemüveg készenlétben tartása kötelező a szakszolgálati feladatok ellátása közben.
+
+## 14.1.11. Nagy mértékű refrakciós hiba esetén (nagyobb mint –6 Dioptria) a vizsgált személy használjon kontakt vagy könnyített és elvékonyított lencsét a perifériás látótér torzításának elkerülésére.
+
+## 14.1.12. Kizárólag monofokális és a távollátást javító kontaktlencse viselhető. Orthokeratologiai lencsék nem használhatók, egyszemes kontaktlencse nem használható.
+
+## 15. Színlátás követelményei [EMCR(ATC) 15]
+
+## 15.1. (a) A színlátás legyen ép. Az ép színlátás feltétele, hogy a vizsgált személy hibátlanul olvassa az Ishihara táblákat, vagy igazolható legyen Nagel-féle anomaloszkóppal a normál trikromázia (lásd a 15.1.1. pontot).
+
+## 15.1.1. Az Ishihara teszt ábráit folyamatosan kell olvasni, a teljesítés értékelése az Ishihara felhasználói kézikönyv szerint történik.
+
+## 15.1. (b) Az a vizsgált személy, aki nem teljesíti az elfogadott színlátási teszteket, nem mondható színbiztosnak és nem minősíthető alkalmasnak (lásd a 15.1.2. pontot).
+
+## 15.1.2. Amennyiben a vizsgált személy téveszt az Ishihara táblák olvasásakor, anomaloszkópos vizsgálatot (Nagel vagy azzal egyenértékű) kell végezni.
+
+## A tesztet akkor teljesítette, ha trichromátnak bizonyult.
+
+## 16. Fül-orr-gége [EMCR(ATC) 16]
+
+## 16.1. (a) A 3. Egészségügyi Osztályú minősítésre először jelentkezőnél vagy a már minősítéssel rendelkezőnél nem állhat fenn az alábbi elváltozások egyike sem, mely kiterjedésénél vagy jellegénél fogva akadályozhatja a szakszolgálati feladatok biztonságos végrehajtását. Ide sorolandók az orr, fül, melléküregek és garat (ideértve a szájüreget, fogakat és a gégét is) funkciózavarai, azok elváltozásai, veleszületett vagy szerzett, akut vagy krónikus, illetve baleset vagy műtét utáni állapotai.
+
+## 16.1. (b) Kibővített fül-orr-gégészeti vizsgálatot kell végezni az első orvosi minősítés kiadásakor.
+
+## 16.1.1. A szolgálat által elfogadott fül-orr-gége szakorvos ismerje a légiforgalmi irányítók munkahelyi körülményeit és a szakszolgálati feladatok speciális funkcionális követelményeit.
+
+## 16.1.2. Az első vizsgálat alkalmával végzett kibővített fül-orr-gégészeti vizsgálatot repülésben jártas és a szolgálat által elfogadott szakorvos végezze.
+
+## 16.1. (c) Az orvosi minősítés megújításakor vagy meghosszabbításakor a rutin fül-orr-gégészeti vizsgálatot minden alkalommal el kell végezni (lásd a 16.1.3. pontot).
+
+## 16.1.3. Az orvosi minősítés megújításakor vagy meghosszabbításakor végzett rutin fül-orr-gégészeti vizsgálat során észlelt eltérő vagy kétes leleteket a repülésben jártas és a szolgálat által elfogadott fül-orr-gége szakorvossal kell megvizsgáltatni.
+
+## 16.1. (d) A következő betegségek mindegyike kizáró okot jelent:
+
+## (1) a közép- és belsőfül akut vagy krónikus, klinikailag aktív betegsége;
+
+## (2) a dobhártya állandó perforációja vagy funkciózavara (lásd a 16.1.4. pontot);
+
+## (3) a vesztibuláris funkció zavara (lásd a 16.1.5. pontot);
+
+## (4) a szájüreg és a felső légutak súlyos akut vagy krónikus gyulladásai, illetve kiterjedt rosszindulatú daganatai;
+
+## (5) a beszéd, illetve hangképzés jelentős zavara (lásd a 16.1.6. pontot).
+
+## 16.1.4. Nem fertőzéses eredetű, egyszerű dobhártya perforáció esetén mérlegelhető az alkalmas minősítés, amennyiben az nem befolyásolja a fül normális működését.
+
+## 16.1.5. A spontán vagy pozicionális nystagmus esetén részletes vesztibuláris kivizsgálást végezzen a szolgálat által elfogadott szakorvos. Ilyen esetben nem fogadható el a jelentősen kóros kalorikus vagy rotációs válasz. Az orvosi minősítés megújításakor vagy meghosszabbításakor észlelt vesztibuláris anomáliát a repülőorvos a klinikai háttérrel együtt minősítse.
+
+## 16.1.6. A teljes kivizsgálás és funkcionális ellenőrzés során megfelelő figyelmet kell fordítani a munkahelyi körülményekre is, ahol a szakszolgálati feladatokat végzik.
+
+## 16.1. (e) Különös figyelemmel kell lenni az orrlégzés jelentős zavarára és a szinuszok bármilyen diszfunkciójára. Ezek nem jelentenek szükségszerűen alkalmatlanságot, amennyiben nem zavarják a szakszolgálati munka ellátását.
+
+## 16.1. (f) Az érthetőséget zavaró beszéd, illetve hangképzési zavar esetén foniátriai konzíliumot kell kérni.
+
+## 17. A hallás követelményei [EMCR(ATC) 17]
+
+## 17.1. (a) A hallást minden alkalommal meg kell vizsgálni. A vizsgált személy mindkét fülén külön-külön vizsgálva, pontosan értse a társalgási beszédet 2 m távolságról, háttal fordulva az repülőorvosnak.
+
+## 17.1. (b) Tiszta hang audiometriát kell végezni az első vizsgálat alkalmával, ezt követően a 40. életévig 4 évente, a 40. életév felett pedig 2 évente (lásd a 17.1.1. pontot).
+
+## 17.1.1. A tiszta hang audiogramnak az 500–3000 Hz közötti frekvenciatartományt kell átfognia. A hallásküszöböket a következő frekvenciákon kell meghatározni:
+
+## 500 Hz
+
+## 1,000 Hz
+
+## 2,000 Hz
+
+## 3,000 Hz
+
+## A 4000 Hz frekvencián vagy felette végzett vizsgálat segít a zajártalom korai dignozisában.
+
+## 17.1. (c) A 3. Osztályú orvosi minősítés első vizsgálatakor a hallásveszteség külön-külön vizsgálva egyik fülön sem lehet nagyobb mint 20 dB(HL) 500, 1000 és 2000 Hz frekvencián, vagy több mint 35 dB(HL) 3000 Hz frekvencián. Amennyiben a halláscsökkenés kettő vagy több frekvencián 5 dB(HL) értékkel megközelíti a határértéket, a tiszta hang audiometriát legalább évente meg kell ismételni (lásd a 17.1.2. pontot).
+
+## 17.1.2. Halláscsökkenés esetén, amennyiben a következő éves vizsgálat alkalmával nincs további károsodás, vissza lehet térni a normál orvosi vizsgálati rendhez [lásd a 17.1. (b) pontot].
+
+## 17.1. (d) Az orvosi minősítés megújításakor vagy meghosszabbításakor a hallásveszteség külön-külön vizsgálva egyik fülön sem lehet nagyobb mint 35 dB(HL) 500, 1000 és 2000 Hz frekvencián, vagy több mint 50 dB(HL) 3000 Hz frekvencián. Amennyiben a halláscsökkenés kettő vagy több frekvencián 5 dB(HL) értékkel megközelíti a határértéket, a tiszta hang audiometriát legalább évente meg kell ismételni (lásd a 17.1.2. pontot).
+
+## 17.1. (e) Hypacusis esetén az orvosi minősítés megújításakor és meghosszabbításakor a szolgálat alkalmasnak minősítheti a vizsgált személyt, amennyiben a beszéd audiometriás vizsgálat megfelelő hallásteljesítményt bizonyít (lásd a 17.1.3. pontot).
+
+## 17.1.3. A hypacusis eseteit referálni kell a szolgálatnak, aki a további vizsgálatokról és a minősítésről dönt. Az orvosi minősítés megújításakor és meghosszabbításakor a munkahelyi zajban nyújtott jó hallásteljesítmény alapján a szolgálat mérlegelheti az alkalmas minősítést.
+
+## 17.1. (f) A hallókészülék kizáró ok az első vizsgálat alkalmával. Kétoldali hallókészülék kizáró ok az orvosi minősítés meghosszabbítása vagy megújítása során. Azonban az egyoldali hallókészülék vagy más kiegészítő eszköz használata megengedhető a meghosszabbító vagy megújító vizsgálat során, amennyiben azokkal a megfelelő hallásteljesítmény elérhető. (Lásd a 17.1.4. pontot.)
+
+## 17.1.4. A szóban forgó eszközzel teljes körű funkcionális és munkahelyi környezeti vizsgálatot kell végezni, annak igazolására, hogy az egyén maradéktalanul képes ellátni szakszolgálati feladatait, továbbá, hogy a készülék és a munkahelyi berendezések között nem lép fel zavaró interferencia. Előfordulhat a készülék meghibásodása, ezért tartalék készülék és elem készenlétben tartása szükséges.
+
+## 18. Bőrgyógyászati követelmények [EMCR(ATC) 18]
+
+## 18.1. (a) A 3. Egészségügyi Osztályú minősítésért először jelentkezőnél vagy a már orvosi minősítéssel rendelkezőnél nem állhat fenn olyan diagnosztizált bőrgyógyászati elváltozás, mely feltehetőleg akadályozza a szakszolgálati feladatok biztonságos ellátását. Az egyes klinikai eseteket a 18.1.1. pont szerint kell minősíteni.
+
+## 18.1.1. Különös figyelemmel kell lenni az alábbi betegségekre:
+
+## (1) exogén vagy endogén ekcéma,
+
+## (2) súlyos pszoriázis,
+
+## (3) bakteriális fertőzés,
+
+## (4) gyógyszerek okozta bőrelváltozások,
+
+## (5) bullózus kiütések,
+
+## (6) a bőr rosszindulatú elváltozásai,
+
+## (7) allergiás bőrkiütések.
+
+## A kérdéses eseteket referálni kell a szolgálatnak. A mérlegeléshez további szempontokat ad a IV. Fejezet 18. Függeléke.
+
+## 18.1.2. Minden bőrelváltozás, mely fájdalommal, diszkomfort érzéssel, irritációval vagy viszketéssel jár, elvonhatja a szakszolgálati engedélyes figyelmét a feladatról, és ezáltal kihat a repülés biztonságára.
+
+## 18.1.3. A besugárzásnak vagy gyógyszeres kezelésnek lehetnek szisztémás hatásai is, melyeket figyelembe kell venni az alkalmasság minősítésekor.
+
+## IV. FEJEZET
+
+## Függelékek a JAR-FCL 3 szerint az I. és II. Fejezethez
+
+## 1. Függelék: A szív- és érrendszer
+
+## (Lásd a JAR FCL 3.130 – 3.150 és 3.250 – 3.270 pontot)
+
+## 1. Terheléses EKG vizsgálatot kell végezni:
+
+## (a) klinikai tünetek alapján vagy ha a vizsgálati eredmények felvetik a szív- és érrendszeri betegség gyanúját;
+
+## (b) a nyugalmi elektrokardiogramon észleltek tisztázására;
+
+## (c) a szolgálat által elfogadott kardiológus javaslata alapján;
+
+## (d) az 1. Egészségügyi Osztályban 65. életévben és utána 4 évenként a meghosszabbítás vagy megújítás alkalmával.
+
+## 2. (a) A szérum lipidek meghatározása alkalomszerű és a jelentős eltéréseket a szolgálat felügyeletével kivizsgálni és ellenőrizni kell.
+
+## (b) A rizikófaktorok halmozódása esetén (dohányzás, családi anamnézis, kóros lipidértékek, hypertonia stb.) az AMC vagy a repülőorvos kardiológiai elemzése szükséges, a szolgálattal együttműködve.
+
+## 3. Hipertónia esetén az egyéb potenciális vaszkuláris rizikótényezőt is át kell tekinteni. A szisztolés értéket a Korotkoff hang megjelenése (I. fázis), a diasztolés értéket pedig annak eltűnése (V. fázis) jelzi. A vérnyomást legalább két alkalommal kell megmérni. Amennyiben a vérnyomásérték magas és/vagy a nyugalmi pulzusszám emelkedett, további vizsgálatot szükséges végezni alkalmas vizsgálat során.
+
+## 4. A vérnyomáscsökkentő kezelés a szolgálat egyetértésével végezhető. A szolgálat által engedélyezhető gyógyszerek:
+
+## a) nem-kacsdiuretikumok;
+
+## b) bizonyos (általában hidrofil) béta-blokkolók;
+
+## c) ACE-gátlók;
+
+## d) Angiotensin-II. AT1 blokkolók (a sartanfélék);
+
+## e) lassú kalciumcsatorna blokkolók.
+
+## A hipertónia gyógyszeres kezelése esetén az 1. Egészségügyi Osztályban csak többtagú személyzet tagjaként (Class 1 ’OML’) alkalmas, illetve a 2. Egészségügyi Osztályban biztonsági pilótával történő repülés (Class 2 ’OSL’) korlátozás írható elő.
+
+## 5. Tünetmentes koszorúsér-betegség vagy perifériás artériás megbetegedés gyanúja esetén terheléses elektrokardiográfiás vizsgálatot kell végezni, ezt követően, amennyiben indokolt, további vizsgálat (terheléses scintigráfia, terheléses echokardiográfia, koronária angiográfia vagy más ezekkel egyenértékű és a szolgálat által elfogadott vizsgálat) igazolja, hogy nem áll fenn a szívizom isémiája vagy a koszorúsér szignifikáns szűkülete.
+
+## 6. Isémiás kardiális esemény után, ideértve a revaszkularizációt is, vagy perifériás artériás megbetegedés esetén a tünetmentes vizsgált személynek, elfogadható értékre kell csökkentenie minden vaszkuláris rizikó faktort. A kardiális tünetek gyógyszeres kezelése nem fogadható el. Minden vizsgált személynek megfelelő szekunder preventív kezelésben kell részesülnie.
+
+## Rendelkezésre kell állnia az isémiás kardiális esemény alatt vagy után készült koronária angiogramnak. Az isémiás esemény részletes és teljes klinikai leleteinek, az angiogramnak és minden műtét leírásának elérhetőnek kell lennie a szolgálat részére.
+
+## 50%-nál nagyobb szűkület nem lehet a nem kezelt erek egyikén sem, illetve vénás vagy artériás grafton, angioplasztika/stenting helyén, kivéve az infarktusos területhez vezető eret. Kettőnél több 30% és 50% közötti szűkület nem fogadható el.
+
+## A teljes koszorúsér rendszert megfelelőnek kell véleményeznie a szolgálat által elfogadott kardiológusnak, különös figyelemmel kell lenni a többszörös szűkület és/vagy többszörös revaszkularizáció esetén.
+
+## 30%-nál nagyobb, nem kezelt szűkület a bal főtörzsön vagy az anterior descendens koronária proximális szakaszán nem fogadható el.
+
+## Legalább 6 hónappal az isémiás kardiális esemény után, ideértve a revaszkularizációt is, a következő vizsgálatokat kell elvégezni:
+
+## a) tünethatárolt terheléses EKG (Bruce IV. fokozat vagy azzal egyenértékű terhelés), mely nem jelzi a szívizom isémiás eltérését vagy ritmuszavart;
+
+## b) [echokardiogram (vagy a szolgálat által elfogadott azzal egyenértékű vizsgálat), mely jó bal kamra funkciót mutat lényeges fali mozgászavar nélkül (pl. diszkinézis vagy akinézis) és a bal kamrai ejekciós frakció 50% vagy több];
+
+## c) [Angioplasztika/stenting esetén szívizom perfúziós vizsgálat vagy terheléses echográfia (vagy más ezekkel egyenértékű és a szolgálat által elfogadott vizsgálat), mely nem mutat reverzibilis szívizom isémiát. Más esetekben is (pl. infarktus vagy bypass graft) el kell végezni a perfúziós vizsgálatot, ha felmerül a szívizom keringési zavara.];
+
+## d) [További vizsgálatok, mint pl. 24 órás EKG felvétel szükséges lehet, bármilyen jelentős ritmuszavar gyanúja esetén.]
+
+## Évenkénti vizsgálat (ha indokolt, gyakrabban) szükséges annak bizonyítására, hogy a szív- és érrendszer állapota nem rosszabbodott. Ez tartalmazza a szolgálat által elfogadott kardiológus véleményét, terheléses EKG vizsgálatot és a kardiovaszkuláris rizikó meghatározását. A szolgálat további vizsgálatokat rendelhet el.
+
+## A koszorúserek vénás bypass graftja esetén szívizom perfúziós vizsgálatot (vagy más ezekkel egyenértékű és a szolgálat által elfogadott vizsgálatot) kell végezni indikáció esetén és minden esetben 5 évvel a beavatkozás után.
+
+## Minden olyan esetben mérlegelni kell koronária angiográfia vagy más ezzel egyenértékű és a szolgálat által elfogadott vizsgálat végzését, amikor klinikai tünetek, jelek vagy non-invazív vizsgálatok a szív isémiáját jelzik.
+
+## A szolgálat minősítése
+
+## Klinikailag eseménytelen 6 hónap eltelte után az 1. Egészségügyi Osztályban a vizsgált személy több tagú személyzet tagjaként (Class 1 ’OML’) repülhet.
+
+## A 2. Egészségügyi Osztályban a vizsgált személy a 6. pont követelményeinek sikeres teljesítése után repülhet korlátozás nélkül, de a szolgálat meghatározhat egy időszakot, amikor biztonsági pilótával hajthat végre repülést, mielőtt egyedül repülésre kapna jogosítást. A 2. Egészségügyi Osztályban a vizsgált személy meghosszabbító/megújító vizsgálat után, a szolgálat döntése alapján, amennyiben csak terheléses EKG vizsgálat történt a 6. a) pont szerint, repülést csak biztonsági pilótával (Class 2 ’OSL’) korlátozással hajthat végre.
+
+## 7. Minden jelentős ritmus- vagy vezetési zavart a szolgálat által elfogadott kardiológus vizsgáljon ki, és alkalmas minősítés esetén megfelelő nyomon követés szükséges.
+
+## (a) Ezek a vizsgálatok a következők:
+
+## (1) Bruce protokoll szerinti vagy azzal egyenértékű terheléses vizsgálat. A terhelés maximális vagy tünethatárolt legyen. A Bruce 4. fokozatot kell teljesíteni és nem lehet jelentős ritmus- vagy vezetési zavar, illetve szívizom isémia jele. A kardioaktív gyógyszerek terhelés előtti elhagyását mérlegelni kell.
+
+## (2) A 24 órás ambuláns EKG nem mutat jelentős ritmus- vagy vezetési zavart.
+
+## (3) 2D Doppler echokardiogram nem jelez jelentős szelektív kamrai megnagyobbodást, illetve jelentős szerkezeti vagy funkcionális károsodást és a bal kamra ejekciós frakciója legalább 50%.
+
+## (b) További vizsgálatok a következők lehetnek:
+
+## (1) Ismételt 24 órás EKG felvétel;
+
+## (2) Elektrofiziológiai vizsgálatok;
+
+## (3) Szívizom perfúziós vizsgálat vagy más ezzel egyenértékű vizsgálat;
+
+## (4) A szív MRI vagy ezzel egyenértékű vizsgálata;
+
+## (5) Koronária angiográfia vagy ezzel egyenértékű vizsgálat (lásd 1. Függelék 6. pontját).
+
+## (c) A szolgálat minősítése az 1. Egészségügyi Osztályban
+
+## (1) Pitvari fibrilláció/flutter
+
+## (i) Az 1. Egészségügyi Osztályban az első minősítés kiadása akkor lehetséges, ha az egyetlen arrhythmiás epizód ismétlődését a szolgálat nem tartja valószínűnek.
+
+## (ii) A megújítást/meghosszabbítást a szolgálat határozza meg.
+
+## (2) Teljes jobb szárblock
+
+## (i) Az 1. Egészségügyi Osztályban az első minősítés kiadását mérlegelheti a szolgálat, ha a vizsgált személy 40 évnél fiatalabb. 40 év felett az 1. Egészségügyi Osztályban az első minősítés kiadásához normális körülmények között 12 hónapos stabilitást kell igazolni.
+
+## (ii) Az 1. Egészségügyi Osztályban korlátozás nélküli meghosszabbítás/megújítás mérlegelhető, ha a vizsgált személy 40 évnél fiatalabb. 40 év felett Class 1 ’OML’ korlátozást kell alkalmazni 12 hónapig.
+
+## (3) Teljes bal szárblock
+
+## 40 évesnél idősebb vizsgált személynél szükséges a koszorús erek vizsgálata.
+
+## (i) Az 1. Egészségügyi Osztályban az első minősítés kiadásához 3 éves stabilitást kell igazolni.
+
+## (ii) Az 1. Egészségügyi Osztályban a minősítés meghosszabbítása/megújítása több pilótás korlátozással (Class 1 ’OML’) történhet, korlátozás nélküli minősítés 3 év után mérlegelhető.
+
+## (4) Kamrai praeexcitáció
+
+## (i) Tünetmentes praeexcitáció esetén az 1. Egészségügyi Osztályban először jelentkező alkalmasságát mérlegelheti a szolgálat, amennyiben az elektrofiziológiai vizsgálat, beleértve a gyógyszeres provokációt is, nem bizonyít re-entry tachycardiát és kizárható a multiplex vezetőnyaláb is.
+
+## (ii) Tünetmentes praeexcitáció esetén az 1. Egészségügyi Osztályban a meghosszabbítást/megújítást mérlegelheti a szolgálat többpilótás (Class 1 ’OML’) korlátozással.
+
+## (5) Pacemaker
+
+## Szubendokardiális, állandó pacemaker beültetés után 3 hónappal az alkalmas minősítés feltételei a következők:
+
+## (i) Nem áll fenn más kizáró betegség;
+
+## (ii) Bipoláris elektródát alkalmaztak;
+
+## (iii) A vizsgált személy nem pacemaker dependens;
+
+## (iv) Rendszeres ellenőrzés a pacemaker működését is beleértve;
+
+## (v) Az 1. Egészségügyi Osztályban meghosszabbítás/megújítás többpilótás személyzettel történő korlátozással (Class 1 ’OML’).
+
+## (6) Abláció
+
+## Az 1. Egészségügyi Osztályban sikeres abláció után a vizsgált személyt legalább egy évig Class 1 ’OML’ szerint kell korlátozni, hacsak nem a legkorábban 2 hónappal később végzett elektrofiziológiai vizsgálat igazolja a beavatkozás sikerét. Azoknál az egyéneknél, akiknél sem invazív sem pedig non-invazív módszerrel nem sikerül igazolni a beavatkozás hosszútávú sikerét, további többpilótás korlátozás (Class 1 ’OML’) és/vagy megfigyelés lehet szükséges.
+
+## (d) A szolgálat minősítése a 2. Egészségügyi Osztályban
+
+## A 2. Egészségügyi Osztályban a minősítést az 1. Egészségügyi Osztálynak megfelelően kell végezni. Biztonsági pilótával (Class 2 ’OSL’) vagy utast nem szállíthat (Class 2 ’OPL’) korlátozás megfontolható.
+
+## 8. Az artéria renalisok eredése alatt elhelyezkedő nem operált hasi aneurizma esetén megfontolható az orvosi minősítés kiadása korlátozással az 1. Egészségügyi Osztályban (Class 1 ’OML’) és 2. Egészségügyi Osztályban (Class 2 ’OSL’). A szükséges ultrahang ellenőrzés rendjét a szolgálat határozza meg. Az artéria renalisok eredése alatti sikeresen operált, szövődmény mentes hasi aneurizma eseteiben, szív- és érrendszeri kivizsgálás után, a szolgálat mérlegelheti az orvosi minősítés kiadását korlátozással az 1. Egészségügyi Osztályban (Class 1 ’OML’), a 2. Egészségügyi Osztályban biztonsági pilótával történő korlátozás (Class 2 ’OSL’) alkalmazható, amennyiben a nyomon követést jóváhagyta a szolgálat.
+
+## 9. (a) A szolgálat által elfogadott kardiológus vizsgáljon ki minden korábban nem tisztázott szívzörejt és az ilyen eseteket a szolgálat minősíti. A jelentősnek vélt zörej esetén, a további kivizsgálás során legalább 2 D Doppler echokardiográfiát kell végezni.
+
+## (b) Billentyűhibák
+
+## (1) bicuspidalis aorta billentyű esetén az 1. és 2. Egészségügyi Osztályban korlátozás nélkül minősíthető alkalmasnak, amennyiben nincs egyéb kóros szív- vagy aorta elváltozás. A szükséges echokardiográfiás ellenőrzés rendjét a szolgálat határozza meg.
+
+## (2) Az aorta stenosis eseteit az AMS vizsgálja felül. Legyen ép a bal kamra funkciója. Szisztémás embólia a kórelőzményben vagy a mellkasi aorta jelentős tágulata kizáró ok. Alkalmasnak minősíthető az egyén, ha az átlagos nyomásgrádiens nem haladja meg a 20 Hgmm-t. 20 és 40 Hgmm közötti átlagos nyomásgrádiens esetén az 1. Egészségügyi Osztályban többpilótás korlátozással (Class 1 ’OML’), a 2. Egészségügyi Osztályban korlátozás nélkül minősíthető alkalmasnak. Az átlagos nyomásgrádiens 50 Hgmm-ig elfogadható a szolgálat döntése alapján. A szükséges 2 D echokardiográfiás vizsgálat rendjét a szolgálat határozza meg.
+
+## (3) A klinikailag nem jelentős mértékű aorta inszufficiencia az 1. és 2. Egészségügyi Osztályban korlátozás nélkül is minősíthető alkalmasnak. Az aorta ascendensen – 2D Doppler echokardiográfiával vizsgálva – nem lehet kimutatható elváltozás. A szükséges ellenőrző vizsgálatok rendjét a szolgálat határozza meg. A reumás eredetű mitrális billentyű betegségek általában kizáró okot jelentenek.
+
+## (4) Mitrális billentyű prolapszus/mitrális regurgitáció. Tünetmentes, izolált mezoszisztolés klikk esetében az 1. és 2 Egészségügyi Osztályban nem szükséges a korlátozás. Szövődménymentes enyhe fokú regurgitáció, a szolgálat döntése alapján, az 1. Egészségügyi Osztályban szükségessé tehet többpilótás (Class 1 ’OML’) korlátozást. A bal kamra volumen-terhelése esetén, melyet a végdiasztolés átmérő növekedése jelez, a vizsgált személy nem alkalmas. A szolgálat által előírt rendszeres ellenőrző vizsgálat és értékelés szükséges.
+
+## (c) Billentyű műtétek
+
+## (1) Mechanikus műbillentyű beültetés után a vizsgált személy nem alkalmas.
+
+## (2) Biograft beültetése esetén a panaszmentes egyént a műtét után legkorábban 6 hónap múlva minősítheti a szolgálat, amennyiben a vizsgálatok normál billentyű funkciót és kamra konfigurációt igazoltak. A következő vizsgálatokat kell elvégezni:
+
+## (i) tünethatárolt, a Bruce protokoll szerinti 4. fokozatú vagy azzal egyenértékű terheléses EKG vizsgálat, mely a szolgálat által elfogadott kardiológus véleménye szerint nem mutat jelentős eltérést. Kóros nyugalmi EKG, illetve bármilyen igazolt koszorúsér-betegség esetén szívizom szcintigráfiát vagy terheléses echokardiográfiát kell végezni. Lásd az 5., 6. és 7. pontot;
+
+## (ii) 2D Doppler echokardiogram nem jelez jelentős szelektív kamrai megnagyobbodást, a biograft billentyűk minimális szerkezeti károsodását, normál Doppler áramlási viszonyokat és a többi szívbillentyűk funkcionális vagy szerkezeti károsodását. A bal kamrai ejekció és kontraktilitás a normál tartományban legyen;
+
+## (iii) igazoltan nem áll fenn koszorúsér-betegség, illetve sikeres revaszkularizáció történt – lásd a 7. pontot;
+
+## (iv) kardiákumok szedése nem szükséges;
+
+## (v) a szükséges terheléses EKG és 2D echokardiográfiás ellenőrző vizsgálatok rendjét a szolgálat határozza meg.
+
+## Az 1. Egészségügyi Osztályban alkalmas minősítés csak többpilótás korlátozással (Class 1. ’OML’) adható ki. A 2. Egészségügyi Osztályban lehet korlátozás nélküli alkalmas minősítés is.
+
+## 10. Antikoaguláns kezelés után a vizsgált személy felülvizsgálatát a szolgálat végzi. A vénás thrombózis vagy tüdőembólia kizáró okot jelent az antikoaguláns kezelés befejezéséig. Pulmonális embolia után teljes kivizsgálás szükséges. Az artériás thromboembolia megelőzésére beállított antikoaguláns kezelés kizáró ok.
+
+## 11. Az epikardium, miokardium és/vagy endokardium primér vagy szekunder elváltozása esetén az egyén a részletes klinikai kivizsgálásig nem alkalmasként minősítendő. A szolgálat által végzett minősítéshez a következő vizsgálatok szükségesek: 2D Doppler echokardiográfia, terheléses EKG és/vagy szcintigráfia/ terheléses echokardiográfia és 24 órás Holter EKG. Koronária angiográfia indikálható szükség szerint. Gyakori felülvizsgálat és többpilótás (Class 1. ’OML’) vagy biztonsági pilótás (Class 2. OSL) korlátozás alkalmazható.
+
+## 12. A veleszületett szívbetegségek (műtéti korrekció után is) általában kizáró jellegűek, kivéve azokat a klinikailag nem jelentős eseteket, melyek gyógyszeres kezelést nem igényelnek. A szolgálatnak kardiológiai vizsgálatot kell végeztetnie. Ezek közé tartozhat: 2D Doppler echokardiográfia, terheléses EKG és 24 órás Holter EKG. Rendszeres kardiológiai ellenőrzés szükséges. A minősítéskor korlátozás (Class 1. ’OML’ vagy Class 2. ’OSL’) alkalmazható.
+
+## 13. Ismételt ájulásos rosszullétek után a következő vizsgálatokat kell végezni:
+
+## (a) tünethatárolt, a Bruce protokoll szerinti 4. fokozatú vagy azzal egyenértékű terheléses EKG vizsgálat, mely a szolgálat által elfogadott kardiológus véleménye szerint nem mutat jelentős eltérést. Kóros nyugalmi EKG esetén szívizom szcintigráfiát vagy terheléses echokardiográfiát kell végezni;
+
+## (b) 2D Doppler echokardiogram nem jelez jelentős szelektív kamrai megnagyobbodást, illetve a szív, a billentyűk és a szívizom szerkezeti vagy funkcionális károsodását;
+
+## (c) 24 órás ambuláns EKG monitorozás során nem észlelhető jelentős vezetési zavar, komplex vagy tartós (sustained) ritmuszavar, illetve szívizom isémia;
+
+## (d) a szolgálat által elfogadott kardiológus véleménye szerint a standard módon végzett „billenőasztal” vizsgálat nem utal vazomotor instabilitásra.
+
+## Az index esemény után legkorábban 6 hónappal mérlegelheti a szolgálat a minősítést, amennyiben a fenti vizsgálatokat elvégezték, és az ájulás nem ismétlődött. Az 1. és 2. Egészségügyi Osztályban a minősítést korlátozással (Class 1. ’OML’ és Class 2. ’OSL’) kell kiadni. Neurológiai szakorvosi vizsgálatot is kell végezni. A fenti minősítési korlátozások feloldása 5 évvel a rosszullét után mérlegelhető, amennyiben az eszméletvesztés nem ismétlődött. A szolgálat mérlegelhet a fentinél rövidebb vagy hosszabb megfigyelési időt az egyén klinikai állapotának függvényében. Az ún. „malignus” eszméletvesztések, melyeknél nincs jól észlelhető „bevezető” tünet, alkalmatlanságot jelentenek.
+
+## 14. A szív- és érrendszer rosszindulatú betegségeinek megítélésekor figyelembe kell venni a Kézikönyv Onkológiai fejezetében foglaltakat is, mely tájékoztat a minősítéssel kapcsolatban, és figyelembe kell venni a szervekre vonatkozó speciális előírásokat is.
+
+## 2. Függelék: Légzőszervek
+
+## (Lásd a JAR FCL 3.155, 3.160, 3.275 és 3.280 pontot)
+
+## 1. Spirometriás vizsgálatot kell végezni az 1. Egészségügyi Osztályú minősítés első vizsgálatakor. Pulmonológiai kivizsgálás szükséges, amennyiben a FEV1/FVC arány 70%-nál kisebb.
+
+## 2. Ismétlődő asztmás rohamok esetén a vizsgált személy nem alkalmas.
+
+## (a) Az 1. Egészségügyi Osztályú alkalmas minősítést mérlegelheti a szolgálat, amennyiben az állapot, elfogadható légzésfunkciós értékek mellett, stabilnak tekinthető, és a repülés biztonságával összeegyeztethető a gyógykezelés (nincs szisztémás szteroid kezelés).
+
+## (b) A 2. Egészségügyi Osztályú alkalmas minősítést mérlegelheti a szolgálat, amennyiben a hatóság által elfogadott pulmonológus véleménye szerint a légzési funkciók és a gyógykezelés (nem szisztémás szteroid kezelés) nem veszélyezteti a repülés biztonságát. A pulmonológiai leletet meg kell küldeni a szolgálatnak.
+
+## 3. Az aktív szarkoidózis kizáró ok. A szolgálat mérlegelheti az alkalmas minősítést, amennyiben a kivizsgálás szerint:
+
+## (a) a kivizsgálás során kizárható más szervrendszerek érintettsége;
+
+## (b) a folyamat, mely kizárólag a hiláris nyirokcsomókra korlátozódik, inaktív és nem igényel gyógyszeres kezelést.
+
+## 4. Spontán pneumotorax.
+
+## (a) Teljes gyógyulással az egyszeri spontán pneumotorax után 1 évvel a szolgálat mérlegelheti az alkalmas minősítést, ha az állapot teljesen rendezett.
+
+## (b) Egyszeri spontán pneumotorax után 6 héttel, amennyiben a beteg állapota teljesen rendezett, meghosszabbító/megújító vizsgálat alkalmával a szolgálat mérlegelheti az orvosi minősítést korlátozással (Class 1. ’OML’ és Class 2. ’OSL’). A fenti korlátozások feloldását a szolgálat 1 év után mérlegelheti teljes pulmonológiai kivizsgálás után.
+
+## (c) Az ismétlődő pneumotorax kizáró ok. Az alkalmas minősítést a szolgálat mérlegelheti a sikeres műtéti beavatkozás után, amennyiben rendezett a klinikai állapot.
+
+## 5. A pneumectomia kizáró okot jelent. Kisebb műtéti beavatkozások után a szolgálat mérlegelheti az alkalmas orvosi minősítést, ha az állapot teljesen rendezett és teljes pulmonológiai kivizsgálás történt. A minősítéskor korlátozás (Class 1. ’OML’ vagy Class 2. ’OSL’) alkalmazható.
+
+## 6. A légzőszervek rosszindulatú betegségeinek megítélésekor figyelembe kell venni a Kézikönyv Onkológiai fejezetében foglaltakat is, mely tájékoztat a minősítéssel kapcsolatban és figyelembe kell venni a szervekre vonatkozó speciális előírásokat is.
+
+## 3. Függelék: Emésztőszervek
+
+## (Lásd a JAR FCL 3.165, 3.170, 3.285 és 3.290 pontot)
+
+## 1. (a) A vizsgálatra jelentkezőt visszatérő, gyógyszeres kezelést igénylő diszpepsziás panaszok esetén ki kell vizsgálni.
+
+## (b) A pankreatitisz kizáró ok. Az alkalmas minősítést a szolgálat mérlegelheti, amennyiben az obstrukció kiváltó okot (pl. gyógyszerhatás, epekő) megszüntették.
+
+## (c) A diszpepszia és a pankreatitisz összefügghet az alkoholfogyasztással. Szükség szerint tisztázni kell az alkoholfogyasztás jellegét és kizárni az abúzust/dependenciát.
+
+## 2. A tünetmentes, szoliter epekő esetén a szolgálat mérlegelheti az alkalmas minősítést korlátozás nélkül. Tüneteket nem okozó multiplex epekövek esetén, meghosszabbító/megújító vizsgálat alkalmával a szolgálat mérlegelheti az alkalmas minősítést többpilótás korlátozással az 1. Egészségügyi Osztályban (Class 1. ’OML’), illetve korlátozás nélkül a 2. Egészségügyi Osztályban.
+
+## 3. A vastagbél gyulladásos jellegű betegségeinek minősítése akkor mérlegelhető, ha teljes remisszió van, az állapot stabil és nem szükséges szisztémás szteroid kezelés.
+
+## 4. Hasi műtét után legalább 3 hónapig nem alkalmas a szakszolgálati engedélyes. Abban az esetben, ha teljes a gyógyulás, tünetmentes a beteg és minimális veszélye van szövődmény fellépésére vagy kiújulására, a szolgálat mérlegelheti rövidebb időn belül is az alkalmas minősítést meghosszabbítás vagy megújítás esetén.
+
+## 5. Az emésztőszervek rosszindulatú betegségeinek megítélésekor figyelembe kell venni a Kézikönyv Onkológiai fejezetében foglaltakat is, mely tájékoztat a minősítéssel kapcsolatban és figyelembe kell venni a szervekre vonatkozó speciális előírásokat is.
+
+## 4. Függelék: Az anyagcsere, táplálkozás és hormonális rendszer betegségei
+
+## (Lásd a JAR FCL 3.175 és 3.295 pontot)
+
+## 1. Az anyagcsere, táplálkozás vagy hormonális rendszer funkciózavara kizáró ok. A szolgálat mérlegelheti az alkalmas minősítést abban az esetben, ha az egyén tünetmentes, klinikailag egyensúlyban van és stabilan kompenzált hormonpótló kezeléssel vagy anélkül, és rendszeres szakgondozás alatt áll.
+
+## 2. A glukózúriát és az emelkedett vércukorszintet ki kell vizsgálni. A szolgálat mérlegelheti az alkalmas minősítést normál glukózterhelés esetén (alacsony veseküszöb) vagy csökkent glukóz tolerancia esetén – diabeteses szövődmény nélkül – kizárólag diéta és rendszeres ellenőrzés mellett.
+
+## 3. Az antidiabetikus kezelés kizáró ok. Mindazonáltal egyes biguanid származékokkal vagy alpha-glukozidáze gátlókkal jól beállított esetekben – diabetes szövődmény kizárása után – mérlegelhető a minősítés az 1. Egészségügyi Osztályban többpilótás korlátozással (Class 1. ’OML’), a 2. Egészségügyi Osztályban biztonsági pilóta korlátozás (Class 2 ’OSL’) nélkül. Szulfonilurea származékkal történő kezelés esetén a 2. Egészségügyi Osztályban korlátozással (Class 2. ’OSL’) mérlegelhető az alkalmas minősítés meghosszabbítása/megújítása.
+
+## 4. Az Addison-betegség kizáró ok. Az 1. Egészségügyi Osztályban az alkalmas minősítés meghosszabbítását/megújítását, a 2. Egészségügyi Osztályban pedig az alkalmas minősítést mérlegelheti a szolgálat, amennyiben a szakszolgálati feladatának ellátása közben a kortizon készítményt magánál tartja és szükség esetén annak bevétele megoldható. Többpilótás korlátozás az 1. Egészségügyi Osztályban (Class 1 ’OML’) vagy biztonsági pilótával történő repülés a 2. Egészségügyi Osztályban (Class 2 ’OSL’) előírható.
+
+## 5. Ezen szervek rosszindulatú betegségeinek megítélésekor figyelembe kell venni a Kézikönyv Onkológiai fejezetében foglaltakat is, mely tájékoztat a minősítéssel kapcsolatban és figyelembe kell venni a szervekre vonatkozó speciális előírásokat is.
+
+## 5. Függelék: Vérképző rendszer
+
+## (Lásd a JAR FCL 3.180 és 3.300 pontot)
+
+## 1. A csökkent hemoglobin értékkel járó anémiát ki kell vizsgálni. A terápiásan nem befolyásolható anémia kizáró okot jelent. A szolgálat mérlegelheti az alkalmas minősítést, amennyiben az anémia oki terápiája sikeres volt (pl. vashiány, B12 hiány esetén), a haematokrit stabilan 32% feletti, illetve a thalasszaemia minor vagy haemoglobinopatia esetén az anamnézisben nem szerepel krízis és a beteg funkcionális állapota igazoltan megfelelő.
+
+## 2. A nyirokcsomó megnagyobbodást ki kell vizsgálni. A szolgálat mérlegelheti az alkalmas minősítést, amennyiben a gyulladásos folyamat teljes mértékben gyógyult, illetve a kezelt Hodgkin vagy nagy malignitású Non-Hodgkin limfóma remisszióban van.
+
+## 3. A krónikus leukémia alkalmas minősítését mérlegelheti a szolgálat. Nem állhat fenn a központi idegrendszer érintettsége és nem lehet olyan állandó mellékhatása a kezelésnek, mely repülésbiztonsági jelentőséggel bír. A hemoglobin érték és a thrombocyta szám legyen kielégítő. Rendszeres ellenőrzés szükséges.
+
+## 4. A lépnagyobbodást ki kell vizsgálni. A szolgálat mérlegelheti az alkalmas minősítést, ha a lépnagyobbodás minimális, stabil és nem áll más kórfolyamat a háttérben (pl. kezelt krónikus malária), vagy a minimális lépnagyobbodás hátterében a minősítéssel összeegyeztethető megbetegedés áll (pl. teljes remisszióban lévő Hodgkin limfóma).
+
+## 5. A policitémiát ki kell vizsgálni. A szolgálat mérlegelheti az alkalmas minősítést az 1. Egészségügyi Osztályban korlátozással (Class 1 ’OML’) vagy biztonsági pilótával történő repüléssel a 2. Egészségügyi Osztályban (Class 2 ’OSL’), amennyiben az állapot stabil és nem áll más kóros folyamat a háttérben.
+
+## 6. A klinikailag jelentős alvadási zavart ki kell vizsgálni. A szolgálat mérlegelheti az alkalmas minősítést az 1. Egészségügyi Osztályban többpilótás korlátozásal (Class 1 ’OML’) vagy biztonsági pilótával történő repüléssel a 2. Egészségügyi Osztályban (Class 2 ’OSL’), amennyiben nem szerepel a kórelőzményben jelentősebb vérzés vagy trombózis.
+
+## 7. Ezen szervek rosszindulatú betegségeinek megítélésekor figyelembe kell venni a Kézikönyv Onkológiai fejezetében foglaltakat is, mely tájékoztat a minősítéssel kapcsolatban és figyelembe kell venni a szervekre vonatkozó speciális előírásokat is.
+
+## 6. Függelék: Húgyúti szervek
+
+## (Lásd a JAR FCL 3.185 és 3.305 pontot)
+
+## 1. A kóros laboratóriumi vizeletlelet okát ki kell vizsgálni.
+
+## 2. A tünetmentes húgyúti kő vagy a kórelőzményben szereplő vesekólika esetén kivizsgálás szükséges. A kivizsgálás vagy kezelés idejére a szolgálat mérlegelheti a minősítés meghosszabbítását korlátozással többtagú személyzettel (Class 1. ’OML’) vagy biztonsági pilótával (Class 2. ’OSL’) végzett repülésre. Sikeres gyógykezelés után a szolgálat mérlegelheti a korlátozás feloldását. Reziduális kő esetén a szolgálat mérlegelheti az alkalmas minősítést a következők szerint: 1. Egészségügyi Osztályban OML korlátozással, 2. Egészségügyi Osztályban korlátozás nélkül vagy OSL korlátozással.
+
+## 3. Kiterjedt urológiai műtét után legalább 3 hónapig nem alkalmas a vizsgált személy. A szolgálat mérlegelheti a minősítést, amennyiben teljesen tünetmentes a vizsgált személy és minimális a szövődmények vagy kiújulás veszélye.
+
+## 4. Veseátültetés vagy teljes húgyhólyag eltávolítás kizáró okot jelent az 1. Egészségügyi Osztályban, az első minősítés alkalmával. A minősítés meghosszabbítását mérlegelheti a szolgálat a következők szerint:
+
+## (a) 12 hónappal a műtét után az átültetett vese funkciója teljesen kompenzált és a beteg jól tűri, minimális fenntartó immunoszupresszív kezelés mellett;
+
+## (b) teljes húgyhólyag eltávolítás után a beteg funkcionális állapota rendezett és nincs gyanú a folyamat kiújulására, fertőzésre vagy más kóros elváltozásra.
+
+## Mindkét esetben korlátozás mérlegelhető; többtagú személyzettel (Class 1. ’OML’) vagy biztonsági pilótával (Class 2. ’OSL’).
+
+## 5. Ezen szervek rosszindulatú betegségeinek megítélésekor figyelembe kell venni a Kézikönyv Onkológiai fejezetében foglaltakat is, mely tájékoztat a minősítéssel kapcsolatban és figyelembe kell venni a szervekre vonatkozó speciális előírásokat is.
+
+## 7. Függelék: Nemi úton terjedő és más fertőző betegségek
+
+## (Lásd a JAR FCL 3.190 és 3.310 pontot)
+
+## 1. A HIV pozitivitás kizáró okot jelent.
+
+## 2. Az orvosi minősítés megújítását korlátozással – többtagú személyzettel (Class 1. ’OML’) vagy biztonsági pilótával (Class 2. ’OSL’) – mérlegelheti a szolgálat, amennyiben rendszeres ellenőrzés történik. Az AIDS vagy azzal kapcsolatos klinikai tünetek megjelenése kizáró ok.
+
+## 3. Az akut szifilisz kizáró ok. A szolgálat mérlegelheti szifilisz I. és II. stádiumának teljesen kezelt és gyógyult eseteinek minősítését.
+
+## 4. Ezen szervek rosszindulatú betegségeinek megítélésekor figyelembe kell venni a Kézikönyv Onkológiai fejezetében foglaltakat is, mely tájékoztat a minősítéssel kapcsolatban és figyelembe kell venni a szervekre vonatkozó speciális előírásokat is.
+
+## 8. Függelék: Nőgyógyászat és szülészet
+
+## (Lásd a JAR FCL 3.195 és 3.315 pontot)
+
+## 1. Terhesség esetén a szolgálat a 26. hétig mérlegelheti az alkalmas minősítést nőgyógyászati vélemény alapján. Ilyen esetben a szolgálat írásban tájékoztatja a szakszolgálati engedélyest és a nőgyógyász kezelőorvost arról, hogy a szakszolgálati tevékenység milyen veszélyt jelenthet a terhességre (lásd a Kézikönyvet). Az 1. Egészségügyi Osztályú minősítés esetén a tevékenységet a többtagú személyzettel végzett repülésre kell korlátozni (Class 1. ’OML’).
+
+## 2. Nagyobb nőgyógyászati műtét után legkorábban 3 hónappal mérlegelhető az alkalmasság. A szolgálat korábban is mérlegelheti az alkalmasságot, amennyiben a szakszolgálati engedélyes teljesen tünet- és panaszmentes, és minimális az esély a szövődmények kialakulására.
+
+## 3. Ezen szervek rosszindulatú betegségeinek megítélésekor figyelembe kell venni a Kézikönyv Onkológiai fejezetében foglaltakat is, mely tájékoztat a minősítéssel kapcsolatban és figyelembe kell venni a szervekre vonatkozó speciális előírásokat is.
+
+## 9. Függelék: Mozgásszervi követelmények
+
+## (Lásd a JAR FCL 3.200 és 3.320 pontot)
+
+## 1. Kóros fizikai állapot minősítésekor, ideértve az elhízást vagy izomgyengeséget is, egészségügyi szempontból ellenőrző repülésre, illetve szimulátor-ellenőrzésre lehet szükség, a szolgálat ellenőrzése mellett. Különös figyelemmel kell lenni a vészhelyzeti eljárásokra és a vészhelyzeti kiürítésekre. Szükség esetén minősítési korlátozások alkalmazhatók, pl. csak meghatározott légijárműre érvényes a minősítés, vagy csak többtagú személyzettel (Class 1. ’OML’) vagy biztonsági pilótával (Class 2. ’OSL’) végezhet repülést.
+
+## 2. Végtaghiány esetén az 1. Egészségügyi Osztályban a minősítés megújítását, a 2. Egészségügyi Osztályban a minősítést mérlegelheti a szolgálat sikeres ellenőrző repülés vagy szimulátor-ellenőrzés után, a 3.125 pontnak megfelelően.
+
+## 3. A mozgásszervek gyulladásos, infiltratív, traumás vagy degeneratív elváltozásainak minősítését a szolgálat mérlegelheti. Feltétel a folyamat remissziója, valamint, hogy a vizsgált személy ne szedjen olyan gyógyszert, mely nem egyeztethető össze a repülés biztonságával és sikeresen megfelelt az ellenőrző repülésen vagy a szimulátor-ellenőrzésen. Szükség esetén minősítési korlátozások alkalmazhatók, pl. csak meghatározott légijárműre érvényes a minősítés, vagy csak többtagú személyzettel (Class 1. ’OML’) vagy biztonsági pilótával (Class 2. ’OSL’) végezhet repülést.
+
+## 4. Ezen szervek rosszindulatú betegségeinek megítélésekor figyelembe kell venni a Kézikönyv Onkológiai fejezetében foglaltakat is, mely tájékoztat a minősítéssel kapcsolatban és figyelembe kell venni a szervekre vonatkozó speciális előírásokat is.
+
+## 10. Függelék: Pszichiátriai követelmények
+
+## (Lásd a JAR FCL 3.205 és 3.325 pontot)
+
+## 1. A schizophrenia, schizotípia és a téveseszmék megalapozott diagnózisa kizáró okot jelent. A kórelőzményben szereplő pszichotikus állapot esetén a szolgálat akkor mérlegelheti a minősítést, ha a korábbi diagnózis pontatlan volt, vagy revízióra került, vagy csak egyszeri delíriumos epizód volt és a beteg nem szenved tartós elmezavarban.
+
+## 2. A hangulati élet diagnosztizált zavara kizáró okot jelent. A szolgálat mérlegelheti a minősítést az eset részletes elemzését követően, függően az eset típusától és súlyosságától és ha a pszichotróp gyógyszerek szedését már elégséges ideje abbahagyták.
+
+## 3. Egyetlen autoagresszív esemény vagy a környezet számára nyilvánvaló viselkedési zavar ismétlődése kizáró okot jelent. Az állapot teljes rendeződése után a szolgálat mérlegelheti az orvosi minősítést az eset részletes elemzését követően, és szükség lehet pszichológiai vagy pszichiátriai vizsgálatra is. Neuropszichiátriai szakvélemény is kérhető.
+
+## 4. Az alkohol, vagy más drogok okozta mentális vagy viselkedési zavar, függőséggel vagy anélkül kizáró okot jelent. 2 év dokumentált absztinencia vagy drogmentesség után a szolgálat mérlegelheti a minősítést. A minősítés megújítását korábban is mérlegelheti a szolgálat, korlátozás alkalmazható többtagú személyzettel (Class 1. ’OML’) vagy biztonsági pilótával (Class 2. ’OSL’) végzett repülésre. Az egyedi esettől függően, a szolgálat döntése alapján a kezelésnek és ellenőrzésnek a következőket kell magában foglalnia:
+
+## (a) néhány hetes intézeti kezelés, majd azt követően;
+
+## (b) folyamatos ellenőrzés, melyet a hatóság által elfogadott pszichiáter végez; és
+
+## (c) a továbbiakban is folyamatos ellenőrzés, rendszeres vérvizsgálat és szakmai értékelés kérhető időbeli korlátozás nélkül.
+
+## 11. Függelék: Neurológiai követelmények
+
+## (Lásd a JAR FCL 3.210 és 3.330 pontot)
+
+## 1. Kizáró okot jelent az idegrendszer minden krónikus vagy progresszív jellegű jelentős funkciózavara, mely okozott, vagy nagy valószínűséggel okozhat jelentős cselekvőképességbeli zavart. A szolgálat részletes kivizsgálás után mérlegelheti az egyéni elbírálást azokban a kisfokú elváltozással járó krónikus esetekben, amikor az állapot elfogadhatónak tekinthető.
+
+## 2. Az egyszeri vagy ismételten jelentkező, tisztázatlan eredetű tudatzavar kizáró okot jelent. Az egyszeri ájulásos epizód után a szolgálat mérlegelheti az alkalmas minősítést, amennyiben az ok kellően tisztázott, de az ismétlődés minden esetben kizáró ok.
+
+## 3. Az elektroenkephalográfia során észlelt paroxizmális epileptiform jelek, illetve a fokális lassú hullámok kizáró okot jelentenek. További kivizsgálást a szolgálatnak kell végeznie.
+
+## 4. Az epilepszia diagnózisa kizáró okot jelent. Kivételt jelentenek a gyermekkori jóindulatú epilepsziák, melyeknek igen alacsony a felnőttkori ismételt jelentkezése és a vizsgált személy legalább 10 éve roham- és gyógyszermentes. Egy vagy több epilepsziás roham az 5. életév után kizáró okot jelent. Az egyszeri szimptómás görcsroham után, amennyiben a szolgálat által elfogadott neurológus szerint az ismétlődés esélye minimális, a szolgálat mérlegelheti az alkalmas minősítést.
+
+## 5. Az egyszeri, nem lázas eredetű epilepsziás roham után a szolgálat mérlegelheti az alkalmas minősítést, amennyiben a vizsgált személy legalább 10 éve roham- és gyógyszermentes, nincs kimutatható prediszponáló tényező és a roham ismétlődésének esélye elfogadhatóan alacsony. Az 1. Egészségügyi Osztályú minősítésnél az „OML” korlátozást kell alkalmazni.
+
+## 6. Az eszméletvesztéssel, illetve penetráló koponyasérülésekkel járó traumás eseteket minden alkalommal a szolgálat minősíti, a szolgálat által elfogadott neurológus véleménye alapján. A minősítés a teljes gyógyulás után mérlegelhető, és egyúttal a szolgálat számára elfogadhatóan alacsony az epilepsziás roham esélye is.
+
+## 7. A gerincvelő és a perifériás idegrendszer sérülése vagy betegsége esetén a minősítéskor figyelembe kell venni a mozgásszervi követelményeket és a Kéziköny vonatkozó fejezetét is.
+
+## 8. Ezen szervek rosszindulatú betegségeinek megítélésekor figyelembe kell venni a Kézikönyv Onkológiai fejezetében foglaltakat is, mely tájékoztat a minősítéssel kapcsolatban és figyelembe kell venni a szervekre vonatkozó speciális előírásokat is. Minden rosszindulatú koponyaűri daganat kizáró okot jelent.
+
+## 12. Függelék: Szemészeti követelmények
+
+## (Lásd a JAR FCL 3.215 és 3.335 pontot)
+
+## 1. (a) Az 1. Egészségügyi Osztályú minősítés első kiadásához a szolgálat által elfogadott szemész vagy szemvizsgáló szakember által végzett szemészeti vizsgálat szükséges. Minden kóros vagy kétséges esetet a hatóság által elfogadott szemészhez kell küldeni.
+
+## (b) A 2. Egészségügyi Osztályú minősítés első kiadásához a szolgálat által elfogadott szemész vagy szemvizsgáló szakember által végzett szemészeti vizsgálat szükséges vagy a szolgálat döntése alapján végezheti a repülőorvos is. Amennyiben a látóélesség korrekciója szükséges a követelmények teljesítéséhez, az aktuális szemüveg/kontaktlencse előírásának másolatát meg kell küldeni.
+
+## 2. Minden orvosi minősítést megújító/meghosszabbító vizsgálat alkalmával ellenőrizni kell a látási funkciókat és ki kell zárni az esetleges kóros elváltozásokat. Minden kóros vagy kétséges esetet a hatóság által elfogadott szemészhez kell küldeni.
+
+## 3. A következő esetekben, de nem kizárólagosan, szemészeti szakvizsgálatot kell indikálni: a nyers látóélesség jelentős csökkenése esetén, a látóélesség legjobb korrekciós értékének bármilyen csökkenésekor, és/vagy a szem betegsége, sérülése vagy műtéte alkalmával.
+
+## 4. Ezen szervek rosszindulatú betegségeinek megítélésekor figyelembe kell venni a Kézikönyv Onkológiai fejezetében foglaltakat is, mely tájékoztat a minősítéssel kapcsolatban és figyelembe kell venni a szervekre vonatkozó speciális előírásokat is. Minden rosszindulatú koponyaűri daganat kizáró okot jelent.
+
+## 13. Függelék: A látóélesség követelményei
+
+## (Lásd a JAR FCL 3.215, 3.220, 3.335 és 3.340 pontot)
+
+## 1. A szem fénytörési értéke és a funkcionális teljesítmény szolgál a minősítés alapjául.
+
+## 2. (a) 1. Egészségügyi Osztály. A szolgálat +5 és –6 dioptrián belüli fénytörési hiba esetén mérlegelheti az alkalmasságot, ha:
+
+## (1) kizárható a szem kóros elváltozása;
+
+## (2) az optimális korrekciót jól megfontolták;
+
+## (3) ha a fénytörési hiba ±3 dioptria között van, akkor a szolgálat által elfogadott szemész szakorvos 5 évenkénti felülvizsgálata szükséges.
+
+## (b) 1. Egészségügyi Osztály. Amennyiben az orvosi minősítést meghosszabbító vagy megújító vizsgálat alkalmával 6 dioptriánál nagyobb a fénytörési hiba, a szolgálat mérlegelheti az orvosi minősítés újbóli megadását, a következők szerint:
+
+## (1) kizárható a szem kóros elváltozása;
+
+## (2) az optimális korrekciót jól megfontolták;
+
+## (3) ha a fénytörési hiba nagyobb, mint 6 dioptria, akkor a szolgálat által elfogadott szemész szakorvos 2 évenkénti felülvizsgálata szükséges.
+
+## (c) 2. Egészségügyi Osztály. Amennyiben –5/–8 dioptria közötti fénytörési hiba, a szolgálat mérlegelheti az orvosi minősítést, a következők szerint:
+
+## (1) kizárható a szem kóros elváltozása;
+
+## (2) az optimális korrekciót jól megfontolták.
+
+## 3. Astigmia 1. Egészségügyi Osztály. Az orvosi minősítést meghosszabbító vagy megújító vizsgálat alkalmával, ha az astigmia nagyobb mint 3,0 dioptria, a szolgálat mérlegelheti az orvosi minősítés újbóli megadását, a következők szerint:
+
+## (1) kizárható a szem kóros elváltozása;
+
+## (2) az optimális korrekciót jól megfontolták;
+
+## (3) a szolgálat által elfogadott szemész szakorvos 2 évenkénti felülvizsgálata szükséges.
+
+## 4. Keratokónusz. Keratokónusz esetén a szolgálat akkor mérlegelheti az orvosi minősítés újbóli megadását az 1. Egészségügyi Osztályban az orvosi minősítést meghosszabbító vagy megújító vizsgálat alkalmával,, illetve a 2. Egészségügyi Osztályban, ha:
+
+## (a) a vizsgált személy korrekciós lencsével teljesíti a látási követelményeket;
+
+## (b) a szolgálat által elfogadott szemész felülvizsgálata szükséges a szolgálat által meghatározott időszakonként 6 havonta.
+
+## 5. Anisometropia. 3,0 dioptriát meghaladó anisometropia esetén a szolgálat akkor mérlegelheti az orvosi minősítés újbóli megadását az 1. Egészségügyi Osztályban az orvosi minősítést meghosszabbító vagy megújító vizsgálat alkalmával, ha:
+
+## (1) kizárható a szem kóros elváltozása;
+
+## (2) az optimális korrekciót jól megfontolták;
+
+## (3) a szolgálat által elfogadott szemész szakorvos 2 évenkénti felülvizsgálata szükséges.
+
+## 6. (a) Egyszemes látás
+
+## (1) Az egyszemes látás kizáró ok az 1. Egészségügyi Osztályban.
+
+## (2) 2. Egészségügyi Osztályban minősítés első kiadásakor funkcionális egyszemes látás esetén a szolgálat mérlegelheti az orvosi minősítés megadását, ha
+
+## (a) az egyszemes látás 5 éves életkor után alakult ki;
+
+## (b) az első vizsgálatkor a jó szem látóértékei elérik a következőket:
+
+## (i) a távoli látóérték (korrekció nélkül) legalább 6/6;
+
+## (ii) nincs fénytörési hiba;
+
+## (iii) az előzményekben látóélességet javító műtét nem szerepel;
+
+## (iv) kizárható a szem kóros elváltozása.
+
+## (c) a szolgálat által elfogadott képzett pilóta által végzett ellenőrző repülés is kedvező eredményű. A pilótának ismernie kell az egyszemes látással összefüggő potenciális nehézségeket;
+
+## (d) a légiközlekedési hatóság által meghatározott üzemeltetési korlátozások alkalmazhatók.
+
+## (3) A szolgálat akkor mérlegelheti az orvosi minősítés újbóli megadását a 2. Egészségügyi Osztályban az orvosi minősítést meghosszabbító vagy megújító vizsgálata alkalmával, ha a szolgálat által elfogadott szemész szakorvos véleménye alapján a fennálló szemészeti elváltozás elfogadható és a hatóság által elfogadott képzett pilóta által végzett ellenőrző repülés is kedvező eredményű. A pilótának ismernie kell az egyszemes látással összefüggő potenciális nehézségeket.
+
+## A légiközlekedési hatóság által meghatározott üzemeltetési korlátozások alkalmazandók.
+
+## (b) Az egyik szem látóélességének a JAR-FCL 3.220 pont szerinti határérték alá csökkenése esetén az 1. Egészségügyi Osztályban mérlegelhető az orvosi minősítés megújítása, feltéve, ha a hatóság által elfogadott szemész véleménye alapján ép a kétszemes látótér és a fennálló szemészeti elváltozás elfogadható. Kedvező eredményű ellenőrző repülés szükséges és az orvosi minősítés az 1. Egészségügyi Osztályban kizárólag korlátozással (Class 1. ’OML’) adható ki.
+
+## (c) Az egyik szem látóélességének a JAR-FCL 3.340 pont szerinti határérték alá csökkenése esetén a 2. Egészségügyi Osztályban mérlegelhető az orvosi minősítés megújítása, feltéve, ha a hatóság által elfogadott szemész véleménye alapján, a fennálló szemészeti elváltozás elfogadható és a másik szem látóképessége megfelelő, szükség esetén előírható a kedvező eredményű ellenőrző repülés is.
+
+## (d) A jelentkező minősíthető alkalmasnak látótér beszűkülés esetén, ha a kétszemes látótér normális és a fennálló szemészeti elváltozás elfogadható a szolgálat számára.
+
+## 7. A szemizmok együttműködési zavara (heterophoria). A jelentkezőt/minősítéssel rendelkezőt a hatóság által elfogadott szemész vizsgálja meg. A fúziós készséget a szolgálat által elfogadott módszerrel kell vizsgálni (pl. Goldman-féle vörös/zöld kétszemes fúziós teszt).
+
+## 8. A látóélességet javító műtét után az 1. és 2. Egészségügyi Osztályban a szolgálat mérlegelheti az orvosi minősítést, amennyiben:
+
+## (a) a műtét előtti refrakciós hiba kisebb +5/–6 dioptriánál az 1. Egészségügyi Osztályban és +5/–8 dioptriánál 2. Egészségügyi Osztályban (lásd a JAR-FCL 3.220(b) és 3.340(b) pontot);
+
+## (b) megfelelően stabil fénytörő képességet sikerült elérni (a napi ingadozás 0.75 dioptrián belül van);
+
+## (c) a szemészeti vizsgálat nem jelez műtét utáni szövődményt;
+
+## (d) a káprázási szenzitivitás a normál értékeken belüli;
+
+## (e) nem károsodott a mezopikus kontraszt szenzitivitás;
+
+## (f) a szolgálat által elfogadott szemész szakorvos felülvizsgálata szükséges.
+
+## 9. (a) Szürkehályog műtét. Az 1. és 2. Egészségügyi Osztályban a minősítést a műtét után 3 hónappal mérlegelheti a szolgálat.
+
+## (b) Retina műtét. Sikeres műtét után 6 hónappal mérlegelheti a szolgálat az 1. Egészségügyi Osztályban az orvosi minősítés megújítását, a 2. Egészségügyi Osztályban az orvosi minősítés kiadását. Lézeres retina terápia után a szolgálat mérlegelheti az alkalmas minősítést 1. és 2. Egészségügyi Osztályban. Ha szükséges, a szolgálat nyomonkövető szemészeti szakorvosi vizsgálatokat rendelhet el.
+
+## (c) Zöldhályog műtét. Sikeres műtét után 6 hónappal mérlegelheti a szolgálat az 1. Egészségügyi Osztályban az orvosi minősítés megújítását, a 2. Egészségügyi Osztályban az orvosi minősítés kiadását. Ha szükséges, a szolgálat nyomonkövető szemészeti szakorvosi vizsgálatokat rendelhet el.
+
+## 14. Függelék: A színlátás követelményei
+
+## (Lásd a JAR FCL 3.225, 3.345 pontot)
+
+## 1. Az Ishihara tesztet (24 táblás változat) akkor teljesíti a vizsgált személy, ha az első 15 táblát hiba, bizonytalankodás vagy tétovázás nélkül (3 másodpercen belül) azonnal felismeri. A képeket véletlenszerűen kell bemutatni. A megvilágítási viszonyokat a Kézikönyv Szemészeti fejezete is tartalmazza.
+
+## 2. Amennyiben a vizsgált személy téveszt az Ishihara táblák olvasásakor, a következő vizsgálatok egyikét el kell végezni:
+
+## (a) anomaloszkópia (Nagel-féle vagy azzal egyenértékű). A tesztet akkor teljesítette, ha trichromátnak bizonyult és színegyezést maximálisan 4 skála egységen belül talál, vagy
+
+## (b) színes lámpa teszt. A vizsgálat eredménye akkor fogadható el, ha a tesztet hiba nélkül teljesítette a vizsgált személy a szolgálat által elfogadható lámpa tesztek egyikén, ilyenek a Holmes, a Beynes- vagy a Spectrolux-féle tesztek.
+
+## 15. Függelék: Fül-orr-gégészeti követelmények
+
+## (Lásd a JAR FCL 3.230 és 3.350 pontot)
+
+## 1. Az első alkalmassági vizsgálat alkalmával teljes körű fül-orr-gégészeti vizsgálatot kell végezni, a szolgálat által elfogadott és a repülési fül-orr-gégészetben jártas szakorvos által vagy az ő irányítása és felügyelete mellett.
+
+## 2. Az orvosi minősítés meghosszabbításakor/megújításakor minden kóros vagy nem egyértelmű fül-orr-gégészeti esetet a szolgálat által elfogadott szakorvoshoz kell utalni.
+
+## 3. Nem fertőzéses eredetű, egyszerű dobhártya perforáció esetén mérlegelhető az alkalmas minősítés, amennyiben az nem befolyásolja a fül normális működését.
+
+## 4. A spontán vagy pozicionális nystagmus esetén részletes vesztibuláris kivizsgálást végezzen a szolgálat által elfogadott szakorvos. Ilyen esetben nem fogadható el a jelentősen kóros kalorikus vagy rotációs válasz, az alkalmas minősítés mérlegelhető. A meghosszabbító vagy megújító vizsgálatok alkalmával a kóros vesztibuláris választ a klinikai adatokkal együtt értékelje a szolgálat.
+
+## 5. Ezen szervek rosszindulatú betegségeinek megítélésekor figyelembe kell venni a Kézikönyv Onkológiai fejezetében foglaltakat is, mely tájékoztat a minősítéssel kapcsolatban és figyelembe kell venni a szervekre vonatkozó speciális előírásokat is.
+
+## 16. Függelék: A hallás követelményei
+
+## (Lásd a JAR FCL 3.235 és 3.355 pontot)
+
+## 1. A tiszta hang audiogramnak az 500–3000 Hz közötti frekvenciatartományt kell átfognia. A hallásküszöböket a következő frekvenciákon kell meghatározni:
+
+## 500 Hz,
+
+## 1000 Hz,
+
+## 2000 Hz,
+
+## 3000 Hz.
+
+## 2. (a) Halláscsökkenés esetén további vizsgálatokra és minősítésre a szolgálathoz kell utalni a vizsgált személyt.
+
+## (b) Amennyiben a fedélzeti zajnak megfelelő normál munkakörnyezetben megfelelő hallás igazolható, a minősítés újbóli kiadását mérlegelheti a szolgálat.
+
+## 17. Függelék: Pszichológiai követelmények
+
+## (Lásd a JAR FCL 3.240 és 3.360 pontot)
+
+## 1. A pszichológiai vizsgálat indikációja. A pszichológiai vizsgálat, mely lehet része vagy kiegészítője a pszichiátriai vagy neurológiai vizsgálatnak, végzését akkor kell mérlegelni, amikor a légiközlekedési hatóság olyan azonosítható információ birtokába jut, mely alapján megkérdőjelezhető az egyén alkalmassága mentális vagy személyiség tulajdonságok alapján. Ilyen információ forrásai a következők lehetnek: repülőesemény vagy katasztrófa, a szakmai képzés/tréning vagy vizsga, szakmai mulasztás vagy ismerethiány, mely befolyásolja a szakszolgálati feladatok biztonságos ellátását.
+
+## 2. Pszichológiai kritériumok. A pszichológiai vizsgálat a következő részekből álljon: anamnézis felvétel, alkalmassági vizsgálat, személyiségtesztek és pszichológiai interjú.
+
+## 18. Függelék: Bőrgyógyászati követelmények
+
+## (Lásd a JAR FCL 3.245 és 3.365 pontot)
+
+## 1. Minden bőrelváltozás, mely fájdalommal, diszkomfort érzéssel, irritációval vagy viszketéssel jár, elvonhatja a szakszolgálati engedélyes figyelmét a feladatról, és ezáltal kihat a repülés biztonságára.
+
+## 2. Minden bőrgyógyászati kezelés vagy besugárzás járhat szisztémás hatással is, melyet figyelembe kell venni az orvosi minősítéskor és szükség szerint kell az alkalmas/nem alkalmas minősítést vagy a repülés korlátozását mérlegelni, többtagú személyzettel (Class 1. ’OML’) vagy biztonsági pilótával (Class 2. ’OSL’).
+
+## 3. A bőr malignus és premalignus elváltozásai
+
+## (a) A melanoma malignum, a pikkelysejtes epithelioma, a Bowen-kór és a Paget-kór kizáró okot jelent. A minősítést a szolgálat mérlegelheti, amennyiben az indokolt, az elváltozás teljes eltávolítása megtörtént és folyamatos gondozás biztosított.
+
+## (b) A basalioma (ulcus rodens), keratoacanthoma és egyéb keratózisok esetében a minősítés a szükséges kezelés/eltávolítás után lehetséges.
+
+## 4. Egyéb bőrelváltozások:
+
+## (a) akut vagy kiterjedt krónikus ekcéma,
+
+## (b) bőr retikulózis,
+
+## (c) generalizált betegségek bőrtünetei és
+
+## minden kezelést igénylő hasonló elváltozás minősítése a szolgálat hatáskörébe tartozik.
+
+## 5. Ezen szervek rosszindulatú betegségeinek megítélésekor figyelembe kell venni a Kézikönyv Onkológiai fejezetében foglaltakat is, mely tájékoztat a minősítéssel kapcsolatban és figyelembe kell venni a szervekre vonatkozó speciális előírásokat is.
+
+## 19. Függelék: Onkológiai követelmények
+
+## (Lásd a JAR FCL 3.246 és 3.370 pontot)
+
+## 1. Az alkalmas orvosi minősítést a szolgálat mérlegelheti, amennyiben:
+
+## (a) a kezelés után nincs reziduális malignus daganat;
+
+## (b) a daganat típusának megfelelően elegendő idő telt el a kezelés befejezése óta;
+
+## (c) a daganat kiújulása vagy az áttét miatt bekövetkezhető cselekvőképtelenség rizikója a szolgálat által elfogadható határok között van;
+
+## (d) a kezelésnek sem rövid, sem pedig hosszútávon nincs szövődménye. Anthracyclin kemoterápia után rendszeres kardiológiai ellenőrzést kell végezni;
+
+## (e) az utógondozási terv elfogadható a szolgálat számára.
+
+## 2. Az 1. Egészségügyi Osztályú minősítésnél (Class 1. ’OML’) a 2. Egészségügyi Osztályú minősítésnél (Class 2. ’OSL’) korlátozás alkalmazható.
 
 2. számú melléklet a 14/2002. (II. 26.) KöViM–EüM
 
-együttes rendelethez[^16]
+együttes rendelethez[^40]
 
-[^15]: Az 1. számú melléklet 21. címe (4) bekezdésének a) pontja az 5/2007. (I. 18.) GKM–EüM együttes rendelet 1. § b) pontja szerint módosított szöveg.
-[^16]: A 2. számú melléklet az 5/2007. (I. 18.) GKM–EüM együttes rendelet 1. § b)–c) pontja szerint módosított szöveg.
+[^40]: A 2. számú melléklet a 16/2012. (III. 30.) NFM rendelet 9. § b) pontjával megállapított szöveg.

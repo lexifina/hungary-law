@@ -24,4 +24,6 @@ a) minden olyan repülőesemény után, amelynek a bekövetkeztében emberi tén
 
 b) ha azt a légiközlekedési hatóság elrendeli.
 
-(5) A (3) bekezdés b) pontjában említett esetben a szünetelés akkor oldható fel, ha az érintett személy részt vett repülőegészségügyi alkalmassági ellenőrző vizsgálaton, vagy a szolgálat a beküldött orvosi dokumentáció alapján mentesítette az ellenőrző vizsgálat alól. Terhesség megállapításakor [(3) bekezdés c) pont] a szolgálat akkor minősítheti alkalmasnak az érintett személyt, ha állapota megfelel a 1. számú melléklet 12. (1) c); 12. (2) c); 12. (3) c) és a 12. (4) a) pontjaiban foglaltaknak.
+(5)[^9] Terhesség esetén a légiközlekedési hatóság meghatározott időre feloldhatja az érvényesség felfüggesztését, ha az egészségi állapot megfelel az 1. melléklet I. Fejezet JAR-FCL 3.195 c), az 1. melléklet II. Fejezet 3.315 c) és az 1. melléklet III. Fejezet EMRC (ATC) 9.1 (b) pontjában rögzítetteknek, és meg kell szüntetni a korlátozást a terhességet követően, ha a légiközlekedési hatóság döntése szerint történt vizsgálat alapján a szolgálat megállapította, hogy alkalmas szakszolgálati feladatainak ellátására.
+
+[^9]: A 4. § (5) bekezdése a 16/2012. (III. 30.) NFM rendelet 2. §-ával megállapított szöveg.
