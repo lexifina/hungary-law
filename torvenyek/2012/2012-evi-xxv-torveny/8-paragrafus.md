@@ -1,17 +1,1 @@
 8. § Ez a törvény a személyes adatok feldolgozása vonatkozásában az egyének védelméről és az ilyen adatok szabad áramlásáról szóló, 1995. október 24-i 95/46/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke,
-
-a köztársasági elnök feladat-
-
-és hatásköreit gyakorolva
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke,
-
-az Országgyűlés elnökének
-
-feladatait ellátva
