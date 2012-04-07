@@ -1,0 +1,1 @@
+29/A. § A foglalkoztatás bővítése és rugalmasabbá tétele érdekében szükséges intézkedésekről szóló törvény által szabályozott járulékkedvezmény igénybevételéhez 2012. január 1-jét megelőzően, a munkaügyi központtal kötött megállapodás esetében a járulékkedvezmény érvényesítésére a megállapodás megkötésének időpontjában hatályos szabályokat kell alkalmazni.
