@@ -15,3 +15,7 @@ b) az 1. melléklet 2. pontja szerinti esetben a (2) vagy a (3) bekezdésben fog
 (5) Teljesítménybér esetén az (1)–(3) bekezdés alkalmazása során a teljesítménybér-tényezőket is szükséges úgy módosítani, hogy százszázalékos teljesítést feltételezve az 1. melléklet szerinti munkabéremelés megtörténjen.
 
 (6) Amennyiben az (1)–(3) bekezdésben foglaltak végrehajtását követően a munkavállaló személyi alapbére, teljesítménybér-tényezői vagy rendszeres bérpótlékainak mértéke a 2. § (6)–(7) bekezdésben foglalt esetek kivételével – ide nem értve az e bérelemek közötti átcsoportosítást – a munkavállaló számára hátrányosan megváltozik, akkor a változás időpontjától az elvárt béremelés nem teljesültnek minősül.
+
+(7)[^3] Az (1)–(6) bekezdéstől eltérően a kölcsönzött munkavállaló tekintetében az elvárt béremelés akkor is teljesítettnek tekintendő, ha a kölcsönbeadó a kölcsönzött munkavállaló munkabérét olyan összegben állapítja meg, amely a kölcsönvevőnél a vele azonos vagy hasonló munkakörben munkaviszonyban foglalkoztatottakat az elvárt béremelés végrehajtását követően – a kölcsönvevő nyilatkozata alapján – megilleti.
+
+[^3]: A 3. § (7) bekezdése a 69/2012. (IV. 6.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.

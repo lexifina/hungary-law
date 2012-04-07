@@ -18,8 +18,13 @@ d) ha a munkavállaló 2011. október 31-ét követően létesített a munkálta
 
 (6) A munkavállaló napi, heti, havi munkaideje 2011. október 31-ét követő változása esetén a (2) bekezdés szerinti 2011. évi rendszeres bért és annak összetevőit korrigálni kell a munkaidő változás arányában.
 
-(7) A munkavállaló munkakörének egészségkárosodás következtében 2011. október 31-ét követő változása esetén a (2) bekezdés szerinti 2011. évi rendszeres bért és annak összetevőit a munkavállaló új munkakörével azonos vagy hasonló munkakörben dolgozók átlagos béradatai alapján kell meghatározni.
+(7)[^1] A munkavállaló munkakörének 2011. október 31-ét követő változása esetén a (2) bekezdés szerinti 2011. évi rendszeres bért és annak összetevőit a munkavállaló új munkakörével azonos vagy hasonló munkakörben dolgozók átlagos béradatai alapján kell meghatározni. Ilyen munkakör hiányában a 2011. november 1. napja és 2011. december 31. napja közötti időszakban bekövetkezett munkakör változás esetén a 2011. évi rendszeres bért és annak összetevőit a munkakör változást követő 2011. évi időszak tényleges béradatai alapján kell meghatározni. Az e bekezdésben foglaltak a bércsökkenéssel járó munkakör változások esetén – ide nem értve az egészségkárosodás miatt bekövetkező munkakör változást – a munkáltató 2011. évi átlagos statisztikai állományi létszámának legfeljebb 5%-áig, de legalább egy fő esetében alkalmazhatók.
 
 (8) A gyermek ápolása, gondozása céljából kapott fizetés nélküli szabadságon, továbbá a közeli hozzátartozó ápolására vagy gondozására biztosított fizetés nélküli szabadságon lévő munkavállaló (2) bekezdés szerinti 2011. évi személyi alapbérét az Mt. 84. §-ában foglaltak figyelembevételével kell meghatározni.
 
 (9) Órabér esetén a havi személyi alapbért az Mt. 144/A. §-ának értelemszerű alkalmazásával kell meghatározni.
+
+(10)[^2] A (2) bekezdéstől eltérően a kölcsönzött munkavállaló munkabére elvárt mértékű emelésének kiszámításánál 2011. évi munkabéren a 2011. november 1. napja és 2011. december 31. napja közötti időszakban megállapított utolsó, rendszeres bérpótlékaival növelt személyi alapbérének vagy százszázalékos teljesítménybérének egész havi átlagát kell érteni.
+
+[^1]: A 2. § (7) bekezdése a 69/2012. (IV. 6.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (10) bekezdését a 69/2012. (IV. 6.) Korm. rendelet 11. § (2) bekezdése iktatta be.
