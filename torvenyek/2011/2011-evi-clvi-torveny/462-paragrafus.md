@@ -5,3 +5,17 @@
 (2) Az (1) bekezdésben hivatkozott hatósági bizonyítványt az állami foglalkoztatási szerv a Karrier Híd Programban való részvételre jogosult természetes személy által 2012. október 31-éig benyújtott kérelem alapján állítja ki. A Karrier Híd Programban a felmentését (felmondását) közvetlenül megelőzően kormánytisztviselői jogviszonyban, közalkalmazotti jogviszonyban, hivatásos szolgálati jogviszonyban, igazságügyi alkalmazotti szolgálati viszonyban vagy költségvetési szervnél munkaviszonyban foglalkoztatott személy vehet részt. Törvény, kormányrendelet, valamint az adópolitikáért felelős miniszterrel egyetértésben kiadott miniszteri rendelet a Karrier Híd Programban való részvételre további feltételeket is megállapíthat, valamint törvény az e törvényben meghatározottakhoz képest bővítheti a részvételre jogosultak körét. Az állami foglalkoztatási szerv – törvény, kormányrendelet, vagy az adópolitikáért felelős miniszterrel egyetértésben kiadott miniszteri rendelet eltérő rendelkezése hiányában – a hatósági bizonyítványt ugyanazon ügyfél kérelmére egy alkalommal állítja ki, valamint annak egyetlen eredeti példányát adja át az ügyfél részére. A hatósági bizonyítvány a kiállításának napjától a kiállításának hónapját követő tizenkettedik hónap utolsó napjáig érvényes. Az állami foglalkoztatási szerv a hatósági bizonyítványon feltünteti érvényességi idejének kezdő és utolsó napját.
 
 (3) Az adókedvezmény összegét a kifizető havonta, az (1) bekezdésben meghatározott természetes személlyel az adott hónapban fennálló, adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő az (1) bekezdésben meghatározott természetes személyt (munkavállalót) a hatósági bizonyítványa érvényességi idején belül eső adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér kétszeresének a 13,5 százalékával. Az egyszerűsített foglalkoztatásról szóló törvény alapján létesített munkaviszony szerinti munkabért az adókedvezmény összegének kiszámításánál nem lehet figyelembe venni.
+
+(4) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy
+
+a) a Karrier Híd Programban való részvétel további, e törvényben meg nem határozott feltételeit,
+
+b) a Karrier Híd Programban való részvételre jogosult, e törvényben meg nem határozott személyek körét,
+
+c) a Karrier Híd Programba történő belépésre vonatkozó eljárási szabályokat,
+
+d) a Karrier Híd Programban való részvétel megszűnésének eseteit, továbbá
+
+e) a Karrier Híd Program megvalósítását szolgáló adókedvezmény igénybevételének alapjául szolgáló hatósági bizonyítvány kibocsátására vonatkozó eljárási szabályokat
+
+az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
