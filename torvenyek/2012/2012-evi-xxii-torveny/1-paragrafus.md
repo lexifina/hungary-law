@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Szlovák Köztársaság Kormánya között a két ország közös államhatárán, Vámosmikola és Ipolypásztó (Pastovce) települések közötti közúti Ipoly-híd és a kapcsolódó létesítmények megépítéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
