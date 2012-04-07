@@ -68,7 +68,7 @@ c) az európai uniós társfinanszírozásra szolgáló pénzeszközöket,
 
 d) a külön jogszabályban meghatározott közfoglalkoztatás támogatására fordítható pénzeszközöket,
 
-e)
+e) az adórendszer átalakítása miatt kiegészítő munkáltatói támogatásra fordítható pályázati pénzeszközöket,
 
 f) a Nyugdíjbiztosítási Alapnak átadandó pénzeszközöket,
 
