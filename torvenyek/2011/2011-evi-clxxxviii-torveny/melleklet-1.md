@@ -200,7 +200,7 @@ Országgyűlés hivatali szervei
 
 |
 
-18 443,3
+18 486,4
 
 |
 
@@ -248,7 +248,7 @@ Személyi juttatások
 
 |
 
-10 281,1
+10 300,3
 
 |
 
@@ -274,7 +274,7 @@ Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 |
 
-2 502,4
+2 507,5
 
 |
 
@@ -300,7 +300,7 @@ Dologi kiadások
 
 |
 
-3 939,5
+3 947,4
 
 |
 
@@ -376,7 +376,7 @@ Intézményi beruházási kiadások
 
 |
 
-343,5
+354,4
 
 |
 
@@ -904,7 +904,7 @@ Fejezeti egyensúlybiztosítási tartalék
 
 |
 
-22 486,6
+22 529,7
 
 |
 
@@ -912,7 +912,7 @@ Fejezeti egyensúlybiztosítási tartalék
 
 |
 
-22 021,6
+22 064,7
 
 |
 
@@ -2340,7 +2340,7 @@ I. fejezet összesen:
 
 |
 
-103 189,6
+103 232,7
 
 |
 
@@ -2348,7 +2348,7 @@ I. fejezet összesen:
 
 |
 
-22 844,7
+22 887,8
 
 |
 
@@ -11376,7 +11376,7 @@ Dologi kiadások
 
 |
 
-21. cím összesen:
+1 - 20. cím összesen:
 
 |
 
@@ -11484,7 +11484,7 @@ Különféle kifizetések
 
 |
 
-Munkavállalók adórendszer átalakítása miatti kompenzációja
+Munkáltatók adórendszer átalakítása miatti támogatása
 
 |
 
@@ -51136,7 +51136,7 @@ Egyéb vegyes kiadások
 
 |
 
-4 100,0
+4 056,9
 
 |
 
@@ -52392,7 +52392,7 @@ XLII. fejezet összesen:
 
 |
 
-1 294 704,3
+1 294 661,2
 
 |
 

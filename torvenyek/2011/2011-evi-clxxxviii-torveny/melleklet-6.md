@@ -10,25 +10,25 @@ Előirányzat: 1 777,7 millió forint
 
 I. Az önkormányzati fejezeti tartalék előirányzatot növeli
 
-a) a települési önkormányzatok és társulásaik által feladatmutató alapján igényelt normatív hozzájárulásoknak és támogatásoknak az államháztartásról szóló jogszabályokban meghatározott időpontokban és esetekben – a nem helyi önkormányzat vagy társulás részére történő feladatátadással összefüggő előirányzat-csökkenés kivételével – lemondott előirányzat összege,
+a) a helyi önkormányzatok és társulásaik által feladatmutató alapján igényelt normatív hozzájárulásoknak és támogatásoknak az államháztartásról szóló jogszabályokban meghatározott időpontokban és esetekben – a nem helyi önkormányzat vagy társulás részére történő feladatátadással összefüggő előirányzat-csökkenés kivételével – lemondott előirányzat összege,
 
 b) az intézményátadásból felszabaduló olyan összeg, amely nem illeti meg az átvevőt,
 
-c) a költségvetési évet megelőző évi elszámolás alapján a települési önkormányzatok és társulásaik által költségvetési évben visszafizetett hozzájárulások és támogatások összege,
+c) a költségvetési évet megelőző évi elszámolás alapján a helyi önkormányzatok és társulásaik által költségvetési évben visszafizetett hozzájárulások és támogatások összege,
 
-d) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a települési önkormányzatok és társulásaik által jogtalanul igénybe vett hozzájárulások és támogatások költségvetési évben visszafizetett összege,
+d) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatok és társulásaik által jogtalanul igénybe vett hozzájárulások és támogatások költségvetési évben visszafizetett összege,
 
-e) a települési önkormányzatok és társulásaik által költségvetési évben megfizetett igénybevételi, kiegészítő és késedelmi kamat összege.
+e) a helyi önkormányzatok és társulásaik által költségvetési évben megfizetett igénybevételi, kiegészítő és késedelmi kamat összege.
 
-II. Az önkormányzati fejezeti tartalék előirányzatot csökkenti a települési önkormányzatok és társulásaik által feladatmutató alapján igényelt normatív hozzájárulásoknak és támogatásoknak az államháztartásról szóló jogszabályokban meghatározott időpontokban és esetekben – a nem helyi önkormányzattól vagy társulástól történő feladatátvétellel összefüggő előirányzat-növelés kivételével – pótigényelt előirányzat összege.
+II. Az önkormányzati fejezeti tartalék előirányzatot csökkenti a helyi önkormányzatok és társulásaik által feladatmutató alapján igényelt normatív hozzájárulásoknak és támogatásoknak az államháztartásról szóló jogszabályokban meghatározott időpontokban és esetekben – a nem helyi önkormányzattól vagy társulástól történő feladatátvétellel összefüggő előirányzat-növelés kivételével – pótigényelt előirányzat összege.
 
 III. Az önkormányzati fejezeti tartalék terhére a következő kifizetések teljesíthetők
 
-a) a hozzájárulások és támogatások költségvetési évet megelőző évi elszámolása alapján a települési önkormányzatok és társulásaik részéről a költségvetési évben keletkező pótigény összege,
+a) a hozzájárulások és támogatások költségvetési évet megelőző évi elszámolása alapján a helyi önkormányzatok és társulásaik részéről a költségvetési évben keletkező pótigény összege,
 
-b) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a települési önkormányzatokat és társulásokat pótlólagosan megillető hozzájárulások és támogatások költségvetési évben kifizetett összege,
+b) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatokat és társulásokat pótlólagosan megillető hozzájárulások és támogatások költségvetési évben kifizetett összege,
 
-c) az államháztartásról szóló jogszabályok alapján költségvetési évben a települési önkormányzatokat és társulásaikat megillető igénybevételi, késedelmi és kiegészítő kamat összege,
+c) az államháztartásról szóló jogszabályok alapján költségvetési évben a helyi önkormányzatokat és társulásaikat megillető igénybevételi, késedelmi és kiegészítő kamat összege,
 
 d) azon megyei jogú városok támogatása, amelyek 2011-ben megyei önkormányzat által fenntartott vagy támogatott előadó-művészeti szervezetet, könyvtárat működtetnek. A támogatás ezen intézmények működési kiadásaihoz használható fel.
 

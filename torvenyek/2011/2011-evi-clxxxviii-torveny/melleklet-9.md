@@ -16,7 +16,7 @@ Jogi segítségnyújtás (20. cím, 2. alcím, 18. jogcím-csoport)
 
 Átadásra nem került ingatlanok utáni járadék (20. cím, 5. alcím, 4. jogcím-csoport)
 
-Céltartalékok (24. cím)
+Közszférában foglalkoztatottak bérkompenzációja, gyermekgondozási díjban és terhességi-gyermekágyi segélyben részesülők kompenzációja (24. cím, 2. alcím) és Különféle kifizetések (24. cím, 3. alcím)
 
 XII. VIDÉKFEJLESZTÉSI MINISZTÉRIUM fejezetben
 
