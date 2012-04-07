@@ -1,0 +1,3 @@
+4. § A Met. 8. §-a a következő (2) bekezdéssel egészül ki:
+
+„(2) A munkaügyi hatóság a szükséges intézkedések megtétele céljából megkeresi az illetékes hatóságot, ha a harmadik országbeli állampolgár foglalkoztatására érvényes tartózkodási engedély vagy kereső tevékenység folytatására jogosító engedély hiányában került sor, és az ellenőrzés során megállapítja annak valószínűségét, hogy a harmadik országbeli állampolgár foglalkoztatása vagy magyarországi tartózkodása a közrendet, a közbiztonságot, a nemzetbiztonságot veszélyeztetheti, vagy közegészségügyi, járványügyi szempontból veszéllyel járhat.”
