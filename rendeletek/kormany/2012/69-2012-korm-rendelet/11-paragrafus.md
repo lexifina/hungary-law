@@ -1,13 +1,5 @@
 ## 10. § Ez a rendelet az Európai Közösséget létrehozó Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet, az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 2007. december 20-i 1535/2007/EK bizottsági rendelet, valamint az EK-Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról és az 1860/2004/EK rendelet módosításáról szóló 2007. július 24-i 875/2007/EK bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
-11. § (1) A munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés 2012. évi elvárt mértékéről és a béren kívüli juttatás ennek keretében figyelembe vehető mértékéről szóló 299/2011. (XII. 22.) Korm. rendelet (a továbbiakban: R.) 2. § (7) bekezdése helyébe a következő rendelkezés lép:
+11. §[^2]
 
-## „(7) A munkavállaló munkakörének 2011. október 31-ét követő változása esetén a (2) bekezdés szerinti 2011. évi rendszeres bért és annak összetevőit a munkavállaló új munkakörével azonos vagy hasonló munkakörben dolgozók átlagos béradatai alapján kell meghatározni. Ilyen munkakör hiányában a 2011. november 1. napja és 2011. december 31. napja közötti időszakban bekövetkezett munkakör változás esetén a 2011. évi rendszeres bért és annak összetevőit a munkakör változást követő 2011. évi időszak tényleges béradatai alapján kell meghatározni. Az e bekezdésben foglaltak a bércsökkenéssel járó munkakör változások esetén – ide nem értve az egészségkárosodás miatt bekövetkező munkakör változást – a munkáltató 2011. évi átlagos statisztikai állományi létszámának legfeljebb 5%-áig, de legalább egy fő esetében alkalmazhatók.”
-
-(2) Az R. 2. §-a a következő (10) bekezdéssel egészül ki:
-
-## „(10) A (2) bekezdéstől eltérően a kölcsönzött munkavállaló munkabére elvárt mértékű emelésének kiszámításánál 2011. évi munkabéren a 2011. november 1. napja és 2011. december 31. napja közötti időszakban megállapított utolsó, rendszeres bérpótlékaival növelt személyi alapbérének vagy százszázalékos teljesítménybérének egész havi átlagát kell érteni.”
-
-(3) Az R. 3. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Az (1)–(6) bekezdéstől eltérően a kölcsönzött munkavállaló tekintetében az elvárt béremelés akkor is teljesítettnek tekintendő, ha a kölcsönbeadó a kölcsönzött munkavállaló munkabérét olyan összegben állapítja meg, amely a kölcsönvevőnél a vele azonos vagy hasonló munkakörben munkaviszonyban foglalkoztatottakat az elvárt béremelés végrehajtását követően – a kölcsönvevő nyilatkozata alapján – megilleti.”
+[^2]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
