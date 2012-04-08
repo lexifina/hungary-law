@@ -1,3 +1,0 @@
-2. § A Kötv. 5. §-a a következő (10) bekezdéssel egészül ki:
-
-„(10) A korábban belügyi célokra használt, értékesítésre kijelölt állami tulajdonú ingatlanok értékesítéséből és hasznosításából származó – Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetben elszámolandó – bevételek a 2012. évben a Kormány határozatában adott jóváhagyásával a büntetés-végrehajtási szervezet fogvatartotti férőhelyeinek bővítését megvalósító beruházások finanszírozására használhatók fel. A Kormány határozatában – legfeljebb a pénzforgalmilag teljesült értékesítési bevételek mértékéig – új kiadási előirányzatot hozhat létre a Belügyminisztérium fejezetben vagy engedélyezheti a fejezet meglévő kiadási előirányzatának megemelését.”

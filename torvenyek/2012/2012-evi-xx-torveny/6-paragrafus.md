@@ -1,7 +1,0 @@
-6. § A Kötv. 1. mellékletében
-
-a) az I. Országgyűlés fejezet, 1. Országgyűlés Hivatala cím, 1. Országgyűlés hivatali szervei alcím támogatási előirányzata 18 486,4 millió forintra, 1. Működési költségvetés előirányzat-csoport, 1. Személyi juttatások kiemelt előirányzat kiadási előirányzata 10 300,3 millió forintra, 2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat kiadási előirányzata 2507,5 millió forintra, 3. Dologi kiadások kiemelt előirányzat kiadási előirányzata 3947,4 millió forintra, 2. Felhalmozási költségvetés előirányzat-csoport, 1. Intézményi beruházási kiadások kiemelt előirányzat kiadási előirányzata 354,4 millió forintra, az 1–4. cím összesen kiadási előirányzata 22 529,7 millió forintra, támogatási előirányzata 22 064,7 millió forintra, az I. fejezet összesen kiadási előirányzata 103 232,7 millió forintra, támogatási előirányzata 22 887,8 millió forintra változik,
-
-b) a X. Közigazgatási és Igazságügyi Minisztérium fejezet, 24. Céltartalékok cím, 4. „Munkavállalók adórendszer átalakítása miatti kompenzációja” alcím szövegrész helyébe a „Munkáltatók adórendszer átalakítása miatti támogatása” szöveg lép,
-
-c) a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 32. Egyéb költségvetési kiadások cím, 1. Vegyes kiadások alcím, 11. Egyéb vegyes kiadások jogcím-csoport kiadási előirányzata 4056,9 millió forintra, a XLII. fejezet összesen kiadási előirányzata 1 294 661,2 millió forintra változik.
