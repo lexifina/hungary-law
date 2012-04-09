@@ -11,5 +11,3 @@ a) nem felel meg, az egészségügyi államigazgatási szerv a szivarszoba dohá
 b) megfelel, az egészségügyi államigazgatási szerv a szivarszoba tovább működtetését engedélyezi.
 
 (5)–(6)
-
-## Melléklet az 1999. évi XLII. törvényhez

@@ -10,6 +10,6 @@
 
 (7)
 
-(8) A 2. § (2) bekezdésének a) pontja szerinti esetben az (1) bekezdés megfelelően alkalmazandó azzal, hogy helyiségen kívüli dohányzóhely nem zárt légtérben is csak úgy jelölhető ki, ha a dohányzóhely az egészségügyi szolgáltatást igénybevevők szokásos vagy szükségszerű útvonalától megfelelően elkülönül.
+(8) A 2. § (4) bekezdés c) pontja szerinti esetben az (1) bekezdés megfelelően alkalmazandó azzal, hogy helyiségen kívüli dohányzóhely nem zárt légtérben is csak úgy jelölhető ki, ha a dohányzóhely az egészségügyi szolgáltatást igénybevevők szokásos vagy szükségszerű útvonalától megfelelően elkülönül.
 
 (9) Az (1)–(8) bekezdésben, valamint a 4/A. §-ban meghatározott feltételek biztosításáról a közforgalmú intézmény belső szabályzatában meghatározott személy, ennek hiányában az intézmény vezetője, üzemeltetője, a rendezvény szervezője, a közösségi közlekedési eszköz üzembentartója, a közoktatási intézmény vezetője, illetőleg a munkáltató gondoskodik.

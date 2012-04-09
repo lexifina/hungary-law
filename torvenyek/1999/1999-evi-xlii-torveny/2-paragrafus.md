@@ -38,15 +38,25 @@ b) gyermekjóléti, gyermekvédelmi intézményben,
 
 c) az (5) bekezdésben foglalt kivétellel az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § f) pontja szerinti egészségügyi szolgáltatónál, ideértve a többcélú intézményt is, ha abban egészségügyi szolgáltatást is nyújtanak.
 
-(5) A (7) és (8) bekezdésben foglaltak szerint zárt légterű dohányzóhely is kijelölhető
+(5) A (7)–(9) bekezdésben foglaltak szerint zárt légterű dohányzóhely is kijelölhető
 
 a) a 9. §-ban foglalt esetekben,
 
-b) büntetés-végrehajtási intézményekben a fogvatartottak – köztük a kóros elmeállapotúak – számára,
+b) büntetés-végrehajtási intézményekben és a rendőrségi előállító helyiségekben, fogdákban és az őrzött szálláshelyeken a fogvatartottak – köztük a kóros elmeállapotúak – számára,
 
 c) az Eütv. 188. § a) pontja szerinti pszichiátriai intézetben a pszichiátriai betegek számára,
 
-d) a munkavállalók részére, ahol a munkahelyi klíma zárttéri munkahelyen a külön jogszabályban meghatározott korrigált effektív hőmérséklet a 24 °C-ot meghaladja.
+d) a munkavállalók részére, ahol a munkahelyi klíma zárttéri munkahelyen a külön jogszabályban meghatározott korrigált effektív hőmérséklet a 24 °C-ot meghaladja,
+
+e) azon munkavállalók részére a fokozottan tűz- és robbanásveszélyes, a tűz- és robbanásveszélyes, valamint a tűzveszélyes munkahelyeken, létesítményekben, ahol a nyílt légtérben
+
+ea) a munka törvénykönyvében biztosított munkaközi szünettel,
+
+eb) a tűzvédelmi szabályokkal, és
+
+ec) a folytatott tevékenység jellegével
+
+összeegyeztethető dohányzóhelyet nem, vagy csak az élet- és vagyonbiztonságot, valamint a nemzetgazdasági érdekeket jelentősen veszélyeztetve lehetne kijelölni.
 
 (6) A kijelölt dohányzóhelyek e törvényben előírt rendelkezéseknek való megfelelőségét az egészségügyi államigazgatási szerv, tűzvédelmi szempontoknak való megfelelőségét a tűzvédelmi hatóság ellenőrzi.
 
@@ -57,3 +67,5 @@ d) a munkavállalók részére, ahol a munkahelyi klíma zárttéri munkahelyen 
 a) a friss levegő befúvását, illetve az elhasznált levegő elszívását biztosító mechanikus szellőztető berendezés működik, és
 
 b) a dohányzóhelyek kijelölése, valamint a helyiség légöblítése olyan módon került kialakításra, hogy a dohányfüst a keletkezése helyétől közvetlenül az elszívócsatornába áramlik anélkül, hogy a nemdohányzó helyek az áramlás irányába esnének.
+
+(9) Az (5) bekezdés d) és e) pontja szerinti esetekben zárt légterű dohányzóhely az egészségügyi államigazgatási szerv előzetes engedélyével jelölhető ki. Az egészségügyi államigazgatási szerv a kérelemre induló, helyszíni szemlét is magában foglaló hatósági eljárás keretében a dohányzóhely kijelölését abban az esetben engedélyezi, ha az megfelel az (5) bekezdés d) és e) pontjában, valamint a (7) és (8) bekezdésben fogalt követelményeknek. Az egészségügyi államigazgatási szervnek a dohányzóhely kijelölésének engedélyezésére irányuló eljárásáért az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
