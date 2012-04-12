@@ -1,0 +1,1 @@
+## 31. § A 24. § (1) bekezdés b) pontja esetében kedvezményezett lehet az országos sportági szakszövetség, az országos sportági szövetség, sportköztestület, a fogyatékosok országos szövetségei, sportszervezetek, a testkultúrával kapcsolatos felsőoktatási képzésben részt vevő felsőoktatási intézmény, központi költségvetési szerv és a Magyar Turizmus Zrt.

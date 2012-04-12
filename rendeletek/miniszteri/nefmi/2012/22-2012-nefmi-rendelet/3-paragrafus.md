@@ -1,0 +1,1 @@
+## 2. § Az előirányzatokból nyújtott költségvetési támogatások tekintetében – a sportról szóló 2004. évi I. törvény (a továbbiakban: Stv.) 41. § c) pontjában meghatározottakra is figyelemmel – az előirányzatok kezelő szerve a sportpolitikáért felelős miniszter (a továbbiakban: miniszter).
