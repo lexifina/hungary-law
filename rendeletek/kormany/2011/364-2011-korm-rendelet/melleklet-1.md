@@ -4,4 +4,4 @@
 
 [^1]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2012. (III. 9.) Korm. rendelet 2. §-a iktatta be.
 [^2]: A hatálybalépés napja: 2012. március 10.
-[^3]: Az 1. melléklet a 36/2012. (III. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. melléklet a 36/2012. (III. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 70/2012. (IV. 11.) Korm. rendelet 3. §-a szerint módosított szöveg.
