@@ -1,4 +1,4 @@
-## 57. §[^16] A miniszter a „Felkészítést végző sportszakemberek támogatása” előirányzat terhére – a MOB-on keresztül – támogatja a Héraklész Programban részt vevő edzők tevékenységét, valamint az olimpiai, paralimpiai, speciális világjáték-válogatott kerettag sportolók felkészítésében részt vevő sportszakemberek részére Gerevich Aladár-sportösztöndíj folyósítását. A támogatás a 36–38. §-ban foglaltak szerint történik.
+## 57. §[^18] A miniszter a „Felkészítést végző sportszakemberek támogatása” előirányzat terhére – a MOB-on keresztül – támogatja a Héraklész Programban részt vevő edzők tevékenységét, valamint az olimpiai, paralimpiai, speciális világjáték-válogatott kerettag sportolók felkészítésében részt vevő sportszakemberek részére Gerevich Aladár-sportösztöndíj folyósítását. A támogatás a 36–38. §-ban foglaltak szerint történik.
 
 ## 22. Fogyatékosok Nemzeti Sportszövetsége és tagszervezeteinek támogatása
 
@@ -40,4 +40,4 @@ f) sportszövetségek, sportszervezetek, integrált sportszövetségek, sportsze
 
 (4) A FONESZ az (1) és (2) bekezdés szerinti támogatást a tagszervezetei, a fogyatékosok sportját megyei szinten szervező szövetségek, sportegyesületek, valamint a megyei (fővárosi) sportszakigazgatási szervek részére továbbadhatja.
 
-[^16]: Az 57. § a 76/2011. (XII. 29.) NEFMI rendelet 4. §-ával megállapított szöveg.
+[^18]: Az 57. § a 76/2011. (XII. 29.) NEFMI rendelet 4. §-ával megállapított szöveg.

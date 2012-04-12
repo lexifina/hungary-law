@@ -24,7 +24,7 @@ k) a Semmelweis Egyetem Testnevelési és Sporttudományi Kara szakmai feladatai
 
 l) az egyéb, iskolai, diák- és felsőoktatási sporttal összefüggő feladatok ellátását.
 
-(2)[^10] Az (1) bekezdésben meghatározott előirányzat terhére nyújtott támogatást a Magyar Diáksport Szövetség, a Magyar Egyetemi és Főiskolai Sportszövetség, valamint a Magyar Testnevelő Tanárok Országos Egyesülete a MOB-bal kötött szerződésben megjelölt – pályázati úton, eredményességi szempontok figyelembevétele alapján kiválasztott – sportegyesületeknek, sportiskoláknak és tagszervezeteinek, továbbá a területi szintű feladatellátás céljából területi diáksport szövetségeinek, míg a Semmelweis Egyetem Testnevelési és Sporttudományi Kara az (1) bekezdés k) pontja szerinti támogatást sportegyesületek részére továbbadhatja.
+(2)[^12] Az (1) bekezdésben meghatározott előirányzat terhére nyújtott támogatást a Magyar Diáksport Szövetség, a Magyar Egyetemi és Főiskolai Sportszövetség, valamint a Magyar Testnevelő Tanárok Országos Egyesülete a MOB-bal kötött szerződésben megjelölt – pályázati úton, eredményességi szempontok figyelembevétele alapján kiválasztott – sportegyesületeknek, sportiskoláknak és tagszervezeteinek, továbbá a területi szintű feladatellátás céljából területi diáksport szövetségeinek, míg a Semmelweis Egyetem Testnevelési és Sporttudományi Kara az (1) bekezdés k) pontja szerinti támogatást sportegyesületek részére továbbadhatja.
 
 (3) Az (1) bekezdés alapján szakmai feladatok ellátására nyújtott támogatás tekintetében
 
@@ -40,21 +40,21 @@ e) a támogatás legfeljebb 10%-áig a sportesemény szervezésével összefügg
 
 f) a Magyar Diáksport Szövetség által az (1) bekezdés a) pontja alapján szervezett felmenő rendszerű diákolimpiai versenyeken, bajnokságokon kiemelkedően szereplő iskolák jutalmazására,
 
-g)[^11] a támogatás legfeljebb 35%-áig a munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott sportszakemberek juttatásai, a munkaadókat terhelő járulékok, valamint a gazdasági vezetéssel és könyveléssel kapcsolatos költségek,
+g)[^13] a támogatás legfeljebb 35%-áig a munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott sportszakemberek juttatásai, a munkaadókat terhelő járulékok, valamint a gazdasági vezetéssel és könyveléssel kapcsolatos költségek,
 
-h)[^12] a hazai és külföldi versenyeken, edzőtáborokban, más szakmai programokon való részvétel költségei,
+h)[^14] a hazai és külföldi versenyeken, edzőtáborokban, más szakmai programokon való részvétel költségei,
 
-i)[^13] a versenyrendezés (beleértve a jogdíjakat is) és más szakmai rendezvények, képzések, továbbképzések megrendezésének költségei,
+i)[^15] a versenyrendezés (beleértve a jogdíjakat is) és más szakmai rendezvények, képzések, továbbképzések megrendezésének költségei,
 
-j)[^14] a sportszervezet tulajdonában, vagyonkezelésében lévő, vagy az általa bérelt vagy más jogcímen használt, a felkészülésre vagy edzőtáborozásra szolgáló sportlétesítmény fenntartásával, működtetésével összefüggő költségek,
+j)[^16] a sportszervezet tulajdonában, vagyonkezelésében lévő, vagy az általa bérelt vagy más jogcímen használt, a felkészülésre vagy edzőtáborozásra szolgáló sportlétesítmény fenntartásával, működtetésével összefüggő költségek,
 
-k)[^15] pálya- és létesítménybérleti, -használati díjak
+k)[^17] pálya- és létesítménybérleti, -használati díjak
 
 számolhatóak el.
 
-[^10]: A 41. § (2) bekezdése a 76/2011. (XII. 29.) NEFMI rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^11]: A 41. § (3) bekezdés g) pontja a 76/2011. (XII. 29.) NEFMI rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^12]: A 41. § (3) bekezdés h) pontját a 76/2011. (XII. 29.) NEFMI rendelet 3. § (2) bekezdése iktatta be.
-[^13]: A 41. § (3) bekezdés i) pontját a 76/2011. (XII. 29.) NEFMI rendelet 3. § (2) bekezdése iktatta be.
-[^14]: A 41. § (3) bekezdés j) pontját a 76/2011. (XII. 29.) NEFMI rendelet 3. § (2) bekezdése iktatta be.
-[^15]: A 41. § (3) bekezdés k) pontját a 76/2011. (XII. 29.) NEFMI rendelet 3. § (2) bekezdése iktatta be.
+[^12]: A 41. § (2) bekezdése a 76/2011. (XII. 29.) NEFMI rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^13]: A 41. § (3) bekezdés g) pontja a 76/2011. (XII. 29.) NEFMI rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^14]: A 41. § (3) bekezdés h) pontját a 76/2011. (XII. 29.) NEFMI rendelet 3. § (2) bekezdése iktatta be.
+[^15]: A 41. § (3) bekezdés i) pontját a 76/2011. (XII. 29.) NEFMI rendelet 3. § (2) bekezdése iktatta be.
+[^16]: A 41. § (3) bekezdés j) pontját a 76/2011. (XII. 29.) NEFMI rendelet 3. § (2) bekezdése iktatta be.
+[^17]: A 41. § (3) bekezdés k) pontját a 76/2011. (XII. 29.) NEFMI rendelet 3. § (2) bekezdése iktatta be.
