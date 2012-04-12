@@ -1,0 +1,1 @@
+## 2. § Az R. 1. mellékletében foglalt táblázat E:9. mezőjében, valamint 2. mellékletében foglalt táblázat C:10. mezőjében a „Mezőgazdasági Szakigazgatási” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági” szöveg lép.
