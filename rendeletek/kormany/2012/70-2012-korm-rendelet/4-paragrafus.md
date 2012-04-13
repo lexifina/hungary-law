@@ -1,3 +1,0 @@
-## 3. § A budapesti Istvánmező rehabilitációs programjával, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciójával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 364/2011. (XII. 30.) Korm. rendelet 1. mellékletében foglalt táblázat E:9. mezőjében, valamint 2. mellékletében foglalt táblázat C:10. mezőjében a „Mezőgazdasági Szakigazgatási” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági” szöveg lép.
-
-4. § Ez a rendelet a kihirdetését követő napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
