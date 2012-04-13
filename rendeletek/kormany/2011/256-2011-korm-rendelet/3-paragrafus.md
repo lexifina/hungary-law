@@ -24,11 +24,11 @@ ce) a támogatással vásárolni kívánt lakás telekárat is tartalmazó véte
 
 cf) olyan 2009. július 1-jét követően kiállított számlával vagy megkötött szerződéssel igazoltan kifizetett összeggel, amelyet az igénylő az általa tervezett, de meg nem valósult lakásvásárlás céljából fizetett ki, ha az összeg az értékesítés céljára lakást építő gazdasági társaság bíróság által elrendelt felszámolásának teljes befejezését követően nem térült meg;
 
-d) az igénylő a kérelem benyújtásának időpontjában harminc napnál nem régebbi okirattal igazolja, hogy
+d)[^1] az igénylő a lakásépítési támogatás iránti kérelem benyújtásának időpontjában
 
-da) őt, vagy házastársak és élettársak esetén legalább az egyik felet legalább 180 napja biztosítottként az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (4) bekezdése szerint az állami adóhatósághoz bejelentették, és nem érkezett a jogviszony megszűnésére, a jogviszony szünetelésének kezdetére és befejezésére vonatkozó bejelentés az állami adóhatósághoz, és
+da) 15 napnál nem régebbi okirattal igazolja, hogy saját maga – házastársak vagy élettársak esetén legalább az egyik fél – legalább 180 napja folyamatosan az egészségbiztosítás nyilvántartásában a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. §-a szerinti biztosítottként szerepel – ideértve azt is, ha a legalább 180 nap folyamatos biztosításban legfeljebb 15 nap megszakítás van –, és
 
-db) köztartozásmentes adózó;
+db) szerepel az adózás rendjéről szóló 2003. évi XCII. törvény szerinti köztartozásmentes adózói adatbázisban, vagy a lakásépítési támogatás iránti kérelem benyújtásának időpontjában 15 napnál nem régebbi okirattal igazolja, hogy az állami adó- és vámhatóságnál nincs nyilvántartott köztartozása;
 
 e) az igénylő – lakás vásárlása esetén – a vásárolni kívánt lakás „B” (követelménynél jobb) vagy annál kedvezőbb energetikai minősítési osztályát igazoló hatályos energetikai tanúsítványt a hitelintézetnél bemutatja;
 
@@ -71,3 +71,5 @@ j) a támogatott személy a lakásépítési támogatás nyújtásáról szóló
 a) ha az építkezés 2010. január 1-jét követően kiadott építési engedély alapján történt, úgy a lakásépítési támogatást az új tulajdonos igénybe veheti és
 
 b) az átruházó részére megállapított lakásépítési támogatást törölni kell, és a már folyósított támogatást az átruházó az igénybevétel napjától a Ptk. 232. § (3) bekezdése szerint számított kamataival együtt köteles visszafizetni.
+
+[^1]: A 3. § (1) bekezdés d) pontja a 71/2012. (IV. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
