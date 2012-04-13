@@ -1,4 +1,4 @@
-198. § (1) A munkáltatói kölcsön iránti kérelmet – rendszeresített formanyomtatványon – az állományilletékes parancsnokhoz (munkahelyi vezetőhöz) kell benyújtani, aki azt javaslatával ellátva a helyőrségi (budapesti keretgazda) lakásbizottság útján továbbítja érdemi elbírálásra a területi lakásgazdálkodási szerv lakhatástámogatási egységéhez.
+198. § (1)[^105] A munkáltatói kölcsön iránti kérelmet – rendszeresített formanyomtatványon – az állományilletékes parancsnokhoz (munkahelyi vezetőhöz) kell benyújtani, aki azt javaslatával ellátva a helyőrségi (budapesti keretgazda) lakásbizottság útján továbbítja érdemi elbírálásra a lakáscélú támogatási szervhez.
 
 (2) A kérelemhez csatolni kell
 
@@ -9,3 +9,5 @@ b) a kinevezési, áthelyezési, más szervhez határozatlan időtartamra tört�
 c) a 194. § (3) bekezdés szerinti igénylő kivételével az állományilletékes parancsnok (munkahelyi vezető) igazolását arról, hogy a tervezett lakásépítés (lakásvásárlás) a szolgálati hely szerinti településen vagy annak vonzáskörzetében valósul meg, vagy
 
 d) a 189. § szerinti kölcsönigénylés esetében az állományilletékes parancsnok igazolását arról, hogy a tervezett lakásépítés (lakásvásárlás) az új szolgálati hely szerinti vonzáskörzetben valósul meg.
+
+[^105]: A 198. § (1) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (7) bekezdés f) pontja szerint módosított szöveg.

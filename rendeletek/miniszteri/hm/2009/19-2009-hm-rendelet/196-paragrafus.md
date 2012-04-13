@@ -1,4 +1,4 @@
-196. § (1) A munkáltatói kölcsön támogatásban részesült személyt a honvédelmi szervnél folyamatosan eltöltött hivatásos vagy szerződéses szolgálati, köztisztviselői, közalkalmazotti, továbbá munkavállalói jogviszonyának időtartama alapján – a (8) bekezdésben foglalt kivétellel – a tartozására
+196. § (1)[^100] A munkáltatói kölcsön támogatásban részesült személyt a honvédelmi szervnél folyamatosan eltöltött hivatásos vagy szerződéses szolgálati, kormánytisztviselői, közalkalmazotti, továbbá munkavállalói jogviszonyának időtartama alapján – a (8) bekezdésben foglalt kivétellel – a tartozására
 
 a) 5 év után 25 000 Ft,
 
@@ -16,12 +16,16 @@ e) 25 év után további 150 000 Ft,
 
 (3) A honvédelmi szervnél jogviszonyban eltöltött idejük alapján a közös kölcsöntámogatásban részesült személyeket az engedmény külön-külön is megilleti.
 
-(4) Az engedményre való jogosultság megállapításakor a honvédelmi szervnél különböző közszolgálati (szolgálati, köztisztviselői, közalkalmazotti és munkavállalói) jogviszonyokban megszakítás nélkül (folyamatosan) eltöltött időtartamot egybe kell számítani.
+(4)[^101] Az engedményre való jogosultság megállapításakor a honvédelmi szervnél különböző közszolgálati (szolgálati, kormánytisztviselői, közalkalmazotti és munkavállalói) jogviszonyokban megszakítás nélkül (folyamatosan) eltöltött időtartamot egybe kell számítani.
 
 (5) A munkáltatói kölcsön folyósításakor a támogatásban részesült személy tartozását a már figyelembe vehető, ténylegesen betöltött időnek megfelelő összegű engedménnyel csökkenteni kell.
 
-(6) Az engedményre jogosító szolgálati idő eléréséről az állományilletékes személyügyi szerv értesíti a területi lakásgazdálkodási szerv lakhatás-támogatási egységét. A területi lakásgazdálkodási szerv lakhatás-támogatási egysége a személyügyi értesítés kézhezvételét követően a folyósító pénzintézetnél intézkedik az engedmény jóváírására oly módon, hogy a havi törlesztő összeg változatlanul hagyása mellett a törlesztés időtartama változik meg.
+(6)[^102] Az engedményre jogosító szolgálati idő eléréséről az állományilletékes személyügyi szerv értesíti a lakáscélú támogatási szervet. A lakáscélú támogatási szerv a személyügyi értesítés kézhezvételét követően a folyósító pénzintézetnél intézkedik az engedmény jóváírására oly módon, hogy a havi törlesztő összeg változatlanul hagyása mellett a törlesztés időtartama változik meg.
 
 (7) Ismételt munkáltatói kölcsön adása esetén a megállapítható engedmény összegéből le kell vonni a korábban már jóváírt engedmény összegét. Ha az újabb kölcsön összege az adható engedménynél kevesebb, az engedmény a két kölcsön együttes összegéből írható jóvá.
 
 (8) Nem illeti meg engedmény azt a személyt, aki a honvédelmi szervtől vissza nem térítendő juttatásban is részesült.
+
+[^100]: A 196. § (1) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^101]: A 196. § (4) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^102]: A 196. § (6) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (7) bekezdés d) pontja, (8) bekezdés b) pontja szerint módosított szöveg.

@@ -6,9 +6,9 @@
 
 a) tiszti állományú katonák,
 
-b) tiszthelyettesi állományú katonák,
+b)[^16] altiszti állományú katonák,
 
-c) köztisztviselők, közalkalmazottak és munkavállalók,
+c)[^17] kormánytisztviselők, közalkalmazottak és munkavállalók,
 
 d) nyugállományúak, valamint özvegyek és az 5. § (1) bekezdés c) pontjában meghatározott túlélő élettárs.
 
@@ -41,3 +41,6 @@ a) az I. kategóriába kell sorolni, ha a végleges letelepedés helyéül vála
 b) a II. kategóriába kell sorolni, ha a végleges letelepedés helyéül választott településen társbérletben lakik, vagy az ott lévő lakása a 10. § (1) bekezdésben meghatározott igény mértéke alatt van, vagy meglévő HM rendelkezésű lakása a (2) bekezdés b) pont bb) alpontja szerint az igénylő vagy vele együtt lakó személy egészségi állapotára ártalmas,
 
 c) a III. kategóriába kell sorolni, ha a végleges letelepedés helyéül választott településen a 10. § (1) bekezdésben meghatározott igény mértékének megfelelő HM rendelkezésű lakásban lakik, és annál nagyobb szobaszámú, magasabb komfortfokozatú vagy számára kedvezőbb fekvésű, beosztású, alapterületű, jobb minőségű lakást kér.
+
+[^16]: A 16. § (1) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^17]: A 16. § (1) bekezdés c) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés d) pontja szerint módosított szöveg.

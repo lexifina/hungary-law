@@ -2,7 +2,7 @@
 
 ## A lakásgazdálkodás szervezete
 
-221. § (1) Helyi lakásgazdálkodási szerv a területileg illetékes, önálló lakásgazdálkodást folytató helyőrség-parancsnokság, Budapesten a területi lakásgazdálkodási szerv lakásügyi egysége.
+221. § (1)[^129]
 
 (2) A helyi lakásgazdálkodási szerv a feladatait a HM központi lakásgazdálkodási szerv irányításával önálló hatáskörben, a lakásgazdálkodási körzetére kiterjedő illetékességgel látja el.
 
@@ -21,3 +21,5 @@ d) vezeti az előírt nyilvántartásokat, a központi, a területi és a társs
 e) együttműködik a területileg illetékes lakóházkezelő szervvel, a magánbefektetővel vagy annak bérbeadásra jogosult képviselőjével, kapcsolatot tart a katonai, rendvédelmi és önkormányzati szervekkel,
 
 f) Az állományba történő felvétel, vagy helyőrségváltással is járó áthelyezés esetén az állományilletékes parancsnok megkeresésére információt szolgáltat a honvédelmi szervhez érkező személy részére nyújtható lakhatási támogatásról, valamint a megoldás (lakásjuttatás) várható időpontjáról.
+
+[^129]: A 221. § (1) bekezdését a 4/2012. (IV. 5.) HM rendelet 23. § (1) bekezdés a) pontja hatályon kívül helyezte.

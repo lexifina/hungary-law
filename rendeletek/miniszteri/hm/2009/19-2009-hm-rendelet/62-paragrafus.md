@@ -24,4 +24,6 @@ b) HM rendelkezésű állami tulajdonú lakás esetén a 64. § szerint megálla
 
 (4) Az önkormányzati tulajdonú, HM bérlőkijelölési vagy ismételten gyakorolható bérlőkiválasztási jogú lakás bérlete – pénzbeli térítés kikötésével – a bérlő (bérlőtársak), a bérbeadó és a bérlőkijelölési jogot gyakorló helyi lakásgazdálkodási szerv közös megállapodásával szüntethető meg. A nem a honvédelmi szerv által bérbe adott magánbefektetői HM rendelkezésű lakás bérlete a bérlő (bérlőtársak), a bérbeadó magánbefektető, vagy annak arra jogosult képviselője és az elhelyezési célú megállapodás alapján megszerzett bérlőkijelölési vagy bérlőkiválasztási jogot gyakorló helyi lakásgazdálkodási szerv közös megállapodásával szüntethető meg.
 
-(5) Ha a lakásbérlet megszüntetésekor a felek pénzbeli térítésben is megállapodtak, a szerződéshez a területi lakásgazdálkodási szerv lakhatás-támogatási egységének a hozzájárulása is szükséges. A hozzájárulás megadása esetén a szerződés a megkötése időpontjától jön létre.
+(5)[^37] Ha a lakásbérlet megszüntetésekor a felek pénzbeli térítésben is megállapodtak, a szerződéshez a HM központi lakásgazdálkodási szerv jóváhagyása is szükséges. A pénzbeli térítés kifizetéséről a megállapodás jóváhagyását követően a lakáscélú támogatási szerv gondoskodik.
+
+[^37]: A 62. § (5) bekezdése a 4/2012. (IV. 5.) HM rendelet 5. §-ával megállapított szöveg.

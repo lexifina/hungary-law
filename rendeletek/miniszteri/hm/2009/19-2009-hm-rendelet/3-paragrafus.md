@@ -50,27 +50,29 @@ c) az országos parancsnoki beosztás.
 
 a) a helyőrségi szálló, továbbá
 
-b) a laktanyai tiszti és tiszthelyettesi szállás.
+b)[^4] a laktanyai tiszti és altiszti szállás.
 
 (8) A rendelet alkalmazásában
 
-a) bérbeadó: az állami tulajdonú HM rendelkezésű lakások és személygépkocsi-tároló helyiségek, illetve állóhelyek tekintetében a helyi lakásgazdálkodási szerv, az állami tulajdonú HM rendelkezésű lakóépülethez tartozó nem lakáscélú helyiségek tekintetében a területi lakásgazdálkodási szerv;
+a)[^5] bérbeadó: az állami tulajdonú HM rendelkezésű lakások és személygépkocsi-tároló helyiségek, illetve állóhelyek tekintetében a helyi lakásgazdálkodási szerv, az állami tulajdonú HM rendelkezésű lakóépülethez tartozó nem lakáscélú helyiségek tekintetében a HM vagyonkezelői feladatokat ellátó szerv;
 
 b) kezelő: az állami tulajdonú HM rendelkezésű lakóépületek (lakások) és nem lakáscélú helyiségek tekintetében a helyi lakóházkezelő szerv;
 
 c) magánbefektető: az olyan természetes vagy jogi személy, továbbá jogi személyiséggel nem rendelkező szervezet, amellyel a honvédelmi szerv elhelyezési célú megállapodást köt.
 
-(9) E rendelet alkalmazásában
+(9)[^6] Az e rendeletben meghatározott
 
-a) HM központi közgazdasági és pénzügyi feladatokat ellátó szerve a HM Közgazdasági és Pénzügyi Ügynökség,
+a) HM központi lakásgazdálkodási szerv;
 
-b)[^1] HM központi lakásgazdálkodási szerv a HM Védelmi Tervezési és Vagyongazdálkodási Főosztály, Központi Lakásgazdálkodás-felügyeleti és Építéshatósági Osztály,
+b) lakáscélú támogatási szerv;
 
-c) területi lakásgazdálkodási szerv a HM Infrastrukturális Ügynökség,
+c) helyi lakásgazdálkodási szerv;
 
-d) területi lakásgazdálkodási szerv lakásügyi egysége a HM Infrastrukturális Ügynökség Budapesti Lakásgazdálkodási Osztály,
+d) fővárosi helyi lakásgazdálkodási szerv;
 
-e) területi lakásgazdálkodási szerv lakhatástámogatási egysége a HM Infrastrukturális Ügynökség Lakhatás Támogató Osztály.
+e) HM vagyonkezelői feladatokat ellátó szerv
+
+feladatait ellátó honvédelmi szerveket a lakhatási támogatásokkal összefüggő feladatok ellátásáról szóló HM utasítás határozza meg.
 
 (10) A rendelet alkalmazásában szolgálati és lakásgazdálkodási érdek:
 
@@ -98,4 +100,9 @@ a) beosztásának (11) bekezdés a) pontja szerinti megszűnését követően re
 
 b) beosztásának (11) bekezdés a) pontja szerinti megszűnése nélkül, új katonai képesség létrehozásával összefüggésben nevezték ki, helyezték át a korábbi beosztásáétól eltérő településen lévő katonai szervezet állományába.
 
-[^1]: A 3. § (9) bekezdés b) pontja a 9/2010. (V. 4.) HM rendelet 12. § 1. pontja szerint módosított szöveg.
+(13)[^7] A szolgálati járandóságban részesülő személyekre a szolgálati nyugállományú katonákra vonatkozó szabályokat kell alkalmazni.
+
+[^4]: A 3. § (7) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 3. § (8) bekezdés a) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 3. § (9) bekezdése a 4/2012. (IV. 5.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: A 3. § (13) bekezdését a 4/2012. (IV. 5.) HM rendelet 2. § (2) bekezdése iktatta be.

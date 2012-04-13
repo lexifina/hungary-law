@@ -12,7 +12,7 @@ e) az állományilletékes parancsnok (munkahelyi vezető), valamint az illeték
 
 f) a 187. § (1) bekezdés f) pont szerinti igénylés esetében ő maga, házastársa (élettársa), saját háztartásában nevelt kiskorú gyermeke (örökbe fogadott, mostoha és nevelt gyermeke), valamint együtt költöző családtagja a lakáscélú pénzintézeti kölcsönnel megszerzett lakás kivételével más lakás tulajdonjogával, állandó használati jogával, haszonélvezeti jogával vagy bérleti jogával nem rendelkezik, illetőleg a munkáltatói kölcsönre való igényjogosultság megszerzése érdekében a lakást elidegeníti, állandó használati jogát, haszonélvezeti jogát, bérleti jogviszonyát megszünteti,
 
-g) a szerződéses tiszt, tiszthelyettes a szerződéses szolgálatban 5 évet már eltöltött, és összesen legalább 10 év szolgálatot vállalt,
+g)[^98] a szerződéses tiszt, altiszt a szerződéses szolgálatban 5 évet már eltöltött, és összesen legalább 10 év szolgálatot vállalt,
 
 h) a honvédelmi szerv igénye szerint adóstársat vagy meghatározott számú kezest állít.
 
@@ -24,8 +24,9 @@ b) a tulajdonában lévő lakás lebontását a települési önkormányzat jegy
 
 c) lakása az igénylés benyújtásától számított két évnél korábban öröklés vagy ajándékozás jogcímén haszonélvezettel terhelten került a tulajdonába, és a haszonélvező a lakásban lakik.
 
-(3)[^16] Az (1) bekezdés d) pontját nem kell alkalmazni, ha az igénylő a szolgálat felső korhatárát 5 éven belül eléri, illetve szolgálati (baleseti, rokkantsági) nyugállományba helyezése folyamatban van feltéve, hogy a munkáltatói kölcsön felhasználásával a végleges letelepedéséhez szükséges lakásigényét kívánja megoldani.
+(3)[^99] Az (1) bekezdés d) pontját nem kell alkalmazni, ha az igénylő a szolgálat felső korhatárát 5 éven belül eléri, illetve szolgálati (baleseti, rokkantsági) nyugállományba helyezése folyamatban van feltéve, hogy a munkáltatói kölcsön felhasználásával a végleges letelepedéséhez szükséges lakásigényét kívánja megoldani.
 
 (4) Ha a jogosult munkáltatói kölcsönre vonatkozó igénylésének elbírálására vagy a kölcsön összegének folyósítására a nyugállományba helyezés megtörténte után kerül sor, az egyéb feltételek megléte esetén az igényt érdemben el kell bírálni, és intézkedni kell a kölcsönnek a jogosult részére történő folyósítására.
 
-[^16]: A 194. § (3) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 15. pontja szerint módosított szöveg.
+[^98]: A 194. § (1) bekezdés g) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^99]: A 194. § (3) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 15. pontja szerint módosított szöveg.

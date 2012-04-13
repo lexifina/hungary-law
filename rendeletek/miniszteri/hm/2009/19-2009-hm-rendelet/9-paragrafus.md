@@ -40,7 +40,7 @@ ac) a meglévőnél nagyobb szobaszámú vagy magasabb komfortfokozatú lakás j
 
 b) vállalkozói HM rendelkezésű lakás juttatása esetében az a) pontban foglalt esetekben a 31. § (1) bekezdése szerinti feltétellel adható.
 
-(5)[^2] A másik helyőrségbe – különösen a haderő átalakítása vagy átszervezés során – kinevezett, áthelyezett, rendelkezési állományból más szervhez határozatlan időtartamra vezényelt (a továbbiakban: áthelyezett) személy részére az (1) bekezdés b)–g) pontjaiban, valamint a (2) bekezdés a) és b) pontjában foglalt kizáró okok alól
+(5)[^12] A másik helyőrségbe – különösen a haderő átalakítása vagy átszervezés során – kinevezett, áthelyezett, rendelkezési állományból más szervhez határozatlan időtartamra vezényelt (a továbbiakban: áthelyezett) személy részére az (1) bekezdés b)–g) pontjaiban, valamint a (2) bekezdés a) és b) pontjában foglalt kizáró okok alól
 
 a) HM rendelkezésű lakás juttatására – a b) pontban foglalt kivételekkel – az új szolgálati hely szerinti településen betöltött beosztásának megszűnéséig, vagy
 
@@ -68,4 +68,4 @@ f) nyugállományba helyezése folyamatban van vagy az megtörtént, és család
 
 g) házasságát bíróság jogerős ítélettel felbontotta vagy élettársi kapcsolata megszűnt, és ennek következményeként lakással nem rendelkezik.
 
-[^2]: A 9. § (5) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 2. pontja szerint módosított szöveg.
+[^12]: A 9. § (5) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 2. pontja szerint módosított szöveg.

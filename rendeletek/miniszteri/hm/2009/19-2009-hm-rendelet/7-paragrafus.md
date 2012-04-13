@@ -6,7 +6,7 @@
 
 a) az 1. mellékletben meghatározott területileg illetékes helyi lakásgazdálkodási szerv székhelye szerinti, továbbá az illetékességébe utalt más helyőrségi és egyéb településeket,
 
-b) Budapest helyőrség viszonylatában a területi lakásgazdálkodási szerv lakásügyi egységének illetékességébe tartozó Budapest fővárost, valamint az illetékességébe utalt településeket.
+b)[^11] Budapest helyőrség viszonylatában a fővárosi helyi lakásgazdálkodási szerv illetékességébe tartozó Budapest fővárost, valamint az illetékességébe utalt településeket.
 
 (4) E rendelet alkalmazásában vonzáskörzetnek kell tekinteni:
 
@@ -23,3 +23,5 @@ c) amelyektől a szolgálati hely szerinti helyőrségi település menetrend sz
 (7) Vezetői lakás kizárólag az arra jogosult személy szolgálati helye szerinti helyőrségi településen juttatható.
 
 (8) Munkakörhöz kötött lakás a szolgálat teljesítésének, illetve a munkakör ellátásának helyén (helyszínén) adható bérbe.
+
+[^11]: A 7. § (3) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (4) bekezdés a) pontja szerint módosított szöveg.

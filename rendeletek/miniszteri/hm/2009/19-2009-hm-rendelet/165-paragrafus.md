@@ -1,4 +1,4 @@
-## 164. § Azokon a településeken, ahol katonai szervezet vagy annak – legalább 15 fő állománytáblában (munkaköri jegyzékben) rendszeresített létszámmal rendelkező – szervezeti eleme nem működik, az igénylő hiányában üresen álló önkormányzati tulajdonú HM rendelkezésű lakás bérlőkiválasztási, bérlőkijelölési jogát a honvédelmi szerv visszterhes megállapodás alapján a honvédelemért felelős miniszter előzetes engedélyével megszüntetheti, vagy más jogi személy részére az önkormányzat hozzájárulásával átruházhatja.
+## 164/A. §[^79] Az állomány hősi halottá nyilvánított tagja hozzátartozójának a honvédelmi szerv bérlőkijelölése folytán határozatlan időtartamra bérbe adott önkormányzati lakás elidegenítése esetén a lakás bérlőkijelölési jogáról térítésmentesen le kell mondani a tulajdonos önkormányzat javára, feltéve, hogy az elidegenítés a hősi halott özvegye, 5. § (1) bekezdés c) pont szerinti feltételeknek megfelelő túlélő élettársa vagy a hősi halott gyermeke javára történik.
 
 ## A lakásbérleti szerződés megkötésével kapcsolatos feladatok
 
@@ -13,3 +13,5 @@ c) a lakbér és a szolgáltatások díját, fizetésének módját.
 (2) A lakásbérleti szerződést a helyi lakásgazdálkodási szerv köti meg. A szerződést 2 tanú jelenlétében írásba kell foglalni, amelyet a szerződő feleknek és a tanúknak sajátkezűleg alá kell írniuk. A szerződés kiadott iratmintán is írásba foglalható.
 
 (3) Az (1)–(2) bekezdésben foglaltak szerint kell eljárni akkor is, ha a magánbefektetői HM rendelkezésű lakás bérbeadója honvédelmi szerv.
+
+[^79]: A 164/A. §-t a 4/2012. (IV. 5.) HM rendelet 10. §-a iktatta be.

@@ -10,7 +10,7 @@ b) c)–e) pontjai szerinti esetekben a külön jogszabályban megállapított m
 
 (3) Az (1) bekezdés, továbbá a 189. § szerint számított kölcsön összege növelhető:
 
-a) 25%-kal, ha az együtt költöző és tulajdonostárssá váló családtagok (hozzátartozók) közül 2 személy, 50%-kal, ha az együtt költöző és tulajdonostárssá váló családtagok (hozzátartozók) közül kettőnél több személy áll a honvédelmi szervvel szolgálati, köztisztviselői, közalkalmazotti vagy munkavállalói jogviszonyban, a támogatást együttesen igénylik és külön-külön rendelkeznek a kölcsönnyújtás feltételeivel,
+a)[^93] 25%-kal, ha az együtt költöző és tulajdonostárssá váló családtagok (hozzátartozók) közül 2 személy, 50%-kal, ha az együtt költöző és tulajdonostárssá váló családtagok (hozzátartozók) közül kettőnél több személy áll a honvédelmi szervvel szolgálati, kormánytisztviselői, közalkalmazotti vagy munkavállalói jogviszonyban, a támogatást együttesen igénylik és külön-külön rendelkeznek a kölcsönnyújtás feltételeivel,
 
 b) az igénylő számára már elbírált munkáltatói kölcsön és az a) pont alapján számított összeg különbözete adható munkáltatói kölcsönként az együtt költöző, a 10. § (4) bekezdésben meghatározott hozzátartozó részére, ha kölcsönigénylését külön vagy utólagosan nyújtja be.
 
@@ -25,3 +25,5 @@ c) az igénylő vagy a házastársa (élettársa), saját háztartásában nevel
 csökkentett összege. A tulajdont eredményező lakáscsere esetén pedig a cserélni kívánt lakások szerződésben kikötött értékének az igénylőt terhelő különbözete.
 
 (5) Az elidegenítésből származó tiszta bevételként kell számításba venni a kölcsönigénylést megelőző öt éven belül értékesített lakásnak az azt terhelő és visszafizetett önkormányzati, valamint munkáltatói támogatás, továbbá kiegyenlített lakáscélú pénzintézeti kölcsön összegével csökkentett eladási árát.
+
+[^93]: A 188. § (3) bekezdés a) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.

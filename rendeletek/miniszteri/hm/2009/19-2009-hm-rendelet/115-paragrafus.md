@@ -20,6 +20,6 @@ c) amennyiben a létesítéstől, vagyonkezelésbe kerüléstől legalább 10 é
 
 meghatározott feltételtől – kellően megalapozott vagyon- és lakásgazdálkodási érdek esetén – eltekinthet, és a lakóépületet (lakást) elidegenítésre kijelölheti.
 
-(3)[^12] Nem kell alkalmazni az (1) bekezdés a) pontját, ha az elidegenítésre kijelölt lakást a 30. § (1) bekezdés szerinti feltétel bekövetkezéséig bérlő személy legalább 10 év, a honvédelmi szervnél ténylegesen és folyamatosan eltöltött hivatásos vagy szerződéses szolgálati, köztisztviselői, közalkalmazotti, munkavállalói jogviszonnyal rendelkezik, feltéve, hogy a lakás juttatására nem a 9. § (1) bekezdés b)–d), továbbá g) pontjában foglalt rendelkezés hatálya alóli felmentés vagy mentesülés alapján került sor.
+(3)[^60] Nem kell alkalmazni az (1) bekezdés a) pontját, ha az elidegenítésre kijelölt lakást a 30. § (1) bekezdés szerinti feltétel bekövetkezéséig bérlő személy legalább 10 év, a honvédelmi szervnél ténylegesen és folyamatosan eltöltött hivatásos vagy szerződéses szolgálati, kormánytisztviselői, közalkalmazotti, munkavállalói jogviszonnyal rendelkezik, feltéve, hogy a lakás juttatására nem a 9. § (1) bekezdés b)–d), továbbá g) pontjában foglalt rendelkezés hatálya alóli felmentés vagy mentesülés alapján került sor.
 
-[^12]: A 115. § (3) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 12. pontja szerint módosított szöveg.
+[^60]: A 115. § (3) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 12. pontja, a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.

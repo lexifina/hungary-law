@@ -1,5 +1,3 @@
-## 244. § A rendelet hatálybalépését megelőzően bérbe adott családi szálló lakóegységre a bérleti szerződés megszűnését követően a garzonházi lakások bérletére vonatkozó rendelkezéseket kell alkalmazni.
-
 ## 245. § A rendelet hatálybalépésével egyidejűleg hatályát veszti
 
 a) a Honvédelmi Minisztérium rendelkezése alatt lévő lakások és helyiségek bérletéről, elidegenítéséről, valamint a lakhatás támogatásáról szóló 6/1994. (IV. 30.) HM rendelet,

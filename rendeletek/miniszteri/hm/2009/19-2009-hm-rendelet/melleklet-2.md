@@ -2,7 +2,7 @@
 
 | Helyi lakásgazdálkodási szerv | Utalt település |
 
-| 1. Debrecen helyőrség-parancsnokság | Erdőbénye, |
+| 1. Debrecen helyőrség-parancsnokság | Erdőbénye, |
 
 |  | Gönc, |
 
@@ -24,9 +24,7 @@
 
 |  | Tiszavasvári, |
 
-| 2. Gödöllő helyőrség-parancsnokság |  |
-
-| 3. Győr helyőrség-parancsnokság | Körmend, |
+| 2. Győr helyőrség-parancsnokság | Körmend, |
 
 |  | Kőszeg, |
 
@@ -34,15 +32,15 @@
 
 |  | Szombathely, |
 
-| 4. Hódmezővásárhely helyőrség-parancsnokság | Békéscsaba, |
+| 3. Hódmezővásárhely helyőrség-parancsnokság | Békéscsaba, |
 
 |  | Szeged |
 
-| 5. Kalocsa helyőrség-parancsnokság | Baja, |
+| 4. Kalocsa helyőrség-parancsnokság | Baja, |
 
 |  | Öregcsertő-Csornapuszta |
 
-| 6. Kaposvár helyőrség-parancsnokság | Homokszentgyörgy, |
+| 5. Kaposvár helyőrség-parancsnokság | Homokszentgyörgy, |
 
 |  | Kapoly, |
 
@@ -62,7 +60,7 @@
 
 |  | Taszár |
 
-| 7. Kecskemét helyőrség-parancsnokság | Izsák, |
+| 6. Kecskemét helyőrség-parancsnokság | Izsák, |
 
 |  | Jánoshalma, |
 
@@ -74,19 +72,19 @@
 
 |  | Szabadszállás |
 
-| 8. Pápa helyőrség-parancsnokság | Celldömölk, |
+| 7. Pápa helyőrség-parancsnokság | Celldömölk, |
 
 |  | Kup |
 
-| 9. Pusztavacs helyőrség-parancsnokság | Táborfalva |
+| 8. Pusztavacs helyőrség-parancsnokság | Táborfalva |
 
-| 10. Szentendre helyőrség-parancsnokság | Esztergom |
+| 9. Szentendre helyőrség-parancsnokság | Esztergom |
 
-| 11. Szentes helyőrség-parancsnokság | Csongrád, |
+| 10. Szentes helyőrség-parancsnokság | Csongrád, |
 
 |  | Orosháza |
 
-| 12. Székesfehérvár helyőrség-parancsnokság | Alcsútdoboz, |
+| 11. Székesfehérvár helyőrség-parancsnokság | Alcsútdoboz, |
 
 |  | Balatonkenese, |
 
@@ -104,7 +102,7 @@
 
 |  | Velence |
 
-| 13. Szolnok helyőrség-parancsnokság | Boconád, |
+| 12. Szolnok helyőrség-parancsnokság | Boconád, |
 
 |  | Cegléd, |
 
@@ -122,13 +120,13 @@
 
 |  | Salgótarján |
 
-| 14. Tata helyőrség-parancsnokság | Kisbér, |
+| 13. Tata helyőrség-parancsnokság | Kisbér, |
 
 |  | Tatabánya |
 
-| 15. Tápiószecső helyőrség-parancsnokság |  |
+| 14. Tápiószecső helyőrség-parancsnokság |  |
 
-| 16. Veszprém helyőrség-parancsnokság | Balatonfüred, |
+| 15. Veszprém helyőrség-parancsnokság | Balatonfüred, |
 
 |  | Devecser, |
 
@@ -142,7 +140,7 @@
 
 |  | Zalaegerszeg |
 
-| 17. Területi lakásgazdálkodási szerv lakásügyi egysége – Budapest | Aszód, |
+| 16. Fővárosi helyi lakásgazdálkodási szerv | Aszód, |
 
 |  | Budakeszi, |
 
@@ -155,6 +153,8 @@
 |  | Dunavarsány, |
 
 |  | Ercsi, |
+
+|  | Gödöllő, |
 
 |  | Gyömrő, |
 
