@@ -14,8 +14,14 @@ a) új lakás építése vagy vásárlása esetén a 10 millió forintot;
 
 b) használt lakás vásárlása vagy korszerűsítése esetén a 6 millió forintot.
 
-(3) Az otthonteremtési kamattámogatás igénybevételének feltétele a kérelem benyújtásának időpontjában annak harminc napnál nem régebbi okirattal történő igazolása, hogy
+(3)[^19] Az otthonteremtési kamattámogatás igénybevételének feltétele, hogy az igénylő
 
-a) az igénylőt – házastársak vagy élettársak esetén legalább az egyik felet – biztosítottként az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (4) bekezdése szerint az állami adóhatósághoz bejelentették, és nem érkezett a jogviszony megszűnésére, a jogviszony szünetelésének kezdetére és befejezésére vonatkozó bejelentés az állami adóhatósághoz, és
+a) a kamattámogatás iránti kérelem benyújtásának időpontjától számított 15 napnál nem régebbi okirattal igazolja, hogy saját maga – házastársak vagy élettársak esetén legalább az egyik fél – legalább 180 napja folyamatosan az egészségbiztosítás nyilvántartásában a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. §-a szerinti biztosítottként szerepel – ideértve azt is, ha a legalább 180 nap folyamatos biztosításban legfeljebb 15 nap megszakítás van –, és
 
-b) az igénylő köztartozásmentes adózó.
+b) a kamattámogatás iránti kérelem benyújtásának időpontjában
+
+ba) szerepel az adózás rendjéről szóló 2003. évi XCII. törvény szerinti köztartozásmentes adózói adatbázisban, vagy
+
+bb) 15 napnál nem régebbi okirattal igazolja, hogy az állami adó- és vámhatóságnál nincs nyilvántartott köztartozása.
+
+[^19]: A 6. § (3) bekezdése a 71/2012. (IV. 12.) Korm. rendelet 7. §-ával megállapított szöveg.

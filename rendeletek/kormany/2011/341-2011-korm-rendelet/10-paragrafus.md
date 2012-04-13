@@ -8,7 +8,7 @@ b) az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén a
 
 c) az ÁKK Zrt. által havi rendszerességgel közzétett, az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként számított és közzétett referenciahozamoknak a közzétételt megelőző három naptári hónapra vonatkozó számtani átlagának 3 százalékponttal növelt mértékét, amennyiben az érintett futamidőre az a) és b) pontban meghatározott módszer alapján átlaghozam nem számítható.
 
-(2)[^22] Az otthonteremtési kamattámogatás mértéke az (1) bekezdés szerint számított állampapírhozamnak, vagy referenciahozamnak
+(2)[^23] Az otthonteremtési kamattámogatás mértéke az (1) bekezdés szerint számított állampapírhozamnak, vagy referenciahozamnak
 
 a) a 3. § (1) bekezdés a) pontja szerinti otthonteremtési kamattámogatás esetén
 
@@ -34,11 +34,11 @@ bd) a negyedik évben 35 százaléka,
 
 be) az ötödik évben 30 százaléka;
 
-c)[^23]
+c)[^24]
 
-d)[^24]
+d)[^25]
 
-e)[^25]
+e)[^26]
 
 (3) A 3. § (1) bekezdés a) pontja szerinti otthonteremtési kamattámogatás esetén a kamattámogatás mértékének számításánál a 2. § (1) bekezdése szerinti személynek a vele közös háztartásban élő, általa eltartott és a felépített vagy megvásárolt új lakásba vele együtt beköltöző
 
@@ -48,7 +48,7 @@ b) gyámsága alatt álló, legalább egy éve vele együttélő és általa elt
 
 gyermeke vehető figyelembe.
 
-(4)[^26]
+(4)[^27]
 
 (5) Az (1) bekezdésben meghatározott kamatmértéket a kölcsön kamatainak szerződésben rögzített kamatperiódus fordulónapján kell alkalmazni.
 
@@ -62,8 +62,8 @@ gyermeke vehető figyelembe.
 
 (10) Az otthonteremtési kamattámogatással érintett kölcsönök kamattámogatásának számításánál az osztószám 360 nap.
 
-[^22]: A 10. § (2) bekezdése a 26/2012. (III. 6.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^23]: A 10. § (2) bekezdés c) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
-[^24]: A 10. § (2) bekezdés d) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
-[^25]: A 10. § (2) bekezdés e) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
-[^26]: A 10. § (4) bekezdése a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
+[^23]: A 10. § (2) bekezdése a 26/2012. (III. 6.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^24]: A 10. § (2) bekezdés c) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
+[^25]: A 10. § (2) bekezdés d) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
+[^26]: A 10. § (2) bekezdés e) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
+[^27]: A 10. § (4) bekezdése a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
