@@ -1,0 +1,599 @@
+# A Kormány 74/2012. (IV. 13.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 44. szám, 2012. április 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/dc61f3f94119ec660e319923507efa7196d6bb50/dokumentumok/ce01769e5a187853fc754b076b51b3bf3198d2ef/letoltes)
+
+---
+
+A Kormány 74/2012. (IV. 13.) Korm. rendelete
+a katasztrófavédelmet érintő egyes kormányrendeletek módosításáról
+A Kormány
+az 1. alcím és az 1. melléklet tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. §
+(1) bekezdés g) pontjában kapott felhatalmazás alapján,
+a 2. alcím tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, valamint
+a közigazgatásihatóságieljárásés szolgáltatásáltalánosszabályairólszóló2004. évi CXL. törvény 174/A. § (1) bekezdésa) pontjában
+kapott felhatalmazás alapján,
+a 3. alcím tekintetében a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény 59. § (1) bekezdés a) pontjában kapott felhatalmazás
+alapján,
+a 4. alcím és a 2. melléklet tekintetében a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 67. §
+(1) bekezdésében kapott felhatalmazás alapján,
+az 5. alcím tekintetében az atomenergiáról szóló 1996. évi CXVI. törvény 67. § a) és i) pontjában, valamint a közigazgatási hatósági
+eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés a) pontjában és b) pont
+bb) alpontjában kapott felhatalmazás alapján,
+a 6. alcím tekintetében a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi
+CXXVIII. törvény 80. § j) és l) pontjában kapott felhatalmazás alapján,
+a 7. alcím tekintetében a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi
+CXXVIII. törvény 80. § e)–h), k) és o) pontjában kapott felhatalmazás alapján,
+a 8. alcím tekintetében a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi
+CXXVIII. törvény 80. § a) pontjában és m) pont me) alpontjában kapott felhatalmazás alapján,
+a 9. alcím tekintetében a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. §
+(1) bekezdés d) pontjában kapott felhatalmazás alapján,
+a 10. alcím és a 3. melléklet tekintetében a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi
+XXXI. törvény 47. § (1) bekezdés a) és b) pontjában kapott felhatalmazás alapján,
+a 11. alcím, a 4. és 5. melléklet tekintetében a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi
+XXXI. törvény 47. § (1) bekezdés i) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet
+módosítása
+1. § (1) Az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban:
+R1.) 3. számú melléklete az 1. melléklet szerint módosul.
+(2) AzR1. 3.számúmelléklet18.pontjábana„központiszerve”szövegrészhelyébeaz„illetékesterületi szerve”szöveglép.
+2. A veszélyes katonai objektumokkal kapcsolatos hatósági eljárás rendjéről szóló
+95/2006. (IV. 18.) Korm. rendelet módosítása
+2. § A veszélyes katonai objektumokkal kapcsolatos hatósági eljárás rendjéről szóló 95/2006. (IV. 18.) Korm. rendelet
+(a továbbiakban: R2.) 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Kormány a veszélyes katonai objektum felügyeleti hatóság e rendeletben szabályozott engedélyezési
+eljárásaiban – a 6. melléklet 1. pont 1.3. alpontjában meghatározott szakkérdésben – első fokon a hivatásos
+katasztrófavédelmiszervneka veszélyeskatonaiobjektumtelephelyeszerintilletékesterületi szervét (a továbbiakban:
+szakhatóság) szakhatóságként jelöli ki.”
+
+3. § Az R2.
+a) 2. § o) pontjában, 17. §-ában, 19. § (3) bekezdésében, valamint 20. § (1), (2) és (4) bekezdésében a „hivatásos
+katasztrófavédelmi szerv központi szerve” szövegrész helyébe a „hivatásos katasztrófavédelmi szerv illetékes
+területi szerve”,
+b) 19. § (1) bekezdés b) pontjában a „hivatásos katasztrófavédelmi szerv központi szervével” szövegrész helyébe
+a „hivatásos katasztrófavédelmi szerv illetékes területi szervével”,
+c) 21. §-ában a „hivatásos katasztrófavédelmi szerv központi, területi és helyi szervei végzik” szövegrész helyébe
+a „hivatásos katasztrófavédelmi szerv területi és helyi szervei végzik”,
+d) 22. § (2) bekezdésében a „hivatásos katasztrófavédelmi szerv központi szervét” szövegrész helyébe a „hivatásos
+katasztrófavédelmi szerv illetékes területi szervét”
+szöveg lép.
+4. § HatályátvesztiazR2. 22.§ (1) bekezdésébenaz„(afővárosbanaFővárosiPolgáriVédelmiIgazgatóságot)”szövegrész.
+3. Az országhatárt átlépő hulladékszállításról szóló 180/2007. (VII. 3.) Korm. rendelet módosítása
+5. § (1) Az országhatárt átlépő hulladékszállításról szóló 180/2007. (VII. 3.) Korm. rendelet (a továbbiakban: R3.) 4. §
+(2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A hulladék behozatalának, kivitelének és átszállításának ellenőrzését
+a) a rendőrség, a vámhatóság, közúti és vasúti szállítás esetén a közlekedési hatóság és a vasúti közlekedési hatóság,
+veszélyes hulladék esetén a katasztrófavédelmi hatóság – a hatáskörükre vonatkozó jogszabályok keretei között –
+önállóan,
+b) a Főfelügyelőség az a) pont szerinti hatóságokkal egyeztetve
+végzi.”
+(2) Az R3. 1. § (7) bekezdés a) pontjában az „az Országos Katasztrófavédelmi Főigazgatóságot (a továbbiakban: OKF)”
+szövegrész helyébe az „a hivatásos katasztrófavédelmi szerv központi szervét” szöveg lép.
+(3) Az R3. 1. § (7) bekezdés b) és c) pontjában az „az OKF-t” szövegrész helyébe az „a hivatásos katasztrófavédelmi szerv
+központi szervét” szöveg lép.
+(4) Az R3. 4. § (5) bekezdésében az „az OKF-et” szövegrész helyébe az „a hivatásos katasztrófavédelmi szerv központi
+szervét” szöveg lép.
+4. A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó
+ügyekben eljáró hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások
+felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet módosítása
+6. § A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró
+hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló
+33/2008. (II. 21.) Korm. rendelet 2. számú melléklete a 2. melléklet szerint módosul.
+5. Az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi
+kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban
+közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos
+Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet
+módosítása
+7. § Az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi
+kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő
+szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját
+segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet 1. mellékletének 5.1. és 5.2. pontjában az
+„a területileg illetékes hivatásos önkormányzati tűzoltóság” szövegrész helyébe a „területileg illetékes
+katasztrófavédelmi kirendeltség” szöveg lép.
+
+6. A katasztrófavédelmi bírság részletes szabályairól, a katasztrófavédelmi hozzájárulás befizetéséről és
+visszatérítéséről szóló 208/2011. (X. 12.) Korm. rendelet módosítása
+8. § (1) A katasztrófavédelmi bírság részletes szabályairól, a katasztrófavédelmi hozzájárulás befizetéséről és visszatérítéséről
+szóló 208/2011. (X. 12.) Korm. rendelet (a továbbiakban: R4.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A katasztrófavédelmi hozzájárulásra vonatkozó bejelentést a hozzájárulás fizetésére kötelezett (az 1. és 2. alcím
+alkalmazásában: kötelezett) tárgyév március 31-ig köteles a hivatásos katasztrófavédelmi szerv – székhely szerint
+illetékes – területi szervének (az 1. és 2. alcím alkalmazásában: hatóság) az 1. melléklet szerinti adattartalommal
+megtenni. A katasztrófavédelmi hozzájárulásra vonatkozó eljárásokban másodfokon a hivatásos katasztrófavédelmi
+szerv központi szerve jár el.”
+(2) Az R4. 2. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az (1) bekezdés b) pontja, valamint a (2) és (3) bekezdés szerinti katasztrófavédelmi hozzájárulás befizetését,
+a kötelezett azonosítására alkalmas módon a másodfokú hatóság honlapján közzétett keretszámlájára történő
+átutalással kell teljesíteni.”
+(3) Az R4. 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A katasztrófavédelmi bírság kiszabásáról rendelkező határozatnak a Ket.-ben meghatározottakon túl
+tartalmaznia kell annak a pénzforgalmi számlának a számát, amelyre a fizetést teljesíteni kell.”
+7. A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló
+219/2011. (X. 20.) Korm. rendelet módosítása
+9. § (1) A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 219/2011. (X. 20.) Korm. rendelet
+(a továbbiakban: R5.) 1. §-a a következő 2a. ponttal egészül ki:
+(E rendelet alkalmazásában:)
+„2a. Hatóság: a hivatásos katasztrófavédelmi szerv.”
+(2) Az R5. 4. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény
+(a továbbiakban: Kat.) IV. Fejezet eljárásaiban első fokon a hatóságnak a veszélyes anyagokkal foglalkozó üzem és
+küszöbérték alatti üzem telephelye szerint illetékes területi szerve, másodfokon a központi szerve jár el.”
+(3) Az R5. 5. §-a a következő (3) és (4) bekezdéssel egészül ki:
+„(3) Az 1. § 3. pont a) alpontja szerinti létesítmények esetén az elsőfokú eljárás lefolytatására a hatóságnak az
+üzemeltető székhelye szerint illetékes területi szerve jogosult.
+(4) Az e rendelet szerinti adatszolgáltatással kapcsolatos eljárásokra, helyszíni szemlék és hatósági ellenőrzések
+lefolytatására a hatóság helyi szerve is jogosult.”
+(4) Az R5. 10. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Ha az üzemeltető a (3) bekezdésben meghatározott védendő adatot nem tartalmazó dokumentációt nem nyújt
+be, akkor csatolja a nyilatkozatát arról, hogy a beküldött dokumentáció nem tartalmaz védendő adatot.”
+10. § (1) Az R5. 21. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek:
+„(5) A polgármester a biztonsági jelentéssel kapcsolatos észrevételeit a hozzá érkezett lakossági észrevételekkel
+együtt a hatóság helyi szerve részére a közmeghallgatás időpontja előtt legalább 5 nappal megküldi.
+(6) A közmeghallgatáson elhangzottakról a polgármester jegyzőkönyvet készít, amelyet a közmeghallgatást követő
+8 napon belül a hatóság helyi szervének megküld. A hatóság a jegyzőkönyvben foglaltakat a döntésének
+meghozatalakor mérlegeli.”
+(2) Az R5. 22. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Kat. 33. § (1) bekezdése szerinti katasztrófavédelmi engedély iránti kérelem esetében a hatóság az üzemeltető
+által benyújtott védendő adatokat nem tartalmazó biztonsági elemzést a kézhezvételt követő 10 napon belül
+megküldi a polgármesternek és a hatóság helyi szervének.”
+(3) Az R5. 23. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A polgármester a külső védelmi tervről 21 napra hirdetményt tesz közzé a 10. melléklet 6. pontjában
+felsoroltaknak megfelelően, amely idő alatt a lakosság ahhoz észrevételeket tehet. A polgármester a külső védelmi
+tervvel kapcsolatos észrevételeit a hozzá érkezett lakossági észrevételekkel együtt a hatóság helyi szervének
+a hirdetményi közzététel lezárását követő 8 napon belül megküldi. A hivatásos katasztrófavédelmi szerv helyi szerve
+
+az észrevételekkel kapcsolatos véleményét és a figyelembe vett észrevételek alapján átdolgozott külső védelmi tervet
+megküldi a hatóság területi szervének a hirdetményi közzététel lezárását követő 20 napon belül.”
+(4) Az R5. 23. § (5) és (6) bekezdése helyébe a következő rendelkezés lép:
+„(5) A hatóságterületi szervea(4) bekezdésszerintmegvizsgáltkülsővédelmitervrevonatkozóvéleményétahatóság
+helyi szervének megküldi, amely a polgármesterrel együtt a vélemény alapján elkészíti a külső védelmi tervet.
+(6) Az elkészült és jóváhagyott külső védelmi tervet a hatóság megküldi a (2) bekezdésben felsorolt szervezetek
+számára.”
+(5) Az R5. 23. § (12) bekezdése helyébe a következő rendelkezés lép:
+„(12) A Kat. 32. § (1) bekezdés szerinti döntés meghozatalát követően, amennyiben az alsó küszöbértékű veszélyes
+anyagokkal foglalkozó üzem által érintett településre külső védelmi terv készítése szükséges, a hatóság tájékoztatja
+erről a polgármestert és a hatóság helyi szervét. A külső védelmi terv a hirdetményi közzététel és a közmeghallgatás
+biztosítása nélkül, az (1) bekezdésben meghatározott határidőben a 9. mellékletben meghatározott tartalmi és formai
+követelményeknek megfelelően készül. A külső védelmi terv elkészítésében a mentőszolgálat, a rendőrség, a megyei
+népegészségügyi szakigazgatási szerv, az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség és az
+üzemeltető részt vesz és véleményt nyilvánít.”
+(6) Az R5. 33. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az (1) bekezdés alapján benyújtott dokumentumok valóságtartalmát a hatóság helyszíni vizsgálattal ellenőrzi, és
+az üzemeltetőtől kiegészítő tájékoztatást kérhet.”
+(7) Az R5. 35. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A küszöbérték alatti üzem üzemeltetője – amennyiben számára a hatóság előírja – a biztonságos üzemeltetés
+bizonyítása érdekében a veszélyek azonosítására, a feltárt veszélyek megelőzésére és elhárítására az 5. mellékletben
+meghatározott tartalmi és formai követelményeknek megfelelő súlyos káresemény elhárítási tervet készít, melynek
+védendő adatokat nem tartalmazó változatát is benyújtja a hatóság részére.”
+11. § (1) Az R5.
+a) 7. § (1) bekezdésében a „hivatásos katasztrófavédelmi szerv központi szervének (a továbbiakban: hatóság)”
+szövegrész helyébe a „hatóság területi szervének”,
+b) 10. § (3) bekezdés a) pontjában a „biztonsági jelentést vagy a biztonsági elemzést” szövegrész helyébe
+a „biztonsági jelentést vagy a biztonsági elemzést, valamint azok védendő adatot nem tartalmazó változatát”,
+c) 11. § (3) bekezdésében a „hatóságnak” szövegrész helyébe a „hatóság területi szervének”,
+d) 21. § (1) bekezdésében a „katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló
+2011. évi CXXVIII. törvény (a továbbiakban: katasztrófavédelemről szóló törvény)” szövegrész helyébe a „Kat.”,
+e) 21. § (1) bekezdésében és 26. § (4) bekezdésében a „hivatásos katasztrófavédelmi szerv területi” szövegrész
+helyébe a „hatóság helyi”,
+f) 22. § (3) bekezdésében, 23. § (13) bekezdésében, valamint 33. § (3) bekezdésében a „katasztrófavédelemről szóló
+törvény” szövegrész helyébe a „Kat.”,
+g) 22. § (3) bekezdésében a „hatóságnak” szövegrész helyébe a „hatóság helyi szervének”,
+h) 23. § (4) bekezdésében a „hatóság” szövegrész helyébe a „hatóság területi szerve”,
+i) 23. § (13) bekezdésében a „hivatásos katasztrófavédelmi szerv illetékes területi” szövegrész helyébe a „hatóság
+helyi”,
+j) 25. § (1) bekezdésében a „hivatásos katasztrófavédelmi szerv helyi szerve” szövegrész helyébe a „hatóság”,
+k) 30. § (1) bekezdésében a „hatóság részére” szövegrész helyébe a „hatóság területi szerve részére”,
+l) 31. § (1) bekezdésében az „a hatóság az Európai Bizottság” szövegrész helyébe az „a hatóság központi szerve az
+Európai Bizottság”,
+m) 32. § (1) és (2) bekezdésében a „hatóság vezetője” szövegrész helyébe a „hatóság központi szervének vezetője”,
+n) 32. § (3) bekezdésben a „hatóság” szövegrész helyébe a „hatóság központi szerve”,
+o) 33. § (1) bekezdésében, valamint 40. § (3)–(5) bekezdésében a „hivatásos katasztrófavédelmi szerv” szövegrész
+helyébe a „hatóság”,
+p) 34. § (1) bekezdésében a „tervet kell készíteni” szövegrész helyébe a „terv készítését kell előírni”,
+q) 34. § (1) bekezdés c) pontjában a „cseppfolyós gáz” szövegrész helyébe a „veszélyes anyagok körébe tartozó
+cseppfolyós gáz”
+szöveg lép.
+
+(2) Hatályát veszti az R5.
+a) 7. § (2) bekezdése,
+b) 13. § (5) bekezdésében a „területi szerve” és az „ , és értékelését a hatóság részére megküldi” szövegrész,
+c) 16. § (1) bekezdésében az „és a külső védelmi terv” szövegrész,
+d) 20. § (6) bekezdésében az „és az illetékes hivatásos katasztrófavédelmi szerv” szövegrész,
+e) 23. § (2) bekezdésében az „a hivatásos katasztrófavédelmi szerv illetékes helyi szerve,” szövegrész,
+f) 23. § (10) bekezdésében az „A hatóság a területi szerve útján a változtatásokról tájékoztatja a (6) bekezdésben
+felsoroltakat.” szövegrész,
+g) 24. § (1) bekezdésében a „területi szerve” szövegrész,
+h) 30. § (3) bekezdésében és 31. § (5) bekezdésében a „ ,valamint a hivatásos katasztrófavédelmi szerv illetékes
+területi szervét” szövegrész,
+i) 35. § (8) és (9) bekezdése,
+j) 44. § (1) bekezdésében az „a területi szervei közreműködésével” szövegrész,
+k) 44. § (2) bekezdésében az „és területi szervei” szövegrész,
+l) 44. § (4) bekezdésében a „ ,valamint területi szerve” szövegrész.
+8. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló
+2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendelet módosítása
+12. § (1) A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény
+végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendelet (a továbbiakban: R6.) 8. §-a helyébe a következő rendelkezés
+lép:
+„8. § A kormányzati koordinációs szerv feladatai különösen:
+a) összehangolja a katasztrófák elleni védekezés terén a tudományos, kutató, elemző, értékelő tevékenységet,
+b) éves feladattervében meghatározza az ágazati felkészüléssel kapcsolatos feladatokat,
+c) összehangolja az ország egészét érintő katasztrófák elleni védekezési rendszergyakorlatok tervezését, szervezését,
+figyelemmel kíséri a két- és többoldalú nemzetközi megállapodásokban foglaltak végrehajtását,
+d) összehangolja a védekezésben részt vevő központi államigazgatási szervek védekezésével kapcsolatos szakmai
+tevékenységet,
+e) több megyét érintő katasztrófa esetében összehangolja a védekezésben részt vevő területi szervezetek feladataira
+és az anyagi eszközök átcsoportosítására irányuló ágazati feladatokat,
+f) javaslatot tesz a felmerült védekezési költségek biztosítására,
+g) kezdeményezi a Kormány döntését a veszélyhelyzet kihirdetésére,
+h) javaslatot tesz a felmerült védekezési és helyreállítási pénzeszközök felhasználására,
+i) összehangolja a helyreállítással kapcsolatos feladatok végrehajtását, a kárfelmérést, a kormányzati pénzeszközök,
+valamint segélyek felhasználását.”
+(2) Az R6. 9. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+(A megyei, fővárosi védelmi bizottság elnöke)
+„c) a hatáskörét meghaladó esetekben a kormányzati koordinációs szerv útján kezdeményezi a Kormány döntését,”
+(3) Az R6. 9. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+(A megyei, fővárosi védelmi bizottság elnöke)
+„f) gondoskodik a helyreállítás sorrendjének és ütemének megvalósításáról,”
+(4) Az R6. 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A megyei, fővárosi védelmi bizottság elnöke a katasztrófavédelmi feladatok ellátásával kapcsolatos
+előterjesztéseket és döntéseket a hivatásos katasztrófavédelmi szerv központi szervének vezetője útján felterjeszti
+a katasztrófák elleni védekezésért felelős miniszternek.”
+13. § Az R6. a következő 9/A. §-al egészül ki:
+„9/A. § (1) A megyei, fővárosi védelmi bizottság a szervezeti és működési rendjére vonatkozó szabályozóban rögzíti
+a katasztrófák elleni védekezés során követendő feladatellátási- és munkarendjét.
+(2) A védekezési feladatok végrehajtását – a megyei, fővárosi védelmi bizottság döntésének megfelelően – a megyei
+katasztrófavédelmi igazgatóság vagy a Fővárosi Katasztrófavédelmi Igazgatóság vezetője (a továbbiakban: igazgató)
+által kijelölt személy hangolja össze.
+
+(3) A megyei, fővárosi védelmi bizottság a katasztrófavédelmi operatív tevékenységének támogatása érdekében
+operatív munkaszervet működtet.
+(4) A megyei, fővárosi védelmi bizottság területi operatív munkaszervével a megyei, fővárosi védelmi bizottság
+illetékességi területén lévő helyi védelmi bizottság melletti helyi operatív munkaszerv folyamatosan együttműködik
+a megyei, fővárosi védelmi bizottság döntéseinek keretei között.
+(5) A megyei, fővárosi védelmi bizottság a területi operatív munkaszerve bevonásával
+a) intézkedéseiről folyamatosan tájékoztatja a kormányzati koordinációs szerv és a kormányzati koordinációs szerv
+operatív szerve vezetőjét és a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló
+2011. évi CXXVIII. törvény (a továbbiakban: Kat.) 46. § szerinti miniszteri biztost,
+b) végrehajtja a katasztrófák elleni védekezésért felelős miniszter, valamint a Kat. 46. § szerinti miniszteri biztos által
+meghatározott mentési feladatokat,
+c) irányítja a védekezésben részt vevő szervek tevékenységét és koordinálja a felajánlásokat,
+d) kezdeményezheti más megyék vagy a főváros polgári védelmi szervezeteinek alkalmazását, továbbá a Magyar
+Honvédség közreműködését,
+e) illetékességi területén működő közigazgatási szervek részére a védekezéssel és a felkészüléssel összefüggő
+feladatot határozhat meg a katasztrófák elleni védekezés feladatainak összehangolása érdekében,
+f) felügyeli a lakosság tájékoztatásával kapcsolatos tevékenységet.
+(6) A védelmi bizottság a katasztrófavédelmi feladatainak végrehajtása során a védelmi célú infokommunikációs
+rendszereket alkalmazza.”
+14. § Az R6. 49. § (1) bekezdés h) pontja helyébe a következő rendelkezés lép:
+(A megyei, fővárosi védelmi bizottság elnöke)
+„h) feldolgozza, értékeli, összegzi és a Kormány számára a katasztrófák elleni védekezésért felelős miniszter útján
+felterjeszti a beérkező jelentéseket.”
+15. § Az R6. 24. § (1) bekezdés b) pontjában „a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról
+szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.)” szövegrész helyébe az „a Kat.” szöveg lép.
+9. Az önkormányzati és létesítményi tűzoltóságokra, valamint a hivatásos tűzoltóság, önkormányzati
+tűzoltóság és önkéntes tűzoltó egyesület fenntartásához való hozzájárulásra vonatkozó szabályokról
+szóló 239/2011. (XI. 18.) Korm. rendelet módosítása
+16. § (1) Az önkormányzati és létesítményi tűzoltóságokra, valamint a hivatásos tűzoltóság, önkormányzati tűzoltóság és
+önkéntes tűzoltó egyesület fenntartásához való hozzájárulásra vonatkozó szabályokról szóló 239/2011. (XI. 18.) Korm.
+rendelet (a továbbiakban: R7.) 18. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A létesítményi tűzoltóság kötelező működtetéséről az (1) bekezdés b) pontja szerinti esetben a helyi szerv
+javaslatára a területi szerv, a főfoglalkozású létesítményi tűzoltóság kötelező működtetéséről
+a) (2) bekezdés b) pontja szerinti esetben a területi szerv,
+b) a (2) bekezdés c) pontja szerinti esetben a helyi szerv javaslatára a területi szerv
+határozatban dönt.”
+(2) Az R7. 20. § (1) bekezdésébena „Létesítményi tűzoltóság jogszabályikötelezésvagy a területi szervhatározatanélkülis
+létrehozható különösen” szövegrész helyébe a „Létesítményi tűzoltóság létrehozatala nem kötelező, de az
+létrehozható” szöveg lép.
+10. A tűzvédelmi hatósági feladatokat ellátó szervezetekről, a tűzvédelmi bírságról és a tűzvédelemmel
+foglalkozók kötelező élet- és balesetbiztosításáról szóló 259/2011. (XII. 7.) Korm. rendelet módosítása
+17. § (1) A tűzvédelmi hatósági feladatokat ellátó szervezetekről, a tűzvédelmi bírságról és a tűzvédelemmel foglalkozók
+kötelező élet- és balesetbiztosításáról szóló 259/2011. (XII. 7.) Korm. rendelet (a továbbiakban: R8.) 1. § (1) bekezdés
+a) pontja helyébe a következő rendelkezés lép:
+[A Kormány első fokú tűzvédelmi hatóságként – a (2) és (3) bekezdésben, az 5. §-ban és más kormányrendeletben
+meghatározott kivételekkel – a katasztrófavédelmi kirendeltséget jelöli ki, amely]
+„a) az épületek, építmények tűzvédelmi használati előírásai, valamint a tűzoltóságok beavatkozásával kapcsolatos
+követelmények alól eltérést engedélyezhet a (2) bekezdés f) pontjában meghatározottak kivételével,”
+
+(2) Az R8. 1. § (1) bekezdése a következő h) és i) ponttal egészül ki:
+[A Kormány első fokú tűzvédelmi hatóságként – a (2) és (3) bekezdésben, az 5. §-ban és más kormányrendeletben
+meghatározott kivételekkel – a katasztrófavédelmi kirendeltséget jelöli ki, amely]
+„h) lefolytatja a tűzoltó készülékek karbantartása és felülvizsgálata tevékenység tűzvédelmi jogszabályban foglaltak
+szerinti végzésének helyszíni ellenőrzését,
+i) eljár a beépített tűzjelző berendezés vagy tűzoltó berendezés tervezése, kivitelezése, karbantartása, javítása,
+telepítése, felülvizsgálata, továbbá a tűzátjelzés fogadása, tűzjelző vagy tűzoltó központok távfelügyelete
+tevékenységgel összefüggő közigazgatási hatósági eljárásokban.”
+(3) Az R8. 1. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
+[A Kormány első fokú tűzvédelmi hatóságként a hivatásos katasztrófavédelmi szerv területi szervét (a továbbiakban:
+területi szerv) jelöli ki, amely]
+„d) a polgári repülőterek, valamint a metró és földalatti vasúti létesítmények tekintetében az (1) bekezdés
+a)–g) pontjában meghatározott esetekben eljár,”
+(4) Az R8. 1. § (2) bekezdés f) pontja helyébe a következő rendelkezés lép:
+[A Kormány első fokú tűzvédelmi hatóságként a hivatásos katasztrófavédelmi szerv területi szervét (a továbbiakban:
+területi szerv) jelöli ki, amely]
+„f) a 3. § (2) bekezdés c) pontjában meghatározott esetekben az építmények beépített tűzjelző, tűzoltó berendezések
+létesítési és használatbavételi ügyeiben eljár, valamint a tűzoltóságok beavatkozásával kapcsolatos követelmények
+alól eltérést engedélyezhet,”
+(5) Az R8. 3. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+(A Kormány első fokú tűzvédelmi szakhatóságként a területi szervet jelöli ki)
+„c) az alábbi építmények építésügyi hatósági eljárásaiban az első végleges használatbavételig:
+ca) magas építmények,
+cb) a 20 000 m2 összesített szint alapterületűnél nagyobb középmagas építmények,
+cc) a 4000 főnél nagyobb befogadóképességű művelődési, kulturális rendeltetésű közhasználatú építmények,
+cd) a 10 000 főnél nagyobb befogadóképességű sport rendeltetésű közhasználatú építmények,
+ce) az 50 MW és annál nagyobb teljesítményű erőművek,
+cf) a fekvőbeteg ellátásra, továbbá mozgásukban korlátozattak elhelyezésére szolgáló középmagas építmények,
+amennyiben az elhelyezés 13,65 méter felett történik,
+cg) a metró és földalatti vasúti létesítmények,
+ch) az Országház, Országgyűlési Irodaház, Miniszterelnökség létesítményei.”
+(6) Az R8. 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A tűzvédelmi bírság kiszabására első fokon – az 1. melléklet 38–39. sorában rögzített eseteket kivéve –
+a szabálytalanságot észlelő tűzvédelmi hatóság jogosult abban az esetben, ha az észlelt szabálytalanság a hatóság
+adott eljárásához közvetlenül kapcsolódik, vagy a szabálytalanság helyszínének tűzvédelmi hatósági ellenőrzésére
+hatáskörrelés illetékességgelrendelkezik.Az 1. melléklet38–39. sorábanrögzített esetekbena központiszerv jogosult
+a bírság kiszabására.”
+(7) Az R8. 9. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A tűzvédelmi bírság kiszabásáról szóló jogerős határozatot költségvetési okokból a központi szerv költségvetési
+intézményével is közölni kell.”
+(8) Az R8. 1. melléklete a 3. melléklet szerint módosul.
+18. § Hatályát veszti az R8.
+a) 1. § (3) bekezdés k) pontja,
+b) 1. § (4) bekezdése.
+11. A tűzvédelmi tervezői tevékenység folytatásának szabályairól szóló
+375/2011. (XII. 31.) Korm. rendelet módosítása
+19. § (1) A tűzvédelmi tervezői tevékenység folytatásának szabályairól szóló 375/2011. (XII. 31.) Korm. rendelet
+(a továbbiakban: R9.) 1. §-a helyébe a következő rendelkezés lép:
+„1. § (1) E rendelet hatálya kiterjed minden, az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII.
+törvény (a továbbiakban: Étv.) 2. § 8. pontjában meghatározott építmény (építmény, építményrész,
+
+építményegyüttes), külön jogszabály szerinti építésügyi hatósági (létesítési) engedélyezéséhez és műszaki
+megvalósításához (kivitelezéséhez) szükséges tűzvédelmi dokumentáció, valamint a beépített tűzjelző és tűzoltó
+berendezés létesítéséhez, tűzvédelmi hatósági engedélyezéséhez szükséges tervdokumentáció készítésére.
+(2) A tűzvédelmi tervezői tevékenység folytatására a településtervezésiés az építészeti-műszakitervezési, valamint az
+építésügyi műszaki szakértői jogosultság szabályairól szóló 104/2006. (IV. 28.) Korm. rendeletben foglalt előírásokat,
+a tűzvédelmi tervezők továbbképzésére az építésüggyel kapcsolatos egyes szabályozott szakmák gyakorlásához
+kapcsolódó szakmai továbbképzési rendszer részletes szabályairól szóló 103/2006. (IV. 28.) Korm. rendelet előírásait az
+e rendeletben foglalt eltérésekkel kell alkalmazni.
+(3) E rendelet alkalmazásában:
+1. beépített tűzjelző berendezés tervezői tevékenység: a beépített tűzjelző berendezés létesítésének, átalakításának
+engedélyezési eljárásához és a kivitelezéshez szükséges dokumentáció elkészítése,
+2. beépített tűzoltó berendezés tervezői tevékenység: a beépített tűzoltó berendezés létesítésének, átalakításának
+engedélyezési eljárásához és a kivitelezéshez szükséges dokumentáció elkészítése,
+3. építésügyi tűzvédelmi tervezői tevékenység: a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló
+1996. évi XXXI. törvény (a továbbiakban: Ttv.) 21. § (1) bekezdésében meghatározott tűzvédelmi dokumentáció
+elkészítése,
+4. országos szakmai kamara: a Magyar Mérnöki Kamara és a Magyar Építész Kamara,
+5. területi szakmai kamara: a területi mérnöki kamarának, illetve a területi építész kamarának a tervező és szakértő
+mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott közigazgatási ügyben eljáró
+szerve,
+6. tűzvédelmi tervezői tevékenység: az 1., 2. és 3. pont szerinti tevékenység gyakorlása.
+7. tűzvédelmi szakvizsga bizonyítvány: a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról, munkakörökről,
+a tűzvédelmi szakvizsgával összefüggő oktatásszervezésről és a tűzvédelmi szakvizsga részletes szabályairól szóló
+45/2011. (XII. 7.) BM rendeletben foglalt érvényes tűzvédelmi szakvizsga bizonyítvány.”
+(2) Az R9. 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az építésügyi tűzvédelmi tervezői jogosultság megállapításánál a szakmai gyakorlati idő igazolása
+a) az (1) bekezdés a) pontja szerint meghatározott végzettség megszerzését követően
+aa) legalább ötéves tűzvédelmi szakterületen végzett, vagy
+ab) felsőoktatási intézményben legalább három éves tűzvédelmi szaktárgy-oktatói
+gyakorlattal, vagy
+b) az illetékes építész vagy mérnök kamarák valamelyikében építész, építési, tartószerkezeti, épületgépészeti,
+gépészeti, hő- és villamosenergetikai, gázipari, elektrotechnikai szakmai névjegyzékben való szerepléssel
+bizonyítható.”
+20. § Az R9. a következő 2/A. §-sal egészül ki:
+„2/A. § (1) Beépített tűzjelző vagy beépített tűzoltó berendezés tervezői tevékenység végzéséhez
+a) a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm.
+rendelet 2. mellékletében megállapított műszaki képzési területen szerzett mérnöki szakképzettség;
+b) a szakterületnek megfelelő érvényes tűzvédelmi szakvizsga bizonyítvány,
+c) a területi mérnöki kamara által vezetett tűzvédelmi szakmai területen való névjegyzékbe vétel
+szükséges.
+(2) Beépített tűzjelző vagy beépített tűzoltó berendezés tervezői jogosultság megállapításánál a szakmai gyakorlati
+idő igazolása a végzettség megszerzését követő legalább ötéves beépített tűzjelző vagy beépített tűzoltó berendezés
+tervezési szakterületen végzett gyakorlattal történhet.”
+21. § Az R9. 4. §-a helyébe a következő rendelkezés lép:
+„4. § (1) Nem folytathat tűzvédelmi tervezői tevékenységet a tűzvédelmi dokumentáció, valamint a beépített tűzjelző
+és tűzoltó berendezés tervdokumentációjának engedélyezésében, szakhatósági bírálatában vagy az annak alapján
+megvalósítandó építmény, berendezés kivitelezésében és annak használatbavétele során hatósági feladatot ellátó
+személy.
+(2) A tűzvédelmi tervezői tevékenységek körét a 2. melléklet tartalmazza.
+(3) A beépített tűzjelző vagy beépített tűzoltó berendezés tervezőnek az általa készített terveket, iratokat és
+számításokat, a tervezői nyilatkozatot alá kell írnia, és ezzel azonos helyen fel kell tüntetnie szakképesítését, értesítési
+
+címét, valamint a tervezői névjegyzékben szereplő nyilvántartási számát. A tűzvédelmi tervezőnek, szakértőnek
+a jogosultságát igazoló azonosító számmal és aláírásával kell ellátnia az általa készített tűzvédelmi dokumentációt.”
+22. § (1) Az R9. 1. mellékletének helyébe a 4. melléklet lép.
+(2) Az R9. 2. mellékletének helyébe az 5. melléklet lép.
+23. § Az R9.
+a) 2. §-ában a „Tűzvédelmi tervezői tevékenység” szövegrész helyébe az „Építésügyi tűzvédelmi tervezői
+tevékenység”,
+b) 3. § (1) bekezdésében a „szakmagyakorló” szövegrész helyébe a „tűzvédelmi tervező”
+szöveg lép.
+12. Záró rendelkezések
+24. § Ez a rendelet 2012. április 15-én lép hatályba és a hatálybalépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet a 74/2012. (IV. 13.) Korm. rendelethez
+Az R1. 3. számú melléklet 4. pontja helyébe a következő rendelkezés lép:
+„
+4. a hivatásos katasztrófavédelmi szerv illetékes területi
+szerve
+tűzvédelem, polgári védelem, katasztrófavédelem
+„
+2. melléklet a 74/2012. (IV. 13.) Korm. rendelethez
+A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró
+hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló
+33/2008. (II. 21.) Korm. rendelet 2. számú mellékletében foglalt táblázat a következő 13. sorral egészül ki:
+(Sorszám) (Szabályozott szakma megnevezése)
+(Előzetes ellenőrzést végző
+elsőfokú hatóság)
+(Előzetes ellenőrzést végző
+másodfokú hatóság)
+„
+13. Beépített tűzjelző vagy
+beépített tűzoltó berendezés
+tervezői tevékenység
+Országos Katasztrófavédelmi
+Főigazgatóság
+”
+
+3. melléklet a 74/2012. (IV. 13.) Korm. rendelethez
+1. Az R8. 1. melléklet 8., 9. sora helyébe a következő rendelkezések lépnek:
+(Tűzvédelmi szabálytalanság)
+(Tűzvédelmi bírság
+legkisebb mértéke /Ft/)
+(Tűzvédelmi bírság
+legnagyobb mértéke /Ft/)
+„8. Épületek menekülési útvonalain és azokkal egy légteret
+alkotó helyiségrészben szabálytalan tárolás,
+a rendeltetéssel nem összefüggő elektromos berendezés
+felügyelet nélküli üzemeltetése, továbbá a menekülési
+útvonalnak a kiürítéshez szükséges átbocsátóképesség
+mértékén túli leszűkítése
+60 000 500 000
+9. Az épületek menekülési útvonalain éghető anyagú
+installációk, dekorációk, szőnyegek, falikárpitok, továbbá
+egyéb éghető anyagoknak az elhelyezéssel érintett
+fal- vagy a padló felületének 15%-ánál nagyobb mértékű
+részét borító elhelyezése (a beépített építési termékek
+és biztonsági jelek kivételével)
+60 000 500 000
+”
+2. Az R8. 1. melléklet 25. sora helyébe a következő rendelkezés lép:
+(Tűzvédelmi szabálytalanság)
+(Tűzvédelmi bírság
+legkisebb mértéke /Ft/)
+(Tűzvédelmi bírság
+legnagyobb mértéke /Ft/)
+„25. Tűzvédelmi dokumentáció jogosultság nélküli készítése 100 000 1 000 000”
+3. Az R8. 1. melléklet a következő 41. sorral egészül ki:
+(Tűzvédelmi szabálytalanság)
+(Tűzvédelmi bírság
+legkisebb mértéke /Ft/)
+(Tűzvédelmi bírság
+legnagyobb mértéke /Ft/)
+„41. A pirotechnikai termékek előállítására, forgalmazására,
+tárolására, szállítására, felhasználására,
+megsemmisítésére, birtoklására vonatkozó
+tűzvédelemmel összefüggő előírások megszegése
+100 000 1 000 000
+”
+4. melléklet a 74/2012. (IV. 13.) Korm. rendelethez
+„1. melléklet a 375/2011. (XII. 31.) Korm. rendelethez
+A jogosultsági vizsga követelményrendszere
+A jogosultsági követelmények két főrészből állnak: általános és különös követelmények.
+Az általános rész a tűzvédelmi tervezői tevékenység közös ismeretanyagát tartalmazza.
+A különös rész külön tartalmazza az építésügyi tűzvédelmi tervezőre, a beépített tűzjelző vagy tűzoltó berendezés
+tervezőre vonatkozó speciális ismereteket.
+1. Általános követelmények
+1. A vizsgázó ismerje:
+1. a jogi környezet általános felépítését (jogszabályi hierarchia);
+2. a kötelmi jogon belül a szerződésekre vonatkozó általános szabályokat (tartalmi és formai követelmények,
+érvényesség);
+3. vállalkozási alapismereteket és az adózásra vonatkozó általános követelményeket, előírásokat;
+4. a munkavállaló, és munkáltató alapjogait és kötelezettségeit;
+5. a közigazgatási hatósági eljárás és szolgáltatás, valamint a tűzvédelmi hatósági, szakhatósági eljárások általános
+szabályait (az első fokú eljárás megindítása, kérelem és mellékletei, a tényállás tisztázása, az egyes szakmagyakorlási
+tevékenységek közötti kapcsolatrendszer, a határozat tartalma és közlése, jogorvoslati lehetőségek, ügyfél fogalma);
+
+6.
+6.1. a Ttv. szerkezetét,
+6.2. a Ttv. általános fogalmait,
+6.3. a tűzmegelőzési feladatokat,
+6.4. a magánszemélyek, a jogi személyek, valamint a magán- és jogi személyek jogi személyiséggel nem rendelkező
+szervezeteinek tűzvédelemmel és műszaki mentéssel kapcsolatos feladatait;
+7.
+7.1. az Országos Tűzvédelmi Szabályzat szerkezetét,
+7.2. az építmények tűzveszélyességi osztályba sorolására vonatkozó előírásokat,
+7.3. a tűzállósági fokozatokat, és a telepítési,- tűztávolságokra vonatkozó előírásokat,
+7.4. az építmények tűzszakaszolási elveit,
+7.5. az építmények kiürítésére vonatkozó követelményeket, számítási elveit,
+7.6. tűzjelzés és az épületben tartózkodók riasztási rendszerének kialakítását,
+7.7. építményekelektromos,villámvédelmiésgépészetirendszereitűzvédelmikövetelményeit,azokösszefüggéseit,
+7.8. az építmény használatára vonatkozó általános tűzvédelmi szabályokat;
+8. a közbeszerzés általános (tevékenységével összefüggő) szabályait;
+9. a minőségirányítás rendszerét;
+10. a kötelező alkalmassági időre vonatkozó előírásokat;
+11. a megfelelőség igazolására, megfelelőségi tanúsítványra és megfelelőségi nyilatkozatra, továbbá
+a CE megfelelőségi jelölés alkalmazására vonatkozó előírásokat;
+12. a szabványokra vonatkozó alapvető fogalmakat, a szabványok alkalmazására vonatkozó általános szabályokat,
+a szabványtípusokat.
+2. Kapcsolódó jogszabályok:
+A vizsgázótól számon kérhető követelményekre vonatkozó jogszabályok, jogszabályrészek, szabványok és
+szabályzatoka szakmaikamarákhonlapjántalálhatók.A listáta szakmaikamarákéventeaktualizáljáka jogszabályokés
+szabványok változásainak megfelelően.
+2. Különös követelmények
+1. Az építésügyi tűzvédelmi tervező ismerje a szakterületén
+a) az Étv.
+aa) szerkezetét,
+ab) általános fogalmait,
+ac) építményekkel szemben támasztott általános követelményeit,
+ad) az építésügyi hatósági engedélyezésre vonatkozó előírásait,
+ae) az építésfelügyeleti ellenőrzésre vonatkozó általános szabályait;
+b) az építésügyi hatóság szervezeti rendszerét (ideértve a sajátos építményfajtákat és a műemlékvédelmet is);
+c) a különleges szabályozás alá eső – így különösen az örökségi (műemléki) védelem alatt álló – épületekkel és
+építményekkel kapcsolatos jogi-szabályozási környezetet;
+d) a tűzvédelmi tervezői jogosultság feltételrendszerét;
+e) tervezői feladatait, felelősségi körét, jogait és kötelezettségeit;
+f) az összeférhetetlenségi és etikai-fegyelmi szabályokat;
+g) a tűzvédelmi tervezésre vonatkozó előírásokat (jogszabályok, szabványok, segédletek, műszaki specifikációk);
+h) a tűzvédelmi tervek és kivitelezési tervek tartalmi követelményeit;
+i) az ajánlati dokumentáció tartalmi követelményeit;
+j) a kamarai szabályzatokat.
+2. A beépített tűzjelző vagy beépített tűzoltó berendezés tervező ismerje a szakterületén
+a) a tervezői jogosultság feltételrendszerét;
+b) feladatait, felelősségi körét, jogait és kötelezettségeit;
+c) az összeférhetetlenségi és fegyelmi szabályokat;
+d) a tevékenységre vonatkozó előírásokat (jogszabályok, szabványok, segédletek, műszaki specifikációk);
+e) a létesítési engedélyezési eljáráshoz és kivitelezéshez szükséges dokumentáció tartalmi követelményeit;
+f) az ajánlati dokumentáció tartalmi követelményeit;
+g) a kamarai szabályzatokat.
+
+3. Kapcsolódó jogszabályok:
+A vizsgázótól számon kérhető követelményekre vonatkozó jogszabályok, jogszabályrészek, szabványok és
+segédanyagok jegyzéke a szakmai kamarák honlapján találhatók. A listát a szakmai kamarák évente aktualizálják
+a jogszabályok és szabványok változásainak megfelelően.”
+5. melléklet a 74/2012. (IV. 13.) Korm. rendelethez
+„2. melléklet a 375/2011. (XII. 31.) Korm. rendelethez
+I. A MÉRNÖKI KAMARÁK HATÁSKÖRÉBE TARTOZÓ TŰZVÉDELMI SZAKTERÜLETEK
+ÉS A HOZZÁJUK TARTOZÓ MŰSZAKI TERVEZÉSI TEVÉKENYSÉG
+1. Építésügyi tűzvédelmi tervezői szakterület (betűjele: TUÉ)
+a) építmények tűzvédelmi koncepciójának átfogó tervezése;
+b) építmények tényleges, illetve tervezett tűzállósági fokozatának megállapítása;
+c) épületek, építmények tűzszakaszolási rendszerének tervezése;
+d) építmények tűzgátló szerkezeteinek tervezése;
+e) építmények telepítési-, tűztávolságának tervezése;
+f) építmények tűzveszélyességi osztályba sorolásának megállapítása;
+g) építmények tűzterhelésének, tűzidőtartamának tervezése;
+h) tűzjelzés és az épületben tartózkodók riasztási rendszerének tervezése;
+i) építmények kiürítésének, kiürítési útvonalainak tervezése;
+j) hasadó, illetve hasadó-nyíló felületek tervezése;
+k) építmények elektromos,villámvédelmiés gépészeti rendszerei tűzvédelmi követelményeinekmeghatározásaúj és
+meglévő épületeknél;
+l) építmények tűzoltásának tűzoltási feltételeinek tervezése.
+2. Beépített tűzjelző berendezés tervezői szakterület (betűjele: TUJ)
+a) rendszertervezési követelmények megállapítása;
+b) jelzési, riasztási zónák kiosztása;
+c) a tűzjelző rendszer elemeinek kiosztása, elhelyezése;
+d) tűz- és hibajelzések fogadásának tervezése;
+e) távkezelő és/vagy távkijelző egységek, átjelzések tervezése;
+f) vezérlések, kapcsolódó rendszerekhez történő csatlakozás tervezése.
+3. Beépített tűzoltó berendezés tervezői szakterület (betűjele: TUO)
+a) rendszertervezési követelmények megállapítása;
+b) a védett szakaszok besorolásának megállapítása;
+c) vezérlések, kapcsolódó rendszerekhez történő csatlakozás tervezése;
+d) oltás- és hibajelzések fogadásának tervezése;
+e) méretezési eljárás készítése.
+II. AZ ÉPÍTÉSZ KAMARÁK HATÁSKÖRÉBE TARTOZÓ TŰZVÉDELMI SZAKTERÜLET
+ÉS A HOZZÁ TARTOZÓ MŰSZAKI TERVEZÉSI TEVÉKENYSÉG
+1. Építésügyi tűzvédelmi tervezői szakterület (betűjele: TUÉ)
+a) építmények tűzvédelmi koncepciójának átfogó tervezése;
+b) építmények tényleges, illetve tervezett tűzállósági fokozatának megállapítása;
+c) épületek, építmények tűzszakaszolási rendszerének tervezése;
+d) építmények tűzgátló szerkezeteinek tervezése;
+e) építmények telepítési-, tűztávolságának tervezése;
+f) építmények tűzveszélyességi osztályba sorolásának megállapítása;
+
+g) építmények tűzterhelésének, tűzidőtartamának tervezése;
+h) tűzjelzés és az épületben tartózkodók riasztási rendszerének tervezése;
+i) építmények kiürítésének, kiürítési útvonalainak tervezése;
+j) hasadó, illetve hasadó-nyíló felületek tervezése;
+k) építmények elektromos,villámvédelmiés gépészeti rendszerei tűzvédelmi követelményeinekmeghatározásaúj és
+meglévő épületeknél;
+l) építmények tűzoltásának tűzoltási feltételeinek tervezése.”
