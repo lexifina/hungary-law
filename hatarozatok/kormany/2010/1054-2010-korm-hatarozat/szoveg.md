@@ -4,4 +4,6 @@ A Kormány – a magyarországi közösségi közlekedés infrastrukturális fel
 
 2. egyetért azzal, hogy az MFB Zrt. által euróban meghatározott éven túli lejáratú hitelfelvételekhez, kötvény- kibocsátásokhoz kapcsolódóan az MFB Közösségi Közlekedésfejlesztési Hitelprogram finanszírozásához 50 milliárd forint mértékig a Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvény 57. § (3) bekezdésében meghatározott keret terhére a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 5. § (2) bekezdése alapján az MFB Zrt. a pénzügyminiszterrel árfolyam-fedezeti megállapodást kössön. A Program futamideje árfolyam-fedezeti megállapodás szempontjából 16 év, és az árfolyam-fedezeti megállapodás jelen kormányhatározat közzétételének napján a Magyar Nemzeti Bank által közölt, hivatalos HUF/EUR devizaárfolyamon köthető,
 
-3. tudomásul veszi, hogy MFB Közösségi Közlekedésfejlesztési Hitelprogramnál a refinanszírozási kölcsönkérelmek esetén az MFB Zrt. által alkalmazható a refinanszírozási kamat nem haladhatja meg a 3 havi EURIBOR + legfeljebb 2%/év és a hitelintézetek által alkalmazható kamatfelár legfeljebb 4%/év mértéket.
+3.[^1]
+
+[^1]: A határozat 3. pontját az 1111/2012. (IV. 12.) Korm. határozat 2. pontja hatályon kívül helyezte.
