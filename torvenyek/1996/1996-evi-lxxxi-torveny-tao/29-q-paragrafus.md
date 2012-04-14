@@ -7,3 +7,5 @@
 (4) A 8. § (1) bekezdés k) és 1) pontja, valamint 8. § (2) bekezdése rendelkezéseit – az eltérő üzleti évet alkalmazó adózókra is kiterjedően – a hatálybalépésüket követően értékesített (kivezetett) részesedés, illetve termőföldből átminősített ingatlan adókötelezettségére kell alkalmazni.
 
 (5) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított 17. § (9) bekezdését először a 2012. évben kezdődő adóévben megvalósuló közvetlen vagy közvetett többségi befolyás szerzése esetén és a 2012. évben kezdődő adóév adóalapjának megállapításakor kell alkalmazni.
+
+(6) E törvénynek a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosításáról szóló 2012. évi XXXIII. törvénnyel megállapított 22/C. § (1) bekezdés b) pont bb) alpontját, d) pont df) alpontját, 22/C. § (2)–(3) bekezdését, 22/C. § (5) bekezdés h) pontját, 22/C. § (5a) bekezdését, 22/C. § (6) bekezdését, valamint 22/C. § (9) bekezdését első alkalommal a 2012–2013-as támogatási időszakra vonatkozó sportfejlesztési programok jóváhagyására irányuló kérelmek során kell alkalmazni.
