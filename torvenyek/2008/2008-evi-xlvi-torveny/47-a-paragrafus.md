@@ -1,6 +1,6 @@
 ## Tervezés
 
-47/A. § (1) Az országos főállatorvos előkészíti az élelmiszerlánc szereplőinek széles körű bevonásával az élelmiszerlánc-biztonsági stratégiát, amelyet a Kormány fogad el.
+47/A. § (1) Az országos főállatorvos előkészíti az élelmiszerlánc szereplőinek széles körű bevonásával az élelmiszerlánc-biztonsági stratégiát, amelyet a Kormány fogad el. Az élelmiszerlánc-biztonsági stratégia végrehajtása érdekében az országos főállatorvos kiadja az élelmiszerlánc-biztonsági szakpolitikai programot. A szakpolitikai program magába foglalja az integrált több éves nemzeti ellenőrzési tervet, valamint az élelmiszerlánccal kapcsolatos akcióterveket.
 
 (2) Az élelmiszerlánc-biztonsági stratégia végrehajtása érdekében integrált többéves nemzeti ellenőrzési tervet (a továbbiakban: többéves terv) kell készíteni, amelynek tartalmaznia kell:
 

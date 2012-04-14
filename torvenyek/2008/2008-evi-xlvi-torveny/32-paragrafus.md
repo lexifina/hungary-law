@@ -14,19 +14,29 @@ e) egyes állat- és növénybetegségek területenkénti vagy országos előfor
 
 f) szervezi és felügyeli az állatbetegségek megelőzését, felderítését és felszámolását, az elrendelt mentesítési és monitoringprogramok végrehajtását, továbbá az integrált többéves nemzeti ellenőrzési tervvel összhangban az élelmiszerlánc-felügyeleti és élelmiszer- és takarmány-minőségi ellenőrzések egységes végrehajtását;
 
-g) az Európai Unió élelmiszerekre és takarmányokra vonatkozó gyors vészjelző rendszerén keresztül Magyarországra érkező bejelentés alapján, továbbá a Magyarországon észlelt veszély esetén megteszi a szükséges intézkedéseket;
+g) végzi az Európai Unió élelmiszerekre és takarmányokra vonatkozó gyorsriasztási rendszerének (RASFF) hazai működtetését és a rendszeren keresztül Magyarországra érkező bejelentés alapján, továbbá a Magyarországon észlelt veszély esetén megteszi a szükséges intézkedéseket;
 
-h) ellátja az ökológiai gazdálkodással előállított és a genetikailag módosított élelmiszerekkel és takarmányokkal kapcsolatos, az e törvény végrehajtására kiadott jogszabályban meghatározott feladatait;
+h) ellátja az ökológiai gazdálkodással, az ahhoz kapcsolódó élelmiszer-előállítással és forgalomba hozatallal, valamint a géntechnológiával módosított szervezetekkel, szaporítóanyagokkal, élelmiszerekkel és takarmányokkal kapcsolatos, az e törvény végrehajtására kiadott jogszabályban meghatározott feladatait;
 
-i) feladatai ellátására ügyeleti és készenléti szolgálatot szervez;
+i) feladatai ellátására ügyeleti és készenléti szolgálatot szervez, az e törvény végrehajtására kiadott jogszabály szerint kezeli a rendkívüli élelmiszerlánc-eseményeket;
 
-j) az integrált többéves nemzeti ellenőrzési terv alapján kidolgozza a területi éves ellenőrzési tervet, irányítja, szervezi és ellenőrzi annak végrehajtását;
+j) az integrált többéves nemzeti ellenőrzési terv alapján kidolgozza az élelmiszerlánc valamennyi elemére kiterjedő, kockázat alapú, területi éves ellenőrzési tervet, irányítja, szervezi és ellenőrzi annak végrehajtását;
 
 k) ellát az egyes élelmiszerlánc-felügyeleti feladatok végrehajtását segítő hazai és nemzetközi informatikai rendszerek használatával és működtetésével kapcsolatos feladatokat;
 
 l) feladatainak ellátása során folyamatosan kapcsolatot tart és együttműködik a települési önkormányzatokkal, a társhatóságokkal, valamint a civil szervezetekkel;
 
-m) élelmiszer-fertőzés és -mérgezés, valamint emberről állatra vagy állatról emberre terjedő betegségek fellépése, illetve gyanúja esetén kölcsönös tájékoztatás mellett együttműködik az egészségügyi államigazgatási szervvel.
+m) élelmiszer-fertőzés és -mérgezés, valamint emberről állatra vagy állatról emberre terjedő betegségek fellépése, illetve gyanúja esetén kölcsönös tájékoztatás mellett együttműködik az egészségügyi államigazgatási szervvel;
+
+n) szakmai segítséget nyújt a nemzeti stratégiák kialakításában, valamint a laboratóriumok fejlesztési irányának meghatározásában;
+
+o) adatok és információk összegyűjtésével és elemzésével lehetővé teszi az élelmiszerláncot közvetlenül vagy közvetve befolyásoló veszélyek azonosítását és jellemzését;
+
+p) egységes elveken alapuló kockázatbecslési eljárásokat dolgoz ki;
+
+q) kockázatbecslést végez, illetve felkérésre közreműködik más szervek által végzett kockázatbecslésben;
+
+r) koordinálja az érintett hatóságok között az ellenőrzési tervek, illetve módszerek egyeztetését, összehangolását, és az ellenőrzési tapasztalatok közös értékelését, illetve közös ellenőrzési jelentések készítését.
 
 (2) Az élelmiszerlánc-felügyeleti szerv állat-egészségügyi feladatkörében
 
@@ -49,3 +59,11 @@ b) meghatározza a növényvédelmi, növény-egészségügyi eljárások vizsg�
 c) gondoskodik a zárlati károsítók felderítéséről, megelőzéséhez, illetve felszámolásához szükséges intézkedések megtételéről;
 
 d) működteti a növényvédelem, továbbá a talaj- és agrárkörnyezet-védelem élelmiszerbiztonsággal és növényvédelemmel kapcsolatos monitoring- és információs rendszerét.
+
+(5) Az élelmiszerlánc-felügyeleti szerv országos hatáskörben a több megyét érintő vagy nemzetközi vonatkozásokkal bíró, a nagy gazdasági kárral járó, a fogyasztók széles körét veszélyeztető, élelmiszerlánc-események kivizsgálása, valamint az élelmiszerlánc-felügyeleti díj megfizetésének ellenőrzése során
+
+a) ellenőrzi a kockázatbecslés alapján kiemelten kockázatosnak minősített, élelmiszerláncot érintő tevékenységet végzőket, és azok létesítményeit;
+
+b) ellenőrzi e törvény és a végrehajtására kiadott jogszabályok előírásainak betartását;
+
+c) jogszabálysértés észlelése esetén e törvényben meghatározott jogkövetkezményeket alkalmazza.

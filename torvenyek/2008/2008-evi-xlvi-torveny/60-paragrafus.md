@@ -6,7 +6,7 @@ a) a zárlati károsítóval való fertőzés azonnali felszámolására vonatko
 
 b) növényvédő szerrel olyan cselekményt valósít meg, amellyel az ember vagy az állat egészségét, az élelmiszer-, illetve takarmánybiztonságot vagy a környezetet veszélyezteti;
 
-c) a 17. § (1) bekezdésében előírt kötelezettségét, továbbá a 17. § (4) bekezdésében előírt, a parlagfű elleni védekezési kötelezettségét elmulasztja;
+c) a 17. § (1) bekezdés c) pontjában előírt kötelezettségét az élelmiszerlánc-felügyeleti szerv kötelezése ellenére, továbbá a 17. § (4) bekezdésében előírt, a parlagfű elleni védekezési kötelezettségét elmulasztja;
 
 d) engedélyköteles terméket előírt képesítés, illetve engedély nélkül vagy engedélytől eltérő módon forgalomba hoz, hirdet, nyilvánosság számára ajánl, illetve felhasznál;
 

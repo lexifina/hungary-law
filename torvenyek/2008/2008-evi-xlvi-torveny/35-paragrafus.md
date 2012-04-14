@@ -12,7 +12,7 @@ c) rendszeres jelleggel a járványügyi, higiéniai, élelmiszer-biztonsági é
 
 d) az élelmiszer-vállalkozásoknál bevezetett „Jó Higiéniai Gyakorlatot”, a nyomonkövetési, az élelmiszer-visszahívási és a „veszélyelemzés, kritikus szabályozási pontok”-ra (HACCP) vonatkozó rendszerek, valamint az élelmiszer-vállalkozásoknál felhasznált tisztító- és fertőtlenítőszerek, fertőtlenítő eljárások megfelelőségét, beleértve a rovar- és rágcsálóirtást is;
 
-e) az emberi fogyasztásra szánt állatokat kísérő bizonyítványokat, okiratokat;
+e) az emberi fogyasztásra szánt állatokat és élelmiszereket kísérő bizonyítványokat, okiratokat;
 
 f) és irányítja az élelmiszer-biztonsággal kapcsolatos állami feladatokat végző személyek munkáját, folyamatos továbbképzését.
 
@@ -22,4 +22,10 @@ a) elvégzi, illetve felügyeli a vágóállat-vizsgálatot és – az e törvé
 
 b) elbírálja és igazolja az egyes élelmiszerek feldolgozásra és emberi fogyasztásra való alkalmasságát;
 
-c) vizsgálja az élelmiszer-ipari gépek, berendezések higiéniai alkalmasságát.
+c) vizsgálja az élelmiszer-ipari gépek, berendezések higiéniai alkalmasságát;
+
+d) értékeli, elemzi, és közzéteszi az élelmiszerek okozta megbetegedésekkel kapcsolatos információkat;
+
+e) az egészségügyi államigazgatási szerv szakvéleménye alapján elvégzi az új élelmiszerre vonatkozó kérelem elsődleges értékelését;
+
+f) tájékoztatást nyújt az élelmiszer-biztonsággal kapcsolatban felmerülő aktuális kérdésekről, problémákról, megelőzésük módjáról.

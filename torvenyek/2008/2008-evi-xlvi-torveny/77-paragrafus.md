@@ -28,13 +28,23 @@ l) az Európai Parlament és a Tanács 1935/2004/EK rendelete (2004. október 27
 
 m) az Európai Parlament és a Tanács 183/2005/EK rendelete (2005. január 12.) a takarmányhigiénia követelményeinek meghatározásáról;
 
-n) a Tanács 834/2007/EK rendelete (2007. június 28.) az ökológiai termelésről és az ökológiai termékek címkézéséről és a 2092/91/EGK rendelet hatályon kívül helyezéséről.
+n) a Tanács 834/2007/EK rendelete (2007. június 28.) az ökológiai termelésről és az ökológiai termékek címkézéséről és a 2092/91/EGK rendelet hatályon kívül helyezéséről;
+
+o) az Európai Parlament és a Tanács 1107/2009/EK rendelete (2009. október 21.) a növényvédő szerek forgalomba hozataláról, valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről;
+
+p) az Európai Parlament és a Tanács 2009/128/EK irányelve (2009. október 21.) a peszticidek fenntartható használatának elérését célzó közösségi fellépés kereteinek meghatározásáról
+
+q) az Európai Parlament és a Tanács 1333/2008/EK rendelete (2008. december 16.) az élelmiszer-adalékanyagokról;
+
+r) a Tanács 509/2006/EK rendelete (2006. március 20.) a hagyományos különleges terméknek minősülő mezőgazdasági termékekről és élelmiszerekről;
+
+s) az Európai Parlament és a Tanács 1169/2011/EU rendelete (2011. október 25.) a fogyasztók élelmiszerekkel kapcsolatos tájékoztatásáról, az 1924/2006/EK és az 1925/2006/EK európai parlamenti és tanácsi rendelet módosításáról és a 87/250/EGK bizottsági irányelv, a 90/496/EGK tanácsi irányelv, az 1999/10/EK bizottsági irányelv, a 2000/13/EK európai parlamenti és tanácsi irányelv, a 2002/67/EK és a 2008/5/EK bizottsági irányelv és a 608/2004/EK bizottsági rendelet hatályon kívül helyezéséről.
 
 (2) Ez a törvény – a végrehajtására kiadott jogszabályokkal együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 79/373/EGK irányelve (1979. április 2.) a takarmánykeverékek értékesítéséről, valamint az azt módosító, a Tanács 86/354/EGK, 90/44/EGK, 96/24/EK irányelve, és az Európai Parlament és a Tanács 2000/16/EK irányelve;
 
-b) a Tanács 89/107/EGK irányelve (1988. december 21.) az emberi fogyasztásra szánt élelmiszerekben felhasználásra engedélyezett élelmiszer-adalékanyagokra vonatkozó tagállami jogszabályok közelítéséről;
+b)
 
 c) a Tanács 89/662/EGK irányelve (1989. december 11.) a belső piac megvalósításának céljával a Közösségen belüli kereskedelemben alkalmazható állat-egészségügyi ellenőrzésekről;
 

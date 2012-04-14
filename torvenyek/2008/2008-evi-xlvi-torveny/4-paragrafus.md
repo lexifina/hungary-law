@@ -14,7 +14,7 @@ e) a zöldség és gyümölcs termesztésére, tárolására és forgalomba hoza
 
 f) a takarmányok előállítására, tárolására, szállítására, forgalomba hozatalára és felhasználására;
 
-g) az állatok tartásának, szaporításának, tenyésztésének, szállításának és forgalomba hozatalának állat-egészségügyi vonatkozásaira;
+g) az állatok tartásának, szaporításának, tenyésztésének, szállításának és forgalomba hozatalának állat-egészségügyi vonatkozásaira, valamint az állatok egységes azonosítási és nyilvántartási rendszerére,
 
 h) az állatok állat-egészségügyi ellátására és felügyeletére;
 
@@ -24,4 +24,12 @@ j) az állatgyógyászati termékek előállítására, kereskedelmére, és fel
 
 k) a növényi és állati eredetű melléktermékek gyűjtésére, kezelésére, tárolására, szállítására, forgalomba hozatalára, felhasználására;
 
-l) az ökológiai termeléssel kapcsolatos felügyeleti feladatok ellátására.
+l) az ökológiai termeléssel kapcsolatos felügyeleti feladatok ellátására;
+
+m) a géntechnológiával módosított szervezetek előállítására és forgalomba hozatalára, valamint a géntechnológiával módosított összetevőt tartalmazó termékek ellenőrzésére;
+
+n) az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyag, tárgy, eszköz és gép előállítására és forgalomba hozatalára;
+
+o) az élelmiszerláncban felhasználásra szánt takarító- és fertőtlenítőszerek előállítására, forgalmazására, felhasználására;
+
+p) az élelmiszerláncra kiterjedő vizsgálatokat végző laboratóriumokra.

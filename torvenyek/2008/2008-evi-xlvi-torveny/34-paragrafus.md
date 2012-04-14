@@ -1,12 +1,12 @@
-34. § (1) Állat-egészségügyi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban foglaltak szerint engedélyezi
+34. § (1) Állat-egészségügyi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban foglaltak szerint engedélyezi vagy nyilvántartásba veszi
 
-a) az élőállat-szállító járműveket, illetve ezen járművek mosását és fertőtlenítését végző helyeket;
+a) járművek élőállat-szállítás céljára történő használatát, illetve ezen járművek mosását és fertőtlenítését végző helyeket, valamint az állati eredetű mellékterméket szállító járműveket;
 
 b) a gyepmesteri, illetve ebrendészeti tevékenység végzését;
 
 c) az idegen állományból származó állatok fogadására kiválasztott elkülönítőt (karantén), valamint dönt az állatok elkülönítésének (karanténozásának) feltételeiről;
 
-d) az állat-egészségügyi szolgáltató létesítmények, az e törvény végrehajtására kiadott jogszabályban meghatározott fajú és létszámú állatot tartó gazdaság, állatrakodó, gyűjtőállomás, kereskedői telep, etető-itató állomás, pihentető állomás, állati eredetű melléktermék kezelését, szállítását végző vállalkozás működését;
+d) az állat-egészségügyi szolgáltató létesítmények, az e törvény végrehajtására kiadott jogszabályban meghatározott fajú és létszámú állatot tartó gazdaság, gyepmesteri telep, ebrendészeti telep, állatmenhely, állatrakodó, gyűjtőállomás, kereskedői telep, etető-itató állomás, pihentetőállomás, valamint állati eredetű melléktermék kezelését, feldolgozását, hulladékként történő ártalmatlanítását végző vállalkozás működését;
 
 e) az élelmiszert előállító üzemekből származó, takarmányként felhasználható melléktermékek kezelését, felhasználását, további feldolgozását;
 
@@ -30,7 +30,7 @@ d) az állat-egészségügyi szabályok megtartását, így különösen az áll
 
 e) a jogszabályban előírt állat-egészségügyi vizsgálatok, kezelések végrehajtását;
 
-f) az állatok tenyésztésének, szaporításának állat-egészségügyi körülményeit;
+f) az állatok tenyésztésének, szaporításának, szaporítóanyag előállításának, raktározásának, forgalmazásának állat-egészségügyi körülményeit;
 
 g) az állatgyógyászati termékek kereskedelmi forgalomba hozatalának körülményeit, valamint az állatgyógyászati készítmények felhasználását;
 

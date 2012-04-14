@@ -2,7 +2,7 @@
 
 45. § (1) Az élelmiszerlánc-felügyeleti szerv kérelemre indított engedélyezési és ellenőrzési eljárásáért, továbbá a 21. § (1) bekezdése szerinti okirat (marhalevél) kiállításáért, illetve érvényesítéséért az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint igazgatási szolgáltatási díjat kell fizetni.
 
-(2) Az igazgatási szolgáltatási díjat az azt kiszabó élelmiszerlánc-felügyeleti szerv számlájára kell befizetni.
+(2) Az igazgatási szolgáltatási díjat az élelmiszerlánc-felügyeleti szerv számlájára kell befizetni.
 
 (3) A díj megfizetésének elmulasztása esetén az élelmiszerlánc-felügyeleti szerv a kérelem benyújtásától számított tizenöt napon belül hiánypótlási felhívást bocsát ki. A kérelmező a hiánypótlási felhívás kézhezvételétől számított tizenöt napon belül köteles a díjat megfizetni, illetve igazolni annak megfizetését.
 

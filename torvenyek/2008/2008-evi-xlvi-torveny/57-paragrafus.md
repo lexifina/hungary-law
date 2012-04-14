@@ -14,7 +14,7 @@ e) az újbóli engedélyezést oktatáson való részvételhez, annak igazolás�
 
 f) termék előállítását, tárolását, szállítását, felhasználását, forgalomba hozatalát, behozatalát, kivitelét, illetékességi területén való átszállítását feltételhez kötheti, korlátozhatja, felfüggesztheti, megtilthatja;
 
-g) elrendelheti a termék forgalomból való kivonását, visszahívását, megsemmisítését, ártalmatlanítását;
+g) elrendelheti a termék lefoglalását, forgalomból való kivonását, visszahívását, megsemmisítését, ártalmatlanítását;
 
 h) állat vizsgálatát, forgalmi korlátozását, elkülönítését, kötelező gyógykezelését, védőoltását vagy leölését elrendelheti;
 
@@ -38,4 +38,4 @@ q) termelési, betakarítási, kísérleti, felhasználási, alkalmazási tilalm
 
 r) betilthatja vagy korlátozhatja a növény-egészségügyi szempontból nem megfelelő vetőmagok, szaporítóanyagok vagy nemesítési alapanyagok használatát;
 
-s) elrendelheti eszköz, tárgy, anyag zár alá vételét, ártalmatlanítását, szállítójárművet visszatarthat mindaddig, amíg a szállítmányával kapcsolatos zárolási, és ártalmatlanítási eljárás be nem fejeződik, illetve annak költsége megfizetésre nem kerül.
+s) elrendelheti eszköz, tárgy, anyag vagy termék zár alá vételét, ártalmatlanítását, szállítójárművet visszatarthat mindaddig, amíg a szállítmányával kapcsolatos zárolási, és ártalmatlanítási eljárás be nem fejeződik, illetve annak költsége megfizetésre nem kerül.

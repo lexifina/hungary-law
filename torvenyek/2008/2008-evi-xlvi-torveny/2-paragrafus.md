@@ -4,15 +4,15 @@
 
 (2) A törvény alkalmazási köre kiterjed
 
-a) az élelmiszer termelésére, előállítására, szállítására, tárolására és forgalomba hozatalára;
+a) az élelmiszer – beleértve a borászati terméket, az ízesített bort, ízesített boralapú italokat és az ízesített boralapú koktélokat, a pálinkát és a törkölypálinkát – termelésére, előállítására, szállítására, tárolására és forgalomba hozatalára;
 
 b) a vadon élő növény begyűjtésére, a kifogott hal és az elejtett vad szállítására és felhasználására;
 
-c) az élelmiszerrel érintkezésbe kerülő termék, csomagolóanyag, eszköz, gép előállítására és forgalomba hozatalára;
+c) az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyag, tárgy, eszköz és gép előállítására, higiéniai alkalmasságának, megfelelőségének ellenőrzésére és forgalomba hozatalára;
 
 d) az élelmiszer-, takarmány és élőállat-szállító járművekre, azok fertőtlenítésére;
 
-e) az állat tartására, forgalomba hozatalára, szállítására, levágására, leölésére, gyógykezelésére, egészségi állapotának vizsgálatára;
+e) az állat tartására, tenyésztésére, forgalomba hozatalára, szállítására, levágására, leölésére, gyógykezelésére, egészségi állapotának vizsgálatára, valamint az állatszaporítási létesítmények és technológiák higiéniai körülményeire;
 
 f) az engedélyköteles termék, állatgyógyászati termék, külön jogszabály szerint bejelentési kötelezettség mellett forgalomba hozható élelmiszer importálására, előállítására, kiszerelésére, forgalomba hozatalára, tárolására, szállítására, felhasználására, valamint az ezekkel összefüggésben történő szaktanácsadásra;
 
@@ -30,4 +30,4 @@ l) az állatok etetésére szánt takarmány előállítására, tárolására, 
 
 m) az élelmiszerlánc-eseményekkel összefüggő tájékoztatásra.
 
-(3) Nem terjed ki a törvény alkalmazási köre az élelmiszerek magánháztartásban, kizárólag saját fogyasztásra történő előállítására, valamint – takarmányhigiéniai szempontból – a takarmányhigiénia követelményeinek meghatározásáról szóló, az Európai Parlament és a Tanács 2005. január 12-i 183/2005/EK rendelete 2. cikke (2) bekezdésének a)–d) pontjában szabályozott tevékenységekre.
+(3) Nem terjed ki a törvény alkalmazási köre az élelmiszerek magánfogyasztásra történő előállítására, valamint – takarmányhigiéniai szempontból – a takarmányhigiénia követelményeinek meghatározásáról szóló, az Európai Parlament és a Tanács 2005. január 12-i 183/2005/EK rendelete 2. cikke (2) bekezdésének a)–d) pontjában szabályozott tevékenységekre.

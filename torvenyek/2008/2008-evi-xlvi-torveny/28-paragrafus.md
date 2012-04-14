@@ -22,4 +22,6 @@ i) gondoskodik a Növényvédelmi Módszertani Gyűjtemény összeállításár�
 
 j) meghatározza a nemzetközi kötelezettségekkel, valamint az ország agrárgazdaságának céljaival összhangban az élelmiszerlánc-ellenőrzés feladatait;
 
-k) kinevezi, illetve felmenti a közvetlen irányítása alá tartozó országos főállatorvost és annak helyettesét.
+k) kinevezi, illetve felmenti a közvetlen irányítása alá tartozó országos főállatorvost és annak helyettesét;
+
+l) az országos főállatorvos útján ellátja az élelmiszerlánc-felügyeleti szerv szakmai irányítását.

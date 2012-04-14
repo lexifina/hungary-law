@@ -20,4 +20,4 @@ takarmány-ellenőrzési bírságot szab ki.
 
 (2) A takarmány-ellenőrzési bírságot (1) bekezdés a)–e) és g) pontjában foglalt esetben a 14. § (1), (3)–(5) bekezdésében, az (1) bekezdés f) pontjában foglalt esetben a 14. § (7) bekezdésében meghatározott felelőssel szemben kell kiszabni.
 
-(3) Ha a (2) bekezdés szerinti felelős kilétét nem lehet megállapítani, a bírságot azzal a takarmány-vállalkozással szemben kell kiszabni, akinél a jogsértést megalapozó takarmányt az élelmiszerlánc-felügyeleti szerv megtalálta, kivéve, ha a takarmány-vállalkozás bizonyítja, hogy a bírság kiszabására okot adó hibát nem ő okozta.
+(3) Ha a (2) bekezdés szerinti felelős kilétét nem lehet megállapítani, a bírságot azzal a takarmány-vállalkozással szemben kell kiszabni, akinél a jogsértést megalapozó takarmányt az élelmiszerlánc-felügyeleti szerv megtalálta.

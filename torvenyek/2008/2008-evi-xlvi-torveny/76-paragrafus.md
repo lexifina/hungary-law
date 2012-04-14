@@ -4,7 +4,7 @@
 
 a) jelölje ki az élelmiszerlánc-felügyeleti szervet, határozza meg jogállását, részletes feladatkörét és eljárási rendjét;
 
-b) jelölje ki az élelmiszerlánc-biztonsági tudományos szervet, állapítsa meg annak feladatkörét;
+b)
 
 c) határozza meg a Magyar Élelmiszerkönyv, a Magyar Takarmánykódex, az Állat-egészségügyi és Állatjóléti Kódex és a Növényvédelmi Módszertani Gyűjtemény összeállításának, közzétételének szabályait, az élelmiszerkönyvi és a takarmánykódex-irányelvek kiadásának rendjét, továbbá jelölje ki a gondozásukat, valamint a FAO/WHO Codex Alimentarius Bizottság munkájában való magyar részvétel szakmai irányítását végző szervet;
 
@@ -14,13 +14,15 @@ e) állapítsa meg az állami feladatok végzésére feljogosított magánállat
 
 f) határozza meg az állami, illetve a közérdekű védekezés költségei megállapításának és a költségvetési törvényben meghatározott előirányzatból való igénylésének részletes szabályait;
 
-g) állapítsa meg a parlagfű elleni közérdekű védekezés végrehajtásának részletes eljárási szabályait.
+g) állapítsa meg a parlagfű elleni közérdekű védekezés végrehajtásának részletes eljárási szabályait;
+
+h) állapítsa meg a lófélék azonosításának, jelölésének, nyilvántartásának, az azonosító okmányának kiállításának, valamint az azonosító okmány használatának és hatósági ellenőrzésének szabályait.
 
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg
 
 1. a növény-egészségügyi, az állat-egészségügyi, az élelmiszer-biztonsági, valamint a takarmányozási hatósági felügyelet alá tartozó létesítmények körét, működésük részletes szabályait, továbbá nyilvántartásba vételük és engedélyezésük feltételeit és rendjét;
 
-2. az élelmiszerlánc-felügyeleti adatbázis kialakításának, működtetésének feltételeit és szabályait;
+2. az élelmiszerlánc-felügyeleti információs rendszer kialakításának és működtetésének részletes szabályait
 
 3. az élelmiszerlánc területén alkalmazható intézkedések részletes szabályait;
 
@@ -102,7 +104,13 @@ g) állapítsa meg a parlagfű elleni közérdekű védekezés végrehajtásána
 
 42. az élelmiszerek ionizáló energiával való kezelésének feltételeit és szabályait;
 
-43. a felügyeleti díj bevallásának és megfizetésének részletes szabályait.
+43. a felügyeleti díj bevallásának és megfizetésének részletes szabályait;
+
+44. a méhek tartásának és a méz előállításának részletes szabályait;
+
+45. az élelmiszer-vállalkozók önellenőrzési kötelezettségeinek részletes szabályait.
+
+46. az élelmiszer-előállítás során alkalmazott technológiai segédanyagok nyilvántartásba vételének részletes szabályait.
 
 (3) Felhatalmazást kap a miniszter, hogy – a (2) és (6) bekezdésben nem említett kérdésekben – az általános élelmiszer-jelölési előírásokat a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 

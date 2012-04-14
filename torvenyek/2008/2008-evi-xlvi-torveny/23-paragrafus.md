@@ -2,6 +2,6 @@
 
 (2) Az e törvény végrehajtására kiadott jogszabályban meghatározott – az (1) bekezdés hatálya alá nem tartozó – esetekben az élelmiszer-, illetve a takarmányvállalkozás köteles az élelmiszer- vagy takarmányvállalkozási tevékenység folytatására irányuló szándékát az élelmiszerlánc-felügyeleti szervnek bejelenteni.
 
-(3) Az élelmiszer-vállalkozó haladéktalanul köteles bejelenteni az élelmiszerlánc-felügyeleti szervnek, ha tudomására jut, hogy az általa előállított vagy forgalomba hozott termék megbetegedést okozott, vagy ennek gyanúja áll fenn.
+(3) Az élelmiszer-, illetve takarmányvállalkozó haladéktalanul köteles bejelenteni az élelmiszerlánc-felügyeleti szervnek, ha tudomására jut, hogy az általa előállított vagy forgalomba hozott termék megbetegedést okozott, vagy ennek gyanúja áll fenn, és köteles a hatósági vizsgálatokhoz szükséges élelmiszereket, takarmányt, más egyéb anyagokat a vizsgálatig megőrizni, valamint az élelmiszerlánc-felügyeleti szervvel a kivizsgálásban együttműködni.
 
 (4) Az az élelmiszer-vállalkozás, amely egy másik tagállamból szerez be terméket vagy ilyen termék szétosztását végzi, az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint az élelmiszerlánc-felügyeleti szerv felhívására köteles bejelenteni a más tagállamból származó állati eredetű élelmiszerek első betárolási helyre történő beszállítás megtörténtét.

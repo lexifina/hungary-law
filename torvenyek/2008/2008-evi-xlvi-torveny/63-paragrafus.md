@@ -18,7 +18,7 @@ af) a takarmányok előállítására, tárolására, szállítására, forgalom
 
 ag) az állat-egészségügyre;
 
-ah) az állatok tartásának, szaporításának, tenyésztésének, szállításának és forgalomba hozatalának állat-egészségügyi szabályaira;
+ah) az állatok tartásának, szaporításának, tenyésztésének, jelölésének, szállításának és forgalomba hozatalának állat-egészségügyi szabályaira;
 
 ai) az állatok állat-egészségügyi felügyeletére és ellátására;
 

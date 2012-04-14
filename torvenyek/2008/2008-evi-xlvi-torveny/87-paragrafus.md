@@ -1,4 +1,4 @@
-87. §
+### 87. §
 
 ## Melléklet a 2008. évi XLVI. törvényhez
 
@@ -34,6 +34,8 @@ E törvény alkalmazásában:
 
 14. élelmiszer-csomagolóanyag: olyan anyag, amelyet az élelmiszerek burkolására, megóvására, kezelésére, szállítására használnak az élelmiszerlánc bármely szakaszában;
 
+14/A. élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagok és tárgyak: az 1935/2004/EK rendelet 1. cikkének 2. pontja szerinti fogalom;
+
 15. élelmiszer-előállítás: feldolgozatlan és feldolgozott termék – kivéve az alaptermék – előállítása érdekében történő alapanyag-tárolási, tisztítási, osztályozási, előkészítési, gyártástechnológiai, csomagolási, jelölési, tárolási és szállítási műveletek bármelyike;
 
 16. élelmiszer-vállalkozás: a 178/2002/EK rendelet 3. cikkének 2. pontjában meghatározott fogalom;
@@ -66,7 +68,9 @@ E törvény alkalmazásában:
 
 30. földhasználó: termőfölddel, erdő vagy egyéb növényi vegetáció számára alkalmas területtel rendelkezik, illetve azt használja, vagy a termőföld hasznosítására kötelezett, vagy olyan dologgal (eszközzel, berendezéssel, tárggyal) rendelkezik, illetve azt használja, amelyben növény fenntartható;
 
-30/A. gyógynövény termék: olyan vadon termett vagy termesztett – a Magyar Élelmiszerkönyvben gyógynövényként szereplő – növény vagy növény feldolgozásával előállított – külön jogszabály szerint gyógyszernek nem minősülő – előnyös élettani hatással rendelkező termék, amelyet emberi fogyasztásra szánnak, illetve amelyet várhatóan emberek fogyasztanak el;
+30/A. géntechnológiával módosított szervezet: a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 2. §-ának b) pontja szerinti fogalom;
+
+30/B. gyógynövény termék: olyan vadon termett vagy termesztett – az e törvény végrehajtására kiadott rendeletben meghatározott – növény vagy növény feldolgozásával előállított – külön jogszabály szerint gyógyszernek nem minősülő – előnyös élettani hatással rendelkező termék, amelyet emberi fogyasztásra szánnak, illetve amelyet várhatóan emberek fogyasztanak el;
 
 31. gyógyszeres takarmány: olyan takarmány, amely az állatgyógyászati készítményekre vonatkozó jogszabályokban meghatározott anyagot is tartalmaz;
 
@@ -85,6 +89,8 @@ E törvény alkalmazásában:
 38. kockázat: a 178/2002/EK rendelet 3. cikkének 9. pontja szerinti fogalom;
 
 39. kötelező védekezés: az élelmiszerlánc-felügyeleti szerv által elrendelt állami, közérdekű vagy termelői védekezés;
+
+39/A. közös ügyfél törzsadat-kezelő rendszer: a 38/A. § (2) bekezdése a) pontja aa) alpontja szerinti, az élelmiszerlánc-felügyeleti hatóság által működtetett ügyfélnyilvántartási rendszer és a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti Egységes Mezőgazdasági és Ügyfél-nyilvántartási Rendszer összekapcsolásával kialakított ügyfél törzsadat-kezelő rendszer, melynek célja, hogy az ügyfelek egyidejűleg egyértelműen azonosíthatóak legyenek mind a támogatási szerv, mind az élelmiszerlánc-felügyeleti hatóság számára.
 
 40. laboratórium: az élelmiszerlánc bármely szakaszában fizikai, kémiai, biológiai komponensek, radioaktív szennyezők vizsgálatát, így különösen analitikai, virológiai, szerológiai, géntechnológiával módosított szervezet, mikrobiológiai, mikológiai, enthomológiai, károsító-diagnosztikai, toxikológiai vagy radiológiai vizsgálatot, továbbá egyéb, az élelmiszerek és takarmányok biztonságosságát, illetve az élelmiszerekre és takarmányokra vonatkozó minőségi előírásoknak való megfelelését ellenőrző vizsgálatot végző laboratórium;
 
@@ -126,6 +132,8 @@ l) bármely más növényi rész, amelyet az Európai Bizottság a növényeket 
 
 47. növényi termék: a feldolgozatlan vagy egyszerű előkészítésen (például őrlés, szárítás vagy préselés) átesett növény, a 43. pontban meghatározott növények kivételével;
 
+47/A. növényorvos: külön jogszabály szerinti felsőfokú növényvédelmi képesítéssel rendelkező személy;
+
 48. növényvédelmi korlátozás: szállítási, forgalomba hozatali, felhasználási tilalmi intézkedés, melyet
 
 a) növényben, növényi termékben a megengedettnél magasabb növényvédőszermaradék-tartalom, vagy az arra irányuló gyanú tisztázása idejére,
@@ -142,29 +150,15 @@ hoznak;
 
 49. növényvédő hatású termék, növényvédelmi célú eszköz és anyag: a károsítók elleni védekezés megalapozásához szükséges műszer, eszköz, a növényvédelmi előrejelzéshez használt műszer és csapda, a kifejezetten a károsítókat csalogató, riasztó, ölő, fizikai hatáson alapuló eszköz, illetve a károsító riasztására, csalogatására, biológiájának, viselkedésének, szaporodásának, életfolyamatainak gátlására, módosítására szolgáló készítmény, továbbá olyan növényvédelemmel kapcsolatos termék, amely nem minősül növényvédő szernek, illetve növényvédőszer-hatóanyagnak;
 
-50. növényvédő szer: egy vagy több növényvédőszer- hatóanyagot tartalmazó készítmény, felhasználásra kerülő formában, amely
+50. növényvédő szer: 1107/2009/EK rendelet 2. cikk 1. bekezdése szerinti fogalom;
 
-a) védi a növényeket és növényi termékeket a károsító szervezetektől, vagy megakadályozza a károsító szervezetek tevékenységét;
-
-b) nem tápanyagként (például növekedésszabályozóként) befolyásolja a növények életfolyamatait;
-
-c) tartósítja a növényi termékeket, kivéve a tartósítószerekre vonatkozó külön előírások hatálya alá tartozó készítményeket;
-
-d) irtja a nemkívánatos növényeket; vagy
-
-e) elpusztítja a növények egyes részeit, befolyásolja vagy megelőzi a növények nemkívánatos növekedését;
-
-51. növényvédőszer-hatóanyag: olyan anyag vagy mikroorganizmus, beleértve a vírusokat is, amely hatást fejt ki
-
-a) a károsító szervezetekre, vagy
-
-b) a növényre, a növény részeire vagy a növényi termékre;
+51. növényvédőszer-hatóanyag: 1107/2009/EK rendelet 2. cikk 2. bekezdése szerinti fogalom;
 
 52. nyomon követhetőség: a 178/2002/EK rendelet 3. cikkének 15. pontja szerinti fogalom;
 
 53. ökológiai termelés: az Öko EK rendelet 2. cikkének a) pontjában meghatározott fogalom szerinti tevékenység;
 
-54. rendkívüli élelmiszerlánc-esemény: a lakosság széles körét érintő, az emberek életét, egészségét veszélyeztető élelmiszer-biztonsági jogsértés, továbbá a nagy nemzetgazdasági kárral fenyegető vagy közegészségügyileg veszélyes állatbetegségek, növényi károsítók okozta járvány, valamint a gazdasági haszonállat-állomány széles körét érintő, az állatok egészségét veszélyeztető takarmánybiztonsági jogsértés;
+54. rendkívüli élelmiszerlánc-esemény: a lakosság széles körét érintő, az emberek életét, egészségét veszélyeztető élelmiszer-biztonsági jogsértés megállapítása vagy gyanúja annak kizárásáig, továbbá a nagy nemzetgazdasági kárral fenyegető vagy közegészségügyileg veszélyes állatbetegségek megállapítása vagy gyanúja annak kizárásáig, növényi károsítók okozta járvány, valamint a gazdasági haszonállat-állomány széles körét érintő, az állatok egészségét veszélyeztető takarmánybiztonsági jogsértés megállapítása vagy gyanúja annak kizárásáig;
 
 55. takarmány: a 178/2002/EK rendelet 3. cikkének 4. pontja szerinti fogalom;
 
@@ -202,7 +196,7 @@ b) fennáll a veszélye annak, hogy kedvező ökológiai feltételek esetén egy
 
 70. végső fogyasztó: a 178/2002/EK európai parlamenti és tanácsi rendelet 3. cikkének 18. pontjában meghatározott fogalom;
 
-71. vendéglátó-ipari termék: olyan étel, ital (az ivóvíz kivételével), cukrászati, hidegkonyhai készítmény, amelyet az előállítás helyén, ideiglenes árusítóhelyen, tálalókonyhán vagy házhoz szállítva értékesítenek a végső fogyasztó számára;
+71. vendéglátó-ipari termék: olyan étel, ital (az ivóvíz kivételével), cukrászati, hidegkonyhai készítmény, amelyet az előállítás helyén, ideiglenes árusítóhelyen, tálalókonyhán vagy házhoz szállítva értékesítenek a végső fogyasztó vagy egyéb jogszabályban megadott korlátok szerint kiskereskedelmi létesítmény számára;
 
 72. vizsgálatköteles áru: olyan növény, növényi termék, tárolóhely, csomagolóanyag, szállítóeszköz, tárolóeszköz, talaj és bármely egyéb szerkezet, eszköz vagy anyag, amelyben a károsító megtelepedhet, illetve a károsító terjedését elősegítheti, emiatt növény-egészségügyi intézkedés lehet szükséges;
 

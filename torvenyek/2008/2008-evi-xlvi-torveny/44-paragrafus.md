@@ -12,7 +12,7 @@ e) eljárásához szükséges vizsgálatok elvégzése céljából térítésmen
 
 f) hatósági mintavétel esetén az ügyfél kérésére – az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott kivételek figyelembevételével – ellenmintát venni;
 
-g) élelmiszerlánc-esemény elhárítása érdekében a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is a lezárt ingatlanok területére, üzlethelyiségbe, üzemi helyiségbe belépni és ott az ellenőrzést lefolytatni akkor is, ha azok egyidejűleg lakás céljára szolgálnak, továbbá szállítóeszközöket ellenőrizni.
+g) élelmiszerlánc-esemény alapos gyanúja esetén továbbá élelmiszerlánc-esemény elhárítása, illetve a felügyeleti díj bevallási és fizetési kötelezettség ellenőrzése érdekében a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is a lezárt ingatlanok területére, üzlethelyiségbe, üzemi helyiségbe belépni és ott az ellenőrzést lefolytatni akkor is, ha azok egyidejűleg lakás céljára szolgálnak, továbbá szállítóeszközöket, dokumentációt, számviteli bizonylatokat ellenőrizni.
 
 (2) Az élelmiszerlánc-felügyeleti szerv a hatósági ellenőrzés során próbavásárlást (ideértve az interneten történő vásárlást is) végezhet.
 

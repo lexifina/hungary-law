@@ -4,13 +4,13 @@ a) az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: mini
 
 b) az élelmiszerlánc-felügyelettel kapcsolatos vizsgálatot végző laboratóriumok,
 
-c) az élelmiszerlánc-biztonsági tudományos szerv,
+c)
 
 d) az élelmiszerlánc-felügyeleti szerv,
 
 e) az országos főállatorvos.
 
-(2) Az élelmiszerlánc-felügyeleti szerv egyes állami feladatainak elvégzésére kormányrendelet feljogosíthatja a magánállatorvost.
+(2) Az élelmiszerlánc-felügyeleti szerv egyes állami feladatainak megbízási jogviszony keretében történő elvégzésére kormányrendelet feljogosíthatja a magánállatorvost.
 
 (3) Az állami feladatok elvégzésére feljogosított magánállatorvos állami feladatainak végzése közben az élelmiszerlánc-felügyeleti szerv nevében, az e törvényben és a végrehajtására kiadott jogszabályokban foglalt eltérésekkel a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályainak alkalmazásával jár el, ezen tevékenységéért az e törvény végrehajtására kiadott jogszabályban foglaltak szerint díjazás illeti meg.
 

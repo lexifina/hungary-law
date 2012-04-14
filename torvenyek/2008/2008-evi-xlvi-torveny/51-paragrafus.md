@@ -40,4 +40,10 @@ p) földterület, jármű, épület, berendezés, eszköz és anyag igénybevét
 
 q) a járványügyi intézkedés eredményes végrehajtása érdekében gazdálkodó szervezet – így különösen vágóhíd, állati eredetű melléktermék kezelését végző üzem – aktív közreműködésre kötelezése;
 
-r) az állattartó, az élelmiszer- vagy takarmányvállalkozó tevékenységének korlátozása, felfüggesztése.
+r) az állattartó, az élelmiszer- vagy takarmányvállalkozó tevékenységének korlátozása, feltételhez kötése, felfüggesztése;
+
+s) ebzárlat;
+
+t) legeltetési tilalom.
+
+u) bejelentendő állatbetegség vadon élő állatban történt megállapítását követően az érintett terület fertőzött területté nyilvánítása.

@@ -1,11 +1,13 @@
-29. § A miniszter az e törvény végrehajtására kiadott jogszabályban foglaltak szerint
+29. § Az országos főállatorvos
 
-a) elkészítteti – az érintettek egyetértésével szükség esetén módosítja – az Integrált Többéves Nemzeti Ellenőrzési Tervet, megszervezi, irányítja, felügyeli annak végrehajtását, továbbá ellátja annak vonatkozásában a koordinációs és kapcsolattartói feladatokat;
+a) előkészíti a nemzeti középtávú élelmiszerlánc-biztonsági stratégiát (a továbbiakban: élelmiszerlánc-biztonsági stratégia);
 
-b) tájékoztatást ad a közvélemény részére az élelmiszerláncot érintő, országos vagy kiemelt jelentőségű ügyekről;
+b) kiadja a 47/A. § szerinti többéves tervet, irányítja annak végrehajtását, továbbá ellátja annak vonatkozásában a koordinációs és kapcsolattartói feladatokat;
 
-c) szakmai útmutatót adhat ki az élelmiszerlánc egységes felügyeletének elősegítése céljából;
+c) ellátja az élelmiszerlánc-felügyeleti szerv operatív irányítását;
 
-d) véleményezi a növényvédelmi képzés képesítési követelményrendszerét;
+d) szakmai útmutatót adhat ki az élelmiszerlánc egységes felügyeletének elősegítése céljából;
 
-e) kijelöli a nemzeti referencialaboratóriumokat.
+e) tájékoztatást ad a közvélemény részére az élelmiszerláncot érintő, országos vagy kiemelt jelentőségű ügyekről;
+
+f) kijelöli a nemzeti referencialaboratóriumokat.

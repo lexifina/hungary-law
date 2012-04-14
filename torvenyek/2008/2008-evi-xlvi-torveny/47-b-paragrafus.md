@@ -42,14 +42,18 @@ b) kisvállalkozás esetén évi hétszázezer forint.
 
 (6) Az (5) bekezdés b) pontja szerinti felügyeleti díj fizetésére kötelezett élelmiszer-vállalkozás az ott meghatározott összegű felügyeleti díj megfizetése helyett választása alapján a (3) bekezdés szerint számított felügyeleti díjat a (8) és (9) bekezdés szerint vallja be és fizeti meg.
 
-(7) Mentesül a felügyeleti díj bevallási és fizetési kötelezettség alól a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 19. pontja szerinti mezőgazdasági kistermelő.
+(7) Mentesül a felügyeleti díj bevallási és fizetési kötelezettség alól a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 19. pontja szerinti mezőgazdasági kistermelő kizárólag az őstermelői tevékenysége vonatkozásában.
 
-(8) A fizetésre kötelezettnek évente egyszer kell bevallania, a díjfizetés alapjául szolgáló nettó árbevételét, illetve jövedelmét. A bevallási kötelezettséget május 31-ig kell teljesíteni. A díj megfizetése a bevallási kötelezettséget nem pótolja. Nem kell bevallani, illetve megfizetni a felügyeleti díjat, ha annak mértéke nem éri el az ezer forintot.
+(8) A fizetésre kötelezettnek évente egyszer kell bevallania a díjfizetés alapjául szolgáló nettó árbevételét, illetve jövedelmét. A bevallási kötelezettséget május 31-ig kell teljesíteni. A díj megfizetése a bevallási kötelezettséget nem pótolja. Nem kell megfizetni a felügyeleti díjat, ha annak mértéke nem éri el az ezer forintot.
 
-(9) A fizetésre kötelezett az éves felügyeleti díjat két részletben, egyenlő összegben köteles megfizetni július 31. napjáig, illetve január 31. napjáig. A határidőig meg nem fizetett felügyeleti díj után késedelmi pótlékot kell fizetni, amelynek megállapításánál az adózás rendjéről szóló 2003. évi XCII. törvény előírásai irányadók. A meg nem fizetett felügyeleti díj és a késedelmi pótlék adók módjára behajtandó köztartozásnak minősül.
+(9) A fizetésre kötelezett az éves felügyeleti díjat két részletben, egyenlő összegben köteles megfizetni július 31. napjáig, illetve január 31. napjáig. A határidőig meg nem fizetett felügyeleti díj után késedelmi pótlékot kell fizetni, amelynek megállapításánál az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) előírásai irányadók. A meg nem fizetett felügyeleti díj és a késedelmi pótlék adók módjára behajtandó köztartozásnak minősül.
 
-(10) A befolyt felügyeleti díjat az élelmiszerlánc-biztonsági stratégiában, a többéves tervben és az éves ellenőrzési tervben meghatározott feladatok végrehajtására kell fordítani. Az évente befolyt felügyeleti díj 10%-át fejlesztésre kell fordítani.
+(10) A befolyt felügyeleti díjat az élelmiszerlánc-biztonsági stratégiában, a többéves tervben és az éves ellenőrzési tervben meghatározott feladatok végrehajtására kell fordítani. Az évente befolyt felügyeleti díj 10%-át fejlesztésre kell fordítani. A felügyeleti díjból befolyt bevétel működésre is fordítható.
 
 (11) A befolyt felügyeleti díj felhasználásáról az élelmiszerlánc-felügyeleti szerv elkülönített nyilvántartást vezet. A felhasználásról feladatonkénti szöveges beszámolót kell készíteni az országos főállatorvos részére a felhasználást követő év április 30-ig.
 
-(12) A felügyeleti díj bevallására és megfizetésére vonatkozó részletes szabályokat e törvény végrehajtására kiadott jogszabály állapítja meg.
+(12) A 38/B. § (1) bekezdése szerinti regisztrációt, valamint a felügyeleti díj bevallási kötelezettséget az élelmiszerlánc-felügyeleti szerv erre a célra kialakított központi elektronikus rendszerének használatával kell teljesíteni. A felügyeleti díj bevallására és megfizetésére vonatkozó részletes szabályokat e törvény végrehajtására kiadott jogszabály állapítja meg.
+
+(13) A felügyeleti díj bevallására kötelezettnek olyan nyilvántartást kell vezetnie, amelyből a felügyeleti díj alapjának, mértékének számítása egyértelműen megállapítható. Nem vonatkozik az előírás azon fizetésre kötelezettekre, akik az (5) bekezdés szerinti fizetési módot választják.
+
+(14) A felügyeleti díj bevallása, nyilvántartása, befizetése, kezelése, ellenőrzése és önellenőrzése kapcsán e törvényben, illetve az annak végrehajtására kiadott jogszabályban nem szabályozott kérdésekben az Art. képviseletre, önellenőrzési jogra, bevallásra, bevallás kijavítására, a megfizetésre, a bizonylatokra, könyvvezetésre, nyilvántartásra, bizonylatok megőrzésére, önellenőrzésre, az önellenőrzés bevallása és megfizetése, utólagos megállapításra, fizetési halasztásra, részletfizetés engedélyezésére, elévülésre, késedelmi pótlékra, önellenőrzési pótlékra, valamint az eljárás költségeire vonatkozó rendelkezései az irányadóak.
