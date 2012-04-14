@@ -18,7 +18,7 @@ g) a pincékben és a kereskedelemben – rendszeres mintavétellel – a borok 
 
 h) az import borászati termékek minőségét,
 
-i) a bor forgalomba hozatali járulék befizetését,
+i)
 
 j) a bor származási bizonyítványok valóságtartalmát,
 

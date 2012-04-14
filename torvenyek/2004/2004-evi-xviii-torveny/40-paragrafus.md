@@ -18,7 +18,7 @@ látják el.
 
 (2) A hegyközségi szervezet hatáskörében ellátja az ültetvény telepítésével, művelésével, kivágásával, az ültetvénykataszter vezetésével, a származási bizonyítványok kiadásával kapcsolatos feladatokat, valamint ezek vonatkozásában hatósági ellenőrzést végez.
 
-(3)
+(3) A borászati és a növénytermesztési hatóság az általa e törvény alapján nyilvántartott adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv:
 

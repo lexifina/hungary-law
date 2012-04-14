@@ -26,7 +26,7 @@ j) a nem hegyközségi települések esetén az e törvényben meghatározott k�
 
 k) a pince- és borhigiéniai követelményeket, a borászati üzemek működését, illetve a borászati üzemek működésének és a borászati termékek kiszerelésének engedélyezési rendjét;
 
-l) az adópolitikáért felelős miniszterrel egyetértésben a forgalomba hozatali járulék megfizetésének, megfizetése ellenőrzésének, az ellenőrzéshez kapcsolódó adatok szolgáltatásának, kezelésének és felhasználásának részletes szabályait;
+l)
 
 m) a forgalomba hozatali, illetve Magyarország területéről történő kiszállítás esetén a továbbfeldolgozásra vonatkozó engedély kiadásához szükséges kémiai és érzékszervi vizsgálatok végzésére jogosult szervezet elismerésének feltételeit, valamint a laboratóriumi és érzékszervi vizsgálatok rendjét;
 
