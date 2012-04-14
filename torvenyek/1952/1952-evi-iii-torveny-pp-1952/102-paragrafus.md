@@ -1,4 +1,4 @@
-102. § (1) A hirdetmény útján kézbesítendő iratot tizenöt napra ki kell függeszteni a bíróság hirdetőtáblájára és a fél – illetőleg ismeretlen örökösök részére való kézbesítés esetében az örökhagyó – utolsó ismert lakóhelyén a polgármesteri hivatal hirdetőtáblájára.
+102. § (1) A hirdetmény útján kézbesítendő iratot tizenöt napra ki kell függeszteni a bíróság hirdetőtáblájára és a fél – illetőleg ismeretlen örökösök részére való kézbesítés esetében az örökhagyó – utolsó ismert lakóhelyén a polgármesteri hivatal hirdetőtáblájára, továbbá közzé kell tenni a bíróság honlapján és az erre a célra fenntartott központi honlapon.
 
 (2) Ha a fél olyan államban lakik, amely a kézbesítéshez jogsegélyt nem nyújt, de amellyel a postai forgalom fennáll, a hirdetményt – lehetőleg ajánlott levélként – a fél ottani címére is meg kell küldeni. Ha a hirdetményi kézbesítésre a 100/A. § (4) bekezdése alapján kerül sor, és a fél olyan államban lakik, amellyel a postai forgalom fennáll, a hirdetményt ajánlott levélként a fél ottani címére is meg kell küldeni.
 
