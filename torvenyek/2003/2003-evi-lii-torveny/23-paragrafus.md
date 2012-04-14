@@ -55,3 +55,5 @@ l) eljár – a 23/A. §-ban foglaltakra is figyelemmel – az e törvény és a
 (3) A növénytermesztési hatóság ellenőrzést végző munkatársa hatósági igazolvánnyal rendelkezik, amelyet a növénytermesztési hatóság ad ki.
 
 (4) A növénytermesztési hatóság közigazgatási eljárásban országos illetékességgel hozott döntése ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
+
+(5) A növénytermesztési hatóság az (1) bekezdés a) pontja szerinti nyilvántartásban lévő adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.

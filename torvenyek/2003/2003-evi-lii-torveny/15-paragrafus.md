@@ -14,6 +14,8 @@ e) a dísznövényekre vonatkozó külön jogszabályban
 
 szereplő faj, növényfajta szaporítóanyagát szabad forgalomba hozatal céljára előállítani, forgalomba hozni, továbbszaporítani, árutermesztésre és árutermesztő ültetvény létesítésére felhasználni, amennyiben azok a külön jogszabályban meghatározott feltételeknek megfelelnek.
 
+(1a) A természetes környezet megőrzésére szánt takarmánynövény-vetőmagkeverékek begyűjtése a természetvédelmi hatóság, forgalmazása a növénytermesztési hatóság engedélyével végezhető.
+
 (2) A növénytermesztési hatóság – a miniszter e törvény felhatalmazása alapján kiadott rendeletében foglaltak szerint – engedélyezheti az (1) bekezdésben foglaltaknak meg nem felelő szaporítóanyag eseti felhasználását.
 
 (3) Ha jogszabály másként nem rendelkezik, az (1) bekezdés alá nem tartozó növényfajok, illetve -fajták szabadon előállíthatók, forgalomba hozhatók, továbbszaporíthatók és árutermesztésre, árutermesztő ültetvény létesítésére felhasználhatók.
