@@ -44,17 +44,17 @@ e) a sportközalapítvány kivételével a támogatott szervezetnek a sportrende
 
 10. utánpótlás-korú versenyző: a látvány-csapatsportágak korosztályos versenyrendszerre (bajnokságra) vonatkozó versenyszabályzatában a versenyen, mérkőzésen való részvétel alapját képező életkor alsó határát betöltött, de felső határát meg nem haladó korú versenyző;
 
-11.[^5] utánpótlás-nevelési feladatok ellátásának támogatása: az Stv.-ben meghatározott szakszövetségi utánpótlás-fejlesztési koncepció alapján megvalósuló vagy ahhoz illeszkedő, a támogatás igénybevételére jogosult szervezet által támogatási időszakonként, a támogatás elszámolási időszakát megelőzően készített (több támogatási időszakra szóló sportfejlesztési program esetén támogatási időszakokra lebontott), a jóváhagyást végző szervezethez benyújtott és jóváhagyott sportfejlesztési program végrehajtásával kapcsolatban felmerült, a sportág utánpótlás-korú versenyzőinek kiválasztásával, felkészítésével, képzésével, edzőtáboroztatásával és versenyeztetésével összefüggő költségek, kiadások, az alábbiak szerint:
+11.[^5] utánpótlás-nevelési feladatok ellátásának támogatása: az Stv.-ben meghatározott szakszövetségi utánpótlás- fejlesztési koncepció alapján megvalósuló vagy ahhoz illeszkedő, a támogatás igénybevételére jogosult szervezet által támogatási időszakonként, a támogatás elszámolási időszakát megelőzően készített (több támogatási időszakra szóló sportfejlesztési program esetén támogatási időszakokra lebontott), a jóváhagyást végző szervezethez benyújtott és jóváhagyott sportfejlesztési program végrehajtásával kapcsolatban felmerült, a sportág utánpótlás-korú versenyzőinek kiválasztásával, felkészítésével, képzésével, edzőtáboroztatásával és versenyeztetésével összefüggő költségek, kiadások, az alábbiak szerint:
 
 a) az edzésen, versenyen, mérkőzésen a jóváhagyott sportfejlesztési program megvalósításában érintett utánpótlás-korú sportolók által használt sportfelszerelés, sporteszköz beszerzésére fordított összeg,
 
-b) a sportegészségügyi ellátás biztosítását szolgáló, sportorvos által igazolt gyógyszerek, diagnosztikai eszközök és gyógyászati segédeszközök beszerzésére fordított összeg,
+b) a sportegészségügyi ellátás biztosítását szolgáló, sportorvos által igazolt gyógyszerek, sportorvos által igazolt, az utánpótlás korú sportolók életkori szükségleteihez igazodó táplálék-kiegészítők, diagnosztikai eszközök és gyógyászati segédeszközök beszerzésére, valamint teljesítmény-diagnosztikai mérésekre, vizsgálatokra fordított összeg,
 
 c) a versenyre, mérkőzésre, továbbá az edzésre, edzőtáborba való személyszállítás költsége,
 
 d) a verseny, mérkőzés nevezési költsége,
 
-e) a rendezéssel – ideértve a verseny, mérkőzés biztonságos megrendezésével összefüggő, a mentéssel, a sportesemény rendjének biztosításával, továbbá a bírók, játékvezetők, szövetségi ellenőrök, versenyfelügyelők küldésével és rendelkezésre állásával, utánpótlás-korú sportszakemberek (játékvezetők, versenybírók) kiválasztásával, felkészítésével, képzésével kapcsolatos költségek,
+e) a rendezéssel – ideértve a verseny, mérkőzés biztonságos megrendezésével összefüggő, a mentéssel, a sportesemény rendjének biztosításával, továbbá a bírók, játékvezetők, szövetségi ellenőrök, versenyfelügyelők küldésével és rendelkezésre állásával, utánpótláskorú sportszakemberek (játékvezetők, versenybírók) kiválasztásával, felkészítésével, képzésével kapcsolatos költségek,
 
 f) a versenyengedélyek, játékengedélyek kiállításának díja,
 
@@ -94,21 +94,24 @@ b)[^9] amennyiben a támogatott szervezet szakszövetség, akkor támogatási id
 
 (5) Az adókedvezményre jogosító támogatás összege nem haladhatja meg a jóváhagyást végző szervezethez előzetesen benyújtott és jóváhagyott sportfejlesztési programban meghatározott költségek, ráfordítások, beruházások, felújítások után számított támogatás összegét.
 
-(6)[^11] Az (1) bekezdés 3., 4., 9., 11. és 12. pontjaiban meghatározott támogatási jogcímeken a támogatott szervezet sportfejlesztési programjának megvalósítására nyújtott támogatás támogatási időszakonként számított teljes összegének legfeljebb 3%-a, de összességében legfeljebb 50 millió forint a támogatási igazolás kiállításának feltételét képező sportfejlesztési program előkészítésével, a jóváhagyást végző szervezet által kiállított támogatási igazolás alapján a támogatott program megvalósításával, a felhasználás során szükséges adatszolgáltatási, jelentéstételi kötelezettség teljesítésével, valamint a felhasznált támogatás elszámolásával kapcsolatban felmerülő közreműködői költségek támogatására is fordítható. A közreműködői költségek támogatásának feltétele, hogy a támogatás igénybevételére jogosult szervezet a sportfejlesztési program jóváhagyását végző szervezethez történő benyújtása során azt előzetesen bejelentse, és a jóváhagyást végző szervezet azt jóváhagyja.
+(6)[^11] Az (1) bekezdés 3., 4., 9., 11. és 12. pontjaiban meghatározott támogatási jogcímeken a támogatott szervezet sportfejlesztési programjának megvalósítására nyújtott támogatás támogatási időszakonként számított teljes összegének legfeljebb 2%-a, de összességében legfeljebb 50 millió forint a támogatási igazolás kiállításának feltételét képező sportfejlesztési program előkészítésével, a jóváhagyást végző szervezet által kiállított támogatási igazolás alapján a támogatott program megvalósításával, a felhasználás során szükséges adatszolgáltatási, jelentéstételi kötelezettség teljesítésével, valamint a felhasznált támogatás elszámolásával kapcsolatban felmerülő közreműködői költségek támogatására is fordítható. A közreműködői költségek támogatásának feltétele, hogy a támogatás igénybevételére jogosult szervezet a sportfejlesztési program jóváhagyását végző szervezethez történő benyújtása során azt előzetesen bejelentse, és a jóváhagyást végző szervezet azt jóváhagyja. A közreműködői költségek teljes körű támogatásának további feltétele, hogy a támogatott szervezet sportfejlesztési programjának megvalósítására nyújtott támogatás és a jogszerűen felhasznált támogatás kiadásai tekintetében legalább 75%-ban megvalósuljon. Amennyiben a sportfejlesztési program megvalósulása a 75%-ot nem éri el, közreműködői díjként a jogszerűen felhasznált támogatás 2%-a számolható el.
+
+(6a)[^12] A támogatás igénybevételének feltétele, hogy a támogató az (1) bekezdés 3., 4., 9., 11. és 12. pontjaiban meghatározott támogatási jogcímeken nyújtott támogatás támogatási időszakonként számított teljes összegének 1%-át a sportpolitikáért felelős minisztérium ellenőrző szervezet által közzétett előirányzat felhasználási keretszámlájára befizesse. A befizetett összeget az ellenőrző szervezet által a látvány-csapatsportok támogatásával összefüggésben ellátott közigazgatási hatósági és szolgáltatási feladatok központi költségvetési támogatására kell fordítani.
 
 (7) Az (1) bekezdés 3., 4., 9., 11. és 12. pontjaiban meghatározott támogatási jogcímeken nyújtott támogatás felhasználásáról történő elszámolás során a látvány-csapatsportok támogatásával összefüggő sportfejlesztési program jóváhagyására és a támogatási igazolás kiadására irányuló hatósági eljárásban fizetendő igazgatási szolgáltatási díjról szóló miniszteri rendeletben meghatározott igazgatási szolgáltatási díj nem számolható el költségként.
 
-(8)[^12] Nem igényelhető az (1)–(4) bekezdésekben meghatározott költségek, ráfordítások, beruházások, felújítások után támogatás, ha a támogatás alapjául szolgáló költségek, ráfordítások, beruházások, felújítások közvetlenül a támogatás igénybevételére jogosult szervezet bevételszerző tevékenységével összefüggésben merülnek fel, és amelyek továbbszámlázása révén a támogatás igénybevételére jogosult szervezet bevételt számol el.
+(8)[^13] Nem igényelhető az (1)–(4) bekezdésekben meghatározott költségek, ráfordítások, beruházások, felújítások után támogatás, ha a támogatás alapjául szolgáló költségek, ráfordítások, beruházások, felújítások közvetlenül a támogatás igénybevételére jogosult szervezet bevételszerző tevékenységével összefüggésben merülnek fel, és amelyek továbbszámlázása révén a támogatás igénybevételére jogosult szervezet bevételt számol el.
 
 [^1]: A 2. § (1) bekezdés 3. pont nyitó szövegrésze a 268/2011. (XII. 16.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés 4. pontja a 268/2011. (XII. 16.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdés 5. pontja a 268/2011. (XII. 16.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
 [^4]: A 2. § (1) bekezdés 9. pontja a 268/2011. (XII. 16.) Korm. rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 268/2011. (XII. 16.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § (1) bekezdés 11. pont nyitó szövegrésze a 268/2011. (XII. 16.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés 11. pontja a 76/2012. (IV. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: A 2. § (1) bekezdés 12. pont nyitó szövegrésze a 268/2011. (XII. 16.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^7]: A 2. § (2) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 9. §-a hatályon kívül helyezte.
 [^8]: A 2. § (3) bekezdés a) pontja a 268/2011. (XII. 16.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
 [^9]: A 2. § (3) bekezdés b) pontja a 268/2011. (XII. 16.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
 [^10]: A 2. § (3a) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^11]: A 2. § (6) bekezdése a 268/2011. (XII. 16.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^12]: A 2. § (8) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^11]: A 2. § (6) bekezdése a 76/2012. (IV. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^12]: A 2. § (6a) bekezdését a 76/2012. (IV. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^13]: A 2. § (8) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 1. § (4) bekezdése iktatta be.
