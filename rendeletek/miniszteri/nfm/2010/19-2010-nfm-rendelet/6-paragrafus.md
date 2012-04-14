@@ -1,14 +1,15 @@
-## 5. §[^16]
+## 5. §[^15] A földgázforrás árát a következő negyedévre meghatározó miniszteri rendelet hatálybalépéséig a 2–4. mellékletben meghatározott árakat kell alkalmazni az egyetemes szolgáltatás céljára átvett földgázmennyiség tekintetében.
 
 6. § (1) Az e rendelet mellékleteiben meghatározott árak az általános forgalmi adót nem tartalmazzák.
 
-(2)[^17] A hatósági árszabályozás során az 1. melléklet és a 2. melléklet 1. és 3. pontjában meghatározott földgázárak esetében a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árszabások megállapításáról szóló 28/2009. (VI. 25.) KHEM rendeletben megállapított Ft/USD árfolyam kerül alkalmazásra.
+(2)[^16] A hatósági árszabályozás során a 2. melléklet 1. és 3. pontjában USA dollárban (USD) meghatározott földgázárak esetében a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árszabások megállapításáról szóló 28/2009. (VI. 25.) KHEM rendeletben megállapított Ft/USD árfolyam kerül alkalmazásra.
 
-(3)[^18] A GET 141. § (1) bekezdése szerint a volt közüzemi nagykereskedő forrásaival rendelkező kereskedő által felajánlott földgázforrás árát az 5. melléklet tartalmazza.
+(3)[^17] Az e rendeletnek a földgáz árszabályozással összefüggő egyes miniszteri rendeletek módosításáról szóló 17/2012. (IV. 13.) NFM rendelettel (a továbbiakban: Mód. rendelet) megállapított rendelkezéseit a Mód. rendelet hatálybalépését[^18] követő felajánlások tekintetében kell alkalmazni.
 
-(4)[^19] Az e rendeletnek – a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árszabások megállapításáról szóló 28/2009. (VI. 25.) KHEM rendelet és az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 19/2010. (XII. 3.) NFM rendelet módosításáról szóló 12/2011. (IV. 7.) NFM rendelet 2. § (1) bekezdésével megállapított – 4. § (1) bekezdése szerinti, a volt közüzemi nagykereskedő és az egyetemes szolgáltató általi adatszolgáltatásnak első alkalommal 2011. április 15-ig kell eleget tenni.
+(4)[^19]
 
-[^16]: Az 5. §-t a 38/2010. (XII. 31.) NFM rendelet 7. §-a hatályon kívül helyezte.
-[^17]: A 6. § (2) bekezdése a 83/2011. (XII. 29.) NFM rendelet 16. §-ával megállapított szöveg.
-[^18]: A 6. § (3) bekezdését a 12/2011. (IV. 7.) NFM rendelet 3. §-a iktatta be.
-[^19]: A 6. § (4) bekezdését a 12/2011. (IV. 7.) NFM rendelet 3. §-a iktatta be.
+[^15]: Az 5. §-t a 38/2010. (XII. 31.) NFM rendelet 7. §-a hatályon kívül helyezte, újonnan a 17/2012. (IV. 13.) NFM rendelet 4. §-a iktatta be.
+[^16]: A 6. § (2) bekezdése a 83/2011. (XII. 29.) NFM rendelet 16. §-ával megállapított, a 17/2012. (IV. 13.) NFM rendelet 9. §-a szerint módosított szöveg.
+[^17]: A 6. § (3) bekezdését a 12/2011. (IV. 7.) NFM rendelet 3. §-a iktatta be, szövege a 17/2012. (IV. 13.) NFM rendelet 5. §-ával megállapított szöveg.
+[^18]: A hatálybalépés időpontja 2012. április 14.
+[^19]: A 6. § (4) bekezdését a 12/2011. (IV. 7.) NFM rendelet 3. §-a iktatta be, hatályon kívül helyezte a 17/2012. (IV. 13.) NFM rendelet 10. § b) pontja.

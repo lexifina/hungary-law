@@ -1,49 +1,53 @@
-## A 2. § szerinti földgázforrás ára és mennyisége 2012. első negyedévre, valamint a felek köre
+## A 2. § szerinti földgázforrás ára és mennyisége 2012. második negyedévre, valamint a felek köre
 
 ## 1. Az E.ON Földgáz Trade Zrt. mint volt közüzemi nagykereskedő által értékesítendő, nem földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége:
 
-| Szerződött egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Földgázforrás ára (USD/GJ) |
+| Szerződött egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Nem hazai termelésből beszerzett földgázforrás ára (USD/GJ) | Hazai termelésből beszerzett földgázforrás ára (Ft/MJ) |
 
-| Alpiq Csepeli Erőmű Kft. | - | - |
+| FŐGÁZ Zrt. | 2877 | 12,123 | – |
 
-| FŐGÁZ Zrt. | 6816 | 12,099 |
+| E.ON Energiaszolgáltató Kft. | 1344 | 12,178 | – |
 
-| E.ON Energiaszolgáltató Kft. | 6751 | 10,108 |
+| E.ON Energiaszolgáltató Kft. | 908 | – | 1,799 |
 
-| GDF SUEZ Energia Magyarország Zrt. | 8544 | 10,465 |
+| GDF SUEZ Energia Magyarország Zrt. | 1706 | 12,369 | – |
 
-| ISD POWER Kft. | - | - |
+| GDF SUEZ Energia Magyarország Zrt. | 1152 | – | 1,828 |
 
-| TIGÁZ Zrt. | 2847 | 12,180 |
+| TIGÁZ Zrt. | 2847 | 12,248 | – |
+
+| OERG Kft. | 0,742 | 11,084 | – |
 
 ## 2. Az E.ON Földgáz Trade Zrt. mint volt közüzemi nagykereskedő által értékesítendő, földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége:
 
 | Szerződött egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Földgázforrás ára (Ft/MJ) |
 
-| Alpiq Csepeli Erőmű Kft. | - | - |
+| Alpiq Csepeli Erőmű Kft. | – | – |
 
-| FŐGÁZ Zrt. | 4544 | 2,402 |
+| FŐGÁZ Zrt. | – | – |
 
-| E.ON Energiaszolgáltató Kft. | 4501 | 2,402 |
+| E.ON Energiaszolgáltató Kft. | – | – |
 
-| GDF SUEZ Energia Magyarország Zrt. | 5696 | 2,402 |
+| GDF SUEZ Energia Magyarország Zrt. | – | – |
 
-| ISD POWER Kft. | - | - |
+| ISD POWER Kft. | – | – |
 
-| TIGÁZ Zrt. | - | - |
+| TIGÁZ Zrt. | – | – |
 
-## 3. A TIGÁZ Zrt. által a GET 141/A. § (8) bekezdése alapján az egyetemes szolgáltatásban felhasznált, nem földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége:
+## A volt közüzemi nagykereskedőre vonatkozó, a 3. § szerinti hazai termelésű földgáz legmagasabb hatósági ára és mennyisége 2012. második negyedévre
 
-| Egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Földgázforrás ára (USD/GJ) |
+| A volt közüzemi nagykereskedő | Földgázforrás mennyisége (TJ) | Földgázforrás ára (Ft/MJ) |
 
-| TIGÁZ Zrt. | - | - |
+| E.ON Földgáz Trade Zrt. | 2913 | 1,247 |
 
-## 4. A TIGÁZ Zrt. által a GET 141/A. § (8) bekezdése alapján az egyetemes szolgáltatásban felhasznált, földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége:
+## Az egyetemes szolgáltatóra vonatkozó, a 3. § szerinti hazai termelésű földgáz legmagasabb hatósági ára és mennyisége 2012. második negyedévre
 
 | Egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Földgázforrás ára (Ft/MJ) |
 
-| TIGÁZ Zrt. | - | - |
+| FŐGÁZ Zrt. | 2578 | 1,738 |
 
-3. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^24]
+| TIGÁZ Zrt. | 3819 | 1,690 |
 
-[^24]: A 3. melléklet a 83/2011. (XII. 29.) NFM rendelet 18. §-ával megállapított szöveg.
+3. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^23]
+
+[^23]: A 3. melléklet a 17/2012. (IV. 13.) NFM rendelet 7. §-ával megállapított szöveg.
