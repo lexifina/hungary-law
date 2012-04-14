@@ -8,7 +8,7 @@
 
 a) a kisajátításról szóló törvényben meghatározott közérdekű célok, vagy – amennyiben a közérdekű célt az érintett földrészlet vonatkozásában a nemzetgazdasági szempontból kiemelt beruházássá nyilvánító kormányrendelet megjelöli – nemzetgazdasági szempontból kiemelt beruházás megvalósításához szükséges;
 
-b) nem haladja meg a fél hektárt.
+b) nem haladja meg az egy hektárt.
 
 (3b) Nyilvános pályáztatás mellőzésével köthető vagyonkezelési szerződés az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 9. §-ának (2) bekezdésében meghatározott földterületre költségvetési szervvel vagy kizárólagos állami tulajdonban álló gazdálkodó szervezettel.
 

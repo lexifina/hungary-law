@@ -2,7 +2,7 @@
 
 4. § (1) Az NFA a miniszter irányítása alatt álló központi költségvetési szerv.
 
-(2) Az NFA elnökét a miniszter nevezi ki és menti fel. Az NFA két elnökhelyettesét az elnök javaslatára a miniszter nevezi ki és menti fel.
+(2) Az NFA elnökét a miniszter nevezi ki és menti fel. Az NFA elnökhelyetteseit az elnök javaslatára a miniszter nevezi ki és menti fel.
 
 (3) Az NFA elnöke és elnökhelyettese magyar állampolgár lehet. Az NFA elnöke, és elnökhelyettese nem lehet
 

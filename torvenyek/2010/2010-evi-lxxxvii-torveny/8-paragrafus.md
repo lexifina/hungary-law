@@ -6,7 +6,7 @@ b) érvényre juttatja az NFA tevékenysége során a Kormány által elfogadott
 
 c) véleményezi – a középtávú stratégiában és Nemzeti Vidékfejlesztési Tervben megfogalmazott célkitűzések alapján – az NFA által készített, a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos éves tervet;
 
-d) dönt a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos egyedi ügyekben, ha az annak tárgyát képező földrészlet vagy földrészletek együttes értéke eléri a 100 millió forintot, illetve a térmértéke eléri a 100 hektárt;
+d) dönt a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos egyedi ügyekben, ha az annak tárgyát képező földrészlet vagy földrészletek együttes értéke eléri a 100 millió forintot;
 
 e) dönt 100 millió forintot, vagy 100 hektár térmértéket elérő földrészlet vagy földrészletek tulajdonjogának az állam javára történő megszerzésével kapcsolatos ügyekben;
 
