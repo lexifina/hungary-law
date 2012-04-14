@@ -1,0 +1,1 @@
+42. § A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 4. § (2) bekezdésében a „két elnökhelyettesét” szövegrész helyébe „elnökhelyetteseit” szövegrész, 21. § (3a) bekezdésének b) pontjában az „a fél” szövegrész helyébe az „az egy” szövegrész lép.
