@@ -1,3 +1,0 @@
-## 13. § Az R. 197. §-a a következő (6) bekezdéssel egészül ki:
-
-## „(6) A kölcsönből fennálló tartozás 30%-a, mint lakáscélra nyújtott hitel törvény felhatalmazása alapján kiadott jogszabály alapján elengedett részének minősülő kedvezmény illeti meg azt a munkáltatói kölcsönben részesülő személyt, aki legkésőbb 2012. június 30-ig bejelenti a tartozás egyösszegű, határidő előtti kiegyenlítése iránti szándékát. Ez esetben az (1) bekezdésben foglalt feltételt nem kell alkalmazni. A kérelem benyújtására és elbírálására a (3)–(4) bekezdés az irányadó azzal, hogy az igazolásban a kölcsöntartozás határidő előtti egyösszegű kifizetésére – az igazolás kiállításától számított – a 30 napnál hosszabb jogvesztő határidőt nem lehet meghatározni.”
