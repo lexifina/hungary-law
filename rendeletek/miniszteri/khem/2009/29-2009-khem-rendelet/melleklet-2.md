@@ -102,7 +102,7 @@
 
 ## fgFtS: nem hosszú távú szerződések alapján lekötött, piaci földgázforrás ára, Ft/MJ
 
-## fgFtT tárolói készletérték a hosszútávú szerződések alapján beszerzett földgáz árának és nem hosszútávú szerződések alapján lekötött, piaci földgázforrás árának 60%–40%-os arányú figyelembevételével negyedik negyedévre a szeptember 30-ra becsült tárolói készletérték; az első negyedévre az ármegállapítást megelőző szeptember 30-i szintre korrigált tárolói készletérték (Ft/MJ); a tárolt gáz értékének nyilvántartása a tárolóban elhelyezett gáz beszerzéséhez kapcsolódó számlafizetés napjakor, árszabályozás szerint érvényes erEUR és erUSD árfolyamokon történik.
+## fgFtT tárolói készletérték a hosszútávú szerződések alapján beszerzett földgáz árának és nem hosszútávú szerződések alapján lekötött, piaci földgázforrás árának 30%–70%-os arányú figyelembevételével negyedik negyedévre a szeptember 30-ra becsült tárolói készletérték; az első negyedévre az ármegállapítást megelőző szeptember 30-i szintre korrigált tárolói készletérték (Ft/MJ); a tárolt gáz értékének nyilvántartása a tárolóban elhelyezett gáz beszerzéséhez kapcsolódó számlafizetés napjakor, árszabályozás szerint érvényes erEUR és erUSD árfolyamokon történik.
 
 ## fo: az 1%-os kéntartalmú fűtőolaj havi átlagárainak egyszerű számtani középértéke az aktuális naptári negyedévet megelőző 9 naptári hónap során USD/t-ban (3 tizedes értékre kerekítve), USD/t
 
