@@ -1,9 +1,9 @@
-18/B. §[^33] Az otthonteremtéssel összefüggő egyes kormányrendeletek módosításáról szóló 71/2012. (IV. 12.) Korm. rendelet (a továbbiakban: Módr.) 7. és 9. §-ával megállapított 6. § (3) bekezdését és 14. § (1) bekezdés m) pontját – a Kincstár által jogerősen elbírált esetek kivételével – a Módr. hatálybalépését[^34] megelőzően benyújtott kérelmek esetén is alkalmazni kell azzal, hogy a hitelintézet elfogadja
+18/B. §[^37] Az otthonteremtéssel összefüggő egyes kormányrendeletek módosításáról szóló 71/2012. (IV. 12.) Korm. rendelet (a továbbiakban: Módr.) 7. és 9. §-ával megállapított 6. § (3) bekezdését és 14. § (1) bekezdés m) pontját – a Kincstár által jogerősen elbírált esetek kivételével – a Módr. hatálybalépését[^38] megelőzően benyújtott kérelmek esetén is alkalmazni kell azzal, hogy a hitelintézet elfogadja
 
 a) az e rendelet hatálybalépését megelőzően a megyei kormányhivatalok egészségbiztosítási szakigazgatási szerve vagy az állami adóhatóság által kiállított igazolást, vagy
 
-b) – amennyiben az a) pont szerinti igazolás kiállítására nem került sor – a megyei kormányhivatalok egészségbiztosítási szakigazgatási szerve által kiállított igazolást a Módr. hatálybalépését[^35] követő 30 napon belül az igénylő által teljesített hiánypótlás keretében.
+b) – amennyiben az a) pont szerinti igazolás kiállítására nem került sor – a megyei kormányhivatalok egészségbiztosítási szakigazgatási szerve által kiállított igazolást a Módr. hatálybalépését[^39] követő 30 napon belül az igénylő által teljesített hiánypótlás keretében.
 
-[^33]: A 18/B. §-t a 71/2012. (IV. 12.) Korm. rendelet 11. §-a iktatta be.
-[^34]: A hatálybalépés időpontja 2012. április 13.
-[^35]: A hatálybalépés időpontja 2012. április 13.
+[^37]: A 18/B. §-t a 71/2012. (IV. 12.) Korm. rendelet 11. §-a iktatta be.
+[^38]: A hatálybalépés időpontja 2012. április 13.
+[^39]: A hatálybalépés időpontja 2012. április 13.

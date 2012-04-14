@@ -4,7 +4,7 @@
 
 (2) A hitelintézet átadja az igénylőnek a lakásgazdálkodásért és lakáspolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium elektronikus úton – legkésőbb a 15. § (2) bekezdése szerinti szerződés megkötésével egyidejűleg – megküldött tájékoztatóját a hatályos lakástámogatások feltételeiről, valamint írásban tájékoztatást ad az igényléshez szükséges dokumentumokról.
 
-(3)[^28] Az otthonteremtési kamattámogatásra való jogosultság megállapítását és mértékének meghatározását lakásvásárlás esetén a lakásra, lakóingatlanra vonatkozó végleges adásvételi szerződés megkötését követő 30 napon belül, lakásépítés esetén a használatbavételi engedély kiadása előtt, korszerűsítés esetén a korszerűsítési munkálatok megkezdése előtt kell kérni a hitelintézettől.
+(3)[^32] Az otthonteremtési kamattámogatásra való jogosultság megállapítását és mértékének meghatározását lakásvásárlás esetén a lakásra, lakóingatlanra vonatkozó végleges adásvételi szerződés megkötését követő 30 napon belül, lakásépítés esetén a használatbavételi engedély kiadása előtt, korszerűsítés esetén a korszerűsítési munkálatok megkezdése előtt kell kérni a hitelintézettől.
 
 (4) A hitelintézet az otthonteremtési kamattámogatás igénylése iránti kérelem átvételéről igazolást ad az igénylőnek, melyben tájékoztatja a kérelem elbírálásának várható időtartamáról. Átvételnek minősül az is, ha a kérelmet a hitelintézet közvetítője vette át. Ez esetben az elbírálás várható időtartamáról a közvetítő ad írásbeli tájékoztatást.
 
@@ -14,4 +14,4 @@
 
 (7) Az otthonteremtési kamattámogatásra való jogosultságot a kérelem benyújtásakor fennálló körülmények alapján kell megállapítani.
 
-[^28]: A 12. § (3) bekezdése a 26/2012. (III. 6.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^32]: A 12. § (3) bekezdése a 26/2012. (III. 6.) Korm. rendelet 5. §-ával megállapított szöveg.

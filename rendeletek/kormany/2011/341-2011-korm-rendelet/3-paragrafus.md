@@ -4,11 +4,11 @@ a) új lakás építéséhez, vásárlásához,
 
 b) használt lakás vásárlásához, korszerűsítéséhez,
 
-c)[^8]
+c)[^8] késedelmes jelzáloghitellel vagy felmondott kölcsönnel terhelt lakóingatlan vásárlásához,
 
-d)[^9]
+d)[^9] a hátralékos adós által kisebb lakás vásárlásához vagy
 
-e)[^10]
+e)[^10] lakóingatlan fedezetű késedelmes deviza jelzáloghitel kiváltására
 
 felvett hitelintézeti kölcsön (a továbbiakban: kölcsön) kamatainak megfizetéséhez.
 
@@ -16,11 +16,11 @@ felvett hitelintézeti kölcsön (a továbbiakban: kölcsön) kamatainak megfize
 
 a) az (1) bekezdés a) és b) pontja szerinti kamattámogatás esetén 2014. december 31-éig,
 
-b)[^12]
+b)[^12] az (1) bekezdés c) pontja szerinti kamattámogatás esetén 2012. december 31-éig,
 
-c)[^13]
+c)[^13] az (1) bekezdés d) pontja szerinti kamattámogatás esetén 2012. december 31-éig, vagy
 
-d)[^14]
+d)[^14] az (1) bekezdés e) pontja szerinti kamattámogatás esetén 2012. december 31-éig.
 
 (3) A kölcsön kamatainak megfizetéséhez az állam a kölcsön futamidejének első öt évében nyújt otthonteremtési kamattámogatást.
 
@@ -42,11 +42,11 @@ c) lejárt tőketartozás esetén.
 
 (9) Az otthonteremtési kamattámogatás olyan hitelintézet által folyósított kölcsönhöz nyújtható, amely a 15. § (2) bekezdése szerinti szerződést köt, valamint e szerződés alapján teljesíti az e rendeletben foglalt kötelezettségeit.
 
-[^8]: A 3. § (1) bekezdés c) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
-[^9]: A 3. § (1) bekezdés d) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
-[^10]: A 3. § (1) bekezdés e) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
+[^8]: A 3. § (1) bekezdés c) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^9]: A 3. § (1) bekezdés d) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^10]: A 3. § (1) bekezdés e) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
 [^11]: A 3. § (2) bekezdése a 26/2012. (III. 6.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^12]: A 3. § (2) bekezdés b) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
-[^13]: A 3. § (2) bekezdés c) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
-[^14]: A 3. § (2) bekezdés d) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
+[^12]: A 3. § (2) bekezdés b) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^13]: A 3. § (2) bekezdés c) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^14]: A 3. § (2) bekezdés d) pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
 [^15]: A 3. § (6) bekezdés b) pontja a 26/2012. (III. 6.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

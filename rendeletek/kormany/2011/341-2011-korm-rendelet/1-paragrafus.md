@@ -34,9 +34,9 @@ h) az új lakás megépítéséhez szükséges földmunka elvégzésének költs
 
 i) az új lakás megépítése érdekében felmerült építménybontási költségek;
 
-2.[^2]
+2.[^2] felmondott kölcsön: 180 napot meghaladó törlesztési késedelem miatt e rendelet hatálybalépésének napjáig már felmondott olyan kölcsön, melynek fedezete Magyarország területén lévő lakóingatlanra alapított jelzálogjog és amelynek törlesztési késedelemben lévő összege – devizahitel vagy deviza alapú hitel esetében annak a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon forintra átszámított ellenértéke – az e rendelet hatálybalépésének napján érvényes minimálbér közterhekkel csökkentett (nettó) összegét meghaladja;
 
-3.[^3]
+3.[^3] fizetéskönnyítő program: devizakölcsön alapján fennálló fizetési kötelezettség átmeneti csökkentése érdekében a pénzügyi intézmény és az adós között létrejött olyan – futamidő módosításnak nem minősülő – megállapodás, amelynek eredményeként az adóst a hátralévő futamidő meghatározott időtartamára a megállapodás megkötése előtt fennálló havi törlesztési kötelezettségénél kisebb havi törlesztési kötelezettség terheli;
 
 4. gyermek: aki az építtető, a vásárló vagy a hátralékos adós eltartottja és
 
@@ -48,13 +48,17 @@ c) a 16. életévét már betöltötte, de megváltozott munkaképességű szem�
 
 5. használt lakás: a használatbavételi engedéllyel rendelkező, ténylegesen használatba vett, újnak nem minősülő lakás;
 
-6.[^4]
+6.[^4] hátralékos adós: az a természetes személy, aki hitelintézettől lakóingatlan fedezettel biztosított jelzáloghitelt vett fel, amelynek visszafizetésével e rendeletben meghatározott mértékű késedelemben van és
+
+a) e rendelet hatálybalépésének időpontjában a fedezetül szolgáló lakóingatlanban legalább 50 százalék tulajdoni hányaddal és legalább 6 hónapja bejelentett lakóhellyel rendelkezett, és
+
+b) másik lakóingatlanban nem rendelkezik tulajdoni hányaddal sem ő, sem a vele közös háztartásban élő közeli hozzátartozója, kivéve amennyiben a lakóingatlan öröklés vagy ajándékozás jogcímén haszonélvezettel terhelten került a tulajdonába, és a haszonélvező bent lakik;
 
 7. hitelintézet: magyarországi székhellyel vagy fiókteleppel rendelkező hitelintézet, valamint a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben foglaltaknak megfelelően, vagy jelzálog-hitelintézet a jelzálog-hitelintézetről és a jelzáloglevélről szóló törvényben foglaltaknak megfelelően, illetve a biztosító a biztosítókról és a biztosítási tevékenységről szóló törvényben foglaltaknak megfelelően;
 
-8.[^5]
+8.[^5] késedelmes jelzáloghitel: a fel nem mondott és e rendelet hatálybalépésének időpontjában törlesztési késedelemben lévő olyan kölcsön, melynek fedezete Magyarország területén lévő lakóingatlanra alapított jelzálogjog és amelynek törlesztési késedelemben lévő összege – devizahitel vagy deviza alapú hitel esetében annak a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon forintra átszámított ellenértéke – az e rendelet hatálybalépésének napján érvényes minimálbér közterhekkel csökkentett (nettó) összegét meghaladja;
 
-9.[^6]
+9.[^6] késedelmes deviza jelzáloghitel: a fel nem mondott és 2011. szeptember 30-án 90 napot meghaladó törlesztési késedelemben lévő olyan kölcsön, melynek fedezete Magyarország területén lévő lakóingatlanra alapított jelzálogjog és amelynek törlesztési késedelemben lévő összege a 2011. szeptember 30-án érvényes minimálbér közterhekkel csökkentett (nettó) összegét eléri;
 
 10. komfortos lakás: a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 91/A. § 3. pontjában meghatározott lakás;
 
@@ -72,7 +76,11 @@ e) a tető cseréje, felújítása, szigetelése,
 
 valamint az ezekhez közvetlenül kapcsolódó helyreállítási munka, a korszerűsítés közvetlen költségeinek 20 százalékáig;
 
-12.[^7]
+12.[^7] lakóingatlan: a lakás céljára létesített és az ingatlan-nyilvántartásban
+
+a) lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel,
+
+b) tanyaként feltüntetett lakó-, gazdasági épület, épületcsoport és az azonos helyrajzi szám alatt hozzá tartozó föld együttese;
 
 13. megváltozott munkaképességű személy: az a személy,
 
@@ -98,9 +106,9 @@ bb) amelyet másodízben értékesítenek természetes személy részére, felt�
 
 (2) Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 1959. évi IV. törvényben (a továbbiakban: Ptk.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben és az országos településrendezési és az építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
 
-[^2]: Az 1. § (1) bekezdés 2. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
-[^3]: Az 1. § (1) bekezdés 3. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
-[^4]: Az 1. § (1) bekezdés 6. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
-[^5]: Az 1. § (1) bekezdés 8. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
-[^6]: Az 1. § (1) bekezdés 9. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
-[^7]: Az 1. § (1) bekezdés 12. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
+[^2]: Az 1. § (1) bekezdés 2. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^3]: Az 1. § (1) bekezdés 3. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba, szövege a 71/2012. (IV. 12.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés 6. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^5]: Az 1. § (1) bekezdés 8. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^6]: Az 1. § (1) bekezdés 9. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
+[^7]: Az 1. § (1) bekezdés 12. pontja a 26/2012. (III. 6.) Korm. rendelet 6. § (2) bekezdése alapján 2012. április 14-én lép hatályba.
