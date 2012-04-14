@@ -24,5 +24,8 @@ b) amennyiben LEADER HACS címmel rendelkezik az ügyfél, akkor a HVS-hez való
 
 (8) A 2. § (1) bekezdés c)–f) pontjában meghatározott jogcímek esetében az ügyfél a támogatási határozat közlésétől számított 9 hónap elteltét követően megnyíló, első kifizetési kérelem benyújtására nyitva álló időszak utolsó napjáig köteles kifizetési kérelmet benyújtani, amellyel olyan kiadás is elszámolásra kerül, amely nem minősül egyéb elszámolható kiadásnak.
 
+(9)[^6] A 2. § (1) bekezdés c)–f) pontjában meghatározott jogcím keretében megvalósuló támogatás esetében a Vhr. 23. § (1) bekezdés b) pontjában meghatározott rendelkezést nem kell alkalmazni.
+
 [^4]: A 3. § (3) bekezdése a 88/2011. (IX. 2.) VM rendelet 6. §-ával megállapított szöveg.
 [^5]: A 3. § (4) bekezdése a 88/2011. (IX. 2.) VM rendelet 6. §-ával megállapított szöveg.
+[^6]: A 3. § (9) bekezdését a 35/2012. (IV. 13.) VM rendelet 7. §-a iktatta be.

@@ -1,5 +1,3 @@
-## is figyelembe kell venni.
-
 ## 3. Célterületek meghirdetése
 
 7. § (1) Az IH a pályázati felhívásban hirdeti meg a LEADER HACS-ok által jóváhagyott célterületeket.

@@ -43,3 +43,9 @@ bc) kisértékű fejlesztésnél maximum öt speciális kiadást, kivéve a műk
 a) a fejlesztés megvalósítási helye szerint illetékes LEADER HACS célterület katalógusában szereplő célterület-specifikus pontozási szempontokat, továbbá
 
 b) amennyiben a pályázathoz pénzügyi tervet és üzleti tervet vagy működtetési és fenntarthatósági tervet is be kell nyújtani, akkor azok értékelési szempontjait
+
+## is figyelembe kell venni.
+
+(9)[^7] Ültetvénytelepítés esetében, eltérően a Vhr. 3. § 29. pontjától, a beruházás befejezése a támogatott tevékenységek megvalósítása.
+
+[^7]: A 6. § (9) bekezdését a 35/2012. (IV. 13.) VM rendelet 8. §-a iktatta be.

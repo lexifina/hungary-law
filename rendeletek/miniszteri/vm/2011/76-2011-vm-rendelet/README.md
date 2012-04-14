@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-76-20-2
 | 2011-10-03 | 2011-76-20-2Y.3 | 90/2011. (X. 3.) VM rendelet |
 | 2011-10-29 | 2011-76-20-2Y.4 | 98/2011. (X. 28.) VM rendelet |
 | 2011-11-25 | 2011-76-20-2Y.5 | 112/2011. (XI. 24.) VM rendelet |
+| 2012-04-14 | 2011-76-20-2Y.6 | 35/2012. (IV. 13.) VM rendelet |
