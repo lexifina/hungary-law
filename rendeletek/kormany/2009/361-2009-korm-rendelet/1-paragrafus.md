@@ -22,7 +22,7 @@ d)[^3] értékpapír vagy betét fedezete mellett nyújtott kölcsönre,
 
 e)[^4] az államháztartási törvény végrehajtásáról szóló kormányrendelet szerinti Széchenyi Kártya programra.
 
-f)[^5] az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet szerinti hátralékos hiteladós által kisebb lakás vásárlásához igénybe vehető kamattámogatott kölcsönökre, valamint
+f)[^5] az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet 3. § (1) bekezdés d) és e) pontja szerinti kamattámogatott kölcsönökre, valamint
 
 g)[^6] a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény szerinti szerződésmódosításra és gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésre.
 
@@ -48,7 +48,7 @@ bc) svájci frank hitel vagy svájci frank alapú hitel, ha az eredeti hitel sv�
 [^2]: Az 1. § (3) bekezdés a) pontja a 348/2011. (XII. 30.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (3) bekezdés d) pontja az 57/2012. (III. 30.) Korm. rendelet 25. §-a szerint módosított szöveg.
 [^4]: Az 1. § (3) bekezdés e) pontja a 348/2011. (XII. 30.) Korm. rendelet 43. § (2) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (3) bekezdés f) pontját a 341/2011. (XII. 29.) Korm. rendelet 19. §-a iktatta be, szövege az 57/2012. (III. 30.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^5]: Az 1. § (3) bekezdés f) pontját a 341/2011. (XII. 29.) Korm. rendelet 19. §-a iktatta be, szövege a 71/2012. (IV. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § (3) bekezdés g) pontját az 57/2012. (III. 30.) Korm. rendelet 23. §-a iktatta be.
 [^7]: Az 1. § (6) bekezdése a 152/2010. (IV. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított és a 110/2011. (VII. 4.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.
 [^8]: Az 1. § (6) bekezdés b) pontja a 348/2011. (XII. 30.) Korm. rendelet 43. § (3) bekezdésével megállapított szöveg.
