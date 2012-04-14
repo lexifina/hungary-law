@@ -29,3 +29,5 @@ j) a Diákhitel Központ a hallgatói hitelek folyósításával, nyilvántartá
 k) a Vám- és Pénzügyőrség, illetve a vámhatóság törvényben meghatározott feladat- és hatáskörébe tartozó ügyekben a természetes személyek azonosításával összefüggésben.
 
 l) a mezőgazdasági igazgatási szerv a mezőgazdasági és vidékfejlesztési támogatások folyósításával, nyilvántartásával és ellenőrzésével;
+
+m) az élelmiszerlánc-felügyeleti szerv az élelmiszerláncról és hatósági felügyeletéről szóló törvény szerinti felügyeleti díj bevallásának, illetve megfizetésének ellenőrzésével, továbbá az élelmiszerlánc szereplőinek nyilvántartásával összefüggésben.
