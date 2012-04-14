@@ -1,0 +1,1 @@
+35. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 43. § (1) bekezdés e) pontjában az „ ,illetve annak behajtására nincs lehetőség vagy sikertelen volt” szövegrész helyébe az „ ,illetve annak végrehajtására nincs lehetőség” szöveg lép.
