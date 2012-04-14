@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-117-00-00
 | 2011-01-01 | 2010. évi CXXX. törvény | 2010-117-00-00.3 |
 | 2011-04-15 | 2011. évi XXIX. törvény | 2010-117-00-00.4 |
 | 2012-01-01 | 2011. évi CLXXXII. törvény | 2010-117-00-00.5 |
+| 2012-04-14 | 2012. évi XVIII. törvény | 2010-117-00-00.6 |

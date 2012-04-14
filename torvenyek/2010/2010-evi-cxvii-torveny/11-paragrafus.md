@@ -5,3 +5,5 @@
 (2) Az (1) bekezdés szerinti adatszolgáltatás kiterjed – a Kormány rendeletében meghatározott adatokon túlmenően, azokkal együtt – a bioüzemanyagok fenntartható módon történt előállítását igazoló okmány kiállítását kérő természetes személy esetén annak természetes személyazonosító adataira, az adatszolgáltató által alkalmazott nyilvántartási számára is.
 
 (3) Az átadott és átvett adatokat az (1) bekezdés szerinti szervek ellenőrzés céljából 5 évig kezelhetik.
+
+(4) A mezőgazdasági igazgatási szerv az általa e törvény alapján nyilvántartott adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
