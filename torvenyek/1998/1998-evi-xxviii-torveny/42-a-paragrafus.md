@@ -28,7 +28,9 @@ j) a veszettség szempontjából aggályos eb megfigyelési státuszának tény�
 
 k) kisállatútlevéllel rendelkező eb esetén az útlevél számát, kiállításának időpontját, a kiállító magánállatorvos nevét, kamarai bélyegzője számát,
 
-l) az eb veszélyessé minősítésének tényére és időpontjára vonatkozó adatot.
+l) az eb veszélyessé minősítésének tényére és időpontjára vonatkozó adatot,
+
+m) elismert tenyésztő szervezet által törzskönyvezett eb esetén a származási igazolás másolatát.
 
 (5) Az adatbázis működtetője jogosult kezelni a (4) bekezdésben meghatározott adatokat.
 
