@@ -24,4 +24,4 @@ f) az a) pont hatálya alá nem tartozó olyan ital, amely sört és hozzáadott
 
 g) a 2208 VTSZ szám alá tartozó olyan ital, amely üdítőitalt tartalmaz, feltéve, hogy a termék cukortartalma meghaladja az 5 gramm cukor/100 milliliter mennyiséget (a továbbiakban: alkoholos frissítő);
 
-h) a 2007 VTSZ szám alá tartozó termék a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével (a továbbiakban: gyümölcsíz).
+h) a 2007 VTSZ szám alá tartozó termék, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 35 gramm cukor/100 gramm mennyiséget, a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével (a továbbiakban: gyümölcsíz).
