@@ -1,3 +1,0 @@
-## 12. § Az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet módosításáról szóló 26/2012. (III. 6.) Korm. rendelet (a továbbiakban: R3.) 6. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az R. 1. § (1) bekezdés 2., 3., 6., 8., 9., 12. pontja, a 3. § (1) bekezdés c)–e) pontja, a 3. § (2) bekezdés b)–d) pontja, a 4. § (1) bekezdés e) pontja, a 4. § (3) bekezdése, a 4–6. alcíme, a 10. § (2) bekezdés c)–e) pontja és a 10. § (4) bekezdése az otthonteremtéssel összefüggő egyes kormányrendeletek módosításáról szóló 71/2012. (IV. 12.) Korm. rendelet hatálybalépését követő napon lép hatályba.”
