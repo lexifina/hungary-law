@@ -1,1 +1,1 @@
-29. § A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 1. § (1) bekezdésében a „szabálysértés miatt kiszabott pénzbírság átváltoztatása folytán megállapított elzárást” szövegrész helyébe a „szabálysértési elzárást” szöveg lép.
+29–36. §

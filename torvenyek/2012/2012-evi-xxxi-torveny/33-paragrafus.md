@@ -1,1 +1,0 @@
-33. § A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény (a továbbiakban: Fetv.) 18/D. § (1) bekezdés a) pontjában és a (2) bekezdés a) pontjában a „szabálysértésekről szóló törvényben vagy kormányrendeletben” szövegrész helyébe a „szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényben” szöveg lép.
