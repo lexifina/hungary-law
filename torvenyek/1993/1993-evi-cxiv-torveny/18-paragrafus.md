@@ -66,6 +66,6 @@ a) természetes személy esetén a nevet, születési nevet, születési helyet,
 
 b) jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím).
 
-(7) A tenyésztési hatóság az általa nyilvántartott adatokból adatbázist hoz létre.
+(7) A tenyésztési hatóság az általa nyilvántartott adatokból adatbázist hoz létre. A tenyésztési hatóság a nyilvántartásában lévő adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
 
 (8) A tenyésztési hatóság közigazgatási eljárásban országos illetékességgel hozott döntése ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.

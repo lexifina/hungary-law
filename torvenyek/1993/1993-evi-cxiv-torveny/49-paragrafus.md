@@ -44,6 +44,10 @@ b) a természetvédelemért felelős miniszter egyetértésével kiadott rendele
 
 c) az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét.
 
-(2) Felhatalmazást kap a Kormány, hogy a tenyésztési hatóságot vagy hatóságokat rendeletben jelölje ki.
+(2) Felhatalmazást kap a Kormány, hogy
+
+a) a tenyésztési hatóságot vagy hatóságokat rendeletben jelölje ki,
+
+b) az e törvényben előírt nyilvántartások vonatkozásában az adatkezelést rendeletben szabályozza.
 
 ## Melléklet az 1993. évi CXIV. törvényhez
