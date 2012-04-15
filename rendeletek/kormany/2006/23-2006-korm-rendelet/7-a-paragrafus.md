@@ -1,4 +1,4 @@
-7/A. §[^23] (1) A bányafelügyelet engedélye nélkül végezhető:
+7/A. §[^24] (1) A bányafelügyelet engedélye nélkül végezhető:
 
 a) a változó telephelyen üzemeltetett mobil nyomástartó berendezések létesítése (felállítása), használatbavétele és elbontása (felhagyása) veszélyességi osztályuktól függetlenül,
 
@@ -18,4 +18,4 @@ c) a tartály/berendezés gyártási számát, típusát,
 
 d) a tartály/berendezés besorolását.
 
-[^23]: A 7/A. §-t a 273/2009. (XII. 3.) Korm. rendelet 6. §-a iktatta be. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^24]: A 7/A. §-t a 273/2009. (XII. 3.) Korm. rendelet 6. §-a iktatta be. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
