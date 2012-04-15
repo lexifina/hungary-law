@@ -40,7 +40,7 @@ b) a rendezvények biztonságának védelme, valamint a sportrendezvény látoga
 
 adatokat továbbítja.
 
-(7) A (3) bekezdésben foglalt adatok szolgáltatása során a rendőrség a központi szabálysértési nyilvántartás adatait adja át.
+(7) A (3) bekezdésben foglalt adatok szolgáltatása során a rendőrség a szabálysértési nyilvántartás adatait adja át.
 
 (8) A sportrendészeti nyilvántartás számára adatot szolgáltató szervező, valamint a (6) bekezdés b) pontjában meghatározott adatigénylésre jogosultak technikai és szervezési intézkedésekkel, ellenőrzési rendszer kialakításával gondoskodnak az adatokhoz történő jogosulatlan hozzáférés, valamint az adatok jogosulatlan megváltoztatása és nyilvánosságra hozatala elleni védelemről.
 

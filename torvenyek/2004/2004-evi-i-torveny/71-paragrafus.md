@@ -10,7 +10,7 @@ c) nem tart magánál szeszes italt, kábítószert, valamint olyan tárgyat, am
 
 d) nem tart magánál mások iránti gyűlöletre uszító feliratot, zászlót vagy egyébként jogszabály által tiltott önkényuralmi jelképet,
 
-e) nem áll a 73. § (1) bekezdése szerinti eltiltás, valamint a szabálysértésekről szóló 1999. évi LXIX. törvény szerinti kitiltás hatálya alatt;
+e) nem áll a 73. § (1) bekezdése szerinti eltiltás, valamint szabálysértési kitiltás hatálya alatt;
 
 f) vállalja, hogy a rendező felszólítására igazolja személyazonosságát, valamint
 
