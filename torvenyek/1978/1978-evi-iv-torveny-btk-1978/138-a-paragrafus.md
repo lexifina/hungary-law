@@ -1,6 +1,6 @@
 138/A. § E törvény alkalmazásában az érték, a kár, a vagyoni hátrány, valamint az adóbevétel, illetőleg a vámbevétel csökkenése
 
-a) kisebb, ha húszezer forintot meghalad, de kétszázezer forintot nem halad meg,
+a) kisebb, ha ötvenezer forintot meghalad, de kétszázezer forintot nem halad meg,
 
 b) nagyobb, ha kétszázezer forintot meghalad, de kétmillió forintot nem halad meg,
 
