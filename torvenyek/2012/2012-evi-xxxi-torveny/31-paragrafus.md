@@ -1,0 +1,1 @@
+31. § A sportról szóló 2004. évi I. törvény (a továbbiakban: Sport. tv.) 71. § (1) bekezdés e) pontjában az „a szabálysértésekről szóló 1999. évi LXIX. törvény szerinti kitiltás” szövegrész helyébe a „szabálysértési kitiltás” szöveg lép.

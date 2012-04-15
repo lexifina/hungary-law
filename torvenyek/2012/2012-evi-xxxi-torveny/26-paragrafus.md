@@ -1,3 +1,5 @@
 ## 26. Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény módosítása
 
-26. §
+26. § Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 5. melléklet 9. pontjának második mondata helyébe a következő rendelkezés lép:
+
+„2012. évben EU Önerő Alap támogatás a vízgazdálkodási, az egyes környezetvédelmi célú, a szociális városrehabilitációs célú, az egészségügyi alapellátást fekvő- és járóbeteg-szakellátást, valamint a bölcsődei, óvodai és általános iskolai ellátást nyújtó intézményekhez kapcsolódó infrastrukturális fejlesztésekhez szükséges saját forrás kiegészítésére igényelhető, amelyek – a vízgazdálkodáson belül a vízrendezési és csapadékvíz-elvezetési célt kivéve – az önkormányzat, illetve társulása vagyongyarapodását eredményezik, és amelyek esetében – az egészségügyi alapellátással, a szennyvízelvezetéssel és -kezeléssel kapcsolatos, valamint a Környezet és Energia Operatív Program ivóvízminőség-javító programjával érintett beruházások kivételével – az uniós forrásról szóló támogatói döntés a 2011. évben vagy azt követően született meg.”
