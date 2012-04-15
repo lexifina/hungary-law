@@ -14,9 +14,9 @@
 
 | 7. | Tömegtartózkodásra szolgáló létesítmény esetén a menekülésre számításba vett kijárat, vészkijárat lezárása, leszűkítése oly módon, hogy a menekülő számára az nem szüntethető meg azonnal | 300 000/kijárat | 400 000/kijárat |
 
-| 8. | Kiürítésre figyelembe vett közlekedőn, folyosón éghető anyagok, tárgyak elhelyezése a tűzvédelmi hatóság engedélye nélkül | 60 000/közlekedő | 100 000/közlekedő |
+| 8. | Épületek menekülési útvonalain és azokkal egy légteret alkotó helyiségrészben szabálytalan tárolás, a rendeltetéssel nem összefüggő elektromos berendezés felügyelet nélküli üzemeltetése, továbbá a menekülési útvonalnak a kiürítéshez szükséges átbocsátóképesség mértékén túli leszűkítése | 60 000 | 500 000 |
 
-| 9. | Az I. fokú tűzvédelmi hatósággal történt egyeztetés nélkül a kiürítésre figyelembe vett közlekedőn, folyosón éghető installációk, dekorációk, szőnyegek, falikárpitok, továbbá egyéb éghető anyagoknak az elhelyezéssel érintett fal- vagy a padló felületének 30%-ánál nagyobb mértékű részét borító elhelyezése (a beépített építési termékek és biztonsági jelek kivételével) | 100 000 | 1 000 000 |
+| 9. | Az épületek menekülési útvonalain éghető anyagú installációk, dekorációk, szőnyegek, falikárpitok, továbbá egyéb éghető anyagoknak az elhelyezéssel érintett fal- vagy a padló felületének 15%-ánál nagyobb mértékű részét borító elhelyezése (a beépített építési termékek és biztonsági jelek kivételével) | 60 000 | 500 000 |
 
 | 10. | A kiürítési számítással igazolt/igazolható létszám túllépése | 100 000 | 3 000 000 |
 
@@ -58,7 +58,7 @@
 
 | 24. | Tűzvédelmi szakvizsgára kötelezett tevékenység műszaki követelménytől eltérő végzéséért (természetes személy vagy gazdasági társaság) | 100 000 | 1 000 000 |
 
-| 25. | Tűzvédelmi tervfejezet tűzvédelmi szakértő vagy tűzvédelmi tervező nélküli készítése, a tervezői-, szakértői név hiánya, jogosultság számának, saját kezű aláírásának hiánya | 100 000 | 1 000 000 |
+| 25. | Tűzvédelmi dokumentáció jogosultság nélküli készítése | 100 000 | 1 000 000 |
 
 | 26. | Ha a felelős tervező, a tűzvédelmi szakértő, a kivitelező, a felelős műszaki vezető vagy a tűzvédelmi tervező valótlan nyilatkozatot adott | 60 000 | 1 000 000 |
 
@@ -90,6 +90,8 @@
 
 | 40. | Egyéb tűzvédelmi jogszabályban vagy a tűzvédelmi szabályzatokban foglalt előírások, továbbá a tűzvédelmi szabványok előírásainak megszegése esetén | 20 000 | 60 000 |
 
-2. melléklet a 259/2011. (XII. 7.) Korm. rendelethez[^10]
+| 41. | A pirotechnikai termékek előállítására, forgalmazására, tárolására, szállítására, felhasználására, megsemmisítésére, birtoklására vonatkozó tűzvédelemmel összefüggő előírások megszegése | 100 000 | 1 000 000 |
 
-[^10]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+2. melléklet a 259/2011. (XII. 7.) Korm. rendelethez[^21]
+
+[^21]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -8,22 +8,24 @@ a) a kormányrendeletben meghatározott, nemzetgazdasági szempontból kiemelt j
 
 b) a polgári repülőtereket érintő közigazgatási hatósági eljárásokban,
 
-c) az alábbi építmények építésügyi hatósági eljárásaiban:
+c)[^8] az alábbi építmények építésügyi hatósági eljárásaiban az első végleges használatbavételig:
 
 ca) magas építmények,
 
-cb) a 10 000 m2 összesített szint alapterületűnél nagyobb középmagas építmények,
+cb) a 20 000 m2 összesített szint alapterületűnél nagyobb középmagas építmények,
 
-cc) a 2000 főnél nagyobb befogadóképességű művelődési, kulturális rendeltetésű közhasználatú építmények,
+cc) a 4000 főnél nagyobb befogadóképességű művelődési, kulturális rendeltetésű közhasználatú építmények,
 
-cd) az 5000 főnél nagyobb befogadóképességű sport rendeltetésű közhasználatú építmények,
+cd) a 10 000 főnél nagyobb befogadóképességű sport rendeltetésű közhasználatú építmények,
 
-ce) erőművek,
+ce) az 50 MW és annál nagyobb teljesítményű erőművek,
 
-cf) fekvőbeteg ellátásra, továbbá mozgásukban korlátozattak elhelyezésére szolgáló középmagas építmények, amennyiben az elhelyezés 13,65 méter felett történik,
+cf) a fekvőbeteg ellátásra, továbbá mozgásukban korlátozattak elhelyezésére szolgáló középmagas építmények, amennyiben az elhelyezés 13,65 méter felett történik,
 
-cg) metró és földalatti vasúti létesítmények,
+cg) a metró és földalatti vasúti létesítmények,
 
-ch) Országház, Országgyűlési Irodaház, Miniszterelnökség létesítményei.
+ch) az Országház, Országgyűlési Irodaház, Miniszterelnökség létesítményei.
 
 (3) A Kormány első fokú tűzvédelmi szakhatóságként a polgári nemzetbiztonsági szolgálatok létesítményei vonatkozásában a központi szervet jelöli ki.
+
+[^8]: A 3. § (2) bekezdés c) pontja a 74/2012. (IV. 13.) Korm. rendelet 17. § (5) bekezdésével megállapított szöveg.
