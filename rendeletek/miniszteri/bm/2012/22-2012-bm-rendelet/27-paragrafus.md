@@ -1,0 +1,35 @@
+## 6. A lefoglalt dolog kezelése
+
+27. § (1) A dolog lefoglalásáról szóló határozatnak a Szabs. tv. 96. § (1) bekezdésben foglaltakon kívül tartalmaznia kell:
+
+a) a lefoglalást végrehajtó szerv megnevezését,
+
+b) a szabálysértés megjelölését,
+
+c) a szabálysértés elkövetése miatt eljárás alá vont személy természetes személyazonosító adatait, lakcímét,
+
+d) a szabálysértési eljárás ügyszámát,
+
+e) a lefoglalást elszenvedő személy természetes személyazonosító adatait, lakcímét,
+
+f) a lefoglalás helyét és időpontját,
+
+g) a lefoglalt dolog megnevezését, mennyiségét, értékét,
+
+h) a lefoglalt dolog ismertetőjeleit,
+
+i) az azonosításra alkalmas jel (pl. pecsét, ólomzár) alkalmazását,
+
+j) a lefoglalt dologra vonatkozó elismervény átadásának tényét,
+
+k) azt a tényt, hogy a dolgot a lefoglalást végrehajtó szerv elszállítja-e vagy birtokban hagyja, valamint
+
+l) a lefoglalást elszenvedő személy lefoglalás elleni panasz kérdésében tett nyilatkozatát.
+
+(2) A lefoglalást végrehajtó szerv az (1) bekezdésben meghatározott jegyzőkönyvön kívül elismervényt ad a lefoglalt dologról a lefoglalást elszenvedő személynek. Ha a lefoglalás birtokban hagyás mellett történt, az elismervényen fel kell tüntetni a lefoglalt dolog őrzési helyét is.
+
+(3) A lefoglalt dologról a lefoglalást végrehajtó szervnek nyilvántartást kell vezetni. A nyilvántartásnak tartalmaznia kell az (1) bekezdés e), g), h), i) pontjaiban meghatározott adatokat.
+
+(4) A lefoglalást végrehajtó szerv a lefoglalt dolog értékét a lefoglalás alkalmával megállapítja. Ha erre a lefoglaláskor nincs lehetőség, a lefoglalt dolog értékének megállapítása iránt a lefoglalást követően haladéktalanul intézkedni kell.
+
+(5) A lefoglalt dolgot állagsérelem nélkül, azonosításra alkalmas jellel (így különösen lefoglalt dologcímke, pecsét, ólomzár) kell ellátni.

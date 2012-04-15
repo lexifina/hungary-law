@@ -1,0 +1,5 @@
+26. § (1) Ha a nem magyar állampolgárságú eljárás alá vont személy esetén az előre láthatólag kiszabásra kerülő pénzbírság és szabálysértési költség fedezéséhez szükséges összeg letétbe helyezésére nem került sor, a szükséges vagyontárgy lefoglalására a határozat meghozataláig kerülhet sor.
+
+(2) Nem magyar állampolgárságú személy által letétbe helyezett összeget vagy a lefoglalt vagyontárgyat három példányban készült elismervénnyel kell átvenni, amelynek egy-egy eredeti példányát az eljárás alá vont személy és a pénzkezelést végző vagy a bűnjelkezelő részére át kell adni. A harmadik példány az eljárási iratok részét képezi.
+
+(3) A letétbe helyezett összegnek, valamint a lefoglalt dolog értékesítéséből befolyt összegnek a határozatban megállapított pénzbírság és szabálysértési költség összegének levonása után megmaradt részét – ha az elkövető a megjelölt magyarországi címen tartózkodik – átvételi elismervényen részére át kell adni. Ha Magyarország területét elhagyta, az általa megadott számlára kell az átutalást teljesíteni.

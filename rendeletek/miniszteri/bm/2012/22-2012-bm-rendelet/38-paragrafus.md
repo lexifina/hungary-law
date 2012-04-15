@@ -1,0 +1,1 @@
+## 37. § A szabálysértési szabályozásért felelős miniszter gondoskodik arról, hogy összesítések, leválogatások, kimutatások és elemzések készüljenek a szabálysértési statisztikai adatokból és azok hozzáférhetőek legyenek, illetve azokat térítésmentesen az azt kérelmező rendelkezésére bocsátja.

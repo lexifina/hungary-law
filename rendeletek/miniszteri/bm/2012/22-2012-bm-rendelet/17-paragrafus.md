@@ -1,0 +1,3 @@
+17. § (1) A szabálysértési hatóság a közérdekű munka végrehajtásának megkezdésére az elkövető kérelmére – indokolt esetben – egy alkalommal, legfeljebb két hónapi halasztást engedélyezhet, ha az elkövető egészségi állapotában olyan változás következett be, amely a közérdekű munka végrehajtását nem teszi lehetővé.
+
+(2) A szabálysértési hatóság a közérdekű munka végrehajtását indokolt esetben hivatalból vagy az elkövető kérelmére félbeszakíthatja, a döntése előtt meghallgathatja az elkövetőt. A félbeszakítás tartama évente a harminc napot nem haladhatja meg, amelynek tartama a közérdekű munka tartamába nem számít be.

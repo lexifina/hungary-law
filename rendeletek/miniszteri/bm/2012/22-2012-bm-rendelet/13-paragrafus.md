@@ -1,0 +1,1 @@
+## 12. § A szabálysértési költség megfizetésére adott halasztás határidejének vagy bármely részlet megfizetésének az elmulasztásakor a szabálysértési hatóság a szabálysértési költség végrehajtása érdekében az adók módjára történő végrehajtás iránt intézkedik.

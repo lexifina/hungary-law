@@ -1,0 +1,33 @@
+## IV. Fejezet
+
+## SZABÁLYSÉRTÉSI STATISZTIKAI ADATGYŰJTÉS, ADATFELDOLGOZÁS ÉS ADATSZOLGÁLTATÁS
+
+## 32. § E fejezet alkalmazásában:
+
+1. szabálysértési statisztikai adat: a szabálysértési statisztikai adatlapon szereplő,
+
+a) a szabálysértés miatt eljáró hatóságokkal,
+
+b) a szabálysértési ügyekben eljáró járásbíróságokkal és törvényszékekkel,
+
+c) a helyszíni bírság kiszabására jogosult szervekkel és személyekkel,
+
+d) a szabálysértési elzárást, a meg nem fizetett pénzbírság helyébe lépő szabálysértési elzárást, illetve a nem teljesített közérdekű munka helyébe lépő szabálysértési elzárást végrehajtó büntetés-végrehajtási intézetekkel,
+
+e) a szabálysértéssel,
+
+f) a szabálysértési eljárással,
+
+g) a szabálysértési eljárás során hozott döntéssel,
+
+h) a szabálysértés miatt kirótt jogkövetkezménnyel, illetve
+
+i) az eljárás alá vont személlyel
+
+összefüggő személyazonosításra nem alkalmas tény, valamint az e tényből levont következtetés.
+
+2. szabálysértési statisztikai adatgyűjtők:
+
+a) a szabálysértés miatt eljáró hatóságok, a szabálysértési ügyekben eljáró járásbíróságok és törvényszékek, a helyszíni bírság kiszabására jogosult szervek és személyek, valamint
+
+b) a szabálysértési elzárást, a meg nem fizetett pénzbírság helyébe lépő szabálysértési elzárást, illetve a nem teljesített közérdekű munka helyébe lépő szabálysértési elzárást végrehajtó büntetés-végrehajtási intézetek.
