@@ -26,6 +26,8 @@
 
 | 12. | Az atomenergiáról szóló 1996. évi CXVI. törvény szerinti, az atomenergia alkalmazása körében eljáró független műszaki szakértő | területi mérnöki kamara | Magyar Mérnöki Kamara |
 
+| 13. | Beépített tűzjelző vagy beépített tűzoltó berendezés tervezői tevékenység | Országos Katasztrófavédelmi Főigazgatóság |  |
+
 3. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^14]
 
 Az e rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.”

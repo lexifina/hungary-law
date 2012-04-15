@@ -72,4 +72,4 @@
 
 2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^13]
 
-[^13]: Az 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^13]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 27. §-ával megállapított, a 74/2012. (IV. 13.) Korm. rendelet 6. §-a szerint módosított szöveg.
