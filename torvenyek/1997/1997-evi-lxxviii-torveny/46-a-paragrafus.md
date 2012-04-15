@@ -2,7 +2,7 @@
 
 (2) Az építésfelügyeleti bírságot az építésfelügyeleti hatóság az (1) bekezdésben meghatározott cselekményről (mulasztásról) való tudomásszerzésétől számított egy éven, de legkésőbb a cselekmény elkövetésétől számított öt éven belül szabhatja ki.
 
-(3) Az építésfelügyeleti bírság nem mentesít a büntetőjogi, a szabálysértési, továbbá a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására, illetőleg a megfelelő védekezés kialakítására, a természetes vagy korábbi környezet helyreállítására vonatkozó kötelezettség teljesítése alól.
+(3) Az építésfelügyeleti bírság nem mentesít a büntetőjogi, továbbá a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására, illetőleg a megfelelő védekezés kialakítására, a természetes vagy korábbi környezet helyreállítására vonatkozó kötelezettség teljesítése alól.
 
 (4)
 

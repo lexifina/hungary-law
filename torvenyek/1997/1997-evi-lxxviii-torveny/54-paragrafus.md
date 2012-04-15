@@ -30,6 +30,6 @@ biztosítása.
 
 (5) A közterületet rendeltetésének megfelelően bárki használhatja. A közterület rendeltetésére és használatára jogszabály további szabályokat állapíthat meg.
 
-(6) Önkormányzati rendelet a település belterületi közterületének a (4) bekezdésben vagy jogszabályban meghatározott rendeltetésétől eltérő engedély vagy megállapodás nélküli használatát szabálysértéssé nyilváníthatja.
+(6)
 
 (7) Egyéb ingatlanoknak a közhasználat céljára átadott területrészére – az erről szóló külön szerződésben foglaltak keretei között – a közterületre vonatkozó rendelkezéseket kell alkalmazni.
