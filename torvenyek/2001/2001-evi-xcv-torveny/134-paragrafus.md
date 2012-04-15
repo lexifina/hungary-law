@@ -12,7 +12,7 @@ d) a fegyelemsértés elévült.
 
 a) a fegyelemsértés elkövetése óta 1 év, vagy a fegyelmi jogkört gyakorló parancsnoknak a fegyelemsértésről való tudomásszerzésétől számítva 30 nap eltelt;
 
-b) a szabálysértésekről szóló 1999. évi LXIX. törvény (a továbbiakban: Sztv.) szerint a szabálysértés elévülése bekövetkezett, illetve a fegyelmi jogkört gyakorló parancsnoknak az arról történt tudomásszerzésétől számítva 30 nap eltelt.
+b) a szabálysértés elévülése bekövetkezett, illetve a fegyelmi jogkört gyakorló parancsnoknak az arról történt tudomásszerzésétől számítva 30 nap eltelt.
 
 (3) Ha a fegyelemsértést megvalósító magatartás egyben bűncselekménynek is minősül, a fegyelemsértés elévülési ideje – eltérően a (2) bekezdésben foglaltaktól – megegyezik a bűncselekménynek a Büntető Törvénykönyv 33. §-ában meghatározott elévülési idejével. Ha a vétkes kötelezettségszegésről a fegyelmi jogkör gyakorlója a (2) bekezdésben meghatározott határidőn túl szerez tudomást, a fegyelmi eljárást csak a hivatásos állományúnak a büntetőeljárásban gyanúsítottként történő bevonását követően, az erről való tudomásszerzéstől számított három hónapon belül lehet megindítani.
 
