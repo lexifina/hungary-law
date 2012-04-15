@@ -8,6 +8,6 @@ c) a közszolgáltatás ellátásának rendjét és módját, a szolgáltató é
 
 d) közüzemi szolgáltatás (Ptk. 388. §) esetén a közüzemi szerződés létrejöttének módját, valamint a szolgáltatás igénybevételének, korlátozásának, megtagadásának — jogszabályban nem rendezett — módját és feltételeit;
 
-e) az érintett közfeladattal összefüggő — jogszabályban nem rendezett — helyi önkormányzati hatósági feladatot, hatáskört és szabálysértést;
+e) az érintett közfeladattal összefüggő — jogszabályban nem rendezett — helyi önkormányzati hatósági feladatot, hatáskört;
 
 f) az elvégzendő szolgáltatás alapján a tulajdonost terhelő díjfizetési kötelezettséget, a díj mértékét, megfizetésének rendjét, az esetleges kedvezmények eseteit, vagy a szolgáltatás ingyenességét.
