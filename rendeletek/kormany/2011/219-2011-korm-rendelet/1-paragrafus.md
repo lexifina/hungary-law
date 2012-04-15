@@ -10,6 +10,8 @@
 
 2. Felső küszöbértékű veszélyes anyagokkal foglalkozó üzem: ahol a jelen lévő veszélyes anyagok mennyisége (beleértve a technológia irányíthatatlanná válása miatt várhatóan keletkező veszélyes anyagokat is) az 1. melléklet alapján meghatározható felső küszöbértéket eléri vagy meghaladja.
 
+2a.[^1] Hatóság: a hivatásos katasztrófavédelmi szerv.
+
 3. Kiemelten kezelendő létesítmények:
 
 a) a veszélyes anyagok, veszélyes hulladékok üzemen kívüli csővezetéken történő szállításának létesítményei, beleértve a szállító vezetékeket, szivattyú-, kompresszor- és elosztó állomásokat; kivéve a lakossági gázellátás elosztó vezetékeit és azok létesítményeit, valamint a szénhidrogén-bányászat gyűjtővezetékeit 400 mm névleges átmérő alatt;
@@ -25,3 +27,5 @@ c) azon üzemek, amelyek területén klór vagy ammónia legalább 1000 kg menny
 6. Veszélyes anyagokkal kapcsolatos súlyos balesetek veszélyének azonosítása és kockázatuk elemzése: az üzemeltető által végzett módszeres elemző tevékenység, amelynek során meghatározza és bemutatja a veszélyes anyagokkal foglalkozó üzemben bekövetkező veszélyes anyagokkal kapcsolatos súlyos baleset kialakulásának lehetőségeit és azok bekövetkezésének valószínűségét.
 
 7. Veszélyeztetett terület: ahol a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem tevékenysége során bekövetkező veszélyes anyagokkal kapcsolatos súlyos balesetek, üzemzavarok által okozott mérgező, hősugárzási, ökotoxikus vagy túlnyomási hatások az emberi egészséget, a környezetet vagy a természeti értékeket károsíthatják.
+
+[^1]: Az 1. § 2a. pontját a 74/2012. (IV. 13.) Korm. rendelet 9. § (1) bekezdése iktatta be.

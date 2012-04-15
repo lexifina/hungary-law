@@ -4,4 +4,6 @@
 
 (3) A hatóság a felmentésre vonatkozó indokolt kezdeményezést megvizsgálja és a kézhezvételtől számított 15 napon belül dönt a felmentés megadásáról.
 
-(4) A felmentésre irányuló kezdeményezés elutasítása esetén a hivatásos katasztrófavédelmi szerv területi szerve az általános szabályok szerint elkészíti a külső védelmi tervet.
+(4)[^28] A felmentésre irányuló kezdeményezés elutasítása esetén a hatóság helyi szerve az általános szabályok szerint elkészíti a külső védelmi tervet.
+
+[^28]: A 26. § (4) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés e) pontja szerint módosított szöveg.

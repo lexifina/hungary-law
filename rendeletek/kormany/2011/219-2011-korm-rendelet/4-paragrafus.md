@@ -19,3 +19,7 @@ f) a veszélyes anyagokkal foglalkozó üzemekkel kapcsolatos településrendez�
 g) a lakossági tájékoztatás és a nyilvánosság biztosítása.
 
 (2) A veszélyes anyagokkal foglalkozó üzem azonosításának részletes szabályait az 1. melléklet tartalmazza.
+
+(3)[^2] A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) IV. Fejezet eljárásaiban első fokon a hatóságnak a veszélyes anyagokkal foglalkozó üzem és küszöbérték alatti üzem telephelye szerint illetékes területi szerve, másodfokon a központi szerve jár el.
+
+[^2]: A 4. § (3) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 9. § (2) bekezdése iktatta be.

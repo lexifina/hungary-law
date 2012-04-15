@@ -1,6 +1,6 @@
 ## 15. Súlyos káresemény elhárítási terv
 
-35. § (1) A küszöbérték alatti üzem üzemeltetője – amennyiben számára a hatóság előírja – a biztonságos üzemeltetés bizonyítása érdekében a veszélyek azonosítására, a feltárt veszélyek megelőzésére és elhárítására az 5. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő súlyos káresemény elhárítási tervet készít.
+35. § (1)[^41] A küszöbérték alatti üzem üzemeltetője – amennyiben számára a hatóság előírja – a biztonságos üzemeltetés bizonyítása érdekében a veszélyek azonosítására, a feltárt veszélyek megelőzésére és elhárítására az 5. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő súlyos káresemény elhárítási tervet készít, melynek védendő adatokat nem tartalmazó változatát is benyújtja a hatóság részére.
 
 (2) A súlyos káresemény elhárítási tervben a veszélyes anyagokkal kapcsolatos súlyos balesetek veszélyének azonosítása és részletes elemzése alapján az üzemeltető
 
@@ -18,6 +18,10 @@ b) bemutatja a veszélyes anyagokkal kapcsolatos súlyos baleset megelőzéséve
 
 (7) Az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos baleset vagy üzemzavar bekövetkezése esetén a súlyos káresemény elhárítási tervben foglalt intézkedéseket azonnal foganatosítja.
 
-(8) Veszélyes anyaggal töltött vagy rakott vasúti kocsi 6 órát meghaladó időtartamban csak olyan vasúti pályaszakaszon vagy vasúti létesítményben tartózkodhat, amely a hatóság által elfogadott belső védelmi tervvel vagy belső veszély-elhárítási tervvel rendelkezik és a védekezés feltételei biztosítottak.
+(8)[^42]
 
-(9) A belső veszély-elhárítási terv elkészítése és gyakoroltatása érdekében a vasúti társaságok kötelesek együttműködni a vasúti infrastruktúra üzemeltetőjével.
+(9)[^43]
+
+[^41]: A 35. § (1) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 10. § (7) bekezdésével megállapított szöveg.
+[^42]: A 35. § (8) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés i) pontja hatályon kívül helyezte.
+[^43]: A 35. § (9) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés i) pontja hatályon kívül helyezte.

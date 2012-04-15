@@ -1,10 +1,10 @@
-34. § (1) Az alábbi kritériumok egyikének teljesülése esetén súlyos káresemény elhárítási tervet kell készíteni:
+34. § (1)[^39] Az alábbi kritériumok egyikének teljesülése esetén súlyos káresemény elhárítási terv készítését kell előírni:
 
 a) az 1. melléklet, 2. táblázat, mérgező és nagyon mérgező veszélyességi osztályba tartozó veszélyes anyagok jelenléte;
 
 b) az 1. melléklet, 2. táblázat, robbanó anyagok és készítmények veszélyességi osztályba tartozó veszélyes anyagok jelenléte;
 
-c) cseppfolyós gáz jelenléte, kivéve a palackos gáztárolást, valamint a 12,5 tonna névleges töltettömegnél kisebb propán-bután gázt tartalmazó fogyasztói tartályban történő tárolást;
+c)[^40] veszélyes anyagok körébe tartozó cseppfolyós gáz jelenléte, kivéve a palackos gáztárolást, valamint a 12,5 tonna névleges töltettömegnél kisebb propán-bután gázt tartalmazó fogyasztói tartályban történő tárolást;
 
 d) nyomás (legalább 300 kPa túlnyomás) alatti, veszélyes anyagot tartalmazó technológiai berendezések jelenléte.
 
@@ -25,3 +25,6 @@ Az a) pont ac) alpontot nem kell alkalmazni olyan csővezetékek esetében, ahol
 (3) Az (1) és (2) bekezdés alá nem tartozó esetben súlyos káresemény elhárítási terv készítését nem kell előírni, amennyiben az üzemeltető az (1) bekezdés szerinti kérelemhez csatolt dokumentációban bizonyítja, hogy emberi életet veszélyeztető tűz- és robbanási hatás mértéke az üzem határánál hőhatás esetében 4 kW/m2 és túlnyomás esetében 10 kPa értéket nem haladja meg.
 
 (4) A kérelemhez csatolt (3) bekezdés szerinti dokumentációban az üzemeltető értékeli a reálisan feltételezett balesetek lehetséges következményeit. Ennek során az üzemeltető bemutatja azokat a területeket, melyeket az üzemből kiinduló súlyos balesetek hatásai érinthetnek. Az értékelés során valamennyi veszélyes anyagokkal foglalkozó létesítmény legnagyobb veszélyeztető hatást okozó eseményét kell bemutatni. A veszélyeztetett területek bemutatása térképen ábrázolva és ezzel egyenértékű leírással történik. Az üzemeltető, a veszélyes anyagokkal kapcsolatos súlyos balesetek következményeinek értékelését bármilyen, a nemzetközi gyakorlatban, az adott típusú súlyos balesetre, a szakma által általánosan elfogadott módszerrel elvégezheti.
+
+[^39]: A 34. § (1) bekezdés nyitó szövegrésze a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés p) pontja szerint módosított szöveg.
+[^40]: A 34. § (1) bekezdés c) pontja a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés q) pontja szerint módosított szöveg.

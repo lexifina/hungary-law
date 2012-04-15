@@ -2,7 +2,7 @@
 
 ## 5. A veszélyes tevékenységek azonosítása
 
-7. § (1) Az üzemeltető a 2. mellékletben szereplő üzemazonosítási adatlapokat a hivatásos katasztrófavédelmi szerv központi szervének (a továbbiakban: hatóság)
+7. § (1)[^5] Az üzemeltető a 2. mellékletben szereplő üzemazonosítási adatlapokat a hatóság területi szervének
 
 a) tervezés alatt álló veszélyes anyagokkal foglalkozó üzem esetében az építési engedélyezéshez kapcsolódó katasztrófavédelmi engedély iránti kérelem benyújtásával egyidejűleg,
 
@@ -10,4 +10,7 @@ b) olyan veszélyes anyagokkal foglalkozó üzem esetében, amely a veszélyes t
 
 küldi meg.
 
-(2) Az üzemazonosítási adatlap valóságtartalmának vizsgálata érdekében a hatóság területi szerve is jogosult helyszíni szemle lefolytatására.
+(2)[^6]
+
+[^5]: A 7. § (1) bekezdés nyitó szövegrésze a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 7. § (2) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés a) pontja hatályon kívül helyezte.

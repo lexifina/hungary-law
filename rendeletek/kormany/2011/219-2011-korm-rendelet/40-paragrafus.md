@@ -6,8 +6,12 @@
 
 (2) Az üzemeltető a gyakorlatok szervezése során biztosítja, hogy tervben szereplő védekezésben részt vevő erők feladataikat legalább évente egyszer gyakorolják.
 
-(3) Az üzemeltető a súlyos káresemény elhárítási tervben foglaltak gyakoroltatásának időpontjáról a hivatásos katasztrófavédelmi szerv területi szervét a gyakorlat előtt legalább 30 nappal értesíti, valamint a gyakorlatok tartásával kapcsolatos tapasztalatokat jegyzőkönyvben rögzíti.
+(3)[^44] Az üzemeltető a súlyos káresemény elhárítási tervben foglaltak gyakoroltatásának időpontjáról a hatóság területi szervét a gyakorlat előtt legalább 30 nappal értesíti, valamint a gyakorlatok tartásával kapcsolatos tapasztalatokat jegyzőkönyvben rögzíti.
 
-(4) Az üzemeltető a gyakorlatok tartásával kapcsolatos tapasztalatokat a gyakorlat elvégzését követő 15 napon belül jegyzőkönyvben rögzíti, melyet a hatóság és a hivatásos katasztrófavédelmi szerv területi szerve részére haladéktalanul tájékoztatás céljából megküld.
+(4)[^45] Az üzemeltető a gyakorlatok tartásával kapcsolatos tapasztalatokat a gyakorlat elvégzését követő 15 napon belül jegyzőkönyvben rögzíti, melyet a hatóság és a hatóság területi szerve részére haladéktalanul tájékoztatás céljából megküld.
 
-(5) A hivatásos katasztrófavédelmi szerv területi szerve háromévente legalább egy alkalommal helyszíni vizsgálattal ellenőrzi a súlyos káresemény elhárítási terv gyakoroltatását, amelyet a gyakorlat befejeztével értékel. Amennyiben a gyakorlat nem elfogadható, abban az esetben a hatóság határidő megjelölésével a gyakorlat megismétlésére kötelezi a küszöbérték alatti üzem üzemeltetőjét.
+(5)[^46] A hatóság területi szerve háromévente legalább egy alkalommal helyszíni vizsgálattal ellenőrzi a súlyos káresemény elhárítási terv gyakoroltatását, amelyet a gyakorlat befejeztével értékel. Amennyiben a gyakorlat nem elfogadható, abban az esetben a hatóság határidő megjelölésével a gyakorlat megismétlésére kötelezi a küszöbérték alatti üzem üzemeltetőjét.
+
+[^44]: A 40. § (3) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés o) pontja szerint módosított szöveg.
+[^45]: A 40. § (4) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés o) pontja szerint módosított szöveg.
+[^46]: A 40. § (5) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés o) pontja szerint módosított szöveg.
