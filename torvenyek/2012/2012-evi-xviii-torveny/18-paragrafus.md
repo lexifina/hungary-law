@@ -1,5 +1,1 @@
-18. § Az Éltv. 40. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az élelmiszerlánc-felügyeleti szerv a növényvédő szerek, valamint a növényvédő szernek nem minősülő növényvédelmi hatású termékek, védőanyagok, kölcsönhatás-fokozók, segédanyagok, hatásjavítók, növényvédelmi célú eszközök és anyagok, makroszervezetek forgalomba hozatali, felhasználási engedélyezési és engedélymódosítási eljárása során az engedély megadásáról tizennyolc hónapon, mikroorganizmusok esetén tizenkét hónapon belül dönt.
-
-(2) Az élelmiszerlánc-felügyeleti szerv az engedélyköteles növény- és talajkezelő termékek eseti, százhúsz napos és kísérleti engedélyeinek megadásáról két hónapon belül dönt. Az élelmiszerlánc-felügyeleti szerv a növényvédő szerek címkétől eltérő felhasználásának engedélyezési és engedélymódosítási eljárásában döntését tizenkét hónapon belül hozza meg. Az élelmiszerlánc-felügyeleti szerv a növényvédő szerek párhuzamos behozatalának engedélyezési eljárásában az engedély megadásáról negyvenöt munkanapon belül dönt.”
+18–22. §
