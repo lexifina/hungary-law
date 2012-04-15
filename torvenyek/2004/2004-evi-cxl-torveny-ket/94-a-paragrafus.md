@@ -1,6 +1,6 @@
 ## VI/A. Fejezet
 
-## KÖZIGAZGATÁSI BÍRSÁG KISZABÁSÁNAK ELJÁRÁSJOGI ALAPJAI
+## A közigazgatási bírság, a helyszíni bírság és az elkobzás alkalmazásának eljárásjogi alapjai
 
 94/A. § (1) Ha jogszabály bírság kiszabását teszi lehetővé – ide nem értve a 61. § szerinti eljárási bírságot –, a hatóság az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében – jogszabály eltérő rendelkezése hiányában – mérlegeli különösen:
 
@@ -29,3 +29,13 @@ b) jogellenes állapot fenntartása esetén az a nap, amikor ez az állapot megs
 a) a 94. § (1) bekezdés a) pontja szerinti végzés jogerőre emelkedésének napján,
 
 b) ha a közigazgatási ügyekben eljáró bíróság a hatóságot új eljárás lefolytatására kötelezi.
+
+(4) Ha törvény vagy önkormányzati rendelet lehetővé teszi, azoknál a jogsértéseknél, amelyek esetében közigazgatási bírság kiszabásának van helye, – a 94. §-ban foglalt előírások keretei között – a hatóság helyszíni bírságot szabhat ki, ha a helyszíni intézkedés alkalmával az ügyfél a jogsértést teljes mértékben elismeri.
+
+(5) A helyszíni bírság kiszabását megelőzően az ügyfelet tájékoztatni kell a (6)–(8) bekezdésben foglalt körülményekről, valamint szükség esetén a hatóság által megállapítható bizonyítékok köréről, továbbá a helyszíni bírság meg nem fizetése esetén alkalmazandó jogkövetkezményekről.
+
+(6) Ha az ügyfél a jogsértést elismeri, a helyszíni bírság ellen nincs helye jogorvoslatnak.
+
+(7) Az ügyfél elismerése esetén a helyszíni bírság kiszabásáról szóló döntést a hatóság a helyszínen közli az ügyféllel. A döntés indokolásában elegendő az ügyfélnek a jogsértés elismeréséről szóló írásbeli nyilatkozatát rögzíteni az ügyfél aláírásával együtt.
+
+(8) Ha az ügyfél a jogsértést nem ismeri el, a hatóság köteles hivatalból megindítani a hatáskörébe tartozó eljárást és erről az ügyfelet a helyszínen értesíti a 29. § (5) bekezdésében meghatározott, rendelkezésre álló adatok közlésével.

@@ -10,6 +10,8 @@ d) ha az elsőfokú döntést miniszter, autonóm államigazgatási szerv, öná
 
 e) törvény vagy kormányrendelet eltérő rendelkezése hiányában, ha az első fokú döntést központi államigazgatási szerv vezetője hozta,
 
-f) a képviselő-testület önkormányzati hatósági ügyben hozott határozata ellen.
+f) a képviselő-testület önkormányzati hatósági ügyben hozott határozata ellen,
 
-(2) Az (1) bekezdés a), c)–f) pontjában meghatározott esetben az első fokú döntés bírósági felülvizsgálatának van helye.
+g) a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 51. § (4) bekezdésében meghatározott közigazgatási bírság kiszabásával kapcsolatos eljárásokban az átruházott hatáskörben hozott határozatok ellen.
+
+(2) Az (1) bekezdés a), c)–g) pontjában meghatározott esetben az első fokú döntés bírósági felülvizsgálatának van helye.

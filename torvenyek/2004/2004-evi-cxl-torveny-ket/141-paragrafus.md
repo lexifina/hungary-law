@@ -16,9 +16,11 @@ f) a végrehajtást foganatosító szerv a pénzkövetelést a pénzforgalmi szo
 
 g) a hatóság a jogutódlásra tekintettel a teljesítési határidőt a végrehajtás megindítását követően meghosszabbította,
 
-h) a végrehajtást foganatosító szerv a kötelezettel szemben felszámolási eljárást kezdeményezett, illetve a kötelezett ellen felszámolási eljárás indult, vagy
+h) a végrehajtást foganatosító szerv a kötelezettel szemben felszámolási eljárást kezdeményezett, illetve a kötelezett ellen felszámolási eljárás indult,
 
-i) törvény vagy kormányrendelet a végrehajtás megszüntetését egyéb okból lehetővé teszi.
+i) a meg nem fizetett közigazgatási bírság közérdekű munkával történő megváltását elrendelő határozatban foglaltaknak eleget tett, vagy
+
+j) törvény vagy kormányrendelet a végrehajtás megszüntetését egyéb okból lehetővé teszi.
 
 (2) A végrehajtást foganatosító szerv a tudomására jutott megszüntetési okokról és a végrehajtás befejezéséről a végrehajtást megindító hatóságot értesíti.
 
