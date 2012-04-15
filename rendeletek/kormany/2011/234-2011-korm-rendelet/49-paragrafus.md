@@ -14,7 +14,7 @@ f) veszélyhelyzetben elrendeli a vasúti, közúti, vízi, légi szállítások
 
 g) összehangolja a polgári védelmi szervezetek és a kitelepítésben részt vevő szervek, társadalmi és karitatív szervezetek tevékenységét,
 
-h) feldolgozza, értékeli, összegzi és a Kormány számára a kormányzati koordinációs szerv útján felterjeszti a beérkező jelentéseket.
+h)[^8] feldolgozza, értékeli, összegzi és a Kormány számára a katasztrófák elleni védekezésért felelős miniszter útján felterjeszti a beérkező jelentéseket.
 
 (2) A helyi védelmi bizottság elnöke
 
@@ -103,3 +103,5 @@ e) közreműködik a lakosság riasztásának és tájékoztatásának megtervez
 f) létrehozza a szükséges adatbázisokat, gondoskodik naprakészen tartásukról, valamint
 
 g) közreműködik a kitelepítés helyi feladatainak végrehajtásában.
+
+[^8]: A 49. § (1) bekezdés h) pontja a 74/2012. (IV. 13.) Korm. rendelet 14. §-ával megállapított szöveg.

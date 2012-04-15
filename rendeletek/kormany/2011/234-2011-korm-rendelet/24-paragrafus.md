@@ -4,7 +4,7 @@
 
 a) közvetlenül veszélyeztetettek az atomerőmű 3 km-es és a kutatóreaktor 1 km-es körzetében,
 
-b) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) IV. Fejezetének hatálya alá tartozó üzem által veszélyeztetettek és külső védelmi terv készítésére kötelezettek,
+b)[^7] a Kat. IV. Fejezetének hatálya alá tartozó üzem által veszélyeztetettek és külső védelmi terv készítésére kötelezettek,
 
 c) az egyes veszélyeztető hatások kockázatbecslése és a kockázati mátrixban történő elhelyezése alapján a 2. melléklet b) pontja szerinti I. besorolást kapják, illetve
 
@@ -23,3 +23,5 @@ c) az egyes veszélyeztető hatások kockázatbecslése és kockázati mátrixba
 a) a Kat. IV. Fejezetének hatálya alá nem tartozó üzem által a veszélyes anyagok környezetbe kerülése esetén veszélyeztetettek,
 
 b) az egyes veszélyeztető hatások kockázatbecslése és a kockázati mátrixban történő elhelyezése alapján a 2. melléklet b) pontja szerinti III. besorolást kapják.
+
+[^7]: A 24. § (1) bekezdés b) pontja a 74/2012. (IV. 13.) Korm. rendelet 15. §-a szerint módosított szöveg.
