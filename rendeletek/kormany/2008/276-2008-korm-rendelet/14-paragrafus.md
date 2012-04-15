@@ -62,7 +62,7 @@ KÁRIGÉNY BEJELENTŐ ADATLAP
 
 1. A károsult kijelenti, hogy az igényelt összeg csak a fent megnevezett káresemény által okozott károkra és sérülésekre terjed ki, és elfogadja a 22. pontban megadott összeget teljes megelégedéssel e kártérítési beadvány rendezéseként.
 
-2. Valótlan információk közléséért, illetve hamis igénylés benyújtásáért a bejelentő az egyes szabálysértésekről szóló 218/1999. (XII. 28.) Korm. rendelet 31. § (1) bekezdés b) pontja alapján ötvenezer forintig terjedő pénzbírsággal sújtható.
+2. Valótlan információk közléséért, illetve hamis igénylés benyújtásáért a bejelentő felelősségre vonható.
 
 3. A jelen adatlap kitöltésével és a Honvédelmi Minisztérium illetékes szerve részére történő megküldéssel a károsult, az igénybejelentő és a tanú hozzájárulnak ahhoz, hogy az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény rendelkezéseinek megfelelően a Honvédelmi Minisztérium illetékes szerve a kérelemben foglalt adataikat kezelje.
 
@@ -75,4 +75,4 @@ bejelentő
 [^25]: A 14. § (2)–(3) bekezdése hatályát vesztette ugyanezen § (3) bekezdése alapján.
 [^26]: A 14. § (4) bekezdését a 64/2011. (IV. 13.) Korm. rendelet 3. § (6) bekezdése iktatta be.
 [^27]: A hatálybalépés időpontja 2011. május 1.
-[^28]: A melléklet 3. pontja a 290/2011. (XII. 22.) Korm. rendelet 90. § (7) bekezdése szerint módosított szöveg.
+[^28]: A melléklet a 290/2011. (XII. 22.) Korm. rendelet 90. § (7) bekezdése, a 63/2012. (IV. 2.) Korm. rendelet 5. § (5) bekezdése szerint módosított szöveg.
