@@ -1,4 +1,4 @@
-5/A. §[^11] (1) A bírság kiszabása során meg kell állapítani a bírság alapját.
+5/A. §[^12] (1) A bírság kiszabása során meg kell állapítani a bírság alapját.
 
 (2) A bírság alapját
 
@@ -22,4 +22,4 @@ c) a III. kategóriába tartozó kulturális örökségi elem sérelme esetén 2
 
 d) a IV. kategóriába tartozó kulturális örökségi elem sérelme esetén 25 millió forint.
 
-[^11]: Az 5/A. §-t a 281/2005. (XII. 20.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 6. §-a alapján a rendelkezést a 2006. január 1. napját követően megvalósított (befejezett) kötelezettségszegésekre kell alkalmazni.
+[^12]: Az 5/A. §-t a 281/2005. (XII. 20.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 6. §-a alapján a rendelkezést a 2006. január 1. napját követően megvalósított (befejezett) kötelezettségszegésekre kell alkalmazni.
