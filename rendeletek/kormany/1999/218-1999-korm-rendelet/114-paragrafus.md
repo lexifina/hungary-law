@@ -1,1 +1,0 @@
-## Marhalevéllel kapcsolatos szabálysértés

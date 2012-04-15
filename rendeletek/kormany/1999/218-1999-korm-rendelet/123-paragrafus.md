@@ -1,1 +1,0 @@
-## Erdei haszonvételek jogosulatlan gyakorlása

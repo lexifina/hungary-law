@@ -1,1 +1,0 @@
-## Sebességkorlátozás jelentős túllépése
