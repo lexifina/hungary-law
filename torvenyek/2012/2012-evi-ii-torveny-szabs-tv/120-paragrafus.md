@@ -16,7 +16,7 @@ d) iratokat, tárgyi bizonyítási eszközöket szerez vagy szereztet be,
 
 e) külön jogszabályban meghatározott feltételek alapján más szerveket adatok közlésére hív fel.
 
-(5) A meghallgatás során az eljárás alá vont személyt – ha a közérdekű munka végrehajtásához szükséges feltételek fennállnak – nyilatkoztatni kell arról, hogy hozzájárul-e a közérdekű munka kiszabásához. A hozzájárulás megtagadása kizárja a közérdekű munka végrehajtását.
+(5) A meghallgatás során az eljárás alá vont személyt, ha a közérdekű munka végrehajtásához szükséges feltételek fennállnak, nyilatkoztatni kell arról, hogy hozzájárul-e a közérdekű munka kiszabásához. A hozzájárulás megtagadása kizárja a közérdekű munka kiszabását.
 
 (6) A bíróság az így megállapított tényállás alapján végzéssel megszünteti a szabálysértési eljárást vagy megállapítja az eljárás alá vont személy felelősségét és büntetést szab ki, illetve intézkedést alkalmaz.
 

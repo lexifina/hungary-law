@@ -4,9 +4,9 @@
 
 (2) A kérelmet a pénzbírság megfizetésére nyitva álló határidőig, egyéb jogkövetkezmény esetén a végrehajtás megkezdéséig lehet előterjeszteni. Méltányossági kérelmet egy alkalommal lehet előterjeszteni.
 
-(3) A méltányossági kérelem elbírálása – a szabálysértési elzárás büntetés és a bíróság által kiszabott pénzbírság kivételével – a szabálysértési szabályozásért felelős miniszter hatáskörébe tartozik.
+(3) A méltányossági kérelem elbírálása – a bíróság által kiszabott büntetés kivételével – a szabálysértési szabályozásért felelős miniszter hatáskörébe tartozik.
 
-(4) Ha az elkövetővel szemben a bíróság szabálysértési elzárás büntetést vagy pénzbírságot szabott ki – ide nem értve a pénzbírság helyébe lépő szabálysértési elzárást –, a méltányossági jogkört a köztársasági elnök gyakorolja.
+(4) Ha az elkövetővel szemben a bíróság szabálysértési elzárás büntetést, közérdekű munkát vagy pénzbírságot szabott ki – ide nem értve a pénzbírság helyébe lépő szabálysértési elzárást –, a méltányossági jogkört a köztársasági elnök gyakorolja.
 
 (5) A méltányossági kérelmet az ügyben érdemi határozatot hozó bíróságnál, vagy a határozatot hozó szabálysértési hatóságnál kell előterjeszteni, amely a kérelmet az ügy irataival együtt soron kívül felterjeszti a szabálysértési szabályozásért felelős miniszterhez.
 

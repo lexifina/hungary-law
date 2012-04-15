@@ -9,3 +9,5 @@ c) a közvetlen hozzáférés célját, jogalapját,
 d) a közvetlen hozzáféréssel érintett, a szabálysértési nyilvántartási rendszerben nyilvántartott személynek a 151. § (2) bekezdés a) pont aa)–ag) alpontjában meghatározott adatait.
 
 (2) A szabálysértési nyilvántartó szerv a közvetlen hozzáférést gyakorló szerv részére haladéktalanul, elektronikus úton továbbítja azokat az adatokat, amelyek tekintetében a közvetlen hozzáférésre való jogosultság fennáll, ezzel egyidejűleg adatvédelmi záradékban hívja fel a figyelmet az adatok jogszerű felhasználásának követelményére.
+
+(3) A 157. § (5) bekezdése szerinti esetben az adatokat a szabálysértési nyilvántartó szerv – az adathozzáféréshez való jogosultság ellenőrzését követően – telefonon továbbítja, ilyen esetben szóban hívja fel a figyelmet az adatok jogszerű felhasználásának követelményére.

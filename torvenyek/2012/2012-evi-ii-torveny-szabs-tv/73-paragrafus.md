@@ -8,7 +8,7 @@
 
 (4) A szabálysértési őrizet a (3) bekezdésben meghatározott esetben a másodfokú bíróság végzésének meghozataláig, illetve a nem jogerősen kiszabott szabálysértési elzárás tartamáig, de legfeljebb a meghosszabbítástól számított tíz napig tart.
 
-(5) A szabálysértési őrizettel és az annak tartamát meghosszabbító végzéssel szemben az eljárás alá vont személy, illetve az eljárás alá vont személy képviselője a kihirdetéskor fellebbezést jelenthet be. A szabálysértési őrizettel szemben benyújtott fellebbezést a helyi bíróság a tárgyaláson bírálja el. A szabálysértési őrizet tartamának meghosszabbítása miatt bejelentett fellebbezést a törvényszék az érdemi végzés ellen bejelentett fellebbezéssel együtt bírálja el.
+(5) A szabálysértési őrizettel és az annak tartamát meghosszabbító végzéssel szemben az eljárás alá vont személy és az eljárás alá vont személy képviselője a kihirdetéskor fellebbezést jelenthet be. A szabálysértési őrizettel szemben benyújtott fellebbezést a helyi bíróság a tárgyaláson bírálja el. A szabálysértési őrizet tartamának meghosszabbítása miatt bejelentett fellebbezést a törvényszék az érdemi végzés ellen bejelentett fellebbezéssel együtt bírálja el.
 
 (6) A szabálysértési őrizet elrendeléséről az eljárás alá vont személy által megjelölt hozzátartozót, ennek hiányában az eljárás alá vont személy által megjelölt más személyt a rendőrség haladéktalanul értesíti.
 

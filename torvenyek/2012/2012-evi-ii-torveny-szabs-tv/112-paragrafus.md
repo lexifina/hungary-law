@@ -6,4 +6,4 @@
 
 (4) Az eljárás alá vont személy a tárgyalás rendjének zavarása nélkül a tárgyalás alatt is értekezhet képviselőjével.
 
-(5) Ha az eljárás alá vont személy vagy egyetértésével a képviselője, illetve a sértett a tárgyaláson vagy azon kívül a kifogást visszavonja, a bíróság az eljárást megszünteti. Ez esetben a szabálysértési hatóság határozata a visszavonás bejelentésének, illetve a bírósághoz érkezésének napján jogerőre emelkedik.
+(5) Ha az eljárás alá vont személy, a képviselő, illetve a sértett a tárgyaláson vagy azon kívül a kifogást visszavonja, a bíróság az eljárást megszünteti. Ez esetben a szabálysértési hatóság határozata a visszavonás bejelentésének, illetve a bírósághoz érkezésének napján jogerőre emelkedik. Az eljárás alá vont személy képviselője kifogását csak az eljárás alá vont személy egyetértésével vonhatja vissza.

@@ -1,9 +1,13 @@
 ## 206. Átmeneti rendelkezések
 
-252. § (1) Az e törvény hatálybalépésekor folyamatban levő szabálysértési eljárásokat és azok végrehajtását a szabálysértésekről szóló 1999. évi LXIX. törvény alapján kell lefolytatni, illetve végrehajtani.
+252. § (1) Az e törvény hatályba-lépése előtt elkövetett szabálysértéseket, illetve a folyamatban levő szabálysértési eljárásokat és azok végrehajtását a szabálysértésekről szóló 1999. évi LXIX. törvény alapján kell lefolytatni, illetve végrehajtani.
 
 (2) Az e törvény hatálybalépésekor a szabálysértésekről szóló 1999. évi LXIX. törvény szerinti központi szabálysértési nyilvántartásban kezelt, az e törvény alapján a szabálysértési nyilvántartási rendszerben nyilvántartandó adatokat a szabálysértési nyilvántartási rendszerben kell kezelni.
 
 (3) Az e törvény hatálybalépése előtt elkövetett szabálysértéseket nem lehet figyelembe venni a törvény hatálybalépése után elkövetett és a visszaesés szabályai alá tartozó szabálysértések esetén.
 
 (4) A közúti közlekedésről szóló 1988. évi I. törvény 2012. április 15-én hatályba lépő, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartásról szóló 2012. évi II. törvény 253. § (3) bekezdése szerinti módosítása miatt azon szabálysértéseket, amelyek 2012. április 15-től közigazgatási bírsággal sújtandó szabályszegés hatálya alá esnek, de 2012. április 15. előtt követték el, a szabálysértésekről szóló törvény szerint kell elbírálni.
+
+(4) Azokat a 2012. április 15-e előtt elkövetett cselekményeket, amelyek a Büntető Törvénykönyvről szóló 1978. évi IV. törvény 138/A. §-ának a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartásról szóló 2012. évi II. törvény 253. § (2) bekezdésével megállapított a) pontja alapján nem minősülnek bűncselekménynek e törvény szerint szabálysértésként kell elbírálni.
+
+(5) A (4) bekezdésben meghatározott cselekmény miatt 2012. április 15. napján folyamatban lévő nyomozás, illetve büntetőeljárás megszüntetésével egyidejűleg az ügyet a szabálysértési eljárás lefolytatása céljából az előkészítő eljárást lefolytató szervhez vagy – ha a cselekmény miatt szabálysértési elzárás büntetés nem szabható ki – a szabálysértési hatósághoz kell áttenni. Ilyen esetben az előkészítő eljárást lefolytató szerv, illetve a szabálysértési hatóság, valamint a bíróság felhasználhatja mindazokat a bizonyítékokat, amelyeket a nyomozó hatóság, az ügyész vagy a büntető ügyben eljárt bíróság a büntetőeljárás során szerzett be.

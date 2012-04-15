@@ -19,3 +19,5 @@ b) a szabálysértési hatóság – a bíróság hatáskörébe tartozó szabá
 és új eljárás lefolytatására kötelezi a szabálysértési hatóságot.
 
 (3) Ha a bíróság azt észleli, hogy a szabálysértési hatóság a bíróság hatáskörébe tartozó szabálysértés miatt hozott határozatot, a bíróság a szabálysértési hatóság határozatát hatályon kívül helyezi és az eljárást e törvény rendelkezései szerint folytatja le.
+
+(4) A bíróság eljárást megszüntető határozatával szemben jogorvoslatnak nincs helye.

@@ -14,6 +14,6 @@
 
 (7) Ha az idézést az eljárás alá vont személy nem veszi át vagy annak átadása előtt a helyszínről eltávozik, a meghallgatáson történő meg nem jelenése az eljárás lefolytatásának nem akadálya.
 
-(8) Ha az (1) bekezdésben megjelölt személy elmulasztja az idézést, a szabálysértési hatóság a feljegyzés alapján a 102. § (1) bekezdésében meghatározott döntésre vonatkozó szabályok megfelelő alkalmazásával jár el. Ha erre nincs lehetőség, az idézett személy elővezetését kell elrendelni.
+(8) Ha az (1) bekezdésben megjelölt személy az idézésre nem jelenik meg, a szabálysértési hatóság a feljegyzés alapján a 102. § (1) bekezdésében meghatározott döntésre vonatkozó szabályok megfelelő alkalmazásával jár el. Ha erre nincs lehetőség, az idézett személy elővezetését kell elrendelni.
 
 (9) E § vonatkozásában a feljegyzés tartalmi elemeire a jegyzőkönyv tartalmi elemeit megfelelően kell alkalmazni.

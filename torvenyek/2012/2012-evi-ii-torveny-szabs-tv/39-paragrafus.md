@@ -16,7 +16,7 @@ e) a közterület-felügyelő,
 
 f) a természetvédelmi őr, az önkormányzati természetvédelmi őr,
 
-g) az erdővédelmi szolgálat tagja,
+g) az erdészeti hatóság arra felhatalmazott ügyintézője,
 
 h) a halászati őr,
 

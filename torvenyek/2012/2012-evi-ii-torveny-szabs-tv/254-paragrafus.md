@@ -25,11 +25,3 @@ i) a természet védelméről szóló 1996. LIII. törvény 80. § (5) bekezdés
 j) az adózás rendjéről szóló 2003. évi XCII. törvény 161. § (1) bekezdéséből a „ ; szabálysértési pénzbírság, illetve helyszíni bírság végrehajtásával kapcsolatban akkor, ha a köztartozás összege eléri vagy meghaladja a 5000 forintot” szövegrész, a (9) bekezdésből az „ – a szabálysértési helyszíni bírság kivételével – ” szövegrész.
 
 (2) Az önkormányzatok 2012. május 31-ig kötelesek hatályon kívül helyezni az önkormányzati rendeletekben meghatározott szabálysértési rendelkezéseket.
-
-Dr. Schmitt Pál s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

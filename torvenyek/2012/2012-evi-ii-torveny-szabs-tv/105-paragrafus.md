@@ -2,7 +2,7 @@
 
 ## JOGORVOSLAT A SZABÁLYSÉRTÉSI HATÓSÁG HATÁROZATÁVAL SZEMBEN
 
-105. § (1) Az érdemi határozattal szemben az eljárás alá vont személy vagy képviselője, az okozott kár megtérítésére kötelezés esetén, kizárólag e rendelkezéssel szemben a sértett is, az érdemi határozatot hozó szabálysértési hatóságnál a határozat közlésétől számított nyolc napon belül kifogást nyújthat be.
+105. § (1) Az érdemi határozattal szemben az eljárás alá vont személy és képviselője, továbbá az okozott kár megtérítésére kötelezés esetén, kizárólag e rendelkezéssel szemben a sértett az érdemi határozatot hozó szabálysértési hatóságnál a határozat közlésétől számított nyolc napon belül kifogást nyújthat be. Amennyiben a pénzbírság összegét külön jogszabály állapította meg, a pénzbírság mértéke miatt nincs helye kifogás benyújtásának.
 
 (2) A kifogásban elő kell adni annak okát. Az ok téves megjelölése vagy hiánya miatt a kifogás érdemi elbírálását nem lehet megtagadni. A kifogásban egyértelműen meg kell jelölni, hogy a bíróság az ügyet tárgyaláson bírálja el.
 

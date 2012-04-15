@@ -25,3 +25,5 @@ ae) az állampolgárságát,
 af) a lakcímét, valamint
 
 b) az adatigénylő pontos megnevezését és címét.
+
+(3) A szabálysértési nyilvántartó szerv az érintett kérelmére a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásában, valamint a szabálysértési eljárás hatálya alatt állók nyilvántartásában kezelt adatokra tekintettel, a kérelemben megjelölt körben, célra hatósági bizonyítványt állít ki.

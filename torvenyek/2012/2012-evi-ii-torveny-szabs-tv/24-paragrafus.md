@@ -1,6 +1,6 @@
 ## 16. A szabálysértési elzárás és a pénzbírság végrehajthatóságának elévülése
 
-24. § (1) Nem lehet végrehajtani a szabálysértési elzárás büntetést és a meg nem fizetett pénzbírság helyébe lépő szabálysértési elzárást, ha a határozat jogerőre emelkedésétől számítva egy év eltelt.
+24. § (1) Nem lehet végrehajtani a szabálysértési elzárás büntetést, a pénzbírságot, a közérdekű munkát, a meg nem fizetett pénzbírság, illetve helyszíni bírság helyébe lépő szabálysértési elzárást és a nem teljesített közérdekű munka helyébe lépő szabálysértési elzárást, ha az alaphatározat jogerőre emelkedésétől számítva egy év eltelt.
 
 (2) Az elévülési időbe nem számít be a szabálysértési elzárás elhalasztására, illetve a pénzbírság esetében a halasztásra és a részletfizetésre engedélyezett idő.
 

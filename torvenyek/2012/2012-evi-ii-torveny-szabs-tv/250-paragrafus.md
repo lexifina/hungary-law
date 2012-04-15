@@ -14,15 +14,15 @@ c) meghatározza a XXVII. és a XXVIII. Fejezetben foglalt egyes szabálysérté
 
 (2) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy
 
-a) a szabálysértési törvény végrehajtásával összefüggő jogalkalmazási feladatok ellátásának,
+a) a törvény végrehajtásával összefüggő feladatok ellátásának rendjét, a szabálysértési eljárás, valamint a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben a közérdekű munka végrehajtásának,
 
-b) a szabálysértési nyilvántartások részére történő adatközlés formájának és módjának, valamint az adatszolgáltatás rendjének,
+b) a szabálysértési nyilvántartások részére történő adatközlés formájának és módjának, valamint az adatközlés rendjének,
 
 c) a szabálysértési nyilvántartó szerv által teljesített adatszolgáltatás rendjének, valamint a szabálysértési nyilvántartásokban kezelt adatok igazolására kiállított hatósági bizonyítvány kiadásának részletes eljárási rendjének,
 
-d) az érintett miniszterek egyetértésével a helyszíni bírságolás végrehajtásának, a helyszíni bírságolást igazoló nyomtatvány kialakításának,
+d) az államháztartásért felelős miniszter, a kormányzati tevékenység összehangolásáért, a közlekedésért, a halgazdálkodásért, az erdőgazdálkodásért, a természetvédelemért, az agrárpolitikáért felelős miniszter egyetértésével a helyszíni bírságolás végrehajtásának, a helyszíni bírságolást igazoló nyomtatvány kialakításának,
 
-e) a büntetés-végrehajtásért felelős miniszter egyetértésével és a legfőbb ügyész véleményének kikérésével a szabálysértési elzárás és a pénzbírság helyébe lépő szabálysértési elzárás végrehajtásának,
+e) a büntetés-végrehajtásért felelős miniszter egyetértésével és a legfőbb ügyész véleményének kikérésével a szabálysértési elzárás végrehajtásának
 
 f) az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével a szabálysértési eljárásban elrendelt elővezetés végrehajtásával felmerült költség megtérítésének,
 
@@ -34,4 +34,4 @@ i) a szabálysértési hatóságok és a helyszíni bírság kiszabására jogos
 
 részletes szabályait rendeletben szabályozza.
 
-(3) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a pénzügyi szabálysértések eljárási szabályait, valamint felderítése és elbírálása végrehajtásának részletes szabályait rendeletben szabályozza.
+(3) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a vámszabálysértések eljárási szabályait, valamint felderítése és elbírálása végrehajtásának részletes szabályait rendeletben szabályozza.

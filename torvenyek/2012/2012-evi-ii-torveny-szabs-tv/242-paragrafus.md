@@ -4,4 +4,4 @@
 
 (2) Aki olyan erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen, vagy erdészeti létesítmény területén jár, vagy járművel közlekedik, ahol a forgalmat jogszabály tiltja, vagy azt jogszabály felhatalmazása alapján korlátozzák vagy megtiltják, szabálysértést követ el.
 
-(3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az erdővédelmi szolgálat tagja, természeti és védett természeti területen a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr is szabhat ki helyszíni bírságot.
+(3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az erdészeti hatóság arra felhatalmazott ügyintézője, természeti és védett természeti területen a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr is szabhat ki helyszíni bírságot.

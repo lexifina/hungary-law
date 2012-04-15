@@ -1,4 +1,4 @@
-## 177. Megkülönböztető jelzést adó készülék felszerelésével és használatával kapcsolatos szabálysértés
+## 177. Megkülönböztető jelzést adó készülékkel kapcsolatos szabálysértés
 
 223. § Aki a megkülönböztető fényjelzést vagy a hangjelzést adó készüléket
 

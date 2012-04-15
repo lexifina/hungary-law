@@ -2,20 +2,22 @@
 
 ## 101. A fiatalkorúak szabálysértéseire vonatkozó rendelkezések
 
-134. § (1) Ha az eljárás adatai alapján a fiatalkorúval szemben előreláthatólag szabálysértési elzárás, közérdekű munka vagy pénzbírság kiszabására kerül sor, a meghallgatástól nem lehet eltekinteni.
+134. § (1) A fiatalkorúval szemben a szabálysértési eljárást az életkori sajátosságainak figyelembevételével és úgy kell lefolytatni, hogy elősegítse a fiatalkorúnak a törvények iránti tiszteletét. A fiatalkorúval szemben alkalmazott büntetés vagy intézkedés célja elsősorban az, hogy a fiatalkorú helyes irányba fejlődjék és a társadalom hasznos tagjává váljék.
 
-(2) A fiatalkorú törvényes képviselőjét a meghallgatásról, illetve a tárgyalásról értesíteni kell. Amennyiben a törvényes képviselő megjelenésének akadálya van, a gyámhatóság képviselőjét kell a fiatalkorú meghallgatásának időpontjáról értesíteni.
+(2) Ha az eljárás adatai alapján a fiatalkorúval szemben előreláthatólag szabálysértési elzárás, közérdekű munka vagy pénzbírság kiszabására kerül sor, a meghallgatásától nem lehet eltekinteni.
 
-(3) A fiatalkorú meghallgatására a törvényes képviselője jelenlétében kerül sor, kivéve ha:
+(3) A fiatalkorú törvényes képviselőjét, gondozóját a meghallgatásról, illetve a tárgyalásról azzal a felhívással kell értesíteni, hogy a fiatalkorú megjelenéséről gondoskodjék. Amennyiben a törvényes képviselő megjelenésének akadálya van, a gyámhatóság képviselőjét kell a fiatalkorú meghallgatásának időpontjáról értesíteni.
 
-a) a törvényes képviselő a szabálysértést a fiatalkorúval együtt követte el, illetőleg az érdekei a fiatalkorú érdekeivel egyébként ellentétesek,
+(4) A fiatalkorú meghallgatására a törvényes képviselője jelenlétében kerül sor, kivéve, ha:
+
+a) a törvényes képviselő a szabálysértést a fiatalkorúval együtt követte el, illetve az érdekei a fiatalkorú érdekeivel egyébként ellentétesek,
 
 b) a törvényes képviselő a jogainak gyakorlásában akadályozva van,
 
 c) a fiatalkorúnak nincs törvényes képviselője, vagy nem állapítható meg, hogy ki a törvényes képviselője. Ezekben az esetekben a gyámhatóság eseti gondnokot rendel ki. A tárgyaláson megjelent gondozót a fiatalkorú életviszonyaira nézve minden esetben meg kell hallgatni, aki ezekre a körülményekre nézve a nyilatkozatot nem tagadhatja meg.
 
-(4) Ha a fiatalkorú törvényes képviselője vagy gondozója az értesítés ellenére nem jelenik meg, úgy részére a végzést, illetve határozatot kézbesíteni kell.
+(5) Ha a fiatalkorú törvényes képviselője vagy gondozója az értesítés ellenére nem jelenik meg, úgy részére a végzést, illetve határozatot kézbesíteni kell azzal, hogy a határozattal szemben jogorvoslattal élhet.
 
-(5) Ha az eljárás alapján a szabálysértési hatóság indokoltnak tartja, a fiatalkorú védelembe vételét kezdeményezheti a külön törvény által meghatározott szervnél.
+(6) Ha az eljárás alapján a szabálysértési hatóság indokoltnak tartja, a fiatalkorú védelembe vételét kezdeményezheti az erre hatáskörrel rendelkező szervnél.
 
-(6) Fiatalkorúval szemben a 102. § (1) bekezdése, valamint a 118. § (1) bekezdése szerinti eljárás alapján csak intézkedés alkalmazható.
+(7) Fiatalkorúval szemben a 102. § (1) bekezdése, valamint a 118. § (1) bekezdése szerinti eljárás alapján csak intézkedés alkalmazható.

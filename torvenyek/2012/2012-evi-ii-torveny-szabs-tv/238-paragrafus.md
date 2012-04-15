@@ -1,3 +1,3 @@
-## 192. Élelmiszer minőségének megrontása
+## 192. Élelmiszer engedély nélküli előállítása, forgalomba hozatala
 
-238. § Aki az előírt, vagy a jelölt minőségi jellemzőknek nem megfelelő élelmiszert jó minőségű termékként való forgalomba hozatal céljából előállít vagy forgalomba hoz, szabálysértést követ el.
+238. § Aki élelmiszer-előállítási vagy -forgalmazási tevékenységet engedély vagy bejelentés nélkül végez, szabálysértést követ el.
