@@ -4,4 +4,6 @@
 
 | 2. | A vasúti átjáróra történő ráhajtásra vonatkozó rendelkezések | 39. § (5) bekezdés a) és b) pont | 300 000 |
 
-3. melléklet a 410/2007. (XII. 29.) Korm. rendelethez
+3. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^31]
+
+[^31]: A 3. melléklet a 63/2012. (IV. 2.) Korm. rendelet 5. § (4) bekezdése szerint módosított szöveg.
