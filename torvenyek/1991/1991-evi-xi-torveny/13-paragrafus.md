@@ -1,6 +1,6 @@
 13. § Az egészségügyi államigazgatási szerv
 
-a) eljár a hatáskörébe tartozó szabálysértés esetén, ennek keretében helyszíni bírságot szabhat ki, egyéb szabálysértés miatt pedig az eljárásra illetékes szervnél feljelentést tehet;
+a)
 
 b) kisebb súlyú cselekmény (mulasztás) esetén a felelős személyt figyelmeztetésben részesítheti;
 

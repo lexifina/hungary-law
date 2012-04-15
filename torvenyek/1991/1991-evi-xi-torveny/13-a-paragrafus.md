@@ -18,7 +18,7 @@ h) a fertőző betegségek és járványok megelőzése, illetve a járványvesz
 
 i) a munkavállalók fizikai tényezők – mesterséges optikai sugárzás és elektromágneses terek – hatásának való expozíciójára vonatkozó egészségügyi és biztonsági követelményekre
 
-vonatkozó jogszabályi rendelkezésekben foglaltakat súlyosan vagy ismételten megsértették, egészségügyi bírságot szab ki.
+vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészségügyi bírságot szab ki.
 
 (2) Egészségügyi bírság kiszabásának van helye abban az esetben is, ha az egészségügyi államigazgatási szerv egészségügyi igazgatási hatáskörében eljárva megállapítja, hogy
 

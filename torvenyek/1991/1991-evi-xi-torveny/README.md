@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-11-00-00
 | 2011-01-01 | 2010. évi CXXX. törvény | 1991-11-00-00.22 |
 | 2011-07-01 | 2011. évi LXXXI. törvény | 1991-11-00-00.23 |
 | 2012-01-01 | 2011. évi CLXXVI. törvény | 1991-11-00-00.24 |
+| 2012-04-15 | 2012. évi XXXI. törvény | 1991-11-00-00.25 |
