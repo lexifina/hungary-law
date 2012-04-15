@@ -1,6 +1,6 @@
-## A NeKI feladatai[^99]
+## A NeKI feladatai[^100]
 
-33/A. §[^100] (1) A NeKI alaptevékenysége körében ellátja a miniszter feladat- és hatáskörébe tartozó
+33/A. §[^101] (1) A NeKI alaptevékenysége körében ellátja a miniszter feladat- és hatáskörébe tartozó
 
 a) vízgyűjtő-gazdálkodással,
 
@@ -74,5 +74,5 @@ feladatokat.
 
 24. a természetvédelem területén közreműködik a természeti értékek monitorozásában, valamint a botanikai, zoológiai kutatásokhoz kapcsolódó, a természetvédelemhez szükséges országos adatgyűjtésben, a megalapozó adatokat és információkat gyűjtő, rendszerező, elemző és szolgáltató tevékenységekben, továbbá más, uniós irányelvek és nemzetközi egyezmények által igényelt tevékenységekben, a jelentések előkészítésében, valamint együttműködik az információs rendszerek adataira támaszkodó elemzések módszereinek fejlesztésében, a modellezések megvalósításában.
 
-[^99]: A 33/A. §-t megelőző alcímet a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be, szövege a 300/2011. (XII. 22.) Korm. rendelet 1. § (11) bekezdéssel megállapított szöveg.
-[^100]: A 33/A. §-t a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be, szövege a 300/2011. (XII. 22.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
+[^100]: A 33/A. §-t megelőző alcímet a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be, szövege a 300/2011. (XII. 22.) Korm. rendelet 1. § (11) bekezdéssel megállapított szöveg.
+[^101]: A 33/A. §-t a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be, szövege a 300/2011. (XII. 22.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.

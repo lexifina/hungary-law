@@ -1,6 +1,6 @@
 ## Természetvédelmi hatóságok kijelölése
 
-13. § (1)[^35] A Kormány törvényben meghatározott hatásköreiben természetvédelmi hatóságként
+13. § (1)[^36] A Kormány törvényben meghatározott hatásköreiben természetvédelmi hatóságként
 
 a) a minisztert,
 
@@ -16,4 +16,4 @@ e) a települési önkormányzat jegyzőjét
 
 (2) Természetvédelmi hatóságként – ha e rendelet másként nem rendelkezik – a felügyelőség jár el.
 
-[^35]: A 13. § (1) bekezdése a 106/2007. (V. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^36]: A 13. § (1) bekezdése a 106/2007. (V. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
