@@ -26,6 +26,6 @@ e) az Art. 56. § (1) bekezdése szerinti kapcsolattartó közigazgatási szerve
 
 f) az Art. szerinti központosított ellenőrzést, illetve a Vtv. szerinti központosított utólagos ellenőrzést végző szervet vagy szerveket,
 
-g) a szerencsejátékkal és játékautomatával összefüggő ügyben a NAV szervezetén belül szabálysértési hatóságként eljáró szervet,
+g)
 
 h) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti pénzügyi információs egységként működő hatóságot.

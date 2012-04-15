@@ -30,7 +30,7 @@ h) a kormánytisztviselői, a kormányzati ügykezelői, a hivatásos állomány
 
 i) az informatikai rendszerek és az elektronikus ügyintézés fejlesztése érdekében gazdasági társaságot működtet, amelynél a tulajdonosi jogokat a NAV elnöke gyakorolja,
 
-j) végzi a szerencsejáték-szervezéssel, valamint a játékautomatával és ajándéksorsolással kapcsolatos engedélyezési, nyilvántartási, továbbá az engedélyben foglaltak és a szerencsejáték szervezéséről szóló törvény, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény rendelkezései betartásával kapcsolatos ellenőrzési, a központi szerver üzemeltetés hatósági felügyeleti, illetőleg a szerencsejátékokkal és játékautomatákkal összefüggő szabálysértési hatósági feladatokat.
+j) végzi a szerencsejáték-szervezéssel, valamint a játékautomatával és ajándéksorsolással kapcsolatos engedélyezési, nyilvántartási, továbbá az engedélyben foglaltak és a szerencsejáték szervezéséről szóló törvény, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény rendelkezései betartásával kapcsolatos ellenőrzési, a központi szerver üzemeltetés hatósági felügyeleti feladatokat.
 
 (3) A NAV
 
