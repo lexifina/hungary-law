@@ -26,7 +26,7 @@ b) kéri, hogy az annak igazolására szolgáló adatokat, amely szerint a (2) b
 
 (5) Az (1) bekezdésben meghatározott tevékenység gyakorlásának időtartama alatt a természetvédelmi hatóság hatósági ellenőrzés keretében ellenőrzi azt is, hogy a jogosulttal szemben fennáll-e a (2) bekezdésben meghatározott kizáró ok. A hatósági ellenőrzést folytató természetvédelmi hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a jogosulttal szemben fennáll-e a (2) bekezdésben meghatározott kizáró ok.
 
-(6) Az (1) bekezdésben meghatározott tevékenység időtartama alatt a természetvédelmi hatóság ellenőrizheti azt is, hogy a tevékenységet gyakorló személlyel szemben fennáll-e a (3) bekezdés a) pontjában meghatározott kizáró ok. A természetvédelmi hatóság az ellenőrzés céljából adatot igényelhet a központi szabálysértési nyilvántartásból. Az adatigénylés kizárólag azon adatra irányulhat, hogy a tevékenységet gyakorló személlyel szemben fennáll-e a (3) bekezdés a) pontjában meghatározott kizáró ok.
+(6) Az (1) bekezdésben meghatározott tevékenység időtartama alatt a természetvédelmi hatóság ellenőrizheti azt is, hogy a tevékenységet gyakorló személlyel szemben fennáll-e a (3) bekezdés a) pontjában meghatározott kizáró ok. A természetvédelmi hatóság az ellenőrzés céljából adatot igényelhet a szabálysértési nyilvántartásból. Az adatigénylés kizárólag azon adatra irányulhat, hogy a tevékenységet gyakorló személlyel szemben fennáll-e a (3) bekezdés a) pontjában meghatározott kizáró ok.
 
 (7) A (4)–(6) bekezdés alapján megismert személyes adatokat a természetvédelmi hatóság
 

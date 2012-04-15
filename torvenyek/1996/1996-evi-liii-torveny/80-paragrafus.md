@@ -24,6 +24,6 @@ a)
 
 b) a helyi védett természeti terület esetében szabták ki, akkor az önkormányzat környezetvédelmi alapja, vagy annak természetvédelmi célokat szolgáló részének [62. § (3) bekezdés] bevételi forrása. Ha a települési önkormányzat nem rendelkezik környezetvédelmi alappal, akkor a b) pontban foglalt bevétel is a központi költségvetés bevétele.
 
-(5) A természetvédelmi bírság nem mentesít a büntetőjogi, a szabálysértési, a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására, továbbá a helyreállításra vonatkozó kötelezettség teljesítése alól.
+(5) A természetvédelmi bírság nem mentesít a büntetőjogi, a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására, továbbá a helyreállításra vonatkozó kötelezettség teljesítése alól.
 
 (6) A természetvédelmi bírság kiszabására vonatkozó eljárási szabályokat, valamint a bírság mértékét és megállapításának módját a Kormány állapítja meg.

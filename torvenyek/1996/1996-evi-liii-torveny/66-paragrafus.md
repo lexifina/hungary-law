@@ -34,6 +34,6 @@ a) akit a természet védelmével kapcsolatban elkövetett szabálysértésért 
 
 b) akit természetvédelmi, illetve állatvédelmi bírsággal sújtottak, a határozat jogerőre emelkedésétől számított három évig.
 
-(7) A polgári természetőr megbízatásának időtartama alatt a természetvédelmi hatóság ellenőrizheti azt is, hogy a polgári természetőrrel szemben fennáll-e a (6) bekezdés a) pontjában meghatározott kizáró ok. A természetvédelmi hatóság az ellenőrzés céljából adatot igényelhet a központi szabálysértési nyilvántartásból. Az adatigénylés kizárólag azon adatra irányulhat, hogy a jogosulttal szemben fennáll-e a (6) bekezdés a) pontjában meghatározott kizáró ok.
+(7) A polgári természetőr megbízatásának időtartama alatt a természetvédelmi hatóság ellenőrizheti azt is, hogy a polgári természetőrrel szemben fennáll-e a (6) bekezdés a) pontjában meghatározott kizáró ok. A természetvédelmi hatóság az ellenőrzés céljából adatot igényelhet a szabálysértési nyilvántartásból. Az adatigénylés kizárólag azon adatra irányulhat, hogy a jogosulttal szemben fennáll-e a (6) bekezdés a) pontjában meghatározott kizáró ok.
 
 (8) Az igazgatóság vagy a települési önkormányzat a (4) bekezdés alapján megismert adatokat a polgári természetőr megbízásáról meghozott döntésig, az (5) és a (7) bekezdés alapján megismert személyes adatokat a polgári természetőr megbízatása megszűnéséig kezeli.
