@@ -1,0 +1,1 @@
+## 2. § Ha a Szabs. tv. XXVIII. Fejezetében meghatározott szabálysértések közül a 6–9. mellékletben felsorolt szabálysértéseket az abban hivatkozott rendelkezések megszegésével követik el, az ott meghatározott szabálysértéshez rendelt összegű pénzbírságot, illetve helyszíni bírságot kell kiszabni.
