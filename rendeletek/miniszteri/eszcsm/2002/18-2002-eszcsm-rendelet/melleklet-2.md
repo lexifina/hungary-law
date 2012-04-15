@@ -90,7 +90,7 @@
 
 | Zala megyei bng. |
 
-2. melléklet a 18/2002. (XII. 28.) ESZCSM rendelethez[^17]
+2. melléklet a 18/2002. (XII. 28.) ESZCSM rendelethez[^18]
 
 A HIV-vel való fertőzöttség megállapítása céljából térítésmentes szűrővizsgálat végzésére jogosult laboratóriumok
 
@@ -178,4 +178,4 @@ a) az OEK HIV nemzeti referencia-laboratóriuma,
 
 b) az Országos Vérellátó Szolgálat Központi Laboratóriuma kizárólag a I. pontban felsorolt laboratóriumok által végzett szűrővizsgálatok tekintetében.
 
-[^17]: Az eredeti melléklet számozását 2. mellékletre változtatta és szövegét megállapította a 46/2009. (XII. 22.) EüM rendelet 6. §-a.
+[^18]: Az eredeti melléklet számozását 2. mellékletre változtatta és szövegét megállapította a 46/2009. (XII. 22.) EüM rendelet 6. §-a.
