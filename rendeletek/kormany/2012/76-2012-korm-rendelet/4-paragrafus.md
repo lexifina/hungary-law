@@ -1,3 +1,0 @@
-## 3. § Az R. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A támogatási igazolás kiállításának előzetes feltétele, hogy a támogatás igénybevételére jogosult szervezet a tervezett támogatással érintett sportfejlesztési programját – több támogatási időszakra szóló sportfejlesztési program esetén támogatási időszakokra lebontva –, annak tervezett megvalósítását megelőzően a jóváhagyást végző szervezet részére jóváhagyás céljából a tárgyév március 1. és április 30. közötti időszakban benyújtsa. A sportfejlesztési program jóváhagyására irányuló kérelem jóváhagyást végző szervezet részére történő benyújtásának – jogvesztő – határideje a tárgyév április 30-a.”
