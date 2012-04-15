@@ -28,7 +28,7 @@ m) a lakosság tájékoztatása a népszámlálásról a KSH által meghatározo
 
 n) a közterületen élő hajléktalanok összeírásának megszervezése, az adatfelvétel lebonyolítása;
 
-o) az összeírás teljességének biztosítása, a meghiúsulások kezelése, az adatszolgáltatást megtagadókkal szembeni szabálysértési eljárás lefolytatása, a pótösszeírás megszervezése és végrehajtása;
+o)[^1] az összeírás teljességének biztosítása, a meghiúsulások kezelése, az adatszolgáltatást megtagadókkal szembeni eljárás lefolytatása, a pótösszeírás megszervezése és végrehajtása;
 
 p) az adatfelvételt követően az összeírási anyagok átvétele a KSH területfelelősétől, azok biztonságos tárolása az elszállításig;
 
@@ -47,3 +47,5 @@ c) a kitöltött kérdőívek folyamatos átadása a felülvizsgálónak;
 d) a felülvizsgáló által nem elfogadhatónak minősített kérdőív hibás vagy hiányzó adatainak javítása, illetve pótlása az adatszolgáltató ismételt megkérdezésével;
 
 e) az adatfelvétel befejezését követően az üresen maradt kérdőívek és egyéb összeírási nyomtatványok átadása a felülvizsgálónak.
+
+[^1]: A 4. § (1) bekezdés o) pontja a 63/2012. (IV. 2.) Korm. rendelet 6. § l) pontja szerint módosított szöveg.
