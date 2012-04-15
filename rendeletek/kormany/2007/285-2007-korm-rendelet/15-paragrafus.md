@@ -20,10 +20,10 @@ d) a tömegkommunikáció útján tájékoztatást kezdeményezni a helyzetről 
 
 (6) Az átviteli rendszerirányítói és az elosztói utasítások jogszerűségének és indokoltságának vizsgálatára, az utasítások végrehajtásának ellenőrzésére, a jogkövetkezmények alkalmazására a Hivatal jogosult.
 
-(7)[^4] A Hivatal az átviteli rendszerirányító és az elosztó utasításainak végrehajtását felfüggesztheti, korlátozhatja, megtilthatja.
+(7)[^5] A Hivatal az átviteli rendszerirányító és az elosztó utasításainak végrehajtását felfüggesztheti, korlátozhatja, megtilthatja.
 
 (8) A jelentős zavarból fakadó terhek viselésére a polgári jog szabályai az irányadók.
 
 (9) A jelentős zavar időszaka alatt hálózatra adott és igénybe vett villamos energia elszámolását az átviteli rendszerirányító végzi. Az elszámolás során az eredeti megállapodásokban, illetve a zavar elhárításához igénybe vett forrásokra vonatkozó megállapodásokban szereplő árakat kell figyelembe venni.
 
-[^4]: A 15. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 580. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^5]: A 15. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 580. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
