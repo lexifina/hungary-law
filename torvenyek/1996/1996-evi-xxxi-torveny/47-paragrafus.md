@@ -76,7 +76,7 @@ j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzo
 
 a) a tűzoltóságok és a Magyar Honvédség tűzvédelmi szerveinek együttműködési rendjét a honvédelemért felelős miniszterrel,
 
-b) az Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatósága működésére, fenntartására és fejlesztésére vonatkozó szabályokat a közlekedésért felelős miniszterrel,
+b) a Budapest Liszt Ferenc Nemzetközi Repülőtér tűzvédelmi, műszaki mentési feladatait ellátó hivatásos tűzoltóság működésére, fenntartására és fejlesztésére vonatkozó szabályokat a közlekedésért felelős miniszterrel,
 
 c) az erdők tűzvédelmére vonatkozó szabályokat az erdőgazdálkodásért felelős miniszterrel,
 

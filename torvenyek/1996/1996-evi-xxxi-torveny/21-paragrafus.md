@@ -8,7 +8,7 @@
 
 (5) A kivitelező köteles a tűzvédelmi dokumentációban szereplő tűzvédelmi követelményeket a kivitelezés során megtartani, megvalósítani, a tervezési hiányosságok megszüntetését a tervezőnél és a beruházónál kezdeményezni.
 
-(6) A tervezőnek és a kivitelezőnek az (1) bekezdésben foglaltak érvényesítéséről írásban kell nyilatkoznia.
+(6) A kivitelezőnek a kivitelezési eljárás befejezését követően az (5) bekezdésben foglaltak érvényesítéséről írásban kell nyilatkoznia.
 
 (7) Hatósági ellenőrzés esetén a büntetlen előélet követelményének való megfelelést a tervező igazolja.
 

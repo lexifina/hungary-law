@@ -20,4 +20,4 @@ c) az ügyfelet, tanút a helyszínen tartózkodásra kötelezni,
 
 d) a helyszínen tartózkodókat – a rendőrségről szóló törvény szabályainak megfelelő alkalmazásával – személyazonosságuk igazolására kötelezni,
 
-e) helyszíni bírságot kiszabni.
+e)
