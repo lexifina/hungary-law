@@ -6,13 +6,13 @@
 
 (4)[^16] A rendelet hatálybalépését megelőzően bányászati tevékenység során keletkezett és fennmaradt bányatavakkal érintett ingatlanok tulajdonosai, az e rendelet hatálybalépésétől számított egy éven belül a külön jogszabályban[^17] meghatározott adatok csatolásával kötelesek a bányatóra vonatkozó üzemeltetési vízjogi engedélyt az illetékes vízügyi felügyelettől megkérni.
 
-(5) A (4) bekezdésben meghatározott határidő elmulasztását követően a rendelet hatálybalépését megelőzően fennmaradt bányatavak esetén a vízjogi engedély nélkül üzemeltetett vízilétesítményekre és vízhasználatokra vonatkozó rendelkezések megfelelő alkalmazásával kell eljárni, ideértve a vízjogi szabálysértésekkel összefüggésben meghatározott intézkedési lehetőséget, illetve felelősség megállapítását is.
+(5)[^18] A (4) bekezdésben meghatározott határidő elmulasztását követően a rendelet hatálybalépését megelőzően fennmaradt bányatavak esetén a vízjogi engedély nélkül üzemeltetett vízilétesítményekre és vízhasználatokra vonatkozó rendelkezések megfelelő alkalmazásával kell eljárni.
 
-(6) A bányatavakkal kapcsolatos rendelkezések megtartását az illetékes vízügyi hatóság a vízügyi felügyelet során a felügyeletre vonatkozó külön jogszabály[^18] szerint ellenőrzi, illetve a bányatavakat az engedélyezési eljárás során a jogszabályban meghatározott felügyeleti kategóriába sorolja.
+(6) A bányatavakkal kapcsolatos rendelkezések megtartását az illetékes vízügyi hatóság a vízügyi felügyelet során a felügyeletre vonatkozó külön jogszabály[^19] szerint ellenőrzi, illetve a bányatavakat az engedélyezési eljárás során a jogszabályban meghatározott felügyeleti kategóriába sorolja.
 
-(7)–(8)[^19]
+(7)–(8)[^20]
 
-Melléklet a 239/2000. (XII. 23.) Korm. rendelethez[^20]
+Melléklet a 239/2000. (XII. 23.) Korm. rendelethez[^21]
 
 A tájrendezés bányahatósági eljárásában benyújtott dokumentáció tartalma:
 
@@ -93,6 +93,7 @@ f) a jellemző felszín alatti rétegszelvényeket.
 [^15]: A 6. § (2)–(3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 206. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^16]: A 6. § (4) bekezdése a 269/2003. (XII. 24.) Korm. rendelet 16. §-ának a) pontja szerint módosított szöveg.
 [^17]: 18/1996. (VI. 13.) KHVM r.
-[^18]: 72/1996. (V. 22.) Korm. r.
-[^19]: A 6. § (7)–(8) bekezdését a 106/2005. (VI. 16.) Korm. rendelet 40. §-a (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^20]: A melléklet címe a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 55. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^18]: A 6. § (5) bekezdése a 63/2012. (IV. 2.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^19]: 72/1996. (V. 22.) Korm. r.
+[^20]: A 6. § (7)–(8) bekezdését a 106/2005. (VI. 16.) Korm. rendelet 40. §-a (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^21]: A melléklet címe a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 55. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
