@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-34-00-00
 | 2012-01-01 | 2011. évi CL. törvény | 1994-34-00-00.50 |
 | 2012-01-05 | 2011. évi CCVII. törvény | 1994-34-00-00.51 |
 | 2012-03-15 | 2011. évi CLXXX. törvény | 1994-34-00-00.52 |
+| 2012-04-15 | 2012. évi XXXI. törvény | 1994-34-00-00.53 |

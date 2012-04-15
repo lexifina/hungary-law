@@ -40,7 +40,7 @@ s) az egyéni vállalkozói igazolvánnyal rendelkező vállalkozók nyilvántar
 
 t) a közjegyzői zálogjogi nyilvántartásból,
 
-u) a központi szabálysértési nyilvántartásból.
+u) a szabálysértési nyilvántartásból.
 
 (3) Az általános munkarend korlátaitól függetlenül kérhető adat a (2) bekezdés a), d), i), j), k) és m) pontjaiban felsorolt nyilvántartásokból, a közúti közlekedési nyilvántartások közül az engedély-nyilvántartásból és a járműnyilvántartásból, valamint a bűnügyi nyilvántartások közül a bűntettesek nyilvántartásából. Az adatkéréseket hiányos és töredékadatok esetén is teljesíteni kell.
 
