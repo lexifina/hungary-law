@@ -1,6 +1,6 @@
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-Melléklet a 38/2011. (III. 22.) Korm. rendelethez
+Melléklet a 38/2011. (III. 22.) Korm. rendelethez[^1]
 
 A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozói
 
@@ -30,7 +30,7 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 10. | Központi útiokmány-nyilvántartás | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | kötelező |
 
-| 11. | Központi szabálysértési nyilvántartás | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | kötelező |
+| 11. | Szabálysértési nyilvántartási rendszer | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | kötelező |
 
 | 12. | Közúti közlekedési nyilvántartás | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | kötelező |
 
@@ -57,3 +57,5 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 | 22. | Az egyéni vállalkozók nyilvántartása | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | kötelező |
 
 | 23. | Bűnügyi nyilvántartási rendszer | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | kötelező |
+
+[^1]: A melléklet a 63/2012. (IV. 2.) Korm. rendelet 5. § (6) bekezdése szerint módosított szöveg.
