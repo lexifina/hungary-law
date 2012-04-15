@@ -2,7 +2,7 @@
 
 | Kódszám | Tényállás | Pontszám |
 
-| 07 | Járművezetés az eltiltás tartama alatt [a szabálysértésekről szóló 1999. évi LXIX. törvény 156/A. § (1) bek.] | 6 |
+| 07 | Járművezetés az eltiltás tartama alatt | 6 |
 
 | 08 |  |  |
 
@@ -10,23 +10,23 @@
 
 | 10 | Az elsőbbség és az előzés szabályainak megsértése: |  |
 
-| 1001 | Az elsőbbség és az előzés szabályainak megsértése [SzR. 44. § (1) bek.]; | 5 |
+| 1001 |  |  |
 
-| 1002 | Az elsőbbség és az előzés szabályainak megsértése [SzR. 44. § (2) bek.]; | 6 |
+| 1002 | Az elsőbbség és az előzés szabályainak megsértése; | 6 |
 
 | 11 |  |  |
 
-| 12 | A közúti közlekedés rendjének megzavarása [SzR. 46. § (1) bek.]; |  |
+| 12 | A közúti közlekedés rendjének megzavarása; |  |
 
-| 1201 | A közúti közlekedés rendjének megzavarása [SzR. 46. § (1) bek.]; | 5 |
+| 1201 | A közúti közlekedés rendjének megzavarása; | 5 |
 
-| 1202 | A közúti közlekedés rendjének megzavarása [SzR. 46. § (1) bek.]; könnyű testi sértés okozása esetén; | 6 |
+| 1202 | A közúti közlekedés rendjének megzavarása; könnyű testi sértés okozása esetén; | 6 |
 
-| 13 | Engedély nélküli vezetés (közúti forgalomban gépi meghajtású jármű vezetése más kategóriába tartozó engedéllyel, illetve a jármű vezetésének átengedése engedéllyel nem rendelkező részére) [SzR. 47. § (1) bek.]; | 5 |
+| 13 | Engedély nélküli vezetés (közúti forgalomban gépi meghajtású jármű vezetése más kategóriába tartozó engedéllyel, illetve a jármű vezetésének átengedése engedéllyel nem rendelkező részére); | 5 |
 
-| 14 | Biztonságos közlekedésre alkalmatlan jármű vezetése üzemképtelen fék, kormányberendezés esetében [SzR. 48. § (1) bek.]; | 6 |
+| 14 |  |  |
 
-| 15 | Közúti közlekedési szabályok kisebb fokú megsértése közül, amennyiben a jogsértés más helyen meghatározott körbe nem sorolható [SzR. 54. § (1) bek.]: |  |
+| 15 | Közúti közlekedési szabályok kisebb fokú megsértése közül, amennyiben a jogsértés más helyen meghatározott körbe nem sorolható: |  |
 
 | 1501 |  |  |
 
@@ -38,9 +38,9 @@
 
 | 1505 | Megállás útkereszteződésben és az úttestek széleinek metszéspontjától számított 5 m-es távolságon belül [40. § (5) bek. d) pont]; | 2 |
 
-| 1506 | Megállás kijelölt gyalogos-átkelőhelyen, valamint a gyalogos-átkelőhely előtt [KRESZ 40. § (5) bek. e) pontja]; | 6 |
+| 1506 |  |  |
 
-| 1507 | Megállás kerékpársávon, útkanyarulatban, valamint olyan helyen, ahol a jármű a fényjelzőkészülék vagy jelzőtábla észlelését akadályozza [KRESZ 40. § (5) bek. a), c), l) pont]; | 6 |
+| 1507 |  |  |
 
 | 1508 |  |  |
 
@@ -64,6 +64,6 @@
 
 | 1518 | Záróvonal és járműforgalom elől elzárt területen való áthaladás [KRESZ 18. § (1) bek. c), k ) pont]. | 2 |
 
-1/A. számú melléklet a 236/2000. (XII. 23.) Korm. rendelethez[^13]
+1/A. számú melléklet a 236/2000. (XII. 23.) Korm. rendelethez[^14]
 
-[^13]: Az 1/A. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^14]: Az 1/A. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be.
