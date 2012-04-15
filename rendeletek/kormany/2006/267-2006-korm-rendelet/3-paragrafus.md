@@ -2,7 +2,7 @@
 
 (2) A Hivatal a Bt. 43. §-ának (1) bekezdésében meghatározott bányafelügyeletként gyakorolja a Bt. 44. §-ának (1) bekezdésében meghatározott hatásköröket, továbbá ellátja mindazokat a hatósági feladatokat, amelyeket jogszabály a bányafelügyelet feladat- és hatáskörébe utal.
 
-(3)[^3] A szabálysértésekről szóló 1999. évi LXIX. törvény 35. §-ának d) pontja alapján a bányafelügyelet hatáskörébe utalt szabálysértési ügyekben a bányakapitányság jár el.
+(3)[^3]
 
 (4)[^4] A bányafelügyelet hatáskörébe tartozó hatósági ügyekben – az (5) bekezdésben foglaltak kivételével – első fokon a bányakapitányság, másodfokon a Hivatal jár el.
 
@@ -44,7 +44,7 @@ n)[^14] a Bt. 44. § (4) bekezdése szerint a nyomástartó berendezést vizsgá
 
 (9)[^18] A bányafelügyelet – annak jogerőre emelkedésére tekintet nélkül – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint nyilvánosan közzéteszi azt a határozatot, valamint a felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást, amit olyan eljárásban hozott, amelyben a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
 
-[^3]: A 3. § (3) bekezdése az 59/2010. (III. 18.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^3]: A 3. § (3) bekezdését a 63/2012. (IV. 2.) Korm. rendelet 6. § e) pontja hatályon kívül helyezte.
 [^4]: A 3. § (4) bekezdése az 59/2010. (III. 18.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
 [^5]: A 3. § (5) bekezdés nyitó szövegrésze az 59/2010. (III. 18.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.
 [^6]: A 3. § (5) bekezdés a) pontja a 195/2011. (IX. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
