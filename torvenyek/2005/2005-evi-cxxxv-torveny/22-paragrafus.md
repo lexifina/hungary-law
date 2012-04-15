@@ -2,4 +2,4 @@
 
 22. § (1)
 
-(2) Azonnali pénzügyi segély iránti kérelmet a bűncselekmény elkövetését követő öt napon belül lehet előterjeszteni.
+(2) Azonnali pénzügyi segély iránti kérelmet a bűncselekmény, illetve a tulajdon elleni szabálysértés elkövetését követő öt napon belül lehet előterjeszteni.

@@ -6,11 +6,11 @@
 
 (3) A kérelemben meg kell jelölni
 
-a) ha az áldozat természetes személy, annak természetes személyazonosító adatait, lakcímét és állampolgárságát; ha az áldozat olyan szervezet vagy annak önálló képviseleti joggal rendelkező szervezeti egysége, amelyet jogszabály jogi személyként ismer el vagy amely a polgári jogi viszonyok önálló jogalanya lehet, és a tagoktól elkülönülő vagyonnal rendelkezik – ideértve a gazdasági társaságokról szóló törvény szerinti előtársaságot is – annak nevét és székhelyét,
+a) az áldozat természetes személyazonosító adatait, lakcímét és állampolgárságát,
 
-b) a kérelem benyújtásának alapjául szolgáló bűncselekményre vonatkozó adatokat (a bűncselekmény megnevezése, a bűncselekmény elkövetésének helye, időpontja és lényeges körülményei),
+b) a kérelem benyújtásának alapjául szolgáló bűncselekményre, illetve szabálysértésre vonatkozó adatokat (a bűncselekmény, illetve a szabálysértés megnevezése, a bűncselekmény, illetve a szabálysértés elkövetésének helye, időpontja és lényeges körülményei),
 
-c) azt, hogy a b) pontban megjelölt bűncselekmény az áldozat számára milyen sérelemmel, így különösen testi vagy lelki sérüléssel, érzelmi megrázkódtatással, illetve vagyoni kárral járt,
+c) azt, hogy a b) pontban megjelölt bűncselekmény, illetve szabálysértés az áldozat számára milyen sérelemmel, így különösen testi vagy lelki sérüléssel, érzelmi megrázkódtatással, illetve vagyoni kárral járt,
 
 d) az igényelt támogatás fajtáját,
 

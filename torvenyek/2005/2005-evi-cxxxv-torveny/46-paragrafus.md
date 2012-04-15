@@ -6,7 +6,7 @@ a) az e törvény szerinti támogatások engedélyezése iránti kérelem előte
 
 b) az áldozatsegítő szolgálatnál foglalkoztatottak képesítési feltételeire vonatkozó szabályokat,
 
-c) az irányítása alá tartozó szervek áldozatsegítő feladatait, azok civil szervezetekkel való együttműködésének formáit.
+c)
 
 (2) Felhatalmazást kap az áldozatsegítésért felelős miniszter, hogy rendelettel állapítsa meg az irányítása alá tartozó szervek áldozatsegítő feladatait, azok civil szervezetekkel való együttműködésének formáit.
 

@@ -6,7 +6,7 @@
 
 a) az áldozatnak a 10. § (3) bekezdésének a) pontja szerinti adatait,
 
-b) a 10. § (3) bekezdésének c) pontja szerinti adatokat,
+b) a 10. § (3) bekezdés b) és c) pontja szerinti adatokat,
 
 c) a 11. § (1) bekezdésének c) pontja szerinti adatokat,
 
@@ -30,7 +30,7 @@ d) a támogatásra vonatkozó adatokat:
 
 (3) Az áldozatsegítő szolgálat a nyilvántartásban rögzített adatokat a tájékoztatás napjától vagy a kérelem előterjesztésétől számított 10 évig tartja nyilván és kezeli.
 
-(4) Az áldozatsegítő szolgálat a nyilvántartás adatairól megkeresésre tájékoztatást ad a büntető- vagy polgári ügyben eljáró bíróság, a büntetőügyben eljáró ügyész vagy nyomozó hatóság, valamint a jogi segítő számára.
+(4) Az áldozatsegítő szolgálat a nyilvántartás adatairól megkeresésre tájékoztatást ad a büntető-, szabálysértési vagy polgári ügyben eljáró bíróság, a büntetőügyben eljáró ügyész vagy nyomozó hatóság, a szabálysértési ügyben eljáró szabálysértési hatóság, valamint a jogi segítő számára.
 
 (5) Az áldozatsegítő szolgálat a gyermekek veszélyeztetettségének megelőzése, megszüntetése céljából a nyilvántartásban szereplő adatokról, az áldozattá válás körülményeire, illetve a kiskorú veszélyeztetettségére utaló adatokról a gyermekjóléti szolgálatoknak, illetve az eljáró gyámhatóságnak tájékoztatást ad.
 

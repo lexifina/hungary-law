@@ -2,15 +2,23 @@
 
 15. § (1) Az áldozat a támogatás iránti kérelmet érdemben elbíráló határozat jogerőre emelkedését követő 3 évig köteles visszatéríteni a pénzben nyújtott támogatást, ha
 
-a) az eljáró hatóság jogerősen megállapította, hogy a támogatás alapjául szolgáló cselekmény nem bűncselekmény, kivéve az 1. § (3) bekezdése szerinti eseteket,
+a) az e törvény szerinti támogatás iránti kérelmet az áldozat bűncselekmény áldozataként nyújtotta be és az eljáró hatóság jogerősen megállapította, hogy a támogatás alapjául szolgáló cselekmény nem bűncselekmény,
 
 b) az áldozat a támogatás iránti ügyében valótlan adatot szolgáltatott,
 
 c) a kár vagy a rendkívüli kiadás más forrásból részben vagy egészben megtérült, de legfeljebb a megtérülés mértékéig,
 
-d) a támogatás igénybevételét kizáró ok a támogatást követően következett be.
+d) a támogatás igénybevételét kizáró ok a támogatást követően következett be,
 
-(2)
+e) az e törvény szerinti szolgáltatás iránti kérelmet az áldozat tulajdon elleni szabálysértés áldozataként nyújtotta be és a szabálysértési ügyben eljáró hatóság jogerősen megállapította, hogy a támogatás alapjául szolgáló cselekmény nem tulajdon elleni szabálysértés, kivéve, ha a cselekmény miatt indult szabálysértési eljárást a Szabs. tv. 83. § b)–e) vagy h)–i) pontja alapján szüntették meg.
+
+(2) Az (1) bekezdés a) pontja szerinti esetben sem köteles visszafizetni az áldozat a pénzben nyújtott támogatást
+
+a) az 1. § (3) bekezdés a) pontja szerinti esetekben, vagy
+
+b) ha a cselekmény tulajdon elleni szabálysértés és ezt az erre hatáskörrel rendelkező szabálysértési hatóság, illetve bíróság jogerősen megállapította, vagy a cselekmény miatt indult szabálysértési eljárást a Szabs. tv. 83. § b)–e) vagy h)–i) pontja alapján szüntették meg.
+
+(2a) A biztosító a támogatás iránti kérelmet érdemben elbíráló határozat jogerőre emelkedését követő 3 éven belül, az (1) bekezdés c) pontjában meghatározott feltétel meglétének vizsgálata érdekében megküldött megkeresésre tájékoztatja az áldozatsegítő szolgálatot a biztosítási titokról.
 
 (3) Az áldozat köteles a támogatást egy összegben, a visszafizetésre kötelező jogerős határozat kézhezvételétől számított 30 napon belül az „áldozatsegítés” elnevezésű célelőirányzat javára megfizetni.
 
