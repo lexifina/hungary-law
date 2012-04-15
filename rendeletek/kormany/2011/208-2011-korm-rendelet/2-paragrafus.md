@@ -8,6 +8,8 @@ b) az igazolást arról, hogy a kötelezett az általa megállapított hozzájá
 
 (3) A hatóság az 1. § (4) bekezdés szerinti bejelentés beérkezését követő 45 napon belül megindítja a katasztrófavédelmi hozzájárulás befizetésére irányuló eljárást, amelynek során a kötelezettet az (1) bekezdés szerinti nyilatkozat megtételére hívja fel, azzal az eltéréssel, hogy azt a hozzájárulás teljes összegére vonatkozóan kell a felhívás megküldésétől számított 60 napon belül megtenni és befizetni.
 
-(4) Az (1) bekezdés b) pontja, valamint a (2) és (3) bekezdés szerinti katasztrófavédelmi hozzájárulás befizetését, a kötelezett azonosítására alkalmas módon a hatóság honlapján közzétett keretszámlájára történő átutalással kell teljesíteni.
+(4)[^2] Az (1) bekezdés b) pontja, valamint a (2) és (3) bekezdés szerinti katasztrófavédelmi hozzájárulás befizetését, a kötelezett azonosítására alkalmas módon a másodfokú hatóság honlapján közzétett keretszámlájára történő átutalással kell teljesíteni.
 
 (5) Amennyiben a kötelezett esetében az üzleti év a naptári évtől eltér, az 1. § (1) bekezdésben foglalt bejelentési kötelezettség teljesítésével egyidejűleg a határidők vonatkozásában a hatóságtól eltérést kérhet.
+
+[^2]: A 2. § (4) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
