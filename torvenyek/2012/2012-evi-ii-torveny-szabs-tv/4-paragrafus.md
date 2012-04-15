@@ -1,0 +1,1 @@
+4. § A szabálysértést az elkövetése idején hatályban lévő jogszabályok alapján kell elbírálni. Ha a szabálysértés elbírálásakor hatályban lévő új jogszabály szerint a cselekmény már nem minősül szabálysértésnek vagy enyhébben bírálandó el, akkor az új jogszabályt kell alkalmazni.

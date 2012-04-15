@@ -1,0 +1,1 @@
+126. § A végzéssel szembeni fellebbezés elintézésére az e törvényben foglalt rendelkezéseket értelemszerűen alkalmazni kell a bíróság elé állítás eredményeként hozott végzés elleni fellebbezés esetében is azzal, hogy a törvényszék a határozatának egy kiadmányát közvetlenül megküldi az eljárást kezdeményező rendőrségnek.

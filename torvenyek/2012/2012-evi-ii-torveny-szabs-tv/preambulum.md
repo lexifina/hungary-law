@@ -1,0 +1,1 @@
+A társadalmi együttélés általánosan elfogadott szabályait sértő vagy veszélyeztető, a bűncselekményként történő büntetni rendeléshez szükséges kockázatokkal és veszélyességgel azonban nem rendelkező kriminális cselekmények elleni hatékony fellépés érdekében az Országgyűlés a következő törvényt alkotja:

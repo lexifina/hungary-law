@@ -1,0 +1,1 @@
+159. § A szabálysértési nyilvántartó szerv az egyedi azonosító iránti kérelem beérkezésétől számított nyolc napon belül tájékoztatja a közvetlen hozzáférésre jogosult szervet a hozzáférésre felhatalmazott személy egyedi azonosítójáról, valamint a közvetlen hozzáférés gyakorlásához szükséges technikai ismeretekről.

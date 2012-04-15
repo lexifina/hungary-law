@@ -1,0 +1,1 @@
+163. § Az adatkezelés jogszerűségének ellenőrzése érdekében a szabálysértési nyilvántartásokba a szabálysértési nyilvántartó szerv szakmai felügyeletét ellátó miniszter, a Nemzeti Adatvédelmi és Információszabadság Hatóság, valamint a törvényességi felügyeletet ellátó ügyész tekinthet be.

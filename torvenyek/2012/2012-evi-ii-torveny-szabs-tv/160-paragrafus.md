@@ -1,0 +1,11 @@
+160. § (1) A közvetlen hozzáféréssel történő adatátvétel teljesítéséhez meg kell jelölni:
+
+a) a közvetlen hozzáférésre jogosult szerv megnevezését,
+
+b) a hozzáférésre felhatalmazott személy egyedi azonosítóját,
+
+c) a közvetlen hozzáférés célját, jogalapját,
+
+d) a közvetlen hozzáféréssel érintett, a szabálysértési nyilvántartási rendszerben nyilvántartott személynek a 151. § (2) bekezdés a) pont aa)–ag) alpontjában meghatározott adatait.
+
+(2) A szabálysértési nyilvántartó szerv a közvetlen hozzáférést gyakorló szerv részére haladéktalanul, elektronikus úton továbbítja azokat az adatokat, amelyek tekintetében a közvetlen hozzáférésre való jogosultság fennáll, ezzel egyidejűleg adatvédelmi záradékban hívja fel a figyelmet az adatok jogszerű felhasználásának követelményére.

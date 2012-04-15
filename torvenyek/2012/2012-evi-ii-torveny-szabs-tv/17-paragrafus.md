@@ -1,0 +1,1 @@
+17. § A járművezetéstől eltiltás hatálya a szabálysértési határozat jogerőre emelkedésével kezdődik. Amennyiben az eljárás alá vont személy a szabálysértés elkövetésekor vezetői engedéllyel (igazolvánnyal) rendelkezett, az eltiltás tartama a vezetői engedélynek (igazolványnak) a leadása napján veszi kezdetét.

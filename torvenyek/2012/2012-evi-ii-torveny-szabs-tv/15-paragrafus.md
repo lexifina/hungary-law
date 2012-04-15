@@ -1,0 +1,1 @@
+15. § Ha az eljárás alá vont személy a munkakötelezettségének nem tesz eleget, a bíróság a közérdekű munka, illetve annak hátralévő részét hat óránként számítva egy nap szabálysértési elzárásra változtatja át. Nem változtatható át a közérdekű munka hátralévő része szabálysértési elzárássá, ha az nem éri el a hat órát.
