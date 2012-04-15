@@ -6,4 +6,4 @@ a) az iratkezelői és az irattári helyiségbe beléphet, az iratokba — a min
 
 b) iratkezelési kérdésekben szaktanácsot ad, a nem selejtezhető iratok épségben és használható állapotban történő megőrzését súlyosan veszélyeztető hibákat és hiányosságokat jegyzőkönyvbe foglalja, megszüntetésükre vonatkozóan határidőt állapít meg;
 
-c) ha a szerv a jegyzőkönyvben meghatározott ideig nem intézkedik, akkor a levéltár szabálysértési eljárás indítása céljából a felügyeleti szervet értesíti, annak hiányában a szabálysértési eljárás indítását maga kezdeményezi.
+c)

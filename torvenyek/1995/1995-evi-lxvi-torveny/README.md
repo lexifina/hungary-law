@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-66-00-00
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 1995-66-00-00.23 |
 | 2011-01-02 | 2011. évi CXII. törvény | 1995-66-00-00.24 |
 | 2012-01-01 | 2011. évi CLIV. törvény | 1995-66-00-00.25 |
+| 2012-04-15 | 2012. évi XXXI. törvény | 1995-66-00-00.26 |
