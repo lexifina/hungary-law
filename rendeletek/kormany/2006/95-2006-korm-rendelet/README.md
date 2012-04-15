@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-95-20-2
 | 2011-01-01 | 2006-95-20-22.5 | 289/2010. (XII. 21.) Korm. rendelet |
 | 2011-08-26 | 2006-95-20-22.6 | 158/2011. (VIII. 11.) Korm. rendelet |
 | 2012-01-01 | 2006-95-20-22.7 | 219/2011. (X. 20.) Korm. rendelet |
+| 2012-04-15 | 2006-95-20-22.8 | 219/2011. (X. 20.) Korm. rendelet |

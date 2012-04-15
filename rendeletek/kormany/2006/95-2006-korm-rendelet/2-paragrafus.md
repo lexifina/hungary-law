@@ -32,9 +32,9 @@ m) veszélyes katonai objektum: egy adott honvédségi üzemeltető irányítás
 
 n)[^3] veszélyes tevékenység: a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 3. § 31. pontja szerinti tevékenység;
 
-o)[^4] veszélyességi övezet: a veszélyes anyagokkal kapcsolatos súlyos baleset lehetséges következményeinek csökkentése érdekében a veszélyes katonai objektum környezetében a hivatásos katasztrófavédelmi szerv központi szerve által kijelölt, az egyéni sérülés kockázatához igazodó terület.
+o)[^4] veszélyességi övezet: a veszélyes anyagokkal kapcsolatos súlyos baleset lehetséges következményeinek csökkentése érdekében a veszélyes katonai objektum környezetében a hivatásos katasztrófavédelmi szerv illetékes területi szerve által kijelölt, az egyéni sérülés kockázatához igazodó terület.
 
 [^1]: A 2. § d) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 23. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^2]: A 2. § e) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 23. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^3]: A 2. § n) pontja a 219/2011. (X. 20.) Korm. rendelet 52. § (1) bekezdése szerint módosított szöveg.
-[^4]: A 2. § o) pontja a 219/2011. (X. 20.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. § o) pontja a 219/2011. (X. 20.) Korm. rendelet 52. § (2) bekezdése, a 74/2012. (IV. 13.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
