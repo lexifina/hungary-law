@@ -36,7 +36,7 @@ l)[^69] a törvényben meghatározott esetben közrendvédelmi bírságot állap
 
 m)[^70] ellenőrzi a házi őrizet, valamint a lakhelyelhagyási tilalom előírásainak megtartását,
 
-n)[^71] a tulajdon elleni szabálysértések és a feloszlatott társadalmi szervezet tevékenységében való részvétel szabálysértés esetén lefolytatja a szabálysértésekről szóló törvényben meghatározott, a rendőrség hatáskörébe utalt bírósági eljárást előkészítő eljárást.
+n)[^71] a szabálysértési elzárással is büntethető szabálysértés esetén lefolytatja a szabálysértésekről szóló törvényben meghatározott, a rendőrség hatáskörébe utalt bírósági eljárást előkészítő eljárást.
 
 (3) A rendőrkapitányság közigazgatási hatáskörében
 
@@ -70,7 +70,7 @@ b) a Jász-Nagykun-Szolnok megyén áthaladó főközlekedési útvonalakon a fo
 [^68]: A 12. § (2) bekezdés i) pontja a 181/2009. (IX. 4.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^69]: A 12. § (2) bekezdés l) pontját a 208/2008. (VIII. 27.) Korm. rendelet 23. § (3) bekezdése iktatta be.
 [^70]: A 12. § (2) bekezdés m) pontját a 148/2010. (IV. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^71]: A 12. § (2) bekezdés n) pontját a 361/2010. (XII. 30.) Korm. rendelet 9. §-a iktatta be.
+[^71]: A 12. § (2) bekezdés n) pontját a 361/2010. (XII. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 63/2012. (IV. 2.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.
 [^72]: A 12. § (3) bekezdés b) pontja a 247/2009. (XI. 10.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^73]: A 12. § (3) bekezdés e) pontja a 334/2009. (XII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^74]: A 12. § (3) bekezdés új f) pontját a 334/2009. (XII. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be, egyidejűleg az eredeti f)–g) pont megjelölését g)–h) pontra változtatta.
