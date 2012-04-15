@@ -24,7 +24,7 @@ g) a VET 173. §-a szerinti egyszerűsített üzemeltetési engedély
 
 (3)[^50] Az (1) bekezdés f) és g) pontja szerinti eljárások esetében nem kell az előkészítő eljárást lefolytatni, valamint nem kell a közművek, kezelők, üzemeltetők, illetve az ügyfelek nyilatkozatait megkérni és a kérelemhez csatolni.
 
-(4)[^51] Az (1) bekezdés a) pontja szerinti eljárások esetében az engedély hatályának lejártát követő 30 napon belül az építési engedélyes köteles az ingatlan eredeti állapotát, vagy ha ez nem megállapítható, művelési ágának megfelelő állapotát helyreállítani, illetve ha ez utóbbi sem lehetséges, kártalanítást nyújtani és erről a Hatóságot értesíteni. Ezen előírások nem, vagy nem megfelelő teljesítése esetén a Hatóság szabálysértési eljárást kezdeményezhet.
+(4)[^51] Az (1) bekezdés a) pontja szerinti eljárások esetében az engedély hatályának lejártát követő 30 napon belül az építési engedélyes köteles az ingatlan eredeti állapotát, vagy ha ez nem megállapítható, művelési ágának megfelelő állapotát helyreállítani, illetve ha ez utóbbi sem lehetséges, kártalanítást nyújtani és erről a Hatóságot értesíteni. Ezen előírások nem, vagy nem megfelelő teljesítése esetén a Hatóság eljárást kezdeményezhet.
 
 (5) Az egyszerűsített eljárás során szerzett jogok és kötelezettségek gyakorlása tekintetében egyebekben az adott eljárásra vonatkozó rendelkezések az irányadók.
 
@@ -35,6 +35,6 @@ g) a VET 173. §-a szerinti egyszerűsített üzemeltetési engedély
 [^48]: A 37. § (1) bekezdésének e) pontját a 239/2008. (IX. 29.) Korm. rendelet 7. § (3) bekezdésének a) pontja hatályon kívül helyezte.
 [^49]: A 37. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 606. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^50]: A 37. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 608. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^51]: A 37. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 607. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^51]: A 37. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 607. §-a, a 63/2012. (IV. 2.) Korm. rendelet 6. § j) pontja szerint módosított szöveg.
 [^52]: A 37. § (6) bekezdését a 116/2010. (IV. 15.) Korm. rendelet 2. §-a iktatta be.
 [^53]: A 37. § (7) bekezdését a 116/2010. (IV. 15.) Korm. rendelet 2. §-a iktatta be.
