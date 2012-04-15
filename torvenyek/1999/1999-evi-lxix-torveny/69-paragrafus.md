@@ -1,1 +1,0 @@
-69. § Ha a megidézett személy az idézésre nem jelenik meg és ezt alapos okkal nem menti ki, önhibájából meghallgatásra alkalmatlan állapotban jelenik meg vagy a meghallgatás előtt engedély nélkül eltávozik, a meghallgatásának elmaradásával okozott költségek megtérítésére kell kötelezni.

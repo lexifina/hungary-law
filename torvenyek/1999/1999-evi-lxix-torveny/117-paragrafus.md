@@ -1,1 +1,0 @@
-117. § A járművezetéstől eltiltást a jogerős határozatot hozó szabálysértési hatóság, illetve bíróság értesítése alapján a körzetközponti feladatokat ellátó települési önkormányzat jegyzője hajtja végre.

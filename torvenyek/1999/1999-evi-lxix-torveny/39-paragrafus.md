@@ -1,1 +1,0 @@
-39. § Ha vitás, hogy a több szabálysértési hatóság közül melyik köteles eljárni, az eljáró szabálysértési hatóságot közvetlen közös felettes szervük, ennek hiányában pedig a felügyeletüket ellátó miniszter jelöli ki.

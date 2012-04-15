@@ -1,1 +1,0 @@
-99. § A bíróság az ügyet lehetőleg egy tárgyalási napon befejezi. Ha az ügy terjedelme, a bizonyítás kiegészítése miatt vagy egyéb okból szükséges, a bíró a tárgyalást legfeljebb nyolc napra elnapolhatja. Ha a tárgyalás megtartásának akadálya van, a bíró a tárgyalást elhalasztja.

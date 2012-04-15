@@ -1,1 +1,0 @@
-132. § A becsületsértési ügyekben emelt kifogást, illetőleg panaszt az iratokkal együtt – amennyiben a szabálysértési hatóság a kifogásnak nem ad helyt, vagy határozatát az eljárás alá vont személy javára nem módosítja – közvetlenül az illetékes bírósághoz kell megküldeni, amely az általános szabályok szerint jár el.

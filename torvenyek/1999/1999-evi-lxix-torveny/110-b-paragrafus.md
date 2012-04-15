@@ -1,1 +1,0 @@
-110/B. § Perújításnak van helye, ha az Alkotmánybíróság alkotmányjogi panasz alapján a bíróság jogerős határozatával elbírált szabálysértési ügyben alkalmazott alaptörvény-ellenes jogszabályt megsemmisítette, és ezért az – az Alkotmánybíróság eltérő döntése hiányában – az Alkotmánybíróság eljárására okot adó ügyben nem alkalmazható.
