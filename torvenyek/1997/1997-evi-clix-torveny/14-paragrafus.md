@@ -11,3 +11,5 @@ c) a helyi jelentőségű védett természeti területen károsító vagy veszé
 d) jogszabályban meghatározott esetben helyszíni bírságot kiszabni.
 
 (2) Az önkormányzati természetvédelmi őr az (1) bekezdés b)–c) pontjában meghatározott intézkedéseivel szembeni ellenszegülés leküzdésére testi kényszert vagy a rendőrségnél rendszeresített könnygázszóró palackot alkalmazhat.
+
+(3) Az önkormányzati természetvédelmi őr az e törvényben meghatározott feladatai ellátása során a Magyarország helyi önkormányzatairól szóló törvény 51. § (4) bekezdése szerinti önkormányzati rendeletben meghatározott helyszíni bírságot szabhat ki.
