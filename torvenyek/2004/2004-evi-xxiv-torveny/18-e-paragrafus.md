@@ -10,7 +10,7 @@ b) engedéllyel nem rendelkező vállalkozással vagy a biztonsági követelmén
 
 (4)
 
-(5) Ha a vállalkozással szemben mind a felügyeleti bírság, mind a szabálysértésekről szóló törvény szerint minősülő polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel kapcsolatos szabálysértés miatti bírság kiszabásának feltételei fennállnak, kizárólag a felügyeleti bírság megállapítására irányuló eljárásnak van helye.
+(5)
 
 (6) Nincs helye felügyeleti bírság kiszabásának, ha a cselekmény elkövetése vagy a folyamatos jogsértő magatartás befejezése óta két év eltelt.
 

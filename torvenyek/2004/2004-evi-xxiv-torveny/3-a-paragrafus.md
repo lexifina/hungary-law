@@ -22,7 +22,7 @@ be) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggeszt
 
 c) a b) pontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll, a büntetőeljárás jogerős befejezéséig,
 
-d) szabálysértési felelősségét polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel, lőfegyverrel, közbiztonságra különösen veszélyes eszközzel kapcsolatos szabálysértés, rendzavarás, sportrendezvény rendjének megbontása, számszeríj vagy szigonypuska jogellenes használata, veszélyes fenyegetés, jogosulatlan vadászat vagy természetvédelmi szabálysértés elkövetése miatt a szabálysértési hatóság jogerősen megállapította, a határozat jogerőre emelkedését követő két évig,
+d) szabálysértési felelősségét polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel, lőfegyverrel, közbiztonságra különösen veszélyes eszközzel kapcsolatos szabálysértés, rendzavarás, számszeríj vagy szigonypuska jogellenes használata, veszélyes fenyegetés, jogosulatlan vadászat vagy természetvédelmi szabálysértés elkövetése miatt a szabálysértési hatóság jogerősen megállapította, a határozat jogerőre emelkedését követő két évig,
 
 e) az engedély kiadására vonatkozó kérelmében valótlan adatot közöl, a kérelemmel összefüggő valós adatot elhallgat vagy a fegyverre, lőszerre (töltényre) lőszerelemre, lőtérre vonatkozó, jogszabályban meghatározott kötelezettségét megszegi, a kérelem benyújtását vagy – ha ezen ok miatt az engedély visszavonása iránt eljárás indul – az engedélyt visszavonó határozat jogerőre emelkedését követő két évig.
 
@@ -32,7 +32,7 @@ e) az engedély kiadására vonatkozó kérelmében valótlan adatot közöl, a 
 
 a) a (2) bekezdés a)–c) pontjában meghatározott körülmény vizsgálata céljából a bűnügyi nyilvántartási rendszerről szóló törvényben meghatározottak szerinti közvetlen adathozzáférési jogosultsága útján a (2) bekezdés a)–c) pontjában,
 
-b) a (2) bekezdés d) pontjában meghatározott körülmény vizsgálata céljából a központi szabálysértési nyilvántartásból a (2) bekezdés d) pontjában
+b) a (2) bekezdés d) pontjában meghatározott körülmény vizsgálata céljából a szabálysértési nyilvántartásból a (2) bekezdés d) pontjában
 
 meghatározott körülményre vonatkozó adatokat átveszi és kezeli.
 
