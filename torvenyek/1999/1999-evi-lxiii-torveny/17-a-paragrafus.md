@@ -1,0 +1,1 @@
+17/A. § A felügyelő a feladatkörébe tartozó, a közúti közlekedésről szóló 1988. évi I. törvényben (a továbbiakban: Kkt.) meghatározott közlekedési szabályszegés esetén jogosult a Kkt. 20. § (4a) és a (4b) bekezdésében meghatározott közigazgatási bírságot alkalmazni.

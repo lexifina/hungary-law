@@ -29,3 +29,5 @@ g) közreműködés állategészségügyi és ebrendészeti feladatok ellátás�
 (6) A felügyeletnek, illetőleg a felügyelet részéről eljáró felügyelőnek feladatot – a (4) bekezdés keretei között – törvény, kormányrendelet, az önkormányzat rendelete állapíthat meg. Az önkormányzat rendelete olyan feladatot állapíthat meg, melyet törvény vagy kormányrendelet nem utal más szerv hatáskörébe.
 
 (7) A képviselő-testület a szervezeti és működési szabályzatában, illetőleg – a szabályzattal együtt elfogadott – hivatali ügyrendben határozhatja meg a felügyelet szervezeti formáját, a felügyelet, illetőleg a felügyelő feladatait.
+
+(8) A felügyelő az e törvényben meghatározott feladatai ellátása során a Magyarország helyi önkormányzatairól szóló törvény 51. § (4) bekezdése szerinti önkormányzati rendeletben meghatározott helyszíni bírságot szabhat ki.

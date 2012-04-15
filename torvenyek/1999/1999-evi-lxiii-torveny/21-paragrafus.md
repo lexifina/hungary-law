@@ -1,1 +1,1 @@
-21. § A felügyelő a helyi közúton jogosult feltartóztatni a köztisztasági szabályokat megszegő, továbbá a táblával jelzett behajtási tilalmat vagy korlátozást megszegő járművet.
+21. § A felügyelő a helyi közúton jogosult megállítani, illetve feltartóztatni a köztisztasági szabályokat, továbbá a közúti közlekedésről szóló 1/1975. (II. 5.) KpM–BM együttes rendelet 40–41. §-ában, valamint más megállásra, várakozásra vagy táblával jelzett behajtási tilalomra vagy korlátozásra vonatkozó szabályokat megszegő járműveket.
