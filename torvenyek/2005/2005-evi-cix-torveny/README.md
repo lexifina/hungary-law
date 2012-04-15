@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-109-00-00
 | 2011-01-01 | 2010. évi CLII. törvény | 2005-109-00-00.7 |
 | 2012-01-01 | 2011. évi CLXVI. törvény | 2005-109-00-00.8 |
 | 2012-01-08 | 2011. évi CLXVI. törvény | 2005-109-00-00.9 |
+| 2012-04-15 | 2012. évi XXXI. törvény | 2005-109-00-00.10 |
