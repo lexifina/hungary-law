@@ -52,6 +52,8 @@
 
 25. széleróziónak kitett terület: kiemelt térségi és megyei területrendezési tervekben megállapított övezet, amelyben a szélerózió káros hatásával szemben kevésbé ellenálló fizikai talajféleségekkel (különösen a homok, homokos vályog, tőzeg, kotu) jellemezhető területek találhatók,
 
+25a. szén-dioxid-szállítóvezeték: a szén-dioxidnak a tárolóhelyre történő eljuttatását lehetővé tevő csővezeték, beleértve a kapcsolódó nyomásfokozó állomásokat is,
+
 26. távvezeték felhasítási pontja: egy meglévő átviteli hálózati távvezeték azon pontja, ahová egy új átviteli hálózati távvezetékszakasz olyan módon kapcsolódik, hogy a meglévő távvezetéki kapcsolatot megbontja és annak két eredeti végpontja között a közvetlen villamos kapcsolat megváltozik,
 
 27. települési terület: a település belterülete, valamint a beépítésre szánt területek összessége,
