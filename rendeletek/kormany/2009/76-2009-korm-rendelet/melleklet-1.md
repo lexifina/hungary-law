@@ -1,4 +1,4 @@
-## 7. §[^24] E rendeletnek az építési beruházások egyszerűsítése érdekében egyes kormányrendeletek módosításáról szóló 228/2010. (VIII. 13.) Korm. rendelet (a továbbiakban: Mkr.) 4. §-ával megállapított 1. § (1) bekezdés e) pontját, 3. § (4) bekezdés d) pont da) alpontját, 4. § (3) bekezdését, valamint 5. § (1) bekezdés d) pontját az Mkr. hatálybalépését követően[^25] indult vagy megismételt eljárásokban kell alkalmazni.
+## 8. §[^26] E rendelet 1. § (1) bekezdése a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv 4. cikk (1) bekezdésének való megfelelést szolgálja.
 
 1. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez
 
@@ -32,7 +32,7 @@ a) A kérelemben szereplő javaslatok területrendezési szempontú elemzése so
 
 – az érintett települések rendezésére, térbeli fejlődési lehetőségeikre.
 
-b)[^26] A kérelemben szereplő javaslatok környezeti és környezet-egészségügyi szempontú elemzése során vizsgálni kell azok hatását:
+b)[^27] A kérelemben szereplő javaslatok környezeti és környezet-egészségügyi szempontú elemzése során vizsgálni kell azok hatását:
 
 – a levegőre (levegőminőség, porszennyezés, zaj- és rezgésszint);
 
@@ -90,6 +90,5 @@ d) A kérelemben szereplő javaslatok gazdasági szempontú elemzése során viz
 
 e) A kérelem rajzi melléklete(i) a vonatkozó területrendezési terv(ek) hitelesített másolatának, illetőleg a digitális adatbázisának felhasználásával készítendő(k) el.
 
-[^24]: A 7. § a 228/2010. (VIII. 13.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
-[^25]: A hatálybalépés napja: 2010. augusztus 28.
-[^26]: Az 1. számú melléklet II. b) pontja a 197/2011. (IX. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^26]: A 8. §-t a 75/2012. (IV. 13.) Korm. rendelet 2. §-a iktatta be.
+[^27]: Az 1. számú melléklet II. b) pontja a 197/2011. (IX. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.

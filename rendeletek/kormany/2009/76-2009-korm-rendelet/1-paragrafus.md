@@ -24,7 +24,7 @@ dc) a Budapesti Agglomeráció területrendezési tervéről szóló törvény h
 
 (a továbbiakban együtt: beépítésre szánt terület kivételes kijelölése);
 
-e)[^3] az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, de más rendelkezéseinek megfelelő, az energiaellátás biztonságának biztosításához szükséges, atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, továbbá nemzetközi és hazai szénhidrogén szállítóvezeték elemének minősülő műszaki infrastruktúra-hálózat elemei és egyéb építmény területi elhelyezéséhez (a továbbiakban: országos jelentőségű elem beillesztése);
+e)[^3] az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, de más rendelkezéseinek megfelelő, az energiaellátás biztonságának biztosításához szükséges, atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, továbbá nemzetközi és hazai szénhidrogén és szén-dioxid szállítóvezetékek elemének minősülő műszaki infrastruktúra-hálózat elemei és egyéb építmény területi elhelyezéséhez (a továbbiakban: országos jelentőségű elem beillesztése);
 
 f)[^4] a Budapesti Agglomeráció területrendezési tervéről szóló törvény hatálya alá tartozó településen a területcseréhez (a továbbiakban: területcsere).
 
@@ -42,7 +42,7 @@ d) az a földgázellátásról szóló törvény szerinti szállítóvezeték ki
 
 [^1]: Az 1. § (1) bekezdés c) pontja a 249/2009. (XI. 13.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés d) pontja a 197/2011. (IX. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (1) bekezdés e) pontját a 249/2009. (XI. 13.) Korm. rendelet 1. §-a iktatta be, szövege a 228/2010. (VIII. 13.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés e) pontját a 249/2009. (XI. 13.) Korm. rendelet 1. §-a iktatta be, szövege a 228/2010. (VIII. 13.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 75/2012. (IV. 13.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^4]: Az 1. § (1) bekezdés f) pontját a 197/2011. (IX. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^5]: Az 1. § (2) bekezdését a 249/2009. (XI. 13.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte, újonnan a 197/2011. (IX. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^6]: Az 1. § (3) bekezdését a 197/2011. (IX. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-2. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez[^27]
+2. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez[^28]
 
 A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
@@ -52,4 +52,4 @@ A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
 | 11. | Országos jelentőségű elem beillesztése esetén. | Az országos jelentőségű elem beillesztése esetén a védelmi kockázat felmérése. | Alkotmányvédelmi Hivatal |
 
-[^27]: A 2. számú melléklet a 197/2011. (IX. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^28]: A 2. számú melléklet a 197/2011. (IX. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
