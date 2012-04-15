@@ -1,0 +1,1 @@
+## „(5) A külföldre utazó személyek (2) és (4) bekezdésben említett védőoltásait a megyei népegészségügyi szakigazgatási szervek által működtetett oltóhelyek, az OEK nemzetközi oltóhelye és egyéb, az országos tisztifőorvos által a nemzetközi utazásokkal kapcsolatos védőoltások végzésére feljogosított oltóhelyek végzik.”

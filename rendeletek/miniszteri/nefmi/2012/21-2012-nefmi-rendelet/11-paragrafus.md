@@ -1,0 +1,1 @@
+## „c) az OEK értékelése alapján figyelemmel kíséri a hazai védőoltási tevékenységet, elkészíti a hazai éves oltóanyagtervet és javaslatot tesz az egészségügyért felelős miniszter számára új védőoltások bevezetésére.”

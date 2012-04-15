@@ -1,0 +1,1 @@
+## „(5) Nem engedélyezhető radioaktív anyagok szándékos hozzáadása élelmiszerekhez, gyermekjátékokhoz, ékszerekhez és kozmetikumokhoz, továbbá nem engedélyezhető szándékosan hozzáadott radioaktív anyagot tartalmazó élelmiszerek, gyermekjátékok, ékszerek és kozmetikumok behozatala és kivitele.”
