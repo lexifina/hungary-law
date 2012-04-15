@@ -12,34 +12,34 @@
 
 A pénzbírságot kiszabó jogerős szabálysértési határozat végrehajtásának átadására az alábbi szabálysértések esetén kerülhet sor:
 
-Az emberi méltóság, a személyi szabadság és a közrend elleni szabálysértések:
+1. Rendzavarás (Szabs. tv. 169. §),
 
-1. Polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel kapcsolatos szabálysértés (Sztv. 140. §),
+2. Garázdaság (Szabs. tv. 170. §),
 
-2. Lőfegyverrel kapcsolatos szabálysértés (Sztv. 141. §),
+3. Tiltott kéjelgés (Szabs. tv. 172. §),
 
-3. Rendzavarás (Sztv. 142. §),
+4. Veszélyes fenyegetés (Szabs. tv. 173. §),
 
-4. Garázdaság (Sztv. 142/A. §),
+5. Járművezetés az eltiltás tartama alatt (Szabs. tv. 176. §),
 
-5. Tiltott kéjelgés (Sztv. 143. §),
+6. Lopással vagy csalással elkövetett tulajdon elleni szabálysértés [Szabs tv. 177. § (1) bekezdés a) és b) pont],
 
-6. Szexuális szolgáltatásra való felhívás tilalma (Sztv. 144. §),
+7. Jogosulatlan vadászat (Szabs. tv. 178. §),
 
-7. A szexuális szolgáltatás felkínálásának, hirdetésének tilalma (Sztv. 145. §),
+8. Polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel kapcsolatos szabálysértés (Szabs. tv. 182. §),
 
-8. Természetvédelmi szabálysértés (Sztv. 147. §),
+9. Lőfegyverrel kapcsolatos szabálysértés (Szabs. tv. 183. §),
 
-9. Környezetvédelmi szabálysértés (Sztv. 148. §),
+10. Szexuális szolgáltatásra való felhívás tilalma (Szabs. tv. 184. §),
 
-10. Jogosulatlan vadászat (Sztv. 149. §),
+11. Természetvédelmi szabálysértés (Szabs. tv 187. §),
 
-11. Veszélyes fenyegetés (Sztv. 151. §),
+12. Kábítószer-rendészeti szabálysértés (Szabs. tv. 199. §),
 
-12. Járművezetés az eltiltás tartama alatt (Sztv. 156/A. §),
+13. A Szabs. tv. XXVII. Fejezet alá tartozó szabálysértések,
 
-Tulajdon elleni szabálysértések:
+14. Közúti közlekedési szabályok kisebb fokú megsértése (Szabs. tv. 224. §),
 
-13. Lopással vagy csalással elkövetett tulajdon elleni szabálysértés [Sztv. 157. § (1) bekezdés a) és b) pont],
+15. Áru hamis megjelölése (Szabs. tv. 231. §),
 
-14. Az egyes szabálysértésekről szóló kormányrendeletben meghatározott egyes szabálysértési tényállások esetében.
+16. Vízszennyezés (Szabs. tv. 245. §)
