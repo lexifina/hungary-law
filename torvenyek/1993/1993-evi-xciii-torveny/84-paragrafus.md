@@ -22,7 +22,7 @@ j) a munkaeszköz és egyéni védőeszköz működését, használatát felfüg
 
 k) a munkáltatót arra kötelezni, hogy az éjszakai munkavégzés keretében foglalkoztatott munkavállalói átlagos statisztikai létszámát, munkarendjét, az éjszakai munkavégzés körülményeire vonatkozó – a határozatban megjelölt egyéb – információkat, valamint a közölt adatokban, tényekben bekövetkező változást időszakonként bejelentse;
 
-l) a szabálysértésre vonatkozó külön jogszabályok szerint eljárni;
+l)
 
 m) a munkahelyen tartózkodó személytől az ellenőrzéshez szükséges felvilágosítást kérni, valamint az ilyen személyt személyi azonossága igazolására felhívni;
 
