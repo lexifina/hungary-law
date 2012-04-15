@@ -10,7 +10,7 @@ c) akinek a beutazása és a tartózkodása a nemzetbiztonságot, a közbiztons�
 
 d) aki a magyar állam által számára megtérítési kötelezettséggel megelőlegezett költséget nem térítette vissza;
 
-e) aki a kiszabott helyszíni bírságot, szabálysértési bírságot az előírt határidőig nem fizette meg, illetve annak behajtására nincs lehetőség vagy sikertelen volt.
+e) aki a kiszabott helyszíni bírságot, szabálysértési bírságot az előírt határidőig nem fizette meg, illetve annak végrehajtására nincs lehetőség.
 
 (2) Az idegenrendészeti hatóság – az e törvényben meghatározott kivétellel – idegenrendészeti kiutasítást rendel el azzal a harmadik országbeli állampolgárral szemben,
 
