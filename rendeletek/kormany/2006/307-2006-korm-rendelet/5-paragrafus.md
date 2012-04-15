@@ -24,7 +24,7 @@ b)[^22] országos és megyei szakmai ellenőrzést végez [Kt. 99. §-ának (3) 
 
 c)[^23] közreműködik a külön jogszabályokban meghatározott hatósági ellenőrzésekben.
 
-d)[^24] szabálysértési hatóságként jár el [az egyes szabálysértésekről szóló 218/1999. (XII. 28.) Korm. rendelet 142. § (4) bekezdés a) pont].
+d)[^24]
 
 (3)[^25] A Hivatal a miniszter intézkedésének megfelelően a nevelési-oktatási intézményekben szakmai ellenőrzést szervez, pedagógiai-szakmai mérést, értékelést, elemzést készít, amennyiben a fenntartó a Minisztérium felkérésére ezeket nem végezte el.
 
@@ -36,6 +36,6 @@ d)[^24] szabálysértési hatóságként jár el [az egyes szabálysértésekrő
 [^21]: Az 5. § (2) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
 [^22]: Az 5. § (2) bekezdés b) pontja a 325/2010. (XII. 27.) Korm. rendelet 9. § e) pontja szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 [^23]: Az 5. § (2) bekezdés c) pontja a 325/2010. (XII. 27.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
-[^24]: Az 5. § (2) bekezdés d) pontja a 325/2010. (XII. 27.) Korm. rendelet 9. § f) pontja szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^24]: Az 5. § (2) bekezdés d) pontját a 63/2012. (IV. 2.) Korm. rendelet 6. § f) pontja hatályon kívül helyezte.
 [^25]: Az 5. § (3) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
 [^26]: Az 5. § (4) bekezdését a 198/2008. (VIII. 4.) Korm. rendelet 20. § (2) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.

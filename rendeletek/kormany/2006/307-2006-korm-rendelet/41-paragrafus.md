@@ -2,9 +2,9 @@
 
 41. §[^71] (1)[^72] A Kormány a fővárosi és megyei kormányhivatalt jelöli ki a közoktatási feladatkörében eljáró oktatási hivatal Kt. 95/A. § (2) bekezdés a) pontjában meghatározott alábbi feladatainak ellátására
 
-a) hatósági ellenőrzés [Kt. 95/A. § (4) bekezdés];
+a) hatósági ellenőrzés [Kt. 95/A. § (4) bekezdés].
 
-b) szabálysértési hatósági jogkör gyakorlása [Kt. 95/A. § (5) bekezdés].
+b)[^73]
 
 (2) A fővárosi és megyei kormányhivatal
 
@@ -15,3 +15,4 @@ b) ellátja a Hivatal által megküldött adatok, vonatkozó szakmai dokumentumo
 [^70]: A 40. §-t a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont bd) alpontja hatályon kívül helyezte, újonnan a 325/2010. (XII. 27.) Korm. rendelet 6. §-a iktatta be. Ez utóbbi módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 [^71]: A 41. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 207. pontja hatályon kívül helyezte. A 41. §-t újonnan a 325/2010. (XII. 27.) Korm. rendelet 7. §-a iktatta be. Ez utóbbi módosító rendelet 10. § (1) bekezdése alapján a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 [^72]: Alkalmazására lásd a 325/2010. (XII. 27.) Korm. rendelet 11. §-át.
+[^73]: A 41. § (1) bekezdés b) pontját a 63/2012. (IV. 2.) Korm. rendelet 6. § f) pontja hatályon kívül helyezte.
