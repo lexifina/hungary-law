@@ -1,5 +1,7 @@
-4. § (1) Nem folytathat szakmagyakorlási tevékenységet a tűzvédelmi dokumentáció engedélyezésében vagy az annak alapján megvalósítandó építmény, berendezés kivitelezésében és annak használatbavétele során hatósági feladatot ellátó személy.
+4. §[^6] (1) Nem folytathat tűzvédelmi tervezői tevékenységet a tűzvédelmi dokumentáció, valamint a beépített tűzjelző és tűzoltó berendezés tervdokumentációjának engedélyezésében, szakhatósági bírálatában vagy az annak alapján megvalósítandó építmény, berendezés kivitelezésében és annak használatbavétele során hatósági feladatot ellátó személy.
 
-(2) A szakmagyakorlási tevékenységek körét a 2. melléklet tartalmazza.
+(2) A tűzvédelmi tervezői tevékenységek körét a 2. melléklet tartalmazza.
 
-(3) A szakmagyakorlónak az általa készített terveket, iratokat és számításokat, a tervezői nyilatkozatot alá kell írnia, és ezzel azonos helyen fel kell tüntetnie szakképesítését, értesítési címét (lakcím, székhely, telephely), valamint a tervezői névjegyzékben szereplő nyilvántartási számát. Az építési (létesítési, módosítási) engedély iránti kérelem mellékletét képező, valamint a kiviteli tervdokumentációban szereplő tervezői nyilatkozaton a tervező szakképesítését az oklevélben szereplő megnevezéssel azonos módon, rövidítés nélkül kell feltüntetni.
+(3) A beépített tűzjelző vagy beépített tűzoltó berendezés tervezőnek az általa készített terveket, iratokat és számításokat, a tervezői nyilatkozatot alá kell írnia, és ezzel azonos helyen fel kell tüntetnie szakképesítését, értesítési címét, valamint a tervezői névjegyzékben szereplő nyilvántartási számát. A tűzvédelmi tervezőnek, szakértőnek a jogosultságát igazoló azonosító számmal és aláírásával kell ellátnia az általa készített tűzvédelmi dokumentációt.
+
+[^6]: A 4. § a 74/2012. (IV. 13.) Korm. rendelet 21. §-ával megállapított szöveg.

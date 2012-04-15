@@ -2,19 +2,23 @@
 
 ## A jogosultsági követelmények két főrészből állnak: általános és különös követelmények.
 
-## Általános követelmények
+## Az általános rész a tűzvédelmi tervezői tevékenység közös ismeretanyagát tartalmazza.
 
-## A vizsgázó ismerje:
+## A különös rész külön tartalmazza az építésügyi tűzvédelmi tervezőre, a beépített tűzjelző vagy tűzoltó berendezés tervezőre vonatkozó speciális ismereteket.
+
+## 1. Általános követelmények
+
+## 1. A vizsgázó ismerje:
 
 ## 1. a jogi környezet általános felépítését (jogszabályi hierarchia);
 
 ## 2. a kötelmi jogon belül a szerződésekre vonatkozó általános szabályokat (tartalmi és formai követelmények, érvényesség);
 
-## 3. a vállalkozási alapismereteket és az adózásra vonatkozó általános követelményeket, előírásokat;
+## 3. vállalkozási alapismereteket és az adózásra vonatkozó általános követelményeket, előírásokat;
 
 ## 4. a munkavállaló, és munkáltató alapjogait és kötelezettségeit;
 
-## 5. a közigazgatási hatósági eljárás és szolgáltatás, valamint a tűzvédelmi hatósági, szakhatósági eljárások általános szabályait (első fokú eljárás megindítása, kérelem és mellékletei, tényállás tisztázása, egyes szakmagyakorlási tevékenységek közötti kapcsolatrendszer, határozat tartalma és közlése, jogorvoslati lehetőségek, ügyfél fogalma);
+## 5. a közigazgatási hatósági eljárás és szolgáltatás, valamint a tűzvédelmi hatósági, szakhatósági eljárások általános szabályait (az első fokú eljárás megindítása, kérelem és mellékletei, a tényállás tisztázása, az egyes szakmagyakorlási tevékenységek közötti kapcsolatrendszer, a határozat tartalma és közlése, jogorvoslati lehetőségek, ügyfél fogalma);
 
 ## 6.
 
@@ -24,7 +28,7 @@
 
 ## 6.3. a tűzmegelőzési feladatokat,
 
-## 6.4. a magánszemélyek, jogi személyek, valamint magán- és jogi személyek jogi személyiséggel nem rendelkező szervezeteinek tűzvédelemmel és műszaki mentéssel kapcsolatos feladatait;
+## 6.4. a magánszemélyek, a jogi személyek, valamint a magán- és jogi személyek jogi személyiséggel nem rendelkező szervezeteinek tűzvédelemmel és műszaki mentéssel kapcsolatos feladatait;
 
 ## 7.
 
@@ -36,11 +40,11 @@
 
 ## 7.4. az építmények tűzszakaszolási elveit,
 
-## 7.5. az építmények kiürítésére vonatkozó követelményeket, számítási elveket,
+## 7.5. az építmények kiürítésére vonatkozó követelményeket, számítási elveit,
 
-## 7.6. a tűzjelzés és az épületben tartózkodók riasztási rendszerének kialakítását,
+## 7.6. tűzjelzés és az épületben tartózkodók riasztási rendszerének kialakítását,
 
-## 7.7. az építmények elektromos, villámvédelmi és gépészeti rendszerei tűzvédelmi követelményeit, azok összefüggéseit,
+## 7.7. építmények elektromos, villámvédelmi és gépészeti rendszerei tűzvédelmi követelményeit, azok összefüggéseit,
 
 ## 7.8. az építmény használatára vonatkozó általános tűzvédelmi szabályokat;
 
@@ -50,104 +54,154 @@
 
 ## 10. a kötelező alkalmassági időre vonatkozó előírásokat;
 
-## 11. a megfelelőség igazolására, a megfelelőségi tanúsítványra és megfelelőségi nyilatkozatra, továbbá a CE megfelelőségi jelölés alkalmazására vonatkozó előírásokat;
+## 11. a megfelelőség igazolására, megfelelőségi tanúsítványra és megfelelőségi nyilatkozatra, továbbá a CE megfelelőségi jelölés alkalmazására vonatkozó előírásokat;
 
 ## 12. a szabványokra vonatkozó alapvető fogalmakat, a szabványok alkalmazására vonatkozó általános szabályokat, a szabványtípusokat.
 
-## Kapcsolódó jogszabályok:
+## 2. Kapcsolódó jogszabályok:
 
 ## A vizsgázótól számon kérhető követelményekre vonatkozó jogszabályok, jogszabályrészek, szabványok és szabályzatok a szakmai kamarák honlapján találhatók. A listát a szakmai kamarák évente aktualizálják a jogszabályok és szabványok változásainak megfelelően.
 
-## Különös követelmények
+## 2. Különös követelmények
 
-## A tűzvédelmi tervező ismerje a szakterületén
+## 1. Az építésügyi tűzvédelmi tervező ismerje a szakterületén
 
-## a) az Étv. szerkezetét;
+## a) az Étv.
 
-## b) az általános fogalmakat;
+## aa) szerkezetét,
 
-## c) az építményekkel szemben támasztott általános követelményeket;
+## ab) általános fogalmait,
 
-## d) az építésügyi hatósági engedélyezésre vonatkozó előírásokat;
+## ac) építményekkel szemben támasztott általános követelményeit,
 
-## e) az építésfelügyeleti ellenőrzésre vonatkozó általános szabályokat;
+## ad) az építésügyi hatósági engedélyezésre vonatkozó előírásait,
 
-## f) az építésügyi hatóság szervezeti rendszerét (ideértve a sajátos építményfajtákat és a műemlékvédelmet is);
+## ae) az építésfelügyeleti ellenőrzésre vonatkozó általános szabályait;
 
-## g) a különleges szabályozás alá eső – így különösen az örökségi (műemléki) védelem alatt álló – épületekkel és építményekkel kapcsolatos jogi-szabályozási környezetet;
+## b) az építésügyi hatóság szervezeti rendszerét (ideértve a sajátos építményfajtákat és a műemlékvédelmet is);
 
-## h) a tűzvédelmi tervezői jogosultság feltételrendszerét;
+## c) a különleges szabályozás alá eső – így különösen az örökségi (műemléki) védelem alatt álló – épületekkel és építményekkel kapcsolatos jogi-szabályozási környezetet;
 
-## i) a tervezői feladatait, a felelősségi körét, a jogait és kötelezettségeit;
+## d) a tűzvédelmi tervezői jogosultság feltételrendszerét;
 
-## j) az összeférhetetlenségi és az etikai-fegyelmi szabályokat;
+## e) tervezői feladatait, felelősségi körét, jogait és kötelezettségeit;
 
-## k) a tűzvédelmi tervezésre vonatkozó előírásokat (jogszabályok, szabványok, segédletek, műszaki specifikációk);
+## f) az összeférhetetlenségi és etikai-fegyelmi szabályokat;
 
-## l) a tűzvédelmi tervek és a kivitelezési tervek tartalmi követelményeit;
+## g) a tűzvédelmi tervezésre vonatkozó előírásokat (jogszabályok, szabványok, segédletek, műszaki specifikációk);
 
-## m) az ajánlati dokumentáció tartalmi követelményeit;
+## h) a tűzvédelmi tervek és kivitelezési tervek tartalmi követelményeit;
 
-## n) a kamarai szabályzatokat.
+## i) az ajánlati dokumentáció tartalmi követelményeit;
 
-## Kapcsolódó jogszabályok:
+## j) a kamarai szabályzatokat.
 
-## A vizsgázótól számon kérhető követelményekre vonatkozó – a miniszterrel egyeztetett – jogszabályok, jogszabályrészek, szabványok és segédanyagok jegyzéke a szakmai kamarák honlapján találhatók. A listát a szakmai kamarák évente aktualizálják a jogszabályok és szabványok változásainak megfelelően.
+## 2. A beépített tűzjelző vagy beépített tűzoltó berendezés tervező ismerje a szakterületén
 
-2. melléklet a 375/2011. (XII. 31.) Korm. rendelethez
+## a) a tervezői jogosultság feltételrendszerét;
 
-I. A MÉRNÖKI KAMARÁK HATÁSKÖRÉBE TARTOZÓ TŰZVÉDELMI SZAKTERÜLET ÉS A HOZZÁ TARTOZÓ MŰSZAKI TERVEZÉSI TEVÉKENYSÉG
+## b) feladatait, felelősségi körét, jogait és kötelezettségeit;
 
-Tűzvédelmi tervezői szakterület (betűjele: TUÉ)
+## c) az összeférhetetlenségi és fegyelmi szabályokat;
 
-a) az építmények tűzvédelmi koncepciójának átfogó tervezése;
+## d) a tevékenységre vonatkozó előírásokat (jogszabályok, szabványok, segédletek, műszaki specifikációk);
 
-b) az építmények tényleges, illetve tervezett tűzállósági fokozatának megállapítása;
+## e) a létesítési engedélyezési eljáráshoz és kivitelezéshez szükséges dokumentáció tartalmi követelményeit;
 
-c) az épületek, építmények tűzszakaszolási rendszerének tervezése;
+## f) az ajánlati dokumentáció tartalmi követelményeit;
 
-d) az építmények tűzgátló szerkezeteinek tervezése;
+## g) a kamarai szabályzatokat.
 
-e) az építmények telepítési-, tűztávolságának tervezése;
+## 3. Kapcsolódó jogszabályok:
 
-f) az építmények tűzveszélyességi osztályba sorolásának megállapítása;
+## A vizsgázótól számon kérhető követelményekre vonatkozó jogszabályok, jogszabályrészek, szabványok és segédanyagok jegyzéke a szakmai kamarák honlapján találhatók. A listát a szakmai kamarák évente aktualizálják a jogszabályok és szabványok változásainak megfelelően.
 
-g) az építmények tűzterhelésének, tűzidő tartamának tervezése;
+2. melléklet a 375/2011. (XII. 31.) Korm. rendelethez[^8]
 
-h) a tűzjelzés és az épületben tartózkodók riasztási rendszerének tervezése;
+I. A MÉRNÖKI KAMARÁK HATÁSKÖRÉBE TARTOZÓ TŰZVÉDELMI SZAKTERÜLETEK
 
-i) az építmények kiürítésének, kiürítési útvonalainak tervezése;
+ÉS A HOZZÁJUK TARTOZÓ MŰSZAKI TERVEZÉSI TEVÉKENYSÉG
 
-j) a hasadó, illetve hasadó-nyíló felületek tervezése;
+1. Építésügyi tűzvédelmi tervezői szakterület (betűjele: TUÉ)
 
-k) az építmények elektromos, villámvédelmi és gépészeti rendszerei tűzvédelmi követelményeinek meghatározása új és meglévő épületeknél;
+a) építmények tűzvédelmi koncepciójának átfogó tervezése;
 
-l) az építmények tűzoltásának, tűzoltási feltételeinek tervezése.
+b) építmények tényleges, illetve tervezett tűzállósági fokozatának megállapítása;
 
-II. AZ ÉPÍTÉSZ KAMARÁK HATÁSKÖRÉBE TARTOZÓ TŰZVÉDELMI SZAKTERÜLET ÉS A HOZZÁ TARTOZÓ MŰSZAKI TERVEZÉSI TEVÉKENYSÉG
+c) épületek, építmények tűzszakaszolási rendszerének tervezése;
 
-Tűzvédelmi tervezői szakterület (betűjele: TUÉ)
+d) építmények tűzgátló szerkezeteinek tervezése;
 
-a) az építmények tűzvédelmi koncepciójának átfogó tervezése;
+e) építmények telepítési-, tűztávolságának tervezése;
 
-b) az építmények tényleges, illetve tervezett tűzállósági fokozatának megállapítása;
+f) építmények tűzveszélyességi osztályba sorolásának megállapítása;
 
-c) az épületek, építmények tűzszakaszolási rendszerének tervezése;
+g) építmények tűzterhelésének, tűzidőtartamának tervezése;
 
-d) az építmények tűzgátló szerkezeteinek tervezése;
+h) tűzjelzés és az épületben tartózkodók riasztási rendszerének tervezése;
 
-e) az építmények telepítési-, tűztávolságának tervezése;
+i) építmények kiürítésének, kiürítési útvonalainak tervezése;
 
-f) az építmények tűzveszélyességi osztályba sorolásának megállapítása;
+j) hasadó, illetve hasadó-nyíló felületek tervezése;
 
-g) az építmények tűzterhelésének, tűzidő tartamának tervezése;
+k) építmények elektromos, villámvédelmi és gépészeti rendszerei tűzvédelmi követelményeinek meghatározása új és meglévő épületeknél;
 
-h) a tűzjelzés és az épületben tartózkodók riasztási rendszerének tervezése;
+l) építmények tűzoltásának tűzoltási feltételeinek tervezése.
 
-i) az építmények kiürítésének, kiürítési útvonalainak tervezése;
+2. Beépített tűzjelző berendezés tervezői szakterület (betűjele: TUJ)
 
-j) a hasadó, illetve hasadó-nyíló felületek tervezése;
+a) rendszertervezési követelmények megállapítása;
 
-k) az építmények elektromos, villámvédelmi és gépészeti rendszerei tűzvédelmi követelményeinek meghatározása új és meglévő épületeknél;
+b) jelzési, riasztási zónák kiosztása;
 
-l) az építmények tűzoltásának, tűzoltási feltételeinek tervezése.
+c) a tűzjelző rendszer elemeinek kiosztása, elhelyezése;
+
+d) tűz- és hibajelzések fogadásának tervezése;
+
+e) távkezelő és/vagy távkijelző egységek, átjelzések tervezése;
+
+f) vezérlések, kapcsolódó rendszerekhez történő csatlakozás tervezése.
+
+3. Beépített tűzoltó berendezés tervezői szakterület (betűjele: TUO)
+
+a) rendszertervezési követelmények megállapítása;
+
+b) a védett szakaszok besorolásának megállapítása;
+
+c) vezérlések, kapcsolódó rendszerekhez történő csatlakozás tervezése;
+
+d) oltás- és hibajelzések fogadásának tervezése;
+
+e) méretezési eljárás készítése.
+
+II. AZ ÉPÍTÉSZ KAMARÁK HATÁSKÖRÉBE TARTOZÓ TŰZVÉDELMI SZAKTERÜLET
+
+ÉS A HOZZÁ TARTOZÓ MŰSZAKI TERVEZÉSI TEVÉKENYSÉG
+
+1. Építésügyi tűzvédelmi tervezői szakterület (betűjele: TUÉ)
+
+a) építmények tűzvédelmi koncepciójának átfogó tervezése;
+
+b) építmények tényleges, illetve tervezett tűzállósági fokozatának megállapítása;
+
+c) épületek, építmények tűzszakaszolási rendszerének tervezése;
+
+d) építmények tűzgátló szerkezeteinek tervezése;
+
+e) építmények telepítési-, tűztávolságának tervezése;
+
+f) építmények tűzveszélyességi osztályba sorolásának megállapítása;
+
+g) építmények tűzterhelésének, tűzidőtartamának tervezése;
+
+h) tűzjelzés és az épületben tartózkodók riasztási rendszerének tervezése;
+
+i) építmények kiürítésének, kiürítési útvonalainak tervezése;
+
+j) hasadó, illetve hasadó-nyíló felületek tervezése;
+
+k) építmények elektromos, villámvédelmi és gépészeti rendszerei tűzvédelmi követelményeinek meghatározása új és meglévő épületeknél;
+
+l) építmények tűzoltásának tűzoltási feltételeinek tervezése.
+
+[^8]: A 2. melléklet a 74/2012. (IV. 13.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
