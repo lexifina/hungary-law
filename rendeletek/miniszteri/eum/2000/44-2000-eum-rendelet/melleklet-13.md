@@ -1,99 +1,93 @@
 ## Mérgezési eset bejelentőlap
 
-| Mérgezési eset bejelentőlap |
+## Mérgezési eset bejelentőlap
 
-| 1. A mérgezett adatai: |
+## 1. A MÉRGEZETT ADATAI
 
-| Névkód (családnév első, keresztnév első betűje): ………………………………………………………………………… |
+## 1. Névkód*: ...........................................................................................
 
-| Nem: | férfi | nő |
+## 2. Nem*: férfi nő
 
-| Születési év: ………………………………… (kor: ……….) |
+## 3. Születési év*: ............................................................................... (kor: .........................................)
 
-| Foglalkozás: ………………………………………………………………………………………………………………. |
+## 4. Foglalkozás: ..........................................................................................................................................................
 
-| Lakhely: (város: ……………………………… falu: …………………………….. megye: …………………………….) |
+## 5. Lakhely*: település: ...................................................................................... megye:
 
-| 2. A mérgezés |
+## 2. A MÉRGEZÉS
 
-| 1. A mérgezést okozó anyag megnevezése: ……………………………………………………………………………… |
+## 1. A mérgezést okozó anyag*: .......................................................................................................................
 
-| 2. Időpontja: ………………. év …………….. hó ………………………… nap …………. óra ………… ………. perc |
+## 2. Időpontja*: ......................................... év ......................................... hó ................ nap .................óra ............... perc
 
-| 3. Helye: saját lakás, idegen lakás, munkahely, közterület, egyéb: ………………………………………………………. |
+## 3. Helye: saját lakás, idegen lakás, munkahely, közterület, egyéb:
 
-| 4. Jellege: öngyilkosság, véletlen, kriminális, egyéb: ……………………………………………………… |
+## 4. Módja*: szájon át, belélegezve, bőrön keresztül, egyéb:
 
-| 3. Az első észlelés |
+## 5. Jellege*: öngyilkosság, véletlen, abúzus, foglalkozási, egyéb:
 
-| 1. Időpontja: ………………. év …………….. hó ………………………… nap …………. óra ………… ………. perc |
+## 6. A bejelentő neve*:
 
-| 2. Helye: saját lakás, idegen lakás, munkahely, közterület, egyéb: ………………………………………………………. |
+## 7. A bejelentő munkahelye*:
 
-| 3. A mérgezett állapota: eszméletlen, zavart tudat, ép tudat, légzési elégtelenség, keringési elégtelenség, egyéb |
+## 3. ELSŐ ÉSZLELÉS
 
-| ………………………………………………………………………………………………………………………….. |
+## 1. Időpontja: ........................................ év ........................................ hó .................... nap .................. óra ................. perc
 
-| 4. Az ellátás módja: hánytatás, gyomormosás, orvosi szén, hashajtás, mesterséges lélegeztetés, külső szívmasszázs, egyéb: |
+## 2. Helye: saját lakás, idegen lakás, munkahely, közterület, egyéb:
 
-| ………………………………………………………………………………………………………………………….. |
+## 3. A mérgezett állapota: eszméletlen, zavart tudat, ép tudat, légzési elégtelenség, keringési elégtelenség, egyéb:
 
-| 5. Intézkedés: végleges ellátás, további kezelés járóbetegként, kórházi beutalás, egyéb ………………………………... |
+## 4. Az ellátás módja: hánytatás, gyomormosás, orvosi szén, hashajtás, mesterséges lélegeztetés, külső szívmasszázs, egyéb:
 
-| ………………………………………………………………………………………………………………………….. |
+## 5. A mérgezett sorsa*: végleges ellátás, további kezelés járó betegként, kórházi beutalás, meghalt
 
-| Ha a mérgezett meghalt, a halál időpontja: …………… év …………………………. hó ……….. nap ………. óra ………… ………... perc |
+## Halál időpontja: ..................................... év ....................................... hó ................. nap ................. óra ................. perc
 
-| 6. Az első ellátást végző neve: |
+## 6. Az első ellátást végző neve:
 
-| Munkahelye: …………………………………………………………………………………………………………… |
+## Munkahelye: ................................................................................................................
 
-| …………………………… év…………………………… hó ……………… nap |
+## ........................................... év ........................................... hó ............................ nap
 
-|  |  | …………………………… orvos, mentőtiszt aláírása |
+## ...........................................................................
 
-| 4. Kórházi ellátás |
+## orvos, mentőtiszt neve, azonosítója
 
-| 1. A felvétel időpontja: ………………. év …………………………… hó ………… nap …………… óra ……….. perc |
+## 4. KÓRHÁZI ELLÁTÁS
 
-| 2. A mérgezett állapota: eszméletlen, zavart tudat, ép tudat, légzési elégtelenség, keringési elégtelenség, egyéb: ………………………………………………………………………………………………………………………….. |
+## 1. Kórházi esetazonosító szám (kórlapszám)**:
 
-| 3. Ellátás módja: hánytatás, gyomormosás, orvosi szén, hashajtás, mesterséges lélegeztetés, külső szívmasszázs, egyéb: ………………………………………………………………………………………………………………………….. |
+## 2. A felvétel időpontja: .............................. év .......................... hó ................ nap .................. óra ................perc
 
-| 4. Kórisme: ……………………………………………………………………………………………………………….. |
+## 3. A mérgezett állapota: eszméletlen, zavart tudat, ép tudat, légzési elégtelenség, keringési elégtelenség, egyéb:
 
-| 5. Kibocsátás, elhalálozás időpontja: ………… év …………………….. hó ………… nap …………. óra ……….. perc |
+## 4. Ellátás módja: hánytatás, gyomormosás, orvosi szén, hashajtás, mesterséges lélegeztetés, külső szívmasszázs, egyéb:
 
-| 6. A mérgezett sorsa: gyógyult, további orvosi ellenőrzést igényel, maradandó egészség- károsodást szenvedett, meghalt |
+## 5. Kórisme:
 
-| 7. Részletes epikrízis (laborleletekkel, halálos kimenetel esetén kórbonctani leletekkel): |
+## 6. Kibocsátás, elhalálozás időpontja**: .......................év ....................................... hó ............. nap ............ óra ......... perc
 
-| ………………………………………………………………………………………………………………………….. |
+## 7. A mérgezett sorsa**: gyógyult, további orvosi ellenőrzést igényel, maradandó egészség-
 
-| ………………………………………………………………………………………………………………………….. |
+## károsodást szenvedett, saját felelősségére távozott, meghalt
 
-| ………………………………………………………………………………………………………………………….. |
+## 8. Epikrízis:
 
-| ………………………………………………………………………………………………………………………….. |
+## 9. Kórház, osztály megnevezése**:
 
-| ………………………………………………………………………………………………………………………….. |
+## Címe: .....................................................................................................................
 
-| ………………………………………………………………………………………………………………………….. |
+## ................................. év ........................................... hó ........................... nap
 
-| ………………………………………………………………………………………………………………………….. |
+|  | P. H. | ...................................................................................... |
 
-| ………………………………………………………………………………………………………………………….. |
+|  |  | orvos neve, pecsétszáma |
 
-| 8. Kórház, osztály megnevezése: |
+## A *-gal jelölt mezők kitöltése kötelező.
 
-| Címe: …………………………………………………………………………………………………………………... |
+## A **-gal jelölt mezők kitöltése kórházi ellátás esetén kötelező.
 
-| ……………………… év ……………………………… hó ………………… nap |
+13. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^163]
 
-| P. H. |
-
-|  | ………………………………………………….. orvos olvasható aláírása |
-
-13. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^160]
-
-[^160]: A 13. számú melléklet a 33/2004. (IV. 26.) ESZCSM rendelet 11. §-ával megállapított, a 10/2011. (III. 30.) NEFMI rendelet 18. § (2) bekezdése szerint módosított szöveg.
+[^163]: A 13. számú melléklet a 21/2012. (IV. 4.) NEFMI rendelet 41. § (3) bekezdésével megállapított szöveg.

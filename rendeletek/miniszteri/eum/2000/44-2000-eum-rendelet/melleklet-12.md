@@ -1,3 +1,3 @@
-12. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^159]
+12. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^162]
 
-[^159]: A 12. számú melléklet a 33/2004. (IV. 26.) ESZCSM rendelet 13. §-a (1) bekezdésének f) pontja szerint módosított szöveg.
+[^162]: A 12. számú melléklet a 21/2012. (IV. 4.) NEFMI rendelet 41. § (2) bekezdésével megállapított szöveg.

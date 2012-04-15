@@ -38,6 +38,6 @@
 
 | _______ * Vagy rákkeltő. |
 
-5. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^139]
+5. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^142]
 
-[^139]: Az 5. számú melléklet a 38/2008. (X. 3.) EüM rendelet 7. § (4) bekezdésének j) pontja szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
+[^142]: Az 5. számú melléklet a 21/2012. (IV. 4.) NEFMI rendelet 41. § (1) bekezdésével megállapított szöveg.
