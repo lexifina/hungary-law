@@ -4,7 +4,7 @@
 
 ## A jogi felelősség általános alapja
 
-101. § (1) A környezethasználó az e törvényben meghatározott és más jogszabályokban szabályozott módon büntetőjogi, szabálysértési jogi, polgári jogi és közigazgatási jogi felelősséggel tartozik tevékenységének a környezetre gyakorolt hatásaiért.
+101. § (1) A környezethasználó az e törvényben meghatározott és más jogszabályokban szabályozott módon büntetőjogi, polgári jogi és közigazgatási jogi felelősséggel tartozik tevékenységének a környezetre gyakorolt hatásaiért.
 
 (2) A környezethasználó köteles
 
