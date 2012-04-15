@@ -22,16 +22,6 @@
 
 | Országos Korányi TBC és Pulmonológiai Intézet | minisztérium, Országos Szakfelügyeleti Módszertani Központ, Központi Statisztikai Hivatal | a tárgyévet követő március 31. |
 
-| 1207/09 | Kimutatás a bőr- és nemibeteg- gondozóban kezelt szexuális úton terjedő infekciókról (STI) | M | havonkénti/ évenkénti | valamennyi bőr- és nemibeteg- gondozó intézet | megyei bőr- és nemibeteg- gondozó, megyei szakfelügyelő főorvos, fővárosi és megyei kormányhivatal kistérségi (fővárosi kerületi) népegészségügyi intézete, Országos Epidemiológiai Központ | havonkénti: tárgyhót követő hónap 5. nap |
-
-| évenkénti: tárgyévet követő január 31. |
-
-| megyei bőr- és nemibeteg- gondozó, Budapesten: Országos Epidemiológiai Központ | fővárosi és megyei kormány- hivatal népegészség- ügyi szakigazgatási szerve | havonkénti: tárgyhót követő hónap 25. nap |
-
-| évenkénti: tárgyévet követő február 15. |
-
-| Országos Epidemiológiai Központ | minisztérium, Országos Szakfelügyeleti Módszertani Központ, Központi Statisztikai Hivatal | évenkénti: tárgyévet követő év április 30. |
-
 | 1209/04 | Jelentés az addiktológiai betegek gondozásáról | V | évenkénti | valamennyi addiktológiai ellátást végző szolgáltató, tulajdonformától függetlenül | Országos Szakfelügyeleti Módszertani Központ | a tárgyévet követő január 31. |
 
 | Országos Szakfelügyeleti Módszertani Központ | minisztérium, Kábítószerügyi Koordinációs Bizottság, Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ, Központi Statisztikai Hivatal | a tárgyévet követő március 31. |
