@@ -1,4 +1,4 @@
-4. számú melléklet a 180/2007. (VII. 3.) Korm. rendelethez[^8]
+4. számú melléklet a 180/2007. (VII. 3.) Korm. rendelethez[^12]
 
 A Közösségbe érkező és azt elhagyó hulladékszállítmányok számára kijelölt magyar határkirendeltségek
 
@@ -26,4 +26,4 @@ A Közösségbe érkező és azt elhagyó hulladékszállítmányok számára ki
 
 | Budapest-Ferihegy |  | NAV 1. számú Repülőtéri Igazgatóság Budapest XVIII., Ferihegyi Közforgalmú Repülőtér, 1675 Budapest, Pf. 40 Fax: +36-1-296-8761 e-mail: vph12100@vam.gov.hu |
 
-[^8]: A 4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 121. § (4) bekezdésével megállapított szöveg.
+[^12]: A 4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 121. § (4) bekezdésével megállapított szöveg.

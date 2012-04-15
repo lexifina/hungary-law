@@ -12,11 +12,14 @@
 
 (7)[^2] A Főfelügyelőség a hulladék szállítására vonatkozó eljárásáról
 
-a) hulladék behozatala esetén a hasznosítás helye szerinti környezetvédelmi felügyelőséget, a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) Központi Hivatalát, valamint veszélyes hulladék esetén az Országos Katasztrófavédelmi Főigazgatóságot (a továbbiakban: OKF),
+a)[^3] hulladék behozatala esetén a hasznosítás helye szerinti környezetvédelmi felügyelőséget, a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) Központi Hivatalát, valamint veszélyes hulladék esetén a hivatásos katasztrófavédelmi szerv központi szervét,
 
-b) hulladék kivitele esetén a hulladék termelőjének (birtokosának) telephelye szerinti illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, a NAV Központi Hivatalát, valamint veszélyes hulladék esetén az OKF-t,
+b)[^4] hulladék kivitele esetén a hulladék termelőjének (birtokosának) telephelye szerinti illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, a NAV Központi Hivatalát, valamint veszélyes hulladék esetén a hivatásos katasztrófavédelmi szerv központi szervét,
 
-c) hulladéknak az országon történő átszállítása esetén a NAV Központi Hivatalát, valamint veszélyes hulladék esetén az OKF-t értesíti.
+c)[^5] hulladéknak az országon történő átszállítása esetén a NAV Központi Hivatalát, valamint veszélyes hulladék esetén a hivatásos katasztrófavédelmi szerv központi szervét értesíti.
 
 [^1]: Az 1. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 549. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^2]: Az 1. § (7) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 121. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (7) bekezdés a) pontja a 74/2012. (IV. 13.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^4]: Az 1. § (7) bekezdés b) pontja a 74/2012. (IV. 13.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^5]: Az 1. § (7) bekezdés c) pontja a 74/2012. (IV. 13.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.
