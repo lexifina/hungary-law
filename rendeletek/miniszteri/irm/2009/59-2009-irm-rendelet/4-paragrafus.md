@@ -1,1 +1,0 @@
-## 3. § A 2. §-ban meghatározottak alapján teljesített adatszolgáltatás a szolgáltatott adatokon kívül tartalmazza az adatszolgáltatás célját és az átadott adatok jogszerű felhasználására figyelmeztető adatvédelmi záradékot is.
