@@ -42,4 +42,17 @@ j) a továbbszállítás okát.
 
 (5) A (2) bekezdés szerinti esetlap és a (4) bekezdés szerinti mentési adatlap és menetlevél az egészségügyi dokumentáció részét képezi.
 
+(6)[^21] Az OMSZ informatikai rendszere útján naponta szolgáltatja az alábbi adatokat elektronikus jelentés formájában az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Szakmai Információs Rendszerének a megelőző 24 órában sürgősségi ellátás érdekében a mentés keretében történt olyan ellátási eseményekről, amelyek során nem került sor fekvőbeteg-gyógyintézeti átvételre:
+
+a) a beteg születésének éve,
+
+b) az ellátás ideje (év, hó, nap, óra),
+
+c) a beteg neme,
+
+d) a beteg lakó- vagy tartózkodási helye szerinti település neve,
+
+e) az ellátás diagnózisa a BNO10 alapján.
+
 [^20]: A 9. § a 37/2011. (VI. 28.) NEFMI rendelet 6. §-ával megállapított szöveg.
+[^21]: A 9. § (6) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 47. §-a iktatta be.
