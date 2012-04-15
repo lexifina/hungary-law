@@ -36,9 +36,9 @@ Az OAH hatósági eljárásaiban közreműködő szakhatóságok
 
 | 4.5. | Az atomenergia alkalmazása körében a fizikai védelmi rendszer hatósági engedélyezésére irányuló eljárásban. | Annak elbírálása, hogy az atomenergia alkalmazása körében a fizikai védelmi rendszerre vonatkozó rendészeti és személyi szempontú követelmények teljesülnek-e. | a fizikai védelmi rendszer engedélyezése | Országos Rendőr- főkapitányság |
 
-| 5.1. | Az atomenergiáról szóló törvény szerinti Időszakos Biztonsági Jelentés. | A tűzvédelem atomenergia alkalmazásával kapcsolatos sajátos követelményeiről és a hatóságok tevékenysége során azok érvényesítésének módjáról szóló jogszabályban meghatározott, a tűzvédelemre vonatkozó követelmények teljesülésének vizsgálata. | Időszakos Biztonsági Jelentés felülvizsgálata és a feltárt eltérések jóváhagyása | a területileg illetékes hivatásos önkormányzati tűzoltóság |
+| 5.1. | Az atomenergiáról szóló törvény szerinti Időszakos Biztonsági Jelentés. | A tűzvédelem atomenergia alkalmazásával kapcsolatos sajátos követelményeiről és a hatóságok tevékenysége során azok érvényesítésének módjáról szóló jogszabályban meghatározott, a tűzvédelemre vonatkozó követelmények teljesülésének vizsgálata. | Időszakos Biztonsági Jelentés felülvizsgálata és a feltárt eltérések jóváhagyása | területileg illetékes katasztrófavédelmi kirendeltség |
 
-| 5.2. | A nukleáris létesítményekkel összefüggő építmények és épületszerkezetek hatósági engedélyezésére irányuló eljárásban. | A tűzvédelem atomenergia alkalmazásával kapcsolatos sajátos követelményeiről és a hatóságok tevékenysége során azok érvényesítésének módjáról szóló jogszabályban meghatározott, a tűzvédelemre vonatkozó követelmények teljesülésének vizsgálata. | a) építési (bontási) engedély, b) használatba- vételi engedély | a területileg illetékes hivatásos önkormányzati tűzoltóság |
+| 5.2. | A nukleáris létesítményekkel összefüggő építmények és épületszerkezetek hatósági engedélyezésére irányuló eljárásban. | A tűzvédelem atomenergia alkalmazásával kapcsolatos sajátos követelményeiről és a hatóságok tevékenysége során azok érvényesítésének módjáról szóló jogszabályban meghatározott, a tűzvédelemre vonatkozó követelmények teljesülésének vizsgálata. | a) építési (bontási) engedély, b) használatba- vételi engedély | területileg illetékes katasztrófavédelmi kirendeltség |
 
 | 6.1. | Az atomenergiáról szóló törvény szerinti Időszakos Biztonsági Jelentés. | Az Időszakos Biztonsági Jelentés tűz- és katasztrófavédelmi vizsgálata. | Időszakos Biztonsági Jelentés felülvizsgálata és a feltárt eltérések jóváhagyása | Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -49,4 +49,4 @@ Az OAH hatósági eljárásaiban közreműködő szakhatóságok
 | 6.4. | Ha a nukleáris létesítmény telepítése, létesítése termőföldön valósul meg. | Termőföld mennyiségi védelme követelményeinek kérdésében. | létesítési engedély | földügyért felelős miniszter |
 
 [^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet a 190/2011. (IX. 19.) Korm. rendelet 43. §-a, a 246/2011. (XI. 24.) Korm. rendelet 11. §-a, a 304/2011. (XII. 23.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 190/2011. (IX. 19.) Korm. rendelet 43. §-a, a 246/2011. (XI. 24.) Korm. rendelet 11. §-a, a 304/2011. (XII. 23.) Korm. rendelet 45. §-a, a 74/2012. (IV. 13.) Korm. rendelet 7. §-a szerint módosított szöveg.
