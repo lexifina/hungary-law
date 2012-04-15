@@ -34,4 +34,4 @@ e) temetőben a kegyeleti közszolgáltatások feltételeit, a temetési hely me
 
 f) a temetési szolgáltatás, illetőleg a temetőben végzett egyéb vállalkozói tevékenységek ellátásának temetői rendjét;
 
-g) a szabálysértés eseteit és az eljáró önkormányzati szabálysértési hatóságot.
+g)
