@@ -1,1 +1,0 @@
-## 24. § Ha az elkövető panasza, kérelme nem az elzárást foganatosító szerv működésével függ össze, illetve, ha annak elbírálása nem tartozik az elzárást foganatosító szerv hatáskörébe, azt haladéktalanul továbbítani kell annak a szervnek, amelynek az elkövető címezte, vagy amelyik az intézkedésre jogosult.

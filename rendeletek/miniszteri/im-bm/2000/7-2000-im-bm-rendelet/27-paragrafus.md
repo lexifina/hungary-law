@@ -1,1 +1,0 @@
-## Az elkövető jogainak gyakorlása

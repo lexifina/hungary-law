@@ -1,1 +1,0 @@
-A szabálysértésekről szóló 1999. évi LXIX. törvény (a továbbiakban: Sztv.) 167. §-ának (2) bekezdésében foglalt felhatalmazás alapján – a legfőbb ügyésszel egyetértésben – a következőket rendeljük el:
