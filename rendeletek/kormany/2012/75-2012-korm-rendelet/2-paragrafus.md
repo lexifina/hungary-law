@@ -1,0 +1,1 @@
+## 1. § A területrendezési hatósági eljárásokról szóló 76/2009. (IV. 8.) Korm. rendelet (a továbbiakban: R.) 1. § (1) bekezdés e) pontjában a „nemzetközi és hazai szénhidrogén szállítóvezeték” szövegrész helyébe a „nemzetközi és hazai szénhidrogén és szén-dioxid szállítóvezetékek” szöveg lép.

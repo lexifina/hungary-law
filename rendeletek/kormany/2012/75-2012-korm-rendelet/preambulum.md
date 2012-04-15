@@ -1,0 +1,1 @@
+A Kormány az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 31. § b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
