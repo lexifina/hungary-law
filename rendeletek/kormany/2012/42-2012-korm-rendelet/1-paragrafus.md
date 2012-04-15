@@ -1,0 +1,3 @@
+1. § (1) A felnőtt korúak elzárását – a (2) bekezdésben meghatározott kivétellel – az elkövető lakóhelye szerint illetékes büntetés-végrehajtási intézetben kell végrehajtani. A felnőtt korúak elhelyezésére szolgáló büntetés-végrehajtási intézeteket az 1. melléklet határozza meg.
+
+(2) Ha a szabálysértési őrizet beszámítását követően az elzárás végrehajtandó részéből kevesebb mint tizenöt nap van hátra, vagy ha az elkövető lakóhelye szerinti büntetés-végrehajtási intézetben férőhely hiányában nincs lehetőség az elzárásnak az 1. melléklet szerinti büntetés-végrehajtási intézetek valamelyikében történő foganatosítására, az elzárás letöltésére a 2. mellékletben meghatározott büntetés-végrehajtási intézetekben is sor kerülhet.
