@@ -346,7 +346,7 @@ A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében
 
 1.1. a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 17. § (9) bekezdése szerinti kártalanítás,
 
-1.2. önkormányzati hatáskörbe tartozó szabálysértési ügyekben a határozat végrehajtásának mellőzésére irányuló méltányossági kérelem,
+1.2.[^50]
 
 1.3. az állampolgárság megszerzésére irányuló nyilatkozat és kérelem, továbbá az állampolgárságról lemondó nyilatkozat, valamint az állampolgársági bizonyítvány kiadása iránti kérelem,
 
@@ -459,3 +459,4 @@ d) egyéni vállalkozói tevékenység megszűnésének elektronikus bejelentés
 [^47]: Az 1. melléklet V. Az ellenőrzés és a megállapítások dokumentációja 6. pontja a 258/2011. (XII. 7.) Korm. rendelet 40. § (7) bekezdésével megállapított szöveg.
 [^48]: Az 1. melléklet V. Az ellenőrzés és a megállapítások dokumentációja 8. pontja a 258/2011. (XII. 7.) Korm. rendelet 40. § (8) bekezdésével megállapított szöveg.
 [^49]: A 2. melléklet a 212/2011. (X. 14.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^50]: A 2. melléklet 1.2. pontját a 63/2012. (IV. 2.) Korm. rendelet 6. § k) pontja hatályon kívül helyezte.
