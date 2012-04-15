@@ -6,7 +6,7 @@ I. Az ERMAH laboratóriumok vizsgálati irányai és a vizsgált minták
 
 2. Az egyes ERMAH laboratóriumok a következő vizsgálatokat végzik:
 
-a) felsőszintű akkreditált környezeti sugár-egészségügyi laboratórium: összes béta mérés; kálium és trícium meghatározás; gamma-spektrometriai és alfa-spektrometriai vizsgálat; Sr-90 és Cs-137 meghatározása kémiai elválasztással; C-14 meghatározás; radon és leányelemeinek mérése; külső gamma-dózisteljesítmény mérése; továbbá az emberi szervezet radioaktív belső szennyezettségének meghatározása;
+a)[^9] felsőszintű akkreditált környezeti sugár-egészségügyi laboratórium: összes alfa mérés ivó- és ásványvizekből; összes béta mérés; kálium és trícium meghatározás; gamma-spektrometriai és alfa-spektrometriai vizsgálat; Sr-90 és Cs-137 meghatározása kémiai elválasztással; C-14 meghatározás; radon és leányelemeinek mérése; külső gamma-dózisteljesítmény mérése; továbbá az emberi szervezet radioaktív belső szennyezettségének meghatározása;
 
 b) középszintű környezeti sugár-egészségügyi laboratóriumok: összes béta mérés; kálium meghatározás; gammaspektrometriai vizsgálat; Sr-90 és Cs-137 meghatározása kémiai elválasztással; külső gamma-dózisteljesítmény mérése.
 
@@ -23,3 +23,4 @@ b) nyomon követi a lakosság nukleáris veszélyhelyzet utáni sugárterhelés�
 c) meghatározza az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 16/2000. (VI. 8.) EüM rendelet 7. számú melléklete függelékének 12. pontja szerinti kiemelt létesítmények környezetében élő lakosságnak a létesítmény működéséből származó éves sugárterhelését.
 
 [^8]: A 2. számú melléklet a 44/2009. (XII. 18.) EüM rendelet 16. § (2) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A 2. számú melléklet I. pont 2. a) alpontja a 21/2012. (IV. 4.) NEFMI rendelet 43. §-ával megállapított szöveg.
