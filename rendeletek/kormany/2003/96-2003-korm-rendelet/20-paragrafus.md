@@ -4,13 +4,13 @@
 
 (2) Nem kaphat működési engedélyt
 
-a)[^58] az a magánszemély, illetőleg jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, melynek személyesen közreműködő tagját kuruzslás miatt elítélték, vagy akivel szemben egészségügyi tevékenység jogosulatlan végzése miatt szabálysértési büntetést szabtak ki, az ítélet, illetőleg a határozat jogerőre emelkedésétől számított három évig,
+a)[^58] az a magánszemély, illetőleg jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, melynek személyesen közreműködő tagját kuruzslás miatt elítélték, az ítélet, illetőleg a határozat jogerőre emelkedésétől számított három évig,
 
-b)[^59] az a magánszemély, illetőleg jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, melynek személyesen közreműködő tagját kuruzslás miatt elítélték, vagy akivel szemben egészségügyi tevékenység jogosulatlan végzése miatt szabálysértési büntetést szabtak ki, amennyiben az eljárás megindulásakor a szolgáltatás nyújtásához előírt feltételekkel rendelkezett, az ítélet, illetőleg a határozat jogerőre emelkedésétől számított egy évig,
+b)[^59] az a magánszemély, illetőleg jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, melynek személyesen közreműködő tagját kuruzslás miatt elítélték, amennyiben az eljárás megindulásakor a szolgáltatás nyújtásához előírt feltételekkel rendelkezett, az ítélet, illetőleg a határozat jogerőre emelkedésétől számított egy évig,
 
 c)[^60] az a magánszemély vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, melynek egészségügyi szolgáltatásra jogosító működési engedélyét a 19. § (1) bekezdés g) pontja alapján vonták vissza, a határozat jogerőre emelkedésétől számított három évig.
 
 [^57]: A 20. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 45. §-ával megállapított szöveg.
-[^58]: A 20. § (2) bekezdésének a) pontja a 215/2009. (IX. 30.) Korm. rendelet 8. § (2) bekezdésének j) pontja szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^59]: A 20. § (2) bekezdésének új b) pontját a 312/2004. (XI. 17.) Korm. rendelet 9. §-a iktatta a szövegbe, egyidejűleg az eredeti b) pont jelölését c) pontra változtatta. A 20. § (2) bekezdésének b) pontja a 215/2009. (IX. 30.) Korm. rendelet 8. § (2) bekezdésének j) pontja szerint módosíotott szöveg. Ez utóbbi módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^58]: A 20. § (2) bekezdés a) pontja a 215/2009. (IX. 30.) Korm. rendelet 8. § (2) bekezdés j) pontja, a 63/2012. (IV. 2.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^59]: A 20. § (2) bekezdés új b) pontját a 312/2004. (XI. 17.) Korm. rendelet 9. §-a iktatta a szövegbe, egyidejűleg az eredeti b) pont jelölését c) pontra változtatta. A 20. § (2) bekezdés b) pontja a 215/2009. (IX. 30.) Korm. rendelet 8. § (2) bekezdés j) pontja, a 63/2012. (IV. 2.) Korm. rendelet 6. § c) pontja szerint módosíotott szöveg.
 [^60]: A 20. § (2) bekezdésének eredeti b) pontjának jelölését a 312/2004. (XI. 17.) Korm. rendelet 9. §-a c) pontra változtatta.
