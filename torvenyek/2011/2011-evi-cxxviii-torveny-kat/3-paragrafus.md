@@ -76,9 +76,11 @@ b) veszélyes anyaggal kapcsolatos robbanás,
 
 c) mérgező, rákkeltő tulajdonságú veszélyes anyag kibocsátása,
 
-d) oxidáló, tűz- vagy környezetre veszélyes tulajdonságú veszélyes anyag kikerülése legalább 1 m3 mennyiségben,
+d) oxidáló, tűz- vagy környezetre veszélyes tulajdonságú folyadék halmazállapotú veszélyes anyag kikerülése legalább 1000 kg mennyiségben,
 
-e) veszélyes anyagokkal foglalkozó létesítmény leállítása.
+e) egyéb veszélyes anyag kikerülése legalább a felső küszöbérték 0,1%-át elérő mennyiségben,
+
+f) veszélyes anyagokkal foglalkozó létesítmény leállítása.
 
 31. Veszélyes tevékenység: olyan ipari, biológiai (mezőgazdasági), kémiai eljárások felhasználásával végzett tevékenység, amely ellenőrizhetetlenné válása esetén tömeges méretekben veszélyeztetheti, illetve károsíthatja az emberi egészséget, a környezetet, az élet- és vagyonbiztonságot.
 

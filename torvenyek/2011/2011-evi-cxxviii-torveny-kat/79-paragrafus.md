@@ -16,7 +16,7 @@ d) az üzemeltetőnek és a gazdálkodó szervezetnek, ha a tárgyévet megelőz
 
 e) az atomenergiáról szóló 1996. évi CXVI. törvény szerinti nukleáris létesítménynek és radioaktívhulladék-tárolónak.
 
-(3) A katasztrófavédelmi hozzájárulás összege az (1) bekezdés a) pontjában meghatározott üzemeltetők esetében a veszélyes tevékenységgel összefüggésben keletkezett – a jövedéki adó és az energiaadó összegével csökkentett – éves nettó árbevételének 0,1%-a.
+(3) A katasztrófavédelmi hozzájárulás összege az (1) bekezdés a) pontjában meghatározott üzemeltetők esetében a veszélyes tevékenységgel összefüggésben keletkezett – a jövedéki adó és az energiaadó összegével csökkentett – éves nettó árbevételének 0,1%-a. Ha az üzemeltető termék előállításával foglalkozik és a veszélyes anyag a termékkel annak előállítása és tárolása során közvetlenül nem érintkezik, vagy a veszélyes anyag felhasználása nem közvetlenül a termék előállításához szükséges, hozzájárulás-fizetési kötelezettsége nem keletkezik.
 
 (4) A katasztrófavédelmi hozzájárulás összege az (1) bekezdés b) pontjában meghatározott gazdálkodó szervezetek esetében:
 
@@ -34,7 +34,7 @@ a jövedéki adó és az energiaadó összegével csökkentett éves nettó árb
 
 (7) A katasztrófavédelmi hozzájárulás fizetésére kötelezettek kötelesek tevékenységükről külön jogszabályban foglaltak szerint a hivatásos katasztrófavédelmi szerv központi szervének bejelentést tenni.
 
-(8) Amennyiben a katasztrófavédelmi hozzájárulás mértékét az annak fizetésére kötelezett hitelt érdemlően, a hatóság által ellenőrizhető módon bizonyítani nem tudja, úgy a katasztrófavédelmi hozzájárulás összege a teljes tevékenységből származó, a jövedéki adó és az energiaadó összegével csökkentett éves nettó árbevétel 0,1%-a.
+(8) A katasztrófavédelmi hozzájárulás összegét a tárgyévet megelőző év nettó árbevétele alapul vételével kell meghatározni. Amennyiben a katasztrófavédelmi hozzájárulás mértékét az annak fizetésére kötelezett hitelt érdemlően, a hatóság által ellenőrizhető módon bizonyítani nem tudja, úgy a katasztrófavédelmi hozzájárulás összege a teljes tevékenységből származó, a jövedéki adó és az energiaadó összegével csökkentett éves nettó árbevétel 0,1%-a.
 
 (9) Meg nem fizetése esetén a katasztrófavédelmi hozzájárulás adók módjára behajtandó köztartozásnak minősül. A hivatásos katasztrófavédelmi szerv jogosult a fizetési kötelezettség ellenőrizhetősége érdekében az adóhatóságtól adatszolgáltatást kérni.
 

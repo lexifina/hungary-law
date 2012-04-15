@@ -2,7 +2,7 @@
 
 a) az irányítása alatt álló szervekre vonatkozóan a védekezés végrehajtásának egységes rendjét,
 
-b) az e törvény 22. §-ában meghatározott szervek irányítási és működési rendjét, feladatait, a hatáskörüket és jogkörüket, valamint a területi és a helyi szervek felépítését,
+b) az e törvény 22. §-ában meghatározott szervek irányítási és működési rendjét, feladatait, a hatáskörüket és jogkörüket,
 
 c) az irányítása alá tartozó rendvédelmi szervek katasztrófavédelmi feladatait,
 

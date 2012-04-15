@@ -10,11 +10,11 @@ a) a hivatásos katasztrófavédelmi szerv központi szerve és a hivatásos kat
 
 b) a Kormány tagjainak és a katasztrófavédelemben érintett állami szerveknek a megelőzéssel, a felkészüléssel és a védekezéssel kapcsolatos működésének, riasztásának rendjét – beleértve a reagálási időket –, részletes feladatait,
 
-c) a katasztrófasegély nyújtásának szabályait,
+c) a katasztrófasegély nyújtásának szabályait, valamint a nemzetközi katasztrófa-segítségnyújtás és -segítségkérés általános szabályait,
 
 d) az Országgyűlés által az éves költségvetésben a nemzetközi segítségnyújtásra jóváhagyott előirányzat felhasználásának rendjét,
 
-e) az e törvény IV. fejezete szerint veszélyes anyagnak minősülő anyagok – az azokhoz tartozó küszöbértékek – és ipari tevékenységek körét,
+e) az e törvény IV. fejezete szerint veszélyes anyagnak minősülő anyagok – az azokhoz tartozó küszöbértékek – és ipari tevékenységek körét, valamint az eljáró hatóságokat,
 
 f) a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezés, tervezés rendszerét és követelményeit, az üzemeltetői kötelezettségeket,
 
@@ -24,7 +24,7 @@ h) a veszélyes anyagokkal foglalkozó üzemeket érintő lakossági tájékozta
 
 i) a védekezésben részt vevők költségei megtérítésének szabályait,
 
-j) a katasztrófavédelmi hozzájárulás befizetési és elszámolási rendjét, felhasználásának és ellenőrzésének módját, valamint a katasztrófavédelmi hozzájárulásra kötelezettek bejelentésének szabályait,
+j) a katasztrófavédelmi hozzájárulás befizetési és elszámolási rendjét, felhasználásának és ellenőrzésének módját, az eljáró hatóságokat, valamint a katasztrófavédelmi hozzájárulásra kötelezettek bejelentésének szabályait,
 
 k) a küszöbérték alatti üzemek körét, katasztrófavédelmi hatósági felügyeleti rendjét és az üzemeltetői kötelezettségeket,
 
