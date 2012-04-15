@@ -24,7 +24,7 @@ cb) 15. § (3a) és (3b) bekezdése,
 
 cc) 20. § (3a) bekezdése
 
-szerinti feladatok ellátására.
+## szerinti feladatok ellátására.
 
 (4) A Kormány egészségügyi államigazgatási szervként az OTH-t jelöli ki
 
@@ -92,7 +92,7 @@ hg) 8/A. § (1) bekezdése
 
 hh)[^30] 10. § (2) bekezdése
 
-szerinti feladatok ellátására.
+## szerinti feladatok ellátására.
 
 (5) A Kormány egészségügyi államigazgatási szervként a megyei népegészségügyi szakigazgatási szervet jelöli ki
 
@@ -146,7 +146,7 @@ j) a Kbtv. 33. § (3) bekezdése
 
 k)[^38] a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 79. § (2) bekezdése
 
-szerinti feladatok ellátására.
+## szerinti feladatok ellátására.
 
 (6) A Kormány egészségügyi államigazgatási szervként az OTH-t és a megyei népegészségügyi szakigazgatási szervet jelöli ki
 
@@ -160,7 +160,7 @@ d) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXII
 
 e)[^39]
 
-szerinti feladatok ellátására.
+## szerinti feladatok ellátására.
 
 (7)[^40] A Kormány egészségügyi államigazgatási szervként az OTH-t, a megyei népegészségügyi szakigazgatási szervet és a kistérségi népegészségügyi intézetet jelöli ki
 
@@ -173,8 +173,6 @@ c) a személyazonosító jel helyébe lépő azonosítási módokról és az azo
 ca) 23. § d) pontja,
 
 cb) 24. § e) és f) pontja
-
-szerinti feladatok ellátására.
 
 [^21]: A 12. § (3) bekezdés a) pontja a 325/2011. (XII. 28.) Korm. rendelet 80. § (1) bekezdésével megállapított szöveg.
 [^22]: A 12. § (3) bekezdés c) pontját a 325/2011. (XII. 28.) Korm. rendelet 80. § (2) bekezdése iktatta be.

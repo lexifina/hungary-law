@@ -16,7 +16,7 @@ a) 15. § (1)–(2) és (7) bekezdésének alkalmazásában az érintett lakóhe
 
 b) 30. § (4) bekezdés b) pontjának alkalmazásában a megszűnő egészségügyi intézmény székhelye szerint területileg illetékes kistérségi népegészségügyi intézetet
 
-jelöli ki.
+## jelöli ki.
 
 (5) Egészségügyi államigazgatási szervként a Kormány a tevékenység végzésének helye szerint kistérségi intézetet jelöli ki a Kbtv.
 
@@ -24,7 +24,7 @@ a) 29. § (1) bekezdésének,
 
 b) 32. § (1) bekezdés a) pontjának
 
-alkalmazásában.
+## alkalmazásában.
 
 (6) A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény 7. § (9) bekezdése szerinti, a Szolgálathoz befolyt bírságok kirovásáról, behajtásáról és felhasználásáról szóló nyilvántartást az országos tisztifőorvos vezeti, amelynek összefoglaló adatairól évente az országos tisztifőorvos tájékoztatja a minisztert.
 

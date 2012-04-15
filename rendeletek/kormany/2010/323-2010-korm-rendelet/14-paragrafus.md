@@ -1,3 +1,5 @@
+## szerinti feladatok ellátására.
+
 14. § (1)[^42] A Kormány az OTH-t jelöli ki az Eütv. 110. § (4) és (10a) bekezdésében meghatározott feladat ellátására.
 
 (2)[^43]

@@ -14,7 +14,7 @@ f) 25. § (5) bekezdése,
 
 g) 26/A. §-a
 
-szerinti feladatok ellátására.
+## szerinti feladatok ellátására.
 
 (2) A Kormány az Országos Kémiai Biztonsági Intézetet jelöli ki a Kbtv. 24. § (1) bekezdése szerinti, a hazai és nemzetközi adatok feldolgozásáért felelős Információs Központ működtetésére.
 
@@ -41,5 +41,3 @@ i) a honvédelemért felelős miniszter,
 j) az egészségügyért felelős miniszter,
 
 k) a fogyasztóvédelemért felelős miniszter
-
-által kijelölt személyek, az országos tisztifőorvos vagy az általa kijelölt személy, továbbá a kémiai biztonság területén érintett társadalmi szervezetek által külön jogszabályban meghatározott módon delegált legfeljebb hat személy.

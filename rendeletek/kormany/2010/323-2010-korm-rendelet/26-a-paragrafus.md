@@ -6,6 +6,4 @@ b) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgá
 
 c) a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a nyilvánosság részvételéről, valamint a nyilvánosság részvétele és az igazságszolgáltatáshoz való jog tekintetében a 85/337/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. május 26-i 2003/35/EK európai parlamenti és tanácsi irányelv 3. cikkének
 
-való megfelelést szolgálja.
-
 [^63]: A 26/A. §-t a 82/2011. (V. 18.) Korm. rendelet 63. §-a iktatta be.
