@@ -1,0 +1,80 @@
+# A Kormány 77/2012. (IV. 16.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 45. szám, 2012. április 16. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/edf14b602739af723e2af5fa17c4dd31bc5f72d9/dokumentumok/7d9aebaa1df95831a6eeb0899cf1b0e6241b2262/letoltes)
+
+---
+
+A Kormány 77/2012. (IV. 16.) Korm. rendelete
+a mezőgazdaságban felhasznált gázolaj utáni jövedékiadó-visszatérítés feltételeiről és szabályairól
+szóló 341/2007. (XII. 15.) Korm. rendelet módosításáról
+A Kormány a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 129. §
+(1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikkének (1) bekezdésében meghatározott
+feladatkörében eljárva a következőket rendeli el:
+1. § A mezőgazdaságban felhasznált gázolaj utáni jövedékiadó-visszatérítés feltételeiről és szabályairól szóló 341/2007.
+(XII. 15.) Korm. rendelet [a továbbiakban: 341/2007. (XII. 15.) Korm. rendelet] 3. §-a helyébe a következő rendelkezés
+lép:
+„3. § (1) A Nemzeti Adó- és Vámhivatal vámszerve (a továbbiakban: vámhatóság) a jövedékiadó-visszatérítésre
+vonatkozó igényjogosultságot
+a) az 1. § (1) bekezdés a) pontja szerinti mezőgazdasági termelő vonatkozásában a mezőgazdasági munka elvégzését
+illetően a megművelt termőföld helyrajzi száma alapján a mezőgazdasági igazgatási jogkörében eljáró területileg
+illetékes megyei kormányhivatal földművelésügyi igazgatósága (a továbbiakban: földművelésügyi hatóság),
+b) az 1. § (1) bekezdés b) pontja szerinti mezőgazdasági termelő vonatkozásában az erdőterület fekvése alapján az
+erdőterület nagyságát és a munka elvégzését illetően az erdészeti hatósági jogkörében eljáró területileg illetékes
+megyei kormányhivatal erdészeti igazgatósága (a továbbiakban: erdészeti hatóság),
+c) az 1. § (1) bekezdés c) pontja szerinti mezőgazdasági termelő vonatkozásában – a halastó területi adatait is
+tartalmazó – a halastóra kiadott haltermelő vízjogi üzemeltetési engedély meglétét és a halgazdálkodási tevékenység
+folytatását illetően a halastó vízjogi üzemeltetési engedélyét kibocsátó, területileg illetékes vízügyi hatóság
+(a továbbiakban: vízügyi hatóság)
+által az elektronikus úton történő megkeresésre rendelkezésre bocsátott információk alapján ellenőrzi.
+(2) A földművelésügyi hatóság az 1. § (1) bekezdés a) pontja szerinti mezőgazdasági termelő vonatkozásában
+a mezőgazdasági munka elvégzését illetően a kerületi állat-egészségügyi és élelmiszer-ellenőrző hivatalt
+(a továbbiakban: falugazdász), mint szakhatóságot bevonja.
+(3) A vámhatóság a jövedékiadó-visszatérítésre vonatkozó igényjogosultságot az 1. § (1) bekezdés a) pontja szerinti
+mezőgazdasági termelő vonatkozásában a megmunkált termőföldterület nagyságát illetően a TakarNet Földhivatali
+Információs Rendszerhez történő csatlakozás révén ellenőrzi.
+(4) A jövedékiadó-visszatérítésre vonatkozó igényjogosultság (1)–(3) bekezdések szerinti ellenőrzése a termőföldről
+szóló 1994. évi LV. törvény 25/C. § (3a) bekezdés a) pontja szerint hatóság megkeresésére történő, hivatalból indított
+eljárásnak minősül.
+(5) A vámhatóság (1) bekezdés szerinti megkeresésére a földművelésügyi hatóság, az erdészeti hatóság, és a vízügyi
+hatóság a megkeresés beérkezését követő 10 napon belül hatósági bizonyítvány elektronikus úton történő
+megküldésével adatot szolgáltat a vámhatóság részére.
+(6) A jövedékiadó-visszatérítéssel érintett termőföldterület, erdő, halastó nagyságát – a kerekítés általános
+szabályainak figyelembevételével – hektárban, kéttizedes pontossággal kell meghatározni.
+(7) A földművelésügyi hatóság, az erdészeti hatóság, és a vízügyi hatóság a mezőgazdasági munka elvégzésének
+igazolása céljából a mezőgazdaságilag meg nem munkált termőföldterületekről, erdőterületekről, halastóterületekről
+nyilvántartást vezet.”
+2. § A 341/2007. (XII. 15.) Korm. rendelet 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A jövedékiadó-visszatérítés feltétele, hogy a mezőgazdasági termelő a gázolaj vásárlásáról vagy a gépi
+bérmunka-szolgáltatás igénybevételéről saját nevére szóló, a bevallás benyújtását megelőző három éven belül
+kiállított számlával rendelkezzen. A mezőgazdasági termelő e feltétel teljesüléséről, valamint a megművelt
+termőföldterület, felújított erdőterület, halastóterület(ek) nettó vízfelülete nagyságáról, és ezen területek
+
+használatáról az erre a célra a vámhatóság által rendszeresített adóbevallási nyomtatványon nyilatkozik. A gépi
+bérmunka-szolgáltatás igénybevétele esetén a bérmunkát végző által kibocsátott számlán elkülönítetten kell
+szerepelnie a tényleges üzemanyag-felhasználás mennyiségének és összegének.”
+3. § A 341/2007. (XII. 15.) Korm. rendelet 5. § (3) és (4) bekezdései helyébe a következő rendelkezések lépnek:
+„(3) Az éves bevallás a tárgyévet követő év január 15-étől, a féléves bevallás tárgyév július 15-étől, a III. negyedéves
+bevallás tárgyév október 15-étől, a IV. negyedéves bevallás a tárgyévet követő év január 15-étől nyújtható be
+a vámhatósághoz az adóbevallási nyomtatványon. Az adóbevallási nyomtatványon a mezőgazdasági termelő köteles
+feltüntetni a rendelkezésére álló, az adó-visszaigénylést – és a (4) bekezdés szerinti mezőgazdasági termelő esetében
+a szőlő- és gyümölcsös ültetvények műveléséhez nyújtott mezőgazdasági csekély összegű (de minimis) támogatást
+[a továbbiakban: mezőgazdasági csekély összegű (de minimis) támogatás] is – alátámasztó összes, a gázolaj
+vásárlásáról vagy a gépi bérmunka-szolgáltatás igénybevételéről saját nevére szóló számla adatait.
+(4) A mezőgazdasági csekély összegű (de minimis) támogatást is igénylő mezőgazdasági termelő az erre irányuló
+szándékáról, a támogatási igény nagyságáról, kapcsolódó számlák adatairól az adóbevallási nyomtatványon külön
+nyilatkozik. A vámhatóság ezen mezőgazdasági termelői kör mezőgazdasági csekély összegű (de minimis) támogatási
+kérelmét a jövedékiadó-visszatérítési igény elbírálását követő 5 napon belül elektronikus úton továbbítja
+a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) részére, valamint tájékoztatja az MVH-t
+a jövedékiadó-visszatérítésre vonatkozó döntéséről és a kiutalt jövedékiadó-visszatérítésről. A vámhatóság az MVH
+részére megküldött, előzőek szerinti tájékoztatásáról 5 napon belül értesíti a mezőgazdasági termelőt.”
+4. § A 341/2007. (XII. 15.) Korm. rendelet 6. §-a a következő (4) bekezdéssel egészül ki:
+„(4) E rendeletnek a mezőgazdaságban felhasznált gázolaj utáni jövedékiadó-visszatérítés feltételeiről és szabályairól
+szóló 341/2007. (XII. 15.) Korm. rendelet módosításáról szóló 77/2012. (IV. 16.) Korm. rendelettel megállapított 3. §-át,
+4. § (1) bekezdését, 5. § (3) és (4) bekezdését a 2013. január 15-étől benyújtott bevallásokra vonatkozóan kell
+alkalmazni.”
+5. § Hatályát veszti a 341/2007. (XII. 15.) Korm. rendelet 1–3. számú melléklete.
+6. § Ez a rendelet 2013. január 1-jén lép hatályba, és 2013. január 2-án hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
+
+V. A Kormány tagjainak rendeletei
