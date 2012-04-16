@@ -1,1 +1,0 @@
-## „(8) A vizsgálatot rtg. ernyőfénykép szűrési módszerrel kell elvégezni a szűrőállomások ellátási területéhez tartozó, szűrővizsgálatra kötelezettek körében. Szükség esetén a szűrővizsgálatokat az egészségügyi hatóság által kijelölt egészségügyi szolgáltató, illetve a mozgó szűrővizsgálati egység végzi el.”
