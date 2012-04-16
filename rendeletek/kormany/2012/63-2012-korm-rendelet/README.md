@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-63-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-04-15 | 2012-63-20-22.1 | 63/2012. (IV. 2.) Korm. rendelet |
+| 2012-04-16 | 2012-63-20-22.2 | 2010: CXXX. törvény |
