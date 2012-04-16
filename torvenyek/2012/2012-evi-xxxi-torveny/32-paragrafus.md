@@ -1,1 +1,0 @@
-32. § A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 165. § (2) bekezdésében az „és a szabálysértési hatóság emiatt” szövegrész helyébe az „és a bíróság emiatt” szöveg lép.
