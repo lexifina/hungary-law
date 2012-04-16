@@ -1,1 +1,0 @@
-## „(2) A megyei, fővárosi védelmi bizottság elnöke a katasztrófavédelmi feladatok ellátásával kapcsolatos előterjesztéseket és döntéseket a hivatásos katasztrófavédelmi szerv központi szervének vezetője útján felterjeszti a katasztrófák elleni védekezésért felelős miniszternek.”
