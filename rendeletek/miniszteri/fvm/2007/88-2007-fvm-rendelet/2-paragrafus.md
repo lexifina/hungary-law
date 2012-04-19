@@ -36,9 +36,20 @@
 
 17. igazolt származású erdészeti szaporítóanyag: az erdészeti szaporítóanyagokról szóló 110/2003. (X. 21.) FVM rendelet értelmében igazolt származási bizonyítvánnyal rendelkező erdészeti szaporítóanyag.
 
-18.[^4]
+18.[^4] jövedelem:
+
+a) azoknál a társas vállalkozásoknál, amelyek kettős könyvvitelt vezetnek, a támogatási kérelem benyújtásának évére vonatkozó tevékenységből származó értékesítés nettó árbevétele,
+
+b) az egyéni vállalkozók, őstermelők, családi gazdálkodók esetében a támogatási kérelem benyújtásának évére vonatkozó tevékenységből származó adóalapba számító bevétel, amelynél a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerinti egységes területlapú támogatás és költségek fedezetére vagy fejlesztési célra folyósított támogatás nem vehetők figyelembe,
+
+c) azon vállalkozások és egyéni cégek esetében, amelyek az egyszerűsített vállalkozási adó szabályai szerint adóznak, a támogatási kérelem benyújtásának évére vonatkozó tevékenységből származó bevétel, amelynél az Szja tv. szerinti egységes területlapú támogatás és költségek fedezetére vagy fejlesztési célra folyósított támogatás nem vehetők figyelembe,
+
+d) egyéb jogalanyok esetében a támogatási kérelem benyújtásának évére vonatkozó tevékenységből származó bevétel, amelynél az Szja tv. szerinti egységes területlapú támogatás és költségek fedezetére vagy fejlesztési célra folyósított támogatás nem vehetők figyelembe;
+
+19.[^5] mezőgazdasági tevékenység: növénytermesztés, kertészet, állattenyésztés, szaporító anyag termesztés, vadgazdálkodás.
 
 [^1]: A 2. § 9. pontja a 11/2010. (VIII. 30.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § 12. pontja a 11/2010. (VIII. 30.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^3]: A 2. § 16. pontja a 11/2010. (VIII. 30.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^4]: A 2. § 18. pontját a 149/2008. (XI. 12.) FVM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 11/2010. (VIII. 30.) VM rendelet 12. §-a.
+[^4]: A 2. § 18. pontját a 149/2008. (XI. 12.) FVM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 11/2010. (VIII. 30.) VM rendelet 12. §-a, újonnan a 37/2012. (IV. 16.) VM rendelet 5. §-a iktatta be.
+[^5]: A 2. § 19. pontját a 37/2012. (IV. 16.) VM rendelet 5. §-a iktatta be.

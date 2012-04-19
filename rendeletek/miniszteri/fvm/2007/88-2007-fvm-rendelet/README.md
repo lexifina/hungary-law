@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-88-20-8
 | 2010-08-31 | 2007-88-20-82.6 | 11/2010. (VIII. 30.) VM rendelet |
 | 2011-01-01 | 2007-88-20-82.7 | 46/2010. (XII. 31.) VM rendelet |
 | 2011-05-13 | 2007-88-20-82.8 | 36/2011. (V. 12.) VM rendelet |
+| 2012-04-19 | 2007-88-20-82.9 | 37/2012. (IV. 16.) VM rendelet |

@@ -22,7 +22,7 @@ d) fás szárú energetikai célú ültetvényekre;
 
 e) NATURA 2000 területeken Akác, Nemesnyár és Fenyő támogatási csoportba tartozó célállományokra;
 
-f)[^5]
+f)[^6]
 
 g) az alábbi fafajokra:
 
@@ -34,7 +34,9 @@ gc) amerikai köris (Fraxinus pennsylvanica),
 
 gd) kései meggy (Padus serotina),
 
-ge) gyalogakác (Amorpha fruticosa).
+ge) gyalogakác (Amorpha fruticosa),
+
+h)[^7] az erdő igénybevételének ellentételezéseként, az Evt. 78. § (3) bekezdése alapján előírt csereerdősítésre.
 
 (3) Az e rendelet alapján igénybe vett támogatás alapjául szolgáló területre a támogatási időszak alatt:
 
@@ -46,4 +48,5 @@ b) az egységes területalapú támogatásokhoz kapcsolódó kiegészítő nemze
 
 (4) E rendelet alapján nem vehet igénybe támogatást az, aki a tanácsi rendelet 23. cikke szerinti, gazdaságátadási támogatások részletes feltételeiről szóló külön jogszabály előírásai szerinti támogatásban részesül.
 
-[^5]: A 3. § (2) bekezdés f) pontját a 46/2010. (XII. 31.) VM rendelet 10. §-a hatályon kívül helyezte.
+[^6]: A 3. § (2) bekezdés f) pontját a 46/2010. (XII. 31.) VM rendelet 10. §-a hatályon kívül helyezte.
+[^7]: A 3. § (2) bekezdés h) pontját a 37/2012. (IV. 16.) VM rendelet 6. §-a iktatta be.
