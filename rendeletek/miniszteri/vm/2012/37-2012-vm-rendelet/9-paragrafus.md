@@ -1,0 +1,1 @@
+## „(8) A támogatási kérelemre vonatkozó módosítási kérelmet az MVH központi szerve által rendszeresített és az MVH honlapján közzétett formanyomtatványon a területileg illetékes erdészeti igazgatósághoz kell benyújtani.”
