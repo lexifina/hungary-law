@@ -1,4 +1,4 @@
-## 8. §[^4] Erdőtelepítési első kivitelhez nyújtott támogatás minimálisan támogatható területnagysága 1 hektár. Ennél kisebb – legalább 0,3 ha – terület támogatása csak erdőterülettel közvetlenül határos mezőgazdasági területen történő erdősítés után vehető igénybe, vagy olyan terület esetében, ahol a közvetlenül határos terület a támogatási kérelemben szintén szerepel.
+## 8. §[^4] Erdőtelepítési első kivitelhez nyújtott támogatás esetén a legkisebb támogatható terület nagysága az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 45. § (2) bekezdés rendelkezéseit figyelembe véve, az erdőtelepítés szélső csemetéinek tövétől maximum 3 méter széles sávú koronavetülettel együtt számítva 1 hektár. Ennél kisebb, de maximum 3 méter széles sávú koronavetülettel együtt számítva legalább 0,3 ha nagyságú terület támogatása csak erdőterülettel közvetlenül határos mezőgazdasági területen történő erdősítés után vehető igénybe, vagy olyan terület esetében, ahol a közvetlenül határos terület a támogatási kérelemben szintén szerepel.
 
 9. § (1) Az erdőtelepítési első kivitel megvalósítása során az alábbi szakmai feltételeket kell teljesíteni:
 
@@ -14,6 +14,6 @@ d) az erdőtelepítési kiegészítő támogatás esetében a jóváhagyott terv
 
 (3)[^6] Az (1) bekezdés szerinti szakmai feltételek teljesítését az Állami Erdészeti Szolgálat területileg illetékes igazgatósága (a továbbiakban: erdészeti hatóság) a műszaki átvétel során helyszíni ellenőrzéssel bírálja el, és erről erdőrészletenként igazolást állít ki. Az igazolás megléte a támogatás kifizetésének feltétele.
 
-[^4]: A 8. § a 40/2005. (IV. 27.) FVM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 9. §-a alapján rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.
+[^4]: A 8. § a 37/2012. (IV. 16.) VM rendelet 1. §-ával megállapított szöveg.
 [^5]: A 9. § új (2) bekezdését a 21/2007. (III. 30.) FVM rendelet 1. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatva.
 [^6]: A 9. § eredeti (2) bekezdésének számozását a 21/2007. (III. 30.) FVM rendelet 1. §-a (3) bekezdésre változtatta.
