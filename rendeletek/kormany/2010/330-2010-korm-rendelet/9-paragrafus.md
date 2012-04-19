@@ -1,4 +1,4 @@
-## 9. §[^10] A NÁK
+## 9. §[^12] A NÁK
 
 a) koordinálja a fővárosi és megyei kormányhivatalok egységes pernyilvántartásának, továbbá az egységes perviteli szabályzatának elkészítését, összesített pernyilvántartást készít,
 
@@ -12,4 +12,4 @@ e) egyedi ügyekben jogi állásfoglalással segíti a fővárosi és megyei kor
 
 f) ellátja és támogatja a működéséhez kapcsolódó jogi feladatokat.
 
-[^10]: A 9. § a 258/2011. (XII. 7.) Korm. rendelet 41. § (4) bekezdésével megállapított szöveg.
+[^12]: A 9. § a 258/2011. (XII. 7.) Korm. rendelet 41. § (4) bekezdésével megállapított szöveg.
