@@ -32,6 +32,8 @@ o) feladatkörét érintően együttműködik hazai és határon túli civil sze
 
 p) végrehajtja a miniszter által meghatározott egyéb feladatokat.
 
+q)[^1] az önkéntesen regisztrált határon túli magyar vállalkozások számára gazdaságinformációs rendszert működtet.
+
 (2) A Hivatal a kereskedelem-fejlesztési tevékenysége körében
 
 a) közreműködik az exportlehetőségek felkutatásában, üzleti partnerek közvetítésében és üzletember-találkozók megszervezésében a magyar vállalkozások számára;
@@ -73,3 +75,5 @@ g) működteti és koordinálja az egyedi kormánydöntéssel (EKD) biztosított
 h) felkészíti a helyi önkormányzatokat a befektetők fogadására;
 
 i) utógondozza a már betelepült befektetők működési körülményeit és közreműködik a magyar hozzáadott érték-hányad növelésében.
+
+[^1]: Az 5. § (1) bekezdés q) pontját a 78/2012. (XI. 19.) Korm. rendelet 1. §-a iktatta be.
