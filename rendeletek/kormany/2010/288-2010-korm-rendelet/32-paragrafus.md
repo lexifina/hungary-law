@@ -6,6 +6,29 @@
 
 (3) E rendelet alkalmazásában központi államigazgatási szervek területi szerve alatt a Khtv. 1. § 1. pontjában meghatározott szervet kell érteni.
 
-(4) E rendelet alkalmazásában funkcionális feladat az igazgatási funkciók szerinti munkamegosztás alapján kialakított szervezeti egységek által ellátott szervi működést szolgáló, – nem szakmai feladatellátáshoz kötődő – belső igazgatási feladat, különösen a humánpolitikai és humán-erőforrás gazdálkodási, költségvetési gazdálkodási, pénzügyi, jogi (peres képviseleti), nemzetközi kapcsolatok lebonyolítására szolgáló, ellenőrzési, koordinációs, saját szervi működtetését szolgáló informatikai és informatikai rendszer fenntartási, kommunikációs feladatok, valamint a személyi, tárgyi, műszaki, pénzügyi feltételek biztosítását szolgáló műveletek.
+(4)[^39] E rendelet alkalmazásában funkcionális feladatokon az alábbiakban felsorolt igazgatási funkciók szerinti munkamegosztás alapján kialakított szervezeti egységek által ellátott szervi működést szolgáló – nem szakmai feladatellátáshoz kötődő – belső igazgatási feladatokat kell érteni:
+
+a) humánpolitikai és humánerőforrás-gazdálkodási,
+
+b) költségvetési gazdálkodási,
+
+c) pénzügyi és számviteli,
+
+d) üzemeltetési, eszköz- és vagyongazdálkodási,
+
+e) beszerzési,
+
+f) szabályozási és iratkezelési,
+
+g) ellenőrzési,
+
+h) koordinációs,
+
+i) jogi (peres képviseleti),
+
+j) saját szervi működést szolgáló informatikai üzemeltetési és rendszerfenntartási,
+
+k) kommunikációs és nemzetközi kapcsolatok lebonyolítására szolgáló
 
 [^38]: A 32. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^39]: A 32. § (4) bekezdése a 79/2012. (IV. 18.) Korm. rendelet 1. §-ával megállapított szöveg.

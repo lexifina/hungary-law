@@ -1,3 +1,5 @@
+## feladatok.
+
 ## 19. Átmeneti és záró rendelkezések
 
 33. § (1) A 2010. december 31-én megszűnő – szakigazgatási szervvé váló – költségvetési szervek, valamint a központi államigazgatási szervek a szakigazgatási szervvé váló területi szervük, illetve szervezeti egységük tekintetében jelen rendelet kihirdetésétől a megszűnés napjáig a közigazgatás-szervezésért felelős miniszter hozzájárulása nélkül nem vállalhatnak a szakigazgatási szervvé váló szervet érintő új kötelezettséget, és nem létesíthetnek foglalkoztatásra irányuló jogviszonyt.
