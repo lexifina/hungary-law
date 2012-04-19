@@ -1,0 +1,1 @@
+## 11. § A támogatás felhasználását – beleértve a 6. § (4) bekezdése szerint vállalt feltételek megvalósítását – a miniszter, a szociális és gyámhivatal, valamint a jogszabályban erre feljogosított szervek ellenőrizhetik.
