@@ -1,1 +1,0 @@
-A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 342. § (2) bekezdésének m) pontjában kapott felhatalmazás alapján a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjai nyugellátásának eljárási rendjéről a következőket rendelem el:
