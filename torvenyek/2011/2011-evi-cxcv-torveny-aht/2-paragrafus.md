@@ -46,4 +46,4 @@ q) zárolás: a kiadási előirányzatok felhasználásának időlegesen, felté
 
 r) önkormányzati hivatal: a polgármesteri hivatal, a főpolgármesteri hivatal, a megyei önkormányzati hivatal és a körjegyzőség.
 
-(2) E törvény II. fejezete alkalmazásában jogszabályon, 9. § (1) és (3) bekezdése alkalmazásában törvényen az Országgyűlés Hivatala tekintetében az Országgyűlés Házszabályát is érteni kell.
+(2) E törvény II. fejezete alkalmazásában jogszabályon, 9. § (1) és (3) bekezdése alkalmazásában törvényen az Országgyűlés Hivatala tekintetében az Országgyűlés házszabályi rendelkezéseit is érteni kell.
