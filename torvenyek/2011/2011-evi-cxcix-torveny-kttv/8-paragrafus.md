@@ -22,4 +22,4 @@ d) a feladat teljesítésének helye nem szükséges, hogy a közigazgatási sze
 
 (8) A közszolgálati tisztviselő besorolásánál (116. §) az önkéntes tartalékos tényleges katonai szolgálatteljesítés idejét kétszeres időtartammal kell figyelembe venni.
 
-(9) Az (1)–(4) bekezdésben foglalt szabályokat az Állambiztonsági Szolgálatok Történeti Levéltára esetében nem kell alkalmazni.
+(9) Az (1)–(4) bekezdésben foglalt szabályokat az Országgyűlés Hivatala és az Állambiztonsági Szolgálatok Történeti Levéltára esetében nem kell alkalmazni.

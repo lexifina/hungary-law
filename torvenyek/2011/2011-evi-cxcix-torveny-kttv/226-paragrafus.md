@@ -30,4 +30,4 @@ d)
 
 (5) A 142. § azzal az eltéréssel alkalmazandó, hogy a közszolgálati jogviszonyban munkaköri pótlék nem állapítható meg.
 
-(6) Az Országgyűlés Hivatalánál a 142. § azzal az eltéréssel alkalmazandó, hogy a hivatali szerv vezetője az Országgyűlés elnöke által meghatározott rendben állapíthat meg képzettségi, munkaköri pótlékot.
+(6) Az Országgyűlés Hivatalánál a 142. § azzal az eltéréssel alkalmazandó, hogy az Országgyűlés Hivatalának vezetője az Országgyűlés elnöke által meghatározott rendben állapíthat meg képzettségi, munkaköri pótlékot.
