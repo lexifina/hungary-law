@@ -1,1 +1,1 @@
-126. § Az Országgyűlési Őrség feladatai ellátása során együttműködik a rendőrséggel, a nemzetbiztonsági szolgálatokkal, a hivatásos katasztrófavédelmi szervekkel, a Magyar Honvédséggel, valamint a helyi önkormányzatokkal.
+### 126. §

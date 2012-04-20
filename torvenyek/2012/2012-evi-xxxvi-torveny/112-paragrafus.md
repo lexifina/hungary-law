@@ -1,9 +1,1 @@
-112. § (1) A képviselő részére a 111. § (1) és (2) bekezdésében foglaltakat – ideértve ezek pénzügyi feltételeit is – egyéni választókerületben megválasztott képviselő esetében az egyéni választókerületének székhelye szerint területileg illetékes települési önkormányzat az önkormányzat székhelyén vagy a képviselő által választókerületében meghatározott településen; fővárosi egyéni választókerületben az egyéni választókerület székhelye szerint területileg illetékes kerületi önkormányzat az önkormányzat székhelyén vagy a képviselő által választókerületében meghatározott helyen biztosítja.
-
-(2) A képviselőnek a 111. § (3)–(6) bekezdésében – országos listán megválasztott képviselő esetében a 111. § (1) és (2) bekezdésében foglaltakat is – meghatározott pénzügyi feltételeit, juttatásait, a képviselői tevékenységéhez kapcsolódó támogatásokat, valamint e juttatásokhoz és támogatásokhoz szükséges adminisztrációs feladatokat az Országgyűlés Hivatala biztosítja.
-
-(3) A képviselő a 111. § (3) bekezdésében meghatározott juttatásainak fedezetét az Országgyűlés Hivatala úgy biztosítja, hogy a képviselő havonta a 104. § (1) bekezdésében meghatározott tiszteletdíj 65%-ának megfelelő összegű keretre jogosult, amely nem tartalmazza a kifizetőt terhelő közterheket.
-
-(4) A képviselő tevékenységét segítő alkalmazottak határozott idejű szerződéssel, a képviselő mandátuma alatt munkaviszonyban vagy polgári jogi jogviszonyban foglalkoztathatók. A munkáltatói jogkört a képviselő az Országgyűlés Hivatala ellenjegyzésével gyakorolja. A (3) bekezdés szerinti keret feletti rendelkezési jog és a munkáltatói jogkör gyakorlása átruházható a képviselőcsoport vezetőjére.
-
-(5) Képviselő közeli hozzátartozója nem foglalkoztatható a 111. § (2)–(3) bekezdése alapján képviselő tevékenységét segítő alkalmazottként.
+### 112. §

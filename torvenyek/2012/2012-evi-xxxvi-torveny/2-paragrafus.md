@@ -36,7 +36,7 @@ o) gyakorolja a jogutód nélkül megszűnt országgyűlési bizottság elnöké
 
 p) rendészeti, illetve – e törvényben meghatározott esetekben – fegyelmi jogkört gyakorol a tárgyalási rend, az Országgyűlés zavartalan működésének biztosítása és az Országgyűlés méltóságának megőrzése érdekében,
 
-q) irányítja az Országgyűlési Őrséget, kiadja az Országgyűlési Őrség Szervezeti és Működési Szabályzatát,
+q)
 
 r) az Országgyűlés Hivatala, valamint az Országgyűlési Őrség vezetőinek utasítást adhat feladat elvégzésére vagy mulasztás pótlására, az Országgyűlés Hivatalát, illetve az Országgyűlési Őrséget jelentéstételre vagy beszámolóra kötelezheti, fenntarthatja magának a jogot e szervek döntéseinek előzetes vagy utólagos jóváhagyására,
 

@@ -1,13 +1,3 @@
-## 44. Személyazonosság megállapítása
+## 44.
 
-138. § (1) Az országgyűlési őr a feladata ellátása során
-
-a) az Országház, az Országgyűlés Irodaházában, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületek területén a személyazonosság megállapítása céljára a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvényben meghatározott személyazonosság igazolására alkalmas hatósági igazolványt, valamint az Országházba, az Országgyűlés Irodaházába, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületekbe való belépésre jogosító okmányt fogadja el,
-
-b) a létesítménybiztosítási intézkedés keretében lezárt területen, illetve olyan területen, amely tekintetében fokozott ellenőrzést rendeltek el, megállapíthatja a személyazonosságát annak, akivel kapcsolatban ez a közbiztonság, valamint az Országházban, illetve az Országgyűlés Irodaházában tartózkodók védelme céljából szükséges.
-
-(2) Az (1) bekezdés b) pontja esetén az országgyűlési őr minden olyan hatósági igazolványt elfogad, amely tartalmazza a személyazonosításhoz szükséges adatokat. A személyazonosság megállapításával érintett személy a személyazonosság megállapítására alkalmas okmányok közül egy bemutatására kötelezhető. Az országgyűlési őr más jelen lévő, ismert személyazonosságú személy közlését is elfogadhatja igazolásként.
-
-(3) A személyazonosság igazolásának megtagadása, valamint az (1) bekezdés b) pontjában meghatározott esetben akkor is, ha a személyazonosság a helyszínen nem állapítható meg, az országgyűlési őr azonnal értesíti a rendőrséget. Az országgyűlési őr a személyazonosság megállapításával érintett személyt a személyazonosság megállapítása céljából a rendőrség helyszínre érkezéséig visszatarthatja.
-
-(4) Az országgyűlési őr a (3) bekezdésben meghatározott esetben a személyazonosság megállapításával érintett személy ruházatát, csomagját, járművét átvizsgálhatja.
+### 138. §

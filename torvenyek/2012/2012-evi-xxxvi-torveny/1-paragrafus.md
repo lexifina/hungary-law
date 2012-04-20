@@ -12,6 +12,6 @@ a) az Országgyűlés elnöke (a továbbiakban: házelnök),
 
 b) az Országgyűlés alelnöke (a továbbiakban: alelnök),
 
-c) az Országgyűlés háznagya (a továbbiakban: háznagy) és
+c)
 
 d) az Országgyűlés jegyzője (a továbbiakban: jegyző).

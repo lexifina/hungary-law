@@ -8,10 +8,4 @@
 
 123. § (1) Az Országgyűlés Hivatala ellátja az Országgyűlés szervezeti működtetési, ügyviteli és döntés-előkészítési feladatait. Az Országgyűlés Hivatala önállóan működő és gazdálkodó központi költségvetési szerv, az Országgyűlés költségvetési fejezetén belül önálló cím. Az Országgyűlés Hivatala jogi személy.
 
-(2) Az Országgyűlés Hivatalát a főigazgató vezeti.
-
-(3) A főigazgatót a házelnök nevezi ki és menti fel. A főigazgató a házelnök irányítása alatt végzi munkáját.
-
-(4) A főigazgató e törvényben és határozati házszabályi rendelkezésekben meghatározottak szerint közreműködik az Országgyűlés döntéseinek előkészítésében, az e törvényben foglalt kivételekkel gyakorolja a fejezetet irányító szerv hatásköreit az Országgyűlés költségvetési fejezetébe sorolt fejezeti kezelésű előirányzatok és olyan költségvetési szervek tekintetében, amelyek esetében a költségvetési szerv vezetője nem bír fejezetet irányító szervi jogállással.
-
-(5) A főigazgató a háznaggyal azonos javadalmazásban részesül, jogállására egyebekben a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
+(2)–(5)

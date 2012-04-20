@@ -12,20 +12,10 @@ d) felmentésével,
 
 e) a tisztségről való lemondásával.
 
-(2) A háznagy megbízatása megszűnik:
-
-a) az új Országgyűlés megalakulásával,
-
-b) halálával,
-
-c) felmentésével,
-
-d) a tisztségről való lemondásával,
-
-e) összeférhetetlenségének kimondásával.
+(2)
 
 (3) A házelnök, alelnök, jegyző felmentéséről a Házbizottság javaslata, a háznagy felmentéséről a házelnök javaslata alapján az Országgyűlés vita nélkül határoz. A háznagy felmentésére irányuló javaslatot nem kell indokolni.
 
 (4) Az Országgyűlés tisztségviselője az Országgyűléshez benyújtott írásbeli nyilatkozatával lemondhat megbízatásáról. A lemondást nem kell indokolni, érvényességéhez elfogadó nyilatkozat nem szükséges, a tisztségviselői megbízatás a lemondás benyújtása napján szűnik meg.
 
-(5) A háznagy összeférhetetlenségének megállapítására a képviselők összeférhetetlenségének megállapítására vonatkozó rendelkezéseket kell alkalmazni.
+(5)
