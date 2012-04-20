@@ -1,0 +1,3 @@
+## 1. § A büntetés-végrehajtási szervezet részéről a központi államigazgatási szervek és a rendvédelmi szervek irányában fennálló egyes ellátási kötelezettségekről, a termékek és szolgáltatások átadás-átvételének és azok ellentételezésének rendjéről szóló 44/2011. (III. 23.) Korm. rendelet (a továbbiakban: R.) 1. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) E rendelet alkalmazásában közbeszerzési értékhatárok alatti ellátási igényen a költségvetési törvényben meghatározott uniós közbeszerzési értékhatárokat el nem érő ellátási igényt, közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényen valamennyi, az uniós közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényt kell érteni.”

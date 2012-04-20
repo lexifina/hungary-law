@@ -1,0 +1,3 @@
+## 3. § Az R. 14. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) E rendeletnek a büntetés-végrehajtási szervezet részéről a központi államigazgatási szervek és a rendvédelmi szervek irányában fennálló egyes ellátási kötelezettségekről, a termékek és szolgáltatások átadás-átvételének és azok ellentételezésének rendjéről szóló 44/2011. (III. 23.) Korm. rendelet módosításáról szóló 73/2012. (IV. 12.) Korm. rendelettel (a továbbiakban: 1. módosító rendelet) megállapított rendelkezéseit az 1. módosító rendelet hatálybalépésekor folyamatban levő beszerzésekre is alkalmazni kell, amennyiben a nemzeti közbeszerzési értékhatárokat elérő, de az uniós közbeszerzési értékhatárokat el nem érő igény vonatkozásában a közbeszerzési eljárás ezen időpontban még nem kezdődött meg.”
