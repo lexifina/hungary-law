@@ -1,1 +1,0 @@
-10. § A képviselő az Országgyűlés, a Kormány vagy a helyi önkormányzat képviselő-testülete által létrehozott közalapítvány kezelő szervének tisztségviselőjeként vagy kezelő szervezetének tagjaként nem részesülhet tiszteletdíjban.

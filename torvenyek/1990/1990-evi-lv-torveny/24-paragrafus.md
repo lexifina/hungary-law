@@ -1,7 +1,0 @@
-## IV. Fejezet
-
-## Záró rendelkezések
-
-24. § (1) Ez a törvény a kihirdetése napján lép hatályba.
-
-(2)

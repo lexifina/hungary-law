@@ -1,5 +1,0 @@
-## Vagyon-, jövedelem- és gazdasági érdekeltségi nyilatkozattételi kötelezettség
-
-19. § (1) A képviselő a mandátuma érvényességének megállapításától, majd ezt követően minden év január 1-jétől, továbbá – ha nem választották újra – megbízatásának megszűnésétől számított harminc napon belül köteles az Országgyűlés elnökénél e törvény melléklete szerinti vagyon-, jövedelem- és gazdasági érdekeltségi nyilatkozatot (a továbbiakban: vagyonnyilatkozat) tenni. A képviselő saját nyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, valamint gyermekének a melléklet szerinti nyilatkozatát.
-
-(2) Vagyonnyilatkozat elmulasztása esetén – annak benyújtásáig – a képviselő javadalmazásban nem részesülhet, képviselői jogait nem gyakorolhatja. Ha a képviselő megbízatása az Országgyűlés működésének befejezésével szűnik meg, akkor a volt képviselő az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény 9. §-ában meghatározott juttatásra mindaddig nem jogosult, amíg a megbízatásának megszűnését követően esedékes vagyonnyilatkozat-tételi kötelezettségének eleget nem tesz.

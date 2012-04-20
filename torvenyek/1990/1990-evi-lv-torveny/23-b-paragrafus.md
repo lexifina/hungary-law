@@ -1,1 +1,0 @@
-23/B. § Az Országgyűlés a képviselő megválasztásához szükséges feltételek fenn nem állásáról bármely képviselő írásbeli indítványára – a Mentelmi, összeférhetetlenségi és mandátumvizsgáló bizottság véleményének kikérése után – az indítvány kézhezvételétől számított harminc napon belül határoz.
