@@ -1,0 +1,1 @@
+## „(4) A Bizottsági elnöki értekezlet határozatait szótöbbséggel hozza. A Bizottsági elnöki értekezleten az állandó bizottság és a nemzetiségeket képviselő bizottság elnöke – akadályoztatása esetén az általa kijelölt alelnök – rendelkezik szavazati joggal.”

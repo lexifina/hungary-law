@@ -1,0 +1,9 @@
+# 36/2012. (IV. 19.) OGY határozat
+
+a Magyar Köztársaság Országgyűlésének Házszabályáról szóló 46/1994. (IX. 30.) OGY határozat módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-36-30-41
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-04-20 | 2012-36-30-41.1 | 36/2012. (IV. 19.) OGY határozat |
