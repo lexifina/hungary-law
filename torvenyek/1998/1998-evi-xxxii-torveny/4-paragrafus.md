@@ -1,1 +1,0 @@
-4. § Ez a törvény a kihirdetése napján lép hatályba. A törvény hatálybalépésével egyidejűleg az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény 3. §-a (1) bekezdésének első mondatából ,,ha a képviselőnek máshol ilyen jogviszonya nincs'' szövegrész hatályát veszti.
