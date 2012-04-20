@@ -1,0 +1,3 @@
+103. § (1) Az önkéntes tartalékos szolgálati jogviszonyban álló képviselő az önkéntes tartalékos felkészítés vagy a tényleges szolgálatteljesítés érdekében történő behívása kizárólag a vele egyeztetett időpontban kerülhet sor. Különleges jogrend esetén a képviselő felkészítés vagy tényleges szolgálatteljesítés érdekében történő behívására kizárólag a kezdeményezésére kerülhet sor. A képviselő az önkéntes tartalékos felkészítés vagy a tényleges szolgálatteljesítés megkezdésének az időpontját a behívóparancs kézhezvételétől számított 5 napon belül bejelenti a házelnöknek.
+
+(2) A képviselő az önkéntes tartalékos felkészítés vagy a tényleges szolgálatteljesítés ideje alatt a 36–37. alcímben meghatározott javadalmazásra nem jogosult.

@@ -1,0 +1,1 @@
+131. § A házelnök és a rendészetért felelős miniszter megállapodást köt az Országgyűlési Őrség feladatellátáshoz szükséges ruházati és egyéb anyagi, technikai feltételek biztosításáról. A megállapodás végrehajtásában a rendészetért felelős miniszter alárendeltségébe tartozó szervek is részt vehetnek.

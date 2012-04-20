@@ -1,0 +1,3 @@
+## „(1) Az országgyűlési bizottság tagja és tisztségviselője kivételével az Országgyűlés által megválasztott személy, valamint az országgyűlési képviselő (a továbbiakban együtt: közjogi tisztségviselő) a megválasztását követően az Országgyűlés előtt a melléklet szerinti szöveggel esküt vagy fogadalmat (a továbbiakban együtt: eskü) tesz.”
+
+153. § A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 11. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:

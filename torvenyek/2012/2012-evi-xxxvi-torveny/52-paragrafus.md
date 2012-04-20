@@ -1,0 +1,1 @@
+52. § A bizottsági ülés zavartalan lefolytatása érdekében az országgyűlési bizottság elnöke a 46–47. §-ban, a 48. § (1)–(2) bekezdésében és a 49. § (1)–(3) bekezdésében foglalt intézkedéseket alkalmazhatja.
