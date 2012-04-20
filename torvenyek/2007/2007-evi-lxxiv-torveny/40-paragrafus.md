@@ -1,4 +1,4 @@
-40. § (1) A pályázati eljárást az Országgyűlés által létrehozott eseti bizottság (a továbbiakban: Bizottság) felügyeli. A Bizottság ügyrendjét az e törvényben meghatározottak figyelembevételével az Országgyűlés Házszabálya szerint maga állapítja meg.
+40. § (1) A pályázati eljárást az Országgyűlés által létrehozott eseti bizottság (a továbbiakban: Bizottság) felügyeli. A Bizottság ügyrendjét az e törvényben meghatározottak figyelembevételével az Országgyűlés a házszabályi rendelkezésekben maga állapítja meg.
 
 (2) A Bizottságba minden országgyűlési képviselőcsoport jogosult egy-egy tagot jelölni.
 
