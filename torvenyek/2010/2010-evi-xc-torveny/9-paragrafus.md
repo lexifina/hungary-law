@@ -2,7 +2,7 @@
 
 (1a) Különadó fizetésére köteles
 
-a) az országgyűlési képviselő, ha megbízatása megszűnésével összefüggésben az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény alapján vagy más jogcímen,
+a) az országgyűlési képviselő, ha megbízatása megszűnésével összefüggésben az országgyűlési képviselők javadalmazásáról szóló törvény alapján vagy más jogcímen,
 
 b) a polgármester, a főpolgármester, a megyei közgyűlés elnöke (a továbbiakban együtt: polgármester), az alpolgármester, a főpolgármester-helyettes, a megyei közgyűlés alelnöke (a továbbiakban együtt: alpolgármester), ha e jogviszonyának megszűnésével összefüggésben a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény alapján vagy más jogcímen,
 
