@@ -2,4 +2,6 @@
 
 (2) Az (1) bekezdésben foglalt rendelkezés alkalmazható abban az esetben is, ha a teljesítés olyan okból vált lehetetlenné, amelyért egyik fél sem felelős.
 
-(3) Kedvezményezett elállása vagy a teljesítés lehetetlenülése esetén az államháztartásról szóló törvény vagy az államháztartás működési rendjéről szóló kormányrendelet alapján előirányzat átcsoportosításra jogosult szerv a Központi Ellátó Szerv 13. § (2) bekezdés d) pontjában meghatározott jelentése alapján a büntetés-végrehajtás tárgyévi előirányzatából a 8. § alapján átcsoportosított előirányzatot Kedvezményezett előirányzatához 30 napon belül átcsoportosítja.
+(3)[^9] Kedvezményezett elállása vagy a teljesítés lehetetlenülése esetén az államháztartásról szóló törvény vagy a végrehajtásáról szóló kormányrendelet alapján előirányzat átcsoportosításra jogosult szerv a Központi Ellátó Szerv 13. § (2) bekezdés d) pontjában meghatározott jelentése alapján a büntetés-végrehajtás tárgyévi előirányzatából a 8. § alapján átcsoportosított előirányzatot Kedvezményezett előirányzatához 30 napon belül átcsoportosítja.
+
+[^9]: A 10. § (3) bekezdése a 73/2012. (IV. 12.) Korm. rendelet 4. §-a szerint módosított szöveg.

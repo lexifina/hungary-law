@@ -12,10 +12,11 @@
 
 (5) A Kormány a Központi Ellátó Szerv feladatainak ellátására a Büntetés-végrehajtás Országos Parancsnokságát jelöli ki. A Központi Ellátó Szerv végzi és koordinálja az ellátási tevékenységet.
 
-(6) E rendelet alkalmazásában közbeszerzési értékhatárok alatti ellátási igényen a költségvetési törvényben meghatározott nemzeti közbeszerzési értékhatárokat el nem érő ellátási igényt, közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényen valamennyi, a költségvetési törvényben meghatározott nemzeti közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényt kell érteni.
+(6)[^4] E rendelet alkalmazásában közbeszerzési értékhatárok alatti ellátási igényen a költségvetési törvényben meghatározott uniós közbeszerzési értékhatárokat el nem érő ellátási igényt, közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényen valamennyi, az uniós közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényt kell érteni.
 
 (7) Ellátási kötelezettség teljesítésében kizárólag az a büntetés-végrehajtási szerv vehet részt, amelynek nem áll fenn köztartozása, és megfelel a rendezett munkaügyi kapcsolatok államháztartási törvényben meghatározott feltételeinek.
 
 [^1]: Az 1. § (1) bekezdése a 286/2011. (XII. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 286/2011. (XII. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (2a) bekezdését a 286/2011. (XII. 22.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^4]: Az 1. § (6) bekezdése a 73/2012. (IV. 12.) Korm. rendelet 1. §-ával megállapított szöveg.

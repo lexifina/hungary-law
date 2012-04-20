@@ -9,3 +9,7 @@ a) a közbeszerzési értékhatárok alatti igény vonatkozásában a Kedvezmén
 b) a közbeszerzési értékhatárokat elérő vagy meghaladó igény vonatkozásában a közbeszerzési eljárás még nem kezdődött meg.
 
 (3) A Feleknek a 2011. évre vonatkozó, az e rendelet hatálybalépését követően felmerülő, a közbeszerzési értékhatárokat elérő vagy meghaladó igényeivel összefüggő beszerzési eljárásaiban az előre nem tervezett, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások körébe tartozó, a közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényre vonatkozó rendelkezéseket kell alkalmazni.
+
+(4)[^11] E rendeletnek a büntetés-végrehajtási szervezet részéről a központi államigazgatási szervek és a rendvédelmi szervek irányában fennálló egyes ellátási kötelezettségekről, a termékek és szolgáltatások átadás-átvételének és azok ellentételezésének rendjéről szóló 44/2011. (III. 23.) Korm. rendelet módosításáról szóló 73/2012. (IV. 12.) Korm. rendelettel (a továbbiakban: 1. módosító rendelet) megállapított rendelkezéseit az 1. módosító rendelet hatálybalépésekor folyamatban levő beszerzésekre is alkalmazni kell, amennyiben a nemzeti közbeszerzési értékhatárokat elérő, de az uniós közbeszerzési értékhatárokat el nem érő igény vonatkozásában a közbeszerzési eljárás ezen időpontban még nem kezdődött meg.
+
+[^11]: A 14. § (4) bekezdését a 73/2012. (IV. 12.) Korm. rendelet 3. §-a iktatta be.
