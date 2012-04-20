@@ -1,21 +1,21 @@
-## II. RÉSZ
+## II. RÉSZ[^23]
 
-## AZ ORSZÁGGYŰLÉSI KÉPVISELŐK
+## AZ ORSZÁGGYŰLÉSI KÉPVISELŐCSOPORTOK
 
-## ÉS A KÉPVISELŐCSOPORTOK
-
-## 1. Fejezet
-
-## A KÉPVISELŐK
-
-## A képviselők jogai és kötelezettségei
+## A képviselőcsoport megalakítása és működése
 
 ## 13. §
 
-(1) Az országgyűlési képviselők tevékenységüket a köz érdekében végzik. Képviselői tevékenységükre nézve nem utasíthatók.
+(1) Képviselőcsoport alakítására a képviselők előző általános választásán országos pártlistát állító és mandátumot szerző, ugyanazon párthoz vagy annak jogutódjához tartozó képviselők jogosultak. A képviselők előző általános választásán közös országos listát állító és mandátumot szerző pártokhoz, illetve azok jogutódjához tartozó képviselők közös vagy önálló képviselőcsoport alakítására jogosultak.
 
-(2) Amennyiben törvény kivételt nem tesz, az Országgyűlés tisztségeire, illetve bizottságaiba, bármelyik képviselő megválasztható.
+(2) Az ugyanazon párthoz tartozó képviselők csak egy képviselőcsoportot alakíthatnak.
 
-(3) A képviselő joga és kötelessége, hogy kezdeményezően részt vegyen az Országgyűlés munkájában, elősegítse annak eredményes működését. Kötelessége részt venni az Országgyűlés ülésein, továbbá annak a bizottságnak az ülésein, amelynek tagja.
+(3) E § alkalmazásában azt a képviselőt kell párthoz tartozónak tekinteni, aki
 
-(4) A képviselő köteles képviselői tevékenységét az Alkotmánynak és a jogszabályoknak megfelelően végezni, valamint a Házszabály előírásait betartani.
+a) párt tagja, vagy
+
+b) párt jelöltjeként indult a választáson, vagy
+
+c) olyan független, illetve függetlenné vált képviselő, akinek csatlakozását a képviselőcsoport elfogadta.
+
+[^23]: A II. rész (13–18. §) a 36/2012. (IV. 19.) OGY határozat 11. §-ával megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.

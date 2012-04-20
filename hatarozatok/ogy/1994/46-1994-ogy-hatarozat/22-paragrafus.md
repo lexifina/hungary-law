@@ -1,17 +1,3 @@
-## A tisztségviselők megbízatásának megszűnése
+## 21. §[^29]
 
-## 22. §
-
-(1) Az Országgyűlés tisztségviselőjének megbízatása megszűnik:
-
-a) képviselői megbízatásának megszűnésével,
-
-b) a képviselőcsoportból való kilépésével vagy kizárásával, független képviselő esetében pedig valamelyik képviselőcsoporthoz való csatlakozásával,
-
-c) képviselőcsoportjának megszűnésével,
-
-d) felmentésével,
-
-e) a tisztségről való lemondással.
-
-(2) A tisztségviselő felmentéséről a Házbizottság javaslata alapján az Országgyűlés a 10. § (2) bekezdésének szabályai szerint határoz.
+[^29]: A 21. §-t és az azt megelőző alcímet a 36/2012. (IV. 19.) OGY határozat 74. § 14. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 75. § (4) bekezdését.

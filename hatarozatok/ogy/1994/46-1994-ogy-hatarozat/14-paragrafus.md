@@ -1,21 +1,11 @@
-## 2. Fejezet
-
-## A KÉPVISELŐCSOPORTOK
-
-## Az országgyűlési képviselőcsoportok megalakítása
-
 ## 14. §
 
-(1) Az ugyanazon párthoz tartozó országgyűlési képviselők országgyűlési tevékenységük összehangolására képviselőcsoportot hozhatnak létre.
+(1) Képviselőcsoportot legalább tizenkét képviselő alakíthat.
 
-(2) Az ugyanazon párthoz tartozó képviselők csak egy képviselőcsoportot alakíthatnak.
+(2) Képviselőcsoportot alkothatnak az ugyanazon párthoz tartozó képviselők akkor is, ha számuk az (1) bekezdésben meghatározott számot nem éri el, de pártjuk országos pártlistáról mandátumot szerzett, feltéve, hogy a párt országos listájáról mandátumot szerzett valamennyi képviselő ehhez a képviselőcsoporthoz csatlakozik.
 
-(3) E § alkalmazásában azt a képviselőt kell párthoz tartozónak tekinteni, aki
+(3) A képviselő csak egy képviselőcsoportnak lehet tagja.
 
-a) párt tagja, vagy
+(4) A képviselő a képviselőcsoportból kiléphet. A képviselőcsoport a tagját kizárhatja.
 
-b) párt támogatásával indult a választáson, vagy
-
-c) olyan független, illetve függetlenné vált képviselő, akinek csatlakozását a képviselőcsoport elfogadta.
-
-(4) A képviselőcsoport a tagjai sorából vezetőt választ, illetve más közös ügyeket intéző megbízottat választhat. A képviselőcsoport vezetőjének akadályoztatása esetén a képviselőcsoport vezetőjének helyettese mindazon jogokat gyakorolja, amelyeket a Házszabály a képviselőcsoport vezetőjének biztosít.
+(5) Ha valamely képviselő képviselőcsoport-tagsága megszűnik – függetlenül a tagság megszűnésének módjától – függetlenné válik. A függetlenné vált képviselő a képviselőcsoport-tagság megszűnését követő hat hónap elteltével bármely képviselőcsoporthoz csatlakozhat.

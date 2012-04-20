@@ -4,16 +4,22 @@
 
 ## 27. §
 
-(1) A Bizottsági elnöki értekezlet elnöke az Országgyűlés elnöke, tagjai az Országgyűlés állandó bizottságainak elnökei.
+(1)[^37] A Bizottsági elnöki értekezlet elnöke a házelnök, tagjai az Országgyűlés állandó bizottságainak elnökei, valamint a nemzetiségeket képviselő bizottság elnöke.
 
 (2) A Bizottsági elnöki értekezlet javaslatot tesz
 
-a) a Házbizottságnak az Országgyűlés heti munkarendjére,
+a)[^38] a Házbizottságnak az Országgyűlés munkarendjére,
 
 b) a Házbizottságnak az Országgyűlés üléseinek napirendjére,
 
-c) az Országgyűlés elnökének a bizottság kijelölésére (79. §).
+c)[^39] a házelnöknek a bizottság kijelölésére (79. §).
 
-(3) A Bizottsági elnöki értekezlet ülését az Országgyűlés elnöke hívja össze és vezeti.
+(3)[^40] A Bizottsági elnöki értekezlet ülését a házelnök hívja össze és vezeti.
 
-(4) A Bizottsági elnöki értekezlet határozatait szótöbbséggel hozza. A Bizottsági elnöki értekezleten az állandó bizottság elnöke — akadályoztatása esetén az általa kijelölt alelnök — rendelkezik szavazati joggal.
+(4)[^41] A Bizottsági elnöki értekezlet határozatait szótöbbséggel hozza. A Bizottsági elnöki értekezleten az állandó bizottság és a nemzetiségeket képviselő bizottság elnöke – akadályoztatása esetén az általa kijelölt alelnök – rendelkezik szavazati joggal.
+
+[^37]: A 27. § (1) bekezdése a 36/2012. (IV. 19.) OGY határozat 14. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módósító határozat 75. § (4) bekezdését.
+[^38]: A 27. § (2) bekezdés a) pontja a 36/2012. (IV. 19.) OGY határozat 14. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módósító határozat 75. § (4) bekezdését.
+[^39]: Az 27. § (2) bekezdés c) pontja a 36/2012. (IV. 19.) OGY határozat 73. § 3. pontja szerint módosított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^40]: A 27. § (3) bekezdés a 36/2012. (IV. 19.) OGY határozat 73. § 4. pontja szerint módosított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^41]: A 27. § (4) bekezdése a 36/2012. (IV. 19.) OGY határozat 14. § (3) bekezdésével megállapított szöveg, alkalmazására lásd e módósító határozat 75. § (4) bekezdését.

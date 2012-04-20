@@ -1,7 +1,6 @@
-## Az alakuló ülés vezetése
+## 2. §[^4]
 
-## 3. §
+## Az alakuló ülés[^5]
 
-(1) Az Országgyűlés alakuló ülését a köztársasági elnök nyitja meg. Ezt követően tájékoztatást ad a megbízólevelek átvételéről, majd felkéri a legidősebb képviselőt a korelnöki, a négy legfiatalabb képviselőt a korjegyzői feladatok ellátására.
-
-(2) Ha a képviselő a felkérést visszautasítja, a korban soron következő képviselőt kell felkérni.
+[^4]: A 2. §-t és az azt megelőző alcímet a 74. § 2. pontja hatályon kívül helyezte, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^5]: A 3. §-t megelőző alcím a 36/2012. (IV. 19.) OGY határozat 3. §-ával megállapított szöveg.

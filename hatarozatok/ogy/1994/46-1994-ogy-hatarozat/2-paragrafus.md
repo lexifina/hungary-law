@@ -1,11 +1,3 @@
-## 1. §
+## 1. §[^3]
 
-## Az újonnan megválasztott Országgyűlést a köztársasági elnök a választást követő egy hónapon belüli időpontra hívja össze.
-
-## A megbízólevél benyújtása
-
-## 2. §
-
-(1) Az országgyűlési képviselők általános választásán megválasztott képviselők a megbízólevelüket az Országgyűlés alakuló ülését megelőzően a köztársasági elnöknél nyújtják be.
-
-(2) Az időközi választáson megválasztott, valamint a pártlistáról üresedés miatt kijelölt képviselő megbízólevelét az Országgyűlés elnökénél nyújtja be.
+[^3]: Az 1. §-t és az azt megelőző alcímet a 74. § 1. pontja hatályon kívül helyezte, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.

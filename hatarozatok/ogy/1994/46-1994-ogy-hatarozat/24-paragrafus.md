@@ -1,7 +1,3 @@
-## A Házbizottság tagjai
+## 23. §[^31]
 
-## 24. §
-
-(1) A Házbizottság elnöke az Országgyűlés elnöke, tagjai az Országgyűlés alelnökei és minden képviselőcsoport vezetője.
-
-(2) A Házbizottságban csak a képviselőcsoport vezetője — akadályoztatása esetén megbízottja — rendelkezik szavazati joggal.
+[^31]: A 23. §-t a 36/2012. (IV. 19.) OGY határozat 74. § 16. pontja hatályon kívül helyezte, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.

@@ -1,18 +1,16 @@
+## 25. §[^33]
+
 ## A Házbizottság működése
 
 ## 26. §
 
-(1)[^23] A Házbizottság ülését az Országgyűlés elnöke hívja össze és vezeti. Az Országgyűlés ülésének ideje alatt az elnök összehívhatja a Házbizottság ülését.
+(1)–(3)[^34]
 
-(2) A Házbizottságot össze kell hívni, ha ezt bármelyik képviselőcsoport vezetője kéri.
+(4)[^35] Ha a Házbizottság egyhangú döntése hiányában az Országgyűlés dönt, a vita tárgyát képező kérdés ismertetését követően képviselőcsoportonként egy képviselő, továbbá az elsőként szólásra jelentkező független képviselő legfeljebb ötperces hozzászólása után határoz.
 
-(3)[^24] A Házbizottság a döntéseit egyhangúlag hozza meg. Egyhangú döntés hiányában a 23. § a), f), g), m) pontjairól az Országgyűlés, egyéb esetekben – az országgyűlési bizottság független képviselő elnökének, alelnökének és tagjának visszahívását kivéve – az Országgyűlés elnöke dönt.
+(5)[^36] A Házbizottság üléséről szó szerinti jegyzőkönyv készül. Egyebekben a Házbizottság működési rendjét – a házszabályi rendelkezésekre tekintettel – maga határozza meg.
 
-(4)[^25] Az Országgyűlés a 23. § g) pontjáról vita nélkül dönt. Az Országgyűlés a 23. § a), f) és m) pontjában a vita tárgyát képező kérdés ismertetését követően képviselőcsoportonként egy képviselő, továbbá az elsőként szólásra jelentkező független képviselő legfeljebb ötperces hozzászólása után határoz.
-
-(5)[^26] A Házbizottság üléséről szó szerinti jegyzőkönyv készül. Egyebekben a Házbizottság működési rendjét — a Házszabály rendelkezéseit figyelembe véve — maga határozza meg.
-
-[^23]: A 26. § (1) bekezdése a 71/1997. (VII. 17.) OGY határozat 3. §-ával megállapított szöveg.
-[^24]: A 26. § (3) bekezdése a 103/2007. (XII. 6.) OGY határozat 5. § (1) bekezdésével megállapított szöveg.
-[^25]: A 26. § új (4) bekezdését a 103/2007. (XII. 6.) OGY határozat 5. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdésének számozását (5) bekezdésre változtatta.
-[^26]: A 26. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 103/2007. (XII. 6.) OGY határozat 5. § (2) bekezdése.
+[^33]: A 25. §-t és az azt megelőző alcímet a 36/2012. (IV. 19.) OGY határozat 74. § 18. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 75. § (4) bekezdését.
+[^34]: A 26. § (1)–(3) bekezdését a 36/2012. (IV. 19.) OGY határozat 74. § 19. pontja hatályon kívül helyezte, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^35]: A 26. § új (4) bekezdését a 103/2007. (XII. 6.) OGY határozat 5. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdésének számozását (5) bekezdésre változtatta. A 26. § (4) bekezdése a 36/2012. (IV. 19.) OGY határozat 13. §-ával megállapított szöveg, alkalmazására lásd ez utóbbi módósító határozat 75. § (4) bekezdését.
+[^36]: A 26. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 103/2007. (XII. 6.) OGY határozat 5. § (2) bekezdése. A 26. § (5) bekezdése a 36/2012. (IV. 19.) OGY határozat 13. §-ával megállapított szöveg, alkalmazására lásd ez utóbbi módósító határozat 75. § (4) bekezdését.

@@ -1,7 +1,3 @@
-## A Házbizottság ülésének résztvevői
+## 24. §[^32]
 
-## 25. §
-
-(1) A Házbizottság ülésén a Házbizottság tagjain kívül csak az Országgyűlés elnöke által meghívott személyek vehetnek részt.
-
-(2) A Kormány képviselője állandó meghívottként tanácskozási joggal részt vehet a Házbizottság ülésén.
+[^32]: A 24. §-t és az azt megelőző alcímet a 36/2012. (IV. 19.) OGY határozat 74. § 17. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 75. § (4) bekezdését.

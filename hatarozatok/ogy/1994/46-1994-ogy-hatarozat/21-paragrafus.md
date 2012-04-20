@@ -1,21 +1,3 @@
-## Az Országgyűlés jegyzői
+## 20. §[^28]
 
-## 21. §
-
-(1) Az Országgyűlés jegyzői
-
-a) közreműködnek az Országgyűlés ülésének vezetésében,
-
-b) a kézfelemeléssel történő szavazásnál — amennyiben szükséges — összeszámolják a szavazatokat,
-
-c) a titkos szavazásnál szavazatszámláló bizottságként járnak el,
-
-d) felolvassák az országgyűlési iratokat, eskütételnél előolvassák az eskü szövegét,
-
-e) vezetik a felszólalásra jelentkezett képviselők névsorát,
-
-f) jelzik a beszédidő lejártát,
-
-g) hitelesítik az Országgyűlés szó szerinti jegyzőkönyvét.
-
-(2) Az Országgyűlés ülésén — az Országgyűlés elnöke által meghatározott sorrendben — egyidejűleg két jegyző teljesít szolgálatot, akik közül lehetőleg egy kormánypárthoz, egy ellenzéki párthoz tartozik.
+[^28]: A 20. §-t és az azt megelőző alcímet a 36/2012. (IV. 19.) OGY határozat 74. § 13. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 75. § (4) bekezdését.

@@ -1,23 +1,27 @@
 ## Az Országgyűlés és a Kormány közötti egyeztetési eljárás
 
-134/B. § (1) Az európai uniós tervezetek országgyűlési tárgyalása az állandó bizottságok feladata. A Kormány álláspontjavaslatával kapcsolatos állásfoglalás kialakítása – ha a törvény másképp nem rendelkezik – az Európai uniós bizottság hatáskörébe tartozik.
+## 134/B. §[^302]
 
-(2) Az Európai uniós bizottság a törvény 3. § (6) bekezdésére figyelemmel a bizottság elnökének javaslatára dönt arról, hogy mely európai uniós tervezetekről kíván egyeztetést kezdeményezni. Az Európai uniós bizottság bővített álláspontjavaslatot is kérhet a Kormánytól. A bizottság döntéséről tájékoztatja az Országgyűlés elnökét és az állandó bizottságok elnökeit.
+(1) Az európai uniós tervezetek országgyűlési tárgyalása az állandó bizottságok feladata. A Kormány álláspontjavaslatával kapcsolatos állásfoglalás kialakítása az európai uniós ügyekkel foglalkozó bizottság hatáskörébe tartozik.
 
-(3) Az Európai uniós bizottság tagjai kétötödének indítványára is egyeztetést kezdeményez a megjelölt tervezetről. Ilyen indítványt rendes ülésszakonként legfeljebb négy európai uniós tervezet egyeztetésére lehet tenni.
+(2) A európai uniós ügyekkel foglalkozó bizottság a bizottság elnökének javaslatára dönt arról, hogy mely európai uniós tervezetekről kíván a törvény szerinti egyeztetést kezdeményezni, illetve mely európai uniós tervezetekkel kapcsolatban kíván a Kormánytól álláspontjavaslatot, illetve bővített álláspontjavaslatot kérni. Az európai uniós ügyekkel foglalkozó bizottság elnöke a bizottság döntéséről tájékoztatja a házelnököt és az állandó bizottságok elnökeit.
 
-(4) Az Országgyűlés elnöke az Európai uniós bizottság javaslatára határidő megjelölésével felkéri a tárgykör szerint illetékes állandó bizottságot az uniós tervezetekre vonatkozó vélemény kidolgozására. Az állandó bizottság maga is kérheti kijelölését vélemény elkészítésére. Ez esetben a bizottság kijelölése kötelező. Az Országgyűlés elnöke az állandó bizottság kijelöléséről tájékoztatja a bizottsági elnöki értekezletet.
+(3) Az európai uniós ügyekkel foglalkozó bizottság tagjai kétötödének indítványára is egyeztetést kezdeményezhet a megjelölt európai uniós tervezetről. Ilyen indítványt rendes ülésszakonként legfeljebb négy európai uniós tervezet egyeztetésére lehet tenni.
 
-(5) Az állandó bizottság meghívhatja nyilvános üléseire a 81. § (2) bekezdésében megjelölt országos érdekképviseletek és társadalmi szervezetek képviselőit.
+(4) Az európai uniós ügyekkel foglalkozó bizottság javaslatára a házelnök határidő megjelölésével felkéri az európai uniós tervezet tárgyával kapcsolatban feladatkörrel rendelkező állandó bizottságot az európai uniós tervezetre vonatkozó vélemény kidolgozására. A házelnök az állandó bizottságot vélemény elkészítésére az állandó bizottság saját kezdeményezésére is kijelöli. A házelnök az állandó bizottság kijelöléséről tájékoztatja a Bizottsági elnöki értekezletet.
 
-(6) Az Európai uniós bizottság az európai uniós döntéshozatal rendje által megkívánt határidőig, az állandó bizottság véleményének ismeretében zárt ülésen alakítja ki az európai uniós tervezetre vonatkozó állásfoglalását. A zárt ülésen a 69. § (3) bekezdésében meghatározott személyek mellett részt vehet a véleményezésre felkért állandó bizottság elnöke is, továbbá képviselőcsoportonként egy-egy szakértő.
+(5) Az európai uniós ügyekkel foglalkozó bizottság a törvény szerinti egyeztetés keretében a kijelölt állandó bizottság véleményének ismeretében alakítja ki az európai uniós tervezettel kapcsolatos állásfoglalását. Az európai uniós ügyekkel foglalkozó bizottság elnöke a bizottságnak az állásfoglalás kialakításáról szóló zárt ülésére meghívja a kijelölt állandó bizottság elnökét, valamint képviselőcsoportonként egy-egy szakértőt is.
 
-(7) Az Európai uniós bizottság szóbeli eljárás keretében vizsgálja meg az európai uniós tervezeteket és az arra vonatkozó tárgyalási álláspontjavaslatot. A tárgyalási álláspontjavaslat vitáján a törvény 4. § (3) bekezdésében meghatározott esetben jelen van az illetékes miniszter vagy politikai államtitkár, egyéb esetekben a Kormány nevében érdemi nyilatkozat megtételére feljogosított személy. A bizottság állásfoglalása kialakításánál figyelembe veszi a parlamenti eljárásban részt vevő más állandó bizottságok véleményét.
+(6) Az európai uniós ügyekkel foglalkozó bizottság szóbeli eljárás keretében vizsgálja meg az európai uniós tervezetet és a Kormány arra vonatkozó álláspontjavaslatát. A bizottság az állásfoglalása kialakításánál figyelembe veszi a kijelölt más állandó bizottságok véleményét.
 
-(8) Ha az európai uniós tervezet elfogadásához többszöri tanácsi döntés szükséges, az Európai uniós bizottság dönti el, hogy a további olvasatoknál kikéri-e a korábban felkért állandó bizottság véleményét.
+(7) Ha az európai uniós tervezet elfogadásához többszöri tanácsi döntés szükséges, az európai uniós ügyekkel foglalkozó bizottság dönti el, hogy a további olvasatoknál kikéri-e a korábban kijelölt állandó bizottság véleményét.
 
-(9) Az Európai uniós bizottság az állandó bizottság véleményének hiányában is állást foglalhat a tervezetről.
+(8) Ha a kijelölt állandó bizottság határidőre nem ad véleményt, az európai uniós ügyekkel foglalkozó bizottság a kijelölt állandó bizottság véleményének hiányában is állást foglalhat a tervezetről.
 
-(10) Az Európai uniós bizottság állásfoglalása a jegyzőkönyvbe foglalt elnöki összefoglaló, amelyet az Országgyűlés elnöke és a Kormány a bizottság ülését követő huszonnégy órán belül írásban megkap.
+(9) Az európai uniós ügyekkel foglalkozó bizottság állásfoglalása a jegyzőkönyvbe foglalt elnöki összefoglaló, amelyet a bizottság elnöke a bizottsági ülést követő huszonnégy órán belül írásban megküldi a házelnöknek és a Kormánynak.
 
-(11) A Kormány a törvény 6. §-ában meghatározott tájékoztatást az Európai uniós bizottság részére adja. A bizottság a törvény által meghatározott esetben dönt az indokolás elfogadásáról.
+(10) A Kormány által a törvény szerint adott, az Európai Unió kormányzati részvétellel működő intézményeinek döntése utáni írásbeli, valamint – az Európai Tanács üléséről történő tájékoztatás esetét kivéve – szóbeli tájékoztatással összefüggésben az európai uniós ügyekkel foglalkozó bizottság jár el. A bizottság a törvény által meghatározott esetben dönt az indokolás elfogadásáról.
+
+(11) Az európai uniós tervezetre vonatkozó egyeztetési eljárás lezárására irányuló országgyűlési döntést az európai uniós ügyekkel foglalkozó bizottság hozza meg.
+
+[^302]: A 134/B. § a 36/2012. (IV. 19.) OGY határozat 60. §-ával megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
