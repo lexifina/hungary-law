@@ -1,1 +1,0 @@
-Az Országgyűlés a demokratikus közélet tisztaságának előmozdítása, valamint annak érdekében, hogy az országgyűlési képviselők a demokratikus jogállam keretei között megfelelően lássák el feladataikat, az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvényt (a továbbiakban: Tv.) az alábbiak szerint módosítja:
