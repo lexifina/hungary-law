@@ -1,3 +1,0 @@
-## 70. § A H. 143. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) Ha a házszabályi rendelkezések értelmezéséért felelős bizottság állásfoglalásával kapcsolatban az Országgyűlés döntését kérik, a plenáris ülésen való tárgyalás során először az Országgyűlés döntését indítványozó képviselőcsoporthoz tartozó képviselő, illetve független képviselő szólal fel. Ezt követően a házszabályi rendelkezések értelmezéséért felelős bizottság előadója ismerteti a bizottság állásfoglalását és annak indokait. A képviselőcsoportok álláspontját képviselőcsoportonként egy képviselő fejtheti ki, és véleményt nyilváníthat az elsőként szólásra jelentkező független képviselő is. Az e bekezdésben foglalt felszólalások nem haladhatják meg az öt percet.”

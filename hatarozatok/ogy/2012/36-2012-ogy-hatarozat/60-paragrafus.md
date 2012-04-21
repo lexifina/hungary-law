@@ -1,5 +1,0 @@
-## 59. § A H. 134/A. §-a helyébe a következő rendelkezés lép:
-
-## „134/A. § (1) Az Országgyűlésről szóló törvényben (e fejezet alkalmazásában a továbbiakban: törvény) meghatározott európai uniós tervezetek, valamint az európai uniós intézményektől az Országgyűléshez beérkezett egyéb dokumentumok az országgyűlési képviselők és a képviselőcsoportok, valamint az Országgyűlés Hivatalának munkatársai számára hozzáférhetők. Az uniós intézményektől az Országgyűléshez beérkezett dokumentumokat az európai uniós ügyekkel foglalkozó bizottságnál vezetett nyilvántartás tartalmazza.
-
-## (2) A Kormány által a törvény szerinti, az Országgyűlésnek megküldött álláspontjavaslatot (a továbbiakban: álláspontjavaslat) a házelnök, az európai uniós ügyekkel foglalkozó bizottság zárt ülésén részvételre jogosult személy, valamint az egyeztetési eljárásban véleményalkotásra kijelölt állandó bizottság tagja ismerheti meg. Az álláspontjavaslatot a megismerésére jogosult személyek az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti döntés megalapozását szolgáló adatként kezelik.”

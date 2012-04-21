@@ -1,3 +1,0 @@
-## 43. § A H. 111. §-a helyébe a következő rendelkezés lép:
-
-## „111. § Ha a köztársasági elnök az Alkotmánybíróság által az Alaptörvénnyel ellentétesnek nyilvánított rendelkezés miatt visszaküldi a törvényt az Országgyűlésnek, vagy ha az Alkotmánybíróság az Országgyűlés határozata alapján lefolytatott vizsgálat során alaptörvény-ellenességet állapított meg, a házelnök felhívja az Alkotmányügyi bizottságot és a kijelölt bizottságot az Alkotmánybíróság határozatának megfelelő módosító javaslat előterjesztésére. Az eljárásra ezt követően a 107. § (2) és (4) bekezdéseit kell megfelelően alkalmazni.”
