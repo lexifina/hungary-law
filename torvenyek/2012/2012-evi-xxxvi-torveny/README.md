@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-36-00-00
 | --- | --- | --- |
 | 2012-04-20 | 2012. évi XXXVI. törvény | 2012-36-00-00.0 (közlönyállapot) |
 | 2012-04-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-36-00-00.1 |
+| 2012-04-21 | 2010. évi CXXX. törvény | 2012-36-00-00.2 |
