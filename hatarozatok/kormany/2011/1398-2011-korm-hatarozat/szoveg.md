@@ -24,8 +24,10 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-4. jóváhagyja, hogy az Állami Autópálya Kezelő Zrt. szabad pénzeszközeiből összesen legfeljebb 30 milliárd forintot a folyamatban lévő és előkészítés alatt álló infrastruktúra fejlesztési célokra használjon fel, és felhívja a nemzeti fejlesztési minisztert a szükséges tulajdonosi intézkedések meghozatalára.
+4.[^2] jóváhagyja, hogy az Állami Autópálya Kezelő Zrt. szabad pénzeszközeiből összesen legfeljebb 24 milliárd forintot a 2012. és 2013. évi útfelújítási és karbantartási feladatokra használjon fel, és felhívja a nemzeti fejlesztési minisztert a szükséges tulajdonosi intézkedések meghozatalára.
 
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
+
+[^2]: A 4. pont az 1117/2012. (IV. 21.) Korm. határozattal megállapított szöveg.
