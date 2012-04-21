@@ -2,25 +2,25 @@
 
 a) barlangi túravezető esetén legalább alapfokú és bármely szakiskolai, barlangi kutatásvezető esetén legalább középfokú iskolai végzettséggel rendelkezik,
 
-b)[^20] e rendeletben meghatározott elméleti és gyakorlati képzésen részt vett,
+b)[^21] e rendeletben meghatározott elméleti és gyakorlati képzésen részt vett,
 
-c)[^21] a képzést követően sikeres vizsgát tett.
+c)[^22] a képzést követően sikeres vizsgát tett.
 
-(2)[^22] Az (1) bekezdés b) pontjában meghatározott képzés óraszámát, szakmai követelményeit, a képzés végzésére való jogosultság feltételeit, a vizsgakövetelményeket, a vizsga rendjét, valamint a vizsga díját, megfizetésének szabályait a 3. számú melléklet tartalmazza.
+(2)[^23] Az (1) bekezdés b) pontjában meghatározott képzés óraszámát, szakmai követelményeit, a képzés végzésére való jogosultság feltételeit, a vizsgakövetelményeket, a vizsga rendjét, valamint a vizsga díját, megfizetésének szabályait a 3. számú melléklet tartalmazza.
 
-(3)[^23] A vizsgát az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: Főfelügyelőség) által felkért, öttagú vizsgabizottság előtt kell letenni, amelynek egy tagja a Főfelügyelőség, egy tagja az igazgatóságok, egy tagja a Minisztérium kormánytisztviselője, egy tagjára a barlangkutatásra, barlangi túrázásra, illetve barlangi mentésre alakult civil szervezetek (a továbbiakban együtt: barlangkutató szervezetek) együttesen tesznek javaslatot, egy tagja pedig a képzés végzésére jogosult jogi személy képviselője.
+(3)[^24] A vizsgát az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: Főfelügyelőség) által felkért, öttagú vizsgabizottság előtt kell letenni, amelynek egy tagja a Főfelügyelőség, egy tagja az igazgatóságok, egy tagja a Minisztérium kormánytisztviselője, egy tagjára a barlangkutatásra, barlangi túrázásra, illetve barlangi mentésre alakult civil szervezetek (a továbbiakban együtt: barlangkutató szervezetek) együttesen tesznek javaslatot, egy tagja pedig a képzés végzésére jogosult jogi személy képviselője.
 
 (4) A (3) bekezdés szerinti vizsgabizottság az ügyrendjét maga állapítja meg.
 
-(5)[^24] A sikeres vizsgát tett személyt a Főfelügyelőség a vizsgabizottság írásbeli tájékoztatásának kézhezvételét követő nyolc napon belül – amennyiben azt az érintettek azonosító adataik és fényképük benyújtásával kérelmezik – sorszámozott, arcképes barlangi túravezetői vagy barlangi kutatásvezetői igazolvánnyal látja el. Az igazolványok mintáját a 4. számú melléklet tartalmazza. Amennyiben az igazolvány kiállításra kerül, az abban feltüntetett adatokat az érintettek hozzájárulásával a Főfelügyelőség nyilvántartja.
+(5)[^25] A sikeres vizsgát tett személyt a Főfelügyelőség a vizsgabizottság írásbeli tájékoztatásának kézhezvételét követő nyolc napon belül – amennyiben azt az érintettek azonosító adataik és fényképük benyújtásával kérelmezik – sorszámozott, arcképes barlangi túravezetői vagy barlangi kutatásvezetői igazolvánnyal látja el. Az igazolványok mintáját a 4. számú melléklet tartalmazza. Amennyiben az igazolvány kiállításra kerül, az abban feltüntetett adatokat az érintettek hozzájárulásával a Főfelügyelőség nyilvántartja.
 
-(6)[^25]
+(6)[^26]
 
-(7)[^26]
+(7)[^27]
 
-(8)[^27] Barlangi tevékenységgel összefüggésben kiszabott természetvédelmi bírság, ilyen tevékenységgel összefüggésben elkövetett természetvédelmi szabálysértés vagy természetkárosítás bűncselekménye esetén a jogerősen felelősségre vont barlangi túravezető, illetve barlangi kutatásvezető köteles a vizsgát megismételni. A vizsga megismétléséig ezen személy barlangi túravezetői, illetve barlangi kutatásvezetői tevékenységet nem gyakorolhat.
+(8)[^28] Barlangi tevékenységgel összefüggésben kiszabott természetvédelmi bírság, ilyen tevékenységgel összefüggésben elkövetett természetvédelmi szabálysértés vagy természetkárosítás bűncselekménye esetén a jogerősen felelősségre vont barlangi túravezető, illetve barlangi kutatásvezető köteles a vizsgát megismételni. A vizsga megismétléséig ezen személy barlangi túravezetői, illetve barlangi kutatásvezetői tevékenységet nem gyakorolhat.
 
-(9)[^28] A vizsga megismétlésére legkorábban
+(9)[^29] A vizsga megismétlésére legkorábban
 
 a) természetvédelmi bírság esetén az erről szóló határozat jogerőre emelkedését követő 1 év,
 
@@ -28,12 +28,12 @@ b) szabálysértés esetén az erről szóló határozat jogerőre emelkedését
 
 c) természetkárosítás bűncselekménye esetén az erről szóló ítélet jogerőre emelkedését követő 5 év
 
-[^20]: A 17. § (1) bekezdés b) pontja a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^21]: A 17. § (1) bekezdés c) pontja a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^22]: A 17. § (2) bekezdése a 10/2010. (IV. 28.) KvVM rendelet 3. § (2) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^23]: a 17. § (3) bekezdése a 148/2011. (XII. 29.) VM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.
-[^24]: A 17. § (5) bekezdése a 148/2011. (XII. 29.) VM rendelet 3. § (3) bekezdésével megállapított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.
-[^25]: A 17. § (6) bekezdését a 3/2007. (I. 22.) KvVM rendelet 9. § (2) bekezdése iktatta be, a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés f) pontja hatályon kívül helyezte, ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^26]: A 17. § (7) bekezdését a 3/2007. (I. 22.) KvVM rendelet 9. § (2) bekezdése iktatta be, a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés f) pontja hatályon kívül helyezte, ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^27]: A 17. § (8) bekezdését a 3/2007. (I. 22.) KvVM rendelet 9. § (2) bekezdése iktatta be.
-[^28]: A 17. § (9) bekezdését a 3/2007. (I. 22.) KvVM rendelet 9. § (2) bekezdése iktatta be.
+[^21]: A 17. § (1) bekezdés b) pontja a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A 17. § (1) bekezdés c) pontja a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^23]: A 17. § (2) bekezdése a 10/2010. (IV. 28.) KvVM rendelet 3. § (2) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^24]: a 17. § (3) bekezdése a 148/2011. (XII. 29.) VM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.
+[^25]: A 17. § (5) bekezdése a 148/2011. (XII. 29.) VM rendelet 3. § (3) bekezdésével megállapított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.
+[^26]: A 17. § (6) bekezdését a 3/2007. (I. 22.) KvVM rendelet 9. § (2) bekezdése iktatta be, a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés f) pontja hatályon kívül helyezte, ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^27]: A 17. § (7) bekezdését a 3/2007. (I. 22.) KvVM rendelet 9. § (2) bekezdése iktatta be, a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés f) pontja hatályon kívül helyezte, ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^28]: A 17. § (8) bekezdését a 3/2007. (I. 22.) KvVM rendelet 9. § (2) bekezdése iktatta be.
+[^29]: A 17. § (9) bekezdését a 3/2007. (I. 22.) KvVM rendelet 9. § (2) bekezdése iktatta be.

@@ -68,6 +68,6 @@
 
 ## 3. A barlangok felszín alatti kiterjedését ábrázoló 1:1000–4000 méretarányú térképek.
 
-2. számú melléklet a 13/1998. (V. 6.) KTM rendelethez[^41]
+2. számú melléklet a 13/1998. (V. 6.) KTM rendelethez[^42]
 
-[^41]: A 2. számú melléklet a 3/2007. (I. 22.) KvVM rendelet 12. §-ával megállapított szöveg.
+[^42]: A 2. számú melléklet a 3/2007. (I. 22.) KvVM rendelet 12. §-ával megállapított szöveg.

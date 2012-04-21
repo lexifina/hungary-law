@@ -1,6 +1,6 @@
 ## A barlangi túravezetői és a barlangi kutatásvezetői igazolványok mintája
 
-5. számú melléklet a 13/1998. (V. 6.) KTM rendelethez[^50]
+5. számú melléklet a 13/1998. (V. 6.) KTM rendelethez[^51]
 
 A) A látogatási célú barlangi búvármerülésre igénybe vehető barlangok köre
 
@@ -50,4 +50,4 @@ Hévízi-forrásbarlang (legfeljebb 10 fő/nap)
 
 Tapolcai-tavasbarlang (legfeljebb 20 fő/nap)
 
-[^50]: Az 5. számú mellékletet a 3/2007. (I. 22.) KvVM rendelet 15. §-a iktatta be.
+[^51]: Az 5. számú mellékletet a 3/2007. (I. 22.) KvVM rendelet 15. §-a iktatta be.

@@ -404,6 +404,6 @@
 
 ## Szárhalmi-barlang
 
-3. számú melléklet a 13/1998. (V. 6.) KTM rendelethez[^42]
+3. számú melléklet a 13/1998. (V. 6.) KTM rendelethez[^43]
 
-[^42]: A 3.számú melléklet a 148/2011. (XII. 29.) VM rendelet 3. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.
+[^43]: A 3.számú melléklet a 148/2011. (XII. 29.) VM rendelet 3. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.

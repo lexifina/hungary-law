@@ -14,8 +14,8 @@ e) a maradandó járatbiztosítás,
 
 f) a maradandó járatbiztosítással együtt létrehozott és annak részét képező barlangbejárat vagy barlangszakasz lezárása, valamint a lezárást magába foglaló műtárgy,
 
-g)[^38] az ismert barlang, barlangszakasz mesterséges vágattal történő megnyitása, valamint ismert barlangok, barlangszakaszok között mesterséges átjáró létesítése.
+g)[^39] az ismert barlang, barlangszakasz mesterséges vágattal történő megnyitása, valamint ismert barlangok, barlangszakaszok között mesterséges átjáró létesítése.
 
 (2) Nem minősül kiépítésnek a barlangot magába foglaló kőzetbe süllyesztett – az (1) bekezdés d) pontja alá nem tartozó – biztosítószerkezet, az ideiglenesen beszerelt kötél, hágcsó, a barlang feltáró kutatása során használt ideiglenes járatbiztosítás.
 
-[^38]: A 18. § (1) bekezdésének g) pontját a 3/2007. (I. 22.) KvVM rendelet 11. §-a iktatta be.
+[^39]: A 18. § (1) bekezdésének g) pontját a 3/2007. (I. 22.) KvVM rendelet 11. §-a iktatta be.
