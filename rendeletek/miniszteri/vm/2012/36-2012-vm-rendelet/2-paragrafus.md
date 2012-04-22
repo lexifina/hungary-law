@@ -1,3 +1,0 @@
-## 1. § A barlangok nyilvántartásáról, a barlangok látogatásának és kutatásának egyes feltételeiről, valamint a barlangok kiépítéséről szóló 13/1998. (V. 6.) KTM rendelet (a továbbiakban: BarlangR.) 21. §-a a következő (2) bekezdéssel egészül ki:
-
-## „(2) E rendeletnek a barlangok nyilvántartásáról, a barlangok látogatásának és kutatásának egyes feltételeiről, valamint a barlangok kiépítéséről szóló 13/1998. (V. 6.) KTM rendelet és az egyes levegőszennyező anyagok összkibocsátási határértékeiről szóló 7/2003. (V. 16.) KvVM–GKM együttes rendelet módosításáról szóló 36/2012. (IV. 13.) VM rendelettel (a továbbiakban: R.) hatályon kívül helyezett rendelkezései az R. hatálybalépésekor folyamatban lévő, első fokon el nem bírált engedélyezési ügyekben nem alkalmazhatók.”
