@@ -1,3 +1,0 @@
-25. § (1) A hivatali kapuval rendelkező szervezetek teljes nevét, rövidített nevét és az elektronikus közszolgáltatás működéséről szóló kormányrendelet szerinti érkeztető számban használt azonosítóját a regisztrációs adatbázis adatkezelője napi frissítéssel a kormányzati portál ügyintézési szekciójában közzéteszi.
-
-(2) A hivatali kapuból küldött dokumentumok, illetve a hivatali kapun keresztül igénybe vett szolgáltatás esetén a központi rendszer által a 18. § (3) bekezdése szerinti adatokon túlmenően az azonosítás érdekében a szervezet (1) bekezdés szerinti, az érkeztető számban használt azonosítója is átadásra kerül a címzett, illetve szolgáltatást nyújtó szervezetnek.
