@@ -1,0 +1,1 @@
+34. § E rendelet 2. alcíme a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 6–8. cikkeinek, a 4. alcíme a 2009/767/EK bizottsági határozatnak és a 2010/425/EU bizottsági határozatnak való megfelelést szolgálja.
