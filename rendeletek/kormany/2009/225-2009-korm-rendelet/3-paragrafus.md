@@ -1,5 +1,0 @@
-## Az elektronikus közszolgáltatással szembeni általános követelmények
-
-3. § (1) A központi rendszer elektronikus közszolgáltatás nyújtásával biztosítja annak lehetőségét, hogy a közigazgatási és egyéb közfeladatot ellátó szervek, szervezetek, a természetes és jogi személyek valamint jogi személyiség nélküli szervezetek a hatósági és más ügyek intézése, tájékozódási joguk gyakorlása, tájékoztatási kötelezettségük teljesítése, valamint közhitelű nyilvántartások elérése, az ezekbe való betekintés és az ezekből történő adatigénylés, illetve adatszolgáltatás során elektronikus úton eljárhassanak.
-
-(2) A központi rendszer alap és emelt szintű infrastrukturális, hálózati adatátviteli jellegű szolgáltatásai biztosítják az elektronikus közszolgáltatást nyújtók kapcsolattartását a felhasználókkal és egymással, a rendszer útján elérhetővé tett tartalomszolgáltatások elérhetőségét, az ügyek elektronikus úton történő intézésének műszaki lehetőségét, feltételrendszerét valamint a kapcsolattartás során az adatvédelmi és adatbiztonsági követelmények érvényesülését.
