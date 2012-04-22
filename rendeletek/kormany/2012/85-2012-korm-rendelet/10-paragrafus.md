@@ -1,0 +1,7 @@
+10. § (1) Telefon és más hangkapcsolatot biztosító elektronikus úton azonosított ügyféllel történő kapcsolattartás a jelen §-ban előírt feltételekkel alkalmazható.
+
+(2) Ha a hatóság rögzíti a hangkapcsolatot biztosító elektronikus úton folytatott beszélgetést, úgy a hangfelvétel a hangfelvételre vonatkozó általános selejtezési határidőt megelőzően akkor selejtezhető, ha a hatóság a nyilatkozatokról jegyzőkönyvet vagy hivatalos feljegyzést készített, és azt az ügyfél jóváhagyta. A hivatalos feljegyzés jóváhagyottnak tekintendő abban az esetben is, amennyiben annak tartalmát az ügy valamely későbbi irata tartalmazza, feltéve hogy ezt az iratot az ügyfél annak megismerését követő 8 napon belül nem kifogásolja, erre az ügyfél figyelmét hitelt érdemlő módon fel kell hívni.
+
+(3) Ha a hatóság nem rögzíti a hangkapcsolatot biztosító elektronikus úton folytatott beszélgetést, úgy a hatóság hivatalos feljegyzést készít, vagy annak tartalmát egyéb hitelesített módon rögzíti, és azt az ügyfél részére megküldi. A feljegyzés vagy a más módon történt rögzítés – vagy ha annak tartalmát az ügy valamely későbbi irata tartalmazza, úgy ez az irat – tartalma az ügyfél által jóváhagyottnak tekintendő, ha azt az ügyfél annak megismerését követő 8 napon belül nem kifogásolja, erre az ügyfél figyelmét hitelt érdemlő módon fel kell hívni.
+
+(4) A hatóság az írásbelinek nem minősülő elektronikus úton tett nyilatkozatot az ügyfél kérésére a (3) bekezdés megfelelő alkalmazásával hitelesített módon rögzíti és azt a (3) bekezdés alkalmazásával az ügyfél rendelkezésére bocsátja.
