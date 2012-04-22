@@ -1,1 +1,0 @@
-A Kormány az elektronikus közszolgáltatásról szóló 2009. évi LX. törvény 31. § (2) bekezdés b) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:

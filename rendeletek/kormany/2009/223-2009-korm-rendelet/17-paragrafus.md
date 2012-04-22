@@ -1,5 +1,0 @@
-17. § (1) Az eljárási cselekmény jellegének megfelelően a rendszer működtetője az üzemi rendszertől műszakilag független, területileg elkülönült, megfelelő biztonsági szaktudással és infrastruktúrával rendelkező szervezetnél köteles biztonsági másolatot elhelyezni olyan nyilvántartásairól, amelyeket papír alapon (eredetiben vagy másolatban) nem őriz meg.
-
-(2) Az (1) bekezdés szerint szükséges biztonsági másolatok kezelése során az adatok elhelyezését és tárolását olyan dokumentáltsággal és módon kell végezni, amely a rendszer teljes megsemmisülése esetén is lehetővé teszi a nyilvántartás azonos funkcionalitású, és lehetőség szerinti legteljesebb adattartalmú újbóli rövid idő alatt történő kialakítását.
-
-(3) A biztonsági őrzés során gondoskodni kell arról, hogy az adatokat az arra jogosult személyen kívül más ne ismerhesse meg, valamint biztosítani kell az adatok jogosulatlan személy általi megsemmisítése, megváltoztatása vagy hozzáférhetetlenné tétele elleni védelmét mind a szervezeten belülről, mind a szervezeten kívülről jövő informatikai és más támadások esetén.
