@@ -1,5 +1,11 @@
-## 8. § A 7. §-ban szereplő aláírásokon túlmenően a közigazgatási hatósági eljárás során az ügyfél használhat olyan, az Eat. 7. § (1) bekezdése alapján belföldinek nem minősülő hitelesítés-szolgáltató által kibocsátott tanúsítványra épülő elektronikus aláírást, amelynél az adott tanúsítványra vonatkozóan a 2009/767/EK bizottsági határozatnak megfelelően valamely más EGT-állam által felügyelt, vagy más EGT-állam területén jogszerűen működő önkéntes akkreditációs rendszer keretében tanúsított megbízható szolgáltatások listáján
+## 8. §[^23] A tanúsítvány kiadásának feltételét képező regisztráció során az igénylő személyazonosságát és a bemutatott igazolvány érvényességét ellenőrizni kell
 
-a) minősített szolgáltatóként szerepel, és kizárja vagy egyértelműen azonosíthatóvá teszi az álnév használatát vagy
+a) magyar állampolgár esetében a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvényben meghatározott személyazonosság igazolására alkalmas hatósági igazolványa alapján,
 
-b) nem minősített szolgáltatóként szerepel, ő és a lista alapján elérhető hitelesítési rendjéből egyértelműen megállapítható a 7. § (1) bekezdés a)–c) pontjában, a (2) bekezdésében, valamint a 9. § (2)–(5) bekezdésében foglalt követelmények teljesítése.
+b) az idegenrendészeti nyilvántartásban szereplő személyek esetében, amennyiben a nyilvántartás a regisztrációt végzők részére hozzáférhető, a központi idegenrendészeti nyilvántartásban,
+
+c) a b) pontba nem tartozó természetes személy esetében útlevele vagy más, jogszabály által a személyének azonosítására alkalmasnak minősített okmány alapján,
+
+d) az Eat. 7. § (1) bekezdése alapján belföldinek nem minősülő hitelesítés-szolgáltató esetében az adott ország szabályai szerint a személy azonosítására alkalmas okmány felhasználásával.
+
+[^23]: A 8. § a 82/2012. (IV. 21.) Korm. rendelet 9. §-ával megállapított szöveg.

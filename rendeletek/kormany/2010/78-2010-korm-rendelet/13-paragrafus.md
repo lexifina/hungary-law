@@ -1,7 +1,14 @@
-## 13. § A hatóság nevében eljáró természetes személy csak olyan elektronikus aláírási tanúsítványt használhat, amely megfelel az alábbi követelményeknek:
+13. §[^31] (1) A hatóság nevében kiadmányozásra feljogosított természetes személy által e feladatkörében is használt aláírás esetén a 12. § szerinti szabályoknak megfelelő aláírások használhatók, az e §-ban megadott eltérésekkel.
 
-a) a tanúsítvány a 9–10. § szerinti regisztrációs eljárás alapján rögzített adatoknak megfelelően készül;
+(2) Kiadmányozásra feljogosított személy e minőségében olyan elektronikus aláírást használhat, amelyhez tartozó hitelesítési rend szerepel az elektronikus ügyintézési felügyelet által vezetett nyilvántartásban.
 
-b) a tanúsítványhoz tartozó hitelesítési rend megfelel a 7. § (1) bekezdés d) pontjában foglalt követelményeknek;
+(3)[^32]
 
-c) a tanúsítvány kibocsátásának alapjául szolgáló hitelesítési rend a 17. § (2) bekezdés a) pontja szerinti nyilvántartásban szerepel.
+(4) A hatóság a tájékoztatási kötelezettségének teljesítésekor a 12. § (5) bekezdés b) pont szerinti adatokon túl külön közzéteszi az adott személy hatóság nevében elektronikus aláírással történő kiadmányozásra való jogosultságát.
+
+(5) A (4) bekezdés, valamint a 12. § (5) bekezdés b) és c) pont szerinti információkat a tanúsítvány használatra alkalmatlanná válásától számított 20 évig kell a honlapon hozzáférhetővé tenni.
+
+(6) Az (1) bekezdés szerinti feladatra alkalmas tanúsítványt és aláírás-létrehozó adatot külön jogszabályban meghatározott védelem alá eső tisztséget, valamint fontos és bizalmas munkakört betöltő személyek csak a kormányzati hitelesítés-szolgáltatás keretében vehetnek igénybe.
+
+[^31]: A 13. § a 82/2012. (IV. 21.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^32]: A 13. § (3) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 33. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.

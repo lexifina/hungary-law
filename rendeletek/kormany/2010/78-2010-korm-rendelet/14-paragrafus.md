@@ -1,3 +1,12 @@
-14. § (1) A döntést nem tartalmazó elektronikus dokumentumokat, értesítéseket, a hatósági nyilvántartásokból történő adatszolgáltatást tanúsító dokumentumokat, valamint az önállóan nem fellebbezhető döntéseket tartalmazó végzéseket a hatóság a számítógépes rendszerében gépi elektronikus aláírással, időbélyegzéssel láthatja el.
+14. §[^33] (1) A hatóság számítógépes rendszere számára kibocsátott, a hatóság nevében történő nyilatkozattétel gépi aláírással történő hitelesítésére, valamint az elektronikus adatkapcsolatokban az egyes számítógépes rendszerek egyértelmű azonosítására csak olyan elektronikus aláírási tanúsítvány használható, amelyet
 
-(2) A számítógépes rendszer által használt gépi elektronikus aláírás tanúsítványát, az aláírás elektronikus ellenőrzését lehetővé tevő címet a hatóság honlapján közzé kell tenni, és ott az érvényességének lejártától számított 10 évig hozzáférhetővé kell tenni.
+a) a kormányzati hitelesítés szolgáltató e célra állított ki, vagy
+
+b) megfelel a jogszabályban megadott biztonsági és technikai követelményeknek.
+
+(2) E § alkalmazásában nyilatkozattételnek minősül minden olyan adatközlés, amely felhasználásánál a közlő szervezet vagy személy igazolt azonosítása szükséges. Igazolás szükségességébe tartozik különösen a jogosultsághoz kötött funkciók igénybevétele.
+
+(3)[^34]
+
+[^33]: A 14. § a 82/2012. (IV. 21.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^34]: A 14. § (3) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 33. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
