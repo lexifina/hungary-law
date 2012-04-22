@@ -1,4 +1,4 @@
-4. § (1) E rendelet alkalmazása során szolgáltatási tevékenységgel összefüggő ügyekben gyakorlati segítség nyújtásával foglalkozó szervezet lehet (a továbbiakban: segítségnyújtó szervezet) az a szervezet, amelyeket jogszabály ilyen tevékenység ellátására kötelez, vagy amelyek adataikat közzététel céljából elektronikus űrlapon a központi elektronikus szolgáltató rendszer adatkezelője részére megküldik.
+4. § (1)[^9] E rendelet alkalmazásában szolgáltatási tevékenységgel összefüggő ügyekben gyakorlati segítség nyújtásával foglalkozó szervezet az a szerv vagy szervezet, amelyet jogszabály ilyen tevékenység ellátására kötelez, vagy amelyet kérésére a fogyasztóvédelemért felelős miniszter, vagy a gazdaságpolitikáért felelős miniszter e feladatra – a Magyar Közlöny mellékletét képező Hivatalos Értesítőben közzétett egyedi határozatában – kijelöl.
 
 (2) Az (1) bekezdés szerinti szervezetek az erre rendszeresített elektronikus űrlapon magyar és angol nyelven bejelentik
 
@@ -12,18 +12,24 @@ d) az ügyfelek számára nyújtott gyakorlati segítség formáját, terjedelm�
 
 e) ha e tevékenységük jogszabályi kötelezettségből ered, az ezt szabályozó jogszabályi rendelkezéseket, ha nem, a vállalt támogatási területen működő országos szakmai vagy érdekképviseleti szervezet vagy közigazgatási szerv ajánlását.
 
-(3) A központi elektronikus szolgáltató rendszer adatkezelője a segítségnyújtó szervezetek (2) bekezdés szerinti adatait közzéteszi az integrált ügyintézési és tájékoztatási felületen.
+(3)[^10] A Működtető a segítségnyújtó szervezetek (2) bekezdés szerinti adatait közzéteszi az integrált ügyintézési és tájékoztatási felületen.
 
-(4)[^1] A segítségnyújtó szervezet a közzétett adataiban történő változást a központi elektronikus szolgáltató rendszer adatkezelője számára a (2) bekezdésben rögzített formában nyolc napon belül bejelenti.
+(4)[^11] A segítségnyújtó szervezet a közzétett adataiban történő változást a Működtető számára a (2) bekezdésben rögzített formában nyolc napon belül bejelenti.
 
-(5) A segítségnyújtó szervezet adatait a központi elektronikus szolgáltató rendszer adatkezelője törli a közzétételi listából, amennyiben
+(5)[^12] A segítségnyújtó szervezet adatait a Működtető törli a közzétételi listából, amennyiben
 
 a) a szervezetet nem jogszabály kötelezi a tevékenység ellátására, és közhiteles nyilvántartásban szereplő képviselője ezt kéri,
 
-b) a szervezet megszűnt, vagy
+b) a szervezet megszűnt,
 
-c) a szervezetet felügyeleti szerv vagy bíróság eltiltotta e tevékenység ellátásától.
+c) a szervezetet felügyeleti szerve vagy bíróság eltiltotta e tevékenység ellátásától,
 
-(6) Amennyiben a központi elektronikus szolgáltató rendszer adatkezelőjének a (2) bekezdés szerinti adatokban történt változás tudomására jut, tájékozódás céljából megkeresi az érintett segítségnyújtó szervezetet, amennyiben pedig az megszűnt, a felügyeletét ellátó, illetve működési nyilvántartást vezető szervet.
+d) az (1) bekezdés szerinti kijelölését a szervezetet kijelölő miniszter az (1) bekezdésben meghatározott formában visszavonta.
 
-[^1]: A 4. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (146) bekezdése szerint módosított szöveg. E módosító rendelez 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+(6)[^13] Ha a Működtetőnek a (2) bekezdés szerinti adatokban történt változás a tudomására jut, tájékozódás céljából megkeresi az érintett segítségnyújtó szervezetet, ha pedig az megszűnt, a felügyeletét ellátó, vagy a működési nyilvántartást vezető szervet.
+
+[^9]: A 4. § (1) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^10]: A 4. § (3) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^11]: A 4. § (4) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^12]: A 4. § (5) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^13]: A 4. § (6) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.

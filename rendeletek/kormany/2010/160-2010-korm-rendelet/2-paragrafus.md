@@ -4,6 +4,9 @@
 
 1. élethelyzet: az ügyintézésben és a tájékoztatásban érdekelt személyre vagy szervezetre az adott időpontban jellemző, az adott szolgáltatási tevékenység megkezdését, illetve folytatását szabályozó, továbbá az adott szolgáltatás igénybevételére vonatkozó jogszabályi rendelkezések szempontjából releváns tények és körülmények, valamint egyéni célkitűzések összessége,
 
-2. központi elektronikus szolgáltató rendszer adatkezelője: az elektronikus közszolgáltatás működtetéséről szóló kormányrendeletben a központi rendszerben kezelt adatok kezelésére kijelölt közigazgatási szerv,
+2.[^2] elektronikus tájékoztatásra vonatkozó szabály: a Ket. felhatalmazása alapján kiadott végrehajtási rendeletekben megadott, a közigazgatási eljárásokkal kapcsolatos tájékoztatás módjára vonatkozó szabály,
 
-3. központi elektronikus szolgáltató rendszer működtetője: az elektronikus közszolgáltatás működtetéséről szóló kormányrendeletben kijelölt, az elektronikus közszolgáltatás megvalósítását, a központi elektronikus szolgáltató rendszeren lehetővé tevő, a közszolgáltatásokat összehangoló közigazgatási szerv.
+3.[^3] szabályozott elektronikus ügyintézési szolgáltatás: a Ket. 172. § j) pontja szerinti szolgáltatás.
+
+[^2]: A 2. § 2. pontja a 82/2012. (IV. 21.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^3]: A 2. § 3. pontja a 82/2012. (IV. 21.) Korm. rendelet 21. §-ával megállapított szöveg.

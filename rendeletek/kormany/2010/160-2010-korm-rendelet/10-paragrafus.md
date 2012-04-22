@@ -1,4 +1,6 @@
-10. § (1) A Szolgtv. 33. § szerinti szervezetek a központi elektronikus szolgáltató rendszer adatkezelőjének bejelentik, naprakészen tartják, valamint a tervezett változásokat legalább tíz nappal előre jelzik az alábbi adatok esetében:
+## adatszolgáltatást biztosítanak a Működtető részére.
+
+10. § (1)[^24] A Szolgtv. 33. § szerinti szervezetek a Működtetőnek bejelentik, naprakészen tartják, valamint a tervezett változásokat legalább tíz nappal előre jelzik az alábbi adatok esetében:
 
 a) a szerv, illetve a szerv illetékes területi, helyi szervei hatáskörrel rendelkező szervezetek, illetve szervezettípusok alá rendelését,
 
@@ -12,4 +14,7 @@ e) a szerv, illetve a szerv illetékes területi, helyi szervei egyes eljáráso
 
 f) a szolgáltatási tevékenységgel összefüggő hatósági nyilvántartások megnevezését és azok nyilvános adataihoz való hozzáférést biztosító internetes elérhetőségeket.
 
-(2) Az e § szerinti bejelentési kötelezettséget a szerveknek az elektronikus közszolgáltatás működtetéséről, valamint az elektronikus közszolgáltatásról és annak igénybevételéről szóló kormányrendeletben rögzített szabályok szerint kell teljesíteniük. A központi elektronikus szolgáltató rendszer adatkezelője gondoskodik a változások haladéktalan közzétételéről.
+(2)[^25]
+
+[^24]: A 10. § (1) bekezdés nyitó szövegrésze a 82/2012. (IV. 21.) Korm. rendelet 28. §-a szerint módosított szöveg.
+[^25]: A 10. § (2) bekezdését a 82/2012. (IV. 21.) Korm. rendelet 29. §-a hatályon kívül helyezte.

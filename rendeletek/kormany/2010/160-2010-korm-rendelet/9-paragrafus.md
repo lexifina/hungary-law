@@ -1,13 +1,14 @@
-## 8. § A szolgáltatás ágazati szabályozásáért felelős miniszterek az elektronikus közszolgáltatás működtetéséről szóló kormányrendelet előírásainak megfelelően előállítják, naprakészen tartják és a központi elektronikus szolgáltató rendszer adatkezelőjének átadják az ágazatuk tekintetében a szolgáltatási tevékenység megkezdésével és folytatásával összefüggésben lefolytatandó 3. § (2) bekezdés szerinti eljárások ügyfél általi kezdeményezéséhez, a szolgáltatási tevékenységgel összefüggő hatósági nyilvántartásokból való adatigénylés végrehajtásához szükséges, a központi elektronikus szolgáltató rendszeren továbbítható elektronikus űrlapokat, valamint azok kitöltési útmutatóját.
+## 8. §[^22]
 
 ## 7. A szolgáltatási tevékenység megkezdéséhez és folytatásához kapcsolódó egyes adatszolgáltatási kötelezettségekről és teljesítésének módjáról
 
-## 9. § A vállalkozások és azok törvényes képviselőinek egyértelmű összerendelése, és a törvényes képviselet érvényességének ellenőrizhetősége érdekében
+## 9. §[^23] A vállalkozások és – ahol az értelmezhető – azok képviselőinek egyértelmű összerendelése, és a törvényes képviselet érvényességének ellenőrizhetősége érdekében
 
-a) a cégszolgálat, és
+a) a cégszolgálat,
 
-b)[^3] az egyéni vállalkozók nyilvántartását vezető szerv
+b) az egyéni vállalkozók nyilvántartását vezető szerv, és
 
-ingyenes és folyamatos adatszolgáltatást biztosítanak az integrált ügyintézési és tájékoztatási pont működtetője részére.
+c) a személyiadat- és lakcímnyilvántartást vezető szerv
 
-[^3]: A 9. § b) pontja a 11. § (2) bekezdése alapján 2010. szeptember 1-jén lép hatályba.
+[^22]: A 8. §-t a 82/2012. (IV. 21.) Korm. rendelet 29. §-a hatályon kívül helyezte.
+[^23]: A 9. § a 82/2012. (IV. 21.) Korm. rendelet 27. §-ával megállapított szöveg.

@@ -1,14 +1,14 @@
 ## 3. Az integrált ügyintézési és tájékoztatási pont kialakítása és működtetése
 
-3. § (1) Az integrált ügyintézési és tájékoztatási pontot a központi elektronikus szolgáltató rendszer részeként úgy kell kialakítani és működtetni, hogy azon keresztül az elektronikus közszolgáltatás igénybe vevője az élethelyzetét meghatározó tények, körülmények és az általa azonosított célkitűzések alapján – az élethelyzet pontos meghatározásához megadott adatok részletezettségéhez igazodóan – közvetlenül megtehesse a (2) bekezdésben megjelölt eljárásokban szükséges eljárási cselekményeket, és megkapja az ehhez szükséges, illetve az adott élethelyzet szempontjából releváns egyéb tájékoztatást.
+3. § (1)[^4]
 
-(2) Az integrált ügyintézési és tájékoztatási pont felületén keresztül az (1) bekezdés szerinti élethelyzet-alapú rendszerben legalább a következő hatósági eljárásokban szükséges eljárási cselekmények megtételét kell biztosítani:
+(2)[^5] Az integrált ügyintézési és tájékoztatási ponton keresztül legalább a következő hatósági eljárásokban szükséges eljárási cselekmények megtételét kell biztosítani:
 
 a) a külön jogszabály szerint engedélyköteles szolgáltatási tevékenység esetében: az engedély kiadására, az engedély módosítására vagy meghosszabbítására irányuló eljárás, az engedélyben vagy az engedély alapján vezetett nyilvántartásban foglalt adatokban bekövetkezett változás bejelentése,
 
 b) a külön jogszabály szerint bejelentés-köteles szolgáltatási tevékenység esetében: a bejelentési eljárás, a bejelentésben, illetve a bejelentés alapján vezetett nyilvántartásban foglalt adatokban bekövetkezett változás bejelentése,
 
-c) – ha külön jogszabály azt előírja – a szolgáltatási tevékenység szünetelésének bejelentése,
+c)[^6] – ha jogszabály azt előírja – a szolgáltatási tevékenység szünetelésének bejelentése,
 
 d) szolgáltatási tevékenység megszüntetésének bejelentése,
 
@@ -22,18 +22,16 @@ h) az adott tevékenység folytatását szabályozó jogszabályban vagy az Eur�
 
 i) az adott szolgáltatási tevékenység folytatását szabályozó jogszabályban előírt, valamely tény vagy körülmény fennállásának igazolására vonatkozó kötelezettség teljesítése,
 
-j) a foglalkoztatással, munkavédelemmel, adózással, társadalombiztosítással, nyugdíjbiztosítással kapcsolatos jogszabályokban az üzletszerű gazdasági tevékenységet folytatókra előírt engedélyezési, bejelentési eljárás vagy adatszolgáltatás, továbbá
+j)[^7] a foglalkoztatással, munkavédelemmel, társadalombiztosítással, nyugdíjbiztosítással kapcsolatos jogszabályokban az üzletszerű gazdasági tevékenységet folytatókra előírt engedélyezési, bejelentési eljárás vagy adatszolgáltatás, továbbá
 
 k) az adott szolgáltatási tevékenység megkezdéséhez vagy folytatásához szükséges, a környezet védelmének általános szabályairól szóló törvényben előírt engedélyezési és bejelentési eljárás, ideértve a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló kormányrendeletben előírt eljárásokat is.
 
-(3) Az integrált ügyintézési és tájékoztatási pont szolgáltatásaihoz kapcsolódóan a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala a következő feladatokat látja el:
-
-a) támogatást nyújt az e rendelet szerinti tájékoztatók adattartalmát biztosító szervek részére,
-
-b) koordinálja a tájékoztatásokkal összefüggően felmerült változások átvezetésének folyamatát,
-
-c) támogatást nyújt az e rendelet szerinti tájékoztatók és űrlapok technikai kialakításához a kötelezett minisztériumok részére, és
-
-d) a szolgáltatás felügyeletét ellátó hatóságok által a részére átadott információk alapján közzéteszi a szolgáltatókkal kapcsolatos egyes nyilvántartások elérhetőségét.
+(3)[^8] Az integrált ügyintézési és tájékoztatási pontot a kormányablakok feladataiba foglaltan úgy kell kialakítani és működtetni, hogy azon keresztül a szolgáltatás igénybe vevője közvetlenül megtehesse a (2) bekezdésben megjelölt eljárásokban szükséges eljárási cselekményeket, és megkapja az adott élethelyzet szempontjából ehhez szükséges és erre vonatkozó tájékoztatást.
 
 (4) Az integrált ügyintézési és tájékoztatási pont működtetője az e rendelet szerinti, adattovábbítást is igénylő egyes feladatok ellátásához elektronikus űrlapot tesz közzé.
+
+[^4]: A 3. § (1) bekezdését a 82/2012. (IV. 12.) Korm. rendelet 29. §-a hatályon kívül helyezte.
+[^5]: A 3. § (2) bekezdés nyitó szövegrésze a 82/2012. (IV. 21.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (2) bekezdés c) pontja a 82/2012. (IV. 21.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^7]: A 3. § (2) bekezdés j) pontja a 82/2012. (IV. 21.) Korm. rendelet 22. § (3) bekezdésével megállapított szöveg.
+[^8]: A 3. § (3) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 22. § (4) bekezdésével megállapított szöveg.
