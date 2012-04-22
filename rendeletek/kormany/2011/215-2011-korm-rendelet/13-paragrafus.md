@@ -1,7 +1,0 @@
-## 9. Az okmányirodákra vonatkozó külön rendelkezések
-
-13. § (1) Az okmányirodák tekintetében az EFER-hez csatlakozott szervezet a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: KEK KH). Az EFER szolgáltatásainak igénybevételét az okmányirodák számára a KEK KH az informatikai rendszerén keresztül biztosítja.
-
-(2) A körzetközponti feladatokat ellátó települési önkormányzat jegyzője a fizetési kötelezettség POS terminálon kezdeményezett bankkártyás fizetéssel történő teljesítésének lehetőségét a KEK KH által működtetett informatikai rendszer igénybevételével, az okmányirodák működésének személyi és technikai feltételeiről szóló miniszteri rendeletben meghatározott technikai feltételeknek megfelelően biztosítja.
-
-(3) A POS terminálok használatára, valamint a bankkártyás fizetés lebonyolítására vonatkozó szabályokat tartalmazó POS Végfelhasználói Nyilatkozatot a pénzforgalmi szolgáltató részére a (2) bekezdés szerinti, az okmányirodák működésének személyi és technikai feltételeiről szóló miniszteri rendelet szerinti elfogadók egyénileg írják alá. A POS Végfelhasználói Nyilatkozat aláírásáig az elfogadóhelyeken a fizetőkártya-elfogadó szolgáltatás nem vehető igénybe.
