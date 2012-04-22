@@ -1,0 +1,3 @@
+## 179. § A Nemzeti Adó- és Vámhivatalhoz teljesítendő elektronikus fizetésekre, azok elszámolására és ellenőrzésére e rendeletet a Nemzeti Adó- és Vámhivatal EFER-hez történő csatlakozásának napjától kell alkalmazni. A Nemzeti Adó- és Vámhivatal a csatlakozást 15 nappal megelőzően közleményt ad ki a csatlakozás időpontjáról.
+
+## 51. Hatályon kívül helyező rendelkezések
