@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1117-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-04-21 | 2012-1117-30-22.1 | 1117/2012. (IV. 21.) Korm. határozat |
+| 2012-04-22 | 2012-1117-30-22.2 | 2010: CXXX. törvény |
