@@ -28,6 +28,6 @@
 
 ## ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot) E11”
 
-3. melléklet a 25/2012. (IV. 21.) NEFMI rendelethez[^3]
+3. melléklet a 25/2012. (IV. 21.) NEFMI rendelethez[^5]
 
-[^3]: A 3. melléklet a 4. § (2) bekezdése alapján 2012. május 1-jén lép hatályba.
+[^5]: A 3. melléklet a 4. § (2) bekezdése alapján 2012. május 1-jén lép hatályba.
