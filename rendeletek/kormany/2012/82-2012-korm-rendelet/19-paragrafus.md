@@ -1,1 +1,3 @@
-## 18. § A Kr1. 1. alcímében a „közigazgatási informatikáért” szövegrész helyébe a „közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért” szöveg, 2. § (3) bekezdésében, 3. § (2) és (3) bekezdésében, 4. § (3) és (4) bekezdésében az „NHH” szövegrész helyébe az „NMHH” szövegrész lép.
+## 18. §[^19]
+
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

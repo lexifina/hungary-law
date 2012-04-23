@@ -1,33 +1,3 @@
-## 25. § A Kr2. 6. §-a helyébe a következő rendelkezés lép:
+## 25. §[^26]
 
-## „6. § (1) A közigazgatás-fejlesztésért felelős miniszter a hatóságok közreműködésével gondoskodik az alábbi témakörökben legalább magyar és angol nyelvű általános tájékoztatók e rendeletnek megfelelő elkészítéséről, naprakészen tartásáról és az elektronikus tájékoztatásra vonatkozó szabályok szerinti közzétételéről:
-
-## a) a Szolgtv. 31. § (1) bekezdés a) pont ac) alpontjában foglaltakról,
-
-## b) a szolgáltatók és az igénybe vevők részére a szolgáltatási tevékenység megkezdésével vagy folytatásával összefüggő hatósági eljárások általános szabályairól, valamint a hatósági eljárásokban az ügyfelet és a hatóságot általánosan megillető jogokról és őket terhelő kötelezettségekről,
-
-## c) a szolgáltatási tevékenység megkezdésével vagy folytatásával összefüggő hatósági eljárások keretében elvégezhető általános eljárási cselekményekről, azok megnevezéséről, céljáról, azok intézésének előfeltételeiről, végrehajtásuk menetéről, szabályairól, végrehajtásukat szabályozó jogszabályokról, valamint a végrehajtásuk során benyújtandó dokumentumokról, ahol szükséges, az alkalmazandó űrlapokról,
-
-## d) az egyes eljárási cselekményeknél az ügyintézés elektronikus ügyintézési módjáról.
-
-## (2) A fogyasztóvédelemért felelős miniszter, valamint a gazdaságpolitikáért felelős miniszter gondoskodik a Szolgtv. 31. § (2) bekezdés a) pontjában, illetve a fogyasztóvédelemért felelős miniszter a Szolgtv. 31. § (2) bekezdés b)–c) pontjában rögzített tartalmú tájékoztatás elkészítéséről, naprakészen tartásáról, a tájékoztatás szabályai szerinti közzétételéről, valamint gondoskodik a más EGT-tagállamokba irányuló szolgáltatásnyújtáshoz, illetve a más EGT-tagállamokból történő szolgáltatás igénybevételéhez kapcsolódó személyes tájékoztatást nyújtó szervezetek kijelöléséről.
-
-## (3) A Működtető irányításával az érintett hatóságok legalább magyar és angol nyelven elkészítik, naprakészen tartják és az elektronikus tájékoztatásra vonatkozó szabályok szerint közzéteszik
-
-## a) a szolgáltatási tevékenység megkezdésével és folytatásával összefüggő általános, nem tevékenységi kör specifikus élethelyzet típusok struktúráját és leírását,
-
-## b) az élethelyzetek meghatározását elősegítő információkat,
-
-## c) az ágazati szabályozásért felelős miniszter tájékoztatása alapján a szolgáltatási tevékenység megkezdésével és folytatásával összefüggésben lefolytatandó eljárásokban jogszabályi előírás alapján hatáskörrel rendelkező szervezetek, illetve szervezettípusok listáját és
-
-## d) az elektronikus ügyintézés technikai, és nem eljárás-specifikus működési szabályairól szóló tájékoztatást.”
-
-26. § (1) A Kr2. 7. § (1) bekezdés i) pontja helyébe a következő rendelkezés lép:
-
-[A Szolgtv. hatálya alá tartozó, ügyspecifikus a 3. § (2) bekezdés szerinti, valamint a szolgáltatási tevékenységgel összefüggő hatósági nyilvántartásokból való adatigénylési eljárásokra vonatkozó tájékoztatókat legalább magyar és angol nyelven a szabályozásért felelős minisztérium készíti el, tartja naprakészen és továbbítja közzétételre a központi elektronikus szolgáltató rendszer adatkezelőjének. A tájékoztató legalább a következőket tartalmazza:]
-
-## „i) az eljárás ügymenetének, az ügyintézés lépéseinek leírását az ügyfélre nézve,”
-
-(2) A Kr2. 7. § (1) bekezdés l) pontja helyébe a következő rendelkezés lép:
-
-[A Szolgtv. hatálya alá tartozó, ügyspecifikus a 3. § (2) bekezdés szerinti, valamint a szolgáltatási tevékenységgel összefüggő hatósági nyilvántartásokból való adatigénylési eljárásokra vonatkozó tájékoztatókat legalább magyar és angol nyelven a szabályozásért felelős minisztérium készíti el, tartja naprakészen és továbbítja közzétételre a központi elektronikus szolgáltató rendszer adatkezelőjének. A tájékoztató legalább a következőket tartalmazza:]
+[^26]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

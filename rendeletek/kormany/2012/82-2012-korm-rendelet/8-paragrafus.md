@@ -1,3 +1,3 @@
-## 7. § A Kr1. 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^8]
 
-## „(2) Amennyiben törvény és kormányrendelet az adott közigazgatási hatósági eljárás biztonsági és hitelességi követelményei alapján előírja, az adott eljárásban kizárólag minősített elektronikus aláírás vagy minősített tanúsítványon alapuló fokozott biztonságú aláírás, valamint minősített időbélyegzés használható.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
