@@ -62,7 +62,7 @@
 
 | Svédország | Tandläkarexamen (Fogorvosi oklevél) | Universitetet i Umeå (Umeåi egyetem) Universitetet i Göteborg (Göteborgi Egyetem) Karolinska Institutet (Karolinska Intézet) Malmö Högskola (Malmői Főiskola) | Endast för examensbevis som erhållits före den 1 juli 1995, ett utbildningsbevis som utfärdats av Socialstyrelsen (Csak az 1995. július 1-je előtt megszerzett vizsgabizonyítványok esetében: a Társadalombiztosítási Igazgatóság által kiállított képesítési bizonyítvány) |
 
-| Svájc | Diplôme fédéral de médecindentiste (Fogorvosi szövetségi oklevél); Eidgenössisches Zahnarztdiplom (Szövetségi fogorvosi oklevél); Diploma federale di medico-dentista (Szövetségi fogorvosi oklevél tulajdonosa) | Département fédéral de l’intérieur (Szövetségi Belügyminisztérium); Eidgenössisches Departement des Innern (Szövetségi Belügyminisztérium; Dipartimento federale dell’interno (Szövetségi Belügyminisztérium |  |
+| Svájc | Diplôme fédéral de médecin-dentiste (Fogorvosi szövetségi oklevél); Eidgenössisches Zahnarztdiplom (Szövetségi fogorvosi oklevél); Diploma federale di medico-dentista (Szövetségi fogorvosi oklevél tulajdonosa) | Département fédéral de l’intérieur (Szövetségi Belügyminisztérium); Eidgenössisches Departement des Innern (Szövetségi Belügyminisztérium; Dipartimento federale dell’interno (Szövetségi Belügyminisztérium |  |
 
 | Egyesült Királyság | Bachelor of Dental Surgery (BDS vagy B.Ch.D.) / Licentiate in Dental Surgery (Fogorvoslás bakkalaureusa (BDS vagy B. Ch.D) / Vizsgázott/képesített fogász) | Universities / Royal Colleges (Egyetemek / Királyi Főiskolák) |  |
 
@@ -130,7 +130,7 @@
 
 | Svédország | Bevis om specialistkompetens i ortodonti (Fogszabályozó szakfogorvosi oklevél) | Socialstyrelsen (Társadalombiztosítási Igazgatóság) |
 
-| Svájc | Diplôme fédéral d’orthodontiste; Diplom als Kieferorthopädie; Diploma di ortodontista (Fogszabályozási oklevél) | Département fédéral de l’intérieur (Szövetségi Belügyminisztérium) |
+| Svájc | Diplom für Kieferorthopädie Diplôme fédéral d’orthodontiste Diploma di ortodontista | Eidgenössisches Departement des Innern und Schweizerische Zahnärzte-Gesellschaft Département fédéral de l’intérieur et Société suisse d’odonto-stomatologie Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia |
 
 | Egyesült Királyság | Certificate of Completion of specialist training in orthodontics (Bizonyítvány fogszabályozó szakorvosi képzés elvégzéséről) | Competent authority recognised for this purpose (Erre a célra elismert illetékes hatóság) |
 
@@ -194,7 +194,7 @@
 
 | Svédország | Bevis om specialistkompetens i oral kirurgi (Szájsebész szakfogorvosi oklevél) | Socialstyrelsen (Társadalombiztosítási Igazgatóság) |
 
-| Svájc | Diplôme fédéral de chirurgie orale Diplom für Oralchirurgie Diploma di chirurgia orale | Département fédéral de l’intérieur et Société Suisse d’Odontostomatologie Eidgenössisches Departement des Innern und Schweizerische Zahnärzte Gesellschaft Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia |
+| Svájc | Diplom für Oralchirurgie Diplôme fédéral de chirurgie orale Diploma di chirurgia orale | Eidgenössisches Departement des Innern und Schweizerische Zahnärzte-Gesellschaft Département fédéral de l’intérieur et Société suisse d’odonto-stomatologie Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia |
 
 | Egyesült Királyság | Certificate of completion of specialist training in oral surgery (Bizonyítvány szájsebészi szakképzés elvégzéséről) | Competent authority recognised for this purpose (Az erre a célra elismert illetékes hatóság) |
 
@@ -260,7 +260,7 @@
 
 | Svédország | Tandläkare |
 
-| Svájc | Médecin dentiste, Zahnarzt, medico-dentista |
+| Svájc | Zahnarzt, Médecin-dentiste, Medico-dentista |
 
 | Egyesült Királyság | Dentist, dental practitioner or dental surgeon |
 
@@ -318,27 +318,27 @@
 
 ## c) Feltétel nélkül elismerésre kerül a tagállam által a tagállami állampolgár részére a következő időpontok előtt kiállított szájsebészet/szakfogorvosi oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek:
 
-## – 2008. december 17. Románia és Szlovákia esetében,
+## ca) 2008. december 17. Románia és Szlovákia esetében,
 
-## – 2008. június 4. Portugália esetében,
+## cb) 2008. június 4. Portugália esetében,
 
-## – 2007. július 19. a Cseh Köztársaság esetében,
+## cc) 2007. július 19. a Cseh Köztársaság esetében,
 
-## – 2007. január 1. Bulgária esetében,
+## cd) 2007. január 1. Bulgária esetében,
 
-## – 2005. május 21. Olaszország esetében,
+## ce) 2005. május 21. Olaszország esetében,
 
-## – 2004. május 1. Ciprus, Litvánia, Málta, Lengyelország és Szlovénia esetében,
+## cf) 2004. május 1. Ciprus, Litvánia, Málta, Lengyelország és Szlovénia esetében,
 
-## – 2002. június 1. Svájc esetében,
+## cg) 2004. április 30. Svájc esetében,
 
-## – 1995. május 1. Liechtenstein esetében,
+## ch) 1995. május 1. Liechtenstein esetében,
 
-## – 1994. január 1. Izland, Norvégia, Finnország és Svédország esetében,
+## ci) 1994. január 1. Izland, Norvégia, Finnország és Svédország esetében,
 
-## – 1981. január 1. Görögország esetében,
+## cj) 1981. január 1. Görögország esetében,
 
-## – 1980. január 28. Dánia, Németország, Írország, Hollandia és az Egyesült Királyság esetében,
+## ck) 1980. január 28. Dánia, Németország, Írország, Hollandia és az Egyesült Királyság esetében,
 
 ## ha az oklevelet olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet.
 
@@ -386,6 +386,6 @@
 
 ## r) Feltétel nélkül elismerésre kerül az orvosi oklevél azon tagállami állampolgár esetében, akinek orvosi oklevelét Romániában állították ki és akinek a képzése 2003. október 1-jén vagy azt megelőzően kezdődött, amennyiben Románia illetékes hatósága által kiadott igazolás tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen, jogszerűen és főtevékenységként gyakorolta Románia területén a fogorvosi tevékenységet és az adott tagállami állampolgár ugyanolyan feltételek mellett jogosult a szóban forgó tevékenység folytatására, mint az A) pontban Romániára vonatkozóan említett oklevéllel rendelkezők. A hároméves gyakorlat követelménye nem vonatkozik arra a tagállami állampolgárra, aki legalább három tanulmányi évet sikeresen befejezett, ha az illetékes hatóság igazolja, ez a tanulmány egyenértékű az európai közösségi jog által meghatározott minimális képzési követelmények szerinti fogorvosi képzéssel.
 
-4. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^6]
+4. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^7]
 
-[^6]: A 4. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § d) pontja szerint módosított szöveg.
+[^7]: A 4. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § d) pontja, a 24/2012. (IV. 18.) NEFMI rendelet 6. §-a szerint módosított szöveg.

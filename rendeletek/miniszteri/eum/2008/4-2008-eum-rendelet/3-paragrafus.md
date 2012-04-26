@@ -34,6 +34,8 @@ bi) az 5.6.1. pont tekintetében a 2008/C 137/07 EK bizottsági közlemény (200
 
 bj) az 5.6.2. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.) és a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.),
 
+bk)[^3] az 5.1.1–5.1.4., 5.2.2., 5.3.2., 5.3.3., 5.5.2. és 5.6.2. alpontok tekintetében az egyrészről az Európai Közösség és tagállamai, másrészről a Svájci Államszövetség közötti, a személyek szabad mozgásáról szóló megállapodás 14. cikkével létrehozott EU-Svájc Vegyes Bizottság 2/2011 határozata a szakmai képesítések kölcsönös elismeréséről szóló III. melléklet kicseréléséről (2011. szeptember 30.), (2011/702/EU).
+
 c) az irányelv V. melléklet 5.1.1., 5.1.2., 5.1.3., 5.1.4., 5.2.2., 5.3.2., 5.6.2 pontja a 2010/C 129/02 EK bizottsági közlemény (2010. május 19.) szerint,
 
 d) az irányelv V. melléklet 5.1.1 pontja a 2010/C 129/02 EK bizottsági közlemény (2010. május 19.) és a 2010/C 337/02 EK bizottsági közlemény (2010. december 14. ) szerint,
@@ -43,3 +45,4 @@ e) az irányelv II. melléklete és V. melléklet 5.1.3. pontja a szakmai képes
 f) a 2003. évi uniós csatlakozási okmány II. melléklet 2. C. pontja.
 
 [^2]: A 3. § az 50/2011. (VIII. 18.) NEFMI rendelet 3. §-ával megállapított szöveg.
+[^3]: A 3. § b) pont bk) alpontját a 24/2012. (IV. 18.) NEFMI rendelet 5. §-a iktatta be.

@@ -64,7 +64,7 @@
 
 | Svédország | Barnmorskeexamen (Szülésznői oklevél) | Universitat eller högskola (Egyetem vagy Főiskola) |  |
 
-| Svájc | Sage-femme diplômée ES [Okleveles szülésznő (bábaasszony)] sage-femme diplômée ES, homme; Diplomierte Hebamme HF (Okleveles szülésznő) Dipl. Entbindungspfleger HF; Levatrice/ostetrica dipl. SSS, ostetrico dipl. SSS (Okleveles szülésznő / bábaasszony) | Ecoles supérieures de la santé Höhere Fachschulen für Gesundheit Scuole specializzate superiori per le professioni sanitarie |  |
+| Svájc | Diplomierte Hebamme (Diplomás szülésznő) Sage-femme diplômée (Diplomás szülésznő) Levatrice diplomata (Diplomás szülésznő) | Schulen, die staatlich anerkannte Bildungsgänge durchführen Ecoles qui proposent des filières de formation reconnues par l’ État Scuole che propongono dei cicli di formazione riconosciuti dallo Stato |  |
 
 | Egyesült Királyság | Statement of registration as a Midwife on part 10 of the register kept by the United Kingdom Central Council for Nursing, Midwifery and Health visiting (Szülésznői nyilvántartásba vételi igazolás az Egyesült Királyság Központi Ápolói, Szülésznői és Védőnői Tanácsa által vezetett nyilvántartás 10. jegyzékébe történő felvételről) | Various (Különböző) |  |
 
@@ -228,7 +228,7 @@
 
 ## d) Az ab), illetve c) pont szerinti – az adott tagállam illetékes hatósága által kibocsátott – igazolás tanúsítja, hogy birtokosa az előírt szülésznői képesítés megszerzését tanúsító okirat megszerzését követően, kórházban vagy egy erre engedéllyel rendelkező egészségügyi intézményben, az ab), illetve c) pontban meghatározott időtartamban gyakorolta a szülésznői tevékenységek teljes körét.
 
-5. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^7]
+5. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^8]
 
 A Magyarországon kiállított gyógyszerész oklevelek és az azokkal egyenértékű, feltétel nélkül elismerésre kerülő oklevelek
 
@@ -294,7 +294,7 @@ A) A gyógyszerész oklevelek megnevezései, kibocsátó szervei, valamint a ké
 
 | Svédország | Apotekarexamen (Gyógyszerész oklevél) | Universitet och högskolor (Egyetem vagy főiskola) |  |
 
-| Svájc | Diplôme de pharmacien (Gyógyszerészi oklevél); Eidgenössisches Apothekerdiplom (Szövetségi gyógyszerészi oklevél); Diploma federale di farmacista (Szövetségi gyógyszerészi oklevél) | Département fédéral de l’intérieur (Szövetségi Belügyminisztérium) Eidgenössisches Departement des Innern Dipartimento federale dell’interno |  |
+| Svájc | Diplôme fédéral de pharmacien (Gyógyszerészi oklevél); Eidgenössisches Apothekerdiplom (Szövetségi gyógyszerészi oklevél); Diploma federale di farmacista (Szövetségi gyógyszerészi oklevél) | Département fédéral de l’intérieur (Szövetségi Belügyminisztérium) Eidgenössisches Departement des Innern Dipartimento federale dell’interno |  |
 
 | Egyesült Királyság | Certificate of registered pharmacist (Bejegyzett gyógyszerészi bizonyítvány) | Nagy-Britannia esetében: Royal Pharmaceutical Society of Great Britain (Nagy-britanniai Királyi Gyógyszerészeti Társaság) Észak-Írország esetében: Pharmaceutical Society of Northern Ireland (Észak-írországi Királyi Gyógyszerészeti Társaság) |  |
 
@@ -338,4 +338,4 @@ i) Feltétel nélkül elismerésre kerül a tagállam által a tagállami állam
 
 k) Amennyiben az adott gyógyszerészi tevékenység végzéséhez az A) pont szerinti oklevél megszerzése mellett a külön jogszabály szakmai gyakorlat követelményét írja elő, a szakmai gyakorlathoz kötött gyógyszerészi tevékenység megkezdésének feltételeként előírt gyakorlat igazolásaként el kell fogadni a tagállami állampolgár származási vagy küldő tagállamának illetékes hatósága által kiadott olyan igazolást, amely tanúsítja, hogy a tagállami állampolgár a gyógyszerészi tevékenységet a külön jogszabályban előírttal azonos ideig gyakorolta a származási vagy küldő tagállamban.
 
-[^7]: Az 5. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § e) pontja, a 12/2010. (III. 23.) EüM rendelet 1. § b) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § d) pontja szerint módosított szöveg.
+[^8]: Az 5. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § e) pontja, a 12/2010. (III. 23.) EüM rendelet 1. § b) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § d) pontja, a 24/2012. (IV. 18.) NEFMI rendelet 6. §-a szerint módosított szöveg.

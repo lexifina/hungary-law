@@ -324,7 +324,7 @@
 
 | Svédország | – |  |
 
-| Svájc | Chirurgie maxillo-faciale Kiefer- und Gesichtschirurgie Chirurgia mascello-facciale |  |
+| Svájc | Mund-, Kiefer- und Gesichtschirurgie Chirurgie orale et maxillo-faciale Chirurgia oro-maxillo-facciale” |  |
 
 | Egyesült Királyság | Oral and maxillo-facial surgery |  |
 
@@ -644,7 +644,7 @@
 
 | Svédország | Hud- och könssjukdomar |  |
 
-| Svájc | Dermatologie et vénéréologie Dermatologie und Venerologie Dermatologia e venereologia |  |
+| Svájc | Dermatologie et vénéréologie Dermatologie und Venerologie Dermatologia e venerologia |  |
 
 | Egyesült Királyság | – |  |
 
@@ -708,7 +708,7 @@
 
 | Svédország | Barn- och ungdomsmedicin |  |
 
-| Svájc | Pédiatrie Kinder- und Jugendmedezin Pediatria |  |
+| Svájc | Pédiatrie Kinder- und Jugendmedizin Pediatria |  |
 
 | Egyesült Királyság | Paediatrics |  |
 
@@ -1220,7 +1220,7 @@
 
 | Svédország | Medicinsk gastroenterologi och hepatologi |  |
 
-| Svájc | Gastro-entérologie Gastroenterologie Gastroenterologia |  |
+| Svájc | Gastroentérologie Gastroenterologie Gastroenterologia |  |
 
 | Egyesült Királyság | Gastro-enterology |  |
 
@@ -1604,7 +1604,7 @@
 
 | Svédország | Infektionssjukdomar |  |
 
-| Svájc | – |  |
+| Svájc | Infektiologie Infectiologie Malattie infettive |  |
 
 | Egyesült Királyság | Infectious diseases |  |
 
@@ -1924,7 +1924,7 @@
 
 | Svédország | Medicinska njursjukdomar (nefrologi) |  |
 
-| Svájc | Néphrologie Nephrologie Nefralogia |  |
+| Svájc | Néphrologie Nephrologie Nefrologia |  |
 
 | Egyesült Királyság | Renal medicine |  |
 
@@ -2052,7 +2052,7 @@
 
 | Svédország | Nukleärmedicin |  |
 
-| Svájc | Radiologie médicale / médecine nucléaire Medizinische Radiologie / Nuklearmedizin Radiologia medica / medicina nucleare |  |
+| Svájc | Nuklearmedizin Médecine nucléaire Medicina nucleare |  |
 
 | Egyesült Királyság | Nuclear medicine |  |
 
@@ -2372,7 +2372,7 @@
 
 | Svédország | Plastikkirurgi |  |
 
-| Svájc | Chirurgie plastique, reconstructive et esthétique Plastische, rekonstruktive und ästhetische Chirurgie Chirurgia plastica, ricostruttiva ed estetica |  |
+| Svájc | Chirurgie plastique, reconstructive et esthétique Plastische, Rekonstruktive und Ästhetische Chirurgie Chirurgia plastica, ricostruttiva ed estetica |  |
 
 | Egyesült Királyság | Plastic surgery |  |
 
@@ -3142,7 +3142,7 @@
 
 | Svédország | Bevis om kompetens som allmänpraktiserande lakare (Europaläkare) utfärdat av Socialstyrelsen |
 
-| Svájc |  |
+| Svájc | Diplom als praktischer Arzt/praktische Ärztin Diplôme de médecin praticien Diploma di medico generico |
 
 | Egyesült Királyság | Certificate of completion of training in general practice |
 
@@ -3208,7 +3208,7 @@
 
 | Svédország | Allmänpraktiserande läkare (Europaläkare) |
 
-| Svájc |  |
+| Svájc | Médecin praticien Praktischer Arzt Medico generico |
 
 | Egyesült Királyság | General medical practitioner |
 
@@ -3282,14 +3282,16 @@
 
 ## n) Feltétel nélkül elismerésre kerül a tagállam illetékes hatósága által a tagállami állampolgár számára kiállított olyan igazolás, amely tanúsítja, hogy az orvos a D) pontban említett, háziorvosi képesítés megszerzését tanúsító okirat hiányában a következőkben felsorolt időpontig az orvosi szakmára alkalmazandó – az általános orvosi szakmai tevékenységek gyakorlásának megkezdésére jogosító – rendelkezések erejénél fogva jogosult a háziorvosi tevékenységnek az adott tagállam szociális biztonsági rendszere keretében történő gyakorlására és aki az említett időpontig a tagállam területén letelepedett, valamint akinek az orvosi, szakorvosi oklevele feltétel nélkül elismerhető.
 
-## – 2007. január 1. Bulgária és Románia esetében,
+## na) 2007. január 1. Bulgária és Románia esetében,
 
-## – 2004. május 1. a Cseh Köztársaság, Észtország, Ciprus, Lettország, Litvánia, Málta, Lengyelország, Szlovénia, Szlovákia esetében,
+## nb) 2004. május 1. a Cseh Köztársaság, Észtország, Ciprus, Lettország, Litvánia, Málta, Lengyelország, Szlovénia, Szlovákia esetében,
 
-## – 1994. december 31. Belgium, Dánia, Németország, Görögország, Spanyolország Franciaország, Írország, Olaszország, Luxemburg, Hollandia, Ausztria, Portugália, Finnország, Svédország esetében és az Egyesült Királyság esetében.
+## nc) 2002. június 1. Svájc esetében,
+
+## nd) 1994. december 31. Belgium, Dánia, Németország, Görögország, Spanyolország, Franciaország, Írország, Olaszország, Luxemburg, Hollandia, Ausztria, Portugália, Finnország, Svédország és az Egyesült Királyság esetében.
 
 ## A fenti igazolást ugyanolyan hatályúnak kell tekinteni, mint a külön jogszabályban meghatározott, a háziorvosi szakképzettség megszerzését tanúsító okiratot.
 
-2. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^4]
+2. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^5]
 
-[^4]: A 2. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § b) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § b) pontja szerint módosított szöveg.
+[^5]: A 2. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § b) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § b) pontja, a 24/2012. (IV. 18.) NEFMI rendelet 6. §-a szerint módosított szöveg.

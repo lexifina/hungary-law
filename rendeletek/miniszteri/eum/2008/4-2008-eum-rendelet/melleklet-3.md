@@ -64,7 +64,11 @@
 
 | Svédország | Sjuksköterskeexamen (Ápolói/ápolónői oklevél) | Universitet eller högskola (Egyetem vagy főiskola) |  |
 
-| Svájc | Infirmière diplômée ES infirmier diplômé ES (Általános ápolási ápolónői oklevél; Általános ápolási ápolói oklevél); Diplomierte Pflegefachfrau HF, Diplomierter Pflegefachmann HF (Okleveles általános betegápoló, betegápolónő); Infermiera diplomata SSS, Infermiere diplomato SSS (Általános ellátásra képesített ápolónő, általános ellátásra képesített ápoló) | Ecoles qui proposent des filières de formation reconnues par l’État Schulen, die staatlich anerkannte Bildungsgänge durchführen Scuole che propongono dei cicli di formazione riconosciuti dallo Stato |  |
+| Svájc | 1. Diplomierte Pflegefachfrau, Diplomierter Pflegefachmann (Diplomás általános ápolónő, diplomás általános ápoló) Infirmière diplômée et infirmier diplômé (Diplomás általános ápolónő, diplomás általános ápoló) | Schulen, die staatlich anerkannte Bildungsgänge durchführen Ecoles qui proposent des filières de formation reconnues par l’État |  |
+
+|  | Infermiera diplomata e infermiere diplomato (Diplomás általános ápolónő, diplomás általános ápoló) | Scuole che propongono dei cicli di formazione riconosciuti dallo Stato |  |
+
+|  | 2. Bachelor of Science in nursing (Ápoló – BSc fokozat) | Schulen, die staatlich anerkannte Bildungsgänge durchführen Ecoles qui proposent des filières de formation reconnues par l’ État Scuole che propongono dei cicli di formazione riconosciuti dallo Stato |  |
 
 | Egyesült Királyság | Statement of Registration as a Registered General Nurse in part 1 or part 12 of the register kept by the United Kingdom Central Council for Nursing, Midwifery and Health Visiting (Bejegyzett általános ápolói nyilvántartásba vételi igazolás az Egyesült Királyság Központi Ápolói, Szülésznői és Védőnői Tanácsa által vezetett nyilvántartás 1. vagy 12. jegyzékébe történő felvételről) | Various (Különböző) |  |
 
@@ -130,7 +134,7 @@
 
 | Svédország | Sjuksköterska |
 
-| Svájc | Infirmière, infirmier; Krankenschwester, Krankenpfleger; Infermiera, infermiere |
+| Svájc | Pflegefachfrau, Pflegefachmann InfirmiŮre, infirmier Infermiera, infermiere |
 
 | Egyesült Királyság | State Registered Nurse or Registered General Nurse (Angliában, Walesben és Észak-Írországban) Registered General Nurse (Skóciában) |
 
@@ -138,23 +142,23 @@
 
 ## a) Feltétel nélkül elismerésre kerül a tagállam által a tagállami állampolgár részére a következő időpontok előtt kiállított általános ápolói oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek:
 
-## – 2007. január 1. Bulgária esetében,
+## aa) 2011. szeptember 30. Svájc esetében BSc fokozatot tanúsító ápolói oklevél tekintetében,
 
-## – 2004. május 1. a Cseh Köztársaság, Észtország, Ciprus, Lettország, Litvánia, Málta, Szlovénia, Szlovákia esetében,
+## ab) 2007. január 1. Bulgária esetében,
 
-## – 2002. június 1. Svájc esetében,
+## ac) 2004. május 1. a Cseh Köztársaság, Észtország, Ciprus, Lettország, Litvánia, Málta, Szlovénia, Szlovákia esetében,
 
-## – 1995. május 1. Liechtenstein esetében,
+## ad) 2002. június 1. Svájc esetében, BSc fokozatot tanúsító ápolói oklevél kivételével,
 
-## – 1994. január 1. Izland, Norvégia, Ausztria, Finnország és Svédország esetében,
+## ae) 1995. május 1. Liechtenstein esetében,
 
-## – 1986. január 1. Spanyolország és Portugália esetében,
+## af) 1994. január 1. Izland, Norvégia, Ausztria, Finnország és Svédország esetében,
 
-## – 1981. január 1. Görögország esetében,
+## ag) 1986. január 1. Spanyolország és Portugália esetében,
 
-## – 1979. június 27. Belgium, Dánia, Németország, Franciaország, Írország, Olaszország, Luxemburg, Hollandia és az Egyesült Királyság esetében,
+## ah) 1981. január 1. Görögország esetében,
 
-## amennyiben azt olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet.
+## ai) 1979. június 27. Belgium, Dánia, Németország, Franciaország, Írország, Olaszország, Luxemburg, Hollandia és az Egyesült Királyság esetében, amennyiben azt olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet.
 
 ## b) Feltétel nélkül elismerésre kerül a tagállami állampolgár részére kiállított, a volt Német Demokratikus Köztársaság területén megszerzett, a képzés sikeres elvégzését tanúsító általános ápolói oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek, amennyiben:
 
@@ -190,6 +194,6 @@
 
 ## m) Az a)–l) pont szerinti tevékenységhez a betegápolás tervezésével, megszervezésével és elvégzésével kapcsolatos teljes felelősségnek kell kapcsolódnia.
 
-3. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^5]
+3. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^6]
 
-[^5]: A 3. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § c) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § c) pontja szerint módosított szöveg.
+[^6]: A 3. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § c) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § c) pontja, a 24/2012. (IV. 18.) NEFMI rendelet 6. §-a szerint módosított szöveg.
