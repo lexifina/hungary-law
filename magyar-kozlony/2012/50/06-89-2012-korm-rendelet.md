@@ -1,0 +1,113 @@
+# A Kormány 89/2012. (IV. 26.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 50. szám, 2012. április 26. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/48977e316f297645c9200a54699dd7ca0bb37627/dokumentumok/03975e69e4191997bd020af799dd68ce828ef0a0/letoltes)
+
+---
+
+A Kormány 89/2012. (IV. 26.) Korm. rendelete
+a honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól
+szóló 346/2009. (XII. 30.) Korm. rendelet módosításáról
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 28. pontjában kapott felhatalmazás alapján
+– az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva – a következőket rendeli el:
+1. § A honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól szóló 346/2009.
+(XII. 30.) Korm. rendelet (a továbbiakban: Korm. rendelet) 1. §-a helyébe a következő rendelkezés lép:
+„1. § (1) E rendelet hatálya a Honvédelmi Minisztériumra (a továbbiakban: HM), a honvédelemért felelős miniszter
+(a továbbiakban: miniszter) közvetlen alárendeltségébe tartozó szervezetekre, a Katonai Nemzetbiztonsági
+Szolgálatra (a továbbiakban: KNBSZ) és a Magyar Honvédség (a továbbiakban: MH) katonai szervezeteire
+(a továbbiakban együtt: honvédelmi szervezetek), valamint a 13–16. § tekintetében a Magyar Államkincstárra
+(a továbbiakban: Kincstár) terjed ki.
+(2) A honvédelmi szervezeteknél az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.)
+Korm. rendelet (a továbbiakban: Ávr.) rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.”
+
+2. § (1) A Korm. rendelet 2. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(Az államháztartás vitele szempontjából központi gazdálkodás és ellátás keretében valósul meg a HM költségvetési
+fejezetnél)
+„a) a honvédelmi szervezetek egyes pénzügyi és számviteli feladatainak ellátása, amely magában foglalja a 10. §
+szerinti költségvetési tervezést, a 17. § (1) bekezdése szerinti beszámolást, a finanszírozást, – a KNBSZ kivételével –
+a közbeszerzésekről szóló 2011. évi CVIII. törvény és az annak felhatalmazása alapján kiadott kormányrendeletek
+szerinti eltérő szabályok alapján végrehajtott beszerzések kötelezettségvállalásainak ellenjegyzését, valamint
+– a KNBSZ és az MH Honvédkórház kivételével – a könyvvezetést, a kincstári előirányzat-felhasználási keretforgalom
+kezelését és bonyolítását;”
+(2) A Korm. rendelet 2. § (4) bekezdés e) pontja helyébe a következő rendelkezés lép:
+(Az államháztartás vitele szempontjából központi gazdálkodás és ellátás keretében valósul meg a HM költségvetési
+fejezetnél)
+„e) a HM vagyonkezelésében lévő ingatlanok felújítása, rekonstrukciója, valamint – a KNBSZ használatában lévő
+ingatlanok kivételével – fenntartása és üzemeltetése;”
+3. § A Korm. rendelet 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A miniszter utasításban rendelkezik
+a) a honvédelmi szervezet parancsnoka, vezetője jogszabályban meghatározott gazdálkodási jogkörének, az ahhoz
+kapcsolt kötelezettségekkel és felelősséggel együtt történő központosításáról, azok honvédelmi szervezet jogkörébe
+adásáról;
+b) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § (1) bekezdés d), e), f), h) és
+i) pontjában, 28. § (4) bekezdésében és 33. § (3) bekezdésében meghatározott, a „2. Magyar Honvédség” költségvetési
+cím alcímeinbelül az intézményi logisztikaielőirányzatokravonatkozóirányítási jogkörénekMH középirányítókatonai
+szervezet parancsnoka útján történő ellátásáról;
+c) az Áht. 9. § (1) bekezdés d), f) és i) pontjában, 28. § (4) bekezdésében és 33. § (3) bekezdésében meghatározott,
+a „2. Magyar Honvédség” költségvetési cím alcímein belül, továbbá a 33. § (3) bekezdése szerinti, a HM költségvetési
+fejezet alcímein belül a személyi juttatások és azok járulékai, valamint a pénzügyi jellegű dologi előirányzatokra
+vonatkozó irányítási jogkörének a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi
+szervezet vezetője útján történő ellátásáról;
+d) az Ávr. 9. § (2) bekezdésében a gazdasági szervezet részére meghatározott egyes feladatok központosított
+végrehajtása céljából honvédelmi szervezet kijelöléséről;
+e) a fejezeti kezelésű előirányzatokkal kapcsolatos, az Ávr. 9. § (6) bekezdésében meghatározott gazdálkodási
+feladatok végrehajtása céljából honvédelmi szervezet kijelöléséről.”
+4. § A Korm. rendelet 8. § (1)–(2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) Amennyiben a honvédelmi szervezet logisztikai és költségvetési gazdálkodási feladatait több szervezeti egység
+vagy más honvédelmi szervezetek látják el, a gazdasági vezetői feladat is megosztásra kerül.
+(2) A logisztikai gazdálkodás tekintetében a honvédelmi szervezet logisztikai vezetője – amennyiben ilyen beosztást
+az állománytábla, illetve a munkaköri jegyzék nem nevesít, a honvédelmi szervezet SZMSZ-ében kijelölt beosztást
+betöltő személy – minősül gazdasági vezetőnek. A pénzügyi és számviteli feladatok vonatkozásában a honvédelmi
+szervezet pénzügyi és számviteli szervezeti egységének, ennek hiányában az ellátásra kijelölt honvédelmi szervezet
+pénzügyi és számviteli szervezeti egységének, vagy a pénzügyi és számviteli feladatok központosított ellátására
+kijelölt honvédelmi szervezet szervezeti egységének vezetője minősül gazdasági vezetőnek.”
+5. § A Korm. rendelet 15. §-a helyébe a következő rendelkezés lép:
+„15. § (1) A Kincstár által a „Hozzájárulás a NATO Biztonsági Beruházási Programjához” fejezeti kezelésű előirányzatra
+a finanszírozásiterv alapjánmegnyitott előirányzat-felhasználásikeretet a HM a „NATO BiztonságiBeruházásiProgram
+lebonyolítási számlára” kiegyenlítő kiadásként átutalja és a lebonyolítási számláról történt pénzügyi teljesítéseket
+végleges kiadásként elszámolja.
+(2) Az éves beszámolás során az (1) bekezdés szerinti előirányzat maradványa kötelezettségvállalással terhelt
+előirányzatként kerül elszámolásra.”
+
+6. § A Korm. rendelet 17. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A költségvetési beszámolás során a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi
+szervezet)
+„b) a KNBSZ ésazMH Honvédkórházkivételévela honvédelmiszervezetekvonatkozásábanintézményibeszámolókat
+és időközi mérlegjelentéseket, továbbá azok költségvetési törvény szerkezeti rendjének megfelelő részletezettségű
+összesítésével beszámolókat és időközi mérlegjelentéseket,”
+[készít és azokat – az intézményi beszámolók és időközi mérlegjelentések kivételével – az államháztartás szervezetei
+beszámolási és könyvvezetési kötelezettségének sajátosságairól szóló 249/2000. (XII. 24.) Korm. rendeletben, az Ávr.-ben,
+illetve az államháztartásért felelős miniszter zárszámadási tájékoztatójában meghatározott határideig megküldi
+a Kincstár és az államháztartásért felelős miniszter részére.]
+7. § A Korm. rendelet 28/A. §-a helyébe a következő rendelkezés lép:
+„28/A. § Az Áht. 30. § (4) bekezdése szerinti többletbevétel felhasználásának engedélyezésére és a bevételi
+előirányzatok módosítására e § rendelkezéseit kell alkalmazni. E § alkalmazásában a honvédelmi szervezetek
+többletbevétele az elemi költségvetésben megtervezett eredeti előirányzat az Ávr. 35. § (1) bekezdése szerinti
+bevételekkel, valamint a HM fejezet visszatérüléseiből, az inkurrencia- és a Magyar Honvédség hivatásos és
+szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 126/C. § (1) bekezdés a) pontja szerinti
+értékesítésből befolyó központosított bevételekkel csökkentett összegén felül pénzügyileg teljesült összeg.”
+8. § A Korm. rendelet 30. §-a helyébe a következő rendelkezés lép:
+„30. § A honvédelmi szervezetek és az irányító szerv az Ávr. 167/A §. (1) bekezdése szerinti bejelentési és
+adatszolgáltatási kötelezettségeit a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt
+honvédelmi szervezet teljesíti.”
+9. § A Korm. rendelet
+a) 8. § (4) és (5) bekezdésében az „Ámr. 18. § (1)” szövegrész helyébe az „Ávr. 12. § (1)”,
+b) 8. § (5) bekezdésében az „Ámr. 18. § (2)” szövegrész helyébe az „Ávr. 12. § (2)”,
+c) 9. §-ában az „az állami költségvetés” szövegrész helyébe a „Magyarország központi költségvetésének”,
+d) 10. §-ában az „A Magyar Köztársaság költségvetésének” szövegrész helyébe a „Magyarország központi
+költségvetésének”,
+e) 10. § a) és d) pontjában, valamint 17. § (1) bekezdésében az „Ámr.-ben” szövegrész helyébe az „Ávr.-ben”,
+f) 10. § b) pontjában az „elkészítésére vonatkozó HM utasítás-tervezetet” szövegrész helyébe az „elkészítésének
+rendjére vonatkozó javaslatot”,
+g) 10. § c) pontjában az „a b) pont szerinti HM utasításban” szövegrész helyébe az „a tervjavaslatok elkészítésére
+vonatkozó rendben”,
+h) 17. § (1) bekezdés a) pontjában az „elemi költségvetési” szövegrész helyébe a „költségvetési”
+szöveg lép.
+10. § Hatályát veszti a Korm. rendelet
+a) 2. § (4) bekezdésének j) pontja,
+b) 8. § (3) bekezdése,
+c) 11. §-a,
+d) 27. § (2) bekezdése, valamint
+e) 29. §-a.
+11. § Ez a rendelet a kihirdetését követő napon lép hatályba és a hatálybalépését követő napon hatályát veszti.
+Orbán Viktor s. k.,
+miniszterelnök
