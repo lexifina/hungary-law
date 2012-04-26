@@ -2,27 +2,27 @@
 
 ## Arany János Kollégiumi Programja
 
-## és a Halmozottan Hátrányos Helyzetű Tanulók Arany János Kollégiumi-Szakiskolai Programja[^215]
+## és a Halmozottan Hátrányos Helyzetű Tanulók Arany János Kollégiumi-Szakiskolai Programja[^216]
 
-39/H. §[^216] (1)[^217] A Hátrányos Helyzetű Tanulók Arany János Kollégiumi Programjában (a továbbiakban: Kollégiumi Program) részt vehetnek azok a kollégiumok és középiskolák, amelyeknek célja megteremteni a feltételeket ahhoz, hogy a halmozottan hátrányos helyzetű tanulók megkezdhessék és sikeresen befejezhessék a középfokú tanulmányaikat, középiskolai végzettséget szerezhessenek, továbbá esélyt kapjanak a felsőfokú tanulmányok megkezdésére.
+39/H. §[^217] (1)[^218] A Hátrányos Helyzetű Tanulók Arany János Kollégiumi Programjában (a továbbiakban: Kollégiumi Program) részt vehetnek azok a kollégiumok és középiskolák, amelyeknek célja megteremteni a feltételeket ahhoz, hogy a halmozottan hátrányos helyzetű tanulók megkezdhessék és sikeresen befejezhessék a középfokú tanulmányaikat, középiskolai végzettséget szerezhessenek, továbbá esélyt kapjanak a felsőfokú tanulmányok megkezdésére.
 
-(2)[^218] A Kollégiumi Programban részt vevő kollégium kiválasztása – az oktatásért felelős miniszter által vezetett minisztérium által kiírt – nyilvános pályázat útján történik. A pályázatot az oktatásért felelős miniszter által vezetett minisztérium honlapján kell meghirdetni.
+(2)[^219] A Kollégiumi Programban részt vevő kollégium kiválasztása – az oktatásért felelős miniszter által vezetett minisztérium által kiírt – nyilvános pályázat útján történik. A pályázatot az oktatásért felelős miniszter által vezetett minisztérium honlapján kell meghirdetni.
 
-(3)[^219] A pályázatokat az e célra létrehozott bizottság – a pályázati határidő lejártát követő harminc napon belül – bírálja el. A győztes pályázók nevét – a pályázatok elbírálásától számított öt napon belül – az oktatásért felelős miniszter által vezetett minisztérium honlapján nyilvánosságra kell hozni.
+(3)[^220] A pályázatokat az e célra létrehozott bizottság – a pályázati határidő lejártát követő harminc napon belül – bírálja el. A győztes pályázók nevét – a pályázatok elbírálásától számított öt napon belül – az oktatásért felelős miniszter által vezetett minisztérium honlapján nyilvánosságra kell hozni.
 
-(4)[^220] A bizottság három tagú, amelybe az oktatásért felelős miniszter delegálja a Kollégiumi Program vezetőjét, a Kollégiumi Program tanácsadó testületének egy tagját és az Országos Kollégiumi Szövetség egy tagját. A bizottság maga határozza meg működésének rendjét, azzal a megkötéssel, hogy döntését egyszerű szótöbbséggel hozza. A tagokat a tevékenységük ellátásáért díjazás nem illeti meg.
+(4)[^221] A bizottság három tagú, amelybe az oktatásért felelős miniszter delegálja a Kollégiumi Program vezetőjét, a Kollégiumi Program tanácsadó testületének egy tagját és az Országos Kollégiumi Szövetség egy tagját. A bizottság maga határozza meg működésének rendjét, azzal a megkötéssel, hogy döntését egyszerű szótöbbséggel hozza. A tagokat a tevékenységük ellátásáért díjazás nem illeti meg.
 
-(5)[^221] A pályázathoz csatolni kell
+(5)[^222] A pályázathoz csatolni kell
 
 a) a Kollégiumi Program indítására és az alapító okirat ennek megfelelő módosítására vonatkozó szándéknyilatkozatot,
 
 b) a fenntartó – a pályázaton való részvételt támogató – nyilatkozatát,
 
-c)[^222] a kollégium – a Kollégiumi nevelés országos alapprogramjának kiadásáról szóló 46/2001. (XII. 22.) OM rendeletben foglalt, a Hátrányos Helyzetű Tanulók Arany János Kollégiumi Programjának követelményei szerint elkészített – pedagógiai programjának tervezetét, amelynek megfelelően nyertes pályázat esetén a pályázó módosítja a pedagógiai programját,
+c)[^223] a kollégium – a Kollégiumi nevelés országos alapprogramjának kiadásáról szóló 46/2001. (XII. 22.) OM rendeletben foglalt, a Hátrányos Helyzetű Tanulók Arany János Kollégiumi Programjának követelményei szerint elkészített – pedagógiai programjának tervezetét, amelynek megfelelően nyertes pályázat esetén a pályázó módosítja a pedagógiai programját,
 
-d)[^223] a Kollégiumi Programban partnerként közreműködő középiskola nyilatkozatát arról, hogy a résztvevők középiskolai tanulmányokra történő felkészítését, a tanulmányok megkezdését és a tanulmányok alatti felkészítést biztosítja a kerettantervek kiadásának és jóváhagyásának rendjéről, valamint egyes oktatási jogszabályok módosításáról szóló 17/2004. (V. 20.) OM rendeletben foglalt, a Hátrányos Helyzetű Tanulók Arany János Kollégiumi Programjának követelményei szerint.
+d)[^224] a Kollégiumi Programban partnerként közreműködő középiskola nyilatkozatát arról, hogy a résztvevők középiskolai tanulmányokra történő felkészítését, a tanulmányok megkezdését és a tanulmányok alatti felkészítést biztosítja a kerettantervek kiadásának és jóváhagyásának rendjéről, valamint egyes oktatási jogszabályok módosításáról szóló 17/2004. (V. 20.) OM rendeletben foglalt, a Hátrányos Helyzetű Tanulók Arany János Kollégiumi Programjának követelményei szerint.
 
-(6)[^224] A Kollégiumi Programba a tanév rendjében meghatározottak szerint lehet bekapcsolódnia annak, aki – abban a tanévben, amelyben a pályázat meghirdetésre kerül –
+(6)[^225] A Kollégiumi Programba a tanév rendjében meghatározottak szerint lehet bekapcsolódnia annak, aki – abban a tanévben, amelyben a pályázat meghirdetésre kerül –
 
 a) tanulói jogviszonyban áll és a középiskola kilencedik évfolyamára jelentkezik, és
 
@@ -40,23 +40,23 @@ c) a bc), bd) pontokban szereplő feltételek szerint felvehető tanulók arány
 
 (7) Az intézmény tájékoztatja a tanulót a Kollégiumi Programban való részvétel során őt megillető jogokról és az őt terhelő kötelezettségekről.
 
-(8)[^225] A Halmozottan Hátrányos Helyzetű Tanulók Arany János Kollégiumi-Szakiskolai Programjában (a továbbiakban: Kollégiumi-Szakiskolai Program) részt vehetnek azok a szakiskolák és kollégiumok, amelyek közösen vállalják, hogy a Kollégiumi-Szakiskolai Programban résztvevő tanulóknak nappali rendszerű iskolai oktatás keretében szakiskolában, kollégiumi elhelyezéssel államilag elismert szakképesítés megszerzését biztosítják.
+(8)[^226] A Halmozottan Hátrányos Helyzetű Tanulók Arany János Kollégiumi-Szakiskolai Programjában (a továbbiakban: Kollégiumi-Szakiskolai Program) részt vehetnek azok a szakiskolák és kollégiumok, amelyek közösen vállalják, hogy a Kollégiumi-Szakiskolai Programban résztvevő tanulóknak nappali rendszerű iskolai oktatás keretében szakiskolában, kollégiumi elhelyezéssel államilag elismert szakképesítés megszerzését biztosítják.
 
-(9)[^226] A Kollégiumi-Szakiskolai Programba a közoktatási törvény 121. § (1) bekezdésének 14. pontja szerinti halmozottan hátrányos helyzetű tanulók vehetők fel.
+(9)[^227] A Kollégiumi-Szakiskolai Programba a közoktatási törvény 121. § (1) bekezdésének 14. pontja szerinti halmozottan hátrányos helyzetű tanulók vehetők fel.
 
-(10)[^227] A Kollégiumi-Szakiskolai Programban részt vevő szakiskola és kollégium kiválasztása – az oktatásért felelős miniszter által vezetett minisztérium által kiírt – nyilvános pályázat útján történik. A pályázatot az oktatásért felelős miniszter által vezetett minisztérium honlapján kell meghirdetni.
+(10)[^228] A Kollégiumi-Szakiskolai Programban részt vevő szakiskola és kollégium kiválasztása – az oktatásért felelős miniszter által vezetett minisztérium által kiírt – nyilvános pályázat útján történik. A pályázatot az oktatásért felelős miniszter által vezetett minisztérium honlapján kell meghirdetni.
 
-(11)[^228] A pályázatokat az e célra létrehozott három tagú bizottság – a pályázati határidő lejártát követő harminc napon belül – bírálja el. A győztes pályázók nevét – a pályázatok elbírálásától számított öt napon belül – az oktatásért felelős miniszter által vezetett minisztérium honlapján nyilvánosságra kell hozni, valamint a nyerteseket írásban értesíteni kell. A bizottság maga határozza meg működésének rendjét azzal a megkötéssel, hogy döntését egyszerű szótöbbséggel hozza. A tagokat a tevékenységük ellátásáért díjazás nem illeti meg.
+(11)[^229] A pályázatokat az e célra létrehozott három tagú bizottság – a pályázati határidő lejártát követő harminc napon belül – bírálja el. A győztes pályázók nevét – a pályázatok elbírálásától számított öt napon belül – az oktatásért felelős miniszter által vezetett minisztérium honlapján nyilvánosságra kell hozni, valamint a nyerteseket írásban értesíteni kell. A bizottság maga határozza meg működésének rendjét azzal a megkötéssel, hogy döntését egyszerű szótöbbséggel hozza. A tagokat a tevékenységük ellátásáért díjazás nem illeti meg.
 
-(12)[^229] A pályázathoz csatolni kell
+(12)[^230] A pályázathoz csatolni kell
 
 a) a Kollégiumi-Szakiskolai Program indítására és az alapító okirat ennek megfelelő módosítására vonatkozó szándéknyilatkozatot,
 
 b) a fenntartó – a pályázaton való részvételt támogató – nyilatkozatát,
 
-c)[^230] a szakiskola és a kollégium – a Kollégiumi nevelés országos alapprogramjának kiadásáról szóló 46/2001. (XII. 22.) OM rendeletben foglalt, a Halmozottan Hátrányos Helyzetű Tanulók Arany János Kollégiumi-Szakiskolai Programjának követelményei szerint elkészített és egymással pedagógiai szempontból összehangolt – pedagógiai programjának a fenntartóval egyeztetett tervezetét, amelynek megfelelően nyertes pályázat esetén a pályázó a fenntartó egyetértésével módosítja a pedagógiai programját.
+c)[^231] a szakiskola és a kollégium – a Kollégiumi nevelés országos alapprogramjának kiadásáról szóló 46/2001. (XII. 22.) OM rendeletben foglalt, a Halmozottan Hátrányos Helyzetű Tanulók Arany János Kollégiumi-Szakiskolai Programjának követelményei szerint elkészített és egymással pedagógiai szempontból összehangolt – pedagógiai programjának a fenntartóval egyeztetett tervezetét, amelynek megfelelően nyertes pályázat esetén a pályázó a fenntartó egyetértésével módosítja a pedagógiai programját.
 
-(13)[^231] A Kollégiumi-Szakiskolai Programba a tanév rendjében meghatározottak szerint lehet bekapcsolódnia annak, aki
+(13)[^232] A Kollégiumi-Szakiskolai Programba a tanév rendjében meghatározottak szerint lehet bekapcsolódnia annak, aki
 
 a) tanulói jogviszonyban áll, a szakiskola kilencedik évfolyamára jelentkezik, és egyúttal kollégiumi ellátást is kér, vagy
 
@@ -68,23 +68,23 @@ ca) halmozottan hátrányos helyzetű,
 
 cb) a Gyvt. 52. §-a szerint gyermekvédelmi szakellátás otthont nyújtó ellátási formájában részesülő átmeneti nevelésbe vett, vagy a programba történő jelentkezés időpontjában ideiglenes hatállyal elhelyezett.
 
-(14)[^232] E § (6) és (13) bekezdésében foglalt, a tanulói pályázatok benyújtásával kapcsolatos eljárást a Hivatal szakértők bevonásával ellenőrzi. Ha a szakmai ellenőrzés tanügy-igazgatási szabálytalanságokat tár fel, a Hivatal hatósági ellenőrzést végez.
+(14)[^233] E § (6) és (13) bekezdésében foglalt, a tanulói pályázatok benyújtásával kapcsolatos eljárást a Hivatal szakértők bevonásával ellenőrzi. Ha a szakmai ellenőrzés tanügy-igazgatási szabálytalanságokat tár fel, a Hivatal hatósági ellenőrzést végez.
 
-[^215]: A 39/H. §-t megelőző alcímet a 11/2006. (XI. 10.) OKM rendelet 1. §-a iktatta be, szövege a 41/2007. (XII. 22.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^216]: A 39/H. §-t a 11/2006. (XI. 10.) OKM rendelet 1. §-a iktatta be.
-[^217]: A 39/H. § (1) bekezdése a 29/2009. (VIII. 19.) OKM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^218]: A 39/H. § (2) bekezdése a 34/2011. (VI. 24.) NEFMI rendelet 8. § b) pontja szerint módosított szöveg.
-[^219]: A 39/H. § (3) bekezdése a 34/2011. (VI. 24.) NEFMI rendelet 8. § b) pontja szerint módosított szöveg.
-[^220]: A 39/H. § (4) bekezdése a 34/2011. (VI. 24.) NEFMI rendelet 8. § a) pontja szerint módosított szöveg.
-[^221]: A 39/H. § (5) bekezdése a 29/2009. (VIII. 19.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^222]: A 39/H. § (5) bekezdés c) pontja a 11/2010. (X. 6.) NEFMI rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^223]: A 39/H. § (5) bekezdés d) pontja a 11/2010. (X. 6.) NEFMI rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^224]: A 39/H. § (6) bekezdése a 29/2009. (VIII. 19.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^225]: A 39/H. § (8) bekezdését a 41/2007. (XII. 22.) OKM rendelet 4. § (2) bekezdése iktatta be, szövege a 16/2008. (IV. 30.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^226]: A 39/H. § (9) bekezdését a 41/2007. (XII. 22.) OKM rendelet 4. § (2) bekezdése iktatta be.
-[^227]: A 39/H. § (10) bekezdését a 41/2007. (XII. 22.) OKM rendelet 4. § (2) bekezdése iktatta be, szövege a 16/2008. (IV. 30.) OKM rendelet 5. § (2) bekezdésével megállapított, a 34/2011. (VI. 24.) NEFMI rendelet 8. § b) pontja szerint módosított szöveg.
-[^228]: A 39/H. § (11) bekezdését a 41/2007. (XII. 22.) OKM rendelet 4. § (2) bekezdése iktatta be, szövege a 16/2008. (IV. 30.) OKM rendelet 5. § (2) bekezdésével megállapított, a 34/2011. (VI. 24.) NEFMI rendelet 8. § b) pontja szerint módosított szöveg.
-[^229]: A 39/H. § (12) bekezdését a 41/2007. (XII. 22.) OKM rendelet 4. § (2) bekezdése iktatta be, szövege a 29/2009. (VIII. 19.) OKM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^230]: A 39/H. § (12) bekezdés c) pontja a 11/2010. (X. 6.) NEFMI rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^231]: A 39/H. § (13) bekezdését a 16/2008. (IV. 30.) OKM rendelet 5. § (3) bekezdése iktatta be, szövege a 32/2008. (XI. 24.) OKM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^232]: A 39/H. § (14) bekezdését a 16/2008. (IV. 30.) OKM rendelet 5. § (3) bekezdése iktatta be.
+[^216]: A 39/H. §-t megelőző alcímet a 11/2006. (XI. 10.) OKM rendelet 1. §-a iktatta be, szövege a 41/2007. (XII. 22.) OKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^217]: A 39/H. §-t a 11/2006. (XI. 10.) OKM rendelet 1. §-a iktatta be.
+[^218]: A 39/H. § (1) bekezdése a 29/2009. (VIII. 19.) OKM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^219]: A 39/H. § (2) bekezdése a 34/2011. (VI. 24.) NEFMI rendelet 8. § b) pontja szerint módosított szöveg.
+[^220]: A 39/H. § (3) bekezdése a 34/2011. (VI. 24.) NEFMI rendelet 8. § b) pontja szerint módosított szöveg.
+[^221]: A 39/H. § (4) bekezdése a 34/2011. (VI. 24.) NEFMI rendelet 8. § a) pontja szerint módosított szöveg.
+[^222]: A 39/H. § (5) bekezdése a 29/2009. (VIII. 19.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^223]: A 39/H. § (5) bekezdés c) pontja a 11/2010. (X. 6.) NEFMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^224]: A 39/H. § (5) bekezdés d) pontja a 11/2010. (X. 6.) NEFMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^225]: A 39/H. § (6) bekezdése a 29/2009. (VIII. 19.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^226]: A 39/H. § (8) bekezdését a 41/2007. (XII. 22.) OKM rendelet 4. § (2) bekezdése iktatta be, szövege a 16/2008. (IV. 30.) OKM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^227]: A 39/H. § (9) bekezdését a 41/2007. (XII. 22.) OKM rendelet 4. § (2) bekezdése iktatta be.
+[^228]: A 39/H. § (10) bekezdését a 41/2007. (XII. 22.) OKM rendelet 4. § (2) bekezdése iktatta be, szövege a 16/2008. (IV. 30.) OKM rendelet 5. § (2) bekezdésével megállapított, a 34/2011. (VI. 24.) NEFMI rendelet 8. § b) pontja szerint módosított szöveg.
+[^229]: A 39/H. § (11) bekezdését a 41/2007. (XII. 22.) OKM rendelet 4. § (2) bekezdése iktatta be, szövege a 16/2008. (IV. 30.) OKM rendelet 5. § (2) bekezdésével megállapított, a 34/2011. (VI. 24.) NEFMI rendelet 8. § b) pontja szerint módosított szöveg.
+[^230]: A 39/H. § (12) bekezdését a 41/2007. (XII. 22.) OKM rendelet 4. § (2) bekezdése iktatta be, szövege a 29/2009. (VIII. 19.) OKM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^231]: A 39/H. § (12) bekezdés c) pontja a 11/2010. (X. 6.) NEFMI rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^232]: A 39/H. § (13) bekezdését a 16/2008. (IV. 30.) OKM rendelet 5. § (3) bekezdése iktatta be, szövege a 32/2008. (XI. 24.) OKM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^233]: A 39/H. § (14) bekezdését a 16/2008. (IV. 30.) OKM rendelet 5. § (3) bekezdése iktatta be.

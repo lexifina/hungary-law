@@ -1,4 +1,4 @@
-4/A. §[^31] (1) A nevelési-oktatási intézmény házirendjében – a közoktatási törvény 40. § (9) bekezdése szerint – kell szabályozni egyéb jogszabályban meghatározottakon túlmenően
+4/A. §[^32] (1) A nevelési-oktatási intézmény házirendjében – a közoktatási törvény 40. § (9) bekezdése szerint – kell szabályozni egyéb jogszabályban meghatározottakon túlmenően
 
 a) a gyermek, tanuló távolmaradásának, mulasztásának, késésének igazolására vonatkozó rendelkezéseket,
 
@@ -18,4 +18,4 @@ h) a tanulók tantárgyválasztásával, annak módosításával kapcsolatos elj
 
 i) a napközis és tanulószobai foglalkozásokra való felvétel iránti kérelmek, továbbá a kollégiumi, externátusi elhelyezés napközis foglalkozás, illetve iskolaotthonos osztályba történő felvétel iránti kérelem elbírálásának elveit.
 
-[^31]: A 4/A. §-t a 30/2004. (X. 28.) OM rendelet 4. §-a iktatta a szövegbe.
+[^32]: A 4/A. §-t a 30/2004. (X. 28.) OM rendelet 4. §-a iktatta a szövegbe.

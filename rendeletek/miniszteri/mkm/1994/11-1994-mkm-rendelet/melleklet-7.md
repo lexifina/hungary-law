@@ -1,12 +1,12 @@
-## Kérelem a nem önkormányzati nevelési-oktatási intézmény működésének megkezdéséhez szükséges engedély kiadásához
+## Kérelem a nem települési önkormányzat, nem megyei fenntartó által fenntartott nevelési-oktatási intézmény működésének megkezdéséhez szükséges engedély kiadásához[^326]
 
-## I.[^325]
+## I.[^327]
 
 ## A(z) ........................... Kormányhivatal részére a közoktatásról szóló 1993. évi LXXIX. törvény 79. §-ának (2) bekezdése alapján. A kérelemnek az alábbi adatokat kell tartalmaznia:
 
 ## 1. A működési engedély iránti kérelem tárgya
 
-## 2.[^326] A közoktatási intézményt nyilvántartásba vevő kormányhivatal, a nyilvántartásba vételről szóló határozat száma, kelte (amennyiben a nyilvántartásba vétel már megtörtént)
+## 2.[^328] A közoktatási intézményt nyilvántartásba vevő kormányhivatal, a nyilvántartásba vételről szóló határozat száma, kelte (amennyiben a nyilvántartásba vétel már megtörtént)
 
 ## 3. Alapító adatai (név, működési forma, nyilvántartásba vétel formája és azonosítója, székhely, értesítési cím)
 
@@ -48,7 +48,7 @@
 
 ## A mellékletek
 
-## A kérelemhez csatolni kell eredetiben vagy másolatban: (Másolat esetén az eljárás során a kormányhivatal kérheti az eredeti dokumentum bemutatását.)[^327]
+## A kérelemhez csatolni kell eredetiben vagy másolatban: (Másolat esetén az eljárás során a kormányhivatal kérheti az eredeti dokumentum bemutatását.)[^329]
 
 ## 1. a nevelési-oktatási intézmény alapító okiratát, valamint a nyilvántartásba vételről szóló határozatot,
 
@@ -82,9 +82,10 @@
 
 ## Ha a kérelmező a melléklet 1., 3., 4. pontja szerinti adattartalmat nem igazolja, a kérelem elbírálásához a nyilvántartásba vételi engedélyről szóló határozat, a tulajdoni lap, a használatbavételi engedély, a hatósági bizonyítvány vonatkozásában a nyilvántartást vezető szervet kell megkeresni a jogosultságra vonatkozó adatok szolgáltatása vagy igazolása iránt.
 
-7. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez[^328]
+7. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez[^330]
 
-[^325]: A 6. számú melléklet I. rész nyitó szövegrésze a 34/2011. (VI. 24.) NEFMI rendelet 9. § b) pontja szerint módosított szöveg. [A 6. számú melléklet I. rész nyitó szövegrészének az 1/2012. (I. 3.) NEFMI rendelet 13. § b) pontjával elrendelt módosítása, mely szerint az „Önkormányzat jegyzője, főjegyzője” szövegrész helyébe „Kormányhivatal” szöveg lép, nem vezethető át.]
-[^326]: A 6. számú melléklet I. rész 2. pontja a 34/2011. (VI. 24.) NEFMI rendelet 9. § c) pontja szerint módosított szöveg. [A 6. számú melléklet I. rész 2. pontjának az 1/2012. (I. 3.) NEFMI rendelet 13. § c) pontjával elrendelt módosítása, mely szerint a „jegyző, főjegyző hivatala” szövegrész helyébe „kormányhivatal” szöveg lép, nem vezethető át.]
-[^327]: A 6. számú melléklet II. részének nyitó szövegrésze a 34/2011. (VI. 24.) NEFMI rendelet 9. § a) pontja szerint módosított szöveg. [A 6. számú melléklet II. rész nyitó szövegrészének az 1/2012. (I. 3.) NEFMI rendelet 13. § a) pontjával elrendelt módosítása, mely szerint a „jegyző, főjegyző” szövegrész helyébe „kormányhivatal” szöveg lép, nem vezethető át.]
-[^328]: A 7. számú mellékletet az 1/1998. (VII. 24.) OM rendelet iktatta a szövegbe.
+[^326]: A 6. számú melléklet címe a 24/2012. (IV. 12.) NEFMI rendelet 2. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^327]: A 6. számú melléklet I. rész nyitó szövegrésze a 34/2011. (VI. 24.) NEFMI rendelet 9. § b) pontja szerint módosított szöveg. [A 6. számú melléklet I. rész nyitó szövegrészének az 1/2012. (I. 3.) NEFMI rendelet 13. § b) pontjával elrendelt módosítása, mely szerint az „Önkormányzat jegyzője, főjegyzője” szövegrész helyébe „Kormányhivatal” szöveg lép, nem vezethető át.]
+[^328]: A 6. számú melléklet I. rész 2. pontja a 34/2011. (VI. 24.) NEFMI rendelet 9. § c) pontja szerint módosított szöveg. [A 6. számú melléklet I. rész 2. pontjának az 1/2012. (I. 3.) NEFMI rendelet 13. § c) pontjával elrendelt módosítása, mely szerint a „jegyző, főjegyző hivatala” szövegrész helyébe „kormányhivatal” szöveg lép, nem vezethető át.]
+[^329]: A 6. számú melléklet II. részének nyitó szövegrésze a 34/2011. (VI. 24.) NEFMI rendelet 9. § a) pontja szerint módosított szöveg. [A 6. számú melléklet II. rész nyitó szövegrészének az 1/2012. (I. 3.) NEFMI rendelet 13. § a) pontjával elrendelt módosítása, mely szerint a „jegyző, főjegyző” szövegrész helyébe „kormányhivatal” szöveg lép, nem vezethető át.]
+[^330]: A 7. számú mellékletet az 1/1998. (VII. 24.) OM rendelet iktatta a szövegbe.

@@ -1,6 +1,6 @@
-7/A. §[^47] (1) Igazgatási díjat kell fizetni, ha az iskola kérelemre
+7/A. §[^48] (1) Igazgatási díjat kell fizetni, ha az iskola kérelemre
 
-a)[^48]
+a)[^49]
 
 b) névváltozás esetén bizonyítványt cserél.
 
@@ -10,5 +10,5 @@ b) névváltozás esetén bizonyítványt cserél.
 
 (4) E rendelkezések nem alkalmazhatók, ha a névváltoztatásra a nemzetiségi név felvétele miatt került sor.
 
-[^47]: A 7/A. §-t a 8/2000. (V. 24.) OM. rendelet 8. §-a iktatta a szövegbe.
-[^48]: A 7/A. § (1) bekezdésének a) pontját a 6/2003. (II. 28.) OM rendelet 3. §-a hatályon kívül helyezte.
+[^48]: A 7/A. §-t a 8/2000. (V. 24.) OM. rendelet 8. §-a iktatta a szövegbe.
+[^49]: A 7/A. § (1) bekezdésének a) pontját a 6/2003. (II. 28.) OM rendelet 3. §-a hatályon kívül helyezte.

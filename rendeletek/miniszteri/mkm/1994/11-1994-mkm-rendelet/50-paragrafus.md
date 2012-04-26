@@ -1,6 +1,6 @@
-## 49. §[^265]
+## 49. §[^266]
 
-## 50. §[^266] A rendeletben foglaltakat a közös igazgatású közoktatási intézmény és az általános művelődési központ tekintetében azzal az eltéréssel kell alkalmazni, hogy
+## 50. §[^267] A rendeletben foglaltakat a közös igazgatású közoktatási intézmény és az általános művelődési központ tekintetében azzal az eltéréssel kell alkalmazni, hogy
 
 a) a szervezeti és működési szabályzatban meg kell határozni
 
@@ -14,5 +14,5 @@ b) az intézményegység munkáját az intézményegység vezetője irányítja,
 
 c) az intézményegység-vezető tevékenységét intézményegység-vezető helyettes is segítheti.
 
-[^265]: A 49. §-t a 30/2004. (X. 28.) OM rendelet 21. § (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^266]: Az 50. §-t a 16/1998. (IV. 8.) MKM rendelet 26. §-a iktatta a szövegbe.
+[^266]: A 49. §-t a 30/2004. (X. 28.) OM rendelet 21. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^267]: Az 50. §-t a 16/1998. (IV. 8.) MKM rendelet 26. §-a iktatta a szövegbe.

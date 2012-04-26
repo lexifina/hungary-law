@@ -1,4 +1,4 @@
-6/B. §[^40] (1) A szabadidő-szervező segíti az iskola pedagógusainak és a tanulók szabadidő-szervezéssel, közösségi élet kialakításával összefüggő munkáját. A szabadidő-szervező feladata különösen:
+6/B. §[^41] (1) A szabadidő-szervező segíti az iskola pedagógusainak és a tanulók szabadidő-szervezéssel, közösségi élet kialakításával összefüggő munkáját. A szabadidő-szervező feladata különösen:
 
 a) az iskola pedagógiai programjához kapcsolódó tanórán kívüli foglalkozások, programok előkészítése, szervezése, a környezeti neveléssel összefüggő tevékenység segítése (erdei iskola, tábor stb.),
 
@@ -24,4 +24,4 @@ i) a hazai és a külföldi tanulmányi utak szervezésével kapcsolatos pályá
 
 (4) Az iskola vezetője gondoskodik a szabadidő-szervező munkájához szükséges feltételekről.
 
-[^40]: A 6/B. §-t a 8/2000. (V. 24.) OM. rendelet 6. §-a iktatta a szövegbe, egyidejűleg az eredeti 6/B. § számozását 6/C. §-ra változtatta.
+[^41]: A 6/B. §-t a 8/2000. (V. 24.) OM. rendelet 6. §-a iktatta a szövegbe, egyidejűleg az eredeti 6/B. § számozását 6/C. §-ra változtatta.

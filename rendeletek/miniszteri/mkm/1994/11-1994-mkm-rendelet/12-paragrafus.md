@@ -1,4 +1,4 @@
-12. § (1)[^61] A nevelési-oktatási intézmény vezetőjének megbízásakor a közoktatási törvény 102. §-ának (3) bekezdésében szabályozott véleményezés jogát nevelési-oktatási intézményben közalkalmazotti jogviszony, illetőleg munkaviszony keretében foglalkoztatottak közössége (a továbbiakban: alkalmazotti közösség) gyakorolja.
+12. § (1)[^62] A nevelési-oktatási intézmény vezetőjének megbízásakor a közoktatási törvény 102. §-ának (3) bekezdésében szabályozott véleményezés jogát nevelési-oktatási intézményben közalkalmazotti jogviszony, illetőleg munkaviszony keretében foglalkoztatottak közössége (a továbbiakban: alkalmazotti közösség) gyakorolja.
 
 (2) Az alkalmazotti közösség abban a kérdésben foglal állást, hogy támogatja-e a pályázó vezetői megbízását.
 
@@ -12,9 +12,9 @@
 
 (7) A pályáztató a vélemények kialakításához — a pályázatok átvételétől számítva — legalább harminc napot köteles biztosítani. A véleményalkotásra megállapított határidő jogvesztő.
 
-(8)[^62] A pályáztató valamennyi – határidőre benyújtott – pályázatot megküldi az előkészítő bizottságnak.
+(8)[^63] A pályáztató valamennyi – határidőre benyújtott – pályázatot megküldi az előkészítő bizottságnak.
 
 (9) A pályázatot át kell adni a nevelési-oktatási intézményben működő szakmai munkaközösség részére is, amely írásban véleményezi a vezetési programot.
 
-[^61]: A 12. § (1)–(3) bekezdése a 16/1998. (IV. 8.) MKM rendelet 9. §-ával megállapított szöveg.
-[^62]: A 12. § (8)–(9) bekezdését a 8/2000. (V. 24.) OM. rendelet 11. §-a iktatta a szövegbe.
+[^62]: A 12. § (1)–(3) bekezdése a 16/1998. (IV. 8.) MKM rendelet 9. §-ával megállapított szöveg.
+[^63]: A 12. § (8)–(9) bekezdését a 8/2000. (V. 24.) OM. rendelet 11. §-a iktatta a szövegbe.
