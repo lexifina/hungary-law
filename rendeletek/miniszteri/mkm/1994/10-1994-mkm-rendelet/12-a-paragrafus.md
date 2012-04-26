@@ -1,8 +1,8 @@
-## AZ ORSZÁGOS PEDAGÓGIAI-SZAKMAI SZOLGÁLTATÁSOK[^16]
+## AZ ORSZÁGOS PEDAGÓGIAI-SZAKMAI SZOLGÁLTATÁSOK[^19]
 
-## Közös rendelkezések[^17]
+## Közös rendelkezések[^20]
 
-## 12/A. §[^18]
+## 12/A. §[^21]
 
 (1) Országos pedagógiai-szakmai szolgáltatásként kell megszervezni azokat a pedagógiai szakmai-szolgáltatásokat, amelyek megszervezése az önkormányzati feladatellátás körében nem oldható meg hatékonyan, továbbá amelyek az ágazati irányítás feladatait segítik.
 
@@ -16,6 +16,6 @@
 
 (6) Az Intézet által nyújtott országos pedagógiai-szakmai szolgáltatások segítik a pedagógiai intézetek pedagógiai-szakmai szolgáltató tevékenységét.
 
-[^16]: A 12/A. §-t megelőző cím a 8/2010. (III. 2.) OKM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^17]: A 12/A. §-t megelőző alcímet a 8/2010. (III. 2.) OKM rendelet 2. § (1) bekezdése iktatta be.
-[^18]: A 12/A. §-t és az előtte lévő címet a 25/1998. (VI. 9.) MKM rendelet 7. §-a iktatta be, szövege a 8/2010. (III. 2.) OKM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^19]: A 12/A. §-t megelőző cím a 8/2010. (III. 2.) OKM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^20]: A 12/A. §-t megelőző alcímet a 8/2010. (III. 2.) OKM rendelet 2. § (1) bekezdése iktatta be.
+[^21]: A 12/A. §-t és az előtte lévő címet a 25/1998. (VI. 9.) MKM rendelet 7. §-a iktatta be, szövege a 8/2010. (III. 2.) OKM rendelet 2. § (2) bekezdésével megállapított szöveg.

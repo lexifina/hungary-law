@@ -1,6 +1,6 @@
 ## A különleges gondozás feladatait segítő pedagógiai-szakmai szolgáltatások
 
-## 12/D. §[^21]
+## 12/D. §[^24]
 
 (1) Országos pedagógiai-szakmai szolgáltatásként kell megszervezni a különleges gondozás keretében nyújtott nevelést és oktatást segítő
 
@@ -22,4 +22,4 @@ c) az iskolapszichológusok feladatainak ellátásához.
 
 (4) Szaktanácsadó az lehet, aki a Kt. 17. § (10) bekezdésében meghatározott szakmai gyakorlatot a megfelelő pedagógiai szakszolgálatot ellátó intézményben vagy olyan nevelési-oktatási intézményben szerezte, ahol különleges gondozást igénylő gyermekek nevelése-oktatása folyik.
 
-[^21]: A 12/D. §-t és az azt megelőző alcímet a 8/2010. (III. 2.) OKM rendelet 3. §-a iktatta be.
+[^24]: A 12/D. §-t és az azt megelőző alcímet a 8/2010. (III. 2.) OKM rendelet 3. §-a iktatta be.

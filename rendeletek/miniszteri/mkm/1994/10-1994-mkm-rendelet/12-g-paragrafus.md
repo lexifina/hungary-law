@@ -1,6 +1,6 @@
 ## Az országos mérési-értékelési tevékenységet segítő pedagógiai-szakmai szolgáltatások
 
-## 12/G. §[^24]
+## 12/G. §[^27]
 
 (1) Országos pedagógiai-szakmai szolgáltatásként kell megszervezni az országos mérésértékelés eredményei alapján az intézményértékeléshez szükséges fejlesztési eszközök kidolgozását, elterjesztését, ennek keretében
 
@@ -10,4 +10,4 @@ b) a szaktanácsadás köréből a segítségnyújtáshoz szükséges országos 
 
 (2) Szaktanácsadó az lehet, aki a Kt. 17. § (10) bekezdésében meghatározott követelmények teljesítése mellett a szervezetfejlesztés, pedagógiai fejlesztés, mérés, értékelés területén szakképzettséggel rendelkezik vagy jogszabályban meghatározott, azzal egyenértékű szakirányú szakképzettséget szerzett.
 
-[^24]: A 12/G. §-t és az azt megelőző alcímet a 8/2010. (III. 2.) OKM rendelet 3. §-a iktatta be.
+[^27]: A 12/G. §-t és az azt megelőző alcímet a 8/2010. (III. 2.) OKM rendelet 3. §-a iktatta be.

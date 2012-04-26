@@ -2,7 +2,7 @@
 
 ## pedagógiai-szakmai szolgáltatások
 
-## 12/C. §[^20]
+## 12/C. §[^23]
 
 (1) Országos pedagógiai-szakmai szolgáltatásként kell megszervezni a nemzetközi és hazai közoktatás-fejlesztési pályázatokhoz kapcsolódó szaktanácsadást.
 
@@ -24,4 +24,4 @@ c) a pedagógiai feladatok ellátásának oktatás-szervezési, irányítási é
 
 (5) A (3)–(4) bekezdésben előírt feltételeket az is teljesíti, aki a (4) bekezdésben meghatározott akkreditált pedagógus-továbbképzésben oktatóként részt vett legalább húsz óra időtartamban, vagy az adott szakterület nemzetközileg vagy országosan elismert képviselője. Az annak a feltételnek való megfelelést, hogy valaki az adott szakterület nemzetközileg vagy országosan elismert képviselője, szakmai önéletrajzzal és legalább kettő szakmai ajánlással, továbbá publikációs jegyzékkel kell igazolni.
 
-[^20]: A 12/C. §-t és az azt megelőző alcímet a 8/2010. (III. 2.) OKM rendelet 3. §-a iktatta be.
+[^23]: A 12/C. §-t és az azt megelőző alcímet a 8/2010. (III. 2.) OKM rendelet 3. §-a iktatta be.

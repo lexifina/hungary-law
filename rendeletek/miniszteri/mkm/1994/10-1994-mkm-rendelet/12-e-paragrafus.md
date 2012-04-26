@@ -1,6 +1,6 @@
 ## A konfliktuskezelést segítő pedagógiai-szakmai szolgáltatások
 
-## 12/E. §[^22]
+## 12/E. §[^25]
 
 (1) Országos pedagógiai-szakmai szolgáltatásként kell megszervezni a konfliktuskezelési gyakorlat elterjedését szolgáló
 
@@ -12,4 +12,4 @@ c) szaktanácsadás keretében történő segítségnyújtást ahhoz, hogy a nev
 
 (2) Szaktanácsadó az lehet, aki a Kt. 17. § (10) bekezdésében meghatározottak teljesítése mellett a szakirányú tanári szakképzettség megszerzésekor vagy szakirányú továbbképzés keretében részt vett a konfliktuskezelés ismereteire történő felkészítésben vagy pszichológus, pedagógiai szakpszichológus, tanácsadó szakpszichológus, klinikai és mentálhigiénés szakpszichológus, szociálpedagógus szakképzettséggel rendelkezik.
 
-[^22]: A 12/E. §-t és az azt megelőző alcímet a 8/2010. (III. 2.) OKM rendelet 3. §-a iktatta be.
+[^25]: A 12/E. §-t és az azt megelőző alcímet a 8/2010. (III. 2.) OKM rendelet 3. §-a iktatta be.

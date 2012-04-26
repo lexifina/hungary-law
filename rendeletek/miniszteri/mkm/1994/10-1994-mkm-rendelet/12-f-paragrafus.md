@@ -1,6 +1,6 @@
 ## A halmozottan hátrányos helyzetű gyermekek, tanulók nevelését, oktatását segítő pedagógiai-szakmai szolgáltatások
 
-## 12/F. §[^23]
+## 12/F. §[^26]
 
 (1) Országos pedagógiai-szakmai szolgáltatásként kell megszervezni a halmozottan hátrányos helyzetű gyermekek, tanulók nevelésének, oktatásának megszervezését és ellátását segítő
 
@@ -16,4 +16,4 @@ d) igazgatási, pedagógiai szolgáltatás köréből a halmozottan hátrányos 
 
 (3) Az Intézet feladatait e szolgáltatások tekintetében az Országos Oktatási Integrációs Hálózat látja el.
 
-[^23]: A 12/F. §-t és az azt megelőző alcímet a 8/2010. (III. 2.) OKM rendelet 3. §-a iktatta be.
+[^26]: A 12/F. §-t és az azt megelőző alcímet a 8/2010. (III. 2.) OKM rendelet 3. §-a iktatta be.

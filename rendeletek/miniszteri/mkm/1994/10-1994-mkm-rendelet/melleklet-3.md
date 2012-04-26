@@ -64,6 +64,6 @@
 
 ## — más iratok | 5
 
-3. számú melléklet a 10/1994. (V. 13.) MKM rendelethez[^42]
+3. számú melléklet a 10/1994. (V. 13.) MKM rendelethez[^45]
 
-[^42]: A 3. számú mellékletet a 25/1998. (VI. 9.) MKM rendelet 12. §-ának (1) bekezdése, illetve 2. számú melléklete iktatta a szövegbe.
+[^45]: A 3. számú mellékletet a 25/1998. (VI. 9.) MKM rendelet 12. §-ának (1) bekezdése, illetve 2. számú melléklete iktatta a szövegbe.
