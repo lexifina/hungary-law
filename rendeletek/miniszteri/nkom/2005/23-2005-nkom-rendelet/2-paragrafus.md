@@ -1,4 +1,4 @@
-## 1. § A rendelet hatálya kiterjed a közművelődési feladatellátásra kötelezett települési, megyei önkormányzatok, a kistérségi, regionális közművelődési feladatellátók, közművelődési intézmények, civil szervezetek által, illetve a közösségi színterekben folytatott közművelődési tevékenységek szakfelügyeletére.
+## 1. §[^2] A rendelet hatálya kiterjed a közművelődési feladatellátásra kötelezett települési önkormányzatok, a kistérségi, regionális közművelődési feladatellátók, közművelődési intézmények, civil szervezetek által, illetve a közösségi színterekben folytatott közművelődési tevékenységek és a közművelődési szakmai tanácsadást, szolgáltatást nyújtó szervezetek szakfelügyeletére.
 
 ## 2. § A szakfelügyelet
 
@@ -15,3 +15,5 @@ e) vizsgálja a feladatellátáshoz, a közművelődési intézmények és szín
 f) ellenőrzi az egyes közművelődési munkakörök betöltéséhez szükséges képesítési feltételek, foglalkoztatási előírások, valamint a közművelődési továbbképzés és minősített szakmai továbbképzés követelményeinek teljesítését,
 
 g) feltárja a végzett munkában tapasztalt eredményeket és a fogyatékosságokat, azokról jelentést készít.
+
+[^2]: Az 1. § a 26/2012. (IV. 25.) NEFMI rendelet 2. § (1) bekezdésével megállapított szöveg.
