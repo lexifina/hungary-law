@@ -8,11 +8,13 @@ b) a szakmai képesítések elismeréséről szóló 2005/36/EK európai parlame
 
 c) a személyek szabad mozgása területén elfogadott egyes irányelveknek Bulgária és Románia csatlakozása tekintetében történő kiigazításáról szóló 2006/100/EK tanácsi irányelv (2006. november 20.) 1. cikke és melléklete,
 
-d)[^4] a szakmai képesítések elismeréséről szóló 2005/36/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló 279/2009/EK bizottsági rendelet (2009. április 6.).
+d)[^4] a szakmai képesítések elismeréséről szóló 2005/36/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló 279/2009/EK bizottsági rendelet (2009. április 6.),
 
-e)[^5] a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv II. és V. mellékletének módosításáról szóló 213/2011/EU bizottsági rendelet (2011. március 3.).
+e)[^5] a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv II. és V. mellékletének módosításáról szóló 213/2011/EU bizottsági rendelet (2011. március 3.),
 
-Melléklet a 35/2007. (XI. 13.) OKM rendelethez[^6]
+f)[^6] az egyrészről az Európai Közösség és tagállamai, másrészről a Svájci Államszövetség közötti, a személyek szabad mozgásáról szóló megállapodás 14. cikkével létrehozott EU-Svájc Vegyes Bizottság 2/2011 határozata a szakmai képesítések kölcsönös elismeréséről szóló III. melléklet kicseréléséről (2011. szeptember 30.), (2011/702/EU).
+
+Melléklet a 35/2007. (XI. 13.) OKM rendelethez[^7]
 
 I. Szabályozott szakma gyakorlására jogosító képzések
 
@@ -201,6 +203,28 @@ ahol a képzés legalább tizennégy év időtartamú oktatást jelent, beleért
 – fogtechnikus (zubný technik),
 
 az oktatás és képzés időtartama legalább 14 év, beleértve legalább 8 vagy 9 év általános iskolai oktatást, 4 év középiskolai oktatást, amelyet 2 év, egészségügyi szakiskolában folytatott továbbképzés követ, majd egy általános, elméleti és gyakorlati záróvizsga (maturitné vysvedčenie) zár le.
+
+Svájcban:
+
+– Opticien diplômé, diplomierter Augenoptiker, ottico diplomato (felsőfokú szakképzést tanúsító szövetségi oklevéllel rendelkező látszerész)
+
+A képzés időtartama legalább 17 év, amelyből legalább kilenc év általános iskolai képzés, négy év részben a munkahely, részben valamely szakmai intézmény által nyújtott szakképzés, azt követi négy év gyakorlat vagy kihelyezett munka, ebből két évet nappali tagozatos magánképzést követően lehet eltölteni, és végül felsőfokú vizsga. Ez feljogosítja a birtokosát kontaktlencse szemhez igazítására vagy szemészeti vizsgálatok önállóan vagy munkavállalóként történő végzésére.
+
+– Audioprothésiste avec brevet fédéral, Hörgeräte-Akustiker mit eidg. Fachausweis, audioprotesista con attestato professionale federale (felsőfokú szakképzési szövetségi bizonyítvánnyal rendelkező hallókészülék-készítő)
+
+A képzés időtartama legalább 15 év, amelyből legalább kilenc év általános iskolai képzés, legalább három év részben a munkahely, részben valamely szakmai intézmény által nyújtott szakképzés, azt követi három év gyakorlat vagy kihelyezett munka, beleértve a magánjellegű képzést is és végül szakvizsga. Ez feljogosítja a birtokosát a szakma önálló vagy munkavállalóként történő gyakorlására.
+
+– Bottier-orthopédiste diplômé, diplomierter Orthopädie-Schuhmachermeister, calzolaio ortopedico diplomato (felsőfokú szakképzést tanúsító szövetségi oklevéllel rendelkező ortopédlábbeli-készítő)
+
+A képzés időtartama legalább 17 év, amelyből legalább kilenc év általános iskolai képzés, négy év részben a munkahely, részben valamely szakmai intézmény által nyújtott szakképzés, azt követi négy év gyakorlat vagy kihelyezett munka, beleértve a magánjellegű képzést is, és végül felsőfokú vizsga. Ez feljogosítja a birtokosát a szakma önálló vagy munkavállalóként történő gyakorlására.
+
+– Technicien dentiste, maître, diplomierter Zahntechnikermeister, odontotecnico, maestro (felsőfokú szakképzést tanúsító szövetségi oklevéllel rendelkező fogtechnikus)
+
+A képzés időtartama legalább 18 év, amelyből legalább kilenc év általános iskolai képzés, négy év részben a munkahely, részben valamely szakmai intézmény által nyújtott szakképzés, azt követi négy év gyakorlat vagy kihelyezett munka, beleértve a magánjellegű képzést is, és végül felsőfokú vizsga. Ez feljogosítja a birtokosát a szakma önálló vagy munkavállalóként történő gyakorlására.
+
+– Orthopédiste diplômé, diplomierter Orthopädist, ortopedista diplomato (felsőfokú szakképzést tanúsító szövetségi oklevéllel rendelkező protéziskészítő)
+
+A képzés időtartama legalább 18 év, amelyből legalább kilenc év általános iskolai képzés, négy év részben a munkahely, részben valamely szakmai intézmény által nyújtott szakképzés, azt követi négy év gyakorlat vagy kihelyezett munka, beleértve a magánjellegű képzést is, és végül felsőfokú vizsga. Ez feljogosítja a birtokosát a szakma önálló vagy munkavállalóként történő gyakorlására.
 
 2. Kézműipari ágazat „mester” szinten („mester/Meister/maitre”)
 
@@ -960,6 +984,16 @@ Az órákban meghatározott időtartamot és a diagnosztikai technikusok részé
 
 (ii) a képzés legalább nyolcéves általános iskolai képzést, valamint legalább ötéves, a vasúti közlekedésre specializálódott középiskolai szakképzést foglal magába, továbbá egy hatvanhárom napos forgalmi szolgálattevő képzést, melynek befejezésekor minősítő vizsgát kell tenni.
 
+Svájcban:
+
+– Guide de montagne avec brevet fédéral, Bergführer mit eifg. Fachausweis, guida alpina con attestato professionale federale (felsőfokú szakképzést tanúsító szövetségi bizonyítvánnyal rendelkező hegyi vezető)
+
+A képzés időtartama legalább 13 év, amelyből legalább kilenc év általános iskolai képzés, négy év szakképzés képesített szakember felügyelete alatt, beleértve a magánjellegű képzést is, és végül szakvizsga. Ez feljogosítja a birtokosát a szakma önálló gyakorlására.
+
+– Professeur de sports de neige avec brevet fédéral, Schneesportlehrer mit eidg. Fachausweis, Maestro di sport sulla neve con attestato professionale fédérale (felsőfokú szakképzést tanúsító szövetségi bizonyítvánnyal rendelkező télisport-oktató)
+
+A képzés időtartama legalább 15 év, amelyből legalább kilenc év általános iskolai képzés, négy év részben a munkahely, részben valamely szakmai intézmény által nyújtott szakképzés vagy négyéves szakmai tapasztalat, azt követi egy kétéves képzés és gyakorlat és végül szakvizsga. Ez feljogosítja a birtokosát a szakma önálló gyakorlására.
+
 5. Az Egyesült Királyságban akkreditált nemzeti szakmai képesítést (National Vocational Qualifications) nyújtó és skót szakmai képesítést (Scottish Vocational Qualifications) nyújtó akkreditált képzések
 
 – Regisztrált állatorvosi asszisztens (listed veterinary nurse),
@@ -1054,4 +1088,5 @@ E képzések teljes hossza legalább tizenhárom év: kilenc év kötelező okta
 [^3]: A 6. § a 14/2008. (IV. 10.) OKM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: A 6. § d) pontját a 26/2009. (VI. 30.) OKM rendelet 1. §-a iktatta be.
 [^5]: A 6. § e) pontját az 50/2011. (VIII. 18.) Korm. rendelet 1. §-a iktatta be.
-[^6]: A melléklet a 14/2008. (IV. 10.) OKM rendelet 1. § (2) bekezdésével megállapított, a 26/2009. (VI. 30.) OKM rendelet 2. §-a, az 50/2011. (VIII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^6]: A 6. § f) pontját a 24/2012. (IV. 18.) NEFMI rendelet 3. §-a iktatta be.
+[^7]: A melléklet a 14/2008. (IV. 10.) OKM rendelet 1. § (2) bekezdésével megállapított, a 26/2009. (VI. 30.) OKM rendelet 2. §-a, az 50/2011. (VIII. 18.) Korm. rendelet 2. §-a, a 24/2012. (IV. 18.) NEFMI rendelet 4. §-a szerint módosított szöveg.
