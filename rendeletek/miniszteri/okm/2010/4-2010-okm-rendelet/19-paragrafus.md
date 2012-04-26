@@ -1,6 +1,6 @@
 19. § (1) A szülő – az első, hivatalból történő felülvizsgálattól számított egy év eltelte után – a felülvizsgálati eljárást bármikor kezdeményezheti. A szakértői és rehabilitációs bizottság a szülő kérelmére akkor köteles lefolytatni a felülvizsgálati eljárást, ha a hivatalból történő felülvizsgálat óta több mint hat hónap telt el, és a soron következő, hivatalból történő felülvizsgálat időpontjáig több mint hat hónap van hátra.
 
-(2)[^17] Ha a felülvizsgálatra a közoktatási intézményben kerül sor, a vizsgálat időpontjáról és helyéről – a szakértői és rehabilitációs bizottsággal történő egyeztetés alapján – a gyermek, tanuló nevelését, nevelését-oktatását ellátó közoktatási intézmény a felülvizsgálat időpontja előtt legalább nyolc nappal értesíti a szülőt.
+(2)[^22] Ha a felülvizsgálatra a közoktatási intézményben kerül sor, a vizsgálat időpontjáról és helyéről – a szakértői és rehabilitációs bizottsággal történő egyeztetés alapján – a gyermek, tanuló nevelését, nevelését-oktatását ellátó közoktatási intézmény a felülvizsgálat időpontja előtt legalább nyolc nappal értesíti a szülőt.
 
 (3) Teljes körű vizsgálati eljárást kell lefolytatni
 
@@ -14,4 +14,4 @@ c) a szülő kérésére indított eljárásban, feltéve, hogy az utolsó telje
 
 (5) A szakértői és rehabilitációs bizottság kezdeményezi az Oktatási Hivatalnál a közoktatási intézmény hatósági, a fenntartónál pedig szakmai ellenőrzését, ha a felülvizsgálati eljárás során vagy az értékelő lap alapján azt indokoltnak tartja.
 
-[^17]: A 19. § (2) bekezdése a 6/2011. (III. 8.) NEFMI rendelet 7. § (2) bekezdés g) pontja szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^22]: A 19. § (2) bekezdése a 6/2011. (III. 8.) NEFMI rendelet 7. § (2) bekezdés g) pontja szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

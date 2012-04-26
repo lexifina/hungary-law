@@ -12,8 +12,10 @@ d) magasabb összegű családi pótlék megállapításához súlyos és közép
 
 (2) A szakértői és rehabilitációs bizottság az (1) bekezdés a)–b) pontjában meghatározott intézménybe történő felvétellel kapcsolatos javaslatát a korai fejlesztéssel és gondozással, illetve a fejlesztő felkészítéssel összefüggésben készített szakértői véleményébe építi be.
 
-(3) A jegyző, a főjegyző minden év január 31-ig megküldi az illetékes szakértői és rehabilitációs bizottságnak a közoktatásról szóló törvény 91. § (4) bekezdés e) pontja szerinti tájékoztatót, amelyben jelzi az intézmények felvételi körzetét is.
+(3)[^27] A fenntartó minden év január 31-ig megküldi az illetékes szakértői és rehabilitációs bizottságnak a közoktatásról szóló törvény 91. § (4) bekezdés e) pontja szerinti tájékoztatót, amelyben jelzi az intézmények felvételi körzetét is.
 
 (4) Ahol e rendelet pedagógus-szakvizsgáról rendelkezik, azon a pedagógus-szakvizsgával egyenértékű szakképzettséget és tudományos fokozatot is érteni kell.
 
 (5) Ha a felnőttoktatásban részt vevő tanuló – a közoktatásról szóló törvény 78. § (7) bekezdés d) pontjában foglaltak alapján – nem veheti igénybe a pedagógiai szakszolgálat feladatait ellátó intézmények szolgáltatásait, a sajátos nevelési igény megállapításának kérdésében a Szakmai Szolgáltató Intézmény jár el. A szakmai feladatra jutó folyó kiadásokból fakadó költségeket a vizsgálatot kérő, felnőttoktatásban részt vevő tanuló viseli.
+
+[^27]: A 36. § (3) bekezdése a 24/2012. (IV. 18.) NEFMI rendelet 7. § (4) bekezdésével megállapított szöveg.

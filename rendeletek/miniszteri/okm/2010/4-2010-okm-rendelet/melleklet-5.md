@@ -1,8 +1,8 @@
-## A nem helyi önkormányzatok által fenntartott intézményekben a korai fejlesztés és gondozás, továbbá a fejlesztő felkészítés/fejlesztő iskolai oktatás megkezdéséhez szükséges engedély kiadásához benyújtandó kérelem adattartalma, mellékletei
+## A nem helyi önkormányzat, nem állami szerv által fenntartott intézményekben a korai fejlesztés és gondozás, továbbá a fejlesztő felkészítés/fejlesztő iskolai oktatás megkezdéséhez szükséges engedély kiadásához benyújtandó kérelem adattartalma, mellékletei[^29]
 
-## I. A kérelem adattartalma
+## I. A kérelem adattartalma[^30]
 
-## A(z) ................... Önkormányzat főjegyzője részére a közoktatásról szóló 1993. évi LXXIX. törvény 82. §-a alapján. A kérelemnek az alábbi adatokat kell tartalmaznia:
+## A(z) … Kormányhivatal részére a közoktatásról szóló 1993. évi LXXIX. törvény 82. §-a alapján. A kérelemnek az alábbi adatokat kell tartalmaznia:
 
 ## 1. A működési engedély iránti kérelem tárgya
 
@@ -32,9 +32,9 @@
 
 ## 10. Az intézmény feladatával, működésével kapcsolatos bejelentések.
 
-## II. A mellékletek
+## II. A mellékletek[^31]
 
-## A kérelemhez csatolni kell eredetiben vagy másolatban (Másolat esetén az eljárás során a jegyző, főjegyző kérheti az eredeti dokumentum bemutatását.):
+## A kérelemhez csatolni kell eredetiben vagy másolatban (Másolat esetén az eljárás során a kormányhivatal, a fővárosi főjegyző kérheti az eredeti dokumentum bemutatását.):
 
 ## 1. az intézmény alapító okiratát, valamint a nyilvántartásba vételről szóló határozatot,
 
@@ -57,3 +57,7 @@
 ## Ha a kérelmező a melléklet 1–3. pontja szerinti adattartalmat nem igazolja, a kérelem elbírálásához a nyilvántartásba vételi engedélyről szóló határozat, a tulajdoni lap, a használatbavételi engedély, a hatósági bizonyítvány vonatkozásában a nyilvántartást vezető szervet kell megkeresni a jogosultságra vonatkozó adatok szolgáltatása vagy igazolása iránt.
 
 5. számú melléklet a 4/2010. (I. 19.) OKM rendelethez
+
+[^29]: A 4. számú melléklet címe a 24/2012. (IV. 18.) NEFMI rendelet 7. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^30]: A 4. számú melléklet I. A kérelem adattartalma rész nyitó szövegrésze a 24/2012. (IV. 18.) NEFMI rendelet 7. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^31]: A 4. számú melléklet II. A mellékletek rész nyitó szövegrésze a 24/2012. (IV. 18.) NEFMI rendelet 7. § (5) bekezdés e) pontja szerint módosított szöveg.

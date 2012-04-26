@@ -1,4 +1,4 @@
-24. §[^18] (1) A nevelési tanácsadás keretében nyújtott iskolapszichológiai szolgáltatás feladata feltárni, megelőzni, megszüntetni azokat a problémákat, amelyek
+24. §[^23] (1) A nevelési tanácsadás keretében nyújtott iskolapszichológiai szolgáltatás feladata feltárni, megelőzni, megszüntetni azokat a problémákat, amelyek
 
 a) megnehezíthetik, megnehezítik a tanulónak a tanulótársaival, a pedagógusokkal való kapcsolatteremtését, közösségbe történő beilleszkedését,
 
@@ -14,4 +14,4 @@ d) iskolai erőszak kialakulásához vezethetnek, vezetnek.
 
 (4) Az e bekezdésben foglaltakat a kollégiumok tekintetében is alkalmazni kell.
 
-[^18]: A 24. § a 37. § (3) bekezdése alapján 2010. február 3-án lépett hatályba.
+[^23]: A 24. § a 37. § (3) bekezdése alapján 2010. február 3-án lépett hatályba.
