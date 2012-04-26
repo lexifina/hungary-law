@@ -2,7 +2,9 @@
 
 ## „22. § (1) A kulturális javak nyilvántartásba vételéhez szükséges adatok meghatározását, későbbi módosítását (kiegészítését, illetve javítását), valamint azok törlésének előkészítését kizárólag szakirányú felsőfokú végzettséggel és az intézmény vezetőjétől vagy – muzeális intézmény működési engedélye iránti kérelem esetén – fenntartójától az adott gyűjteményre, illetve nyilvántartásra vonatkozó megbízással rendelkező muzeológus – a könyvtári dokumentumok esetében könyvtáros, a restaurálási napló esetében restaurátor – végezheti.”
 
-23. §[^30] E rendelet rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+23. §[^33] (1) E rendelet rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 2. § (1) bekezdése alapján átvételre kerülő muzeális intézmények működési engedélye – a 17. §-ban foglaltaktól eltérően – a módosított működési engedély kiadásáig, de legkésőbb 2012. április 30-ig érvényes.
 
 Melléklet a 2/2010. (I. 14.) OKM rendelethez
 
@@ -14,7 +16,7 @@ a) a közigazgatási hatósági eljárás és szolgáltatás általános szabál
 
 b) nem természetes személy kérelmező esetén – az a) pontban meghatározottakon túl – a cégjegyzékszám, létesítő okirat kelte, száma.
 
-2.[^31] A muzeális intézmény adatai:
+2.[^34] A muzeális intézmény adatai:
 
 a muzeális intézmény elnevezése, címe, elérhetősége, megyei múzeumi szervezettel vagy más intézménnyel való kapcsolatára vonatkozó adatok.
 
@@ -60,7 +62,7 @@ b) nem természetes személy kérelmező esetén – az a) pontban meghatározot
 
 a) a muzeális intézmény elnevezése, címe, elérhetősége,
 
-b)[^32] megyei múzeumi szervezettel vagy más intézménnyel való kapcsolatára vonatkozó adatok,
+b)[^35] megyei múzeumi szervezettel vagy más intézménnyel való kapcsolatára vonatkozó adatok,
 
 c) működési engedélyének száma.
 
@@ -80,9 +82,9 @@ b) a megszüntetés részletes indokolása,
 
 c) a kulturális javak muzeális intézmény megszüntetését követő biztonságos elhelyezésének bemutatása és indokolása.
 
-III.[^33]
+III.[^36]
 
-[^30]: A 23. § az 52/2011. (VIII. 18.) NEFMI rendelet 9. §-ával megállapított szöveg.
-[^31]: A melléklet I. 2. pontja az 52/2011. (VIII. 18.) NEFMI rendelet 10. §-a szerint módosított szöveg.
-[^32]: A melléklet II. 2. b) pontja az 52/2011. (VIII. 18.) NEFMI rendelet 10. §-a szerint módosított szöveg.
-[^33]: A melléklet III. pontját az 52/2011. (VIII. 18.) NEFMI rendelet 11. §-a hatályon kívül helyezte.
+[^33]: A 23. § a 26/2012. (IV. 25.) NEFMI rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^34]: A melléklet I. 2. pontja az 52/2011. (VIII. 18.) NEFMI rendelet 10. §-a szerint módosított szöveg.
+[^35]: A melléklet II. 2. b) pontja az 52/2011. (VIII. 18.) NEFMI rendelet 10. §-a szerint módosított szöveg.
+[^36]: A melléklet III. pontját az 52/2011. (VIII. 18.) NEFMI rendelet 11. §-a hatályon kívül helyezte.
