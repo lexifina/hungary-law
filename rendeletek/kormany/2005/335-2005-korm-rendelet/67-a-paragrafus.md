@@ -4,17 +4,17 @@
 
 ## Általános rendelkezések
 
-67/A. §[^86] (1) A miniszter a köziratok kezelésének szakmai irányításával összefüggő ellenőrzési feladatait a KIF útján, az éves munkatervben meghatározott ütemezéssel, a központi államigazgatási szerveknél végzi.
+67/A. §[^86] (1)[^87] A köziratok kezelésének szakmai irányításáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) a köziratok kezelésének szakmai irányításával összefüggő ellenőrzési feladatait az éves munkatervben meghatározott ütemezéssel, a központi államigazgatási szerveknél végzi.
 
-(2)[^87] A Kormány általános hatáskörű területi államigazgatási szerve ellenőrzi az önkormányzati hivatalok iratkezelési szabályzataiban foglaltak végrehajtását, a helyi önkormányzatok törvényességi ellenőrzésére hatáskörrel rendelkező szerv, a helyi önkormányzatok társulásáról és együttműködéséről szóló 1997. évi CXXXV. törvény 20. §-ának (2) bekezdésében, valamint a települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény 12. §-ának (2) bekezdésében biztosított törvényességi ellenőrzési jogkörében ellenőrzi az önkormányzati társulások iratkezelési szabályzataiban foglaltak végrehajtását.
+(2)[^88] A fővárosi és megyei kormányhivatal ellenőrzi az önkormányzati hivatalok iratkezelési szabályzataiban és az önkormányzati társulások iratkezelési szabályzataiban foglaltak végrehajtását.
 
-(3)[^88] A KIF, a Kormány általános hatáskörű területi államigazgatási szerve és a helyi önkormányzatok törvényességi ellenőrzésére hatáskörrel rendelkező szerv (1) és (2) bekezdésben rögzített ellenőrzési tevékenysége nem érinti a közlevéltárak ellenőrzési jogosultságait szabályozó jogszabályi előírásokat.
+(3)[^89] A minisztérium valamint a fővárosi és megyei kormányhivatal (1) és (2) bekezdésben rögzített ellenőrzési tevékenysége nem érinti a közlevéltárak ellenőrzési jogosultságait szabályozó jogszabályi előírásokat.
 
 (4) Az ellenőrzés célja az iratkezelés helyzetének feltárása, továbbá annak vizsgálata, hogy az iratkezelés gyakorlati végrehajtása megfelel-e a vonatkozó jogszabályokban, szabályzatokban foglaltaknak.
 
-(5)[^89] A központi államigazgatási szervek esetében az ellenőrzések éves ütemtervét a KIF a Magyar Országos Levéltárral egyeztetve határozza meg. Az önkormányzati hivatalok és az önkormányzati társulások esetében az ellenőrzések éves ütemtervét a Kormány általános hatáskörű területi államigazgatási szerve, illetve a helyi önkormányzatok törvényességi ellenőrzésére hatáskörrel rendelkező szerv az illetékes közlevéltárral egyeztetve határozza meg.
+(5)[^90] A központi államigazgatási szervek esetében az ellenőrzések éves ütemtervét a minisztérium az illetékes közlevéltárral egyeztetve határozza meg. Az önkormányzati hivatalok és az önkormányzati társulások esetében az ellenőrzések éves ütemtervét a fővárosi és megyei kormányhivatal az illetékes közlevéltárral egyeztetve határozza meg.
 
-(6)[^90] Az ellenőrzésben nem vehet részt az ellenőrzött szerv dolgozójának a Polgári Törvénykönyv szerinti hozzátartozója.
+(6)[^91] Az ellenőrzésben nem vehet részt az ellenőrzött szerv dolgozójának a Polgári Törvénykönyv szerinti hozzátartozója.
 
 (7) Az ellenőrzést végző a kizárási okot közvetlen vezetőjének haladéktalanul köteles bejelenteni, de azt az ellenőrzött szerv is bejelentheti.
 
@@ -22,7 +22,8 @@
 
 [^85]: Az V/A. Fejezet megjelölését a 64/2010. (III. 18.) Korm. rendelet 30. §-a iktatta be.
 [^86]: A 67/A. §-t és az azt megelőző alcímeket a 239/2007. (IX. 12.) Korm. rendelet 9. §-a iktatta be.
-[^87]: A 67/A. § (2) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 24. pontja szerint módosított szöveg.
-[^88]: A 67/A. § (3) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 24. pontja szerint módosított szöveg.
-[^89]: A 67/A. § (5) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 24. pontja szerint módosított szöveg.
-[^90]: A 67/A. § (6) bekezdése a 64/2010. (III. 18.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^87]: A 67/A. § (1) bekezdése a 87/2012. (IV. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^88]: A 67/A. § (2) bekezdése a 87/2012. (IV. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^89]: A 67/A. § (3) bekezdése a 87/2012. (IV. 26.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^90]: A 67/A. § (5) bekezdése a 87/2012. (IV. 26.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^91]: A 67/A. § (6) bekezdése a 64/2010. (III. 18.) Korm. rendelet 31. §-ával megállapított szöveg.

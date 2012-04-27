@@ -8,7 +8,7 @@
 
 (2) E rendelet rendelkezéseit a minősített iratokra és azok kezelési rendjére külön jogszabályban foglalt eltérésekkel kell alkalmazni.
 
-(3)[^2] A köziratok kezelésének szakmai irányításáért felelős miniszter (a továbbiakban: miniszter) e feladatkörét a Kormányzati Iratkezelési Felügyelet (a továbbiakban: KIF) útján látja el.
+(3)[^2]
 
 [^1]: Az 1. § (1) bekezdése a 239/2007. (IX. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (3) bekezdését a 168/2006. (VII. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be, szövege a 239/2007. (IX. 12.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (3) bekezdését a 168/2006. (VII. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be, hatályon kívül helyezte a 87/2012. (IV. 26.) Korm. rendelet 2. § (6) bekezdése.
