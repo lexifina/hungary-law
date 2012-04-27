@@ -24,7 +24,7 @@ k) az Észak-atlanti Szerződés Szervezete, az Észak-atlanti Szerződés tagá
 
 l) a területfejlesztésről és területrendezésről szóló 1996. évi XXI. törvény hatálya alá tartozó fejlesztési tanács,
 
-m) a közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság,
+m) a közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság, a közhasznú szociális szövetkezet,
 
 n) az Európai Közösségek, valamint azok intézményei és szervei, hivatalai, elkülönült alapjai.
 

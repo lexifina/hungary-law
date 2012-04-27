@@ -6,7 +6,7 @@ a) nyilvánosan működő részvénytársaság, illetve az európai részvényt�
 
 b) zártkörűen működő részvénytársaság, korlátolt felelősségű társaság esetében 100 000 forint,
 
-c) az a) és b) pont alá nem tartozó egyéb jogi személy esetén 100 000 forint,
+c) az a) és b) pont alá nem tartozó egyéb jogi személy esetén – az (1a) bekezdésben foglalt kivétellel – 100 000 forint,
 
 d) jogi személyiség nélküli gazdasági társaság esetén 50 000 forint,
 
@@ -15,6 +15,8 @@ e) egyéni cég esetén 30 000 forint,
 f) külföldi székhelyű vállalkozás magyarországi fióktelepe esetén 50 000 forint,
 
 g) külföldi vállalkozás közvetlen kereskedelmi képviselete esetén 50 000 forint.
+
+(1a) A szociális szövetkezet bejegyzésére irányuló eljárás illetékmentes.
 
 (2) Ha a cégbejegyzésre irányuló kérelemben fióktelep bejegyzését is kérik, az (1) bekezdésben meghatározott illetéken kívül további illetéket nem kell fizetni.
 
