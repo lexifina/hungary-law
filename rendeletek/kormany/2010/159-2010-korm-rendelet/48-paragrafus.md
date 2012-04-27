@@ -1,3 +1,3 @@
-## 47. §[^38]
+## 47. §[^40]
 
-[^38]: A 47. §-t a 48. § (1) bekezdése hatályon kívül helyezte.
+[^40]: A 47. §-t a 48. § (1) bekezdése hatályon kívül helyezte.

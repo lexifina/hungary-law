@@ -10,7 +10,7 @@ A repülőtérnek a 2. pontban meghatározottakon túlmenően a következő felt
 
 1.1. az állandó határátkelőhely,
 
-1.2.[^41] a Nemzeti Adó- és Vámhivatalnak az Európai Unió külső vámhatárán működő szerve működéséhez szükséges feltételek,
+1.2.[^43] a Nemzeti Adó- és Vámhivatalnak az Európai Unió külső vámhatárán működő szerve működéséhez szükséges feltételek,
 
 1.3. fegyveres biztonsági szolgálat.
 
@@ -70,4 +70,4 @@ A repülőtérnek a 2. pontban meghatározottakon túlmenően a következő felt
 
 4.2. Repülőtérrend.
 
-[^41]: A 2. melléklet 1. pont 1.2. alpontja a 273/2010. (XII. 9.) Korm. rendelet 133. § (2) bekezdésével megállapított szöveg.
+[^43]: A 2. melléklet 1. pont 1.2. alpontja a 273/2010. (XII. 9.) Korm. rendelet 133. § (2) bekezdésével megállapított szöveg.
