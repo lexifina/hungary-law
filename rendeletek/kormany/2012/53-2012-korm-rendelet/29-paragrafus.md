@@ -1,5 +1,7 @@
-## 28. §[^16]
-
 ## 17. Bontási engedélyezési eljárás
 
-[^16]: A 28. § a 46. § (2) bekezdése alapján 2012. április 27-én lép hatályba.
+29. § (1) A sajátos építmény bontására vonatkozó engedélyezési eljárás a sajátos építmény tulajdonosának kérelmére indul.
+
+(2) A bontási engedély sajátos építményrészre is kérhető.
+
+(3) Új sajátos építmény építése esetén a bontási és építési eljárás egy eljárás keretében is lefolytatható.

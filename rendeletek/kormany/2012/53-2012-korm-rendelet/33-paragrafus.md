@@ -1,7 +1,9 @@
-## 32. §[^18]
-
 ## III. Fejezet
 
 ## BEJELENTÉSI ELJÁRÁS
 
-[^18]: A 32. § a 46. § (2) bekezdése alapján 2012. április 27-én lép hatályba.
+33. § (1) A 3. melléklet 1. pontjában meghatározott építési tevékenység megkezdését a kezdés előtt legalább 10 nappal, a 6. melléklet szerinti adattartalommal be kell jelenteni a bányafelügyeletnek.
+
+(2) Az (1) bekezdésben meghatározott építési tevékenység a bejelentés megtételétől számított egy évig folytatható.
+
+(3) Az építtető haladéktalanul köteles bejelenteni a bányafelügyeletnek az (1) bekezdésben meghatározott építési tevékenység befejezését.
