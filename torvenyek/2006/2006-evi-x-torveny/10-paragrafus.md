@@ -10,9 +10,11 @@
 
 (3) A jogi személyek és jogi személyiség nélküli gazdasági társaság tagok együttesen nem haladhatják meg a taglétszám felét. Kizárólag szövetkezetek részvételével másodlagos szövetkezet alapítható és működtethető.
 
-(4) Szociális szövetkezetnek – az (5) bekezdésben foglalt kivétellel – csak természetes személy tagjai lehetnek.
+(4) Szociális szövetkezetnek – az (5) és (5a) bekezdésben foglalt kivétellel – csak természetes személy tagjai lehetnek.
 
 (5) Iskolaszövetkezet alapításához az oktatási intézmény alapító tagsága szükséges.
+
+(5a) Szociális szövetkezetnek (az iskolaszövetkezetet ide nem értve) a természetes személy tagjain kívül helyi önkormányzat vagy nemzetiségi önkormányzat, illetve ezek jogi személyiségű társulása (a továbbiakban együtt: önkormányzat) is lehet a tagja.
 
 (6) Természetes személyként szövetkezeti tag az lehet, aki
 

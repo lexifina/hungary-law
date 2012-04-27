@@ -1,6 +1,6 @@
 ## A befektető tag
 
-60. § (1) Ha az alapszabály lehetővé teszi, befektető tag is lehet szövetkezeti tag. A befektető tag felvételéről a közgyűlés dönt. Szociális szövetkezetnek nem lehet befektető tagja.
+60. § (1) Ha az alapszabály lehetővé teszi, befektető tag is lehet szövetkezeti tag. A befektető tag felvételéről a közgyűlés dönt. Szociális szövetkezetnek – az önkormányzat tag kivételével – nem lehet befektető tagja.
 
 (2) A befektető tag pénzbeli hozzájárulás vagy a 49. § (3) bekezdésében foglalt követelményeknek megfelelő nem pénzbeli hozzájárulás rendelkezésre bocsátásával a szövetkezetnél befektetői részjegyet jegyez (továbbiakban: befektetői részjegy).
 
@@ -18,4 +18,4 @@ a) a befektető tag az 50. § (2) bekezdésében foglaltaktól eltérően a pén
 
 b) a befektető tag személyes közreműködésre nem kötelezhető;
 
-c) a befektető tag a befektetői részjegyét a szövetkezeti tagon és a szövetkezetbe tagként belépő személyen túlmenően befektető tagra, valamint a szövetkezetbe befektető tagként belépő személyre is átruházhatja.
+c) a befektető tag a befektetői részjegyét befektető tagra, a szövetkezetbe befektető tagként belépő személyre, valamint – szociális szövetkezet befektető tagja kivételével – a szövetkezeti tagra és a szövetkezetbe tagként belépő személyre is átruházhatja.

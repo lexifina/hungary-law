@@ -1,1 +1,1 @@
-108–109. §
+108. § E törvénynek a szövetkezetekről szóló 2006. évi X. törvény, az illetékekről szóló 1990. évi XCIII. törvény és a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény módosításáról szóló törvénnyel (a továbbiakban: Módtv.) módosított 59. § (3) bekezdését a Módtv. hatálybalépését követően nyilvántartásba vett szociális szövetkezetek esetében kell alkalmazni.
