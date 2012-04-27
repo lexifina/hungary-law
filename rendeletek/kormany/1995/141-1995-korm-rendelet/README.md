@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-141-20-
 | 2011-01-01 | 1995-141-20-22.21 | 273/2010. (XII. 9.) Korm. rendelet |
 | 2012-01-01 | 1995-141-20-22.22 | 304/2011. (XII. 23.) Korm. rendelet |
 | 2012-03-01 | 1995-141-20-22.23 | 267/2011. (XII. 13.) Korm. rendelet |
+| 2012-04-27 | 1995-141-20-22.24 | 88/2012. (IV. 26.) Korm. rendelet |
