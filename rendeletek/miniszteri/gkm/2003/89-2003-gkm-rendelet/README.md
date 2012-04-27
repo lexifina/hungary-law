@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-89-20-0
 | 2011-01-01 | 2003-89-20-0L.5 | 46/2009. (IX. 22.) KHEM rendelet |
 | 2011-04-08 | 2003-89-20-0L.6 | 11/2011. (IV. 7.) NFM rendelet |
 | 2012-01-01 | 2003-89-20-0L.7 | 83/2011. (XII. 29.) NFM rendelet |
+| 2012-04-27 | 2003-89-20-0L.8 | 18/2007. (V. 10.) SZMM rendelet |

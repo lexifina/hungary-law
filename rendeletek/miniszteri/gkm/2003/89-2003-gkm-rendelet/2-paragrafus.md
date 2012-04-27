@@ -118,7 +118,7 @@ a) minden esetben a gazdálkodó szervezetet, a megyei rendőr-főkapitányságo
 
 b) vízbetörés, valamint a környezetszennyezést vagy környezetkárosodást okozó üzemzavar esetén a területileg illetékes környezetvédelmi felügyelőséget és vízügyi igazgatóságot, – védett természeti területen vagy annak közelében – a területileg illetékes nemzeti park igazgatóságot,
 
-c)[^5] amennyiben a súlyos üzemzavar vagy a súlyos baleset kapcsán mérgezés, illetve egészségkárosodás következik be, az Állami Népegészségügyi és Tisztiorvosi Szolgálat (ÁNTSZ) illetékes regionális intézetét, valamint az Országos Munkavédelmi és Munkaügyi Főfelügyelőség illetékes területi munkavédelmi felügyelőségét,
+c)[^5] amennyiben a súlyos üzemzavar vagy a súlyos baleset kapcsán mérgezés, illetve egészségkárosodás következik be, az Állami Népegészségügyi és Tisztiorvosi Szolgálat (ÁNTSZ) illetékes regionális intézetét, valamint a területileg illetékes fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szervének munkavédelmi felügyelőségét,
 
 d) a gazdálkodó szervezet útján a szakmunkástanulót vagy más munkáltató dolgozóját ért súlyos baleset esetén a szakmunkástanuló-intézet igazgatóját, illetőleg a munkáltató vezetőjét.
 
@@ -191,7 +191,7 @@ A gazdálkodó szervezet köteles gondoskodni a vizsgálattal kapcsolatban felme
 [^2]: A melléklet 1.2. pont k) alpontját a 11/2011. (IV. 7.) NFM rendelet 13. §-a iktatta be.
 [^3]: A melléklet 2.3. pontja a 83/2011. (XII. 29.) NFM rendelet 6. §-a szerint módosított szöveg.
 [^4]: A melléklet 2. pontjának 2.10. alpontja a 86/2006. (XII. 26.) GKM rendelet 22. §-a szerint módosított szöveg.
-[^5]: A melléklet 2.12. pontjának c) alpontja a 18/2007. (V. 10.) SZMM rendelet 4. §-ával megállapított szöveg.
+[^5]: A melléklet 2.12. pont c) alpontja a 18/2007. (V. 10.) SZMM rendelet 4. §-ával megállapított, a 19/2012. (IV. 26.) NFM rendelet 2. §-a szerint módosított szöveg.
 [^6]: A melléklet 2.16. pont b) alpontját a 46/2009. (IX. 22.) KHEM rendelet 1. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^7]: A melléklet 2.16. pont d) alpontját a 46/2009. (IX. 22.) KHEM rendelet 1. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^8]: A melléklet 2.16. pont f) alpontját a 46/2009. (IX. 22.) KHEM rendelet 1. § (4) bekezdése hatályon kívül helyezte. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
