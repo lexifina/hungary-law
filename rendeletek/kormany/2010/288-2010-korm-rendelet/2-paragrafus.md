@@ -1,6 +1,6 @@
 ## 2. Szakigazgatási szervek
 
-2. §[^2] (1) A fővárosi és megyei kormányhivatal szervezeti egységeként működő ágazati szakigazgatási szervek (a továbbiakban: szakigazgatási szerv):
+2. §[^3] (1) A fővárosi és megyei kormányhivatal szervezeti egységeként működő ágazati szakigazgatási szervek (a továbbiakban: szakigazgatási szerv):
 
 1. a szociális és gyámhivatal a szociális, gyermekvédelmi, gyermekjóléti, és gyámügyi feladatok ellátására,
 
@@ -40,4 +40,4 @@
 
 (3) Amennyiben kormányrendelet eltérően nem rendelkezik, a szakigazgatási szerv illetékessége megegyezik a fővárosi és megyei kormányhivatal illetékességével.
 
-[^2]: A 2. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^3]: A 2. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.

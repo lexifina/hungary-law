@@ -24,11 +24,11 @@
 
 ## 5. Az éves ellenőrzési tervet úgy kell összeállítani, hogy szükség esetén az abban nem szereplő soron kívüli ellenőrzési feladatok is végrehajthatóak legyenek.
 
-## 6.[^44] A jóváhagyott éves ellenőrzési tervet a miniszter a Nemzeti Államigazgatási Központ (továbbiakban: NÁK) közreműködésével a fővárosi és megyei kormányhivatalok tevékenysége vonatkozásában szakmai irányítási jogkörrel rendelkező szerv vezetője és az ágazati szakmai irányító minisztériumok részére megküldi.
+## 6.[^49] A jóváhagyott éves ellenőrzési tervet a miniszter a Nemzeti Államigazgatási Központ (továbbiakban: NÁK) közreműködésével a fővárosi és megyei kormányhivatalok tevékenysége vonatkozásában szakmai irányítási jogkörrel rendelkező szerv vezetője és az ágazati szakmai irányító minisztériumok részére megküldi.
 
 ## 7. A miniszter a jóváhagyott éves ellenőrzési terv alapján felkéri az egyes ellenőrzések vonatkozásában érintett, szakmai irányítási jogkörrel rendelkező szervek vezetőit az ellenőrzésekben való részvételre, és felkérheti az ágazati szakmai irányító minisztereket a közreműködésre.
 
-## 8.[^45] A jóváhagyott éves ellenőrzési tervben (a továbbiakban: éves terv) szereplő egyes ellenőrzések végrehajtására ellenőrzésenként részletes ellenőrzési programot kell készíteni.
+## 8.[^50] A jóváhagyott éves ellenőrzési tervben (a továbbiakban: éves terv) szereplő egyes ellenőrzések végrehajtására ellenőrzésenként részletes ellenőrzési programot kell készíteni.
 
 ## A részletes ellenőrzési programmal összefüggésben az ellenőrzésben részvételre felkért szakmai irányítást gyakorló szerv vezetője és az ágazati szakmai irányító miniszter véleményét is ki kell előzetesen kérni. A NÁK által előterjesztett részletes ellenőrzési programot a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium fővárosi és megyei kormányhivatalok irányításáért felelős államtitkára (a továbbiakban: államtitkár), az átfogó ellenőrzés NÁK által előterjesztett részprogramját a fővárosi és megyei kormányhivatalok irányításáért felelős helyettes államtitkára (a továbbiakban: helyettes államtitkár) hagyja jóvá.
 
@@ -58,7 +58,7 @@
 
 ## 10. A részletes ellenőrzési programról az államtitkár az ellenőrzést megelőzően tájékoztatja az ellenőrzésben érintett szervek/szervezeti egységek vezetőit, kezdeményezi az ellenőrzésben való részvételüket.
 
-## 11.[^46] Indokolt esetben – különösen a felügyeleti munka adatai, illetve a NÁK javaslata alapján – az államtitkár a jóváhagyott éves ellenőrzési terv, a helyettes államtitkár a részletes ellenőrzési program módosítását kezdeményezheti, továbbá soron kívüli ellenőrzést vagy beszámoltatást kezdeményezhet.
+## 11.[^51] Indokolt esetben – különösen a felügyeleti munka adatai, illetve a NÁK javaslata alapján – az államtitkár a jóváhagyott éves ellenőrzési terv, a helyettes államtitkár a részletes ellenőrzési program módosítását kezdeményezheti, továbbá soron kívüli ellenőrzést vagy beszámoltatást kezdeményezhet.
 
 ## II. Értelmező rendelkezések
 
@@ -126,7 +126,7 @@
 
 ## IV. Az ellenőrzés szervezése
 
-## 1.[^47] A részletes ellenőrzési program alapján a közreműködő szervek által delegált, az ellenőrzésben résztvevő személyek kijelölésének tervezése érdekében a NÁK főigazgatója az ellenőrzést megelőzően – az ellenőrzési program egyidejű megküldésével – tájékoztatja az érintett közreműködő szervek és szervezeti egységek vezetőit.
+## 1.[^52] A részletes ellenőrzési program alapján a közreműködő szervek által delegált, az ellenőrzésben résztvevő személyek kijelölésének tervezése érdekében a NÁK főigazgatója az ellenőrzést megelőzően – az ellenőrzési program egyidejű megküldésével – tájékoztatja az érintett közreműködő szervek és szervezeti egységek vezetőit.
 
 ## 2. Az ellenőrzéseket a szervi irányító minisztérium, a funkcionális irányítást végző szerv, és a közreműködő szervek munkatársai együttesen hajtják végre.
 
@@ -194,11 +194,11 @@
 
 ## 5. Az ellenőrzési jelentés véglegezését megelőzően – szükség szerint – az észrevételek előzetes helyszíni egyeztetésére, realizáló értekezletre kerül sor.
 
-## 6.[^48] Az ellenőrzési jelentés tervezetét a NÁK főigazgatója – eltérő döntés hiányában – megküldi az ellenőrzött szervnek, aki az ellenőrzés megállapításaira annak kézhezvételétől számított 15 napon belül indokolással ellátott észrevételt tehet.
+## 6.[^53] Az ellenőrzési jelentés tervezetét a NÁK főigazgatója – eltérő döntés hiányában – megküldi az ellenőrzött szervnek, aki az ellenőrzés megállapításaira annak kézhezvételétől számított 15 napon belül indokolással ellátott észrevételt tehet.
 
 ## 7. Az észrevételek elfogadásáról vagy elutasításáról az ellenőrzés vezetője javaslatára az államtitkár dönt. A döntésről az ellenőrzött szervet tájékoztatni kell.
 
-## 8.[^49] A fővárosi és megyei kormányhivatalok ellenőrzéséről készült, a NÁK által előterjesztett véglegezett ellenőrzési jelentést az államtitkár hagyja jóvá.
+## 8.[^54] A fővárosi és megyei kormányhivatalok ellenőrzéséről készült, a NÁK által előterjesztett véglegezett ellenőrzési jelentést az államtitkár hagyja jóvá.
 
 ## 9. Az ellenőrzés során ellenőrzési jegyzőkönyvet kell felvenni, amennyiben a vizsgálat során olyan tény, adat, információ jut az ellenőrzést végző tudomására, amely büntető, szabálysértési, kártérítési, vagy fegyelmi eljárás kezdeményezését teszi indokolttá.
 
@@ -338,7 +338,7 @@
 
 ## Az ellenőrzött szerv vezetője felelős az ellenőrzött szervnél a megállapítások és javaslatok alapján – szükség esetén – végrehajtandó intézkedésekért.
 
-2. melléklet a 288/2010. (XII. 21.) Korm. rendelethez[^50]
+2. melléklet a 288/2010. (XII. 21.) Korm. rendelethez[^55]
 
 A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében a 22–23. §-ban meghatározott ügykörök
 
@@ -346,7 +346,7 @@ A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében
 
 1.1. a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 17. § (9) bekezdése szerinti kártalanítás,
 
-1.2.[^51]
+1.2.[^56]
 
 1.3. az állampolgárság megszerzésére irányuló nyilatkozat és kérelem, továbbá az állampolgárságról lemondó nyilatkozat, valamint az állampolgársági bizonyítvány kiadása iránti kérelem,
 
@@ -452,11 +452,11 @@ d) egyéni vállalkozói tevékenység megszűnésének elektronikus bejelentés
 
 3.3. A kormányablak betekintési lehetőséget biztosít az Országos Cégnyilvántartási és Céginformációs Rendszer cégadatbázisába.
 
-[^44]: Az 1. melléklet I. Általános rendelkezések 6. pontja a 258/2011. (XII. 7.) Korm. rendelet 40. § (3) bekezdésével megállapított szöveg.
-[^45]: Az 1. melléklet I. Általános rendelkezések 8. pontja a 258/2011. (XII. 7.) Korm. rendelet 40. § (4) bekezdésével megállapított szöveg.
-[^46]: Az 1. melléklet I. Általános rendelkezések 11. pontja a 258/2011. (XII. 7.) Korm. rendelet 40. § (5) bekezdésével megállapított szöveg.
-[^47]: Az 1. melléklet IV. Az ellenőrzés szervezése 1. pontja a 258/2011. (XII. 7.) Korm. rendelet 40. § (6) bekezdésével megállapított szöveg.
-[^48]: Az 1. melléklet V. Az ellenőrzés és a megállapítások dokumentációja 6. pontja a 258/2011. (XII. 7.) Korm. rendelet 40. § (7) bekezdésével megállapított szöveg.
-[^49]: Az 1. melléklet V. Az ellenőrzés és a megállapítások dokumentációja 8. pontja a 258/2011. (XII. 7.) Korm. rendelet 40. § (8) bekezdésével megállapított szöveg.
-[^50]: A 2. melléklet a 212/2011. (X. 14.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^51]: A 2. melléklet 1.2. pontját a 63/2012. (IV. 2.) Korm. rendelet 6. § k) pontja hatályon kívül helyezte.
+[^49]: Az 1. melléklet I. Általános rendelkezések 6. pontja a 258/2011. (XII. 7.) Korm. rendelet 40. § (3) bekezdésével megállapított szöveg.
+[^50]: Az 1. melléklet I. Általános rendelkezések 8. pontja a 258/2011. (XII. 7.) Korm. rendelet 40. § (4) bekezdésével megállapított szöveg.
+[^51]: Az 1. melléklet I. Általános rendelkezések 11. pontja a 258/2011. (XII. 7.) Korm. rendelet 40. § (5) bekezdésével megállapított szöveg.
+[^52]: Az 1. melléklet IV. Az ellenőrzés szervezése 1. pontja a 258/2011. (XII. 7.) Korm. rendelet 40. § (6) bekezdésével megállapított szöveg.
+[^53]: Az 1. melléklet V. Az ellenőrzés és a megállapítások dokumentációja 6. pontja a 258/2011. (XII. 7.) Korm. rendelet 40. § (7) bekezdésével megállapított szöveg.
+[^54]: Az 1. melléklet V. Az ellenőrzés és a megállapítások dokumentációja 8. pontja a 258/2011. (XII. 7.) Korm. rendelet 40. § (8) bekezdésével megállapított szöveg.
+[^55]: A 2. melléklet a 212/2011. (X. 14.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^56]: A 2. melléklet 1.2. pontját a 63/2012. (IV. 2.) Korm. rendelet 6. § k) pontja hatályon kívül helyezte.
