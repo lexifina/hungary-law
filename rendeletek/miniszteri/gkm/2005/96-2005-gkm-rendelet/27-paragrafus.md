@@ -1,1 +1,0 @@
-## A fennmaradási engedélyezési eljárás
