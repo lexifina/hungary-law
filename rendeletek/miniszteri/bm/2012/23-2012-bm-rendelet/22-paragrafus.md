@@ -1,0 +1,1 @@
+## 21. § A végső kedvezményezett felelős a partner által végzett tevékenységekért és az általa elszámolt költségek vonatkozásában az elszámolhatósági szabályok betartásáért, továbbá a felmerülő kiadásokat és bevételeket rögzítő számviteli dokumentumok hiteles másolatának megőrzéséért.

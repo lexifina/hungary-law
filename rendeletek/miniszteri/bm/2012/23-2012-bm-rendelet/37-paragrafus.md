@@ -1,0 +1,9 @@
+37. § (1) A 62. §-ban meghatározott uniós határozatok szerinti igazolási tevékenységet a Hitelesítő Hatóság végzi.
+
+(2) A Hitelesítő Hatóság felelősségi körébe tartozik a végső kedvezményezetteknél felmerült – a végső kedvezményezettek által számlával vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylattal igazolt – kifizetett költségek alapján a Felelős Hatóság jelzésére a költségigazoló nyilatkozat kiállítása, majd 14 napon belüli benyújtása a Felelős Hatóság részére. A Felelős Hatóság megküldi a Hitelesítő Hatóságnak a költségigazoló nyilatkozat kiadása előtt az Európai Bizottság részére benyújtandó, az éves programok végrehajtásáról szóló előrehaladási jelentéseket és zárójelentéseket.
+
+(3) A Hitelesítő Hatóság jogosult a költségigazoló nyilatkozat alátámasztásához kapcsolódó, kiegészítő információ kérésére, melyet a Felelős Hatóság köteles haladéktalanul a Hitelesítő Hatóság rendelkezésére bocsátani.
+
+(4) A Hitelesítő Hatóság az igazolási tevékenységének alátámasztása érdekében dokumentum alapú tényfeltáró vizsgálatot végez vagy helyszíni tényfeltáró látogatást tesz a Felelős Hatóságnál mintavétel alapján kiválasztott költségtételek esetében. A tényfeltáró vizsgálat során a Hitelesítő Hatóság meggyőződik arról, hogy a végső kedvezményezett által benyújtott elszámolások ellenőrzése kellő megalapozottságot nyújt-e a költségek elszámolhatóságának megállapításához és a végső kedvezményezetti elszámolások feldolgozása során teljesülnek-e azok az ellenőrzések, amelyek biztosítják a számviteli nyilvántartásba bekerülő adatok pontosságát és megbízhatóságát.
+
+(5) A Felelős Hatóság – előzetes értesítés alapján – hozzáférést biztosít a Hitelesítő Hatóság részére a nála elektronikus és papír formában rendelkezésre álló, igazoláshoz kapcsolódó dokumentumokhoz és adatokhoz.
