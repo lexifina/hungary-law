@@ -8,7 +8,7 @@
 
 (4) Az államháztartás vitele szempontjából központi gazdálkodás és ellátás keretében valósul meg a HM költségvetési fejezetnél
 
-a)[^2] az MH katonai szervezetei, továbbá az önállóan működő és a kijelölt önállóan működő és gazdálkodó honvédelmi szervezet pénzügyi és számviteli ellátása, amely magában foglalja a 9. és 10. § szerinti költségvetési tervezést, a 17. § (1) bekezdése szerinti beszámolást, a finanszírozást, a könyvvezetést, az érvényesítést és az ellenjegyzést;
+a)[^2] a honvédelmi szervezetek egyes pénzügyi és számviteli feladatainak ellátása, amely magában foglalja a 10. § szerinti költségvetési tervezést, a 17. § (1) bekezdése szerinti beszámolást, a finanszírozást, – a KNBSZ kivételével – a közbeszerzésekről szóló 2011. évi CVIII. törvény és az annak felhatalmazása alapján kiadott kormányrendeletek szerinti eltérő szabályok alapján végrehajtott beszerzések kötelezettségvállalásainak ellenjegyzését, valamint – a KNBSZ és az MH Honvédkórház kivételével – a könyvvezetést, a kincstári előirányzat-felhasználási keretforgalom kezelését és bonyolítását;
 
 b) a létszámgazdálkodás, ideértve a foglalkoztatottak létszámösszetételének és – a honvédelmi szervezet parancsnoka (vezetője) által meghatározott munkaidő keret kivételével – munkaidő-alapjának meghatározását is;
 
@@ -16,7 +16,7 @@ c) az illetmény- és bérgazdálkodás, az egyéb személyi juttatások előir�
 
 d) az ingatlan-beruházás;
 
-e) a miniszter vagyonkezelésében lévő ingatlanok felújítása, rekonstrukciója, valamint – a katonai nemzetbiztonsági szolgálatok használatában lévő ingatlanok kivételével – fenntartása és üzemeltetése;
+e)[^3] a HM vagyonkezelésében lévő ingatlanok felújítása, rekonstrukciója, valamint – a KNBSZ használatában lévő ingatlanok kivételével – fenntartása és üzemeltetése;
 
 f) a központi logisztikai (köz)beszerzési, importbeszerzési, fejlesztési és beruházási feladatok ellátása;
 
@@ -26,7 +26,8 @@ h) a nemzetközi feladatok költségvetési javaslatának és éves költségvet
 
 i) az állami vagyonnal történő gazdálkodás;
 
-j)[^3] az MH katonai szervezetei, továbbá az önállóan működő, a kijelölt önállóan működő és gazdálkodó honvédelmi szervezetek kincstári előirányzat-felhasználási keret forgalmának kezelése, bonyolítása.
+j)[^4]
 
-[^2]: A 2. § (4) bekezdés a) pontja a 282/2010. (XII. 15.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § (4) bekezdés j) pontját a 159/2011. (VIII. 11.) Korm. rendelet 1. §-a iktatta be.
+[^2]: A 2. § (4) bekezdés a) pontja a 89/2012. (IV. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (4) bekezdés e) pontja a 89/2012. (IV. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § (4) bekezdés j) pontját a 159/2011. (VIII. 11.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 89/2012. (IV. 26.) Korm. rendelet 10. § a) pontja.

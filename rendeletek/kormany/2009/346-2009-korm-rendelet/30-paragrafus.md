@@ -1,1 +1,3 @@
-## 29. § A Kincstár által vezetett törzskönyvi nyilvántartásba az MH katonai szervezetei és a katonai nemzetbiztonsági szolgálatok – az Áht. 18/K. § (1) bekezdés b) és d) pontjaiban meghatározott, a telephelyre és az alapító okiratban nem szereplő feladatokra, továbbá az Áht. 18/K. § (2) bekezdés c) pontjában meghatározott – az általuk irányított honvédelmi szervezetre vonatkozó információk kivételével kerülnek felvételre.
+## 29. §[^31]
+
+[^31]: A 29. §-t a 89/2012. (IV. 26.) Korm. rendelet 10. § e) pontja hatályon kívül helyezte.

@@ -1,7 +1,7 @@
 ## A rendelet hatálya
 
-1. § (1)[^1] A rendelet hatálya a Honvédelmi Minisztériumra, a honvédelmi miniszter (a továbbiakban: miniszter) közvetlen alárendeltségébe, irányítása, valamint felügyelete alá tartozó szervezetekre és törzskönyvi jogi személyekre, továbbá a Magyar Honvédség (a továbbiakban: MH) katonai szervezeteire (a továbbiakban együtt: honvédelmi szervezetek), valamint a 13–16. § és a 29. § tekintetében a Magyar Államkincstárra (a továbbiakban: Kincstár) terjed ki.
+1. §[^1] (1) E rendelet hatálya a Honvédelmi Minisztériumra (a továbbiakban: HM), a honvédelemért felelős miniszter (a továbbiakban: miniszter) közvetlen alárendeltségébe tartozó szervezetekre, a Katonai Nemzetbiztonsági Szolgálatra (a továbbiakban: KNBSZ) és a Magyar Honvédség (a továbbiakban: MH) katonai szervezeteire (a továbbiakban együtt: honvédelmi szervezetek), valamint a 13–16. § tekintetében a Magyar Államkincstárra (a továbbiakban: Kincstár) terjed ki.
 
-(2) A honvédelmi szervezeteknél az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.) rendelkezéseit e rendeletben foglalt eltérésekkel kell alkalmazni.
+(2) A honvédelmi szervezeteknél az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
 
-[^1]: az 1. § (1) bekezdése a 363/2011. (XII. 30.) Korm. rendelet 29. § d) pontja szerint módosított szöveg.
+[^1]: Az 1. § a 89/2012. (IV. 26.) Korm. rendelet 1. §-ával megállapított szöveg.

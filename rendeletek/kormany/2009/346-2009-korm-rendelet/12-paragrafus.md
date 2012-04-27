@@ -1,3 +1,3 @@
-## 11. §[^10] A költségvetési tervezési keretszámok 10. § b) pontja szerinti kiadása során a miniszter a központi gazdálkodás és a nemzetközi feladatok évközi változásaiból adódó, a tervezettet meghaladó többletkiadások fedezetére a honvédelmi szervezetek egyes előirányzat-kereteit zárolhatja, és a költségvetési év során azokat elvonhatja.
+## 11. §[^19]
 
-[^10]: A 11. § a 282/2010. (XII. 15.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^19]: A 11. §-t a 89/2012. (IV. 26.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
