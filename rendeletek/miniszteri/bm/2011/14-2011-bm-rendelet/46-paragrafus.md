@@ -1,3 +1,0 @@
-46. § (1) A Felelős Személy és a Hitelesítő Hatóság vezetője köteles minden, az éves programok felhasználásával összefüggő ellenőrzési jelentés alapján – ha a jelentésben rá vonatkozó, intézkedést igénylő megállapítás, ajánlás vagy javaslat szerepel – intézkedési tervet készíteni, és azt a jelentés kézhezvételétől számított 20 naptári napon belül egymásnak, az Ellenőrzési Hatóságnak és az államháztartásért felelős miniszternek megküldeni.
-
-(2) Az (1) bekezdésben felsorolt vezetők gondoskodnak az intézkedési tervekben megfogalmazottak megvalósításáról, illetve azok folyamatos nyomon követéséről, melynek helyzetéről minden év január 31-ig tájékoztatják egymást, valamint az Ellenőrzési Hatóságot a (2) bekezdésben foglaltak szerint.

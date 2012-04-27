@@ -1,3 +1,0 @@
-26. § (1) Ha a Felelős Hatóságnak a folyamatba épített ellenőrzés során a Kbt., a Kbt. felhatalmazása alapján kiadott, beszerzésekre vonatkozó jogszabályok, az Európai Unió közbeszerzésekre vonatkozó kötelező jogi aktusa vagy a 24. §-ban foglaltak megsértése jut tudomására, írásban felhívja a végső kedvezményezettet, hogy az egyes rendelkezések megsértésével kapcsolatos álláspontját fejtse ki. A végső kedvezményezett álláspontja figyelembevételével a Felelős Hatóság megvizsgálja a támogathatóság feltételeit a szerződés alapján.
-
-(2) Ha a Felelős Hatóság a Kbt.-be ütköző magatartást vagy mulasztást észlel, akkor a Kbt. 327. § (1) bekezdés g) pontja alapján a Közbeszerzési Döntőbizottság eljárását kezdeményezi.
