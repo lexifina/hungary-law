@@ -1,3 +1,3 @@
-1. melléklet a 13/2012. (II. 14.) Korm. rendelethez[^26]
+1. melléklet a 13/2012. (II. 14.) Korm. rendelethez[^27]
 
-[^26]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
