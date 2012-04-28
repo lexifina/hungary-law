@@ -22,45 +22,59 @@ c) adószáma:
 
 d) költségvetési szerv törzskönyvi nyilvántartási száma:
 
-e) típusa:*
+e) típusa*:
 
-⬜ helyi önkormányzat, azok társulása ⬜ közoktatási intézmény
+□ helyi önkormányzat, azok társulása
 
-⬜ nemzetiségi önkormányzat ⬜ felsőoktatási intézmény
+□ nemzetiségi önkormányzat
 
-⬜ költségvetési szerv ⬜ muzeális intézmény
+□ költségvetési szerv
 
-⬜ közhasznú szervezet ⬜ nyilvános könyvtár
+□ közhasznú jogállású szervezet
 
-⬜ egyházi jogi személy ⬜ közlevéltár
+□ nem közhasznú jogállású civil szervezet
 
-⬜ szociális, gyermekjóléti, gyermekvédelmi szolgáltató, ⬜ nyilvános magánlevéltár
+□ egyházi jogi személy
 
-intézmény ⬜ közművelődési intézmény
+□ szociális, gyermekjóléti, gyermekvédelmi szolgáltató intézmény
 
-⬜ egészségügyi szolgáltató
+□ egészségügyi szolgáltató
+
+□ közoktatási intézmény
+
+□ felsőoktatási intézmény
+
+□ muzeális intézmény
+
+□ nyilvános könyvtár
+
+□ közlevéltár
+
+□ nyilvános magánlevéltár
+
+□ közművelődési intézmény
 
 2. Az önkéntesek közreműködésével ellátni kívánt tevékenységi körök:
 
 3. Kíván-e építésiengedély-köteles munkában való részvételre önkéntest foglalkoztatni?
 
-⬜ igen ⬜ nem
+□ igen □ nem
 
 Az építési tevékenység helye:
 
 4. Kíván-e tizennyolcadik életévét be nem töltött önkéntest, illetve korlátozottan cselekvőképes nagykorú önkéntest foglalkoztatni?
 
-⬜ igen ⬜ nem
+□ igen □ nem
 
 5. Kíván-e olyan önkéntest foglalkoztatni, aki a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, ide nem értve a menekültként vagy menedékesként elismert, bevándorolt, illetve letelepedett személyt?
 
-⬜ igen ⬜ nem
+□ igen □ nem
 
 6. Kíván-e külföldön végzendő közérdekű önkéntes tevékenységre önkéntest foglalkoztatni?
 
-⬜ igen ⬜ nem
+□ igen □ nem
 
-Nyilatkozom, hogy a 2. pontban megatározott tevékenységi körök megfelelnek a közérdekű önkéntes tevékenységről szóló törvény 3. §-ában meghatározottaknak.
+Nyilatkozom, hogy a 2. pontban meghatározott tevékenységi körök megfelelnek a közérdekű önkéntes tevékenységről szóló törvény 3. §-ában meghatározottaknak.
 
 Kelt: ....................................................................
 
