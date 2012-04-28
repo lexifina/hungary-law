@@ -52,7 +52,9 @@
 
 ## 27. csecsemő- és gyermekgyógyászat
 
-## 28. neonatológia (ideértve: PIC)
+## 28.[^183] neonatológi
+
+## 28/a.[^184] PIC
 
 ## 29. csecsemő- és gyermekgyógyászati intenzív terápia
 
@@ -70,7 +72,9 @@
 
 ## 36. csecsemő és gyermek fül-, orr-, gégegyógyászat
 
-## 37. gyermekneurológia (ideértve: fejlődésneurológia)
+## 37.[^185] gyermekneurológia
+
+## 37/a.[^186] fejlődésneurológia
 
 ## 38. gyermek- és ifjúságpszichiátria
 
@@ -82,7 +86,9 @@
 
 ## 42. bőrgyógyászat
 
-## 43. neurológia (ideértve: stroke ellátás)
+## 43.[^187] neurológia
+
+## 43/a.[^188] stroke ellátás
 
 ## 44. ortopédia
 
@@ -160,6 +166,12 @@
 
 ## 19. hospice
 
-3. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^174]
+3. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^189]
 
-[^174]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege e módosító rendelet 14. § (6) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^183]: A 2. melléklet A) rész 28. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^184]: A 2. melléklet A) rész 28/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^185]: A 2. melléklet A) rész 37. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^186]: A 2. melléklet A) rész 37/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^187]: A 2. melléklet A) rész 43. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^188]: A 2. melléklet A) rész 43/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^189]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege e módosító rendelet 14. § (6) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.

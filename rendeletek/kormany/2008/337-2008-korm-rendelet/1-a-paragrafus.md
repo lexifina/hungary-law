@@ -1,6 +1,6 @@
-## Az egészségügyi szakellátási kötelezettségre, valamint az ahhoz kapcsolódó finanszírozásra és szerződésekre vonatkozó szabályok[^18]
+## Az egészségügyi szakellátási kötelezettségre, valamint az ahhoz kapcsolódó finanszírozásra és szerződésekre vonatkozó szabályok[^19]
 
-1/A. §[^19] (1) A Tv. 2. § (1) bekezdés b) pontja alapján a magyar állam az egészségügyi szakellátási kötelezettségét attól az időponttól köteles teljesíteni, hogy
+1/A. §[^20] (1) A Tv. 2. § (1) bekezdés b) pontja alapján a magyar állam az egészségügyi szakellátási kötelezettségét attól az időponttól köteles teljesíteni, hogy
 
 a) a feladatot ellátó egészségügyi szolgáltató a magyar állam tulajdonába kerül, illetve ha a tulajdon átvételéről szóló megállapodás vagy jogszabály ettől eltérően rendelkezik, a megállapodásban vagy a jogszabályban meghatározott időponttól,
 
@@ -20,5 +20,5 @@ c) az állam a (3), illetve a (4) bekezdés szerinti esetben – a Tv. 2. § (2)
 
 (7) A magyar állam szakellátási kötelezettsége keretében végzett ellátásokért az egészségügyi szolgáltató az (1) bekezdés szerinti időponttól jogosult finanszírozásra a finanszírozási szerződésében és a külön jogszabályban foglaltak szerint.
 
-[^18]: Az 1/A. §-t megelőző alcímet a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be.
-[^19]: Az 1/A. §-t a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be.
+[^19]: Az 1/A. §-t megelőző alcímet a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be.
+[^20]: Az 1/A. §-t a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be.

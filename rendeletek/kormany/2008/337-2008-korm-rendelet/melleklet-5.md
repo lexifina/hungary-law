@@ -6,7 +6,7 @@
 
 | 3 | Fejér megye |
 
-| 4 | Komárom-Esztergom megye az Esztergomi kistérség kivételével |
+| 4 | Komárom-Esztergom megye az Esztergomi kistérség, a Dorogi kistérség, valamint Bana és Bábolna kivételével |
 
 | 5 | Pest megyéből: a) a Budaörsi kistérség, b) az Érdi kistérség |
 
@@ -20,6 +20,8 @@
 
 | 10 | Veszprém megye |
 
+| 10/a. | Komárom-Esztergom megyéből a) Bana, b) Bábolna |
+
 | 11 | Észak-Magyarország | Borsod-Abaúj-Zemplén megye a Tokaji kistérség kivételével |
 
 | 12 | Heves megyéből: a) a Bélapátfalvai kistérség, b) az Egri kistérség, c) a Füzesabonyi kistérség, d) a Hevesi kistérség, e) a Pétervásárai kistérség |
@@ -32,7 +34,7 @@
 
 | 16 | Pest megyéből: a) az Aszódi kistérség, b) a Dunakeszi kistérség, c) a Gödöllői kistérség, d) a Pilisvörösvári kistérség, e) a Szentendrei kistérség f) a Szobi kistérség, g) a Váci kistérség, h) a Veresegyházi kistérség |
 
-| 17 | Komárom-Esztergom megyéből: a) az Esztergomi kistérség |
+| 17 | Komárom-Esztergom megyéből: a) az Esztergomi kistérség b) a Dorogi kistérség |
 
 | 18 | Észak-Alföld | Hajdú-Bihar megye |
 
@@ -40,7 +42,7 @@
 
 | 20 | Jász-Nagykun-Szolnok megyéből: a) a Karcagi kistérség, b) a Tiszafüredi kistérség |
 
-| 21 | Békés megyéből: a) Bucsa |
+| 21 | Békés megyéből: a) Bucsa b) Ecsegfalva |
 
 | 22 | Borsod-Abaúj-Zemplén megyéből: a) a Tokaji kistérség |
 
@@ -48,7 +50,7 @@
 
 | 24 | Jász-Nagykun-Szolnok megyéből: a) a Jászberényi kistérség, b) a Mezőtúri kistérség, c) a Szolnoki kistérség, d) a Törökszentmiklósi kistérség |
 
-| 25 | Pest megyéből: a) a Dabasi kistérség, b) a Gyáli kistérség, c) a Monori kistérség, d) a Nagykátai kistérség, e) a Ráckevei kistérség, f) a Ceglédi kistérség, kivéve Nagykőröst |
+| 25 | Pest megyéből: a) a Dabasi kistérség, b) a Gyáli kistérség, c) a Monori kistérség, d) a Nagykátai kistérség, e) a Ráckevei kistérség, f) a Ceglédi kistérség, kivéve Nagykőröst, Kocsért és Nyársapátot |
 
 | 26 | Dél-Dunántúl | Baranya megye |
 
@@ -58,15 +60,15 @@
 
 | 29 | Dél-Alföld | Bács-Kiskun megye |
 
-| 30 | Békés megye Bucsa település kivételével |
+| 30 | Békés megye Bucsa és Ecsegfalva kivételével |
 
 | 31 | Csongrád megye |
 
 | 32 | Jász-Nagykun-Szolnok megyéből: a) a Kunszentmártoni kistérség |
 
-| 33 | Pest megyéből: a) Nagykőrös |
+| 33 | Pest megyéből: a) Nagykőrös b) Kocsér, c) Nyársapát |
 
-5. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^176]
+5. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^191]
 
 |  | A | B | C |
 
@@ -90,4 +92,4 @@
 
 | 10 | utca | 25 | 25 |
 
-[^176]: Az 5. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (2) bekezdése iktatta be.
+[^191]: Az 5. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (2) bekezdése iktatta be.
