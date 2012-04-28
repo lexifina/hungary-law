@@ -56,7 +56,7 @@ y) az elszámolási nyilatkozattal kapcsolatos részletes szabályok,
 
 z) az Európai Egészségbiztosítási Kártya érvényességi idejének és kibocsátása szabályainak
 
-zs) az országos várólista nyilvántartásra, a központi várólistára, a transzplantációs várólistára, a térségi várólistára, az intézményi előjegyzésre és a betegfogadási listára vonatkozó szabályok
+zs) az országos várólista nyilvántartásra, a központi várólistára, a transzplantációs várólistára, a térségi várólistára, az intézményi előjegyzésre, intézményi várólistára és a betegfogadási listára vonatkozó szabályok
 
 meghatározására.
 
@@ -68,7 +68,7 @@ b) jelölje ki a térségi betegút-szervezésért felelős szervet,
 
 c) jelölje ki az országos várólista nyilvántartást vezető szervet,
 
-d) határozza meg a térségi várólista alapján történő ellátás-igénybevétel, az annak érdekében szükséges kapcsolattartás és a térségi várólista alapján történő szolgáltató-választás, valamint a térségi várólista alapján, az intézményi előjegyzés alapján, illetve a betegfogadási lista alapján végzett ellátásokkal kapcsolatos jelentés szabályait.
+d) határozza meg a térségi várólista alapján történő ellátás-igénybevétel, az annak érdekében szükséges kapcsolattartás és a térségi várólista alapján történő szolgáltató-választás, valamint a térségi várólista alapján, az intézményi előjegyzés alapján, intézményi várólista alapján, illetve a betegfogadási lista alapján végzett ellátásokkal kapcsolatos jelentés szabályait.
 
 (2b) Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg az egészségbiztosító által a 31. § (11) bekezdése alapján kiszabható bírság mértékét.
 
@@ -104,7 +104,7 @@ e) a szanatóriumi ellátásokat,
 
 f) a betegszállításra jogosító kúraszerű kezeléseket,
 
-g) a központi várólista, a transzplantációs várólista, a térségi várólista, az intézményi előjegyzés, valamint a betegfogadási lista tekintetében a sorrend kialakításának és az eltérés lehetőségének feltételeit és szabályait, továbbá a várólista, illetve az intézményi előjegyzés adatainak honlapon történő közzétételére vonatkozó szabályokat,
+g) a központi várólista, a transzplantációs várólista, a térségi várólista, az intézményi előjegyzés, intézményi várólista, valamint a betegfogadási lista tekintetében a sorrend kialakításának és az eltérés lehetőségének feltételeit és szabályait, továbbá a várólista, illetve az intézményi előjegyzés, intézményi várólista adatainak honlapon történő közzétételére vonatkozó szabályokat,
 
 h) a beutalás szakmai szabályait,
 

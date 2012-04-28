@@ -2,7 +2,7 @@
 
 (2) Amennyiben a biztosított munkáltatója a Tbj. szerinti biztosítási jogviszony fenntartása mellett egybefüggően három hónapot meghaladó időtartamra a biztosítottat harmadik állam területén foglalkoztatja, és ez idő alatt a biztosított, illetve a vele együtt harmadik állam területén tartózkodó eltartott házastársa és gyermeke a 12–14. §-okban, továbbá a 15. § (1) bekezdésében meghatározott valamely egészségügyi szolgáltatást, továbbá sürgősségi betegszállítást indokoltan vesz igénybe harmadik állam területén lévő tartózkodási helyén, az egészségbiztosító a felmerült és igazolt költségeket, az igénybevétel idején érvényes belföldi költség mértékének megfelelő összegben, sürgősségi betegszállítás esetén a számla szerinti összegnek a Magyar Nemzeti Bank által közzétett, az igénybevételkor érvényes középárfolyamon számított forint összegben megtéríti.
 
-(3) Amennyiben a biztosított az uniós rendeletek hatálya alá tartozik, EGT tagállam területén egészségügyi szolgáltatást az uniós rendeletek rendelkezései szerint vehet igénybe.
+(3) Amennyiben a biztosított az uniós rendeletek óhatálya alá tartozik, EGT tagállam területén egészségügyi szolgáltatást az uniós rendeletek rendelkezései szerint vehet igénybe.
 
 (4) A (2) bekezdés szerinti foglalkoztatás esetében a biztosított és a vele együtt ott tartózkodó eltartott házastársa és gyermeke nem Magyarországon történő egészségügyi ellátása akkor fogadható el indokoltan igénybe vettnek, ha eleget tettek a külön jogszabályban foglaltak szerint a nem Magyarországon történő munkavégzésre való alkalmasság megállapítását célzó orvosi vizsgálati kötelezettségüknek.
 

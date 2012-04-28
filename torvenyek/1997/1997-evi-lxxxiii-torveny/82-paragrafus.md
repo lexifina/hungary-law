@@ -18,6 +18,10 @@
 
 (8) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 40. § (2) bekezdés a) pontját, valamint a 42/A. § (4) bekezdés a) pontját a 2013. július 31-ét követően bekövetkező szülések esetén kell alkalmazni.
 
-(9) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvénnyel megállapított 20. § (2) bekezdés szerinti országos várólista nyilvántartást, valamint a 20. § (1) bekezdés a) pontja szerinti térségi várólistákat az adott térségben az adott ellátások tekintetében a térségben működő egészségügyi szolgáltatók által vezetett intézményi várólisták alapján – kormányrendeletben meghatározottak szerint – 2012. április 30-áig kell létrehozni.
+(9)
 
 (9) A bírósági végrehajtással kapcsolatos és egyéb igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel megállapított 35. § (1a) bekezdés szerinti nyilatkozattételi kötelezettséget a 2012. január 1-jén hatályos finanszírozási szerződéssel rendelkező szolgáltató 2012. március 31-éig teljesíti.
+
+(10) A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvénnyel (a továbbiakban: Módtv1.) megállapított 20. § (2a) bekezdése szerinti országos várólista-nyilvántartást az egészségügyi szolgáltatók által vezetett intézményi várólisták alapján – kormányrendeletben meghatározottak szerint – 2012. június 30-áig kell létrehozni.
+
+(11) A Módtv1. által megállapított 30. § (4) bekezdését a Módtv1. hatálybalépésekor érvényes finanszírozási szerződések, valamint a 2011. december 31. után kezdeményezett finanszírozási szerződés-módosítások tekintetében is alkalmazni kell, azzal, hogy a még jóvá nem hagyott szerződésmódosítások a Módtv1. hatálybalépésének időpontjában érvényessé válnak.
