@@ -169,5 +169,3 @@ a földművesszövetkezetek alapszabálymintájának közzétételéről szóló
 a holtnak nyilvánításra vonatkozó hirdetmények és végzések közléséről szóló 100.000/1949. (XII. 16.) IM rendelet;
 
 a szállítási kötelezettséget elmulasztó szerződéses sertéshizlalók és tenyésztők kártérítési felelősségéről szóló 4/1954. (III. 27.) BgyM rendelet;
-
-a magánkereskedés gyakorlásáról szóló 1957. évi 17. törvényerejű rendelet végrehajtása tárgyában kibocsátott 1/1957. (III. 12.) BkM rendelet 8. §-ának második mondata;

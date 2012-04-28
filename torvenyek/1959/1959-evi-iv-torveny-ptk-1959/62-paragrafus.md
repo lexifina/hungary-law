@@ -28,7 +28,7 @@ cb) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazás
 
 cc) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, és bevándorolt vagy letelepedett jogállású, illetve tartózkodási engedéllyel rendelkezik.
 
-(6) Az egyesület szervei által hozott jog- vagy alapszabálysértő határozat megsemmisítése iránt bármely tag – a határozat tudomására jutásáról számított harminc napos jogvesztő határidőben – pert indíthat. A perindítás a határozat végrehajtását nem gátolja, a bíróság azonban indokolt esetben – a tag kérelmére – a határozat végrehajtását felfüggesztheti. A per a törvényszék hatáskörébe tartozik.
+(6) Az egyesület szervei által hozott jog- vagy alapszabálysértő határozat megsemmisítése iránt bármely tag – a különleges jogállású tag csak érintettsége esetén –, a határozat tudomására jutásától számított harminc napos jogvesztő határidőben pert indíthat. A perindítás a határozat végrehajtását nem gátolja, a bíróság azonban indokolt esetben – a tag kérelmére – a határozat végrehajtását felfüggesztheti. A per a törvényszék hatáskörébe tartozik.
 
 (7) A vallási tevékenységet is végző egyesületek esetében a vallási tevékenységgel összefüggően meghozott határozatokra nézve a (6) bekezdés rendelkezéseit nem kell alkalmazni.
 

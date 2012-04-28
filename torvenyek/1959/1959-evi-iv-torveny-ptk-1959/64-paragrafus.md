@@ -1,6 +1,6 @@
 Ptk.64. § (1) Az egyesület megszűnik, ha
 
-a) a legfőbb szerv döntése alapján átalakul,
+a) az egyesület egy másik egyesülettel egyesül (összeolvad, beolvad),
 
 b) a legfőbb szerve a feloszlásáról határoz,
 

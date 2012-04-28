@@ -12,7 +12,7 @@ b) az éves költségvetés, illetve az előző évről szóló számviteli besz
 
 c) az ügyintéző és képviseleti szerv éves beszámolójának elfogadása;
 
-d) az egyesület más egyesülettel való egyesülésének, szétválásának vagy feloszlásának kimondása;
+d) az egyesület más egyesülettel való egyesülésének vagy feloszlásának kimondása,
 
 e) az ügyintéző és képviseleti szerv tagjainak megválasztása és visszahívása,
 
@@ -22,4 +22,4 @@ f) döntés mindazokban az ügyekben, amelyeket az alapszabály a legfőbb szerv
 
 (6) Az egyesület szervei határozatképesek, ha tagjainak több mint a fele jelen van, az alapszabály ennél magasabb jelenléti arányt is megállapíthat. Az egyesület szervei határozataikat a jelenlévők szótöbbségével hozzák mindazon kérdésben, amely tekintetében az alapszabály a szótöbbség magasabb arányát nem írja elő.
 
-(7) Ha az egyesület szerveinek ülése nem határozatképes, megismételt ülést kell tartani. A megismételt ülés legkorábban a határozatképtelen ülést követően, későbbi időpontra hívható össze. A megismételt ülés a legfőbb szerv esetében a megjelent tagok számától függetlenül, egyéb egyesületi szerv esetén pedig a (6) bekezdésben foglalt rendelkezés szerint határozatképes.
+(7) Ha az egyesület szerveinek ülése nem határozatképes, megismételt ülést kell tartani. A megismételt ülés a határozatképtelen ülést követő későbbi időpontra az eredetivel azonos napirenddel hívható össze. A megismételt ülés a legfőbb szerv esetében a megjelent tagok számától függetlenül, egyéb egyesületi szerv esetén pedig a (6) bekezdésben foglalt rendelkezés szerint határozatképes.
