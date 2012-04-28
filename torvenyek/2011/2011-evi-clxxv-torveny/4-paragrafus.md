@@ -2,6 +2,6 @@
 
 (2) Az egyesület jogi személy, amely a nyilvántartásba vétellel jön létre.
 
-(3) Az egyesület szövetség, ha tagjai között legalább két jogi személy vagy jogi személyiséggel nem rendelkező szervezet van.
+(3) A szövetség tagja alapítvány, illetve egyesület lehet. Szövetség két tag részvételével is alapítható, működtethető.
 
 (4) Ha az egyesület olyan tevékenységet végez, amelyet jogszabály engedélyhez (feltételhez) köt vagy egyébként szabályoz, e tevékenység felett a tevékenység szerinti hatáskörrel rendelkező állami szerv a hatósági ellenőrzésre irányadó szabályok alkalmazásával felügyeletet gyakorol.

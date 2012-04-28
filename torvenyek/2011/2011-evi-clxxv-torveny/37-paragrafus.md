@@ -1,10 +1,8 @@
-## 13. A közhasznú szervezet működésével kapcsolatos különös szabályok
-
 37. § (1) A több tagból álló legfőbb szerv, valamint az ügyintéző és képviseleti szerv ülései nyilvánosak, amely nyilvánosság jogszabályban meghatározott esetekben korlátozható.
 
 (2) A több tagból álló legfőbb szerv esetén a közhasznú szervezet létesítő okiratának tartalmaznia kell
 
-a) az ülésezés gyakoriságára – amely az évi egy alkalomnál kevesebb nem lehet –, az ülések összehívásának rendjére, a napirend közlésének módjára, az ülések nyilvánosságára, határozatképességére és a határozathozatal módjára,
+a) az ülésezés gyakoriságára – amely évi egy alkalomnál kevesebb nem lehet –, az ülések összehívásának rendjére, a napirend közlésének módjára, az ülések nyilvánosságára, határozatképességére és a határozathozatal módjára,
 
 b) a közhasznú szervezet vezető tisztségviselőinek összeférhetetlenségére,
 

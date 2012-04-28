@@ -1,3 +1,3 @@
-## 28. Hatályon kívül helyező rendelkezések
+## 28.
 
 ### 190–208. §

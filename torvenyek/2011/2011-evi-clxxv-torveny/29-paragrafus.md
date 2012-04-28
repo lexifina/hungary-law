@@ -10,7 +10,7 @@ c) kettős könyvvitel esetében a kiegészítő mellékletet.
 
 (3) A civil szervezet köteles a beszámolójával egyidejűleg közhasznúsági mellékletet is készíteni.
 
-(4) A kettős könyvvitelt vezető közhasznú szervezet kiegészítő mellékletében be kell mutatni a támogatási program keretében végleges jelleggel felhasznált összegeket támogatásonként. Támogatási program alatt a központi, az önkormányzati és/vagy nemzetközi forrásból, illetve más gazdálkodótól kapott, a tevékenység fenntartását, fejlesztését célzó támogatást, adományt kell érteni. Külön kell megadni a kiegészítő mellékletben a támogatási program keretében kapott visszatérítendő (kötelezettségként kimutatott) támogatásra vonatkozó, előbbiekben részletezett adatokat.
+(4) A kettős könyvvitelt vezető közhasznú szervezet kiegészítő mellékletében be kell mutatni a támogatási program keretében végleges jelleggel felhasznált összegeket támogatásonként. Támogatási program alatt a központi, az önkormányzati, illetve nemzetközi forrásból, illetve más gazdálkodótól kapott, a tevékenység fenntartását, fejlesztését célzó támogatást, adományt kell érteni. Külön kell megadni a kiegészítő mellékletben a támogatási program keretében kapott visszatérítendő (kötelezettségként kimutatott) támogatásra vonatkozó, előbbiekben részletezett adatokat.
 
 (5) A kettős könyvvitelt vezető közhasznú szervezet kiegészítő mellékletében be kell mutatni a szervezet által az üzleti évben végzett főbb tevékenységeket és programokat.
 

@@ -6,7 +6,7 @@
 
 (4) A pályázati felhívást és a hozzá kapcsolódó döntéseket az Alap honlapján (Civil Információs Portálon) és az alapkezelő honlapján közzé kell tenni.
 
-(5) Az Alap működésének nyilvánossága érdekében a Miniszter a Civil Információs Portál keretein belül internetes honlapot működtet. A honlapon közzétételre kerül
+(5) Az Alap működésének nyilvánossága érdekében a miniszter a Civil Információs Portál keretein belül internetes honlapot működtet. A honlapon közzétételre kerül
 
 a) a Tanács és a kollégiumok döntése a döntés meghozatalától számított harminc napon belül,
 

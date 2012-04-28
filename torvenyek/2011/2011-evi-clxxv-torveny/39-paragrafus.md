@@ -6,6 +6,6 @@ b) amellyel szemben az állami adó- és vámhatóság jelentős összegű adóh
 
 c) amellyel szemben az állami adó- és vámhatóság üzletlezárás intézkedést alkalmazott, vagy üzletlezárást helyettesítő bírságot szabott ki,
 
-d) amelynek adószámát az állami adó- és vámhatóság az adózás rendjéről szóló törvény szerint felfüggesztette, illetőleg törölte.
+d) amelynek adószámát az állami adó- és vámhatóság az adózás rendjéről szóló törvény szerint felfüggesztette vagy törölte.
 
 (2) A vezető tisztségviselő, illetve az ennek jelölt személy köteles valamennyi érintett közhasznú szervezetet előzetesen tájékoztatni arról, hogy ilyen tisztséget egyidejűleg más közhasznú szervezetnél is betölt.

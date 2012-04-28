@@ -2,7 +2,7 @@
 
 2. § E törvény alkalmazásában
 
-1. adomány: a civil szervezetnek – létesítő okiratban rögzített céljaira – ellenszolgáltatás nélkül juttatott vagyon, áru, illetve nyújtott szolgáltatás;
+1. adomány: a civil szervezetnek – létesítő okiratban rögzített céljaira – ellenszolgáltatás nélkül juttatott eszköz, illetve nyújtott szolgáltatás;
 
 2. adományosztó szervezet: a civil szervezetek számára nyújtandó adományok szervezésére és juttatására létrejött civil szervezet, amelynek létesítő okiratában e cél alapcélként került megjelölésre;
 
@@ -74,4 +74,4 @@ d) a személyi jövedelemadó meghatározott részének az adózó rendelkezése
 
 28. törzsvagyon: az induló tőke, megnövelve alapítvány esetében a csatlakozók által kifejezetten az induló tőke növelése érdekében rendelkezésre bocsátott vagyonnal;
 
-29. vezető tisztségviselő: az alapítvány kezelője, illetve kezelő szervének (szervezetének) és – amennyiben az alapítványnak van felügyelő szerve – felügyelő szervének elnöke és tagja, továbbá – ha az alapítvány kezelő szerve (szervezete) elkülönült jogi személy, jogi személyiséggel nem rendelkező szervezet vagy állami szerv – a kezelő szerv (szervezet) egyszemélyi felelős vezetője vagy ilyen jogkörben eljáró testületének tagja; az egyesület ügyintéző és képviseleti szervének vagy – amennyiben az egyesületnek van felügyelő szerve – a felügyelő szerv elnöke és tagja.
+29. vezető tisztségviselő: az alapítvány kezelője, illetve kezelő szervének (szervezetének) és – amennyiben az alapítványnak van felügyelő szerve – felügyelő szervének elnöke és tagja, továbbá – ha az alapítvány kezelő szerve (szervezete) elkülönült jogi személy, jogi személyiséggel nem rendelkező szervezet vagy állami szerv – a kezelő szerv (szervezet) egyszemélyi felelős vezetője vagy ilyen jogkörben eljáró testületének tagja; az egyesület ügyintéző és képviseleti szervének, továbbá – amennyiben az egyesületnek van felügyelő szerve – a felügyelő szerv elnöke és tagja.

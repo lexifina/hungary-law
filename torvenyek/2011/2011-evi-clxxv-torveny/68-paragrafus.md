@@ -18,11 +18,13 @@ c) halálával,
 
 d) megbízásának visszavonásával,
 
-e) a kollégium megszűnése esetén.
+e) a 62. § (5) bekezdésében meghatározott visszahívás, vagy
+
+f) a kollégium megszűnése esetén.
 
 (3) A civil jelöltállítási rendszerben újra nem választott tanácsi, kollégiumi tagok megbízatása megszűnik a testület új tagjainak a 65. § (1) bekezdése szerinti megbízása napján.
 
-(4) A Tanács tagja és a kollégium tagja a tisztségéről való lemondását írásban, az őt megválasztó, kijelölő vagy felkérő személyhez vagy szervhez jelenti be.
+(4) A Tanács tagja és a kollégium tagja a tisztségéről való lemondását írásban, a miniszterhez jelenti be.
 
 (5) Vissza kell vonni a Tanács tagjának és a kollégium tagjának megbízását, ha
 

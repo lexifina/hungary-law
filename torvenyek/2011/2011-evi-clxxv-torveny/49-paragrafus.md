@@ -4,7 +4,7 @@
 
 a) a számviteli beszámolójának a 30. §-ban szabályozott letétbe helyezési, közzétételi kötelezettségét, illetve
 
-b) a szervezet – letétbe helyezett beszámolója – nem felel meg a 32. § szerinti feltételeknek.
+b) a szervezet – letétbe helyezett beszámolója, közhasznúsági melléklete – nem felel meg a 32. § szerinti feltételeknek.
 
 (3) Cégjegyzékbe bejegyzett közhasznú jogállású szervezet esetében a (2) bekezdés a) pontját nem kell alkalmazni.
 

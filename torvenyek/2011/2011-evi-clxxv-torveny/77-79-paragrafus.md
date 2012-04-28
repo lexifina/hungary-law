@@ -1,3 +1,3 @@
-## 27. Módosító rendelkezések
+## 27.
 
 ### 77–79. §

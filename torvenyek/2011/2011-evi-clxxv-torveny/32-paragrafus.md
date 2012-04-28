@@ -1,4 +1,4 @@
-32. § (1) Közhasznú szervezetté minősíthető a Magyarországon nyilvántartásba vett – létesítő okiratában megjelölt közfeladat teljesítésére irányuló – közhasznú tevékenységet végző szervezet, amely a társadalom és az egyén közös szükségleteinek kielégítéséhez megfelelő erőforrásokkal rendelkezik, továbbá amelynek megfelelő társadalmi támogatottsága kimutatható, és amely:
+32. § (1) Közhasznú szervezetté minősíthető a Magyarországon nyilvántartásba vett közhasznú tevékenységet végző szervezet, amely a társadalom és az egyén közös szükségleteinek kielégítéséhez megfelelő erőforrásokkal rendelkezik, továbbá amelynek megfelelő társadalmi támogatottsága kimutatható, és amely:
 
 a) civil szervezet (ide nem értve a civil társaságot), vagy
 
@@ -6,7 +6,7 @@ b) olyan egyéb szervezet, amelyre vonatkozóan a közhasznú jogállás megszer
 
 (2) Törvény az (1) bekezdéstől eltérően megállapíthatja valamely szervezet közhasznú jogállását.
 
-(3) A közhasznú tevékenységet végző szervezet hozzájárul a társadalom és az egyén közös szükségleteinek kielégítéséhez, amennyiben az előző évről szóló beszámoló közhasznúsági melléklete célcsoportra vonatkozó adatai alapján a szervezet szolgáltatásai a szervezet testületi tagjain, munkavállalóin, önkéntesein kívül más személyek számára is hozzáférhetőek.
+(3) A közhasznú tevékenységet végző szervezet hozzájárul a társadalom és az egyén közös szükségleteinek kielégítéséhez, amennyiben az előző évről szóló közhasznúsági melléklet célcsoportra vonatkozó adatai alapján a szervezet szolgáltatásai a szervezet testületi tagjain, munkavállalóin, önkéntesein kívül más személyek számára is hozzáférhetőek.
 
 (4) Megfelelő erőforrás áll az (1) bekezdés szerinti szervezet rendelkezésére, ha az előző két lezárt üzleti év vonatkozásában a következő feltételek közül legalább egy teljesül:
 

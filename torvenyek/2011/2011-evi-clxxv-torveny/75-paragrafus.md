@@ -29,3 +29,5 @@ b) az államháztartásról szóló törvény alapján a fejezetet irányító s
 (12) A Nemzeti Együttműködési Alap testületei a 70. § szerinti beszámolók benyújtására első alkalommal a 2012. évre vonatkozóan kötelezettek.
 
 (13) A 61. § (6) bekezdésben foglaltakat a 2012. évben azzal az eltéréssel kell alkalmazni, hogy a pályázatok kiírásáról március 15-éig kell dönteni.
+
+(14) E törvénynek a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvénnyel (a továbbiakban: Mód. tv.) megállapított 9. § (2), (3), (7) és (8) bekezdésének és 10. § (1) és (2) bekezdésének rendelkezéseit a Mód tv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.

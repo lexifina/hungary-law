@@ -1,3 +1,3 @@
-## 29. Hatályba nem lépő rendelkezések
+## 29.
 
 ### 210–211. §

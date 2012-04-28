@@ -1,6 +1,6 @@
 62. § (1) A kollégium döntéseiben nem vehet részt a Tanács elnöke és tagja.
 
-(2) A Tanács elnökének és tagjainak, a kollégium elnökének és tagjainak, valamint ezek közeli hozzátartozóinak érdekeltségi körébe tartozóként összeférhetetlennek jelzett szervezet pályázata érvénytelen.
+(2) A Tanács elnökének és tagjainak, a kollégium elnökének és tagjainak, valamint ezek közeli hozzátartozóinak érdekeltségi körébe tartozóként összeférhetetlennek jelzett szervezet támogatási igénye érvénytelen.
 
 (3) A Tanács elnöke és tagja, a kollégium vezetője és tagja nem vehet részt olyan pályázat elbírálásában, amelynek megítélésénél tőle elfogulatlan állásfoglalás nem várható.
 
