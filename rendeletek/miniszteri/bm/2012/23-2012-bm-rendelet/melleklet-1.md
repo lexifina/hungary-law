@@ -1,4 +1,4 @@
-## 63. § Hatályát veszti a 2007–2013 közötti programozási időszakban a Szolidaritási programokból származó támogatások felhasználásának alapvető szabályairól, intézményrendszeréről, a pénzügyi irányítási és ellenőrzési rendszerekről szóló 14/2011. (IV. 19.) BM rendelet.
+## 63. §[^1]
 
 1. melléklet a 23/2012. (IV. 26.) BM rendelethez
 
@@ -45,3 +45,5 @@ P. H.
 aláírás
 
 ”
+
+[^1]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
