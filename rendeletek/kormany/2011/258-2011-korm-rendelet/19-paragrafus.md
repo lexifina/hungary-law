@@ -6,11 +6,12 @@
 
 (3) A Törvény 7. § (2) bekezdés alapján az OTH az eljárás során kikérheti az OEP véleményét.
 
-(4)[^11] Az OTH – a 20. §-ban foglaltak alapján – az eljárás megindításától számított 40 napon belül dönt a kapacitások és az ellátási területek megállapításáról.
+(4)[^11] Az OTH – a 20. §-ban foglaltak alapján – az eljárás megindításától számított 2012. május 31-éig dönt a kapacitások és az ellátási területek megállapításáról.
 
-(5) A (4) bekezdés alapján hozott határozatokban a határozat alkalmazásának kezdő időpontjaként 2012. május 1-jét kell megjelölni.
+(5)[^12] A (4) bekezdés alapján hozott határozatokban a határozat alkalmazásának kezdő időpontjaként 2012. július 1-jét kell megjelölni.
 
 (6) A (4) bekezdés alapján hozott határozatokat hirdetményi úton kell közölni. Az érintett egészségügyi szolgáltatót egyidejűleg értesíteni kell a hirdetmény kifüggesztéséről és a határozat tartalmáról.
 
 [^10]: A 19. § (1a) bekezdését a 13/2012. (II. 14.) Korm. rendelet 16. §-a iktatta be.
-[^11]: A 19. § (4) bekezdése a 6/2012. (II. 1.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^11]: A 19. § (4) bekezdése a 6/2012. (II. 1.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 92/2012. (IV. 27.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
+[^12]: A 19. § (5) bekezdése a 92/2012. (IV. 27.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
