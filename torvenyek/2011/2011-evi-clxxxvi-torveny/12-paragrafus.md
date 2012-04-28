@@ -16,6 +16,12 @@ ba) a közalkalmazott számára új vezetői megbízást kell adni vagy
 
 bb) – ha jogszabály azt előírja, a Munka Törvénykönyve vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával – vele új munkaviszonyt kell létesíteni.
 
-(6) A jogviszony (5) bekezdés alapján történő megszűnése nem érinti a jogszabályban vagy a foglalkoztatásra vonatkozó szerződésben meghatározott, a megszűnéshez kapcsolódó juttatáshoz való jogot.
+(6) A jogviszony (5) bekezdés alapján történő megszűnése – a (6a) bekezdésben foglalt kivétellel – nem érinti a jogszabályban vagy a foglalkoztatásra vonatkozó szerződésben meghatározott, a megszűnéshez kapcsolódó juttatáshoz való jogot.
+
+(6a) Az (5) bekezdés b) pont bb) alpontjában foglalt esetben, ha a korábbi intézményvezetővel vagy gazdasági vezetővel a pályázat megnyerésére tekintettel új munkaviszonyt kell létesíteni, a vezetőt a korábbi munkaviszonya megszűnésével összefüggésben munkaszerződésen vagy jogszabályon alapuló végkielégítés és szabadságmegváltás nem illeti meg, azonban
+
+a) az (5) bekezdés b) pont bb) alpontja alapján létesített jogviszony megszűnése vagy megszüntetése esetén a végkielégítésre való jogosultság tartamának megállapításakor az (5) bekezdés szerinti jogcímen megszűnt és létesített jogviszonyok időtartamát össze kell számítani, valamint
+
+b) a ki nem adott szabadságot az új jogviszonyban kell kiadni, illetve annak megszűnése vagy megszüntetése esetén megváltani.
 
 (7) A tulajdonjog és fenntartói jog átszállása nem érinti az egészségügyi szolgáltatónál az egészségügyi tevékenység végzésében egyéb jogviszony keretében közreműködő egészségügyi dolgozó munkavégzésére irányuló jogviszonyát.

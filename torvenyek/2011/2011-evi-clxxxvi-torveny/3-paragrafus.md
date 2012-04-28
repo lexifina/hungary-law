@@ -1,6 +1,6 @@
 3. § (1) Az e törvény alapján állami tulajdonba kerülő vagyon vagyonkezelője az állami tulajdonba kerüléssel egyidejűleg e törvény erejénél fogva:
 
-a) az egészségügyi intézmény vonatkozásában az egészségügyért felelős miniszter által kijelölt szerv (a továbbiakban: kijelölt szerv),
+a)
 
 b) az egyéb átvett intézmények tekintetében a Kormány által rendeletben kijelölt szerv.
 
