@@ -6,4 +6,4 @@
 
 (4) A Magyar Művészeti Akadémia név használatára kizárólag az e törvény szerint létrehozott köztestület jogosult.
 
-(5) Az MMA az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény alapján közhasznú szervezetnek minősíthető.
+(5) Az MMA az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti feltételek teljesítésére tekintet nélkül közhasznú szervezetnek minősül. Az MMA-t a Fővárosi Törvényszék tartja nyilván.
