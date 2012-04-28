@@ -24,11 +24,11 @@ k) a Kormány által meghatározott szakkérdésben szakértőként jár el,
 
 l) ellátja a jogszabályban, az alapító okiratában vagy hatósági határozatban meghatározott megfelelőség-értékelési és egyéb további feladatokat,
 
-m)[^4] gyakorolja a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: MÖKtv.) alapján az állam fenntartásába, illetve tulajdonába került egészségügyi intézmények, továbbá a gyógyító-megelőző ellátás országos szakintézetei felett az egyes fenntartói, valamint a hatáskörébe tartozó költségvetési szervek tekintetében az irányítási jogokat, a gazdasági társaságok tekintetében a tagsági jogokat, valamint az alapítványok esetében az alapítói jogokat,
+m)[^4] gyakorolja a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: MÖKtv.), a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény (a továbbiakban: Ttv.) alapján az állam fenntartásába, illetve tulajdonába került egészségügyi intézmények, továbbá az országos gyógyintézetek felett az egyes fenntartói, valamint a hatáskörébe tartozó költségvetési szervek tekintetében a középirányítói jogokat, a gazdasági társaságok tekintetében a tagsági jogokat, valamint az alapítványok esetében az alapítói jogokat,
 
-n)[^5] gyakorolja az Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló 2011. évi CLXXXVI. törvény alapján az állam fenntartásába, illetve tulajdonába került egészségügyi intézmény felett az egyes fenntartói, valamint a hatáskörébe tartozó költségvetési szervek tekintetében az irányítási jogokat,
+n)[^5] gyakorolja az Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló 2011. évi CLXXXVI. törvény alapján az állam fenntartásába, illetve tulajdonába került egészségügyi intézmény felett, továbbá az egészségügyért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató felett az egyes fenntartói, valamint a hatáskörébe tartozó költségvetési szervek tekintetében a középirányítói jogokat,
 
-o)[^6] vagyonkezelőként ellátja az m)–n) pont szerinti egészségügyi intézményi vagyon tekintetében a vagyonkezelői feladatokat,
+o)[^6]
 
 p)[^7] kidolgozza a fekvőbeteg-szakellátás, valamint a járóbeteg-szakellátás kapacitásai és ellátási területe felosztásának, módosításának, valamint a jogszabályban meghatározott egészségügyi szakellátási kapacitások felosztásának, módosításának módszertanát, külön jogszabályban foglaltak szerint részt vesz az ezekkel kapcsolatos eljárásokban,
 
@@ -37,9 +37,9 @@ q)[^8] meghatározza a területi egészségügyi ellátás megszervezésének m�
 r)[^9] a fekvőbeteg szakellátást nyújtó intézmények részére történő gyógyszer-, orvostechnikai eszköz és fertőtlenítőszer beszerzések országos központosított rendszeréről szóló 46/2012. (III. 28.) Korm. rendeletben foglaltak szerint központi beszerző szervezetként jár el.
 
 [^3]: A 2. § a 3. § (2) bekezdése alapján 2011. május 1-jén lép hatályba.
-[^4]: A 2. § m) pontja a 372/2011. (XII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^5]: A 2. § n) pontja a 372/2011. (XII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^6]: A 2. § o) pontja a 372/2011. (XII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^4]: A 2. § m) pontja a 92/2012. (IV. 27.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^5]: A 2. § n) pontja a 92/2012. (IV. 27.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^6]: A 2. § o) pontját a 92/2012. (IV. 27.) Korm. rendelet 34. §-a hatályon kívül helyezte.
 [^7]: A 2. § p) pontja a 372/2011. (XII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^8]: A 2. § q) pontja a 372/2011. (XII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^9]: A 2. § r) pontját a 46/2012. (III. 28.) Korm. rendelet 12. §-a iktatta be. Alkalmazására lásd e módosító rendelet 10. §-át.
