@@ -36,7 +36,7 @@ bl) a szerződésmódosítás lehetősége a szeptemberi tanulólétszám ismere
 
 (4) A (2) bekezdés szerinti esetben a támogatás előfinanszírozását kizárólag a fenntartó vállalhatja.
 
-(5) Amennyiben a szállító az előfinanszírozó, úgy a fenntartó részére a leszállított termékekről számlát állít ki, amely tételesen tartalmazza a termék 7. § (1) bekezdés szerinti pontos megnevezését – tej, illetve ízesített tej esetében annak zsírtartalmát –, ellenértékét, valamint az ellenértékének támogatástartalmát. A támogatástartalom nem haladhatja meg az adott termékkategóriához a 13. §-ban meghatározott maximális összeget. A kiállított számlákon szerepelnie kell a fenntartó nyilatkozatának, amellyel igazolja a szolgáltatás teljesítését.
+(5)[^3] Amennyiben a szállító az előfinanszírozó, úgy a fenntartó részére a leszállított termékekről számlát állít ki, amely tételesen tartalmazza a termék 7. § (1) bekezdés szerinti pontos megnevezését – tej, illetve ízesített tej esetében annak zsírtartalmát –, ellenértékét, valamint az ellenértékének támogatástartalmát. A támogatástartalom nem haladhatja meg az adott termékkategóriához a 13. §-ban meghatározott maximális összeget.
 
 (6) A fenntartó a szállítónak a bruttó számlaérték és a támogatástartalom különbözetét fizeti meg. A támogatási keret kimerülése, illetve valamely jogosultsági feltétel – a fenntartó hibájából fakadó – nem teljesülése esetén a fenntartó köteles a szállító részére a számla teljes összegét megfizetni.
 
@@ -44,4 +44,7 @@ bl) a szerződésmódosítás lehetősége a szeptemberi tanulólétszám ismere
 
 (8) A támogatás igénylésének további feltétele, hogy a szerződésnek a kérelmező személyére vonatkozó elemét a felek a már megkezdett – a 8. § (2) bekezdésében meghatározott – időszak vonatkozásában ne módosítsák.
 
-(9) Ha a fenntartó a 8. § (2) bekezdése szerinti valamely időszakra szerződést kötött, az e rendelet szerinti támogatásra akkor jogosult, ha ugyanazon időszakra nem köt újabb szerződést.
+(9)[^4] Ha a fenntartó a 8. § (2) bekezdése szerinti valamely időszakra szerződést kötött, az e rendelet szerinti támogatásra akkor jogosult, ha ugyanazon időszakra nem köt újabb szerződést, kivéve a megyei intézményfenntartó szervek, az országos kisebbségi önkormányzatok, a gesztor települési önkormányzatok, az alapítványok, az egyházak, valamint a települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény alapján alakított többcélú kistérségi társulások esetében, ahol a székhelyükön kívüli településen működő közoktatási intézmény vagy közoktatási intézmények, illetve az általuk fenntartott közoktatási intézmény székhelyén kívüli más településen működő tagintézmény vagy tagintézmények ellátása érdekében lehetőség van az adott időszakra vonatkozóan egynél több szerződés megkötésére is.
+
+[^3]: A 6. § (5) bekezdése a 39/2012. (IV. 27.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 6. § (9) bekezdése a 39/2012. (IV. 27.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.

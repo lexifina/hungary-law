@@ -6,7 +6,7 @@ a) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint
 
 b) a tanácsi rendelet XIII. mellékletének III. pontja szerint zsírszegény tej (1,5–1,8% m/m%), a MÉ 13. számú melléklet B rész 1.1.1. pontja szerint ízesített tejkészítmények, azzal a feltétellel, hogy az ízesített késztermékben – a bizottsági rendelet I. melléklete I. kategória b) pontjának megfelelően – a tejhányad legalább 90% (m/m) legyen, továbbá azzal a feltétellel, hogy a MÉ 13. számú melléklet B rész 1.3. pontja szerint zsírszegény kategóriába esik (a továbbiakban: II. kategória);
 
-c) a MÉ 13. számú melléklet B rész 7.1.1. vagy 7.1.2. pontban meghatározott, nem ízesített ömlesztett sajtok, amely a bizottsági rendelet I. melléklet III. kategóriájának megfelelően 90 tömegszázalékban tartalmaz sajtot és megfelel a MÉ 13. számú melléklet B rész 7.3. pontja szerinti félzsíros vagy zsíros kategóriának (a továbbiakban: III. kategória);
+c)[^5] a MÉ 13. számú melléklet B rész 7.1.1. vagy 7.1.2. pontjában meghatározott, nem ízesített ömlesztett sajtok, amely a bizottsági rendelet I. melléklet III. kategóriájának megfelelően legfeljebb 10 tömegszázalékban tartalmaz tejidegen összetevőt, és megfelel a MÉ 13. számú melléklet B rész 7.3. pontja szerinti félzsíros vagy zsíros kategóriának (a továbbiakban: III. kategória);
 
 d) a MÉ 13. számú melléklet B rész 2.1.1. pont a) és b) alpontjában meghatározott élőflórás savanyú natúr tejkészítmény (natúr joghurt és kefir), amely a bizottsági rendelet I. melléklet I. kategória c) pontjának megfelelően 90 tömegszázalékban tartalmaz tejet (a továbbiakban: IV. kategória);
 
@@ -29,3 +29,5 @@ b) 1 kg kiszállított, az e rendelet előírásainak megfelelő ömlesztett saj
 c) 1 kg kiszállított, az e rendelet előírásainak megfelelő natúr joghurt, kefir, valamint a bizottsági rendelet I. melléklet I. kategória c) pontjának megfelelő ízesített joghurt 0,971 liter tejegyenértéknek felel meg,
 
 d) 1 kg kiszállított, a bizottsági rendelet I. melléklet II. kategóriájának megfelelő ízesített joghurt 0,9 liter tejegyenértéknek felel meg.
+
+[^5]: A 7. § (1) bekezdés c) pontja a 39/2012. (IV. 27.) VM rendelet 3. §-ával megállapított szöveg.
