@@ -1,3 +1,0 @@
-## 7. § A Korm. rendelet 28/A. §-a helyébe a következő rendelkezés lép:
-
-## „28/A. § Az Áht. 30. § (4) bekezdése szerinti többletbevétel felhasználásának engedélyezésére és a bevételi előirányzatok módosítására e § rendelkezéseit kell alkalmazni. E § alkalmazásában a honvédelmi szervezetek többletbevétele az elemi költségvetésben megtervezett eredeti előirányzat az Ávr. 35. § (1) bekezdése szerinti bevételekkel, valamint a HM fejezet visszatérüléseiből, az inkurrencia- és a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 126/C. § (1) bekezdés a) pontja szerinti értékesítésből befolyó központosított bevételekkel csökkentett összegén felül pénzügyileg teljesült összeg.”
