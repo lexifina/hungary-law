@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-337-20-
 | --- | --- | --- |
 | 2011-12-29 | 2011-337-20-22.1 | 337/2011. (XII. 29.) Korm. rendelet |
 | 2011-12-30 | 2011-337-20-22.2 | 2010: CXXX. törvény |
+| 2012-04-28 | 2011-337-20-22.3 | 92/2012. (IV. 27.) Korm. rendelet |
