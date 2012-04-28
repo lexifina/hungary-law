@@ -1,0 +1,5 @@
+## „(4) Ez a rendelet 2012. július 2-án hatályát veszti.”
+
+## 12. A Gyógyító-megelőző ellátás jogcím-csoportból finanszírozott egészségügyi szolgáltatók adósságának rendezésére fordítható konszolidációs támogatásról és az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló
+
+## 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 337/2011. (XII. 29.) Korm. rendelet módosítása

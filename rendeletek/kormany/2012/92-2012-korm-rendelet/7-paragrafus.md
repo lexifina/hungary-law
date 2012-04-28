@@ -1,0 +1,1 @@
+## 6. § A központi költségvetési körbe 2012. május 1-jével átvett egészségügyi intézmények kincstári költségvetése és számlanyitása tekintetében 2012. április hónapban a Nemzeti Erőforrás Minisztérium jár el irányító szervként. Az átvett intézmények 2012. évi kincstári és intézményi költségvetésének végrehajtásával kapcsolatos feladatokat a GYEMSZI látja el.
