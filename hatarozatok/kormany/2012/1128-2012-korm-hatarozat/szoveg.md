@@ -20,4 +20,6 @@ c) javaslattétel a kormány számára, különös tekintettel a jogalkotási fe
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti az Önkormányzatok Nemzeti Együttműködési Fórumának létrehozásáról, valamint a Kormány és a helyi önkormányzatok közötti együttműködés és párbeszéd megerősítéséről szóló 1220/2010. (X. 25.) Korm. határozat.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
