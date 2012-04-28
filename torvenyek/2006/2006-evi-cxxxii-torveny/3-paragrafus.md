@@ -1,4 +1,4 @@
-3. § (1) Az egészségügyi szakellátásban rendelkezésre álló országos kapacitásmennyiség a 2011. december 31-én
+3. § (1) Az egészségügyi szakellátásban rendelkezésre álló országos kapacitásmennyiség a 2012. április 30-án
 
 a) lekötött, és
 

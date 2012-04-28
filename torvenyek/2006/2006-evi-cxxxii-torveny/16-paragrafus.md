@@ -52,7 +52,9 @@ o) a tartalékkapacitások kiosztásának és felhasználásának szabályait.
 
 p) a szakellátási kapacitások felosztása, átcsoportosítása, módosítása során figyelembeveendő szempontok alkalmazására, értékelésére vonatkozó szabályokat,
 
-r) az elérési szabályoknál figyelembeveendő sebességhatárokat.
+r) az elérési szabályoknál figyelembeveendő sebességhatárokat,
+
+s) az egészségügyi szakellátások biztosításáért való felelősséghez kapcsolódó végrehajtási szabályokat.
 
 (15)
 

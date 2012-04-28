@@ -37,3 +37,5 @@ c) országos szakmai központok, valamint a speciális ellátotti kör részére
 (5) A járóbeteg-szakellátási kapacitásokat érintő döntéshozatal során biztosítani kell, hogy az érintett lakosság legalább 90%-a számára, legalább az alapszakmákban ellátást nyújtó járóbeteg-szakellátó intézmény elvi elérhetősége 30 percnél kevesebb legyen.
 
 (6) A (4) bekezdés a) pontjának és az (5) bekezdés alkalmazásában elvi elérhetőség alatt azt az időtartamot kell érteni, ami az átlagos közlekedési viszonyok mellett az e törvény végrehajtásáról szóló kormányrendeletben meghatározott sebességhatárokkal számítva az egészségügyi szolgáltató közúti megközelítéséhez szükséges.
+
+(7) Amennyiben a (3) bekezdésben meghatározott mutatószámok a szervezeti struktúra változása miatt vagy egyéb okból nem állnak rendelkezésre, akkor a szolgáltató kapacitásait a rendelkezésre álló adatok figyelembevételével kell megállapítani.

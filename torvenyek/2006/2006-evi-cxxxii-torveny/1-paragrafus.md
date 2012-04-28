@@ -36,7 +36,7 @@ ib) a fekvőbeteg-ellátásban az aktív és krónikus ellátási ágyak száma,
 
 ic) jogszabályban előírt bármely más finanszírozott szolgáltatási egység, ideértve a CT, MRI, PET/CT, illetve egyéb, külön jogszabályban meghatározott eszközök finanszírozott szolgáltatási egységét, a művesekezelés finanszírozott szolgáltatási egységét;
 
-j) szakellátási kötelezettség: az egészségügyről szóló 1997. évi CLIV. törvény 141. § (3) bekezdése alapján a Magyar Államnak az a kötelezettsége, hogy biztosítsa az e törvény szerint meghatározott ellátási területen a lekötött szakellátási kapacitások felhasználásával a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti járóbeteg- és fekvőbeteg-szakellátásokat;
+j) egészségügyi szakellátási felelősség: az egészségügyről szóló 1997. évi CLIV. törvény 141. § (3) bekezdés l) pontja alapján a magyar államnak az a kötelezettsége, hogy gondoskodjon a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti járóbeteg- és fekvőbeteg-szakellátásoknak az l), az o), illetve a p) pontban meghatározott módon történő biztosításáról;
 
 k) alapszakma: belgyógyászat, gyermekgyógyászat, sebészet, szülészet-nőgyógyászat;
 
@@ -46,7 +46,9 @@ m) ellátási terület: az a földrajzi terület, amelyre kiterjed az egészség
 
 n) területi ellátási kötelezettség: a lekötött kapacitással rendelkező egészségügyi szolgáltatónak az a kötelezettsége, hogy a kapacitásai felhasználásával az 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott ellátási területen élő, a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára külön jogszabályban foglaltak szerinti járóbeteg-, illetve fekvőbeteg-szakellátásokat nyújtson;
 
-o) szakellátási feladat: a nem állami és nem helyi önkormányzati tulajdonban/fenntartásban lévő egészségügyi szolgáltató által az e törvény alapján lekötött kapacitásokon végzett, ellátási érdekből közfinanszírozott feladat.
+o) egészségügyi szakellátási feladat: a nem állami és nem helyi önkormányzati tulajdonban/fenntartásban lévő egészségügyi szolgáltató által az e törvény alapján lekötött kapacitásokon végzett, ellátási érdekből közfinanszírozott feladat;
+
+p) egészségügyi szakellátási kötelezettség: a magyar államnak az a kötelezettsége, hogy az l) és az o) pont alá nem tartozó esetekben biztosítsa az e törvény szerint meghatározott ellátási területen a lekötött szakellátási kapacitások felhasználásával a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti járóbeteg- és fekvőbeteg-szakellátásokat;
 
 (3) A (2) bekezdésben foglaltakon túl e törvény alkalmazásában az Eütv. 3. §-a szerinti fogalommeghatározásokat kell figyelembe venni.
 

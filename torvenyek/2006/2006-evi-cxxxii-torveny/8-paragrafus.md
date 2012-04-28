@@ -26,4 +26,4 @@ e) az (1) bekezdés f) pontja alapján létrehozott, illetve befogadott kapacit�
 
 amennyiben az megfelel az e törvényben és a külön jogszabályokban meghatározott feltételeknek.
 
-(3) Az egészségügyi szolgáltatóval a (2) bekezdés alapján azt követően köthető finanszírozási szerződés, hogy ellátási területe megállapításra került. A kapacitás, illetve az ahhoz kapcsolódó ellátási terület megállapítása, illetve módosítása esetén a finanszírozási szerződés megköthető, illetve módosítható a még nem jogerős határozat, illetve működési engedély módosítás alapján is, azzal, hogy a finanszírozási szerződés, illetve annak módosítása leghamarabb a határozat, illetve a működési engedély módosítás jogerőre emelkedése napján válhat hatályossá.
+(3) A kapacitás, illetve az ahhoz kapcsolódó ellátási terület megállapítása, illetve módosítása esetén a finanszírozási szerződés megköthető, illetve módosítható a még nem jogerős határozat, illetve működési engedély módosítás alapján is, azzal, hogy a finanszírozási szerződés, illetve annak módosítása leghamarabb a határozat, illetve a működési engedély módosítás jogerőre emelkedése napján válhat hatályossá.
