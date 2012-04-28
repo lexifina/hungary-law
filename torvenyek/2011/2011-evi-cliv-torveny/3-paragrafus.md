@@ -1,6 +1,6 @@
 3. § (1) Az e törvény alapján állami tulajdonba kerülő vagyon vagyonkezelője az állami tulajdon keletkezésével egyidejűleg e törvény erejénél fogva:
 
-a) a megyei önkormányzatoktól, valamint a Fővárosi Önkormányzattól átkerülő egészségügyi intézmények vonatkozásában a kijelölt szerv,
+a)
 
 b) az egyéb átvett intézmények vagyona tekintetében a Kormány által rendeletben kijelölt szerv.
 

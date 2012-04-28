@@ -2,35 +2,39 @@
 
 7. § (1) A tulajdonjog és a fenntartói jog átszállása nem érinti az egészségügyi szolgáltató területi ellátási kötelezettségét, a meglévő lekötött kapacitásai mértékét és szakmai összetételét, valamint az érvényes finanszírozási szerződése szerinti finanszírozásra való jogosultságát.
 
-(2) Az egészségügyi szakellátási kötelezettség állam általi átvételére tekintettel – a 18. § (2) bekezdése szerinti kormányrendeletben meghatározott eljárásban – az egészségügyi államigazgatási szerv 2012. március 31-éig 2012. május 1-jei hatálybalépéssel – a Kormány által kijelölt szerv szakértői véleményének figyelembevételével – meghatározza az e törvény hatálybalépésekor érvényes finanszírozási szerződéssel rendelkező, fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatók
+(2) Az egészségügyi szakellátási kötelezettség állam általi átvételére tekintettel – a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott eljárásban – az egészségügyi államigazgatási szerv 2012. július 1-jei hatálybalépéssel – a Kormány által kijelölt szerv szakértői véleményének figyelembevételével – dönt
 
-a) fekvőbeteg-szakellátási kapacitásait az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Eftv.) 4/A. § (3) bekezdésében,
+a) az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Eftv.) szerinti fekvőbeteg-szakellátási kapacitásoknak az Eftv. 4/A. § (3) bekezdésében,
 
-b) az a) pont szerinti kapacitásokhoz kapcsolódó ellátási területet a (3) bekezdésben
+b) az a) pontban meghatározott kapacitásokhoz kapcsolódó Eftv. szerinti ellátási területeknek a (3) bekezdésben
 
-foglalt szempontok alapján, azzal, hogy a döntés nem érintheti hátrányosan az uniós és a hazai pályázatokkal összefüggésben vállalt beruházási és fenntartási kötelezettségeket, valamint az ezekhez kapcsolódó, előzetesen befogadott többletkapacitásokat.
+foglalt szempontok alapján történő felosztásáról azzal, hogy az eljárások során hozott döntések együttesen nem haladhatják meg a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott kapacitásmennyiséget, továbbá nem érinthetik hátrányosan az uniós és a hazai pályázatokkal összefüggésben vállalt beruházási és fenntartási kötelezettségeket, valamint az ezekhez kapcsolódó, előzetesen befogadott többletkapacitásokat.
 
 (3) Az ellátási területeket az érintett egészségügyi szolgáltatók számára a (2) bekezdés szerinti eljárás során – az Eftv. 5/A. § (2) és (10) bekezdésében foglaltak figyelembevételével –
 
 a) azoknak az eseteknek a kivételével, amikor szakmai szempontból indokolatlan az ellátási területnek az adott szakmához tartozóan valamennyi progresszivitási szinten történő megállapítása, az aktív fekvőbeteg-szakellátások tekintetében a külön jogszabály szerinti progresszivitási szintenként külön-külön,
 
-b) a 18. § (2) bekezdése szerinti kormányrendeletben meghatározott ellátások kivételével az Eftv. végrehajtására kiadott kormányrendelet szerinti fekvőbeteg-szakellátásban finanszírozható szakmánként,
+b) a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott ellátások kivételével az Eftv. végrehajtására kiadott kormányrendelet szerinti fekvőbeteg-szakellátásban finanszírozható szakmánként,
 
-c) az Eftv. 5/A. § (9) bekezdés b) pontja szerinti eset, valamint a 18. § (2) bekezdése szerinti kormányrendeletben meghatározott ellátások kivételével átfedésmentesen,
+c) az Eftv. 5/A. § (9) bekezdés b) pontja szerinti eset, valamint a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott ellátások kivételével átfedésmentesen,
 
 d) hézagmentesen,
 
-e) a rehabilitációs szakellátások, valamint az egyes egészségügyi szolgáltatók által szakmai specialitások alapján több térségre kiterjedően nyújtott, országosan kiemelt ellátások kivételével az Eftv. 1. § (2) bekezdés g) pontja szerinti egészségügyi térség határainak figyelembevételével,
+e) a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott esetek kivételével az Eftv. 1. § (2) bekezdés g) pontja szerinti egészségügyi térség határainak figyelembevételével,
 
 f) aktív fekvőbeteg-szakellátások tekintetében a progresszivitás alapszintjén az Eftv. 4/A. § (4) és (6) bekezdésében foglalt elérési szabályok figyelembevételével,
 
 g) a szolgáltató rendelkezésére álló kapacitás, valamint a szolgáltató által ellátott terület közötti arányoknak az adott szakma országos átlagához viszonyított aránya figyelembevételével, és
 
-h) az aktív fekvőbeteg-szakellátások tekintetében a magasabb progresszivitási szintű ellátást nyújtó szolgáltatók esetén a progresszivitási szintekre jutó kapacitások arányainak és az egyes progresszivitási szinteken végzett beavatkozások tárgyévet megelőző év betegforgalom szerinti arányainak figyelembevételével kell meghatározni.
+h)
 
-(4) Amennyiben az Eftv. 5/A. § (7) bekezdése szerinti nyilvántartás nem tartalmazza valamely finanszírozási szerződéssel rendelkező egészségügyi szolgáltató járóbeteg-szakellátási kapacitásaira, illetve az ahhoz kapcsolódó ellátási területekre vonatkozóan a törvény által előírt adatokat, az egészségügyi államigazgatási szerv 2012. március 31-éig köteles azt a rendelkezésre álló adatok alapján pótolni. Ha valamely adat azért hiányzik a nyilvántartásból, mert az érintett egészségügyi szolgáltató járóbeteg-szakellátási kapacitásai, illetve az azokhoz kapcsolódó ellátási területek nem kerültek megállapításra, az egészségügyi államigazgatási szerv – az Eftv. 5/A. § (2)–(6), (9) és (10) bekezdésében foglaltak, valamint a Kormány által kijelölt szerv szakértői véleményének figyelembevételével – 2012. március 31-éig hivatalból megállapítja a kapacitást, illetve az ellátási területet, és a megállapított adatokat átvezeti a nyilvántartáson.
+(3a) A 15. § (2) bekezdése szerinti kormányrendeletben meghatározott esetekben nem kell ellátási területet megállapítani.
+
+(4) Amennyiben az Eftv. 5/A. § (7) bekezdése szerinti nyilvántartás nem tartalmazza valamely finanszírozási szerződéssel rendelkező egészségügyi szolgáltató járóbeteg-szakellátási kapacitásaira, illetve az ahhoz kapcsolódó ellátási területekre vonatkozóan a törvény által előírt adatokat, az egészségügyi államigazgatási szerv 2012. augusztus 31-éig köteles azt a rendelkezésre álló adatok alapján pótolni. Ha valamely adat azért hiányzik a nyilvántartásból, mert az érintett egészségügyi szolgáltató járóbeteg-szakellátási kapacitásai, illetve az azokhoz kapcsolódó ellátási területek nem kerültek megállapításra, az egészségügyi államigazgatási szerv – az Eftv. 5/A. § (2)–(6), (9) és (10) bekezdésében foglaltak, valamint a Kormány által kijelölt szerv szakértői véleményének figyelembevételével – 2012. augusztus 31-éig hivatalból megállapítja a kapacitást, illetve az ellátási területet, és a megállapított adatokat átvezeti a nyilvántartáson.
 
 (5) A (2)–(4) bekezdés alapján a kapacitást és az ellátási területet megállapító határozatok ellen fellebbezésnek nincs helye, azok hatálybalépésével egyidejűleg az adott szolgáltatók kapacitásai és ellátási területei tárgyában korábban hozott határozatok hatályukat vesztik. Az egészségügyi szolgáltatók kapacitásainak és ellátási területeinek az Eftv. 5/A. § (7) bekezdése szerinti nyilvántartását a határozatok hatálybalépésével egyidejűleg módosítani kell.
+
+(5a) A szolgáltatók kapacitásai és ellátási területei tárgyában korábban hozott és az (5) bekezdés alapján hatályukat vesztett határozatokhoz kapcsolódó, folyamatban lévő hatósági és bírósági eljárásokat meg kell szüntetni.
 
 (6) A (2)–(5) bekezdésben meghatározott feladatok ellátásához szükséges adatokat az egészségügyi államigazgatási szerv megkeresésére az egészségbiztosító a megkeresésétől számított 5 napon belül az egészségügyi államigazgatási szerv rendelkezésére bocsátja.
 

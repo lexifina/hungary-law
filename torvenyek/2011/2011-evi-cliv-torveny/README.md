@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-154-00-00
 | 2011-12-31 | 2011. évi CXCVI. törvény | 2011-154-00-00.4 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2011-154-00-00.5 |
 | 2012-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-154-00-00.6 |
+| 2012-04-28 | 2012. évi XXXVIII. törvény | 2011-154-00-00.7 |

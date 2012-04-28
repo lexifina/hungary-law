@@ -1,0 +1,1 @@
+17/A. § A 14. § (6a) bekezdésében foglaltakat a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény hatálybalépésekor folyamatban lévő pályázati eljárások alapján létesülő jogviszonyokra is alkalmazni kell.

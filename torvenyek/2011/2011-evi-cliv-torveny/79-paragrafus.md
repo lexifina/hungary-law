@@ -1,3 +1,5 @@
-79. § (1) Az e törvénnyel módosított egészségügyről szóló 1997. évi CLIV. törvény 141. § (3) bekezdés l) pontja szerinti felelősség a Magyar Államot a települési önkormányzat tulajdonában vagy fenntartásában lévő fekvőbeteg-szakellátást és járóbeteg-szakellátást végző egészségügyi szolgáltatások vonatkozásában 2013. január 1-jétől terheli.
+79. § (1) Az egészségügyi szakellátási kötelezettség a Magyar Államot a települési önkormányzat tulajdonában és fenntartásában lévő, járóbeteg-szakellátást nyújtó egészségügyi szolgáltató által végzett járóbeteg-szakellátások, illetve a települési önkormányzat tulajdonában lévő, járóbeteg-szakellátási feladatok ellátására szolgáló vagyonhoz kapcsolódó járóbeteg-szakellátások vonatkozásában 2013. január 1-jétől terheli.
 
-(2) A megszüntetett Regionális Egészségügyi Tanács a működésével kapcsolatos iratait e törvény hatálybalépésétől számított 15 napon belül átadja az egészségügyi államigazgatási szervnek.
+(2)
+
+(3) A 7. §-nak, 8. §-nak és a 15. §-nak a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény általi módosításait a 7. § (2) bekezdése alapján indult és folyamatban lévő eljárásokra is alkalmazni kell.

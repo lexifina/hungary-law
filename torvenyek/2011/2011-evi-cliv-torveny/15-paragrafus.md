@@ -30,8 +30,8 @@ ab) az ellátási területek meghatározásának, módosításának
 
 az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvényben meghatározott szabályoktól eltérő eljárási szabályait,
 
-b) azoknak az ellátásoknak a körét, amelyek vonatkozásában az ellátási terület megállapítása során az átfedésmentesség, illetve a szakmánkénti megállapítás követelményét nem kell figyelembe venni,
+b) azoknak az ellátásoknak a körét, amelyek vonatkozásában nem kell ellátási területet megállapítani, illetve az ellátási terület megállapítása során a szakmánkénti megállapítás követelményét, továbbá a térséghatárokat nem kell figyelembe venni,
 
 c) a kapacitásoknak és az ellátási területeknek az a) pont szerinti eljárásokban történő meghatározására kijelölt államigazgatási szervet és az ezekben az eljárásokban véleményadásra jogosult szakértői szervet.
 
-(3) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben jelölje ki az e törvény szerint vagyonkezelői joggal rendelkező központi államigazgatási szervet.
+(3)
