@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-87-00-00
 | 2012-01-01 | 2011. évi CLXXIX. törvény | 2010-87-00-00.6 |
 | 2012-03-01 | 2012. évi V. törvény | 2010-87-00-00.7 |
 | 2012-04-14 | 2012. évi XVIII. törvény | 2010-87-00-00.8 |
+| 2012-04-28 | 2012. évi XXXVIII. törvény | 2010-87-00-00.9 |
