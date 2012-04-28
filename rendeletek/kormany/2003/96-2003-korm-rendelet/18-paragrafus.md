@@ -1,6 +1,6 @@
 ## Az egészségügyi szolgáltató tevékenységének szüneteltetése és felfüggesztése
 
-18. §[^50] (1) Az egészségügyi közszolgáltatást végző szolgáltató a működési engedélyében szereplő bármely egészségügyi szolgáltatás ellátását a közszolgáltatásért felelős szerv hozzájárulásával szüneteltetheti. A szüneteltetést legalább nyolc nappal korábban be kell jelenteni az engedélyező egészségügyi államigazgatási szervnek, megjelölve a szünetelő szervezeti egység helyett egészségügyi szolgáltatást nyújtó szervezeti egységet annak azonosító kódjának feltüntetésével. Amennyiben a szünetelést bejelentő egészségügyi szolgáltatónál nincs az adott szakmában más szervezeti egység, az egészségügyi szolgáltató más egészségügyi szolgáltatóval megállapodik a helyette történő egészségügyi szolgáltatásról. A szünetelésről szóló bejelentéshez csatolni kell a közszolgáltatásért felelős szerv hozzájárulását, valamint a megállapodást. A szüneteléssel kapcsolatban nem kell módosítani a működési engedélyt.
+18. §[^52] (1) Az egészségügyi közszolgáltatást végző szolgáltató a működési engedélyében szereplő bármely egészségügyi szolgáltatás ellátását a közszolgáltatásért felelős szerv hozzájárulásával szüneteltetheti. A szüneteltetést legalább nyolc nappal korábban be kell jelenteni az engedélyező egészségügyi államigazgatási szervnek, megjelölve a szünetelő szervezeti egység helyett egészségügyi szolgáltatást nyújtó szervezeti egységet annak azonosító kódjának feltüntetésével. Amennyiben a szünetelést bejelentő egészségügyi szolgáltatónál nincs az adott szakmában más szervezeti egység, az egészségügyi szolgáltató más egészségügyi szolgáltatóval megállapodik a helyette történő egészségügyi szolgáltatásról. A szünetelésről szóló bejelentéshez csatolni kell a közszolgáltatásért felelős szerv hozzájárulását, valamint a megállapodást. A szüneteléssel kapcsolatban nem kell módosítani a működési engedélyt.
 
 (2) Amennyiben a szünetelést bejelentő szolgáltató nem csatolja a szünetelés bejelentéséhez az (1) bekezdés szerinti megállapodást, az egészségügyi államigazgatási szerv dönt az egészségügyi szolgáltatás nyújtását átmenetileg végző szolgáltató kijelöléséről.
 
@@ -12,4 +12,4 @@
 
 (6) A bejelentésben meg kell jelölni a szüneteltetés okát, a kezdő és a várható befejezés időpontját. Az egészségügyi szolgáltatás újbóli megkezdését be kell jelenteni az egészségügyi államigazgatási szervnek, amennyiben ez eltér az előzetes bejelentésben feltüntetett időponttól.
 
-[^50]: A 18. § a 325/2011. (XII. 28.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^52]: A 18. § a 325/2011. (XII. 28.) Korm. rendelet 43. §-ával megállapított szöveg.
