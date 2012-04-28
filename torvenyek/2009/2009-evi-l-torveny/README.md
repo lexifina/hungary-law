@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-50-00-00
 | 2011-07-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-50-00-00.11 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2009-50-00-00.12 |
 | 2012-03-15 | 2011. évi CLXXX. törvény | 2009-50-00-00.13 |
+| 2012-04-28 | 2012. évi XXXVIII. törvény | 2009-50-00-00.14 |
