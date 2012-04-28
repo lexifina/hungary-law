@@ -30,4 +30,4 @@ b) a kilépő községi, városi önkormányzatra száll, amennyiben az adott fe
 
 (11) A (10) bekezdésben meghatározott kérdésekben a társulási tanács határoz.
 
-(12)
+(12) A többcélú kistérségi társulás az ellátott feladatai tekintetében a 81. §-ban meghatározottak szerint közoktatási megállapodást is köthet.
