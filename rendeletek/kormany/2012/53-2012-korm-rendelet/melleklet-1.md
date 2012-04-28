@@ -1,4 +1,4 @@
-## 49. §[^2]
+## 49. §[^4]
 
 1. melléklet az 53/2012. (III. 28.) Korm. rendelethez
 
@@ -80,4 +80,4 @@
 
 4.6. a koncesszióköteles geotermikus energia kinyerésének és energetikai célú hasznosításának építményei az erőművi berendezések kivételével.
 
-[^2]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
