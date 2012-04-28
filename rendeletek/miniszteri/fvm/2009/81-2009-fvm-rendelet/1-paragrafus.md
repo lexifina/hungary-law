@@ -12,12 +12,13 @@ c) az 1698/2005/EK tanácsi rendelet szerinti
 
 ca)[^2] mezőgazdasági földterületek fenntartható használatát célzó intézkedések közül a hegyvidéki területeken kívüli hátrányos helyzetű területek mezőgazdasági termelőinek nyújtott kifizetések, a Natura 2000 kifizetések és a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK tanácsi irányelvhez kapcsolódó kifizetések, az agrár-környezetvédelmi kifizetések és az állatjóléti kifizetések, a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták genetikai állományának tenyésztésben történő megőrzésére nyújtandó támogatások, a növényi genetikai erőforrások megőrzéséhez nyújtandó támogatás,
 
-cb) az erdészeti földterületek fenntartható használatát célzó intézkedések közül a mezőgazdasági földterület első erdősítésének támogatása és az erdő-környezetvédelmi kifizetések;
+cb)[^3] az erdészeti földterületek fenntartható használatát célzó intézkedések közül a mezőgazdasági földterület első erdősítésének támogatása, erdő-környezetvédelmi kifizetések, és Natura 2000 kifizetések;
 
-d)[^3] minden egyéb támogatás, amelyekre vonatkozóan az adott támogatás részletes feltételeit meghatározó jogszabály az e rendelet szerinti előírások alkalmazását írja elő.
+d)[^4] minden egyéb támogatás, amelyekre vonatkozóan az adott támogatás részletes feltételeit meghatározó jogszabály az e rendelet szerinti előírások alkalmazását írja elő.
 
 (3) A (2) bekezdés c) pontjában meghatározott kölcsönös megfeleltetési ellenőrzések végrehajtása során a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló 2006. december 7-i 1975/2006/EK bizottsági rendelet 23. cikkének 2. bekezdésében foglaltak esetében is a jogkövetkezmény mértékének megállapítását az e rendeletben foglaltak szerint kell elvégezni.
 
 [^1]: Az 1. § (2) bekezdése az 55/2010. (V. 6.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdés c) pont ca) alpontja a 32/2011. (IV. 28.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (2) bekezdés d) pontját a 32/2011. (IV. 28.) VM rendelet 1. § (2) bekezdése iktatta be.
+[^3]: Az 1. § (2) bekezdés c) pont cb) alpontja a 41/2012. (IV. 27.) VM rendelet 13. §-ával megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés d) pontját a 32/2011. (IV. 28.) VM rendelet 1. § (2) bekezdése iktatta be.

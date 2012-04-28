@@ -266,7 +266,7 @@
 
 ## Maradandó: a szennyezés hatására maradandó károsodás keletkezett a környezetben.
 
-2. számú melléklet a 81/2009. (VII. 10.) FVM rendelethez[^20]
+2. számú melléklet a 81/2009. (VII. 10.) FVM rendelethez[^21]
 
 ## A jogkövetkezmény mértékének számítási alapjai
 
@@ -322,4 +322,4 @@
 
 | 5 | 5 | 5 | 100% |
 
-[^20]: A 2. számú melléklet az 55/2010. (V. 6.) FVM rendelet 2. § (10) bekezdése szerint módosított szöveg.
+[^21]: A 2. számú melléklet az 55/2010. (V. 6.) FVM rendelet 2. § (10) bekezdése szerint módosított szöveg.
