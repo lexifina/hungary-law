@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-32-20-2
 | --- | --- | --- |
 | 2012-04-03 | 2012-32-20-2Y.1 | 32/2012. (IV. 2.) VM rendelet |
 | 2012-04-04 | 2012-32-20-2Y.2 | 2010: CXXX. törvény |
+| 2012-04-28 | 2012-32-20-2Y.3 | 39/2012. (IV. 27.) VM rendelet |
