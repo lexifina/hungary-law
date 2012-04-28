@@ -16,8 +16,8 @@
 
 ## (1a) Az Esztergom Város Önkormányzatától átvett nem egészségügyi intézményekkel, valamint az ágazati jogszabályok által meghatározott szakmai feladatokkal összefüggésben folyamatban lévő ügyek tekintetében 2012. január 1-jétől a Komárom-Esztergom Megyei Intézményfenntartó Központ jár el.”
 
-(4)[^1]
+(4)[^2]
 
 (5) Nem lép hatályba az R1. 43. § (2) bekezdése.
 
-[^1]: A 12. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 12. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
