@@ -58,4 +58,4 @@ cc) a jogi személy szervezeti egység ügyintéző és képviseleti szervének 
 
 (4) A nyilvántartás alapítvány esetén – a (3) bekezdésben foglalt adatokon túlmenően – szükség szerint tartalmazza állami alapító által alapított alapítvány (közalapítvány), illetve állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítvány (közalapítvány) esetén a kezelő szervezetbe az állami alapító részéről jelölt tag vagy tagok nevét is.
 
-(5) A nyilvántartás szervezet esetén szükség szerint tartalmazza a szövetségét létrehozó szervezetek nevét, székhelyét, nyilvántartási számát.
+(5) A nyilvántartás szövetség esetén tartalmazza a tagok nevét, székhelyét, nyilvántartási számát.
