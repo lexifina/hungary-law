@@ -136,7 +136,7 @@ fb) 31. § (2) bekezdése,
 
 fc) 35. § (2) bekezdése,
 
-g)[^36]
+g)[^36] a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény 2. § (9) bekezdése,
 
 h) az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 23. §-ának (1) bekezdése,
 
@@ -189,7 +189,7 @@ cb) 24. § e) és f) pontja
 [^33]: A 12. § (5) bekezdés c) pont ca)–ce) alpontját a 73/2011. (IV. 29.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.
 [^34]: A 12. § (5) bekezdés c) pont cg) alpontját a 73/2011. (IV. 29.) Korm. rendelet 17. § (1) bekezdés e) pontja hatályon kívül helyezte.
 [^35]: A 12. § (5) bekezdés c) pont ck) alpontját a 377/2011. (XII. 31.) Korm. rendelet 15. §-a hatályon kívül helyezte.
-[^36]: A 12. § (5) bekezdés g) pontját a 325/2011. (XII. 28.) Korm. rendelet 87. § c) pontja hatályon kívül helyezte.
+[^36]: A 12. § (5) bekezdés g) pontját a 325/2011. (XII. 28.) Korm. rendelet 87. § c) pontja hatályon kívül helyezte, újonnan a 92/2012. (IV. 27.) Korm. rendelet 31. §-a iktatta be.
 [^37]: A 12. § (5) bekezdés i) pontját a 325/2011. (XII. 28.) Korm. rendelet 87. § d) pontja hatályon kívül helyezte.
 [^38]: A 12. § (5) bekezdés k) pontját a 325/2011. (XII. 28.) Korm. rendelet 80. § (5) bekezdése iktatta be.
 [^39]: A 12. § (6) bekezdés e) pontját a 325/2011. (XII. 28.) Korm. rendelet 87. § e) pontja hatályon kívül helyezte.
