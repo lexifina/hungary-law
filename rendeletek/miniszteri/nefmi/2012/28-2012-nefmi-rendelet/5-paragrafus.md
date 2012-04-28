@@ -1,0 +1,15 @@
+## 3. Szakközépiskola tizenegy–tizenkettedik évfolyamán az iskolai gyakorlati oktatás támogatása
+
+5. § (1) A Kvt. 5. melléklet 11. pont d) alpont dc) alpontja szerinti támogatást (a továbbiakban: gyakorlati oktatás támogatása) a fenntartó a 2011/2012. tanév január 1-jétől június 30-áig és a 2012/2013. tanév szeptember 1-jétől december 31-éig tartó naptári hónapjaira a szakközépiskolákban vagy szakközépiskolai tevékenységet ellátó intézményegységben nappali rendszerű iskolai oktatásban részt vevő azon tanulók után igényelheti, akik a tizenegy–tizenkettedik évfolyamon szervezett szakmai orientáció és szakmacsoportos gyakorlati oktatásban részt vesznek.
+
+(2) A gyakorlati oktatás támogatása elosztásának alapja az (1) bekezdésben meghatározott intézményben, intézményegységben a szakközépiskola pedagógiai programjában meghatározott, a tizenegy–tizenkettedik évfolyamon nappali rendszerű iskolai oktatásban részt vevő tanulók számára legfeljebb 12 fős csoportban, legalább heti négy órában szervezett szakmai orientáció és szakmacsoportos gyakorlati oktatásban részt vevő, a 2011/2012. tanévre és a 2012/2013. tanévre beiratkozott, 2012. február 15-én, valamint 2012. szeptember 15-én tanulói jogviszonyban állók létszáma. Ha a kilencedik évfolyamon nyelvi előkészítő oktatás vagy két tanítási nyelvű oktatás folyik, a 6. mellékletben foglaltaknak megfelelően a szakközépiskola tizenkettedik–tizenharmadik évfolyamán tanulók gyakorlati oktatásához igényelhető a gyakorlati oktatás támogatása, abban az esetben, ha az (1) bekezdésben meghatározott intézmény, intézményegység pedagógia programja az évfolyamok számozásánál erre kitér.
+
+(3) A gyakorlati oktatás támogatásának egy tanulóra, egy hónapra jutó összege nem haladhatja meg az 1000 Ft-ot.
+
+(4) A támogatási kérelem kizárólag abban az esetben nyújtható be, ha a pedagógiai programban meghatározott szakképzési évfolyamok száma a hatályos Országos Képzési Jegyzékben előírt évfolyamoknál eggyel kevesebb, tehát a szakközépiskolák kilenc–tizenkettedik évfolyamain, illetve ahol a kilencedik évfolyamon nyelvi előkészítő oktatás vagy két tanítási nyelvű oktatás folyik, a kilencedik–tizenharmadik évfolyamain – a Kvt. 3. melléklet 16. pont a) alpont aa) alpontjában foglaltakra is tekintettel – végrehajtott szakmacsoportos alapozás, szakmai orientáció és szakmacsoportos gyakorlati oktatás a szakmai képzés idejébe a szakképzésről szóló 2011. évi CLXXXVII. törvény 27. § (1) bekezdése alapján beszámításra kerül.
+
+(5) A gyakorlati oktatás támogatása
+
+a) a szakmai orientációhoz és a szakmacsoportos gyakorlati oktatáshoz kapcsolódó működési jellegű kiadások (személyi juttatások és munkaadókat terhelő járulékok, dologi kiadások, egyéb működési célú kiadások) fedezésére és
+
+b) a gyakorlati tudáselemek (kompetenciák), a tanulói képességek fejlesztését szolgáló, továbbá új vagy a korábbinál műszaki, technikai szempontból korszerűbb tárgyi eszközök létrehozására irányuló, illetve a nyilvántartásukban már szereplő tárgyi eszközök műszaki, technikai paramétereinek korszerűsítését megvalósító felújításhoz, fejlesztéshez
