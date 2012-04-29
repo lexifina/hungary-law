@@ -1,3 +1,6 @@
-7. § (1) Az ellenőrzés során az üzemben tartó képviseletére a külföldi polgári légijármű parancsnoka, annak távollétében a külföldi polgári légijármű személyzetének tagja vagy az üzemben tartó képviselője (a továbbiakban együtt: képviselő) jogosult.
+7. § (1)[^11] Az ellenőrzés során az üzemben tartó képviseletére a légijármű parancsnoka, annak távollétében a légijármű személyzetének tagja vagy az üzemben tartó képviselője (a továbbiakban együtt: képviselő) jogosult.
 
-(2) Ha a képviselőt nem sikerül értesíteni, a képviselő nincs jelen a külföldi polgári légijármű fedélzetén vagy annak közelében, akkor az ellenőrzést el kell halasztani, és az ellenőrzést egy későbbi időpontban kell végrehajtani. A külföldi polgári légijármű külső szemrevételezése a képviselő hiányában is elvégezhető.
+(2)[^12] A földi ellenőrzés fedélzeten való megkezdését megelőzően az ellenőrök kötelesek igazolni magukat a légijármű parancsnoka vagy annak távollétében a repülőszemélyzet egy tagja vagy az üzemben tartó rangidős képviselője előtt. Ha az ellenőröknek nem áll módjukban értesíteni az üzemben tartó képviselőjét vagy ilyen képviselő nincs jelen a légijármű fedélzetén vagy közelében, akkor a földi ellenőrzést el kell halasztani, és egy későbbi időpontban kell végrehajtani. Indokolt esetben az ellenőrök dönthetnek a földi ellenőrzés elvégzése mellett, de ez csak a légijármű külső szemrevételezésére korlátozódhat.
+
+[^11]: A 7. § (1) bekezdése a 18/2012. (IV. 21.) NFM rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^12]: A 7. § (2) bekezdése a 18/2012. (IV. 21.) NFM rendelet 6. §-ával megállapított szöveg.

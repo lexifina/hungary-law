@@ -1,18 +1,23 @@
-## 1. §[^1] A rendelet hatálya a Magyarország területén lévő repülőteret – az állami repülések céljára szolgáló, valamint a közös felhasználású katonai és polgári repülőtér kivételével – használó külföldi polgári légijárműre terjed ki.
-
 ## Értelmező rendelkezések
 
-## 2. § E rendelet alkalmazásában
+## 2. §[^3] E rendelet alkalmazásában
 
-1. SAFA (Safety Assessment of Foreign Aircraft): harmadik ország polgári légijárműveinek biztonsági ellenőrzése és értékelése,
+1. földi ellenőrzés: a légiközlekedési hatóság által a SAFA eljárás keretében végzett, harmadik ország polgári légijárműveinek földi biztonsági ellenőrzése és értékelése,
 
-2. ICAO szabvány: a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény Függelékeinek kihirdetéséről szóló 2007. évi XLVI. törvény mellékleteként kihirdetett, a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény Függelékeiben szereplő követelmények,
+2. harmadik ország polgári légijárműve: olyan külföldi polgári légijármű, amelynek üzemben tartását nem valamely tagállam légiközlekedési hatósága felügyeli,
 
-3.[^2] külföldi polgári légijármű: olyan polgári légijármű, amely nem szerepel Magyarország Állami Légijármű Lajstromában, és az adott légijárműre vonatkozó megállapodás keretében – teljes egészében vagy részben – nem ruházták át a lajstromozó állam funkcióit, valamint tennivalóit a Nemzeti Közlekedési Hatóságra (a továbbiakban: NKH), vagy szerepel Magyarország Állami Légijármű Lajstromában, és az adott légijárműre vonatkozó megállapodás keretében – teljes egészében vagy részben – másik országra ruházta át a lajstromozó állam funkcióit, valamint tennivalóit az NKH,
+3. ICAO szabványok: a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény Függelékeinek kihirdetéséről szóló 2007. évi XLVI. törvény mellékleteként kihirdetett, a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény Függelékeiben szereplő követelmények,
 
-4. Ügynökség: az Európai Repülésbiztonsági Ügynökség (EASA),
+4. külföldi polgári légijármű: olyan polgári légijármű, amelynek üzemben tartását valamely külföldi állam légközlekedési hatósága felügyeli,
 
-5. ellenőrzés: az NKH Légiközlekedési Igazgatósága (a továbbiakban: Légiközlekedési Igazgatóság) által a SAFA keretében végzett, a külföldi polgári légijármű földi biztonsági ellenőrzése és értékelése.
+5. repülés megtiltása: a repülőtér elhagyásának hivatalos megtiltása valamely légijármű számára és szükség esetén intézkedések megtétele a repülőtér elhagyásának megakadályozása érdekében,
 
-[^1]: Az 1. § a 91/2011. (XII. 30.) NFM rendelet 66. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § 3. pontja a 91/2011. (XII. 30.) NFM rendelet 66. § b) pontja szerint módosított szöveg.
+6. SAFA (Safety Assessment of Foreign Aircraft): harmadik ország polgári légijárműveinek földi biztonsági ellenőrzése és értékelése,
+
+7. szabványok: az ICAO szabványok és az ICAO Európai Regionális Kiegészítő Eljárások (ICAO European Regional Supplementary Procedures),
+
+8. tagállam: az Európai Gazdasági Térségről szóló megállapodásban részes állam,
+
+9. Ügynökség: az Európai Repülésbiztonsági Ügynökség (EASA).
+
+[^3]: A 2. § a 18/2012. (IV. 21.) NFM rendelet 2. §-ával megállapított szöveg.
