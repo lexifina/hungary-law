@@ -1,1 +1,0 @@
-48. § Hatályát veszti a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény 6. § (3) bekezdésében a „Nemzeti Együttműködési Alap tanácsa és kollégiumai, valamint a” és az „illetve ezek önálló jogi személyiséggel rendelkező szervezeti egysége, illetve a Nemzeti Kulturális Alap tekintetében az előzőek mellett olyan” szövegrész.
