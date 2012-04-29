@@ -1,7 +1,3 @@
-## 20. § A Vr. a következő 17/A. §-sal egészül ki:
+## 20. §[^19]
 
-## „17/A. § A települési önkormányzatok egészségügyi intézményei átvételének részletes szabályairól és egyes egészségügyi tárgyú kormányrendeletek módosításáról szóló 92/2012. (IV. 27.) Korm. rendelettel megállapított 2. § h) pontja szerinti országos várólista nyilvántartás létrehozása érdekében az egészségügyi szolgáltatók 2012. június 10-éig megküldik az országos várólista nyilvántartást vezető szerv részére az adott ellátás tekintetében intézményi várólistán szereplő betegek adatait. Amennyiben a beérkezett adatok alapján az országos várólista nyilvántartást vezető szerv megállapítja, hogy ugyanaz a beteg ugyanazon ellátás tekintetében egyidejűleg több intézményi várólistán is szerepel, 2012. június 15-éig felhívja a legkésőbbi bejelentkezés szerinti intézményi várólista vezetéséért felelős személyt arra, hogy 5 napon belül tájékoztassa az érintett beteget az intézményi várólisták közötti választás lehetőségéről és a határidőn belüli választás elmulasztásának következményeiről. Amennyiben a beteg a tájékoztatástól számított 10 napon belül nem választ intézményi várólistát, a legkésőbbi bejelentkezési időpontot és várólistát kell figyelembe venni.”
-
-21. § (1) A Vr. 6. számú melléklete helyébe a 2. melléklet lép.
-
-(2) A Vr. a 3. melléklet szerinti 8. számú melléklettel egészül ki.
+[^19]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,4 +1,4 @@
-## 42. § Hatályát veszti a megyei önkormányzat egészségügyi intézményei és a Fővárosi Önkormányzat egészségügyi intézményei átvételének részletes szabályairól szóló 372/2011. (XII. 31.) Korm. rendelet 3. § (6) bekezdése.
+## 42. §[^44]
 
 ## 15. Záró rendelkezések
 
@@ -9,3 +9,5 @@
 (3) A 11–13. §, a 15–19. §, a 24. § (4) bekezdése és a 30. § 2012. július 1-jén lép hatályba.
 
 (4) Ez a rendelet 2013. január 1-jén hatályát veszti.
+
+[^44]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

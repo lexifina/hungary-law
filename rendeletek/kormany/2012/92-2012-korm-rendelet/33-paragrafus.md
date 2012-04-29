@@ -1,7 +1,3 @@
-## 32. § A Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetről szóló 59/2011. (IV. 12.) Korm. rendelet (a továbbiakban: R.) 2. § m) és n) pontja helyébe a következő rendelkezések lépnek:
+## 32. §[^34]
 
-## (A GYEMSZI feladatkörében – a miniszter egészségüggyel és egészségbiztosítással összefüggő ágazati feladatai keretében – a külön jogszabályokban meghatározottak szerint)
-
-## „m) gyakorolja a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: MÖKtv.), a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény (a továbbiakban: Ttv.) alapján az állam fenntartásába, illetve tulajdonába került egészségügyi intézmények, továbbá az országos gyógyintézetek felett az egyes fenntartói, valamint a hatáskörébe tartozó költségvetési szervek tekintetében a középirányítói jogokat, a gazdasági társaságok tekintetében a tagsági jogokat, valamint az alapítványok esetében az alapítói jogokat,
-
-## n) gyakorolja az Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló 2011. évi CLXXXVI. törvény alapján az állam fenntartásába, illetve tulajdonába került egészségügyi intézmény felett, továbbá az egészségügyért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató felett az egyes fenntartói, valamint a hatáskörébe tartozó költségvetési szervek tekintetében a középirányítói jogokat,”
+[^34]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

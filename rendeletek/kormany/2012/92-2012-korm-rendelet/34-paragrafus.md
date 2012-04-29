@@ -1,1 +1,3 @@
-## 33. § Az R. 2/A. §-ában az „a MÖKtv. alapján átvett egészségügyi intézmények és a gyógyító-megelőző ellátás országos szakintézetei” szövegrész helyébe az „a MÖKtv., illetve a Ttv. alapján átvett egészségügyi intézmények és az országos gyógyintézetek” szöveg lép.
+## 33. §[^35]
+
+[^35]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
