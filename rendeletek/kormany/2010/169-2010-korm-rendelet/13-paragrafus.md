@@ -42,7 +42,7 @@ p) értékeli a 72/2010/EU rendelet alapján a Bizottság által végzett ellen�
 
 q) a 185/2010/EU rendelet melléklet 1.2.2.2. b) pontjában megjelölt repülőszemélyzeti azonosító kártyát kiadja vagy kiadását a légitársaságnak engedélyezi,
 
-r)[^21] nemzeti légiközlekedés-védelmi határozatban (a továbbiakban: védelmi határozat) állapítja meg a 300/2008/EK rendelet 18. cikk a) pontjában említett információkat tartalmazó, a közös légiközlekedés védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló 2010/774/EU bizottsági határozat (a továbbiakban: 2010/774/EU bizottsági határozat) melléklet 8.1.1. pontja és 9.1.1. pontja alapján a 2010/774/EU bizottsági határozatban megjelölt átvizsgálások gyakoriságát,
+r)[^21]
 
 s)[^22] a nemzeti légiközlekedés védelmi programok és a 2010/774/EU bizottsági határozat alapján légiközlekedés védelmi határozatban állapítja meg a légiközlekedés védelmében közreműködő szervezetek védelmi feladatait,
 
@@ -52,6 +52,6 @@ t)[^23] a légijármű ellen elkövetett jogellenes cselekmény vagy erre vonatk
 [^18]: A 13. § f) pontja a 240/2011. (XI. 18.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^19]: A 13. § i) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^20]: A 13. § m) pont mb) alpontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés p) pontja szerint módosított szöveg.
-[^21]: A 13. § r) pontját az 53. § (3) bekezdése hatályon kívül helyezte 2012. április 29. napjával.
+[^21]: A 13. § r) pontját az 53. § (3) bekezdése hatályon kívül helyezte.
 [^22]: A 13. § s) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^23]: A 13. § t) pontját a 240/2011. (XI. 18.) Korm. rendelet 8. § (2) bekezdése iktatta be.
