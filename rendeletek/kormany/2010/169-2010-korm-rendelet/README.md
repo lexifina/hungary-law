@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-169-20-
 | 2012-01-01 | 2010-169-20-22.6 | 304/2011. (XII. 23.) Korm. rendelet |
 | 2012-03-01 | 2010-169-20-22.7 | 240/2011. (XI.18.) Korm. rendelet |
 | 2012-04-29 | 2010-169-20-22.8 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2012-04-30 | 2010-169-20-22.9 | Nemzeti Jogszabálytár (egységes szerkezet) |
