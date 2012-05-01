@@ -1,0 +1,17 @@
+1. § E törvény alkalmazásában
+
+a) fordulónap: a 2. §-ban meghatározott szolgáltatások vonatkozásában az a nap, amelyen a szolgáltatást központosított mobil értékesítésű szolgáltatásnak minősítő törvényi rendelkezés hatályba lép,
+
+b) igénybe vevő: az ügyfél vagy az a személy, akinek a részére az ügyfél a szolgáltatás igénybevételének jogát megvásárolta,
+
+c) mobil értékesítő vállalkozás: az a vállalkozás, amely a fordulónapot megelőzően a szolgáltatás mobil fizetési rendszeren keresztül történő értékesítését végzi,
+
+d) mobil fizetési rendszer: olyan rendszer, amelyben az ügyfél a szolgáltatást helyhez nem kötött módon, távközlési eszköz, digitális eszköz vagy más információtechnológiai eszköz segítségével elért elektronikus értékesítő rendszeren keresztül vásárolja meg,
+
+e) regisztrált ügyfél: olyan személy, aki vagy amely mobil értékesítő vállalkozással a 10. § (1) bekezdése szerinti átadás időpontjában központosított mobil értékesítésű szolgáltatás megvásárlására vonatkozó hatályos szerződéssel rendelkezik, vagy más olyan írásba foglalt szerződéses jogviszonyban áll, ami alapján már vásárolt központosított mobil értékesítésű szolgáltatást mobil fizetési rendszeren keresztül,
+
+f) szolgáltató: a központosított mobil értékesítésű szolgáltatást nyújtó vagy annak értékesítését végző szervezet,
+
+g) többségi befolyás: a nemzeti vagyonról szóló törvényben meghatározott forgalom,
+
+h) ügyfél: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, amely a nemzeti mobil fizetési szervezettel központosított mobil értékesítésű szolgáltatások megvásárlására irányuló szerződéses jogviszonyban áll.
