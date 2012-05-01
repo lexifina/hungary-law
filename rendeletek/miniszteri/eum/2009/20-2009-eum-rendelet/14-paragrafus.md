@@ -1,13 +1,18 @@
-14. § (1) Az OEK
+14. § (1)[^19] Az OEK
 
-a) működteti az egészségügyi ellátással kapcsolatos fertőzések és kórokozóik monitorozására szolgáló országos adatbázist (EFRIR NNSR),
+a) működteti az ÁNTSZ Országos Szakmai Információs Rendszerének (a továbbiakban: OSZIR) részét képező, az egészségügyi ellátással kapcsolatos fertőzések és kórokozóik monitorozására szolgáló országos adatbázist, az OSZIR Nemzeti Nosocomiális Surveillance Rendszert (a továbbiakban: OSZIR NNSR),
 
-b) működteti az országos mikrobiológiai adatbázist (Nemzeti Bakterológiai Surveillance),
+b) működteti az OSZIR részét képező, országos mikrobiológiai adatbázist,
 
-c) az a)–b) pontban foglalt adatbázisok alapján végzi a nemzetközi adatszolgáltatási kötelezettségét,
+c) működteti az OSZIR NNSR részét képező, az antimikrobiális szerek felhasználásának országos adatbázisát,
 
-d) kidolgozza az infekciókontrollal kapcsolatos standardokra és indikátorokra vonatkozó ajánlást,
+d) az a)–c) pontban foglalt adatbázisok alapján végzi a nemzetközi adatszolgáltatási kötelezettségét,
 
-e) az egészségügyi ellátással összefüggő fertőzések megelőzéséről módszertani leveleket dolgoz ki, amelyeket a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzétesz.
+e) kidolgozza az infekciókontrollal kapcsolatos standardokra és indikátorokra vonatkozó ajánlást,
 
-(2) Az (1) bekezdés a)–b) pontja szerinti adatbázisok eredményeit az OEK éves rendszerességgel a tárgyévet követő június 1-jéig hivatalos kiadványában és honlapján közzéteszi.
+f) az egészségügyi ellátással összefüggő fertőzések megelőzéséről módszertani leveleket dolgoz ki, amelyeket az egészségügyért felelős miniszter által vezetett minisztérium hivatalos lapjában közzétesz.
+
+(2)[^20] Az (1) bekezdés a)–c) pontja szerinti adatbázisok eredményeit az OEK éves rendszerességgel a tárgyévet követő június 1-jéig hivatalos kiadványában és honlapján közzéteszi.
+
+[^19]: A 14. § (1) bekezdése a 12/2012. (III. 6.) NEFMI rendelet 7. §-ával megállapított szöveg.
+[^20]: A 14. § (2) bekezdése a 12/2012. (III. 6.) NEFMI rendelet 11. § g) pontja szerint módosított szöveg.

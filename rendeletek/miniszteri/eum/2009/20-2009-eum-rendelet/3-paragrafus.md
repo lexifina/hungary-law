@@ -4,13 +4,13 @@
 
 a) surveillance:
 
-aa) nosocomiális surveillance,
+aa)[^5] egészségügyi ellátással összefüggő fertőzések surveillance-a,
 
 ab) mikrobiológiai surveillance,
 
 ac) antibiotikum rezisztencia surveillance,
 
-ad) antimikrobiális szerek felhasználásának és hasznosításának surveillance-e;
+ad)[^6] antimikrobiális szerek felhasználásának és hasznosításának surveillance-a;
 
 b) az egészségügyi ellátás folyamatainak – fertőzés kialakulása szempontjából történő – elemzése, a kockázati tényezők meghatározása, a kockázatok minimalizálására irányuló helyi szabályozás kialakítása, bevezetése, valamint a végrehajtás ellenőrzése;
 
@@ -43,3 +43,6 @@ i) az egészségügyi dolgozók infekciókontroll tevékenységekkel kapcsolatos
 j) az a)–g) pontban leírt tevékenységeket tartalmazó infekciókontroll terv elkészítése.
 
 (2) Az (1) bekezdés c) és i) pontjában fogalt tevékenységek végrehajtását az egészségügyi szolgáltató szervezeti egységenként évente legalább egy alkalommal megvizsgálja és ezt dokumentálja.
+
+[^5]: A 3. § (1) bekezdés a) pont aa) alpontja a 12/2012. (III. 6.) NEFMI rendelet 2. §-ával megállapított szöveg.
+[^6]: A 3. § (1) bekezdés a) pont ad) alpontja a 12/2012. (III. 6.) NEFMI rendelet 11. § b) pontja szerint módosított szöveg.

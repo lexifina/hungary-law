@@ -14,11 +14,11 @@ e) nosocomialis (kórházi) fertőzés: azon egészségügyi ellátással össze
 
 f) nosocomiális surveillance: a nosocomiális fertőzések megjelenésére, gyakoriságára és részletes vizsgálatára irányuló, illetve a fertőzések kialakulásának kockázati tényezőire vonatkozó surveillance;
 
-g) mikrobiológiai surveillance: mikrobiológiai tenyésztési eredményeken alapuló, a nosocomialis fertőzések felderítésére irányuló célzott surveillance;
+g)[^3] mikrobiológiai surveillance: kórokozók előfordulása és rezisztenciájának nyomon követése, a fertőző betegségek jelentésének rendjéről szóló miniszteri rendelet szerinti, bejelentésre kötelezett kórokozók előfordulásának azonosítására irányuló célzott surveillance;
 
 h) antibiotikum rezisztencia surveillance: a kórokozók antibiotikum érzékenység/rezisztencia változásaira irányuló, célzott surveillance;
 
-i) antimikrobiális szerek felhasználásának és hasznosításának surveillance-e: az egészségügyi intézmény által felhasznált antimikróbás szerek fogyasztására és megfelelő felhasználására irányuló célzott surveillance;
+i)[^4] antimikrobiális szerek felhasználásának és hasznosításának surveillance-a: az egészségügyi intézmény által felhasznált antimikróbás szerek fogyasztására és megfelelő felhasználására irányuló célzott surveillance;
 
 j) antibiotikum politika: a fertőzések megelőzésére és gyógyítására alkalmazott antibiotikumok ésszerű és költséghatékony felhasználásának tervezése, elemzése, ellenőrzése, illetve az antibiotikumokkal szembeni rezisztencia kialakulása és terjedése ellen alkalmazott módszerek összessége;
 
@@ -33,3 +33,6 @@ n) steril anyag-eszköz ellátás: az egészségügyi szolgáltatás nyújtása 
 o) járványügyi intézkedés: az egészségügyi ellátással összefüggő fertőzések átvitelének, szóródásának (járvány, járványveszély) megakadályozását célzó kötelezés;
 
 p) környezeti infekciókontroll: az egészségügyi ellátással összefüggő fertőzések megelőzése az egészségügyi intézmény mikrokörnyezetéből (levegő, víz, felületek) eredő rizikótényezők csökkentése révén.
+
+[^3]: A 2. § g) pontja a 12/2012. (III. 6.) NEFMI rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § i) pontja a 12/2012. (III. 6.) NEFMI rendelet 11. § b) pontja szerint módosított szöveg.
