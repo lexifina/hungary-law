@@ -1,3 +1,5 @@
-## 2. §[^2]
+## 2. § A TnyR. a következő 71. §-sal egészül ki:
 
-[^2]: A 2. § a 18. § (2) bekezdése alapján 2012. május 1-jén lép hatályba.
+## „71. § (1) A nyugdíjbiztosítási igazgatási szervek elektronikus aláírással kiadmányozott és központi tárhelyen tárolt döntéseinek másolatát az „Ez a döntés az eredeti elektronikus úton előállított dokumentummal megegyező tartalmú hiteles papíralapú másolat.” szövegű hitelesítési záradékkal kell ellátni.
+
+## (2) A nyugdíjbiztosítási igazgatási szervek elektronikus aláírással kiadmányozott döntéseinek nyomtatását és postai úton történő közlését központilag a Nyugdíjfolyósító Igazgatóság végzi.”

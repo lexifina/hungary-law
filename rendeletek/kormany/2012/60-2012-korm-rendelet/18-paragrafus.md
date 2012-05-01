@@ -1,4 +1,4 @@
-## 17. §[^18]
+## 17. §[^12]
 
 ## 10. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Ez a rendelet 2012. május 2-án hatályát veszti.
 
-[^18]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

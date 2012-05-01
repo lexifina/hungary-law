@@ -1,7 +1,5 @@
-## 5. §[^6]
+## 5. § A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet 8. § (1) bekezdésében a „Központi Nyugdíjnyilvántartó és Informatikai Igazgatóság” szövegrész helyébe a „Nyugdíjfolyósító Igazgatóság” szöveg lép.
 
 ## 3. A szociális foglalkoztatás engedélyezéséről és a szociális foglalkoztatási támogatásról szóló
 
 ## 112/2006. (V. 12.) Korm. rendelet módosítása
-
-[^6]: Az 5. § a 18. § (2) bekezdése alapján 2012. május 1-jén lép hatályba.
