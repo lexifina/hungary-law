@@ -1,0 +1,1 @@
+## 9. § A jelen rendelet hatályba lépésének időpontjában nyilvántartásban szereplő szervezetek statisztikai számjelének módosítását az új nómenklatúra alapján a Központi Statisztikai Hivatal, a törzskönyvi jogi személyek esetében a Magyar Államkincstár végzi el. A módosított számjel adatokat a KSH átadja az állami adóhatóságnak.

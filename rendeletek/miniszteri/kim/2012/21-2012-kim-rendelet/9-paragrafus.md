@@ -1,0 +1,1 @@
+## 8. § Hatályát veszti a statisztikai számjel elemeiről és nómenklatúráiról szóló 8/2010. (VIII. 25.) KSH közlemény, valamint a statisztikai számjel elemeiről és nómenklatúráiról szóló 8/2010. (VIII. 25.) KSH közlemény módosításáról szóló a 11/2010. (XII. 29.) KSH közlemény.
