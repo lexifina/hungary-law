@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-39-20-2
 | --- | --- | --- |
 | 2012-03-13 | 2012-39-20-22.1 | 39/2012. (III. 12.) Korm. rendelet |
 | 2012-03-14 | 2012-39-20-22.2 | 2010: CXXX. törvény |
+| 2012-05-01 | 2012-39-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

@@ -1,4 +1,4 @@
-## 30. §[^21]
+## „1.80. vizsgabizonyítvány a házilagos lőszerszerelésre és -újratöltésre vonatkozó elméleti és gyakorlati vizsga eredményes letételének igazolására;”
 
 31. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba, és 2012. május 2-án hatályát veszti.
 
@@ -25,5 +25,3 @@ i) a 29. § (1) bekezdés 1–6. és 8–28. pontja,
 j) a 29. § (2) bekezdés 2–15. pontja, valamint
 
 k) a 30. §.
-
-[^21]: A 30. § a 31. § (2) bekezdés k) pontja alapján 2012. május 1-jén lép hatályba.

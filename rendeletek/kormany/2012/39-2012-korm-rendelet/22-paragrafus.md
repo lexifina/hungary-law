@@ -1,9 +1,11 @@
-## 18–21. §[^12]
+## 21. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 45. §-a és az azt megelőző alcím helyébe a következő alcím és rendelkezés lép:
 
-22. § (1)[^13]
+## „Lőfegyver, lőszer, színházi fegyver kivitele, behozatala, átszállítása
 
-(2)[^14]
+## 45. § E rendelet eltérő rendelkezése hiányában lőfegyver, lőszer, színházi fegyver kivitelére, behozatalára, átszállítására engedélyt az kaphat, aki (amely) annak gyártására javítására, forgalmazására vagy tartására jogosító engedéllyel rendelkezik.”
 
-[^12]: A 18–21. § a 31. § (2) bekezdés f) pontja alapján 2012. május 1-jén lép hatályba.
-[^13]: A 22. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 22. § (2) bekezdése a 31. § (2) bekezdés g) pontja alapján 2012. május 1-jén lép hatályba.
+22. § (1)[^7]
+
+(2) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 47. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+[^7]: A 22. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

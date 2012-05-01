@@ -1,9 +1,10 @@
-## 3–11. §[^6]
+## 11. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 26. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-12. § (1)[^7]
+## „(5) E rendelet eltérő rendelkezése hiányában a rendőrség, a nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal, a büntetés-végrehajtás hivatásos és a Magyar Honvédség hivatásos és szerződéses állományú tagjának lőfegyver tartása az (1) bekezdés b) pontja szerinti feltétel hiányában is engedélyezhető.”
 
-(2)[^8]
+12. § (1)[^4]
 
-[^6]: A 3–11. § a 31. § (2) bekezdés c) pontja alapján 2012. május 1-jén lép hatályba.
-[^7]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 12. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(2)[^5]
+
+[^4]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 12. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
