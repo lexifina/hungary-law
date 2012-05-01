@@ -1,11 +1,21 @@
-16. § (1) Az I–II. kategóriába besorolt színházak, bábszínházak fenntartóját fenntartói ösztönző részhozzájárulásból és művészeti ösztönző részhozzájárulásból álló központi költségvetési támogatás illeti meg.
+16. § (1) A központi költségvetés a nyilvántartásba vett előadó-művészeti szervezetek fenntartója, annak hiányában az előadó-művészeti szervezet részére
 
-(2) A fenntartói ösztönző részhozzájárulás összege a fenntartó önkormányzat költségvetési rendeletében meghatározott, a tárgyévet megelőző évi támogatással arányos.
+a) művészeti támogatást,
 
-(3) A színházak a fenntartói ösztönző részhozzájárulásként megállapított támogatásból a fenntartó döntése szerint részesülnek, ha az előírt feltételeknek a fenntartó több színháza is megfelel.
+b) működési támogatást és
 
-(4) Az egyes színházakat megillető, a központi költségvetésről szóló törvényben megállapított művészeti ösztönző részhozzájárulást a tárgyévet megelőző második év fizető nézőinek száma arányában – az előadás játszóhelyei befogadóképességének figyelembevételével – kell kiszámítani. Az opera-, a klasszikus operett-, a balett-, a tánc-, a gyermek- és ifjúsági-, a stúdió-, valamint a bábszínházi előadások esetében a fizető nézők számát a központi költségvetésről szóló törvényben meghatározott súlyozással kell figyelembe venni.
+c) e törvény szerinti egyéb támogatást
 
-(5) Ha a színház az opera-, vagy klasszikus operett-előadás során a zenekart, énekkart hangfelvétellel helyettesíti, akkor az adott előadás esetében nem alkalmazható a (4) bekezdés második mondatában meghatározott számítási mód. A művészeti ösztönző részhozzájárulás akkor jár zenés színpadi mű előadása esetén, ha a mű zenéjét zenekar (énekkar) élő közreműködésével szólaltatják meg.
+nyújt.
 
-(6) A fenntartói ösztönző részhozzájárulás és a művészeti ösztönző részhozzájárulás összegét a központi költségvetésről szóló törvény a színházakat, bábszínházakat fenntartó, illetve támogató valamennyi önkormányzatra, a művészeti ösztönző részhozzájárulást az egyes színházakra is lebontva határozza meg.
+(2) Az (1) bekezdés szerinti támogatás állami vagy önkormányzati fenntartású előadó-művészeti szervezet számára csak abban az esetben nyújtható, ha az a magyar állammal vagy az önkormányzattal a támogatás folyósításakor hatályos, legalább 3 éves fenntartói megállapodást kötött. Fenntartói megállapodás csak teljes naptári évre köthető.
+
+(3) A fenntartói megállapodásban a művészeti tevékenységgel [17. § (3) bekezdés], az előadó-művészeti szervezet létesítő okiratában meghatározott egyéb tevékenységgel és a gazdálkodással (pénzügyi egyensúly fenntartása, illetve megteremtése, kapacitások kihasználtsága, eszköz- és erőforrás-gazdálkodás hatékonysága) összefüggésben az előadó-művészeti szervezettől elvárt teljesítményt az adott területre jellemző mutatókkal, illetve megfelelő követelményleírással kell meghatározni.
+
+(4) A fenntartói megállapodásban költségnemenként fel kell tüntetni a feladatteljesítéshez rendelt forrást [3. § (6) bekezdés], több forrás esetén azok egymáshoz viszonyított arányát.
+
+(5) A fenntartó köteles az általa fenntartott és nyilvántartásba vett előadó-művészeti szervezet tevékenységével összefüggő, (2) bekezdés szerinti adatokat jogszabályban meghatározott módon az előadó-művészeti államigazgatási szerv részére nyomtatott és elektronikus formában megküldeni, az esetleges adatváltozást pedig 30 napon belül bejelenteni. A fenntartói megállapodást a tárgyévet megelőző év október 31-éig kell benyújtani az előadó-művészeti államigazgatási szerv részére.
+
+2. CÍM
+
+A színház, balett- és táncegyüttesek központi költségvetési támogatásai és az igénybevétel feltételei

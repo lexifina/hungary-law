@@ -1,12 +1,26 @@
-20. § (1) Az I. kategóriába besorolt zenekar és énekkar fenntartóját külön a zenekarokra és külön az énekkarokra a zenekar és énekkar létszáma, a fenntartói támogatás, a hangversenyek és hangfelvételek száma, a fizető nézők száma, az ifjúsági hangversenyek száma és a bemutatott kortárs magyar zeneművek száma alapján a központi költségvetésről szóló törvényben e szempontokra megállapított arányú központi költségvetési támogatás illeti meg. A támogatás elosztásának és folyósításának részletes szabályait a miniszter rendeletben állapítja meg.
+20. § (1) Nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek minősített zenekar, énekkar fenntartóját külön a zenekarra és külön az énekkarra
 
-(2) Az (1) bekezdésben említett zenekar és énekkar létszámát a kamarazenekar, kamara-szimfonikus zenekar, szimfonikus zenekar és énekkar esetében a tárgyévet megelőző két évben előadott zenekari, illetve énekkari művek előadásában fellépő zene-, illetve énekművészek átlagos száma, újonnan alakult előadó-művészeti szervezetek esetében a tárgyévet megelőző év átlagos száma alapján kell kiszámítani.
+a) a zenekar, énekkar létszáma,
 
-(3) A II. kategóriába besorolt zenekarok és énekkarok támogatása pályázati úton történik. A pályázatokról történő döntései megalapozásához a miniszter az EMT javaslata figyelembevételével szakmai kuratóriumot kér fel. A döntésekre a szakmai kuratórium előterjesztése alapján az EMT tesz javaslatot. A javaslattól eltérő döntéseit a miniszter köteles megindokolni.
+b) a hangversenyek száma,
 
-(4) A II. kategóriába sorolt zenekarok és énekkarok tárgyévi támogatási keretösszege 50%-a mértékéig a szakmai kuratórium javaslata alapján a miniszter legfeljebb három évre szóló kötelezettséget vállalhat a következő évek támogatási kerete terhére.
+c) opera-előadásokon történő közreműködések száma,
 
-(5) Ha az I. kategóriába sorolt előadó-művészeti szervezet fenntartója a költségvetési év során csökkenti a vállalt fenntartói támogatást, a központi költségvetési támogatás is arányosan csökken.
+d) az ifjúsági hangversenyek száma,
+
+e) a bemutatott kortárs magyar zeneművek száma,
+
+f) a fizető nézők száma és
+
+g) a kereskedelmi forgalomba hozott hangfelvételek, képfelvételek száma
+
+alapján e szempontokra figyelemmel megállapított központi költségvetési támogatás illeti meg.
+
+(2) Az (1) bekezdés szerinti zenekar, énekkar létszámának megállapításához a tárgyévet megelőző évben az előadó-művészeti szervezetnél teljes munkaidőben foglalkoztatott munkavállaló vehető figyelembe. Művészi munkakörben, részmunkaidőben foglalkoztatott munkavállalót a részmunkaidő arányában kell figyelembe venni.
+
+(3) Nemzeti előadó-művészeti szervezetnek, illetve kiemelt előadó-művészeti szervezetnek nem minősülő zenekar, énekkar támogatása pályázati úton történik. A pályázatokról történő döntés megalapozásához a miniszter az érintett bizottság javaslata figyelembevételével szakmai kuratóriumot kér fel. A döntésre a szakmai kuratórium a zenekarokra és énekkarokra jogszabályban meghatározott minőségbiztosítási szempontrendszer szerinti értékelésen alapuló előterjesztése alapján az érintett bizottság tesz javaslatot. A javaslattól eltérő döntését a miniszter köteles megindokolni.
+
+(4) A (3) bekezdés szerinti zenekar, énekkar tárgyévi támogatási keretösszegének feléig a szakmai kuratórium javaslata alapján a miniszter legfeljebb három évre szóló kötelezettséget vállalhat a következő évek támogatási kerete terhére.
 
 4. CÍM
 

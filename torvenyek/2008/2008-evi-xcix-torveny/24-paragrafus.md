@@ -1,28 +1,30 @@
-24. § (1) A központi költségvetésről szóló törvény meghatározza az I–VI. kategóriába sorolt színházak, balett- vagy táncegyüttesek, valamint az I–II. kategóriába sorolt zenekarok és énekkarok elosztható támogatásának keretösszegeit.
+24. § (1) A központi költségvetésről szóló törvény meghatározza a nyilvántartott színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok elosztható támogatásának keretösszegeit. A központi költségvetésről szóló törvény
 
-(2) Az előadó-művészetben jelentkező újító törekvések támogatása és a magánszféra versenyképességének erősítése érdekében a VI. kategóriába sorolt színházak pályázati úton elosztható támogatásának aránya az I–V. kategóriába sorolt színházak, balett- vagy táncegyüttesek központi költségvetési támogatása keretösszegének figyelembevételével kerül megállapításra.
+a) nemzeti előadó-művészeti szervezeteket megillető művészeti támogatás és működési támogatás összegét az előadó-művészeti szervezetekre,
 
-(3) A költségvetési tervezés során a tárgyévet megelőző év március 31-ig szolgáltatott adatok szerinti besorolást kell figyelembe venni.
+b) a kiemelt előadó-művészeti szervezetek
 
-(4) A helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetben kell biztosítani:
+ba) működési támogatásának összegét a kiemelt előadó-művészeti szervezetet fenntartó vagy azokkal közszolgáltatási megállapodást kötő valamennyi önkormányzatra,
 
-a) az I–V. kategóriába sorolt színházak, balett- vagy táncegyüttesek fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét, valamint
+bb) művészeti támogatásának összegét az egyes színházakra is
 
-b) az I. kategóriába sorolt zenekarok és énekkarok fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét.
+lebontva határozza meg.
 
-(5) A kultúráért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetési fejezetében kell biztosítani:
+(2) A központi költségvetésről szóló törvénynek a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetében kell biztosítani
+
+a) a nyilvántartott színházak, balett- vagy táncegyüttesek önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét, valamint
+
+b) a nyilvántartott zenekarok, énekkarok önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét.
+
+(3) A kultúráért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetési fejezetében kell biztosítani:
 
 a) a nyilvántartásba vett állami fenntartású színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok központi költségvetésből származó támogatását,
 
-b) az e törvény 4. § d) pontja szerinti szerződéssel rendelkező előadó-művészeti szervezet támogatását,
+b) a magyar állammal kötött közszolgáltatási szerződéssel rendelkező előadó-művészeti szervezet támogatását,
 
-c) a VI. kategóriába sorolt színházak támogatási előirányzatát,
+c) az e törvény alapján pályázati úton nyújtható támogatások előirányzatát, valamint
 
-d) a II. kategóriába sorolt zenekarok és énekkarok támogatási előirányzatát,
-
-e) az e törvény 21. §-a alapján nyújtható pályázati támogatások előirányzatát, valamint
-
-f) az előadó-művészeti államigazgatási szerv működéséhez szükséges előirányzatot.
+d) az előadó-művészeti államigazgatási szerv működéséhez szükséges előirányzatot.
 
 ## V. Fejezet
 

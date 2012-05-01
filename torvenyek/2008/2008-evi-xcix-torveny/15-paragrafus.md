@@ -9,11 +9,3 @@
 (5) Az államháztartás bármely alrendszeréből származó támogatások együttesen nem haladhatják meg az elszámolható költségeket. Az elszámolható költségek körébe a miniszter által rendeletben meghatározott, az e törvény szerinti támogatási célok megvalósítása során felmerült, igazolt közvetlen és közvetett költségek tartoznak.
 
 (6) A központi költségvetési támogatásra vonatkozó adatok az előadó-művészeti államigazgatási szerv honlapján bárki számára hozzáférhetőek.
-
-2. CÍM
-
-A besorolt színházak, balett-
-
-vagy táncegyüttesek központi költségvetési támogatásának mértéke és igénybevételének
-
-feltételei
