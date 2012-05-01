@@ -58,4 +58,6 @@
 
 ## L. S.
 
-16. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez
+16. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^177]
+
+[^177]: A 16. melléklet a 39/2012. (III. 12.) Korm. rendelet 28. § c) pontjával megállapított szöveg.

@@ -1,75 +1,39 @@
-## MEGSZERZÉSI ENGEDÉLY
+| Iktatószám: | /1– |
 
-| D Sorsz.: | C Sorsz.: | B Sorsz.: | A Szám: .......... Sorsz.: |
+## KÉRELEM
 
-| Kérelem iktatószáma: | ELLENŐRZŐ SZELVÉNY (eladó tölti ki) Illetékességi kód: | MEGSZERZÉSI ENGEDÉLY (vámhatóság tölti ki) | MEGSZERZÉSI ENGEDÉLY (rendőrhatóság tölti ki) |
+## Házilagos lőszerszerelésre és -újratöltésre jogosító engedély kiadásához
 
-| ………………………... | ………………………………..…… | …………………………… | ………………………………….…… |
+|  | Személyi azonosító: |
 
-| (név) | (név) | (név) | (név) |
+## KÉRELMEZŐ SZEMÉLYI ADATAI
 
-| részére | részére egy db………………… | részére egy db …………. | részére egy db ………………….. |
+## Családi és utónév:
 
-|  |  | fajtájú ………kategóriájú | ………………………lőfegyverre |
+## Születési név:
 
-|  |  | lőfegyvert, melynek |  |
+## Születési hely, idő:
 
-| Személyazonosságot igazoló hatósági |  | gyártó/típusa: | szervezet statiszt. jele v. adósz.: ……………………………………. |
+## Anyja születési neve:
 
-| igazolvány |  | …………………………… |  |
+## Személyazonosságot igazoló igazolvány típusa:
 
-|  |  | gyártási száma: | Érvényes: ……………………..-ig |
+## száma:........................................................................
 
-| típusa: ………………. | lőfegyvert eladtam. |  |  |
+## Állampolgárság: ............................................................................ Ország:
 
-|  |  | ………………………… | …………………………….típusú |
+## Lakóhely:
 
-| száma: ………………. |  | kaliberjele: |  |
+## Lőszerelem tárolás helye:
 
-|  | P. H. | …………………………. | …………………………. számú |
+## Lőfegyvertartási engedély száma:
 
-|  |  | a Magyar Köztársaság | személyazonosságot igazoló hatósági igazolvány |
+## Kelt: .................................., ...........év..........................hó...............nap
 
-|  |  | területére behozott. | felmutatása mellett. |
+## .......................................
 
-| Kelt: …………………. | Kelt:……………………………. | Kelt: ……………………. | Kelt: ……………………………… |
+## kérelmező aláírása
 
-| ……………………….. |  | P. H. | P. H. |
+20. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^179]
 
-| az engedélyt átvevő | ………………………………….. | ………………………….. | ………………………………….. |
-
-| aláírása | aláírás | aláírás | aláírás |
-
-## A MEGSZERZÉSI ENGEDÉLY HÁTOLDALA
-
-|  | C | B | A |
-
-|  | A LŐFEGYVER |  | ELŐADÓI IGAZOLÁS |
-
-| TŐSZELVÉNY | fajtája: ………………………… kategóriája: …………………… gyártója/típusa: ………………………………….. gyártási száma: |  | fegyver fajtája: …………… kategóriája: ………………. gyártója/típusa: ……………………………… gyártási száma: |
-
-|  | …………………………………… |  | …………………………….. |
-
-|  | kaliberjele: …………………………………… | Kizárólag a megszerzési engedély „A” szelvényé- vel együtt érvényes! | kaliberjele: ………………………………. eladás ideje: |
-
-|  | …………………………………. |  | ............................................... |
-
-|  | vevő aláírása |  | nyt. könyv tételszáma: |
-
-|  |  |  | ……………………………… |
-
-|  | személyazonosságot igazoló |  | eladó cég (személy) neve: |
-
-|  | hatósági igazolvány |  | ................................................ |
-
-|  | típusa: ……………………… |  | tevékenység helye (lakóhely): |
-
-|  |  |  | …………………………….. |
-
-|  | száma: ……………………… |  |  |
-
-|  |  |  | P. H. |
-
-20. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^119]
-
-[^119]: A 20. számú melléklet a 247/2009. (XI. 10.) Korm. rendelet 24. § (4) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^179]: A 20. számú melléklet a 247/2009. (XI. 10.) Korm. rendelet 24. § (4) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.

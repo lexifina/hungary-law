@@ -1,10 +1,14 @@
 ## A lőfegyver, lőszer, lőszerelem tárolása
 
-42. § (1) E rendelet eltérő rendelkezése hiányában a lőfegyvert az engedélyes által állandóan lakott lakásban – szervezet esetén őrzött, vagy riasztó berendezéssel védett épületben – ürített állapotban, biztonsági zárral rendelkező lemezszekrényben, illetéktelen személyektől elzárva kell tárolni.
+42. §[^115] (1) E rendelet eltérő rendelkezése hiányában
 
-(2) Rövid lőfegyvert az (1) bekezdésben meghatározott egyéb feltételek betartása mellett, falhoz, padlóhoz vagy szekrényhez rögzített biztonsági zárral rendelkező lemezdobozban is lehet tárolni.
+a) a lőfegyvert a tartására jogosult személy által állandóan lakott vagy rendszeresen, illetve alkalmanként visszatérő módon látogatott lakásban – szervezet esetén őrzött, vagy riasztó berendezéssel védett épületben – ürített állapotban, a számottevő mértékű külső erőhatásnak is ellenálló anyagból készült és biztonsági zárral ellátott szekrényben, illetéktelen személyektől elzárva kell tárolni,
 
-(3)[^81] A tárolásra szolgáló helyiség nyílászáróit acélráccsal vagy ultraerős biztonsági fóliával kell ellátni, valamint a tárolóhelyet őrszemélyzettel kell őrizni vagy távfelügyeleti rendszerbe bekötött elektronikus riasztóberendezéssel kell ellátni
+b) rövid lőfegyvert az a) pontban meghatározott egyéb feltételek betartása mellett, falhoz, padlóhoz vagy szekrényhez rögzített, a számottevő mértékű külső erőhatásnak is ellenálló anyagból készült és biztonsági zárral ellátott dobozban is lehet tárolni,
+
+c) a lőszert a lőfegyvertől elkülönítve, a számottevő mértékű külső erőhatásnak is ellenálló anyagból készült és biztonsági zárral ellátott szekrényben vagy falhoz, padlóhoz, szekrényhez rögzített, a számottevő mértékű külső erőhatásnak is ellenálló anyagból készült és biztonsági zárral ellátott dobozban, illetéktelen személyektől elzárva kell tárolni.
+
+(2) A tárolásra szolgáló helyiség nyílászáróit acélráccsal vagy ultraerős biztonsági fóliával kell ellátni, valamint a tárolóhelyet őrszemélyzettel kell őrizni vagy távfelügyeleti rendszerbe bekötött elektronikus riasztóberendezéssel kell ellátni
 
 a) „A” kategóriába tartozó lőfegyver,
 
@@ -14,9 +18,6 @@ c) lőfegyvernek vagy lőszernek a 28. § (2) bekezdés b) vagy c) pontja alapj�
 
 tárolása esetén.
 
-(4)[^82]
+(3) A lőfegyver és a hozzá tartozó lőszer a tartásukra jogosult személy folyamatos jelenléte esetén elzárás, illetve elkülönítés nélkül is tárolható.
 
-(5) A lőszert a lőfegyvertől elkülönítve, biztonsági zárral rendelkező lemezszekrényben vagy falhoz, padlóhoz, szekrényhez rögzített biztonsági zárral rendelkező lemezdobozban, illetéktelen személyektől elzárva kell tárolni.
-
-[^81]: A 42. § (3) bekezdése a 67/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^82]: A 42. § (4) bekezdését a 67/2010. (III. 18.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^115]: A 42. § a 39/2012. (III. 12.) Korm. rendelet 19. §-ával megállapított szöveg.

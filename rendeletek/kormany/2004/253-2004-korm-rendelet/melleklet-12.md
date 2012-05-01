@@ -16,7 +16,7 @@
 
 ## – sörétes (huzagolatlan csövű hosszú) lőfegyver
 
-## – marok (rövid) lőfegyver megszerzéséhez és tartásához
+## – marok (rövid) lőfegyver tartásához
 
 ## – forgalmazási tevékenység végzéséhez
 

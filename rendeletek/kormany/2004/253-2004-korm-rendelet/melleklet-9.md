@@ -22,7 +22,7 @@
 
 ## .......... db lőfegyver azonosító adatai a következők
 
-| Megszerzési eng. sz. | Fajta/ jelleg | Kat. | Gyártó | Típus | Gyártási szám | Kaliberjel |
+| Fegyvertart. eng. sz. | Fajta/ jelleg | Kat. | Gyártó | Típus | Gyártási szám | Kaliberjel |
 
 | 1 | 2 | 3 |
 
@@ -48,7 +48,7 @@
 
 ## Vevő/kereskedelmi meghatalmazott adatai: a lőfegyvert átvevő személy felsorolt adatai.
 
-## Megszerzési eng. száma: a vevő megszerzési engedélyén szereplő sorszám. Figyelem! Egy jelentőlapon csak egy vevő által megvett fegyvereket lehet szerepeltetni, értelemszerűen kitöltve a rá vonatkozó adatokat.
+## Fegyvertart. eng. száma: a vevő fegyvertartási engedélyén szereplő sorszám. Figyelem! Egy jelentőlapon csak egy vevő által megvett fegyvereket lehet szerepeltetni, értelemszerűen kitöltve a rá vonatkozó adatokat.
 
 ## Fajta:
 

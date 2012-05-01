@@ -1,33 +1,51 @@
 | 1. Feladó tagállam | 2. Fogadó tagállam |
 
-| 3. Feladó családi és utónév cím (a cég székhelye) __________________ __________________ telefon fax | 4. Fogadó családi és utónév cím (a cég székhelye) __________________ __________________ telefon fax |
+| 3. Feladó | 4. Fogadó |
 
-| 5. A fegyver/lőszer leírása melléklet igen (menny….) nem |
+| _________________________________________________ | _________________________________________________ |
 
-| Sorsz. | Kategória | Mennyiség/fajta | Gyártmány/modell Gyártó/típus | Kaliberjel | Egyéb ismertető jelek, UN szám | CIP vizsg. Jel. Igen/nem | Gyártási szám |
+| __ | __ |
 
-| 6. Kérelmező_______________________________ __________________________________________ név/cég __________________________________________ cím Kivitel, behozatal, átszállítás indoka: Tranzit ország(ok): __________________________________________ _________ dátum ________________ (aláírás, bélyegző) | 7. A fogadó tagállam illetékes hatóságának engedélyezési nyilatkozata __________________________________________ érvényes: ___________-ig P. H. _________ dátum __________________________________________ aláírás |
+| családi és utónév | családi és utónév |
+
+| cím (a cég székhelye) | cím (a cég székhelye) |
+
+|  | ________ |  |  | ________ | ________ |  |  |
+
+| ________ |  |  |  |  |  |  |  |
+
+| __ |  |  |  |  |  |  |  |
+
+| telefon | fax |  |  | telefon | fax |  |  |
+
+| 5. A fegyver/lőszer leírása | melléklet igen (menny nem ......) |
+
+| Sorsz. | Kategória | Mennyiség/ fajta | Gyártmány/ modell Gyártó/típus | Kaliberjel | Egyéb ismertető jelek, UN szám | CIP vizsg. Jel. Igen/nem | Gyártási szám |
+
+| 6. Kérelmező _________________________________________________ __ _________________________________________________ __ név/cég_____________________________________________ cím Kivitel, behozatal, átszállítás indoka: Tranzit ország(ok): _________________________________________________ __ ____________ dátum ____________ (aláítás/bélyegző) | 7. A fogadó tagállam illetékes hatóságának engedélyezési nyilatkozata _________________________________________________ __ érvényes ____________ -ig P. H. ____________ dátum _________________________________________________ __ (aláírás) |
 
 | A fegyver/lőszer leírása |
 
-| Sorsz. | Kategória | Mennyiség/fajta | Gyártmány/modell Gyártó/típus | Kaliberjel | Egyéb ismertető jelek, UN szám | CIP vizsg. Jel. Igen/nem | Gyártási szám |
+|  |  |  | Gyártmány |  | Egyéb | CIP vizsg. |  |
 
-## Az igazolás ………..……….-ig érvényes, az engedélyezett lőfegyver, lőszer ……………esetben való behozatalára (kivitelére, átszállítására) jogosít.
+| Sorsz. | Kategória | Mennyiség/ fajta | modell Gyártó/típus | Kaliberjel | ismertető jelek, UN szám | Jel. Igen/nem | Gyártási szám |
 
-## Az indulás várható időpontja:……………………… Az érkezés várható időpontja:………………………..
+## Az igazolás .....................-ig érvényes, az engedélyezett lőfegyver, lőszer .............. esetben való behozatalára (kivitelére, átszállítására) jogosít.
 
-## Kelt: ………….., ….. év ……….. hó ..... nap
+## Az indulás várható időpontja: ........................... Az érkezés várható időpontja: .........................
+
+## Kelt:.........., ....... év ........... hó ..... nap
 
 ## P. H.
 
-## Le certificat est valable jusqu’au ………..pour l’importation (exportation, transit) de l’arme et de la munition autorisées ……..reprise(s)
+## Le certificat est valable jusqu'au ........... pour l'importation (exportation, transit) de l'arme et de la munition autorisées ........ reprise(s)
 
-## Date:………….., ….. ans …….. mois ..... jour
+## Date:.............., ..... ans ........ mois ..... jour
 
 ## L. S.
 
-## aláírás/signature
+## .......................................
 
-## * A 16/2004. (II. 6.) Korm. rendelet hatálya alá tartozó eszközök esetében az MKEH engedélye is szükséges.
+## aláírás/signature
 
 17. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez

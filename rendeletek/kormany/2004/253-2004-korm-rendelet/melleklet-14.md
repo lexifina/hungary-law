@@ -1,55 +1,55 @@
-## IGAZOLÁS
+| Sorszám: | Kilépéskor, vámkezeléskor az illetékes alsó fokú vámszervnek kell leadni |
 
-| Sorszám: | Kilépéskor, vámkezeléskor az illetékes vámhivatalnak kell leadni |
+| Tőszelvény | Sorszám: |
 
-|  | Sorszám: |
+| ................................................ | IGAZOLÁS |
 
-| Tőszelvény |  |
+| név | Igazolom, hogy ....................................................................................................................(név) |
 
-|  | IGAZOLÁS |
+|  | ......................................................................................................(útlevél szám) |
 
-| ……………………………………. |  |
+| ................................................ | ....................................................(állampolgárság) Magyarország területére |
 
-| név | Igazolom, hogy ……………………………………………………………………(név) |
+| útl. szám | ................ db .............. fajtájú ..........................................................kategóriájú |
 
-|  | ....................................................................................................... (útlevélszám) |
+|  | ......................................................................................................gyártó/típusú |
 
-| ……………………………………. | ……………………….…….….(állampolgárság) a Magyar Köztársaság területére |
+| ................................................ | .....................................................................................................gyártási számú |
 
-| útl. szám | ……………… db .................... fajtájú …..…...................................... kategóriájú |
+| Lőfegyver fajta, kategória |  |
 
-|  | …………………………………………………………………………….. gyártó/típusú |
+|  | ..........................................................................................................kaliberjelű |
 
-| ……………………………………. | …………………………………………………………………………… gyártási számú |
+|  | .................................................................... lőfegyvert és ..................db lőszert |
 
-| Lőfegyver fajta, kategória | ………………………………………………………………………..……….. kaliberjelű |
+|  | behozott. |
 
-| ……………………………………. | ……………………………………….…………lőfegyvert és …………….… db lőszert a mai napon behozott. |
+| ................................................ |  |
 
-| Gyártó, típus |  |
+| Gyártó, típus | Az igazolás alapján a lőfegyvert Magyarország területén 90 napig lehet tartani és vadászaton vagy sportrendezvényen való részvétel céljából használni. |
 
-|  | Az igazolás alapján a lőfegyvert a Magyar Köztársaság területén 90 napig |
+| ................................................ |  |
 
-| ……………………………………. | lehet tartani és vadászaton vagy sportrendezvényen való részvétel céljából |
+| Gyártási szám |  |
 
-| Gyártási szám | használni. |
-
-| …………………………………… | Kelt:..............................., ……… év….................................... hó ............ nap |
+| ................................................ | Kelt: .........................., ......... év ................................................... hó ......... nap |
 
 | Kaliberjel |  |
 
-|  |  | P. H. |
+|  | P. H. |
 
-| ........ db lőszer | ................................................................. |
+| ........... db lőszer | ..................................... |
 
 |  | aláírás |
 
-| ……………………………………. |  |
-
 | Kelt |  |
 
-| ………………………………………… aláírás | (Szigorú számadásos tömb. Az ügyfél példányát a kérelmezőnek kell átadni, tőszelvény a tömbben marad.) |
+|  | (Szigorú számadásos tömb. Az ügyfél példányát a kérelmezőnek kell átadni, |
 
-14. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^118]
+| ................................................ | tőszelvény a tömbben marad.) |
 
-[^118]: A 14. számú mellékletet a 247/2009. (XI. 10.) Korm rendelet 39. § d) pontja hatályon kívül helyezte, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+| aláírás |  |
+
+14. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^176]
+
+[^176]: A 14. számú mellékletet a 247/2009. (XI. 10.) Korm rendelet 39. § d) pontja hatályon kívül helyezte, újonnan a 39/2012. (III. 12.) Korm. rendelet 28. § b) pontja iktatta be.

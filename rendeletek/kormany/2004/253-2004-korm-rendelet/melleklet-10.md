@@ -4,13 +4,13 @@
 
 Jogszabályismeret:
 
-1. A lőfegyverismeret fontossága és a megszerzési engedély érvényességének ideje.
+1.[^170] A lőfegyverismeret fontossága.
 
 2. A tűzfegyver fogalma és a fegyvertartási engedély érvényességének ideje.
 
 3. A lőszer fogalma. Milyen lőfegyvert nem lehet forgalmazni és tartani?
 
-4. A lőfegyver megszerzésére és tartására ki kaphat engedélyt?
+4.[^171] A lőfegyver tartására ki kaphat engedélyt?
 
 5. Hol, hogyan kell a lőfegyvert és a lőszert tárolni?
 
@@ -30,7 +30,7 @@ Jogszabályismeret:
 
 13. Mikor kell a lőfegyvert a vizsgálatra kijelölt szervezetnek bemutatni?
 
-14. Mi a teendője, ha lőfegyverét, megszerzési engedélyét vagy fegyvertartási engedélyét elvesztette?
+14.[^172] Mi a teendője, ha lőfegyverét vagy fegyvertartási engedélyét elvesztette?
 
 15. Milyen adatok megváltozását kell a rendőrhatóságnak bejelenteni?
 
@@ -48,7 +48,7 @@ Fegyver, lőszer (töltény), lőszerelem forgalmazási ismeret:
 
 64. A fegyver, lőszer, lőszerelem forgalmazási tevékenységet ellátó személyeknek milyen feltételeknek kell megfelelni?
 
-65. Mi a teendője a megszerzési engedéllyel rendelkező személy azonosításakor?
+65.[^173] Mi a teendője a fegyvert megszerezni kívánó személy azonosításakor?
 
 66. Mely hatóság tarthat ellenőrzést a fegyverüzletben, az ellenőrző hatóság mit ellenőrizhet?
 
@@ -73,3 +73,8 @@ Fegyver, lőszer (töltény), lőszerelem forgalmazási ismeret:
 76. Hogyan és hol tárolhatja a lőfegyvereket, lőszereket és lőszerelemeket?
 
 A fegyverforgalmazási vizsgán a vizsgabizottság tagjai a fentieken kívül további olyan jogszabály és fegyverismereti kérdéseket is feltehetnek, amelynek ismerete a vizsgázótól elvárható.
+
+[^170]: A 10. melléklet „Fegyverforgalmazási vizsgakérdések” alcím 1. pontja a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 14. pontja szerint módosított szöveg.
+[^171]: A 10. melléklet „Fegyverforgalmazási vizsgakérdések” alcím 4. pontja a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 8. pontja szerint módosított szöveg.
+[^172]: A 10. melléklet „Fegyverforgalmazási vizsgakérdések” alcím 14. pontja a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 15. pontja szerint módosított szöveg.
+[^173]: A 10. melléklet „Fegyverforgalmazási vizsgakérdések” alcím 65. pontja a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 28. pontja szerint módosított szöveg.
