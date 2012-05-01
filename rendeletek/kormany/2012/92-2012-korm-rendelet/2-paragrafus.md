@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 43. § (2) bekezdése alapján 2012. május 1-jén lép hatályba.
+## 1. § E rendelet alkalmazásában átvett intézmény: a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény (a továbbiakban: Törvény) 1. melléklete alapján átvételre kerülő intézmények.

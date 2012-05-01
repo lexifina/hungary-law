@@ -1,3 +1,3 @@
-## 16. §[^15]
+## 16. §[^6]
 
-[^15]: A 16. § a 43. § (3) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^6]: A 16. § a 43. § (3) bekezdése alapján 2012. július 1-jén lép hatályba.

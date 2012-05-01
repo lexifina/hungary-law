@@ -1,3 +1,9 @@
-## 7. §[^6]
+8. § (1) A központi költségvetési körbe átvett költségvetési szervek esetében a 2012. május hónapban utalandó, 2012. április havi nettó munkabéreket és a nettó munkabérből történő levonásokat a Kincstár a saját megyénkénti lebonyolítási számláiról utalja ki – a költségvetési szervek által történő likvid fedezet előzetes biztosítását követően – a dolgozói számlákra.
 
-[^6]: A 7. § a 43. § (2) bekezdése alapján 2012. május 1-jén lép hatályba.
+(2) Az átvett intézményekkel összefüggésben az önkormányzati körből kikerülő, 2012. április hónapban központosított illetmény-számfejtési körbe tartozó intézmények esetében az április havi személyi juttatásokat és egyéb kifizetéseket terhelő, az állami adóhatóság felé teljesítendő bevallási és befizetési kötelezettségek teljesítéséről 2012. május 21-én a Kincstár az illetékes megyei igazgatóságának technikai adószámain intézkedik.
+
+(3) Az átutalás teljesítéséhez a fedezetet az önkormányzati körből kikerülő intézmények az önkormányzati nettó finanszírozással kapcsolatos lebonyolítási számlák javára, legkésőbb 2012. május 18-i értéknappal biztosítják az előirányzat-felhasználási keretszámlájuk terhére. A fedezet meghatározása az intézményt mint társadalombiztosítási kifizetőhelyet megillető – április hónapban az intézmény által ténylegesen kifizetett – társadalombiztosítási ellátás figyelembevételével történik.
+
+(4) A (3) bekezdésben foglalt kötelezettség elmulasztása esetén a fedezetet 2012. május 21-én a Kincstár az önkormányzati nettó finanszírozással kapcsolatos lebonyolítási számlák javára az intézmények – előirányzat-felhasználási keretszámlájuk – terhére, felhatalmazó levél nélkül benyújtott beszedési megbízással szedi be.
+
+(5) Az önkormányzati körből kikerülő intézmények által – a költségvetési szerveknél és az egyházak közcélú tevékenységet folytató intézményeinél foglalkoztatottak 2012. évi kompenzációjáról szóló 371/2011. (XII. 31.) Korm. rendeletben foglaltak alapján – kifizetett bérkompenzáció fedezetét az intézményi átvételt követően a központi költségvetés biztosítja az intézmény részére. A központi költségvetésből első alkalommal közvetlenül az intézmény részére az április hónapra vonatkozó, a foglalkoztatottak részére május elején a munkabérrel együtt kifizetett bérkompenzáció fedezetének biztosítása történik.

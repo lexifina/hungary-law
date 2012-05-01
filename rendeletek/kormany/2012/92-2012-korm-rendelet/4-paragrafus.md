@@ -1,3 +1,3 @@
-## 3. §[^3]
+4. § (1) A Törvény 7. §-a szerinti jogutódlás alapján kedvezményezetté váló egészségügyi intézmény szerződésmódosításra vonatkozó kérelmében jelezni kell minden olyan esetet, ami a támogatási szerződés módosítását teszi szükségessé, továbbá a módosítást megalapozó adatokat, információkat.
 
-[^3]: A 3. § a 43. § (2) bekezdése alapján 2012. május 1-jén lép hatályba.
+(2) A jogutódlás alapján kedvezményezetté váló egészségügyi intézményi kedvezményezettnek a központi költségvetési törvény 1. melléklet XIX. Uniós Fejlesztések fejezete szerinti, az Európai Unió által vagy egyéb nemzetközi forrásokból társfinanszírozott projektjeinek végrehajtásához szükséges saját forrás a központi költségvetési törvény 1. melléklet XIX. Uniós Fejlesztések fejezet, 2. Fejezeti kezelésű előirányzatok cím, 7. Szakmai fejezeti kezelésű előirányzatok alcím, 8. Állami költségvetési kedvezményezettek sajáterő támogatása jogcímcsoporton keresztül kerül biztosításra.
