@@ -16,9 +16,11 @@ d) állapota a személyiség egészét érintő fejlődés átható zavara miatt
 
 e) a mozgásrendszer károsodása, illetőleg funkciózavara miatt helyváltoztatása a külön jogszabályban meghatározott segédeszköz állandó és szükségszerű használatát igényli, vagy a külön jogszabály szerinti mozgásszervi betegsége miatt állapota segédeszközzel eredményesen nem befolyásolható (mozgásszervi fogyatékos),
 
-f) az a)–e) pontban meghatározott súlyos fogyatékosságok közül legalább két fogyatékossága van (halmozottan fogyatékos),
+f) az a)–e) és h) pontban meghatározott súlyos fogyatékosságok közül legalább két fogyatékossága van (halmozottan fogyatékos),
 
-g) hallásvesztesége olyan mértékű, hogy a beszédnek hallás útján történő megértésére segédeszközzel sem képes és az a), c)–e) pontok valamelyikében megjelölt egyéb fogyatékossága is van (halmozottan fogyatékos),
+g) hallásvesztesége olyan mértékű, hogy a beszédnek hallás útján történő megértésére segédeszközzel sem képes és az a), c)–e) és h) pontok valamelyikében megjelölt egyéb fogyatékossága is van (halmozottan fogyatékos),
+
+h) állapota kromoszóma-rendellenesség miatt súlyosnak vagy középsúlyosnak minősíthető,
 
 és állapota tartósan vagy véglegesen fennáll, továbbá önálló életvitelre nem képes vagy mások állandó segítségére szorul.
 
