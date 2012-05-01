@@ -1,4 +1,4 @@
-## 3. §[^4]
+## 3. §[^3]
 
 4. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivételekkel – a kihirdetését követő napon lép hatályba.
 
@@ -8,4 +8,4 @@
 
 (4) Ez a rendelet 2012. október 16-án hatályát veszti.
 
-[^4]: A 3. § a 4. § (3) bekezdése alapján 2012. október 15-én lép hatályba.
+[^3]: A 3. § a 4. § (3) bekezdése alapján 2012. október 15-én lép hatályba.
