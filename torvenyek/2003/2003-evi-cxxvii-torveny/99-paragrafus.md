@@ -20,7 +20,7 @@ b) a dohánygyártmány fogyasztói csomagolási egységben foglalt mennyiségé
 
 c) a fogyasztói csomag kiskereskedelmi eladási árát,
 
-d) az adójegy sorszámát, valamint
+d) az adójegy sorszámát (vonalkód formájában is), valamint
 
 e) annak – külön jogszabályban foglalt módon való – jelölését, hogy az adójegy által képviselt fizetési kötelezettség milyen időpontban hatályba lépett (lépő) adó- és általánosforgalmiadó-mérték alapján került meghatározásra.
 
