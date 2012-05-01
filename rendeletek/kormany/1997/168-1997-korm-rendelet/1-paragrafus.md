@@ -1,8 +1,8 @@
 ## Hatáskör, illetékesség[^1]
 
-1. §[^2] (1) A társadalombiztosítási nyugellátások, valamint a nyugdíjbiztosítási igazgatási szervek feladat- és hatáskörébe tartozó egyéb ellátások megállapításával kapcsolatos hatósági ügyekben – a (2) és a (3) bekezdésben vagy más jogszabályban foglalt kivételekkel – első fokon az igénylő lakóhelye, illetve a foglalkoztató vagy egyéb szerv székhelye (telephelye) szerint illetékes nyugdíjbiztosítási igazgatóság jár el.
+1. §[^2] (1) A társadalombiztosítási nyugellátások, valamint a nyugdíjbiztosítási igazgatási szervek feladat- és hatáskörébe tartozó egyéb ellátások megállapításával kapcsolatos hatósági ügyekben – a (2) bekezdésben vagy más jogszabályban foglalt kivételekkel – első fokon az igénylő lakóhelye, illetve a foglalkoztató vagy egyéb szerv székhelye (telephelye) szerint illetékes nyugdíjbiztosítási igazgatóság jár el.
 
-(2) A Központi Nyugdíjnyilvántartó és Informatikai Igazgatóság jár el első fokon a társadalombiztosítási nyugellátások, valamint a nyugdíjbiztosítási igazgatási szervek feladat- és hatáskörébe tartozó egyéb ellátások megállapításával kapcsolatos hatósági ügyekben – a (3) bekezdésben vagy más jogszabályban foglalt kivételekkel –, ha
+(2) A Nyugdíjfolyósító Igazgatóság jár el első fokon a társadalombiztosítási nyugellátások, valamint a nyugdíjbiztosítási igazgatási szervek feladat- és hatáskörébe tartozó egyéb ellátások megállapításával kapcsolatos hatósági ügyekben, ha
 
 a) a hatósági ügy a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá tartozik,
 
@@ -10,15 +10,13 @@ b) a nyugellátást vagy más ellátást szociális biztonsági (szociálpolitik
 
 c) a kérelmező magyarországi lakóhellyel nem rendelkezik,
 
-d) az öregségi nyugdíjra jogosult személy, illetve hozzátartozói nyugellátás esetén az elhunyt jogszerző utolsó biztosítással járó jogviszonya fegyveres szervvel, a Magyar Honvédséggel vagy a Katonai Nemzetbiztonsági Szolgálattal fennállt szolgálati viszony volt, vagy
+d) az öregségi nyugdíjra jogosult személy, illetve hozzátartozói nyugellátás esetén az elhunyt jogszerző utolsó biztosítással járó jogviszonya fegyveres szervvel, a Magyar Honvédséggel vagy a Katonai Nemzetbiztonsági Szolgálattal fennállt szolgálati viszony volt,
 
-e) fegyveres szerv hivatásos állományú tagjának, volt tagjának a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 19. §-a alapján rögzített nyugdíjat kell megállapítani (a továbbiakban: nyugdíjrögzítés).
+e) fegyveres szerv hivatásos állományú tagjának, volt tagjának a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 19. §-a alapján rögzített nyugdíjat kell megállapítani (a továbbiakban: nyugdíjrögzítés),
 
-(3) A Nyugdíjfolyósító Igazgatóság jár el első fokon a hozzátartozói nyugellátások megállapításával kapcsolatos hatósági ügyekben, ha
+f) az elhunyt jogszerző öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesült, kivéve, ha a jogosult a hozzátartozói nyugellátás összegét a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 18. § (3) bekezdése alapján kéri megállapítani, vagy
 
-a) az elhunyt jogszerző öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesült, kivéve, ha a jogosult a hozzátartozói nyugellátás összegét a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 18. § (3) bekezdése alapján kéri megállapítani, vagy
-
-b) az elhunyt jogszerző után hozzátartozói nyugellátás megállapítására már sor került.
+g) az elhunyt jogszerző után hozzátartozói nyugellátás megállapítására már sor került.
 
 [^1]: Az 1. §-t megelőző alcím a 327/2006. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § a 333/2011. (XII. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^2]: Az 1. § a 60/2012. (III. 30.) Korm. rendelet 1. §-ával megállapított szöveg.

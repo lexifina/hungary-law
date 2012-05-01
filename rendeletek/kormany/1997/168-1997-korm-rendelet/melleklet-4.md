@@ -54,7 +54,7 @@
 
 | 25. | 24 | 62,5 | 62,5 | 62,5 | 62,5 | 62,5 | 62,5 |
 
-4. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^285]
+4. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^287]
 
 A nyugdíjbiztosítási visszautalási kérelemhez szükséges adatlap és elektronikus űrlap adattartalma
 
@@ -64,4 +64,4 @@ A nyugdíjbiztosítási visszautalási kérelemhez szükséges adatlap és elekt
 
 3. A visszautaláshoz való jog megnyílásának időpontja.
 
-[^285]: A 4. számú mellékletet a 333/2011. (XII. 29.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^287]: A 4. számú mellékletet a 333/2011. (XII. 29.) Korm. rendelet 27. § (2) bekezdése iktatta be.
