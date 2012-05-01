@@ -6,7 +6,7 @@
 
 3. egylövetű lőfegyver: tölténytár nélküli lőfegyver, amelynek töltényűrjébe vagy a csőfar töltőnyílásába, illetve csőtorkolatán keresztül a csövébe minden lövés leadása előtt külön be kell helyezni a lőszert vagy lőszer alkatrészeket;
 
-4. elöltöltő lőfegyver: az olyan egylövetű- vagy ismétlőfegyver, amelynél a lőport és a lövedéket kizárólag a csőtorkolat irányából lehet a csőbe vagy a forgódobba betölteni, rendeltetésszerűen fekete lőporral vagy gyárilag a fekete lőpor kiváltására készült lőporral és hozzávaló csappantyúval működtethető;
+4. elöltöltő fegyver: az olyan egylövetű- vagy ismétlőfegyver, amelynél a lőport és a lövedéket kizárólag a csőtorkolat irányából lehet a csőbe vagy a forgódobba betölteni, rendeltetésszerűen fekete lőporral vagy gyárilag a fekete lőpor kiváltására készült lőporral és hozzávaló csappantyúval működtethető;
 
 5. expanzív (kiterjedő) lövedékű lőszer: olyan lőszer, melynek lövedéke üreges csúcsú vagy lövedéke a köpenytől eltekintve nem egy darabból áll;
 
@@ -22,7 +22,7 @@
 
 11. hatástalanított lőfegyver: lőszer, illetve lövedék kilövésére véglegesen alkalmatlanná tett lőfegyver;
 
-12. hosszú lőfegyver: olyan lőfegyver, amelynek csöve meghaladja a 30 cm hosszúságot, vagy amelynek teljes hossza meghaladja a 60 cm-t;
+12. hosszú lőfegyver: a rövid lőfegyvernek nem minősülő lőfegyver;
 
 13. ismétlő lőfegyver: olyan lőfegyver, amelyet úgy terveztek és alakítottak ki, hogy minden lövés leadása után tölténytárból vagy forgódobból a szerkezet kézi működtetésével tölthető újra;
 
@@ -34,9 +34,9 @@
 
 17. lőfegyverjavítás: a rendeltetésszerű használatnak meg nem felelő lőfegyver fegyverrészének ugyanolyan alkatrészre történő kicserélése, a lőfegyver irányzékán – a rendeltetés szerinti beállítás, illetve a tartozékok rendeltetésszerű, a körülményekhez igazodó cseréje kivételével – végrehajtott módosítás, továbbá a lőfegyver működőképességének helyreállítása;
 
-18. lőfegyver-kereskedő: az a természetes személy, jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet, aki (amely) kereskedelmi vagy egyéb üzleti tevékenységét teljes egészében vagy részben lőfegyver- vagy lőszergyártás, kereskedelem, közvetítő-kereskedelem, csere, bérbeadás, javítás, hatástalanítás vagy átalakítás területén végzi;
+18. lőfegyver-kereskedő: az a természetes személy, jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet, aki (amely) kereskedelmi vagy egyéb üzleti tevékenységét teljes egészében vagy részben lőfegyver-, lőfegyverdarab- vagy lőszergyártás, kereskedelem, közvetítő kereskedelem, csere, bérbeadás, javítás, hatástalanítás vagy átalakítás területén végzi;
 
-19. lőfegyver, lőszer forgalmazása: lőfegyver, lőszer tulajdonjogának átruházása, bérbeadása, ideértve a kereskedelmi és közvetítő kereskedelmi tevékenységet is;
+19. forgalmazás: lőfegyver, lőszer, illetve egyéb fegyver tulajdonjogának átruházása, bérbeadása, ideértve a kereskedelmi és közvetítő kereskedelmi tevékenységet is;
 
 20. lőfegyver- és lőszerkészítés (a továbbiakban: gyártás): lőfegyver, lőszer, lőfegyverdarab, flóberttöltény és lőszeralkatrész elkészítése, az elkészített alkatrészek készre szerelése, valamint a lőfegyver olyan megmunkálása, amely azt az eredetitől eltérő kaliberjelű lőszer használatára teszi alkalmassá;
 
@@ -50,21 +50,21 @@
 
 25. nyomjelző (fényjelző) lövedékű lőszer: olyan lőszer, melynek lövedéke a röppályát láthatóvá tevő, meggyulladó anyagot is tartalmaz;
 
-26. rendvédelmi szervek: a rendőrség, a Vám- és Pénzügyőrség és a büntetés-végrehajtás szervei;
+26.
 
 27. robbanó lövedékeket tartalmazó lőszer: olyan lőszer, amelynek lövedéke becsapódáskor felrobbanó töltetet tartalmaz;
 
 28. rövid lőfegyver: olyan lőfegyver, amelynek csöve nem haladja meg a 30 cm hosszúságot, vagy amelynek teljes hossza nem haladja meg a 60 centimétert;
 
-29. tűzfegyver: olyan, a törvény mellékletének ,,A'', ,,B'', ,,C'' vagy ,,D'' kategóriájában meghatározott eszköz, amelyből a kiterjedő forró gáz tolóereje által meghajtott szilárd anyagú lövedék lőhető ki, kivéve, ha
+29. tűzfegyver: olyan, a Mellékletben meghatározott „A”, „B”, „C” vagy „D” kategóriába tartozó – vagy ilyenné átalakított – eszköz, amelyből gyúlékony hajtóanyag segítségével szilárd anyagú lövedék lőhető ki, kivéve, ha
 
-a) külön jogszabályban meghatározottak szerint hatástalanították,
+a) a jogszabályban meghatározott módon hatástalanították,
 
-b) riasztásra, jelzésre, életmentésre, állatok leölésére vagy szigonnyal történő halászatra, illetve ipari vagy műszaki célokra tervezték, feltéve, hogy csak az itt megjelölt célokra használják,
+b) riasztásra, jelzésre, életmentésre, állatok leölésére vagy szigonnyal történő halászatra, illetve ipari vagy műszaki célokra tervezték, feltéve, hogy rendeltetésszerűen csak e célokra használható, vagy
 
-c) muzeális fegyvernek tekinthető;
+c) a jogszabály rendelkezése alapján muzeális fegyvernek minősül;
 
-30. tűzfegyver fődarab (lőfegyverdarab): fegyvercső, váltócső, betétcső, zár, forgódob és az ezeket egybefoglaló tokszerkezet. A tűzfegyver fődarab abba a tűzfegyver kategóriába tartozik, amelyre felszerelték vagy amelyhez gyártották;
+30. tűzfegyver fődarab (lőfegyverdarab): fegyvercső, váltócső, betétcső, zár vagy zárszerkezet, forgódob és az ezeket egybefoglaló tokszerkezet. A tűzfegyver fődarab abba a tűzfegyver kategóriába tartozik, amelyre felszerelték vagy amelyhez gyártották;
 
 31. festéklövő fegyver: olyan sűrített levegő vagy egyéb sűrített gáz felhasználásával működő eszköz, melynek csövéből 15 joule vagy annál kisebb mozgási energiával lőhető ki festéklövedék;
 

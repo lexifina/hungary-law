@@ -10,6 +10,6 @@ d) külső formájában automata szerkezetű lőfegyverre hasonlító félautoma
 
 e) huzagolt csövű lőfegyverhez való leváló köpenyes lövedékkel szerelt lőszer
 
-megszerzése és tartása, valamint lézeres célzókészülék és éjszakai irányzék lőfegyverre történő felszerelése.
+tartása, valamint lézeres célzókészülék és éjszakai irányzék lőfegyverre történő felszerelése.
 
-(2) Nem engedélyezhető olyan lőfegyver, lőszer megszerzése és tartása, amelynek használatát arra a célra, amelyre kérelmezték, más jogszabály tiltja.
+(2) Nem engedélyezhető olyan lőfegyver, lőszer tartása, amelynek használatát arra a célra, amelyre kérelmezték, más jogszabály tiltja.

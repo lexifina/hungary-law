@@ -10,7 +10,7 @@ b) a polgári célú pirotechnikai termékek körét, a polgári célú pirotech
 
 a) a hatósági tárolás, leadás, értékesítés, valamint a megsemmisítési eljárás részletes szabályait,
 
-b) a fegyvertartáshoz szükséges elméleti és jártassági követelményeket, a lőterek működtetésére és a lövészetvezetői vizsgára vonatkozó szabályokat.
+b) a fegyvertartáshoz, valamint a házilagos lőszerszereléshez és -újratöltéshez szükséges elméleti és jártassági követelményeket és számonkérésük rendjét, továbbá a lőterek működtetésére és a lövészetvezetői vizsgára vonatkozó szabályokat.
 
 (3) Felhatalmazást kap a rendészetért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben meghatározza:
 

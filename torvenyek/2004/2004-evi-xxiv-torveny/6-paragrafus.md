@@ -6,7 +6,7 @@ b) a nemzetbiztonsági szolgálatok a törvényben meghatározott feladataik ell
 
 c) a külföldi nyomozó hatóság, ügyészség, bíróság, nemzetközi igazságügyi és bűnüldöző szerv, a bűnügyi jogsegélyről szóló jogszabályokban, illetve nemzetközi szerződésben, egyéb nemzetközi kötelezettségvállalásban foglaltak szerint.
 
-(2) Az 5. § (2) bekezdés b) és d) pontjában meghatározott adatok – a lőfegyver műszaki érvényességének időtartama kivételével – a vadászjegy vagy a vadászati engedély visszavonására irányuló eljárás lefolytatása céljából a vadászati hatóság részére továbbíthatók.
+(2) Az 5. § (2) bekezdés b) és d) pontjában meghatározott adatok – a lőfegyver műszaki érvényességének időtartama kivételével – a vadászjegy vagy a vadászati engedély visszavonására irányuló eljárás lefolytatása céljából a vadászati hatóság részére továbbíthatók. A vadászlőfegyver tartására jogosító engedély, valamint az annak alapján kiadott európai lőfegyvertartási engedély visszavonásáról a rendőrség a vadászati hatóságot tájékoztatja.
 
 (3) A lőfegyverek központi nyilvántartásából a Nemzetközi Bűnügyi Együttműködési Központ, illetve Magyarország nemzetközi szerződésben adattovábbításra feljogosított más szerve az (1) bekezdés c) pontjában felsoroltak részére adatszolgáltatás teljesítése céljából az adatok átvételére és továbbítására jogosult.
 

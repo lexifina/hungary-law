@@ -1,4 +1,4 @@
-3/B. § (1) Eltérő rendelkezés hiányában a kizárólag 7,5 joule vagy annál kisebb csőtorkolati energiájú lövedék kilövésére alkalmas tűzfegyver megszerzése és tartása céllövészetre
+3/B. § (1) Eltérő rendelkezés hiányában a kizárólag 7,5 joule vagy annál kisebb csőtorkolati energiájú lövedék kilövésére alkalmas tűzfegyver tartása céllövészetre
 
 a) a (2) bekezdésben meghatározott kérelmezőnek abban az esetben engedélyezhető, ha
 
@@ -14,17 +14,19 @@ megfelel a 3/A. § (1) bekezdés a) és b) pontjában meghatározott feltételne
 
 a) sportlövészet folytatása céljából nyilvántartásba vett sportegyesület, ha az országos sportági szakszövetség a szövetségi tagságot igazolja,
 
-b) olyan szervezet, amely az adott típusú és kaliberjelű lőfegyverre kiadott lőtér-üzemeltetési engedéllyel, valamint lőtérszabályzattal rendelkezik,
+b) olyan szervezet, amely sportcélra, oktatásra vagy az adott típusú és kaliberjelű lőfegyverre kiadott lőtér-üzemeltetési engedéllyel, valamint lőtérszabályzattal, vagy ilyen lőtér bérleti szerződésével rendelkezik,
 
 c) a polgári célra felhasználható lőfegyverek, lőszerek és hatástalanított lőfegyverek vizsgálatára, valamint lőfegyverek és lőszerek hatástalanítására jogosult szervezet,
 
 d) olyan szervezet, amely lőszer gyártására jogosító engedéllyel rendelkezik,
 
-e) olyan szervezet, amely a saját vagy mások vagyonát hivatásszerűen őrzi, mások életét, testi épségét hivatásszerűen védi.
+e) olyan szervezet, amely a saját vagy mások vagyonát hivatásszerűen őrzi, mások életét, testi épségét hivatásszerűen védi, valamint
 
-(3) Gáz- és riasztófegyver önvédelmi célú viselése annak a természetes személynek engedélyezhető, aki megfelel a 3/A. § (1) bekezdés a) és b) pontjában meghatározott feltételnek, és akivel szemben nem áll fenn a 3/A. § (2) bekezdés a), b) vagy c) pontjában meghatározott körülmény.
+f) olyan szervezet, amelynek tevékenységei között a lőoktatás szerepel.
 
-(4) Az (1) és (3) bekezdésben meghatározott engedély kiadására és meghosszabbítására irányuló eljárásban
+(3) Gáz- és riasztófegyver viselése kizárólag önvédelmi célra engedélyezhető, annak a természetes személynek, aki megfelel a 3/A. § (1) bekezdés a) és b) pontjában meghatározott feltételnek, és akivel szemben nem áll fenn a 3/A. § (2) bekezdés a), b) vagy c) pontjában meghatározott körülmény.
+
+(4) Az (1) és (3) bekezdésben meghatározott engedély kiadására irányuló eljárásban
 
 a) a 3/A. § (2) bekezdés a)–c) pontjában meghatározott körülménnyel kapcsolatos igazolásra a 3/A. § (3) és (5) bekezdésében,
 

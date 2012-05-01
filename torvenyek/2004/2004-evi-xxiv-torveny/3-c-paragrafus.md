@@ -12,7 +12,7 @@ személy lehet.
 
 (3) A színházi fegyverek kezeléséért és tárolásáért felelősnek jelölt személyt az (1) bekezdésben meghatározott engedély iránti kérelem benyújtásával egyidejűleg – ha az engedéllyel rendelkező a színházi fegyverek kezeléséért és tárolásáért felelős új személyt kíván megbízni, e megbízásra irányuló jogviszony létesítését harminc nappal megelőzően – a rendőrségnek be kell jelenteni.
 
-(4) A (3) bekezdésben meghatározott bejelentéssel egyidejűleg a színházi fegyverek kezeléséért és tárolásáért felelősnek jelölt személy hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű.
+(4) A (3) bekezdésben meghatározott bejelentéssel egyidejűleg a színházi fegyverek kezeléséért és tárolásáért felelősnek jelölt – az (1) bekezdésben meghatározott engedéllyel nem rendelkező – személy hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, vagy kéri, hogy az e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a rendőrség részére – annak az engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
 
 (5) A rendőrség hatósági ellenőrzés során legalább évente egy alkalommal vizsgálja azt is, hogy a színházi fegyverek kezeléséért és tárolásáért felelős személy büntetlen előéletű-e. A hatósági ellenőrzés során a rendőrség a büntetlen előélet ellenőrzése céljából a bűnügyi nyilvántartási rendszerről szóló törvényben meghatározottak szerinti közvetlen adathozzáférési jogosultsága útján adatot vesz át és kezel.
 
