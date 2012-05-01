@@ -10,7 +10,7 @@ c) anyasági támogatás,
 
 d) a rokkantsági járadék és a vakok személyi járadéka,
 
-e) a megváltozott munkaképességű, illetve egészségkárosodást szenvedett személyt erre tekintettel megillető juttatás (keresetkiegészítés, átmeneti keresetkiegészítés, jövedelemkiegészítés, átmeneti jövedelemkiegészítés, rendszeres szociális járadék, átmeneti járadék, bányászok egészségkárosodási járadéka, megváltozott munkaképességű személyek ellátásai),
+e) az egészségkárosodásra tekintettel járó keresetkiegészítés, az átmeneti keresetkiegészítés, a jövedelemkiegészítés, az átmeneti jövedelemkiegészítés, a bányászok egészségkárosodási járadéka,
 
 f) a törvényen alapuló tartásdíj, ideértve a bíróság által előlegezett gyermektartásdíjat is, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényen alapuló gyermekvédelmi pénzbeli ellátások,
 
