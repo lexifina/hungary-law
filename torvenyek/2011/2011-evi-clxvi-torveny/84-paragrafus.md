@@ -8,7 +8,7 @@
 
 4–49.
 
-50.
+50. az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 16. § (6) bekezdése;
 
 51–58.
 
