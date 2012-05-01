@@ -140,7 +140,7 @@ R. 7/B. §[^58]
 
 R. 7/C. §[^59]
 
-R. 8. §[^60] (1)[^61] A nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem [Tbj. 34. §-ának (1), (5) és (8) bek.] szerzésére irányuló megállapodás megkötésére a megállapodást kötő személy – kedvezményezett javára kötött megállapodás esetén a kedvezményezett – lakóhelye szerint illetékes nyugdíjbiztosítási igazgatóság, Magyarországon lakóhellyel nem rendelkező, külföldön élő személy esetében [Tbj. 34. §-ának (5) bek.] a Központi Nyugdíjnyilvántartó és Informatikai Igazgatóság illetékes.
+R. 8. §[^60] (1)[^61] A nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem [Tbj. 34. §-ának (1), (5) és (8) bek.] szerzésére irányuló megállapodás megkötésére a megállapodást kötő személy – kedvezményezett javára kötött megállapodás esetén a kedvezményezett – lakóhelye szerint illetékes nyugdíjbiztosítási igazgatóság, a Magyarországon lakóhellyel nem rendelkező, külföldön élő személy esetében [Tbj. 34. §-ának (5) bek.] a Nyugdíjfolyósító Igazgatóság illetékes.
 
 (2)[^62] A Tbj. 34. §-a (5) bekezdésének b) pontja szerinti megállapodás megkötésére a megállapodást kötő személyre – ha a megállapodást más javára kötik, a kedvezményezettre – irányadó öregségi nyugdíjkorhatár – figyelemmel a korkedvezményre is – betöltése után kerülhet sor.
 
@@ -528,7 +528,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^58]: A 7/B. §-t a 221/1998. (XII. 30.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 354/2011. (XII. 30.) Korm. rendelet 3. § c) pontja.
 [^59]: Az R. 7/C. §-át a 68/1998. (III. 31.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 354/2011. (XII. 30.) Korm. rendelet 3. § d) pontja.
 [^60]: Az R. 8. §-a a 202/1999. (XII.26.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^61]: Az R. 8. §-ának (1) bekezdése a 366/2007. (XII. 23.) Korm. rendelet 8. §-ával megállapított, a 334/2010. (XII. 27.) Korm. rendelet 10. § e) pontja, a 266/2011. (XII. 13.) Korm. rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^61]: Az R. 8. §-ának (1) bekezdése a 366/2007. (XII. 23.) Korm. rendelet 8. §-ával megállapított, a 334/2010. (XII. 27.) Korm. rendelet 10. § e) pontja, a 266/2011. (XII. 13.) Korm. rendelet 6. § (1) bekezdés b) pontja, a 60/2012. (III. 30.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^62]: Az R. 8. §-ának (2) bekezdését a 208/2000. (XII. 11.) Korm. rendelet 3. §-ának (2) bekezdése iktatta be, mely az eredeti (2) bekezdés számozását (3) bekezdésre változtatta; szövege a 259/2001. (XII. 19.) Korm. rendelet 10. §-a (1) bekezdésének a) pontja szerint kiegészített szöveg.
 [^63]: Az R. 8. §-ának (3) — eredetileg (2) — bekezdése a 262/2005. (XII. 14.) Korm. rendelet 8. §-ával megállapított, a 334/2010. (XII. 27.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
 [^64]: Az R. 8. § (4) bekezdését a 331/2009. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
