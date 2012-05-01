@@ -1,3 +1,3 @@
-7. melléklet az 54/2011. (XII. 29.) NGM rendelethez[^25]
+7. melléklet az 54/2011. (XII. 29.) NGM rendelethez[^21]
 
-[^25]: A 7. melléklet a 12. § (5) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^21]: A 7. melléklet a 12. § (5) bekezdése alapján 2012. július 1-jén lép hatályba.

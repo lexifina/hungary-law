@@ -1,3 +1,1 @@
-5. melléklet az 54/2011. (XII. 29.) NGM rendelethez[^23]
-
-[^23]: Az 5. melléklet a 12. § (3) bekezdése alapján 2012. július 1-jén lép hatályba.
+5. melléklet az 54/2011. (XII. 29.) NGM rendelethez
