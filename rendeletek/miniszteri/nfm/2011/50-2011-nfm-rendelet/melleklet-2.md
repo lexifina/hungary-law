@@ -1,4 +1,4 @@
-## Az értékesítő díjak
+## Az értékesítői díjak
 
 | A | B | C | D | E | F |
 
@@ -78,7 +78,7 @@
 
 | 37 | Eger | EBT Energia Kft. | Evat Zrt. | 0 | 3 408 |
 
-| 38 | Eger | Energo-Holding Kft. | Evat Zrt. | 0 | 3 408 |
+| 38 | Eger | Energo - Holding Kft. | Evat Zrt. | 0 | 3 408 |
 
 | 39 | Érd | Dalkia Energia Zrt. | Érdhő Kft. | 0 | 5 224 |
 
@@ -192,13 +192,13 @@
 
 | 94 | Tatabánya | Kórházi Energia Központ Kft. – Tatabánya Szent Borbála Kórház | Komtávhő Zrt. | 2 619 | 3 892 |
 
-| 95 | Tatabánya | Tatabánya Erőmű Kft. | Komtávhő Zrt. | 4 118 | 4 657 |
+| 95 | Tatabánya | Tatabánya Erőmű Kft. | Komtávhő Zrt. | 6 175 | 4 657 |
 
 | 96 | Tiszaújváros | Tisza-Therm Fűtőerőmű Kft. | TiszaSzolg 2004 Kft. | 10 263 | 3 937 |
 
 | 97 | Vác | Dalkia Energia Zrt. | Váci Távhő Kft. | 0 | 3 998 |
 
-| 98 | Vác | GE Hungary Zrt. | Váci Távhő Kft. | 0 | 3 998 |
+| 98 | Vác | Poligen V Kft. | Váci Távhő Kft. | 0 | 3 998 |
 
 | 99 | Vasvár | Vasi Triász Kft. | RÉGIÓHŐ Regionális Hőszolgáltató Kft. | 0 | 2 486 |
 
@@ -206,4 +206,4 @@
 
 2. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^17]
 
-[^17]: A 2. melléklet a 66/2011. (XI. 30.) NFM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^17]: A 2. melléklet a 66/2011. (XI. 30.) NFM rendelet 3. § (2) bekezdésével megállapított, a 21/2012. (IV. 27.) NFM rendelet 2. §-a szerint módosított szöveg.

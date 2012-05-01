@@ -28,7 +28,7 @@
 
 | 10. | Nyíregyháza | E.ON Energiatermelő Kft. – 4400 Nyíregyháza, Bethlen Gábor u. 92. | kombinált ciklusú erőmű | 15 | 10 | 0 |
 
-| 11. | Tiszaújváros | Tisza-Therm Fűtőerőmű Kft. | belső égésű motor | 27 | 38 | 99 |
+| 11. | Tiszaújváros | Tisza-Therm Fűtőerőmű Kft. | belső égésű motor | 27 | 38 | 80 |
 
 ## B. Az értékesítők meghatározott kapcsolt berendezéseire vonatkozó összhatásfok legkisebb elfogadható mértéke egy adott időszak hónapjaiban
 
