@@ -1,0 +1,1 @@
+## 1. § Az állam tulajdonában lévő és az egészségügyért felelős miniszter irányítása alá tartozó egészségügyi szolgáltatók fenntartói jogának gyakorlására a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetet jelölöm ki.
