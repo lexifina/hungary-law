@@ -1,4 +1,4 @@
-## 12. §[^2]
+## 12. §[^1]
 
 1. melléklet a 45/2011. (XII. 7.) BM rendelethez
 
@@ -30,4 +30,4 @@
 
 13. Beépített hő- és füstelvezető rendszerek telepítését, javítását, karbantartását végzők.
 
-[^2]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

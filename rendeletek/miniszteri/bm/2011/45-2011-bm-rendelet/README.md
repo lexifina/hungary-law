@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-45-20-0
 | --- | --- | --- |
 | 2012-01-01 | 2011-45-20-0A.1 | 45/2011. (XII. 7.) BM rendelet |
 | 2012-01-02 | 2011-45-20-0A.2 | 2010: CXXX. törvény |
+| 2012-05-01 | 2011-45-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

@@ -8,7 +8,7 @@ b) az 1. melléklet 6–11. és 13. pontja szerinti foglalkozási ágakra (munka
 
 rendelkezik.
 
-(2)[^1]
+(2) Az 1. melléklet szerinti foglalkozási ágak (munkakörök) vonatkozásában a szakvizsgáztatásra való jogosultság további feltétele az adott foglalkozási ághoz tartozó érvényes szakvizsga megléte.
 
 (3) A szakvizsgabizottság háromtagú. Elnökét és két tagját az oktatásszervező kéri fel a szakvizsgáztatásra jogosultak közül. A felkérés az 5. § (1) bekezdésben foglalt adatokat tartalmazza, melyet a szakvizsgáztató legalább egy évig megőriz.
 
@@ -23,5 +23,3 @@ c) az oktatásszervező hozzátartozója.
 (5) A szakvizsgabizottság tagja, elnöke nem működhet közre közeli hozzátartozójának, valamint az ugyanannál a munkáltatónál alkalmazásban álló szakvizsgázónak a szakvizsgáztatásában, valamint egyéb olyan esetekben, ahol az elfogulatlan szakvizsgáztatás tőle nem várható el.
 
 (6) A kizárási okot a szakvizsgabizottság tagjának, elnökének, vagy a szakvizsgázónak a szakvizsga előtti nyolc napig kell bejelentenie az oktatásszervezőnek. Az oktatásszervező módosított összetételű szakvizsgabizottság felkérésével köteles az összeférhetetlenségi okot megszüntetni.
-
-[^1]: A 3. § (2) bekezdése a 10. § (2) bekezdése alapján 2012. május 1-jén lép hatályba.
