@@ -1,3 +1,0 @@
-## 24. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet a következő 53/A. §-sal egészül ki:
-
-## „53/A. § E rendeletnek a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet, valamint a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet módosításáról szóló 39/2012. (III. 12.) Korm. rendelettel megállapított 15. § (1) bekezdését a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény módosításáról szóló 2012. évi XIII. törvény (a továbbiakban: Módtv.) hatálybalépését megelőzően legyártott lőfegyverek tekintetében is alkalmazni kell azzal, hogy a bejelentést legkésőbb a Módtv. hatálybalépését követő harmadik hónap utolsó napjáig meg kell tenni.”

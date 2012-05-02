@@ -1,5 +1,0 @@
-## 25. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet a következő 55–55/A. §-sal egészül ki:
-
-## „55. § E rendeletnek a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet, valamint a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet módosításáról szóló 39/2012. (III. 12.) Korm. rendelettel megállapított 32. § (1) bekezdése a Módtv. hatálybalépését megelőzően kiadott engedélyek hatályossága tekintetében is irányadó.
-
-## 55/A. § E rendeletnek a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet, valamint a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet módosításáról szóló 39/2012. (III. 12.) Korm. rendelettel megállapított 5. § (1) bekezdés a) pontját nem kell alkalmazni az Ftv. 3/A. § (2) bekezdés b) és d) pontjában a Módtv. hatálybalépését megelőzően nem említett bűncselekményi, illetve szabálysértési tényállások tekintetében, ha az engedélyt a Módtv. hatálybalépését megelőzően adták meg.”
