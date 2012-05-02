@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-166-00-00
 | 2012-03-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-166-00-00.11 |
 | 2012-04-01 | 2010. évi CXXX. törvény | 2011-166-00-00.12 |
 | 2012-05-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-166-00-00.13 |
+| 2012-05-02 | 2010. évi CXXX. törvény | 2011-166-00-00.14 |
