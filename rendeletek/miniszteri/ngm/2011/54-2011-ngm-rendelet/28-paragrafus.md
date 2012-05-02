@@ -1,3 +1,3 @@
-## 27. §[^13]
+## 27. §[^16]
 
-[^13]: A 27. § a 35. § (3) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^16]: A 27. § a 35. § (3) bekezdése alapján 2012. július 1-jén lép hatályba.

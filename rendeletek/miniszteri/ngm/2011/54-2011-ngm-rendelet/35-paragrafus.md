@@ -1,4 +1,4 @@
-## 32–34. §[^18]
+## 32–34. §[^21]
 
 ## Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 11. § (2) bekezdése, a 12. § (5) bekezdése, a 27. § és a 30. § (2) bekezdése 2012. július 1-jén lép hatályba.
 
-[^18]: A 32–34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 32–34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
