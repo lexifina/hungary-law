@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-44-20-2
 | 2012-03-21 | 2012-44-20-22.1 | 44/2012. (III. 20.) Korm. rendelet |
 | 2012-03-22 | 2012-44-20-22.2 | 2010: CXXX. törvény |
 | 2012-05-01 | 2012-44-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2012-05-02 | 2012-44-20-22.4 | 2010: CXXX. törvény |
