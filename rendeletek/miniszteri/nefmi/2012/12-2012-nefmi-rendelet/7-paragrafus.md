@@ -1,3 +1,0 @@
-## 6. § Az R. 12. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A MIAB tanácsadó testület, amely az alakuló ülésen elfogadott ügyrend szerint működik. A MIAB elnöke a megyei tisztifőorvos, titkára a megyei tisztifőorvos javaslata alapján az ügyrendben meghatározott személy. A MIAB tagjai a megyei (fővárosi) tisztifőgyógyszerész, az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) főigazgatója által kijelölt személy, és az infektológiai, mikrobiológiai laboratóriumi diagnosztikai, és infekciókontroll tevékenység felett szakfelügyeletet gyakorló, területileg illetékes szakfelügyelők.”
