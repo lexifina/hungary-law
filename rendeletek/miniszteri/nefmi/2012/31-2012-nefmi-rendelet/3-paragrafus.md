@@ -1,3 +1,5 @@
 ## 2. § Ez a rendelet 2012. május 1-jén lép hatályba.
 
-3. § Hatályát veszti az állam tulajdonába és fenntartásába került egészségügyi intézmények tekintetében vagyonkezelői joggal rendelkező államigazgatási szerv kijelöléséről szóló 72/2011. (XII. 27.) NEFMI rendelet.
+3. §[^1]
+
+[^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
