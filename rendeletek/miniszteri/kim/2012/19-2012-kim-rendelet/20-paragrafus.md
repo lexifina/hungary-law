@@ -17,3 +17,7 @@ b) szakmai része a támogatott tevékenység megvalósításának igazolása te
 foglalja magában.
 
 (2) A beszámolóhoz felhasznált számlák, számviteli bizonylatok eredeti példányaira szövegszerűen fel kell vezetni a költségvetési támogatásból felhasznált összeget és a támogatási szerződés iktatószámát vagy nyilvántartási számát, és ezt követően a dokumentumról a beszámolóhoz csatolandó másolatot kell készíteni. A másolatra az eredeti irattal történő egyezőségre vonatkozó záradékot kell felvezetni és azt a kedvezményezett aláírásával hitelesíteni.
+
+(3)[^1] A pénzügyi elszámoláshoz az (1) bekezdés a) pontjának ab)–ad) alpontjai szerinti dokumentum (2) bekezdés szerinti másolatát abban az esetben kell mellékelni, ha az azon feltüntetett bruttó érték meghaladja az Ávr. 80. § (5) bekezdésében meghatározott értékhatárt. Az ezen értékhatár alatt eredeti számlára, számviteli bizonylatra akkor is fel kell vezetni a (2) bekezdés szerinti szöveget, ha azt a beszámolóhoz másolatként nem csatolták.
+
+[^1]: A 20. § (3) bekezdését a 24/2012. (IV. 25.) KIM rendelet 20. §-a iktatta be.
