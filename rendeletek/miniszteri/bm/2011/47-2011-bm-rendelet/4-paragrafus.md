@@ -2,7 +2,7 @@
 
 (2) A 2. § (5) bekezdésében meghatározott vizsgabizottság előtti sikertelen vizsga esetén ismételt vizsga egy alkalommal tehető.
 
-(3) Az ismételt vizsga eljárásért a szolgáltatási rendelet alapján díjat kell fizetni a BM OKF részére.
+(3)[^1]
 
 (4) Sikertelen ismételt vizsga esetén annak időpontjától számított 1 éven belül a sikertelen szakterületre vonatkozó szakértői engedély kérelem nem nyújtható be.
 
@@ -15,3 +15,5 @@ b) a szakértői engedélyben szereplő adat megváltozása, vagy
 c) hibás adatokat tartalmazó szakértői engedély
 
 esetén.
+
+[^1]: A 4. § (3) bekezdését a 16/2012. (IV. 3.) BM rendelet 6. §-a hatályon kívül helyezte.

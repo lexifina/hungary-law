@@ -4,4 +4,6 @@
 
 (3) A kiegészítő vizsga tárgyát a szakértői engedély kiadása vagy utolsó meghosszabbítása után hatályba lépett vagy módosított jogszabályok és megjelent szabványok képezik.
 
-(4) A kiegészítő vizsga eljárásért a szolgáltatási rendelet alapján díjat kell fizetni a BM OKF részére.
+(4)[^2]
+
+[^2]: Az 5. § (4) bekezdését a 16/2012. (IV. 3.) BM rendelet 6. §-a hatályon kívül helyezte.
