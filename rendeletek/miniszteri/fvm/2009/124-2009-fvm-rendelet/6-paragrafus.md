@@ -36,7 +36,7 @@ feltüntetésével, az Irányító Hatóság által meghatározott formátumon r
 
 g) a támogatott teljes területen az egyes célprogramokhoz kapcsolódó támogatás igénybevételének részletes szabályai szerinti előírásokat a támogatási időszak teljes időtartama alatt betartani,
 
-h)[^1] a vegyszeres védekezés végrehajtása esetén az erdészeti hatóságnak a támogatott terület elhelyezkedése szerint illetékes szervét a tervezett védekezés megkezdése előtt legalább 15 nappal írásban értesíteni a beavatkozás tervezett helyének és időpontjának megjelölésével.
+h)[^4] a vegyszeres védekezés végrehajtása esetén az erdészeti hatóságnak a támogatott terület elhelyezkedése szerint illetékes szervét a tervezett védekezés megkezdése előtt legalább 15 nappal írásban értesíteni a beavatkozás tervezett helyének és időpontjának megjelölésével.
 
 (2) A célprogramok végrehajtása során vegyszer használata csak az alábbi esetekben és feltételekkel engedélyezett:
 
@@ -56,4 +56,4 @@ a) a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők rész�
 
 b) az egységes területalapú támogatások és egyes vidékfejlesztési támogatások igényléséhez teljesítendő „Helyes Mezőgazdasági és Környezeti Állapot” fenntartásához szükséges feltételrendszer, valamint az állatok állategységre való átváltási arányának meghatározásáról szóló 50/2008. (IV. 24.) FVM rendelet 1. számú mellékletében meghatározott előírásokat.
 
-[^1]: A 6. § (1) bekezdés h) pontja a 21/2010. (III. 16.) FVM rendelet 15. §-a szerint módosított szöveg.
+[^4]: A 6. § (1) bekezdés h) pontja a 21/2010. (III. 16.) FVM rendelet 15. §-a szerint módosított szöveg.

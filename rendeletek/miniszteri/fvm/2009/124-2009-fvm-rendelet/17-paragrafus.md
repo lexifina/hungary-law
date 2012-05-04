@@ -34,8 +34,10 @@ d) a fakitermelés és anyagmozgatás során nem keletkezhet 20 cm-nél mélyebb
 
 (5) A célprogram időtartama 10 év.
 
-(6) A támogatás mértéke
+(6)[^19] A támogatás mértéke
 
-a) az első évben 196 euró/ha,
+a) az első évben hektáronként 274 eurónak megfelelő forintösszeg,
 
-b) a második évtől kezdődően 76 euró/ha/év.
+b) a második évtől kezdődően hektáronként 106 eurónak megfelelő forintösszeg/év.
+
+[^19]: A 17. § (6) bekezdése a 44/2012. (V. 3.) VM rendelet 19. §-ával megállapított szöveg.

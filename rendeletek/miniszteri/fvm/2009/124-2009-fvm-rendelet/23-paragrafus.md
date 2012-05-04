@@ -36,4 +36,6 @@ h) a szemétszállítás, a szemétgyűjtés időpontját a munkanaplóban rögz
 
 (4) A célprogram időtartama 7 év.
 
-(5) A támogatás mértéke a támogatott terület után 200 euró/ha/év.
+(5)[^27] A támogatás éves mértéke a támogatott terület után hektáronként 280 eurónak megfelelő forintösszeg.
+
+[^27]: A 23. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 25. §-ával megállapított szöveg.

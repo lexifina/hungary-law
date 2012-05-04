@@ -2,7 +2,7 @@
 
 5. § (1) Támogatásra az ügyfél akkor jogosult, ha
 
-a) a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: erdészeti hatóság) által az erdőtörvény alapján, a támogatási kérelem benyújtásakor, nyilvántartásba vett erdőgazdálkodó,
+a)[^2] a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: erdészeti hatóság) által az erdőtörvény alapján – a támogatási kérelem benyújtásakor – nyilvántartásba vett erdőgazdálkodó,
 
 b) erdőgazdálkodói jogosultsága az adott területre határozatlan időre vagy az adott célprogram teljes támogatási időszakára vonatkozóan fennáll,
 
@@ -16,4 +16,7 @@ d) a támogatási kérelem benyújtását megelőző két naptári évben e rend
 
 (4) Ha a támogatási jogosultság megállapítása során az Adattárban szereplő adatok szolgálnak alapul, az Adattárnak a támogatási kérelem benyújtási időszakának utolsó napja szerint aktuális adatait kell figyelembe venni.
 
-(5) A célprogramok során csak az 1. melléklet szerinti, az adott erdészeti tájban kiemelten támogatható vagy támogathatóként feltüntetett célállományok kialakítása, illetve fenntartása érdekében végzett erdőgazdálkodási tevékenység támogatható.
+(5)[^3] A célprogramok során – a közjóléti célú erdők fenntartása célprogram kivételével – csak az 1. melléklet szerinti, az adott erdészeti tájban kiemelten támogatható vagy támogathatóként feltüntetett célállományok kialakítása és fenntartása érdekében végzett erdőgazdálkodási tevékenység támogatható.
+
+[^2]: Az 5. § (1) bekezdés a) pontja a 44/2012. (V. 3.) VM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 5. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 14. § (2) bekezdésével megállapított szöveg.

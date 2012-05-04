@@ -56,10 +56,12 @@
 
 27. támogatott terület: a jóváhagyó, illetve részben jóváhagyó támogatási határozat szerinti erdőrészlet vagy erdőrészletek teljes területe, amelyen a támogatott tevékenység megvalósul,
 
-28. területhatár állandósítás: olyan tevékenység, amely során a faállománnyal borított terület esetében a terület megközelítését szolgáló úthoz legközelebb eső határpontot szabványosított, számozott erdészeti határkaróval, majd a határ további pontjait az összelátást biztosítva a határon lévő fákon az erdőrészletek határának jelzésére használt fehér színű festéssel jelölik meg azzal, hogy ha a terület határán a támogatási időszak alatt jelölésre alkalmas fák nincsenek, a terület töréspontjain szabványosított erdészeti határjeleket kell elhelyezni,
+28.[^1] területhatár állandósítás: olyan tevékenység, amely során a faállománnyal borított terület esetében a terület megközelítését szolgáló úthoz legközelebb eső határpontot határkaróval, majd a határ további pontjait az összelátást biztosítva a határon lévő fákon fehér színű festéssel jelölik meg azzal a megkötéssel, hogy ha a terület határán a támogatási időszak alatt jelölésre alkalmas fák nincsenek, a terület határvonalainak töréspontjaira jól látható határkarókat kell elhelyezni,
 
 29. visszatérési idő: egymást követő, léknyitást vagy a lék területének a bővítését eredményező erdőgazdálkodási tevékenység között eltelt idő,
 
 30. vízmosás: terepfelszíni vízmozgás, lefolyás hatására kialakult, 3 m-nél mélyebb meder,
 
 31. záródás: olyan területviszonyszám, amely megmutatja, hogy az erdőrészlet felső lombkoronaszintjében található fák koronavetülete hány százalékban borítja a részlet teljes területét.
+
+[^1]: A 2. § 28. pontja a 44/2012. (V. 3.) VM rendelet 13. §-ával megállapított szöveg.

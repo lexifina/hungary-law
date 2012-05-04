@@ -10,7 +10,7 @@
 
 a) a támogatási kérelem benyújtását követő első évben kétszeri szárzúzást vagy kaszálást kell végrehajtani szeptember 30-ig,
 
-b) a támogatási kérelem benyújtását követő első év október 1-jét követően a támogatott területen a (3) bekezdés f) pontja szerinti egyedek kivételével egyévesnél idősebb fa- és cserjefaj nem lehet,
+b)[^28] a támogatási kérelem benyújtását követő második év március 31-ét követően a támogatott területen a (3) bekezdés f) pontja szerinti egyedek kivételével egyévesnél idősebb fa- és cserjefaj nem lehet,
 
 c) természetvédelmi terület esetén a szárzúzást 15 nappal annak megkezdése előtt a működési terület szerinti természetvédelmi kezelésért felelős szervnek írásban be kell jelenteni,
 
@@ -22,7 +22,7 @@ f) védett cserje- és fafajok kivételével hektáronként legfeljebb 20 db fa 
 
 g) védett cserje- és fafajok kivágása tilos,
 
-h) a többlet fák és cserjék eltávolítását a támogatási kérelem benyújtását követő első év október 1-jétől a támogatási kérelem benyújtását követő második év március 31-ig lehet elvégezni,
+h)[^29]
 
 i) a támogatási kérelem benyújtását követő második évtől kezdődően évente legalább egyszer, szeptember 1. és október 10. között egy őszi tisztító kaszálást kell elvégezni,
 
@@ -34,8 +34,12 @@ l) a szárzúzások, kaszálások, lehordások időpontjait a munkanaplóban rö
 
 (4) A célprogram időtartama 7 év.
 
-(5) A támogatás mértéke
+(5)[^30] A támogatás mértéke
 
-a) első évben 196 euró/ha,
+a) első évben hektáronként 274 eurónak megfelelő forintösszeg,
 
-b) második évtől 36 euró/ha/év.
+b) második évtől hektáronként 50 eurónak megfelelő forintösszeg/év.
+
+[^28]: A 24. § (3) bekezdés b) pontja a 44/2012. (V. 3.) VM rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^29]: A 24. § (3) bekezdés h) pontját a 44/2012. (V. 3.) VM rendelet 30. §-a hatályon kívül helyezte.
+[^30]: A 24. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 26. § (2) bekezdésével megállapított szöveg.

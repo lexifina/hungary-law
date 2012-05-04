@@ -14,9 +14,9 @@ b) átalakító üzemmódban az erdőrészletre tisztítás, törzskiválasztó 
 
 a) az erdészeti hatóság által engedélyezett fahasználatot – annak során hektáronként legalább 1 lék nyitását vagy meglévő lék bővítését – az első kifizetési kérelem benyújtásáig el kell végezni,
 
-b) az átalakító üzemmódban a nevelővágások (tisztítás, törzskiválasztó gyérítés) és a készletgondozó használat során a támogatási időszak alatt az erdőrészlet területének legfeljebb 5%-án nyitható vagy bővíthető lék, ahol az egyes lékek mérete nem haladhatja meg a 250 m2-t,
+b)[^16] az átalakító üzemmódban a nevelővágások, így a tisztítás és a törzskiválasztó gyérítés során a támogatási időszak alatt az erdőrészlet területének legfeljebb 5%-án nyitható vagy bővíthető lék, ahol az egyes lékek mérete nem haladhatja meg a 250 m2-t,
 
-c) az átalakító üzemmódban a támogatási időszak alatt növedékfokozó gyérítés során az erdőrészlet területének legfeljebb 10%-án, szálalóvágás során legfeljebb 20%-án nyitható vagy bővíthető lék, ahol az egyes lékek mérete nem haladhatja meg az 500 m2-t,
+c)[^17] az átalakító üzemmódban a támogatási időszak alatt növedékfokozó gyérítés és a készletgondozó használat során az erdőrészlet területének legfeljebb 10%-án, szálalóvágás során legfeljebb 20%-án nyitható vagy bővíthető lék, ahol az egyes lékek mérete nem haladhatja meg az 500 m2-t,
 
 d) az átalakító üzemmódú erdőrészletben a támogatási időszak alatt legfeljebb kétszer lehet csoportos szerkezet kialakulását elősegítő módon nevelővágást végezni,
 
@@ -46,4 +46,8 @@ p) a 4. melléklet szerinti tartalommal, az aktuális természetbeni állapot al
 
 (4) A célprogram időtartama 10 év.
 
-(5) A támogatás mértéke 164 euró/ha/év.
+(5)[^18] A támogatás éves mértéke hektáronként 230 eurónak megfelelő forintösszeg.
+
+[^16]: A 16. § (3) bekezdés b) pontja a 44/2012. (V. 3.) VM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^17]: A 16. § (3) bekezdés c) pontja a 44/2012. (V. 3.) VM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^18]: A 16. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 18. § (2) bekezdésével megállapított szöveg.

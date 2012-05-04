@@ -12,8 +12,11 @@ b) a fakitermelés és anyagmozgatás megkezdését és várható befejezését,
 
 c) a fakitermelés és anyagmozgatás során nem keletkezhet 20 cm-nél mélyebb közelítési, illetve vonszolási nyom,
 
-d) a kitermelt fatömeg és a megmaradó faállományon keletkezett tő- és törzssérülések viszonyszáma nem haladhatja meg az 5 m3/darab mértéket.
+d)[^31] a kitermelt (bruttó) faanyag minden 5 m2-ére számítva legfeljebb 1 darab törzsön lehet olyan sérülés, amely a háncsig hatol, vagy a faanyag minőségét hosszú távon befolyásolja.
 
 (3) A célprogram időtartama 1 év.
 
-(4) A támogatás mértéke a kiközelített faanyag után 12,45 euró/m3, de legfeljebb 50 m3-nek megfelelő euró hektáronként.
+(4)[^32] A támogatás mértéke a kiközelített (nettó) faanyag után 17,45 eurónak megfelelő forintösszeg/m2, de legfeljebb 50 m2-nek megfelelő euró hektáronként.
+
+[^31]: A 25. § (2) bekezdés d) pontja a 44/2012. (V. 3.) VM rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^32]: A 25. § (4) bekezdése a 44/2012. (V. 3.) VM rendelet 27. § (2) bekezdésével megállapított szöveg.

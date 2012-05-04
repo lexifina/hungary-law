@@ -42,4 +42,6 @@ b) a 10 fok feletti lejtésű területek esetében az első kifizetési kérelem
 
 (4) A célprogram időtartama 7 év.
 
-(5) A támogatás mértéke 200 euró/ha/év.
+(5)[^26] A támogatás éves mértéke hektáronként 280 eurónak megfelelő forintösszeg.
+
+[^26]: A 22. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 24. §-ával megállapított szöveg.

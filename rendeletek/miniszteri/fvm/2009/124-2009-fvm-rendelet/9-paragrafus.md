@@ -1,10 +1,10 @@
-## 8. §[^7] A támogatási kérelmek bírálata az Adattárnak a benyújtás éve szerinti benyújtási időszak utolsó napjának állapota alapján, erdőrészlet szinten, a 3. melléklet pontrendszere szerint, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 32. § (1) bekezdés c) pontja alapján elvégzett, a támogatási kérelemben szereplő támogatható területekre vonatkozóan összeállított rangsorral történik. A rangsorolás után a támogatási kérelemről a rendelkezésre álló keret alapján a Mezőgazdasági és Vidékfejlesztési Hivatal Központja (a továbbiakban: MVH) dönt.
+## 8. §[^10] A támogatási kérelmek bírálata az Adattárnak a benyújtás éve szerinti benyújtási időszak utolsó napjának állapota alapján, erdőrészlet szinten, a 3. melléklet pontrendszere szerint, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 32. § (1) bekezdés c) pontja alapján elvégzett, a támogatási kérelemben szereplő támogatható területekre vonatkozóan összeállított rangsorral történik. A rangsorolás után a támogatási kérelemről a rendelkezésre álló keret alapján a Mezőgazdasági és Vidékfejlesztési Hivatal Központja (a továbbiakban: MVH) dönt.
 
 ## A támogatás folyósítása
 
 9. § (1) A támogatás folyósítása az évente egyszer benyújtható kifizetési kérelem alapján történik.
 
-(2)[^8] A kifizetési kérelmet elektronikus úton, az egységes kérelem részeként, május 15-ig lehet benyújtani.
+(2)[^11] A kifizetési kérelmet elektronikus úton, az egységes kérelem részeként, május 15-ig lehet benyújtani.
 
 (3) Az 5. § (1)–(3) bekezdésében foglaltak a kifizetési kérelmek esetében is ellenőrzésre kerülnek.
 
@@ -24,5 +24,12 @@ b) kifizetési kérelme a támogatott területre vonatkozóan elutasításra ker
 
 a támogatott terület az intézkedésből a támogatási időszak lejáratáig kizárásra kerül, és a támogatott területre vonatkozóan már igénybe vett teljes támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni.
 
-[^7]: A 8. § a 139/2009. (X. 22.) FVM rendelet 15. § (3) bekezdésével megállapított szöveg.
-[^8]: A 9. § (2) bekezdése a 139/2009. (X. 22.) FVM rendelet 15. § (4) bekezdésével megállapított szöveg.
+(9)[^12] Ha az ügyfél a kifizetési kérelem benyújtásának évében a kifizetési kérelemre hozott határozattal érintett erdőrészlet vonatkozásában az Európai Mezőgazdasági Vidékfejlesztési Alapból Natura 2000 erdőterületek esetében folyósítható kompenzációs támogatásban is részesül, akkor
+
+a) a 3. § d) pontja szerinti célprogram esetén a támogatás mértéke az adott évben hektáronként 42 eurónak megfelelő forintösszeggel csökken;
+
+b) a 3. § e) pont ea) és eb) alpontja szerinti célprogramok esetén a támogatás mértéke az adott évben hektáronként 37 eurónak megfelelő forintösszeggel csökken.
+
+[^10]: A 8. § a 139/2009. (X. 22.) FVM rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^11]: A 9. § (2) bekezdése a 139/2009. (X. 22.) FVM rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^12]: A 9. § (9) bekezdését a 44/2012. (V. 3.) VM rendelet 16. §-a iktatta be.
