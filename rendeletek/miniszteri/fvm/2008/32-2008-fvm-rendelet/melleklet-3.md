@@ -4,7 +4,7 @@
 
 | Minimális csemeteszám (db/ha) | 8000 | 8000 | 4500 | 4500 | 600 | 8000 |
 
-3. számú melléklet a 32/2008. (III. 27.) FVM rendelethez[^30]
+3. számú melléklet a 32/2008. (III. 27.) FVM rendelethez[^35]
 
 |  | A | B | C |
 
@@ -80,4 +80,4 @@
 
 | 36. | Szempontok összesen: | 100 |
 
-[^30]: A 3. számú melléklet a 87/2011. (IX. 2.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^35]: A 3. számú melléklet a 87/2011. (IX. 2.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.

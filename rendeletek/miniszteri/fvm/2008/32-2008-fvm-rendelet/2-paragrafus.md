@@ -32,6 +32,7 @@
 
 15. természeti katasztrófa: hó, jég, szél, belvíz, fagy, aszály, tűz, illetve árvíz által okozott erdőkárok;
 
-16. területhatár állandósítás: olyan tevékenység, amely során a károsodott faállománnyal borított terület esetében a terület megközelítését szolgáló úthoz legközelebb eső határpontot EP felirattal ellátott, szabványosított, számozott erdészeti határkaróval, majd a határ további pontjait az összelátást biztosítva a határon lévő fákon az erdőrészletek határának jelzésére használt fehér színű festéssel, valamint EP felirattal jelölik meg.
+16.[^2] területhatár állandósítás: olyan tevékenység, amely során a faállománnyal borított terület esetében a terület megközelítését szolgáló úthoz legközelebb eső határpontot határkaróval, majd a határ további pontjait az összelátást biztosítva a határon lévő fákon fehér színű festéssel jelölik meg azzal a megkötéssel, hogy ha a terület határán a támogatási időszak alatt jelölésre alkalmas fák nincsenek, a terület határvonalainak töréspontjaira jól látható határkarókat kell elhelyezni.
 
 [^1]: A 2. § a 87/2011. (IX. 2.) VM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § 16. pontja a 44/2012. (V. 3.) VM rendelet 1. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 3. § (1) E rendelet alapján normatív, vissza nem térítendő támogatás vehető igénybe, az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 48. cikkében foglaltak szerint.
 
-(2)[^2] A támogatás az Evt. hatálya alá tartozó területeken vehető igénybe az e rendeletben meghatározott részletes szakmai feltételek szerint.
+(2)[^3] A támogatás az Evt. hatálya alá tartozó területeken vehető igénybe az e rendeletben meghatározott részletes szakmai feltételek szerint.
 
 (3) A támogatás
 
@@ -12,7 +12,7 @@ b) kiegészítő
 
 ## támogatásból áll.
 
-(4)[^3] Az erdészeti potenciál helyreállítási alaptámogatás
+(4)[^4] Az erdészeti potenciál helyreállítási alaptámogatás
 
 a) az erdőfelújítást megelőző terület-előkészítési, károsodott faállomány letermelési;
 
@@ -46,8 +46,8 @@ c) 15 fokot meghaladó lejtésű területen rőzsefonat vagy talajfogó gát lé
 
 (8) A kiegészítő támogatás önállóan nem, csak az alaptámogatással együtt vehető igénybe.
 
-(9)[^4] Ugyanarra a területre egy alaptámogatás vehető igénybe, kivéve a (4) bekezdés a) pontjában meghatározott alaptámogatást, amely a (4) bekezdés b) pontjában meghatározott alaptámogatások egyikével együtt is igénybe vehető.
+(9)[^5] Ugyanarra a területre egy alaptámogatás vehető igénybe, kivéve a (4) bekezdés a) pontjában meghatározott alaptámogatást, amely a (4) bekezdés b) pontjában meghatározott alaptámogatások egyikével együtt is igénybe vehető.
 
-[^2]: A 3. § (2) bekezdése a 87/2011. (IX. 2.) VM rendelet 10. § (1) bekezdése szerint módosított szöveg.
-[^3]: A 3. § (4) bekezdése a 87/2011. (IX. 2.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^4]: A 3. § (9) bekezdése a 87/2011. (IX. 2.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^3]: A 3. § (2) bekezdése a 87/2011. (IX. 2.) VM rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^4]: A 3. § (4) bekezdése a 87/2011. (IX. 2.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (9) bekezdése a 87/2011. (IX. 2.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
