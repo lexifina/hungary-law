@@ -16,7 +16,7 @@
 
 6. többszintes parkolóházhoz kapcsolódó üzemanyagtöltő,
 
-7.[^32] nem zavaró hatású egyéb gazdasági tevékenység céljára szolgáló épület,
+7.[^31] nem zavaró hatású egyéb gazdasági tevékenység céljára szolgáló épület,
 
 8. a gazdasági tevékenységi célú épületen belül a tulajdonos, a használó és a személyzet számára szolgáló lakások,
 
@@ -34,4 +34,4 @@
 
 (4) A központi vegyes területen nem helyezhető el önálló parkolóterület és garázs a 3,5 t önsúlynál nehezebb gépjárművek és az ilyeneket szállító járművek számára.
 
-[^32]: A 17. § (2) bekezdésének 7. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének d) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^31]: A 17. § (2) bekezdésének 7. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének d) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-253-20-
 | 2011-08-26 | 1997-253-20-22.27 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2012-01-01 | 1997-253-20-22.28 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2012-04-15 | 1997-253-20-22.29 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2012-05-04 | 1997-253-20-22.30 | 90/2012. (IV. 26.) Korm. rendelet |

@@ -6,7 +6,7 @@
 
 10. § (1) A lakóterület elsősorban lakóépületek elhelyezésére szolgál.
 
-(2)[^24] A lakóterület lehet:
+(2)[^23] A lakóterület lehet:
 
 1. nagyvárosias (sűrű beépítésű és 12,5 m feletti megengedett legnagyobb építménymagasságú) lakóterület,
 
@@ -16,4 +16,4 @@
 
 4. falusias (7,5 m-t meg nem haladó – a lakóépületre vonatkozó – megengedett legnagyobb építménymagasságú) lakóterület.
 
-[^24]: A 10. § (2) bekezdése a 36/2002. (III. 7.) Korm. rendelet 6. §-ával megállapított szöveg, e módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a 2002. 03. 15. napját követően indított ügyekben kell alkalmazni.
+[^23]: A 10. § (2) bekezdése a 36/2002. (III. 7.) Korm. rendelet 6. §-ával megállapított szöveg, e módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a 2002. 03. 15. napját követően indított ügyekben kell alkalmazni.

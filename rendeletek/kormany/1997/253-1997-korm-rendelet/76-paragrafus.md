@@ -8,9 +8,9 @@ a) villamos berendezések elhelyezésére szolgáló helyiségekben (pl. transzf
 
 b) olyan helyiségben, amelynek belső hőmérséklete +2 °C alá süllyedhet (pl. hűtőkamában),
 
-c)[^148] önálló rendeltetési egységek közötti elválasztó falban, födémben, ha az huzamos tartózkodás céljára szolgáló helyiséget határol (pl. lakáselválasztó falban, ahol az lakószobával határos),
+c)[^147] önálló rendeltetési egységek közötti elválasztó falban, födémben, ha az huzamos tartózkodás céljára szolgáló helyiséget határol (pl. lakáselválasztó falban, ahol az lakószobával határos),
 
-d)[^149] védelem alatt álló, képző- és iparművészeti értékű kiképzéssel megvalósított helyiségekben, valamint e helyiségek feletti helyiségekben, ezek határoló szerkezeteiben (falában, födémében, padozatában).
+d)[^148] védelem alatt álló, képző- és iparművészeti értékű kiképzéssel megvalósított helyiségekben, valamint e helyiségek feletti helyiségekben, ezek határoló szerkezeteiben (falában, födémében, padozatában).
 
-[^148]: A 76. § (2) bekezdésének c) pontja a 182/2008. (VII. 14.) Korm. rendelet 31. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^149]: A 76. § (2) bekezdésének d) pontját a 182/2008. (VII. 14.) Korm. rendelet 31. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^147]: A 76. § (2) bekezdésének c) pontja a 182/2008. (VII. 14.) Korm. rendelet 31. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^148]: A 76. § (2) bekezdésének d) pontját a 182/2008. (VII. 14.) Korm. rendelet 31. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

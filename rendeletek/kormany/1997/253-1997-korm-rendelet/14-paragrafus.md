@@ -20,6 +20,6 @@
 
 8. üzemanyagtöltő.
 
-(3)[^30] A falusias lakóterületen elhelyezhető a terület rendeltetésszerű használatát nem zavaró hatású egyéb – nem nagyüzemi – gazdasági tevékenység céljára szolgáló építmény is.
+(3)[^29] A falusias lakóterületen elhelyezhető a terület rendeltetésszerű használatát nem zavaró hatású egyéb – nem nagyüzemi – gazdasági tevékenység céljára szolgáló építmény is.
 
-[^30]: A 14. § (3) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^29]: A 14. § (3) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

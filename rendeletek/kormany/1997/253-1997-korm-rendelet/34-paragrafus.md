@@ -10,9 +10,9 @@ c) ikres beépítési mód esetén a szomszédos telkek egymás felőli építé
 
 d) zártsorú és csoportos beépítési mód esetén annak a telek előkerti építési határvonalához csatlakozó oldalai a telek két oldalhatára legyen (1. ábra).
 
-(2)[^58] A helyi építési szabályzat, szabályozási terv építési vonalakat meghatározhat.
+(2)[^57] A helyi építési szabályzat, szabályozási terv építési vonalakat meghatározhat.
 
-(3)[^59] Zártsorú beépítési mód esetén a helyi építési szabályzat előírhatja hogy az épületek zárt sora helyenként, a megengedett építménymagasság legalább 2/3-a, de minimum 10,0 m-es épületközzel szakadjon meg. Ha az épületköz területe két telekre esik, abból legalább 30%-ának, de minimum 3,0 m széles résznek egy telekre kell esnie.
+(3)[^58] Zártsorú beépítési mód esetén a helyi építési szabályzat előírhatja hogy az épületek zárt sora helyenként, a megengedett építménymagasság legalább 2/3-a, de minimum 10,0 m-es épületközzel szakadjon meg. Ha az épületköz területe két telekre esik, abból legalább 30%-ának, de minimum 3,0 m széles résznek egy telekre kell esnie.
 
-[^58]: A 34. § (2) bekezdésének második mondatát a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése hatályon kívül helyezte.
-[^59]: A 34. § (3) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^57]: A 34. § (2) bekezdésének második mondatát a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése hatályon kívül helyezte.
+[^58]: A 34. § (3) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

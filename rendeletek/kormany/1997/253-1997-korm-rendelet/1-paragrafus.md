@@ -2,15 +2,10 @@
 
 ## ÁLTALÁNOS RENDELKEZÉSEK
 
-1. § (1) Területet felhasználni, továbbá telket alakítani, építményt, építményrészt, épületegyüttest építeni, átalakítani, bővíteni, felújítani, helyreállítani, korszerűsíteni és lebontani, elmozdítani, a rendeltetését megváltoztatni (a továbbiakban együtt: építési munka) és ezekre hatósági engedélyt adni e rendelet és mellékletei, valamint a helyi településrendezési eszközök (a helyi építési szabályzat és a szabályozási terv) rendelkezései szerint szabad.
+1. §[^1] (1) Területet használni, építmény elhelyezésére felhasználni, telket alakítani, építés alapjául szolgáló tervet elkészíteni, építményt építeni, átalakítani, bővíteni, felújítani, helyreállítani, korszerűsíteni, elmozdítani vagy lebontani, továbbá az építmény rendeltetését megváltoztatni e rendelet, valamint a helyi építési szabályzat rendelkezései szerint szabad.
 
-(2) Külön jogszabály alapján védett területet, építményt éritnő felhasználást, építési munkát engedélyezni és végezni a védett érték figyelembevételével és a védetté nyilvánító rendelkezés szerint szabad.
+(2) A rendeletben használt fogalmak meghatározását az 1. számú melléklet tartalmazza.
 
-(3) A rendeletben használt fogalmak meghatározását az 1. számú melléklet tartalmazza.
+(3) E rendeletet a külön jogszabály alapján védett területre, építményre, valamint a sajátos építményfajtákra a rájuk vonatkozó külön jogszabályban meghatározott feltételek mellett és az azokban foglalt kiegészítésekkel és eltérésekkel kell alkalmazni.
 
-(4)[^1]
-
-(5)[^2] A nem üzleti célú közösségi, szabadidős szálláshelyek megvalósítására vonatkozó szabályokat – az üdülő és a munkásszállás kivételével – külön jogszabály állapítja meg.
-
-[^1]: Az 1. § (4) bekezdését a 126/1999. (VIII. 13.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése.
-[^2]: Az 1. § (5) bekezdését a 173/2003. (X. 28.) Korm. rendelet 26. §-ának b) pontja iktatta a szövegbe.
+[^1]: Az 1. § a 90/2012. (IV. 26.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-1. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^213]
+1. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^212]
 
 Fogalommeghatározások
 
@@ -140,7 +140,7 @@ Az épület egy homlokzatának magasságát a hozzá tartozó F/L érték alapj�
 
 63. Loggia: az épület homlokzati síkján belül lévő, három oldalról falakkal, alulról és felülről födémekkel, a homlokzat síkjára eső oldala felől pedig korláttal vagy mellvéddel határolt, helyiséghez közvetlenül csatlakozó külső tartózkodó tér.
 
-64.[^214]
+64.[^213]
 
 65. Magasépítmény: amelyben a legfelső építményszint szintmagassága a 30 m-t meghaladja.
 
@@ -250,7 +250,7 @@ vízszintes vetületét.
 
 104. Többszintes növényállomány: a zöldfelületet egyszerre gyep-, cserje- és lombkoronaszinttel fedő növényzet.
 
-105.[^215] Tömegtartózkodásra szolgáló építmény: amelyben tömegtartózkodásra szolgáló helyiség van, illetőleg amelyen (pl. híd, kilátó) bármikor egyidejűleg 300 főnél több személy tartózkodása várható.
+105.[^214] Tömegtartózkodásra szolgáló építmény: amelyben tömegtartózkodásra szolgáló helyiség van, illetőleg amelyen (pl. híd, kilátó) bármikor egyidejűleg 300 főnél több személy tartózkodása várható.
 
 106. Tömegtartózkodásra szolgáló helyiség: egyidejűleg 300 személynél nagyobb befogadóképességű helyiség.
 
@@ -262,6 +262,6 @@ vízszintes vetületét.
 
 A II. fejezetben használt rendeltetés megnevezések alatt a TEÁOR szerinti alágazatokat kell érteni.
 
-[^213]: Az 1. számú melléklet a 182/2008. (VII. 14.) Korm. rendelet 51. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján rendelkezéseit a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^214]: Az 1. számú melléklet 64. pontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (6) bekezdésének j) pontja hatályon kívül helyezte.
-[^215]: Az 1. számú melléklet 105. pontja a 196/2009. (IX. 15.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^212]: Az 1. számú melléklet a 182/2008. (VII. 14.) Korm. rendelet 51. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján rendelkezéseit a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^213]: Az 1. számú melléklet 64. pontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (6) bekezdésének j) pontja hatályon kívül helyezte.
+[^214]: Az 1. számú melléklet 105. pontja a 196/2009. (IX. 15.) Korm. rendelet 51. §-ával megállapított szöveg.

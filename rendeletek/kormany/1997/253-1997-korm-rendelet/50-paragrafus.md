@@ -4,9 +4,9 @@
 
 ## ÁLTALÁNOS ELŐÍRÁSOK
 
-50. § (1)[^100] Az építményeket és részeit tervezési program (üzemelés-technológia) alapján kell tervezni és megvalósítani, a vonatkozó jogszabályok előírásainak megfelelően. A rendeltetési célnak megfelelő építési követelményeket és az akadálymentes használatot biztosító építményrészeket tervezési programban kell meghatározni. A közhasználatú építmények akadálymentesen használható részeit a rendeltetésük szerinti közszolgáltatók által meghatározott adatok alapján kell megvalósítani.
+50. § (1)[^99] Az építményeket és részeit tervezési program (üzemelés-technológia) alapján kell tervezni és megvalósítani, a vonatkozó jogszabályok előírásainak megfelelően. A rendeltetési célnak megfelelő építési követelményeket és az akadálymentes használatot biztosító építményrészeket tervezési programban kell meghatározni. A közhasználatú építmények akadálymentesen használható részeit a rendeltetésük szerinti közszolgáltatók által meghatározott adatok alapján kell megvalósítani.
 
-(2)[^101] Az (1) bekezdésben foglaltakon túlmenően építményt és annak részeit a rendeltetési céljának megfelelően, és a helyszíni adottságok figyelembevételével kell megvalósítani úgy, hogy az
+(2)[^100] Az (1) bekezdésben foglaltakon túlmenően építményt és annak részeit a rendeltetési céljának megfelelően, és a helyszíni adottságok figyelembevételével kell megvalósítani úgy, hogy az
 
 a) ne akadályozza a szomszédos ingatlanok és építmények, önálló rendeltetési egységek rendeltetésszerű és biztonságos használhatóságát,
 
@@ -22,7 +22,7 @@ f) építmény elhelyezési módja, építménymagassága, homlokzata, tetőzete
 
 g) építészeti megoldásával járuljon hozzá a táj- és a településkép esztétikus alakításához.
 
-(3)[^102] Az építmények és részei megvalósítása során
+(3)[^101] Az építmények és részei megvalósítása során
 
 a) az állékonyságra és a szilárdságra,
 
@@ -40,9 +40,9 @@ g) az élet- és vagyonvédelemre
 
 vonatkozó nemzeti szabványok előírásainak megfelelő, illetőleg azokkal legalább egyenértékű megoldást kell alkalmazni.
 
-(4)[^103] Építési célra szolgáló anyagot, szerkezetet, berendezést építménybe beépíteni csak a jogszabályokban meghatározott feltételek szerint szabad.
+(4)[^102] Építési célra szolgáló anyagot, szerkezetet, berendezést építménybe beépíteni csak a jogszabályokban meghatározott feltételek szerint szabad.
 
-(5)[^104] Az építményt és részeit, szerkezeteit, beépített berendezéseit úgy kell megvalósítani, utólagosan átalakítani, hogy azok
+(5)[^103] Az építményt és részeit, szerkezeteit, beépített berendezéseit úgy kell megvalósítani, utólagosan átalakítani, hogy azok
 
 a) a tervezett vagy becsült élettartamuk alatt a rendeltetési céljuknak megfelelően az állékonyság és a biztonság követelményeinek megfeleljenek,
 
@@ -52,8 +52,8 @@ c) a várható mértékű terheléseknek, hatásoknak [pl. mechanikai, (nap)fén
 
 d) jókarbantartásuk, esetleges cseréjük céljából – a csatlakozó szerkezetek állékonyságának veszélyeztetése nélkül – hozzáférhetők legyenek.
 
-[^100]: Az 50. § (1) bekezdése a 36/2002. (III. 7.) Korm. rendelet 13. §–ával megállapított szöveg. Az 50. § (1) bekezdésének harmadik mondatát a 182/2008. (VII. 14.) Korm. rendelet 17. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^101]: Az 50. § (2) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^102]: Az 50. § új (3) bekezdését a 36/2002. (III. 7.) Korm. rendelet 13. §–a iktatta a szövegbe, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. E módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a 2002. 03. 15. napját követően indított ügyekben kell alkalmazni.
-[^103]: Az 50. § eredeti (3) bekezdésének számozását a 36/2002. (III. 7.) Korm. rendelet 13. §-a (4) bekezdésre változtatta, szövege a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének k) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^104]: Az 50. § eredeti (4) bekezdésének számozását a 36/2002. (III. 7.) Korm. rendelet 13. §-a (5) bekezdésre változtatta.
+[^99]: Az 50. § (1) bekezdése a 36/2002. (III. 7.) Korm. rendelet 13. §–ával megállapított szöveg. Az 50. § (1) bekezdésének harmadik mondatát a 182/2008. (VII. 14.) Korm. rendelet 17. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^100]: Az 50. § (2) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^101]: Az 50. § új (3) bekezdését a 36/2002. (III. 7.) Korm. rendelet 13. §–a iktatta a szövegbe, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. E módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a 2002. 03. 15. napját követően indított ügyekben kell alkalmazni.
+[^102]: Az 50. § eredeti (3) bekezdésének számozását a 36/2002. (III. 7.) Korm. rendelet 13. §-a (4) bekezdésre változtatta, szövege a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének k) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^103]: Az 50. § eredeti (4) bekezdésének számozását a 36/2002. (III. 7.) Korm. rendelet 13. §-a (5) bekezdésre változtatta.

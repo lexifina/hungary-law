@@ -18,10 +18,10 @@
 
 2. igazgatási épület,
 
-3.[^25] a terület rendeltetésszerű használatát nem zavaró hatású egyéb gazdasági tevékenység céljára szolgáló épület,
+3.[^24] a terület rendeltetésszerű használatát nem zavaró hatású egyéb gazdasági tevékenység céljára szolgáló épület,
 
 4. többszintes parkolóházhoz kapcsolódó üzemanyagtöltő.
 
 (4) A nagyvárosias lakóterületen nem helyezhető el önálló parkolóterület és garázs a 3,5 t önsúlynál nehezebb gépjárművek és az ilyeneket szállító járművek számára.
 
-[^25]: A 11. § (3) bekezdésének 3. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^24]: A 11. § (3) bekezdésének 3. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

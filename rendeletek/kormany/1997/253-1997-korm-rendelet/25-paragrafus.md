@@ -1,6 +1,6 @@
 ## A beépítésre szánt területek építési használatának megengedett felső határa
 
-25. § (1)[^40] A beépítésre szánt területek építési használatának megengedett felső határértékeit a következő táblázat tartalmazza:
+25. § (1)[^39] A beépítésre szánt területek építési használatának megengedett felső határértékeit a következő táblázat tartalmazza:
 
 | A településszerkezeti tervben a területfelhasználási egységekre meghatározandó | Az építési szabályzatban, szabályozási tervben az építési telekre meghatározandó |
 
@@ -30,7 +30,7 @@
 
 | különleges |  | 2,0 | 40 |  | 40 |
 
-(2) [^41] Többszintes növényállomány telepítése esetén az (1) bekezdésben előírt legkisebb zöldfelület mértéke az 5. számú melléklet szerint csökkenthető.
+(2) [^40] Többszintes növényállomány telepítése esetén az (1) bekezdésben előírt legkisebb zöldfelület mértéke az 5. számú melléklet szerint csökkenthető.
 
-[^40]: A 25. § eredeti szövegének jelölését (1) bekezdésre változtatta valamint szövegét módosította a 182/2008. (VII. 14.) Korm. rendelet 6. §-a, illetve 52. § (6) bekezdése és 52. § (7) bekezdésének e) pontja. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^41]: A 25. § (2) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 6. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^39]: A 25. § eredeti szövegének jelölését (1) bekezdésre változtatta valamint szövegét módosította a 182/2008. (VII. 14.) Korm. rendelet 6. §-a, illetve 52. § (6) bekezdése és 52. § (7) bekezdésének e) pontja. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^40]: A 25. § (2) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 6. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

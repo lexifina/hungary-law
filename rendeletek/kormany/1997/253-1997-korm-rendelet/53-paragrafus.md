@@ -40,8 +40,8 @@ g) az egyes önálló rendeltetési egységek egymástól független, zavartalan
 
 (4) Az építési célra szolgáló anyagot, szerkezetet, berendezést építménybe beépíteni csak olyan módon szabad, hogy az az életet, az egészséget ne veszélyeztesse.
 
-(5)[^108] Faanyagot a beépítési helyének megfelelő, a faanyagvédelemre vonatkozó szabványoknak, vagy azzal egyenértékű védelmet biztosító előírásoknak megfelelő gombamentesítő, illetőleg rovarkár elleni kezelés után szabad beépíteni.
+(5)[^107] Faanyagot a beépítési helyének megfelelő, a faanyagvédelemre vonatkozó szabványoknak, vagy azzal egyenértékű védelmet biztosító előírásoknak megfelelő gombamentesítő, illetőleg rovarkár elleni kezelés után szabad beépíteni.
 
 (6) Az építményt és részeit úgy kell megvalósítani, hogy a természetes vagy mesterséges forrásból származó sugárzás káros hatásával szemben a rendeltetésnek megfelelő védelmet nyújtsanak. Építményben a sugárterhelés a vonatkozó jogszabályban meghatározott határértéknél nagyobb nem lehet.
 
-[^108]: Az 53. § (5) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 18. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^107]: Az 53. § (5) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 18. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

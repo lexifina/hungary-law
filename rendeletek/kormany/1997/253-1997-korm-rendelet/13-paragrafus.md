@@ -10,7 +10,7 @@
 
 3. egyházi, oktatási, egészségügyi, szociális épület,
 
-4.[^28] a terület rendeltetésszerű használatát nem zavaró hatású kézműipari építmény.
+4.[^27] a terület rendeltetésszerű használatát nem zavaró hatású kézműipari építmény.
 
 (3) A kertvárosias lakóterületen a 31. § (2) bekezdésében előírtak figyelembevételével kivételesen elhelyezhető:
 
@@ -22,7 +22,7 @@
 
 4. üzemanyagtöltő,
 
-5.[^29] a terület rendeltetésszerű használatát nem zavaró hatású egyéb gazdasági tevékenység céljára szolgáló épület.
+5.[^28] a terület rendeltetésszerű használatát nem zavaró hatású egyéb gazdasági tevékenység céljára szolgáló épület.
 
 (4) A kertvárosias lakóterületen nem helyezhető el:
 
@@ -32,5 +32,5 @@
 
 3. önálló parkolóterület és garázs a 3,5 t önsúlynál nehezebb gépjárművek és az ilyeneket szállító járművek számára.
 
-[^28]: A 13. § (2) bekezdésének 4. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének c) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^29]: A 13. § (3) bekezdésének 5. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének d) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^27]: A 13. § (2) bekezdésének 4. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének c) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^28]: A 13. § (3) bekezdésének 5. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének d) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

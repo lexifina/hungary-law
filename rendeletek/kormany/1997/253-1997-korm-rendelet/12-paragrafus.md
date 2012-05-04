@@ -12,7 +12,7 @@
 
 4. sportépítmény,
 
-5.[^26] a terület rendeltetésszerű használatát nem zavaró hatású kézműipari építmény.
+5.[^25] a terület rendeltetésszerű használatát nem zavaró hatású kézműipari építmény.
 
 (3) A kisvárosias lakóterületen a 31. § (2) bekezdésében előírtak figyelembevételével kivételesen elhelyezhető:
 
@@ -24,9 +24,9 @@
 
 4. üzemanyagtöltő,
 
-5.[^27] a terület rendeltetésszerű használatát nem zavaró hatású egyéb gazdasági tevékenység céljára szolgáló épület.
+5.[^26] a terület rendeltetésszerű használatát nem zavaró hatású egyéb gazdasági tevékenység céljára szolgáló épület.
 
 (4) A kisvárosias lakóterületen nem helyezhető el önálló parkolóterület és garázs a 3,5 t önsúlynál nehezebb gépjárművek és az ilyeneket szállító járművek számára.
 
-[^26]: A 12. § (2) bekezdésének 5. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének c) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^27]: A 12. § (3) bekezdésének 5. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének d) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^25]: A 12. § (2) bekezdésének 5. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének c) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^26]: A 12. § (3) bekezdésének 5. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének d) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

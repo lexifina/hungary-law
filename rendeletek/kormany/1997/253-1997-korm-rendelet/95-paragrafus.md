@@ -8,9 +8,9 @@
 
 (3) Kapualjat és áthajtót a rendeltetéséhez, a biztonságos használatához szükséges méretekkel, a tűzvédelmi követelmények szerint, a közhasználatú átjárót, áthajtót, aluljárót a külön előírásoknak megfelelő űrszelvénnyel kell kialakítani.
 
-(4)[^180] Az építmény kiürítésre alkalmas útvonalainak (folyosók, lépcsők, lejtők, kapualjak stb.) előírt legkisebb szabad keresztmetszetét, területét, épületszerkezet, beépített berendezés, felszerelés, szerelvény (pl. benyíló ajtószárny, ablakszárny, fűtőtest, csővezeték) a járófelülettől mért 1,95 m magasságon belül nem szűkítheti.
+(4)[^179] Az építmény kiürítésre alkalmas útvonalainak (folyosók, lépcsők, lejtők, kapualjak stb.) előírt legkisebb szabad keresztmetszetét, területét, épületszerkezet, beépített berendezés, felszerelés, szerelvény (pl. benyíló ajtószárny, ablakszárny, fűtőtest, csővezeték) a járófelülettől mért 1,95 m magasságon belül nem szűkítheti.
 
-(5)[^181]
+(5)[^180]
 
-[^180]: A 95. § (4) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének t) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^181]: A 95. § (5) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése hatályon kívül helyezte.
+[^179]: A 95. § (4) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének t) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^180]: A 95. § (5) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése hatályon kívül helyezte.
