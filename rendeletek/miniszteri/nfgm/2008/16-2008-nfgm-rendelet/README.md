@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-16-20-2
 | 2009-12-29 | 2008-16-20-2K.1 | 16/2008. (VIII. 30.) NFGM rendelet |
 | 2010-05-01 | 2008-16-20-2K.2 | 16/2010. (IV. 28.) NFGM rendelet |
 | 2011-12-15 | 2008-16-20-2K.3 | 36/2011. (IX. 22.) NGM rendelet |
+| 2012-05-04 | 2008-16-20-2K.4 | 9/2012. (V. 3.) NGM rendelet |
