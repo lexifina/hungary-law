@@ -1,6 +1,6 @@
 ## A támogatási kérelem benyújtása
 
-7. § (1)[^6] A támogatási kérelmet elektronikus úton, ügyfélkapun keresztül a 2011. évben október 1. és november 30. között, ezt követően a rendelkezésre álló forrás kimerüléséig minden év október 1. és október 31. között lehet benyújtani.
+7. § (1)[^16] A támogatási kérelmet elektronikus úton, ügyfélkapun keresztül a 2011. évben október 1. és november 30. között, ezt követően a rendelkezésre álló forrás kimerüléséig minden év október 1. és október 31. között lehet benyújtani.
 
 (2) A támogatási kérelem az alábbi adatokat tartalmazza:
 
@@ -22,4 +22,4 @@ c) a 3. § szerinti szerkezetátalakítási tevékenység.
 
 (8) A támogatási kérelem benyújtására nyitva álló időszak lejárta után a (2) bekezdés b)–c) pontjában meghatározott adatok vonatkozásában hiánypótlásra nincs lehetőség.
 
-[^6]: A 7. § (1) bekezdése a 98/2011. (X. 28.) VM rendelet 11. §-ával megállapított szöveg.
+[^16]: A 7. § (1) bekezdése a 98/2011. (X. 28.) VM rendelet 11. §-ával megállapított szöveg.

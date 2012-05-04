@@ -60,4 +60,6 @@
 
 | Összesen: | 100 pont |
 
-3. melléklet a 139/2009. (X. 22.) FVM rendelethez
+3. melléklet a 139/2009. (X. 22.) FVM rendelethez[^21]
+
+[^21]: A 3. mellékletet a 44/2012. (V. 3.) VM rendelet 36. §-a hatályon kívül helyezte.

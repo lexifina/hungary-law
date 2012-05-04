@@ -8,9 +8,9 @@
 
 (4) A Vhr. 13. § (2) bekezdésétől eltérően a kifizetési kérelemhez nem kell mellékelni a blokktérképet.
 
-(5)[^7] Az 5. § (1) bekezdésében, valamint 5. § (2) bekezdés a) pontjában foglaltak a támogatási kérelmek esetében történő vizsgálatot követően a kifizetési kérelmek esetében is ellenőrzésre kerülnek az Adattárnak a kifizetési kérelem benyújtási évének június 9-ei állapota alapján.
+(5)[^17] Az 5. § (1) bekezdésében, valamint 5. § (2) bekezdés a) pontjában foglaltak a támogatási kérelmek esetében történő vizsgálatot követően a kifizetési kérelmek esetében is ellenőrzésre kerülnek az Adattárnak a kifizetési kérelem benyújtási évének június 9-ei állapota alapján.
 
-(6)[^8]
+(6)[^18] A 3. § b) pont esetében a rész erdőrészlet területméretét a kifizetési kérelem benyújtásakor a kérelmezett területek határvonalai töréspontjainak Egységes Országos Vetületi Rendszerben legalább 2 méteres pontossággal meghatározott koordinátáinak hitelességét alátámasztó mérési jegyzőkönyv másolati példányával és az egységes kérelem benyújtására szolgáló felületen saját poligon feltöltésével kell igazolni.
 
-[^7]: A 9. § (5) bekezdése a 19/2010. (IX. 30.) VM rendelet 4. §-ával megállapított szöveg.
-[^8]: A 9. § (6) bekezdését a 19/2010. (IX. 30.) VM rendelet 7. §-a hatályon kívül helyezte.
+[^17]: A 9. § (5) bekezdése a 19/2010. (IX. 30.) VM rendelet 4. §-ával megállapított szöveg.
+[^18]: A 9. § (6) bekezdését a 19/2010. (IX. 30.) VM rendelet 7. §-a hatályon kívül helyezte, újonnan a 44/2012. (V. 3.) VM rendelet 34. §-a iktatta be.

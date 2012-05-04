@@ -1,97 +1,53 @@
-## Az erdőfelújításokban a támogatás szempontjából az ápolások eredményeként még elfogadható állapot meghatározása
-
-## Gyom: Minden, nem az erdősítési célállománynak és módnak megfelelő, nem védett növényfaj, de különösen az idegenhonos, agresszíven terjedő fafajok, cserjék és lágyszárúak, amelyek a célállomány fejlődését gátolják.
-
-## A vegetációs időszakban szeptember 15-ig:
-
-## A sor 50 cm-es pásztájában ha a
-
-## csemete magassága 0–10 cm közötti, a gyom magassága legfeljebb 40 cm,
-
-## csemete magassága 11–30 cm közötti, a gyom magassága legfeljebb 60 cm,
-
-## csemete magassága 31–60 cm közötti, a gyom magassága legfeljebb 70 cm,
-
-## csemete magassága 61–80 cm közötti, a gyom magassága legfeljebb 90 cm
-
-## lehet.
-
-## A sorközben, azaz a sor 50 cm-es pásztáján kívül ha a
-
-## csemete magassága 0–10 cm közötti, a gyom magassága legfeljebb 40 cm,
-
-## csemete magassága 11–80 cm közötti, a gyom magassága legfeljebb 60 cm,
-
-## csemete magassága 80 cm feletti, a gyom magassága legfeljebb a csemete magassága
-
-## lehet.
-
-## Szeptember 15. után:
-
-## A sor 50 cm-es pásztájában ha a
-
-## csemete magassága 90 cm-ig, a gyom magassága legfeljebb a csemete magassága + 10 cm, de legfeljebb 90 cm,
-
-## csemete magassága 90 cm feletti, a gyom magassága legfeljebb a csemete magassága
-
-## lehet.
-
-## A sorközben, azaz a sor 50 cm-es pásztáján kívül ha a
-
-## csemete magassága 0–10 cm közötti, a gyom magassága legfeljebb 20 cm,
-
-## csemete magassága 11–80 cm közötti, a gyom magassága legfeljebb 40 cm,
-
-## csemete magassága 80 cm feletti, a gyom magassága legfeljebb a csemete magassága
-
-## lehet.
-
-## Az ápolások után a csemeték legfeljebb 20%-ának vezérhajtását takarhatja levágott gyomnövényzet, illetve a csemeték legfeljebb 5%-ának vezérhajtását takarhatják kúszónövények.
-
-4. melléklet a 139/2009. (X. 22.) FVM rendelethez[^11]
+4. melléklet a 139/2009. (X. 22.) FVM rendelethez[^22]
 
 Az egyes előírásoknak való meg nem felelés esetén, a meg nem felelés súlyosságának, mértékének, valamint folytonosságának alapján meghatározott jogkövetkezmények
 
-|  | A | B | C | D | E | F | G | H | I |
+1. táblázat
 
-| 1 | Hivatkozás | Kötelezettség/egyéb előírás | Szabályszegés leírása | Súlyosság | Mérték | Tartósság | E-10% | E-30% | E-Kizár |
+|  | A | B | C | D | E | F | G |
 
-| 2 | 6. § (1) bekezdés a) pont | A 3. § (1) bekezdés a)–b) pontja szerinti szerkezetátalakítás végrehajtása során első kivitel elvégzésének időpontjától a kötelezettségvállalási időszak végéig: a) az újulati szintben az EKV rendelet 2. számú mellékletében szereplő célállományoknál meghatározott elegyaránynak úgy kell megfelelni, hogy a főfajként meghatározott fafajok mellett, az elegyfafajok legalább 10%-os elegyaránynak megfelelően legyenek jelen, | Az adott erdőrészletben az elegyarány nem megfelelő. | közepes | erdőrészlet szintű | hosszútávú |  |  |  |
+| 1. | Hivatkozás | Kötelezettség/egyéb előírás | Szabályszegés leírása | Súlyosság | Mérték | Tartósság | Jogkövetkezmény |
 
-| 3 | 6. § (1) bekezdés b) pont | az életképes, a tervezett célállománynak megfelelő csemeték legalább az 1. számú mellékletben szereplő darabszámban legyenek jelen | Az életképes, a tervezett célállománynak megfelelő, vagy a származási igazolással rendelkező csemeték darabszáma kevesebb mint az 1. számú mellékletben szereplő. | nagy | erdőrészlet szintű | hosszútávú |  |  |  |
+| 2. | 6. § (1) bekezdés a) pont | A 3. § szerinti szerkezetátalakításokhoz kapcsolódó alábbi előírásoknak legkésőbb az első kifizetési kérelem benyújtásig meg kell felelni és az előírásoknak megfelelő állapotot a kötelezettségvállalási időszak végéig fenn kell tartani. a) az újulati szintben az EKV rendelet 2. mellékletében szereplő célállományoknál meghatározott elegyaránynak úgy kell megfelelni, hogy a főfafajként meghatározott fafajok mellett az elegyfafajok legalább 10%-os elegyaránynak megfelelően legyenek jelen, | Az adott erdőrészletben az elegyarány nem megfelelő. | közepes | erdőrészlet szintű | hosszútávú | E-30% |
 
-| 4 | 6. § (2) bekezdés | A 3. § (1) bekezdés a) pontja szerinti szerkezetátalakítás végrehajtása során a kötelezettségvállalási időszak alatt a véghasználatot nem lehet elvégezni. | A gazdálkodó elvégzi a végvágást. | nagy | erdőrészlet- szintű | hosszútávú |  |  |  |
+| 3. | 6. § (1) bekezdés b) pont | Az életképes, a tervezett célállománynak megfelelő csemeték legalább az 1. számú mellékletben szereplő darabszámban legyenek jelen. | Az életképes, a tervezett célállománynak megfelelő, vagy a származási igazolással rendelkező csemeték darabszáma kevesebb mint az 1. számú mellékletben szereplő. | nagy | erdőrészlet szintű | hosszútávú | E-Kizár |
 
-| 5 | 6. § (3) bekezdés | A 3. § (1) bekezdés b) pontjának bb) alpontja szerinti szerkezetátalakításnál a vágásterület előkészítése során tuskóösszetolás nem alkalmazható. | A terület előkészítése során tuskóösszetolást hajtottak végre. | közepes | erdőrészlet szintű | hosszútávú meg- szüntethető |  |  |  |
+| 4. | 6. § (2) bekezdés | A 3. § (1) bekezdés a) pontja szerinti szerkezetátalakítás végrehajtása során a kötelezettségvállalási időszak alatt a véghasználatot nem lehet elvégezni. | A gazdálkodó elvégzi a végvágást. | nagy | erdőrészlet szintű | hosszútávú | E-Kizát |
 
-| 6 | 6. § (4) bekezdés | A 3. § (1) bekezdés c) pontja szerinti szerkezetátalakítás első kivitelét úgy kell végrehajtani, hogy az első kivitel elvégzésének időpontjától a kötelezettségvállalási időszak végéig a tájhonos állománytípusnak, az EKV rendelet 2. számú mellékletében meghatározott elegyfafajainak életképes csemetéi, egyenletes eloszlásban – hektáronként összesen legalább 1000 db – legyenek jelen. | Az életképes, a 2. számú mellékletben szereplő célállománynak megfelelő, vagy a származási igazolással rendelkező elegyfafajok csemetéinek darabszáma kevesebb mint hektáronként 1000 db. | nagy | erdőrészlet szintű | hosszútávú |  |  |  |
+| 5. | 6. § (3) bekezdés | A 3. § (1) bekezdés b) pontjának bb) alpontja szerinti szerkezetátalakításnál a vágásterület előkészítése során tuskóösszetolás nem alkalmazható. | A terület előkészítése során tuskóösszetolást hajtottak végre. | közepes | erdőrészlet szintű | hosszútávú, megszüntet- hető | E-30% |
 
-| 7 | 6. § (5) bekezdés | Szaporítóanyag felhasználása során az erdészeti szaporítóanyagokról szóló 110/2003. (X. 21.) FVM rendelet szerinti, igazolt származási bizonyítvánnyal rendelkező erdészeti szaporítóanyagot kell felhasználni. A szaporítóanyag származását tanúsító származási bizonyítvány másolati példányát a kifizetési kérelem benyújtásának időpontjáig az erdőrészlet elhelyezkedése szerint illetékes erdészeti hatósághoz kell benyújtani, valamint az eredeti példányt a jogerős kifizetési határozat közléséig megőrizni. | A származási igazolások az ellenőrzési eljárás időpontjáig egyáltalán nem, vagy nem teljeskörűen kerültek megküldésre ezért az ügyfelet az ellenőrzés lefolytatását követően hiánypótoltani kellett, de az igazolások alátámasztják a támogatási jogosultságot. | kicsi | erdőrészlet szintű | rövidtávú |  |  |  |
+| 6. | 6. § (4) bekezdés | A 3. § c) pontja szerinti szerkezetátalakítás első kivitelét legkésőbb az első kifizetési kérelem benyújtásáig úgy kell végrehajtani, hogy a tájhonos állománytípusnak az EKV rendelet 2. mellékletében meghatározott elegyfafajainak életképes csemetéi egyenletes eloszlásban – hektáronként összesen legalább 1000 db – legyenek jelen, mely darabszámot a kötelezettségvállalási időszak alatt is fenn kell tartani. | Az életképes, a 2. számú mellékletben szereplő célállománynak megfelelő, vagy a származási igazolással rendelkező elegyfafajok csemetéinek darabszáma kevesebb mint hektáronként 1000 db. | nagy | erdőrészlet szintű | hosszútávú | E-Kizár |
 
-| 8 |  |  | A származási igazolások az ellenőrzési eljárás időpontjáig egyáltalán nem, vagy nem teljes körűen kerültek megküldésre ezért az ügyfelet az ellenőrzés lefolytatását követően hiánypótoltani kellett, aminek egyáltalán nem, vagy nem teljeskörűen tett eleget, illetve a beküldött igazolások nem, vagy nem teljes körűen támasztják alá az elvégzett munkaműveletet. | nagy | erdőrészlet szintű | hosszútávú |  |  |  |
+| 7. | 6. § (5) bekezdés | Szaporítóanyag felhasználása során az erdészeti szaporítóanyagokról szóló 110/2003. (X. 21.) FVM rendelet szerinti, igazolt származási bizonyítvánnyal rendelkező erdészeti szaporítóanyagot kell felhasználni. A szaporítóanyag származását tanúsító származási bizonyítvány másolati példányát a kifizetési kérelem benyújtásának időpontjáig az erdőrészlet elhelyezkedése szerint illetékes erdészeti hatósághoz kell benyújtani, valamint az eredeti példányt a jogerős kifizetési határozat közléséig megőrizni. | A származási igazolások az ellenőrzési eljárás időpontjáig egyáltalán nem, vagy nem teljeskörűen kerültek megküldésre ezért az ügyfelet az ellenőrzés lefolytatását követően hiánypótoltani kellett, de az igazolások alátámasztják a támogatási jogosultságot. | kicsi | erdőrészlet szintű | rövidtávú | E-10% |
 
-| 9 | 6. § (6) bekezdés | A támogatott területek esetében támogatott erdőrészletenként, valamint részterületenként a területhatár állandósítását el kell végezni, és a jelöléseket a kötelezettségvállalási időszak alatt fenn kell tartani. | A támogatott terület lehatárolása egyáltalán nem, vagy nem megfelelően, illetve hiányosan történt meg, de ez nem befolyásolta az objektív ellenőrzési eljárás lefolytatását, ideértve az esetleges mérések végrehajtását. | kicsi | erdőrészlet szintű | rövidtávú, meg- szüntethető |  |  |  |
+| 8. |  |  | A származási igazolások az ellenőrzési eljárás időpontjáig egyáltalán nem, vagy nem teljes körűen kerültek megküldésre ezért az ügyfelet az ellenőrzés lefolytatását követően hiánypótoltani kellett, aminek egyáltalán nem, vagy nem teljeskörűen tett eleget, illetve a beküldött igazolások nem, vagy nem teljes körűen támasztják alá az elvégzett munkaműveletet. | nagy | erdőrészlet szintű | hosszútávú | E-Kizár |
 
-| 10 |  |  | A támogatott terület lehatárolása egyáltalán nem, vagy nem megfelelően, illetve hiányosan történt meg, és ez meghiúsította az objektív ellenőrzési eljárás lefolytatását, ideértve az esetleges mérések végrehajtását. | nagy | erdőrészlet szintű | rövidtávú, meg- szüntethető |  |  |  |
+| 9. | 6. § (6) bekezdés | A támogatott területek esetében támogatott erdőrészletenként, valamint részterületenként a területhatár állandósítását legkésőbb az első kifizetési kérelem benyújtásáig el kell végezni, és a jelöléseket a kötelezettségvállalási időszak alatt fenn kell tartani. | A támogatott terület lehatárolása egyáltalán nem, vagy nem megfelelően, illetve hiányosan történt meg, de ez nem befolyásolta az objektív ellenőrzési eljárás lefolytatását, ideértve az esetleges mérések végrehajtását. | kicsi | erdőrészlet szintű | rövidtávú, megszüntet- hető | E-10% |
 
-| 11 | 6. § (7) bekezdés | A szerkezetátalakítási céllal vetett magból kikelt vagy ültetett csemeték szabad fejlődését ápolással a 3. számú melléklet szerint a kötelezettségvállalási időszak alatt folyamatosan biztosítani kell. | A magból kikelt vagy ültetett csemeték szabad fejlődése nem biztosított. | nagy | erdőrészlet szintű | hosszútávú |  |  |  |
+| 10. |  |  | A támogatott terület lehatárolása egyáltalán nem, vagy nem megfelelően, illetve hiányosan történt meg, és ez meghiúsította az objektív ellenőrzési eljárás lefolytatását, ideértve az esetleges mérések végrehajtását. | nagy | erdőrészlet szintű | rövidtávú, megszüntet- hető | E-30% |
 
-| 12 | 6. § (8) bekezdés | A kifizetési kérelem benyújtását követően az 5. § (2) bekezdés b) pontjában meghatározott erdőterv határozatban szereplő tájhonos állománytípust legalább 5 évig fenn kell tartani. | A tájhonos állománytípus 5 évig történő fenntartása nem valósult meg. | közepes | erdőrészlet szintű | hosszútávú |  |  |  |
+| 11. | 6. § (7) bekezdés a) pontja | A kifizetési kérelem benyújtását követően az 5. § (2) bekezdés b) pontja szerinti erdőterv határozatban szereplő tájhonos állománytípus kialakítása miatt, szerkezetátalakítási céllal vetett magból kikelt, vagy ültetett csemeték szabad fejlődését szolgáló ápolással kell biztosítani azt, hogy az első kivitel megvalósulását követő ötödik év végére az erdőrészletben a) a főfafaj legalább 2 éves egyedeinek száma elérje az 1. mellékletben megállapított egyedszám 70%-át, és b) az elegyarány az 5. § (2) bekezdés b) pontjában meghatározott erdőterv határozatban jóváhagyott tájhonos állománytípusnak megfeleljen | Az egyedszám nem megfelelő. | nagy | erdőrészlet szintű | hosszútávú | E-Kizár |
 
-Magyarázat:
+| 12. | 6. § (7) bekezdés b) pontja | Az elegyarány az 5. § (2) bekezdés b) pontjában meghatározott erdőterv határozatban jóváhagyott tájhonos állománytípusnak megfeleljen | Az elegyarány nem megfelelő | nagy | erdőrészlet szintű | hosszútávú | E-30% |
 
-Súlyosság: be nem tartott előírás célkitűzése
+| 13. | 6. § (8) bekezdés | A kifizetési kérelem benyújtását követően az 5. § (2) bekezdés b) pontjában meghatározott erdőterv határozatban szereplő tájhonos állománytípust legalább 5 évig fenn kell tartani. | A tájhonos állománytípus 5 évig történő fenntartása nem valósult meg. | nagy | erdőrészlet szintű | hosszútávú | E-Kizár |
 
-Mérték: a kötelezettségszegés területi kiterjedése a támogatott terület vonatkozásában
+| 14. | 6. § (9) bekezdés | A 3. § b) pontja szerinti tevékenység a tarvágást követően kezdhető meg | A tevékenység nem a tarvágás után kezdődött és valósult meg. | nagy | erdőrészlet szintű | hosszútávú | E-Kizár |
 
-Tartósság: a kötelezettségszegés megszüntethetőségének időtartama
+2. táblázat
 
-Jelmagyarázat:
+|  | A | B |
 
-E-10%: Az adott támogatási egységre jutó adott évi támogatási összeget 10%-kal csökkenteni kell. Az adott évben jogosulatlanul felvett támogatást a jogosulatlanul igénybevett támogatásokra vonatkozó szabályok szerint vissza kell fizetni.
+| 1. | Súlyosság: | A be nem tartott előírás célkitűzése |
 
-E-30%: Az adott támogatási egységre jutó adott évi támogatási összeget 30%-kal csökkenteni kell. Az adott évben jogosulatlanul felvett támogatást a jogosulatlanul igénybevett támogatásokra vonatkozó szabályok szerint vissza kell fizetni.
+| 2. | Mérték: | A kötelezettségszegés területi kiterjedése a támogatott terület vonatkozásában |
 
-E-Kizár: Az adott támogatási egység támogatási jogosultsága megszűnik. Az adott évben jogosulatlanul felvett támogatást a jogosulatlanul igénybevett támogatásokra vonatkozó szabályok szerint vissza kell fizetni.
+| 3. | Tartósság: | A kötelezettségszegés megszüntethetőségének időtartama |
 
-[^11]: A 4. melléklet a 19/2010. (IX. 30.) VM rendelet 6. §-ával megállapított szöveg.
+| 4. | E-10%: | Az adott támogatási egységre jutó adott évi támogatási összeget 10%-kal csökkenteni kell. Az adott évben jogosulatlanul felvett támogatást a jogosulatlanul igénybevett támogatásokra vonatkozó szabályok szerint vissza kell fizetni. |
+
+| 5. | E-30%: | Az adott támogatási egységre jutó adott évi támogatási összeget 30%-kal csökkenteni kell. Az adott évben jogosulatlanul felvett támogatást a jogosulatlanul igénybevett támogatásokra vonatkozó szabályok szerint vissza kell fizetni. |
+
+| 6. | E-Kizár: | Az adott támogatási egység támogatási jogosultsága megszűnik. Az adott évben jogosulatlanul felvett támogatást a jogosulatlanul igénybevett támogatásokra vonatkozó szabályok szerint vissza kell fizetni. |
+
+[^22]: A 4. melléklet a 44/2012. (V. 3.) VM rendelet 35. §-ával megállapított szöveg.
