@@ -14,6 +14,6 @@
 
 (8) Amennyiben a (7) bekezdésben foglaltak egy adott kötelezettségvállalással érintett egybefüggő terület vagy célprogram vonatkozásában állnak fenn, a támogatásra jogosult a kötelezettségvállalással érintett egybefüggő terület vagy a célprogram vonatkozásában az adott célprogram támogatási időszakának lejáratáig kizárásra kerül és a célprogramra vonatkozóan már igénybe vett támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni.
 
-(9)[^91] Az általános kötelezettségeknek való meg nem felelés jogkövetkezményei összeadódnak.
+(9)[^93] Az általános kötelezettségeknek való meg nem felelés jogkövetkezményei összeadódnak.
 
-[^91]: Az 52. § (9) bekezdését a 77/2009. (VI. 30.) FVM rendelet 10. §-a iktatta be. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^93]: Az 52. § (9) bekezdését a 77/2009. (VI. 30.) FVM rendelet 10. §-a iktatta be. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

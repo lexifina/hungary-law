@@ -56,7 +56,7 @@ g) a célprogram 3. év végére legalább 0,2 állategység/ha legeltethető á
 
 h) a gyep felülvetése a célprogram tíz éve alatt egy alkalommal megengedett.
 
-(6)[^135] A támogatás mértéke a célprogramba bevitt terület után
+(6)[^143] A támogatás mértéke a célprogramba bevitt terület után
 
 a) az első gazdálkodási évben 238 euró/ha-nak megfelelő forintösszeg;
 
@@ -66,4 +66,4 @@ bb) nem jogosult, 279 euró/ha-nak megfelelő forintösszeg;
 
 bc) jogosult, 241 euró/ha-nak megfelelő forintösszeg.
 
-[^135]: A 71. § (6) bekezdése a 92/2011. (X. 5.) VM rendelet 22. §-ával megállapított szöveg.
+[^143]: A 71. § (6) bekezdése a 92/2011. (X. 5.) VM rendelet 22. §-ával megállapított szöveg.

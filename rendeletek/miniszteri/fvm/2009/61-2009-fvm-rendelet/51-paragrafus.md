@@ -1,8 +1,8 @@
 ## Általános kötelezettségeknek való meg nem felelés jogkövetkezményei
 
-51. §[^88] (1)[^89]
+51. §[^90] (1)[^91]
 
-(2)[^90]
+(2)[^92]
 
 (3) Amennyiben a támogatásra jogosult a 46. § (3) bekezdés vagy a 46. § (4) bekezdés szerinti esetben nem tudja igazolni a jogszerű földhasználatot, az adott kötelezettségvállalással érintett egybefüggő terület a célprogramból a támogatási időszak lejártáig kizárásra kerül, és az adott területre kifizetett támogatási összeget a jogosulatlan igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni.
 
@@ -24,6 +24,6 @@ b) a második képzési időszakban nem vesz részt, nem jogosult az ötödik ga
 
 (8) A (4)–(7) bekezdésben foglalt esetekben, amennyiben a támogatásra jogosult részére már kifizetésre került a támogatási összeg, annak jogosulatlanul igénybe vett részét vissza kell fizetnie.
 
-[^88]: Az 51. § a 35/2010. (XI. 30.) VM rendelet 14. §-ával megállapított szöveg.
-[^89]: Az 51. § (1) bekezdését a 92/2011. (X. 5.) VM rendelet 27. § (3) bekezdése hatályon kívül helyezte.
-[^90]: Az 51. § (2) bekezdését a 92/2011. (X. 5.) VM rendelet 27. § (4) bekezdése hatályon kívül helyezte.
+[^90]: Az 51. § a 35/2010. (XI. 30.) VM rendelet 14. §-ával megállapított szöveg.
+[^91]: Az 51. § (1) bekezdését a 92/2011. (X. 5.) VM rendelet 27. § (3) bekezdése hatályon kívül helyezte.
+[^92]: Az 51. § (2) bekezdését a 92/2011. (X. 5.) VM rendelet 27. § (4) bekezdése hatályon kívül helyezte.

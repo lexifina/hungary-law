@@ -16,15 +16,15 @@ d) évi bontásban vezetendő adat a szervestrágya mérleg nyilvántartása.
 
 (4) A gazdálkodási naplót minden év szeptember 1-jétől a következő év augusztus 31-ig tartó időszakra, a GN 02-05, valamint GN 16-17 lapok esetében a teljes támogatási időszakra vonatkozóan folyamatosan kell vezetni.
 
-(5)[^27] A gazdálkodási napló elektronikus formanyomtatványa az IH, az MVH, valamint az MgSzH honlapján kerül közzétételre. A gazdálkodási napló kitöltési útmutatóját az IH a Tv. 14. § (1) bekezdés c) pontjának cg) alpontja alapján legkésőbb 2009. augusztus 1-jéig közleményben teszi közzé.
+(5)[^28] A gazdálkodási napló elektronikus formanyomtatványa az IH, az MVH, valamint az MgSzH honlapján kerül közzétételre. A gazdálkodási napló kitöltési útmutatóját az IH a Tv. 14. § (1) bekezdés c) pontjának cg) alpontja alapján legkésőbb 2009. augusztus 1-jéig közleményben teszi közzé.
 
 (6) A gazdálkodási napló eredeti példányát, elektronikus úton történő vezetés esetén a gazdálkodási év lezárását követően kinyomtatott példányát a támogatási időszak végét követő második gazdálkodási év végéig meg kell őrizni.
 
-(7)[^28] A támogatásra jogosult köteles a gazdálkodási naplónak a Tv. 14. § (1) bekezdés c) pontjának cg) alpontja alapján az IH közleményben meghatározott adatait minden év szeptember 1. és november 30. között elektronikusan benyújtani az MgSzH-hoz. Az első gazdálkodási évre vonatkozó gazdálkodási napló meghatározott adatait 2010. szeptember 1. és december 10. között elektronikusan kell benyújtani.
+(7)[^29] A támogatásra jogosult köteles a gazdálkodási naplónak a Tv. 14. § (1) bekezdés c) pontjának cg) alpontja alapján az IH közleményben meghatározott adatait minden év szeptember 1. és november 30. között elektronikusan benyújtani az MgSzH-hoz. Az első gazdálkodási évre vonatkozó gazdálkodási napló meghatározott adatait 2010. szeptember 1. és december 10. között elektronikusan kell benyújtani.
 
 (8) A helyszíni ellenőrzés a gazdálkodási napló eredeti példánya alapján történik.
 
 (9) A gazdálkodási napló (7) bekezdés szerinti adattartalmának benyújtása vonatkozásában hiánypótlásnak helye nincs.
 
-[^27]: A 18. § (5) bekezdése a 77/2009. (VI. 30.) FVM rendelet 19. §-a szerint módosított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^28]: A 18. § (7) bekezdése a 35/2010. (XI. 30.) VM rendelet 3. §-ával megállapított szöveg.
+[^28]: A 18. § (5) bekezdése a 77/2009. (VI. 30.) FVM rendelet 19. §-a szerint módosított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^29]: A 18. § (7) bekezdése a 35/2010. (XI. 30.) VM rendelet 3. §-ával megállapított szöveg.

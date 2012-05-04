@@ -1,10 +1,10 @@
 ## A célprogramra vonatkozó meg nem felelés jogkövetkezményei
 
-53. § (1)[^92] Ha ugyanazon kötelezettségvállalással érintett egybefüggő területen legalább három gazdálkodási évben vis maior körülmény miatt nem történik meg a célprogram előírásainak megfelelő hasznosítás, akkor az adott kötelezettségvállalással érintett egybefüggő terület a támogatásból, a területre addig felvett támogatási összeg visszafizetésének kötelezettsége nélkül, a célprogram támogatási időszakának lejártáig kizárásra kerül.
+53. § (1)[^94] Ha ugyanazon kötelezettségvállalással érintett egybefüggő területen legalább három gazdálkodási évben vis maior körülmény miatt nem történik meg a célprogram előírásainak megfelelő hasznosítás, akkor az adott kötelezettségvállalással érintett egybefüggő terület a támogatásból, a területre addig felvett támogatási összeg visszafizetésének kötelezettsége nélkül, a célprogram támogatási időszakának lejártáig kizárásra kerül.
 
-(1a)[^93] Az (1) bekezdésben meghatározott következmény megállapításához nem vehető figyelembe a 2009/2010. gazdálkodási évben árvíz, vagy belvíz miatt bejelentett és elfogadott vis maior eset.
+(1a)[^95] Az (1) bekezdésben meghatározott következmény megállapításához nem vehető figyelembe a 2009/2010. gazdálkodási évben árvíz, vagy belvíz miatt bejelentett és elfogadott vis maior eset.
 
-(1b)[^94] Haláleset miatti vis maior bejelentéskor, ha a jogutód az adott kötelezettségvállalással érintett egybefüggő terület vonatkozásában a kötelezettségeket megszakítás nélkül teljesíti, az a célprogram előírásai szerinti hasznosításnak minősül.
+(1b)[^96] Haláleset miatti vis maior bejelentéskor, ha a jogutód az adott kötelezettségvállalással érintett egybefüggő terület vonatkozásában a kötelezettségeket megszakítás nélkül teljesíti, az a célprogram előírásai szerinti hasznosításnak minősül.
 
 (2) A támogatott területre vonatkozó előírások teljesítését a 23. számú mellékletben szereplő táblázat alapján kell értékelni. A táblázat tartalmazza, hogy:
 
@@ -26,7 +26,7 @@ f) az egyes előírások nem teljesítése esetén milyen jogkövetkezmény ker�
 
 (5) Amennyiben a támogatásra jogosult 10 napon belül nem tájékoztatja az MVH-t az újratelepítésről, a támogatásra jogosult részére a kötelezettségvállalással érintett egybefüggő terület vonatkozásában az egy gazdálkodási évére járó támogatási összeg 15%-kal csökkentett összege kerül kifizetésre.
 
-(6)[^95] A 3. § (1) bekezdés c) pont ca)–cc) alpontjaiban meghatározott célprogramok esetén a támogatásra jogosult az adott kötelezettségvállalással érintett egybefüggő terület vonatkozásában a célprogramból a támogatási időszak lejáratáig kizárásra kerül és a támogatási kérelemre vonatkozóan már igénybe vett teljes támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni, ha
+(6)[^97] A 3. § (1) bekezdés c) pont ca)–cc) alpontjaiban meghatározott célprogramok esetén a támogatásra jogosult az adott kötelezettségvállalással érintett egybefüggő terület vonatkozásában a célprogramból a támogatási időszak lejáratáig kizárásra kerül és a támogatási kérelemre vonatkozóan már igénybe vett teljes támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni, ha
 
 a) az ültetvény kivágását követően 10 napon belül nem tájékoztatja az MVH-t az ültetvény kivágásának időpontjáról, vagy
 
@@ -34,10 +34,10 @@ b) az ültetvény kivágásra kerül, majd nem a teljes kötelezettségvállalá
 
 c) az ültetvény részben kerül kivágásra.
 
-(7)[^96] Ha a támogatásra jogosult a 3. § (1) bekezdés a) pontjában meghatározott szántóföldi célprogram csoporton belül támogatott területét a 46/2009. (IV. 16.) FVM rendelet szerinti agrár-erdészeti intézkedésbe bevonja, de nem tesz eleget a 22. § (6) bekezdés a) pont aa) alpontjában foglalt bejelentési kötelezettségének, akkora támogatásra jogosult részére a kötelezettségvállalással érintett egybefüggő terület vonatkozásában az egy gazdálkodási évére járó támogatási összeg 15%-kal csökkentett összege kerül kifizetésre.
+(7)[^98] Ha a támogatásra jogosult a 3. § (1) bekezdés a) pontjában meghatározott szántóföldi célprogram csoporton belül támogatott területét a 46/2009. (IV. 16.) FVM rendelet szerinti agrár-erdészeti intézkedésbe bevonja, de nem tesz eleget a 22. § (6) bekezdés a) pont aa) alpontjában foglalt bejelentési kötelezettségének, akkora támogatásra jogosult részére a kötelezettségvállalással érintett egybefüggő terület vonatkozásában az egy gazdálkodási évére járó támogatási összeg 15%-kal csökkentett összege kerül kifizetésre.
 
-[^92]: Az 53. § (1) bekezdése a 92/2011. (X. 5.) VM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^93]: Az 53. § (1a) bekezdését a 92/2011. (X. 5.) VM rendelet 15. § (2) bekezdése iktatta be.
-[^94]: Az 53. § (1b) bekezdését a 92/2011. (X. 5.) VM rendelet 15. § (2) bekezdése iktatta be.
-[^95]: Az 53. § (6) bekezdése a 92/2011. (X. 5.) VM rendelet 15. § (4) bekezdésével megállapított szöveg.
-[^96]: Az 53. § (7) bekezdését a 92/2011. (X. 5.) VM rendelet 15. § (4) bekezdése iktatta be.
+[^94]: Az 53. § (1) bekezdése a 92/2011. (X. 5.) VM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^95]: Az 53. § (1a) bekezdését a 92/2011. (X. 5.) VM rendelet 15. § (2) bekezdése iktatta be.
+[^96]: Az 53. § (1b) bekezdését a 92/2011. (X. 5.) VM rendelet 15. § (2) bekezdése iktatta be.
+[^97]: Az 53. § (6) bekezdése a 92/2011. (X. 5.) VM rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^98]: Az 53. § (7) bekezdését a 92/2011. (X. 5.) VM rendelet 15. § (4) bekezdése iktatta be.

@@ -56,10 +56,12 @@ h) a 12. számú melléklet szerinti egyéb ritka szántóföldi növények eset
 
 (6) A területazonosítási kérelemhez mellékelni kell a 39. § (4) bekezdés szerinti igazolást.
 
-(7) A kifizetési kérelemhez mellékelni kell a 43. § (5) bekezdésében foglalt igazolást.
+(7)[^112]
 
 (8) A támogatásra jogosult legfeljebb két egymást követő gazdálkodási évben vehet igénybe átállási időszakra vonatkozó támogatást az alábbiak szerint:
 
 a) amennyiben a támogatási kérelem benyújtásának naptári évében kezdte meg az átállást, úgy az átállási támogatásra két alkalommal jogosult;
 
 b) amennyiben a támogatási kérelem benyújtásának naptári évét megelőző évben kezdte meg az átállást, úgy egy alkalommal jogosult átállási támogatásra.
+
+[^112]: A 60. § (7) bekezdését a 44/2012. (V. 3.) VM rendelet 12. §-a hatályon kívül helyezte.

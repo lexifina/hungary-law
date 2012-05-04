@@ -38,9 +38,9 @@ ag) a területen mindennemű vízelvezetés tilos;
 
 ah) villanypásztor csak az illetékes állami természetvédelmi szerv előzetesen kiadott, a célprogram 5 évére vonatkozó írásos véleménye alapján alkalmazható;
 
-ai)[^131] kaszálás megkezdése előtt legalább 5 munkanappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját;
+ai)[^139] kaszálás megkezdése előtt legalább 5 munkanappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját;
 
-aj)[^132] fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal abba kell hagyni, és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szerv kijelölt munkatársát. A földhasználó értesítésétől számított 5 napon belül a természetvédelmi szerv köteles a földhasználót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a terület bármely részén folytatható;
+aj)[^140] fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal abba kell hagyni, és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szerv kijelölt munkatársát. A földhasználó értesítésétől számított 5 napon belül a természetvédelmi szerv köteles a földhasználót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a terület bármely részén folytatható;
 
 ak) őszi tisztító kaszálás elvégzése kötelező;
 
@@ -62,11 +62,11 @@ bg) a területen mindennemű vízelvezetés tilos;
 
 bh) az első kaszálás a célprogramba bevitt teljes gyepterület kijelölt legfeljebb 50%-án július 31. után kezdhető el – kivéve az Őrség-vendvidék, valamint a Hanság MTÉT-t, ahol a kaszálás a célprogramba bevitt teljes gyepterület 50%-án június 1. előtt, a másik 50%-án július 15. után – az illetékes állami természetvédelmi szerv írásos véleménye alapján;
 
-bi)[^133] kaszálás megkezdése előtt legalább 5 munkanappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját;
+bi)[^141] kaszálás megkezdése előtt legalább 5 munkanappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját;
 
 bk) a gazdálkodási év során kizárólag kaszálás történik.
 
-(5)[^134] A támogatás mértéke a célprogramba bevitt terület után azon támogatásra jogosult esetén, aki Natura 2000 gyepterület vonatkozásában kompenzációs támogatás igénybevételére
+(5)[^142] A támogatás mértéke a célprogramba bevitt terület után azon támogatásra jogosult esetén, aki Natura 2000 gyepterület vonatkozásában kompenzációs támogatás igénybevételére
 
 a) nem jogosult:
 
@@ -80,7 +80,7 @@ ba) legeltetés esetén 101 euró/ha-nak megfelelő forintösszeg;
 
 bb) kaszálás esetén 78 euró/ha-nak megfelelő forintösszeg.
 
-[^131]: A 70. § (4) bekezdés a) pont ai) alpontja a 92/2011. (X. 5.) VM rendelet 24. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^132]: A 70. § (4) bekezdés a) pont aj) alpontja az 1/2011. (I. 11.) VM rendelet 1. § (33) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^133]: A 70. § (4) bekezdés b) pont bi) alpontja a 92/2011. (X. 5.) VM rendelet 24. § (3) bekezdés d) pontja szerint módosított szöveg.
-[^134]: A 70. § (5) bekezdése a 92/2011. (X. 5.) VM rendelet 21. §-ával megállapított szöveg.
+[^139]: A 70. § (4) bekezdés a) pont ai) alpontja a 92/2011. (X. 5.) VM rendelet 24. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^140]: A 70. § (4) bekezdés a) pont aj) alpontja az 1/2011. (I. 11.) VM rendelet 1. § (33) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^141]: A 70. § (4) bekezdés b) pont bi) alpontja a 92/2011. (X. 5.) VM rendelet 24. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^142]: A 70. § (5) bekezdése a 92/2011. (X. 5.) VM rendelet 21. §-ával megállapított szöveg.

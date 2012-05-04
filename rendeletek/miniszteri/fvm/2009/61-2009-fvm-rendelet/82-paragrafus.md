@@ -1,4 +1,4 @@
-## 81/A. §[^149] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet módosításáról szóló 92/2011. (X. 5.) VM rendelettel (a továbbiakban 92/2011. (X. 5.) VM rendelet) megállapított 5. § (3) és (6) bekezdését, 7. § (9) bekezdését, valamint 42. § (2) bekezdését a 92/2011. (X. 5.) VM rendelet hatálybalépésekor[^150] folyamatban lévő ügyekben is alkalmazni kell.
+## 81/B. §[^160] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 44/2012. (V. 3.) VM rendelettel [a továbbiakban: 44/2012. (V. 3.) VM rendelet] megállapított 5. § (3) bekezdés a) pontját, 45. § (7) bekezdését, 54. § (5) bekezdését és 57. § (5) bekezdés e), f) és g) pontját a 44/2012. (V. 3.) VM rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 82. § (1) Az Európai Mezőgazdasági Vidékfejlesztési Alapból nem termelő mezőgazdasági beruházásokhoz nyújtandó támogatások részletes feltételeiről szóló 33/2008. (III. 27.) FVM rendelet [a továbbiakban: 33/2008. (III. 27.) FVM rendelet] 2. §-ának 7. pontja helyébe a következő rendelkezés lép:
 
@@ -18,5 +18,4 @@
 
 (6) A 33/2008. (III. 27.) FVM rendelet 18. § (4) bekezdés b) pontjában a „parcellának” szövegrész helyébe az „összefüggő területnek” szövegrész lép.
 
-[^149]: A 81/A. §-t a 92/2011. (X. 5.) VM rendelet 25. §-a iktatta be.
-[^150]: A hatálybalépés időpontja 2011. október 6.
+[^160]: A 81/B. §-t a 44/2012. (V. 3.) VM rendelet 11. §-a iktatta be.
