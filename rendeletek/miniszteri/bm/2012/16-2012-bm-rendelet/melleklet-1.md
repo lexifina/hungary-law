@@ -1,3 +1,5 @@
-## 6. § Hatályát veszti a tűzvédelmi szakértői tevékenység szabályairól szóló 47/2011. (XII. 15.) BM rendelet 4. § (3) bekezdése és 5. § (4) bekezdése.
+## 6. §[^1]
 
 1. melléklet a 16/2012. (IV. 3.)BM rendelethez
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
