@@ -1,0 +1,17 @@
+10. § A Kötv. 20/A. § (1) bekezdésében az „A külön jogszabályban meghatározott nagyberuházás, valamint részben vagy egészben európai uniós forrásból megvalósuló beruházás (a továbbiakban: nagyberuházás)” szövegrész helyébe a „Nagyberuházás”, a 23/B. §-t megelőző alcím címében és a 23/B. §-ban az „Állami nagyberuházás” szövegrész helyébe a „Nagyberuházás”, 23/E. § (1) bekezdésében „teljes bekerülési költsége” szövegrész helyébe a „teljes bruttó bekerülési költsége”, és a „nem haladhatja meg a 200 millió forintot” szövegrész helyébe a „nem haladhatja meg a bruttó 200 millió forintot” szöveg lép.
+
+Kövér László s. k.,
+
+az Országgyűlés elnöke,
+
+a köztársasági elnök feladat- és
+
+hatásköreit gyakorolva
+
+Lezsák Sándor s. k.,
+
+az Országgyűlés alelnöke,
+
+az Országgyűlés elnökének
+
+feladatait ellátva

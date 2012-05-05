@@ -1,0 +1,3 @@
+4. § A Kötv. 23/E. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A feltárást végző intézmény kezdeményezése alapján az (1) bekezdésben meghatározott összeg – a hatóság javaslatára, a kultúráért felelős miniszter előterjesztésére – a Kormány döntése szerint magasabb értékben is megállapítható, ha az előzetes régészeti dokumentáció, a próbafeltárás vagy a megelőző feltárás eredményeként megállapítható, hogy a beruházással érintett lelőhely hazánk múltjának kiemelkedő jelentőségű, egyedi vagy pótolhatatlan forrása, vagy az elfedés a beruházás jellege miatt műszakilag lehetetlen, vagy az a lelőhely fizikai állapotromlását eredményezné.”
