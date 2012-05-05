@@ -14,7 +14,9 @@ e) szabályozza a Bizottság emlékhelyekkel kapcsolatos feladatait;
 
 f) szabályozza a nemzeti emlékhelyek – köznapi, ünnepi, idegenforgalmi és protokolláris, a nemzeti emlékhely szellemével összhangban álló – használati rendjét;
 
-g) határozza meg a történelmi emlékhelyeket.
+g) határozza meg a történelmi emlékhelyeket,
+
+h) szabályozza a nagyberuházásokkal összefüggő régészeti feltárások szabályait, valamint az ilyen régészeti feltárásra irányuló szerződés kötelező elemeit.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
