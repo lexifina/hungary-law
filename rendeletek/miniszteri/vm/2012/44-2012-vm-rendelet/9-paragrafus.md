@@ -1,3 +1,0 @@
-## 8. § Az R2. 45. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-## „(7) Az illetékes ökológiai ellenőrző szervezet évente, az adott gazdálkodási év május 15-ig az MVH részére tájékoztatást nyújt arról, hogy a 3. § (1) bekezdés a) pont ac) alpontjában, a 3. § (1) bekezdés b) pont bb) alpontjában és a 3. § (1) bekezdés c) pont cb) alpontjában meghatározott célprogramokban támogatott ügyfelek kötelezettségvállalással érintett egybefüggő területei az ökológiai ellenőrző szervezet nyilvántartásában szerepelnek vagy azok ökológiai státusza a gazdálkodási év folyamán megszüntetésre vagy visszaminősítésre került.”

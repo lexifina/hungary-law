@@ -1,5 +1,0 @@
-## „g) a támogatásra jogosult a 25. § (1) bekezdésben a kötelezettségátadásra vonatkozó kérelem benyújtására meghatározott határidőnek azért nem tesz eleget, mert
-
-## ga) 2011. december 31-ig az adott területre az NFA a haszonbérleti pályázati felhívást nem tette közzé vagy a kiírt haszonbérleti pályázati felhívásra benyújtott pályázatot nem bírálta el, és a támogatásra jogosult – a gb) pontban foglalt kivételtől eltekintve – a pályázat eredményének kézhezvételétől számított 30 napon belül benyújtja a kötelezettségátadásra vonatkozó kérelmet;
-
-## gb) az adott területre az NFA által kiírt haszonbérleti pályázati felhívásra benyújtott pályázatának eredményét 2012. január 15-e és az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 44/2012. (V. 3.) VM rendelet [a továbbiakban: 44/2012. (V. 3.) VM rendelet] hatálybalépése között kapja kézhez, és a kötelezettségátadásra vonatkozó kérelmet a 44/2012. (V. 3.) VM rendelet hatálybalépésétől számított 30 napon belül nyújtja be.”
