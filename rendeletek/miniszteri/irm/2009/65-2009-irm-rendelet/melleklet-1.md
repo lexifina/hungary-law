@@ -2,4 +2,4 @@
 
 1. melléklet a 65/2009. (XII. 17.) IRM rendelethez[^1]
 
-[^1]: Az 1. melléklet a 21/2010. (XII. 22.) KIM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. melléklet a 21/2010. (XII. 22.) KIM rendelet 1. § (1) bekezdésével megállapított, a 22/2012. (IV. 21.) KIM rendelet 1. §-a, 3. §-a és 4. § a) és b) pontja szerint módosított szöveg.

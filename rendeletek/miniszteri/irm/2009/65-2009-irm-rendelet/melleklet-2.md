@@ -18,7 +18,7 @@
 
 ## 8. Születési idő
 
-## 9. Lakcím
+## 9. Lakcím (szálláshely)
 
 ## 10. Állampolgárság
 
@@ -36,7 +36,7 @@
 
 ## 1. Főtevékenység
 
-## 2. Egyéb tevékenységi körök
+## 2. Egyéb tevékenység
 
 ## 3. Székhely
 
@@ -44,23 +44,9 @@
 
 ## 5. Fióktelep
 
-## 6. Iratok őrzési helye, ha nem azonos a székhellyel vagy lakóhellyel
+## 6. Iratok őrzési helye, ha nem azonos a székhellyel vagy lakcímmel (szálláshellyel)
 
-## 7. Kézbesítési megbízott neve
-
-## 8. Kézbesítési megbízott születési neve
-
-## 9. Kézbesítési megbízott anyja neve
-
-## 10. Kézbesítési megbízott születési helye
-
-## 11. Kézbesítési megbízott születési ideje
-
-## 12. Kézbesítési megbízott címe
-
-## 13. Kézbesítési megbízott elektronikus levelezési címe
-
-## 13. Vállalkozói igazolvány kiállítását: Kérem: □  Nem kérem: □
+## 7. Vállalkozói igazolvány kiállítását: Kérem: □  Nem kérem: □
 
 ## IV. A Nemzeti Adó- és Vámhivatal számára előterjesztendő nyilatkozat
 
@@ -92,31 +78,31 @@
 
 ## f) Székhely
 
-## g) Az egyéni vállalkozói tevékenység megkezdésének ideje
+## g)
 
 ## 3. Kiskorú örökös esetén a törvényes képviselő adatai
 
 ## a) Törvényes képviselő neve
 
-## b) Lakcíme
+## b) Lakcíme (szálláshelye)
 
 ## c) Adóazonosító jele
 
 ## VII. Adatvédelmi tájékoztatás
 
-## A nyilvántartást vezető szerv az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény (Evtv.) alapján, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvénynek megfelelően adatokat rögzít az egyéni vállalkozói nyilvántartásban. A nyilvántartás a bejelentett adatok közül az egyéni vállalkozók nyilvántartási számmal történő azonosítása, más egyéni vállalkozótól való megkülönböztetése céljából, illetve az egyéni vállalkozók tevékenységének átláthatóbbá tétele, jogszerű működésük ellenőrzése céljából az alábbi adatokra terjed ki:
+## A nyilvántartást vezető szerv az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény (Evtv.) alapján, az információs önrendelkezési jogról és az információszabadságról szóló törvénynek megfelelően adatokat rögzít az egyéni vállalkozói nyilvántartásban. A nyilvántartás a bejelentett adatok közül az egyéni vállalkozók nyilvántartási számmal történő azonosítása, más egyéni vállalkozótól való megkülönböztetése céljából, illetve az egyéni vállalkozók tevékenységének átláthatóbbá tétele, jogszerű működésük ellenőrzése céljából az alábbi adatokra terjed ki:
 
-## –  az egyéni vállalkozó természetes személyazonosító adatait, lakcímét, állampolgárságát, értesítési címét, szükség szerint a kézbesítési megbízott személyazonosító adatait, lakcímét, értesítési címét és elektronikus levélcímét,
+## –  az egyéni vállalkozó természetes személyazonosító adatait, lakcímét (szálláshelyét), állampolgárságát, értesítési címét,
 
 ## –  az egyéni vállalkozók nyilvántartásába történő felvétel napját,
 
-## –  az egyéni vállalkozó főtevékenységét és egyéb tevékenységi köreit az Evtv. 6. § (1) bekezdés c) pontjának megfelelően,
+## –  az egyéni vállalkozó főtevékenységét és egyéb tevékenységét az Evtv. 6. § (1) bekezdés c) pontjának megfelelően,
 
 ## –  a székhely, a telephely (telephelyek) és a fióktelep (fióktelepek) címét,
 
 ## –  szükség szerint az egyéni vállalkozói tevékenység szünetelésének tényét, kezdő- és zárónapját,
 
-## –  az egyéni vállalkozó adószámát, ha az egyéni vállalkozó adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztés, a felfüggesztés megszüntetése, a törlés, illetve e határozatok megsemmisítése vagy hatályon kívül helyezése tényét, továbbá a határozat jogerőre emelkedésének napját,
+## –  az egyéni vállalkozó adószámát, ha az egyéni vállalkozó adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztés, a felfüggesztés megszüntetése, a törlés, illetve e határozatok megsemmisítésének, hatályon kívül helyezésének, visszavonásának, módosításának, kiegészítésének tényét, továbbá a határozat jogerőre emelkedésének napját,
 
 ## –  az egyéni vállalkozó statisztikai számjelét és nyilvántartási számát,
 
@@ -130,13 +116,13 @@
 
 ## –  az egyéni vállalkozók nyilvántartásába történő felvétel napja,
 
-## –  az egyéni vállalkozó főtevékenysége és tevékenységi körei,
+## –  az egyéni vállalkozó főtevékenysége és egyéb tevékenysége,
 
 ## –  az egyéni vállalkozó székhelye, telephelye(i), fióktelepe(i) címe,
 
 ## –  szükség szerint egyéni vállalkozói tevékenység szüneteltetésének ténye, kezdő- és zárónapja,
 
-## –  az egyéni vállalkozó adószáma, ha az egyéni vállalkozó adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztés, a felfüggesztés megszüntetése, a törlés, illetve e határozatok megsemmisítésének vagy hatályon kívül helyezésének ténye, továbbá a határozat jogerőre emelkedésének napja,
+## –  az egyéni vállalkozó adószáma, ha az egyéni vállalkozó adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztés, a felfüggesztés megszüntetése, a törlés, illetve e határozatok megsemmisítésének vagy hatályon kívül helyezésének, visszavonásának, módosításának, kiegészítésének ténye, továbbá a határozat jogerőre emelkedésének napja,
 
 ## –  az egyéni vállalkozó statisztikai számjele és nyilvántartási száma,
 
@@ -184,7 +170,7 @@ II. Megváltozott adatok
 
 8. Születési idő
 
-9. Lakcím
+9. Lakcím (szálláshely)
 
 10. Értesítési cím
 
@@ -192,7 +178,7 @@ II. Megváltozott adatok
 
 12. Főtevékenység
 
-13. Egyéb tevékenységi körök
+13. Egyéb tevékenység
 
 14. Székhely
 
@@ -200,19 +186,7 @@ II. Megváltozott adatok
 
 16. Fióktelep
 
-17. Kézbesítési megbízott neve
-
-18. Kézbesítési megbízott születési neve
-
-19. Kézbesítési megbízott anyja neve
-
-20. Kézbesítési megbízott születési helye
-
-21. Kézbesítési megbízott születési ideje
-
-22. Kézbesítési megbízott címe
-
-23. Kézbesítési megbízott elektronikus levelezési címe
+17–23.
 
 III. A Nemzeti Adó- és Vámhivatal számára előterjesztendő nyilatkozat
 
@@ -252,13 +226,13 @@ cb) eltulajdonították □
 
 cc) megsemmisült □
 
-V. Nyilatkozat az egyéni vállalkozói tevékenység szüneteltetéséről, megszüntetéséről
+V. Nyilatkozat az egyéni vállalkozói tevékenység szüneteltetéséről, folytatásáról, megszüntetéséről
 
-1. Kijelentem, hogy egyéni vállalkozói tevékenységemet ... év ............ hó ... naptól szüneteltetni kívánom.
+1. Egyéni vállalkozói tevékenységemet a bejelentést követő naptól szüneteltetem.
 
-2. Kijelentem, hogy szüneteltetett egyéni vállalkozói tevékenységemet ... év .......... hó ... naptól ismételten meg kívánom kezdeni.
+2. Szüneteltetett egyéni vállalkozói tevékenységemet a bejelentést követő naptól folytatom.
 
-3. Kijelentem, hogy egyéni vállalkozói tevékenységemet ... év ........... hó ... napjával megszüntetem.
+3. Egyéni vállalkozói tevékenységemet a bejelentés napjával megszüntetem.
 
 VI. Egyéni vállalkozói tevékenységgel kapcsolatos nyilatkozatok
 
@@ -272,7 +246,7 @@ VII. Vállalkozó cselekvőképességéhez kapcsolódó adatok, nyilatkozatok
 
 a) Törvényes képviselő neve
 
-b) Törvényes képviselő lakcíme
+b) Törvényes képviselő lakcíme (szálláshelye)
 
 c) Törvényes képviselő adóazonosító jele
 
@@ -286,4 +260,4 @@ a) A cselekvőképesség korlátozását megszüntető okirat száma
 
 b) A cselekvőképesség korlátozását megszüntető határozat jogerőre emelkedésének ideje, vagy a határozatban foglalt azon időpont, amikortól a cselekvőképesség korlátozásának megszüntetése hatályos
 
-[^2]: A 2. melléklet a 21/2010. (XII. 22.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^2]: A 2. melléklet a 21/2010. (XII. 22.) KIM rendelet 1. § (2) bekezdésével megállapított, a 22/2012. (IV. 21.) KIM rendelet 2. §-a és 4. § c) pontja szerint módosított szöveg.
