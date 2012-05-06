@@ -1,3 +1,3 @@
-4. melléklet a 66/2009. (XII. 17.) IRM rendelethez[^13]
+4. melléklet a 66/2009. (XII. 17.) IRM rendelethez[^14]
 
-[^13]: A 4. mellékletet a 13. § (4) bekezdése hatályon kívül helyezte.
+[^14]: A 4. mellékletet a 13. § (4) bekezdése hatályon kívül helyezte.
