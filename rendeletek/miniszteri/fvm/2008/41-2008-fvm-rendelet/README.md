@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-41-20-8
 | 2011-01-14 | 2008-41-20-82.3 | 171/2009. (XII. 22.) FVM rendelet |
 | 2011-07-03 | 2008-41-20-82.4 | 60/2011. (VI. 30.) VM rendelet |
 | 2011-10-13 | 2008-41-20-82.5 | 93/2011. (X. 12.) VM rendelet |
+| 2012-05-06 | 2008-41-20-82.6 | 42/2012. (V. 3.) VM rendelet |

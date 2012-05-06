@@ -1,15 +1,17 @@
-## 6. §[^10] A termeltető a támogatási kérelmét a 2. számú melléklet szerinti adattartalmú, az MgSzH által rendszeresített az MgSzH honlapján közzétett, kötelezően alkalmazandó formanyomtatványon, negyedévente egyszer, teljes negyedévre vonatkozóan legkésőbb a tárgynegyedévet követő hónap 15. napjáig nyújthatja be az MgSzH-hoz. A támogatási kérelemhez csatolni kell a termeltetési előlegben részesült állattartók 3. számú melléklet szerinti adattartalmú, az MgSzH által rendszeresített, az MgSzH honlapján közzétett, kötelezően alkalmazandó formanyomtatványon, állati termékenként külön-külön elkészített összesítő kimutatását.
+## 6. §[^13] A termeltető a támogatási kérelmét a 2. számú melléklet szerinti adattartalmú, az NÉBIH által rendszeresített az NÉBIH honlapján közzétett, kötelezően alkalmazandó formanyomtatványon, negyedévente egyszer, teljes negyedévre vonatkozóan legkésőbb a tárgynegyedévet követő hónap 15. napjáig nyújthatja be az NÉBIH-hez. A támogatási kérelemhez csatolni kell a termeltetési előlegben részesült állattartók 3. számú melléklet szerinti adattartalmú, az NÉBIH által rendszeresített, az NÉBIH honlapján közzétett, kötelezően alkalmazandó formanyomtatványon, állati termékenként külön-külön elkészített összesítő kimutatását.
 
 ## A támogatás kifizetése
 
-7. § (1) Az MgSzH a támogatási kérelmeket szakmailag felülvizsgálja és egyetértése esetén ellenjegyzi.
+7. § (1)[^14] Az NÉBIH a támogatási kérelmeket szakmailag felülvizsgálja és egyetértése esetén ellenjegyzi.
 
-(2) Az MgSzH ellenjegyzése nélkül benyújtott támogatási kérelmeket a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) elutasítja.
+(2)[^15] Az NÉBIH ellenjegyzése nélkül benyújtott támogatási kérelmeket a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) elutasítja.
 
-(3)[^11] Az MgSzH a támogatási kérelmeket a benyújtás időpontját igazoló dokumentum csatolásával az MVH Piaci Támogatások és Külkereskedelmi Intézkedések Igazgatóságához továbbítja, amely a benyújtott dokumentumok alapján dönt az igénybe vehető támogatásról és intézkedik annak kifizetéséről.
+(3)[^16] Az NÉBIH a támogatási kérelmeket a benyújtás időpontját igazoló dokumentum csatolásával az MVH Piaci Támogatások és Külkereskedelmi Intézkedések Igazgatóságához továbbítja, amely a benyújtott dokumentumok alapján dönt az igénybe vehető támogatásról és intézkedik annak kifizetéséről.
 
-(4)[^12] Az MVH – a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 60. § (2) bekezdésére is figyelemmel – a forrás rendelkezésére állásától számított harminc napon belül folyósítja a támogatást a termeltető részére.
+(4)[^17] Az MVH – a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 60. § (2) bekezdésére is figyelemmel – a forrás rendelkezésére állásától számított harminc napon belül folyósítja a támogatást a termeltető részére.
 
-[^10]: A 6. § a 60/2011. (VI. 30.) VM rendelet 5. §-ával megállapított szöveg.
-[^11]: A 7. § (3) bekezdése a 171/2009. (XII. 22.) FVM rendelet 3. § (5) bekezdésével megállapított szöveg.
-[^12]: A 7. § (4) bekezdése a 171/2009. (XII. 22.) FVM rendelet 3. § (5) bekezdésével megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (22) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^13]: A 6. § a 60/2011. (VI. 30.) VM rendelet 5. §-ával megállapított, a 42/2012. (V. 3.) VM rendelet 2. § (2) és (3) bekezdése szerint módosított szöveg.
+[^14]: A 7. § (1) bekezdése a 42/2012. (V. 3.) VM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^15]: A 7. § (2) bekezdése a 42/2012. (V. 3.) VM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^16]: A 7. § (3) bekezdése a 171/2009. (XII. 22.) FVM rendelet 3. § (5) bekezdésével megállapított, a 42/2012. (V. 3.) VM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^17]: A 7. § (4) bekezdése a 171/2009. (XII. 22.) FVM rendelet 3. § (5) bekezdésével megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (22) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
