@@ -884,13 +884,13 @@
 
 ## A forgalomba hozatali engedély hatályosságát igazoló matrica mintája
 
-## 7. függelék
+## 7. függelék[^37]
 
-## Pályázati űrlap mintája permetezőgépek felülvizsgálatára szóló jogosultság megszerzéséhez
+## Pályázati űrlap mintája növényvédelmi gépek felülvizsgálatára szóló jogosultság megszerzéséhez
 
 ## ........................................................................................................ kérem a növényvédelmi tevékenységről szóló 43/2010.
 
-## (IV. 23.) FVM rendelet alapján permetezőgépek időszakos felülvizsgálatára szóló tanúsítvány megadását.
+## (IV. 23.) FVM rendelet alapján növényvédelmi gépek időszakos felülvizsgálatára szóló tanúsítvány megadását.
 
 ## A hivatkozott jogszabályban foglalt követelményeknek a felállítandó felülvizsgáló állomás megfelel.
 
@@ -922,15 +922,15 @@
 
 ## aláírás
 
-## 8. függelék
+## 8. függelék[^38]
 
-## Permetezőgépek felülvizsgálatára jogosító tanúsítvány mintája
+## Növényvédelmi gépek felülvizsgálatára jogosító tanúsítvány mintája
 
 ## A tanúsítvány száma: ............................................
 
-## PERMETEZŐGÉPEK FELÜLVIZSGÁLATÁRA JOGOSÍTÓ TANÚSÍTVÁNY
+## NÖVÉNYVÉDELMI GÉPEK FELÜLVIZSGÁLATÁRA JOGOSÍTÓ TANÚSÍTVÁNY
 
-## A Földművelésügyi és Vidékfejlesztési Minisztérium Mezőgazdasági Gépesítési Intézete tanúsítja, hogy a .................................................. állomás szántóföldi és/vagy ültetvény (kertészeti) permetezőgépek felülvizsgálatára alkalmas a növényvédelmi tevékenységről szóló 43/2010. (IV. 23.) FVM rendelet alapján.
+## A Földművelésügyi és Vidékfejlesztési Minisztérium Mezőgazdasági Gépesítési Intézete tanúsítja, hogy a .................................................. állomás növényvédelmi gépek felülvizsgálatára alkalmas a növényvédelmi tevékenységről szóló 43/2010. (IV. 23.) FVM rendelet alapján.
 
 ## Ez a tanúsítvány visszavonásáig hatályos.
 
@@ -940,9 +940,9 @@
 
 ## aláírás
 
-## 9. függelék
+## 9. függelék[^39]
 
-## Permetezőgépek időszakos felülvizsgálata
+## Növényvédelmi gépek időszakos felülvizsgálata
 
 ## Követelmények; ellenőrzési és vizsgálati módszerek; mérőeszközök és vizsgálóberendezések jellemzői; felülvizsgálati jegyzőkönyv mintája
 
@@ -1340,7 +1340,7 @@
 
 ## Gyártási év:
 
-## Rendszer: ⬜ függesztett ⬜ rászerelt ⬜ vontatott ⬜ önjáró ⬜
+## Rendszer: ⬜  függesztett ⬜ rászerelt ⬜ vontatott ⬜ önjáró ⬜
 
 ## egyéb: ......................................
 
@@ -1354,7 +1354,7 @@
 
 ## Aláírás: ..........................................
 
-## ⬜ nincs hiba    ⬜ apró hibák    ⬜ kritikus hibák          ⬜ Matrica:    ⬜ igen    ⬜ nem
+## ⬜ nincs hiba    ⬜ apró hibák    ⬜ kritikus hibák          ⬜ Matrica:     ⬜ igen    ⬜ nem
 
 ## Dátum: ....................................................................
 
@@ -1790,10 +1790,15 @@
 
 | a ha alkalmazható |
 
-## 10. függelék
+## 10. függelék[^40]
 
-## Permetezőgépek működési engedélyének igazolására szolgáló matrica mintája
+## Növényvédelmi gépek működési engedélyének igazolására szolgáló matrica mintája
 
-| A PERMETEZŐGÉP a ...................................................................................... állomás ............................................ számú felülvizsgálati jegyzőkönyve alapján SZAKSZERŰ NÖVÉNYVÉDELMI MUNKÁRA ALKALMAS 11 12 13 14 15 16 17 I. II. III. IV. V. VI. VII. VIII. IX. X. XI. XII. |
+| A NÖVÉNYVÉDELMI GÉP a ...................................................................................... állomás ............................................ számú felülvizsgálati jegyzőkönyve alapján SZAKSZERŰ NÖVÉNYVÉDELMI MUNKÁRA ALKALMAS 11 12 13 14 15 16 17 I. II. III. IV. V. VI. VII. VIII. IX. X. XI. XII. |
 
 4. melléklet a 43/2010. (IV. 23.) FVM rendelethez
+
+[^37]: A 3. melléklet 7. függeléke a 46/2012. (V. 8.) VM rendelet e) pontja szerint módosított szöveg.
+[^38]: A 3. melléklet 8. függeléke a 46/2012. (V. 8.) VM rendelet c), g) és h) pontja szerint módosított szöveg.
+[^39]: A 3. melléklet 9. függeléke a 46/2012. (V. 8.) VM rendelet c) pontja szerint módosított szöveg.
+[^40]: A 3. melléklet 10. függeléke a 46/2012. (V. 8.) VM rendelet c) és i) pontja szerint módosított szöveg.

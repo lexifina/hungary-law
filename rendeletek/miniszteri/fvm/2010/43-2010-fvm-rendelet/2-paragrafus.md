@@ -14,10 +14,10 @@ f) selyemkóró (Asclepias syriaca),
 
 g) aranka fajok (Cuscuta spp.),
 
-h)[^1] a 7. melléklet szerinti raktári kártevők ellen.
+h)[^5] a 7. melléklet szerinti raktári kártevők ellen.
 
 (2) Az (1) bekezdés f) és g) pontjába tartozó gyomnövények irtását virágzásuk előtt végre kell hajtani.
 
 (3) Az (1) bekezdés c) pontjában foglaltak esetén, forgatás nélküli talajművelés kizárólag akkor végezhető, ha a táblán az előző évi növényállomány kukoricamoly fertőzéstől mentes volt.
 
-[^1]: A 2. § (1) bekezdés h) pontja a 66/2010. (V. 12.) FVM rendelet 13. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
+[^5]: A 2. § (1) bekezdés h) pontja a 66/2010. (V. 12.) FVM rendelet 13. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.

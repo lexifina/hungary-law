@@ -6,9 +6,9 @@
 
 (2) Az e rendelet hatálybalépése előtt kiadott – a 21. § szerinti – engedélyeket a 21. § (8) bekezdésben foglalt feltétel teljesülése során megadott igazoló tanúsítvány kiállításakor kell felülvizsgálni az e rendeletben foglaltaknak való megfelelés tekintetében. Ennek során a kiadott engedélyeket módosítani kell vagy vissza kell vonni.
 
-(3)–(7)[^23]
+(3)–(7)[^27]
 
-(8)[^24]
+(8)[^28]
 
-[^23]: A 48. § (3)–(7) bekezdését a (8) bekezdés hatályon kívül helyezte.
-[^24]: A 48. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^27]: A 48. § (3)–(7) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^28]: A 48. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

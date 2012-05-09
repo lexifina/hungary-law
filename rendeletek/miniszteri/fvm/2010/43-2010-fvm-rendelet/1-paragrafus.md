@@ -1,17 +1,14 @@
-## Károsítók elleni védekezési kötelezettség
+## Értelmező rendelkezések[^1]
 
-1. § (1) A földhasználó és a termelő
+## 1. §[^2] E rendelet alkalmazásában:
 
-a) az adott terület rendeltetésével, hasznosítási céljával ellentétesen előforduló, tömeges jelenlétével gazdasági kárt okozó, ember vagy állat egészségét veszélyeztető vagy egyéb veszélyhelyzetet okozó növény (a továbbiakban: gyomnövény),
+1. felszín alatti víz: a felszín alatti vizek védelméről szóló kormányrendelet szerinti fogalom,
 
-b) a növényre, különösen kultúrnövényre, növényi termék bármely részére kifejezhető mennyiségi vagy minőségi veszteséggel járó, károsítást okozó állati szervezet (a továbbiakban: kártevő), valamint
+2. felszíni víz: a felszíni vizek minősége védelmének szabályairól szóló kormányrendelet szerinti fogalom,
 
-c) a növény, különösen kultúrnövény megbetegítésére képes, növényre, növényi termék bármely részére kifejezhető mennyiségi vagy minőségi veszteséggel járó, károsítást okozó fertőzőképes szervezet (a továbbiakban: kórokozó) elleni védekezésre vonatkozó döntését a károsítók gazdasági veszélyességére, emberre, állatra, környezetre gyakorolt hatására, a károsítók várható megjelenésének, terjedésének, járvány vagy gradáció kialakulásának valószínűsítésére szolgáló növényvédelmi előrejelzésre alapozva hozza meg.
+3. nem kémiai módszerek: a károsítók elleni védekezésre szolgáló kémiai növényvédelmen kívüli módszerek és megoldások, amelyek e rendelet 8. mellékletében összefoglalt mezőgazdasági technikákon vagy fizikai, mechanikai, illetve biológiai növényvédelmi módszereken alapulnak,
 
-(2) A földhasználó és a termelő a növényvédelmi tevékenységet köteles:
+4. növényvédelmi gép: növényvédő szer kijuttatására szolgáló berendezés, ideértve az ilyen berendezések hatékony működéséhez elengedhetetlen tartozékokat is.
 
-a) a biológiai, biotechnikai, agrotechnikai, mechanikai és kémiai védekezési eljárások, illetve ezek technológiai rendszerei alkalmazásával,
-
-b) a gyomnövények, kártevők és kórokozók természetes ellenségei és a hasznos, valamint a növénytermelés szempontjából veszélyt nem jelentő, élő szervezetek fokozott védelme mellett,
-
-c) az ember egészségére, a környezet és a természet védelmére vonatkozó alapelvek és szabályok betartásával folytatni.
+[^1]: Az 1. §-t megelőző alcím a 46/2012. (V. 8.) VM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § a 46/2012. (V. 8.) VM rendelet 1. §-ával megállapított szöveg.

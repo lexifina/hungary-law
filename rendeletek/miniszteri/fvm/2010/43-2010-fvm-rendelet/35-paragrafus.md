@@ -1,8 +1,8 @@
-35. § (1)[^21] A kézi, illetve háti permetezőgépek kivételével, a permetezőgépek időszakos felülvizsgálata (a továbbiakban: felülvizsgálat) 2011. december 15-től kötelező.
+35. § (1)[^25] A szolgáltatás és árutermelés során használt növényvédelmi gépeket – a kézi, illetve háti permetezőgépek kivételével – háromévente a 3. melléklet szerinti időszaki felülvizsgálatnak (a továbbiakban: felülvizsgálat) kell alávetni.
 
-(2)[^22] A permetezőgépek 3. melléklet szerinti felülvizsgálatát a tulajdonosnak az Éltv. szerint előírt időközönként el kell végeztetnie az Intézet erre feljogosító tanúsítványával rendelkező ellenőrző állomáson (a továbbiakban: állomás).
+(2)[^26] A növényvédelmi gépek felülvizsgálatát a tulajdonosnak az Intézet erre feljogosító tanúsítványával rendelkező ellenőrző állomáson (a továbbiakban: állomás) kell elvégeztetnie.
 
 (3) A felülvizsgálat rendjét és az állomások címjegyzékét az Intézet javaslatára a miniszter közleményben teszi közzé.
 
-[^21]: A 35. § (1) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (16) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
-[^22]: A 35. § (2) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (16) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
+[^25]: A 35. § (1) bekezdése a 46/2012. (V. 8.) VM rendelet 2. §-ával megállapított szöveg.
+[^26]: A 35. § (2) bekezdése a 46/2012. (V. 8.) VM rendelet 2. §-ával megállapított szöveg.
