@@ -1,4 +1,4 @@
-72–73. §[^1]
+72–73. §[^3]
 
 Melléklet a 62/2011. (XII. 29.) BM rendelethez
 
@@ -64,4 +64,4 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, többr
 
 5. Az igazolvány színe: kék
 
-[^1]: A 72–73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 72–73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
