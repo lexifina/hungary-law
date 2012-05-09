@@ -1,4 +1,4 @@
-## 15. §[^1]
+## 15. §[^2]
 
 1. melléklet a 15/2010. (V. 12.) ÖM rendelethez
 
@@ -210,4 +210,4 @@ A bevetési és kiképzési célra használható tűzvédelmi technika csoportos
 
 | 102. | 36. Egyéb | igen | jogszabály, szabvány, gyártói előírás szerint | – |
 
-[^1]: A 15. § a (2) bekezdés alapján hatályát vesztette.
+[^2]: A 15. § a (2) bekezdés alapján hatályát vesztette.
