@@ -1,4 +1,4 @@
-## A TŰZÁTJELZÉS FOGADÁSA, TŰZJELZŐ VAGY TŰZOLTÓ KÖZPONTOK TÁVFELÜGYELETE TEVÉKENYSÉG BEJELENTÉSE
+## A tűzátjelzés fogadása, tűzjelző vagy tűzoltó központok távfelügyelete tevékenység bejelentése
 
 ## Bejelentés típusa (tevékenység megkezdés, adatváltozás)
 
@@ -8,9 +8,9 @@
 
 ## Szolgáltató levelezési címe
 
-## Felügyeletet ellátó szervezet neve
+## A fogadó központ állandó felügyeletét ellátó szervezet neve
 
-## Felügyeletet ellátó szervezet székhelye
+## A fogadó központ állandó felügyeletet ellátó szervezet székhelye
 
 ## Fogadó központ helyének címe
 
@@ -24,14 +24,12 @@
 
 ## Fax szám
 
-## E-mail cím:
+## E-mail cím
 
 ## Kapcsolattartásra kijelölt személy
 
-## A tevékenység megkezdésének időpontja
-
-## A tevékenység befejezésének időpontja
-
 ## Nyilvántartási szám (adatváltozás esetén)
 
-7. melléklet az 50/2011. (XII. 20.) BM rendelethez
+7. melléklet az 50/2011. (XII. 20.) BM rendelethez[^30]
+
+[^30]: A 7. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (6) bekezdésével megállapított szöveg.

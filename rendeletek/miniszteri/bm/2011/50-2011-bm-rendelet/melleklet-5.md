@@ -1,4 +1,4 @@
-## A TŰZOLTÓ TECHNIKA FELÜLVIZSGÁLATA, JAVÍTÁSA TEVÉKENYSÉG BEJELENTÉSE
+## A tűzoltó technika felülvizsgálata, javítása tevékenység bejelentése
 
 ## Bejelentés típusa (tevékenység megkezdés, adatváltozás)
 
@@ -18,14 +18,12 @@
 
 ## Fax szám
 
-## E-mail cím:
+## E-mail cím
 
 ## Kapcsolattartásra kijelölt személy
 
-## A tevékenység megkezdésének időpontja
-
-## A tevékenység befejezésének időpontja
-
 ## Nyilvántartási szám (adatváltozás esetén)
 
-5. melléklet az 50/2011. (XII. 20.) BM rendelethez
+5. melléklet az 50/2011. (XII. 20.) BM rendelethez[^28]
+
+[^28]: Az 5. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (4) bekezdésével megállapított szöveg.

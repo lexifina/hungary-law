@@ -1,27 +1,29 @@
-4. § (1) Egy tűzoltó készülék karbantartó műhely csak egy, az OTSZ szerinti OKF azonosító jelet kap, mely nem a szolgáltatóra, hanem a műhelyre vonatkozik.
+4. §[^11] (1) Egy tűzoltó készülék karbantartó műhelyre csak egy sorozatszámú OTSZ szerinti OKF azonosító jel adható.
 
-(2) A karbantartó szervezet, amennyiben bejelentése egy már nyilvántartásba vett műhely címére vonatkozik, nem kap új OKF azonosító jelet.
+(2) Amennyiben a bejelentés egy már nyilvántartásba vett műhely címére vonatkozik, nem adható ki új OKF azonosító jel.
 
-(3) Bármely, a 3. § b) pontjának ba)–bd) alpontjában meghatározott típusú tűzoltó készülék teljes körű karbantartására alkalmas műhely OKF azonosító jelét használó karbantartó szervezet vagy felülvizsgáló jogosult az OKF azonosító jelet bármely a 3. § b) pontjának ba)–bd) alpontjában meghatározott típusú tűzoltó készülék alapkarbantartása során használni.
+(3) A felülvizsgáló a karbantartó szervezettől átvett OKF azonosító jeleket csak saját maga, vagy alkalmazottai révén használhatja fel, azokat másra nem ruházhatja át.
 
-(4) Az OKF azonosító jellel rendelkező karbantartó szervezet, az általa a felülvizsgálók rendelkezésére bocsátott OKF azonosító jelekről részletes kimutatást vezet, mely tartalmazza legalább
+(4) A karbantartó szervezet, az általa a karbantartó személyek vagy felülvizsgálók rendelkezésére bocsátott OKF azonosító jelek továbbadásáról részletes kimutatást vezet, mely az átvétel igazolásán felül tartalmazza legalább:
 
 a) a továbbadás dátumát,
 
 b) a felülvizsgáló nevét, nyilvántartási számát, és
 
-c) bbadott OKF azonosító jelek sorozatszámát.
+c) a továbbadott OKF azonosító jelek sorozatszámát.
 
-(5) A tűzvédelmi hatóság megtilthatja a tűzoltó készülék karbantartása és felülvizsgálata tevékenység végzését, továbbá az OKF azonosító jel használatát
+(5) A karbantartó személyek vagy felülvizsgálók rendelkezésére bocsátott OKF azonosító jelekről vezetett részletes kimutatást a karbantartó szervezet a továbbadás dátumától számított legalább 11 évig megőrzi. A karbantartó szervezet jogutód nélküli megszűnése esetén a kimutatást a tűzvédelmi hatóságnak átadja, amely gondoskodik azok megőrzéséről.
+
+(6) A tűzvédelmi hatóság megtilthatja a tűzoltó készülék karbantartása tevékenység végzését, továbbá az OKF azonosító jel használatát
 
 a) az adott tűzvédelmi szolgáltatási tevékenység folytatására való jogosultság megfelelő igazolásáig,
 
-b) amennyiben a szolgáltató a nyilvántartási számát, vagy OKF azonosító jelét, az e rendeletben foglalt kivételektől eltekintve, másra átruházza,
+b) amennyiben a szolgáltató OKF azonosító jelét, az e rendeletben foglalt kivételektől eltekintve, másra átruházza,
 
-c) amennyiben a tűzoltó készülék karbantartása vagy felülvizsgálata során az OKF azonosító jel használata jogosulatlanul történik,
+c) amennyiben a tűzoltó készülék karbantartása során az OKF azonosító jel használata jogosulatlanul történik,
 
-d) amennyiben a karbantartó szervezet és a felülvizsgáló a tűzoltó készülék karbantartó tevékenységre vonatkozóan bevezetett minőségirányítási rendszer érvényes tanúsítványának másolatát a kiállítását követő 15 napon belül nem küldi meg a tűzvédelmi hatóság részére,
+d) amennyiben a karbantartó szervezet, az általa a karbantartó személyek vagy felülvizsgálók rendelkezésére bocsátott OKF azonosító jelekről, az e rendelet szerinti részletes kimutatás vezetését elmulasztja, vagy
 
-e) amennyiben az OKF azonosító jellel rendelkező karbantartó szervezet, az általa a felülvizsgálók rendelkezésére bocsátott OKF azonosító jelekről, az e rendelet szerinti részletes kimutatás vezetését elmulasztja, vagy
+e) a tűzoltó készülék karbantartásra vonatkozó jogszabályban, műszaki követelményben, gyártói javítási technológiában meghatározott előírások megsértése esetén.
 
-f) a tűzoltó készülék karbantartásra vonatkozó jogszabályban, műszaki követelményben, gyártói javítási technológiában meghatározott előírások megsértése esetén.
+[^11]: A 4. § a 24/2012. (V. 8.) BM rendelet 13. § (4) bekezdésével megállapított szöveg.

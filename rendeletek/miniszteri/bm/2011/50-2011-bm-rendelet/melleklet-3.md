@@ -1,4 +1,4 @@
-## A TŰZOLTÓ KÉSZÜLÉK KARBANTARTÁSA ÉS FELÜLVIZSGÁLATA TEVÉKENYSÉG BEJELENTÉSE TŰZOLTÓ KÉSZÜLÉK KARBANTARTÓ SZERVEZET
+## A tűzoltó készülék karbantartás tevékenység bejelentése tűzoltó készülék karbantartó szervezet
 
 ## Bejelentés típusa (tevékenység megkezdés, adatváltozás)
 
@@ -8,11 +8,7 @@
 
 ## Szolgáltató levelezési címe
 
-## Műhely címe
-
-## Fenntartó szervezet(ek) neve, címe
-
-## Karbantartott készülékek típusa
+## Karbantartó műhely címe
 
 ## A tevékenység gyakorlására jogosult vagy képviselője elérhetőségei
 
@@ -20,14 +16,12 @@
 
 ## Fax szám
 
-## E-mail cím:
+## E-mail cím
 
 ## Kapcsolattartásra kijelölt személy
 
-## A tevékenység megkezdésének időpontja
-
-## A tevékenység befejezésének időpontja
-
 ## Nyilvántartási szám (adatváltozás esetén)
 
-3. melléklet az 50/2011. (XII. 20.) BM rendelethez
+3. melléklet az 50/2011. (XII. 20.) BM rendelethez[^26]
+
+[^26]: A 3. mellékletet a 24/2012. (V. 8.) BM rendelet 16. § c) pontja hatályon kívül helyezte.

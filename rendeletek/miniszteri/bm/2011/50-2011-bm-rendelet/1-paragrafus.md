@@ -8,16 +8,24 @@
 
 (4) A tűzvédelmi hatóság által kiadott igazolás a Szolgtv.-ben meghatározott adatokon túl tartalmazza:
 
-a) tűzoltó készülék karbantartása és felülvizsgálata esetén
+a)[^1] tűzoltó készülék karbantartása esetén a karbantartó műhely címét és az Országos Tűzvédelmi Szabályzatról szóló 28/2011. (IX. 6.) BM rendelet (a továbbiakban: OTSZ) szerinti OKF azonosító jel sorszámát;
 
-aa) a karbantartott tűzoltó készülékek típusát,
-
-ab) a karbantartó műhely címét és az Országos Tűzvédelmi Szabályzatról szóló 28/2011. (IX. 6.) BM rendelet (a továbbiakban: OTSZ) szerinti OKF azonosító jel sorszámát;
-
-b) a beépített tűzjelző vagy tűzoltó berendezés tervezése, kivitelezése, karbantartása, javítása, telepítése, felülvizsgálata tevékenységre vonatkozóan a szolgáltatási ág megnevezését,
+b)[^2] a tűzvédelmi szakvizsgával összefüggő oktatásszervezés és a tűzvédelmi szakvizsgáztatás esetén a foglalkozási ág konkrét megnevezését,
 
 c) a tűzátjelzés fogadása, tűzjelző vagy tűzoltó központok távfelügyelete tevékenység vonatkozásában a tűz- és hibaátjelzést fogadó központ típusát és címét,
 
 d) a tűzvédelmi szakvizsgával összefüggő oktatásszervezés és a tűzvédelmi szakvizsgáztatás esetén a foglalkozási ág konkrét megnevezését.
 
-(5) A tűzvédelmi hatóság által közzétett nyilvántartás a Szolgtv.-ben és Ttv.-ben meghatározott adatokon túl tartalmazza a (4) bekezdés a)–c) pontjaiban foglalt adatokat.
+(5)[^3] A tűzvédelmi hatóság által közzétett nyilvántartás a Szolgtv.-ben meghatározott adatokon túl tartalmazza:
+
+a) a tevékenység gyakorlására jogosult vagy képviselője telefonszámát, elektronikus levélcímét,
+
+b) a bejelentés előterjesztésének napját,
+
+c) azt, hogy a bejelentés határozatlan időre szól, vagy azt az időtartamot, amelyre a bejelentés szól,
+
+d) a (4) bekezdés a)–b) és d) pontjaiban foglalt adatokat.
+
+[^1]: Az 1. § (4) bekezdés a) pontja a 24/2012. (V. 8.) BM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (4) bekezdés b) pontja a 24/2012. (V. 8.) BM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (5) bekezdése a 24/2012. (V. 8.) BM rendelet 13. § (2) bekezdésével megállapított szöveg.

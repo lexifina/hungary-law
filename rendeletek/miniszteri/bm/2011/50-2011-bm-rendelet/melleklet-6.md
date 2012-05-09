@@ -1,4 +1,4 @@
-## A BEÉPÍTETT TŰZJELZŐ VAGY TŰZOLTÓ BERENDEZÉS TERVEZÉSE, VAGY KIVITELEZÉSE, KARBANTARTÁSA, JAVÍTÁSA, TELEPÍTÉSE, FELÜLVIZSGÁLATA TEVÉKENYSÉG BEJELENTÉSE
+## A beépített tűzjelző vagy tűzoltó berendezés kivitelezése, karbantartása, javítása, telepítése vagy felülvizsgálata tevékenység bejelentése
 
 ## Bejelentés típusa (tevékenység megkezdés, adatváltozás)
 
@@ -16,14 +16,12 @@
 
 ## Fax szám
 
-## E-mail cím:
+## E-mail cím
 
 ## Kapcsolattartásra kijelölt személy
 
-## A tevékenység megkezdésének időpontja
-
-## A tevékenység befejezésének időpontja
-
 ## Nyilvántartási szám (adatváltozás esetén)
 
-6. melléklet az 50/2011. (XII. 20.) BM rendelethez
+6. melléklet az 50/2011. (XII. 20.) BM rendelethez[^29]
+
+[^29]: A 6. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (5) bekezdésével megállapított szöveg.
