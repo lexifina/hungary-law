@@ -2,9 +2,9 @@
 
 19. § (1) Ez a rendelet – a 15. § (2) bekezdése kivételével – 1997. január 1-jén lép hatályba.
 
-(2)[^14] A rendelet 15. §-ának (2) bekezdése 2003. január 1-jén lép hatályba.
+(2)[^16] A rendelet 15. §-ának (2) bekezdése 2003. január 1-jén lép hatályba.
 
-(3)[^15]
+(3)[^17]
 
 Melléklet a 27/1996. (X. 30.) BM rendelethez
 
@@ -34,8 +34,8 @@ c) Műszaki felülvizsgálat:
 
 – a kémények és tartozékaik szemrevételezéssel, illetőleg a hagyományos kéményseprőeszközökkel, -szerszámokkal történő vizsgálata annak megállapítására, hogy azok műszaki állapota megfelel-e a létesítésre, használatra vonatkozó építési és tűzvédelmi hatósági előírásoknak;
 
-–[^16] a 729 cm2-nél (27 cm X 27 cm) nem nagyobb kürtő-keresztmetszetű épített, szerelt, bélelt kémények, valamint kürtőkeresztmetszettől függetlenül a mesterséges égéstermék-elvezetésű kémények füsttömörségének füsttömörség-próbával történő, ellenőrzése.
+–[^18] a 729 cm2-nél (27 cm X 27 cm) nem nagyobb kürtő-keresztmetszetű épített, szerelt, bélelt kémények, valamint kürtőkeresztmetszettől függetlenül a mesterséges égéstermék-elvezetésű kémények füsttömörségének füsttömörség-próbával történő, ellenőrzése.
 
-[^14]: A 19. § (2) bekezdése a 32/2000. (XI. 27.) BM rendelet 1. §-ával megállapított szöveg.
-[^15]: A 19. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 3. § 211. pontja hatályon kívül helyezte.
-[^16]: A melléklet c) pontjának második francia bekezdése az 51/1999. (XII. 25.) BM rendelet 7. §-ának (2) bekezdése szerint módosított szöveg.
+[^16]: A 19. § (2) bekezdése a 32/2000. (XI. 27.) BM rendelet 1. §-ával megállapított szöveg.
+[^17]: A 19. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 3. § 211. pontja hatályon kívül helyezte.
+[^18]: A melléklet c) pontjának második francia bekezdése az 51/1999. (XII. 25.) BM rendelet 7. §-ának (2) bekezdése szerint módosított szöveg.

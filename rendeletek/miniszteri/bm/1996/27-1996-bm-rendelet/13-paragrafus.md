@@ -14,11 +14,11 @@ d) a munkák elvégzésének időpontját;
 
 e) a munkavégző nevét;
 
-f)[^11] a munkavégzést igazoló nevét és az igazolás (aláírás) jogcímét, olvasható (nyomtatott) betűkkel;
+f)[^13] a munkavégzést igazoló nevét és az igazolás (aláírás) jogcímét, olvasható (nyomtatott) betűkkel;
 
-g)[^12] a munkavégzést igazoló aláírását.
+g)[^14] a munkavégzést igazoló aláírását.
 
 (3) A szolgáltató a közszolgáltatás rendszerességének biztosítása és tervezése céljából a sormunkakönyvet 5 évig köteles megőrizni.
 
-[^11]: A 13. § (2) bekezdésének f) pontját az 51/1999. (XII. 25.) BM rendelet 5. §-a iktatta a szövegbe.
-[^12]: A 13. § (2) bekezdésének g) pontját az 51/1999. (XII. 25.) BM rendelet 5. §-a iktatta a szövegbe.
+[^13]: A 13. § (2) bekezdésének f) pontját az 51/1999. (XII. 25.) BM rendelet 5. §-a iktatta a szövegbe.
+[^14]: A 13. § (2) bekezdésének g) pontját az 51/1999. (XII. 25.) BM rendelet 5. §-a iktatta a szövegbe.
