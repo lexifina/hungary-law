@@ -1,0 +1,3 @@
+## 1. § A számviteli törvény szerinti beszámoló elektronikus úton történő letétbe helyezéséről és közzétételéről szóló 11/2009. (IV. 28.) IRM–MeHVM–PM együttes rendelet (a továbbiakban: R.) 3. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A céginformációs szolgálat elektronikus, véletlenszerű kiválasztás segítségével eseti jelleggel megvizsgálja a beszámoló mellé csatolt elektronikus űrlap adattartalmát. Amennyiben az ellenőrzés eredményeként a céginformációs szolgálat azt állapítja meg, hogy a beszámoló benyújtása nem felelt meg a jogszabályi előírásoknak, a beszámolót haladéktalanul eltávolítja a honlapról és erről – az ok megjelölésével – haladéktalanul elektronikus értesítést küld a beszámolót beküldő személy és az állami adóhatóság részére.”
