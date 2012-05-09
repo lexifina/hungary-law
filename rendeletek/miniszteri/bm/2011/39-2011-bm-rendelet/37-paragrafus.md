@@ -1,4 +1,4 @@
-## 36. § A működési terület szerinti tűzoltóság szolgálatparancsnoka, akadályoztatása esetén a szolgálatparancsnok-helyettes vagy a szerparancsnok – a Fővárosi Katasztrófavédelmi Igazgatóság működési területén annak Hírközpontja –, önkormányzati tűzoltóság esetén a tűzoltóság parancsnoka, akadályoztatása esetén a parancsnok-helyettese, vagy rajparancsnoka köteles a jelzést annak tartalma – amennyiben van Tűzoltási Műszaki Mentési Terv (a továbbiakban: TMMT) az abban meghatározottak – alapján értékelni, a riasztási fokozatot meghatározni és egyéb, az esemény felszámolásához szükséges szervek, egységek értesítésére intézkedni.
+## 36. §[^5]
 
 37. § (1) A riasztás a készenléti jellegű szolgálatba beosztott személyi állomány és az általuk kezelt gépjárművek, felszerelések, oltó- és segédanyagok vonulására szóló felhívás. A riasztást az annak elrendelésére jogosult személynek a riasztólámpa működtetését követően az arra rendszeresített hang- és vizuális jelek vagy élőszó alkalmazásával kell elrendelni.
 
@@ -43,3 +43,5 @@ e) V-ös a riasztási fokozat, amelyben a beavatkozáshoz 6-nál több raj
 (8) Ha a beavatkozás a riasztott erőkkel, eszközökkel számottevő kárnövekedés nélkül nem végezhető el, úgy további erők, eszközök kirendelésére kell intézkedni.
 
 (9) A riasztási fokozathoz tartozó, de nem vonultatható gépjármű helyett a legközelebbi tűzoltóság gépjárművét kell riasztani, a riasztási fokozat emelése nélkül.
+
+[^5]: A 36. §-t a 24/2012. (V. 8.) BM rendelet 5. § b) pontja hatályon kívül helyezte.

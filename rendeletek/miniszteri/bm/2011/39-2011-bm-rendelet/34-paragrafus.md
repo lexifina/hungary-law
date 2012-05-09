@@ -1,17 +1,15 @@
-## 34. § A híradóügyeletes:
+## 34. §[^2] Az ügyeletes:
 
-a) ellátja a készenléti jellegű szolgálattal rendelkező tűzoltóság működési területén a tűzjelzés fogadásával, a riasztással kapcsolatos, valamint a jelentési, tájékoztatási és hírösszeköttetési feladatait, közreműködik az adatszolgáltatás elvégzésében,
+a) ellátja a készenléti jellegű szolgálattal rendelkező tűzoltóság működési területén a hozzá érkező tűzjelzés fogadásával, a riasztással kapcsolatos, valamint a jelentési és hír-összeköttetési feladatait, közreműködik az adatszolgáltatás elvégzésében,
 
-b) tevékenységét a híradóügyelet ügyrendje szerint végzi,
+b) a hozzá beérkező tűzjelzéseket haladéktalanul jelenti a KI műveletirányító ügyeletére,
 
-c) végrehajtja a KI ügyeletének, és az OKF Főügyeletének utasítását a riasztások végrehajtásával kapcsolatosan,
+c) tevékenységét az ügyelet ügyrendje szerint végzi,
 
-d) saját erők tekintetében végrehajtja a szükséges erők, eszközök riasztását, intézkedik más szervek erőinek, eszközeinek igénybevételéről,
+d) végrehajtja a KI fő- és műveletirányító ügyeletének, valamint az OKF Központi Főügyeletének utasításait a riasztások és jelentések végrehajtásával kapcsolatosan,
 
-e) törekszik a jelző személy megnyugtatására, célirányos kérdéseivel elősegíti az értékelhető jelzés felvételét,
+e) végrehajtja saját erőinek, eszközeinek riasztását,
 
-f) olvashatóan kitölti vagy számítógépen rögzíti a káreset-felvételi lapot, az adatok javítása csak visszaellenőrizhető módon történhet.
+f) jelentést tesz a tűzoltóparancsnoknak és a katasztrófavédelmi kirendeltség-vezetőnek a saját erők riasztásáról.
 
-g) rögzíti a tűzoltásvezető visszajelzéseit és a tűzesetekkel, műszaki mentésekkel kapcsolatos információkat,
-
-h) a tűzoltóság működési területén, de más katasztrófavédelmi kirendeltség illetékességi területén végzett beavatkozás esetén, vagy ha utólagos tűzeset jut tudomására, haladéktalanul értesíti az illetékességi terület szerinti tűzoltóságot.
+[^2]: A 34. § a 24/2012. (V. 8.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.

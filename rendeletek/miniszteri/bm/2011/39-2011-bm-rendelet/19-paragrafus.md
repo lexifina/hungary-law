@@ -1,6 +1,6 @@
 ## 18. § A tűzoltás vezetését végzők a biztonsági és a munkavédelmi szabályok alapján a tűzoltásban résztvevők baleset- és életvédelméről minden helyzetben intézkednek, annak megtartásáról és megtartatásáról gondoskodnak.
 
-19. § (1) A tűzoltásvezető a tűzjelzést értékeli, és annak alapján meghatározza a riasztási fokozatot, a vonulási útvonalat és a vonulási sorrendet.
+19. § (1)[^1] A tűzoltásvezető a megállapított riasztási fokozat alapján meghatározza a vonulási útvonalat és a vonulási sorrendet.
 
 (2) A tűzoltásvezető a tűzoltás érdekében intézkedik a rendelkezésre álló erők és eszközök szakszerű alkalmazásáról, meghatározza a tűzoltásban résztvevők számára a személyi és csapat védőfelszerelések körét és használatát.
 
@@ -85,3 +85,5 @@ c) jelentést tesz a tűzeset helyszínére kiérkező – a 8. § a)–c) pontb
 d) azokban az esetekben, ha a keletkezett tűznek nemzetgazdasági szempontból nincs jelentősége vagy eloltása a megmentett értékkel nem jár, dönt – a gazdasági és környezetvédelmi szempontok figyelembevételével – a tűz oltásáról vagy a teljes elégés felügyeletéről úgy, hogy a tűzesettel összefüggésben járulékos kár ne keletkezzen,
 
 e) zárt térbe történő behatolás elrendelésével egy időben intézkedik a létszám és a felszerelések ellenőrzéséről és annak nyilvántartásáról.
+
+[^1]: A 19. § (1) bekezdése a 24/2012. (V. 8.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.

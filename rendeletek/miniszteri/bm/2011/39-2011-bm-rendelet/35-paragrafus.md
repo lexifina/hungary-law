@@ -2,4 +2,6 @@
 
 35. § (1) A tűzoltóság részére érkező tűzesetre, robbanásra vagy azok közvetlen veszélyére vonatkozó bármilyen formájú közlést (a továbbiakban: tűzjelzés) káreset-felvételi lapon írásban vagy elektronikusan rögzíteni kell.
 
-(2) A tűzjelzést – amennyiben az nem a működési terület szerinti tűzoltóságra érkezett – haladéktalanul a működési terület szerinti tűzoltóságra kell továbbítani.
+(2)[^4]
+
+[^4]: A 35. § (2) bekezdését a 24/2012. (V. 8.) BM rendelet 5. § a) pontja hatályon kívül helyezte.
