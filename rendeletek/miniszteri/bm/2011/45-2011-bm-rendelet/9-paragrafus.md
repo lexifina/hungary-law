@@ -12,10 +12,12 @@ c) a tűzvédelmi hatóság megállapította, hogy a tűzoltó-technikai termék
 
 (4) Ha az érvénytelen bizonyítvány visszavonásra kerül, akkor az ismételt szakvizsgára bocsáthatóság feltétele a felkészítő tanfolyam újbóli elvégzése.
 
-(5) Ha a bizonyítvány érvénytelenségét a tűzvédelmi hatóság az (1) bekezdés a) pontja alapján állapította meg, akkor az ismételt tanfolyam vagy továbbképzés elvégzésére kötelezett a szakvizsgára felkészítő képzést és a vizsgát díjmentesen végezheti el.
+(5)[^12] Ha a bizonyítvány érvénytelenségét a tűzvédelmi hatóság az (1) bekezdés a) pontja alapján állapította meg, akkor a felkészítő tanfolyam elvégzésére kötelezett a szakvizsgára felkészítő képzést és a vizsgát, annál az oktatásszervezőnél, amely az érvénytelen bizonyítványt kiállította díjmentesen végezheti el. Amennyiben a szakvizsgára felkészítő képzést és vizsgát más oktatásszervezőnél végzi, az érvénytelen bizonyítványt kiállító oktatásszervező köteles a képzés és vizsga költségeit megtéríteni.
 
 (6) A tűzvédelmi hatóság a tűzvédelmi szakvizsga bizonyítvány érvénytelenítése ügyében hozott döntését az ügyfélen kívül jogerőre emelkedés után megküldi
 
 a) a BM OKF, és
 
 b) az (1) bekezdés b)–c) pontjában foglalt esetekben az oktatásszervező részére.
+
+[^12]: A 9. § (5) bekezdése a 24/2012. (V. 8.) BM rendelet 11. §-ával megállapított szöveg.

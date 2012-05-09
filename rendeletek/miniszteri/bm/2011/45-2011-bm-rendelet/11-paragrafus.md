@@ -4,7 +4,7 @@
 
 (3) Az 1. melléklet 4., 12. vagy 13. foglalkozási ága, munkaköre, 2012. január 1. és 2012. május 1. között érvényes tűzvédelmi szakvizsga bizonyítvány nélkül végezhető.
 
-(4) A 2012. január 1. előtt érvényes foglalkozási ágak, munkakörök a következő megváltozott foglalkozási ágaknak, munkaköröknek felelnek meg:
+(4)[^13] A 2012. január 1. előtt érvényes tűzvédelmi szakvizsga bizonyítványok a következő megváltozott foglalkozási ágak, munkakörök szerinti tűzvédelmi szakvizsga bizonyítványoknak felelnek meg:
 
 a) a propán-bután gáz lefejtését, töltését, kiszolgálását végzők, továbbá azon propán-bután gáz üzemű targoncák kezelői, akik a targonca üzemanyag palackjának (tartályának) cseréjét is végzik foglalkozási ág az 1. melléklet 3. pont szerinti foglalkozási ágnak,
 
@@ -17,3 +17,5 @@ d) a beépített tűzoltó berendezések szerelését, telepítését, felülviz
 e) a beépített tűzjelző berendezéseket tervezők, valamint a kivitelezésért felelős, műszaki vezetők az 1. melléklet 10. pont szerinti foglalkozási ágnak,
 
 f) a beépített tűzoltó berendezéseket tervezők, valamint a kivitelezésért felelős, műszaki vezetők az 1. melléklet 11. pont szerinti foglalkozási ágnak.
+
+[^13]: A 11. § (4) bekezdése a 24/2012. (V. 8.) BM rendelet 12. §-ával megállapított szöveg.

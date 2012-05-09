@@ -20,6 +20,8 @@ b) az oktatásszervezővel a szakvizsgáztatással összefüggő tevékenységen
 
 c) az oktatásszervező hozzátartozója.
 
-(5) A szakvizsgabizottság tagja, elnöke nem működhet közre közeli hozzátartozójának, valamint az ugyanannál a munkáltatónál alkalmazásban álló szakvizsgázónak a szakvizsgáztatásában, valamint egyéb olyan esetekben, ahol az elfogulatlan szakvizsgáztatás tőle nem várható el.
+(5)[^3] A szakvizsgabizottság elnöke nem működhet közre közeli hozzátartozójának, valamint az ugyanannál a munkáltatónál alkalmazásban álló szakvizsgázónak a szakvizsgáztatásában, valamint egyéb olyan esetekben, ahol az elfogulatlan szakvizsgáztatás tőle nem várható el. A szakvizsgabizottság tagja nem lehet a szakvizsgabizottság elnökének közeli hozzátartozója, alkalmazottja vagy beosztottja.
 
 (6) A kizárási okot a szakvizsgabizottság tagjának, elnökének, vagy a szakvizsgázónak a szakvizsga előtti nyolc napig kell bejelentenie az oktatásszervezőnek. Az oktatásszervező módosított összetételű szakvizsgabizottság felkérésével köteles az összeférhetetlenségi okot megszüntetni.
+
+[^3]: A 3. § (5) bekezdése a 24/2012. (V. 8.) BM rendelet 9. § (3) bekezdésével megállapított szöveg.
