@@ -1,0 +1,1 @@
+## „(3) A (1) bekezdésben foglaltak 3 fős vizsgabizottság előtt – amelynek 2 tagját a BM OKF, elnökét a MÉK vagy az MMK delegálja – tett sikeres vizsgát követően kezdhetik meg a szakértői tevékenységet.”
