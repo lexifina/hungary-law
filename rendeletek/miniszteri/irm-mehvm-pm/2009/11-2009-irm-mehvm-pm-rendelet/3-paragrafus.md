@@ -6,7 +6,7 @@
 
 (3) A honlapon a (2) bekezdésben meghatározott iratok cégnév-, cégjegyzékszám-, vagy adószám megadásával, keresőprogram segítségével is megismerhetőek.
 
-(4)[^2] A céginformációs szolgálat a beküldött beszámoló informatikai ellenőrzését haladéktalanul elvégzi, és azt követően összeveti a beszámoló mellé csatolt elektronikus űrlapon megjelölt cégjegyzékszámot és adószámot a cégjegyzék adataival. Ha a beszámoló informatikailag helyesen került beküldésre, valamint az elektronikus űrlapon megadott cégjegyzékszám és adószám helyes, a céginformációs szolgálat a dokumentumokat befogadottnak tekinti, amely tényről elektronikus értesítést küld a beszámolót beküldő személy részére. Amennyiben a beküldött beszámoló informatikailag hibás, vagy az elektronikus űrlapon megadott cégjegyzékszám és adószám nem megfelelő, a céginformációs szolgálat erről haladéktalanul elektronikus értesítést küld a beszámolót beküldő személy részére. Ebben az esetben a beszámolót be nem nyújtottnak kell tekinteni.
+(4)[^2] A céginformációs szolgálat elektronikus, véletlenszerű kiválasztás segítségével eseti jelleggel megvizsgálja a beszámoló mellé csatolt elektronikus űrlap adattartalmát. Amennyiben az ellenőrzés eredményeként a céginformációs szolgálat azt állapítja meg, hogy a beszámoló benyújtása nem felelt meg a jogszabályi előírásoknak, a beszámolót haladéktalanul eltávolítja a honlapról és erről – az ok megjelölésével – haladéktalanul elektronikus értesítést küld a beszámolót beküldő személy és az állami adóhatóság részére.
 
 [^1]: A 3. § (1) bekezdése a 20/2010. (XII. 22.) KIM rendelet 5. § (4) bekezdése, a 38/2011. (XII. 29.) KIM rendelet 6. §-a szerint módosított szöveg.
-[^2]: A 3. § (4) bekezdése a 16/2012. (III. 6.) KIM rendelet 4. §-ával megállapított szöveg.
+[^2]: A 3. § (4) bekezdése a 25/2012. (V. 8.) KIM rendelet 1. §-ával megállapított szöveg.
