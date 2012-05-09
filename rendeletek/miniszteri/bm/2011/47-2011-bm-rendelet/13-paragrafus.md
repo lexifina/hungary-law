@@ -2,7 +2,7 @@
 
 (2) A tanfolyamon való részvételhez 5 évnél régebbi tervezői jogosultság igazolása szükséges.
 
-(3) Az (1) bekezdésben foglaltak 3 fős vizsgabizottság előtt – amelynek 2 tagját a BM OKF, elnökét a MÉK vagy az MMK delegálja – tett sikeres vizsgát követően kezdhetik meg a szakmagyakorlási tevékenységet.
+(3)[^3] A (1) bekezdésben foglaltak 3 fős vizsgabizottság előtt – amelynek 2 tagját a BM OKF, elnökét a MÉK vagy az MMK delegálja – tett sikeres vizsgát követően kezdhetik meg a szakértői tevékenységet.
 
 (4) A (1) bekezdésben foglaltak tűzvédelmi szakértői engedély iránti kérelemének tartalmaznia kell:
 
@@ -23,3 +23,5 @@ af) foglalkozását, munkakörét,
 b) a (2) bekezdésében előírt követelmény igazolását.
 
 (5) A kérelemhez csatolni kell továbbá a képesítést igazoló okirat hiteles másolatát (honosított okirat esetében a magyar nyelvű fordítás hiteles másolatát) és a tanfolyam, valamint a vizsga díjának befizetését igazoló bizonylatot.
+
+[^3]: A 13. § (3) bekezdése a 24/2012. (V. 8.) BM rendelet 11. § (1) bekezdésével megállapított szöveg.
