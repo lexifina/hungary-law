@@ -4,8 +4,11 @@ a) a tűzesettel összefüggésben bűncselekmény gyanúja merül fel,
 
 b) a tűzeset következtében haláleset történt,
 
-c) a tűzeset minősített riasztási fokozata III-as vagy annál magasabb volt,
+c)[^1] A tűzeset minősített fokozata III-as vagy magasabb volt.
 
 d) a hatóság vezetője szakmai szempontból indokoltnak tartja.
 
-(2) A minősített riasztási fokozat megállapításánál a káreset felszámolása során, a ténylegesen beavatkozó erő-eszköz alapján megállapítható legmagasabb riasztási fokozatot kell figyelembe venni.
+(2)[^2] A tűzeset minősített fokozatának megállapításakor a ténylegesen beavatkozó erőket kell figyelembe venni.
+
+[^1]: A 3. § (1) bekezdés c) pontja a 24/2012. (V. 8.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § (2) bekezdése a 24/2012. (V. 8.) BM rendelet 6. § (2) bekezdésével megállapított szöveg.

@@ -14,10 +14,15 @@ d) a tűz keletkezéséhez vezető folyamat leírását, a terjedéssel kapcsola
 
 e) a személyek, anyagi javak, és a természeti környezet veszélyeztetettségére vonatkozó megállapításokat,
 
-f) a létesítmény, épület, szabad terület tűzvédelmi helyzetének értékelését a 10. § (2) bekezdésében foglaltak alapján,
+f)[^4]
 
-g) a beavatkozás szakszerűségének elemezését,
+g)[^5]
 
-h) a legjobb nemzeti gyakorlat kialakítását célzó esetleges észrevételeket, valamint
+h)[^6]
 
-i) a további intézkedésre tett javaslatokat.
+i)[^7]
+
+[^4]: A 8. § (2) bekezdés f) pontját a 24/2012. (V. 8.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^5]: A 8. § (2) bekezdés g) pontját a 24/2012. (V. 8.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^6]: A 8. § (2) bekezdés h) pontját a 24/2012. (V. 8.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^7]: A 8. § (2) bekezdés i) pontját a 24/2012. (V. 8.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
