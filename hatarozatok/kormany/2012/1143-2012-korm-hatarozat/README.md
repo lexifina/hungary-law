@@ -1,0 +1,9 @@
+# 1143/2012. (V. 10.) Korm. határozat
+
+a TÁMOP 2.1.6-12/1-2012-0001 azonosító számú projekt (Újra tanulok) támogatásának jóváhagyásáról, valamint a Társadalmi Megújulás Operatív Program kiemelt projektjeinek akciótervi nevesítéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1143-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-05-10 | 2012-1143-30-22.1 | 1143/2012. (V. 10.) Korm. határozat |
