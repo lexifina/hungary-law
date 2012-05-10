@@ -5,19 +5,3 @@
 (3) A Módosítás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
 (4) E törvény végrehajtásához szükséges intézkedésekről a nemzetközi pénzügyi kapcsolatokért felelős miniszter gondoskodik.
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke,
-
-a köztársasági elnök feladat- és
-
-hatásköreit gyakorolva
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke,
-
-az Országgyűlés elnökének
-
-feladatait ellátva
