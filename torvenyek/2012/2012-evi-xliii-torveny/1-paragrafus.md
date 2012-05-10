@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Újjáépítési és Fejlesztési Bank létrehozásáról szóló Megállapodás (a továbbiakban: Megállapodás) módosítása (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
