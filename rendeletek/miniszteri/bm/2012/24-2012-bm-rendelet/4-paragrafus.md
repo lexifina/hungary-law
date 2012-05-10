@@ -1,1 +1,0 @@
-## „(5) A TMMT-k naprakészen tartásához szükséges adatok biztosítása a TMMT készítésére kötelezett létesítmény vezetőjének feladata. A TMMT-t érintő adatokban bekövetkezett változásokat a létesítmény vezetője a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló törvényben meghatározottak szerint köteles bejelenteni a hivatásos tűzoltóságnak.”
