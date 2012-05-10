@@ -1,0 +1,1 @@
+(Az 1989. évi 7. törvényerejű rendelettel kihirdetett Nemzetközi Beruházásbiztosítási Ügynökség létrehozásáról szóló Egyezmény 2010. július 30. napján kelt módosítása Magyarország vonatkozásában 2010. november 14-én nemzetközi jogilag hatályba lépett.)

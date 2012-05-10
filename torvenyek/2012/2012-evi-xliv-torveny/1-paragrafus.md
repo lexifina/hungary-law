@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Nemzetközi Beruházásbiztosítási Ügynökség létrehozásáról szóló Egyezményt módosító, az Ügynökség Kormányzótanácsa által meghozott, és a tagállamok által 2010. július 30-án elfogadott 86. számú határozatban foglaltakat (a továbbiakban: Egyezmény módosítása) e törvénnyel hirdeti ki.
