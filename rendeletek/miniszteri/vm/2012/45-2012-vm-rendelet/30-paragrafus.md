@@ -1,0 +1,13 @@
+30. § (1) A nem emberi fogyasztásra szánt állati melléktermékekre vonatkozó egészségügyi előírások megállapításáról szóló, 2002. október 3-i 1774/2002/EK európai parlamenti és tanácsi rendelet, valamint az állati hulladékok kezelésének és a hasznosításukkal készült termékek forgalomba hozatalának állategészségügyi szabályairól szóló 71/2003. (VI. 27.) FVM rendelet [a továbbiakban: 71/2003. (VI. 27.) FVM rendelet] alapján kiadott engedélyeket az 1069/2009/EK európai parlamenti és tanácsi rendelet, a 142/2011/EU bizottsági rendelet, illetve e rendelet előírásainak megfelelően kiadott engedélynek kell tekinteni, és csak az engedélyben foglalt határidőt követően kell e rendelet előírásai szerint azokat megújítani.
+
+(2) Az állati hulladékok kezelésére és a hasznosításukra készült termékek forgalomba hozatalának állategészségügyi szabályaira, valamint a fertőző szivacsos agyvelőbántalmak megelőzésére, az ellenük való védekezésre, illetve leküzdésükre vonatkozó jogszabályok szerinti távoli területek meghatározásáról szóló, 31103/2004. számú FVM Közleményben szereplő távoli területeket az 1069/2009/EK európai parlamenti és tanácsi rendeletnek megfelelő távoli területnek kell tekinteni mindaddig, amíg a távoli területre vonatkozóan új közlemény nem jelenik meg a Vidékfejlesztési Értesítőben.
+
+(3) A telephelyi gyűjtőhelyek kivételével a jelenlegi állati eredetű melléktermékek gyűjtésére használt és működési engedéllyel nem rendelkező létesítményeket a kerületi hivatal e rendelet hatálybalépését követő egy éven belül felülvizsgálja és határoz arról, hogy
+
+a) a létesítmény nyilvántartásba vett települési gyűjtőhelyként, a 13. §-ban meghatározott feltételek teljesítése mellett tovább üzemelhet, amennyiben a feltételeket a felülvizsgálat időpontjában teljesíti vagy azokat a felülvizsgálatot követő tizenkét hónapon belül teljesíteni fogja;
+
+b) a létesítmény működését megtiltja.
+
+(4) Az olyan üzemeltetőknek, amelyek nem rendelkeznek az 1069/2009/EK európai parlamenti és tanácsi rendelet szerinti és az e rendelet alapján az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kiadott nyilvántartási számmal, illetve engedéllyel, a rendelet hatálybalépését követő hatvan napon belül kérelmezniük kell a nyilvántartásba vételt, illetve az engedély kiadását a 18–20. §-ban foglaltaknak megfelelően.
+
+(5) A 71/2003. (VI. 27.) FVM rendelet szerinti állati hulladéktemetőket csak az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság engedélyével lehet megbontani. A megszűnt állati hulladéktemető területén a megszűnéstől számított 30 évig mezőgazdasági művelést nem szabad folytatni, a földrészletet az ingatlan-nyilvántartásban művelés alól kivett területként kell nyilvántartani.
