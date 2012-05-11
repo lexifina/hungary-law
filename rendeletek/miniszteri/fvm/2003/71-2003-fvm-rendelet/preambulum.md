@@ -1,1 +1,0 @@
-Az állategészségügyről szóló 1995. évi XCI. törvény (a továbbiakban: Áet.) 45. § (1) bekezdés b) pontjában kapott felhatalmazás alapján a környezetvédelmi és vízügyi miniszterrel és az egészségügyi, szociális és családügyi miniszterrel egyetértésben az alábbiakat rendelem el:
