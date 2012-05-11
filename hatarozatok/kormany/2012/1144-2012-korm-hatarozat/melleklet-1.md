@@ -22,6 +22,8 @@
 
 ## 2. megállapítja – az 1. pont alapján megnövelt hazai társfinanszírozási keretekre figyelemmel – a regionális operatív programok 2011–2013. évekre szóló akcióterveit a 1–8. melléklet szerint;
 
-## 3. visszavonja a regionális operatív programok 2011–2013. évekre szóló akcióterveinek jóváhagyásáról szóló 1012/2011. (I. 19.) Korm. határozatot.
+## 3.[^2]
 
 1. melléklet az 1144/2012. (V. 10.) Korm. határozathoz
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
