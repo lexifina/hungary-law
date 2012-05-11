@@ -1,7 +1,7 @@
-51. § (1)[^69] A vadászati engedély után fizetendő igazgatási-szolgáltatási díj minden megkezdett harminc napra tízezer, egy évre százezer forint, amit – a költségvetési törvényben foglaltak szerint – a 10032000-01031654-00000000 számú ,,Vadgazdálkodási bevételek'' központi kincstári számla javára, a vadászati hatóság által meghatározott módon készpénzben, készpénz-átutalási megbízáson vagy átutalással kell teljesíteni. A kérelem benyújtásával egy időben igazolni kell az igazgatási-szolgáltatási díj megfizetését.
+51. § (1)[^71] A vadászati engedély után fizetendő igazgatási-szolgáltatási díj minden megkezdett harminc napra tízezer, egy évre százezer forint, amit – a költségvetési törvényben foglaltak szerint – a 10032000-01031654-00000000 számú ,,Vadgazdálkodási bevételek'' központi kincstári számla javára, a vadászati hatóság által meghatározott módon készpénzben, készpénz-átutalási megbízáson vagy átutalással kell teljesíteni. A kérelem benyújtásával egy időben igazolni kell az igazgatási-szolgáltatási díj megfizetését.
 
 (2) A fel nem használt vadászati engedély nem váltható vissza.
 
 (3) A vadászati engedély elvesztése, megsemmisülése esetén a pótlásként kiadott engedély után a teljes igazgatási-szolgáltatási díjat meg kell fizetni.
 
-[^69]: A Vhr. 51. § (1) bekezdése a 7/2010. (II. 2.) FVM rendelet 48. § (5) bekezdése szerint módosított szöveg.
+[^71]: A Vhr. 51. § (1) bekezdése a 7/2010. (II. 2.) FVM rendelet 48. § (5) bekezdése szerint módosított szöveg.

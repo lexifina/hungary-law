@@ -1,4 +1,4 @@
-## I.[^154]
+## I.[^156]
 
 ## I.
 
@@ -72,7 +72,7 @@
 
 | vadászati hatóság |
 
-19. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^155]
+19. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^157]
 
-[^154]: A Vhr. 18. számú mellékletének I. része a 7/2010. (II. 2.) FVM rendelet 46. § (6) bekezdésével megállapított szöveg.
-[^155]: A Vhr. 19. számú melléklete az 56/2005. (VI. 25.) FVM rendelet 29. § (1) bekezdése, a 7/2010. (II. 2.) FVM rendelet 46. § (7) bekezdése szerint módosított szöveg.
+[^156]: A Vhr. 18. számú mellékletének I. része a 7/2010. (II. 2.) FVM rendelet 46. § (6) bekezdésével megállapított szöveg.
+[^157]: A Vhr. 19. számú melléklete az 56/2005. (VI. 25.) FVM rendelet 29. § (1) bekezdése, a 7/2010. (II. 2.) FVM rendelet 46. § (7) bekezdése szerint módosított szöveg.

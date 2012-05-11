@@ -1,4 +1,4 @@
-90. §[^134] (1) Az illetékekről szóló törvény
+90. §[^136] (1) Az illetékekről szóló törvény
 
 a) 5. §-ában foglaltakat a díjmentesség megállapítása tekintetében,
 
@@ -12,4 +12,4 @@ alkalmazni kell azzal, hogy állami adóhatóság helyett Mezőgazdasági Szakig
 
 (2) A díjfizetés ellenőrzése során az adózás rendjéről szóló törvény 111. §-a és 112. § (2) bekezdése szerint kell eljárni.
 
-[^134]: A Vhr. 90. §-a a 7/2010. (II. 2.) FVM rendelet 44. §-ával megállapított szöveg.
+[^136]: A Vhr. 90. §-a a 7/2010. (II. 2.) FVM rendelet 44. §-ával megállapított szöveg.

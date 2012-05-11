@@ -8,6 +8,6 @@
 
 | Öreg | 11 évtől | 10 évtől | 6 évtől | 7 évtől |
 
-17. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^153]
+17. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^155]
 
-[^153]: A Vhr. 17. számú melléklete a 7/2010. (II. 2.) FVM rendelet 46. § (5) bekezdésével megállapított szöveg.
+[^155]: A Vhr. 17. számú melléklete a 7/2010. (II. 2.) FVM rendelet 46. § (5) bekezdésével megállapított szöveg.
