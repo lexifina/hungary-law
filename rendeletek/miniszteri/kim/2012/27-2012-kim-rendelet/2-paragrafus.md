@@ -1,0 +1,5 @@
+## 1. § Az Erzsébet-utalvány kibocsátásáról szóló 39/2011. (XII. 29.) KIM rendelet 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az utalvány formájában nyújtott juttatás során a juttató a kibocsátótóval – vagy a 6. § szerinti közreműködővel – szolgáltatási szerződést köt, amelyben a kibocsátó (közreműködő) vállalja az utalvány biztosításához és felhasználásához szükséges szolgáltatások nyújtását. A szolgáltatás kiterjed az utalvány kibocsátására, az utalványok fedezetéül szolgáló juttatási összeg kezelésére és az elfogadóhelyekkel történő elszámolás elvégzésére, amelynek ellenértékeként szolgáltatási díj köthető ki. A juttató által fizetendő szolgáltatási díj mellett a kibocsátó (közreműködő) az elfogadóhelyekkel kötött szerződésekben beváltási jutalék fizetését is kikötheti. Elektronikus utalvány kibocsátása esetén a juttató az elektronikus utalványt a kibocsátótól megrendelt elektronikus utalványkártyán keresztül biztosítja az utalványos számára.”
+
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
