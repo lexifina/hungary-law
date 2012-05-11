@@ -12,4 +12,8 @@ d) az Indiából származó vagy ott feladott guargumi behozatalára pentaklórf
 
 e) a földimogyoró és a belőle készített termékek aflatoxintartalmának kimutatására az Amerikai Egyesült Államok által végzett, kivitel előtti ellenőrzések jóváhagyásáról szóló, 2007. december 20-i 2008/47/EK bizottsági határozat,
 
-f) az Egyiptomból importált görögszéna-magvakra, valamint egyes magvakra és babfélékre vonatkozó szükségintézkedésekről szóló, 2011. július 6-i 2011/402/EU bizottsági határozat.
+f) az Egyiptomból importált görögszéna-magvakra, valamint egyes magvakra és babfélékre vonatkozó szükségintézkedésekről szóló, 2011. július 6-i 2011/402/EU bizottsági határozat,
+
+g)[^2] a Kínából származó rizstermékekben előforduló, nem engedélyezett, géntechnológiával módosított rizsre vonatkozó szükségintézkedésekről és a 2008/289/EK határozat hatályon kívül helyezéséről szóló, 2011. december 22-i 2011/884/EU bizottsági határozat.
+
+[^2]: A 6. § g) pontját a 45/2012. (V. 8.) VM rendelet 33. § (2) bekezdése iktatta be.
