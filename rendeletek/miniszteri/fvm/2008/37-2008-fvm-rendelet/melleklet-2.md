@@ -54,6 +54,8 @@
 
 | Szlovénia Slovenija | Diploma, s katero se podeljuje strokovni naslov „doktor veterinarske medicine/doktorica veterinarske medicine” | Univerza | Spričevalo o opravljenem državnem izpitu s področja veterinarstva | 2004. május 1. |
 
+| Svájc | Eidgenössisches Tierarztdiplom Diplome fédéral de vétérinaire Diploma federale di veterinario | Eidgenössisches Departement des Innern Département fédéral de l’intérieur Dipartimento federale dell’interno |  | 2002. június 1. |
+
 2. számú melléklet a 37/2008. (III. 27.) FVM rendelethez
 
 Az elismerési hatóság által
