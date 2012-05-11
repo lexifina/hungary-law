@@ -2,13 +2,9 @@
 
 (2) Az 5. § (2) bekezdés szerinti, a 2012. január 1-jétől 2012. június 30-áig terjedő tárgyidőszakra vonatkozó adatszolgáltatásokat a jegybanki információs rendszerhez szolgáltatandó információk és az információt szolgáltatók köréről, a szolgáltatás módjáról és határidejéről szóló 19/2010. (XII. 10.) MNB rendelet 1. melléklet I. pontjában foglalt táblázat 79–81. sorában meghatározott P38, P39 és P40 azonosító kódú adatszolgáltatások tábláinak és kitöltési előírásainak alkalmazásával kell teljesíteni.
 
-(3)[^1] Az 1. melléklet I. pontjában foglalt táblázatnak a – jegybanki információs rendszerhez szolgáltatandó információk és az információt szolgáltatók köréről, a szolgáltatás módjáról és határidejéről szóló 14/2011. (X. 13.) MNB rendelet módosításáról szóló 5/2012. (III. 30.) MNB rendelet 1. melléklet 4. pontjával megállapított – 60a. sorában meghatározott AL5 azonosító kódú adatszolgáltatást első alkalommal 2012. március 31-re mint a 2012. március havi tárgyidőszak utolsó napjára vonatkozóan kell teljesíteni. Az adatszolgáltatás teljesítési határideje:
-
-a) a kizárólag az AL5 azonosító kódú adatszolgáltatás 01. táblája kitöltésére kötelezett adatszolgáltatóknak 2012. május 8.,
-
-b) az AL5 azonosító kódú adatszolgáltatás 02. táblája kitöltésére is kötelezett adatszolgáltatóknak 2012. május 10.
+(3)[^1]
 
 (4)[^2]
 
-[^1]: A 6. § (3) bekezdését újonnan az 5/2012. (III. 30.) MNB rendelet 1. §-a iktatta be.
+[^1]: A 6. § (3) bekezdését újonnan az 5/2012. (III. 30.) MNB rendelet 1. §-a iktatta be, hatályon kívül helyezte a 7. § (1) bekezdése.
 [^2]: A 6. § (4) bekezdését a 3/2012. (I. 12.) MNB rendelet 1. §-a iktatta be, hatályon kívül helyezte a 7. § (1b) bekezdése.
