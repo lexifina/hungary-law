@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-49-20-0
 | 2010-01-01 | 2004-49-20-0A.4 | 49/2004. (VIII. 31.) BM rendelet |
 | 2011-01-01 | 2004-49-20-0A.5 | 13/2010. (XII. 28.) BM rendelet |
 | 2012-01-01 | 2004-49-20-0A.6 | 68/2011. (XII. 30.) BM rendelet |
+| 2012-05-12 | 2004-49-20-0A.7 | 25/2012. (V. 11.) BM rendelet |

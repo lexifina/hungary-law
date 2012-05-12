@@ -1,13 +1,25 @@
-11. § (1) A vizsgán a lőfegyver szerkezetére, működésére, kezelésére, megszerzésére, tartására, átadására, használatára, viselésére vonatkozó, a 4. számú mellékletben foglalt ismeretekről elméleti vizsga keretében kell számot adni, és lőtéren eredményes lőgyakorlatot kell végrehajtani.
+11. §[^23] (1) A fegyvertartáshoz, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsga elméleti és gyakorlati részvizsgából áll. Az elméleti részvizsga írásbeli tesztből és szóbeli vizsgarészből tevődik össze. Gyakorlati részvizsgára csak olyan vizsgázó bocsátható, aki eredményes elméleti részvizsgát tett.
 
-(2) Az elméleti ismereteket igazoltnak kell tekinteni, ha
+(2) A fegyvertartáshoz, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsga akkor tekinthető sikeresnek, hogy ha a vizsgázó valamennyi részvizsga minden vizsgarészét eredményesen teljesítette.
 
-a) a kérelmező igazságügyi fegyverszakértő,
+(3) Sikertelen vizsga esetén a vizsgázó számára – a vizsgadíj ismételt befizetése esetén – a sikertelen vizsga napjától számított 1 éven belül biztosítani kell a vizsga megismétlésének lehetőségét. A vizsga megismétlésére a sikertelen vizsga napján nem kerülhet sor. Az eredményes részvizsgákat, illetve vizsgarészeket nem kell megismételni.
 
-b) a kérelmezőnek puskaművesi vagy fegyvermesteri, fegyverműszerész szakvizsgája van,
+(4) A vizsgákról hitelesített nyilvántartókönyvet kell vezetni, amelyben fel kell tüntetni
 
-c) a vadászlőfegyver megszerzését és tartását kérelmező vadászat és vadgazdálkodásból legalább középfokú végzettséggel rendelkezik,
+a) a vizsgázó természetes személyazonosító adatait,
 
-d)[^21] a kérelmező érvényes és hatályos mezőőri szolgálati igazolvánnyal rendelkezik.
+b) a vizsga időpontját,
 
-[^21]: A 11. § (2) bekezdés d) pontja a 71/2009. (XII. 22.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+c) a vizsga típusát (huzagolatlan vagy huzagolt csövű hosszú lőfegyver, rövid lőfegyver, vagy házilagos lőszerszerelés és -újratöltés),
+
+d) a vizsga eredményét,
+
+e) a vizsgabizonyítvány sorszámát, valamint
+
+f) a vizsgázónak a vizsgabizonyítvány átvételét igazoló aláírását és a vizsgabizottság elnökének aláírását.
+
+(5) A fegyvertartáshoz előírt vizsga elméleti részvizsgájának kérdéseit az 1. számú melléklet határozza meg.
+
+(6) A házilagos lőszerszereléshez és -újratöltéshez előírt vizsga elméleti részvizsgájának kérdéseit a 2. számú melléklet határozza meg.
+
+[^23]: A 11. § a 25/2012. (V. 11.) BM rendelet 3. §-ával megállapított szöveg.
