@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-36-20-0
 | 2010-05-21 | 2007-36-20-0L.5 | 38/2010. (V. 6.) KHEM rendelet |
 | 2011-01-01 | 2007-36-20-0L.6 | 33/2010. (XII. 28.) NFM rendelet |
 | 2012-01-01 | 2007-36-20-0L.7 | 95/2011. (XII. 30.) NFM rendelet |
+| 2012-05-12 | 2007-36-20-0L.8 | 95/2011. (XII. 30.) NFM rendelet |
