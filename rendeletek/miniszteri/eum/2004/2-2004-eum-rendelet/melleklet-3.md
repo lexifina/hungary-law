@@ -2,41 +2,43 @@
 
 A fekvőbeteg-szakellátásban finanszírozott szakmákhoz tartozó progresszivitási szintek
 
-| Szakma megnevezése | Szakma -kód | Progresszivitási szint |
+| Szakma megnevezése | Szakma- kód | Progresszivitási szint |
 
 |  |  | I. | II. | III. |
+
+|  |  |  | II.a | II.b | III.a | III.b |
 
 | ANESZTEZIOLÓGIAI ÉS INTENZÍV TERÁPIA |
 
 | Intenzív terápia | 1502 |  | X | X |
 
-| ARC-ÁLLCSONT-SZÁJSEBÉSZET |  |  |  |  |
+| ARC-ÁLLCSONT-SZÁJSEBÉSZET |
 
 | Arc-állcsont-szájsebészet | 1700 |  | X | X |
 
-| BELGYÓGYÁSZAT |  |  |  |  |
+| BELGYÓGYÁSZAT |
 
 | Belgyógyászat | 0100 | X |  |  |
 
 | Angiológia, phlebológia, lymphológia | 0101 |  | X | X |
 
-| Haematológia | 0102 |  | X | X |
+| Haematológia | 0102 |  | X | X | X |
 
 | Hemopoetikus őssejt transzplantáció | 0112 |  |  | X |
 
-| Endokrinológia és anyagcsere és diabetológia | 0103 |  | X | X |
+| Endokrinológia, anyagcsere, diabetológia | 0103 |  | X | X |
 
-| Gasztroenterológia | 0104 |  | X | X |
+| Gasztroenterológia | 0104 |  | X | X | X |
 
 | Nephrológia | 0105 |  | X | X |
 
-| Geriátria | 0106 |  |  | X |
+| Geriátria | 0106 |  | X | X |
 
 | Allergológia és klinikai immunológia | 0109 |  | X | X |
 
 | BŐRGYÓGYÁSZAT |
 
-| Bőrgyógyászat | 0801 |  | X | X |
+| Bőr- és nemibeteg ellátás | 0800 |  | X | X |
 
 | CSECSEMŐ- ÉS GYERMEKGYÓGYÁSZAT |
 
@@ -46,23 +48,27 @@ A fekvőbeteg-szakellátásban finanszírozott szakmákhoz tartozó progresszivi
 
 | PIC | 0502 |  | X | X |
 
-| Csecsemő- és gyermekkardiológia | 0503 |  |  | X |
+| Csecsemő- és gyermekkardiológia | 0503 |  | X | X |
 
 | Gyermek-tüdőgyógyászat | 0504 |  | X | X |
 
 | Gyermek-gasztroenterológia | 0505 |  | X | X |
 
-| Gyermeksebészet ideértve gyermekurológia | 0506 | X | X | X |
+| Gyermeksebészet ideértve gyermekurológia | 0506 |  | X | X |
+
+|  |  |  |  | X |
 
 | Gyermeknőgyógyászat | 0507 |  |  | X |
 
 | Gyermekszemészet | 0508 |  |  | X |
 
-| Csecsemő- és gyermek fül-orr-gégegyógyászat | 0509 |  |  | X |
+| Csecsemő- és gyermek fül-orr-gégegyógyászat | 0509 |  | X | X |
 
-| Gyermekneurológia ideértve: fejlődés neurológia | 0511 0521 |  |  | X |
+| Gyermekneurológia | 0511 |  | X | X |
 
-| Csecsemő- és gyermekgyógyászati intenzív terápia | 0515 |  |  | X |
+| Fejlődés neurológia | 0521 |  |  | X |
+
+| Csecsemő- és gyermekgyógyászati intenzív terápia | 0515 |  | X | X |
 
 | FOGORVOSI ELLÁTÁS |
 
@@ -94,15 +100,13 @@ A fekvőbeteg-szakellátásban finanszírozott szakmákhoz tartozó progresszivi
 
 | KARDIOLÓGIA |
 
-| Kardiológia | 4000 |  | X | X |
-
-| Invazív kardiológia (hemodinamika) | 4001 |  |  | X |
+| Kardiológia | 4000 |  | X | X | X |
 
 | KLINIKAI ONKOLÓGIA |
 
-| Klinikai onkológia | 1200 |  | X | X |
+| Klinikai onkológia | 1200 |  | X | X | X |
 
-| Sugárterápia | 1201 |  | X | X |
+| Sugárterápia | 1201 |  | X | X | X |
 
 | NEM ORVOSI DIPLOMÁHOZ KÖTÖTT EGYÉB EGÉSZSÉGÜGYI TEVÉKENYSÉG |
 
@@ -116,7 +120,7 @@ A fekvőbeteg-szakellátásban finanszírozott szakmákhoz tartozó progresszivi
 
 | Neurológia | 0900 | X | X | X |
 
-| Stroke ellátás | 0901 |  | X | X |
+| Stroke ellátás | 0901 |  | X |  |
 
 | ORTOPÉDIA-TRAUMATOLÓGIA |
 
@@ -124,7 +128,7 @@ A fekvőbeteg-szakellátásban finanszírozott szakmákhoz tartozó progresszivi
 
 | Gerincsebészet | 1001 |  |  | X |
 
-| Traumatológia | 1002 | X | X | X |
+| Traumatológia | 1002 | X | X | X | X |
 
 | Kézsebészet | 1003 |  |  | X |
 
@@ -162,13 +166,13 @@ A fekvőbeteg-szakellátásban finanszírozott szakmákhoz tartozó progresszivi
 
 | Gyermek- és ifjúságaddiktológiai rehabilitáció | 2303 |  |  | X |
 
-| PLASZTIKAI ÉS ÉGÉS SEBÉSZET |
+| PLASZTIKAI ÉS ÉGÉSSEBÉSZET |
 
 | Plasztikai helyreállító és esztétikai sebészet | 2000 |  | X | X |
 
 | Égéssebészet | 2001 |  | X | X |
 
-| Gyermek plasztikai és égéssebészet | 2002 |  | X | X |
+| Gyermek plasztikai és égéssebészet | 2002 |  |  | X |
 
 | PSZICHIÁTRIA |
 
@@ -182,7 +186,7 @@ A fekvőbeteg-szakellátásban finanszírozott szakmákhoz tartozó progresszivi
 
 | SEBÉSZET |
 
-| Sebészet | 0200 | X | X | X |
+| Sebészet | 0200 | X | X | X | X |
 
 | Tüdő- és mellkassebészet | 0202 |  | X | X |
 
@@ -196,7 +200,7 @@ A fekvőbeteg-szakellátásban finanszírozott szakmákhoz tartozó progresszivi
 
 | Csecsemő és gyermek szívsebészet | 0215 |  |  | X |
 
-| Szervtranszplantációs sebészet | 0208 |  |  |  |
+| Szervtranszplantációs sebészet | 0208 |  |  | X |
 
 | SÜRGŐSSÉGI BETEGELLÁTÁS, OXYOLÓGIA |
 
@@ -236,4 +240,4 @@ A fekvőbeteg-szakellátásban finanszírozott szakmákhoz tartozó progresszivi
 
 | Krónikus tüdőgyógyászat |  | X |  |  |
 
-[^25]: A 3. számú mellékletet a 6/2012. (II. 14.) NEFMI rendelet 8. § (3) bekezdése iktatta be.
+[^25]: A 3. számú mellékletet a 6/2012. (II. 14.) NEFMI rendelet 8. § (3) bekezdése iktatta be, szövege a 33/2012. (V. 11.) NEFMI rendelet 2. §-ával megállapított szöveg.

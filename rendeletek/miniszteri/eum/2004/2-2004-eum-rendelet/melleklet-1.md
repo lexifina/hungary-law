@@ -1,4 +1,4 @@
-## 11. §[^19] Az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló 2/2004. (XI. 17.) EüM rendelet módosításáról szóló 6/2012. (II. 14.) NEFMI rendelettel megállapított 3. számú mellékletben foglaltakat a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 7. § (2) bekezdése szerinti eljárás során figyelembe kell venni.
+## 11. §[^19] Az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló 2/2004. (XI. 17.) EüM rendelet módosításáról szóló 33/2012. (V. 11.) NEFMI rendelettel megállapított 3. számú mellékletben foglaltakat a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 7. § (2) bekezdése szerinti eljárás során figyelembe kell venni.
 
 1. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez
 
@@ -54,7 +54,7 @@
 
 81. egyéni (nem piaci) gazdasági tevékenység
 
-[^19]: A 11. §-t a 6/2012. (II. 14.) NEFMI rendelet 7. §-a iktatta be.
+[^19]: A 11. §-t a 6/2012. (II. 14.) NEFMI rendelet 7. §-a iktatta be, szövege a 33/2012. (V. 11.) NEFMI rendelet 1. §-ával megállapított szöveg.
 [^20]: Az 1. számú melléklet címe a 6/2012. (II. 14.) NEFMI rendelet 8. § (1) bekezdése szerint módosított szöveg.
 [^21]: Az 1. számú melléklet 3. pontja a 6/2012. (II. 14.) NEFMI rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^22]: Az 1. számú melléklet 5. pont 57. alpontja a 6/2012. (II. 14.) NEFMI rendelet 8. § (1) bekezdésével megállapított szöveg.
