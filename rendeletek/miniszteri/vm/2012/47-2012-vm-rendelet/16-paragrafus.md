@@ -1,0 +1,1 @@
+## 15. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból a mikrovállalkozások létrehozására és fejlesztésére 2011-től nyújtandó támogatások részletes feltételeiről szóló 33/2011. (IV. 28.) VM rendelet 9. § (1) bekezdése.
