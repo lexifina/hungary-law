@@ -38,10 +38,6 @@
 
 | ................................................................ cégszerű aláírás |
 
-6. melléklet a 45/2012. (V. 8.) VM rendelethez
+6. melléklet a 45/2012. (V. 8.) VM rendelethez[^4]
 
-Az európai közösségi jog hatálya alá tartozó állatorvosi oklevelek elismeréséről szóló 37/2008. (III. 27.) FVM rendelet 1. számú melléklete a következő sorral egészül ki:
-
-| [Ország | Előírt képesítés megszerzését tanúsító okirat | Kibocsátó szerv | A képesítés megszerzését tanúsító okiratot kísérő igazolás | Hivatkozás dátuma] |
-
-| „Svájc | Eidgenössisches Tierarztdiplom Diplome fédéral de vétérinaire Diploma federale di veterinario | Eidgenössisches Departement des Innern Département fédéral de l’intérieur Dipartimento federale dell’interno |  | 2002. június 1.” |
+[^4]: A 6. mellékletet a 36. § (2) bekezdése hatályon kívül helyezte.
