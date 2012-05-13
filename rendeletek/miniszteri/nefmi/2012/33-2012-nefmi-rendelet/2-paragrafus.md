@@ -1,3 +1,0 @@
-## 1. § Az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló 2/2004. (XI. 17.) EüM rendelet (a továbbiakban: R.) 11. §-a helyébe a következő rendelkezés lép:
-
-## „11. § Az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló 2/2004. (XI. 17.) EüM rendelet módosításáról szóló 33/2012. (V. 11.) NEFMI rendelettel megállapított 3. számú mellékletben foglaltakat a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 7. § (2) bekezdése szerinti eljárás során figyelembe kell venni.”
