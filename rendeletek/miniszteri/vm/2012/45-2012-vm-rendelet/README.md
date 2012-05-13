@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-45-20-2
 | --- | --- | --- |
 | 2012-05-11 | 2012-45-20-2Y.1 | 45/2012. (V. 8.) VM rendelet |
 | 2012-05-12 | 2012-45-20-2Y.2 | 2010: CXXX. törvény |
+| 2012-05-13 | 2012-45-20-2Y.3 | 2010: CXXX. törvény |
