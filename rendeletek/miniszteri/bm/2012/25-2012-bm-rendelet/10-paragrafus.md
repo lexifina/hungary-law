@@ -1,4 +1,4 @@
-## 7–9. §[^1]
+## 7–9. §[^2]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 7–9. §, valamint a 3. melléklet az e rendelet kihirdetését követő harmincegyedik napon lép hatályba.
 
-[^1]: A 7–9. § a 10. § (2) bekezdése alapján 2012. június 11-én lép hatályba.
+[^2]: A 7–9. § a 10. § (2) bekezdése alapján 2012. június 11-én lép hatályba.

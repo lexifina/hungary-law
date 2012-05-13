@@ -1,3 +1,0 @@
-## 4. § A lőterekről, a lőfegyverek, lőszerek hatósági tárolásáról, a fegyvertartáshoz szükséges elméleti és jártassági követelményekről szóló 49/2004. (VIII. 31.) BM rendelet 13. §-a helyébe a következő rendelkezés lép:
-
-## „13. § A lőfegyvertartási engedéllyel rendelkező személy halála vagy a szervezet megszűnése esetén a lőfegyvert, lőszert (töltényt) az azokat birtokoló személy köteles a Rendőrséghez haladéktalanul bejelenteni, és az őrzésről a Rendőrség kiérkezéséig gondoskodni. A bejelentett lőfegyver, lőszer (töltény) átvételére és tárolására jegyzőkönyv kiállításával a Rendőrség intézkedik.”
