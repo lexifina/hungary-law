@@ -3409,3 +3409,7 @@ III. Pénzügyi szempontok
 ** ELÁBÉ: eladott áruk beszerzési értéke.
 
 *** Induló vállalkozás: az a vállalkozás, amelynek a támogatási kérelem benyújtását megelőzően nincs 2 teljes lezárt gazdasági éve.
+
+24. Felső-Bácska Vidékfejlesztési Nonprofit Kft.
+
+Értékelő táblázat
