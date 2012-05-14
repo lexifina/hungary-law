@@ -4,7 +4,7 @@
 
 ## ÖSSZEHANGOLÁSÁVAL KAPCSOLATOS FELADAT- ÉS HATÁSKÖRE
 
-2. § (1)[^5] A közigazgatási és igazságügyi miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
+2. § (1)[^7] A közigazgatási és igazságügyi miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
 
 a) kormányzati tevékenység összehangolásáért,
 
@@ -66,7 +66,7 @@ j) megtervezi és működteti a kormányzati döntés-előkészítést támogat�
 
 (6) A miniszter a kormányzati tevékenység összehangolásáért való felelőssége körében szervezi, összehangolja és ellenőrzi a Kormány döntéseinek végrehajtását, ennek keretében tájékoztatást, illetve előterjesztés benyújtását kérheti a feladatkörrel rendelkező minisztertől, ütemtervet állíthat össze, egyeztetést tart, a több tárca együttműködését igénylő ügyekben javaslatot tesz ennek módjára. Ellenőrzi a határidős, valamint a folyamatos feladatok végrehajtását, közreműködik a döntések megvalósulásának értékelésében, a végrehajtás alakulásáról az érintett szerveknél közvetlenül is tájékozódhat.
 
-(7)[^6] A miniszter a kormányzati tevékenység összehangolásáért való felelőssége körében
+(7)[^8] A miniszter a kormányzati tevékenység összehangolásáért való felelőssége körében
 
 a) a miniszterek feladat- és hatásköréről, valamint a központi hivatalokról szóló jogszabályok tervezetei,
 
@@ -74,7 +74,7 @@ b) a minisztériumok és a kormányhivatalok szervezeti és működési szabály
 
 tekintetében egységes szempontrendszert dolgoz ki és érvényesít, valamint jóváhagyja a minisztériumok és a kormányhivatalok szervezeti és működési szabályzatait.
 
-(8)[^7] A miniszter a kormányzati tevékenység összehangolásáért való felelőssége körében a végrehajtás ellenőrzésével összefüggésben megteszi a szükséges intézkedéseket
+(8)[^9] A miniszter a kormányzati tevékenység összehangolásáért való felelőssége körében a végrehajtás ellenőrzésével összefüggésben megteszi a szükséges intézkedéseket
 
 a) a Kormány munkatervének végrehajtásához,
 
@@ -88,12 +88,12 @@ a) biztosítja a kormányzati iratkezelés személyi, tárgyi és informatikai f
 
 b) szervezi a kormányügyeletet, biztosítja a Közigazgatási és Igazságügyi Minisztérium ügyeletének munkaidőn túl történő működését.
 
-(10)[^8] A miniszter a kormányzati tevékenység összehangolásáért való felelőssége körében működteti a társadalmi párbeszéd makroszintű fórumát és gondoskodik a Nemzeti Gazdasági és Társadalmi Tanáccsal összefüggő, törvényben meghatározott feladatok ellátásáról.
+(10)[^10] A miniszter a kormányzati tevékenység összehangolásáért való felelőssége körében működteti a társadalmi párbeszéd makroszintű fórumát és gondoskodik a Nemzeti Gazdasági és Társadalmi Tanáccsal összefüggő, törvényben meghatározott feladatok ellátásáról.
 
-(11)[^9] A miniszter a kormányzati tevékenység összehangolásáért való felelőssége körében a Magyar Közlöny Lap- és Könyvkiadó Kft. útján gondoskodik a jogalkotásról szóló törvény szerinti elektronikus jogszabálygyűjtemény közzétételéről.
+(11)[^11] A miniszter a kormányzati tevékenység összehangolásáért való felelőssége körében a Magyar Közlöny Lap- és Könyvkiadó Kft. útján gondoskodik a jogalkotásról szóló törvény szerinti elektronikus jogszabálygyűjtemény közzétételéről.
 
-[^5]: A 2. § (1) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 2. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^6]: A 2. § (7) bekezdés záró szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^7]: A 2. § (8) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^8]: A 2. § (10) bekezdését a 200/2011. (X. 7.) Korm. rendelet 1. §-a iktatta be.
-[^9]: A 2. § (11) bekezdését a 338/2011. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
+[^7]: A 2. § (1) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 2. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^8]: A 2. § (7) bekezdés záró szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^9]: A 2. § (8) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^10]: A 2. § (10) bekezdését a 200/2011. (X. 7.) Korm. rendelet 1. §-a iktatta be.
+[^11]: A 2. § (11) bekezdését a 338/2011. (XII. 29.) Korm. rendelet 11. §-a iktatta be.

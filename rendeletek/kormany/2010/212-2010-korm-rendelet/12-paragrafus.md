@@ -2,7 +2,7 @@
 
 ## A KÖZIGAZGATÁSI ÉS IGAZSÁGÜGYI MINISZTER SZAKPOLITIKAI FELADAT- ÉS HATÁSKÖRE
 
-## 12. §[^39] A közigazgatási és igazságügyi miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
+## 12. §[^41] A közigazgatási és igazságügyi miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
 
 a) igazságügyért,
 
@@ -18,9 +18,7 @@ f) választójogi és népszavazási szabályozásért,
 
 g) választások és népszavazások lebonyolításáért,
 
-h) egyenlő bánásmód biztosításáért és társadalmi felzárkózásért,
-
-i) társadalmi és civil kapcsolatok fejlesztéséért,
+h)–i)[^42]
 
 j) társadalompolitika összehangolásáért,
 
@@ -36,12 +34,13 @@ o) kárpótlásért,
 
 p) személyiadat- és lakcímnyilvántartásért,
 
-q) egyházakkal való kapcsolattartás koordinációjáért,
+q)[^43]
 
 r) kormányzati társadalmi kapcsolatok összehangolásáért,
 
-s) kisebbségpolitikáért és
+s)–t)[^44]
 
-t) romák társadalmi integrációjáért
-
-[^39]: A 12. § a 267/2010. (XII. 3.) Korm. rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^41]: A 12. § a 267/2010. (XII. 3.) Korm. rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^42]: A 12. § h)–i) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^43]: A 12. § q) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^44]: A 12. § s)–t) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.

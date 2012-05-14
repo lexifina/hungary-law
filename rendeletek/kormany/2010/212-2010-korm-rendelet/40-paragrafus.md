@@ -1,10 +1,10 @@
-40. § (1)[^122] A miniszter
+40. § (1)[^119] A miniszter
 
-a)[^123] irányítja a rendőrséget, a bűnügyi szakértői és kutató tevékenységet és gyakorolja a rendészeti középfokú oktatási intézmények tekintetében a fenntartót megillető jogosítványokat, továbbá az érintett miniszterekkel közösen ellátja a Nemzeti Közszolgálati Egyetem fenntartói irányítását,
+a)[^120] irányítja a rendőrséget, a bűnügyi szakértői és kutató tevékenységet és gyakorolja a rendészeti középfokú oktatási intézmények tekintetében a fenntartót megillető jogosítványokat, továbbá az érintett miniszterekkel közösen ellátja a Nemzeti Közszolgálati Egyetem fenntartói irányítását,
 
 b) irányítja a büntetés-végrehajtás szervezetét, meghatározza a büntetés-végrehajtási oktatás, képzés és továbbképzés, továbbá a büntetetés-végrehajtási tudományos kutatás irányait, összehangolja az erre irányuló tevékenységeket,
 
-c)[^124] irányítja az Alkotmányvédelmi Hivatalt, a Nemzetbiztonsági Szakszolgálatot a Szervezett Bűnözés Elleni Koordinációs Központot, és meghatározza ezen szervezetek oktatás, képzés és továbbképzés továbbá a tudományos kutatás irányait, összehangolja az erre irányuló tevékenységeket,
+c)[^121] irányítja az Alkotmányvédelmi Hivatalt, a Nemzetbiztonsági Szakszolgálatot a Szervezett Bűnözés Elleni Koordinációs Központot, és meghatározza ezen szervezetek oktatás, képzés és továbbképzés továbbá a tudományos kutatás irányait, összehangolja az erre irányuló tevékenységeket,
 
 d) összehangolja az egységes európai határ-ellenőrzési rendszer megvalósításával kapcsolatos kormányzati feladatokat,
 
@@ -12,13 +12,13 @@ e) gondoskodik a személy- és vagyonőrök, a közterület felügyelet, valamin
 
 (2) A miniszter a helyi önkormányzatokért való felelőssége körében
 
-a)[^125] az önkormányzati érdekszövetségek javaslatának kikérését követően a 26. § p) pont figyelembevételével kijelöli az Európa Tanács Helyi és Regionális Önkormányzatok Kongresszusa magyar delegációjának tagjait,
+a)[^122] az önkormányzati érdekszövetségek javaslatának kikérését követően a 26. § p) pont figyelembevételével kijelöli az Európa Tanács Helyi és Regionális Önkormányzatok Kongresszusa magyar delegációjának tagjait,
 
-b) ellátja – a nemzetgazdasági miniszterrel együttesen – a központi költségvetés előkészítéséből és végrehajtásából, valamint a zárszámadásból adódó, helyi önkormányzatokat és a helyi kisebbségi önkormányzatokat érintő kormányzati teendőket, és szervezi az azok megalapozásához szükséges információszolgáltatást,
+b)[^123] ellátja – a nemzetgazdasági miniszterrel együttesen – a központi költségvetés előkészítéséből és végrehajtásából, valamint a zárszámadásból adódó, helyi önkormányzatokat és a nemzetiségi önkormányzatokat érintő kormányzati teendőket, és szervezi az azok megalapozásához szükséges információszolgáltatást,
 
-c) összehangolja a helyi önkormányzatok és a kisebbségi önkormányzatok működésével összefüggő tervezés és gazdálkodás kormányzati feladatait,
+c)[^124] összehangolja a helyi önkormányzatok és a nemzetiségi önkormányzatok működésével összefüggő tervezés és gazdálkodás kormányzati feladatait,
 
-d) részt vesz a helyi önkormányzatok és a kisebbségi önkormányzatok gazdálkodása pénzügyi szabályozásának kidolgozásában, a feladatok végrehajtásának szervezésében,
+d)[^125] részt vesz a helyi önkormányzatok és a nemzetiségi önkormányzatok gazdálkodása pénzügyi szabályozásának kidolgozásában, a feladatok végrehajtásának szervezésében,
 
 e)[^126] közreműködik a helyi önkormányzatok feladatát és hatáskörét, a polgármester, a főpolgármester tevékenységét érintő jogszabályok, közjogi szervezetszabályozó eszközök és egyedi állami döntések tervezeteinek előkészítésében,
 
@@ -64,7 +64,7 @@ a) szakmai irányítást gyakorol az állami főépítészek területfejlesztés
 
 b) gondoskodik a földtani veszélyhelyzet megelőzésével és elhárításával kapcsolatos pályázati rendszer működtetéséről,
 
-c)[^130] egyetértési jogot gyakorol a nemzeti erőforrás miniszterrel az építészeti és régészeti emlékek védetté nyilvánítása és a védettség megszüntetése ügyében, továbbá a Világörökség Magyar Nemzeti Bizottság munkájában,
+c)[^130] egyetértési jogot gyakorol az emberi erőforrások miniszterével az építészeti és régészeti emlékek védetté nyilvánítása és a védettség megszüntetése ügyében, továbbá a Világörökség Magyar Nemzeti Bizottság munkájában,
 
 d) részt vesz az akadálymentes épített környezet alakításával összefüggő kormányzati feladatok megvalósításában,
 
@@ -144,15 +144,18 @@ h)[^138] működteti a Duna Palota Kulturális Nonprofit Kft.-t.
 
 i)[^139]
 
-[^122]: A 40. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (16) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^123]: A 40. § (1) bekezdés a) pontja a 363/2011. (XII. 30.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^124]: A 40. § (1) bekezdés c) pontja a 293/2010. (XII. 22.) Korm. rendelet 16. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. § (2)–(4) bekezdését.
-[^125]: A 40. § (2) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^119]: A 40. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (16) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^120]: A 40. § (1) bekezdés a) pontja a 363/2011. (XII. 30.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^121]: A 40. § (1) bekezdés c) pontja a 293/2010. (XII. 22.) Korm. rendelet 16. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. § (2)–(4) bekezdését.
+[^122]: A 40. § (2) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^123]: A 40. § (2) bekezdés b) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § k) pontja szerint módosított szöveg.
+[^124]: A 40. § (2) bekezdés c) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+[^125]: A 40. § (2) bekezdés d) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
 [^126]: A 40. § (2) bekezdés e) pontja a 300/2010. (XII. 23.) Korm. rendelet 2. § (6) bekezdés a) pontja szerint módosított szöveg.
 [^127]: A 40. § (3) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^128]: A 40. § (4) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^129]: A 40. § (4a) bekezdését a 267/2010. (XII. 3.) Korm. rendelet 14. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^130]: A 40. § (5) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^130]: A 40. § (5) bekezdés c) pontja a 94/2012. (V. 11.) Korm. rendelet j) pontja szerint módosított szöveg.
 [^131]: A 40. § (5) bekezdés g) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^132]: A 40. § (5) bekezdés i) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^133]: A 40. § (5a) bekezdését a 90/2011. (VI. 14.) Korm. rendelet 2. §-a iktatta be.

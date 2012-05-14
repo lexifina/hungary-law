@@ -1,6 +1,6 @@
-## 25/A. §[^67] A Kormány a kisebbségi önkormányzatok törvényességi ellenőrzése szakmai irányítására, valamint a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény 60/N. §-a szerinti feladatok ellátására a minisztert jelöli ki.
+## 25/A. §[^77] A Kormány a nemzetiségi önkormányzatok törvényességi ellenőrzése szakmai irányítására, valamint a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény szerinti feladatok ellátására a minisztert jelöli ki.
 
-## 26. §[^68] A miniszter a közigazgatás-fejlesztésért való felelőssége részeként a területi közigazgatás-fejlesztésért való felelőssége körében:
+## 26. §[^78] A miniszter a közigazgatás-fejlesztésért való felelőssége részeként a területi közigazgatás-fejlesztésért való felelőssége körében:
 
 a) ellátja a területi közigazgatás-fejlesztés és -korszerűsítés kormányzati feladatainak irányítását és összehangolását
 
@@ -34,5 +34,5 @@ o) ellátja Magyarország képviseletét az Európa Tanács közigazgatással fo
 
 p) véleményezési jogot gyakorol az Európa Tanács Helyi és Regionális Önkormányzatok Kongresszusa magyar delegációja tagjainak kijelölése során.
 
-[^67]: A 25/A. §-t a 267/2010. (XII. 3.) Korm. rendelet 8. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^68]: A 26. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (17) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^77]: A 25/A. §-t a 267/2010. (XII. 3.) Korm. rendelet 8. §-a iktatta be, szövege a 94/2012. (V. 11.) Korm. rendelet 7. § h) pontja szerint módosított szöveg.
+[^78]: A 26. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (17) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

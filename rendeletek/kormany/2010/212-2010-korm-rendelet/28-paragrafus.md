@@ -2,7 +2,7 @@
 
 a) ellenőrzi az iratkezelési szabályzatban foglaltak végrehajtását a központi államigazgatási szerveknél,
 
-b) jóváhagyja a Magyar Országos Levéltárral egyetértésben a központi államigazgatási szervek egyedi iratkezelési szabályzatait, valamint az általuk készített egységes iratkezelési szabályzatok és irattári mintatervek kiadásakor – a nemzeti erőforrás miniszterrel – egyetértési jogot gyakorol,
+b)[^81] jóváhagyja a Magyar Országos Levéltárral egyetértésben a központi államigazgatási szervek egyedi iratkezelési szabályzatait, valamint az általuk készített egységes iratkezelési szabályzatok és irattári mintatervek kiadásakor – az emberi erőforrások miniszterével – egyetértési jogot gyakorol,
 
 c) a közlevéltárak ellenőrzési tapasztalatait is felhasználva évente értékeli a közfeladatokat ellátó szervek iratkezelésének helyzetét, az elektronikus iratkezelésre történő áttérés tapasztalatait,
 
@@ -17,3 +17,5 @@ fa) folyamatosan gyűjti, rendszerezi és elemzi a közfeladatot ellátó szerve
 fb) koordinálja a Kormány által megjelölt stratégiai célok és a rendelkezésre álló anyagi erőforrások figyelembevételével, a központi államigazgatási szervekkel, valamint – a nemzeti fejlesztési miniszterrel együttműködve – a területi és helyi államigazgatási szervek, a polgármesteri hivatalok és a közlevéltárak iratkezelése, informatikai feltételrendszerének, infrastruktúrájának megteremtésére irányuló fejlesztési tervek elkészítését,
 
 fc) javaslatokat dolgoz ki a nemzeti fejlesztési miniszterrel együttműködve az fb) alpontban nem szereplő, közfeladatot ellátó szervek iratkezelése informatikai feltételrendszerének fejlesztésére.
+
+[^81]: A 28. § b) pontja a 94/2012. (V. 11.) Korm. rendelet j) pontja szerint módosított szöveg.

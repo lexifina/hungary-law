@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-212-20-
 | 2012-01-01 | 2010-212-20-22.20 | 300/2011. (XII. 22.) Korm. rendelet |
 | 2012-03-15 | 2010-212-20-22.21 | 23/2012. (II. 29.) Korm. rendelet |
 | 2012-04-01 | 2010-212-20-22.22 | 324/2011. (XII. 28.) Korm. rendelet |
+| 2012-05-14 | 2010-212-20-22.23 | 94/2012. (V. 11.) Korm. rendelet |

@@ -2,8 +2,8 @@
 
 a) az Európai Unió intézményeinek tagállami kormányzati részvétellel működő döntéshozó és döntés-előkészítő tevékenységében,
 
-b)[^10] az Európai Unió Tanácsában, valamint
+b)[^12] az Európai Unió Tanácsában, valamint
 
 c) az Európa Tanácsban.
 
-[^10]: A 4. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^12]: A 4. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

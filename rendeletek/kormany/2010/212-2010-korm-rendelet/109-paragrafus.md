@@ -22,7 +22,7 @@ j) a környezetre súlyos veszélyt jelentő anyagok és termékek, továbbá te
 
 szóló jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeletet ad ki.
 
-(2)[^346] A miniszter együttműködik a nemzeti fejlesztési miniszterrel a klímavédelemmel kapcsolatos szabályozásban.
+(2)[^369] A miniszter együttműködik a nemzeti fejlesztési miniszterrel a klímavédelemmel kapcsolatos szabályozásban.
 
 (3) A miniszter a környezetvédelemért való felelőssége körében együttműködik az Országos Atomenergiai Hivatal felügyeletét ellátó miniszterrel a környezet radioaktív szennyezése elleni védelemmel kapcsolatos jogszabályok előkészítésében, illetve – felhatalmazás alapján – megalkotásában.
 
@@ -30,13 +30,13 @@ szóló jogszabályokat, továbbá e tárgykörökben törvény vagy kormányren
 
 a) rendszeresen elemzi és értékeli a környezetvédelem gazdasági szabályozó eszközeit, javaslatot tesz azok továbbfejlesztésére;
 
-b)[^347]
+b)[^370]
 
 c) közreműködik az ásványvagyonnal való gazdálkodás és védelem felügyeletében, valamint az ezzel kapcsolatos jogszabályok előkészítésében, illetve – felhatalmazás alapján – megalkotásában,
 
 d) koordinálja az Európai Unió környezetvédelemmel kapcsolatos jogszabályaiból eredő tagállami feladatok ellátását,
 
-e)[^348] működteti az Országos Környezetvédelmi Tanácsot.
+e)[^371] működteti az Országos Környezetvédelmi Tanácsot.
 
 (5) A miniszter a természetvédelemért való felelőssége körében előkészíti különösen
 
@@ -84,7 +84,7 @@ szóló jogszabályokat, továbbá e tárgykörökben törvény vagy kormányren
 
 a) irányítja az árvízvédelmi és vízrendezési koncepció, valamint stratégia meghatározását, az országos és térségi vízkárelhárítás, vízrendezési programok és fejlesztési tervek kidolgozását és értékelését,
 
-b–k)[^349]
+b–k)[^372]
 
 l) irányítja az országos szintű vízgyűjtő-gazdálkodási tervezést, különös tekintettel az intézkedési programok végrehajtására,
 
@@ -96,7 +96,7 @@ o) irányítja az ivóvízbázis-védelmi célprogramot,
 
 p) irányítja a vizeket és a földtani közeget terhelő és veszélyeztető tevékenységekre és hatásokra vonatkozó adatok gyűjtését és értékelését, továbbá az információs szakrendszerek fejlesztését,
 
-q)[^350] irányítja a vizek állapotának figyelemmel kísérése érdekében a mérő-, megfigyelő és ellenőrző rendszerek létrehozását, fejlesztését, működtetését, valamint az adatok értékelését,
+q)[^373] irányítja a vizek állapotának figyelemmel kísérése érdekében a mérő-, megfigyelő és ellenőrző rendszerek létrehozását, fejlesztését, működtetését, valamint az adatok értékelését,
 
 r) gondoskodik a hazai és nemzetközi adatszolgáltatási kötelezettségekről,
 
@@ -106,18 +106,18 @@ t) részt vesz a víziközmű-szolgáltatás területén a települési önkorm�
 
 u) felügyeli az ivóvízminőség-javító programmal kapcsolatos feladatokat,
 
-v)[^351] közreműködik a víziközmű társulatokkal kapcsolatos szakterületi feladatok ellátásában,
+v)[^374] közreműködik a víziközmű társulatokkal kapcsolatos szakterületi feladatok ellátásában,
 
 w) gondoskodik a szomszédos országokkal létesített vízgazdálkodási egyezmények végrehajtásáról, és biztosítja a képviseletet,
 
 x) gondoskodik a többoldalú nemzetközi együttműködések vízgazdálkodási feladatainak végrehajtásáról, az Európai Unióval történő együttműködés feltételeinek biztosításáról,
 
-y)[^352]
+y)[^375]
 
-[^346]: A 109. § (2) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (66) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^347]: A 109. § (4) bekezdés b) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (43) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^348]: A 109. § (4) bekezdés e) pontja a 267/2010. (XII. 3.) Korm. rendelet 34. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^349]: A 109. § (7) bekezdés b)–k) pontját a 300/2011. (XII. 22.) Korm. rendelet 30. § b) pontja hatályon kívül helyezte.
-[^350]: A 109. § (7) bekezdés q) pontja a 300/2011. (XII. 22.) KOrm. rendelet 30. § a) pontja szerint módosított szöveg.
-[^351]: A 109. § (7) bekezdés v) pontja a 300/2011. (XII. 22.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^352]: A 109. § (7) bekezdés y) pontját a 300/2011. (XII. 22.) Korm. rendelet 30. § b) pontja hatályon kívül helyezte.
+[^369]: A 109. § (2) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 40. § (66) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^370]: A 109. § (4) bekezdés b) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (43) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^371]: A 109. § (4) bekezdés e) pontja a 267/2010. (XII. 3.) Korm. rendelet 34. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^372]: A 109. § (7) bekezdés b)–k) pontját a 300/2011. (XII. 22.) Korm. rendelet 30. § b) pontja hatályon kívül helyezte.
+[^373]: A 109. § (7) bekezdés q) pontja a 300/2011. (XII. 22.) KOrm. rendelet 30. § a) pontja szerint módosított szöveg.
+[^374]: A 109. § (7) bekezdés v) pontja a 300/2011. (XII. 22.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^375]: A 109. § (7) bekezdés y) pontját a 300/2011. (XII. 22.) Korm. rendelet 30. § b) pontja hatályon kívül helyezte.
