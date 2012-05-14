@@ -16,39 +16,45 @@ f) javaslatokat tegyen a Kormány és az érintett központi államigazgatási s
 
 g) elősegítse az emberi jogok magyarországi érvényesülésével kapcsolatos szakmai kommunikációt.
 
-3. A Munkacsoport tagja
+3.[^1] A Munkacsoport tagja
 
 a) a Belügyminisztérium parlamenti államtitkára,
 
-b) a Honvédelmi Minisztérium parlamenti államtitkára,
+b) az Emberi Erőforrások Minisztériuma (a továbbiakban: EMMI) egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkára,
 
-c) a Közigazgatási és Igazságügyi Minisztérium (a továbbiakban: KIM) egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkára,
+c) az EMMI társadalmi felzárkózásért felelős államtitkára,
 
-d) a KIM igazságügyért felelős államtitkára,
+d) az EMMI szociális, család- és ifjúságügyért felelős államtitkára,
 
-e) a KIM kormányzati kommunikációért felelős államtitkára,
+e) az EMMI egészségügyért felelős államtitkára,
 
-f) a KIM társadalmi felzárkózásért felelős államtitkára,
+f) az EMMI oktatásért felelős államtitkára,
 
-g) a Külügyminisztérium (a továbbiakban: KÜM) parlamenti államtitkára,
+g) a Honvédelmi Minisztérium parlamenti államtitkára,
 
-h) a KÜM EU ügyekért felelős államtitkára,
+h) a Közigazgatási és Igazságügyi Minisztérium (a továbbiakban: KIM) igazságügyért felelős államtitkára,
 
-i) a Nemzetgazdasági Minisztérium foglalkoztatáspolitikáért felelős államtitkára,
+i) a KIM kormányzati kommunikációért felelős államtitkára,
 
-j) a Nemzeti Erőforrás Minisztérium (a továbbiakban: NEFMI) szociális, család- és ifjúságügyért felelős államtitkára,
+j) a Külügyminisztérium (a továbbiakban: KÜM) parlamenti államtitkára,
 
-k) a NEFMI egészségügyért felelős államtitkára, és
+k) a KÜM EU ügyekért felelős államtitkára és
 
-l) a NEFMI oktatásért felelős államtitkára.
+l) a Nemzetgazdasági Minisztérium foglalkoztatáspolitikáért felelős államtitkára.
 
 4. A Munkacsoport tagjai Munkacsoportban végzett tevékenységükért tiszteletdíjban nem részesülnek.
 
 5. A Munkacsoport tagjait az általuk kijelölt, az irányításuk alá tartozó helyettes államtitkár vagy főosztályvezető jogállású kormánytisztviselő helyettesítheti.
 
-6. A Munkacsoport elnöke a KIM társadalmi felzárkózásért felelős államtitkára, a Munkacsoport alelnöke a KIM igazságügyért felelős államtitkára.
+6.[^2] A Munkacsoport elnöke a KIM kormányzati kommunikációért felelős államtitkára, a Munkacsoport alelnöke a KIM igazságügyért felelős államtitkára.
 
-7. A Munkacsoport elnöke a Munkacsoport ülésére tanácskozási joggal, eseti jelleggel meghívhatja a Munkacsoport feladatkörét érintő tevékenységet végző alkotmányos szerv képviselőjét, továbbá központi államigazgatási szerv vezetőjét.
+7.[^3] A Munkacsoport elnöke a Munkacsoport ülésére tanácskozási joggal, eseti jelleggel meghívhat a Munkacsoport feladatkörét érintő tevékenységet végző
+
+a) állami vezetőt,
+
+b) alkotmányos szerv képviselőjét, és
+
+c) központi államigazgatási szerv vezetőjét.
 
 8. A Munkacsoport szükség szerint, de negyedévente legalább egy alkalommal tart ülést. A Munkacsoport ülését a Munkacsoport elnöke hívja össze és vezeti, a Munkacsoport ülése vezetésében a Munkacsoport elnökét a Munkacsoport alelnöke helyettesíti. A Munkacsoport rendkívüli ülésének összehívását a Munkacsoport bármely tagja az indok egyértelmű megjelölésével kezdeményezheti a Munkacsoport elnökénél. A Munkacsoport ülése összehívásáról ebben az esetben a Munkacsoport elnöke dönt.
 
@@ -62,7 +68,7 @@ a) a Munkacsoport tagjai,
 
 b) az alapvető jogok biztosa, az Egyenlő Bánásmód Hatóság elnöke, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke, és
 
-c) a Munkacsoport elnöke által felkért, a Munkacsoport feladatkörét érintő tevékenységet végző
+c)[^4] a Munkacsoport elnöke és alelnöke által együttesen felkért, a Munkacsoport feladatkörét érintő tevékenységet végző
 
 ca) alkotmányos szerv képviselője, központi államigazgatási szerv vezetője,
 
@@ -75,3 +81,8 @@ cb) civil szervezetek, érdekképviseleti szervezetek és szakmai szervezetek k�
 14. A Munkacsoport és az Emberi Jogi Kerekasztal működésével összefüggő szakmai előkészítő és adminisztratív feladatok ellátásáról – a Munkacsoport alelnöke irányításával működő titkárság biztosításával – a KIM gondoskodik.
 
 15. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 3. pont az 1147/2012. (V. 11.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 6. pont az 1147/2012. (V. 11.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 7. pont az 1147/2012. (V. 11.) Korm. határozat 3. pontjával megállapított szöveg.
+[^4]: A 11. pont c) alpontja az 1147/2012. (V. 11.) Korm. határozat 4. pontja szerint módosított szöveg.
