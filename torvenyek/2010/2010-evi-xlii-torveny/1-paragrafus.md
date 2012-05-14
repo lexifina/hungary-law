@@ -10,7 +10,7 @@ d) Külügyminisztérium,
 
 e) Nemzetgazdasági Minisztérium,
 
-f) Nemzeti Erőforrás Minisztérium,
+f) Emberi Erőforrások Minisztériuma,
 
 g) Nemzeti Fejlesztési Minisztérium,
 

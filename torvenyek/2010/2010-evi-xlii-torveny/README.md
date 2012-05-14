@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-42-00-00
 | 2010-05-29 | 2010. évi XLII. törvény | 2010-42-00-00.0 (közlönyállapot) |
 | 2010-05-29 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-42-00-00.1 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2010-42-00-00.2 |
+| 2012-05-14 | 2012. évi XLII. törvény | 2010-42-00-00.3 |

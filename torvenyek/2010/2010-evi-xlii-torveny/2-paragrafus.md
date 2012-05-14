@@ -91,3 +91,13 @@ g) a Szociális és Munkaügyi Minisztérium esetén a Nemzeti Erőforrás Minis
 kell tekinteni.
 
 (4) Az e törvény hatálybalépését követően a más miniszterhez vagy az 1. §-ban meghatározott más minisztériumhoz átkerülő feladat- és hatáskörök tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 34. § (3) és (4) bekezdése és a 35. § (4) és (5) bekezdése az irányadó.
+
+(5) Ahol a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi XLII. törvény módosításáról szóló 2012. évi XLII. törvény hatálybalépését megelőzőnek kiadott jogszabály vagy közjogi szervezetszabályozó eszköz
+
+a) Nemzeti Erőforrás Minisztériumot említ, ott Emberi Erőforrások Minisztériumát,
+
+b) nemzeti erőforrás minisztert említ, ott emberi erőforrások miniszterét
+
+kell érteni.
+
+(6) Az Emberi Erőforrások Minisztériuma a Nemzeti Erőforrás Minisztérium jogutódja.
