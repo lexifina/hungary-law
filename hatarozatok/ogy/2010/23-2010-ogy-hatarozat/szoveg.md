@@ -810,7 +810,7 @@ dr. Tóth József (MSZP)
 
 Hegedűs Lorántné (Jobbik)
 
-Endrésik Zsolt (Jobbik)[^113]
+Endrésik Zsolt (független)[^113]
 
 Szilágyi Péter (LMP)[^114]
 
@@ -1090,7 +1090,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^110]: A 111/2010. (XI. 12.) OGY határozat 1. pontjával megállapított szöveg.
 [^111]: A 30/2010. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
 [^112]: A 17/2011. (III. 9.) OGY határozat 1. pontjával megállapított szöveg.
-[^113]: A 106/2010. (X. 28.) OGY határozat 1. pontjával megállapított szöveg.
+[^113]: A 39/2012. (V. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^114]: A 110/2010. (XI. 4.) OGY határozat 1. pontjával megállapított szöveg.
 [^115]: A 110/2010. (XI. 4.) OGY határozat 1. pontjával megállapított szöveg.
 [^116]: Az 1. pont r) alpont címe a 48/2010. (VI. 29.) OGY határozat 1. pontjával megállapított szöveg.

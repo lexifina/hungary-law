@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-23-30-4
 | 2012-03-12 | 2010-23-30-41.41 | 20/2012. (III. 14.) OGY határozat |
 | 2012-03-26 | 2010-23-30-41.42 | 26/2012. (III. 28.) OGY határozat |
 | 2012-04-23 | 2010-23-30-41.43 | 37/2012. (IV. 26.) OGY határozat |
+| 2012-05-14 | 2010-23-30-41.44 | 39/2012. (V. 18.) OGY határozat |
