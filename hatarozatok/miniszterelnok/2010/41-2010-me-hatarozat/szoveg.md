@@ -28,7 +28,7 @@ dr. Kátai Ildikót,
 
 Kohut Balázst,
 
-dr. Latorcai Csabát,
+dr. Latorcai Csabát,[^1]
 
 Lánczi Tamást,
 
@@ -64,7 +64,7 @@ dr. Horváth Endrét,
 
 dr. Kardkovács Kolost,
 
-dr. Olajos Pétert,[^1]
+dr. Olajos Pétert,[^2]
 
 dr. Rezsőfi Istvánt,
 
@@ -128,4 +128,5 @@ a Vidékfejlesztési Minisztérium helyettes államtitkárává
 
 kinevezem.
 
-[^1]: A 110/2010. (XII. 14.) ME határozat alapján Olajos Péter tekintetében a „Nemzetgazdasági Minisztérium” megnevezés helyett „Nemzeti Fejlesztési Minisztérium”-ot kell érteni.
+[^1]: A 61/2012. (V. 22.) ME határozat alapján dr. Latorcai Csaba tekintetében a „Közigazgatási és Igazságügyi Minisztérium” megnevezés helyett „Emberi Erőforrások Minisztériuma” megnevezést kell érteni.
+[^2]: A 110/2010. (XII. 14.) ME határozat alapján Olajos Péter tekintetében a „Nemzetgazdasági Minisztérium” megnevezés helyett „Nemzeti Fejlesztési Minisztérium”-ot kell érteni.
