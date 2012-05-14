@@ -1,0 +1,1 @@
+9. § Ez a rendelet a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi XLII. törvény módosításáról szóló 2012. évi XLII. törvénnyel egyidejűleg lép hatályba, és a hatálybalépését követő napon hatályát veszti.
