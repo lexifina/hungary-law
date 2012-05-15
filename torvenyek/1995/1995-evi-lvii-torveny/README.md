@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-57-00-00
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 1995-57-00-00.26 |
 | 2011-03-30 | 2011. évi XXII. törvény | 1995-57-00-00.27 |
 | 2012-01-01 | 2011. évi CLXXIV. törvény | 1995-57-00-00.28 |
+| 2012-05-15 | 2012. évi XXXI. törvény | 1995-57-00-00.29 |

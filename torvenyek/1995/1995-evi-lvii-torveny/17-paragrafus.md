@@ -4,9 +4,7 @@ a) a rendkívüli védekezési készültség beálltáig a vízügyi igazgatási
 
 b) a rendkívüli védekezési készültség tartama alatt, ha veszélyhelyzet kihirdetésére nem kerül sor, a vízügyi igazgatási szervek irányításáért felelős miniszter;
 
-c) veszélyhelyzet kihirdetése esetén a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti kormányzati koordinációs szerv
-
-hatáskörébe tartozik.
+c)
 
 (2)
 
