@@ -34,7 +34,7 @@
 
 15. ingatlan: a föld és a földdel alkotórészi kapcsolatban álló minden dolog,
 
-16. telek: az épülettel be nem épített földterület, ide nem értve az ingatlan-nyilvántartásban művelési ág szerint aranykorona-értékkel nyilvántartott és ténylegesen mezőgazdasági művelés alatt álló belterületi telket, a külterületi termőföldet, valamint az ingatlan-nyilvántartás szerint tanyaként nyilvántartott ingatlanhoz tartozó földterületet, feltéve, ha az ténylegesen mezőgazdasági művelés alatt áll, továbbá a közút területét, a vasúti pályát, a vasúti pálya tartozékait, valamint a repülőtér szilárd burkolatú mozgási területét (futópálya, gurulóút, műszaki és forgalmi előtér) és az annak akadálymentességét biztosító, jogszabály szerinti minimális biztonsági sávja által lefedett földterületet;
+16. telek: az épülettel be nem épített földterület, ide nem értve az ingatlan-nyilvántartásban művelési ág szerint aranykorona-értékkel nyilvántartott és ténylegesen mezőgazdasági művelés alatt álló belterületi telket, a külterületi termőföldet, valamint az ingatlan-nyilvántartás szerint tanyaként nyilvántartott ingatlanhoz tartozó földterületet, feltéve, ha az ténylegesen mezőgazdasági művelés alatt áll, továbbá a közút területét, a vasúti pályát, a vasúti pálya tartozékai által lefedett földterületet, a temetőkről és a temetkezésről szóló törvény temető fogalma alá tartozó földterületet;
 
 17. termőföld: az ingatlan-nyilvántartásban aranykorona értékkel és művelési ággal nyilvántartott, a termőföldről szóló törvény szerinti termőföldnek minősülő földterület;
 

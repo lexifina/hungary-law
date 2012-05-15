@@ -4,7 +4,7 @@
 
 a) a szükséglakás,
 
-b)
+b) a kizárólag az önálló orvosi tevékenységről szóló törvény szerinti háziorvos által nyújtott egészségügyi ellátás céljára szolgáló helyiség
 
 c)
 
