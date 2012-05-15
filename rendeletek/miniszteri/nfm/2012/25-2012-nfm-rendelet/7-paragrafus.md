@@ -1,3 +1,5 @@
 7. § (1) Ez a rendelet a kihirdetését követő ötödik napon lép hatályba.
 
-(2) Hatályát veszti a helyi közösségi közlekedés támogatásáról szóló 23/2011. (V. 20.) NFM rendelet.
+(2)[^1]
+
+[^1]: A 7. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
