@@ -1,11 +1,21 @@
-## Állattenyésztési bírság és egyéb szankciók
+## Jogkövetkezmények
 
-45. § (1) A 4. és 5. §-ban foglaltak megszegése esetén a tenyésztési hatóság elrendeli az állatnak az állattartó költségén történő ivartalanítását, illetve a szaporítóanyag megsemmisítését és az átlagos tenyészállat forgalmi értékének legfeljebb kettőszáz, szaporítóanyag forgalmi értékének legfeljebb ötszáz százalékáig terjedő állattenyésztési bírságot szabhat ki.
+45. § (1) A tenyésztési hatóság az e törvényben, valamint e törvény végrehajtására kiadott jogszabályban foglalt előírások megsértése esetén az alábbi szankciókat alkalmazhatja:
 
-(2) A tenyésztési hatóság elrendeli a 26. § (2) bekezdésében előírt feltételek hiányában felhasznált, tenyésztett, forgalmazott állat esetében, valamint a 41. §-ban leírt behozatali feltételek be nem tartása esetén az állat haszonállatként történő hasznosítását, továbbá az állat forgalmi értékének megfelelő összegű állattenyésztési bírság befizetését. A 6. § előírásainak be nem tartása esetén a tenyésztési hatóság a szervezőt legfeljebb a kiállításon, az árverésen részt vevő állatok létszámának és az egyes állatok forgalmi értékének szorzatával megegyező mértékű bírsággal sújtja.
+a) jogsértő állapot megszüntetésének elrendelése;
 
-(3) Az (1), (2) bekezdésben írt forgalmi értéket a tenyésztési hatóság jogosult megállapítani.
+b) jogsértő magatartás jövőbeni tanúsításától történő eltiltás;
 
-(4) Az állattenyésztési bírságot a miniszter által e törvény felhatalmazása alapján kiadott jogszabályban meghatározott számlára kell befizetni.
+c) a jogsértést megállapító jogerős határozat nyilvános közzétételének elrendelése legfeljebb 6 hónap időtartamra;
 
-(5)
+d) e törvény alapján kiadott engedély vagy tenyésztőszervezeti elismerés visszavonása;
+
+e) szaporítóanyag szakszerű megsemmisítésének előírása, az állatnak az állattartó költségére történő ivartalanításának elrendelése, a szaporítóanyag termékenyítésre történő használatának, hímivarú állat fedeztetésre történő használatának megtiltása;
+
+f) az állatnak a tenyésztésben történő használatának megtiltása;
+
+g) a törzskönyvi bejegyzések visszamenőleges hatállyal történő töröltetése;
+
+h) állattenyésztési bírság kiszabása.
+
+(2) Az (1) bekezdésben foglalt szankciók együttesen is alkalmazhatóak.
