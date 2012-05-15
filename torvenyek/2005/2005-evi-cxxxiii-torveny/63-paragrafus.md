@@ -2,7 +2,7 @@
 
 ## FELÜGYELETI BÍRSÁG
 
-63. § (1) A rendőrség az e törvény hatálya alá tartozó tevékenységet jogosulatlanul végző, továbbá a tevékenységére vonatkozó, e törvényben meghatározott előírásokat ismételten vagy súlyosan megsértő vállalkozást felügyeleti bírsággal sújthatja.
+63. § (1) A rendőrség felügyeleti bírsággal sújthatja azt, aki a személy- és vagyonvédelmi, illetve magánnyomozói tevékenységet (ideértve a magánnyomozó tevékenység szervezését és irányítását is) személyes végzésre jogosító igazolvány nélkül végzi, továbbá aki az e törvényben meghatározott tevékenység végzésére jogosító szabályokat megszegi, valamint azt a vállalkozást, amely az e törvény hatálya alá tartozó tevékenységet jogosulatlanul végzi, továbbá a tevékenységre vonatkozó, e törvényben meghatározott előírásokat ismételten vagy súlyosan megsérti.
 
 (2) Az (1) bekezdés alkalmazásában a vállalkozás jogosulatlanul végzi tevékenységét, ha azt
 

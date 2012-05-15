@@ -1,4 +1,4 @@
-64. § (1) A vállalkozással szemben kiszabható felügyeleti bírság legkisebb összege a kötelező legkisebb munkabér (minimálbér) négyszerese, legnagyobb összege a kötelező legkisebb munkabér negyvenszerese.
+64. § (1) Az e törvényben meghatározott tevékenységet személyesen végzőkkel szemben kiszabható felügyeleti bírság legkisebb összege a kötelező legkisebb munkabér (minimálbér) fele, legnagyobb összege a kötelező legkisebb munkabér kétszerese. A vállalkozással szemben kiszabható felügyeleti bírság legkisebb összege a kötelező legkisebb munkabér négyszerese, legnagyobb összege a kötelező legkisebb munkabér negyvenszerese.
 
 (2) Nincs helye felügyeleti bírság kiszabásának, ha a cselekmény elkövetése óta két év eltelt.
 
