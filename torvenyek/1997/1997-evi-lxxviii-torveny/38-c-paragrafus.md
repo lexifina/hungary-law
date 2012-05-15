@@ -3,3 +3,5 @@
 (2) Energetikai tanúsítói tevékenységet az folytathat, aki nem áll energetikai tanúsítói tevékenységet kizáró foglalkozástól eltiltás hatálya alatt, büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott szakirányú végzettséggel és szakmai gyakorlattal, valamint megfelel az abban meghatározott egyéb feltételeknek.
 
 (3) Aki energetikai tanúsítói tevékenységet kíván folytatni, köteles az erre irányuló szándékát a névjegyzéket vezető szervnek bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
+
+(4) Az energetikai tanúsítói tevékenységet végző személyt, ha adatszolgáltatásra vonatkozó jogszabályi kötelezettségét megszegi, a névjegyzéket vezető szerv 20 000 forintig terjedő közigazgatási bírsággal sújtja.

@@ -14,7 +14,7 @@ c) a tervdokumentáció készítésében (részben vagy folyamatosan) részt vev
 
 d) a szakági tervezők közötti egyeztetések koordinálásáért, terveik összehangolásáért.
 
-(2)
+(2) Aki tervezői jogosultság nélkül végez építési engedélyhez kötött építészeti-műszaki tervezési tevékenységet, azt az építésügyi hatóság 100 000 forintig terjedő közigazgatási bírsággal sújtja.
 
 (3) A névjegyzéket vezető szerv a tervezőt és a szakértőt a szakmagyakorlással kapcsolatos jogszabályok megsértése esetén jogszabályban meghatározott esetekben és módon szankciókkal sújtja.
 
