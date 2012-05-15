@@ -28,7 +28,7 @@ a) az árubeszerzésre és szolgáltatás megrendelésére irányuló szerződé
 
 b) az építési beruházásra irányuló szerződések esetében az 1 364 000 000 forint
 
-## értékhatárt.
+értékhatárt.
 
 (5) A közösségi beszerzések eljárási szabályait nem kell alkalmazni
 
