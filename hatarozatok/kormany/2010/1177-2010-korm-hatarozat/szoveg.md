@@ -44,11 +44,35 @@ h) a Központi Statisztikai Hivatal elnöke.
 
 8. Az NPTB ülésére az NPTB elnöke a bizottsági tagokon kívül szakértőként más személyt is meghívhat.
 
-9. A Kormány felkéri a Magyar Tudományos Akadémia elnökét, a Nemzeti Média és Hírközlési Hatóság elnökét, valamint a Kulturális Örökségvédelmi Hivatal vezetőjét, hogy személyesen vagy delegáltja útján állandó meghívottként vegyen részt az NPTB munkájában.
+9.[^2] A Kormány
 
-10.[^2] Az NPTB teljes ülésére, az NPTB elnökének vezetésével, a 4., 5. és 6. pontban felsorolt valamennyi tag részvételével szükség szerint, de legalább félévente kerül sor. Az NPTB teljes ülését az NPTB elnöke – az NPTB Titkársága útján – hívja össze.
+a) felkéri
 
-11.[^3] Az NPTB munkacsoporti ülésére, az NPTB Titkárának vezetésével, a 6. pontban meghatározott tagok részvételével szükség szerint, de legalább negyedévente kerül sor. A munkacsoporti ülést az NPTB Titkára hívja össze.
+aa) a Magyar Tudományos Akadémia elnökét,
+
+ab) a Nemzeti Média és Hírközlési Hatóság elnökét,
+
+ac) a Köztársasági Elnöki Hivatal nemzetpolitikai főtanácsadóját,
+
+ad) a Bethlen Gábor Alapkezelő Zrt. (a továbbiakban: Alapkezelő) vezérigazgatóját és támogatásfinanszírozási igazgatóját,
+
+ae) az Alapkezelő Apáczai Programigazgatósága HATÁRTALANUL! programjának igazgatóját, és
+
+af) a Nemzetpolitikai Kutatóintézet igazgatóját,
+
+az NPTB munkájában állandó meghívottként, személyes vagy delegáltja útján történő részvételre,
+
+b) felhívja
+
+ba) az emberi erőforrások miniszterét, hogy a Kulturális Örökségvédelmi Hivatal elnökének,
+
+bb) a közigazgatási és igazságügyi minisztert, hogy a Balassi Intézet főigazgatójának
+
+az NPTB munkájában állandó meghívottként, személyesen vagy delegáltja útján történő részvételéről gondoskodjon.
+
+10.[^3] Az NPTB teljes ülésére, az NPTB elnökének vezetésével, a 4., 5. és 6. pontban felsorolt valamennyi tag részvételével szükség szerint, de legalább félévente kerül sor. Az NPTB teljes ülését az NPTB elnöke – az NPTB Titkársága útján – hívja össze.
+
+11.[^4] Az NPTB munkacsoporti ülésére, az NPTB Titkárának vezetésével, a 6. pontban meghatározott tagok részvételével szükség szerint, de legalább negyedévente kerül sor. A munkacsoporti ülést az NPTB Titkára hívja össze.
 
 12. Az NPTB rendkívüli ülésének összehívását bármely bizottsági tag, az indok egyidejű megjelölésével kezdeményezheti az NPTB elnökénél.
 
@@ -58,12 +82,14 @@ h) a Központi Statisztikai Hivatal elnöke.
 
 15. Az NPTB Titkársága gondoskodik az NPTB ülésének napirendjéhez kapcsolódó dokumentumok bizottsági tagok részére történő megküldéséről.
 
-16. Az NPTB üléseiről emlékeztető készül. Vitás kérdés esetén az emlékeztető tartalmazza a kisebbségi véleményt. Az emlékeztető elkészítéséről és a bizottsági tagok részére történő megküldéséről – az ülést követő két munkanapon belül – az NPTB Titkársága gondoskodik.
+16.[^5] Az NPTB üléseiről emlékeztető készül. Vitás kérdés esetén az emlékeztető tartalmazza a kisebbségi véleményt. Az emlékeztető elkészítéséről és a bizottsági tagok részére történő megküldéséről – az ülést követő tizenöt munkanapon belül – az NPTB Titkársága gondoskodik.
 
 17. Az NPTB működésének részletes szabályait ügyrendjében állapítja meg.
 
 18. Ez a határozat a közzétételét követő harmadik napon lép hatályba.
 
 [^1]: Az 5. pont f) alpontja az 1446/2011. (XII. 20.) Korm. határozat 2. pontjával megállapított szöveg.
-[^2]: A 10. pont az 1446/2011. (XII. 20.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^3]: A 11. pont az 1446/2011. (XII. 20.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 9. pont az 1149/2012. (V. 15.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 10. pont az 1446/2011. (XII. 20.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^4]: A 11. pont az 1446/2011. (XII. 20.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^5]: A 16. pont az 1149/2012. (V. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
