@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-31-00-00
 | 2012-05-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-31-00-00.4 |
 | 2012-05-02 | 2010. évi CXXX. törvény | 2012-31-00-00.5 |
 | 2012-05-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-31-00-00.6 |
+| 2012-05-16 | 2010. évi CXXX. törvény | 2012-31-00-00.7 |
