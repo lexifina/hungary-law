@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-19-20-1
 | 2010-05-01 | 2010-19-20-1W.1 | 19/2010. (IV. 23.) OKM rendelet |
 | 2010-05-02 | 2010-19-20-1W.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-06-30 | 2010-19-20-1W.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2012-05-16 | 2010-19-20-1W.4 | 32/2012. (V. 8.) NEFMI rendelet |
