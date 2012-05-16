@@ -1,6 +1,6 @@
-12. melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^286]
+12. melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^299]
 
-A vizsgabiztosok szakmai képzése[^287]
+A vizsgabiztosok szakmai képzése[^300]
 
 A vizsgabiztosok képzése alap-, kiegészítő, illetve továbbképző tanfolyam keretében történik. A tanfolyamok témakörét és vizsgakövetelményeit a közlekedési hatóság elnöke állapítja meg. A képzés témakörét és a vizsgakövetelményeket a közlekedési hatóság honlapján és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben - tájékoztató formájában - közzéteszi.
 
@@ -20,11 +20,11 @@ Vizsgabiztosok továbbképzése
 
 2.1. A vizsgabiztos kétévente köteles továbbképző tanfolyamon részt venni és azt követően vizsgát tenni.
 
-2.2.[^288] A továbbképző tanfolyamra és az azt követő vizsgára az 1.2.-1.4. pontjainak rendelkezését kell megfelelően alkalmazni.
+2.2.[^301] A továbbképző tanfolyamra és az azt követő vizsgára az 1.2.-1.4. pontjainak rendelkezését kell megfelelően alkalmazni.
 
 2.3. Amennyiben a tanfolyam kitűzött időpontja a vizsgabiztos számára nem megfelelő, az értesítés kézhezvételét követő 15 napon belül kérheti a közlekedési hatóságtól a továbbképzés elhalasztását. A közlekedési hatóság legfeljebb 6 hónap halasztást engedélyezhet.
 
-A vizsgabiztosok képzésére vonatkozó átmeneti rendelkezések[^289]
+A vizsgabiztosok képzésére vonatkozó átmeneti rendelkezések[^302]
 
 3.1. Felsőfokú szakirányú végzettség esetén e rendelet 12/A. §-ának (2) bekezdés b) pontjában meghatározott szakirányú szakmai gyakorlati idő teljesítése alól a közlekedési hatóság - indokolt esetben - felmentést adhat.
 
@@ -32,7 +32,7 @@ A vizsgabiztosok képzésére vonatkozó átmeneti rendelkezések[^289]
 
 3.3. A 2010. január 1-jét megelőzően a vizsgabiztosi névjegyzékbe felvett személynek a rendelet 12/A. § (2) bekezdés c) pontjában meghatározott követelményt 2015. január 1. napjáig kell teljesítenie, amennyiben az általa vizsgált jármű vizsgáló állomáson történő mozgatása biztosított a vizsgált jármű vezetésére jogosító vezetői engedéllyel rendelkező segítő személyzet útján.
 
-Vizsgabiztosok speciális kiegészítő képzésére vonatkozó szabályok[^290]
+Vizsgabiztosok speciális kiegészítő képzésére vonatkozó szabályok[^303]
 
 4.1. A 3500 kg megengedett legnagyobb össztömeget meghaladó járművek forgalomba helyezés előtti, illetőleg időszakos vizsgálata, valamint a külön jogszabályok által előírt minősítő vizsgálata során a jármű vizsgálatát csak olyan vizsgabiztos végezheti, aki kiegészítő tanfolyami képzésen részt vett, valamint a tanfolyam anyagából sikeres vizsgát tett.
 
@@ -42,9 +42,9 @@ Vizsgabiztosok speciális kiegészítő képzésére vonatkozó szabályok[^290]
 
 4.4. A speciális, kiegészítő képzésre és az azt követő vizsgára az 1.2. - 1.4. pont rendelkezéseit kell megfelelően alkalmazni.
 
-A. függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^291]
+A. függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^304]
 
-A. Függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^292]
+A. Függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^305]
 
 I. FEJEZET
 
@@ -118,326 +118,10 @@ Ezen függelék és az A/4. mellékletben felsorolt jogi szabályozások alkalma
 
 9. „egylépéses típusjóváhagyás”: olyan eljárás, amely a jármű egészének egyetlen művelettel, egy eljárásban történő jóváhagyásából áll;
 
-10. „vegyes típusjóváhagyás”: olyan lépésenkénti típus-jóváhagyási eljárás, amely eredményeképpen a teljes jármű jóváhagyásának utolsó szakaszában egy vagy több rendszerjóváhagyás szerezhető meg anélkül, hogy ezekre a rendszerekre EK-típusbizonyítványokat kellene kiállítani;
-
-11. „gépjármű”: olyan motorral hajtott, önállóan mozgásképes, legalább négykerekű, teljes, befejezett vagy nem teljes jármű, melynek legnagyobb tervezett sebessége meghaladja a 25 km/órát;
-
-12. „pótkocsi”: olyan önálló hajtással nem rendelkező kerekes jármű, amelyet arra terveztek és gyártottak, hogy gépjármű vontassa;
-
-13. „jármű”: a 11. és 12. pontban meghatározott valamennyi gépjármű vagy pótkocsi;
-
-14. „hibrid gépjármű”: a jármű meghajtásának céljára legalább két különböző energia-átalakító berendezéssel és két különböző (a járműben található) energiatároló rendszerrel ellátott jármű;
-
-15. „hibrid elektromos jármű”: olyan hibrid jármű, amely a gépi meghajtás céljára a járműben található, a tárolt energia/teljesítmény mindkét alábbi forrásából energiát nyer:
-
-– éghető üzemanyag,
-
-– elektromos energia/teljesítmény-tároló berendezés (pl. akkumulátor, kondenzátor, lendkerék/generátor stb.);
-
-16. „önjáró munkagép”: olyan jármű, amelyet kifejezetten munka elvégzésére terveztek és gyártottak és amely szerkezeti jellemzői miatt nem alkalmas személy- vagy áruszállításra. A gépjármű alvázára szerelt gép nem tekintendő önjáró munkagépnek;
-
-17. „járműtípus”: adott járműkategóriába tartozó járművek, amelyek legalább az A/2. melléklet B. szakaszában meghatározott főbb jellemzők tekintetében nem különböznek egymástól. Egy járműtípus az A/2. melléklet B. szakaszában meghatározott változatokból és kivitelekből állhat;
-
-18. „alapjármű”: minden olyan jármű, amelyet többlépcsős típus-jóváhagyási eljárás kezdeti szakaszában használnak;
-
-19. „nem teljes jármű”: minden olyan jármű, amelynek az elkészüléshez még legalább egy további gyártási fokozaton kell keresztülmennie ahhoz, hogy az ezen függelékben meghatározott műszaki követelményeknek megfeleljen;
-
-20. „befejezett jármű”: olyan jármű, amelyet többlépcsős típus-jóváhagyási eljárásnak vetettek alá és amely ezen függelékben meghatározott műszaki követelményeknek megfelel;
-
-21. „teljes jármű”: minden olyan jármű, amelyet már nem kell befejezni az ezen függelék vonatkozó műszaki követelményeinek való megfelelés érdekében;
-
-22. „kifutó sorozatú jármű”: olyan, a készlet részét képező jármű, amelyet nem lehet nyilvántartásba venni vagy értékesíteni vagy forgalomba helyezni azon új műszaki követelmények életbe lépése következtében, amelyek szerint a jármű nem került jóváhagyásra;
-
-23. „rendszer”: berendezéseknek a járműben egy vagy több meghatározott funkció ellátására történő összeállítása, amelyre bármely jogi szabályozás követelményei vonatkoznak;
-
-24. „alkatrész”: olyan, valamely jogi szabályozás követelményeinek hatálya alá tartozó berendezés, amely egy jármű olyan részét képezi, amelyre a járműtől függetlenül lehet típusjóváhagyást kiadni, amennyiben a jogi szabályozás azt kifejezetten előírja;
-
-25. „önálló műszaki egység”: olyan, valamely jogi szabályozás követelményeinek hatálya alá tartozó berendezés, amely egy jármű olyan részét képezi, amelyre külön, de csak egy vagy több meghatározott járműtípussal kapcsolatban lehet típusjóváhagyást kiadni, amennyiben a jogi szabályozás azt kifejezetten előírja;
-
-26. „eredeti alkatrészek vagy berendezések”: olyan alkatrészek vagy berendezések, amelyeket a jármű gyártója által a kérdéses jármű összeszereléséhez szükséges részek vagy berendezések gyártására vonatkozóan megadott előírásoknak és gyártási szabványoknak megfelelően gyártanak. Ez a meghatározás magában foglalja azokat az alkatrészeket és berendezéseket is, amelyeket ezen alkatrészekkel és berendezésekkel azonos gyártósoron gyártanak. Amennyiben az ellenkezőjét nem bizonyítják, ezek az alkatrészek eredeti alkatrészeknek vélelmezhetők, ha az alkatrész gyártója igazolja, hogy az alkatrészek minősége megfelel a kérdéses jármű összeszereléséhez használt alkatrészek minőségének és azokat a jármű gyártójának előírásai és gyártási szabványai szerint gyártották;
-
-27. „gyártó”: az a személy vagy szerv, aki vagy amely a jóváhagyó hatóságnak felelős a jármű-típusjóváhagyás vagy az engedélyeztetési eljárás valamennyi vonatkozásáért, valamint a gyártás-megfelelőség biztosításáért. Nem alapvető fontosságú, hogy az érintett személy vagy szerv közvetlenül részt vegyen az engedélyeztetési eljárás tárgyát képező jármű, rendszer, alkatrész vagy önálló műszaki egység gyártásának valamennyi szaka-szában;
-
-28. „a gyártó képviselője”: az Európai Gazdasági Térségről szóló Megállapodásban részes államban (a továbbiakban: EGT tagállam) letelepedett természetes vagy jogi személy, akit a gyártó szabályszerűen kinevez, hogy a jóváhagyó hatóság előtt képviselje és az ezen függelék által szabályozott kérdésekben a nevében eljárjon és amennyiben a „gyártó” kifejezésre hivatkozás történik, azt vagy a gyártóra vagy annak képviselőjére való hivatkozásként kell érteni;
-
-29. „jóváhagyó hatóság”: Magyarország tekintetében a Nemzeti Közlekedési Hatóság, amely külön jogszabály alapján hatáskörrel rendelkezik egy jármű, rendszer, alkatrész vagy önálló műszaki egység típusának jóváhagyása vagy egy jármű egyedi jóváhagyása, az engedélyezési eljárás lefolytatása, a jóváhagyó okmányok kiadása vagy adott esetben visszavonása tekintetében és más tagállamok jóváhagyó hatóságai vonatkozásában a kapcsolattartó szerepét tölti be; hatáskörrel rendelkezik továbbá a vizsgáló intézmények kijelölése és annak biztosítása tekintetében, hogy a gyártó a gyártás-megfelelőséggel kapcsolatos kötelezettségeinek eleget tegyen;
-
-30. „illetékes hatóság”: Magyarország tekintetében a Nemzeti Közlekedési Hatóság.
-
-31. „vizsgáló intézmény”: a jóváhagyó hatóság által vizsgáló laboratóriumnak vagy megfelelőség-értékelő szervnek kinevezett szervezet vagy szerv, amelynek feladata a jóváhagyó hatóság nevében vizsgálatok, illetőleg a kezdeti értékelés és egyéb vizsgálatok vagy ellenőrzések elvégzése. E feladatokat maga a jóváhagyó hatóság is elláthatja.
-
-32. „virtuális vizsgálati módszer”: számításokat magában foglaló számítógépes szimuláció, amely bemutatja, hogy az adott jármű, rendszer, alkatrész vagy önálló műszaki egység megfelel valamely jogi szabályozásban meghatározott műszaki követelménynek. A virtuális vizsgálati módszer alkalmazásakor nincs szükség valódi jármű, rendszer, alkatrész vagy önálló műszaki egység vizsgálatára.
-
-33. „típusbizonyítvány”: típus-jóváhagyó okmány, vagyis az a dokumentum, amellyel a jóváhagyó hatóság hivatalosan igazolja, hogy a jármű, rendszer, alkatrész vagy önálló műszaki egység típusa jóváhagyást kapott;
-
-34. „EK-típusbizonyítvány”: az e Függelék A/6. mellékletében vagy az MR A. Függelékének megfelelő mellékleteiben meghatározott okmány, amellyel az A/4. melléklet I. vagy II. részében felsorolt valamely ENSZ-EGB előírás mellékletében meghatározott jóváhagyási értesítő is egyenértékűnek tekintendő;
-
-35. „egyedi jóváhagyási bizonyítvány”: egyedi forgalomba helyezési engedély, vagyis az a dokumentum, amellyel a jóváhagyó hatóság hivatalosan igazolja, hogy az adott jármű jóváhagyásban részesült;
-
-36. „megfelelőségi nyilatkozat”: az A/9. mellékletben meghatározott, a gyártó által kiállított dokumentum, amely igazolja, hogy az ezen függelékkel összhangban jóváhagyott típussorozathoz tartozó jármű megfelelt valamennyi jogi szabályozásnak a gyártása idején;
-
-37. „adatközlő lap”: az A/1. vagy az A/3. melléklet, továbbá a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló külön jogszabály mellékleteivel implementált közösségi irányelv vagy rendelet szerinti dokumentum, amely előírja azokat az adatokat, amelyeket a kérelmezőnek közölnie kell. Az adatközlő lap elektronikus fájlban való benyújtása megengedett;
-
-38. „adatközlő mappa”: a kérelmező által benyújtott teljes mappa, amely tartalmazza az adatközlő lapot, a fájlt, az adatokat, rajzokat, fényképeket stb. Az adatközlő mappa elektronikus fájl formájában való benyújtása megengedett;
-
-39. „információs csomag”: az adatközlő mappa, valamint a vizsgálati jegyzőkönyvek és minden más dokumentum, amelyet a vizsgáló intézmény vagy a jóváhagyó hatóság feladatköre gyakorlása során az adatközlő mappához csatolt. Az információs csomag elektronikus fájlban való benyújtása megengedett;
-
-40. „információs csomag tartalomjegyzéke”: az információs csomag tartalmát felsoroló, az oldalak egyértelmű azonosítása érdekében megfelelő számozással vagy egyéb jelzéssel ellátott dokumentum, amelynek formája lehetővé teszi az EK-típusjóváhagyás kezelése egymást követő lépéseinek, különösen a változtatások és a frissítések időpontjainak nyilvántartását.
-
-II. FEJEZET
-
-ÁLTALÁNOS KÖTELEZETTSÉGEK
-
-4. cikk
-
-A jóváhagyó hatóság kötelezettségei
-
-(1) A jóváhagyó hatóság csak azon járműveket, rendszereket, alkatrészeket vagy önálló műszaki egységeket hagyja jóvá, amelyek megfelelnek ezen függelék követelményeinek.
-
-(2) A jóváhagyó hatóság csak azon járműveket, rendszereket, alkatrészeket és önálló műszaki egységeket veszi nyilvántartásba, illetve csak azok értékesítését vagy forgalomba helyezését engedélyezi, amelyek megfelelnek ezen függelék követelményeinek.
-
-A jóváhagyó hatóság nem tiltja meg, korlátozza vagy akadályozza a járművek, alkatrészek vagy önálló műszaki egységek nyilvántartásba vételét, értékesítését, forgalomba helyezését és közúti forgalomban való használatát az ezen függelék által szabályozott szerkezeti vagy működési kérdésekkel kapcsolatos okokból, amennyiben azok megfelelnek e függelékben meghatározott követelményeknek.
-
-5. cikk
-
-A gyártó kötelezettségei
-
-(1) A gyártó teljes körűen felelős a jóváhagyó hatósággal szemben a jóváhagyási eljárás minden vonatkozásában, valamint a gyártási eljárások megfelelőségért, függetlenül attól, hogy a gyártó közvetlenül részt vesz-e a jármű, rendszer, alkatrész vagy önálló műszaki egység valamennyi gyártási lépcsőjében.
-
-(2) A többlépcsős típus-jóváhagyási eljárásban minden egyes gyártó felelős az általa irányított gyártási lépcsőben hozzáadott rendszerek, alkatrészek vagy önálló műszaki egységek jóváhagyásáért és a gyártási eljárások megfelelőségért .
-
-A korábbi lépcsőkben már jóváhagyott alkatrészeket vagy rendszereket módosító gyártó felelős ezen alkatrészek és rendszerek jóváhagyásáért és a gyártási eljárások megfelelőségért.
-
-(3) Ezen függelék alkalmazásában az EGT tagállamokon kívül letelepedett gyártónak a jóváhagyó hatóság előtti képviselete céljából az EGT tagállamban letelepedett képviselőt kell kineveznie.
-
-III. FEJEZET
-
-EK-TÍPUSJÓVÁHAGYÁSI ELJÁRÁSOK
-
-6. cikk
-
-A járművek EK-típusjóváhagyása esetén követendő eljárások
-
-(1) A gyártó az alábbi eljárások valamelyikét választhatja:
-
-a) lépésenkénti típusjóváhagyás;
-
-b) egylépéses típusjóváhagyás;
-
-c) vegyes típusjóváhagyás.
-
-(2) A lépésenkénti típusjóváhagyás iránti kérelemnek tartalmazni kell az A/3. mellékletben előírt adatokat tartalmazó adatközlő mappát és csatolni kell hozzá az A/4. vagy az A/11. mellékletben felsorolt alkalmazandó jogi szabályozások alapján előírt típusbizonyítványok teljes csomagját. Rendszer vagy önálló műszaki egység típusjóváhagyása esetén a jogi szabályozások szerint, a jóváhagyó hatóság a jóváhagyás kibocsátásáig vagy megtagadásáig hozzáféréssel rendelkezik a kapcsolódó információs csomaghoz.
-
-(3) Az egylépéses típusjóváhagyás iránti kérelem az A/1. melléklet alapján előírt, az A/4. vagy az A/11. mellékletben és adott esetben az A/3. melléklet II. részében meghatározott jogi szabályozásokkal kapcsolatos vonatkozó információt tartalmazó adatközlő mappából áll.
-
-(4) Vegyes típus-jóváhagyási eljárás esetén a jóváhagyó hatóság felmentheti a gyártót a rendszerre vonatkozó egy vagy több EK-típusbizonyítvány bemutatása alól, feltéve hogy az adatközlő mappába belefoglalják az A/1. mellékletben meghatározott, a rendszereknek a jármű-jóváhagyási szakasz során való jóváhagyásához szükséges adatokat, amely esetben minden egyes EK-típusbizonyítványt, amelynek bemutatása alól felmentést adtak, vizsgálati jegyzőkönyvvel kell felváltani.
-
-(5) A (2), (3) és (4) bekezdés sérelme nélkül többlépcsős típusjóváhagyás céljára az alábbi információt kell benyújtani:
-
-a) az első lépcsőben az adatközlő mappának az a része és azok az EK-típusbizonyítványok, amelyek a teljes járműhöz szükségesek, de csak akkor, ha ezek az alapjármű gyártási állapotát érintik;
-
-b) a második és minden további lépcsőben az adatközlő mappa és az EK-típusbizonyítványok közül azok, amelyek a mindenkori gyártási fokozat tekintetében relevánsak, valamint a járműre vonatkozó, az előző gyártási fokozatban kiadott EK-típusbizonyítványok másolata; továbbá a gyártó teljes körű információt szolgáltat az általa a járművön végzett változtatásokról és kiegészítésekről.
-
-Az a) vagy b) pontban említett információt be lehet nyújtani a (4) bekezdésben leírt vegyes típus-jóváhagyási eljárás szerint.
-
-(6) A gyártó a kérelmet a jóváhagyó hatóságnak nyújtja be. Egy adott járműtípus tekintetében kizárólag egy kérelem nyújtható be és kizárólag egy tagállamban.
-
-Minden jóváhagyandó típusra külön kérelmet kell benyújtani.
-
-(7) A jóváhagyó hatóság indokolt kérelemmel felhívhatja a gyártót további információ benyújtására az arra vonatkozó döntés lehetővé tétele érdekében, hogy milyen vizsgálatok szükségesek vagy e vizsgálatok elvégzésének megkönnyítése érdekében.
-
-(8) A gyártó biztosítja a jóváhagyó hatóság számára a típus-jóváhagyási eljárás kielégítő elvégzéséhez szükséges számú járművet.
-
-7. cikk
-
-A rendszerek, alkatrészek vagy önálló műszaki egységek
-
-EK-típusjóváhagyása esetén követendő eljárás
-
-(1) A gyártó a kérelmet a jóváhagyó hatóságnak nyújtja be. Egy adott rendszer- vagy alkatrésztípus vagy önálló műszaki egység típusa tekintetében kizárólag egy kérelem nyújtható be és kizárólag egy tagállamban. Minden jóváhagyandó típusra külön kérelmet kell benyújtani.
-
-(2) A kérelemhez csatolni kell az adatközlő mappát, amelynek tartalmát a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló külön jogszabály mellékleteivel implementált közösségi irányelv vagy rendelet által meghatározottak szerint.
-
-(3) A jóváhagyó hatóság indokolt kérelemmel felhívhatja a gyártót további információ benyújtására az arra vonatkozó döntés lehetővé tétele érdekében, hogy milyen vizsgálatok szükségesek vagy e vizsgálatok elvégzésének megkönnyítése érdekében.
-
-(4) A gyártó biztosítja a jóváhagyó hatóság számára a vonatkozó külön függelékekben vagy rendeletekben a szükséges vizsgálatok elvégzéséhez előírt számú járművet, alkatrészt vagy önálló műszaki egységet.
-
-IV. FEJEZET
-
-AZ EK-TÍPUSJÓVÁHAGYÁSI ELJÁRÁSOK ELVÉGZÉSE
-
-8. cikk
-
-Általános rendelkezések
-
-(1) A jóváhagyó hatóság nem adhatja meg az EK-típusjóváhagyást, amíg nincs biztosítva, hogy a 12. cikkben említett eljárásokat szabályszerűen és kielégítően végrehajtották.
-
-(2) A jóváhagyó hatóság az EK-típusjóváhagyásokat a 9. és a 10. cikkel összhangban adja meg.
-
-(3) Ha a jóváhagyó hatóság megállapítja, hogy valamely jármű-, rendszer- alkatrésztípus vagy önálló műszaki egység típusa, annak ellenére, hogy az előírt rendelkezéseknek megfelel, súlyosan veszélyezteti a közúti közlekedés biztonságát vagy súlyosan károsítja a környezetet vagy a közegészséget, visszautasíthatja az EK-típusjóváhagyás kiadását. Ilyen esetben azonnal részletes dossziét küld a többi tagállamnak és a Bizottságnak, amely tartalmazza a döntés indokolását és a megállapított tények bizonyítását.
-
-(4) A kiadott EK-típusbizonyítványokat az A/7. mellékletben meghatározott módszernek megfelelően kell számozni.
-
-(5) A jóváhagyó hatóság a többi tagállam jóváhagyó hatóságainak 30 napon belül megküldi a jármű EK-típusbizonyítvány másolatát annak mellékleteivel együtt minden egyes jóváhagyott járműtípusra vonatkozóan. A papíralapú adathordozó elektronikus fájllal is helyettesíthető.
-
-(6) A jóváhagyó hatóság késedelem nélkül tájékoztatja a többi tagállam jóváhagyó hatóságait minden járműjóváhagyás megtagadásáról vagy visszavonásáról, a döntés indokolásának mellékelésével.
-
-(7) A jóváhagyó hatóság háromhavonta megküldi a többi tagállam jóváhagyó hatóságainak az általa az előző időszakban kiadott, módosított, megtagadott vagy visszavont, rendszerre, alkatrészre vagy önálló műszaki egységre vonatkozó EK-típusjóváhagyások jegyzékét. A jegyzék az A/14. mellékletben meghatározott adatokat tartalmazza.
-
-(8) Az EK-típusjóváhagyást kiadó jóváhagyó hatóság valamely másik tagállam kérésére a kérelem kézhezvételét követő 30 napon belül elküldi a szóban forgó EK-típusjóváhagyás másolatát a mellékletekkel együtt. A papíralapú adathordozó elektronikus fájllal is helyettesíthető.
-
-9. cikk
-
-A járművekre vonatkozó különleges rendelkezések
-
-(1) A jóváhagyó hatóság EK-típusjóváhagyást ad ki az alábbiak vonatkozásában:
-
-a) olyan járműtípus, amely az adatközlő mappában szereplő jellemzőkkel rendelkezik és az A/4. mellékletben felsorolt jogi szabályozásokban meghatározott műszaki követelményeknek megfelel;
-
-b) olyan különleges rendeltetésű járműtípus, amely az adatközlő mappában szereplő jellemzőkkel rendelkezik és az A/11. mellékletben felsorolt jogi szabályozásokban meghatározott műszaki követelményeknek megfelel;
-
-Az A/5. mellékletben meghatározott eljárásokat alkalmazni kell.
-
-(2) A jóváhagyó hatóság többlépcsős típusjóváhagyást ad ki az olyan nem teljes vagy befejezett járműre, amely az adatközlő mappában szereplő jellemzőkkel rendelkezik és amely, gyártási állapotától függően, megfelel az A/4. vagy az A/11. mellékletben felsorolt műszaki követelményeknek.
-
-A többlépcsős típusjóváhagyás alkalmazandó a más gyártó által átalakított vagy módosított teljes járművekre is.
-
-Az A/17. mellékletben meghatározott eljárásokat alkalmazni kell.
-
-(3) A jóváhagyó hatóság minden egyes járműtípus esetében:
-
-a) az A/8. mellékletben meghatározott mintának megfelelően tölti ki az EK-típusbizonyítvány megfelelő szakaszait, beleértve a csatolt vizsgálati eredménylapot is;
-
-b) összeállítja vagy ellenőrzi az információs csomag tartalomjegyzékét;
-
-c) a kitöltött bizonyítványt és annak mellékleteit késedelem nélkül kiadja a kérelmezőnek.
-
-(4) Az olyan EK-típusjóváhagyás esetében, amelynek érvényességét korlátozták vagy amellyel kapcsolatban a jogi szabályozások bizonyos rendelkezései alól felmentést adtak a 20. vagy a 22. cikkel vagy az A/11. melléklettel összhangban, az EK-típusbizonyítványban fel kell tüntetni e korlátozásokat vagy felmentéseket.
-
-(5) Amennyiben az adatközlő mappa különleges rendeltetésű járművekre vonatkozóan az A/11. mellékletben megadott rendelkezéseket határoz meg, az EK-típusbizonyítványban fel kell tüntetni ezeket a rendelkezéseket.
-
-(6) Amennyiben a gyártó a vegyes típus-jóváhagyási eljárást választja, a jóváhagyó hatóság az adatközlő lap – amelynek mintája az A/3. mellékletben található – III. részében feltünteti a jogi szabályozásokban meghatározott azon vizsgálati jegyzőkönyvekre vonatkozó hivatkozásokat, amelyek tekintetében nem áll rendelkezésre EK-típusbizonyítvány.
-
-(7) Amennyiben a gyártó az egylépéses típus-jóváhagyási eljárást választja, a jóváhagyó hatóság létrehozza az alkalmazandó jogi szabályozások jegyzékét, amelynek formanyomtatványa az A/6. melléklet függelékében talál-ható és az EK-típusbizonyítványhoz csatolja.
-
-10. cikk
-
-A rendszerekre, alkatrészekre vagy önálló műszaki egységekre vonatkozó
-
-különleges rendelkezések
-
-(1) A jóváhagyó hatóság EK-típusjóváhagyást ad azon rendszer tekintetében, amely az adatközlő mappa adatainak megfelel és amely az A/4. vagy az A/11. melléklet előírása szerint a vonatkozó külön függelékben vagy rendeletben meghatározott műszaki követelményeket teljesíti.
-
-(2) A jóváhagyó hatóság alkatrész vagy önálló műszaki egység EK-típusjóváhagyást ad azon alkatrészek és önálló műszaki egységek tekintetében, amelyek az adatközlő mappa adatainak megfelelnek és amelyek az A/4. melléklet előírása szerint a vonatkozó külön függelékben vagy rendeletben meghatározott műszaki követelményeket teljesítik.
-
-(3) Ha az alkatrészekre vagy az önálló műszaki egységekre – függetlenül attól, hogy javításra, szervizelésre vagy karbantartásra szánják-e azokat – a jármű rendszer-típusjóváhagyása is vonatkozik, nincs szükség kiegészítő, az alkatrészre vagy az önálló műszaki egységre vonatkozó típusjóváhagyásra, kivéve ha a vonatkozó jogi szabályozás előírja azt.
-
-(4) Ha az alkatrész vagy az önálló műszaki egység csak a jármű más részeivel együtt tölti be funkcióját vagy mutatkoznak meg különleges jellemzői és ezáltal a követelmények betartásának ellenőrzése csak akkor lehetséges, amikor az alkatrész vagy az önálló műszaki egység az említett többi járműrésszel kapcsolatban működik, akkor az alkatrész vagy önálló műszaki egység EK-típusjóváhagyásának hatályát ennek megfelelően korlátozni kell. Ezekben az esetekben az EK-típusbizonyítvány meghatározza a felhasználására vonatkozó esetleges korlátozást és megjelöli a beszerelésére vonatkozó különleges feltételeket. Ha az ilyen alkatrészt vagy önálló műszaki egységet a járműgyártó szerelte be, akkor a felhasználásra vonatkozó alkalmazandó korlátozások vagy a beszerelésre vonatkozó feltételek betartását a jármű jóváhagyásának időpontjában kell ellenőrizni.
-
-11. cikk
-
-Az EK-típusjóváhagyáshoz szükséges vizsgálatok
-
-(1) Az ezen függelékben és az A/4. mellékletben felsorolt jogi szabályozásokban meghatározott műszaki előírások betartását a kijelölt vizsgáló intézmények által végzett megfelelő vizsgálatok révén kell igazolni.
-
-(2) A szükséges vizsgálatokat olyan járműveken, alkatrészeken és önálló műszaki egységeken kell elvégezni, amelyek megfelelnek a jóváhagyandó típusnak.
-
-A gyártó azonban – a jóváhagyó hatósággal egyetértésben – olyan járművet, rendszert, alkatrészt vagy önálló műszaki egységet is választhat, amely bár nem felel meg a jóváhagyandó típusnak, de a teljesítmények szükséges szintje tekintetében számos nagyon kedvezőtlen jellemzőt kombinál. A döntéshozatal támogatása érdekében a kiválasztási eljárás során virtuális vizsgálati módszereket lehet alkalmazni.
-
-(3) Az (1) bekezdésben említett vizsgálati eljárások helyett a jóváhagyó hatóság hozzájárulásával, a gyártó kérésére virtuális vizsgálati módszereket lehet alkalmazni, tekintettel az A/16. mellékletben felsorolt jogi szabályozásokra.
-
-(4) A virtuális vizsgálati módszerekre vonatkozó általános feltételeket az A/16. melléklet 1. függeléke tartalmazza.
-
-Az A/16. mellékletben felsorolt jogi szabályozások mindegyikére vonatkozó különleges vizsgálati feltételeket és azok kapcsolódó eljárási szabályait az A/16. melléklet 2. függeléke határozza meg.
-
-12. cikk
-
-A gyártás megfelelőségével kapcsolatos intézkedések
-
-(1) Az EK-típusjóváhagyást kiadó jóváhagyó hatóság – szükség esetén a többi tagállam jóváhagyó hatóságaival együttműködve –megteszi a szükséges intézkedéseket az A/10. számú. melléklet szerint és megvizsgálja, hogy megfelelő lépéseket tettek-e annak biztosítására, hogy a járművek, rendszerek, alkatrészek vagy önálló műszaki egységek gyártása – az esettől függően – megfeleljen a jóváhagyott típusnak.
-
-(2) Az EK-típusjóváhagyást kiadó jóváhagyó hatóság e jóváhagyás tekintetében – szükség esetén a többi tagállam jóváhagyó hatóságaival együttműködve –megteszi a szükséges ellenőrző intézkedéseket az A/10. számú. melléklet szerint annak biztosítására, hogy az (1) bekezdésben említett intézkedések megfelelőek maradjanak és a járművek, rendszerek, alkat-részek vagy önálló műszaki egységek gyártása – az esettől függően – továbbra is megfeleljen a jóváhagyott típusnak.
-
-A termékek jóváhagyott típussal való megegyezőségének igazolása az A/10. számú. mellékletben, valamint az egyedi követelményeket tartalmazó említett jogi szabályozásokban foglalt eljárásokra korlátozódik. E célból az EK-típusjóváhagyást megadó tagállam jóváhagyó hatósága a gyártó telephelyén – beleértve a gyártólétesítményeket is – vett mintákon elvégezhet bármilyen, az A/4. vagy az A/11. számú. mellékletben felsorolt jogi szabályozásokban előírt ellenőrzést vagy vizsgálatot.
-
-(3) Ha a jóváhagyó hatóság megállapítja, hogy az (1) bekezdésben említett intézkedéseket nem alkalmazzák vagy jelentősen eltérnek a közösen megállapodott intézkedésektől és ellenőrzési tervektől vagy amelyeknek alkalmazása annak ellenére megszűnt, hogy a gyártás folytatódik, akkor meg kell tennie a szükséges intézkedéseket – beleértve a típusjóváhagyás visszavonását is – annak biztosítása érdekében, hogy pontosan betartsák a gyártás-megfelelőségi eljárást.
-
-V. FEJEZET
-
-AZ EK-TÍPUSJÓVÁHAGYÁSOK MÓDOSÍTÁSAI
-
-13. cikk
-
-Általános rendelkezések
-
-(1) A gyártó késedelem nélkül köteles tájékoztatni az EK-típusjóváhagyást megadó jóváhagyó hatóságot az információs csomagban rögzített adatok minden változásáról. Az említett jóváhagyó hatóság az e fejezetben meghatározott szabályoknak megfelelően eldönti, hogy melyik eljárást kell követni. Adott esetben a jóváhagyó hatóság a gyártóval konzultálva eldöntheti, hogy szükség van-e új EK-típusjóváhagyás megadására.
-
-(2) Az EK-típusjóváhagyás módosítási kérelmét kizárólag ahhoz a jóváhagyó hatósághoz lehet benyújtani, amely az eredeti EK-típusjóváhagyást megadta.
-
-(3) Amennyiben ez a jóváhagyó hatóság megállapítja, hogy a módosításhoz új ellenőrzésekre vagy új vizsgálatokra van szükség, akkor ennek megfele-lően tájékoztatja a gyártót. A 14. és 15. cikkben említett eljárások csak a szükséges új ellenőrzések és új vizsgálatok sikeres elvégzése után kerülnek alkalmazásra.
-
-14. cikk
-
-A járművekre vonatkozó különleges rendelkezések
-
-(1) Az információs csomagban rögzített információk megváltoztatása esetén a módosítást „felülvizsgálat”-nak kell nevezni.
-
-Ilyen esetben a jóváhagyó hatóság – amennyiben szükséges – kiadja az információs csomag felülvizsgált oldalait, amelyen egyértelműen feltüntetik a változás jellegét és az új kiadás keltét. Az információs csomag egységes szerkezetbe foglalt, frissített változatát – a változtatások részletes leírásával kiegészítve olyannak kell tekinteni, mint amely megfelel e követelménynek.
-
-(2) A felülvizsgálatot „kiterjesztés”-nek kell nevezni, ha az (1) bekezdés rendelkezésein kívül:
-
-a) további ellenőrzésekre vagy új vizsgálatokra van szükség;
-
-b) az EK-típusbizonyítványban (kivéve annak mellékleteit) szereplő bármely információ megváltozott;
-
-c) a jogi szabályozások értelmében a jóváhagyott járműtípusra vonat-kozóan új követelmények lépnek életbe.
-
-Ilyen esetekben a jóváhagyó hatóság kiterjesztési számmal jelölt felülvizsgált EK-típusbizonyítványt ad ki, amelynek kiterjesztési száma az eddig megadott, egymást követő kiterjesztések számának megfelelően növekszik.
-
-A jóváhagyási bizonyítványból a kiterjesztés oka és az új kiadás kelte világosan ki kell, hogy derüljön.
-
-(3) Módosított oldalak vagy egységes szerkezetbe foglalt, naprakész változat kiadása esetén az információs csomag tartalomjegyzékét, amely mellékletként a jóváhagyási bizonyítványhoz van csatolva, úgy kell módosítani, hogy abból a legutolsó kiterjesztés vagy felülvizsgálat kelte, illetve a naprakész változat legutolsó egységes szerkezetbe foglalásának kelte kiderüljön.
-
-(4) Nincs szükség a járműtípus jóváhagyásának módosítására, amennyiben a (2) bekezdés c) pontjában említett új követelmények műszaki szempontból lényegtelenek az említett járműtípus tekintetében vagy más járműkategóriákat érintenek, mint amely kategóriához a járműtípus tartozik.
-
-15. cikk
-
-A rendszerekre, alkatrészekre vagy önálló műszaki egységekre vonatkozó
-
-különleges rendelkezések
-
-(1) Az információs csomagban rögzített információk megváltoztatása esetén a módosítást „felülvizsgálat”-nak kell nevezni.
-
-Ilyen esetekben a jóváhagyó hatóság – amennyiben szükséges – kiadja az információs csomag felülvizsgált oldalait, amelyeken egyértelműen feltüntetik a változás jellegét és az új kiadás keltét. Az információs csomag egy-séges szerkezetbe foglalt, naprakész változatát – a változtatások részletes leírásával kiegészítve – olyannak kell tekinteni, mint amely megfelel e követelménynek.
-
-(2) A felülvizsgálatot „kiterjesztés”-nek kell nevezni, ha az (1) bekezdés rendelkezésein kívül:
-
-a) további ellenőrzésekre vagy új vizsgálatokra van szükség;
-
-b) az EK-típusbizonyítványban (kivéve annak mellékleteit) szereplő bármely információ megváltozott;
-
-c) az alkalmazandó jogi szabályozások értelmében a jóváhagyott rendszerre, alkatrészre vagy önálló műszaki egységre vonatkozóan új követelmények lépnek életbe.
-
-A jóváhagyó hatóság kiterjesztési számmal jelölt felülvizsgált EK-típusbizonyítványt ad ki, amelynek kiterjesztési száma az eddig megadott, egymást követő kiterjesztések számának megfelelően növekszik. Azokban az esetekben, amikor a módosítást a (2) bekezdés c) pontjának alkalmazása teszi szükségessé, a jóváhagyási szám harmadik szakaszát naprakésszé kell tenni.
-
-A jóváhagyási bizonyítványból a kiterjesztés oka és az új kiadás kelte világosan ki kell, hogy derüljön.
-
-(3) Módosított oldalak vagy egységes szerkezetbe foglalt, naprakész változat kiadása esetén az információs csomag tartalomjegyzékét, amely mellékletként a jóváhagyási bizonyítványhoz van csatolva, úgy kell módosítani, hogy abból a legutolsó kiterjesztés vagy felülvizsgálat kelte, illetve a naprakész változat legutolsó egységes szerkezetbe foglalásának kelte kiderüljön.
-
-16. cikk
-
-A módosítások kiadása és a módosításokról szóló értesítés
-
-(1) Kiterjesztés esetén a jóváhagyó hatóság naprakésszé teszi az EK-típusbizonyítvány valamennyi vonatkozó rovatát, annak mellékleteit, valamint az információs csomag tartalomjegyzékét. A naprakésszé tett bizonyítványt és annak mellékleteit indokolatlan késedelem nélkül kell kiadni a kérelmezőnek.
-
-(2) Felülvizsgálat esetén a jóváhagyó hatóság a felülvizsgált dokumentumokat vagy az egységes szerkezetbe foglalt, naprakésszé tett változatot – adott esetben az információs csomag felülvizsgált tartalomjegyzékét is beleértve – indokolatlan késedelem nélkül kiadja a kérelmezőnek.
-
-(3) A jóváhagyó hatóság a 8. cikkben említett eljárásoknak megfelelően értesíti a többi tagállam jóváhagyó hatóságait az EK-típusjóváhagyás módosításairól.
-
-[^286]: A 12. mellékletet a 66/2009. (XI. 27.) KHEM rendelet 23. § (4) bekezdése iktatta be.
-[^287]: A 12. melléklet nyitó szövegrésze a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^288]: A 12. melléklet 2.2. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^289]: A 12. melléklet 3. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^290]: A 12. melléklet 4. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^291]: Az A. függeléket és mellékleteit a 11/2000. (V. 24.) KHVM rendelet 11. §-a iktatta be, szövege a 35/2009. (VII. 10.) KHEM rendelet 3. § (2) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 23. § (5) bekezdése, a 27/2010. (III. 31.) KHEM rendelet 7. § (2) bekezdése és 9. § c) pontja, a 25/2010. (XII. 22.) NFM rendelet 2. § (1) bekezdése és 3. § (1) bekezdése, a 62/2011. (XI. 29.) NFM rendelet 14. § (4) bekezdése és 16. §-a szerint módosított szöveg.
-[^292]: Ez a Függelék az Európai Parlament és a Tanács 79/2009/EK és 595/2009/EK rendeletével, továbbá a Bizottság 1060/2008/EK, 385/2009/EK és 371/2010/EU rendeletével, valamint a Bizottság 2010/19/EU irányelvével módosított, az európai parlament és a tanács 2007/46/EK irányelvének megfelelő szabályozást tartalmaz.
+[^299]: A 12. mellékletet a 66/2009. (XI. 27.) KHEM rendelet 23. § (4) bekezdése iktatta be.
+[^300]: A 12. melléklet nyitó szövegrésze a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^301]: A 12. melléklet 2.2. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^302]: A 12. melléklet 3. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^303]: A 12. melléklet 4. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^304]: Az A. függeléket és mellékleteit a 11/2000. (V. 24.) KHVM rendelet 11. §-a iktatta be, szövege a 35/2009. (VII. 10.) KHEM rendelet 3. § (2) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 23. § (5) bekezdése, a 27/2010. (III. 31.) KHEM rendelet 7. § (2) bekezdése és 9. § c) pontja, a 25/2010. (XII. 22.) NFM rendelet 2. § (1) bekezdése és 3. § (1) bekezdése, a 62/2011. (XI. 29.) NFM rendelet 14. § (4) bekezdése és 16. §-a, a 22/2012. (V. 8.) NFM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^305]: Ez a Függelék az Európai Parlament és a Tanács 79/2009/EK és 595/2009/EK rendeletével, továbbá a Bizottság 1060/2008/EK, 385/2009/EK, 371/2010/EU, 183/2011/EU, 407/2011/EU, 582/2011/EU, 678/2011/EU és 65/2012/EU rendeletével, valamint a Bizottság 2010/19/EU irányelvével és a Bizottság 2011/415/EU határozatával módosított, az Európai Parlament és a Tanács 2007/46/EK irányelvének megfelelő szabályozást tartalmaz.
