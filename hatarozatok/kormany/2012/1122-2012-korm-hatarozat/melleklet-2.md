@@ -1,8 +1,8 @@
-|  | Millió forintban |
+| Millió forintban |
 
 | Megnevezés | Zárolási kötelezettség |
 
-| Közigazgatási és Igazságügyi Minisztérium | 4 325,3 |
+| Közigazgatási és Igazságügyi Minisztérium | 3 987,3 |
 
 | Kormányzati Ellenőrzési Hivatal | 14,0 |
 
@@ -10,15 +10,13 @@
 
 | Vidékfejlesztési Minisztérium | 7 808,4 |
 
-| Honvédelmi Minisztérium | 3 163,6 |
-
 | Belügyminisztérium | 5 975,9 |
 
 | Nemzetgazdasági Minisztérium | 1 065,6 |
 
-| Nemzeti Adó- és Vámhivatal | 1 945,1 |
+| Nemzeti Adó és Vámhivatal | 1 945,1 |
 
-| Nemzeti Fejlesztési Minisztérium | 4 579,5 |
+| Nemzeti Fejlesztési Minisztérium | 3 079,5 |
 
 | Külügyminisztérium | 742,4 |
 
@@ -28,13 +26,13 @@
 
 | Központi Statisztikai Hivatal | 181,0 |
 
-| Összesen | 37 395,5 |
+| Összesen | 32 393,9 |
 
-| Helyi önkormányzatok támogatásai és helyben maradó személyi jövedelemadója | 4 000,0 |
+| Helyi önkormányzatok | 4 000,0 |
 
 | Egyes szociális feladatok támogatása | 4 000,0 |
 
-| Az állami vagyonnal kapcsolatos bevételek és kiadások | 3 000,0 |
+| Vagyon fejezet | 3 000,0 |
 
 | Az MNV Zrt. tulajdonosi joggyakorlásával kapcsolatos kifizetések | 500,0 |
 
@@ -46,15 +44,21 @@
 
 | Az MFB Zrt. működésének támogatása | 500,0 |
 
-| Nyugdíjbiztosítási és Egészségbiztosítási Alap | 270,4 |
+| TB alapok | 270,4 |
 
 | Nyugdíjbiztosítási költségvetési szervek | 137,7 |
 
 | Egészségbiztosítási költségvetési szervek | 132,7 |
 
-| Mindösszesen | 44 665,9 |
+| Mindösszesen | 39 664,3 |
 
-2. melléklet az 1122/2012. (IV. 25.) Korm. határozathoz
+|  | Csökkentési kötelezettség |
+
+| Közigazgatási és Igazságügyi Minisztérium | 338,0 |
+
+| Együtt | 40 002,3 |
+
+2. melléklet az 1122/2012. (IV. 25.) Korm. határozathoz[^8]
 
 | Mentesített előirányzatok |
 
@@ -182,18 +186,6 @@
 
 | Fejezeti egyensúlybiztosítási tartalék |
 
-| Honvédelmi Minisztérium |
-
-| Válságkezelő és békeműveletek keretében felajánlott alegységek (NRF és Battle Group) |
-
-| Hozzájárulás a NATO Biztonsági Beruházási Programjához |
-
-| Hozzájárulás a NATO költségvetéséhez |
-
-| Hozzájárulás az EU védelmi célú közös finanszírozású védelmi alapjaihoz |
-
-| Fejezeti egyensúlybiztosítási tartalék |
-
 | Belügyminisztérium |
 
 | Bűncselekmények áldozatainak kárenyhítése |
@@ -266,7 +258,7 @@
 
 | Társadalmi megújulás Operatív Program |
 
-| Társadalmi megújulás Operatív Program - Nemzeti Foglalkoztatási Alap |
+| Társadalmi megújulás Operatív Program – Nemzeti Foglalkoztatási Alap |
 
 | Társadalmi infrastruktúra Operatív Program |
 
@@ -318,7 +310,7 @@
 
 | EGT, Norvég Alap támogatásból megvalósuló projektek |
 
-| EGT, Norvég Alap támogatásból megvalósuló projektek 2009-2014 |
+| EGT, Norvég Alap támogatásból megvalósuló projektek 2009–2014 |
 
 | Állami költségvetési kedvezményezettek sajáterő támogatása |
 
@@ -362,6 +354,6 @@
 
 | Magyar Sport Háza támogatása |
 
-| Megváltozott munkaképességűek foglalkoztatásával összefüggő bértámogatás |
-
 | Megváltozott munkaképességűek foglalkoztatásával összefüggő költségkompenzáció |
+
+[^8]: A 2. melléklet a 1152/2012. (V. 16.) Korm. határozat 3. pont b) alpontjával megállapított szöveg.
