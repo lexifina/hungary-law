@@ -2,7 +2,7 @@
 
 78. § (1) A költségvetési támogatás Áht. 52. § (1) és (2) bekezdése szerinti módjára vonatkozó döntés meghozatala során figyelemmel kell lenni a költségvetési támogatás céljára, a támogatott tevékenység megvalósítási időszakának hosszára, a kedvezményezett saját forrásának mértékére.
 
-(2)[^31] Előfinanszírozás esetén az egyösszegű kifizetésre a záró beszámoló elfogadása előtt kerül sor.
+(2)[^32] Előfinanszírozás esetén az egyösszegű kifizetésre a záró beszámoló elfogadása előtt kerül sor.
 
 (3) Utófinanszírozás esetén az egyösszegű kifizetésre a záró beszámoló elfogadását követően kerülhet sor.
 
@@ -32,4 +32,4 @@ történő kifizetéssel lehetséges.
 
 (11) A központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásokra e § rendelkezéseit akkor kell alkalmazni, ha a 140–142. és 144. § másként nem rendelkezik.
 
-[^31]: Az Ávr. 78. § (2) bekezdése az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^32]: Az Ávr. 78. § (2) bekezdése az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.

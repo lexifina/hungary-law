@@ -6,7 +6,7 @@ a) a természetes személy kedvezményezett részére utófinanszírozással,
 
 b) az előleg igénybevételére nem jogosult és egyösszegű utófinanszírozással,
 
-c) határon túli kedvezményezettnek hétszázötvenezer forint értékhatárt meg nem haladó mértékben külföldre, és
+c)[^31]
 
 d) a támogató irányítása alá tartozó költségvetési szerv részére
 
@@ -19,3 +19,5 @@ biztosított költségvetési támogatás esetén eltekinthet.
 (4) A kikötött biztosíték rendelkezésre állását legkésőbb a költségvetési támogatás első folyósítását megelőzően kell biztosítani. A biztosítéknak a támogatási jogviszony alapján fennálló kötelezettségek megszűnéséig rendelkezésre kell állniuk.
 
 (5) Más fejezetbe tartozó központi költségvetési szerv kedvezményezett esetén a kedvezményezett irányító szervének a 41. § (3) bekezdése szerinti nyilatkozatát a visszafizetés biztosítékának kell tekinteni.
+
+[^31]: Az Ávr. 77. § (1) bekezdés c) pontját a 98/2012. (V. 15.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte, alkalmazására lásd e hatályon kívül helyező rendelet 4. § (2) bekezdését.

@@ -20,6 +20,6 @@ e) tájékoztatást a javaslatban foglaltak elmulasztásának jogkövetkezménye
 
 (3) A felhívás címzettje a felhívásra adott válaszában jogcímenként nyilatkozik adatszolgáltatása módosításáról vagy eredeti adatszolgáltatása fenntartásáról.
 
-(4)[^34] A (3) bekezdés szerinti választ helyi önkormányzat esetén a polgármester és a jegyző, helyi nemzetiségi önkormányzat esetén az elnök és a jegyző, többcélú kistérségi társulás esetén az elnök és az Áht. 27. § (4) bekezdése szerint a többcélú kistérségi társulás gazdálkodási feladatait ellátó költségvetési szerv vezetője írja alá.
+(4)[^35] A (3) bekezdés szerinti választ helyi önkormányzat esetén a polgármester és a jegyző, helyi nemzetiségi önkormányzat esetén az elnök és a jegyző, többcélú kistérségi társulás esetén az elnök és az Áht. 27. § (4) bekezdése szerint a többcélú kistérségi társulás gazdálkodási feladatait ellátó költségvetési szerv vezetője írja alá.
 
-[^34]: Az Ávr. 108. § (4) bekezdése az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^35]: Az Ávr. 108. § (4) bekezdése az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.

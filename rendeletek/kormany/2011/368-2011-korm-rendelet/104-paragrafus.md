@@ -34,7 +34,7 @@ c) a költségvetési támogatások összegét jogcímenként
 
 kell figyelembe venni.
 
-(5)[^33] Ha a visszafizetendő hozzájárulás, támogatás együttes összege, vagy a fizetendő kamatok együttes összege az ezer forintot nem éri el, azt nem kell megfizetni. A Kincstár a pótlólagosan megállapított ezer forint alatti hozzájárulást és támogatást és az ezer forint alatti kamatot nem utalja át.
+(5)[^34] Ha a visszafizetendő hozzájárulás, támogatás együttes összege, vagy a fizetendő kamatok együttes összege az ezer forintot nem éri el, azt nem kell megfizetni. A Kincstár a pótlólagosan megállapított ezer forint alatti hozzájárulást és támogatást és az ezer forint alatti kamatot nem utalja át.
 
 (6) Az Áht. 57. § (6) bekezdése szerinti részletfizetés iránti kérelem az éves költségvetési beszámolóban kimutatott visszafizetési kötelezettségre április 30-ig, a Kincstár felülvizsgálati eljárása során kibocsátott felhívásának elfogadásától, a határozat jogerőre emelkedésétől, illetve a nem határozattal záruló helyszíni ellenőrzés esetén készített jegyzőkönyv átvételétől számított tizenöt napon belül terjeszthető elő. A határidő elmulasztása jogvesztő. A kérelemben igazolni kell, hogy a helyi önkormányzat, helyi nemzetiségi önkormányzat, többcélú kistérségi társulás kötelező feladatainak ellátását az egyösszegű visszafizetés veszélyezteti. A Kincstár a kérelem beérkezését követő harminc napon belül dönt a részletfizetés engedélyezéséről vagy elutasításáról. Részletfizetés engedélyezése esetén a jogtalanul igénybevett összegre vonatkozóan engedélyezett részleteket a visszafizetés napjáig terheli a 105. § (4) bekezdése és 106. § (1) bekezdése szerinti kamat.
 
@@ -50,4 +50,4 @@ d) az elszámolás felülvizsgálatához kapcsolódó fizetési kötelezettség�
 
 követő kilencven napon belül a kötelezett nem teljesítette.
 
-[^33]: Az Ávr. 104. § (5) bekezdése az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^34]: Az Ávr. 104. § (5) bekezdése az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.

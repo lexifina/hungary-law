@@ -4,7 +4,7 @@
 
 (2) Az Áht. 83. § (1) bekezdése szerinti egyéb kötelezettségnek a helyi önkormányzat, helyi nemzetiségi önkormányzat, többcélú kistérségi társulás, továbbá az Egészségbiztosítási Alapból finanszírozott helyi önkormányzati költségvetési szerv által az Igazgatóság részére engedményezett forgótőke, és jogszabály alapján érvényesített más levonási kötelezettség minősül.
 
-(3)[^42] Az Áht. 83. § (1) bekezdése szerinti hozzájárulások, támogatások összegét az e §, valamint a 143. § (2) bekezdése szerinti összegek hozzáadásával és levonásával, továbbá a helyi önkormányzat, helyi nemzetiségi önkormányzat, többcélú kistérségi társulás által folyósított (megelőlegezett) társadalombiztosítási és az e körben folyósítandó családtámogatási ellátások megtérítendő összege hozzáadásával, a 6. melléklet szerinti ütemezésben kell folyósítani. A megyei önkormányzat esetén a helyi önkormányzatokért felelős miniszter ettől – a megyei önkormányzatnak a tárgyhó ötödik napjáig benyújtott kérelmére – eltérést engedélyezhet.
+(3)[^43] Az Áht. 83. § (1) bekezdése szerinti hozzájárulások, támogatások összegét az e §, valamint a 143. § (2) bekezdése szerinti összegek hozzáadásával és levonásával, továbbá a helyi önkormányzat, helyi nemzetiségi önkormányzat, többcélú kistérségi társulás által folyósított (megelőlegezett) társadalombiztosítási és az e körben folyósítandó családtámogatási ellátások megtérítendő összege hozzáadásával, a 6. melléklet szerinti ütemezésben kell folyósítani. A megyei önkormányzat esetén a helyi önkormányzatokért felelős miniszter ettől – a megyei önkormányzatnak a tárgyhó ötödik napjáig benyújtott kérelmére – eltérést engedélyezhet.
 
 (4) A Kincstár az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter egyetértésével kidolgozza a nettó finanszírozás lebonyolításának szabályait és a feladatok időbeni lebonyolítását tartalmazó aktuális űrlap garnitúrát, amelyet folyamatosan frissítve, első esetben tárgyév január 10-éig, majd a módosulásokkal egyidejűleg a honlapján közzétesz.
 
@@ -14,7 +14,7 @@
 
 a) a lemondott normatív hozzájárulás, támogatás időarányos része egy összegben, az adatszolgáltatás határidejét követő második hónapban esedékes nettó finanszírozás során kerül érvényesítésre, és
 
-b)[^43] az adatszolgáltatás határidejét követő második hónapban a többletigény elmaradt időarányos része egy összegben, a fennmaradó rész a 6. mellékletben előírt arányoknak megfelelően kerül utalásra a nettó finanszírozás során.
+b)[^44] az adatszolgáltatás határidejét követő második hónapban a többletigény elmaradt időarányos része egy összegben, a fennmaradó rész a 6. mellékletben előírt arányoknak megfelelően kerül utalásra a nettó finanszírozás során.
 
 (7) A nettó finanszírozás keretében folyósított hozzájárulásokhoz, támogatásokhoz kapcsolódóan a 101. § (4) és (7) bekezdése és a 102. § (1) bekezdése szerinti finanszírozási különbözeteket az alábbiak szerint kell érvényesíteni:
 
@@ -22,7 +22,7 @@ a) a 101. § (4) bekezdés a) pontja és a 101. § (7) bekezdése alapján lemon
 
 b) a 102. § (1) bekezdése alapján lemondott költségvetési támogatás egy összegben, legkésőbb a lemondás kezdeményezését követő második hónapban esedékes nettó finanszírozás keretében során kerül érvényesítésre, és
 
-c)[^44] a pótlólagos igénylés során jelentkező finanszírozási különbözet átutalására a 101. § (4) bekezdés b) és c) pontjában vagy a (8) bekezdésében meghatározott határidők lejártát követő második hónaptól kezdődően a Kincstár a (6) bekezdés b) pontja szerinti módon utalja.
+c)[^45] a pótlólagos igénylés során jelentkező finanszírozási különbözet átutalására a 101. § (4) bekezdés b) és c) pontjában vagy a (8) bekezdésében meghatározott határidők lejártát követő második hónaptól kezdődően a Kincstár a (6) bekezdés b) pontja szerinti módon utalja.
 
 (8) Ha a helyi önkormányzatot, helyi nemzetiségi önkormányzatot, többcélú kistérségi társulást a nettó finanszírozás keretében megillető összeg a lemondással érintett összeg egészére nem nyújt fedezetet, a Kincstár a következő havi nettó finanszírozás során ismét megkísérli a lemondással érintett összeg érvényesítését. Ennek ismételt meghiúsulása esetén a Kincstár az Áht. 57. § (5) bekezdése szerint jár el.
 
@@ -30,6 +30,6 @@ c)[^44] a pótlólagos igénylés során jelentkező finanszírozási különbö
 
 (10) A forgótőke tárgyhavi visszapótlására csak addig a mértékig kerülhet sor, ameddig arra a helyi önkormányzatot, helyi nemzetiségi önkormányzatot, többcélú kistérségi társulást, továbbá az Egészségbiztosítási Alapból nettó módon finanszírozott helyi önkormányzati költségvetési szervet megillető, a nettó finanszírozásnál figyelembe vett hozzájárulások, támogatások (3) bekezdés szerinti levonásokkal – ide nem értve az engedményezett forgótőkét – csökkentett összege fedezetet nyújt.
 
-[^42]: Az Ávr. 140. § (3) bekezdése az 56/2012. (III. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^43]: Az Ávr. 140. § (6) bekezdés b) pontja az 56/2012. (III. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^44]: Az Ávr. 140. § (7) bekezdés c) pontja az 56/2012. (III. 30.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^43]: Az Ávr. 140. § (3) bekezdése az 56/2012. (III. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^44]: Az Ávr. 140. § (6) bekezdés b) pontja az 56/2012. (III. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^45]: Az Ávr. 140. § (7) bekezdés c) pontja az 56/2012. (III. 30.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
