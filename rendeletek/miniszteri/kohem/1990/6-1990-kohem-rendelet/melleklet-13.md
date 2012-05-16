@@ -18,6 +18,6 @@
 
 ## Jelmagyarázat a 10. számú mellékletben.
 
-13. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^276]
+13. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^289]
 
-[^276]: A 13. számú mellékletet a 13/1993. (V.12.) KHVM rendelet 6.§-a iktatta a szövegbe.
+[^289]: A 13. számú mellékletet a 13/1993. (V.12.) KHVM rendelet 6.§-a iktatta a szövegbe.

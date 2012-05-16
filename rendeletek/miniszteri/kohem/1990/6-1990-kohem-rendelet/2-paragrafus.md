@@ -52,23 +52,27 @@ b) úgy alakítottak ki, hogy a kerekesszékben helyet foglaló mozgáskorlátoz
 
 c) az autóbusz utasterének kialakítása és felszereltsége megfelel az A. Függelék A/52. mellékletében meghatározott követelményeknek.
 
-(10)[^10] A rendelet alkalmazásában az ENSZ–EGB előírás: a gépjármű-alkatrészek és -tartozékok minőségének jóváhagyására vonatkozó egyes feltételek elfogadásáról és a minőségi jóváhagyás kölcsönös elismeréséről szóló, Genfben, 1958. március 20-án aláírt többoldalú nemzetközi egyezmény kihirdetéséről szóló 1960. évi 21. törvényerejű rendelettel kihirdetett egyezményhez csatolt előírás.
+(9a)[^10] A rendelet alkalmazásában versenyjármű: a sportról szóló 2004. évi I. törvény szerinti versenyrendszernek megfelelően versenyzési célra használt gépkocsi.
 
-(11)[^11] A rendelet alkalmazásában jóváhagyási jel: a rendelet A., B. és C. Függelékének mellékleteiben, illetőleg az azokkal egyenértékű ENSZ–EGB előírásban meghatározott követelményeknek való megfelelőséget tanúsító jel, amelyet az illetékes hatóság által kiadott jóváhagyó okmány alapján alkalmaznak.
+(9b)[^11] A rendelet alkalmazásában csuklós lassújármű: csuklós szerkezettel állandóan összekapcsolt két vagy több merev részből álló lassújármű, ahol a merev részek szétválasztása csak erre használt eszközökkel lehetséges.
 
-(12)[^12] Ha a rendelet vagy más jogszabály valamely járműtulajdonság, járműalkatrész vagy járműtartozék jóváhagyási jellel való ellátottságát követeli meg, ez azt jelenti, hogy a járműtulajdonságnak, alkatrésznek vagy tartozéknak – az illetékes hatóság jóváhagyó okmányával, illetőleg a jóváhagyó vizsgálat elvégzésére feljogosított szervezet[^13] vizsgálati jelentésével igazoltan – meg kell felelnie a rendelet A., B. vagy C. Függeléke vonatkozó mellékletében foglalt követelményeknek, illetőleg az azokkal egyenértékű ENSZ–EGB előírás alapján alkalmazott jóváhagyási jellel kell rendelkeznie.
+(10)[^12] A rendelet alkalmazásában az ENSZ–EGB előírás: a gépjármű-alkatrészek és -tartozékok minőségének jóváhagyására vonatkozó egyes feltételek elfogadásáról és a minőségi jóváhagyás kölcsönös elismeréséről szóló, Genfben, 1958. március 20-án aláírt többoldalú nemzetközi egyezmény kihirdetéséről szóló 1960. évi 21. törvényerejű rendelettel kihirdetett egyezményhez csatolt előírás.
 
-(13)[^14] A rendelet alkalmazásában érvényes jóváhagyási jel: az a jóváhagyási jel, amelynek az előírás változatára utaló számjele megegyezik az 1. számú mellékletben meghatározott érvényes számjellel.
+(11)[^13] A rendelet alkalmazásában jóváhagyási jel: a rendelet A., B. és C. Függelékének mellékleteiben, illetőleg az azokkal egyenértékű ENSZ–EGB előírásban meghatározott követelményeknek való megfelelőséget tanúsító jel, amelyet az illetékes hatóság által kiadott jóváhagyó okmány alapján alkalmaznak.
 
-(14)[^15] A rendelet alkalmazásában ,,európai típusbizonyítvánnyal ellátott jármű'': az, amelynek típusára vonatkozóan az Európai Gazdasági Térség tagállamának jóváhagyó hatósága a gépjárművek és pótkocsijaik típusjóváhagyására vonatkozó tagállami jogszabályok közelítéséről szóló 70/156/EGK tanácsi irányelvet módosító, a Tanács 92/53/EGK irányelve, illetőleg az ER. A. Függeléke alapján ,,EK típusjóváhagyó okmány''-t adott ki.
+(12)[^14] Ha a rendelet vagy más jogszabály valamely járműtulajdonság, járműalkatrész vagy járműtartozék jóváhagyási jellel való ellátottságát követeli meg, ez azt jelenti, hogy a járműtulajdonságnak, alkatrésznek vagy tartozéknak – az illetékes hatóság jóváhagyó okmányával, illetőleg a jóváhagyó vizsgálat elvégzésére feljogosított szervezet[^15] vizsgálati jelentésével igazoltan – meg kell felelnie a rendelet A., B. vagy C. Függeléke vonatkozó mellékletében foglalt követelményeknek, illetőleg az azokkal egyenértékű ENSZ–EGB előírás alapján alkalmazott jóváhagyási jellel kell rendelkeznie.
 
-(15)[^16] A rendelet alkalmazásában ,,kommunális jármű'': az a gépjármű, amely – műszaki felépítésénél fogva – csak a mentőszolgálatban, a tűzoltószolgálatban, halottszállításra, úttisztításra (közterületek tisztán tartása, locsolása, valamint közutak, repülőterek hó- és síkosságmentesítése, só- és homokszórása), a lakosság vízellátására, a kommunális hulladékszállításra, a villamos- és gázenergia-, távfűtés-, melegvíz-, ivóvíz-, szennyvízhálózatok hibabemérésére, -elhárítására használható.
+(13)[^16] A rendelet alkalmazásában érvényes jóváhagyási jel: az a jóváhagyási jel, amelynek az előírás változatára utaló számjele megegyezik az 1. számú mellékletben meghatározott érvényes számjellel.
 
-(16)[^17] A rendelet alkalmazásában a jóváhagyó hatóság a Nemzeti Közlekedési Hatóság (a továbbiakban: közlekedési hatóság).
+(14)[^17] A rendelet alkalmazásában ,,európai típusbizonyítvánnyal ellátott jármű'': az, amelynek típusára vonatkozóan az Európai Gazdasági Térség tagállamának jóváhagyó hatósága a gépjárművek és pótkocsijaik típusjóváhagyására vonatkozó tagállami jogszabályok közelítéséről szóló 70/156/EGK tanácsi irányelvet módosító, a Tanács 92/53/EGK irányelve, illetőleg az ER. A. Függeléke alapján ,,EK típusjóváhagyó okmány''-t adott ki.
 
-(17)[^18] A rendelet alkalmazásában alacsonynyomású mezőgazdasági gumiabroncs az olyan gumiabroncs, amelynek előírt üzemi nyomását a gyártója legfeljebb 3,0 bar értékben határozta meg, és ezeknek a gumiabroncsoknak a nyomása a jármű legnagyobb össztömegű terhelése esetén sem haladja meg a 3,0 bar-t.
+(15)[^18] A rendelet alkalmazásában ,,kommunális jármű'': az a gépjármű, amely – műszaki felépítésénél fogva – csak a mentőszolgálatban, a tűzoltószolgálatban, halottszállításra, úttisztításra (közterületek tisztán tartása, locsolása, valamint közutak, repülőterek hó- és síkosságmentesítése, só- és homokszórása), a lakosság vízellátására, a kommunális hulladékszállításra, a villamos- és gázenergia-, távfűtés-, melegvíz-, ivóvíz-, szennyvízhálózatok hibabemérésére, -elhárítására használható.
 
-(18)[^19] A rendelet alkalmazásában mezőgazdasági pótkocsi a mezőgazdasági vontató vagy traktor által vontatott pótkocsi, továbbá a lassú jármű által vontatott olyan pótkocsi, amellyel rendszeresen mezőgazdasági termények szállítását végzik.
+(16)[^19] A rendelet alkalmazásában a jóváhagyó hatóság a Nemzeti Közlekedési Hatóság (a továbbiakban: közlekedési hatóság).
+
+(17)[^20] A rendelet alkalmazásában alacsonynyomású mezőgazdasági gumiabroncs az olyan gumiabroncs, amelynek előírt üzemi nyomását a gyártója legfeljebb 3,0 bar értékben határozta meg, és ezeknek a gumiabroncsoknak a nyomása a jármű legnagyobb össztömegű terhelése esetén sem haladja meg a 3,0 bar-t.
+
+(18)[^21] A rendelet alkalmazásában mezőgazdasági pótkocsi a mezőgazdasági vontató vagy traktor által vontatott pótkocsi, továbbá a lassú jármű által vontatott olyan pótkocsi, amellyel rendszeresen mezőgazdasági termények szállítását végzik.
 
 [^4]: A 2. § (1) bekezdése a 12/2000. (V. 24.) KHVM rendelet 1.§-ának (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § (3) bekezdése a 40/2002. (XII. 28.) GKM rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -76,13 +80,15 @@ c) az autóbusz utasterének kialakítása és felszereltsége megfelel az A. F�
 [^7]: A 2. § (5) bekezdését a 12/1994. (III. 11.) KHVM rendelet 1. §-a iktatta be, szövege a 19/2009. (IV. 16.) KHEM rendelet 1. §-ával megállapított szöveg.
 [^8]: A 2. § (6)–(11) bekezdését a 21/1995. (XII. 15.) KHVM rendelet 6. §-a iktatta a szövegbe.
 [^9]: A 2. § új (9) bekezdését a 44/2001. (XII. 28.) KöViM rendelet 1. §-a iktatta be, egyidejűleg az eredeti (9)–(12) bekezdés számozását (10)–(13) bekezdésre változtatva.
-[^10]: A 2. § eredeti (9) bekezdésének számozását a 44/2001. (XII. 28.) KöViM rendelet 1. §-a (10) bekezdésre változtatta.
-[^11]: A 2. § (10) bekezdése a 12/2000. (V. 24.) KHVM rendelet 1.§-ának (2) bekezdésével megállapított szöveg, számozását (11) bekezdésre változtatta a 44/2001. (XII. 18.) KöViM rendelet 1. §-a.
-[^12]: A 2. § (11) bekezdését a 12/2000. (V. 24.) KHVM rendelet 1.§-ának (3) bekezdése állapította meg, mely egyidejűleg (12) bekezdést is iktatott be. A (11) bekezdés számozását (12) bekezdésre változtatta a 44/2001. (XII. 18.) KöViM rendelet 1. §-a; a (12) bekezdés a 40/2002. (XII. 28.) GKM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^13]: Lásd a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 21. § (3) és (6) bekezdését.
-[^14]: A 2. § eredeti (12) bekezdésének számozását a 44/2001. (XII. 28.) KöViM rendelet 1. §-a (13) bekezdésre változtatta.
-[^15]: A 2. § (14) bekezdését a 35/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be.
-[^16]: A 2. § (15) bekezdését a 35/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be.
-[^17]: A 2. § (16) bekezdését a 67/2009. (XI. 27.) KHEM rendelet 1. §-a iktatta be.
-[^18]: A 2. § (17) bekezdését a 26/2010. (XII. 22.) NFM rendelet 1. §-a iktatta be.
-[^19]: A 2. § (18) bekezdését a 26/2010. (XII. 22.) NFM rendelet 1. §-a iktatta be.
+[^10]: A 2. § (9a) bekezdését a 23/2012. (V. 8.) NFM rendelet 1. §-a iktatta be.
+[^11]: A 2. § (9b) bekezdését a 23/2012. (V. 8.) NFM rendelet 1. §-a iktatta be.
+[^12]: A 2. § eredeti (9) bekezdésének számozását a 44/2001. (XII. 28.) KöViM rendelet 1. §-a (10) bekezdésre változtatta.
+[^13]: A 2. § (10) bekezdése a 12/2000. (V. 24.) KHVM rendelet 1.§-ának (2) bekezdésével megállapított szöveg, számozását (11) bekezdésre változtatta a 44/2001. (XII. 18.) KöViM rendelet 1. §-a.
+[^14]: A 2. § (11) bekezdését a 12/2000. (V. 24.) KHVM rendelet 1.§-ának (3) bekezdése állapította meg, mely egyidejűleg (12) bekezdést is iktatott be. A (11) bekezdés számozását (12) bekezdésre változtatta a 44/2001. (XII. 18.) KöViM rendelet 1. §-a; a (12) bekezdés a 40/2002. (XII. 28.) GKM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^15]: Lásd a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 21. § (3) és (6) bekezdését.
+[^16]: A 2. § eredeti (12) bekezdésének számozását a 44/2001. (XII. 28.) KöViM rendelet 1. §-a (13) bekezdésre változtatta.
+[^17]: A 2. § (14) bekezdését a 35/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be.
+[^18]: A 2. § (15) bekezdését a 35/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be.
+[^19]: A 2. § (16) bekezdését a 67/2009. (XI. 27.) KHEM rendelet 1. §-a iktatta be.
+[^20]: A 2. § (17) bekezdését a 26/2010. (XII. 22.) NFM rendelet 1. §-a iktatta be.
+[^21]: A 2. § (18) bekezdését a 26/2010. (XII. 22.) NFM rendelet 1. §-a iktatta be.

@@ -60,7 +60,7 @@
 
 ## A rendelet bizonyos járműfajtákra meghatározhat olyan követelményeket, melyek szintén a Függelékek mellékleteiben találhatók.
 
-## Az M1 gépkocsi kategória jóváhagyási kötelezettségei az 1. számú táblázatnak a rendelet A. függelékéhez tartozó soraiban egybevágnak e kategória már bevezetett európai típusbizonyítványának tartalmi követelményeivel. Külön oszlop mutatja az egyéb kategóriák típusjóváhagyási eljárásában alkalmazandó hazai jóváhagyási kötelezettségeket. Egyedi jóváhagyási eljárásban nincs kategória szerinti megkülönböztetés.
+## Az M1 gépkocsi kategória jóváhagyási kötelezettségei az 1. számú táblázatnak a rendelet A. függelékéhez tartozó soraiban egybevágnak e kategória már bevezetett európai típusbizonyítványának tartalmi követelményeivel. Külön oszlop mutatja az egyéb kategóriák típusjóváhagyási és egyedi jóváhagyási eljárásában alkalmazandó hazai jóváhagyási kötelezettségeket.
 
 ## 7. Azt, hogy az adott műszaki területen feltüntetett egy vagy több előírás járműtulajdonságra, alkatrészre, önálló műszaki egységre, annak beépítésére vagy pótalkatrészre (illetve adott esetben többre ezek közül) vonatkozik-e, az illető előírás tartalmazza. Teljes jármű jóváhagyása minden esetben magában foglalja a beépítést is, amennyiben erre az alternatív előírások bármelyike külön rendelkezés(eke)t tartalmaz, viszont értelemszerűen nem foglal magában pótalkatrészekre vonatkozó előírásokat.
 
@@ -76,35 +76,31 @@
 
 | MR | EK (EGK) | ENSZ–EGB | Műszaki terület | A | B |
 
-| függelék/ melléklet (műszaki terület sorszáma) | alap- irányelv [rendelet] | utolsó módosító irányelv [rendelet] | előírás | módosítási sorozat | Alkalmazási kötelezettség(1) |
+| függelék/ melléklet (műszaki terület sor- száma) | alap- irányelv [rendelet] | utolsó módosító irányelv [rendelet] | előírás | módosítási sorozat | Alkalmazási kötelezettség(1) |
 
-| típus- jóváhagyási eljárásban M1/N1 kategória | típus- jóváhagyási eljárásban M2, M3, N2, N3, O kategória | egyedi engedé- lyezési eljárásban |
+| típus- jóváhagyási eljárásban M1/N1 kategória | típus- jóváhagyási eljárásban M2, M3, N2, N3, O kategória | egyedi engedé- lyezési eljárásban M2,M3,N2,N3,O kategória7 |
 
 | A/1. | 70/157 | 2007/34 | 51 | 02 | Zajszint és kipufogó berendezések | + | + | K |
 
 | 59 | 00 | Pótalkatrész kipufogó berendezés | + | – |  |
 
-| A/2 | 70/220 715/2007 692/2008 | 2003/76 2006/96 566/2011 | 83 83 | 05 06 | Károsanyag-kibocsátás | + | + | K(5) |
+| A/2. | 70/220 715/2007 692/2008 | 2006/69 – | 83 83 | 05 06 | Károsanyag-kibocsátás | + | + | K(5) |
 
-| A/3. | 70/221 | 2006/20 | 34 | 02 | Tüzelőanyag-tartály és | + | + | C(2) |
+| A/2a. | 715/2007 692/2008 | 566/2011 | 83 | 06 | Károsanyag-kibocsátás | + | + | K(5) |
 
-| 58 | 01 | aláfutásgátló |
+| A/3. | 70/221 | 2006/20 | 58 | 01 | Tüzelőanyag-tartály és aláfutásgátló | + | + | C(2) |
 
-| A/4. | 70/222 1003/2010 |  | – | – | Hátsó rendszámtábla elhelyezése | + | + | – |
+| A/4. | 70/222 | – | – | – | Hátsó rendszámtábla elhelyezése | + | + | – |
 
-| A/5. | 70/311 | 1999/7 | 79 | 01 | Kormányberendezés | + | + | C |
+| A/5. | 70/311 | 99/7 | 79 | 01 | Kormányberendezés | + | + | C |
 
-| A/6. | 70/387 | 2001/31 | 11 | 02 | Ajtózárak és zsanérok | + | + | – |
+| A/6. | 70/387 | 2001/31 130/2012 | 11 | 02 | Ajtózárak és zsanérok | + | + | – |
 
 | A/7. | 70/388 | 87/354 | 28 | 00 | Hangjelző berendezések | + | + | K |
 
-| A/8. | 2003/97 | 2005/27 | 46 | 02 | Visszapillantó tükrök | + | + | K |
+| A/8. | 71/127 | 2005/27 | 46 | 02 | Visszapillantó tükrök | + | + | K |
 
-| A/9. | 71/320 | 2002/78 | 13 | 10 | Fékezési tulajdonságok | + | + | K |
-
-| 13 | 11 | + | + | K |
-
-| 13 | H | + |  | K |
+| A/9. | 71/320 | 2002/78 | 13 | 09 | Fékezési tulajdonságok | + | + | K |
 
 | 90 | 01 | Pótalkatrész-fékbetét | + | + |  |
 
@@ -116,11 +112,7 @@
 
 | A/13. | 74/61 | 95/56 | 18 | 03 | Illetéktelen használat elleni védelem | + | + | – |
 
-| 116 | 00 |
-
 | 97 | 01 | Riasztóberendezések |  |  |  |
-
-| 116 | 00 |
 
 | A/14. | 74/297 | 91/662 | 12 | 03 | Belső szerelvények kialakítása (kormánynak ütközés) | + | – | – |
 
@@ -128,13 +120,13 @@
 
 | A/16. | 74/483 | 2007/15 | 26 | 03 | Kinyúló részek | + | – | – |
 
-| A/17. | 75/443 | 97/39 | 39 | 00 | Sebességmérő és hátramenet | + | + | K |
+| A/17. | 75/443 | 97/39 130/2012 | 39 | 00 | Sebességmérő és hátramenet | + | + | K |
 
-| A/18. | 76/114 19/2011 |  | – | – | Gyári tábla | + | + | C |
+| A/18. | 76/114 | 78/507 | – | – | Gyári tábla | + | + | C |
 
 | A/19. | 76/115 | 2005/41 | 14 | 06 | Biztonsági öv bekötése | + | + | – |
 
-| A/20. | 76/756 | 2008/89 | 48 | 04 | Világítóberendezések | + | + | K (6) |
+| A/20. | 76/756 | 2009/89 | 48 | 04 | Világítóberendezések | + | + | K(6) |
 
 | A/21. | 76/757 | 97/29 | 3 | 02 | Fényvisszaverők | + | + | K |
 
@@ -144,7 +136,7 @@
 
 | 91 | 00 | Méretjelző |  |  |  |
 
-| A/23. | 76/759 | 1999/15 | 6 | 01 | Irányjelző | + | + | K |
+| A/23. | 76/759 | 99/15 | 6 | 01 | Irányjelző | + | + | K |
 
 | A/24. | 76/760 | 97/31 | 4 | 00 | Hátsó rendszámtábla megvilágítása | + | + | – |
 
@@ -164,49 +156,45 @@
 
 | 99 | 00 | Gázkisüléses fényforrások |  |  |  |
 
-| 112 | 00 | Fényszórók (aszimmetrikus tompított fénysugár) |
+| A/26. | 76/762 | 99/18 | 19 | 02 | Első ködfényszórók | + | + | K |
 
-| 123 | 00 | Alkalmazkodó elülső világítási rendszerek |
+| A/27. | 77/389 | 96/64 | – | – | Elvontató berendezés | + | + | – |
 
-| A/26. | 76/762 | 1999/18 | 19 | 02 | Első ködfényszórók | + | + | K |
-
-| A/27. | 77/389 1005/2010 | 96/64 | – | – | Elvontató berendezés | + | + | – |
-
-| A/28. | 77/538 | 1999/14 | 38 | 00 | Hátsó ködfényszórók | + | + | K |
+| A/28. | 77/538 | 99/14 | 38 | 00 | Hátsó ködfényszórók | + | + | K |
 
 | A/29. | 77/539 | 97/32 | 23 | 00 | Hátrameneti (tolató-) lámpák | + | + | K |
 
-| A/30. | 77/540 | 1999/16 | 77 | 00 | Parkolólámpa | + | + | K |
+| A/30. | 77/540 | 99/16 | 77 | 00 | Parkoló lámpa | + | + | K |
 
 | A/31. | 77/541 | 2005/40 | 16 | 04 | Biztonsági övek és utasbiztonsági rendszerek | + | + | K |
 
-| A/32. | 77/649 | 90/630 | 125 | 00 | Látómező | + | – | – |
+| A/32. | 77/649 | 90/630 | – | – | Látómező | + | – | – |
 
-| A/33. | 78/316 | 94/53 | 121 | 00 | Működtető berendezések megjelölése, ellenőrző lámpák | + | + | – |
+| A/33. | 78/316 | 94/53 | – | – | Működtető berendezések megjelölése, ellenőrző lámpák | + | + | – |
 
-| A/34. | 78/317 672/2010 |  | – | – | Jég- és páramentesítő rendszerek | + | – | – |
+| A/34. | 78/317 | 672/2010 | – | – | Jég- és páramentesítő rendszerek | + | – | – |
 
-| A/35. | 78/318 1008/2010 |  | – | – | Ablaktörlő-mosó berendezések | + | – | – |
+| A/35. | 78/318 | 94/68 | – | – | Ablaktörlő-mosó berendezések | + | – | – |
 
-| A/36. | 2001/56 | 2006/119 | 122 | 00 | Fűtés | + | + | – |
+| A/36. | 2001/56 | 2004/78 2006/119 |  |  | Fűtés | + | + | – |
 
-| A/37. | 78/549 1009/2010 |  | – | – | Kerékburkolat | + | – | – |
+| A/37. | 78/549 | 94/78 | – | – | Kerékburkolat | + | – | – |
 
-| A/38. | 78/932 | 87/354 | 17 | 07 | Ülés rögzítés | + | – | – |
+| A/38. | 78/932 | 87/354 | 17 | 07 | Ülésrögzítés | + | – | – |
 
 | 25 | 04 | Fejtámasz | + | – | – |
 
-| A/39. | 80/1268 | 2004/3 715/2007 | 101 | 00 | CO2-kibocsátás és tüzelőanyag-fogyasztás | + | – | K |
+| A/39. | 80/1268 | 2004/3 715/2007 | 101 | 00 | CO2-kibocsátás és tüzelőanyag-fogyasztás | + | + | K |
 
-| A/40. | 80/1269 | 1999/99 595/2009 | 85 | 00 | Motorteljesítmény mérés | + | + | – |
+| A/40. | 80/1269 | 1999/99 595/2009 | 85 | 00 | Motorteljesítmény mérés | + | – | – |
 
-| A/41. | 2005/55 | 715/2007 2008/74 595/2009 | 49 | 03 | Dízel-motor emisszió | + | + | K |
+| A/41. | 2005/55 2005/78 | 715/2007 2008/74 595/2009 | 49 | 03 | Dízel-motor emisszió | + | + | K |
 
-| A/41a. | 595/2009 | 582/2011 |  |  | Dízel-motor emisszió (Euro VI), nehéz haszongépjárművek |  | + | K |
+| A/41a. | 595/2009 | 64/2012 |  |  | Dízel-motor emisszió (Euro VI), nehéz haszongépjárművek |  | + | K |
 
 | A/42. | 89/297 |  | 73 | 00 | Oldalvédelem aláesés ellen |  | + | – |
 
-| A/43. | 91/226 | 2010/19 109/2011 2011/415 | – | – | Felcsapódó víz elleni védelem | + | + | – |
+| A/43. | 91/226 | 2010/19 | – | – | Felcsapódó víz elleni védelem | + | + | – |
 
 | A/44. | 92/21 | 95/48 | – | – | Személygépkocsik tömege és méretei | + |  | K |
 
@@ -218,23 +206,17 @@
 
 | 64 | 00 | Ideiglenes pótkerék |  |  |  |
 
-| 117 | 01 | Gördülési zaj |
-
-| A/47. | 92/24 | 2004/11 | 89 | 00 | Sebességkorlátozó készülék és beépítése |  | + | + |
+| A/47. | 92/24 |  | 89 | 00 | Sebességkorlátozó készülék és beépítése |  | + | + |
 
 | A/48. | 97/27 | 2003/19 | – | – | Tömeg, méret az M1-től különböző kategóriákban |  | + | – |
 
-| A/49. | 92/114 |  |  |  | N kategóriájú járművek vezetőfülkéjében kinyúló részek |  | + | – |
+| A/49. | 92/114 |  |  |  | N kategóriájú járművek vezetőfülkéjében kinyúló részek |  | – | – |
 
 | A/50. | 94/20 |  | 55 | 01 | Gépkocsik és pótkocsik kapcsoló-berendezései és felszerelésük | + | + | K |
 
-| 102 | 00 | Rövid vonószerkezetek |
-
 | A/51. | 95/28 |  | 118 | 00 | Beltéri anyagok égési tulajdonságai |  | + | – |
 
-| A/52. | 2001/85 |  | 66 | 02 | A felépítmény szilárdsága (helyi és távolsági autóbuszok) |  | + | K |
-
-| 107 | 02 | Helyi és távolsági autóbuszok |  | + |  |
+| A/52. | 2001/85 |  | 66 | 00 | Autóbuszokra vonatkozó követelmények |  | + | K |
 
 | A/53. | 96/79 | 1999/98 | 94 | 01 | Homlokütközés | + |  | – |
 
@@ -244,17 +226,17 @@
 
 | A/57. | 2000/40 |  | 93 | 01 | Mellső aláfutás elleni védelem |  | + | – |
 
-| A/58. | 78/2009 631/2009 |  | – | – | Gyalogosok védelme | + | – | – |
+| A/58. | 78/2009 631/2009 |  | – | – | Gyalogosok védelme | + | + | – |
 
-| A/59. | 2005/64 | 2009/1 |  |  | Újrafelhasználhatóság, újrahasznosíthatóság, feldolgozhatóság | + | – | – |
+| A/59. | 2005/64 | 2009/1 |  |  | Újrafelhasználhatóság, újrahasznosíthatóság, feldolgozhatóság | + | + | – |
 
-| A/60. |  |  |  |  |  |  |  |  |
+| A/60. | 2005/66 | 2006/368 78/2009 631/2009 |  |  | Elülső védelmi rendszer | + | + | – |
 
-| A/61. | 2006/40 [706/ 2007] |  |  |  | Légkondicionáló rendszer | +(4) | + | – |
+| A/61. | 2006/40 [706/ 2007] |  |  |  | Légkondicionáló rendszer | + | +(4) | – |
 
 | A/62. | 79/2009 406/2010 |  |  |  | Hidrogénüzemű gépjárművek | + | + | – |
 
-| A/63. | 661/2009 | 407/2011 |  |  | Általános biztonság | + | + |  |
+| A/63. | 661/2009 | 407/2011 458/2011 65/2012 |  |  | Általános biztonság | + | + |  |
 
 ## Megjegyzés
 
@@ -272,7 +254,9 @@
 
 ## – a forgalomba helyezés engedélyezésének időpontját hat évvel megelőző időpontban az ENSZ–EGB 83. számú előírás – e rendeletben meghatározott – érvényes változatának.
 
-## (6) Használt gépkocsi egyedi forgalomba helyezési engedélyezési eljárása során a jelzett követelmény, továbbá a világító- és jelzőberendezésekre vonatkozóan a 37–70. §-ban meghatározott üzemeltetési műszaki feltételek teljesítése esetén az A/21–A/30. mellékletekben foglalt követelményeket – további vizsgálat nélkül – teljesítettnek kell tekinteni.
+## (6) Használt gépkocsi egyedi forgalomba helyezési engedélyezési eljárása során a jelzett követelmény, továbbá a világító- és jelzőberendezésekre vonatkozóan a 37–70. §- ban meghatározott üzemeltetési műszaki feltételek teljesítése esetén az A/21–A/30. mellékletekben foglalt követelményeket – további vizsgálat nélkül – teljesítettnek kell tekinteni.
+
+## (7) M1 és N1 kategóriában a követelményeket az ER A. függelék A/4. melléklet 2. kiegészítése tartalmazza.
 
 ## 1/B. táblázat
 
@@ -448,6 +432,6 @@
 
 ## * Az ENSZ-EGB 44.00–44.02 előírás változatok alapján kiadott biztonsági gyermekülés jóváhagyások érvényessége 2008. május 9-én szűnt meg.
 
-2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^265]
+2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^278]
 
-[^265]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.
+[^278]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.
