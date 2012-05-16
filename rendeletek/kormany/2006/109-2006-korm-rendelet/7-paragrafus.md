@@ -1,4 +1,4 @@
-7. §[^13] (1) A vagyonkezelő az ingyenesen ki nem osztott ÜHG-egységeket az általa kidolgozott javaslat alapján, az államháztartásért felelős miniszter egyetértésével értékesíti.
+7. §[^14] (1) A vagyonkezelő az ingyenesen ki nem osztott ÜHG-egységeket az általa kidolgozott javaslat alapján, az államháztartásért felelős miniszter egyetértésével értékesíti.
 
 (2) A vagyonkezelő az ÜHG-egységek értékesítésével kapcsolatos döntési javaslatát:
 
@@ -12,4 +12,4 @@ tekintettel alakítja ki.
 
 (3) Az államháztartásért felelős miniszter a (2) bekezdésben foglalt javaslattal kapcsolatos egyetértését 15 napon belül adja meg. Az államháztartásért felelős miniszter egyetértését megadottnak kell tekinteni, amennyiben a részére megküldött javaslat módosítását a kézbesítéstől számított 15 napon belül nem kezdeményezi.
 
-[^13]: A 7. § a 362/2010. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^14]: A 7. § a 362/2010. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.

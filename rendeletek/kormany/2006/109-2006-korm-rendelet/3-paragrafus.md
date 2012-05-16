@@ -1,4 +1,4 @@
-## 3. §[^3] Az Ávr.-ben foglaltakon túl a vagyonkezelési szerződés – az ÜHG-egység sajátos jellegére tekintettel – tartalmazza különösen:
+## 3. §[^4] Az Ávr.-ben foglaltakon túl a vagyonkezelési szerződés – az ÜHG-egység sajátos jellegére tekintettel – tartalmazza különösen:
 
 a) az adott kereskedési időszak meghatározását;
 
@@ -12,4 +12,4 @@ e) az ÜHG-egységek állami vagyonból történő kikerüléséről szóló tá
 
 f) az Üht. szerint visszaadott ÜHG-egységek törléséig történő kezelését.
 
-[^3]: A 3. § a 362/2010. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^4]: A 3. § a 362/2010. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
