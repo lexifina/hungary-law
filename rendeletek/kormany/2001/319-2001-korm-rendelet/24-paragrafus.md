@@ -1,6 +1,6 @@
 24. § Ez a rendelet 2002. január 1-jén lép hatályba.
 
-Melléklet a 319/2001. (XII. 29.) Korm. rendelethez[^56]
+Melléklet a 319/2001. (XII. 29.) Korm. rendelethez[^57]
 
 A Kormánynak a diákkedvezmények megállapítását végző területi államigazgatási szervei
 
@@ -34,4 +34,4 @@ A Kormánynak a diákkedvezmények megállapítását végző területi államig
 
 | 14 | Bács-Kiskun Megyei Kormányhivatal | Kecskemét | A Szerb Köztársaságban lakóhellyel rendelkező jogosultak |
 
-[^56]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 89. §-ával megállapított szöveg.
+[^57]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 89. §-ával megállapított szöveg.
