@@ -1,3 +1,3 @@
-## 6. §[^3]
+## 6. §[^6]
 
-[^3]: A 6. § a 14. § (2) bekezdése alapján 2012. július 1. napjával lép hatályba.
+[^6]: A 6. § a 14. § (2) bekezdése alapján 2012. július 1. napjával lép hatályba.

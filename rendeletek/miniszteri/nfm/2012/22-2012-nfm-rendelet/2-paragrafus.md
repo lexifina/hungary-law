@@ -1,3 +1,3 @@
-## „i) „versenyjármű”: a sportról szóló 2004. évi I. törvény szerinti versenyrendszernek megfelelően versenyzési célra használt gépkocsi,
+## 1. §[^1]
 
-## j) „csuklós lassújármű”: csuklós szerkezettel állandóan összekapcsolt két vagy több merev részből álló lassújármű, ahol a merev részek szétválasztása csak erre használt eszközökkel lehetséges.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

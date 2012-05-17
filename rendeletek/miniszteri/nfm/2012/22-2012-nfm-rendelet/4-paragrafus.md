@@ -1,5 +1,3 @@
-## 3. § Az ER. 9. § (3) bekezdés e) pontja helyébe a következő rendelkezés lép:
+## 3. §[^3]
 
-## [Jármű összeépítéssel történő létrehozása kizárólag az a)–e) pontokban meghatározott esetekben engedélyezhető.]
-
-## „e) az MR. 112/B. és 112/C. §-ban meghatározott feltételeknek megfelelő jármű.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

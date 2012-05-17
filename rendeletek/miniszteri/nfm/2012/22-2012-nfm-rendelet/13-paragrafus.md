@@ -1,1 +1,3 @@
-## 12. § Az ER. 2. § (8) bekezdés első mondatában az „a)–h) pontban” szövegrész helyébe az „a)–j) pontban” szöveg, 4. § (8) bekezdésében a „gazdasági és közlekedési miniszter – a környezetvédelemért felelős miniszterrel együttesen –” szövegrész helyébe a „közlekedésért felelős miniszter – a környezetvédelemért felelős miniszterrel egyetértésben –” szöveg, 12. § (7) bekezdésében a „2. § (3) bekezdésének e), f), g) és h) pontjában” szövegrész helyébe a „2. § (3) bekezdés e), f), g), h) és i) pontjában” szöveg, 13/A. § (2) bekezdésében az „A kérelemhez csatolni kell” szövegrész helyébe az „Az engedély első alkalommal történő kiadására irányuló eljárásban a kérelemhez csatolni kell” szöveg lép.
+## 12. §[^12]
+
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

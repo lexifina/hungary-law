@@ -1,5 +1,3 @@
-## 2. § Az ER. 4/C. §-a a következő (1a) és (1b) bekezdésekkel egészül ki:
+## 2. §[^2]
 
-## „(1a) Az e §-ban foglaltakat kell alkalmazni a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erők és a Magyarország területén felállított nemzetközi katonai parancsnokságok Magyarországon szolgálatot teljesítő állományok tagjai, valamint azok – a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló törvényben meghatározott – hozzátartozói használatában lévő járművekre.
-
-## (1b) Az e §-ban foglaltakat kell alkalmazni a Magyarország területén szolgálati céllal tartózkodó, a diplomáciai vagy a nemzetközi jogon alapuló egyéb kiváltságot és mentességet élvező személyek be- és kiutazása, magyarországi tartózkodása egyes szabályainak megállapításáról szóló rendeletben meghatározott személyek és hozzátartozóik használatában lévő járművekre.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

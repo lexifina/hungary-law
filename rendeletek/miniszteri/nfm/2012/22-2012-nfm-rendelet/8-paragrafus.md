@@ -1,3 +1,3 @@
-## 7. § Az ER. 16. § (9) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^7]
 
-## „(9) Öt évig érvényes sorozat átalakítási engedélyt ad ki a közlekedési hatóság a gépjárműfenntartó szervezet kérelmére az azonos gyártmány- és típuscsaládba tartozó, a változtatással érintett műszaki jellemzői tekintetében megegyező járművek azonos módon történő átalakítására. A sorozat átalakítási engedély alapján, az engedélyben meghatározott technológia megtartásával az átalakítást elvégezheti más – a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendeletben feltételeknek megfelelő – gépjárműfenntartó szervezet is, amennyiben rendelkezik a sorozat átalakítási engedély jogosultja által az átalakítani kívánt járműhöz kiadott hozzájárulással.”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
