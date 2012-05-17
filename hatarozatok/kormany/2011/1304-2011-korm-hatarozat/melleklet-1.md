@@ -60,4 +60,6 @@
 
 ## 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1304/2011. (IX. 2.) Korm. határozathoz
+1. melléklet az 1304/2011. (IX. 2.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet a 1154/2012. (V. 16.) Korm. határozat 1. pontjával megállapított szöveg.
