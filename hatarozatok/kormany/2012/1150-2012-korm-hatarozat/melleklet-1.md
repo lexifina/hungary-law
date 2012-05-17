@@ -14,7 +14,7 @@
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 5. Hatályát veszti a Katasztrófavédelmi Koordinációs Kormánybizottság létrehozásáról, valamint szervezeti és működési rendjének meghatározásáról szóló 1515/2011. (XII. 30.) Korm. határozat.
+## 5.[^1]
 
 1. melléklet az 1150/2012. (V. 15.) Korm. határozathoz
 
@@ -171,3 +171,5 @@ A KKB összehívásának és működésének rendje
 29. A KKB üléseiről emlékeztető készül. Az emlékeztető elkészítéséről és a bizottsági tagok részére – az ülést követő 5 munkanapon belül – történő megküldéséről a KKB adminisztratív feladatait ellátó szervezeti egység gondoskodik.
 
 30. A KKB működésének részletes szabályait a KKB az ügyrendjében állapítja meg.
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
