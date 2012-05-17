@@ -10,7 +10,7 @@
 
 4. Árbevétel: az elismert tevékenységekből származó, hazai és uniós forrásból származó támogatások nélküli bevétel;
 
-5. Beruházás: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvény (a továbbiakban: Törvény) szerinti olyan ráfordítások összessége, amely az elismert tevékenységet szolgálja, és amelynek megvalósulása az ügyfél saját nevére szóló érvényes számlával, teljesítési igazolással, használatbavételi engedéllyel, adásvételi szerződéssel, a mindenkori hatályos vonatkozó, a haszonállatok nyilvántartásának szabályait meghatározó rendeletnek megfelelő nyilvántartással vagy egyéb közokirattal teljes körűen igazolható;
+5.[^1] Beruházás: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvény (a továbbiakban: Törvény) szerinti olyan, az ügyfél által eszközölt, a számvitelről szóló törvény és a személyi jövedelemadóról szóló törvény által befektetett eszközként aktiválhatónak minősített, támogatás nélkül értendő ráfordítások összessége, amely az elismert tevékenységet szolgálja, és amelynek megvalósulása az ügyfél saját nevére szóló érvényes számlával, teljesítési igazolással, használatbavételi engedéllyel, adásvételi szerződéssel, a mindenkori hatályos vonatkozó, a haszonállatok nyilvántartásának szabályait meghatározó rendeletnek megfelelő nyilvántartással vagy egyéb közokirattal teljes körűen igazolható;
 
 6. Beruházási részteljesítés: a beruházás olyan részegysége, amelynek megvalósulása önállóan is elszámolható és az ügyfél saját nevére szóló érvényes számlával, teljesítési igazolással, használatbavételi engedéllyel, adásvételi szerződéssel, a mindenkori hatályos vonatkozó, a haszonállatok nyilvántartásának szabályait meghatározó rendeletnek megfelelő nyilvántartással vagy egyéb közokirattal teljes körűen igazolható;
 
@@ -32,14 +32,18 @@
 
 15. Referencia anyatehén állomány: a húsmarhatartó által tartott azon anyatehenek létszáma, de legalább három egyed, amelyek az ENAR nyilvántartásban szerepeltek 2010. július 1. és 2011. június 30. között és ezen időszak alatt legalább 190 napon keresztül folyamatosan a tartó tenyészetében álltak;
 
-16. Referencia hízottbika állomány: a húsmarhatartó által tartott azon 9 hónapnál idősebb hímivarú szarvasmarha egyedek létszáma, de legalább három egyed, amelyek az ENAR-ban szerepeltek 2010. július 1. és 2011. június 30. között, és ezen időszak alatt legalább két hónapon keresztül folyamatosan a tartó tenyészetében álltak, majd a tenyészetből történő kikerülést követően legfeljebb 30 napon belül vágásra vagy élő állatként Magyarországon kívül értékesítésre (export) kerültek;
+16.[^2] Referencia hízottbika állomány: a húsmarhatartó által tartott azon 9 hónapnál idősebb hímivarú szarvasmarha egyedek létszáma, de legalább három egyed, amelyek az ENAR-ban szerepeltek 2010. július 1. és 2011. június 30. között, és ezen időszak alatt legalább két hónapon keresztül folyamatosan a tartó tenyészetében álltak, majd a tenyészetből történő kikerülést követően legfeljebb 30 napon belül vágóhídon levágtak (továbbiakban: vágás), vagy élő állatként Magyarországon kívül értékesítésre (export) kerültek, és a vágás vagy az export időpontja nem későbbi, mint 2011. július 30. Az állatoknak legkésőbb a vágás vagy az export időpontjában be kell tölteniük a 9 hónapos kort.
 
 17. Szarvasmarha Extenzifikációs Többletjogosultság: az olyan ügyfél referencia anyatehén és hízottbika állománya után megállapított vagyoni értékű jog, akinek vagy amelynek a 2010. évi egységes kérelem alapján jóváhagyott egységes területalapú támogatás (SAPS) alapjául szolgáló területére vetített, a referencia anyatehén, hízottbika és anyajuh állomány alapján számított állatsűrűsége hektáronként nem haladja meg az 1,4 – az egységes területalapú támogatások és egyes vidékfejlesztési támogatások igényléséhez teljesítendő „Helyes Mezőgazdasági és Környezeti Állapot” fenntartásához szükséges feltételrendszer, valamint az állatok állategységre való átváltási arányának meghatározásáról szóló rendelet 2. § b) pontja szerinti – állategységet (a továbbiakban: ÁE);
 
-18. Szakmai továbbképzés: A VM Vidékfejlesztési, Képzési és Szaktanácsadási Intézet (VKSZI) által indított, valamint egyéb akkreditált, az 1. mellékletben szereplő képzés;
+18.[^3] Szakmai továbbképzés: A Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (NAKVI) által indított, a 3. mellékletben meghatározott és tartalmilag részletezett, valamint egyéb, az 1. mellékletben szereplő akkreditált képzés;
 
 19. Szerkezetátalakítási program: a 73/2009/EK tanácsi rendelet 68. cikk (1) bekezdés c) pontja szerinti különleges támogatás mellé rendelt program, amelynek célja, hogy: a húsmarha és juh ágazatokban tevékenykedő gazdálkodók és alkalmazottaik ne szoruljanak ki a helyi gazdasági hálózatokból és az érintett területeken ne csökkenjen a gazdasági aktivitás szintje; az érintett gazdálkodók szabad piaci döntésén alapuló mezőgazdasági vagy vidékfejlesztési tevékenység keretében a korábbi állattartáshoz hasonló értéket képviselő gazdasági tevékenység folytatódjon, ezen térségek foglalkoztatási helyzete tovább ne romoljon; valamint a húsmarha- és juhtenyésztő területeket ne vonják ki a hasznosításból és jó ökológiai állapotban maradjanak;
 
 20. Támogatási időszak: 2012. január 1-jétől 2013. december 31-ig tartó időszak;
 
 21. Tárgyév: az a támogatási időszakon belüli naptári év, amikor a termelő különleges támogatás iránti kérelmet nyújt be.
+
+[^1]: Az 1. § 5. pontja a 48/2012. (V. 16.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 16. pontja a 48/2012. (V. 16.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § 18. pontja a 48/2012. (V. 16.) VM rendelet 10. § (3) bekezdésével megállapított szöveg.
