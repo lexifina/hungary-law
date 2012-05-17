@@ -1,21 +1,3 @@
-## Gazdálkodó neve:
-
-## Ügyfélregiszteri száma: ! ! ! ! ! ! ! ! ! !
-
-## Bejelentés
-
-## a fizikai blokk határainak módosítására
-
-## A kérelmezők az őket érintő fizikai blokkokra vonatkozóan akkor jogosultak bejelentést tenni az MVH felé, ha őket a támogatási eljárás során a blokk-kialakítás miatt érdeksérelem érné. Egy bejelentő lapon csak egy fizikai blokk szerepelhet. A bejelentéshez kötelező az MVH által biztosított aktuális A/3-as blokktérkép melléklése a bejelentés tárgyának egyértelmű rajzi feltüntetésével.
-
-| A fizikai blokk azonosítója: | ! ! ! ! !–!–! ! |
-
-| A bejelentés részletes leírása. A bejelentés tárgyát az MVH által biztosított aktuális A/3-as blokktérképen egyértelműen be kell rajzolni, a rajzra sorszámmal kell hivatkozni. |  |
-
-| Indoklás: miért szükséges a kért változtatás? |  |
-
-## A bejelentést az MVH illetékes megyei hivatalához folyamatosan lehet eljuttatni. A bejelentést az MVH a Földmérési és Távérzékelési Intézet műszaki véleményének figyelembevételével elbírálja. A döntésről a gazdálkodót az MVH az elbírálástól számított 30 napon belül határozattal értesíti. A következő évi kérelmezéshez az évente október 1-jéig benyújtott bejelentésekben foglalt, az MVH által elfogadott változások kerülnek átvezetésre.
-
 2. számú melléklet a 115/2003. (XI. 13.) FVM rendelethez
 
 Igazgatási szolgáltatási díjak

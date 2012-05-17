@@ -1,18 +1,20 @@
 ## A MePAR adattartalma
 
-4. § (1) A MePAR alapvető adatai:
+4. § (1)[^8] A MePAR alapvető adatai:
 
 a) a fizikai blokkok határvonalai;
 
-b)[^4] a fizikai blokkon belül a jogcím szerinti támogatható terület vagy területek határvonalai;
+b) a fizikai blokkon belül a támogatható terület vagy területek határvonalai;
 
-c) a támogatható és nem támogatható területek mértéke;
+c) a fizikai blokkon belül a nem támogatható terület vagy területek határvonalai, valamint az annak, vagy azoknak a részét képező speciális tulajdonságokkal rendelkező terület vagy területek határvonalai;
 
-d) a blokkazonosító;
+d) a támogatható és a nem támogatható területek mértéke;
 
-e) ortofotó vagy nagyon nagy felbontású űrfelvétel.
+e) a blokkazonosító;
 
-(2)[^5] A MePAR további összetevői a tematikus rétegek, valamint a kataszteri fedvény.
+f) ortofotó vagy nagyon nagy felbontású űrfelvétel.
 
-[^4]: A 4. § (1) bekezdésének b) pontja a 36/2009. (IV. 3.) FVM rendelet 22. § (4) bekezdésével megállapított szöveg.
-[^5]: A 4. § (2) bekezdése a 36/2009. (IV. 3.) FVM rendelet 22. § (5) bekezdésével megállapított szöveg.
+(2)[^9] A MePAR további összetevői a tematikus rétegek, valamint a kataszteri fedvény.
+
+[^8]: A 4. § (1) bekezdése a 48/2012. (V. 16.) VM rendelet 3. §-ával megállapított szöveg.
+[^9]: A 4. § (2) bekezdése a 36/2009. (IV. 3.) FVM rendelet 22. § (5) bekezdésével megállapított szöveg.

@@ -2,6 +2,14 @@
 
 8. § (1) A MePAR országos térinformatikai adatbázisát a FÖMI hozza létre és az MVH részére működtetésre átadja. A MePAR tulajdonosi jogait az MVH gyakorolja.
 
-(2) A MePAR működtetésében a FÖMI a következő feladatokkal vesz részt: a 4. § (1) bekezdése szerinti alapvető adatok éves változásvezetése és felújítása, az évenkénti támogatás igényléscsomag részét képező blokktérkép mellékletek minden gazdaságra egyedileg történő előállítása, valamint az MVH által kiválasztott területekre a területalapú támogatási kérelmek táblánkénti, távérzékeléses ellenőrzése és annak dokumentálása. Az átadott feladatok részletezéséről az MVH és a FÖMI delegálási szerződést köt.
+(2)[^19] A MePAR működtetésében a FÖMI – az MVH-val kötött delegálási szerződés alapján – az alábbi feladatokkal vesz részt:
+
+a) a 4. § (1) bekezdése szerinti alapvető adatok és tematikus rétegek fejlesztése és technikai szintű előállítása, változásvezetése, időszakonkénti programszerű felújítása, és minőségbiztosítása;
+
+b) az MVH által kiválasztott területekre a területalapú támogatási kérelmek távérzékeléses ellenőrzése és annak dokumentálása, valamint
+
+c) a MePAR adatainak kezelése, nyilvánosságra hozatala, beleértve a területalapú támogatás kérelmezését támogató analóg és digitális térképi adatok előállítását.
 
 (3) A MePAR országos térinformatikai adatbázis változásvezetésének, felújításának és üzemeltetésének költségeit az MVH delegált feladatok keretében biztosítja. Az MVH viseli a feladata ellátásához szükséges földmérési állami alapadatok külön jogszabály szerinti igazgatási szolgáltatási díját.
+
+[^19]: A 8. § (2) bekezdése a 48/2012. (V. 16.) VM rendelet 7. §-ával megállapított szöveg.
