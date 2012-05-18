@@ -1,1 +1,0 @@
-A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 48. §-a (3) bekezdése b) pontjának 3. alpontjában kapott felhatalmazás alapján – figyelemmel az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. §-ának (4) bekezdésében foglaltakra – a következőket rendelem el:

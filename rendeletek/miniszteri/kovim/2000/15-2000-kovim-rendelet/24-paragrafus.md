@@ -1,1 +1,0 @@
-## 23. § Az engedély szerint több ütemben megvalósuló építmény esetén a forgalomba helyezési engedély az út meghatározott szakaszára és műtárgyára külön-külön is megadható, ha azon a forgalom biztonságosan lebonyolítható.
