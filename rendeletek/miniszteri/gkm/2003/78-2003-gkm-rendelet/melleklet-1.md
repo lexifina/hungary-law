@@ -1,25 +1,25 @@
-1. számú melléklet a 78/2003. (XI. 27.) GKM rendelethez
+1. számú melléklet a 78/2003. (XI. 27.) GKM rendelethez[^21]
 
-## A megfelelőségi tanúsítvány iránti kérelem tartalma
+## A játszótéri eszközök biztonságossági követelményei
 
-1. A gyártó és az importáló vagy a forgalomba hozó neve, címe, telefon- és telefaxszáma, e-mail címe és egyéb azonosítási adatai (adószáma, cégjegyzékszáma stb.).
+1. A játszótéri eszközök méretei és nehézség fokozatai feleljenek meg az előirányzott korcsoportnak.
 
-2. A játszótéri eszköz megnevezése, típusa, cikkszáma vagy a gyártó által adott azonosító megjelölés, amely a játszótéri eszköz, illetve összeállítása egyedi azonosítására szolgál.
+2. A játszótéri eszközöket úgy kell tervezni és elkészíteni, hogy:
 
-3. Ajánlott korcsoport megjelölése.
+2.1. a gyermek számára a játék kockázata nyilvánvaló és előrelátható legyen,
 
-4. A játszótéri eszköz működésének leírása.
+2.2. ne keletkezzenek veszélyes helyzetek (fej, nyak vagy ujjak beszorulása),
 
-5. A játszótéri eszközről készített fotók, rajzok.
+2.3. szerkezeti szilárdsága – beleértve a stabilitást – megfelelő legyen,
 
-6. A játszótéri eszköz tervei: nézeti rajzok, összeállítási rajzok, metszetek, anyag- és alkatrész jegyzékek, anyagminőség, alkatrész és részegység rajzok, statikai számítások olyan részletességgel, hogy a játszótéri eszköz minden részlete ellenőrizhető, biztonságossága megállapítható legyen.
+2.4. a leesés ellen védelmet biztosítson,
 
-7. A gyártásközi ellenőrzések és mindazon intézkedés ismertetése, amellyel a gyártó a termék megfelelőségét elősegítette.
+2.5. az alapozással ne keletkezhessen veszély (kioldódás, ütés),
 
-8. Telepítési előírások. Alapozási tervek, szerelési útmutató.
+2.6. a felnőttek is hozzáférhessenek és az eszközön belül segíthessenek a gyermekeknek.
 
-9. Ellenőrzési és karbantartási útmutató, éves ellenőrzési útmutató.
+3. Játszótéri eszközök gyártásakor csak olyan anyagokat szabad alkalmazni, amelyek az eszközök használói számára egészségkárosodást nem okoznak.
 
-10. Szükség esetén a gyermekeket fenyegető veszélyekre vonatkozó figyelmeztetések.
+4. A játszótéri eszközök védjék meg a gyermekeket olyan veszélyektől, amelyek nem láthatók előre, ha a játszótéri eszközt rendeltetésszerűen vagy ésszerűen előrelátható módon használják.
 
-11. Annak a szabványnak a megjelölése – amennyiben van ilyen –, amelynek a termék megfelel.
+[^21]: Az 1. melléklet a 7/2012. (IV. 18.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.

@@ -1,9 +1,7 @@
-9. § (1)–(2)[^9]
+9. §[^20] (1) Az időszakos ellenőrzési jegyzőkönyv egy példányát a kijelölt szervezet a területileg illetékes fogyasztóvédelmi felügyelőség részére az ellenőrzést követő 15 napon belül köteles megküldeni, egy példányt pedig az üzemeltető részére köteles átadni.
 
-(3) A megfelelőségi tanúsítvánnyal nem rendelkező, megfelelőnek értékelt játszótéri eszközről egyedi megfelelőségi bizonyítványt kell kiadni, amely a 4. számú mellékletben meghatározott adatokat tartalmazza.
+(2) Az üzemeltető köteles 2012. augusztus 31-ig tájékoztatni a területileg illetékes fogyasztóvédelmi felügyelőséget a játszóterek, illetve az azon lévő játszótéri eszközök számáról, valamint azok állapotáról a 6. melléklet szerinti adattartalommal. A nyilvántartási adatlapot a fogyasztóvédelmi hatóság kitölthető és letölthető formátumban honlapján közzéteszi. A nyilvántartási adatlap az ügyfélfogadásra nyitva álló helyiségekben is elérhető.
 
-(4) A balesetveszélyesnek talált játszótéri eszköz további használatát a tulajdonos, illetve az üzemeltető köteles haladéktalanul megakadályozni, és azt elbontani.
+(3) Az üzemeltető a játszótér és játszótéri eszköz létesítését, telepítését és ezek állapotával kapcsolatos változásokat a változást követő 30 napon belül köteles bejelenteni a területileg illetékes fogyasztóvédelmi felügyelőségnek a 6. melléklet szerinti adattartalommal.
 
-(5) A nem megfelelőnek értékelt játszótéri eszközt annak tulajdonosa, illetve üzemeltetője köteles legkésőbb 2008. december 31-ig e rendelet követelményeinek megfelelő állapotúra alakítani.
-
-[^9]: A 9. § (1)–(2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 205. pontja hatályon kívül helyezte.
+[^20]: A 9. § a 7/2012. (IV. 18.) NGM rendelet 5. §-ával megállapított szöveg.

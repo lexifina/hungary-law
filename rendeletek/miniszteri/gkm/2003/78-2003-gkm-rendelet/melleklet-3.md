@@ -1,21 +1,21 @@
-3. számú melléklet a 78/2003. (XI. 27.) GKM rendelethez
+3. számú melléklet a 78/2003. (XI. 27.) GKM rendelethez[^23]
 
-## Az ellenőrzési jegyzőkönyv tartalmi követelményei
+## A megfelelőségi tanúsítvány tartalmi követelményei
 
-1. Az üzemeltető neve, címe.
+1. A kijelölt szervezet neve, címe, valamint a megfelelőségértékelési tevékenység végzésére vonatkozó engedély száma.
 
-2. Az ellenőrzést végző kijelölt szervezet neve, címe, kijelölési okiratának száma.
+2. A gyártó és az importáló vagy a forgalomba hozó neve, címe.
 
-3. Az ellenőrzés helyszíne (a játszótér azonosítása).
+3. A tanúsított játszótéri eszköz megnevezése, típusa, cikkszáma, azonosító megjelölése.
 
-4. Az ellenőrzés időpontja.
+4. A szabványok, előírások vagy egyéb vizsgálati módszerek tételes felsorolása, amelyek alapján a játszótéri eszközt vizsgálták és tanúsították.
 
-5. A játszótéren elhelyezett és ellenőrzött eszközök meghatározása (megnevezés, gyártó, típus, elhelyezés).
+5. Hivatkozás a vizsgálati jegyzőkönyvre, amelynek alapján a tanúsítást végezték.
 
-6. Az egyes játszótéri eszközök és talajaik megfelelőségének értékelése, dokumentálása, nem-megfelelőség esetén annak indokolása, (fotók, rajzok).
+6. Az ajánlott korcsoport.
 
-7. Az értékeléshez használt szabványok, előírások tételes felsorolása.
+7. A tanúsítvány száma, kiadásának kelte és érvényességi ideje.
 
-8. Az ellenőrzési jegyzőkönyv kiadásának kelte.
+8. A tanúsítvány hitelességét igazoló aláírások.
 
-9. Az értékelés hitelességének aláírásokkal történő igazolása.
+[^23]: A 3. melléklet a 7/2012. (IV. 18.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.

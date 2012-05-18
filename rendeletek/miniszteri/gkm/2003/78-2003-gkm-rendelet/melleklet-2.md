@@ -1,22 +1,39 @@
-2. számú melléklet a 78/2003. (XI. 27.) GKM rendelethez
+2. számú melléklet a 78/2003. (XI. 27.) GKM rendelethez[^22]
 
-## A megfelelőségi tanúsítvány tartalmi követelményei
+## A műszaki dokumentáció tartalmi követelményei
 
-1.[^10] A kijelölt szervezet neve, címe, kijelölési okiratának száma.
+1. A játszótéri eszköz megnevezése, típusa, cikkszáma vagy a gyártó által adott azonosító megjelölés, amely a játszótéri eszköz, valamint összeállítása egyedi azonosítására szolgál.
 
-2. A gyártó és az importáló vagy a forgalomba hozó neve, címe.
+2. Ajánlott korcsoport megjelölése.
 
-3. A tanúsított játszótéri eszköz megnevezése.
+3. A játszótéri eszköz működésének leírása.
 
-4. A szabványok, előírások vagy egyéb vizsgálati módszerek tételes felsorolása, amelyek alapján a játszótéri eszközt vizsgálták és tanúsították.
+4. A játszótéri eszközről készített fotók, rajzok.
 
-5. Hivatkozás a vizsgálati jegyzőkönyvre, amelynek alapján a tanúsítást végezték.
+5. A játszótéri eszköz tervei:
 
-6. Az ajánlott korcsoport.
+5.1. nézeti rajzok,
 
-7.[^11] A tanúsítvány kiadásának kelte és hatálya.
+5.2. összeállítási rajzok,
 
-8. A tanúsítvány hitelességét igazoló aláírások.
+5.3. metszetek,
 
-[^10]: A 2. számú melléklet 1. pontja a 16/2010. (IV. 28.) NFGM rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^11]: A 2. számú melléklet 7. pontja a 26/2009. (X. 22.) NFGM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+5.4. anyag- és alkatrész jegyzékek,
+
+5.5. anyagminőség,
+
+5.6. alkatrész és részegység rajzok,
+
+5.7. statikai számítások olyan részletességgel, hogy a játszótéri eszköz minden részlete ellenőrizhető, biztonságossága megállapítható legyen.
+
+6. A gyártásközi ellenőrzések és mindazon intézkedés ismertetése, amellyel a gyártó a termék megfelelőségét elősegítette.
+
+7. Telepítési előírások, alapozási tervek, szerelési útmutató.
+
+8. Használati és kezelési útmutató.
+
+9. Szükség esetén a gyermekeket fenyegető veszélyekre vonatkozó figyelmeztetések.
+
+10. Annak a szabványnak a megjelölése – amennyiben van ilyen –, amelynek a termék megfelel.
+
+[^22]: A 2. melléklet a 7/2012. (IV. 18.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
