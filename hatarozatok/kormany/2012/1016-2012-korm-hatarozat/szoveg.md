@@ -1,10 +1,12 @@
-1. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 23. §-a alapján 2 000 millió forint melléklet szerinti átcsoportosítását rendeli el a Malév Magyar Légiközlekedési Zrt. menetrend szerinti járatainak leállása esetén a légitársaság utasainak nyújtandó állami segítség forrásbiztosítása érdekében a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 1. melléklet, XI. Miniszterelnökség fejezet, 3. Rendkívüli kormányzati intézkedések cím előirányzata terhére, a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 41. A légiutas-szállítás rendkívüli feladatainak ellátása alcím javára, amelyből a Malév Magyar Légiközlekedési Zrt. menetrend szerinti járatainak leállása miatt beálló válsághelyzet kezeléséhez szükséges rendkívüli intézkedésekről szóló 5/2012. (I. 31.) Korm. rendeletben foglaltak szerint lehet kiadást teljesíteni.
+1.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 23. §-a alapján 2000 millió forint melléklet szerinti átcsoportosítását rendeli el a Malév Magyar Légiközlekedési Zrt. menetrend szerinti járatainak leállása esetén a légitársaság utasainak nyújtandó állami segítség forrásbiztosítása érdekében – elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel – a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 1. melléklet, XI. Miniszterelnökség fejezet, 3. Rendkívüli kormányzati intézkedések cím előirányzata terhére, a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 41. A légiutas-szállítás rendkívüli feladatainak ellátása alcím javára, amelyből a Malév Magyar Légiközlekedési Zrt. menetrend szerinti járatainak leállása miatt beálló válsághelyzet kezeléséhez szükséges rendkívüli intézkedésekről szóló 5/2012. (I. 31.) Korm. rendeletben foglaltak szerint lehet kiadást teljesíteni.
 
-Felelős: nemzetgazdasági miniszter,
+Felelős: nemzetgazdasági miniszter
 
 nemzeti fejlesztési miniszter
 
-Határidő: azonnal
+Határidő: átcsoportosításra: azonnal
+
+elszámolásra és a visszafizetési kötelezettség teljesítésére: 2012. június 30.
 
 2. Ez a határozat a közzététele napján 18 órakor lép hatályba.
 
@@ -69,3 +71,5 @@ Költségvetési év: 2012.
 |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | x/ Az összetartozó előirányzat változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: Az 1. pont az 1160/2012. (V. 18.) Korm. határozat 2. pontjával megállapított szöveg.
