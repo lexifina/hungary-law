@@ -1,1 +1,0 @@
-## „18. Szakmai továbbképzés: A Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (NAKVI) által indított, a 3. mellékletben meghatározott és tartalmilag részletezett, valamint egyéb, az 1. mellékletben szereplő akkreditált képzés;”
