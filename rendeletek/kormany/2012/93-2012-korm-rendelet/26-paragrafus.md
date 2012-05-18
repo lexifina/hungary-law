@@ -1,0 +1,1 @@
+## 25. § Ha az engedély nélkül, vagy engedélytől eltérő módon épült közlekedési építmény fennmaradása nem engedélyezhető, vagy a kérelmező az előírt átalakítást a megadott határidőre nem végzi el, a hatóság az eredeti állapot helyreállítását rendelheti el az építtető költségére.
