@@ -1,4 +1,4 @@
-## 31. § Hatályát veszti az utak építésének, forgalomba helyezésének és megszüntetésének engedélyezéséről szóló 15/2000. (XI. 16.) KöViM rendelet.
+## 31. §[^1]
 
 1. melléklet a 93/2012. (V. 10.) Korm. rendelethez
 
@@ -409,3 +409,5 @@ Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 | 8.2.5. | Épületgépészeti, villamos- és biztonságtechnikai terv. |
 
 | 8.2.6. | Időszakos felülvizsgálatra vonatkozó utasítások. |
+
+[^1]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
