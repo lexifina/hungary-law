@@ -2,8 +2,8 @@
 
 ## 24. § Hatályát veszti
 
-a)[^1]
+a)[^2]
 
 b) a gyermekjátékszerek biztonsági követelményeiről, vizsgálatáról és tanúsításáról szóló 24/1998. (IV. 29.) IKIM–NM együttes rendelet 2013. július 20-án.
 
-[^1]: A 24. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 24. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
