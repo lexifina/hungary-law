@@ -6,4 +6,6 @@
 
 (3) Olyan szervezetek esetén, amelyek megfelelnek a vonatkozó harmonizált szabványokban rögzített követelményeknek, úgy kell tekinteni, hogy azok megfelelnek az ezen harmonizált szabványok hatálya alá tartozó, a 6. mellékletben meghatározott követelményeknek.
 
-(4) A 6. mellékletben meghatározott követelmények teljesülését a kijelölésért felelős illetékes miniszter külön jogszabály szerint időszakosan ellenőrzi.
+(4)[^3] A 6. mellékletben meghatározott követelmények teljesülését a kijelölő hatóság külön jogszabály szerint időszakosan ellenőrzi.
+
+[^3]: A 11. § (4) bekezdése a 10/2012. (V. 18.) NGM rendelet 4. § (2) bekezdése szerint módosított szöveg.

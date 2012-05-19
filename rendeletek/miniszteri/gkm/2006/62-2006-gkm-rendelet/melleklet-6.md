@@ -14,7 +14,7 @@
 
 A bejelentésre kerülő szervezetekkel szemben támasztott követelmények
 
-A kijelölésért felelős illetékes miniszter által kijelölt szervezet megfelel az alábbi minimális feltételeknek:
+A kijelölő hatóság által kijelölt szervezet megfelel az alábbi minimális feltételeknek:[^4]
 
 1. Rendelkezik a szükséges személyzettel, eszközökkel és készülékekkel.
 
@@ -25,3 +25,5 @@ A kijelölésért felelős illetékes miniszter által kijelölt szervezet megfe
 4. A személyzet megtartja az üzleti titkot.
 
 5. A szervezet felelősségbiztosítással rendelkezik, kivéve, ha a felelősséget külön jogszabály alapján az állam viseli.
+
+[^4]: A 6. melléklet 1. pontját megelőző szöveg a 10/2012. (V. 18.) NGM rendelet 4. § (2) bekezdése szerint módosított szöveg.

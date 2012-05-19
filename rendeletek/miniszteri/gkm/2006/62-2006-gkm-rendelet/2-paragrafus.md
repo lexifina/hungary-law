@@ -1,6 +1,6 @@
 2. § (1) E rendelet alkalmazásában
 
-a) bejelentett szervezet: e rendeletet kiadó miniszter által külön jogszabály alapján, e rendelet hatálya alá tartozó készülék megfelelőségének értékelésére kijelölt, az Európai Bizottságnak és az Európai Unió többi tagállamnak (a továbbiakban: többi tagállam) bejelentett, és ennek alapján az Európai Unió Hivatalos Lapjában, illetve a Bizottság által hivatalosan a feladata rögzítésével és az azonosító számával együtt közzétett szervezet;
+a)[^2] bejelentett szervezet: a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: kijelölő hatóság) által külön jogszabály alapján, e rendelet hatálya alá tartozó készülék megfelelőségének értékelésére kijelölt, az Európai Bizottságnak és az Európai Unió többi tagállamnak (a továbbiakban: többi tagállam) bejelentett, és ennek alapján az Európai Unió Hivatalos Lapjában, illetve a Bizottság által hivatalosan a feladata rögzítésével és az azonosító számával együtt közzétett szervezet;
 
 b) berendezés: bármilyen készülék vagy helyhez kötött létesítmény;
 
@@ -33,3 +33,5 @@ m) piacfelügyeleti hatóság: a fogyasztóvédelmi hatóság, a hírközlési h
 n) zavartűrés: a berendezés azon képessége, hogy elektromágneses zavar jelenlétében ne romoljon a működőképessége.
 
 (2) Az 1. § (2) bekezdés d) pontja értelmében a rádióamatőrök által saját használatukra, alkatrészkészletekből összeszerelt, valamint a rádióamatőrök által a kereskedelmi forgalomban kapható rádióberendezésekből saját használatukra átalakított rádióberendezés nem tekintendő kereskedelmi forgalomban hozzáférhető rádióberendezésnek.
+
+[^2]: A 2. § (1) bekezdés a) pontja a 10/2012. (V. 18.) NGM rendelet 4. § (1) bekezdése szerint módosított szöveg.
