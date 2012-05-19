@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-18-20-1
 | 2010-01-01 | 2009-18-20-15.1 | 18/2009. (XII. 18.) HM rendelet |
 | 2010-01-02 | 2009-18-20-15.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-01-03 | 2009-18-20-15.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2012-05-19 | 2009-18-20-15.4 | 6/2012. (V. 18.) HM rendelet |

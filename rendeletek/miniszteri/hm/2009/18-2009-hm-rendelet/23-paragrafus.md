@@ -2,7 +2,7 @@
 
 (2) A honvédségi autóbusz akkor minősíthető alkalmasnak, ha
 
-a) a gyártása óta nyolc naptári évnél több nem telt el,
+a)[^9]
 
 b) tartós lassító fékkel (retarder) látták el,
 
@@ -13,3 +13,5 @@ d) felépítménye hibátlan, karosszériája, utastere esztétikailag megfelel�
 e) a megtett út, a sebesség és a gépkocsivezető vezetési idejének legalább 24 órás időtartamra történő rögzítésére alkalmas menetíróval (tachográffal) van felszerelve, és
 
 f) rendelkezik saját számlás utasszállítási igazolvánnyal.
+
+[^9]: A 23. § (2) bekezdés a) pontját a 6/2012. (V. 18.) HM rendelet 7. §-a hatályon kívül helyezte.
