@@ -16,6 +16,6 @@
 
 ## – a készülék kategóriája.
 
-2. számú melléklet a 22/1998. (IV. 17.) IKIM rendelethez[^60]
+2. számú melléklet a 22/1998. (IV. 17.) IKIM rendelethez[^62]
 
-[^60]: A 2. számú mellékletet a 3/1999. (II. 5.) GM rendelet 4. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet jelölését 1. számú mellékletre változtatva. A 2. számú mellékletet a 31/2004. (III. 16.) GKM rendelet 6. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^62]: A 2. számú mellékletet a 3/1999. (II. 5.) GM rendelet 4. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet jelölését 1. számú mellékletre változtatva. A 2. számú mellékletet a 31/2004. (III. 16.) GKM rendelet 6. § (2) bekezdésének a) pontja hatályon kívül helyezte.

@@ -8,9 +8,9 @@
 
 (4)[^11] A (3) bekezdésben említett honosított harmonizált szabványok jegyzékét a Magyar Szabványügyi Testület a hivatalos lapjában közzéteszi.
 
-(5)[^12] Honosított harmonizált szabványok hiányában az alapvető biztonsági és egészségvédelmi követelmények teljesítése szempontjából irányadó nemzeti szabványok jegyzékét a miniszter a Gazdasági és Közlekedési Minisztérium hivatalos lapjában teszi közzé. Az irányadó nemzeti szabványok szövegét a miniszter bejelenti az Európai Bizottságnak.
+(5)[^12] Honosított harmonizált szabványok hiányában az alapvető biztonsági és egészségvédelmi követelmények teljesítése szempontjából irányadó nemzeti szabványok jegyzékét az iparügyekért felelős miniszter (a továbbiakban: miniszter) az általa vezetett minisztérium hivatalos lapjában teszi közzé. Az irányadó nemzeti szabványok szövegét a miniszter bejelenti az Európai Bizottságnak.
 
 [^9]: A 3. § (2) bekezdése a 67/1999. (XII. 15.) GM rendelet 2. §-ával megállapított szöveg.
 [^10]: A 3. § (3) bekezdése a 31/2004. (III. 16.) GKM rendelet 3. §-ával megállapított szöveg.
 [^11]: A 3. § (4) bekezdése a 31/2004. (III. 16.) GKM rendelet 3. §-ával megállapított szöveg.
-[^12]: A 3. § (5) bekezdése a 31/2004. (III. 16.) GKM rendelet 3. §-ával megállapított szöveg.
+[^12]: A 3. § (5) bekezdése a 31/2004. (III. 16.) GKM rendelet 3. §-ával megállapított, a 10/2012. (V. 18.) NGM rendelet 1. § (2) bekezdése szerint módosított szöveg.
