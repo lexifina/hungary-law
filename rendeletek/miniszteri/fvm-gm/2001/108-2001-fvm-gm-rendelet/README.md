@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-108-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-12-29 | 2001-108-20-82.3 | 108/2001. (XII. 23.) FVM–GM együttes rendelet |
+| 2012-05-19 | 2001-108-20-82.4 | 28/2016. (VIII. 23.) NGM rendelet |

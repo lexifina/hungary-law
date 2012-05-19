@@ -14,13 +14,13 @@ Felvonónak minősülnek továbbá az olyan, fülkével rendelkező berendezése
 
 b) Biztonsági berendezés: a 4. számú mellékletben szereplő berendezés, alkatrész vagy részegység.
 
-c)[^2] Biztonsági berendezés gyártója: az a gazdálkodó szervezet [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény – a továbbiakban: Ptk. – 685. § c) pont], illetve külföldi székhelyű vállalkozás magyarországi fióktelepe, amely a biztonsági berendezés tervezéséért, gyártásáért felelős, és jogosult a megfelelőségi nyilatkozat kibocsátására, valamint a megfelelőségi jelölés felhelyezésére. Gyártónak tekintendő az is, aki forgalomba hozatal céljából jelentős, az alapvető követelményeket befolyásoló változtatásokat vagy bővítéseket végez a meglévő berendezéseken, vagy azokból új berendezést állít elő. Import termék esetén e rendeletnek a gyártóra vonatkozó előírásait az importálóra is megfelelően alkalmazni kell.
+c)[^3] Biztonsági berendezés gyártója: az a gazdálkodó szervezet [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény – a továbbiakban: Ptk. – 685. § c) pont], illetve külföldi székhelyű vállalkozás magyarországi fióktelepe, amely a biztonsági berendezés tervezéséért, gyártásáért felelős, és jogosult a megfelelőségi nyilatkozat kibocsátására, valamint a megfelelőségi jelölés felhelyezésére. Gyártónak tekintendő az is, aki forgalomba hozatal céljából jelentős, az alapvető követelményeket befolyásoló változtatásokat vagy bővítéseket végez a meglévő berendezéseken, vagy azokból új berendezést állít elő. Import termék esetén e rendeletnek a gyártóra vonatkozó előírásait az importálóra is megfelelően alkalmazni kell.
 
-d)[^3] Felvonószerelő-vállalkozás: az a gazdálkodó szervezet [Ptk. 685. § c) pont], illetve külföldi székhelyű vállalkozás magyarországi fióktelepe, amely a felvonó tervezéséért, gyártásáért, forgalomba hozataláért, beépítéséért és üzembe helyezéséért felelős, és amely a megfelelőségi nyilatkozatot megteszi és a megfelelőségi jelölést felhelyezi.
+d)[^4] Felvonószerelő-vállalkozás: az a gazdálkodó szervezet [Ptk. 685. § c) pont], illetve külföldi székhelyű vállalkozás magyarországi fióktelepe, amely a felvonó tervezéséért, gyártásáért, forgalomba hozataláért, beépítéséért és üzembe helyezéséért felelős, és amely a megfelelőségi nyilatkozatot megteszi és a megfelelőségi jelölést felhelyezi.
 
-e)[^4] Tanúsító szervezet: a gazdasági és közlekedési miniszter által, a belügyminiszter egyetértésével – külön jogszabály előírásai szerint – a felvonók és a felvonó biztonsági berendezések megfelelőségének értékelésére, a biztonsági berendezés gyártója vagy a felvonószerelő-vállalkozás minőségbiztosítási rendszerének tanúsítására és ellenőrzésére kijelölt, az Európai Bizottságnak és a tagállamoknak a 95/16/EK európai parlamenti és tanácsi irányelv 9. cikke szerint bejelentett szervezet.
+e)[^5] Tanúsító szervezet: a Magyar Kereskedelmi Engedélyezési Hivatal által – külön jogszabály előírásai szerint – a felvonók és a felvonó biztonsági berendezések megfelelőségének értékelésére, a biztonsági berendezés gyártója vagy a felvonószerelő-vállalkozás minőségbiztosítási rendszerének tanúsítására és ellenőrzésére kijelölt, az Európai Bizottságnak és a tagállamoknak a 95/16/EK európai parlamenti és tanácsi irányelv 9. cikke szerint bejelentett szervezet.
 
-f)[^5] Honosított harmonizált európai szabvány: az európai szabványügyi szervezetek által elfogadott, az Európai Unió Hivatalos Lapjában közzétett és magyar nemzeti szabványként közzétételre került harmonizált európai szabvány.
+f)[^6] Honosított harmonizált európai szabvány: az európai szabványügyi szervezetek által elfogadott, az Európai Unió Hivatalos Lapjában közzétett és magyar nemzeti szabványként közzétételre került harmonizált európai szabvány.
 
 g) A felvonó forgalomba hozatala: az a tevékenység, amikor a felvonószerelő-vállalkozás a felvonót először bocsátja a tulajdonos vagy az üzemeltető rendelkezésére.
 
@@ -30,10 +30,10 @@ i) A felvonó típusmintája (a továbbiakban: típusfelvonó): a felvonó típu
 
 j) Típusvizsgálati tanúsítvány: a tanúsító szervezet állítja ki akkor, ha a biztonsági berendezés típusmintája, illetve a típusfelvonó megfelel az e rendeletben előírt biztonsági követelményeknek.
 
-k)[^6] Fülke: a felvonónak az a része, amely emelésnél vagy süllyesztésnél a személyt vagy a terhet tartja.
+k)[^7] Fülke: a felvonónak az a része, amely emelésnél vagy süllyesztésnél a személyt vagy a terhet tartja.
 
-[^2]: A 2. § c) pontja a 12/2004. (IV. 29.) BM–GKM együttes rendelet 1. §-ával megállapított szöveg.
-[^3]: A 2. § d) pontja a 12/2004. (IV. 29.) BM–GKM együttes rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § e) pontja a 12/2004. (IV. 29.) BM–GKM együttes rendelet 1. §-ával megállapított szöveg.
-[^5]: A 2. § f) pontja a 12/2004. (IV. 29.) BM–GKM együttes rendelet 1. §-ával megállapított szöveg.
-[^6]: A 2. § k) pontját a 11/2008. (VIII. 6.) NFGM rendelet 2. §-a iktatta be.
+[^3]: A 2. § c) pontja a 12/2004. (IV. 29.) BM–GKM együttes rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § d) pontja a 12/2004. (IV. 29.) BM–GKM együttes rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § e) pontja a 12/2004. (IV. 29.) BM–GKM együttes rendelet 1. §-ával megállapított, a 10/2012. (V. 18.) NGM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^6]: A 2. § f) pontja a 12/2004. (IV. 29.) BM–GKM együttes rendelet 1. §-ával megállapított szöveg.
+[^7]: A 2. § k) pontját a 11/2008. (VIII. 6.) NFGM rendelet 2. §-a iktatta be.

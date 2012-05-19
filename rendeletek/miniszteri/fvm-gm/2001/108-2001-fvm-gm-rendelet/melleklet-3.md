@@ -26,7 +26,7 @@
 
 ## – a tanúsító szervezet nevét, címét és azonosítási számát, amely a típusazonosság ellenőrzését végrehajtotta a 6. § (1) bek. a) pontja esetében,
 
-## – a termék[^16] ellenőrzésének minőségbiztosítási rendszerét tanúsító szervezet nevét, címét, azonosítási számát a 6. § (1) bek. b) pontja esetében,
+## – a termék[^18] ellenőrzésének minőségbiztosítási rendszerét tanúsító szervezet nevét, címét, azonosítási számát a 6. § (1) bek. b) pontja esetében,
 
 ## – a gyártó által megvalósított teljes körű minőségbiztosítási rendszert tanúsító szervezet nevét, címét, azonosítási számát a 6. § (1) bek. c) pontja esetében,
 
@@ -60,7 +60,7 @@
 
 ## – a felvonószerelő-vállalkozás nevében felelősséget vállaló, felhatalmazott személy természetes személyazonosító adatait és aláírását.
 
-3. számú melléklet a 108/2001. (XII. 23.) FVM–GM együttes rendelethez[^17]
+3. számú melléklet a 108/2001. (XII. 23.) FVM–GM együttes rendelethez[^19]
 
-[^16]: A Magyar Közlöny 2002. évi 20. számában megjelent helyesbítésnek megfelelő szöveg.
-[^17]: A 3. számú melléklet a 12/2004. (IV. 29.) BM–GKM együttes rendelet 6. §-ával megállapított szöveg.
+[^18]: A Magyar Közlöny 2002. évi 20. számában megjelent helyesbítésnek megfelelő szöveg.
+[^19]: A 3. számú melléklet a 12/2004. (IV. 29.) BM–GKM együttes rendelet 6. §-ával megállapított szöveg.

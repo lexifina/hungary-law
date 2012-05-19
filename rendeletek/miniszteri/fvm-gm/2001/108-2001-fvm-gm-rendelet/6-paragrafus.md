@@ -8,7 +8,7 @@ b) a tanúsító szervezethez a biztonsági berendezést vagy ennek típusmintá
 
 c) a tanúsító szervezet által elfogadott teljes körű minőségbiztosítási rendszert működtet a 9. számú melléklet szerint (H modul).
 
-(2)[^8]
+(2)[^9]
 
 (3) A biztonsági berendezés forgalomba hozatala előtt a biztonsági berendezés gyártójának rögzítenie kell a megfelelőségi jelölést mindegyik biztonsági alkatrészre, és ki kell állítania a 2. számú mellékletben meghatározott tartalommal a megfelelőségi nyilatkozatot, figyelembe véve az alkalmazott megfelelőség-értékelési eljárást. A megfelelőségi nyilatkozat a gyártó írásbeli nyilatkozata arról, hogy a felvonó, vagy a biztonsági berendezés adott példánya megfelel a típusvizsgálati tanúsítvány szerinti típusmintának és a jogszabályokban előírt biztonsági előírásoknak.
 
@@ -18,4 +18,4 @@ c) a tanúsító szervezet által elfogadott teljes körű minőségbiztosítás
 
 (6) A biztonsági berendezés kereskedelmi forgalmazója köteles meggyőződni arról, hogy a biztonsági berendezés gyártója a 3. § (2) bekezdésében meghatározott részletes műszaki dokumentációt és a megfelelőségi nyilatkozatot részére átadta, valamint rögzítette a biztonsági berendezésre a megfelelőségi jelölést.
 
-[^8]: A 6. § (2) bekezdését a 12/2004. (IV. 29.) BM–GKM együttes rendelet 7. §-a hatályon kívül helyezte.
+[^9]: A 6. § (2) bekezdését a 12/2004. (IV. 29.) BM–GKM együttes rendelet 7. §-a hatályon kívül helyezte.

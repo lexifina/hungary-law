@@ -8,7 +8,7 @@
 
 ## 1.1. Figyelembe kell venni a gépekre vonatkozó egészségvédelmi és biztonsági követelményeket, különösen a gépek biztonsági követelményeiről és megfelelőségének tanúsításáról szóló 21/1998. (IV. 17.) IKIM rendelet 1. számú melléklet 1.1.2. pontjában előírt alapvető követelményeket. Ezeket minden esetben a felvonókra vonatkozóan is alkalmazni kell.
 
-## 1.2.[^15] Fülke
+## 1.2.[^17] Fülke
 
 ## Minden felvonót fülkével kell kialakítani. A fülkét úgy kell tervezni és gyártani, hogy a felvonószerelő-vállalkozás által megállapított maximális terhelésnek és utasszámnak megfelelő méretű és teherbírású legyen. A személyfelvonó fülkéjét – ha méretei erre alkalmasak – úgy kell kialakítani, hogy tegye lehetővé a fogyatékossággal élő személyek számára is a be- és kiszállást, a felvonó használatát, továbbá lehetséges legyen részükre a használatot megkönnyítő átalakítás vagy segédszerkezetek beépítése.
 
@@ -134,4 +134,4 @@
 
 2. számú melléklet a 108/2001. (XII. 23.) FVM–GM együttes rendelethez
 
-[^15]: Az 1. számú melléklet 1.2. pontja a 11/2008. (VIII. 6.) NFGM rendelet 4. §-ával megállapított szöveg.
+[^17]: Az 1. számú melléklet 1.2. pontja a 11/2008. (VIII. 6.) NFGM rendelet 4. §-ával megállapított szöveg.

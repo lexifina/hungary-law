@@ -8,7 +8,7 @@
 
 ## 1. A típusvizsgálat olyan eljárás, mely során a tanúsító szervezet megvizsgálja és igazolja, hogy a típusminta, valamint ennek a gyártó által előírt beépítése esetén a felvonó megfelel-e az alapvető biztonsági és egészségvédelmi követelményeknek és e rendelet előírásainak.
 
-## 2. A típusvizsgálat lefolytatását a biztonsági berendezés gyártójának, vagy meghatalmazott képviselőjének a 12. §-ban[^18] meghatározott tanúsító szervezettől kell kérnie.
+## 2. A típusvizsgálat lefolytatását a biztonsági berendezés gyártójának, vagy meghatalmazott képviselőjének a 12. §-ban[^20] meghatározott tanúsító szervezettől kell kérnie.
 
 ## A kérelemnek tartalmaznia kell:
 
@@ -142,4 +142,4 @@
 
 6. számú melléklet a 108/2001. (XII. 23.) FVM–GM együttes rendelethez
 
-[^18]: A Magyar Közlöny 2002. évi 20. számában megjelent helyesbítésnek megfelelő szöveg.
+[^20]: A Magyar Közlöny 2002. évi 20. számában megjelent helyesbítésnek megfelelő szöveg.
