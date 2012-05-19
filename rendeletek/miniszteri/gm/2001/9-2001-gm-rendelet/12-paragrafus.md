@@ -1,6 +1,6 @@
 ## Megfelelőségi jelölés
 
-12. § (1)[^18] A megfelelőségi jelölés a ,,CE'' betűket tartalmazza, a 4. számú mellékletben megadott minta szerint. A megfelelőségi jelölés mellett a 6. számú melléklet 3.3. pontjában, vagy a 10. számú melléklet 1. pontjában megadott adatokat kell feltüntetni a berendezésen, vagy olyan adattábláján, amelyet a berendezésről nem lehet eltávolítani.
+12. § (1)[^21] A megfelelőségi jelölés a ,,CE'' betűket tartalmazza, a 4. számú mellékletben megadott minta szerint. A megfelelőségi jelölés mellett a 6. számú melléklet 3.3. pontjában, vagy a 10. számú melléklet 1. pontjában megadott adatokat kell feltüntetni a berendezésen, vagy olyan adattábláján, amelyet a berendezésről nem lehet eltávolítani.
 
 (2) A megfelelőségi jelölés mellett fel kell tüntetni az ellenőrzés egyes szakaszaiba bevont bejelentett szervezet 10. § (3) bekezdés szerinti azonosító számát.
 
@@ -16,4 +16,4 @@ b) a megfelelőségi jelölést nem kell a 4. § (2) bekezdés szerinti rendszer
 
 c) ha a nyomástartó berendezésre vagy rendszerre több olyan – más szempontokat tartalmazó – jogszabály is vonatkozik, amely szerint szintén megfelelőségi jelölés szükséges, a jelölés arra utal, hogy az adott nyomástartó berendezés vagy rendszer minden vonatkozó jogszabály előírásainak megfelel.
 
-[^18]: A 12. § (1) bekezdése a 4/2002. (VI. 21.) GKM rendelet 9. §-ával megállapított szöveg.
+[^21]: A 12. § (1) bekezdése a 4/2002. (VI. 21.) GKM rendelet 9. §-ával megállapított szöveg.

@@ -16,10 +16,10 @@ c) a hivatkozott nyomástartó berendezést és rendszert csak olyan gazdálkod�
 
 d) az üzemeltetői ellenőrző szervezet csak a 8. számú melléklet szerinti A1, C1, F és G modulok szerinti megfelelőség-értékelési eljárásokat használhatja.
 
-(5)[^17] A kijelölő a 14. § szerinti jogszabálynak megfelelően tájékoztatja a Tagállamokat és a Bizottságot az általa kijelölt üzemeltetői ellenőrző szervezeteiről, kijelölt feladataikról, és az üzemeltetői ellenőrző szervezetekhez a (4) bekezdés c) pontja szerint kapcsolódó üzemek jegyzékéről.
+(5)[^20] A kijelölő a 14. § szerinti jogszabálynak megfelelően tájékoztatja a Tagállamokat és a Bizottságot az általa kijelölt üzemeltetői ellenőrző szervezeteiről, kijelölt feladataikról, és az üzemeltetői ellenőrző szervezetekhez a (4) bekezdés c) pontja szerint kapcsolódó üzemek jegyzékéről.
 
 (6) A kijelölő, amely üzemeltetői ellenőrző szervezetet jelöl ki, köteles visszavonni a kijelölést, ha megállapítja, hogy a szervezet már nem felel meg a (2) bekezdésben meghatározott feltételeknek.
 
 A kijelölés visszavonásáról a 14. § (1) bekezdés szerinti jogszabálynak megfelelően haladéktalanul tájékoztatnia kell a Bizottságot és a Tagállamokat.
 
-[^17]: A 11. § (5) bekezdése a 4/2002. (VI. 21.) GKM rendelet 8. §-ával megállapított szöveg.
+[^20]: A 11. § (5) bekezdése a 4/2002. (VI. 21.) GKM rendelet 8. §-ával megállapított szöveg.
