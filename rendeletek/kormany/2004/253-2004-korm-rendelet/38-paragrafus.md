@@ -1,26 +1,20 @@
 ## A fegyverek tartására vonatkozó szabályok
 
-38. § (1)[^96] A lőfegyvert, gáz- és riasztófegyvert tartó személy
+38. § (1)[^97] A lőfegyvert, gáz- és riasztófegyvert tartó személy
 
-a)[^97] lakott területen, közterületen, nyilvános helyen, közforgalmú közlekedési eszközön – az (1a)–(1b) bekezdésben meghatározott kivétellel, illetve jogszabály eltérő rendelkezésének hiányában – vadászlőfegyverét vagy sportlőfegyverét csak ürítve, tokban, sportcélú rövid lőfegyverét üres tárral, a fegyver és a lőszer elkülönített csomagolásával, zárt dobozban vagy egyéb zárt tárolóeszközben szállíthatja, amelynek során köteles megtenni minden szükséges intézkedést annak érdekében, hogy a lőfegyverhez, lőszerhez illetéktelen személy ne férhessen hozzá;
+a)[^98] lakott területen, közterületen, nyilvános helyen, közforgalmú közlekedési eszközön – az (1a)–(1b) bekezdésben meghatározott kivétellel, illetve jogszabály eltérő rendelkezésének hiányában – vadászlőfegyverét vagy sportlőfegyverét csak ürítve, tokban, sportcélú rövid lőfegyverét üres tárral, a fegyver és a lőszer elkülönített csomagolásával, zárt dobozban vagy egyéb zárt tárolóeszközben szállíthatja, amelynek során köteles megtenni minden szükséges intézkedést annak érdekében, hogy a lőfegyverhez, lőszerhez illetéktelen személy ne férhessen hozzá;
 
-b)[^98] lakott területen, közterületen, nyilvános helyen, közforgalmú közlekedési eszközön önvédelemre, személy- és vagyonvédelemre engedélyezett rövid lőfegyverét, viselési engedély esetén gáz- és riasztófegyverét betárazva, a véletlen elsülés ellen biztosítva, – a személy- és vagyonvédelemre engedélyezett rövid lőfegyver kivételével – rejtve viselheti;
+b)[^99] lakott területen, közterületen, nyilvános helyen, közforgalmú közlekedési eszközön önvédelemre, személy- és vagyonvédelemre engedélyezett rövid lőfegyverét, viselési engedély esetén gáz- és riasztófegyverét betárazva, a véletlen elsülés ellen biztosítva, – a személy- és vagyonvédelemre engedélyezett rövid lőfegyver kivételével – rejtve viselheti;
 
-c)[^99] fegyverét nem viselheti és nem használhatja szeszes italtól befolyásolt állapotban, illetve, ha szervezetében kábítószer, illetve pszichotróp anyag van;
+c)[^100] fegyverét nem viselheti és nem használhatja szeszes italtól befolyásolt állapotban, illetve, ha szervezetében kábítószer, illetve pszichotróp anyag van;
 
 d) a fegyverét kizárólag ürített állapotban, olyan helyen tisztíthatja, ahol más személy életét és testi épségét nem veszélyezteti;
 
-e)[^100] a lőfegyver szállításakor, viselésekor és használatakor köteles a lőfegyvertartási engedély meglétét igazoló hatósági igazolványt, illetve gáz- és riasztófegyver viselésekor a fegyvertartási engedély meglétét igazoló hatósági igazolványt magánál tartani;
+e)[^101] a lőfegyver szállításakor, viselésekor és használatakor köteles a lőfegyvertartási engedély meglétét igazoló hatósági igazolványt, illetve gáz- és riasztófegyver viselésekor a fegyvertartási engedély meglétét igazoló hatósági igazolványt magánál tartani;
 
-f)[^101] köteles az engedély kiadására irányuló kérelemben szereplő adatok és a lőfegyvertárolóhely megváltozását nyolc napon belül a lakóhely szerint illetékes rendőrkapitányságnak bejelenteni;
+f)[^102] köteles az engedély kiadására irányuló kérelemben szereplő adatok és a lőfegyvertárolóhely megváltozását nyolc napon belül a lakóhely szerint illetékes rendőrkapitányságnak bejelenteni;
 
-g) köteles lőfegyverét a lőfegyverek és lőszerek vizsgálatára kijelölt szervezetnek bemutatni és a lőfegyver vizsgálatát elvégeztetni
-
-ga) az e rendeletben meghatározott javítást, fődarabcserét követően,
-
-gb)[^102] lőfegyver, színházi fegyver esetében a fegyver vizsgálati tanúsítványában megadott hatályosság lejártakor, de legalább tízévenként,
-
-gc)[^103] a lőfegyverek és lőszerek vizsgálatáról szóló jogszabályban meghatározott egyéb esetekben;
+g)[^103] köteles lőfegyverét, illetve a színházi fegyvert a lőfegyverek és lőszerek vizsgálatára kijelölt szervezetnek bemutatni és a lőfegyver vizsgálatát elvégeztetni az e rendeletben meghatározott javítást, fődarabcserét követően, továbbá a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló miniszteri rendeletben meghatározott esetekben, az ott megállapított időközönként;
 
 h)[^104] köteles a lőfegyver tanúsítványát a lőfegyvertartási engedély meglétét igazoló hatósági igazolványban tartani;
 
@@ -48,14 +42,13 @@ m)[^107] az Ftv. 3. § (1) bekezdés c) pont ca) alpontjában meghatározott eng
 
 (6)[^112] Az elveszett vagy eltulajdonított lőfegyver, illetve tartási engedély körözését a bejelentés helye szerint illetékes rendőrkapitányság rendeli el.
 
-[^96]: A 38. § (1) bekezdés nyitó szövegrésze a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 15. pontja szerint módosított szöveg.
-[^97]: A 38. § (1) bekezdés a) pontja a 39/2012. (III. 12.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^98]: A 38. § (1) bekezdés b) pontja a 247/2009. (XI. 10.) Korm. rendelet 21. § (1) bekezdésével megállapított, a 21/2010. (II. 9.) Korm. rendelet 2. § (3) bekezdése, a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés j) pontja szerint módosított szöveg.
-[^99]: A 38. § (1) bekezdés c) pontja a 39/2012. (III. 12.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
-[^100]: A 38. § (1) bekezdés e) pontja a 247/2009. (XI. 10.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^101]: A 38. § (1) bekezdés f) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (58) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^102]: A 38. § (1) bekezdés gb) alpontja a 247/2009. (XI.10.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^103]: A 38. § (1) bekezdés g) pont gc) alpontja a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^97]: A 38. § (1) bekezdés nyitó szövegrésze a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 15. pontja szerint módosított szöveg.
+[^98]: A 38. § (1) bekezdés a) pontja a 39/2012. (III. 12.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^99]: A 38. § (1) bekezdés b) pontja a 247/2009. (XI. 10.) Korm. rendelet 21. § (1) bekezdésével megállapított, a 21/2010. (II. 9.) Korm. rendelet 2. § (3) bekezdése, a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés j) pontja szerint módosított szöveg.
+[^100]: A 38. § (1) bekezdés c) pontja a 39/2012. (III. 12.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^101]: A 38. § (1) bekezdés e) pontja a 247/2009. (XI. 10.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^102]: A 38. § (1) bekezdés f) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (58) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^103]: A 38. § (1) bekezdés g) pontja a 102/2012. (V. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^104]: A 38. § (1) bekezdés h) pontja a 247/2009. (XI.10.) Korm. rendelet 21. § (4) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^105]: A 38. § (1) bekezdés k) pontja a 247/2009. (XI.10.) Korm. rendelet 21. § (5) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (58) bekezdése, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 16. pontja szerint módosított szöveg.
 [^106]: A 38. § (1) bekezdés l) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése, a 289/2010. (XII. 21.) Korm. rendelet 3. § (58) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
