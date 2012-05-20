@@ -1,3 +1,3 @@
-## 15. §[^21]
+## 15. §[^23]
 
-[^21]: A 15. § a 25. § (2) bekezdése alapján 2012. július 1. napjával lép hatályba.
+[^23]: A 15. § a 25. § (2) bekezdése alapján 2012. július 1. napjával lép hatályba.
