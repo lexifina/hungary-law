@@ -1,4 +1,4 @@
-43. § (1) Az elismerését kérő személyes meghallgatása – ha e törvény kivételt nem tesz – a menekültügyi eljárásban kötelező.
+43. § (1) Az elismerését kérő személyes meghallgatása – ha e törvény kivételt nem tesz – a menekültügyi eljárásban kötelező. A személyes meghallgatásról jegyzőkönyvet kell felvenni.
 
 (2) A menekültügyi hatóság a személyes meghallgatástól eltekinthet, ha az elismerését kérő nincs meghallgatható állapotban.
 

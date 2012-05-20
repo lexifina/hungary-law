@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-80-00-00
 | 2011-10-11 | 2010. évi XL. törvény | 2007-80-00-00.7 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2007-80-00-00.8 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2007-80-00-00.9 |
+| 2012-05-20 | 2012. évi XXVII. törvény | 2007-80-00-00.10 |

@@ -17,3 +17,7 @@ f) a büntetőeljárás során keletkezett adatokat.
 (3) Azokat az indokokat, amelyekre az e törvény hatálya alá tartozó személy elismerés iránti kérelme alátámasztásaként hivatkozott – az (1) bekezdés szerinti adatszolgáltatás során – csak az érintett írásbeli hozzájárulásával lehet közölni.
 
 (4) Az (1) bekezdésben felhatalmazott szervek kivételével külföldi szerv vagy személy részére személyes adat csak az érintett írásbeli hozzájárulása alapján adható át. Az érintettet a felhasználás céljáról előzetesen tájékoztatni kell.
+
+(5) A menekültügyi hatóság az EK letelepedési engedéllyel rendelkező harmadik országbeli állampolgárra vonatkozóan az Európai Unió tagállamának megkeresése alapján harminc napon belül tájékoztatást ad arról, hogy a külföldi Magyarországon menekült vagy oltalmazott jogállással rendelkezik-e.
+
+(6) A menekültügyi hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 34. § (10) bekezdés szerinti megkeresés végrehajtása céljából a menekültkénti vagy oltalmazottkénti elismerés tényéről haladéktalanul értesíti az idegenrendészeti hatóságot.

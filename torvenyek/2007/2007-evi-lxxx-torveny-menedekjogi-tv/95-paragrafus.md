@@ -24,7 +24,11 @@ j) a Tanács 2004/83/EK irányelve (2004. április 29.) a harmadik országok ál
 
 k) a Tanács 2005/85/EK irányelve (2005. december 1.) a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól 3. cikk, 6–12. cikk, 15–28. cikk, 32. cikk, 34. cikk (3) bekezdés a) pont, 35. cikk, 37–39. cikk, e törvény végrehajtási rendeleteivel együttesen;
 
-l) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló a Tanács 2002. június 13-i 1030/2002/EK rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet [22. §, 83. §].
+l) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló a Tanács 2002. június 13-i 1030/2002/EK rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet [22. §, 83. §];
+
+m) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról szóló, 2003. november 25-i 2003/109/EK tanácsi irányelv;
+
+n) az a 2003/109/EK tanácsi irányelv hatályának a nemzetközi védelmet élvező személyekre történő kiterjesztése tekintetében a fenti irányelv módosításáról szóló, 2011. május 11-i 2011/51/EU európai parlamenti és tanácsi irányelv [89. § (5) és (6) bekezdés].
 
 (2) E törvény a következő közösségi jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
 
