@@ -1,28 +1,28 @@
-20. melléklet a 25/2007. (V. 31.) IRM rendelethez[^55]
+20. melléklet a 25/2007. (V. 31.) IRM rendelethez[^56]
 
 Letelepedési kérelem
 
-| A hatóság tölti ki! |  |  | Gépi ügyszám: _________ |  |
+| A hatóság tölti ki! | Gépi ügyszám: ⏐_⏐_⏐_⏐_⏐_⏐_⏐_⏐_⏐_⏐_⏐ |
 
-| Kérelmet átvevő hatóság (kód és név): |  |  |  |
+| Kérelmet átvevő hatóság (kód és név): |  |
 
-| ______ | _______________ |  |  |  |
+|  | ______ | _______________ |  |  |  |
 
-|  | _______________ |  |  |  |
+|  |  | _______________ |  |  |  |
 
-| Kérelem átvételének dátuma: |  |  |  |
+| Kérelem átvételének dátuma: |  | Arcfénykép |  |
 
-|  | ____ év __ hónap __ nap |  | Arcfénykép |  |
+| ____ év __ hónap__ nap |  |  |  |
 
 | Kérelemhez tartozó betétlapok: A: __ db B: __ db C: __ db D: __ db E: __ db F: __ db |  |  |  |
 
-| Az okmány átvételének helye: |  |  |  |
+| Az okmány átvételének helye |  |  |  |
 
-| ⬜ A kérelmező az okmányt a kiállító hatóságnál veszi át. |  |  |  |  |
+| ⬜ A kérelmező az okmányt a kiállító hatóságnál veszi át |  |  |  |
 
-| ⬜ A kérelmező az okmány postai úton történő megküldését kéri. |  |  |  |  |
+| ⬜ A kérelmező az okmány postai úton történő megküldését kéri. |  | [A kérelmező (törvényes képviselő) saját kezű aláírás mintája.] Az aláírásnak teljes terjedelmével a keretvonalon belülre kell |  |
 
-| Kérjük olvashatóan, nyomtatott, latin betűkkel kitölteni! A szülei, házastársa(i), gyermekei, Önnel együtt letelepedni szándékozók és eltartottai vonatkozásában ne felejtse el a megfelelő betétlapot kitölteni! A tájékoztató szerinti iratokat a kérelemhez mellékelni kell! | [A kérelmező (törvényes képviselő) saját kezű aláírás mintája.] Az aláírásnak teljes terjedelmével a keretvonalon belülre kell esni! |
+| Kérjük olvashatóan, nyomtatott, latin betűkkel kitölteni! A szülei, házastársa, gyermeke(i), Önnel együtt letelepedni szándékozók és eltartottai vonatkozásában ne felejtse el a megfelelő betétlapot kitölteni! A tájékoztató szerinti iratokat a kérelemhez mellékelni kell! |  | esni! |  |
 
 | A hatóság tölti ki! |  |
 
@@ -130,6 +130,8 @@ Letelepedési kérelem
 
 |  | ⬜ Diplomata útlevél |
 
+|  | ⬜ Menekült, illetve kiegészítő védelemben részesített számára kiállított útlevél |
+
 |  | ⬜ Egyéb éspedig ________________________ |
 
 | Útlevelének kiállítási helye: |
@@ -155,6 +157,8 @@ Letelepedési kérelem
 | __ | ______________________________ |
 
 | __ | ______________________________ |
+
+| IV/8. Ha menekült/kiegészítő védelemben részesített személy: a státusz fajtája: ………. a státuszt elismerő tagállam neve: …………. a státusz elismerésének ideje: ………………. |
 
 | V. Magyarországi tartózkodására vonatkozó adatok |
 
@@ -192,7 +196,11 @@ Letelepedési kérelem
 
 | V/14. Az engedélyt kiadó hatóság: |
 
-| V/15. A kérelem benyújtása előtti években külföldön töltött napok száma: |
+| V/15. Ha rendelkezik személy azonosító igazolvánnyal, annak száma: V/16.Az okmány kiadásának dátuma: |
+
+| V/17. A személyazonosító igazolvány érvényességi ideje: |
+
+| V/18. A kérelem benyújtása előtti években külföldön töltött napok száma: |
 
 | Év: ____ Napok száma: ___ Év: ____ Napok száma: ___ |  |
 
@@ -204,7 +212,7 @@ Letelepedési kérelem
 
 | ⬜ Családi együttélés biztosítása | (Kérjük töltse ki a VII. kérdéscsoportot!) |
 
-| ⬜ Korábbi magyar állampolgárságra vonatkozó adatok | (Kérjük töltse ki a VIII. kérdéscsoportot!) |
+| ⬜ Korábbi magyar állampolgárságára vonatkozó adatok | (Kérjük töltse ki a VIII. kérdéscsoportot!) |
 
 | ⬜ Felmenője magyar állampolgárságára vonatkozó adatok | (Kérjük töltse ki a IX. kérdéscsoportot!) |
 
@@ -262,7 +270,7 @@ Letelepedési kérelem
 
 | X. Jelenlegi magyarországi tartózkodási helyének adatai |
 
-| X/1. Tartózkodási helyének pontos címe: |  |
+| X/1. Tartózkodási helyének pontos címe: |
 
 | Irányítószám: ____ |  |
 
@@ -284,9 +292,11 @@ Letelepedési kérelem
 
 | ⬜ Haszonélvező | ⬜ Egyéb, éspedig ____________________ |
 
+| X/4. Amennyiben Ön Magyarország által elismert menekült, illetve kiegészítő védelemben részesített személy, jelölje meg magyarországi lakóhelyének a címét: Irányítószám: ____ Település: _________________________ Kerület: __ Közterület neve: ____________________ Közterület jellege (út, utca, tér stb.): ______________ Házszám: __________ Épület: ____ Lépcsőház: ____ Emelet: __ Ajtó: ____ |
+
 | XI. Jövőbeni magyarországi lakóhelyének a címe |
 
-| Irányítószám: ____ |  |
+| Irányítószám: ____ |
 
 | Település: _________________________ | Kerület: __ |
 
@@ -306,7 +316,7 @@ Letelepedési kérelem
 
 | ⬜ Haszonélvező | ⬜ Egyéb, éspedig ____________________ |
 
-| XII/2. Szobák száma: _ + _ 1/2 |  |
+| XII/2. Szobák száma: _ + _ ½ |  |
 
 | XII/3. Lakás alapterülete:____._ m2 |  |
 
@@ -316,7 +326,7 @@ Letelepedési kérelem
 
 | XII/6. Alapterülete: ____._ m2 |  |
 
-| XII/7. Meddig tartózkodhat lakásban: |  |
+| XII/7. Meddig tartózkodhat a lakásban: |  |
 
 | ⬜ Határozatlan ideig |  |
 
@@ -380,17 +390,17 @@ Letelepedési kérelem
 
 |  | _______________ | ___ |
 
-| XIV/11. Számlát vezető pénzintézet neve: | ___________________________________ |
+| XIV/9. Számlát vezető pénzintézet neve: | ___________________________________ |
 
-| XIV/12. Bankszámlaszáma: | ___________________________________ |
+| XIV/10. Bankszámlaszáma: | ___________________________________ |
 
-| XIV/13. A számla felett rendelkezésre jogosult(ak) neve: |
-
-| ___________________________________________________________ |
+| XIV/11. A számla felett rendelkezésre jogosult(ak) neve: |
 
 | ___________________________________________________________ |
 
-| XIV/14. Rendelkezésre álló készpénz összege valutanemenként: |
+| ___________________________________________________________ |
+
+| XIV/12. Rendelkezésre álló készpénz összege valutanemenként: |
 
 |  | _______________ | ___ |
 
@@ -446,11 +456,11 @@ Letelepedési kérelem
 
 | Épület: ____ | Lépcsőház: ____ | Emelet: __ | Ajtó: ____ |
 
-| XVI. Ha megélhetése kereső tevékenységből (munkaviszony vagy munkavégzésre irányuló egyéb jogviszonyból) biztosított |
+| XVI. Ha megélhetése kereső tevékenységből (munkaviszonyból vagy munkavégzésre irányuló egyéb jogviszonyból) biztosított |
 
 | Az elmúlt naptári évben és a folyó évben elért összevont jövedelme: |
 
-| XVI/1. A kérelem benyújtását megelőző évben az adóhatóság (APEH/NAV) igazolása alapján munkavégzésből származó összevont éves nettó jövedelme: ______________ HUF |
+| XVI/1. A kérelem benyújtását megelőző évben az adóhatóság (Nemzeti Adó- és Vámhivatal) igazolása alapján munkavégzésből származó összevont éves nettó jövedelme: ______________ HUF |
 
 | XVI/2. A kérelem benyújtásának évében munkáltatói igazolással (igazolásokkal) igazolt összevont havi nettó jövedelme: ______________ HUF |
 
@@ -460,13 +470,13 @@ Letelepedési kérelem
 
 |  | ___________________________________ |
 
-| XVI/4. Munkáltató székhelye: |  |
+| XVI/4. Munkáltató székhelye: |
 
-| Irányítószám: ____ |  |
+| Irányítószám: ____ |
 
 | Település: _________________________ | Kerület: __ |
 
-| Közterület neve: ____________________ |  |
+| Közterület neve: ____________________ |
 
 | Közterület jellege (út, utca, tér stb.): ______________ |
 
@@ -502,9 +512,9 @@ Letelepedési kérelem
 
 |  | ___________________________________ |
 
-| XVI/12. Munkáltató székhelye: |  |
+| XVI/12. Munkáltató székhelye: |
 
-| Irányítószám: ____ |  |
+| Irányítószám: ____ |
 
 | Település: _________________________ | Kerület: __ |
 
@@ -512,21 +522,21 @@ Letelepedési kérelem
 
 | Közterület jellege (út, utca, tér stb.): ______________ |
 
-| Házszám: __________ |  |
+| Házszám: __________ |
 
 | Épület: ____ | Lépcsőház: ____ | Emelet: __ | Ajtó: ____ |
 
 | XVI/13. Munkavégzés helye, ha a munkavégzés nem változó helyen történik, és a munkavégzés helye nem egyezik meg a munkáltató székhelyével: |
 
-| Irányítószám: ____ |  |
+| Irányítószám: ____ |
 
 | Település: _________________________ | Kerület: __ |
 
-| Közterület neve: ____________________ |  |
+| Közterület neve: ____________________ |
 
 | Közterület jellege (út, utca, tér stb.): ______________ |
 
-| Házszám: __________ |  |
+| Házszám: __________ |
 
 | Épület: ____ | Lépcsőház: ____ | Emelet: __ | Ajtó: ____ |
 
@@ -570,17 +580,17 @@ Letelepedési kérelem
 
 |  | _________________________ |
 
-| XVII/3. A gazdasági társaság/vállalkozás székhelye: |  |
+| XVII/3. A gazdasági társaság/vállalkozás székhelye: |
 
-| Irányítószám: ____ |  |
+| Irányítószám: ____ |
 
 | Település: _________________________ | Kerület: __ |
 
-| Közterület neve: ____________________ |  |
+| Közterület neve: ____________________ |
 
 | Közterület jellege (út, utca, tér stb.): ______________ |
 
-| Házszám: __________ |  |
+| Házszám: __________ |
 
 | Épület: ____ | Lépcsőház: ____ | Emelet: __ | Ajtó: ____ |
 
@@ -616,19 +626,19 @@ Letelepedési kérelem
 
 |  | _________________________ |
 
-| XVIII/6. Székhelye: |  |
+| XVIII/6. Székhelye: |
 
-| Irányítószám: | _________ |
+| Irányítószám: _________ |
 
-| Ország: | ______________________________ |
+| Ország: ______________________________ |
 
-| Település: | ______________________________ |
+| Település: ______________________________ |
 
-| Közterület neve: | ______________________________ |
+| Közterület neve: ______________________________ |
 
-| Házszám: | ___________ |
+| Házszám: ___________ |
 
-| Épület, lépcsőház, emelet, ajtó: | ________________ |
+| Épület, lépcsőház, emelet, ajtó: ________________ |
 
 | XIX. Ha megélhetését Magyarországon élő családtag biztosítja |
 
@@ -668,13 +678,13 @@ Letelepedési kérelem
 
 | XXI/1. Volt-e korábban büntetve? | ⬜ Igen ⬜ Nem |
 
-| XXI/2. Ha volt büntetve, melyik országban, mikor, milyen bűncselekmény miatt, melyik bíróság vagy más hatóság, milyen büntetést, intézkedést róttak ki? |
+| XXI/2. Ha volt büntetve, melyik országban, mikor, milyen bűncselekmény miatt, melyik bíróság vagy más hatóság, milyen büntetést, intézkedést rótt ki? |
 
-| ...................................................................................................................................................................... |
+| .................................................................................................................................................................................. |
 
-| ...................................................................................................................................................................... |
+| .................................................................................................................................................................................. |
 
-| ...................................................................................................................................................................... |
+| .................................................................................................................................................................................. |
 
 | XXI/3. Magyar vagy más külföldi hatóság előtt büntetőeljárás van-e Ön ellen folyamatban? |
 
@@ -682,9 +692,9 @@ Letelepedési kérelem
 
 | XXI/4. Ha igen, milyen hatóság előtt, milyen bűncselekmény miatt? |
 
-| ...................................................................................................................................................................... |
+| .................................................................................................................................................................................. |
 
-| ...................................................................................................................................................................... |
+| .................................................................................................................................................................................. |
 
 | XXI/5. Az előzőeken kívül elmarasztalta-e magyar hatóság más jogszabálysértés - különösen szabálysértés - miatt? |
 
@@ -692,17 +702,17 @@ Letelepedési kérelem
 
 | XXI/6. Ha igen, milyen hatóság, mikor, milyen szabálysértés miatt, milyen szankciót alkalmazott? |
 
-| ...................................................................................................................................................................... |
+| .................................................................................................................................................................................. |
 
-| ...................................................................................................................................................................... |
+| .................................................................................................................................................................................. |
 
-| ...................................................................................................................................................................... |
+| .................................................................................................................................................................................. |
 
-| ...................................................................................................................................................................... |
+| .................................................................................................................................................................................. |
 
-| ...................................................................................................................................................................... |
+| .................................................................................................................................................................................. |
 
-| ...................................................................................................................................................................... |
+| .................................................................................................................................................................................. |
 
 | XXI/7. Kiutasították-e korábban Magyarországról vagy más országból? | ⬜ Igen ⬜ Nem |
 
@@ -758,7 +768,7 @@ Letelepedési kérelem
 
 | ⬜ Igen | ⬜ Nem |
 
-| XXI/26. Amennyiben a fenti megbetegedésekben szenved, fertőzőképes, illetve kórokozó hordozó állapotban van, részesül-e kötelező és rendszeres egészségügyi ellátásban? |
+| XXI/26. Amennyiben a fenti betegségben szenved, fertőzőképes, illetve kórokozó hordozó állapotban van, részesül-e kötelező és rendszeres egészségügyi ellátásban? |
 
 | ⬜ Igen | ⬜ Nem |
 
@@ -782,80 +792,4 @@ Letelepedési kérelem
 
 |  | (a kérelmező aláírása) |
 
-| A hatóság feljegyzései |  |
-
-| (A kérelmet átvevő ügyintéző feljegyzései, tolmács közreműködésének rögzítése, kapcsolódó kérelmek jelzése stb.) | Illetékbélyeg helye |
-
-| A kérelem teljesítése esetén |
-
-| A hatóság tölti ki! |  |
-
-| A letelepedési engedély megadásának indokai: |  |
-
-| A kérelmező letelepedését engedélyezem. |  |
-
-| Kelt: ..................................... | .................................. | .................................... |
-
-|  | javaslattevő ügyintéző | engedélyező vezető |
-
-| A hatóság tölti ki! |  |
-
-| A kiadott letelepedési engedély(ek) száma: | _________ _________ |
-
-| _________ _________ _________ | _________ _________ |
-
-| Okmány(ok) kiállításának dátuma: | ____év __ hónap __ nap |
-
-| Okmányok érvényességének dátuma: | ____év __ hónap __ nap |
-
-| A bevont tartózkodási engedély(ek) száma: | _________ _________ |
-
-| _________ _________ _________ | _________ _________ |
-
-| A kiadott letelepedési engedély(eke)t átvettem. | Kelt: .................................. |
-
-| P. H. |  |
-
-| ..................................... | .................................. |
-
-| ügyintéző aláírása | (a kérelmező aláírása) |
-
-| A kérelem elutasítása esetén |
-
-| A hatóság tölti ki! |  |
-
-| Elutasító határozat száma: _________ | A határozat kelte: ____év __ hónap __ nap |
-
-| Az elutasítás indoka (röviden): |  |
-
-| Kelt: ............................ |  |
-
-| ............................................... | .......................................... |
-
-| javaslattevő ügyintéző | jóváhagyó vezető |
-
-„A” betétlap
-
-A kérelmező külföldi 14 év alatti gyermeke, aki vele együtt kérelmezi a letelepedést
-
-| A hatóság tölti ki! |  |  | Gépi ügyszám: _________ |  |
-
-| Betétlap sorszáma: __ |  |  |  |
-
-| A hatóság tölti ki! |  |  |  |  |
-
-| Gépi ügyszám | _______________ |  |  |  |
-
-| A/1. A gyermek adatai szerepelnek a kérelmező útlevelében? |  |  |  |
-
-| ⬜ Igen | ⬜ Nem |  | Arcfénykép |  |
-
-|  | [A kérelmező (törvényes képviselő) saját kezű aláírás mintája.] Az aláírásnak teljes terjedelmével a keretvonalon belülre kell esni! |
-
-| A gyermek neve |
-
-| A/2. Családi neve: | ______________________________ |
-
-| A/3. Utóneve(i): | ______________________________ |
-
-[^55]: A 20. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (15) bekezdésével megállapított szöveg.
+[^56]: A 20. melléklet a 26/2012. (V. 16.) BM rendelet 1. §-ával megállapított szöveg.

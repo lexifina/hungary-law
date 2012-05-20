@@ -262,6 +262,6 @@
 
 | Az elutasítás indoka (röviden): |
 
-13. melléklet a 25/2007. (V. 31.) IRM rendelethez[^49]
+13. melléklet a 25/2007. (V. 31.) IRM rendelethez[^50]
 
-[^49]: A 13. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^50]: A 13. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (9) bekezdésével megállapított szöveg.

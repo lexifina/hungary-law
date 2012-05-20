@@ -176,6 +176,6 @@
 
 | Az eljáró idegenrendészeti hatóságtól kérheti, hogy az más hatóságtól szerezze be az Ön által megjelölt adatra vonatkozó igazolást. A kérelemnek ez a része a személyes adatai tekintetében adat kezeléséhez, illetve továbbításához való hozzájárulásnak minősül. Ha a szükséges adatokat az eljáró idegenrendészeti hatóság szerzi be, az ehhez szükséges illeték vagy igazgatási szolgáltatási díjfizetési kötelezettségét az idegenrendészeti hatóságnál kell teljesítenie. |
 
-14. melléklet a 25/2007. (V. 31.) IRM rendelethez[^50]
+14. melléklet a 25/2007. (V. 31.) IRM rendelethez[^51]
 
-[^50]: A 14. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (10) bekezdésével megállapított szöveg.
+[^51]: A 14. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (10) bekezdésével megállapított szöveg.
