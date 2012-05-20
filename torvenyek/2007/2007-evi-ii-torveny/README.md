@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-2-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 2007-2-00-00.18 |
 | 2012-01-05 | 2011. évi CCVII. törvény | 2007-2-00-00.19 |
 | 2012-04-15 | 2012. évi XXXI. törvény | 2007-2-00-00.20 |
+| 2012-05-20 | 2012. évi XXVII. törvény | 2007-2-00-00.21 |

@@ -1,4 +1,4 @@
-20/B. § Az Európai Unió tagállama által magas szintű képzettséget igénylő munkavállalás céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár EU Kék Kártyát kaphat, ha
+20/B. § Az Európai Unió tagállama által magas szintű képzettséget igénylő munkavállalás céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár EU kék kártyát kap, ha
 
 a) az EU Kék Kártyát kiállító tagállamban legalább tizennyolc hónapig jogszerűen tartózkodott és
 

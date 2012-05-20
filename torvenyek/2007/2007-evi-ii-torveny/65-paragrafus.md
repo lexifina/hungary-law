@@ -4,7 +4,7 @@
 
 a) szándékosan elkövetett bűncselekmény miatt kiszabott szabadságvesztés büntetésből szabadult;
 
-b) idegenrendészeti őrizet alatt áll;
+b)
 
 c) kiutazásának ellenőrzése a nemzetbiztonság, nemzetközi szerződésben vállalt kötelezettség érvényesítése, illetve a közbiztonság vagy a közrend védelme érdekében szükséges;
 

@@ -15,3 +15,5 @@ d) magyar állampolgár volt, de állampolgársága megszűnt, illetve akinek fe
 (3) Az idegenrendészeti hatóság Magyarország területén történő tartózkodás (2) bekezdésben meghatározottnál hosszabb megszakítása esetén is engedélyezheti a harmadik országbeli állampolgár letelepedését, amennyiben a tartózkodás megszakítására méltányolható okból – különösen külföldi gyógykezelés, illetve a harmadik országbeli állampolgár keresőtevékenységével összefüggő külföldi kiküldetések miatt – került sor.
 
 (4) A menekültügyi hatóság által menekültként elismert harmadik országbeli állampolgár a nemzeti letelepedési engedélyt tartózkodási vízum vagy tartózkodási engedély hiányában is kérelmezheti.
+
+(5) Nem kaphat nemzeti letelepedési engedélyt az a harmadik országbeli állampolgár, aki büntetett előéletű, és a büntetett előélethez fűződő hátrányok alól nem mentesült.

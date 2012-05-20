@@ -18,15 +18,21 @@ b) a szezonális munkavállalás céljából vagy önkéntesként Magyarország 
 
 c) a diplomáciai vagy egyéb személyes mentesség alapján Magyarország területén tartózkodó harmadik országbeli állampolgár;
 
-d) az a harmadik országbeli állampolgár, aki a menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért;
+d) a kérelme jogerős elbírálásáig az a harmadik országbeli állampolgár, aki a magyar menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért;
 
 e) a befogadott;
+
+f) a menekültügyi hatóság vagy bíróság vagy az Európai Unió tagállama által menekültként elismert vagy kiegészítő védelemben részesített harmadik országbeli állampolgár, ezen jogállása alapján, aki már nem rendelkezik menekült jogállással vagy nem áll kiegészítő védelem hatálya alatt; valamint
+
+g) az ideiglenes védelemben részesített harmadik országbeli állampolgár.
 
 (3) A harmadik országbeli állampolgár (2) bekezdés b)–c) pontja szerinti korábbi jogszerű tartózkodásának időtartama az (1) bekezdésben meghatározott időtartamba nem számít bele.
 
 (4) Az (1) bekezdésben meghatározott időtartamba a (2) bekezdés a) pontja szerinti korábbi jogszerű tartózkodás időtartamának fele számít bele.
 
 (5) Az az időtartam, amely során a harmadik országbeli állampolgár menekültként elismert, illetve ideiglenes vagy kiegészítő védelemben részesített személyként tartózkodott Magyarország területén, az (1) bekezdésben meghatározott időtartamba beleszámít.
+
+(5a) Az (1) bekezdésben meghatározott időtartamba a menekültként elismert vagy kiegészítő védelemben részesített harmadik országbeli állampolgárnak a menedékjogi kérelme benyújtásának időpontja és a menekültként elismerést vagy kiegészítő védelmet igazoló okmánya kiadásának időpontja közötti időtartam fele számít bele. Amennyiben ez az időtartam a tizennyolc hónapot meghaladja, a teljes időtartam az (1) bekezdésben meghatározott időtartamba beleszámít.
 
 (6) Nem minősül Magyarország területén történő tartózkodás megszakításának
 

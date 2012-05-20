@@ -12,4 +12,6 @@ e) a harmadik országbeli állampolgárt kiutasították, vagy vele szemben beut
 
 f) az a) ponttól eltérően a harmadik országbeli állampolgár EU Kék Kártya birtokosként vagy annak családtagjaként szerezte meg az EK letelepedési engedélyt és az Európai Unió tagállamainak területét egymást követő huszonnégy hónapnál hosszabb ideig elhagyta.
 
+(1a) Az idegenrendészeti hatóság az EK letelepedési engedélyt visszavonhatja, ha a harmadik országbeli állampolgár már nem rendelkezik menekült jogállással vagy nem áll kiegészítő védelem hatálya alatt.
+
 (2) Az a harmadik országbeli állampolgár, akinek EK letelepedési engedélyét az idegenrendészeti hatóság az (1) bekezdés a)–c) pontjai alapján vonta vissza, ismételt kérelmezés esetén a 38. § (1) bekezdésében foglalt feltétel vizsgálata nélkül EK letelepedési engedélyt kap.

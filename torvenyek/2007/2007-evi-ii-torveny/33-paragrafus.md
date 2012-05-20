@@ -8,7 +8,7 @@ c) akivel szemben az e törvényben meghatározott kizáró ok nem áll fenn.
 
 (2) Nem kaphat ideiglenes letelepedési engedélyt, nemzeti letelepedési engedélyt vagy EK letelepedési engedélyt az a harmadik országbeli állampolgár,
 
-a) aki büntetett előéletű, és a büntetett előélethez fűződő joghátrányok alól még nem mentesült;
+a)
 
 b) akinek a letelepedése veszélyezteti Magyarország közbiztonságát vagy nemzetbiztonságát;
 

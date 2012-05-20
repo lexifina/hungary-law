@@ -1,6 +1,6 @@
 20/A. § (1) EU Kék Kártyát az a harmadik országbeli állampolgár kap, aki
 
-a) a 13. § (1) bekezdés a), d), valamint h)–i) pontjában foglalt feltételeknek megfelel, és nem állnak fenn a (2) bekezdésben, valamint a 18. § (1b) bekezdés b) pontjában foglalt kizáró okok,
+a) a 13. § (1) bekezdés a), d), valamint h) és i) pontjában foglalt feltételeknek megfelel, és vele szemben nem állnak fenn a (2) bekezdésben, valamint a 18. § (1b) bekezdés b) és d) pontjában foglalt kizáró okok,
 
 b) foglalkoztatása jogszabályban meghatározott szempontok alapján, valamint hazai foglalkoztatáspolitikai érdekből támogatott,
 
@@ -27,6 +27,8 @@ g) az a harmadik országbeli állampolgár, aki a kereskedelem és befektetések
 h) az a harmadik országbeli állampolgár, aki Magyarország területén szezonális munkavállalási vízummal tartózkodik, illetve az Európai Unió más tagállamában szezonális munkát végez,
 
 i) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, 1996. december 16-i 96/71/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó harmadik országbeli állampolgár, aki Magyarország területén kiküldetésben tartózkodik.
+
+(2a) Az EU kék kártya iránti kérelem tárgyában indult eljárásban az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított kilencven napon belül hozza meg.
 
 (3) Az EU Kék Kártyát legalább egy évre kell kiállítani. Amennyiben a foglalkoztatásra irányuló szerződés ennél rövidebb időtartamra szól, akkor az EU Kék Kártyát a foglalkoztatásra irányuló szerződés szerinti jogviszony időtartamát három hónappal meghaladó időtartamra kell kiállítani.
 
