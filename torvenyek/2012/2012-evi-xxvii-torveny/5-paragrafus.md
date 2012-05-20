@@ -1,0 +1,5 @@
+5. § A Harmtv. 34. §-a a következő (9) és (10) bekezdéssel egészül ki:
+
+„(9) Amennyiben a huzamos tartózkodói jogállást igazoló EK tartózkodási engedéllyel rendelkező harmadik országbeli állampolgárt az Európai Unió tagállama menekültként elismerte vagy kiegészítő védelemben részesítette, az idegenrendészeti hatóság az ideiglenes letelepedési engedély kiállítása előtt a 94. §-ban meghatározott adatok feltüntetésével megkeresi az EK tartózkodási engedélyt kiállító tagállamot annak ellenőrzése érdekében, hogy a menekültkénti elismerés vagy kiegészítő védelem továbbra is fennáll-e.
+
+(10) Amennyiben a huzamos tartózkodói jogállást igazoló EK tartózkodási engedéllyel rendelkező harmadik országbeli állampolgárt a magyar menekültügyi hatóság vagy bíróság menekültként elismeri, illetve kiegészítő védelemben részesíti az ideiglenes letelepedési engedély kiállítása előtt, az idegenrendészeti hatóság a 94. §-ban meghatározott adatok feltüntetésével megkeresi az EK tartózkodási engedélyt kiállító tagállamot annak érdekében, hogy az az EK tartózkodási engedély okmány 'Megjegyzések' rovatát módosítsa.”
