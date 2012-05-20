@@ -1,3 +1,3 @@
-## 35. §[^96]
+## 35. §[^98]
 
-[^96]: A 35. §-t a 28/2005. (II. 15.) Korm. rendelet 7. §-a (2) bekezdésének j) pontja hatályon kívül helyezte.
+[^98]: A 35. §-t a 28/2005. (II. 15.) Korm. rendelet 7. §-a (2) bekezdésének j) pontja hatályon kívül helyezte.

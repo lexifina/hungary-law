@@ -1,4 +1,4 @@
-11. § (1)[^28] Az állandó személyazonosító igazolvány érvényességének időtartama – a (2) és (3) bekezdésben foglalt kivétellel –
+11. § (1)[^29] Az állandó személyazonosító igazolvány érvényességének időtartama – a (2) és (3) bekezdésben foglalt kivétellel –
 
 a) a kiadás napjától számított 3 év, ha a jogosult a 6. életévét még nem töltötte be,
 
@@ -10,10 +10,13 @@ d) a kiadás napjától számított 10 év, ha a jogosult a 20. életévét bet�
 
 e) határidő nélküli, ha a jogosult a 70. életévét betöltötte.
 
-(2)[^29] A letelepedett jogállású személy állandó személyazonosító igazolványát a letelepedési engedélyébe, ideiglenes letelepedési engedélyébe, nemzeti letelepedési engedélyébe, illetve EK letelepedési engedélyébe (a továbbiakban együtt: letelepedett jogállást igazoló okmány) bejegyzett érvényességi idővel megegyező érvényességgel kell kiadni.
+(2)[^30] A letelepedett jogállású személy állandó személyazonosító igazolványát a letelepedési engedélyébe, ideiglenes letelepedési engedélyébe, nemzeti letelepedési engedélyébe, illetve EK letelepedési engedélyébe (a továbbiakban együtt: letelepedett jogállást igazoló okmány) bejegyzett érvényességi idővel megegyező érvényességgel kell kiadni.
 
-(3)[^30] A bevándorolt jogállású személy állandó személyazonosító igazolványát a bevándorlási engedélyébe bejegyzett érvényességi idővel megegyező érvényességgel kell kiadni.
+(3)[^31] A bevándorolt jogállású személy állandó személyazonosító igazolványát a bevándorlási engedélyébe bejegyzett érvényességi idővel megegyező érvényességgel kell kiadni.
 
-[^28]: A 11. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 9/2004. (I. 31.) Korm. rendelet 15. §-a, szövege a 182/2009. (IX. 10.) Korm. rendelet 181. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^29]: A 11. § (2) bekezdését a 9/2004. (I. 31.) Korm. rendelet 15. §-a iktatta a szövegbe, egyidejűleg a § eredeti szövegét (1) bekezdésre változtatta. A 11. § (2) bekezdése a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének h) pontja, a 117/2009. (VI. 4.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^30]: A 11. § (3) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+(4)[^32] A menekült vagy oltalmazott jogállás mellett letelepedett jogállással is rendelkező személy részére a személyazonosító igazolványt az (1) bekezdés szerinti érvényességi idővel kell kiállítani, kivéve ha a (2) bekezdés szerinti érvényességi idő az (1) bekezdés szerint megállapítottat meghaladja.
+
+[^29]: A 11. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 9/2004. (I. 31.) Korm. rendelet 15. §-a, szövege a 182/2009. (IX. 10.) Korm. rendelet 181. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^30]: A 11. § (2) bekezdését a 9/2004. (I. 31.) Korm. rendelet 15. §-a iktatta a szövegbe, egyidejűleg a § eredeti szövegét (1) bekezdésre változtatta. A 11. § (2) bekezdése a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének h) pontja, a 117/2009. (VI. 4.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^31]: A 11. § (3) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^32]: A 11. § (4) bekezdését a 81/2012. (IV. 18.) Korm. rendelet 30. §-a iktatta be.
