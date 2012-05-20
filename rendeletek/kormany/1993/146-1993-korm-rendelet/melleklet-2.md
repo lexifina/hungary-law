@@ -8,7 +8,7 @@
 
 ## Címzett:
 
-## Én[^178]
+## Én[^183]
 
 ## – családi neve:
 
@@ -36,7 +36,7 @@
 
 ## Aláírás / Elektronikus aláírás
 
-2. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^179]
+2. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^184]
 
-[^178]: A házassági, illetve a születési anyakönyvi kivonata alapján a nyilatkozattevőt megillető nevet kell feltüntetni.
-[^179]: A 2. számú melléklet a 13/1999. ( II.1.) Korm. rendelet 35. §-ával és 2. számú mellékletével megállapított szöveg.
+[^183]: A házassági, illetve a születési anyakönyvi kivonata alapján a nyilatkozattevőt megillető nevet kell feltüntetni.
+[^184]: A 2. számú melléklet a 13/1999. ( II.1.) Korm. rendelet 35. §-ával és 2. számú mellékletével megállapított szöveg.

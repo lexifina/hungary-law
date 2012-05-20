@@ -12,9 +12,13 @@ b) a személyazonosító igazolvány, illetve a személyi azonosítóról és a 
 
 (5)[^28]
 
-(6) A lakóhely szerint illetékes körzetközponti jegyző felveszi a nyilvántartásba a letelepedett jogállású polgárt.
+(6)[^29] A lakóhely szerint illetékes körzetközponti jegyző az Nytv. 9. § (2) bekezdés n) pontjában foglalt eset kivételével felveszi a nyilvántartásba a letelepedett jogállású polgárt.
+
+(7)[^30] A lakóhely szerint illetékes jegyző felveszi a nyilvántartásba a menekült és az oltalmazott jogállású polgárt.
 
 [^25]: Az R. 9. §-a a 115/2007. (V. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^26]: Az R. 9. § (1) bekezdése a 340/2010. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^27]: Az R. 9. § (2) bekezdése a 340/2010. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^28]: Az R. 9. § (5) bekezdését a 340/2010. (XII. 28.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^29]: Az R. 9. § (6) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^30]: Az R. 9. § (7) bekezdését a 81/2012. (IV. 18.) Korm. rendelet 23. § (2) bekezdése iktatta be.

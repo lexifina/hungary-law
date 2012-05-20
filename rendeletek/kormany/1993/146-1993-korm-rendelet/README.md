@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-146-20-
 | 2011-01-01 | 1993-146-20-22.23 | 340/2010. (XII. 28.) Korm. rendelet |
 | 2011-03-11 | 1993-146-20-22.24 | 26/2011. (III. 10.) Korm. rendelet |
 | 2012-01-01 | 1993-146-20-22.25 | 314/2011. (XII. 23.) Korm. rendelet |
+| 2012-05-20 | 1993-146-20-22.26 | 81/2012. (IV. 18.) Korm. rendelet |

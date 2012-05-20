@@ -1,21 +1,21 @@
-32. §[^135] (1)[^136] A lakcímbejelentést – a 29. § (3) és a 30. § (2) bekezdésében meghatározott kivétellel – a 3. számú mellékletben előírt adattartalmú bejelentőlapon kell teljesíteni. A bejelentőlapot a lakcímbejelentés teljesítésére kötelezettnek és az e rendeletben meghatározott esetekben a szállásadónak is saját kezűleg alá kell írnia.''
+32. §[^140] (1)[^141] A lakcímbejelentést – a 29. § (3) és a 30. § (2) bekezdésében meghatározott kivétellel – a 3. számú mellékletben előírt adattartalmú bejelentőlapon kell teljesíteni. A bejelentőlapot a lakcímbejelentés teljesítésére kötelezettnek és az e rendeletben meghatározott esetekben a szállásadónak is saját kezűleg alá kell írnia.''
 
-(2)[^137] A bejelentőlapon szereplő személyi adatokat a személyazonosító igazolvány, ennek hiányában a személyazonosság igazolására alkalmas más érvényes okmány adattartalmával egyezően kell kiállítani. Ilyen okmány hiányában az adatok igazolására szolgál
+(2)[^142] A bejelentőlapon szereplő személyi adatokat a személyazonosító igazolvány, ennek hiányában a személyazonosság igazolására alkalmas más érvényes okmány adattartalmával egyezően kell kiállítani. Ilyen okmány hiányában az adatok igazolására szolgál
 
 a) bevándorolt esetében a jogerős bevándorlási engedély,
 
-b)[^138] a letelepedett jogállású polgár esetében az érvényes letelepedett jogállást igazoló okmánya,
+b)[^143] a letelepedett jogállású polgár esetében az érvényes letelepedett jogállást igazoló okmánya,
 
-c)[^139] a szabad mozgás és tartózkodás jogával rendelkező személy esetében érvényes úti okmánya,
+c)[^144] a szabad mozgás és tartózkodás jogával rendelkező személy esetében érvényes úti okmánya,
 
-d)[^140] menekült esetében a menekültkénti, az oltalmazott esetében az oltalmazottkénti elismerésről rendelkező jogerős határozat.
+d)[^145] menekült esetében a menekültkénti, az oltalmazott esetében az oltalmazottkénti elismerésről rendelkező jogerős határozat.
 
-(3)[^141] A bejelentkezés teljesítésekor a polgár a személyazonosító igazolványát vagy – amennyiben személyazonosító igazolvánnyal nem rendelkezik – más, személyazonosításra alkalmas hatósági igazolványát köteles bemutatni és a személyi azonosítóról és a lakcímről szóló hatósági igazolványát leadni.
+(3)[^146] A bejelentkezés teljesítésekor a polgár a személyazonosító igazolványát vagy – amennyiben személyazonosító igazolvánnyal nem rendelkezik – más, személyazonosításra alkalmas hatósági igazolványát köteles bemutatni és a személyi azonosítóról és a lakcímről szóló hatósági igazolványát leadni.
 
-[^135]: Az R. 32. § -a a 13/1999. ( II.1.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^136]: Az R. 32. §-ának (1) bekezdése a 9/2004. (I. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^137]: Az R. 32. §-ának (2) bekezdése a 9/2004. (I. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^138]: Az R. 32. § (2) bekezdésének b) pontja a 115/2007. (V. 24.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
-[^139]: Az R. 32. § (2) bekezdésének c) pontja a 115/2007. (V. 24.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
-[^140]: Az R. 32. § (2) bekezdés d) pontja a 26/2011. (III. 10.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^141]: Az R. 32. §-ának (3) bekezdése a 168/1999. (XI. 24.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^140]: Az R. 32. § -a a 13/1999. ( II.1.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^141]: Az R. 32. §-ának (1) bekezdése a 9/2004. (I. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^142]: Az R. 32. §-ának (2) bekezdése a 9/2004. (I. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^143]: Az R. 32. § (2) bekezdésének b) pontja a 115/2007. (V. 24.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
+[^144]: Az R. 32. § (2) bekezdésének c) pontja a 115/2007. (V. 24.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
+[^145]: Az R. 32. § (2) bekezdés d) pontja a 26/2011. (III. 10.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^146]: Az R. 32. §-ának (3) bekezdése a 168/1999. (XI. 24.) Korm. rendelet 57. §-ával megállapított szöveg.
