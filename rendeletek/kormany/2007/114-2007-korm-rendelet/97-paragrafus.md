@@ -1,8 +1,8 @@
-## 96. § A 94. § (1) bekezdés a) és b) pontjában foglalt okirat csatolása alól felmentés adható, ha az okirat beszerzése a harmadik országbeli állampolgár önhibáján kívüli okból lehetetlen, vagy aránytalan nehézséggel járna. Ilyen esetben az okiratot a kérelmező nyilatkozata pótolja.
+## 96. §[^159] 96. § A 94. § (1) bekezdés a) pontjában, valamint a 94. § (2) bekezdésében foglalt okirat csatolása alól felmentés adható, ha az okirat beszerzése a harmadik országbeli állampolgár önhibáján kívüli okból lehetetlen, vagy aránytalan nehézséggel járna. Ilyen esetben az okiratot a kérelmező nyilatkozata pótolja.
 
-## Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ szakhatósági eljárása[^153]
+## Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ szakhatósági eljárása[^160]
 
-97. §[^154] (1)[^155] A Kormány a harmadik országbeli állampolgár ideiglenes letelepedési engedélyének, nemzeti letelepedési engedélyének, illetve EK letelepedési engedélyének megadása iránti eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát – elsőfokon az Alkotmányvédelmi Hivatalt és a Terrorelhárítási Központot, másodfokon a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztert szakhatóságként jelöli ki.
+97. §[^161] (1)[^162] A Kormány a harmadik országbeli állampolgár ideiglenes letelepedési engedélyének, nemzeti letelepedési engedélyének, illetve EK letelepedési engedélyének megadása iránti eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát – elsőfokon az Alkotmányvédelmi Hivatalt és a Terrorelhárítási Központot, másodfokon a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztert szakhatóságként jelöli ki.
 
 (2) A regionális igazgatóság az ideiglenes letelepedési engedély első ízben történő kiadása, a nemzeti letelepedési engedély vagy az EK letelepedési engedély iránti kérelmet benyújtó harmadik országbeli állampolgár központi idegenrendészeti nyilvántartásban kezelt adatait továbbítja az Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ részére. Az Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ megkeresésére a regionális igazgatóság a kérelemhez csatolt okiratokba betekintést biztosít, illetve azokról másolatot készít.
 
@@ -22,6 +22,7 @@ a) ideiglenes letelepedési engedély iránti kérelem esetén tizenöt napon be
 
 b) nemzeti letelepedési engedély vagy EK letelepedési engedély iránti kérelem esetén húsz napon belül
 
-[^153]: A 97. §-t megelőző alcím a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdésével megállapított szöveg.
-[^154]: A 97. § a 290/2010. (XII. 21.) Korm. rendelet 54. § (1) bekezdésével megállapított szöveg.
-[^155]: A 97. § (1) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^159]: A 96. § a 81/2012. (IV. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^160]: A 97. §-t megelőző alcím a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdésével megállapított szöveg.
+[^161]: A 97. § a 290/2010. (XII. 21.) Korm. rendelet 54. § (1) bekezdésével megállapított szöveg.
+[^162]: A 97. § (1) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 92. §[^147] A letelepedett harmadik országbeli állampolgár a letelepedett jogállását igazoló okmány kiállításától számított öt napon belül köteles a körzetközponti feladatokat ellátó települési (fővárosi kerületi) önkormányzat jegyzőjénél személyi- és lakcímadatait bejelenteni, továbbá köteles a személyazonosító igazolvány kiadását kérni.
+## 92. §[^152] A letelepedett harmadik országbeli állampolgár a letelepedett jogállását igazoló okmány kiállításától számított öt napon belül köteles a körzetközponti feladatokat ellátó települési (fővárosi kerületi) önkormányzat jegyzőjénél személyi- és lakcímadatait bejelenteni, továbbá köteles a személyazonosító igazolvány kiadását kérni, amennyiben más jogcímen nem tartozik a személyiadat- és lakcímnyilvántartás hatálya alá.
 
 ## Az eljáró hatóságok illetékessége
 
@@ -6,4 +6,4 @@
 
 (2) A harmadik országbeli állampolgár bevándorlási engedélyét, letelepedési engedélyét, ideiglenes letelepedési engedélyét, nemzeti letelepedési engedélyét, illetve EK letelepedési engedélyét a harmadik országbeli állampolgár lakóhelye szerint illetékes regionális igazgatóság vonhatja vissza.
 
-[^147]: A 92. § a 290/2010. (XII. 21.) Korm. rendelet 125. § (8) bekezdése szerint módosított szöveg.
+[^152]: A 92. § a 81/2012. (IV. 18.) Korm. rendelet 2. §-ával megállapított szöveg.

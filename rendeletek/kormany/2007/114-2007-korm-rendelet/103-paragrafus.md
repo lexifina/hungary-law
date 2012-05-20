@@ -1,12 +1,10 @@
-## 102. § A Tv. 34. § (8) bekezdése szerinti értesítést – a visszavonás jogerőssé válását követően – az első fokon eljárt regionális igazgatóság továbbítja az érintett tagállam kijelölt hatóságának.
-
 ## Nemzeti letelepedési engedély
 
 103. § (1) A Tv. 35. § (1) bekezdés a) pontjában foglalt feltételnek az a harmadik országbeli állampolgár felel meg, aki a nemzeti letelepedési engedély iránti kérelem benyújtásáig – a Tv. 35. § (2) bekezdésében foglaltak figyelembevételével – hároméves jogszerű tartózkodását nem szakította meg.
 
 (2) A jogszerű tartózkodás megszakítása esetén a tartózkodási idő számítása újra kezdődik.
 
-(3)[^162] A Tv. 35. §-a alkalmazásában jogszerű tartózkodásnak minősül
+(3)[^171] A Tv. 35. §-a alkalmazásában jogszerű tartózkodásnak minősül
 
 a) a három hónapot meghaladó tartózkodásra jogosító vízummal,
 
@@ -28,4 +26,4 @@ a) külföldi intézményben történő gyógykezelésről szóló igazolással;
 
 b) a gyakori külföldi kiküldetéssel járó munkakör betöltéséről szóló igazolással, illetve a kiküldetések – a munkáltatói jogkör gyakorlója által hitelesített – listájával.
 
-[^162]: A 103. § (3) bekezdés záró szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^171]: A 103. § (3) bekezdés záró szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.

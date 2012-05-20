@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-114-20-
 | 2011-05-20 | 2007-114-20-22.15 | 290/2010. (XII. 21.) Korm. rendelet |
 | 2011-08-25 | 2007-114-20-22.16 | 168/2011. (VIII. 24.) Korm. rendelet |
 | 2012-01-01 | 2007-114-20-22.17 | 276/2011. (XII. 20.) Korm. rendelet |
+| 2012-05-20 | 2007-114-20-22.18 | 81/2012. (IV. 18.) Korm. rendelet |

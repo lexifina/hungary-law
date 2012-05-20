@@ -1,8 +1,8 @@
 ## adja meg a Hivatalnak.
 
-## Rendőrség szakhatósági eljárása[^156]
+## Rendőrség szakhatósági eljárása[^163]
 
-97/A. §[^157] (1)[^158] A Kormány a harmadik országbeli állampolgár ideiglenes letelepedési engedélyének, nemzeti letelepedési engedélyének, illetve EK letelepedési engedélyének megadása iránti eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország közbiztonságát – elsőfokon a megyei rendőr-főkapitányságot, másodfokon az Országos Rendőr-főkapitányságot szakhatóságként jelöli ki.
+97/A. §[^164] (1)[^165] A Kormány a harmadik országbeli állampolgár ideiglenes letelepedési engedélyének, nemzeti letelepedési engedélyének, illetve EK letelepedési engedélyének megadása iránti eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország közbiztonságát – elsőfokon a megyei rendőr-főkapitányságot, másodfokon az Országos Rendőr-főkapitányságot szakhatóságként jelöli ki.
 
 (2) A regionális igazgatóság az ideiglenes letelepedési engedély első ízben történő kiadása, a nemzeti letelepedési engedély vagy az EK letelepedési engedély iránti kérelmet benyújtó harmadik országbeli állampolgár központi idegenrendészeti nyilvántartásban kezelt adatait továbbítja a jövőbeni lakóhely szerint illetékes megyei rendőr-főkapitányság részére. Az illetékes megyei rendőr-főkapitányság megkeresésére a regionális igazgatóság a kérelemhez csatolt okiratokba betekintést biztosít, illetve azokról másolatot készít.
 
@@ -22,6 +22,6 @@ a) ideiglenes letelepedési engedély iránti kérelem esetén tizenöt napon be
 
 b) nemzeti letelepedési engedély vagy EK letelepedési engedély iránti kérelem esetén húsz napon belül
 
-[^156]: A 97/A. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 54. § (2) bekezdése iktatta be.
-[^157]: A 97/A. §-t a 290/2010. (XII. 21.) Korm. rendelet 54. § (2) bekezdése iktatta be.
-[^158]: A 97/A. § (1) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^163]: A 97/A. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 54. § (2) bekezdése iktatta be.
+[^164]: A 97/A. §-t a 290/2010. (XII. 21.) Korm. rendelet 54. § (2) bekezdése iktatta be.
+[^165]: A 97/A. § (1) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.

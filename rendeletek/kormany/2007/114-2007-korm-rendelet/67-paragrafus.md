@@ -6,6 +6,6 @@ b) a korábbi meghívás alkalmával a meghívólevélben vállalt kötelezetts�
 
 c) kérelmében hamis adatot vagy valótlan tényt közölt.
 
-(2)[^126] A meghívót tájékoztatni kell arról, hogy a meghívólevél önmagában nem jogosítja a harmadik országbeli állampolgárt Magyarország területére történő beutazásra.
+(2)[^127] A meghívót tájékoztatni kell arról, hogy a meghívólevél önmagában nem jogosítja a harmadik országbeli állampolgárt Magyarország területére történő beutazásra.
 
-[^126]: A 67. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^127]: A 67. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
