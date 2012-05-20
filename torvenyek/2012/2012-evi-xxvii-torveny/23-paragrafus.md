@@ -11,19 +11,3 @@ d) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő
 e) a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól szóló 2005. december 1-i 2005/85/EK tanácsi irányelv (12–13. §)
 
 való megfelelést szolgálja.
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke,
-
-a köztársasági elnök feladat-
-
-és hatásköreit gyakorolva
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke,
-
-az Országgyűlés elnökének
-
-feladatait ellátva
