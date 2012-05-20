@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 4. § (2) bekezdése alapján 2012. május 20-án lép hatályba.
+## 1. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 25/2007. (V. 31.) IRM rendelet (a továbbiakban: R.) 20. melléklete helyébe e rendelet 1. melléklete lép.
