@@ -12,7 +12,7 @@ d) a központi idegenrendészeti nyilvántartást kezelő szerv értesítése;
 
 e) a konzuli szolgálat konzuli tisztviselőjének az értesítése;
 
-f)
+f) a menekültügyi hatóság értesítése;
 
 g) a területszervezési intézkedést kihirdető jogszabály;
 
