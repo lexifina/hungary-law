@@ -1,3 +1,0 @@
-14. § A Met. 87. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A menekültügyi hatóság – az érintett természetes személyazonosító adatainak, családi állapotának és amennyiben házas vagy bejegyzett élettárs, a házasságkötése vagy a bejegyzett élettársi kapcsolata létesítési helyének, valamint kijelölt szálláshelye címének közlésével a nyilvántartásba történő felvétel, illetve a személyazonosító igazolvánnyal, valamint a személyi azonosítót és a lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából – a menekültként vagy oltalmazottként történő elismerésről tájékoztatja az érintett leendő lakóhelye szerint illetékes települési önkormányzat jegyzőjét.”
