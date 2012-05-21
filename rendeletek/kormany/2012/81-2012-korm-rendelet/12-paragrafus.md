@@ -1,1 +1,3 @@
-## 11. § A Harmvhr. 57. § (1) bekezdésében a „tartózkodási vízum” szövegrész helyébe a „tartózkodási engedély átvételére jogosító vízum” szöveg, 72/B. § (1) bekezdésében a „Foglalkoztatási Hivatalt” szövegrész helyébe a „Nemzeti Munkaügyi Hivatalt” szöveg, 89. § (2) bekezdésében a „tartózkodási vízumot” szövegrész helyébe a „tartózkodási engedély átvételére jogosító vízumot”, a 90. §-ban a „tartózkodási vízum” szövegrész helyébe a „tartózkodási engedély átvételére jogosító vízum” szöveg lép.
+## 1–11. §[^1]
+
+[^1]: Az 1–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
