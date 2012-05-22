@@ -1,0 +1,5 @@
+A befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény (a továbbiakban: Tv.) 153. § (5) bekezdése alapján az államháztartásért felelős miniszter az Európai Bizottság határozata meghozatalának időpontját – annak ismertté válását követően haladéktalanul – a Magyar Közlönyben közzétett egyedi határozattal állapítja meg. A Tv. 153. § (4) bekezdése alapján pedig a Tv. 167. §-a az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
+
+Az Európai Bizottság a magyar bankok számára nyújtható támogatás (feltőkésítés) meghosszabbítását jóváhagyó intézkedést a 2012. március 8-án meghozott SA.34077 (2011/N) számú határozatával az Európai Unió Működéséről szóló Szerződés 107. és 108. cikkével összeegyeztethetőnek nyilvánította.
+
+A fentiekre tekintettel megállapítom, hogy az Európai Bizottság jóváhagyó határozata meghozatalának időpontja 2012. március 8-a, következésképpen a Tv. 167. §-a hatálybalépésének naptári napja az Európai Bizottság jóváhagyó határozata meghozatalát követő 15. nap, azaz 2012. március 23. napja.
