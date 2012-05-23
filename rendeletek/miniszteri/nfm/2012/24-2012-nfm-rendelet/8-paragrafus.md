@@ -1,0 +1,3 @@
+8. § (1) A vizsgálóbizottság a helyszíni vizsgálat megállapításai alapján, figyelemmel a 7. § (2) bekezdésében foglaltakra is, minden olyan további, elsősorban a forgalom szabályozásával, a műszaki berendezések karbantartásával és üzemeltetésével kapcsolatos adat, okmány, bizonylat és bizonyíték átvételére is jogosult, amelyek a vizsgálat lefolytatásához szükségesek.
+
+(2) A mentés vezetője köteles a szükséges segítséget megadni a vizsgálóbizottságnak a bizonyítékok begyűjtéséhez, továbbá minden olyan mérés elvégzéséhez, fényképek és videofelvételek készítéséhez, amelyek a tényállás rögzítéséhez szükségesek, különös tekintettel azokra a jellemzőkre, amelyek az elhárítással és a pálya felszabadításával megváltoznak.
