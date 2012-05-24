@@ -1,4 +1,4 @@
-## 23. § Hatályát veszti a súlyos vasúti balesetek, a vasúti balesetek és a váratlan vasúti események szakmai vizsgálatának részletes szabályairól szóló 7/2006. (II. 27.) GKM rendelet.
+## 23. §[^1]
 
 1. melléklet a 24/2012. (V. 8.) NFM rendelethez
 
@@ -243,3 +243,5 @@ Amennyiben indokolt, a szakmai vizsgálat eredményeként meghatározott biztons
 7. Függelékek
 
 Szükség esetén itt kell közölni minden egyéb, a jelentés megértése szempontjából szükségesnek tekinthető további információt.
+
+[^1]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
