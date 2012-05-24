@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-45-00-00
 | 2012-05-10 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-45-00-00.1 |
 | 2012-05-11 | 2010. évi CXXX. törvény | 2012-45-00-00.2 |
 | 2012-05-23 | 3/2012. (VI. 5.) NGM határozat | 2012-45-00-00.3 |
+| 2012-05-24 | 2010. évi CXXX. törvény | 2012-45-00-00.4 |
