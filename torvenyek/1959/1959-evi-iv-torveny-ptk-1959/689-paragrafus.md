@@ -163,9 +163,3 @@ a lakásbérletről szóló 35/1956. (IX. 30.) MT rendelet végrehajtása tárgy
 az új szövetkezeti törvény megalkotásáról szóló 1.088/1956. (IX. 4.) Mt. h.;
 
 az egyes szövetkezetek feloszlatása szempontjából tekintetbe jövő körülményekről szóló 101.400/1947. (V. 1.) KSzM rendelet;
-
-a földművesszövetkezetek alapszabálymintájának közzétételéről szóló 122.000/1948. (XI. 7.) KSzM rendelet;
-
-a holtnak nyilvánításra vonatkozó hirdetmények és végzések közléséről szóló 100.000/1949. (XII. 16.) IM rendelet;
-
-a szállítási kötelezettséget elmulasztó szerződéses sertéshizlalók és tenyésztők kártérítési felelősségéről szóló 4/1954. (III. 27.) BgyM rendelet;

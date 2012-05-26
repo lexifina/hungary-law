@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1959-4-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 1959-4-00-00.96 |
 | 2012-04-01 | 2011. évi CXLVIII. törvény | 1959-4-00-00.97 |
 | 2012-04-28 | 2012. évi XXXVIII. törvény | 1959-4-00-00.98 |
+| 2012-05-26 | 2012. évi LI. törvény | 1959-4-00-00.99 |
