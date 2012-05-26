@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1952-3-00-00
 | 2012-04-01 | 2011. évi CLXXIV. törvény | 1952-3-00-00.92 |
 | 2012-04-14 | 2012. évi XXXII. törvény | 1952-3-00-00.93 |
 | 2012-04-28 | 2012. évi XXXVIII. törvény | 1952-3-00-00.94 |
+| 2012-05-26 | 2012. évi LI. törvény | 1952-3-00-00.95 |
