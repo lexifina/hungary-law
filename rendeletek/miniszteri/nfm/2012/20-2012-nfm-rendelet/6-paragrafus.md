@@ -1,0 +1,1 @@
+## 5. § Az R. 2. § (1) bekezdésében a „Polgári Légiközlekedési Igazgatóságának (a továbbiakban: PLI)” szövegrész helyébe a „Légügyi Hivatalának” szöveg, 3. § (1) bekezdésében a „PLI” szövegrész helyébe a „Légügyi Hivatal” szöveg, 4. § b) pontjában az „Itv.” szövegrész helyébe az „illetékekről szóló törvény (a továbbiakban: Itv.)” szöveg lép.
