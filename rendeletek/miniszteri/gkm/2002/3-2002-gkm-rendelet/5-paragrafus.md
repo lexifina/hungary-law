@@ -2,935 +2,1303 @@
 
 5. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit a hatálybalépését követően kezdeményezett eljárásoknál kell alkalmazni.
 
-(2)[^11]
+(2)[^17]
 
-Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^12]
+Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^18]
 
-A légiközlekedéssel kapcsolatos hatósági eljárások (szolgáltatások) díjai
+| Sorszám | Légiközlekedési hatósági eljárások megnevezése | Díj (forint) |
 
-[A légiközlekedéssel kapcsolatos hatósági eljárások (szolgáltatások) díjai]
+| I. A LÉGIJÁRMŰVEKET ÉS FELSZERELÉSEIT ELŐÁLLÍTÓ, JAVÍTÓ, ELLENŐRZŐ ÉS ÜZEMBEN TARTÓ ÜZEMEK ALKALMASSÁGÁNAK VIZSGÁLATA ÉS ENGEDÉLYEZÉSE A légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 29. § (1) bekezdése és a Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet (a továbbiakban: Korm. Rend.) 5. § (5) bekezdése, a légi közlekedésről szóló 1995. évi XCVII. törvény végrehajtásáról szóló 141/1995. (XI. 30.) Korm. rendelet (a továbbiakban: Vhr.) 13. § (1) bekezdése, 216/2008/EK rendelet 8. és 10. cikke Egyedi vizsgálat gyártó tevékenység esetében |
 
-| Sorszám | Légiközlekedési hatósági eljárások megnevezése | Díj (Ft) |
+| 1. | Ejtőernyő, ultralight (mikrolight), vitorlázó repülőgép és levegőnél könnyebb légijárművek gyártó tevékenységének engedélyezése vagy tevékenységi körének kiterjesztése, légijárműtípusonként | 74 000 |
 
-| I. A LÉGIJÁRMŰVEKET ÉS FELSZERELÉSEIT ELŐÁLLÍTÓ, JAVÍTÓ, ELLENŐRZŐ ÉS ÜZEMBEN TARTÓ ÜZEMEK ALKALMASSÁGÁNAK VIZSGÁLATA ÉS ENGEDÉLYEZÉSE A légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 3. § (1), (3), 29. § (1) és a végrehajtásáról szóló 141/1995. (XI. 30.) Korm. rendelet (a továbbiakban: Vhr.) 1. § (4) 2. pont, 13. § (1), 1702/2003/EK és 1592/2002/EK rendeletek Egyedi vizsgálat gyártó tevékenység esetén |
+| 2. | 736 kW teljesítmény alatti egyhajtóműves légijárművek gyártó tevékenységének engedélyezése vagy tevékenységi körének kiterjesztése, légijárműtípusonként | 120 000 |
 
-| 1. | Ejtőernyő, ultralight (mikrolight), vitorlázó repülőgép és levegőnél könnyebb légijárművek gyártó tevékenységének engedélyezése vagy tevékenységi körének kiterjesztése, légijárműtípusonként | 80 500 |
+| 3. | 736 kW teljesítmény feletti egyhajtóműves légijárművek gyártó tevékenységének engedélyezése vagy tevékenységi körének kiterjesztése, légijárműtípusonként | 147 000 |
 
-| 2. | 736 kW teljesítmény alatti egyhajtóműves légijárművek gyártó tevékenységének engedélyezése vagy tevékenységi körének kiterjesztése, légijárműtípusonként | 131 000 |
+| 4. | Gázturbinás és többhajtóműves 5700 kg vagy ez alatti felszálló tömegű légijárművek gyártó tevékenységének engedélyezése vagy tevékenységi körének kiterjesztése, légijárműtípusonként | 182 000 |
 
-| 3. | 736 kW teljesítmény feletti egyhajtóműves légijárművek gyártó tevékenységének engedélyezése vagy tevékenységi körének kiterjesztése, légijárműtípusonként | 160 600 |
+| 5. | 27 000 kg vagy ez alatti, de 5700 kg feletti felszálló tömegű légijárművek gyártó tevékenységének engedélyezése vagy tevékenységi körének kiterjesztése, légijárműtípusonként | 223 000 |
 
-| 4. | Gázturbinás és többhajtóműves 5700 kg vagy ez alatti felszálló tömegű légijárművek gyártó tevékenységének engedélyezése vagy tevékenységi körének kiterjesztése, légijárműtípusonként | 197 100 |
+| 6. | 27 000 kg feletti felszálló tömegű légijárművek gyártó tevékenységének engedélyezése vagy tevékenységi körének kiterjesztése, légijárműtípusonként | 279 000 |
 
-| 5. | 27 000 kg vagy ez alatti, de 5700 kg feletti felszálló tömegű légijárművek gyártó tevékenységének engedélyezése vagy tevékenységi körének kiterjesztése, légijárműtípusonként | 241 500 |
+| 7. | Légijármű berendezés és alkatrész gyártásának, összeszerelésének engedélyezése, kiterjesztése a kevesebb, mint 50 alkatrészt magában foglaló egység esetében | 74 000 |
 
-| 6. | 27 000 kg feletti felszálló tömegű légijárművek gyártó tevékenységének engedélyezése vagy tevékenységi körének kiterjesztése, légijárműtípusonként | 300 800 |
+| 8. | Légijármű berendezés és alkatrész gyártásának, összeszerelésének engedélyezése, kiterjesztése a legalább 50 alkatrészt meghaladó egység esetében | 84 000 |
 
-| 7. | Légijármű berendezés és alkatrész gyártásának, összeszerelésének engedélyezése, kiterjesztése a kevesebb, mint 50 alkatrészt magában foglaló egység esetén | 80 500 |
+| 9. | Légijármű berendezés és alkatrész gyártásának, összeszerelésének engedélyezése, kiterjesztése különleges egységek esetében | 93 000 |
 
-| 8. | Légijármű berendezés és alkatrész gyártásának, összeszerelésének engedélyezése, kiterjesztése a legalább 50 alkatrészt meghaladó egység esetén | 90 600 |
+| 10. | Légijármű berendezés és alkatrész gyártásának, összeszerelésének engedélyezése komplex rendszerek esetében | 102 000 |
 
-| 9. | Légijármű berendezés és alkatrész gyártásának, összeszerelésének engedélyezése, kiterjesztése különleges egységek esetén | 100 300 |
+| 11. | Azon légijármű építésének engedélyezése, amelynek legalább 51%-át egy amatőr vagy amatőrök egy nonprofit szervezete építette saját céljára, kereskedelmi célok nélkül | 47 000 |
 
-| 10. | Légijármű berendezés és alkatrész gyártásának, összeszerelésének engedélyezése komplex rendszerek esetén | 110 500 |
+| 12. | Ultralight légijárművekkel történő kísérleti üzem engedélyezése | 47 000 |
 
-| 11. | Azon légijármű építésének engedélyezése, amelynek legalább 51%-át egy amatőr vagy amatőrök egy nonprofit szervezete építette saját céljára, kereskedelmi célok nélkül | 52 200 |
+| Légijármű üzemben tartása Lt. 19. § (1) bekezdés a) pontja és (3) bekezdése, Korm. Rend. 5. § (5) bekezdés 23. pontja, 20/2002. (III. 30.) KöViM rendelet 3. §-a |
 
-| 12. | Ultralight légijárművekkel történő kísérleti üzem engedélyezése | 52 200 |
+| 13. | Üzemben tartási engedély kiadása ultralight (mikrolight), vitorlázó repülőgép és levegőnél könnyebb légijárművek részére | 120 000 |
 
-| Légijármű üzemben tartása Lt. 19. § (1) a), (3), Vhr. 1. § (4) 23. pont, 20/2002. (III. 30.) KöViM rendelet |
+| 14. | Üzemben tartási engedély kiterjesztése ultralight (mikrolight), vitorlázó repülőgép és levegőnél könnyebb légijárművek részére, légijárműtípusonként | 65 000 |
 
-| 13. | Üzemben tartási engedély kiadása ultralight (mikrolight), vitorlázó repülőgép és levegőnél könnyebb légijárművek részére | 131 000 |
+| 15. | Üzemben tartási engedély érvényességi idejének meghosszabbítása ultralight (mikrolight), vitorlázó repülőgép és levegőnél könnyebb légijárművek részére | 65 000 |
 
-| 14. | Üzemben tartási engedély kiterjesztése ultralight (mikrolight), vitorlázó repülőgép és levegőnél könnyebb légijárművek részére, légijárműtípusonként | 70 400 |
+| 16. | Üzemben tartási engedély kiadása 5700 kg vagy ez alatti, de 750 kg feletti felszálló tömegű légijárművek esetében | 166 000 |
 
-| 15. | Üzemben tartási engedély érvényességi idejének meghosszabbítása ultralight (mikrolight), vitorlázó repülőgép és levegőnél könnyebb légijárművek részére | 70 400 |
+| 17. | Üzemben tartási engedély kiterjesztése 5700 kg, vagy ez alatti, de 750 kg feletti felszálló tömegű légijárművek esetében, légijárműtípusonként | 98 000 |
 
-| 16. | Üzemben tartási engedély kiadása 5700 kg vagy ez alatti, de 750 kg feletti felszálló tömegű légijárművek esetén | 181 100 |
+| 18. | Üzemben tartási engedély érvényességi idejének meghosszabbítása 5700 kg, vagy ez alatti, de 750 kg feletti felszálló tömegű légijárművek esetében | 98 000 |
 
-| 17. | Üzemben tartási engedély kiterjesztése 5700 kg, vagy ez alatti, de 750 kg feletti felszálló tömegű légijárművek esetén, légijárműtípusonként | 106 500 |
+| 19. | Üzemben tartási engedély kiadása 5700 kg feletti felszálló tömegű légijárművek esetében | 1 534 000 |
 
-| 18. | Üzemben tartási engedély érvényességi idejének meghosszabbítása 5700 kg, vagy ez alatti, de 750 kg feletti felszálló tömegű légijárművek esetén | 106 500 |
+| 20. | Üzemben tartási engedély kiterjesztése 5700 kg feletti felszálló tömegű légijárművek esetében, légijárművenként | 277 000 |
 
-| 19. | Üzemben tartási engedély kiadása 5700 kg feletti felszálló tömegű légijárművek esetén | 365 600 |
+| 21. | Üzemben tartási engedély érvényességi idejének meghosszabbítása 5700 kg feletti felszálló tömegű légijárművek esetében | 736 000 |
 
-| 20. | Üzemben tartási engedély kiterjesztése 5700 kg feletti felszálló tömegű légijárművek esetén, légijárművenként | 301 800 |
+| 22. | A légijármű üzemben tartási engedélyében beállt adatváltozások bejegyzése, módosítása (személyi adatok), Vhr. 8. §-a | 29 000 |
 
-| 21. | Üzemben tartási engedély érvényességi idejének meghosszabbítása 5700 kg feletti felszálló tömegű légijárművek esetén | 301 800 |
+| 23. | A légitársaság Üzletszabályzata módosításának jóváhagyása | 12 000 |
 
-| 22. | A légijármű üzemben tartási engedélyében beállt adatváltozások bejegyzése (személyi adatok), Vhr. 5. § (2) i) pont | 30 200 |
+| 24. | Légijárművek bérlésének / bérbeadásának előzetes hatósági jóváhagyása | 74 000 |
 
-| Légijármű karbantartó szervezetek engedélyeztetése 2042/2003/EK rendelet |
+| Légijármű karbantartó szervezetek engedélyeztetése 2042/2003/EK rendelet 4. cikke |
 
-| 23. | Ejtőernyő, ultralight (mikrolight), vitorlázó repülőgépet és levegőnél könnyebb légijárműveket, hajtóműveiket és azok berendezéseit karbantartó szervezet tevékenységének minősítése és engedélyezése | 48 400 |
+| 25. | Ejtőernyő, ultralight (mikrolight), vitorlázó repülőgépet és levegőnél könnyebb légijárműveket, hajtóműveiket és azok berendezéseit karbantartó szervezet tevékenységének minősítése és engedélyezése | 46 000 |
 
-| 24. | Ejtőernyő, ultralight (mikrolight), vitorlázó repülőgépet és levegőnél könnyebb légijárműveket, hajtóműveiket és azok berendezéseit karbantartó szervezet tevékenységének kiterjesztése és érvényességi idejének meghosszabbítása | 32 100 |
+| 26. | Ejtőernyő, ultralight (mikrolight), vitorlázó repülőgépet és levegőnél könnyebb légijárműveket, hajtóműveiket és azok berendezéseit karbantartó szervezet kérelmére induló 2042/2003/EK rendelet II. melléklet A. szakasz 145.B.30. pontja szerinti audit díja | 14 000 |
 
-| 25. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű nem kereskedelmi tevékenységet végző légijárművek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének engedélyezése egy típusra | 80 500 |
+| 27. | Ejtőernyő, ultralight (mikrolight), vitorlázó repülőgépet és levegőnél könnyebb légijárműveket, hajtóműveiket és azok berendezéseit karbantartó szervezet tevékenységének kiterjesztése és érvényességi idejének meghosszabbítása | 30 000 |
 
-| 26. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű nem kereskedelmi tevékenységet végző légijárművek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének kiterjesztése típusonként | 66 000 |
+| 28. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű nem kereskedelmi tevékenységet végző légijárművek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének engedélyezése egy típusra | 75 000 |
 
-| 27. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű nem kereskedelmi tevékenységet végző légijárművek forgalmi és/vagy alapkarbantartását végző szervezet engedélye érvényességi idejének meghosszabbítása | 50 000 |
+| 29. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű nem kereskedelmi tevékenységet végző légijárművek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének kiterjesztése típusonként | 61 000 |
 
-| 28. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű kereskedelmi tevékenységet végző légijárművek vagy többhajtóműves helikopterek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének engedélyezése egy típusra | 77 000 |
+| 30. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű nem kereskedelmi tevékenységet végző légijárművek forgalmi és/vagy alapkarbantartását végző szervezet kérelmére induló 2042/2003/EK rendelet II. melléklet A. szakasz 145.B.30. pontja szerinti audit díja | 23 000 |
 
-| 29. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű kereskedelmi tevékenységet végző légijárművek vagy többhajtóműves helikopterek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének kiterjesztése típusonként | 66 000 |
+| 31. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű nem kereskedelmi tevékenységet végző légijárművek forgalmi és/vagy alapkarbantartását végző szervezet engedélye érvényességi idejének meghosszabbítása | 46 000 |
 
-| 30. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű kereskedelmi tevékenységet végző légijárművek vagy többhajtóműves helikopterek forgalmi és/vagy alapkarbantartását végző szervezet engedélye érvényességének meghosszabbítása | 50 000 |
+| 32. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű kereskedelmi tevékenységet végző légijárművek vagy többhajtóműves helikopterek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének engedélyezése egy típusra | 71 000 |
 
-| 31. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének engedélyezése egy típusra | 301 800 |
+| 33. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű kereskedelmi tevékenységet végző légijárművek vagy többhajtóműves helikopterek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének kiterjesztése típusonként | 61 000 |
 
-| 32. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének kiterjesztése típusonként | 290 000 |
+| 34. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű kereskedelmi tevékenységet végző légijárművek vagy többhajtóműves helikopterek forgalmi és/vagy alapkarbantartását végző szervezet kérelmére induló 2042/2003/EK rendelet II. melléklet A. szakasz 145.B.30. pontja szerinti audit díja | 23 000 |
 
-| 33. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet engedélye érvényességének meghosszabbítása | 210 000 |
+| 35. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű kereskedelmi tevékenységet végző légijárművek vagy többhajtóműves helikopterek forgalmi és/vagy alapkarbantartását végző szervezet engedélye érvényességének meghosszabbítása | 46 000 |
 
-| 34. | 27 000 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének engedélyezése egy típusra | 501 800 |
+| 36. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének engedélyezése egy típusra | 276 000 |
 
-| 35. | 27 000 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének kiterjesztése típusonként | 290 000 |
+| 37. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének kiterjesztése típusonként | 267 000 |
 
-| 36. | 27 000 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet engedélye érvényességének meghosszabbítása | 290 000 |
+| 38. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet kérelmére induló 2042/2003/EK rendelet II. melléklet A. szakasz 145.B.30. pontja szerinti audit díja | 96 000 |
 
-| 37. | Légijárművek gázturbinás hajtóművének karbantartását végző szervezet tevékenységének engedélyezése egy hajtóműtípusra | 39 000 |
+| 39. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet engedélye érvényességének meghosszabbítása | 193 000 |
 
-| 38. | Légijárművek gázturbinás hajtóművének karbantartását végző szervezet tevékenységének kiterjesztése típusonként | 330 000 |
+| 40. | 27 000 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének engedélyezése egy típusra | 461 000 |
 
-| 39. | Légijárművek gázturbinás hajtóművének karbantartását végző szervezet engedélye érvényességének meghosszabbítása | 350 000 |
+| 41. | 27 000 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet tevékenységének kiterjesztése típusonként | 267 000 |
 
-| 40. | Légijárművek dugattyús hajtóművének karbantartását végző szervezet tevékenységének engedélyezése egy hajtóműtípusra | 60 000 |
+| 42. | 27 000 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet kérelmére induló 2042/2003/EK rendelet II. melléklet A. szakasz 145.B.30. pontja szerinti audit díja | 133 000 |
 
-| 41. | Légijárművek dugattyús hajtóművének karbantartását végző szervezet tevékenységének kiterjesztése típusonként | 50 000 |
+| 43. | 27 000 kg feletti maximális felszálló tömegű légijárművek forgalmi és/vagy alapkarbantartását végző szervezet engedélye érvényességének meghosszabbítása | 267 000 |
 
-| 42. | Légijárművek dugattyús hajtóművének karbantartását végző szervezet engedélye érvényességének meghosszabbítása | 50 000 |
+| 44. | Légijárművek gázturbinás hajtóművének karbantartását végző szervezet tevékenységének engedélyezése egy hajtóműtípusra | 304 000 |
 
-| 43. | Légijárművek segédhajtóművének karbantartását végző szervezet tevékenységének engedélyezése segédhajtómű-típusonként | 90 000 |
+| 45. | Légijárművek gázturbinás hajtóművének karbantartását végző szervezet tevékenységének kiterjesztése típusonként | 304 000 |
 
-| 44. | Légijárművek segédhajtóművének karbantartását végző szervezet tevékenységének kiterjesztése típusonként | 80 000 |
+| 46. | Légijárművek gázturbinás hajtóművének karbantartását végző szervezet engedélye érvényességének meghosszabbítása | 322 000 |
 
-| 45. | Légijárművek segédhajtóművének karbantartását végző szervezet engedélye érvényességének meghosszabbítása | 80 000 |
+| 47. | Légijárművek gázturbinás hajtóművének karbantartását végző szervezet kérelmére induló 2042/2003/EK rendelet II. melléklet A. szakasz 145.B.30. pontja szerinti audit díja | 161 000 |
 
-| 46. | Légijárművek komplett hajtóművének vagy segédhajtóművének nem minősülő alkatrészeinek, berendezéseinek és/vagy sárkányszerkezetének karbantartását végző szervezet tevékenységének engedélyeztetése egy C kategóriára, kategóriánként maximum 5 berendezéstípusra | 65 000 |
+| 48. | Légijárművek dugattyús hajtóművének karbantartását végző szervezet tevékenységének engedélyezése egy hajtóműtípusra | 55 000 |
 
-| 47. | Légijárművek komplett hajtóművének vagy segédhajtóművének nem minősülő alkatrészeinek, berendezéseinek és/vagy sárkányszerkezetének karbantartását végző szervezet tevékenységének kiterjesztése kategóriánként egy-egy berendezéstípussal | 50 000 |
+| 49. | Légijárművek dugattyús hajtóművének karbantartását végző szervezet tevékenységének kiterjesztése típusonként | 46 000 |
 
-| 48. | Légijárművek komplett hajtóművének vagy segédhajtóművének nem minősülő alkatrészeinek, berendezéseinek és/vagy sárkányszerkezetének karbantartását végző szervezet engedélye érvényességi idejének meghosszabbítása | 50 000 |
+| 50. | Légijárművek dugattyús hajtóművének karbantartását végző szervezet kérelmére induló 2042/2003/EK rendelet II. melléklet A. szakasz 145.B.30. pontja szerinti audit díja | 23 000 |
 
-| 49. | Légijármű sárkány vagy hajtómű szerkezeti elemeinek roncsolásmentes anyagvizsgálatát végző szervezet tevékenységének engedélyezése egy vizsgálati módszerre | 80 500 |
+| 51. | Légijárművek dugattyús hajtóművének karbantartását végző szervezet engedélye érvényességének meghosszabbítása | 46 000 |
 
-| 50. | Légijármű sárkány vagy hajtómű szerkezeti elemeinek roncsolásmentes anyagvizsgálatát végző szervezet tevékenységének kiterjesztése vizsgálati módszerenként | 70 000 |
+| 52. | Légijárművek segédhajtóművének karbantartását végző szervezet tevékenységének engedélyezése segédhajtómű-típusonként | 83 000 |
 
-| 51. | Légijármű sárkány vagy hajtómű szerkezeti elemeinek roncsolásmentes anyagvizsgálatát végző szervezet engedélye érvényességi idejének meghosszabbítása | 60 000 |
+| 53. | Légijárművek segédhajtóművének karbantartását végző szervezet tevékenységének kiterjesztése típusonként | 73 000 |
 
-| 52. | Karbantartó szervezet Működési Szabályzat (MOE) jóváhagyása abban az esetben, ha a kézikönyv változtatásához nem kapcsolódik tevékenységi kör megváltozása, a szervezet jóváhagyására vonatkozó díjtétel 50%-a |  |
+| 54. | Légijárművek segédhajtóművének karbantartását végző szervezet kérelmére induló 2042/2003/EK rendelet II. melléklet A. szakasz 145.B.30. pontja szerinti audit díja | 37 000 |
 
-| II. LÉGIJÁRMŰVEK FÖLDI ÉS LÉGI ÜZEMELTETÉSÉVEL, MINŐSÍTÉSÉVEL ÉS ENGEDÉLYEZÉSÉVEL KAPCSOLATOS HATÓSÁGI ELJÁRÁSOK, ENGEDÉLYEZÉSEK Típusalkalmassági vizsgálat az 1592/2002/EK rendelet II. sz. melléklete szerinti légijárművek esetében Lt. 46. § (1), 15. § (2), Vhr. 1. § (4) 1. pont, 63/2001. (XII. 23.) KöViM rendelet 1592/2002/EK rendelet |
+| 55. | Légijárművek segédhajtóművének karbantartását végző szervezet engedélye érvényességének meghosszabbítása | 74 000 |
 
-| 53. | Típusalkalmassági vizsgálat és Bizonyítvány kiadása, ultralight (mikrolight) és vitorlázó repülőgép, levegőnél könnyebb légijármű esetében | 241 500 |
+| 56. | Légijárművek komplett hajtóművének vagy segédhajtóművének nem minősülő alkatrészeinek, berendezéseinek és/vagy sárkányszerkezetének karbantartását végző szervezet tevékenységének engedélyeztetése egy C kategóriára, kategóriánként maximum 5 berendezéstípusra | 60 000 |
 
-| 54. | Típusalkalmassági vizsgálat és Bizonyítvány kiadása ejtőernyő, siklóernyő, motoros siklóernyő légijármű esetén | 60 400 |
+| 57. | Légijárművek komplett hajtóművének vagy segédhajtóművének nem minősülő alkatrészeinek, berendezéseinek és/vagy sárkányszerkezetének karbantartását végző szervezet tevékenységének kiterjesztése kategóriánként egy-egy berendezéstípussal | 46 000 |
 
-| 55. | Típusalkalmassági vizsgálat és Bizonyítvány kiadása honosítási eljárásban ultralight (mikrolight), vitorlázó repülőgép, levegőnél könnyebb légijármű esetében | 50 200 |
+| 58. | Légijárművek komplett hajtóművének vagy segédhajtóművének nem minősülő alkatrészeinek, berendezéseinek és/vagy sárkányszerkezetének karbantartását végző szervezet kérelmére induló 2042/2003/EK rendelet II. melléklet A. szakasz 145.B.30. pontja szerinti audit díja | 23 000 |
 
-| 56. | Típusalkalmassági vizsgálat és Bizonyítvány kiadása honosítási eljárásban ejtőernyő, siklóernyő, motoros siklóernyő légijármű esetén | 16 000 |
+| 59. | Légijárművek komplett hajtóművének vagy segédhajtóművének nem minősülő alkatrészeinek, berendezéseinek és/vagy sárkányszerkezetének karbantartását végző szervezet engedélye érvényességi idejének meghosszabbítása | 46 000 |
 
-| 57. | Kiegészítő típusalkalmassági vizsgálat és Bizonyítvány kiadása ultralight (mikrolight), vitorlázó repülőgép, levegőnél könnyebb légijármű esetében | 60 400 |
+| 60. | Légijármű sárkány vagy hajtómű szerkezeti elemeinek roncsolásmentes anyagvizsgálatát végző szervezet tevékenységének engedélyezése egy vizsgálati módszerre | 74 000 |
 
-| 58. | Kiegészítő típusalkalmassági vizsgálat és Bizonyítvány kiadása ejtőernyő, siklóernyő, motoros siklóernyő légijármű esetén | 16 000 |
+| 61. | Légijármű sárkány vagy hajtómű szerkezeti elemeinek roncsolásmentes anyagvizsgálatát végző szervezet tevékenységének kiterjesztése vizsgálati módszerenként | 64 000 |
 
-| 59. | Kiegészítő vagy meghatározott célú típusalkalmassági vizsgálat és bizonyítvány kiadása 750 kg feletti felszálló tömegű légijármű esetében | 100 300 |
+| 62. | Légijármű sárkány vagy hajtómű szerkezeti elemeinek roncsolásmentes anyagvizsgálatát végző szervezet kérelmére induló 2042/2003/EK rendelet II. melléklet A. szakasz 145.B.30. pontja szerinti audit díja | 27 000 |
 
-| Légijárművek lajstromba vétele Lt. 12. § (1), 15. § (2), Vhr. 1. § (4) 1. pont, 32/2001. (IX. 28.) KöViM rendelet |
+| 63. | Légijármű sárkány vagy hajtómű szerkezeti elemeinek roncsolásmentes anyagvizsgálatát végző szervezet engedélye érvényességi idejének meghosszabbítása | 55 000 |
 
-| 60. | Légijárműnek Magyarország Állami Légijármű Lajstromába vétele ultralight, microlight, vitorlázó repülőgép és levegőnél könnyebb légijárművek esetében | 50 200 |
+| 64. | Karbantartó szervezet Működési Szabályzat (MOE) jóváhagyása abban az esetben, ha a kézikönyv változtatásához nem kapcsolódik tevékenységi kör megváltozása, a szervezet jóváhagyására vonatkozó díjtétel 50%-a |  |
 
-| 61. | Légijárműnek Magyarország Állami Légijármű Lajstromába vétele 5700 kg vagy ez alatti, de 750 kg feletti felszálló tömegű légijárművek esetében | 80 500 |
+| II. LÉGIJÁRMŰVEK FÖLDI ÉS LÉGI ÜZEMELTETÉSÉVEL, MINŐSÍTÉSÉVEL ÉS ENGEDÉLYEZÉSÉVEL KAPCSOLATOS HATÓSÁGI ELJÁRÁSOK, ENGEDÉLYEZÉSEK |
 
-| 62. | Légijárműnek Magyarország Állami Légijármű Lajstromába vétele 5700 kg feletti felszálló tömegű légijárművek esetében | 150 800 |
+| Típusalkalmassági vizsgálat a 216/2008/EK rendelet II. melléklete szerinti légijárművek esetében |
 
-| 63. | A lajstromjel előzetes kijelölése 60–63-ig az alkalmazott díjtétel 50%-a |  |
+| Lt. 46. § (1) bekezdése, Korm. Rend. 5. § (5) bekezdés 3. pontja, 63/2001. (XII. 23.) KöViM rendelet, 216/2008/EK rendelet |
 
-| 64. | Az ideiglenes lajstromjel kijelölése 60–63-ig az alkalmazott díjtétel 50%-a |  |
+| 65. | Típusalkalmassági vizsgálat és Bizonyítvány kiadása, ultralight (mikrolight) és vitorlázó repülőgép, levegőnél könnyebb légijármű esetében | 223 000 |
 
-| 65. | Tulajdonjogban bekövetkezett változás bejegyzése, tulajdonosváltásonként | 60 400 |
+| 66. | Típusalkalmassági vizsgálat és Bizonyítvány kiadása ejtőernyő, siklóernyő, motoros siklóernyő légijármű esetében | 55 000 |
 
-| 66. | A légijárműnek Magyarország Állami Légijármű Lajstromából való törlése | 2 000 |
+| 67. | Típusalkalmassági vizsgálat és Bizonyítvány kiadása honosítási eljárásban ultralight (mikrolight), vitorlázó repülőgép, levegőnél könnyebb légijármű esetében | 46 000 |
 
-| 67. | A 12 hónapon túl lejárt légialkalmassággal rendelkező légijárműnek Magyarország Állami Légijármű Lajstromban való tartási díja, évenként | 50 000 |
+| 68. | Típusalkalmassági vizsgálat és Bizonyítvány kiadása honosítási eljárásban ejtőernyő, siklóernyő, motoros siklóernyő légijármű esetében | 15 000 |
 
-| 68. | Lajstromozással kapcsolatos adatszolgáltatás kérése, légijárművenként | 4 000 |
+| 69. | Kiegészítő típusalkalmassági vizsgálat és Bizonyítvány kiadása ultralight (mikrolight), vitorlázó repülőgép, levegőnél könnyebb légijármű esetében | 55 000 |
 
-| 69. | A légijárművet terhelő jelzálog és egyéb jog bejegyzése, módosítása | 60 400 |
+| 70. | Kiegészítő típusalkalmassági vizsgálat és Bizonyítvány kiadása ejtőernyő, siklóernyő, motoros siklóernyő légijármű esetében | 15 000 |
 
-| 70. | A légijárművet terhelő jelzálog és egyéb jog törlése | 20 100 |
+| 71. | Kiegészítő vagy meghatározott célú típusalkalmassági vizsgálat és bizonyítvány kiadása 750 kg feletti felszálló tömegű légijármű esetében | 92 000 |
 
-| III. A LÉGIJÁRMŰ LÉGIALKALMASSÁGÁNAK BIZTOSÍTÁSA FELÜLVIZSGÁLATA, BIZONYÍTVÁNY KIADÁSA ÉS AZ ÉRVÉNYESSÉGI IDEJÉNEK MEGHOSSZABBÍTÁSA Lt. 48. § (2) és (4), Vhr. 1. § (4) 3. pont, 63/2001. (XII. 23.) KöViM rendelet 2042/2003/EK rendelet |
+| 72. | Tiltott veszélyes áruk, anyagok egyedi légiszállítási hatósági engedélyezése | 14 000 |
 
-| 71. | 5700 kg és annál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet tevékenységének engedélyezése egy légijárműtípusra | 50 000 |
+| Légijárművek lajstromba vétele Lt. 12–14. §-a, Korm. Rend. 5. § (5) bekezdés 1. pontja, 32/2001. (IX. 28.) KöViM rendelet |
 
-| 72. | 5700 kg és annál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet tevékenységének kiterjesztése légijárműtípusonként | 30 000 |
+| 73. | Légijárműnek a Magyarország Állami Légijármű Lajstromába vétele ultralight, microlight, vitorlázó repülőgép és levegőnél könnyebb légijárművek esetében | 46 000 |
 
-| 73. | 5700 kg és annál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet engedélye érvényességi idejének meghosszabbítása | 50 000 |
+| 74. | Légijárműnek a Magyarország Állami Légijármű Lajstromába vétele 5700 kg vagy ez alatti, de 750 kg feletti felszálló tömegű légijárművek esetében | 74 000 |
 
-| 74. | 5700 kg-nál nagyobb és 27 000 kg-nál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet tevékenységének engedélyezése egy légijárműtípusra | 450 000 |
+| 75. | Légijárműnek a Magyarország Állami Légijármű Lajstromába vétele 5700 kg feletti felszálló tömegű légijárművek esetében | 166 000 |
 
-| 75. | 5700 kg-nál nagyobb és 27 000 kg-nál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet tevékenységének kiterjesztése légijárműtípusonként | 400 000 |
+| 76. | A lajstromjel előzetes kijelölése 73–75-ig az alkalmazott díjtétel 50%-a |  |
 
-| 76. | 5700 kg-nál nagyobb és 27 000 kg-nál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet engedélye érvényességi idejének meghosszabbítása | 300 000 |
+| 77. | Az ideiglenes lajstromjel kijelölése 73–75-ig az alkalmazott díjtétel 50%-a |  |
 
-| 77. | 27 000 kg és annál nagyobb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet tevékenységének engedélyezése egy légijármű- típusra | 750 000 |
+| 78. | Tulajdonjogban bekövetkezett változás bejegyzése, tulajdonosváltásonként | 64 000 |
 
-| 78. | 27 000 kg és annál nagyobb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet tevékenységének kiterjesztése légijárműtípuson- ként | 700 000 |
+| 79. | A légijárműnek a Magyarország Állami Légijármű Lajstromából való törlése | 19 000 |
 
-| 79. | 27 000 kg és annál nagyobb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet engedélye érvényességi idejének meghosszabbítása | 600 000 |
+| 80. | A 12 hónapon túl lejárt légialkalmassággal rendelkező légijárműnek a Magyarország Állami Légijármű Lajstromban való tartási díja, évenként | 18 000 |
 
-| 80. | 5700 kg és annál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet működésének a légialkalmassági felülvizsgálati bizonyítvány kiadásának jogával való kiterjesztése légijárműtípusonként | 50 000 |
+| 81. | Lajstromozással kapcsolatos adatszolgáltatás kérése, légijárművenként | 5 000 |
 
-| 81. | 5700 kg-nál nagyobb és 27 000 kg-nál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet működésének a légialkalmassági felülvizsgálati bizonyítvány kiadásának jogával való kiterjesztése légijárműtípusonként | 150 000 |
+| 82. | A légijárművet terhelő jelzálog és egyéb jog bejegyzése, módosítása | 69 000 |
 
-| 82. | 27 000 kg és annál nagyobb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet működésének a légialkalmassági felülvizsgálati bizonyítvány kiadásának jogával való kiterjesztése légijárműtípusonként | 300 000 |
+| 83. | A légijárművet terhelő jelzálog és egyéb jog törlése | 32 000 |
 
-| 83. | Folyamatos légialkalmasság felügyelő szervezet kézikönyvének (CAMOE) jóváhagyása abban az esetben ha a kézikönyv változtatásához nem kapcsolódik tevékenységi kör megváltozása, a szervezet jóváhagyására vonatkozó díjtétel 50%-a |  |
+| III. A LÉGIJÁRMŰ LÉGIALKALMASSÁGÁNAK BIZTOSÍTÁSA, FELÜLVIZSGÁLATA, BIZONYÍTVÁNY KIADÁSA ÉS AZ ÉRVÉNYESSÉGI IDEJÉNEK MEGHOSSZABBÍTÁSA |
 
-| 84. | Ejtőernyő, ultralight, microlight, vitorlázó repülőgép és levegőnél könnyebb légijárművek | 20 100 |
+| Lt. 48. § (2) és (4) bekezdése, Korm. Rend. 5. § (5) bekezdés 4. pontja, 63/2001. (XII. 23.) KöViM rendelet, 2042/2003/EK rendelet |
 
-| 85. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű légijárművek 1702/2003/EK rendelet szerinti légialkalmassági bizonyítványának kiadása | 30 200 |
+| 84. | 5700 kg és annál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet tevékenységének engedélyezése egy légijárműtípusra | 46 000 |
 
-| 86. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű légijárművek 1702/2003/EK rendelet szerinti légialkalmassági bizonyítványa érvényességi idejének meghosszabbítása | 29 000 |
+| 85. | 5700 kg és annál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet tevékenységének kiterjesztése légijárműtípusonként | 28 000 |
 
-| 87. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek 1702/2003/EK rendelet szerinti légialkalmassági bizonyítványának kiadása | 120 700 |
+| 86. | 5700 kg és annál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet kérelmére induló 2042/2003 EK rendelet I. melléklet B szakasz G alrész M.B. 704 b) pontja szerinti audit díja | 23 000 |
 
-| 88. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek 1702/2003/EK rendelet szerinti légialkalmassági bizonyítványa érvényességi idejének meghosszabbítása | 130 000 |
+| 87. | 5700 kg és annál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet engedélye érvényességi idejének meghosszabbítása | 46 000 |
 
-| 89. | 27 000 kg feletti maximális felszálló tömegű légijárművek 1702/2003/EK rendelet szerinti légialkalmassági bizonyítványának kiadása | 201 100 |
+| 88. | 5700 kg-nál nagyobb és 27 000 kg-nál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet tevékenységének engedélyezése egy légijárműtípusra | 414 000 |
 
-| 90. | 27 000 kg feletti maximális felszálló tömegű légijárművek 1702/2003/EK rendelet szerinti légialkalmassági bizonyítványa érvényességi idejének meghosszabbítása | 250 000 |
+| 89. | 5700 kg-nál nagyobb és 27 000 kg-nál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet tevékenységének kiterjesztése légijárműtípusonként | 368 000 |
 
-| 91. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű légijárművek 63/2001. (XII. 23.) KöViM rendelet szerinti légialkalmassági bizonyítvány kiadása vagy annak érvényességi idejének meghosszabbítása | 30 000 |
+| 90. | 5700 kg-nál nagyobb és 27 000 kg-nál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet kérelmére induló 2042/2003 EK rendelet I. melléklet B szakasz G alrész M.B. 704 b) pontja szerinti audit díja | 138 000 |
 
-| 92. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek 63/2001. (XII. 23.) KöViM rendelet szerinti légialkalmassági bizonyítvány kiadása vagy annak érvényességi idejének meghosszabbítása | 130 000 |
+| 91. | 5700 kg-nál nagyobb és 27 000 kg-nál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet engedélye érvényességi idejének meghosszabbítása | 276 000 |
 
-| 93. | 27 000 kg feletti maximális felszálló tömegű légijárművek 63/2001. (XII. 23.) KöViM rendelet szerinti légialkalmassági bizonyítvány kiadása vagy annak érvényességi idejének meghosszabbítása | 250 000 |
+| 92. | 27 000 kg és annál nagyobb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet tevékenységének engedélyezése egy légijárműtípusra | 690 000 |
 
-| 94. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű légijárművek 2042/2003/EK rendelet szerinti légialkalmassági felülvizsgálati bizonyítványának kiadása | 30 000 |
+| 93. | 27 000 kg és annál nagyobb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet tevékenységének kiterjesztése légijárműtípusonként | 644 000 |
 
-| 95. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek 2042/2003/EK rendelet szerinti légialkalmassági felülvizsgálati bizonyítványának kiadása | 130 000 |
+| 94. | 27 000 kg és annál nagyobb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet kérelmére induló 2042/2003 EK rendelet I. melléklet B szakasz G alrész M.B. 704 b) pontja szerinti audit díja | 276 000 |
 
-| 96. | 27 000 kg feletti maximális felszálló tömegű légijárművek 2042/2003/EK rendelet szerinti légialkalmassági felülvizsgálati bizonyítványának kiadása | 250 000 |
+| 95. | 27 000 kg és annál nagyobb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet engedélye érvényességi idejének meghosszabbítása | 552 000 |
 
-| 97. | 5700 kg feletti maximális felszálló tömegű légijárművek 63/2001. (XII. 23.) KöViM rendelet szerinti légialkalmassági bizonyítványa érvényességi idejének maximum 30 nappal történő meghosszabbítása | 100 300 |
+| 96. | 5700 kg és annál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet működésének a légialkalmassági felülvizsgálati bizonyítvány kiadásának jogával való kiterjesztése légijárműtípusonként | 46 000 |
 
-| 98. | 5700 kg vagy ez alatti maximális felszálló tömegű légijárművek 63/2001. (XII. 23.) KöViM rendelet szerinti légialkalmassági bizonyítványa érvényességi idejének maximum 30 nappal történő meghosszabbítása | 10 000 |
+| 97. | 5700 kg-nál nagyobb és 27 000 kg-nál kisebb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet működésének a légialkalmassági felülvizsgálati bizonyítvány kiadásának jogával való kiterjesztése légijárműtípusonként | 138 000 |
 
-| 99. | A légijármű rendeltetése módosításának vizsgálata. A vonatkozó érvényesítés hosszabbítására vonatkozó tételek díjainak 3/4-e |  |
+| 98. | 27 000 kg és annál nagyobb maximális felszálló tömegű légijárművek folyamatos légialkalmasságát felügyelő szervezet működésének a légialkalmassági felülvizsgálati bizonyítvány kiadásának jogával való kiterjesztése légijárműtípusonként | 276 000 |
 
-| 100. | Az export légialkalmasság vizsgálata és bizonyítványának kiadása. A vonatkozó érvényesítés hosszabbítására vonatkozó tételek díjainak 3/4-e |  |
+| 99. | Folyamatos légialkalmasság felügyelő szervezet kézikönyvének (CAMOE) jóváhagyása abban az esetben, ha a kézikönyv változtatásához nem kapcsolódik tevékenységi kör megváltozása, a szervezet jóváhagyására vonatkozó díjtétel 50%-a |  |
 
-| IV. EGYÉB, A LÉGIJÁRMŰVEKKEL KAPCSOLATOS HATÓSÁGI INTÉZKEDÉSEK 63/2001. (XII. 23.) KöViM rendelet |
+| 100. | Ejtőernyő, ultralight, microlight, vitorlázó repülőgép és levegőnél könnyebb légijárművek légialkalmassági bizonyítványának kiadása | 18 000 |
 
-| 101. | A légijármű bizonyítványaiban beállt adatváltozások bejegyzése, Vhr. 5. § (2) i) pont, 32/2001. (IX. 28.) KöViM rendelet | 40 200 |
+| 101. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű légijárművek 1702/2003/EK rendelet szerinti légialkalmassági bizonyítványának kiadása | 29 000 |
 
-| 102. | Légijárművön végrehajtandó módosítás, újítás, bulletin engedélyezése légijárművenként, amikor a végrehajtáshoz szükséges munkaidő 25 óra alatt van, Lt. 29. § (1) és Vhr. 13. § (1) | 20 100 |
+| 102. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű légijárművek 1702/2003/EK rendelet szerinti légialkalmassági bizonyítványa érvényességi idejének meghosszabbítása | 28 000 |
 
-| 103. | Légijárműtípuson végrehajtandó módosítás, újítás, bulletin engedélyezése légijárművenként, amikor a végrehajtáshoz szükséges munkaidő 25 óra alatt van, Lt. 29. § (1) és Vhr. 13. § (1) | 40 200 |
+| 103. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek 1702/2003/EK rendelet szerinti légialkalmassági bizonyítványának kiadása | 115 000 |
 
-| 104. | Légijárművön végrehajtandó módosítás, újítás, bulletin engedélyezése légijárművenként, amikor a végrehajtáshoz szükséges munkaidő 25–100 óra között van | 30 200 |
+| 104. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek 1702/2003/EK rendelet szerinti légialkalmassági bizonyítványa érvényességi idejének meghosszabbítása | 120 000 |
 
-| 105. | Légijárműtípuson végrehajtandó módosítás, újítás, bulletin engedélyezése, amikor a végrehajtáshoz szükséges munkaidő 25–100 óra között van | 43 800 |
+| 105. | 27 000 kg feletti maximális felszálló tömegű légijárművek 1702/2003/EK rendelet szerinti légialkalmassági bizonyítványának kiadása | 192 000 |
 
-| 106. | Légijárművön végrehajtandó módosítás, újítás, bulletin engedélyezése légijárművenként, amikor a végrehajtáshoz szükséges munkaidő 100 órán felül van | 60 400 |
+| 106. | 27 000 kg feletti maximális felszálló tömegű légijárművek 1702/2003/EK rendelet szerinti légialkalmassági bizonyítványa érvényességi idejének meghosszabbítása | 230 000 |
 
-| 107. | Légijárműtípuson végrehajtandó módosítás, újítás, bulletin engedélyezése, amikor a végrehajtáshoz szükséges munkaidő 100 órán felül van | 84 500 |
+| 107. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű légijárművek 63/2001. (XII. 23.) KöViM rendelet szerinti légialkalmassági bizonyítvány kiadása vagy annak érvényességi idejének meghosszabbítása | 28 000 |
 
-| 108. | Érvényes légialkalmassági bizonyítvánnyal nem rendelkező légijárművekkel való repülések, egyszeri átrepülések vizsgálata és engedélyezése, Lt. 3. § (1), (3) Vhr. 1. § (4) 12. pont | 10 000 |
+| 108. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek 63/2001. (XII. 23.) KöViM rendelet szerinti légialkalmassági bizonyítvány kiadása vagy annak érvényességi idejének meghosszabbítása | 121 000 |
 
-| 109. | Érvényes szakmai szabályoktól – a jogszabályok és egyéb szakmai szabályok által lehetővé tett – eltérések engedélyezésének eljárása, Vhr. 1. § (4) 2. pont | 30 200 |
+| 109. | 27 000 kg feletti maximális felszálló tömegű légijárművek 63/2001. (XII. 23.) KöViM rendelet szerinti légialkalmassági bizonyítvány kiadása vagy annak érvényességi idejének meghosszabbítása | 230 000 |
 
-| 110. | Üzemidő, illetve élettartam hosszabbításának engedélyezése 5700 kg, vagy ez alatti felszálló tömegű légijárművek esetében légijárművenként | 30 200 |
+| 110. | 5700 kg vagy ez alatti, de 750 kg feletti maximális felszálló tömegű légijárművek 2042/2003/EK rendelet szerinti légialkalmassági felülvizsgálati bizonyítványának kiadása | 27 000 |
 
-| 111. | Egyéni munkavállalói engedélyezés hatósági eljárása | 10 000 |
+| 111. | 27 000 kg vagy ez alatti, de 5700 kg feletti maximális felszálló tömegű légijárművek 2042/2003/EK rendelet szerinti légialkalmassági felülvizsgálati bizonyítványának kiadása | 119 000 |
 
-| 112. | Szakértői tevékenység kérelmének véleményezése 33/1999. (X. 15.) KHVM rendelet | 10 000 |
+| 112. | 27 000 kg feletti maximális felszálló tömegű légijárművek 2042/2003/EK rendelet szerinti légialkalmassági felülvizsgálati bizonyítványának kiadása | 230 000 |
 
-| 113. | Légijármű hatósági felülvizsgálatára szóló engedély/megbízás kiadása kérelemre erre jogosított, de nem az NKH alkalmazásában álló személyeknek, Lt. 3. § (3) | 60 400 |
+| 113. | 5700 kg feletti maximális felszálló tömegű légijárművek 63/2001. (XII. 23.) KöViM rendelet szerinti légialkalmassági bizonyítványa érvényességi idejének maximum 30 nappal történő meghosszabbítása | 92 000 |
 
-| 114. | Légijármű hatósági felülvizsgálatára szóló engedély/megbízás kiadása kérelemre erre jogosított szervezetnek, ennek meghosszabbítása | 301 800 |
+| 114. | 5700 kg vagy ez alatti maximális felszálló tömegű légijárművek 63/2001. (XII. 23.) KöViM rendelet szerinti légialkalmassági bizonyítványa érvényességi idejének maximum 30 nappal történő meghosszabbítása | 23 000 |
 
-| 115. | Speciális szállítási feladatok előtt a légijármű minősítése | 29 300 |
+| 115. | A légijármű rendeltetése módosításának vizsgálata. A vonatkozó érvényesítés hosszabbítására vonatkozó tételek díjainak 3/4-e |  |
 
-| 116. | Ultralight légijárművek és üzemeltetőik hatósági jóváhagyásra kötelezett dokumentációinak eljárása (üzemben tartási engedély megléte esetén), Lt. 3. § (3), 20/2002. (III. 30.) KöViM rendelet | 36 600 |
+| 116. | Az export légialkalmasság vizsgálata és bizonyítványának kiadása. A vonatkozó érvényesítés hosszabbítására vonatkozó tételek díjainak 3/4-e |  |
 
-| 117. | 5700 kg vagy ez alatti felszálló tömegű légijárművek és üzemeltetőik hatósági jóváhagyásra kötelezett dokumentációinak eljárása (üzemben tartási engedély megléte esetén), Lt. 3. § (3), 20/2002. (III. 30.) KöViM rendelet | 60 400 |
+| IV. EGYÉB, A LÉGIJÁRMŰVEKKEL KAPCSOLATOS HATÓSÁGI INTÉZKEDÉSEK Lt. 29. § (1) bekezdése, Korm. Rend. 5. § (5) bekezdés 3. pontja, 21. és 22. pontja, 63/2001. (XII. 23.) KöViM rendelet 52. § (1) bekezdése, 32/2001. (IX. 28.) KöViM rendelet 2. § (5) bekezdése, 20/2002. (III. 30.) KöViM rendelet 4. § (3) bekezdés c), d), f) pontja |
 
-| 118. | 5700 kg feletti felszálló tömegű légijárművek és üzemeltetőik hatósági jóváhagyásra kötelezett dokumentációinak eljárása (üzemben tartási engedély megléte esetén), Lt. 3. § (3), 20/2002. (III. 30.) KöViM rendelet | 100 500 |
+| 117. | A légijármű bizonyítványaiban beállt adatváltozások bejegyzése | 37 000 |
 
-| 119. | 5700 kg vagy ez alatti felszálló tömegű légijárművek hatóság által jóváhagyásra kötelezett dokumentációjának ideiglenes módosítása | 11 400 |
+| 118. | Légijárművön végrehajtandó módosítás, újítás, bulletin engedélyezése légijárművenként, amikor a végrehajtáshoz szükséges munkaidő 25 óra alatt van | 18 000 |
 
-| 120. | 5700 kg feletti felszálló tömegű légijárművek hatóság által jóváhagyásra kötelezett dokumentációjának ideiglenes módosítása | 22 800 |
+| 119. | Légijárműtípuson végrehajtandó módosítás, újítás, bulletin engedélyezése légijárművenként, amikor a végrehajtáshoz szükséges munkaidő 25 óra alatt van | 37 000 |
 
-| 121. | PLI által jóváhagyott dokumentációktól való eltérés engedélyezése kivételes esetekben | 30 200 |
+| 120. | Légijárművön végrehajtandó módosítás, újítás, bulletin engedélyezése légijárművenként, amikor a végrehajtáshoz szükséges munkaidő 25–100 óra között van | 27 000 |
 
-| 122. | Egyéb, az előbbiekben fel nem sorolt kérelmek elbírálása és hatósági eljárása, Lt. 3. § (3) | 20 100 |
+| 121. | Légijárműtípuson végrehajtandó módosítás, újítás, bulletin engedélyezése, amikor a végrehajtáshoz szükséges munkaidő 25–100 óra között van | 41 000 |
 
-| Légijármű zajminősítése Vhr. 1. § (4) 19. pont, 49/1999. (XII. 29.) KHVM rendelet |
+| 122. | Légijárművön végrehajtandó módosítás, újítás, bulletin engedélyezése légijárművenként, amikor a végrehajtáshoz szükséges munkaidő 100 órán felül van | 60 000 |
 
-| 123. | 9000 kg-nál nagyobb felszálló tömegű légcsavaros és hangsebességnél kisebb sebességű sugárhajtású repülőgépek zajminősítési bizonyítvány honosítása vagy kiadása | 80 500 |
+| 123. | Légijárműtípuson végrehajtandó módosítás, újítás, bulletin engedélyezése, amikor a végrehajtáshoz szükséges munkaidő 100 órán felül van | 78 000 |
 
-| 124. | 9000 kg vagy ennél kisebb felszálló tömegű légcsavaros repülőgépek és 2730 kg-nál nagyobb felszálló tömegű helikopterek zajminősítési bizonyítvány honosítása vagy kiadása | 60 400 |
+| 124. | Érvényes légialkalmassági bizonyítvánnyal nem rendelkező légijárművekkel való repülések, egyszeri átrepülések vizsgálata és engedélyezése | 10 000 |
 
-| 125. | 2730 kg vagy ennél kisebb felszálló tömegű helikopterek zajminősítési bizonyítvány honosítása vagy kiadása | 40 200 |
+| 125. | Érvényes szakmai szabályoktól – a jogszabályok és egyéb szakmai szabályok által lehetővé tett – eltérések engedélyezésének eljárása | 27 000 |
 
-| 126. | 450 kg-nál kisebb felszálló tömegű légijárművek zajminősítési bizonyítvány honosítása vagy kiadása | 10 000 |
+| 126. | Üzemidő, illetve élettartam hosszabbításának engedélyezése 5700 kg, vagy ez alatti felszálló tömegű légijárművek esetében légijárművenként | 27 000 |
 
-| V. REPÜLŐTEREK ÉS LESZÁLLÓHELYEK ENGEDÉLYEZÉSÉNEK HATÓSÁGI ELJÁRÁSAI Lt. 19. § (1) b) és Vhr. 1. § (4) 5. és 6. pont, 21. § (3), 103/1999. (VII. 6.) Korm. rendelet, 24/1999. (VIII. 13.) KHVM rendelet Budapest Ferihegy Nemzetközi Repülőtér |
+| 127. | Légijármű légialkalmassági felülvizsgálatára szóló engedély/megbízás kiadása kérelemre erre jogosított, de nem a légiközlekedési hatóság alkalmazásában álló személyeknek [Part-M M.A.901 g)] | 48 000 |
 
-| 127. | Repülőtér alkalmasságának időszakos hatósági felülvizsgálata és az üzemben tartásra szóló tevékenységi engedély kérelemre történő meghosszabbítása | 553 000 |
+| 128. | Lajstromozásra nem kötelezett légijármű légialkalmasságának tanúsítására engedély/megbízás kiadása kérelemre erre jogosított szervezetnek, ennek meghosszabbítása | 25 000 |
 
-| 128. | Üzemben tartási engedélyben lévő adatok változásának hatósági bejegyeztetése és a módosított engedély kiadása | 48 300 |
+| 129. | Speciális szállítási feladatok előtt a légijármű minősítése | 27 000 |
 
-| 129. | Repülőtérrend módosítás hatósági jóváhagyása | 281 500 |
+| 130. | Ultralight légijárművek és üzemeltetőik hatósági jóváhagyásra kötelezett dokumentációinak eljárása (üzemben tartási engedély megléte esetén) | 32 000 |
 
-| 130. | Repülőtér működési feltételei megváltoztatásának jóváhagyása és fejlesztésének engedélyezése | 723 200 |
+| 131. | 5700 kg vagy ez alatti felszálló tömegű légijárművek és üzemeltetőik hatósági jóváhagyásra kötelezett dokumentációinak eljárása (üzemben tartási engedély megléte esetén) | 69 000 |
 
-| 131. | Repülőtér osztályba sorolása, átminősítése | 64 400 |
+| 132. | 5700 kg feletti felszálló tömegű légijárművek és üzemeltetőik hatósági jóváhagyásra kötelezett dokumentációinak eljárása (üzemben tartási engedély megléte esetén) | 92 000 |
 
-| Nyilvános repülőtér |
+| 133. | 5700 kg vagy ez alatti felszálló tömegű légijárművek hatóság által jóváhagyásra kötelezett dokumentációjának ideiglenes módosítása | 11 000 |
 
-| 132. | Létesítés engedélyezési eljárása | 382 200 |
+| 134. | 5700 kg feletti felszálló tömegű légijárművek hatóság által jóváhagyásra kötelezett dokumentációjának ideiglenes módosítása | 23 000 |
 
-| 133. | Újonnan létesített repülőtér műszaki átadás-átvételi eljárása és az üzemben tartási engedély kiadása | 372 000 |
+| 135. | Légiközlekedési hatóság által jóváhagyott dokumentációktól való eltérés engedélyezése kivételes esetekben | 27 000 |
 
-| 134. | Új Repülőtérrend hatósági jóváhagyása | 80 500 |
+| Légijármű zajminősítése Korm. Rend. 5. § (5) bekezdés 19. pontja, 49/1999. (XII. 29.) KHVM rendelet |
 
-| 135. | Repülőtér alkalmasságának időszakos hatósági felülvizsgálata és az üzemben tartásra szóló tevékenységi engedély kérelemre történő meghosszabbítása | 90 600 |
+| 136. | 8618 kg-nál nagyobb felszálló tömegű turboprop és sugárhajtású repülőgépek zajminősítési bizonyítvány honosítása vagy kiadása | 74 000 |
 
-| 136. | Repülőtérrend módosítás hatósági jóváhagyása | 40 200 |
+| 137. | 8618 kg vagy ennél kisebb felszálló tömegű légcsavaros repülőgépek és 3175 kg-nál nagyobb felszálló tömegű helikopterek zajminősítési bizonyítvány honosítása vagy kiadása | 56 000 |
 
-| 137. | Repülőtér működési feltételei megváltoztatásának jóváhagyása és fejlesztésének engedélyezésével kapcsolatos eljárás | 271 100 |
+| 138. | 3175 kg vagy ennél kisebb felszálló tömegű helikopterek zajminősítési bizonyítvány honosítása vagy kiadása | 38 000 |
 
-| 138. | Repülőtér osztályba sorolása, átminősítése | 64 400 |
+| 139. | 600 kg-nál kisebb felszálló tömegű légijárművek zajminősítési bizonyítvány honosítása vagy kiadása | 9 000 |
 
-| 139. | Üzemben tartási engedély adataiban történt változás hatósági bejegyeztetése és a módosított engedély kiadása | 24 100 |
+| V. REPÜLŐTEREK ÉS LESZÁLLÓHELYEK ENGEDÉLYEZÉSÉNEK HATÓSÁGI ELJÁRÁSAI |
 
-| 140. | Repülőtér megszüntetésének hatósági eljárása | 90 600 |
+| Lt. 19. § (1) bekezdés b) pontja és Korm. Rend. 5. § (5) bekezdés 6. pontja, 159/2010. (V. 6.) Korm. rendelet, 24/1999. (VIII. 13.) KHVM rendelet |
 
-| Polgári célú nem nyilvános repülőtér |
+| I. osztály Nemzetközivé nyilvánított kereskedelmi repülőtér |
 
-| 141. | Létesítés engedélyezési eljárása | 221 000 |
+| 140. | Elvi létesítési engedély kiadása (repülőtér) | 460 000 |
 
-| 142. | Újonnan létesített repülőtér műszaki átadás-átvételi eljárása és az üzemben tartási engedély kiadása | 281 300 |
+| 141. | Létesítési engedély kiadása | 779 000 |
 
-| 143. | Új Repülőtérrend hatósági jóváhagyása | 64 400 |
+| 142. | Üzembe helyezési engedély kiadása | 920 000 |
 
-| 144. | Repülőtér alkalmasságának időszakos hatósági felülvizsgálata és az üzemben tartásra szóló tevékenységi engedély kérelemre történő meghosszabbítása | 80 500 |
+| 143. | Megszüntetési engedély kiadása | 64 000 |
 
-| 145. | Repülőtérrend módosítás hatósági jóváhagyása | 32 100 |
+| 144. | Elvi építési engedély kiadása (épület) | 368 000 |
 
-| 146. | Repülőtér működési feltételei megváltoztatásának jóváhagyása és fejlesztésének engedélyezésével kapcsolatos eljárás | 191 000 |
+| 145. | Építési engedély kiadása | 552 000 |
 
-| 147. | Repülőtér osztályba sorolása, átminősítése | 64 400 |
+| 146. | Használatba vételi engedély kiadása | 920 000 |
 
-| 148. | Üzemben tartási engedély adataiban történt változás hatósági bejegyeztetése és a módosított engedély kiadása | 24 100 |
+| 147. | Bontási engedély kiadása | 46 000 |
 
-| 149. | Repülőtér megszüntetésének hatósági eljárása | 56 200 |
+| 148. | Repülőtér működési feltételei megváltoztatásának jóváhagyása és fejlesztésének engedélyezése | 920 000 |
 
-| Közös felhasználású (polgári és katonai, valamint katonai és polgári) repülőtér (polgári hatósági eljárás díjtételei) |
+| 149. | Repülőtér alkalmasságának 24/1999. (VIII. 13.) KHVM rendelet 3. § (1) bekezdés szerinti ügyfél kérelmére induló audit díja | 736 000 |
 
-| 150. | Repülőtér üzembe helyezési eljárása és az üzemben tartási engedély kiadása | 441 900 |
+| 150. | Üzemben tartási engedélyben lévő adatok változásának hatósági bejegyeztetése és a módosított engedély kiadása | 92 000 |
 
-| 151. | Repülőtér alkalmasságának időszakos hatósági felülvizsgálata és az üzemben tartásra szóló tevékenységi engedély kérelemre történő meghosszabbítása | 191 000 |
+| 151. | Repülőtérrend hatósági jóváhagyása | 460 000 |
 
-| 152. | Közös felhasználású repülőtér Repülőtérrendjének jóváhagyása | 321 800 |
+| 152. | Repülőtérrend módosítás hatósági jóváhagyása | 213 000 |
 
-| 153. | Repülőtérrend módosítás hatósági jóváhagyása | 131 000 |
+| II–III. osztály Kereskedelmi repülőtér |
 
-| 154. | Repülőtér működési feltételei megváltoztatásának jóváhagyása és fejlesztésének engedélyezésével kapcsolatos eljárás | 382 700 |
+| 153. | Elvi létesítési engedély kiadása (repülőtér) | 230 000 |
 
-| 155. | Repülőtér osztályba sorolása, átminősítése | 64 400 |
+| 154. | Létesítési engedély kiadása | 552 000 |
 
-| 156. | Üzemben tartási engedély adataiban történt változás hatósági bejegyeztetése és a módosított engedély kiadása | 44 600 |
+| 155. | Üzembe helyezési engedély kiadása | 399 000 |
 
-| Repülőtér zajgátló védőövezete kijelölésének eljárása Lt. 3. § (1), 38. § (2), Vhr. 1. § (4) 19. pont, 176/1997. (X. 11.) Korm. rendelet |
+| 156. | Megszüntetési engedély kiadása | 65 000 |
 
-| 157. | Védőövezetre vonatkozó számítás kiinduló adatai és a számítási eljárás eredményeinek hatósági jóváhagyása | 181 100 |
+| 157. | Elvi építési engedély kiadása (épület) | 184 000 |
 
-| 158. | Zajgátló védőövezet kijelölése |  |
+| 158. | Építési engedély kiadása | 368 000 |
 
-| 159. | Zajgátló védőövezet kijelölésének eljárási díja Budapest Ferihegy Nemzetközi Repülőtér esetében | 386 100 |
+| 159. | Használatba vételi engedély kiadása | 445 000 |
 
-| 160. | Zajgátló védőövezet kijelölésének eljárási díja nemzetközi légi forgalmat is lebonyolító kereskedelmi repülőtér esetén | 257 400 |
+| 160. | Bontási engedély kiadása | 46 000 |
 
-| 161. | Zajmonitor rendszer kiépítésére vonatkozó tervek jóváhagyása motoros repülőgépek forgalma esetén | 124 000 |
+| 161. | Repülőtér működési feltételei megváltoztatásának jóváhagyása és fejlesztésének engedélyezése | 460 000 |
 
-| 162. | Zajmonitor rendszer kiépítésére vonatkozó tervek hatósági jóváhagyása motoros sugárhajtású szubszónikus repülőgépek forgalma esetén | 376 200 |
+| 162. | Repülőtér alkalmasságának 24/1999. (VIII. 13.) KHVM rendelet 3. § (1) bekezdés szerinti ügyfél kérelmére induló audit díja | 321 000 |
 
-| 163. | Zajmonitor rendszer megváltoztatása iránt kezdeményezett eljárás, a repülőtér üzemben tartóján kívül egyéb érdekelt által | 180 800 |
+| 163. | Üzemben tartási engedélyben lévő adatok változásának hatósági bejegyeztetése és a módosított engedély kiadása | 55 000 |
 
-| Repülőtér biztonsági védőövezete kijelölésének eljárása Lt. 3. § (1), 38. § (2), 39. § (2)–(3)–(4) és Vhr. 18. § |
+| 164. | Repülőtérrend jóváhagyása | 230 000 |
 
-| 164. | Biztonsági védőövezet által érintett ingatlanok tulajdoni helyzetének vizsgálata, és a repülőtér osztályba sorolása alapján működési feltételeinek hatósági jóváhagyása | 140 800 |
+| 165. | Repülőtérrend módosítás hatósági jóváhagyása | 36 000 |
 
-| 165. | Biztonsági védőövezet kijelölésére készített szakértői javaslat hatósági jóváhagyása | 96 900 |
+| IV. osztály Nem nyilvános repülőtér |
 
-| 166. | Biztonsági védőövezet kijelölése, Lt. 38. § (2), 39. § (2), (3), (4) | 128 700 |
+| 166. | Elvi létesítési engedély kiadása (repülőtér) | 46 000 |
 
-| 167. | Biztonsági védőövezet kijelölésének eljárási díja Budapest Ferihegy Nemzetközi Repülőtér esetében | 386 100 |
+| 167. | Létesítési engedély kiadása | 161 000 |
 
-| 168. | Biztonsági védőövezet kijelölésének eljárási díja nemzetközi légi forgalmat is lebonyolító kereskedelmi repülőtér esetén | 257 400 |
+| 168. | Üzembe helyezési engedély kiadása | 138 000 |
 
-| Fel- és leszállóhelyek Vhr. 22. § (2) |
+| 169. | Megszüntetési engedély kiadása | 41 000 |
 
-| 169. | Nem nyilvános fel- és leszállóhely létesítésének és engedélyezésének eljárása (kivételt képez a mentő, tűzoltó és árvízvédelmi le- és felszállóhelyek) | 16 000 |
+| 170. | Elvi építési engedély kiadása (épület) | 46 000 |
 
-| Repülőterek védőterületén belüli, valamint a légiközlekedés biztonságát veszélyeztető építmények engedélyezési eljárása |
+| 171. | Építési engedély kiadása | 138 000 |
 
-| 170. | Repülőterek meghatározott körzetében épület vagy egyéb létesítmény engedélyezési eljárása, Lt. 3. § (1) és 44. § (1), Vhr. 1. § (4) 8. pont | 60 400 |
+| 172. | Használtba vételi engedély kiadása | 100 000 |
 
-| 171. | Légiközlekedést kiszolgáló repülőtéri építmények létesítésének engedélyezési eljárása, Vhr. 1. § (4) 7. pont | 64 400 |
+| 173. | Bontási engedély kiadása | 28 000 |
 
-| 172. | A villamosvezeték létesítése és a vezetékjogi engedélyezési eljárás, Lt. 3. § (1) és a 44. § (1), Vhr. 1. § (4) 8. pont, 180/2002. (VIII. 23.) Korm. rendelet | 48 300 |
+| 174. | Repülőtér működési feltételei megváltoztatásának jóváhagyása és fejlesztésének engedélyezésével kapcsolatos eljárás | 130 000 |
 
-| 173. | Repülőterek védőterületén belül a település szerkezeti, szabályozási tervek és helyi építési szabályzatok engedélyezési eljárása, Vhr. 1. § (4) 8. pont, 253/1997. (XII. 20.) Korm. rendelet | 191 000 |
+| 175. | Repülőtér alkalmasságának 24/1999. (VIII. 13.) KHVM rendelet 3. § (1) bekezdés szerinti ügyfél kérelmére induló audit díja | 69 000 |
 
-| VI. IRÁNYÍTÁSTECHNIKAI BERENDEZÉSEK ÉS RENDSZEREK, VALAMINT RÁDIÓTÁVKÖZLŐ BERENDEZÉSEK KÉRELEMRE TÖRTÉNŐ LÉTESÍTÉSÉNEK, ÜZEMBEN TARTÁSÁNAK ÉS IDŐSZAKOS FELÜLVIZSGÁLATÁNAK HATÓSÁGI ELJÁRÁSAI Lt. 19. § (1) c) és Vhr. 1. § (4) 18. pont és 38/2001. (XI. 14.) KöViM rendelet |
+| 176. | Üzemben tartási engedély adataiban történt változás hatósági bejegyeztetése és a módosított engedély kiadása | 37 000 |
 
-| 174. | VOR irányadó (D-VOR, T-VOR) | 48 300 |
+| 177. | Repülőtérrend hatósági jóváhagyása | 70000 |
 
-| 175. | DME távolságmérő (PDME) | 48 300 |
+| 178. | Repülőtérrend módosítás hatósági jóváhagyása | 41 000 |
 
-| 176. | NDB irányadó (útvonali) | 36 300 |
+| VI. osztályú repülőtér |
 
-| 177. | Elektronikus riasztó- és jelzőrendszer | 30 200 |
+| 179. | Létesítési engedély kiadása (repülőtér) | 24 000 |
 
-| 178. | ILS iránysáv adó | 48 300 |
+| 180. | Üzembe helyezési engedély | 16 000 |
 
-| 179. | ILS siklópálya adó | 48 300 |
+| 181. | Megszüntetési engedély | 4 000 |
 
-| 180. | ILS visszjelző rendszer | 30 200 |
+| 182. | Építési engedély (épület) | 10 000 |
 
-| 181. | VOT hitelesítő adó | 30 200 |
+| 183. | Használatba vételi engedély | 6 000 |
 
-| 182. | Marker adó | 20 100 |
+| 184. | Bontási engedély | 2 000 |
 
-| 183. | Közelkörzeti radar (elsődleges) | 160 600 |
+| 185. | Repülőtér alkalmasságának 24/1999. (VIII. 13.) KHVM rendelet 3. § (1) bekezdés szerinti ügyfél kérelmére induló audit díja | 16 000 |
 
-| 184. | Közelkörzeti radar (másodlagos) | 160 600 |
+| 186. | Repülőtér működési feltételei megváltoztatásának jóváhagyása és fejlesztésének engedélyezésével kapcsolatos eljárás | 3 000 |
 
-| 185. | Távolkörzeti radar (elsődleges) | 201 100 |
+| 187. | Repülőtérrend hatósági jóváhagyása | 20 000 |
 
-| 186. | Távolkörzeti radar (másodlagos) | 201 100 |
+| 188. | Repülőtérrend módosítás hatósági jóváhagyása | 2 000 |
 
-| 187. | Gurító radar | 160 600 |
+| 189. | Üzemben tartási engedély adataiban történt változás hatósági bejegyeztetése és a módosított engedély kiadása | 11 000 |
 
-| 188. | VHF iránymérő (beszédüzemű) | 40 200 |
+| Leszállóhely (A, B és C osztály) |
 
-| 189. | Légiforgalmi irányító központ berendezései | 905 500 |
+| 190. | Létesítési és megszüntetési engedély (A osztályú leszállóhely) | 32 000 |
 
-| 190. | VHF és UHF sávú rádióállomás (beszédüzemű) | 30 200 |
+| 191. | Létesítési és megszüntetési engedély (B osztályú leszállóhely) | 18 000 |
 
-| 191. | VHF és UHF sávú rádióvevő (beszédüzemű) | 20 100 |
+| 192. | Létesítési és megszüntetési engedély (C osztályú leszállóhely) | 46 000 |
 
-| 192. | VHF és UHF sávú rádióadó (beszédüzemű) | 30 100 |
+| Repülőtér zajgátló védőövezete kijelölésének eljárása Lt. 38. § (2) bekezdése, Korm. Rend. 5. § (5) bekezdés 19. pontja, 176/1997. (X. 11.) Korm. rendelet |
 
-| 193. | RH rádióadó | 60 400 |
+| 193. | Védőövezetre vonatkozó számítás kiinduló adatai és a számítási eljárás eredményeinek hatósági jóváhagyása | 184 000 |
 
-| 194. | RH rádióvevő | 40 200 |
+| 194. | Számítási tervdokumentáció záradékolása | 46 000 |
 
-| 195. | Mágneses vagy digitális adatrögzítő | 40 200 |
+| 195. | Zajgátló védőövezet kijelölése egyszerűsített számítás esetében | 92 000 |
 
-| 196. | VOLMET-ATIS rendszer | 60 400 |
+| 196. | Zajgátló védőövezet kijelölésének eljárási díja nemzetközivé nyilvánított kereskedelmi repülőtér (I. osztály) esetében | 331 000 |
 
-| 197. | Optikai repülésbiztosító berendezés (PAPI) pályánként | 60 400 |
+| 197. | Zajgátló védőövezet kijelölésének eljárási díja kereskedelmi repülőtér (II–III. osztály) esetében | 239 000 |
 
-| 198. | Repülőtéri fénytechnikai berendezés (precíziós) pályánként | 80 500 |
+| 198. | Zajmonitor rendszer kiépítésére vonatkozó tervek jóváhagyása motoros repülőgépek forgalma esetén | 74 000 |
 
-| 199. | Repülőtéri fénytechnikai berendezés (egyszerű) pályánként | 30 200 |
+| 199. | Zajmonitor rendszer kiépítésére vonatkozó tervek hatósági jóváhagyása motoros sugárhajtású szubszónikus repülőgépek forgalma esetén | 313 000 |
 
-| 200. | Zajmonitor rendszer | 100 500 |
+| 200. | Zajmonitor rendszer megváltoztatása iránt kezdeményezett eljárás, a repülőtér üzemben tartóján kívül egyéb érdekelt által | 138 000 |
 
-| 201. | Elektronikus meteorológiai műszerrendszer pályánként | 60 400 |
+| 201. | Zajmonitor rendszer ellenőrzése | 50 000 |
 
-| 202. | Fékhatás mérő | 100 500 |
+| 202. | Zajvédelmi program jóváhagyása | 92 000 |
 
-| 203. | Telemechanikai rendszer | 241 500 |
+| 203. | Éjszakai hajtóműpróba engedélyezése | 74 000 |
 
-| 204. | Szünetmentes áramforrás 40 KVA-tól | 80 500 |
+| 204. | Zajmérés | 46 000 |
 
-| 205. | Szünetmentes áramforrás 40 KVA-ig | 40 200 |
+| 205. | Zajszámítás | 460 000 |
 
-| 206. | Légi ellenőrzés berendezései | 301 800 |
+| 206. | Zajminősítés | 322 000 |
 
-| 207. | AFTN rendszer | 201 200 |
+| Repülőtér biztonsági védőövezete kijelölésének eljárása Lt. 38. § (2) bekezdése, 39. § (2)–(4) bekezdése és Vhr. 18. §-a |
 
-| 208. | Tűzjelző rendszer | 201 200 |
+| 207. | Biztonsági védőövezet által érintett ingatlanok tulajdoni helyzetének vizsgálata, és a repülőtér osztályba sorolása alapján működési feltételeinek hatósági jóváhagyása | 129 000 |
 
-| 209. | Irányadó (lokátor NDB) | 30 200 |
+| 208. | Biztonsági védőövezet kijelölésére készített szakértői javaslat hatósági jóváhagyása | 55 000 |
 
-| 210. | Aggregátor | 40 200 |
+| 209. | Biztonsági védőövezet kijelölése | 115 000 |
 
-| 211. | Jelen mellékletben szereplő légiforgalmi berendezések erősáramú táppontjai, valamint tartalék energia ellátó gépegységek (Ferihegy repülőtér erőműház berendezései is) | 60 400 |
+| 210. | Biztonsági védőövezet kijelölésének eljárási díja kereskedelmi repülőtér (I–III. osztály) esetében | 331 000 |
 
-| 212. | Légi forgalmi irányítói szimulátor | 201 200 |
+| 211. | Biztonsági védőövezet kijelölésének eljárási díja nemzetközi légi forgalmat is lebonyolító kereskedelmi repülőtér esetében | 239 000 |
 
-| 213. | Radar head processzor (RHP) | 117 400 |
+| A légiközlekedés biztonságát érintő építményekkel kapcsolatos szakhatósági eljárás Lt. 44. § (1) bekezdése és Korm. Rend. 5. § (5) bekezdés 7. és 8. pontja |
 
-| 214. | Repülőgép beállító rendszer | 64 400 |
+| 212. | Építéshatósági engedélyezési eljárásokban | 26 000 |
 
-| 215. | Nyilvános vagy nem nyilvános repülőtereken létesített NDB, URH rádióállomás, adatrögzítő, meteorológiai felszerelés, aggregátor, marker adó létesítésének hatósági eljárása és engedélyezése | 16 000 |
+| 213. | Légiközlekedést kiszolgáló repülőtéri építmények létesítésének engedélyezési eljárása | 15 000 |
 
-| 216. | Földi irányítástechnikai berendezések és rendszerek üzemben tartásának engedélye- zése. Díjak: 174–215. tételek alapdíjainak kétszerese |  |
+| 214. | A nyomvonalas létesítmények engedélyezési eljárása | 26 000 |
 
-| 217. | Földi irányítástechnikai berendezések és rendszerek időszakos (éves) ellenőrzése, alkalmasságának kérelemre történő meghosszabbítása. Díjak: 174–215. tételek alapdíjainak egyharmada |  |
+| Léginavigációs szolgáltatók tanúsítása Korm. Rend. 5. § (5) bekezdés 25. pontja, 549/2004/EK rendelet, 1035/2011/EU rendelet |
 
-| 218. | Földi irányítástechnikai berendezések és rendszerek karbantartásának engedélyezése | 20 100 |
+| 215. | AFIS Szolgáltató tanúsítási eljárásának lefolytatása | 92 000 |
 
-| 219. | Légiforgalmi berendezés ideiglenes engedélyezése | 30 200 |
+| 216. | AFIS Szolgáltató kérelmére induló 1035/2011/EU rendelet 8. cikke szerinti audit díja | 18 000 |
 
-| 220. | Földi irányítástechnikai berendezéseken belül történő változtatások engedélyezése | 30 200 |
+| 217. | CNS Szolgáltató tanúsítási eljárásának lefolytatása | 184 000 |
 
-| 221. | Földi irányítástechnikai berendezések működését érintő (zavaró) építmények létesítésének vizsgálata és engedélyezése, Lt. 44. § (1) | 40 200 |
+| 218. | CNS Szolgáltató kérelmére induló 1035/2011/EU rendelet 8. cikke szerinti audit díja | 38 000 |
 
-| 222. | Földi irányítástechnikai berendezések megszüntetésének vizsgálata és engedélyezése, Vhr. l. § (4) 7. pont | 20 100 |
+| 219. | Repülésmeteorológiai Szolgáltató tanúsítási eljárásának lefolytatása | 184 000 |
 
-| 223. | Földi és fedélzeti irányítástechnikai berendezések típusvizsgálati engedélykérelmek vizsgálata és engedélyezési eljárása, Lt. 46. § (1) | 40 200 |
+| 220. | Repülésmeteorológiai Szolgáltató kérelmére induló 1035/2011/EU rendelet 8. cikke szerinti audit díja | 95 000 |
 
-| Fedélzeti és földi rádiótávközlő berendezés frekvencia igénybevételi eljárásai Lt. 19. § (3), Vhr. 1. § (4) 18. pont, 38/2001. (XI. 14.) KöViM rendelet |
+| VI. IRÁNYÍTÁSTECHNIKAI BERENDEZÉSEK ÉS RENDSZEREK, VALAMINT RÁDIÓTÁVKÖZLŐ BERENDEZÉSEK KÉRELEMRE TÖRTÉNŐ LÉTESÍTÉSÉNEK, ÜZEMBEN TARTÁSÁNAK ÉS IDŐSZAKOS FELÜLVIZSGÁLATÁNAK HATÓSÁGI ELJÁRÁSAI Lt. 19. § (1) bekezdés c) pontja és Korm. Rend. 5. § (5) bekezdés 18. pontja és 68/2011. (XI. 30.) NFM rendelet |
 
-| 224. | Fedélzeti és földi rádiótávközlő berendezés frekvencia használatba vételéhez hoz- zájárulási eljárás (telepítés vagy kísérleti és próbaüzemeltetés céljából) (frekven- ciánként) | 31 300 |
+| 221. | VOR irányadó (D-VOR, T-VOR) | 44 000 |
 
-| 225. | Fedélzeti és földi rádiótávközlő berendezés rádióengedélyének kiadása iránti hozzájárulás, légijárművenként | 7 900 |
+| 222. | DME távolságmérő (PDME) | 44 000 |
 
-| 226. | Fedélzeti és földi rádiótávközlő berendezés rádióengedélyének módosítása (kibővítés, hosszabbítás) iránti hozzájárulás, légijárművenként | 4 000 |
+| 223. | NDB irányadó (útvonali) | 33 000 |
 
-| 227. | A fedélzeti és földi rádiótávközlő berendezés rádió engedélyének törlése iránti hozzájárulás | 2 000 |
+| 224. | Elektronikus riasztó- és jelzőrendszer | 28 000 |
 
-| 228. | Egyéb a 174. és 215. tétel között fel nem sorolt irányítástechnikai berendezés engedélyezési eljárása, Lt. 3. § (1), 19. § (1) c) és Vhr. 1. § (4) 18. pont | 16 000 |
+| 225. | ILS iránysáv adó | 45 000 |
 
-| VII. GAZDASÁGI CÉLÚ LÉGIKÖZLEKEDÉSI ÉS LÉGIKÖZLEKEDÉSSEL ÖSSZEFÜGGŐ TEVÉKENYSÉGEK ENGEDÉLYEZÉSE Lt. 3. § (1) és 22. §, Vhr. 1. § (4) 2. pont, 10/2002. (II. 6.) KöViM rendelet |
+| 226. | ILS siklópálya adó | 45 000 |
 
-| 229. | Nemzetközi légi személyszállítást és légi árufuvarozást végző vállalkozás működési engedélyének (Air Operator’s Certificate) kiadása | 191 000 |
+| 227. | ILS visszjelző rendszer | 29 000 |
 
-| 230. | Légijárművel végzett tevékenységek működési engedélyének kiadása (tevékenység- fajtánként) | 20 100 |
+| 228. | VOT hitelesítő adó | 28 000 |
 
-| 231. | Légijárművel végzett egyéb gazdasági tevékenység engedélyezése | 44 200 |
+| 229. | Marker adó | 19 000 |
 
-| 232. | Légijárművel végzett tevékenységek működési engedélye érvényességi idejének meghosszabbítása (tevékenységfajtánként) | 9 700 |
+| 230. | Közelkörzeti radar (elsődleges) | 147 000 |
 
-| 233. | Tevékenységi engedély kiadása földi kiszolgálásra, légijármű bérbeadására (tevékenységfajtánként), 7/2002. (I. 28.) KöViM rendelet a földi kiszolgálás feltételeiről és engedélyezésének rendjéről, illetve az Lt. 34. §-a a légijárművek bérbeadásáról | 20 100 |
+| 231. | Közelkörzeti radar (másodlagos) | 147 000 |
 
-| 234. | A földi kiszolgálásra, légijármű bérbeadására tevékenységi engedély kiterjesztése, érvényességi idejének meghosszabbítására (tevékenységenként) | 20 100 |
+| 232. | Távolkörzeti radar (elsődleges) | 185 000 |
 
-| 235. | Földi kiszolgálással kapcsolatos adatszolgáltatás, tevékenységenként / kiszolgálónként | 4 000 |
+| 233. | Távolkörzeti radar (másodlagos) | 185 000 |
 
-| Nyilvános repülő- és ejtőernyős bemutató megtartásának hatósági engedélyezése Lt. 3. § (1) és 33. § (1), Vhr. 1. § (4) 22. pont |
+| 234. | Gurító radar | 147 000 |
 
-| 236. | Egy-három légijármű közreműködése esetén | 10 000 |
+| 235. | VHF iránymérő (beszédüzemű) | 37 000 |
 
-| 237. | Négy-tíz légijármű közreműködése esetén | 22 000 |
+| 236. | Légiforgalmi irányító központ berendezései | 87 000 |
 
-| 238. | Tíznél több légijármű közreműködése esetén | 31 900 |
+| 237. | VHF és UHF sávú rádióállomás (beszédüzemű) | 28 000 |
 
-| VIII. A REPÜLÉST VÉGZŐ SZEMÉLYEK, ILLETVE A REPÜLÉS SZAKSZEMÉLYZETÉNEK LÉGIFORGALMI IRÁNYÍTÓ, LÉGIJÁRMŰSZERELŐ, VALAMINT REPÜLÉSI OKTATÓ SZERVEZETEK SZAKMAI ALKALMASSÁGÁNAK ELLENŐRZÉSÉVEL ÉS MINŐSÍTÉSÉVEL KAPCSOLATOS HATÓSÁGI ELJÁRÁSOK Lt. 3. § (1), 30. § (1) a) és Vhr. 1. § (4) 9. pont, 15. § (1), 5/2001. (II. 6.) KöViM rendelet, 3/2004. (I. 13.) GKM rendelet, 6/2004. (I. 30.) GKM rendelet Közforgalmon kívüli hajózó személyzet első szakszolgálati vizsgáztatása, minősítése, engedély kiadása Növendék pilóta szakszolgálati engedély (SPL) |
+| 238. | VHF és UHF sávú rádióvevő (beszédüzemű) | 18 000 |
 
-| 239. | Vitorlázórepülőgép-vezető növendék szakszolgálati engedélyének megszerző vizsgája | 2 900 |
+| 239. | VHF és UHF sávú rádióadó (beszédüzemű) | 28 000 |
 
-| 240. | Motorosrepülőgép-vezető növendék szakszolgálati engedélyének megszerző vizsgája | 4 800 |
+| 240. | RH rádióadó | 55 000 |
 
-| 241. | Helikoptervezető növendék szakszolgálati engedélyének megszerző vizsgája | 4 800 |
+| 241. | RH rádióvevő | 37 000 |
 
-| 242. | a MOVIT repülőgépvezető növendék engedélyének megszerző vizsgája | 3 500 |
+| 242. | Mágneses vagy digitális adatrögzítő | 37 000 |
 
-| 243. | Ultralight (UL A1; UL A2) növendék szakszolgálati engedélyének megszerző vizsgája | 2 900 |
+| 243. | VOLMET-ATIS rendszer | 55 000 |
 
-| 244. | Hőlégballon-vezető növendék szakszolgálati engedélyének megszerző vizsgája | 2 900 |
+| 244. | Optikai repülésbiztosító berendezés (PAPI) pályánként | 55 000 |
 
-| Magánpilóta szakszolgálati engedély (PPL) |
+| 245. | Repülőtéri fénytechnikai berendezés (precíziós) pályánként | 74 000 |
 
-| 245. | Vitorlázórepülőgép-vezető szakszolgálati engedélyének megszerző vizsgája | 8 000 |
+| 246. | Repülőtéri fénytechnikai berendezés (egyszerű) pályánként | 28 000 |
 
-| 246. | Motorosrepülőgép-vezető szakszolgálati engedélyének megszerző vizsgája | 28 200 |
+| 247. | Zajmonitor rendszer | 92 000 |
 
-| 247. | Helikoptervezető szakszolgálati engedélyének megszerző vizsgája | 28 200 |
+| 248. | Elektronikus meteorológiai műszerrendszer pályánként | 56 000 |
 
-| 248. | MOVIT repülőgépvezető szakszolgálati engedélyének megszerző vizsgája | 15 300 |
+| 249. | Fékhatás mérő | 92 000 |
 
-| 249. | Ultralight (UL A1; UL A2) szakszolgálati engedélyének megszerző vizsgája | 12 100 |
+| 250. | Telemechanikai rendszer | 222 000 |
 
-| 250. | Hőlégballon-vezető szakszolgálati engedélyének megszerző vizsgája | 12 100 |
+| 251. | Szünetmentes áramforrás 40 KVA-tól | 74 000 |
 
-| Magyar kereskedelmi pilóta szakszolgálati engedély (HCPL) |
+| 252. | Szünetmentes áramforrás 40 KVA-ig | 37 000 |
 
-| 251. | Motoros magyar kereskedelmi pilóta szakszolgálati engedélyének megszerző vizsgája | 28 200 |
+| 253. | Légi ellenőrzés berendezései | 276 000 |
 
-| 252. | Helikoptervezető magyar kereskedelmi pilóta szakszolgálati engedélyének megszerző vizsgája | 28 200 |
+| 254. | AFTN rendszer | 184 000 |
 
-| 253. | Hőléghajó-vezető magyar kereskedelmi szakszolgálati engedélyének megszerző vizsgája | 38 200 |
+| 255. | Tűzjelző rendszer | 184 000 |
 
-| Kereskedelmi pilóta szakszolgálati engedély (CPL) |
+| 256. | Irányadó (lokátor NDB) | 28 000 |
 
-| 254. | Motoros kereskedelmi pilóta szakszolgálati engedély megszerző vizsgája | 32 100 |
+| 257. | Aggregátor | 37 000 |
 
-| 255. | Helikoptervezető kereskedelmi pilóta szakszolgálati engedély megszerző vizsgája | 32 100 |
+| 258. | Jelen mellékletben szereplő légiforgalmi berendezések erősáramú táppontjai, valamint tartalékenergia-ellátó gépegységek (Budapest Liszt Ferenc Nemzetközi Repülőtér erőműház berendezései is) | 55 000 |
 
-| 256. | Hőléghajó kereskedelmi pilóta szakszolgálati engedély megszerző vizsgája | 32 100 |
+| 259. | Légiforgalmi irányítói szimulátor | 184 000 |
 
-| Közforgalmon kívüli hajózó személyzet jogosítások megszerző vizsgája |
+| 260. | Radar head processzor (RHP) | 108 000 |
 
-| 257. | Motorosrepülőgép-vezető „A” kategória | 12 100 |
+| 261. | Repülőgép beállító rendszer | 59 000 |
 
-| 258. | Motorosrepülőgép-vezető „B” kategória | 16 000 |
+| 262. | Nyilvános vagy nem nyilvános repülőtereken létesített NDB, URH rádióállomás, adatrögzítő, meteorológiai felszerelés, aggregátor, marker adó létesítésének hatósági eljárása és engedélyezése | 15 000 |
 
-| 259. | Motorosrepülőgép-vezető „C” kategória | 20 200 |
+| 263. | Földi irányítástechnikai berendezések és rendszerek üzemben tartásának engedélyezése 221–257. tételek alapdíjainak 200%-a |  |
 
-| 260. | Helikoptervezető „A” kategória | 12 100 |
+| 264. | Földi irányítástechnikai berendezések és rendszerek időszakos (éves) ellenőrzése, alkalmasságának kérelemre történő meghosszabbítása 221–257. tételek alapdíjainak egyharmada |  |
 
-| 261. | Helikoptervezető „B” kategória | 16 000 |
+| 265. | Földi irányítástechnikai berendezések és rendszerek karbantartásának engedélyezése | 19 000 |
 
-| 262. | Helikoptervezető „C” kategória | 20 200 |
+| 266. | Légiforgalmi berendezés ideiglenes engedélyezése | 28 000 |
 
-| 263. | Motorosrepülőgép-vezető vízi/kétéltű jogosítás | 20 200 |
+| 267. | Földi irányítástechnikai berendezéseken belül történő változtatások engedélyezése | 28 000 |
 
-| 264. | Motorosrepülőgép-vezető mentő/tűzoltó jogosítás | 20 200 |
+| 268. | Földi irányítástechnikai berendezések működését érintő (zavaró) építmények létesítésének vizsgálata és engedélyezése | 37 000 |
 
-| 265. | Motorosrepülőgép-vezető autogiro jogosítás | 20 200 |
+| 269. | Földi irányítástechnikai berendezések megszüntetésének vizsgálata és engedélyezése | 19 000 |
 
-| 266. | Motorosrepülőgép-vezető oktató jogosítás | 20 200 |
+| 270. | Földi és fedélzeti irányítástechnikai berendezések típusvizsgálati engedélykérelmek vizsgálata és engedélyezési eljárása | 37 000 |
 
-| 267. | Motorosrepülőgép-vezető berepülő jogosítás | 22 300 |
+| 271. | Helikopter leszállóhely fénytechnikai berendezés engedélyezése | 37 000 |
 
-| 268. | Éjszakai VFR jogosítás motoros/helikoptervezető | 10 000 |
+| 272. | Helikopter leszállóhely fénytechnikai berendezés éves ellenőrzése | 13 000 |
 
-| 269. | Motoros műszerrepülő (IFR) jogosítás | 12 100 |
+| 273. | Differenciál földi GPS állomás létesítési engedélyezése | 30 000 |
 
-| 270. | Motoros mezőgazdasági jogosítás | 16 000 |
+| 274. | Differenciál földi GPS állomás éves ellenőrzése | 10 000 |
 
-| 271. | Motoros vontató pilóta jogosítás | 12 100 |
+| Lt. 19. § (3) bekezdése, Korm. Rend. 5. § (5) bekezdés 18. pontja, 68/2011. (XI. 30.) NFM rendelet |
 
-| 272. | Motoros terepvontató pilóta jogosítás | 16 000 |
+| 275. | Fedélzeti és földi rádiótávközlő berendezés frekvencia használatbavételéhez hozzájárulási eljárás (telepítés vagy kísérleti és próbaüzemeltetés céljából) (frekvenciánként) | 29 000 |
 
-| 273. | Helikoptervezető oktató jogosítás | 16 000 |
+| 276. | Fedélzeti és földi rádiótávközlő berendezés rádióengedélyének kiadása iránti hozzájárulás, légijárművenként | 7 000 |
 
-| 274. | Helikoptervezető berepülő jogosítás | 22 300 |
+| 277. | Fedélzeti és földi rádiótávközlő berendezés rádióengedélyének módosítása (kibővítés, hosszabbítás) iránti hozzájárulás, légijárművenként | 4 000 |
 
-| 275. | Helikoptervezető mezőgazdasági jogosítás | 16 000 |
+| 278. | A fedélzeti és földi rádiótávközlő berendezés rádió engedélyének törlése iránti hozzájárulás | 2 000 |
 
-| 276. | Helikoptervezető teheremelő jogosítás | 12 100 |
+| 279. | Egyéb a 221. és 262. tétel között fel nem sorolt irányítástechnikai berendezés engedélyezési eljárása, Lt. 19. § (1) bekezdés c) pontja és Korm. Rend. 5. § (5) bekezdés 18. pontja | 15 000 |
 
-| 277. | Helikoptervezető autogiro jogosítás | 20 200 |
+| VII. GAZDASÁGI CÉLÚ LÉGIKÖZLEKEDÉSI ÉS LÉGIKÖZLEKEDÉSSEL ÖSSZEFÜGGŐ TEVÉKENYSÉGEK ENGEDÉLYEZÉSE Lt. 22. §-a, Korm. Rend. 5. § (5) bekezdés 2. pontja, 10/2002. (II. 6.) KöViM rendelet, 7/2002. (I. 28.) KöViM rendelet |
 
-| 278. | Helikoptervezető mentő/tűzoltó jogosítás | 20 200 |
+| 280. | Nemzetközi légi személyszállítást és légi árufuvarozást végző vállalkozás működési engedélyének kiadása | 184 000 |
 
-| 279. | Vitorlázórepülőgép-vezető oktató jogosítás | 16 000 |
+| 281. | Légijárművel végzett tevékenységek működési engedélyének kiadása (tevékenységenként) | 19 000 |
 
-| 280. | Vitorlázórepülőgép-vezető berepülő jogosítás | 22 300 |
+| 282. | Légijárművel végzett tevékenységek működési engedélye érvényességi idejének meghosszabbítása (tevékenységenként) | 9 000 |
 
-| 281. | MOVIT oktató jogosítás | 17 300 |
+| 283. | Légijárművel végzett veszélyes áruszállítási tevékenységek működési engedélyének kiadása; engedély kiterjesztése | 16 000 |
 
-| 282. | MOVIT berepülő jogosítás | 21 300 |
+| 284. | Földi kiszolgálási tevékenységi engedély kiadása (tevékenységenként és repülőterenként) 7/2002. (I. 28.) KöViM rendelet 3. §-a | 18 000 |
 
-| 283. | Hőlégballon-vezető oktató jogosítás | 16 000 |
+| 285. | Földi kiszolgálási engedély kiterjesztése, érvényességi idejének meghosszabbítása (tevékenységenként és repülőterenként) 7/2002. (I. 28.) KöViM rendelet 3. §-a | 18 000 |
 
-| 284. | Hőlégballon-vezető berepülő jogosítás | 22 300 |
+| 286. | Légijármű bérbeadásának engedélyezése (tevékenységfajtánként) Lt. 34. §-a | 20 000 |
 
-| 285. | Hőléghajó-vezető oktató jogosítás | 16 000 |
+| 287. | Légijármű bérbeadására tevékenységi engedély kiterjesztése, érvényességi idejének meghosszabbítására (tevékenységenként) | 20 000 |
 
-| 286. | Hőléghajó-vezető berepülő jogosítás | 22 300 |
+| Nyilvános repülő- és ejtőernyős bemutató megtartásának hatósági engedélyezése |
 
-| 287. | Ultralight (UL A2) oktató jogosítás | 10 000 |
+| Lt. 33. § (1) bekezdése, Korm. Rend. 5. § (5) bekezdés 22. pontja |
 
-| 288. | Ultralight (UL A2) berepülő jogosítás | 16 000 |
+| 288. | Egy–három légijármű közreműködése esetén | 9 000 |
 
-| 289. | Ultralight (UL A2) mezőgazdasági jogosítás | 12 100 |
+| 289. | Négy–tíz légijármű közreműködése esetén | 20 000 |
 
-| 290. | Ultralight (UL A1) oktató jogosítás | 16 000 |
+| 290. | Tíznél több légijármű közreműködése esetén | 28 000 |
 
-| 291. | Ultralight (UL A1) berepülő jogosítás | 16 000 |
+| VIII. A LÉGIKÖZLEKEDÉSI SZAKSZEMÉLYZET, A LÉGIKÖZLEKEDÉSI SZAKSZEMÉLYZET KÉPZÉSI SZERVEZETEK SZAKMAI ALKALMASSÁGÁNAK ELLENŐRZÉSÉVEL ÉS MINŐSÍTÉSÉVEL KAPCSOLATOS HATÓSÁGI ELJÁRÁSOK |
 
-| 292. | Angol fónia megszerző vizsga | 10 000 |
+| Lt. 30. § (1) bekezdése és Korm. Rend. 5. § (5) bekezdés 9. pontja, 32/2009. (VI. 30.) KHEM rendelet, 17/2008. (IV. 30.) GKM rendelet, 13/2012. (III. 6.) NFM rendelet , 5/2001. (II. 6.) KöViM rendelet |
 
-| Közforgalmon kívüli hajózok szakszolgálati engedélye szakmai érvényességének meghosszabbító vizsgája Magánpilóta szakszolgálati engedély [(ultralight) motoros, movit és helikopter szakterületre] |
+| Repülőgép pilóta szakszolgálati engedély |
 
-| 293. | Magánpilóta szakszolgálati engedély | 6 100 |
+| 291. | SPL megkérés, kiadás, változtatás | 5 000 |
 
-| 294. | Magánpilóta szakszolgálati engedély éjszakai VFR jogosítással | 7 100 |
+| 292. | PPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 2 000 |
 
-| 295. | Magánpilóta szakszolgálati engedély autogiro jogosítással | 7 100 |
+| 293. | PPL jártassági vizsga, pótvizsga | 14 000 |
 
-| 296. | Magánpilóta szakszolgálati engedély vízi/kétéltű jogosítással | 7 100 |
+| 294. | CPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 4 000 |
 
-| 297. | Magánpilóta szakszolgálati engedély műszer (IFR) jogosítással | 8 000 |
+| 295. | CPL jártassági vizsga, pótvizsga | 30 000 |
 
-| 298. | Magánpilóta szakszolgálati engedély vontató jogosítással | 8 200 |
+| 296. | IR elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 4 000 |
 
-| 299. | Magánpilóta szakszolgálati engedély terepvontató jogosítással | 8 200 |
+| 297. | IR jártassági vizsga, pótvizsga | 26 000 |
 
-| 300. | Magánpilóta szakszolgálati engedély oktató jogosítással | 10 600 |
+| 298. | ATPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 5 000 |
 
-| 301. | Magyar kereskedelmi pilóta szakszolgálati engedély | 10 000 |
+| 299. | ATPL jártassági vizsga, pótvizsga | 39 000 |
 
-| 302. | Magyar kereskedelmi pilóta szakszolgálati engedély éjszakai VFR jogosítással | 10 000 |
+| 300. | Minden egymotoros dugattyús repülőgép (szárazföldi) osztályjogosítás jártassági vizsga, pótvizsga | 11 000 |
 
-| 303. | Magyar kereskedelmi pilóta szakszolgálati engedély autogiro jogosítással | 10 000 |
+| 301. | Minden egymotoros dugattyús repülőgép (vízi) osztályjogosítás jártassági vizsga, pótvizsga | 11 000 |
 
-| 304. | Magyar kereskedelmi pilóta szakszolgálati engedély vontató jogosítással | 10 000 |
+| 302. | Minden motoros vitorlázó repülőgép (TMG) osztályjogosítás jártassági vizsga, pótvizsga | 9 000 |
 
-| 305. | Magyar kereskedelmi pilóta szakszolgálati engedély terepvontató jogosítással | 10 000 |
+| 303. | Minden eredetileg egymotoros turbo-légcsavaros repülőgép (szárazföldi) osztályjogosítás jártassági vizsga, pótvizsga | 13 000 |
 
-| 306. | Magyar kereskedelmi pilóta szakszolgálati engedély teheremelő jogosítással | 10 000 |
+| 304. | Minden eredetileg egymotoros turbo-légcsavaros repülőgép (vízi) osztályjogosítás jártassági vizsga, pótvizsga | 13 000 |
 
-| 307. | Magyar kereskedelmi pilóta szakszolgálati engedély vízi/kétéltű jogosítással | 10 000 |
+| 305. | Minden többmotoros dugattyús repülőgép (szárazföldi) osztályjogosítás jártassági vizsga, pótvizsga | 15 000 |
 
-| 308. | Magyar kereskedelmi pilóta szakszolgálati engedély mezőgazdasági jogosítással | 10 000 |
+| 306. | Minden többmotoros dugattyús repülőgép (vízi) osztályjogosítás jártassági vizsga, pótvizsga | 15 000 |
 
-| 309. | Magyar kereskedelmi pilóta szakszolgálati engedély mentő/tűzoltó jogosítással | 11 100 |
+| 307. | Egypilótás Típusjogosítás jártassági vizsga, pótvizsga | 17 000 |
 
-| 310. | Magyar kereskedelmi pilóta szakszolgálati engedély műszer (IFR) jogosítással | 12 100 |
+| 308. | Többpilótás Típusjogosítás jártassági vizsga, pótvizsga | 30 000 |
 
-| 311. | Magyar kereskedelmi pilóta szakszolgálati engedély oktató jogosítással | 12 100 |
+| 309. | Nagy teljesítményű egypilótás repülőgépek (HPA SP) jártassági vizsga, pótvizsga | 20 000 |
 
-| 312. | Magyar kereskedelmi pilóta szakszolgálati engedély berepülő jogosítással | 14 100 |
+| 310. | Típus- és osztályjogosítások különleges felhatalmazásának megszerzése | 39 000 |
 
-| 313. | Kereskedelmi pilóta szakszolgálati engedély | 14 100 |
+| 311. | Minden egymotoros dugattyús repülőgép (szárazföldi) osztályjogosítás készség ellenőrzés meghosszabbításhoz, ismétlés | 8 000 |
 
-| 314. | Kereskedelmi pilóta szakszolgálati engedély éjszakai VFR jogosítással | 15 200 |
+| 312. | Minden egymotoros dugattyús repülőgép (vízi) osztályjogosítás készség ellenőrzés meghosszabbításhoz, ismétlés | 7 000 |
 
-| 315. | Kereskedelmi pilóta szakszolgálati engedély autogiro jogosítással | 15 200 |
+| 313. | Minden motoros vitorlázó repülőgép (TMG) osztályjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 6 000 |
 
-| 316. | Kereskedelmi pilóta szakszolgálati engedély vontató jogosítással | 15 200 |
+| 314. | Minden eredetileg egymotoros turbo-légcsavaros repülőgép (szárazföldi) osztályjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 9 000 |
 
-| 317. | Kereskedelmi pilóta szakszolgálati engedély terepvontató jogosítással | 15 200 |
+| 315. | Minden eredetileg egymotoros turbo-légcsavaros repülőgép (vízi) osztályjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 9 000 |
 
-| 318. | Kereskedelmi pilóta szakszolgálati engedély teheremelő jogosítással | 15 200 |
+| 316. | Minden többmotoros dugattyús repülőgép (szárazföldi) osztályjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 11 000 |
 
-| 319. | Kereskedelmi pilóta szakszolgálati engedély vízi/kétéltű jogosítással | 15 200 |
+| 317. | Minden többmotoros dugattyús repülőgép (vízi) osztályjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 11 000 |
 
-| 320. | Kereskedelmi pilóta szakszolgálati engedély mezőgazdasági jogosítással | 15 200 |
+| 318. | Egypilótás Típusjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 13 000 |
 
-| 321. | Kereskedelmi pilóta szakszolgálati engedély mentő/tűzoltó jogosítással | 15 200 |
+| 319. | Nagy teljesítményű egypilótás repülőgépek (HPA SP) készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 17 000 |
 
-| 322. | Kereskedelmi pilóta szakszolgálati engedély műszer (IFR) jogosítással | 18 100 |
+| 320. | Többpilótás Típusjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 26 000 |
 
-| 323. | Kereskedelmi pilóta szakszolgálati engedély oktató jogosítással | 18 100 |
+| 321. | Egymotoros dugattyús repülőgépre vonatkozó osztályjogosítás (szárazföldi) és motoros vitorlázó repülőgépre vonatkozó jogosítás adminisztratív meghosszabbítása | 3 000 |
 
-| 324. | Kereskedelmi pilóta szakszolgálati engedély berepülő jogosítással | 19 100 |
+| 322. | Minden egymotoros dugattyús repülőgép (szárazföldi) osztályjogosítás és műszerjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 9 000 |
 
-| 325. | Kereskedelmi pilóta szakszolgálati engedélyhez típusjogosítás megszerzése | 19 100 |
+| 323. | Minden egymotoros dugattyús repülőgép (vízi) osztályjogosítás és műszerjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 9 000 |
 
-| Magánpilóta szakszolgálati engedély (vitorlázó, hőlégballon szakterületre) |
+| 324. | Minden eredetileg egymotoros turbo-légcsavaros repülőgép (szárazföldi) osztályjogosítás és műszerjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 11 000 |
 
-| 326. | Vitorlázórepülőgép-vezető szakszolgálati engedély | 4 000 |
+| 325. | Minden eredetileg egymotoros turbo-légcsavaros repülőgép (vízi) osztályjogosítás és műszerjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 11 000 |
 
-| 327. | Vitorlázórepülőgép-vezető szakszolgálati engedély oktató jogosítással | 8 000 |
+| 326. | Minden többmotoros dugattyús repülőgép (szárazföldi) osztályjogosítás és műszerjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 13 000 |
 
-| 328. | Vitorlázórepülőgép-vezető szakszolgálati engedély berepülő jogosítással | 10 000 |
+| 327. | Minden többmotoros dugattyús repülőgép (vízi) osztályjogosítás és műszerjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 13 000 |
 
-| 329. | MOVIT repülőgépvezető szakszolgálati engedély | 4 800 |
+| 328. | Egypilótás típusjogosítás és műszerjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 15 000 |
 
-| 330. | MOVIT repülőgépvezető szakszolgálati engedély oktatói jogosítással | 8 200 |
+| 329. | Többpilótás típusjogosítás és műszerjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 27 000 |
 
-| 331. | MOVIT repülőgépvezető szakszolgálati engedély berepülői jogosítással | 10 600 |
+| 330. | Nagy teljesítményű egypilótás repülőgépek (HPA SP) és műszerjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 18 000 |
 
-| 332. | Hőlégballonvezető szakszolgálati engedély | 4 000 |
+| 331. | Műszerjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz, ismétlés | 13 000 |
 
-| 333. | Hőlégballonvezető szakszolgálati engedély oktató jogosítással | 8 000 |
+| 332. | Repülés-oktatói jogosítás – repülőgép [FI(A)] jártassági vizsga, pótvizsga | 20 000 |
 
-| 334. | Hőlégballonvezető szakszolgálati engedély berepülő jogosítással | 10 000 |
+| 333. | Típusjogosítás oktató jogosítás – SP repülőgép [TRI(A)] jártassági vizsga, pótvizsga | 30 000 |
 
-| Hőléghajó vezető szakszolgálati engedély |
+| 334. | Típusjogosítás oktató jogosítás – MP repülőgép [TRI(A)] megszerző | 39 000 |
 
-| 335. | Hőléghajó vezető szakszolgálati engedély oktató jogosítással | 10 000 |
+| 335. | Osztályjogosítás oktató jogosítás– repülőgép [CRI(A)] jártassági vizsga, pótvizsga | 15 000 |
 
-| 336. | Hőléghajó vezető szakszolgálati engedély berepülő jogosítással | 12 100 |
+| 336. | Műszerjogosítás oktató jogosítás – repülőgép [IRI(A)] jártassági vizsga, pótvizsga | 16 000 |
 
-| 337. | Közforgalmon kívüli szakszolgálati engedély honosítás | 22 300 |
+| 337. | Földi repülés-gyakorló berendezésen repülés-oktatói felhatalmazás – repülőgép [SFI(A)] megszerző | 14 000 |
 
-| 338. | Külföldi közforgalmon kívüli hajózószemélyzeti tag bizonyítvány kiadása | 16 000 |
+| 338. | Repülő személyzeti együttműködés oktatói felhatalmazás – repülőgép [MCCI(A)] megszerző | 9 000 |
 
-| Közforgalmi szakszolgálati engedélyek |
+| 339. | Földi repülés-gyakorló berendezésen kiképző-oktatói felhatalmazás – repülőgép [STI(A)] megszerző | 11 000 |
 
-| 339. | Közforgalmi hajózó szakszolgálati engedély megszerző vizsga | 42 200 |
+| 340. | Repülés-oktatói jogosítás – repülőgép [FI(A)] készség ellenőrzés, ismétlés | 18 000 |
 
-| 340. | Közforgalmi hajózó szakszolgálati engedély típusjogosítás | 32 200 |
+| 341. | Típusjogosítás oktató jogosítás – SP repülőgép [TRI(A)] készség ellenőrzés, ismétlés | 27 000 |
 
-| 341. | Közforgalmi hajózó szakszolgálati engedély érvényességének meghosszabbítása | 22 300 |
+| 342. | Típusjogosítás oktató jogosítás – MP repülőgép [TRI(A)] meghosszabbító, megújító | 37 000 |
 
-| 342. | Közforgalmi hajózó útvonal oktató szakszolgálati engedély érvényességének meghosszabbítása | 24 300 |
+| 343. | Osztályjogosítás oktató jogosítás – repülőgép [CRI(A)] meghosszabbító, megújító | 13 000 |
 
-| 343. | Közforgalmi hajózó oktató szakszolgálati engedély érvényességének meghosszabbítása | 26 400 |
+| 344. | Műszerjogosítás oktató jogosítás – repülőgép [IRI(A)] készség ellenőrzés, megújítás, ismétlés | 15 000 |
 
-| 344. | Közforgalmi hajózó berepülő szakszolgálati engedély érvényességének meg- hosszabbítása | 28 500 |
+| 345. | Földi repülés-gyakorló berendezésen repülés-oktatói felhatalmazás – repülőgép [SFI(A)] meghosszabbító, megújító | 13 000 |
 
-| 345. | Közforgalmi hajózó útvonal oktató jogosítás megszerző vizsga | 26 200 |
+| 346. | Repülő személyzeti együttműködés oktatói felhatalmazás – repülőgép [MCCI(A)] meghosszabbító, megújító | 7 000 |
 
-| 346. | Közforgalmi hajózó oktató jogosítás megszerző vizsga | 32 200 |
+| 347. | Földi repülés-gyakorló berendezésen kiképző-oktatói felhatalmazás – repülőgép [STI(A)] meghosszabbító, megújító | 9 000 |
 
-| 347. | Közforgalmi hajózó berepülő jogosítás megszerző vizsga | 36 300 |
+| 348. | Repülés vizsgáztató – repülőgépen [FE(A)] megszerző | 31 000 |
 
-| 348. | Légiutas-kísérő szakszolgálati engedély megszerző vizsga | 16 000 |
+| 349. | Típusjogosítás vizsgáztató – repülőgépen [TRE(A)] megszerző | 50 000 |
 
-| 349. | Légiutas-kísérő szakszolgálati engedély érvényességének meghosszabbítása | 14 100 |
+| 350. | Osztályjogosítás vizsgáztató – repülőgépen [CRE(A)] megszerző | 22 000 |
 
-| 350. | Légiutas-kísérő szakszolgálati engedély képesítést megszerző vizsga | 15 200 |
+| 351. | Műszerjogosítás vizsgáztató – repülőgépen [IRE(A)] megszerző | 31 000 |
 
-| 351. | Közforgalmi szakszolgálati engedély honosítása | 32 200 |
+| 352. | Szimulátor vizsgáztató – repülőgépen [SFE(A)] megszerző | 31 000 |
 
-| 352. | Külföldi közforgalmi hajózószemélyzeti tag bizonyítvány kiadása | 20 200 |
+| 353. | Repülés-oktató vizsgáztató – repülőgépen [FIE(A)] megszerző | 40 000 |
+
+| 354. | Repülés vizsgáztató – repülőgépen [FE(A)] meghosszabbító, megújító | 27 000 |
+
+| 355. | Típusjogosítás vizsgáztató – repülőgépen [TRE(A)] meghosszabbító, megújító | 46 000 |
+
+| 356. | Osztályjogosítás vizsgáztató – repülőgépen [CRE(A)] meghosszabbító, megújító | 18 000 |
+
+| 357. | Műszerjogosítás vizsgáztató – repülőgépen [IRE(A)] meghosszabbító, megújító | 27 000 |
+
+| 358. | Szimulátor vizsgáztató – repülőgépen [SFE(A)] meghosszabbító, megújító | 27 000 |
+
+| 359. | Repülés-oktató vizsgáztató – repülőgépen [FIE(A)] meghosszabbító, megújító | 37 000 |
+
+| 360. | NVFR jogosítás megszerző | 13 000 |
+
+| 361. | Mentő jogosítás elméleti és jártassági vizsga | 26 000 |
+
+| 362. | Mentő jogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz | 20 000 |
+
+| 363. | Mentő jogosítás adminisztratív meghosszabbítása | 7 000 |
+
+| 364. | Tűzoltó jogosítás elméleti és jártassági vizsga | 26 000 |
+
+| 365. | Tűzoltó jogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz | 20 000 |
+
+| 366. | Tűzoltó jogosítás adminisztratív meghosszabbítása | 7 000 |
+
+| 367. | Mezőgazdasági jogosítás elméleti és jártassági vizsga | 26 000 |
+
+| 368. | Mezőgazdasági jogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz | 20 000 |
+
+| 369. | Mezőgazdasági jogosítás adminisztratív meghosszabbítása | 7 000 |
+
+| 370. | Vontató jogosítás elméleti és jártassági vizsga | 11 000 |
+
+| 371. | Vontató jogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz | 7 000 |
+
+| 372. | Vontató jogosítás adminisztratív meghosszabbítása | 2 000 |
+
+| 373. | Terepvontató jogosítás elméleti és jártassági vizsga | 11 000 |
+
+| 374. | Terepvontató jogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz | 7 000 |
+
+| 375. | Terepvontató jogosítás adminisztratív meghosszabbítása | 2 000 |
+
+| Helikopter pilóta szakszolgálati engedély |
+
+| 376. | SPL megkérés, kiadás, változtatás | 5 000 |
+
+| 377. | PPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 2 000 |
+
+| 378. | PPL jártassági vizsga, pótvizsga | 14 000 |
+
+| 379. | CPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 4 000 |
+
+| 380. | CPL jártassági vizsga, pótvizsga | 29 000 |
+
+| 381. | IR elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 4 000 |
+
+| 382. | IR jártassági vizsga, pótvizsga | 26 000 |
+
+| 383. | IR készség ellenőrzés meghosszabbításhoz, megújításhoz | 17 000 |
+
+| 384. | IR adminisztratív meghosszabbítása | 4 000 |
+
+| 385. | ATPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 4 000 |
+
+| 386. | ATPL jártassági vizsga, pótvizsga | 29 000 |
+
+| 387. | NVFR jogosítás megszerző | 13 000 |
+
+| 388. | Típusjogosítás elméleti vizsga, pótvizsga | 3 000 |
+
+| 389. | Típusjogosítás jártassági vizsga, pótvizsga | 11 000 |
+
+| 390. | Típusjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz | 7 000 |
+
+| 391. | Típusjogosítás adminisztratív meghosszabbítása | 3 000 |
+
+| 392. | Repülés-oktatói jogosítás [FI(H)] elméleti vizsga, pótvizsga | 5 000 |
+
+| 393. | Repülés-oktatói jogosítás [FI(H)] jártassági vizsga, pótvizsga | 16 000 |
+
+| 394. | Repülés-oktatói jogosítás [FI(H)] készség ellenőrzés meghosszabbításhoz, megújításhoz | 15 000 |
+
+| 395. | Repülés-oktatói jogosítás [FI(H)] adminisztratív meghosszabbítása | 4 000 |
+
+| 396. | Mentő jogosítás elméleti és jártassági vizsga | 26 000 |
+
+| 397. | Mentő jogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz | 20 000 |
+
+| 398. | Mentő jogosítás adminisztratív meghosszabbítása | 7 000 |
+
+| 399. | Tűzoltó jogosítás elméleti és jártassági vizsga | 26 000 |
+
+| 400. | Tűzoltó jogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz | 20 000 |
+
+| 401. | Tűzoltó jogosítás adminisztratív meghosszabbítása | 7 000 |
+
+| 402. | Mezőgazdasági jogosítás elméleti és jártassági vizsga | 25 000 |
+
+| 403. | Mezőgazdasági jogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz | 20 000 |
+
+| 404. | Mezőgazdasági jogosítás adminisztratív meghosszabbítása | 7 000 |
+
+| 405. | Teheremelő jogosítás elméleti és jártassági vizsga | 26 000 |
+
+| 406. | Teheremelő jogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz | 20 000 |
+
+| 407. | Teheremelő jogosítás adminisztratív meghosszabbítása | 7 000 |
+
+| 408. | Vontató jogosítás elméleti és jártassági vizsga | 11 000 |
+
+| 409. | Vontató jogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz | 7 000 |
+
+| 410. | Vontató jogosítás adminisztratív meghosszabbítása | 2 000 |
+
+| 411. | Repülés vizsgáztató – helikopteren [FE(H)] megszerző, meghosszabbító, megújító | 31 000 |
+
+| Ballon pilóta szakszolgálati engedély |
+
+| 412. | SBPL megkérés, kiadás, változtatás | 3 000 |
+
+| 413. | BR elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 1 000 |
+
+| 414. | BR jártassági vizsga, pótvizsga | 7 000 |
+
+| 415. | BR készség ellenőrzés meghosszabbításhoz, megújításhoz | 5 000 |
+
+| 416. | BR adminisztratív meghosszabbítása | 2 000 |
+
+| 417. | NVFR jogosítás megszerző | 4 000 |
+
+| 418. | Repülés-oktatói jogosítás [FI(B)] elméleti vizsga, pótvizsga | 3 000 |
+
+| 419. | Repülés-oktatói jogosítás [FI(B)] jártassági vizsga, pótvizsga | 11 000 |
+
+| 420. | Repülés-oktatói jogosítás [FI(B)] készség ellenőrzés meghosszabbításhoz, megújításhoz | 7 000 |
+
+| 421. | Repülés-oktatói jogosítás [FI(B)] adminisztratív meghosszabbítása | 3 000 |
+
+| 422. | Repülés vizsgáztató – ballonon [FE(B)] megszerző, meghosszabbító, megújító | 31 000 |
+
+| Léghajó pilóta szakszolgálati engedély |
+
+| 423. | SPL megkérés, kiadás, változtatás | 5 000 |
+
+| 424. | PPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 2 000 |
+
+| 425. | PPL jártassági vizsga, pótvizsga | 14 000 |
+
+| 426. | CPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 3 000 |
+
+| 427. | CPL jártassági vizsga, pótvizsga | 29 000 |
+
+| 428. | IR elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 3 000 |
+
+| 429. | IR jártassági vizsga, pótvizsga | 26 000 |
+
+| 430. | IR készség ellenőrzés meghosszabbításhoz, megújításhoz | 16 000 |
+
+| 431. | IR adminisztratív meghosszabbítása | 4 000 |
+
+| 432. | NVFR jogosítás megszerző | 13 000 |
+
+| 433. | Típusjogosítás elméleti vizsga, pótvizsga | 4 000 |
+
+| 434. | Típusjogosítás jártassági vizsga, pótvizsga | 11 000 |
+
+| 435. | Típusjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz | 7 000 |
+
+| 436. | Típusjogosítás adminisztratív meghosszabbítása | 3 000 |
+
+| 437. | Repülés-oktatói jogosítás [FI(AS)] elméleti vizsga, pótvizsga | 5 000 |
+
+| 438. | Repülés-oktatói jogosítás [FI(AS)] jártassági vizsga, pótvizsga | 16 000 |
+
+| 439. | Repülés-oktatói jogosítás [FI(AS)] készség ellenőrzés meghosszabbításhoz, megújításhoz | 14 000 |
+
+| 440. | Repülés-oktatói jogosítás [FI(AS)] adminisztratív meghosszabbítása | 5 000 |
+
+| 441. | Repülés vizsgáztató – léghajón [FE(AS)] megszerző, meghosszabbító, megújító | 31 000 |
+
+| Vitorlázó-repülőgép pilóta szakszolgálati engedély |
+
+| 442. | SGPL megkérés, kiadás, változtatás | 2 000 |
+
+| 443. | GR elméleti vizsga, pótvizsga | 3 000 |
+
+| 444. | GR jártassági vizsga, pótvizsga | 7 000 |
+
+| 445. | GR készség ellenőrzés meghosszabbításhoz, megújításhoz | 5 000 |
+
+| 446. | GR adminisztratív meghosszabbítása | 2 000 |
+
+| 447. | Repülés-oktatói jogosítás [FI(G)] elméleti vizsga, pótvizsga | 3 000 |
+
+| 448. | Repülés-oktatói jogosítás [FI(G)] jártassági vizsga, pótvizsga | 11 000 |
+
+| 449. | Repülés-oktatói jogosítás [FI(G)] készség ellenőrzés meghosszabbításhoz, megújításhoz | 7 000 |
+
+| 450. | Repülés-oktatói jogosítás [FI(G)] adminisztratív meghosszabbítása | 3 000 |
+
+| 451. | Repülés vizsgáztató – vitorlázón [FE(G)] megszerző, meghosszabbító, megújító | 31 000 |
+
+| Helyből felszálló repülőgép pilóta szakszolgálati engedély |
+
+| 452. | SPL megkérés, kiadás, változtatás | 5 000 |
+
+| 453. | PPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 2 000 |
+
+| 454. | PPL jártassági vizsga, pótvizsga | 14 000 |
+
+| 455. | CPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 4 000 |
+
+| 456. | CPL jártassági vizsga, pótvizsga | 29 000 |
+
+| 457. | IR elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 3 000 |
+
+| 458. | IR jártassági vizsga, pótvizsga | 26 000 |
+
+| 459. | IR készség ellenőrzés meghosszabbításhoz, megújításhoz | 17 000 |
+
+| 460. | IR adminisztratív meghosszabbítása | 4 000 |
+
+| 461. | ATPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 5 000 |
+
+| 462. | ATPL jártassági vizsga, pótvizsga | 29 000 |
+
+| 463. | NVFR jogosítás megszerző | 13 000 |
+
+| 464. | Típusjogosítás elméleti vizsga, pótvizsga | 6 000 |
+
+| 465. | Típusjogosítás jártassági vizsga, pótvizsga | 16 000 |
+
+| 466. | Típusjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz | 14 000 |
+
+| 467. | Típusjogosítás adminisztratív meghosszabbítása | 6 000 |
+
+| 468. | Repülés-oktatói jogosítás [FI(PLA)] elméleti vizsga, pótvizsga | 5 000 |
+
+| 469. | Repülés-oktatói jogosítás [FI(PLA)] jártassági vizsga, pótvizsga | 17 000 |
+
+| 470. | Repülés-oktatói jogosítás [FI(PLA)] készség ellenőrzés meghosszabbításhoz, megújításhoz | 15 000 |
+
+| 471. | Repülés-oktatói jogosítás [FI(PLA)] adminisztratív meghosszabbítása | 4 000 |
+
+| 472. | Repülés vizsgáztató – [FE(PLA)] megszerző, meghosszabbító, megújító | 31 000 |
+
+| Ultralight pilóta szakszolgálati engedély |
+
+| 473. | SULPL megkérés, kiadás, változtatás | 2 000 |
+
+| 474. | ULR elméleti vizsga, pótvizsga | 3 000 |
+
+| 475. | ULR jártassági vizsga, pótvizsga | 7 000 |
+
+| 476. | ULR készség ellenőrzés meghosszabbításhoz, megújításhoz | 5 000 |
+
+| 477. | ULR adminisztratív meghosszabbítása | 2 000 |
+
+| 478. | NVFR jogosítás megszerző | 4 000 |
+
+| 479. | Repülés-oktatói jogosítás [FI(UL)] elméleti vizsga, pótvizsga | 3 000 |
+
+| 480. | Repülés-oktatói jogosítás [FI(UL)] jártassági vizsga, pótvizsga | 11 000 |
+
+| 481. | Repülés-oktatói jogosítás [FI(UL)] készség ellenőrzés meghosszabbításhoz, megújításhoz | 7 000 |
+
+| 482. | Repülés-oktatói jogosítás [FI(UL)] adminisztratív meghosszabbítása | 3 000 |
+
+| 483. | Vontató jogosítás elméleti és jártassági vizsga | 6 000 |
+
+| 484. | Vontató jogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz | 4 000 |
+
+| 485. | Vontató jogosítás adminisztratív meghosszabbítása | 2 000 |
+
+| 486. | Repülés vizsgáztató – [FE(UL)] megszerző, meghosszabbító, megújító | 31 000 |
+
+| Autogiro pilóta szakszolgálati engedély |
+
+| 487. | SAGPL megkérés, kiadás, változtatás | 2 000 |
+
+| 488. | AGR elméleti vizsga, pótvizsga | 3 000 |
+
+| 489. | AGR jártassági vizsga, pótvizsga | 7 000 |
+
+| 490. | AGR készség ellenőrzés meghosszabbításhoz, megújításhoz, | 5 000 |
+
+| 491. | AGR adminisztratív meghosszabbítása | 2 000 |
+
+| 492. | Repülés-oktatói jogosítás [FI(AG)] elméleti vizsga, pótvizsga | 3 000 |
+
+| 493. | Repülés-oktatói jogosítás [FI(AG)] jártassági vizsga, pótvizsga | 11 000 |
+
+| 494. | Repülés-oktatói jogosítás [FI(AG)] készség ellenőrzés meghosszabbításhoz, megújításhoz | 7 000 |
+
+| 495. | Repülés-oktatói jogosítás [FI(AG)] adminisztratív meghosszabbítása | 3 000 |
+
+| 496. | Repülés vizsgáztató – [FE(AG)] megszerző, meghosszabbító, megújító | 31 000 |
+
+| Hajózó mérnök szakszolgálati engedély |
+
+| 497. | F/E elméleti vizsga, pótvizsga | 16 000 |
+
+| 498. | F/E jártassági vizsga, pótvizsga | 20 000 |
+
+| 499. | Típusjogosítás elméleti vizsga, pótvizsga | 11 000 |
+
+| 500. | Típusjogosítás jártassági vizsga, pótvizsga | 17 000 |
+
+| 501. | Típusjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz | 14 000 |
+
+| 502. | Típusjogosítás adminisztratív meghosszabbítása | 7 000 |
+
+| Hajózó navigátor szakszolgálati engedély |
+
+| 503. | F/N elméleti vizsga, pótvizsga | 16 000 |
+
+| 504. | F/N jártassági vizsga, pótvizsga | 20 000 |
+
+| 505. | Típusjogosítás elméleti vizsga, pótvizsga | 11 000 |
+
+| 506. | Típusjogosítás jártassági vizsga, pótvizsga | 16 000 |
+
+| 507. | Típusjogosítás készség ellenőrzés meghosszabbításhoz, megújításhoz | 15 000 |
+
+| 508. | Típusjogosítás adminisztratív meghosszabbítása | 7 000 |
+
+| Légiutas-kísérő szakszolgálati engedély |
+
+| 509. | Légiutas-kísérő szakszolgálati engedély megszerzés | 20 000 |
+
+| 510. | Légiutas-kísérő szakszolgálati engedély érvényességének meghosszabbítás és megújítás | 16 000 |
 
 | Ejtőernyő |
 
-| 353. | Ejtőernyős szakszolgálati engedély megszerző vizsga | 10 000 |
+| 511. | Ejtőernyős oktató szakszolgálati engedély megszerzés | 7 000 |
 
-| 354. | Ejtőernyős szakszolgálati engedély megújító vizsga | 10 000 |
+| 512. | Ejtőernyős oktató szakszolgálati engedély meghosszabbítás és megújítás | 5 000 |
 
-| 355. | Ejtőernyős szakszolgálati engedély megszerző vizsga (ejtőernyő beugrói jogosítás) | 10 000 |
+| 513. | Ejtőernyős beugrói jogosítás megszerzés | 13 000 |
 
-|  | A 353–354. tételeknél a gyakorlati vizsga során a hatósági vizsgáztató felszállási díját a vizsgázó fizeti. |  |
+| 514. | Az 511–513. tételeknél a gyakorlati vizsga során a hatósági vizsgáztató felszállási díját a vizsgázó fizeti | 9 000 |
 
-| 356. | Szakszolgálati engedély kiadásához és érvényességi idejének meghosszabbításához szükséges elméleti és gyakorlati vizsgák pótvizsga-díja a vonatkozó pont (239–355) díjtételével megegyezik |  |
+| Léginavigációs szolgálatot és légiforgalmi szolgáltatást ellátó szakszemélyzet |
 
-| Légiforgalmi szolgálatok |
+| 515. | Gyakornok légiforgalmi irányító szakszolgálati engedély megszerzés | 19 000 |
 
-| 357. | Légiforgalmi irányító szakszolgálati engedély megszerző vizsga (gyakornok irányító) | 22 300 |
+| 516. | Légiforgalmi irányító szakszolgálati engedély vagy további jogosítás, jogosítás- kiterjesztés, munkahelyi kiterjesztés megszerzés | 3 000 |
 
-| 358. | Légiforgalmi irányító repülőtéri képesítés megszerző vizsga | 20 100 |
+| 517. | Légiforgalmi irányító szakszolgálati engedély meghosszabbítás, megújítás | 18 000 |
 
-| 359. | Légiforgalmi irányító bevezető képesítés megszerző vizsga | 20 100 |
+| 518. | Repüléstájékoztató szakszolgálati engedély vagy további jogosítás, jogosítás kiterjesztés, munkahelyi kiterjesztés megszerzés | 11 000 |
 
-| 360. | Légiforgalmi irányító körzeti képesítés megszerző vizsga | 20 100 |
+| 519. | Repüléstájékoztató szakszolgálati engedély meghosszabbítás, megújítás | 10 000 |
 
-| 361. | Légiforgalmi irányító oktató jogosítás megszerző vizsga | 20 100 |
+| 520. | Légiforgalmi tiszt szakszolgálati engedély vagy további jogosítás, jogosítás-kiterjesztés megszerzése | 19 000 |
 
-| 362. | Légiforgalmi irányító szakszolgálati engedélyek meghosszabbítása | 20 100 |
+| 521. | Légiforgalmi tiszt szakszolgálati engedély meghosszabbítása | 17 000 |
 
-| 363. | Körzeti repüléstájékoztató képesítést megszerző vizsga | 22 000 |
+| 522. | Munkahelyi gyakorlati oktatói kiterjesztés (OJTI) megszerzés | 7 000 |
 
-| 364. | Körzeti repüléstájékoztató képesítést meghosszabbító vizsga | 20 100 |
+| 523. | Légiforgalmi irányító munkahelyi vizsgáztató kiterjesztés (ULA) megszerzés | 6 000 |
 
-| 365. | Repülőtéri repüléstájékoztató jogosítást megszerző vizsga | 10 000 |
+| 524. | Légiforgalmi irányító szaktudás értékelő kiterjesztés (LCA) megszerzés | 5 000 |
 
-| 366. | Repülőtéri repüléstájékoztató jogosítást meghosszabbító vizsga | 10 000 |
+| Repülési szakszolgálat 5/2001. (II. 6.) KöViM rendelet 5. számú melléklet |
 
-| 367. | Repülés üzemi tiszt szakszolgálati engedélyt megszerző vizsga, 5/2001. (II. 6.) KöViM rendelet 4.1.1.6 pontjának megfelelően | 22 300 |
+| 525. | Repülésüzemi tiszti szakszolgálati engedély megszerző vizsga | 21 000 |
 
-| 368. | Repülés üzemi tiszt szakszolgálati engedély meghosszabbítása | 20 100 |
+| 526. | Repülésüzemi tiszti szakszolgálati engedély meghosszabbító vizsga | 18 000 |
 
 | Légijármű-szerelők |
 
-| 369. | A vizsgajegyzőkönyvről hiteles másolat kiállítása, arról igazolás kiadása vagy másodpéldány kiállítása | 20 900 |
+| 527. | Nemzeti/Part-66 szerinti légijármű-karbantartó szakszolgálati engedély első kiadása kategória és típus- vagy csoportjogosítás bejegyzése nélkül | 8 000 |
 
-| 370. | JAR–66/Part–66 szerinti légijármű karbantartó szakszolgálati engedély kiadása | 10 400 |
+| 528. | Légijármű-karbantartó szakszolgálati engedélyek nemzeti/Part-66 szerinti légijármű-karbantartó szakszolgálati engedélyre való konvertálása (a megadható összes kategória bejegyzésével, maximum 3 típus bejegyzésig) | 14 000 |
 
-| 371. | ICAO típusú szakszolgálati engedélyek JAR–66/Part–66 szerinti engedélyre való konvertálása (maximum 3 típus bejegyzésig, minden további típus bejegyzése a 374. szerinti díjtétel szerint) | 15 700 |
+| 529. | Nemzeti/Part-66 szerinti alapkategória bejegyzésének kérelmezése kategóriánként (első kiadáskor vagy módosításkor) | 4 000 |
 
-| 372. | Újabb JAR–66/Part–66 szerinti alapkategória kérelmezése | 5 200 |
+| 530. | Nemzeti/Part-66 szerinti típus, – vagy csoportjogosítás bejegyzésének kérelmezése típusonként vagy csoportonként (első kiadáskor vagy módosításkor) | 4 000 |
 
-| 373. | Újabb JAR–66/Part–66 szerinti típusjogosítás bejegyzésének kérelmezése | 5 200 |
+| 531. | Nemzeti/Part-66 szerinti légijármű-karbantartó szakszolgálati engedély kérelemre történő megújítása (5 évenkénti) | 9 000 |
 
-| 374. | JAR–66/Part–66 szerinti légijármű-karbantartó szakszolgálati engedély kérelemre történő felülvizsgálata (5 évenkénti) | 31 300 |
+| 532. | A fentiektől eltérő adatok változásának bejegyzése nemzeti/Part-66 szerinti légijármű-karbantartó szakszolgálati engedélybe | 5 000 |
 
-| 375. | Hiteles másolat kiadása légijármű-karbantartó szakszolgálati engedélyről | 10 400 |
+| 533. | Egy vagy több kategóriából vagy jogosításból korlátozás törlése nemzeti/Part-66 szerinti légijármű-karbantartó szakszolgálati engedélyből | 24 000 |
 
-| 376. | A fentiektől eltérő adatok változásának bejegyzése JAR–66/Part–66 szerinti légijármű-karbantartó szakszolgálati engedélybe | 8 000 |
+| 534. | Part-66 légijármű-karbantartó szakszolgálati engedélyhez előírt alapvizsga alóli felmentés kérelmezése felmentés alapjául szolgáló képesítésenként | 5 000 |
 
-| 377. | Egy vagy több korlátozás törlése JAR–66/Part–66 szerinti légijármű-karbantartó szakszolgálati engedélyből | 26 400 |
+| Légijármű-karbantartás oktató szervezetek 2042/2003 /EK rendelet |
 
-| Légijármű-karbantartás oktató szervezetek |
+| 535. | Karbantartás oktató szervezet jóváhagyása (egy kategóriának megfelelő alapképzésre vagy egy típusképzésre) | 276 000 |
 
-| 378. | Alapképzés szintű karbantartás oktató tevékenység jóváhagyása (egy alapkategóriára) | 522 000 |
+| 536. | Légijármű – karbantartás oktató szervezet kérelmére induló 2042/2003 EK rendelet IV. Melléklet 147.B.120 pontja szerinti audit díja | 138 000 |
 
-| 379. | További alapkategória jóváhagyása alapkategóriánként | 78 400 |
+| 537. | Karbantartási oktató szervezet engedélyének kiterjesztése típusképzésre vagy típus vizsgáztatásra típustanfolyamonként vagy típusvizsgánként, vagy valamely kategóriának megfelelő alapképzésre kategóriánként | 74 000 |
 
-| 380. | A karbantartás oktató tevékenység jóváhagyása típusképzésre (egy típusra) | 522 000 |
+| 538. | Légijármű-karbantartás oktató szervezet fentiekben nem részletezett változásainak jóváhagyása | 46 000 |
 
-| 381. | További légijármű típusképzés jóváhagyás típusonként | 78 400 |
+| 539. | Hatósági légijármű-karbantartó vizsgáztatás vizsgadíja alapképzési modulonként, illetve légijárműtípusonként | 24 000 |
 
-| 382. | Légijármű-karbantartás oktató szervezet fentiekben nem részletezett változásainak jóváhagyása | 52 200 |
+| 540. | Part-66 szerinti típustanfolyam egyszeri lebonyolításának engedélyezése típus tanfolyamonként | 64 000 |
 
-| 383. | Egyéni vizsgakérelem engedélyezése alapképzési modulonként, illetve légijármű típusonként | 26 100 |
+| 541. | Part-66 66.B.405 szerinti vizsgához adott kreditekről szóló jelentés jóváhagyása modulonként | 28 000 |
 
-| 384. | Légijármű szimulátor létesítésének és üzemben tartásának engedélyezési eljárása | 159 500 |
+| Repülési oktató szervezetek Korm. Rend. 5. § (5) bekezdés 9. pontja |
 
-| 385. | Repülési eljárást gyakorló berendezés engedélyezési eljárása | 84 300 |
+| 542. | Oktatási tanterv, utasítás, képzési tematika hatósági jóváhagyása | 26 000 |
 
-| Repülési oktató szervezetek, Vhr. 1. § (4) 9. pont |
+| 543. | Képzési Program engedélyezése | 13 000 |
 
-| 386. | Oktatási tanterv, utasítás, képzési tematika hatósági jóváhagyása | 36 900 |
+| 544. | Ultralight légijárművekre vonatkozó oktatási tanterv, utasítás, képzési tematika hatósági jóváhagyása | 14 000 |
 
-| 387. | Ultralight légijárművekre vonatkozó oktatási tanterv, utasítás, képzési tematika hatósági jóváhagyása | 26 100 |
+| 545. | Alapképzési szervezet (RF) engedélyezése | 46 000 |
 
-| 388. | Repülési oktató szervezet engedélyezése | 125 400 |
+| 546. | Repülési Képzési szervezet (FTO) engedélyezése | 129 000 |
 
-| 389. | Repülési oktató szervezet engedélyének kiterjesztése | 52 200 |
+| 547. | Típusjogosítás Képzési szervezet (TRTO) engedélyezése | 276 000 |
 
-| 390. | Repülési oktató szervezet engedélyének egyéb módosítása | 9 900 |
+| 548. | Alapképzési szervezet (RF) engedélyének kiterjesztése, változtatása | 26 000 |
 
-| 391. | Repülési oktató szervezet engedélye érvényességi idejének meghosszabbítása | 52 200 |
+| 549. | Repülési képzési szervezet (FTO) engedélyének kiterjesztése, változtatása | 63 000 |
 
-| IX. LÉGIKÖZLEKEDÉSI SZAKSZEMÉLYZET EGÉSZSÉGÜGYI ALKALMASSÁGÁNAK MINŐSÍTÉSÉVEL ÉS OKTATÁSÁVAL KAPCSOLATOS HATÓSÁGI ELJÁRÁSOK Lt. 3. § és Vhr. 1. § (4) 10. pont, 14/2002. (II. 26.) KöViM–EüM együttes rendelet |
+| 550. | Típusjogosítás Képzési szervezet (TRTO) engedélyének kiterjesztése, változtatása | 72 000 |
 
-| 392. | A légiközlekedési szakszemélyzet repülő-egészségügyi alkalmasságának első hatósági minősítése | 7 900 |
+| 551. | Repülési oktató szervezet engedélyének egyéb módosítása | 39 000 |
 
-| 393. | A légiközlekedési szakszemélyzet repülő-egészségügyi időszakos hatósági minősítése az l-es és 3-as egészségügyi osztályban | 6 100 |
+| 552. | Légijármű-szimulátor létesítésének és üzemben tartásának engedélyezési eljárása | 47 000 |
 
-| 394. | A légiközlekedési szakszemélyzet repülő-egészségügyi időszakos hatósági minősítése a 2-es osztályban | 4 000 |
+| 553. | Repülési eljárást gyakorló berendezés engedélyezési eljárása | 30 000 |
 
-| 395. | Kérelemre történő hatósági orvosi repüléstechnikai ellenőrzés | 10 000 |
+| 554. | Veszélyes áru kezelőket oktató szervezet vagy személy hatósági engedélyezése | 6 000 |
 
-| 396. | A JAR-ok által előírt repülő-egészségügyi, pszichológiai és a repülés emberi tényezőivel kapcsolatos oktatási és vizsgáztatási tematikák engedélyezése | 16 000 |
+| Léginavigációs szolgálatot és légiforgalmi szolgáltatást ellátó szakszemélyzet képzési szervezetek, nyelvismereti vizsgáztatást végző szervezetek Korm. Rend. 5. § (5) bekezdés 25. pontja |
 
-| X. LÉGIKÖZLEKEDÉS VÉDELMÉVEL KAPCSOLATOS HATÓSÁGI ELJÁRÁSOK 104/2004. (IV. 27.) Korm. rendelet |
+| 555. | Léginavigációs szolgálatot és légiforgalmi szolgáltatást ellátó szakszemélyzet képzési szervezet engedélyezése | 97 000 |
 
-| 397. | Repülőterek, légitársaságok légiközlekedés védelmi terveinek jóváhagyása | 131 100 |
+| 556. | Léginavigációs szolgálatot és légiforgalmi szolgáltatást ellátó szakszemélyzet képzési szervezet engedélyének kiterjesztése | 48 000 |
 
-| 398. | Földi kiszolgáló, karbantartó és javító szervezetek, légiforgalmi szolgálatok légiközlekedés védelmi terveinek jóváhagyása | 90 600 |
+| 557. | Léginavigációs szolgálatot és légiforgalmi szolgáltatást ellátó szakszemélyzet képzési szervezet engedélye érvényességi idejének meghosszabbítása | 55 000 |
 
-| 399. | Légiközlekedés védelmi tervek módosításának jóváhagyása | 80 500 |
+| 558. | Légiforgalmi irányítók és repüléstájékoztatók nyelvismereti vizsgáztatásának engedélyezése | 114 000 |
 
-| 400. | Repülőterek, légitársaságok kényszerhelyzeti terveinek jóváhagyása | 131 100 |
+| 559. | Légiforgalmi irányítók és repüléstájékoztatók nyelvismereti vizsgáztatási engedély érvényességi idejének meghosszabbítása | 55 000 |
 
-| 401. | Földi kiszolgáló, karbantartó és javító szervezetek, légiforgalmi szolgálatok kényszerhelyzeti terveinek jóváhagyása | 90 600 |
+| 560. | Léginavigációs szolgálatot és légiforgalmi szolgáltatás ellátó szakszemélyzet tantervének, munkahelyi képzési tervének jóváhagyása | 30 000 |
 
-| 402. | Légiközlekedés védelmi tisztek kijelölésének jóváhagyása | 15 900 |
+| 561. | Léginavigációs szolgáltató és légiforgalmi szolgáltatás ellátó szakszemélyzet továbbképzési programjának jóváhagyása | 30 000 |
 
-| 403. | 100 főnél többet foglalkoztató szervezet légiközlekedés védelmi képzési terveinek jóváhagyása | 36 900 |
+| Szakszolgálati engedélyekhez kapcsolódó egyéb eljárások Korm. Rend. 5. § (5) bekezdés 2. pontja |
 
-| 404. | 100 főnél kevesebbet foglalkoztató szervezet légiközlekedés védelmi képzési terveinek jóváhagyása | 26 400 |
+| 562. | JAA tagállam által kiadott engedélyek kiadó államának megváltoztatása | 44 000 |
 
-| 405. | 100 főnél többet foglalkoztató szervezet légiközlekedés védelmi belső minőségbiztosítási programjának jóváhagyása | 36 900 |
+| 563. | Nem JAA tagállam által kiadott engedélyek honosítása | 52 000 |
 
-| 406. | 100 főnél kevesebbet foglalkoztató szervezet légiközlekedés védelmi belső minőségbiztosítási programjának jóváhagyása | 26 400 |
+| 564. | Szakszolgálati engedély nyelvi kiterjesztés | 18 000 |
 
-| 407. | Légiközlekedés védelmi berendezések (beléptető rendszerek, elektronikus repülőtéri kerítés, ellenőrző és riasztó rendszerek, biztonsági ellenőrzés során használt berendezések, parkoló légijárművek védelmét szolgáló behatolásfelismerő rendszerek stb.) üzembe helyezésének jóváhagyása | 48 400 |
+| 565. | Nem JAA tagállam által kiadott engedélyek érvényesítése (validáció) hajózószemélyzeti tag részére | 26 000 |
 
-| 408. | Meghatalmazott ügynökök (ellenőrzött szállító) minősítése, védelmi tervének jóváhagyása | 131 100 |
+| 566. | STD-k használatának engedélyezése üzemeltetők, képzési szervezetek részére (User Approval) | 30 000 |
 
-| 409. | A légiközlekedés védelme szempontjából kis repülőtérnek minősítési eljárás | 64 400 |
+| IX. LÉGIKÖZLEKEDÉSI SZAKSZEMÉLYZET EGÉSZSÉGÜGYI ALKALMASSÁGÁNAK MINŐSÍTÉSÉVEL ÉS OKTATÁSÁVAL KAPCSOLATOS HATÓSÁGI ELJÁRÁSOK Korm. Rend. 5. § (5) bekezdés 10. pontja, 14/2002. (II. 26.) KöViM–EüM együttes rendelet |
 
-| 410. | Légiközlekedés védelmi oktatói engedélyek kiadása, módosítása, kiterjesztése, érvényességi idejének meghosszabbítása | 20 100 |
+| 567. | A légiközlekedési szakszemélyzet repülő-egészségügyi alkalmasságának első hatósági minősítése | 7 000 |
 
-| 411. | Légiközlekedés védelmi oktató szervezet engedélyezése | 125 400 |
+| 568. | A légiközlekedési szakszemélyzet repülő-egészségügyi időszakos hatósági minősítése az 1-es és 3-as egészségügyi osztályban | 6 000 |
+
+| 569. | A légiközlekedési szakszemélyzet repülő-egészségügyi időszakos hatósági minősítése a 2-es osztályban | 4 000 |
+
+| 570. | Kérelemre történő hatósági orvosi repüléstechnikai ellenőrzés | 9 000 |
+
+| 571. | A JAR-ok által előírt repülő-egészségügyi, pszichológiai és a repülés emberi tényezőivel kapcsolatos oktatási és vizsgáztatási tematikák engedélyezése | 15 000 |
+
+| X. LÉGIKÖZLEKEDÉS VÉDELMÉVEL KAPCSOLATOS HATÓSÁGI ELJÁRÁSOK Korm. Rend. 5. § (5) bekezdés 40–43. pontja, 169/2010. (V. 11.) Korm. rendelet, 300/2008 EK rendelet, 185/2010 EU rendelet |
+
+| 572. | Légiközlekedés-védelmi tervek és módosításuk jóváhagyása | 138 000 |
+
+| 573. | Légiközlekedés-védelmi tisztek kijelölésének jóváhagyása | 28 000 |
+
+| 574. | Légiközlekedés-védelmi képzési tervek és védelmi (belső) minőségbiztosítási programok, valamint módosításuk jóváhagyása | 58 000 |
+
+| 575. | Légiközlekedés-védelmi berendezések, eszközök (185/2010/EU rendelet mellékletének 12. fejezetében megjelölt eszközök) üzembe helyezésének, alkalmazásának jóváhagyása | 55 000 |
+
+| 576. | Meghatalmazott ügynökök, ismert szállítók, fedélzeti ellátmány meghatalmazott beszállítójának jóváhagyása | 184 000 |
+
+| 577. | A légiközlekedés védelme szempontjából kis repülőtérnek minősítési eljárás | 176 000 |
+
+| 578. | Légiközlekedés-védelmi oktatói engedélyek kiadása, módosítása, kiterjesztése, érvényességi idejének meghosszabbítása | 92 000 |
+
+| 579. | Légiközlekedés-védelmi oktató szervezet engedélyezése | 230 000 |
+
+| 580. | Repülőtér szigorított védelmi területére történő belépés során személyek ellenőrzés alóli részleges vagy teljes mentesítése, valamint tiltott eszközök bevitelének, speciális ellenőrzés alá vetésének engedélyezése (személyenként) | 15 000 |
 
 | XI. EGYÉB ELJÁRÁSI DÍJ |
 
-| 412. | Adatszolgáltatás kérelemre A/4 oldalanként | 5 000 |
+| 581. | Kihasználatlan légiközlekedési jog igénybevétele iránti kérelem elbírálása | 322 000 |
 
-| 413. | Az időszakos hatósági felülvizsgálati időpont elhalasztása kérelemre a vonatkozó díjtétel 50%-a |  |
+| 582. | Adatszolgáltatás kérelemre A/4 oldalanként, földi kiszolgálási engedély esetén tevékenységenként | 5 000 |
 
-| 414. | Légiközlekedési hatósági engedélyek, bizonyítványok másolatainak, hatósági igazolások kiadása | 7 900 |
+| 583. | Az időszakos hatósági felülvizsgálati időpont elhalasztása kérelemre a vonatkozó díjtétel 50%-a |  |
 
-| 415. | Az ügyfél hibájából bekövetkező érdemi hatósági vizsgálat elmaradása vagy eredménytelen kiszállás alkalmával felszámított díjtétel a vonatkozó pont 50%-a |  |
+| 584. | Az ügyfél hibájából bekövetkező érdemi hatósági vizsgálat elmaradása vagy eredménytelen kiszállás alkalmával felszámított díjtétel a vonatkozó pont 50%-a |  |
 
-| 416. | Iratbetekintés során másolat kiadása oldalanként | 100 |
+| 585. | Jogszabályi rendelkezés késedelmes teljesítése esetén a vonatkozó díjtétel 150%-a |  |
 
-| 417. | Jogszabályi rendelkezés késedelmes teljesítése esetén a vonatkozó díjtétel 150%-a |  |
+| 586. | Légiközlekedési hatóság szakhatósági eljárása | 9 000 |
 
-| XII. A SORON KÍVÜLI HATÓSÁGI ELJÁRÁSOK DÍJA Ha az ügyfél kérelmére jelen mellékletben foglalt hatósági eljárást: |
+| 587. | Szakértői tevékenység kérelmének véleményezése 14/2010. (II. 5.) Korm. rendelet | 7 000 |
 
-| 418. | Munkaszüneti napokon kell lefolytatni: az adott tétel alapdíjának 100%-át kell felszámítani |  |
+| XII. A SORON KÍVÜLI HATÓSÁGI ELJÁRÁSOK DÍJA |
 
-| 419 | 10 napon belüli, illetve munkaidőn túli ügyintézés esetén: az adott tétel alapdíjának 50%-át kell felszámítani |  |
+| Ha az ügyfél kérelmére jelen mellékletben foglalt hatósági eljárást: |
 
-| XIII. REPÜLŐTÉR IGÉNYBEVÉTELÉÉRT FIZETENDŐ DÍJAKRA VONATKOZÓ SZABÁLYZAT JÓVÁHAGYÁSA Lt. 41. § (3) Az évente 250 000 utas feletti forgalmat bonyolító nemzetközi kereskedelmi repülőtér esetén |
+| 588. | Munkaszüneti napokon kell lefolytatni: az adott tétel alapdíjának 100%-át kell felszámítani |  |
 
-| 420. | A repülőtér üzemben tartója által készített, a légijármű által történő igénybevételért fizetendő díjak meghatározásának részletes szabályait tartalmazó szabályzat jóváhagyása, illetve e szabályzat módosításának jóváhagyása | 300 000 |
+| 589. | 10 napon belüli, illetve munkaidőn túli ügyintézés esetében: az adott tétel alapdíjának 50%-át kell felszámítani |  |
 
-[^11]: Az 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 242. pontja hatályon kívül helyezte.
-[^12]: A melléklet a 98/2005. (XI. 14.) GKM rendelet 3. §-ával megállapított, a 100/2005. (XI. 23.) GKM rendelet 1. §-a, a 97/2006. (XII. 28.) GKM rendelet 9. § c) és f) pontja, a 91/2011. (XII. 30.) NFM rendelet szerint módosított szöveg.
+| XIII. REPÜLŐTÉR IGÉNYBEVÉTELÉÉRT FIZETENDŐ DÍJAKRA VONATKOZÓ SZABÁLYZAT JÓVÁHAGYÁSA |
+
+| Lt. 41. § (3) bekezdése |
+
+| Az évente 250 000 utas feletti forgalmat bonyolító nemzetközi kereskedelmi repülőtér esetében |
+
+| 590. | A repülőtér üzemben tartója által készített, a légijármű által történő igénybevételért fizetendő díjak meghatározásának részletes szabályait tartalmazó szabályzat jóváhagyása, illetve e szabályzat módosításának jóváhagyása | 109 000 |
+
+[^17]: Az 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 242. pontja hatályon kívül helyezte.
+[^18]: A melléklet a 20/2012. (IV. 26.) NFM rendelet 4. §-ával megállapított szöveg.
