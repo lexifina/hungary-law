@@ -18,4 +18,4 @@ c) képviseli a magyar állattenyésztést hazai és a nemzetközi fórumokon;
 
 d) ellátja a tenyésztési hatóság által – meghatározott feltételekkel – ráruházott feladatokat.
 
-(3) Az (1) és (2) bekezdésben foglalt tevékenységet kizárólag elismert vagy ideiglenesen elismert tenyésztő szervezet végezheti.
+(3) Az (1) bekezdésben foglalt tevékenységet kizárólag elismert vagy ideiglenesen elismert tenyésztő szervezet végezheti.
