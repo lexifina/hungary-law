@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-51-00-00
 | --- | --- | --- |
 | 2012-05-26 | 2012. évi LI. törvény | 2012-51-00-00.0 (közlönyállapot) |
 | 2012-05-26 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-51-00-00.1 |
+| 2012-05-27 | 2010. évi CXXX. törvény | 2012-51-00-00.2 |
