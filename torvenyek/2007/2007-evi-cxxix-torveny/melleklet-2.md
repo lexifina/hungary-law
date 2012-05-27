@@ -18,7 +18,7 @@ b) legalább két osztállyal gyengébb, akkor az ingatlan-nyilvántartásban sz
 
 2.4. a 24. § (1) bekezdésének e) pontjában foglalt esetben a termőföldnek az engedélyező határozatban előírt határidő lejárta és a tényleges helyreállítás időpontja közötti időre a más célú időleges hasznosításáért fizetendő földvédelmi járulék háromszorosa.
 
-2.5. A 24. § (1) bekezdésének g) pontjában foglalt esetben a bírság összege
+2.5. A 24. § (1) bekezdésének f) pontjában foglalt esetben a bírság összege
 
 a) ha az engedély nélkül, vagy annak előírásaitól eltérően más célra hasznosított termőföldet eredeti állapotába helyreállítják, a föld más célú időleges hasznosításáért fizetendő földvédelmi járulék háromszorosa;
 

@@ -14,6 +14,8 @@ c) időleges más célú hasznosítás esetén az eredeti állapot helyreállít
 
 esedékes.
 
+(4a) Ha az ingatlanügyi hatóság a 15. § (1a) bekezdésében meghatározott körülmény fennállása mellett a termőföld belterületbe vonását engedélyezi, és az erről szóló határozat meghozatalának napjáig a korábban kiadott végleges más célú hasznosítás engedélyezéséről szóló határozat alapján a 22. § (4) bekezdés a) pontjában foglalt földvédelmi járulékfizetési kötelezettség esedékessége már beállt, a belterületbe vonás miatt a földvédelmi járulék összegét a termőföld végleges más célú hasznosításának engedélyezése miatt kiszabott jogerős határozatban megállapított földvédelmi járulék összegével csökkentett mértékben kell megállapítani.
+
 (5) A járulék fizetése alól felmentés nem adható és részletfizetési vagy egyéb kedvezmény sem engedélyezhető.
 
 (6) Ha a más célú hasznosítás az engedélyezettnél kisebb területen valósul meg, a járulék megfizetésének esedékessé válása napjától számított 5 éven belül a járulékkülönbözetet – kérelemre – az ingatlanügyi hatóság visszafizeti.
