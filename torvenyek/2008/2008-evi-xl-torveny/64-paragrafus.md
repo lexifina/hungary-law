@@ -10,10 +10,12 @@
 
 a) az engedélyes üzletszabályzatában foglaltak betartására kötelezés,
 
-b) az engedélyes olyan jogsértése esetén, amelyhez jogszabály vagy üzletszabályzat jogkövetkezményt rendel, a jogkövetkezmény megállapítása és teljesítésének előírása, és
+b) az engedélyes olyan jogsértése esetén, amelyhez jogszabály vagy üzletszabályzat jogkövetkezményt rendel, a jogkövetkezmény megállapítása és teljesítésének előírása vagy a jogkövetkezmény alkalmazásának megtiltása, és
 
 c) amennyiben a felhasználót visszatérítés illeti meg, az annak teljesítésére való kötelezés.
 
-(4) Az engedélyesekkel szemben felmerülő panaszok ügyében – az (1) bekezdésben foglaltak kivételével – a Hivatal jár el.
+(3b) A 64. § (1) bekezdésében foglaltaktól eltérően a lakossági fogyasztók elszámolásra, számlázásra, díjfizetésre vagy mérésre, valamint a földgázellátásból történő, fizetési késedelem miatt végrehajtott felfüggesztésre vagy kikapcsolásra, illetve a tartozás rendezését követően a felhasználó ellátásba történő ismételt bekapcsolására vonatkozó rendelkezések megsértése esetén is a Hivatal jár el, ha azok szerződés nélküli vételezéssel, szabálytalan vételezéssel vagy ezek jogkövetkezményeivel is kapcsolatosak.
+
+(4) Az engedélyesekkel szemben felmerülő panaszok ügyében – az (1) bekezdésben foglaltak kivételével – a Hivatal jár el. A Hivatal eljárása során a (3a) bekezdés szerinti jogkövetkezményeket is alkalmazhatja.
 
 (5) A felhasználó köteles panaszával – a hatósági eljárást megelőzően – igazolható módon az engedélyeshez fordulni.

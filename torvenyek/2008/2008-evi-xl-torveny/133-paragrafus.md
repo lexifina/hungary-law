@@ -24,7 +24,11 @@
 
 12. a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. év CXXVII. törvény 57. § (2) bekezdés c) pont ca) alpontjában meghatározott minősített földgázellátási üzemzavar bekövetkezésének, illetve megszűnésének tényét és időpontját,
 
-12. földgázellátási válsághelyzet II. fokozata esetén a felhasználók ellátására vonatkozó szerződések teljesítése felfüggesztésének rendjét, a felhasználók földgázellátásának korlátozását, különösen a korlátozás elrendelésének, fenntartásának és feloldásának feltételeit, az engedélyesek jogait és kötelezettségeit, valamint a földgázellátáshoz kapcsolódó, a hatósági és a nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát.
+12.
+
+13. földgázellátási válsághelyzet II. fokozata esetén a felhasználók ellátására vonatkozó szerződések teljesítése felfüggesztésének rendjét, a felhasználók földgázellátásának korlátozását, különösen a korlátozás elrendelésének, fenntartásának és feloldásának feltételeit, az engedélyesek jogait és kötelezettségeit, valamint a földgázellátáshoz kapcsolódó, a hatósági és a nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát,
+
+14. a rendszerüzemeltetők által a felhasználók igénye alapján külön díj ellenében végezhető alapszolgáltatásokon túli egyéb szolgáltatások, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások, valamint a rendszerüzemeltető által az engedélyesek részére külön díj ellenében végezhető szolgáltatások körét és azok díjait, a tárgyalásos földgáztárolói hozzáféréshez kapcsolódó, külön díj ellenében nyújtott szolgáltatások kivételével.
 
 (2) Felhatalmazást kap az iparügyekért felelős miniszter, hogy rendeletben állapítsa meg
 

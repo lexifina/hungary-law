@@ -1,1 +1,1 @@
-### 140/C. §
+140/C. § E törvénynek a bányászatról szóló 1993. évi XLVIII. törvény és egyes energetikai tárgyú törvények módosításáról szóló 2012. évi XLVII. törvény 43. § (1) bekezdése által megállapított 64. § (3a) bekezdés b) pontját, a 43. § (2) bekezdéssel megállapított 64. § (3b) bekezdését, a 43. § (3) bekezdésével megállapított 64. § (4) bekezdését, valamint a 44. §-sal megállapított 127. § n) pontját a hatálybalépéskor folyamatban lévő ügyekben és a megismételt eljárásokban is alkalmazni kell.

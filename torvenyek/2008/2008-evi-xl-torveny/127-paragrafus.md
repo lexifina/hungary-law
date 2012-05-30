@@ -42,7 +42,7 @@ l) az egyes engedélyesekre – a jogszabályban meghatározott keretek között
 
 m) dönt a rendszerüzemeltetővel, illetve a telephelyi engedélyessel szemben felmerülő, csatlakozással vagy az együttműködő földgázrendszer megfelelő minőségben való rendelkezésre állásának kérdésével kapcsolatos felhasználói panaszok ügyében; ellenőrzi a felhasználói igények kielégítését és a felhasználók által a hálózathoz való csatlakozás érdekében befizetett csatlakozási díj felhasználását;
 
-n) dönt az engedélyesekkel szemben felmerülő panaszok ügyében, kivéve az elszámolásra, számlázásra, díjfizetésre vagy mérésre, valamint a földgázellátásból történő, fizetési késedelem miatt végrehajtott felfüggesztésre vagy kikapcsolásra, illetve a tartozás rendezését követően a felhasználó ellátásba történő ismételt bekapcsolására vonatkozó jogszabályi előírások megsértésével összefüggő lakossági fogyasztói panaszokat;
+n) dönt az engedélyesekkel szemben felmerülő panaszok – ideértve a szerződés nélküli vételezéssel, a szabálytalan vételezéssel, valamint ezek jogkövetkezményeivel kapcsolatos panaszok – ügyében, kivéve a 64. § (1) bekezdése szerinti lakossági fogyasztói panaszokat;
 
 o) a folyamatos és biztonságos földgázellátás fenntartása érdekében folyamatosan ellenőrzi
 
