@@ -70,9 +70,9 @@
 
 (5) A Hivatal a felhasználók védelmével kapcsolatos feladatai körében:
 
-1. eljár a csatlakozásra, a hálózathoz való hozzáférésre, illetve a rendszer megfelelő minőségben való rendelkezésre állására vonatkozó rendelkezéseknek a hálózati engedélyes általi megsértése esetén; ellenőrzi a felhasználói igény kielégítését, ellenőrzi a felhasználók által a közcélú hálózathoz való csatlakozás érdekében befizetett csatlakozási díj felhasználását, bírságot szab ki,
+1. ellenőrzi a csatlakozással, a hálózathoz való hozzáféréssel, illetve a rendszer megfelelő minőségben való rendelkezésre állásával kapcsolatos felhasználói igények hálózati engedélyes általi kielégítését, ellenőrzi a felhasználók által a közcélú hálózathoz való csatlakozás érdekében befizetett csatlakozási díj felhasználását, bírságot szab ki,
 
-2. dönt az engedélyesekkel szemben felmerülő panaszok ügyében, kivéve az elszámolásra, számlázásra, díjfizetésre vagy mérésre, valamint a villamosenergia-ellátásból történő, fizetési késedelem miatt végrehajtott felfüggesztésre vagy kikapcsolásra, illetve a tartozás rendezését követően a felhasználó ellátásba történő ismételt bekapcsolására vonatkozó jogszabályi előírások megsértésével összefüggő lakossági fogyasztói panaszokat, és
+2. dönt az engedélyesekkel szemben felmerülő panaszok – ideértve a szerződés nélküli vételezéssel, a szabálytalan vételezéssel, valamint ezek jogkövetkezményeivel kapcsolatos panaszok – ügyében, kivéve az 57. § (1) bekezdése szerinti lakossági fogyasztói panaszokat, és
 
 3. dönt a rendszerhasználó által a hálózati engedélyessel szemben, továbbá a vételező és a felhasználó által a magánvezeték üzemeltetőjével szemben e törvényben meghatározott kötelezettségek megsértésével kapcsolatban benyújtott beadványokról.
 
@@ -83,3 +83,5 @@
 2. végrehajtja a 714/2009/EK rendelet 20. cikkében meghatározott feladatokat, és
 
 3. éves jelentést készít az Ügynökség és az Európai Bizottság részére saját tevékenységéről és feladatai végrehajtásáról.
+
+(7) A Hivatal egyéb feladatai körében ellátja az energiapolitikáért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölésével kapcsolatos feladatokat.
