@@ -1,3 +1,0 @@
-8. § A Bt. 15. §-a helyébe a következő rendelkezés lép:
-
-„15. § Ha a koncesszió jogosultja a szerződésben meghatározott határidőn belül, legkésőbb azonban a bányatelek megállapításától számított 5 éven, illetve a geotermikus védőidom kijelölésétől számított 3 éven belül a kitermelést, az energetikai célú hasznosítást nem kezdi meg, a szerződésben meghatározott térítést köteles megfizetni. Ha a térítésfizetési kötelezettségnek nem tesz eleget, a koncesszió megszűnik.”
