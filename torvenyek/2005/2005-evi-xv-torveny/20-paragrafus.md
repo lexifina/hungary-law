@@ -50,4 +50,6 @@ rendeletben állapítsa meg.
 
 3. a 2003/87/EK irányelvnek az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének a légiközlekedésre történő kiterjesztése céljából történő módosításáról szóló, 2008. november 19-i 2008/101/EK európai parlamenti és tanácsi irányelvnek
 
+4. a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló, 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv 17. cikk (2) bekezdésének, 18. cikk (1) bekezdésének és a 28. cikkének
+
 való megfelelést szolgálja.

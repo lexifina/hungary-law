@@ -12,4 +12,4 @@
 
 (6) Amennyiben a légijármű üzemben tartó nem tesz eleget az e törvényben vagy az e törvény végrehajtására kiadott kormányrendeletben előírt követelményeknek, és az e törvényben meghatározott egyéb jogkövetkezmény alkalmazása sem vezet eredményre, a miniszter kérelemmel fordul a Bizottsághoz, hogy az érintett légijármű üzemben tartóra vonatkozóan működési tilalmat állapítson meg.
 
-(7)
+(7) Ha a szén-dioxid geológiai tárolására használt tárolóhely üzemeltetője a kibocsátási egységek (4) bekezdés szerinti visszaadására irányuló kötelezettségének határidőre részben vagy egészben nem tesz eleget, a környezetvédelmi hatóság – a tárolási engedélyest e törvény végrehajtására kiadott jogszabályban meghatározott mértékű – bírság megfizetésére kötelezi.
