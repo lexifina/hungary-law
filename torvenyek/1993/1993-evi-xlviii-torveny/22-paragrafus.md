@@ -1,6 +1,6 @@
 ## A kutatás engedélyezése
 
-22. § (1) Zárt területen koncesszió keretében meghatározott ásványi nyersanyag vagy geotermikus energia, valamint az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezet kutatására a miniszter a koncessziós szerződésben kutatási jogot adományoz. Nyílt területen meghatározott ásványi nyersanyag kutatására a bányafelügyelet kutatási jogot adományoz.
+22. § (1) Zárt területen koncesszió keretében meghatározott ásványi nyersanyag vagy geotermikus energia kutatására a miniszter a koncessziós szerződésben kutatási jogot adományoz. Nyílt területen meghatározott ásványi nyersanyag kutatására a bányafelügyelet kutatási jogot adományoz.
 
 (2) A kutatási jog a kutatási területen a bányavállalkozónak kizárólagos jogot ad az ásványinyersanyag-, illetve geotermikusenergia-kutatási műszaki üzemi terv benyújtására, a jóváhagyás kezdeményezésére és az ásványi nyersanyag, illetve geotermikus energia jóváhagyott kutatási műszaki üzemi terv alapján végzett kutatására és elfogadott kutatási zárójelentés alapján a bányatelek megállapításának, a geotermikus védőidom kijelölésének kezdeményezésére.
 
@@ -14,7 +14,7 @@
 
 (7) Ha a bányavállalkozó a munkavégzés során olyan ásványi nyersanyagokra bukkan, amelyre jogosultsága nem terjed ki, az előfordulást köteles bejelenteni a bányafelügyeletnek és kezdeményezheti a szerződésnek, engedélynek e nyersanyagra történő kiterjesztését. A kutatási jog a 22. § (1) bekezdésben meghatározott ásványi nyersanyagtól eltérő más ásványi nyersanyagra csak akkor terjeszthető ki, ha a kérelemben megjelölt ásványi nyersanyag szempontjából a kutatási terület nem minősül zártnak. A kiterjesztéssel érintett ásványi nyersanyag bányászatára a bányavállalkozót elsőbbség illeti meg.
 
-(8) Az (1) bekezdésben foglaltak alapján adományozott kutatási jog megszűnik, ha a jogosult a kutatási jogot adományozó koncessziós szerződés aláírásától, illetve határozat végrehajthatóságától számított 6 hónapon belül a kutatási műszaki üzemi terv jóváhagyását a bányafelügyeletnél nem kérelmezi, illetve a műszaki üzemi terv jóváhagyása iránti kérelmet a bányafelügyelet jogerős határozatában elutasította, és a határozat végrehajtható.
+(8) Az (1) bekezdésben foglaltak alapján adományozott kutatási jog megszűnik, ha a jogosult a kutatási jogot adományozó koncessziós szerződés hatálybalépésétől, illetve határozat végrehajthatóságától számított 6 hónapon belül a kutatási műszaki üzemi terv jóváhagyását a bányafelügyeletnél nem kérelmezi, illetve a műszaki üzemi terv jóváhagyása iránti kérelmet a bányafelügyelet jogerős határozatában elutasította, és a határozat végrehajtható.
 
 (9) Ha a bányavállalkozó a kutatási munkaprogramban, vagy a jóváhagyott műszaki üzemi tervben meghatározott kutatási feladatai időarányos részét neki felróható okból nem hajtotta végre, az adományozott kutatási jogot a bányafelügyelet visszavonhatja, illetve a miniszternél kezdeményezheti a kutatásra adott koncessziós szerződés jogkövetkezményei alkalmazását.
 

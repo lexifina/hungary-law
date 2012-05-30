@@ -7,3 +7,5 @@
 (3) A föld alatti bányatérségek és egyéb bányászati létesítmények más célú hasznosítására készített műszaki tervet a bányafelügyelet engedélyezi, és annak végrehajtását ellenőrzi.
 
 (4) A bányafelügyeletnek a (3) bekezdésben meghatározott engedélyében az érdekelt önkormányzat hozzájárulása alapján intézkednie kell a közüzemi vízellátást szolgáló létesítmények megszüntetéséről vagy közérdekből történő további üzemeltetéséről.
+
+(5) A bányavállalkozó a bányabezárási műszaki üzemi terv jóváhagyása iránti kérelemhez az ingatlan igénybevételi jogosultságát igazoló okiratot akkor köteles mellékelni, ha a bányabezárás során ásványi nyersanyag kitermelést – ide nem értve a végállapoti rézsűk és bányatalp kialakítását – is tervez.

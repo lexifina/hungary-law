@@ -1,0 +1,1 @@
+50/F. § A bányászatról szóló 1993. évi XLVIII. törvény módosításáról szóló 2010. évi IV. törvény hatálybalépésekor vízjogi vagy bányafelügyelet által kiadott engedély alapján geotermikus energiát kinyerők és hasznosítók az engedélyek alapján, az abban meghatározott ideig és feltételek szerint a tevékenységüket tovább folytathatják.

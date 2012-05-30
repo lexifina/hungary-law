@@ -22,15 +22,19 @@ f)
 
 (4) A bányatelek megállapítása és az ingatlan-nyilvántartásba történt bejegyzése nem változtatja meg a bányatelekkel lefedett felszíni ingatlanok tulajdonjogát, rendeltetését és használatát.
 
-(5) A bányavállalkozó a bányatelek megállapításától számított 5 éven belül köteles a kitermelést, üzemszerű föld alatti szénhidrogén tárolást megkezdeni. A bányavállalkozó egy bányatelekre vonatkozóan legfeljebb egy alkalommal kérheti a bányafelügyelettől a kitermelés, illetve az üzemszerű tárolás megkezdésére megállapított határidő legfeljebb 5 évvel történő meghosszabbítását. Meghosszabbítás esetén a bányavállalkozó térítést köteles fizetni. A térítés alapjául szolgáló ásványi nyersanyag mennyiségét és az érték után fizetendő százalékos bányajáradék-mértéket – a kérelem időpontjában alkalmazott százalékos mértéknél magasabb, de legfeljebb az eredeti érték 1,2-szeres mértékben – a miniszter és a bányavállalkozó között megkötött szerződésben kell megállapítani. A határidő meghosszabbításáról a bányafelügyelet dönt. A határozatban a térítésfizetési kötelezettség szerződésben megállapított értékét is rögzíteni kell. A bányavállalkozó egyidejűleg kettőnél több bányatelekre akkor kaphat határidő-hosszabbítást, ha a határidő meghosszabbításával érintett bányatelkekre meghatározott megnövelt bányajáradék alkalmazását legalább 5 éves időtartamra szóló szerződésben kiterjesztik a bányavállalkozó valamennyi bányatelkére. Ötnél több bányatelekre kért határidő-hosszabbítás esetén a miniszter és a bányavállalkozó között megkötött szerződésben a megnövelt bányajáradékon felül – legfeljebb a megnövelt bányajáradék alapján fizetendő összeg 20%-ának megfelelő – további egyszeri térítés is megállapítható.
+(5) A bányavállalkozó a bányatelek megállapításától számított 5 éven belül köteles az üzemszerű kitermelést vagy az üzemszerű föld alatti szénhidrogén-tárolást megkezdeni. A bányavállalkozó egy bányatelekre vonatkozóan legfeljebb egy alkalommal kérheti a bányafelügyelettől az üzemszerű kitermelés vagy az üzemszerű tárolás megkezdésére megállapított határidő legfeljebb 5 évvel történő meghosszabbítását. Meghosszabbítás esetén a bányavállalkozó térítést köteles fizetni.
 
-(6) A bányafelügyelet a bányavállalkozó bányászati jogát törli, ha
+(6) A bányafelügyelet a bányavállalkozó bányászati jogát törli, ha a bányavállalkozó
 
-a) a kitermelés, illetve az üzemszerű tárolás megkezdésére megállapított határidőt engedély hiányában elmulasztja,
+a) az üzemszerű kitermelés vagy az üzemszerű szénhidrogén-tárolás megkezdésére megállapított határidő lejártáig az üzemszerű kitermelést vagy az üzemszerű tárolást nem kezdi meg, és
 
-b) a meghatározott térítésfizetési kötelezettségének nem tesz eleget,
+aa) a kitermelési határidő meghosszabbítását a bányafelügyeletnél nem kezdeményezi, vagy
 
-c) jogutód nélkül megszűnik.
+ab) a bányafelügyelet a meghosszabbítás iránti kérelmet jogerős döntésében elutasította és a döntés végrehajtható,
+
+b) a térítésfizetési kötelezettségének nem tesz eleget vagy
+
+c) gazdálkodó szervezet jogutód nélkül megszűnik.
 
 (7) A bányatelekben fennálló bányászati jog új jogosítottját – pályáztatást követően – a bányafelügyelet határozatban jelöli ki.
 

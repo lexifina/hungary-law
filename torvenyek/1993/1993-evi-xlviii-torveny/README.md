@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-48-00-00
 | 2011-10-26 | 2011. évi CXXXVII. törvény | 1993-48-00-00.46 |
 | 2012-01-01 | 2011. évi CLXXXII. törvény | 1993-48-00-00.47 |
 | 2012-05-15 | 2012. évi XXXI. törvény | 1993-48-00-00.48 |
+| 2012-05-30 | 2012. évi XLVII. törvény | 1993-48-00-00.49 |

@@ -8,7 +8,15 @@
 
 2. ,,Ásványvagyon'' az ásványi nyersanyagoknak azon része, amelynek mennyiségét és minőségét földtani, valamint bányaműszaki és -gazdasági szempontok alapján becsléssel vagy számítással határozzák meg.
 
-3. ,,Ásványvagyon gazdálkodás'' tevékenységek, intézkedések, termelési programok, kutatási, feltárási, művelési rendszerek és módszerek, melyek az ásványi nyersanyagok gazdaságos kitermelését úgy szolgálják, hogy a lelőhely művelésbe nem vont részeit nem károsítják, megóvják abból a célból, hogy azok a későbbiekben kitermelhetők legyenek; és egyben lehetővé teszik a veszteségek csökkentését és az ásványi nyersanyagvagyon műszakilag lehetséges és a piaci viszonyok által indokolt minél teljesebb kitermelését.
+3. „Ásványvagyon-gazdálkodás”: a bányafelügyelet azon döntéseinek és intézkedéseinek összessége, amely biztosítja
+
+a) az ásványi nyersanyagok mennyiségének, minőségének és lelőhelyeinek nyilvántartását, valamint a nyilvántartás vezetéséhez szükséges adatszolgáltatást,
+
+b) a megismert és nyilvántartott ásványvagyon megőrzését, védelmét, valamint az indokolatlan ásványi nyersanyag-kitermelések és -igénybevételek megakadályozását,
+
+c) az ásványi nyersanyagok kitermelése során a veszteségek csökkentését és
+
+d) a kitermelt ásványi nyersanyagokkal történő elszámolást, valamint a visszahagyott ásványvagyon további kitermelhetőségét.
 
 4. „Bányászat (bányászati tevékenység)”: ásványi nyersanyagok kutatása, feltárása és kitermelése, az e tevékenységek során keletkező hulladékok kezelése, valamint az ásványvagyon-gazdálkodás. Bányászati tevékenységnek minősül:
 
@@ -20,7 +28,7 @@ c) a bánya szüneteltetése, bezárása, a szénhidrogénmező felhagyása,
 
 d) a bányászati tevékenység befejezését követő tájrendezés,
 
-e) a szénhidrogén, valamint az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása, igénybevétele és bezárása,
+e) a szénhidrogén tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása, igénybevétele és bezárása,
 
 f) a geotermikus energia kutatása, kinyerése és hasznosítása, továbbá
 
@@ -32,7 +40,7 @@ Bányavállalkozónak minősül e törvény
 
 a)
 
-b) 2. §-ának, 16. § (4) bekezdésének, 18. §-ának, 21. § (1) bekezdésének, 24. § (1) bekezdésének, 28. § (1) bekezdésének, 31–35. §-ainak, 37–38. §-ainak, 41. §-ának szabályai alkalmazásában, a szénhidrogén szállítóvezetékek létesítésére és üzemben tartására, valamint
+b) 2. §-ának, 18. §-ának, 21. § (1) bekezdésének, 24. § (1) bekezdésének, 28. § (1) bekezdésének, 31–35. §-ainak, 37–38. §-ainak, 41. §-ának szabályai alkalmazásában, a szénhidrogén szállítóvezetékek létesítésére és üzemben tartására, valamint
 
 c) 2. §-ának, 21. § (1) bekezdésének, 28. § (1) bekezdésének, 31–34. §-ainak, 41–42. §-ainak szabályai, alkalmazásában a megszűnt föld alatti bánya nyitva maradó térségének fenntartására, hasznosítására
 
@@ -76,7 +84,7 @@ b) a felfedezett ásványi nyersanyag lelőhely lehatárolása és mennyiségi, 
 
 c) a geotermikus energia földkéregbeli viszonyainak megismerése, valamint
 
-d) a földtani szerkezetek megismerése szénhidrogén, valamint energetikai és ipari eredetű szén-dioxid felszín alatti tárolására való alkalmasság szempontjából.
+d) a földtani szerkezetek megismerése szénhidrogén felszín alatti tárolására való alkalmasság szempontjából.
 
 18. „Kutatási terület”: a koncessziós szerződésben vagy a kutatási jogot adományozó határozatban meghatározott ásványi nyersanyag, vagy geotermikus energia kutatására körülhatárolt terület.
 
@@ -100,7 +108,7 @@ A bányavállalkozó tulajdonában lévő távadat-átviteli eszközök a száll
 
 23. „Energetikai és ipari eredetű szén-dioxid”: a fosszilis ásványi nyersanyagok termikus bomlása és fosszilis energiahordozók elégetése során keletkező szén-dioxid.
 
-24. „Zárt terület”: meghatározott ásványi nyersanyag kutatása, feltárása, kitermelése, valamint energetikai és ipari eredetű szén-dioxid földtani szerkezetekben történő tárolása céljából lehatárolt, koncessziós pályázatra kijelölhető terület. Zárt területnek kell tekinteni a már megállapított bányászati joggal fedett területeket az adott ásványi nyersanyag vonatkozásában a jogosultság fennállása alatt. A geotermikus energia vonatkozásában zárt területnek minősül az ország egész területén a természetes felszíntől mért 2500 m alatti földkéreg-rész.
+24. „Zárt terület”: meghatározott ásványi nyersanyag kutatása, feltárása, kitermelése céljából lehatárolt, koncessziós pályázatra kijelölhető terület. Zárt területnek kell tekinteni a már megállapított bányászati joggal fedett területeket az adott ásványi nyersanyag vonatkozásában a jogosultság fennállása alatt. A geotermikus energia vonatkozásában zárt területnek minősül az ország egész területén a természetes felszíntől mért 2500 m alatti földkéregrész.
 
 25. ,,Növelt hatékonyságú művelési eljárás'': olyan végső többletolaj kihozatali eljárás, amely megnöveli az elsődleges és másodlagos művelési eljárásokkal kitermelhető olajmennyiséget. A réteg-energia megnövelése termikus, gázos, kémiai vagy egyéb módon (pl. elektromágneses) történik.
 
@@ -154,7 +162,7 @@ A vezetékek alkotórészei:
 
 43. „Bányászati hulladék”: az ásványi nyersanyagok bányászata, tárolása és feldolgozása során keletkező hulladék, a nem közvetlenül ezen tevékenységekből származó hulladékok kivételével.
 
-44. „Gázüzemi tevékenység”: a földgázszállító-, elosztó vezeték és föld alatti földgáztároló engedélyes által végzett tervezése, építése, üzembe helyezése, üzemeltetése (ellenőrzés, karbantartás, üzemzavar elhárítás, javítás), felhagyása és elbontása, valamint a tervezés, létesítés, üzemeltetés felügyelete.
+44. „Gázüzemi tevékenység”: a földgázszállító-, elosztó vezeték és föld alatti földgáztároló tervezése, építése, üzembe helyezése, üzemeltetése ennek során ellenőrzése, karbantartása, üzemzavar elhárítása, javítása, valamint felhagyása és elbontása, és ezek engedélyes általi felügyelete.
 
 45. „energetikai és ipari eredetű szén-dioxid föld alatti tárolóhely”: egy földtani szerkezetnek az energetikai és ipari eredetű szén-dioxid föld alatti tárolására használt, meghatározott kiterjedésű térrésze, az ehhez kapcsolódó felszíni és besajtoló berendezésekkel együtt.
 
@@ -166,6 +174,10 @@ b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajt�
 
 c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony.
 
-46. „Bányászati hulladékkezelés”: az ásványi nyersanyagok bányászata, tárolása és feldolgozása során keletkező hulladék – kivéve a nem közvetlenül ezen tevékenységekből származó hulladék – hulladékkezelő létesítményben történő gyűjtése és tárolása, valamint a hulladék keletkezési helyétől a hulladékkezelő létesítményig történő szállítása.
+46.
 
-47. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
+47. „Bányászati hulladékkezelés”: az ásványi nyersanyagok bányászata, tárolása és feldolgozása során keletkező hulladék – kivéve a nem közvetlenül e tevékenységekből származó hulladék – hulladékkezelő létesítményben történő gyűjtése és tárolása, valamint a hulladék keletkezési helyétől a hulladékkezelő létesítményig történő szállítása.
+
+48. „EGT-állam”: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
+
+49. „Üzemszerű kitermelés”: az ásványi nyersanyag olyan kitermelése, ahol a tényleges kitermelési mennyiség a bányatelek megállapításától számított öt éven belül, a tevékenységre vonatkozó, első, módosítás nélküli műszaki üzemi tervben jóváhagyott legnagyobb kitermelési mennyiségnek legalább a negyedét eléri.

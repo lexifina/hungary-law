@@ -24,6 +24,8 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 (4) Az (1) bekezdés szerinti jogok megszűnése esetén az engedélyes, illetőleg az elosztóvezeték tulajdonosa köteles az ingatlan eredeti állapotát helyreállítani.
 
-(5) Az előmunkálati jogot és a vezetékjogot, továbbá – megállapodás hiányában – a használati jogot a bányafelügyelet engedélyezi, a kisajátítási eljárást a külön jogszabályban meghatározott szervezet folytatja le.
+(5) Előmunkálati jog, vezetékjog, valamint használati jog az engedélyesnek az ingatlan tulajdonosával kötött megállapodása alapján keletkezik. Megállapodás hiányában az előmunkálati jogot, a vezetékjogot, valamint a használati jogot a bányafelügyelet engedélyezi.
+
+(5a) Közterületen elhelyezett elosztóvezetékre vagy a 38/D. § (1) bekezdésében meghatározott létesítményre és ezek idegen ingatlant érintő biztonsági övezetére vezetékjogot vagy használati jogot alapítani nem lehet. Az ilyen terület igénybevételére az érintetteknek megállapodást kell kötni.
 
 (6) A felszíni ingatlan korlátozására vonatkozó jogok tartalmával, engedélyezésével, megszűnésével és a kártalanítással kapcsolatos részletes szabályokat a Kormány rendeletben állapítja meg.

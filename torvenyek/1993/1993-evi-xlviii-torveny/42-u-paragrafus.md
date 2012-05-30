@@ -1,0 +1,1 @@
+42/U. § A bányafelügyelet a felelősség átadását követően felmerült költségeit abban az esetben téríttetheti meg az üzemeltetővel, ha azok az üzemeltető felróható hibája miatt merültek föl. Nem felróható hiba esetén – ha az üzemeltető a pénzügyi hozzájárulásra vonatkozó kötelezettségét teljesítette – a felelősség átadását követően további költségtérítésre kötelezésnek nincs helye.

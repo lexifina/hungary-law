@@ -26,7 +26,7 @@ i) az állam más törvény hatálya alá nem tartozó földtani feladatai;
 
 j) a bányászati hulladék kezelése;
 
-k) az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása, hasznosítása és bezárása;
+k) az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása, hasznosítása és bezárása, és a szén-dioxid geológiai tárolás céljából csővezetéken történő szállítása;
 
 l) az a)–k) pontokban felsorolt tevékenységek gyakorlásához szükséges létesítmények és berendezések.
 
@@ -38,7 +38,7 @@ l) az a)–k) pontokban felsorolt tevékenységek gyakorlásához szükséges l�
 
 (5) Nem tartozik e törvény hatálya alá:
 
-a)
+a) a szén-dioxidnak új termékekkel és eljárásokkal kapcsolatos kutatás és fejlesztés vagy tesztelés céljából történő, 100 kilotonna tervezett mennyiséget el nem érő geológiai tárolása,
 
 b) az építés, tereprendezés és a vizek medrének – a külön törvényben meghatározott – vízgazdálkodási célból végzett alakítása, továbbá a kézi erővel végzett aranymosás,
 

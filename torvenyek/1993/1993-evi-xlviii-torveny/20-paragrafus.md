@@ -84,7 +84,7 @@ c) egyéb közérdek
 
 (10) A bányajáradék befizetésének, természetben történő teljesítésének, továbbá a szabálytalanul végzett bányászati tevékenység miatt kiesett bányajáradék pótlására szolgáló térítés (15. §), illetve díjfizetés [30. § (3) bekezdés] szabályait a Kormány állapítja meg.
 
-(11) A bányajáradék pénzben kifejezett összege a kitermelt ásványi nyersanyag, illetve geotermikus energia értékének e törvényben vagy koncessziós, illetve a 26/A. § (5) bekezdése szerinti szerződésben meghatározott százaléka. A bányajáradék számításának alapja a bányanyíláson kiszállított, kútfejen vagy ennek hiányában a kútfejre visszaszármaztatott módon mért mennyiség értéke.
+(11) A bányajáradék pénzben kifejezett összege a kitermelt ásványi nyersanyag vagy geotermikus energia értékének e törvényben vagy a koncessziós szerződésben meghatározott százaléka. A bányajáradék számításának alapja az ásványi nyersanyag természetes előfordulási helyéről kitermelt, a bányanyíláson kiszállított, kútfejen vagy ennek hiányában a kútfejre visszaszármaztatott módon mért mennyiség értéke.
 
 (12)
 

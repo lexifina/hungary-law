@@ -1,13 +1,5 @@
 ## A koncessziós társaság
 
-13. § (1) A koncesszió jogosultja köteles a szerződés aláírásától számított 90 napon belül a bányászati tevékenység végzésére koncessziós társaságot létrehozni. Koncessziós társaság
+13. § (1) A koncessziós szerződést aláírónak olyan jogi személyiségű gazdasági társaságot (a továbbiakban: koncessziós társaság) kell alapítania, amelyben a társaság megalakulásakor és tevékenysége alatt is a részvények, üzletrészek és szavazatok többségével rendelkezik, valamint kötelezettséget kell vállalnia arra, hogy a koncessziós szerződésben meghatározott követelményeket a gazdasági társaságban tulajdonosként érvényesíteni fogja.
 
-a) belföldi gazdálkodó szervezet vagy
-
-b) a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvényben meghatározott külföldi vállalkozás
-
-lehet.
-
-(2) A koncessziós szerződés alapján keletkezett jogok és kötelezettségek az (1) bekezdésben meghatározott gazdálkodó szervezet létrehozását követően a koncessziós társaságot mint bányavállalkozót illetik meg, illetve terhelik.
-
-(3) Amennyiben a koncessziós szerződés aláírásától számított 90 napon belül a koncessziós társaság nem jön létre, a koncesszió megszűnik.
+(2) A koncessziós szerződés alapján keletkezett jogok és kötelezettségek a koncessziós társaságot mint bányavállalkozót illetik meg, illetve terhelik.

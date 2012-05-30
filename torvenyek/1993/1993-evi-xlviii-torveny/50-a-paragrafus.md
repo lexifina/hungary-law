@@ -1,50 +1,82 @@
 50/A. § (1) Felhatalmazást kap a Kormány
 
-a) a földtani kutatásra és a bejelentés alapján végezhető felszíni előkutatásra,
+1. a földtani kutatásra és a bejelentés alapján végezhető felszíni előkutatásra,
 
-b) e törvény hatálya alá tartozó, hatósági engedély alapján végezhető tevékenységekre,
+2. e törvény hatálya alá tartozó, hatósági engedély vagy koncessziós szerződés alapján végezhető tevékenységekre,
 
-c) a koncessziós pályázatok elbírálására, a koncesszió átruházásával kapcsolatos kérelemre,
+3. a koncessziós pályázatok értékelését végző minősítő bizottság létrehozására és összetételére,
 
-d) a bányajáradékra, annak befizetésére, természetben történő teljesítésére, továbbá a szabálytalanul végzett bányászati tevékenység miatt kiesett bányajáradék pótlására szolgáló térítésre, illetve díjfizetésre,
+4. a bányajáradékra, annak befizetésére, természetben történő teljesítésére, továbbá a szabálytalanul végzett bányászati tevékenység miatt kiesett bányajáradék pótlására szolgáló térítésre, illetve díjfizetésre,
 
-e) a kutatási jog adományozásra és a kutatási munkaprogram minimális tartalmi követelményeire, a kutatási jogadományhoz tartozó pénzügyi biztosítékra, valamint a kutatási terület kialakítására és mértékére,
+5. a kutatási jogadományozásra és a kutatási munkaprogram minimális tartalmi követelményeire, a kutatási jogadományhoz tartozó pénzügyi biztosítékra, valamint a kutatási terület kialakítására és mértékére,
 
-f) a biztonsági övezetre és a védőpillérre,
+6. a biztonsági övezetre és a védőpillérre,
 
-g) a bányatérképekre,
+7. a bányatérképekre,
 
-h) a bányászati és gázipari tevékenység biztonságára és üzemi felügyeletére,
+8. a bányászati és gázipari tevékenység biztonságára és üzemi felügyeletére,
 
-i) a felszíni ingatlantulajdon korlátozására,
+9. a felszíni ingatlantulajdon korlátozására,
 
-j) az intézkedésekre, biztosítékokra, a bírság felső határára, a bírság mértéke megállapításánál mérlegelendő szempontokra,
+10. az intézkedésekre, biztosítékokra, a bírság felső határára, a bírság mértéke megállapításánál mérlegelendő szempontokra,
 
-k) az e törvény szerinti polgári robbantási, polgári felhasználású robbanóanyag forgalmazási, a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevékenységek folytatásának részletes feltételeire, az e tevékenységekre jogosító engedély kiadásának rendjére, az e tevékenységeket végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára, valamint a nyilvántartás vezetésére, továbbá a tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre, a robbanóanyag forgalmazására és e tevékenységek hatósági felügyeletére,
+11. az e törvény szerinti polgári robbantási, polgári felhasználású robbanóanyag forgalmazási, a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevékenységek folytatásának részletes feltételeire, az e tevékenységekre jogosító engedély kiadásának rendjére, az e tevékenységeket végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára, valamint a nyilvántartás vezetésére, továbbá a tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre, a robbanóanyag forgalmazására és e tevékenységek hatósági felügyeletére,
 
-l) az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározására,
+12. az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározására,
 
-m) az ásványvagyon-gazdálkodás részletes követelményeire,
+13. az ásványvagyon-gazdálkodás részletes követelményeire,
 
-n) a vízgazdálkodásról szóló külön törvény rendelkezései figyelembevételével a bányászat befejezését követően fennmaradó vagy keletkező, a felszín alatti vízkészletet érintő tóval kapcsolatos jogokra és kötelezettségekre
+14. a vízgazdálkodásról szóló törvény rendelkezéseinek figyelembevételével a bányászat befejezését követően fennmaradó vagy keletkező, a felszín alatti vízkészletet érintő tóval kapcsolatos jogokra és kötelezettségekre,
 
-o) az állami földtani feladatokat ellátó szerv vagy szervek és a bányafelügyelet vagy bányafelügyeletek kijelölésére,
+15. az állami földtani feladatokat ellátó szerv vagy szervek és a bányafelügyelet vagy bányafelügyeletek kijelölésére,
 
-p) a szolgáltatásra köteles földtani adatok körére és az adatszolgáltatás rendjére,
+16. a szolgáltatásra köteles földtani adatok körére és az adatszolgáltatás rendjére,
 
-q) a 26/A. § (7) bekezdése szerinti pályázat tartalmi követelményeire,
+17. a 26/A. § (8) bekezdése szerinti pályázat tartalmi követelményeire,
 
-r) a geotermikus védőidom meghatározására és kijelölésére,
+18. a geotermikus védőidom meghatározására és kijelölésére,
 
-s) a koncessziós pályázatra kijelölhető ásványi nyersanyag, geotermikus energia előfordulási területén, és az energetikai vagy ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezet kialakítására alkalmas területen elvégzendő komplex érzékenységi és terhelhetőségi vizsgálat lefolytatására, valamint a vizsgálatban résztvevő hatóság közreműködésére,
+19. az ásványi nyersanyag és a geotermikus energia természetes előfordulási területén elvégzendő érzékenységi és terhelhetőségi vizsgálat lefolytatására, valamint a vizsgálatban részt vevő hatóság közreműködésére,
 
-t) a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedélyezésére és hatósági felügyeletére,
+20. a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedélyezésére és hatósági felügyeletére,
 
-u) az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatására, tárolásra történő kialakítására, a tárolás engedélyezésére, az üzemeltetésre, az ellenőrzésre, a bezárásra és az azt követő időszak hatósági felügyeletére, a szállítóvezetékekhez és a tárolókhoz való hozzáférésre, valamint a szén-dioxid szállítására és tárolására alkalmas létesítményekkel kapcsolatos, nemzetközi kötelezettségvállaláson alapuló, valamint az Európai Bizottság felé teljesítendő jelentéstételi és adatszolgáltatási kötelezettségre,
+21. az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek vonatkozásában
 
-v) az átmeneti bányászjáradék megállapításának, folyósításának, szüneteltetésének és megszüntetésének eljárására
+a) a potenciális tárolóhely felmérésére,
 
-v) a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó építésügyi hatósági eljáráshoz kötött építési tevékenységek körére és az eljárás megindítására irányuló kérelemhez csatolandó műszaki dokumentáció tartalmára
+b) a földtani kutatás és a tárolás engedélyezésére,
+
+c) a kutatási engedély átruházására,
+
+d) szén-dioxid-áram besajtolására,
+
+e) az üzemeltető és a bányafelügyelet ellenőrzésére,
+
+f) a pénzügyi biztosítékra és pénzügyi hozzájárulásra,
+
+g) a tárolóhely bezárására és a felelősség átvételére,
+
+h) a bányafelügyelet által vezetett nyilvántartás személyes adatot nem tartalmazó tartalmi követelményeire,
+
+i) a korrekciós intézkedések elvégzésére,
+
+j) a szállítóhálózathoz való hozzáférésre és az együttműködési megállapodásra,
+
+k) a bírságok mértékére és kiszabására,
+
+l) az új tárolási engedélyes kijelölésére,
+
+m) az Európai Bizottság számára megküldendő jelentés előkészítésére és benyújtására,
+
+22. az átmeneti bányászjáradék megállapításának, folyósításának, szüneteltetésének és megszüntetésének eljárására,
+
+23. a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó építésügyi hatósági eljáráshoz kötött építési tevékenységek körére és az eljárás megindítására irányuló kérelemhez csatolandó műszaki dokumentáció tartalmára,
+
+24. az ásványi nyersanyag és geotermikus energiavagyon hatósági nyilvántartására,
+
+25. a 26/A. § (5) bekezdése szerinti kitermelési határidő meghosszabbítása esetén fizetendő térítés mértékének és a megfizetés módjának megállapítására,
+
+26. a kőolaj- és földgázbányászati létesítmények, a szénhidrogén szállító-, elosztó-, célvezetékek és tároló létesítmények tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszerére, kijelölésére, az érzékeny információ védelmére, a kapcsolattartásra és a jelentéstételi kötelezettségekre, valamint az európai kritikus infrastruktúra kijelölése esetén annak védelmére, ellenőrzésének rendjére, az előírások megsértése esetén alkalmazható jogkövetkezményekre
 
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 
@@ -74,7 +106,11 @@ k) a bányászati és gázipari biztonságtechnikai és munkabiztonsági vizsgá
 
 l) a hites bányamérői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító engedély kiadásának rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények,
 
-m) a bányászati hulladékok kezelésére vonatkozó részletes szabályok
+m) a bányászati hulladékok kezelésére vonatkozó részletes szabályok,
+
+n) a szén-dioxid-szállítóvezetékek biztonsági követelményeit és a szén-dioxid szállítóvezetékek biztonsági szabályzatára vonatkozó rendelkezések,
+
+o) a koncessziós pályázat kiírásával, elbírálásával, lebonyolításával, és a koncessziós pályázaton való részvétel díjával kapcsolatos eljárási és a minősítő bizottság működésére vonatkozó részletes szabályok
 
 rendeletben történő megállapítására.
 
@@ -84,8 +120,8 @@ a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben 
 
 b) a miniszter, hogy a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény az engedélyes, illetőleg az elosztóvezeték tulajdonosa által, a vezetékjog alapján történő megközelítését, keresztezését a vízgazdálkodásért felelős miniszter és az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
-(4) A miniszter a hatósági engedély alapján bányászati jogot gyakorló bányavállalkozóval a 26/A. § (5) bekezdése alapján szerződést köt.
+(4)
 
 (5) A miniszter – az adópolitikáért felelős miniszterrel egyetértésben – ásványvagyon-gazdálkodási vagy egyéb közérdekből a bányajáradék mértékét csökkentheti és a csökkentéssel kapcsolatos feltételekről – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hatósági szerződésre vonatkozó rendelkezései szerint – a bányavállalkozóval szerződést köt.
 
-(6) Az állami földtani feladatokat ellátó szerv 2011. december 31. napjáig felmérést végez az ország területén rendelkezésre álló, energetikai és ipari eredetű szén-dioxid tárolására potenciálisan alkalmas földtani szerkezetek kapacitásáról, és ezen felmérés alapján közzéteszi e területek listáját.
+(6)

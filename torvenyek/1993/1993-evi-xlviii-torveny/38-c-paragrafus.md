@@ -4,9 +4,9 @@
 
 (2) A jogerős és végrehajtható határozattal a bányafelügyelet – a (3) bekezdésben foglaltak kivételével – megkeresi az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt.
 
-(3) Vezetékjog az ingatlan tulajdonosának az engedélyessel, vagy az elosztóvezeték tulajdonosával kötött megállapodásában is alapítható. A vezetékjog ingatlan-nyilvántartásba történő bejegyzését ebben az esetben az engedélyes vagy az elosztóvezeték tulajdonosa köteles kérni. A vezetékjog a gázelosztó-vezeték mindenkori engedélyesét vagy tulajdonosát illeti meg, és az ingatlant terheli.
+(3) Ha a vezetékjog az ingatlan tulajdonosának az engedélyessel vagy az elosztóvezeték tulajdonosával kötött megállapodása alapján jön létre, a vezetékjog ingatlan-nyilvántartásba történő bejegyzését az engedélyes vagy az elosztóvezeték tulajdonosa köteles kérni. A vezetékjog a gázelosztó-vezeték mindenkori engedélyesét vagy tulajdonosát illeti meg, és az ingatlant terheli.
 
-(4) A vezetékjog a jogerős határozat, illetve a tulajdonos hozzájárulása alapján a bejegyzés előtt is gyakorolható. Amennyiben az ingatlantulajdonos az elosztóvezeték elhelyezéséhez hozzájárult, a tulajdonosi hozzájárulás nem vonható vissza.”
+(4) A vezetékjog a jogerős határozat, illetve a tulajdonos hozzájárulása alapján a bejegyzés előtt is gyakorolható.
 
 (5) Az engedélyes, illetőleg az elosztóvezeték tulajdonosa a vezetékjog alapján az idegen ingatlanon
 

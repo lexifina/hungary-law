@@ -1,0 +1,5 @@
+42/Q. § (1) Ha a tárolási engedély a 42/E. § (6) bekezdése alapján hatályát veszti, vagy ha a bányafelügyelet a tárolási engedély visszavonásáról dönt, gondoskodik a tárolóhely bezárásáról vagy új tárolási engedélyt ad ki.
+
+(2) Az új tárolási engedély kiadásáig az e törvényben foglalt előírásoknak megfelelően a bányafelügyelet átvállalja a felelősséget az ellenőrzéssel és a korrekciós intézkedésekkel kapcsolatos valamennyi kötelezettség teljesítéséért, valamint szivárgás esetén gondoskodik az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló törvény szerinti kibocsátási egységek visszaadásáról, továbbá megteszi a környezeti károkozás megelőzése vagy a kár felszámolása érdekében szükséges intézkedéseket.
+
+(3) A bányafelügyelet a (2) bekezdés szerinti tevékenységéből adódóan felmerült költségek fedezésére a korábbi üzemeltető által rendelkezésre bocsátott pénzügyi biztosítékot felhasználhatja. Ha a felmerült költségekre a pénzügyi biztosíték nem nyújt elegendő fedezetet, a bányafelügyelet a költségeit megtéríttetheti a korábbi üzemeltetővel.

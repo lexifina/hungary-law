@@ -4,7 +4,7 @@
 
 (2) Földgázszállító-, elosztóvezetéket, föld alatti gáztárolót a külön törvény alapján engedéllyel rendelkező szállítói, elosztói, tárolói engedélyes üzemeltethet. A bányafelügyelet a szállítóvezeték használatba vételét engedélyező határozatában megállapítja a vezeték biztonsági övezetét, és határidő tűzésével rendelkezik a szolgalom alapításáról.
 
-(3) A szállító-, elosztó- és célvezetékek, valamint tároló létesítmények tervezésére, létesítésére, felújítására, üzemeltetésére és elbontására az engedélyesnek minőségbiztosítási rendszert kell kidolgozni, amelyet a bányafelügyelet hagy jóvá és felügyel.
+(3) A szénhidrogén szállítóvezeték, a földgázelosztó és -célvezeték, valamint -tároló létesítmény, egyéb gáz- és gáztermékvezeték tervezésére, létesítésére, felújítására, üzemeltetésére és elbontására az engedélyesnek és az egyéb gáz- és gáztermékvezeték üzemeltetőjének műszaki-biztonsági irányítási rendszert kell kidolgozni, amelyet a bányafelügyelet hagy jóvá és felügyel.
 
 (4) A földgázszállító-, -elosztóvezetékhez és a föld alatti gáztárolókhoz való szabad hozzáférésre külön törvény rendelkezései az irányadók.
 
