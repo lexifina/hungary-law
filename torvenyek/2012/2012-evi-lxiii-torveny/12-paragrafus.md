@@ -1,5 +1,0 @@
-12. § (1) Ha a kérelem a 10. § (3) bekezdés b)–e) pontjában meghatározott tartalmi elemek valamelyikét nem tartalmazza, és a hiány a kérelem teljesíthetőségét akadályozza, a közfeladatot ellátó szerv a 11. § (2) bekezdés szerinti határidőn belül az igénylőt – legalább 5, de legfeljebb 10 munkanapos határidő megjelölésével és az arra való figyelemfelhívás mellett, hogy a kért adatok hiányában a kérelme nem teljesíthető – a hiányok megjelölése mellett a hiányzó adatok pótlására hívja fel.
-
-(2) Ha az igénylő a hiánypótlási felhívásnak határidőben nem tesz eleget, úgy kell tekinteni, mintha a kérelmet be sem nyújtotta volna. A felhívás teljesítésének elmulasztása nem akadálya annak, hogy az igénylő utóbb ugyanazon közadatra vonatkozó újabb kérelmet terjesszen elő.
-
-(3) Ha a kérelemben megjelölt közadatokat nem a közfeladatot ellátó szerv kezeli, és a kérelem alapján az igényelt közadatok kezelésére jogosult szervezet azonosítható, a közfeladatot ellátó szerv az igénylő egyidejű értesítése mellett a kérelmet a 11. § (2) bekezdésében szereplő határidőn belül átteszi a kérelemben megjelölt adatok kezelésére jogosult szervezetnek.
