@@ -6,7 +6,7 @@
 
 (3) A sportszerződést írásba kell foglalni. A sportszerződés csak határozott időre, de legfeljebb 1 évre köthető. A sportszerződés – a sportszövetség vonatkozó szabályzatában meghatározottak szerint – egy versenyrendszer (bajnokság) időtartamára is köthető.
 
-(4) Sportszerződés 14. életévét be nem töltött sportolóval nem köthető, az ezzel ellentétes megállapodás semmis. A 14. életévét betöltött, de 18. életévét még be nem töltött sportolóval kötött sportszerződés csak a sportoló törvényes képviselőjének előzetes beleegyezésével válik érvényessé.
+(4) A 18. életévét még be nem töltött sportolóval kötött sportszerződés csak a sportoló törvényes képviselőjének előzetes irásbeli beleegyezésével válik érvényessé.
 
 (5) Az amatőr sportoló sporttevékenységéért attól a sportszervezettől, sportiskolától vagy utánpótlás-nevelés fejlesztését végző alapítványtól, amellyel az (1) bekezdés szerint tagsági, szerződéses vagy tanulói jogviszonyban áll, valamint más természetes és jogi személytől díjazásban nem részesülhet. Ha a sportszövetség szabályzata a sportág jellegére és a nemzetközi szövetség követelményeire tekintettel másként nem rendelkezik, nem minősül ilyen díjazásnak,
 

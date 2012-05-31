@@ -5,3 +5,5 @@
 (3) Ha az amatőr sportoló tagsági viszony alapján sportol, e jogviszony fennállásának időtartama alatt a sportszervezete előzetes írásbeli hozzájárulása nélkül átigazolhat másik sportszervezethez, az átadó sportszervezet azonban – amennyiben azt a sportszövetség, szabályzatában foglaltak szerint lehetővé teszi – a játékjog használati jogának átruházásáért az (1) bekezdés szerinti költségtérítésre tarthat igényt.
 
 (4) Az amatőr sportoló csak előzetes írásbeli hozzájárulásával igazolható át –ideiglenesen vagy véglegesen – más sportszervezethez. A sportoló a hozzájárulás megadását ellenérték fizetéséhez nem kötheti.
+
+(5) 18. életévét be nem töltött amatőr sportoló sporttevékenységével, igazolásával, illetve átigazolásával kapcsolatos szerződések kereskedelmi ügynök közvetítésével nem köthetők, az ezzel ellentétes megállapodás semmis.

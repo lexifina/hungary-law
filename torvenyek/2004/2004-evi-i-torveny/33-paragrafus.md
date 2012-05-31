@@ -10,7 +10,9 @@ c) az a sportvállalkozás, amelynél végelszámolási eljárás indult.
 
 a) a sportegyesület versenyrendszerben (bajnokságban) való részvétel céljából gazdasági társaságot alapít (abban tagként részt vesz), és az indulási jogot erre a társaságra ruházza át,
 
-b) a sportvállalkozás az amatőr versenyrendszerbe (bajnokságba) kerül, köztartozása nincs, és az indulási jogát a tagjaként működő sportegyesületre ruházza át.
+b) a sportvállalkozás az amatőr versenyrendszerbe (bajnokságba) kerül, köztartozása nincs, és az indulási jogát a tagjaként működő sportegyesületre ruházza át,
+
+c) a sportvállalkozás azonos sportszövetség által kiírt és szervezett versenyrendszer (bajnokság) több bajnoki osztályában rendelkezik indulási (nevezési) joggal, köztartozása nincs, és az alacsonyabb bajnoki osztályban meglévő indulási (nevezési) jogát átadja a vele jogviszonyban lévő sportszervezetnek vagy a sportszervezet által erre a célra alapított sportvállalkozásnak.
 
 (3) Ha a sportszervezet általános jogutóddal szűnik meg, az indulási jog az általános jogutódra átszáll. Ha a sportszervezet általános jogutód nélkül szűnik meg, az indulási jog megszűnik.
 
