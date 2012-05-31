@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-185-00-00
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2010-185-00-00.10 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2010-185-00-00.11 |
 | 2012-04-20 | 2012. évi XXXVI. törvény | 2010-185-00-00.12 |
+| 2012-05-31 | 165/2011. (XII. 20.) AB határozat | 2010-185-00-00.13 |
