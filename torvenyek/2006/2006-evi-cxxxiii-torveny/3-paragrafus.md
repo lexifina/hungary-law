@@ -4,7 +4,7 @@ a) Tárgyév: azon gazdasági év, amelyhez tartozó megosztandó bevételeknek 
 
 b) Bázisév: a tárgyévet kettővel megelőző év.
 
-c) Normatív hozzájárulás: a költségvetési törvényben meghatározott – a szociális, gyermekvédelmi, gyermekjóléti, oktatási, nevelési, közművelődési és üdülőhelyi feladatokhoz kapcsolódó – normatív hozzájárulások és az összes normatív, kötött felhasználású támogatás, valamint a normatív részesedésű átengedett személyi jövedelemadó bázisévi önkormányzati költségvetési beszámoló érintett űrlapjainak adatai szerinti összeg.
+c) Normatív hozzájárulás: a központi költségvetésről szóló törvényben meghatározott – a szociális, gyermekvédelmi, gyermekjóléti, oktatási, nevelési, közművelődési és üdülőhelyi feladatokhoz kapcsolódó – normatív hozzájárulások és az összes normatív, kötött felhasználású támogatás bázisévi önkormányzati költségvetési beszámoló érintett űrlapjainak adatai szerinti összeg.
 
 d) Normatív részesedési arány: a fővárosi önkormányzatot és a kerületi önkormányzatokat együttesen megillető – a bázisévi zárszámadási törvénnyel elfogadott – normatív hozzájárulásból a fővárosi önkormányzat és együttesen valamennyi kerületi önkormányzat részesedési aránya, százalékban kifejezve.
 

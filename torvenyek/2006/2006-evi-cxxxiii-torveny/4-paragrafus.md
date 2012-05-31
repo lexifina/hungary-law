@@ -1,9 +1,1 @@
-4. § (1) A fővárosi önkormányzatot és a kerületi önkormányzatokat osztottan megillető bevételek körét az Ötv. 64. § (4) bekezdése határozza meg.
-
-(2)
-
-(3)
-
-(4)
-
-(5)
+4. § Az Ötv. 64. § (4) bekezdésében meghatározott, a fővárosi önkormányzatot és a kerületi önkormányzatokat osztottan megillető bevételeket az 5–6. § és az Ötv. 64. § (4a) bekezdése alapján kell megosztani.

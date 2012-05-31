@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-133-00-00
 | 2010-12-31 | 55/2010. (V. 5.) AB határozat | 2006-133-00-00.5 |
 | 2011-01-01 | 2010. évi CLIII. törvény | 2006-133-00-00.6 |
 | 2012-01-01 | 2011. évi CLXVI. törvény | 2006-133-00-00.7 |
+| 2012-05-31 | 2012. évi LVIII. törvény | 2006-133-00-00.8 |
