@@ -1,28 +1,8 @@
 ## A felsőfokú végzettségi szint elismerése
 
-14. § (1) Hazai felsőoktatási intézményben megszerezhető főiskolai végzettségi szintet tanúsító oklevélként az olyan külföldi oklevél ismerhető el,
+14. § (1)
 
-a) amely felsőfokú alapképzésben folytatott legalább hároméves időtartamú tanulmányok befejezését tanúsítja,
-
-b) amely az első fokozatú egyetemi végzettség megszerzését tanúsítja, ha a külföldi képzés többfokozatú, és
-
-c) amely alapján megállapítható a végzettségi szintek azonossága.
-
-(2) Hazai felsőoktatási intézményben megszerezhető egyetemi végzettségi szintet tanúsító oklevélként a külföldi oklevél akkor ismerhető el, ha
-
-a) a külföldi oklevél
-
-– egyetemi szintű alapképzésben folytatott tanulmányok befejezését tanúsítja,
-
-– főiskolai szintű végzettség megszerzése után kiegészítő egyetemi alapképzés befejezését tanúsítja, vagy
-
-– amennyiben a külföldi képzés többfokozatú, akkor az az első fokozatú egyetemi végzettség után a második fokozatú egyetemi végzettség megszerzését tanúsítja;
-
-b) megállapítható a végzettségi szintek azonosság;
-
-c) az oklevél vagy az oklevelek együttesen legalább négyéves időtartamú képzés befejezését tanúsítják; és
-
-d) a külföldi oklevél tudományos (doktori) fokozat megszerzésére jogosít.
+(2)
 
 (3)
 

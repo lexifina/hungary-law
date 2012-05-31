@@ -4,9 +4,9 @@
 
 18. § (1) Külföldi oklevél által tanúsított szakképzettség akkor ismerhető el a hazai felsőoktatásban megszerezhető szakképzettségként, ha
 
-a) a szakképzettség az oklevél által tanúsított főiskolai vagy egyetemi végzettségi szinthez kapcsolódik, és
+a) a szakképzettség az oklevél által tanúsított alapfokozathoz, mesterfokozathoz, vagy szakirányú továbbképzést tanúsító oklevélhez kapcsolódik, és
 
-b) megállapítható, hogy a kérelmező képzése megfelel a jogszabály által előírt képesítési, illetve képzési és kimeneti követelményeknek és a hazai képzés rendjének.
+b) megállapítható, hogy a kérelmező képzése megfelel a jogszabály által előírt képzési és kimeneti követelményeknek és a hazai képzés rendjének.
 
 (2) Az eljáró hatóság a szakképzettség elismerését feltételekhez kötheti. Ha a kérelmező képzése és a megfelelő hazai képesítéshez vezető képzés között alapvető különbség van, az eljáró hatóság előírhatja, hogy a kérelmező
 
@@ -20,8 +20,8 @@ d) tegyen eleget más kiegészítő feltételeknek, ha a külföldi képzés ren
 
 e) tegyen esküt vagy fogadalmat, ha a szakképzettség hazai gyakorlásához ezt jogszabály előírja.
 
-(3) Szakmai gyakorlat végzése akkor írható elő, ha azt a hazai képesítési, illetve képzési és kimeneti követelmények az oklevél megszerzésének feltételeként tartalmazzák. A határozatban rendelkezni kell a szakmai gyakorlat időtartamáról, a gyakorlatot szervező intézményről és az intézménynél történő jelentkezés határidejéről.
+(3) Szakmai gyakorlat végzése akkor írható elő, ha azt a hazai képzési és kimeneti követelmények az oklevél megszerzésének feltételeként tartalmazzák. A határozatban rendelkezni kell a szakmai gyakorlat időtartamáról, a gyakorlatot szervező intézményről és az intézménynél történő jelentkezés határidejéről.
 
-(4) Az alapfokozathoz, a mesterfokozathoz, valamint a szakirányú továbbképzést tanúsító oklevélhez kapcsolódó szakképzettség elismerésére az (1)–(3) bekezdés rendelkezéseit megfelelően alkalmazni kell.
+(4)
 
 (5) A kérelmező kérheti külföldi oklevele által tanúsított szakképzettsége egyszakos hazai tanári szakképzettségként történő elismerését is.

@@ -32,4 +32,4 @@ b) külföldi oklevélhez vezető képzés vagy kutatás időtartama az egy éve
 
 c) külföldi oklevél végzettségi szintje a hazai doktori fokozat végzettségi szintjével összevethető.
 
-(5) A kérelmező választhat a 14. §-ban és a 14/A. §-ban szabályozott elismerési eljárások között.
+(5)
