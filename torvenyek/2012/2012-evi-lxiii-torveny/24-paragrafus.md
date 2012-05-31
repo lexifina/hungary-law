@@ -1,0 +1,1 @@
+24. § Hatályát veszti a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 27. § (1) bekezdés k) pontjában a „valamint a pénzeszközök felhasználásának részletes szabályait,” szövegrész.

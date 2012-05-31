@@ -1,0 +1,1 @@
+Az Országgyűlés – az Alaptörvényben foglaltakkal összhangban a közérdekű adatok nyilvánosságának és a szellemi alkotásokhoz fűződő jogok védelmének tiszteletben tartásával – a közszféra kezelésében lévő közadatok újrahasznosítás céljára történő rendelkezésre bocsátásának szabályairól a következő törvényt alkotja:
