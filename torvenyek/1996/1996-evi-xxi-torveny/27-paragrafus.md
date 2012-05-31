@@ -22,7 +22,7 @@ j) a területfejlesztés intézményei törvényességi felügyeletének részle
 
 j)
 
-k) a területfejlesztést közvetlenül és közvetve szolgáló pénzeszközök koordinációjának a pályázati rendszerre is kiterjedő részletes szabályait, valamint a pénzeszközök felhasználásának részletes szabályait,
+k) a területfejlesztést közvetlenül és közvetve szolgáló pénzeszközök koordinációjának a pályázati rendszerre is kiterjedő részletes szabályait,
 
 l) a területfejlesztés intézményeinek a fejlesztési elképzelések összegyűjtésével, számbavételével, megvalósításának kidolgozásával, és ezzel kapcsolatos adatszolgáltatás rendjével kapcsolatos feladatait és eljárás rendjét;
 
