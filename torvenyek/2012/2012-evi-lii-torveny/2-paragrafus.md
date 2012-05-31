@@ -1,0 +1,1 @@
+2. § Az állami vagyon felügyeletéért felelős miniszternek a CIC-vel kötött megállapodás alapján a CIC – megállapodásban meghatározott – Magyarországon működő intézményeinek elhelyezését térítésmentesen kell biztosítani.
