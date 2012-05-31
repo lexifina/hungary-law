@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-14-20-2
 | 2012-04-01 | 2011-14-20-2C.8 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-05-11 | 2011-14-20-2C.9 | 5/2012. (III. 30.) MNB rendelet |
 | 2012-05-12 | 2011-14-20-2C.10 | 5/2012. (III. 30.) MNB rendelet |
+| 2012-05-31 | 2011-14-20-2C.11 | 3/2012. (I. 12.) MNB rendelet |

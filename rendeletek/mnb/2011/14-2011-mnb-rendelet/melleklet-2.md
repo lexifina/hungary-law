@@ -2580,5 +2580,5 @@ e) A kódlista szerint kell kitölteni.
 
 | nnn |  |  |  |  |  |  |
 
-[^7]: A 2. melléklet a 3/2012. (I. 12.) MNB rendelet 4. §-a, az 5/2012. (III. 30.) MNB rendelet 4. §-a szerint módosított szöveg.
+[^7]: A 2. melléklet a 3/2012. (I. 12.) MNB rendelet 4. §-a, az 5/2012. (III. 30.) MNB rendelet 4. §-a, a 11/2012. (V. 16.) MNB rendelet 5. §-a szerint módosított szöveg.
 [^1:]: Az egyes intézmények két alszektor szerinti besorolásához segítséget ad az Európai Központi Bank honlapján elhelyezett ún. MFI lista, amelynek pontos elérési útvonala a 3. melléklet 1. pontja szerinti listákat tartalmazó, az MNB honlapján közzétett technikai segédletben található.
