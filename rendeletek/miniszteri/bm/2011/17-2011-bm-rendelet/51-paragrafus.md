@@ -1,3 +1,0 @@
-## 50. § A jogcímcsoport a Fehér Gyűrű Közhasznú Egyesület (a továbbiakban: Egyesület) 2011. évi működéséhez nyújtott támogatást tartalmazza. A Fehér Gyűrű Közhasznú Egyesület az Európai Áldozatvédő Fórum magyar tagszervezeteként az EU áldozatvédelmi elvárásai szerint jogi, pszichikai és anyagi formában segíti a bűncselekmények áldozatait. A támogatási előirányzat az Egyesület irodáinak az áldozatvédő tevékenységével kapcsolatos működési költségeire, bérjellegű kiadásaira legfeljebb a támogatás 50%-os mértékéig, valamint az áldozatok segélyezésére nyújt fedezetet.
-
-## 38. ( ÁHT 251212) Országos Polgárőr Szövetség

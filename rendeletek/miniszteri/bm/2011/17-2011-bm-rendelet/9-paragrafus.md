@@ -1,7 +1,0 @@
-## 8. § A Bizottság a pályázat elbírálásához szükséges, az Ámr. 135. § (3) bekezdésében meghatározott emlékeztetőt, valamint a döntési listára vonatkozó javaslatát a pályázat benyújtására nyitva álló határidő lejártát követő 30 napon belül készíti el, majd azt a támogató 5 napon belül a döntéshozó elé terjeszti. Az elbíráláshoz szükséges javaslat elkészítésére előírt határidőtől a támogató – indokolt esetben és a pályázati felhívásban rögzített módon – eltérhet.
-
-9. § (1) A pályázatok alapján nyújtandó támogatásokról a fejezeti kezelésű előirányzatok felhasználásának részletes rendjéről szóló BM utasításban (a továbbiakban: BM utasítás) megjelölt kötelezettségvállaló a Bizottság javaslatának benyújtásától számított 30 napon belül dönt. E határidőtől a támogató – indokolt esetben és a pályázati felhívásban rögzített módon – eltérhet, a döntést ebben az esetben legkésőbb a Bizottság javaslatának benyújtásától számított 60 napon belül hozza meg.
-
-(2) A beérkezett pályázatok elbírálását követően a pályázat nyerteseiről a kötelezettségvállaló által aláírt döntési listát kell készíteni, amely tartalmazza az Ámr. 135. § (3) bekezdésében foglalt adatokat.
-
-(3) A kedvezményezettek nevét, a támogatás célját, összegét, a támogatott program megvalósítási helyét a támogató a döntést követő 8 napon belül – a honlapján történő közzététellel – nyilvánosságra hozza, ezzel egyidejűleg írásban tájékoztatja a pályázókat a pályázat eredményéről.

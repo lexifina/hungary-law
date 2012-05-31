@@ -1,3 +1,0 @@
-## 37. § Az előirányzat az országos hulladékgazdálkodási tervről szóló 110/2002. (XII. 12.) OGY határozat mellékletében meghatározott azbesztmentesítési program végrehajtása során az azbesztmentesítéssel érintett épületek körének megállapításával, a szennyezés mértékének és állapotának felmérésével, a szórt azbeszt kimutatásával, a mentesítés előkészítésével és a végrehajtás ellenőrzésével kapcsolatos szakértői feladatok elvégzését szolgálja. A feladat elvégzésének szakmai eredményei az érintett ingatlanok tulajdonosainak, fenntartóinak, illetve az érintett operatív programok kezelőinek és működtetőinek megküldésre kerülnek.
-
-## 25. ( ÁHT 232698) Katasztrófa elhárítási célelőirányzatok

@@ -1,5 +1,0 @@
-## 71. ( ÁHT 277412) Külső Határok Alap
-
-84. § (1) A „Szolidaritás és a migrációs áramlások igazgatása” általános program keretében a 2007–2013-as időszakra a Külső Határok Alap létrehozásáról szóló 2007. május 23-i 2007/574/EK európai parlamenti és tanácsi határozat által létrehozott Alap célja a külső határok ellenőrzése hatékonyságának javítása. Felhasználható a külső határok egységes határőrizeti rendszerének (határforgalom-ellenőrzés, valamint zöldhatárőrizet) kialakítására, a határforgalmi ellenőrzés hatékony menedzsmentjének kialakítására, a releváns EU-jogszabályok egységes alkalmazására irányuló, valamint a konzuli szolgálatok menedzsmentjének fejlesztésére irányuló tevékenységek finanszírozására.
-
-(2) Az előirányzat felhasználása feladatfinanszírozás keretében, pályázati formában, a 2007–2013. közötti programozási időszakban a Szolidaritási programokból származó támogatások felhasználásának alapvető szabályairól, intézményrendszeréről, a pénzügyi irányítási és ellenőrzési rendszerekről szóló 14/2011. (IV. 19.) BM rendeletben szabályozott eljárásrend alapján történik.

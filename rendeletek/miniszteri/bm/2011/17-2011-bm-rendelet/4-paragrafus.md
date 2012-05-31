@@ -1,5 +1,0 @@
-## 3. § A támogató előírhatja, hogy a pályázaton való részvétel feltétele a pályázati díj megfizetése. A pályázónak a pályázati díjat a pályázat benyújtásakor kell megfizetnie. A pályázati díj mértékét és megfizetésének módját a pályázati felhívás tartalmazza. A pályázati díj mértékét a pályázati felhívás előállításával és a pályázók részére történő rendelkezésre bocsátásával kapcsolatban felmerült költséget alapul véve kell meghatározni.
-
-4. § (1) A pályázatot a pályázati felhívásban megjelölt címre postai úton 1 példányban, valamint elektronikus úton (e-mailben) és adathordozón (CD-n vagy DVD-n) kell benyújtani, amennyiben a pályázati felhívás eltérően nem rendelkezik. Ha az írásban benyújtott pályázat szövege eltér az elektronikusan benyújtott pályázattól, akkor az aláírt, postai úton benyújtott szöveg tekintendő hivatalosnak.
-
-(2) A pályázat benyújtására legalább az Ámr. 132. § (3) bekezdésében előírt határidő, legfeljebb 90 nap írható elő. A pályázat határidőben benyújtottnak tekintendő, ha azt legkésőbb az előírt határidő utolsó napján postára adták. Kétség esetén a határidő betartását a pályázónak kell bizonyítania.

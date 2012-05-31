@@ -1,5 +1,0 @@
-## 20. ( ÁHT 229814) Tűzvédelmi bírság és a biztosítók tűzvédelmi hozzájárulása
-
-33. § (1) Az előirányzat felhasználását a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény írja elő, a felhasználás szabályait a tűzvédelmi bírságnak, valamint a biztosítók tűzvédelmi hozzájárulásának a központi költségvetésbe történő befizetése és elszámolása rendjéről, valamint felhasználásának és ellenőrzésének módjáról szóló 180/1998. (XI. 6.) Korm. rendelet tartalmazza.
-
-(2) A bevételi előirányzat felhasználható a hivatásos és az önkéntes tűzoltóságok részére a laktanya-építési beruházáshoz, felújításhoz, a tűzoltáshoz és műszaki mentéshez, valamint katasztrófák elleni védekezésért felelős miniszter által felügyelt tűzjelzési és monitoring lakossági riasztó-tájékoztató eszközök létesítésére, üzemeltetésére és az általa alapított, a szakágazat képzési feladatait ellátó oktatási intézmény részére tűzoltó célú szakképzéshez szükséges technikai eszközök, felszerelések fejlesztésének, felújításának céljára. Az előirányzat terhén elszámolható a kincstári tranzakciós díj is.

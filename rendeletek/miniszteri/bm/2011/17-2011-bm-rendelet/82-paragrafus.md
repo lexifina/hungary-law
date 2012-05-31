@@ -1,5 +1,0 @@
-## 69. ( ÁHT 277390) Integrációs Alap
-
-82. § (1) A „Szolidaritás és a migrációs áramlások igazgatása” általános program keretében a 2007–2013-as időszakra a harmadik országok állampolgárainak beilleszkedését segítő európai alap létrehozásáról szóló 2007. június 25-i 2007/435/EK tanácsi határozat által létrehozott a harmadik országok állampolgárainak beilleszkedését segítő Integrációs Alap általános célja a tagállamok erőfeszítéseinek támogatása abban, hogy lehetővé tegyék a különböző gazdasági, társadalmi, kulturális, vallási, nyelvi és etnikai hátterű harmadik országbeli állampolgárok számára a tartózkodási feltételek teljesítését, és megkönnyítsék beilleszkedésüket az európai társadalmakba, összhangban az Európai Unió tagállamai által megfogalmazott közös alapelvekkel.
-
-(2) Az előirányzat felhasználása feladatfinanszírozás keretében, pályázati formában, a 2007–2013. közötti programozási időszakban a Szolidaritási programokból származó támogatások felhasználásának alapvető szabályairól, intézményrendszeréről, a pénzügyi irányítási és ellenőrzési rendszerekről szóló 14/2011. (IV. 19.) BM rendeletben szabályozott eljárásrend alapján történik.

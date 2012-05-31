@@ -1,9 +1,0 @@
-## 32. ( ÁHT 297079) NBSZ tevékenységével összefüggő fejlesztési feladatok támogatása
-
-45. § (1) Az előirányzat felhasználásának célja a minősített adat védelméről szóló 2009. évi CLV. törvény és kapcsolódó kormányrendeletnek történő megfelelés érdekében a Nemzetbiztonsági Szakszolgálat (a továbbiakban: NBSZ) teljes informatikai rendszerének átalakítása, valamint folyamatban lévő rendszerfejlesztési projektjeinek módosítása, melynek során az NBSZ országos kiterjedésű hálózatában átalakításra kerül a belső hálózatszervezés, a kiszolgáló szerverpark, valamint lecserélésre kerül az alkalmazott munkaállomások nagy része.
-
-(2) Az előirányzat felhasználásra kerül továbbá a Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről szóló 90/2010. (III. 26.) Korm. rendeletben előírt fizikai biztonsági követelményeknek való megfelelés érdekében a fizikai védelmi eszközök és rendszerek fejlesztésére az NBSZ valamennyi objektumában. A technikai rendszerek földrajzi redundanciájának kialakításához az első lépcső az infrastrukturális feltételek megteremtése.
-
-(3) Az előirányzat felhasználásának célja továbbá az évente végrehajtásra kerülő, ütemezett gépjármű-cserék, különösen az alaptevékenység végzéséhez szükséges gépjárművek esetében. Az NBSZ a megrendelői igények komplex kielégítése érdekében a meglévő rendszereinek továbbfejlesztését, a távközlési környezetben új funkció, szolgáltatások bevezetéséhez, ellenőrzéséhez szükséges eszközbeszerzések finanszírozását is ezen előirányzatból biztosítja.
-
-(4) Az előirányzat átcsoportosításra kerül az NBSZ részére, amely felel az előirányzat cél szerinti, szabályszerű felhasználásáért, illetve az előirányzat-felhasználásról szóló beszámoló elkészítéséért. Az előirányzat átcsoportosítását követően az NBSZ belső szabályainak megfelelően történik a döntési hatáskörök gyakorlása.

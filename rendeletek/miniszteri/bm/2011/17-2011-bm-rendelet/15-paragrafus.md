@@ -1,5 +1,0 @@
-15. § (1) Amennyiben a támogatott projekt megvalósítása meghiúsul, tartós akadályba ütközik, a szerződésben foglalt ütemezéshez képest késedelmet szenved, vagy a pályázati program megvalósításával kapcsolatban bármely körülmény megváltozik, ezt a kedvezményezett köteles a tudomására jutást követően haladéktalanul írásban jelenteni a támogatónak.
-
-(2) A kedvezményezett az Ámr. 127. § (1) bekezdése szerinti elállás esetén a támogatás összegét az elállást tartalmazó okirat kézhezvételétől számított 5 napon belül köteles a támogatónak visszafizetni.
-
-(3) Amennyiben a támogató a támogatást visszavonja, vagy a támogatási szerződés, támogatói okirat a támogatott cél megvalósulása nélkül megszűnik, vagy a támogatási szerződés vagy támogatói okirat módosul, a már átutalt támogatási összeg, eszköztámogatás szerződéskori bruttó nyilvántartáskori értéke, továbbá annak kamata megfizetésére irányuló visszakövetelés érvényesítése a beszedési megbízás alkalmazásával is történhet, amelyet a támogatás forrásaként meghatározott előirányzat javára kell teljesíteni.
