@@ -1,3 +1,5 @@
-## 14. § Az egyedi döntések esetében az e rendelet rendelkezéseit megfelelően alkalmazni kell azzal, hogy a szerződéskötés feltételeit és a szerződési biztosítékot a pályázati felhívás helyett a miniszter – az e rendeletben meghatározott állami támogatási szabályok betartásával – egyedileg állapítja meg.
+## 14. §[^12]
 
 ## Beszámolási kötelezettség
+
+[^12]: A 14. §-t a 27/2012. (V. 30.) BM rendelet 40. § b) pontja hatályon kívül helyezte.
