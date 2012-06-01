@@ -26,7 +26,7 @@ keletkeztek és irattári anyagába tartoztak.
 
 8. hozzátartozó: a házastárs, az élettárs (amennyiben a házasság, illetve az élettársi közösség az irat keletkezésekor és az érintett halálakor is fennállt), az egyeneságbeli rokon, az örökbefogadott, a mostoha- és nevelt gyermek, az örökbefogadó, a mostoha- és nevelőszülő, a testvér;
 
-9. tudományos kutató: az a személy, aki rendelkezik az Ltv. 23. § (2)–(3) bekezdésében szabályozott kuratórium által kiadott kutatási engedéllyel;
+9. tudományos kutató: az a személy, aki rendelkezik a Levéltár által kiadott kutatási engedéllyel;
 
 10. kérelmező: az érintett, a tudományos kutató és az 5. § szerint az adatokat megismerő személy;
 
