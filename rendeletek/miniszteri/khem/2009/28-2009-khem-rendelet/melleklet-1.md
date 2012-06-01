@@ -1,6 +1,6 @@
-## 24. §[^51] E rendelet 17. § (6) bekezdése szerinti felülvizsgálatot első alkalommal 2012. I. negyedévére vonatkozóan kell elvégezni.
+## 25. §[^52] A 16/B. § (8) bekezdése szerinti kérelem a 2012. évben szeptember 1. és szeptember 30. között nyújtható be.
 
-1. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^52]
+1. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^53]
 
-[^51]: A 24. §-t a 22/2011. (V. 20.) NFM rendelet 4. §-a iktatta be.
-[^52]: Az 1. mellékletet a 18/2010. (XII. 3.) NFM rendelet 4. §-a hatályon kívül helyezte.
+[^52]: A 25. §-t a 28/2012. (V. 31.) NFM rendelet 1. §-a iktatta be.
+[^53]: Az 1. mellékletet a 18/2010. (XII. 3.) NFM rendelet 4. §-a hatályon kívül helyezte.

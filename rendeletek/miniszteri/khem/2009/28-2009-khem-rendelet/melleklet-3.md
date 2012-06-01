@@ -8,6 +8,6 @@
 
 ## Az árak szabályozása során a referencia időszak 2012. január 1-jétől 2012. január 31-éig tart.
 
-3. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^54]
+3. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^55]
 
-[^54]: A 3. melléklet a 83/2011. (XII. 29.) NFM rendelet 14. §-ával megállapított szöveg.
+[^55]: A 3. melléklet a 83/2011. (XII. 29.) NFM rendelet 14. §-ával megállapított szöveg.
