@@ -1,0 +1,1 @@
+## „b) összekapcsolási pont: a szállítói engedélyesek által üzemeltetett szállítóvezetékek közötti csatlakozási pont, amely az együttműködő földgázrendszer részét képezi és a szállítói engedélyesek közötti elszámolást teszi lehetővé, ugyanakkor nem minősül sem kilépési, sem belépési pontnak,”
