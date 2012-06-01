@@ -1,1 +1,0 @@
-## 1. § Az érettségi vizsga részletes követelményeiről szóló 40/2002. (V. 24.) OM rendelet (a továbbiakban: R.) mellékletének BIOLÓGIA II. A VIZSGA LEÍRÁSA cím EMELT SZINTŰ VIZSGA alcímet követő táblázat helyébe az 1. számú melléklet lép.

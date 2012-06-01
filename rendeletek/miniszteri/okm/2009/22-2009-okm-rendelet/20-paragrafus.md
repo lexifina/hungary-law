@@ -1,1 +1,0 @@
-## 19. § Az R. mellékletének KATOLIKUS HITTAN II. A VIZSGA LEÍRÁSA cím EMELT SZINTŰ VIZSGA alcím Szóbeli vizsga pont A szóbeli tételsor formai jellemzői alpontot követő szöveg helyébe a 25. számú melléklet lép.
