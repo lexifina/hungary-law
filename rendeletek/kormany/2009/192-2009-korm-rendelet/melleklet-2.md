@@ -76,19 +76,7 @@
 
 ## g) a szakértői szerződés tartalmi követelményeit.
 
-## 2. A vizsgázó tervellenőr ismerje:
-
-## a) a tervellenőri jogosultság feltételrendszerét,
-
-## b) a tervellenőr feladatát, a tevékenység ellátásának összeférhetetlenségi szabályait,
-
-## c) az etikai-fegyelmi szabályokat,
-
-## d) az építészeti-műszaki tervezésre vonatkozó előírásokat, követelményeket (jogszabályok, szabványok, segédletek, műszaki specifikációk),
-
-## e) a kivitelezési dokumentáció tartalmi, szakmai követelményeit,
-
-## f) a tervellenőri nyilatkozat tartalmi követelményei.
+## 2.[^8]
 
 ## 3. A vizsgázó beruházáslebonyolító ismerje:
 
@@ -135,3 +123,5 @@
 ## A vizsgázótól számon kérhető követelményekre vonatkozó – az építésügyért felelős miniszterrel egyeztetett – jogszabályok, jogszabályrészek, szabványok és segédanyagok jegyzéke a szakmai kamarák honlapján találhatók. A listát a szakmai kamarák évente aktualizálják a jogszabályok és szabványok változásainak megfelelően.
 
 2. melléklet a 192/2009. (IX. 15.) Korm. rendelethez
+
+[^8]: Az 1. melléklet II. Különös követelmények fejezet 2. pontját a 105/2012. (V. 30.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.

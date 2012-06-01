@@ -44,4 +44,6 @@ e) energetikai tanúsítói tevékenység folytatásához egy év.
 
 (4) Az építésügyi igazgatási szakértői tevékenység engedélyezéséhez a (2) bekezdés b) pontjában meghatározott gyakorlati idő szakmai tartalmát legalább három év építésügyi hatóságnál (ideértve a sajátos építményfajták szerinti hatóságokat is) végzett gyakorlattal kell igazolni.
 
-(5) A tervellenőri tevékenység engedélyezéséhez a szakmai gyakorlati időbe az (1) bekezdés a)–c) pontjában meghatározott tevékenység vehető figyelembe.
+(5)[^5] A tervellenőri tevékenység engedélyezéséhez a szakmai gyakorlati időbe az (1) bekezdés b)–c) pontjában meghatározott tevékenység vehető figyelembe.
+
+[^5]: A 4. § (5) bekezdése a 105/2012. (V. 30.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
