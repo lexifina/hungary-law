@@ -1,0 +1,3 @@
+## 9. § A megyei intézményfenntartó központokról, valamint a megyei önkormányzatok konszolidációjával, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egészségügyi intézményeinek átvételével összefüggő egyes kormányrendeletek módosításáról szóló 258/2011. (XII. 7.) Korm. rendelet (a továbbiakban: Mikr.) 18. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) Abban az esetben, ha a GYEMSZI a Törvény 7. § (2) bekezdése alapján megindult és folyamatban lévő eljárás során módosítja az (1) bekezdés szerinti javaslatát, a döntéshozatal során a módosított javaslatot kell figyelembe venni, amennyiben a javaslat a módosítást követően megfelel a 20. §-ban foglaltaknak.”
