@@ -1,3 +1,0 @@
-## terjed ki.
-
-## Értelmező rendelkezések
