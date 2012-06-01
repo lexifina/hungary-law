@@ -1,8 +1,8 @@
-211. § (1)[^118] Lakbértámogatás az arra jogosult, szolgálati érdekből áthelyezett hivatásos és szerződéses tiszt, altiszt részére akkor állapítható meg, ha
+211. § (1)[^122] Lakbértámogatás az arra jogosult, szolgálati érdekből áthelyezett hivatásos és szerződéses tiszt, altiszt részére akkor állapítható meg, ha
 
 a) önkormányzati tulajdonú lakásban bérlőként (bérlőtársként), a bérlő házastársaként, továbbá az 5. § (1) bekezdés c) pontja szerinti feltételeknek megfelelő élettársaként lakik, és
 
-b)[^119] a lakás helyi önkormányzat által megállapított lakbérének a mértéke (forint/m2) meghaladja az azonos komfortfokozatú lakásra a 81. § (1) bekezdésben meghatározott lakbér mértékét.
+b)[^123] a lakás helyi önkormányzat által megállapított lakbérének a mértéke (forint/m2) meghaladja az azonos komfortfokozatú lakásra a 81. § (1) bekezdésben meghatározott lakbér mértékét.
 
 (2) A lakbértámogatásra való jogosultság szempontjából szolgálati érdekű áthelyezésnek minősül:
 
@@ -46,5 +46,5 @@ nem haladhatja meg.
 
 (7) A lakbértámogatásra való jogosultság a kérelem benyújtásának időpontját megelőző hatállyal nem állapítható meg, illetőleg nem igazolható. A lakbértámogatás folyósítása számla leadása ellenében történik.
 
-[^118]: A 211. § (1) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
-[^119]: A 211. § (1) bekezdés b) pontja a 9/2010. (V. 4.) HM rendelet 12. § 16. pontja szerint módosított szöveg.
+[^122]: A 211. § (1) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^123]: A 211. § (1) bekezdés b) pontja a 9/2010. (V. 4.) HM rendelet 12. § 16. pontja szerint módosított szöveg.

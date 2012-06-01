@@ -12,7 +12,7 @@ nem rendelkezik önálló lakással, illetőleg a honvédelmi szervtől albérle
 
 (3) Amennyiben a szálló használatának rendjét nem zavarja, kivételesen szállóelhelyezést kaphat:
 
-a)[^82] a tiszti és altiszti állományú katona szolgálati helye szerinti vonzáskörzetben önálló lakással nem rendelkező házastársa (élettársa), valamint
+a)[^86] a tiszti és altiszti állományú katona szolgálati helye szerinti vonzáskörzetben önálló lakással nem rendelkező házastársa (élettársa), valamint
 
 b) a helyőrségi szálló önálló WC-vel és fürdőhelyiséggel rendelkező lakóegységében a honvédelmi szerv állományába tartozó jogosulttal közösen, annak gyermeke és házastársa (élettársa),
 
@@ -20,12 +20,12 @@ c) a hivatásos katona felsőfokú oktatási intézmény nappali tagozatán tanu
 
 (4) Szálló férőhelyen lehet elhelyezni alkalomszerű szállás céljából a honvédelmi szerv állományába tartozó személyt és közvetlen hozzátartozóit, továbbá a honvédelmi szerv állományába tartozó személyt, ha a szállást szolgálati úttal összefüggésben igényli. Alkalomszerű szállásnak kell tekinteni a nem rendszeres, legfeljebb 5 éjszaka időtartamú elhelyezést.
 
-(5)[^83] Az (1)–(4) bekezdésekben nem említett személyek részére a HM központi lakásgazdálkodási szerv előzetes engedélyével, legfeljebb egy év határozott időtartamra adható szálló férőhely. Az önkéntes tartalékos tiszt és altiszt szállóelhelyezését a területileg illetékes helyi lakásgazdálkodási szerv vezetője engedélyezheti az önkéntes tartalékos szolgálat időtartamára azzal, hogy a szálló férőhely bérlője a 172. § (2) bekezdésben meghatározott mértékű bérleti díjat köteles fizetni.
+(5)[^87] Az (1)–(4) bekezdésekben nem említett személyek részére a HM központi lakásgazdálkodási szerv előzetes engedélyével, legfeljebb egy év határozott időtartamra adható szálló férőhely. Az önkéntes tartalékos tiszt és altiszt szállóelhelyezését a területileg illetékes helyi lakásgazdálkodási szerv vezetője engedélyezheti az önkéntes tartalékos szolgálat időtartamára azzal, hogy a szálló férőhely bérlője a 172. § (2) bekezdésben meghatározott mértékű bérleti díjat köteles fizetni.
 
 (6) A szálló férőhely elosztásáról, illetve az ott történő elhelyezésről a helyi lakásgazdálkodási szerv vezetője dönt.
 
-(7)[^84] A szállók házirendjét a HM vagyonkezelői feladatokat ellátó szerv vezetője a központi lakásgazdálkodási szerv vezetője által jóváhagyott intézkedésben határozza meg.
+(7)[^88] A szállók házirendjét a HM vagyonkezelői feladatokat ellátó szerv vezetője a központi lakásgazdálkodási szerv vezetője által jóváhagyott intézkedésben határozza meg.
 
-[^82]: A 169. § (3) bekezdés a) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^83]: A 169. § (5) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
-[^84]: A 169. § (7) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^86]: A 169. § (3) bekezdés a) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^87]: A 169. § (5) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^88]: A 169. § (7) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (2) bekezdése szerint módosított szöveg.

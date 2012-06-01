@@ -4,7 +4,7 @@ a) dönt az éves lakáselosztási tervről és a lakásigénylők besorolásár
 
 b) személy szerint elosztja a rendelkezésére álló lakásokat és az elosztás során felszabaduló lakásokat,
 
-c)[^139] dönt a 6. § (2) bekezdésben, valamint a 9. § (2) bekezdés b) pontban meghatározott feltétel és kizáró okok alóli felmentés iránti kérelmekben,
+c)[^143] dönt a 6. § (2) bekezdésben, valamint a 9. § (2) bekezdés b) pontban meghatározott feltétel és kizáró okok alóli felmentés iránti kérelmekben,
 
 d) javaslatot tesz az egyéni lakásépítés és lakásvásárlás munkáltatói kölcsönnel, valamint vissza nem térítendő juttatással történő támogatására,
 
@@ -16,4 +16,4 @@ e) véleményezi az állami tulajdonban, a HM vagyonkezelésben lévő lakóép�
 
 (4) A bizottság működésére a 231. § (2)–(5) és (7) bekezdéseit kell megfelelően alkalmazni.
 
-[^139]: A 230. § (1) bekezdés c) pontja a 9/2010. (V. 4.) HM rendelet 12. § 17. pontja szerint módosított szöveg.
+[^143]: A 230. § (1) bekezdés c) pontja a 9/2010. (V. 4.) HM rendelet 12. § 17. pontja szerint módosított szöveg.

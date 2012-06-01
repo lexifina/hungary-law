@@ -1,4 +1,4 @@
-181. § (1)[^88] A vissza nem térítendő juttatás összege az igazolt építési költségnek vagy vételárnak a 188. § vagy a 189. § alapján számítható munkáltatói kölcsönnel csökkentett összege, amely azonban a személyi jövedelemadóról szóló törvény szerint adómentesen juttatható lakáscélú munkáltatói támogatás felső határa mellett nem haladhatja meg a köztisztviselői illetményalap
+181. § (1)[^92] A vissza nem térítendő juttatás összege az igazolt építési költségnek vagy vételárnak a 188. § vagy a 189. § alapján számítható munkáltatói kölcsönnel csökkentett összege, amely azonban a személyi jövedelemadóról szóló törvény szerint adómentesen juttatható lakáscélú munkáltatói támogatás felső határa mellett nem haladhatja meg a köztisztviselői illetményalap
 
 a) 70-szeres összegét az 52. életévének betöltése előtt szolgálati (baleseti, rokkantsági) nyugállományba helyezett jogosult esetében, illetve
 
@@ -18,4 +18,4 @@ b) házastársa (élettársa) – a házasság vagy az élettársi kapcsolat fen
 
 (6) A juttatás összegének megállapításakor a köztisztviselői illetményalapnak az igénylés elbírálására jogosult szervhez történő beérkezésekor hatályos összegét kell figyelembe venni.
 
-[^88]: A 181. § (1) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (9) bekezdése szerint módosított szöveg.
+[^92]: A 181. § (1) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (9) bekezdése szerint módosított szöveg.

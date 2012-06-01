@@ -6,6 +6,6 @@
 
 a) lakás és személygépkocsi-tároló vonatkozásában a helyi lakásgazdálkodási szerv,
 
-b)[^71] helyiségre vonatkozóan a HM vagyonkezelői feladatokat ellátó szerv.
+b)[^75] helyiségre vonatkozóan a HM vagyonkezelői feladatokat ellátó szerv.
 
-[^71]: A 147. § (2) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^75]: A 147. § (2) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (2) bekezdése szerint módosított szöveg.
