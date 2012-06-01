@@ -1,1 +1,0 @@
-## 10. § Az R. 2. számú melléklet Második rész Az érettségi vizsgatárgyak általános követelményei fejezet VEGYIPARI ALAPISMERETEK ÉRETTSÉGI VIZSGA ÁLTALÁNOS KÖVETELMÉNYEI alcím és az azt követő szöveg helyébe e rendelet 8. számú melléklete lép.
