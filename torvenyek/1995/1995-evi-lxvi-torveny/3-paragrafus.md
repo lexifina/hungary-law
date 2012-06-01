@@ -20,7 +20,7 @@ h) iratkezelés: az irat készítését, nyilvántartását, rendszerezését é
 
 i) irattári terv: a köziratok rendszerezésének és a selejtezhetőség szempontjából történő válogatásának alapjául szolgáló jegyzék, amely az irattári anyagot tételekre (tárgyi csoportokra, indokolt esetben iratfajtákra) tagolva, a közfeladatot ellátó szerv feladat- és hatásköréhez, valamint szervezetéhez igazodó rendszerezésben sorolja fel, s meghatározza a kiselejtezhető irattári tételekbe tartozó iratok ügyviteli célú megőrzésének időtartamát, továbbá a nem selejtezhető iratok levéltárba adásának határidejét;
 
-j) maradandó értékű irat: a gazdasági, társadalmi, politikai, jogi, honvédelmi, nemzetbiztonsági, tudományos, művelődési, műszaki vagy egyéb szempontból jelentős, a történelmi múlt kutatásához, megismeréséhez, megértéséhez, illetőleg a közfeladatok folyamatos ellátásához és az állampolgári jogok érvényesítéséhez nélkülözhetetlen, más forrásból nem vagy csak részlegesen megismerhető adatot tartalmazó irat;
+j) maradandó értékű irat: a gazdasági, társadalmi, politikai, jogi, honvédelmi, nemzetbiztonsági, tudományos, művelődési, műszaki vagy egyéb szempontból jelentős, a történelmi múlt kutatásához, megismeréséhez, megértéséhez, a közfeladatok folyamatos ellátásához és az állampolgári jogok érvényesítéséhez nélkülözhetetlen, más forrásból nem vagy csak részlegesen megismerhető adatot tartalmazó irat;
 
 k) levéltári anyag: az irattári anyagnak, továbbá a természetes személyek iratainak levéltárban őrzött maradandó értékű része, valamint a védetté nyilvánított maradandó értékű magánirat;
 
@@ -38,4 +38,4 @@ r) közlevéltár illetékessége (illetékességi köre): a maradandó érték�
 
 s) levéltári gyűjtőkör: a maradandó értékű, köziratnak nem minősülő irattári anyagnak, ha arra vonatkozóan törvény közlevéltárba adási, illetve a levéltárfenntartó levéltárba adási kötelezettséget nem ír elő, továbbá a természetes személyek maradandó értékű iratainak az a köre, amelyet az adott levéltár az őrizetében lévő levéltári anyag forrásértékének gazdagítása céljából gyűjt (ajándékként elfogad vagy megvásárol);
 
-t) önkormányzati hivatal: a polgármesteri hivatal, a társult képviselő-testület közös hivatala, a körjegyzőség, a megyei önkormányzati hivatal és a fővárosi közgyűlés hivatala (Főpolgármesteri Hivatal).
+t) önkormányzati hivatal: a polgármesteri hivatal, a társult képviselő-testület közös hivatala, a körjegyzőség, a megyei önkormányzati hivatal és a fővárosi közgyűlés hivatala.

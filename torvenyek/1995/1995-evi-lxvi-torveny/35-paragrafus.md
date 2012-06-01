@@ -1,6 +1,6 @@
 ## VI. Fejezet
 
-## VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
+## ZÁRÓ RENDELKEZÉSEK
 
 35. § (1) Ez a törvény — a (2) bekezdésben foglalt kivétellel — 1996. január 1-jén lép hatályba.
 
@@ -16,7 +16,7 @@
 
 (7) Ahol jogszabály ,,történeti értékű iratot'' említ, azon ,,maradandó értékű iratot'' kell érteni.
 
-(8) Az 1948–1989 között működött Magyar Dolgozók Pártja (MDP) és Magyar Szocialista Munkáspárt (MSZMP) szerveinek iratai – az MDP és az MSZMP tagnyilvántartásainak kivételével – a magyar állam tulajdonát képezik.
+(8) Az 1944–1989 között működött Magyar Dolgozók Pártja (MDP) és jogelődei, Magyar Szocialista Munkáspárt (MSZMP), ezek társadalmi szervezetei (Magyar Partizánszövetség, Magyar Ellenállók és Antifasiszták Szövetsége, Magyar Nők Demokratikus Szövetsége, Magyar Nők Országos Tanácsa), ifjúsági szervezetei (Magyar Demokratikus Ifjúsági Szövetség, Dolgozó Ifjúság Szövetsége, Kommunista Ifjúsági Szövetség, Népi Kollégiumok Országos Szövetsége, Magyar Úttörők Szövetsége), valamint a Szakszervezetek Országos Tanácsa, a szakszervezeti tanácsok és ágazati szakszervezetek iratai az állam tulajdonát képezik.
 
 (9)
 

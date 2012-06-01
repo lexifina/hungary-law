@@ -1,1 +1,1 @@
-26. § A kutatási kérelem részleges vagy teljes megtagadását a közlevéltár, illetőleg a 23. § (3) bekezdésében meghatározott kuratórium köteles írásban megindokolni.
+26. § A kutatási kérelem részleges vagy teljes megtagadását a közlevéltár köteles írásban megindokolni.

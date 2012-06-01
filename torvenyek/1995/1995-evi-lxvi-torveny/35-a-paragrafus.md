@@ -4,4 +4,4 @@
 
 (3) A (2) bekezdésben foglalt felhatalmazás alapján kiadandó rendeletet a bíróságok és az Országos Bírósági Hivatal elnöke, az ügyészségek, a közjegyzők, a bírósági végrehajtók, valamint ezek kamarái, továbbá az ügyvédi kamara, az igazságügyi szakértői névjegyzékbe bejegyzett természetes személyek és gazdasági társaságok, igazságügyi szakértői intézmények, hiteles szakfordítók, tolmácsok, a jogi segítségnyújtást, kárpótlást, áldozatsegítést, valamint büntető ügyekben közvetítői tevékenységet végző szervek és személyek tekintetében az igazságügyért felelős miniszterrel egyetértésben kell kiadni.
 
-(4) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza a 23. § (3) bekezdésében meghatározott kuratórium, valamint a levéltári szakfelügyelet és a levéltári szakmai testületek működését.
+(4) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza a levéltári szakfelügyelet és a levéltári szakmai testületek működését.
