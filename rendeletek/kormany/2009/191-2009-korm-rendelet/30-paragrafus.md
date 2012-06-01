@@ -4,11 +4,11 @@
 
 ## c) az építőipari kivitelezési tevékenységet végző fővállalkozó kivitelező (és a már ismert alvállalkozó kivitelező) e rendelet szerinti építőipari kivitelezői nyilvántartási számát,
 
-## d)[^85] közreműködése esetén az építtetői fedezetkezelő megnevezését.
+## d)[^86] közreműködése esetén az építtetői fedezetkezelő megnevezését.
 
-## (3)[^86] A (2) bekezdés szerinti adatoknak az építésfelügyeleti hatósághoz, vagy a kormányablakhoz történő bejelentésével egyidejűleg az építtető az építés helye szerint illetékes Nemzeti Adó- és Vámhivatalnak bejelenti az építési tevékenységre vonatkozó teljes kivitelezési értéket (szerződéses érték), az építés helyszínének címét és helyrajzi számát.
+## (3)[^87] A (2) bekezdés szerinti adatoknak az építésfelügyeleti hatósághoz, vagy a kormányablakhoz történő bejelentésével egyidejűleg az építtető az építés helye szerint illetékes Nemzeti Adó- és Vámhivatalnak bejelenti az építési tevékenységre vonatkozó teljes kivitelezési értéket (szerződéses érték), az építés helyszínének címét és helyrajzi számát.
 
 ## Utólagos bejelentés
 
-[^85]: A 29. § (2) bekezdés d) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (30) bekezdésével megállapított szöveg.
-[^86]: A 29. § (3) bekezdése a 212/2011. (X. 14.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^86]: A 29. § (2) bekezdés d) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (30) bekezdésével megállapított szöveg.
+[^87]: A 29. § (3) bekezdése a 212/2011. (X. 14.) Korm. rendelet 6. §-ával megállapított szöveg.

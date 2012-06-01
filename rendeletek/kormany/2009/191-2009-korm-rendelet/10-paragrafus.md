@@ -1,6 +1,6 @@
 ## A tervellenőr
 
-10. § (1) A kivitelezési dokumentációt (dokumentációrészt)
+10. § (1)[^17] A kivitelezési dokumentációt (dokumentációrészt)
 
 a) tömegtartózkodásra szolgáló építmény,
 
@@ -10,7 +10,7 @@ c) a honvédelmi és katonai célú építmény, továbbá
 
 d) a nemzetgazdasági szempontból kiemelt jelentőségű ügy tárgyát képező építmény
 
-esetében az Étv. 38/A. § (1) bekezdésében meghatározottak szerint tervellenőr ellenőrzi, egyéb esetekben ellenőrizheti.
+esetében a mechanikai ellenállás és stabilitás követelményét tervellenőr ellenőrzi, egyéb esetekben az építtető tervellenőrt alkalmazhat.
 
 (2) A tervellenőrzést az építtető megbízásából tervellenőri jogosultsággal rendelkező tervellenőr végzi.
 
@@ -39,3 +39,5 @@ fb) a vonatkozó szabványtól eltérő műszaki megoldás alkalmazása esetén 
 g) annak ismertetését, ha az engedélyezési dokumentációtól – a jogszabályok keretein belül – a kivitelezési dokumentáció eltér.
 
 (4) Ha a tervellenőr azt állapítja meg, hogy a kivitelezési dokumentáció (dokumentációrész) nem felel meg a jogszabályi előírásoknak, az építőipari kivitelezési tevékenység végzése nem kezdhető meg.
+
+[^17]: A 10. § (1) bekezdés záró szövegrésze a 105/2012. (V. 30.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.

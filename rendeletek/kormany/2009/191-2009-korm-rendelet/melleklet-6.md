@@ -62,7 +62,7 @@
 
 | Összesen: |  |  |  |
 
-6. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^106]
+6. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^107]
 
 Az építési tevékenység megkezdésének utólagos bejelentése
 
@@ -78,7 +78,7 @@ Adatok:
 
 Bejelentem, hogy az 1. pontban megjelölt ingatlanon tervezett új építmény, építményrész, meglévő építmény bővítése, átalakítása, korszerűsítése, felújítása, helyreállítása, elmozdítása, fennmaradása és továbbépítése, egyéb építési tevékenység
 
-a) az építésügyi hatósági (létesítési) engedélyhez kötött és az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet szerint számított 50 millió forint számított építményértéket nem éri el és nem haladja meg, az építőipari kivitelezési tevékenységről szóló kormányrendelet szerint nem tartozik az építtetői fedezetkezelés hatálya alá, nem tartozik a közbeszerzésekről szóló 2003. évi CXXIX. törvény hatálya alá, valamint a továbbépítésre vonatkozóan az 50 millió forint számított építményértéket nem éri el,
+a) az építésügyi hatósági (létesítési) engedélyhez kötött és az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet szerint számított 50 millió forint számított építményértéket nem éri el és nem haladja meg, az építőipari kivitelezési tevékenységről szóló kormányrendelet szerint nem tartozik az építtetői fedezetkezelés hatálya alá, nem tartozik a közbeszerzésekről szóló törvény hatálya alá, valamint a továbbépítésre vonatkozóan az 50 millió forint számított építményértéket nem éri el,
 
 b) végzését ............................... (dátum) a vállalkozó kivitelező megkezdte, az építési naplót megnyitotta.
 
@@ -90,4 +90,4 @@ aláírás
 
 (építtető)
 
-[^106]: A 6. melléklet a 182/2010. (V. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^107]: A 6. melléklet a 182/2010. (V. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.

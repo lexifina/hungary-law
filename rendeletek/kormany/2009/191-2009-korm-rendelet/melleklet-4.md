@@ -10,11 +10,11 @@
 
 ## e) Minden felmért adat bejegyzésénél külön sorban kell feltüntetni (esetleg az építményre, építményrészre hivatkozással) a munkanemet (pl. I. földmunka), majd a következő sorban a kelet és szint adatát, vonalas építkezésnél a szelvényszámot, a költségvetési (pótköltségvetési) tételszámot (naplóoldalszámot), amelyre a bejegyzendő adatok vonatkoznak. A hivatkozási szám után címszószerűen be kell írni a felmért tétel megnevezését (pl. földkiemelés III. o.).
 
-4. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^105]
+4. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^106]
 
 ## Az építési tevékenység megkezdésének előzetes bejelentése
 
-Az építőipari kivitelezési tevékenységről szóló jogszabály alapján az építésügyi hatósági (létesítési) engedélyhez kötött és az építésügyi bírság megállapításának részletes szabályairól szóló jogszabály szerint számított 50 millió forint értéket meghaladó, valamint az építtetői fedezetkezelés hatálya alá tartozó, illetve a közbeszerzésekről szóló 2003. évi CXXIX. törvény hatálya alá tartozó építési tevékenységek esetén.
+Az építőipari kivitelezési tevékenységről szóló jogszabály alapján az építésügyi hatósági (létesítési) engedélyhez kötött és az építésügyi bírság megállapításának részletes szabályairól szóló jogszabály szerint számított 50 millió forint értéket meghaladó, valamint az építtetői fedezetkezelés hatálya alá tartozó, illetve a közbeszerzésekről szóló törvény hatálya alá tartozó építési tevékenységek esetén.
 
 1. Építési engedély adatai
 
@@ -70,7 +70,7 @@ b) címe (irányítószám, település, utca, házszám, emelet, ajtó vagy Pf.
 
 c) névjegyzéki száma: ME-
 
-A közbeszerzésekről szóló 2003. évi CXXIX. törvény hatálya alá tartozó építési munkák esetén kitöltése kötelező, egyéb esetben, ha van építési műszaki ellenőr, az adatszolgáltatás megadása önkéntes, ha nincs, kérjük a rovatokat kihúzni.
+A közbeszerzésekről szóló törvény hatálya alá tartozó építési munkák esetén kitöltése kötelező, egyéb esetben, ha van építési műszaki ellenőr, az adatszolgáltatás megadása önkéntes, ha nincs, kérjük a rovatokat kihúzni.
 
 8. Kivitelezési dokumentáció tervezőjének adatai: tevékenysége kezdete (dátum)  □ vége (dátum)  □
 
@@ -100,4 +100,4 @@ Kijelentem, hogy az adatbejelentésben közölt adatok a valóságnak megfelelő
 
 Kelt: ..........................., ........... év .............................. hó .......... nap
 
-[^105]: A 4. melléklet a 182/2010. (V. 14.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^106]: A 4. melléklet a 182/2010. (V. 14.) Korm. rendelet 6. § (1) bekezdése, a 105/2012. (V. 30.) Korm. rendelet 22. § b) és c) pontja szerint módosított szöveg.
