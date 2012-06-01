@@ -1,6 +1,6 @@
 ## Az egészségügyi szolgáltatás gyakorlásának ellenőrzése
 
-16. §[^49] (1) Az egészségügyi államigazgatási szerv – a 9. §-ban és 15. §-ban meghatározott ellenőrzésen kívül – előre meghatározott és közzétett ütemezés szerint végzi az egészségügyi szolgáltatók ellenőrzését, amelynek során vizsgálja a jogszabályban meghatározott személyi, tárgyi, szakmai minimumfeltételek, a szakmai szabályok, protokollok, illetve közegészségügyi előírások teljesítését.
+16. §[^51] (1) Az egészségügyi államigazgatási szerv – a 9. §-ban és 15. §-ban meghatározott ellenőrzésen kívül – előre meghatározott és közzétett ütemezés szerint végzi az egészségügyi szolgáltatók ellenőrzését, amelynek során vizsgálja a jogszabályban meghatározott személyi, tárgyi, szakmai minimumfeltételek, a szakmai szabályok, protokollok, illetve közegészségügyi előírások teljesítését.
 
 (2) Az egészségügyi államigazgatási szerv, illetve a szakfelügyelet által tartott – a 9. §-ban és a 15. §-ban meghatározott ellenőrzést is ideértve – helyszíni ellenőrzés megállapításai vagy az egészségügyi szolgáltató képviselője által tett nyilatkozat alapján az engedélyező egészségügyi államigazgatási szerv a jogszabálysértés vagy szakmai szabályszegés jellegének, súlyának, az egészségügyi ellátásra nézve okozott sérelem nagyságának mérlegelésével megteszi a szükséges intézkedéseket, amelynek során az alábbi jogkövetkezményeket alkalmazhatja:
 
@@ -26,4 +26,4 @@ h) közfinanszírozott egészségügyi szolgáltatónak a működési engedély�
 
 (5) Az egészségügyi államigazgatási szerv a tapasztalt közegészségügyi hiányosságok esetén saját hatáskörben intézkedik, és erről értesíti a működési engedélyt kiadó egészségügyi államigazgatási szervet. Egyéb hiányosság esetén intézkedést kezdeményez a működési engedélyt kiadó egészségügyi államigazgatási szervnél.
 
-[^49]: A 16. § a 325/2011. (XII. 28.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^51]: A 16. § a 325/2011. (XII. 28.) Korm. rendelet 42. §-ával megállapított szöveg.

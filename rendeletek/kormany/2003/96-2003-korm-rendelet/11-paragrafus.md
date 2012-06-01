@@ -66,7 +66,7 @@ a működési engedély számának és jogerőre emelkedésének közlésével t
 
 (9) Közreműködő igénybe vétele esetén az egészségügyi államigazgatási szerv vizsgálja, hogy a közreműködő bevonása nem veszélyezteti-e az egészségügyi szolgáltatás folyamatosságát, biztonságát, színvonalát.
 
-(10)[^36] Amennyiben a működési engedélyezési eljárást az egészségügyi államigazgatási szerv hivatalból folytatja le, az egészségügyi szolgáltató az egészségügyi államigazgatási szerv felhívására megadja a működési engedély kötelező tartalmi elemeinek megállapításához szükséges adatokat. Az adatok közlése érdekében az egészségügyi államigazgatási szerv – legfeljebb két alkalommal – hiánypótlásra szólítja fel az ügyfelet, amelynek határideje 15 nap. Amennyiben az egészségügyi szolgáltató a hiánypótlás keretében a nyilatkozattételi felhívásnak nem tesz eleget vagy valótlan adatot közöl, az egészségügyi államigazgatási szerv
+(10)[^36] Amennyiben a működési engedélyezési eljárást az egészségügyi államigazgatási szerv hivatalból folytatja le, az egészségügyi szolgáltató az egészségügyi államigazgatási szerv felhívására megadja a működési engedély kötelező tartalmi elemeinek megállapításához szükséges adatokat. Az adatok közlése érdekében az egészségügyi államigazgatási szerv hiánypótlásra szólítja fel az ügyfelet, amelynek határideje 8 nap. Amennyiben az egészségügyi szolgáltató a hiánypótlás keretében a nyilatkozattételi felhívásnak nem tesz eleget vagy valótlan adatot közöl, az egészségügyi államigazgatási szerv
 
 a) a rendelkezésére álló adatok alapján dönt,
 
@@ -89,5 +89,5 @@ bc) az adatok hiánya közreműködő részére kiadandó működési engedély 
 c) a (10) bekezdés c) pontját alkalmazza, amennyiben a szolgáltató pótolta a hiányzó adatokat, de az eljárás során, különösen az egészségbiztosító vagy a térségi betegút-szervezésért felelős szerv megkeresésének eredményeként, vagy a 9. § (1) vagy (3) bekezdésében meghatározott helyszíni ellenőrzés során megállapítható, hogy a szolgáltató valótlan adatokat közölt.
 
 [^35]: A 11. § a 325/2011. (XII. 28.) Korm. rendelet 37. §-ával megállapított szöveg.
-[^36]: A 11. § (10) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 14. §-a iktatta be.
+[^36]: A 11. § (10) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 14. §-a iktatta be, szövege a 107/2012. (VI. 1.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^37]: A 11. § (11) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 14. §-a iktatta be.
