@@ -1,27 +1,24 @@
-## 39. §[^39]
+40. § (1)[^48]
 
-40. § (1)[^40]
+(2)[^49]
 
-(2)[^41]
+(3)[^50]
 
-(3)[^42]
+(4)[^51]
 
-(4)[^43]
+(5)[^52]
 
-(5)[^44]
+(6)[^53]
 
-(6)[^45]
+(7)[^54]
 
-(7)[^46]
+(8)[^55]
 
-(8)[^47]
-
-[^39]: A 39. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
-[^40]: A 40. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^41]: A 40. § (2) bekezdését a 14. § (4) bekezdése hatályon kívül helyezte.
-[^42]: A 40. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^43]: A 40. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^44]: A 40. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^45]: A 40. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^46]: A 40. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^47]: A 40. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 40. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 40. § (2) bekezdését a 14. § (4) bekezdése hatályon kívül helyezte.
+[^50]: A 40. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 40. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 40. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: A 40. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: A 40. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^55]: A 40. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

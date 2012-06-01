@@ -1,3 +1,3 @@
-3. melléklet a 258/2011. (XII. 7.) Korm. rendelethez[^53]
+3. melléklet a 258/2011. (XII. 7.) Korm. rendelethez[^61]
 
-[^53]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

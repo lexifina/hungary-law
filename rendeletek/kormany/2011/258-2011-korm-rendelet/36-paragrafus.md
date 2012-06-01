@@ -1,3 +1,3 @@
-## 35. §[^35]
+36. §[^44]
 
-[^35]: A 35. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^44]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
