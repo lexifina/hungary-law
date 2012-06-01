@@ -6,4 +6,6 @@ b) ha a felszámolási eljárás kezdeményezését követően a bíróság a hi
 
 c) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 27. § (2) bekezdés d) és e) pontja szerinti esetekben az elektronikus ügyelosztást segítő program a csődeljárásban eljárt vagyonfelügyelőt ajánlja fel a felszámolási eljárásban felszámolóként, kivéve, ha a felszámoló már nem szerepel a felszámolók nyilvántartásában,
 
-d) a Cstv. 22. § (1) bekezdés c) pont szerinti esetben az elektronikus ügyelosztást segítő program a kényszervégelszámolási eljárásban a Ctv. 117. § (2) bekezdése szerint kijelölt végelszámolót ajánlja fel a felszámolási eljárásban felszámolóként, kivéve, ha a felszámoló már nem szerepel a felszámolók nyilvántartásában.
+d)[^2]
+
+[^2]: A 4. § d) pontját a 28/2012. (V. 18.) KIM rendelet 7. §-a hatályon kívül helyezte.
