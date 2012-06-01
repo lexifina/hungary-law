@@ -4,4 +4,6 @@
 
 (2) Az 5. § (1) bekezdés a) pontja szerinti esetben a tanúsítvány összefoglaló lapjához az építészeti-műszaki, illetve a kivitelezési dokumentáció energetikai igazoló számítását csatolni kell.
 
-(3) A tanúsítvány nem igazolja és nem helyettesíti az épületre előírt másfajta követelmény teljesítését, és nem terjed ki gazdaságossági számítások, valamint költségvetés elkészítésére.
+(3)[^19] A tanúsítvány nem igazolja és nem helyettesíti az épületre előírt másfajta követelmény teljesítését.
+
+[^19]: A 6. § (3) bekezdése a 105/2012. (V. 30.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.

@@ -1,10 +1,14 @@
 ## A tanúsítás szabályai
 
-3. § (1)[^3] Az 1. § (3) bekezdés a) pontja esetében az energetikai tanúsítványt (a továbbiakban: tanúsítvány) az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendelet (a továbbiakban: Rend.) hatálybalépését követően indult eljárásban kiadott, jogerős építésügyi hatósági engedéllyel megvalósuló új épület építésekor kell elkészíteni.
+3. § (1)[^7] Az 5. § (1) bekezdésében foglalt kivétellel az energetikai tanúsítványt (a továbbiakban: tanúsítvány) alátámasztó számítást az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet (a továbbiakban: Rend.) alapján kell elkészíteni.
 
-(2)[^4] Az (1) bekezdésben meghatározott esetekben a tanúsítvány elkészíttetéséről az építtető gondoskodik az épület tényleges használatbavételéig, illetve legkésőbb az ekkor még hiányzó építési tevékenységek elvégzéséig.
+(2)[^8] Új épület építése esetén a tanúsítvány elkészíttetéséről az építtető gondoskodik a használatbavételi engedély kiadását követő 90 napon belül.
 
-(3) Ellenérték fejében történő tulajdon-átruházás vagy bérbeadás esetén a tanúsítvány elkészítéséről a tulajdonos gondoskodik, és azt a szerződés megkötését megelőzően, de legkésőbb a szerződéskötésig a vevőnek átadja, a bérlőnek bemutatja.
+(3)[^9] Az e rendelet hatálya alá tartozó épületnek vagy önálló rendeltetési egységnek ellenérték fejében történő tulajdon-átruházása vagy bérbeadása tárgyában – a (4) bekezdésben meghatározottak kivételével – készült szerződés tartalmazza
+
+a) annak rögzítését, hogy e rendelet rendelkezései szerint kell-e tanúsítványt készíteni,
+
+b) a vevő vagy bérlő nyilatkozatát arról, hogy a tanúsítványt vagy annak másolatát az eladótól vagy a bérbeadótól átvette.
 
 (4) Nem kell tanúsítványt készíteni
 
@@ -12,9 +16,9 @@ a) a használatba vételi engedélyt (bejelentést) megelőző tulajdon-átruhá
 
 b) ha ugyanabban az ingatlanban résztulajdonnal rendelkező tulajdonos szerez ellenérték fejében további tulajdonrészt;
 
-c) az épület (önálló rendeltetési egység, lakás) egy éves, vagy annál rövidebb idejű bérbeadása;
+c)[^10]
 
-d)[^5] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény hatálya alá tartozó tulajdonosváltás és bérbeadás
+d)[^11] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény hatálya alá tartozó tulajdonosváltás és bérbeadás
 
 ## esetén.
 
@@ -22,6 +26,8 @@ d)[^5] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tud�
 
 (6) A kifüggesztett tanúsítvány mellett feltüntethető az előírt vagy ajánlott belső hőmérséklet és a tényleges belső hőmérséklet értéke, illetve további energetikai adatok, így különösen a megújuló energia felhasználása.
 
-[^3]: A 3. § (1) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 62. § (10) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
-[^4]: A 3. § (2) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 62. § (10) bekezdésének c) pontja szerint módosított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
-[^5]: A 3. § (4) bekezdés d) pontját a 49/2012. (III. 28.) Korm. rendelet 1. §-a iktatta be.
+[^7]: A 3. § (1) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (2) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § (3) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^10]: A 3. § (4) bekezdés c) pontját a 105/2012. (V. 30.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
+[^11]: A 3. § (4) bekezdés d) pontját a 49/2012. (III. 28.) Korm. rendelet 1. §-a iktatta be.

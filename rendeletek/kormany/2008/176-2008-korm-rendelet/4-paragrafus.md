@@ -1,9 +1,22 @@
 4. § (1) A tanúsítványt – a (2)–(4) bekezdésben foglaltak figyelembevételével – az épület egészére kell kiállítani.
 
-(2) A tanúsítvány – a tulajdonos döntése szerint – az 1. § (3) bekezdés b) pontjában meghatározott esetekben kiállítható az épületnek egy önálló rendeltetési egységére (lakására) is.
+(2)[^12] A tanúsítvány – a tulajdonos döntése szerint – az 1. § (3) bekezdés b) pontjában meghatározott esetekben kiállítható az épületnek egy önálló rendeltetési egységére is.
 
-(3) A tanúsítvány az épület egészére állítható ki, ha az épületben levő önálló rendeltetési egységek (lakások) fűtése, szellőzése, és a használati melegvíz szolgáltatása azonos rendszerű vagy egy rendszert alkot. Kiállítható az épület egészére a tanúsítvány akkor is, ha az épület valamennyi eltérő önálló rendeltetési egységéről (lakásáról) készült tanúsítvány rendelkezésre áll.
+(3)[^13] A tanúsítvány az épület egészére állítható ki, ha az épületben levő önálló rendeltetési egységek (lakások) fűtése, szellőzése, és a használati melegvíz szolgáltatása azonos rendszerű vagy egy rendszert alkot. Kiállítható az épület egészére a tanúsítvány akkor is, ha az épület valamennyi eltérő önálló rendeltetési egységéről készült részletes felmérés vagy tanúsítvány rendelkezésre áll.
 
-(4) Az azonos energetikai tulajdonságú önálló rendeltetési egységek (lakások) tanúsításánál az egy önálló rendeltetési egységre (lakásra) készített tanúsítvány alapján a további hasonló rendeltetési egység (lakás) tanúsítványa kiállítható.
+(4)[^14] Önálló rendeltetési egység tanúsítványa kiállítható
+
+a) az épület egészére vonatkozó tanúsítvány alapján, a tanúsítandó önálló rendeltetési egység épületben levő helyzetének, tájolásának és eltérő adottságainak figyelembe vételével,
+
+b) ugyanabban az épületben található, azonos rendeltetésű, elrendezésű és azonos méretű és energetikai jellemzőjű épületelemekkel rendelkező önálló rendeltetési egység tanúsítványa alapján, vagy
+
+c) másik azonos rendeltetésű, elrendezésű és azonos méretű és energiahatékonyságú, azonos épületelemekkel rendelkező épület vagy önálló rendeltetési egység tanúsítványa alapján, ha a tanúsító az azonosságról meggyőződött.
 
 (5) Az építtető, illetve a tulajdonos biztosítja a tanúsítás elvégzéséhez szükséges dokumentumokat, számlákat, a szükség szerinti mérések, ellenőrzések elvégzésének helyszíni feltételeit és a szükséges mértékű közreműködést.
+
+(6)[^15] A tanúsítvány 1. melléklet szerinti összefoglaló lapján az egyéb megjegyzések között fel kell tüntetni, hogy a tanúsítvány a 3. § (1) bekezdése szerinti számítás vagy energiafogyasztási adatok alapján, illetve részletes vagy egyszerűsített módszerrel készült. Amennyiben az egyszerűsített és a részletes módszer felváltva került alkalmazásra, akkor a módszert az egyes részszámításokra vonatkozóan is meg kell határozni.
+
+[^12]: A 4. § (2) bekezdése a 105/2012. (V. 30.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^13]: A 4. § (3) bekezdése a 105/2012. (V. 30.) Korm. rendelet 13. § f) pontja szerint módosított szöveg.
+[^14]: A 4. § (4) bekezdése a 105/2012. (V. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^15]: A 4. § (6) bekezdését a 105/2012. (V. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
