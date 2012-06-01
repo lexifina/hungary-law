@@ -1,4 +1,4 @@
-2. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez[^28]
+2. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez[^35]
 
 A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
@@ -52,4 +52,8 @@ A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
 | 11. | Országos jelentőségű elem beillesztése esetén. | Az országos jelentőségű elem beillesztése esetén a védelmi kockázat felmérése. | Alkotmányvédelmi Hivatal |
 
-[^28]: A 2. számú melléklet a 197/2011. (IX. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+| 12. | Minden esetben. | Környezet-egészségügyi követelmények érvényesítése. | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve |
+
+| 13. | Honvédelmi és katonai célú építmény vagy ingatlan védőterületét vagy működési területét érintő esetben. | A Magyar Honvédség nemzeti és szövetségesi védelmi feladatai biztosíthatók-e. | Honvédelmi Minisztérium Hatósági Hivatal |
+
+[^35]: A 2. számú melléklet a 197/2011. (IX. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 19. §-a szerint módosított szöveg.
