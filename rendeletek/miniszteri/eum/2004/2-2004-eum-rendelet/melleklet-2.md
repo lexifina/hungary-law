@@ -1,893 +1,623 @@
-2. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez
+2. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez[^24]
 
-A működési engedélyek kiadásának alapjául szolgáló egészségügyi szakmák
-
-és kódjaik jegyzéke
+I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi szakmák és kódjaik jegyzéke
 
 1. Az egészségügyi szakmák jegyzéke és a működési engedély szakmai kódja
 
-1.1. Az alábbi szakmai jegyzék alkalmazásánál a kétszámjegyű szakmai kód az egészségügyi szakmai főcsoportot, az alá besorolt négy számjegyű alkódok pedig a főcsoporton belül önállóan engedélyezhető egészségügyi szakmákat jelölik.
+1.1. Az alábbi szakmai jegyzék alkalmazásánál a kétszámjegyű szakmai kód az egészségügyi szakmai főcsoportot, az alá besorolt négy számjegyű alkódok pedig az engedélyezhető egységen belül önállóan engedélyezhető egészségügyi szakmákat jelölik.
 
-1.2. Amennyiben egy egészségügyi szakma több főcsoportot jelölő szakmai kód alatt is nevesítésre került, az ugyanazon szakmai követelmények alapján kiadott működési engedély mindenütt a szakmailag elsődleges főcsoportban alkalmazott kódszámmal kerül jelölésre.
+1.2. Más szakmai főcsoportból a külön jogszabály szerint meghatározottak alapján lehet további szakmát engedélyezni az adott szervezeti egységen belül.
 
-1.3. A –00 végződésű alkódok az adott főcsoport alap-szakképesítésbe sorolható tevékenységek végzésére való általános jogosultságot fejezik ki, a ráépített szakképesítéshez vagy speciális képzettséghez, vizsgához kötött tevékenységek végzésére az önálló alkóddal megjelölt szakmák szolgálnak.
-
-1.4.[^24] A *sze* (szakosodott egység) jelzéssel ellátott kódok a kizárólag az adott szakmára (tevékenységre) fő profilként szakosodott egység jelölésére alkalmazhatók, az adott szakmai tevékenységre más szakmai megnevezés nem használható.
+1.3. A -00 végződésű alkódok az adott főcsoport alap-szakképesítéseibe sorolható tevékenységek végzésére való általános jogosultságot fejezik ki, a ráépített szakképesítéshez vagy speciális képzettséghez, vizsgához kötött tevékenységek végzésére az önálló alkóddal megjelölt szakmák szolgálnak.
 
 01 Belgyógyászat
 
-0100 általános belgyógyászat
+| 0100 | belgyógyászat |
 
-0101 angiológia, phlebológia, lymphológia,
+| 0101 | angiológia, phlebológia, lymphológia |
 
-0102 haematológia
+| 0102 | haematológia |
 
-0112 csontvelő transzplantáció
+|  | 0112 haemopoetikus őssejt transzplantáció |
 
-0103 endokrinológia, anyagcsere és diabetológia
+| 0103 | endokrinológia, anyagcsere és diabetológia |
 
-0113 endokrinológia – *sze*
+|  | 0113 endokrinológia |
 
-0123 diabetológia – *sze*
+|  | 0123 diabetológia |
 
-0104 gasztroenterológia
+| 0104 | gasztroenterológia |
 
-0105 nefrológia
+| 0105 | nefrológia |
 
-0106 geriátria
+| 0106 | geriátria |
 
-0107 belgyógyászati kardiológia
+| 0109 | allergológia és klinikai immunológia |
 
-0108 belgyógyászati tüdőgyógyászat (pulmonológia)
-
-0109 allergológia és klinikai immunológia
-
-0110 haemodialízis – *sze*
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-0505 gyermek-gasztroenterológia – *sze*
-
-2202 belgyógyászati rehabilitáció
-
-2203 gasztroenterológiai rehabilitáció
-
-4603 baleseti belgyógyászat
-
-5305 gasztroenterológiai ultrahan-diagnosztika – *sze*
-
-5412 tüdő és/vagy pajzsmirigy cytológia, cytopatológia – *sze* [kizárólag a 9/1978. (XI. 29.) EüM rendelet 6. §-a, valamint a 39/1978. (EüK. 31.) EüM utasítás 15–16. §-a alapján kiadott szakképesítéssel]
-
-5413 tüdő és/vagy pajzsmirigy aspirációs cytológia – *sze* [kizárólag a 9/1978. (XI. 29.) EüM rendelet 6. §-a, valamint a 39/1978. (EüK. 31.) EüM utasítás 15–16. §-a alapján kiadott szakképesítéssel]
+| 0110 | dialízis |
 
 02 Sebészet
 
-0200 általános sebészet
+| 0200 | sebészet |
 
-0201 esztétikai plasztikai sebészet
+| 0202 | tüdő- és mellkassebészet |
 
-0202 tüdő- és mellkassebészet
+| 0203 | érsebészet |
 
-0203 érsebészet
+| 0204 | idegsebészet |
 
-0204 idegsebészet – *sze*
+|  | 0214 gyermek idegsebészet |
 
-0205 szívsebészet – *sze*
+| 0205 | szívsebészet |
 
-0215 csecsemő- és gyermekszívsebészet – *sze*
+|  | 0215 csecsemő- és gyermekszívsebészet |
 
-0206 proktológia
+| 0207 | ESWL |
 
-0207 ESWL – *sze*
+| 0208 | szerv-transzplantációs sebészet |
 
-0208 szerv-transzplantációs sebészet – *sze*
-
-0209 transzplantációs célú szerv-, szöveteltávolítás agyhalottból
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-0302 kézsebészet
-
-0303 arc- és állcsontszájsebészet
-
-0506 gyermeksebészet – *sze*
-
-03 Traumatológia
-
-0300 általános traumatológia
-
-0301 plasztikai és égési sebészet
-
-0302 kézsebészet
-
-0303 arc- és állcsontszájsebészet
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-2201 mozgásszervi rehabilitáció
-
-9302 katasztrófa-orvostan
-
-5700 általános fizioterápia-gyógytorna
+| 0209 | transzplantációs célú szerv-, szöveteltávolítás agyhalottból |
 
 04 Szülészet-nőgyógyászat
 
-0400 általános szülészet-nőgyógyászat (orvosi)
+| 0400 | szülészet-nőgyógyászat |
 
-0401 terhesgondozás (orvosi)
+| 0403 | In vitro fertilizáció (IVF) |
 
-0402 nőgyógyászati onkológiai szűrés
+| 0404 | intézeten kívüli szülészeti és újszülött ellátás |
 
-0403 In vitro fertilizáció (IVF) – *sze*
+| 0405 | szülészet |
 
-0404 intézeten kívüli szülészeti és újszülött ellátás
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-0507 gyermeknőgyógyászat – *sze*
-
-1404 menopauza és oszteoporózis rendelés – *sze*
-
-2204 nőgyógyászati rehabilitáció
-
-5304 nőgyógyászati ultrahang-diagnosztika – *sze*
-
-6104 átültetési és visszaültetési célú csontvelői, perifériás és köldökvér sejt/őssejt gyűjtés (kizárólag őssejtre vonatkozóan)
+| 0406 | nőgyógyászat |
 
 05 Csecsemő- és gyermekgyógyászat
 
-0500 általános csecsemő- és gyermekgyógyászat
+| 0500 | csecsemő- és gyermekgyógyászat |
 
-0501 neonatológia
+| 0501 | neonatológia |
 
-0502 PIC – *sze*
+| 0502 | PIC |
 
-0503 csecsemő- és gyermekkardiológia
+| 0503 | csecsemő- és gyermekkardiológia |
 
-0504 gyermek-tüdőgyógyászat
+| 0504 | gyermek-tüdőgyógyászat |
 
-0505 gyermek-gasztroenterológia
+| 0505 | gyermek-gasztroenterológia |
 
-0506 gyermeksebészet – *sze*
+| 0506 | gyermeksebészet |
 
-0507 gyermeknőgyógyászat – *sze*
+| 0507 | gyermeknőgyógyászat |
 
-0508 gyermekszemészet
+| 0508 | gyermekszemészet |
 
-0509 csecsemő és gyermek fül-, orr-, gégegyógyászat
+| 0509 | csecsemő és gyermek fül-orr-gégegyógyászat |
 
-0510 gyermekradiológia
+| 0510 | gyermekradiológia |
 
-0511 gyermekneurológia
+| 0511 | gyermekneurológia |
 
-0512 gyermek- és ifjúságpszichiátria
+| 0515 | csecsemő- és gyermekgyógyászati intenzív terápia |
 
-0521 fejlődésneurológia
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-6306 iskola-egészségügy és ifjúság-egészségügy
-
-7102 gyermekpszichológia
-
-7904 anyatejgyűjtő állomás, anyatejgyűjtés
+| 0521 | fejlődésneurológia |
 
 06 Fül-orr-gégegyógyászat
 
-0600 általános fül-orr-gégegyógyászat
+| 0600 | fül-orr-gégegyógyászat |
 
-0601 audiológia
+| 0601 | audiológia |
 
-0602 foniátria
+| 0602 | foniátria |
 
-0603 otoneurológia
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-0509 csecsemő és gyermek fül-, orr-, gégegyógyászat
+| 0603 | otoneurológia |
 
 07 Szemészet
 
-0700 általános szemészet
+| 0700 | szemészet |
 
-0701 szaruhártya-átültetés – *sze*
+| 0701 | szaruhártya-átültetés |
 
-0702 transzplantációs célú szaruhártya-eltávolítás holttestből
+| 0702 | transzplantációs célú szaruhártya-eltávolítás agyhalottból |
 
-0703 szakorvosi látásvizsgálat, szemüvegrendelés – *sze*
+| 0703 | szakorvosi látásvizsgálat, szemüvegrendelés |
 
-0704 optometria (nem orvosi szakképesítéssel)
+| 0704 | optometria (nem orvosi szakképesítéssel) |
 
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
+08 Bőrgyógyászat
 
-0508 gyermekszemészet
-
-08 Bőrgyógyászat és nemibeteg-ellátás
-
-0800 általános bőr- és nemibeteg-ellátás
-
-0801 bőrgyógyászat
-
-0802 bőrgyógyászati allergológia
-
-0803 nemibeteg-gondozás
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-1601 AIDS ellátás és gondozás – *sze*
-
-1602 HIV/AIDS szűrés (önkéntes és külön jogszabály alapján kötelező) – *sze*
+| 0800 | bőr- és nemibeteg-ellátás |
 
 09 Neurológia
 
-0900 általános neurológia
+| 0900 | neurológia |
 
-0901 stroke ellátás
+| 0901 | stroke ellátás |
 
-0902 fejfájás szakrendelés – *sze*
+| 0903 | neurológiai rehabilitáció |
 
-0903 neurológiai rehabilitáció
+| 0904 | klinikai neurofiziológia |
 
-0904 EEG és EMG diagnosztika – *sze*
+| 0905 | alvásmedicina |
 
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
+10 Ortopédia-traumatológia
 
-0204 idegsebészet – *sze*
+| 1000 | ortopédia |
 
-0511 gyermekneurológia
+| 1001 | gerincsebészet |
 
-5405 neuropatológia – *sze*
+| 1002 | traumatológia |
 
-5700 általános fizioterápia-gyógytorna
-
-10 Ortopédia
-
-1000 ortopédia
-
-1001 gerincsebészet
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-0302 kézsebészet
-
-2201 mozgásszervi rehabilitáció (orvosi és más egészségügyi szakképesítéssel)
-
-5700 általános fizioterápia-gyógytorna
+| 1003 | kézsebészet |
 
 11 Urológia
 
-1100 urológia
+| 1100 | urológia |
 
-1101 andrológia
+| 1101 | andrológia |
 
-1102 urodinamia
+| 1102 | urodinamia |
 
-1103 neuro-urológia
+| 1103 | neuro-urológia |
 
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
+12 Klinikai onkológia
 
-0207 ESWL – *sze*
+| 1200 | klinikai onkológia |
 
-12 Onkológia
-
-1200 klinikai onkológia
-
-1201 sugárterápia, onkoradiológia
-
-1202 onkológiai szűrés – *sze* (a szervezett népegészségügyi onkológiai szűrővizsgálati programban működő szolgáltatók)
-
-1203 onkológiai gondozás
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-5402 cytológia, cytopatológia (orvosi és más egészségügyi szakképesítéssel)
-
-5403 aspirációs cytológia
-
-7306 hospice (orvosi és más egészségügyi szakképesítéssel) – *sze*
+| 1201 | sugárterápia |
 
 13 Fogászati ellátás
 
-1300 fogászati ellátás (ideértve a fogászati alapellátást is)
+| 1300 | fogászati ellátás |
 
-1301 dento-alveoláris sebészet (szájsebészet)
+| 1301 | dento-alveoláris sebészet |
 
-1302 fogszabályozás
+| 1302 | fogszabályozás |
 
-1303 parodontológia
+| 1303 | parodontológia |
 
-1304 gyermekfogászat
+| 1304 | gyermekfogászat |
 
-1305 iskolafogászat
+| 1305 | iskolafogászat |
 
-1306 fogászati röntgen
+| 1306 | fogászati röntgen |
 
-1307 klinikai fogászati higiénia
+| 1307 | klinikai fogászati higiénia |
 
-1308 konzerváló fogászat, fogpótlástan
+| 1308 | konzerváló fogászat, fogpótlástan |
 
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-0303 arc- és állcsontszájsebészet
+| 1309 | általános anesztéziában végzett fogászati ellátás |
 
 14 Reumatológia
 
-1400 reumatológia és fizioterápia
+| 1400 | reumatológia |
 
-1401 reumatológia
+| 1402 | fizioterápia |
 
-1402 fizioterápia (orvosi szakképesítéssel)
-
-1404 menopauza és oszteoporózis rendelés – *sze*
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-0109 allergológia és klinikai immunológia
-
-5700 általános fizioterápia-gyógytorna
-
-5702 mechanoterápiás eljárások
-
-5711 gyógytorna
-
-5712 gyógymasszázs
-
-5722 fizioterápia (asszisztensi tevékenységként)
-
-6501 radioizotópos terápia
+| 1404 | menopauza és oszteoporózis rendelés |
 
 15 Aneszteziológiai és intenzív betegellátás
 
-1500 aneszteziológia és intenzív terápia
+| 1501 | aneszteziológia |
 
-1501 aneszteziológia
+| 1502 | intenzív ellátás |
 
-1502 intenzív ellátás
+| 1503 | fájdalomterápia |
 
-1503 fájdalomterápia – *sze*
+| 1504 | tartós lélegeztetés |
 
 16 Infektológia
 
-1600 fertőzőbeteg-ellátás, infektológia
+| 1600 | infektológia |
 
-1601 AIDS ellátás és gondozás – *sze*
+| 1601 | AIDS beteg ellátás |
 
-1602 HIV/AIDS szűrés (önkéntes és külön jogszabály alapján kötelező) – *sze*
+| 1602 | HIV/AIDS szűrés (önkéntes és külön jogszabály alapján kötelező) |
 
-1603 trópusi betegségek ellátása
+| 1603 | trópusi betegségek ellátása |
 
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
+17 Arc-, állcsont- szájsebészet
 
-1901 tüdőgondozás
-
-0803 nemibeteg-gondozás
+| 1700 | arc-, állcsont-szájsebészet |
 
 18 Pszichiátria
 
-1800 pszichiátria
+| 1800 | pszichiátria |
 
-1801 addiktológia
+| 1801 | addiktológia |
 
-1811 alkohológia
+| 1804 | pszichiátriai rehabilitáció |
 
-1821 drogbeteg-ellátás
+| 1805 | pszichoterápia |
 
-1831 egyéb szenvedélybetegségek ellátása (pl. játékszenvedély)
-
-1803 pszichiátriai gondozás
-
-1804 pszichiátriai rehabilitáció
-
-1805 pszichoterápia (szakorvosi képesítéssel)
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-0904 EEG és EMG diagnosztika – *sze*
-
-0512 gyermek- és ifjúságpszichiátria
-
-7101 klinikai szakpszichológia
-
-7104 pszichoterápia
-
-7302 pszichiátriai szakápolás és mentálhigiéné
-
-8047 fülakupunktúrás addiktológiai ellátás
+| 1806 | addiktológiai rehabilitáció |
 
 19 Tüdőgyógyászat (pulmonológia)
 
-1900 tüdőgyógyászat
+| 1900 | tüdőgyógyászat |
 
-1901 tüdőgondozás
+| 1903 | tüdőgyógyászati és légzésrehabilitáció |
 
-1902 pulmonológiai allergológia és immunológia
+| 1904 | tüdőszűrés (ideértve az önálló felvételkészítést is) |
 
-1903 pulmonológiai és légzésrehabilitáció
+20 Plasztikai és égéssebészet
 
-1904 tüdőszűrés (ideértve az önálló felvételkészítést is)
+| 2000 | plasztikai helyreállító és esztétikai sebészet |
 
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
+| 2001 | égéssebészet |
 
-0202 tüdő- és mellkassebészet
+| 2002 | gyermek plasztikai és égéssebészet |
 
-5412 tüdő és/vagy pajzsmirigy cytológia, cytopatológia – *sze* [kizárólag a 9/1978. (XI. 29.) EüM rendelet 6. §-a, valamint a 39/1978. (EüK. 31.) EüM utasítás 15–16. §-a alapján kiadott szakképesítéssel]
+22 Rehabilitációs medicina
 
-5413 tüdő és/vagy pajzsmirigy aspirációs cytológia – *sze* [kizárólag a 9/1978. (XI. 29.) EüM rendelet 6. §-a, valamint a 39/1978. (EüK. 31.) EüM utasítás 15–16. §-a alapján kiadott szakképesítéssel]
+| 2201 | mozgásszervi rehabilitáció |
 
-22 Orvosi rehabilitáció
+| 2202 | belgyógyászati rehabilitáció |
 
-2201 mozgásszervi rehabilitáció (rehabilitációs szakorvos javallata szerint)
+| 2203 | gasztroenterológiai rehabilitáció |
 
-2202 belgyógyászati rehabilitáció
+| 2204 | nőgyógyászati rehabilitáció |
 
-2203 gasztroenterológiai rehabilitáció
+| 2205 | gyermek rehabilitáció |
 
-2204 nőgyógyászati rehabilitáció
+| 2206 | súlyos agysérültek rehabilitációja |
 
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
+| 2207 | gerincvelősérültek rehabilitációja |
 
-4003 kardiológiai rehabilitáció
+| 2208 | politraumatizáltak, égésbetegek és szeptikus sebészeti betegek rehabilitációja |
 
-0903 neurológiai rehabilitáció
+| 2209 | súlyos központi idegrendszeri sérültek, politraumatizáltak és égésbetegek rehabilitációja a gyermekkorban |
 
-1402 fizioterápia (orvosi szakképesítéssel)
+23 Gyermek- és ifjúságpszichiátria
 
-1804 pszichiátriai rehabilitáció
+| 2300 | gyermek- és ifjúságpszichiátria |
 
-1903 pulmonológiai és légzésrehabilitáció
+| 2301 | gyermek- és ifjúságpszichiátriai rehabilitáció |
 
-7204 gyógyúszás (külön jogszabályban meghatározott képesítéssel)
+| 2302 | gyermek- és ifjúságaddiktológia |
+
+| 2303 | gyermek- és ifjúságaddiktológiai rehabilitáció |
 
 25 Foglalkozás-egészségügyi ellátás
 
-2501 foglalkozás-egészségügyi alapellátás
+| 2501 | foglalkozás-egészségügyi alapellátás |
 
-2502 foglalkozás-egészségügyi szakellátás
+| 2502 | foglalkozás-egészségügyi szakellátás |
 
-2503 munkahigiénés tevékenység
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-7301 szakápolás a foglalkozás-egészségügyben
+| 2503 | munkahigiénés tevékenység |
 
 26 Sportorvoslás
 
-2602 sportszakorvosi ellátás
+| 2602 | sportszakorvosi ellátás |
 
 40 Kardiológia
 
-4000 általános kardiológia (szakorvosi szakképesítéssel)
+| 4000 | kardiológia |
 
-4001 invazív kardiológia (haemodinamika)
+| 4003 | kardiológiai rehabilitáció |
 
-4002 kardiológiai őrző tevékenység
+46 Sürgősségi betegellátás
 
-4003 kardiológiai rehabilitáció
+| 4601 | központi ügyelet |
 
-4004 echokardiográfiai diagnosztika
+| 4602 | sürgősségi betegellátó egységben szervezett szakellátás |
 
-4005 EKG és Holterdiagnosztika
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-0205 szívsebészet – *sze*
-
-0215 csecsemő- és gyermekszívsebészet – *sze*
-
-0503 csecsemő- és gyermekkardiológia
-
-46 Sürgősségi betegellátás, oxyológia
-
-4601 központi ügyelet
-
-4602 sürgősségi betegellátó egységben szervezett ellátás (SO1) – *sze*
-
-4603 baleseti belgyógyászat
-
-4604 sürgősségi betegellátó egységben szervezett ellátás (SO2) – *sze*
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-9302 katasztrófa-orvostan
+| 4603 | klinikai toxikológia |
 
 50 Laboratóriumi diagnosztika
 
-5000 általános laboratóriumi diagnosztika
+| 5000 | orvosi laboratóriumi diagnosztika |
 
-5001 általános kémiai laboratóriumi diagnosztika
+| 5002 | haematológiai laboratóriumi diagnosztika |
 
-5002 haematológiai laboratóriumi diagnosztika
+| 5003 | mikrobiológiai laboratóriumi diagnosztika 5013 járványügyi mikrobiológiai diagnosztika |
 
-5003 mikrobiológiai laboratóriumi diagnosztika
+| 5006 | molekuláris genetikai laboratóriumi diagnosztika |
 
-5004 biokémiai laboratóriumi diagnosztika
-
-5005 immungenetikai laboratóriumi diagnosztika
-
-5006 genetikai laboratóriumi diagnosztika
-
-5007 izotóp laboratóriumi diagnosztika
-
-5008 immunológiai laboratóriumi diagnosztika
+| 5008 | immunológiai laboratóriumi diagnosztika |
 
 51 Képalkotó diagnosztika és radiológiai terápia: röntgendiagnosztika és -terápia
 
-5100 általános röntgendiagnosztika
+| 5100 | röntgendiagnosztika |
 
-5101 röntgenterápia (régi szolgáltatókra vonatkozik)
+| 5102 | mammográfia |
 
-5102 mammográfiás szűrés és diagnosztika
+| 5103 | angiográfiás diagnosztika |
 
-5103 angiográfiás diagnosztika
+| 5108 | CT diagnosztika |
 
-5104 intervenciós radiológia
+| 5109 | MRI diagnosztika |
 
-5105 neuroradiológia
+52 Intervenciós radiológia
 
-5106 fogászati röntgendiagnosztika (az 1306-ba nem sorolható)
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-1904 tüdőszűrés (ideértve az önálló felvételkészítést is)
-
-4001 invazív kardiológia (haemodinamika)
-
-52 Képalkotó diagnosztika és radiológiai terápia: tomográfia
-
-5201 CT
-
-5202 MRI
+| 5203 5204 5205 5206 | vaszkuláris intervenciós radiológia intervenciós onkoradiológia intervenciós neuroradiológia egyéb intervenciós radiológia |
 
 53 Képalkotó diagnosztika és radiológiai terápia: ultrahang-diagnosztika és -terápia
 
-5301 ultrahang-diagnosztika
+| 5301 | teljeskörű ultrahang-diagnosztika |
 
-5302 ultrahang-terápia
+| 5303 | echokardiográfia |
 
-5303 echokardiográfia
+| 5304 | szülészeti és nőgyógyászati ultrahang-diagnosztika |
 
-5304 nőgyógyászati ultrahang-diagnosztika – *sze*
+| 5305 | gasztroenterológiai ultrahang-diagnosztika |
 
-5305 gasztroenterológiai ultrahang-diagnosztika – *sze*
+| 5306 | szemészeti ultrahang diagnosztika |
+
+| 5307 | neurológiai ultrahang diagnosztika |
+
+| 5308 | urológiai ultrahang diagnosztika |
 
 54 Patológia és kórszövettan
 
-5400 általános kórbonctan és kórszövettan
+| 5400 | kórbonctan és kórszövettan |
 
-5401 szövettan, kórszövettan
+| 5401 | szövettan, kórszövettan |
 
-5402 cytológia, cytopatológia (orvosi és más egészségügyi szakképesítéssel)
+| 5402 | cytológia, cytopatológia 5412 tüdő és/vagy pajzsmirigy cytológia, cytopatológia (patológiai szakvizsgára ráépített cytopatológiai szakvizsgával) |
 
-5412 tüdő és/vagy pajzsmirigy cytológia, cytopatológia – *sze* [kizárólag a 9/1978. (XI. 29.) EüM rendelet 6. §-a, valamint a 39/1978. (EüK. 31.) EüM utasítás 15–16. §-a alapján kiadott szakképesítéssel]
+| 5403 | aspirációs cytológia |
 
-5403 aspirációs cytológia
+|  | 5413 tüdő és/vagy pajzsmirigy aspirációs cytológia (patológiai szakvizsgára ráépített cytopatológiai szakvizsgával) |
 
-5413 tüdő és/vagy pajzsmirigy aspirációs cytológia – *sze* [kizárólag a 9/1978. (XI. 29.) EüM rendelet 6. §-a, valamint a 39/1978. (EüK. 31.) EüM utasítás 15–16. §-a alapján kiadott szakképesítéssel]
+| 5404 | immunhisztológia |
 
-5404 immunhisztológia
+| 5405 | neuropatológia |
 
-5405 neuropatológia – *sze*
+| 5406 | halottkezelés és halottkonzerválás (nem orvosi szakképesítéssel) |
 
-5406 halottkezelés és halottkonzerválás (nem orvosi szakképesítéssel)
+| 5407 | transzplantációs célú szerv-, szöveteltávolítás holttestből |
 
-5407 transzplantációs célú szerv-, szöveteltávolítás holttestből
+56 Speciális terápia
 
-56 Speciális diagnosztika
+| 5603 | szén-dioxid gázzal végzett terápia |
 
-5601 thermographia
-
-5602 lézerdiagnosztika
+| 5604 | hiperbárikus oxigén terápia |
 
 57 Fizioterápia
 
-5700 általános fizioterápia-gyógytorna
+| 5700 | fizioterápia-gyógytorna |
 
-5702 mechanoterápiás eljárások
+| 5703 | hidroterápia |
 
-5703 hydroterápia
+| 5704 | elektroterápia |
 
-5704 elektroterápia
+| 5706 | balneoterápia (gyógyvíz alkalmazásával végzett eljárások) |
 
-5705 aeroterápia (egyéb pulmonológiai és légzésrehabilitációs ellátásoktól független ellátásban)
+| 5707 | thermoterápia (meleg- és hideghatású kezelések) |
 
-5706 balneoterápia (gyógyvíz alkalmazásával végzett eljárások)
+| 5708 | magneto-, fototerápia |
 
-5707 thermoterápia
+| 5710 | víz alatti gyógytorna |
 
-5708 magneto-, fototerápia (lézerterápia)
+| 5711 | gyógytorna |
 
-5711 gyógytorna
+| 5712 | gyógymasszázs (gyógymasszőri végzettséghez kötött) |
 
-5712 gyógymasszázs
+| 5722 | fizikoterápia/fizioterápia (asszisztensi tevékenységként) |
 
-5722 fizioterápia (asszisztensi tevékenységként)
+60 Szövet- és sejtbanki tevékenység
 
-61 Transzfuziológia és szövetbanki tevékenység
+| 6001 | szövetbanki tevékenység |
 
-6101 transzfuziológia
+| 6002 | sejtbanki tevékenység |
 
-6102 véradószolgálat – *sze*
+| 6003 | köldökzsinórvér/darab, köldökvérőssejt gyűjtés 6013 levétel 6023 szállítás |
 
-6103 szövet- és sejtbanki tevékenység – *sze*
+61 Transzfúziológia és véradó szolgálat
 
-6104 átültetési és visszaültetési célú csontvelői, perifériás és köldökvér sejt/őssejt gyűjtés – *sze*
+| 6101 | transzfúziológia |
+
+| 6102 | véradószolgálat |
 
 62 Mentés és betegszállítás
 
-6200 általános mentés
+| 6200 | mentés |
 
-6201 koraszülöttmentés és -szállítás
+| 6201 | koraszülöttmentés és -szállítás |
 
-6202 mozgóőrség (orvosi vagy mentőtiszti)
+| 6203 | őrzött betegszállítás |
 
-6203 őrzött betegszállítás
+| 6206 | betegszállítás |
 
-6205 mentőtiszti tevékenység (nem orvosi szakképesítéssel)
+| 6208 | rendezvény egészségügyi biztosítása |
 
-6206 betegszállítás ápolóval (nem felsőfokú egészségügyi szakképesítéssel)
+| 6209 | nemzetközi repülőtér egészségügyi biztosítása |
 
-6207 betegszállítás felügyelet nélkül (nem szakképesítéssel)
+| 6210 | szervátültetéssel kapcsolatos mentési feladat |
 
 63 Háziorvosi ellátás
 
-6301 háziorvosi ellátás
+| 6301 | háziorvosi ellátás |
 
-6302 házi gyermekorvosi ellátás
+| 6302 | házi gyermekorvosi ellátás |
 
-6303 felnőtt és gyermek (vegyes) háziorvosi ellátás
+| 6303 | felnőtt és gyermek (vegyes) háziorvosi ellátás |
 
-6304 háziorvosi ügyeleti ellátás
+| 6306 | iskola- és ifjúságorvoslás |
 
-6305 házi gyermekorvosi ügyeleti ellátás
+64 Rend- és honvédelmi alapellátás
 
-6306 iskola-egészségügy és ifjúság-egészségügy
+| 6401 | rend- és honvédelmi dolgozók ellátása |
 
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-7307 körzeti közösségi szakápolás
-
-7901 körzeti védőnői ellátás
-
-7902 iskolai védőnői ellátás
-
-64 Általános orvosi ellátás
-
-6400 általános orvosi ellátás
+| 6402 | fogvatartottak ellátása |
 
 65 Nukleáris medicina (izotópdiagnosztika és terápia)
 
-6500 izotópdiagnosztika és terápia
+| 6500 | izotópdiagnosztika |
 
-6501 radioizotópos terápia
+| 6501 | radioizotópos terápia |
 
-6502 izotópdiagnosztika
+| 6503 | PET-CT |
 
-6503 PET
+| 6504 | SPECT-CT |
 
-67 Orvosi genetika (humángenetika)
+67 Klinikai genetika (humángenetika)
 
-6700 klinikai genetika
+| 6700 | klinikai genetika |
 
-6701 genetikai tanácsadás
+| 6701 | genetikai tanácsadás |
 
-6702 biobanki tevékenység (gyűjtés és tárolás)
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-5006 genetikai laboratóriumi diagnosztika
+| 6702 | biobanki tevékenység (gyűjtés és tárolás) |
 
 70 Klinikai farmakológia és intézeti gyógyszerellátás
 
-7001 klinikai farmakológia
+| 7001 | klinikai farmakológia |
 
-7002 intézeti gyógyszerellátás (külön jogszabályban foglalt feltételek alapján)
+| 7002 | intézeti gyógyszerellátás (külön jogszabályban foglalt feltételek alapján) |
 
 71 Pszichológia (pszichológusi, illetve klinikai szakpszichológusi szakképesítéssel)
 
-7100 általános pszichológia
+| 7100 | pszichológia |
 
-7101 klinikai szakpszichológia
+| 7101 | klinikai és mentálhigiénés szakpszichológia |
 
-7102 gyermekpszichológia
-
-7103 munkapszichológia
-
-7104 pszichoterápia
-
-7105 szexológia
+| 7104 | pszichoterápia (klinikai szakpszichológusi képesítéssel) |
 
 72 Pedagógiai végzettséggel ellátható egészségügyi szakmák
 
-7201 logopédia
+| 7201 | logopédia |
 
-7202 gyógypedagógia (és annak szakágai)
+| 7202 | gyógypedagógia (és annak szakágai) |
 
-7203 konduktori tevékenység
+| 7203 | konduktori tevékenység |
 
-7204 gyógyúszás (külön jogszabályban meghatározott képesítésekkel)
+| 7204 | gyógyúszás (külön jogszabályban meghatározott képesítésekkel) |
 
 73 Betegápolás
 
-7301 szakápolás a foglalkozás-egészségügyben
+| 7301 | szakápolás a foglalkozás-egészségügyben |
 
-7302 pszichiátriai szakápolás és mentálhigiéné
+| 7302 | pszichiátriai szakápolás és mentálhigiéné |
 
-7303 csecsemő- és gyermekszakápolás
+| 7303 | csecsemő- és gyermekszakápolás |
 
-7304 otthoni szakápolás
+| 7304 | otthoni szakápolás |
 
-7305 szakápolás (szakápolói szakképesítéssel külön jogszabályban meghatározottak alapján)
+| 7305 | szakápolás (egészségügyi diplomával és/vagy szakápolói szakképesítéssel külön jogszabályban meghatározottak alapján) |
 
-7306 hospice (orvosi és más egészségügyi szakképesítéssel)
+| 7306 | felnőtt hospice-palliatív ellátás |
 
-7307 körzeti közösségi szakápolás
+| 7307 | körzeti közösségi szakápolás |
 
-7308 szülésznői ellátás (intézeti)
+| 7308 | szülésznői ellátás (intézeti) |
 
-7309 intézeten kívüli szülésznői ellátás
+| 7309 | intézeten kívüli szülésznői ellátás |
+
+| 7310 | gyermek palliatív ellátás |
 
 76 Dietetika
 
-7600 dietetika
+| 7600 | dietetika |
 
 79 Védőnői ellátás
 
-7901 körzeti védőnői ellátás
+| 7901 | területi védőnői ellátás |
 
-7902 iskolai védőnői ellátás
+| 7902 | iskolai védőnői ellátás |
 
-7903 családvédelmi szolgálatnál nyújtott ellátás
+| 7903 | családvédelmi szolgálatnál nyújtott ellátás |
 
-7904 anyatejgyűjtő állomás, anyatejgyűjtés
+| 7904 | anyatejgyűjtő állomás, anyatejgyűjtés |
 
-80 Kiegészítő gyógyászati tevékenységek (külön jogszabály alapján meghatározott képesítéssel és tartalommal)
+80 Kiegészítő gyógyászati tevékenységek (külön jogszabály alapján meghatározott képesítéssel és tartalommal) – nem konvencionális gyógyászati módok
 
-– nem konvencionális gyógyászati módok (csak orvos által végezhető):
+a) orvos által végezhető gyógyászati módok:
 
-8011 homeopátia
+| 8011 8012 8021 | homeopátia hagyományos kínai orvoslás (ezen alapuló egyéb technikák) manuálterápia (gyógytornász/gyógytornász-fizioterapeuta által is végezhető) |
 
-8021 manuálterápia
+| 8022 8023 | indiai (ájurvédikus gyógyászati eljárások) méregtelenítő módok |
 
-8031 biológiai fogorvoslás
+| 8032 8004 8041 | tibeti gyógyító eljárások pszichológiai eljárások neurálterápia |
 
-8041 neurálterápiás módok
+b) szakképesítéssel végezhető tevékenységek:
 
-– nemzeti (népi) gyógyászati módok (csak orvos által végezhető):
+| 8016 | akupresszúra |
 
-8012 hagyományos kínai orvoslás (ezen alapuló egyéb technikák)
+| 8026 | keleti mozgás- és masszázsterápia |
 
-8022 indiai (Ájurvédikus gyógyászati eljárások)
+| 8036 | életmód oktatás és tanácsadás |
 
-8032 tibeti gyógyítóeljárások
+| 8046 | reflexzóna terápia |
 
-– biokémiai módok (csak orvos által végezhető):
+c) vizsgával záruló képzésben szerzett képesítéssel végezhető tevékenységek:
 
-8023 méregtelenítő módok
+| 8017 | kiegészítő fizioterápiás módszerek |
 
-– pszichológiai eljárások (csak orvos által végezhető):
+| 8037 | fitoterápia |
 
-8004 pszichológiai eljárások (csak orvos által végezhető)
+| 8047 | fülakupunktúrás addiktológiai eljárások |
 
-– szakképesítéssel végezhető tevékenységek:
+| 8057 | kineziológiai módszerek |
 
-8016 akupresszúra
-
-8026 keleti mozgás- és masszázsterápia
-
-8036 életmód oktatás és tanácsadás
-
-8046 reflexzóna terápia
-
-– vizsgával záruló képzésben szerzett képesítéssel végezhető tevékenységek:
-
-8017 kiegészítő fizioterápiás módszerek
-
-8037 fitoterápia
-
-8047 fülakupunktúrás addiktológiai eljárások
-
-8057 kineziológiai módszerek
-
-8067 szemtréning eljárások
+| 8067 | szemtréning eljárások |
 
 93 Honvédorvostan és katasztrófa-orvostan
 
-9301 honvédorvostan
+| 9301 | honvédorvostan |
 
-9302 katasztrófa-orvostan
+| 9302 | katasztrófa-orvostan |
 
 94 Megelőző orvostan és népegészségtan
 
-9400 megelőző orvostan és népegészségtan
+| 9400 | megelőző orvostan és népegészségtan |
 
-9401 sugáregészségtan
+| 9401 | sugáregészségtan |
 
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-2503 munkahigiénés tevékenység
-
-6701 genetikai tanácsadás és gondozás
-
-6306 iskola-egészségügy és ifjúság-egészségügy
-
-7903 családvédelmi szolgálatnál nyújtott ellátás
-
-7904 anyatejgyűjtő állomás, anyatejgyűjtés
+| 9402 | nemzetközi oltóhely és tanácsadás |
 
 95 Igazságügyi orvostan
 
-9500 igazságügyi orvostan
+| 9500 | igazságügyi orvostan |
 
-9501 igazságügyi pszichiátria
+| 9501 | igazságügyi pszichiátria |
 
-9502 igazságügyi toxikológia
+| 9502 | igazságügyi toxikológia |
 
-9503 igazságügyi pszichológia
+| 9503 | igazságügyi pszichológia |
 
-9504 egészségbiztosítási orvosszakértés
+| 9504 | egészségbiztosítási orvostan |
 
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
+| 9505 | igazságügyi kórbonctan (kivéve a szakértői tevékenység) |
 
-5000 általános laboratóriumi diagnosztika
-
-5001 általános kémiai laboratóriumi diagnosztika
-
-5004 biokémiai laboratóriumi diagnosztika
-
-5005 immungenetikai laboratóriumi diagnosztika
-
-5006 genetikai laboratóriumi diagnosztika
-
-5400 általános kórbonctan és kórszövettan
-
-5401 szövettan, kórszövettan
-
-5406 halottkezelés és halottkonzerválás (nem orvosi szakképesítéssel)
-
-5407 transzplantációs célú szerv-, szöveteltávolítás holttestből
+| 9506 | igazságügyi genetika |
 
 97 Repülőorvostan
 
-9700 repülőorvostan
+| 9700 | repülőorvostan |
 
 GYS Gyógyászati segédeszközökkel kapcsolatos tevékenységek
 
-GYS1 gyógyászati segédeszköz forgalmazás (önálló üzletben)
+| GYS1 | gyógyászati segédeszköz forgalmazás (önálló üzletben) |
 
-GYS2 gyógyászati segédeszköz forgalmazás (fióküzletben)
+| GYS2 | gyógyászati segédeszköz forgalmazás (fióküzletben) |
 
-GYS3 gyógyászati segédeszköz forgalmazás (egyedi gyártóműhellyel)
+| GYS3 | gyógyászati segédeszköz forgalmazás (egyedi gyártóműhellyel) |
 
-GYS4 ortopéd cipészet
+| GYS4 | ortopéd cipészet |
 
-GYS5 fogtechnika
+| GYS5 | fogtechnika |
 
-GYS6 gyógyászati segédeszköz kölcsönzés
+| GYS6 | gyógyászati segédeszköz kölcsönzés |
 
-GYS7 gyógyászati segédeszköz javítás
-
-Más elsődleges szakmai főcsoportba sorolt, e főcsoportban is engedélyezhető szakmák:
-
-0703 szakorvosi látásvizsgálat, szemüvegrendelés – *sze*
-
-0704 optometria (nem orvosi szakképesítéssel)
+| GYS7 | gyógyászati segédeszköz javítás |
 
 2. A szakmai jegyzék szerint kiadott működési engedélyekben az 1. pont alatti szakmai kódok mellett a tevékenység felelős szakmai irányítójának szakképesítése szerinti szolgáltatási típust a következők szerint kell feltüntetni:
 
-– 1-es kódot kell alkalmazni, amennyiben a működési engedély orvosi feladatra irányul,
+a) 1-es kódot kell alkalmazni, amennyiben a működési engedély orvosi feladatra irányul,
 
-– 2-es kódot kell alkalmazni, amennyiben a működési engedély fogorvosi feladatra irányul,
+b) 2-es kódot kell alkalmazni, amennyiben a működési engedély fogorvosi feladatra irányul,
 
-– 3-as kódot kell alkalmazni, amennyiben a működési engedély gyógyszerészi feladatra irányul,
+c) 3-as kódot kell alkalmazni, amennyiben a működési engedély gyógyszerészi feladatra irányul,
 
-– 4-es kódot kell alkalmazni, amennyiben a működési engedély egyéb felsőfokú egészségügyi szakképesítéssel ellátható feladatra irányul,
+d) 4-es kódot kell alkalmazni, amennyiben a működési engedély egyéb felsőfokú egészségügyi szakképesítéssel ellátható feladatra irányul,
 
-– 5-ös kódot kell alkalmazni, amennyiben a működési engedély középfokú egészségügyi szakképesítéssel ellátható feladatra irányul,
+e) 5-ös kódot kell alkalmazni, amennyiben a működési engedély középfokú egészségügyi szakképesítéssel ellátható feladatra irányul,
 
-– 6-os kódot kell alkalmazni, amennyiben a működési engedély alapfokú egészségügyi szakképesítéssel ellátható feladatra irányul,
+f) 6-os kódot kell alkalmazni, amennyiben a működési engedély alapfokú egészségügyi szakképesítéssel ellátható feladatra irányul,
 
-– 7-es kódot kell alkalmazni, amennyiben a működési engedély az adott egészségügyi szakmára a külön jogszabályban előírt bármely egészségügyi szakképesítéssel ellátható feladatra irányul,
+g) 7-es kódot kell alkalmazni, amennyiben a működési engedély az adott egészségügyi szakmára a külön jogszabályban előírt bármely egészségügyi szakképesítéssel ellátható feladatra irányul,
 
-– 8-as kódot kell alkalmazni, amennyiben a működési engedély az adott egészségügyi szakmára a külön jogszabályban előírt nem egészségügyi felsőfokú szakképesítéssel ellátható feladatra irányul.
+h) 8-as kódot kell alkalmazni, amennyiben a működési engedély az adott egészségügyi szakmára a külön jogszabályban előírt nem egészségügyi felsőfokú szakképesítéssel ellátható feladatra irányul.
 
-[^24]: A 2. számú melléklet 1.4. pontja a 31/2008. (VII. 29.) EüM rendelet 1. §-a, a 8/2011. (III. 21.) NEFMI rendelet 3. §-a szerint módosított szöveg.
+II. A működési engedélyek kiadásának alapjául szolgáló ellátási formák jegyzéke
+
+[^24]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított szöveg.
