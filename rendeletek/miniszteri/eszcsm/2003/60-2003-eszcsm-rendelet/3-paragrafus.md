@@ -8,7 +8,7 @@ aa) az adott egészségügyi szolgáltatásra előírt tárgyi feltételek haszn
 
 ab) az aa) pontban foglaltakon túl rendelkezésre áll a beteg fektetésére alkalmas vizsgálóágy,
 
-ac) a beteg-ellátását végző egészségügyi dolgozó számára a kézmosási, illetve fertőtlenítési lehetőség és a szükséges bútorzat biztosított;
+ac)[^4] a beteg-ellátását végző egészségügyi dolgozó számára a kézmosási, illetve kézfertőtlenítési lehetőség és a szükséges bútorzat biztosított;
 
 b) a rendelőhelyiséggel közvetlen kapcsolatban lévő, vagy azon belül elkülönített öltöző területet, kivéve, ha az ellátás jellegéből adódóan a beteg fizikális vizsgálata nem szükséges;
 
@@ -18,19 +18,16 @@ d) kézmosási lehetőséggel ellátott mellékhelyiséget;
 
 e) az egészségügyi dokumentációnak az egészségügyi adatokra vonatkozó szabályok szerinti tárolását, illetve kezelését.
 
-(2) Az (1) bekezdésben foglaltakat nem kell biztosítani, amennyiben az egészségügyi szolgáltató kizárólag
+(2)[^5] Az (1) bekezdés a) pont aa) és ac) alpontjában, valamint e) pontjában foglaltakat akkor is biztosítani kell, ha az egészségügyi szolgáltató kizárólag a beteg otthonában vagy az e célra kialakított betegszállító vagy mentő járműben nyújt egészségügyi szolgáltatást.
 
-a) a beteg otthonában,
+(3)[^6] A (2) bekezdés szerinti esetben az egészségügyi szolgáltató székhelyén, illetve telephelyén biztosítani kell az ellátáshoz szükséges tárgyi feltételek szakszerű tárolását.
 
-b) az e célra kialakított járműben
+(4)[^7] A betegek számára a közfinanszírozott egészségügyi szolgáltatást nyújtó egészségügyi szolgáltatónak biztosítania kell az akadálymentes közlekedés lehetőségét, továbbá ezen egészségügyi szolgáltatóknál a fogyatékossággal élők részére biztosítani kell az (1) bekezdés d) pontja és a 4. § (1) bekezdés b) pontja szerinti feltételek speciális kialakítását.
 
-## nyújt egészségügyi szolgáltatást.
+(5)[^8] Minden fekvőbeteg-szakellátást nyújtó egészségügyi intézményben biztosítani kell a betegellátás biztonságát fokozó betegazonosító rendszer működését, amelynek részletes szabályait a szervezeti és működési szabályzatban kell meghatározni, figyelemmel a hatályos adatvédelmi rendelkezésekre is.
 
-(3) A (2) bekezdés a) pontjában foglalt esetben az egészségügyi szolgáltató székhelyén, illetve telephelyén biztosítani kell az ellátáshoz szükséges tárgyi feltételek szakszerű tárolását, a b) pontban foglalt esetben pedig a kézmosási lehetőségen túl – figyelemmel a 11. § (1) bekezdésében foglaltakra – a vizsgálat jellegéből adódó tárgyi feltételeket.
-
-(4)[^3] A betegek számára az Egészségbiztosítási Alapból vagy a központi költségvetésből finanszírozott egészségügyi szolgáltatást nyújtó háziorvosi szolgálatnál, valamint az Eütv. 3. §-a g) pontjában meghatározott, rendelőintézeti járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó egészségügyi intézményben (a továbbiakban: gyógyintézet) biztosítani kell az akadálymentes közlekedés lehetőségét, továbbá a gyógyintézetben a fogyatékkal élők részére biztosítani kell az (1) bekezdés d) pontja, illetve a 4. § (1) bekezdés b) pontja szerinti feltételek speciális kialakítását.
-
-(5)[^4] Minden fekvőbeteg-szakellátást nyújtó egészségügyi intézményben biztosítani kell a betegellátás biztonságát fokozó betegazonosító rendszer működését, amelynek részletes szabályait a szervezeti és működési szabályzatban kell meghatározni, figyelemmel a hatályos adatvédelmi rendelkezésekre is.
-
-[^3]: A 3. § (4) bekezdése a 15/2004. (III. 8.) ESZCSM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2004. március 23-át követően benyújtott működési engedély iránti kérelmek elbírálásánál kell alkalmazni.
-[^4]: A 3. § (5) bekezdését a 88/2004. (X. 20.) ESZCSM rendelet 1. §-a iktatta a szövegbe.
+[^4]: A 3. § (1) bekezdés a) pont ac) alpontja az 1/2012. (V. 31.) EMMI rendelet 10. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdése az 1/2012. (V. 31.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^6]: A 3. § (3) bekezdése az 1/2012. (V. 31.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^7]: A 3. § (4) bekezdése az 1/2012. (V. 31.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^8]: A 3. § (5) bekezdését a 88/2004. (X. 20.) ESZCSM rendelet 1. §-a iktatta a szövegbe.

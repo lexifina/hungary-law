@@ -1,7 +1,11 @@
-11. § (1) Amennyiben jogszabály egyes egészségügyi szakmákhoz minimumfeltételt nem rendelt, azok jogszabályban történő meghatározásáig az egészségügyi hatóság – az adott egészségügyi tevékenységre vonatkozó szakmai szabályok alapján – egyedileg határozza meg a működési engedélyezési eljárás, illetve a szakfelügyeleti ellenőrzés során – a hazai és a nemzetközi protokollok alapján – a biztonságos betegellátás érdekében nélkülözhetetlen minimális követelményeket.
+11. § (1)[^33]
 
-(2) Az egészségügyi hatóság – külön jogszabályban foglaltak szerint – ellenőrzi a minimumfeltételek meglétét és alkalmazhatóságát. Ennek keretében kerül sor a diagnosztikus háttér biztosítására vonatkozó szerződések, illetve az ezek alapján nyújtott szolgáltatások – ideértve a szakmailag indokolt esetekben a párhuzamos rendelkezésre állást is – ellenőrzésére is.
+(2)[^34] Az egészségügyi hatóság – külön jogszabályban foglaltak szerint – ellenőrzi a minimumfeltételek meglétét és alkalmazhatóságát. Ennek keretében kerül sor a diagnosztikus háttér biztosítására vonatkozó szerződések, illetve az ezek alapján nyújtott egészségügyi szolgáltatások – ideértve a szakmailag indokolt esetekben a párhuzamos rendelkezésre állást is – ellenőrzésére.
 
-(3) Az Eütv. 121. §-a szerinti belső minőségügyi rendszer követelményeit az Egészségügyi, Szociális és Családügyi Minisztérium irányelve tartalmazza.
+(3)[^35] Az egészségügyi szolgáltatónál minőségügyi megbízott irányítja a belső minőségirányítási rendszer működtetését.
 
 (4) Minőségirányítási rendszerének tanúsítását csak az az egészségügyi szolgáltató kezdeményezheti, amelyik megfelel az e rendelet szerinti minimumfeltételeknek.
+
+[^33]: A 11. § (1) bekezdését az 1/2012. (V. 31.) EMMI rendelet 11. § e) pontja hatályon kívül helyezte.
+[^34]: A 11. § (2) bekezdése az 1/2012. (V. 31.) EMMI rendelet 10. § f) pontja szerint módosított szöveg.
+[^35]: A 11. § (3) bekezdése az 1/2012. (V. 31.) EMMI rendelet 7. §-ával megállapított szöveg.

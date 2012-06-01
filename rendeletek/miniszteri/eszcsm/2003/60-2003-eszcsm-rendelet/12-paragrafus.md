@@ -2,7 +2,7 @@
 
 (2) E rendeletben foglalt előírásokat a hatálybalépését követően benyújtott működési engedély iránti kérelmek elbírálásánál kell alkalmazni.
 
-(3)[^25] A rendelet hatálybalépésével egyidejűleg az egészségügyi szolgáltatást nyújtó egyes intézmények szakmai minimumfeltételeiről szóló 21/1998. (VI. 3.) NM rendelet és az azt módosító
+(3)[^36] A rendelet hatálybalépésével egyidejűleg az egészségügyi szolgáltatást nyújtó egyes intézmények szakmai minimumfeltételeiről szóló 21/1998. (VI. 3.) NM rendelet és az azt módosító
 
 a) 17/1998. (XII. 27.) EüM rendelet,
 
@@ -20,10 +20,12 @@ g) 26/2002. (V. 14.) EüM rendelet 11. §-a és 3. számú melléklete,
 
 h) 6/2002. (IX. 26.) ESZCSM rendelet
 
-## a hatályát veszti, azonban rendelkezéseit az e rendelet hatálybalépésekor működési engedéllyel vagy ideiglenes működési engedéllyel rendelkező egészségügyi szolgáltatók tekintetében – külön jogszabály eltérő rendelkezése hiányában – alkalmazni kell.
+a hatályát veszti, azonban rendelkezéseit az e rendelet hatálybalépésekor működési engedéllyel vagy ideiglenes működési engedéllyel rendelkező egészségügyi szolgáltatók tekintetében – külön jogszabály eltérő rendelkezése hiányában – alkalmazni kell.
 
-(4) Ahol jogszabály városi kórházról, megyei kórházról, illetve országos intézetről nem a progresszív ellátást érintő kérdés kapcsán rendelkezik, ott ezen nem az ellátási szintet, hanem az egészségügyi szolgáltató területi ellátási kötelezettségét kell érteni.
+(4)[^37]
 
-(5) A (3) bekezdés szerinti külön jogszabályról, továbbá az egészségügyi közszolgáltatók ellátási szintek szerinti besorolásáról a miniszter tájékoztatót tesz közzé.
+(5)[^38]
 
-[^25]: A 25/2004. (II. 26.) Korm. rendelet 13. § (1) bekezdése alapján a már működő egészségügyi szolgáltatók működési engedélyének felülvizsgálatát és az e rendeletben foglalt új szakmai minimumfeltételekhez igazodó módosítását a 25/2004. (II. 26.) Korm. rendelet 13. §-ának (2)–(6) bekezdésében foglalt határidők és feltételek szerint kell elvégezni.
+[^36]: A 25/2004. (II. 26.) Korm. rendelet 13. § (1) bekezdése alapján a már működő egészségügyi szolgáltatók működési engedélyének felülvizsgálatát és az e rendeletben foglalt új szakmai minimumfeltételekhez igazodó módosítását a 25/2004. (II. 26.) Korm. rendelet 13. §-ának (2)–(6) bekezdésében foglalt határidők és feltételek szerint kell elvégezni.
+[^37]: A 12. § (4) bekezdését az 1/2012. (V. 31.) EMMI rendelet 11. § f) pontja hatályon kívül helyezte.
+[^38]: A 12. § (5) bekezdését az 1/2012. (V. 31.) EMMI rendelet 11. § f) pontja hatályon kívül helyezte.

@@ -1,29 +1,21 @@
-10. § (1) E rendelet
+10. §[^32] (1) Az 1. melléklet tartalmazza az egyes egészségügyi szakmáktól független általános minimumfeltételeket.
 
-a) 1. számú melléklete tartalmazza az egyes egészségügyi szakmáktól független általános minimumfeltételeket,
+(2) A 2. melléklet tartalmazza az egyes szakmák körébe tartozó egészségügyi szolgáltatások nyújtásához szükséges minimumfeltételeket.
 
-b) 2. számú melléklete tartalmazza az egyes szakmák körébe tartozó egészségügyi szolgáltatások nyújtásához szükséges minimumfeltételeket,
+(3) A 3. melléklet tartalmazza az ápolókra, dietetikusokra, gyógytornászokra, védőnőkre és a szociális munkásokra vonatkozó személyi minimumfeltételeket.
 
-c)[^20] 3. számú melléklete tartalmazza a kizárólag az Eütv. 3. § ga) pontja szerinti gyógyintézetben nyújtható egészségügyi szolgáltatásokat.
+(4) A 4. melléklet tartalmazza az egészségügyi dokumentáció részét képező ápolási, fizioterápiás és dietetikai dokumentáció tartalmi és formai követelményeit.
 
-(2) Az adott szakma keretében végzett beavatkozások minimumfeltételeit a 2. számú melléklet egészségügyi szakmánként, járó- és fekvőbeteg-ellátás szerinti bontásban, ellátási szintenként határozza meg, nevesítve a szükséges diagnosztikai feltételeket és az egyéb speciális követelményeket.
+(5) A diagnosztikus háttér – amennyiben a 2. melléklet eltérően nem rendelkezik – más egészségügyi szolgáltatóval kötött szerződés alapján is biztosítható.
 
-(3) A fekvőbeteg-szakellátás körébe tartozó egészségügyi szolgáltatások minimumfeltételeit a 2. számú melléklet a nyújtott ellátáshoz tartozó – külön jogszabály szerint meghatározott – homogén betegségcsoportokhoz (a továbbiakban: HBCS) rendelve nevesíti, meghatározva az egyes ellátási szinteken végezhető beavatkozásokat, az ehhez szükséges személyi és tárgyi feltételeket – ideértve az egyes ellátási szintekhez rendelt speciális eszközöket és a diagnosztikus hátteret is – továbbá az ellátás megfelelő szakmai szinten történő végzését garantáló éves minimális esetszámot.
+(6) Egy adott szakrendeléshez szükséges tárgyi feltételek úgy is biztosíthatóak, ha azonos telephelyen működő másik szervezeti egységben ezek elérhetően és hozzáférhető módon igénybe vehetőek.
 
-(4)[^21] A diagnosztikus háttér – amennyiben a melléklet eltérően nem rendelkezik – más egészségügyi szolgáltatóval kötött szerződés alapján is biztosítható.
+(7) A közfinanszírozás körében
 
-(5) A minimális esetszám tekintetében a beavatkozást végző team vezetője által végzett beavatkozások az irányadók. Amennyiben a beavatkozások végzésére több egészségügyi szolgáltatónál kerül sor, annak megtörténtét az illetékes szakmai vezető vagy a szolgáltató orvos vezetője igazolja.
+a) a minimális esetszám tekintetében a szervezeti egység által egy év alatt a finanszírozónak jelentett, adott szintre sorolt összes beavatkozások száma az irányadó; amennyiben a beavatkozások végzését az orvos több egészségügyi szolgáltatónál vagy mátrix osztályon végzi, annak megtörténtét az illetékes szakmai vezető vagy a szolgáltató orvos vezetője igazolja,
 
-(6) A járóbeteg-ellátás minimumfeltételeit a 2. számú melléklet az adott szakma keretében végezhető beavatkozások szerint, az általános járóbeteg-ellátás (alapszint) és a speciális feltételek mellett végzett ellátások (emelt szint) tekintetében határozza meg.
+b) ha a közfinanszírozásban részesülő egészségügyi szolgáltató nem közfinanszírozott ellátást is nyújt, az egészségügyi szolgáltatónak a közfinanszírozott és a nem közfinanszírozott tevékenység vonatkozásában két különálló szervezeti egységet kell létrehoznia.
 
-(7)[^22] A mellékletben meghatározott esetszámot három év átlagában, új szolgáltató esetében a szakmai programban írtak szerint kell figyelembe venni.
+(8) Amennyiben valamely szakterület minimumfeltételeit e rendelet nem tartalmazza, az adott ellátásra vonatkozó jogszabály rendelkezései az irányadóak.
 
-(8)[^23] Egy adott szakrendeléshez szükséges tárgyi feltételek úgy is biztosíthatóak, ha azonos telephelyen, azonos rendelési időben ugyanazon szolgáltató másik szervezeti egységében ezek igénybe vehetően rendelkezésre állnak.
-
-(9)[^24] Az egyes szakterületekre vonatkozóan szakmai minimumfeltételt meghatározó egyéb jogszabályok jegyzékét tartalmazó közlemény az Egészségügyi Közlönyben kerül közzétételre.
-
-[^20]: A 10. § (1) bekezdésének c) pontját a 14/2005. (V. 2.) EüM rendelet 2. §-ának (1) bekezdése iktatta a szövegbe.
-[^21]: A 10. § (4) bekezdése a 15/2004. (III. 8.) ESZCSM rendelet 7. § (3) bekezdésének a) pontja szerint módosított szöveg.
-[^22]: A 10. § (7) bekezdését a 15/2004. (III. 8.) ESZCSM rendelet 4. §-a iktatta be, e módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2004. március 23-át követően benyújtott működési engedély iránti kérelmek elbírálásánál kell alkalmazni.
-[^23]: A 10. § (8) bekezdését az 54/2004. (VI. 9.) ESZCSM rendelet 2. §-a iktatta be.
-[^24]: A 10. § (9) bekezdését a 14/2005. (V. 2.) EüM rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
+[^32]: A 10. § az 1/2012. (V. 31.) EMMI rendelet 6. §-ával megállapított szöveg.

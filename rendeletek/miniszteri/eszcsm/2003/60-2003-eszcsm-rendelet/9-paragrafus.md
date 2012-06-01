@@ -1,21 +1,21 @@
-9. § (1) Az eltérő egészségi állapotú betegek differenciált ellátását a munkamegosztás és a fokozatosság elvén egymásra épülő progresszív ellátórendszer a (2)–(3) bekezdés szerinti ellátási szinteken biztosítja.
+9. §[^31] (1) Az eltérő egészségi állapotú betegek differenciált ellátását a fokozatosság elvén egymásra épülő, a szakmai tevékenységeknek a szakmai tapasztalat és a technikai feltételek alapján csoportosított progresszivitási szinteken működő ellátórendszer biztosítja.
 
 (2) A járóbetegek
 
-a) eseti szakellátása és a krónikus betegek folyamatos gondozása a járóbeteg-ellátás alapszintjén, az általános járóbeteg-szakellátás,
+a) eseti szakellátása és a krónikus betegek folyamatos gondozása az általános járóbeteg-szakellátás,
 
-b) speciális szaktudást és/vagy eszközöket igénylő szakellátása a járóbeteg-ellátás emelt szintjén, a speciális járóbeteg-szakellátás
+b) speciális szaktudást, illetve eszközöket igénylő szakellátása a speciális járóbeteg-szakellátás
 
-## keretében történik.
+keretében történik.
 
-(3) A fekvőbeteg-szakellátás – az ellátáshoz szükséges eltérő személyi és tárgyi feltételek alapján – az alábbi progresszivitási szinteken történik:
+(3) A diagnosztikai szakellátás a 2. mellékletben szakmánként meghatározott progresszivitási szinteken történik.
 
-a) I. ellátási szint, a progresszív ellátás alapszintje, amelyet az adott ellátást nyújtó valamennyi egészségügyi szolgáltatónál biztosítani kell,
+(4) A fekvőbeteg-szakellátás – az ellátáshoz szükséges eltérő személyi és tárgyi feltételek alapján – a 2. mellékletben szakmánként meghatározott progresszivitási szinteken történik.
 
-b) II. ellátási szint, a progresszív ellátás középszintje, amelyet a legalább egy megye, illetve a főváros lakosságának adott ellátását végző egészségügyi szolgáltatónál biztosítani kell,
+(5) A sebészeti osztály II. progresszivitási szintjére működési engedéllyel rendelkező egészségügyi szolgáltató a traumatológiai ellátás I. progresszivitási szintjéhez tartozó egészségügyi szolgáltatást is nyújthat, amennyiben az arra előírt feltételeknek megfelel.
 
-c) III. ellátási szint, a progresszív ellátás felső szintje, amelyet az adott ellátást regionális vagy országos szinten végző egészségügyi szolgáltatónál biztosítani kell.
+(6) A daganatos betegek többszakmás járó- és fekvőbeteg-szakellátására működési engedéllyel rendelkező egészségügyi szolgáltató onko-teamet köteles működtetni.
 
-(4)[^19] A sebészeti osztály I. ellátási szintjére engedéllyel rendelkező egészségügyi szolgáltató a traumatológiai ellátás I. ellátási szintjébe tartozó szolgáltatást is nyújthat, amennyiben az arra előírt feltételeknek megfelel.
+(7) A hagyományos személyes találkozáson alapuló tevékenységek – így az orvos és a beteg, illetve az orvos és orvos közötti konzultáció – mellett az adott szakterület szakorvosa egészségügyi adatok elektronikus rendszerben történő továbbítása révén – az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény előírásainak megfelelően – személyes jelenlét nélkül is felállíthat diagnózist és terápiás javaslatot adhat telemedicina keretében, az adott tevékenység végzéséhez a 2. mellékletben megállapított feltételek teljesítése esetén.
 
-[^19]: A 9. § (4) bekezdését a 14/2005. (V. 2.) EüM rendelet 1. §-a iktatta a szövegbe.
+[^31]: A 9. § az 1/2012. (V. 31.) EMMI rendelet 5. §-ával megállapított szöveg.

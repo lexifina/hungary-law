@@ -2,4 +2,6 @@
 
 (2) Az Eütv. 94. §-a szerinti mentést végző egészségügyi szolgáltató a mentőszolgálat elnevezés használatára jogosult.
 
-(3) Amennyiben az (1)–(2) bekezdés szerinti egészségügyi szolgáltatást speciális csoportba tartozó betegek számára nyújtják, ennek feltüntetését az egészségügyi szolgáltató az elnevezésében használhatja (pl. koraszülött mentés, fertőzőbeteg-szállítás).
+(3)[^30] Amennyiben az (1)–(2) bekezdés szerinti egészségügyi szolgáltatást speciális csoportba tartozó betegek számára nyújtják, ennek feltüntetését az egészségügyi szolgáltató az elnevezésében használhatja.
+
+[^30]: A 7. § (3) bekezdése az 1/2012. (V. 31.) EMMI rendelet 11. § d) pontja szerint módosított szöveg.
