@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-26-00-00
 | --- | --- | --- |
 | 2010-03-06 | 2010. évi XXVI. törvény | 2010-26-00-00.0 (közlönyállapot) |
 | 2010-03-06 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-26-00-00.1 |
+| 2012-06-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-26-00-00.2 |
