@@ -15,3 +15,7 @@ b) korábban regisztrált tartási helyen új állatfaj tartásának beindítás
 c) új állattartó esetén az új állattartó és a tartóváltás adatait;
 
 d) tenyészetének vagy tartási helyének bármely adatában bekövetkezett változást.
+
+(5)[^7] Az állattartó köteles a TIR szerinti tenyészetkódot a kaptárak külső felületén, jól láthatóan, legalább 20 milliméteres számokkal, roncsolás nélkül nem eltávolítható módon, égetéssel, vagy korróziónak ellenálló hordozón feltüntetni.
+
+[^7]: A 10. § (5) bekezdését a 38/2012. (IV. 25.) VM rendelet 1. §-a iktatta be.
