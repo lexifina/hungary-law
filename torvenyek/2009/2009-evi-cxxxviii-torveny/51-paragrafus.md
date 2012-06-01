@@ -1,6 +1,6 @@
 51. § (1) Az Ftv. – e törvény 3. §-ával módosított – 16. § (3) bekezdésében meghatározott hároméves vizsgálati időszak e törvény hatálybalépésének napján kezdődik.
 
-(2) Az Ftv. – e törvény 9. és 17. §-ával módosított – 30. §-ára és 87. § (6) bekezdésére tekintettel a felsőoktatási intézményeknek 2010. január 31-ig kell a szervezeti és működési szabályzatukat, illetve képzési programjukat módosítaniuk.
+(2)
 
 (3) Az Ftv. – e törvény 11. § (2) bekezdésével módosított – 32. § (10) bekezdésében foglaltakat a felsőoktatási intézmény székhelyén vagy telephelyén kívül folytatott, az Ftv. 147. § 37. pontja szerinti székhelyen kívüli alap-, illetve mesterképzések tekintetében
 
@@ -18,10 +18,10 @@ b) az e törvény hatálybalépésekor már folyamatban lévő képzések tekint
 
 (8) Az Ftv. – e törvény 24. § (3) bekezdésével beiktatott – 107. § (7) bekezdésében foglaltakat az e törvény hatálybalépését követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 
-(9) Az Ftv. – e törvény 25. §-ával megállapított – 108. § (3) bekezdésében előírt ötéves értékelési időszakra tekintettel a Magyar Felsőoktatási Akkreditációs Bizottság 2010. március 1-jéig módosítja munkatervét, amelyet a Magyar Köztársaság hivatalos lapjában és az oktatásért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.
+(9)
 
 (10) Az Ftv. – e törvény 28. §-ával módosított – 111. § (1), (3) és (7) bekezdésének szabályaira tekintettel a Magyar Felsőoktatási Akkreditációs Bizottságot 2010. január 31-ig kell újjáalakítani. A Bizottság 2009. december 30-án megbízással rendelkező tagjainak, tisztségviselőinek megbízatása 2010. január 31-én szűnik meg.
 
-(11) Az Ftv. – e törvény 28. § (3) bekezdésével beiktatott – 111. § (4) bekezdésére tekintettel a Magyar Felsőoktatási Akkreditációs Bizottság első alkalommal 2010. március 1-jéig kezdeményezi – az Ftv. 111. § (4) bekezdésében foglalt szabályok szerint, a közzététel időpontja után egy évvel benyújtott kérelmek, illetve szakértői vélemények tekintetében alkalmazható – szakmai bírálati szempontrendszerének közzétételét.
+(11)
 
 (12) Az Ftv. – e törvény 48. § f) és q), valamint 49. § a)–b) pontjával módosított – 32. § (5) bekezdésében, 48. § (3) bekezdésében és 145. § (6) bekezdésében foglaltakat az e törvény hatálybalépését követően alapképzés keretében első évfolyamon tanulmányaikat megkezdő hallgatók tekintetében, majd ezt követően felmenő rendszerben kell alkalmazni.

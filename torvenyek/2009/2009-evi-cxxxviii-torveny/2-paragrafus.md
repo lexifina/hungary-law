@@ -1,3 +1,0 @@
-2. § Az Ftv. 10. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az állami felsőoktatási intézmény tekintetében az államháztartásról szóló 1992. évi XXXVIII. törvényt (a továbbiakban: államháztartásról szóló törvény), az állami vagyonról szóló 2007. évi CVI. törvényt (a továbbiakban: az állami vagyonról szóló törvény), valamint a költségvetési szervként működő felsőoktatási intézmények tekintetében a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvényt (a továbbiakban: közalkalmazottak jogállásáról szóló törvény) az e törvényben meghatározott eltérésekkel kell alkalmazni.”

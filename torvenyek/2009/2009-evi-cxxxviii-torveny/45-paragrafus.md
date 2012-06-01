@@ -1,1 +1,0 @@
-45. § Az Ftv. 1. számú mellékletében az „Állami egyetemek” alcím az „Óbudai Egyetem, Budapest”, továbbá a „Nem állami főiskolák” alcím a „Golgota Teológiai Főiskola, Vajta” szövegrésszel a magyar abc által meghatározott felsorolás rendje szerint egészül ki.
