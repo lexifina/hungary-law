@@ -36,6 +36,6 @@
 
 | 012 | Összesen |  |  |  |
 
-2. melléklet a 11/2012. (V. 16.) MNB rendelethez[^2]
+2. melléklet a 11/2012. (V. 16.) MNB rendelethez[^3]
 
-[^2]: Az AL/6 azonosító kódú adatszolgáltatásra vonatkozó, a 2. mellékletben foglalt kitöltési előírások II. pontjának 1. és 2. alpontja a 4. § (2) bekezdése alapján 2012. június 30-án lép hatályba.
+[^3]: Az AL/6 azonosító kódú adatszolgáltatásra vonatkozó, a 2. mellékletben foglalt kitöltési előírások II. pontjának 1. és 2. alpontja a 4. § (2) bekezdése alapján 2012. június 30-án lép hatályba.

@@ -32,14 +32,6 @@
 
 ## A külföld szektor meghatározását az MNB rendelet 2. melléklet I. A. pontjában foglalt előírások szerint kell elvégezni.
 
-3. melléklet a 11/2012. (V. 16.) MNB rendelethez
+3. melléklet a 11/2012. (V. 16.) MNB rendelethez[^4]
 
-A jegybanki információs rendszerhez szolgáltatandó információk és az információt szolgáltatók köréről, a szolgáltatás módjáról és határidejéről szóló 14/2011. (X. 13.) MNB rendelet 2. melléklet II. pontjában az F21 adatszolgáltatásra vonatkozó kitöltési előírások helyébe a következő rendelkezések lépnek:
-
-„MNB azonosító: F21
-
-Kitöltési előírások
-
-Társadalombiztosítási alapok költségvetési jelentése
-
-Az adatszolgáltatás keretében az Egészségbiztosítási Alap és a Nyugdíjbiztosítási Alap költségvetési előirányzatainak teljesítéséről szóló, országos összesítésű havi kimutatásokat – bevételek, kiadások és a nem társadalombiztosítási forrásból teljesített ellátások előzetes pénzforgalmi adatai – kell megküldeni.”
+[^4]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

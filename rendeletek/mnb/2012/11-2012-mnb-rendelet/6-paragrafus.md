@@ -1,1 +1,0 @@
-## 5. § A jegybanki információs rendszerhez szolgáltatandó információk és az információt szolgáltatók köréről, a szolgáltatás módjáról és határidejéről szóló 14/2011. (X. 13.) MNB rendelet 2. melléklete a 3. melléklet szerint módosul.
