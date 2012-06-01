@@ -12,7 +12,7 @@
 
 (6)[^171] Az OTH 2012. január 31-ig a nyilvántartásból hiányzó adatok pótlása érdekében megkeresi az OEP-et. Az OEP az OTH által meghatározott struktúrában és részletezettséggel a finanszírozási szerződés állományban szereplő adatok alapján megküldi az OTH részére a speciális ellátásokra vonatkozó kapacitás adatokat.
 
-(7)[^172] Az egyes egészségbiztosítási és egészségügyi tárgyú kormányrendeletek módosításáról szóló 325/2011. (XII. 28.) Korm. rendelettel megállapított 5/B. § szerinti nyilvántartást 2012. április 30-áig hozza létre az OTH a rendelkezésre álló adatok és a konszolidációs törvény 7. § (2) és (4) bekezdése szerinti eljárások során hozott határozatok alapján.
+(7)[^172] Az egyes egészségbiztosítási és egészségügyi tárgyú kormányrendeletek módosításáról szóló 325/2011. (XII. 28.) Korm. rendelettel megállapított 5/B. § szerinti nyilvántartást 2012. június 30-áig hozza létre az OTH a rendelkezésre álló adatok és a konszolidációs törvény 7. § (2) bekezdése szerinti eljárások során hozott határozatok alapján.
 
 (8)[^173] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 13/2012. (II. 14.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 2. számú mellékletben foglaltakat a konszolidációs törvény 7. § (2) bekezdése szerinti eljárás során figyelembe kell venni. A Módr3. hatálybalépésekor[^174] érvényes finanszírozási szerződéseknek a konszolidációs törvény 7. § (2) bekezdése szerinti eljárást követően kiadott működési engedélyek jogerőre emelkedését követően, ennek hiányában 2012. július 1-jétől kell megfelelniük a 2. számú mellékletben foglaltaknak.
 
@@ -22,6 +22,8 @@
 
 (11)[^178] A Módr4. által megállapított 1. § (3b) bekezdését a konszolidációs törvény 7. § (2) bekezdése, illetve a Tv. 14. § (4) bekezdése alapján indult eljárásokban is alkalmazni kell.
 
+(12)[^179] Az egyes egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 107/2012. (VI. 1.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 2. és 4. számú mellékletet a konszolidációs törvény 7. § (2) bekezdése alapján indult és a Módr5. 8. §-ának a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
 [^164]: A második 17. §-t a 363/2010. (XII. 30.) Korm. rendelet 14. §-a iktatta be.
 [^165]: A 17/A. §-t a 73/2011. (IV. 29.) Korm. rendelet 7. § (4) bekezdése iktatta be.
 [^166]: A 17/A. § (3) bekezdését a 185/2011. (IX. 9.) Korm. rendelet 11. §-a iktatta be.
@@ -30,10 +32,11 @@
 [^169]: A hatálybalépés időpontja 2011. szeptember 10.
 [^170]: A 17/A. § (5) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 70. §-a iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 28. § f) pontja szerint módosított szöveg.
 [^171]: A 17/A. § (6) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 70. §-a iktatta be.
-[^172]: A 17/A. § (7) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 70. §-a iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 28. § g) pontja szerint módosított szöveg.
+[^172]: A 17/A. § (7) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 70. §-a iktatta be, szövege a 107/2012. (VI. 1.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^173]: A 17/A. § (8) bekezdését a 13/2012. (II. 14.) Korm. rendelet 6. §-a iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 28. § h) és i) pontja szerint módosított szöveg.
 [^174]: A hatálybalépés időpontja 2012. február 14.
 [^175]: A 17/A. § (9) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 25. §-a iktatta be.
 [^176]: A 17/A. § (10) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 25. §-a iktatta be.
 [^177]: A hatálybalépés napja: 2012. április 28.
 [^178]: A 17/A. § (11) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 25. §-a iktatta be.
+[^179]: A 17/A. § (12) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 7. § (2) bekezdése iktatta be.

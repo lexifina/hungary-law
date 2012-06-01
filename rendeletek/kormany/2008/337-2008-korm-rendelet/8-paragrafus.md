@@ -1,5 +1,3 @@
-## 7. §[^69]
-
 ## Az átcsoportosításra vonatkozó szabályok
 
 8. §[^70] (1) A Tv. 7. §-a alapján kezdeményezett átcsoportosítási kérelemhez csatolni kell:
@@ -60,7 +58,6 @@ i) a kérelem a Tv. 7. § (1)–(4) és (6) bekezdésébe ütközik.
 
 (14)[^84] Nem minősül az Egészségbiztosítási Alap vonatkozásában többletforrás igénynek a Tv. 7. § (3) bekezdése szerinti, rehabilitációs szakmák közötti kapacitás-átcsoportosítás.
 
-[^69]: A 7. §-t és az azt megelőző alcímet a 363/2010. (XII. 30.) Korm. rendelet 16. § 5. pontja hatályon kívül helyezte.
 [^70]: A 8. § a 360/2009. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^71]: A 8. § (2) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 16. § 6. pontja szerint módosított szöveg.
 [^72]: A 8. § (3) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 7. pontja szerint módosított szöveg.

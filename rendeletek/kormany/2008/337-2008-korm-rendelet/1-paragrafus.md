@@ -20,7 +20,7 @@ i) a finanszírozási szerződés szerinti dialízis kezelőhelyek és kezelési
 
 j) a finanszírozási szerződés szerinti sürgősségi ellátási formához képest magasabb fix összegű díjazással járó sürgősségi ellátási forma,
 
-## amely a Tv. alapján lekötött kapacitásához képest a magasabb összegű elszámolás és teljesítménynövekedés finanszírozása miatt többletforrás-igénnyel jár.
+amely a Tv. alapján lekötött kapacitásához képest a magasabb összegű elszámolás és teljesítménynövekedés finanszírozása miatt többletforrás-igénnyel jár.
 
 (1a)[^9] Többletkapacitásnak minősül az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató által végzett, az újszülött 0–4 napos korban történő életkorhoz kötött szűrővizsgálatainak miniszteri rendeletben meghatározott finanszírozott szolgáltatási egysége.
 

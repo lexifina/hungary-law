@@ -1,3 +1,5 @@
-1. számú melléklet 337/2008. (XII. 30.) Korm. rendelethez[^181]
+1. számú melléklet 337/2008. (XII. 30.) Korm. rendelethez[^182]
 
-[^181]: Az 1. számú melléklet a 360/2009. (XII. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+Többletkapacitásnak minősülő eszközök listája
+
+[^182]: Az 1. számú melléklet a 360/2009. (XII. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.

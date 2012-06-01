@@ -48,7 +48,7 @@
 
 | 23 | Dél-Közép-Magyarország | Budapest V., VII., VIII., IX., X., XVII., XVIII., XIX., XX., XXI., XXIII. kerületei |
 
-| 24 | Jász-Nagykun-Szolnok megyéből: a) a Jászberényi kistérség, b) a Mezőtúri kistérség, c) a Szolnoki kistérség, d) a Törökszentmiklósi kistérség |
+| 24 | Jász-Nagykun-Szolnok megyéből: a) a Jászberényi kistérség, b) a Mezőtúri kistérség, c) a Szolnoki kistérség, d) a Törökszentmiklósi kistérség e) Tiszaföldvár f) Nagyrév g) Cibakháza |
 
 | 25 | Pest megyéből: a) a Dabasi kistérség, b) a Gyáli kistérség, c) a Monori kistérség, d) a Nagykátai kistérség, e) a Ráckevei kistérség, f) a Ceglédi kistérség, kivéve Nagykőröst, Kocsért és Nyársapátot |
 
@@ -64,11 +64,11 @@
 
 | 31 | Csongrád megye |
 
-| 32 | Jász-Nagykun-Szolnok megyéből: a) a Kunszentmártoni kistérség |
+| 32 | Jász-Nagykun-Szolnok megyéből: a) a Kunszentmártoni kistérség, kivéve Cibakháza, Nagyrév és Tiszaföldvár településeket |
 
 | 33 | Pest megyéből: a) Nagykőrös b) Kocsér, c) Nyársapát |
 
-5. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^191]
+5. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^193]
 
 |  | A | B | C |
 
@@ -92,4 +92,4 @@
 
 | 10 | utca | 25 | 25 |
 
-[^191]: Az 5. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (2) bekezdése iktatta be.
+[^193]: Az 5. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (2) bekezdése iktatta be.
