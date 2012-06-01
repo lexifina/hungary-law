@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-29-20-2
 | --- | --- | --- |
 | 2012-03-10 | 2012-29-20-22.1 | 29/2012. (III. 7.) Korm. rendelet |
 | 2012-03-11 | 2012-29-20-22.2 | 2010: CXXX. törvény |
+| 2012-06-01 | 2012-29-20-22.3 | 2010: CXXX. törvény |

@@ -46,7 +46,7 @@
 
 ## középiskolai végzettség és közgazdasági (külkereskedelmi szakirányú) szakképesítés, vagy középiskolai végzettség és az OKJ szerint: európai üzleti asszisztensi szakképesítés.
 
-## 4. Építésügyi igazgatási feladatok
+## 4.[^2] Építésügyi igazgatási feladatok
 
 ## Kiemelt munkakör
 
@@ -54,7 +54,7 @@
 
 ## Az I. besorolási osztályban:
 
-## jogász szakképzettség; egyetemi vagy főiskolai szintű építészmérnöki, építőmérnöki (szerkezetépítő, magasépítő üzemmérnöki) szakképzettség, főiskolai szintű településmérnöki (városgazdasági mérnöki) szakképzettség, vagy aki ezekkel egyenértékűnek elismert végzettséggel rendelkezik.
+## jogász szakképzettség a döntés-előkészítő és a döntéshozó munkakör kivételével; egyetemi vagy főiskolai szintű építészmérnöki, építőmérnöki (szerkezetépítő, magasépítő üzemmérnöki) szakképzettség, főiskolai szintű településmérnöki (városgazdasági mérnöki) szakképzettség, vagy aki ezekkel egyenértékűnek elismert végzettséggel rendelkezik.
 
 ## Építésügyi nyilvántartások vezetése és egyéb építésügyi munkakörben:
 
@@ -373,3 +373,5 @@
 ## jogász, egyetemi szintű művelődési (és felnőttképzési) menedzser, szociológus, szociálpolitikus szakképzettség; egyetemi vagy főiskolai szintű pedagógus, hittudományi, vagy közgazdasági felsőoktatásban szerzett szakképzettség; államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség.
 
 2. melléklet a 29/2012. (III. 7.) Korm. rendelethez
+
+[^2]: Az 1. melléklet I. pont 4. alpontja a 105/2012. (V. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
