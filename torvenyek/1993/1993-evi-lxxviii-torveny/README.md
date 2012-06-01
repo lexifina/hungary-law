@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-78-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1993-78-00-00.23 |
 | 2011-01-01 | 2010. évi CXLVIII. törvény | 1993-78-00-00.24 |
 | 2012-01-01 | 2011. évi CCI. törvény | 1993-78-00-00.25 |
+| 2012-06-01 | 2011. évi CCI. törvény | 1993-78-00-00.26 |

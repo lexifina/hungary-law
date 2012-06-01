@@ -1,1 +1,3 @@
-95. §
+95. § (1) E törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 11/A. §-át – a (2) bekezdésben meghatározott kivétellel – a 2012. június 1. napját követően kötött bérleti szerződés és közzétett kereskedelmi közlemény tekintetében kell alkalmazni.
+
+(2) Az épületben lévő lakás és nem lakás céljára szolgáló helyiség esetében e törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 11/A. § (1) és (2) bekezdését a 2015. december 31–ét követően kötött bérleti szerződés tekintetében kell alkalmazni.
