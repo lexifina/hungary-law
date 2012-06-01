@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-18-20-5
 | 2010-05-15 | 2010-18-20-53.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-01-01 | 2010-18-20-53.3 | 19/2010. (XII. 31.) NGM rendelet |
 | 2011-12-28 | 2010-18-20-53.4 | 43/2011. (XII. 13.) NGM rendelet |
+| 2012-06-01 | 2010-18-20-53.5 | 43/2011. (XII. 13.) NGM rendelet |
