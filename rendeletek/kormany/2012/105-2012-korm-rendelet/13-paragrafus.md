@@ -1,30 +1,34 @@
-## 12. § Az R1. a következő 12. §-sal egészül ki:
-
-## „12. § (1) Az önálló rendeltetési egység bérbeadása esetén a 2015. december 31-ét követően kötött bérleti szerződéshez kell tanúsítványt kiállítani.
-
-## (2) E rendeletnek az egyes építésügyi és területrendezési tárgyú kormányrendeletek módosításáról szóló 105/2012. (V. 30.) Korm. rendelettel megállapított 3. § (3) bekezdését az önálló rendeltetési egység esetében a 2015. december 31-ét követően kötött bérleti szerződés tekintetében kell alkalmazni.”
+## 12. §[^17]
 
 ## 13. § Az R1.
 
-a) 1. § (2) bekezdés g) pontjában a „20 W/m3” szövegrész helyébe „20 W/m2”,
+a)[^18]
 
-b) 1. § (3) bekezdés b) pontjában az „(önálló rendeltetési egység, lakás)” szövegrész helyébe a „vagy önálló rendeltetési egység”,
+b)[^19]
 
-c)[^10]
+c)[^20]
 
-d)[^11]
+d)[^21]
 
-e) 2. § a) pontjában az „épületnek (önálló rendeltetési egységnek, lakásnak)” szövegrész helyébe az „épületnek vagy önálló rendeltetési egységnek”,
+e)[^22]
 
-f) 4. § (3) bekezdésében a „rendeltetési egységéről (lakásáról) készült tanúsítvány” szövegrész helyébe a „rendeltetési egységéről készült részletes felmérés vagy tanúsítvány”,
+f)[^23]
 
-g) 5. § (1) bekezdés b) pontjában a „b) és c) pontja szerinti esetekben a mért energiafogyasztási” szövegrész helyébe a „c) pontja szerinti esetekben a tanúsítvány kiállítását megelőző három év energiafogyasztási”,
+g)[^24]
 
-h) 5. § (2) bekezdésében az „A tulajdonos döntése szerint” szövegrész helyébe az „Az 1. § (3) bekezdés b) pontja szerinti esetekben”,
+h)[^25]
 
-i) 9. § (1) bekezdésében az „Energetikai tanúsítói” szövegrész helyébe az „Energetikai tanúsítói (a továbbiakban: tanúsító)”
+i)[^26]
 
 szöveg lép.
 
-[^10]: A 13. § c) pontja a 28. § (2) bekezdése alapján 2013. január 9-én lép hatályba.
-[^11]: A 13. § d) pontja a 28. § (3) bekezdése alapján 2015. július 9-én lép hatályba.
+[^17]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 13. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 13. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 13. § c) pontja a 28. § (2) bekezdése alapján 2013. január 9-én lép hatályba.
+[^21]: A 13. § d) pontja a 28. § (3) bekezdése alapján 2015. július 9-én lép hatályba.
+[^22]: A 13. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 13. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 13. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 13. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 13. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

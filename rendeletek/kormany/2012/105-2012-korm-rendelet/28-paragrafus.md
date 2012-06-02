@@ -1,4 +1,4 @@
-## 27. § A közszolgálati tisztviselők képesítési előírásairól szóló 29/2012. (III. 7.) Korm. rendelet 1. melléklet I. pont 4. alpontjában a „jogász szakképzettség; ” szövegrész helyébe a „jogász szakképzettség a döntés-előkészítő és a döntéshozó munkakör kivételével; ” szöveg lép.
+## 27. §[^40]
 
 ## 8. Záró rendelkezések
 
@@ -9,3 +9,5 @@
 (3) A 13. § d) pontja 2015. július 9-én lép hatályba.
 
 (4) Ez a rendelet 2015. július 10-én hatályát veszti.
+
+[^40]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

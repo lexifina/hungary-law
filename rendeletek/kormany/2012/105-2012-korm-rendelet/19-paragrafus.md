@@ -1,1 +1,3 @@
-## „(4) Az állami főépítész az összhang igazolására irányuló eljárás során a területrendezési tervekkel való összhang megállapítása körében vizsgálja, hogy a településszerkezeti tervben kijelölt, az eljárás tárgyát képező területfelhasználási egység nem akadályozza vagy lehetetleníti el a területrendezési tervben meghatározott műszaki infrastruktúra-hálózat elemének vagy egyedi építménynek a kialakítását.”
+## 18. §[^31]
+
+[^31]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

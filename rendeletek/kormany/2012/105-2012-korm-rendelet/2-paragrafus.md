@@ -1,1 +1,3 @@
-## 1. § Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet (a továbbiakban: Éhk.) 1/A. melléklete e rendelet 1. melléklete szerint módosul.
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

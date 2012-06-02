@@ -1,5 +1,3 @@
-## 25. § Hatályát veszti az R3.
+## 24. §[^37]
 
-a) 2. § (1) bekezdésében az „– a (3) bekezdésben foglaltak kivételével –” szövegrész,
-
-b) 1. melléklet II. Különös követelmények fejezet 2. pontja.
+[^37]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
