@@ -1,0 +1,369 @@
+## A védelmi felkészítés 2012. évi feladatterve
+
+## 1. Nemzeti Intézkedési Rendszer
+
+## a) El kell készíteni a Nemzeti Intézkedési Rendszer ágazati feladatainak végrehajtásáról szóló beszámolót és meg kell küldeni a honvédelemért felelős miniszter részére.
+
+## Felelős: miniszterek
+
+## Határidő: 2012. november 30.
+
+## b) Ki kell dolgozni a NATO válságreagálási intézkedésekkel összhangban lévő Nemzeti Intézkedések Gyűjteményét.
+
+## Felelős: honvédelemért felelős miniszter
+
+## miniszterek
+
+## Határidő: 2012. november 30.
+
+## c) Meg kell küldeni az ágazati hatáskörbe tartozó, a NATO válságreagálási intézkedései alapján beazonosított nemzeti intézkedési javaslatokat a honvédelemért felelős miniszter részére.
+
+## Felelős: miniszterek
+
+## Határidő: 2012. október 30.
+
+## d) Az ágazati javaslatok alapján össze kell állítani és meg kell küldeni a NATO részére a NATO Válságreagálási Rendszer kézikönyvének éves módosítására vonatkozó nemzeti álláspontot.
+
+## Felelős: honvédelemért felelős miniszter
+
+## Határidő: a NATO által meghatározott időpont
+
+## 2. A katonai-rendvédelmi-civil együttműködés feladatai
+
+## a) El kell készíteni az átfogó megközelítés elve alapján a katonai-rendvédelmi-civil együttműködés kialakításának, fejlesztésének 2012–2016-ra szóló akciótervét.
+
+## Felelős: honvédelemért felelős miniszter
+
+## katasztrófák elleni védekezésért felelős miniszter
+
+## miniszterek
+
+## megyei, fővárosi védelmi bizottságok elnökei
+
+## Határidő: 2012. november 30.
+
+## b) Ki kell dolgozni a fegyveres összeütközések időszakában végrehajtandó polgári védelmi feladatokra történő felkészítés követelményeit, az erre vonatkozó honvédelmi igényeket.
+
+## Felelős: honvédelemért felelős miniszter
+
+## katasztrófák elleni védekezésért felelős miniszter
+
+## Határidő: 2012. szeptember 30.
+
+## c) Ki kell dolgozni és a honvédelemért felelős miniszter részére meg kell küldeni a fegyveres összeütközések időszakában végrehajtandó polgári védelmi feladatokra történő felkészítés tematikáját, tárgyköreit, a végrehajtásra vonatkozó terveket.
+
+## Felelős: katasztrófák elleni védekezésért felelős miniszter
+
+## honvédelemért felelős miniszter
+
+## Határidő: 2012. november 30.
+
+## d) Ki kell dolgozni a katonai-rendvédelmi-civil együttműködés keretén belül a biztonsági támogató ágazatok egységes, NATO szabvány szerinti jelkészletét és a térképi ábrázolás informatikai technológiáját.
+
+## Felelős: honvédelemért felelős miniszter
+
+## katasztrófák elleni védekezésért felelős miniszter
+
+## Határidő: 2012. november 30.
+
+## e) Az elektronikus hírközlésről szóló 2003. évi C. törvény 182. § (1) b) pontja, a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény 15. §-a alapján ki kell alakítani a központi tömegtájékoztatási szervek és a sajtó különleges jogrend időszaki működésével kapcsolatos szabályokat.
+
+## Felelős: honvédelemért felelős miniszter
+
+## katasztrófák elleni védekezésért felelős miniszter
+
+## közigazgatás-szervezésért felelős miniszter
+
+## Határidő: 2012. november 30.
+
+## f) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 74–75. §-ai alapján ki kell alakítani a légiriasztással kapcsolatos együttműködés rendjét.
+
+## Felelős: honvédelemért felelős miniszter
+
+## elektronikus hírközlésért felelős miniszter
+
+## katasztrófák elleni védekezésért felelős miniszter
+
+## Határidő: 2012. november 30.
+
+## g) Tovább kell fejleszteni a civil és a honvéd egészségügy közötti együttműködést, ezen belül meg kell vizsgálni a különleges jogrend (kivéve veszélyhelyzet) idején ellátandó egészségügyi feladatok teljesítésének lehetőségét, rendjét, továbbá végre kell hajtani a 2011. évben megrendezett Mobil Orvosi Segélyhely telepítési gyakorlat során megfogalmazódott feladatokat.
+
+## Felelős: egészségügyért felelős miniszter
+
+## honvédelemért felelős miniszter
+
+## Határidő: 2012. november 30.
+
+## 3. Ki kell dolgozni a különleges jogrendben bevezethető intézkedések jogszabálytervezeteit.
+
+## Felelős: honvédelemért felelős miniszter
+
+## katasztrófák elleni védekezésért felelős miniszter
+
+## kormányzati tevékenység összehangolásáért felelős miniszter
+
+## miniszterek
+
+## Határidő: 2012. november 30.
+
+## 4. A védelmi felkészítés feladatai
+
+## a) Külön terv szerint végre kell hajtani a védelmi igazgatás rendszerében területi szintű vezetői feladatot ellátók felkészítését.
+
+## Felelős: honvédelemért felelős miniszter
+
+## katasztrófák elleni védekezésért felelős miniszter
+
+## megyei, fővárosi védelmi bizottságok elnökei
+
+## Határidő: azonnal
+
+## b) Elő kell készíteni és végre kell hajtani a „Fejér 2012” országos védelmi igazgatási gyakorlatot összevonva a Honvédelmi Tanács és a Kormány speciális működésével összefüggő gyakorlattal.
+
+## Felelős: honvédelemért felelős miniszter
+
+## katasztrófák elleni védekezésért felelős miniszter
+
+## Fejér Megyei Védelmi Bizottság elnöke
+
+## Határidő: azonnal
+
+## c) Ki kell dolgozni az ágazati honvédelmi feladatok végrehajtására vonatkozó általános irányelveket.
+
+## Felelős: honvédelemért felelős miniszter
+
+## Határidő: 2012. szeptember 30.
+
+## d) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 81. § (3) bekezdése alapján, a c) pontban meghatározott irányelveknek megfelelően ki kell dolgozni az ágazati honvédelmi feladatokról szóló rendeleteket.
+
+## Felelős: miniszterek
+
+## Határidő: 2012. november 30.
+
+## e) Az érintett miniszter bevonásával meg kell a vizsgálni a minisztériumoknál a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 16. § (2) bekezdésének végrehajtását, indokolt esetben az egyes minisztériumok részére szakértői támogatás nyújtásának lehetőségét a honvédelmi feladatok végrehajtásának előmozdítása érdekében.
+
+## Felelős: honvédelemért felelős miniszter
+
+## miniszterek
+
+## Határidő: 2012. szeptember 30.
+
+## f) Meg kell küldeni a honvédelemért felelős miniszter és a katasztrófák elleni védekezésért felelős miniszter részére a megyei, fővárosi védelmi bizottságok titkárságainak a megyei, fővárosi kormányhivatalokba történő integrálásáról szóló beszámolót, megyénkénti bontásban.
+
+## Felelős: közigazgatás-szervezésért felelős miniszter
+
+## Határidő: 2012. június 30.
+
+## 5. Nemzetközi válságkezelési gyakorlatokkal összefüggő feladatok
+
+## a) A NATO 2012. évi válságkezelési gyakorlat (CMX 12) nemzeti feladatainak előkészítése, végrehajtása és értékelése, részvétel a gyakorlattal összefüggő szövetségi feladatok végrehajtásában.
+
+## Felelős: honvédelemért felelős miniszter
+
+## miniszterek
+
+## az autonóm államigazgatási szervek és az önálló szabályozó szervek kivételével a közreműködő központi államigazgatási szervek vezetői
+
+## Határidő: a NATO által a gyakorlat végrehajtására meghatározott időpont
+
+## b) A NATO Cyber Coalition 2012 gyakorlat szakmai feladatainak a CMX 12 gyakorlattal összehangolt előkészítése, végrehajtása és értékelése, részvétel a gyakorlattal összefüggő szövetségi feladatok végrehajtásában.
+
+## Felelős: minősített adatok védelmének szakmai felügyeletéért felelős miniszter
+
+## miniszterek
+
+## Határidő: a NATO által a gyakorlat végrehajtására meghatározott időpont
+
+## c) Az Európai Unió 2012. évi válságkezelési gyakorlata (ML 12) nemzeti feladatainak előkészítése, végrehajtása és értékelése.
+
+## Felelős: külügyekért felelős miniszter
+
+## miniszterek
+
+## az autonóm államigazgatási szervek és az önálló szabályozó szervek kivételével a közreműködő központi államigazgatási szervek vezetői
+
+## Határidő: az Európai Unió által a gyakorlat végrehajtására meghatározott időpont
+
+## 6. A nemzetgazdaságra háruló honvédelmi feladatok
+
+## a) A honvédelmi, illetve nemzetbiztonsági szempontból stratégiai érdekű kapacitásokról, valamint a hadiipari kapacitások rögzítéséről szóló szabályozás felülvizsgálata, illetve szükség szerinti módosítása.
+
+## Felelős: gazdaságpolitikáért felelős miniszter
+
+## érintett miniszterek
+
+## Határidő: 2012. június 30.
+
+## b) A gazdaság erőforrásainak védelmi célú igénybevétele, a védelmi tartalékolási rendszer átalakítása, a gazdaságfelkészítési és a lakosság-ellátási tervezés módszertana szabályozásának kidolgozása.
+
+## Felelős: gazdaságpolitikáért felelős miniszter
+
+## honvédelemért felelős miniszter
+
+## katasztrófák elleni védekezésért felelős miniszter
+
+## energiapolitikáért felelős miniszter
+
+## érintett miniszterek
+
+## megyei, fővárosi védelmi bizottságok elnökei
+
+## Határidő: 2012. szeptember 30.
+
+## c) A gazdaságmozgósítási célú adatgyűjtés végrehajtása, a beérkező adatok feldolgozása.
+
+## Felelős: gazdaságpolitikáért felelős miniszter
+
+## honvédelemért felelős miniszter
+
+## katasztrófák elleni védekezésért felelős miniszter
+
+## a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter
+
+## polgári hírszerzési tevékenység irányításáért felelős miniszter
+
+## rendészetért felelős miniszter
+
+## energiapolitikáért felelős miniszter
+
+## agrárpolitikáért felelős miniszter
+
+## megyei, fővárosi védelmi bizottságok elnökei
+
+## Határidő: 2012. szeptember 30.
+
+## d) A honvédelemben közreműködő szervek megkeresésével és adatszolgáltatásai alapján készüljön jelentés a nemzetgazdaság különleges jogrend időszaki teljesítőképességéről
+
+## Felelős: gazdaságpolitikáért felelős miniszter
+
+## energiapolitikáért felelős miniszter
+
+## egészségügyért felelős miniszter
+
+## honvédelemért felelős miniszter
+
+## katasztrófák elleni védekezésért felelős miniszter
+
+## kormányzati tevékenység összehangolásáért felelős miniszter
+
+## Határidő: 2012. november 30.
+
+## 7. Végre kell hajtani a területi és helyi szinten működő védelmi bizottságok kötelező tervrendszerének átfogó felülvizsgálatát.
+
+## Felelős: honvédelemért felelős miniszter
+
+## katasztrófák elleni védekezésért felelős miniszter
+
+## kormányzati tevékenység összehangolásáért felelős miniszter
+
+## gazdaságpolitikáért felelős miniszter
+
+## egészségügyért felelős miniszter
+
+## megyei, fővárosi védelmi bizottságok elnökei
+
+## Határidő: 2012. november 30.
+
+## 8. A Honvédelmi Tanács és a Kormány speciális működési feltételeivel összefüggő feladatok
+
+## a) Folytatni kell a csökkentett üzemeltetési követelmények szerinti működtetést, a képességek fenntartását, az üzemeltetési tevékenység racionalizálását.
+
+## Felelős: honvédelemért felelős miniszter
+
+## Határidő: folyamatos
+
+## b) Kerüljön levezetésre komplex védelmi igazgatási rendszergyakorlat „Védelem 2013” néven 2013-ban. A gyakorlatra történő felkészülés 2012-ben a támogató, biztosító és törzs elemek részleges bevonásával kerüljön végrehajtásra. A feladatok végrehajtásának rendjét külön levezetési terv tartalmazza.
+
+## Felelős: honvédelemért felelős miniszter
+
+## miniszterek
+
+## Határidő: 2012. december 15.
+
+## c) Ki kell dolgozni a Honvédelmi Tanács és a Kormány különleges jogrendben (kivéve veszélyhelyzet) történő speciális működési rendjéről szóló elgondolást.
+
+## Felelős: honvédelemért felelős miniszter
+
+## miniszterek
+
+## Határidő: 2012. október 30.
+
+## d) Biztosítani kell a K-600/KTIR Hírközlési és Informatikai Rendszer kormányzati célú működésének és fenntartásának feltételeit.
+
+## Felelős: honvédelemért felelős miniszter
+
+## Határidő: folyamatos
+
+## e) Meg kell kötni az a) pontban szereplő feladatok ellátásához szükséges 2012. évi szerződéseket.
+
+## Felelős: közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter
+
+## honvédelemért felelős miniszter
+
+## Határidő: 2012. szeptember 30.
+
+## f) Meg kell vizsgálni a K-600/KTIR Hírközlési és Informatikai Rendszert és ennek alapján ki kell dolgozni a kormányzati érdekű, nemzeti elektronikus minősített adattovábbító és feldolgozó rendszer kialakítására vonatkozó elgondolást.
+
+## Felelős: minősített adatok védelmének szakmai felügyeletéért felelős miniszter
+
+## közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter
+
+## honvédelemért felelős miniszter
+
+## Határidő: 2012. november 30.
+
+## g) Pontosítani kell a központi közigazgatási szervekkel, valamint a védelmi igazgatási feladatok végrehajtásában érintett szervezettekkel a K-600/KTIR Hírközlési és Informatikai Rendszer üzemeltetési helyeit (végpontjait), a szervezeti változások függvényében végre kell hajtani a szükséges módosításokat.
+
+## Felelős: honvédelemért felelős miniszter
+
+## miniszterek
+
+## Határidő: 2012. június 30.
+
+## 9. Létfontosságú rendszerek és létesítmények védelme
+
+## A létfontosságú rendszerek és létesítmények védelme Nemzeti Programjából a honvédelmi ágazatra háruló feladatok végzése és tárcaszintű koordinációja, az ágazat képviselete a létfontosságú rendszerek és létesítmények védelmével kapcsolatos Konzultációs Fórumon, a honvédelmi érdekből létfontosságú rendszerek és létesítmények védelmének javítására vonatkozó intézkedési tervek kidolgozása.
+
+## Felelős: honvédelemért felelős miniszter
+
+## katasztrófák elleni védekezésért felelős miniszter
+
+## közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter
+
+## közlekedésért felelős miniszter
+
+## energiapolitikáért felelős miniszter
+
+## Határidő: 2012. november 30.
+
+## 10. A honvédelmi irányítás jogkörében, a honvédelemért felelős miniszter által jóváhagyott terv alapján, az érintett államigazgatási szervek bevonásával átfogó, felügyeleti ellenőrzést kell lefolytatni a Fejér Megyei, a Győr-Moson-Sopron Megyei, valamint a Pest Megyei Védelmi Bizottságoknál és munkaszervezetüknél, valamint célellenőrzést kell végrehajtani a Vas Megyei, valamint a Jász-Nagykun-Szolnok Megyei Védelmi Bizottságoknál és munkaszervezetüknél
+
+## Felelős: honvédelmért felelős miniszter
+
+## katasztrófák elleni védekezésért felelős miniszter
+
+## gazdaságpolitikáért felelős miniszter
+
+## kultúráért felelős miniszter
+
+## az érintett megyei védelmi bizottságok elnökei
+
+## Határidő: 2012. november 30.
+
+## 11. A Kormány számára szóló jelentés összeállításához tájékoztatót kell küldeni a honvédelmi miniszter részére a 2012. évi védelmi igazgatási feladatterv végrehajtásáról, a jóváhagyott költségvetési források felhasználásáról.
+
+## Felelős: miniszterek
+
+## megyei, fővárosi védelmi bizottságok elnökei
+
+## Határidő: 2012. december 15.
+
+## 12. Javaslatokat kell küldeni a honvédelmi miniszter és a katasztrófák elleni védekezésért felelős miniszter részére a védelmi felkészítés 2013. évi feladattervének összeállítása érdekében a feladatokhoz tartozó költségvetési igények megjelölésével.
+
+## Felelős: miniszterek
+
+## megyei, fővárosi védelmi bizottságok elnökei
+
+## Határidő: 2012. december 15.
+
+2. melléklet az 1182/2012. (VI. 1.) Korm. határozathoz
