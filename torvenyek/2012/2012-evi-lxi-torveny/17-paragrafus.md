@@ -1,3 +1,0 @@
-17. § Az Ásztltv. 4. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A tudományos kutató a faji eredetre, a nemzetiségi és etnikai hovatartozásra, a vallásos vagy más világnézeti meggyőződésre vonatkozó adatokat – a védelmi időn belül – anonimizáltan ismerheti meg. A Levéltár az anonimizálás nélküli megismerést akkor engedélyezi, ha a megfigyelés célja a faji eredettel, a nemzeti, nemzetiségi és etnikai hovatartozással, illetve a vallásos vagy más világnézeti meggyőződéssel összefüggésbe hozható, és a tudományos kutató igazolja, hogy korábban elkezdett és publikációval alátámasztott kutatásához ezen adatok megismerése szükséges.”
