@@ -1,1 +1,3 @@
-## 13. § A Mikr. 14. § (5) bekezdésében a „2012. július 1-jén” szövegrész helyébe a „2012. szeptember 1-jén” szöveg lép.
+14. §[^14]
+
+[^14]: A 7–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
