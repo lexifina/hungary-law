@@ -1,3 +1,0 @@
-## 12. § A földgáz rendszerhasználat árszabályozásának kereteiről szóló 74/2009. (XII. 7.) KHEM rendelet (a továbbiakban: R2.) 2. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A Magyarország államhatárán belül található szállítóvezeték-rendszer (a továbbiakban: alaprendszer), az elosztó-vezetékrendszer és a tárolói rendszer rendszerhasználati díjainak megállapítására, valamint a rendszerirányítási díj megállapítására a 4. mellékletben foglaltakat kell alkalmazni. Az alaprendszeren belül a rendszerhasználati díjak az importbetáplálási pontokon azonos árszabályozási alapelvek mentén kerülnek meghatározásra.”

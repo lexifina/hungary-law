@@ -1,1 +1,0 @@
-## „(4a) Ha a kereskedelmi engedélyesek a határozat meghozatalát követően a (4) bekezdésben foglalttól eltérő esetben többlet kapacitást kívánnak lekötni, a többlet kapacitásért az egyetemes szolgáltatásra nem jogosultak ellátására tekintettel megállapított kapacitásdíjat kötelesek megfizetni.”
