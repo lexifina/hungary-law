@@ -70,6 +70,8 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a védelmi felkészítés egyes kérdéseiről szóló 1105/2011. (IV. 22.) Korm. határozat.
+## 3.[^2]
 
 1. melléklet az 1182/2012. (VI. 1.) Korm. határozathoz
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
