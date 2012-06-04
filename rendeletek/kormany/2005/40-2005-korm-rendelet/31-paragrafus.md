@@ -1,3 +1,0 @@
-## X. Fejezet
-
-## ZÁRÓ RENDELKEZÉSEK
