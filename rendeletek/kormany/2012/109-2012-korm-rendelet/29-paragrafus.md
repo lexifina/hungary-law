@@ -1,0 +1,1 @@
+## 28. § A beszerzési szerződésre a Kbt. 124. § (1)–(6) bekezdését, a (8) bekezdés a), c) és d) pontját, a (9) bekezdését, a 125. § (1)–(3) bekezdését, a 126. §-át, 128. §-át, a 129. § (1)–(8) bekezdéseit, a 130. §-át és a 132. §-át a jelen alcímben meghatározott eltérésekkel, megfelelően kell alkalmazni.

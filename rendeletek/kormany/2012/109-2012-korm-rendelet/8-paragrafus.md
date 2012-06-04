@@ -1,0 +1,3 @@
+8. § (1) E rendelet alkalmazásában a beszerzési eljárást megindító, vagy módosító hirdetményt és az eljárás eredményéről szóló tájékoztatást tartalmazó hirdetményt az R1.-ben meghatározott NATO Beszállítói Információs Honlapon (a továbbiakban: honlap) kell közzétenni.
+
+(2) A hirdetményként megjelenő dokumentumok mintáit az 1–3. mellékletek tartalmazzák. A hirdetmény honlapon történő megjelenésének napja egyben a hirdetmény közzétételének, az eljárás megindításának, vagy módosításának kezdőnapja is. Hirdetmény nélküli tárgyalásos eljárás esetében az eljárás megindításának kezdőnapja az ajánlattételi felhívás megküldésének napja.
