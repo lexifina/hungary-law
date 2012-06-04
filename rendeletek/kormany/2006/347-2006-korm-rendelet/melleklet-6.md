@@ -12,7 +12,7 @@
 
 |  | * Megjegyzés A megyei népegészségügyi szakigazgatási szerv feladatait a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el. |  |  |  |  |  |  |
 
-6. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^135]
+6. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^136]
 
 A Tvt. 51. § (1) bekezdésében foglalt természetvédelmi hatóságként az alábbi felügyelőségek járnak el:
 
@@ -82,4 +82,4 @@ b) az Észak-Magyarországi Környezetvédelmi, Természetvédelmi és Vízügyi
 
 8. Heves megye az a) pont 13. alpontjában felsorol települések kivételével.
 
-[^135]: A 6. számú mellékletet a 282/2011. (XII. 21.) Korm. rendelet 17. § (3) bekezdése iktatta be.
+[^136]: A 6. számú mellékletet a 282/2011. (XII. 21.) Korm. rendelet 17. § (3) bekezdése iktatta be.

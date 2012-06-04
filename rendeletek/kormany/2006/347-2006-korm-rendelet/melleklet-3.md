@@ -24,7 +24,7 @@
 
 ## Körös-vidéki Vízügyi Igazgatóság, Gyula
 
-## II. A vízügyi igazgatóságok működési köre[^129]
+## II. A vízügyi igazgatóságok működési köre[^130]
 
 ## 1. ÉSZAK-DUNÁNTÚLI VÍZÜGYI IGAZGATÓSÁG
 
@@ -1502,7 +1502,7 @@
 
 ## Biharnagybajom-Nagyrábé-Darvas község határában az Ó-Berettyó-csatorna.
 
-3. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^130]
+3. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^131]
 
-[^129]: A 2. számú melléklet II. pontja a 344/2009. (XII. 30.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^130]: A 3. számú melléklet a 15/2008. (I. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^130]: A 2. számú melléklet II. pontja a 344/2009. (XII. 30.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^131]: A 3. számú melléklet a 15/2008. (I. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
