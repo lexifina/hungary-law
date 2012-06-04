@@ -1,0 +1,1 @@
+## 1. § A Kormány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján a Székesfehérvári Fűtőerőmű Korlátolt Felelősségű Társaságot (székhelye: 8000 Székesfehérvár, Királysor 1. B. épület) stratégiailag kiemelt jelentőségű gazdálkodó szervezetnek minősíti.
