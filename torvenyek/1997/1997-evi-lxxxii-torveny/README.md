@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-82-00-00
 | 2011-12-31 | 2011. évi CXCIV. törvény | 1997-82-00-00.44 |
 | 2012-01-01 | 2011. évi CXCI. törvény | 1997-82-00-00.45 |
 | 2012-03-01 | 2012. évi V. törvény | 1997-82-00-00.46 |
+| 2012-06-05 | 2012. évi LXIV. törvény | 1997-82-00-00.47 |
