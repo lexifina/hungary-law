@@ -2,4 +2,6 @@
 
 34. § (1) Ez a rendelet a kihirdetést követő harmadik napon lép hatályba.
 
-(2) Hatályát veszti a NATO Biztonsági Beruházási Program keretében megvalósuló beszerzésekre vonatkozó részletes szabályokról szóló 40/2005. (III. 10.) Korm. rendelet.
+(2)[^1]
+
+[^1]: A 34. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
