@@ -1,0 +1,154 @@
+# A Kormány 1183/2012. (VI. 5.) Korm. határozata
+
+Magyar Közlöny 2012. évi 67. szám, 2012. június 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/846f4e312e09a4c6072fee3ba2ddc9fc3b78a7bc/dokumentumok/e5ffece5adb8446e1b08cb6ca78247810ab3d6b9/letoltes)
+
+---
+
+A Kormány 1183/2012. (VI. 5.) Korm. határozata
+a Kormány és a Magyar Cserkészszövetség közötti együttműködés kereteinek meghatározásáról
+A Kormány
+1. elismeri a Magyar Cserkészszövetség és a Magyar Cserkészszövetségek Fórumának az elmúlt 100 év során szerzett
+érdemeit a magyar ifjúság nevelése, valamint a magyar nemzeti nyelv és kultúra megőrzése területén,
+2. egyetért azzal, hogy a miniszterelnök a Kormány nevében a Magyar Cserkészszövetséggel az 1. melléklet szerinti
+együttműködési megállapodást aláírja,
+Felelős: miniszterelnök
+Határidő: 2012. június 15.
+3. egyetért azzal, hogy a miniszterek a jogszabályok előkészítésében való társadalmi részvételről szóló törvénynek
+megfelelő stratégiai partnerségi megállapodást kössenek a Magyar Cserkészszövetséggel, és folyamatos
+egyeztetéseket folytassanak a Magyar Cserkészszövetséggel az együttműködés újabb területeinek meghatározása
+céljából,
+Felelős: feladatkörükben érintett miniszterek
+Határidő: 2012. december 31.
+4. felhívja a minisztereket, hogy feladatkörükben eljárva e kormányhatározattal összhangban alakítsák ki az ágazati
+együttműködés kereteit a Magyar Cserkészszövetséggel,
+Felelős: feladatkörükben érintett miniszterek
+Határidő: 2012. december 31.
+5. törekszik arra, hogy a Magyar Cserkészszövetség taglétszámának növelése érdekében a miniszterek ágazati
+feladataihoz igazodó költségvetési támogatás nyújtásának lehetőségét biztosítsa.
+Felelős: feladatkörükben érintett miniszterek
+nemzetgazdasági miniszter
+Határidő: a központi költségvetésről szóló törvény tervezése során
+Orbán Viktor s. k.,
+miniszterelnök
+
+1. melléklet az 1183/2012. (VI. 5.) Korm. határozathoz
+Együttműködési megállapodás
+Amely létrejött egyrészről
+Magyarország Kormánya (képviseli Orbán Viktor miniszterelnök, a továbbiakban: Kormány),
+másrészről a
+Magyar Cserkészszövetség (székhely: 1025 Budapest, Tömörkény u. 3/a – 2. emelet, nyilvántartási szám: 60.001/1989,
+képviseli Buday Barnabás országos elnök, a továbbiakban: MCSSZ) között
+preambulum
+Szerződő felek
+– elismerve, hogy az MCSSZ 1912. december 28-án történt megalapítása óta igen fontos szerepet töltött be
+a magyar ifjúság nevelése területén,
+– elismerve, hogy az kommunista diktatúra az MCSSZ 1948-as magyarországi betiltásával, tagjainak üldözésével,
+vagyonának államosításával szinte helyrehozhatatlan kárt okozott a magyar cserkészetben,
+– értékelve, hogy a magyar cserkészet Magyarországon és a környező országokban élő magyarság körében,
+valamint a világon szórványban élő magyarok közt is megőrizte az általa képviselt értékeket a kommunizmus
+évtizedei alatt,
+– tudomásul véve, hogy az MCSSZ 1948-as betiltása előtt jelentős vagyonnal rendelkezett, amiért a hatályos
+jogszabályok alapján kárpótlásban nem részesülhetett,
+– elismerve, hogy az MCSSZ a mai magyar társadalom és az állam számára is igen hasznos önkéntes munkát szervez
+és végez önkéntesei által,
+– elismerve, hogy az MCSSZ a World Organization of the Scout Movement (WOSM) tagjaként több millió fiatalt
+megmozgató világméretű kapcsolatrendszerrel rendelkezik,
+– elismerve, hogy az MCSSZ a Civil tv., valamint a Ptk. rendelkezései alapján önkéntesen létrehozott,
+önkormányzattal rendelkező civil szervezet, amely a Cserkésztörvények szabályai és szellemisége alapján az
+alapszabályában meghatározott céljának elérésére szervezi tagjai tevékenységét.
+– elismerve, hogy az MCSSZ mellett a Magyar Cserkészszövetségek Fórumának más tagszervezetei is aktív szerepet
+vállalnak az országhatáron túl élő magyar ifjúság nevelésében.
+– annak előmozdítása érdekében, hogy az MCSSZ a társadalom szempontjából hasznos tevékenységét minél több
+önkéntes bevonásával, minél szélesebb körben végezhesse,
+– annak érdekében, hogy a cserkészet értékei minél több magyar gyermekhez és fiatalhoz eljuthassanak,
+– az Alaptörvény D) cikke, VIII. cikk (2) bekezdése és az egyesülési jogról, a közhasznú jogállásról, valamint a civil
+szervezetek működéséről és támogatásáról 2011. évi CLXXV. törvény (a továbbiakban:Civil tv.) rendelkezései által
+szabott keretek közt
+a következő megállapodást kötik:
+I. Az együttműködés célja és keretei
+1. Szerződő Felek
+a) eszközeikhez és lehetőségeikhez mérten támogatják és végrehajtják a gyermek- és ifjúságnevelést érintő
+nevelési-oktatási, kulturális, szociális, egészségügyi, humanitárius és nemzetközi fejlesztési együttműködésük
+előmozdítására, bővítésére, valamint további hasonló területekre történő kiterjesztésére irányuló lépéseket,
+b) tanulmányozzák az együttműködés keretében elfogadott projekteket és a lehető leghatékonyabban elősegítik
+azok megvalósulását,
+c) az együttműködés keretében arra törekszenek, hogy olyan jogszabályok és kormányzati döntések
+születhessenek, amelyek alkalmasak arra, hogy biztosítsák az MCSSZ által végzett közcélú ifjúságnevelési
+tevékenységek működtetését Magyarországon, a MCSSZ és a Kormány/Minisztériumok közötti együttműködést
+az ifjúságneveléssel kapcsolatos tevékenységek végrehajtásában, ezzel pedig a fiatalok testi, lelki, érzelmi, társas
+és szellemi fejlődését, társadalmi elkötelezettségét segítsék elő,
+d) az együttműködés keretében folyamatos párbeszédet folytatnak egymással, amelynek elősegítésére az aláíró
+Felek, közös munkacsoportokat hoznak létre,
+
+e) célul tűzik ki a magyarországi és az államhatáron túli magyar cserkészet erősítését, és egy, a magyar nemzet iránt
+elkötelezett és hazánk jövő nemzedékéért felelős cserkészmozgalom megerősítését ezen szervezetek
+támogatásán keresztül.
+2. A Szerződő Felek az 1. pontban meghatározott célok elérése érdekében megállapodnak abban, hogy az MCSSZ a saját
+tevékenységi területükön a magyar hatóságokkal való tárgyalásokra jogosult szervezeteket (a továbbiakban: kijelölt
+szervezet) jelöl ki. A kijelölt szervezet ilyen tárgyalást akkor folytathat, ha a kijelöléssel szemben Magyarország
+Kormánya nem emel kifogást. A kijelölt szervezeteket a Felek a jelen megállapodáshoz későbbiekben csatolandó
+kiegészítő jegyzőkönyvekben határozzák meg.
+3. A kijelölt szervezet
+a) elláthat minden olyan nevelési-oktatási, kulturális, szociális, egészségügyi, katasztrófavédelmi, sport, valamint
+gyermek- és ifjúságvédelmi tevékenységet, amelyet törvény nem tart fenn kizárólagosan állami vagy helyi
+önkormányzati szerv vagy intézmény számára,
+b) az a) alpont szerinti tevékenységi körben intézményt létesíthet és tarthat fenn, szolgáltatásokat nyújthat és
+projektet hajthat végre,
+c) a magyar hatóságokkal kötött külön megállapodás alapján – a jogszabályi rendelkezéseknek megfelelően – részt
+vehet az 1. pont a) alpontjában meghatározott közfeladatok ellátásában.
+4. Az MCSSZ kötelezettséget vállal az általa kijelölt szervezetnek az állami és helyi önkormányzati szervekkel,
+intézményekkel való együttműködése biztosítására a jelen megállapodás végrehajtásából eredő feladatok hatékony
+ellátása érdekében.
+II. Támogató intézkedések
+5. A Kormány kötelezettséget vállal arra, hogy a jelen megállapodás céljának betöltését a következő intézkedéseivel
+segíti:
+a) az MCSSZ társadalmi célokat szolgáló fejlesztési intézkedések megvalósításába történő bevonása pályázati
+projekteken keresztül,
+b) jogszabályban meghatározott állami közfeladat MCSSZ vagy a kijelölt szervezet általi ellátása esetén, az állami
+vagy helyi önkormányzati szervvel, intézménnyel azonos feltételek szerinti költségvetési támogatás biztosítása,
+c) a magánszemélyek személyi jövedelemadójuk egy százalékáról a kijelölt szervezet és az általa létrehozott, önálló
+jogi személyiséggel rendelkező közhasznú szervezetek javára való rendelkezés biztosítása.
+6. Az 5. pont szerinti intézkedések nem zárják ki a kijelölt szervezet részére az átvállalt közfeladat hatékonyabb ellátása
+érdekében az állami szervek, intézmények, a helyi önkormányzat és a helyi és helyi önkormányzati szervek,
+intézmények által nyújtható egyéb támogatást, így különösen a tulajdonukban lévő ingatlanok térítésmentes
+tulajdonba adását vagy azok hosszútávra szóló ingyenes használatra történő átengedését.
+7. A Kormány a jog által biztosított kereteken belül védelmet nyújt az MCSSZ, valamint a WOSM nevével, lobogójával,
+címerével és más jelvényeivel való visszaélések ellen.
+III. Egyeztetések a Szerződő Felek között
+8. A Szerződő Felek a jelen megállapodás végrehajtásában kölcsönösen együttműködve járnak el, és annak teljesítését
+érintő minden lényeges körülményről egymást tájékoztatják.
+9. A Szerződő Felek – a cserkészmunkára való közvetlen kihatása esetén – a következő tárgykörökkel kapcsolatos
+jogszabályok és azok módosítása előkészítésénél együttműködési kötelezettséget vállalnak:
+a) ifjúságpolitikai ügyek,
+b) oktatási ügyek (közoktatás, köznevelés),
+c) honvédelmi nevelés,
+d) nemzetpolitika,
+e) társadalmi felzárkóztatás,
+f) civil szféra szabályozás,
+g) önkéntesség,
+h) környezet és természetvédelem,
+i) kulturális örökség gondozása,
+j) egészséges életmódra nevelés, sport és táboroztatás,
+k) támogatáspolitika.
+
+A Szerződő Felek a jogszabályok és azok módosítása előkészítésében vállalt együttműködési kötelezettségük
+teljesítésére közös munkacsoportokat alakítanak és működtetnek. A közös munkacsoportok évente legalább kétszer
+üléseznek, az üléseket az ágazati feladatokért felelős miniszter hívja össze. A közös munkacsoport létszámát,
+szervezetét és működését az MCSSZ és az ágazati feladatokért felelős miniszter jelen megállapodáshoz fűzött
+kiegészítő jegyzőkönyvekben állapítja meg.
+11. A Szerződő Felek a közös munkacsoportokon túli aktuális feladataik meghatározása érdekében, valamint a szakmai,
+koncepcionális kérdések megtárgyalása céljából évente legalább két alkalommal személyes egyeztetést tartanak.
+12. A személyes részvétellel történő egyeztetést bármelyik Szerződő Fél kezdeményezhet a másik Szerződő Félhez
+intézett írásos javaslatában, amelyben a javaslatot tevő Szerződő Fél megjelöli a személyes részvétellel történő
+egyeztetéstervezett időpontját,valamintaszemélyesrészvételleltörténőegyeztetésselérintenikívánttémaköröket.
+13. Szerződő Felek kötelezettséget vállalnak arra, hogy az egyeztetéseiken felmerülő adatokat, információkat az azokra
+irányadó adatvédelmi és titoktartási szabályok szerint kezelik.
+IV. Záró rendelkezések
+14. Jelen megállapodást a Felek határozatlan időre kötik.
+15. A megállapodást bármelyik fél a másik félhez intézett írásbeli nyilatkozattal felmondhatja. Felmondás esetén
+a megállapodás hatálya a felmondás közlésétől számított 90. napon szűnik meg.
+16. A jelen megállapodás megszüntetése nem érinti a jelen megállapodás hatálya alatt megkötött egyedi
+megállapodások hatályát és a megkezdett projektek befejezését.
+Magyarország Kormánya nevében A Magyar Cserkészszövetség nevében
+Orbán Viktor Buday Barnabás
+miniszterelnök országos elnök
