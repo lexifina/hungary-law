@@ -1,0 +1,3 @@
+3. § A Nyugdíjreform és Adósságcsökkentő Alapról, és a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvénymódosításokról szóló 2010. évi CLIV. törvény 1. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az Mpt. 24. § (17) bekezdésében foglaltak alapján a társadalombiztosítási nyugdíjrendszerbe visszalépő pénztártag természetes személyek követelését a Magyar Állam által kibocsátott hitelviszonyt megtestesítő értékpapírban (a továbbiakban: állampapír) kell a Nyugdíjreform és Adósságcsökkentő Alapnak átadni, azzal, hogy ha valamely, a tag portfóliójában lévő eszköz helyett az állampapírban való átadás a külön jogszabályban meghatározott határidőig nem lehetséges, akkor az eszköz értékének megfelelő pénzösszeget kell az Alap részére átadni.”
