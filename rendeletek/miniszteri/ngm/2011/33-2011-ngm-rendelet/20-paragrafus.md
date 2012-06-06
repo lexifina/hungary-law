@@ -1,3 +1,0 @@
-20. § (1) Ha a kifogás alapos, a miniszter elrendeli a kifogásban sérelmezett helyzet megszüntetéséhez szükséges intézkedések megtételét. Ha kifogásban sérelmezettek folytán a kifogást tevő nem nyert támogatást, a támogató a kifogást tévő támogatási kérelmét ismételten elbírálja.
-
-(2) Ha a támogatás nyújtására irányadó eljárásban kezelő szerv vagy lebonyolító szervezet működik közre, a miniszter által a kifogásban sérelmezett helyzet megszüntetéséhez szükséges intézkedéseket és a kifogást tevő támogatási kérelmét a kezelő szerv vagy a lebonyolító szervezet teszi meg, illetve bírálja el. A kezelő szerv vagy a lebonyolító szervezet a megtett intézkedésekről írásban tájékoztatja a minisztert.

@@ -1,1 +1,0 @@
-Az államháztartásról szóló 1992. évi XXXVIII. törvény 124. § (9) bekezdésében kapott felhatalmazás alapján, az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 2. § 6. pont k) alpontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

@@ -1,3 +1,0 @@
-19. § (1) A kezelő szerv vagy a lebonyolító szervezet által lefolytatott pályázati eljárással, vagy az általuk meghozott intézkedéssel, döntéssel kapcsolatos kifogást – ha azt a kifogást tevő közvetlenül a miniszterhez nyújtotta be – a miniszter a kifogás benyújtását követő 10 munkanapon belül továbbítja lebonyolító szervezetnek.
-
-(2) A kezelő szerv vagy a lebonyolító szervezet az (1) bekezdés szerint részére továbbított kifogással kapcsolatos szakmai álláspontjáról írásban, a kifogás elbírálásával kapcsolatos döntés meghozatalához szükséges iratok másolatának csatolásával a kézhezvételt követő 5 munkanapon belül tájékoztatja a minisztert.

@@ -1,3 +1,0 @@
-15. § (1) A támogatott program (projekt) lezárása – a támogatott cél vagy célok támogatási szerződés, támogatói okirat szerinti megvalósulását követően – a megvalósításról szóló írásbeli szakmai beszámoló, továbbá a teljes támogatási összeg elszámolásáról készített pénzügyi elszámolás alapján a kedvezményezett nyilatkozatával és annak a támogató általi elfogadásával történik.
-
-(2) A szakmai beszámoló és a pénzügyi elszámolás értékelését a támogató az adatok beérkezésétől számított 60 napon belül elvégzi és ennek eredményéről a kedvezményezettet értesíti. A határidőbe az esetleges hiánypótlásra előírt határidő nem számít bele.
