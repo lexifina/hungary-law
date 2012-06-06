@@ -1,12 +1,12 @@
 ## Az OTKA szervezete
 
-2. § (1) Az OTKA vezető testülete az Országos Tudományos Kutatási Alapprogramok Bizottsága (a továbbiakban: OTKA Bizottság), amely elnökből, két alelnökből és 15 tagból áll. Az egyik alelnök személyére a Magyar Rektori Konferencia, a Főiskolai Főigazgatói Konferencia, valamint a Művészeti Egyetemek Rektori Széke együttesen, a másikra az Akadémiai Kutatóhelyek Tanácsa tesz javaslatot.
+2. § (1) Az OTKA vezető testülete az Országos Tudományos Kutatási Alapprogramok Bizottsága (a továbbiakban: OTKA Bizottság), amely elnökből, két alelnökből és 15 tagból áll. Az egyik alelnök személyére a Magyar Rektori Konferencia, valamint a Művészeti Egyetemek Rektori Széke együttesen, a másikra a Magyar Tudományos Akadémia elnöke tesz javaslatot.
 
 (2) Az elnököt és az alelnököket hároméves időtartamra – az Akadémia elnöke és az oktatásért felelős miniszter közös javaslatára – a miniszterelnök bízza meg. A megbízatás egy alkalommal, újabb hároméves időtartamra meghosszabbítható.
 
 (3) Az OTKA Bizottság tagjai:
 
-a) az oktatásért felelős miniszter által – az agrárpolitikáért felelős miniszter, a gazdaságpolitikáért felelős miniszter, a környezetvédelemért felelős miniszter, a területfejlesztésért felelős miniszter és az egészségügyért felelős miniszter egyetértésével – javasolt öt szakértő;
+a) az oktatásért felelős miniszter és az egészségügyért felelős miniszter által – az agrárpolitikáért felelős miniszter és a környezetvédelemért felelős miniszter, a gazdaságpolitikáért felelős miniszter és a kutatás-fejlesztésért és technológiai innovációért felelős miniszter egyetértésével – javasolt öt szakértő;
 
 b) az Akadémia elnöke által javasolt két szakértő;
 
@@ -14,11 +14,11 @@ c) a közgyűjtemények igazgatói által javasolt egy szakértő;
 
 d) a felsőoktatási konferenciák által javasolt három szakértő;
 
-e) az Országos Műszaki Fejlesztési Bizottság ügyvezető elnöke által javasolt egy szakértő;
+e) a Nemzeti Innovációs Hivatal elnöke által javasolt egy szakértő;
 
 f) a három Tudományterületi Kollégium elnöke.
 
-(4) Az OTKA Bizottság tagjait – a Tudományterületi Kollégium elnökeinek kivételével – a miniszterelnök bízza meg hároméves időtartamra. A megbízatás egy alkalommal, újabb hároméves időtartamra meghosszabbítható. Az OTKA Bizottság nem köztisztviselői jogviszonyban álló tagjai nem lehetnek egyidejűleg más, központi költségvetésből finanszírozott tudománytámogató program vezető testületének tagjai. Az OTKA Bizottság 2. § (3) bekezdés a) pontja szerint felkért köztisztviselők tisztsége köztisztviselői jogviszonyuk megszűnése esetén megszűnik.
+(4) Az OTKA Bizottság tagjait – a Tudományterületi Kollégium elnökeinek kivételével – a miniszterelnök bízza meg hároméves időtartamra. A megbízatás egy alkalommal, újabb hároméves időtartamra meghosszabbítható. Az OTKA Bizottság nem kormánytisztviselői jogviszonyban álló tagjai nem lehetnek egyidejűleg más, központi költségvetésből finanszírozott tudománytámogató program vezető testületének tagjai. Az OTKA Bizottság 2. § (3) bekezdés a) pontja szerint felkért kormánytisztviselők tisztsége kormánytisztviselői jogviszonyuk megszűnése esetén megszűnik.
 
 (5) Az OTKA Bizottság keretében tudományterületenként Tudományterületi Kollégiumok működnek. A Tudományterületi Kollégiumok elnökeit és tagjait az OTKA Bizottság titkos szavazással kialakított javaslata alapján a Bizottság elnöke kéri fel három évre. A Kollégiumok elnökeinek megbízatása egy alkalommal, újabb hároméves időtartamra meghosszabbítható.
 

@@ -4,7 +4,7 @@
 
 (2) A kutatás (szerződés szerinti) befejezésekor – a pályázó által készített beszámoló alapján – a tevékenység eredményességét és az előirányzatok felhasználását az OTKA Bizottságnak az 5. § (1) bekezdésében meghatározott testületei szakértők bevonásával értékelik.
 
-(3) Az OTKA Bizottság – a pályázati beszámolók rendszeres értékelése során kiemelt szempontként – az Országos Műszaki Fejlesztési Bizottsággal közösen értékeli az innovációra alkalmas pályázati eredményeket.
+(3) Az OTKA Bizottság – a pályázati beszámolók rendszeres értékelése során kiemelt szempontként – értékeli az innovációra alkalmas pályázati eredményeket.
 
 (4) Az infrastruktúra fejlesztésére benyújtott pályázatokra odaítélt előirányzatok felhasználását az OTKA Bizottság – a szerződésben rögzített időszakonként – értékeli.
 
