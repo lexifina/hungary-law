@@ -1,0 +1,3 @@
+4. § Az OTKA tv. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A beérkező pályázatokat az OTKA Tudományterületi Kollégiumain belül működő zsűrik által felkért magyar és külföldi szakértők véleményezik szakmai és költségtervezési szempontból. A vélemények alapján a zsűrik rangsorolják a pályázatokat és javaslatot tesznek a támogatásukra. A szakmai zsűrik észrevételei alapján, az OTKA Bizottság által meghatározott kiemelt tudományos kutatási irányok figyelembevételével, a Tudományterületi Kollégiumok javaslatot tesznek az OTKA Bizottságnak a pályázatok támogatására a költségterv fő tételei szerinti előirányzati bontásban. A nyertes pályázatok és a pályázatok támogatási összegének listája az OTKA Bizottság honlapján nyilvános.”
