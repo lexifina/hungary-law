@@ -1,0 +1,1 @@
+## 3. § Az előirányzatok cél szerinti, időbeni és szabályos, gazdaságos, hatékony és eredményes felhasználásáért, a feladatok végrehajtása érdekében szükséges intézkedések megtételéért a szakmai kezelő, a kötelezettségvállaló, a kezelő szerv vagy a lebonyolító szerv a felelős.

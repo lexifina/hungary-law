@@ -1,0 +1,1 @@
+## 18. § A támogatott program, projekt lezárása a teljes költségvetési támogatási összeg elszámolásáról készített pénzügyi elszámolás alapján a kedvezményezett nyilatkozatával és annak a támogató általi elfogadásával történik.
