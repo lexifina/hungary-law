@@ -68,7 +68,7 @@ o) devizaellátmány-kiegészítés: a béketámogató műveletekben részt vev�
 
 p) vezetői devizaellátmány-pótlék: a béketámogató műveletekben részt vevő kontingensekben, valamint e műveletek magasabb parancsnokságain, törzseiben parancsnoki (vezetői) beosztást ellátók részére a beosztással együtt járó kiemelt felelősség elismerése céljából külföldi pénznemben folyósított juttatás;
 
-q) külföldi napidíj: az ideiglenes külföldi szolgálatot teljesítők és az ideiglenes (három hónapnál nem hosszabb időtartamú) tanulmányokat folytatók részére a külföldi tartózkodással összefüggésben felmerült többletkiadásokhoz és költségekhez való hozzájárulás céljából külföldi pénznemben folyósított juttatás;
+q)[^26] külföldi napidíj: az ideiglenes külföldi szolgálatot teljesítők és az ideiglenes (kilencven napnál nem hosszabb időtartamú) tanulmányokat folytatók részére a külföldi tartózkodással összefüggésben felmerült többletkiadásokhoz és költségekhez való hozzájárulás céljából külföldi pénznemben folyósított juttatás;
 
 r) katonai megfigyelő: nemzetközi szervezet felkérése alapján és szervezésében teljesít fegyvertelen megfigyelői, szakértői, tanácsadói vagy összekötői feladatok végzésére irányuló külföldi szolgálatot, amelynek időtartama alatt külföldi ellátását részben vagy egészben a nemzetközi szervezet biztosítja;
 
@@ -94,3 +94,4 @@ s) fogadó fél: a külföldi képzést felajánló (azt esetlegesen pénzügyil
 [^23]: A 3. § k) pont 5. alpontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés c) pontja, a 3/2012. (III. 6.) HM rendelet 63. § b) pontja szerint módosított szöveg.
 [^24]: A 3. § l) pont 1. alpontja az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés f) pontja, a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés i) pontja szerint módosított szöveg.
 [^25]: A 3. § l) pont 2. alpontja a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^26]: A 3. § q) pontja a 7/2012. (VI. 5.) HM rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.

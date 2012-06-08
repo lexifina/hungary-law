@@ -8,7 +8,7 @@ b) a kiküldött eredeti állomáshelyéről béketámogató feladatokra törté
 
 c) a kiküldött szolgálati érdekből történő ideiglenes hazarendelésekor;
 
-d)[^52] a kiküldött szabadságra történő haza- és visszautazásakor naptári évenként egy alkalommal, kivéve a külföldi szolgálat megkezdésének és befejezésének naptári évét, ha abban az évben a külföldi szolgálat időtartama nem éri el a kilenc hónapot;
+d)[^53] a kiküldött szabadságra történő haza- és visszautazásakor naptári évenként egy alkalommal, kivéve a külföldi szolgálat megkezdésének és befejezésének naptári évét, ha abban az évben a külföldi szolgálat időtartama nem éri el a kilenc hónapot;
 
 e) a kiküldött szülője, gyermeke, házastársa, a házastárs szülője, továbbá a kiküldött testvére elhalálozása esetén;
 
@@ -16,10 +16,10 @@ f) a kiküldött (indokolt esetben kísérőjének) szülés, egészségügyi ki
 
 (2) Az (1) bekezdés a), d)–f) pontjait a családtagi pótlékra jogosító hozzátartozókra is megfelelően alkalmazni kell.
 
-(3)[^53] A honvédség évente egy alkalommal megtéríti a kiküldött részére a kiküldött Magyarországon élő – de az állomáshelyen történő kinttartózkodása alatt egyébként családtagi pótlékra jogosító – házastársa és gyermeke állomáshelyre történő ki- és hazautazásának költségét, kivéve a külföldi szolgálat megkezdésének és befejezésének évét, ha abban az évben a külföldi szolgálat időtartama nem éri el a kilenc hónapot.
+(3)[^54] A honvédség évente egy alkalommal megtéríti a kiküldött részére a kiküldött Magyarországon élő – de az állomáshelyen történő kinttartózkodása alatt egyébként családtagi pótlékra jogosító – házastársa és gyermeke állomáshelyre történő ki- és hazautazásának költségét, kivéve a külföldi szolgálat megkezdésének és befejezésének évét, ha abban az évben a külföldi szolgálat időtartama nem éri el a kilenc hónapot.
 
-(4)[^54] A kiküldött és a családtagi pótlékra jogosító hozzátartozó hazai egészségügyi kivizsgálásra vagy gyógykezelésre való utazását, illetve mellé a kísérő kirendelésének szükségességét az MH Honvédkórház (a továbbiakban: Honvédkórház) igazolja.
+(4)[^55] A kiküldött és a családtagi pótlékra jogosító hozzátartozó hazai egészségügyi kivizsgálásra vagy gyógykezelésre való utazását, illetve mellé a kísérő kirendelésének szükségességét az MH Honvédkórház (a továbbiakban: Honvédkórház) igazolja.
 
-[^52]: A 15. § (1) bekezdés d) pontja a 12/2011. (X. 5.) HM rendelet 9. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^53]: A 15. § (3) bekezdése a 12/2011. (X. 5.) HM rendelet 9. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^54]: A 15. § (4) bekezdése az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés u) pontja, a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés k) pontja szerint módosított szöveg.
+[^53]: A 15. § (1) bekezdés d) pontja a 12/2011. (X. 5.) HM rendelet 9. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^54]: A 15. § (3) bekezdése a 12/2011. (X. 5.) HM rendelet 9. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^55]: A 15. § (4) bekezdése az 1/2011. (III. 8.) HM rendelet 27. § (5) bekezdés u) pontja, a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés k) pontja szerint módosított szöveg.
