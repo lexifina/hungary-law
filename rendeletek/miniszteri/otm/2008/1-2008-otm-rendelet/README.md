@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-1-20-1V
 | --- | --- | --- |
 | 2009-10-01 | 2008-1-20-1V.2 | 1/2008. (I. 11.) ÖTM rendelet |
 | 2012-01-01 | 2008-1-20-1V.3 | 68/2011. (XII. 30.) BM rendelet |
+| 2012-06-08 | 2008-1-20-1V.4 | 28/2012. (V. 31.) BM rendelet |
