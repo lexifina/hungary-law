@@ -1,0 +1,1 @@
+## 1. § Az Európai Közösségi jog hatálya alá tartozó, feltétel nélkül elismerésre kerülő okleveles építészmérnöki oklevelek megnevezéséről és az ezen okiratok birtokosaival azonos jogállású személyek köréről szóló 1/2008. (I. 11.) ÖTM rendelet (a továbbiakban: Rendelet) 1. § (2) bekezdés a) pontjában az „1. számú melléklete” szövegrész helyébe az „1. melléklete” szöveg lép.
