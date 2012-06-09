@@ -1,1 +1,3 @@
-## 4. § A Rendelet 2. számú melléklete a 2. melléklet szerint módosul.
+## 4. §[^4]
+
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

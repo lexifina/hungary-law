@@ -1,1 +1,3 @@
-## 2. § A Rendelet 1. § (2) bekezdés b) pontjában a „2. számú mellékletében” szövegrész helyébe a „2. mellékletében” szöveg lép.
+## 2. §[^2]
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
