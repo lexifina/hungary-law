@@ -10,7 +10,7 @@
 
 4. a mérleg fordulónapján fennálló, a Hpt. szerinti nagy kockázatvállalásnak minősülő hitelek, értékpapírok, részesedések, váltó, csekk, vállalt kötelezettségek, pénzügyi lízing miatti követelés együttes összegét;
 
-5.[^213] a hitelintézetnek az Országos Betétbiztosítási Alapban, az önkéntes betétbiztosítási alapokban, valamint az intézményvédelmi alapokban, a befektető védelmi alapban való tagságát, külön-külön az azokhoz való hozzájárulás összegét, továbbá a külföldön létrehozott fióktelep miatt külföldön igénybe vett kiegészítő betétbiztosítás, illetve ügyfélvédelmi rendszerhez való csatlakozás tényét és a befizetett összeget;
+5.[^216] a hitelintézetnek az Országos Betétbiztosítási Alapban, az önkéntes betétbiztosítási alapokban, valamint az intézményvédelmi alapokban, a befektető védelmi alapban való tagságát, külön-külön az azokhoz való hozzájárulás összegét, továbbá a külföldön létrehozott fióktelep miatt külföldön igénybe vett kiegészítő betétbiztosítás, illetve ügyfélvédelmi rendszerhez való csatlakozás tényét és a befizetett összeget;
 
 6. a hátrasorolt eszközök tételes összegét, kamatlábát, esedékességét, pénznemét. Ez a tájékoztatás kimaradhat akkor, ha az egyedi hátrasorolt eszközök összege az összes hátrasorolt eszközök 10%-ánál kevesebb;
 
@@ -38,15 +38,15 @@
 
 14. a függőleges tagolású I. eredménykimutatás 10. a) tétele, valamint a vízszintes tagolású II. eredménykimutatás 6. a) tétele alatt kimutatott nem pénzügyi és befektetési szolgáltatás ráfordításainak költségnemenkénti bontását;
 
-15.[^214] a Hpt. 5. számú melléklete szerinti el nem számolt kockázati céltartalék, illetve értékvesztés összegét;
+15.[^217] a Hpt. 5. számú melléklete szerinti el nem számolt kockázati céltartalék, illetve értékvesztés összegét;
 
 16. a 3. számú melléklet A–D részeiben bemutatott változatok közül a pénzügyi intézmény által választott szerkezetben a pénzmozgásokat (a pénzforrásokat és azok felhasználását) bemutató cash-flow-kimutatást;
 
 17. a pénzügyi intézménynél függővé tett kamat (ügyleti kamat és késedelmi kamat), kamatjellegű jutalék és – a 17. § (2) bekezdése szerinti – pénzügyi szolgáltatási díjak összegét, valamint az előző év(ek)ben függővé tett kamatból, kamatjellegű jutalékokból és pénzügyi szolgáltatási díjakból az üzleti évben befolyt összeget;
 
-18.[^215] a Magyar Export-Import Bank Részvénytársaság esetében a Kormány által vállalt készfizető kezességgel fedezett, illetve más pénzügyi intézmények által vállalt állami kezességvállalással részben vagy egészben fedezett garanciaügyletek beváltásából adódóan az ügyféllel szemben fennálló követelések, illetve az állammal szemben fennálló tartozások összegét a 0. Nyilvántartási számlák számlaosztályból;
+18.[^218] a Magyar Export-Import Bank Részvénytársaság esetében a Kormány által vállalt készfizető kezességgel fedezett, illetve más pénzügyi intézmények által vállalt állami kezességvállalással részben vagy egészben fedezett garanciaügyletek beváltásából adódóan az ügyféllel szemben fennálló követelések, illetve az állammal szemben fennálló tartozások összegét a 0. Nyilvántartási számlák számlaosztályból;
 
-19.[^216] a Magyar Export-Import Bank Részvénytársaság esetében a Kormány által vállalt készfizető kezességgel fedezett, illetve más pénzügyi intézmények által vállalt állami kezességvállalással részben vagy egészben fedezett garanciaügyletek beváltásából adódó és behajthatatlannak minősített követelések összegét a 0. Nyilvántartási számlák számlaosztályból;
+19.[^219] a Magyar Export-Import Bank Részvénytársaság esetében a Kormány által vállalt készfizető kezességgel fedezett, illetve más pénzügyi intézmények által vállalt állami kezességvállalással részben vagy egészben fedezett garanciaügyletek beváltásából adódó és behajthatatlannak minősített követelések összegét a 0. Nyilvántartási számlák számlaosztályból;
 
 20. a megbízásra végzett befektetési szolgáltatási tevékenység során átvett, a megbízó tulajdonát képező értékpapírok, részesedések névértékét, továbbá az ügyfelet megillető pénzeszközök összegét (külön kimutatva azoknak az ügyfeleknek a pénzét, amelyek pénzforgalmi számláját – elszámolási betétszámláját – a hitelintézet vezeti, valamint azokét az ügyfelekét, amelyek pénzforgalmi számláját más hitelintézet vezeti);
 
@@ -78,7 +78,7 @@ bontásban;
 
 28. a külföldi székhelyű vállalkozás magyarországi fióktelepeként működő pénzügyi intézménynél a külföldi székhelyű vállalkozással vagy annak más fióktelepével szembeni követeléseit és kötelezettségeit – az üzleti évi összevezetést megelőzően –, előző évről áthozott egyenleg és tárgyévben keletkezett tételek bontásban, a keletkezés jogcímének megjelölésével;
 
-29.[^217] a Magyar Export-Import Bank Részvénytársaságnál – a központi költségvetés kockázatának felmérése céljából –, a Kormány készfizető kezességével fedezett, illetve más pénzügyi intézménynél az állami kezességvállalással fedezett exportcélú, illetve egyéb célú garanciaügyletekből adódó be nem váltott kötelezettségek saját kockázattal azonos módon történő minősítésének eredményét és a kötelezettségek egyes minősítési kategóriákba tartozó állományának nagyságát;
+29.[^220] a Magyar Export-Import Bank Részvénytársaságnál – a központi költségvetés kockázatának felmérése céljából –, a Kormány készfizető kezességével fedezett, illetve más pénzügyi intézménynél az állami kezességvállalással fedezett exportcélú, illetve egyéb célú garanciaügyletekből adódó be nem váltott kötelezettségek saját kockázattal azonos módon történő minősítésének eredményét és a kötelezettségek egyes minősítési kategóriákba tartozó állományának nagyságát;
 
 30. az immateriális javakat fajtánként részletezve (beleértve az immateriális javak előlegét is);
 
@@ -88,11 +88,11 @@ bontásban;
 
 33. a pénzügyi lízing követeléseket;
 
-34.[^218]
+34.[^221]
 
 35. a kamatkövetelések után képzett céltartalék mérlegfordulónapi állományát;
 
-36.[^219] az elszámolóház esetében továbbá:
+36.[^222] az elszámolóház esetében továbbá:
 
 a) a letétkezelésbe átvett, nyomdai úton előállított, idegen tulajdonú értékpapírokat értékpapírfajtánként, tőzsdén forgalmazott, illetve tőzsdei forgalomban nem szereplő értékpapírok részletezésben névértéken,
 
@@ -108,21 +108,21 @@ f) a tözsdeforgalmi számla vezetése miatt a befektetési szolgáltatókkal sz
 
 g) a befektetési szolgáltatók által a tőzsdei ügyletek nem teljesítéséből eredő kockázat elkerülése céljából – a tőzsdei szabályzatok alapján – létrehozott, az elszámolóház által kezelt – közös pénzeszköz (garanciaalaphoz) való hozzájárulása miatti kötelezettséget;
 
-37.[^220] a saját számlára, valamint az ügyfél megbízásából kölcsönbe adott és a kölcsönbe vett értékpapírok, továbbá a másodlagos értékpapírok állományát könyv szerinti és piaci értéken, értékpapír fajtánkénti részletezésben;
+37.[^223] a saját számlára, valamint az ügyfél megbízásából kölcsönbe adott és a kölcsönbe vett értékpapírok, továbbá a másodlagos értékpapírok állományát könyv szerinti és piaci értéken, értékpapír fajtánkénti részletezésben;
 
-38.[^221] a biztosítékként, fedezetként, óvadékként kapott és adott eszközök és garancia-, illetve kezességvállalások értékét pénzügyi és befektetési szolgáltatásokkal kapcsolatban elkülönítve;
+38.[^224] a biztosítékként, fedezetként, óvadékként kapott és adott eszközök és garancia-, illetve kezességvállalások értékét pénzügyi és befektetési szolgáltatásokkal kapcsolatban elkülönítve;
 
-39.[^222] a valós értéken történő értékelés alkalmazása esetén az előre jelzett ügyletek típusait, várható szerződés szerinti értékét, teljesítési időpontját, valamint a pénzügyi instrumentumok esetében alkalmazott piaci érték meghatározásának módját, ideértve a származékos ügyletek esetében alkalmazott általános értékelési eljárások, modellek leírását is és az azokhoz kapcsolódó feltételezéseket, tényezőket (így különösen: diszkont tényezők, alternatív befektetések, alternatív befektetések hozama, növekedési ráták);
+39.[^225] a valós értéken történő értékelés alkalmazása esetén az előre jelzett ügyletek típusait, várható szerződés szerinti értékét, teljesítési időpontját, valamint a pénzügyi instrumentumok esetében alkalmazott piaci érték meghatározásának módját, ideértve a származékos ügyletek esetében alkalmazott általános értékelési eljárások, modellek leírását is és az azokhoz kapcsolódó feltételezéseket, tényezőket (így különösen: diszkont tényezők, alternatív befektetések, alternatív befektetések hozama, növekedési ráták);
 
-40.[^223] a külföldi felettes anyavállalat esetében a konszolidált éves beszámoló elkészítése alól mentesülő köztes anyavállalatnak minősülő pénzügyi intézmény az alátartozó konszolidációs körön belüli kapcsolt vállalkozások befektetett eszközeinek, bevételeinek, tárgyévi üzleti eredményének, saját tőkéjének és foglalkoztatottai átlagos állományi létszámának összesített adatait a 26. § (6) bekezdésének f) pontja szerint.
+40.[^226] a külföldi felettes anyavállalat esetében a konszolidált éves beszámoló elkészítése alól mentesülő köztes anyavállalatnak minősülő pénzügyi intézmény az alátartozó konszolidációs körön belüli kapcsolt vállalkozások befektetett eszközeinek, bevételeinek, tárgyévi üzleti eredményének, saját tőkéjének és foglalkoztatottai átlagos állományi létszámának összesített adatait a 26. § (6) bekezdésének f) pontja szerint.
 
-41.[^224] a 2. számú melléklet szerinti függőleges tagolású I. eredménykimutatás 1., 3., 4., 6. a), 6. c), 7., illetve a vízszintes tagolású II. eredménykimutatás „Bevételek” része 1–3., 4. a), 4. b), 7. tételeit belföldi, Európai Unión belüli és Európai Unión kívüli részletezésben, valamint ez utóbbiakat további földrajzi piacok szerinti részletezésben feltéve, hogy a piacok egymástól alapvetően különböznek. E tekintetben a piacok különbözőségének feltételeit és annak alapján kialakított földrajzi piacokat a számviteli politikában kell rögzíteni;
+41.[^227] a 2. számú melléklet szerinti függőleges tagolású I. eredménykimutatás 1., 3., 4., 6. a), 6. c), 7., illetve a vízszintes tagolású II. eredménykimutatás „Bevételek” része 1–3., 4. a), 4. b), 7. tételeit belföldi, Európai Unión belüli és Európai Unión kívüli részletezésben, valamint ez utóbbiakat további földrajzi piacok szerinti részletezésben feltéve, hogy a piacok egymástól alapvetően különböznek. E tekintetben a piacok különbözőségének feltételeit és annak alapján kialakított földrajzi piacokat a számviteli politikában kell rögzíteni;
 
-42.[^225] a határon átnyúló szolgáltatás végzésének tényét, a nyújtott szolgáltatások fajtáit országonkénti részletezésben, valamint a nyújtott szolgáltatások kapcsán külföldi adóhatóságokhoz befizetett (fizetendő) adó együttes összegét;
+42.[^228] a határon átnyúló szolgáltatás végzésének tényét, a nyújtott szolgáltatások fajtáit országonkénti részletezésben, valamint a nyújtott szolgáltatások kapcsán külföldi adóhatóságokhoz befizetett (fizetendő) adó együttes összegét;
 
-43.[^226] a Tv. 54. §-ának (8) bekezdése szerinti befektetési célú, lejáratig tartott, hitelkockázati szempontból kockázatmentesnek minősített értékpapírok állományát.
+43.[^229] a Tv. 54. §-ának (8) bekezdése szerinti befektetési célú, lejáratig tartott, hitelkockázati szempontból kockázatmentesnek minősített értékpapírok állományát.
 
-44.[^227] a valós értéken történő értékelés alkalmazása esetén a pénzügyi instrumentumok más kategóriába való átsorolása kapcsán azt, hogy:
+44.[^230] a valós értéken történő értékelés alkalmazása esetén a pénzügyi instrumentumok más kategóriába való átsorolása kapcsán azt, hogy:
 
 a) az átsorolásra milyen értékben került sor a pénzügyi instrumentumok egyes kategóriáinak vonatkozásában,
 
@@ -138,24 +138,24 @@ f) milyen összegű pénzáramlás várható az átsorolt pénzügyi instrumentu
 
 g) az átsorolt pénzügyi instrumentum tartásának ideje alatt az egyes üzleti években mekkora annak könyv szerinti értéke és valós értéke.
 
-45.[^228] az átstrukturált hitelek (követelések) szerződés szerint fennálló tőkekövetelésre vonatkozó összegét és könyv szerinti (nyilvántartási) értékét;
+45.[^231] az átstrukturált hitelek (követelések) szerződés szerint fennálló tőkekövetelésre vonatkozó összegét és könyv szerinti (nyilvántartási) értékét;
 
-46.[^229] a sajátos értékelési eljárás alá tartozó tételek könyv szerinti (nyilvántartási) értékét legalább követelések, értékpapírok, követelés fejében kapott készletek és mérlegen kívüli kötelezettségek bontásban, eszközminősítési kategóriánkénti, illetve csoportos értékelés alá vont követelések esetében értékelési csoportonkénti részletezésben.
+46.[^232] a sajátos értékelési eljárás alá tartozó tételek könyv szerinti (nyilvántartási) értékét legalább követelések, értékpapírok, követelés fejében kapott készletek és mérlegen kívüli kötelezettségek bontásban, eszközminősítési kategóriánkénti, illetve csoportos értékelés alá vont követelések esetében értékelési csoportonkénti részletezésben.
 
-[^213]: A 25. § 5. pontja a 347/2004. (XII. 22.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
-[^214]: A 25. § 15. pontja a 331/2008. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^215]: A 25. § 18. pontja a 291/2001. (XII. 26.) Korm. rendelet 19. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 22. §-a (1) bekezdésének a) pontja alapján rendelkezéseit a 2001. évről készített éves beszámolónál is alkalmazni lehet.
-[^216]: A 25. § 19. pontja a 291/2001. (XII. 26.) Korm. rendelet 19. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 22. §-a (1) bekezdésének a) pontja alapján rendelkezéseit a 2001. évről készített éves beszámolónál is alkalmazni lehet.
-[^217]: A 25. § 29. pontja a 291/2001. (XII. 26.) Korm. rendelet 19. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 22. §-a (1) bekezdésének a) pontja alapján rendelkezéseit a 2001. évről készített éves beszámolónál is alkalmazni lehet.
-[^218]: A 25. § 34. pontját a 291/2001. (XII. 26.) Korm. rendelet 22. §-ának (3) bekezdése hatályon kívül helyezte.
-[^219]: A 25. § 36. pontját a 291/2001. (XII. 26.) Korm. rendelet 19. §-ának (3) bekezdése iktatta a szövegbe, e módosító rendelet 22. §-a (1) bekezdésének b) pontja alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
-[^220]: A 25. § 37. pontját a 291/2001. (XII. 26.) Korm. rendelet 19. §-ának (3) bekezdése iktatta a szövegbe, e módosító rendelet 22. §-a (1) bekezdésének b) pontja alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
-[^221]: A 25. § 38. pontját a 291/2001. (XII. 26.) Korm. rendelet 19. §-ának (3) bekezdése iktatta a szövegbe, e módosító rendelet 22. §-a (1) bekezdésének a) pontja alapján rendelkezéseit a 2001. évről készített éves beszámolónál is alkalmazni lehet.
-[^222]: A 25. § 39. pontját a 238/2003. (XII. 17.) Korm. rendelet 12. §-a iktatta be, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
-[^223]: A 25. § 40. pontját a 238/2003. (XII. 17.) Korm. rendelet 12. §-a iktatta be, e módosító rendelet 18. § (3) bekezdése alapján a rendelkezést az Európai Közösségek jogával összhangban kell alkalmazni.
-[^224]: A 25. § 41. pontját a 347/2004. (XII. 22.) Korm. rendelet 8. §-ának (2) bekezdése iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
-[^225]: A 25. § 42. pontját a 347/2004. (XII. 22.) Korm. rendelet 8. §-ának (2) bekezdése iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
-[^226]: A 25. § 43. pontját a 347/2004. (XII. 22.) Korm. rendelet 8. §-ának (2) bekezdése iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
-[^227]: A 25. § 44. pontját a 331/2008. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^228]: A 25. § 45. pontját a 325/2009. (XII. 29.) Korm. rendelet 8. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
-[^229]: A 25. § 46. pontját a 325/2009. (XII. 29.) Korm. rendelet 8. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^216]: A 25. § 5. pontja a 347/2004. (XII. 22.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
+[^217]: A 25. § 15. pontja a 331/2008. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^218]: A 25. § 18. pontja a 291/2001. (XII. 26.) Korm. rendelet 19. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 22. §-a (1) bekezdésének a) pontja alapján rendelkezéseit a 2001. évről készített éves beszámolónál is alkalmazni lehet.
+[^219]: A 25. § 19. pontja a 291/2001. (XII. 26.) Korm. rendelet 19. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 22. §-a (1) bekezdésének a) pontja alapján rendelkezéseit a 2001. évről készített éves beszámolónál is alkalmazni lehet.
+[^220]: A 25. § 29. pontja a 291/2001. (XII. 26.) Korm. rendelet 19. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 22. §-a (1) bekezdésének a) pontja alapján rendelkezéseit a 2001. évről készített éves beszámolónál is alkalmazni lehet.
+[^221]: A 25. § 34. pontját a 291/2001. (XII. 26.) Korm. rendelet 22. §-ának (3) bekezdése hatályon kívül helyezte.
+[^222]: A 25. § 36. pontját a 291/2001. (XII. 26.) Korm. rendelet 19. §-ának (3) bekezdése iktatta a szövegbe, e módosító rendelet 22. §-a (1) bekezdésének b) pontja alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
+[^223]: A 25. § 37. pontját a 291/2001. (XII. 26.) Korm. rendelet 19. §-ának (3) bekezdése iktatta a szövegbe, e módosító rendelet 22. §-a (1) bekezdésének b) pontja alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
+[^224]: A 25. § 38. pontját a 291/2001. (XII. 26.) Korm. rendelet 19. §-ának (3) bekezdése iktatta a szövegbe, e módosító rendelet 22. §-a (1) bekezdésének a) pontja alapján rendelkezéseit a 2001. évről készített éves beszámolónál is alkalmazni lehet.
+[^225]: A 25. § 39. pontját a 238/2003. (XII. 17.) Korm. rendelet 12. §-a iktatta be, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^226]: A 25. § 40. pontját a 238/2003. (XII. 17.) Korm. rendelet 12. §-a iktatta be, e módosító rendelet 18. § (3) bekezdése alapján a rendelkezést az Európai Közösségek jogával összhangban kell alkalmazni.
+[^227]: A 25. § 41. pontját a 347/2004. (XII. 22.) Korm. rendelet 8. §-ának (2) bekezdése iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
+[^228]: A 25. § 42. pontját a 347/2004. (XII. 22.) Korm. rendelet 8. §-ának (2) bekezdése iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
+[^229]: A 25. § 43. pontját a 347/2004. (XII. 22.) Korm. rendelet 8. §-ának (2) bekezdése iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
+[^230]: A 25. § 44. pontját a 331/2008. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^231]: A 25. § 45. pontját a 325/2009. (XII. 29.) Korm. rendelet 8. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^232]: A 25. § 46. pontját a 325/2009. (XII. 29.) Korm. rendelet 8. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.

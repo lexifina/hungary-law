@@ -138,6 +138,10 @@ c) sor kerülhet a felek, vagy az adós és az eredeti hitelező kapcsolt válla
 
 50.[^32] a rögzített árfolyam alkalmazási időszaka: a devizakölcsöntv.-ben ilyenként meghatározott időszak.
 
+51.[^33] mentesített követelésrész: a devizakölcsöntv.-ben meghatározott fogalom;
+
+52.[^34] legmagasabb árfolyam: a devizakölcsöntv.-ben ilyenként meghatározott árfolyam.
+
 [^1]: A 2. § 2. pontja a 331/2008. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
 [^2]: A 2. § 8. pontja a 331/2008. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
 [^3]: A 2. § 13. pontja a 291/2001. (XII. 26.) Korm. rendelet 1. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 22. §-a (1) bekezdésének a) pontja alapján rendelkezéseit a 2001. évről készített éves beszámolónál is alkalmazni lehet.
@@ -170,3 +174,5 @@ c) sor kerülhet a felek, vagy az adós és az eredeti hitelező kapcsolt válla
 [^30]: A 2. § 48. pontját a 325/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (4) bekezdését.
 [^31]: A 2. § 49. pontját a 342/2011. (XII. 29.) Korm. rendelet 43. §-a iktatta be.
 [^32]: A 2. § 50. pontját a 342/2011. (XII. 29.) Korm. rendelet 43. §-a iktatta be.
+[^33]: A 2. § 51. pontját a 114/2012. (VI. 8.) Korm. rendelet 26. §-a iktatta be.
+[^34]: A 2. § 52. pontját a 114/2012. (VI. 8.) Korm. rendelet 26. §-a iktatta be.

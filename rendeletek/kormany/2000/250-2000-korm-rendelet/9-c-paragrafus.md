@@ -1,4 +1,4 @@
-9/C. §[^100] (1) A valós értéken történő értékelés esetén a származékos ügyletekre alkalmazni kell a 21. §-t, valamint a 24. § (1)–(4), (10)–(14) bekezdését.
+9/C. §[^102] (1) A valós értéken történő értékelés esetén a származékos ügyletekre alkalmazni kell a 21. §-t, valamint a 24. § (1)–(4), (10)–(14) bekezdését.
 
 (2) A hitelintézetek esetében a származékos ügyleteket – a 9/B. § (2) bekezdése alapján – negyedévente is kötelező értékelni, illetve a számviteli politikában rögzített döntés alapján havonta is értékelhetők.
 
@@ -46,4 +46,4 @@ e) különböző devizák cseréjére vonatkozó swap ügylet esetében a swap �
 
 (15) A kamat-swap ügyletet a kamat elszámolási időpontokban – illetve a kamatok időbeli elhatárolásának időpontjaiban – is értékelni és az értékelési különbözetét módosítani kell kereskedési célú ügylet esetén a befektetési szolgáltatások bevételeivel, illetve ráfordításaival, cash-flow fedezeti ügylet esetében a valós értékelés értékelési tartalékával szemben.
 
-[^100]: A 9/C. §-t a 238/2003. (XII. 17.) Korm. rendelet 6. §-a iktatta be, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^102]: A 9/C. §-t a 238/2003. (XII. 17.) Korm. rendelet 6. §-a iktatta be, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.

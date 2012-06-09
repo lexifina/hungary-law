@@ -2,7 +2,7 @@
 
 ## Az Európai Unió jogának való megfelelés
 
-30. §[^240] (1) E rendelet megállapítja az Európai Parlament és a Tanács 2002. július 19-i, a nemzetközi számviteli standardok alkalmazásáról szóló 1606/2002/EK rendeletének végrehajtásához szükséges rendelkezéseket.
+30. §[^243] (1) E rendelet megállapítja az Európai Parlament és a Tanács 2002. július 19-i, a nemzetközi számviteli standardok alkalmazásáról szóló 1606/2002/EK rendeletének végrehajtásához szükséges rendelkezéseket.
 
 (2) E rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -18,4 +18,4 @@ e) az Európai Parlament és a Tanács 2006. június 14-i, 2006/48/EK irányelve
 
 f) az Európai Parlament és a Tanács 2006. június 14-i, 2006/49/EK irányelve a befektetési vállalkozások és a hitelintézetek tőkemegfeleléséről.
 
-[^240]: A 30. § és az előtte lévő alcím a 357/2006. (XII. 27.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^243]: A 30. § és az előtte lévő alcím a 357/2006. (XII. 27.) Korm. rendelet 11. §-ával megállapított szöveg.
