@@ -2800,7 +2800,7 @@
 
 | 47. | Jászdózsa |
 
-| 47. | Jászfelsőszent-györgy |
+| 47. | Jászfelsőszentgyörgy |
 
 | 47. | Jászfényszaru |
 
@@ -4022,7 +4022,7 @@
 
 | 68. | Kemenessömjén |
 
-| 68. | Kemenesszent-márton |
+| 68. | Kemenesszentmárton |
 
 | 68. | Kenéz |
 
@@ -4612,7 +4612,7 @@
 
 | 75. | Nemeske |
 
-| 75. | Nyugotszent-erzsébet |
+| 75. | Nyugotszenterzsébet |
 
 | 75. | Okorvölgy |
 
@@ -4920,7 +4920,7 @@
 
 | 82. | Cák |
 
-| 82. | Chernelházada-monya |
+| 82. | Chernelházadamonya |
 
 | 82. | Csepreg |
 

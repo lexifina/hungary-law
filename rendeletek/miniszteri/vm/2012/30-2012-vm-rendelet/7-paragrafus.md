@@ -10,7 +10,7 @@
 
 a) a LEADER HACS elnöke, ügyvezetője vagy igazgatója gépjármű használatának kiadásaira 2012. április1-jétől legfeljebb bruttó 30 000 Ft/hó összeg;
 
-b) a LEADER HACS munkaszervezetének munkaszerződéssel foglalkoztatott munkavállalói gépjármű használatának kiadásaira 2012. április 1-jétől – összesen legfeljebb bruttó 90 000 Ft/hó összeg
+b)[^3] a LEADER HACS munkaszervezetének munkaszerződéssel foglalkoztatott munkavállalói gépjármű használatának kiadásaira 2012. április 1-jétől – a 2012. évben összesen legfeljebb bruttó 810 000 Ft/év összeg, 2013. január 1-jét követően évente összesen legfeljebb bruttó 1 080 000 Ft/év összeg
 
 számolható el.
 
@@ -25,3 +25,5 @@ számolható el.
 (10) A LEADER HACS elnökének, vezető tisztségviselőjének, munkaszervezet vezetőjének, munkavállalójának tulajdonában és ezek közeli hozzátartozói tulajdonában álló vállalkozás nem vehet részt a LEADER HACS feladatainak ellátásában, térítés ellenében szolgáltatást nem nyújthat a LEADER HACS és munkaszervezete számára a kötelezően ellátandó vagy önként vállalt feladatok vonatkozásában.
 
 (11) A LEADER HACS elnöke, vezető tisztségviselője, munkaszervezet vezetője, munkaszervezet munkavállalója és ezek közeli hozzátartozói tulajdonában álló ingatlan, valamint a LEADER HACS munkaszervezet vezetője, munkaszervezet munkavállalója és ezek közeli hozzátartozói tulajdonában álló szervezet tulajdonában álló ingatlan vonatkozásában bérleti díj nem számolható el.
+
+[^3]: A 7. § (5) bekezdés b) pontja az 52/2012. (VI. 8.) VM rendelet 18. § (3) bekezdésével megállapított szöveg.

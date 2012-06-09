@@ -56,8 +56,10 @@ d) a külön MVH közleményben megjelölt dokumentumokat; valamint
 
 e) a 2. § (1) bekezdés c) pontjában meghatározott tanulmány, helyzetfeltáró elemzés elszámolásakor az 5. § (8) bekezdés szerinti döntéseket, a 10. melléklet szerinti nyilatkozatot és a 6. melléklet szerinti vonatkozó IH jóváhagyást.
 
-(9) A (5) bekezdés alól kivételt képez a 80.20.10 TESZOR alatt elszámolható Távfelügyelet, felügyeleti rendszerek költsége megnevezésű elszámolható kiadás, amelyre vonatkozóan a 2010. július 1. után felmerült, pénzügyileg teljesített, az MVH által még ki nem fizetett kiadásokat igazoló bizonylatok elszámolhatóak a 2012. április 1. és 30. között benyújtott kifizetési kérelemben.
+(9)[^5] A 80.20.10 TESZOR alatt elszámolható Távfelügyelet, felügyeleti rendszerek költsége megnevezésű elszámolható kiadásra vonatkozóan a 2010. július 1. után felmerült, pénzügyileg teljesített, az MVH által még ki nem fizetett kiadásokat igazoló bizonylatok elszámolhatóak a 2012. április 1. és 30. között benyújtott kifizetési kérelemben.
 
 (10) A Vhr. 19. § (6) bekezdésétől eltérően a kiadást igazoló bizonylaton az ügyfél nem köteles feltüntetni a tétel Szolgáltatások Jegyzéke (a továbbiakban: SZJ) vagy a vámtarifa számát (a továbbiakban: VTSZ) vagy a Kombinált Nomenklatúrakódját (a továbbiakban: KN-kód), ha az általános forgalmi adóról szóló törvény nem írja elő. Az általános forgalmi adó alapját, mértékét, az 1–3. mellékletben meghatározott, elszámolható tételek lista szerinti beazonosítását lehetővé tevő, pontos megnevezését a bizonylatnak tartalmaznia kell.
 
 (11) Az MVH a kifizetési kérelem értékelése során a költségek jogosultságának vizsgálata érdekében a 65/2011/EU bizottsági rendelet 24. cikke alapján adminisztratív ellenőrzést végez. A tanulmányok, helyzetfeltáró elemzések esetén az MVH a 11. melléklet szerinti formai és tartalmi ellenőrzést végez.
+
+[^5]: A 11. § (9) bekezdése az 52/2012. (VI. 8.) VM rendelet 18. § (5) bekezdésével megállapított szöveg.

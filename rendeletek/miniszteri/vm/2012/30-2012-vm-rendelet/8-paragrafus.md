@@ -6,7 +6,7 @@
 
 (4) A LEADER HACS által fenntartott iroda bérleti díjából legfeljebb bruttó 2 500 Ft/m2/hó összeg számolható el, amely összeg az iroda rezsi költségét nem tartalmazza. Egy LEADER HACS vonatkozásában iroda bérleti díj címén egy naptári hónapban legfeljebb bruttó 250 000 Ft számolható el, amelybe beletartoznak az alirodák bérleti díjai is.
 
-(5) A LEADER HACS által az irodabútor beszerzése nem haladhatja meg naptári évenként a bruttó 100 000 Ft-ot.
+(5)[^4] A LEADER HACS által az irodabútor beszerzése nem haladhatja meg naptári évenként a bruttó 100 000 Ft-ot. A címvisszavonással érintett LEADER HACS területén létrejövő és működő HACS-ok számára ezen keretösszeg a 2012. évre 2012. április 1-jétől kezdődően bruttó 500 000 Ft.
 
 (6) A LEADER HACS által gépjármű bérlésére legfeljebb egy gépjármű vonatkozásában legfeljebb bruttó 100 000 Ft/hó összeg számolható el.
 
@@ -27,3 +27,5 @@ e) nemzetközi rendezvény, fórum esetén a bruttó 2 000 000 Ft/rendezvény, f
 (8) A (7) bekezdés c)–e) pontjában meghatározott rendezvény vagy fórum több LEADER HACS együttműködésével is megvalósítható, amely esetben a költségek az együttműködés arányában megosztva számolhatók el.
 
 (9) A (7) bekezdés b)–d) pontjában meghatározott rendezvénnyel vagy fórummal kapcsolatban nem számolható el költség, amennyiben azt a HACS a nemzetközi vagy térségek közötti együttműködésre igénybe vehető támogatásból valósítja meg.
+
+[^4]: A 8. § (5) bekezdése az 52/2012. (VI. 8.) VM rendelet 18. § (4) bekezdésével megállapított szöveg.
