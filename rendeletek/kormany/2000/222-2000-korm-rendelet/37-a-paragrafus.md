@@ -1,5 +1,3 @@
-## 37. §[^144]
+## 37. §[^150]
 
-## Portfolió állomány kimutatás
-
-[^144]: A 37. §-t a 345/2010. (XII. 28.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^150]: A 37. §-t a 345/2010. (XII. 28.) Korm. rendelet 11. §-a hatályon kívül helyezte.

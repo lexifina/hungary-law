@@ -1,22 +1,16 @@
-24. §[^54] (1)[^55] Céltartalékot kell képezni a pénztár tevékenységével kapcsolatos jövőbeni kötelezettségekre [ideértve a Garancia Alap (a továbbiakban: Alap) igénybevétele miatti visszafizetési kötelezettséget is], a pénztártagok részére nyújtandó nyugdíjszolgáltatások fedezetére, a pénztár fizetőképességének biztosítására, a működési, a fedezeti (egyéni számlákhoz és a szolgáltatási tartalékokhoz tartozó), valamint a likviditási és kockázati célú befektetési portfoliók értékelési különbözetére, a demográfiai kockázatok kiegyenlítésére, a saját járadékszolgáltatási tevékenység várható működési zavarai miatt a biztonsági tartalékok feltöltésének fedezetére, továbbá a bevételként elszámolt és az egyéni számlán jóváírt, de pénzügyileg nem rendezett tagdíjakra (meg nem fizetett tagdíjak), valamint az azonosítatlan befizetések befektetési hozamára.
+24. §[^56] (1)[^57] Céltartalékot kell képezni a pénztár tevékenységével kapcsolatos jövőbeni kötelezettségekre [ideértve a Pénztárak Garancia Alapja (a továbbiakban: Alap) igénybevétele miatti visszafizetési kötelezettséget is], a pénztártagok részére nyújtandó nyugdíjszolgáltatások fedezetére, a pénztár fizetőképességének biztosítására, a működési, a fedezeti (egyéni számlákhoz és a szolgáltatási tartalékokhoz tartozó), valamint a likviditási és kockázati célú befektetési portfóliók értékelési különbözetére, a demográfiai kockázatok kiegyenlítésére, a saját járadékszolgáltatási tevékenység várható működési zavarai miatt a biztonsági tartalékok feltöltésének fedezetére, továbbá a bevételként elszámolt és az egyéni számlán jóváírt, de pénzügyileg nem rendezett tagdíjakra (meg nem fizetett tagdíjak), valamint az azonosítatlan befizetések befektetési hozamára.
 
-(2)[^56] Működési céltartalékként kell a mérlegben kimutatni a pénztár működési tevékenységével kapcsolatos jövőbeni kötelezettségek (ideértve az igénybe vett likviditási és kockázati tartalék, valamint az Alapból a pénztár helyett teljesített kifizetések visszapótlása, valamint a működési célra igénybevett pénzeszközök visszatérítése miatti kötelezettséget is) fedezetére képzett céltartalékot, amelyek – a mérlegkészítés időpontjáig rendelkezésre álló információk szerint – várhatóan vagy bizonyosan felmerülnek, de összegük vagy esedékességük időpontja a mérleg készítésekor még bizonytalan, és azokra a pénztár a szükséges fedezetet más módon nem biztosította.
+(2)[^58] Működési céltartalékként kell a mérlegben kimutatni a pénztár működési tevékenységével kapcsolatos jövőbeni kötelezettségek (ideértve az igénybe vett likviditási és kockázati tartalék, valamint az Alapból a pénztár helyett teljesített kifizetések visszapótlása, valamint a működési célra igénybevett pénzeszközök visszatérítése miatti kötelezettséget is) fedezetére képzett céltartalékot, amelyek – a mérlegkészítés időpontjáig rendelkezésre álló információk szerint – várhatóan vagy bizonyosan felmerülnek, de összegük vagy esedékességük időpontja a mérleg készítésekor még bizonytalan, és azokra a pénztár a szükséges fedezetet más módon nem biztosította.
 
 (3) A pénztár a szokásos működési tevékenységével kapcsolatos, rendszeres és folyamatosan felmerülő költségeire céltartalékot nem képezhet.
 
-(4)[^57] Működési céltartalékként kell kimutatni a működési célú befektetési portfolió mérlegfordulónapra, illetve a negyedév utolsó napjára és az értékelés napjára vonatkozóan meghatározott, felhalmozott kamatot is tartalmazó piaci értéke és könyv szerinti értéke közötti különbözet összegében megképzett céltartalékot. A működési célú befektetési portfolió értékelési különbözetéből képzett céltartalékon belül külön kell kimutatni az időarányos kamat, a járó osztalék, a devizaárfolyam-változás, valamint az egyéb piaci értékítéletből adódó értékkülönbözet összegét.
+(4)[^59] Működési céltartalékként kell kimutatni a működési célú befektetési portfolió mérlegfordulónapra, illetve a negyedév utolsó napjára és az értékelés napjára vonatkozóan meghatározott, felhalmozott kamatot is tartalmazó piaci értéke és könyv szerinti értéke közötti különbözet összegében megképzett céltartalékot. A működési célú befektetési portfolió értékelési különbözetéből képzett céltartalékon belül külön kell kimutatni az időarányos kamat, a járó osztalék, a devizaárfolyam-változás, valamint az egyéb piaci értékítéletből adódó értékkülönbözet összegét.
 
 (5) Fedezeti céltartalékként kell a mérlegben kimutatni az Mpt. 59. §-a szerint a pénztártagok részére nyújtandó nyugdíjszolgáltatások fedezetének gyűjtésére és a szolgáltatások finanszírozására szolgáló összegeket.
 
-(6)[^58] A fedezeti céltartalékon belül elkülönítetten kell kimutatni
+(6)[^60] A fedezeti céltartalékon belül elkülönítetten kell kimutatni
 
-a) az egyéni számlákon jóváírt tagdíjak, tagdíjcélú támogatások, tagdíj-kiegészítések, valamint a szolgáltatási célú egyéb bevételek
-
-aa) a mérlegfordulónapig beérkezett bevallási adatok alapján előírt, mérlegfordulónapig pénzügyileg rendezett, a fedezeti portfolióban nyilvántartott összegéből képzett céltartalékot,
-
-ab)[^59]
-
-ac) a mérlegkészítés időpontjáig beérkezett bevallási adatok alapján előírt, de a mérlegfordulónapot követően esedékes összegéből képzett céltartalékot,
+a)[^61] az egyéni számlákon jóváírt tagdíjakból, tagdíjcélú támogatásokból, valamint a szolgáltatási célú egyéb bevételekből képzett céltartalékot,
 
 b) az egyéni számlák fedezetét képező eszközök befektetéséből származó realizált hozambevételekből, illetve ezen eszközök értékelési különbözetének összegében elszámolt várható hozambevételekből
 
@@ -36,9 +30,9 @@ A fedezeti célú befektetési portfolió értékelési különbözetéből a bb
 
 (7) Egyéni számlákon kell kimutatni a szolgáltatások fedezetére a felhalmozási időszakban összegyűjtött, a pénztártag adott időpontban fennálló követelését, amely nyugdíjbavonuláskor a részére járó nyugdíjszolgáltatás megállapításának alapjául szolgál.
 
-(8)[^60]
+(8)[^62]
 
-(9)[^61]
+(9)[^63]
 
 (10) Szolgáltatási tartalékon kell kimutatni a nyugdíjszolgáltatások finanszírozására szolgáló összegeket. A szolgáltatási tartalékon belül elkülönítetten kell kimutatni:
 
@@ -48,21 +42,21 @@ b) a szolgáltatási tartalékként kimutatott fedezeti céltartalék befekteté
 
 c) a szolgáltatási tartalékon kimutatott, nyugdíjszolgáltatás fedezetéül szolgáló eszközök mérleg fordulónapjára, illetve negyedév utolsó napjára vonatkozóan meghatározott, felhalmozott kamatot is tartalmazó piaci értéke és a könyv szerinti értéke közötti különbözet összegében megállapított értékelési különbözetből a szolgáltatási tartalékon jóváírt összegeket.
 
-(11)[^62] Likviditási és kockázati céltartalékként kell a mérlegben kimutatni az Mpt. 58. §-a, valamint az Mpt. 60. §-ának (1) bekezdése alapján képzett céltartalékokat, továbbá a likviditási és kockázati célú befektetési portfolió értékelési különbözetéből képzett céltartalékokat. A likviditási és kockázati céltartalékon belül elkülönítetten kell a mérlegben kimutatni:
+(11)[^64] Likviditási és kockázati céltartalékként kell a mérlegben kimutatni az Mpt. 58. §-a, valamint az Mpt. 60. §-ának (1) bekezdése alapján képzett céltartalékokat, továbbá a likviditási és kockázati célú befektetési portfolió értékelési különbözetéből képzett céltartalékokat. A likviditási és kockázati céltartalékon belül elkülönítetten kell a mérlegben kimutatni:
 
-a)[^63]
+a)[^65]
 
-b)[^64] a demográfiai kockázatokra a magánnyugdíjpénztárak tevékenységéhez kapcsolódó biztosításmatematikai és pénzügyi tervezési szabályokról, valamint a szolgáltatási szabályzatra és a tartalékok kezelésére vonatkozó előírásokról szóló 170/1997. (X. 6.) Korm. rendelet 4. §-ának (4) bekezdése szerinti célra képzett tartalékot;
+b)[^66] a demográfiai kockázatokra a magánnyugdíjpénztárak tevékenységéhez kapcsolódó biztosításmatematikai és pénzügyi tervezési szabályokról, valamint a szolgáltatási szabályzatra és a tartalékok kezelésére vonatkozó előírásokról szóló 170/1997. (X. 6.) Korm. rendelet 4. §-ának (4) bekezdése szerinti célra képzett tartalékot;
 
-c)[^65] a likviditási és kockázati célú befektetési portfolió mérlegfordulónapra, illetve a negyedév utolsó napjára és az értékelés napjára vonatkozóan meghatározott, felhalmozott kamatot is tartalmazó piaci értéke és könyv szerinti értéke közötti különbözet összegében megképzett céltartalékot. A likviditási célú befektetési portfolió értékelési különbözetéből képzett céltartalékon belül külön kell kimutatni az időarányos kamat, a járó osztalék, a devizaárfolyam-változás, valamint az egyéb piaci értékítéletből adódó értékkülönbözet összegét;
+c)[^67] a likviditási és kockázati célú befektetési portfolió mérlegfordulónapra, illetve a negyedév utolsó napjára és az értékelés napjára vonatkozóan meghatározott, felhalmozott kamatot is tartalmazó piaci értéke és könyv szerinti értéke közötti különbözet összegében megképzett céltartalékot. A likviditási célú befektetési portfolió értékelési különbözetéből képzett céltartalékon belül külön kell kimutatni az időarányos kamat, a járó osztalék, a devizaárfolyam-változás, valamint az egyéb piaci értékítéletből adódó értékkülönbözet összegét;
 
-d)[^66] a saját tevékenységi kockázatokra képzett tartalékot, amennyiben a pénztár a járadékszolgáltatási tevékenységet saját szervezet keretében látja el, a felmerült működési zavarok esetén a fedezeti céltartalék feltöltése céljából;
+d)[^68] a saját tevékenységi kockázatokra képzett tartalékot, amennyiben a pénztár a járadékszolgáltatási tevékenységet saját szervezet keretében látja el, a felmerült működési zavarok esetén a fedezeti céltartalék feltöltése céljából;
 
 e) az egyéb kockázatokra képzett tartalékot a pénztár folyamatos fizetőképességének biztosítására;
 
-f)[^67] az azonosítatlan (függő) befizetések befektetési hozamának fedezetére az átmenetileg függő befizetésként nyilvántartott pénzeszközök befektetéséből származó, realizált hozambevételekből a befizetések azonosításakor az egyéni számlán jóváírt tagdíj célú bevételek időarányos hozamának pótlása céljából képzett tartalékot, valamint a be nem azonosított befizetések befektetése esetén az értékelési különbözetből képzett céltartalékot.
+f)[^69] az azonosítatlan (függő) befizetések befektetési hozamának fedezetére az átmenetileg függő befizetésként nyilvántartott pénzeszközök befektetéséből származó, realizált hozambevételekből a befizetések azonosításakor az egyéni számlán jóváírt tagdíj célú bevételek időarányos hozamának pótlása céljából képzett tartalékot, valamint a be nem azonosított befizetések befektetése esetén az értékelési különbözetből képzett céltartalékot.
 
-(12)[^68] Meg nem fizetett tagdíjak céltartalékaként kell negyedév végén, illetve a mérleg fordulónapján megképezni és a mérlegben kimutatni a tárgynegyedév végéig beérkezett bevallási adatok alapján előírt, a tárgynegyedévet megillető, de a tárgynegyedév végéig pénzügyileg nem rendezett, illetve a mérlegkészítés időpontjáig beérkezett bevallási adatok alapján előírt, a tárgyévet megillető, de a mérlegkészítés időpontjáig pénzügyileg nem rendezett tagdíjak ráfordításként elszámolt összegét. A ráfordításként elszámolt tagdíjhátralék összegét a tagdíj rendeltetésétől függően:
+(12)[^70] Meg nem fizetett tagdíjak céltartalékaként kell kimutatni a mérlegben a tagdíjkövetelések tárgynegyedév végéig, vagy a mérleg fordulónapjáig előírt, de a tárgynegyedév végéig, illetve a mérlegfordulónapig pénzügyileg nem rendezett tagdíjak ráfordításként elszámolt összegét. A ráfordításként elszámolt tagdíjhátralék összegét a tagdíj rendeltetésétől függően:
 
 a) működési célú tagdíjak tartalékaként,
 
@@ -70,33 +64,34 @@ b) fedezeti célú tagdíjak tartalékaként, és
 
 c) likviditási és kockázati célú tagdíjak tartalékaként kell megképezni.
 
-(13)[^69]
+(13)[^71]
 
-(14)[^70] Az elszámoló egységekre épülő nyilvántartási rendszert alkalmazó pénztárnak az egyéni számlákról olyan analitikus nyilvántartást kell vezetni, amelyből egyértelműen megállapíthatók és nyomon követhetők az egyéni számlákon történt jóváírások és terhelések forintban és elszámoló egységben is.
+(14)[^72] Az elszámoló egységekre épülő nyilvántartási rendszert alkalmazó pénztárnak az egyéni számlákról olyan analitikus nyilvántartást kell vezetni, amelyből egyértelműen megállapíthatók és nyomon követhetők az egyéni számlákon történt jóváírások és terhelések forintban és elszámoló egységben is.
 
-(15)[^71] Az elszámoló egységekre épülő nyilvántartási rendszert alkalmazó pénztárnak az egyéni számlákon elkülönítetten kell kimutatni:
+(15)[^73] Az elszámoló egységekre épülő nyilvántartási rendszert alkalmazó pénztárnak az egyéni számlákon elkülönítetten kell kimutatni:
 
-a) a szolgáltatások fedezetére befizetett tagdíjakból, tagdíj célú támogatásokból, tagdíj-kiegészítésekből, valamint a szolgáltatási célú egyéb bevételekből az egyéni számlán jóváírt összegeket forintban és elszámoló egységben;
+a)[^74] a szolgáltatások fedezetére befizetett tagdíjakból, tagdíj célú támogatásokból, valamint a szolgáltatási célú egyéb bevételekből az egyéni számlán jóváírt összegeket forintban és elszámoló egységben;
 
 b) az egyéni számlákon kimutatott fedezeti céltartalék eszközeinek befektetéséből származó – realizált és a nem realizált hozamot is tartalmazó – eredmény egyéni számlán jóváírt összegét forintban;
 
 c) az elszámoló egység záró darabszámát és az elszámoló egység záró árfolyamát, a kettő szorzataként a pénztártag egyéni számláján kimutatott tagi követelés záró értékét (piaci értékét).
 
-[^54]: A 24. § a 287/2002. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg, e módosító rendelet 28. § (1) bekezdése alapján a rendelkezést először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
-[^55]: A 24. § (1) bekezdése a 358/2006. (XII. 27.) Korm. rendelet 50. § (1) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.
-[^56]: A 24. § (2) bekezdése a 345/2010. (XII. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^57]: A 24. § (4) bekezdése a 325/2009. (XII. 29.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
-[^58]: A 24. § (6) bekezdése a 396/2007. (XII. 27.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
-[^59]: A 24. § (6) bekezdés a) pont ab) alpontját a 342/2011. (XII. 29.) Korm. rendelet 22. § 7. pontja hatályon kívül helyezte.
-[^60]: A 24. § (8) bekezdését a 396/2007. (XII. 27.) Korm. rendelet 78. §-a hatályon kívül helyezte.
-[^61]: A 24. § (9) bekezdését a 325/2009. (XII. 29.) Korm. rendelet 48. §-a hatályon kívül helyezte; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
-[^62]: A 24. § (11) bekezdése bevezető szövegrészének első mondata a 396/2007. (XII. 27.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
-[^63]: A 24. § (11) bekezdésének a) pontját a 358/2006. (XII. 27.) Korm. rendelet 50. § (1) bekezdése hatályon kívül helyezte.
-[^64]: A 24. § (11) bekezdésének b) pontja a 358/2006. (XII. 27.) Korm. rendelet 50. § (1) bekezdése szerint módosított szöveg.
-[^65]: A 24. § (11) bekezdés c) pontja a 325/2009. (XII. 29.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
-[^66]: A 24. § (11) bekezdésének d) pontja a 352/2004. (XII. 22.) Korm. rendelet 19. §-ának (2) bekezdése szerint módosított szöveg, e módosító rendelet 18. §-ának (1) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^67]: A 24. § (11) bekezdésének f) pontját a 396/2007. (XII. 27.) Korm. rendelet 78. §-a hatályon kívül helyezte, újonnan a 342/2011. (XII. 29.) Korm. rendelet 12. §-a iktatta be.
-[^68]: A 24. § (12) bekezdése a 345/2010. (XII. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^69]: A 24. § (13) bekezdését a 396/2007. (XII. 27.) Korm. rendelet 10. § (6) bekezdése iktatta be, hatályon kívül helyezte a 342/2011. (XII. 29.) Korm. rendelet 22. § 8. pontja.
-[^70]: A 24. § (14) bekezdését a 396/2007. (XII. 27.) Korm. rendelet 10. § (6) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
-[^71]: A 24. § (15) bekezdését a 396/2007. (XII. 27.) Korm. rendelet 10. § (6) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
+[^56]: A 24. § a 287/2002. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg, e módosító rendelet 28. § (1) bekezdése alapján a rendelkezést először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
+[^57]: A 24. § (1) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^58]: A 24. § (2) bekezdése a 345/2010. (XII. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^59]: A 24. § (4) bekezdése a 325/2009. (XII. 29.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^60]: A 24. § (6) bekezdése a 396/2007. (XII. 27.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
+[^61]: A 24. § (6) bekezdés a) pontja a 114/2012. (VI. 8.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^62]: A 24. § (8) bekezdését a 396/2007. (XII. 27.) Korm. rendelet 78. §-a hatályon kívül helyezte.
+[^63]: A 24. § (9) bekezdését a 325/2009. (XII. 29.) Korm. rendelet 48. §-a hatályon kívül helyezte; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^64]: A 24. § (11) bekezdése bevezető szövegrészének első mondata a 396/2007. (XII. 27.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
+[^65]: A 24. § (11) bekezdésének a) pontját a 358/2006. (XII. 27.) Korm. rendelet 50. § (1) bekezdése hatályon kívül helyezte.
+[^66]: A 24. § (11) bekezdésének b) pontja a 358/2006. (XII. 27.) Korm. rendelet 50. § (1) bekezdése szerint módosított szöveg.
+[^67]: A 24. § (11) bekezdés c) pontja a 325/2009. (XII. 29.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^68]: A 24. § (11) bekezdésének d) pontja a 352/2004. (XII. 22.) Korm. rendelet 19. §-ának (2) bekezdése szerint módosított szöveg, e módosító rendelet 18. §-ának (1) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^69]: A 24. § (11) bekezdésének f) pontját a 396/2007. (XII. 27.) Korm. rendelet 78. §-a hatályon kívül helyezte, újonnan a 342/2011. (XII. 29.) Korm. rendelet 12. §-a iktatta be.
+[^70]: A 24. § (12) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^71]: A 24. § (13) bekezdését a 396/2007. (XII. 27.) Korm. rendelet 10. § (6) bekezdése iktatta be, hatályon kívül helyezte a 342/2011. (XII. 29.) Korm. rendelet 22. § 8. pontja.
+[^72]: A 24. § (14) bekezdését a 396/2007. (XII. 27.) Korm. rendelet 10. § (6) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
+[^73]: A 24. § (15) bekezdését a 396/2007. (XII. 27.) Korm. rendelet 10. § (6) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
+[^74]: A 24. § (15) bekezdés a) pontja a 114/2012. (VI. 8.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg.

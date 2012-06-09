@@ -1,277 +1,273 @@
 ## A mérleg előírt tagolása
 
-| Megnevezés | Előző évi beszámoló záró adatai | Megálla- pított eltéré- sek (+, -) | Előző évi felül- vizsgált beszámoló záró adatai | Tárgyévi beszámoló záró adatai | Megál- lapított eltérések (+, -) | Tárgyévi felül- vizsgált beszámoló záró adatai |
+| Megnevezés | Előző évi beszámoló záró adatai | Megállapított eltérések (+, –) | Előző évi felülvizsgált beszámoló záró adatai | Tárgyévi beszámoló záró adatai | Megállapított eltérések (+, –) | Tárgyévi felülvizsgált beszámoló záró adatai |
 
-## ESZKÖZÖK (AKTÍVÁK)
+| ESZKÖZÖK (AKTÍVÁK) |
 
-## A) Befektetett eszközök
+| A) Befektetett eszközök |
 
-## I. Immateriális javak
+| I. Immateriális javak |
 
-## 1. Vagyoni értékű jogok
+| 1. Vagyoni értékű jogok |
 
-## 2. Szellemi termékek
+| 2. Szellemi termékek |
 
-## 3. Immateriális javakra adott előlegek
+| 3. Immateriális javakra adott előlegek |
 
-## 4. Immateriális javak értékhelyesbítése
+| 4. Immateriális javak értékhelyesbítése |
 
-## II. Tárgyi eszközök
+| II. Tárgyi eszközök |
 
-## 1. Működtetett ingatlanok és a kapcsolódó vagyoni értékű jogok
+| 1. Működtetett ingatlanok és a kapcsolódó vagyoni értékű jogok |
 
-## 2. Tartós befektetési célú ingatlanok és a kapcsolódó vagyoni értékű jogok
+| 2. Tartós befektetési célú ingatlanok és a kapcsolódó vagyoni értékű jogok |
 
-## 3. Gépek, berendezések, felszerelések, járművek
+| 3. Gépek, berendezések, felszerelések járművek |
 
-## 4. Beruházások, felújítások
+| 4. Beruházások, felújítások |
 
-## 5. Beruházásokra adott előlegek
+| 5. Beruházásokra adott előlegek |
 
-## 6. Tárgyi eszközök értékelési különbözete
+| 6. Tárgyi eszközök értékelési különbözete |
 
-## 7. Tárgyi eszközök értékhelyesbítése
+| 7. Tárgyi eszközök értékhelyesbítése |
 
-## III. Befektetett pénzügyi eszközök
+| III. Befektetett pénzügyi eszközök |
 
-## 1. Egyéb tartós részesedések
+| 1. Egyéb tartós részesedések |
 
-## 2. Tartósan adott kölcsön
+| 2. Tartósan adott kölcsön |
 
-## 3. Egyéb tartósan adott kölcsön
+| 3. Egyéb tartósan adott kölcsön |
 
-## 4. Tartós hitelviszonyt megtestesítő értékpapírok
+| 4. Tartós hitelviszonyt megtestesítő értékpapírok |
 
-## 4.1. Kötvények
+| 4.1. Kötvények |
 
-## 4.2. Állampapírok
+| 4.2. Állampapírok |
 
-## 4.3. Befektetési jegyek
+| 4.3. Befektetési jegyek |
 
-## 4.4. Jelzáloglevél
+| 4.4. Jelzáloglevél |
 
-## 4.5. Egyéb értékpapírok
+| 4.5. Egyéb értékpapírok |
 
-## 5. Befektetett pénzügyi eszközök értékelési különbözete
+| 5. Befektetett pénzügyi eszközök értékelési különbözete |
 
-## B) Forgóeszközök
+| B) Forgóeszközök |
 
-## I. Készletek
+| I. Készletek |
 
-## 1. Anyagok
+| 1. Anyagok |
 
-## 2. Áruk
+| 2. Áruk |
 
-## 3. Készletekre adott előlegek
+| 3. Készletekre adott előlegek |
 
-## 4. Áruk értékelési különbözete
+| 4. Áruk értékelési különbözete |
 
-## II. Követelések
+| II. Követelések |
 
-## 1. Tagdíjkövetelések
+| 1. Tagdíjkövetelések |
 
-## 2. Követelések áruszállításból és szolgáltatásból (vevők)
+| 2. Követelések áruszállításból és szolgáltatásból (vevők) |
 
-## 3. Követelések egyéb részesedési viszonyban lévő vállalkozással szemben
+| 3. Követelések egyéb részesedési viszonyban lévő vállalkozással szemben |
 
-## 4. Értékpapír kölcsönbe adásából származó követelés
+| 4. Értékpapír kölcsönbe adásából származó követelés |
 
-## 5. Egyéb követelések
+| 5. Egyéb követelések |
 
-## 6. Értékpapír kölcsönbe adásából származó követelés értékelési különbözete
+| 6. Értékpapír kölcsönbe adásából származó követelés értékelési különbözete |
 
-## III. Értékpapírok
+| III. Értékpapírok |
 
-## 1. Egyéb részesedések
+| 1. Egyéb részesedések |
 
-## 2. Forgatási célú hitelviszonyt megtestesítő értékpapírok
+| 2. Forgatási célú hitelviszonyt megtestesítő értékpapírok |
 
-## 2.1. Kötvények
+| 2.1. Kötvények |
 
-## 2.2. Kincstárjegyek és más állampapírok
+| 2.2. Kincstárjegyek és más állampapírok |
 
-## 2.3. Befektetési jegyek
+| 2.3. Befektetési jegyek |
 
-## 2.4. Jelzáloglevél
+| 2.4. Jelzáloglevél |
 
-## 2.5. Egyéb értékpapírok
+| 2.5. Egyéb értékpapírok |
 
-## 3. Értékpapírok értékelési különbözete
+| 3. Értékpapírok értékelési különbözete |
 
-## 4. Határidős ügyletek értékelési különbözete
+| 4. Határidős ügyletek értékelési különbözete |
 
-## IV. Pénzeszközök
+| IV. Pénzeszközök |
 
-## 1. Pénztárak
+| 1. Pénztárak |
 
-## 2. Pénztári elszámolási betétszámla
+| 2. Pénztári elszámolási betétszámla |
 
-## 3. Elkülönített betétszámla
+| 3. Elkülönített betétszámla |
 
-## 4. Rövid lejáratú bankbetétek
+| 4. Rövid lejáratú bankbetétek |
 
-## 5. Devizaszámla
+| 5. Devizaszámla |
 
-## 6. Pénzeszközök értékelési különbözete
+| 6. Pénzeszközök értékelési különbözete |
 
-## C) Aktív időbeli elhatárolások
+| C) Aktív időbeli elhatárolások |
 
-## 1. Bevételek aktív időbeli elhatárolása
+| 1. Bevételek aktív időbeli elhatárolása |
 
-## 2. Költségek és ráfordítások időbeli elhatárolása
+| 2. Költségek és ráfordítások időbeli elhatárolása |
 
-## FORRÁSOK (PASSZÍVÁK)
+| FORRÁSOK (PASSZÍVÁK) |
 
-## D) Saját tőke
+| D) Saját tőke |
 
-## I. Induló tőke
+| I. Induló tőke |
 
-## 1. Működés fedezetének induló tőkéje
+| 1. Működés fedezetének induló tőkéje |
 
-## 2. Nyugdíjszolgáltatás fedezetének induló tőkéje
+| 2. Nyugdíjszolgáltatás fedezetének induló tőkéje |
 
-## 3. Likviditási és kockázati célú induló tőke
+| 3. Likviditási és kockázati célú induló tőke |
 
-## II. Be nem fizetett alapítói támogatások (-)
+| II. Be nem fizetett alapítói támogatások (–) |
 
-## III. Tartaléktőke
+| III. Tartaléktőke |
 
-## IV. Működés mérleg szerinti eredménye
+| IV. Működés mérleg szerinti eredménye |
 
-## V. Értékelési tartalék
+| V. Értékelési tartalék |
 
-## E) Céltartalékok
+| E) Céltartalékok |
 
-## I. Működési céltartalék
+| I. Működési céltartalék |
 
-## a) Jövőbeni kötelezettségekre képzett céltartalék
+| a) Jövőbeni kötelezettségekre képzett céltartalék |
 
-## b) Működési portfolió értékelési különbözetéből képzett céltartalék
+| b) Működési portfolió értékelési különbözetéből képzett céltartalék |
 
-## Ebből:
+| Ebből: |
 
-## 2.1. Időarányosan járó kamat (+)
+| 2.1. Időarányosan járó kamat (+) |
 
-## 2.2. Járó osztalék (+)
+| 2.2. Járó osztalék (+) |
 
-## 2.3. Devizaárfolyam-változás (±)
+| 2.3. Devizaárfolyam-változás (±) |
 
-## 2.4. Egyéb piaci értékítéletből adódó értékkülönbözet (±)
+| 2.4. Egyéb piaci értékítéletből adódó értékkülönbözet (±) |
 
-## II. Fedezeti céltartalék
+| II. Fedezeti céltartalék |
 
-## a) Egyéni számlákon
+| a) Egyéni számlákon |
 
-## 1.1. Egyéni számlákon jóváírt szolgáltatási célú bevételekből képzett céltartalék
+| 1.1. Egyéni számlákon jóváírt szolgáltatási célú bevételekből képzett céltartalék |
 
-## 1.1.1. A mérlegfordulónapig beérkezett bevallási adatok alapján előírt, mérlegfordulónapig pénzügyileg rendezett fedezeti portfolióban nyilvántartott szolgáltatási célú bevételekből képzett céltartalék
+| 1.2. Egyéni számlákon jóváírt realizált és nem realizált hozambevételekből képzett céltartalék |
 
-## 1.1.2. A mérlegkészítés időpontjáig beérkezett bevallási adatok alapján előírt, de a mérlegfordulónapot követően esedékes szolgáltatási célú bevételekből képzett céltartalék
+| 1.2.1. Egyéni számlákon jóváírt realizált hozam |
 
-## 1.2. Egyéni számlákon jóváírt realizált és nem realizált hozambevételekből képzett céltartalék
+| 1.2.2. Egyéni számlákon jóváírt értékelési különbözet |
 
-## 1.2.1. Egyéni számlákon jóváírt realizált hozam
+| Ebből: |
 
-## 1.2.2. Egyéni számlákon jóváírt értékelési különbözet
+| 1.2.2.1. Időarányosan járó kamat (+) |
 
-## Ebből:
+| 1.2.2.2. Járó osztalék (+) |
 
-## 1.2.2.1. Időarányosan járó kamat (+)
+| 1.2.2.3. Devizaárfolyam-változás (±) |
 
-## 1.2.2.2. Járó osztalék (+)
+| 1.2.2.4. Egyéb piaci értékítéletből adódó értékkülönbözet (±) |
 
-## 1.2.2.3. Devizaárfolyam-változás (±)
+| b) Szolgáltatási tartalékon |
 
-## 1.2.2.4. Egyéb piaci értékítéletből adódó értékkülönbözet (±)
+| 2.1. Szolgáltatási tartalékon kimutatott fedezeti céltartalék |
 
-## b) Szolgáltatási tartalékon
+| 2.2. Szolgáltatási tartalékon jóváírt realizált hozambevételek |
 
-## 2.1. Szolgáltatási tartalékon kimutatott fedezeti céltartalék
+| 2.3. Szolgáltatási tartalékon jóváírt értékelési különbözet |
 
-## 2.2. Szolgáltatási tartalékon jóváírt realizált hozambevételek
+| Ebből: |
 
-## 2.3. Szolgáltatási tartalékon jóváírt értékelési különbözet
+| 2.3.1. Időarányosan járó kamat (+) |
 
-## Ebből:
+| 2.3.2. Járó osztalék (+) |
 
-## 2.3.1. Időarányosan járó kamat (+)
+| 2.3.3. Devizaárfolyam-változás (+) |
 
-## 2.3.2. Járó osztalék (+)
+| 2.3.4. Egyéb piaci értékítéletből adódó értékkülönbözet (+) |
 
-## 2.3.3. Devizaárfolyam-változás (±)
+| III. Likviditási és kockázati céltartalék |
 
-## 2.3.4. Egyéb piaci értékítéletből adódó értékkülönbözet (±)
+| 1. Likviditási és kockázati célra |
 
-## III. Likviditási és kockázati céltartalék
+| 1.1. Demográfiai kockázatokra |
 
-## 1. Likviditási és kockázati célra
+| 1.2. Saját tevékenységi kockázatokra |
 
-## 1.1. Demográfiai kockázatokra
+| 1.3. Egyéb kockázatokra |
 
-## 1.2. Saját tevékenységi kockázatokra
+| 2. Azonosítatlan (függő) befizetések hozamára |
 
-## 1.3. Egyéb kockázatokra
+| 3. Likviditási és kockázati portfolió értékelési különbözete |
 
-## 2. Azonosítatlan (függő) befizetések hozamára
+| Ebből: |
 
-## 3. Likviditási és kockázati portfolió értékelési különbözete
+| 3.1. Időarányosan járó kamat (+) |
 
-## Ebből:
+| 3.2. Járó osztalék (+) |
 
-## 3.1. Időarányosan járó kamat (+)
+| 3.3. Devizaárfolyam-változás (±) |
 
-## 3.2. Járó osztalék (+)
+| 3.4. Egyéb piaci értékítéletből adódó értékkülönbözet (±) |
 
-## 3.3. Devizaárfolyam-változás (±)
+| 4. Azonosítatlan (függő) portfolió értékelési különbözete |
 
-## 3.4. Egyéb piaci értékítéletből adódó értékkülönbözet (±)
+| 4.1. Időarányosan járó kamat (+) |
 
-## 4. Azonosítatlan (függő) portfolió értékelési különbözete
+| 4.2. Járó osztalék (+) |
 
-## 4.1. Időarányosan járó kamat (+)
+| 4.3. Devizaárfolyam-változás (±) |
 
-## 4.2. Járó osztalék (+)
+| 4.4. Egyéb piaci értékítéletből adódó értékkülönbözet (±) |
 
-## 4.3. Devizaárfolyam-változás (±)
+| IV. Meg nem fizetett tagdíjak céltartaléka |
 
-## 4.4. Egyéb piaci értékítéletből adódó értékkülönbözet (±)
+| 1. Működési célú tagdíjak tartaléka |
 
-## IV. Meg nem fizetett tagdíjak céltartaléka
+| 2. Fedezeti célú tagdíjak tartaléka |
 
-## 1. Működési célú tagdíjak tartaléka
+| 3. Likviditási és kockázati célú tagdíjak tartaléka |
 
-## 2. Fedezeti célú tagdíjak tartaléka
+| F) Kötelezettségek |
 
-## 3. Likviditási és kockázati célú tagdíjak tartaléka
+| I. Hosszú lejáratú kötelezettségek |
 
-## F) Kötelezettségek
+| II. Rövid lejáratú kötelezettségek |
 
-## I. Hosszú lejáratú kötelezettségek
+| 1. Tagokkal szembeni kötelezettségek |
 
-## II. Rövid lejáratú kötelezettségek
+| 2. Kötelezettségek áruszállításból és szolgáltatásból (szállítók) |
 
-## 1. Tagokkal szembeni kötelezettségek
+| 3. Rövid lejáratú hitelek és kölcsönök |
 
-## 2. Kötelezettségek áruszállításból és szolgáltatásból (szállítók)
+| 4. Egyéb rövid lejáratú kötelezettségek |
 
-## 3. Rövid lejáratú hitelek és kölcsönök
+| 5. Egyéb azonosítatlan (függő) befizetések |
 
-## 4. Egyéb rövid lejáratú kötelezettségek
+| 5.1. Munkáltatóhoz rendelhető függő befizetések |
 
-## 5. Egyéb azonosítatlan (függő) befizetések
+| 5.2. Munkáltatóhoz és taghoz nem rendelhető függő befizetések |
 
-## 5.1. Munkáltatóhoz rendelhető függő befizetések
+| G) Passzív időbeli elhatárolások |
 
-## 5.2. Munkáltatóhoz és taghoz nem rendelhető függő befizetések
+| 1. Bevételek passzív időbeli elhatárolása |
 
-## G) Passzív időbeli elhatárolások
+| 2. Költségek és ráfordítások időbeli elhatárolása |
 
-## 1. Bevételek passzív időbeli elhatárolása
+| 3. Halasztott bevételek |
 
-## 2. Költségek és ráfordítások időbeli elhatárolása
+2. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^231]
 
-## 3. Halasztott bevételek
-
-2. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^223]
-
-[^223]: A 2. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^231]: A 2. számú melléklet a 114/2012. (VI. 8.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
