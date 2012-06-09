@@ -12,4 +12,6 @@
 
 (6) A mérleget legalább az 1. számú melléklet szerinti, az eredménykimutatást legalább a 2. számú melléklet szerinti tagolásban kell elkészíteni. A mérleg és az eredménykimutatás tartalmára vonatkozó Tv. szerinti előírásokat az e rendeletben foglaltak figyelembevételével kell alkalmazni.
 
-(7) A főkönyvi számlák bontásával vagy az analitikus nyilvántartások keretében biztosítani kell, hogy a követelések és kötelezettségek állománya éven túli és éven belüli lejáratú (ideértve az egyéves lejáratút is) részletezésben megállapítható legyen.
+(7)[^7]
+
+[^7]: A 3. § (7) bekezdését a 114/2012. (VI. 8.) Korm. rendelet 11. §-a hatályon kívül helyezte.
