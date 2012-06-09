@@ -1,0 +1,1 @@
+## 9. § Az Mnbkr. 6. § (5) bekezdésében az „MNB tv. 17. §-ának (2) bekezdése” szövegrész helyébe az „MNB tv. 16. § (2) bekezdése” szöveg, 19. § (1) bekezdés 9. pontjában „az MNB tv.-ben meghatározott pénzbevonási nyereség” szövegrész helyébe az „a pénzbevonási nyereség” szöveg lép.

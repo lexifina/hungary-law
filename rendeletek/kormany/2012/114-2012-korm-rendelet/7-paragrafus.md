@@ -1,0 +1,1 @@
+## „(12) Az MNB a Tv. 14. § (9) bekezdésében foglaltakat nem alkalmazza, továbbá a forintpénzkészlet – Tv. 69. §-a szerinti – leltározását a lezárt kezelési egységek szintjén biztosítja, oly módon, hogy minden lezárt kezelési egység tartalmát három éven belül mennyiségi felvétellel leltározza.”

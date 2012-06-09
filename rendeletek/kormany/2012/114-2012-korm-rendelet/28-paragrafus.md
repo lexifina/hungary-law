@@ -1,0 +1,3 @@
+## 27. § A Hitkr. 11. §-a a következő (7a) bekezdéssel egészül ki:
+
+## „(7a) § A devizakölcsöntv. alapján a gyűjtőszámlahitel terhére folyósított összegből a mentesített követelésrészt, valamint a legmagasabb árfolyamot meghaladó árfolyam miatt felmerülő törlesztési kötelezettséget a pénzügyi intézmény az egyéb ráfordítások között hitelezési veszteségként, ezen belül elengedett követelésként számolja el. Ehhez kapcsolódóan a pénzügyi intézmény a devizakölcsönök törlesztési árfolyamának rögzítését érintő megtérítésről és a közszférában dolgozók támogatásáról szóló 57/2012. (III. 30.) Korm. rendelet 2. § a) és b) pontjában meghatározott támogatások igényelt (járó) összegét a hitelezési veszteség megtérüléseként, az egyéb ráfordításokat csökkentő tételként számolja el.”
