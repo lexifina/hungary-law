@@ -1,5 +1,6 @@
-## 18. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 55. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
+## 18/A. §[^5] E rendelet alapján 2012-től támogatási kérelem nem nyújtható be.
 
-1. melléklet a 44/2011. (V. 26.) VM rendelethez[^4]
+1. melléklet a 44/2011. (V. 26.) VM rendelethez[^6]
 
-[^4]: Az 1. melléklet a 76/2011. (VII. 29.) VM rendelet 27. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 18/A. §-t az 52/2012. (VI. 8.) VM rendelet 17. § (1) bekezdése iktatta be.
+[^6]: Az 1. melléklet a 76/2011. (VII. 29.) VM rendelet 27. § (2) bekezdése szerint módosított szöveg.
