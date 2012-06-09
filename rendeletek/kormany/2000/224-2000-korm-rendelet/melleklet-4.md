@@ -1,3 +1,3 @@
-4. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^102]
+4. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^104]
 
-[^102]: A 4. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 38. § (3) bekezdése szerint módosított szöveg.
+[^104]: A 4. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 38. § (3) bekezdése szerint módosított szöveg.

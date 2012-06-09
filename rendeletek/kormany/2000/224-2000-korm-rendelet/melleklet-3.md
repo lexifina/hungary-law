@@ -62,6 +62,6 @@
 
 ## - ebből: vezető tisztségviselők juttatásai
 
-3. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^101]
+3. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^103]
 
-[^101]: A 3. számú mellékletet a 342/2011. (XII. 29.) Korm. rendelet 40. § 5. pontja hatályon kívül helyezte.
+[^103]: A 3. számú mellékletet a 342/2011. (XII. 29.) Korm. rendelet 40. § 5. pontja hatályon kívül helyezte.

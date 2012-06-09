@@ -54,6 +54,6 @@
 
 ## Források összesen
 
-5. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^103]
+5. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^105]
 
-[^103]: Az 5. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 38. § (4) bekezdésével megállapított szöveg.
+[^105]: Az 5. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 38. § (4) bekezdésével megállapított szöveg.
