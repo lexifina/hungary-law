@@ -32,7 +32,7 @@
 
 ## B. Járművek
 
-## javító fényezésére szolgáló termékek VOC-tartalmának felső határértékei[^28]
+## javító fényezésére szolgáló termékek VOC-tartalmának felső határértékei[^29]
 
 |  | Termék alkategória | Bevonóanyagok | VOC g/l* (2007. I. 1.) |
 
@@ -48,7 +48,27 @@
 
 ## * g/l a termék használatra kész állapotában. Az a) alkategória kivételével a használatra kész termék összes víztartalma kivonandó.
 
-3. számú melléklet a 25/2006. (II. 3.) Korm. rendelethez[^29]
+3. számú melléklet a 25/2006. (II. 3.) Korm. rendelethez[^30]
 
-[^28]: A 2. számú melléklet B. pontja a 280/2008. (XI. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^29]: A 3. számú melléklet a 280/2008. (XI. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+## VOC-tartalom mérési módszerek
+
+1. Olyan termékek esetében engedélyezett módszerek, amelyek VOC-tartalma nem éri el a 15 tömegszázalékot és amelyek nem tartalmaznak reaktív hígítót.
+
+|  | Paraméter | Mértékegység | Vizsgálat, módszer |
+
+|  | VOC-tartalom | g/l | MSZ EN ISO 11890-2 |
+
+2. Olyan termékek esetében engedélyezett módszerek, amelyek VOC-tartalma legalább 15 tömegszázalék és amelyek nem tartalmaznak reaktív hígítót.
+
+|  | Paraméter | Mértékegység | Vizsgálat, módszer |
+
+|  | VOC-tartalom | g/l | MSZ EN ISO 11890-1 MSZ EN ISO 11890-2 |
+
+3. Az illékony szerves vegyületek mellett reaktív hígítót tartalmazó termékek.
+
+|  | Paraméter | Mértékegység | Vizsgálat, módszer |
+
+|  | VOC-tartalom | g/l | ASTMD 2369 |
+
+[^29]: A 2. számú melléklet B. pontja a 280/2008. (XI. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^30]: A 3. számú melléklet a 104/2012. (V. 25.) Korm. rendelet 2. §-ával megállapított szöveg.

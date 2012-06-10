@@ -64,6 +64,6 @@
 
 ## * Az 1. számú mellékletben foglaltak szerint.
 
-6. számú melléklet a 25/2006. (II. 3.) Korm. rendelethez[^32]
+6. számú melléklet a 25/2006. (II. 3.) Korm. rendelethez[^33]
 
-[^32]: A 6. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 450. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^33]: A 6. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 450. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

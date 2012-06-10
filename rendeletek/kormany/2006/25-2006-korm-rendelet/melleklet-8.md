@@ -28,6 +28,6 @@
 
 ## b) a vásárolt terméket kizárólag a saját tevékenysége keretében kívánja felhasználni és más részére azt tovább nem értékesíti.
 
-8. számú melléklet a 25/2006. (II. 3.) Korm. rendelethez[^34]
+8. számú melléklet a 25/2006. (II. 3.) Korm. rendelethez[^35]
 
-[^34]: A 8. számú mellékletet a 280/2008. (XI. 28.) Korm. rendelet 6. § (5) bekezdése iktatta be.
+[^35]: A 8. számú mellékletet a 280/2008. (XI. 28.) Korm. rendelet 6. § (5) bekezdése iktatta be.
