@@ -1,1 +1,0 @@
-## „(6) A monetáris céllal vásárolt állampapírok és a piaci értéken nyilvántartott követelések kivételével a veszteségek kockázatának mértékével arányos értékvesztést kell elszámolni a követelések és az értékpapírok után.”

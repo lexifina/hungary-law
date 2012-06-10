@@ -1,1 +1,0 @@
-## „a) a szolgáltatások fedezetére befizetett tagdíjakból, tagdíj célú támogatásokból, valamint a szolgáltatási célú egyéb bevételekből az egyéni számlán jóváírt összegeket forintban és elszámoló egységben;”
