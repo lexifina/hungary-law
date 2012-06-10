@@ -1,0 +1,3 @@
+## 1. § Az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának szabályozásáról szóló 25/2006. (II. 3.) Korm. rendelet (a továbbiakban: R.) 9. §-a a következő (8) bekezdéssel egészül ki:
+
+## „(8) Ez a rendelet a szerves oldószerek egyes festékekben, lakkokban és jármű utánfényezésére szolgáló termékekben történő felhasználása során keletkező illékony szerves vegyületek kibocsátásának korlátozásáról és az 1999/13/EK irányelv módosításáról szóló, 2004. április 21-i 2004/42/EK európai parlamenti és tanácsi irányelvnek és az azt módosító 2010/79/EU bizottsági irányelvnek való megfelelést szolgálja.”
