@@ -12,7 +12,7 @@
 
 | 5. | Lőfegyver kiállítás engedélyezése | 20 000 |
 
-| 6. | Lőfegyver, lőszer, lőszerelem tárolóhely engedélyezése – 25 db lőfegyverig és/vagy 5000 db lőszerig – 26–50 db lőfegyverig és/vagy 10 000 db lőszerig – 50 db lőfegyver felett és/vagy 10 000 db lőszer felett – lőszerelem tárolóhely Nem kell a 6. pont szerinti díjat külön leróni, ha az 1–5. pontok szerinti tevékenység engedélyezésével egyidejűleg a tárolóhely is elbírálásra kerül, feltéve, hogy a tárolóhely közvetlen fizikai kapcsolatban áll a tevékenység gyakorlásának helyszínével | 15 000 35 000 45 000 35 000 |
+| 6. | Lőfegyver, lőszer, lőszerelem tárolóhely engedélyezése – 25 db lőfegyverig és/vagy 5000 db lőszerig – 26–50 db lőfegyverig és/vagy 10 000 db lőszerig – 50 db lőfegyver felett és/vagy 10 000 db lőszer felett – lőszerelem tárolóhely Nem kell a 6. sor szerinti díjat külön leróni, ha az 1–5., illetve a 23. sor szerinti tevékenység engedélyezésével egyidejűleg a tárolóhely is elbírálásra kerül, feltéve, hogy a tárolóhely közvetlen fizikai kapcsolatban áll a tevékenység gyakorlásának helyszínével | 15 000 35 000 45 000 35 000 |
 
 | 7. | Szervezeteknél a lőfegyvert, lőszert birtokló alkalmazottak foglalkoztatásához szükséges hozzájárulás, illetve az alkalmazotti engedély kiadása | 2 000 |
 
@@ -20,33 +20,35 @@
 
 | 9. | Lőfegyver, lőszer behozatali, kiviteli, átszállítási engedélyezése turista forgalomban fegyverenként – csak lőszer esetén Határvámhivatal igazolása | 4 500 2 000 3 000 |
 
-| 10. | Lőfegyver megszerzésének és tartásának engedélyezése lőfegyver tartásának engedélyezésére szolgáló okmány kiállításával | 6 000 |
+| 10. | Lőfegyver tartásának engedélyezése lőfegyver tartásának engedélyezésére szolgáló okmány kiállításával (a filmgyártási célú lőfegyver kivételével) | 6 000 |
 
 | 11. | Újabb lőfegyver tartása engedélyezésének bejegyzése a lőfegyvertartás engedélyezésére szolgáló okmányba | 3 000 |
 
-| 12. | A kizárólag 7,5 joule vagy az alatti csőtorkolati energiájú tűzfegyver megszerzésének, illetve tartásának engedélyezése (az elveszett engedély pótlása is) | 2 000 |
+| 12. | A kizárólag 7,5 joule vagy az alatti csőtorkolati energiájú tűzfegyver tartásának engedélyezése (az engedély cseréje, pótlása is) | 2 000 |
 
-| 13. | Gáz- és riasztófegyver viselésének engedélyezése (az elveszett engedély pótlása is) | 2 000 |
+| 13. | Gáz- és riasztófegyver viselésének engedélyezése (az engedély cseréje, pótlása is) | 2 000 |
 
-| 14. | Az Európai Lőfegyvertartási Engedély kiállítása | 4 000 |
+| 14. | Az Európai Lőfegyvertartási Engedély kiállítása, meghosszabbítása | 4 000 |
 
 | 15. | Szervezetek lőfegyver tartásának engedélyezése fegyverenként | 3 000 |
 
-| 16. | Színházi fegyver megszerzésének és tartásának engedélyezése fegyverenként | 2 000 |
+| 16. | Színházi fegyver tartásának engedélyezése fegyverenként | 2 000 |
 
-| 17. | Muzeális fegyver sportcélú tartásának engedélyezése fegyverenként | 2 000 |
+| 17. | Muzeális fegyver sportlövészeti célú használatának engedélyezése | 2 000 |
 
-| 18. | Lőfegyver hatástalanításának engedélyezése | 2 000 |
+| 18. | Lőfegyver hatástalanításának engedélyezése lőfegyverenként | 2 000 |
 
 | 19. | Az engedélyezésre szolgáló okmányokba történő hatósági bejegyzés | 3 000 |
 
-| 20. | A lőfegyver tartásának engedélyezésére szolgáló elveszett engedélyek pótlása | 4 000 |
+| 20. | A lőfegyver tartásának engedélyezésére szolgáló engedélyek cseréje, pótlása | 4 000 |
 
 | 21. | A lőfegyver tartására szolgáló okmányba bejegyzett engedély meghosszabbítása – 10 db lőfegyverig – 11–25 db lőfegyverig – 25 db lőfegyver fölött | 2 500 4 500 7 000 |
 
-| 22. | Az Európai Lőfegyvertartási Engedély meghosszabbítása | 4 000 |
+| 22. | Filmgyártási célú lőfegyver behozatali, kiviteli, átszállítási, tartási engedélyezése esetén – alapdíjként, továbbá – lőfegyverenként | 13 000 2 000 |
 
-2. számú melléklet az 50/2004. (VIII. 31.) BM rendelethez[^9]
+| 23. | Házilagos lőszerszerelés és -újratöltés engedélyezése (az engedély cseréje, pótlása is) | 10 000 |
+
+2. számú melléklet az 50/2004. (VIII. 31.) BM rendelethez[^10]
 
 | Rendőr-főkapitányság megnevezése | Előirányzat-felhasználási számla száma |
 
@@ -92,4 +94,4 @@
 
 | Zala Megyei Rendőr-főkapitányság | 10049006-01451650-00000000 |
 
-[^9]: A 2. számú melléklet a 13/2012. (III. 30.) BM rendelet 3. §-a szerint módosított szöveg.
+[^10]: A 2. számú melléklet a 13/2012. (III. 30.) BM rendelet 3. §-a szerint módosított szöveg.
