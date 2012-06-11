@@ -1,3 +1,5 @@
-22. § (1) A kereskedő az új dolgozót köteles munkába lépés előtt kioktatni a munkakörére vonatkozó alapvető élelmezés-egészségügyi, munkavédelmi és tűzvédelmi előírásokra, gondoskodnia kell továbbá arról, hogy az élelmiszer-forgalmazásban részt vevő – szakirányú végzettséggel nem rendelkező – vezető kereskedő és minden dolgozó a munkába lépést követő 2 hónapon belül közegészségügyi, minőségbiztosítási és környezetvédelmi minimum vizsgát tegyen, és 5 évente ilyen irányú továbbképzésen vegyen részt. A minimum vizsgára és az 5 évenkénti továbbképzésre az élelmiszerek előállításának és forgalmazásának élelmiszer-higiéniai feltételeiről szóló külön jogszabály rendelkezéseit kell alkalmazni.
+22. § (1)[^9] A kereskedő az új dolgozót köteles munkába lépés előtt kioktatni a munkakörére vonatkozó alapvető munkavédelmi és tűzvédelmi előírásokra.
 
 (2) A kereskedő és minden dolgozója köteles az üzemeltetésre vonatkozó előírásokat betartani, továbbá az üzemeltetést befolyásoló, károsító körülményt elhárítani, illetőleg a dolgozó arra a vezető figyelmét felhívni.
+
+[^9]: A 22. § (1) bekezdése az 51/2012. (VI. 8.) VM rendelet 5. § (4) bekezdésével megállapított szöveg.

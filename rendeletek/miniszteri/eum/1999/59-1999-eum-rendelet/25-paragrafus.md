@@ -1,10 +1,10 @@
 25. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, ezzel egyidejűleg hatályát veszti a piaci és utcai élelmiszer-árusítás közegészségügyi szabályainak megállapítása tárgyában kiadott 2/1952. (II. 16.) EüM rendelet, valamint az Állami Népegészségügyi és Tisztiorvosi Szolgálat szervezetéről és működéséről szóló 7/1991. (IV. 26.) NM rendelet 10. §-ának negyedik francia bekezdése.
 
-(2)[^4]
+(2)[^11]
 
 Melléklet az 59/1999. (XI. 26.) EüM rendelethez
 
-Vásár rendezésének, piac, vásárcsarnok létesítésének elbírálásához szükséges dokumentáció követelményei[^5]
+Vásár rendezésének, piac, vásárcsarnok létesítésének elbírálásához szükséges dokumentáció követelményei[^12]
 
 1. A létesítés helye a terület azonosíthatósági adataival.
 
@@ -22,5 +22,5 @@ Vásár rendezésének, piac, vásárcsarnok létesítésének elbírálásához
 
 8. A keletkező szemét és hulladék gyűjtésére, elhelyezésére, az elkobzott élelmiszer kezelésére, elhelyezésére, elszállításának módjára, gyakoriságára, továbbá a vásár, illetve piac takarítására-fertőtlenítésére vonatkozó, a vásár rendezője, illetve a piac fenntartója által meghatározott rendtartási előírás.
 
-[^4]: A 25. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 188. pontja hatályon kívül helyezte.
-[^5]: A melléklet címe a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 78. pontja szerint módosított szöveg.
+[^11]: A 25. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 188. pontja hatályon kívül helyezte.
+[^12]: A melléklet címe a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 78. pontja szerint módosított szöveg.
