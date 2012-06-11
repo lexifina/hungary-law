@@ -1,3 +1,0 @@
-## 11. §[^42] KKV-k szabadalommal, iparjogvédelmi jogokkal kapcsolatosan felmerülő költségeihez nyújtott támogatás esetében a támogatási intenzitás nem haladhatja meg a 8. § (2) bekezdésében meghatározott mértéket azzal, hogy ebben az esetben ahhoz a kutatás-fejlesztési tevékenységhez tartozó támogatási intenzitást kell figyelembe venni, amely tevékenységgel először sikerült megszerezni az érintett szabadalmi vagy iparjogvédelmi jogot.
-
-[^42]: A 11. § a – 18/2008. (IX. 23.) NFGM rendelet 13. §-a szerint módosított – 32. § (1) bekezdése alapján 2008. szeptember 26-án lépett hatályba. A 11. § a 18/2008. (IX. 23.) NFGM rendelet 4. §-ával megállapított szöveg.

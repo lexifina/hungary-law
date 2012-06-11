@@ -1,3 +1,0 @@
-## 13. §[^44] Eljárási és szervezési innovációhoz nyújtott támogatás során a támogatási intenzitás nem haladhatja meg a 15%-ot a nagyvállalkozások, 25%-ot a középvállalkozások és 35%-ot a kisvállalkozások esetében. Nagyvállalkozások csak abban az esetben részesülhetnek támogatásban, ha a támogatott tevékenységben KKV-kal működnek együtt, és a KKV-k az összes elszámolható költség legalább 30%-át viselik.
-
-[^44]: A 13. § a – 18/2008. (IX. 23.) NFGM rendelet 13. §-a szerint módosított – 32. § (1) bekezdése alapján 2008. szeptember 26-án lépett hatályba. A 13. § a 18/2008. (IX. 23.) NFGM rendelet 5. §-ával megállapított szöveg.

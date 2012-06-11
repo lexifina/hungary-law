@@ -1,3 +1,0 @@
-## 27. §[^61] A magasan képzett munkaerő kölcsönzéséhez nyújtott támogatás alkalmazása esetén az elszámolható költségek körébe tartozik minden, a magasan képzett munkaerő kölcsönzésével és foglalkoztatásával járó, a KKV-knál felmerülő költség, ideértve a közvetítő ügynökség igénybevételének költségeit, a munkaerő-kölcsönzés díját, valamint a kölcsönzött munkaerő mobilitási juttatásaként jelentkező ráfordításokat a Számv.tv. szerint, ha ezen költségek nem haladják meg a piaci árat. A tanácsadás költségei nem számolhatóak el.
-
-[^61]: A 27. § a – 18/2008. (IX. 23.) NFGM rendelet 13. §-a szerint módosított – 32. § (1) bekezdése alapján 2008. szeptember 26-án lépett hatályba. A 27. § a 18/2008. (IX. 23.) NFGM rendelet 10. §-ával megállapított szöveg.
