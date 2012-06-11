@@ -1,0 +1,9 @@
+# 34/2012. (VI. 8.) NFM rendelet
+
+a Közlekedés Operatív Program 4. prioritásának első konstrukciójára vonatkozó részletes szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-34-20-2W
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-06-11 | 2012-34-20-2W.1 | 34/2012. (VI. 8.) NFM rendelet |
