@@ -1,1 +1,1 @@
-4. §
+4. § Az Országgyűlés a Nemzetközi Távközlési Egyesület 1992. évi genfi Meghatalmazottak Rendkívüli Értekezletén aláírt Egyezményének (a továbbiakban: ITU Egyezmény) a 2010. évi guadalajarai Meghatalmazottak Értekezletén aláírt módosítását e törvénnyel kihirdeti.

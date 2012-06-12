@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-10-00-00
 | --- | --- | --- |
 | 2012-03-07 | 2012. évi X. törvény | 2012-10-00-00.0 (közlönyállapot) |
 | 2012-03-07 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-10-00-00.1 |
+| 2012-06-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-10-00-00.2 |

@@ -1,1 +1,1 @@
-2. §
+2. § Az Országgyűlés a Nemzetközi Távközlési Egyesület 1992. évi genfi Meghatalmazottak Rendkívüli Értekezletén aláírt Alapokmányának (a továbbiakban: ITU Alapokmány) a 2010. évi guadalajarai Meghatalmazottak Értekezletén aláírt módosítását e törvénnyel kihirdeti.
