@@ -1,4 +1,4 @@
-## 22. § Hatályát veszti a Közlekedés Operatív Program 4. prioritásának első konstrukciójára vonatkozó részletes szabályokról szóló 10/2008. (VIII. 1.) NFGM rendelet azzal, hogy rendelkezéseit a folyamatban lévő ügyekre alkalmazni kell.
+## 22. §[^1]
 
 1. melléklet a 34/2012. (VI. 8.) NFM rendelethez
 
@@ -43,3 +43,5 @@ Ipari parkok, intermodális és regionális logisztikai központok, regionális 
 | 7 | Nyugat-Dunántúl és Pest megye | 30% | 65% | 65% | 85% |
 
 | 8 | Budapest | 10% | 45% | 45% | 85% |
+
+[^1]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
