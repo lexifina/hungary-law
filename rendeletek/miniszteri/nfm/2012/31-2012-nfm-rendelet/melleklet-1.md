@@ -1,4 +1,4 @@
-## 36. § Hatályát veszti a Gazdaságfejlesztési Operatív Program K+F és innováció a versenyképességért prioritására és a Regionális Operatív Programok K+F és innováció tárgyú konstrukcióira rendelt források felhasználásának részletes szabályairól és a támogatás jogcímeiről szóló 22/2007. (VIII. 29.) MeHVM rendelet azzal, hogy rendelkezéseit a folyamatban lévő ügyekre alkalmazni kell.
+## 36. §[^1]
 
 1. melléklet a 31/2012. (VI. 8.) NFM rendelethez
 
@@ -31,3 +31,5 @@ A támogatási intenzitásokat bemutató táblázat
 |  | – nagyvállalatok esetében együttműködés határon átnyúló vagy legalább egy kis- és középvállalkozással, vagy |  |  |  |
 
 |  | – vállalkozás együttműködése egy kutatási szervezettel |  |  |  |
+
+[^1]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
