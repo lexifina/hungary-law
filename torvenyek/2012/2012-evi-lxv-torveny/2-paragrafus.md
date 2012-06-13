@@ -1,0 +1,3 @@
+2. § A Vbtv. 4. §-a helyébe a következő rendelkezés lép:
+
+„4. § Nincs helye – sem magyarországi, sem Magyarországon kívüli választottbírósági hellyel (székhellyel) rendelkező eseti vagy állandó – választottbírósági eljárásnak a Polgári perrendtartás (a továbbiakban: Pp.) XV–XXIII. fejezetében szabályozott eljárásokban, valamint olyan ügyben, amelyben a jogvita tárgya a nemzeti vagyonról szóló 2011. évi CXCVI. törvény hatálya alá tartozó Magyarország határa által körbezárt területen lévő nemzeti vagyon, illetve azzal kapcsolatos bármely jog, igény, követelés, továbbá olyan ügyekben, amelyekben törvény a jogvita választottbírósági eljárás keretében történő rendezését kizárja.”
