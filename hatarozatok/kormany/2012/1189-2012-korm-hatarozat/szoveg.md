@@ -56,4 +56,6 @@ belügyminiszter
 
 Határidő: 2012. június 30.
 
-16. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti az Európai Táj Egyezmény Nemzeti Koordinációs Bizottságról szóló 18/2009. (X. 30.) KvVM–OKM–NFGM együttes utasítás.
+16.[^1] Ez a határozat a közzétételét követő napon lép hatályba,
+
+[^1]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
