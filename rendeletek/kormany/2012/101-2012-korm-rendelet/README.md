@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-101-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-05-19 | 2012-101-20-22.1 | 101/2012. (V. 18.) Korm. rendelet |
+| 2012-06-13 | 2012-101-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
