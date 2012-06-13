@@ -1,423 +1,200 @@
-## 3. §[^1]
+## 3. §[^2]
 
-1. melléklet a 21/2011. (VII. 13.) KIM rendelethez
+1. melléklet a 21/2011. (VII. 13.) KIM rendelethez[^3]
 
 Fontos és bizalmas munkakörök és a biztonsági ellenőrzés szintje
 
-|  | A | B | C |
+| A | B | C |
 
-| 1. | A szerv vagy intézmény megnevezése | Munkakör vagy beosztás megnevezése | A nemzetbiztonsági ellenőrzés szintje |
+| A szerv vagy intézmény megnevezése | Munkakör vagy beosztás megnevezése | A nemzetbiztonsági ellenőrzés szintje |
 
-| 2. | 1. | Közigazgatási és Igazságügyi |  |  |
+| 1. | Közigazgatási és Igazságügyi Minisztérium |  |  |
 
-|  | Minisztérium |  |  |
+|  | 1.1. | kormánybiztos | „C” |
 
-| 3. |  | 1.1. | kormánybiztos | „C” |
+|  | 1.2. közigazgatási és igazságügyi miniszter által kinevezett miniszteri biztos | „C” |
 
-| 4. |  | 1.2. | miniszterelnöki biztos | „C” |
+|  | 1.3. | Nemzeti Biztonsági Felügyelet valamennyi munkaköre | „C” |
 
-| 5. |  | 1.3. | közigazgatási és igazságügyi | „C” |
+|  | 1.4. | biztonsági vezető | „C” |
 
-|  |  | miniszter által kinevezett |  |
+|  | 1.5. | rendszerbiztonsági felügyelő | „C” |
 
-|  |  | miniszteri biztos |  |
+|  | 1.6. | rendszeradminisztrátor | „C” |
 
-| 6. |  | 1.4. | Miniszteri Kabinet valamennyi | „C” |
+|  | 1.7. | titkos ügykezelő | „C” |
 
-|  |  | munkaköre |  |
+|  | 1.8. | nemzetbiztonsági ellenőrzéssel kapcsolatos munkakör | „C” |
 
-| 7. |  | 1.5. | Nemzeti Biztonsági Felügyelet | „C” |
+|  | 1.9. | nemzetközi szerződések előkészítésével foglalkozó munkakör | „C” |
 
-|  |  | valamennyi munkaköre |  |
+|  | 1.10. belső ellenőr | „C” |
 
-| 8. |  | 1.6. | kormányszóvivő | „C” |
+| 2. | Központi Statisztikai Hivatal |  |  |
 
-| 9. |  | 1.7. | biztonsági vezető | „C” |
+|  | 2.1. | biztonsági vezető | „C” |
 
-| 10. |  | 1.8. | rendszerbiztonsági felügyelő | „C” |
+|  | 2.2. | Elnöki Titkárság vezetője | „C” |
 
-| 11. |  | 1.9. | rendszeradminisztrátor | „C” |
+|  | 2.3. | titkos ügykezelő | „C” |
 
-| 12. |  | 1.10. | titkos ügykezelő | „C” |
+| 3. | Szellemi Tulajdon Nemzeti Hivatala |  |  |
 
-| 13. |  | 1.11. | nemzetbiztonsági ellenőrzéssel | „C” |
+|  | 3.1. | gazdasági főigazgató | „C” |
 
-|  |  | kapcsolatos munkakör |  |
+|  | 3.2. | biztonsági vezető | „C” |
 
-| 14. |  | 1.12. | nemzetközi szerződések | „C” |
+|  | 3.3. | rendszerbiztonsági felügyelő | „C” |
 
-|  |  | előkészítésével foglalkozó |  |
+|  | 3.4. | rendszeradminisztrátor | „C” |
 
-|  |  | munkakör |  |
+|  | 3.5. | titkos ügykezelő | „C” |
 
-| 15. |  | 1.13. | belső ellenőr | „C” |
+|  | 3.6. | Szabadalmi Főosztály vezetője | „C” |
 
-| 16. | 2. | Központi Statisztikai Hivatal |  |  |
+|  | 3.7. | Iparjogvédelmi Ügyviteli Főosztály vezetője | „C” |
 
-| 17. |  | 2.1. | biztonsági vezető | „C” |
+|  | 3.8. | Jogi és Nemzetközi Főosztály vezetője | „C” |
 
-| 18. |  | 2.2. | Elnöki Titkárság vezetője | „C” |
+|  | 3.9. | Iparjogvédelmi Lajstromvezetési Osztály vezetője | „C” |
 
-| 19. |  | 2.3. | titkos ügykezelő | „C” |
+|  | 3.10. Jogi és Nemzetközi Főosztály EU tagállamként való működéssel kapcsolatos feladatok ellátására kijelölt személy | „C” |
 
-| 20. | 3. | Szellemi Tulajdon Nemzeti |  |  |
+| 4. | Balassi Intézet |  |  |
 
-|  | Hivatala |  |  |
+|  | 4.1. | gazdasági főigazgató-helyettes | „C” |
 
-| 21. |  | 3.1. | gazdasági | főigazgató | „C” |
+|  | 4.2. | külföldi magyar intézetek igazgatói | „C” |
 
-| 22. |  | 3.2. | biztonsági vezető | „C” |
+|  | 4.3. | biztonsági vezető | „C” |
 
-| 23. |  | 3.3. | rendszerbiztonsági felügyelő | „C” |
+|  | 4.4. | rendszerbiztonsági felügyelő | „C” |
 
-| 24. |  | 3.4. | rendszeradminisztrátor | „C” |
+|  | 4.5. | rendszeradminisztrátor | „C” |
 
-| 25. |  | 3.5. | titkos ügykezelő | „C” |
+|  | 4.6. | titkos ügykezelő | „C” |
 
-| 26. |  | 3.6. | Szabadalmi Főosztály vezetője | „C” |
+| 5. | ECOSTAT Kormányzati Hatásvizsgálati Központ |  |  |
 
-| 27. |  | 3.7. | Iparjogvédelmi Ügyviteli | „C” |
+|  | 5.1. | főigazgató helyettes | „C” |
 
-|  |  | Főosztály vezetője |  |
+|  | 5.2. | biztonsági vezető | „C” |
 
-| 28. |  | 3.8. | Jogi és Nemzetközi Főosztály | „C” |
+|  | 5.3. | rendszerbiztonsági felügyelő | „C” |
 
-|  |  | vezetője |  |
+|  | 5.4. | rendszeradminisztrátor | „C” |
 
-| 29. |  | 3.9. | Iparjogvédelmi Lajstromvezetési | „C” |
+|  | 5.5. | titkos ügykezelő | „C” |
 
-|  |  | Osztály vezetője |  |
+| 6. | Fővárosi, megyei kormányhivatal |  |  |
 
-| 30. |  | 3.10. | Jogi és Nemzetközi Főosztály | „C” |
+|  | 6.1. | kormánymegbízott | „C” |
 
-|  |  | EU tagállamként való |  |
+|  | 6.2. | főigazgató | „C” |
 
-|  |  | működéssel kapcsolatos |  |
+|  | 6.3. | igazgató | „C” |
 
-|  |  | feladatok ellátására |  |
+|  | 6.4. | szakigazgatási szerv vezetője | „C” |
 
-|  |  | kijelölt személy |  |
+|  | 6.5. | biztonsági vezető | „C” |
 
-| 31. | 4. | Balassi Intézet |  |  |
+|  | 6.6. | rendszerbiztonsági felügyelő | „C” |
 
-| 32. |  | 4.1. | gazdasági főigazgató-helyettes | „C” |
+|  | 6.7. | rendszeradminisztrátor | „C” |
 
-| 33. |  | 4.2. | külföldi kulturális intézetek | „C” |
+|  | 6.8. | titkos ügykezelő | „C” |
 
-|  |  | igazgatói |  |
+| 7. | Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálata |  |  |
 
-| 34. |  | 4.3. | biztonsági vezető | „C” |
+|  | 7.1. | főigazgató helyettes | „C” |
 
-| 35. |  | 4.4. | rendszerbiztonsági felügyelő | „C” |
+|  | 7.2. | szakmai koordinációs főosztályvezető | „C” |
 
-| 36. |  | 4.5. | rendszeradminisztrátor | „C” |
+|  | 7.3. | biztonsági vezető | „C” |
 
-| 37. |  | 4.6. | titkos ügykezelő | „C” |
+|  | 7.4. | rendszerbiztonsági felügyelő | „C” |
 
-| 38. | 5. | ECOSTAT Kormányzati |  |  |
+|  | 7.5. | rendszeradminisztrátor | „C” |
 
-|  | Hatásvizsgálati Központ |  |  |
+|  | 7.6. | titkos ügykezelő | „C” |
 
-| 39. |  | 5.1. | főigazgató-helyettes | „C” |
+|  | 7.7. | belső ellenőr | „C” |
 
-| 40. |  | 5.2. | biztonsági vezető | „C” |
+| 8. | Kormányzati Ellenőrzési Hivatal |  |  |
 
-| 41. |  | 5.3. | rendszerbiztonsági felügyelő | „C” |
+|  | 8.1. | elnökhelyettes | „C” |
 
-| 42. |  | 5.4. | rendszeradminisztrátor | „C” |
+|  | 8.2. | kormányzati ellenőrzéshez kapcsolódó feladatokat ellátó munkatársak | „C” |
 
-| 43. |  | 5.5. | titkos ügykezelő | „C” |
+|  | 8.3. | biztonsági vezető | „C” |
 
-| 44. | 6. | Fővárosi, megyei |  |  |
+|  | 8.4. | rendszerbiztonsági felügyelő | „C” |
 
-|  | kormányhivatal |  |  |
+|  | 8.5. | rendszeradminisztrátor | „C” |
 
-| 45. |  | 6.1. | kormánymegbízott | „C” |
+|  | 8.6. | titkos ügykezelő | „C” |
 
-| 46. |  | 6.2. | főigazgató | „C” |
+| 9. | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala |  |  |
 
-| 47. |  | 6.3. | igazgató | „C” |
+|  | 9.1. | elnökhelyettes | „C” |
 
-| 48. |  | 6.4. | szakigazgatási szerv vezetője | „C” |
+|  | 9.2. | főosztályvezető | „C” |
 
-| 49. |  | 6.5. | biztonsági vezető | „C” |
+|  | 9.3. | adatvédelmi felelős | „C” |
 
-| 50. |  | 6.6. | rendszerbiztonsági felügyelő | „C” |
+|  | 9.4. | biztonsági vezető | „C” |
 
-| 51. |  | 6.7. | rendszeradminisztrátor | „C” |
+|  | 9.5. | rendszerbiztonsági felügyelő | „C” |
 
-| 52. |  | 6.8. | titkos ügykezelő | „C” |
+|  | 9.6. | rendszeradminisztrátor | „C” |
 
-| 53. | 7. | Közigazgatási és Igazságügyi |  |  |
+|  | 9.7. | tanúvédelmi feladatokat ellátó munkatárs | „C” |
 
-|  | Minisztérium Igazságügyi |  |  |
+|  | 9.8. | a nemzetbiztonsági szolgálatok és a titkosszolgálati eszközök használatára jogosult szervek munkájának támogatásában részt vevő munkatárs | „C” |
 
-|  | Szolgálata |  |  |
+|  | 9.9. | titkos ügykezelő | „C” |
 
-| 54. |  | 7.1. | főigazgató-helyettes | „C” |
+|  | 9.10. | N-SIS központ vezetője | „C” |
 
-| 55. |  | 7.2. | szakmai koordinációs | „C” |
+|  | 9.11. informatikai biztonsággal kapcsolatos munkakör | „C” |
 
-|  |  | főosztályvezető |  |
+| 10. | Közpolitikai Kutatások Intézete |  |  |
 
-| 56. |  | 7.3. | biztonsági vezető | „C” |
+|  | 10.1. | főigazgató helyettes | „C” |
 
-| 57. |  | 7.4. | rendszerbiztonsági felügyelő | „C” |
+|  | 10.2. | biztonsági vezető | „C” |
 
-| 58. |  | 7.5. | rendszeradminisztrátor | „C” |
+|  | 10.3. | rendszerbiztonsági felügyelő | „C” |
 
-| 59. |  | 7.6. | titkos ügykezelő | „C” |
+|  | 10.4. | rendszeradminisztrátor | „C” |
 
-| 60. |  | 7.7. | belső ellenőr | „C” |
+|  | 10.5. | titkos ügykezelő | „C” |
 
-| 61. | 8. | Kormányzati Ellenőrzési |  |  |
+| 11. | Nemzeti Közigazgatási Intézet |  |  |
 
-|  | Hivatal |  |  |
+|  | 11.1. projektvezető | „C” |
 
-| 62. |  | 8.1. | elnökhelyettes | „C” |
+|  | 11.2. biztonsági vezető | „C” |
 
-| 63. |  | 8.2. | kormányzati ellenőrzéshez | „C” |
+|  | 11.3. rendszerbiztonsági felügyelő | „C” |
 
-|  |  | kapcsolódó feladatokat ellátó |  |
+|  | 11.4. rendszeradminisztrátor | „C” |
 
-|  |  | munkatársak |  |
+|  | 11.5. titkos ügykezelő | „C” |
 
-| 64. |  | 8.3. | biztonsági vezető | „C” |
+| 12. | Wekerle Sándor Alapkezelő, Nemzeti Államigazgatási Központ |  |  |
 
-| 65. |  | 8.4. | rendszerbiztonsági felügyelő | „C” |
+|  | 12.1. a feladataik ellátása során „Szigorúan titkos!” minősítési szintű minősített adatot felhasználó elnökhelyettes, főigazgató- helyettes, igazgató, főosztályvezető, főosztályvezető-helyettes, osztályvezető, irodavezető, titkárságvezető, főreferens, referens, szakreferens, közigazgatási tanácsadó, közigazgatási főtanácsadó, szakmai főtanácsadó, szakmai tanácsadó, titkár, titkárnő | „C” |
 
-| 66. |  | 8.5. | rendszeradminisztrátor | „C” |
+|  | 12.2. a feladataik ellátása során „Titkos!” minősítési szintű minősített adatot felhasználó elnökhelyettes, főigazgató-helyettes, igazgató, főosztályvezető, főosztályvezető-helyettes, osztályvezető, irodavezető, titkárságvezető, főreferens, referens, szakreferens, közigazgatási tanácsadó, közigazgatási főtanácsadó, szakmai főtanácsadó, szakmai tanácsadó, titkár, titkárnő | „B” |
 
-| 67. |  | 8.6. | titkos ügykezelő | „C” |
+|  | 12.3. a feladataik ellátása során ”Bizalmas!” minősítési szintű minősített adatot felhasználó elnökhelyettes, főigazgató-helyettes, igazgató, főosztályvezető, főosztályvezető-helyettes, osztályvezető, irodavezető, titkárságvezető, főreferens, referens, szakreferens, közigazgatási tanácsadó, közigazgatási főtanácsadó, szakmai főtanácsadó, szakmai tanácsadó, titkár, titkárnő | „A” |
 
-| 68. | 9. | Közigazgatási és Elektronikus |  |  |
+| 13. | Az 1–11. pontban meghatározott szervek | 13.1. az 1–11. pontban meghatározott szerveknél az e rendeletben meghatározott munkakörökön túl a feladataik ellátása során „Szigorúan titkos!” minősítési szintű minősített adatot felhasználó kormány-főtanácsadó kormánytanácsadó, főosztályvezető-helyettes, osztályvezető, irodavezető, titkárságvezető, főreferens, referens, szakreferens, közigazgatási tanácsadó, közigazgatási főtanácsadó, szakmai főtanácsadó, szakmai tanácsadó, titkár, titkárnő | „C” |
 
-|  | Közszolgáltatások Központi |  |  |
+|  | 13.2. az 1–11. pontban meghatározott szerveknél az e rendeletben meghatározott munkakörökön túl a feladataik ellátása során „Titkos!” minősítési szintű minősített adatot felhasználó kormány-főtanácsadó, kormánytanácsadó, főosztályvezető-helyettes, osztályvezető, irodavezető, titkárságvezető, főreferens, referens, szakreferens, közigazgatási tanácsadó, közigazgatási főtanácsadó, szakmai főtanácsadó, szakmai tanácsadó, titkár, titkárnő | „B” |
 
-|  | Hivatala |  |  |
+|  | 13.3. az 1–11. pontban meghatározott szerveknél az e rendeletben meghatározott munkakörökön túl a feladataik ellátása során „Bizalmas” minősítési szintű minősített adatot felhasználó kormány-főtanácsadó, kormánytanácsadó, főosztályvezető-helyettes, osztályvezető, irodavezető, titkárságvezető, főreferens, referens, szakreferens, közigazgatási főtanácsadó, közigazgatási tanácsadó, szakmai főtanácsadó, szakmai tanácsadó, titkár, titkárnő | „A” |
 
-| 69. |  | 9.1. | elnökhelyettes | „C” |
-
-| 70. |  | 9.2. | adatvédelmi felelős | „C” |
-
-| 71. |  | 9.3. | biztonsági vezető | „C” |
-
-| 72. |  | 9.4. | rendszerbiztonsági felügyelő | „C” |
-
-| 73. |  | 9.5. | rendszeradminisztrátor | „C” |
-
-| 74. |  | 9.6. | titkos ügykezelő | „C” |
-
-| 75. |  | 9.7. | N-SIS központ vezetője | „C” |
-
-| 76. |  | 9.8. | informatikai biztonsággal | „C” |
-
-|  |  | kapcsolatos munkakör |  |
-
-| 77. | 10. | Közpolitikai Kutatások |  |  |
-
-|  | Intézete |  |  |
-
-| 78. |  | 10.1. | főigazgató-helyettes | „C” |
-
-| 79. |  | 10.2. | biztonsági vezető | „C” |
-
-| 80. |  | 10.3. | rendszerbiztonsági felügyelő | „C” |
-
-| 81. |  | 10.4. | rendszeradminisztrátor | „C” |
-
-| 82. |  | 10.5. | titkos ügykezelő | „C” |
-
-| 83. | 11. | Nemzeti Közigazgatási |  |  |
-
-|  | Intézet |  |  |
-
-| 84. |  | 11.1. | projektvezető | „C” |
-
-| 85. |  | 11.2. | biztonsági vezető | „C” |
-
-| 86. |  | 11.3. | rendszerbiztonsági felügyelő | „C” |
-
-| 87. |  | 11.4. | rendszeradminisztrátor | „C” |
-
-| 88. |  | 11.5. | titkos ügykezelő | „C” |
-
-| 89. | 12. | Egyenlő Bánásmód Hatóság, |  |  |
-
-|  | KIM Wekerle Sándor |  |  |
-
-|  | Alapkezelő, Nemzeti |  |  |
-
-|  | Államigazgatási Központ |  |  |
-
-| 90. |  | 12.1. | a feladataik ellátása során | „C” |
-
-|  |  | „Szigorúan titkos!” minősítési |  |
-
-|  |  | szintű minősített adatot |  |
-
-|  |  | felhasználó elnökhelyettes, |  |
-
-|  |  | főigazgató-helyettes, igazgató, |  |
-
-|  |  | főosztályvezető, |  |
-
-|  |  | főosztályvezető-helyettes, |  |
-
-|  |  | osztályvezető, irodavezető, |  |
-
-|  |  | titkárságvezető, főreferens, |  |
-
-|  |  | referens, szakreferens, |  |
-
-|  |  | közigazgatási tanácsadó, |  |
-
-|  |  | szakmai főtanácsadó, szakmai |  |
-
-|  |  | tanácsadó, titkár, titkárnő |  |
-
-| 91. |  | 12.2. | a feladataik ellátása során | „B” |
-
-|  |  | „Titkos!” minősítési szintű |  |
-
-|  |  | minősített adatot felhasználó |  |
-
-|  |  | elnökhelyettes, |  |
-
-|  |  | főigazgató-helyettes, igazgató, |  |
-
-|  |  | főosztályvezető, |  |
-
-|  |  | főosztályvezető-helyettes, |  |
-
-|  |  | osztályvezető, irodavezető, |  |
-
-|  |  | titkárságvezető, főreferens, |  |
-
-|  |  | referens, szakreferens, |  |
-
-|  |  | közigazgatási tanácsadó, |  |
-
-|  |  | szakmai főtanácsadó, szakmai |  |
-
-|  |  | tanácsadó, titkár, titkárnő |  |
-
-| 92. |  | 12.3. | a feladataik ellátása során | „A” |
-
-|  |  | „Bizalmas!” minősítési |  |
-
-|  |  | szintű minősített |  |
-
-|  |  | adatot felhasználó |  |
-
-|  |  | elnökhelyettes, |  |
-
-|  |  | főigazgató-helyettes, igazgató, |  |
-
-|  |  | főosztályvezető, |  |
-
-|  |  | főosztályvezető-helyettes, |  |
-
-|  |  | osztályvezető, irodavezető, |  |
-
-|  |  | titkárságvezető, főreferens, |  |
-
-|  |  | referens, szakreferens, |  |
-
-|  |  | közigazgatási tanácsadó, |  |
-
-|  |  | szakmai főtanácsadó, szakmai |  |
-
-|  |  | tanácsadó, titkár, titkárnő |  |
-
-| 93. | 13. | Az 1–11. pontban | 13.1. | az 1–11. pontban meghatározott | „C” |
-
-|  | meghatározott | szerveknél az e rendeletben |  |
-
-|  | szervek | meghatározott munkakörökön |  |
-
-|  |  | túl a feladataik ellátása során |  |
-
-|  |  | „Szigorúan titkos!” minősítési |  |
-
-|  |  | szintű minősített adatot |  |
-
-|  |  | felhasználó kormány-főtanácsadó |  |
-
-|  |  | kormánytanácsadó, |  |
-
-|  |  | főosztályvezető-helyettes, |  |
-
-|  |  | osztályvezető, irodavezető, |  |
-
-|  |  | titkárságvezető, főreferens, |  |
-
-|  |  | referens, szakreferens, |  |
-
-|  |  | közigazgatási tanácsadó, |  |
-
-|  |  | szakmai főtanácsadó, szakmai |  |
-
-|  |  | tanácsadó, titkár, titkárnő |  |
-
-| 94. |  | 13.2. | az 1–11. pontban meghatározott | „B” |
-
-|  |  | szerveknél az e rendeletben |  |
-
-|  |  | meghatározott munkakörökön |  |
-
-|  |  | túl a feladataik ellátása során |  |
-
-|  |  | „Titkos!” minősítési szintű |  |
-
-|  |  | minősített adatot felhasználó |  |
-
-|  |  | kormány-főtanácsadó, |  |
-
-|  |  | kormánytanácsadó, |  |
-
-|  |  | főosztályvezető-helyettes, |  |
-
-|  |  | osztályvezető, irodavezető, |  |
-
-|  |  | titkárságvezető, főreferens, |  |
-
-|  |  | referens, szakreferens, |  |
-
-|  |  | közigazgatási tanácsadó, |  |
-
-|  |  | szakmai főtanácsadó, szakmai |  |
-
-|  |  | tanácsadó, titkár, titkárnő |  |
-
-| 95. |  | 13.3. | az 1–11. pontban meghatározott | „A” |
-
-|  |  | szerveknél az e rendeletben |  |
-
-|  |  | meghatározott munkakörökön |  |
-
-|  |  | túl a feladataik ellátása során |  |
-
-|  |  | „Bizalmas” minősítési szintű |  |
-
-|  |  | minősített adatot felhasználó |  |
-
-|  |  | kormány-főtanácsadó, |  |
-
-|  |  | kormánytanácsadó, |  |
-
-|  |  | főosztályvezető-helyettes, |  |
-
-|  |  | osztályvezető, irodavezető, |  |
-
-|  |  | titkárságvezető, főreferens, |  |
-
-|  |  | referens, szakreferens, |  |
-
-|  |  | közigazgatási tanácsadó, |  |
-
-|  |  | szakmai főtanácsadó, szakmai |  |
-
-|  |  | tanácsadó, titkár, titkárnő |  |
-
-[^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 29/2012. (VI. 12.) KIM rendelet 1. §-ával megállapított szöveg.
