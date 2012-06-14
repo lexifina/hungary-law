@@ -1,1 +1,0 @@
-## 1. § A Közigazgatási és Igazságügyi Minisztériumban, valamint a közigazgatási és igazságügyi miniszter irányítása, illetve felügyelete alá tartozó szerveknél a fontos és bizalmas munkakörökről és a nemzetbiztonsági ellenőrzés szintjének megállapításáról szóló 21/2011. (VII. 13.) KIM rendelet 1. melléklete helyébe a Melléklet lép.
