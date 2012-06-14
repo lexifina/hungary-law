@@ -1,113 +1,45 @@
-## A katonai ügyészségek hivatásos tábornoki, tiszti, zászlósi, tiszthelyettesi állományának beosztási kategóriába történő részletes besorolása, valamint az ezen beosztásokban elérhető rendfokozatok
+## A Katonai Nemzetbiztonsági Szolgálat hivatásos tábornoki, tiszti és altiszti állományának beosztási kategóriába történő részletes besorolása, valamint az ezen beosztásokban elérhető rendfokozatok
 
-## I. BESOROLÁSI OSZTÁLY
+## A. I. BESOROLÁSI OSZTÁLY
 
-| Rendfokozat | Beosztás megnevezése |
+|  | A | B | C |
 
-| altábornagy | katonai főügyész (V) |
+| 1. | Beo, Kat. | Rendfokozat | Beosztás |
 
-| vezérőrnagy | Katonai Főügyészség Katonai Ügyek Főosztályának vezetője (V) |
+| 2. | IX. | altábornagy | főigazgató (V) |
 
-| dandártábornok | Katonai Fellebbviteli Ügyészség vezetője (V); Budapesti Katonai Ügyészség vezetője (V) |
+| 3. | VIII. | vezérőrnagy | főigazgató helyettes (V); főigazgató általános helyettes (V) |
 
-| ezredes | Katonai Főügyészségi osztályvezető ügyész (V); Katonai Fellebbviteli Ügyészség vezető-helyettese (V); Katonai ügyészségek ügyészségvezetői (V); Katonai Főügyészségi főosztályvezető-helyettes (V); Budapesti Katonai Ügyészség vezető-helyettese (V) Katonai Főügyészség pénzügyi és számviteli osztályvezető (V) |
+|  | VII. | dandártábornok |  |
 
-| alezredes | ügyészségvezető-helyettes (V); Katonai Főügyészségi osztályvezető-helyettes (V); Katonai Főügyészségi, illetve fellebbviteli ügyész* |
+| 4. | ezredes | igazgató (V); főosztályvezető (V) |
 
-| őrnagy | Katonai főügyészségi ügyviteli irodavezető (V); titkár; informatikai főtiszt |
+| 5. | VI. | ezredes | igazgatóhelyettes (V); főosztályvezető-helyettes (V); osztályvezető (igh.) (V); osztályvezető (főovh.) (V); osztályvezető (V); véderő- katonai és légügyi attasé (V); katonai és légügyi attasé (V); referatúravezető (V) |
 
-| százados | fogalmazó; irodavezető-helyettes (lajstromvezető) (V) |
+|  | alezredes | osztályvezető (igh.) (V); osztályvezető (főovh.)(V); kiemelt főreferens (főovh.) (V); osztályvezető (V); véderő- katonai és légügyi attasé (V); katonai és légügyi attasé (V) |
 
-## Megjegyzés
+| 6. | V. | alezredes | osztályvezető-helyettes (V); kiemelt műveleti-, biztonsági főtiszt (ovh.) (V); kiemelt főreferens (ovh.) (V); kiemelt főtiszt (ovh.) (V); véderő- katonai és légügyi attasé helyettes (V); alosztályvezető (ovh.)(V); alosztályvezető (V); kiemelt műveleti-, biztonsági főtiszt; kiemelt főreferens; kiemelt főtiszt; főmérnök |
 
-## * A katonai főügyész döntése alapján - az ügyészi állományból összesen négy beosztás ezredesi rendfokozattal rendszeresíthető.
+|  | őrnagy | osztályvezető-helyettes (V); műveleti-, biztonsági főtiszt (ovh.) (V); főreferens (ovh.) (V); főtiszt (ovh.) (V); alosztályvezető (ovh.)(V); véderő- katonai és légügyi attasé helyettes (V); alosztályvezető (V); részlegvezető (V) |
 
-## II. BESOROLÁSI OSZTÁLY
+| 7. | IV. | őrnagy | műveleti-, biztonsági főtiszt; főreferens; beosztott főtiszt; attasé hivatali titkár |
 
-| Rendfokozat | Beosztás megnevezése |
+|  | százados | műveleti-, biztonsági tiszt; referens; beosztott tiszt |
 
-| törzszászlós | részlegvezető; segítő; vezető ügykezelő (irodavezető) |
+## B. II. BESOROLÁSI OSZTÁLY
 
-| zászlós | igazságügyi szakértő; irattáros; lajstromvezető; irattáros-bűnjelkezelő; pénzügyi és anyagellátó; statisztikus |
+|  | A | B | C |
 
-| főtörzsőrmester | gépjárművezető |
+| 1. | Beo, Kat. | Rendfokozat | Beosztás |
 
-## A katonai tanácsokkal rendelkező bíróságok hivatásos tiszti, zászlósi, tiszthelyettesi állományának beosztási kategóriába történő részletes besorolása, valamint az ezen beosztásokban elérhető rendfokozatok
+| 2. | X. | főtörzszászlós | vezénylő zászlós |
 
-## I. BESOROLÁSI OSZTÁLY
+| 3. | IX. | törzszászlós | adatfeldolgozó; attasé hivatali ügykezelő; állománykezelő; beosztott zászlós; forrásgépkezelő; műveleti-, biztonsági adatkezelő; műveleti-, biztonsági zászlós; operatív technikus; részlegvezető; szaktechnikus; váltásvezető; vezető ügykezelő; vezető szakasszisztens; ügykezelő |
 
-| Rendfokozat | Beosztás megnevezése |
+| 4. | VIII. | zászlós | beosztott zászlós; forrásgépkezelő; műveleti-, biztonsági ügyintéző; műveleti-, biztonsági ügykezelő; nyilvántartó; szakasszisztens; technikus; ügykezelő |
 
-| dandártábornok | Fővárosi Ítélőtábla katonai tanácsa tanácselnöke, Fővárosi Bíróság Büntető Kollégiuma vezető-helyettese |
+| 5. | VII. | főtörzsőrmester | beosztott altiszt; beszerző altiszt; forrásgépkezelő; gépjárművezető; kezelő; műveleti-, biztonsági altiszt; távírász; ügykezelő |
 
-| ezredes | Fővárosi Bíróság Büntető Kollégium tanácselnök, megyei (fővárosi) bíróság katonai tanácsa tanácselnöke, ítélőtábla katonai bírája, |
+5. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^14]
 
-| alezredes | megyei (fővárosi) bíróság katonai bírája |
-
-| őrnagy | titkár |
-
-| százados | fogalmazó |
-
-## II. BESOROLÁSI OSZTÁLY
-
-| Rendfokozat | Beosztás megnevezése |
-
-| törzszászlós | irodavezető |
-
-| főtörzsőrmester | tisztviselő (jegyzőkönyvvezető) |
-
-5. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^9]
-
-A Honvédelmi Minisztérium Állami Egészségügyi Központ (Honvéd, Rendészeti és Vasútegészségügyi
-
-Központ) hivatásos tábornoki, hivatásos és szerződéses tiszti és tiszthelyettesi, szerződéses legénységi állomány
-
-részletes beosztási kategóriába történő besorolása, valamint e beosztásokban általános és speciális előmeneteli
-
-rendben rendszeresített, illetve elérhető rendfokozatok
-
-A. I. BESOROLÁSI OSZTÁLY
-
-|  | Rendfokozat | Általános előmenetel | Speciális előmenetel |
-
-| VIII. | vezérőrnagy | főigazgató (V) |  |
-
-| VII. | dandártábornok | katonai főigazgató-helyettes (MH repülő főszakorvos) (V) |  |
-
-| VI. | ezredes | rehabilitációs főigazgató-helyettes (V); stratégiai és tudományos fejlesztési főigazgató-helyettes (V); orvos igazgató (V); ápolási igazgató (V); gazdasági igazgató (V); intézeti főgyógyszerész (V); szakrendelő intézet igazgató (V); MH főszakorvos (V); MH főbelgyógyász (V); MH fősebész (V); hivatalvezető (V); intézetvezető (V); személyügyi osztályvezető (V); tervezési és szervezési osztályvezető (V); osztályvezető főorvos (V) |  |
-
-| V. | alezredes | orvos igazgató-helyettes (V); gazdasági igazgató-helyettes (V); ápolási igazgató-helyettes (V); intézetvezető gyógyító helyettes (V); intézetvezető ápolási helyettes (V); intézetvezető gazdasági helyettes (V); osztályvezető (V); osztályvezető főorvos (rehabilitációs intézetek) (V); gyógyszertárvezető (V); részlegvezető főorvos (V); rendelővezető főorvos (V); főorvos; osztályvezető-helyettes (V) (I/VI. beosztási kategóriával rendszeresített vezetők helyettesei); kiemelt főtiszt |  |
-
-| IV. | őrnagy | osztályvezető-helyettes (V); alosztályvezető (V); telepvezető (V); gyógyszertárvezető-helyettes (V); vezető dietetikus (V); vezető gyógytornász (V); rendelőintézet vezető asszisztens (V); főtiszt; adjunktus; szakpszichológus; | jogász főtiszt (ovh.), mérnök, referens, biológus, szakgyógyszerész, okleveles ápoló |
-
-| III. | százados | Híradó részleg: részlegvezető (V) | orvos (al-, szak-), belső ellenőr, dietetikus, diplomás ápoló, egészségügyi tiszt, gyógyszerész, gyógytornász, konduktor, laboratóriumvezető (V), logopédus, mikrobiológus, pszichológus, szociális munkás, szonográfus, tiszt, védőnő, ergonómus, ellenőr |
-
-| II. | főhadnagy |  |  |
-
-| I. | hadnagy |  |  |
-
-B. II. BESOROLÁSI OSZTÁLY
-
-|  | Rendfokozat | Általános előmenetel | Speciális előmenetel |
-
-| X. | főtörzszászlós |  |  |
-
-| IX. | törzszászlós | vezető szakápoló, vezető szakasszisztens, vezető főműtős, vezető szülésznő, nyilvántartó, ügyviteli részlegvezető, vezető ügykezelő; | kidolgozó |
-
-| VIII. | zászlós | fődiszpécser | részlegvezető, adatrögzítő, beosztott tiszthelyettes, dokumentációkezelő, főműtős, főtechnikus, szakápoló, szakasszisztens, ügykezelő |
-
-| VII. | főtörzsőrmester |  | adminisztrátor, anyagkezelő, ápoló, asszisztens, boncmester, gépkocsivezető (I/VII. és magasabb beosztású vezetők gépkocsivezetője), gyógymasszőr, laboráns, laborasszisztens, műtős, pénztáros, részleg beosztott tiszthelyettes, számviteli tiszthelyettes, diszpécser, szülésznő, technikus, étkezdevezető |
-
-| VI. | törzsőrmester |  |  |
-
-| V. | őrmester |  |  |
-
-| IV. | szakaszvezető |  | Beteghordó, egészségügyi kisegítő, műtőssegéd, anyagmozgató, raktáros, segédápoló, sterilizáló, gépkocsivezető |
-
-| III. | tizedes |  |  |
-
-| II. | őrvezető |  |  |
-
-| I. | honvéd |  |  |
-
-[^9]: Az 5. számú mellékletet a 26/2008. (XII. 20.) HM rendelet 6. §-a iktatta be.
+[^14]: Az 5. számú mellékletet a 26/2008. (XII. 20.) HM rendelet 6. §-a iktatta be, szövege a 8/2012. (VI. 11.) HM rendelet 5. § (5) bekezdésével megállapított szöveg.
