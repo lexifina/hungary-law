@@ -14,4 +14,4 @@ f) szükség esetén a 3. § j) és a 4. § d), h), j) alpontjaiban előírt fel
 
 g)[^5] a 3. § k) pontjában előírt feltételeket.
 
-[^5]: A 7. § g) pontja e rendelet 17. § (2) bekezdése alapján 2012. június 15. napján lép hatályba.
+[^5]: A 7. § g) pontja e rendelet 17. § (2) bekezdése alapján 2012. június 15. napján lépett hatályba.

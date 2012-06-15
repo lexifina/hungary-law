@@ -22,4 +22,4 @@ j) fertőtlenítésre, illetve megsemmisítésre alkalmas létesítményeket,
 
 k)[^2] a 3. § k) pontjában előírt feltételeket.
 
-[^2]: A 4. § k) pontja e rendelet 17. § (2) bekezdése alapján 2012. június 15. napján lép hatályba.
+[^2]: A 4. § k) pontja e rendelet 17. § (2) bekezdése alapján 2012. június 15. napján lépett hatályba.

@@ -22,4 +22,4 @@ j) az ellenőrzéshez szükséges biztonsági feltételeket,
 
 k)[^3] a 3. § k) pontjában előírt feltételeket.
 
-[^3]: Az 5. § k) pontja e rendelet 17. § (2) bekezdése alapján 2012. június 15. napján lép hatályba.
+[^3]: Az 5. § k) pontja e rendelet 17. § (2) bekezdése alapján 2012. június 15. napján lépett hatályba.

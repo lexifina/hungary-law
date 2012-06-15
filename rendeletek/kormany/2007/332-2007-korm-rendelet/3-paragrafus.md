@@ -22,4 +22,4 @@ j) a hatósági feladatok ellátására szolgáló hivatali helyiségeket, bele�
 
 k)[^1] az arra kijelölt határátkelőhelyeken a közegészségügyi vizsgálatokhoz szükséges helyiségeket.
 
-[^1]: A 3. § k) pontja e rendelet 17. § (2) bekezdése alapján 2012. június 15. napján lép hatályba.
+[^1]: A 3. § k) pontja e rendelet 17. § (2) bekezdése alapján 2012. június 15. napján lépett hatályba.

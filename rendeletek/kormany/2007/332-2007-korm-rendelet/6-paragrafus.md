@@ -14,4 +14,4 @@ f) hatósági feladatok ellátásához szükséges hivatali helyiségeket, bele�
 
 g)[^4] a 3. § k) pontjában előírt feltételeket.
 
-[^4]: A 6. § g) pontja e rendelet 17. § (2) bekezdése alapján 2012. június 15. napján lép hatályba.
+[^4]: A 6. § g) pontja e rendelet 17. § (2) bekezdése alapján 2012. június 15. napján lépett hatályba.
