@@ -1,1 +1,0 @@
-## 1. § A szociális és munkaügyi miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 15/2008. (VIII. 13.) SZMM rendelet 2. számú melléklete e rendelet 1. melléklete szerint módosul.
