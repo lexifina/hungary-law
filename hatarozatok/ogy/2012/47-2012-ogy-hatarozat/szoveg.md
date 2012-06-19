@@ -1,0 +1,1 @@
+Az Országgyűlés az afganisztáni Nemzetközi Biztonsági Közreműködő Erők (ISAF) műveleteiben történő további magyar katonai szerepvállalásról szóló 2186/2008. (XII. 29.) Korm. határozat módosításáról szóló 1126/2012. (IV. 25.) Korm. határozatban foglalt döntésről szóló beszámolót elfogadja.
