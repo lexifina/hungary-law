@@ -1,0 +1,1 @@
+Az Országgyűlés az „Egyetért-e Ön azzal, hogy az alapszabadság kétharmadát a munkáltató a munkavállaló kérésének megfelelő időpontban legyen köteles kiadni?” kérdésben az országos népszavazást nem rendeli el.
