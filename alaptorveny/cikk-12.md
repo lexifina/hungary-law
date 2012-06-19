@@ -22,4 +22,4 @@ g) a köztársasági elnöki tisztségtől való megfosztással.
 
 (4) A köztársasági elnök feladatkörei ellátását kilencven napon túl lehetetlenné tevő állapotának és a megválasztásához szükséges feltételek hiányának megállapításáról, valamint az összeférhetetlenség kimondásáról az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával határoz.
 
-(5) A köztársasági elnök jogállásának részletes szabályait és javadalmazását sarkalatos törvény határozza meg.
+(5) A köztársasági elnök és a volt köztársasági elnök jogállásának részletes szabályait és javadalmazását sarkalatos törvény határozza meg.
