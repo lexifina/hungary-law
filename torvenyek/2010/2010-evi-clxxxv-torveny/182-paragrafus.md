@@ -32,7 +32,7 @@ bl) a műsorterjesztés sokszínűségére vonatkozó rendelkezések,
 
 bm) a közszolgálati médiaszolgáltatás feladatainak végrehajtására vonatkozó szabályok.
 
-c) felügyeli az Smtv. 13–20. §-ban foglalt követelmények betartását,
+c) felügyeli az Smtv. 14. §-ában, valamint 16–20. §-ában foglalt követelmények betartását,
 
 d) gyakorolja a más tagállamban letelepedett médiatartalom-szolgáltatók által elkövetett jogsértésekkel kapcsolatos hatósági hatásköröket,
 
