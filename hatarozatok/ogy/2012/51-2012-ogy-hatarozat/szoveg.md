@@ -1,0 +1,1 @@
+Az Országgyűlés az „Egyetért-e Ön azzal, hogy a tankötelezettség továbbra is annak a tanévnek a végéig tartson, amelyben az érintett személy a 18. életévét betöltötte?” kérdésben az országos népszavazást nem rendeli el.
