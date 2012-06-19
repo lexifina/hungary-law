@@ -1,5 +1,1 @@
-17. § Az Smtv. 6. §-a helyébe a következő rendelkezés lép:
-
-„6. § (1) A médiatartalom-szolgáltató, valamint a vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy törvényben meghatározottak szerint jogosult a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy (a továbbiakban: információforrás) kilétét a bírósági és hatósági eljárások során titokban tartani, továbbá bármely, az információforrás azonosítására esetlegesen alkalmas dokumentum, irat, tárgy vagy adathordozó átadását megtagadni.
-
-(2) A bíróság – bűncselekmény elkövetésének felderítése érdekében – törvényben meghatározott, kivételesen indokolt esetben az információforrás felfedésére, valamint az információforrás azonosítására esetlegesen alkalmas dokumentum, irat, tárgy vagy adathordozó átadására kötelezheti a médiatartalom-szolgáltatót, valamint a vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyt.”
+17. §
