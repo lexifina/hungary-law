@@ -1,5 +1,7 @@
 2. § (1) E törvény hatálya kiterjed a Magyarországon letelepedett médiatartalom-szolgáltató által nyújtott médiaszolgáltatásra.
 
+(1a) E törvény hatálya – a 13. §, a 14. § (1) bekezdése, a 19. § (1), (2) és (4) bekezdése, valamint a 20. § (8) bekezdésének második mondata és (9) bekezdése kivételével – kiterjed a Magyarország területén letelepedett médiatartalom-szolgáltató által kiadott sajtótermékre is.
+
 (2) E törvény alkalmazásában a médiatartalom-szolgáltató akkor minősül Magyarország területén letelepedettnek, ha:
 
 a) az általa nyújtott médiaszolgáltatás analóg terjesztése Magyarország tulajdonában álló frekvencia igénybevételével történik vagy a sajtótermék elsődlegesen Magyarország felhasználói számára kijelölt elektronikus hírközlési azonosítón keresztül érhető el,

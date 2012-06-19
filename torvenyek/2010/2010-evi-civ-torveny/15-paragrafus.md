@@ -1,13 +1,13 @@
-15. § (1) Tilos visszaélni a médiatartalom-szolgáltatónak adott, nyilvános közlésre szánt nyilatkozat közzétételébe történt beleegyezéssel.
+15. § (1) Tilos visszaélni a médiatartalom-szolgáltatónak adott, nyilvános közlésre szánt nyilatkozat közzétételébe vagy a médiatartalomban való szereplésbe történt beleegyezéssel.
 
-(2) A médiatartalom-szolgáltató köteles a nyilvános közlés céljából készített nyilatkozatot a nyilatkozatot adó személynek – annak kérelmére – megmutatni; azt nem közölheti, ha a közzétételhez a nyilatkozatot adó személy azért nem járul hozzá, mert azt a médiatartalom-szolgáltató érdemben megváltoztatta, és a változtatás a nyilatkozatot adó számára sérelmes.
+(2) A médiatartalom-szolgáltató köteles a nyilvános közlés céljából készített nyilatkozatot a nyilatkozatot adó vagy a médiatartalomban szereplő személynek – annak kérésére – a közzétételt megelőzően megmutatni; az nem közölhető, ha a közzétételhez az érintett azért nem járul hozzá, mert azt a médiatartalom-szolgáltató érdemben megváltoztatta vagy eltorzította, és ez a nyilatkozatot adó vagy a médiatartalomban szereplő számára sérelmes. A hozzájárulás visszavonása ellenére történt, jó hírnévre vagy becsületre sérelmes közlés esetén a vonatkozó polgári jogi és büntetőjogi szabályokat kell alkalmazni.
 
-(3) A nyilatkozat közzétételéhez történt hozzájárulás a médiatartalom-szolgáltató (1) bekezdésben szereplő visszaélése esetén jogkövetkezmény nélkül visszavonható, amennyiben
+(3) A (2) bekezdésben meghatározott esetkörön kívül a nyilatkozat vagy a szereplés nem vonható vissza, ha
 
-a) azt a nyilatkozó nem a helyi, országos vagy európai közélet eseményével összefüggésben tette,
+a) azt a nyilatkozó a helyi, országos vagy európai közélet eseményével összefüggésben tette,
 
-b) az nem Magyarország polgárai és a magyar nemzet tagjai számára jelentőséggel bíró valamely eseménnyel kapcsolatos, vagy
+b) az Magyarország polgárai és a magyar nemzet tagjai számára jelentőséggel bíró valamely eseménnyel kapcsolatos, vagy
 
-c) a visszavonásra irányuló nyilatkozatot nem hivatalos vagy közfeladatot ellátó személy, vagy politikai közszereplő közmegbízatása ellátásával összefüggésben tette,
+c) azt hivatalos vagy közfeladatot ellátó személy, vagy politikai közszereplő közmegbízatása ellátásával összefüggésben tette.
 
-feltéve, hogy a visszavonás a közzétételt megelőzően kellő időben történik, és így nem okoz a médiatartalom-szolgáltató számára aránytalan sérelmet. Az e jogot korlátozó szerződéses kikötés semmis.
+(4) A médiatartalom-szolgáltató nem köthet médiatartalomban szereplő személlyel olyan megállapodást, amely a megállapodás tárgykörén belül korlátozza a médiatartalomban szereplő személynek a jó hírnevéhez, becsületéhez vagy magánéletéhez fűződő jogainak érvényesíthetőségét, illetve a nyilatkozat vagy szereplés visszavonásához fűződő, (1) és (2) bekezdés szerinti jogait. Az ilyen szerződéses kikötés semmis.

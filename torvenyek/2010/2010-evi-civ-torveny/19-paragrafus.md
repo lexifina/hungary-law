@@ -6,4 +6,6 @@
 
 (4) Lineáris médiaszolgáltatásban megjelenő azon médiatartalom, amely veszélyeztetheti a kiskorúak szellemi, lelki, erkölcsi vagy fizikai fejlődését, csak oly módon tehető közzé, amely az adásidő megválasztásával, illetve más műszaki megoldás alkalmazásával biztosítja, hogy a kiskorúak rendes körülmények között nem hallhatják vagy láthatják azt.
 
+(4a) Médiatartalomban tilos kiskorú személy olyan bemutatása, amely életkorának megfelelő lelki vagy fizikai fejlődését nagymértékben veszélyeztetheti.
+
 (5) A kiskorúak médiatartalmakkal szembeni védelmére szolgáló részletes szabályokat külön törvény határozza meg.

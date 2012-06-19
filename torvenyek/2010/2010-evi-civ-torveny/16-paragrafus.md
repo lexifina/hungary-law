@@ -1,1 +1,1 @@
-16. § A médiatartalom-szolgáltató köteles tiszteletben tartani az alkotmányos rendet, tevékenysége során nem sértheti az emberi jogokat.
+16. § A médiatartalom nem sértheti az alkotmányos rendet.
