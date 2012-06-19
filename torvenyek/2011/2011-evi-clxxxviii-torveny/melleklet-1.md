@@ -7280,7 +7280,7 @@ Fővárosi, megyei kormányhivatalok
 
 |
 
-73 815,3
+74 812,8
 
 |
 
@@ -7328,7 +7328,7 @@ Személyi juttatások
 
 |
 
-71 159,9
+71 780,0
 
 |
 
@@ -7354,7 +7354,7 @@ Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 |
 
-18 936,3
+19 103,7
 
 |
 
@@ -7380,7 +7380,7 @@ Dologi kiadások
 
 |
 
-16 818,0
+17 028,0
 
 |
 
@@ -11198,7 +11198,7 @@ Fejezeti általános tartalék
 
 |
 
-357 973,2
+358 970,7
 
 |
 
@@ -11206,7 +11206,7 @@ Fejezeti általános tartalék
 
 |
 
-266 128,8
+267 126,3
 
 |
 
@@ -11376,7 +11376,7 @@ Dologi kiadások
 
 |
 
-1 - 20. cím összesen:
+21. cím összesen:
 
 |
 
@@ -11590,7 +11590,7 @@ X. fejezet összesen:
 
 |
 
-458 719,3
+459 716,8
 
 |
 
@@ -11598,7 +11598,7 @@ X. fejezet összesen:
 
 |
 
-267 061,4
+268 058,9
 
 |
 
@@ -50276,7 +50276,7 @@ Bírságbevételek
 
 |
 
-32 441,1
+33 438,6
 
 |
 
@@ -52396,7 +52396,7 @@ XLII. fejezet összesen:
 
 |
 
-6 829 428,7
+6 830 426,2
 
 |
 
