@@ -2,13 +2,13 @@ Az Országgyűlés a magyarországi cigány, illetőleg roma népesség sikeres 
 
 1. Az Országgyűlés elfogadja a határozat mellékletét képező, a Roma Integráció Évtizede Program Stratégiai Tervet (a továbbiakban: Stratégiai Terv).
 
-2. A Kormány tevékenységében érvényesítse a Stratégiai Tervben elfogadott célkitűzéseket és – a Roma Integrációs Tanáccsal együttműködve – kétéves intézkedési terv keretében dolgozza ki a Stratégiai Terv végrehajtásához szükséges kormányzati intézkedéseket. Azok teljesítéséről kétévente, augusztus 31-éig készítsen jelentést az Országgyűlés részére. A Kormány évente gondoskodjon a kormányzati intézkedésekhez szükséges költségvetési források tervezéséről.
+2.[^2] A Kormány tevékenységében érvényesítse a Stratégiai Tervben elfogadott célkitűzéseket és – a Roma Koordinációs Tanáccsal együttműködve – a Nemzeti Társadalmi Felzárkózási Stratégia intézkedési tervének keretében határozza meg a Stratégiai Terv végrehajtásához szükséges kormányzati intézkedéseket. Azok teljesítéséről a Nemzeti Társadalmi Felzárkózási Stratégia intézkedési tervében foglalt feladatok végrehajtásáról készített jelentéshez kapcsolódóan kétévente, június 30-áig készítsen jelentést az Országgyűlés részére.
 
 3. A Kormány az első, a 2008–2009. évekre szóló kormányzati intézkedési tervet a feladatok, a felelősök és a szükséges költségvetési források meghatározásával legkésőbb 2007. szeptember 30-áig dolgozza ki.
 
 4. A Kormány – építve az írott és elektronikus információs technológiában rejlő lehetőségekre – gondoskodjon arról, hogy a Stratégiai Tervről és annak előrehaladásáról a közélet és a civil szféra képviselői folyamatosan tájékoztatást kapjanak.
 
-5. A Kormány a Stratégiai Tervben megfogalmazott célok elérését a transzparencia és a partnerség elvét megtartva valósítsa meg, teljesülését független szakértők által végzett kutatások segítségével is vizsgálja meg és a kutatások eredményéről 2011-ben, illetőleg 2015-ben számoljon be az Országgyűlésnek.
+5.[^3] A Kormány a Stratégiai Tervben megfogalmazott célok elérését a transzparencia és a partnerség elvét megtartva valósítsa meg, teljesülését a Nemzeti Társadalmi Felzárkózási Stratégiában foglalt célok megvalósulásának nyomon követése érdekében működő monitoring rendszer keretében vizsgálja meg.
 
 6. Az Országgyűlés e határozatával felkéri
 
@@ -100,7 +100,7 @@ A területi és a szociális szempontokról, illetve a roma népességről szól
 
 II. AZ OKTATÁS TERÜLETÉRE VONATKOZÓ FELADATOK
 
-Az Országgyűlés az oktatás területén fő célként az integrált oktatás[^2] kiterjesztését, a deszegregáció megvalósulását (valamennyi szegregált iskolai osztály és iskola megszüntetését), a romák képzettségi szintjének emelését tűzi ki.
+Az Országgyűlés az oktatás területén fő célként az integrált oktatás[^4] kiterjesztését, a deszegregáció megvalósulását (valamennyi szegregált iskolai osztály és iskola megszüntetését), a romák képzettségi szintjének emelését tűzi ki.
 
 Ennek eléréséhez a következő feladatok teljesítése és a feladatokhoz kapcsolódó intézkedések megtétele szükséges azzal, hogy a célok és intézkedések megvalósításának konkrét módozatait a kétévenként kidolgozásra kerülő intézkedési tervek tartalmazzák.
 
@@ -606,4 +606,6 @@ e) A romákat sztereotip módon bemutató hírek, adások és az ezzel összefü
 
 f) A sportklubok utánpótlás-nevelésében részt vett hátrányos helyzetű/roma gyermekek, fiatalok száma.
 
-[^2]: Az integrált oktatás, nevelés fogalmát és tartalmát legrészletesebben a nevelési és oktatási intézmények működési rendjéről szóló 11/1994. (VI. 8.) MKM rendelet 39/D. és 39/E. §-ai határozzák meg.
+[^2]: A 2. pont a 49/2012. (VI. 19.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: Az 5. pont a 49/2012. (VI. 19.) OGY határozat 2. pontjával megállapított szöveg.
+[^4]: Az integrált oktatás, nevelés fogalmát és tartalmát legrészletesebben a nevelési és oktatási intézmények működési rendjéről szóló 11/1994. (VI. 8.) MKM rendelet 39/D. és 39/E. §-ai határozzák meg.
