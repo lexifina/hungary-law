@@ -1,0 +1,1 @@
+18. § E törvénynek az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel módosított 2/A. § (1) bekezdését a 2012. április 1-jét követően mentesített követelésrészekre lehet alkalmazni.
