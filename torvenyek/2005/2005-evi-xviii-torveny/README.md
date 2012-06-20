@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-18-00-00
 | 2012-01-01 | 2011. évi CLXXXII. törvény | 2005-18-00-00.20 |
 | 2012-01-08 | 2011. évi CLXVI. törvény | 2005-18-00-00.21 |
 | 2012-05-30 | 2012. évi XLVII. törvény | 2005-18-00-00.22 |
+| 2012-06-20 | 2012. évi LXX. törvény | 2005-18-00-00.23 |
