@@ -24,7 +24,7 @@ h) a veszélyes anyagokkal foglalkozó üzemeket érintő lakossági tájékozta
 
 i) a védekezésben részt vevők költségei megtérítésének szabályait,
 
-j) a katasztrófavédelmi hozzájárulás befizetési és elszámolási rendjét, felhasználásának és ellenőrzésének módját, az eljáró hatóságokat, valamint a katasztrófavédelmi hozzájárulásra kötelezettek bejelentésének szabályait,
+j)
 
 k) a küszöbérték alatti üzemek körét, katasztrófavédelmi hatósági felügyeleti rendjét és az üzemeltetői kötelezettségeket,
 

@@ -8,4 +8,4 @@
 
 (4) Az önkéntesen segítséget nyújtó személyek az adott feladat végrehajtásáért felelős személy irányításával látják el a számukra meghatározott feladatot.
 
-(5) A felkészülés időszakában felmerült költségek fedezetének biztosítására a katasztrófavédelmi hozzájárulás bevétele terhére pályázat útján támogatás nyújtható.
+(5)

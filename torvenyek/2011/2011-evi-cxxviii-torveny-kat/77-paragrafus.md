@@ -1,1 +1,1 @@
-77. § A katasztrófavédelmi hozzájárulásból származó bevétel műszaki-technikai eszközök, felszerelések beszerzése, fejlesztése, felújítása és objektumok létesítése céljára, védekezési kiadásokra, közbiztonsági referensek képzésére, valamint polgári védelmi szervezetek képzésére, felszerelésére, illetve önkéntes mentőszervezetek támogatására használható fel.
+### 77. §
