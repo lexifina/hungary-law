@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-53-00-00
 | 2012-02-01 | 2011. évi CXCI. törvény | 1994-53-00-00.77 |
 | 2012-03-15 | 2011. évi CLXXX. törvény | 1994-53-00-00.78 |
 | 2012-05-01 | 2012. évi XXXI. törvény | 1994-53-00-00.79 |
+| 2012-06-20 | 2012. évi LXX. törvény | 1994-53-00-00.80 |
