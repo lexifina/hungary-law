@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-195-00-00
 | 2012-03-01 | 2012. évi V. törvény | 2011-195-00-00.4 |
 | 2012-03-31 | 2012. évi XVII. törvény | 2011-195-00-00.5 |
 | 2012-04-20 | 2012. évi XXXVI. törvény | 2011-195-00-00.6 |
+| 2012-06-20 | 2012. évi LXIX. törvény | 2011-195-00-00.7 |
