@@ -14,7 +14,7 @@ c) hitelező: az a pénzügyi intézmény és az a pénzügyi intézménynek nem
 
 d) jelzáloghitel-szerződés: a hiteladós és a pénzügyi intézmény között létrejött kölcsönszerződés, ideértve az életbiztosítási szerződéssel vagy lakás-előtakarékossági szerződéssel kombinált kölcsönszerződést is, amelynek hitelkockázati fedezete Magyarország területén lévő lakóingatlanon alapított jelzálogjog,
 
-e) kényszerértékesítési kvóta: a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvényben ekként meghatározott fogalom,
+e)
 
 f) lakóingatlan: a lakás céljára létesített és az ingatlan-nyilvántartásban
 
@@ -24,7 +24,7 @@ fb) tanyaként feltüntetett lakó-, gazdasági épület, épületcsoport és az
 
 g) pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is,
 
-h) szociálisan rászorult személy: aki a szociális igazgatásról és szociális ellátásokról szóló törvény alapján aktív korúak ellátásában részesül,
+h)
 
 i) természetes személy:
 

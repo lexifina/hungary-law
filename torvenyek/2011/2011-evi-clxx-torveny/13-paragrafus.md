@@ -1,7 +1,29 @@
-13. § (1) Ha a pénzügyi intézmény a lakóingatlan tulajdonjogának átruházásához előzetes elvi hozzájárulását adja, erről – a szándéknyilatkozat és a 11. § (3) bekezdésében meghatározott igazolások és nyilatkozatok megküldésével együtt – haladéktalanul értesíti a Nemzeti Eszközkezelőt, és megjelöli a saját követelésének összegét, a szándéknyilatkozattal érintett lakóingatlannak a jelzáloghitel-szerződés megkötésekor megállapított forgalmi értékét, a jelzáloghitel-szerződésben meghatározott hitelösszeget, valamint a hiteladós által a jelzáloghitel-szerződés alapján teljesített tőketörlesztések összegét.
+13. § (1) A pénzügyi intézmény minden hónap 15. napjáig írásban bejelenti a Nemzeti Eszközkezelőnek azon lakóingatlanok címét, helyrajzi számát, az ingatlan tulajdonosának nevét, születési helyét és idejét, amely lakóingatlanok átruházása szabályszerűen, az előző havi bejelentés óta kezdeményezhető.
 
-(2) A Nemzeti Eszközkezelő az (1) bekezdés szerinti adatok beérkezésétől számított 15 napon belül értesíti valamennyi hitelezőt a szándéknyilatkozat beérkezéséről, és felhívja őket, hogy a felhívás kézhezvételétől számított 15 napon belül jelentsék be a követeléseik összegét, a lakóingatlannak a jelzáloghitel-szerződés megkötésekor megállapított forgalmi értékét, a jelzáloghitel-szerződésben meghatározott hitelösszeget, és a jelzáloghitel-szerződés alapján teljesített tőketörlesztések összegét. A hitelezőnek a jelzálogjoggal biztosított követelése összegét azzal a nappal mint fordulónappal kell megjelölnie, amely napon a hiteladós szándéknyilatkozatát a pénzügyi intézménynél benyújtotta.
+(2) Az (1) bekezdés szerinti bejelentéshez
 
-(3) Ha ugyanazon hitelező javára a szándéknyilatkozattal érintett lakóingatlan vonatkozásában több jelzálogjogot is bejegyeztek az ingatlan-nyilvántartásba, e hitelezőt minden bejegyzett jelzálogjog tekintetében önálló hitelezőnek kell tekinteni, kivéve, ha a jelzálogjogok az ingatlan-nyilvántartásban közvetlenül egymást követő ranghelyen állnak.
+a) mellékelni kell
 
-(4) Nem akadálya a lakóingatlan tulajdonjoga átruházásának, ha a lakóingatlanon bejegyzett jelzálogjoggal rendelkező, pénzügyi intézménynek nem minősülő hitelező a jelzálogjoggal biztosított követelésének összegéről nem nyilatkozik. Ebben az esetben a Nemzeti Eszközkezelő a hitelező javára e törvény alapján megállapítható vételárhányadot bírósági letétbe helyezéssel teljesíti, és erről tájékoztatja a pénzügyi intézménynek nem minősülő hitelezőt, a hiteladóst és – ha a lakóingatlan nem a hiteladós tulajdonában van – a zálogkötelezettet. Ha az ingatlan-nyilvántartás alapján a jelzálogjoggal biztosított követelés járulékai nem határozhatók meg pontosan, a vételárhányad számításának alapját az ingatlan-nyilvántartásba bejegyzett jelzálogjog által biztosított követelés tőkeösszege képezi.
+aa) a 11. § (2) bekezdése szerinti szándéknyilatkozatot,
+
+ab) a 11. § (3) bekezdésében meghatározott igazolásokat és nyilatkozatokat,
+
+ac) a bejelentő hitelező 12. § (2) bekezdése szerinti elvi hozzájárulását, és
+
+b) meg kell jelölni
+
+ba) a pénzügyi intézmény saját követelésének összegét forintban,
+
+bb) a szándéknyilatkozattal érintett lakóingatlannak a jelzáloghitel-szerződésben megállapított forgalmi értékét vagy annak hiányában a jelzáloghitel-szerződés megkötésekor megállapított forgalmi értékét,
+
+bc) a jelzáloghitel-szerződésben meghatározott hitelösszeget forintban, deviza vagy devizaalapú hitel esetében a szerződéskötés napján érvényes MNB árfolyam alapján, valamint
+
+bd) a hiteladós által a jelzáloghitel-szerződés alapján teljesített tőketörlesztések összegét forintban.
+
+(3) Ha a megvételre felajánlott lakóingatlanok száma az adott hónapban – figyelembe véve azokat a lakóingatlanokat is, amelyek esetében a vásárlásról a Nemzeti Eszközkezelő még nem döntött – meghaladja a Kormány rendeletében meghatározott darabszámot, a Nemzeti Eszközkezelő a megvásárolandó lakóingatlanok kiválasztása során a kormányrendeletben foglaltak szerint jár el.
+
+(4) A Nemzeti Eszközkezelő az (1) bekezdés szerinti bejelentéstől számított 15 napon belül értesíti az adásvétel kezdeményezését bejelentő hitelezőn kívül érintett valamennyi, az adott lakóingatlanon jelzálogjoggal érintett hitelezőt a szándéknyilatkozat beérkezéséről, annak dátumáról, valamint a rangsorban legelőrébb álló hitelező elvi hozzájárulásáról, és felhívja a további hitelezőket, hogy a felhívás kézhezvételétől számított 15 napon belül jelentsék be a (2) bekezdés b) pontjában meghatározott adatokat. A hitelezőknek a jelzálogjoggal biztosított követelésük összegét,valamint a teljesített tőketörlesztést azzal a nappal, mint fordulónappal kell megjelölniük, amely napon a hiteladós szándéknyilatkozatát a pénzügyi intézménynél benyújtotta. Deviza és devizaalapú hitel esetében az e napon érvényes MNB-árfolyamon kell a forintösszeget meghatározni.
+
+(5) Ha ugyanazon hitelező javára a szándéknyilatkozattal érintett lakóingatlan vonatkozásában több jelzálogjogot is bejegyeztek az ingatlan-nyilvántartásba, e hitelezőt a követelés bejelentése és a vételár 20. § szerinti felosztása során minden bejegyzett jelzálogjog tekintetében önálló hitelezőnek kell tekinteni, kivéve, ha a jelzálogjogok az ingatlan-nyilvántartásban közvetlenül egymást követő ranghelyen állnak, vagy a hitelezők összevont alapú felügyelet hatálya alá tartoznak.
+
+(6) Ha a jelzálogjogosultnak egymást követően van az ingatlanon bejegyzett jelzálogjoga, a követelést egy összegben jelentheti be, és a vételárfelosztásnál is egy követelésként kell figyelembe venni, a legelőrébb álló jelzálogjoghoz tartozó, az 1. mellékletben meghatározott kielégítési mértéknek megfelelően.

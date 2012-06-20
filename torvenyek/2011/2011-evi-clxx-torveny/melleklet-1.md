@@ -20,9 +20,9 @@ A bejegyzett jelzálogjog ranghelye
 
 |
 
-A hitelező kielégítésének maximális mértéke a hitelező által megjelölt vagy a jelzálogjog bejegyzésének részeként
+A hitelező kielégítésének maximális mértéke
 
-az ingatlan-nyilvántartásba bejegyzett követelés százalékában
+a hitelező által megjelölt követelés százalékában
 
 |
 
