@@ -1,5 +1,5 @@
-Tbj. 56/F. § (1) A társadalombiztosítási nyugdíjrendszerbe visszalépett pénztártagra vonatkozóan 1998. január 1-je és 2006. december 31-e közötti időszakra – a (2) bekezdés szerinti kivétellel – a foglalkoztató által a magánnyugdíjpénztárhoz benyújtott pótbevallásokat, helyesbítő bevallásokat a magánnyugdíjpénztár köteles feldolgozni és a feldolgozott adatokat az állami adóhatóság részére továbbítani a pótbevallás és a helyesbítő bevallás benyújtását követő hónap utolsó napjáig. A fizetési kötelezettséget az állami adóhatóság felé kell teljesíteni.
+Tbj. 56/F. § (1)
 
-(2) Amennyiben a magánnyugdíjpénztár a foglalkoztató által elkészített pótbevallás, helyesbítő bevallás benyújtásának idejére már megszűnt, a foglalkoztató a pótbevallást, helyesbítő bevallást az eredeti esedékességig benyújtott alapbevallással együtt az állami adóhatósághoz nyújtja be, amelyeket az állami adóhatóság köteles feldolgozni és a feldolgozott adatokat a Pénztárak Központi Nyilvántartása részére továbbítani a pótbevallás és a helyesbítő bevallás benyújtását követő hónap utolsó napjáig. A fizetési kötelezettséget az állami adóhatóság felé kell teljesíteni.
+(2)
 
 (3) A társadalombiztosítási nyugdíjrendszerbe visszalépett pénztártagra vonatkozóan 2007. január 1-jét követő időszakra a foglalkoztató által benyújtott pótbevallásokat, helyesbítő bevallásokat az állami adóhatóság feldolgozza és a feldolgozott adatokat a Pénztárak Központi Nyilvántartása részére továbbítja. A fizetési kötelezettséget az állami adóhatóság felé kell teljesíteni.
