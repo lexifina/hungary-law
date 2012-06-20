@@ -2,4 +2,6 @@
 
 (2) A kártalanítás mértékének megállapítása során az ügyfélnek az Alap tagjánál fennálló valamennyi befagyott követelését össze kell számítani. Ha az Alap tagjának az ügyféllel szemben lejárt követelése van, azt a kártalanítás megállapítása során az ügyfél követelésébe be kell számítani.
 
+(2a) A (2) bekezdésben foglaltak szerint kell eljárni akkor is, ha a hitelintézet engedélyét a Felügyelet a 30. § (1) bekezdés b) vagy c) pontja alapján vonta vissza.
+
 (3) Fedezetül szolgáló betét esetén az Alap akkor teljesít kifizetést, ha a kártalanítási összeg felvételére való jogosultság a felek megegyezése vagy bíróság, illetve hatóság jogerős határozata alapján kétséget kizáróan megállapítható.
