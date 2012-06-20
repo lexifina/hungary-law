@@ -2,7 +2,7 @@
 
 16. § (1) Mentes az öröklési illeték alól:
 
-a) a hazai tudományos, művészeti, oktatási, közművelődési, közjóléti célra juttatott örökség (hagyomány);
+a) a tudományos, művészeti, oktatási, közművelődési, közjóléti célra juttatott örökség (hagyomány);
 
 b) a takarékbetét öröklése,
 

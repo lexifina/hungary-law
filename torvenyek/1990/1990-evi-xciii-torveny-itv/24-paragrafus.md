@@ -1,6 +1,6 @@
 ## Gépjármű és pótkocsi visszterhes vagyonátruházási illetékének mértéke
 
-24. § (1) Gépjármű tulajdonjogának megszerzése esetén az illeték mértékét a jármű hajtómotorjának hatósági nyilvántartásban feltüntetett – kilowattban kifejezett – teljesítménye, és a jármű gyártástól számított kora alapján kell meghatározni az alábbiak szerint:
+24. § (1) Gépjármű tulajdonjogának megszerzése esetén az illeték mértékét a jármű hajtómotorjának hatósági nyilvántartásban feltüntetett – kilowattban kifejezett – teljesítménye, és a jármű gyártási évétől számított kora alapján kell meghatározni az alábbiak szerint:
 
 |
 
@@ -8,7 +8,7 @@ Jármű hajtómotorjának teljesítménye (kW)
 
 |
 
-Jármű gyártástól számított kora
+Jármű gyártási évétől számított kora
 
 |
 

@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2012-01-01 | 2011. évi CLVI. törvény | 1990-93-00-00.114 |
 | 2012-03-01 | 2011. évi CXCVII. törvény | 1990-93-00-00.115 |
 | 2012-04-27 | 2012. évi XXXVII. törvény | 1990-93-00-00.116 |
+| 2012-06-20 | 2012. évi LXIX. törvény | 1990-93-00-00.117 |

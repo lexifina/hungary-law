@@ -1,6 +1,6 @@
 17. § (1) Mentes az ajándékozási illeték alól:
 
-a) a hazai tudományos, művészeti, oktatási, közművelődési, közjóléti célra juttatott ajándék megszerzése és az ilyen célú közérdekű kötelezettségvállalás (alapítvány) alapján történő vagyonszerzés, továbbá jótékony célú közadakozásból származó vagyoni érték megszerzése;
+a) a tudományos, művészeti, oktatási, közművelődési, közjóléti célra juttatott ajándék megszerzése és az ilyen célú közérdekű kötelezettségvállalás (alapítvány) alapján történő vagyonszerzés, továbbá a jótékony célú közadakozásból származó vagyoni érték megszerzése;
 
 b) a lakóház építésére alkalmas telektulajdonnak (tulajdoni hányadnak), valamint ilyen ingatlanon alapított vagyoni értékű jognak a megszerzése, ha a megajándékozott az ingatlanon a szerződés illetékkiszabásra történő bemutatásától számított 4 éven belül lakóházat épít, és a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. A megajándékozott lakóházépítési szándékáról legkésőbb az illetékfizetési meghagyás jogerőre emelkedéséig nyilatkozhat az állami adóhatóságnál;
 
