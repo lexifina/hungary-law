@@ -24,6 +24,6 @@ k) a Tanács 2007/74/EK irányelve (2007. december 20.) a harmadik országokból
 
 l) a Tanács 2010/24/EU irányelve (2010. március 16.) az adókból, vámokból, illetékekből és egyéb intézkedésekből eredő követelések behajtására irányuló kölcsönös segítségnyújtásról,
 
-m) a Tanács 2011/64/EU irányelve (2011. június 21.) a dohánygyártmányra alkalmazott jövedéki adó szerkezetéről és adókulcsáról,
+m) a Tanács 2011/64/EU irányelve (2011. június 21.) a dohánygyártmányra alkalmazott jövedéki adó szerkezetéről és adókulcsáról.
 
-n) a Bizottság 2011/545/EU számú végrehajtási határozata (2011. szeptember 16.) a 2008/118/EK irányelv ellenőrzésre és szállításra vonatkozó rendelkezéseinek a 3811 KN-kód alá tartozó termékek tekintetében való, a 2003/96/EK tanácsi irányelv 20. cikkének (2) bekezdésével összhangban történő alkalmazásáról.
+n)
