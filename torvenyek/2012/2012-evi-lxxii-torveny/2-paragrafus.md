@@ -1,0 +1,1 @@
+2. § A katasztrófavédelmi hozzájárulásra (a továbbiakban: hozzájárulás) kötelezettnek a 2012. évben nem kell a hozzájárulás összegéről nyilatkoznia és a hozzájárulás előlegét, valamint a hozzájárulást megfizetnie.
