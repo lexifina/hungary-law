@@ -4,7 +4,7 @@
 
 (3) A (2) bekezdés szerinti kérelem elbírálására a 24/C. § (5)–(8) bekezdéseiben foglalt rendelkezéseket kell megfelelően alkalmazni azzal, hogy amennyiben az állami adóhatóság az adózó kérelmének helyt ad, úgy olyan igazolást állít ki részére, amelyen az akadály megjelölésén túl a kimentés tényét is feltünteti.
 
-(4) Az (1) és a (3) bekezdés szerint kiállított igazolás hatósági bizonyítványnak minősül. Az állami adóhatóság az (1) és a (3) bekezdésben foglalt igazolás kiállítását határozattal tagadja meg, ha a kiállítás feltételei nem állnak fenn. Az állami adóhatóság az igazolás kiállítását abban az esetben is megtagadja, ha megállapítja, hogy a kérelmező olyan más adózó vezető tisztségviselője, vagy tagja, amellyel szemben az igazolás benyújtásakor adóregisztrációs eljárás van folyamatban.
+(4) Az (1) és a (3) bekezdés szerint kiállított igazolás hatósági bizonyítványnak minősül. Az állami adóhatóság az (1) és a (3) bekezdésben foglalt igazolás kiállítását határozattal tagadja meg, ha a kiállítás feltételei nem állnak fenn. Az állami adóhatóság az igazolás kiállítását abban az esetben is megtagadja, ha megállapítja, hogy a kérelmező olyan más adózó vezető tisztségviselője, vagy tagja, amellyel szemben a kérelem benyújtásakor adóregisztrációs eljárás van folyamatban.
 
 (5) Az állami adóhatóság az adózó adószámának megállapítását a 24/C. § (2) bekezdésben meghatározott okok alapján nem tagadhatja meg, illetve az adózóval szemben nem járhat el a 24/D. § (2) bekezdése szerint, ha megállapítja, hogy az adózó valamennyi vezető tisztségviselője, és tagja rendelkezik az (1) bekezdés szerint kiállított 15 napnál nem régebbi igazolással, kivéve, ha megállapítja, hogy az akadály valamely igazolás kiállítását követően állt be.
 

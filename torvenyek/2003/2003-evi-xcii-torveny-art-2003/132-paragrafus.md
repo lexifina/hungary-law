@@ -52,10 +52,4 @@ A kérelem elutasítása esetén az adópolitikáért felelős miniszter a befiz
 
 (10) A feltételes adómegállapítás iránti kérelemmel érintett jogügylettel összefüggésben ellenőrzés nem rendelhető el a kérelem benyújtásától a feltételes adómegállapítási eljárás során hozott határozat jogerőre emelkedésétől számított 15 nap elteltéig, ha a kérelemben feltüntetett szerződést vagy egyéb jogügyletet az adózó (kérelmező) a kérelem adópolitikáért felelős miniszterhez történő benyújtását követően már megvalósította vagy a kérelemmel érintett jogügylet folyamatos teljesítésű jogügyletnek minősül.
 
-(11) Az adópolitikáért felelős miniszter
-
-a) a feltételes adómegállapítás iránti kérelem előzetes eljárásjogi szempontú vizsgálata során a (7) bekezdés f) pontjában foglalt adatokkal összefüggésben megkeresi, illetve
-
-b) a feltételes adómegállapítás során hozott határozat kiadmányozását megelőzően, a kérelem tárgyát képező jogügylet vonatkozásában megkeresheti
-
-az állami adóhatóságot. Az állami adóhatóság az a) pontban foglalt megkeresést 5 napon belül teljesíti. A megkeresés időtartama a feltételes adómegállapítás iránti eljárás határidejébe nem számít bele.
+(11) Ha a kérelem elbírálásához az állami adóhatóság megkeresése szükséges, az állami adóhatóság a megkeresést 15 napon belül teljesíti. A megkeresés időtartama a feltételes adómegállapítás iránti eljárás határidejébe nem számít bele.

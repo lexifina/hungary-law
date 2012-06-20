@@ -24,14 +24,18 @@
 
 (13) E törvénynek a közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény (a továbbiakban: Módtv.) 59. § (3) bekezdés a) pontjával hatályon kívül helyezett 33/A. §-a alapján megtett bejelentés érvényét veszti, a befizetett díjat az állami adóhatóság hivatalból – a Módtv. hatályba lépésétől számított 30 napon belül – visszatéríti, az adózó által benyújtott jegyzőkönyvet az állami adóhatóság visszaküldi az adózónak.
 
-(14) A munkáltató az 1996. évi CXII. törvény 200/B. § (1) bekezdésében meghatározott végtörlesztés céljából munkavállalójának nyújtott kölcsön, illetve vissza nem térítendő támogatás esetén 2013. március 31-ig adatot szolgáltat az állami adóhatósághoz az alábbi tartalommal:
+(14) A munkáltató az 1996. évi CXII. törvény 200/B. § (1) bekezdésében meghatározott végtörlesztés céljából munkavállalójának nyújtott kölcsön vagy vissza nem térítendő támogatás esetén 2013. március 31-ig adatot szolgáltat az állami adóhatósághoz az alábbi tartalommal:
 
-a) munkavállaló neve, adóazonosító jele
+a) munkavállaló neve, adóazonosító jele,
 
-b) jogcím (kölcsön/támogatás)
+b) jogcím (kölcsön/támogatás),
 
 c) kölcsön, vissza nem térítendő támogatás összege.
 
-(14) E törvénynek a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvénnyel megállapított 2. számú melléklet I./Határidők/6.4. pontját 2012. január 1-től és első alkalommal a 2012. január–március tárgynegyedévre kell alkalmazni.
+(14)
 
-(14) E törvénynek a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvénnyel módosított 37. § (4) bekezdését és megállapított 37. § (4a) bekezdését 2012. február 1. napján vagy azt követően benyújtott adó-visszaigénylés esetében kell alkalmazni.
+(14)
+
+(15) E törvénynek a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvénnyel megállapított 2. számú melléklet I./Határidők/6.4. pontját 2012. január 1-től és első alkalommal a 2012. január–március tárgynegyedévre kell alkalmazni.
+
+(16) E törvénynek a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvénnyel módosított 37. § (4) bekezdését és megállapított 37. § (4a) bekezdését 2012. február 1. napján vagy azt követően benyújtott adó-visszaigénylés esetében kell alkalmazni.

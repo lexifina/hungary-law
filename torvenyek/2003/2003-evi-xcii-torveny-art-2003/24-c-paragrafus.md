@@ -8,11 +8,13 @@ a) olyan, a 17. § (1) bekezdés b) pontja szerinti más adózó jelenlegi, vagy
 
 aa) az adószám megállapítása iránti kérelem benyújtásának napján az állami adó- és vámhatóságnál nyilvántartott, túlfizetéssel csökkentett, 180 napon keresztül folyamatosan fennálló, 15 millió forintot, a legnagyobb adóteljesítménnyel rendelkező adózók esetében 30 millió forintot meghaladó adótartozással rendelkezik feltéve, hogy a más adózóban fennálló vezető tisztségviselői, vagy tagi jogviszony az adótartozás folyamatos fennállásának 180. napját megelőző 180. napon, vagy azt követően bármelyik napon fennállt, vagy
 
-ab) az adószám megállapítása iránti kérelem benyújtásának napját megelőző 5 éven belül az állami adó- és vámhatóságnál nyilvántartott, túlfizetéssel csökkentett, 15 millió forintot, a legnagyobb adóteljesítménnyel rendelkező adózók esetében 30 millió forintot meghaladó adótartozással jogutód nélkül szűnt meg, feltéve, hogy a más adózóban fennálló vezető tisztségviselői, vagy tagi jogviszony a felszámolás kezdő napját megelőző 180. napon, illetve azt követően bármelyik nap fennállt, vagy
+ab) az adószám megállapítása iránti kérelem benyújtásának napját megelőző 5 éven belül az állami adó- és vámhatóságnál nyilvántartott, túlfizetéssel csökkentett, 15 millió forintot, a legnagyobb adóteljesítménnyel rendelkező adózók esetében 30 millió forintot meghaladó adótartozással jogutód nélkül szűnt meg, feltéve, hogy a más adózóban fennálló vezető tisztségviselői, vagy tagi jogviszony a felszámolás vagy a kényszertörlési eljárás kezdő napját megelőző 180. napon, illetve azt követően bármelyik nap fennállt, vagy
 
 ac) adószámát az állami adóhatóság az adószám megállapítására irányuló kérelem benyújtásának napját megelőző 5 éven belül az adószám 24/A. § szerinti felfüggesztését, követően, vagy a 24/B. § szerint, illetve a 24/D. § (2), illetve a 24/F. § (6) bekezdésében felsorolt okból, az ott meghatározott eljárásban jogerősen törölte feltéve, hogy a más adózóban fennálló vezető tisztségviselői, vagy tagi jogviszonya az adószám törlését kimondó jogerős határozat meghozatalának napján, vagy azt követően bármelyik nap fennállt.
 
 b) az adószám megállapítása iránti kérelem benyújtásának napján az állami adó- és vámhatóságnál nyilvántartott, túlfizetéssel csökkentett, 180 napon keresztül folyamatosan fennálló, 15 millió forintot, a legnagyobb adóteljesítménnyel rendelkező adózók esetében 30 millió forintot meghaladó adótartozással rendelkezik.
+
+(2a) A (2) bekezdés a) pont aa) alpontja és b) pontja alkalmazásában nem tekinthető fennálló adótartozásnak az adótartozás azon része, amely jogerős adóhatósági határozaton alapul feltéve, hogy a határozat bírósági felülvizsgálatának megindítására nyitva álló határidő még nem telt el, vagy az adózó által kezdeményezett, a határozat felülvizsgálatára irányuló bírósági eljárás jogerősen még nem zárult le. Ebben az esetben az adóhatósági határozaton alapuló adótartozás a bírósági felülvizsgálat megindítására nyitva álló határidő eredménytelen lejártát követő naptól, illetve a bírósági eljárás jogerős lezárását követő naptól tekinthető fennállónak.
 
 (3) A (2) bekezdés ac) pontja alkalmazásában nem tekinthető jogerősnek az adószám törlését kimondó határozata, ha a bírósági felülvizsgálat megindítására nyitva álló határidő még nem telt el, illetőleg az adózó által kezdeményezett, a határozat felülvizsgálatára irányuló bírósági eljárás jogerősen nem zárult le.
 
@@ -22,7 +24,7 @@ b) az adószám megállapítása iránti kérelem benyújtásának napján az á
 
 a) az adószám megállapításának megtagadására okot adó tartozást az azt felhalmozó adózó azért nem tudta kiegyenlíteni, mert az általa teljesített termékértékesítés vagy szolgáltatásnyújtás ellenértékét egy vagy több vevő, illetőleg megrendelő részben vagy egészben nem egyenlítette ki, és
 
-b) a vevőkkel, megrendelőkkel szemben fennálló – illetőleg a felszámolás kezdő időpontjában fennállt –, határidőre ki nem egyenlített követelések összege az adótartozás összegét eléri vagy meghaladja, illetőleg a felszámolás kezdő időpontjában elérte vagy meghaladta, és
+b) a vevőkkel, megrendelőkkel szemben fennálló – illetőleg a felszámolás vagy kényszertörlési eljárás kezdő időpontjában fennállt –, határidőre ki nem egyenlített követelések összege az adótartozás összegét eléri vagy meghaladja, illetőleg a felszámolás vagy kényszertörlési eljárás kezdő időpontjában elérte vagy meghaladta, és
 
 c) az adótartozást felhalmozó adózó a követelések érvényesítése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható.
 

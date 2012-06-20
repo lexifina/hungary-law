@@ -12,7 +12,7 @@ c) az adózó jogutódja,
 
 d) a 36. §-ban említett kezességet vállaló és az adótartozást átvállaló a jóváhagyott szerződésben foglalt adó tekintetében, valamint akinek a meg nem fizetett adóért való kezességét külön törvény írja elő,
 
-e) az adóbevétel csökkentésével kapcsolatos bűncselekmény elkövetője az azzal összefüggő adó tekintetében,
+e) az adóbevétel csökkentésével kapcsolatos, valamint költségvetési csalás elkövetésével vagyoni hátrányt okozó bűncselekmény elkövetője az azzal összefüggő adó tekintetében,
 
 f) a gazdasági társaság, a közös név alatt működő polgári jogi társaság adótartozásáért a rájuk vonatkozó szabályok szerint a helytállni köteles tag, vezető tisztségviselő, illetve szervezet, a jogi személy felelősségvállalásával működő vállalkozó esetében a felelősségvállaló, továbbá az a személy, amely (aki) a vállalkozás kötelezettségeiért törvény alapján felel,
 

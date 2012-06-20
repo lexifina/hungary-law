@@ -46,7 +46,7 @@ d) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési
 
 e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervet, az Európai Csalásellenes Hivatalt (OLAF), ha a tájékoztatás az ellenőrzéshez szükséges;
 
-f) az adópolitikáért felelős minisztert, ha a tájékoztatás külön törvényben, illetve a 11. §-ban meghatározott feladata ellátásához szükséges;
+f) az adópolitikáért felelős minisztert, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
 
 g) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az államháztartásról szóló törvény szerinti belső ellenőrzéshez szükséges;
 

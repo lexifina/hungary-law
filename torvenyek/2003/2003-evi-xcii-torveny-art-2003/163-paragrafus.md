@@ -1,6 +1,6 @@
 ## A végrehajtás költsége
 
-163. § (1) A végrehajtással kapcsolatban felmerült költség, így különösen az alkalmazott becsüs díjazása, a szállítási, tárolási, értékesítési és egyéb költség az adózót, illetve az adók módjára behajtandó köztartozás fizetésére kötelezettet terheli.
+163. § (1) Az adózó, illetve az adók módjára behajtandó köztartozás fizetésére kötelezett – külön jogszabályban meghatározottak szerint – köteles a végrehajtással kapcsolatban felmerült költség (készkiadás) és emellett – jogszabályban meghatározott esetek kivételével – végrehajtási költségátalány megfizetésére.
 
 (2) Az adóhatóság a költségekről végzést hoz, amelynek összege ingó- és ingatlan-végrehajtás esetén nem lehet kevesebb 5000 forintnál.
 

@@ -40,7 +40,7 @@ a) a bevallási, adatszolgáltatási kötelezettség teljesítésének,
 
 b) a bejelentési, változásbejelentési kötelezettség teljesítésének,
 
-c) az adóhatósági igazolás, a fizetési könnyítés, illetőleg a köztartozásmentes adózói adatbázisba történő felvétel iránti kérelmek intézése rendjének,
+c) az adóhatósági igazolás, a fizetési könnyítés, adómérséklés, illetőleg a köztartozásmentes adózói adatbázisba történő felvétel iránti kérelmek intézése rendjének,
 
 d) az adófizetés teljesítésének,
 
@@ -106,7 +106,7 @@ i) az államilag elismert idegennyelv-tudást igazoló nyelvvizsga (nyelvvizsgá
 
 (25) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendeletben állapítsa meg a belföldön letelepedett adóalanynak az Európai Közösség más tagállamában érvényesíthető hozzáadottértékadó-visszatéríttetési kérelme, kiigazítási nyilatkozata adattartalmára, formátumára, kitöltésének módjára vonatkozó részletes szabályokat.
 
-(26) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendeletben állapítsa meg az adó-végrehajtási eljárás során felmerült végrehajtási költségek megállapításának és megfizetésének részletes szabályait.
+(26) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendeletben állapítsa meg az adó-végrehajtási eljárás során felmerült végrehajtási költségek és a végrehajtási költségátalány megállapításának és megfizetésének részletes szabályait.
 
 (28) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben szabályozza az adózással összefüggő elektronikus adatok, információk, nyilvántartások
 
@@ -116,4 +116,4 @@ b) másolásának,
 
 c) elektronikus úton történő ellenőrzésének
 
-módjára és formátumára vonatkozó részletes eljárási és technikai szabályokat.
+módjára és az adóhatóság rendelkezésére bocsátandó fájlok adatszerkezetére vonatkozó részletes eljárási és technikai szabályokat.

@@ -70,7 +70,7 @@ szükséges,
 
 b) elektronikus úton hivatalból átadja a (4) bekezdésben meghatározott bevallásra kötelezettek és a mezőgazdasági őstermelő által
 
-ba) a 31. § (2) bekezdése 1–7., 9–15., 24. és 26–28. pontjai szerinti részletezettséggel bevallott, a nyugdíjjogosultsághoz, nyugdíj-megállapításhoz szükséges, magánszemélyenként összesített (konszolidált) éves adatokat – ide nem értve a Magyar Honvédség, Nemzeti Adó- és Vámhivatal, a rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjaira vonatkozó adatokat – a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére a tárgyévet követő év augusztus 31. napjáig. Amennyiben az önellenőrzés vagy az adóhatósági ellenőrzés a már összesített (konszolidált) éves adatokat kiegészíti, módosítja vagy megváltoztatja, az adóhatósági eljárás lezárását követő hónap utolsó napjáig az e pontban megjelölt összesített (konszolidált) éves adatokat kijavítva kell átadni a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére.
+ba) a 31. § (2) bekezdése 1–7., 9–14., 24. és 26–28. pontjai szerinti részletezettséggel bevallott, a nyugdíjjogosultsághoz, nyugdíj-megállapításhoz szükséges, magánszemélyenként összesített (konszolidált) éves adatokat – ide nem értve a Magyar Honvédség, Nemzeti Adó- és Vámhivatal, a rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjaira vonatkozó adatokat – a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére a tárgyévet követő év augusztus 31. napjáig. Amennyiben az önellenőrzés vagy az adóhatósági ellenőrzés a már összesített (konszolidált) éves adatokat kiegészíti, módosítja vagy megváltoztatja, az adóhatósági eljárás lezárását követő hónap utolsó napjáig az e pontban megjelölt összesített (konszolidált) éves adatokat kijavítva kell átadni a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére.
 
 bb) a 31. § (2) bekezdése 1–6., 8–10., 12–14., 16., 23–24. és 26–27. pontjaiban meghatározott adatokat az egészségbiztosítási ellátások utólagos ellenőrzése céljára az egészségbiztosítási szerv, rehabilitációs hatóság részére a bevallásra előírt határidőt követő hónap utolsó napjáig,
 
@@ -138,7 +138,13 @@ b) az erdészeti hatóság az adózó használatában lévő erdőterületen fol
 
 (17) Az adóhatóság a telefonos ügyféltájékoztató és ügyintéző rendszerben folytatott beszélgetést – a közösségi adószám érvényességéről történő meggyőződés ügytípus kivételével – elektronikusan adathordozóra rögzíti, és annak anyagát az adó megállapításához való jog, illetve ha az hosszabb, akkor az adó végrehajtásához való jog elévüléséig, illetőleg a folyamatban levő bírósági eljárás befejezéséig megőrzi. Az adózó vagy képviselője kérelme alapján az általa folytatott, e bekezdés szerint megőrzött telefonbeszélgetéseit meghallgathatja.
 
-(18)
+(18) Az állami adóhatóság kérelemre adatot szolgáltat az európai uniós fejlesztési programok irányításáért felelős szervezet részére
+
+a) az adózó által a társasági adóbevallásban megjelölt mikro-, kis-, vagy középvállalkozás meghatározására vonatkozó kódról;
+
+b) az adózó által az egyszerűsített vállalkozói adóbevallásban szereplő statisztikai állományi létszámra vonatkozó adatról
+
+az Európai Bizottság felé történő éves beszámolási kötelezettség teljesítése érdekében.
 
 (19)
 

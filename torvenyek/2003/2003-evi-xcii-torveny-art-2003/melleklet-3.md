@@ -90,7 +90,7 @@ a) az építési helyszín címe, helyrajzi száma,
 
 b) a kivitelező (vállalkozó) neve (elnevezése), címe (székhelye), adóazonosító száma, kivitelezési jogosultságának (vállalkozói engedély, cégbírósági bejegyzés) külön jogszabály szerinti igazolása.
 
-7. Az okmányiroda, illetve a fővárosi és megyei kormányhivatal – minden hónap 15. napjáig az előző hónap utolsó napja szerinti állapotnak megfelelően, elektronikus úton – megküldi az állami adóhatóság részére azon személyek természetes személyazonosító adatait, adóazonosító számát, állampolgárságát, elektronikus levélcímét, ügyfélkapu azonosítóját, akik ügyfélkaput létesítettek vagy szüntettek meg.
+7. A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala – minden hónap 15. napjáig az előző hónap utolsó napja szerinti állapotnak megfelelően, elektronikus úton, kapcsolati kód alkalmazásával – megküldi az állami adóhatóság részére azon személyek természetes személyazonosító adatait, állampolgárságát, elektronikus levélcímét, ügyfélkapu azonosítóját, akik ügyfélkaput létesítettek vagy szüntettek meg.
 
 8. A kötelező gépjármű-felelősségbiztosítási kötvényeket nyilvántartó szerv, a közúti közlekedési nyilvántartási szerv a kötvénynyilvántartásból, illetve a közúti járműnyilvántartásból a tárgyévet követő év január 31-ig a kötelező gépjárműfelelősség-biztosítási jogviszony díj nemfizetési okból való megszűnéséről, továbbá ha a biztosító értesítése alapján a gépjármű forgalomból való kivonása iránti eljárás indul, az állami adóhatósághoz – elektronikus úton – adatot szolgáltat a következő tartalommal:
 

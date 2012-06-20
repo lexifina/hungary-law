@@ -12,13 +12,13 @@
 
 a) nevét (elnevezését), rövidített cégnevét, a magánszemély adóazonosító jelét, külföldi vállalkozás esetén az illetősége szerinti állam hatósága által megállapított adóazonosító számát;
 
-b) címét, székhelyét (székhelyszolgáltatás esetén az ügyvéd, ügyvédi iroda nevét, elnevezését, adószámát, a székhely biztosítására kötött megbízási szerződés időtartamát és a székhelyszolgáltatás kezdő időpontját, valamint azoknak az iratoknak a körét, amelyekre e megbízási szerződés kiterjed), a cég székhelyétől különböző központi ügyintézés helyét, telephelyét vagy telephelyeit, illetve a cég honlapján való közzététel esetén a cég elektronikus elérhetőségét (honlapját), több államban illetőséggel rendelkező gazdasági társaság esetén a tényleges üzletvezetés helyét;;
+b) címét, székhelyét, a cég székhelyétől különböző központi ügyintézés helyét, telephelyét vagy telephelyeit, illetve a cég honlapján való közzététel esetén a cég elektronikus elérhetőségét (honlapját), több államban illetőséggel rendelkező gazdasági társaság esetén a tényleges üzletvezetés helyét;;
 
 c) létesítő okiratának (alapító okirat, társasági-társulati szerződés, alapszabály) keltét, számát, a rá vonatkozó jogszabály szerinti képviselőjének, könyvvizsgálójának nevét (elnevezését), lakóhelyét (székhelyét), e jogviszony keletkezésének – és határozott idejű jogviszony esetén – megszűnésének időpontját, a képviselő adóazonosító számát, könyvvizsgáló szervezet esetén annak a személynek a nevét és lakóhelyét is, aki a könyvvizsgálatért személyében felelős;
 
 d) gazdálkodási formáját, tevékenységének felsorolását, cégek esetén a főtevékenységet és a ténylegesen végzett tevékenységi köröket, egyéni vállalkozók esetén a fő- és egyéb tevékenységi köröket az Európai Parlament és a Tanács gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK rendelet (a továbbiakban: 1893/2006/EK rendelet) szerint, az egyéni vállalkozó tevékenységének szünetelése esetén a szünetelés kezdő- és zárónapját, továbbá a statisztikai számjelet;
 
-e) a jogi személyiség nélküli gazdasági társaság, a korlátolt felelősségű társaság, az egyesülés, valamint a közös vállalat tulajdonosának (tulajdonosainak) cégnevét (nevét), székhelyét (telephelyeit, lakóhelyét), adóazonosító számát, a zártkörűen működő részvénytársaság 50 százalékot meghaladó, vagy minősített többségű befolyással rendelkező részvényesének cégnevét (nevét), székhelyét (telephelyeit, lakóhelyét), adóazonosító számát, továbbá a korlátolt felelősségű társaság és a zártkörűen működő részvénytársaság esetében azt a tényt, ha a tag (részvényes) szavazati jogának mértéke az 50 százalékot meghaladja, vagy a tag (részvényes) minősített többségű befolyással rendelkezik,
+e) a jogi személyiség nélküli gazdasági társaság, a korlátolt felelősségű társaság, az egyesülés, valamint a közös vállalat tulajdonosának (tulajdonosainak) cégnevét (nevét), székhelyét (telephelyeit, lakóhelyét), adóazonosító számát, a zártkörűen működő részvénytársaság 50 százalékot meghaladó mértékű szavazati joggal, vagy minősített többségű befolyással rendelkező részvényesének cégnevét (nevét), székhelyét (telephelyeit, lakóhelyét), adóazonosító számát, továbbá a korlátolt felelősségű társaság és a zártkörűen működő részvénytársaság esetében azt a tényt, ha a tag (részvényes) szavazati jogának mértéke az 50 százalékot meghaladja, vagy a tag (részvényes) minősített többségű befolyással rendelkezik,
 
 f) a magánszemély adózó levelezési címét – ha az nem azonos székhelyével, telephelyével –, továbbá a Magyarországon lakóhellyel nem rendelkező külföldi személy esetében magyarországi kézbesítési meghatalmazottjának nevét és lakóhelyét (székhelyét);
 
@@ -72,7 +72,7 @@ a) a munkáltató (iskolaszövetkezet) adószámát,
 
 b) a munkavállaló iskolaszövetkezeti tag adóazonosító jelét és társadalombiztosítási azonosító jelét,
 
-c) a nappali tagozatos tanuló, hallgató iskolaszövetkezeti tag munkavállaló esetében a diákigazolvány azonosító számát.
+c)
 
 A munkáltató iskolaszövetkezet köteles az állami adóhatósághoz bejelenteni a jogviszony megszűnését követő 8 napon belül a munkavállaló iskolaszövetkezeti tag jogviszonya megszűnésének napját. Jogutódlás esetén az e § (4) bekezdés c) pontjában foglaltakat értelemszerűen alkalmazni kell.
 
