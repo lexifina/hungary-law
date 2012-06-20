@@ -7,3 +7,5 @@
 (4) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 33. § (2) bekezdését és 33. § (6) bekezdés a) pont ab) alpontját 2012. január 1-jétől és első alkalommal 2012. január-március tárgynegyedévre kell alkalmazni.
 
 (5) E törvénynek a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 33. § (2) bekezdésének rendelkezéseit 2012. január 1-től és első alkalommal 2012. január–március tárgynegyedévre kell alkalmazni.
+
+(6) E törvénynek az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel megállapított 13/A. § (3), (3a), (3b) és (3c) bekezdéseit az e rendelkezés hatálybalépését követően indult központi szerverüzemeltetés engedélyezése iránti eljárásokban alkalmazni kell.
