@@ -2,7 +2,7 @@
 
 7. § E törvény alkalmazásában
 
-1. közvetlenül érintett hitelállomány: azon kölcsönügyletek összessége, amelyek tekintetében a hitelintézet a kölcsönügylet adósa részére kedvezményes ügyleti kamat- és díjmértéket érvényesít és ezen ügyletek tekintetében az állami kamattámogatást a hitelintézet közvetlen módon a Magyar Állammal elszámolja;
+1. közvetlenül érintett hitelállomány: azon kölcsönügyletek összessége, amelyek tekintetében a hitelintézet a kölcsönügylet adósa részére kedvezményes ügyleti kamat- és díjmértéket érvényesít és ezen ügyletek tekintetében az állami kamattámogatást a hitelintézet közvetlen módon az állammal elszámolja;
 
 2. közvetetten érintett hitelállomány: azon kölcsönügyletek összessége, amelyek tekintetében a hitelintézet a finanszírozó forrást jelzálog-hitelintézettől önálló jelzálogjog eladása és egyidejű visszavásárlása útján biztosítja, és erre tekintettel a kölcsönügylet adósa részére kedvezményes ügyleti kamat- és díjmértéket érvényesít;
 
@@ -90,4 +90,10 @@ d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szol
 
 21. belföldi bankközi hitel: a más belföldi hitelintézetnek nyújtott hitel, alárendelt kölcsöntőke és kiegészítő alárendelt kölcsöntőke, a más belföldi hitelintézetnél elhelyezett betét, valamint a más belföldi hitelintézettel szemben valódi penziós, óvadéki repó és sajátos szállításos repó ügyletből fennálló követelés együttes összege;
 
-22. árbevétel: a Tao. tv. 4. § 4. pontjában meghatározott fogalom.
+22. árbevétel: a Tao. tv. 4. § 4. pontjában meghatározott fogalom;
+
+23. Kkv-hitelállomány: a hitel-, pénzügyi lízing-, vagy kölcsönszerződés alapján, a szerződés megkötésének időpontjában a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvényben meghatározott mikro-, kis- vagy középvállalkozással (ide nem értve a pénzügyi intézményt) szemben fennálló vagy abból eredő követelések együttes, forintban kifejezett könyv szerinti értéke, növelve az e követelésekre az adott napra nyilvántartott értékvesztések és céltartalékok állománya együttes, forintban kifejezett könyv szerinti értékével, azzal, hogy ha e törvény az adóalap csökkentő összeg meghatározásakor két különböző napon fennálló hitelállomány, hitelrész-állomány megállapítását írja elő, akkor ezen állományok megállapításánál az azokba tartozó minden külföldi pénzértékre szóló követelés, értékvesztés és céltartalék e külföldi pénzértékben kifejezett nyilvántartás szerinti értékét azonos devizaárfolyamon (a korábbi, azaz a viszonyítási napra vonatkozó, a számvitelről szóló törvény rendelkezései szerint a pénzügyi intézmény által alkalmazott árfolyamon) kell forintra átszámítani,
+
+24. Uniós pályázat: az Európai Unió költségvetésének terhére folyósított támogatással érintett pályázat;
+
+25. Lakóingatlan: a lakás céljára létesített és az ingatlan-nyilvántartásban lakóépület, lakóház vagy lakás megnevezéssel nyilvántartott vagy az ingatlan-nyilvántartásban széljegyen lévő ilyenként feltüntetésre váró épület, amely építési engedéllyel épült, használatba vételi engedéllyel rendelkező lakóépület, lakóház vagy lakás, valamint az ingatlan-nyilvántartásban tanyahelyként, tanyaként feltüntetett lakás céljára szolgáló épület.
