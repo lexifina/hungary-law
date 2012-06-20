@@ -20,4 +20,4 @@ b) Magyarország területén létesített külföldi vámhivatalt pedig az álla
 
 (7) Amikor a felettes vámszerv, vagy az adópolitikáért felelős miniszter vámigazgatási eljárás során felügyeleti intézkedés keretében jár el, az adózás rendjéről szóló törvény felügyeleti intézkedésre vonatkozó rendelkezéseit kell alkalmazni.
 
-(8) Vámigazgatási eljárásban az ügyfél számára hátrányos döntés meghozatala előtt az ügyfelet megilleti a meghallgatáshoz való jog, a döntés alapjául szolgáló okok megismerésének és álláspontja kifejezésének lehetősége, kivéve ha jogszabály eltérően nem rendelkezik.
+(8)
