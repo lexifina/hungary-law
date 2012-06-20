@@ -1,0 +1,1 @@
+11. § A Cstv. 57. § (6) bekezdésében a „társadalombiztosítási alapok javára fennálló tartozásokat” szövegrész helyébe a „társadalombiztosítási alapok javára fennálló tartozásokat (ideértve a szociális hozzájárulási adót is)” szöveg lép.

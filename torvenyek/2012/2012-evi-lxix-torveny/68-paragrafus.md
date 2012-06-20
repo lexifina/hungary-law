@@ -1,0 +1,1 @@
+68. § A Szakhoz. tv. 9. § (1) bekezdés záró szövegrészében és 9. § (5) bekezdésében az „a tárgyévet követő év február 25. napjáig” szövegrész helyébe az „a tárgyévet követő év február 12. napjáig” szöveg lép.
