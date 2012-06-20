@@ -50,4 +50,4 @@ c) valamint ha a bevétel adóelőleg megállapítására nem kötelezett kifize
 
 a) kérheti, hogy az adott kifizetés adóelőlegének megállapítása során a jövedelem egészére vagy annak a nyilatkozatban megjelölt részére alkalmazza az adóalap-kiegészítést;
 
-b) köteles kérni az adóalap-kiegészítés alkalmazását akkor, ha a várható éves összevonás alá eső jövedelme – a (8) bekezdés szerinti munkáltatótól származó jövedelmet is beszámítva – a 2 millió 424 ezer forintot meghaladja, azzal, hogy a nyilatkozattételi kötelezettség elmulasztása esetén a magánszemély a 48. § (4) bekezdés b) pontjában meghatározott különbözeti bírság fizetésére köteles.
+b) a jövedelem egészére köteles kérni az adóalap-kiegészítés alkalmazását akkor, ha az adóévben megszerzett azon jövedelmeinek együttes összege, melyek adóelőlegének megállapítása során az adóalap-kiegészítést nem vették figyelembe, ideértve az adóelőleget megállapító munkáltatótól származó ilyen jövedelmet is, a 2 millió 424 ezer forintot meghaladja azzal, hogy a nyilatkozattételi kötelezettség elmulasztása esetén a magánszemély a 48. § (4) bekezdés b) pontjában meghatározott különbözeti bírság fizetésére köteles.

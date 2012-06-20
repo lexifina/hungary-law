@@ -1,0 +1,1 @@
+84/V. § E törvénynek az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel módosított 1. számú melléklete 4.5. pontját a 2012. január 1-jétől megszerzett jövedelmekre lehet alkalmazni.
