@@ -12,7 +12,7 @@ Az értékcsökkenési leírás szabályairól
 
 5. A számvitelről szóló törvény szerint megállapított terv szerinti értékcsökkenés (ideértve az egy összegben elszámolt értékcsökkenési leírást is) érvényesíthető
 
-a) immateriális javaknál és az ingatlanhoz kapcsolódó vagyoni értékű jogoknál, figyelemmel a 13. pont rendelkezésére,
+a) immateriális javaknál és az ingatlanhoz kapcsolódó vagyoni értékű jogoknál,
 
 b) a koncesszió keretében megvalósult tárgyi eszközöknél,
 

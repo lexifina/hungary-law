@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2012-01-01 | 2011. évi CLVI. törvény | 1996-81-00-00.65 |
 | 2012-03-01 | 2011. évi CXCVII. törvény | 1996-81-00-00.66 |
 | 2012-04-14 | 2012. évi XXXIII. törvény | 1996-81-00-00.67 |
+| 2012-06-20 | 2012. évi LXIX. törvény | 1996-81-00-00.68 |

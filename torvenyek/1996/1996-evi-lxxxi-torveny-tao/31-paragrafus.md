@@ -2,11 +2,11 @@
 
 a) a Tanács 90/434/EGK irányelve a különböző tagállamok társaságait érintő egyesülésekre, szétválásokra, eszközátruházásokra és részesedéscserékre alkalmazandó közös adózási rendszerről;
 
-b) a Tanács 90/435/EGK irányelve a különböző tagállamok anyavállalatai és leányvállalatai esetében alkalmazandó közös adózási rendszerről;
+b) a Tanács 2011/96/EU irányelve a különböző tagállamok anya- és leányvállalatai esetében alkalmazandó adóztatás közös rendszeréről;
 
 c) a Tanács 03/49/EK irányelve a tagállamok kapcsolt vállalkozásai közötti kamat, jogdíj fizetések adóztatásának egységes rendszeréről;
 
-d) a Tanács 2003/123/EK irányelve a különböző tagállamok anyavállalatai és leányvállalatai esetében alkalmazandó közös adózási rendszerről szóló a Tanács 90/435/EGK irányelve módosításáról;
+d)
 
 e) a Tanács 2005/19/EK irányelve a különböző tagállamok társaságainak egyesülésére, szétválására, eszközátruházására és részesedéscseréjére alkalmazandó adóztatás közös rendszeréről szóló 90/434/EGK irányelv módosításáról,
 

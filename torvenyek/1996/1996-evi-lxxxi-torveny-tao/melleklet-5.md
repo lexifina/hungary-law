@@ -27,3 +27,5 @@ A társasági adóalanynak nem minősülő szervezetek
 12. az a jogi személy, jogi személyiség nélküli gazdasági társaság, amely az adóévben az egyszerűsített vállalkozói adó alanyának minősül.
 
 13. a költségvetési szervként működő felsőoktatási intézmény (ideértve az általa létrehozott intézményt is) és diákotthon,
+
+14. a Nemzeti Eszközkezelő Zrt.

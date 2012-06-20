@@ -8,7 +8,7 @@ a)
 
 b) a közhasznú szervezetként besorolt alapítványnak, közalapítványnak, egyesületnek, köztestületnek és felsőoktatási intézménynek vállalkozási tevékenysége adózás előtti nyereségének 20 százalékával;
 
-c) a 7. § (1) bekezdésének a), b), cs), d), g), gy), i), j), m), n), o), r), t), u) és v) pontja, továbbá a 7. § (3), (10) és (18) bekezdése alapján megállapított értékből a vállalkozási tevékenységhez közvetlenül hozzárendelhető összeggel, illetőleg közvetett kapcsolat esetén a vállalkozási tevékenység bevételével arányos összeggel;
+c) a 7. § (1) bekezdésének a), b), cs), d), g), gy), i), j),, n), o), r), t), u) és v) pontja, továbbá a 7. § (3), (10) és (18) bekezdése alapján megállapított értékből a vállalkozási tevékenységhez közvetlenül hozzárendelhető összeggel, illetőleg közvetett kapcsolat esetén a vállalkozási tevékenység bevételével arányos összeggel;
 
 d)
 
@@ -34,6 +34,6 @@ bb) a közhasznú szervezet a (7) bekezdésben előírt aránnyal számított r�
 
 (8) Az országos érdek-képviseleti szervezet az adóalapot az (1)–(7) bekezdések szerint, a közhasznú szervezetre vonatkozó rendelkezések megfelelő alkalmazásával állapítja meg.
 
-(9) Az egyház vállalkozási tevékenysége adózás előtti eredményét a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseinek figyelembevételével határozza meg,
+(9) Az egyház vállalkozási tevékenysége adózás előtti eredményét a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseinek figyelembevételével, az adóalapot az (1)–(7) bekezdéseknek a közhasznú szervezetekre vonatkozó rendelkezései megfelelő alkalmazásával állapítja meg,
 
 (10) Az európai területi együttműködési csoportosulás az adóalapot az (1)–(7) bekezdések megfelelő alkalmazásával állapítja meg.
