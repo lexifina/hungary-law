@@ -395,37 +395,3 @@
 ## Lakcím:
 
 ## Helyettes könyvvizsgáló neve:
-
-## Anyja születési neve: .
-
-## Lakcím:
-
-## A megbízatás kezdő időpontja:
-
-## A megbízatás lejárta:
-
-## 9. Cégjegyzés
-
-## 9.1. Az önálló cégjegyzésre jogosultak:
-
-## Név:
-
-## Név:
-
-## 9.2. Az együttes cégjegyzési joggal rendelkezők:
-
-## a) Név:
-
-## és
-
-## Név:
-
-## együttesen jogosultak cégjegyzésre.
-
-## b) Név:
-
-## és
-
-## Név:
-
-## együttesen jogosultak cégjegyzésre.
