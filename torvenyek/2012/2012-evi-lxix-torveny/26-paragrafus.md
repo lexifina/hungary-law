@@ -1,3 +1,1 @@
-26. § Az Art. 24/C. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A (2) bekezdés a) pont aa) alpontja és b) pontja alkalmazásában nem tekinthető fennálló adótartozásnak az adótartozás azon része, amely jogerős adóhatósági határozaton alapul feltéve, hogy a határozat bírósági felülvizsgálatának megindítására nyitva álló határidő még nem telt el, vagy az adózó által kezdeményezett, a határozat felülvizsgálatára irányuló bírósági eljárás jogerősen még nem zárult le. Ebben az esetben az adóhatósági határozaton alapuló adótartozás a bírósági felülvizsgálat megindítására nyitva álló határidő eredménytelen lejártát követő naptól, illetve a bírósági eljárás jogerős lezárását követő naptól tekinthető fennállónak.”
+26. §

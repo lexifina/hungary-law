@@ -1,1 +1,0 @@
-6. § Hatályát veszti az Itv. 26. § (1) bekezdésének a sporttal összefüggő egyes törvények módosításáról szóló 2010. évi LXXXIII. törvény 8. § (2) bekezdése által beiktatott r) pontja, és az Itv. 87. §-ának a látvány-csapatsport támogatásával kapcsolatos egyes törvények módosításáról szóló 2011. évi CLXXVIII. törvény 2. §-a által beiktatott (4) bekezdése.
