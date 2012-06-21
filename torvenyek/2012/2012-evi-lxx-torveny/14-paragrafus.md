@@ -1,3 +1,0 @@
-14. § A NET tv. 21. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a lakóingatlan értékesítése miatt a hiteladósnak, vagy – ha a lakóingatlan a zálogkötelezett tulajdonában van – a zálogkötelezettnek korábbi lakásépítési vagy lakásfelújítási kedvezményből eredően, illetve bármely más korábbi állami támogatásra tekintettel az állammal szemben fizetési kötelezettsége keletkezne vagy az államnak az ingatlanra e jogcímekre tekintettel jelzálogjog van bejegyezve, a Nemzeti Eszközkezelő a vételárat a lakóingatlanra bejegyzett jelzálogjoggal rendelkező egyéb hitelezők követelésének az e törvényben meghatározott mértékű kielégítését követően elsősorban az állammal szemben fennálló kötelezettség teljesítésére fordítja.”

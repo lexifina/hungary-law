@@ -1,3 +1,0 @@
-10. § A NET tv. 15. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a 8. § (1) bekezdés a)–h) pontjában meghatározott feltételek fennállnak, és a lakóingatlant bírósági vagy közigazgatási végrehajtás alá vonták, a 11. § (1) bekezdése szerinti pénzügyi intézmény 15 napon belül kezdeményezi a végrehajtónál a végrehajtás szünetelését. A pénzügyi intézmény nyilatkozata alapján a megvételre felajánlott lakóingatlanra bejegyzett valamennyi végrehajtási jog vonatkozásában a végrehajtás a bírósági végrehajtásról szóló 1994. évi LIII. törvény 52. § g) pontja alapján szünetel.”
