@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-43-00-00
 | 2011-07-01 | 2011. évi CXXVIII. törvény | 2010-43-00-00.11 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2010-43-00-00.12 |
 | 2012-03-01 | 2011. évi CCI. törvény | 2010-43-00-00.13 |
+| 2012-06-22 | 2012. évi LXXIII. törvény | 2010-43-00-00.14 |

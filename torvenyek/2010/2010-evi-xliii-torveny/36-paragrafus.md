@@ -4,7 +4,7 @@
 
 (2) A Miniszterelnökség tevékenységét a miniszterelnök irányítja.
 
-(3) A Miniszterelnökséget államtitkár vezeti.
+(3) A Miniszterelnökséget a Miniszterelnökséget vezető államtitkár vezeti.
 
 (4) A Miniszterelnökség szervezeti és működési szabályzatát a miniszterelnök adja ki.
 
