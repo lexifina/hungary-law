@@ -10,4 +10,6 @@ c) az átvett intézmények fenntartóira,
 
 d) a megyei önkormányzatokra, továbbá
 
-e) azon megyei jogú városok önkormányzataira, amelyek megyei önkormányzattól előadó-művészeti szervezetet vettek át.
+e)[^2] azon megyei jogú városok települési önkormányzataira, amelyek megyei önkormányzattól előadó-művészeti szervezetet vagy folyamatban lévő európai uniós fejlesztést vettek át.
+
+[^2]: Az 1. § e) pontja a 30/2012. (VI. 21.) BM rendelet 1. §-ával megállapított szöveg.

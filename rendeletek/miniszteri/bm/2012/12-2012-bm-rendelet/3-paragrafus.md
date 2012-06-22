@@ -6,8 +6,10 @@
 
 (3) A 2. § b) pont ba) alpontja szerinti tartozások felmérését a megyei önkormányzattól átvett intézmény a kincstár (1) bekezdés szerinti közreműködésével e rendelet hatálybalépését követő öt napon belül elvégzi, utalványozói jogkörében a kincstár ezt követően haladéktalanul teljesíti a kincstár által jogszerűnek tekintett lejárt és elismert tartozás, fizetési kötelezettséget.
 
-(4) A 2. § b) pont bb)–bd) alpontja szerinti lejárt és elismert tartozás, fizetési kötelezettség felmérésének határideje 2012. április 10. A 2012. április 10-éig felmért és a felmérésben rögzített lejárt és elismert tartozás, fizetési kötelezettség teljesítéséről a letéti számlán rendelkezésre álló összeg terhére – a 6. §-ban foglaltakra is figyelemmel – a kincstár utalványozói jogkörében haladéktalanul intézkedik.
+(4)[^7] A 2. § b) pont bb)–bd) alpontja szerinti lejárt és elismert tartozás, fizetési kötelezettség felmérésének határideje 2012. április 10. A 2. § b) pont bg) alpontja szerinti felmérés határideje 2012. július 10. A 2012. április 10-éig, illetve július 10-éig, felmért és a felmérésben rögzített lejárt és elismert tartozás, fizetési kötelezettség teljesítéséről a letéti számlán rendelkezésre álló összeg terhére – a 6. §-ban foglaltakra is figyelemmel – a kincstár utalványozói jogkörében haladéktalanul intézkedik.
 
 (5) A 2. § b) pont be) alpontja szerinti származó lejárt és elismert tartozás, fizetési kötelezettség teljesítését a kincstár jogszabályban meghatározott határidőn belül végzi.
 
 (6) A kincstár a felmérés adatairól elektronikus úton adatot szolgáltat az államháztartásért felelős miniszter, a helyi önkormányzatokért felelős miniszter, a közigazgatás-szervezésért felelős miniszter és az egészségügyért felelős miniszter számára.
+
+[^7]: A 3. § (4) bekezdése a 30/2012. (VI. 21.) BM rendelet 6. §-ával megállapított szöveg.
