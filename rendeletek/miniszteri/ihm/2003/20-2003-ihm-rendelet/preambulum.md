@@ -1,1 +1,0 @@
-Az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 182. §-a (4) bekezdésének b) pontjában, valamint az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 67. §-ának (2) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
