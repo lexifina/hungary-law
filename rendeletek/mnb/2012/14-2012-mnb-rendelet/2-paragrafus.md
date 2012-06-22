@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 20 gramm, átmérője 34 mm, széle recézett.
+
+(2) Az emlékérme előlapjának szélén, felső köriratban a „3000” értékjelzés és a „FORINT” felirat, alsó köriratban a „MAGYARORSZÁG” felirat olvasható. Az alsó és a felső körirat között, bal oldalon a „Bp.” verdejel, jobb oldalon a „2012” verési évszám olvasható. A középmezőben – megszakadó körvonallal határolva – két, egymással szembe fordított, vízszintesen elhelyezett kajaklapát tollának ábrázolása látható, a felső az éle, az alsó a lapja felőli nézetben. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapjának szélén, felső köriratban a „XXX. NYÁRI OLIMPIAI JÁTÉKOK” felirat, alsó köriratban a „LONDON” felirat olvasható. A középmezőben – körvonallal határolva – három női kajakos ábrázolása látható, oldalnézetben, változatos evezőtartással. A középmezőt a vízfelszín stilizált ábrázolása tölti ki. A legtávolabbiként ábrázolt kajak alatt, bal oldalon Bitó Balázs tervezőművész mesterjegye található. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
