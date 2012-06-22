@@ -1,1 +1,6 @@
+## 12. §[^64] E rendeletnek egyes agrártárgyú miniszteri rendeletek módosításáról szóló 56/2012. (VI. 21.) VM rendelettel [a továbbiakban: 56/2012. (VI. 21.) VM rendelet] megállapított 9/A. és 9/B. §-át azon, az 56/2012. (VI. 21.) VM rendelet hatálybalépésekor[^65] folyamatban lévő ügyek esetében kell alkalmazni, amelyekben a módosító rendelet hatálybalépésekor a Vhr. 25. § (2) bekezdése szerint határidő már letelt, de a Vhr. 17. § (3) bekezdése szerinti utolsó kifizetési kérelem benyújtására nyitva álló időszak még nem telt le. Nem kell alkalmazni 9/A. és 9/B. §-t azokban az ügyekben, amelyekben az ügyfél utolsó kifizetési kérelmére hozott kifizetési határozat a módosító rendelet hatályba lépésekor már jogerőre emelkedett.
+
 ## Az Európai Unió jogának való megfelelés
+
+[^64]: A 12. §-t az 59/2011. (VI. 29.) VM rendelet 9. § e) pontja hatályon kívül helyezte, újonnan az 56/2012. (VI. 21.) VM rendelet 7. §-a iktatta be.
+[^65]: A hatálybalépés időpontja 2012. június 22.
