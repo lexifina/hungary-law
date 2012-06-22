@@ -1,0 +1,5 @@
+## 11. § Az R4. a következő 14. §-sal egészül ki:
+
+## „14. § E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 56/2012. (VI. 21.) VM rendelettel [a továbbiakban: 56/2012. (VI. 21.) VM rendelet] megállapított 9/A. §-át azon, az 56/2012. (VI. 21.) VM rendelet hatálybalépésekor folyamatban lévő ügyek esetében kell alkalmazni, amelyekben az ügyfél a támogatási kérelmét 2008. május 5. napjától 2008. június 16. napjáig tartó időszakban nyújtotta be és a módosító rendelet hatálybalépésekor a Vhr. 25. § (2) bekezdése szerint határidő már letelt, de a Vhr. 17. § (3) bekezdése szerinti utolsó kifizetési kérelem benyújtására nyitva álló időszak még nem telt le. Nem kell alkalmazni 9/A. §-t azokban az ügyekben, amelyekben az ügyfél utolsó kifizetési kérelmére hozott kifizetési határozat a módosító rendelet hatálybalépésekor már jogerőre emelkedett.”
+
+12. § Ez a rendelet a kihirdetését követő napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
