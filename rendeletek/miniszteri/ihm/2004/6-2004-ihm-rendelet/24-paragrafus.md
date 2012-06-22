@@ -1,1 +1,0 @@
-## A rádióforgalmazás szabályai
