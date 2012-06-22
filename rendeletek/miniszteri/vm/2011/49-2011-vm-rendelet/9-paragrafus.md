@@ -2,7 +2,7 @@
 
 ## 2. A pénzügyi hozzájárulás igénybevételének részletes szabályai
 
-9. § (1) A kéknyelv betegség tekintetében a pénzügyi hozzájárulás a Határozat 4. cikkével elfogadott nemzeti program szerinti virológiai, szerológiai és entomológiai megfigyeléshez szükséges laboratóriumi vizsgálatok, valamint a csapdák és az oltóanyag beszerzésének, valamint beadásának költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra legfeljebb 340 000 EUR.
+9. § (1)[^2] A kéknyelv betegség tekintetében a pénzügyi hozzájárulás a Határozat 4. cikkével elfogadott nemzeti program szerinti virológiai, szerológiai és entomológiai megfigyeléshez szükséges laboratóriumi vizsgálatok, valamint a csapdák és az oltóanyag beszerzésének, valamint beadásának költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra legfeljebb 100 000 EUR.
 
 (2) A pénzügyi hozzájárulás igénybevételére az MgSzH jogosult.
 
@@ -25,3 +25,5 @@ f) a juh- és kecskefélék vakcinájának beadására beoltott állatonként, f
 (4) A mintavételre fordítható pénzügyi hozzájárulás mértéke háziállatonként 0,50 EUR.
 
 (5) A pénzügyi hozzájárulás kifizetését igénylő kérelemhez csatolni kell a tárgyidőszakban a kapcsolódó költségeket igazoló bizonylatokról készült, a 3. melléklet szerinti adattartalmú összesítő kimutatást.
+
+[^2]: A 9. § (1) bekezdése az 53/2012. (VI. 19.) VM rendelet 17. § a) pontja szerint módosított szöveg.
