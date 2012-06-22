@@ -48,6 +48,6 @@
 
 | 4 | 1 | 2 | 3 | 3 | Légnemű anyagok veszélyes szintű légköri koncentrációját jelző berendezések telepítése | 1 220 | Ft/ÁE |
 
-7. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^97]
+7. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^100]
 
-[^97]: A 7. számú melléklet a 82/2007. (VIII. 3.) FVM rendelet 9. §-ával megállapított szöveg.
+[^100]: A 7. számú melléklet a 82/2007. (VIII. 3.) FVM rendelet 9. §-ával megállapított szöveg.

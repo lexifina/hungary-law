@@ -242,7 +242,7 @@
 
 |  | – Rezsióradíj alapján számított élőmunka költség. |
 
-13. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^103]
+13. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^106]
 
 Telepi állategészségügyi helyzetet, illetve a nyomon követhetőséget javító, állatbetegségek kialakulását
 
@@ -308,26 +308,4 @@ Telepi állategészségügyi helyzetet, illetve a nyomon követhetőséget javí
 
 |  | – Az állatjelölők behelyezésének költségei. |
 
-| 5.1.1.1.5. Elektronikus füljelző és hozzá tartozó chipleolvasó telepítése |
-
-| MT | – A korszerű üzemeltetési funkcióknak és a kapcsolódó előírásoknak megfelelő működést biztosító technológiai kivitelezés. |
-
-|  | – Meglévő állatállomány kézi azonosításához, esetleg élettani adatok gyűjtéséhez is, fülbe ültethető vagy füljelzőbe épített azonosító chip használata, és az azonosítás számítógépes telepirányítási rendszerbe illesztése. |
-
-|  | – Az adatok elektronikus rögzítése. |
-
-|  | – Üzembe helyezés, a dolgozók oktatási munkái. |
-
-| EK | – A számítógépes chipleolvasó részegységeinek beszerzése, beépítése (azonosító chip, chippel szerelt füljelző, érzékelő, adattároló, automatikus adatgyűjtő stb.), azok helyszínre szállításával. |
-
-|  | – A beépítés és a betanítás élőmunka- és dologi költségei. |
-
-| 5.1.1.2.1. Automata sorozatoltó fecskendő beszerzése |
-
-| MT | – A korszerű üzemeltetési funkcióknak és a kapcsolódó állategészségügyi előírásoknak megfelelő működést biztosító technológiai kivitelezés. |
-
-|  | – A sorozatoltók állatjóléti előírásoknak a telepi állatorvos által igazoltan megfelelő használata. |
-
-| EK | – A sorozatoltó fecskendők, illetve tartozékok, pótalkatrészek, segédanyagok és állatgyógyászati engedélyköteles eszközök és anyagok beszerzése, azok helyszínre szállításával. |
-
-[^103]: A 13. számú melléklet a 130/2008. (X. 1.) FVM rendelet 6. § (6) bekezdésével megállapított szöveg.
+[^106]: A 13. számú melléklet a 130/2008. (X. 1.) FVM rendelet 6. § (6) bekezdésével megállapított szöveg.
