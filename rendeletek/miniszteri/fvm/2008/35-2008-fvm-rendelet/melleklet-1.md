@@ -1,3 +1,6 @@
-## 11. § E rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 26. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
+## 12. §[^16] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 56/2012. (VI. 21.) VM rendelettel [a továbbiakban: 56/2012. (VI. 21.) VM rendelet] megállapított 8/A. §-át azon, az 56/2012. (VI. 21.) VM rendelet hatálybalépésekor[^17] folyamatban lévő ügyek esetében kell alkalmazni, amelyekben az ügyfél a támogatási kérelmét 2008. március 28. napjától 2008. május 30. napjáig tartó időszakban nyújtotta be és módosító rendelet hatályba lépésekor a 4. § (6) bekezdés c) pontja szerint határidő már letelt, de Vhr. 17. § (3) bekezdése szerinti utolsó kifizetési kérelem benyújtására nyitva álló időszak még nem telt le. Nem kell alkalmazni 8/A. §-t azokban az ügyekben, amelyekben az ügyfél utolsó kifizetési kérelmére hozott kifizetési határozat a módosító rendelet hatályba lépésekor már jogerőre emelkedett.
 
 1. számú melléklet a 35/2008. (III. 27.) FVM rendelethez
+
+[^16]: A 12. §-t az 56/2012. (VI. 21.) VM rendelet 9. §-a iktatta be.
+[^17]: A hatálybalépés időpontja 2012. június 22.
