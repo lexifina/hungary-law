@@ -1,51 +1,265 @@
-2. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^15]
+## A hajózási hatósági eljárások (szolgáltatások) díjai
 
-## Úszó létesítmények lajstromozásával kapcsolatos hatósági eljárások (szolgáltatások) díjai
+|  | A | B |
 
-Ft/db
+|  | Eljárás | Díj (Ft) |
 
-1. Új úszó létesítmény lajstromozásakor, vagy a tulajdonjogban bekövetkezett változás bejegyzésekor
+| 1. | úszólétesítmények építési, átépítési tervének jóváhagyása |  |
 
-a) tengeri hajó esetén a hajó minden bruttó tonnája után 899
+|  | a) nagyhajónál, önjáró úszómunkagépnél, gépi üzemű kompnál, továbbá személyszállításra vagy nagyhajók továbbítására szolgáló kishajónál, illetve kereskedelmi célú úszóműveknél | 154 000 |
 
-b) belvízi úszó létesítményeknél a díj alapja az úszólétesítménynek a legnagyobb merüléshez tartozó vízkiszorítás után számított minden metrikus tonnája után a díj
+|  | b) gépnélküli nagyhajónál, nem önjáró kompnál, nem önjáró úszómunkagépnél, felépítménnyel rendelkező úszóműnél | 136 000 |
 
-ba) géphajónál 340
+|  | c) az a) pontba nem tartozó – kishajónál, felépítmény nélküli úszóműnél | 94 000 |
 
-bb) gépnélküli hajónál, úszóműveknél 84
+|  | d) a hajó veszélyes áru szállítására, tárolására való alkalmasságát igazoló tervek jóváhagyása, amennyiben azokat külön eljárásban nyújtják be | 91000 |
 
-bc) úszómunkagépnél 225
+| 2. | a hajó egyes fő részeit érintő átépítési tervek jóváhagyása, valamint jóváhagyás nélkül átdolgozásra visszaküldött részlettervek ismételt felülvizsgálatának díja | 83 000 |
 
-de legalább 11 182
+| 3. | úszólétesítmények üzembe helyezési, időszakos, önkéntes üzemképességi vizsgálata, vagy a hajónak vízből kiemelt, illetve partra vont állapotú vizsgálata |  |
 
-c) kishajónál a díj 16 772
+|  | a) nagyhajónál, önjáró úszómunkagépnél, gépi üzemű kompnál, továbbá személyszállításra vagy nagyhajók továbbítására szolgáló kishajónál, illetve kereskedelmi célú úszóműveknél | 151 000 |
 
-d) kompnál ( kivéve a révcsónakot ) a díj 16 772
+|  | b) gépnélküli nagyhajónál, nem önjáró kompnál, nem önjáró úszómunkagépnél, felépítménnyel rendelkező úszóműnél | 96 000 |
 
-e) vízi sporteszközöknél a díj 16 772
+|  | c) az a) pontba nem tartozó kishajónál, felépítmény nélküli úszóműnél | 65 000 |
 
-f) révcsónaknál a díj 5 591
+|  | d) kedvtelési célból üzemeltetett gépi vagy vitorlás meghajtású kishajónál, továbbá motoros vízi sporteszköznél, ha annak hajótesten mért hossza a 9 métert nem éri el | 46 000 |
 
-2. A lajstromba bejegyezhető jogok [198/2000. (XI. 29.) Korm. r. (a továbbiakban: LKr.) IV. fejezet]. Bejegyzésre kerülő jogonként, külön-külön bejegyzési, módosítási és törlési eljárásonként a díj 16 772
+|  | e) kedvtelési célból üzemeltetett gépi vagy vitorlás meghajtású kishajónál, ha annak hajótesten mért hossza a 9 métert eléri, azonban a 12 métert nem haladja meg | 87 000 |
 
-3. A lajstromba feljegyezhető tények (LKr. V. fejezet). Feljegyezhető tényenként, külön-külön feljegyzésenként és ezek törlési eljárásában a díj 11 182
+|  | f) kedvtelési célból üzemeltetett gépi vagy vitorlás meghajtású kishajónál, ha annak hajótesten mért hossza a 12 métert meghaladja | 111 000 |
 
-4. Bejegyzési ranghely előzetes biztosítási kérelemmel kapcsolatos eljárás díja 16 772
+|  | g) a hajó veszélyes áru szállítására, tárolására történő alkalmasságának vizsgálata, amennyiben azokat külön eljárásban nyújtják be | 151 000 |
 
-5. Ideiglenes lajstromba vétel esetén a díj a végleges lajstrombavételi díj 50%-a.
+| 4. | tengeri hajó köbözéséért felszámítható díj |  |
 
-6. Tulajdonilap másolat (teljes, kivonatos, részleges) úszó létesítményenként, oldalanként 16 772
+|  | a) alapdíj | 216 000 |
 
-7. Hiteles másolat kiadása oldalanként 5 591
+|  | továbbá vegyes tonnatartalom minden regisztertonnája után | 100 |
 
-8. A lajstrom adataiban igazolt változás miatti módosítás és a változás bejegyzésének tanúsítása (tulajdonjog változás kivételével) 11 182
+|  | b) a felső fedélzet felett zárt helyiség és hajószemélyzet számára szolgáló helyiségek, valamint a géphelyiség felmérésének alapdíja | 254 000 |
 
-9. Igazolás kiadása a lajstrom tulajdoni adatairól (nyelvenként) 11 182
+|  | továbbá minden felmért regisztertonna után | 40 |
 
-10. Úszó létesítmény törlése a lajstromból; a díj a lajstromba való felvétel, bejegyzés díjának 5%-a,
+|  | c) a Szuezi-, a Sulina- és a Panama-csatorna használatához szükséges köbözés alapdíja | 79 000 |
 
-de legalább 5 591
+|  | továbbá minden felmért regisztertonna után | 100 |
 
-legfeljebb 111 815
+| 5. | belvízi hajó köbözése | 83 000 |
 
-[^15]: A 2. számú melléklet a 43/2005. (VI. 11.) GKM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 3. §-ának (1) bekezdése alapján rendelkezéseit a 2005. június 19. napját követően indított eljárásokra kell alkalmazni.
+| 6. | a belvízi hajónál a centiméterenkénti terhelhetőség |  |
+
+|  | a) megállapításának alapdíja | 72 000 |
+
+|  | b) továbbá centiméterenként | 150 |
+
+| 7. | hajóradar, fordulási szögsebesség mérő berendezések és AIS készülék vizsgálata, illetve tájoló kompenzálása amennyiben a vizsgálat nem esik egybe az üzemképességi vizsgálatokkal | 77 000 |
+
+| 8. | kikötő létesítésének vagy a fennmaradásának engedélyezése |  |
+
+| 8/A. | a kikötő létesítési terv felülvizsgálati, engedélyezési eljárásának alapdíja |  |
+
+|  | a) nagyhajók fogadására alkalmas kikötő, valamint ferde pályás hajókiemelő berendezés, hajóállomás, úszóműves kikötőhely esetében | 153 000 |
+
+|  | b) kishajók (csónakok) fogadására alkalmas kikötő esetében | 80 000 |
+
+| 8/B. | az alapdíjon felül a kikötésre alkalmas part élének hossza, úszóműves kikötőhelynél az úszómű hosszának 2,5 szerese alapján méterenként |  |
+
+|  | a) nagyhajók fogadására alkalmas kikötőnél | 2 000 |
+
+|  | b) kishajók (csónakok) fogadására alkalmas kikötőnél | 1 000 |
+
+| 8/C. | a kikötő fennmaradásának engedélyezési díja a 8/A.–8/B. pont és 12. pont a) alpontjában megállapított eljárási díj összegének kétszerese |  |
+
+| 8/D. | a kikötő létesítési terv módosításának engedélyezési díja, illetve a létesítési engedély meghosszabbításának díja | 89 000 |
+
+| 9. | komp- és révátkelőhely |  |
+
+|  | a) létesítésének | 138 000 |
+
+|  | b) fennmaradásának | 203 000 |
+
+|  | engedélyezése |  |
+
+| 10. | hajóhíd létesítésének használatba vételének engedélyezése, a létesítési vagy üzemben tartási engedély kiadása eljárásonként |  |
+
+|  | a) nemzetközi vízi úton | 164 000 |
+
+|  | b) egyéb belvizeken | 155 000 |
+
+| 11. | hajózási létesítmény elhelyezésének elvi engedélyeztetési díja | 80 000 |
+
+| 12. | a kikötő használatbavétele során |  |
+
+|  | a) a használatbavétel engedélyezése |  |
+
+|  | aa) a kikötő part élének hossza alapján | 1 000 |
+
+|  | ab) úszóműves kikötőhelynél az úszómű hosszának 2,5-szerese alapján méterenként | 1 000 |
+
+|  | b) hajózási létesítmény üzemelési szabályzat megállapítása | 32 000 |
+
+|  | c) kikötőrend jóváhagyása | 29 000 |
+
+|  | ca) medencés kikötő esetében | 34 000 |
+
+|  | cb) egyéb kikötő, kikötőhely esetében | 7 000 |
+
+| 13. | komp- és révátkelőhely használatba vételi eljárásának díja | 140 000 |
+
+| 14. | kikötők üzemben tartásának engedélyezése a kikötők part élének hossza, úszóműves kikötőhelynél az úszómű hossza alapján méterenként | 10 000 |
+
+| 15. | kikötő megszüntetésének eljárása | 51 000 |
+
+| 16. | a komp- és révátkelőhely üzemben tartásának engedélyezése | 141 000 |
+
+| 17. | komp- és révátkelés megszüntetése | 139 000 |
+
+| 18. | hajózási engedély esetében |  |
+
+|  | a) hajózási engedély kiadásának alapdíja |  |
+
+|  | aa) Magyarország államhatárain belüli vizekre | 141 000 |
+
+|  | továbbá vízkiszorítás tonnánként | 200 |
+
+|  | ab) Magyarország államhatárain belüli és kívüli vizekre | 141 000 |
+
+|  | továbbá vízkiszorítás tonnánként | 200 |
+
+|  | b) hajózási engedély meghosszabbítása esetén | 3 000 |
+
+|  | vízkiszorítás tonnánként | 200 |
+
+|  | c) a hajózási engedély módosítása | 83 000 |
+
+|  | vízkiszorítási tonnánként | 200 |
+
+|  | d) harmadik országos/lobogós és kabotázs engedélyezéssel kapcsolatos eljárás megkezdett eljárásonként | 152 000 |
+
+|  | e) elvi hajózási engedély kiállítása | 10 000 |
+
+|  | f) különleges szállítás, valamint radioaktív anyag belvízi szállításának engedélyezése | 87 000 |
+
+|  | g) üzemeltetési engedély kiadás korlátozás alá eső vízterületekre (hajózási engedélyköteles tevékenységhez) | 41 000 |
+
+|  | h) üzemeltetési engedély kiadás korlátozás alá eső vízterületekre (sportegyesületek) | 36 000 |
+
+|  | i) zsilipszabályzat jóváhagyása | 38 000 |
+
+|  | j) rajnai hajózásban való részvételi jogosultságot igazoló okmány kiállítása | 84 000 |
+
+| 19. | a víziközlekedés irányítására szolgáló jelzések |  |
+
+|  | a) elhelyezése (létesítés), üzembe helyezése, fennmaradása, üzemeltetése, valamint megszüntetése engedélyezésének alapdíja | 54 000 |
+
+|  | b) jelenként/jelzésenként további (db) | 2 000 |
+
+| 20. | hajóúton vagy annak közelében munkavégzés |  |
+
+|  | a) engedélyezése | 50 000 |
+
+|  | b) továbbá ideiglenes rakodási tevékenység esetében megkezdett 100 tonnánként | 600 |
+
+|  | c) engedély érvényességi idejének hosszabbítása | 45 000 |
+
+| 21. | hajózási tevékenység |  |
+
+|  | a) korlátozása nemzetközi vízi úton | 58 000 |
+
+|  | b) korlátozása egyéb belvizeken | 29 000 |
+
+|  | c) korlátozásával nem járó, de engedélyköteles vízi rendezvény engedélyezése | 29 000 |
+
+| 22. | a hajóútban felakadt, elsüllyedt hajóval kapcsolatos szemle vagy felülvizsgálat díja alkalmanként (Ft/óra) | 10 000 |
+
+| 23. | a hajóutat és a hajók forgalmát érintő jelzőállomás létesítésének használatba vételének és üzemben tartásának engedélyezése eljárásonként | 116 000 |
+
+| 24. | a vízi sportpályák és vízi repülőterek létesítésének használatba vételének és üzemben tartásának engedélyezése eljárásonként | 54 000 |
+
+| 25. | hajóokmányok és egyéb engedélyek pótlása, cseréje | 14 000 |
+
+| 26. | nemzetközi, hajó és hajós, illetve tengerész okmányok (okmány-nyomtatványok árának térítése nélkül) díjai |  |
+
+|  | a) nemzetközi, hajó és hajós, illetve tengerész okmányok kiállítása és kiegészítése tengeri nagyhajók esetében | 47 000 |
+
+|  | b) nemzetközi, hajó és hajós, illetve tengerész okmányok érvényesítése tengeri nagyhajók esetében | 47 000 |
+
+|  | c) tengeri hajók különböző nemzeti okmányai kiállítása szemlejegyzőkönyv alapján | 26 000 |
+
+|  | d) hajónapló kiadása esetén | 7 000 |
+
+|  | e) személyzeti jegyzék kiadása esetén | 7 000 |
+
+|  | f) okmányok pótlása, cseréje (a 25. pontban foglaltak kivételével) | 7 000 |
+
+|  | g) kártya formátumú biztonsági okmány kiállítása esetén | 8 000 |
+
+|  | h) szolgálati könyv kiállítása esetén | 7 000 |
+
+|  | i) fáradtolaj-, motor, tengeri olaj és hulladékkezelési napló kiadása esetén | 7 000 |
+
+|  | j) gépnapló kiadása esetén | 7 000 |
+
+|  | k) hajónapló, felszerelési füzet, személyzeti jegyzék kiadása kedvtelési célú kishajó esetében | 7 000 |
+
+|  | l) képesítő okmány honosítása esetén | 18 000 |
+
+|  | m) hajózási gyakorlati idő mérséklésének engedélyezése esetén | 18 000 |
+
+| 27. | átmeneti hatósági rendelkezés közzététele kérelemre | 17 000 |
+
+| 28. | a hatósági nyilvántartásban szereplő adatokban (kivéve lajstrom) bekövetkezett változások átvezetése (például tulajdonjog-változás, üzemeltetői jog, átalakulás, névváltozás) | 19 000 |
+
+| 29. | az úszólétesítmény építés közben kérelemre lefolytatott szemléje | 33 000 |
+
+| 30. | típus-jóváhagyási eljárás | 26 000 |
+
+| 31. | a típus-jóváhagyási bizonyítvány érvényessége meghosszabbításának díja | 21 000 |
+
+| 32. | úszólétesítmények előírttól eltérő feltételekkel közlekedésének, illetve igénybevételének ideiglenes engedélyezése | 72 000 |
+
+| 33. | úszóműállás létesítési engedélyezése vagy időszakos szemléjének |  |
+
+|  | a) alapdíja | 3 000 |
+
+|  | b) továbbá a fő fedélzet területe szerint m?-ként | 200 |
+
+| 34. | úszóműállás használatba vételének és üzemben tartásának engedélyezése eljárásonként | 17 000 |
+
+| 35. | tengeri hajók előírt biztonsági dokumentumainak jóváhagyása (például riadóterv, rakománykezelési, tűzvédelmi, hajóelhagyási, stabilitási, biztonsági kézikönyvek) | 67 000 |
+
+| 36. | megbízás kiadása hatósági szemle megtartására, kérelemre | 18 000 |
+
+| 37. | hajósoknak, illetve tengerészeknek szóló hatósági tájékoztató kiadása kérelemre A/4-es oldalanként | 40 000 |
+
+| 38. | adatszolgáltatás hatósági nyilvántartásban szereplő adatokról kérelemre A/4-es oldalanként | 23 000 |
+
+| 39. | szakvélemény kiadása kérelemre A/4-es oldalanként | 40 000 |
+
+| 40. | szakhatósági díj | 40 000 |
+
+| 41. | nemzetközi azonosítók (nominatív) kijelölése | 19 000 |
+
+| 42. | szemlebizottság felkért tagjainak díjazása, óránként | 10 000 |
+
+| 43. | üzemeltetési szabályzat jóváhagyása | 45 000 |
+
+| 44. | az engedélyezés során szükségessé váló szemle, továbbá a helyszíni felülvizsgálat díja alkalmanként | 54 000 |
+
+| 45. | úszólétesítmények üzemképesség vizsgálatához és tanúsításához, úszólétesítményeken alkalmazott felszerelések, berendezések alkalmasságának megállapításához szükséges külön vizsgálatok hatósági szemléje | 93 000 |
+
+| 46. | szállítótartályokat gyártó és javító üzemek, próbaállomások jóváhagyása elismerése | 125 000 |
+
+| 47. | konténer tervjóváhagyása | 106 000 |
+
+| 48. | konténer szemléi (üzembe helyezés, időszakos, javítás utáni, illetve az engedélyezés során előírt) | 106 000 |
+
+| 49. | szállítótartály okmánykiállítása CSC tábla érvényesítés | 17 000 |
+
+| 50. | gyártó és javító üzemek jóváhagyása elismerése, időszakonkénti vizsgálata | 79 000 |
+
+2. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^18]
+
+[^18]: A 2. számú melléklet a 27/2012. (V. 25.) NFM rendelet 5. § (2) bekezdésével megállapított szöveg.

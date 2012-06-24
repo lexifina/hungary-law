@@ -1,48 +1,37 @@
-3. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^16]
+## Úszólétesítmények lajstromozásával kapcsolatos hatósági eljárások (szolgáltatások) díjai
 
-## Hajózási képesítő vizsgák vizsgadíjai
+|  | A | B |
 
-## Ft/db
+|  | Eljárás | Díj (Ft) |
 
-I. A képesítő vizsgák díjait a vizsga vizsgaelemeinek száma alapján kell megfizetni
+| 1. | új úszólétesítmény lajstromozásakor vagy a tulajdonjogban bekövetkezett változás bejegyzésekor |  |
 
-1. Egyes vizsgaelemek díjai:
+|  | a) tengeri hajó esetében a hajó minden bruttó tonnája után | 1 000 |
 
-a) teszt elem 564
+|  | b) belvízi nagyhajók és úszómunkagépeknél | 88 000 |
 
-b) írásbeli vagy szóbeli elem 1 118
+|  | c) belvízi kompok, gazdasági célból üzemeltetett úszóművek és kishajónál | 5 000 |
 
-c) gyakorlati elem 3 344
+|  | d) kedvtelési célból üzemeltetett kishajó, úszómű és motoros vízi sporteszközöknél | 31 000 |
 
-d) tengeri hajón tett gyakorlati vizsga elem 449
+| 2. | a lajstromba bejegyezhető jogok, és feljegyezhető tények [198/2000. (XI. 29.) Korm. rendelet IV. és V. fejezet]; bejegyzésre kerülő jogonként és feljegyezhető tényenként, külön-külön be- vagy feljegyzési, módosítási és törlési eljárásonként, valamint bejegyzési ranghely előzetes biztosítási kérelemmel kapcsolatos eljárás díja |  |
 
-2. Egyéb eljárások
+|  | a) tengeri hajó esetében | 128 000 |
 
-a) vizsga nélkül kiadható okmány díja 1 672
+|  | b) belvízi nagyhajók és úszómunkagépeknél | 68 000 |
 
-b) szolgálati idő igazolása szolgálati könyvben hajónként 397
+|  | c) belvízi kompok, gazdasági célból üzemeltetett úszóművek és kishajónál | 25 000 |
 
-c) képesítés, szolgálat igazolása belföldi, külföldi szerv, szervezet, társaság felé 5 643
+|  | d) kedvtelési célból üzemeltetett kishajó, úszómű és motoros vízi sporteszközöknél | 31 000 |
 
-d) hajós képesítés bejegyzése a Szolgálati könyvbe 1 000
+| 3. | ideiglenes lajstromba vétel | 33 000 |
 
-e) oktatási napló hitelesítése 1 650
+| 4. | tulajdonilap igazolás kiadása úszólétesítményenként | 33 000 |
 
-f) képzés engedélyezése: tárgyanként 2 717
+| 5. | lajstromozási okmány kiállítása | 25 000 |
 
-de legalább 10 764
+| 6. | a lajstrom adataiban igazolt változás miatti módosítás, lajstromból és ideiglenes lajstromból történő törlés és a változás bejegyzésének tanúsítása | 17 000 |
 
-g) tansegédlet jóváhagyása: 30 oldalig 20 000
+3. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^19]
 
-30 oldal felett 30 000
-
-II.[^17] Az egyes képesítő vizsgák vizsgaelemeit a 15/2001. (IV. 27.) KöViM rendelet 3. § 5. bekezdése alapján a Nemzeti Közlekedési Hatóság Központi Hivatala szabályzatban állapítja meg, amelyet a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és honlapján (www.nkh.gov.hu) közzé kell tenni.
-
-III. Ha a vizsgát a kérelmező a hajózási hatóság által meghirdetett helyeken és időpontokon kívül kívánja, akkor a hajózási hatóság emiatt felmerülő költségeit megtéríteni köteles.
-
-IV. A vizsgák díja a vizsgabizonyítvány kiállításának díját is magában foglalja.
-
-V. A gyakorlati vizsgák díja a vizsgához szükséges hajó költségeit nem tartalmazza.
-
-[^16]: A 3. számú melléklet a 43/2005. (VI. 11.) GKM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 3. §-ának (1) bekezdése alapján rendelkezéseit a 2005. június 19. napját követően indított eljárásokra kell alkalmazni.
-[^17]: A 3. számú melléklet II. pontja a 97/2006. (XII. 28.) GKM rendelet 7. § (2) bekezdésének c)–d) pontja, a 41/2008. (XII. 31.) KHEM rendelet 6. § (2) bekezdésének 16. pontja szerint módosított szöveg.
+[^19]: A 3. számú melléklet a 27/2012. (V. 25.) NFM rendelet 5. § (3) bekezdésével megállapított szöveg.

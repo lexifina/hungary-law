@@ -1,4 +1,60 @@
-4. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^18]
+## Hajózási képesítő vizsgák vizsgadíjai
+
+|  | A | B |
+
+|  | Szolgáltatások | Díj (Ft) |
+
+| I. | a képesítő vizsgák díjait a vizsga vizsgaelemeinek száma alapján kell megfizetni |  |
+
+| 1. | egyes vizsgaelemek díjai: |  |
+
+|  | a) teszt elem | 7 000 |
+
+|  | b) írásbeli vagy szóbeli elem | 8 000 |
+
+|  | c) gyakorlati elem | 18 000 |
+
+|  | d) számítógépes vizsgaelem | 6 000 |
+
+|  | e) eset tanulmány | 15 000 |
+
+| 2. | egyéb eljárások |  |
+
+|  | a) képesítő okmány kiállításának díja | 3 000 |
+
+|  | b) kártya formátumú biztonsági okmányok kiállításának díja | 13 000 |
+
+|  | c) szolgálati idő igazolása szolgálati könyvben hajónként | 2 000 |
+
+|  | d) képesítés, szolgálat igazolása belföldi, külföldi szerv, szervezet, társaság felé | 7 000 |
+
+|  | e) hatósági bejegyzés a szolgálati könyvbe | 1 000 |
+
+|  | f) oktatási napló kiadása | 3 000 |
+
+|  | g) képzés engedélyezésének alapdíja | 84 000 |
+
+|  | továbbá tárgyanként | 4 000 |
+
+|  | h) képzési engedély módosításának, kiegészítésének alapdíja | 40 000 |
+
+|  | továbbá tárgyanként | 4 000 |
+
+|  | i) tansegédlet jóváhagyásának alapdíja | 65 000 |
+
+|  | továbbá A4 oldalanként | 2 000 |
+
+|  | j) számítógépes képzési program jóváhagyásának alapdíja | 32 000 |
+
+|  | továbbá minden megkezdett Megabájt | 3 000 |
+
+| II. | ha a vizsgát a kérelmező a hajózási hatóság által meghirdetett helyeken és időpontokon kívül kívánja, akkor a hajózási hatóság emiatt felmerülő költségeit megtéríteni köteles |  |
+
+| III. | a gyakorlati vizsgák díja a vizsgához szükséges hajó költségeit nem tartalmazza |  |
+
+| IV. | a felmentési kérelem eljárási díja megegyezik a vizsga elemenkénti díjával |  |
+
+4. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^20]
 
 ## A szállítótartályok műszaki felülvizsgálatának díjai
 
@@ -48,4 +104,4 @@ Megjegyzés: amennyiben terhelési próba is szükséges, annak díja a prototí
 
 12. Szárazárus konténer időszakos szemléje 2 351
 
-[^18]: A 4. számú melléklet a 43/2005. (VI. 11.) GKM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 3. §-ának (1) bekezdése alapján rendelkezéseit a 2005. június 19. napját követően indított eljárásokra kell alkalmazni.
+[^20]: A 4. számú melléklet a 43/2005. (VI. 11.) GKM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 3. §-ának (1) bekezdése alapján rendelkezéseit a 2005. június 19. napját követően indított eljárásokra kell alkalmazni.
