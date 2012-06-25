@@ -24,7 +24,7 @@ dr. Rétvári Bencét,
 
 dr. Szabó Erikát és
 
-Szászfalvi Lászlót
+Szászfalvi Lászlót[^1]
 
 a Közigazgatási és Igazságügyi Minisztérium államtitkárává,
 
@@ -34,7 +34,7 @@ a Külügyminisztérium államtitkárává,
 
 dr. Becsey Zsoltot,
 
-Bencsik Jánost,[^1]
+Bencsik Jánost,[^2]
 
 dr. Cséfalvay Zoltánt,
 
@@ -90,4 +90,5 @@ kinevezem.
 
 KEH ügyszám: IV-2/01918/2010.
 
-[^1]: A 304/2010. (XII. 20.) KE határozat alapján Bencsik János tekintetében a „Nemzetgazdasági Minisztérium” megnevezés helyett „Nemzeti Fejlesztési Minisztériumot” kell érteni.
+[^1]: A 149/2012. (VI. 25.) KE határozat alapján Szászfalvi László vonatkozásában akként módosul, hogy a „a Közigazgatási és Igazságügyi Minisztérium” szövegrész helyébe a „az Emberi Erőforrások Minisztériuma” szöveg lép.
+[^2]: A 304/2010. (XII. 20.) KE határozat alapján Bencsik János tekintetében a „Nemzetgazdasági Minisztérium” megnevezés helyett „Nemzeti Fejlesztési Minisztériumot” kell érteni.
