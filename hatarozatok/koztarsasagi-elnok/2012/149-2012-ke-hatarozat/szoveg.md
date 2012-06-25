@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés j) pontja, a központi államigazgatási szervekről, a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 52. § (2) bekezdése, továbbá az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet módosításáról szóló 94/2012. (V. 11.) Korm. rendelet alapján – a miniszterelnök előterjesztésére – a 180/2010. (VI. 2.) KE határozatot Szászfalvi László vonatkozásában akként módosítom, hogy a határozatban a „a Közigazgatási és Igazságügyi Minisztérium” szövegrész helyébe a „az Emberi Erőforrások Minisztériuma” szöveg lép.
+
+KEH ügyszám: IV-2/02318/2012.
