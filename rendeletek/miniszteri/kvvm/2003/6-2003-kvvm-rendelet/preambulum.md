@@ -1,1 +1,0 @@
-A Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény 7. § (1) bekezdésében kapott felhatalmazás alapján – a gazdasági és közlekedési miniszterrel, valamint az informatikai és hírközlési miniszterrel egyetértésben – a következőket rendelem el:
