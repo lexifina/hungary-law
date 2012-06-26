@@ -1,0 +1,5 @@
+18. § (1) Aranykoszorús Gazda Díj, illetve Aranykoszorús Gazdaasszony Díj adományozható azoknak az egyéni gazdálkodóknak, vállalkozóknak, valamint a szakoktatás területén dolgozóknak, akik a szántóföldi növénytermesztés, kertészet, állattenyésztés, erdőgazdálkodás és vadgazdálkodás vagy más agrárágazati tevékenység területén kimagasló eredményeket értek el, elsősorban a jövedelmezőség és minőség javítása, új típusú gazdálkodási szerkezet kialakítása és a célszerű vállalkozási formák meghonosítása szempontjából.
+
+(2) Évente hat díj adományozható az augusztus 20-i állami ünnep alkalmából.
+
+(3) Az elismerésben részesített a díjjal emlékplakettet, valamint az adományozást igazoló okiratot kap. Az emlékplakett bronzból készül, kör alakú, felülete bronzpatinázott-aranyozott, 80 mm átmérőjű, 4 mm vastag. Egyik oldalán „Aranykoszorús Gazda”, illetve „Aranykoszorús Gazdaasszony” felirat található kör alakban. Fölötte nemzetiszín szalaggal átkötött búzakalász-koszorú helyezkedik el az adományozás évének bevésésével. Másik oldalán Magyarország babérkoszorúval övezett címere „Vidékfejlesztési Minisztérium” körfelirattal.
