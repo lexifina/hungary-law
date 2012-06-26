@@ -1,6 +1,6 @@
-## A Magyar Köztársaság fegyver- és lőszervizsgálati próbajeleivel egyenértékűnek elismert külföldi próbajelek
+## A Magyarország fegyver- és lőszervizsgálati próbajeleivel egyenértékűnek elismert külföldi próbajelek[^11]
 
-2. melléklet a 31/2006. (VI. 1.) GKM rendelethez
+2. melléklet a 31/2006. (VI. 1.) GKM rendelethez[^12]
 
 ## Hátultöltő új fegyverek lőpróbát megelőző egyedi vizsgálata
 
@@ -66,7 +66,7 @@ ai) az elsütő szerkezet hibásan működik;
 
 aj) revolvereknél a dob bizonytalanul vagy hibásan működik.
 
-b) Az elsütő erő – sportfegyverek kivételével – ne legyen kisebb az alábbi értékeknél:
+b) Az elsütő erő – sportlőfegyverek kivételével – ne legyen kisebb az alábbi értékeknél:
 
 Hosszú fegyverek (gyorsító nélkül) 9,8N
 
@@ -74,7 +74,7 @@ Rövid fegyverek, felhúzott kakassal 9,8N
 
 Rövid fegyverek, revolverezéssel 39,2N
 
-Sportfegyvereknél a szakág technikai szabályzatát kell betartani, ezt a Vizsgáló nem vizsgálja.
+Sportlőfegyvereknél a szakág technikai szabályzatát kell betartani, ezt a Vizsgáló nem vizsgálja.
 
 (3) A méretvizsgálat során azt kell vizsgálni, hogy a töltényűr és a csőfurat méretei megfelelnek-e a 17. mellékletben található értékeknek. Meg kell határozni a cső hosszát is.
 
@@ -203,3 +203,6 @@ f) Néhány amerikai eredetű hornyos lőszer kalibernél – konstrukciós megf
 Ezen kaliberjelek felsorolása és a megengedett értékek a 22. mellékletben találhatók.
 
 A zárolási hézagot a töltényűrbe helyezett megfelelően kialakított idomszerrel, sima billenő-csövű fegyvereknél a hézagot hézagmérővel kell vizsgálni.
+
+[^11]: Az 1. melléklet címe a 12/2012. (VI. 25.) NGM rendelet 3. § e) pontja szerint módosított szöveg.
+[^12]: A 2. melléklet a 12/2012. (VI. 25.) NGM rendelet 3. § f) pontja szerint módosított szöveg.

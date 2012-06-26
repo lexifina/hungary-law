@@ -1,4 +1,4 @@
-## 8/A. §[^3] A hordozható, robbanópatronnal működő rögzítő, és egyéb összeerősítésre szolgáló gépek (lövőkészülékek) 2011. június 30-át követően nem hozhatók forgalomba.
+## 8/A. §[^8] A hordozható, robbanópatronnal működő rögzítő, és egyéb összeerősítésre szolgáló gépek (lövőkészülékek) 2011. június 30-át követően nem hozhatók forgalomba.
 
 ## Egyedi vizsgálat
 
@@ -18,4 +18,4 @@ d) lőpróba alatti és utáni vizsgálat: azon meg nem engedhető hibák feltá
 
 (4) Eddig nem gyártott kaliberjelű vagy konstrukciójú új fegyver, lövőkészülék vizsgálatához a bemutatásra kötelezettnek minden, az azonosításhoz és méréshez szükséges dokumentációt a Vizsgáló rendelkezésére kell bocsátania.
 
-[^3]: A 8/A. §-t a 16/2008. (VIII. 30.) NFGM rendelet 14. § (2) bekezdése iktatta be.
+[^8]: A 8/A. §-t a 16/2008. (VIII. 30.) NFGM rendelet 14. § (2) bekezdése iktatta be.
