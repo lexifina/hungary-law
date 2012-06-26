@@ -1,13 +1,5 @@
 8. § A 2. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2012. évi LXXV. törvényhez
 
 A beruházási terület határpontjainak Egységes Országos Vetületi rendszerben megadott koordinátái
