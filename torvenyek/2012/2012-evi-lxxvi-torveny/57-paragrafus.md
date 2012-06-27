@@ -1,0 +1,5 @@
+## 42. A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény módosítása
+
+57. § A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény 17. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a társadalmi esélyegyenlőség előmozdításáért felelős miniszterrel, a szociál- és nyugdíjpolitikáért felelős miniszterrel és az egészségbiztosítási járulék-fizetés szabályozásáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a Rehabilitációs kártya igénylésének, kibocsátásának, felhasználásának, kicserélésének, visszavonásának és a hozzá kapcsolódó kedvezmény érvényesítésének részletes szabályait.”

@@ -1,0 +1,1 @@
+60. § A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174. § (2) bekezdésében az „az egyenlő bánásmód biztosításáért és” szövegrész helyébe az „a” szöveg lép.
