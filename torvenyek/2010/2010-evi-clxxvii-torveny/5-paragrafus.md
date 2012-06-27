@@ -1,3 +1,0 @@
-5. § A Tt. 35. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Kötelező a közgyűlés összehívása, ha azt a tulajdoni hányad 1/10-ével rendelkező tulajdonostársak a napirend, az ok és a közgyűlési határozatra tett javaslat megjelölésével írásban kérték. Ha a közös képviselő vagy az intézőbizottság elnöke a kérés kézhezvételétől számított 30 napon belüli időpontra a közgyűlést nem hívja össze, azt a harmincadik napot követő 15 napon belüli időpontra a számvizsgáló bizottság, ennek elmulasztása esetén az összehívást kérő tulajdonostársak vagy az általuk írásban megbízott bármely tulajdonostárs jogosult összehívni.”
