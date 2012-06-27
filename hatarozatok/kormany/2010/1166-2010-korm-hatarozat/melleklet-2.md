@@ -1,22 +1,24 @@
-| 1. | Miniszterelnökség | 134 |
+|  | Megnevezés | Létszám (fő) |
 
-| 2. | Közigazgatási és Igazságügyi Minisztérium | 1087 |
+| 1. | Miniszterelnökség | 275 |
 
-| 3. | Vidékfejlesztési Minisztérium | 698 |
+| 2. | Közigazgatási és Igazságügyi Minisztérium | 860 |
 
-| 4. | Honvédelmi Minisztérium | 523 |
+| 3. | Belügyminisztérium | 355 |
 
-| 5. | Belügyminisztérium | 354 |
+| 4. | Honvédelmi Minisztérium | 511 |
 
-| 6. | Nemzetgazdasági Minisztérium | 817 |
+| 5. | Külügyminisztérium | 630 |
 
-| 7. | Nemzeti Fejlesztési Minisztérium | 686 |
+| 6. | Nemzetgazdasági Minisztérium | 793 |
 
-| 8. | Külügyminisztérium | 659 |
+| 7. | Emberi Erőforrások Minisztériuma | 924 |
 
-| 9. | Nemzeti Erőforrás Minisztérium | 861 |
+| 8. | Nemzeti Fejlesztési Minisztérium | 626 |
 
-| 10. | ÖSSZESEN | 5819 |
+| 9. | Vidékfejlesztési Minisztérium | 598 |
+
+| 10. | ÖSSZESEN: | 5572 |
 
 2. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^2]
 

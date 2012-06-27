@@ -12,4 +12,4 @@
 
 1. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^1]
 
-[^1]: Az 1. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: Az 1. számú melléklet az 1206/2012. (VI. 26.) Korm. határozat 1. pontjával megállapított szöveg.
