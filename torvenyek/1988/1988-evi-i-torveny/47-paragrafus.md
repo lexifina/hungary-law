@@ -76,9 +76,9 @@
 
 22.10. a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Mellékletének belföldi alkalmazásáról szóló külön jogszabályban meghatározott, undort keltő anyag szállítására eredményes vizsgát tett járművezető;
 
-23. várakozási terület: a 8. pont szerinti utak közül a helyi közút és a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánút 11. pont szerinti tartozéka, valamint a helyi önkormányzat tulajdonában álló terek, parkok és egyéb közterületek járművel történő várakozásra kijelölt része;
+23. várakozási terület: a 8. pont szerinti utak közül a helyi közút és a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánút 11. pont szerinti tartozéka, valamint az állam és a helyi önkormányzat tulajdonában álló terek, parkok és egyéb közterületek járművel történő várakozásra kijelölt része;
 
-24. várakozási terület kezelője: a helyi közút és a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánút tartozékaként a 33. § (1) bekezdés c) pontjában meghatározott szervezet, a közösségi közlekedéssel érintett közutak kivételével, illetve a helyi önkormányzat tulajdonában álló tereken, parkokban, egyéb közterületen kialakított várakozási terület tekintetében a tulajdonos helyi önkormányzat; a várakozási területen létesített parkolóóra, jegykiadó automata az Ötv. 9. § (5) bekezdése szerinti szolgáltató tulajdonában, illetve használatában állhat;
+24. várakozási terület kezelője: a helyi közút és a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánút tartozékaként a 33. § (1) bekezdés c) pontjában meghatározott szervezet, a közösségi közlekedéssel érintett közutak kivételével, a helyi önkormányzat tulajdonában álló tereken, parkokban, egyéb közterületen kialakított várakozási terület tekintetében a tulajdonos helyi önkormányzat, az állam tulajdonában álló tereken, parkokban, egyéb közterületen kialakított várakozási terület tekintetében a vagyonkezelő; a várakozási területen létesített parkolóóra, jegykiadó automata az Ötv. 9. § (5) bekezdése szerinti szolgáltató tulajdonában, illetve használatában állhat;
 
 25. tanfolyam: a közúti járművezetők szervezett formában történő képzése; a tanfolyam a képzési engedélynek megfelelően elméleti (tantermi vagy zárt rendszerű elektronikus távoktatás), és gyakorlati képzési részekből állhat;
 

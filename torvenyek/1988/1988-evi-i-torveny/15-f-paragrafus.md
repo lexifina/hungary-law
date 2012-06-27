@@ -1,0 +1,1 @@
+15/F. § Az állam tulajdonában álló várakozási terület tekintetében a várakozási díj és pótdíj mértéke, valamint a díjköteles várakozás megengedett leghosszabb időtartama vonatkozásában annak a helyi önkormányzatnak (fővárosban a fővárosi önkormányzatnak) a rendeletében foglalt szabályokat kell alkalmazni, amelynek közigazgatási területén a várakozási terület fekszik.

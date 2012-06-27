@@ -1,3 +1,3 @@
-## Vegyes és záró rendelkezések
+## Záró rendelkezések
 
 ### 46. §
