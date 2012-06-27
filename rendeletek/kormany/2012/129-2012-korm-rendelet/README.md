@@ -1,0 +1,9 @@
+# 129/2012. (VI. 26.) Korm. rendelet
+
+egyes elektronikus hírközlési és audiovizuális média tárgyú kormányrendeletek hatályon kívül helyezéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-129-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-06-27 | 2012-129-20-22.1 | 129/2012. (VI. 26.) Korm. rendelet |
