@@ -1,1 +1,0 @@
-278. § E törvény Itv.-t módosító rendelkezéseit a hatálybalépés napjától illetékkiszabásra bejelentett vagy más módon az illetékhivatal vagy az állami adóhatóság tudomására jutott vagyonszerzési ügyekben, valamint kezdeményezett elsőfokú, illetve jogorvoslati eljárásokban kell alkalmazni.
