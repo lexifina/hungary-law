@@ -324,6 +324,16 @@
 
 ## | 24. | Ferenciek tere 6. | Egyetemi Könyvtár | 25. | József A. u. 6. (Nádor u. 2.) | Pollack Mihály háza | 26. | Károlyi M. u. 16. | Károlyi-palota és Károlyi-kert | 27. | Kossuth L. tér 11. | Földművelésügyi Minisztérium | 28. | Kossuth L. tér 12. | kúria | 29. | Március 15. tér | Contra Aquincum romjai | 30. | Vigadó tér 2. | Pesti Vigadó
 
+## 31. Kossuth Lajos tér, 24893 helyrajzi számú ingatlanon álló szobrok:
+
+## – II. Rákóczi Ferenc emlékmû
+
+## – Kossuth-emlékmû
+
+## – A forradalom lángja emlékmű
+
+## – A Dunánál (József Attila) portrészobor
+
 ## VI. kerület
 
 ## | 31. | Andrássy út 22. | Magyar Állami Operaház | 32. | Andrássy út 67. | régi Zeneakadémia | 33. | Andrássy út 69. | régi Műcsarnok | 34. | Andrássy út 71. | Képzőművészeti Főiskola | 35. | Bajza u. 41. | régi pesti Kálvária | 36. | Liszt Ferenc tér 8. | Liszt Ferenc Zeneművészeti Főiskola | 37. | Teréz körút 51-53. | Nyugati pályaudvar felvételi épülete
