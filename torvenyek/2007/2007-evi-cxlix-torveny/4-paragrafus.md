@@ -1,5 +1,0 @@
-4. § A Vt. tv. a következő 3/A. §-sal egészül ki:
-
-„
-
-3/A. § Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 9. § (3) bekezdésében foglaltakra tekintettel a vízgazdálkodásért felelős miniszter kezdeményezésére az árvízi tározóval érintett területeket – az 5. § (1) és a 24. § (2) bekezdése szerint megállapított miniszteri rendelet alapján – az érintett települési önkormányzatoknak a külön jogszabályban meghatározott településrendezési eszközeikben figyelembe kell venniük, és a miniszteri rendelet hatálybalépésétől számított kilenc hónapon belül a településrendezési tervükben, illetve a helyi építési szabályzatukban át kell vezetniük.”
