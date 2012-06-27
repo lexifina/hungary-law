@@ -10,7 +10,7 @@ a) a helyi önkormányzatok jogállását, kizárólagos feladat- és hatáskör
 
 b) a helyi önkormányzati képviselők jogállását, megválasztásuk rendjét, jogait és kötelezettségeit.
 
-(2) Az Országgyűlés a Kormánynak – az Alkotmánybíróság véleményének kikérése után előterjesztett – javaslatára feloszlatja azt a helyi képviselő-testületet, amelynek működése az Alkotmánnyal ellentétes [Alkotmány 19. § (3) bek. 1. pont]. Ha az Országgyűlés az önkormányzati képviselő-testületet feloszlatja, egyidejűleg három hónapon belüli időpontra kitűzi az időközi választást.
+(2) Az Országgyűlés a Kormánynak – az Alkotmánybíróság véleményének kikérése után előterjesztett – javaslatára feloszlatja azt a helyi képviselő-testületet, amelynek működése az Alaptörvénnyel ellentétes. Ha az Országgyűlés az önkormányzati képviselő-testületet feloszlatja, egyidejűleg három hónapon belüli időpontra kitűzi az időközi választást.
 
 (3) Az Országgyűlés a feloszlatásról a soron következő ülésén határoz. E napirend tárgyalására meg kell hívni az érintett önkormányzat polgármesterét. A polgármester jogosult a feloszlatásra vonatkozó javaslattal kapcsolatban a képviselő-testület álláspontját a határozathozatal előtt ismertetni.
 

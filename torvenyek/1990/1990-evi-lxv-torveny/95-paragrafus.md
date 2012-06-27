@@ -2,7 +2,7 @@
 
 a) a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter közreműködésével, a fővárosi és megyei kormányhivatal útján biztosítja a helyi önkormányzatok törvényességi ellenőrzését;
 
-b) javaslatot terjeszt az Országgyűléshez az Alkotmánnyal ellentétesen működő helyi képviselő-testület feloszlatására;
+b) javaslatot terjeszt az Országgyűléshez az Alaptörvénnyel ellentétesen működő helyi képviselő-testület feloszlatására;
 
 c) rendeletben határozza meg a helyi közszolgálat képesítési előírásait;
 
