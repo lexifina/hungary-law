@@ -1,1 +1,0 @@
-2. § A Magyar Energia Hivatal az általa a Törvény 2. §-ának (5) és (6) bekezdése, vagy a Vet. 159. §-ának zs) pontja, illetve a Get. 4. §-a (1) bekezdésének zs) pontja alapján kijelölt személyeket legkésőbb 2009. május 31-ig visszahívja, ellenkező esetben a kijelölt személyek megbízatása 2009. május 31-én e törvény erejénél fogva megszűnik.
