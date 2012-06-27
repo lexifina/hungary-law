@@ -1,3 +1,0 @@
-163. § (1) E törvénynek az Itv.-t módosító rendelkezései 2002. január 1. napján lépnek hatályba. Vagyonszerzési illetékekre vonatkozó rendelkezéseit azokban a vagyonszerzési ügyekben kell alkalmazni, amelyeket e törvény hatálybalépését követően jelentettek be illetékkiszabásra az ingatlanügyi hatósághoz, vagy amelyek e törvény hatálybalépését követően más módon jutottak az illetékhivatal vagy az állami adóhatóság tudomására. Az eljárási illetékekre vonatkozó rendelkezéseket e törvény hatálybalépését követően kezdeményezett első fokú, illetve jogorvoslati államigazgatási és bírósági eljárások eljárási illetékére kell alkalmazni.
-
-(2)
