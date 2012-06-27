@@ -1,1 +1,0 @@
-32. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 66. §-ának (7)–(9) bekezdése, 93. §-ának (4)–(6) bekezdése, valamint 3. és 4. számú melléklete 2002. szeptember 1-jén hatályát veszti.

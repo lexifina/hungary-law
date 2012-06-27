@@ -1,1 +1,0 @@
-34. § Az e törvény 17. §-ának (3) bekezdésével megállapított, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 79/D. § (1) bekezdésben meghatározott munkakörökben foglalkoztatott közalkalmazott fizetési fokozatát és illetményét – 2002. szeptember 1-jei hatállyal – 2002. szeptember 30-ig kell a 79/D. és a 79/E. §-ok szabályai szerint megállapítani.
