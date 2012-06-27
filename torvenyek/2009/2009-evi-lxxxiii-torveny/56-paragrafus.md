@@ -1,1 +1,0 @@
-56. § Ha e törvény hatálybalépésének időpontjában az ügyben a korábbi jogszabály alapján az ügyész arra tett indítványt, hogy a bíróság tárgyalásról lemondás alapján járjon el, az eljárást a tárgyalásról lemondás e törvény hatálybalépése előtti szabályai alapján kell lefolytatni.
