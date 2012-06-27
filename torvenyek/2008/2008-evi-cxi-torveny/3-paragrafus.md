@@ -1,3 +1,0 @@
-3. § A Ket. 10. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a közigazgatási hatóság nem magyar állampolgárságú, a magyar nyelvet nem ismerő személy ügyében – ideértve a jogi személy, illetve jogi személyiséggel nem rendelkező szervezet megbízásából eljáró természetes személyt is – magyarországi tartózkodásának tartama alatt hivatalból indít azonnali intézkedéssel járó eljárást, vagy a természetes személy ügyfél azonnali jogvédelemért fordul a magyar közigazgatási hatósághoz, a hatóság köteles gondoskodni arról, hogy az ügyfelet joghátrány ne érje a magyar nyelv ismeretének hiánya miatt. Törvény az e bekezdésben foglalt rendelkezés alkalmazását az itt nem szabályozott esetekben is kötelezővé teheti.”
