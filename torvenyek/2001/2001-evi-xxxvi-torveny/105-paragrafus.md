@@ -1,7 +1,0 @@
-105. § (1)
-
-(2) Ha a törvény hatálybalépésekor közszolgálati jogviszonyban álló köztisztviselő – ide nem értve a vezetőt, a jegyzőt és a főjegyzőt – betöltötte az ötvenötödik életévét, mentesül a közigazgatási szakvizsga letétele alól, s számára a besorolása szerinti fizetési fokozathoz tartozó illetményt kell megállapítani. Hasonlóan kell eljárni, ha e köztisztviselőt a törvény hatálybalépése után másik közigazgatási szervhez áthelyezik mindaddig, amíg a közszolgálati jogviszonya meg nem szűnik.
-
-(3) A törvény hatálybalépése előtt adományozott címzetes tanácsosi és címzetes szak-főtanácsosi címet címzetes főtanácsosi és címzetes vezető-főtanácsosi címnek kell tekinteni. A törvény hatálybalépésekor e címekkel, valamint címzetes főtanácsosi és címzetes főmunkatársi címmel rendelkező köztisztviselőtől a címeket akkor sem lehet visszavonni, ha a köztisztviselő a címadományozás feltételeként e törvényben megállapított közszolgálati jogviszonyban töltött idővel, illetve közigazgatási szakvizsgával nem rendelkezik. A törvény hatálybalépése előtt a címzetes tanácsosi címmel rendelkező köztisztviselőt a főtanácsosi besorolási fokozat 13. fizetési fokozatába, a címzetes főtanácsosi címmel rendelkező köztisztviselőt a vezető főtanácsos besorolási fokozat 15. fizetési fokozatába, a címzetes szak-főtanácsosi címmel rendelkező köztisztviselőt a vezető-főtanácsosi besorolási fokozat 17. fizetési fokozatába, a címzetes főmunkatársi címmel rendelkező köztisztviselőt a főmunkatárs besorolási fokozat 16. fizetési fokozatába kell sorolni.
-
-(4)

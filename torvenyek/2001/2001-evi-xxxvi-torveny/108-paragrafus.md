@@ -1,3 +1,0 @@
-108. § (1)
-
-(2) Ha a per hivatalvesztés tekintetében folyik, a kereset elbírálásánál – a jog gyakorlására nyitva álló határidők kivételével – a rendkívüli felmondás szabályait kell megfelelően alkalmazni. A hivatalvesztés tekintetében folyamatban lévő perben a Ktv. 54–56. § szabályait is alkalmazni kell. A hivatalvesztés végrehajtására vonatkozó, a Ktv. 59. §-a (4) bekezdésének rendelkezéseit akkor is alkalmazni kell, ha az ügykezelő, fizikai alkalmazott jogviszonya a per tartama alatt e törvény erejénél fogva munkaviszonnyá alakul át.
