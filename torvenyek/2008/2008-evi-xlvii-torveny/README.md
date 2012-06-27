@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-47-00-00
 | 2010-08-11 | 2010. évi LXXXII. törvény | 2008-47-00-00.7 |
 | 2011-01-01 | 2010. évi CLVIII. törvény | 2008-47-00-00.8 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2008-47-00-00.9 |
+| 2012-06-27 | 2012. évi LXXVI. törvény | 2008-47-00-00.10 |
