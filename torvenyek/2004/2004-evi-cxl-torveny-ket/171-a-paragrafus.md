@@ -1,0 +1,1 @@
+171/A. § Ahol jogszabály az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvényt említi, ott a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényt, ahol államigazgatási eljárást említ, ott közigazgatási hatósági eljárást, ahol államigazgatási határozatot, azon közigazgatási hatósági döntést kell érteni.
