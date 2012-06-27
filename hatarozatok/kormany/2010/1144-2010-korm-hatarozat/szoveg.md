@@ -246,7 +246,7 @@ A KORMÁNY ÜLÉSÉRŐL KÉSZÜLT ÖSSZEFOGLALÓ ÉS HANGFELVÉTEL
 
 83. A Kormány üléséről összefoglaló és a Kormány tagjának kérésére, indokolt esetben és a miniszterelnök engedélyével rögtön, továbbá az ülés végén az összefoglaló elkészítésére alkalmas hangfelvétel készül. Az összefoglaló elkészítéséről – az ülést követő három munkanapon belül – a Közigazgatási és Igazságügyi Minisztérium közigazgatási államtitkára gondoskodik.
 
-84. Az összefoglalót a közigazgatási és igazságügyi miniszter írja alá.
+84.[^3] Az összefoglalót a közigazgatási és igazságügyi miniszter, valamint a Miniszterelnökséget vezető államtitkár írja alá.
 
 85. Az aláírt összefoglaló mellékleteként – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározottakon kívül – meg kell őrizni a következő iratok eredeti aláírással ellátott egy-egy példányát:
 
@@ -286,3 +286,4 @@ ZÁRÓ RENDELKEZÉSEK
 
 [^1]: Az 57/A. §-t az 1054/2011. (III. 22.) Korm. határozat 6. pontja iktatta be.
 [^2]: Az 57/B. pontot az 1308/2011. (IX. 6.) Korm. határozat 17. pontja iktatta be.
+[^3]: A 84. pont az 1204/2012. (VI. 26.) Korm. határozat 1. pontjával megállapított szöveg.

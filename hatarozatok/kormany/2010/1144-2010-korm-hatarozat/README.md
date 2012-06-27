@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-1144-30
 | 2010-07-08 | 2010-1144-30-22.1 | 1144/2010. (VII. 7.) Korm. határozat |
 | 2011-03-23 | 2010-1144-30-22.2 | 1054/2011. (III. 22.) Korm. határozat |
 | 2011-09-07 | 2010-1144-30-22.3 | 1308/2011. (IX. 6.) Korm. határozat |
+| 2012-06-27 | 2010-1144-30-22.4 | 1204/2012. (VI. 26.) Korm. határozat |
