@@ -1,6 +1,6 @@
 4. § Az Információs Hivatal
 
-a) megszerzi, elemzi, értékeli és továbbítja a kormányzati döntésekhez szükséges, a külföldre vonatkozó, illetőleg külföldi eredetű, a nemzet biztonsága érdekében hasznosítható információkat, továbbá a Magyar Köztársaság érdekeinek érvényesítését szolgáló tevékenységet folytat;
+a) megszerzi, elemzi, értékeli és továbbítja a kormányzati döntésekhez szükséges, a külföldre vonatkozó, illetőleg külföldi eredetű, a nemzet biztonsága érdekében hasznosítható információkat, továbbá Magyarország érdekeinek érvényesítését szolgáló tevékenységet folytat;
 
 b) felderíti a Magyarország függetlenségét, politikai, gazdasági vagy más fontos érdekét sértő vagy veszélyeztető külföldi titkosszolgálati törekvéseket és tevékenységet;
 
