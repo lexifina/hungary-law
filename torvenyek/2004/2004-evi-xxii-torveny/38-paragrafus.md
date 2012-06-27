@@ -1,1 +1,0 @@
-38. § A 34. §-ban foglalt rendelkezéseket azon közjegyzői okiratok elkészítése során kell alkalmazni, amelyek tervezetét e törvény hatálybalépését követően juttatják el a felek a közjegyzőhöz azzal, hogy a közjegyzőkről szóló 1991. évi XLI. törvény 120. §-ának (2) bekezdése szerinti eljárás lefolytatására kérik fel.
