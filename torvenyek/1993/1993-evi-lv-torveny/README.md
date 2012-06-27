@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-55-00-00
 | 2011-01-01 | 2010. évi CXXVI. törvény | 1993-55-00-00.14 |
 | 2011-03-09 | 2011. évi XIV. törvény | 1993-55-00-00.15 |
 | 2012-01-01 | 2011. évi CCI. törvény | 1993-55-00-00.16 |
+| 2012-06-27 | 2012. évi LXXVI. törvény | 1993-55-00-00.17 |
