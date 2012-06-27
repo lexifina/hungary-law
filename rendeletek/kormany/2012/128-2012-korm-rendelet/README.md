@@ -1,0 +1,9 @@
+# 128/2012. (VI. 26.) Korm. rendelet
+
+a Nemzeti Eszközkezelő Zrt. működésével kapcsolatos egyes szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-128-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-06-27 | 2012-128-20-22.1 | 128/2012. (VI. 26.) Korm. rendelet |
