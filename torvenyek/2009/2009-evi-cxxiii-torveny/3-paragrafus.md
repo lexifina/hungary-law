@@ -1,7 +1,0 @@
-3. § (1) Az Fmt. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 4. § (1) bekezdés szerint osztottan megillető bevételekből – a 4. § (2)–(4) bekezdései szerinti összegek kivételével és a települési önkormányzat közigazgatási területére kimutatott személyi jövedelemadónak a költségvetési törvényben meghatározott mértékébe (helyben maradó részébe) beleértve a bázisévi jövedelemdifferenciálódás mérséklésének elszámolásához kapcsolódó, az önkormányzat által vagy részére fizetendő összeget, korrigálva a tárgyévet megelőző évben történt évközi lemondással, illetve pótigényléssel, valamint a költségvetési törvényben szabályozott, a beruházásokhoz kapcsolódó esetlegesen visszaigényelhető összeget is – 2008-ban a fővárosi önkormányzatot 47%, a kerületi önkormányzatokat együttesen 53% részesedés illeti meg.”
-
-(2) Az Fmt. 5. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A normatív részesedési arány változása esetén a tárgyévet megelőző évi – az (1) bekezdés szerint meghatározott – forrásmegosztási részesedést a normatív részesedési arány százalékpontban meghatározott változása 60%-ának megfelelő mértékben – de legfeljebb 5%-kal – a tárgyévben korrigálni kell.”
