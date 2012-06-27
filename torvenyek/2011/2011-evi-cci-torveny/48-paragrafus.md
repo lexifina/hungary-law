@@ -1,3 +1,3 @@
-## 32. A mérésügyről szóló 1991. évi XLV. törvény módosítása
+## 32–257.
 
-48–49. §
+48–350. §
