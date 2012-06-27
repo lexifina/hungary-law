@@ -1,1 +1,0 @@
-16. § A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 5. § (2) bekezdésének második mondatában a „túlmutató” szövegrész helyébe az „alapuló” szöveg lép.

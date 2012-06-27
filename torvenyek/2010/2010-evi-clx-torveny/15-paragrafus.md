@@ -1,3 +1,0 @@
-15. § A Vnytv. a következő 3/C. §-sal egészül ki:
-
-„3/C. § Ha egy személy a vagyonnyilatkozat-tételi kötelezettségének egy jogviszony alapján eleget tett, majd olyan jogviszonyt létesít, amely alapján – a korábbi jogviszonyhoz képest – gyakrabban kell vagyonnyilatkozatot tennie, úgy ez utóbbi jogviszony alapján keletkező vagyonnyilatkozat-tételi kötelezettségének teljesítését és a 3/A. §-nak megfelelő nyilatkozat átadását követően a korábbi jogviszony kapcsán tett vagyonnyilatkozatát az annak őrzésért felelős személy visszaadja.”
