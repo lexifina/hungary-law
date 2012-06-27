@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-44-00-00
 | --- | --- | --- |
 | 2007-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1992-44-00-00.8 |
 | 2012-01-01 | 2011. évi CLXIII. törvény | 1992-44-00-00.9 |
+| 2012-06-27 | 2012. évi LXXVI. törvény | 1992-44-00-00.10 |
