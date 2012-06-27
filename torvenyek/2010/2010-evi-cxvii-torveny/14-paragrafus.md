@@ -4,4 +4,4 @@
 
 (3) E törvény rövidítése: Büat.
 
-(4) E törvény 7. § (3) bekezdésének b) pontja 2012. január 1-jén hatályát veszti.
+(4)
