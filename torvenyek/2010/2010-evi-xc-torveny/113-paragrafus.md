@@ -1,1 +1,0 @@
-113. § A Jöt. 72. §-a (8) bekezdésének második mondata, 114. §-a (2) bekezdésének j) pontjában az „[a továbbiakban az a)–j) pontban megjelölt termék: adózás alól elvont termék]” szövegrész, 119. §-a (2) bekezdésének f) pontjában a „valamint” szövegrész hatályát veszti.

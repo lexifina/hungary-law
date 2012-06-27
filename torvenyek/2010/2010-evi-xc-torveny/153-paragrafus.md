@@ -1,1 +1,0 @@
-153. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény pénzforgalmi intézményekkel és pénzforgalmi szolgáltatással összefüggő módosításáról szóló 2009. évi LXXXVI. törvény 74. § (2) bekezdésében a „2010. június 30-tól” szövegrész helyébe „2011. április 30-tól” szöveg lép.

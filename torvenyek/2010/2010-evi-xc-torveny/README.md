@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-90-00-00
 | 2012-03-01 | 2012. évi V. törvény | 2010-90-00-00.7 |
 | 2012-04-01 | 2011. évi CLXXIV. törvény | 2010-90-00-00.8 |
 | 2012-04-20 | 2012. évi XXXVI. törvény | 2010-90-00-00.9 |
+| 2012-06-27 | 2012. évi LXXVI. törvény | 2010-90-00-00.10 |

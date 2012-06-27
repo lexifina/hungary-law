@@ -1,3 +1,0 @@
-41. § Az Áht. 12. § (3) bekezdése helyébe az alábbi rendelkezés lép:
-
-„(3) A bevételi előirányzatokat az arra jogosultnak – az azt alátámasztó számítások alapján – módosítania kell, ha az adott bevételre vonatkozó jogszabályi előírások év közben változnak. Központi költségvetési szerv és fejezeti kezelésű előirányzat bevételeinek túlteljesítése vagy azok elmaradása esetén az előirányzatokat az arra jogosultnak – központi költségvetési szerv bevételei túlteljesítése esetén a 100/B. § (1) bekezdésében foglaltak alapján engedélyezett összeggel – a jogszabályi előírások változásától függetlenül módosítania kell.”
