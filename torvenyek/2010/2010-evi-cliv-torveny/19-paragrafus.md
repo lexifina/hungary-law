@@ -1,3 +1,0 @@
-19. § Az Mpt. 62/A. § helyébe a következő rendelkezés lép:
-
-„62/A. § A fedezeti tartalék javára 2009. évtől a pénztár a tagdíj, illetve tagdíjcélú támogatás legalább 95,5 százalékát, 2011. évtől 99,1 százalékát köteles jóváírni. A 2010. november 1-je és 2011. december 31-e közötti időszakban a pénztár jogosult a működési és a likviditási tartalék forrásainak kimerülését követően a tag egyéni számlájának befektetéséből származó pozitív hozamát havonta, a hónap utolsó napján 265 Ft-tal csökkenteni, és azt a működési tartalék javára jóváírni. Ettől a pénztár a tagsági jogviszony létesítését követő első havi tagdíj esetében külön jogszabályban meghatározottak szerint eltérhet.”

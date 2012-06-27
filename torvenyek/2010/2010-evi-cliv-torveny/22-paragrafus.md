@@ -1,3 +1,0 @@
-22. § Az Mpt. 83. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A végelszámoló a végelszámolás kezdő időpontjától számított 30 napon belül kiküldött levélben a pénztár tagjait a pénztár jogutód nélküli megszűnéséről és 30 napos határidővel nyilatkozattételre szólítja fel a tagokat, hogy melyik pénztárba kívánnak átlépni. Amennyiben a tag nyilatkozik a más pénztárba történő átlépéséről, akkor a követelését a (6) bekezdésben foglaltak szerint kell átutalni. Abban az esetben, ha a tag a megadott határidőn belül nem nyilatkozik, a végelszámoló intézkedik a tag társadalombiztosítási nyugdíjrendszerbe történő visszaléptetése érdekében.”
