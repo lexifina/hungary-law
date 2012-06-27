@@ -1,1 +1,0 @@
-24. § Ez a törvény (több más jogszabállyal együtt) a környezeti károk megelőzése és helyreállítása tekintetében a környezeti felelősségről szóló az Európai Parlament és a Tanács 2004/35/EK irányelvének (2004. április 21.) való megfelelést szolgálja.
