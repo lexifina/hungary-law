@@ -1,3 +1,3 @@
-## 20. Hatályon kívül helyező rendelkezések
+## 20.
 
 ### 47. §

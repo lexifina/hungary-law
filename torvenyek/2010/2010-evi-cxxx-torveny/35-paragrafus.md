@@ -1,3 +1,3 @@
-## 19. Módosító rendelkezések
+## 19.
 
 ### 35. §
