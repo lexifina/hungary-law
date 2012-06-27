@@ -1,3 +1,0 @@
-7. § Az Ápt. 13. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-,,(1) Az állampolgárság megszerzésére irányuló nyilatkozatot és kérelmet, továbbá az állampolgárságról lemondó nyilatkozatot, valamint az állampolgársági bizonyítvány kiadása iránti kérelmet (a továbbiakban: állampolgársági kérelem) magyar nyelven, az e célra rendszeresített nyomtatványon, személyesen kell benyújtani a kérelmező lakóhelye szerint illetékes települési – fővárosban a kerületi – önkormányzat polgármesteri hivatala anyakönyvvezetőjéhez, a külföldön élő kérelmező esetében az illetékes magyar konzuli tisztviselőhöz.''
