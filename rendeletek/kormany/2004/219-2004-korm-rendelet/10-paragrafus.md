@@ -1,6 +1,6 @@
 ## A minőségi védelem
 
-10. §[^70] (1) Szennyező anyagok felszín alatti vízbe történő bevezetésének megelőzésére vagy korlátozására, a felszín alatti vizek jó minőségi állapotának biztosítása érdekében tevékenység
+10. §[^71] (1) Szennyező anyagok felszín alatti vízbe történő bevezetésének megelőzésére vagy korlátozására, a felszín alatti vizek jó minőségi állapotának biztosítása érdekében tevékenység
 
 a) végzése során szennyező anyag, illetve lebomlása esetén ilyen anyagok keletkezéséhez vezető anyagok használata, illetve elhelyezése csak környezetvédelmi megelőző intézkedéssel, és – az engedélyezhető közvetlen bevezetések kivételével – műszaki védelemmel folytatható;
 
@@ -22,11 +22,11 @@ ab) bevezetése minden olyan mesterséges tóba, amely közvetlen kapcsolatban v
 
 ac) mélyművelésű bányában történő elhelyezése, kivéve az ideiglenes jelleggel, a műszaki üzemi tervben az adott nyersanyag bányászatához engedélyezett anyagot,
 
-ad)[^71] a felszín alatti vizek állapota szempontjából fokozottan érzékeny területen a felszín alatti vízbe történő közvetett bevezetése, kivéve egyedi szennyvízkezelő berendezésekkel tisztított háztartási szennyvíz bevezetésének a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendeletben meghatározott eseteit;
+ad)[^72] a felszín alatti vizek állapota szempontjából fokozottan érzékeny területen a felszín alatti vízbe történő közvetett bevezetése, kivéve egyedi szennyvízkezelő berendezésekkel tisztított háztartási szennyvíz bevezetésének a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendeletben meghatározott eseteit;
 
 b) a felszín alatti vízbe veszélyes anyagok közvetett bevezetése. Ezt a követelményt kell alkalmazni az olyan területen levő, vagy olyan területre ráfolyó időszakos vízfolyásba történő bevezetés esetén is, ahol a felszín alatti víz szintje tartósan alacsonyabban van, mint a vízfolyás fenékszintje.
 
-(2a)[^72] Karsztos területen levő, illetve arra ráfolyó vagy azon átfolyó vízfolyásba vagy időszakos vízfolyásba történő bevezetés – beleértve a tisztított szennyvíz bevezetését is – esetén vizsgálni kell a víz útját. A felszín alatti vízbe történő közvetlen bevezetésre vonatkozó előírásokat kell alkalmazni, ha
+(2a)[^73] Karsztos területen levő, illetve arra ráfolyó vagy azon átfolyó vízfolyásba vagy időszakos vízfolyásba történő bevezetés – beleértve a tisztított szennyvíz bevezetését is – esetén vizsgálni kell a víz útját. A felszín alatti vízbe történő közvetlen bevezetésre vonatkozó előírásokat kell alkalmazni, ha
 
 a) az időszakos vízfolyás a természet védelméről szóló törvényben meghatározott víznyelőt táplál, vagy
 
@@ -42,13 +42,13 @@ c) a felszín alatti vizek állapota szempontjából érzékeny vagy kevésbé �
 
 d) ha az a felszíni vizekben az árvizek, belvizek és aszályok hatásának mérséklése céljából, valamint a vizekkel és vízi utakkal való gazdálkodás érdekében történt beavatkozások eredménye; az ilyen tevékenységeket – beleértve a felszíni vizek üledékének kotrását, és a kikotort anyag elhelyezését – a külön jogszabály előírásaival, valamint a hatósági engedélyekkel összhangban kell végezni feltéve, hogy az ilyen bevezetések nem veszélyeztetik az érintett víztestekre meghatározott környezeti célkitűzések elérését.
 
-(4) A (3) bekezdés szerinti kivételek akkor alkalmazhatók, ha a felügyelőség meggyőződött róla, hogy a felszín alatti vízre – különösen annak minőségére – gyakorolt hatás hatékony figyelemmel kísérése megfelelő módon biztosított.
-
-(5) Nem igényel a 6. § (1) bekezdésének a) pontja szerinti intézkedést szennyező anyag bevezetése felszín alatti vízbe, földtani közegbe, ha
+(4)[^74] Nem igényel a 6. § (1) bekezdés a) pontja szerinti intézkedést a szennyező anyag felszín alatti vízbe, földtani közegbe történő bevezetése, ha
 
 a) olyan baleset, illetve rendkívüli természeti körülmény következménye, amely ésszerűen előre nem látható, el nem kerülhető vagy nem mérsékelhető, vagy
 
 b) műszakilag nem előzhető meg, illetve nem korlátozható az emberi egészséget vagy a környezet egészének minőségét fokozottan veszélyeztető intézkedések nélkül.
+
+(5)[^75] A (3) és (4) bekezdés szerinti kivételek akkor alkalmazhatók, ha a felügyelőség meggyőződött róla, hogy a felszín alatti vízre – különösen annak minőségére – gyakorolt hatás hatékony figyelemmel kísérése megfelelő módon biztosított.
 
 (6) A veszélyes anyagok elhelyezése esetén – kivéve a (3) bekezdés szerinti eseteket – olyan környezetvédelmi megelőző intézkedéseket (különösen műszaki védelmet) kell alkalmazni, amelyek megakadályozzák, hogy az ilyen szennyező anyagok a felszín alatti vízbe juthassanak.
 
@@ -62,6 +62,8 @@ b) műszakilag nem előzhető meg, illetve nem korlátozható az emberi egészs�
 
 (11) Az (E) egyedi szennyezettségi határérték addig alkalmazható, míg a földtani közeg és a felszín alatti víz állapota tovább nem romlik, és a szennyezettség nem mutat emelkedő tendenciát a monitoring eredmények alapján.
 
-[^70]: A 10. § a 302/2008. (XII. 17.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^71]: A 10. § (2) bekezdés a) pont ad) alpontja a 147/2010. (IV. 29.) Korm. rendelet 80. § (2) bekezdésével megállapított szöveg.
-[^72]: A 10. § (2a) bekezdését a 230/2010. (VIII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^71]: A 10. § a 302/2008. (XII. 17.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^72]: A 10. § (2) bekezdés a) pont ad) alpontja a 147/2010. (IV. 29.) Korm. rendelet 80. § (2) bekezdésével megállapított szöveg.
+[^73]: A 10. § (2a) bekezdését a 230/2010. (VIII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^74]: A 10. § (4) bekezdése a 124/2012. (VI. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^75]: A 10. § (5) bekezdése a 124/2012. (VI. 26.) Korm. rendelet 2. §-ával megállapított szöveg.

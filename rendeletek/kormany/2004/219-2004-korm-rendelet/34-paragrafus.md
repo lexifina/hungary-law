@@ -6,9 +6,9 @@
 
 34. § (1) E rendelet tárgyával összefüggő irányítási, hatósági, szabályozási, nyilvántartási, tervezési, végrehajtási, ellenőrzési, statisztikai, tájékoztatási, adatszolgáltatási feladatok ellátása érdekében az érintett miniszterek gondoskodnak a nyilvántartási rendszerekhez való hozzáférésről és azok összehangolt működéséről.
 
-(2)[^206] Ha jogszabály másként nem rendelkezik, a felszín alatti vizek és víztestek állapotával és a földtani közeg minőségével kapcsolatos nemzetközi adatszolgáltatásokért, valamint a felszín alatti vizek védelmére irányuló uniós jogi aktusok végrehajtásáról szóló jelentéstételi kötelezettségek teljesítésért – az érintett miniszterek bevonásával – a miniszter felelős.
+(2)[^209] Ha jogszabály másként nem rendelkezik, a felszín alatti vizek és víztestek állapotával és a földtani közeg minőségével kapcsolatos nemzetközi adatszolgáltatásokért, valamint a felszín alatti vizek védelmére irányuló uniós jogi aktusok végrehajtásáról szóló jelentéstételi kötelezettségek teljesítésért – az érintett miniszterek bevonásával – a miniszter felelős.
 
-(3)[^207] A vízügyi igazgatási szervek irányításáért felelős miniszter a felszín alatti víz és földtani közeg veszélyeztetésével, terhelésével, szennyezésével, károsításával és kármentesítésével, továbbá mindezek hatásával összefüggő információk és adatok gyűjtésére, kezelésére és nyilvántartására az irányítása alatt álló vízügyi igazgatási szervek útján állami feladatként, a Kvt. 49. § szerinti rendszer részeként, a Kvt. 66. § (2) bekezdése szerinti hatósági nyilvántartási rendszerrel összehangoltan működteti a Felszín alatti vizek és a földtani közegek környezetvédelmi nyilvántartási rendszerét (FAVI).
+(3)[^210] A vízügyi igazgatási szervek irányításáért felelős miniszter a felszín alatti víz és földtani közeg veszélyeztetésével, terhelésével, szennyezésével, károsításával és kármentesítésével, továbbá mindezek hatásával összefüggő információk és adatok gyűjtésére, kezelésére és nyilvántartására az irányítása alatt álló vízügyi igazgatási szervek útján állami feladatként, a Kvt. 49. § szerinti rendszer részeként, a Kvt. 66. § (2) bekezdése szerinti hatósági nyilvántartási rendszerrel összehangoltan működteti a Felszín alatti vizek és a földtani közegek környezetvédelmi nyilvántartási rendszerét (FAVI).
 
 (4) A FAVI központja a minisztérium, regionális központjai a felügyelőségek.
 
@@ -24,7 +24,7 @@ d) állapotával kapcsolatos követelményekre,
 
 e) védelméhez kapcsolódó környezetvédelmi intézkedésekre,
 
-f)[^208] a szennyező anyagok bevezetésére, elhelyezésére vonatkozó tilalmak és korlátozások alóli – a 9. § (5), 10. § (3) és (4), valamint a 11. § (2) bekezdései szerinti – mentességekre
+f)[^211] a szennyező anyagok bevezetésére, elhelyezésére vonatkozó tilalmak és korlátozások alóli – a 9. § (6), 10. § (3) és (4), valamint a 11. § (2) bekezdései szerinti – mentességekre
 
 ## vonatkozó adatokat, információkat gyűjtő, nyilvántartó, feldolgozó és szolgáltató rendszer.
 
@@ -42,6 +42,6 @@ d) más szervektől átvett adatokból
 
 (7) A FAVI feladatainak ellátásához szükséges, a már működő országos adatszolgáltatások, illetve információs rendszerek keretében gyűjtött adatokat más állami szervektől történő adatátvétellel, szükség esetén erről szóló megállapodás keretében kell biztosítani.
 
-[^206]: A 34. § (2) bekezdése a 302/2008. (XII. 17.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^207]: A 34. § (3) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^208]: A 34. § (5) bekezdésének f) pontját a 302/2008. (XII. 17.) Korm. rendelet 15. § (2) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^209]: A 34. § (2) bekezdése a 302/2008. (XII. 17.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^210]: A 34. § (3) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^211]: A 34. § (5) bekezdésének f) pontját a 302/2008. (XII. 17.) Korm. rendelet 15. § (2) bekezdése iktatta be, szövege a 124/2012. (VI. 26.) Korm. rendelet 3. §-a szerint módosított szöveg.

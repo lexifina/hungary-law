@@ -42,6 +42,8 @@ bb) a szilárd ásványi nyersanyagok bányászatához kapcsolódó, az ásvány
 
 bc) a mélyépítési, illetve fenntartási munkák során.
 
+(7)[^70] A (6) bekezdés szerinti kivételek akkor alkalmazhatók, ha a felügyelőség meggyőződött róla, hogy a felszín alatti vízre – különösen annak minőségére – gyakorolt hatás hatékony figyelemmel kísérése megfelelő módon biztosított.
+
 [^63]: A 9. § új (2) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 6. §-a iktatta be, egyidejűleg az eredeti (2)–(5) bekezdés számozását (3)–(6) bekezdésre változtatva. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
 [^64]: A 9. § eredeti (2) bekezdésének számozását a 302/2008. (XII. 17.) Korm. rendelet 6. §-a (3) bekezdésre változtatta.
 [^65]: A vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló 123/1997. (VII. 18.) Korm. rendelet.
@@ -49,3 +51,4 @@ bc) a mélyépítési, illetve fenntartási munkák során.
 [^67]: A 9. § eredeti (4) bekezdésének számozását a 302/2008. (XII. 17.) Korm. rendelet 6. §-a (5) bekezdésre változtatta.
 [^68]: 221/2004. (VII. 21.) Korm. rendelet a vízgyűjtő-gazdálkodás egyes szabályairól.
 [^69]: A 9. § eredeti (5) bekezdésének számozását a 302/2008. (XII. 17.) Korm. rendelet 6. §-a (6) bekezdésre változtatta.
+[^70]: A 9. § (7) bekezdését a 124/2012. (VI. 26.) Korm. rendelet 1. §-a iktatta be.
