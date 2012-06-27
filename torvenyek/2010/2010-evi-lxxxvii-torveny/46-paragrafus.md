@@ -1,9 +1,1 @@
-46. § (1) A szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény (a továbbiakban: Ámt.) 25. §-ának (6) bekezdésében a „és a Magyar Nemzeti Földalap Kht. kezelésébe kerülnek, kivéve a védett vagy védelemre tervezett területek.” szövegrész helyébe a „és a Nemzeti Földalapba kerülnek.” szöveg lép.
-
-(2) Az Ámt. 25/A. §-a helyébe a következő rendelkezés lép:
-
-„25/A. § (1) Ha a részarány-földkiadási eljárás lezárását követően a jogutód nélkül megszűnt, illetve felszámolás, végelszámolás alatt álló szövetkezet javára bejegyzett szövetkezeti földhasználati jog alatt álló földrészlet (a továbbiakban: maradványterület) szerepel az ingatlan-nyilvántartásban, a maradványterületet a mezőgazdasági igazgatási szerv határozattal a Magyar Állam tulajdonába adja. A maradványterület a Nemzeti Földalapba kerül.
-
-(2) Az (1) bekezdésben foglalt részarány-földkiadási eljárás akkor tekinthető lezártnak, ha a szövetkezet valamennyi termelőszövetkezeti különlapján nyilvántartott részarány-tulajdon kiadásra került és a termelőszövetkezeti különlapokat az ingatlanügyi hatóság megszüntette. A termelőszövetkezeti különlapok megszüntetését követően az ingatlanügyi hatóság 60 napon belül elkészíti a szövetkezet záró aranykorona-mérlegét, és helyrajzi számok szerint összesíti a maradványterületeket. Az ingatlanügyi hatóság a záró aranykorona-mérleget és az összesített maradványterületek adatait (helyrajzi szám, terület, aranykorona érték) közli a mezőgazdasági igazgatási szervvel.
-
-(3) A mezőgazdasági igazgatási szerv a záró aranykorona-mérleg és az összesített maradványterületek adatainak közlését követő 30 napon belül hozza meg az (1) bekezdés szerinti határozatot.”
+46. §
