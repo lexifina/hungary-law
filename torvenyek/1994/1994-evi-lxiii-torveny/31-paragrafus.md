@@ -1,3 +1,0 @@
-31. § Az Ötv. 50. §-a a következő (1) bekezdéssel egészül ki, és a § jelenlegi szövege a (2) bekezdés számozást kapja:
-
-,,(1) A helyi népszavazás lebonyolításánál a helyi önkormányzati képviselők és polgármesterek választásáról szóló törvénynek a választók nyilvántartásáról, a szavazókörökről, a választási szervekről, a szavazásról szóló rendelkezéseit kell megfelelően alkalmazni. A képviselő-testület a helyi népszavazás kiírásakor az önkormányzati képviselők és polgármesterek választásáról szóló törvényben előírt határidőktől, határnapoktól eltérhet. A helyi népszavazás eredményéről a választási bizottság tájékoztatja a képviselő-testületet.''

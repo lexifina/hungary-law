@@ -1,1 +1,0 @@
-42. § Az Ötv. 72. §-a (1) bekezdésének második mondatában a ,,képviselő-testület (a továbbiakban: megyei közgyűlés)'' szövegrész helyébe a ,,közgyűlés'' szövegrész lép, és az (1) bekezdés jelölés megszűnik.
