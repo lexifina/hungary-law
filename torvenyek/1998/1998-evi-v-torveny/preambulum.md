@@ -1,1 +1,0 @@
-Az Országgyűlés a helyi önkormányzatok címzett és céltámogatási rendszeréről szóló, többször módosított 1992. évi LXXXIX. törvény 3. §-ában foglaltak alapján a helyi önkormányzatok 1998. évi új címzett támogatásáról a következő törvényt alkotja:
