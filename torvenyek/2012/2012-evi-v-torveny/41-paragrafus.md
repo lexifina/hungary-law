@@ -1,0 +1,1 @@
+41. § Mentesül a közigazgatási felsővezetői képzés és vizsga alól az, aki 2012. szeptember 1-jét megelőzően állami vezetői megbízatással vagy a Ktv. 2009. november 11-én hatályos 31. § (10) bekezdésében meghatározott vezetői megbízással, kinevezéssel legalább egy évig rendelkezett.

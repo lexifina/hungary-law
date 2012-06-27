@@ -1,0 +1,1 @@
+39. § A Ktjv. 2011. június 1-jén hatályos 8. § (2) bekezdés a), b) és e) pontjában és a Ktv. 2011. június 1-jén hatályos 17. § (2) bekezdés a), b) és d) pontjában meghatározott felmentés csak 2011. június 1-jét követően bekövetkezett okon alapulhat.
