@@ -1,1 +1,0 @@
-A munkavállalói tulajdonlás eddig kialakult rendszerének továbbfejlesztése, az e célra létrehozott szervezetek fennmaradásának biztosítása, működési lehetőségeik további növelése és jogainak bővítése céljából az Országgyűlés a Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvényt (a továbbiakban: Mrpt.) a következők szerint módosítja:
