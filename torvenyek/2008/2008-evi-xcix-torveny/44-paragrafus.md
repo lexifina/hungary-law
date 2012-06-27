@@ -86,11 +86,11 @@
 
 40. értéknövelő beruházás: az előadó-művészeti szervezet létesítő okiratában meghatározott tevékenységéhez kapcsolódó szolgáltatások bővítését, illetve minőségének javítását, továbbá az üzemeltetés hatékonyságát, költségeinek csökkentését szolgáló fejlesztés,
 
-41. felújítás: az üzemeltetéssel érintett ingatlan egészére (teljes felújítás), illetőleg egy vagy több főszerkezetére, illetve a színpadtechnikára kiterjedő (részleges felújítás), időszakonként szükségessé váló olyan általános javítási építés-szerelési munkák végzése, amelyek az eredeti műszaki állapotot – megközelítőleg vagy teljesen – visszaállítják, illetőleg az eredeti használhatóságot, üzembiztonságot az egyes szerkezetek, berendezések kicserélésével vagy az eredetitől eltérő kialakításával növelik,
+41. felújítás: az üzemeltetéssel érintett ingatlan egészére (teljes felújítás), egy vagy több főszerkezetére, illetve a színpadtechnikára kiterjedő (részleges felújítás), időszakonként szükségessé váló olyan általános javítási építés-szerelési munkák végzése, amelyek az eredeti műszaki állapotot – megközelítőleg vagy teljesen – visszaállítják, az eredeti használhatóságot, üzembiztonságot az egyes szerkezetek, berendezések kicserélésével vagy az eredetitől eltérő kialakításával növelik,
 
 42. gyermek- és ifjúsági színház: egy évadon belüli bemutatóinak legalább 80%-át kitevő mértékig a 0–18 éves korosztályok életkori értelmi-érzelmi sajátosságainak megfelelő és e korosztályok színházi igényeinek kielégítését célzó előadó-művészeti tevékenységet végző színház,
 
-43. karbantartás: az üzemeltetéssel érintett ingatlan és eszközök állagának, rendeltetésszerű használhatóságának biztosítása érdekében szükséges megelőző munkák (időszerű vagy tervszerű karbantartás), továbbá felújításnak nem minősülő javítási munkák elvégzése, illetőleg egyes berendezések cseréje (hibaelhárítás),
+43. karbantartás: az üzemeltetéssel érintett ingatlan és eszközök állagának, rendeltetésszerű használhatóságának biztosítása érdekében szükséges megelőző munkák (időszerű vagy tervszerű karbantartás), továbbá felújításnak nem minősülő javítási munkák elvégzése, illetve egyes berendezések cseréje (hibaelhárítás),
 
 44. klasszikus szerző műve: klasszikus szerzőtől származó műnek kell tekinteni azt a művet, amely a bemutató időpontját megelőzően legalább 15 éve elhunyt szerzőtől származik. Szerzőtársak esetében a később elhunyt szerzőtárs halálának időpontja irányadó,
 

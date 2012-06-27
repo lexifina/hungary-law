@@ -1,4 +1,4 @@
-13. § (1) Az állam, illetve az önkormányzat az előadó-művészeti szolgáltatások (a továbbiakban: szolgáltatások) tartós biztosítására nem állami fenntartású előadó-művészeti szervezettel legalább három évre előadó-művészeti közszolgáltatási szerződést köthet.
+13. § (1) Az állam, illetve az önkormányzat az előadó-művészeti szolgáltatások (a továbbiakban: szolgáltatások) tartós biztosítására nyilvántartott előadó-művészeti szervezettel legalább három évre előadó-művészeti közszolgáltatási szerződést köthet.
 
 (2) A közszolgáltatási szerződés tartalmazza
 

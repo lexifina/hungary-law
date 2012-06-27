@@ -8,7 +8,7 @@ c) e törvény szerinti egyéb támogatást
 
 nyújt.
 
-(2) Az (1) bekezdés szerinti támogatás állami vagy önkormányzati fenntartású előadó-művészeti szervezet számára csak abban az esetben nyújtható, ha az a magyar állammal vagy az önkormányzattal a támogatás folyósításakor hatályos, legalább 3 éves fenntartói megállapodást kötött. Fenntartói megállapodás csak teljes naptári évre köthető.
+(2) Az (1) bekezdés szerinti támogatás állami vagy önkormányzati fenntartású előadó-művészeti szervezet számára csak abban az esetben nyújtható, ha az állammal vagy az önkormányzattal a támogatás folyósításakor hatályos, legalább 3 éves fenntartói megállapodást kötött. Fenntartói megállapodás csak teljes naptári évre köthető.
 
 (3) A fenntartói megállapodásban a művészeti tevékenységgel [17. § (3) bekezdés], az előadó-művészeti szervezet létesítő okiratában meghatározott egyéb tevékenységgel és a gazdálkodással (pénzügyi egyensúly fenntartása, illetve megteremtése, kapacitások kihasználtsága, eszköz- és erőforrás-gazdálkodás hatékonysága) összefüggésben az előadó-művészeti szervezettől elvárt teljesítményt az adott területre jellemző mutatókkal, illetve megfelelő követelményleírással kell meghatározni.
 

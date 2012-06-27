@@ -6,7 +6,7 @@ b) ezt az előadó-művészeti szervezet fenntartója, ennek hiányában az elő
 
 c) az előadó-művészeti szervezet jogutód nélkül megszűnt,
 
-d) a nyilvántartásba vételétől számított öt éven át az előadó-művészeti szervezet – ide nem értve a magyar állam által fenntartott, valamint a közszolgáltatási szerződéssel rendelkező előadó-művészeti szervezetet – nem részesült az e törvényben meghatározott támogatásból.
+d) a nyilvántartásba vételétől számított öt éven át az előadó-művészeti szervezet – ide nem értve az állam által fenntartott, valamint a közszolgáltatási szerződéssel rendelkező előadó-művészeti szervezetet – nem részesült az e törvényben meghatározott támogatásból.
 
 2. CÍM
 

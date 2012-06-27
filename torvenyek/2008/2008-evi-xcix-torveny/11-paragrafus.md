@@ -2,7 +2,7 @@
 
 (2) Azt az előadó-művészeti szervezetet lehet nemzeti előadó-művészeti szervezetnek minősíteni, amelynek
 
-a) fenntartója a magyar állam vagy az e törvény szerinti közszolgáltatási szerződése van a magyar állammal,
+a) fenntartója az állam vagy az e törvény szerinti közszolgáltatási szerződése van az állammal,
 
 b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészei – ide nem értve a gyermek- és csoportos szereplőket – legalább 70%-a szakirányú felsőfokú végzettséggel vagy a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 63. § (2) bekezdésében meghatározott elismeréssel rendelkezik,
 

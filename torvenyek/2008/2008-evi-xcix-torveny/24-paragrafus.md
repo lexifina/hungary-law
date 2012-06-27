@@ -10,7 +10,7 @@ bb) művészeti támogatásának összegét az egyes színházakra is
 
 lebontva határozza meg.
 
-(2) A központi költségvetésről szóló törvénynek a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetében kell biztosítani
+(2) A (3) bekezdésben meghatározott kivétellel a központi költségvetésről szóló törvénynek a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetében kell biztosítani
 
 a) a nyilvántartott színházak, balett- vagy táncegyüttesek önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét, valamint
 
@@ -18,9 +18,9 @@ b) a nyilvántartott zenekarok, énekkarok önkormányzati fenntartóit, önkorm
 
 (3) A kultúráért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetési fejezetében kell biztosítani:
 
-a) a nyilvántartásba vett állami fenntartású színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok központi költségvetésből származó támogatását,
+a) az állam által fenntartott, nyilvántartásba vett és önkormányzattal kötött közszolgálati szerződéssel nem rendelkező színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok központi költségvetésből származó támogatását,
 
-b) a magyar állammal kötött közszolgáltatási szerződéssel rendelkező előadó-művészeti szervezet támogatását,
+b) az állammal kötött közszolgáltatási szerződéssel rendelkező, nem önkormányzati fenntartású előadó-művészeti szervezet támogatását,
 
 c) az e törvény alapján pályázati úton nyújtható támogatások előirányzatát, valamint
 

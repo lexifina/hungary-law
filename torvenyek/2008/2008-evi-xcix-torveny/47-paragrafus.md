@@ -14,7 +14,7 @@ a) a nyilvántartásba vételre, a nyilvántartáshoz szükséges adatszolgálta
 
 b) a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek a 11. § és a 12. § alapján megállapított körét,
 
-c) a 6. § (3) bekezdése szerinti igazgatási szolgáltatási díj mértékét az adópolitikáért felelős miniszterrel egyetértésben kiadott,
+c) a 6. § (3) bekezdése szerinti igazgatási szolgáltatási díj mértékét, a beszedésére jogosult személyét, a fizetési számla megnevezését és számát, az igazgatási szolgáltatási díj kezelésének, nyilvántartásának és visszatérítésének módját az adópolitikáért felelős miniszterrel egyetértésben kiadott,
 
 d) a fizető nézőszám alsó határát,
 
