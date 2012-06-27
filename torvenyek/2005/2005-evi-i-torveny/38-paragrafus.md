@@ -1,3 +1,0 @@
-## Harmadik Fejezet
-
-38. §

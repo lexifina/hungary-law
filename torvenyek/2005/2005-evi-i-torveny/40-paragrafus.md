@@ -1,3 +1,0 @@
-## Ötödik fejezet
-
-40. §

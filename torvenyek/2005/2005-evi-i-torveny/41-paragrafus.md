@@ -1,3 +1,0 @@
-## Hatodik Fejezet
-
-41. §
