@@ -1,5 +1,0 @@
-58. § (1) Ez a törvény a tengeri szállítási ágazatban bekövetkező balesetek kivizsgálására irányadó alapelvek megállapításáról, valamint az 1999/35/EK tanácsi és a 2002/59/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2009. április 23-i 2009/18/EK európai parlamenti és tanácsi irányelvének – az I. és II. melléklet kivételével – való megfelelést szolgálja.
-
-(2) Ez a törvény a közösségi vasutak biztonságáról, valamint a vasúttársaságok engedélyezéséről szóló 95/18/EK tanácsi irányelv és a vasúti infrastruktúrakapacitás elosztásáról, továbbá a vasúti infrastruktúra használati díjának felszámításáról és a biztonsági tanúsítványról szóló 2001/14/EK irányelv módosításáról szóló, 2004. április 29-i 2004/49/EK európai parlamenti és tanácsi irányelvének való megfelelést szolgálja.
-
-(3) Ez a törvény a polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
