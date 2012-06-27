@@ -7,3 +7,5 @@
 (3) Az igazságügyért felelős miniszter (a továbbiakban: miniszter) rendelettel állapítja meg annak a közjegyzőnek az illetékességi területét, akinek a székhelyén nem működik bíróság.
 
 (4) A közjegyző helyszíni eljárást az illetékességi területén folytathat.
+
+(5) A közjegyzői szolgáltatások zavartalanságának és megfelelő színvonalának biztosítása érdekében a miniszter a Magyar Országos Közjegyzői Kamara és az Országos Bírósági Hivatal elnöke véleményének beszerzését követően évente felülvizsgálja a közjegyzői állások számát és székhelyét.

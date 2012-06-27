@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-41-00-00
 | 2011-07-27 | 2011. évi CII. törvény | 1991-41-00-00.30 |
 | 2012-01-01 | 2011. évi CCI. törvény | 1991-41-00-00.31 |
 | 2012-03-01 | 2011. évi CXCVII. törvény | 1991-41-00-00.32 |
+| 2012-06-27 | 2012. évi LXXVI. törvény | 1991-41-00-00.33 |
