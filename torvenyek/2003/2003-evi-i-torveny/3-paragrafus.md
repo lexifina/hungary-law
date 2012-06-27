@@ -1,3 +1,0 @@
-3. § Az Ötv. 64/C. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-,,(2) Mindaddig, amíg a fővárosi közgyűlés az érintett forrásoknak a fővárosi önkormányzatok közötti megosztásáról nem dönt, az állandó népességszám egészéhez kapcsolódó – kivéve a 64/B. §-ának a) pontját – normatív központi hozzájárulások és az átengedett központi adókból az önkormányzatokat megillető részt az Államháztartási Hivatal – a felmerülő személyi jellegű juttatásokat és egyéb kifizetéseket terhelő levonások, járulékok teljesítését és elszámolását követően – a fővárosi önkormányzatnak és az egyes kerületi önkormányzatoknak közvetlenül, az előző évi forrásmegosztási rendelet alapján számított arányok szerint utalja át.''
