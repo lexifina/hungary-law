@@ -1,3 +1,0 @@
-3. § Az Ötv. 9. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A 8. § (4) bekezdés szerinti helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elöl el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozási (parkolási) közszolgáltatást a helyi önkormányzat, vagy kizárólag ezen közszolgáltatási feladat ellátására alapított költségvetési szerv, kizárólagos önkormányzati tulajdonban álló, jogi személyiséggel rendelkező gazdasági társaság, vagy e gazdasági társaság 100%-os tulajdonában álló jogi személyiséggel rendelkező gazdasági társaság, illetve önkormányzati társulás láthatja el külön törvényben szabályozottak szerint.”
