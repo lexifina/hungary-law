@@ -1,3 +1,0 @@
-7. § (1) Ez a törvény a kihirdetését követő nyolcadik napon lép hatályba. Ezzel egyidejűleg hatályát veszti a Kvtv. 101. § (1) bek. d) pontja.
-
-(2) Ha a személyes gondoskodást nyújtó szociális, illetve gyermekjóléti, gyermekvédelmi intézmény, szolgáltató nem állami fenntartója a működési engedélyt 2006. január 1-jét követően szerezte meg, a normatív állami hozzájárulásra a működési engedély jogerőre emelkedésétől jogosult, ha megfelel a Kvtv. 3. számú mellékletében meghatározott feltételeknek, és a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 30. §-ának (6) bekezdése szerinti bejelentési kötelezettségének eleget tett.
