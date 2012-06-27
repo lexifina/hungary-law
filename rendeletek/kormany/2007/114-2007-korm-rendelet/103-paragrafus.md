@@ -4,7 +4,7 @@
 
 (2) A jogszerű tartózkodás megszakítása esetén a tartózkodási idő számítása újra kezdődik.
 
-(3)[^171] A Tv. 35. §-a alkalmazásában jogszerű tartózkodásnak minősül
+(3)[^174] A Tv. 35. §-a alkalmazásában jogszerű tartózkodásnak minősül
 
 a) a három hónapot meghaladó tartózkodásra jogosító vízummal,
 
@@ -26,4 +26,4 @@ a) külföldi intézményben történő gyógykezelésről szóló igazolással;
 
 b) a gyakori külföldi kiküldetéssel járó munkakör betöltéséről szóló igazolással, illetve a kiküldetések – a munkáltatói jogkör gyakorlója által hitelesített – listájával.
 
-[^171]: A 103. § (3) bekezdés záró szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^174]: A 103. § (3) bekezdés záró szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.

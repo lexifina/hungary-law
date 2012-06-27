@@ -1,4 +1,4 @@
-## 98. §[^167] A bevándorolt vagy letelepedett harmadik országbeli állampolgárnak a Magyarország területén született gyermeke részére – a születés bejelentésére szolgáló, külön jogszabályban meghatározott formanyomtatvány alapján – a regionális igazgatóság az ideiglenes letelepedési engedélyt vagy nemzeti letelepedési engedélyt soron kívül, de legkésőbb öt napon belül adja ki.
+## 98. §[^170] A bevándorolt vagy letelepedett harmadik országbeli állampolgárnak a Magyarország területén született gyermeke részére – a születés bejelentésére szolgáló, külön jogszabályban meghatározott formanyomtatvány alapján – a regionális igazgatóság az ideiglenes letelepedési engedélyt vagy nemzeti letelepedési engedélyt soron kívül, de legkésőbb öt napon belül adja ki.
 
 ## Ideiglenes letelepedési engedély
 
@@ -18,4 +18,4 @@ d) családtagként történő kérelmezés esetén a Tv. 34. § (2) bekezdéséb
 
 (4) Az ideiglenes letelepedési engedély meghosszabbítása esetén a kérelmezőnek – amennyiben nyilatkozata szerint a megelőző kérelmezéshez képest megélhetési és lakhatási körülményei változatlanok – csak a (3) bekezdésben meghatározott okiratot kell benyújtania.
 
-[^167]: A 98. § a 290/2010. (XII. 21.) Korm. rendelet 125. § (8) bekezdése, a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^170]: A 98. § a 290/2010. (XII. 21.) Korm. rendelet 125. § (8) bekezdése, a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.

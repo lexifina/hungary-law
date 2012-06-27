@@ -1,5 +1,5 @@
-151. § (1)[^257] A munkáltató székhelye szerint illetékes regionális igazgatóság a Tv. 71. § (1)–(4) bekezdésében meghatározott kötelezettségét elmulasztó munkáltatót foglalkoztatottanként ötszázezer forintig terjedő közrendvédelmi bírsággal sújthatja.
+151. § (1)[^262] A munkáltató székhelye szerint illetékes regionális igazgatóság a Tv. 71. § (1)–(4) bekezdésében meghatározott kötelezettségét elmulasztó munkáltatót foglalkoztatottanként ötszázezer forintig terjedő közrendvédelmi bírsággal sújthatja.
 
 (2) A bírság kiszabására a regionális igazgatóságnak az (1) bekezdésben meghatározott cselekményről való tudomásszerzésétől számított egy éven túl nincs lehetősége.
 
-[^257]: A 151. § (1) bekezdése a 168/2011. (VIII. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^262]: A 151. § (1) bekezdése a 168/2011. (VIII. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
