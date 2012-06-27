@@ -1,7 +1,0 @@
-21. § (1) Az Szt. 53. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az 50. § (3) bekezdése alapján kiállított igazolvány után a települési önkormányzat – a (2) bekezdés szerinti eltéréssel – térítést fizet. A térítés az igazolvány kiállítását követő egyéves időtartamra szól. A térítés összege a megállapított gyógyszerkeret éves összegének 30%-a, amelyet a jogosultság kezdetétől számított három munkanapon belül az egészségbiztosítási szervnek át kell utalni. Amennyiben az egyéni gyógyszerkeret év közbeni felülvizsgálata során fél évnél hosszabb időtartamra magasabb gyógyszerkeret kerül megállapításra, a különbözet 6 havi összegének 30%-át is át kell utalni az egészségbiztosítási szerv részére. Amennyiben a települési önkormányzat a jogosultság kezdetétől számított 30 napon belül fizetési kötelezettségének nem tesz eleget, az egészségbiztosítási szerv követelését az önkormányzat költségvetési elszámolási számlájáról azonnali beszedési megbízás benyújtásával érvényesítheti. Az egészségbiztosítási szerv megkeresésére a Magyar Államkincstár az önkormányzat költségvetési elszámolási számlaszámát közli.”
-
-(2) Az Szt. 53. §-ának (3) bekezdése a következő mondattal egészül ki:
-
-„Amennyiben az egyéni gyógyszerkeret év közbeni felülvizsgálata során fél évnél hosszabb időtartamra alacsonyabb gyógyszerkeret kerül megállapításra, az önkormányzat visszaigényelheti az egészségbiztosítási szervtől a különbözet 6 havi összegének 30%-át.”
