@@ -1,3 +1,0 @@
-76/A. § A Kbt. 325. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a kérelem a 324. § (1) bekezdése szerinti adatokat nem tartalmazza, vagy a 324. § (3) bekezdése szerinti díj befizetéséről szóló igazolást, illetőleg a meghatalmazott képviselő meghatalmazását nem csatolták, vagy – ha a kérelem e törvény második része szerinti közbeszerzéshez vagy annak mellőzéséhez kapcsolódik – a kérelmet nem elektronikus úton vagy elektronikus úton, de nem olvasható formában nyújtották be, a Közbeszerzési Döntőbizottság felhívja a kérelmezőt a hiányok öt napon belüli pótlására, és egyben figyelmezteti, hogy ha a kérelmet újból hiányosan nyújtja be, a Közbeszerzési Döntőbizottság azt el fogja utasítani.”
