@@ -1,1 +1,0 @@
-36. § Az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény módosításáról szóló 2011. évi LIX. törvény 4. § (13) bekezdésének a VET. 178/E. § (4) bekezdését megállapító rendelkezése „A 2010.” szövegrész helyett a „A 2011.” szöveggel lép hatályba.
