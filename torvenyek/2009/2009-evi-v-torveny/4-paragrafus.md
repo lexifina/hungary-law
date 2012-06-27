@@ -1,1 +1,0 @@
-4. § A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) 14. §-ának (9) bekezdésében az „1,2%-át” szövegrész helyébe a „2%-át” szövegrész, az „1,2%-a” szövegrész helyébe a „2%-a” szövegrész lép.
