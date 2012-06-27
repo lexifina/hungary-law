@@ -1,3 +1,0 @@
-1. melléklet a 164/2005. (VIII. 16.) Korm. rendelethez[^11]
-
-[^11]: Az 1. melléklet a 170/2009. (VIII. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 4. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 4. (5) bekezdés alapján a mobil rádiótelefon-hálózatokban az előfizetői szám alakú tárcsázás megszűnéséről a szolgáltató a megszűnést megelőző harmincadik napig köteles a saját előfizetőit tájékoztatni; 4. § (6) bekezdése alapján az 1. melléklet 2.3.2. pontjában meghatározott előfizetői számtartományban a 0-val és 1-gyel kezdődő résztartományokból számmező csak 2010. január 15-ét követően jelölhető ki.
