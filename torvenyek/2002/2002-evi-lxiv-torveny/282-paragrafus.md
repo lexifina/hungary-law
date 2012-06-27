@@ -1,3 +1,0 @@
-282. § (1) E törvény IV. fejezetének rendelkezéseit – a (2) bekezdésben foglalt eltéréssel – a hatálybalépést követően megkötött lakáselőtakarékossági szerződésekre, áthidaló kölcsönszerződésekre és lakáskölcsön szerződésekre kell alkalmazni. Az e törvény hatálybalépése előtt megkötött lakáselőtakarékossági szerződésekre a szerződés megkötésének időpontjában hatályos rendelkezések az irányadók.
-
-(2) E törvény 232. §-át, 233. §-ának (2)–(4) és (6) bekezdését és 235. §-ának (4) bekezdését a hatálybalépést megelőzően kötött szerződésekre is alkalmazni kell, ha a kiutalási időszak, a lakáselőtakarékoskodó halála, a kiskorú gyámságát ellátó személy változása, illetve az áthidaló kölcsönre vonatkozó hitelkérelem benyújtása a törvény hatálybalépése utáni időszakra esik.
