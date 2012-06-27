@@ -1,8 +1,14 @@
-172. § (1) Az elnök megbízatása megszűnik:
+172. § (1) Az elnök megbízatása megszűnik
 
-a) a képviselői megbízatás megszűnésével,
+a) az elnöki tisztségről történő lemondásával,
 
-b) az elnöki tisztségnek a bíróság által történő – a (3) bekezdés szerinti – megszüntetésével.
+b) az összeférhetetlenség kimondásával,
+
+c) képviselői megbízatása megszűnésével,
+
+d) az elnöki tisztségnek a bíróság által történő – (3) bekezdés szerinti – megszüntetésével,
+
+e) halálával.
 
 (2) Az elnök megbízatása visszahívással nem szüntethető meg.
 
