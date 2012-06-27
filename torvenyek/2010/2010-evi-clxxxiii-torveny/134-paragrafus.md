@@ -1,3 +1,0 @@
-134. § A Be. 85. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A kihallgatás elején tisztázni kell, hogy nincs-e a tanú vallomástételének akadálya (81–82. §). Ha a tanú vallomástételének nincs akadálya, figyelmeztetni kell arra, hogy köteles a legjobb tudomása és lelkiismerete szerint az igazat vallani, továbbá arra, hogy a hamis tanúzást a törvény szabadságvesztéssel rendeli büntetni. A figyelmeztetést, valamint a tanúnak a figyelmeztetésre adott válaszát jegyzőkönyvbe kell venni. A figyelmeztetés és a figyelmeztetésre adott válasz jegyzőkönyvezésének elmaradása esetén a tanú vallomása bizonyítási eszközként nem vehető figyelembe.”

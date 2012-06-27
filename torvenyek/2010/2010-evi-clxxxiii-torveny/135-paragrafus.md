@@ -1,3 +1,0 @@
-135. § A Be. 117. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A terheltet a kihallgatásának megkezdésekor figyelmeztetni kell arra, hogy nem köteles vallomást tenni, a vallomás tételét, illetve az egyes kérdésekre történő válaszadást a kihallgatás folyamán bármikor megtagadhatja, de bármikor dönthet úgy, hogy vallomást tesz, akkor is, ha korábban a vallomástételt megtagadta. Figyelmeztetni kell arra is, hogy amit mond, illetve rendelkezésre bocsát, bizonyítékként felhasználható. A figyelmeztetést, valamint a terheltnek a figyelmeztetésre adott válaszát jegyzőkönyvbe kell venni. A figyelmeztetés és a figyelmeztetésre adott válasz jegyzőkönyvezésének elmaradása esetén a terhelt vallomása bizonyítási eszközként nem vehető figyelembe.”

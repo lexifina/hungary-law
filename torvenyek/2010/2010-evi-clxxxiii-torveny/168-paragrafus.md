@@ -1,1 +1,0 @@
-168. § A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 23/D. § (6) bekezdésében a „Fővárosi Bíróság kizárólagos illetékességgel,” szövegrész helyébe a „megyei bíróság (Fővárosi Bíróság)” szöveg lép.

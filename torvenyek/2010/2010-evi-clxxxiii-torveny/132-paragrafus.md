@@ -1,3 +1,0 @@
-132. § A Be. 70/B. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-„(10) Az eljárás jogerős befejezését követően az első fokon eljárt bíróság, a nyomozás megszüntetését követően az ügyész, illetve a nyomozó hatóság, az eljárás megszüntetését vagy a vádemelés részbeni mellőzését követően az ügyész a büntetőeljárásban részt vevő személyek kérelmére – a (6)–(8) bekezdésben meghatározottak szerint – legkésőbb a kérelem előterjesztésétől számított nyolc napon belül az eljárás során keletkezett iratról másolatot ad ki. A másolat kiadását a másolat kiadására kötelezett elektronikus adathordozón is teljesítheti.”
