@@ -1,3 +1,0 @@
-31. § A Ktv. 72. § (1) bekezdésének első mondata helyébe a következő mondat lép:
-
-„A köztisztviselő besorolásánál (23. §) a munkaviszonyban, állami vezetői szolgálati jogviszonyban, közszolgálati, közalkalmazotti jogviszonyban, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszonyban, ügyészségi, hivatásos (szerződéses) szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, munkavégzésre irányuló egyéb jogviszonyban töltött időt kell alapul venni azzal, hogy a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamból hat hónapot kell beszámítani.”
