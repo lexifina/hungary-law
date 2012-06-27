@@ -1,3 +1,0 @@
-## Átmeneti rendelkezések
-
-128. § Ha e törvény hatálybalépésekor a helyi önkormányzat képviselő-testülete által megállapított illetményalap meghaladja az e törvény hatálybalépésekor az államigazgatásban érvényes illetményalapot, akkor annak mértéke nem csökkenthető. A polgármester illetményének [Ptv. 3. § (2) bekezdés], tiszteletdíjának [Ptv. 4. § (1) bekezdés], továbbá az önkormányzati képviselő tiszteletdíjának [Ptv. 15. § (1) bekezdés] megállapítása során mindaddig a helyi önkormányzat képviselő-testülete által megállapított illetményalapot kell alkalmazni, amíg az államigazgatásban érvényes illetményalap azt el nem éri.
