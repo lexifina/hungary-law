@@ -1,3 +1,0 @@
-3. § A Ctv. 8. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
-
-,,(3) Ha az éves költségvetés nem ad fedezetet valamennyi, a feltételeknek megfelelően benyújtott új igényre, akkor — a Kormány javaslatára — az Országgyűlés az éves költségvetési törvényben — a szennyvízelvezetés és -tisztítás céljainál vízgazdálkodási szempontokra alapozva — rangsorolja a támogatandó célokat. Az éves támogatási keret felosztásakor a jogosultságot meghatározó szabályt a rangsorolt és csak részben kielégíthető utolsó célnál e törvény 2. számú melléklete határozza meg. Az adott évben ki nem elégíthető igények érvényüket veszítik.''
