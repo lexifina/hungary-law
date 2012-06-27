@@ -1,1 +1,0 @@
-35. § Ez a törvény a közösségi belvízi közlekedésre vonatkozó harmonizált folyami információs szolgáltatásokról szóló, 2005. szeptember 7-ei 2005/44/EK európai parlamenti és tanácsi irányelv 3. cikk f) pontjának és 9. cikkének való megfelelést szolgálja.
