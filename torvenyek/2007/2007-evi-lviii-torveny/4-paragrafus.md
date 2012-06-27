@@ -1,1 +1,0 @@
-4. § A Kvtv. 1. számú mellékletének a XXII. Pénzügyminisztérium fejezet, 17. Egyéb költségvetési kiadások cím, 1. Vegyes kiadások alcím, 19. Mehib Zrt. behajtási jutaléka jogcím-csoportjának címe a „Mehib Zrt. és Eximbank Zrt. behajtási jutaléka” címre változik.
