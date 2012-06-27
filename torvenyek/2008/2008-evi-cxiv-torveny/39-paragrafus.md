@@ -1,7 +1,0 @@
-39. § A Tv. 57. §-ának (3)–(4) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a § a következő (5) bekezdéssel egészül ki:
-
-„(3) Jogosulatlanul igénybe vett támogatás esetén az (1) bekezdés szerinti, a döntés ügyfél terhére történő módosítására vagy visszavonására – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – öt éven belül van lehetőség.
-
-(4) Az intézkedés befejezését megelőzően, ha a döntés meghozatalakor fennálló körülmények lényegesen megváltoztak, az ügyfél indokolt kérelmére a mezőgazdasági és vidékfejlesztési támogatási szerv egy alkalommal módosíthatja jogerős helyt adó vagy részben helyt adó rendelkezésében döntését, amennyiben az ügyfél kérelme az ügy érdemében hozott döntést nem befolyásolja és a módosított döntés nem állapít meg az ügyfél részére több jogot.
-
-(5) Amennyiben az intézkedés befejezését megelőzően az ügyfél arra irányuló kérelmet ad be, hogy valamely intézkedésben, vagy intézkedéscsoportban való részvételtől visszalép, és a mezőgazdasági és vidékfejlesztési támogatási szerv az adott ügyben már jogerőssé vált határozatot hozott, azonban a támogatás folyósítása még nem történt meg és az intézkedésben vagy az intézkedéscsoportban való részvételtől történő visszalépéshez közvetlenül alkalmazandó közösségi jogi aktus vagy egyéb jogszabály külön jogkövetkezményt nem fűz, a mezőgazdasági és vidékfejlesztési támogatási szerv az ügyben hozott határozatát hatályon kívül helyezi, és ezzel egyidejűleg az eljárást megszünteti.”

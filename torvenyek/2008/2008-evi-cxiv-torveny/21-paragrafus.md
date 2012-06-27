@@ -1,3 +1,0 @@
-21. § A Tv. a következő 30/A. §-sal egészül ki:
-
-„30/A. § Amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv tudomására jut, hogy az ügyfél az ügyfél-nyilvántartási rendszerhez kapcsolódó változás-bejelentési kötelezettségét elmulasztotta, a bejelentési és adatszolgáltatási kötelezettség teljesítéséig, valamint az ezek elmulasztása miatt kiszabott mulasztási bírság megfizetéséig az ügyfél részére a mezőgazdasági és vidékfejlesztési támogatási szerv a törvény hatálya alá tartozó intézkedések alapján, valamint a hatáskörrel rendelkező hatóság a kérelemre induló eljárásaiban jogosultságot nem állapít meg, illetve támogatást nem folyósít, valamint az ügyfél által benyújtott új kérelmeket érdemi vizsgálat nélkül elutasítja.”
