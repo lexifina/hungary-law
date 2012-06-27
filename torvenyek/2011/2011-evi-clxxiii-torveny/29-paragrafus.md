@@ -1,5 +1,0 @@
-## V. Fejezet
-
-## A SZERZŐI JOGRÓL SZÓLÓ 1999. ÉVI LXXVI. TÖRVÉNY MÓDOSÍTÁSAI
-
-29–43. §

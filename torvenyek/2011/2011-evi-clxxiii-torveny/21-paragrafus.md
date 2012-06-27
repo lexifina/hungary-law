@@ -1,5 +1,0 @@
-## IV. Fejezet
-
-## A VÉDJEGYEK ÉS A FÖLDRAJZI ÁRUJELZŐK OLTALMÁRÓL SZÓLÓ 1997. ÉVI XI. TÖRVÉNY MÓDOSÍTÁSAI
-
-21–28. §

@@ -1,5 +1,0 @@
-## I. Fejezet
-
-## A HASZNÁLATI MINTÁK OLTALMÁRÓL SZÓLÓ 1991. ÉVI XXXVIII. TÖRVÉNY MÓDOSÍTÁSA
-
-1–2. §
