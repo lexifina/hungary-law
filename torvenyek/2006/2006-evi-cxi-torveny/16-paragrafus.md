@@ -1,1 +1,0 @@
-16. § A Magyar Köztársaság 2006. évi költségvetéséről szóló 2005. évi CLIII. törvény 32/A. §-ának (1) bekezdésében a „2006. április 1-je és 2006. augusztus 1-je között” szövegrész helyébe a „2006. december 31-ig” szövegrész lép.
