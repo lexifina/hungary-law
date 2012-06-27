@@ -1,3 +1,0 @@
-77. § A Gyftv. 56. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Közforgalmú gyógyszertárat működtetni – a fekvőbeteg-gyógyintézet által működtetett közvetlen lakossági gyógyszerellátó egység kivételével – csak az egészségügyi államigazgatási szerv által engedélyezett személyi jogos gyógyszerész – 73. §-ban meghatározott jogosultságokra kiterjedő – szakmai vezetése mellett lehet. A személyi jog engedélyezését a jogszabályi feltételeket teljesítő gyógyszerész kérelmezheti. A személyi jogot az egészségügyi államigazgatási szerv adja ki, amely adott közforgalmú gyógyszertár vezetésére és működtetésére jogosít.”

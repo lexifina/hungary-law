@@ -1,5 +1,0 @@
-10. § Az Ebtv. 39. § (6) bekezdése helyébe a következő rendelkezés lép, és a következő (7) bekezdéssel egészül ki:
-
-„(6) Az (1)–(5) bekezdésben említett ellátások között a biztosított, illetve a szülő a jogosultság fennállása alatt választhat. A táppénz, a baleseti táppénz, a terhességi-gyermekágyi segély, a gyermekgondozási díj, a gyermekgondozási segély, valamint a gyermeknevelési támogatás folyósítása alatt választott újabb ellátásra való jogosultságot a biztosított, illetve a szülő által megjelölt időponttól kell megállapítani, feltéve, hogy a jogosultság feltételeivel már ekkortól rendelkezik.
-
-(7) A választott újabb ellátást a korábban megállapított ellátás folyósításának megszüntetését követő naptól kell folyósítani. A választott újabb ellátás visszamenőlegesen járó összegét csökkenteni kell az újabb ellátásra való jogosultság kezdő napjától a korábban megállapított ellátás folyósítása megszüntetésének napjáig kifizetett ellátás nettó összegével. Az ellátások közötti különbözet kamatmentes kifizetésére a csökkentés teljesítését követő három munkanapon belül kerül sor.”

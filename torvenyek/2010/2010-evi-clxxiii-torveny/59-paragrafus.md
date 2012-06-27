@@ -1,9 +1,0 @@
-59. § (1) A Gyftv. 17. § (4)–(5) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Tilos a gyógyszertárból kizárólag orvosi vényre kiadható vagy társadalombiztosítási támogatásba befogadott gyógyszerek, tápszerek, továbbá a társadalombiztosítási támogatással rendelhető gyógyászati segédeszközök reklámozása.
-
-(5) A (4) bekezdésben foglalt tilalom nem vonatkozik – az egészségnevelési célú – az egészségügyi államigazgatási szerv által egyedileg engedélyezett védőoltási programokat népszerűsítő kampányokra, valamint az ezekhez kapcsolódó gyógyszerekről szóló tájékoztatásra.”
-
-(2) A Gyftv. 17. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) Az egészségügyért felelős miniszter rendelete szerinti minta kivételével tilos a betegnek, fogyasztónak olyan ajándék, minta, vásárlásra jogosító utalvány (kupon) akár közvetlenül, akár az orvos, illetve a gyógyszert, gyógyászati segédeszközt kiszolgáltató által történő adása, felajánlása, amely egy adott gyógyszer, egy adott forgalomba hozatali engedély jogosult termékei vagy a társadalombiztosítás által támogatott gyógyászati segédeszköz fogyasztására, használatára ösztönöz, vagy azt feltételül szabja. Tilos továbbá a társadalombiztosítási támogatással rendelhető gyógyszerek és gyógyászati segédeszközök beteg által fizetendő térítési díjának a kiszolgáltató által bármilyen közvetlen vagy közvetett formában (ajándék, minta, vásárlásra jogosító utalvány, kupon, pontgyűjtés alapú kedvezmény útján vagy más hasonló módon) történő csökkentése, átvállalása, elengedése, vagy ahhoz bármilyen előnyök kötése. A társadalombiztosítási támogatással nem rendelhető gyógyszerek kiszolgáltatása esetén adott bármilyen kedvezmény – az árkedvezmény kivételével – kizárólag a gyógyszertárban nyújtott gyógyszerészi gondozás igénybevételére használható fel.”

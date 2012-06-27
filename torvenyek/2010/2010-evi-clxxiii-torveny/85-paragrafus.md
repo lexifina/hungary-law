@@ -1,3 +1,0 @@
-85. § A Gyftv. 75. §-a helyébe a következő rendelkezés lép:
-
-„75. § Nem valósítható meg olyan összefonódás, amelynek eredményeképpen négynél több gyógyszertár kerülne az adott vállalkozás vagy vállalkozáscsoport közvetlen vagy közvetett irányítása alá, továbbá nem valósítható meg olyan összefonódás sem, amelynek következményeként húszezer lélekszám alatti településen három vagy annál több gyógyszertár kerülne az adott vállalkozás vagy vállalkozáscsoport közvetlen vagy közvetett irányítása alá.”

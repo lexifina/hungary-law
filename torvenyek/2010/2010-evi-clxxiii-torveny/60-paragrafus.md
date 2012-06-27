@@ -1,3 +1,0 @@
-60. § A Gyftv. 20. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Amennyiben az iratnak az (5) bekezdés hatálya alá tartozása tekintetében vita merül fel, a gyógyszerészeti államigazgatási szerv kérelme alapján az irat (5) bekezdés hatálya alá tartozásáról a Fővárosi Bíróság nemperes eljárásban, a kérelem előterjesztésétől számított nyolc napon belül dönt, az ügyfél meghallgatásával. Ha a bíróság azt állapítja meg, hogy az irat nem esik az (5) bekezdés hatálya alá, az iratot a gyógyszerészeti államigazgatási szerv számára kiadja; a továbbiakban az iratra vonatkozó általános szabályok irányadóak. Ellenkező döntés esetében a bíróság az iratot az ügyfélnek adja ki.”
