@@ -1,5 +1,0 @@
-1. § A helyi önkormányzatok címzett és céltámogatási rendszeréről szóló, többször módosított 1992. évi LXXXIX. törvény (a továbbiakban: Cct.) 1. §-ának (1) bekezdése helyébe a következő rendelkezés lép, valamint a § új (4) bekezdéssel egészül ki:
-
-,,(1) Az önkormányzatok címzett támogatást igényelhetnek – a céltámogatási körben nem támogatható – vízgazdálkodási, egészségügyi, szociális, közoktatási és kulturális önkormányzati térségi, vagy jogszabály által elfogadott országos, illetve törvényben meghatározott fővárosi, megyei szakmai fejlesztési programba foglalt önkormányzati feladatok ellátását szolgáló, kiemelt fontosságú, 200 millió forint feletti beruházási összköltségű önkormányzati beruházások megvalósítására.''
-
-,,(4) A helyi önkormányzat által benyújtott címzett támogatási igény összegét a törvényjavaslatnak az Országgyűléshez történő benyújtása előtt – a rendelkezésre álló előirányzat mértékétől függően – a Belügyminisztérium és a szakminisztérium kezdeményezésére az önkormányzat módosítja. Egyebekben az igénybejelentés nem módosítható.''
