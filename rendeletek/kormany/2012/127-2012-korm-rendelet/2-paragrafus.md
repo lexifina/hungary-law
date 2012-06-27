@@ -1,0 +1,3 @@
+## 1. § A Budapest V. kerület Kossuth Lajos téri beruházási programmal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 100/2012. (V. 16.) Korm. rendelet (a továbbiakban: R.) 1. §-a a következő (5) bekezdéssel egészül ki:
+
+## „(5) A Kormány az 1. mellékletben meghatározott közigazgatási hatósági eljárásokban – az 1. mellékletben foglalt táblázat C:2. mezője szerinti hatósági eljárások kivételével – az egységes térrendezési szempontoknak az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 18. §-ában foglaltak szerinti érvényesítése kérdésében, a 2. mellékletben foglalt táblázat 2. sorában foglalt hatóságokat az ott megjelöltek szerint szakhatóságként jelöli ki.”
