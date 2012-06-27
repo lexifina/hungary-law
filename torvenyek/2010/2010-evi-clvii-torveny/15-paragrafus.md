@@ -1,3 +1,1 @@
-15. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 30. §-a helyébe a következő rendelkezés lép:
-
-„30. § A nyilvántartó technikai és szervezési intézkedésekkel, valamint ellenőrzési rendszer kialakításával gondoskodik a kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása, nyilvánosságra hozatala vagy törlése, illetőleg a sérülés vagy a megsemmisülés elleni védelméről. A nyilvántartó a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.”
+15. §

@@ -1,3 +1,1 @@
-27. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által a magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 3. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A bűnügyi nyilvántartási rendszerben az adatokat a bűnügyi nyilvántartó szerv kezeli, a bűnügyi nyilvántartási rendszerből adatot továbbít, valamint a bűnügyi nyilvántartási rendszerben kezelt adatokról e törvény szerinti hatósági bizonyítványt állít ki. A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerrel kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.”
+27. §
