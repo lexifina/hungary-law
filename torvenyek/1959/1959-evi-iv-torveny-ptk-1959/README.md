@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1959-4-00-00
 | 2012-04-28 | 2012. évi XXXVIII. törvény | 1959-4-00-00.98 |
 | 2012-05-26 | 2012. évi LI. törvény | 1959-4-00-00.99 |
 | 2012-06-13 | 2012. évi LXV. törvény | 1959-4-00-00.100 |
+| 2012-06-27 | 2012. évi LXXVI. törvény | 1959-4-00-00.101 |
