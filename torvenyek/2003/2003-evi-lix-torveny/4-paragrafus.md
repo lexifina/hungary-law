@@ -1,5 +1,0 @@
-4. § (1) A Cct. 3. §-ának (7) bekezdése alapján – jogszabályi változásból eredően, a támogatásban részesülő beruházással ellátandó feladat jelentős változása miatt – a folyamatban lévő beruházásokkal kapcsolatos eredeti döntések a 4. számú melléklet szerint módosulnak.
-
-(2) A helyi önkormányzatok 1997. évi új induló címzett támogatásáról szóló 1997. évi XLV. törvény 1. számú melléklet 58. és 59. sorában Pécs Mecsekoldal V–VIII. ütem Makároldal és Mecsekoldal II–IV. ütem, Postavölgy, Málomi domb ivóvízellátás beruházására jóváhagyott címzett támogatást az önkormányzat 2006. december 31-ig használhatja fel.
-
-(3) A címzett támogatással folyamatban lévő Fejér Megyei Szent György Kórház rekonstrukciója, a Kaposvár Kisgáti területén épülő középiskolai kollégium beruházása, továbbá a Tolna Megyei Kórház új műtő és diagnosztikai tömbjének építése és a Csongrád Megyei Területi Kórház Szentes új diagnosztikai és sürgősségi tömbje beruházása esetében az Országgyűlés nem módosítja eredeti döntését.
