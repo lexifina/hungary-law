@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-142-00-00
 | --- | --- | --- |
 | 2007-09-25 | Nemzeti Jogszabálytár (egységes szerkezet) | 1997-142-00-00.7 |
 | 2012-01-01 | 2011. évi CCI. törvény | 1997-142-00-00.8 |
+| 2012-06-27 | 2012. évi LXXVI. törvény | 1997-142-00-00.9 |

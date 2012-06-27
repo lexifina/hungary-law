@@ -1,3 +1,5 @@
 22. § (1) Az e törvény hatálya alá tartozó ingatlanokkal kapcsolatos ügyekben a Ptk., valamint a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló, módosított 1993. évi LXXVIII. törvény rendelkezéseit kell alkalmazni.
 
 (2) Az 1990. március 2-a előtt a Szakszervezetek Országos Tanácsa és az ahhoz tartozó ágazati-szakmai szakszervezetek kezelésében volt állami tulajdonú ingatlanok – a Nemzeti Üdülési Alapítványhoz került ingatlanok kivételével – az e törvény, továbbá a Szit. tv. együttes alkalmazásával meghozott döntések alapján kerülnek tulajdonba.
+
+(3) A (2) bekezdés alapján tulajdonba adott ingatlanokon fennálló elidegenítési és terhelési tilalmat az ingatlan tulajdoni lapjáról az ingatlanügyi hatóság az ingatlan-nyilvántartásba bejegyzett tulajdonos kérelme alapján törli.
