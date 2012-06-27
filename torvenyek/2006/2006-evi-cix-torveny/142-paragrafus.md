@@ -1,5 +1,0 @@
-## XXIII. Fejezet
-
-## SZELLEMITULAJDON-VÉDELMI IGAZGATÁS
-
-142. §

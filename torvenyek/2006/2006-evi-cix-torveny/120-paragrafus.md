@@ -1,5 +1,0 @@
-## XVIII. Fejezet
-
-## KÖLTSÉGVETÉSI IGAZGATÁS
-
-120–121. §

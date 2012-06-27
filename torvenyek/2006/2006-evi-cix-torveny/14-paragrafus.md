@@ -1,5 +1,0 @@
-## V. Fejezet
-
-## A SZABÁLYSÉRTÉSEKRŐL SZÓLÓ 1999. ÉVI LXIX. TÖRVÉNY MÓDOSÍTÁSA
-
-14–15. §

@@ -1,3 +1,0 @@
-## Számviteli igazgatás
-
-91. §
