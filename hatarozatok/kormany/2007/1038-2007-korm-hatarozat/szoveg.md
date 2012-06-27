@@ -42,11 +42,13 @@ Határidő: folyamatos
 
 a) a mezőgazdasági termékek elsődleges előállítása céljából végrehajtott beruházások,
 
-b) a fiatal mezőgazdasági termelők tevékenységének megkezdéséhez szükséges beruházások,
+b) a fiatal mezőgazdasági termelők tevékenységének megkezdéséhez szükséges beruházások, továbbá a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló, 2006. december 15-i 1857/2006/EK bizottsági rendelet 7. cikkének megfelelő, üzleti tervben vállalt intézkedések, ideértve az intézményi kezességvállalással biztosított termőföld-vásárlást is,
 
 c) Projekt kiegészítő hitel az Új Magyarország Vidékfejlesztési Program pályázatok kiegészítő finanszírozására,
 
-d) agrárforrás hitel a mezőgazdasági kis- és középvállalkozások tőkehelyzetének erősítésére.
+d) agrárforrás hitel a mezőgazdasági kis- és középvállalkozások tőkehelyzetének erősítésére;
+
+e) intézményi kezességvállalással biztosított termőföld vásárlása.
 
 3.2. A hitelprogram főbb feltételei – a 3.1. c) alpont szerinti Projekt kiegészítő hitel az Új Magyarország Vidékfejlesztési Program pályázatok kiegészítő finanszírozására hitelcél kivételével – az alábbiak szerint változzanak:
 
@@ -66,9 +68,9 @@ b) a hitel kizárólag forintban igényelhető,
 
 c) a kedvezményes hitel állami támogatási szabályai feleljenek meg az 1698/2005/EK tanácsi rendelet előírásainak.
 
-Felelős: nemzeti fejlesztési és gazdasági miniszter
+Felelős: nemzeti fejlesztési miniszter
 
-Határidő: 2009. július
+Határidő: 2012. szeptember 1.
 
 4. tudomásul veszi, hogy a 2318/2004. (XII. 11.) Korm. határozat 3. pontja alapján az Agrár Fejlesztési Hitelprogram rendelkezésre álló 40 milliárd forintos keretéből 2007. június 30-áig kötött hitelszerződésekkel lekötött összegen felüli rész az e határozat 3. pontja szerinti „Sikeres Magyarországért” Agrár Fejlesztési Hitelprogramban kerüljön felhasználásra;
 
@@ -108,10 +110,11 @@ Határidő: folyamatos
 
 8.1. a „Sikeres Magyarországért” Vállalkozásfejlesztési Hitelprogram a Szerződés 87. és 88. cikkének a nemzeti regionális beruházási támogatásokra való alkalmazásáról szóló 2006. október 24-i, 1628/2006/EK bizottsági rendelet (HL L 302., 2006.11.1., 29–40. o.), valamint a Szerződés 87. és 88. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2006. december 15-i, 1998/2006/EK bizottsági rendelet (HL L 379., 2006. 12.28., 5. oldal) hatálya alá tartozó támogatást tartalmaz;
 
-8.2. a „Sikeres Magyarországért” Agrár Fejlesztési Hitelprogram a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló 2006. december 15-i, 1857/2006/EK bizottsági rendelet (HL L 358., 2006.12.16., 3–21. o.) hatálya alá tartozó támogatást tartalmaz;
+8.2.[^2] a „Sikeres Magyarországért” Agrár Fejlesztési Hitelprogram a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló 2006. december 15-i 1857/2006/EK bizottsági rendelet, és a Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 2007. december 20-i 1535/2007/EK bizottsági rendelet hatálya alá tartozó támogatást tartalmaz, amely odaítélésénél figyelemmel kell lenni az ugyanazon elszámolható költségek tekintetében alkalmazandó uniós támogatás-összeszámítási szabályokra;
 
 9. jóváhagyja az MFB Rt. 2007. évi maximum 1025 millió eurós forrásbevonási tervét.
 
 10. Ez a határozat a közzététele napján lép hatályba; egyidejűleg az Agrár Fejlesztési Hitelprogram kidolgozásáról szóló 2318/2004. (XII. 11.) Korm. határozat 1. és 2. pontja hatályát veszti.
 
-[^1]: A 3. pont az 1100/2009. (VI. 30.) Korm. határozat 2. pontjával megállapított szöveg.
+[^1]: A 3. pont az 1207/2012. (VI. 26.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 8. pont 8.2. alpontja az 1207/2012. (VI. 26.) Korm. határozat 2. pontjával megállapított szöveg.
