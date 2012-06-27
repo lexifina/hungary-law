@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-57-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 1996-57-00-00.32 |
 | 2012-02-01 | 2011. évi CLXXIV. törvény | 1996-57-00-00.33 |
 | 2012-03-01 | 2012. évi V. törvény | 1996-57-00-00.34 |
+| 2012-06-27 | 2012. évi LXXVI. törvény | 1996-57-00-00.35 |
