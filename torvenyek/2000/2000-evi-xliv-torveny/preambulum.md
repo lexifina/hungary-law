@@ -1,1 +1,0 @@
-A polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény (a továbbiakban: Pttv.) módosítására az Országgyűlés a következő törvényt alkotja:
