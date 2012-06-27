@@ -1,1 +1,0 @@
-7. § A KT. a Nyugdíjbiztosítási Önkormányzatnál és igazgatási szerveinél, az Egészségbiztosítási Önkormányzatnál és igazgatási szerveinél felhasználható működési kiadásokat, illetve bevételeket cím, alcím, előirányzatcsoport és kiemelt előirányzatok szerint részletező 11. és 12. számú mellékletekkel egészül ki az e törvény 1. és 2. számú mellékletei szerint.
