@@ -1,1 +1,5 @@
-111. §
+111. § (1) E törvénynek a szerzői jogról szóló 1999. évi LXXVI. törvény módosításáról szóló 2001. évi LXXVII. törvénnyel az adatbázis-előállítók védelmére vonatkozóan megállapított rendelkezéseit alkalmazni kell arra az adatbázisra is, amelyet 1982. december 31. és 2002. január 1. között készítettek el, feltéve, hogy 2002. január 1-jén az adatbázis megfelelt – a szerzői jogról szóló 1999. évi LXXVI. törvény módosításáról szóló 2001. évi LXXVII. törvénnyel megállapított – XI/A. fejezetben szabályozott védelem feltételeinek. Az ilyen adatbázis előállítójának jogai 2002. január 1-jétől kezdődően 2013. január 1-jéig részesülnek védelemben.
+
+(2) Az (1) bekezdés szerinti adatbázis felhasználására vonatkozóan az annak előállítójával 2002. január 1-jét megelőzően megkötött szerződés alapján végzett cselekményre e törvénynek a szerződés megkötésekor hatályos rendelkezéseit kell alkalmazni 2002. január 1-jét követően is.
+
+(3) E törvénynek a szerzői jogról szóló 1999. évi LXXVI. törvény módosításáról szóló 2001. évi LXXVII. törvénnyel megállapított 84. § (2) bekezdését nem lehet alkalmazni olyan hangfelvételre, amelynek a korábban hatályos rendelkezések szerint számított védelmi ideje már lejárt. E rendelkezés nem érinti a 108. § alkalmazását.

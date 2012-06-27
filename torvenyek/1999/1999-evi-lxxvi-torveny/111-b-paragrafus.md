@@ -1,0 +1,1 @@
+111/B. § E törvénynek a szerzői jogról szóló 1999. évi LXXVI. törvény módosításáról szóló 2005. évi CVIII. törvénnyel megállapított rendelkezéseit – az eredeti műalkotás szerzőjét megillető követő jogról szóló 2001. szeptember 27-i 2001/84/EK európai parlamenti és tanácsi irányelvre is figyelemmel – a 2006. január 1-jét követően megkötött szerződésekre kell alkalmazni.
