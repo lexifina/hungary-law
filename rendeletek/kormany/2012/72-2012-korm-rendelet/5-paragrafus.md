@@ -1,1 +1,0 @@
-## 4. § A lakások bérleti jogának a bérlők közötti cseréje esetén a Nemzeti Eszközkezelő a cseréhez való bérbeadói hozzájárulást akkor adhatja meg, ha egyik bérlőnek sem áll fenn lakbérfizetési hátraléka.
