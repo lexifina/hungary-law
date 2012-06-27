@@ -1,5 +1,1 @@
-157. § (1)–(3)
-
-(4)
-
-(5)–(6)
+157. § A 2003. január 1-jén fennálló nevelőszülői jogviszony esetében a hivatásos nevelőszülőt megillető díjat nem lehet alacsonyabb mértékben megállapítani annál, mint amilyen díjazásban a hivatásos nevelőszülő 2003. január 1-jén részesült.
