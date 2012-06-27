@@ -1,3 +1,0 @@
-7. § A Kvtv. 81. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 2. Egészségbiztosítás pénzbeni ellátásai alcímen belül az adott előirányzat terhére különös méltánylást érdemlő körülmények esetén táppénz megállapítására 180,0 millió forint, terhességi-gyermekágyi segély megállapítására 10,0 millió forint, gyermekgondozási díj megállapítására 25,0 millió forint, a 3. Természetbeni ellátások alcímen belül az adott előirányzat terhére, különös méltánylást érdemlő körülmények esetén gyógyító-megelőző ellátásra 140,0 millió forint, gyógyászati segédeszköz támogatásra 1300,0 millió forint használható fel.”
