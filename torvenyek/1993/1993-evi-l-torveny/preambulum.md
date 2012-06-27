@@ -1,1 +1,0 @@
-Az Országgyűlés a helyi önkormányzatok címzett vagy céltámogatással (a továbbiakban: központi támogatás) már folyamatban lévő beruházásaihoz nyújtandó központi támogatásokról, továbbá az 1993-ban új céltámogatási igények kielégítésének rangsoráról a következő törvényt alkotja:

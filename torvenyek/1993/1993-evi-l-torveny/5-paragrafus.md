@@ -1,1 +1,0 @@
-5. § Közösen elkezdett beruházás finanszírozásából való — e törvény hatálybalépése utáni — kiválás esetén, ha a beruházást egy települési önkormányzat folytatja és fejezi be, többlet-céltámogatásnak a központi költségvetésbe történő visszafizetéséről a támogatás címzettje gondoskodik.

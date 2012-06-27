@@ -1,1 +1,0 @@
-3. § Nem részesülnek további központi támogatásban a 3. számú mellékletben felsorolt azon helyi önkormányzatok, amelyek a helyi önkormányzatok 1992. évi címzett és céltámogatásáról szóló 1992. évi XXVI. törvény 9. § (1) bekezdése alapján megállapított beruházási összköltséget túllépve, a többletköltségre igényeltek céltámogatást.
