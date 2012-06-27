@@ -1,3 +1,0 @@
-1. § A környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény (a továbbiakban: Kt.) 5/E. §-a a következő új (5) bekezdéssel egészül ki, ezzel egyidejűleg az (5) bekezdés számozása (6) bekezdésre változik:
-
-„(5) E törvény végrehajtására kiadott rendeletben meghatározott feltételekkel és módon a kötelezett a műanyag (bevásárló-reklám) táska után megfizetendő, a 2. számú melléklet 2.4. b) pontjában meghatározott „E” termékdíjtételnek 100%-át levonhatja, ha a csomagolás helyén az általa kibocsátott műanyag (bevásárló-reklám) táska mennyiségének legalább 25%-át környezetbarát védjeggyel hozza forgalomba.”
