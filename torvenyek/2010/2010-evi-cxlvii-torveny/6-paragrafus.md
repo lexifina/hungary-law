@@ -1,3 +1,0 @@
-6. § A Ktv. a következő 37/A. §-sal egészül ki:
-
-„37/A. § A közigazgatási szervvel közszolgálati jogviszonyban állók tekintetében – ha a rendőrségről szóló törvény előírja – a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv ellenőrizheti, hogy a közigazgatási szervvel közszolgálati jogviszonyban álló köztisztviselő eleget tesz-e az e törvényben meghatározott hivatali kötelezettségének.”
