@@ -1,3 +1,0 @@
-59. § Az Eftv. 11. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az egészségügyi szolgáltatónak az Egészségbiztosítási Alap számára működési többletforrásigényt eredményező fejlesztése nyomán létrejövő kapacitása tárgyában csak akkor köthető finanszírozási szerződés az adott kapacitásra, ha a fejlesztéssel az illetékes RET véleményének kikérését követően az egészségbiztosító és az egészségügyért felelős miniszter az államháztartásért felelős miniszterrel egyetértésben előzetesen – a külön jogszabályban foglaltak szerint – egyetértett. Amennyiben a fejlesztés az Új Magyarországért Fejlesztési Terv része, az illetékes RET előzetesen kikéri a Nemzeti Fejlesztési Ügynökség véleményét.”
