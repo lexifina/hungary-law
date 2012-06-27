@@ -1,1 +1,0 @@
-1. § A helyi önkormányzatok részére a támogatás szempontjából új induló beruházásaikhoz az 1997-ben és az azt követő években járó címzett támogatás mértékét önkormányzatonként és címenként az 1. számú melléklet tartalmazza.
