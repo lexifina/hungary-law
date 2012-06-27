@@ -1,1 +1,0 @@
-1. § A helyi önkormányzatok részére a támogatás szempontjából új beruházásaikhoz az 1999-ben és az azt követő években járó címzett támogatást önkormányzatonként és beruházásonként az 1. számú melléklet tartalmazza.
