@@ -2,4 +2,4 @@
 
 ## ZÁRÓ RENDELKEZÉSEK
 
-94. §
+94. § A határőrség általános jogutódja a rendőrség.
