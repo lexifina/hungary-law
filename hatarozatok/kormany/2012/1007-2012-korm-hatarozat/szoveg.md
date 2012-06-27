@@ -1,6 +1,6 @@
 A Kormány a felsőoktatásról szóló 2005. évi CXXXIX. törvény 101. § (1) bekezdés b) pontja alapján
 
-1. 2012-ben az államilag támogatott új belépő létszámkeretet (felsőfokú szakképzésre, alapképzésre, illetve egységes, osztatlan képzésre felvehető, államilag támogatott hallgatói létszámkeretet) – beleértve a közigazgatási, a rendészeti és a katonai felsőoktatást – 33 070 (+1017) teljes és (+15 550) részleges támogatásban részesülő létszámban határozza meg, az alábbiak szerint:
+1.[^2] 2012-ben az államilag támogatott új belépő létszámkeretet (felsőfokú szakképzésre, alapképzésre, illetve egységes, osztatlan képzésre felvehető, államilag támogatott hallgatói létszámkeretet) – beleértve a közigazgatási, a rendészeti és a katonai felsőoktatást – 39 087 teljes és (+5 550) részleges támogatásban részesülő létszámban határozza meg, az alábbiak szerint:
 
 |  | Képzési szint, képzési terület | Teljes támogatásban részesülők létszáma | Részleges támogatásban részesülők létszáma |
 
@@ -8,33 +8,33 @@ A Kormány a felsőoktatásról szóló 2005. évi CXXXIX. törvény 101. § (1)
 
 | a) | a felsőfokú szakképzésre felvehető hallgatók létszáma | 3 500 |  |
 
-| b) | alapképzésre felvehető hallgatók létszáma | 27 150 +1 017* | (+15 550) |
+| b) | alapképzésre felvehető hallgatók létszáma | 31 750+1 017* | (+5 550) |
 
 |  | ebből |  |  |
 
-|  | agrár képzési területre felvehető hallgatók száma | 1 300 | (+100) |
+|  | agrár képzési területre felvehető hallgatók száma | 2 000 | (+100) |
 
 |  | bölcsészettudomány képzési területre felvehető hallgatók száma | 2 700 |  |
 
 |  | gazdaságtudományok képzési területre felvehető hallgatók száma | 250 |  |
 
-|  | informatika képzési területre felvehető hallgatók száma | 3 600 | (+4 600) |
+|  | informatika képzési területre felvehető hallgatók száma | 4 550 | (+1 500) |
 
-|  | közigazgatási, rendészeti és katonai képzési területre felvehető hallgatók száma | 1 017 |  |
+|  | közigazgatási, rendészeti és katonai képzési területre felvehető hallgatók száma | 1017* |  |
 
 |  | igazságügyi, munkaügyi szakokra felvehető hallgatók száma | 200 |  |
 
-|  | műszaki képzési területre felvehető hallgatók szám | 8 160 | (+7 600) |
+|  | műszaki képzési területre felvehető hallgatók szám | 10 560 | (+2 350) |
 
-|  | orvos- és egészségtudomány képzési területre felvehető hallgatók száma | 2 800 | (+100) |
+|  | orvos- és egészségtudomány képzési területre felvehető hallgatók száma | 3 200 | (+100) |
 
 |  | pedagógusképzés képzési területre felvehető hallgatók száma | 1 600 |  |
 
-|  | sporttudomány képzési területre felvehető hallgatók száma | 450 |  |
+|  | sporttudomány képzési területre felvehető hallgatók száma | 600 |  |
 
 |  | társadalomtudomány képzési területre felvehető hallgatók száma | 1 000 |  |
 
-|  | természettudomány képzési területre felvehető hallgatók száma | 4 000 | (+3 150) |
+|  | természettudomány képzési területre felvehető hallgatók száma | 4 000 | (+1 500) |
 
 |  | művészet képzési területre felvehető hallgatók száma | 740 |  |
 
@@ -54,11 +54,15 @@ A Kormány a felsőoktatásról szóló 2005. évi CXXXIX. törvény 101. § (1)
 
 |  | művészet képzési területre felvehető hallgatók száma | 160 |  |
 
-*/ A Nemzeti Közszolgálati Egyetemen felvehető létszám.
+| d) | határon túli kihelyezett képzések keretszáma | 400 |  |
 
-d) az államilag támogatott új belépő létszámkeret legfeljebb 10%-a – az a)–c) pont szerinti keretszám részeként – a részidős (esti, levelező) képzés kerete, amelyet foglalkoztatási, átképzési igényeket figyelembe véve kell biztosítani,
+| a)+b)+c)+d) | Összesen: | 39 087 | 5 550 |
 
-e) a hitéleti alapképzésre vagy egységes, osztatlan képzésre felvehető hallgatók számát, az egyházakkal és felekezetekkel megkötött nemzetközi és kormányzati megállapodások szerint kell megállapítani.
+* A Nemzeti Közszolgálati Egyetemen felvehető létszám.
+
+e) az államilag támogatott új belépő létszámkeret legfeljebb 10%-a – az a)–c) pont szerinti keretszám részeként – a részidős (esti, levelező) képzés kerete, amelyet foglalkoztatási, átképzési igényeket figyelembe véve kell biztosítani,
+
+f) a hitéleti alapképzésre vagy egységes, osztatlan képzésre felvehető hallgatók számát, az egyházakkal és felekezetekkel megkötött nemzetközi és kormányzati megállapodások szerint kell megállapítani.
 
 2. a) A Kormány a 2012-ben államilag támogatott mesterképzésre felvehető hallgatók létszámát 19 600 főben határozza meg azzal, hogy a hitéleti mesterképzésre felvehető hallgatók számát az egyházakkal és a felekezetekkel megkötött nemzetközi megállapodások szerint kell megállapítani, és a hitéleti mesterképzésre az alapképzéssel megegyező számú hallgató vehető fel.
 
@@ -77,3 +81,5 @@ nemzetgazdasági miniszter
 nemzeti erőforrás miniszter
 
 Határidő: 2012. szeptember 1.
+
+[^2]: Az 1. pont az 1208/2012. (VI. 26.) Korm. határozat 1. pontjával megállapított szöveg.
