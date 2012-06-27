@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-47-00-00
 | 2011-08-26 | 2011. évi CXII. törvény | 2009-47-00-00.10 |
 | 2012-01-01 | 2011. évi CXII. törvény | 2009-47-00-00.11 |
 | 2012-04-01 | 2011. évi CLXXIV. törvény | 2009-47-00-00.12 |
+| 2012-06-27 | 2012. évi LXXVI. törvény | 2009-47-00-00.13 |
