@@ -1,7 +1,0 @@
-5. § Az Üt. a 27/D. §-t követően a következő alcímmel és 27/E. §-sal egészül ki:
-
-„
-
-Cég székhelyeként, telephelyeként, fióktelepeként megjelölt ingatlan adatainak megtekintése
-
-27/E. § Cég létesítő okiratának és a létesítő okirat módosításának ellenjegyzése során az ügyvéd az ingatlan-nyilvántartási adatok és a tulajdonjogra vonatkozó, használatra feljogosító okiratok megtekintésével győződik meg arról, hogy a jognyilatkozatot tevő fél (meghatalmazottja) által az okiratban a cég székhelyeként, telephelyeként, fióktelepeként megjelölt ingatlan a cég tulajdonát képezi-e vagy használatára a cég jogosult-e, továbbá meggyőződhet arról is, hogy az más cég székhelyeként, telephelyeként, fióktelepeként be van-e jegyezve a cégjegyzékbe. Ha ennek eredményeként az ügyvéd azt állapítja meg, hogy az ingatlan székhelyeként, telephelyeként, fióktelepeként való megjelölése a jogszabályokkal ellentétes, köteles a közreműködést megtagadni.”

@@ -1,3 +1,0 @@
-21. § A Kjtv. 118. §-a helyébe a következő rendelkezés lép:
-
-118. § „Ha a közjegyzői okirat több lapból áll, ezeket zsinórral össze kell fűzni, és a közjegyző bélyegzőjével kell megerősíteni. A közjegyzői okirat mellékleteit, melyek az okirat részét képezik, ugyanígy kell az okirathoz fűzni. Ha a melléklet erre nem alkalmas, azt a közjegyzői okirat ügyszámával ellátva az okirathoz csatolva kell őrizni.”
