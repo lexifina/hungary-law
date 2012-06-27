@@ -1,1 +1,0 @@
-7. § Az e törvény hatálybalépésekor érvényben lévő, határozott érvényességi idejű „Magyar igazolvány”-ok és „Magyar hozzátartozói igazolvány”-ok érvényessége e törvény erejénél fogva határozatlan idejűre változik.
