@@ -4,7 +4,7 @@
 
 2. egyes szociális és foglalkoztatási tárgyú törvények módosításáról szóló 2008. évi CVII. törvény I–V. Fejezete, 52. §-a, 53. §-a és Melléklete,
 
-3. egyes migrációs tárgyú törvények jogharmonizációs célú módosításáról szóló 2010. évi CXXXV. törvény,
+3.
 
 4. a Nyugdíjreform és Adósságcsökkentő Alapról, és a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvénymódosításokról szóló 2010. évi CLIV. törvény 6–12. alcíme és 1. melléklete.
 

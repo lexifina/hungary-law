@@ -1,6 +1,6 @@
 ## 3. Az állampolgárok alapvető jogaira és kötelességeire vonatkozó törvények deregulációja
 
-8. § (1) Hatályát veszti egyes rendészeti és migrációs tárgyú törvények módosításáról, valamint egyes törvényeknek a Vízuminformációs Rendszer bevezetésével összefüggő jogharmonizációs célú módosításáról szóló 2010. évi XL. törvény.
+8. § (1)
 
 (2) Hatályát veszti a sajtóról szóló 1986. évi II. törvény módosításáról szóló 1990. évi XI. törvény.
 
