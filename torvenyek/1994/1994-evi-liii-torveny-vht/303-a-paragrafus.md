@@ -1,0 +1,1 @@
+303/A. § A 187. §-nak a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosításáról szóló 2009. évi XIV. törvénnyel megállapított (1) bekezdés b) pontját az e rendelkezés hatálybalépését követően elkövetett jogszabálysértések esetében kell alkalmazni.
