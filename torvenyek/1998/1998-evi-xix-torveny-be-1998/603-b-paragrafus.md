@@ -1,0 +1,1 @@
+603/B. § E törvénynek az igazságszolgáltatást érintő egyes törvények módosításáról szóló 2011. évi CCV. törvénnyel megállapított rendelkezéseit az igazságszolgáltatást érintő egyes törvények módosításáról szóló 2011. évi CCV. törvény hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.
