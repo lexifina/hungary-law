@@ -1,1 +1,0 @@
-3. § A helyi önkormányzatok címzett és céltámogatási rendszeréről szóló, módosított 1992. évi LXXXIX. törvény 16. §-ának (1) bekezdésében foglalt rendelkezés nem vonatkozik e törvényjavaslat 2. §-ában nevesített helyi önkormányzatok beruházásaira.

@@ -1,1 +1,0 @@
-Az Országgyűlés – a helyi önkormányzatok címzett támogatással folyamatban lévő egyes egészségügyi beruházásainak, valamint a Heves Megyei Pszichiátriai Betegek Otthona létesítésének mielőbbi megnyugtató befejezése érdekében – egyes törvények módosítására az alábbi törvényt alkotja:
