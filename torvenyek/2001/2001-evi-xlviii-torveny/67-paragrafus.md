@@ -1,4 +1,4 @@
-## Módosuló rendelkezések és a kapcsolódó átmeneti szabályok
+## Átmeneti rendelkezések
 
 67. § (1)
 
