@@ -1,3 +1,0 @@
-4. § (1) Ez a törvény a kihirdetését követő napon lép hatályba.
-
-(2) A Pp.-nek az e törvénnyel megállapított rendelkezéseit az e törvény hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.
