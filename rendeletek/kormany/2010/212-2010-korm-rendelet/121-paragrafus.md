@@ -4,10 +4,10 @@
 
 121. § (1) E rendelet a kihirdetésével egyidejűleg lép hatályba.
 
-(2)[^416]
+(2)[^420]
 
-(3)[^417] Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy rendeletben szabályozza az integrált üdültetési rendszerhez tartozó üdülők igénybevételének rendjét és hasznosításának szabályait, meghatározza az alkalmazandó üdülési díjak megállapításának a szabályait.[^418]
+(3)[^421] Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy rendeletben szabályozza az integrált üdültetési rendszerhez tartozó üdülők igénybevételének rendjét és hasznosításának szabályait, meghatározza az alkalmazandó üdülési díjak megállapításának a szabályait.[^422]
 
-[^416]: A 121. § (2) bekezdését a 94/2012. (V. 11.) Korm. rendelet 8. § i) pontja hatályon kívül helyezte.
-[^417]: A 121. § (3) bekezdését az 53/2011. (III. 31.) Korm. rendelet 4. § (8) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 4. § (3) és (9)–(11) bekezdését.
-[^418]: Lásd a 20/2011. (VII. 11.) KIM rendeletet.
+[^420]: A 121. § (2) bekezdését a 94/2012. (V. 11.) Korm. rendelet 8. § i) pontja hatályon kívül helyezte.
+[^421]: A 121. § (3) bekezdését az 53/2011. (III. 31.) Korm. rendelet 4. § (8) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 4. § (3) és (9)–(11) bekezdését.
+[^422]: Lásd a 20/2011. (VII. 11.) KIM rendeletet.

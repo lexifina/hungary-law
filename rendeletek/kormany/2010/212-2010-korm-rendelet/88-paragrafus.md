@@ -40,7 +40,7 @@ b) a Közlekedésfejlesztési Koordinációs Központot,
 
 c) a Közlekedésbiztonsági Szervezetet,
 
-d)[^321]
+d)[^323]
 
 (3) A miniszter a közlekedésért való felelőssége körében
 
@@ -50,4 +50,4 @@ b) ellátja a helyközi közösségi közlekedés megrendelésével és finansz�
 
 c) szervezi, összehangolja a közlekedési hálózati infrastruktúra fejlesztését.
 
-[^321]: A 88. § (2) bekezdés d) pontját a 320/2011. (XII. 27.) Korm. rendelet 2. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^323]: A 88. § (2) bekezdés d) pontját a 320/2011. (XII. 27.) Korm. rendelet 2. § (3) bekezdés b) pontja hatályon kívül helyezte.

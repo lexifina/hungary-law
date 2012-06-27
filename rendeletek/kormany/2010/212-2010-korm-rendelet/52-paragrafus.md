@@ -1,10 +1,10 @@
-## 52. §[^167] A miniszter
+## 52. §[^168] A miniszter
 
 a) ellátja a nemzeti és egyetemes kulturális örökség megóvásával, tudományos feltárásával és közkinccsé tételével, az új média létrehozásával kapcsolatos feladatokat,
 
 b) a kulturális örökségvédelemmel, közművelődési, közgyűjteményi tevékenységgel, a művészeti alkotó munka és előadói tevékenység állami támogatásával kapcsolatos feladatokat,
 
-c)[^168] a közigazgatási és igazságügyi miniszterrel és a miniszterelnök általános helyettesével együttműködve gondoskodik a külhoni magyar közösségek kulturális és anyanyelvi identitását erősítő és fejlesztő programok és fejlesztések megszervezéséről,
+c)[^169] a közigazgatási és igazságügyi miniszterrel és a miniszterelnök általános helyettesével együttműködve gondoskodik a külhoni magyar közösségek kulturális és anyanyelvi identitását erősítő és fejlesztő programok és fejlesztések megszervezéséről,
 
 d) ellátja a művészeti, muzeális, a könyvtári, a levéltári, a közművelődési, a kulturális örökség, valamint kulturális diplomácia elemeivel kapcsolatos tevékenység ágazati irányítását,
 
@@ -28,7 +28,7 @@ m) rendelkezési jogot gyakorol a Nemzeti Kulturális Alap felett,
 
 n) dönt a műemléki értékek, illetve régészeti lelőhelyek védetté nyilvánításáról, illetőleg annak megszüntetéséről,
 
-o)[^169] ellátja – a külügyminiszterrel, a miniszterelnök általános helyettesével és a közigazgatási és igazságügyi miniszterrel együttműködve – a külföldi magyar kulturális intézetek szakmai irányítását és felügyeletét, Magyarország kulturális diplomáciai céljainak kidolgozását, végrehajtását,
+o)[^170] ellátja – a külügyminiszterrel, a miniszterelnök általános helyettesével és a közigazgatási és igazságügyi miniszterrel együttműködve – a külföldi magyar kulturális intézetek szakmai irányítását és felügyeletét, Magyarország kulturális diplomáciai céljainak kidolgozását, végrehajtását,
 
 p) kulturális örökséggel kapcsolatos feladatainak megvalósítása érdekében kapcsolatot tart más államok kormányzati szerveivel,
 
@@ -40,6 +40,6 @@ s) előmozdítja a magyar történeti, művészeti és művelődéstörténeti �
 
 t) irányítja a Kulturális Örökségvédelmi Hivatalt.
 
-[^167]: Az 52. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (21) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^168]: Az 52. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (33) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^169]: Az 52. § o) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (33) bekezdés b) pontja, a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^168]: Az 52. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (21) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^169]: Az 52. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (33) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^170]: Az 52. § o) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (33) bekezdés b) pontja, a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.

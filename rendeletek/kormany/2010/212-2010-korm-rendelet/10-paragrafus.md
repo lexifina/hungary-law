@@ -1,12 +1,12 @@
-## 9/A. §[^36] A miniszter a Közgyűjteményi Ellátó Szervezet útján – amely e tevékenységéhez a HUMAN-JÖVŐ 2000 Egészségmegőrző és Oktatási Nonprofit Közhasznú Korlátolt Felelősségű Társaság szolgáltatásait veszi igénybe – működteti a központi közigazgatás integrált üdültetési rendszerét, gondoskodik az integrált üdültetési rendszerhez tartozó – az állami vagyon felügyeletéért felelős miniszter egyetértésével kijelölt – üdülőingatlanok üzemeltetéséről.
+## 9/A. §[^33] A miniszter a Közgyűjteményi Ellátó Szervezet útján – amely e tevékenységéhez a HUMAN-JÖVŐ 2000 Egészségmegőrző és Oktatási Nonprofit Közhasznú Korlátolt Felelősségű Társaság szolgáltatásait veszi igénybe – működteti a központi közigazgatás integrált üdültetési rendszerét, gondoskodik az integrált üdültetési rendszerhez tartozó – az állami vagyon felügyeletéért felelős miniszter egyetértésével kijelölt – üdülőingatlanok üzemeltetéséről.
 
 ## III. Fejezet
 
-## A MINISZTERELNÖKSÉGET VEZETŐ ÁLLAMTITKÁR FELADAT- ÉS HATÁSKÖRE
+## A MINISZTERELNÖKSÉGET VEZETŐ ÁLLAMTITKÁR, VALAMINT A MINISZTERELNÖKSÉGEN MŰKÖDŐ ÁLLAMTITKÁR FELADAT- ÉS HATÁSKÖRE[^34]
 
 ## 10. § A Miniszterelnökséget vezető államtitkár a miniszterelnöki döntésekkel kapcsolatos igazgatási feladatok ellátásáért való felelőssége körében
 
-a)[^37] ellátja a miniszterelnök személye körüli teendőket, e körben gondoskodik a miniszterelnöki látogatások előkészítésével és lebonyolításával, a miniszterelnöki találkozókkal, rendezvényekkel kapcsolatos diplomáciai és állami protokollfeladatok ellátásáról,
+a)[^35] ellátja a miniszterelnök személye körüli teendőket, e körben gondoskodik a miniszterelnöki látogatások előkészítésével és lebonyolításával, a miniszterelnöki találkozókkal, rendezvényekkel kapcsolatos diplomáciai és állami protokollfeladatok ellátásáról,
 
 b) közreműködik a Kormány parlamenti kapcsolatrendszerének összehangolásában, kapcsolatot tart az Országgyűlés kormánypárti képviselőcsoportjaival,
 
@@ -22,7 +22,7 @@ g) közvetíti a miniszterelnök eseti döntéseit a miniszterek és a kormányz
 
 h) a miniszterelnök részére soron kívül tájékoztatást, felvilágosítást, továbbá kormányzati összeállítások elkészítéséhez szakmai előkészítő anyagot, adatszolgáltatást, illetőleg szakértői közreműködést kér,
 
-i)[^38] gondoskodik a köztársasági elnök, a Kormány és a miniszterelnök által adományozható kitüntetésekkel és egyéb elismerésekkel kapcsolatos feladatok ellátásáról,
+i)[^36] gondoskodik a köztársasági elnök, a Kormány és a miniszterelnök által adományozható kitüntetésekkel és egyéb elismerésekkel kapcsolatos feladatok ellátásáról,
 
 j) elősegíti a Kormány Országgyűléssel való kapcsolattartását, valamint
 
@@ -32,12 +32,24 @@ l) figyelemmel kíséri a Kormány törvényalkotási programjának végrehajtá
 
 m) figyelemmel kíséri a Kormány munkaterve és a programozási-munkaszervezési döntései végrehajtását,
 
-n)[^39] ellátja a belföldre irányuló kormányzati kommunikációval kapcsolatos koordinációs feladatokat,
+n)[^37] ellátja a belföldre irányuló kormányzati kommunikációval kapcsolatos koordinációs feladatokat,
 
-o)[^40] gondoskodik a kormányzati kommunikációs tevékenysége keretében elemzések elkészítéséről.
+o)[^38] gondoskodik a kormányzati kommunikációs tevékenysége keretében elemzések elkészítéséről.
 
-[^36]: A 9/A. §-t az 53/2011. (III. 31.) Korm. rendelet 4. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 4. § (3) és (9)–(11) bekezdését.
-[^37]: A 10. § a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (7) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^38]: A 10. § i) pontja a 267/2010. (XII. 3.) Korm. rendelet 4. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^39]: A 10. § n) pontját a 186/2011. (IX. 12.) Korm. rendelet 2. §-a iktatta be.
-[^40]: A 10. § o) pontját a 186/2011. (IX. 12.) Korm. rendelet 2. §-a iktatta be.
+(2)[^39] A Miniszterelnökséget vezető államtitkár
+
+a) a kormányzati tevékenység összehangolásáért felelős miniszterrel együttműködve képviseli a Kormányt az Országgyűlés Házbizottságában,
+
+b) koordinálja a kormányzati szervek és az Országgyűlés kormánypárti frakciói közötti egyeztetést, részt vesz az egyeztetések lefolytatásában,
+
+c) felelős a kormányzati honlapok egységes szerkezetének és arculatának kialakításáért, fejlesztéséért, koordinálja ezek tartalmának a kialakítását,
+
+d) ellátja a külföldre irányuló kormányzati kommunikációval kapcsolatos koordinációs feladatokat.
+
+[^33]: A 9/A. §-t az 53/2011. (III. 31.) Korm. rendelet 4. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 4. § (3) és (9)–(11) bekezdését.
+[^34]: A III. Fejezet címe a 118/2012. (VI. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^35]: A 10. § a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (7) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^36]: A 10. § i) pontja a 267/2010. (XII. 3.) Korm. rendelet 4. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^37]: A 10. § n) pontját a 186/2011. (IX. 12.) Korm. rendelet 2. §-a iktatta be.
+[^38]: A 10. § o) pontját a 186/2011. (IX. 12.) Korm. rendelet 2. §-a iktatta be.
+[^39]: A 10. § (2) bekezdését a 118/2012. (VI. 26.) Korm. rendelet 4. §-a iktatta be.

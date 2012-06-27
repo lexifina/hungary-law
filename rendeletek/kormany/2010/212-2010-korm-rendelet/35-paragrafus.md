@@ -1,3 +1,3 @@
-## 29–34. §[^82]
+## 29–34. §[^83]
 
-[^82]: A 29–34. §-t a 94/2012. (V. 11.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
+[^83]: A 29–34. §-t a 94/2012. (V. 11.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
