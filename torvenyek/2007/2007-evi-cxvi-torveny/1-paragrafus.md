@@ -29,3 +29,5 @@ d) alapvető eszköz: amennyiben jogszabály, illetve jogszabály alapján kiado
 (3)
 
 (4) A stratégiai jelentőségű gazdasági társaság igazgatósági és felügyelőbizottsági tagjainak visszahívásáról szóló határozatot a társaság legfőbb szervének háromnegyedes többséggel kell meghoznia, kivéve, ha a stratégiai jelentőségű gazdasági társaság legfőbb szerve a társaság igazgatósági és felügyelőbizottsági tagjait öt évnél hosszabb határozott időre vagy határozatlan időre választotta meg, vagy a társaság alapszabálya másként rendelkezik.
+
+(5) A közellátás biztonsága szempontjából kiemelkedő jelentőségű vállalkozásokban az alapszabály (társasági szerződés) rendelkezései alapján az egy részvényes vagy részvényesi csoport által gyakorolható szavazati jogok maximálását megállapító szabály alól az államot és képviseletében eljáró személyt vagy szervet mentesítő rendelkezés alkalmazására a 2008. november 20-ától nem kerülhet sor.

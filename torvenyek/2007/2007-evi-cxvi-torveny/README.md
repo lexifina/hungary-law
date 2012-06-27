@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-116-00-00
 | --- | --- | --- |
 | 2008-11-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2007-116-00-00.2 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2007-116-00-00.3 |
+| 2012-06-27 | 2012. évi LXXVI. törvény | 2007-116-00-00.4 |

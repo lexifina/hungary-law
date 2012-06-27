@@ -1,18 +1,4 @@
-8. § (1) E törvény hatálybalépésével egyidejűleg
-
-a) a GET 4/A. §-ának (1) bekezdésében „A Magyar Energia Hivatal által jelölt személy” szövegrész helyébe „A megfelelő szakmai képesítéssel, gyakorlattal rendelkező, Magyar Energia Hivatal által jelölt személy” szöveg lép,
-
-b) a Ctv. 14. §-ának (4) bekezdésében „A céginformációs szolgálat a (2)–(3) bekezdésben” szövegrész helyébe „A céginformációs szolgálat a (3) bekezdésben” szövegrész lép,
-
-c) a Tpt. 73/A. §-a (2) bekezdésében „Az (1) bekezdésben foglalt tilalom” szövegrész helyébe „Az (1) bekezdés szerinti alapszabályi tilalom” szövegrész lép.
-
-(2) E törvény hatálybalépésével egyidejűleg hatályát veszti
-
-a) a Gt. 223. §-ának (2) bekezdése, 295. §-ának (2) bekezdése, 299. §-ának (2) bekezdése, 302. §-ának a) és b) pontja, 305. §-ának (1) bekezdése, valamint 335. §-ának (2) bekezdése,
-
-b) a Ctv. 15. § (1) bekezdésének utolsó két mondata,
-
-c) az államot megillető szavazatelsőbbségi részvény jogintézményének megszüntetéséről és egyes törvényeknek a megszüntetéssel összefüggő módosításáról szóló 2007. évi XXVI. törvény 7. §-a.
+8. § (1)–(2)
 
 (3) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
