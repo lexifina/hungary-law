@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-200-00-00
 | --- | --- | --- |
 | 2012-05-01 | 2011. évi CC. törvény | 2011-200-00-00.0 (közlönyállapot) |
 | 2012-05-01 | 2012. évi XLI. törvény | 2011-200-00-00.1 |
+| 2012-06-27 | 2012. évi LXXVI. törvény | 2011-200-00-00.2 |

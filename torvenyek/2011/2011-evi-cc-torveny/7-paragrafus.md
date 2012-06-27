@@ -8,8 +8,8 @@ b) a nemzeti mobil fizetési szervezet és az ügyfél közötti jogviszony tart
 
 c) a nemzeti mobil fizetési szervezetet megillető kényelmi díj mértékét és alkalmazásának feltételeit,
 
-d) a nemzeti mobil fizetési szervezet és a szolgáltató közötti jogviszony tartalmát, ehhez kapcsolódóan a felek jogait és kötelezettségeit, a nemzeti mobil fizetési szervezet által a központosított mobil értékesítésű szolgáltatás továbbértékesítése során alkalmazandó árrés mértékét, valamint az 5. § (1) bekezdése szerinti szolgáltatások körét és alkalmazásának feltételeit,
+d) a nemzeti mobil fizetési szervezet és a szolgáltató közötti jogviszony tartalmát, ehhez kapcsolódóan a felek jogait és kötelezettségeit, a nemzeti mobil fizetési szervezet által a szolgáltatóval szemben alkalmazandó díj mértékét, valamint az 5. § (1) bekezdése szerinti szolgáltatások körét és alkalmazásának feltételeit,
 
-e) a 10. § szerinti adatátadás-átvétel részletes feltételeit, a regisztrált ügyfél és a nemzeti mobil fizetési szervezet közötti jogviszony létrejöttének részletes szabályait
+e)
 
 rendeletben állapítsa meg.

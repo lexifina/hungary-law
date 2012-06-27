@@ -1,15 +1,17 @@
-6. § (1) A nemzeti mobil fizetési szervezet jogosult az e törvényben meghatározott feladatainak teljesítése érdekében az ügyfél azonosíthatósága, a szolgáltatás díjának megfizetése ellenőrzésének, valamint a központosított mobil értékesítésű szolgáltatással kapcsolatos mentességek és kedvezmények igénybevétele jogszerűségének megállapítása céljából szükséges, a (2) bekezdésben meghatározott adatok kezelésére.
+6. § (1) A nemzeti mobil fizetési szervezet adatkezelésére az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény (a továbbiakban: Eksztv.) adatvédelemre vonatkozó rendelkezéseit az e §-ban foglalt eltéréssel, valamint azzal kell alkalmazni, hogy az Eksztv. szerinti szolgáltatón a nemzeti mobil fizetési szervezetet, információs társadalommal összefüggő szolgáltatáson a központosított mobil értékesítésű szolgáltatást, míg igénybe vevőn az ügyfelet, valamint az e törvény szerinti igénybe vevőt kell érteni.
 
-(2) A nemzeti mobil fizetési szervezet adatkezelési jogosultsága a következő adatokra terjed ki:
+(2) A nemzeti mobil fizetési szervezet az ügyfél azonosíthatósága, a szolgáltatás díja megfizetésének ellenőrzése, valamint a központosított mobil értékesítésű szolgáltatással kapcsolatos mentességek és kedvezmények igénybevétele jogszerűségének megállapítása céljából az Eksztv. 13/A. §-ában foglaltakon túlmenően jogosult kezelni
 
-a) az ügyfél természetes személyazonosító adatai közül családi és utóneve, születési helye és ideje,
+a) az ügyfél telefon hívószámát, valamint az érintett szolgáltatással kapcsolatos vagy az annak igénybevétele során létrejövő azonosítóját,
 
-b) az ügyfél telefon hívószáma és az érintett szolgáltatással kapcsolatos vagy annak igénybevétele során létrejövő azonosítója,
+b) a 2. § a) és b) pontja szerinti szolgáltatásnyújtás esetén a gépjármű rendszámát,
 
-c) a 2. § a) és b) pontja szerinti szolgáltatásnyújtás esetén a gépjármű rendszáma,
+c) a központosított mobil értékesítésű szolgáltatással kapcsolatos mentesség vagy kedvezmény esetén a mentesség vagy kedvezmény jogcímét, a jogcímet megalapozó okmány azonosítóját, a típusára és érvényességére vonatkozó adatokat, valamint
 
-d) a központosított mobil értékesítésű szolgáltatással kapcsolatos mentesség vagy kedvezmény esetén a mentesség vagy kedvezmény jogcímére, a jogcímet megalapozó okmány azonosítójára, típusára, érvényességére,
+d) az utazási viszonylathoz kötött kedvezmény esetén az utazási viszonylatra, a meghatározott időponthoz vagy időszakhoz kötött érvényességű kedvezmény esetén az érvényességi időszakra vagy időpontra, továbbá a jogosult lakóhelyére vagy tartózkodási helyére vonatkozó adatokat.
 
-e) az utazási viszonylathoz kötött kedvezmény esetén az utazási viszonylatra, a meghatározott időponthoz vagy időszakhoz kötött érvényességű kedvezmény esetén az érvényességi időszakra vagy időpontra, továbbá a jogosult lakóhelyére vagy tartózkodási helyére.
+(3) A központosított mobil értékesítésű szolgáltatás nyújtása céljából a nemzeti mobil fizetési szervezet jogosult a szolgáltató számára továbbítani, a szolgáltató pedig – e § rendelkezései szerint – kezelni azokat a személyes adatokat, amelyek a központosított mobil értékesítésű szolgáltatás nyújtásához elengedhetetlenül szükségesek.
 
-(3) A nemzeti mobil fizetési szervezet a (2) bekezdésben meghatározott adatokat – törvény eltérő rendelkezése hiányában –az ügyféllel kötött szerződés megszűnését követő három évig kezelheti.
+(4) A nemzeti mobil fizetési szervezet az (1) és (2) bekezdés, valamint a szolgáltató a (3) bekezdés alapján kezelt személyes adatokat az adatkezelés céljának megszűnéséig, de legfeljebb az ügyféllel kötött szerződés megszűnését követő 5 évig kezelheti.
+
+(5) A központosított mobil értékesítésű szolgáltatás igénybevétele nem tehető függővé a (2) vagy a (3) bekezdésben, valamint az Eksztv. 13/A. § (1)–(3) bekezdésében nem említett célból történő adatkezeléshez való hozzájárulástól.
