@@ -1,1 +1,0 @@
-## 8. § A szolgáltató köteles lehetővé tenni, hogy az előfizető és a felhasználó a 6. § és a 7. §-ban foglaltakat egyszerű módon végrehajthassa, így különösen az egyes letiltásokat a készülék használatával elvégezhesse, ha a készülék erre műszakilag alkalmas.
