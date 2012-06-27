@@ -86,7 +86,7 @@ A minősített befolyás nagyságának megállapításakor a közvetlen és a k�
 
 33. Kártalanítási Szervezet: a Gfbt.-ben meghatározott fogalom;
 
-34. kézbesítési megbízott: Magyarország területén bejegyzett ügyvéd, ügyvédi iroda vagy a kérelmező Magyar Köztársaság területén bejegyzett biztosítója, biztosításközvetítője, vagy biztosítási szaktanácsadója, illetve az e törvény szerinti képviselete;
+34. kézbesítési megbízott: Magyarország területén bejegyzett ügyvéd, ügyvédi iroda vagy a kérelmező Magyarország területén bejegyzett biztosítója, biztosításközvetítője, vagy biztosítási szaktanácsadója, illetve az e törvény szerinti képviselete;
 
 35. kockázatnak kitett összeg: a halál esetén kifizetendő összeg, levonva belőle a fő kockázat matematikai tartalékát, illetve befektetési egységekhez kötött életbiztosítási szerződés esetén a befektetési egységekhez kötött (unit-linked) életbiztosítások tartalékát;
 
