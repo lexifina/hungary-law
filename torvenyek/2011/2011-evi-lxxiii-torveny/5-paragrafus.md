@@ -1,3 +1,0 @@
-## 3. A közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény módosítása
-
-5–10. §
