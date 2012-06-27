@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-83-00-00
 | 2012-01-01 | 2011. évi CLXXVI. törvény | 1997-83-00-00.53 |
 | 2012-03-15 | 2011. évi CLXXX. törvény | 1997-83-00-00.54 |
 | 2012-04-28 | 2012. évi XXXVIII. törvény | 1997-83-00-00.55 |
+| 2012-06-27 | 2012. évi LXXVI. törvény | 1997-83-00-00.56 |
