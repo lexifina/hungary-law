@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-104-00-00
 | --- | --- | --- |
 | 2011-07-20 | 2011. évi CIV. törvény | 2011-104-00-00.0 (közlönyállapot) |
 | 2011-07-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-104-00-00.1 |
+| 2012-06-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-104-00-00.2 |
