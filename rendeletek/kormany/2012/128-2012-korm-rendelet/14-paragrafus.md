@@ -1,1 +1,3 @@
-## 13. § Hatályát veszti a Nemzeti Eszközkezelő Zrt. és a bérlő között létrejött lakásbérleti szerződés szerinti lakbér mértékéről és a lakáscseréhez történő hozzájárulás feltételeiről szóló 72/2012. (IV. 12.) Korm. rendelet.
+## 13. §[^1]
+
+[^1]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
