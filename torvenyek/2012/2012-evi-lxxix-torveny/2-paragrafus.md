@@ -1,3 +1,0 @@
-2. § Az Ebtv. 27. § (5) bekezdése a következő szöveggel egészül ki:
-
-„Amennyiben a Magyarországon történő ellátás és a haza- és visszaszállítás vagy utazás együttes költsége nem éri el a külföldi ellátás költségeinek 85 százalékát, az egészségbiztosító a haza- és visszaszállítás vagy utazás költségét teljes mértékben megtéríti. Amennyiben az e bekezdés hatálya alá tartozó személy – a sürgős szükség esetét kivéve – az ellátás céljából történő haza- és visszaszállítást vagy utazást nem vállalja, az egészségbiztosító a külföldön igénybe vett ellátás költségeit a belföldi költségmértéknek megfelelően téríti meg.”
