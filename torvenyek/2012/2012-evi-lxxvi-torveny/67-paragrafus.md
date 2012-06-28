@@ -1,1 +1,0 @@
-67. § Hatályát veszti a közellátás biztonsága szempontjából kiemelkedő jelentőségű vállalkozásokat érintő egyes törvények módosításáról szóló 2007. évi CXVI. törvény 3–7. §-a és 8. § (1) és (2) bekezdése.

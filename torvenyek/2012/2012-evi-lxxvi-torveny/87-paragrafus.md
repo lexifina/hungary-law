@@ -1,1 +1,0 @@
-87. § Hatályát veszti a közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény 2. § (1)–(6) bekezdése.

@@ -1,1 +1,0 @@
-51. § A szerzői jogról szóló 1999. évi LXXVI. törvény 38. § (1) bekezdés e) pontjában a „vallási szertartásain és egyházi” szövegrész helyébe az „ , alapcélként vallási tevékenységet végző egyesületek vallási szertartásain és vallási” szöveg lép.
