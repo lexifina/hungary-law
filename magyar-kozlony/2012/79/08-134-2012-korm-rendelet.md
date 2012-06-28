@@ -1,0 +1,431 @@
+# A Kormány 134/2012. (VI. 28.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 79. szám, 2012. június 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e3a038685763e1b0f83683058b0e8ddfc0c5d115/dokumentumok/5bdcaa22550c274902791839cd9698fc1bda27fc/letoltes)
+
+---
+
+A Kormány 134/2012. (VI. 28.) Korm. rendelete
+az egyes kormányrendeleteknek a műemlékekkel kapcsolatos építésügyi hatáskör változásával
+összefüggő módosításáról
+A Kormány
+az 1. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés
+d) pontjában,
+a 2. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés
+a) pontjában és a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. §
+(1) bekezdés a)–b) pontjában,
+a 3. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés
+a) pontjában,
+a 4. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés
+s) pontjában és a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. §
+(1) bekezdés a)–b) pontjában,
+az 5. alcím tekintetében a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 27. § (1) bekezdés d) pontjában,
+a 6. alcím tekintetében a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (1) bekezdés o) és u) pontjában, valamint az épített
+környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés s) pontjában,
+a 7. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés a) és
+s) pontjában, a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés b) pontjában, valamint a közigazgatási
+hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés a)–b) pontjában,
+a 8. alcím tekintetében a közbeszerzésekről szóló 2011. évi CVIII. törvény 182. § (1) bekezdés 10. pontjában,
+a 24. § a) pontja tekintetében a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés a) pontjában,
+a 24. § b) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés
+i) pontjában,
+a 24. § c) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés
+s) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. Az építésügyi bírság megállapításának részletes szabályairól szóló
+245/2006. (XII. 5.) Korm. rendelet módosítása
+1. § Az építésügyi bírság megállapításának részletes szabályairól szóló 245/2006. (XII. 5.) Korm. rendelet „A bírság mértéke
+és számítása” alcíme a következő 2/A. §-sal egészül ki:
+„2/A. § A műemléki védelem alatt álló építményt érintő építési és bontási tevékenység esetén az építésügyi bírság
+mértékét az örökségvédelmi bírságról szóló 191/2001. (X. 18.) Korm. rendelet szerinti módon és mértékben kell
+megállapítani.”
+
+2. A földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról
+és az ingatlan-nyilvántartási eljárás részletes szabályairól szóló
+338/2006. (XII. 23.) Korm. rendelet módosítása
+2. § A földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási
+eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet 20. §-a a következő (3) bekezdéssel egészül ki:
+„(3) E rendeletnek az egyes kormányrendeleteknek a műemlékekkel kapcsolatos építésügyi hatáskör változásával
+összefüggő módosításáról szóló 134/2012. (VI. 28.) Korm. rendelettel módosított 6. §-át és 2. mellékletét a 2012. július
+1-jét követően indult, illetve a megismételt eljárásokban kell alkalmazni.”
+3. § A földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási
+eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet
+a) 2. mellékletében foglalt táblázat I. 4. sorában, II. 5. sorában, III. 5. sorában és IV. 5. sorában az „illetve műemléki
+terület” szövegrész helyébe a „műemlék, illetve műemléki terület” szöveg,
+b) 4. mellékletében foglalt táblázat 8. sorában az „illetve műemléki terület” szövegrész helyébe a „műemlék, illetve
+műemléki terület” szöveg
+lép.
+4. § Hatályát veszti a földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és
+az ingatlan-nyilvántartási eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet 6. §-ában a „ , valamint
+az olyan ingatlanok kivételével, amelyek jogi jellege az ingatlan-nyilvántartásban műemlékként vagy műemlék
+jellegűként van feljegyezve” szövegrész.
+3. Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló
+343/2006. (XII. 23.) Korm. rendelet módosítása
+5. § Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.)
+Korm. rendelet (a továbbiakban: R1.) 1. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) A Kormány elsőfokú építésügyi hatóságként a műemlékek tekintetében az 1/A. mellékletben megjelölt
+a) települési önkormányzat jegyzőjét a mellékletben meghatározott ellátási és készenléti illetékességi terület
+településeire,
+b) a fővárosi kerületi önkormányzat jegyzőjét a mellékletben meghatározott ellátási illetékességi területre
+kiterjedő illetékességgel jelöli ki.”
+6. § Az R1. a következő 2/B. §-sal egészül ki:
+„2/B.§ Ha a műemlékenépítésügyi hatóságiengedélyhezkötött építésitevékenységmellett örökségvédelmihatósági
+engedélyhez kötött építési munkát is kell végezni, akkor a Kulturális Örökségvédelmi Hivatalról, a kulturális
+örökségvédelmi szakigazgatási szervekről, és eljárásaikra vonatkozó általános szabályokról szóló 324/2010. (XII. 27.)
+Korm. rendelet 5. § (1) bekezdés 12. pont e) és f) alpontjában, 5. § (1) bekezdés 13. és 14. pontjában meghatározott
+építési munkák elvégzését is az 1. § (1a) bekezdése szerinti építésügyi hatóság engedélyezi.”
+7. § Az R1. 9. §-a a következő (5) bekezdéssel egészül ki:
+„(5) E rendeletnek az egyes kormányrendeleteknek a műemlékekkel kapcsolatos építésügyi hatáskör változásával
+összefüggő módosításáról szóló 134/2012. (VI. 28.) Korm. rendelettel módosított 1. §-át és 2/B. §-át a 2012. július 1-jét
+követően indult, illetve a megismételt eljárásokban kell alkalmazni.”
+8. § Az R1. 1/A. melléklete e rendelet 1. melléklete szerint módosul.
+9. § Hatályát veszti az R1.
+a) 1. § (3) bekezdésében az „ , a műemlékek” szövegrész,
+b) 1. § (5) bekezdésében az „és a műemléki védelem alatt álló építmények” szövegrész,
+c) 1/B. mellékletének a BORSOD-ABAÚJ-ZEMPLÉN MEGYE alcímet követő 8. pontja.
+
+4. Az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló
+193/2009. (IX. 15.) Korm. rendelet módosítása
+10. § (1) Az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló 193/2009. (IX. 15.) Korm. rendelet
+(a továbbiakban: R2.) 6. § (3) bekezdése a következő c) ponttal egészül ki:
+(Az eljáró építésügyi hatóságnak)
+„c) kulturális örökségvédelmi szakhatóság bevonásakor a kulturális örökségvédelmi szakhatósághoz intézett
+megkereséséhez műemlék, műemléki terület és a műemléket érintő módon megvalósuló építési tevékenység
+esetében csatolnia kell a 6. melléklet szerinti dokumentációt.”
+(2) Az R2. 46. §-a a következő (2) bekezdéssel egészül ki:
+„(2) E rendeletnek az egyes kormányrendeleteknek a műemlékekkel kapcsolatos építésügyi hatáskör változásával
+összefüggő módosításáról szóló 134/2012. (VI. 28.) Korm. rendelettel
+a) megállapított 6. § (3) bekezdését, 6. mellékletét,
+b) módosított 1. § (3) bekezdését, 44. § (2) bekezdés a) pontját, 5. mellékletét
+a 2012. július 1-jét követően indult, illetve a megismételt eljárásokban kell alkalmazni.”
+11. § Az R2. e rendelet 2. melléklete szerinti 6. melléklettel egészül ki.
+12. § Az R2. 5. melléklete e rendelet 3. mellékletében foglaltak szerint módosul.
+13. § Az R2. 44. § (2) bekezdés a) pontjában a „műemléki területet” szövegrész helyébe a „műemléket, műemléki területet”
+szöveg lép.
+14. § Hatályát veszti az R2. 1. § (3) bekezdésében a „ , valamint a műemléki építménnyel” szövegrész.
+5. A területfejlesztési koncepció, a területrendezési program és a területrendezési terv tartalmi
+követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük
+részletes szabályairól szóló 218/2009. (X. 6.) Korm. rendelet módosítása
+15. § A területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről,
+valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló
+218/2009. (X. 6.) Korm. rendelet a következő 10/A. §-sal egészül ki:
+„10/A. § A területrendezésért felelős miniszter az OTrT-nek az Országos Területrendezési Tervről szóló 2003. évi
+XXVI. törvény 29. §-a szerinti felülvizsgálatáról, valamint az OTrT munkarészei módosításának előkészítéséről a VÁTI
+Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. útján gondoskodik.”
+6. A repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének
+és megszüntetésének szabályairól szóló 159/2010. (V. 6.) Korm. rendelet módosítása
+16. § A repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és
+megszüntetésének szabályairól szóló 159/2010. (V. 6.) Korm. rendelet 1. § (2) bekezdés b) pontja helyébe a következő
+rendelkezés lép:
+(E rendelet hatálya nem terjed ki:)
+„b) a repülőtéren lévő műemléki építményekkel kapcsolatos kulturális örökségvédelmi hatósági engedélyezésre.”
+7. A Kulturális Örökségvédelmi Hivatalról, a kulturális örökségvédelmi szakigazgatási szervekről,
+és eljárásaikra vonatkozó általános szabályokról szóló 324/2010. (XII. 27.) Korm. rendelet módosítása
+17. § A Kulturális Örökségvédelmi Hivatalról, a kulturális örökségvédelmi szakigazgatási szervekről, és eljárásaikra
+vonatkozó általános szabályokról szóló 324/2010. (XII. 27.) Korm. rendelet (a továbbiakban: R3.) 5. § (1) bekezdése
+helyébe a következő rendelkezés lép:
+„(1) A Kormány a Kötv.-ben meghatározott alábbi kulturális örökségvédelmi feladatok ellátására első fokú kulturális
+örökségvédelmi hatóságként a szakigazgatási szervet jelöli ki:
+1. a Kötv. 17. §-a szerinti, régészeti lelőhely ideiglenes védelmével kapcsolatos hatósági feladatok;
+2. régészeti feltárás engedélyezésével kapcsolatos, a Kötv. 20. §-a és 22. §-a szerinti, valamint egyedi hatósági ügyben
+a Kötv. 23. § (2) bekezdése szerinti hatósági feladatok;
+
+3. a Kötv. 24. §-a szerinti, mentő feltárással kapcsolatos hatósági feladatok;
+4. a Kötv. 27. §-a szerinti, a régészeti emlékek megőrzésével kapcsolatos hatósági feladatok;
+5. a Kötv. 31. §-a szerinti, műemléki érték ideiglenes védelmével kapcsolatos hatósági feladatok;
+6. a Kötv. 44. §-a szerinti hatósági jóváhagyás;
+7. a kulturális javak kivételével a Kötv. 67. § (1)–(2) bekezdése szerinti hatósági kötelezés;
+8. a kulturális javak kivételével a Kötv. 67. § (3) bekezdés a) pontja, és – ha a vagyonkezelési vagy használati jogra
+vonatkozóhatóságijóváhagyásügyébenaszakigazgatásiszervjártel–67.§ (3) bekezdésd) pontjaszerintifeladatok;
+9. a kulturális javak kivételével a Kötv. 68. §-a szerinti döntések;
+10. a Kötv. 69. §-a szerinti tűrési kötelezettség kimondása;
+11. a kulturális javak esetének kivételével az örökségvédelmi bírság kiszabása;
+12. a Kötv. 63. § (3) bekezdése alapján a védetté nyilvánított régészeti lelőhelyen végzett, építésügyi hatósági vagy
+más hatósági engedélyhez nem kötött alábbi tevékenységek engedélyezése:
+a) minden 30 cm mélységet meghaladó földmunka, így különösen: légvezeték, faültetés, tuskóirtásos fakitermelés,
+rigolírozás, meliorizáció, szőlő és gyümölcsös telepítése,
+b) a lelőhely rendeltetésének, művelési ágának megváltoztatása,
+c) a lelőhelyen található régészeti emlékek megóvási, konzerválási munkálatai,
+d) a lelőhelyen lévő építmény vagy ennek maradványai bármely terepszinti vagy az alatti padlójának megbontása,
+e) kerítés, oszlop földbeállítása, az 1 métert meg nem haladó tereprendezés,
+f) kavics-, föld- és anyagdepó, illetve feltöltés, töltés létesítése;
+13. a Kötv. 63. § (3) bekezdése alapján a védetté nyilvánított kulturális örökségi elem jellegét és megjelenését érintő,
+építésügyi hatósági vagy más hatósági engedélyhez nem kötött alábbi tevékenységek engedélyezése:
+a) kémény átalakítása,
+b) járda készítése, javítása, cseréje, eltávolítása,
+c) burkolatok, falfelületek felújítása, cseréje,
+d) belső díszítmények, szerelvények, fűtőberendezések elhelyezése, eltávolítása, átalakítása, átszínezése,
+e) az épülethez tartozó történeti értékű világítótestek és berendezések eltávolítása, felújítása, javítása, cseréje,
+f) épületgépészeti és elektromos rendszerek, berendezések elhelyezése, felújítása, átalakítása, cseréje, eltávolítása,
+g) kerítés létesítése, felújítása, átalakítása, átszínezése, eltávolítása,
+h) utólagos falszigetelés készítése,
+i) válaszfalak építése, bontása, átépítése;
+14. a Kötv. 63. § (3) bekezdése alapján műemlékhez tartozó kert vagy udvar megjelenését tartósan befolyásoló,
+építésügyi hatósági vagy más hatósági engedélyhez nem kötött kertépítészeti munkák (kerti építmény, támfal,
+medence, tereplépcső, burkolatok építése) elvégzésének engedélyezése;
+15. a Kötv. 63. § (3) bekezdése alapján műemlékhez tartozó ingatlanterületen történő, más hatósági engedélyhez nem
+kötött fakivágás, fa- és növényzettelepítés engedélyezése;
+16. a Kötv. 63. § (3) bekezdése alapján a műemlék falfelületeinek vagy szerkezeteinek, továbbá alkotórészeinek és
+tartozékainak tudományos vagy műszaki célú kutatására, feltárására irányuló, építésügyi hatósági vagy más hatósági
+engedélyhez nem kötött alábbi tevékenységek engedélyezése:
+a) műemléki védelem alatt álló építmények fizikai beavatkozással, mintavétellel, roncsolással járó vizsgálata
+(elemzése),
+b) a műemlék tartozékát (alkotórészét) képező műemlékként védett képző- és iparművészeti alkotás roncsolásos
+vizsgálata;
+17. a Kötv. 63. § (3) bekezdése alapján a műemlék funkciójának, használati módjának megváltoztatására irányuló,
+építésügyi hatósági vagy más hatósági engedélyhez nem kötött tevékenység engedélyezése;
+18. a Kötv. 63. § (3) bekezdése alapján a műemlékekkel és a védetté nyilvánított kulturális javakkal kapcsolatos,
+építésügyi hatósági vagy más hatósági engedélyhez nem kötött megóvási (konzerválási), restaurálási vagy átalakítási
+munkák engedélyezése;
+19. a Kötv. 63. § (3) bekezdése alapján a műemlék jellegét és megjelenését befolyásoló fényforrás építésügyi hatósági
+vagy más hatósági engedélyhez nem kötött elhelyezésének, illetve üzemeltetésének engedélyezése.”
+
+18. § (1) Az R3. 10. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek, és a § a következő (4a) bekezdéssel
+egészül ki:
+„(3) A Hivatal szakértő testületként működteti a Műemléki Tanácsadó Testületet, amely a műemlékekkel kapcsolatos
+hatósági, szakhatósági, illetve egyéb szakmai döntések előkészítésében segíti a Hivatal és a szakigazgatási szervek
+munkáját.
+(4) A szakigazgatási szerv
+a) a Kötv. 63. § (1) bekezdésében meghatározott ügyekben szakhatóságként eljárva, illetve
+b) a Kötv. 63. § (3) bekezdése szerinti hatósági engedélyezési eljárásában
+kéri ki a Műemléki Tanácsadó Testület véleményét.
+(4a) A szakigazgatási szerv eljárásának határidejébe a Műemléki Tanácsadó Testület eljárási ideje beleszámít.”
+(2) Az R3. 18. §-a a következő (3) bekezdéssel egészül ki:
+„(3) E rendeletnek az egyes kormányrendeleteknek a műemlékekkel kapcsolatos építésügyi hatáskör változásával
+összefüggő módosításáról szóló 134/2012. (VI. 28.) Korm. rendelettel
+a) megállapított 5. § (1) bekezdését, 10. § (3), (4) és (4a) bekezdését, valamint módosított 6. § (1) bekezdés b) pontját,
+2. mellékletét a 2012. július 1-jét követően indult, illetve a megismételt eljárásokban,
+b) hatályon kívül helyezett 3. § (2) bekezdését, 5. § (2) bekezdését, 12–13. §-át, 3. mellékletét a 2012. július 1-je előtt
+indult eljárásokban
+kell alkalmazni.”
+19. § Az R3. 2. melléklete e rendelet 4. melléklete szerint módosul.
+20. § Az R3. 6. § (1) bekezdés b) pontjában a „külön jogszabályban meghatározott esetben műemléket érintő” szövegrész
+helyébe az „a műemlék építményen, műemlék ingatlanán végzett” szöveg lép.
+21. § Hatályát veszti az R3.
+a) 3. § (2) bekezdése,
+b) 5. § (2) bekezdése,
+c) 12–13. §-a,
+d) 2. mellékletének B. pont I. alpontjában az „illetve külön jogszabályban meghatározott esetben műemléket”
+szövegrész,
+e) 3. melléklete.
+8. Az építési beruházások közbeszerzésének részletes szabályairól szóló
+306/2011. (XII. 23.) Korm. rendelet módosítása
+22. § Az építési beruházások közbeszerzésének részletes szabályairól szóló 306/2011. (XII. 23.) Korm. rendelet 15. §
+(1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Műemlékkel kapcsolatos építési beruházás alatt a kulturális örökség védelméről szóló törvényben meghatározott
+műemlékenvégzett, építésügyi hatóságiengedélyhezkötött építésitevékenységnekminősülő építésiberuházástkell
+érteni.”
+9. Záró rendelkezések
+23. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2012. július 1-jén lép hatályba.
+(2) A 8. § és a 9. § c) pontja 2012. augusztus 1-jén lép hatályba.
+(3) Ez a rendelet 2012. augusztus 2-án hatályát veszti.
+24. § Hatályát veszti
+a) az örökségvédelmi bírságról szóló 191/2001. (X. 18.) Korm. rendelet 5/C. § (2) bekezdése,
+b) az építésügy körébe tartozó egyes hatósági nyilvántartásokról szóló 255/2007. (X. 4.) Korm. rendelet
+ba) 1. § (2) bekezdésében a „ , valamint a műemlékekkel” és az „ , illetve a műemlékekkel” szövegrész,
+bb) 7. § (2) bekezdése,
+
+c) az építési beruházások megvalósításához szükséges eljárások integrált intézésének részletes szabályairól és
+a közreműködő hatóságok kijelöléséről szóló 194/2009. (IX. 15.) Korm. rendelet
+ca) 2. § b) pontjában az „ , illetve a műemlékkel” szövegrész,
+cb) 19. § (2) bekezdés b)–c) és e) pontjai.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet a 134/2012. (VI. 28.) Korm. rendelethez
+Az R1. 1/A. mellékletében a Miskolc ellátási illetékességi területéhez és készenléti illetékességi területéhez tartozó
+települések felsorolása helyébe a következő szöveg lép:
+„Miskolc ellátási illetékességi területe Miskolc
+Bükkszentkereszt
+Gesztely
+Hernádkak
+Hernádnémeti
+Kistokaj
+Mályi
+Répáshuta
+Sajóecseg
+Sajókeresztúr
+Sajóvámos
+Szirmabesenyő
+készenléti illetékességi területe Alsózsolca
+Bőcs
+Onga
+Sajóbábony
+Sajósenye”
+2. melléklet a 134/2012. (VI. 28.) Korm. rendelethez
+„6. melléklet a 193/2009. (IX. 15.) Korm. rendelethez
+Építésügyi hatósági engedélyezési eljárás során a kulturális örökségvédelmi szakhatóság
+megkereséséhez szükséges dokumentáció
+I. Az elvi építési, építési, bontási, az összevont építésügyi hatósági, valamint a fennmaradási engedély iránti kérelemhez
+mellékelni kell:
+1. a meglévő (a változtatás előtti) állapotra vonatkozó, legalább 1:100 méretarányú felmérési tervet,
+fotódokumentációt,
+2. a homlokzatot érintő munkák esetében:
+a) a homlokzat kialakítására vonatkozó műszaki tervet és leírást,
+b) színezési vázlatot,
+c) az érintett utcakép rajzi és fényképi ábrázolását,
+d) homlokzat felújítás és utólagos falszigetelés esetén a faldiagnosztikai vizsgálat eredményét,
+
+3. műemléken reklám, reklámhordozó elhelyezéséhez:
+a) a reklám, reklámhordozó szerkezetének, anyagának, a felirat betűtípusának meghatározását,
+b) színezését,
+c) a megvilágítás módját,
+d) a műemlék épülethez való csatlakoztatása műszaki megoldásának részletterveit, valamint
+e) a beavatkozás mértékétől függően a tervezett elhelyezés melletti 2–2 tengelyt magába foglaló
+homlokzatszakaszt ábrázoló 1:50 léptékű dokumentációt.
+II. A használatbavételi engedély iránti kérelemhez fotódokumentációt és az elvégzett beavatkozások és a létrejött
+állapot rögzítését tartalmazó megvalósulási dokumentációt kell mellékelni.”
+3. melléklet a 134/2012. (VI. 28.) Korm. rendelethez
+Az R2. 5. mellékletének 16.1. és 16.2. pontja helyébe a következő rendelkezések lépnek:
+„16.1. Műemléken,
+régészeti lelőhelyen,
+régészeti
+védőövezet
+területén, illetve
+műemléki területen,
+továbbá műemléket
+érintő módon
+megvalósuló építési
+tevékenység esetén.
+Annak elbírálása
+kérdésében, hogy
+az építési
+tevékenység
+a kulturális örökség
+védelme
+jogszabályban
+rögzített
+követelményeinek
+a kérelemben
+foglaltak szerint
+vagy további
+feltételek mellett
+megfelel-e.
+Fennmaradási
+engedély esetén
+állásfoglalást ad
+az építésügyi bírság
+mértékének
+megállapításához.
+a) elvi építési
+engedély,
+b) építési engedély,
+c) összevont
+építésügyi hatósági
+engedély,
+d) használatbavételi
+engedély,
+e) fennmaradási
+engedély
+fővárosi és megyei
+kormányhivatal
+kulturális
+örökségvédelmi
+irodája
+Kulturális
+Örökségvédelmi
+Hivatal
+16.2. Műemléken,
+műemléki területen,
+védetté nyilvánított
+régészeti lelőhelyen,
+továbbá műemléket
+érintő módon
+megvalósuló bontási
+tevékenység esetén.
+Annak elbírálása
+kérdésében, hogy
+a bontási
+tevékenység
+a kulturális örökség
+védelme
+jogszabályban
+rögzített
+követelményeinek
+a kérelemben
+foglaltak szerint
+vagy további
+feltételek mellett
+megfelel-e.
+bontási engedély fővárosi és megyei
+kormányhivatal
+kulturális
+örökségvédelmi
+irodája
+Kulturális
+Örökségvédelmi
+Hivatal”
+
+4. melléklet a 134/2012. (VI. 28.) Korm. rendelethez
+1. Az R3. 2. mellékletének B. pont I. alpontja a következő 4. alponttal egészül ki:
+„4. A telekalakítással kapcsolatos örökségvédelmi szakhatósági állásfoglalás során a történeti telektulajdonságokat
+(telekméret, telekforma, telekosztási struktúra, megközelítési lehetőség), az ingatlan kulturális örökségi elem
+elválaszthatatlan részeként kell tekintetbe venni, ezért a történeti telekstruktúra fennmaradását nem veszélyeztető
+telekalakításhoz adható hozzájárulás.”
+2. Az R3. 2. mellékletének B. pont II. alpontja a következő 4. alponttal egészül ki:
+„4. A telekalakítással kapcsolatos örökségvédelmi szakhatósági állásfoglalás során a történeti telektulajdonságokat
+(telekméret, telekforma, telekosztási struktúra, megközelítési lehetőség), az ingatlan kulturális örökségi elem
+elválaszthatatlan részeként kell tekintetbe venni, ezért – így különösen hagyományos (történeti) települések bel és
+külterületén – a történeti telekstruktúra fennmaradását nem veszélyeztető telekalakításhoz adható hozzájárulás.”
+3. Az R3. 2. mellékletének B. pontja a következő IV. alponttal egészül ki:
+„IV. A műemléken megvalósuló tevékenységre irányuló, más hatóságok előtt indult eljárásokban a Hivatal és
+a szakigazgatási szerv szakhatósági feladatkörébe tartozó szakkérdések:
+1. Szakhatósági állásfoglaláshoz minden esetben vizsgálandó, hogy a tervezett építési munka
+1.1. teljesíti-e a műemléki érték anyagi valóságában történő megőrzésének alapkövetelményét; és
+1.2. tiszteletben tartja-e a műemlék történeti, kulturális értékének elsődlegességét a jelenkor használati
+követelményeinek kielégítése során; továbbá
+1.3. a műemléki értéket kellő mértékben és hitelesen érvényre juttatja-e.
+2. A műemlékek funkciójával kapcsolatosan vizsgálandó, hogy a műemléki ingatlanon, épületben vagy
+építményben tervezett funkció az eredeti, illetve a jelenlegi funkcióhoz képest
+2.1. nem méltatlan-e a műemlék kulturális, történeti értékéhez; és
+2.2. elhelyezése (kialakítása) nem jár-e a műemléki értékek súlyos veszélyeztetésével; továbbá
+2.3. a használat nem okoz-e akár közvetlenül, akár közvetve műemléki értékcsökkenést, értékvesztést.
+3. Műemlékeket érintő beavatkozások körében figyelembe kell venni, hogy
+3.1. műemléken műemléki értékkel bíró épület, építmény, épület-, illetve építményrész nem bontható el, bontás
+a Kötv. 45. § (2) bekezdésében foglalt esetekben kivételesen engedélyezhető, amely esetekben
+az engedélyezésre benyújtott dokumentációban foglaltaknak igazolniuk kell a jogszabályi követelményeknek
+való megfelelést;
+3.2. műemlékhez történő hozzáépítés, ráépítés, illetve műemlék ingatlanán új építmény, építményrész építése
+különösen akkor engedélyezhető, ha a tervezett beavatkozás a műemléki érték fenntartásához
+elengedhetetlenül szükséges (szerkezeti megerősítés, védőépület), azonban csak annak mértékéig, hogy az új
+építmény, építményrész ne veszélyeztesse a meglévő értékek fennmaradását, érvényesülését, hitelességét;
+3.3. műemlék egészét vagy jelentős hányadát érintő átalakítás különösen akkor engedélyezhető, ha a műemléki
+értékek fenntartása azt indokolja, addig a mértékig, hogy az átalakítás ne veszélyeztesse a meglévő értékek
+(térkapcsolatok, tömegalakítás, felületek kialakítása, díszítések) érvényesülését, hitelességét;
+3.4. műemlékeken az egymást követő egyes beavatkozások (átalakítás) összeadódó hatásukban sem járhatnak
+a műemlék hitelességének csökkentésével, nem veszélyeztethetik értékeinek érvényesülését;
+3.5. egyenértékű beavatkozások lehetősége esetén a hozzájárulás megadása során előnyben kell részesíteni
+a visszafordítható megoldásokat.
+4. Műemlékek esetében vizsgálandó, hogy az épület-energetikai hatékonyságot javító, a megújuló energia
+alkalmazására,illetve az akadálymentesítésre irányuló beavatkozásokösszhangbanvannak-e a műemléki értékek
+megőrzésének elsődlegességével, biztosítják-e annak érvényesülését.
+5. Műemlék alkotórészének, tartozékának javítása vagy korszerűsítése során
+5.1. az eredeti vagy meglévő alkotórész, tartozék, megőrzésére, felújítására kell törekedni; amennyiben az a pusztulás
+mértéke vagy a használhat ellehetetlenülése miatt már nem lehetséges, úgy engedélyezhető a részleges csere,
+részleges vagy teljes pótlás azonos vagy hasonló anyagból, és csak kivételes esetben az eltérő anyagból való
+pótlás;
+5.2. azok eltávolítása csak kivételes esetben engedélyezhető, ha ez mégis elkerülhetetlen, és az adott műemlékben
+nem biztosított vagy biztosítható a megőrzése;
+5.3. arra kell törekedni, hogy azok helyébe azonos korú és jellegű történeti építőanyagok kerüljenek.
+
+6. A szakhatóságnak vizsgálnia kell annak a feltételnek a teljesülését, hogy műemlékek megjelenését befolyásoló
+fényforrások, reklámok, útbaigazító-, cég- és jelzőtáblák, utcabútorok, pavilonok és más szabadtér-építészeti
+elemek egyenként vagy összességükben nem eredményezhetik a műemlék tájban vagy településképben
+feltáruló látványának, a műemlékből és műemlékről élvezhető kilátásnak, illetve általában a műemléki érték
+érvényesülésének vagy hitelességének sérelmét.
+7. Az örökségvédelmi szakhatósági állásfoglalás során tekintetbe kell venni, hogy történeti kertben, illetve
+műemléki ingatlan kerttörténeti értéket hordozó részén csak szakági kutatásokon alapuló kert (park)
+helyreállítási, felújítási munkák engedélyezhetők. Növények eltávolítása, áttelepítése, fás szárú növények
+kivágása, valamint építmények építése és bontása, továbbá új növényzet telepítése, csak a történeti kert és más
+műemlék, műemléki együttes érvényesülésének, hitelességének sérelme nélkül engedélyezhető.
+8. A telekalakítással kapcsolatos örökségvédelmi szakhatósági állásfoglalás során a történeti telektulajdonságokat
+(telekméret, telekforma, telekosztási struktúra, megközelítési lehetőség) az ingatlan kulturális örökségi elem
+elválaszthatatlan részeként kell tekintetbe venni, ezért
+8.1. műemléki ingatlan megosztásához (illetve ezt eredményező telek-határrendezéshez, korrekcióhoz) kivételes
+esetben adható hozzájárulás, különösen akkor, ha az tudományos kutatás alapján bizonyítottan történeti állapot
+visszaállítását szolgálja;
+8.2. a történetileg igazoltan összetartozó ingatlanok, ingatlanrészek újra-egyesítésétől eltekintve műemléki
+ingatlannak más (védett vagy nem védett) ingatlannal történő összevonásához, egyesítéséhez (illetve ezt
+eredményező telek-határrendezéshez, korrekcióhoz) hozzájárulás kivételesen, abban az esetben adható, ha az az
+örökségvédelem érdekét is szolgálja.”
+
+V. A Kormány tagjainak rendeletei
