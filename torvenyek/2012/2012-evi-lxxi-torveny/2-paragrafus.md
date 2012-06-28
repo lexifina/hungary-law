@@ -1,1 +1,3 @@
+## Záró rendelkezések
+
 2. §
