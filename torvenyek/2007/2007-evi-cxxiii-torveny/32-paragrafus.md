@@ -10,7 +10,9 @@ d) a bíróságnak a jogalap tekintetében három hónapon belül közbenső ít
 
 e) a bíróság – kérelemre – ideiglenes intézkedéssel rendelkezhet az ingatlan birtokba adásáról, amennyiben a kártalanítás igazságügyi szakértő által megállapított összegének a birtokbaadással egyidejű megfizetését a kisajátítást kérő vállalja. A pert – a felek megegyezésének hiányában – a kártalanítás összegszerűsége tekintetében tovább kell folytatni;
 
-f)
+f) a bíróság a közigazgatási határozatot megváltoztathatja, kivéve, ha a kisajátítási hatóság a kisajátítást kérő kérelmét arra hivatkozva utasította el, hogy nincs helye kisajátításnak, és a közigazgatási határozat ezen rendelkezése jogszabálysértő; ebben az esetben a bíróság a közigazgatási határozatot hatályon kívül helyezi, és a kisajátítási hatóságot új eljárásra kötelezi,
+
+g) az f) pont alapján hozott bírósági ítélet ellen fellebbezésnek nincs helye.
 
 (2) A bíróságnak a közigazgatási határozat végrehajtását felfüggesztő végzése kizárja az ingatlan tulajdonjogának átszállását. Ebben az esetben az ingatlannal kapcsolatos közigazgatási eljárásokban (ingatlan-nyilvántartási eljárás, építésügyi eljárás) az eljáró szerv köteles az eljárását a per jogerős befejezéséig felfüggeszteni. Ha az ingatlannal kapcsolatos közigazgatási eljárásban már jogerős határozatot hoztak, a felfüggesztő végzés hatálya annak végrehajtására is kiterjed.
 

@@ -1,1 +1,1 @@
-42. §
+42. § E törvénynek a kisajátításról szóló 2007. évi CXXIII. törvény módosításáról szóló 2012. évi LXXXII. törvénnyel (a továbbiakban: Módtv.) megállapított 32. § (1) bekezdés f) és g) pontját a Módtv. hatálybalépését követően indult bírósági eljárásokban kell alkalmazni.
