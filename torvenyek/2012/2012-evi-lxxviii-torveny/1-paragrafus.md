@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Valutaalap Alapokmánya (a továbbiakban: Alapokmány) a Nemzetközi Valutaalap Kormányzótanácsa 66–2. számú határozatával (a továbbiakban: határozat) történő módosítása (a továbbiakban: Módosítás) kötelező hatályának elismerésére.

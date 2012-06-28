@@ -1,0 +1,17 @@
+5. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 3. § és a 4. § az Alapokmány XXVIII. Cikk c) pontjában meghatározott időpontban lép hatályba.
+
+(3) A Módosítás, illetve a 3. § és a 4. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
+
+(4) E törvény végrehajtásához szükséges intézkedésekről – az (5) bekezdésben meghatározott intézkedések kivételével – a Magyarországot a Nemzetközi Valutaalapban képviselő kormányzó gondoskodik.
+
+(5) Magyarország kvótájának a határozat szerinti megemelésével kapcsolatos intézkedésekről a pénzügyi szerv feladatát ellátó Magyar Nemzeti Bank gondoskodik.
+
+Áder János s. k.,
+
+köztársasági elnök
+
+Kövér László s. k.,
+
+az Országgyűlés elnöke
