@@ -7,11 +7,3 @@
 (4) E törvény végrehajtásához szükséges intézkedésekről – az (5) bekezdésben meghatározott intézkedések kivételével – a Magyarországot a Nemzetközi Valutaalapban képviselő kormányzó gondoskodik.
 
 (5) Magyarország kvótájának a határozat szerinti megemelésével kapcsolatos intézkedésekről a pénzügyi szerv feladatát ellátó Magyar Nemzeti Bank gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
