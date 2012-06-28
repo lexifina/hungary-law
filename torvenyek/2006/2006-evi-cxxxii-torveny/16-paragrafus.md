@@ -42,11 +42,11 @@ j) a speciális ellátotti kör részére ellátást nyújtó egészségügyi sz
 
 k) az egészségügyi ellátás térségi felosztásának szabályait, az egészségügyi ellátási térségeket,
 
-l) azoknak az ellátásoknak a körét, amelyek vonatkozásában az ellátási terület megállapítása során a szakmánkénti megállapítás követelményét nem kell figyelembe venni.
+l) azoknak az ellátásoknak a körét, amelyek vonatkozásában az ellátási terület megállapítása során a szakmánkénti megállapítás követelményét, valamint a térséghatárt nem kell figyelembe venni.
 
 m) a szakellátási kapacitásokkal és az ellátási területekkel kapcsolatosan eljáró államigazgatási szervet és az ezekben az eljárásokban véleményadásra jogosult szakértői szervet,
 
-n) a szakellátási kapacitások és az ahhoz tartozó ellátási területek nyilvántartásának tartalmát és kezelésére vonatkozó szabályokat,
+n) a szakellátási kapacitások (ide értve az előzetesen befogadott szakellátási kapacitásokat is) és az ahhoz tartozó ellátási területek nyilvántartásának tartalmát és kezelésére vonatkozó szabályokat,
 
 o) a tartalékkapacitások kiosztásának és felhasználásának szabályait.
 
@@ -54,7 +54,9 @@ p) a szakellátási kapacitások felosztása, átcsoportosítása, módosítása
 
 r) az elérési szabályoknál figyelembeveendő sebességhatárokat,
 
-s) az egészségügyi szakellátások biztosításáért való felelősséghez kapcsolódó végrehajtási szabályokat.
+s) az egészségügyi szakellátások biztosításáért való felelősséghez kapcsolódó végrehajtási szabályokat,
+
+t) azoknak a szakmáknak, ellátási formáknak és eseteknek a körét, amikor nem kell ellátási területet megállapítani.
 
 (15)
 
