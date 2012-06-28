@@ -2,7 +2,7 @@
 
 ## NÉPEGÉSZSÉGÜGY
 
-35. § (1) A népegészségügy állami és önkormányzati szervek, gazdasági, társadalmi szervezetek, valamint egyének részvételével megvalósított, elsősorban lakossági csoportokat, közösségeket célzó tevékenység, az egészség védelme és fejlesztése, a betegségek, sérülések és rokkantság megelőzése érdekében. A népegészségügy célja a lakosság egészségi állapotának monitorozása, az egészségproblémák és prioritások meghatározása, népegészségügyi intézkedések kimunkálása és foganatosítása kormányzati, szakmai és civil szervezetekkel együttműködésben.
+35. § (1) A népegészségügy állami és önkormányzati szervek, gazdasági, civil szervezetek, valamint egyének részvételével megvalósított, elsősorban lakossági csoportokat, közösségeket célzó tevékenység, az egészség védelme és fejlesztése, a betegségek, sérülések és rokkantság megelőzése érdekében. A népegészségügy célja a lakosság egészségi állapotának monitorozása, az egészségproblémák és prioritások meghatározása, népegészségügyi intézkedések kimunkálása és foganatosítása kormányzati, szakmai és civil szervezetekkel együttműködésben.
 
 (2) A népegészségügyi tevékenység magában foglalja
 

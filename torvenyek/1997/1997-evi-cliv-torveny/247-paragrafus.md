@@ -175,5 +175,3 @@ x) a természetes gyógytényezőkre vonatkozó részletes szabályokat,
 y) a pszichiátriai betegekre vonatkozó korlátozó intézkedések alkalmazására, az időszakos ellenőrzésre, a gondoskodásra, ezek dokumentálására, valamint az elrendelés időtartamára vonatkozó részletes szabályokat,
 
 z) az egészségügyi szolgáltatóknál végezhető egészségügyi ellátások nyilvántartására és a nyilvántartásba vételére vonatkozó szabályokat,
-
-zs) a közúti járművezetői engedély megszerzéséhez szükséges elsősegély-nyújtási ismeretek megszerzésének részletes szabályait, továbbá a gépjárművezetők egészségi alkalmassága elbírálásának szabályait

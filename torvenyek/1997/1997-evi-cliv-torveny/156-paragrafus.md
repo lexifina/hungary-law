@@ -14,7 +14,7 @@ d) figyelemmel kíséri az intézmény működését.
 
 (4) A kórházi felügyelő tanács három, hat, kilenc, tizenkettő vagy tizenöt tagból álló testület. A tagok több mint a felét az egészségügyi intézmény ellátási körzetében, az egészségügy területén működő egyesületek küldötteiből, a többi tagot az intézmény küldötteiből kell megválasztani. A tanács elnökét az egyesületek küldöttei közül kell megválasztani.
 
-(5) Az önkormányzati tulajdonban lévő egészségügyi intézmények esetében a (4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a tagok legfeljebb egyharmadát az egészségügyi intézmény ellátási körzetéhez tartozó települési önkormányzatok küldötteiből, a további tagok felét a (4) bekezdésben megjelölt társadalmi szervezetek küldötteiből, a többi tagot az intézmény küldötteiből kell megválasztani.
+(5) Az önkormányzati tulajdonban lévő egészségügyi intézmények esetében a (4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a tagok legfeljebb egyharmadát az egészségügyi intézmény ellátási körzetéhez tartozó települési önkormányzatok küldötteiből, a további tagok felét a (4) bekezdésben megjelölt civil szervezetek küldötteiből, a többi tagot az intézmény küldötteiből kell megválasztani.
 
 (6) A kórházi etikai bizottság feladata
 
