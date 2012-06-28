@@ -1,0 +1,3 @@
+53. § A Gytv. 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) E törvény rendelkezéseit nem kell alkalmazni az emberi eredetű teljes vérre, plazmára vagy vérsejtekre, – kivéve az olyan plazmát, amelyet ipari folyamat bevonásával járó módszerrel dolgoznak fel – az orvostechnikai eszközre, az élelmiszerre, az étrend-kiegészítő termékekre, a kozmetikai termékre, az emberi fogyasztásra szánt más jogszabály által szabályozott egyéb termékre, valamint az emberi szervezetbe nem kerülő, illetve emberi szervezeten nem alkalmazott fertőtlenítőszerre és az orvosi laboratóriumi diagnosztikumra.”

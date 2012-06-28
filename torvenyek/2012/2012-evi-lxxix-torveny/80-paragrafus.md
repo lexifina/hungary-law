@@ -1,0 +1,3 @@
+80. § A Gyftv. a következő 87/D. §-sal egészül ki:
+
+„87/D. § Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel megállapított 51. § (1)–(2) bekezdésében foglaltaknak a fekvőbeteg-gyógyintézeteknek az e rendelkezések hatálybalépésekor működő intézeti gyógyszertárak tekintetében 2014. január 1-jétől kell megfelelniük.”

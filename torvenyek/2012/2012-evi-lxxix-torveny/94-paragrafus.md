@@ -1,0 +1,3 @@
+94. § A konszolidációs törvény a következő 17/B. §-sal egészül ki:
+
+„17/B. § Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel megállapított 7. § (5b) bekezdését az annak hatálybalépésekor folyamatban lévő eljárásokra is alkalmazni kell. Abban az esetben, ha a 8. § (2) bekezdése alapján benyújtott kérelem elbírálására a működési engedély 7. § (5b) bekezdése szerinti módosításával egy eljárásban kerül sor, a 8. § (2) bekezdése alapján benyújtott kérelem tárgyában hozott döntésre is alkalmazni kell a 7. § (5b) bekezdés második mondatát.”

@@ -1,0 +1,3 @@
+10. § Az Ebtv. 65. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az üzemi baleset jogerős megállapításáig a biztosítottnak az általános szabályok szerint rendelt gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás árához, továbbá az 54. § (3) bekezdésében foglalt fogászati ellátásért a biztosított által kifizetett térítési díjat a baleset üzemiségének elismerését követően az egészségbiztosító, vasutas dolgozók esetén a vasutas egészségbiztosítási szerv a rendelkezésre álló nyilvántartás, az üzemi baleset megállapításáról szóló határozat, valamint a kezelőorvos igazolása alapján téríti meg.”
