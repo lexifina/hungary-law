@@ -1,0 +1,11 @@
+## 5. § A Vhr. 24. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A pénznyerő automatára, a helyhez kötött szerver alapú pénznyerő automatára és a nem helyhez kötött szerver alapú pénznyerő rendszerre vonatkozó engedélyezési eljárásban, illetve ezek üzemeltetése során a mérésügyi szerv által kiállított hitelesítési bizonyítvány pótolja a játéktervet is. Az állami adóhatóság a pénznyerő automata, a helyhez kötött szerver alapú pénznyerő automata és a nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetését határozatban egy évre, a szervező külön kérelmére legfeljebb kettő évre, illetve ha a szervező a pénznyerő automata, helyhez kötött szerver alapú vagy a nem helyhez kötött szerver alapú pénznyerő rendszer jogszerű birtoklását ezen időpontoknál rövidebb időtartamra igazolja, akkor annak időtartamára engedélyezi, és pénznyerő automata esetén a határozat mellékleteként az 5. számú mellékletben szereplő engedélyt adja ki. Az engedély az egyéb feltételek fennállása esetén is csak abban az esetben adható ki, ha a kérelmező rendelkezik legalább egy darab, egyidejűleg engedélyezhető vagy legalább egy darab érvényes engedéllyel rendelkező játékteremmel, amelyben az adott pénznyerő automata, illetve a helyhez kötött szerver alapú pénznyerő automata üzemeltethető. Nem helyhez kötött pénznyerő rendszer üzemeltetője – sem közvetetett sem közvetlen úton – nem biztosíthat sem helyszínt sem műszaki eszközt a játékosok részére. A nem helyhez kötött szerver alapú pénznyerő rendszeren nyújtott szerencsejáték szervezés közterületen, illetve a közönség számára nyitva álló épületben vagy helyiségben nem közvetíthető. Kizárólag internet-hozzáférés biztosítása nem minősül szerencsejáték-közvetítésnek.”
+
+6. § (1) A Vhr. 44. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) A II. kategóriába sorolt pénznyerő automaták esetében a pénznyerő automatán belüli játékhelyek, továbbá a pénznyerő automaták között halmozott nyereményígéret nem engedélyezhető. Jackpot-rendszer üzemelése esetén a játékteremben jól látható módon írásbeli tájékoztatást kell nyújtani a játékosoknak, hogy mely pénznyerő automaták vannak jackpot-rendszerbe kötve.”
+
+(2)[^1]
+
+[^1]: A 6. § (2) bekezdése a 16. § (2) bekezdése alapján 2012. július 29-én lép hatályba.

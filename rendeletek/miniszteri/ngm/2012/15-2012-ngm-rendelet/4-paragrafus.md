@@ -1,0 +1,1 @@
+## „b) arra, hogy a játékterem, a nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetési környezete, a kártyaterem, a fogadóiroda és a játékkaszinó megfelel-e a jogszabályokban előírt feltételeknek,”
