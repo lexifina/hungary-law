@@ -1,4 +1,4 @@
-4. §[^6] (1) A szerkezetátalakítási programban résztvevő termelő a támogatási időszak teljes időtartama alatt az aktiválással érintett évek vonatkozásában köteles:
+4. §[^10] (1) A szerkezetátalakítási programban résztvevő termelő a támogatási időszak teljes időtartama alatt az aktiválással érintett évek vonatkozásában köteles:
 
 a) naptári évente a jogosult településen található, és az őt megillető támogatási jogosultságok számával megegyező, hektárban megállapított területnagyság figyelembevételével az EMGA-ból finanszírozott egységes területalapú támogatást igénybe venni,
 
@@ -48,4 +48,4 @@ b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg
 
 (10) Az egyszerűsített foglalkoztatásról szóló törvény alapján megfizetett napi közteher csak azon órák tekintetében vehető figyelembe a rendelet 4. §-a szempontjából, amelyeket ténylegesen teljesítettek és igazoltak.
 
-[^6]: A 4. § a 4/2012. (II. 7.) VM rendelet 3. §-ával megállapított szöveg.
+[^10]: A 4. § a 4/2012. (II. 7.) VM rendelet 3. §-ával megállapított szöveg.

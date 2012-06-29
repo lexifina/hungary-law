@@ -1,3 +1,3 @@
-## 16/A. §[^25] Az MVH a támogatási jogosultság alapján megállapított támogatás kifizetését követően ellenőrzést végez a 4. §-ban foglaltak teljesülését illetően. Az ellenőrzés kiterjed a szerkezetátalakítási programban résztvevő valamennyi termelőnek a kockázatbecslés alapján megállapított 10%-ára.
+## 16/A. §[^29] Az MVH a támogatási jogosultság alapján megállapított támogatás kifizetését követően ellenőrzést végez a 4. §-ban foglaltak teljesülését illetően. Az ellenőrzés kiterjed a szerkezetátalakítási programban résztvevő valamennyi termelőnek a kockázatbecslés alapján megállapított 10%-ára.
 
-[^25]: A 16/A. §-t az 56/2011. (VI. 17.) VM rendelet 6. §-a iktatta be.
+[^29]: A 16/A. §-t az 56/2011. (VI. 17.) VM rendelet 6. §-a iktatta be.
