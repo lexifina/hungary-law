@@ -3,11 +3,3 @@
 (2) Az 1. §, a 4. § b) pontja és az 5. § 2012. július 1-jén lép hatályba.
 
 (3) A 3. § és a 4. § a) pontja 2012. augusztus 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
