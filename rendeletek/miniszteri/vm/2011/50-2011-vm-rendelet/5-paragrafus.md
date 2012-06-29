@@ -42,8 +42,10 @@ h) az ügyfél aláírását
 
 tartalmazzák.
 
-(6) Támogatási kérelmet 2011. július 1. és augusztus 31. között lehet benyújtani.
+(6)[^1] Támogatási kérelmet 2012. október 1. és október 31., valamint 2013. április 1. és április 30. között lehet benyújtani.
 
 (7) Egy ügyfél egy támogatási kérelem benyújtási időszakban egy intézkedésre konvergencia területenként egy támogatási kérelmet nyújthat be. A támogatási kérelem konvergencia területenként több telephelyre vonatkozhat.
 
 (8) A támogatási kérelemhez mellékelni kell az 1. mellékletben felsorolt, a kérelemmel érintett intézkedésre vonatkozó dokumentumokat.
+
+[^1]: Az 5. § (6) bekezdése az 59/2012. (VI. 28.) VM rendelet 5. §-ával megállapított szöveg.

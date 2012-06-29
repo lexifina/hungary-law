@@ -1,7 +1,7 @@
-## 41. §[^18] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 20/2012. (III. 7.) VM rendelettel (a továbbiakban: 2. módosító rendelet) megállapított 9. § (1) bekezdés a) és b) pontját, 13. § (3a) bekezdését, valamint 15. § (1) bekezdését a 2. módosító rendelet hatálybalépésekor[^19] folyamatban lévő ügyekben is alkalmazni kell.
+## 41/A. §[^22] E rendeletnek az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 59/2012. (VI. 28.) VM rendelettel (a továbbiakban: 3. módosító rendelet) megállapított 10. § (6) bekezdését a 3. módosító rendelet hatálybalépésekor[^23] folyamatban lévő ügyekben is alkalmazni kell.
 
-## 27. [^20] Átmeneti rendelkezés
+## 27. [^24] Átmeneti rendelkezés
 
-[^18]: A 41. §-t a 20/2012. (III. 7.) VM rendelet 4. §-a iktatta be.
-[^19]: A hatálybalépés időpontja 2012. március 8.
-[^20]: A 27. alcímet (42. §) a 20/2012. (III. 7.) VM rendelet 5. §-a iktatta be.
+[^22]: A 41/A. §-t az 59/2012. (VI. 28.) VM rendelet 7. §-a iktatta be.
+[^23]: A hatálybalépés időpontja 2012. június 29.
+[^24]: A 27. alcímet (42. §) a 20/2012. (III. 7.) VM rendelet 5. §-a iktatta be.

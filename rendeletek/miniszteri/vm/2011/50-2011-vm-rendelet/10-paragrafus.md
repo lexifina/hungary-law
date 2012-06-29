@@ -16,28 +16,27 @@ c) eleget tesz az e rendeletben előírt feltételeknek.
 
 (5) Egy kifizetési kérelem benyújtási időszakban egy ügyfél egy intézkedésre egy kifizetési kérelmet nyújthat be.
 
-(6) Kifizetési kérelmeket
+(6)[^4] Kifizetési kérelmeket
 
-a) 2011-ben november 1. és november 30.;
+a) 2014-ig évente
 
-b) 2014-ig évente
+aa) február 1. és február 28.,
 
-ba) február 1. és február 28.,
+ab) május 1. és május 31.
 
-bb) május 1. és május 31.,
+ac) július 1. és július 31., valamint
 
-bc) július 1. és július 31., valamint
+ad) november 1. és november 30.;
 
-bd) november 1. és november 30.;
+b) 2015-ben február 1. és február 28.
 
-c) 2015-ben február 1. és február 28.
-
-között lehet benyújtani.
+## között lehet benyújtani.
 
 (7) A jóváhagyó támogatási döntés alapján legfeljebb 4 – kizárólag gépbeszerzést tartalmazó művelet esetében legfeljebb 2 – kifizetési kérelem fogadható el. Az utolsó kifizetési kérelmet legkésőbb a művelet befejezését követően megnyíló második kifizetési kérelem benyújtási időszakban kell benyújtani.
 
-(8)[^3] A művelet elszámolásához benyújtott bizonylatok – a 11. § (4) bekezdésben foglaltak kivételével – nem lehetnek korábbiak a támogatási kérelem benyújtásának dátumánál.
+(8)[^5] A művelet elszámolásához benyújtott bizonylatok – a 11. § (4) bekezdésben foglaltak kivételével – nem lehetnek korábbiak a támogatási kérelem benyújtásának dátumánál.
 
 (9) A támogatási kérelem benyújtásának dátuma és a támogatási határozat jogerőre emelkedésének dátuma közötti teljesítésű bizonylatokkal az első kifizetési kérelemben el kell számolni.
 
-[^3]: A 10. § (8) bekezdése a 86/2011. (IX. 1.) VM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 10. § (6) bekezdése az 59/2012. (VI. 28.) VM rendelet 6. §-ával megállapított szöveg.
+[^5]: A 10. § (8) bekezdése a 86/2011. (IX. 1.) VM rendelet 1. §-ával megállapított szöveg.

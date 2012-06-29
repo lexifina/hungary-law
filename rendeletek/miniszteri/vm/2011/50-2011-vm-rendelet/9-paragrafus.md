@@ -1,8 +1,8 @@
 9. § (1) A műveletet alkotó összes tevékenység lezárása (a továbbiakban: művelet befejezése), az alábbi okiratokkal igazolható
 
-a)[^1] építési beruházás esetén a használatbavételi engedély iránti kérelem másolatával,
+a)[^2] építési beruházás esetén a használatbavételi engedély iránti kérelem másolatával,
 
-b)[^2] vízjogi engedélyköteles beruházás esetén a vízjogi üzemeltetési engedély iránti kérelem másolatával,
+b)[^3] vízjogi engedélyköteles beruházás esetén a vízjogi üzemeltetési engedély iránti kérelem másolatával,
 
 c) nem engedélyköteles építési és vízügyi beruházások esetén a műszaki átadás-átvételt igazoló dokumentummal,
 
@@ -16,5 +16,5 @@ b) építési beruházások esetében a használatbavételi vagy vízjogi üzeme
 
 c) nem engedélyköteles beruházások esetében a műszaki átadás-átvétel napja.
 
-[^1]: A 9. § (1) bekezdés a) pontja a 20/2012. (III. 7.) VM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 9. § (1) bekezdés b) pontja a 20/2012. (III. 7.) VM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 9. § (1) bekezdés a) pontja a 20/2012. (III. 7.) VM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 9. § (1) bekezdés b) pontja a 20/2012. (III. 7.) VM rendelet 1. §-ával megállapított szöveg.
