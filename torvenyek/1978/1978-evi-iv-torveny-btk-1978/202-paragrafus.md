@@ -2,4 +2,10 @@
 
 (2) Az a tizennyolcadik életévét betöltött személy, aki tizennegyedik életévét be nem töltött személyt arra törekszik rábírni, hogy mással közösüljön vagy fajtalankodjék, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
 
-(3) A büntetés két évtől nyolc évig, illetőleg egy évtől öt évig terjedő szabadságvesztés, ha az (1), illetőleg a (2) bekezdésben meghatározott bűncselekmény sértettje az elkövető hozzátartozója, avagy az elkövető nevelése, felügyelete, gondozása vagy gyógykezelése alatt áll.
+(3) A büntetés
+
+a) két évtől nyolc évig terjedő szabadságvesztés, ha az (1) bekezdésben,
+
+b) egy évtől öt évig terjedő szabadságvesztés, ha a (2) bekezdésben
+
+meghatározott bűncselekmény sértettje az elkövető hozzátartozója, vagy nevelése, felügyelete, gondozása, gyógykezelése alatt áll, illetve az elkövető a bűncselekményt a sértettel kapcsolatban fennálló egyéb hatalmi vagy befolyási viszonyával visszaélve követi el.

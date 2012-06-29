@@ -1,6 +1,6 @@
 ## Kiskorú veszélyeztetése
 
-195. § (1) A kiskorú nevelésére, felügyeletére vagy gondozására köteles személy, aki e feladatából folyó kötelességét súlyosan megszegi, és ezzel a kiskorú testi, értelmi vagy erkölcsi fejlődését veszélyezteti, bűntettet követ el, és egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+195. § (1) A kiskorú nevelésére, felügyeletére vagy gondozására köteles személy, aki e feladatából folyó kötelességét súlyosan megszegi, és ezzel a kiskorú testi, értelmi, erkölcsi vagy érzelmi fejlődését veszélyezteti, bűntettet követ el, és egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Ha súlyosabb bűncselekmény nem valósul meg, az (1) bekezdés szerint bűntetendő az a nagykorú személy, aki kiskorút bűncselekmény vagy szabálysértés elkövetésére, illetve züllött életmód folytatására rábír, vagy rábírni törekszik.
 

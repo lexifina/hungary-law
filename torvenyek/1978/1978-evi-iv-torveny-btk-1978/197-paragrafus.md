@@ -6,7 +6,7 @@
 
 a) az erőszakkal, avagy az élet vagy testi épség ellen irányuló közvetlen fenyegetéssel közösülésre kényszerített sértett a tizenkettedik életévét nem töltötte be,
 
-b) a sértett az elkövető nevelése, felügyelete, gondozása vagy gyógykezelése alatt áll,
+b) a sértett az elkövető nevelése, felügyelete, gondozása vagy gyógykezelése alatt áll, illetve az elkövető az erőszakos közösülést a sértettel kapcsolatban fennálló egyéb hatalmi vagy befolyási viszonyával visszaélve követi el,
 
 c) a sértettel azonos alkalommal, egymás cselekményéről tudva, többen közösülnek.
 

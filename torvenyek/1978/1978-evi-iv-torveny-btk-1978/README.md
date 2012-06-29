@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1978-4-00-00
 | 2012-02-01 | 2011. évi CLXV. törvény | 1978-4-00-00.98 |
 | 2012-03-01 | 2011. évi CLXXVI. törvény | 1978-4-00-00.99 |
 | 2012-04-15 | 2012. évi II. törvény | 1978-4-00-00.100 |
+| 2012-06-29 | 2012. évi LXII. törvény | 1978-4-00-00.101 |

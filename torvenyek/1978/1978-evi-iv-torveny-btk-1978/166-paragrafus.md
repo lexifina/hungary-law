@@ -28,6 +28,8 @@ követik el.
 
 (3) Aki emberölésre irányuló előkészületet követ el, bűntett miatt öt évig terjedő szabadságvesztéssel büntetendő.
 
+(3a) Az (1) bekezdés szerint büntetendő, aki tizennegyedik életévét be nem töltött vagy akaratnyilvánításra képtelen személyt öngyilkosságra rábír, ha az öngyilkosságot elkövetik.
+
 (4) Aki az emberölést gondatlanságból követi el, vétség miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (5) A különös visszaesés szempontjából hasonló jellegű bűncselekmény
