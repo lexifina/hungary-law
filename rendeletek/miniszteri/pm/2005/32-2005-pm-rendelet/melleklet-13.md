@@ -1,3 +1,3 @@
-13. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^352]
+13. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^371]
 
-[^352]: A 13. számú melléklet a 36/2006. (XII. 25.) PM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^371]: A 13. számú melléklet a 15/2012. (VI. 28.) NGM rendelet 15. § (1) bekezdés 4. pontjával megállapított szöveg.

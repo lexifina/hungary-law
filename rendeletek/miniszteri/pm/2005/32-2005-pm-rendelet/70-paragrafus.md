@@ -4,7 +4,7 @@
 
 ## Engedélyezés
 
-70. § (1)[^257] A fogadás szervezésére jogosult kérelmező tevékenységének engedélyezése iránt kérelmet nyújt be az APEH Központi Hivatalának címezve postai úton, vagy az APEH Központi Hivatala által működtetett Szerencsejáték Felügyeleti Központi Ügyfélszolgálati Irodán. Az állami adóhatóság folyamatosan szervezett totalizatőri, illetve bukmékeri rendszerű fogadás (a továbbiakban együtt: fogadási formák) szervezésére adhat engedélyt.
+70. § (1)[^267] A fogadás szervezésére jogosult kérelmező tevékenységének engedélyezése iránt kérelmet nyújt be a NAV Központi Hivatalának címezve postai úton, vagy a NAV Központi Hivatala által működtetett Szerencsejáték Felügyeleti Központi Ügyfélszolgálati Irodán. Az állami adóhatóság folyamatosan szervezett totalizatőri, illetve bukmékeri rendszerű fogadás (a továbbiakban együtt: fogadási formák) szervezésére adhat engedélyt.
 
 (2) Az engedély iránti kérelemhez a 2. § (3) bekezdésében foglaltakon túl csatolni kell:
 
@@ -20,7 +20,7 @@ e) az engedélyezési eljárásért fizetendő igazgatási-szolgáltatási díj,
 
 f) a hírközlő eszközök és rendszerek igénybevételével szervezett fogadások engedélyezése esetén az Szjtv. 2. §-ának (6) bekezdésében foglalt követelmények teljesítését igazoló, az e rendelet 18. §-ának (4) bekezdésében előírt okiratot.
 
-(3)[^258] A fogadási hálózatban történő változtatásról a szervező köteles bejelentést tenni az állami adóhatóságnak a fogadóiroda megnyitását megelőző nyolcadik napig, illetve legkésőbb a bezárás napjáig.
+(3)[^268] A fogadási hálózatban történő változtatásról a szervező köteles bejelentést tenni az állami adóhatóságnak a fogadóiroda megnyitását megelőző nyolcadik napig, illetve legkésőbb a bezárás napjáig.
 
 (4) A szervezőt megilleti a fogadás törlésének joga
 
@@ -34,5 +34,5 @@ b) a fogadási esemény megkezdése után, ha a fogadási esemény a lebonyolít
 
 (7) Az egyes fogadások esetén a legmagasabb tét értéke a 100 ezer forintot nem haladhatja meg.
 
-[^257]: A 70. § (1) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése, a 17/2009. (IX. 29.) PM rendelet 66. § (6) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^258]: A 70. § (3) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^267]: A 70. § (1) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése, a 17/2009. (IX. 29.) PM rendelet 66. § (6) bekezdése, a 15/2012. (VI. 28.) NGM rendelet 14. § 32. pontja szerint módosított szöveg.
+[^268]: A 70. § (3) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.

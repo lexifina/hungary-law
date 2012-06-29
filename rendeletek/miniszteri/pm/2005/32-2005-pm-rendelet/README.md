@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-32-20-5
 | 2011-01-01 | 2005-32-20-53.15 | 16/2010. (IV. 28.) PM rendelet |
 | 2011-05-01 | 2005-32-20-53.16 | 16/2010. (IV. 28.) PM rendelet |
 | 2012-01-01 | 2005-32-20-53.17 | 16/2010. (IV. 28.) PM rendelet |
+| 2012-06-29 | 2005-32-20-53.18 | 15/2012. (VI. 28.) NGM rendelet |

@@ -1,3 +1,3 @@
-## A KONCESSZIÓS PÁLYÁZAT ELBÍRÁLÁSÁRA VONATKOZÓ SZABÁLYOK[^52]
+## A KONCESSZIÓS PÁLYÁZAT ELBÍRÁLÁSÁRA VONATKOZÓ SZABÁLYOK[^54]
 
-[^52]: A 17/A. §-t megelőző címet a 19/2006. (VII. 31.) PM rendelet 6. §-a iktatta be.
+[^54]: A 17/A. §-t megelőző címet a 19/2006. (VII. 31.) PM rendelet 6. §-a iktatta be.

@@ -1,4 +1,4 @@
-17/F. §[^60] (1) A tagok feladata a benyújtott pályázatok értékelése. Az értékelés során a tagok a PÉB Értékelési Szabályzatának megfelelően pontozzák a benyújtott pályázatokat.
+17/F. §[^62] (1) A tagok feladata a benyújtott pályázatok értékelése. Az értékelés során a tagok a PÉB Értékelési Szabályzatának megfelelően pontozzák a benyújtott pályázatokat.
 
 (2) A tagok a PÉB feladatkörébe tartozó döntések meghozatala során egyenlő szavazati joggal rendelkeznek.
 
@@ -14,4 +14,4 @@ c) a tag tagságáról lemond,
 
 d) a tag elhalálozik.
 
-[^60]: A 17/F. §-t a 19/2006. (VII. 31.) PM rendelet 6. §-a iktatta be.
+[^62]: A 17/F. §-t a 19/2006. (VII. 31.) PM rendelet 6. §-a iktatta be.
