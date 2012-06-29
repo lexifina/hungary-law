@@ -2,6 +2,8 @@
 
 14. § (1) A támogatási feltételek teljesítésének hiányában az MVH a kérelmet elutasítja, illetve a támogatást megvonja.
 
+(1a)[^16] Az egy évre számítandó támogatás megvonás alapja az összes tényleges támogatási összeg ötéves átlaga. Amennyiben a második támogatási részlet még nem került kifizetésre ez az alap az első évben kapott támogatás kétszeresének öt évre vetített átlaga.
+
 (2) A támogatás megvonás mértéke arra a támogatási évre vonatkozóan, amelyre a hiányosság megállapítása megtörtént:
 
 a) halastó feltöltésre, lecsapolásra vonatkozó mulasztás esetén 10%;
@@ -14,16 +16,22 @@ d) náddal kapcsolatos előírások megsértése esetén 15%;
 
 e) előírtnál kevesebb halkihelyezés esetén annyi %, ahány százalékpontos az eltérés egész számra kerekítve;
 
-f) természetes hozammal kapcsolatosan annyi %, ahány százalékponttal alacsonyabb az előírtnál egész számra kerekítve;
+f)[^17]
 
 g) Tógazdálkodási Napló vezetésével kapcsolatos adminisztratív előírások megszegése esetén 20%;
 
 h) a 6. §-ban előírt jelentési kötelezettség megszegése esetén, amennyiben felszólításra sem teljesíti, 25%.
 
-(3) Amennyiben több kötelezettségszegés is megállapításra kerül, akkor a támogatás megvonás (2) bekezdés szerinti mértékei összeadódnak. Amennyiben az ellenőrzés több gazdálkodási évre vonatkozóan is megállapít kötelezettségszegést, úgy az egyes évekre eső támogatásmegvonás mértékei összeadódnak.
+(3)[^18] Amennyiben több kötelezettségszegés is megállapításra kerül, akkor a támogatás megvonás (2) bekezdés szerinti mértékei összeadódnak. Amennyiben az ellenőrzés több évre vonatkozóan is megállapít kötelezettségszegést, úgy az egyes évekre eső támogatásmegvonás mértékei összeadódnak.
 
-(4) Amennyiben egy gazdálkodási évben a támogatás megvonás összeadott mértéke a 80%-ot eléri, úgy az adott év teljes támogatása megvonásra kerül.
+(4)[^19] Amennyiben egy adott évben a támogatás megvonás összeadott mértéke a 80%-ot eléri, úgy az adott év teljes támogatása megvonásra kerül.
 
-(5) Ha az ügyfél az adott gazdálkodási évre nem rendelkezik Tógazdálkodási Naplóval, akkor az adott gazdálkodási évre nem jogosult támogatásra.
+(5)[^20] Ha az ügyfél az adott évre nem rendelkezik Tógazdálkodási Naplóval, akkor az adott gazdálkodási évre nem jogosult támogatásra.
 
 (6) Amennyiben a támogatási időszak alatt második alkalommal szükséges a tárgyévre vonatkozó támogatás teljes egészének megvonása, az a programból való végleges kizárást jelenti és a már igénybevett támogatási összeget a jogosulatlanul igénybevett támogatásokra vonatkozó szabályok szerint vissza kell fizetni.
+
+[^16]: A 14. § (1a) bekezdését az 59/2012. (VI. 28.) VM rendelet 16. §-a iktatta be.
+[^17]: A 14. § (2) bekezdés f) pontját az 59/2012. (VI. 28.) VM rendelet 18. §-a hatályon kívül helyezte.
+[^18]: A 14. § (3) bekezdése az 59/2012. (VI. 28.) VM rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 14. § (4) bekezdése az 59/2012. (VI. 28.) VM rendelet 17. § (3) bekezdése szerint módosított szöveg.
+[^20]: A 14. § (5) bekezdése az 59/2012. (VI. 28.) VM rendelet 17. § (4) bekezdése szerint módosított szöveg.
