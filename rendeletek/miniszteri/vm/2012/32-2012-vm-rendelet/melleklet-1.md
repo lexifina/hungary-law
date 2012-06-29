@@ -1,4 +1,4 @@
-## 40–41. §[^2]
+## 41. §[^7]
 
 1. melléklet a 32/2012. (IV. 2.) VM rendelethez
 
@@ -132,4 +132,4 @@ akkor
 
 KNTFT=(KNTTÖ–(KNTCSM–(IKNT+KNTETÖK)))
 
-[^2]: A 40–41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

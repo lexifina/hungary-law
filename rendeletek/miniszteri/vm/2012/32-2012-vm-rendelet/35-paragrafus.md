@@ -1,14 +1,20 @@
-35. § (1) Amennyiben a 34. § (1) bekezdés 1–13. pontjában meghatározott közvetlen támogatási jogcímekre kifizethető támogatások együttes összege meghaladja az 5 000 eurót, akkor az 5 000 eurót meghaladó rész után számított, a 73/2009/EK tanácsi rendelet 7. cikk (1) bekezdés d) pontja szerinti 10%-os mértéknek megfelelő modulációs csökkentést – a (4) bekezdésben foglaltak figyelembe vételével – a 34. § (1) bekezdés 10–13. pontjában meghatározott kiegészítő nemzeti támogatások terhére kell elszámolni.
+35. §[^3] (1) Amennyiben a 34. § (1) bekezdés 1–13. pontjában meghatározott közvetlen támogatási jogcímekre kifizethető támogatások együttes összege meghaladja az 5000 eurót, akkor az 5000 eurót meghaladó rész után számított, a 73/2009/EK tanácsi rendelet 7. cikk (1) bekezdés d) pontja szerinti 10%-os mértéknek megfelelő modulációs csökkentést – a (4) bekezdésben foglaltak figyelembevételével – a 34. § (1) bekezdés 10–13. pontjában meghatározott kiegészítő nemzeti támogatások terhére kell elszámolni az 1. melléklet szerinti számítási módszertan alapján.
 
-(2) Az (1) bekezdés szerinti modulációs csökkentést
+(2) Amennyiben a 34. § (1) bekezdés 1–13. pontjában meghatározott közvetlen támogatási jogcímekre kifizethető támogatások együttes összege meghaladja a 300 000 eurót, akkor a 300 000 eurót meghaladó rész után számított, a 73/2009/EK tanácsi rendelet 7. cikk (2) bekezdése szerinti további 4%-os mértéknek megfelelő modulációs csökkentést – a (4) bekezdésben foglaltak figyelembevételével – a 34. § (1) bekezdés 10–13. pontjában meghatározott kiegészítő nemzeti támogatások terhére kell elszámolni az 1. melléklet szerinti számítási módszertan alapján.
 
-a) a 34. § (1) bekezdés 11–13. pontjában meghatározott kiegészítő nemzeti támogatások összegén, majd annak kimerülése esetén
+(3) Amennyiben a 34. § (1) bekezdés 1–9. pontjában meghatározott közvetlen támogatási jogcímekre kifizethető támogatások együttes összege meghaladja a 300 000 eurót, akkor a 300 000 eurót meghaladó rész után számított, a 73/2009/EK tanácsi rendelet 7. cikk (2) bekezdése szerinti 4%-os mértéknek megfelelő modulációs csökkentést a 34. § (1) bekezdés 1–9. pontjában meghatározott támogatások összegéből a kifizetés sorrendjében kell levonni az 1. melléklet szerinti számítási módszertan alapján.
 
-b) a 34. § (1) bekezdés 10. pontjában felsorolt kiegészítő nemzeti támogatások elvi fajlagos maximum értéke alapján számolt összege és a ténylegesen felhasználható fajlagos mértéke alapján számolt összege közötti különbség szerint számított összegén, annak kimerülése esetén
+(4) Az (1) és a (2) bekezdés alapján számított modulációs csökkentést úgy kell végrehajtani, hogy az (1) és (2) bekezdése szerinti modulációs csökkentés összértékéből le kell vonni a (3) bekezdés szerinti modulációs csökkentésnek megfelelő összeget.
 
-c) a 34. § (1) bekezdés 10. pontjában felsorolt kiegészítő nemzeti támogatások ténylegesen felhasználható fajlagos mértéke alapján számolt összegén kell elvégezni.
+(5) Az (1) és a (2) bekezdés szerinti modulációs csökkentést
 
-(3) A (2) bekezdés szerinti modulációs csökkentést a 34. § (1) bekezdés 10–13. pontjában meghatározott kiegészítő nemzeti támogatási jogcímek alábbi sorrendjében kell végrehajtani:
+a) a 34. § (1) bekezdés 11–13. pontjában meghatározott kiegészítő nemzeti támogatások összegén, majd annak kimerülése esetén,
+
+b) a 34. § (1) bekezdés 10. pontja szerinti kiegészítő nemzeti támogatások elvi fajlagos maximum értéke alapján számolt összege és a ténylegesen felhasználható fajlagos mértéke alapján számolt összege közötti különbség szerint számított összegén, annak kimerülése esetén,
+
+c) a 34. § (1) bekezdés 10. pontja szerinti kiegészítő nemzeti támogatások ténylegesen felhasználható fajlagos mértéke alapján számolt összegén kell elvégezni.
+
+(6) Az (5) bekezdés szerinti modulációs csökkentést a 34. § (1) bekezdés 10–13. pontjában meghatározott kiegészítő nemzeti támogatási jogcímek alábbi sorrendjében kell végrehajtani:
 
 1. az (1) bekezdés 11. pontja szerinti támogatási jogcím,
 
@@ -32,4 +38,4 @@ c) a 34. § (1) bekezdés 10. pontjában felsorolt kiegészítő nemzeti támoga
 
 11. a 8. § (1) bekezdés e) pontja szerinti támogatási jogcím.
 
-(4) Amennyiben a 34. § (1) bekezdés 1–9. pontjában meghatározott közvetlen támogatási jogcímekre kifizethető támogatások együttes összege meghaladja a 300 000 eurót, akkor a 300 000 eurót meghaladó rész után számított, a 73/2009/EK tanácsi rendelet 7. cikk (2) bekezdése szerinti 4%-os mértéknek megfelelő modulációs csökkentést, a 34. § (1) bekezdés 1–9. pontjában meghatározott támogatási jogcímek felsorolásának sorrendjében, az e § (1) bekezdés 1–9. pontjában meghatározott támogatások összegéből kell levonni.
+[^3]: A 35. § az 59/2012. (VI. 28.) VM rendelet 21. §-ával megállapított szöveg.
