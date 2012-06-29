@@ -1,3 +1,3 @@
-39. §[^47]
+39. §[^48]
 
-[^47]: A 39. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^48]: A 39. §-t a 14. § (4) bekezdése hatályon kívül helyezte.

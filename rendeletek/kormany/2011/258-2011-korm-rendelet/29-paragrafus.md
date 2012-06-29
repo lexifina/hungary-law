@@ -1,3 +1,3 @@
-29. §[^37]
+29. §[^38]
 
-[^37]: A 29. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^38]: A 29. §-t a 14. § (4) bekezdése hatályon kívül helyezte.

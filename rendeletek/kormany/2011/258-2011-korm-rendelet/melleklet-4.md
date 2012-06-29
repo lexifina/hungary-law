@@ -1,3 +1,3 @@
-4. melléklet a 258/2011. (XII. 7.) Korm. rendelethez[^62]
+4. melléklet a 258/2011. (XII. 7.) Korm. rendelethez[^63]
 
-[^62]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

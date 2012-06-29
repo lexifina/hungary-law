@@ -1,5 +1,5 @@
 ## 10. Módosító rendelkezések
 
-24. §[^32]
+24. §[^33]
 
-[^32]: A 24. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^33]: A 24. §-t a 14. § (4) bekezdése hatályon kívül helyezte.

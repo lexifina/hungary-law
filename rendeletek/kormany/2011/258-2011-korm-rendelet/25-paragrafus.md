@@ -1,3 +1,3 @@
-25. §[^33]
+25. §[^34]
 
-[^33]: A 25. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^34]: A 25. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
