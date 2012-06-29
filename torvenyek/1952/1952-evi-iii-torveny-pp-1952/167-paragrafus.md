@@ -1,6 +1,6 @@
 ## Tanúk
 
-167. § (1) Ha a fél a tényállításait tanúkkal kívánja bizonyítani, meg kell jelölnie a bizonyítani kívánt tényeket és be kell jelentenie a tanúk nevét és idézhető címét.
+167. § (1) Ha a fél a tényállításait tanúkkal kívánja bizonyítani, meg kell jelölnie a bizonyítani kívánt tényeket és be kell jelentenie a tanúk nevét és idézhető címét. Ha a megidézni kért tanú kiskorú, a félnek be kell jelentenie a tanú életkorát, törvényes képviselője nevét és idézhető címét is.
 
 (2) A tanú (1) bekezdésben meghatározott adatait a keresetlevélben vagy más beadványban, illetve a tárgyaláson kell bejelenteni.
 

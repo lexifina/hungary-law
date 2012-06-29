@@ -2,6 +2,8 @@
 
 126. § (1) A bíróság a per tárgyalására megidézi azt, akinek igénye érvényesítése iránt az ügyész, illetve külön jogszabállyal erre feljogosított személy vagy szervezet pert indított.
 
+(1a) A bíróság a 141. § (1a) bekezdése szerinti személyes meghallgatásra a tizennegyedik életévét be nem töltött kiskorú felet a törvényes képviselője útján idézi meg azzal a felhívással, hogy a megjelenéséről gondoskodjék. A tizennegyedik életévét betöltött kiskorú fél idézéséről akkor is külön értesíti a bíróság a törvényes képviselőt, ha őt is idézte a tárgyalásra.
+
 (2) Az idézésben (96. §) figyelmeztetni kell a feleket, hogy a tárgyaláson – ha nem személyesen jelennek meg – csak a 67. §-ban megjelölt meghatalmazottal képviseltethetik magukat. Az első tárgyalásra szóló idézéshez csatolni kell a keresetlevél egy példányát (másolatát), ha annak kézbesítésére korábban még nem került sor.
 
 (3) A feleket az idézésben fel kell hívni, hogy az ügyre vonatkozó okiratokat a tárgyalásra hozzák magukkal, az alperest pedig arra is figyelmeztetni kell, hogy a kereseti kérelemre legkésőbb a tárgyaláson nyilatkoznia kell, s elő kell adnia a védekezésének alapjául szolgáló tényeket és ezek bizonyítékait, az ügyre vonatkozó okiratait pedig be is kell mutatnia. Az idézésben arra is utalni kell, hogy az alperes a nyilatkozatát már a kitűzött határnap előtt benyújthatja vagy jegyzőkönyvbe mondhatja [94. § (4) bek.]. Az írásbeli nyilatkozat másodpéldányát, illetőleg az arról készített jegyzőkönyv másolatát a bíróság a felperesnek haladéktalanul kézbesíti, ha pedig erre már nincs elegendő idő, azt a tárgyaláson adja át.

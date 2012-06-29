@@ -10,6 +10,8 @@ b) a szülői felügyelet megszüntetésére irányuló kereset – annak bíró
 
 c) a tárgyalás kitűzéséről a perben félként részt nem vevő szülőt a keresetlevél egy példányának megküldésével értesíteni kell, és egyben figyelmeztetni kell beavatkozási jogára.
 
+(1a) A szülői felügyeleti jog megszüntetése iránti pert a kiskorú gyermek lakóhelye vagy tartózkodási helye szerint illetékes bíróság előtt is meg lehet indítani.
+
 (2) A szülői felügyeleti jog megszüntetése iránti perben a bíróság soron kívül jár el. A tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz érkezésétől számított nyolcadik napra kell kitűzni.
 
 (3) Ha a gyermek súlyos veszélyeztetése miatt a szülői felügyelet sürgős megszüntetése szükséges, arról a bíróság a szülői felügyelet megszüntetése iránti perben ideiglenesen hivatalból is határozhat.

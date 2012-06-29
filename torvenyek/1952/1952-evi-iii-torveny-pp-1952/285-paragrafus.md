@@ -6,4 +6,4 @@
 
 (4) Ha a bontóperben tartott első tárgyaláson a felek nem békülnek ki, az (5) bekezdésben meghatározott kivétellel a bíróság a tárgyalást elhalasztja, egyben felhívja a feleket, hogy három hónapon belül írásban kérhetik az eljárás folytatását, ellenkező esetben a per megszűnik. A bíróság a tárgyalás folytatására csak a kérelem benyújtását követő 30 nap eltelte után tűzhet határnapot.
 
-(5) Az (1) bekezdésben meghatározott esetekben, illetve, ha a felek a házasság felbontását a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény (Csjt.) 18. §-a (2) bekezdésének b) pontja alapján kérték, vagy a feleknek nincsen közös kiskorú gyermeke, a pert már az első tárgyaláson érdemben kell tárgyalni.
+(5) Az (1) bekezdésben meghatározott esetekben, illetve, ha a felek a házasság felbontását a Csjt. 18. §-a (2) bekezdésének b) pontja alapján kérték, vagy a feleknek nincsen közös kiskorú gyermeke, a pert már az első tárgyaláson érdemben kell tárgyalni.
