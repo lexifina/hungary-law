@@ -1,3 +1,0 @@
-101. § (1) A 20/13/00/00 EU tagságból eredő feladatok előirányzat elsősorban az Európai Unióban való eredményes működés feltételét képező intézményi feladatokra, a minisztérium és a brüsszeli bizottságok közötti kapcsolatrendszer működtetésére, a minisztérium két- és sokoldalú nemzetközi feladatainak teljesítésére, a minisztérium nemzetközi kiutazási tervének teljesítésére, valamint a 2011. évben kiemelten az EU elnökséggel kapcsolatos feladatok ellátására fordítható.
-
-(2) Az előirányzat felhasználása közvetlen módon, a kedvezményezett költségvetési intézmények, illetve az egyéb kedvezményezettek részére történő fejezeti kifizetéssel vagy előirányzat átcsoportosítással történik.

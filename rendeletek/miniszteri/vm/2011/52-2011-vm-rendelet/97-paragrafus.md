@@ -1,3 +1,0 @@
-97. § (1) A 20/07/00/00 Árfolyamkockázat és egyéb EU által nem térített kiadások előirányzat az EMVA-ból, az EMGA-ból és az EHA-ból származó támogatások árfolyamveszteségeinek, valamint az intervenciós felvásárlásokhoz kapcsolódó járulékos költségeknek az Európai Unió által nem térített részének a KESZ felé történő rendezését szolgálja. Az előirányzat terhére és javára elszámolható költségeket a Kv.tv. 34.§ (2) bekezdése szabályozza.
-
-(2) Az előirányzat pénzügyi, számviteli lebonyolítását a 82/2007. (IV. 25.) Korm. rendelet és a minisztérium–MVH–Kincstár közötti együttműködési megállapodás szabályozza.

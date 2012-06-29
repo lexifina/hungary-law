@@ -1,5 +1,0 @@
-49. § (1) A 20/02/13/00 Országos Környezeti Kármentesítési Program végrehajtása előirányzat az általános és országos feladatok, valamint a VM felelősségi körébe tartozó egyedi beruházások költségeinek finanszírozását biztosítja.
-
-(2) Az Országos Környezeti Kármentesítési Program (a továbbiakban: OKKP) végrehajtásáról és irányításáról a felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet VI. fejezete rendelkezik. A rendeletben előírtak figyelembevételével az OKKP szabályozásáról, koordinálásáról, működtetéséről, a feladatok meghatározásáról, finanszírozásáról és végrehajtásáról külön miniszteri utasítás gondoskodik. Ennek értelmében a minisztérium felelősségi körébe tartozó feladatok pénzügyi fedezetét a minisztérium költségvetési fejezetében kell biztosítani.
-
-(3) Az előirányzat felhasználása a kedvezményezett költségvetési intézménynek történő előirányzat átadással, valamint közvetlen módon, a támogatottal kötött támogatási szerződés alapján történő fejezeti kifizetéssel történik.

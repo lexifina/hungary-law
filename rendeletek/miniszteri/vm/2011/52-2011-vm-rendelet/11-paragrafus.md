@@ -1,3 +1,0 @@
-11. § (1) A támogatói okiratban vagy a támogatási szerződésben az Ámr. 112. § (6) bekezdésében foglaltakat rögzíteni kell, fejlesztési projekt esetén pedig a létrehozott eszközök működtetési kötelezettségének időtartamát és az időtartam alatt a kedvezményezett által fenntartandó feltételeket is.
-
-(2) A támogatás visszafizetésére kötelezett pénzügyi fedezethiány miatt nem teljesíthető fizetési megbízás esetére a követelés legalább 35 naptári napra való sorba állításáról rendelkezik. Több bankszámla esetén a kedvezményezettnek meg kell adnia a felhatalmazó nyilatkozatok érvényesítésének sorrendjét is.

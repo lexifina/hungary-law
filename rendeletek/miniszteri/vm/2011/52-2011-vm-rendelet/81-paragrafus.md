@@ -1,5 +1,0 @@
-81. § (1) A 20/04/06/00 Méhészeti Nemzeti Program előirányzata a méhészeti termékek termelésének és forgalmazásának általános feltételeit javító intézkedésekről szóló, 2004. április 26-i 797/2004/EK tanácsi rendelet végrehajtásának részletes szabályairól szóló 2004. április 29-i 917/2004/EK bizottsági rendeletnek megfelelően a 2010–2013. időszakban a méhészeti ágazat uniós versenyképességének megtartását, fejlesztését, az ökológiai egyensúly fenntartását szolgálja.
-
-(2) Az előirányzat pénzügyi, számviteli lebonyolítása során az EMVA-ból, az EHA-ból, valamint az EMGA-ból támogatott programok és intézkedések pénzügyi, számviteli és ellenőrzési rendszerek kialakításáról, lebonyolításának rendjéről szóló 82/2007. (IV. 25.) Korm. rendelet (a továbbiakban: 82/2007. (IV. 25.) Korm. rendelet), valamint a miniszter, az MVH és a Kincstár közötti együttműködési megállapodás szerint kell eljárni.
-
-(3) Az előirányzat megállapodás keretében pénzeszköz átadás formájában átadásra kerül a kedvezményezettek felé történő végső kifizetést teljesítő költségvetési intézmény részére.

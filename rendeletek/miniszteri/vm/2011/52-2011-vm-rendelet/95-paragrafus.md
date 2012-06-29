@@ -1,5 +1,0 @@
-95. § (1) A 20/05/10/00 Nemzeti agrár-kárenyhítés előirányzat a termelők és az állam kölcsönös kockázat- és tehervállalásán alapuló támogatási rendszer működtetését teszi lehetővé a nemzeti agrár-kárenyhítési rendszerről és kárenyhítési hozzájárulásról szóló 2008. évi CI. törvény (a továbbiakban: 2008. évi CI. törvény), illetve az agrárkár-enyhítési eljárásról szóló 32/2009. (III. 31.) FVM rendelet alapján.
-
-(2) A támogatási előirányzat a termelők és az állam kölcsönös kockázat- és tehervállalásán alapuló támogatási konstrukció működtetését teszi lehetővé. Azon gazdálkodók kárenyhítése, akik az MVH-nak a kárenyhítési hozzájárulás összegét a 2008. évi CI. törvény 6. § (2) bekezdése szerinti határidőre befizették, és akiknek az egész gazdaságukat tekintve a tárgyévi elemi károk miatti hozamérték-csökkenése meghaladja a 30%-ot. A kártalanítás feltétele továbbá, hogy a kárenyhítésre irányuló kérelmüket benyújtották az MVH-hoz.
-
-(3) Az előirányzat pénzeszköz átadás formájában átadásra kerül a kedvezményezettek felé történő végső kifizetést teljesítő költségvetési intézmény részére.

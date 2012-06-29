@@ -1,5 +1,0 @@
-68. § (1) A 20/03/05/00 Tanyafejlesztési Program előirányzat célja a tanyai gazdálkodás megújításával és a tanyai életmód hátrányainak csökkentésével kapcsolatos kötelezettségek finanszírozása, az alábbi területeken: a tanyákon élők egészséges ivóvízzel történő ellátása; a tanyás térségek rossz állapotú dűlőútjainak karbantartása; a tanyás térségek közbiztonságának javítása, a tanyák energiaellátásának javítása; tanyafelújítás, a tanyagondnoki szolgálat erősítése; a tanyai áruk piacra jutásának elősegítése; a tanyaprogram folytatásának tervi megalapozása, az érintett kistérségek, települések komplex tanyafejlesztési programjai kidolgozásának támogatása.
-
-(2) Az előirányzat felhasználása a minisztérium részéről közzétett pályázati felhívások alapján történik. Mind az utólagos elszámolás melletti előfinanszírozásra, mind a záró beszámolót követő utófinanszírozásra lehetőség van az egyösszegű támogatás esetében. Az előirányzatból előleg finanszírozására is van lehetőség.
-
-(3) Az előirányzat felhasználása a pénzügyi lebonyolításban részt vevő költségvetési intézmény részére történő pénzeszköz átadással valósul meg.

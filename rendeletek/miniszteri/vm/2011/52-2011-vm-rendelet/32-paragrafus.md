@@ -1,3 +1,0 @@
-32. § (1) A 20/01/07/01 Vízkárelhárítási művek fejlesztése és állagmegóvása előirányzat a nem kielégítő védképességű elsőrendű árvízvédelmi művek védbiztonságának fejlesztését, térségükben az elvárható árvízvédelmi biztonság megteremtését, az árvizek kártételei elleni megelőző tevékenység biztosítását szolgálja. Az előirányzat terhére az árvízvédelem infrastrukturális fejlesztései, továbbá a projekt típusú beruházásokon túli egyedi töltéserősítési és védelmi képesség fokozási munkák valósulnak meg.
-
-(2) Az előirányzat felhasználása a Kincstáron keresztül történik. A kedvezményezettek költségvetési intézmények.

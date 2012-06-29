@@ -1,1 +1,0 @@
-## 34. § A 20/01/13/00 Intézmények központi beruházásai fejezeti kezelésű előirányzat a 2011. évben megszűnt, így ezen előirányzatból kizárólag a 2010. évről áthúzódó maradványok felhasználása kerül elszámolásra.
