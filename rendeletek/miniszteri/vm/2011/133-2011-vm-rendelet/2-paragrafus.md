@@ -1,4 +1,4 @@
-2. § (1) E rendelet alapján a hitelprogram keretében 2012. augusztus 31-éig megkötött hitelszerződéséhez kapcsolódóan kamat- és költségtámogatás, valamint kedvezményes díjú kezességvállalás igénybevételére jogosult az a mezőgazdasági termelő, aki ezen tevékenysége vonatkozásában az ültetvényeiben elszenvedett tavaszi fagykárát az 5. § (1) bekezdés da)–dc) pontjaiban foglaltaknak megfelelő módon igazolja.
+2. § (1)[^1] E rendelet alapján a hitelprogram keretében 2012. október 31-ig megkötött hitelszerződéséhez kapcsolódóan kamat- és költségtámogatás, valamint kedvezményes díjú kezességvállalás igénybevételére jogosult az a mezőgazdasági termelő, aki ezen tevékenysége vonatkozásában az ültetvényeiben szenvedett fagykárát az 5. § (1) bekezdés d) pont da)–dc) alpontjaiban foglaltaknak megfelelő módon igazolja.
 
 (2) Az (1) bekezdés szerinti hitel és kedvezményes díjú kezességvállalás számított támogatástartalma
 
@@ -11,3 +11,5 @@ c) kedvezményes intézményi kezességvállalási díjból származó támogat�
 (3) Amennyiben az egyéni referencia kamatláb magasabb, mint a 4. § (1) bekezdés d) pontja szerinti kamat, úgy a (2) bekezdés a) pontja szerinti kamattámogatásban a pénzügyi intézmény által alkalmazott kamatlábból származó, pénzügyi intézmény által nyújtott támogatás is beleértendő.
 
 (4) A támogatás nem haladhatja meg az 1. melléklet szerint, a mezőgazdasági termelő vonatkozásában kiszámított maximális támogatási összeget.
+
+[^1]: A 2. § (1) bekezdése az 59/2012. (VI. 28.) VM rendelet 19. §-ával megállapított szöveg.
