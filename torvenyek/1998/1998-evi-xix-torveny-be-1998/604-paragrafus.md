@@ -37,9 +37,3 @@ l) a büntetőügyekben hozott határozatok végrehajtása során a bíróságok
 m) a büntetőeljárás során keletkezett iratokból másolat adását a rendészetért felelős miniszter és a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter egyetértésével kiadott,
 
 n) a büntetőeljárásban alkalmazható sajtóhirdetmény útján történő értesítés szabályait a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
-
-o) a bírósági ügyvitel szabályait,
-
-p) a fogvatartásban lévő terhelt elmeállapota megfigyelésének és az ideiglenes kényszergyógykezelés végrehajtásának szabályait,
-
-q)

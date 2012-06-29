@@ -7,3 +7,5 @@
 (4) Ha a terhelt a vallomás tételét megtagadja, figyelmeztetni kell arra, hogy ez az eljárás folytatását nem akadályozza. Ha a terhelt vallomást tesz, figyelmeztetni kell, hogy a vallomásában mást bűncselekmény elkövetésével hamisan nem vádolhat. Arra a bűncselekményre nézve, amelyre a terhelt a vallomás tételét megtagadta, a terhelthez további kérdések nem intézhetők, és a terhelt a többi terhelttel, illetőleg a tanúkkal nem szembesíthető, kivéve, ha előtte úgy dönt, hogy vallomást tesz. A vallomás tételének megtagadása nem érinti a terhelt kérdezési, észrevételezési és indítványtételi jogát.
 
 (5) Ha a terhelt vallomást kíván tenni, a vallomástétel lehetőségét biztosítani kell.
+
+(6) A (2) és (4) bekezdésben meghatározott figyelmeztetéseket a fiatalkorú terhelt korára, érettségére figyelemmel, számára érthető módon kell megfogalmazni.
