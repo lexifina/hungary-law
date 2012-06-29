@@ -1,0 +1,3 @@
+15. § (1) A költségvetési támogatás jogszerű kifizetését és felhasználását az előirányzat kezelője, valamint a pályázati felhívásban és a támogatási szerződésben meghatározott szervek ellenőrizhetik.
+
+(2) A beszámoltatás során ellenőrzésre kerül az is, hogy a költségvetési támogatás felhasználása során a kedvezményezett a közbeszerzésekre vonatkozó törvényi előírásokat betartotta-e. Az ennek megállapításához szükséges dokumentumokat a kedvezményezett a közbeszerzési eljárás befejezését követően köteles benyújtani. A kedvezményezett számára e kötelezettség a benyújtandó dokumentumok körének és a benyújtás határidejének meghatározásával a támogatási szerződésben kerül rögzítésre.

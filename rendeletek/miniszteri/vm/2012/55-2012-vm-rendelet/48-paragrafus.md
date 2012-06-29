@@ -1,0 +1,5 @@
+48. § (1) A 20/04/08/00 Egyes speciális szövetkezések (TÉSZ) támogatása előirányzat a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló 2007. október 22-i 1234/2007/EK tanácsi rendelet szerinti, az 1234/2007/EK tanácsi rendeletnek a gyümölcs- és zöldség-, valamint a feldolgozott gyümölcs- és feldolgozott zöldség-ágazatra alkalmazandó részletes szabályainak a megállapításáról szóló 2011. június 7-i 543/2011/EU bizottsági végrehajtási rendelet alapján a zöldség-gyümölcs termelői csoportok és termelői szervezetek működésének megerősítését, fejlesztését, a válságok megelőzését és kezelését segíti elő.
+
+(2) Az előirányzat pénzügyi, számviteli lebonyolítását a 82/2007. (IV. 25.) Korm. rendelet és a minisztérium-MVH-Kincstár közötti együttműködési megállapodás szabályozza.
+
+(3) Az előirányzat megállapodás keretében pénzeszköz átadás formájában átadásra kerül a kedvezményezettek felé történő végső kifizetést teljesítő költségvetési intézmény részére.

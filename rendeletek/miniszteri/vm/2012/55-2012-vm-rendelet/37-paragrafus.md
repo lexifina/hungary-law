@@ -1,0 +1,5 @@
+37. § (1) A 20/03/05/00 Tanyafejlesztési Program előirányzat célja a tanyai gazdálkodás megújításával és a tanyai életmód hátrányainak csökkentésével kapcsolatos kötelezettségek finanszírozása, az alábbi területeken: a tanyák energiaellátásának javítása, a tanyás térségek rossz állapotú dűlőútjainak karbantartásához szükséges fejlesztések, a tanyai termékek piacra jutásának elősegítése, a tanyagazdaságok korszerűsítése, a tanyaépületek felújítása, a tanyagondnoki szolgálatok tevékenységének fejlesztése, a tanyai közbiztonság javítása, a tanyákon élők egészséges ivóvízzel történő ellátása, az érintett kistérségek, települések komplex tanyafejlesztési programjai kidolgozásának támogatása.
+
+(2) A lebonyolító szervezetekkel kötött együttműködési megállapodás részletesen szabályozza az előirányzat felhasználásának folyamatát.
+
+(3) Az előirányzatból – előirányzat-átcsoportosítással – finanszírozandóak a lebonyolításban részt vevő költségvetési szervek feladatellátással összefüggésben felmerült és igazolt költségei is.
