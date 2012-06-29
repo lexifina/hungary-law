@@ -1,0 +1,5 @@
+## 3. § Az R. a következő 15. §-sal egészül ki:
+
+## „15. § A megváltozott munkaképességű személyek foglalkoztatásához nyújtható költségvetési támogatás megállapításának részletes szabályairól szóló 15/2005. (IX. 2.) FMM rendelet 3. § (4) bekezdésétől, illetve 4. § (6) bekezdésétől eltérően a védett foglalkoztatók költségkompenzációs támogatása összegének, illetve a rehabilitációs költségtámogatás összegének megállapítását 2012. július hónapra vonatkozóan 2012. július 10-ig lehet kérelmezni. A kérelmet a társadalmi esélyegyenlőség előmozdításáért felelős miniszter bírálja el. A támogatást – a társadalmi esélyegyenlőség előmozdításáért felelős miniszterrel megkötött hatósági keretszerződésben, valamint a folyósítás részletes feltételeit tartalmazó támogatási szerződésben foglaltak szerint – utólag kell folyósítani.”
+
+## 2. A Nemzeti Rehabilitációs és Szociális Hivatalról, valamint a szakmai irányítása alá tartozó rehabilitációs szakigazgatási szervek feladat- és hatásköréről szóló 95/2012. (V. 15.) Korm. rendelet eltérő szöveggel történő hatálybalépése
