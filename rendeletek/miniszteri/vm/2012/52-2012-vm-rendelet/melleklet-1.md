@@ -1,6 +1,6 @@
 ## 20. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 55. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet az 52/2012. (VI. 8.) VM rendelethez
+1. melléklet az 52/2012. (VI. 8.) VM rendelethez[^3]
 
 |  | 1. „A BAKONYÉRT” Vidékfejlesztési Akciócsoport Egyesület |
 
@@ -3447,3 +3447,5 @@ II. Horizontális szempontok
 III. Pénzügyi szempontok
 
 A) Önkormányzat, önkormányzati társulás, nonprofit szervezet, egyházi jogi személy esetében
+
+[^3]: Az 1. melléklet az 59/2012. (VI. 28.) VM rendelet 26. §-a szerint módosított szöveg.
