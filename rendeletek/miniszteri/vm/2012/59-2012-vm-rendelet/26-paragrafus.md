@@ -1,0 +1,3 @@
+## 25. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a turisztikai tevékenységek ösztönzéséhez a LEADER Helyi Akciócsoportok közreműködésével 2012-től nyújtandó támogatások részletes feltételeiről szóló 52/2012. (VI. 8.) VM rendelet (a továbbiakban: R6.) 5. § (3) bekezdése helyébe az alábbi rendelkezés lép:
+
+## „(3) A 2. § (1) bekezdés c) pontjában meghatározott célterület esetén a támogatás igénybevételére kizárólag mikro-, kis- vagy középvállalkozás, települési önkormányzat, nemzetiségi önkormányzat, és a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 16. §-ában meghatározott önálló jogi személyiséggel rendelkező önkormányzati társulás, nonprofit szervezet és egyház jogosult.”

@@ -1,0 +1,3 @@
+## 19. § A 2011 májusában fagykárt szenvedett mezőgazdasági termelők hitelhez jutási lehetőségeiről szóló 133/2011. (XII. 22.) VM rendelet (a továbbiakban: R4.) 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) E rendelet alapján a hitelprogram keretében 2012. október 31-ig megkötött hitelszerződéséhez kapcsolódóan kamat- és költségtámogatás, valamint kedvezményes díjú kezességvállalás igénybevételére jogosult az a mezőgazdasági termelő, aki ezen tevékenysége vonatkozásában az ültetvényeiben szenvedett fagykárát az 5. § (1) bekezdés d) pont da)–dc) alpontjaiban foglaltaknak megfelelő módon igazolja.”
