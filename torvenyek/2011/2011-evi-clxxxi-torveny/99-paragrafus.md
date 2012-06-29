@@ -1,6 +1,6 @@
 ## 46. Átmeneti rendelkezések
 
-99. § (1) A civil és egyéb cégnek nem minősülő szervezetek nyilvántartása – 2012. június 30-áig – az alábbi adatokat tartalmazza:
+99. § (1) A civil és egyéb cégnek nem minősülő szervezetek nyilvántartása – 2013. január 1. napjáig – az alábbi adatokat tartalmazza:
 
 a) nyilvántartási szám,
 
