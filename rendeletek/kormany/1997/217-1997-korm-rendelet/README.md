@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-217-20-
 | 2011-10-15 | 1997-217-20-22.97 | 212/2011. (X. 14.) Korm. rendelet |
 | 2012-01-01 | 1997-217-20-22.98 | 325/2011. (XII. 28.) Korm. rendelet |
 | 2012-02-14 | 1997-217-20-22.99 | 13/2012. (II. 14.) Korm. rendelet |
+| 2012-06-29 | 1997-217-20-22.100 | 137/2012. (VI. 29.) Korm. rendelet |

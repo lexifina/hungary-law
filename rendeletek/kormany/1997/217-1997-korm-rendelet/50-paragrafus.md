@@ -12,6 +12,10 @@
 
 (6)[^448] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 13/2012. (II. 14.) Korm. rendelettel megállapított 21. § (3) és (4) bekezdése alapján az OEP a 2012. január 1-jét követően végzett szállítások, illetve mentési tevékenység finanszírozására köt szerződést.
 
+(8)[^449] Azokat az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 137/2012. (VI. 29.) Korm. rendelet (a továbbiakban: Módr2.) hatálybalépését[^450] megelőzően az Ebtv. 32. § (1) bekezdése alapján megkötött és a Módr2. 8. §-ának hatálybalépésekor[^451] érvényes szerződéseket, amelyek 2012. szeptember 30-án nem felelnek meg a 22. § (1a) bekezdésében meghatározott feltételnek, az OEP 2012. október 1-jével felmondja.
+
+(9)[^452] A Módr2. által megállapított 7/A. § (5) bekezdését, 7/B. § (3a) és (4a) bekezdését a Módr2. 3. § (1) bekezdésének és 4. §-ának hatálybalépését[^453] követően indult eljárásokban kell alkalmazni.
+
 [^442]: A Vhr. 50. § (3) bekezdését a 151/2010. (IV. 30.) Korm. rendelet 6. §-a iktatta be.
 [^443]: A Vhr. 50. § (4) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 12. §-a iktatta be.
 [^444]: A hatálybalépés időpontja 2012. január 1.
@@ -19,3 +23,8 @@
 [^446]: A hatálybalépés időpontja 2012. január 1.
 [^447]: A kihirdetés napja 2011. december 28.
 [^448]: A Vhr. 50. § (6) bekezdését a 13/2012. (II. 14.) Korm. rendelet 11. §-a iktatta be.
+[^449]: A Vhr. 50. § (8) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 11. §-a iktatta be.
+[^450]: A hatálybalépés időpontja 2012. június 29.
+[^451]: A hatálybalépés időpontja 2012. július 1.
+[^452]: A Vhr. 50. § (9) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 11. §-a iktatta be.
+[^453]: A hatálybalépés időpontja 2012. július 1.
