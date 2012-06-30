@@ -1,5 +1,0 @@
-## 8. § Az R2. a 42. §-t követően a következő 42/A. §-sal egészül ki:
-
-## „42/A. § (1) E rendeletnek a 3. módosító rendelettel megállapított 10. § (6) bekezdését az Európai Halászati Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 25/2009. (III. 17.) FVM rendelet, valamint az Európai Halászati Alapból a 2. támogatási tengely szerint nyújtandó támogatások részletes feltételeiről szóló 26/2009. (III. 17.) FVM rendelet alapján folyamatban lévő ügyekben is alkalmazni kell.
-
-## (2) Az Európai Halászati Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 25/2009. (III. 17.) FVM rendelet, valamint az Európai Halászati Alapból a 2. támogatási tengely szerint nyújtandó támogatások részletes feltételeiről szóló 26/2009. (III. 17.) FVM rendelet [a továbbiakban: 26/2009. (III. 17.) FVM rendelet] alapján folyamatban lévő ügyekben a 26/2009. (III. 17.) FVM rendelet 5. § szerinti kifizetési kérelem benyújtási időszakokban a 3. módosító rendelet hatálybalépését követően kifizetési kérelmet benyújtani nem lehet.”
