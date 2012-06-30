@@ -1,3 +1,3 @@
-91. §[^95]
+91. §[^98]
 
-[^95]: A 81–91. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^98]: A 81–91. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.

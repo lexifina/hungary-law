@@ -1,3 +1,3 @@
-16. §[^16]
+16. §[^17]
 
-[^16]: A 14–20. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^17]: A 14–20. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.

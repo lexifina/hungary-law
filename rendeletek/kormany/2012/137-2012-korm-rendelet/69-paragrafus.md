@@ -2,6 +2,6 @@
 
 ## 59/2011. (IV. 12.) Korm. rendelet módosítása
 
-69. §[^73]
+69. §[^76]
 
-[^73]: A 69–72. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^76]: A 69–72. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-96. §[^98]
+96. §[^103]
 
-[^98]: A 95–97. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^103]: A 95–97. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.

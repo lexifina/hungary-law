@@ -2,6 +2,6 @@
 
 ## 313/2011. (XII. 23.) Korm. rendelet módosítása
 
-75. §[^79]
+75. §[^82]
 
-[^79]: A 75–80. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^82]: A 75–80. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.

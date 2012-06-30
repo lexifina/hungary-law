@@ -1,3 +1,3 @@
-49. §[^52]
+49. §[^55]
 
-[^52]: A 46–54. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^55]: A 46–54. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.

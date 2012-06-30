@@ -1,3 +1,3 @@
-74. §[^78]
+74. §[^81]
 
-[^78]: A 73–74. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^81]: A 73–74. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.

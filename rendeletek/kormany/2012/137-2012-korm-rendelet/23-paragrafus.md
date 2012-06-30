@@ -2,6 +2,6 @@
 
 ## 134/1999. (VIII. 31.) Korm. rendelet módosítása
 
-23. §[^26]
+23. §[^27]
 
-[^26]: A 23–25. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^27]: A 23–25. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-72. §[^76]
+72. §[^79]
 
-[^76]: A 69–72. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^79]: A 69–72. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-40. §[^43]
+40. §[^44]
 
-[^43]: A 39–40. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^44]: A 39–40. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-25. §[^28]
+25. §[^29]
 
-[^28]: A 23–25. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^29]: A 23–25. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.

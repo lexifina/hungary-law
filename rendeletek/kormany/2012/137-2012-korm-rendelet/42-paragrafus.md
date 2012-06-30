@@ -1,3 +1,3 @@
-42. §[^46]
+42. §[^47]
 
-[^46]: A 42. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^47]: A 42. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.

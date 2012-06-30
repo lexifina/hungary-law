@@ -1,3 +1,3 @@
-## 93. § A megyei intézményfenntartó központokról, valamint a megyei önkormányzatok konszolidációjával, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egészségügyi intézményeinek átvételével összefüggő egyes kormányrendeletek módosításáról szóló 258/2011. (XII. 7.) Korm. rendelet a következő 20/A. §-sal egészül ki:
+94. §[^101]
 
-## „20/A. § A Törvény 7. § (5b) bekezdése alapján indult eljárásban a működési engedély az egészségügyi szolgáltatónak az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló rendelet, illetve az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló rendelet szerinti nyilatkozatától függetlenül kiadható.”
+[^101]: A 93–94. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

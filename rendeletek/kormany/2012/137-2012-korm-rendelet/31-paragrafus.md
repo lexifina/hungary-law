@@ -1,3 +1,3 @@
-31. §[^34]
+31. §[^35]
 
-[^34]: A 26–32. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^35]: A 26–32. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
