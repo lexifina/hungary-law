@@ -7,11 +7,3 @@ b) 4. §-a és 23. §-a az Alaptörvény 31. cikk (3) bekezdése,
 c) 10. §-a és 11. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése, valamint az Alaptörvény 31. cikk (3) bekezdése
 
 alapján sarkalatosnak minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

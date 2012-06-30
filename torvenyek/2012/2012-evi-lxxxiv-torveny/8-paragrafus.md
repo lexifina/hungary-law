@@ -10,11 +10,7 @@
 
 „k) az a)–j) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.”
 
-(3) Az Nvt. 12. § (2) bekezdésének c) pontja helyébe a következő rendelkezés lép:
-
-(A helyi önkormányzat kizárólagos gazdasági tevékenységei a következők:)
-
-„c) a menetrend szerinti helyi személyszállítási szolgáltatás és a menetrend szerinti helyi különcélú személyszállítási szolgáltatás,”
+(3)
 
 (4) Az Nvt. 12. § (3) bekezdése helyébe a következő rendelkezés lép:
 
