@@ -1,1 +1,1 @@
-6. § A kulturális örökség védelmének összehangolását és irányítását, ágazati szakmai felügyeletét a miniszter látja el. E feladatkörében irányítja a kulturális örökségvédelmi hatóságot (a továbbiakban: hatóság), szakfelügyelői és más szakmai testületeket működtet.
+6. § A kulturális örökség védelmének összehangolását és irányítását, ágazati szakmai felügyeletét a kultúráért felelős miniszter (a továbbiakban: miniszter) látja el. E feladatkörében irányítja a kulturális örökségvédelmi hatóságot (a továbbiakban: hatóság), szakfelügyelői és más szakmai testületeket működtet.

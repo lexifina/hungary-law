@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-64-00-00
 | 2011-12-31 | 2011. évi CXCVI. törvény | 2001-64-00-00.20 |
 | 2012-01-01 | 2011. évi CXLIX. törvény | 2001-64-00-00.21 |
 | 2012-05-05 | 2012. évi XL. törvény | 2001-64-00-00.22 |
+| 2012-06-30 | 2012. évi LXXXIV. törvény | 2001-64-00-00.23 |
