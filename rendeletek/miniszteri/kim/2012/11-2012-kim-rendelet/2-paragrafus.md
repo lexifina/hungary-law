@@ -6,4 +6,4 @@
 
 (4)[^3]
 
-[^3]: A 2. § (4) bekezdése a 13. § (2) bekezdése alapján 2012. június 30-án lép hatályba.
+[^3]: A 2. § (4) bekezdése a 13. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.

@@ -20,5 +20,5 @@ g) a közhasznú jogállás nyilvántartásba vétele iránti
 
 (4)–(5)[^5]
 
-[^4]: A 8. § (2) bekezdés d)–f) pontja a 13. § (2) bekezdése alapján 2012. június 30-án lép hatályba.
-[^5]: A 8. § (4)–(5) bekezdése a 13. § (2) bekezdése alapján 2012. június 30-án lép hatályba.
+[^4]: A 8. § (2) bekezdés d)–f) pontja a 13. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^5]: A 8. § (4)–(5) bekezdése a 13. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.

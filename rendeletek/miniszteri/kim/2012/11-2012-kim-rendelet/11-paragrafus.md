@@ -4,4 +4,4 @@
 
 (2) Az (1) bekezdésben meghatározottak szerint közzétett űrlap elektronikus eljárásra nem alkalmazható.
 
-[^6]: A 10. § a 13. § (2) bekezdése alapján 2012. június 30-án lép hatályba.
+[^6]: A 10. § a 13. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
