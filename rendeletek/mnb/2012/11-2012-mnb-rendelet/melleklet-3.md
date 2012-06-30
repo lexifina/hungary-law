@@ -12,6 +12,16 @@
 
 ## II. A táblák kitöltésével kapcsolatos részletes előírások
 
+## 1. A késedelmesen törlesztett devizakölcsönök konverziójához kapcsolódó állományi adatok (01. tábla)
+
+## A táblában a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény 10/A. § (1) bekezdésében meghatározott kritériumoknak megfelelő, az átváltási lehetőség megnyílásától a tárgyidőszak utolsó napjáig ténylegesen forintra átváltott (a továbbiakban: átváltott) devizakölcsönök állományának adatait kell jelenteni, a táblában meghatározott bontásban. Az adatokat – a tábla 005–009 sorában jelentett adatok kivételével – a tárgyidőszak utolsó napján érvényes hivatalos MNB devizaárfolyamon kell jelenteni. A 005 és 006 sorban a 2011. december 31-én, a 009 sorban a követelés elengedésekor érvényes hivatalos MNB devizaárfolyamon kell jelenteni az adatokat. A 007 és 008 sorban az átváltás és a követelés elengedés megtörténte utáni állapot szerint kell jelenteni a vonatkozó, már forintban fennálló állományt.
+
+## A táblában használt fogalmak tartalmára az MNB rendelet 1. melléklet I. pontjában foglalt táblázat 52. sorában meghatározott „A háztartási szektor részére nyújtott hitelállomány összetétele” (azonosító kód: H34) azonosító kódú adatszolgáltatásnak az MNB rendelet 2. melléklet II. pontjában foglalt kitöltési előírásaiban leírtak az irányadók.
+
+## 2. A késedelmesen törlesztett devizakölcsönök konverziójához kapcsolódó szerződések száma (02. tábla)
+
+## A táblában az átváltott, a 01. táblában jelentett devizakölcsönökre vonatkozó szerződések darabszámát kell megadni, a táblában meghatározott bontásban, a 01. táblában jelentett adatokkal összhangban.
+
 ## 3. Külföldről származó források változásainak összetevői (03. tábla)
 
 ## A táblában a tárgyidőszakban lejárt, illetve visszafizetett, valamint a felvett külföldi forrásokra vonatkozó adatokat kell megadni, forint- és devizabontásban.
@@ -32,6 +42,6 @@
 
 ## A külföld szektor meghatározását az MNB rendelet 2. melléklet I. A. pontjában foglalt előírások szerint kell elvégezni.
 
-3. melléklet a 11/2012. (V. 16.) MNB rendelethez[^4]
+3. melléklet a 11/2012. (V. 16.) MNB rendelethez[^3]
 
-[^4]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

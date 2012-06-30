@@ -2,6 +2,50 @@
 
 ## A devizakölcsönök kezeléséhez kapcsolódó adatok
 
+## 01. tábla A késedelmesen törlesztett devizakölcsönök konverziójához kapcsolódó állományi adatok
+
+| Nagyságrend: millió Ft |
+
+| Sorszám | Megnevezés/ devizanem (adatok millió Ft-ban töltendőek) | EUR | CHF | JPY | Egyéb deviza | Teljes deviza- állomány |
+
+| 1 | 2 | 3 | 4 | 5 |
+
+| a | b | c | d | e |
+
+| 001 | A 2011. évi LXXV. törvény 10/A. § (1) bekezdése szerinti, ténylegesen forintra váltott devizakölcsönök |  |  |  |  |  |
+
+| 002 | Ebből lakáscélú devizakölcsön |  |  |  |  |  |
+
+| 003 | Ebből szabad felhasználású devizakölcsön |  |  |  |  |  |
+
+| 004 | A 2011. évi LXXV. törvény 10/A. § (1) bekezdése szerinti, ténylegesen forintra váltott devizakölcsönök |  |  |  |  |  |
+
+| 005 | Bruttó érték 2011. december 31-ei állapot szerint |  |  |  |  |  |
+
+| 006 | Nettó érték 2011. december 31-ei állapot szerint |  |  |  |  |  |
+
+| 007 | Bruttó érték átváltáskori állapot szerint |  |  |  |  |  |
+
+| 008 | Nettó érték átváltáskori állapot szerint |  |  |  |  |  |
+
+| 009 | A 2011. évi LXXV. törvény 10/A. § (1) bekezdése szerinti, ténylegesen forintra váltott devizakölcsönökkel kapcsolatban elengedett követelés az elengedéskori állapot szerint |  |  |  |  |  |
+
+## 02. tábla A késedelmesen törlesztett devizakölcsönök konverziójához kapcsolódó szerződések száma
+
+| Nagyságrend: darab |
+
+| Sorszám | Megnevezés/ devizanem (adatok szerződés darabszámban töltendőek) | EUR | CHF | JPY | Egyéb deviza | Teljes deviza- állomány |
+
+| 1 | 2 | 3 | 4 | 5 |
+
+| a | b | c | d | e |
+
+| 001 | A 2011. évi LXXV. törvény 10/A. § (1) bekezdése szerinti, ténylegesen forintra váltott devizakölcsönök |  |  |  |  |  |
+
+| 002 | Ebből lakáscélú devizakölcsön |  |  |  |  |  |
+
+| 003 | Ebből szabad felhasználású devizakölcsön |  |  |  |  |  |
+
 ## 03. tábla Külföldről származó források változásainak összetevői
 
 | Nagyságrend: millió Ft |
@@ -36,6 +80,4 @@
 
 | 012 | Összesen |  |  |  |
 
-2. melléklet a 11/2012. (V. 16.) MNB rendelethez[^3]
-
-[^3]: Az AL/6 azonosító kódú adatszolgáltatásra vonatkozó, a 2. mellékletben foglalt kitöltési előírások II. pontjának 1. és 2. alpontja a 4. § (2) bekezdése alapján 2012. június 30-án lép hatályba.
+2. melléklet a 11/2012. (V. 16.) MNB rendelethez
