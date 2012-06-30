@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-71-20-8
 | --- | --- | --- |
 | 2010-05-28 | 2010-71-20-82.1 | 71/2010. (V. 13.) FVM rendelet |
 | 2012-02-11 | 2010-71-20-82.2 | 5/2012. (II. 10.) VM rendelet |
+| 2012-06-30 | 2010-71-20-82.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
