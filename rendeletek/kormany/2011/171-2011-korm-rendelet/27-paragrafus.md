@@ -1,9 +1,9 @@
-## 26. §[^10]
+## 26. §[^12]
 
-27. § (1)–(3)[^11]
+27. § (1)–(3)[^13]
 
-(4)[^12]
+(4)[^14]
 
-[^10]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 27. § (1)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 27. § (4) bekezdése a 25. § (3) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^12]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 27. § (1)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 27. § (4) bekezdése a 25. § (3) bekezdése alapján 2014. július 1-jén lép hatályba.

@@ -6,6 +6,6 @@
 
 ## d) ellátja az MpA foglalkoztatási alaprésze központi pénzügyi keretéből finanszírozott munkahelyteremtéssel kapcsolatos feladatokat,”
 
-1. melléklet a 171/2011. (VIII. 24.) Korm. rendelethez[^13]
+1. melléklet a 171/2011. (VIII. 24.) Korm. rendelethez[^15]
 
-[^13]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
