@@ -1,4 +1,4 @@
-33. § (1) Az út kezelői:
+33. § (1) E törvény szerint az út kezelői:
 
 a) a koncessziós szerződés alapján működtetett országos vagy helyi közút tekintetében a koncessziós társaság;
 
