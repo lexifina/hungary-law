@@ -8,4 +8,6 @@ a) a közérdek, különösen a vízgazdálkodási, a közegészségügyi, a kö
 
 b) a vizek mennyiségének és minőségének természetes vagy egyéb elháríthatatlan okokból történő megváltozása
 
+c) az engedélyes jogszabályban meghatározott kötelezettség teljesítésének elmulasztása vagy jogszabályi kötelezettség megszegése
+
 indokolja.
