@@ -14,6 +14,10 @@ f)–g)
 
 h) a költségvetési szervek egyes típusai állami vagyonnal való gazdálkodásának speciális szabályait.
 
-(2)
+(2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
+
+a) az állam tulajdonában lévő vizek medrének használatáért fizetendő használati díj megállapításának elveit, módszereit és mértékét,
+
+b) a 3. § (2) bekezdése szerinti tulajdonosi joggyakorló személyét, a tulajdonosi joggyakorlással érintett vagyoni kört, a tulajdonosi joggyakorló jogainak és kötelezettségének körét, a joggyakorlás szabályait, időtartamát.
 
 ## Melléklet a 2007. évi CVI. törvényhez

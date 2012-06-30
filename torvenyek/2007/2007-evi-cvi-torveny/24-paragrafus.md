@@ -1,4 +1,4 @@
-24. § (1) Állami vagyon használatát biztosító – így különösen bérleti, haszonbérleti, megbízási – szerződés nyilvános, kivételesen, indokolt esetben zártkörű versenyeztetés útján köthető. A versenyeztetési kötelezettség a határozott időre kötött szerződések meghosszabbítása esetén is fennáll.
+24. § (1) Állami vagyon használatát biztosító – így különösen bérleti, haszonbérleti, megbízási – szerződés nyilvános, kivételesen, indokolt esetben zártkörű versenyeztetés útján köthető.
 
 (2) Mellőzhető a versenyeztetés, ha:
 
