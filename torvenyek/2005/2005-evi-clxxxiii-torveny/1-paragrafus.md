@@ -26,6 +26,6 @@ terjed ki.
 
 a) 3. § (2) bekezdésének d) pontját és 14. § (1) bekezdését a Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság (a továbbiakban: GySEV Zrt.) működtetésében lévő országos vasúti pályahálózat vonatkozásában,
 
-b) 38. § (1) bekezdését a GySEV Zrt. működtetésében lévő országos vasúti pályahálózathoz tartozó vasúti pályák és tartozékaik vonatkozásában,
+b)
 
 c) 40. § (1) bekezdését a Fertővidéki Helyi Érdekű Vasút Zrt. működtetésében lévő vasúti pályahálózathoz tartozó vasúti pályák és tartozékaik vonatkozásában.
