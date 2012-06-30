@@ -1,0 +1,1 @@
+14. § Hatályát veszti a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 15/A. §-a és az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló 2012. évi LXXVI. törvénnyel megállapított 2. melléklet III. fejezet 1. alcím 31. pontja.
