@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-15-20-5
 | 2011-01-01 | 2004-15-20-53.20 | 44/2008. (XII. 31.) PM rendelet |
 | 2011-04-20 | 2004-15-20-53.21 | 17/2011. (IV. 19.) NGM rendelet |
 | 2011-05-01 | 2004-15-20-53.22 | 17/2011. (IV. 19.) NGM rendelet |
+| 2012-06-30 | 2004-15-20-53.23 | 13/2012. (VI. 25.) NGM rendelet |

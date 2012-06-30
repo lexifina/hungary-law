@@ -2,7 +2,7 @@
 
 ## Szemlebejelentés
 
-| 1. | ............................................................................................ Vám- és pénzügyőri hivatal Adóigazgatási szám: 15746155-2-01 Sztj: 151000 | Szemlekérelem száma: |
+| 1. | ............................................................................................ Alsó fokú vámszerv Adóigazgatási szám: 15746155-2-01 Sztj: 151000 | Szemlekérelem száma: |
 
 | 2. | Szemlét kérő: |
 
@@ -56,6 +56,6 @@
 
 | .......................................... aláírás | P. H. .............................................. pénzügyőr aláírása |
 
-5. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^173]
+5. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^178]
 
-[^173]: Az 5. számú melléklet a 44/2008. (XII. 31.) PM rendelet 9. § (1) bekezdésével megállapított, a 17/2011. (IV. 19.) NGM rendelet 78. § (9) és (11) bekezdése szerint módosított szöveg.
+[^178]: Az 5. számú melléklet a 44/2008. (XII. 31.) PM rendelet 9. § (1) bekezdésével megállapított, a 17/2011. (IV. 19.) NGM rendelet 78. § (9) és (11) bekezdése szerint módosított szöveg.

@@ -56,6 +56,6 @@
 
 ## Az „Áru leírása kereskedelmi megnevezéssel” rovatban élő szarvasmarha és sertés esetében a darabszámot is fel kell tüntetni.
 
-6. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^174]
+6. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^179]
 
-[^174]: A 6. számú melléklet a 44/2008. (XII. 31.) PM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^179]: A 6. számú melléklet a 44/2008. (XII. 31.) PM rendelet 9. § (2) bekezdésével megállapított, a 13/2012. (VI. 25.) NGM rendelet 10. § (3) bekezdés d) pontja szerint módosított szöveg.

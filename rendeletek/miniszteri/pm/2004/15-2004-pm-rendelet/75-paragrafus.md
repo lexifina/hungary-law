@@ -1,3 +1,5 @@
 75. § (1) A VPID számot az ügyfélnek minden, a vámhatóságnál írásban kezdeményezett eljárás során fel kell tüntetni.
 
-(2) A vámhatóság a Vtv. 17. § (6) bekezdésének a) és d) pontjában meghatározott nyilvántartásokból történő adat igénylést elektronikus formában is végrehajthatja, ha az adatvédelem feltételei biztosítottak.
+(2)[^160]
+
+[^160]: A 75. § (2) bekezdését a 13/2012. (VI. 25.) NGM rendelet 12. § c) pontja hatályon kívül helyezte.

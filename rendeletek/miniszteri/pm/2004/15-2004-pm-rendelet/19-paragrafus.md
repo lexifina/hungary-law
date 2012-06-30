@@ -1,6 +1,6 @@
 ## 19. § Az elfogadott exportőri engedélykérelemhez csatolandó iratok:
 
-a) nyilatkozat arra vonatkozóan, hogy rendszeresen szállít árut a kedvezményes kereskedelem keretein belül,
+a)[^7] nyilatkozat arra vonatkozóan, hogy rendszeresen szállít vagy kíván árut szállítani a kedvezményes kereskedelem keretein belül,
 
 b) a Vtv. 1. §-a (3) bekezdésének 3. pontjában meghatározott okmányok,
 
@@ -15,3 +15,5 @@ f) nyilatkozat arra vonatkozóan, hogy aláírásával kívánja-e ellátni a ke
 g) amennyiben több telephellyel rendelkezik a kérelmező, nyilatkozat arra vonatkozóan, hogy könyvelését hol vezetik,
 
 h) azon személy megnevezése és elérhetősége, aki felelős a kedvezményre jogosító nyilatkozatok kiadásáért.
+
+[^7]: A 19. § a) pontja a 13/2012. (VI. 25.) NGM rendelet 2. §-ával megállapított szöveg.

@@ -1,10 +1,10 @@
-60. § (1)[^90] Az egyszerűsített eljárás engedélyese az engedélyező vámszerv által – az EK végrehajtási rendelet 266. Cikke (3) bekezdésében foglaltak fenntartásával – jóváhagyott, a vámellenőrzés céljára is megfelelő nyilvántartást köteles vezetni, amelyből megállapíthatók az egyszerűsített eljárás alatt álló áruk adatai.
+60. § (1)[^99] Az egyszerűsített eljárás engedélyese az engedélyező vámszerv által – az EK végrehajtási rendelet 266. Cikke (3) bekezdésében foglaltak fenntartásával – jóváhagyott, a vámellenőrzés céljára is megfelelő nyilvántartást köteles vezetni, amelyből megállapíthatók az egyszerűsített eljárás alatt álló áruk adatai.
 
 (2) A nyilvántartásnak a következő adatokat kell tartalmaznia:
 
-a)[^91] az engedély számát, az engedélyező megyeszékhelyen működő vám- és pénzügyőri hivatal nevét, az egyszerűsített eljárás formáit és az engedélyezett vámeljárás(ok) megnevezését,
+a)[^100] az engedély számát, az engedélyező alsó fokú vámszerv nevét, az egyszerűsített eljárás formáit és az engedélyezett vámeljárás(ok) megnevezését,
 
-b)[^92] az engedélyes, megbízó nevét, címét, VPID számát, telephelyét vagy az eljárás végzésére az alsó fokú vámszerv által engedélyezett egyéb helyet,
+b)[^101] az engedélyes, megbízó nevét, címét, VPID számát, telephelyét vagy az eljárás végzésére az alsó fokú vámszerv által engedélyezett egyéb helyet,
 
 c) a nyilvántartás sorszámát,
 
@@ -20,15 +20,15 @@ h) az egyszerűsített árunyilatkozathoz, valamint a vámeljárást lezáró v�
 
 i) minden egyéb adatot, amely az áruk azonosításához szükséges lehet.
 
-(3)[^93] Amennyiben az egyszerűsített eljárás engedélyese az EK végrehajtási rendelet 285. cikk (2) bekezdése alapján teljes kiviteli nyilatkozatot nyújt be, abban az esetben a nyilvántartásnak – a (2) bekezdéstől eltérően – kizárólag a teljes kiviteli nyilatkozat adatait kell tartalmaznia.
+(3)[^102] Amennyiben az egyszerűsített eljárás engedélyese az EK végrehajtási rendelet 285. cikk (2) bekezdése alapján teljes kiviteli nyilatkozatot nyújt be, abban az esetben a nyilvántartásnak – a (2) bekezdéstől eltérően – kizárólag a teljes kiviteli nyilatkozat adatait kell tartalmaznia.
 
-(4)[^94] A nyilvántartást az engedélyesnél hozzáférhetővé kell tenni a felügyeletet ellátó vám- és pénzügyőri hivatal számára.
+(4)[^103] A nyilvántartást az engedélyesnél hozzáférhetővé kell tenni a felügyeletet ellátó alsó fokú vámszerv számára.
 
-(5)[^95] Az egyszerűsített eljárás engedélyese az alsó fokú vámszerv által – az engedélyezés során jóváhagyott – a vámellenőrzés céljára is megfelelő számítógépes nyilvántartást köteles vezetni, amelyből megállapíthatók az egyszerűsített vámeljárás alatt álló áru adatai.
+(5)[^104] Az egyszerűsített eljárás engedélyese az alsó fokú vámszerv által – az engedélyezés során jóváhagyott – a vámellenőrzés céljára is megfelelő számítógépes nyilvántartást köteles vezetni, amelyből megállapíthatók az egyszerűsített vámeljárás alatt álló áru adatai.
 
-[^90]: A 60. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 73. §-ával megállapított szöveg.
-[^91]: A 60. § (2) bekezdés a) pontja a 44/2008. (XII. 31.) PM rendelet 27. § (13) bekezdése szerint módosított szöveg. [A 17/2011. (IV. 19.) NGM rendelet 78. § (3) bekezdésével elrendelt módosítás, amely szerint a „a megyeszékhelyen működő vám- és pénzügyőri hivatal” szövegrész helyébe „az alsó fokú vámszerv” szöveg lép, nem vezethető át.]
-[^92]: A 60. § (2) bekezdés b) pontja a 17/2011. (IV. 19.) NGM rendelet 78. § (4) bekezdése szerint módosított szöveg.
-[^93]: A 60. § új (3) bekezdését a 44/2008. (XII. 31.) PM rendelet 5. §-a iktatta be, egyidejűleg az eredeti (3)–(4) bekezdés számozását (4)–(5) bekezdésre változtatva.
-[^94]: A 60. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 44/2008. (XII. 31.) PM rendelet 5. §-a, szövege e módosító rendelet 27. § (1) bekezdése szerint módosított szöveg. [A 17/2011. (IV. 19.) NGM rendelet 78. § (4) bekezdésével elrendelt módosítás, amely szerint a „a vám- és pénzügyőri hivatal” szövegrész helyébe „az alsó fokú vámszerv” szöveg lép, nem vezethető át.]
-[^95]: A 60. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 44/2008. (XII. 31.) PM rendelet 5. §-a. Az (5) bekezdés a 17/2011. (IV. 19.) NGM rendelet 78. § (3) bekezdése szerint módosított szöveg.
+[^99]: A 60. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 73. §-ával megállapított szöveg.
+[^100]: A 60. § (2) bekezdés a) pontja a 13/2012. (VI. 25.) NGM rendelet 10. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^101]: A 60. § (2) bekezdés b) pontja a 17/2011. (IV. 19.) NGM rendelet 78. § (4) bekezdése szerint módosított szöveg.
+[^102]: A 60. § új (3) bekezdését a 44/2008. (XII. 31.) PM rendelet 5. §-a iktatta be, egyidejűleg az eredeti (3)–(4) bekezdés számozását (4)–(5) bekezdésre változtatva.
+[^103]: A 60. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 44/2008. (XII. 31.) PM rendelet 5. §-a, szövege a 13/2012. (VI. 25.) NGM rendelet 10. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^104]: A 60. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 44/2008. (XII. 31.) PM rendelet 5. §-a. Az (5) bekezdés a 17/2011. (IV. 19.) NGM rendelet 78. § (3) bekezdése szerint módosított szöveg.
