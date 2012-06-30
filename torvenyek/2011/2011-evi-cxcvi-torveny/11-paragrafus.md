@@ -10,15 +10,25 @@
 
 (5) A vagyonkezelői jog kivételesen törvényben történő kijelöléssel, a törvényben megjelölt – a 3. § (1) bekezdés 19. pontjában felsoroltak körébe tartozó – személyekkel, vagy a törvényben egyedileg meghatározott jogi személlyel jön létre. Az állam és a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon, a 2. mellékletben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon, valamint az állam és a helyi önkormányzat kizárólagos gazdasági tevékenysége tekintetében a 3. § (1) bekezdés 19. pont a) alpont aa)–af) alpontjában, valamint b) és c) alpontjában felsorolt személyeken kívül kijelölés nem alkalmazható.
 
-(6) Központi költségvetési szerv a működéséhez szükséges, a számviteli törvény szerinti immateriális jószág, tárgyi eszköz (műszaki berendezés, gép, felszerelés stb.), készlet megvásárlására – ingatlan kivételével – adásvételi szerződést köthet. A szerződés megkötésével a dolog az állam tulajdonába, és a tulajdonosi joggyakorló, valamint az adott központi költségvetési szerv között megkötött vagyonkezelési szerződés alapján a központi költségvetési szerv vagyonkezelésébe kerül.
+(6) Központi költségvetési szerv a működéséhez szükséges, a számviteli törvény szerinti immateriális jószág, tárgyi eszköz (műszaki berendezés, gép, felszerelés stb.), készlet megvásárlására – ingatlan kivételével – adásvételi szerződést köthet. Ezen vagyonelem – ha értéke a külön törvényben meghatározott értékhatárt nem haladja meg – e törvény erejénél fogva az állam tulajdonába és vagyonkezelési szerződés megkötése nélkül a központi költségvetési szerv vagyonkezelésébe kerül.
 
-(7) Törvény alapján kijelöléssel létrejött vagyonkezelői jog – ha a törvény másként nem rendelkezik – az adott törvényben meghatározott feltételek teljesülésének, ennek hiányában a törvény hatálybalépésének napján keletkezik. A vagyonkezelésre vonatkozó részletes szabályokat a tulajdonosi joggyakorlóval megkötött vagyonkezelési szerződés tartalmazza.
+(7) Törvény alapján kijelöléssel létrejött vagyonkezelői jog – ha a törvény másként nem rendelkezik – az adott törvényben meghatározott feltételek teljesülésének, ennek hiányában a törvény hatálybalépésének napján keletkezik. A kijelölés során rendelkezni kell arról, hogy a vagyonkezelői jog létesítése ingyenesen vagy visszterhesen történik. A vagyonkezelésre vonatkozó részletes szabályokat a tulajdonosi joggyakorlóval megkötött vagyonkezelési szerződés tartalmazza. A Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 206. §-ának rendelkezése a szerződés létrehozása tekintetében nem alkalmazható. A vagyonkezelési szerződés megkötésének időpontjáig a vagyonkezelői jog az ingatlan-nyilvántartásban nem jegyezhető be, és a vagyonkezelői jogot a kijelölt személy nem gyakorolhatja.
 
-(8) A vagyonkezelőt – ha jogszabály másként nem rendelkezik – megilletik a tulajdonos jogai, és terhelik a tulajdonos kötelezettségei – ideértve a számvitelről szóló törvény szerinti könyvvezetési és beszámoló-készítési kötelezettséget is – azzal, hogy a vagyont nem idegenítheti el, továbbá használati joggal, szolgalommal vagy más dologi joggal nem terhelheti meg, biztosítékul nem adhatja, valamint a vagyonkezelői jogot harmadik személyre a (9) bekezdésben foglalt kivétellel nem ruházhatja át és nem terhelheti meg.
+(8) A vagyonkezelőt – ha jogszabály vagy a vagyonkezelési szerződés másként nem rendelkezik – megilletik a tulajdonos jogai, és terhelik a tulajdonos kötelezettségei – ideértve a számvitelről szóló törvény szerinti könyvvezetési és beszámoló-készítési kötelezettséget is – azzal, hogy
+
+a) a vagyont nem idegenítheti el, valamint – jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – nem terhelheti meg,
+
+b) a vagyont biztosítékul nem adhatja,
+
+c) a vagyonon osztott tulajdont nem létesíthet,
+
+d) a vagyonkezelői jogot harmadik személyre a (9) bekezdésben foglalt kivétellel nem ruházhatja át és nem terhelheti meg, valamint
+
+e) polgári jogi igényt megalapító, polgári jogi igényt eldöntő tulajdonosi hozzájárulást a vagyonkezelésében lévő nemzeti vagyonra vonatkozóan hatósági és bírósági eljárásban sem adhat, kivéve a jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati joghoz, vezetékjoghoz vagy ugyanezen okokból alapított szolgalomhoz, továbbá a helyi önkormányzat javára alapított vezetékjoghoz történő hozzájárulást.
 
 (9) A központi költségvetési szervek a vagyonkezelési szerződésben foglalt jogokat és kötelezettségeket – az ingatlanokra vonatkozó jogok és kötelezettségek kivételével – egymás között szerződéssel átruházhatják.
 
-(10) A nemzeti vagyon hasznosítására vonatkozó szerződés csak természetes személlyel vagy átlátható szervezettel köthető.
+(10) A nemzeti vagyon hasznosítására vonatkozó szerződés csak természetes személlyel vagy átlátható szervezettel köthető. A hasznosításra irányuló szerződés határozatlan vagy legfeljebb 15 éves határozott időre köthető, amely időszak egy alkalommal legfeljebb 5 évvel meghosszabbító abban az esetben, ha a hasznosításra jogosult valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette. E bekezdés szerinti korlátozás nem vonatkozik az állammal, költségvetési szervvel, önkormányzattal vagy önkormányzati társulással kötött szerződésre.
 
 (11) Nemzeti vagyon hasznosítására vonatkozó szerződés kizárólag olyan természetes személlyel vagy átlátható szervezettel köthető, amely az átengedett nemzeti vagyon hasznosítására vonatkozó szerződésben vállalja, hogy
 
@@ -30,10 +40,22 @@ c) a hasznosításban – a hasznosítóval közvetlen vagy közvetett módon jo
 
 (12) A nemzeti vagyon hasznosítására vonatkozó szerződést a hasznosításba adó kártalanítás nélkül és azonnali hatállyal felmondhatja, ha a nemzeti vagyon hasznosításában részt vevő bármely – a hasznosítóval közvetlen vagy közvetett módon jogviszonyban álló harmadik fél – szervezet a nemzeti vagyon hasznosítására vonatkozó szerződés megkötését követően beállott körülmény folytán már nem minősül átlátható szervezetnek. A 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet tulajdonosi szerkezetében a 3. § (1) bekezdés 1. pontjától eltérő változást a nemzeti vagyon hasznosítására a hasznosítóval közvetlenül megkötött szerződésben a hasznosításba adót megillető, valamint a (11) bekezdés c) pontjában meghatározott személyekkel kötött szerződésekben a hasznosításba adóval közvetlen jogviszonyban álló személyt megillető rendkívüli felmondási okként rögzíteni kell.
 
-(13) Nemzeti vagyon ingyenesen kizárólag közfeladat ellátása céljából adható használatba, a közfeladat ellátásához szükséges mértékben.
+(13) Nemzeti vagyon ingyenesen kizárólag közfeladat ellátása céljából, a közfeladat ellátásához szükséges mértékben hasznosítható, valamint adható vagyonkezelésbe.
 
 (14)
 
 (15)
 
-(16) Törvényben, valamint a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében törvényben vagy a helyi önkormányzat rendeletében meghatározott értékhatár feletti nemzeti vagyont hasznosítani – ha törvény kivételt nem tesz – csak versenyeztetés útján, az összességében legelőnyösebb ajánlatot tevő részére, a szolgáltatás és ellenszolgáltatás értékarányosságával lehet. Nem vonatkozik ez a rendelkezés arra az esetre, ha a hasznosítás államháztartási körbe tartozó szervezet, illetve jogszabályban előírt állami, önkormányzati feladatot ellátó gazdálkodó szervezet javára, továbbá az államháztartási körbe tartozó szervezet vagyonkezelésében lévő, állami tulajdonban álló lakások tekintetében a vagyonkezelő szervezettel foglalkoztatásra irányuló jogviszonyban álló személyek javára történik.
+(16) Törvényben, valamint a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében törvényben vagy a helyi önkormányzat rendeletében meghatározott értékhatár feletti nemzeti vagyont hasznosítani – ha törvény kivételt nem tesz – csak versenyeztetés útján, az összességében legelőnyösebb ajánlatot tevő részére, a szolgáltatás és ellenszolgáltatás értékarányosságával lehet.
+
+(17) Mellőzhető a versenyeztetés abban az esetben, ha a hasznosítás
+
+a) államháztartási körbe tartozó szervezet,
+
+b) jogszabályban előírt állami vagy önkormányzati feladatot ellátó gazdálkodó szervezet, vagy
+
+c) államháztartási körbe tartozó szervezet vagyonkezelésében lévő, az állam vagy a helyi önkormányzat tulajdonában álló lakások tekintetében a vagyonkezelő szervezettel foglalkoztatásra irányuló jogviszonyban álló személyek
+
+javára történik.
+
+(18) A (16) bekezdésben foglalt rendelkezést nem kell alkalmazni, amennyiben természetes személy vagy 100%-ban magántulajdonban álló gazdálkodó szervezet a nemzeti vagyon használója, és a használatában álló nemzeti vagyont hasznosítja.

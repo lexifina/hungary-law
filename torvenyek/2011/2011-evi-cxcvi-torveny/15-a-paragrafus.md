@@ -1,1 +1,1 @@
-15/A. § A 2. számú melléklet III. fejezetének 1. alcíme alatt a 31. pontban felsorolt képzőművészeti alkotások 2012. június 30-án önkormányzati tulajdonból nyilvántartási értéken, ingyenesen az állam tulajdonába és az Országgyűlés Hivatala vagyonkezelésébe kerülnek. A vagyonkezelésre egyebekben a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött vagyonkezelési szerződés szabályait kell alkalmazni.
+### 15/A. §

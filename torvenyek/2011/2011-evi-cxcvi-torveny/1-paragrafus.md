@@ -18,7 +18,7 @@ e) Magyarország határa által körbezárt terület feletti légtér,
 
 f) az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló törvény szerinti kibocsátási egység és légiközlekedési kibocsátási egység, valamint az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló törvény szerinti kiotói egység,
 
-g) az állami fenntartású közgyűjtemények (muzeális intézmények, levéltárak, közgyűjteményként működő kép- és hangarchívumok, valamint könyvtárak) saját gyűjteményeiben nyilvántartott kulturális javak,
+g) állami vagy helyi önkormányzati fenntartású közgyűjtemény (muzeális intézmény, levéltár, közgyűjteményként működő kép- és hangarchívum, valamint könyvtár) saját gyűjteményében nyilvántartott kulturális javak körébe tartozó dolog,
 
 h) a régészeti lelet,
 

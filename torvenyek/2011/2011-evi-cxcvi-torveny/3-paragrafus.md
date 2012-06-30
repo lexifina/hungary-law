@@ -16,11 +16,13 @@ ae) lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallá
 
 af) helyi önkormányzat, a nemzetiségi önkormányzat és azok társulása, valamint
 
-ag) gazdálkodó szervezet, amelyben az állam vagy az önkormányzat külön-külön vagy együtt 100%-os részesedéssel rendelkezik; továbbá
+ag) gazdálkodó szervezet, amelyben az állam vagy az önkormányzat külön-külön vagy együtt 100%-os részesedéssel rendelkezik,
+
+ah) az Európai Gazdasági Térségről szóló megállapodásban részes állam szabályozott piacára bevezetett nyilvánosan működő részvénytársaság;
 
 b) az olyan belföldi vagy külföldi jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet, amely megfelel a következő feltételeknek:
 
-ba) – a nyilvánosan működő részvénytársaság kivételével – tulajdonosi szerkezete, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerint meghatározott tényleges tulajdonosa megismerhető,
+ba) tulajdonosi szerkezete, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerint meghatározott tényleges tulajdonosa megismerhető,
 
 bb) az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes államban, a Gazdasági Együttműködési és Fejlesztési Szervezet tagállamában vagy olyan államban rendelkezik adóilletőséggel, amellyel Magyarországnak a kettős adóztatás elkerüléséről szóló egyezménye van,
 
@@ -38,9 +40,9 @@ cc) székhelye az Európai Unió tagállamában, az Európai Gazdasági Térség
 
 2. dolog: minden birtokba vehető dolog és a dolog módjára hasznosítható természeti erők;
 
-3. forgalomképtelen nemzeti vagyon: az a nemzeti vagyon, amely nem idegeníthető el, vagyonkezelői jog, jogszabályon alapuló használati jog vagy szolgalom kivételével nem terhelhető meg, azon dologi jog vagy osztott tulajdon nem létesíthető;
+3. forgalomképtelen nemzeti vagyon: az a nemzeti vagyon, amely az e törvényben meghatározott kivétellel nem idegeníthető el, vagyonkezelői jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével nem terhelhető meg, biztosítékul nem adható, azon osztott tulajdon nem létesíthető;
 
-4. hasznosítás: a nemzeti vagyon bármely – a tulajdonjog átruházását nem eredményező – módon, jogcímen történő átadása, átengedése, a vagyonkezelésbe adást, valamint a haszonélvezeti jog alapítását ide nem értve;
+4. hasznosítás: a tulajdonosi joggyakorló vagy a nemzeti vagyon használója által a nemzeti vagyon birtoklásának, használatának, hasznok szedése jogának bármely – a tulajdonjog átruházását nem eredményező – jogcímen történő átengedése, ide nem értve a vagyonkezelésbe adást, valamint a haszonélvezeti jog alapítását;
 
 5. kincstári vagyon: a kizárólagos állami tulajdonba tartozó vagyon, valamint a nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonba tartozó, továbbá a korlátozottan forgalomképes állami vagyon;
 
@@ -56,7 +58,7 @@ a) jogosult e jogi személy vezető tisztségviselői vagy felügyelőbizottság
 
 b) a jogi személy más tagjaival vagy részvényeseivel kötött megállapodás alapján egyedül rendelkezik a szavazatok több mint ötven százalékával;
 
-10. működtetés: a nemzeti vagyon birtoklása, használata, hasznai szedése, a nemzeti vagyon fenntartása, üzemeltetése, amely tevékenység – jogszabály vagy szerződés alapján – a nemzeti vagyon létrehozására, felújítására, fejlesztésére, a birtoklásának, használatának, hasznai szedése jogának továbbengedésére is kiterjedhet;
+10. működtetés: a nemzeti vagyon birtoklásából, használatából, hasznai szedéséből, a nemzeti vagyon fenntartásából és üzemeltetéséből álló tevékenységek együttese, amely – jogszabály vagy szerződés alapján – a nemzeti vagyon felújítására, fejlesztésére, a birtoklásának, használatának, hasznai szedése jogának továbbengedésére is kiterjedhet;
 
 11. nemzeti vagyon használója: azon természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely állami vagyon tekintetében törvény vagy szerződés alapján, a helyi önkormányzat vagyona tekintetében törvény, a helyi önkormányzat rendelete vagy szerződés alapján bármely jogcímen nemzeti vagyont birtokol, használ, szedi annak hasznait, kivéve a tulajdonosi joggyakorló;
 
@@ -106,6 +108,8 @@ be) a bd) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló ga
 
 c) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti egyház, belső egyházi jogi személy és egyházi intézmény a tevékenysége ellátásához szükséges nemzeti vagyon tekintetében.
 
-(2) Az (1) bekezdés 1. pont b) alpont ba) és bc)–bd) alpontjában, valamint c) alpont ca) és cb) alpontjában foglaltakról cégszerűen aláírt okiratban kell nyilatkozni. A valótlan tartalmú nyilatkozat alapján kötött szerződés semmis.
+(2) Az (1) bekezdés 1. pont b) és c) alpontjában foglalt feltételeknek való megfelelésről a szerződő félnek cégszerűen aláírt módon nyilatkoznia kell. A valótlan tartalmú nyilatkozat alapján kötött szerződés semmis.
 
 (3) Az (1) bekezdés 9. pontja szerinti meghatározó befolyás akkor is fennáll, ha a befolyással rendelkező számára az (1) bekezdés 9. pont a) vagy b) alpontja szerinti jogosultságok közvetett módon biztosítottak. A befolyással rendelkezőnek egy jogi személyben közvetetten fennálló meghatározó befolyása megállapítása során a jogi személyben szavazati joggal rendelkező más jogi személyt (a továbbiakban: köztes vállalkozás) megillető szavazatokat meg kell szorozni a befolyással rendelkezőnek a köztes vállalkozásban fennálló szavazatával. Ha a köztes vállalkozásban fennálló szavazatok mértéke az 50%-ot meghaladja, akkor azt egy egészként kell figyelembe venni.
+
+(4) E törvény alkalmazásában 100%-os állami vagy önkormányzati tulajdonban álló gazdálkodó szervezetnek, illetve ezen gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezetnek minősül az a gazdasági társaság is, amelyben az állam, a helyi önkormányzat vagy ezek 100%-os tulajdonában álló gazdálkodó szervezet mellett kizárólag maga a gazdasági társaság rendelkezik – a gazdasági társaságokról szóló 2006. évi IV. törvény 135. § (1) bekezdése és 223. § (1) bekezdése szerinti – üzletrésszel vagy részvénnyel.

@@ -8,7 +8,7 @@ b) a bányászati kutatás és kitermelés, valamint az ezekkel összefüggő b�
 
 c) a hasadó és sugárzó anyagok előállítása és forgalmazása,
 
-d) a csatornák, valamint a regionális közműrendszerek létrehozása, működtetése,
+d) a csatornák, az állami tulajdonban álló víziközművek, valamint a regionális közműrendszerek létrehozása és működtetése,
 
 e) a szerencsejátékok szervezésére és működtetésére irányuló tevékenység,
 
@@ -22,7 +22,7 @@ i) az országos közutak és műtárgyaik, országos törzshálózati vasúti p�
 
 j) állami tulajdont képező terek, parkok felszíne alatt építmény létrehozása és működtetése,
 
-k) az a)–j) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása, működtetése.
+k) az a)–j) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.
 
 (2) A helyi önkormányzat kizárólagos gazdasági tevékenységei a következők:
 
@@ -38,13 +38,13 @@ e) a törzsvagyon részét képező terek, parkok felszíne alatt építmény l�
 
 f) a helyi önkormányzat kizárólagos tulajdonában álló – külön törvény rendelkezése alapján részére átadott – vizek, közcélú vízi létesítmények működtetése.
 
-(3) Az állam és a helyi önkormányzat a kizárólagos gazdasági tevékenységei gyakorlásának időleges jogát a (4)–(12) bekezdésben meghatározottak kivételével kizárólag koncesszió útján, külön törvényben szabályozott módon engedheti át.
+(3) Az állam és a helyi önkormányzat a kizárólagos gazdasági tevékenysége gyakorlásának időleges jogát, a (4)–(12) bekezdésben meghatározottak kivételével kizárólag koncesszió útján, külön törvényben szabályozott módon engedheti át. A kizárólagos gazdasági tevékenységek közül az (1) bekezdés d), és h)–j) pontja esetén az állam, a (2) bekezdés a)–b), d)–e) pontja esetén a helyi önkormányzat a nemzeti vagyon létrehozását és működtetését vagy kizárólag annak működtetését engedheti át e törvény rendelkezései szerint. A koncesszióról szóló törvény szerinti koncessziós szerződés határozott időtartamra köthető, amelynek leghosszabb ideje harmincöt év. Az ágazati törvény megengedheti külön pályázat kiírása nélkül a koncessziós törvény szerinti koncessziós szerződés egy alkalommal – eredeti időtartamának legfeljebb felével – történő meghosszabbítását abban az esetben, ha a koncesszióba vevő és a koncessziós társaság valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette. A közbeszerzésekről szóló törvény szerinti építési, illetve szolgáltatási koncesszió a nemzeti vagyon tekintetében határozott időre, legfeljebb 35 évre adható.
 
 (4) Az állam kizárólagos tulajdonában álló Szent Korona és a hozzá tartozó jelvények használata másnak nem engedhető át. A Szent Korona és a hozzá tartozó jelvények őrzésére, szállítására, tárolására kizárólag az állam és költségvetési szerv jogosult külön jogszabályban rögzített feltételek szerint.
 
 (5) A 4. § (1) bekezdés c) pontja szerinti dolgok birtoklása, használata, hasznai szedésének joga kitermelésük nélkül, természetes előfordulási helyükön – a 6. § (2) bekezdésében meghatározott kivétellel – másnak nem engedhető át.
 
-(6) Az országos törzshálózati vasúti pályát és tartozékát magába foglaló pályahálózat, vagy olyan vasúti pályahálózat működtetését, amelynek országos törzshálózati vasúti pálya vagy annak tartozéka a része, kizárólag az állam vagy az a gazdasági társaság végezheti, amelynek egyedüli tagja (részvényese) az állam.
+(6) Az országos törzshálózati vasúti pályát és tartozékát magában foglaló pályahálózat vagy olyan vasúti pályahálózat működtetését, amelynek országos törzshálózati vasúti pálya vagy annak tartozéka a része, kizárólag az állam vagy az a gazdasági társaság végezheti, amelynek egyedüli tagja vagy részvényese az állam, vagy amely az állam közvetlen vagy közvetett többségi tulajdonában áll.
 
 (7) A kizárólagos állami tulajdonban vagy a helyi önkormányzat forgalomképtelen törzsvagyonában álló vizek, csatornák, tározók tulajdonosaként az államot vagy a helyi önkormányzatot megillető halászati jog nem minősül az (1) és (2) bekezdés szerinti kizárólagos tevékenységnek.
 
@@ -56,7 +56,13 @@ a) olyan gazdálkodó szervezetet hoz létre, amelyben kizárólagos részesedé
 
 b) az állam és az önkormányzat együttesen olyan gazdálkodó szervezetet hoz létre, amelyben kizárólagos közös részesedéssel rendelkezik – ide nem értve a munkavállalói résztulajdont.
 
-(10) Az (1) bekezdés e) pontjában meghatározott tevékenység gyakorlásának joga koncessziós szerződés megkötése nélkül kizárólag a (12) bekezdésben felsorolt személyeknek, szerveknek, valamint a (12) bekezdés a) és b) pontjában felsorolt személyek közvetlen vagy közvetett többségi tulajdonában lévő gazdálkodó szervezet részére engedhető át és kizárólag általuk gyakorolható.
+(10) Az (1) bekezdés e) pontjában meghatározott tevékenység gyakorlásának joga koncessziós szerződés megkötése nélkül kizárólag a (12) bekezdésben felsorolt személyeknek, szerveknek, valamint
+
+a) az állam és a helyi önkormányzat, önkormányzati társulás,
+
+b) az állam vagy a helyi önkormányzat, önkormányzati társulás
+
+közvetlen vagy közvetett többségi tulajdonában lévő gazdálkodó szervezet részére engedhető át és kizárólag általuk gyakorolható.
 
 (11) Az (1) bekezdés k) pontjában és a (2) bekezdés f) pontjában meghatározott kizárólagos gazdasági tevékenység gyakorlásának joga – a (4) és (5) bekezdésben meghatározott korlátozásokra figyelemmel – törvényben szabályozott módon másnak átengedhető.
 

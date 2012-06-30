@@ -288,21 +288,29 @@
 
 ## I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó állami tulajdonban álló társasági részesedés
 
-## | Társaság neve | állami részesedés legalacsonyabb mértéke | Magyar Villamos Művek Zrt. | 75%+1 szavazat | Bakonyerdő Erdészeti és Faipari Zrt. | 100% | DALERD Délalföldi Erdészeti Zrt. | 100% | ÉSZAKERDŐ Erdőgazdasági Zrt. | 100% | Gemenci Erdő- és Vadgazdaság Zrt. | 100% | GYULAJ Erdészeti és Vadászati Zrt. | 100% | Ipoly Erdő Zrt. | 100% | Kisalföldi Erdőgazdasági Zrt. | 100% | KEFAG Kiskunsági Erdészeti és Faipari Zrt. | 100% | EGERERDŐ Erdészeti Zrt. | 100% | Mecsekerdő Zrt. | 100% | NEFAG Nagykunsági Erdészeti és Faipari Zrt. | 100% | NYÍRERDŐ Nyírségi Erdészeti Zrt. | 100% | Pilisi Parkerdő Zrt. | 100% | SEFAG Erdészeti és Faipari Zrt. | 100% | Szombathelyi Erdészeti Zrt. | 100% | TAEG Tanulmányi Erdőgazdaság Zrt. | 100% | VADEX Mezőföldi Erdő- és Vadgazdálkodási Zrt. | 100% | Vértesi Erdészeti és Faipari Zrt. | 100% | Zalaerdő Erdészeti Zrt. | 100% | HM Budapesti Erdőgazdaság Zrt. | 100% | HM Kaszó Erdőgazdaság Zrt. | 100% | HM VERGA Veszprémi Erdőgazdaság Zrt. | 100% | HM Armcom Zrt. | 100% | HM Currus Zrt. | 100% | HM Arzenál Zrt. | 100% | Magyar Export-Import Bank Zrt. | 100% | Magyar Exporthitel Biztosító Zrt. | 100% | Magyar Posta Zrt. | 75%+1 szavazat | Magyar Államvasutak Zrt. | 100% | Győr-Sopron-Ebenfurti Vasút Zrt. | 66,5% | HungaroControl Magyar Légiforgalmi Szolgálat Zrt. | 100% | ExVÁ Robbanásbiztos Berendezések Vizsgáló Állomása Kft. | 100% | Magyar Fejlesztési Bank Zrt. | 100% | Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Kft. | 100% | HM Elektronikai, Logisztikai és Vagyonkezelő Zrt. | 100% | Államadósság Kezelő Központ Zrt. | 100% | Garantiqa Hitelgarancia Zrt. | 50%+1 szavazat | Kisvállalkozás-fejlesztő Pénzügyi Zrt. | 50%+1 szavazat | Regionális Fejlesztési Holding Zrt. | 100% | Nemzeti Infokommunikációs Szolgáltató Zrt. | 100% | Tiszavíz Vízerőmű Energetikai Kft. | 100% | Concordia Közraktár Kereskedelmi Zrt. | 100% | Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft. | 100% | Szerencsejáték Zrt. | 100% | Bábolna Nemzeti Ménesbirtok Kft. | 100% | Mezőhegyesi Állami Ménes Lótenyésztő- és Értékesítő Kft. | 100% | Dunamenti Regionális Vízmű Zrt. | 75%+1 szavazat | Dunántúli Regionális Vízmű Zrt. | 75%+1 szavazat | Észak-dunántúli Regionális Vízmű Zrt. | 75%+l szavazat | Észak-magyarországi Regionális Vízművek Zrt. | 75%+1 szavazat | Tiszamenti Regionális Vízművek Zrt. | 75%+1 szavazat | Herendi Porcelánmanufaktúra Zrt. | 25%+1 szavazat | Országos Hulladékgazdasági Ügynökség Nonprofit Kft. | 100 % | Kincsem Nemzeti Lóverseny és Lovas Stratégiai Kft. | 100 % | Magyar Lóversenyfogadást Szervező Kft. | 100 % | Diákhitel Központ Zrt. | 100 % | Magyar Nemzeti Vagyonkezelő Zrt | 100% | Állami Autópálya Kezelő Zrt. | 100% | Nemzeti Infrastruktúra Fejlesztő Zrt. | 100% | Magyar Közút Nonprofit Zrt. | 100% | Magyar Turizmus Zrt. | 100% | Vasúti Pályakapacitás-elosztó Kft. | 100% | TIG Tartalékgazdálkodási Nonprofit Kft. | 100% | Hollóházi Hungarikum Nonprofit Kft. | 50%+1 szavazat
+## | Társaság neve | állami részesedés legalacsonyabb mértéke | Magyar Villamos Művek Zrt. | 75%+1 szavazat | Bakonyerdő Erdészeti és Faipari Zrt. | 100% | DALERD Délalföldi Erdészeti Zrt. | 100% | ÉSZAKERDŐ Erdőgazdasági Zrt. | 100% | Gemenci Erdő- és Vadgazdaság Zrt. | 100% | GYULAJ Erdészeti és Vadászati Zrt. | 100% | Ipoly Erdő Zrt. | 100% | Kisalföldi Erdőgazdasági Zrt. | 100% | KEFAG Kiskunsági Erdészeti és Faipari Zrt. | 100% | EGERERDŐ Erdészeti Zrt. | 100% | Mecsekerdő Zrt. | 100% | NEFAG Nagykunsági Erdészeti és Faipari Zrt. | 100% | NYÍRERDŐ Nyírségi Erdészeti Zrt. | 100% | Pilisi Parkerdő Zrt. | 100% | SEFAG Erdészeti és Faipari Zrt. | 100% | Szombathelyi Erdészeti Zrt. | 100% | TAEG Tanulmányi Erdőgazdaság Zrt. | 100% | VADEX Mezőföldi Erdő- és Vadgazdálkodási Zrt. | 100% | Vértesi Erdészeti és Faipari Zrt. | 100% | Zalaerdő Erdészeti Zrt. | 100% | HM Budapesti Erdőgazdaság Zrt. | 100% | HM Kaszó Erdőgazdaság Zrt. | 100% | HM VERGA Veszprémi Erdőgazdaság Zrt. | 100% | HM Armcom Zrt. | 100% | HM Currus Zrt. | 100% | HM Arzenál Zrt. | 100% | Magyar Export-Import Bank Zrt. | 100% | Magyar Exporthitel Biztosító Zrt. | 100% | Magyar Posta Zrt. | 75%+1 szavazat | Magyar Államvasutak Zrt. | 100% | Győr-Sopron-Ebenfurti Vasút Zrt. | 65,6% | HungaroControl Magyar Légiforgalmi Szolgálat Zrt. | 100% | ExVÁ Robbanásbiztos Berendezések Vizsgáló Állomása Kft. | 100% | Magyar Fejlesztési Bank Zrt. | 100% | Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Kft. | 100% | HM Elektronikai, Logisztikai és Vagyonkezelő Zrt. | 100% | Államadósság Kezelő Központ Zrt. | 100% | Garantiqa Hitelgarancia Zrt. | 50%+1 szavazat | Kisvállalkozás-fejlesztő Pénzügyi Zrt. | 50%+1 szavazat | Regionális Fejlesztési Holding Zrt. | 100% | Nemzeti Infokommunikációs Szolgáltató Zrt. | 100% | Tiszavíz Vízerőmű Energetikai Kft. | 100% | Concordia Közraktár Kereskedelmi Zrt. | 100% | Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft. | 100% | Szerencsejáték Zrt. | 100% | Bábolna Nemzeti Ménesbirtok Kft. | 100% | Mezőhegyesi Állami Ménes Lótenyésztő- és Értékesítő Kft. | 100% | Dunamenti Regionális Vízmű Zrt. | 75%+1 szavazat | Dunántúli Regionális Vízmű Zrt. | 75%+1 szavazat | Észak-dunántúli Regionális Vízmű Zrt. | 75%+l szavazat | Észak-magyarországi Regionális Vízművek Zrt. | 75%+1 szavazat | Tiszamenti Regionális Vízművek Zrt. | 75%+1 szavazat | Herendi Porcelánmanufaktúra Zrt. | 25%+1 szavazat | Országos Hulladékgazdasági Ügynökség Nonprofit Kft. | 100 % | Kincsem Nemzeti Lóverseny és Lovas Stratégiai Kft. | 100 % | Magyar Lóversenyfogadást Szervező Kft. | 100 % | Diákhitel Központ Zrt. | 100 % | Magyar Nemzeti Vagyonkezelő Zrt | 100% | Állami Autópálya Kezelő Zrt. | 100% | Nemzeti Infrastruktúra Fejlesztő Zrt. | 100% | Magyar Közút Nonprofit Zrt. | 100% | Magyar Turizmus Zrt. | 100% | Vasúti Pályakapacitás-elosztó Kft. | 100% | TIG Tartalékgazdálkodási Nonprofit Kft. | 100% | Hollóházi Hungarikum Nonprofit Kft. | 50%+1 szavazat
 
 ## II. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó vagyonelemek
 
-## a) Az I. pontban felsorolt társasági részesedésen kívül a többségi állami tulajdonban álló, a közbeszerzésekről szóló törvényben meghatározott közszolgáltatási tevékenységet ellátó gazdasági társaságban fennálló társasági részesedés.
+## a) A 100%-ban az állam tulajdonában álló
 
-## b) Többségi önkormányzati tulajdonban álló, közszolgáltatási tevékenységet, valamint parkolási szolgáltatást ellátó gazdasági társaságban fennálló társasági részesedés.
+## aa) védelmi és közjóléti elsődleges rendeltetésű erdő,
 
-## c) A 100%-ban az állam tulajdonában álló
+## ab) a gazdasági elsődleges rendeltetésű természetes erdő, természetszerű erdő és származék erdő természetességi állapotú 5 hektárnál nagyobb, természetben összefüggő erdő.
 
-## ca) védelmi és közjóléti elsődleges rendeltetésű erdő,
+## b) A 100%-os állami tulajdonban lévő olyan génmegőrző gyűjtemény, amely a hazai növényi génbank-hálózat, illetve a hazai állati génbank-hálózat részét képezi.
 
-## cb) a gazdasági elsődleges rendeltetésű természetes erdő, természetszerű erdő és származék erdő természetességi állapotú 5 hektárnál nagyobb, természetben összefüggő erdő.
+## c) Az egyes állami tulajdonban lévő vagyontárgyak önkormányzatok tulajdonba adásáról szóló törvényben meghatározott levéltári anyag.
 
-## d) A 100%-os állami tulajdonban lévő olyan génmegőrző gyűjtemény, amely a hazai növényi génbank-hálózat, illetve a hazai állati génbank-hálózat részét képezi.
+## d) Budapest, V. kerület Kossuth Lajos tér, 24893 helyrajzi számú ingatlanon álló szobrok:
+
+## da) II. Rákóczi Ferenc emlékmű,
+
+## db) Kossuth-emlékmű,
+
+## dc) A forradalom lángja emlékmű,
+
+## dd) A Dunánál – József Attila portrészobor.
 
 ## III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek
 
@@ -323,16 +331,6 @@
 ## V. kerület
 
 ## | 24. | Ferenciek tere 6. | Egyetemi Könyvtár | 25. | József A. u. 6. (Nádor u. 2.) | Pollack Mihály háza | 26. | Károlyi M. u. 16. | Károlyi-palota és Károlyi-kert | 27. | Kossuth L. tér 11. | Földművelésügyi Minisztérium | 28. | Kossuth L. tér 12. | kúria | 29. | Március 15. tér | Contra Aquincum romjai | 30. | Vigadó tér 2. | Pesti Vigadó
-
-## 31. Kossuth Lajos tér, 24893 helyrajzi számú ingatlanon álló szobrok:
-
-## – II. Rákóczi Ferenc emlékmû
-
-## – Kossuth-emlékmû
-
-## – A forradalom lángja emlékmű
-
-## – A Dunánál (József Attila) portrészobor
 
 ## VI. kerület
 
@@ -397,27 +395,3 @@
 ## 11. KOMÁROM-ESZTERGOM MEGYE
 
 ## | 146. | BAJNA Május 1. tér | Sándor-Metternich-kastélyegyüttes és parkja: kastély park, út uradalmi istálló | 147. | DÖMÖS Felsőfalu dűlő | prépostsági romok | 148. | ESZTERGOM Szent István tér 1. | vár, a királyi, majd érseki palota maradványainak együttese | 149. | ESZTERGOM Pilisszentlélek | pálos kolostorrom | 150. | KISBÉR Szabadság park 6. | volt Magyar Királyi Lovarda | 151. | KOMÁROM, Erődrendszer műemléki együttese | | | Igmándi erőd | | | Monostori erőd | | | Csillagerőd | 152. | OROSZLÁNY, Majk-puszta: kamalduli remeteség műemléki együttese | | | kastély | | | toronyrom | | | remeteházak | | | központi udvar | | | jégverem, erdő | | | gazdasági épület | | | kápolna és erdő | | | gyep | | | erdő | | | étterem (gyep) | | | gyep | | | tó, mocsár | | | udvar | 153. | OROSZLÁNY, Vértesszentkereszt | Bencés templom- és kolostorrom | 154. | TATA Hősök tere 7., 8., 9/A | Esterházy-kastély és melléképületei, park | 155. | TATA Hattyúliget u. 40. Néppark | Esterházy kerti lak, műrom és mecset | 156. | TATA Váralja u. 1-3. | a vár együttese
-
-## 12. NÓGRÁD MEGYE
-
-## | 157. | BALASSAGYARMAT Madách u. 2. | megyei börtön | 158. | DRÉGELYPALÁNK | várrom | 159. | HOLLÓKŐ Kossuth u. 82. | Palóc Múzeum | 160. | HOLLÓKŐ | várrom | 161. | MÁTRAVEREBÉLY Szentkút (Meszes tető) | remetebarlang | 162. | SALGÓTARJÁN | Salgó várrom | 163. | SZÉCSÉNY Ady E. u. 7. | Forgách-kastély, park és várkert
-
-## 13. PEST MEGYE
-
-## | 164. | ABONY Tószegi u. 51. | Vigyázó-kúria | 165. | ACSA Petőfi u. | Prónay-kastély és parkja | 166. | ASZÓD Szabadság tér 7. | újabb Podmaniczky-kastély és parkja | 167. | DABAS-GYÓN Kossuth u. 7. | Halász Móric-kúria és parkja | 168. | ÉRD Mecset u. | minaret | 169. | FÓT Vörösmarty tér 2. | Károlyi-kastély együttese és parkja | 170. | GÖDÖLLŐ Szabadság tér 1. | Grassalkovich-kastély együttese és parkja | 171. | GÖDÖLLŐ | vasútállomás királyi váróterme | 172. | GÖDÖLLŐ Babatipuszta | istállókastély | 173. | GYÖMRŐ Teleki u. 118. | Teleki-kastély és parkja | 174. | NAGYKŐRÖS Kecskeméti u. 27/B | Halász-Tanárky-kúria | 175. | PÉCEL Kálvin tér 1. | Ráday-kastély és parkja, márványistálló | 176. | PILIS Kossuth u. 31. | Beleznay-Nyáry-kastély és parkja | 177. | PILISSZENTKERESZT Romterület | ciszterci apátság romjai | 178. | POMÁZ Templom tér 3. | Teleki-kastély | 179. | RÁCKEVE Kossuth u. 95. | Savoyai-kastély és parkja | 180. | VÁC Köztársaság u. | diadalív | 181. | VÁCHARTYÁN Veres Pálné u. 5. | Rudnay-kastély | 182. | VISEGRÁD Fő u. 25-35. | a királyi palota teljes romterülete | 183. | VISEGRÁD Fő u. 37-41. | ferences kolostor romjai és a kapcsolódó épületek | 184. | VISEGRÁD Fő utca Salamon-torony u. Várhegy | erődrendszer, vízibástya, kapu és várfalak, Alsóvár (Salamon-torony) Fellegvár és a csatlakozó várfalak | 185. | VISEGRÁD Sibrik-domb | római castrum és X-XI. századi várispánság romjai | 186. | VISEGRÁD Sibrik-domb | esperesi templom romjai | 187. | ZSÁMBÉK Régi templom u. | premontrei prépostság romjai
-
-## 14. SOMOGY MEGYE
-
-## | 188. | BALATONSZENTGYÖRGY Csillagvár u. 68. | tájház | 189. | BALATONSZENTGYÖRGY Irtási dűlő | csillagvár | 190. | ISTVÁNDI Kossuth u. 59. | tájház | 191. | SOMOGYVÁR Várhegy | Szent Egyed bazilika és bencés apátság romjai | 192. | SZENNA Árpád u. 38. | tájház | 193. | ZAMÁRDI Szántódpuszta | majorsági épületegyüttes | 194. | ZAMÁRDI Fő u. 83. | tájház
-
-## 15. SZABOLCS-SZATMÁR-BEREG MEGYE
-
-## | 195. | NYÍRBÁTOR, a Báthori-várkastély területe | | Édesanyák útja | | | Vár u. 1. | Báthori-várkastély, magtár | 196. | SZABOLCS Földvár u. | földvár | 197. | TARPA Árpád u. | szárazmalom | 198. | TUZSÉR Ady E. u. 2. | Lónyay-kastély és parkja | 199. | TÚRISTVÁNDI Zrínyi M. u. | vízimalom | 200. | VAJA Damjanich u. 79. | Vay-kastély és parkja
-
-## 16. TOLNA MEGYE
-
-## | 201. | LENGYEL | Apponyi-kastély és parkja | 202. | OZORA | Ozorai Pipo vára | 203. | DUNAFÖLDVÁR Rátkay köz 2. | török torony | 204. | SIMONTORNYA Vár tér 10. | vár | 205. | KÖLESD-FELSŐHÍDVÉGPUSZTA | Hiemer-Jeszenszky-kastély
-
-## 17. VAS MEGYE
-
-## | 206. | BOZSOK Rákóczi u. 1. | Sibrik-kastélyegyüttes és parkja | 207. | BOZSOK Rákóczi u. 101. | Batthyány-várkastély romja és kertje | 208. | CÁK Gesztenyés 3., 4., 5., 6., 28, 29., 30., 31., 32. | gesztenyés pincesor | 209. | CSÁKÁNYDOROSZLÓ Fő u. 9-13. | Batthyány-kastélyegyüttes és parkja | 210. | HEGYHÁTSZENTPÉTER Béke u. 86. és 88. | tájház | 211. | JÁNOSHÁZA Vár u. 50-54. | Erdődy-Choron-várkastély és parkja | 212. | KÖRMEND Gr. Batthyány L. u. 1. | Batthyány-Strattmann-várkastély teljes együttese: főépület, melléképületek, kastélypark és építményei | 213. | KŐSZEG Rajnis J. u. 9. | Jurisics-vár teljes együttese | 214. | SÁRVÁR Várkerület 1. | Nádasdy-várkastély és kertje | 215. | SZALAFŐ Pityerszer 1., 2., 3. és 9/A. | népi műemléki együttes | 216. | VASSURÁNY Vasút u. 2. | Schilson-kastély és parkja | 217. | VASSZÉCSENY Munkás u. 3. | Ó-Ebergényi-kastély és parkja
