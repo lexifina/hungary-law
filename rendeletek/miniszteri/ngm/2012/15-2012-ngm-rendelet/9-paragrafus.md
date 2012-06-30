@@ -1,3 +1,3 @@
-## 8. §[^2]
+## 8. §[^6]
 
-[^2]: A 8. § a 16. § (2) bekezdése alapján 2012. július 29-én lép hatályba.
+[^6]: A 8. § a 16. § (2) bekezdése alapján 2012. július 29-én lép hatályba.
