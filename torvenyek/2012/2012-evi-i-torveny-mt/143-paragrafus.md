@@ -1,4 +1,4 @@
-143. § (1) A munkavállalónak – munkaviszonyra vonatkozó szabály vagy a felek megállapodása alapján – ötven százalék bérpótlék vagy szabadidő jár
+143. § (1) A munkavállalónak ötven százalék bérpótlék vagy – munkaviszonyra vonatkozó szabály vagy a felek megállapodása alapján – szabadidő jár
 
 a) a munkaidő-beosztás szerinti napi munkaidőt meghaladóan elrendelt rendkívüli munkaidőben,
 

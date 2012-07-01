@@ -10,17 +10,19 @@
 
 (5) Az üzemi megállapodás
 
-a) a 236. § (4) bekezdésében,
+a) a 233. §-ban,
 
-b) a 238–249. §-ban,
+b) a 236. § (4) bekezdésében,
 
-c) a 252–255. §-ban,
+c) a 238–249. §-ban,
 
-d) a 259. §-ban,
+d) a 252–255. §-ban,
 
-e) a 261. §-ban,
+e) a 259. §-ban,
 
-f) a 266–268. §-ban
+f) a 261. §-ban,
+
+g) a 266–268. §-ban
 
 foglaltaktól nem térhet el.
 

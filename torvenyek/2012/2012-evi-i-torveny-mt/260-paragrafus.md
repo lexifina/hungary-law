@@ -2,7 +2,7 @@
 
 (2) A munkaidő-kedvezmény tartamára távolléti díj jár.
 
-(3) Az üzemi tanács egyetértése szükséges az üzemi tanács elnöke munkaviszonyának a munkáltató által felmondással történő megszüntetéséhez vagy a munkáltató 53. § szerinti intézkedéséhez.
+(3) Az üzemi tanács egyetértése szükséges az üzemi tanács elnöke munkaviszonyának a munkáltató által felmondással történő megszüntetéséhez vagy a munkáltató üzemi tanács elnökét érintő 53. § szerinti intézkedéséhez. A védelem az üzemi tanács elnökét megbízatásának idejére és annak megszűnését követő hat hónapra illeti meg, feltéve, ha a tisztségét legalább tizenkét hónapon át betöltötte.
 
 (4) Az üzemi tanács a (3) bekezdésben foglaltak szerinti munkáltatói intézkedéssel kapcsolatos álláspontját a munkáltató írásbeli tájékoztatásának átvételétől számított nyolc napon belül írásban közli. Ha a tervezett intézkedéssel az üzemi tanács nem ért egyet, a tájékoztatásnak az egyet nem értés indokait tartalmaznia kell. Ha az üzemi tanács véleményét a fenti határidőn belül nem közli a munkáltatóval, úgy kell tekinteni, hogy a tervezett intézkedéssel egyetért.
 

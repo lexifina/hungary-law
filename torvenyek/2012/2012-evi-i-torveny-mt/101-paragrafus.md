@@ -6,7 +6,7 @@ a) a rendeltetése folytán e napon is működő munkáltatónál vagy munkakör
 
 b) az idényjellegű,
 
-c) a megszakítás nélküli, valamint
+c) a megszakítás nélküli,
 
 d) a több műszakos tevékenység keretében,
 
@@ -16,7 +16,9 @@ f) a kizárólag szombaton és vasárnap részmunkaidőben,
 
 g) társadalmi közszükségletet kielégítő, vagy külföldre történő szolgáltatás nyújtásához – a szolgáltatás jellegéből eredően – e napon szükséges munkavégzés esetén,
 
-h) külföldön történő munkavégzés során
+h) külföldön történő munkavégzés során, valamint
+
+i) a kereskedelemről szóló törvény hatálya alá tartozó, kereskedelmi tevékenységet, a kereskedelmet kiszolgáló szolgáltató, valamint kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytató munkáltatónál
 
 foglalkoztatott munkavállaló számára osztható be.
 

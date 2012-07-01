@@ -1,1 +1,1 @@
-206. § A XX. és XXI. fejezet rendelkezéseitől eltérni nem lehet.
+206. § A XIX–XXI. fejezet rendelkezéseitől eltérni nem lehet.

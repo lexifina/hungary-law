@@ -8,7 +8,7 @@
 
 a) a szabadság idejére eső bérfizetési napon esedékes, valamint
 
-b) az igénybe vett rendes szabadság idejére járó munkabért.
+b) az igénybe vett szabadság idejére járó munkabért.
 
 (5) A munkáltató a munkabért köteles a munkavállaló által megadott címre elküldeni, ha a munkaviszony a bérfizetési nap előtt megszűnt. Az elküldés költsége a munkáltatót terheli.
 

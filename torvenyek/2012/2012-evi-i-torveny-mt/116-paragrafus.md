@@ -1,1 +1,1 @@
-116. § Az alapszabadság mértéke húsz munkanap.
+### 116. §

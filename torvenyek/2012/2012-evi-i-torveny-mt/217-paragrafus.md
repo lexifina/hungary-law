@@ -1,6 +1,12 @@
 ## 95. A kölcsönbeadó és a kölcsönvevő közötti jogviszony
 
-217. § (1) A kölcsönbeadó és a kölcsönvevő közötti megállapodás tartalmazza a kölcsönzés lényeges feltételeit, a munkáltatói jogkör gyakorlása megosztását. A munkaviszony megszüntetésének jogát kizárólag a kölcsönbeadó gyakorolhatja. A megállapodást írásba kell foglalni.
+217. § (1) A kölcsönbeadó és a kölcsönvevő közötti megállapodás tartalmazza a kölcsönzés lényeges feltételeit, a munkáltatói jogkör gyakorlása megosztását. A munkaviszony megszüntetésének jogát kizárólag a kölcsönbeadó gyakorolhatja. A megállapodást írásba kell foglalni. Semmis a kölcsönbeadó és a kölcsönvevő között létrejött megállapodás, ha
+
+a) a kölcsönbeadó vagy a kölcsönvevő tulajdonosa – részben vagy egészben – azonos,
+
+b) a két munkáltató közül legalább az egyik valamely arányban tulajdonosa a másik munkáltatónak, vagy
+
+c) a két munkáltató egy harmadik szervezethez kötődő tulajdonjogi viszonya alapján áll kapcsolatban egymással.
 
 (2) A kölcsönbeadó és a kölcsönvevő megállapodhatnak, hogy a munkabéren kívüli juttatást a munkavállaló közvetlenül a kölcsönvevőtől kapja.
 

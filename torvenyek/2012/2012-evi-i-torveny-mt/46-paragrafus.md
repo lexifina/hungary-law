@@ -10,7 +10,7 @@ c) a munkabérről való elszámolás módjáról, a munkabérfizetés gyakoris�
 
 d) a munkakörbe tartozó feladatokról,
 
-e) a rendes szabadság mértékéről, számítási módjáról és kiadásának, valamint
+e) a szabadság mértékéről, számítási módjáról és kiadásának, valamint
 
 f) a munkáltatóra és a munkavállalóra irányadó felmondási idő megállapításának szabályairól, továbbá
 

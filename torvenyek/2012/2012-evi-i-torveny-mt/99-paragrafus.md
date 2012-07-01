@@ -2,24 +2,32 @@
 
 (2) A munkavállaló beosztás szerinti
 
-a) napi munkaideje legfeljebb tizenkét, készenléti jellegű munkakörben legfeljebb huszonnégy óra,
+a) napi munkaideje legfeljebb tizenkét óra,
 
-b) heti munkaideje legfeljebb negyvennyolc, készenléti jellegű munkakörben – a felek megállapodása alapján – legfeljebb hetvenkét óra
+b) heti munkaideje legfeljebb negyvennyolc óra
 
 lehet.
 
-(3) A munkavállaló beosztás szerinti napi vagy heti munkaideje a (2) bekezdésben meghatározott tartamot legfeljebb egy órával meghaladhatja, ha a téli időszámítás kezdete a munkaidő-beosztás szerinti munkaidőre esik.
+(3) A 92. § (2) bekezdése alapján foglalkoztatott munkavállaló esetén – a felek írásbeli megállapodása alapján – a munkavállaló beosztás szerinti
 
-(4) A munkavállaló beosztás szerinti
+a) napi munkaideje legfeljebb huszonnégy óra,
+
+b) heti munkaideje legfeljebb hetvenkét óra
+
+lehet. A megállapodást a munkavállaló a naptári hónap utolsó napjára, munkaidő-keret elrendelése esetén a munkaidő-keret utolsó napjára tizenöt napos határidővel felmondhatja.
+
+(4) A munkavállaló beosztás szerinti napi vagy heti munkaideje a (2)–(3) bekezdésben meghatározott tartamot legfeljebb egy órával meghaladhatja, ha a téli időszámítás kezdete a munkaidő-beosztás szerinti munkaidőre esik.
+
+(5) A munkavállaló beosztás szerinti
 
 a) napi munkaidejébe a 107. § a) pontban meghatározott,
 
-b) heti munkaidejébe a 107. § a) és d) pontban meghatározott
+b) heti munkaidejébe a 107. §-ban meghatározott
 
 rendkívüli munkaidő tartamát be kell számítani.
 
-(5) A munkavállaló beosztás szerinti napi munkaidejébe az ügyelet teljes tartamát be kell számítani, ha a munkavégzés tartama nem mérhető.
+(6) A munkavállaló beosztás szerinti napi munkaidejébe az ügyelet teljes tartamát be kell számítani, ha a munkavégzés tartama nem mérhető.
 
-(6) Egyenlőtlen munkaidő-beosztás alkalmazása esetén a (2) bekezdés b) pontban foglalt rendelkezést azzal az eltéréssel kell alkalmazni, hogy a beosztás szerinti heti munkaidő tartamát átlagban kell figyelembe venni.
+(7) Egyenlőtlen munkaidő-beosztás alkalmazása esetén a (2) bekezdés b) pontját és a (3) bekezdés b) pontját azzal az eltéréssel kell alkalmazni, hogy a beosztás szerinti heti munkaidő tartamát átlagban kell figyelembe venni.
 
-(7) A 102. § (5) bekezdése szerint meghatározott munkarendet alkalmazó munkáltatónál – munkaidőkeret hiányában – a szombaton történő munkavégzéssel érintett naptári héten a (2) bekezdés b) pont nem irányadó.
+(8) A 102. § (5) bekezdése szerint meghatározott munkarendet alkalmazó munkáltatónál – munkaidőkeret hiányában – a szombaton történő munkavégzéssel érintett naptári héten a (2) bekezdés b) pont és a (3) bekezdés b) pont nem irányadó.

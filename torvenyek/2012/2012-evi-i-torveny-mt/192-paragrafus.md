@@ -10,4 +10,4 @@
 
 (3) Ha a munkaviszony létesítéséhez hatósági engedély szükséges, a munkaviszony legfeljebb az engedélyben meghatározott tartamra létesíthető. Az engedély meghosszabbítása esetén az újabb határozott idejű munkaviszony tartama – a korábban létesített munkaviszony tartamával együtt – az öt évet meghaladhatja.
 
-(4) Határozott idejű munkaviszony azonos felek között történő hat hónapon belüli meghosszabbítására vagy a határozott idejű munkaviszony megszűnését követő hat hónapon belül újabb határozott idejű munkaviszony létesítésére a munkaszervezéstől független, objektív ok fennállása esetén kerülhet sor és nem sértheti a munkavállaló jogos érdekét.
+(4) A határozott idejű munkaviszony meghosszabbítása vagy a határozott idejű munkaviszony megszűnését követő hat hónapon belüli ismételt létesítése csak munkáltatói jogos érdek fennállása esetén lehetséges. A megállapodás nem irányulhat a munkavállaló jogos érdekének csorbítására.

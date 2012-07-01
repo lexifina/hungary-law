@@ -1,6 +1,12 @@
 ## 69. A kötelező legkisebb munkabér, a garantált bérminimum
 
-153. § (1) A kötelező legkisebb munkabér és a garantált bérminimum (a továbbiakban együtt: kötelező legkisebb munkabér) összegét és hatályát – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően – a Kormány állapítja meg.
+153. § (1) Felhatalmazást kap a Kormány, hogy
+
+a) a kötelező legkisebb munkabér és
+
+b) a garantált bérminimum
+
+összegét és hatályát – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően – rendeletben állapítsa meg.
 
 (2) A Kormány a munkavállalók egyes csoportjaira eltérő összegű kötelező legkisebb munkabért állapíthat meg.
 

@@ -2,7 +2,7 @@
 
 96. § (1) A munkaidő-beosztás szabályait (munkarend) a munkáltató állapítja meg.
 
-(2) Kötetlen a munkarend, ha a munkáltató a napi munkaidő legalább fele beosztásának jogát – a munkakör sajátos jellegére tekintettel – a munkavállaló számára írásban átengedi.
+(2) Kötetlen a munkarend, ha a munkáltató heti átlagban legalább a napi munkaidő fele beosztásának jogát – a munkakör sajátos jellegére, a munkavégzés önálló megszervezésére tekintettel – a munkavállaló számára írásban átengedi.
 
 (3) Kötetlen munkarend esetén
 

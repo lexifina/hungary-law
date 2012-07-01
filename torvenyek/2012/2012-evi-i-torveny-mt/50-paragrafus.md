@@ -18,4 +18,4 @@ nem térhet el.
 
 (3) Kollektív szerződés a 46–47. §-ban foglaltaktól csak a munkavállaló javára térhet el.
 
-(4) Kollektív szerződés legfeljebb hathavi próbaidőt állapíthat meg.
+(4) Kollektív szerződés rendelkezése alapján a próbaidő tartama legfeljebb hat hónap.

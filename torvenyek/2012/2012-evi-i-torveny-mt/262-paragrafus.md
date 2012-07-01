@@ -6,10 +6,10 @@
 
 (3) A munkáltató félévente tájékoztatja az üzemi tanácsot
 
-a) a gazdasági helyzetét érintő alapvető kérdésekről,
+a) a gazdasági helyzetét érintő kérdésekről,
 
 b) a munkabérek változásáról, a bérkifizetéssel összefüggő likviditásról, a foglalkoztatás jellemzőiről, a munkaidő felhasználásáról, a munkafeltételek jellemzőiről,
 
-c) a munkáltatónál távmunkát végző munkavállalók, valamint a munkaerő-kölcsönzés keretében foglalkoztatottak számáról és munkakörük megnevezéséről.
+c) a munkáltatónál foglalkoztatott munkavállalók számáról és munkakörük megnevezéséről.
 
 (4) Az üzemi tanács félévente tájékoztatja tevékenységéről a munkavállalókat.

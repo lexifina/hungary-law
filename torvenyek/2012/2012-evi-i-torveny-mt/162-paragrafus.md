@@ -1,1 +1,1 @@
-162. § A munkabérrel szemben beszámításnak nincs helye.
+162. § A levonásmentes munkabérrel szemben beszámításnak helye nincs.

@@ -10,20 +10,24 @@ d) az 59. §-ban,
 
 e) a 61. §-ban,
 
-f) a 101. §-ban,
+f) a 81. §-ban,
 
-g) a 122–124. §-ban,
+g) a 97. § (4) és (5) bekezdésében,
 
-h) a 192. § (4) bekezdésében, valamint
+h) a 101. §-ban,
 
-i) a 208–211. §-ban
+i) a 122–124. §-ban,
+
+j) a 126–133. §-ban,
+
+k) a 192. § (4) bekezdésében, valamint
+
+l) a 208–211. §-ban
 
 foglaltak nem alkalmazhatók.
 
-(2) Az alkalmi munkára irányuló munkaviszonyra – az (1) bekezdésben meghatározottakon túl – nem kell alkalmazni a 81. §-ban, a 97. § (4)–(5) bekezdésében és a 126–133. §-ban foglaltakat.
+(2) A munkaviszony megszűnésekor a 80. §-ban meghatározott igazolásokat nem kell kiadni.
 
-(3) Az alkalmi munkára irányuló munkaviszony megszűnésekor a munkáltató nem köteles a 80. §-ban meghatározott igazolásokat kiadni.
+(3) A napi munkaidő – munkaidőkeret vagy elszámolási időszak hiányában is – beosztható egyenlőtlenül.
 
-(4) Az alkalmi munkára irányuló munkaviszonyban a 97. § (3) bekezdésében foglaltaktól eltérően a munkáltató a munkaidőt munkaidő-keret vagy elszámolási időszak hiányában is egyenlőtlen munkaidő-beosztást alkalmazhat.
-
-(5) Nem kell alkalmazni a 134. §-ban és a 155. § (2) bekezdésében foglaltakat, ha a felek a minta-munkaszerződés alkalmazásával kötöttek alkalmi munkára irányuló munkaszerződést.
+(4) Nem kell alkalmazni a 134. §-ban és a 155. § (2) bekezdésében foglaltakat, ha a felek a minta-munkaszerződés alkalmazásával kötöttek egyszerűsített foglakoztatásra vagy alkalmi munkára irányuló munkaszerződést.

@@ -4,7 +4,7 @@
 
 a) a 63. § (1) bekezdésében,
 
-b) a 64–67. §-ban,
+b) a 64. §-ban,
 
 c) a 82. § (1) bekezdésében
 
@@ -14,13 +14,15 @@ foglaltaktól nem térhet el.
 
 a) a 63. § (2)–(3) bekezdésében,
 
-b) a 68. §-ban,
+b) a 65–68. §-ban,
 
 c) a 71–76. §-ban,
 
-d) a 81. §-ban,
+d) a 78. §-ban,
 
-e) a 83. §-ban
+e) a 81. §-ban,
+
+f) a 83. §-ban
 
 foglaltaktól csak a munkavállaló javára térhet el.
 

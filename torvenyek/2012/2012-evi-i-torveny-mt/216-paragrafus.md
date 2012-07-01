@@ -4,9 +4,7 @@ a) munkaviszonyra vonatkozó szabály által meghatározott esetben,
 
 b) sztrájkban részt vevő munkavállaló helyettesítésére,
 
-c) ha a kölcsönvevőnél a munkavállaló munkaviszonya a munkáltató működésével összefüggő okra alapozott felmondásával vagy a 79. § (1) bekezdés a) pontban foglaltak szerint legfeljebb hat hónapja szűnt meg,
-
-d) a 214. § (2) bekezdésében meghatározott tartamot meghaladóan.
+c) a 214. § (2) bekezdésében meghatározott tartamot meghaladóan.
 
 (2) A kölcsönvevő a munkavállalót más munkáltatónál történő munkavégzésre nem kötelezheti.
 

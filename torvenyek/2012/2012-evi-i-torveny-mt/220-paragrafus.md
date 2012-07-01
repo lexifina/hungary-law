@@ -2,7 +2,7 @@
 
 220. § (1) A 66. § (2) bekezdése alkalmazásában a kölcsönbeadó működésével összefüggő oknak minősül a kikölcsönzés megszűnése.
 
-(2) A felmondási idő szempontjából, ha a felek között a felmondás közlését megelőző két éven belül többször állt fenn határozott idejű munkaviszony, ezek tartamát össze kell számítani.
+(2) A felmondási idő tizenöt nap.
 
 (3) A kölcsönbeadó felmondása esetén – eltérő megállapodás hiányában – a felmondási idő tartama alatt a munkavállaló mentesül a munkavégzési kötelezettsége alól.
 

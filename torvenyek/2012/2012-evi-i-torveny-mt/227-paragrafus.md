@@ -4,7 +4,7 @@
 
 a) a 223. § (1) bekezdésében,
 
-b) a 224. §-ban,
+b) a 224. § (1)–(2) bekezdésében, (3) bekezdés a) és b) pontjában, (4)–(5) bekezdésében,
 
 c) a 225. § (1) bekezdésében,
 
@@ -24,7 +24,7 @@ foglaltaktól csak a munkavállalóra javára térhet el.
 
 a) a 115–133. §-ban,
 
-b) a 192. § (2) bekezdésében
+b) a 192. § (2) és (4) bekezdésében
 
 foglaltakat nem kell alkalmazni.
 

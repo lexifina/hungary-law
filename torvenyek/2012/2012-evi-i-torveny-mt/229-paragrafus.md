@@ -1,6 +1,6 @@
 ## 103. A tanulmányi szerződés
 
-229. § (1) A tanulmányi szerződésben a munkáltató vállalja, hogy a tanulmányok alatt támogatást nyújt, a munkavállaló pedig arra kötelezi magát, hogy a megállapodás szerinti tanulmányokat folytatja és a képzettség megszerzése után a támogatás mértékével arányos időn – de legfeljebb öt éven – keresztül munkaviszonyát felmondással nem szünteti meg.
+229. § (1) A tanulmányi szerződésben a munkáltató vállalja, hogy a tanulmányok alatt támogatást nyújt, a munkavállaló pedig arra kötelezi magát, hogy a megállapodás szerinti tanulmányokat folytatja és a képzettség megszerzése után a támogatás mértékével arányos időn – de legfeljebb öt éven – keresztül munkaviszonyát felmondással nem szünteti meg. A munkaviszonyban töltött idő számításánál – eltérő megállapodás hiányában – a 115. § (2) bekezdése megfelelően irányadó.
 
 (2) Nem köthető tanulmányi szerződés
 
