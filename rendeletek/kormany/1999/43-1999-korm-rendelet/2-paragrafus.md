@@ -6,7 +6,11 @@ a) egészségügyi szolgáltatás: az Eb. tv. 10–17. §-aiban meghatározott e
 
 b)[^3] szolgáltató: az egészségügyi szolgáltatás nyújtására jogosító működési engedéllyel rendelkező természetes, vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy ami a finanszírozóval kötött szerződés alapján az E. Alapból finanszírozott egészségügyi szolgáltatást nyújt;
 
-c)[^4] területi ellátási kötelezettség: a külön jogszabály szerint az önkormányzat kötelező feladatát képező egészségügyi alapellátás körébe tartozó (háziorvosi, házi gyermekorvosi, területi védőnői, fogászati ellátás) egészségügyi szolgáltatásoknak az a része, amelyet az önkormányzat, illetve saját intézménye vagy más szolgáltató útján biztosít;
+c)[^4] területi ellátási kötelezettség:
+
+ca) a külön jogszabály szerint az önkormányzat kötelező feladatát képező egészségügyi alapellátás körébe tartozó (háziorvosi, házi gyermekorvosi, területi védőnői, fogászati ellátás) egészségügyi szolgáltatásoknak az a része, amelyet az önkormányzat, illetve saját intézménye vagy más szolgáltató útján biztosít, valamint
+
+cb) a lekötött kapacitással rendelkező egészségügyi szolgáltatónak az a kötelezettsége, hogy a kapacitásai felhasználásával az egészségügyi államigazgatási szerv által vezetett nyilvántartásban meghatározott ellátási területen élő, a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára külön jogszabályban foglaltak szerinti járóbeteg-, illetve fekvőbeteg-szakellátásokat nyújt;
 
 d)[^5] finanszírozási elszámolás: az alapdíjnak, a fixdíjnak és a teljesítmény díjának a megállapítása és utalványozásra történő előkészítése;
 
@@ -40,7 +44,7 @@ r)[^18] rehabilitációs ellátási program szerinti nappali ellátás: rehabili
 
 [^2]: Az 1. § a 365/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § b) pontja a 293/2002. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^4]: A 2. § c) pontja a 264/2003. (XII. 24.) Korm. rendelet 27. § (6) bekezdése szerint módosított szöveg.
+[^4]: A 2. § c) pontja a 137/2012. (VI. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^5]: A 2. § d) pontja a 264/2003. (XII. 24.) Korm. rendelet 27. §-ának (4) bekezdése szerint módosított szöveg.
 [^6]: A központi költségvetés tartalékából a keresetek pótlólagos évközi emelése, az egyösszegű pótlólagos kereseti juttatás, az egyszeri keresetkiegészítés felhasználásának ellenőrzése, valamint a tárgyévi visszafizetéseknek az OEP által a központi költségvetés részére történő visszautalás tekintetében lásd a 299/2004. (X. 30.) Korm. rendelet 4. §-ának (5)–(8) bekezdését, mely e módosító rendelet 4. §-ának (2) bekezdése alapján 2004. november 2. napján lép hatályba.
 [^7]: A 2. § g) pontja a 318/2006. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

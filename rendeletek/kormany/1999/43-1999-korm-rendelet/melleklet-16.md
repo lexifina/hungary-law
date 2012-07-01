@@ -46,7 +46,7 @@
 
 ## szolgáltató
 
-16. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^473]
+16. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^487]
 
 ## Havi betegszállítási teljesítményjelentés adattartama
 
@@ -72,40 +72,4 @@ Betegszállítási jelentés
 
 10. Betegszállító jármű forgalmi rendszáma
 
-11. Esemény dátuma
-
-12. Betegfelvétel ideje
-
-13. Betegátadás ideje
-
-14. Km-óra állása beteg felvételekor
-
-15. Km-óra állása beteg átadásakor
-
-16. Hasznos km száma
-
-17. A kapcsolt betegszállításért járó többlet km
-
-18. Kíséret típusának jele
-
-19. Megrendelő orvos kódja
-
-20. Kísérő azonosítója, TAJ
-
-21. A szállítás indokául szolgáló BNO
-
-22. Betegfelvevő egészségügyi intézmény kódja
-
-23. Betegátadó egészségügyi intézmény kódja
-
-24. Betegfelvétel helye (közig. kódja)
-
-25. Betegátadás helye (közig. kódja)
-
-Dátum: ...... év ................ hó ..... nap
-
-.........................
-
-szolgáltató
-
-[^473]: A 16. számú melléklet a 283/2008. (XI. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 16. § (13) bekezdése alapján a rendelkezést a 2009. december havi teljesítmény elszámolásokra kell először alkalmazni.
+[^487]: A 16. számú melléklet a 283/2008. (XI. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 16. § (13) bekezdése alapján a rendelkezést a 2009. december havi teljesítmény elszámolásokra kell először alkalmazni.
