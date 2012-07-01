@@ -26,5 +26,8 @@ d) ha a munkavállaló 2011. október 31-ét követően létesített a munkálta
 
 (10)[^2] A (2) bekezdéstől eltérően a kölcsönzött munkavállaló munkabére elvárt mértékű emelésének kiszámításánál 2011. évi munkabéren a 2011. november 1. napja és 2011. december 31. napja közötti időszakban megállapított utolsó, rendszeres bérpótlékaival növelt személyi alapbérének vagy százszázalékos teljesítménybérének egész havi átlagát kell érteni.
 
+(11)[^3] A (6) bekezdésben foglaltakat nem kell alkalmazni, amennyiben a munkaidő mértékének megváltozása jogszabályi rendelkezés módosításán alapul.
+
 [^1]: A 2. § (7) bekezdése a 69/2012. (IV. 6.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (10) bekezdését a 69/2012. (IV. 6.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^3]: A 2. § (11) bekezdését a 135/2012. (VI. 28.) Korm. rendelet 19. § (1) bekezdése iktatta be.
