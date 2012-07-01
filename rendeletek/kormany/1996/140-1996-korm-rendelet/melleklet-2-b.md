@@ -46,29 +46,29 @@
 
 | 4. |  | illetményre jogosult | országos rendőrfőkapitány- helyettes |  |  |  |
 
-| 5. |  |  | parancsnok (KŐE országos rendőrfőkapitány- helyettes) |  |  |  |
+| 5. |  |  |  |  |  |  |
 
 | 6. |  | főosztályvezetői | kiemelt főtanácsadó |  |  |  |
 
-| 7. |  | illetményre jogosult | szolgálatvezető (személyügyi, ellenőrzési ORFK) |  |  |  |
+| 7. |  | illetményre jogosult | szolgálatvezető (humánigazgatási, ellenőrzési ORFK) |  |  |  |
 
 | 8. |  |  | hivatalvezető (ORFK) |  |  |  |
 
-| 9. |  |  | parancsnokhelyettes (KŐE) | ezredes | egyetem vagy főiskola |  |
+| 9. |  |  |  | ezredes | egyetem vagy főiskola |  |
 
 | 10. |  |  | főosztályvezető |  |  |  |
 
 | 11. |  |  | igazgató |  |  |  |
 
-| 12. |  |  | hivatalvezető (KŐE) |  |  |  |
+| 12. |  |  |  |  |  |  |
 
-| 13. |  |  | szolgálatvezető (személyügyi KŐE) |  |  |  |
+| 13. |  |  |  |  |  |  |
 
 | 14. |  | főosztályvezető- | igazgatóhelyettes | alezredes |  |  |
 
-| 15. |  | helyettesi illetményre jogosult | szolgálatvezető (ellenőrzési KŐE) |  |  |  |
+| 15. |  | helyettesi illetményre jogosult |  |  |  |  |
 
-| 16. |  |  | főosztályvezető- helyettes (KŐE) |  |  |  |
+| 16. |  |  | osztályt vezető főosztályvezető- helyettes |  |  |  |
 
 | 17. |  | osztályvezetői illetményre jogosult | osztályvezető |  |  |  |
 
@@ -82,27 +82,27 @@
 
 | 22. |  |  | rendészeti rendőrfőkapitány- helyettes (BRFK) gazdasági rendőrfőkapitány- helyettes (BRFK) |  |  |  |
 
-| 23. |  |  | igazgató (ORFK RSZKK, ORFK DOK) | ezredes | egyetem vagy főiskola |  |
+| 23. |  |  | igazgató (KR, ORFK RSZKK, ORFK DOK) | ezredes | egyetem vagy főiskola |  |
 
 | 24. |  | főosztályvezető- helyettesi illetményre jogosult | rendőrfőkapitány- helyettes |  |
 
-| 25. |  | parancsnokhelyettes (KR) |  |  |  |
+| 25. |  |  |  |  |  |
 
 | 26. |  |  | igazgatóhelyettes (BSZKI bűnügyi, NNI, RRI) |  |  |  |
 
 | 27. |  |  | főosztályvezető (NNI, KR, BRFK) |  |  |  |
 
-| 28. |  |  | hivatalvezető (BRFK) |  |  |  |
+| 28. |  |  | hivatalvezető (BRFK, KR) |  |  |  |
 
-| 29. |  |  | szolgálatparancsnok (KR tűzszerész) |  |  |  |
+| 29. |  |  | humánigazgatási szolgálatvezető (KR), ellenőrzési szolgálatvezető (KR) |  |  |  |
 
 | 30. |  |  | igazgató |  |  |  |
 
-| 31. |  |  | parancsnok (ÁFSZ, LRP) |  |  |  |
+| 31. |  |  | parancsnok (ÁFSZ, LRP, TŰSZ) |  |  |  |
 
 | 32. |  |  | zászlóaljparancsnok (BRFK) | alezredes |  |  |
 
-| 33. |  |  | igazgatóhelyettes (Központi GEI) |  |  |
+| 33. |  |  | igazgatóhelyettes (Központi GEI), gazdasági igazgatóhelyettes (KR) |  |  |
 
 | 34. |  |  | hivatalvezető |  |  |
 
@@ -136,8 +136,6 @@
 
 ## ORFK: Országos Rendőr-főkapitányság
 
-## KŐE: Köztársasági Őrezred
-
 ## NNI: Nemzeti Nyomozó Iroda
 
 ## RRI: Repülőtéri Rendőr Igazgatóság
@@ -157,6 +155,8 @@
 ## ORFK RSZKK: ORFK Rendészeti Szervek Kiképző Központja
 
 ## ORFK DOK: ORFK Dunakeszi Oktatási Központ
+
+## TŰSZ: Készenléti Rendőrség Tűzszerész Szolgálat
 
 ## Nemzeti Védelmi Szolgálat
 
@@ -404,6 +404,6 @@
 
 | Osztályvezetői illetményre jogosult | Osztályvezető | alezredes | egyetem vagy főiskola | szakirányú felsőfokú_ |
 
-2/B. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^106]
+2/B. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^112]
 
-[^106]: A 2/B. számú mellékletet a 115/2001. (VI. 29.) Korm. rendelet 4. §-ának (2) bekezdése iktatta be, szövege a 223/2011. (X. 21.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 43/2012. (III. 20.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^112]: A 2/B. számú mellékletet a 115/2001. (VI. 29.) Korm. rendelet 4. §-ának (2) bekezdése iktatta be, szövege a 223/2011. (X. 21.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 43/2012. (III. 20.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.

@@ -68,6 +68,6 @@
 
 | 8.Biológiai kóroki tényezők: | Olyan szolgálati tevékenység, mely biológiai kóroki tényezők jelenlétében történik (pl. fertőző betegek szállítása, vizsgálata, ápolása; bármely beteg váladékainak vétele, feldolgozása; tetem boncolása stb.). |
 
-2. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^104]
+2. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^110]
 
-[^104]: A 2. számú melléklet 2. és 3. oszlopa (HM és a HM irányítása alatt működő szervezetek; Magyar Honvédség) a 138/2000. (VIII. 9.) Korm. rendelet 1. §-ával, illetve melléklete szerinti 2. és 3. oszlopával megállapított szöveg. A 115/2001. (VI. 29.) Korm. rendelet 10. § (2) bekezdése alapján 2001. július 1-jétől a Hszt. XIX/A. fejezetének hatálya alá tartozó szervek hivatásos állománya tekintetében a 2. számú melléklet helyett a 2/A. és a 2/B. számú mellékletet kell alkalmazni.
+[^110]: A 2. számú melléklet 2. és 3. oszlopa (HM és a HM irányítása alatt működő szervezetek; Magyar Honvédség) a 138/2000. (VIII. 9.) Korm. rendelet 1. §-ával, illetve melléklete szerinti 2. és 3. oszlopával megállapított szöveg. A 115/2001. (VI. 29.) Korm. rendelet 10. § (2) bekezdése alapján 2001. július 1-jétől a Hszt. XIX/A. fejezetének hatálya alá tartozó szervek hivatásos állománya tekintetében a 2. számú melléklet helyett a 2/A. és a 2/B. számú mellékletet kell alkalmazni.

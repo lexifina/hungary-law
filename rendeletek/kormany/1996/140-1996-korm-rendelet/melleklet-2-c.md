@@ -134,6 +134,6 @@
 
 ## NVSZ: Nemzeti Védelmi Szolgálat
 
-2/C. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^107]
+2/C. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^113]
 
-[^107]: A 2/C. számú mellékletet a 273/2010. (XII. 9.) Korm. rendelet 81. § (12) bekezdése iktatta be, hatályon kívül helyezte a 269/2011. (XII. 20.) Korm. rendelet 21. §-a.
+[^113]: A 2/C. számú mellékletet a 273/2010. (XII. 9.) Korm. rendelet 81. § (12) bekezdése iktatta be, hatályon kívül helyezte a 269/2011. (XII. 20.) Korm. rendelet 21. §-a.
