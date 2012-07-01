@@ -1,4 +1,4 @@
-## 18. §[^1]
+## 18. § Az Eszr. 7. § (1) bekezdés cb) pontjában és a 8. § (1) bekezdés 4.1. pontjában a „kormányrendeletben” szövegrész helyébe az „NMHH rendeletben”szöveg lép.
 
 1. melléklet a 13/2011. (XII. 27.) NMHH rendelethez
 
@@ -71,5 +71,3 @@ Kiadás helye, kelte:
 ...............................................
 
 Cégszerű aláírás
-
-[^1]: A 18. § a 16. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
