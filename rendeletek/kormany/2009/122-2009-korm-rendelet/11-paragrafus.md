@@ -1,4 +1,6 @@
-11. §[^29] (1) Az egészségügyi szolgáltatók az általuk a szakma gyakorlására alkalmasnak ítélt jelölttel az adott évben megkezdődő, a szakképzési időszak alatti alkalmazásukra irányuló előszerződés vagy már fennálló foglalkoztatásra irányuló jogviszony alapján, az adott évre meghirdetett rezidensi keretszámok erejéig az év során folyamatosan igényelhetik az 5. § (1) bekezdése szerinti támogatást.
+## szakon végzettek számára kiírható állások keretszámai.
+
+11. §[^26] (1) Az egészségügyi szolgáltatók az általuk a szakma gyakorlására alkalmasnak ítélt jelölttel az adott évben megkezdődő, a szakképzési időszak alatti alkalmazásukra irányuló előszerződés vagy már fennálló foglalkoztatásra irányuló jogviszony alapján, az adott évre meghirdetett rezidensi keretszámok erejéig az év során folyamatosan igényelhetik az 5. § (1) bekezdése szerinti támogatást.
 
 (2) A támogatás-igénylési nyilatkozat tartalmazza
 
@@ -40,4 +42,4 @@ c) az egészségügyi szolgáltatónál a támogatott jelölt alkalmazásával v
 
 (7) A 22. § szerinti szerv folyamatosan, egyetemi régiónként hozzáférhetővé teszi honlapján az adott évben még betölthető rezidensi keretszámokat.
 
-[^29]: A 11. § a 72/2011. (IV. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^26]: A 11. § a 72/2011. (IV. 29.) Korm. rendelet 9. §-ával megállapított szöveg.

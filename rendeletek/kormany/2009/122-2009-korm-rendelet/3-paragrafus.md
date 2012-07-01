@@ -4,11 +4,11 @@ a)[^9] az egészségügyi szolgáltató által – az 5. §-ban foglaltak szerin
 
 b) a 6. §-ban foglaltak szerint pályázat nélkül, központilag odaítélt támogatási keret alapján nyújt támogatást.
 
-(2)[^10] Az e rendeletben meghatározott támogatások a munkáltató által fizetendő járulékokkal együtt kerülnek kifizetésre.
+(2)[^10] A 4. § (1) bekezdés a) pontja szerinti, a képzést irányító és végző személyek díjazása címén, valamint az 5. § (2) és (3) bekezdése szerint nyújtott támogatások a számított szociális hozzájárulási adóval és munkáltatói járulékkal együtt kerülnek kifizetésre.
 
 (3)[^11] Az (1) bekezdés szerinti támogatások folyósításának feltétele, hogy a jelölt szakképzésének teljesítéséről a munkáltató és a felsőoktatási intézmény havonta elektronikus úton tájékoztassa a 22. § szerinti szervet.
 
 [^8]: A 3. § (1) bekezdés nyitó szövegrésze a 72/2011. (IV. 29.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
 [^9]: A 3. § (1) bekezdés a) pontja a 72/2011. (IV. 29.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
-[^10]: A 3. § (2) bekezdése a 72/2011. (IV. 29.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^10]: A 3. § (2) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 46. §-ával megállapított szöveg.
 [^11]: A 3. § (3) bekezdését a 72/2011. (IV. 29.) Korm. rendelet 3. §-a iktatta be.

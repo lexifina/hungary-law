@@ -1,6 +1,6 @@
-## 9. §[^27]
+## 9. §[^23]
 
-10. §[^28] (1) Az Egészségügyi Szakképzési és Továbbképzési Tanács Egészségügyi Felsőfokú Szakirányú Szakképzési Bizottsága (a továbbiakban: Bizottság)
+10. §[^24] (1) Az Egészségügyi Szakképzési és Továbbképzési Tanács Egészségügyi Felsőfokú Szakirányú Szakképzési Bizottsága (a továbbiakban: Bizottság)
 
 a) a pályakövetési rendszer tapasztalatai,
 
@@ -14,7 +14,16 @@ minden év október 30-áig javaslatot tesz a miniszternek az egyes megyék vona
 
 (2) A miniszter minden év december 15-éig közzéteszi az (1) bekezdésben meghatározott, a következő évre vonatkozó keretszámokat és megyénként a hiányszakmák körét.
 
-(3) A rezidensi keretszámok esetében külön kerülnek meghatározásra az általános orvos szakon végzettek, valamint a fogorvos, gyógyszerész és egészségpszichológia szakon végzettek számára kiírható állások keretszámai.
+(3)[^25] A rezidensi keretszámok esetében külön kerülnek meghatározásra
 
-[^27]: A 9. §-t a 72/2011. (IV. 29.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.
-[^28]: A 10. § a 72/2011. (IV. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+a) az általános orvos,
+
+b) a fogorvos,
+
+c) a gyógyszerész és
+
+d) a pszichológia
+
+[^23]: A 9. §-t a 72/2011. (IV. 29.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.
+[^24]: A 10. § a 72/2011. (IV. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^25]: A 10. § (3) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 50. §-ával megállapított szöveg.
