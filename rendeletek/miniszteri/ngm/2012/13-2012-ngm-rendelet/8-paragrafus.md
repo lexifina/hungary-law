@@ -1,1 +1,0 @@
-## „(3) A vámraktárban végzett átmeneti megőrzés esetén az átmeneti megőrzésben lévő árura a vámraktári tevékenységhez nyújtott vámbiztosíték szolgál fedezetül, amennyiben az ügyfél által nyújtott biztosíték az átmeneti megőrzésre szóló kötelezettséget is tartalmazza.”
