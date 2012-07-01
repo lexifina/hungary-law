@@ -1,6 +1,6 @@
 ## Népegészségügyi célból történő adatkezelés
 
-16. § (1) Amennyiben az érintett újszülött vagy csecsemő a Betegségek Nemzetközi Osztályozása szerinti valamely veleszületett rendellenességben szenved (Q00-Q99), a 4. § (1) bekezdés b)–c) pontjai és a (2) bekezdés b) pontja szerinti célból a kezelést végző orvos az érintett személyazonosító és egészségügyi adatait, valamint törvényes képviselője nevét és lakcímét továbbítja a külön jogszabály szerint vezetett Veleszületett Rendellenességek Országos Nyilvántartása részére.
+16. § (1) Amennyiben az érintett újszülött vagy csecsemő a Betegségek Nemzetközi Osztályozása szerinti valamely veleszületett rendellenességben szenved (Q00-Q99), a 4. § (1) bekezdés b)–c) pontjai és a (2) bekezdés b) pontja szerinti célból a kezelést végző orvos, ennek hiányában a rendellenességet észlelő orvos az érintett személyazonosító és egészségügyi adatait, valamint törvényes képviselője nevét és lakcímét továbbítja a külön jogszabály szerint vezetett Veleszületett Rendellenességek Országos Nyilvántartása részére.
 
 (2) Amennyiben a magzatnál olyan elváltozást észlelnek, amely veleszületett rendellenességet eredményezhet, az (1) bekezdés szerint kell eljárni azzal, hogy az érintett személyazonosító adatain a várandós nő adatait kell érteni.
 
