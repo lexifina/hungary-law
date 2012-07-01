@@ -26,7 +26,7 @@ a) dönt a biztosított keresőképtelenségérő, vagy keresőképességéről,
 
 b) döntést követően arról a munkáltatót és a munkavállalót írásban értesíti, továbbá döntését bejegyzi a keresőképtelenséget elbíráló orvos által vezetett ,,Orvosi Napló a keresőképtelen biztosítottakról'' című Naplóba (a továbbiakban: Napló).
 
-(5)[^19] A döntéssel szemben a foglalkoztatott és a foglalkoztató a közléstől számított 8 napon belül az orvosszakértői szerv illetékes főorvosi bizottságnál (a továbbiakban: FOB) orvosi felülvizsgálatot kezdeményezhet.
+(5)[^19] A döntéssel szemben a foglalkoztatott és a foglalkoztató a közléstől számított 8 napon belül a fővárosi és megyei kormányhivatal rehabilitációs szakigazgatási szerve (a továbbiakban: orvosszakértői szerv) illetékes főorvosi bizottságánál (a továbbiakban: FOB) orvosi felülvizsgálatot kezdeményezhet.
 
 (6) Ha a keresőképtelen személy a (3) bekezdés a) és c) pontjaiban említett vizsgálathoz nem járul hozzá, vagy a 6. § (2) bekezdésében foglaltaknak nem tesz eleget, továbbá, amennyiben a keresőképtelen biztosított tartózkodási helyét (lakcímét) az elbíráló orvosnak nem jelenti be, illetőleg a gyógyulását tudatosan késlelteti, akkor az ellenőrző főorvos kezdeményezi a táppénz folyósítás megszüntetését a táppénzfolyósító szervnél. Ezt a tényt a Naplóban és a beteg dokumentációjában rögzíti, továbbá aláírásával és bélyegzőlenyomatával látja el.
 
@@ -37,5 +37,5 @@ b) döntést követően arról a munkáltatót és a munkavállalót írásban �
 [^16]: A 7. § a 252/2003. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^17]: A 7. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 28. § c) pontja szerint módosított szöveg.
 [^18]: A 7. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 28. § c) pontja szerint módosított szöveg.
-[^19]: A 7. § (5) bekezdése a 360/2008. (XII. 31.) Korm. rendelet 16. § (5) bekezdésének h) pontja, a 332/2010. (XII. 27.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^19]: A 7. § (5) bekezdése a 95/2012. (V. 15.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.
 [^20]: A 7. § (7) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 28. § c) pontja szerint módosított szöveg.

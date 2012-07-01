@@ -36,7 +36,7 @@
 
 | Diagnózis változás | D |
 
-| Rokkantosítva | R |
+| Rehabilitációs vagy rokkantsági ellátásra jogosult | R |
 
 | Meghalt | E |
 
