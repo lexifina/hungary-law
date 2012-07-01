@@ -1,0 +1,1 @@
+131/B. § E törvénynek az egyes családjogi és cégjogi eljárások egyszerűsítéséről szóló 2012. évi LXXXV. törvénnyel (a továbbiakban: Módtv2.) megállapított rendelkezéseit a Módtv2. hatálybalépését követően benyújtott cégbejegyzési (változásbejegyzési) kérelmekre kell alkalmazni.

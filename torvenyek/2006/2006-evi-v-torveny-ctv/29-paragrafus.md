@@ -18,7 +18,7 @@ g) a telephelyet létesítő okirat keltét,
 
 h) a telephely tevékenységeit, azok mindenkor hatályos TEÁOR nómenklatúra szerinti besorolása nélkül,
 
-i) a telephely képviseletére jogosultak nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát, valamint tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is,
+i) a telephely képviseletére jogosultak nevét, adóazonosító számát, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiség nélküli gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát, valamint a képviseletre jogosultak tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is, továbbá azt a tényt, ha a képviseletre jogosult közjegyzői aláírás-hitelesítéssel ellátott címpéldánya vagy ügyvéd által ellenjegyzett aláírás-mintája benyújtásra került,
 
 j) a telephely adószámát (közösségi adószámát), valamint statisztikai számjelét,
 

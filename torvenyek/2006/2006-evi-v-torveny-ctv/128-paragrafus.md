@@ -4,7 +4,7 @@ a) a cégeljárásra és a cégnyilvántartásra,
 
 b) a Cégközlönyben megjelenő közlemények közzétételére és költségtérítésére,
 
-c) a céginformációs szolgálat működésére és a fizetendő költségtérítésre,
+c) a céginformációs szolgálat működésére, a fizetendő költségtérítésre, a közfeladatot ellátó szervek részére nyújtott ingyenes céginformáció szolgáltatás biztosítására,
 
 d) a felügyelőbiztos díjára,
 

@@ -4,7 +4,7 @@
 
 ## 1. ha a cég az Európai Unió valamely hivatalos nyelvén történő nyilvántartását is kéri, a cégbejegyzésre irányuló nyomtatványnak a választott nyelven kitöltött példánya, valamint a létesítő okirat e nyelvre történt hiteles fordítása;
 
-## 2.
+## 2. a cégjegyzésre jogosult hiteles cégaláírási nyilatkozata (közjegyzői aláírás-hitelesítéssel ellátott címpéldánya) vagy ügyvéd által ellenjegyzett aláírás-mintája, ha a csatolás tényét a kérelmen feltüntették;
 
 ## 3. a) ha a cég elnevezésében történelmi személyiség neve szerepel, vagy a cégnévhez másnak jogi érdeke fűződik, a Ctv. 4. §-ának (4) bekezdésében meghatározott személy vagy szervezet hozzájárulását tartalmazó okirat, a Ctv. 4. §-ának (5) bekezdésében meghatározott esetben pedig annak igazolása, hogy a cégben az állam többségi befolyással rendelkezik,
 

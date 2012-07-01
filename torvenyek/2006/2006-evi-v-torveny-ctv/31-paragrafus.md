@@ -7,11 +7,3 @@
 (4) A (2) bekezdés szerinti megbízás megszűnését követő 15 napon belül a kézbesítési megbízottnak a megbízás megszűnésének tényét a 36. § (5) bekezdése szerinti módon be kell jelentenie a cégbíróságnak.
 
 (5) A (4) bekezdés szerinti tény bejelentésének elmulasztása esetén a cégbíróság a kézbesítési megbízottat a 34. § (2) bekezdésében meghatározott bírsággal sújthatja.
-
-## IV. Fejezet
-
-## A CÉGBEJEGYZÉSI ÉS A VÁLTOZÁSBEJEGYZÉSI ELJÁRÁS
-
-1. CÍM
-
-Közös szabályok

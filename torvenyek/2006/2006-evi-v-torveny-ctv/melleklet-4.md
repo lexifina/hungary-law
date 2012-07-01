@@ -20,6 +20,8 @@
 
 ## b) az a) pontban említettek megválasztásának időtartamát tartalmazó okirat;
 
+## c) a cégjegyzésre jogosult hiteles cégaláírási nyilatkozata (közjegyzői aláírás-hitelesítéssel ellátott címpéldánya) vagy ügyvéd által ellenjegyzett aláírás-mintája, ha a csatolás tényét a kérelmen feltüntették;
+
 ## 3. ha a könyvvizsgáló szervezet, a könyvvizsgálatot ellátó személynek a megválasztást elfogadó, az összeférhetetlenségre is kiterjedő nyilatkozata;
 
 ## 4. ingatlan nem pénzbeli hozzájárulásként történő szolgáltatása esetén az ingatlan – három hónapnál nem régebbi – tulajdoni lapja, melyből az ingatlannal való rendelkezés jogcíme legalább széljegy formájában megállapítható; a tulajdoni lapon a következő bejegyzésre váró széljegy jogosultjaként csak a nem pénzbeli hozzájárulást szolgáltató személy vagy szervezet szerepelhet;

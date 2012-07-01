@@ -1,10 +1,6 @@
 132. § (1) E törvény – végrehajtási rendeleteivel, valamint a gazdasági társaságokról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) a Tanács 68/151/EGK első irányelve (1968. március 9.) az egész Közösségre kiterjedő egységes biztosítékok kialakítása érdekében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében a Szerződés 58. cikkének (2) bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról, valamint az azt módosító
-
-aa) az Európai Parlament és a Tanács 2003/58/EK irányelve (2003. július 15.) a meghatározott jogi formájú társaságokra vonatkozó nyilvánossági követelmények tekintetében a 68/151/EGK tanácsi irányelv módosításáról,
-
-ab) a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság csatlakozásának feltételeiről, valamint az Európai Unió alapját képező szerződések kiigazításáról szóló okmány II. melléklet 4. rész A. pont (1) bekezdése;
+a) az Európai Parlament és a Tanács 2009. szeptember 16-i 2009/101/EK irányelve az egész Közösségre kiterjedő egységes biztosítékok kialakítása érdekében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében a Szerződés 48. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról;
 
 b) a Tanács 77/91/EGK második irányelve (1976. december 13.) a biztosítékok egyenértékűvé tétele céljából a részvénytársaságok alapításának, valamint ezek tőkéje fenntartásának és módosításának tekintetében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében a Szerződés 58. cikkének (2) bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról, valamint az azt módosító
 
