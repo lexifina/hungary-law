@@ -12,20 +12,23 @@
 
 (6) Ha a pénzforgalmi szolgáltató a fizetési megbízás teljesítését visszautasítja, – törvény eltérő rendelkezése hiányában – értesíti az ügyfelet a visszautasítás tényéről, továbbá – jogszabály tiltó rendelkezése hiányában – lehetőség szerint a visszautasítás okáról és a visszautasításra okot adó tényszerű hibák helyesbítéséhez szükséges eljárásról.
 
-(7) A pénzforgalmi szolgáltató a (6) bekezdés szerinti értesítést
+(7)[^8] A pénzforgalmi szolgáltató a (6) bekezdés szerinti értesítést e rendelet eltérő rendelkezése hiányában a keretszerződésben meghatározott módon
 
-a) haladéktalanul, de legkésőbb a fizetési megbízás 5. § (1) bekezdése szerinti átvételét követő munkanapon,
+a) haladéktalanul, de legkésőbb a fizetési megbízás 5. § (1) bekezdése szerinti átvételét,
 
-b) terhelési nap megjelölése esetén a terhelés napját követő munkanapon,
+b) terhelési nap megjelölése esetén legkésőbb a terhelési napot,
 
-c) a sorbaállítás időtartamának lejártakor
+c) a sorbaállítás időtartamának lejárta esetén legkésőbb a sorbaállítás utolsó napját
 
-## a pénzforgalmi szolgáltató és az ügyfele között létrejött szerződésben meghatározott módon küldi meg vagy teszi elérhetővé az ügyfél számára. A pénzforgalmi szolgáltató a jogszabály rendelkezésén vagy megállapodáson alapuló ellenjegyzéssel ellátott, valamint csatolt okiratot tartalmazó papíralapú fizetési megbízások teljesítésének visszautasítása esetén a fizetési megbízást és az okiratot visszaküldi az ügyfélnek.
+követő munkanapon küldi meg vagy teszi elérhetővé az ügyfél számára. A pénzforgalmi szolgáltató a jogszabály rendelkezésén vagy megállapodáson alapuló ellenjegyzéssel ellátott, valamint csatolt okiratot tartalmazó papíralapú fizetési megbízások teljesítésének visszautasítása esetén a fizetési megbízást és az okiratot visszaküldi az ügyfélnek.
 
-(8) Beszedési megbízás teljesítésének visszautasítása esetén a fizető fél pénzforgalmi szolgáltatója a (6) és (7) bekezdésben foglaltaknak a kedvezményezett fizetési számláját vezető pénzforgalmi szolgáltató útján tesz eleget.
+(8)[^9] Beszedési megbízás teljesítésének visszautasítása esetén a fizető fél pénzforgalmi szolgáltatója a (6) és (7) bekezdésben foglaltaknak a kedvezményezett fizetési számláját vezető pénzforgalmi szolgáltató útján, a beszedési megbízás hozzá történt beérkezésével azonos módon tesz eleget.
 
 (9) A (6) bekezdés szerint megindokolt visszautasítás esetén a keretszerződés alapján a tényleges és közvetlenül felmerült költséggel arányos díj számítható fel.
 
 (10) Ha a pénzforgalmi szolgáltató és a fizető fél közötti keretszerződésben foglalt összes feltétel teljesül, a fizető fél pénzforgalmi szolgáltatója – jogszabály eltérő rendelkezése hiányában – nem utasíthatja vissza a jóváhagyott fizetési megbízás teljesítését, függetlenül attól, hogy azt a fizető fél, vagy a kedvezményezett kezdeményezte, vagy rajta keresztül kezdeményezték.
 
 (11) A visszautasított fizetési megbízást teljesítésre át nem vettnek kell tekinteni.
+
+[^8]: A 7. § (7) bekezdése a 12/2012. (VI. 12.) MNB rendelet 4. §-ával megállapított szöveg. E módosító rendelet 20. § (4) bekezdése alapján a 2012. július 1-jét követően átvett fizetési megbízásokra kell alkalmazni.
+[^9]: A 7. § (8) bekezdése a 12/2012. (VI. 12.) MNB rendelet 4. §-ával megállapított szöveg. E módosító rendelet 20. § (4) bekezdése alapján a 2012. július 1-jét követően átvett fizetési megbízásokra kell alkalmazni.

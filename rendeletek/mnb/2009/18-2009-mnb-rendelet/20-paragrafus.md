@@ -4,4 +4,6 @@
 
 (2) A kedvezményezett pénzforgalmi szolgáltatója nem alkalmazhat későbbi jóváírási értéknapot a kedvezményezett fizetési számláján annál a munkanapnál, mint amikor a fizetési művelet összegét a saját számláján jóváírták.
 
-(3) Ha a fizető fél és a kedvezményezett között a fizetési művelet lebonyolítása ugyanazon pénzforgalmi szolgáltatónál történik, a pénzforgalmi szolgáltató a terhelést és a jóváírást azonos munkanapon és azonos értéknappal teljesíti.
+(3)[^20] Ha a fizető fél és a kedvezményezett között a fizetési művelet lebonyolítása ugyanazon pénzforgalmi szolgáltatónál történik, a pénzforgalmi szolgáltató a terhelést és a jóváírást azonos értéknappal teljesíti.
+
+[^20]: A 20. § (3) bekezdése a 12/2012. (VI. 12.) MNB rendelet 18. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 20. § (4) bekezdése alapján a 2012. július 1-jét követően átvett fizetési megbízásokra kell alkalmazni.

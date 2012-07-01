@@ -6,9 +6,9 @@
 
 50. § (1) E rendelet 2009. november 1-jén lép hatályba.
 
-(2)[^7]
+(2)[^30]
 
-(3)[^8]
+(3)[^31]
 
-[^7]: Az 50. § (2) bekezdését az 52. § (3) bekezdése hatályon kívül helyezte.
-[^8]: Az 50. § (3) bekezdése az 52. § (2) bekezdése alapján hatályát vesztette.
+[^30]: Az 50. § (2) bekezdését az 52. § (3) bekezdése hatályon kívül helyezte.
+[^31]: Az 50. § (3) bekezdése az 52. § (2) bekezdése alapján hatályát vesztette.

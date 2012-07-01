@@ -14,8 +14,12 @@
 
 (5) A pénzforgalmi szolgáltató a fizetési számla megterhelésére vonatkozó fizetési megbízásokat – törvény vagy a számlatulajdonos eltérő rendelkezésének hiányában – az átvétel sorrendjében teljesíti. Az átvétel sorrendjére a pénzforgalmi szolgáltató nyilvántartása az irányadó.
 
-(6) Ha a pénzforgalmi szolgáltató a részére egy másik pénzforgalmi szolgáltató által elektronikus úton továbbított fizetési megbízás teljesítését az azon szereplő – jóváírást (terhelést) azonosító – adatok hibája vagy hiánya miatt nem tudja elvégezni, e felismerést követően
+(6)[^5] Ha a pénzforgalmi szolgáltató a részére egy másik pénzforgalmi szolgáltató által elektronikus úton továbbított fizetési megbízás teljesítését az azon szereplő, a jóváírást vagy terhelést azonosító adatok hibája, hiánya vagy egyéb ok miatt nem tudja elvégezni, erről a visszautasítás okának közlésével legkésőbb a fizetési megbízás átvételét követő munkanapon
 
-a) belföldi forint fizetési forgalomban az (1) bekezdés szerinti teljesítési határidő figyelembevételével visszautasítja,
+a) belföldi forint fizetési forgalomban a fizetési megbízás teljesítésének visszautasításával,
 
-b) egyéb fizetési megbízás esetében legkésőbb az átvételt követő munkanapon a fizetési megbízás visszautasításával vagy más módon értesíti erről a fizetési megbízást elküldő pénzforgalmi szolgáltatót.
+b) egyéb fizetési megbízás esetén a fizetési megbízás teljesítésének visszautasításával vagy más módon
+
+értesíti a fizetési megbízást részére továbbító pénzforgalmi szolgáltatót.
+
+[^5]: Az 5. § (6) bekezdése a 12/2012. (VI. 12.) MNB rendelet 2. § (3) bekezdésével megállapított szöveg. E módosító rendelet 20. § (4) bekezdése alapján a 2012. július 1-jét követően átvett fizetési megbízásokra kell alkalmazni.

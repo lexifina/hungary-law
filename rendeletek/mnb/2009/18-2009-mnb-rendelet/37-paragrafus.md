@@ -27,3 +27,7 @@
 (13) A csoportos beszedési megbízás teljesítéséről, valamint a nemteljesítésről és annak okáról a fizető fél fizetési számláját vezető pénzforgalmi szolgáltató a kedvezményezett fizetési számláját vezető pénzforgalmi szolgáltatót értesíti. Az értesítéseket és a teljesített megbízások adatait a kedvezményezett fizetési számláját vezető pénzforgalmi szolgáltató a keretszerződésben meghatározott módon továbbítja a kedvezményezett részére.
 
 (14) A fizető fél pénzforgalmi szolgáltatója a nem teljesült csoportos beszedésről legkésőbb a Pft. 23. §-a szerinti utólagos tájékoztatással egyidejűleg a keretszerződésben megállapodott módon tájékoztatja a fizető felet.
+
+(15)[^26] A kedvezményezett a csoportos beszedési megbízást a benyújtás alapjául szolgáló számlával vagy annak hiányában kiállított más okirattal egyező összegben nyújtja be.
+
+[^26]: A 37. § (15) bekezdését a 12/2012. (VI. 12.) MNB rendelet 16. § (2) bekezdése iktatta be. E módosító rendelet 20. § (4) bekezdése alapján a 2012. július 1-jét követően átvett fizetési megbízásokra kell alkalmazni.

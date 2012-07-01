@@ -6,8 +6,10 @@
 
 (3) A pénzforgalmi szolgáltató az e rendelet hatálybalépését megelőzően alkalmazott PFNY jelű pénzforgalmi nyomtatványokon benyújtott fizetési megbízásokat 2010. december 31-ig veszi át.
 
-(4) A Posta Elszámoló Központot működtető intézmény az 5. § (2) bekezdésében előírt, a fizetési megbízás átvétele időpontjának óra és perc feltüntetésével történő rögzítése kötelezettségét a postáról szóló 2003. évi CI. törvény alapján kötelezően végzendő pénzforgalmi szolgáltatások tekintetében 2011. január 1-jétől teljesíti.
+(4)[^32] A Posta Elszámoló Központot működtető intézmény az 5. § (2) bekezdésében előírt, a fizetési megbízás beérkezése időpontjának óra és perc feltüntetésével történő rögzítése kötelezettségét a postáról szóló 2003. évi CI. törvény alapján kötelezően végzendő pénzforgalmi szolgáltatások tekintetében 2011. január 1-jétől teljesíti.
 
 (5) Az MNBr e rendelet kihirdetésekor hatályos rendelkezései az irányadóak a Pft. 66. §-a alapján benyújtott fizetési megbízásokra.
 
 (6) Az MNBr alapján kiállított csoportos beszedési megbízás benyújtását lehetővé tevő felhatalmazás és beszedési megbízás benyújtását lehetővé tevő felhatalmazó levél a felek megjelölésének változásától függetlenül változatlanul érvényes.
+
+[^32]: A 51. § (4) bekezdése a 12/2012. (VI. 12.) MNB rendelet 18. § (9) bekezdése szerint módosított szöveg. E módosító rendelet 20. § (4) bekezdése alapján a 2012. július 1-jét követően átvett fizetési megbízásokra kell alkalmazni.
