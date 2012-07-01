@@ -1,3 +1,3 @@
-1. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^68]
+1. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^80]
 
-[^68]: A melléket megjelölését 1. mellékletre változtatta és szövegét megállapította a 63/2010. (III. 18.) Korm. rendelet 11. § (1) bekezdése.
+[^80]: A melléket megjelölését 1. mellékletre változtatta és szövegét megállapította a 63/2010. (III. 18.) Korm. rendelet 11. § (1) bekezdése.

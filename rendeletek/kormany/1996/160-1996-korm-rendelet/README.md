@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-160-20-
 | 2011-12-01 | 1996-160-20-22.21 | 231/2011. (XI. 8.) Korm. rendelet |
 | 2012-01-01 | 1996-160-20-22.22 | 314/2011. (XII. 23.) Korm. rendelet |
 | 2012-01-05 | 1996-160-20-22.23 | 374/2011. (XII. 31.) Korm. rendelet |
+| 2012-07-01 | 1996-160-20-22.24 | 102/2012. (V. 18.) Korm. rendelet |
