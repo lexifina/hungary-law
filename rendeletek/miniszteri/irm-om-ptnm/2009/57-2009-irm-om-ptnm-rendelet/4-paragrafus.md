@@ -1,6 +1,6 @@
 4. § (1) Alkalmassági vizsgálatot kell végezni:
 
-a)[^12] hivatásos állományba kinevezés, visszavétel és a rendőrség különleges foglalkoztatási állományába történő felvétel előtt,
+a)[^13] hivatásos állományba kinevezés, visszavétel és a rendőrség különleges foglalkoztatási állományába történő felvétel előtt,
 
 b) rendészeti oktatási intézménybe jelentkezéskor,
 
@@ -24,4 +24,4 @@ k) e rendeletben meghatározott esetekben soron kívül.
 
 (2) A vizsgálatot végző a vizsgálat megkezdése előtt ellenőrzi a vizsgálatra rendelt személy személyazonosságát.
 
-[^12]: A 4. § (1) bekezdés a) pontja a 67/2011. (XII. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^13]: A 4. § (1) bekezdés a) pontja a 67/2011. (XII. 30.) BM rendelet 2. §-ával megállapított szöveg.

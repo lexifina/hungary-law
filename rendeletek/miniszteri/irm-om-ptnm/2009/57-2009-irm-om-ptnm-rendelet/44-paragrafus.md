@@ -1,6 +1,6 @@
 ## A FÜV bizottság megalakítása, működése
 
-44. §[^100] (1) A FÜV bizottság az Országos Rendőr-főkapitányság felülvizsgáló egységének szervezetében működik.
+44. §[^101] (1) A FÜV bizottság az Országos Rendőr-főkapitányság felülvizsgáló egységének szervezetében működik.
 
 (2) A FÜV bizottság 3 tagból áll. A FÜV bizottság összetételét a rendvédelmi szerveket irányító miniszter az orvos-szakmai követelmények figyelembevételével állapítja meg.
 
@@ -18,4 +18,4 @@ b) a II. fokú FÜV bizottságban az, aki az I. fokú FÜV eljárásban részt v
 
 (7) A FÜV eljárást a FÜV dokumentációnak a FÜV bizottsághoz történő beérkezés napjától számított 60 napon, jogorvoslati kérelem esetén 90 napon belül le kell folytatni.
 
-[^100]: A 44. § a 67/2011. (XII. 30.) BM rendelet 18. §-ával megállapított szöveg.
+[^101]: A 44. § a 67/2011. (XII. 30.) BM rendelet 18. §-ával megállapított szöveg.

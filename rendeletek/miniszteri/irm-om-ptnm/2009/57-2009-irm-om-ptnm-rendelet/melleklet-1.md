@@ -1,6 +1,6 @@
-## 57. §[^118]
+## 57. §[^119]
 
-1. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^119]
+1. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^120]
 
 Táblázat és magyarázat a betegségek és fogyatékosságok alapján
 
@@ -1578,5 +1578,5 @@ Szükséges vizsgálatok: Rhinoscopia anterior, posterior, orrmelléküreg-rtg.,
 
 Amennyiben a recidiv orrpolyp allergiás eredetű, a minősítés 095.1. alszakasz szerint történik.
 
-[^118]: Az 57. §-t az 56. § (3) bekezdése hatályon kívül helyezte.
-[^119]: Az 1. melléklet a 67/2011. (XII. 30.) BM rendelet 21. § (1) bekezdése és a 23. § n) és p) pontja szerint módosított szöveg.
+[^119]: Az 57. §-t az 56. § (3) bekezdése hatályon kívül helyezte.
+[^120]: Az 1. melléklet a 67/2011. (XII. 30.) BM rendelet 21. § (1) bekezdése és a 23. § n) és p) pontja szerint módosított szöveg.

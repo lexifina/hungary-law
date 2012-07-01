@@ -18,10 +18,10 @@ f) hallásvizsgálatra szűrő audiométerrel,
 
 g) laboratóriumi vagy más kiegészítő diagnosztikus vizsgálat elvégzésére, a hozott vizsgálati leletek, egy évnél nem régebbi tüdőszűrő vizsgálat eredménye, nők esetében egy hónapnál nem régebbi nőgyógyászati lelet értékelésére,
 
-h)[^16] az alkohol-, gyógyszer-, kábítószer-fogyasztás, valamint függőség esetleges jeleinek megállapítására, indokolt esetben el kell végezni a speciális gyorsteszttel való vizsgálatot.
+h)[^17] az alkohol-, gyógyszer-, kábítószer-fogyasztás, valamint függőség esetleges jeleinek megállapítására, indokolt esetben el kell végezni a speciális gyorsteszttel való vizsgálatot.
 
 (3) A vizsgálatot kérő rendvédelmi szerv által megjelölt esetben a (2) bekezdés szerinti vizsgálatok mellett terheléses EKG-t, a gerinc – szűrő jelleggel történő – röntgenvizsgálatát és a légzésfunkciós vizsgálatot is el kell végezni.
 
 (4) Amennyiben a (2) bekezdés szerinti egészségügyi dokumentáció és a vizsgált személy egészségi állapota orvosilag indokolja, az alkalmasság megítéléséhez szükséges, az 1. mellékletben az adott betegségcsoportnál megjelölt kiegészítő vizsgálatok, a speciális munkakörök, szolgálati beosztások esetében célzott jellegű vizsgálatok is elvégezhetők.
 
-[^16]: A 6. § (2) bekezdés h) pontja a 67/2011. (XII. 30.) BM rendelet 4. §-ával megállapított szöveg.
+[^17]: A 6. § (2) bekezdés h) pontja a 67/2011. (XII. 30.) BM rendelet 4. §-ával megállapított szöveg.
