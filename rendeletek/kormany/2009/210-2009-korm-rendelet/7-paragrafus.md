@@ -38,7 +38,7 @@ f)[^13] a honvédelmi és katonai célú ingatlanon működtetni kívánt üzlet
 
 (5) A működési engedélyezési eljárásban külön vizsgálat nélkül ügyfélnek minősül az üzlet, valamint – a külön jogszabály szerinti vásáron és piacon, valamint a bevásárlóközpontban lévő üzlet kivételével – az üzlettel közvetlenül szomszédos, az üzlettel közös határvonalú, telekhatárú ingatlan tulajdonosa, társasház esetében a közös képviselő vagy az intézőbizottság elnöke, lakásszövetkezet esetében az elnök.
 
-(6)[^14] A 3/a. melléklet szerinti megyei népegészségügyi szakigazgatási szervek e rendelet szerinti feladat- és hatáskörükben különös illetékességgel járnak el.
+(6)[^14]
 
 [^8]: A 7. § (4) bekezdés a) pont aa) alpontja a 351/2010. (XII. 30.) Korm. rendelet 257. § (1) bekezdése szerint módosított szöveg.
 [^9]: A 7. § (4) bekezdés b) pont ba) alpontja a 351/2010. (XII. 30.) Korm. rendelet 256. § (4) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 48. §-a szerint módosított szöveg.
@@ -46,4 +46,4 @@ f)[^13] a honvédelmi és katonai célú ingatlanon működtetni kívánt üzlet
 [^11]: A 7. § (4) bekezdés d) pontja a 158/2011. (VIII. 11.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
 [^12]: A 7. § (4) bekezdés e) pontja a 158/2011. (VIII. 11.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
 [^13]: A 7. § (4) bekezdés f) pontját a 158/2011. (VIII. 11.) Korm. rendelet 28. § (2) bekezdése iktatta be.
-[^14]: A 7. § (6) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 256. § (5) bekezdése iktatta be.
+[^14]: A 7. § (6) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 256. § (5) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § p) pontja.
