@@ -1,4 +1,4 @@
-## 36. §[^2]
+## 36. §[^3]
 
 ## 26. Összeférhetetlenség
 
@@ -36,4 +36,4 @@ g) személyek őrzésével, biztosításával és e személyek objektumainak őr
 
 h) a tevékenység a fegyveres szervnél rendszeresített nyilvántartások közvetlen felhasználásával történne, vagy olyan ügyintézésre vonatkozik, amelyben valamely fegyveres szerv mint hatóság jár el.
 
-[^2]: A 36. § a 65. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
+[^3]: A 36. § a 65. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.

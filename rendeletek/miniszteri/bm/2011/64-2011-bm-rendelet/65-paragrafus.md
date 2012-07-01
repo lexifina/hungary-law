@@ -4,6 +4,6 @@
 
 (2) A 36. §, valamint az azt megelőző alcím 2012. szeptember 1-jén lép hatályba.
 
-(3)[^3]
+(3)[^4]
 
-[^3]: A 65. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 65. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
