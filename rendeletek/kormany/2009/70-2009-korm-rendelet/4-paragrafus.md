@@ -12,7 +12,7 @@ b) a munkavállalót legalább a támogatási időtartamával megegyező tovább
 
 c) a támogatás adókkal és járulékokkal csökkentett részét a munkavállaló részére – a részmunkaidős foglalkoztatásra járó munkabérén felül – munkabérként kifizeti.
 
-(3) A támogatás mértéke a munkavállalónak a kieső munkaidejére járó személyi alapbérének 80 százalékáig, valamint annak járulékáig terjedhet. A támogatás összege nem haladhatja meg a kérelem benyújtásakor hatályos kötelező legkisebb munkabér másfélszeresét.
+(3)[^6] A támogatás mértéke a munkavállalónak a kieső munkaidejére járó alapbérének 80 százalékáig, valamint a szociális hozzájárulási adóig terjedhet. A támogatás összege nem haladhatja meg a kérelem benyújtásakor hatályos kötelező legkisebb munkabér másfélszeresét.
 
 (4) A támogatás legfeljebb 365 napra nyújtható.
 
@@ -21,3 +21,5 @@ c) a támogatás adókkal és járulékokkal csökkentett részét a munkaválla
 (6) A munkaügyi központ köteles a támogatásra vonatkozó felhívást legalább egy napilapban közzétenni, és ezzel egyidejűleg a felhívást a honlapján is megjelentetni.
 
 (7) A munkaügyi központ a felhívásban meghatározza azokat a szempontokat, amelyek alapján megállapítható, hogy a munkaadónál a részmunkaidős foglalkoztatásra történő áttérés a munkavállalói létszám csökkentésének megelőzését szolgálja.
+
+[^6]: A 4. § (3) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés e) pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@ bc) a munkahely és a lakóhely között naponta – tömegközlekedési eszköz
 
 c) munkaviszony:
 
-ca)[^1] a magyar jog hatálya alá tartozó munkaviszony, közalkalmazotti jogviszony, közszolgálati jogviszony, kormánytisztviselői jogviszony, bírói szolgálati viszony, ügyészségi szolgálati viszony, igazságügyi alkalmazottak szolgálati jogviszonya, valamint fegyveres és rendvédelmi szervek, illetve a Nemzeti Adó- és Vámhivatal hivatásos és szerződéses állományú tagjának szolgálati jogviszonya,
+ca)[^1] a magyar jog hatálya alá tartozó munkaviszony, közalkalmazotti jogviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, bírói szolgálati viszony, ügyészségi szolgálati viszony, igazságügyi alkalmazottak szolgálati jogviszonya, valamint fegyveres és rendvédelmi szervek, illetve a Nemzeti Adó- és Vámhivatal hivatásos és szerződéses állományú tagjának szolgálati jogviszonya,
 
 cb) a 4. § tekintetében a magyar jog hatálya alá tartozó munkaviszony;
 
@@ -24,12 +24,15 @@ db) a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a 
 
 e) szakképzettség: az alapszintű, középszintű, középfokú, emelt szintű, felsőfokú szakképesítés és a szakképesítést nyújtó középfokú iskolai végzettség, továbbá a felsőfokú iskolai végzettség;
 
-f) teljes munkaidő: a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 117/B. §-ában meghatározott időtartamok;
+f)[^2] teljes munkaidő: a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 92. §-ában meghatározott időtartamok;
 
-g) személyi alapbér: az Mt. 142. §-ában meghatározott adózás előtti (bruttó) bér és járulékai;
+g)[^3] alapbér: az Mt. 136. §-ában meghatározott adózás előtti (bruttó) bér és a szociális hozzájárulási adó;
 
 h) munkavállaló: aki a c) pont szerinti munkaviszonyban áll, feltéve, hogy nem jogosult öregségi nyugdíjra [Flt. 58. § (5) bekezdés i) pontja], és rehabilitációs járadékban nem részesül;
 
-i) részmunkaidős foglalkoztatás: az Mt. 82. §-a alapján módosításra kerülő munkaszerződésben legalább a teljes munkaidő felét elérő részmunkaidőben való megállapodás.
+i)[^4] részmunkaidős foglalkoztatás: az Mt. 58. §-a alapján módosításra kerülő munkaszerződésben legalább a teljes munkaidő felét elérő részmunkaidőben való megállapodás.
 
-[^1]: Az 1. § c) pont ca) alpontja a 273/2010. (XII. 9.) Korm. rendelet 127. §-a, a 351/2010. (XII. 30.) Korm. rendelet 236. §-a szerint módosított szöveg.
+[^1]: Az 1. § c) pont ca) alpontja a 273/2010. (XII. 9.) Korm. rendelet 127. §-a, a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^2]: Az 1. § f) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^3]: Az 1. § g) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § i) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés c) pontja szerint módosított szöveg.
