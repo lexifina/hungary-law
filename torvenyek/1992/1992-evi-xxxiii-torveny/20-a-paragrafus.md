@@ -24,7 +24,7 @@ d) a pályázat részeként benyújtandó iratokat, igazolásokat, továbbá
 
 e) a pályázat benyújtásának feltételeit és elbírálásának határidejét.
 
-(4) A pályázati felhívást a Kormányzati Személyügyi Szolgáltató és Közigazgatási Képzési Központ (a továbbiakban: KSZK) internetes oldalán kell közzétenni. Emellett a pályázati felhívást, valamint a munkáltatónál közalkalmazotti jogviszony keretében pályázat nélkül betölthető munkakört és a kinevezés feltételeit (a továbbiakban: álláshirdetés)
+(4) A pályázati felhívást a kormányzati személyügyi igazgatási feladatokat ellátó szerv (a továbbiakban: személyügyi központ) internetes oldalán kell közzétenni. Emellett a pályázati felhívást, valamint a munkáltatónál közalkalmazotti jogviszony keretében pályázat nélkül betölthető munkakört és a kinevezés feltételeit (a továbbiakban: álláshirdetés)
 
 a) ha a fenntartó önkormányzat, a székhelyén,
 
@@ -32,7 +32,7 @@ b) ha a fenntartó önkormányzati társulás, a társulásban részt vevő önk
 
 c) a munkáltató a székhelye és telephelye szerinti településen
 
-a helyben szokásos módon köteles közzétenni. Végrehajtási jogszabály hivatalos lapban vagy egyéb módon való közzétételt is előírhat. Ebben az esetben, továbbá az a)–c) pontban foglalt esetekben meg kell jelölni a pályázati felhívás KSZK honlapján való közzétételének időpontját. A pályázat benyújtásának a határideje a pályázati felhívásnak a KSZK honlapján való elsődleges közzétételétől számított tizenöt napnál – a munkáltató vezetésére kiírt pályázat esetén harminc napnál – rövidebb nem lehet. Álláshirdetés esetén e határidőket az a) pont alapján történő közzétételtől kell számítani.
+a helyben szokásos módon köteles közzétenni. Végrehajtási jogszabály hivatalos lapban vagy egyéb módon való közzétételt is előírhat. Ebben az esetben, továbbá az a)–c) pontban foglalt esetekben meg kell jelölni a pályázati felhívásnak a személyügyi központ honlapján való közzétételének időpontját. A pályázat benyújtásának a határideje a pályázati felhívásnak a személyügyi központ honlapján való elsődleges közzétételétől számított tizenöt napnál – a munkáltató vezetésére kiírt pályázat esetén harminc napnál – rövidebb nem lehet. Álláshirdetés esetén e határidőket az a) pont alapján történő közzétételtől kell számítani.
 
 (5) A pályázó – a (3) bekezdés d) pontja alapján meghatározottakon túlmenően – a pályázathoz csatolja
 

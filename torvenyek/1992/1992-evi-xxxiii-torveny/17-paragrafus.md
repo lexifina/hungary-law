@@ -4,4 +4,4 @@
 
 (3) A közalkalmazotti szabályzat kollektív szerződésre tartozó kérdéseket nem szabályozhat.
 
-(4) A közalkalmazotti szabályzatra a Munka Törvénykönyve 38. § (1)—(3) bekezdését, 39. § (1)—(2) bekezdését, valamint a 40. § (1) bekezdésének első mondatát megfelelően alkalmazni kell.
+(4)

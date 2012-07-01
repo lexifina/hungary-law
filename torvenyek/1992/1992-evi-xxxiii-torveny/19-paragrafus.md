@@ -1,1 +1,1 @@
-19. § A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munkavállalók részvételi jogáról szóló rendelkezései közül (Második rész, IV. fejezet) a 42. §-a, a 43. §-ának (1)–(3) bekezdése, valamint (6) bekezdése, az 50. §-ának (1) bekezdése, az 53. §-ának (3) bekezdése, az 57. §-ának (2) bekezdése, a 64/A. §-a és a 65. §-a, valamint a Második rész V. fejezete nem alkalmazható.
+19. § A közalkalmazotti jogviszony tekintetében az Mt. üzemi tanácsra vonatkozó rendelkezései (XX. fejezet) közül a 235. § (2) bekezdése, 251. §-a és 268. §-a nem alkalmazható.

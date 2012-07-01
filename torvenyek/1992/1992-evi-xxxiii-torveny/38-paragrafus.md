@@ -1,7 +1,5 @@
-38. § (1) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munkaviszony megszűnéséről és megszüntetéséről szóló rendelkezései közül (Harmadik rész, IV. fejezet) a 77/A. §, a 86–86/E. §-a, a 87. §-ának (1) bekezdése, a 87/A. §-a, a 88. §-a, a 89. §-ának (1)–(6) bekezdése, a 90. § (4) bekezdése, a 92. §-a, a 93. §-ának (1) és (2) bekezdése, a 95. és 96. §-a, a 98. §-ának (1) bekezdése, a 99–101. §-a nem alkalmazható.
+38. § (1) A közalkalmazotti jogviszony tekintetében az Mt.-nek a munkaviszony megszűnéséről és megszüntetéséről szóló rendelkezései (X. fejezet) közül a 63–64. §, 65. § (1)–(2) bekezdés, 66. § (1)–(3) és (8)–(9) bekezdés, a 68–70. §, a 77. §, a 79. § és a 85. § nem alkalmazható.
 
-(2)
+(2) Az (1) bekezdéstől eltérően a nemzetbiztonsági szolgálatoknál fennálló közalkalmazotti jogviszony tekintetében az Mt. 71–76. §-ának rendelkezéseit nem kell alkalmazni.
 
-(3) Az (1) bekezdéstől eltérően a nemzetbiztonsági szolgálatoknál fennálló közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének 94/A–94/F. §-a rendelkezéseit nem kell alkalmazni.
-
-(4) A létszámcsökkentést eredményező döntést megelőzően a miniszter az ágazati (alágazati) érdekegyeztető fórumban, az önkormányzat az önkormányzati érdekegyeztető fórumban – az érdekegyeztetésben részt vevő felekkel – tárgyalást kezdeményez.
+(3) A létszámcsökkentést eredményező döntést megelőzően a miniszter a 6. § (6) bekezdése szerinti ágazati (alágazati) érdekegyeztető fórumban, ennek hiányában a KOMT-ban, illetőleg az önkormányzat az önkormányzati érdekegyeztető fórumban – az érdekegyeztetésben részt vevő felekkel – tárgyalást kezdeményez.

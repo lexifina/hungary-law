@@ -1,3 +1,5 @@
-80. § (1) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munka díjazására vonatkozó szabályai (Harmadik rész, VII. fejezet) közül a 142. §, a 143–143/A. §, a 144. § (6) bekezdése, a 147. § (6)–(7) bekezdése, a 154. § (1) bekezdésének utolsó két mondata, a 154. § (2) bekezdése, a 155. § (2) bekezdése nem alkalmazható.
+80. § (1) A közalkalmazotti jogviszony tekintetében az Mt. munkabérre vonatkozó rendelkezései (XII. fejezet) közül a 136–138. §, 145. §, 156. §, 157. § (2) bekezdés, 159. § és a 165. § nem alkalmazható.
 
-(2) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyve 147. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a napi munkaidőt, illetve a munkaidőkeretet meghaladóan végzett munka ellenértékeként szabadidőt csak a kollektív szerződés állapíthat meg.
+(2) A távolléti díjat a 70–75. § szerinti bérpótlék figyelembe vételével kell megállapítani. A távolléti díj számítására a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 151/A. §-át kell alkalmazni.
+
+(3) A közalkalmazotti jogviszony tekintetében az Mt. 143. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a rendkívüli munkaidő ellenértékeként szabadidőt csak kollektív szerződés állapíthat meg.

@@ -18,7 +18,7 @@ d) a (3) bekezdés szerint szűnik meg.
 
 a) jogutódlás esetén a jogelődnél,
 
-b) a munkáltató egészének vagy egy részének átadása esetén az átadó munkáltatónál munkaviszonyban, közalkalmazotti jogviszonyban töltött időt is [Mt. 86/C. § (5) bekezdés, 25/B. § (6) bekezdés].
+b) a munkáltató egészének vagy egy részének átadása esetén az átadó munkáltatónál munkaviszonyban vagy közalkalmazotti jogviszonyban töltött időt is [25/B. § (6) bekezdés].
 
 (6) A közalkalmazott végkielégítésének mértéke, ha a közalkalmazotti jogviszonyban töltött idő legalább
 

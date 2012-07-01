@@ -6,7 +6,7 @@ b) a minősítést végző vezető,
 
 c) feladatkörének keretei között a törvényességi ellenőrzést végző szerv,
 
-d) a fegyelmi eljárást lefolytató testület vagy személy,
+d)
 
 e) munkaügyi, polgári jogi, közigazgatási per kapcsán a bíróság,
 

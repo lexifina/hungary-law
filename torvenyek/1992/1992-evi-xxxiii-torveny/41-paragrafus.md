@@ -2,7 +2,7 @@
 
 (2) A magasabb vezető, vezető, továbbá a pénzügyi kötelezettségvállalásra jogosult közalkalmazott munkakörével, vezető megbízásával összeférhetetlen
 
-a) ha közeli hozzátartozójával [Mt. 139. § (2) bekezdés] irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülne,
+a) ha hozzátartozójával [Mt. 294. § (1) bekezdés b) pont] irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülne,
 
 b) a munkáltatóéval azonos, vagy ahhoz hasonló tevékenységet is végző, illetve a munkáltatóval rendszeres gazdasági kapcsolatban álló más gazdasági társaságban betöltött vezető tisztségviselői, felügyelőbizottsági tagság.
 

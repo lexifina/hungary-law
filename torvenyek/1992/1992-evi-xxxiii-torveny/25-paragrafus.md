@@ -40,18 +40,26 @@ e) felmentéssel;
 
 f) azonnali hatállyal
 
-fa) a próbaidő alatt, vagy
+fa) a próbaidő alatt,
 
-fb) a 27. § (2) bekezdése szerint, valamint
+fb) a 27. § (2) bekezdése szerint,
 
-g) elbocsátással, továbbá
+fc) a 44. § (4) bekezdése szerint, vagy
 
-h) rendkívüli felmentéssel a gyakornoki idő alatt.
+fd) a (3) bekezdés szerint, valamint
 
-(3) A munkáltató köteles a közalkalmazotti jogviszonyt a Munka Törvénykönyve 10. § (1) bekezdése alapján azonnali hatállyal felszámolni, és az érvénytelenség jogkövetkezményeit alkalmazni, ha
+g) rendkívüli felmentéssel
 
-a) a közalkalmazott a 20. § (6) bekezdésében foglalt kötelezettségének a felhívástól számított tizenöt munkanapon belül nem tesz eleget, és nem igazolja, hogy a kötelezettség elmulasztása menthető ok következménye,
+ga) az Mt. 78. §-a szerinti esetben, vagy
+
+gb) a gyakornoki idő alatt.
+
+h)
+
+(3) A munkáltató köteles a közalkalmazotti jogviszonyt az Mt. 29. § (1) bekezdése alapján azonnali hatállyal megszüntetni, ha
+
+a) a közalkalmazott a 20. § (6) bekezdésében foglalt kötelezettségének a felhívástól számított tizenöt munkanapon belül nem tesz eleget és nem igazolja, hogy a kötelezettség elmulasztása menthető ok következménye,
 
 b) a 20. § (2) bekezdés a) pontjában vagy a (6) bekezdésben meghatározott kizáró ok fennállását a munkáltató a bűnügyi nyilvántartó szerv által az igazolás céljából kiállított hatósági bizonyítvány tartalma alapján megállapítja, vagy az egyéb módon a tudomására jut.
 
-(4) A közalkalmazotti jogviszony (3) bekezdésben meghatározott azonnali hatályú felszámolását indokolással, írásba foglaltan kell közölni a közalkalmazottal.
+(4) A közalkalmazotti jogviszony (3) bekezdésben meghatározott azonnali hatályú megszüntetését írásban indokolni kell.

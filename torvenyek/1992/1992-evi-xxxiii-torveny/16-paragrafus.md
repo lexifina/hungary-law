@@ -2,7 +2,7 @@
 
 a) pénzeszközök felhasználása, illetve
 
-b) intézmények és ingatlanok hasznosítása
+b)
 
 tekintetében.
 

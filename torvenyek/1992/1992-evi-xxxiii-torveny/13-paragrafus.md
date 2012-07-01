@@ -1,5 +1,1 @@
-13. § (1) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a kollektív szerződésről szóló rendelkezései közül (Második rész, III. fejezet) a 33. § (2)–(7) bekezdése, a 34–35. §, a 36. § (1)–(3) bekezdése, a 37. § (3) bekezdése, valamint a 41. § nem alkalmazható.
-
-(2) Az Mt. 39. §-ának (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy a „33. § (5) bekezdése” szövegrészen e törvény 12/A. § (4) bekezdését kell érteni.
-
-(3) Ha a közalkalmazott a Magyar Rendvédelmi Kar tagja, akkor a szakszervezeti érdekképviseletére a 4–12. §-ban foglaltak helyett a hivatásos szolgálati viszonyban állók szakszervezeti érdekképviseletére vonatkozó szabályokat kell alkalmazni. A fegyveres szervnél működő szakszervezetek vonatkozásában a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvényt nem kell alkalmazni, a fegyveres szerv a közalkalmazott illetményéből a szakszervezeti tagdíjat a fegyveres szerv és a közalkalmazott erre vonatkozó megállapodása esetén vonja le.
+13. § A közalkalmazotti jogviszony tekintetében az Mt. 277. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy kollektív szerződés az e törvény, illetve az e törvény felhatalmazása alapján kiadott rendeletek előírásaitól akkor térhet el, ha az eltérésre ezek a jogszabályok felhatalmazást adnak.

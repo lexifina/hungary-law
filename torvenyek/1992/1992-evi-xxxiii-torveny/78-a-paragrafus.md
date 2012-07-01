@@ -8,7 +8,7 @@ b) legalább hároméves közalkalmazotti jogviszonnyal rendelkezik;
 
 c) felmentési vagy lemondási idejét nem tölti;
 
-d) ellene nem folyik fegyelmi eljárás, vagy
+d)
 
 e) nem áll – a magánindítvány vagy pótmagánvádló vádindítványa alapján indult eljárás kivételével – büntetőeljárás hatálya alatt, és
 

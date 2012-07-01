@@ -1,1 +1,3 @@
-82. § Amennyiben a kollektív szerződés lehetővé teszi, hogy a munkáltató a közalkalmazottat közvetlenül kártérítésre kötelezze, és a felelősségről történő döntésig a közalkalmazotti jogviszony fennáll, a felelősség megállapítására a fegyelmi eljárás szabályait azzal az eltéréssel kell alkalmazni, hogy az eljárás megindítására az elévülésre vonatkozó rendelkezések az irányadók.
+82. § (1) A magasabb vezető a vezetői tevékenységének keretében gondatlanul okozott kárért teljes mértékben felel.
+
+(2) Amennyiben a magasabb vezető a közalkalmazotti jogviszonyát jogellenesen szünteti meg, hathavi távolléti díjával felel.

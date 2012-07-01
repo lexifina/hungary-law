@@ -1,3 +1,0 @@
-11. § (1) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a szakszervezetekről szóló rendelkezései (Második rész, II. fejezet) közül a 29. § (2)–(3) bekezdése nem alkalmazható.
-
-(2) A Munka Törvénykönyve 25. §-át azzal az eltéréssel kell alkalmazni, hogy az önkormányzat, az érintett munkáltatók és a szakszervezet megállapodása alapján, a több munkáltató szakszervezeti tagságának képviseletében az önkormányzati szintű érdekegyeztetésen eljárni jogosult szakszervezeti tisztségviselő részére a munkaidő-kedvezmény vagy annak egy része az egyes munkáltatóknál meglévő szakszervezeti taglétszám alapján összevonható. Az összevont munkaidő-kedvezmény mértéke nem haladhatja meg a tisztségviselő havi munkaidejének ötven százalékát.

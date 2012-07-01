@@ -1,3 +1,3 @@
-37/A. § (1) A közalkalmazotti jogviszony megszüntetésekor (megszűnésekor) a közalkalmazott részére az utolsó munkában töltött napon – a 37. § (10) bekezdésében foglaltak kivételével – ki kell fizetni az illetményét, egyéb járandóságait, valamint ki kell adni a közalkalmazotti jogviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat. Ha az utolsó munkában töltött napon esedékes igazolások tartalma a közalkalmazotti jogviszony megszűnésének időpontjáig módosításra, illetve kiegészítésre szorul, a munkáltató köteles a módosított igazolást a közalkalmazotti jogviszony megszűnésétől számított 3 munkanapon belül kiadni.
+37/A. § (1)
 
 (2) A közalkalmazott a munkavégzési kötelezettség alóli mentesítés idejére járó átlagkeresetre havonta egyenlő részletekben jogosult.

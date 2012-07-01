@@ -2,10 +2,14 @@
 
 ## A közalkalmazott és a munkáltató kártérítési felelőssége
 
-81. § Gondatlan károkozás esetén a közalkalmazott hathavi illetménye erejéig felel, amennyiben
+81. § Az Mt. 179. § (3) bekezdése alkalmazásában súlyosan gondatlannak minősül a károkozás különösen, ha
 
-a) a munkáltató gazdálkodására vonatkozó szabályok súlyos megsértésével,
+a) a közalkalmazott
 
-b) az ellenőrzési kötelezettség elmulasztásával, illetve hiányos teljesítésével okozta a kárt, vagy
+aa) a munkáltató gazdálkodására vonatkozó szabály – szándékosságnak nem minősülő – súlyos megsértésével, vagy
 
-c) a kár olyan — jogszabályba ütköző — utasítása teljesítéséből keletkezett, amelynek várható következményeire az utasított közalkalmazott előzőleg a figyelmét felhívta.
+ab) az ellenőrzési kötelezettség elmulasztásával, illetve hiányos teljesítésével
+
+okozta a kárt, vagy
+
+b) a kár olyan – jogszabályba ütköző – utasítás teljesítéséből keletkezett, amelynek várható következményeire az utasított közalkalmazott előzőleg a figyelmet felhívta.

@@ -64,7 +64,7 @@ V.
 
 – a minősítések időpontja és tartalma
 
-– hatályos fegyelmi büntetése
+–
 
 VI.
 

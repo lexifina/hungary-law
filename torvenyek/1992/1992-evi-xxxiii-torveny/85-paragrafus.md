@@ -2,7 +2,7 @@
 
 a) a KOMT-ban történt egyeztetést követően a reprezentativitás feltételei igazolásának rendjét,
 
-b) a közalkalmazotti pályázatnak, illetve álláshirdetésnek a Kormányzati Személyügyi Szolgáltató és Közigazgatási Képzési Központ internetes oldalán való közzétételére vonatkozó részletes szabályokat,
+b) a közalkalmazotti pályázatnak, illetve álláshirdetésnek a személyügyi központ internetes oldalán való közzétételére vonatkozó részletes szabályokat,
 
 c) az Európai Unió magyar soros elnökségében közvetlenül részt vevő közalkalmazottak kiválasztására, valamint többletmunkájukhoz és képzési többletterhükhöz kapcsolódó anyagi elismerésük feltételeire, módjára és mértékére vonatkozó szabályokat, továbbá a képzésükre és a képzéssel kapcsolatos kötelezettségükre vonatkozó eltérő szabályokat.
 

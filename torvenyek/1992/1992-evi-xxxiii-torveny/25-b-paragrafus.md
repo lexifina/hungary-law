@@ -10,4 +10,4 @@
 
 (6) Ha a munkaszerződés megkötésével (a kinevezéssel) létesített jogviszony megszűnése, illetve megszüntetése esetén a közalkalmazottat felmondási (felmentési) idő, valamint végkielégítés illeti meg, annak mértékét az átadó és az átvevő munkáltatónál jogviszonyban töltött idő együttes tartamának figyelembevételével, a jogviszonyra irányadó szabályok alapján kell megállapítani. Ettől eltérően a felmondási (felmentési) idő, valamint a végkielégítés mértékét az átadó és az átvevő munkáltatónál jogviszonyban töltött idő együttes tartamának figyelembevételével és e törvénynek az átadás napján hatályos szabályai szerint kell megállapítani, ha az a közalkalmazottra nézve kedvezőbb.
 
-(7) Ha az átadó munkáltatónál az átadás időpontjáig működött közalkalmazotti tanács (közalkalmazotti képviselő), az átadással érintett szervezeti egység közalkalmazottainak részvételi jogát az átvevő munkáltatónál a Munka Törvénykönyve 56/A–56/B. §-ában előírt rendelkezések megfelelő alkalmazásával kell biztosítani, kivéve, ha a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó átvevő munkáltatónál az érintettek vonatkozásában üzemi tanács nem hozható létre.
+(7)
