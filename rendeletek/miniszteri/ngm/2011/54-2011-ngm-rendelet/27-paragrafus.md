@@ -1,3 +1,3 @@
-## 16–26. §[^15]
+## 16–26. §[^13]
 
-[^15]: A 16–26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 16–26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
