@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-329-20-
 | 2012-01-01 | 2007-329-20-22.14 | 329/2011. (XII. 20.) Korm. rendelet |
 | 2012-04-01 | 2007-329-20-22.15 | 8/2012. (II. 1.) Korm. rendelet |
 | 2012-04-15 | 2007-329-20-22.16 | 361/2010. (XII. 30.) Korm. rendelet |
+| 2012-07-01 | 2007-329-20-22.17 | 102/2012. (V. 18.) Korm. rendelet |

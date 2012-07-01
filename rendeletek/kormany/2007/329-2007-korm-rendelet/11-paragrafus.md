@@ -1,4 +1,4 @@
-## 10/B. §[^54] A Központi Gazdasági Ellátó Igazgatóság az országos rendőrfőkapitány közvetlen irányítása alatt végzi az ORFK, a Nemzeti Nyomozó Iroda és a Bűnügyi Szakértői és Kutatóintézet pénzügyi, költségvetési, vagyongazdálkodási feladatainak ellátását.
+## 10/B. §[^53] A Központi Gazdasági Ellátó Igazgatóság az országos rendőrfőkapitány közvetlen irányítása alatt végzi az ORFK, a Nemzeti Nyomozó Iroda és a Bűnügyi Szakértői és Kutatóintézet pénzügyi, költségvetési, vagyongazdálkodási feladatainak ellátását.
 
 11. § (1) A rendőr-főkapitányság bűnüldözési, bűnmegelőzési feladatkörében:
 
@@ -14,7 +14,7 @@ e) bűnmegelőzési, bűnüldözési adatszolgáltatást lát el,
 
 f) ellátja a nemzetközi rendőri együttműködésből rá háruló feladatokat.
 
-(2)[^55] A rendőr-főkapitányság rendészeti feladatkörében:
+(2)[^54] A rendőr-főkapitányság rendészeti feladatkörében:
 
 a) értékeli és elemzi a közbiztonság illetékességi területén történő alakulását,
 
@@ -24,7 +24,7 @@ c) szervezi és végrehajtja a minősített időszaki feladatokat, egyes honvéd
 
 d) a gyülekezési jog hatálya alá tartozó rendezvényekkel kapcsolatos feladatokat lát el,
 
-e) ellátja a közúti, légi és vízi közlekedés rendjével kapcsolatos feladatokat, baleset-megelőzési tevékenységet végez,
+e)[^55] ellátja a közúti, légi és vízi közlekedés rendjével kapcsolatos feladatokat, baleset-megelőzési tevékenységet végez, biztosítja a folyamatos balesethelyszínelői tevékenység ellátását a gyorsforgalmi úthálózat tekintetében,
 
 f) a határrendészeti feladatok tekintetében szakmai irányítói jogkört gyakorol határrendészeti kirendeltségek és a határrendészeti feladatokat ellátó rendőrkapitányságok felett,
 
@@ -42,7 +42,7 @@ ge) a Budapesti Rendőr-főkapitányság és a Pest Megyei Rendőr-főkapitánys
 
 h) a Budapesti Rendőr-főkapitányság és a Pest Megyei Rendőr-főkapitányság kivételével ellátja az ideiglenes határátkelőhelyek megnyitásával kapcsolatos rendészeti feladatokat,
 
-i)[^56] a Budapesti Rendőr-főkapitányság kivételével ellátja a robbantással fenyegetett helyszínek átvizsgálását, ha azok nem tartoznak a Terrorelhárítási Központ vagy a Köztársasági Őrezred által védett létesítmények körébe,
+i)[^56] a Budapesti Rendőr-főkapitányság kivételével ellátja a robbantással fenyegetett helyszínek átvizsgálását, ha azok nem tartoznak a Terrorelhártási Központ vagy a Készenléti Rendőrség által védett létesítmények körébe,
 
 j)[^57] lefolytatja a légiközlekedésről szóló 1995. évi XCVII. törvény 66/A. § (2) bekezdésében a rendőrség hatáskörébe utalt bírságolással kapcsolatos eljárást.
 
@@ -82,15 +82,28 @@ gg)[^62] rendőrségi fogdában fogvatartott személy az elhalt,
 
 h)[^63] – a 6. § (2) bekezdés h) pontját, a 10. § (4) bekezdését és a 12. § (3) bekezdés f) és g) pontját kivéve – ellátja a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 4. §-ában foglalt, valamint a mezőőrökkel, a hegyőrökkel, a halászati őrökkel és hivatásos vadászokkal, a közterület-felügyelettel, valamint a természetvédelmi őrszolgálattal kapcsolatos, rendőrségi hatáskörbe tartozó hatósági feladatokat,
 
-i)[^64] ellátja a közúti közlekedési bírság kiszabásával kapcsolatos hatósági feladatokat, ha a közúti közlekedési bírságolási eljárás megindítására okot adó szabályszegést a rendőr-főkapitányság az ellenőrzése során állapítja meg,
+i)[^64] ellátja a közúti közlekedési bírság kiszabásával kapcsolatos hatósági feladatokat, ha a közúti közlekedési bírságolási eljárás megindítására okot adó szabályszegést a rendőr-főkapitányság az ellenőrzése során állapítja meg az alábbi esetekben:
 
-j)[^65] ellátja a határvízen történő közlekedés engedélyezésével kapcsolatos közigazgatási feladatokat.
+ia) a közúti személy- és áruszállításra vonatkozó szabályok megszegése esetén,
 
-(4)[^66] A Budapest közigazgatási területén történt közlekedési baleset következtében beállott rendkívüli haláleset kivizsgálásával kapcsolatos eljárás a Budapesti Rendőr-főkapitányság hatáskörébe tartozik.
+ib) a járművezetők vezetési és pihenőidejére vonatkozó szabályok megszegése esetén,
 
-[^54]: A 10/B. §-t a 8/2012. (II. 1.) Korm. rendelet 3. §-a iktatta be.
-[^55]: A 11. § (2) bekezdése a 30/2009. (II. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^56]: A 11. § (2) bekezdés i) pontja a 232/2010. (VIII. 19.) Korm. rendelet 16. § (1) bekezdése, a 71/2011. (IV. 28.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
+ic) a menetíró készülékek üzemeltetésére, felszerelésére vonatkozó szabályok megszegése esetén,
+
+id) a veszélyes áruk közúti szállítására vonatkozó szabályok megszegése esetén, valamint
+
+ie) azon szabályszegések esetén, amikor a közúti közlekedésről szóló törvény alapján a hatóság tagja a helyszínen határozathozatal nélkül szab ki bírságot,
+
+j)[^65] a közúti közlekedésről szóló törvényben foglaltak szerint szükség esetén intézkedik a közúti forgalomban ellenőrzés alá vont jármű visszatartására,
+
+k)[^66] ellátja a határvízen történő közlekedés engedélyezésével kapcsolatos közigazgatási feladatokat.
+
+(4)[^67] A Budapest közigazgatási területén történt közlekedési baleset következtében beállott rendkívüli haláleset kivizsgálásával kapcsolatos eljárás a Budapesti Rendőr-főkapitányság hatáskörébe tartozik.
+
+[^53]: A 10/B. §-t a 8/2012. (II. 1.) Korm. rendelet 3. §-a iktatta be.
+[^54]: A 11. § (2) bekezdése a 30/2009. (II. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^55]: A 11. § (2) bekezdés e) pontja a 102/2012. (V. 18.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^56]: A 11. § (2) bekezdés i) pontja a 232/2010. (VIII. 19.) Korm. rendelet 16. § (1) bekezdése, a 71/2011. (IV. 28.) Korm. rendelet 5. § (1) bekezdése, a 102/2012. (V. 18.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
 [^57]: A 11. § (2) bekezdés j) pontját a 361/2010. (XII. 30.) Korm. rendelet 8. §-a iktatta be.
 [^58]: A 11. § (3) bekezdés d) pontja a 247/2009. (XI. 10.) Korm. rendelet 27. § (1) bekezdésével megállapított, a 273/2010. (XII. 9.) Korm. rendelet 124. § (3) bekezdése szerint módosított szöveg.
 [^59]: A 11. § (3) bekezdés f) pontja a 334/2009. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
@@ -98,6 +111,7 @@ j)[^65] ellátja a határvízen történő közlekedés engedélyezésével kapc
 [^61]: A 11. § (3) bekezdés g) pontját a 247/2009. (XI. 10.) Korm. rendelet 39. § e) pontja hatályon kívül helyezte, újonnan a 334/2009. (XII. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^62]: A 11. § (3) bekezdés g) pont gg) alpontját a 148/2010. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
 [^63]: A 11. § (3) bekezdés h) pontja a 247/2009. (XI. 10.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^64]: A 11. § (3) bekezdés i) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja hatályon kívül helyezte, újonnan a 247/2009. (XI. 10.) Korm. rendelet 27. § (2) bekezdése iktatta be. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^65]: A 11. § (3) bekezdés j) pontját a 71/2011. (IV. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^66]: A 11. § (4) bekezdését a 334/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^64]: A 11. § (3) bekezdés i) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja hatályon kívül helyezte, újonnan a 247/2009. (XI. 10.) Korm. rendelet 27. § (2) bekezdése iktatta be, szövege a 102/2012. (V. 18.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^65]: A 11. § (3) bekezdés j) pontját a 71/2011. (IV. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 102/2012. (V. 18.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^66]: A 11. § (3) bekezdés k) pontját a 102/2012. (V. 18.) Korm. rendelet 18. §-a iktatta be.
+[^67]: A 11. § (4) bekezdését a 334/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
