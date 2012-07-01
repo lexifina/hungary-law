@@ -8,4 +8,8 @@ b) a szolgáltatás során felmerülő hiányosságok időben történő felisme
 
 c) a hiányosságok okainak feltárása, az azokból fakadó költségek, károk csökkentése,
 
-d) a szakmai és minőségügyi követelményeknek való megfelelés és a saját követelményrendszer fejlesztése.
+d) a szakmai és működési követelményeknek való megfelelés és a saját követelményrendszer fejlesztése,
+
+e) a betegek jogainak, igényeinek és véleményének figyelembe vétele,valamint
+
+f) hatékony és biztonságos munkavégzést támogató környezet biztosítása belső követelményrendszer fejlesztése során.

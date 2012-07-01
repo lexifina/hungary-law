@@ -12,10 +12,18 @@ b) az a) pontban meghatározott eseteken kívül bármely olyan körülmény kia
 
 (3) Különleges jogrend bevezetésekor a katasztrófa-egészségügyi ellátásra vonatkozó rendelkezéseket kell alkalmazni, azonban ez esetben nem szükséges az egészségügyi válsághelyzet kihirdetése.
 
-(4) Különleges jogrenden kívül valamely eseményt
+(4) Különleges jogrenden kívüli eseményt
 
-a) – ha az egy megye területét érinti – a megyei vagy fővárosi tisztifőorvos javaslatára az egészségügyi védelmi bizottság,
+a) ha a (2) bekezdés a) pontja szerinti egészségügyi válsághelyzet
 
-b) – ha az több megye vagy az ország teljes területét érinti – az országos tisztifőorvos javaslatára a Kormány
+aa) egy megye területét érinti – a megyei vagy fővárosi tisztifőorvos javaslatára a megyei vagy fővárosi védelmi bizottság elnöke,
 
-minősítheti egészségügyi válsághelyzetnek.
+ab) több megyét érint, az országos tisztifőorvos javaslatára a miniszter,
+
+b) ha a (2) bekezdés b) pontja szerinti egészségügyi válsághelyzet
+
+ba) egy megye területét érinti – az országos tisztifőorvos egyetértésével a megyei vagy fővárosi tisztifőorvos,
+
+bb) több megyét érint, az országos tisztifőorvos javaslatára a miniszter
+
+minősíthet egészségügyi válsághelyzetnek.

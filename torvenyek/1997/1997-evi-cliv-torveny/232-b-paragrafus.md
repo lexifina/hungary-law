@@ -1,7 +1,9 @@
-232/B. § Az egészségügyi válsághelyzet kezeléséhez szükséges feladatok összehangolt koordinálását és irányítását – kormányrendeletben meghatározottak szerint –
+232/B. § (1) A katasztrófa-egészségügyi ellátást országos szinten az országos tisztifőorvos közreműködésével a miniszter, kihirdetett veszélyhelyzetben a Kormány a miniszter útján az országos tisztifőorvos közreműködésével irányítja.
 
-a) a 228. § (4) bekezdés a) pontja szerinti egészségügyi válsághelyzet esetén az egészségügyi védelmi bizottság,
+(2) Az egészségügyi válsághelyzet kezeléséhez szükséges feladatok helyi szintű összehangolt koordinálását és irányítását
 
-b) a 228. § (4) bekezdés b) pontja szerinti egészségügyi válsághelyzet esetén a Kormány és a miniszter
+a) a 228. § (2) bekezdés a) pontja szerinti egészségügyi válsághelyzet esetén a megyei, fővárosi védelmi bizottság,
+
+b) a 228. § (2) bekezdés b) pontja szerinti egészségügyi válsághelyzet esetén a megyei tisztifőorvos
 
 látja el.

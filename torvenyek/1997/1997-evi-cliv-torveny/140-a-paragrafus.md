@@ -1,9 +1,5 @@
-140/A–140/E. §
+## Egyes egészségügyi dolgozók szervezett érdekvédelme
 
-## VII. Fejezet
+140/A. § (1) A központi gyakornokokat, illetve rezidenseket foglalkoztató egészségügyi szolgáltatónál – az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló központi gyakornokok, illetve rezidensek részvételével – helyi érdekképviseleti szerv hozható létre, amely előzetes véleményt nyilvánít a központi gyakornokokat, illetve rezidenseket érintő döntéseket megelőzően.
 
-## AZ ÁLLAM FELELŐSSÉGE A LAKOSSÁG EGÉSZSÉGI ÁLLAPOTÁÉRT, AZ EGÉSZSÉGÜGY SZERVEZÉSE ÉS IRÁNYÍTÁSA
-
-1. CÍM
-
-Az állam felelőssége a lakosság egészségi állapotáért
+(2) Az (1) bekezdés szerint létrehozott helyi érdekképviseleti szervek országos érdekképviseleti szervet hozhatnak létre.

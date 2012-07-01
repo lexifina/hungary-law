@@ -46,7 +46,7 @@ d) idegen nyelv vagy nyelvek ismeretének szintje, típusa, az arról kiállíto
 
 e) a korlátozott alkalmasság ténye,
 
-f) a munkahely, illetve a munkavégzésre irányuló egyéb jogviszony alapján történő egészségügyi tevékenységvégzés helye, megnevezése, címe, a szakterület megnevezése, amely területen az egészségügyi dolgozó munkát végez, a munkavégzésre irányuló jogviszony jellege,
+f) a munkahely, illetve a munkavégzésre irányuló egyéb jogviszony alapján történő egészségügyi tevékenységvégzés helye, megnevezése, címe, a szakterület megnevezése, amely területen az egészségügyi dolgozó munkát végez, a munkavégzésre irányuló jogviszony jellege, a szolgáltató ellátási szintje (alapellátás, járóbeteg-ellátás, fekvőbeteg-ellátás), valamint – alkalmazott egészségügyi dolgozó esetén – az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 12. §-ában meghatározott munkarendje, illetve munkavégzési formája, valamint az önként vállalt többletmunka ténye és mértéke, a heti munkaidő,,
 
 g) a működési nyilvántartás meghosszabbításának kezdő, befejező dátuma, a meghosszabbítás alapjául szolgáló, az egészségügyi tevékenység szüneteltetésének oka, kezdő, befejező dátuma,
 

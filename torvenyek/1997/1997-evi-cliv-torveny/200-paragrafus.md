@@ -4,9 +4,13 @@
 
 (2) A kötelező gyógykezelés elrendelésére irányuló eljárást az annak szükségességét megállapító pszichiátriai gondozóintézet szakorvosa, büntetőeljárás során elrendelt kényszergyógykezelés megszűnése esetén, amennyiben a beteg további intézeti gyógykezelése szükséges – az elbocsátás esedékessége napjának megjelölésével – a kényszergyógykezelést végző szerv főigazgató főorvosa a bíróság értesítésével kezdeményezi és javaslatot tesz a gyógykezelést végző pszichiátriai intézetre.
 
+(2a) A kötelező gyógykezelés elrendelésére irányuló eljárást az ügyész kezdeményezi a büntetőeljárást követően, ha a büntetendő cselekmény elkövetőjénél a kényszergyógykezelés egyéb törvényi feltételei fennállnak, azonban az elkövető büntethetősége esetén egyévi szabadságvesztésnél nem súlyosabb büntetést kellene kiszabni.
+
 (3) A bíróság az értesítés kézhezvételétől számított 15 napon belül határoz a kötelező intézeti gyógykezelés elrendeléséről.
 
-(4) A bíróság a határozat meghozatala előtt meghallgatja a beteget és a meghallgatásra idézett független – a beteg gyógykezelésében részt nem vevő – igazságügyi elmeorvos-szakértőt, valamint az eljárást kezdeményező szakorvost.
+(4) A (2) bekezdés szerinti eljárás esetén a bíróság a határozat meghozatala előtt meghallgatja a beteget és a meghallgatásra idézett független – a beteg gyógykezelésében részt nem vevő – igazságügyi elmeorvos szakértőt, valamint az eljárást kezdeményező szakorvost.
+
+(4a) A (2a) bekezdés szerinti eljárás esetén, a bíróság a határozat meghozatala előtt meghallgatja a beteget, a beteg gyógykezelésében részt vevő szakorvost és a meghallgatásra idézett független – a beteg gyógykezelésében részt nem vevő – igazságügyi elmeorvos szakértőt.
 
 (5) Ha a beteg a bíróság idézésére nem jelenik meg, a bíróság elrendelheti elővezetését. Egyéb kényszerítő eszköz azonban nem alkalmazható.
 

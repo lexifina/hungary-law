@@ -8,7 +8,7 @@ c) a meghatározott időtartamra és helyszínre szóló, egészségügyi tevék
 
 d) a nemzeti vérkészlettel való gazdálkodás, különös tekintettel a vérkészítmények külföldről történő behozatalára, illetőleg külföldre történő kivitelére vonatkozó szabályokat,
 
-e) a katasztrófa-egészségügyi ellátásra vonatkozó részletes szabályokat, a Kormány 232/B. § szerinti feladat- és hatásköreit, az egészségügyi védelmi bizottság összetételére, feladat- és hatáskörére, illetékességére vonatkozó szabályokat,
+e) a katasztrófa-egészségügyi ellátásra vonatkozó részletes szabályokat, a katasztrófa-egészségügyi ellátás során megtehető intézkedésekre, az egészségügyi dolgozók kirendelésére, a katasztrófa-egészségügyi ellátásra való felkészülésre, az egyes egészségügyi válsághelyzetek kezelésére vonatkozó részletes szabályokat
 
 f) az egészségügyi szolgáltatók felelősségbiztosítására vonatkozó részletes szabályokat,
 
@@ -20,7 +20,7 @@ i) az állami mentőszolgálat vagy mentőszolgálatok kijelölését és az ál
 
 j) az állami vérellátó szolgálat vagy szolgálatok kijelölését és az állami vérellátó szolgálat működésére vonatkozó részletes szabályokat,
 
-k) a betegjogi képviselőt foglalkoztató, az egészségügyi dokumentációt kezelő és a betegjogok érvényesülését elősegítő szervet kijelölje, valamint jogállását, feladat- és hatáskörét,
+k) a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató, az egészségügyi dokumentációt kezelő és a betegjogok érvényesülését elősegítő szervet kijelölje, valamint jogállását, feladat- és hatáskörét, a betegjogi, ellátottjogi és gyermekjogi képviselő jogállását és eljárását, a betegjogi, ellátottjogi és gyermekjogi képviselői szervezetre vonatkozó részletes szabályokat, valamint a betegjogi, ellátottjogi és gyermekjogi nyilvántartás vezetésének szabályait, továbbá a betegjogi, ellátottjogi és gyermekjogi képviselők továbbképzésére vonatkozó szabályokat,
 
 l) a külön jogszabály szerinti beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyt kiadó szervet,
 
@@ -42,7 +42,9 @@ t) a természetes fürdővizek minőségellenőrzéséhez szükséges mintavéte
 
 u) az emberen végzett orvostudományi kutatások engedélyezési eljárásának részletes szabályait,
 
-v) az intézeten kívüli szülés szakmai szabályait, feltételeit és kizáró okait
+v) az intézeten kívüli szülés szakmai szabályait, feltételeit és kizáró okait,
+
+w) a holttest hűtésének naponkénti legmagasabb árát
 
 rendeletben megállapítsa.
 
@@ -50,7 +52,7 @@ rendeletben megállapítsa.
 
 a) a kereskedelemért felelős miniszterrel egyetértésben a vásári, a piaci és a vásárcsarnoki árusítás közegészségügyi-járványügyi szabályait,
 
-b) a betegjogi képviselő jogállására és eljárására, valamint a betegjogi és ellátottjogi képviselői szervezetre vonatkozó részletes szabályokat,
+b)
 
 c) az oktatásért felelős miniszterrel egyetértésben az egészségnevelés szakmai tartalmára, továbbá az illetékes miniszterrel egyetértésben egyes népegészségügyi ellátások szakmai tartalmára vonatkozó részletes szabályokat,
 
@@ -80,7 +82,7 @@ f) az egyes egészségügyi ellátásokra vonatkozó részletes szabályokat,
 
 g) az egészségügyi szolgáltatásokkal kapcsolatban:
 
-ga) az egészségügyi szolgáltatás megkezdésére és gyakorlására, a gyakorlás képesítési feltételeire, az egészségügyi szolgáltatás gyakorlásához szükséges képzés tartalmának meghatározására, az egészségügyi szolgáltatók szakmai felügyeletére vonatkozó részletes szakmai szabályokat, továbbá az egészségügyi szolgáltatás folytatásához szükséges tárgyi feltételeket,
+ga) az egészségügyi szolgáltatás megkezdésére és gyakorlására, a gyakorlás képesítési feltételeire, az egészségügyi szolgáltatás gyakorlásához szükséges képzés tartalmának meghatározására vonatkozó részletes szakmai szabályokat, továbbá az egészségügyi szolgáltatás folytatásához szükséges tárgyi feltételeket,
 
 gb) a kizárólag gyógyintézetben vagy fekvőbeteg-gyógyintézetben nyújtható egészségügyi szolgáltatásokat,
 
@@ -95,6 +97,10 @@ gf) gyógyintézet vezetőjének és vezetőhelyetteseinek képesítési követe
 gg) az egészségügyi szakértői szakterületeket, a szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység végzésére jogosító engedély kiadásával, illetve bejelentés megtételével összefüggő eljárás részletes szabályait, az engedélyezési és bejelentési eljárás részletes szabályait, a bejelentés és nyilvántartás személyes adatot nem tartalmazó adattartalmát és a vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 
 gh) az egyes egészségügyi szakképesítésekhez tartozó tevékenységi kompetenciákat,
+
+gi) az egészségügyi rendszer teljesítményértékelésére vonatkozó részletes szabályokat, a teljesítményértékelés intézményrendszerét, az egyes indikátorok meghatározásának és gyűjtésének, valamint az egészségpolitikai döntéshozatal során az értékelések felhasználásának szabályait,
+
+gj) az egészségügyi szolgáltatók akkreditációs felülvizsgálatát végző szervet kijelölje, valamint az egészségügyi szolgáltatók hatósági szakfelügyeletére, illetve a szakmai munka minőségügyi értékelésére vonatkozó szakmai szabályokat, továbbá az egészségügyi szolgáltatók akkreditációjának és tanúsításának követelményeit, feltételeit, az akkreditációs dokumentum és a tanúsító okirat tartalmi és formai követelményeit,
 
 h) az egészségügyi szakképesítést szerzett személyek alapnyilvántartására, valamint az egészségügyi dolgozók működési nyilvántartására vonatkozó részletes szabályokat, továbbá a működési nyilvántartásba vételt igazoló hatósági igazolvány kiállítására vonatkozó részletes szabályokat és az alapnyilvántartásba felvehető szakképesítések körét,
 
@@ -164,9 +170,9 @@ sz) a rendszeres étkezést biztosító, szervezett élelmezési ellátás keret
 
 t) a vérkészítmények terápiás felhasználásának részletes szabályait,
 
-u) az egységes ágazati humánerőforrás-monitoringrendszer működésének részletes szabályait
+u) az egységes ágazati humánerőforrás-monitoringrendszer működésének részletes szabályait,
 
-v)
+v) az orvosi bélyegzők adattartalmára, kérelmezésére, kiállítására, cseréjére, visszavonására, valamint – az államháztartásért felelős miniszterrel egyetértésben – az ezzel kapcsolatos igazgatási szolgáltatási díjakra vonatkozó szabályokat
 
 w) az Állami Egészségügyi Tartalékkal való gazdálkodás részletes szabályait, valamint
 
@@ -175,3 +181,81 @@ x) a természetes gyógytényezőkre vonatkozó részletes szabályokat,
 y) a pszichiátriai betegekre vonatkozó korlátozó intézkedések alkalmazására, az időszakos ellenőrzésre, a gondoskodásra, ezek dokumentálására, valamint az elrendelés időtartamára vonatkozó részletes szabályokat,
 
 z) az egészségügyi szolgáltatóknál végezhető egészségügyi ellátások nyilvántartására és a nyilvántartásba vételére vonatkozó szabályokat,
+
+zs) a közúti járművezetői engedély megszerzéséhez szükséges elsősegély-nyújtási ismeretek megszerzésének részletes szabályait, továbbá a gépjárművezetők egészségi alkalmassága elbírálásának szabályait
+
+rendeletben állapítsa meg.
+
+(3) Felhatalmazást kap a miniszter, hogy
+
+a) az EFE központi és regionális részéből megszerezhető forrásokra irányuló pályázatok eljárási szabályait,
+
+b) az egészségfejlesztési programok akkreditációs eljárásának szabályait,
+
+c) a közfürdők létesítésére, üzemeltetésére, valamint a közfürdők és kútjaik védőterületére vonatkozó részletes szakmai előírásokat, továbbá az üzemeltetéshez szükséges képesítési előírásokat,
+
+d) az egészségügyi kockázattal járó egyes nem egészségügyi tevékenységek egészségügyi kockázatának csökkentésére irányuló szakmai szabályokat,
+
+e) a gyermekágyas és az újszülöttellátás szabályait
+
+f) az egészségügyi szakdolgozó által, orvosi elrendelésre önállóan is ellátható tevékenységek felelősségi, szakmai, szakképesítési és szakképzettségi feltételeit,
+
+g) az egészségügyi tevékenységet e törvény alapján felügyelet mellett végzők felügyeletének módjával, illetve a felügyelet szintjével kapcsolatos szabályokat
+
+rendeletben állapítsa meg.
+
+(4) Felhatalmazást kap a miniszter, hogy a nem-konvencionális tevékenységeket, az egyes tevékenységek végzésére jogosult személyek körét, valamint e tevékenységek végzésével, a képesítés megszerzésével összefüggő szakmai szabályokat rendeletben állapítsa meg.
+
+(5) Felhatalmazást kap
+
+a) a büntetés-végrehajtásért felelős miniszter, valamint a rendészetért felelős miniszter, hogy – a miniszterrel egyetértésben – a fogvatartottak egészségügyi ellátására vonatkozó szabályokat,
+
+b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek kijózanítás céljából az illetékes egészségügyi szolgáltatóhoz történő szállításának szabályait,
+
+c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
+
+ca) az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokkal – ideértve a szakhatósági eljárást is –, továbbá az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyási eljárásával összefüggő igazgatási szolgáltatásokért,
+
+cb) az egészségügyi szolgáltatók működési engedélyezésével kapcsolatosan,
+
+cc) az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásával összefüggésben,
+
+cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgálat engedélyezési eljárásáért,
+
+ce) az egységes ágazati humánerőforrás-monitoringrendszert működtető szerv részére az igazgatási szolgáltatásainak igénybevételéért,
+
+cf) az egészségügyi szakértők tevékenységének engedélyezéséért,
+
+cg) az egészségfejlesztési programok akkreditációjáért,
+
+ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért,
+
+ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek bejelentéséért, nyilvántartásba vételéért, a különleges táplálkozási célú élelmiszer csomagolására előírt kötelezettség alóli felmentés engedélyezésére irányuló eljárásáért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezésére irányuló eljárásáért, az új élelmiszerek elsődleges értékeléséhez szükséges szakvélemények elkészítéséért, az élelmiszerek alkalmi árusításának engedélyezésére irányuló eljárásáért, valamint a vendéglátótermékek végső fogyasztó részére történő kiszállítására irányuló tevékenység engedélyezésére irányuló eljárásáért, igazgatási jellegű szolgáltatásáért,
+
+cj)
+
+ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért,
+
+fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket,
+
+d) a miniszter, hogy az oktatásért felelős miniszterrel és a sportpolitikáért felelős miniszterrel egyetértésben a közoktatási intézményekben történő teljeskörű egészségfejlesztésre vonatkozó részletes szabályokat
+
+rendeletben állapítsa meg.
+
+(6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) – szabályozási tárgykörben – az Európai Parlament és a Tanács 2005/36/EK irányelve (2005. szeptember 7.) a szakmai képesítések elismeréséről, 21–45. cikk, 56. cikk (2) bekezdése;
+
+b) a Tanács 93/42/EGK irányelve (1993. június 14.) az orvostechnikai eszközökről;
+
+c) az Európai Parlament és a Tanács 2007/47/EK irányelve (2007. szeptember 5.) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról;
+
+d) az Európai Parlament és a Tanács 2004/23/EK irányelve (2004. március 31.) az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára, feldolgozására, megőrzésére, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról;
+
+e) az Európai Parlament és a Tanács 2010/53/EU irányelve (2010. július 7.) az átültetésre szánt emberi szervekre vonatkozó minőségi és biztonsági előírások megállapításáról;
+
+f) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv. 107m. cikk (3) és (4) bekezdések, 107n. cikk (2) bekezdés;
+
+g)–i)
+
+j) a Tanács 1996. május 13-i 96/29/EURATOM irányelve a munkavállalók és a lakosság egészségének az ionizáló sugárzásból származó veszélyekkel szembeni védelmét szolgáló alapvető biztonsági előírások megállapításáról,

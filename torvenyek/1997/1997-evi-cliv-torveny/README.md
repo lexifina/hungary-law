@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2012-03-01 | 2011. évi CLXXV. törvény | 1997-154-00-00.50 |
 | 2012-04-28 | 2012. évi XXXVIII. törvény | 1997-154-00-00.51 |
 | 2012-06-28 | 2012. évi LXXIX. törvény | 1997-154-00-00.52 |
+| 2012-07-01 | 2012. évi LXXIX. törvény | 1997-154-00-00.53 |

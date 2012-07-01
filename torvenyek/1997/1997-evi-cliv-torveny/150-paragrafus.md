@@ -16,7 +16,9 @@ f) egészségügyi szakmai felügyelet gyakorlása körében módszertani és sz
 
 g) irányítja az egészségügy területén működő országos intézeteket, valamint az állam tulajdonába, illetve fenntartásába tartozó fekvőbeteg-szakellátást vagy fekvőbeteg- és hozzá kapcsolódó járóbeteg-szakellátást végző egészségügyi szolgáltatókat,
 
-h) meghatározza és összehangolja a gyógyszerek, gyógyászati segédeszközök, orvostechnikai eszközök előállításával, forgalmazásával és rendelésével kapcsolatos tevékenységeket.
+h) meghatározza és összehangolja a gyógyszerek, gyógyászati segédeszközök, orvostechnikai eszközök előállításával, forgalmazásával és rendelésével kapcsolatos tevékenységeket,
+
+i) meghatározza az egészségügyi rendszer teljesítményértékelésére vonatkozó részletes szabályokat, a teljesítményértékelés intézményrendszerét, az egyes indikátorok meghatározásának és gyűjtésének, valamint az egészségpolitikai döntéshozatal során az értékelések felhasználásának szabályait.
 
 (2) A miniszter ágazati irányító jogköre kiterjed minden egészségügyi tevékenységre, illetőleg – jogállásától függetlenül – minden egészségügyi szolgáltatóra.
 
