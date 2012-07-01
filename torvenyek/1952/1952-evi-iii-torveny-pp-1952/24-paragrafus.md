@@ -6,7 +6,7 @@
 
 a) tartási vagy élelmezési követelés, egyéb járadék, más időszakos szolgáltatás vagy haszonvétel iránti perben a még teljesítendő valamennyi szolgáltatás értékét, de nem többet, mint az egy évi szolgáltatás értékét;
 
-b) a munkaügyi perben – feltéve, hogy a per tárgya nem pénzkövetelés – az egyévi átlagkereset, ha a perben maga a munkaviszony vitás, ha pedig a jogvita csak bérkülönbözettel kapcsolatos, a bérkülönbözet egyévi összegét;
+b) a munkaügyi perben – feltéve, hogy a per tárgya nem pénzkövetelés – az egyévi távolléti díjat, ha a perben maga a munkaviszony vitás, ha pedig a jogvita csak bérkülönbözettel kapcsolatos, a bérkülönbözet egyévi összegét;
 
 c) bérleti vagy haszonbérleti jogviszonyra vonatkozó perben az egyévi bér, illetőleg haszonbér összegét;
 
