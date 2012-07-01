@@ -1,3 +1,0 @@
-5/C. § (1) A Kormány országos jelentőséggel bíró esetben a személyszállítási szolgáltatásokhoz kapcsolódó eszközök, különösen az utastájékoztatási rendszer, az elektronikus jegy- és bérletrendszer, a jegyértékesítő és jegyellenőrző rendszer, valamint a járművek és infrastruktúra elemek üzemeletetésére, fejlesztésére és fejlesztésnek nem minősülő beruházására egységes fejlesztési koncepciót állapíthat meg.
-
-(2) Közvetlen vagy közvetett állami vagy önkormányzati tulajdonban lévő közlekedési szolgáltató által végzett személyszállítási szolgáltatásokat érintő, valamint állami forrásból vagy európai uniós forrásból megvalósuló fejlesztést kizárólag a Kormány által jóváhagyott koncepció keretei között lehet finanszírozni és lebonyolítani.
