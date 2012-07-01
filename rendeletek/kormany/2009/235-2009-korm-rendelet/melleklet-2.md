@@ -164,7 +164,7 @@
 
 | 6. | Csongrád megye | Csongrád Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
 
-| 7. | Fejér megye | Veszprém Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
+| 7. | Fejér megye | Fejér Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
 
 | 8. | Győr-Moson-Sopron megye | Győr-Moson-Sopron Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
 
@@ -174,7 +174,7 @@
 
 | 11. | Jász-Nagykun-Szolnok megye | Jász-Nagykun-Szolnok Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
 
-| 12. | Komárom-Esztergom megye | Veszprém Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
+| 12. | Komárom-Esztergom megye | Komárom-Esztergom Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
 
 | 13. | Nógrád megye | Nógrád Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
 
@@ -191,4 +191,4 @@
 | 19. | Zala megye | Zala Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
 
 [^16]: A 42. §-t a 73/2011. (IV. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^17]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 259. § (2) bekezdése iktatta be.
+[^17]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 259. § (2) bekezdése iktatta be, szövege a 137/2012. (VI. 29.) Korm. rendelet 60. §-a szerint módosított szöveg.
