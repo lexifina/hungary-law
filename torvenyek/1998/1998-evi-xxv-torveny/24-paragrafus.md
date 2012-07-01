@@ -362,6 +362,8 @@ TMA–2 (2,4,5-trimetoxiamfetamin)
 
 B) Jegyzék:
 
+B) Jegyzék:
+
 Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotrop anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény II. Jegyzékén szereplő pszichotrop anyagokkal azonos elbírálás alá esnek Magyarországon, azaz gyógyászati célra alkalmazható, szigorúan ellenőrzött szerek:
 
 |
@@ -423,6 +425,14 @@ Poppy straw
 |
 
 A levágott máknövény minden része; azonban a magok a tokból való kifejtés és tisztítás után nem minősülnek ellenőrzött szernek
+
+|
+
+Tapentadol (tapentadol)
+
+|
+
+3-[(2R,3R)-1-(dimethylamino)-2-methylpentan-3-yl]- phenol
 
 – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
 
