@@ -1,6 +1,6 @@
 ## 9. Műemlékekkel kapcsolatos építési beruházás
 
-15. § (1) Műemlékkel kapcsolatos építési beruházásnak az olyan építési beruházás minősül, amellyel kapcsolatos építésügyi hatósági engedélyezési eljárás lefolytatása a kulturális örökségvédelmi hatóság jogkörébe tartozik.
+15. § (1)[^1] Műemlékkel kapcsolatos építési beruházás alatt a kulturális örökség védelméről szóló törvényben meghatározott műemléken végzett, építésügyi hatósági engedélyhez kötött építési tevékenységnek minősülő építési beruházást kell érteni.
 
 (2) Műemlékkel kapcsolatos építési beruházásra vonatkozó közbeszerzési eljárás esetén az ajánlatkérő a közbeszerzési eljárásban az alkalmasság és a kizáró okok igazolásának módjáról szóló külön jogszabályban foglaltakkal összhangban a műszaki és szakmai alkalmasság körében köteles előírni:
 
@@ -17,3 +17,5 @@ bc) műemléki épületkutató, ha ez az építési engedély alapján szükség
 (3) Amennyiben az alkalmasság igazolásához nem Magyarországon teljesített referencia kerül ismertetésre, műemlék alatt az adott ország jogrendje szerinti műemléki vagy azzal egyenértékű besorolást kell érteni.
 
 (4) A műemléki védelem alatt álló ingatlanok építési beruházási dokumentációjának az 1. mellékletben foglaltakon felül legalább a 2. mellékletben foglalt – az építési engedélyben jóváhagyott – dokumentumokat is tartalmaznia kell.
+
+[^1]: A 15. § (1) bekezdése a 134/2012. (VI. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
