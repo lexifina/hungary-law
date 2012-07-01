@@ -8,7 +8,7 @@ b) a programban részt vevő rendelkezik legalább huszonöt év közszférában
 
 c) a programban részt vevő további foglalkoztatására
 
-ca) a Kttv. 63. § (1) bekezdésében, a Kjt. 30. § (1) bekezdés a) vagy b) pontjában meghatározott okból, vagy az Mt. 89. § (3) bekezdése szerint a munkáltató működésével összefüggő okból nincs lehetőség, vagy
+ca) a Kttv. 63. § (1) bekezdésében, a Kjt. 30. § (1) bekezdés a) vagy b) pontjában meghatározott okból, vagy az Mt. 66. § (2) bekezdése szerint a munkáltató működésével összefüggő okból nincs lehetőség, vagy
 
 cb) a Kttv. 63. § (1) bekezdés b) pontja szerinti felmentés miatt nincs lehetőség, és
 

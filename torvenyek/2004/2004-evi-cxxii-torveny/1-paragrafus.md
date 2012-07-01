@@ -4,7 +4,7 @@ a) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a to
 
 b) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény [Kjt.] hatálya alá tartozó közalkalmazottakra, valamint munkáltatójukra, illetőleg
 
-c) a Munka Törvénykönyvéről szóló törvény (a továbbiakban: Mt.) hatálya alá tartozó, a Kttv.-ben meghatározott közigazgatási szervnél foglalkoztatott munkavállalóra és munkáltatójára,
+c) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) hatálya alá tartozó, a Kttv.-ben meghatározott közigazgatási szervnél foglalkoztatott munkavállalóra és munkáltatójára,
 
 d) a 4/A., az 5. és a 6/A. § kivételével az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény 2007. szeptember 24-én hatályos mellékletében felsorolt, azon 100%-os állami tulajdonú munkáltatókra és azok munkavállalóira, amelyekre a prémiumévek programot a munkáltató főtevékenysége szerint feladatkörrel rendelkező miniszter rendeletével kiterjeszti,
 

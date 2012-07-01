@@ -28,7 +28,7 @@ d) állami vezetők esetén a központi államigazgatási szervekről, valamint 
 
 e) az 1. § (3) bekezdésének b) pontjában meghatározott személy esetében az őt külön jogszabály alapján megillető díj
 
-együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4) bekezdésében foglaltak megfelelő alkalmazásával kell megállapítani;
+együttes összege. A rendszeres illetménypótlékot az Mt. 147. §-ában és a 151. § (2)–(4) bekezdésében foglaltak megfelelő alkalmazásával kell megállapítani;
 
 5. nonprofit szervezet:
 
@@ -46,4 +46,4 @@ f) az országos sportági szakszövetség;
 
 6. kinevezés: a munkaszerződés is;
 
-7. felmentés: a rendes felmondás is.
+7. felmentés: a felmondás is.
