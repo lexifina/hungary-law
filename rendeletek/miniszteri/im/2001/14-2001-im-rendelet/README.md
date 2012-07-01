@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-14-20-0
 | 2010-06-01 | 2001-14-20-06.6 | 27/2010. (V. 11.) IRM rendelet |
 | 2011-09-15 | 2001-14-20-06.7 | 26/2011. (VIII. 31.) KIM rendelet |
 | 2012-01-01 | 2001-14-20-06.8 | 40/2011. (XII. 30.) KIM rendelet |
+| 2012-07-01 | 2001-14-20-06.9 | 31/2012. (VI. 29.) KIM rendelet |
