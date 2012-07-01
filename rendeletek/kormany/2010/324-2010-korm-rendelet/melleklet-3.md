@@ -52,13 +52,15 @@
 
 ## B. Műemléket, műemléki környezetet, műemléki jelentőségű területet, valamint történeti tájat érintő, más hatóságok előtt indult eljárásokban
 
-| I. | A műemléki környezetet, illetve külön jogszabályban meghatározott esetben műemléket érintő, más hatóságok előtt indult eljárásokban a Hivatal és a szakigazgatási szerv szakhatósági feladatkörébe tartozó szakkérdések: |
+| I. | A műemléki környezetet, érintő, más hatóságok előtt indult eljárásokban a Hivatal és a szakigazgatási szerv szakhatósági feladatkörébe tartozó szakkérdések: |
 
 | 1. | A tervezett beavatkozás hatása az egyedileg védett műemlék történeti környezetbe ágyazott, illetve egyedi megjelenésére, értékei érvényesülésére, használatára, különösen a – nappali és éjszakai – látvány, a térbeli kapcsolatok és arányok tekintetében. |
 
 | 2. | A tervezett beavatkozással kialakuló építmény, berendezés illeszkedése az egyedileg védett műemlék tömegalakításához, homlokzatképzéséhez, szín- és anyaghasználatához. |
 
 | 3. | A tervezett rendeltetés méltó illeszkedése az egyedileg védett műemlék funkciójához, jellegéhez és környezetéhez. |
+
+| 4. | A telekalakítással kapcsolatos örökségvédelmi szakhatósági állásfoglalás során a történeti telektulajdonságokat (telekméret, telekforma, telekosztási struktúra, megközelítési lehetőség), az ingatlan kulturális örökségi elem elválaszthatatlan részeként kell tekintetbe venni, ezért a történeti telekstruktúra fennmaradását nem veszélyeztető telekalakításhoz adható hozzájárulás. |
 
 | II. | A műemléki jelentőségű területet érintő, más hatóságok előtt indult eljárásokban a Hivatal és a szakigazgatási szerv szakhatósági feladatkörébe tartozó szakkérdések: |
 
@@ -90,6 +92,8 @@
 
 | 3.4. | a reklámhordozóknak, fényforrásoknak, illetve egyéb homlokzati szerelvényeknek és berendezéseknek a terület, illetve épület történeti jellegéhez illeszkedő alkalmazása. |
 
+| 4. | A telekalakítással kapcsolatos örökségvédelmi szakhatósági állásfoglalás során a történeti telektulajdonságokat (telekméret, telekforma, telekosztási struktúra, megközelítési lehetőség), az ingatlan kulturális örökségi elem elválaszthatatlan részeként kell tekintetbe venni, ezért – így különösen hagyományos (történeti) települések bel és külterületén – a történeti telekstruktúra fennmaradását nem veszélyeztető telekalakításhoz adható hozzájárulás. |
+
 | III. | A történeti tájat érintő, más hatóságok előtt indult eljárásokban a Hivatal és a szakigazgatási szerv szakhatósági feladatkörébe tartozó szakkérdések: |
 
 | 1. | A történeti táj teljes területén azon jellemzők fennmaradásának és érvényesülésének biztosítása, amelyek a történeti tájjá nyilvánításról szóló rendeletben védendő értékként meghatározásra kerültek. |
@@ -102,30 +106,56 @@
 
 | 2.3. | a természet és az emberi tevékenység egymásra hatása eredményeként kialakult tájkép és annak jellegzetes elemeinek, valamint esztétikai minőségének – a táj- és természetvédelem szempontjainak figyelembevételével megvalósuló – kulturális örökségvédelmi szemléletű megőrzése. |
 
-3. melléklet a 324/2010. (XII. 27.) Korm. rendelethez[^6]
+| IV. | A műemléken megvalósuló tevékenységre irányuló, más hatóságok előtt indult eljárásokban a Hivatal és a szakigazgatási szerv szakhatósági feladatkörébe tartozó szakkérdések: |
 
-A Kulturális Örökségvédelmi Hivatal és a kulturális örökségvédelmi szakigazgatási szervek telekalakítási eljárásában közreműködő szakhatóságok
+| 1. | Szakhatósági állásfoglaláshoz minden esetben vizsgálandó, hogy a tervezett építési munka |
 
-|  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
+| 1.1. | teljesíti-e a műemléki érték anyagi valóságában történő megőrzésének alapkövetelményét; és |
 
-| 1. | Minden esetben. | Az épület helykijelölésére vonatkozó tűzvédelmi előírások betartatása, valamint a szomszédos telkeken álló épületek között tartandó tűztávolság mértékének, ennek hiányában a kialakítás, telekalakítás feltételeinek meghatározása. | első fokon eljáró tűzvédelmi szakhatóság | másodfokon eljáró tűzvédelmi szakhatóság |
+| 1.2. | tiszteletben tartja-e a műemlék történeti, kulturális értékének elsődlegességét a jelenkor használati követelményeinek kielégítése során; továbbá |
 
-| 2. | Polgári védelmi építmény, óvóhely telkének kialakítása esetén. | A jogszabályban előírt polgári védelmi követelmények érvényre juttatása érdekében. | a telekalakítás helye szerint illetékes megyei katasztrófa- védelmi igazgatóság, a fővárosban a Fővárosi Polgári Védelmi Igazgatóság | Országos Katasztrófa- védelmi Főigazgatóság |
+| 1.3. | a műemléki értéket kellő mértékben és hitelesen érvényre juttatja-e. |
 
-| 3. | Ha a telekalakítás a) bányatelket, b) szénhidrogén-szállító és gázelosztó vezeték, valamint propán-bután töltőtelep biztonsági övezetét, c) megszűnt földalatti bányák nyitva maradó területének jogszabályban meghatározott hatásterületét, d) a nyilvántartott ásványi nyersanyag-vagyon előfordulását vagy szénhidrogén földalatti tárolására szolgáló földtani szerkezetet érint(i). | Annak elbírálása, hogy a telekalakítás a műszaki biztonság, az ásványvagyon-gazdálkodás követelményeinek, valamint a földtani követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | bánya- kapitányság | Magyar Bányászati és Földtani Hivatal |
+| 2. | A műemlékek funkciójával kapcsolatosan vizsgálandó, hogy a műemléki ingatlanon, épületben vagy építményben tervezett funkció az eredeti, illetve a jelenlegi funkcióhoz képest |
 
-| 4.1. | Ha a telekalakításra a vasúti pálya szélső vágányának tengelyétől számított 50 méteren belüli övezetben kerül sor, és engedélyes a vasúti pályahálózat működtetője hozzájárulásának a megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | Annak elbírálása kérdésében, hogy a telekalakítás – a vasút állagára, a vasúti forgalom biztonságára, a vasúti pályahálózat működtetője fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatása alapján – engedélyezhető-e. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 2.1. | nem méltatlan-e a műemlék kulturális, történeti értékéhez; és |
 
-| 4.2. | Ha a telekalakítással új útterület jön létre. | A tervezett telekalakítási eljárásban a közlekedésbiztonsági és útügyi érdekek érvényre juttatása. | fővárosi és megyei kormányhivatal illetékes közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+| 2.2. | elhelyezése (kialakítása) nem jár-e a műemléki értékek súlyos veszélyeztetésével; továbbá |
 
-| 4.3. | Ha a telekalakítás meglévő út területében változást eredményez és az érintett közútkezelő hozzájárulásának megtagadását vagy a hozzájárulásában foglalt feltételeket az engedélykérő sérelmesnek tartja. | A tervezett telekalakítási eljárásban a közlekedésbiztonsági és útügyi érdekek érvényre juttatása érdekében a közútkezelői hozzájárulás felülbírálása. | fővárosi és megyei kormányhivatal illetékes közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+| 2.3. | a használat nem okoz-e akár közvetlenül, akár közvetve műemléki értékcsökkenést, értékvesztést. |
 
-| 4.4. | Állandó, ideiglenes működésű repülőterek, le- és felszállóhelyek környezetét érintő telekalakítás esetében. | A tervezett telekalakítás nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a polgári célú légiközlekedést, illetve a repülőtéri létesítmények működését. | Nemzeti Közlekedési Hatóság Légügyi Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 3. | Műemlékeket érintő beavatkozások körében figyelembe kell venni, hogy |
 
-| 5. | A víziutak medrét és a kikötők, átkelők, vízpartok és vízterületek telkét érintő telekalakítás esetén. | A tervezett telekalakítás nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a polgári célú vízi közlekedést, illetve hajózási létesítmények működését. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 3.1. | műemléken műemléki értékkel bíró épület, építmény, épület-, illetve építményrész nem bontható el, bontás a Kötv. 45. § (2) bekezdésében foglalt esetekben kivételesen engedélyezhető, amely esetekben az engedélyezésre benyújtott dokumentációban foglaltaknak igazolniuk kell a jogszabályi követelményeknek való megfelelést; |
 
-| 6. | Erdő megosztása. | A fenntartható erdőgazdálkodás vizsgálata az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 86. §-a alapján. | megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
+| 3.2. | műemlékhez történő hozzáépítés, ráépítés, illetve műemlék ingatlanán új építmény, építményrész építése különösen akkor engedélyezhető, ha a tervezett beavatkozás a műemléki érték fenntartásához elengedhetetlenül szükséges (szerkezeti megerősítés, védőépület), azonban csak annak mértékéig, hogy az új építmény, építményrész ne veszélyeztesse a meglévő értékek fennmaradását, érvényesülését, hitelességét; |
 
-| 7. | Ha a telekalakítás külterületen, valamint belterület esetén védett természeti területen, országos jelentőségű védett természeti területen, Natura 2000 területen, barlang védőövezetén belül kerül sor. | A természetvédelmi követelményeknek való megfelelés. | Környezet- védelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvé- delmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3.3. | műemlék egészét vagy jelentős hányadát érintő átalakítás különösen akkor engedélyezhető, ha a műemléki értékek fenntartása azt indokolja, addig a mértékig, hogy az átalakítás ne veszélyeztesse a meglévő értékek (térkapcsolatok, tömegalakítás, felületek kialakítása, díszítések) érvényesülését, hitelességét; |
 
-[^6]: A 3. melléklet a 23/2012. (II. 29.) Korm. rendelet 61. § (2) bekezdése szerint módosított szöveg.
+| 3.4. | műemlékeken az egymást követő egyes beavatkozások (átalakítás) összeadódó hatásukban sem járhatnak a műemlék hitelességének csökkentésével, nem veszélyeztethetik értékeinek érvényesülését; |
+
+| 3.5. | egyenértékű beavatkozások lehetősége esetén a hozzájárulás megadása során előnyben kell részesíteni a visszafordítható megoldásokat. |
+
+| 4. | Műemlékek esetében vizsgálandó, hogy az épület-energetikai hatékonyságot javító, a megújuló energia alkalmazására, illetve az akadálymentesítésre irányuló beavatkozások összhangban vannak-e a műemléki értékek megőrzésének elsődlegességével, biztosítják-e annak érvényesülését. |
+
+| 5. | Műemlék alkotórészének, tartozékának javítása vagy korszerűsítése során |
+
+| 5.1. | az eredeti vagy meglévő alkotórész, tartozék, megőrzésére, felújítására kell törekedni; amennyiben az a pusztulás mértéke vagy a használhat ellehetetlenülése miatt már nem lehetséges, úgy engedélyezhető a részleges csere, részleges vagy teljes pótlás azonos vagy hasonló anyagból, és csak kivételes esetben az eltérő anyagból való pótlás; |
+
+| 5.2. | azok eltávolítása csak kivételes esetben engedélyezhető, ha ez mégis elkerülhetetlen, és az adott műemlékben nem biztosított vagy biztosítható a megőrzése; |
+
+| 5.3. | arra kell törekedni, hogy azok helyébe azonos korú és jellegű történeti építőanyagok kerüljenek. |
+
+| 6. | A szakhatóságnak vizsgálnia kell annak a feltételnek a teljesülését, hogy műemlékek megjelenését befolyásoló fényforrások, reklámok, útbaigazító-, cég- és jelzőtáblák, utcabútorok, pavilonok és más szabadtér-építészeti elemek egyenként vagy összességükben nem eredményezhetik a műemlék tájban vagy településképben feltáruló látványának, a műemlékből és műemlékről élvezhető kilátásnak, illetve általában a műemléki érték érvényesülésének vagy hitelességének sérelmét. |
+
+| 7. | Az örökségvédelmi szakhatósági állásfoglalás során tekintetbe kell venni, hogy történeti kertben, illetve műemléki ingatlan kerttörténeti értéket hordozó részén csak szakági kutatásokon alapuló kert (park) helyreállítási, felújítási munkák engedélyezhetők. Növények eltávolítása, áttelepítése, fás szárú növények kivágása, valamint építmények építése és bontása, továbbá új növényzet telepítése, csak a történeti kert és más műemlék, műemléki együttes érvényesülésének, hitelességének sérelme nélkül engedélyezhető. |
+
+| 8. | A telekalakítással kapcsolatos örökségvédelmi szakhatósági állásfoglalás során a történeti telektulajdonságokat (telekméret, telekforma, telekosztási struktúra, megközelítési lehetőség) az ingatlan kulturális örökségi elem elválaszthatatlan részeként kell tekintetbe venni, ezért |
+
+| 8.1. | műemléki ingatlan megosztásához (illetve ezt eredményező telek-határrendezéshez, korrekcióhoz) kivételes esetben adható hozzájárulás, különösen akkor, ha az tudományos kutatás alapján bizonyítottan történeti állapot visszaállítását szolgálja; |
+
+| 8.2. | a történetileg igazoltan összetartozó ingatlanok, ingatlanrészek újra-egyesítésétől eltekintve műemléki ingatlannak más (védett vagy nem védett) ingatlannal történő összevonásához, egyesítéséhez (illetve ezt eredményező telek-határrendezéshez, korrekcióhoz) hozzájárulás kivételesen, abban az esetben adható, ha az az örökségvédelem érdekét is szolgálja. |
+
+3. melléklet a 324/2010. (XII. 27.) Korm. rendelethez[^17]
+
+[^17]: A 3. mellékletet a 134/2012. (VI. 28.) Korm. rendelet 21. § e) pontja hatályon kívül helyezte.

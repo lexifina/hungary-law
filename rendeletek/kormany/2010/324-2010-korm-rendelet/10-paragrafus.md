@@ -10,28 +10,24 @@ c) védetté nyilvánított régészeti lelőhelyet érintő településrendezé
 
 ## esetén.
 
-(3) A Hivatal szakértő testületként működteti a Műemléki Tanácsadó Testületet, amely a műemlékekkel kapcsolatos hatósági, illetve egyéb szakmai döntések előkészítésében segíti a Hivatal és a szakigazgatási szervek munkáját.
+(3)[^10] A Hivatal szakértő testületként működteti a Műemléki Tanácsadó Testületet, amely a műemlékekkel kapcsolatos hatósági, szakhatósági, illetve egyéb szakmai döntések előkészítésében segíti a Hivatal és a szakigazgatási szervek munkáját.
 
-(4) A szakigazgatási szerv a műemléket és műemléki területet érintő következő eljárásokban köteles kikérni és figyelembe venni a Hivatal Műemléki Tanácsadó Testületének véleményét:
+(4)[^11] A szakigazgatási szerv
 
-a) műemlék teljes helyreállítása, bővítése, átalakítása (így különösen a Kötv. 45. § szerinti részleges bontással járó, illetve a homlokzatokat és a történeti térkapcsolatokat érintő beavatkozások),
+a) a Kötv. 63. § (1) bekezdésében meghatározott ügyekben szakhatóságként eljárva, illetve
 
-b) műemlék képét, megjelenését jelentősen és maradandó formában befolyásoló beavatkozás,
+b) a Kötv. 63. § (3) bekezdése szerinti hatósági engedélyezési eljárásában
 
-c) műemléki területet érintő településrendezési eszközök véleményezése,
+kéri ki a Műemléki Tanácsadó Testület véleményét.
 
-d) műemléki területen épület bontása, emelet ráépítése,
-
-e) műemléki védelem alatt álló ingatlant érintő telekmegosztás vagy telekegyesítés,
-
-f) műemlék telkére tervezett új építmény és műemléki környezetbe tervezett, a műemlék megjelenését jelentősen befolyásoló új építmény,
-
-g) műemlékkel, annak alkotórészével és tartozékával kapcsolatos képzőművészeti restaurálásra irányuló ügy
-
-## esetében.
+(4a)[^12] A szakigazgatási szerv eljárásának határidejébe a Műemléki Tanácsadó Testület eljárási ideje beleszámít.
 
 (5) Amennyiben a szakigazgatási szerv a (2) és a (4) bekezdés szerinti véleménytől eltérő döntést hoz, az indokolásban köteles kifejteni az eltérés okát.
 
 (6) A szakigazgatási szerv a (2) és a (4) bekezdés szerinti eseteken kívül is jogosult az Ásatási Bizottság és a Műemléki Tanácsadó Testület véleményének kikérésére.
 
 (7) A Hivatal szakértő testületként működteti a Kulturális Javak Bizottságát, amely a kulturális javakkal kapcsolatos hatósági, illetve egyéb szakmai döntések előkészítésében segíti a Hivatal munkáját.
+
+[^10]: A 10. § (3) bekezdése a 134/2012. (VI. 28.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^11]: A 10. § (4) bekezdése a 134/2012. (VI. 28.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^12]: A 10. § (4a) bekezdését a 134/2012. (VI. 28.) Korm. rendelet 18. § (1) bekezdése iktatta be.
