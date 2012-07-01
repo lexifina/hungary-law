@@ -16,7 +16,7 @@ d) a munkavégzést megelőzően vagy annak folyamán végzett képzéssel kapcs
 
 e) a munkafeltételek megállapításában és biztosításában;
 
-f) a foglalkoztatási jogviszony vagy a munkavégzésre irányuló egyéb jogviszony alapján járó juttatások, így különösen a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 142/A. § (3) bekezdésében meghatározott munkabér megállapításában és biztosításában;
+f) a foglalkoztatási jogviszony vagy a munkavégzésre irányuló egyéb jogviszony alapján járó juttatások, így különösen a munka törvénykönyvéről szóló 2012. évi I. törvény 12. § (2) bekezdésében meghatározott munkabér megállapításában és biztosításában;
 
 g) a tagsággal vagy részvétellel kapcsolatban a munkavállalók szervezeteiben;
 
