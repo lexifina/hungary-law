@@ -14,6 +14,8 @@ e) a Kormány által meghatározott közösségi célok megvalósítását elős
 
 ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közalkalmazotti, közszolgálati vagy kormányzati szolgálati jogviszonyt.
 
+(2a) Közfoglalkoztatási jogviszony kormányrendeletben meghatározott feltételek mellett közhasznú kölcsönzés céljára is létesíthető.
+
 (3) Közfoglalkoztató lehet:
 
 a) helyi és nemzetiségi önkormányzat, valamint ezek jogi személyiséggel rendelkező társulása,
@@ -56,6 +58,6 @@ j) a vasúti pályahálózat-működtető szervezet a vasúti pálya és környe
 
 (4) Közfoglalkoztatottként az a természetes személy foglalkoztatható, aki
 
-a) a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) rendelkezései szerint munkaviszonyt létesíthet, kivéve azt, aki tizenhatodik életévét nem töltötte be, valamint
+a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezései szerint munkaviszonyt létesíthet, kivéve azt, aki 16. életévét nem töltötte be, valamint
 
 b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény szerinti álláskereső, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti rehabilitációs ellátásban részesül.
