@@ -2,4 +2,4 @@
 
 (1a) Ha a baleseti rokkantsági nyugdíj vagy a baleseti hozzátartozói nyugellátás több foglalkoztatónál elszenvedett balesetek (foglalkozási megbetegedések, szilikózis) együttes következménye alapján került megállapításra, az (1) bekezdés szerinti feltételek fennállása esetén a foglalkoztatókat olyan arányban kell kötelezni a nyugellátás megtérítésére, amilyen az egyes üzemi balesetekből eredő egészségkárosodások, egészségiállapot-romlások mértékének egymáshoz viszonyított aránya.
 
-(2) Az (1)–(1a) bekezdés rendelkezésének alkalmazása során a foglalkoztató alatt a Munka Törvénykönyve 193/C. §-ának c) pontjában meghatározott kölcsönvevőt is érteni kell.
+(2) Az (1)–(1a) bekezdés rendelkezésének alkalmazása során a foglalkoztató alatt az Mt. szerinti kölcsönvevőt is érteni kell.
