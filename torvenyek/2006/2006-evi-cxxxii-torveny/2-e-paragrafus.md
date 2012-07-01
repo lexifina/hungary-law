@@ -1,4 +1,4 @@
-2/E. § (1) A felek a határozatlan időre kötött egészségügyi ellátási szerződést a másik félhez írásban intézett felmondással megszüntethetik. A felmondási határidő – a (2)–(3) bekezdésben foglaltakat kivéve – 6 hónapnál nem lehet rövidebb. A határozatlan időre szóló egészségügyi ellátási szerződés a hatálybalépésétől számított 3 évig rendes felmondással nem szüntethető meg.
+2/E. § (1) A felek a határozatlan időre kötött egészségügyi ellátási szerződést a másik félhez írásban intézett felmondással megszüntethetik. A felmondási határidő – a (2)–(3) bekezdésben foglaltakat kivéve – 6 hónapnál nem lehet rövidebb. A határozatlan időre szóló egészségügyi ellátási szerződés a hatálybalépésétől számított 2 évig rendes felmondással nem szüntethető meg.
 
 (2) A közszolgáltatásért felelős szerv az egészségügyi ellátási szerződést az (1) bekezdésben meghatározott felmondási időnél rövidebb határidővel is felmondhatja, ha
 

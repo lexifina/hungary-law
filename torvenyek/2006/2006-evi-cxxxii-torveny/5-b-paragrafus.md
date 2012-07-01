@@ -1,21 +1,31 @@
-5/B. § (1) Az 5/A. § (7) bekezdés szerinti nyilvántartásban szereplő ellátási területet az érintett egészségügyi szolgáltatók fenntartói megállapodásukban módosíthatják az 5/A. § (2)–(6), (9) és (10) bekezdésben foglaltak figyelembevételével. A megállapodást az azt aláíró fenntartók az aláírástól számított 5 napon belül kötelesek jóváhagyás céljából megküldeni az egészségügyi államigazgatási szervnek.
+5/B. § (1) Az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő ellátási területet az egészségügyi államigazgatási szerv
 
-(1a) A fenntartó a fenntartásában működő egészségügyi szolgáltatóinak az 5/A. § (7) bekezdés szerinti nyilvántartásban szereplő ellátási területeit módosíthatja az 5/A. § (2)–(6), (9) és (10) bekezdésben foglaltak figyelembevételével, amennyiben a módosítás nem érinti a más fenntartóhoz tartozó egészségügyi szolgáltatók ellátási területeit. A fenntartó a módosításról szóló döntését követő 5 napon belül kezdeményezi az egészségügyi államigazgatási szervnél a jóváhagyást.
+a) a (2) bekezdésben meghatározott esetekben kérelemre,
 
-(1b) Az ellátási területnek az (1), illetve az (1a) bekezdés alapján történő módosítása akkor érvényes, ha azt az egészségügyi államigazgatási szerv jóváhagyta. Az egészségügyi államigazgatási szerv nem tagadhatja meg a jóváhagyást, amennyiben az ellátási terület módosítása megfelel az e törvényben és az e törvény végrehajtására kiadott kormányrendeletben foglalt feltételeknek. Az egészségügyi államigazgatási szerv a jóváhagyás iránti kérelem kézhezvételétől számított 15 napon belül a Kormány által kijelölt szerv szakértői véleményének figyelembevételével dönt a jóváhagyásról.
+b) a (4) bekezdésben meghatározott esetben hivatalból
 
-(2) Az (1), (1a), (3)–(5) bekezdés szerinti módosítás – az 5/A. § (3) bekezdésében foglaltakon túl – akkor eredményezheti az egészségügyi szolgáltatók ellátási területének a régióhatáron történő túlterjeszkedését, ha azt ellátási érdek indokolja. Az ellátási érdek fennállását az egészségügyi államigazgatási szerv állapítja meg a megállapodás jóváhagyása, illetve az ellátási terület módosítása során.
+módosítja.
 
-(3) Amennyiben az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő ellátási terület módosítása ellátási érdekből szükséges, az egészségügyi államigazgatási szerv felhívja az érintett egészségügyi szolgáltatók fenntartóit az ellátási terület (1) bekezdésben foglaltak szerinti módosítására. Ha a fenntartók a felhívástól számított 30 napon belül nem állapodnak meg az ellátási terület módosításáról, és a módosítás elmaradása az ellátás biztonságát súlyosan veszélyeztetné, az egészségügyi államigazgatási szerv a megállapodás megkötésére rendelkezésre álló határidő lejártát követő harminc napon belül módosíthatja az ellátási területet.
+(2) Az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő ellátási terület módosítása iránt kérelmet nyújthatnak be az ellátási terület módosításával érintett
 
-(4) A települési önkormányzat ellátási érdekből kezdeményezheti az érintett egészségügyi szolgáltató fenntartójánál az egészségügyi szolgáltató 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő ellátási területének (1) bekezdés szerinti módosítását. Amennyiben az egészségügyi szolgáltató fenntartója a kezdeményezéstől számított 30 napon belül nem állapodik meg az ellátási terület módosításáról annak az egészségügyi szolgáltatónak a fenntartójával, akit a települési önkormányzat a kezdeményezésben megjelölt, az egészségügyi államigazgatási szerv a kezdeményező települési önkormányzat kérelmére a megállapodás megkötésére rendelkezésre álló határidő lejártát követő harminc napon belül módosíthatja az ellátási területet, ha
+a) egészségügyi szolgáltatók fenntartói közösen,
 
-a) a módosítás az érintett településen élők szakellátáshoz való hozzájutását javítja, és
+b) egészségügyi szolgáltatók közös fenntartója, ha több érintett szolgáltatónak ugyanaz a fenntartója,
 
-b) a módosítással egyetért annak az egészségügyi szolgáltatónak a fenntartója, amelyik ellátási területe adott szakma tekintetében a módosítás következtében a módosítást kezdeményező településre ki fog terjedni.
+c) települési önkormányzatok.
 
-(5) Az egészségügyi államigazgatási szerv hivatalból állapítja meg, illetve módosítja az ellátási területet, valamint hivatalból módosítja az 5/A. § (7) bekezdése szerinti nyilvántartást abban az esetben, ha az jogszabályváltozás, vagy a kapacitást érintő e törvény szerinti módosulás miatt szükséges.
+(3) Abban az esetben, ha az érintett egészségügyi szolgáltatók fenntartói – megállapodás hiányában – nem tudtak a (2) bekezdés a) pontja alapján közösen kérelmet benyújtani, a kérelmet az érintett fenntartók bármelyike külön is benyújthatja azzal, hogy az eljárás során az egyezség érdekében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 64. és 75. §-át alkalmazni kell.
 
-(6) Az 5/A. § szerinti és (1)–(5) bekezdés szerinti eljárásban ügyfél az egészségügyi szolgáltató, annak fenntartója, az egészségbiztosító, valamint annak a településnek az önkormányzata, amelyikre az egészségügyi szolgáltató területi ellátási kötelezettsége kiterjed.
+(4) Az egészségügyi államigazgatási szerv hivatalból állapítja meg, illetve módosítja az ellátási területet, ha az jogszabályváltozás, vagy a kapacitást érintő e törvény szerinti módosulás miatt, illetve ellátási érdekből szükséges.
 
-(7) Az egészségügyi államigazgatási szerv a (3)–(5) bekezdés szerinti eljárásban az 5/A. § (2)–(6), (9) és (10) bekezdésben foglaltak és a Kormány által kijelölt szerv szakértői véleményének figyelembevételével dönt.
+(5) Az egészségügyi államigazgatási szerv az (1) bekezdés alapján indult eljárásban a Kormány által kijelölt szerv szakértői véleményének és a (6) bekezdésben foglaltak, továbbá
+
+a) a járóbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területek esetében az 5/A. § (2)–(6), (9) és (10) bekezdésében,
+
+b) a fekvőbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területek esetében az 5/A. § (11) bekezdésében
+
+foglaltak figyelembevételével dönt.
+
+(6) Az ellátási terület módosítása – az 5/A. § (3) bekezdésében és (11) bekezdésének e) pontjában foglaltakon túl – akkor eredményezheti az egészségügyi szolgáltatók ellátási területének a térséghatáron történő túlterjeszkedését, ha azt ellátási érdek indokolja.
+
+(7) Az 5/A. § szerinti és az (1)–(6) bekezdés szerinti eljárásban ügyfél az egészségügyi szolgáltató, annak fenntartója, az egészségbiztosító, valamint annak a településnek az önkormányzata, amelyikre az egészségügyi szolgáltató területi ellátási kötelezettsége kiterjed.

@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-132-00-00
 | 2012-02-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2006-132-00-00.14 |
 | 2012-04-28 | 2012. évi XXXVIII. törvény | 2006-132-00-00.15 |
 | 2012-06-28 | 2012. évi LXXIX. törvény | 2006-132-00-00.16 |
+| 2012-07-01 | 2012. évi LXXIX. törvény | 2006-132-00-00.17 |

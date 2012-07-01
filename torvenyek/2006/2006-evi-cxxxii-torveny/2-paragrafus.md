@@ -6,7 +6,7 @@ b) a magyar állam az egészségügyi szakellátási kötelezettségét,
 
 c) az a) és a b) pont alá nem tartozó szerv az egészségügyi szakellátási feladatát
 
-a 2012. április 30-án lekötött kapacitások mértékének és szakmai összetételének megfelelően az 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott ellátási területen teljesíti.
+járóbeteg-szakellátások tekintetében a 2012. április 30-án lekötött kapacitások mértékének és szakmai összetételének megfelelően az 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott ellátási területen, a fekvőbeteg-szakellátások tekintetében az 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott kapacitások mértékének és szakmai összetételének megfelelően a nyilvántartás szerinti ellátási területen teljesíti.
 
 (2) Amennyiben az (1) bekezdés a), illetve c) pontja alá tartozó szerv az egészségügyi szakellátási intézményműködtetési kötelezettségét, illetve az egészségügyi szakellátási feladatát nem teljesíti, ideiglenesen a magyar állam köteles az egészségügyi szakellátási felelőssége alapján az adott szakellátási feladat ellátásáról gondoskodni, kivéve, ha a 8/A. § szerinti eljárás során másik közszolgáltatásért felelős szervhez kerül a szakellátási feladat.
 

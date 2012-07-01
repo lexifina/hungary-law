@@ -17,3 +17,5 @@
 (9) Az átcsoportosítható kapacitásmennyiség megállapítása során a kerekítés szabályait kell alkalmazni.
 
 (10) Amennyiben az (1)–(4) bekezdés szerinti átcsoportosításra az 5. § (1) bekezdés alapján kerül sor, a kapacitások csökkentésének mértéke az előző év országos átlaga mértékének eléréséig terjedhet.
+
+(11) Az egészségügyi államigazgatási szerv hivatalból indult eljárásban – az e törvény végrehajtásáról szóló rendeletben foglaltak szerint – átcsoportosíthat szakellátási kapacitást két vagy több egészségügyi szolgáltató között, amennyiben a térségi betegút-szervezésért felelős szerv vagy az egészségbiztosító tájékoztatása, illetve olyan adatok alapján, amelyekről hivatalos tudomása van, az átcsoportosítás ellátási érdekből való szükségességét megállapítja.
