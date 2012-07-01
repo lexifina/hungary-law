@@ -1,4 +1,4 @@
-## 3/A. §[^8] A Kormány a nyugdíj-biztosítási igazgatási szervek hatáskörébe utalt, az egészségkárosodás jogszabályban meghatározott mértékétől is függő ellátásokra való jogosultság elbírálására, felülvizsgálatára irányuló eljárásokban – az ellátást megállapító jogszabályban meghatározott szakkérdésben – a Nemzeti Rehabilitációs és Szociális Hivatalt szakhatóságként jelöli ki.
+## 3/A. §[^8] A Kormány a nyugdíj-biztosítási igazgatási szervek hatáskörébe utalt, az egészségkárosodás jogszabályban meghatározott mértékétől is függő ellátásokra való jogosultság elbírálására, felülvizsgálatára irányuló eljárásokban – az ellátást megállapító jogszabályban meghatározott szakkérdésben – a első fokú eljárásban a rehabilitációs szakigazgatási szervet, másodfokú eljárásban a Nemzeti Rehabilitációs és Szociális Hivatalt szakhatóságként jelöli ki.
 
 4. § (1)[^9] A nyugdíjbiztosítás központi igazgatását az ONYF végzi. Az ONYF a nyugdíj-biztosítási igazgatási szervek és a 3. § (5) bekezdése alapján eljáró fővárosi és megyei kormányhivatalt vezető kormánymegbízott irányításával összefüggő feladatai körében
 
@@ -34,7 +34,7 @@ h) gondoskodik a nyugdíjbiztosítással kapcsolatos központi és helyi tájék
 
 i)[^16] ellátja a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 14. § (1) bekezdése szerinti juttatás folyósításával kapcsolatos feladatokat, figyelemmel ugyanezen törvény 22. §-ában, 24. § (1) bekezdésében, 25. § (1) bekezdésében, valamint 26. § (1) bekezdésében foglaltakra is.
 
-[^8]: A 3/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 496. §-a iktatta be, szövege a 332/2010. (XII. 27.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^8]: A 3/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 496. §-a iktatta be, szövege a 332/2010. (XII. 27.) Korm. rendelet 21. §-a, a 95/2012. (V. 15.) Korm. rendelet 37. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.
 [^9]: A 4. § (1) bekezdés nyitó szövegrésze a 152/2011. (VIII. 10.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
 [^10]: A 4. § (1) bekezdés a) pontja a 318/2010. (XII. 27.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^11]: A 4. § (1) bekezdés c) pontja a 318/2010. (XII. 27.) Korm. rendelet 5. §-a szerint módosított szöveg.
