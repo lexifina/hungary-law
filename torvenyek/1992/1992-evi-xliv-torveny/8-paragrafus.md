@@ -10,20 +10,16 @@
 
 (6) Ha a társaság munkavállalóinak legalább egynegyede a szervezet résztvevője, és a szervezet vagy annak legalább egy résztvevője tagja az MRP szervezetek országos szövetségének (a továbbiakban: szövetség), annak előzetes egyetértése szükséges az ügyintéző szerv – társasággal munkaviszonyban álló – választott tagjának (ideértve az ügyintéző szerv elnökét és képviselőjét is)
 
-a) kirendeléséhez,
+a) munkaszerződéstől eltérő foglalkoztatásához,
 
-b) a tizenöt munkanapot elérő kiküldetéséhez,
+b) munkaviszonyának a munkáltató által felmondással történő megszüntetéséhez.
 
-c) az Mt. 150. § (1) bekezdésén alapuló más munkáltatónál történő foglalkoztatásához, az átirányításához, ha ez a munkavállaló más munkahelyre való beosztásával jár, továbbá
-
-d) munkaviszonyának a munkáltató által rendes felmondással történő megszüntetéséhez.
-
-(7) A választott taggal szemben alkalmazandó rendkívüli felmondás előtt előzetesen ki kell kérni a szövetség véleményét, illetve az Mt. 109. § szerinti jogkövetkezmény alkalmazásáról, valamint a változó munkahelyre alkalmazott tisztségviselő más munkahelyre való beosztásáról a szövetséget előzetesen értesíteni kell.
+(7) A választott tagot az Mt. 273. §-a szerinti védelem illeti meg.
 
 (8) Ha a szervezet vagy annak legalább egy résztvevője nem tagja a szövetségnek, a (6) és (7) bekezdésekben meghatározott jogokat a szervezet közgyűlése gyakorolja.
 
 (9) A szövetség (közgyűlés) az (1) bekezdés szerinti munkáltatói intézkedéssel kapcsolatos álláspontját a munkáltató tájékoztatásának átvételétől számított nyolc napon belül írásban közli. Ha a tervezett intézkedéssel nem ért egyet, a közlésnek az egyet nem értés indokait is tartalmaznia kell. Ha a szövetség (közgyűlés) a véleményét az e bekezdésben meghatározott határidőn belül nem közli a munkáltatóval, úgy kell tekinteni, mintha a tervezett intézkedéssel egyetértene.
 
-(10) A választott taggal szembeni rendkívüli felmondás esetén a (7) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a szövetség (közgyűlés) a tervezett intézkedéssel kapcsolatos véleményét a munkáltató tájékoztatásának átvételétől számított három napon belül köteles közölni.
+(10) A választott taggal szembeni azonnali hatályú felmondás esetén a (7) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a szövetség (közgyűlés) a tervezett intézkedéssel kapcsolatos véleményét a munkáltató tájékoztatásának átvételétől számított három napon belül köteles közölni.
 
 (11) A (6) és (7) bekezdésekben meghatározott védelem a tisztségviselőt megbízatásának idejére, illetve annak megszűnését követő egy évre illeti meg, feltéve, ha tisztségét legalább hat hónapon át betöltötte.
