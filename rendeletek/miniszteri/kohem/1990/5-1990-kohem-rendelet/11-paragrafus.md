@@ -28,34 +28,43 @@ da) 4 naptári éven belül két évben,
 
 db) 4 naptári éven túl egy évben,
 
-e) muzeális jellegű jármű esetében 5 évben
+e) muzeális jellegű jármű esetében 5 évben,
+
+f)[^107] versenyjármű esetében 1 évben
 
 kell meghatározni.
 
-(4)[^107] Ha az (1) bekezdésben említett jármű a forgalomba helyezés előtti, vagy az időszakos vizsgálat időpontját követően hatályba lépő – az MR.-ben meghatározott – üzemeltetési műszaki feltételnek nem felel meg, akkor a következő időszakos vizsgálat határidejeként az MR.-ben meghatározott új követelmény hatálybalépési időpontját kell megállapítani.
+(3a)[^108] Ha az időszakos vizsgálatot a forgalmi engedély időbeli hatályának (műszaki érvényességi idejének) lejárta előtt legfeljebb 30 napon belül végzik, a forgalmi engedély hatályának megállapításánál a (3) bekezdésben meghatározott időtartamot nem az időszakos vizsgálat napjától, hanem a forgalmi engedély időbeli hatályának lejárta napjától kell számítani.
 
-(5)[^108] Ha a járműnek a típusbizonyítványban rögzített vagy a forgalomba helyezés előtti vizsgálata során megállapított tulajdonságai indokolják, a forgalomban való részvételt korlátozni kell, illetőleg külön feltételekhez kell kötni. A korlátozást, illetőleg a feltételeket a jármű forgalmi engedélyében fel kell tüntetni.
+(4)[^109] Ha az (1) bekezdésben említett jármű a forgalomba helyezés előtti, vagy az időszakos vizsgálat időpontját követően hatályba lépő – az MR.-ben meghatározott – üzemeltetési műszaki feltételnek nem felel meg, akkor a következő időszakos vizsgálat határidejeként az MR.-ben meghatározott új követelmény hatálybalépési időpontját kell megállapítani.
 
-(6)[^109] A forgalomban való részvétel korlátozása és az (5) bekezdés alapján megállapított feltételek kiterjedhetnek a jármű:
+(5)[^110] Ha a járműnek a típusbizonyítványban rögzített vagy a forgalomba helyezés előtti vizsgálata során megállapított tulajdonságai indokolják, a forgalomban való részvételt korlátozni kell, illetőleg külön feltételekhez kell kötni. A korlátozást, illetőleg a feltételeket a jármű forgalmi engedélyében fel kell tüntetni.
+
+(6)[^111] A forgalomban való részvétel korlátozása és az (5) bekezdés alapján megállapított feltételek kiterjedhetnek a jármű:
 
 a) megengedett sebességére,
 
-b)[^110]
+b)[^112]
 
 c) konstrukciós jellemzői által meghatározott használati korlátozásra, így különösen:
 
 ca) a kiegyenlítőmű nélküli hajtott tengellyel rendelkező L7e kategóriájú jármű esetében 40 km/óra sebességkorlátozásra, továbbá
 
-cb) a járműgyártó által előírt üzemeltetési korlátozásra.
+cb) a járműgyártó által előírt üzemeltetési korlátozásra,
 
-(7)[^111] Ha a jármű a forgalomba helyezés előtti vizsgálat során a műszaki, közlekedésbiztonsági, vagy környezetvédelmi követelményeknek nem felel meg, a forgalomban való részvételt a közlekedési hatóság nem engedélyezi.
+cc)[^113] a versenyjárművek használatára.
+
+(7)[^114] Ha a jármű a forgalomba helyezés előtti vizsgálat során a műszaki, közlekedésbiztonsági, vagy környezetvédelmi követelményeknek nem felel meg, a forgalomban való részvételt a közlekedési hatóság nem engedélyezi.
 
 [^103]: A 11. § (1) bekezdése a 62/2011. (XI. 29.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^104]: A 11. § (2) bekezdését a 12/1998. (V. 22.) KHVM rendelet 20. §-ának (5) bekezdése hatályon kívül helyezte, újonnan a 83/2005. (X. 11.) GKM rendelet 5. § (1) bekezdése iktatta be, szövege a 27/2010. (III. 31.) KHEM rendelet 4. §-ával megállapított szöveg.
 [^105]: A 11. § új (3) bekezdését a 12/1998. (V. 22.) KHVM rendelet 8. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. A (3) bekezdés a 66/2009. (XI. 27.) KHEM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^106]: A 11. § (3) bekezdés a) pontja a 62/2011. (XI. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^107]: A 11. § új (4) bekezdését a 43/2001. (XII. 18.) KöViM rendelet 4. §-a iktatta a szövegbe, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva.
-[^108]: A 11. § (4) – eredeti (3) – bekezdésének számozását (5) bekezdésre változtatta a 43/2001. (XII. 18.) KöViM rendelet 4. §-a, szövege a 14/2009. (III. 31.) KHEM rendelet 2. §-ával megállapított szöveg.
-[^109]: A 11. § (6) bekezdését a 105/2007. (XII. 23.) GKM rendelt 5. §-a iktatta be, szövege a 14/2009. (III. 31.) KHEM rendelet 2. §-ával megállapított szöveg.
-[^110]: A 11. § (6) bekezdés b) pontját a 22/2012. ( V. 8.) NFM rendelet 13. §-a hatályon kívül helyezte.
-[^111]: A 11. § (7) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 9. § (3) bekezdése iktatta be.
+[^107]: A 11. § (3) bekezdés f) pontját a 22/2012. (V. 8.) NFM rendelet 4. § (1) bekezdése iktatta be.
+[^108]: A 11. § (3a) bekezdését a 22/2012. (V. 8.) NFM rendelet 4. § (2) bekezdése iktatta be.
+[^109]: A 11. § új (4) bekezdését a 43/2001. (XII. 18.) KöViM rendelet 4. §-a iktatta a szövegbe, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva.
+[^110]: A 11. § (4) – eredeti (3) – bekezdésének számozását (5) bekezdésre változtatta a 43/2001. (XII. 18.) KöViM rendelet 4. §-a, szövege a 14/2009. (III. 31.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^111]: A 11. § (6) bekezdését a 105/2007. (XII. 23.) GKM rendelt 5. §-a iktatta be, szövege a 14/2009. (III. 31.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^112]: A 11. § (6) bekezdés b) pontját a 22/2012. ( V. 8.) NFM rendelet 13. §-a hatályon kívül helyezte.
+[^113]: A 11. § (6) bekezdés c) pont cc) alpontját a 22/2012. (V. 8.) NFM rendelet 4. § (3) bekezdése iktatta be.
+[^114]: A 11. § (7) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 9. § (3) bekezdése iktatta be.

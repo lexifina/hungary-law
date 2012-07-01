@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-5-20-5E
 | 2011-12-07 | 1990-5-20-5E.59 | 62/2011. (XI. 29.) NFM rendelet |
 | 2012-01-01 | 1990-5-20-5E.60 | 62/2011. (XI. 29.) NFM rendelet |
 | 2012-05-16 | 1990-5-20-5E.61 | 22/2012. (V. 8.) NFM rendelet |
+| 2012-07-01 | 1990-5-20-5E.62 | 22/2012. (V. 8.) NFM rendelet |

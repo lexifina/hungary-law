@@ -1,10 +1,10 @@
 ## Átalakítás
 
-16. § (1)[^183] A már forgalomba helyezett gépjármű, mezőgazdasági vontató és ezek pótkocsija átalakításához szükséges előzetes engedélyt a közlekedési hatóságtól kell a jármű tulajdonosának kérnie. A kérelemhez csatolni kell az elbíráláshoz szükséges műszaki dokumentációt.
+16. § (1)[^187] A már forgalomba helyezett gépjármű, mezőgazdasági vontató és ezek pótkocsija átalakításához szükséges előzetes engedélyt a közlekedési hatóságtól kell a jármű tulajdonosának kérnie. A kérelemhez csatolni kell az elbíráláshoz szükséges műszaki dokumentációt.
 
-(2)[^184] Az engedélyben a közlekedési hatóság feltételeket határozhat meg. Az előírt feltételek teljesítését — az engedélyben meghatározott esetekben — az előzetes engedélyt kiadó szerv az engedély záradékolásával igazolja.
+(2)[^188] Az engedélyben a közlekedési hatóság feltételeket határozhat meg. Az előírt feltételek teljesítését — az engedélyben meghatározott esetekben — az előzetes engedélyt kiadó szerv az engedély záradékolásával igazolja.
 
-(3) Az átalakítás során a jármű fajtája[^185] csak abban az esetben változtatható meg, ha
+(3) Az átalakítás során a jármű fajtája[^189] csak abban az esetben változtatható meg, ha
 
 a) — különleges indokolt esetben — speciális rendeltetésű tehergépkocsi keletkezik,
 
@@ -12,33 +12,33 @@ b) 3500 kilogrammot meg nem haladó megengedett legnagyobb össztömegű gépkoc
 
 c) az átalakítás során keletkező járműfajta az átalakításra kerülő típus gyári változataként is létezik; motorkerékpár segédmotorkerékpárrá ebben az esetben sem alakítható át,
 
-d)[^186] 65 kW (88,4 LE) motorteljesítményt és 6000 kg megengedett legnagyobb össztömeget meg nem haladó mezőgazdasági vontató átalakítása során lassú jármű keletkezik,
+d)[^190] 65 kW (88,4 LE) motorteljesítményt és 6000 kg megengedett legnagyobb össztömeget meg nem haladó mezőgazdasági vontató átalakítása során lassú jármű keletkezik,
 
-e)[^187] az N1 kategóriába tartozó tehergépkocsi átalakítása során olyan személygépkocsi keletkezik, amely teljesíti az M1 kategóriára vonatkozóan az MR.-ben előírt további műszaki feltételeket. E rendelkezés nem érinti a külön jogszabályban[^188] előírt egyéb feltételek teljesítésének kötelezettségét.
+e)[^191] az N1 kategóriába tartozó tehergépkocsi átalakítása során olyan személygépkocsi keletkezik, amely teljesíti az M1 kategóriára vonatkozóan az MR.-ben előírt további műszaki feltételeket. E rendelkezés nem érinti a külön jogszabályban[^192] előírt egyéb feltételek teljesítésének kötelezettségét.
 
-(4)[^189]
+(4)[^193]
 
 (5) Jármű átalakításához új, felújított, javított, illetve bontás során kinyert, javítás nélkül beépíthetőnek minősített alkatrészek használhatók. Ezen alkatrészekre — a gyári új alkatrészek kivételével — a pótalkatrészekre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
-(6)[^190] A gépkocsi alvázszámát megváltoztató átalakításához csak gyári új alváz, karosszéria, illetőleg alvázszámot viselő szerkezeti elem használható fel. Nem engedélyezhető a jármű olyan átalakítása, amely az MR. Függelékeinek Mellékleteiben meghatározott valamely közlekedésbiztonsági vagy környezetvédelmi követelmény tekintetében a jármű gyárilag kialakított jellemzőinek romlását eredményezi.
+(6)[^194] A gépkocsi alvázszámát megváltoztató átalakításához csak gyári új alváz, karosszéria, illetőleg alvázszámot viselő szerkezeti elem használható fel. Nem engedélyezhető a jármű olyan átalakítása, amely az MR. Függelékeinek Mellékleteiben meghatározott valamely közlekedésbiztonsági vagy környezetvédelmi követelmény tekintetében a jármű gyárilag kialakított jellemzőinek romlását eredményezi.
 
-(7)[^191] Az átalakított járművet időszakos vizsgálatra a közlekedési hatóság által üzemeltetett vizsgáló állomáson be kell mutatni. A vizsgálatot az átalakításra adott engedély, illetőleg, ha a közlekedési hatóság az átalakításra ilyen feltételt szabott, a feltétel teljesítését igazoló záradékkal ellátott engedély birtokában lehet kérni. A vizsgálat során az átalakítási engedélyben foglaltakat, valamint a 12. § (6) bekezdésben meghatározott üzemeltetési műszaki feltételek megtartását kell ellenőrizni. A regisztrációs adóról szóló 2003. évi CX. törvény szerinti kategóriába sorolás, továbbá a gépjármű műszaki és környezetvédelmi osztályba sorolásának adatait – a 10. § (12) bekezdésében foglaltakat alapul véve – a műszaki adatlapon rögzíteni kell.
+(7)[^195] Az átalakított járművet időszakos vizsgálatra a közlekedési hatóság által üzemeltetett vizsgáló állomáson be kell mutatni. A vizsgálatot az átalakításra adott engedély, illetőleg, ha a közlekedési hatóság az átalakításra ilyen feltételt szabott, a feltétel teljesítését igazoló záradékkal ellátott engedély birtokában lehet kérni. A vizsgálat során az átalakítási engedélyben foglaltakat, valamint a 12. § (6) bekezdésben meghatározott üzemeltetési műszaki feltételek megtartását kell ellenőrizni. A regisztrációs adóról szóló 2003. évi CX. törvény szerinti kategóriába sorolás, továbbá a gépjármű műszaki és környezetvédelmi osztályba sorolásának adatait – a 10. § (12) bekezdésében foglaltakat alapul véve – a műszaki adatlapon rögzíteni kell.
 
-(8)[^192] Ha a nem sorozatszerűen átalakított jármű a követelményeknek megfelel, az átalakítással létrehozott változást a közlekedési hatóság a jármű hatósági (forgalmi) engedélyébe bevezeti. Az átalakított jármű vizsgálatának eredményén alapuló intézkedésekre egyebekben a 13. §-ban foglalt rendelkezéseket kell megfelelően alkalmazni.
+(8)[^196] Ha a nem sorozatszerűen átalakított jármű a követelményeknek megfelel, az átalakítással létrehozott változást a közlekedési hatóság a jármű hatósági (forgalmi) engedélyébe bevezeti. Az átalakított jármű vizsgálatának eredményén alapuló intézkedésekre egyebekben a 13. §-ban foglalt rendelkezéseket kell megfelelően alkalmazni.
 
-(9)[^193] Öt évig érvényes sorozat átalakítási engedélyt ad ki a közlekedési hatóság a gépjárműfenntartó szervezet kérelmére az azonos gyártmány- és típuscsaládba tartozó, a változtatással érintett műszaki jellemzői tekintetében megegyező járművek azonos módon történő átalakítására. A sorozat átalakítási engedély alapján, az engedélyben meghatározott technológia megtartásával az átalakítást elvégezheti más – a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendeletben feltételeknek megfelelő – gépjárműfenntartó szervezet is, amennyiben rendelkezik a sorozat átalakítási engedély jogosultja által az átalakítani kívánt járműhöz kiadott hozzájárulással.
+(9)[^197] Öt évig érvényes sorozat átalakítási engedélyt ad ki a közlekedési hatóság a gépjárműfenntartó szervezet kérelmére az azonos gyártmány- és típuscsaládba tartozó, a változtatással érintett műszaki jellemzői tekintetében megegyező járművek azonos módon történő átalakítására. A sorozat átalakítási engedély alapján, az engedélyben meghatározott technológia megtartásával az átalakítást elvégezheti más – a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendeletben feltételeknek megfelelő – gépjárműfenntartó szervezet is, amennyiben rendelkezik a sorozat átalakítási engedély jogosultja által az átalakítani kívánt járműhöz kiadott hozzájárulással.
 
-(10)[^194] A sorozatszerűen átalakított járműveket a vizsgáló állomáson kell vizsgálatra bemutatni. E vizsgálat elvégzésére a sorozatszerű átalakítást végző gépjárműfenntartó szervezetet a közlekedési hatóság – meghatározott feltételekkel – feljogosíthatja. A vizsgálatot – a sorozat átalakítási engedélyben meghatározott szerkezeti elemekre (részegységekre) kiterjedően – kell elvégezni. Ha az átalakított jármű a követelményeknek megfelel, az átalakítással létrehozott változást a jármű hatósági (forgalmi) engedélyébe be kell vezetni.
+(10)[^198] A sorozatszerűen átalakított járműveket a vizsgáló állomáson kell vizsgálatra bemutatni. E vizsgálat elvégzésére a sorozatszerű átalakítást végző gépjárműfenntartó szervezetet a közlekedési hatóság – meghatározott feltételekkel – feljogosíthatja. A vizsgálatot – a sorozat átalakítási engedélyben meghatározott szerkezeti elemekre (részegységekre) kiterjedően – kell elvégezni. Ha az átalakított jármű a követelményeknek megfelel, az átalakítással létrehozott változást a jármű hatósági (forgalmi) engedélyébe be kell vezetni.
 
-[^183]: A 16. § (1) bekezdése a 12/1998. (V. 22.) KHVM rendelet 14. §-ával megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés p) pontja szerint módosított szöveg.
-[^184]: A 16. § (2) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^185]: Lásd az 1/1975. (II. 5.) KPM–BM együttes rendeletet.
-[^186]: A 16.§ (3) bekezdésének d) pontját a 22/1994. ( VI. 8.) KHVM rendelet 2. §-a iktatta a szövegbe.
-[^187]: A 16. § (3) bekezdésének e) pontját a 39/2002. (XII. 28.) GKM rendelet 7. §-a iktatta be.
-[^188]: Lásd a vámjogról, a vámeljárásról, valamint a vámigazgatásról szóló 1995. évi C. törvény végrehajtásáról szóló 45/1996. (III. 25.) Korm. rendelet 142. § (7) bekezdését.
-[^189]: A 16. § (4) bekezdését a 62/2011. (XI. 29.) NFM rendelet 17. § (1) bekezdése hatályon kívül helyezte.
-[^190]: A 16. § (6) bekezdése az 1/2001. (I. 10.) KöViM rendelet 5. §-ával megállapított szöveg, utolsó mondatát a 43/2001. (XII. 18.) KöViM rendelet 8. §-a iktatta be.
-[^191]: A 16. § (7) bekezdése a 62/2011. (XI. 29.) NFM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^192]: A 16. § (8) bekezdése a 13/1993. (V. 12.) KHVM rendelet 9. §-ával megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^193]: A 16. § (9) bekezdését a 13/1993. (V. 12.) KHVM rendelet 9. §-a iktatta be, szövege a 22/2012. (V. 8.) NFM rendelet 7. §-ával megállapított szöveg.
-[^194]: A 16. § (10) bekezdését a 62/2011. (XI. 29.) NFM rendelet 10. § (2) bekezdése iktatta be.
+[^187]: A 16. § (1) bekezdése a 12/1998. (V. 22.) KHVM rendelet 14. §-ával megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés p) pontja szerint módosított szöveg.
+[^188]: A 16. § (2) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^189]: Lásd az 1/1975. (II. 5.) KPM–BM együttes rendeletet.
+[^190]: A 16.§ (3) bekezdésének d) pontját a 22/1994. ( VI. 8.) KHVM rendelet 2. §-a iktatta a szövegbe.
+[^191]: A 16. § (3) bekezdésének e) pontját a 39/2002. (XII. 28.) GKM rendelet 7. §-a iktatta be.
+[^192]: Lásd a vámjogról, a vámeljárásról, valamint a vámigazgatásról szóló 1995. évi C. törvény végrehajtásáról szóló 45/1996. (III. 25.) Korm. rendelet 142. § (7) bekezdését.
+[^193]: A 16. § (4) bekezdését a 62/2011. (XI. 29.) NFM rendelet 17. § (1) bekezdése hatályon kívül helyezte.
+[^194]: A 16. § (6) bekezdése az 1/2001. (I. 10.) KöViM rendelet 5. §-ával megállapított szöveg, utolsó mondatát a 43/2001. (XII. 18.) KöViM rendelet 8. §-a iktatta be.
+[^195]: A 16. § (7) bekezdése a 62/2011. (XI. 29.) NFM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^196]: A 16. § (8) bekezdése a 13/1993. (V. 12.) KHVM rendelet 9. §-ával megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^197]: A 16. § (9) bekezdését a 13/1993. (V. 12.) KHVM rendelet 9. §-a iktatta be, szövege a 22/2012. (V. 8.) NFM rendelet 7. §-ával megállapított szöveg.
+[^198]: A 16. § (10) bekezdését a 62/2011. (XI. 29.) NFM rendelet 10. § (2) bekezdése iktatta be.

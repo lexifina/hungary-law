@@ -1,6 +1,6 @@
-12. melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^299]
+12. melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^303]
 
-A vizsgabiztosok szakmai képzése[^300]
+A vizsgabiztosok szakmai képzése[^304]
 
 A vizsgabiztosok képzése alap-, kiegészítő, illetve továbbképző tanfolyam keretében történik. A tanfolyamok témakörét és vizsgakövetelményeit a közlekedési hatóság elnöke állapítja meg. A képzés témakörét és a vizsgakövetelményeket a közlekedési hatóság honlapján és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben - tájékoztató formájában - közzéteszi.
 
@@ -20,11 +20,11 @@ Vizsgabiztosok továbbképzése
 
 2.1. A vizsgabiztos kétévente köteles továbbképző tanfolyamon részt venni és azt követően vizsgát tenni.
 
-2.2.[^301] A továbbképző tanfolyamra és az azt követő vizsgára az 1.2.-1.4. pontjainak rendelkezését kell megfelelően alkalmazni.
+2.2.[^305] A továbbképző tanfolyamra és az azt követő vizsgára az 1.2.-1.4. pontjainak rendelkezését kell megfelelően alkalmazni.
 
 2.3. Amennyiben a tanfolyam kitűzött időpontja a vizsgabiztos számára nem megfelelő, az értesítés kézhezvételét követő 15 napon belül kérheti a közlekedési hatóságtól a továbbképzés elhalasztását. A közlekedési hatóság legfeljebb 6 hónap halasztást engedélyezhet.
 
-A vizsgabiztosok képzésére vonatkozó átmeneti rendelkezések[^302]
+A vizsgabiztosok képzésére vonatkozó átmeneti rendelkezések[^306]
 
 3.1. Felsőfokú szakirányú végzettség esetén e rendelet 12/A. §-ának (2) bekezdés b) pontjában meghatározott szakirányú szakmai gyakorlati idő teljesítése alól a közlekedési hatóság - indokolt esetben - felmentést adhat.
 
@@ -32,7 +32,7 @@ A vizsgabiztosok képzésére vonatkozó átmeneti rendelkezések[^302]
 
 3.3. A 2010. január 1-jét megelőzően a vizsgabiztosi névjegyzékbe felvett személynek a rendelet 12/A. § (2) bekezdés c) pontjában meghatározott követelményt 2015. január 1. napjáig kell teljesítenie, amennyiben az általa vizsgált jármű vizsgáló állomáson történő mozgatása biztosított a vizsgált jármű vezetésére jogosító vezetői engedéllyel rendelkező segítő személyzet útján.
 
-Vizsgabiztosok speciális kiegészítő képzésére vonatkozó szabályok[^303]
+Vizsgabiztosok speciális kiegészítő képzésére vonatkozó szabályok[^307]
 
 4.1. A 3500 kg megengedett legnagyobb össztömeget meghaladó járművek forgalomba helyezés előtti, illetőleg időszakos vizsgálata, valamint a külön jogszabályok által előírt minősítő vizsgálata során a jármű vizsgálatát csak olyan vizsgabiztos végezheti, aki kiegészítő tanfolyami képzésen részt vett, valamint a tanfolyam anyagából sikeres vizsgát tett.
 
@@ -42,9 +42,9 @@ Vizsgabiztosok speciális kiegészítő képzésére vonatkozó szabályok[^303]
 
 4.4. A speciális, kiegészítő képzésre és az azt követő vizsgára az 1.2. - 1.4. pont rendelkezéseit kell megfelelően alkalmazni.
 
-A. függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^304]
+A. függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^308]
 
-A. Függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^305]
+A. Függelék az 5/1990. (IV. 12.) KöHÉM rendelethez[^309]
 
 I. FEJEZET
 
@@ -104,24 +104,10 @@ Ezen függelék és az A/4. mellékletben felsorolt jogi szabályozások alkalma
 
 2. „a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló külön jogszabály mellékleteivel implementált közösségi irányelv vagy rendelet”: az A/4. melléklet I. részében felsorolt jogi szabályozási rendelkezés, közösségi irányelv vagy rendelet. Ez a meghatározás magában foglalja ezek végrehajtási aktusait is;
 
-3. „típus-jóváhagyás”: olyan eljárás, amellyel egy tagállam igazolja, hogy a jármű típusa, rendszere, alkatrésze vagy önálló műszaki egysége megfelel a vonatkozó eljárási szabályoknak és műszaki követelményeknek;
-
-4. „nemzeti típusjóváhagyás”: valamely tagállam nemzeti jogában meghatározott típus-jóváhagyási eljárás, melynek érvényessége az adott tagállam területére korlátozódik;
-
-5. „EK-típusjóváhagyás”: olyan eljárás, amellyel a tagállam igazolja, hogy egy jármű, rendszer, alkatrész vagy önálló műszaki egység típusa megfelel ezen függelék és az A/4. vagy az A/11. mellékletben felsorolt jogi szabályozások vonatkozó eljárási szabályainak és műszaki követelményeinek;
-
-6. „egyedi jóváhagyás”: olyan eljárás, amellyel egy tagállam igazolja, hogy egy adott jármű – akár egyedi gyártású, akár nem – megfelel a vonatkozó eljárási szabályoknak és műszaki követelményeknek;
-
-7. „többlépcsős típusjóváhagyás”: olyan eljárás, amellyel egy vagy több tagállam igazolja, hogy – a gyártási állapottól függően – egy nem teljes vagy befejezett jármű típusa megfelel ezen függelék vonatkozó eljárási szabályainak és műszaki követelményeinek;
-
-8. „lépésenkénti típusjóváhagyás”: olyan jármű-jóváhagyási eljárás, amely a járműhöz kapcsolódó rendszerekre, alkatrészekre és önálló műszaki egységekre érvényes EK-típusjóváhagyások teljes körének lépésenkénti összegyűjtéséből áll, ami végeredményben a teljes jármű jóváhagyását eredményezi;
-
-9. „egylépéses típusjóváhagyás”: olyan eljárás, amely a jármű egészének egyetlen művelettel, egy eljárásban történő jóváhagyásából áll;
-
-[^299]: A 12. mellékletet a 66/2009. (XI. 27.) KHEM rendelet 23. § (4) bekezdése iktatta be.
-[^300]: A 12. melléklet nyitó szövegrésze a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^301]: A 12. melléklet 2.2. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^302]: A 12. melléklet 3. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^303]: A 12. melléklet 4. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^304]: Az A. függeléket és mellékleteit a 11/2000. (V. 24.) KHVM rendelet 11. §-a iktatta be, szövege a 35/2009. (VII. 10.) KHEM rendelet 3. § (2) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 23. § (5) bekezdése, a 27/2010. (III. 31.) KHEM rendelet 7. § (2) bekezdése és 9. § c) pontja, a 25/2010. (XII. 22.) NFM rendelet 2. § (1) bekezdése és 3. § (1) bekezdése, a 62/2011. (XI. 29.) NFM rendelet 14. § (4) bekezdése és 16. §-a, a 22/2012. (V. 8.) NFM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^305]: Ez a Függelék az Európai Parlament és a Tanács 79/2009/EK és 595/2009/EK rendeletével, továbbá a Bizottság 1060/2008/EK, 385/2009/EK, 371/2010/EU, 183/2011/EU, 407/2011/EU, 582/2011/EU, 678/2011/EU és 65/2012/EU rendeletével, valamint a Bizottság 2010/19/EU irányelvével és a Bizottság 2011/415/EU határozatával módosított, az Európai Parlament és a Tanács 2007/46/EK irányelvének megfelelő szabályozást tartalmaz.
+[^303]: A 12. mellékletet a 66/2009. (XI. 27.) KHEM rendelet 23. § (4) bekezdése iktatta be.
+[^304]: A 12. melléklet nyitó szövegrésze a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^305]: A 12. melléklet 2.2. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^306]: A 12. melléklet 3. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^307]: A 12. melléklet 4. pontja a 62/2011. (XI. 29.) NFM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^308]: Az A. függeléket és mellékleteit a 11/2000. (V. 24.) KHVM rendelet 11. §-a iktatta be, szövege a 35/2009. (VII. 10.) KHEM rendelet 3. § (2) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 23. § (5) bekezdése, a 27/2010. (III. 31.) KHEM rendelet 7. § (2) bekezdése és 9. § c) pontja, a 25/2010. (XII. 22.) NFM rendelet 2. § (1) bekezdése és 3. § (1) bekezdése, a 62/2011. (XI. 29.) NFM rendelet 14. § (4) bekezdése és 16. §-a, a 22/2012. (V. 8.) NFM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^309]: Ez a Függelék az Európai Parlament és a Tanács 79/2009/EK és 595/2009/EK rendeletével, továbbá a Bizottság 1060/2008/EK, 385/2009/EK, 371/2010/EU, 183/2011/EU, 407/2011/EU, 582/2011/EU, 678/2011/EU és 65/2012/EU rendeletével, valamint a Bizottság 2010/19/EU irányelvével és a Bizottság 2011/415/EU határozatával módosított, az Európai Parlament és a Tanács 2007/46/EK irányelvének megfelelő szabályozást tartalmaz.
