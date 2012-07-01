@@ -1,8 +1,8 @@
 ## A hajózó személyzetre és a légiutas-kísérőre vonatkozó külön rendelkezések
 
-29/A. § (1) A lajstromba felvett légijármű fedélzetén munkavállalóként munkát végző légijármű-vezető, hajózó navigátor, hajózó mérnök (a továbbiakban együtt: hajózó személyzet) és légiutas-kísérő teljes munkaideje – beleértve a rendkívüli munkavégzés és az ügyelet idejét is – az évi 2000 órát nem haladhatja meg.
+29/A. § (1) A munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit a 29/B–29/I. §-okban meghatározott eltérésekkel kell alkalmazni a lajstromba felvett, gazdasági célú légiközlekedési tevékenység céljából üzemben tartott légi jármű fedélzetén munkavállalóként szolgálatot teljesítő légijármű-vezető, hajózó navigátor, hajózó mérnök (a továbbiakban együtt: hajózó személyzet) és légiutas-kísérő tekintetében.
 
-(2) Az (1) bekezdésben foglaltakat alkalmazni kell a munkavégzésre irányuló egyéb jogviszony alapján vagy egyéni vállalkozóként munkát végző hajózó személyzet és légiutas-kísérő munkavégzésének időtartama tekintetében is.
+(2) A 29/B–29/I. §-okban foglaltakat alkalmazni kell a munkavégzésre irányuló egyéb jogviszony alapján vagy egyéni vállalkozóként a gazdasági célú légiközlekedési tevékenység céljából üzemben tartott légi jármű fedélzetén szolgálatot teljesítő hajózó személyzet és légiutas-kísérő tekintetében is.
 
 (3) A hajózó személyzet és a légiutas-kísérő részére naptári hónaponként legalább hét, naptári évenként legalább kilencvenhat olyan pihenőnapot kell adni, amelyet lakóhelyén tölthet.
 

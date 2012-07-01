@@ -1,0 +1,1 @@
+29/I. § A hajózó személyzetre és légiutas-kísérőre az Mt. 92. §, 94. § (3) bekezdés, 99. § (1)–(3) bekezdés, 100. §, 104. § (1) és (4) bekezdés, 105. §, továbbá a 109. § (1) bekezdés nem alkalmazható.

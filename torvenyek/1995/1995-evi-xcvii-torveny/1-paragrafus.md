@@ -16,4 +16,4 @@ terjed ki.
 
 (2) A légijárművel Magyarország légterén kívül, illetve külföldi légijárművel Magyarország légterében, illetve területén végzett légiközlekedésre és a légiközlekedéssel összefüggő tevékenységre e törvény hatálya nem terjed ki abban az esetben, ha nemzetközi szerződés eltérően rendelkezik.
 
-(3)
+(3) A 3922/91/EGK tanácsi rendeletnek a kereskedelmi célú repülőgépes közlekedési szolgáltatásokra alkalmazandó közös műszaki követelmények és közigazgatási eljárások tekintetében történő módosításáról szóló, 2008. augusztus 20-i 859/2008/EK európai bizottsági rendelet (a továbbiakban: 859/2008/EK rendelet) e törvénnyel, valamint a munka törvénykönyvéről szóló törvénnyel együttesen alkalmazandó.
