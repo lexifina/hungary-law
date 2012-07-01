@@ -1,4 +1,4 @@
-## Az orvosszakértői szerv ……………… fokú szakértői bizottsága
+## A rehabilitációs szakigazgatási szerv vezetője vagy a Nemzeti Rehabilitációs és Szociális Hivatal vezetője
 
 ## …………………………
 
@@ -40,7 +40,7 @@
 
 ## .................................................
 
-## A szakértői bizottság szakhatósági állásfoglalásának alapjául szolgáló indokok:
+## A szakhatósági állásfoglalás alapjául szolgáló indokok:
 
 ## .....................................................
 
@@ -68,7 +68,7 @@
 
 ## …………………………… ……………………………
 
-## (szakértői bizottság tagja) (szakértői bizottság elnöke)
+## (rehabilitációs szakigazgatási szerv vagy a Nemzeti Rehabilitációs és Szociális Hivatal vezetője)
 
 4. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez
 

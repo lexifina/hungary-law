@@ -36,7 +36,7 @@
 
 ## * A megfelelő szövegrész aláhúzandó!
 
-6. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^43]
+6. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^44]
 
 Igazolvány száma: nyomdai szám
 
@@ -106,4 +106,4 @@ Figyelmeztetés:
 
 3. Az igazolvány elvesztését a tulajdonos a kiállító hatósággal 8 napon belül köteles közölni.
 
-[^43]: Az R. 6. számú melléklete a 332/2010. (XII. 27.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^44]: Az R. 6. számú melléklete a 332/2010. (XII. 27.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
