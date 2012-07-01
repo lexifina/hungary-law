@@ -16,6 +16,9 @@ g) közreműködik a vidék felemelkedését segítő képzési és művelődés
 
 h) önálló program keretében segíti, támogatja az ökológiai, gazdasági, társadalmi szempontból fenntarthatóságra törekvő helyi közösségi kezdeményezések működését, valamint országos hálózatuk kialakítását, működtetését,
 
-i) a miniszterelnök általános helyettesével együttműködve gondoskodik a határon túli magyarokat érintő agrárfejlesztések és támogatások közös programjainak kidolgozásáról.
+i) a miniszterelnök általános helyettesével együttműködve gondoskodik a határon túli magyarokat érintő agrárfejlesztések és támogatások közös programjainak kidolgozásáról,
+
+j)[^368] szakmai felügyeletet gyakorol a Magyar Turizmus Zrt. által ellátott közösségi agrármarketing tevékenységgel kapcsolatosan.
 
 [^367]: A 100. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (63) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^368]: A 100. § j) pontját a 103/2012. (V. 25.) Korm. rendelet 6. §-a iktatta be.

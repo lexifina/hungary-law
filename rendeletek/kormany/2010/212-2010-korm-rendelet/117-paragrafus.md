@@ -1,7 +1,7 @@
-## 117. §[^412] A miniszter irányítja:
+## 117. §[^413] A miniszter irányítja:
 
 a) – külön jogszabályban foglaltak szerint – az Információs Hivatalt, valamint
 
 b) a Magyar Külügyi Intézetet.
 
-[^412]: A 117. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (72) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^413]: A 117. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (72) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
