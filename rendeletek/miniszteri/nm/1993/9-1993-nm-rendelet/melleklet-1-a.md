@@ -148,6 +148,6 @@
 
 | 0940 | Debreceni Egyetem, Orvos- és Egészségtudományi Centrum |
 
-1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^77]
+1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^78]
 
-[^77]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 70/2011. (XII. 23.) NEFMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^78]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 70/2011. (XII. 23.) NEFMI rendelet 4. § (1) bekezdésével megállapított szöveg.
