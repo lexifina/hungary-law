@@ -1,4 +1,4 @@
-## 20. §[^23]
+## 20. §[^21]
 
 ## 21. Záró rendelkezések
 
@@ -14,4 +14,4 @@
 
 (6) E rendelet 2012. augusztus 2-án a hatályát veszti.
 
-[^23]: A 20. § a 21. § (3) bekezdése alapján 2012. július 7-én lép hatályba.
+[^21]: A 20. § a 21. § (3) bekezdése alapján 2012. július 7-én lép hatályba.
