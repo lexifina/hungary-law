@@ -30,6 +30,4 @@
 
 3. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^14]
 
-Az e rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.”
-
-[^14]: A 3. számú mellékletet a 351/2010. (XII. 30.) Korm. rendelet 205. §-a iktatta be.
+[^14]: A 3. számú mellékletet a 351/2010. (XII. 30.) Korm. rendelet 205. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § k) pontja.

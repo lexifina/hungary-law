@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-33-20-2
 | 2011-12-10 | 2008-33-20-22.10 | 214/2009. (IX. 30.) Korm. rendelet |
 | 2012-01-01 | 2008-33-20-22.11 | 282/2011. (XII. 21.) Korm. rendelet |
 | 2012-04-15 | 2008-33-20-22.12 | 282/2011. (XII. 21.) Korm. rendelet |
+| 2012-07-01 | 2008-33-20-22.13 | 351/2010. (XII. 30.) Korm. rendelet |

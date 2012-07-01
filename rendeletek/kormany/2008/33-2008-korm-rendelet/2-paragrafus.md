@@ -18,9 +18,9 @@ a) az adott szakmagyakorlást szabályozó külön kormányrendelet szerint a te
 
 b) az adott szakmagyakorlást szabályozó külön kormányrendelet szerint a területi építész kamarák hatáskörébe tartozó építészeti-műszaki tervezési szakterületen, valamint építésügyi szakterületen (építésügyi műszaki szakértő, építési műszaki ellenőr, felelős műszaki vezető, építésügyi igazgatási szakértő) első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát jelöli ki.
 
-(7)[^5] A 3. számú melléklet szerinti megyei népegészségügyi szakigazgatási szervek e rendelet szerinti feladat- és hatáskörükben különös illetékességgel járnak el.
+(7)[^5]
 
 [^2]: A 2. § a 214/2009. (IX. 30.) Korm. rendelet 2. §-ával megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^3]: A 2. § (5) bekezdése a 282/2011. (XII. 21.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
 [^4]: A 2. § (6) bekezdése a 282/2011. (XII. 21.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
-[^5]: A 2. § (7) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 204. §-a iktatta be.
+[^5]: A 2. § (7) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 204. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § k) pontja.
