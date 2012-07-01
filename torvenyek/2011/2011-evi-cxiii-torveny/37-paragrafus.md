@@ -5,3 +5,5 @@
 (3) A 36. § (2) bekezdésében meghatározott feladatok teljesítésére alárendelt szervezeteitől legfeljebb 200 fő 21 napi időtartamot meg nem haladó igénybevételéről a Honvéd Vezérkar főnöke, az ezt meghaladó létszámú vagy időtartamú igénybevételről a honvédelemért felelős miniszter dönt. A 3000 főt meghaladó igénybevételről a honvédelemért felelős miniszter – a döntéssel egyidejűleg – az Országgyűlés honvédelmi ügyekkel foglalkozó bizottságát tájékoztatja.
 
 (4) A Honvédség szállítóeszközei és műszaki munkagépei – a rendszeresített harcjárművek és a fegyverzet kivételével – kérelemre, a honvédelemért felelős miniszter engedélyével, megállapodás alapján, térítés ellenében, ideiglenesen átengedhetők.
+
+(5) A készenlét fokozása érdekében, a Honvédség szállítóeszközei, műszaki munkagépei, rendszeresített harcjárművei és fegyverzete a honvédelemért felelős miniszter engedélyével, a Honvéd Vezérkar főnöke és a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) főigazgatója által meghatározottak szerint kerülnek biztosításra a KNBSZ számára.

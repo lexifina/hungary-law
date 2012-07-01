@@ -1,6 +1,8 @@
 ## 41. A katonai jelképek és jelzések
 
-63. § (1) Katonai jelképek: a csapatzászló, a zászlószalag, a hadilobogó, az árbocszalag, a történelmi zászlósor és a felségjel.
+63. § (1) Katonai jelképek: a Honvédség főparancsnokának lobogója, a csapatzászló, a zászlószalag, a hadilobogó, az árbocszalag, a történelmi zászlósor és a felségjel.
+
+(1a) A Honvédség főparancsnokának lobogója a köztársasági elnök által használt címert a csapatzászló elemeivel ötvözi.
 
 (2) A csapatzászlóra elismerésként ünnepélyes alkalmakkor a honvédelemért felelős miniszter vagy a Honvéd Vezérkar főnöke zászlószalagot köthet.
 
