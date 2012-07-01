@@ -10,8 +10,8 @@
 
 (4) A rendelet hatálybalépésekor már működő küszöbérték alatti üzem, és olyan – már működő – veszélyes anyagokkal foglalkozó üzem, amely katasztrófavédelmi engedélyezés alatt nem áll, a 2. mellékletben szereplő üzemazonosítási adatlapokat 2012. március 31-ig küldi meg a 7. § (1) bekezdésében és a 33. § (1) bekezdésében foglaltak szerint.
 
-(4a)[^50] A (4) bekezdésben foglaltak megsértése miatt nem alkalmazható katasztrófavédelmi bírság azzal szemben, aki az adatszolgáltatási kötelezettségének 2012. május 15-ig eleget tesz.
+(4a)[^51] A (4) bekezdésben foglaltak megsértése miatt nem alkalmazható katasztrófavédelmi bírság azzal szemben, aki az adatszolgáltatási kötelezettségének 2012. május 15-ig eleget tesz.
 
 (5) E rendelet 7. melléklet 6.2. pontjában foglalt előírásokat 2013. december 31-ig kell teljesíteni.
 
-[^50]: A 47. § (4a) bekezdését a 67/2012. (IV. 5.) Korm. rendelet 30. §-a iktatta be.
+[^51]: A 47. § (4a) bekezdését a 67/2012. (IV. 5.) Korm. rendelet 30. §-a iktatta be.

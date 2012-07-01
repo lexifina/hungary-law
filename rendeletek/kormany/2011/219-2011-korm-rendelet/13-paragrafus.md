@@ -8,6 +8,6 @@
 
 (4) A hatóság helyszíni vizsgálattal ellenőrzi a 7. melléklet 1.6.2. pontjában meghatározottak teljesülését a veszélyes anyagokkal foglalkozó üzem által a társadalmi kockázat számításába be nem számított gazdálkodó szervezeteknél és az ipari parkok esetében.
 
-(5)[^10] A hatóság helyszíni vizsgálattal ellenőrzi a belső védelmi terv gyakorlatot, amelyet a gyakorlat befejeztével értékel. Amennyiben a gyakorlat nem elfogadható, abban az esetben a hatóság a belső védelmi terv gyakorlat ismételt lebonyolítására kötelezi a veszélyes anyagokkal foglalkozó üzem üzemeltetőjét.
+(5)[^11] A hatóság helyszíni vizsgálattal ellenőrzi a belső védelmi terv gyakorlatot, amelyet a gyakorlat befejeztével értékel. Amennyiben a gyakorlat nem elfogadható, abban az esetben a hatóság a belső védelmi terv gyakorlat ismételt lebonyolítására kötelezi a veszélyes anyagokkal foglalkozó üzem üzemeltetőjét.
 
-[^10]: A 13. § (5) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 13. § (5) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.
