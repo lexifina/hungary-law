@@ -1,5 +1,3 @@
-## 6. §[^1]
-
 ## 4. A forgalmi és számlázási adatok kezelése
 
 7. § (1) A szolgáltató által az Eht. 142. § (1) bekezdése alapján biztosított számlamelléklet nem tartalmazhat a hívott fél egyértelmű azonosítására alkalmas adatot.
@@ -11,5 +9,3 @@
 (4) A szolgáltató a hozzájárulás meglétét vagy annak tartalmát nem köteles vizsgálni, a hozzájárulásért kizárólag az előfizető tartozik felelősséggel.
 
 (5) A (3) bekezdésben meghatározott tájékoztatást tartalmaznia kell az általános szerződési feltételeknek, vagy ha annak készítésére a szolgáltató nem köteles, az egyedi előfizetői szerződésnek.
-
-[^1]: A 6. § a 17. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
