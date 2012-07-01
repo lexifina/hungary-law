@@ -16,6 +16,8 @@ c) a mezőgazdasági őstermelő.
 
 (5) Az adófizetési kötelezettséget eredményező jogviszony alapján munkaerő-kölcsönzés keretében kölcsönbe adott munkavállalóval fennálló jogviszonyra tekintettel fizetendő adó alanya a kölcsönbe adó kifizető. A munkavállalót kölcsönbe vevő személy minősül azonban (kifizetőként) az adó alanyának, ha a kölcsönbe adó kifizető nem rendelkezik belföldön állandó lakóhellyel, szokásos tartózkodási hellyel, székhellyel, telephellyel, fiókteleppel, kereskedelmi képviselettel vagy a jogszabályban előírt belföldi nyilvántartásába bejegyzésre kötelezett más hasonló telephellyel.
 
+(5a) Több munkáltatóval létesített munkaviszony (Mt. 195. §) esetén kifizető az adózás rendjéről szóló törvény szerint meghatározott munkáltató.
+
 (6) Az adónak nem alanya:
 
 a) a saját jogú nyugdíjas egyéni vállalkozó;
