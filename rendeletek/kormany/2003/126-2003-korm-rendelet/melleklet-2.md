@@ -254,7 +254,7 @@ u)[^24] közegészségügyi szakkérdések
 
 fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve
 
-ua)[^25] Az u) pontban foglalt, a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér megyére, Komárom-Esztergom megyére és Veszprém megyére kiterjedő illetékességgel látja el.
+ua)[^25]
 
 [^9]: A 2. számú melléklet a) pontja a 337/2007. (XII. 13.) Korm. rendelet 16. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
 [^10]: A 2. számú melléklet b) pontja a 337/2007. (XII. 13.) Korm. rendelet 16. § (1) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
@@ -272,4 +272,4 @@ ua)[^25] Az u) pontban foglalt, a fővárosi és megyei kormányhivatal népegé
 [^22]: A 2. számú melléklet q) pontja a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
 [^23]: A 2. számú melléklet s) pontja a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
 [^24]: A 2. számú melléklet u) pontja a 351/2010. (XII. 30.) Korm. rendelet 108. §-a szerint módosított szöveg.
-[^25]: A 2. számú melléklet u) pont ua) alpontját a 351/2010. (XII. 30.) Korm. rendelet 108. §-a iktatta be.
+[^25]: A 2. számú melléklet u) pont ua) alpontját a 351/2010. (XII. 30.) Korm. rendelet 108. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § f) pontja.
