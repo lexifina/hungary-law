@@ -8,7 +8,7 @@
 
 (4) A Nemzeti Adó- és Vámhivatal vezetője egyes ellenőrzési, ellenőrzéshez kapcsolódó eljárási- és nyilvántartási jogosítványait átruházhatja a NAV Korm. rendelet 1. § (2) bekezdés c) pontjában és az 1. § (3)–(4) bekezdésben meghatározott szervek vezetőjére.
 
-(5)[^1]
+(5) Az 50 főnél nagyobb engedélyezett létszámmal rendelkező önállóan működő és gazdálkodó központi költségvetési szervek esetén legalább 1 fő belső ellenőrt kell foglalkoztatásra irányuló jogviszonyban alkalmazni. Ettől eltérni csak a fejezetet irányító szerv vezetőjének írásos jóváhagyásával lehet.
 
 (6) Az önállóan működő és gazdálkodó költségvetési szerv belső ellenőrzési egysége megállapodás és szervezeti és működési szabályzatban történő előírás alapján elláthatja az irányítása alá tartozó önállóan működő költségvetési szervnél a belső ellenőrzési feladatokat.
 
@@ -17,5 +17,3 @@
 a) a költségvetési szerv (ideértve a polgármesteri hivatalt is) által foglalkoztatásra irányuló jogviszonyban alkalmazott vagy polgári jogi szerződés keretében foglalkoztatott belső ellenőr;
 
 b) a társulás által foglalkoztatásra irányuló jogviszonyban alkalmazott vagy polgári jogi szerződés keretében foglalkoztatott belső ellenőr.
-
-[^1]: A 15. § (5) bekezdése az 57. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
