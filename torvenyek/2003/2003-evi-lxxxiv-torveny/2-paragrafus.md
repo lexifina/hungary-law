@@ -12,6 +12,6 @@ terjed ki.
 
 (3) E törvény rendelkezéseit a 4. § b) pontjában meghatározott, az egészségügyi ellátásban közre nem működő dolgozók tekintetében csak a törvényben külön nevesített esetekben kell alkalmazni.
 
-(4) Nem terjed ki e törvény II. és III. fejezetének hatálya a külön törvény alapján közforgalmú gyógyszertárat személyi jog alapján működtető gyógyszerészekre és az igazságügyi orvosszakértőkre.
+(4) Nem terjed ki e törvény II. és III. fejezetének hatálya – a 15/B. § kivételével – a külön törvény alapján közforgalmú gyógyszertárat személyi jog alapján működtető gyógyszerészekre és az igazságügyi orvosszakértőkre.
 
 (5) Ahol e törvény eltérő rendelkezéseket nem tartalmaz, ott az adott munkavégzésre irányuló jogviszonyra vonatkozó törvény előírásait kell alkalmazni.

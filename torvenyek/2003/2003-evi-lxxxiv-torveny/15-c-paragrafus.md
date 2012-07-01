@@ -1,0 +1,1 @@
+15/C. § Az Mt. 179. § (3) bekezdésében foglaltaktól eltérően az alkalmazott egészségügyi dolgozó által – kizárólag az egészségügyi tevékenysége végzésével a betegnek – okozott kár esetén a kártérítés mértéke súlyosan gondatlan károkozás esetén nem haladhatja meg a munkavállaló négyhavi távolléti díjának összegét.

@@ -1,0 +1,5 @@
+14/E. § (1) Az Mt. 122. § (2) bekezdésében foglaltaktól eltérően a munkáltató az alkalmazott egészségügyi dolgozó számára az alapszabadság egynegyedét – a munkaviszony első három hónapját kivéve – a munkavállaló kérésének megfelelő időpontban köteles kiadni. A munkavállalónak erre vonatkozó igényét legalább tizenöt nappal a szabadság kezdete előtt be kell jelentenie.
+
+(2) Az Mt. 122. § (3) bekezdésében foglaltaktól eltérően a szabadságot kettőnél több részletben csak a munkavállaló kérésére lehet kiadni. Kivételesen fontos gazdasági érdek, illetve a munkáltató működési körét közvetlenül és súlyosan érintő ok miatt a munkáltató kettőnél több részletben is kiadhatja a szabadságot, azonban – a felek eltérő megállapodása hiányában – ebben az esetben is megilleti a munkavállalót naptári évenként legalább egyszer legalább tizennégy összefüggő naptári nap távollétet biztosító szabadság.
+
+(3) A (2) bekezdésben foglaltaktól eltérően a munkáltató a közalkalmazott kérése nélkül kettőnél több, legfeljebb négy részletben is kiadhatja a szabadságot a Kjt. 57. § (3) bekezdés szerinti pótszabadságra jogosító munkakört betöltő közalkalmazott esetében.

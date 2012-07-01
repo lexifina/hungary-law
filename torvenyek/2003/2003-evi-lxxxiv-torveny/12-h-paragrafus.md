@@ -1,0 +1,1 @@
+12/H. § Az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszony alapján oktatói feladatokat is ellátó egészségügyi dolgozók tekintetében a 12/F–12/G. §-ban foglaltakat az oktatói és az egészségügyi tevékenység együttes végzésére kell alkalmazni.

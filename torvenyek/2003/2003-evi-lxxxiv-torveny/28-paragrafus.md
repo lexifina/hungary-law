@@ -4,9 +4,21 @@
 
 28. § (1) Ez a törvény 2004. május 1-jén lép hatályba.
 
-(2) Felhatalmazást kap a miniszter, hogy meghatározza a folyamatos egészségügyi ellátás szervezésének szakmai követelményeit, a munkaidő-beosztás elkészítésének, a munkaidő és az önként vállalt többletmunka minősítésének részletes szabályait, továbbá az egészségügyi tevékenységre való alkalmasság részletes szabályait.
+(2) Felhatalmazást kap a miniszter, hogy meghatározza a folyamatos egészségügyi ellátás szervezésének szakmai követelményeit, a munkaidő-beosztás elkészítésének, a munkaidő és az önként vállalt többletmunka minősítésének és elszámolásának részletes szabályait, továbbá az egészségügyi tevékenységre való alkalmasság részletes szabályait.
 
-(3) Felhatalmazást kap a Kormány, hogy az egészségügyi tevékenység sajátosságaira tekintettel az alkalmazott egészségügyi dolgozók pótszabadságának, munkahelyen tölthető idejének, valamint bérpótlékainak – az Mt.-ben foglaltaknál a munkavállalókra nézve kedvezőbb – szabályait rendeletben meghatározza.
+(3) Felhatalmazást kap a Kormány, hogy
+
+a) az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó
+
+aa) egészségügyi szakdolgozói, egészségügyben dolgozói, valamint felsőfokú végzettséggel betölthető munkakörök körét, a munkakörbe sorolás és a béremeléssel összefüggő besorolás részletes szabályait,
+
+ab) az e törvényben foglalt feltételeknek megfelelő egészségügyi szolgáltató munkáltatók körét,
+
+ac) ellátásokat és egészségügyi szolgáltatásokat,
+
+b) a 30. §-ban meghatározott támogatás igénylési feltételeit, az igény bejelentésének, az azzal összefüggő kötelező adatszolgáltatásnak, a támogatás folyósításának, elszámolásának és a felhasználás ellenőrzésének szabályait
+
+rendeletben meghatározza.
 
 (4) A törvény hatálybalépésével egyidejűleg
 
@@ -22,14 +34,10 @@ b) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törv�
 
 (3)''
 
-(5) A 18. § szerinti szabályzatot az egészségügyi szolgáltató e törvény hatálybalépését követő 30 napon belül készíti el.
+(5)
 
 (6)
 
 (7)
 
-(8) E törvény a Magyar Köztársaság és az Európai Közösségek, és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
-
-– a Tanács 1993. november 23-i, 93/104/EK irányelve a munkaidő-szervezés egyes szempontjairól,
-
-– az Európai Parlament és a Tanács 2000. június 22-i, 2000/34/EK irányelve a munkaidő-szervezés egyes szempontjairól szóló 93/104/EK tanácsi irányelvnek az abból kizárt ágazatok és tevékenységek szabályozása céljából történő módosításáról.
+(8) Ez a törvény a munkaidő-szervezés egyes szempontjairól szóló 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

@@ -1,0 +1,1 @@
+15/D. § A 11/A–15/D. §-ban foglaltaktól kollektív szerződés – az Mt. 135. § (2) bekezdésében, valamint 165. § (2) bekezdésében foglaltakon túlmenően, a Kjt. 83. §-ában foglaltaktól eltérően – csak az alkalmazott egészségügyi dolgozó javára térhet el.

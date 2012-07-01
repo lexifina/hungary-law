@@ -1,1 +1,1 @@
-14. § Az alkalmazott egészségügyi dolgozó által önként vállalt többletmunkavégzés keretében végzett munka egy órára eső díjazásának mértéke a 13/A. §-ban, illetve a külön jogszabályban meghatározott díj 50%-kal megemelt összege.
+14. § A készenléti díj mértéke legalább a készenlét minden órájára az alapbér, illetve az illetmény egy órára eső összegének 25%-a. A készenlét során elrendelt munkavégzés díjazására az Mt. 144. § (2) bekezdését kell alkalmazni azzal, hogy a munkavégzés időtartamának kezdetét az alkalmazott egészségügyi dolgozó értesítésétől kell számítani.
