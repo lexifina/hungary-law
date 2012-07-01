@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-79-00-00
 | 2012-01-01 | 2011. évi CLXXIX. törvény | 1993-79-00-00.65 |
 | 2012-04-15 | 2012. évi XXXI. törvény | 1993-79-00-00.66 |
 | 2012-04-28 | 2012. évi XXXIX. törvény | 1993-79-00-00.67 |
+| 2012-07-01 | 2012. évi LXXXVI. törvény | 1993-79-00-00.68 |
