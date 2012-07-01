@@ -6,21 +6,21 @@ a) a felnőtt kíséretében utazó gyermek a 6. életéve betöltéséig, a vas
 
 b) a gyermek 6 éves korától 14. életéve betöltéséig;
 
-c)[^2] 65. életéve betöltése napjától a magyar állampolgár, a letelepedett jogállású személy, a külön törvény[^3] szerint a szabad mozgás és tartózkodás jogával rendelkező személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), valamint nemzetközi szerződés rendelkezése esetén a szerződés hatálya alá tartozó külföldi állampolgár a 2. kocsiosztályon, személyi igazolványa vagy bármely más személyi azonosításra alkalmas okmány felmutatásával;
+c)[^3] 65. életéve betöltése napjától a magyar állampolgár, a letelepedett jogállású személy, a külön törvény[^4] szerint a szabad mozgás és tartózkodás jogával rendelkező személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), valamint nemzetközi szerződés rendelkezése esetén a szerződés hatálya alá tartozó külföldi állampolgár a 2. kocsiosztályon, személyi igazolványa vagy bármely más személyi azonosításra alkalmas okmány felmutatásával;
 
 d) a külön jogszabályok alapján a nyugdíjfolyósító szerv által megállapított nyugellátásban részesülő 65 éven felüli külföldi állampolgár, a nyugdíjfolyósító szerv igazolása és bármely, a személyi azonosításra alkalmas okmány felmutatásával;
 
 e) a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény (a továbbiakban: Szátv.) hatálya alá tartozó 65. életévét betöltött külföldi állampolgár és a 65. életévét betöltött hozzátartozója a nevére kiállított „Magyar igazolvány”, illetve „Magyar hozzátartozói igazolvány” felmutatásával;
 
-f)[^4] évente 4 alkalommal menettérti utazásra
+f)[^5] évente 4 alkalommal menettérti utazásra
 
 fa) a Szátv. 8. § (3) bekezdés a) pontjában meghatározott 6. és 65. életév közötti külföldi állampolgár a nevére kiállított „Magyar igazolvány”, illetve „Magyar hozzátartozói igazolvány” felmutatásával;
 
-fb)[^5]
+fb)[^6]
 
 g) a 65 éven felüli menekült.
 
-[^2]: A 2. § c) pontja a 115/2007. (V. 24.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^3]: Lásd a 2007: I. törvényt.
-[^4]: A 2. § f) pontja a 115/2007. (V. 24.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
-[^5]: A 2. § f) pont fb) alpontját a 227/2009. (X. 16.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^3]: A 2. § c) pontja a 115/2007. (V. 24.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^4]: Lásd a 2007: I. törvényt.
+[^5]: A 2. § f) pontja a 115/2007. (V. 24.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § f) pont fb) alpontját a 227/2009. (X. 16.) Korm. rendelet 1. §-a hatályon kívül helyezte.

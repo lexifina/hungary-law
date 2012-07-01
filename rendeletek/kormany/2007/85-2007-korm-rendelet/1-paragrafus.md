@@ -6,7 +6,7 @@
 
 (3) Az e rendelet szerinti utazási kedvezmények igénybevételére – a (4) bekezdésben meghatározott kivétellel – kizárólag természetes személyek jogosultak.
 
-(4) A nevelési-oktatási intézmények a saját tanulóik részére az intézmény által kiállított, a Fát. 4. §-ának (3) bekezdésében meghatározott feltételek meglétét igazoló nyilatkozat alapján vásárolhatnak kedvezményes bérletet.
+(4)[^2]
 
 (5) Az utazási kedvezmény csak egy jogcímen vehető igénybe.
 
@@ -17,3 +17,4 @@
 (8) A helyi közlekedésben az 1. mellékletben meghatározott utazási kedvezmények valamennyi olyan település helyi közlekedési hálózatán, utazási viszonylatban és járaton igénybe vehetőek, amelyekre a helyi önkormányzat által a közforgalmú menetrend szerinti helyi személyszállításra megállapított legmagasabb ár kiterjed.
 
 [^1]: Az 1. § (2) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^2]: Az 1. § (4) bekezdését a 120/2012. (VI. 26.) Korm. rendelet 2. §-a hatályon kívül helyezte.

@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-85-20-2
 | 2012-03-21 | 2007-85-20-22.14 | 44/2012. (III. 20.) Korm. rendelet |
 | 2012-04-01 | 2007-85-20-22.15 | 98/2009. (IV. 24.) Korm. rendelet |
 | 2012-05-01 | 2007-85-20-22.16 | 118/2008. (V. 8.) Korm. rendelet |
+| 2012-07-01 | 2007-85-20-22.17 | 120/2012. (VI. 26.) Korm. rendelet |
