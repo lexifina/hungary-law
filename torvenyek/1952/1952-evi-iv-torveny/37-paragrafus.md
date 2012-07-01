@@ -10,4 +10,6 @@ b) a gyermek legalább tizenhat évvel fiatalabb, mint a tizenhatodik életévé
 
 (4) A nyilatkozat teljes hatályához szükséges az anyának, a kiskorú gyermek törvényes képviselőjének, és ha a gyermek a tizennegyedik életévét betöltötte, a gyermeknek a hozzájárulása is. Ha az anya, illetőleg a gyermek nem él, vagy nyilatkozatában tartósan gátolva van, a hozzájárulást a gyámhatóság adja meg.
 
-(5) Az elismerést és a hozzájárulást anyakönyvvezetőnél, bíróságnál, gyámhatóságnál, illetőleg magyar külképviseleti hatóságnál jegyzőkönyvbe kell venni vagy közjegyzői okiratba kell foglalni.
+(5) Elismerést és hozzájárulást anyakönyvvezetőnél, bíróságnál, gyámhatóságnál, konzuli tisztviselőnél, integrált ügyfélszolgálaton kell jegyzőkönyvbe venni vagy közjegyzőnél közjegyzői okiratba foglalni. A hozzájárulást a konzuli tanúsítvány kiállítására felhatalmazott tiszteletbeli konzulnál is meg lehet tenni.
+
+(6) Az elismerés és a hozzájárulás során az érintetteknek nyilatkozniuk kell a gyermek családi nevéről.
