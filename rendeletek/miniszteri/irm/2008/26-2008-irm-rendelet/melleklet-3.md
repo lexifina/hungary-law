@@ -28,7 +28,9 @@
 
 | 12. | OK-TAT-60 Kft. 3000 Hatvan, Tanács út 9. | ÉM, ÉA, DA, KM, KD, NYD, DD | 1., 2., 14., 19., 20., 21., 22., 26., 27., 28., 29., 30., 31., 32., 33. |
 
-| 13. | Országos Rendőr-főkapitányság Oktatási Igazgatóság 2120 Dunakeszi, Pf. 155 1097 Budapest, Vágóhíd u. 11–13., 1903 Budapest, Pf. 314 (RSZKK) | ÉM, ÉA, DA, KM, KD, NYD, DD | 1., 2., 13., 14., 19., 20., 21., 22., 23., 24., 25., 26., 27., 34. |
+| 13. | Országos Rendőr-főkapitányság Dunakeszi Oktatási Központ 2120 Dunakeszi, Pf. 155 | ÉM, ÉA, DA, KM, KD, NYD, DD | 1., 2., 13., 14., 19., 20., 21., 22., 23., 24., 25., 26., 27., 34. |
+
+| 13a. | Országos Rendőr-főkapitányság Rendészeti Szervek Kiképző Központja 1903 Budapest, Pf. 314 | ÉM, ÉA, DA, KM, KD, NYD, DD | l., 2., 13., 14., 19., 20., 21., 22., 23., 24., 25., 26., 27., 34. |
 
 | 14. | Pécsi Regionális Képző Központ 7634 Pécs, Bázis út 10., 7614 Pécs, Pf. 90 | ÉM, ÉA, DA, KM, KD, NYD | 19., 20., 21., 22., 26., 27. |
 
@@ -36,7 +38,7 @@
 
 | 15. | Pinkerton-V Ügynöki és Szolgáltató Kft. Pinkerton Tanodája 4400 Nyíregyháza, Szarvas u. 5–7. | ÉA | 14., 19., 20., 21., 22., 23., 24., 25., 26., 27. |
 
-| 16. | Rendőrtiszti Főiskola 1121 Budapest, Farkasvölgyi út 12. | ÉM, ÉA, DA, KM, KD, NYD, DD | Valamennyi szakképesítés a 34/2003. (XII. 21.) OM r. 2. § (2) bek. alapján, kivéve 3., 5., 7., 8., 15., 35., 36., 37. |
+| 16. | Nemzeti Közszolgálati Egyetem 1101 Budapest, Hungária krt. 9–11. | ÉM, ÉA, DA, KM, KD, NYD, DD | Valamennyi szakképesítés a 34/2003. (XII. 21.) OM r. 2. § (2) bek. alapján, kivéve 3., 5., 7., 8., 15., 35., 36., 37. |
 
 | 17. | Róbert Károly Főiskola Felnőttképzési Központ 3200 Gyöngyös, Mátrai u. 36. | ÉM | 16., 17., 18. |
 
@@ -48,6 +50,6 @@
 
 | 21. | Büntetés-végrehajtási Szervezet Oktatási Központja 1108 Budapest, Újhegyi út 9–11. | ÉM, ÉA, DA, KM, KD, NYD, DD | A 34/2003. (XII. 21.) OM r. 2. § (2) bek. alapján 35., 36., 37. |
 
-3. melléklet a 26/2008. (XI. 20.) IRM rendelethez[^6]
+3. melléklet a 26/2008. (XI. 20.) IRM rendelethez[^7]
 
-[^6]: A 3. mellékletet a 2. § (2) bekezdése hatályon kívül helyezte.
+[^7]: A 3. mellékletet a 2. § (2) bekezdése hatályon kívül helyezte.

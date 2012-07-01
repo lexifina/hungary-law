@@ -78,6 +78,6 @@
 
 | 37. | 52 861 01 0001 52 01 | Büntetés-végrehajtási főfelügyelő | Szakképesítés-ráépülés |
 
-2. melléklet a 26/2008. (XI. 20.) IRM rendelethez[^5]
+2. melléklet a 26/2008. (XI. 20.) IRM rendelethez[^6]
 
-[^5]: A 2. melléklet a 24/2009. (VI. 22.) IRM rendelet 2. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet a 24/2009. (VI. 22.) IRM rendelet 2. §-a, a 31/2012. (VI. 28.) BM rendelet 5. §-a szerint módosított szöveg.
