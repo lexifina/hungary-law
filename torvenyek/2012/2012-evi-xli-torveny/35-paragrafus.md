@@ -26,4 +26,4 @@ g) a közlekedési szolgáltató a közszolgáltatási szerződéssel összefüg
 
 (6) Az ellátásért felelős a közszolgáltatási szerződésben foglaltak teljesítésének biztosítékaként a közszolgáltatási szerződésben kötbér kikötésére, valamint a hibás teljesítéshez kapcsolódó egyéb pénzügyi természetű szankció rögzítésére köteles.
 
-(7) A közlekedési szolgáltató – illetve abban az esetben, ha a bevételeket a közlekedésszervező szedi be, a közlekedésszervező – olyan elektronikus alapú jegy- és bérlet-ellenőrzési rendszert alakít ki és működtet, amely lehetővé teszi az ellenőrzött jegyek és bérletek számának járat és vonali, valamint indulási és érkezési állomás szerinti kimutatását.
+(7)

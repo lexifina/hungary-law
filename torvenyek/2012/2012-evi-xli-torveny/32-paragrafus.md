@@ -12,9 +12,9 @@ e) a helyi és az elővárosi személyszállítási közszolgáltatások esetén
 
 f) az országos, elővárosi és regionális személyszállítási közszolgáltatások tekintetében az egyes szolgáltatók közötti átjárhatóság megvalósulhasson az utazási okmányok, valamint a bérletek kölcsönös elfogadása és a felek közötti tételes pénzügyi elszámolás révén,
 
-g) az országos, elővárosi és regionális személyszállítási közszolgáltatások tekintetében az egyes utazások járathoz kötötten díjövezeti, indulási és érkezési állomási – meghatározott időponthoz vagy időszakhoz kötött utazások esetén az érvényesítés dátuma, illetve az érvényességi időszak szerinti –, kedvezménykategóriánkénti, vonali bontásban rögzüljenek mind a jeggyel, mind a bérlettel történő utazás esetén, valamint
+g)
 
-h) a helyi személyszállítási közszolgáltatások tekintetében az egyes utazások járathoz kötötten – meghatározott időponthoz vagy időszakhoz kötött utazások esetén az érvényesítés dátuma, illetve az érvényességi időszak szerinti –, kedvezménykategóriánkénti, vonali bontásban rögzüljenek mind a jeggyel, mind a bérlettel történő utazás esetén.
+h)
 
 (2) Az országos személyszállítási közszolgáltatást, regionális személyszállítási közszolgáltatást vagy elővárosi személyszállítási közszolgáltatást végző közlekedési szolgáltató köteles más közlekedési szolgáltatók által vagy egyéb értékesítési helyen értékesített, a társaság járataira szóló jegyet, bérletet elfogadni és ennek elszámolásáról, illetve ellentételezéséről írásban megállapodni.
 
@@ -24,4 +24,4 @@ h) a helyi személyszállítási közszolgáltatások tekintetében az egyes uta
 
 (5) Ha a bevételek beszedését a 22. § (5) bekezdése szerint a közlekedésszervező végzi, akkor a (3) és (6) bekezdésben foglalt kötelezettségek a közlekedésszervezőt terhelik.
 
-(6) Az ellátásért felelős a főváros és elővárosa tekintetében a fővárosi személyszállítási közszolgáltatás és az elővárosi személyszállítási közszolgáltatások igénybevételére jogosító egységes jegy- és bérletrendszert működtet, a megyei jogú város tekintetében a helyi személyszállítási közszolgáltatások és az elővárosi személyszállítási közszolgáltatások igénybevételére vonatkozó egységes jegy- és bérletrendszert működtethet.
+(6)
