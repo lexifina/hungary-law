@@ -50,7 +50,7 @@ af)[^23]
 
 b)[^24] szóló jogerős vagy a fellebbezésre való tekintet nélkül végrehajthatóvá nyilvánított határozatát és a 14/B. § (6) bekezdése szerinti végzését közli a Magyar Államkincstár – a normatív állami támogatás ügyében illetékes – területi szervével (a továbbiakban: Igazgatóság).
 
-(8)[^25] Az e rendelet szerinti eljárásokban a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér megyére, Komárom-Esztergom megyére és Veszprém megyére kiterjedő illetékességgel jár el.
+(8)[^25]
 
 [^12]: A 2/A. §-t a 296/2005. (XII. 23.) Korm. rendelet 22. §-a iktatta be, hatályon kívül helyezte a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés c) pontja. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^13]: A 3. § (1) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés d) pontja hatályon kívül helyezte. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -65,4 +65,4 @@ b)[^24] szóló jogerős vagy a fellebbezésre való tekintet nélkül végrehaj
 [^22]: A 3. § (7) bekezdés ad) alpontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bb) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
 [^23]: A 3. § (7) bekezdés a) pont af) alpontját a 360/2010. (XII. 30.) Korm. rendelet 42. § (2) bekezdés b) pontja hatályon kívül helyezte.
 [^24]: A 3. § (7) bekezdés b) pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (2) bekezdés b) pontja, a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^25]: A 3. § (8) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 39. § (2) bekezdése iktatta be.
+[^25]: A 3. § (8) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 39. § (2) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § e) pontja.
