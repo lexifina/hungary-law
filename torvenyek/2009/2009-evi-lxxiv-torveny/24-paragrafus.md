@@ -22,7 +22,7 @@ ea) azon munkáltatók neve, székhelye, adószáma, amelyeknél szervezettel va
 
 eb) az ea) pontban meghatározott munkáltatóknál – munkáltatónként – munkaviszony keretében foglalkoztatott munkavállalók létszáma, valamint ebből az érdekképviseleti tagok száma,
 
-ec) a legutóbbi üzemi tanácsi választáson elért redukált szavazatok száma azoknál a munkáltatóknál, amelyeknél szervezettel rendelkezik.
+ec) az ea) alpontban meghatározott munkáltatók működő telephelyein, a megelőző öt éven belüli utolsó üzemi tanácsi választásokon az érdekképviselet jelöltjei által együttesen megszerzett redukált szavazatok száma.
 
 (2) Az ÁRMB természetes személy szakszervezeti hovatartozásáról adatokat – az (1) bekezdés a) pontjában foglalt esetet kivéve – nem kezel.
 
@@ -34,7 +34,7 @@ b) az adóhatóságnál rendelkezésre álló adatok közül a december 31-i ál
 
 is felhasználhatja.
 
-(4) Az adatokat az ÁRMB határozatának jogerőre emelkedésétől számított öt év elteltével, de legkorábban a következő, azonos szervezet részvételi jogosultsága alapját képező adatot megállapító határozat jogerőre emelkedését követő harminc nap elteltével törölni kell.
+(4) Az ÁRMB határozatának alapjául szolgáló adatokat az ÁRMB nyilvántartásából törölni kell, ha az ÁRMB határozatának jogerőre emelkedése óta öt év eltelt. Ha az ÁRMB öt éven belül valamely szervezet részvételi jogosultságát ismételten megállapító határozatot hozott, a korábbi határozat alapjául szolgáló adatokat az új határozat jogerőre emelkedését követő 30 nap elteltével kell törölni.
 
 (5) A kezelt adatok közül az (1) bekezdés d) pontjának dc) alpontjában, valamint e) pontjában meghatározott adatok nem nyilvánosak. Azokba csak az ÁRMB tagja, valamint az ÁRMB tevékenységét segítő, a 25. § (1) bekezdésének d) pontja szerinti feladatot ellátó munkatárs tekinthet be. Ezen túlmenően, az ÁPB oldalának tagjaira vonatkozó, e bekezdés szerinti adatokba betekinthetnek az oldal tagjai is. A betekintési joggal rendelkezők – e törvény eltérő rendelkezése hiányában – az e bekezdésben meghatározott adatokat harmadik személy részére nem adhatják át.
 

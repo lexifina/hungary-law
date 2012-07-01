@@ -1,5 +1,3 @@
-## „(3) A Kormány az Országos Érdekegyeztető Tanácsban részt vevő országos szakszervezeti szövetségekkel konzultálva rendeletben határozza meg az üzemitanács-választás szavazólapjának tartalmát és a szakszervezeti reprezentativitás megállapítása érdekében az országos szavazatösszesítés módját és rendjét. Az ágazati (szakágazati) és területi szavazatösszesítés módjának és rendjének meghatározása tekintetében a Kormány az Országos Érdekegyeztető Tanács és az ágazati párbeszéd bizottságok véleményének kikérésével alkot rendeletet.”
-
 1. számú melléklet a 2009. évi LXXIV. törvényhez
 
 A munkavállalói érdekképviseletek döntési jogosultságának, valamint reprezentativitásának szempontjai

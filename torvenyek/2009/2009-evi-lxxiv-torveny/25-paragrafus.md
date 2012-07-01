@@ -12,4 +12,4 @@ d) biztosítja az ÁRMB működését, ideértve az ÁRMB működéséhez szüks
 
 (2) Az (1) bekezdésben meghatározottakra az ÁRMB 21. § (1) bekezdésének b) pontja alapján hozott jogerős határozatával elismert ÁPB jogosult.
 
-(3) Az (1) bekezdés a) pontjában meghatározottak forrását és mértékét a költségvetésről szóló törvény határozza meg.
+(3) Az (1) bekezdés a) pontjában meghatározottak forrását és mértékét a költségvetésről szóló törvény az ágazati társadalmi párbeszédért felelős miniszter által vezetett minisztérium fejezetében jóváhagyott költségvetés határozza meg.

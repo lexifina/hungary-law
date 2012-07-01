@@ -16,7 +16,7 @@ választja meg, az ÁPBT tagjai által állított jelöltek közül. Az ÁPBT mi
 
 (6) A választásra jogosultak legfeljebb két jelöltre adhatják le szavazatukat. A munkáltatói, illetve munkavállalói jelöltekre csak az adott oldalhoz tartozó választásra jogosult szavazhat.
 
-(7) A szavazás akkor érvényes, ha a választásra jogosultak legalább kétharmada a szavazáson részt vesz. A szavazat akkor érvényes, ha
+(7) A szavazás akkor érvényes, ha oldalanként a választásra jogosultak legalább kétharmada a szavazáson részt vesz. A szavazat akkor érvényes, ha
 
 a) abból egyértelműen megállapítható, hogy azt mely jelöltre adták le, és
 
@@ -34,7 +34,7 @@ a) a megbízás lejártának időpontjában,
 
 b) ha a miniszter az általa delegált tag megbízatását visszavonja,
 
-c) ha a választásra jogosultak a tagot visszahívják,
+c) ha a választásra jogosultak a tagot visszahívják, és erről tájékoztatják az Ágazati Párbeszéd Bizottságok Tanácsát, valamint a minisztert
 
 d) a tag lemondásával, illetve
 

@@ -26,7 +26,7 @@ is tagja, nyilatkoznia kell, hogy adatait melyik munkáltatói érdekképviselet
 
 (4) Az (1)–(3) bekezdésben foglaltakon túl az ÁPB tagja olyan ágazati érdekképviselet lehet, amely e tevékenységét legalább két éve folytatja. Az e feltételnek való megfelelést jelenti, ha
 
-a) az érdekképviseletet érintő jogutódlás – így különösen átalakulás, szétválás, összeolvadás –, illetve
+a) az érdekképviseletet érintő jogutódlás – így különösen átalakulás, szétválás, egyesülés –, illetve
 
 b) érdekképviseleti szövetség létrehozatala
 

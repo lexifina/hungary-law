@@ -1,4 +1,4 @@
-9. § (1) Legalább egy ágazati munkáltatói érdekképviselet és legalább egy ágazati szakszervezet kezdeményezheti ÁPB létrehozását, feltéve, hogy az adott ágazatban ÁPB nem működik, illetve létrehozását még nem kezdeményezték.
+9. § (1) Legalább egy ágazati munkáltatói érdekképviselet és legalább egy ágazati szakszervezet kezdeményezheti ÁPB létrehozását, feltéve, hogy az adott ágazatban ÁPB nem működik, illetve létrehozását 6 hónapon belül nem kezdeményezték.
 
 (2) A kezdeményezést – az ágazat, valamint a kezdeményezők (4) bekezdés b) pontjában szereplő adatainak megjelölésével – a miniszter hivatalos lapjában nyilvánosságra kell hozni. A nyilvánosságra hozatal időpontjától számított harminc napig más, e törvény feltételeinek megfelelő érdekképviselet is írásban tájékoztathatja a megalakításban való részvételi szándékáról a kezdeményezőket, illetve az Ágazati Részvételt Megállapító Bizottságot (a továbbiakban: ÁRMB).
 

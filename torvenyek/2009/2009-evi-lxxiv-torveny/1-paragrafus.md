@@ -2,9 +2,9 @@
 
 1. § (1) E törvény hatálya kiterjed
 
-a) a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) hatálya alá tartozó munkavállalók és munkáltatók párbeszéd bizottságot alkotó érdekképviseleteire,
+a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) hatálya alá tartozó munkavállalók és munkáltatók párbeszéd bizottságot alkotó érdekképviseleteire,
 
-b) az ágazati, alágazati, szakágazati, illetve a rehabilitációs párbeszéd bizottságra,
+b) a nemzetgazdasági ági, ágazati, alágazati, szakágazati, illetve a rehabilitációs párbeszéd bizottságra,
 
 c) a szociális párbeszéddel kapcsolatos feladatot ellátó kormányzati szervekre,
 
