@@ -1,7 +1,19 @@
+## 74. § A Földalap Vhr. a következő 12/A. §-sal egészül ki:
+
+## „12/A. § (1) Azon ingatlanokat érintő ügyekben, amelyek felett a közös tulajdonosi joggyakorlás az NFA-t és a GYEMSZI-t illeti meg, e rendelet rendelkezéseit – a 13. § (3) és (4) bekezdése kivételével – a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni.
+
+## (2) E rendeletben az (1) bekezdés szerinti ingatlanok esetében
+
+## a) az MNV Zrt. és az MNV Zrt. döntéshozatalra jogosult szerve alatt a GYEMSZI-t,
+
+## b) az állami vagyon felügyeletéért felelős miniszter alatt az egészségügyért felelős minisztert
+
+## kell érteni.
+
+## (3) E rendelet 3. § szerinti minősítési eljárást 2012. december 31-ig kell lefolytatni.
+
+## (4) Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 137/2012. (VI. 29.) Korm. rendelet e rendeletet módosító rendelkezéseinek a hatályba lépését követő 60 napon belül az NFA és a GYEMSZI köteles az e rendelet előírásait a belső szabályzataiban megfelelően átvezetni.”
+
 ## 13. Az önálló orvosi tevékenységről szóló 2000. évi II. törvény végrehajtásáról szóló
 
 ## 313/2011. (XII. 23.) Korm. rendelet módosítása
-
-75. §[^82]
-
-[^82]: A 75–80. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.

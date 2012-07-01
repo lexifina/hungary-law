@@ -1,3 +1,5 @@
-30. §[^34]
+## 29. § A Műkr. 19. § (1) bekezdése a következő h) ponttal egészül ki:
 
-[^34]: A 26–32. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## (Az egészségügyi államigazgatási szerv a működési engedélyt visszavonja, ha)
+
+## „h) az egészségügyi alapellátás körében kötött feladat-ellátási szerződés megszűnik,”

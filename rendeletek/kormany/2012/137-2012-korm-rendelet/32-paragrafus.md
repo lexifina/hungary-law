@@ -1,3 +1,7 @@
-32. §[^36]
+## 31. § A Műkr. 18. § (3) bekezdésében az „Az egy hónapot meghaladó” szövegrész helyébe az „A” szöveg lép.
 
-[^36]: A 26–32. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## 32. § Hatályát veszti a Műkr.
+
+a) 2. § (3) bekezdése,
+
+b) 1. melléklete.

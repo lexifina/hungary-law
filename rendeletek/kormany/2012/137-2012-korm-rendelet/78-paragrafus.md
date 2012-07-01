@@ -1,3 +1,5 @@
-78. §[^85]
+## 77. § Az Öotv. Vhr. 7. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
 
-[^85]: A 75–80. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## (A praxisengedélyt vissza kell vonni, ha)
+
+## „e) a praxisjog elidegenítésére nyitva álló határidő eredménytelenül telik el, a határidő leteltét követő nappal.”

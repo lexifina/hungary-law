@@ -1,3 +1,1 @@
-52. §[^58]
-
-[^58]: A 46–54. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## „(5) Az adott évre vonatkozóan meghirdetett keretszámok a december 31-éig benyújtott kérelmek tekintetében használhatók fel.”

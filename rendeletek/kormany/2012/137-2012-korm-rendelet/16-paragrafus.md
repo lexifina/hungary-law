@@ -1,3 +1,3 @@
-16. §[^17]
+## 15. § A Kr. 22. §-a a következő (2a) bekezdéssel egészül ki:
 
-[^17]: A 14–20. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## „(2a) Az iskolai, ifjúsági fogászati szolgálat által nyújtott iskolafogászati ellátás finanszírozására az OEP a Vhr. 16. § (1) bekezdése szerint köt szerződést.”

@@ -1,3 +1,1 @@
-42. §[^47]
-
-[^47]: A 42. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## „(6a) Amennyiben a kapacitás – az egészségügyért felelős miniszter egyetértése hiányában – a (6) bekezdés alapján nem kerül törlésre a Tv. 11. § (3) bekezdése szerinti nyilvántartásból, a (6) bekezdésben meghatározott időpontot követően – az egészségügyért felelős miniszter által megjelölt határnapig – köthető finanszírozási szerződés a kapacitás tekintetében.”

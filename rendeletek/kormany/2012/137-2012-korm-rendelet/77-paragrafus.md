@@ -1,3 +1,3 @@
-77. §[^84]
+## 76. § Az Öotv. Vhr. 5. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^84]: A 75–80. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## „(2) Amennyiben a praxisjog jogosultja másik körzetre vonatkozó praxisjogot szerez, az új praxisjogra vonatkozóan kiadható praxisengedély, feltéve, hogy a korábbi praxisjoggal érintett körzetben a praxisjog jogosultja a helyettesítéséről gondoskodik. Ha az új praxisjogra kiadott praxisengedély kiadásától számított 6 hónapig a korábbi praxisjog nem került elidegenítésre, a korábbi praxisjogra vonatkozó praxisengedélyt vissza kell vonni.”

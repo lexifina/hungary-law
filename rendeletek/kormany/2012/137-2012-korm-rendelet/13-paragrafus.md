@@ -1,3 +1,5 @@
-13. §[^14]
+## 13. § Hatályát veszti az Ebtv. Vhr.
 
-[^14]: A 12–13. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+a) 31/B. § (3) bekezdésében a „(pl. rokkantsági nyugdíj, rendszeres szociális járadék)” szövegrész,
+
+b) 38/A. § (1) bekezdésében az „ , illetőleg a kifizetésre elszámolt” szövegrész.

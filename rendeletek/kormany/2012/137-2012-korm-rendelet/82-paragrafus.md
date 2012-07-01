@@ -1,3 +1,1 @@
-82. §[^89]
-
-[^89]: A 81–91. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## „35. előállítás: az opioid alkaloidok elválasztása az azt szolgáltató máknövénytől, valamint a kannabisz, kannabisz gyanta elválasztása az azt szolgáltató kannabisz növénytől.”

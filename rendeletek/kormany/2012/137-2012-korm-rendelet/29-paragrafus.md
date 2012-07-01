@@ -1,3 +1,5 @@
-29. §[^33]
+## 28. § A Műkr. 18. §-a a következő (7) és (8) bekezdéssel egészül ki:
 
-[^33]: A 26–32. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## „(7) Az (1) és a (4) bekezdés szerinti bejelentés alapján – a bejelentésétől számított – legfeljebb egy évig szünetel az egészségügyi szolgáltatás ellátása. Ezt követően az egészségügyi közszolgáltatást végző szolgáltató – az (1) és a (6) bekezdésben foglaltak figyelembevételével – évente kezdeményezheti a szünetelés meghosszabbítását az előző év elteltét követő 30 napon belül.
+
+## (8) Abban az esetben, ha a bejelentést, illetve a meghosszabbítást követő egy év elteltét követő 30 napon belül az egészségügyi közszolgáltatást végző szolgáltató nem kezdeményezte a (7) bekezdésben foglaltak szerint a szünetelés meghosszabbítását és a szünetelés megszüntetését sem jelentette be, az adott egészségügyi szolgáltatás ellátásához használt szakellátási kapacitás tekintetében az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 5. § (5) bekezdését kell alkalmazni azzal, hogy egészségügyi államigazgatási szervként az Országos Tisztifőorvosi Hivatal jár el és az eljárás hivatalból indul.”

@@ -1,3 +1,3 @@
-86. §[^93]
+## 85. § A Kábítószer Vhr. 15. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^93]: A 81–91. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## „(2) Az engedély kiadásáról az EEKH a vámszervet értesíti.”

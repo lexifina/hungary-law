@@ -1,3 +1,1 @@
-5. §[^5]
-
-[^5]: A 2–6. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## „(4a) A 7/A. § (5) bekezdése szerinti fixcsoportban a fajlagos egységre jutó támogatás összege a fixesítés alapjául szolgáló funkcionális csoport támogatására a (4) bekezdés a) pontja szerint megállapított összeg.”

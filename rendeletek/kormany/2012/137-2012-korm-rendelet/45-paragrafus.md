@@ -1,10 +1,11 @@
+## 44. § Az Eftv. Vhr. 3. számú melléklete helyébe a 7. melléklet lép.
+
 ## 45. § A Eftv. Vhr.
 
-a)[^50]
+a)[^10]
 
-b)[^51]
+b) 12. § (3) bekezdésében a „támogatásra kiírt pályázat határidejének letelte előtt legalább 75 nappal” szövegrész helyébe a „támogatásra kiírt pályázat határidejének letelte előtt legalább 75 nappal, amennyiben a pályázat kiírása és határideje közötti idő ennél rövidebb, akkor a pályázat kiírását követő 8 napon belül” szöveg
 
 lép.
 
-[^50]: A 45. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^51]: A 45. § b) pontja a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^10]: A 45. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

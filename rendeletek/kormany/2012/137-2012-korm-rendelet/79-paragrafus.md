@@ -1,3 +1,3 @@
-79. §[^86]
+## 78. § Az Öotv. Vhr. 11. §-a a következő második mondattal egészül ki:
 
-[^86]: A 75–80. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## „A 7. § (1) bekezdése szerinti esetekben az egészségügyi dokumentációt az adott körzetre vonatkozóan működési engedéllyel rendelkező egészségügyi szolgáltató részére kell átadni.”

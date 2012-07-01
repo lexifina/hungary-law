@@ -1,3 +1,3 @@
-40. §[^44]
+## 39. § Az Eftv. Vhr. 8. §-a a következő (15) bekezdéssel egészül ki:
 
-[^44]: A 39–40. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## „(15) A Tv. 7. § (11) bekezdése szerinti átcsoportosítás során a kapacitások ellátási formája és szakmai összetétele megváltoztatható azzal, hogy nem lehet a krónikus fekvőbeteg-szakellátási kapacitást aktív fekvőbeteg-szakellátási kapacitásra, a járóbeteg-szakellátási kapacitást fekvőbeteg-szakellátási kapacitásra változtatni.”

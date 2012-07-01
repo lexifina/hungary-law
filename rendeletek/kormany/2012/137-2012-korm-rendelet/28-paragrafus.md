@@ -1,3 +1,3 @@
-28. §[^32]
+## 27. § A Műkr. 11. §-a a következő (5a) bekezdéssel egészül ki:
 
-[^32]: A 26–32. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## „(5a) Az Országos Tisztifőorvosi Hivatal az általa kiadott működési engedélyről szóló határozatot közli a működési engedéllyel érintett egészségügyi szolgáltató székhelye, illetve telephelye szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervvel.”

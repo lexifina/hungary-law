@@ -1,3 +1,9 @@
-54. §[^60]
+## 54. § Hatályát veszti a Szakképz. Vhr.
 
-[^60]: A 46–54. § a 98. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+a) 2. § (5) bekezdésében az „az 5. § (4) bekezdése és” szövegrész,
+
+b) 5. § (4) bekezdése,
+
+c) 14. § (5) bekezdése és
+
+d) 24. §-a.
