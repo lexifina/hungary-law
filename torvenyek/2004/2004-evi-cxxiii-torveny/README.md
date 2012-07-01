@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-123-00-00
 | 2012-01-01 | 2011. évi CLVI. törvény | 2004-123-00-00.16 |
 | 2012-03-01 | 2012. évi V. törvény | 2004-123-00-00.17 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 2004-123-00-00.18 |
+| 2012-07-01 | 2012. évi LXXXVI. törvény | 2004-123-00-00.19 |

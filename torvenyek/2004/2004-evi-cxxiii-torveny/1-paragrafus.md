@@ -34,13 +34,13 @@ d) a foglalkoztatást helyettesítő támogatásra jogosult álláskereső;
 
 6. ösztöndíjas foglalkoztatott: az a személy, aki az ösztöndíjas foglalkoztatási jogviszony létesítésének időpontjában
 
-– a 30. életévét még nem töltötte be, és
+– a 30. életévét még nem töltötte be,
 
 – akinek a diplomája a jogviszony létesítését megelőző két éven belül került kiadásra, és
 
-– munkaviszonyban – ide nem értve az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény szerinti jogviszonyt és az adórendszeren kívüli foglalkoztatásnak minősülő háztartási munkára irányuló munkaviszonyt –, közalkalmazotti jogviszonyban, közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, szolgálati jogviszonyban (a továbbiakban együtt: munkaviszony) nem áll;
+– munkaviszonyban – ide nem értve az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény szerinti jogviszonyt és az adórendszeren kívüli foglalkoztatásnak minősülő háztartási munkára irányuló munkaviszonyt –, közalkalmazotti jogviszonyban, kormányzati szolgálati jogviszonyban, szolgálati jogviszonyban (a továbbiakban együtt: munkaviszony) nem áll;
 
-7. foglalkoztató: a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.), a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.), a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt) hatálya alá tartozó természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság és egyéni cég;
+7. foglalkoztató: a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.), a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 1. § e) pontja és 2. §-a, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) hatálya alá tartozó természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság és egyéni cég;
 
 8. munkaügyi törvény: az Mt., a Kttv., és a Kjt.;
 
