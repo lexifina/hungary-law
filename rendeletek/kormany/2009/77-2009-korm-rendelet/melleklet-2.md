@@ -258,7 +258,7 @@
 
 | 9. kulturális örökségvédelem | fővárosi és megyei kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
-| 10. egészségügy | Fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve * | Országos Tisztifőorvosi Hivatal |
+| 10. egészségügy | Fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
 | 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
 
@@ -302,7 +302,7 @@
 
 | 9. kulturális örökségvédelem | Fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
-| 10. egészségügy | Fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve * | Országos Tisztifőorvosi Hivatal |
+| 10. egészségügy | Fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
 | 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
 
@@ -346,12 +346,10 @@
 
 | 9. kulturális örökségvédelem | Fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal |
 
-| 10. egészségügy | Fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve * | Országos Tisztifőorvosi Hivatal |
+| 10. egészségügy | Fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
 | 11. hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Tanácsának elnöke |
 
 | 12. műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-* Az e rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér megyére kiterjedő illetékességgel látja el.
-
-[^3]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 239. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 21. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés c) pontja, a 23/2012. (II. 29.) Korm. rendelet 40. §-a szerint módosított szöveg.
+[^3]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 239. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 21. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (1) bekezdés c) pontja, a 23/2012. (II. 29.) Korm. rendelet 40. §-a, a 137/2012. (VI. 29.) Korm. rendelet 95. § (5) bekezdése és 97. § n) pontja szerint módosított szöveg.
