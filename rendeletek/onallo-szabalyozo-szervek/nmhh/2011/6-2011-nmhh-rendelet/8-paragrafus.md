@@ -40,7 +40,7 @@
 
 4. az előfizetői szolgáltatás minősége, biztonsága:
 
-4.1. az előfizetői szolgáltatás az elektronikus hírközlési szolgáltatás minőségének az előfizetők és felhasználók védelmével összefüggő követelményeiről szóló kormányrendeletben meghatározott, vagy a szolgáltató által önként vállalt szolgáltatásminőségi követelményeinek célértékei, ezek értelmezése és teljesítésük ellenőrzésének mérési módszere,
+4.1.[^3] az előfizetői szolgáltatás az elektronikus hírközlési szolgáltatás minőségének az előfizetők és felhasználók védelmével összefüggő követelményeiről szóló NMHH rendeletben meghatározott, vagy a szolgáltató által önként vállalt szolgáltatásminőségi követelményeinek célértékei, ezek értelmezése és teljesítésük ellenőrzésének mérési módszere,
 
 4.2. amennyiben a szolgáltató hálózatában forgalommérést, irányítást, menedzselést alkalmaz, és ez hatással van a szolgáltatás minőségére, vagy az elektronikus hírközlési szolgáltatás útján elérhető más szolgáltatásokhoz, tartalmakhoz, alkalmazásokhoz történő hozzáférésre, az erre vonatkozó szabályok részletes ismertetése,
 
@@ -121,3 +121,5 @@
 (4) Az olyan összefüggő szabályok, feltételek, amelyek terjedelmi okból főszövegben nem helyezhetők el, mellékletben is meghatározhatók. A főszövegben a mellékletre utalni kell.
 
 (5) Az ügyfélszolgálatok címének, telefonszámának és nyitva tartási idejének változása esetén a szolgáltatót nem terhelik a jogszabályban meghatározott, a szerződés módosításához kapcsolódó kötelezettségek, azonban a szolgáltató ezt a központi ügyfélszolgálatán, a honlapján, valamint az internetes ügyfélszolgálati címén köteles naprakészen hozzáférhetővé tenni.
+
+[^3]: A 8. § (1) bekezdés 4. pont 4.1. alpontja a 13/2011. (XII. 27.) NMHH rendelet 18. §-a szerint módosított szöveg.

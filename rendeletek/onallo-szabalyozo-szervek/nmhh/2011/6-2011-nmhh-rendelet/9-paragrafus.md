@@ -8,7 +8,7 @@ b) a hiba a vizsgálat alatt nem volt észlelhető, vagy a hiba nem a szolgálta
 
 (2) A szolgáltató köteles az előfizető által bejelentett, a hibabehatároló eljárása eredményeként valósnak bizonyult, érdekkörébe tartozó hibát kijavítani.
 
-(3)[^2] A hiba bejelentésétől a hiba kijavításáig eltelt idő nem haladhatja meg a 72 órát.
+(3)[^4] A hiba bejelentésétől a hiba kijavításáig eltelt idő nem haladhatja meg a 72 órát.
 
 (4) Amennyiben a hiba kijavításához harmadik személy (például hatóság, közműszolgáltató vagy ingatlantulajdonos) hozzájárulása szükséges a fenti határidők meghosszabbodnak a hozzájárulás beszerzésének idejével, azonban a hozzájárulást a szolgáltatónak az (1) bekezdés szerinti határidőn belül meg kell kérnie.
 
@@ -46,4 +46,4 @@ b) hat hónapnál rövidebb időtartamú előfizetői jogviszony esetén annak t
 
 c) ha a hiba bejelentését megelőzően az előfizető az adott előfizetői szerződés alapján a hibabejelentéssel érintett előfizetői szolgáltatással kapcsolatban díjat még nem fizetett, akkor a havi előfizetési díj alapján egy napra vetített összeg.
 
-[^2]: A 9. § (3) bekezdése a 26. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^4]: A 9. § (3) bekezdése a 26. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.

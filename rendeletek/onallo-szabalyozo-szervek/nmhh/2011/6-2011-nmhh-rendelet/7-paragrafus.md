@@ -34,7 +34,7 @@ c) a szerződés tárgyát képező előfizetői szolgáltatás:
 
 ca) a szolgáltatás rövid leírása, a díjcsomag megnevezése, az előfizető által kért szolgáltatások,
 
-cb) utalás az általános szerződési feltételek azon vonatkozó pontjaira, amelyek meghatározzák a szolgáltatást jellemző, az elektronikus hírközlési szolgáltatás minőségének az előfizetők és felhasználók védelmével összefüggő követelményeiről szóló kormányrendeletben meghatározott, vagy a szolgáltató által önként vállalt szolgáltatásminőségi követelmények célértékeit,
+cb)[^2] utalás az általános szerződési feltételek azon vonatkozó pontjaira, amelyek meghatározzák a szolgáltatást jellemző, az elektronikus hírközlési szolgáltatás minőségének az előfizetők és felhasználók védelmével összefüggő követelményeiről szóló NMHH rendeletben meghatározott, vagy a szolgáltató által önként vállalt szolgáltatásminőségi követelmények célértékeit,
 
 cc) amennyiben a szolgáltató hálózatában forgalommérést, irányítást, menedzselést alkalmaz, és ez hatással van a szolgáltatás minőségére, vagy az elektronikus hírközlési szolgáltatás útján elérhető más szolgáltatásokhoz, tartalmakhoz, alkalmazásokhoz történő hozzáférésre, akkor az előfizető erre vonatkozó tájékoztatása, és utalás az általános szerződési feltételek azon pontjára, amely ennek részletes feltételeit tartalmazza,
 
@@ -119,3 +119,5 @@ o) a hibabejelentések megtételének, számlapanaszok bejelentésének lehetsé
 (5) A szolgáltató által az Eht. 154. § (1) bekezdése alapján a számlázás és a kapcsolódó díjak beszedése, valamint az előfizetői szerződések figyelemmel kísérése céljából kezelhető adatok körét az egyedi előfizetői szerződés (1) bekezdés a) pontja szerinti fejezetében tartalmazza.
 
 (6) Az egyedi előfizetői szerződések mintáit a szolgáltató köteles honlapján az általános szerződési feltételek mellett közzétenni.
+
+[^2]: A 7. § (1) bekezdés c) pont cb) alpontja a 13/2011. (XII. 27.) NMHH rendelet 18. §-a szerint módosított szöveg.
