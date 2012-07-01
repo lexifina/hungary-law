@@ -1,3 +1,3 @@
-## 35. §[^28]
+## 35. §[^22]
 
-[^28]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

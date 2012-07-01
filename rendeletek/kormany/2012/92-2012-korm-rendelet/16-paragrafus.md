@@ -1,3 +1,5 @@
-## 15. §[^5]
+## 15. § A várólista alapján nyújtható ellátások részletes szabályairól szóló 287/2006. (XII. 23.) Korm. rendelet (a továbbiakban: Vr.) 1. §-a a következő c) ponttal egészül ki:
 
-[^5]: A 15. § a 43. § (3) bekezdése alapján 2012. július 1-jén lép hatályba.
+## (A rendelet hatálya kiterjed)
+
+## „c) az országos várólista nyilvántartást vezető szervre és a központi várólistát működtető szervre.”

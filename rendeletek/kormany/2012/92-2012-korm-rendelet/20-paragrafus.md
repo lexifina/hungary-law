@@ -1,3 +1,1 @@
-## 19. §[^9]
-
-[^9]: A 19. § a 43. § (3) bekezdése alapján 2012. július 1-jén lép hatályba.
+## „(10) Az egészségügyi szolgáltató – az (1) bekezdésben rögzített gyakorisággal – elektronikus úton jelentést küld az Országos Egészségbiztosítási Pénztár részére arról, hogy az egyes betegfogadási listái esetében az újonnan jelentkező, sürgős ellátást nem igénylő betegeket milyen várható várakozási időn belül tudja fogadni.”

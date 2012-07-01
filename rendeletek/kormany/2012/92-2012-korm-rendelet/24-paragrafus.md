@@ -1,15 +1,15 @@
-## 23. §[^13]
+## 23. §[^8]
 
-24. § (1)[^14]
+24. § (1)[^9]
 
-(2)[^15]
+(2)[^10]
 
-(3)[^16]
+(3)[^11]
 
-(4)[^17]
+(4)[^12]
 
-[^13]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 24. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 24. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 24. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 24. § (4) bekezdése a 43. § (3) bekezdése alapján 2012. július 1-jén lép hatályba.
+[^8]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 24. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 24. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 24. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 24. § (4) bekezdése a 107/2012. (VI. 1.) Korm. rendelet 15. § (2) bekezdése alapján nem lép hatályba.

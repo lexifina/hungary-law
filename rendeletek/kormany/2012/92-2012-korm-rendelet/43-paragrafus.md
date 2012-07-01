@@ -1,4 +1,4 @@
-## 42. §[^35]
+## 42. §[^29]
 
 ## 15. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) Ez a rendelet 2013. január 1-jén hatályát veszti.
 
-[^35]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
