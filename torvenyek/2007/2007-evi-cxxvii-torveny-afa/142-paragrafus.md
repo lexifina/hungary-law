@@ -14,7 +14,9 @@ f) az adós és hitelező viszonylatában olyan termék értékesítése esetéb
 
 g) a vállalkozásban tárgyi eszközként használt termék értékesítése, valamint egyéb, a teljesítésekor a szokásos piaci árat tekintve 100 000 forintnak megfelelő pénzösszeget meghaladó termékértékesítés, szolgáltatásnyújtás esetében, ha a teljesítésre kötelezett adóalany felszámolási vagy bármely más, fizetésképtelenségét jogerősen megállapító eljárás hatálya alatt áll;
 
-h) üvegházhatású gáz kibocsátására jogosító forgalomképes vagyoni értékű jog (kibocsátási egység) átruházása esetében.
+h) üvegházhatású gáz kibocsátására jogosító forgalomképes vagyoni értékű jog (kibocsátási egység) átruházása esetében;
+
+i) a 6/A. számú mellékletben felsorolt termékek értékesítése esetében.
 
 (2) Az (1) bekezdés f) és g) pontja szerinti ingatlanértékesítésre az (1) bekezdés e) pontjában meghatározottaknak is teljesülniük kell.
 
@@ -37,3 +39,5 @@ a (3) bekezdésben említett feltételek teljesüléséről, illetőleg arról i
 (6) Az állami adóhatóság (5) bekezdésben említett tájékoztatási kötelezettségének köteles haladéktalanul eleget tenni. Az írásos megkeresésre adott adóhatósági választ az ellenkező bizonyításáig valósnak kell tekinteni. Az (1) bekezdés e) pontjában meghatározott esetben az adóhatóság tájékoztatási kötelezettségének a honlapján történő közzététellel tesz eleget.
 
 (7) Az (1) bekezdés alkalmazása esetében a termék értékesítője, szolgáltatás nyújtója olyan számla kibocsátásáról gondoskodik, amelyben áthárított adó, illetőleg a 83. §-ban meghatározott százalékérték nem szerepel.
+
+(8) Az (1) bekezdés i) pontja nem alkalmazható a XIV. Fejezetben szabályozott jogállású, mezőgazdasági tevékenységet folytató adóalanynak e tevékenysége körébe tartozó termékértékesítésére és termékbeszerzésére.

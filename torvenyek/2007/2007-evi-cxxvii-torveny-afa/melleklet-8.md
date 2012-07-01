@@ -15,15 +15,3 @@ I. rész: műalkotások
 5. művész által saját kezűleg készített és szignált egyedi kerámia;
 
 6. művész által saját kezűleg, legfeljebb 8 számozott példányban készített, és a művész vagy a művészeti műhely által szignált réz alapú tűzzománc, kivéve az ötvös- és ékszertermékeket;
-
-7. művész által saját kezűleg készített, és általa vagy felügyelete alatt legfeljebb 30 számozott példányban – minden méretet és hordozót ideértve – sokszorozott, és a művész által szignált fénykép.
-
-II. rész: gyűjteménydarabok
-
-1. posta- és illetékbélyeg, lebélyegzett postabélyeg, első napi bélyegzéssel ellátott boríték, postai levelezőlap és boríték (bélyeges papír) és más hasonló érvénytelenített vagy postatiszta termék, feltéve, hogy ezek nincsenek forgalomban, illetőleg nem is szánják forgalomra (vtsz. 9704 00 00);
-
-2. állattani, növénytani, ásványtani, anatómiai, történelmi értékű, archeológiai, paleontológiai, etnográfiai és numizmatikai gyűjtemény és gyűjteménydarab (vtsz. 9705 00 00).
-
-III. rész: régiségek
-
-– a vtsz. 9701–9705 alá nem tartozó, 100 évnél idősebb termék (vtsz. 9706 00 00).
