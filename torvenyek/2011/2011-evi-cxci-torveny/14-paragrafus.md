@@ -16,7 +16,7 @@ b) a havi átlagjövedelem meghatározásához a 2010. december 31-ét követő 
 
 a megkereséstől számított tizenöt napon belül közli.
 
-(4)
+(4) A rehabilitációs hatóság megkeresésére – az ellátás megállapítása céljából – a nyugdíjbiztosítási igazgatási szerv tizenöt napon belül közli a rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, rehabilitációs járadék, egészségkárosodott személyek szociális járadékai folyósításának időtartamára vonatkozó adatokat.
 
 (5) A rehabilitációs hatóság megkeresésére – az ellátás megállapítása céljából – az egészségbiztosítási szerv
 
