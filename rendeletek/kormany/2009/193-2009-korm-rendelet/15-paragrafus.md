@@ -1,4 +1,4 @@
-## 14/A. §[^17] Az építésügyi hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján az eljárást felfüggeszti, ha az eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőség szakhatósági állásfoglalásában megállapította, hogy a tevékenység várható környezeti hatásai jelentősek. A felfüggesztésről szóló végzésnek tartalmaznia kell a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség megnevezését, valamint állásfoglalása rendelkező részét és indokolását.
+## 14/A. §[^20] Az építésügyi hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján az eljárást felfüggeszti, ha az eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőség szakhatósági állásfoglalásában megállapította, hogy a tevékenység várható környezeti hatásai jelentősek. A felfüggesztésről szóló végzésnek tartalmaznia kell a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség megnevezését, valamint állásfoglalása rendelkező részét és indokolását.
 
 ## Jogutódlás
 
@@ -10,4 +10,4 @@ a) a hivatalból indult eljárásban a polgári jog szerinti jogutód megállap�
 
 b) a jogutód, illetve a jogelőd kérelmére indult eljárásban a jogutód építési jogosultságának igazolása tárgyában a jogutódlás bekövetkeztének tényállását tisztázza és a jogutódlásról végzéssel dönt.
 
-[^17]: A 14/A. §-t a 82/2011 (V. 18.) Korm. rendelet 46. §-a iktatta be.
+[^20]: A 14/A. §-t a 82/2011 (V. 18.) Korm. rendelet 46. §-a iktatta be.

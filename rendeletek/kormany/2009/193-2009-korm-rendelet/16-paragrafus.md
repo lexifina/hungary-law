@@ -18,8 +18,8 @@
 
 (5) Az építésügyi hatóság az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) IV. Fejezetében foglalt előírásoktól eltérő műszaki megoldás engedélyezéséről vagy megtagadásáról az OTÉK 111. §-ában foglaltak figyelembevételével az elvi építési, építési, egyszerűsített építési, fennmaradási engedélyezési eljárás, vagy az integrált építésügyi hatósági, integrált engedélyezési eljárás keretében dönt.
 
-(6)[^18] A jogerős építési engedélytől az Engr. szerint engedélyezéshez kötött építési tevékenység végzésével eltérni csak módosított építési engedély birtokában lehet.
+(6)[^21] A jogerős építési engedélytől az Engr. szerint engedélyezéshez kötött építési tevékenység végzésével eltérni csak módosított építési engedély birtokában lehet.
 
 (7) Azon építmények esetében, amelyek építésügyi hatósági engedélyezése külön jogszabály szerinti tervtanácsi véleményhez kötött, módosult építési tevékenységet csak ismételt tervtanácsi vélemény megszerzését követően lehet elvégezni, ha az építési engedélytől az ahhoz tartozó építészeti-műszaki dokumentációtól való eltérés az épület tömegére, a nyílászárók rendszerének, az építészeti tagozatok rendszerének, a homlokzati struktúrának a megváltoztatására, vagy az épület közterületről látható homlokzata teljes felületének építészeti jellegzetességét érintő változtatására terjed ki.
 
-[^18]: A 16. § (6) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^21]: A 16. § (6) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.

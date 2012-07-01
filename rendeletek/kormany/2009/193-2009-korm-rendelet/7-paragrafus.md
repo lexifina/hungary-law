@@ -1,4 +1,4 @@
-## 6/A. §[^8] A 6. melléklet szerinti megyei népegészségügyi szakigazgatási szervek e rendelet szerinti feladat- és hatáskörükben különös illetékességgel járnak el.
+## 6/A. §[^11]
 
 ## A tervtanács, a szakértő és a hatósági közvetítő
 
@@ -8,4 +8,4 @@
 
 (3) Az építésügyi hatóság az építésügyi hatósági engedélyezés során jogszabályban meghatározott körben – különösen az Étv. 31. § (5) bekezdése szerinti követelmények érvényre juttatásának érdekében – a rendelkezésre álló tervtanácsi vélemény (2) bekezdés szerinti figyelembevételével, az engedély megadását feltételekhez kötheti, illetve az engedély megadását megtagadhatja.
 
-[^8]: A 6/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 252. §-a iktatta be.
+[^11]: A 6/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 252. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § o) pontja.

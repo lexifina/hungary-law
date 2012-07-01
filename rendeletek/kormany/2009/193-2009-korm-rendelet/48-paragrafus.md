@@ -1,4 +1,4 @@
-## 47. §[^72] E rendeletnek – az építésügyi és az építésfelügyeleti hatósági eljárásokkal összefüggő egyes kormányrendeletek módosításáról szóló 177/2010. (V. 13.) Korm. rendelet (a továbbiakban: Kr.) 17. § (9) bekezdésével megállapított – 45/A–45/D. §-át a Kr. hatálybalépését[^73] követően tett bejelentésekre kell alkalmazni.
+## 47. §[^76] E rendeletnek – az építésügyi és az építésfelügyeleti hatósági eljárásokkal összefüggő egyes kormányrendeletek módosításáról szóló 177/2010. (V. 13.) Korm. rendelet (a továbbiakban: Kr.) 17. § (9) bekezdésével megállapított – 45/A–45/D. §-át a Kr. hatálybalépését[^77] követően tett bejelentésekre kell alkalmazni.
 
-[^72]: A 47. §-t a 177/2010. (V. 13.) Korm. rendelet 17. § (10) bekezdése iktatta be.
-[^73]: A hatálybalépés időpontja: 2010. május 28.
+[^76]: A 47. §-t a 177/2010. (V. 13.) Korm. rendelet 17. § (10) bekezdése iktatta be.
+[^77]: A hatálybalépés időpontja: 2010. május 28.

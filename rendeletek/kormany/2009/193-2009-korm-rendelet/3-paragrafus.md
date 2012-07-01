@@ -2,7 +2,7 @@
 
 ## II. Fejezet
 
-## AZ ÉPÍTÉSÜGYI HATÓSÁGI ELJÁRÁSOK KÖZÖS SZABÁLYAI[^1]
+## AZ ÉPÍTÉSÜGYI HATÓSÁGI ELJÁRÁSOK KÖZÖS SZABÁLYAI[^3]
 
 ## Az eljárás megindítása
 
@@ -18,4 +18,4 @@ b) a tervező, a felelős műszaki vezető, az építési műszaki ellenőr, az 
 
 (4) Az építésügyi hatósági eljárásban a (3) bekezdés b) pontja szerinti személy abban az esetben minősül ügyfélnek, ha az építésügyi hatósági döntés ezen személy feladat- és felelősségi körébe tartozó tevékenységre vonatkozóan megállapítást tesz.
 
-[^1]: A II. fejezet címe a 177/2010. (V. 13.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^3]: A II. fejezet címe a 177/2010. (V. 13.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.

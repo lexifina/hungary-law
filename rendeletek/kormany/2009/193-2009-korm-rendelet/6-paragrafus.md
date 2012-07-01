@@ -1,18 +1,20 @@
 ## Szakhatóság közreműködése
 
-6. § (1)[^5] A Kormány az építésügyi hatóságnak az 5. melléklet szerinti első- és másodfokú építésügyi hatósági eljárásaiban, az 5. mellékletben meghatározott feltételek esetén és szakkérdésben, az 5. melléklet szerinti hatóságokat szakhatóságként jelöli ki. Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság előzetes szakhatósági állásfoglalást ad ki.
+6. § (1)[^7] A Kormány az építésügyi hatóságnak az 5. melléklet szerinti első- és másodfokú építésügyi hatósági eljárásaiban, az 5. mellékletben meghatározott feltételek esetén és szakkérdésben, az 5. melléklet szerinti hatóságokat szakhatóságként jelöli ki. Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság előzetes szakhatósági állásfoglalást ad ki.
 
-(2)[^6] Az építésügyi hatóság a szakhatóságot szakhatósági állásfoglalás beszerzése érdekében az eljárás megindulását követően tíz napon belül megkeresi – az (5) bekezdésben foglalt eset kivételével – a szakhatóságot érintő, az állásfoglalás megadásához szükséges – a szakhatóság eljárására vonatkozó külön jogszabályban meghatározott példányszámú és tartalmú – melléklet, illetve dokumentáció egyidejű megküldésével.
+(2)[^8] Az építésügyi hatóság a szakhatóságot szakhatósági állásfoglalás beszerzése érdekében az eljárás megindulását követően tíz napon belül megkeresi – az (5) bekezdésben foglalt eset kivételével – a szakhatóságot érintő, az állásfoglalás megadásához szükséges – a szakhatóság eljárására vonatkozó külön jogszabályban meghatározott példányszámú és tartalmú – melléklet, illetve dokumentáció egyidejű megküldésével.
 
 (3) Az eljáró építésügyi hatóságnak
 
 a) a közlekedési szakhatósághoz intézett megkereséséhez csatolnia kell a 4. melléklet szerinti dokumentációt,
 
-b) a természet- és tájvédelmi szakhatósághoz intézett megkereséséhez csatolnia kell a 3. melléklet szerinti dokumentációt.
+b) a természet- és tájvédelmi szakhatósághoz intézett megkereséséhez csatolnia kell a 3. melléklet szerinti dokumentációt,
+
+c)[^9] kulturális örökségvédelmi szakhatóság bevonásakor a kulturális örökségvédelmi szakhatósághoz intézett megkereséséhez műemlék, műemléki terület és a műemléket érintő módon megvalósuló építési tevékenység esetében csatolnia kell a 6. melléklet szerinti dokumentációt.
 
 (4) Szakhatóság közreműködése esetén a szakhatóság az állásfoglalása kiadása során a véleményezett építészeti-műszaki tervdokumentáció egy példánya fedlapját az állásfoglalásával megegyező azonosítószámmal, keltezéssel, aláírással és bélyegzőlenyomattal, a dokumentáció valamennyi tervlapját bélyegzőlenyomattal látja el és azt a szakhatósági állásfoglalással együtt megküldi az eljáró építésügyi hatóságnak.
 
-(5)[^7] Az építtető által a kérelem mellékleteként benyújtott hat hónapnál nem régebbi előzetes szakhatósági állásfoglalást az építésügyi hatóság eljárásában szakhatósági állásfoglalásként elfogadja, ha a hozzá, illetve a szakhatósághoz korábban benyújtott kérelem és a hozzá tartozó építészeti-műszaki dokumentáció tartalma azonos, és azt a szakhatóság a (4) bekezdés szerint azonosítószámmal, keltezéssel, aláírással és bélyegzőlenyomattal látta el.
+(5)[^10] Az építtető által a kérelem mellékleteként benyújtott hat hónapnál nem régebbi előzetes szakhatósági állásfoglalást az építésügyi hatóság eljárásában szakhatósági állásfoglalásként elfogadja, ha a hozzá, illetve a szakhatósághoz korábban benyújtott kérelem és a hozzá tartozó építészeti-műszaki dokumentáció tartalma azonos, és azt a szakhatóság a (4) bekezdés szerint azonosítószámmal, keltezéssel, aláírással és bélyegzőlenyomattal látta el.
 
 (6) Az építésügyi hatóság hatásterületet szakhatóság állásfoglalása alapján állapíthat meg.
 
@@ -20,6 +22,7 @@ b) a természet- és tájvédelmi szakhatósághoz intézett megkereséséhez cs
 
 (8) A szakhatóságok az összevont építésügyi hatósági eljárás során kötelesek szakhatósági állásfoglalásukat a helyszíni szemlén megadni.
 
-[^5]: A 6. § (1) bekezdése a 46. § (2) bekezdése szerint módosított szöveg.
-[^6]: A 6. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^7]: A 6. § (5) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^7]: A 6. § (1) bekezdése a 46. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 6. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^9]: A 6. § (3) bekezdés c) pontját a 134/2012. (VI. 28.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^10]: A 6. § (5) bekezdése a 177/2010. (V. 13.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 38. §[^62] A jogerős használatbavételi engedély birtokában a rendeltetésszerű és biztonságos használatra alkalmas építmény ténylegesen használatba vehető. Az építmény ingatlan-nyilvántartásban való feltüntetéséhez az erre irányuló kérelmet, valamint az ahhoz mellékelt jogerős használatbavételi engedély másolatát és az épületfeltüntetési vázrajzot a területileg illetékes földhivatalhoz be kell nyújtani.
+## 38. §[^65] A jogerős használatbavételi engedély birtokában a rendeltetésszerű és biztonságos használatra alkalmas építmény ténylegesen használatba vehető. Az építmény ingatlan-nyilvántartásban való feltüntetéséhez az erre irányuló kérelmet, valamint az ahhoz mellékelt jogerős használatbavételi engedély másolatát és az épületfeltüntetési vázrajzot a területileg illetékes földhivatalhoz be kell nyújtani.
 
 ## Fennmaradási engedély
 
@@ -10,7 +10,7 @@ a) vizsgálja, hogy a fennmaradási engedély megadásának a feltételei fenná
 
 b) a feltételek megléte esetén értesíti az építtetőt a fennmaradási engedély feltételeiről és jogkövetkezményeiről, és egyben
 
-c)[^63] legfeljebb két hónapon belüli határidő tűzésével a fennmaradási engedély iránti kérelem benyújtására hívja fel.
+c)[^66] legfeljebb két hónapon belüli határidő tűzésével a fennmaradási engedély iránti kérelem benyújtására hívja fel.
 
 (3) Amennyiben az építtető a felhívásban megállapított határidőig nem nyújtja be a fennmaradási engedély iránti kérelmét, vagy az azzal kapcsolatos hiánypótlási felhívásnak a megadott határidőben nem tesz eleget, vagy a szabályossá tétel érdekében szükséges munkálatok elvégzését a kötelezett nem vállalja, úgy az építésügyi hatóság elrendeli az építmény bontását.
 
@@ -28,5 +28,5 @@ a) fennmaradási és továbbépítési engedélyezés esetén – a tartalmátó
 
 b) végleges fennmaradási engedélykérelem esetén a 36. § szerinti mellékleteket.
 
-[^62]: A 38. § a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés g) pontja, a 177/2010. (V. 13.) Korm. rendelet 18. § k) pontja szerint módosított szöveg.
-[^63]: A 39. § (2) bekezdés c) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^65]: A 38. § a 311/2009. (XII. 28.) Korm. rendelet 25. § (13) bekezdés g) pontja, a 177/2010. (V. 13.) Korm. rendelet 18. § k) pontja szerint módosított szöveg.
+[^66]: A 39. § (2) bekezdés c) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (121) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

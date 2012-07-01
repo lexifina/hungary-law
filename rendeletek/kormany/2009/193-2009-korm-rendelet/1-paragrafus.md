@@ -20,4 +20,6 @@ e) a barlangban történő építési tevékenységgel
 
 kapcsolatos építésügyi hatósági eljárásokra és építésügyi hatósági ellenőrzésekre.
 
-(3) E rendelet rendelkezéseit a felvonóval, a mozgólépcsővel és a mozgójárdával, a honvédelmi, a katonai és a nemzetbiztonsági célú építménnyel, valamint a műemléki építménnyel kapcsolatos építésügyi hatósági eljárásokra és hatósági ellenőrzésekre is alkalmazni kell, ha jogszabály másként nem rendelkezik.
+(3)[^2] E rendelet rendelkezéseit a felvonóval, a mozgólépcsővel és a mozgójárdával, a honvédelmi, a katonai és a nemzetbiztonsági célú építménnyel kapcsolatos építésügyi hatósági eljárásokra és hatósági ellenőrzésekre is alkalmazni kell, ha jogszabály másként nem rendelkezik.
+
+[^2]: Az 1. § (3) bekezdése a 134/2012. (VI. 28.) Korm. rendelet 14. §-a szerint módosított szöveg.
