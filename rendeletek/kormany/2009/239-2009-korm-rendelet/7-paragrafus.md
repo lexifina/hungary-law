@@ -20,7 +20,7 @@ szakhatóságként jelöli ki.
 
 (2) A szálláshely-üzemeltetési engedélyeztetési eljárásban – az egyéb szálláshely engedélyezése kivételével – külön vizsgálat nélkül ügyfélnek minősül a szálláshely, valamint a szálláshellyel közvetlenül szomszédos, a szálláshellyel közös határvonalú, telekhatárú ingatlan tulajdonosa, használója, kezelője, társasház esetén a közös képviselő vagy az intézőbizottság elnöke, lakásszövetkezet esetén az elnök.
 
-(3)[^5] A 4. melléklet szerinti megyei népegészségügyi szakigazgatási szervek e rendelet szerinti feladat- és hatáskörükben különös illetékességgel járnak el.
+(3)[^5]
 
 [^4]: A 7. § (1) bekezdés a) pont aa) alpontja a 351/2010. (XII. 30.) Korm. rendelet 261. §-a szerint módosított szöveg.
-[^5]: A 7. § (3) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 262. § (1) bekezdése iktatta be.
+[^5]: A 7. § (3) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 262. § (1) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § q) pontja.

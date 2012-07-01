@@ -28,6 +28,4 @@
 
 4. melléklet a 239/2009. (X. 20.) Korm. rendelethez[^19]
 
-Az e rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv Fejér megyére, Komárom-Esztergom megyére és Veszprém megyére kiterjedő illetékességgel látja el.
-
-[^19]: A 4. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 262. § (3) bekezdése iktatta be.
+[^19]: A 4. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 262. § (3) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § q) pontja.
