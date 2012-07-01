@@ -1,11 +1,15 @@
-91. § (1) A szülők döntése alapján azt a hivatásos állományú szülőt, aki a 16 évesnél fiatalabb gyermeket neveli, vagy 16 évesnél fiatalabb gyermekét egyedül nevelő hivatásos állományú szülőt
+91. § (1) A hivatásos állományú szülőt a tizenhat évesnél fiatalabb
 
-a) egy gyermeke után 2,
+a) egy gyermeke után kettő,
 
-b) két gyermeke után 4,
+b) két gyermeke után négy,
 
-c) három vagy több gyermeke után összesen 7 munkanap pótszabadság illeti meg.
+c) kettőnél több gyermeke után összesen hét
 
-(2) A pótszabadság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a 16. életévét betölti.
+munkanap pótszabadság illeti meg.
 
-(3) A szülők az (1) bekezdés szerinti döntésükről írásban nyilatkoznak.
+(2) Az (1) bekezdés szerinti pótszabadság fogyatékos gyermekenként két munkanappal nő, ha a hivatásos állományú szülő gyermeke fogyatékos.
+
+(3) A pótszabadságra való jogosultság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizenhatodik életévét betölti.
+
+(4) E § vonatkozásában a gyermek, a fogyatékos gyermek és a szülő fogalmára az Mt. értelmező rendelkezéseit kell alkalmazni.

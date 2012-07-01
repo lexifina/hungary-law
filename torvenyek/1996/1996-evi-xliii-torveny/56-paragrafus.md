@@ -6,7 +6,7 @@ a) az Országgyűlés, a Kormány, a költségvetési fejezetet irányító szer
 
 b) átszervezés következtében szolgálati beosztása megszűnt, és a számára felajánlott, a végzettségének és képzettségének megfelelő más beosztást nem fogadta el;
 
-c) a Munka Törvénykönyvéről szóló törvény megfelelő alkalmazásával nyugdíjasnak minősül és az eredeti beosztásában szolgálati érdekből tovább nem foglalkoztatható, a számára felajánlott legalább azonos szintű beosztást pedig nem fogadta el;
+c) a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) megfelelő alkalmazásával nyugdíjasnak minősül és az eredeti beosztásában szolgálati érdekből tovább nem foglalkoztatható, a számára felajánlott legalább azonos szintű beosztást pedig nem fogadta el;
 
 d) berendelés, más szervhez vezénylés, illetve nemzetközi szervezetnél végzett tevékenység megszűnése után részére végzettségének, képzettségének megfelelő beosztás nem biztosítható és rendelkezési állományba sem helyezhető.
 

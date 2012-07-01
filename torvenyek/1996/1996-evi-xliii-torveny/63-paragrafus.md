@@ -28,7 +28,7 @@ távolléti díjnak megfelelő összeg.
 
 (6) Végkielégítésre nem jogosult a hivatásos állomány tagja, ha
 
-a) a szolgálati viszony megszűnésekor a Munka Törvénykönyvéről szóló törvény megfelelő alkalmazásával nyugdíjasnak minősül, szolgálati járandóságra jogosult, vagy az 56. § (7) bekezdése alapján a felmentését maga kérte,
+a) a szolgálati viszony megszűnésekor az Mt. megfelelő alkalmazásával nyugdíjasnak minősül, szolgálati járandóságra jogosult, vagy az 56. § (7) bekezdése alapján a felmentését maga kérte,
 
 b) alkalmatlansága miatt mentették fel, kivéve azt, aki egészségi, pszichikai és fizikai alkalmatlanság miatt került felmentésre.
 

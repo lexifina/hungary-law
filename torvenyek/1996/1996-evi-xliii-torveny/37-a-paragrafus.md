@@ -26,6 +26,6 @@ e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, 
 
 f) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős bejezéséig,
 
-g) korábban már állt hivatásos szolgálati viszonyban, és az 53. § f) vagy g) pontja, vagy az 56. § (6) bekezdése alapján szűnt meg.
+g) aki korábban már állt hivatásos szolgálati viszonyban és szolgálati viszonya az 53. § f) vagy g) pontja, illetve az 56. § (2) bekezdés b) pont ba) alpontja alapján szűnt meg, a szolgálati viszony megszűnését követő öt évig.
 
 (2) A cc)–cg) és az e) pontban foglalt kizáró októl a munkáltató eltekinthet, ha az eljárásra kizárólag katonai bűncselekmény miatt került sor.

@@ -2,7 +2,7 @@
 
 ## A fegyveres szervnél foglalkoztatott munkavállaló
 
-210/A. § (1) A fegyveres szervnél foglalkoztatott munkavállalókra a Munka Törvénykönyve (a továbbiakban: Mt.) rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
+210/A. § (1) A fegyveres szervnél foglalkoztatott munkavállalókra az Mt. rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) A fegyveres szerv munkaviszonyt büntetlen előéletű, cselekvőképes, a munkakör betöltésére külön jogszabályban megállapított képesítési követelménynek, illetőleg biztonsági feltételeknek megfelelő személlyel létesíthet. A munkavállaló írásbeli titoktartási nyilatkozatot tesz, a munkavégzés a nyilatkozattételt követően kezdhető meg.
 

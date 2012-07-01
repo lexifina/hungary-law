@@ -4,7 +4,7 @@
 
 a) a Miniszterelnökségnél, a minisztérium hivatali szervezeti egységeinél, a miniszter irányítása alá tartozó belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv állományánál, berendelés vagy vezénylés esetén is a beosztási illetmény 50%-a,
 
-b) a miniszter közvetlen irányítása alá tartozó szerveknél, az országos parancsnokságon, a polgári nemzetbiztonsági szolgálatoknál és a Nemzeti Nyomozó Irodánál a beosztási illetmény 40%-a,
+b) a miniszter közvetlen irányítása alá tartozó szerveknél, az országos parancsnokságon, a polgári nemzetbiztonsági szolgálatoknál, a Nemzeti Nyomozó Irodánál, valamint az NKE-n a beosztási illetmény 40%-a,
 
 c) a legalább megyei illetékességű középirányító szervnél (főkapitányság, parancsnokság, igazgatóság) és a vele azonosnak tekinthető szervnél a beosztási illetmény 30%-a,
 
@@ -14,7 +14,7 @@ d) helyi szerveknél, alegységeknél a beosztási illetmény 15%-a.
 
 a) a Miniszterelnökségnél, a minisztérium hivatali szervezeti egységeinél, a miniszter irányítása alá tartozó belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv állományánál, berendelés vagy vezénylés esetén is a beosztási illetmény 15%-a,
 
-b) a miniszter közvetlen irányítása alá tartozó szerveknél, az országos parancsnokságon, a polgári nemzetbiztonsági szolgálatoknál és a Nemzeti Nyomozó Irodánál a beosztási illetmény 20%-a,
+b) a miniszter közvetlen irányítása alá tartozó szerveknél, az országos parancsnokságon, a polgári nemzetbiztonsági szolgálatoknál, a Nemzeti Nyomozó Irodánál, valamint az NKE-n a beosztási illetmény 20%-a,
 
 c) legalább megyei illetékességű középirányító szervnél (főkapitányság, parancsnokság, igazgatóság) és a vele azonosnak tekinthető szervnél a beosztási illetmény 15%-a,
 

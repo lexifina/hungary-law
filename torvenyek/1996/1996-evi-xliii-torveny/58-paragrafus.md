@@ -12,7 +12,7 @@ e) a külön törvény szerinti, örökbefogadás előtti kötelező gondozásba
 
 (2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a hivatásos állomány tagjára, ha
 
-a) az 56. § (2) bekezdés b) pontja alapján alkalmatlanná vált, és a Munka Törvénykönyvének megfelelő alkalmazásával nyugdíjasnak minősül, vagy
+a) az 56. § (2) bekezdés b) pontja alapján alkalmatlanná vált, és az Mt. megfelelő alkalmazásával nyugdíjasnak minősül, vagy
 
 b) az 56. § (7) bekezdése alapján a felmentését maga kérte.
 

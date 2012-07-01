@@ -8,7 +8,7 @@ a) a más szervhez vezénylésre és áthelyezésre kerülők szolgálati viszon
 
 b) a szolgálati viszony szünetelésének eljárási rendjét;
 
-c) a vezetői alapmunkaköröket, az abban elérhető rendfokozatokat, betöltésükhöz szükséges alap végzettségi (képesítési) követelményeket, a besorolási osztályok beosztási kategóriáihoz rendelt alapbeosztásokat, és az egyes beosztások besorolásának általános szabályait; az illetménypótlékra jogosultság és megállapításának általános feltételeit;
+c) a vezetői alapmunkaköröket, az abban elérhető rendfokozatokat, betöltésükhöz szükséges alap végzettségi (képesítési) követelményeket, a besorolási osztályok beosztási kategóriáihoz rendelt alapbeosztásokat, és az egyes beosztások besorolásának általános szabályait; a rendészeti felsőoktatási illetménykiegészítésre, valamint az illetménypótlékra jogosultság és megállapításának általános feltételeit, valamint a vezetői juttatások fajtáit, mértékét, a jogosultság feltételeit, a megállapítás és a kifizetés részletes rendjét;
 
 d) a fokozottan veszélyes beosztások meghatározását a 85. § (2) bekezdése és a 92. § (1) bekezdésének a) pontja alapján, a fokozottan veszélyes és az egyéb veszélyes beosztások meghatározását a 254. § (2) bekezdése, a 293. § (1) bekezdése, a 306. § és a 322. § (1) bekezdésének l) pontja alapján;
 

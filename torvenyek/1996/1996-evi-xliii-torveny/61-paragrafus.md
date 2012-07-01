@@ -16,4 +16,4 @@ e)
 
 f) a kifizetésre került végkielégítés összegét.
 
-(3) Az (1) és (2) bekezdésben foglaltakat értelemszerűen alkalmazni kell a 43. § szerinti vezénylés, az 59/A. § alapján fegyveres szerven belül történő áthelyezés, valamint a 60. § és a 60/A. § szerinti áthelyezés esetén is.
+(3) Az (1) és (2) bekezdésben foglaltakat értelemszerűen alkalmazni kell a 43. § szerinti vezénylés, a 43/C. § szerinti vezénylés, az 59/A. § alapján fegyveres szerven belül történő áthelyezés, valamint a 60. § és a 60/A. § szerinti áthelyezés esetén is.

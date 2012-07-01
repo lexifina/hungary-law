@@ -18,7 +18,7 @@ d) a más beosztás vagy feladatkör ellátásával való tartós megbízás,
 
 e) a szolgálati viszony szüneteltetése,
 
-f) a más szervhez a 43. § (1) bekezdés szerinti vezénylés,
+f) a más szervhez a 43. § (1) bekezdés vagy a 43/C. § (1) bekezdés szerinti vezénylés,
 
 g) a magasabb iskolai végzettséget (szakképesítést) nyújtó oktatási intézménybe beiskolázás,
 
