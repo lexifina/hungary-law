@@ -1,1 +1,0 @@
-Az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendelet 13. §-ának (2) bekezdésében kapott felhatalmazás alapján, figyelemmel a költségvetési szervek belső ellenőrzéséről szóló 193/2003. (XI. 26.) Korm. rendelet (a továbbiakban: Ber.) 4. §-ának (4) bekezdésére a következőket rendelem el:
