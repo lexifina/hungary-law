@@ -28,9 +28,9 @@ b) amennyiben az egészségügyi szolgáltató a külön törvény szerinti egé
 
 c) az egészségügyi szolgáltató nyilatkozata arról, hogy van-e a 30. § (1) bekezdése szerinti lejárt esedékességű köztartozása,
 
-d) a külön jogszabályban meghatározott egyéb okirat, irat, adat.
+d) a külön jogszabályban meghatározott egyéb okirat, irat, adat,
 
-e)
+e) az egészségügyi szolgáltató, valamint – ha az egészségügyi szolgáltató közreműködő egészségügyi szolgáltatót vesz igénybe – a közreműködő egészségügyi szolgáltató teljes bizonyító erejű magánokiratba foglalt nyilatkozata arról, hogy a nemzeti vagyonról szóló törvény szerinti átlátható szervezetnek minősül.
 
 (4) A finanszírozási szerződés módosítását – a kapacitásokat szabályozó külön jogszabályokra figyelemmel – bármelyik fél kezdeményezheti.
 
@@ -38,7 +38,11 @@ e)
 
 a) ha a működési engedélyét módosították,
 
-b) a személyi és tárgyi feltételek változását, amennyiben azok a finanszírozott feladatkör ellátását érintik.
+b) a személyi és tárgyi feltételek változását, amennyiben azok a finanszírozott feladatkör ellátását érintik,
+
+c) ha nem minősül a nemzeti vagyonról szóló törvény szerinti átlátható szervezetnek,
+
+d) ha az általa igénybe vett közreműködő egészségügyi szolgáltató – annak a közreműködői szerződésben foglaltak szerinti bejelentése alapján – nem minősül a nemzeti vagyonról szóló törvény szerinti átlátható szervezetnek.
 
 (6) Amennyiben az egészségügyi szolgáltató az (5) bekezdésben foglalt kötelezettségét elmulasztja, köteles az ebből eredő finanszírozási többletet visszatéríteni.
 

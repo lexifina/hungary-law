@@ -25,3 +25,11 @@
 (10) A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvénnyel (a továbbiakban: Módtv1.) megállapított 20. § (2a) bekezdése szerinti országos várólista-nyilvántartást az egészségügyi szolgáltatók által vezetett intézményi várólisták alapján – kormányrendeletben meghatározottak szerint – 2012. június 30-áig kell létrehozni.
 
 (11) A Módtv1. által megállapított 30. § (4) bekezdését a Módtv1. hatálybalépésekor érvényes finanszírozási szerződések, valamint a 2011. december 31. után kezdeményezett finanszírozási szerződés-módosítások tekintetében is alkalmazni kell, azzal, hogy a még jóvá nem hagyott szerződésmódosítások a Módtv1. hatálybalépésének időpontjában érvényessé válnak.
+
+(12) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvény (a továbbiakban: Módtv.) hatálybalépésének napján finanszírozási szerződéssel rendelkező egészségügyi szolgáltatók, illetve az általuk igénybe vett közreműködő egészségügyi szolgáltatók 2012. december 31-éig nyilatkoznak arról, hogy a nemzeti vagyonról szóló törvény szerinti átlátható szervezetnek minősülnek. A Módtv. hatálybalépésének napján finanszírozási szerződéssel rendelkező egészségügyi szolgáltatók vonatkozásában a Módtv.-nyel megállapított 30. § (5) és (6) bekezdése és 31. § (5) bekezdés c) és d) pontja, illetve az abban foglaltak elmulasztásához fűződő jogkövetkezmény – ideértve a finanszírozási szerződés felmondását is – 2013. január 1-jétől alkalmazható.
+
+(13) A Módtv.-nyel megállapított 37. § (5a) és (8) bekezdést a 2012. június 30-át követően keletkezett jogsértések vonatkozásában kell alkalmazni.
+
+(14) A Módtv.-nyel megállapított 39/B. §-t a 2012. június 30-át követően benyújtott kérelmek tekintetében kell alkalmazni.
+
+(15) A Módtv.-nyel megállapított 52/A. §-t, 55/A. §-t, valamint a 65. § (2) bekezdést a 2012. június 30-át követően bekövetkezett balesetek tekintetében kell alkalmazni.

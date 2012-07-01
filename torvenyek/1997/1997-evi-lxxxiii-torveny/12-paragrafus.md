@@ -6,7 +6,7 @@ a) 18 éves életkorig, ezt követően a középiskola, szakképző iskola nappa
 
 b) 18 éves életkor felett sürgősségi ellátásra, fogsebészeti ellátásra, fogkőeltávolításra és az ínyelváltozások kezelésére,
 
-c) 60 éves életkor felett a b) pontban foglaltakon túl teljes körű alapellátásra és szakellátásra, ide nem értve a technikai költségeket,
+c) 62 éves életkor felett a b) pontban foglaltakon túl teljes körű alapellátásra és szakellátásra, ide nem értve a technikai költségeket,
 
 d) az életkortól függetlenül az alapbetegséggel kapcsolatos fog- és szájbetegségek kezelésére, szakorvosi beutaló alapján fogászati góckeresésre,
 

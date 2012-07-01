@@ -1,10 +1,14 @@
 ## IV. Az egészségügyi szolgáltatások igénybevételére vonatkozó közös rendelkezések
 
-18. § (1) A biztosítottat az e törvény szerint járó egészségügyi szakellátásra a finanszírozott egészségügyi szolgáltató orvosa vagy külön jogszabályban meghatározott feladatot ellátó orvos a külön jogszabályban meghatározottak szerint utalhatja be.
+18. § (1) A biztosítottat az e törvény szerint járó egészségügyi szakellátásra a finanszírozott egészségügyi szolgáltató orvosa vagy az e törvény végrehajtásáról szóló kormányrendeletben meghatározott feladatot ellátó orvos utalhatja be az e törvény végrehajtásáról szóló kormányrendeletben foglaltak szerint.
 
-(2) A biztosított ellátását nem tagadhatja meg a beutaló szerinti egészségügyi szolgáltató, továbbá az a szolgáltató, amely a beutaló orvos előzetes jelzése alapján az ellátást vállalta.
+(2) A biztosított ellátását nem tagadhatja meg
 
-(3) A biztosított területi ellátására nem kötelezett szolgáltató az ellátást csak akkor tagadhatja meg, ha a területi ellátási kötelezettségű feladatainak folyamatos ellátását a területen kívüli betegek fogadása veszélyezteti, és az ellátásra az egészségbiztosító által lekötött szabad kapacitással nem rendelkezik.
+a) a beutalóhoz kötött szakellátások esetében a beutaló szerinti egészségügyi szolgáltató,
+
+b) a beutalóhoz nem kötött szakellátások esetében a biztosított tekintetében területi ellátási kötelezettséggel rendelkező egészségügyi szolgáltató.
+
+(3) A biztosított tekintetében területi ellátási kötelezettséggel nem rendelkező egészségügyi szolgáltató a (2) bekezdés a), illetve b) pontja szerinti esetben az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint az ellátást – az egészségügyről szóló 1997. évi CLIV. törvény 77. §-ában meghatározott eset kivételével – megtagadhatja, ha a területi ellátási kötelezettségű feladatainak folyamatos ellátását a területen kívüli betegek fogadása veszélyeztetné.
 
 (4) A szolgálati jogviszonyban álló és egyes külön jogszabályban meghatározott tevékenységet végző biztosítottak külön jogszabályban meghatározott rendben, valamint a fogva tartott személyek külön jogszabályban meghatározott rendben és feltételek szerint jogosultak az egészségügyi szolgáltatás igénybevételére.
 

@@ -14,7 +14,7 @@ c) más forrásból megtérülő ellátást számolt el.
 
 (5) A finanszírozott egészségügyi szolgáltató megtéríti a gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás után folyósított társadalombiztosítási támogatás összegének 150 százalékát, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a szolgáltató vagy a szolgáltató orvosa
 
-a) valótlan mennyiségű gyógyszert, gyógyászati segédeszközt, gyógyászati ellátást,
+a) betegdokumentációban szereplőnél nagyobb mennyiségű gyógyszert, gyógyászati segédeszközt, gyógyászati ellátást,
 
 b) el nem végzett ellátás keretében gyógyszert, gyógyászati segédeszközt, gyógyászati ellátást,
 
@@ -24,11 +24,21 @@ c) a szerződésében nem szereplő gyógyászati ellátást
 
 társadalombiztosítási támogatással rendelt.
 
+(5a) A finanszírozott egészségügyi szolgáltató megtéríti a gyógyszer, gyógyászati segédeszköz után folyósított társadalombiztosítási támogatás összegének 150 százalékát, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a szolgáltató vagy a szolgáltató orvosa
+
+a) el nem végzett ellátás keretében gyógyszer emelt, kiemelt indikációhoz kötött támogatással történő rendeléséhez adott szakorvosi javaslatot,
+
+b) gyógyszer emelt, kiemelt indikációhoz kötött támogatással történő rendeléséhez jogosulatlanul adott szakorvosi javaslatot,
+
+c) el nem végzett ellátás keretében gyógyászati segédeszköz támogatással történő rendeléséhez adott szakorvosi javaslatot,
+
+d) gyógyászati segédeszköz támogatással történő rendeléséhez jogosulatlanul adott szakorvosi javaslatot.
+
 (6) A finanszírozott egészségügyi szolgáltató megtéríti a gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás után folyósított társadalombiztosítási támogatás összegét, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a szolgáltató vagy a szolgáltató orvosa az orvosszakmai előírásoknak nem megfelelően, indokolatlanul rendelt társadalombiztosítási támogatással gyógyszert, gyógyászati segédeszközt vagy gyógyászati ellátást vagy más forrásból megtérülő gyógyszert, gyógyászati segédeszközt, gyógyászati ellátást társadalombiztosítási támogatással rendelt.
 
 (7) A finanszírozott egészségügyi szolgáltató – a (8) bekezdésben foglalt kivétellel – megtéríti a gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás után folyósított társadalombiztosítási támogatás összegének 20 százalékát, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás társadalombiztosítási támogatással történt rendelése a hatályos jogszabályoknak nem felelt meg, de orvosszakmai szempontból indokolt, szükséges és az orvosszakmai előírásoknak megfelelő volt.
 
-(8) A finanszírozott egészségügyi szolgáltató megtéríti a gyógyszer, gyógyászati segédeszköz után folyósított társadalombiztosítási támogatás összegének azon részét, amelyre a biztosított nem volt jogosult, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a szolgáltató vagy a szolgáltató orvosa gyógyszert, gyógyászati segédeszközt a kiemelt és emelt társadalombiztosítási támogatásra jogosító indikációnak nem megfelelően rendelt. Amennyiben a gyógyszer, gyógyászati segédeszköz rendelése a rendelés időpontjában érvényes szakorvosi javaslat alapján történt, a szakorvosi javaslatot adó, finanszírozási szerződéssel rendelkező szolgáltató megtéríti a folyósított társadalombiztosítási támogatás összegének azon részét, amelyre a biztosított nem volt jogosult.
+(8) A finanszírozott egészségügyi szolgáltató megtéríti a gyógyszer, gyógyászati segédeszköz után folyósított társadalombiztosítási támogatás összegének azon részét, amelyre a biztosított nem volt jogosult, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a szolgáltató vagy a szolgáltató orvosa gyógyszert, gyógyászati segédeszközt nem a finanszírozási eljárásrendnek megfelelően, ennek hiányában nem a kiemelt és emelt társadalombiztosítási támogatásra jogosító indikációnak megfelelően vagy jogosulatlanul rendelt. Amennyiben a gyógyszer, gyógyászati segédeszköz rendelése a rendelés időpontjában érvényes szakorvosi javaslat alapján történt és az (5a) bekezdésben foglaltak nem állnak fenn, a szakorvosi javaslatot adó, finanszírozási szerződéssel rendelkező szolgáltató téríti meg a folyósított társadalombiztosítási támogatás összegének azon részét, amelyre a biztosított nem volt jogosult.
 
 (9) A gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás társadalombiztosítási támogatással való rendelésére a 32. § szerinti szerződés alapján jogosult orvos tekintetében az (5)–(8) bekezdésben foglaltakat megfelelően alkalmazni kell.
 

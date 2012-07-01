@@ -10,7 +10,9 @@ d) nem áll gyógyszer- vagy gyógyászatisegédeszköz-gyártóval, -forgalmaz�
 
 e) nem rendelkezik gyógyszer- vagy gyógyászatisegédeszköz-gyártó, -forgalmazó, -nagykereskedő vagy gyógyszertárat, illetve gyógyászatisegédeszköz-szaküzletet működtető gazdasági társaságban ötven százalékot meghaladó tulajdoni hányaddal, és
 
-f) gyógyszer- vagy gyógyászatisegédeszköz-gyártó, -forgalmazó, -nagykereskedő vagy gyógyszertárat, illetve gyógyászatisegédeszköz-szaküzletet működtető gazdasági társaságnak nem vezető tisztségviselője.
+f) gyógyszer- vagy gyógyászatisegédeszköz-gyártó, -forgalmazó, -nagykereskedő vagy gyógyszertárat, illetve gyógyászatisegédeszköz-szaküzletet működtető gazdasági társaságnak nem vezető tisztségviselője,
+
+g) tekintetében a szerződéskötést jogszabály nem zárja ki.
 
 (2) A nem finanszírozott egészségügyi szolgáltató orvosa gyógyszert, gyógyászati segédeszközt, valamint gyógyászati ellátást árhoz nyújtott támogatással az egészségbiztosító által előzetesen minősített, a minőségi és hatékony gyógyszer- és gyógyászatisegédeszköz-rendelést elősegítő számítógépes rendszer alkalmazásával rendelhet.
 

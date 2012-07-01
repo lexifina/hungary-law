@@ -72,11 +72,17 @@ d) határozza meg a térségi várólista alapján történő ellátás-igénybe
 
 (2b) Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg az egészségbiztosító által a 31. § (11) bekezdése alapján kiszabható bírság mértékét.
 
+(2c) Felhatalmazást kap a Kormány, hogy az alapellátási vállalkozás körében betegellátást szolgáló eszközök beszerzéséhez nyújtható támogatás feltételeit és részletes szabályait, valamint a támogatásra jogosult alapellátási vállalkozások körét rendeletben meghatározza.
+
+(2d) Felhatalmazást kap a Kormány, hogy a finanszírozási szerződés részét képező, a nemzeti vagyonról szóló törvény szerinti átlátható szervezetnek minősülésről szóló nyilatkozat kötelező tartalmi elemeit rendeletben meghatározza.
+
+(2e) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg azoknak az eseteknek a körét, amikor nem köthető a nem finanszírozott egészségügyi szolgáltató orvosával gyógyszer, illetve gyógyászati segédeszköz támogatással történő rendelésére jogosító szerződés.
+
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 
-a) a gyógyászati ellátások körét, az árukhoz nyújtott támogatás alapját és mértékét, valamint a támogatott gyógyászati segédeszközök körét, az árukhoz nyújtott támogatás alapját és mértékét, a támogatási csoportra vonatkozó kihordási időket, a kihordási időre maximálisan felírható mennyiségeket, rendelhetőségi feltételeket,
+a) a gyógyászati ellátások körét, az árukhoz nyújtott támogatás alapját és mértékét, valamint a támogatott gyógyászati segédeszközök körét funkcionális csoport vagy alcsoport szintig, az árukhoz nyújtott támogatás mértékét, az egyes funkcionális csoportokra vagy alcsoportokra megállapított támogatási módszert, a támogatási csoportra vonatkozó kihordási időket, a kihordási időre maximálisan felírható mennyiségeket, rendelhetőségi feltételeket,
 
-b) a társadalombiztosítási támogatással kölcsönözhető, kizárólag kölcsönzés keretében kiszolgáltatható vagy a beteg tulajdonába csak a kölcsönzési időszakot követően adható gyógyászati segédeszközök körét, valamint a kölcsönzési díjhoz nyújtott támogatás alapját és mértékét,
+b) a társadalombiztosítási támogatással kölcsönözhető, kizárólag kölcsönzés keretében kiszolgáltatható vagy a beteg tulajdonába csak a kölcsönzési időszakot követően adható gyógyászati segédeszközök körét funkcionális csoport vagy alcsoport szintig, valamint a kölcsönzési díjhoz nyújtott támogatás mértékét,
 
 c) a gyógyszerek és a gyógyászati segédeszközök társadalombiztosítási támogatásba való befogadásának és a támogatás mértéke megállapításának szempontrendszerét, valamint a társadalombiztosítási támogatásba befogadott gyógyszerek, gyógyászati segédeszközök hivatalból történő felülvizsgálatának szempontjait és eljárási szabályait,
 
@@ -112,7 +118,7 @@ i) az egyes egészségügyi szolgáltatások körébe tartozó beavatkozásokat,
 
 j) a gyógyászati ellátások körébe tartozó szolgáltatásokat,
 
-k) az egészségügyi szakellátás társadalombiztosítási finanszírozásának körében a határnapon belüli ismételt felvételre vonatkozó összevonási szabály alóli kivételeket, a tételes elszámolás alá eső egyszerhasználatos eszközök és implantátumok jegyzékét; a tételes elszámolás alá eső hatóanyagok körét és kódját; a J0 ellátási szintű laboratóriumokból jelenthető eljárásokat (OENO); a meghatározott intézeti körben végezhető ellátásokat tartalmazó homogén betegségcsoportokat; az egynapos beavatkozásokat (kivéve 1 éves kor alatt); az aktív fekvőbeteg-ellátási háttér mellett ambuláns formában is nyújtható kúraszerű kezeléseket; a dializálási eljárásokat; és a vérkészítmények térítési díját,
+k) az egészségügyi szakellátás társadalombiztosítási finanszírozásának körében a határnapon belüli ismételt felvételre vonatkozó összevonási szabály alóli kivételeket, a tételes elszámolás alá eső egyszerhasználatos eszközök és implantátumok jegyzékét; a tételes elszámolás alá eső hatóanyagok körét, kódját és a tételes elszámolás részletszabályait;; a J0 ellátási szintű laboratóriumokból jelenthető eljárásokat (OENO); a meghatározott intézeti körben végezhető ellátásokat tartalmazó homogén betegségcsoportokat; az egynapos beavatkozásokat (kivéve 1 éves kor alatt); az aktív fekvőbeteg-ellátási háttér mellett ambuláns formában is nyújtható kúraszerű kezeléseket; a dializálási eljárásokat; és a vérkészítmények térítési díját,
 
 l) a finanszírozás alapjául szolgáló homogén betegségcsoportokat és azok súlyszámértékét,
 

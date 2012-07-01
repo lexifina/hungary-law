@@ -23,3 +23,5 @@ g) egyéb orvos szakértői vizsgálatra és szakvéleményre, amennyiben az tá
 a) a külön jogszabály szerint választott háziorvosánál veheti igénybe,
 
 b) amennyiben választott háziorvosát felkeresni nem tudja, annál a finanszírozott szolgáltató háziorvosánál veheti igénybe, amelynek ellátási területén tartózkodási helye van.
+
+(3) Az egészségbiztosító kormányrendeletben meghatározott alapellátási vállalkozások részére kormányrendeletben meghatározottak szerint támogatást nyújthat a betegellátást szolgáló eszközök beszerzéséhez.

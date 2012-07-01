@@ -1,0 +1,7 @@
+55/A. § (1) Baleseti táppénzre való jogosultság esetén, amennyiben a baleseti táppénz összege az elbíráláshoz szükséges adatok hiánya miatt – a Ket. 33. § (3) bekezdésének figyelmen kívül hagyásával – harminc napon belül nem határozható meg, a rendelkezésre álló adatok alapján az igénylő részére végzésben baleseti táppénz előleget kell megállapítani. A baleseti táppénz határozattal történő megállapításakor a baleseti táppénz összegébe a folyósított baleseti táppénz előleg összegét be kell számítani.
+
+(2) Amennyiben az igénylő a baleseti táppénz iránti kérelmét visszavonja, a folyósított baleseti táppénz előleget felróhatóságra való tekintet nélkül, a visszafizetésre kötelező határozat jogerőre emelkedésétől számított harminc napon belül köteles visszafizetni.
+
+(3) Amennyiben az ellátást folyósító szerv a baleseti táppénz előleg folyósítását követően megállapítja, hogy az igénylő baleseti táppénzre nem jogosult, a folyósított baleseti táppénz előleget felróhatóságra való tekintet nélkül, a visszafizetésre kötelező határozat jogerőre emelkedésétől számított harminc napon belül köteles visszafizetni.
+
+(4) Amennyiben az ellátást folyósító szerv a baleseti táppénz előleg folyósítását követően megállapítja, hogy az igénylő részére a baleseti táppénz a folyósított baleseti táppénz előleg összegnél alacsonyabb összegben jár és az a megállapított ellátás összegébe nem számítható be, az igénylő köteles a különbözetet felróhatóságra való tekintet nélkül, a visszafizetésre kötelező határozat jogerőre emelkedésétől számított harminc napon belül visszafizetni.
