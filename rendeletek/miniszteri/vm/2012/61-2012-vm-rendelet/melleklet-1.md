@@ -1,3 +1,5 @@
-## „13. § E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból az állattartó telepek korszerűsítéséhez 2012. évtől nyújtandó támogatások részletes feltételeiről szóló 61/2012. (VI. 29.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított 2. § (2) bekezdését kizárólag a módosító rendelet hatálybalépését követően benyújtott támogatási kérelmekre kell alkalmazni.”
+## 13. §[^1]
 
 1. melléklet a 61/2012. (VI. 29.) VM rendelethez
+
+[^1]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése lapján hatályát vesztette.
