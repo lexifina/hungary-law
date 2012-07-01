@@ -8,4 +8,4 @@
 
 (4) A tulajdonjog és fenntartói jog átszállása nem érinti az intézmények által foglalkoztatottak közalkalmazotti jogviszonyát, illetve munkaviszonyát.
 
-(5) A megyei önkormányzatok gazdasági ellátó szervezeteinél foglalkoztatott munkavállalók tekintetében megvalósuló jogviszonyváltás esetén a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 86/B–86/E. §-ait megfelelően alkalmazni kell.
+(5) A megyei önkormányzatok gazdasági ellátó szervezeteinél foglalkoztatott munkavállalók tekintetében megvalósuló jogviszonyváltás esetén a munka törvénykönyvéről szóló 2012. évi I. törvény 36–40. §-át megfelelően alkalmazni kell.

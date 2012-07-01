@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-154-00-00
 | 2012-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-154-00-00.6 |
 | 2012-04-28 | 2012. évi XXXVIII. törvény | 2011-154-00-00.7 |
 | 2012-06-28 | 2012. évi LXXIX. törvény | 2011-154-00-00.8 |
+| 2012-07-01 | 2012. évi LXXXVI. törvény | 2011-154-00-00.9 |
