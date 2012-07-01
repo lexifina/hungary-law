@@ -1,1 +1,1 @@
-### 19. §
+19. § A gyermek gondozása céljából igénybe vett ellátásból a foglalkoztatásba visszatérő szülőt kérésére – legalább a gyermek harmadik életévének betöltéséig – külön törvény szerinti részmunkaidőben kell foglalkoztatni.
