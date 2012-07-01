@@ -1,4 +1,4 @@
-## 4/A. §[^13] Az e rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
+## 4/A. §[^13]
 
 5. § (1) A tanácsadás teljes időtartama alatt legalább egy olyan személy részvétele szükséges, aki megfelel a 2. § (3) bekezdésében, valamint a mellékletben meghatározott személyi feltételeknek, és a tanácsadó Családvédelmi Szolgálat működési engedélyében szerepel.
 
@@ -6,4 +6,4 @@
 
 (3) A szolgáltató a tevékenység megszüntetését, továbbá minden olyan változtatást, amely érinti a működési engedély kiadásának e rendeletben foglalt feltételeit köteles a megszüntetést, illetve a változást követő 15 napon belül írásban bejelenteni a megyei intézetnek.
 
-[^13]: A 4/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 77. § (3) bekezdése iktatta be.
+[^13]: A 4/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 77. § (3) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § b) pontja.
