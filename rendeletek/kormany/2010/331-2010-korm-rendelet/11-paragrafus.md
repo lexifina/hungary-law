@@ -1,1 +1,0 @@
-## 10. § A Hivatal ellátja a betegjogi, ellátottjogi és gyermekjogi képviselők foglalkoztatása vonatkozásában a jogszabályban meghatározott feladatokat. A főigazgató a betegjogi, ellátottjogi, valamint a gyermekjogi képviselővel a képviselői feladatok ellátására munkavégzésre irányuló szerződést köt.
