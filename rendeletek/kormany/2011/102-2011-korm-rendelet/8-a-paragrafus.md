@@ -1,6 +1,6 @@
-## 4/A. [^26] A közlekedőképesség minősítése
+## 4/A. [^28] A közlekedőképesség minősítése
 
-8/A. § (1) Ha a kérelmező a 7. § (3) bekezdés a) pont aa)–ac) alpontja szerinti iratok egyikét sem csatolta, a hivatal a kérelem beérkezésétől számított nyolc napon belül – a 7. § (3) bekezdés a) pont ad) alpontja szerinti iratok megküldésével – megkeresi a szakértői szervet a közlekedőképesség minősítése érdekében.
+8/A. § (1)[^29] Ha a kérelmező a 7. § (3) bekezdés a) pont aa)–ac) alpontja szerinti iratok egyikét sem csatolta, a hivatal a kérelem beérkezésétől számított nyolc napon belül – a 7. § (3) bekezdés a) pont ad) alpontja szerinti iratok megküldésével – megkeresi a rehabilitációs szakigazgatási szervet a közlekedőképesség minősítése érdekében.
 
 (2) A szakértői szerv közlekedőképességében súlyosan akadályozottnak minősíti azt a személyt, akinek a komplex minősítésre vonatkozó részletes szabályokról szóló 7/2012. (II. 14.) NEFMI rendelet 1. melléklete szerinti
 
@@ -26,4 +26,5 @@ b) a következő felülvizsgálat időpontját.
 
 (5) Ha a közlekedőképesség vizsgálata nem folyamatban levő hatósági eljárás keretében válik szükségessé, azt az okmányirodák kijelöléséről és illetékességi területéről szóló kormányrendeletben meghatározott települési, a fővárosban a fővárosi kerületi önkormányzat jegyzőjénél lehet kezdeményezni, aki a továbbiakban az (1) bekezdés szerint jár el.
 
-[^26]: A 4/A. alcímet (8/A. §) a 61/2012. (III. 30.) Korm. rendelet 13. §-a iktatta be.
+[^28]: A 4/A. alcímet (8/A. §) a 61/2012. (III. 30.) Korm. rendelet 13. §-a iktatta be.
+[^29]: A 8/A. § (1) bekezdése a 95/2012. (V. 15.) Korm. rendelet 44. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.

@@ -40,9 +40,7 @@ fa) gépkocsi vezetésére jogosító érvényes vezetői engedéllyel rendelkez
 
 fb)[^5] a 4. § (1) bekezdés c) pontja esetében három- vagy négykerekű segédmotoros kerékpár vezetésére jogosító érvényes vezetői engedéllyel rendelkezik, vagy
 
-fc) az 5. § (1) bekezdés a) pontja szerinti esetben gépjárművezetői alkalmasságát az átalakítás előírásával a Nemzeti Rehabilitációs és Szociális Hivatal (a továbbiakban: szakértői szerv) vagy jogelődje megállapította,
-
-és nem áll járművezetéstől eltiltó jogerős bírói ítélet vagy szabálysértési határozat hatálya alatt;
+fc)[^6] az 5. § (1) bekezdés a) pontja szerinti esetben gépjárművezetői alkalmasságát az átalakítás előírásával a rehabilitációs szakigazgatási szerv, a Nemzeti Rehabilitációs és Szociális Hivatal (a továbbiakban együtt: szakértői szerv) vagy jogelődje megállapította,
 
 g) szállítást végző személy: a súlyos mozgáskorlátozott személy személygépkocsival történő szállítását írásbeli nyilatkozatban vállaló, gépkocsi vezetésére jogosító érvényes vezetői engedéllyel rendelkező
 
@@ -50,11 +48,12 @@ ga) vér szerinti, örökbefogadó- és nevelőszülő, házastárs, élettársi
 
 gb) a súlyos mozgáskorlátozott személlyel legalább egy éve közös háztartásban élő vér szerinti, örökbefogadott és nevelt gyermek, vagy testvér,
 
-gc)[^6] a súlyos mozgáskorlátozott személy személygépkocsival történő szállítását a közérdekű önkéntes tevékenységről szóló törvény szerinti önkéntes jogviszonyban végző személy,
+gc)[^7] a súlyos mozgáskorlátozott személy személygépkocsival történő szállítását a közérdekű önkéntes tevékenységről szóló törvény szerinti önkéntes jogviszonyban végző személy,
 
 amennyiben nem áll a járművezetéstől eltiltó jogerős bírói ítélet vagy szabálysértési határozat hatálya alatt.
 
 [^3]: A 2. § a) pontja a 61/2012. (III. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^4]: A 2. § e) pontja a 61/2012. (III. 30.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
 [^5]: A 2. § f) pont fb) alpontja a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^6]: A 2. § g) pont gc) alpontját a 189/2011. (IX. 19.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 2. § f) pont fc) alpontja a 95/2012. (V. 15.) Korm. rendelet 44. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.
+[^7]: A 2. § g) pont gc) alpontját a 189/2011. (IX. 19.) Korm. rendelet 1. §-a iktatta be.
