@@ -14,11 +14,11 @@ c) a betöltött munkakör feladatainak ellátása előre nem tervezhető okból
 
 (3)[^65] Ha a beosztott pedagógus a Kt. 1. számú melléklet Negyedik rész 1–2. pontja alapján teljesítménypótlékra jogosult és a teljesítménypótlék alapjául szolgáló munkavégzés ideje eléri a heti hat órát, részére további tanítási óra megtartása a rendes munkaidőn belül a (2) bekezdés c) pontjában meghatározott esetben rendelhető el.
 
-(4) A (2)–(3) bekezdésben történő elrendelésnél alkalmazni kell az Mt. 127. §-ának (2)–(3) és (6)–(7) bekezdésében foglaltakat.
+(4)[^66] A (2)–(3) bekezdésben történő elrendelésnél alkalmazni kell a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 108. § (1) bekezdésében, 113. § (2) bekezdés c) pontjában és 113. § (5) bekezdésében foglaltakat.
 
 (5) Pedagógus-munkakörben a rendes munkaidőn felül, rendkívüli munkavégzés keretében, tanítási óra megtartását a (2) bekezdés c) pontjában meghatározott esetben lehet elrendelni.
 
-(6) Az Mt. 127. §-ában meghatározottakon túl a szakorvos (gyermekpszichiáter), védőnő, ápoló, gyógypedagógiai asszisztens, gondozó, gyermek- és ifjúságvédelmi felelős, szabadidő-szervező, pedagógiai felügyelő munkakörben rendkívüli munkavégzés a (2) bekezdésben meghatározott okból rendelhető el.
+(6)[^67] Az Mt. 108., 109. és 113. §-ában meghatározottakon túl a szakorvos (gyermekpszichiáter), védőnő, ápoló, gyógypedagógiai asszisztens, gondozó, gyermek- és ifjúságvédelmi felelős, szabadidő-szervező, pedagógiai felügyelő munkakörben rendkívüli munkavégzés a (2) bekezdésben meghatározott okból rendelhető el.
 
 [^60]: A 11/A. §-t megelőző jogszabályi hivatkozást a 156/2001. (IX. 12.) Korm. rendelet 3. §-a iktatta be, szövege a 323/2008. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^61]: A 11/A. §-t a 156/2001. (IX. 12.) Korm. rendelet 3. §-a iktatta be, szövege a 143/2003. (IX. 9.) Korm. rendelet 4. §-ával megállapított szöveg.
@@ -26,3 +26,5 @@ c) a betöltött munkakör feladatainak ellátása előre nem tervezhető okból
 [^63]: A 11/A. § (2) bekezdésének felvezető szövege a 290/2006. (XII. 23.) Korm. rendelet 1. §-ával megállapított és a 211/2007. (VIII. 7.) Korm. rendelet 10. § (3) bekezdésének a) pontja szerint módosított szöveg.
 [^64]: A 11/A. § (2) bekezdésének b) pontja a 290/2006. (XII. 23.) Korm. rendelet 5. § (3) bekezdése, a 36/2007. (III. 7.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
 [^65]: A 11/A. § (3) bekezdése a 290/2006. (XII. 23.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^66]: A 11/A. § (4) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 2. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^67]: A 11/A. § (6) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 2. § (2) bekezdés b) pontja szerint módosított szöveg.

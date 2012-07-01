@@ -1,4 +1,4 @@
-## [A Kjt. 54. §-ának (3) bekezdéséhez, 85. § (2) bekezdésének c) pontjához, az Mt. 107. §-ának h) pontjához, 151. §-ának (3) bekezdéséhez és a Kt. 94. § (3) bekezdésének l) pontjához][^46]
+## [A Kjt. 54. § (3) bekezdéséhez, 85. § (2) bekezdés c) pontjához, az Mt. 55. § (1) bekezdés k) pontjához, 146. § (2) bekezdéséhez és a Kt. 94. § (3) bekezdés l) pontjához][^46]
 
 ## 6. §
 
@@ -6,6 +6,6 @@
 
 (2)–(3)[^48]
 
-[^46]: A 6. §-t megelőző jogszabályi hivatkozás a 323/2008. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^46]: A 6. §-t megelőző jogszabályi hivatkozás a 135/2012. (VI. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^47]: A 6. § (1) bekezdését a 277/1997. (XII. 22.) Korm. rendelet 25. §-ának (6) bekezdése hatályon kívül helyezte, újonnan a 156/2001. (IX. 12.) Korm. rendelet 2. § (2) bekezdése iktatta a szövegbe.
 [^48]: A 6. § (2)–(3) bekezdését a 323/2008. (XII. 29.) Korm. rendelet 20. § (3) bekezdése hatályon kívül helyezte.

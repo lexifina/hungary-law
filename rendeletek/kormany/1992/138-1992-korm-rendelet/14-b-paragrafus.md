@@ -1,3 +1,3 @@
-## [A Kjt. 66. §-ának (7) bekezdéséhez][^97]
+## [A Kjt. 66. §-ának (7) bekezdéséhez][^101]
 
-[^97]: A 14/B. §-t megelőző jogszabályi hivatkozást a 242/1998. (XII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^101]: A 14/B. §-t megelőző jogszabályi hivatkozást a 242/1998. (XII. 31.) Korm. rendelet 1. §-a iktatta be.
