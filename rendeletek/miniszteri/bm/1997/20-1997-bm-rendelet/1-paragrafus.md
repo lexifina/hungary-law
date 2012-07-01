@@ -1,3 +1,0 @@
-## I.
-
-## Általános rendelkezések
