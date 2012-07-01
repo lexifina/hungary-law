@@ -1,12 +1,12 @@
 ## 23. § A Kormány a Hivatalnak a közbiztonságra különösen veszélyes eszközök behozatalának engedélyezésével kapcsolatos eljárásában – annak elbírálása kérdésében, hogy a kérelemben megjelölt, közbiztonságra különösen veszélyes eszköz, annak behozatali céljára figyelemmel közbiztonsági kockázatot jelent-e – az Országos Rendőr-főkapitányságot szakhatóságként jelöli ki.
 
-## 15/A. [^13] A környezeti hatások jelentőségnek vizsgálatával kapcsolatos rendelkezések
+## 15/A. [^14] A környezeti hatások jelentőségnek vizsgálatával kapcsolatos rendelkezések
 
-23/A. §[^14] (1) A 3. melléklet 4. pontja szerinti esetben, ha az engedélyezési eljárás a Khvr. 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a Khvr.-ben a tevékenységre megállapított feltétel nem teljesül, valamint a 18. § (5) bekezdésben foglalt esetekben az engedély iránti kérelemhez mellékelni kell a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr.-ben meghatározott – adatlapot.
+23/A. §[^15] (1) A 3. melléklet 4. pontja szerinti esetben, ha az engedélyezési eljárás a Khvr. 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a Khvr.-ben a tevékenységre megállapított feltétel nem teljesül, valamint a 18. § (5) bekezdésben foglalt esetekben az engedély iránti kérelemhez mellékelni kell a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr.-ben meghatározott – adatlapot.
 
 (2) A Hivatal a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján az eljárást felfüggeszti, ha az eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőség szakhatósági állásfoglalásában megállapította, hogy a tevékenység várható környezeti hatásai jelentősek. A felfüggesztésről szóló végzésnek tartalmaznia kell a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség megnevezését, valamint állásfoglalása rendelkező részét és indokolását.
 
 (3) A Hivatal – annak jogerőre emelkedésére tekintet nélkül – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint nyilvánosan közzéteszi azt a határozatot, valamint a felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást, amit olyan eljárásban hozott, amelyben a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
 
-[^13]: A 15/A. alcímet (23/A. §) a 82/2011. (V. 18.) Korm. rendelet 56. §-a iktatta be.
-[^14]: A 23/A. §-t a 82/2011. (V. 18.) Korm. rendelet 56. §-a iktatta be.
+[^14]: A 15/A. alcímet (23/A. §) a 82/2011. (V. 18.) Korm. rendelet 56. §-a iktatta be.
+[^15]: A 23/A. §-t a 82/2011. (V. 18.) Korm. rendelet 56. §-a iktatta be.

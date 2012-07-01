@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-320-20-
 | 2012-01-01 | 2010-320-20-22.7 | 160/2011. (VIII. 18.) Korm. rendelet |
 | 2012-01-07 | 2010-320-20-22.8 | 111/2011. (VII. 4.) Korm. rendelet |
 | 2012-03-15 | 2010-320-20-22.9 | 23/2012. (II. 29.) Korm. rendelet |
+| 2012-07-01 | 2010-320-20-22.10 | 137/2012. (VI. 29.) Korm. rendelet |
