@@ -2,7 +2,7 @@
 
 ## A közigazgatási szervnél foglalkoztatott munkavállaló
 
-258. § (1) A közigazgatási szervnél foglalkoztatott munkavállalókra a Munka Törvénykönyve (a továbbiakban: Mt.) rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
+258. § (1) A közigazgatási szervnél foglalkoztatott munkavállalókra a munka törvénykönyvéről szóló 2012. évi I. törvény rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) A munkaviszony büntetlen előéletű, cselekvőképes, a munkakör betöltésére külön jogszabályban megállapított képesítési követelménynek, illetve biztonsági feltételeknek megfelelő személlyel létesíthető. A munkavállaló írásbeli titoktartási nyilatkozatot tesz, amelynek megtételéig nem állítható munkába.
 
@@ -20,4 +20,4 @@ c) végkielégítésre nem jogosult, azonban az új jogviszonyában a végkielé
 
 (6) A munkavállaló a tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi munkabére nem haladhatja meg a Központi Statisztikai Hivatal által közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági átlagos havi bruttó munkabér tízszeresét.
 
-(7) Az e törvény hatálya alá tartozó munkáltatónál foglalkoztatott munkavállaló munkaviszonyára az Mt. 94/A–H. §-a és a 100–101. §-a nem alkalmazható. Esetükben e törvény 67. §-át és 193–194. §-át kell alkalmazni.
+(7) Az e törvény hatálya alá tartozó munkáltatónál foglalkoztatott munkavállaló munkaviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény 71–76. §-a, és 82–84. §-a nem alkalmazható. Esetükben e törvény 67. §-át és 193–194. §-át kell alkalmazni.

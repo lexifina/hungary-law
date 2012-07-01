@@ -20,11 +20,11 @@ b) kidolgozza a közigazgatási személyzetpolitika irányait és elveit és gon
 
 (5) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter felel az egységes alapokon megvalósuló személyügyi nyilvántartás és integrált emberi erőforrás-gazdálkodási rendszer működéséért a minisztériumokban és a Miniszterelnökségen.
 
-(6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter képviseli a Kormányt a Köztisztviselői Érdekegyeztetői Fórumban.
+(6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter képviseli a Kormányt a Közszolgálati Érdekegyeztető Fórumban.
 
 (7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatot tesz a Kormánytisztviselői Döntőbizottság elnökének és helyettesének, valamint tagjainak kinevezésére.
 
-(8)
+(8) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter dönt az 55. §-ban meghatározott kormányzati kirendelés elrendeléséről.
 
 (9) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter irányítja a kormányzati szolgálati, illetve közszolgálati jogviszonyban állók képzését, továbbképzését, átképzését, ellátja a közigazgatási vezetőképzéssel kapcsolatos feladatokat.
 

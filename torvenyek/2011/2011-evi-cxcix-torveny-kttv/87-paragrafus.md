@@ -15,3 +15,5 @@ e) folytathat tanszékvezetői tevékenységet,
 f) lehet állami alapító vagy az általa létrehozott szervezet által önállóan, vagy más állami alapítóval, állami alapító által létrehozott szervezettel vagy államháztartáson kívüli szervezettel közösen alapított (köz)alapítványban felügyelő bizottsági tag.
 
 (3) Vezetői munkakört betöltő kormánytisztviselő összeférhetetlenségére az (1) és (2) bekezdésben meghatározottakon túlmenően egyebekben a kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
+
+(4) A 85. § (4) bekezdés c) pontját és (5) bekezdését a vezetői munkakört betöltő kormánytisztviselő esetében akkor is alkalmazni kell, ha a tisztségviselés, a tagság ellátása további jogviszony létesítésével jár.

@@ -14,6 +14,10 @@
 
 7. előkészítő vagy befejező tevékenység: minden olyan feladat ellátása, amelyet a közszolgálati tisztviselő munkaköréhez kapcsolódóan, szokás szerint és rendszeresen, külön utasítás nélkül köteles elvégezni;
 
+7a. fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra;
+
+7b. gyermek: a családok támogatására vonatkozó szabályok szerinti saját háztartásban nevelt vagy gondozott gyermek;
+
 8. gyermekét egyedül nevelő közszolgálati tisztviselő: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa;
 
 9. hét: a naptári hét vagy a munkáltató által meghatározott megszakítás nélküli százhatvannyolc óra, ha a munkáltató működése miatt a beosztás szerinti napi munkaidő kezdete és befejezése nem azonos naptári napra esik;
@@ -26,9 +30,11 @@
 
 13. kormánytisztviselő, köztisztviselő: az 1. és 2. §-ban felsorolt szervek (a továbbiakban együtt: közigazgatási szerv) feladat- és hatáskörében eljáró vezető és ügyintéző, aki előkészíti a közigazgatási szerv feladat- és hatáskörébe tartozó ügyeket érdemi döntésre, illetve – felhatalmazás esetén – a döntést kiadmányozza, kivéve, ha ezt a tevékenységet az 1. § c) pontja szerinti fegyveres szervnél más jogviszonyban álló személy végzi;
 
-14. kormányzati, illetve közszolgálati ügykezelő: az, aki a közigazgatási szervnél közhatalmi, irányítási, ellenőrzési és felügyeleti tevékenység gyakorlásához kapcsolódó ügyviteli feladatot lát el, kivéve, ha ezt a tevékenységet az 1. § c) pontja szerinti fegyveres szervnél közalkalmazotti jogviszonyban álló személy végzi;
+14. kormányzati, illetve közszolgálati ügykezelő: az, aki a közigazgatási szervnél közhatalmi, irányítási, ellenőrzési és felügyeleti tevékenység gyakorlásához kapcsolódó ügyviteli feladatot lát el, kivéve, ha ezt a tevékenységet az 1. § c) pontja szerinti fegyveres szervnél vagy a Honvédségnél közalkalmazotti jogviszonyban álló személy végzi;
 
 15. körzetközponti jegyző: az a jegyző, aki a körzetközponti feladatot ellátó önkormányzatnál törvény vagy kormányrendelet alapján más településekre is kiterjedő illetékességgel államigazgatási hatáskört gyakorol;
+
+15a. kötelező orvosi vizsgálat: az az orvosi vizsgálat, amelyen a kormánytisztviselőnek jogszabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is;
 
 16. közigazgatási gyakorlatnak kell tekinteni a közigazgatási szervnél, illetve annak jogelőd szervénél közszolgálati jogviszonyban, államigazgatási munkaviszonyban töltött időt tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem; továbbá a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény hatálya alá tartozó szervnél szerzett gyakorlatot is;
 
@@ -61,5 +67,15 @@
 30. szakszervezet: munkavállalói érdek-képviseleti szerv. A közszolgálati tisztviselők minden olyan szervezete, amelynek elsődleges célja a közszolgálati tisztviselők kormányzati szolgálati, illetve közszolgálati jogviszonyával kapcsolatos érdekeinek előmozdítása és megvédése;
 
 31. személyügyi központ: e törvény szerinti kormányzati személyügyi igazgatási feladatokat ellátó szerv;
+
+31a. szülő:
+
+a) a vér szerinti és az örökbefogadó szülő, továbbá az együttélő házastárs,
+
+b) az, aki a saját háztartásában élő gyermeket örökbe kívánja fogadni, és az erre irányuló eljárás már folyamatban van,
+
+c) a gyám,
+
+d) a nevelőszülő és a helyettes szülő;
 
 32. további jogviszony: a fennálló kormányzati szolgálati jogviszony (közszolgálati jogviszony esetében a fennálló közszolgálati jogviszony) melletti másik kormányzati szolgálati jogviszony (közszolgálati jogviszony esetében másik közszolgálati jogviszony), valamint az egyéb jogviszony.

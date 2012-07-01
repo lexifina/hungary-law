@@ -46,13 +46,15 @@ c) a célfeladatra és a kutatási megállapodásra,
 
 d) a képzettségi és munkaköri pótlékra,
 
+e) a nyugállományú közszolgálati tisztviselők számára megállapítható juttatásokra
+
 vonatkozó részletes szabályokat;
 
 7. a kiválasztási eljárásra, a kiválasztás rendjére és feltételeire, a kormányzati személyügyi igazgatási feladatokat ellátó szerv által lefolytatott pályáztatás rendjére, annak szervezésére és lebonyolítására, a kompetencia-vizsgálatra és a toborzási adatbázisra vonatkozó részletes szabályokat megállapítsa;
 
 8. megállapítsa a címzetes főjegyzői cím adományozásának, megszűnésének és visszavonásának eljárási szabályait, valamint a címadományozási juttatás kifizetésére vonatkozó részletes szabályokat;
 
-9.
+9. a Kormánytisztviselői Döntőbizottság szervezetére és eljárására vonatkozó részletes szabályokat megállapítsa;
 
 10. megállapítsa
 
