@@ -10,7 +10,7 @@ a) az Ebtv. 12. §-a (1) bekezdésének a) pontjában foglalt személyek az R.-b
 
 b) az Ebtv. 12. §-a (1) bekezdésének b) pontjában foglalt személyek az R.-ben meghatározott típusú kivehető fogpótlások fogorvosi munkáira teljes térítéssel, azok technikai munkáinak költségeire az R.-ben meghatározottak szerint,
 
-c)[^15] a III. csoportba tartozó rokkantsági nyugdíjasok és a közgyógyellátásban részesülők az R.-ben meghatározott típusú kivehető fogpótlások fogorvosi munkáira térítésmentesen, azok technikai munkáinak költségeire az R.-ben meghatározottak szerint,
+c)[^15] a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 3. § (2) bekezdés a) pont ab) alpontja és b) pont bb) alpontja szerinti minősítési kategóriába tartozó, a megváltozott munkaképességű személyek ellátásában részesülő személy vagy az a 2011. december 31-én III. csoportos rokkantsági nyugdíjban, baleseti rokkantsági nyugdíjban részesülő személy, aki az Mmtv. 31–33. §-a alapján öregségi nyugdíjban, rokkantsági ellátásban vagy rehabilitációs ellátásban részesül és a közgyógyellátásban részesülők az R.-ben meghatározott típusú kivehető fogpótlások fogorvosi munkáira térítésmentesen, azok technikai munkáinak költségeire az R.-ben meghatározottak szerint,
 
 d) az Ebtv. 54. §-ának (3) bekezdésében foglalt személyek az R.-ben meghatározott típusú kivehető és rögzített fogpótlások fogorvosi munkáira térítésmentesen, azok technikai munkáinak költségeire az R.-ben meghatározottak szerint,
 
@@ -28,7 +28,7 @@ jogosultak.
 
 [^13]: Az 1. számú melléklet címe a 366/2010. (XII. 30.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
 [^14]: Az 1. számú melléklet 1. pontja a 173/2007. (VI. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^15]: Az 1. számú melléklet 2. pont c) alpontja a 73/2011. (IV. 29.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^15]: Az 1. számú melléklet 2. pont c) alpontja a 73/2011. (IV. 29.) Korm. rendelet 2. § (2) bekezdése, a 137/2012. (VI. 29.) Korm. rendelet 95. § (2) bekezdése szerint módosított szöveg.
 [^16]: Az 1. számú melléklet 3. pontját a 320/2006. (XII. 23.) Korm. rendelet 3. § (3) bekezdése hatályon kívül helyezte.
 [^17]: Az 1. számú melléklet 4. pontját a 63/2007. (III. 31.) Korm. rendelet 6. § (6) bekezdésének c) pontja hatályon kívül helyezte.
 [^18]: Az 1. számú melléklet 5. pontja a 366/2010. (XII. 30.) Korm. rendelet – a 73/2011. (IV. 29.) Korm. rendelet 19. § (4) bekezdése szerint módosított – 18. § (2) bekezdésével megállapított szöveg.
