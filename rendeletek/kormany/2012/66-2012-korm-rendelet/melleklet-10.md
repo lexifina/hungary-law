@@ -108,4 +108,64 @@
 
 ## Javaslat ipari mák termesztetésére
 
+| Közigazgatási terület (megye) | Vetésterület nagysága (ha) |
+
+| 1. Mákszalma (M) gyártásához |  |
+
+| …………… megye |  |
+
+| …………… megye |  |
+
+| Összesen: |  |
+
+| 2. Mákszalma (T) gyártásához |  |
+
+| …………… megye |  |
+
+| …………… megye |  |
+
+| Összesen: |  |
+
+| 3. Mákszalma (C) gyártásához |  |
+
+| …………… megye |  |
+
+| …………… megye |  |
+
+| Összesen: |  |
+
+| III |
+
+| A kinyerni tervezett összes alkaloid mennyiség a fenti vetésterületről (vízmentes bázisban) |
+
+| PS (M) |
+
+| Total PS (M) AMA (kg) |  |
+
+| Total PS (M) ACA (kg) |  |
+
+| Total PS (M) ATA (kg) |  |
+
+| Total PS (M) AOA (kg) |  |
+
+| PS(T) |
+
+| Total PS (T) ATA (kg) |  |
+
+| Total PS (T) AMA (kg) |  |
+
+| Total PS (T) ACA (kg) |  |
+
+| Total PS (T) AOA (kg) |  |
+
+| PS (C) |
+
+| Total PS (C) ACA (kg) |  |
+
+| Total PS (C) AMA (kg) |  |
+
+| Total PS (C) ATA (kg) |  |
+
+| Total PS (C) AOA (kg) |  |
+
 10. melléklet a 66/2012. (IV. 2.) Korm. rendelethez

@@ -1,6 +1,6 @@
 ## 3. Engedélyek, engedélyezési és nyilvántartásba vételi eljárás
 
-3. § (1) A kábítószerek és pszichotróp anyagok, valamint új pszichoaktív anyagok gyártása, exportja, importja, transzfere, beszerzése, forgalmazása, raktározása, tárolása, tartása, átadása, használata, valamint a velük kapcsolatos oktatás, kutatás, elemzés, továbbá kábítószer előállítására alkalmas növények termesztetése, valamint a velük kapcsolatos oktatás, kutatás, elemzés – a (2) és a (4) bekezdésben foglaltak, valamint az eseti kutatás kivételével – kizárólag tevékenységi engedély birtokában folytatható, kivéve a koncesszióról szóló törvény alapján 1999. július 1. előtt kötött magánjogi szerződések által érintett tevékenységeket. Tevékenységi engedélyt a Ptk. 685. § c) pontja szerinti gazdálkodó szervezet kaphat.
+3. § (1)[^3] A kábítószerek és pszichotróp anyagok, valamint új pszichoaktív anyagok gyártása, exportja, importja, transzfere, beszerzése, forgalmazása, raktározása, tárolása, tartása, átadása, használata, valamint a velük kapcsolatos oktatás, kutatás, elemzés, továbbá kábítószer előállítására alkalmas növények termesztetése, valamint a velük kapcsolatos oktatás, kutatás, elemzés – a (2) és a (4), valamint a (6) bekezdésben foglaltak, valamint az eseti kutatás kivételével – kizárólag tevékenységi engedély birtokában folytatható, kivéve a koncesszióról szóló törvény alapján 1999. július 1. előtt kötött magánjogi szerződések által érintett tevékenységeket. Tevékenységi engedélyt a Ptk. 685. § c) pontja szerinti gazdálkodó szervezet kaphat.
 
 (2) Az állatgyógyászati intézmény, az állatgyógyászati készítmények kiskereskedelmi forgalmazója, a magán-állatorvos, valamint állatorvost alkalmazó telep, állatkert, vadaspark köteles a K1, K2 és a P2 jegyzéken szereplő kábítószernek vagy pszichotróp anyagnak minősülő hatóanyagot tartalmazó gyógyszerrel végzett tevékenységét – annak megkezdése előtt legalább harminc nappal – a rendőrségnek az alábbi adattartalommal bejelenteni:
 
@@ -12,7 +12,7 @@ c) a cégjegyzékszáma, és a bírósági nyilvántartásba történő bejegyz�
 
 d) a működésre jogosító engedélyek adatai (az engedély száma, a kiadó hatóság megnevezése, az engedély kelte és időbeli hatálya);
 
-e) amennyiben emberi felhasználás céljára előállított, a K1, K2 és a P2 jegyzéken szereplő kábítószernek vagy pszichotróp anyagnak minősülő hatóanyagot tartalmazó gyógyszert kíván tárolni és felhasználni, a készítmény hatóanyagának neve és kiszerelési formája;
+e)[^4] a tevékenységgel érintett K1, K2 és P2 jegyzéken szereplő kábítószernek vagy pszichotróp anyagnak minősülő hatóanyagot tartalmazó gyógyszert kíván tárolni és felhasználni, a készítmény hatóanyagának neve és kiszerelési formája;
 
 f) a tárolóhely és a tárolási rend leírása.
 
@@ -49,3 +49,6 @@ b) az előírt adatszolgáltatást nem teljesítette.
 (11) Amennyiben a jogosult a felfüggesztésre okot adó körülményt a felfüggesztés időtartama alatt megszünteti, és ezt bejelenti, a nyilvántartást vezető szerv dönt a felfüggesztés megszüntetéséről.
 
 (12) A nyilvántartást vezető szerv a nyilvántartásba vett szervezet tevékenységének felfüggesztéséről vagy visszavonásáról szóló döntését közli a felfüggesztést vagy visszavonást kezdeményező hatósággal is.
+
+[^3]: A 3. § (1) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 91. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 82. §-ával megállapított szöveg.

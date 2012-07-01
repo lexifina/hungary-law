@@ -68,4 +68,6 @@
 
 ## Cégszerű aláírás, cégbélyegző, dátum, a kábítószerfelelős ellenjegyzése:
 
-9. melléklet a 66/2012. (IV. 2.) Korm. rendelethez
+9. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^19]
+
+[^19]: A 9. melléklet a 137/2012. (VI. 29.) Korm. rendelet 89. § (2) bekezdése szerint módosított szöveg.

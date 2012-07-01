@@ -1,6 +1,6 @@
 |  |  |  |  |  | Sorszám: 000000 |
 
-## KÁBÍTÓSZER és PSZICHOTRÓP ANYAG MEGRENDELÉS
+## KÁBÍTÓSZER, PSZICHOTRÓP ANYAG ÉS ÚJ PSZICHOAKTÍV ANYAG MEGRENDELÉS
 
 |  |  |  | Megrendelt mennyiség | Kiadott mennyiség |
 
