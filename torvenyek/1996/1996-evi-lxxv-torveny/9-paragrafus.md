@@ -8,7 +8,9 @@ a) munkahelyen a munkavédelemről szóló 1993. évi XCIII. törvény 87. §-á
 
 b) munkabéren: a jogszabály alapján járó illetményt, illetménypótlékot, illetménykiegészítést és tizenharmadik havi illetményt, valamint az ügyészségi szolgálati jogviszonyról és az ügyészségi adatkezelésről szóló 1994. évi LXXX. törvényben és a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvényben, valamint az igazságügyi alkalmazottak szolgálati viszonyáról szóló 1997. évi LXVIII. törvényben foglalt javadalmazást,
 
-c) fiatal munkavállalón a Köt. alapján közérdekű önkéntes tevékenységet végző, tizennyolcadik életévét be nem töltött személyt
+c) fiatal munkavállalón a Köt. alapján közérdekű önkéntes tevékenységet végző, tizennyolcadik életévét be nem töltött személyt,
+
+d) a 3. § (1) bekezdés a) pontjának alkalmazásában a munkaszerződés lényeges tartalmi elemein az alapbért, a munkakört, a munkavégzés helyét, valamint a munkaidőt
 
 is érteni kell.
 

@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-75-00-00
 | 2012-01-01 | 2011. évi CXCI. törvény | 1996-75-00-00.36 |
 | 2012-04-07 | 2012. évi XXI. törvény | 1996-75-00-00.37 |
 | 2012-04-15 | 2012. évi II. törvény | 1996-75-00-00.38 |
+| 2012-07-01 | 2012. évi LXXXVI. törvény | 1996-75-00-00.39 |

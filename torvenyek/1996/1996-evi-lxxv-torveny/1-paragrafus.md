@@ -1,8 +1,8 @@
 1. § (1) E törvény hatálya kiterjed
 
-a) arra a természetes és jogi személyre, valamint jogi személynek nem minősülő gazdasági társaságra, aki a tizennyolcadik életévét betöltött természetes személyt foglalkoztatásra irányuló jogviszony, továbbá harmadik országbeli állampolgárt vagy fiatal munkavállalót foglalkoztatásra irányuló jogviszony, illetve a (4) bekezdésben meghatározott jogviszonyok – ideértve az egyszerűsített foglalkoztatásról szóló törvényben meghatározott munkaviszonyt is – alapján foglalkoztat,
+a) arra a természetes és jogi személyre, valamint jogi személynek nem minősülő gazdasági társaságra, aki, illetve amely a tizennyolcadik életévét betöltött természetes személyt foglalkoztatásra irányuló jogviszony – ideértve az egyszerűsített foglalkoztatásra vagy alkalmi munkára létesített munkaviszonyt is –, továbbá harmadik országbeli állampolgárt vagy fiatal munkavállalót foglalkoztatásra irányuló jogviszony, illetve a (4) bekezdésben meghatározott jogviszonyok alapján foglalkoztat,
 
-b) a Munka Törvénykönyve Harmadik része XI. fejezetében meghatározott munkaerő-kölcsönzés esetén a kölcsönbeadóra és a kölcsönvevőre
+b) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) XVI. fejezetében meghatározott munkaerő-kölcsönzés esetén a kölcsönbeadóra és a kölcsönbevevőre
 
 (a továbbiakban együtt: foglalkoztató).
 
@@ -10,7 +10,7 @@ b) a Munka Törvénykönyve Harmadik része XI. fejezetében meghatározott munk
 
 a)
 
-b) a külföldi munkáltató munkavállalójának a Munka Törvénykönyve 106/A. §-a alapján történő munkavégzésére.
+b) a külföldi munkáltató munkavállalójának az Mt. 295. §-a alapján történő munkavégzésére.
 
 (3) E törvény alkalmazásában – a (4) bekezdésben foglalt kivétellel – foglalkoztatásra irányuló jogviszonynak minősül minden olyan jogviszony, amelyben a szolgáltatás tárgya a foglalkoztató részére ellenérték fejében végzett munka.
 
@@ -22,7 +22,9 @@ b) a gazdasági társaságokról szóló törvényben szabályozott közkereseti
 
 c) a közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvényben (a továbbiakban: Köt.) szabályozott önkéntes szerződés alapján végzett közérdekű önkéntes tevékenység,
 
-d) a szövetkezet tagjának a szövetkezet részére kifejtett személyes közreműködése, ha a tag a személyes közreműködést vállalkozási vagy megbízási szerződés alapján teljesíti.
+d) a szövetkezet tagjának a szövetkezet részére kifejtett személyes közreműködése, ha a tag a személyes közreműködést vállalkozási vagy megbízási szerződés alapján teljesíti,
+
+e) az önálló kereskedelmi ügynöki szerződés alapján végzett munka.
 
 (5) A felügyelő jogosult hatósági ellenőrzés során megállapított tényállás alapján a foglalkoztató és a részére munkát végző személy közötti, illetve a munkavállalónak munkavégzés céljából történő átengedése alapjául szolgáló jogviszony, valamint a tényleges foglalkoztatás alapján létrejött kapcsolat minősítésére. Ehhez a foglalkoztatónak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a részére végzett munka a (4) bekezdés szerinti jogviszonyok alapján, vagy ellenérték nélkül történt.
 

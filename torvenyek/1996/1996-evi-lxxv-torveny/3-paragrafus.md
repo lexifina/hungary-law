@@ -1,16 +1,16 @@
 3. § (1) A munkaügyi ellenőrzés kiterjed:
 
-a) a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére és kötelező tartalmi elemeinek meglétére, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre (ideértve a gyermekmunka tilalmát is), továbbá a foglalkoztató írásbeli tájékoztatási kötelezettségére vonatkozó rendelkezések,
+a) a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat alakszerűségére, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre (ideértve a gyermekmunka tilalmát is), továbbá a munkaszerződés lényeges tartalmi elemeire és a foglalkoztató írásbeli tájékoztatási kötelezettségére (ideértve a jogosultnak az Mt. 297. §-a szerinti tájékoztatási kötelezettségét is) vonatkozó rendelkezések,
 
-b) a foglalkoztatásra irányuló jogviszony létesítésével, megszűnésével, illetőleg megszüntetésével összefüggő bejelentési kötelezettségek,
+b) a foglalkoztatásra irányuló jogviszony létesítésével, megszűnésével, megszüntetésével összefüggő bejelentési kötelezettség,
 
-c) a munkáltató nyilvántartási kötelessége,
+c)
 
 d)
 
 e) a nők, a fiatalkorúak és a megváltozott munkaképességűek foglalkoztatásával kapcsolatos jogszabályok,
 
-f) a munkaidőre, a pihenőidőre, a rendkívüli munkavégzésre, valamint a szabadságra vonatkozó, jogszabályban vagy kollektív szerződésben előírt rendelkezések,
+f) a munka- és pihenőidőre a munkaviszonyra vonatkozó szabályban előírt rendelkezések,
 
 g) a jogszabályban, kollektív szerződésben vagy a miniszter által az ágazatra, alágazatra kiterjesztett kollektív szerződésben megállapított munkabér mértékére, valamint a munkabér védelmére vonatkozó rendelkezések,
 
@@ -30,9 +30,9 @@ n)
 
 o) a teljesítménykövetelmény megállapítása tekintetében az előzetes foglalkoztatói eljárás lefolytatásának tényére, valamint a teljesítménykövetelmény és a teljesítménybér-tényezők alkalmazása előtti közlésére vonatkozó szabályok,
 
-p) az európai üzemi tanács létrehozásáról, illetve a munkavállalók tájékoztatását és a velük való konzultációt szolgáló eljárás kialakításáról szóló törvény 21. §-ában foglalt rendelkezések munkáltató általi,
+p)
 
-q) a Köt. 5. §-ának (3)–(6) bekezdésében foglalt rendelkezések fogadó szervezetek általi,
+q)
 
 r) a harmadik országbeli állampolgár és a szabad mozgás és tartózkodás jogával rendelkező személy magyarországi foglalkoztatásának bejelentésére vonatkozó jogszabályok,
 
@@ -42,20 +42,10 @@ t) a költségvetési szervek, valamint az egyházi fenntartású közfeladatot 
 
 megtartására.
 
-(2) A munkaügyi ellenőrzést a felügyelő hivatalból, az (1) bekezdés p) pontjában foglalt esetben, valamint a g) pontban a munkabérnek – a miniszter által az ágazatra, alágazatra kiterjesztett kollektív szerződés kivételével – a kollektív szerződésben rögzített mértéke tekintetében annak a félnek a kérelmére folytatja le, akinek a jogát, jogos érdekét az ügy érinti.
+(2) Az (1) bekezdés g) pontjával kapcsolatos munkaügyi ellenőrzés az Mt. 136–137. §-ában, 138. § (4)–(6) bekezdésében, 139–145. §-ában, 146. § (1)–(3) bekezdésében, 147. § (1) bekezdésében, 153–165. §-ában foglalt rendelkezések megtartására terjed ki.
 
-(3) A munkaerő-kölcsönzés esetében a munkaügyi ellenőrzés
+(3) A munkaerő-kölcsönzés esetében a munkaügyi ellenőrzés – az Mt. 215–218. §-a tekintetében – kiterjed a kölcsönbeadóra és a kölcsönvevőre. Az iskolaszövetkezeti tagnak az Mt. 223. §-a alapján történő munkavégzése tekintetében a munkaügyi ellenőrzés kiterjed az iskolaszövetkezetre és az Mt. 224. § (1)–(3) tekintetében a szolgáltatás fogadójára. Az iskolaszövetkezetnél az (1) bekezdés a)–b), e)–i), valamint r)–s) pontja vonatkozásában lefolytatott ellenőrzés során a munkaügyi hatóság a munkaügyi szabályok betartásának ellenőrzését a szövetkezetekről szóló törvényben foglalt eltérő szabályok figyelembevételével végzi, e körben ellenőrzési jogköre kiterjed a munkáltató iskolaszövetkezeti jogállásának, valamint a foglalkoztatottak tanulói vagy hallgatói jogviszonya fennállásának ellenőrzésére is. E rendelkezés nem érinti az iskolaszövetkezet tagja személyes közreműködését igénybevevő harmadik személy foglalkoztatónál megvalósuló, az iskolaszövetkezet tagjának nem minősülő személy foglalkoztatása szabályai betartásának ellenőrzését.
 
-a) az (1) bekezdés a)–b), – a szabadságra vonatkozó rendelkezést illetően – az f) és h) pontjaiban meghatározott szabályok vonatkozásában a kölcsönbeadóra,
-
-b) az (1) bekezdés c), e), f) pontjaiban meghatározott szabályok vonatkozásában a kölcsönvevőre,
-
-c) az (1) bekezdés g), i), k), o), valamint s) pontjában meghatározott szabályok vonatkozásában mind a kölcsönbeadóra, mind pedig a kölcsönvevőre,
-
-d) az (1) bekezdés r) pontjában meghatározott szabály vonatkozásában külföldi székhellyel rendelkező kölcsönbeadó esetében a kölcsönvevőre, egyébként a kölcsönbeadóra
-
-kiterjed.
-
-(4) Az iskolaszövetkezet tagjának az Mt. XII/A. § fejezete alapján történő munkavégzése tekintetében az iskolaszövetkezetnél végzett munkaügyi ellenőrzés nem terjed ki az (1) bekezdés k) pontjában foglaltak megtartásának ellenőrzésére. Az (1) bekezdés a)–c), e)–i), valamint o)–s) pontjaiban lefolytatott ellenőrzés során a munkaügyi hatóság a munkaügyi szabályok betartásának ellenőrzését a szövetkezetekről szóló 2006. évi X. törvényben foglalt eltérő szabályok figyelembevételével végzi, e körben ellenőrzési jogköre kiterjed a munkáltató iskolaszövetkezeti jogállásának, valamint a foglalkoztatottak tanulói vagy hallgatói jogviszonya fennállásának ellenőrzésére is. E rendelkezés nem érinti az iskolaszövetkezet tagja személyes közreműködését igénybevevő harmadik személy foglalkoztatónál megvalósuló, az iskolaszövetkezet tagjának nem minősülő személy foglalkoztatása szabályai betartásának ellenőrzését.
+(4)
 
 (5)

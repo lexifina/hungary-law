@@ -1,14 +1,4 @@
-8/A. § (1) A munkaügyi eljárás határideje az eljárás megindításától számított két hónap
-
-a) a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére,
-
-b) a munkaerő-kölcsönzésre, valamint
-
-c) a munkaidőre, pihenőidőre, rendkívüli munkavégzésre
-
-vonatkozó jogszabályi előírások megsértése miatt folytatott eljárásokban.
-
-Amennyiben a munkaügyi hatóság előtt olyan ügy van folyamatban, amelyre különböző eljárási határidők vonatkoznak, a hosszabb eljárási határidőre vonatkozó rendelkezéseket kell alkalmazni. Ha a hatósági ellenőrzés keretében a 3. §-ban foglalt több ellenőrzési tárgykör egyidejű ellenőrzésére kerül sor, a határozatot az eljárás megindításától számítva a jogsértésre irányadó leghosszabb határidő alatt kell meghozni.
+8/A. § (1) A munkaügyi eljárás határideje az eljárás megindításától számított két hónap a 3. § (1) bekezdésének a), f), g) és k) pontjában meghatározott szabályok megsértése miatt folytatott eljárásokban.
 
 (2) A munkaügyi ellenőrzés alapján indult eljárásokban vélelmezni kell a tanúnak a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az adatok zárt kezelésére vonatkozó szabályai szerinti olyan helyzetét, amely alapján őt tanúvallomása miatt súlyosan hátrányos következmény érheti. E rendelkezés megfelelően irányadó arra a természetes személyre is, akinek bejelentése alapján a hatóság az eljárást hivatalból megindította.
 
@@ -20,7 +10,7 @@ a) újrafelvételi eljárásnak nincs helye,
 
 b) a bíróság a munkaügyi hatóság bírságot megállapító határozatát megváltoztathatja, ha a határozat jogszabálysértő, és a közigazgatási határozatot megváltoztató döntéshez szükséges adatok rendelkezésre állnak,
 
-c) felügyeleti eljárás keretében a kötelezettséget megállapító döntés jogerőre emelkedésétől vagy ha a teljesítési határidő hosszabb, annak utolsó napjától számított egy év elteltével munkaügyi határozat megváltoztatásának, illetőleg megsemmisítésének nincs helye.
+c) felügyeleti eljárás keretében a kötelezettséget megállapító döntés jogerőre emelkedésétől vagy ha a teljesítési határidő hosszabb, annak utolsó napjától számított egy év elteltével munkaügyi döntésmegváltoztatásának, illetőleg megsemmisítésének nincs helye.
 
 (5)
 

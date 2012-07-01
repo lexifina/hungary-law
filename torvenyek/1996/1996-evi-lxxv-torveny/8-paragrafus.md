@@ -6,7 +6,7 @@
 
 (4) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvényben meghatározott álláskeresési ellátásokra, illetőleg a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben meghatározott aktív korúak ellátására való jogosultság fennállásának ellenőrzése céljából a munkaügyi hatóság hivatalból eljárva, havi rendszerességgel, elektronikusan adatot szolgáltat az állami foglalkoztatási szerv részére azokról a munkavállalókról, akik tekintetében a foglalkoztató részéről
 
-a) e törvény 3. §-a (1) bekezdésének a) pontja alapján a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vonatkozó rendelkezések [Munka Törvénykönyve 76. § (2) bekezdés] megsértését,
+a) e törvény 3. §-a (1) bekezdésének a) pontja alapján a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vonatkozó rendelkezések [Mt. 22–23. §, 42–44. §] megsértését,
 
 b) e törvény 3. §-a (1) bekezdésének b) pontja alapján a munkaviszony létesítésével összefüggő bejelentési kötelezettség megsértését
 
@@ -16,7 +16,7 @@ jogerős és végrehajtható közigazgatási határozattal megállapította.
 
 a) a jogsértés tényét megállapító jogerős határozat számát és a határozat jogerőre emelkedésének időpontját,
 
-b) a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vonatkozó rendelkezések [Munka Törvénykönyve 76. § (2) bekezdés], valamint a munkaviszony létesítésével összefüggő bejelentési kötelezettség [az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (4) bekezdés a) pont] megsértésével érintett munkavállaló nevét, anyja nevét, születésének helyét, idejét, lakcímét és a jogsértéssel érintett állapot időtartamát, továbbá
+b) a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vonatkozó rendelkezések [Mt. 22–23. §, 42–44. §], valamint a jogviszony létesítésével összefüggő bejelentési kötelezettség [az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (4) bekezdés a) pont, illetve az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 11. §] megsértésével érintett munkavállaló nevét, anyja nevét, születésének helyét, idejét, lakcímét és a jogsértéssel érintett állapot időtartamát, továbbá
 
 c) – amennyiben azt a munkaügyi ellenőrzés során tisztázni lehetett – a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vonatkozó rendelkezések, valamint a munkaviszony létesítésével összefüggő bejelentési kötelezettség megsértésével érintett munkavállalók TAJ-számát.
 
