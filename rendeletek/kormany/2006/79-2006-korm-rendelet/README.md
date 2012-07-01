@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-79-20-2
 | 2011-01-01 | 2006-79-20-22.12 | 372/2007. (XII. 23.) Korm. rendelet |
 | 2011-03-27 | 2006-79-20-22.13 | 39/2011. (III. 22.) Korm. rendelet |
 | 2012-01-01 | 2006-79-20-22.14 | 276/2009. (XII. 4.) Korm. rendelet |
+| 2012-07-01 | 2006-79-20-22.15 | 95/2012. (V. 15.) Korm. rendelet |
