@@ -58,7 +58,7 @@
 
 ## fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve.
 
-## ca)[^15] A fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér megyére, Komárom-Esztergom megyére és Veszprém megyére kiterjedő illetékességgel látja el.
+## ca)[^15]
 
 ## II.2. Érintettség esetén vesz részt:
 
@@ -193,7 +193,7 @@
 [^12]: A 3. számú melléklet I.1. pontjának a) alpontja a 377/2007. (XII. 23.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^13]: A 3. számú melléklet I.2. pont f) alpontja a 97/2008. (IV. 29.) Korm. rendelet 7. §-ának 20. pontja szerint módosított szöveg.
 [^14]: A 3. számú melléklet II. cím 1. pont c) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a szerint módosított szöveg.
-[^15]: A 3. számú melléklet II. cím 1. pont c) alpontja ca alpontját a 351/2010. (XII. 30.) Korm. rendelet 131. §-a iktatta be.
+[^15]: A 3. számú melléklet II. cím 1. pont c) alpontja ca alpontját a 351/2010. (XII. 30.) Korm. rendelet 131. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § g) pontja.
 [^16]: A 3. számú melléklet II.2. pont b) alpontja a 97/2008. (IV. 29.) Korm. rendelet 7. §-ának 20. pontja szerint módosított szöveg.
 [^17]: A 3. számú melléklet II. cím 2. pont d) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a szerint módosított szöveg.
 [^18]: A 3. számú melléklet II. cím 2. pont e) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a szerint módosított szöveg.
