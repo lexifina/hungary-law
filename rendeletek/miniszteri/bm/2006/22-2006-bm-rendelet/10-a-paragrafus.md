@@ -8,7 +8,7 @@
 
 (5) Személy- és vagyonőri képesítésként kell elfogadni az üzemrendészeti szervek szervezéséről szóló 14/1960. (III. 24.) Korm. rendelet, valamint a közületi szervek rendészeti tevékenységéről szóló 6/1988. (II. 12.) MT rendelet alapján szerzett rendész képesítést.
 
-(6) Biztonságtechnikai tervező, szerelő képesítésként kell elfogadni a biztonságtechnikai mérnöki, az előkészítés-technikai mérnöki, valamint villamosmérnöki képzettséget adó egyetemi vagy főiskolai végzettséget igazoló illetve a felsőoktatási alap- és mesterképzésben szerzett oklevelet.
+(6)[^31] Biztonságtechnikai tervező, szerelő képesítésként kell elfogadni a biztonságtechnikai, a híradástechnikai, a távközlési, az elektrotechnikai, valamint villamosmérnöki képzettséget adó egyetemi vagy főiskolai végzettséget igazoló illetve a felsőoktatási alap- és mesterképzésben szerzett oklevelet.
 
 (7) Biztonságtechnikai, szerelő képesítésként kell elfogadni a villamossági vagy elektronikai képzettségek technikusi végzettségeit igazoló bizonyítványt, az elektronikus és mechanikus vagyonvédelmi rendszerszerelő szakképzettséget, a biztonságtechnikai szerelő, kezelő szakképzettséget, valamint az elektronikus vagyonvédelmi rendszerszerelő szakképzettséget.
 
@@ -17,3 +17,4 @@
 (9) Mechanikai vagyonvédelmi rendszert szerelő képesítésként kell elfogadni a gépészeti vagy mechanikai képzettségek technikusi végzettségeit igazoló bizonyítványt, továbbá az elektronikus és mechanikus vagyonvédelmi rendszerszerelő szakképzettséget, a biztonságtechnikai szerelő, kezelő szakképzettséget, valamint a mechanikus vagyonvédelmi rendszerszerelő szakképzettséget.
 
 [^30]: A 10/A. §-t az 55/2011. (XII. 21.) BM rendelet 9. §-a iktatta be.
+[^31]: A 10/A. § (6) bekezdése a 31/2012. (VI. 28.) BM rendelet 3. §-a szerint módosított szöveg.

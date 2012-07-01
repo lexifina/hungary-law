@@ -24,6 +24,6 @@
 
 | ÉRVÉNYES -ig. A személyazonosságot igazoló hatósági igazolvánnyal együtt jogosít fel a tevékenység végzésére. Engedélyező hatóság: Engedélyezés dátuma: |
 
-3. melléklet a 22/2006. (IV. 25.) BM rendelethez[^38]
+3. melléklet a 22/2006. (IV. 25.) BM rendelethez[^39]
 
-[^38]: A 3. melléklet az 55/2011. (XII. 21.) BM rendelet 12. §-ával megállapított szöveg.
+[^39]: A 3. melléklet az 55/2011. (XII. 21.) BM rendelet 12. §-ával megállapított szöveg.
