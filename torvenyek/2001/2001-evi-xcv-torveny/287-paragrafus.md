@@ -8,7 +8,9 @@ a) az állami készfizető kezesség vállalásra,
 
 b) a más szervhez történő vezénylésre (a vezénylésre vonatkozó megállapodás megkötésének kezdeményezésére, a vezénylésre kerülők kiválasztására, a vezénylésre vonatkozó megállapodás kötelező tartalmi elemeire, a Honvédségre és a más szerv közötti együttműködés feladataira, a költségek viselésére) vonatkozó szabályokat, valamint
 
-c) az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételének, valamint a külön meghatározott személyek tekintetében fennálló egészségügyi ellátás rendjének részletes szabályait.
+c) az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételének, valamint a külön meghatározott személyek tekintetében fennálló egészségügyi ellátás rendjének részletes szabályait,
+
+d) a 48. § (13) bekezdése szerint átadott adatok informatikai rendszerben történő rögzítésére, módosítására és törlésére vonatkozó előírásokat, továbbá a 48. § (14) bekezdése szerinti együttműködés rendjét,
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza:
 
@@ -44,7 +46,7 @@ fa) a szerződéses állomány 5 évet már szolgálatban töltött és legaláb
 
 fb) a lemondási időre a lakhatási támogatások vonatkozásában eltérő szabályok megállapítását,
 
-fc) a lakhatási támogatások egyéb feltételeit, a végleges letelepedés támogatásának eltérő szabályait, a végrehajtás részletes szabályozását, a szolgálati hely szerinti település vonzáskörzetének meghatározását, valamint az állomány hősi halottá nyilvánított tagja részére nyújtott kamatmentes kölcsönből fennálló tartozás elengedésének, továbbá a túlélő hozzátartozó lakhatási támogatásának részletes szabályait,
+fc) a lakhatási támogatások egyéb feltételeit, összegét, ideértve az állami tulajdonban és a HM vagyonkezelésében álló lakások bérleti és különszolgáltatási díját, a lakott forgalmi értéke és a szolgálatban töltött idő figyelembevételével kialakítandó tényleges elidegenítési vételár képzését tartalmazó szabályokat, a végleges letelepedés támogatásának eltérő szabályait, a végrehajtás részletes szabályozását, a szolgálati hely szerinti település vonzáskörzetének meghatározását, valamint az állomány hősi halottá nyilvánított tagja részére nyújtott kamatmentes kölcsönből fennálló tartozás elengedésének, továbbá a túlélő hozzátartozó lakhatási támogatásának részletes szabályait,
 
 fd) a Honvédség létszámigénye kielégítését támogató, ösztönző rendszer részletes szabályait,
 

@@ -48,7 +48,7 @@ c) aki magatartásával a Honvédség működéséhez szükséges közbizalom fe
 
 (8) A munkáltatói jogkört gyakorló elöljáró a felmentést írásban köteles megindokolni. Ebből világosan ki kell tűnnie, hogy a felmentés indoka valós és okszerű.
 
-(9) Csoportosnak minősül és a Munka Törvénykönyve szerinti bejelentési kötelezettség alá esik a létszámleépítés, ha a szervezeti egységnél egy naptári évben
+(9) Csoportosnak minősül és a munka törvénykönyvéről szóló törvény szerinti bejelentési kötelezettség alá esik a létszámleépítés, ha a szervezeti egységnél egy naptári évben
 
 a) 20 főnél kevesebb rendszeresített beosztás esetén 5 fő,
 

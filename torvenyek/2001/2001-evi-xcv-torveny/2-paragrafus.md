@@ -66,7 +66,7 @@
 
 (30) Előmeneteli bizottság: kijelölt testület, amely az előmenetelre rangsorolással tesz javaslatot.
 
-(31) Közszolgálati jogviszony: a köztisztviselői, közalkalmazotti, a fegyveres szervek hivatásos és szerződéses állományú tagjaira vonatkozó, valamint az igazságügyi, bírósági és ügyészségi szolgálati jogviszony.
+(31) Közszolgálati jogviszony: a kormányzati szolgálati, a közszolgálati, közalkalmazotti, a fegyveres szervek hivatásos és szerződéses állományú tagjaira vonatkozó, valamint az igazságügyi, bírósági és ügyészségi szolgálati jogviszony.
 
 (32) Külföldi szolgálat: a külföldi állomáshelyen teljesített katonai szolgálat. A külföldi szolgálat teljesítésének formái különösen:
 
@@ -110,6 +110,6 @@ k) hadművelet közvetett támogatása külföldről, nem hadműveleti területe
 
 (41) Harctéri egészségügyi katona: az állomány azon tagja, aki egészségügyi szakképesítéssel rendelkezik, és az ehhez szükséges, az egészségügyről szóló törvény szerinti egészségügyi szakirányú szakmai továbbképzésen eredményesen részt vett.
 
-(42) Harctéri életmentő katona: az állomány azon tagja, aki egészségügyi szakképesítéssel nem rendelkezik, azonban a Magyar Honvédség, illetve a szövetséges fegyveres erők által szervezett egészségügyi szakkiképzésen eredményesen részt vett.
+(42) Harctéri mentőkatona: az állomány azon tagja, aki egészségügyi szakképesítéssel nem rendelkezik, azonban a Honvédség, illetve a szövetséges fegyveres erők által szervezett egészségügyi szakkiképzésen eredményesen részt vett, és ennek eredményeképpen e törvényben meghatározottak szerint a katonai tevékenységek során bekövetkezett különböző sérülések, betegségek felismerésére, elsősegélynyújtásra, harctéri sebesült-ellátásra, valamint életmentő feladatok végrehajtására alkalmas.
 
 (43) Nagy értékű képzés: az olyan képzés, amely esetén a tanulmányi támogatás pénzben kiszámított havi összege meghaladja a köztisztviselői illetményalap tízszeresét.

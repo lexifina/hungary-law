@@ -12,7 +12,7 @@ e) a külön törvény szerinti, örökbefogadás előtti kötelező gondozásba
 
 (2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak az állomány tagjára, ha
 
-a) a szolgálatra alkalmatlanná vált, és a Munka Törvénykönyvének megfelelő alkalmazásával nyugdíjasnak minősül,
+a) a szolgálatra alkalmatlanná vált, és a munka törvénykönyvéről szóló törvény megfelelő alkalmazásával nyugdíjasnak minősül,
 
 b) az 59. § (2a) bekezdése alapján a felmentését maga kérte, vagy
 

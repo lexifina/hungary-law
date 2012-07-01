@@ -4,7 +4,7 @@
 
 a) a minisztérium rendelkezése alatt lévő lakás bérlete, állami tulajdonú lakás esetében a lakbér összegének megállapításával;
 
-b) magántulajdonba kerülő lakás megszerzésének anyagi támogatása
+b) magántulajdonba kerülő lakás megszerzésének anyagi támogatása, elsősorban
 
 ba) kamatmentes kölcsönnel,
 

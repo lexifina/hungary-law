@@ -76,25 +76,23 @@ döntések
 
 |
 
-4. Szolgálati beosztásra
-
-vonatkozó döntések
+4. Szolgálati beosztásra vonatkozó döntések
 
 |
 
-4.1. Szolgálati beosztásból felfüggesztés, illetményvisszatartás
+4.1. Szolgálati beosztásból felfüggesztés, illetmény, távolléti díj visszatartása
 
-– tábornok, ezredes
+– tábornok, ezredes
 
 4.2. Magasabb beosztásba kinevezés
 
-– magasabb kinevezési hatáskörbe tartozókra vonatkozó előterjesztések
+– magasabb kinevezési hatáskörbe tartozókra vonatkozó előterjesztések
 
 a miniszterelnökhöz
 
-– tábornoki, ezredesi rendfokozattal rendszeresített beosztásba
+– tábornoki, ezredesi rendfokozattal rendszeresített beosztásba
 
-– katonai attasé
+– katonai attasé
 
 |
 

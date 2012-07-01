@@ -1,6 +1,6 @@
-## Szolgálatteljesítés a Fővárosi és Megyei Védelmi Bizottságnál
+## Szolgálatteljesítés a Fővárosi és Megyei Védelmi Bizottság Titkárságán
 
-48/D. § Az állomány fővárosi és megyei kormányhivatal törzshivatalában elhelyezkedő Fővárosi és Megyei Védelmi Bizottságnál szolgálatot teljesítő tagjának szolgálati viszonyára e törvény rendelkezései az irányadóak azzal, hogy
+48/D. § Az állomány fővárosi és megyei kormányhivatal törzshivatalában elhelyezkedő Fővárosi és Megyei Védelmi Bizottság Titkárságán szolgálatot teljesítő tagjának szolgálati viszonyára e törvény rendelkezései az irányadóak azzal, hogy
 
 a) a fővárosi és megyei kormányhivatal vezetője javaslatot tehet a fegyelmi, a méltatlansági, a kártérítési eljárás megindítására, a jutalmazásra és más elismerésére,
 

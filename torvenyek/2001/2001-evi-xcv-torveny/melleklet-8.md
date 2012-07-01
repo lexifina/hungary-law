@@ -7,5 +7,3 @@ Hozzájárulok, hogy az életvitelemet, jövedelmi és vagyoni viszonyaimat, él
 (Kelt, dátum)
 
 .....................................................
-
-aláírás, lakcím

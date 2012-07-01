@@ -44,11 +44,13 @@ rc) maximális várakozási ideje letelt és annak meghosszabbítására a 83. �
 
 más közszolgálati jogviszonyba történő áthelyezéséig, de legfeljebb a (10) bekezdésben meghatározott időtartamra;
 
-s) a hivatásos állomány legalább 25 év szolgálati idővel rendelkező tagja kérelmére, aki egészségi, vagy pszichikai okból katonai szolgálatra alkalmatlan, más közszolgálati jogviszonyba történő áthelyezéséig, de legfeljebb a (10) bekezdésben meghatározott időtartamra.
+s) a hivatásos állomány legalább 25 év szolgálati idővel rendelkező tagja kérelmére, aki egészségi, vagy pszichikai okból katonai szolgálatra alkalmatlan, más közszolgálati jogviszonyba történő áthelyezéséig, de legfeljebb a (10) bekezdésben meghatározott időtartamra;
+
+t) akivel szemben méltatlansági eljárást rendeltek el, annak befejezéséig, ha a méltatlansági eljárás felfüggesztésre kerül és az állomány tagja nem tölt be szolgálati beosztást.
 
 (2) A (3) bekezdésben foglalt kivétellel az (1) bekezdés alá tartozók esetében – szolgálati beosztás hiányában – a beosztás szintje az utolsó betöltött beosztással azonos, ha ilyennel nem rendelkezett, akkor viselt rendfokozatának megfelelő.
 
-(3) Az állomány (1) bekezdés o) pontja alá tartozó tagjának előmenetelére a speciális beosztást betöltőkre vonatkozó rendfokozati előmeneteli szabályokat, az illetmény-megállapítására a 108. § (2) bekezdés rendelkezéseit, az illetménykiegészítésükre a 110. § (1) bekezdés b) pontját, (2) bekezdés a) pontját és a (3) bekezdését kell megfelelően alkalmazni.
+(3) Az állomány (1) bekezdés o) pontja alá tartozó tagjának előmenetelére a speciális beosztást betöltőkre vonatkozó rendfokozati előmeneteli szabályokat, az illetmény-megállapítására a 108. § (2) bekezdés rendelkezéseit, az illetménykiegészítésükre a 110. § (1) bekezdés b) pontját, (2) bekezdés a) pontját és a (3) bekezdését kell megfelelően alkalmazni. Az e törvényben meghatározottakon túl az állomány (1) bekezdés o) pontja alá tartozó tagjának az NKE rektora az NKE saját költségvetése terhére további juttatásokat is megállapíthat.
 
 (4) Az (1) bekezdés i) pontja alá tartozókra a 46. § (4) bekezdése irányadó azzal, hogy – eltérő törvényi rendelkezés hiányában – velük szemben a munkáltatói jogkört a vezénylés helye szerinti miniszter gyakorolja.
 
@@ -58,7 +60,7 @@ s) a hivatásos állomány legalább 25 év szolgálati idővel rendelkező tagj
 
 (6) A munkába állás elősegítése érdekében az (1) bekezdés b), e), f) és l) pontjaiban szereplők adatait – rendelkezési állományba vétellel egyidejűleg – meg kell küldeni a központi közszolgálati nyilvántartás számára.
 
-(7) Az állomány tábornoki rendfokozatú, (1) bekezdés m) pontja szerint rendelkezési állományban lévő tagjának a 117. § (1) bekezdése szerint távolléti díj jár, amelynek legfeljebb 50%-át a munkáltatói jogkört gyakorló elöljáró visszatartja. A 117. § (2) bekezdést megfelelően alkalmazni kell, amennyiben az állomány tábornoki rendfokozatú tagjának szolgálati viszonya az 56/B. § alapján nem kerül megszüntetésre.
+(7) Az állomány (1) bekezdés m) vagy t) pontja szerint rendelkezési állományban lévő tagjának távolléti díj jár, amelynek legfeljebb 50%-át a 117. § (1) bekezdése szerint a munkáltatói jogkört gyakorló elöljáró visszatartja. A 117. § (2) bekezdést megfelelően alkalmazni kell abban az esetben is, amennyiben az állomány tábornoki rendfokozatú tagjának szolgálati viszonya az 56/B. § alapján nem kerül megszüntetésre.
 
 (8) A hivatásos állomány nyugdíj előtti rendelkezési állományba helyezett tagja
 
@@ -100,8 +102,8 @@ tart. A hivatásos állomány tagjának szolgálati viszonya a rendelkezési ál
 
 (12) A hivatásos állomány (1) bekezdés r) vagy s) pontja alá tartozó tagja kérelmére a munkáltatói jogkör gyakorlója a rendelkezési állományba helyezést a más közszolgálati jogviszonyba történő áthelyezés, vagy a (10) bekezdés szerinti időtartam lejárta előtt megszünteti. Ha a hivatásos állomány tagja munkaviszony létesítése miatt kéri a rendelkezési állományba helyezés megszüntetését, a hivatásos állomány tagja a (10) bekezdés szerinti időtartam hátralevő részének megfelelő távolléti díjra jogosult.
 
-(13) A miniszteri rendeletben meghatározott személyügyi szerv a hivatásos állomány (1) bekezdés r) vagy s) pontja szerint rendelkezési állományba helyezett tagjának 10. számú melléklet szerinti adatait – a rendelkezési állományba helyezéssel egyidejűleg – a más közszolgálati jogviszonyba történő áthelyezés elősegítése érdekében megküldi a kormányzati tisztviselőkről szóló törvény szerinti központi közszolgálati nyilvántartásnak. A KNBSZ állományának tagja esetén a 10. számú mellékletben meghatározott egyes adatok átadása nem kötelező.
+(13) A miniszter által vezetett minisztérium személyügyi szerve a hivatásos állomány (1) bekezdés r) vagy s) pontja szerint rendelkezési állományba helyezett tagjának 10. számú melléklet szerinti adatait – a rendelkezési állományba helyezéssel egyidejűleg – a más közszolgálati jogviszonyba történő áthelyezés elősegítése érdekében megküldi a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati személyügyi igazgatási feladatokat ellátó szervnek. A korábban a KNBSZ állományának tagja esetén a 10. számú mellékletben meghatározott adatok kitöltése mellőzhető. A miniszter által vezetett minisztérium személyügyi szerve és a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati személyügyi igazgatási feladatokat ellátó szerv adatkezelésére e törvényben meghatározottak mellett a tartalékállományra vonatkozó külön jogszabály rendelkezéseit kell alkalmazni.
 
-(14) A hivatásos állomány (1) bekezdés r) vagy s) pontja alá tartozó tagja, a Honvédség és a központi közszolgálati nyilvántartást vezető külön jogszabályban meghatározott szerv a rendelkezési állomány időtartama alatt a más közszolgálati jogviszonyba történő áthelyezés elősegítése érdekében kölcsönösen együttműködve kötelesek eljárni.
+(14) A hivatásos állomány (1) bekezdés r) vagy s) pontja alá tartozó tagja, a Honvédség és a kormányzati személyügyi igazgatási feladatokat ellátó külön jogszabályban meghatározott szerv a rendelkezési állomány időtartama alatt a más közszolgálati jogviszonyba történő áthelyezés elősegítése érdekében kölcsönösen együttműködve kötelesek eljárni.
 
 (15) Ha külön törvény a tartalékállományba helyezettek foglalkoztatására járulékcsökkentési kedvezményt biztosít, illetve lehetővé teszi annak személyi juttatásokra történő felhasználását, e rendelkezéseket az (1) bekezdés r) vagy s) pontja szerint rendelkezési állományba helyezett személyt foglalkoztatóra is alkalmazni kell.

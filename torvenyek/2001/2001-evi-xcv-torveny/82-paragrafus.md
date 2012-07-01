@@ -1,6 +1,6 @@
 ## Egészségi, pszichikai és fizikai alkalmasság
 
-82. § (1) Az állomány tagjának meg kell felelnie a miniszter által rendeletben meghatározott, a beosztásának és életkorának megfelelő egészségi, pszichikai és fizikai alkalmassági követelményeknek. Az alkalmasság elérésének és szinten tartásának feltételeit a Honvédség biztosítja.
+82. § (1) Az állomány tagjának meg kell felelnie a miniszter által rendeletben meghatározott, a beosztásának és életkorának megfelelő egészségi, pszichikai és fizikai alkalmassági követelményeknek.
 
 (2) Az (1) bekezdésben meghatározott alkalmassági feltételeket az érintettek tudomására kell hozni, és az alkalmasságot rendszeresen ellenőrizni kell.
 

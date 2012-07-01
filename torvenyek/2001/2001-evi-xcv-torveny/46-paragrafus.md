@@ -40,7 +40,7 @@ l) az egészségügyi intézményeknél
 
 (7) A szerződéses legénységi állományba felvett, rendfokozattal nem rendelkező katona egy évig közkatonaként teljesít szolgálatot.
 
-(8) Amennyiben nemzetközi szerződés eltérően nem rendelkezik, katonai feladat végrehajtása közben meghatározott egészségügyi tevékenységet a harctéri egészségügyi katonán túl harctéri életmentő katona is végezhet
+(8) Amennyiben nemzetközi szerződés eltérően nem rendelkezik, katonai feladat végrehajtása közben meghatározott egészségügyi tevékenységet a harctéri egészségügyi katonán túl harctéri mentőkatona is végezhet
 
 a) a műveleti területen, továbbá
 
