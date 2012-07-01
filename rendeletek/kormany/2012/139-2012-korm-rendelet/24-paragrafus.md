@@ -1,4 +1,4 @@
-## 23. §
+## 23. § Hatályát veszti a katasztrófa-egészségügyi ellátásról szóló 377/2011. (XII. 31.) Korm. rendelet.
 
 24. § A közforgalmú utazási kedvezményekről szóló 85/2007. (IV. 25.) Korm. rendelet módosításáról szóló 120/2012. (VI. 26.) Korm. rendelet 2. §-a a következő szöveggel lép hatályba:
 

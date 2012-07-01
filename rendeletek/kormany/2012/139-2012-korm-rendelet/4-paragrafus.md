@@ -1,3 +1,1 @@
-## 3. §[^3]
-
-[^3]: A 3. § a 22. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## 3. § Ha a megyei tisztifőorvos egészségügyi válsághelyzetet előidéző esemény bekövetkezését észleli, vagy erről kap információt az érintett egészségügyi szolgáltatótól vagy a területi szakellátási kötelezettséggel rendelkező szervtől, ezt haladéktalanul köteles jelenteni a megyei védelmi bizottság elnöke, valamint az országos tisztifőorvos útján az egészségügyért felelős miniszter részére.

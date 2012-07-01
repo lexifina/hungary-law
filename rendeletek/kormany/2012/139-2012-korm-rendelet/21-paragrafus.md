@@ -1,3 +1,7 @@
-## 20. §[^20]
+## költségvetésében biztosítja.
 
-[^20]: A 20. § a 22. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## 21. § A katasztrófa-egészségügyi ellátásban részt vevő,
+
+a) az Egészségbiztosítási Alap terhére finanszírozott egészségügyi szolgáltató – a katasztrófa-egészségügyi ellátással kapcsolatosan felmerülő többletbeszerzések kivételével – önállóan végzi az ellátás folyamatosságához szükséges egészségügyi beszerzéseit,
+
+b) nem az Egészségbiztosítási Alapból finanszírozott önálló szükséggyógyintézet részére az ellátás folyamatosságához szükséges egészségügyi beszerzéseket, valamint az Egészségbiztosítási Alap terhére finanszírozott egészségügyi szolgáltatók egészségügyi többletbeszerzéseit az egészségügyi szolgáltató beszerzéseit végző szervezet bevonásával az Egészségügyi Készletgazdálkodási Intézet végzi.

@@ -1,3 +1,3 @@
-## 9. §[^9]
+10. § (1) Az állam egészségügyi válsághelyzet esetére a tömeges ellátás feltételeinek biztosítása, a szükséggyógyintézetek működéséhez, továbbá a katasztrófa-egészségügyi ellátáshoz szükséges gyógyszerek, egészségügyi anyagok és eszközök azonnali rendelkezésre állása céljából Állami Egészségügyi Tartalékot tart fenn.
 
-[^9]: A 9. § a 22. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+(2) Az Állami Egészségügyi Tartalékot, valamit a tartalékot kezelő intézményt az egészségügyért felelős miniszter felügyeli.
