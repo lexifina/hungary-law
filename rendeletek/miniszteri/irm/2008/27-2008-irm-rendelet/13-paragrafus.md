@@ -6,7 +6,7 @@ b) betekintés és bejegyzés (módosítás, törlés) az árverezők elektronik
 
 c) árverési hirdetmény közzététele;
 
-d) hagyományos ingóárverés hirdetményének törlése;
+d)[^10] hagyományos ingóárverés hirdetményének, valamint a 21. § d) pontja szerinti árverési hirdetménynek a törlése;
 
 e) az árverező felhasználói nevének és jelszavának aktiválása (aktiválás iránti kérelem elutasítása, aktiválás megszüntetése) meghatározott árverésen történő licitáláshoz;
 
@@ -31,3 +31,5 @@ b) az e rendeletben meghatározott egyes rendszerüzeneteket, továbbá a jelsz�
 c) a végrehajtói állásra kirendelt helyettes számára a helyettesített vagy az álláshelyen korábban működő végrehajtó által közzétett árverések tekintetében is biztosítsa az (1) bekezdés d)–j) pontjaiban foglalt műveletek elvégzését, továbbá a helyettesnek is küldje meg a végrehajtó részére szóló rendszerüzeneteket és elektronikus leveleket.
 
 (3) A rendszerüzenetek a végrehajtó részére az elektronikus árverési rendszerben történő közzétételüket követő munkanapon kézbesítettnek tekintendők.
+
+[^10]: A 13. § (1) bekezdés d) pontja a 31/2012. (VI. 29.) KIM rendelet 15. § (1) bekezdésével megállapított szöveg.
