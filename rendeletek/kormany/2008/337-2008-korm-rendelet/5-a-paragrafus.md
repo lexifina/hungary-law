@@ -34,6 +34,20 @@ g) azon egészségügyi szolgáltató, amely egy vagy több finanszírozott szak
 
 (5c)[^60] A krónikus ellátási formában ellátható szakmák esetében a szakmai minimumfeltétellel rendelkező szakmák esetében külön-külön kell megállapítani az ellátási területet.
 
+(5d)[^61] A Tv. 5/A. § (11) bekezdés e) pontja alapján – az (5) bekezdésben foglaltakon túl – nem kell figyelembe venni a térséghatárt
+
+a) a rehabilitációs szakellátások esetében,
+
+b) a Tv. 5/A. § (9) bekezdés a) és b) pontjában meghatározott esetekben,
+
+c) a nyugat-közép-magyarországi, az észak-közép-magyarországi és a dél-közép-magyarországi térségek Pest megyéhez és Budapesthez tartozó területei tekintetében,
+
+d) a stroke ellátások esetében,
+
+e) a PIC ellátások esetében.
+
+(5e)[^62] Nem kell ellátási területet megállapítani a 2. számú melléklet A) rész 53. és 57. pontja szerinti ellátások esetében, valamint az egynapos ellátások esetében.
+
 [^51]: Az 5/A. §-t megelőző alcímet a 363/2010. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
 [^52]: Az 5/A. §-t a 363/2010. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
 [^53]: Az 5/A. § (1a) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 24. § (1) bekezdése iktatta be.
@@ -44,3 +58,5 @@ g) azon egészségügyi szolgáltató, amely egy vagy több finanszírozott szak
 [^58]: Az 5/A. § (5a) bekezdését a 13/2012. (II. 14.) Korm. rendelet 5. §-a iktatta be.
 [^59]: Az 5/A. § (5b) bekezdését a 13/2012. (II. 14.) Korm. rendelet 5. §-a iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 24. § (3) bekezdésével megállapított szöveg.
 [^60]: Az 5/A. § (5c) bekezdését a 13/2012. (II. 14.) Korm. rendelet 5. §-a iktatta be.
+[^61]: Az 5/A. § (5d) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be.
+[^62]: Az 5/A. § (5e) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be.

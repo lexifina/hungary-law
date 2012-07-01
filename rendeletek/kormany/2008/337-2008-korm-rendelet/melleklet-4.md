@@ -1,381 +1,291 @@
-## Finanszírozási szerződéssel leköthető járóbeteg-szakellátási kapacitások
+## Járóbeteg-szakellátásban finanszírozható szakmák köre
 
 ## Az egészségbiztosító az alábbi szakmákra/szaktevékenységekre köthet finanszírozási szerződést:
 
-## Belgyógyászat (és társszakmák)
+| 1. |  | belgyógyászat |
 
-## általános belgyógyászat
+| 2. |  | angiológia, phlebológia, lymphológia |
 
-## angiológia, phlebológia, lymphológia
+| 3. |  | haematológia |
 
-## haematológia
+| 4. |  | endokrinológia, anyagcsere és diabetológia |
 
-## endokrinológia, anyagcsere és diabetológia
+| 5. |  | endokrinológia |
 
-## endokrinológia – *sze*
+| 6. |  | diabetológia |
 
-## diabetológia – *sze*
+| 7. |  | gasztroenterológia |
 
-## gasztroenterológia
+| 8. |  | nefrológia |
 
-## nefrológia
+| 9. |  | geriátria |
 
-## geriátriai
+| 10. |  | allergológia és klinikai immunológia |
 
-## allergológia és klinikai immunológia
+| 11. |  | sebészet |
 
-## belgyógyászati kardiológia
+| 12. |  | érsebészet |
 
-## belgyógyászati tüdőgyógyászat (pulmonológia)
+| 13. |  | idegsebészet |
 
-## Sebészet (és társszakmák)
+| 14. |  | szívsebészet |
 
-## általános sebészet
+| 15. |  | csecsemő- és gyermekszívsebészet |
 
-## esztétikai plasztikai sebészet
+| 16. |  | szülészet-nőgyógyászat |
 
-## tüdő- és mellkassebészet
+| 17. |  | csecsemő- és gyermekgyógyászat |
 
-## érsebészet
+| 18. |  | csecsemő- és gyermekkardiológia |
 
-## idegsebészet – *sze*
+| 19. |  | gyermek-tüdőgyógyászat |
 
-## szívsebészet – *sze*
+| 20. |  | gyermek-gasztroenterológia |
 
-## csecsemő- és gyermekszívsebészet
+| 21. |  | gyermeksebészet |
 
-## proktológia
+| 22. |  | gyermeknőgyógyászat |
 
-## Traumatológia
+| 23. |  | gyermekszemészet |
 
-## általános traumatológia
+| 24. |  | csecsemő és gyermek fül-, orr-, gégegyógyászat |
 
-## plasztikai és égési sebészet
+| 25. |  | gyermekradiológia |
 
-## kézsebészet
+| 26. |  | gyermekneurológia |
 
-## arc- és állcsont-szájsebészet
+| 27. |  | fejlődésneurológia |
 
-## Szülészet-nőgyógyászat
+| 28. |  | fül-orr-gégegyógyászat |
 
-## általános szülészet-nőgyógyászat
+| 29. |  | audiológia |
 
-## terhesgondozás (orvosi)
+| 30. |  | foniátria |
 
-## Csecsemő és gyermekgyógyászat
+| 31. |  | otoneurológia |
 
-## általános csecsemő- és gyermekgyógyászat
+| 32. |  | szemészet |
 
-## neonatológia
+| 33. |  | bőr- és nemibeteg-ellátás |
 
-## csecsemő- és gyermekkardiológia
+| 34. |  | neurológia |
 
-## gyermek-tüdőgyógyászat
+| 35. |  | fejfájás szakrendelés |
 
-## gyermek-gasztroenterológia
+| 36. |  | klinikai neurofiziológia |
 
-## gyermeksebészet – *sze*
+| 37. |  | alvásmedicina |
 
-## gyermeknőgyógyászat – *sze*
+| 38. |  | ortopédia |
 
-## gyermekszemészet
+| 39. |  | gerincsebészet |
 
-## csecsemő és gyermek fül-, orr-, gégegyógyászat
+| 40. |  | traumatológia |
 
-## gyermekradiológia
+| 41. |  | kézsebészet |
 
-## gyermekneurológia
+| 42. |  | urológia |
 
-## gyermek- és ifjúságpszichiátria
+| 43. |  | andrológia |
 
-## gyermek- és ifjúsági addiktológia
+| 44. |  | urodinamia |
 
-## fejlődésneurológia
+| 45. |  | klinikai onkológia |
 
-## Fül-orr-gégegyógyászat
+| 46. |  | sugárterápia |
 
-## általános fül-orr-gégegyógyászat
+| 47. |  | fogászati ellátás (szakellátás) |
 
-## audiológia
+| 48. |  | dento-alveoláris sebészet |
 
-## foniátria
+| 49. |  | fogszabályozás |
 
-## otoneurológia
+| 50. |  | parodontológia |
 
-## Szemészet
+| 51. |  | gyermekfogászat |
 
-## általános szemészet
+| 52. |  | fogászati röntgen |
 
-## Bőrgyógyászat és nemibeteg-ellátás
+| 53. |  | konzerváló fogászat, fogpótlástan |
 
-## általános bőr- és nemibeteg-ellátás
+| 54. |  | általános anesztéziában végzett fogászati ellátás |
 
-## bőrgyógyászat
+| 55. |  | klinikai fogászati szájhigiénia |
 
-## bőrgyógyászati allergológia
+| 56. |  | reumatológia |
 
-## nemibeteg-gondozás
+| 57. |  | fizioterápia (orvosi szakképesítéssel) |
 
-## Neurológia
+| 58. |  | menopauza és oszteoporozis rendelés |
 
-## általános neurológia
+| 59. |  | reumatológiai rehabilitáció |
 
-## fejfájás szakrendelés – *sze*
+| 60. |  | aneszteziológia |
 
-## neurológiai rehabilitáció
+| 61. |  | fájdalomterápia |
 
-## EEG és EMG diagnosztika – *sze*
+| 62. |  | infektológia |
 
-## Ortopédia
+| 63. |  | AIDS beteg ellátás |
 
-## ortopédia
+| 64. |  | HIV/AIDS szűrés |
 
-## gerincsebészet
+| 65. |  | trópusi betegségek ellátása |
 
-## Urológia
+| 66. |  | arc-állcsont-szájsebészet |
 
-## urológia
+| 67. |  | pszichiátria |
 
-## andrológia
+| 68. |  | addiktológia |
 
-## urodinamia
+| 69. |  | addiktológiai rehabilitáció |
 
-## neuro-urológia
+| 70. |  | pszichiátriai rehabilitáció |
 
-## Onkológia és sugárterápia
+| 71. |  | tüdőgyógyászat |
 
-## klinikai onkológia
+| 72. |  | tüdőszűrés |
 
-## sugárterápia„ onkoradiológia
+| 73. |  | plasztikai helyreállító és esztétikai sebészet |
 
-## onkológiai gondozás
+| 74. |  | égéssebészet |
 
-## Fogászati ellátás
+| 75. |  | gyermek plasztikai és égéssebészet |
 
-## fogászati ellátás (szakellátás)
+| 76. |  | mozgásszervi rehabilitáció |
 
-## dento-alveoláris sebészet
+| 77. |  | belgyógyászati rehabilitáció |
 
-## fogszabályozás
+| 78. |  | gasztroenterológiai rehabilitáció |
 
-## parodontológia
+| 79. |  | nőgyógyászati rehabilitáció |
 
-## gyermekfogászat
+| 80. |  | gyermek rehabilitáció |
 
-## fogászati röntgen
+| 81. |  | neurológiai rehabilitáció |
 
-## Reumatológia
+| 82. |  | kardiológiai rehabilitáció |
 
-## reumatológia és fizioterápia
+| 83. |  | tüdőgyógyászati és légzésrehabilitáció |
 
-## reumatológia
+| 84. |  | gyermek- és ifjúságpszichiátria |
 
-## fizioterápia (orvosi szakképesítéssel)
+| 85. |  | gyermek- és ifjúságpszichiátriai rehabilitáció |
 
-## menopauza és oszteoporozis rendelés – *sze*
+| 86. |  | gyermek- és ifjúságaddiktológia |
 
-## Aneszteziológiai és intenzív betegellátás
+| 87. |  | gyermek- és ifjúságaddiktológiai rehabilitáció |
 
-## aneszteziológia
+| 88. |  | foglalkozás-egészségügyi szakellátás |
 
-## fájdalomterápia – *sze*
+| 89. |  | kardiológia |
 
-## Infektológia
+| 90. |  | orvosi laboratóriumi diagnosztika |
 
-## fertőzőbeteg-ellátás„ infektológia
+| 91. |  | haematológia laboratóriumi diagnosztika |
 
-## AIDS ellátás és gondozás – *sze*
+| 92. |  | mikrobiológiai laboratóriumi diagnosztika |
 
-## Pszichiátria
+| 93. |  | immunológiai laboratóriumi diagnosztika |
 
-## pszichiátria
+| 94. |  | molekuláris genetikai laboratóriumi diagnosztika |
 
-## addiktológia
+| 95. |  | röntgendiagnosztika |
 
-## alkohológia
+| 96. |  | mammográfia |
 
-## drogbetegellátás
+| 97. |  | angiográfiás diagnosztika |
 
-## egyéb szenvedélybetegségek ellátása (például játékszenvedély)
+| 98. |  | CT diagnosztika |
 
-## pszichiátriai rehabilitáció
+| 99. |  | MRI diagnosztika |
 
-## addiktológiai rehabilitáció
+| 100. |  | vaszkuláris intervenciós radiológia |
 
-## pszichoterápia (szakorvosi képesítéssel)
+| 101. |  | intervenciós onkoradiológia |
 
-## pszichiátriai gondozás
+| 102. |  | intervenciós neuroradiológia |
 
-## addiktológiai gondozás
+| 103. |  | egyéb intervenciós radiológia |
 
-## alkohológiai gondozás
+| 104. |  | teljeskörű ultrahang-diagnosztika |
 
-## Tüdőgyógyászat
+| 105. |  | echokardiográfia |
 
-## tüdőgyógyászat
+| 106. |  | szülészeti és nőgyógyászati ultrahang-diagnosztika |
 
-## pulmonológiai allergológia és immunológia
+| 107. |  | gasztroenterológiai ultrahang diagnosztika |
 
-## pulmonológiai és légzésrehabilitáció
+| 108. |  | szemészeti ultrahang diagnosztika |
 
-## tüdőgondozás
+| 109. |  | neurológiai ultrahang diagnosztika |
 
-## Rehabilitáció
+| 110. |  | urológiai ultrahang diagnosztika |
 
-## mozgásszervi rehabilitáció
+| 111. |  | kórbonctan és kórszövettan |
 
-## belgyógyászati rehabilitáció
+| 112. |  | szövettan, kórszövettan |
 
-## gasztroenterológiai rehabilitáció
+| 113. |  | cytológia, cytopatológia |
 
-## nőgyógyászati rehabilitáció
+| 114. |  | aspirációs cytológia |
 
-## gyermek rehabilitáció
+| 115. |  | tüdő és/vagy pajzsmirigy aspirációs cytológia, cytopatológia |
 
-## Foglalkozás-orvostan
+| 116. |  | immunhisztológia |
 
-## foglalkozás-egészségügyi szakellátás
+| 117. |  | neuropatológia |
 
-## foglalkozás-egészségügyi orvosszakértői tevékenység
+| 118. |  | szén-dioxid gázzal végzett terápia |
 
-## Kardiológia
+| 119. |  | hiperbárikus oxigén terápia |
 
-## általános kardiológia
+| 120. |  | fizioterápia-gyógytorna |
 
-## kardiológiai rehabilitáció
+| 121. |  | hydroterápia |
 
-## echokardiográfiai diagnosztika
+| 122. |  | gyógytorna |
 
-## EKG és Holterdiagnosztika
+| 123. |  | balneoterápia |
 
-## Laboratóriumi diagnosztika
+| 124. |  | thermoterápia |
 
-## általános laboratóriumi diagnosztika
+| 125. |  | magneto-, fototerápia |
 
-## általános kémiai laboratóriumi diagnosztika
+| 126. |  | elektroterápia |
 
-## haematológia és immunológia diagnosztika
+| 127. |  | víz alatti gyógytorna |
 
-## mikrobiológiai laboratóriumi diagnosztika
+| 128. |  | gyógymasszázs |
 
-## biokémiai laboratóriumi diagnosztika
+| 129. |  | fizikoterápia/fizioterápia (asszisztensi tevékenységként) |
 
-## immunogenetikai laboratóriumi diagnosztika
+| 130. |  | transzfúziológia |
 
-## genetikai laboratóriumi diagnosztika
+| 131. |  | izotópdiagnosztika |
 
-## izotóp laboratóriumi diagnosztika
+| 132. |  | radioizotópos terápia |
 
-## immunológiai laboratóriumi diagnosztika
+| 133. |  | PET-CT |
 
-## Képalkotó diagnosztika„ képalkotó eljárásokkal vezérelt invazív diagnosztika és terápiás intervenció
+| 134. |  | klinikai genetika |
 
-## általános röntgendiagnosztika
+| 135. |  | genetikai tanácsadás |
 
-## mammográfiás szűrés és diagnosztika
+| 136. |  | pszichológia |
 
-## angiográfiás diagnosztika
+| 137. |  | klinikai és metálhigiénés szakpszichológia |
 
-## intervenciós radiológia
+| 138. |  | pszichoterápia |
 
-## neuroradiológia
+| 139. |  | logopédia |
 
-## CT
+| 140. |  | gyógypedagógia |
 
-## MRI
+| 141. |  | konduktori tevékenység |
 
-## ultrahang-diagnosztika
+| 142. |  | egészségbiztosítási orvosszakértés |
 
-## ultrahang terápia
+4. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^209]
 
-## echokardiográfia
-
-## nőgyógyászati ultrahang-diagnosztika – *sze*
-
-## gasztroenterológiai UH diagnosztika – *sze*
-
-## Patológia
-
-## általános kórbonctan és kórszövettan
-
-## szövettan, kórszövettan
-
-## cytológia, cytopatológia
-
-## aspirációs cytológia
-
-## tüdő és/vagy pajzsmirigy aspirációs cytológia – *sze*
-
-## immunhisztológia
-
-## neuropatológia – *sze*
-
-## molekuláris patológia
-
-## Speciális diagnosztika
-
-## lézerdiagnosztika
-
-## thermographia
-
-## szén-dioxid gyógygázfürdő terápia
-
-## Fizioterápia
-
-## általános fizioterápia-gyógytorna
-
-## hydroterápia
-
-## gyógytorna
-
-## gyógymasszázs
-
-## fizioterápia (asszisztensi tevékenységként)
-
-## Transzfuziológia és szövetbanki tevékenység
-
-## transzfuziológia
-
-## Nukleáris medicina
-
-## izotópdiagnosztika és terápia
-
-## radioizotópos terápia
-
-## izotópdiagnosztika
-
-## Klinikai genetika
-
-## klinikai genetika
-
-## genetikai tanácsadás
-
-## Pszichológiai tevékenység
-
-## általános pszichológia
-
-## klinikai szakpszichológia
-
-## gyermekpszichológia
-
-## pszichoterápia
-
-## szexológia
-
-## Pedagógiai végzettséggel ellátható egészségügyi szakmák
-
-## logopédia
-
-## gyógypedagógia (és annak szakágai)
-
-## konduktori tevékenység
-
-## Igazságügyi orvostan/Egészségbiztosítás
-
-## egészségbiztosítási orvosszakértés
-
-## *sze*: külön jogszabály szerinti szakosodott egység
-
-4. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^195]
-
-[^195]: A 4. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (1) bekezdése iktatta be, szövege a 13/2012. (II. 14.) Korm. rendelet 7. § (2) bekezdése, a 92/2012. (IV. 27.) Korm. rendelet 26. § (2) bekezdése, a 107/2012. (VI. 1.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^209]: A 4. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (1) bekezdése iktatta be, szövege a 13/2012. (II. 14.) Korm. rendelet 7. § (2) bekezdése, a 92/2012. (IV. 27.) Korm. rendelet 26. § (2) bekezdése, a 107/2012. (VI. 1.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.

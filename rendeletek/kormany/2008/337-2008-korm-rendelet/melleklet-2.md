@@ -1,3 +1,5 @@
+## Többletkapacitásnak minősülő eszközök listája
+
 | EMKI főcsoport | Eszközök megnevezése |
 
 | 06 | Komplex diagnosztikai berendezések főcsoporton belül 0655 Urodinamiás berendezések |
@@ -16,10 +18,10 @@
 
 | 5813 Gamma-kés |
 
-2. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^186]
+2. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^200]
 
-A fekvőbeteg-szakellátásban finanszírozható szakmák köre
+## A fekvőbeteg-szakellátásban finanszírozható szakmák köre
 
 A) Aktív fekvőbeteg szakellátás
 
-[^186]: A 2. számú melléklet a 13/2012. (II. 14.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^200]: A 2. számú melléklet a 13/2012. (II. 14.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

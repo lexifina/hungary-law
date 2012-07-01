@@ -1,6 +1,6 @@
 1. § (1) E rendelet alkalmazásában többletkapacitás az
 
-a)[^1] az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Tv.) alapján 2011. december 31-én lekötött, valamint szüneteltetett fekvőbeteg-szakellátási kapacitáson felüli fekvőbeteg-szakellátási kapacitás,
+a)[^1] az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Tv.) 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő fekvőbeteg-szakellátási kapacitásokon felüli fekvőbeteg-szakellátási kapacitás,
 
 b)[^2] a Tv. alapján 2011. december 31-én lekötött, valamint szüneteltetett járóbeteg-szakellátási kapacitáson felüli járóbeteg-szakellátási kapacitás,
 
@@ -20,7 +20,7 @@ i) a finanszírozási szerződés szerinti dialízis kezelőhelyek és kezelési
 
 j) a finanszírozási szerződés szerinti sürgősségi ellátási formához képest magasabb fix összegű díjazással járó sürgősségi ellátási forma,
 
-amely a Tv. alapján lekötött kapacitásához képest a magasabb összegű elszámolás és teljesítménynövekedés finanszírozása miatt többletforrás-igénnyel jár.
+## amely a Tv. alapján lekötött kapacitásához képest a magasabb összegű elszámolás és teljesítménynövekedés finanszírozása miatt többletforrás-igénnyel jár.
 
 (1a)[^9] Többletkapacitásnak minősül az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató által végzett, az újszülött 0–4 napos korban történő életkorhoz kötött szűrővizsgálatainak miniszteri rendeletben meghatározott finanszírozott szolgáltatási egysége.
 
@@ -48,7 +48,7 @@ c) fizioterápia, dietetika, pszichológia, pedagógiai végzettséggel ellátha
 
 (7)[^18] A Tv. 1. § (2) bekezdés g) pontja szerinti egészségügyi térségek alatt a 4. számú melléklet szerinti térségeket kell érteni.
 
-[^1]: Az 1. § (1) bekezdés a) pontja a 363/2010. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 325/2011. (XII. 28.) Korm. rendelet 72. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdés a) pontja a 325/2011. (XII. 28.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés b) pontja a 363/2010. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 325/2011. (XII. 28.) Korm. rendelet 72. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés c) pontját a 291/2009. (XII. 18.) Korm. rendelet 16. § (8) bekezdése hatályon kívül helyezte, újonnan a 227/2011. (X. 28.) Korm. rendelet 8. § (1) bekezdése iktatta be.
 [^4]: Az 1. § (1) bekezdés d) pontja a 363/2010. (XII. 30.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
