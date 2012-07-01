@@ -1,3 +1,3 @@
-## 9. §[^29]
+## 9. §[^30]
 
-[^29]: A 9. §-t a 136/2012. (VI. 28.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^30]: A 9. §-t a 136/2012. (VI. 28.) Korm. rendelet 9. §-a hatályon kívül helyezte.
