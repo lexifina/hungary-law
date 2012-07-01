@@ -18,4 +18,4 @@
 
 8. adománygyűjtő szám: az elektronikus hírközlő hálózatok azonosítóinak nemzeti felosztási tervéről szóló rendelet szerinti adománygyűjtő szám;
 
-9. teszthívás: a szolgáltató által – kizárólag a szolgáltató elektronikus hírközlő hálózata működésének ellenőrzését szolgáló hívószámra – indított hívás.
+9. teszthívás, teszt-SMS: a szolgáltató által – kizárólag a szolgáltató elektronikus hírközlő hálózata működésének ellenőrzését szolgáló hívószámra – indított hívás, küldött üzenet.
