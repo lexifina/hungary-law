@@ -1,10 +1,10 @@
 ## Az egészségügyi szolgáltató tevékenységének szüneteltetése és felfüggesztése
 
-18. §[^54] (1) Az egészségügyi közszolgáltatást végző szolgáltató a működési engedélyében szereplő bármely egészségügyi szolgáltatás ellátását a közszolgáltatásért felelős szerv hozzájárulásával szüneteltetheti. A szüneteltetést legalább nyolc nappal korábban be kell jelenteni az engedélyező egészségügyi államigazgatási szervnek, megjelölve a szünetelő szervezeti egység helyett egészségügyi szolgáltatást nyújtó szervezeti egységet annak azonosító kódjának feltüntetésével. Amennyiben a szünetelést bejelentő egészségügyi szolgáltatónál nincs az adott szakmában más szervezeti egység, az egészségügyi szolgáltató más egészségügyi szolgáltatóval megállapodik a helyette történő egészségügyi szolgáltatásról. A szünetelésről szóló bejelentéshez csatolni kell a közszolgáltatásért felelős szerv hozzájárulását, valamint a megállapodást. A szüneteléssel kapcsolatban nem kell módosítani a működési engedélyt.
+18. §[^56] (1) Az egészségügyi közszolgáltatást végző szolgáltató a működési engedélyében szereplő bármely egészségügyi szolgáltatás ellátását a közszolgáltatásért felelős szerv hozzájárulásával szüneteltetheti. A szüneteltetést legalább nyolc nappal korábban be kell jelenteni az engedélyező egészségügyi államigazgatási szervnek, megjelölve a szünetelő szervezeti egység helyett egészségügyi szolgáltatást nyújtó szervezeti egységet annak azonosító kódjának feltüntetésével. Amennyiben a szünetelést bejelentő egészségügyi szolgáltatónál nincs az adott szakmában más szervezeti egység, az egészségügyi szolgáltató más egészségügyi szolgáltatóval megállapodik a helyette történő egészségügyi szolgáltatásról. A szünetelésről szóló bejelentéshez csatolni kell a közszolgáltatásért felelős szerv hozzájárulását, valamint a megállapodást. A szüneteléssel kapcsolatban nem kell módosítani a működési engedélyt.
 
 (2) Amennyiben a szünetelést bejelentő szolgáltató nem csatolja a szünetelés bejelentéséhez az (1) bekezdés szerinti megállapodást, az egészségügyi államigazgatási szerv dönt az egészségügyi szolgáltatás nyújtását átmenetileg végző szolgáltató kijelöléséről.
 
-(3) Az egy hónapot meghaladó szüneteltetés tényéről tájékoztatni kell a szakellátási kapacitások nyilvántartását vezető Országos Tisztifőorvosi Hivatalt, és az Országos Egészségbiztosítási Pénztárat.
+(3)[^57] A szüneteltetés tényéről tájékoztatni kell a szakellátási kapacitások nyilvántartását vezető Országos Tisztifőorvosi Hivatalt, és az Országos Egészségbiztosítási Pénztárat.
 
 (4) Az egészségügyi szolgáltatónak az előre nem tervezhető szüneteltetést az arra okot adó körülmény észlelésétől számított nyolc napon belül be kell jelentenie az engedélyt kiadó egészségügyi államigazgatási szervnek és a közszolgáltatásért felelős szervnek.
 
@@ -12,4 +12,11 @@
 
 (6) A bejelentésben meg kell jelölni a szüneteltetés okát, a kezdő és a várható befejezés időpontját. Az egészségügyi szolgáltatás újbóli megkezdését be kell jelenteni az egészségügyi államigazgatási szervnek, amennyiben ez eltér az előzetes bejelentésben feltüntetett időponttól.
 
-[^54]: A 18. § a 325/2011. (XII. 28.) Korm. rendelet 43. §-ával megállapított szöveg.
+(7)[^58] Az (1) és a (4) bekezdés szerinti bejelentés alapján – a bejelentésétől számított – legfeljebb egy évig szünetel az egészségügyi szolgáltatás ellátása. Ezt követően az egészségügyi közszolgáltatást végző szolgáltató – az (1) és a (6) bekezdésben foglaltak figyelembevételével – évente kezdeményezheti a szünetelés meghosszabbítását az előző év elteltét követő 30 napon belül.
+
+(8)[^59] Abban az esetben, ha a bejelentést, illetve a meghosszabbítást követő egy év elteltét követő 30 napon belül az egészségügyi közszolgáltatást végző szolgáltató nem kezdeményezte a (7) bekezdésben foglaltak szerint a szünetelés meghosszabbítását és a szünetelés megszüntetését sem jelentette be, az adott egészségügyi szolgáltatás ellátásához használt szakellátási kapacitás tekintetében az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 5. § (5) bekezdését kell alkalmazni azzal, hogy egészségügyi államigazgatási szervként az Országos Tisztifőorvosi Hivatal jár el és az eljárás hivatalból indul.
+
+[^56]: A 18. § a 325/2011. (XII. 28.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^57]: A 18. § (3) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 31. §-a szerint módosított szöveg.
+[^58]: A 18. § (7) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 28. §-a iktatta be.
+[^59]: A 18. § (8) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 28. §-a iktatta be.

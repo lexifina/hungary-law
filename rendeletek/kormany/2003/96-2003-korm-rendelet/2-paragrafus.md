@@ -28,7 +28,7 @@ m)[^10] mozgó egészségügyi szolgáltatás: az egészségügyi szolgáltató 
 
 (2) Az (1) bekezdésben foglaltakon túl e rendelet alkalmazásában az Eütv.-ben foglalt fogalommeghatározásokat kell figyelembe venni.
 
-(3)[^11] Az 1. melléklet szerinti megyei népegészségügyi szakigazgatási szervek e rendelet szerinti feladat- és hatáskörükben különös illetékességgel járnak el.
+(3)[^11]
 
 [^2]: A 2. § a 25/2004. (II. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § (1) bekezdésének c) pontja a 185/2008. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -39,4 +39,4 @@ m)[^10] mozgó egészségügyi szolgáltatás: az egészségügyi szolgáltató 
 [^8]: A 2. § (1) bekezdés k) pontja a 325/2011. (XII. 28.) Korm. rendelet 33. § (3) bekezdésével megállapított szöveg.
 [^9]: A 2. § (1) bekezdés l) pontját a 325/2011. (XII. 28.) Korm. rendelet 33. § (4) bekezdése iktatta be.
 [^10]: A 2. § (1) bekezdés m) pontját a 325/2011. (XII. 28.) Korm. rendelet 33. § (4) bekezdése iktatta be.
-[^11]: A 2. § (3) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 104. § (4) bekezdése iktatta be.
+[^11]: A 2. § (3) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 104. § (4) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29. ) Korm. rendelet 32. § a) pontja.
