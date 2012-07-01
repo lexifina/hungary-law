@@ -10,7 +10,7 @@
 
 (6) A Hszt. 86. § (6) bekezdésének alkalmazásában a pénzügyőrök tekintetében munkaszüneti napnak minősül január 26-a, a nemzetközi vámnap.
 
-(7) A munkaszüneti napok körüli munkarendre a hivatásos állomány vonatkozásában a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 125. §-ának (5) bekezdésében kapott felhatalmazás alapján kiadott jogszabályban foglaltakat kell alkalmazni.
+(7) A munkaszüneti napok körüli munkarendre a hivatásos állomány vonatkozásában az Mt. 102. § (5) bekezdésében kapott felhatalmazás alapján kiadott jogszabályban foglaltakat kell alkalmazni.
 
 (8) A hivatásos állományú pénzügyi nyomozóra megfelelően alkalmazni kell a Hszt. 261–262. §-ainak rendelkezéseit.
 

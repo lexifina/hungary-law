@@ -22,6 +22,6 @@ a) kormánytisztviselőkre és ügykezelőkre a közszolgálati tisztviselőkrő
 
 b) pénzügyőrökre a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.),
 
-c) munkavállalókra a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.)
+c) munkavállalókra a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.)
 
 rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.

@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-122-00-00
 | 2012-01-05 | 2011. évi CCVII. törvény | 2010-122-00-00.10 |
 | 2012-03-01 | 2012. évi V. törvény | 2010-122-00-00.11 |
 | 2012-04-15 | 2012. évi XXXI. törvény | 2010-122-00-00.12 |
+| 2012-07-01 | 2012. évi LXXXVI. törvény | 2010-122-00-00.13 |
