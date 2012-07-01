@@ -2,6 +2,8 @@
 
 a) működteti a szolgáltatások kiépített intézményrendszerét, valamint ellátja azokat a munkaerőpiaci szolgáltatásokkal kapcsolatos feladatokat, amelyeket nem a kirendeltség lát el,
 
-b) rehabilitációs munkacsoportot működtet, részt vesz a megváltozott munkaképességgel, fogyatékossággal, illetve szociális rászorultsággal összefüggésben külön jogszabályban meghatározott szakértői bizottságban,
+b)[^3]
 
 c) közreműködik a megváltozott munkaképességű személyek részére foglalkozási rehabilitációs szolgáltatások nyújtásában.
+
+[^3]: A 10. § b) pontját a 95/2012. (V. 15.) Korm. rendelet 45. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 23. §-át.

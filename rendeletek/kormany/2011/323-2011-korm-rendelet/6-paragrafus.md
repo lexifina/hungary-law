@@ -70,7 +70,7 @@ s) munkaügyi kutatásokat kezdeményez és végez, valamint
 
 t) koordinálja a munkaügyi központok EU-támogatással megvalósuló tevékenységeit,
 
-u) koordinálja a munkaügyi központok foglalkoztatási rehabilitációval, továbbá a megváltozott munkaképességű személyek foglalkoztatásával kapcsolatos tevékenységét.
+u)[^1] koordinálja a munkaügyi központok megváltozott munkaképességű személyek foglalkoztatásával kapcsolatos tevékenységét.
 
 (2) A Hivatal a munkaügyi kapcsolatok feladatkörében
 
@@ -95,3 +95,5 @@ b) a munkaadók és munkavállalók érdek-képviseleti szerveivel,
 c) más államok hasonló feladatot ellátó szerveivel és a feladatkörét érintő nemzetközi szervezetekkel, valamint
 
 d) egyéb szervezetekkel.
+
+[^1]: A 6. § (1) bekezdés u) pontja a 95/2012. (V. 15.) Korm. rendelet 45. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.

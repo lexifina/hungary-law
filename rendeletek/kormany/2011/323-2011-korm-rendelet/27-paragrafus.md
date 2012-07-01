@@ -6,6 +6,6 @@
 
 (3) A 9. § (1) bekezdés n) pontja 2012. november 1-jén hatályát veszti.
 
-(4)[^1]
+(4)[^5]
 
-[^1]: A 27. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 27. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
