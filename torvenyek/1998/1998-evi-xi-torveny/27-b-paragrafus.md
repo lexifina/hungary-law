@@ -1,6 +1,6 @@
 ## A személyazonosság ellenőrzése
 
-27/B. § (1) Okirat ellenjegyzése során az ügyvéd a jognyilatkozatot tevő fél és a fél jognyilatkozatot tevő meghatalmazottja (a továbbiakban együtt ezen alcím alatt: fél) által
+27/B. § (1) Okirat ellenjegyzése során, ha a felet személyesen nem ismeri, az ügyvéd a jognyilatkozatot tevő fél és a fél jognyilatkozatot tevő meghatalmazottja (a továbbiakban együtt ezen alcím alatt: fél) által
 
 a) a személyazonosságának és lakcímének igazolása érdekében a rendelkezésére bocsátott adatai nyilvántartási adatokkal való egyezőségének, és
 
