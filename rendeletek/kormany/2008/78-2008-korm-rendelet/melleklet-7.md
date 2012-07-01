@@ -28,7 +28,9 @@ b) a levegő és a víz aktuális hőmérsékletéről, a víz mélységéről,
 
 c) a fürdő rendeltetésszerű használatával összefüggő kötelezettségekről,
 
-d) egyéb közérdekű információkról.
+d)[^65] a határértéket meghaladó, napi UV sugárzási szint mértékéről, és a védelem nélküli napon tartózkodás ajánlott időtartamáról,
+
+e)[^66] egyéb közérdekű információkról.
 
 11. A fürdőhely üzemeltetője köteles elsősegélynyújtó felszerelést és kötszereket tartani a helyszínen bármikor elérhető helyen, és gondoskodni a felszerelések, gyógy- és kötszerek pótlásáról.
 
@@ -57,3 +59,5 @@ c) üzemeltetési naplót vezetni a vendégforgalom napi adatairól, balesetekr�
 18. Olyan fürdőhelyeken, ahol gyermekek csoportosan vagy tömegesen fordulnak elő (pl. gyermek- és ifjúsági tábor, vízparti üdülő), az üzemeltetőnek a balesetek megelőzése érdekében – a gyermekcsoport ott tartózkodási ideje alatt – külön mentőőrt kell biztosítani a csoport felügyeletére.
 
 [^64]: A 7. melléklet 7. pontja a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^65]: A 7. melléklet 10. pont d) pontja a 137/2012. (VI. 29.) Korm. rendelet 92. § (1) bekezdésével megállapított szöveg.
+[^66]: A 7. melléklet 10. pont e) pontját a 137/2012. (VI. 29.) Korm. rendelet 92. § (1) bekezdése iktatta be.

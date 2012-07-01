@@ -20,11 +20,11 @@ d) kijelöli a 3. melléklet szerinti védőterületet.
 
 (6)[^9] Folyóvizeknél – a fürdőhely folyásirány szerinti felső határa feletti szakaszán, a fürdési idényben előforduló legkisebb vízhozam mellett – a 3. mellékletben foglalt ajánlott szennyvíz-bevezetési távolságokat indokolt esetben az illetékes Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség kedvező vagy kedvezőtlen vízminőség-vizsgálati adatsor alapján módosíthatja.
 
-(7)[^10] A 8. melléklet szerinti megyei népegészségügyi szakigazgatási szervek e rendelet szerinti feladat- és hatáskörükben különös illetékességgel járnak el.
+(7)[^10]
 
 [^5]: A 3. § (1) bekezdés bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 618. §-a, a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^6]: A 3. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 618. §-a, a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^7]: A 3. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 617. §-a, a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^8]: A 3. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 618. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^9]: A 3. § (6) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 1. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^10]: A 3. § (7) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 1. pontja hatályon kívül helyezte, újonnan a 351/2010. (XII. 30.) Korm. rendelet 211. §-a iktatta be.
+[^10]: A 3. § (7) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 1. pontja hatályon kívül helyezte, újonnan a 351/2010. (XII. 30.) Korm. rendelet 211. §-a iktatta be, újból hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 92. § (2) bekezdése.
