@@ -6,7 +6,7 @@
 
 (3) Az ügyintézési határidő:
 
-a) ha a hatóság építésügyi hatósági jogkörben, továbbá kulturális javak védetté nyilvánításában jár el, három hónap;
+a) ha a hatóság kulturális javak védetté nyilvánításában jár el, három hónap;
 
 b) az előzetes nyilatkozat, előzetes szakhatósági állásfoglalás, valamint ha a hatóság műemlékhez kapcsolódó örökségvédelmi hatósági jogkörében jár el, két hónap;
 

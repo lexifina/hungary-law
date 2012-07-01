@@ -1,32 +1,10 @@
-63. § (1)
+63. § (1) A műemléken végzett építési tevékenységek esetén az építésügyi hatóság jogszabályban meghatározott esetekben és módon építésügyi hatósági engedélyezési és kötelezési eljárást folytat le, ellenőrzést végez.
 
-(2) A hatóság engedélyezi a következő, egyébként építési vagy más hatósági engedélyhez nem kötött tevékenységeket:
+(2) A hatóság jogszabályban meghatározott esetekben az (1) bekezdésben említett engedélyezési eljárásokban szakhatóságként jár el.
 
-a) a védetté nyilvánított régészeti lelőhelyeken végzendő, 30 cm mélységet meghaladó földmunkával járó, illetőleg a terület jellegét veszélyeztető, befolyásoló változtatás;
+(3) A hatóság engedélyezi az építésügyi hatósági vagy más hatósági engedélyhez nem kötött – jogszabályban meghatározott – tevékenységeket.
 
-b) régészeti lelőhelyen 30 cm mélységet meghaladó tereprendezési munkák;
-
-c) a védetté nyilvánított kulturális örökségi elem jellegét, és megjelenését, érintő munkák, tevékenységek;
-
-d) reklámok műemléken történő elhelyezése;
-
-e) a műemlék falfelületeinek vagy szerkezeteinek, továbbá alkotórészeinek és tartozékainak tudományos vagy műszaki célú kutatására, feltárására irányuló munkák;
-
-f) a műemlék funkciójának, használati módjának megváltoztatása;
-
-g) műemlékhez tartozó ingatlanterületen fa kivágása, telepítése, tereprendezés;
-
-h) műemlék egyes részeinek, illetve szerkezeti elemeinek elmozdítása, illetőleg szabadtéri múzeum keretében készülő rekonstrukcióba történő beépítése;
-
-i) a műemlékekkel és a védetté nyilvánított kulturális javakkal kapcsolatos megóvási (konzerválási), restaurálási vagy átalakítási munkák;
-
-j) a műemlék jellegét és megjelenését befolyásoló fényforrás elhelyezése, illetve üzemeltetése;
-
-k) e törvényben meghatározott egyéb esetek.
-
-(3) Műemlékvédelmi érdekből a hatóság a műemlék felújítási, helyreállítási munkáinak engedélyezése során az országos építésügyi szabályoktól és a kötelezően alkalmazandó nemzeti szabványoktól eltérhet. Az eltérés akkor engedélyezhető, ha az alkalmazandó megoldás az élet- és vagyonbiztonság követelményeinek megfelel, vagy mindkettő más módon biztosítható.
-
-(4)
+(4) Műemlékvédelmi érdekből a hatóság a (3) bekezdés szerinti körben a műemlék felújítási, helyreállítási munkáinak engedélyezése során az országos építésügyi szabályoktól és a kötelezően alkalmazandó nemzeti szabványoktól eltérhet. Az eltérés akkor engedélyezhető, ha az alkalmazandó megoldás az élet- és vagyonbiztonság követelményeinek megfelel vagy az más módon biztosítható.
 
 (5) A hatóság az örökségvédelmi felügyelet keretében
 

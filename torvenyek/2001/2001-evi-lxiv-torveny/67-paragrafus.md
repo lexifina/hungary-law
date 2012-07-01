@@ -1,12 +1,12 @@
 ## Hatósági kötelezés
 
-67. § (1) A védett kulturális örökségi elem vonatkozásában a hatóság:
+67. § (1) A védett kulturális örökségi elemmel összefüggő, a 63. § (3) bekezdésében meghatározott tevékenységek vonatkozásában a hatóság:
 
-a) az építésügyi hatósági jogkörébe tartozó szabálytalanság esetén – ha jogszabály eltérően nem rendelkezik – az Étv. és az annak végrehajtásáról rendelkező egyéb jogszabályok alapján jár el;
+a) az örökségvédelem szabályainak megsértése esetén műemlékek, régészeti lelőhelyek és védetté nyilvánított kulturális javak vonatkozásában elrendelheti a beavatkozást megelőző állapot helyreállítását, valamint a fenntartható használatra vonatkozó kötelezettség teljesítését,
 
-b) az örökségvédelem szabályainak megsértése esetén műemlékek, régészeti lelőhelyek és védetté nyilvánított kulturális javak vonatkozásában elrendelheti a beavatkozást megelőző állapot helyreállítását, a jóváhagyott (engedélyezett) terveknek megfelelő állapot kialakítását; a jó karbantartásra, valamint a fenntartható használatra vonatkozó kötelezettség teljesítését, illetve a méltatlan használat megszüntetését;
+b) műemlékek, régészeti lelőhelyek és védetté nyilvánított kulturális javak károsítása, veszélyeztetése esetén jogosult a tevékenységet leállítani, és az ilyen magatartás tanúsítóját e tevékenység folytatásától eltiltani,
 
-c) műemlékek, régészeti lelőhelyek és védetté nyilvánított kulturális javak károsítása, veszélyeztetése esetén jogosult a tevékenységet leállítani, és az ilyen magatartás tanúsítóját e tevékenység folytatásától eltiltani.
+c) elrendelheti a műemlékek jó karbantartására vonatkozó kötelezettség teljesítését.
 
 (2) A hatóság az (1) bekezdésben meghatározott kötelezettségek teljesítésére a tulajdonost, vagyonkezelőt, használót, vagy az építtetőt, kivitelezőt kötelezheti.
 
