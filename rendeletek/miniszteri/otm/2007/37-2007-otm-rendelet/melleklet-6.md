@@ -90,21 +90,21 @@
 
 ## e) a közlekedési útvonalak akadálymentesítését, továbbá
 
-## f)[^51] jogszabályban meghatározott esetekben a terv készítésekor már ismert, az építménybe betervezett építési célú termékekre, berendezésekre, szerkezetekre vonatkozó jóváhagyott műszaki specifikációra (magyar nemzeti szabvány, honosított harmonizált szabvány, európai műszaki engedély vagy építőipari műszaki engedély) történő hivatkozást,
+## f)[^52] jogszabályban meghatározott esetekben a terv készítésekor már ismert, az építménybe betervezett építési célú termékekre, berendezésekre, szerkezetekre vonatkozó jóváhagyott műszaki specifikációra (magyar nemzeti szabvány, honosított harmonizált szabvány, európai műszaki engedély vagy építőipari műszaki engedély) történő hivatkozást,
 
 ## g) a szakhatóságok által kért további információkat és az építési tevékenység környezetre gyakorolt hatását,
 
 ## h) az égéstermék-elvezetés megoldásának részletes leírását és indoklását,
 
-## i)[^52] ha az építésügyi hatósági eljárásokról szóló kormányrendelet szerint, az engedélykérelemhez a közút kezelőjének a hozzájárulását is mellékelni kell, akkor a telek közúti csatlakozása kialakításának módját, megfelelőségét, a tervezett rendeltetés forgalomvonzó hatását, a közlekedésbiztonsági követelmények érvényre juttatásának módját,
+## i)[^53] ha az építésügyi hatósági eljárásokról szóló kormányrendelet szerint, az engedélykérelemhez a közút kezelőjének a hozzájárulását is mellékelni kell, akkor a telek közúti csatlakozása kialakításának módját, megfelelőségét, a tervezett rendeltetés forgalomvonzó hatását, a közlekedésbiztonsági követelmények érvényre juttatásának módját,
 
-## j)[^53] építmény bontása esetén az építmény által tartalmazott azbeszt bontásának és kezelésének módját,
+## j)[^54] építmény bontása esetén az építmény által tartalmazott azbeszt bontásának és kezelésének módját,
 
-## k)[^54] ha a zajjal járó tevékenységekre irányuló hatósági engedélyezési eljárásokban a környezetvédelmi hatóság szakhatóságként jár el, akkor az építészeti-műszaki dokumentációnak a zaj- és rezgésvédelmi szabályozás tekintetében a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 2. mellékletében meghatározott tartalmú zaj elleni védelemről szóló munkarészt kell tartalmaznia,
+## k)[^55] ha a zajjal járó tevékenységekre irányuló hatósági engedélyezési eljárásokban a környezetvédelmi hatóság szakhatóságként jár el, akkor az építészeti-műszaki dokumentációnak a zaj- és rezgésvédelmi szabályozás tekintetében a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 2. mellékletében meghatározott tartalmú zaj elleni védelemről szóló munkarészt kell tartalmaznia,
 
-## l)[^55] a tervezett építési tevékenységhez előírt és a rendeltetésszerű és biztonságos használathoz szükséges közművesítettséget, a közművesítés megoldását és a közműszolgáltatókkal szükség szerint történt egyeztetés eredményét.
+## l)[^56] a tervezett építési tevékenységhez előírt és a rendeltetésszerű és biztonságos használathoz szükséges közművesítettséget, a közművesítés megoldását és a közműszolgáltatókkal szükség szerint történt egyeztetés eredményét.
 
-## 9.[^56] Az egyes építmények, építési tevékenységek engedélyezéséhez eljárási fajtánként szükséges építészeti-műszaki tervdokumentáció meghatározásánál
+## 9.[^57] Az egyes építmények, építési tevékenységek engedélyezéséhez eljárási fajtánként szükséges építészeti-műszaki tervdokumentáció meghatározásánál
 
 ## a) a 300 m2 összes szintterületű,
 
@@ -122,7 +122,7 @@
 
 ## A látványterv tartalmazza a jelenlegi és a tervezett településképi és tájállapotot több nézőpontból rögzítő fotódokumentációt (fotómontázst, makettfotót) a tervezett építmény által megváltoztatott tájkép, utcakép kiterjedéséből következő, azt kellően szemléltető méretarányban, égtájjelöléssel.
 
-## 11.[^57] Az építészeti-műszaki dokumentáció minden munkarészét olyan léptékben kell elkészíteni, amely a megértéséhez, az engedélyezéshez, a kivitelezési dokumentáció elkészítéséhez szükséges (a dokumentáció egyes munkarészeinek léptékére, kidolgozottsági szintjére a Magyar Építész Kamara és a Magyar Mérnöki Kamara vonatkozó szabályzatában foglaltak irányadóak).
+## 11.[^58] Az építészeti-műszaki dokumentáció minden munkarészét olyan léptékben kell elkészíteni, amely a megértéséhez, az engedélyezéshez, a kivitelezési dokumentáció elkészítéséhez szükséges (a dokumentáció egyes munkarészeinek léptékére, kidolgozottsági szintjére a Magyar Építész Kamara és a Magyar Mérnöki Kamara vonatkozó szabályzatában foglaltak irányadóak).
 
 ## 12. A dokumentáció szöveges és rajzi részekből, valamint mellékletekből áll, de kiegészülhet (illetve esetenként kötelező része) fotódokumentációval, fotómontázzsal, makettel stb. A dokumentáció része a tervezési program.
 
@@ -132,7 +132,7 @@
 
 ## 15. A tervezett építési tevékenység szempontjából érdemi adatot, tényt, körülményt nem tartalmazó tervdokumentáció-részek elhagyhatók.
 
-## II. Elvi építési engedélyezési dokumentáció[^58]
+## II. Elvi építési engedélyezési dokumentáció[^59]
 
 ## Több kérdés együttes tisztázására szolgáló elvi engedélyezési kérelem esetén a dokumentáció tartalmára vonatkozókat összesíteni kell. Nem szükséges statikus dokumentáció. Veszélyes építmény-üzem, veszélyes környezet esetén a veszélyek elhárítására is utaló műszaki leírás szükséges.
 
@@ -160,7 +160,7 @@
 
 ## III. Építési engedélyezési (bejelentési) dokumentáció
 
-## 1.[^59] Tartószerkezeti műszaki leírás új építmény esetén az e melléklet I. fejezet 9. pontjában meghatározott alapesetet meghaladó építmény építésekor szükséges. Meglévő építményt érintő építési tevékenység esetén az építészeti-műszaki tervdokumentáció tartalmaz:
+## 1.[^60] Tartószerkezeti műszaki leírás új építmény esetén az e melléklet I. fejezet 9. pontjában meghatározott alapesetet meghaladó építmény építésekor szükséges. Meglévő építményt érintő építési tevékenység esetén az építészeti-műszaki tervdokumentáció tartalmaz:
 
 ## a) tartószerkezeti műszaki leírást, ha a meglévő épület és a bővített épületrész összességében meghaladja az e melléklet I. fejezet 9. pontjában meghatározott alapesetet,
 
@@ -192,7 +192,7 @@
 
 ## d) 5,0 m-nél nagyobb szabad magasságú, földet megtámasztó építményekhez (támfal).
 
-## 4.[^60] A tűzvédelmi műleírás, dokumentáció, kiűrítési terv tartalmazza
+## 4.[^61] A tűzvédelmi műleírás, dokumentáció, kiűrítési terv tartalmazza
 
 ## a) az építmény, létesítmény megközelíthetőségére,
 
@@ -304,11 +304,11 @@
 
 ## k) a felvonók és mozgólépcsők külön jogszabályban meghatározott terveit és adatait,
 
-## l)[^61]
+## l)[^62]
 
 ## 10. Helyiséget tartalmazó meglévő építmény átalakítása, bővítése, felújítása, korszerűsítése, helyreállítása esetén az építési engedélyezési dokumentációnak az alábbiakat kell tartalmaznia:
 
-## a)[^62] földhivatal által hitelesített 90 napnál nem régebbi ingatlan-nyilvántartási térkép másolatát, ha a telek beépítettsége megváltozik,
+## a)[^63] földhivatal által hitelesített 90 napnál nem régebbi ingatlan-nyilvántartási térkép másolatát, ha a telek beépítettsége megváltozik,
 
 ## b) a tervező által készített helyszínrajzot a meglévő építmény befoglaló tömegét megváltoztató esetekben,
 
@@ -336,7 +336,7 @@
 
 ## lb) a 80 évesnél idősebb építmények tartószerkezeteiről,
 
-## m)[^63]
+## m)[^64]
 
 ## A helyi védelem alatt álló építmény, illetve műemléki jelentőségű terület megjelenését érintő építés, bővítés, átalakítás esetében – eltérő jogszabályi rendelkezés hiányában – a fentiekben felsoroltakon túl a meglévő állapotot bemutató fotódokumentáció és indokolt esetben színezési dokumentáció mellékelendő.
 
@@ -346,7 +346,7 @@
 
 ## 12. Helyiséget nem tartalmazó műtárgy építése, átalakítása, bővítése, felújítása, korszerűsítése, helyreállítása esetén az építési engedélyezési dokumentációnak az alábbiakat kell tartalmaznia:
 
-## a)[^64] földhivatal által hitelesített 90 napnál nem régebbi ingatlan-nyilvántartási térkép másolatát, ha a telek beépítettsége megváltozik,
+## a)[^65] földhivatal által hitelesített 90 napnál nem régebbi ingatlan-nyilvántartási térkép másolatát, ha a telek beépítettsége megváltozik,
 
 ## b) a tervező által készített, a tervezett állapotot ábrázoló helyszínrajzot,
 
@@ -358,11 +358,11 @@
 
 ## Védett természeti területen, Natura 2000 területen, illetve beépítésre nem szánt területen műtárgy építése, bővítése, átalakítása esetében a fentieken túlmenően a meglévő állapotot és környezetét dokumentáló fotó, valamint tájba illesztési dokumentáció is szükséges.
 
-## 12/A.[^65] Egyszerűsített építési engedélyezési eljáráshoz szükséges építészeti-műszaki dokumentációnak értelemszerűen a következőket kell tartalmaznia:
+## 12/A.[^66] Egyszerűsített építési engedélyezési eljáráshoz szükséges építészeti-műszaki dokumentációnak értelemszerűen a következőket kell tartalmaznia:
 
 ## a) az 1. melléklet II. oszlop
 
-## aa)[^66] 1., 3., 5., 10. és 11. sorában meghatározott építési tevékenységek esetén az 1., 4–7., homlokzat megváltoztatása esetén 8. és 9. pontban foglaltakat,
+## aa)[^67] 1., 3., 5., 10. és 11. sorában meghatározott építési tevékenységek esetén az 1., 4–7., homlokzat megváltoztatása esetén 8. és 9. pontban foglaltakat,
 
 ## ab) 12. sorában meghatározott építési tevékenység esetén az 1., 5., 7. és 12. pontban foglaltakat,
 
@@ -382,7 +382,7 @@
 
 ## bf) 35. sorában meghatározott építési tevékenység esetén a 6. pontban foglaltakat.
 
-## 13.[^67] Bejelentéshez szükséges építészeti-műszaki dokumentációnak az alábbiakat kell tartalmaznia:
+## 13.[^68] Bejelentéshez szükséges építészeti-műszaki dokumentációnak az alábbiakat kell tartalmaznia:
 
 ## a) emberi tartózkodásra szolgáló helyiséget tartalmazó új építmény építésekor
 
@@ -392,9 +392,9 @@
 
 ## ac) alaprajzot,
 
-## b)[^68] emberi tartózkodásra szolgáló helyiséget tartalmazó meglévő építmény átalakításakor, bővítésekor, felújításakor, korszerűsítésekor, helyreállításakor értelemszerűen
+## b)[^69] emberi tartózkodásra szolgáló helyiséget tartalmazó meglévő építmény átalakításakor, bővítésekor, felújításakor, korszerűsítésekor, helyreállításakor értelemszerűen
 
-## ba)[^69] a 10. pont a) és k) alpontjában foglaltakat,
+## ba)[^70] a 10. pont a) és k) alpontjában foglaltakat,
 
 ## bb) egy metszetrajzot az átalakítással, bővítéssel érintett építményrészről,
 
@@ -402,15 +402,15 @@
 
 ## bd) tervező által készített helyszínrajzi elrendezést a telek beépítettségi mértékének változása esetén,
 
-## c)[^70] emberi tartózkodásra szolgáló helyiséget nem tartalmazó műtárgy építésekor, átalakításakor, bővítésekor, felújításakor, korszerűsítésekor, helyreállításakor értelemszerűen
+## c)[^71] emberi tartózkodásra szolgáló helyiséget nem tartalmazó műtárgy építésekor, átalakításakor, bővítésekor, felújításakor, korszerűsítésekor, helyreállításakor értelemszerűen
 
-## ca)[^71] a 12. pont a), d) és e) alpontjában foglaltakat,
+## ca)[^72] a 12. pont a), d) és e) alpontjában foglaltakat,
 
 ## cb) tervező által készített helyszínrajzi elrendezést a telek beépítettségi mértékének változása esetén,
 
-## d)[^72] az 1. melléklet IV. oszlop 9. sorában meghatározott építési tevékenység esetén a kéményseprő-ipari közszolgáltatóval egyeztetett vagy építésügyi műszaki szakértő által ellenjegyzett, a tervezett megvalósítás szakszerűségét igazoló dokumentumot,
+## d)[^73] az 1. melléklet IV. oszlop 9. sorában meghatározott építési tevékenység esetén a kéményseprő-ipari közszolgáltatóval egyeztetett vagy építésügyi műszaki szakértő által ellenjegyzett, a tervezett megvalósítás szakszerűségét igazoló dokumentumot,
 
-## e)–f)[^73]
+## e)–f)[^74]
 
 ## IV. Bontási engedélyezési dokumentáció
 
@@ -418,7 +418,7 @@
 
 ## 2. A bontási engedélyezési dokumentációnak legalább az alábbiakat kell tartalmaznia:
 
-## a)[^74] a földhivatal által hitelesített 90 napnál nem régebbi ingatlan-nyilvántartási térkép másolatát,
+## a)[^75] a földhivatal által hitelesített 90 napnál nem régebbi ingatlan-nyilvántartási térkép másolatát,
 
 ## b) műszaki leírást, mely ismerteti az építmény rendeltetését, alaprajzát, metszetét, méreteit, anyagait és szerkezeteit, a csatlakozó közművek fajtáját, állapotát és helyzetét,
 
@@ -432,7 +432,7 @@
 
 ## 3. Bontás bejelentése engedélyezési dokumentációjának a 2. pont a)–c) és f) alpontjában foglaltakat kell tartalmaznia.
 
-## V.[^75] Használatbavételi engedélyezési és bejelentési dokumentáció
+## V.[^76] Használatbavételi engedélyezési és bejelentési dokumentáció
 
 ## A használatbavételi engedély iránti kérelem mellékleteként dokumentációt csak az e rendeletben meghatározott esetben kell benyújtani, és annak csak az eltérést ábrázoló tervrajzokat, valamint az azt ismertető munkarészeket (pl. a műszaki leírást és a számításokat) kell tartalmaznia.
 
@@ -442,7 +442,7 @@
 
 ## Műemléki területen épült építmény esetén fotódokumentáció is szükséges.
 
-## VI.[^76] Fennmaradási engedélyezési dokumentáció
+## VI.[^77] Fennmaradási engedélyezési dokumentáció
 
 ## A dokumentáció tartalmára vonatkozó követelmények azonosak az építési engedélyezési dokumentációnál leírtakkal. A szabálytalanul megépített vagy befejezetlen építmény esetében a jelenlegi állapotot és a szándékolt továbbépített állapotot külön-külön kell ábrázolni.
 
@@ -454,7 +454,7 @@
 
 ## Műemléki területen épült építmény esetén fotódokumentáció is szükséges.
 
-## VII.[^77] A zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló kormányrendelet szerinti általános építésügyi szakhatósági eljáráshoz szükséges építészet-műszaki dokumentáció
+## VII.[^78] A zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló kormányrendelet szerinti általános építésügyi szakhatósági eljáráshoz szükséges építészet-műszaki dokumentáció
 
 ## a) az adott rendeltetéssel érintett építmény, építményrész alaprajza a III. fejezet 6. pontja szerinti tartalommal, M=1:200-as méretaránynak megfelelő műszaki tartalommal,
 
@@ -484,36 +484,36 @@
 
 ## ef) az adott rendeltetéssel érintett építmény, építményrész tartalmaz-e azbesztet.
 
-## VIII.[^78]
+## VIII.[^79]
 
-6. melléklet a 37/2007. (XII. 13.) ÖTM rendelethez[^79]
+6. melléklet a 37/2007. (XII. 13.) ÖTM rendelethez[^80]
 
-[^51]: Az 5. melléklet I. fejezete 8. pontjának f) alpontja a 17/2008. (VIII. 30.) NFGM rendelet 26. § (1) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
-[^52]: Az 5. melléklet I. fejezet 8. pont i) alpontja a 19/2010. (V. 13.) NFGM rendelet 3. § (2) bekezdése szerint módosított szöveg.
-[^53]: Az 5. melléklet I. fejezete 8. pontjának j) alpontját a 17/2008. (VIII. 30.) NFGM rendelet 26. § (2) bekezdése iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
-[^54]: Az 5. melléklet I. fejezete 8. pontjának k) alpontját a 17/2008. (VIII. 30.) NFGM rendelet 26. § (2) bekezdése iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
-[^55]: Az 5. melléklet I. fejezet 8. pont l) alpontját a 25/2009. (IX. 30.) NFGM rendelet 8. § (1) bekezdése iktatta be, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^56]: Az 5. melléklet I. fejezetének 9. pontja a 17/2008. (VIII. 30.) NFGM rendelet 26. § (3) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
-[^57]: A 17/2008. (VIII. 30.) NFGM rendelet 28. § (2) bekezdése alapján a 11. pont szerinti kamarai szabályzatok hatálybalépéséig az építészeti-műszaki dokumentációt az alaprajz, a metszet, a homlokzat tekintetében a megértéséhez, az engedélyezéshez és a kivitelezési dokumentáció elkészítéséhez szükséges mértékben, de legalább M 1:100 léptékben, a helyszínrajz tekintetében legalább M 1:1000 léptékben kell elkészíteni.
-[^58]: Az 5. melléklet II. fejezet címe a 25/2009. (IX. 30.) NFGM rendelet 12. § c) pontja szerint módosított szöveg.
-[^59]: Az 5. melléklet III. fejezetének 1. pontja a 17/2008. (VIII. 30.) NFGM rendelet 26. § (4) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
-[^60]: Az 5. melléklet III. fejezet 4. pontja a 28/2011. (IX. 6.) BM rendelet 633. §-ával megállapított szöveg.
-[^61]: Az 5. melléklet III. fejezet 9. pont l) alpontját a 25/2009. (IX. 30.) NFGM rendelet 11. § (1) bekezdés l) pont la) alpontja hatályon kívül helyezte, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^62]: Az 5. melléklet III. fejezete 10. pontjának a) alpontja a 17/2008. (VIII. 30.) NFGM rendelet 28. § (5) bekezdésének w) pontja szerint módosított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
-[^63]: Az 5. melléklet III. fejezet 10. pont m) alpontját a 25/2009. (IX. 30.) NFGM rendelet 11. § (1) bekezdés l) pont lb) alpontja hatályon kívül helyezte, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^64]: Az 5. melléklet III. fejezete 12. pontjának a) alpontja a 17/2008. (VIII. 30.) NFGM rendelet 28. § (5) bekezdésének w) pontja szerint módosított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
-[^65]: Az 5. melléklet III. fejezet 12/A. pontját a 25/2009. (IX. 30.) NFGM rendelet 8. § (2) bekezdése iktatta be, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^66]: Az 5. melléklet III. fejezet 12/A. pont a) alpont aa) alpontja a 19/2010. (V. 13.) NFGM rendelet 3. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^67]: Az 5. melléklet III. fejezetének 13. pontja a 17/2008. (VIII. 30.) NFGM rendelet 26. § (5) bekezdésével megállapított, nyitó szövegrésze a 19/2010. (V. 13.) NFGM rendelet 3. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^68]: Az 5. melléklet III. fejezet 13. pont b) alpont bevezető szövegrésze a 25/2009. (IX. 30.) NFGM rendelet 12. § d) pontja szerint módosított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^69]: Az 5. melléklet III. fejezet 13. pont b) alpont ba) alpontja a 25/2009. (IX. 30.) NFGM rendelet 11. § (1) bekezdés l) pont lc) alpontja szerint módosított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^70]: Az 5. melléklet III. fejezet 13. pont c) alpont bevezető szövegrésze a 25/2009. (IX. 30.) NFGM rendelet 12. § d) pontja szerint módosított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^71]: Az 5. melléklet III. fejezet 13. pont c) alpont ca) alpontja a 25/2009. (IX. 30.) NFGM rendelet 11. § (1) bekezdés l) pont lc) alpontja szerint módosított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^72]: Az 5. melléklet III. fejezet 13. pont d) alpontja a 25/2009. (IX. 30.) NFGM rendelet 8. § (3) bekezdésével megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^73]: Az 5. melléklet III. fejezet 13. pont e)–f) alpontját a 25/2009. (IX. 30.) NFGM rendelet 11. § (1) bekezdés l) pont ld) alpontja hatályon kívül helyezte, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^74]: Az 5. melléklet IV. fejezete 2. pontjának a) alpontja a 17/2008. (VIII. 30.) NFGM rendelet 28. § (5) bekezdésének w) pontja szerint módosított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
-[^75]: Az 5. melléklet V. fejezete a 17/2008. (VIII. 30.) NFGM rendelet 26. § (6) bekezdésével megállapított és a 25/2009. (IX. 30.) NFGM rendelet 11. § (1) bekezdés m) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^76]: Az 5. melléklet VI. fejezete a 17/2008. (VIII. 30.) NFGM rendelet 28. § (5) bekezdésének w) pontja szerint módosított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
-[^77]: Az 5. melléklet VII. fejezetét a 17/2008. (VIII. 30.) NFGM rendelet 28. § (4) bekezdésének v) pontja hatályon kívül helyezte, újonnan a 10/2011. (III. 28.) BM rendelet 2. §-a iktatta be.
-[^78]: Az 5. melléklet VIII. fejezetét a 25/2009. (IX. 30.) NFGM rendelet 10. § (2) bekezdés j) pontja hatályon kívül helyezte, e módosító rendelet 10. § (1) bekezdése alapján a 2010. január 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^79]: A 6. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 12. pontja hatályon kívül helyezte.
+[^52]: Az 5. melléklet I. fejezete 8. pontjának f) alpontja a 17/2008. (VIII. 30.) NFGM rendelet 26. § (1) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
+[^53]: Az 5. melléklet I. fejezet 8. pont i) alpontja a 19/2010. (V. 13.) NFGM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^54]: Az 5. melléklet I. fejezete 8. pontjának j) alpontját a 17/2008. (VIII. 30.) NFGM rendelet 26. § (2) bekezdése iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
+[^55]: Az 5. melléklet I. fejezete 8. pontjának k) alpontját a 17/2008. (VIII. 30.) NFGM rendelet 26. § (2) bekezdése iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
+[^56]: Az 5. melléklet I. fejezet 8. pont l) alpontját a 25/2009. (IX. 30.) NFGM rendelet 8. § (1) bekezdése iktatta be, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^57]: Az 5. melléklet I. fejezetének 9. pontja a 17/2008. (VIII. 30.) NFGM rendelet 26. § (3) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
+[^58]: A 17/2008. (VIII. 30.) NFGM rendelet 28. § (2) bekezdése alapján a 11. pont szerinti kamarai szabályzatok hatálybalépéséig az építészeti-műszaki dokumentációt az alaprajz, a metszet, a homlokzat tekintetében a megértéséhez, az engedélyezéshez és a kivitelezési dokumentáció elkészítéséhez szükséges mértékben, de legalább M 1:100 léptékben, a helyszínrajz tekintetében legalább M 1:1000 léptékben kell elkészíteni.
+[^59]: Az 5. melléklet II. fejezet címe a 25/2009. (IX. 30.) NFGM rendelet 12. § c) pontja szerint módosított szöveg.
+[^60]: Az 5. melléklet III. fejezetének 1. pontja a 17/2008. (VIII. 30.) NFGM rendelet 26. § (4) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
+[^61]: Az 5. melléklet III. fejezet 4. pontja a 28/2011. (IX. 6.) BM rendelet 633. §-ával megállapított szöveg.
+[^62]: Az 5. melléklet III. fejezet 9. pont l) alpontját a 25/2009. (IX. 30.) NFGM rendelet 11. § (1) bekezdés l) pont la) alpontja hatályon kívül helyezte, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^63]: Az 5. melléklet III. fejezete 10. pontjának a) alpontja a 17/2008. (VIII. 30.) NFGM rendelet 28. § (5) bekezdésének w) pontja szerint módosított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
+[^64]: Az 5. melléklet III. fejezet 10. pont m) alpontját a 25/2009. (IX. 30.) NFGM rendelet 11. § (1) bekezdés l) pont lb) alpontja hatályon kívül helyezte, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^65]: Az 5. melléklet III. fejezete 12. pontjának a) alpontja a 17/2008. (VIII. 30.) NFGM rendelet 28. § (5) bekezdésének w) pontja szerint módosított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
+[^66]: Az 5. melléklet III. fejezet 12/A. pontját a 25/2009. (IX. 30.) NFGM rendelet 8. § (2) bekezdése iktatta be, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^67]: Az 5. melléklet III. fejezet 12/A. pont a) alpont aa) alpontja a 19/2010. (V. 13.) NFGM rendelet 3. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^68]: Az 5. melléklet III. fejezetének 13. pontja a 17/2008. (VIII. 30.) NFGM rendelet 26. § (5) bekezdésével megállapított, nyitó szövegrésze a 19/2010. (V. 13.) NFGM rendelet 3. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^69]: Az 5. melléklet III. fejezet 13. pont b) alpont bevezető szövegrésze a 25/2009. (IX. 30.) NFGM rendelet 12. § d) pontja szerint módosított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^70]: Az 5. melléklet III. fejezet 13. pont b) alpont ba) alpontja a 25/2009. (IX. 30.) NFGM rendelet 11. § (1) bekezdés l) pont lc) alpontja szerint módosított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^71]: Az 5. melléklet III. fejezet 13. pont c) alpont bevezető szövegrésze a 25/2009. (IX. 30.) NFGM rendelet 12. § d) pontja szerint módosított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^72]: Az 5. melléklet III. fejezet 13. pont c) alpont ca) alpontja a 25/2009. (IX. 30.) NFGM rendelet 11. § (1) bekezdés l) pont lc) alpontja szerint módosított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^73]: Az 5. melléklet III. fejezet 13. pont d) alpontja a 25/2009. (IX. 30.) NFGM rendelet 8. § (3) bekezdésével megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^74]: Az 5. melléklet III. fejezet 13. pont e)–f) alpontját a 25/2009. (IX. 30.) NFGM rendelet 11. § (1) bekezdés l) pont ld) alpontja hatályon kívül helyezte, e módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^75]: Az 5. melléklet IV. fejezete 2. pontjának a) alpontja a 17/2008. (VIII. 30.) NFGM rendelet 28. § (5) bekezdésének w) pontja szerint módosított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
+[^76]: Az 5. melléklet V. fejezete a 17/2008. (VIII. 30.) NFGM rendelet 26. § (6) bekezdésével megállapított és a 25/2009. (IX. 30.) NFGM rendelet 11. § (1) bekezdés m) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 10. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^77]: Az 5. melléklet VI. fejezete a 17/2008. (VIII. 30.) NFGM rendelet 28. § (5) bekezdésének w) pontja szerint módosított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 1. napját követően indult elsőfokú, valamint a megismételt eljárásokban kell alkalmazni.
+[^78]: Az 5. melléklet VII. fejezetét a 17/2008. (VIII. 30.) NFGM rendelet 28. § (4) bekezdésének v) pontja hatályon kívül helyezte, újonnan a 10/2011. (III. 28.) BM rendelet 2. §-a iktatta be.
+[^79]: Az 5. melléklet VIII. fejezetét a 25/2009. (IX. 30.) NFGM rendelet 10. § (2) bekezdés j) pontja hatályon kívül helyezte, e módosító rendelet 10. § (1) bekezdése alapján a 2010. január 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^80]: A 6. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 12. pontja hatályon kívül helyezte.
