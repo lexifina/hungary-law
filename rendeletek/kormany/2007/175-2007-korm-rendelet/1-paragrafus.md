@@ -20,7 +20,7 @@ dd) a da)–dc) pontokban felsoroltak egyesületeinek, alapítványainak, sport-
 
 e)[^4] rendvédelmi szervek: a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (4) bekezdés f) pontja és az (5) bekezdése szerinti szervek;
 
-f)[^5] a rendvédelmi szervek személyi állománya: a rendvédelmi szerveket felügyelő minisztériumok, valamint a rendészetért felelős miniszter irányítása alá tartozó szerveknél foglalkoztatott hivatásos állomány, az itt foglalkoztatott kormánytisztviselők, köztisztviselők, közalkalmazottak és a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény hatálya alá tartozó munkavállalói, a Nemzeti Adó- és Vámhivatal személyi állományából a hivatásos állományú tagok, valamint Nemzeti Adó- és Vámhivatal személyi állományából azok, akik 2010. december 31-én a Vám- és Pénzügyőrség közalkalmazotti állományába tartoztak, továbbá a BM oktatási intézményeinek (rendészeti szakközépiskolák) tanulói és a Nemzeti Közszolgálati Egyetem rendészeti képzést folytató karának és katasztrófavédelmi intézetének hallgatói;
+f)[^5] a rendvédelmi szervek személyi állománya: a rendvédelmi szerveket felügyelő minisztériumok, valamint a rendészetért felelős miniszter irányítása alá tartozó szerveknél foglalkoztatott hivatásos állomány, az itt foglalkoztatott kormánytisztviselők, köztisztviselők, közalkalmazottak és a munka törvénykönyvéről szóló 2012. évi I. törvény hatálya alá tartozó munkavállalói, a Nemzeti Adó- és Vámhivatal személyi állományából a hivatásos állományú tagok, valamint Nemzeti Adó- és Vámhivatal személyi állományából azok, akik 2010. december 31-én a Vám- és Pénzügyőrség közalkalmazotti állományába tartoztak, továbbá a BM oktatási intézményeinek (rendészeti szakközépiskolák) tanulói és a Nemzeti Közszolgálati Egyetem rendészeti képzést folytató karának és katasztrófavédelmi intézetének hallgatói;
 
 g) csapatorvosi rendelő: a Honvédelmi Minisztérium (a továbbiakban: HM) vagy az MH által fenntartott honvédorvosi és foglalkozás-egészségügyi alapellátást biztosító egészségügyi rendelő;
 
@@ -46,6 +46,6 @@ p) hozzátartozói jogon igényjogosult: a saját jogú igényjogosult biztosít
 [^2]: Az 1. § b) pontja a 318/2011. (XII. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^3]: Az 1. § c) pontja a 318/2011. (XII. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: Az 1. § e) pontja a 273/2010. (XII. 9.) Korm. rendelet 120. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1. § f) pontja a 273/2010. (XII. 9.) Korm. rendelet 120. § (2) bekezdésével megállapított, a 363/2011. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^5]: Az 1. § f) pontja a 363/2011. (XII. 30.) Korm. rendelet 26. §-ával megállapított, a 135/2012. (VI. 28.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. § n) pontja a 63/2010. (III. 18.) Korm. rendelet 13. § (2) bekezdése szerint módosított szöveg.
 [^7]: Az 1. § o) pontja a 318/2011. (XII. 27.) Korm. rendelet 7. § (2) bekezdés a) pontja szerint módosított szöveg.
