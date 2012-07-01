@@ -16,7 +16,7 @@
 
 | 5 | E20 | A befektetési vállalkozások tulajdonában lévő, valamint a náluk letétbe helyezett (rezidensek és nem-rezidensek által kibocsátott) értékpapírok állománya, tulajdonosi bontásban | letétkezelői tevékenységet végző befektetési vállalkozások, az ezen típusú EGT fióktelepek | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 8. munkanap | MNB Statisztika |
 
-| 6 | E21 | A hitelintézetek saját tulajdonában lévő, valamint a náluk letétbe helyezett (rezidensek és nem rezidensek által kibocsátott) értékpapírok állománya, tulajdonosi bontásban | bankok, szakosított hitelintézetek, letétkezelési tevékenységet végző szövetkezeti hitelintézetek, az ezen típusú EGT fióktelepek | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 8. munkanap | MNB Statisztika |
+| 6 | E21 | A bankok és szakosított hitelintézetek saját tulajdonában lévő, valamint a náluk letétbe helyezett (rezidensek és nem rezidensek által kibocsátott) értékpapírok állománya, tulajdonosi bontásban | bankok, szakosított hitelintézetek, az ezen típusú EGT fióktelepek | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 8. munkanap | MNB Statisztika |
 
 | 7 | E23 | A központi értéktárnál vezetett egyesített összevont értékpapírszámlákon és biztosíték értékpapír letéti számlákon lévő értékpapír-állományok | központi értéktári tevékenységet végző szervezet, az ezen típusú EGT fióktelep | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 3. munkanap | MNB Statisztika |
 
@@ -36,13 +36,13 @@
 
 | 15 | E58 | A forgalomban lévő magyar államkötvények és kamatozó kincstárjegyek cash-flow és kamatadatai | ÁKK Zrt. | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 5. munkanap | MNB Statisztika |
 
-| 16 | E60 | Adatszolgáltatás repó-típusú és egyéb értékpapír ügyletekről | bankok, szakosított hitelintézetek, letétkezelési tevékenységet végző szövetkezeti hitelintézetek és befektetési vállalkozások, az ezen típusú EGT fióktelepek, ÁKK Zrt. | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 5. munkanap | MNB Statisztika |
+| 16 | E60 | Adatszolgáltatás repó-típusú és egyéb értékpapír ügyletekről | bankok, szakosított hitelintézetek, letétkezelési tevékenységet végző befektetési vállalkozások, az ezen típusú EGT fióktelepek, ÁKK Zrt. | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 5. munkanap | MNB Statisztika |
 
 | 17 | E61 | A Magyarországon és külföldön kibocsátott jelzáloglevelek adatai | jelzálog-hitelintézetek, az ezen típusú EGT fióktelepek | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 8. munkanap | MNB Statisztika |
 
 | 18 | E62 | Az állampapírnak nem minősülő, Magyarországon és külföldön kibocsátott kötvények adatai | kötvényt kibocsátó önkormányzatok, jogi személyiséggel rendelkező gazdálkodó szervezetek, jogi személyiséggel rendelkező külföldi gazdálkodó szervezetek magyarországi fióktelepei | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 8. munkanap | MNB Statisztika |
 
-| 19 | E64 | Hitelintézetek és befektetési vállalkozások által kibocsátott értékpapírok adatai, illetve az általuk letétkezelt egyes értékpapírokra vonatkozó árinformációk | bankok, szakosított hitelintézetek, letétkezelési tevékenységet végző szövetkezeti hitelintézetek és befektetési vállalkozások, az ezen típusú EGT fióktelepek, ÁKK Zrt. | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 8. munkanap | MNB Statisztika |
+| 19 | E64 | Hitelintézetek és befektetési vállalkozások által kibocsátott értékpapírok adatai, illetve az általuk letétkezelt egyes értékpapírokra vonatkozó árinformációk | bankok, szakosított hitelintézetek, letétkezelői tevékenységet végző befektetési vállalkozások, az ezen típusú EGT fióktelepek | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 8. munkanap | MNB Statisztika |
 
 | 20 | F01 | Felügyeleti mérleg és eredménykimutatás (hó végi záró állomány) | bankok, szakosított hitelintézetek, az ezen típusú EGT fióktelepek | havi, illetve intézményi változás esetén | elektronikus úton (EBEAD) | a naptári negyedév első két hónapja tekintetében: tárgyidőszakot követő hónap 11. munkanap; a naptári negyedév utolsó hónapja tekintetében előzetes: tárgyidőszakot követő hónap 11. munkanap; végleges: tárgyidőszakot követő hónap 20. munkanap; intézményi változás esetén: az intézményi változást követő 20. munkanap | MNB Statisztika |
 
@@ -126,11 +126,9 @@
 
 | 60 | AL2 | Napi jelentés a cash- flow adatokról | kijelölt bankok, szakosított hitelintézetek, az ezen típusú EGT fióktelepek | egyedi elrendelés alapján, napi | elektronikus úton (EBEAD) | tárgynapot követő munkanap 12:00 óra | MNB Statisztika |
 
-| 60a | AL5 | Havi jelentés a devizafinanszírozás megfelelési mutatóról | részvénytársasági formában működő hitelintézetek, a lakás-takarékpénztárak, a Magyar Fejlesztési Bank Zrt., a Magyar Export-Import Bank Zrt. és a Központi Elszámolóház és Értéktár (Budapest) Zrt. kivételével | havi | elektronikus úton (EBEAD) | a naptári negyedév első két hónapja tekintetében: - kizárólag a 01. tábla kitöltésére kötelezett adatszolgáltatóknak a tárgyidőszakot követő hónap 15. munkanap, - a 02. tábla kitöltésére is kötelezett adatszolgáltatóknak a tárgyidőszakot követő hónap 17. munkanap; a naptári negyedév utolsó hónapja tekintetében: - kizárólag a 01. tábla kitöltésére kötelezett adatszolgáltatóknak a tárgyidőszakot követő hónap 20. munkanap, - a 02. tábla kitöltésére is kötelezett adatszolgáltatóknak a tárgyidőszakot követő hónap 22. munkanap | MNB Statisztika |
-
 | 61 | L01 | Nemzetközi tartalékok és devizalikviditás | MÁK, ÁKK Zrt. | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 15. nap. | MNB Statisztika |
 
-| 62 | L10 | Felvett vállalati és háztartási hitelek adatai | tárgyidőszakot követő hónap 10. munkanap | havi | elektronikus úton | tárgyidőszakot követő hónap 5. munkanap | MNB Statisztika |
+| 62 | L10 | Felvett vállalati, illetve késedelemben lévő háztartási hitelek adatai | központi hitelinformációs rendszert működtető pénzügyi vállalkozás | havi | elektronikus úton | tárgyidőszakot követő hónap 5. munkanap | MNB Statisztika |
 
 | 63 | SL1 | Önkormányzati finanszírozás | kijelölt bankok, szakosított hitelintézetek, az ezen típusú EGT fióktelepek | egyedi elrendelés alapján, negyedéves | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 12. munkanap 12:00 óra | MNB Statisztika |
 
@@ -164,11 +162,11 @@
 
 | 78 | P37 | Havi jelentés a levelező banknál számlát vezető levelezett hitelintézetek pénzforgalmi (elszámolási) számla egyenlegéről | hitelintézetek számára számlát vezető bankok, az ezen típusú EGT fióktelepek | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 1. munkanap 10:00 óra | MNB Statisztika |
 
-| 79 | P38 |  |  |  |  |  |  |
+| 79 | P38 | Fizetési forgalom statisztikák | fizetési rendszer működtetését végző szervezet | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 5. munkanap | MNB Statisztika |
 
-| 80 | P39 |  |  |  |  |  |  |
+| 80 | P39 | Fizetési rendszer statisztikák | fizetési rendszer működtetését végző szervezet | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 10. munkanap | MNB Statisztika |
 
-| 81 | P40 |  |  |  |  |  |  |
+| 81 | P40 | GIRO statisztikák | fizetési rendszer működtetését végző szervezet | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 5. munkanap | MNB Statisztika |
 
 | 82 | P41 | Felvigyázói statisztikák | Tpt. szerinti elszámolóházak, központi értéktári tevékenységet végző szervezet, Tpt. szerinti központi szerződő fél, az ezen típusú EGT fióktelepek | havi | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 10. munkanap | MNB Statisztika |
 
