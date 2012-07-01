@@ -1,4 +1,4 @@
-17/D. §[^41] (1) A közhasznú kölcsönző közfoglalkoztatási jogviszonyban álló közfoglalkoztatottakat csak a közfoglalkoztatásról szóló törvényben meghatározott közfoglalkoztató részére kölcsönözhet.
+17/D. §[^45] (1) A közhasznú kölcsönző közfoglalkoztatási jogviszonyban álló közfoglalkoztatottakat csak a közfoglalkoztatásról szóló törvényben meghatározott közfoglalkoztató részére kölcsönözhet.
 
 (2) Ha a munkaerő-kölcsönzés
 
@@ -14,4 +14,4 @@ d) nonprofit gazdasági társaság
 
 (3) Közhasznú kölcsönző a közfoglalkoztatottak tekintetében külföldre irányuló munkaerő-kölcsönzési tevékenységet nem folytathat.
 
-[^41]: A 17/D. §-t a 171/2011. (VIII. 24.) Korm. rendelet 4. §-a iktatta be.
+[^45]: A 17/D. §-t a 171/2011. (VIII. 24.) Korm. rendelet 4. §-a iktatta be.

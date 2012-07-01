@@ -10,18 +10,21 @@ c) a magán-munkaközvetítés szempontjából foglalkoztatásra irányuló jogv
 
 d) gyermeknevelő (au-pair) tevékenység: olyan foglalkoztatás, amelynek keretében a foglalkoztatott, magánszemélyeknél (családoknál) közreműködik a gyermekek ellátásában, nevelésében, gondozásában, és e tevékenységéért ellenszolgáltatásban (díjazás, szállás, étkezés, nyelvtanulás támogatása) részesül;
 
-e) munkaerő-kölcsönzés: az Mt. 193/C. § a) pontjában meghatározott tevékenység;
+e)[^4] munkaerő-kölcsönzés: a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 214. § (1) bekezdés a) pontjában meghatározott tevékenység;
 
-f) kölcsönbeadó: az Mt. 193/C. § b) pontjában meghatározott munkáltató;
+f)[^5] kölcsönbeadó: az Mt. 214. § (1) bekezdés b) pontjában meghatározott munkáltató;
 
-g) kölcsönvevő: az Mt. 193/C. § c) pontjában meghatározott munkáltató;
+g)[^6] kölcsönvevő: az Mt. 214. § (1) bekezdés c) pontjában meghatározott munkáltató;
 
-h)[^4] közfoglalkoztatásra irányuló munkaerő-kölcsönzés: a közfoglalkoztatási jogviszony keretében történő munkaerő-kölcsönzés;
+h)[^7] közfoglalkoztatásra irányuló munkaerő-kölcsönzés: a közfoglalkoztatási jogviszony keretében történő munkaerő-kölcsönzés;
 
-i)[^5] közhasznú kölcsönző: helyi vagy kisebbségi önkormányzat, illetve ezek társulása, valamint a közhasznú szervezetekről szóló 1997. évi CLVI. törvény 2. § (1) bekezdés h)–j) pontjában foglaltak kivételével a közhasznú szervezet.
+i)[^8] közhasznú kölcsönző: helyi vagy nemzetiségi önkormányzat, illetve ezek társulása, valamint az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 32. §-a szerinti közhasznú szervezet.
 
 (2) Külföldi munkavégzésre irányuló magán-munkaközvetítés esetén az (1) bekezdés c) pontjában meghatározott jogviszony tartalmára a fogadó ország vonatkozó jogszabályai az irányadók.
 
 [^3]: A 2. § (1) bekezdésének a) pontja az 57/2003. (IV. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § (1) bekezdés h) pontját a 171/2011. (VIII. 24.) Korm. rendelet 2. §-a iktatta be.
-[^5]: A 2. § (1) bekezdés i) pontját a 171/2011. (VIII. 24.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 2. § (1) bekezdés e) pontja a 135/2012. (VI. 28.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés f) pontja a 135/2012. (VI. 28.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés g) pontja a 135/2012. (VI. 28.) Korm. rendelet 8. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdés h) pontját a 171/2011. (VIII. 24.) Korm. rendelet 2. §-a iktatta be.
+[^8]: A 2. § (1) bekezdés i) pontját a 171/2011. (VIII. 24.) Korm. rendelet 2. §-a iktatta be, szövege a 135/2012. (VI. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.

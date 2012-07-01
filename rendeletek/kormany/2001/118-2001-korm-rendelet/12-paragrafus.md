@@ -1,6 +1,6 @@
 ## Adatszolgáltatási kötelezettség
 
-## 12. §[^31] A kölcsönbeadónak a tárgyévi tevékenységéről a tárgyévet követő év január 31-éig a Nemzeti Foglalkoztatási Szolgálat honlapján közzétett adatlapon, telephelyenként a következő adattartalmú adatszolgáltatást kell elkészítenie:
+## 12. §[^35] A kölcsönbeadónak a tárgyévi tevékenységéről a tárgyévet követő év január 31-éig a Nemzeti Foglalkoztatási Szolgálat honlapján közzétett adatlapon, telephelyenként a következő adattartalmú adatszolgáltatást kell elkészítenie:
 
 a) a munkaerő-kölcsönző cégre vonatkozó adatok:
 
@@ -30,4 +30,4 @@ c) a belföldi és a külföldi kölcsönvevők száma ágazati bontásban;
 
 d) a külföldi kölcsönvevők száma, ágazata országonkénti bontásban.
 
-[^31]: A 12. § a 171/2011. (VIII. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^35]: A 12. § a 171/2011. (VIII. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
