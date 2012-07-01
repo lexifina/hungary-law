@@ -76,7 +76,7 @@
 
 | 35. védőnő/családgondozó védőnő |  |  |  |  |  | * | * | * |  |  |
 
-| 36. vizsgázott fogász |  |  |  |  |  | * | * |  |  |  |
+| 36. |  |  |  |  |  |  |  |  |  |  |
 
 | 2) Felső-, közép- és alsófokú szak/szakmai képesítést igénylő munkakörök |  |  |  |  |  |  |  |  |  |  |
 
@@ -174,7 +174,7 @@
 
 | 28. védőnő |  |  |  | * |  |  |  |  |  |  |
 
-| 29. radiológus |  |  |  | * |  |  |  |  |  |  |
+| 29. |  |  |  |  |  |  |  |  |  |  |
 
 | 30. rehabilitációs tevékenység terapeuta |  |  |  | * | * |  |  |  |  |  |
 

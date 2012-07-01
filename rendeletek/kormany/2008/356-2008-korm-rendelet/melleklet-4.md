@@ -1,12 +1,12 @@
 ## „I. Vezetői pótlékok az egészségügyi ágazatban
 
-## 1.[^32] Az országos feladatot ellátó, országos és állami intézetek intézményvezetőjének pótléka
+## 1.[^33] Az országos feladatot ellátó, országos és állami intézetek intézményvezetőjének pótléka
 
 ## a) gyógyító-megelőző ellátást biztosító intézetben a pótlékalap 300%-a,
 
 ## b) gyógyító-megelőző ellátást közvetlenül nem biztosító intézetekben a pótlékalap 200%-a.
 
-## 2.[^33] Az önkormányzatok által fenntartott intézetek intézményvezetőjének pótléka
+## 2.[^34] Az önkormányzatok által fenntartott intézetek intézményvezetőjének pótléka
 
 ## a) gyógyító-megelőző fekvőbeteg-ellátást biztosító intézményben a pótlékalap 250%-a,
 
@@ -36,7 +36,7 @@
 
 ## c) alosztályvezető: a pótlékalap 100%-a
 
-4. melléklet a 356/2008. (XII. 31.) Korm. rendelethez[^34]
+4. melléklet a 356/2008. (XII. 31.) Korm. rendelethez[^35]
 
 A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
@@ -228,6 +228,6 @@ A honvédelmi tárca közalkalmazotti munkakörei megnevezése, fizetési osztá
 
 | egészségügyi kisegítő | * |  |  |  |  |  |  |  |  |  |  |
 
-[^32]: A 3. melléklet I. pont 1. alpont nyitó szövegrésze a 73/2011. (IV. 29.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^33]: A 3. melléklet I. pont 2. alpont nyitó szövegrésze a 73/2011. (IV. 29.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^34]: A 4. melléklet a 73/2011. (IV. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^33]: A 3. melléklet I. pont 1. alpont nyitó szövegrésze a 73/2011. (IV. 29.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^34]: A 3. melléklet I. pont 2. alpont nyitó szövegrésze a 73/2011. (IV. 29.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^35]: A 4. melléklet a 73/2011. (IV. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
