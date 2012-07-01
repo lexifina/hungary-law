@@ -16,4 +16,4 @@ e) a helyettesítésre és a kirendelésre vonatkozó döntéshez,
 
 f) a munkáltatói jogkör gyakorlójának mindazon egyéb döntéseihez, amelyekre e törvény alapján egyoldalúan jogosult.
 
-(3) Az igazságügyi szerv és az igazságügyi alkalmazott, valamint egy másik igazságügyi szerv megállapodhat az igazságügyi alkalmazottnak a másik igazságügyi szervhez történő határozott idejű vagy végleges áthelyezésében. Az áthelyezéskor a 29. § rendelkezései szerint kell eljárni.
+(3) Az igazságügyi szerv és az igazságügyi alkalmazott, valamint egy másik igazságügyi szerv megállapodhat az igazságügyi alkalmazottnak a másik igazságügyi szervhez történő határozott idejű vagy végleges áthelyezésében. Az áthelyezéskor a 29. § rendelkezései szerint kell eljárni azzal, hogy a szabadság pénzbeli megváltásáról nem kell rendelkezni.

@@ -1,4 +1,4 @@
-44/A. § (1) A teljes munkaidőben foglalkoztatott igazságügyi alkalmazott írásbeli kérelmére a munkáltató köteles a kinevezésben heti húsz óra részmunkaidőt kikötni, ha az igazságügyi alkalmazott a kérelem benyújtásakor a Munka Törvénykönyve 138. §-a (5) bekezdésének a) pontja szerinti fizetés nélküli szabadságot vesz igénybe.
+44/A. § (1) A teljes munkaidőben foglalkoztatott igazságügyi alkalmazott írásbeli kérelmére a munkáltató köteles a kinevezésben heti húsz óra részmunkaidőt kikötni, ha az igazságügyi alkalmazott a kérelem benyújtásakor a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 138. §-a (5) bekezdésének a) pontja szerinti fizetés nélküli szabadságot vesz igénybe.
 
 (2) A munkáltató az igazságügyi alkalmazottnak a munkaidő egyenlőtlen beosztására vonatkozó kérelmét csak abban az esetben tagadhatja meg, ha az számára lényegesen nagyobb munkaszervezési terhet jelentene. A munkáltató köteles írásban megindokolni a kérelem megtagadását.
 

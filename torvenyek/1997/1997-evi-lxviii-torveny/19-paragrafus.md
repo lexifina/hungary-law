@@ -16,6 +16,8 @@ f) azonnali hatállyal a próbaidő alatt,
 
 g) határozott idejű kinevezés esetén a kinevezés idejének a lejártával is,
 
-h) külön törvény rendelkezése folytán.
+h) a 35. § (1) bekezdésben foglaltak szerinti megszüntetés esetén,
+
+i) külön törvény rendelkezése folytán.
 
 (2)

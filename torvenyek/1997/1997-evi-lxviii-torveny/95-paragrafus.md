@@ -6,7 +6,7 @@
 
 a) illetményre,
 
-b) külön juttatásra,
+b)
 
 c) egyéb javadalmazásra, kedvezményre és költségtérítésre
 

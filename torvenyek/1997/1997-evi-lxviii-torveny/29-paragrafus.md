@@ -12,6 +12,6 @@ c) az illetményből jogszerűen levonható tartozások összegét és jogcímé
 
 d) a szolgálati viszony megszűnésének az évében igénybe vett betegszabadság napjainak a számát,
 
-e) a kifizetett végkielégítés, külön juttatás és ruházati költségtérítés összegét
+e) a kifizetett végkielégítés összegét
 
 tartalmazza.

@@ -16,6 +16,6 @@ szabható ki.
 
 (2) Az előmenetelben történő várakozási időt egy vagy két évvel lehet meghosszabbítani.
 
-(3) Az (1) bekezdés b)–c) pontjaiban foglalt fegyelmi büntetések kiszabása esetén a következő fizetési fokozat eléréséhez, illetve az eredeti fizetési fokozatba való visszahelyezéshez szükséges várakozási időt a határozat keltének a napjától kell számítani.
+(3) Az (1) bekezdés b)–c) pontjaiban foglalt fegyelmi büntetések kiszabása esetén a következő fizetési fokozat eléréséhez, illetve az eredeti fizetési fokozatba való visszahelyezéshez szükséges várakozási időt a határozat jogerőre emelkedésének napjától kell számítani.
 
 (4) Kivételesen indokolt esetben az (1) bekezdés b)–d) pontjaiban foglalt fegyelmi büntetések végrehajtása egy év próbaidőre felfüggeszthető. Ha a próbaidő eredményesen eltelt, ezt úgy kell tekinteni, mintha az igazságügyi alkalmazott fegyelmi büntetésben nem részesült volna. Ha a próbaidő alatt az igazságügyi alkalmazott ellen újabb fegyelmi eljárás indult és vele szemben – a hivatalvesztést vagy az elbocsátást kivéve – újabb fegyelmi büntetést szabtak ki, a felfüggesztett fegyelmi büntetést is végre kell hajtani.

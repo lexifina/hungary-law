@@ -1,4 +1,4 @@
-## A napidíj
+## Belföldi kiküldetési díj
 
 115. § (1) Az igazságügyi alkalmazottat belföldi kiküldetés esetén – az élelmezéssel kapcsolatos többletköltségek fedezésére – napidíjként az illetményalap egy munkanapra eső részének a 10 százaléka illeti meg. Ha a kiküldetésben töltött idő a 6 órát nem haladja meg, de a 4 órát eléri, a napidíj fele jár.
 

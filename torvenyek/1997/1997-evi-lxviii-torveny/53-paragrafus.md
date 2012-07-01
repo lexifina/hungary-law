@@ -26,7 +26,7 @@ h) a befejezések számát.
 
 (6) Az igazságügyi alkalmazott kérésére az értékelés kialakításába az igazságügyi szervnél működő érdek-képviseleti szerv képviselőjét be kell vonni, az értékelésben foglalt megállapításokra tett észrevételeit az értékelési lapon rögzíteni kell.
 
-(7) Az igazságügyi alkalmazottal az értékelést ismertetni kell, aki az abban foglaltak megismerésének a tényét az értékelési lapon az aláírásával igazolja. Az igazságügyi alkalmazott az értékelésben foglalt megállapításokra írásban észrevételt tehet. Az értékelés ismertetésére meg kell hívni az igazságügyi alkalmazott közvetlen vezetőjét és a (6) bekezdés szerinti esetben az érdek-képviseleti szerv képviselőjét. Az értékelést szóban indokolni kell.
+(7) Az igazságügyi alkalmazottal az értékelést ismertetni kell, aki az abban foglaltak megismerésének a tényét az értékelési lapon az aláírásával igazolja. Az igazságügyi alkalmazott az értékelésben foglalt megállapításokra írásban észrevételt tehet. Az értékelés ismertetésére meg kell hívni az igazságügyi alkalmazott közvetlen vezetőjét és a (6) bekezdés szerinti esetben az érdek-képviseleti szerv képviselőjét. Az értékelést szóban indokolni kell. Ha az értékelés összegző megállapítása nem kiváló, az értékelést írásban is indokolni kell.
 
 (8) Az értékelés egyik példányát az aláíráskor az igazságügyi alkalmazottnak kell átadni, a második példányt a személyi nyilvántartás iratai között kell elhelyezni.
 

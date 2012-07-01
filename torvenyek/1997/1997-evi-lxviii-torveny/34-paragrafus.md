@@ -8,7 +8,9 @@ c) a vezetői megbízás visszavonásával,
 
 d) fegyelmi büntetésként,
 
-e) mindazon esetekben, amikor a vezető szolgálati viszonya is megszűnik.
+e) mindazon esetekben, amikor a vezető szolgálati viszonya is megszűnik,
+
+f) a határozott idő lejártával.
 
 (2) A vezető lemondási ideje 2 hónap, de a felek ennél rövidebb időben is megállapodhatnak.
 

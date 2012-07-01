@@ -18,7 +18,11 @@
 
 4. Szakmai ismeret és jártasság:
 
+– kiváló
+
 – átlag feletti
+
+– jó
 
 – átlagos
 
@@ -26,7 +30,11 @@
 
 5. Pontosság:
 
+– kiváló
+
 – átlag feletti
+
+– jó
 
 – átlagos
 
@@ -34,7 +42,11 @@
 
 6. Szorgalom:
 
+– kiváló
+
 – átlag feletti
+
+– jó
 
 – átlagos
 
@@ -42,7 +54,11 @@
 
 7. Írásbeli kifejezőkészség:
 
+– kiváló
+
 – átlag feletti
+
+– jó
 
 – átlagos
 
@@ -50,7 +66,11 @@
 
 8. Szóbeli kifejezőkészség:
 
+– kiváló
+
 – átlag feletti
+
+– jó
 
 – átlagos
 
@@ -58,7 +78,11 @@
 
 9. Vezető esetén a vezetett egység (hivatali egység) munkájának a színvonala:
 
+– kiváló
+
 – átlag feletti
+
+– jó
 
 – átlagos
 
@@ -68,11 +92,15 @@
 
 11. Az 1–10. pontok alapján az összegző megállapítás:
 
-– kiválóan alkalmas
+– kiváló
 
-– alkalmas
+– átlag feletti
 
-– alkalmatlan
+– jó
+
+– átlagos
+
+– nem megfelelő
 
 12. Az értékelő neve, munkaköre, aláírása és az értékelés ismertetésének az ideje.
 
@@ -80,4 +108,4 @@
 
 14. Az igazságügyi alkalmazott észrevételei, dátum és aláírás.
 
-15. Az érdekképviseleti szerv észrevételei, dátum, aláírás.
+15. Az érdek-képviseleti szerv észrevételei, dátum, aláírás.

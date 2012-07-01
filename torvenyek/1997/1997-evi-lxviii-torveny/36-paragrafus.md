@@ -4,7 +4,7 @@
 
 ## Az összeférhetetlenség
 
-36. § (1) Az igazságügyi alkalmazott nem tölthet be olyan munkakört, amelyben a hozzátartozójával alá- vagy fölérendeltségi viszonyba kerülne.
+36. § (1) Az igazságügyi alkalmazott nem tölthet be olyan munkakört, amelyben a hozzátartozójával irányítási, ellenőrzési vagy elszámolási kapcsolatba kerülne.
 
 (2) Az igazságügyi alkalmazott
 
