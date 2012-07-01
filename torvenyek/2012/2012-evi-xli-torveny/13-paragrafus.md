@@ -1,0 +1,3 @@
+## 10. Szerződéses és különjárati személyszállítási szolgáltatás
+
+13. § Közúti gépjárművel végzett szerződéses vagy különjárati személyszállítási szolgáltatás a 10. § (1) bekezdésében meghatározott engedély birtokában, vasúti eszközzel végzett szerződéses vagy különjárati személyszállítási szolgáltatás a Vtv.-ben meghatározott működési engedéllyel rendelkező vállalkozó vasút társaságként végezhető. A különjárati személyszállítási szolgáltatásra egyebekben a 181/2011/EU rendelet és a Ptk. vállalkozási szerződésekre vonatkozó szabályai, a szerződéses személyszállítási szolgáltatásra egyebekben a Ptk. vállalkozási szerződésekre vonatkozó szabályai az irányadóak.
