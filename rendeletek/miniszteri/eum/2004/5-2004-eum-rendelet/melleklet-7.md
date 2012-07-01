@@ -186,140 +186,34 @@
 
 | Vizsgálat megnevezése | Betegségcsoport sorszáma | Vizsgálat gyakorisága |
 
-| Relevans szakorvosi vizsgálatok | 1.d); 2.a),b); 3.b),c),d); 5.; 6.; 7.; | évente |
+| Releváns szakorvosi vizsgálatok | 1. d); 2. a), b); 3. b), c), d); 5.; 6.; 7. | évente |
 
-| Relevans szakorvosi vizsgálatok | 1.c); 2.c); 3.a); 4.a),b),c),d) | félévente |
+| Releváns szakorvosi vizsgálatok | 1. c); 2. c); 3. a); 4. a), b), c), d) | félévente |
 
-| Relevans szakorvosi vizsgálatok | 1.a) | háromhavonta |
+| Releváns szakorvosi vizsgálatok | 1. a) | háromhavonta |
 
-| Terheléses kerékpár ergometria | 1.b),c); 3.; 4.a); | évente |
+| Terheléses kerékpár ergometria | 1. b), c); 3.; 4. a) | évente |
 
-| Terheléses kerékpár ergometria vérgázméréssel kiegészítve | 1.a); 2.c) | évente |
+| Terheléses kerékpár ergometria vérgázméréssel kiegészítve | 1. a) | évente |
 
-| Háromperces intenzív futás | 2. | évente |
+| Háromperces intenzív futás | 2. a), b) | évente |
 
-| Légzésfunkciós vizsgálat | 1.a); 2. | évente |
+| Légzésfunkciós vizsgálat | 1. a); 2. a), b) | évente |
 
-| Gerincröntgen (kétirányú álló) | 3.b),c) | a rendelő szakorvos által előírt időszakonként |
+| Gerincröntgen (kétirányú álló) | 3. b), c) | a rendelő szakorvos által előírt időszakonként |
 
-| Mellkasröntgen | 3.a),d) | a rendelő szakorvos által előírt időszakonként |
+| Mellkasröntgen | 3. a), d) | a rendelő szakorvos által előírt időszakonként |
 
-| Vérnyomásmérés | 1.c); 5. | a rendelő szakorvos által előírt időszakonként |
+| Vérnyomásmérés | 1. c); 5. | a rendelő szakorvos által előírt időszakonként |
 
-| EKG | 1.a); 2.a); 3.a),d); 4.b) | évente |
+| EKG | 1. a); 2. a); 3. a), d); 4. b) | évente |
 
-| Csípőröntgen-felvétel | 4.a) | a rendelő szakorvos által előírt időszakonként |
+| Csípőröntgen-felvétel | 4. a) | a rendelő szakorvos által előírt időszakonként |
 
 | Gyermekneurológus konzílium | 6. | a rendelő szakorvos által előírt időszakonként |
 
-| Az alapbetegség diagnózisa önmagában elegendő | 4.c) | a rendelő szakorvos által előírt időszakonként |
+| Az alapbetegség diagnózisa önmagában elegendő | 4. c) | a rendelő szakorvos által előírt időszakonként |
 
-7. számú melléklet az 5/2004. (XI. 19.) EüM rendelethez[^41]
+7. számú melléklet az 5/2004. (XI. 19.) EüM rendelethez[^44]
 
-A szén-dioxid gyógygázfürdő rendelésének orvosszakmai szabályai
-
-I. Szén-dioxid gyógygázfürdő javallatai:
-
-1. végtagok krónikus obliteratív verőérbetegségei
-
-2. diabéteszes angioneuropátia
-
-3. poszttrombotikus szindróma
-
-4. Buerger-kór, Raynaud-szindróma
-
-5. progresszív szisztémás szklerózis
-
-6. renyhén gyógyuló lábszárfekély
-
-7. oszteopéniás állapotok.
-
-II. Szén-dioxid gyógygázfürdő ellenjavallatai:
-
-II/1. A szén-dioxid gyógygázfürdőt kizáró állapotok és betegségek:
-
-1. kardiális elégtelenség, kis-és nagyvérköri dekompenzáció, súlyos légzési elégtelenség (NYHA IV. stádium),
-
-2. súlyos ritmuszavar,
-
-3. angina pectoris,
-
-4. akut miokardiális infarktus lezajlását követő 3 hónap,
-
-5. koronária intervenciót vagy szívműtétet követő 3 hónap,
-
-6. miokarditisz lezajlását követő 3 hónap,
-
-7. kezeletlen magasvérnyomás betegség,
-
-8. acidózissal járó anyagcserezavar,
-
-9. akut cerebrovaszkuláris iszkémia,
-
-10. vénás tromboembóliás betegségek lezajlását követő 3 hónap,
-
-11. tromboflebitisz lezajlását követő 3 hónap,
-
-12. súlyos vérszegénység,
-
-13. gyulladásos betegségek,
-
-14. daganatos betegségek (nem szanált esetben),
-
-15. kezeletlen hyperthyreosis,
-
-16. TBC,
-
-17. eszméletvesztéssel járó kórképek,
-
-18. pszichopátiás személyiség, kooperáció hiánya,
-
-19. alkoholizmus,
-
-20. akut gasztrointesztinális vérzések,
-
-21. terhesség,
-
-22. 14 év alatti életkor,
-
-23. májelégtelenség,
-
-24. veseelégtelenség,
-
-25. kritikus végtag iszkémia, előrehaladott gangréna.
-
-II/2. A szén-dioxid gyógygázfürdőt átmenetileg kizáró állapotok:
-
-1. láz,
-
-2. ittas vagy bódult állapot,
-
-3. akut megbetegedés,
-
-4. fertőző megbetegedés,
-
-5. menstruáció.
-
-III. Rendelésre jogosultak:
-
-Az alábbi szakképesítések legalább egyikével rendelkező szakorvos:
-
-1. kardiológia,
-
-2. érsebészet,
-
-3. orvosi rehabilitáció (mozgásszervi területen),
-
-4. fizikális medicina és rehabilitáció,
-
-5. fizioterápia,
-
-6. ortopédia,
-
-7. traumatológia,
-
-8. ortopédia és traumatológia, továbbá
-
-9. angiológiai vagy diabetológiai szakellátóhely belgyógyászat szakképesítéssel rendelkező szakorvosa.
-
-[^41]: A 7. számú mellékletet a 27/2011. (V. 31.) NEFMI rendelet 10. § (4) bekezdése iktatta be.
+[^44]: A 7. számú mellékletet a 27/2011. (V. 31.) NEFMI rendelet 10. § (4) bekezdése iktatta be.
