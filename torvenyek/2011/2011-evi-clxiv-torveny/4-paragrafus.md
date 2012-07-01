@@ -1,6 +1,6 @@
 4. § (1) Az alkalmazotti tanácsot egyetértési jog illeti meg a jóléti célú pénzeszközök felhasználásával, illetve az ilyen jellegű intézmények és ingatlanok hasznosításával kapcsolatos tervek elfogadása tekintetében.
 
-(2) Ha az egyetértés hiánya miatt a felek között vita merül fel, akkor a Munka Törvénykönyvének az egyeztetésre, a közvetítésre és a kötelező döntőbírói eljárásra vonatkozó szabályait kell megfelelően alkalmazni.
+(2) Ha az egyetértés hiánya miatt a felek között vita merül fel, akkor a munka törvénykönyvének a kollektív munkaügyi vitára vonatkozó szabályait kell megfelelően alkalmazni.
 
 (3) Az alkalmazotti tanácsnak véleményezési joga van
 
@@ -20,4 +20,4 @@ illetően.
 
 (5) Az alkalmazotti tanács (Országos Tanács) az ügyészség tervezett intézkedésével [(1) és (3) bekezdés] kapcsolatos álláspontját tizenöt napon belül közli a munkáltatóval. Ennek elmulasztását úgy kell tekinteni, mintha az intézkedéssel egyetértene. A tizenöt napos határidőt a tervezetnek az elnökhöz való érkezésétől kell számítani.
 
-(6) Az (1)–(4) bekezdésben foglaltakat sértő intézkedés érvénytelenségének megállapítása iránt az alkalmazotti tanács (Országos Tanács) a tudomásszerzéstől számított tizenöt napon belül, de legkésőbb az intézkedés megtételét követő hatvan napon belül a Munka Törvénykönyvének a munkaügyi vitákra vonatkozó szabályai szerint jogvitát kezdeményezhet. A keresetnek az intézkedés végrehajtására halasztó hatálya van.
+(6) Az (1)–(4) bekezdésben foglaltakat sértő intézkedés érvénytelenségének megállapítása iránt az alkalmazotti tanács (Országos Tanács) a tudomásszerzéstől számított tizenöt napon belül, de legkésőbb az intézkedés megtételét követő hatvan napon belül a munka törvénykönyvének a munkajogi igény érvényesítésére vonatkozó szabályai szerint bírósághoz fordulhat. A keresetnek az intézkedés végrehajtására halasztó hatálya van.

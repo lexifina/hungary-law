@@ -10,7 +10,7 @@ a) a Legfőbb Ügyészségen;
 
 b) a fellebbviteli főügyészségeken;
 
-c) a főügyészségeken, az alárendelt járási ügyészségekre is kiterjedő hatáskörrel;
+c) a főügyészségeken, az alárendelt járási és járási szintű (a továbbiakban együtt: járási) ügyészségekre is kiterjedő hatáskörrel;
 
 d) az Országos Kriminológiai Intézetben (a továbbiakban: OKRI).
 

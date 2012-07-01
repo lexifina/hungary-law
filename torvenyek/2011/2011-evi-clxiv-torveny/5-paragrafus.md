@@ -4,4 +4,4 @@
 
 (3) A (2) bekezdésben foglalt kötelezettség az alkalmazotti tanácsot és az Országos Tanácsot, illetve ezek tagjait (tisztségviselőit) megbízatásuk, illetve ügyészségi szolgálati viszonyuk megszűnése után is terheli.
 
-(4) E törvényben nem szabályozott kérdésekben az alkalmazotti tanácsra (Országos Tanácsra) a Munka Törvénykönyvének az üzemi tanácsra (központi üzemi tanácsra) vonatkozó rendelkezéseit kell megfelelően alkalmazni, kivéve az üzemi megbízottra és az elnök díjazására vonatkozó szabályait.
+(4) Az e törvényben nem szabályozott kérdésekben az alkalmazotti tanácsra (Országos Tanácsra) a munka törvénykönyvének az üzemi tanácsra (központi üzemi tanácsra) vonatkozó rendelkezéseit kell megfelelően alkalmazni.

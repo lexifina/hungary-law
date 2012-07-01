@@ -8,7 +8,7 @@ b) vezetői tisztségbe nem nevezhető ki,
 
 c) magasabb fizetési fokozatba nem sorolható,
 
-d) részére e törvényben meghatározott cím nem adományozható.
+d) az e törvényben meghatározott címet nem szerzi meg, illetve az részére nem adományozható.
 
 (3) Az (1) bekezdésben meghatározott időtartam elteltével a fegyelmi büntetést minden nyilvántartásból törölni kell.
 

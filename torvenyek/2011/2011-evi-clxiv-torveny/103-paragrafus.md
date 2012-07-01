@@ -1,9 +1,7 @@
-103. § A Munka Törvénykönyve rendelkezéseit kell megfelelően alkalmazni
+103. § A munka törvénykönyve rendelkezéseit kell megfelelően alkalmazni
 
-a) a visszaszolgáltatási vagy elszámolási kötelezettséggel átvett dolgokban bekövetkezett hiányért és a leltárhiányért való felelősségre;
+a) a megőrzésre átadott, visszaszolgáltatási vagy elszámolási kötelezettséggel átvett dologban bekövetkezett hiányért és a megőrzésre átadott dologban megrongálódása folytán keletkezett kárért való felelősségre;
 
-b) a megőrzésre átadott dolog megrongálódása folytán keletkezett kárért való felelősségre;
+b) az együttesen okozott kárért való felelősségre;
 
-c) az együttesen okozott kárért való felelősségre;
-
-d) a kár összegének meghatározására.
+c) a leltárhiányért fennálló felelősségre.

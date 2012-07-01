@@ -14,7 +14,7 @@ c) tartósan ápolásra szoruló közeli hozzátartozóját gondozó ügyész;
 
 d) az ügyész tartós betegsége vagy súlyos egészségromlása esetén.
 
-(4) Ha az ügyészt a szolgálati helyétől vagy lakóhelyétől eltérő más településen működő olyan ügyészségre rendelik ki, ahonnan naponta nem tud lakóhelyére visszautazni, a kirendelésben töltött munkanapokra – a közlekedési és szállás költségmegtérítésén túl – élelmezési költségátalányként az 57. § (1)–(3) bekezdése szerint számított összegű napidíj illeti meg. Ha az ügyészt más főügyészség illetékességi területére, továbbá a fellebbviteli főügyészség ügyészét más szolgálati helyre rendelik ki, a napidíj 150%-ára jogosult.
+(4) Ha az ügyészt a szolgálati helyétől eltérő más településen működő olyan ügyészségre rendelik ki, ahonnan naponta nem tud szolgálati helyére visszautazni, a kirendelésben töltött munkanapokra – a közlekedési és szállás költségmegtérítésén túl – élelmezési költségátalányként az 57. § (4)–(7) bekezdése szerint számított összegű napidíj illeti meg. Ha az ügyészt más főügyészség illetékességi területére, továbbá a fellebbviteli főügyészség ügyészét más szolgálati helyre rendelik ki, a napidíj 150%-ára jogosult.
 
 (5) Kirendelés esetén az ügyész vasúton történő utazásakor az első osztály igénybevételére jogosult.
 

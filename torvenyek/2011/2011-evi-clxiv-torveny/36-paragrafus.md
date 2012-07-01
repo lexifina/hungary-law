@@ -6,11 +6,11 @@ b) átszervezés, létszámcsökkentés következtében az ügyész munkaköre f
 
 c) az ügyész feladatai ellátására tartósan alkalmatlan, illetve az 51. § (3) bekezdésében említett vizsgálatnak nem vetette alá magát;
 
-d) az ügyész rokkantsági (baleseti rokkantsági) nyugdíjban részesül;
+d)
 
 e) az ügyész felmentése a 25. § (3) bekezdésében meghatározott okból válik szükségessé;
 
-f) a rokkantsági (baleseti rokkantsági) vagy a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (2a) bekezdésében foglalt öregségi nyugdíjjogosultság feltételeivel legkésőbb a felmentési idő leteltekor rendelkező ügyész felmentését e jogcímre hivatkozással maga kéri.
+f) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (2a) bekezdésében foglalt öregségi nyugdíjjogosultság feltételeivel legkésőbb a felmentési idő leteltekor rendelkező ügyész felmentését e jogcímre hivatkozással maga kéri.
 
 (2) Az (1) bekezdés c) pontját kell alkalmazni, ha a legfőbb ügyész a minősítés eredményét mérlegelve az ügyész alkalmatlanságát állapította meg, és az ügyész felszólítás ellenére nem mondott le ügyészi tisztségéről.
 
@@ -26,8 +26,8 @@ b) ha az ügyész anya, gyermeke hároméves koráig, feltéve, hogy szülési v
 
 c) ha az ügyész egyedülálló, az eltartott gyermeke nappali iskolai tanulmányainak befejezéséig, de legfeljebb a gyermek huszonöt éves koráig.
 
-(6) A rokkantsági (baleseti rokkantsági) nyugdíjra, vagy a Tny. 18. § (2a) bekezdésében foglalt öregségi nyugdíjra jogosult ügyészt, ha (1) bekezdés f) pontja alapján felmentését kezdeményezi, a legfőbb ügyész köteles a társadalombiztosítási ellátás igénybe vétele érdekében – az ügyészi tanács véleményének kikérése nélkül – felmenteni. Ez a jog a rokkantsági (baleseti rokkantsági) nyugdíjban részesülő ügyészt is megilleti, ha felmentését az (1) bekezdés d) pontja alapján kezdeményezi. E jogcímeken az ügyész kezdeményezésére csak egy alkalommal kötelező a felmentés.
+(6) A Tny. 18. § (2a) bekezdésében foglalt öregségi nyugdíjra jogosult ügyészt, ha az (1) bekezdés f) pontja alapján felmentését kezdeményezi, a legfőbb ügyész köteles a társadalombiztosítási ellátás igénybe vétele érdekében – az ügyészi tanács véleményének kikérése nélkül – felmenteni. E jogcímen az ügyész kezdeményezésére csak egy alkalommal kötelező a felmentés.
 
-(7) A rokkantsági (baleseti rokkantsági) nyugdíjra, a Tny. 18. § (2a) bekezdésében foglalt öregségi nyugdíjra szerzett jogosultságát az ügyésznek kell igazolnia.
+(7) A Tny. 18. § (2a) bekezdésében foglalt öregségi nyugdíjra szerzett jogosultságát az ügyésznek kell igazolnia.
 
 (8) A katonai ügyész ügyészségi szolgálati viszonyát felmentéssel kell megszüntetni, ha hivatásos állományú katonai szolgálati viszonya megszűnt, és más ügyészi munkakörben történő foglalkoztatásához nem járul hozzá, vagy az alkalmasságának megfelelő másik betölthető ügyészi munkakör nincs. Ilyen esetben a Munka Törvénykönyvében írt felmondási tilalmakat nem kell figyelembe venni. Ha a katonai ügyész ügyészségi szolgálati viszonya más okból szűnik meg, a legfőbb ügyész a hivatásos állományú katonát a Honvéd Vezérkar főnökének a rendelkezésére bocsátja. Ha a katonai ügyész hivatásos katonai szolgálati viszonya lemondással szűnt meg, és más ügyészi munkakörben történő foglalkoztatásához nem járul hozzá, ezt úgy kell tekinteni, hogy ügyészségi szolgálati viszonya a lemondási idő lejártának napjával lemondással megszűnik.

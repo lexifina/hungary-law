@@ -2,7 +2,7 @@
 
 ## A JOGVITÁK
 
-106. § (1) Az ügyész az ügyészségi szolgálati viszonyából keletkező igényének érvényesítése érdekében, valamint a munkáltatói jogkör gyakorlójának intézkedése vagy az intézkedés elmulasztása miatt jogvitát kezdeményezhet. A jogvitára az e törvényben meghatározott eltérésekkel a Munka Törvénykönyvének a munkaügyi jogvitákra vonatkozó szabályait kell alkalmazni.
+106. § (1) Az ügyész az ügyészségi szolgálati viszonyából keletkező, valamint a munkáltatói jogkör gyakorlójának intézkedése vagy az intézkedés elmulasztása miatti igényének érvényesítése érdekében bírósághoz fordulhat. A jogvitára az e törvényben meghatározott eltérésekkel a munka törvénykönyvének a munkajogi igény érvényesítésére vonatkozó szabályait kell alkalmazni.
 
 (2) Nem kezdeményezhető jogvita
 

@@ -6,4 +6,4 @@
 
 (4) Az írnokot a IV. fizetési osztályba kell besorolni.
 
-(5) A fizikai alkalmazott alapilletményét a felek közös megegyezésével a Munka Törvénykönyve alapján kell megállapítani.
+(5) A fizikai alkalmazott alapilletményét a felek közös megegyezésével a munka törvénykönyvének a munka díjazására irányadó szabályai szerint kell megállapítani.
