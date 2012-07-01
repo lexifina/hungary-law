@@ -1,6 +1,6 @@
-## 2/B. §[^17]
+## 2/B. §[^18] Ha a műemléken építésügyi hatósági engedélyhez kötött építési tevékenység mellett örökségvédelmi hatósági engedélyhez kötött építési munkát is kell végezni, akkor a Kulturális Örökségvédelmi Hivatalról, a kulturális örökségvédelmi szakigazgatási szervekről, és eljárásaikra vonatkozó általános szabályokról szóló 324/2010. (XII. 27.) Korm. rendelet 5. § (1) bekezdés 12. pont e) és f) alpontjában, 5. § (1) bekezdés 13. és 14. pontjában meghatározott építési munkák elvégzését is az 1. § (1a) bekezdése szerinti építésügyi hatóság engedélyezi.
 
-2/C. §[^18] (1) Az építésügyi hatóság a repülőtér létesítésének, fejlesztésének és megszüntetésének szabályairól szóló kormányrendeletben meghatározott esetekben szakhatóságként
+2/C. §[^19] (1) Az építésügyi hatóság a repülőtér létesítésének, fejlesztésének és megszüntetésének szabályairól szóló kormányrendeletben meghatározott esetekben szakhatóságként
 
 a) helyszíni szemlét tart,
 
@@ -26,5 +26,5 @@ g) fennmaradási engedélyezés esetén vizsgálja az Elj.R. 40. § (2)–(6) be
 
 (4) Az előzetes szakhatósági állásfoglalás kiadására a (3) bekezdésben foglaltakat kell alkalmazni azzal, hogy a szakhatóság az előzetes szakhatósági állásfoglalást nem küldi meg az eljáró hatóságnak.
 
-[^17]: A 2/B. §-t a 311/2009. (XII. 28.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 329/2010. (XII. 27.) Korm. rendelet 5. § a) pontja.
-[^18]: A 2/C. §-t a 177/2010. (V. 13.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^18]: A 2/B. §-t a 311/2009. (XII. 28.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 329/2010. (XII. 27.) Korm. rendelet 5. § a) pontja, újonnan a 134/2012. (VI. 28.) Korm. rendelet 6. §-a iktatta be.
+[^19]: A 2/C. §-t a 177/2010. (V. 13.) Korm. rendelet 10. § (3) bekezdése iktatta be.

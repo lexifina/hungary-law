@@ -4,6 +4,6 @@
 
 (2) A másodfokú építésügyi hatóság az építésügyért felelős miniszter által meghatározottak szerint közreműködik a szakmai képzések, továbbképzések szervezésében.
 
-(3)[^14]
+(3)[^15]
 
-[^14]: A 2. § (3) bekezdését a 69/2007. (IV. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^15]: A 2. § (3) bekezdését a 69/2007. (IV. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte.
