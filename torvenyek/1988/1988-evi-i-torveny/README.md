@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2012-04-15 | 2012. évi II. törvény | 1988-1-00-00.49 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 1988-1-00-00.50 |
 | 2012-06-30 | 2012. évi LXXXIV. törvény | 1988-1-00-00.51 |
+| 2012-07-01 | 2012. évi XLI. törvény | 1988-1-00-00.52 |

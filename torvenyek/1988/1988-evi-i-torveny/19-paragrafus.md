@@ -12,9 +12,7 @@ e törvénnyel és a 48. § (3) bekezdés a) pont 5. alpontja alapján kiadott k
 
 (1a) A közúti árutovábbítási, az autóbusszal díj ellenében végzett személyszállítási és a személygépkocsival díj ellenében végzett személyszállítási tevékenység (a továbbiakban együtt: közúti közlekedési szolgáltatás), valamint a saját számlás áruszállítási és a saját számlás személyszállítási tevékenység, továbbá az e tevékenységekhez használt járművek üzemeltetése a Kormány rendeletében meghatározott feltételekkel végezhető.
 
-(2) A település területén levő taxiállomások igénybevételének rendjét az önkormányzat rendeletben állapíthatja meg.
-
-(3) A közforgalmú személyszállításra az üzembentartót szerződéskötési kötelezettség terheli.
+(2)–(3)
 
 (4) A közlekedési hatóságnál a közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló külön jogszabályban meghatározott árufuvarozásra és személygépkocsival, autóbusszal végzett személyszállításra vonatkozó engedélyek kiadásával, módosításával és visszavonásával kapcsolatos ügyekben a kérelem elektronikus úton nem terjeszthető elő.
 

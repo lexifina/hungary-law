@@ -12,6 +12,6 @@
 
 (7) A (6) bekezdésben foglalt rendelkezéseket kell megfelelően alkalmazni abban az esetben is, ha a munkavállaló korábbi munkaviszonya megszűnt vagy megszűnik, de négy hónapnál nem régebben korábbi munkaviszonyában munkát végzett.
 
-(8) A (4)–(7) bekezdések alkalmazása során az Mt. 126. §-a (1) bekezdésének b) pontja szerinti rendkívüli munkavégzés időtartamát is figyelembe kell venni.
+(8) A (4)–(7) bekezdések alkalmazása során az Mt. 107. § b) pontja szerinti rendkívüli munkaidőt is figyelembe kell venni.
 
 (9) A (6) és (7) bekezdésben foglalt kötelezettségek munkáltatói teljesítése céljából a munkavállaló köteles havonta, illetve a munkáltató által előírt gyakorisággal írásban elszámolni a más munkáltatónál munkavégzéssel töltött időről.

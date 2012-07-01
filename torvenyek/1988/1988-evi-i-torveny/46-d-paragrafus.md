@@ -17,3 +17,5 @@ során a vizsgáztatásról, vizsgálatról és ellenőrzésről – adatrögzí
 a) az adott területen elektronikus megfigyelőrendszer alkalmazásáról (térfigyelés),
 
 b) az elektronikus biztonságtechnikai rendszer által folytatott közvetlen megfigyelési rendszert alkalmazó üzemeltetőről, továbbá a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvénynek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről.
+
+(4) Az (1) bekezdés a) pontja szerinti esetben az (1)–(3) bekezdés szerinti kép- és hangmegfigyelésre vonatkozó előírásokat a vizsgaközpontra is alkalmazni kell.

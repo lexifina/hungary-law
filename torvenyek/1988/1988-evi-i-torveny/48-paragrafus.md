@@ -20,7 +20,7 @@ a) a Kormány, hogy
 
 7. a közlekedési hatóság vagy hatóságok kijelölését,
 
-8. a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályait,
+8. a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályait, továbbá a vizsgaközpont kijelölését,
 
 9. a közúti közlekedés szabályait,
 
@@ -140,11 +140,13 @@ b) a miniszter, hogy
 
 33. a közúti infrastruktúra közlekedésbiztonsági kezeléséről szóló iránymutatásokat,
 
+34. a 24. § (11) bekezdésében meghatározott szervezet vagy szervezetek kijelölését, és az azzal összefüggésben ellátandó feladatokat,
+
 c) a miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter egyetértésével kiadott,
 
 d) a közlekedésrendészetért felelős miniszter, hogy a közlekedésrendészeti intézkedések végrehajtásának módját;
 
-e) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a közlekedési hatóság eljárási, felügyeleti és egyéb díjait, valamint a díjaknak az eljáró hatóság, illetve az irányítási, a felügyeleti és az ellenőrzési feladatot ellátó szervezetek közötti megosztása szabályait,
+e) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a közlekedési hatóság eljárási, felügyeleti és egyéb díjait, a közúti járművezetők és a közúti közlekedési szakemberek vizsgáztatásának díjait, valamint a díjaknak az eljáró hatóság és a vizsgaközpont, továbbá az irányítási, a felügyeleti és az ellenőrzési feladatot ellátó szervezetek közötti megosztása szabályait,
 
 f) a miniszter, hogy a 18. § (7) bekezdésében, a 20. § (1) bekezdésében és a 29/A. § (1) bekezdésében meghatározott bírság kivetésének részletes szabályait és a bírság felhasználásának rendjét az adópolitikáért felelős miniszterrel egyetértésben,
 
@@ -194,7 +196,7 @@ d) a díjköteles várakozás megengedett leghosszabb időtartamát,
 
 e) a díjfizetés alól mentesítettek, valamint a kedvezményes várakozásra jogosultak körét, a kedvezményes várakozási díj mértékét, azzal, hogy a kedvezményes várakozásra jogosultak körének bővítésére a kerületi képviselő-testület jogosult.
 
-(5a) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, a főváros esetében a fővárosi önkormányzat képviselő-testülete, hogy a személytaxi és a személygépkocsival végzett személyszállítási szolgáltatás folytatásának, a személyszállítási szolgáltatást közvetítő és szervező szolgálat működésének – a Kormány rendeletében meghatározott feltételeken túli – műszaki, személyi és pénzügyi alkalmassági feltételeit, valamint a település területén lévő taxiállomások igénybevételének rendjét rendeletben határozza meg.
+(5a)
 
 (6) Az e törvényben meghatározott díjat, pótdíjat – a 9/C. § (1) bekezdésében, a 15. § (3) bekezdésében, a 15/A. § (1) bekezdésben és a 15/C. § (1) bekezdésében és a 33/A. §-ban meghatározott díj és pótdíj kivételével – a fizetés elmulasztása esetén adók módjára kell behajtani.
 

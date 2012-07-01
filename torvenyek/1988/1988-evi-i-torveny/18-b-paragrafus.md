@@ -1,6 +1,6 @@
 18/B. § A 18/B–18/L. §-ok alkalmazásában:
 
-a) munkaidő: az Mt. 117. §-a (1) bekezdésének a) pontjában foglaltakra figyelemmel különösen
+a) munkaidő: az Mt. 86. § (1) bekezdésében foglaltakra figyelemmel különösen
 
 aa) a közúti személyszállítási, illetve árufuvarozási tevékenységre fordított teljes idő, amely magában foglalja a vezetési időt, a be- és kirakodásra fordított időt, az utasok be- és kiszállásánál való segédkezéssel töltött időt, a jármű takarításával és karbantartásával töltött időt, valamint a jármű, a rakomány vagy az utasok biztonságával kapcsolatos tevékenység idejét és a vonatkozó előírások teljesítésére fordított időt, ideértve a be- és kirakodás felügyeletét, továbbá a rendőrségi, vám-, határőrizeti és az adott szállítási tevékenységgel összefüggésben felmerülő bármely hatósági eljárás időtartamát,
 

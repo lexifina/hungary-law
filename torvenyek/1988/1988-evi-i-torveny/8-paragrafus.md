@@ -8,7 +8,7 @@ b) a közúti közlekedés szervezeti és működési feltételeinek meghatároz
 
 c) a közúti közlekedés hatósági, igazgatási és nyilvántartási feladatainak ellátása;
 
-d) a tömegközlekedés működtetésének biztosítása;
+d)
 
 e) a közúti közlekedés biztonságát szolgáló nevelés, felvilágosítás és propaganda;
 

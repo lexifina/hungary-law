@@ -9,3 +9,9 @@
 (7) A 24/A. § (2) bekezdésében említett vizsgáló állomást a miniszter által rendeletben meghatározott hatósági eljárások díjának a jogszabályban foglalt hányada illeti meg.
 
 (8) A közlekedési hatóság a forgalomba helyezés előtti és az időszakos vizsgálaton bemutatott jármű vizsgálatát és a vizsgálati eredmények rögzítését követően, a vizsgálati eredmények valódisága ellenőrzésének idejére, de legfeljebb két óra időtartamra, a jármű vizsgáló állomáson történő visszatartását rendelheti el.
+
+(9) A forgalomba helyezés előtti és az időszakos vizsgálat elvégzéséért megfizetett igazgatási szolgáltatási díjnak a Kormány rendeletében meghatározott hányadát a közúti közlekedés biztonsága érdekében végzett állami feladatok teljesítésére kell felhasználni.
+
+(10) A forgalomba helyezés előtti és az időszakos vizsgálat keretében elvégzett környezetvédelmi felülvizsgálatért megfizetett igazgatási szolgáltatási díjnak a miniszter rendeletében környezetvédelmi hozzájárulásként meghatározott hányadát a közlekedési környezetvédelem érdekében végzett állami feladatok teljesítésére kell felhasználni.
+
+(11) A közúti közlekedés biztonságát és környezetvédelmét szolgáló – a miniszter feladatkörébe tartozó – kutatási, fejlesztési és koordinációs feladatok végrehajtására a miniszter e feladatok ellátására alapított szervezetet jelöl ki. A kijelölt szervezet számára – a (9) és (10) bekezdésekben meghatározott forrásból a miniszter által vezetett minisztérium igazgatása terhére – a miniszter döntése alapján támogatás is nyújtható.
