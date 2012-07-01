@@ -1,0 +1,1 @@
+99. § A helyi önkormányzatok címzett és céltámogatási rendszeréről szóló 1992. évi LXXXIX. törvény 1. § (3) bekezdésében az „a Regionális Egészségügyi Tanácsokkal” szövegrész helyébe az „a kijelölt térségi egészségszervezésért felelős államigazgatási szervvel” szöveg lép.
