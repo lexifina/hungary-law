@@ -1,1 +1,0 @@
-83. § Ha a munkavállalót megállapodás alapján határozott időre a munkaszerződéstől eltérően foglalkoztatják, a határozott idő lejártát követően a munkaszerződés szerint kell továbbfoglalkoztatni, és munkabérét az időközben bekövetkezett bérfejlesztésekre tekintettel módosítani kell.

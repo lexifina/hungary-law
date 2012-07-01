@@ -1,1 +1,0 @@
-192/D. § E törvény alkalmazásában távmunkát végző munkavállaló: a munkáltató működési körébe tartozó tevékenységet rendszeresen az általa választott, a munkáltató székhelyétől, telephelyétől elkülönült helyen, információtechnológiai és informatikai eszközzel végző és a munkavégzés eredményét elektronikus eszközzel továbbító munkavállaló.

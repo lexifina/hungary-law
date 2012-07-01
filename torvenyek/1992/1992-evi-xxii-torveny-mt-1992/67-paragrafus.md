@@ -1,1 +1,0 @@
-67. § A 65. § (1)—(3) bekezdésében foglaltakat sértő munkáltatói intézkedés érvénytelen. Ennek megállapítása iránt az üzemi tanács bírósághoz fordulhat. A bíróság nemperes eljárásban, tizenöt napon belül határoz.

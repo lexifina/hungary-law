@@ -1,1 +1,0 @@
-32. § Kollektív szerződés kötésére az a szakszervezet, illetve az a munkáltatói érdekképviseleti szervezet jogosult, amely érdekképviseleti tevékenységében a kollektív szerződést kötő másik féllel szemben független. A munkáltatói érdekképviseleti szervezet kollektívszerződés-kötési jogosultságához szükséges az is, hogy tagjai erre felhatalmazzák.

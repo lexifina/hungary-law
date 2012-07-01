@@ -1,1 +1,0 @@
-86/A. § Ha a munkaviszony a 86. § b) pontjában foglaltak alapján szűnik meg, a munkavállaló részére a munkáltató rendes felmondása esetén meghatározott munkavégzés alóli mentesítési idejére járó átlagkeresetnek megfelelő összeget ki kell fizetni, kivéve, ha rendes felmondás esetén a munkavégzés alóli mentesítés időtartamára a munkavállaló munkabérre nem lenne jogosult.

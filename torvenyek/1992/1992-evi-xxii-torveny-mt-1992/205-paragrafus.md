@@ -1,1 +1,0 @@
-205. § Az államháztartásról szóló 1992. évi XXXVIII. törvény módosításáról szóló 2011. évi XXXI. törvénnyel megállapított 137. § (1) bekezdését a 2011. április 30-át követően bekövetkező keresőképtelenség esetén kell alkalmazni.

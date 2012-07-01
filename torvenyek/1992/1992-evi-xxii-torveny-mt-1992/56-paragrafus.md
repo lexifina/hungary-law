@@ -1,1 +1,0 @@
-56. § Ha az üzemi tanács az 55. § (1) bekezdés c)–g) pontjában meghatározott ok miatt megszűnik, a megszűnéstől számított három hónapon belül üzemi tanácsot kell választani. Ezt a szabályt kell megfelelően alkalmazni akkor is, ha az üzemi megbízott megbízatása szűnik meg.

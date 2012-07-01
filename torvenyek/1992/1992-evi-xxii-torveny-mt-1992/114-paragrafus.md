@@ -1,1 +1,0 @@
-114. § A tanulmányi szerződéssel kapcsolatban felmerült vitát — kivéve a nappali tagozatos iskolai rendszerű képzésben való részvételre kötött szerződést — a munkaügyi jogviták eldöntésére vonatkozó szabályok szerint kell elbírálni.

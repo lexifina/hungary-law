@@ -10,4 +10,4 @@
 
 ## A munkaviszony alanyai
 
-71. § A munkaviszony alanyai a munkáltató és a munkavállaló.
+71–75. §

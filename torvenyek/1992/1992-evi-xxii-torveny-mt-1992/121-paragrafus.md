@@ -1,3 +1,0 @@
-121. § (1) A 127. § (6) bekezdése a)–b) pontjában meghatározott munkavállaló éjszakai munkára [117. § (1) bekezdés d) pont] nem vehető igénybe. Ettől érvényesen eltérni nem lehet.
-
-(2) A 117. § (1) bekezdése h) pontjában meghatározott munkavállaló részére a munkáltató a munkába lépést megelőzően, illetve a munkaviszony fennállása alatt rendszeres időközönként köteles biztosítania az egészségügyi alkalmassági vizsgálatot. Ha az orvosi vizsgálat megállapítja, hogy az éjszakai munkavégzés a munkavállaló egészségi állapotát veszélyeztetheti, vagy megbetegedése az éjszakai munkavégzéssel áll okozati összefüggésben, a munkavállalót nappali munkavégzésre kell beosztani.

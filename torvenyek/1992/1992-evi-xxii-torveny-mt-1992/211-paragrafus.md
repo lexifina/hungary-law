@@ -1,10 +1,4 @@
-211. § (1) Az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény (a továbbiakban: Módtv.) 6. §-ának hatálybalépését megelőző három éven belül megválasztott üzemi tanácsok (üzemi megbízottak) megbízatása a munkavédelemről szóló törvény által a munkavédelmi képviselő választására meghatározott következő időpontig tart.
-
-(2) A Módtv. hatálybalépését követően első alkalommal új üzemi tanácsot (üzemi megbízottat) a Módtv. hatálybalépésekor működő munkavédelmi képviselőnek a munkavédelemről szóló törvénynek a Módtv. hatálybalépését megelőző időpontban hatályos szabályai szerinti megbízatásának lejártáig, de legkésőbb a Módtv. hatálybalépésétől számított négy éven belül kell megválasztani.
-
-(3) 2012. január 1-jéig nem köthető megállapodás e törvénynek a Módtv. 8. §-ával megállapított 117/C. §-a alapján azon munkáltató és munkavállaló által, akik között a 117/C. § 2010. december 31-ig hatályos szövege szerint korábban jött létre megállapodás.
-
-(4) E törvény 117/C. §-ának 2010. december 31-ig hatályos szövege alapján létrejött, munkáltató és munkavállaló közötti megállapodásokat a Módtv. 8. §-ával bevezetett módosítása nem érinti.
+211. § (1)–(4)
 
 (5) A 130. § (2) bekezdés c) pontja szerint a szabadságra jogosító idő szabályait a Módtv. hatálybalépését követően kezdődött fizetés nélküli szabadság esetében kell alkalmazni.
 
@@ -14,8 +8,4 @@
 
 (6a) A 2011. augusztus 1-je után kezdődő és az azt követően lejáró fizetés nélküli szabadságok megszűnésekor a (6) bekezdés szerint köthető megállapodás alapján a fizetés nélküli szabadság első hat hónapjára járó szabadságot lehet csak pénzben megváltani abban az esetben is, ha az igénybevett fizetés nélküli szabadság [138. § (5) bekezdés] első évére jár a munkavállaló részére szabadság.
 
-(7) A XI. fejezetnek a Módtv. 15–20. §-ával módosított rendelkezéseit első alkalommal a 2011. december 1-jét követően létesített munkaviszonyokra kell alkalmazni. E rendelkezések végrehajtása érdekében a kollektív szerződéseket legkésőbb 2011. december 31-ig felül kell vizsgálni.
-
-(7a) A kikölcsönzés ideiglenességére vonatkozó rendelkezéseket a 2011. december 1-jét megelőzően létesített határozatlan idejű munkaviszonyokban történő kikölcsönzés esetén is alkalmazni kell azzal, hogy a kikölcsönzés időtartamának számítása során kezdő időpontnak 2011. december 1-jét kell tekinteni.
-
-(8) A Módtv.-vel megállapított XII/A. fejezet rendelkezései nem érintik a Módtv. hatálybalépésének időpontjában az iskolaszövetkezet és tagja között fennálló munkaszerződéseket, valamint e szerződések alapján a harmadik személynél történő munkavégzést.
+(7)–(8)

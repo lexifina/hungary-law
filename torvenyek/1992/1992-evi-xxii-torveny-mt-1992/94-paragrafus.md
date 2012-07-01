@@ -1,1 +1,0 @@
-94. § A munkáltató rendes felmondása esetén, ha a munkavállaló a felmondási idő alatt munkaviszonyának megszüntetését a munkavégzés alóli felmentése előtti időpontra kéri, a munkáltató köteles a munkaviszonyt a munkavállaló által megjelölt időpontban megszüntetni.

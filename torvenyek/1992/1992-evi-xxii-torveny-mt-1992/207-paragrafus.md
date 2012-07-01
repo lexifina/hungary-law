@@ -1,1 +1,1 @@
-207. § E törvény hatálybalépése előtt megkötött tanulmányi szerződésre, illetve megkezdett tanulmányokkal kapcsolatos kedvezményekre a megkötéskori, illetve a tanulmányok megkezdésekor hatályos jogot kell alkalmazni.
+207–210. §

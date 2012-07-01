@@ -1,1 +1,1 @@
-201. § A kollektív szerződésben, illetve a felek megállapodásában meghatározott békéltetés (199/A. §) eredménytelenségének megállapítását követően – a 202. §-ban foglalt kivétellel – az elévülési időn belül lehet bírósághoz fordulni. A keresetnek az intézkedés végrehajtására – a 23. §, a 67. §, illetve a 202. § (1) bekezdésének d)–e) pontját kivéve – halasztó hatálya nincs.
+201–202. §

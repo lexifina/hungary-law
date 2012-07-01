@@ -1,3 +1,1 @@
-85/C. § (1) Felszámolási eljárásban a 40/A. §, a 85/A. § (2)–(6) bekezdése, valamint a 89. § (4) bekezdése nem alkalmazandó.
-
-(2) Amennyiben a felszámolás keretén belül a felszámolási vagyon értékesítése során olyan átruházás történik, amely megfelel a 85/A. § (1) bekezdés b) pontjában foglaltaknak, úgy a 85/B. § (1) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy a felszámolás alatt álló átadó munkáltató és az átvevő munkáltató a 85/B. § (1) bekezdés a)–c) pontjában meghatározott tájékoztatást a felszámolási eljárás sajátosságaira tekintettel az átruházás előtt megfelelő időben köteles megadni a munkáltatónál képviselettel rendelkező szakszervezet, szakszervezet hiányában az üzemi tanács, üzemi tanács hiányában a nem szervezett munkavállalók képviselőiből létrehozott bizottság részére.
+85/C. §

@@ -1,1 +1,0 @@
-9. § A semmis és a sikeresen megtámadott megállapodás érvénytelen. Ha a megállapodás valamely része érvénytelen, helyette a munkaviszonyra vonatkozó szabályt kell alkalmazni, kivéve, ha a felek az érvénytelen rész nélkül nem állapodtak volna meg.

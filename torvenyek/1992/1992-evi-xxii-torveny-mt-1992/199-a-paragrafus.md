@@ -1,1 +1,0 @@
-199/A. § Kollektív szerződésben, illetve a felek megállapodásában munkaügyi jogvita esetére békéltető személyét köthetik ki, aki a vitában egyezség létrehozását kísérli meg. Az egyeztetést a békéltetőnél kell e törvény szabályai szerint kezdeményezni. A békéltető az egyezséget köteles írásba foglalni.

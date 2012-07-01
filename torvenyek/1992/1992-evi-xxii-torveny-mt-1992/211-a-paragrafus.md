@@ -1,1 +1,1 @@
-211/A. § E törvénynek a nemzetgazdasági szempontból kiemelt jelentőségű gazdálkodó szervezetek csődeljárásának és felszámolásának különleges szabályairól és az azzal összefüggő törvénymódosításokról szóló törvénnyel megállapított rendelkezéseit a hatálybalépést követően kezdeményezett csődeljárásokban és felszámolási eljárásokban kell alkalmazni.
+211/A. §

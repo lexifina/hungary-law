@@ -4,4 +4,4 @@
 
 ## Munkabér
 
-141. § A munkavállalónak munkaviszonya alapján a munkáltatótól munkabér jár; az ettől eltérő megállapodás érvénytelen.
+141–149/A. §
