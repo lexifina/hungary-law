@@ -64,7 +64,7 @@ módját és technikai feltételeit.
 
 a) az adózó az adószámlája adataihoz, valamint az e törvény 52. § (15) bekezdése szerinti adatokhoz,
 
-b) a munkáltató (kifizető) az általa teljesített, e törvény 16. § (4) bekezdés szerinti bejelentés és a 31. § (2) bekezdés szerinti bevallás adataihoz,
+b) a munkáltató (kifizető) az általa teljesített, 16. § (4) és (4b) bekezdés szerinti bejelentés és a 31. § (2) bekezdés szerinti bevallás adataihoz,
 
 c) a magánszemély adózó a b) pont szerinti saját magára vonatkozó adatokhoz
 

@@ -20,7 +20,11 @@ g) a társasház (társasüdülő, társasgarázs), építőközösség adótart
 
 h) a vagyontárgy minden tulajdonosa a közös tulajdont terhelő adó tekintetében,
 
-i) a szülői felügyelet alatt álló kiskorú gyermek adótartozásáért – a munkakeresményéből eredő adótartozás kivételével – a szülői felügyeletet gyakorló szülő az általa kezelt vagyon erejéig.
+i) a szülői felügyelet alatt álló kiskorú gyermek adótartozásáért – a munkakeresményéből eredő adótartozás kivételével – a szülői felügyeletet gyakorló szülő az általa kezelt vagyon erejéig,
+
+j) több munkáltató által létesített munkaviszony esetén, az e törvény szerint munkáltatónak nem minősülő, a munka törvénykönyvéről szóló törvény szerinti munkáltató a munkaviszonnyal összefüggő adó tekintetében,
+
+k) több munkáltató által létesített munkaviszonnyal összefüggő adó tekintetében az, aki az adófizetési kötelezettség keletkezésekor a munkaviszonyban a munka törvénykönyvéről szóló törvény szerint munkáltatóként vett részt, ha a j) pont alapján adófizetésre kötelezett az adót nem fizette meg, és azt tőle nem lehet behajtani.
 
 (3) A (2) bekezdés szerinti határozat hiánya nem zárja ki a követelés peres vagy nemperes eljárásban történő érvényesítését azzal, hogy engedményezett követelés esetén a követelés érvényesítésére kizárólag akkor kerülhet sor, ha a követelésnek a behajtására jogosult szervezet általi engedményezésére 2005. július 10-ét követően került sor.
 

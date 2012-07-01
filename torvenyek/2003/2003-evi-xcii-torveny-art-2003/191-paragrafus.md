@@ -1,0 +1,1 @@
+191. § A fordított adózás mezőgazdasági szektorra történő kiterjesztésével kapcsolatban egyes törvények módosításáról szóló 2012. évi XLIX. törvénnyel megállapított 31/A. §-t utoljára a 2014. június 30. napját magába foglaló adómegállapítási időszak tekintetében kell alkalmazni.

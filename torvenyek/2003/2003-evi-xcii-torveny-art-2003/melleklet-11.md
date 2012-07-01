@@ -41,23 +41,3 @@ Valtion varalllisuusvero/den statliga förmögenhetsskatten, Kiinteistövero/fas
 16. a Luxemburgi Nagyhercegség esetében: Impôt sur le revenu des personnes physiques, Impôt sur le revenu des collectivités, Impôt commercial communal, Impôt sur la fortune, Impôt foncier;
 
 17. a Máltai Köztársaság esetében: taxxa fuq l-income;
-
-18. a Németországi Szövetségi Köztársaság esetében: Einkommensteuer, Körperschaftsteuer, Vermögensteuer, Gewerbesteuer, Grundsteuer;
-
-19. az Olasz Köztársaság esetében: Imposta sul reddito delle persone fisiche, Imposta sul reddito delle persone giuridiche, Imposta locale sui redditi;
-
-20. az Osztrák Köztársaság esetében: Einkommensteuer, Körperschaftsteuer, Grundsteuer Bodenwertabgabe, Abgabe von land- und forstwirtschaftlichen Betrieben;
-
-21. a Portugál Köztársaság esetében: Contribuição predial, Imposto sobre a indústria agrícola, Contribuição industrial, Imposto de capitais, Imposto profissional, Imposto complementar, Imposto de mais-valias, Imposto sobre o rendimento do petróleo, Os adicionais devidos sobre os impostos precedentes;
-
-22. Románia esetében: impozitul pe venit, impozitul pe profit, impozitul pe veniturile obtinute din România de nerezidenti, impozitul pe veniturile microîntreprinderilor, impozitul pe clădiri, impozitul pe teren;
-
-23. a Spanyol Királyság esetében: Impuesto sobre la Renta de las Personas Físicas, Impuesto sobre Sociedades, Impuesto Extraordinario sobre el Patrimonio de las personas Físicas;
-
-24. a Svéd Királyság esetében: Den statliga inkomstskatten, Sjömansskatten, Kupongskatten Den särskilda inkomstskatten för utomland bosatta, Den särskilda inkomstskatten för utomland bosatta artister m.ft., Den statliga fastighetsskatten, Den kommunala inskomstskatten, Förmögenhetsskatten;
-
-25. a Szlovák Köztársaság esetében: daň z príjmov fyzických osôb, daň z príjmov právnických osôb, daň z dedičstva, daň z darovania, daň z prevodu a prechodu nehnuteľností,
-
-daň z nehnuteľností, daň z pridanej hodnoty, spotrebné dane;
-
-26. a Szlovén Köztársaság esetében: Dohodnina Davki občanov, Davek od dobička pravnih oseb, Posebni davek na bilančno vsoto bank in hranilnic.
