@@ -1,4 +1,4 @@
-7. §[^15] (1)[^16] A központosított illetményszámfejtő hely feladatai:
+7. §[^16] (1)[^17] A központosított illetményszámfejtő hely feladatai:
 
 a) a központosított illetményszámfejtési körbe tartozó juttatásokra vonatkozó alapbizonylatok alaki, tartalmi ellenőrzése, adatainak feldolgozása, számfejtése,
 
@@ -6,7 +6,7 @@ b) a nettó járandóságok, közterhek megállapítása, a létszám, bér, tá
 
 c) a számfejtési körébe tartozó intézmények az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 31. §-ának (2) bekezdése szerinti bevallásának, valamint az Art. 16. §-ának (4) bekezdése szerinti biztosítotti bejelentési kötelezettségének teljesítése,
 
-d)[^17] a fizetési jegyzék elkészítése, a nettó járandóságok átutalásához szükséges adatállományok előállítása a munkavállalók fizetési számlájára történő utaláshoz,
+d)[^18] a fizetési jegyzék elkészítése, a nettó járandóságok átutalásához szükséges adatállományok előállítása a munkavállalók fizetési számlájára történő utaláshoz,
 
 e) a személyi jövedelemadó megállapításával és elszámolásával kapcsolatos munkáltatói feladatok ellátása,
 
@@ -22,21 +22,21 @@ i) külön megállapodás alapján a költségvetési szerv (2) bekezdés b) és
 
 a) elkészíti a rendszeres és nem rendszeres személyi juttatások illetményszámfejtési alapbizonylatait az előírt adattartalommal, és azt eljuttatja az illetményszámfejtő hely részére,
 
-b)[^18] számfejti a nem rendszeres és külső személyi juttatásokat, és erről adatszolgáltatást teljesít az illetményszámfejtő hely felé,
+b)[^19] számfejti a nem rendszeres és külső személyi juttatásokat, és erről adatszolgáltatást teljesít az illetményszámfejtő hely felé,
 
-c)[^19] továbbítja az illetményszámfejtő hely társadalombiztosítási kifizetőhelyi feladatai ellátásához szükséges iratokat és adatokat,
+c)[^20] továbbítja az illetményszámfejtő hely társadalombiztosítási kifizetőhelyi feladatai ellátásához szükséges iratokat és adatokat,
 
-d)[^20] gondoskodik a nettó járandóságok és a levonások átutalásáról.
+d)[^21] gondoskodik a nettó járandóságok és a levonások átutalásáról.
 
-(3)[^21] A helyi önkormányzatok nettó finanszírozása körébe tartozó szervek a (2) bekezdés d) pontjában foglalt tevékenységüket külön jogszabályok szerint látják el.
+(3)[^22] A helyi önkormányzatok nettó finanszírozása körébe tartozó szervek a (2) bekezdés d) pontjában foglalt tevékenységüket külön jogszabályok szerint látják el.
 
-(4)[^22] Az illetményszámfejtő hely a helyi önkormányzatok nettó finanszírozása körébe nem tartozó szervek vonatkozásában az (1) bekezdés f) pontjában meghatározott feladatát külön jogszabály szerint látja el.
+(4)[^23] Az illetményszámfejtő hely a helyi önkormányzatok nettó finanszírozása körébe nem tartozó szervek vonatkozásában az (1) bekezdés f) pontjában meghatározott feladatát külön jogszabály szerint látja el.
 
-[^15]: A 7. § a 299/2005. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^16]: A 7. § (1) bekezdése a 81/2009. (IV. 10.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 6. §-át.
-[^17]: A 7. § (1) bekezdés d) pontja a 314/2009. (XII. 28.) Korm. rendelet 13. §-a szerint módosított szöveg.
-[^18]: A 7. § (2) bekezdés b) pontja a 81/2009. (IV. 10.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 6. §-át.
-[^19]: A 7. § (2) bekezdés c) pontja a 81/2009. (IV. 10.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 6. §-át.
-[^20]: A 7. § (2) bekezdés d) pontja a 81/2009. (IV. 10.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 6. §-át.
-[^21]: A 7. § (3) bekezdését a 81/2009. (IV. 10.) Korm. rendelet 4. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 6. §-át.
-[^22]: A 7. § (4) bekezdését a 81/2009. (IV. 10.) Korm. rendelet 4. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 6. §-át.
+[^16]: A 7. § a 299/2005. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^17]: A 7. § (1) bekezdése a 81/2009. (IV. 10.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 6. §-át.
+[^18]: A 7. § (1) bekezdés d) pontja a 314/2009. (XII. 28.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^19]: A 7. § (2) bekezdés b) pontja a 81/2009. (IV. 10.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 6. §-át.
+[^20]: A 7. § (2) bekezdés c) pontja a 81/2009. (IV. 10.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 6. §-át.
+[^21]: A 7. § (2) bekezdés d) pontja a 81/2009. (IV. 10.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 6. §-át.
+[^22]: A 7. § (3) bekezdését a 81/2009. (IV. 10.) Korm. rendelet 4. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 6. §-át.
+[^23]: A 7. § (4) bekezdését a 81/2009. (IV. 10.) Korm. rendelet 4. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 6. §-át.

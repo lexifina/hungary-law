@@ -1,8 +1,8 @@
-## 6. §[^9] A központosított illetményszámfejtés a Magyar Államkincstár elnöke által rendelkezésre bocsátott programrendszerrel, valamint külön jogszabályban meghatározott adattartalmú nyomtatványok használatával történik.
+## 6. §[^10] A központosított illetményszámfejtés a Magyar Államkincstár elnöke által rendelkezésre bocsátott programrendszerrel, valamint külön jogszabályban meghatározott adattartalmú nyomtatványok használatával történik.
 
-6/A. §[^10] (1)[^11] A központosított illetményszámfejtéssel kapcsolatos feladatokat az államháztartásért felelős miniszter, a Magyar Államkincstár és a fejezetet irányító szerv a (2)–(4) bekezdésben foglaltak szerint látja el.
+6/A. §[^11] (1)[^12] A központosított illetményszámfejtéssel kapcsolatos feladatokat az államháztartásért felelős miniszter, a Magyar Államkincstár és a fejezetet irányító szerv a (2)–(4) bekezdésben foglaltak szerint látja el.
 
-(2)[^12] Az államháztartásért felelős miniszter gondoskodik a központosított illetményszámfejtéssel kapcsolatos feladatok szabályozásáról, figyelemmel kíséri a végrehajtás rendjét és folyamatát.
+(2)[^13] Az államháztartásért felelős miniszter gondoskodik a központosított illetményszámfejtéssel kapcsolatos feladatok szabályozásáról, figyelemmel kíséri a végrehajtás rendjét és folyamatát.
 
 (3) A Magyar Államkincstár feladatai:
 
@@ -12,17 +12,17 @@ b) a központi létszám- és bérgazdálkodási, valamint statisztikai informá
 
 c) a központosított illetményszámfejtéshez szükséges nyomtatványok és a számítógépes programrendszer biztosítása, az illetményszámfejtő helyek és a hozzájuk tartozó költségvetési szervek nyilvántartása.
 
-(4)[^13] A fejezetet irányító szerv feladatai:
+(4)[^14] A fejezetet irányító szerv feladatai:
 
 a) kialakítja az illetményszámfejtő hely munkaügyi, ügyviteli, eljárási és információs rendjét, felügyeli annak működését,
 
 b) biztosítja az illetményszámfejtő hely részére a feladatellátáshoz szükséges személyi és tárgyi feltételeket,
 
-c)[^14] a Magyar Államkincstárt a változás napjától számított 8 munkanapon belül értesíti, ha az irányítása alá tartozó költségvetési szerv illetményszámfejtési helye megváltozik.
+c)[^15] a Magyar Államkincstárt a változás napjától számított 8 munkanapon belül értesíti, ha az irányítása alá tartozó költségvetési szerv illetményszámfejtési helye megváltozik.
 
-[^9]: A 6. § a 299/2005. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^10]: A 6/A. §-t a 299/2005. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
-[^11]: A 6/A. § (1) bekezdése a 81/2009. (IV. 10.) Korm. rendelet 5. § (2) bekezdése, a 113/2011. (VII. 7.) Korm. rendelet 12. §-a szerint módosított szöveg.
-[^12]: [A 6/A. § (2) bekezdése a 113/2011. (VII. 7.) Korm. rendelet 12. §-a szerint módosított szöveg.
-[^13]: A 6/A. § (4) bekezdés bevezető szövegrésze a 81/2009. (IV. 10.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 6. §-át.
-[^14]: A 6/A. § (4) bekezdés c) pontja a 81/2009. (IV. 10.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 6. §-át.
+[^10]: A 6. § a 299/2005. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^11]: A 6/A. §-t a 299/2005. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
+[^12]: A 6/A. § (1) bekezdése a 81/2009. (IV. 10.) Korm. rendelet 5. § (2) bekezdése, a 113/2011. (VII. 7.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^13]: [A 6/A. § (2) bekezdése a 113/2011. (VII. 7.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^14]: A 6/A. § (4) bekezdés bevezető szövegrésze a 81/2009. (IV. 10.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 6. §-át.
+[^15]: A 6/A. § (4) bekezdés c) pontja a 81/2009. (IV. 10.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 6. §-át.
