@@ -1,0 +1,1 @@
+241. § A választásra jogosult, valamint a választható munkavállalók névsorát a választási bizottság állapítja meg és a választást megelőzően legalább ötven nappal teszi közzé. Az ehhez szükséges adatokat a választási bizottság kérésére, öt napon belül a munkáltató adja meg.

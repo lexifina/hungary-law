@@ -1,0 +1,1 @@
+188. § A munkáltató a leltárhiánnyal kapcsolatos kártérítési igényét a leltárfelvétel befejezését követő hatvannapos jogvesztő határidő alatt érvényesítheti. Büntetőeljárás esetén e határidő harminc nap és a nyomozó hatóság vagy a bíróság jogerős határozatának közlését követő napon kezdődik.

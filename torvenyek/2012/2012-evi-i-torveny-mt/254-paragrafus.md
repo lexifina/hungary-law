@@ -1,0 +1,1 @@
+254. § Az üzemi tanács a 252. § b)–c) és f)–g) pontban meghatározott ok miatti megszűnése esetén megbízatása az új üzemi tanács megválasztásáig, de legfeljebb a megszűnéstől számított három hónapig fennmarad.

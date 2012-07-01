@@ -1,0 +1,29 @@
+## 71. Eltérő megállapodás
+
+165. § (1) A felek megállapodása vagy kollektív szerződés
+
+a) a 136. §-ban,
+
+b) a 137. § (3) bekezdésében,
+
+c) a 138. § (1)–(5) bekezdésében,
+
+d) a 139. § (1) bekezdésében,
+
+e) a 154. §-ban,
+
+f) a 159. § (5)–(6) bekezdésében,
+
+g) a 161–163. §-ban
+
+foglaltaktól nem térhet el.
+
+(2) Kollektív szerződés
+
+a) a 138. § (6) bekezdésében,
+
+b) a 160. §-ban,
+
+c) a 164. §-ban
+
+foglaltaktól csak a munkavállaló javára térhet el.

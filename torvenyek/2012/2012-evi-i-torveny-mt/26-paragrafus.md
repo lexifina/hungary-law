@@ -1,0 +1,1 @@
+26. § A munkaviszonyra vonatkozó szabályban vagy a felek megállapodásában meghatározott, határidőnek nem minősülő időtartam számítására a 25. § (4)–(8) bekezdése nem alkalmazható, az ilyen időtartam számításánál a naptár az irányadó.

@@ -1,0 +1,1 @@
+141. § A több műszakos tevékenység keretében foglalkoztatott munkavállalónak, ha a beosztás szerinti napi munkaideje kezdetének időpontja rendszeresen változik, a tizennyolc és hat óra közötti időtartam alatt történő munkavégzés esetén harminc százalék bérpótlék (műszakpótlék) jár.

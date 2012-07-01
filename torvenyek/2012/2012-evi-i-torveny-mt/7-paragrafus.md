@@ -1,0 +1,1 @@
+7. § Tilos a rendeltetésellenes joggyakorlás. E törvény alkalmazásában rendeltetésellenes a jog gyakorlása különösen akkor, ha az mások jogos érdekeinek csorbítására, érdekérvényesítési lehetőségeinek korlátozására, zaklatására, véleménynyilvánításának elfojtására irányul vagy ehhez vezet.

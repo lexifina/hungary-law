@@ -1,0 +1,1 @@
+100. § A munkáltató – a felek megállapodása alapján – a napi munkaidőt legfeljebb két részletben is beoszthatja (osztott napi munkaidő). A beosztás szerinti napi munkaidők között legalább két óra pihenőidőt kell biztosítani.

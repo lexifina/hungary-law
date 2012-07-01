@@ -1,0 +1,1 @@
+37. § Az átadó munkáltató az átszállást megelőzően köteles tájékoztatni az átvevő munkáltatót az átszállással érintett munkaviszonyokból, valamint a versenytilalmi megállapodásokból és a tanulmányi szerződésekből származó jogokról és kötelezettségekről. A tájékoztatás elmaradása az átvevő munkáltatóval szemben e jogviszonyokból származó igények érvényesítését nem érinti.

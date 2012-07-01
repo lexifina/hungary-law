@@ -1,0 +1,1 @@
+275. § A szakszervezet képviseletében eljáró, munkaviszonyban nem álló személy, ha a szakszervezetnek a munkáltatóval munkaviszonyban álló tagja van, a munkáltató területére beléphet. A belépés és a munkahelyen való tartózkodás során a munkáltató működési rendjére vonatkozó szabályokat meg kell tartani.

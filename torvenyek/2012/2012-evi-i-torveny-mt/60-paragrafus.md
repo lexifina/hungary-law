@@ -1,0 +1,3 @@
+60. § (1) A munkavállaló számára egészségi állapotának megfelelő munkakört kell felajánlani, ha várandóssága megállapításától gyermeke egyéves koráig – munkaköri alkalmasságára vonatkozó orvosi vélemény alapján – a munkakörében nem foglalkoztatható. A munkavégzés alól fel kell menteni, ha az egészségi állapotának megfelelő foglalkoztatása nem lehetséges.
+
+(2) A munkavállaló a felajánlott munkakörnek megfelelő alapbérre jogosult, amely a munkaszerződés szerinti alapbérénél kevesebb nem lehet. A felmentés idejére alapbére illeti meg, kivéve, ha a felajánlott munkakört alapos ok nélkül nem fogadja el.

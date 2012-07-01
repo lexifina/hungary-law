@@ -1,0 +1,1 @@
+266. § Az üzemi tanács a munkáltatónál szervezett sztrájkkal kapcsolatban pártatlan magatartásra köteles, sztrájkot nem szervezhet, a sztrájkot nem támogathatja, és nem akadályozhatja. Az üzemi tanács sztrájkban részt vevő tagjának megbízatása a sztrájk idejére szünetel.

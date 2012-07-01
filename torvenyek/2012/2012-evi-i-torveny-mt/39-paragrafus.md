@@ -1,0 +1,1 @@
+39. § Az átadó és az átvevő munkáltató egyetemlegesen felel az átszállást megelőzően esedékessé vált munkavállalói követelésért, ha a munkavállaló az igényét az átszállást követő egy éven belül érvényesíti.

@@ -1,0 +1,1 @@
+297. § A szolgáltatás nyújtására irányuló szerződés megkötését megelőzően a jogosult köteles írásban tájékoztatni a külföldi munkáltatót a 295. §-ban foglaltak alapján irányadó munkafeltételekről. A tájékoztatás elmulasztása esetén a jogosult készfizető kezesként felel a munkavállaló 295. §-ban meghatározott követeléseiért.
