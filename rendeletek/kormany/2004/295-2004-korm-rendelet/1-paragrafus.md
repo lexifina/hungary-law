@@ -26,10 +26,13 @@ g) az orvostechnikai eszközökkel kapcsolatos piacfelügyeleti hatósági eljá
 
 h) azon eljárásokban, amelyek során a Hivatal másodfokon hoz első fokú végzést, és
 
-i) az orvostechnikai eszközök eseti használatbavételével kapcsolatos döntések esetében.
+i) az orvostechnikai eszközök eseti használatbavételével kapcsolatos döntések esetében,
 
-(4)[^3] A Hivatal látja el az orvostechnikai eszközök megfelelőségértékelésére jogosult szervek kijelölésével kapcsolatos kijelölő hatósági feladatokat.
+j)[^3] az orvostechnikai eszközök megfelelőség értékelésére való kijelöléssel kapcsolatban hozott döntések esetében.
+
+(4)[^4] A Hivatal látja el az orvostechnikai eszközök megfelelőségértékelésére jogosult szervek kijelölésével kapcsolatos kijelölő hatósági feladatokat.
 
 [^1]: Az 1. § (1) bekezdése a 337/2009. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 382. § (1) bekezdése iktatta be, szövege a 282/2011. (XII. 21.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (4) bekezdését a 282/2011. (XII. 21.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^3]: Az 1. § (3) bekezdés j) pontját a 137/2012. (VI. 29.) Korm. rendelet 33. §-a iktatta be.
+[^4]: Az 1. § (4) bekezdését a 282/2011. (XII. 21.) Korm. rendelet 11. § (2) bekezdése iktatta be.
