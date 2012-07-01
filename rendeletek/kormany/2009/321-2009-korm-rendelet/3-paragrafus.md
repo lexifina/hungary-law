@@ -4,8 +4,8 @@
 
 (3)[^10]
 
-(4)[^11] Az e rendelet szerinti eljárásokban a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér megyére, Komárom-Esztergom megyére és Veszprém megyére kiterjedő illetékességgel jár el.
+(4)[^11]
 
 [^9]: A 3. § (2) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 33. § (1) bekezdésével megállapított, a 330/2011. (XII. 29.) Korm. rendelet 22. §-a szerint módosított szöveg. szöveg.
 [^10]: A 3. § (3) bekezdését a 357/2010. (XII. 30.) Korm. rendelet 38. § (3) bekezdés c) pontja hatályon kívül helyezte.
-[^11]: A 3. § (4) bekezdését a 357/2010. (XII. 30.) Korm. rendelet 33. § (2) bekezdése iktatta be.
+[^11]: A 3. § (4) bekezdését a 357/2010. (XII. 30.) Korm. rendelet 33. § (2) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § r) pontja.
