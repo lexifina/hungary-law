@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-27-00-00
 | 2011-01-01 | 2010. évi CLII. törvény | 1998-27-00-00.10 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 1998-27-00-00.11 |
 | 2012-01-01 | 2011. évi CCIX. törvény | 1998-27-00-00.12 |
+| 2012-07-01 | 2012. évi LXXIV. törvény | 1998-27-00-00.13 |

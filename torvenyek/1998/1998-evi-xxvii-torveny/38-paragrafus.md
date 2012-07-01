@@ -1,12 +1,14 @@
 ## Az Európai Unió jogának való megfelelés
 
-38. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+38. § (1) Ez a törvény
 
-a) a Tanács 90/219/EGK (1990. április 23.) irányelve a géntechnológiával módosított mikroorganizmusok zárt rendszerben történő felhasználásáról, a törvény 34. §-a (1) bekezdésének e) pontjában és (10) bekezdésében adott felhatalmazások alapján megalkotott kormányrendelettel és miniszteri rendelettel együtt;
+a) a géntechnológiával módosított szervezetek környezetbe történő szándékos kibocsátásáról és a 90/220/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2001. március 12-i 2001/18/EK európai parlamenti és tanácsi irányelvnek,
 
-b) a Tanács 98/81/EK (1998. október 26.) irányelve a géntechnológiával módosított mikroorganizmusok zárt rendszerben történő felhasználásáról szóló 90/219/EGK irányelv módosításáról, a törvény 34. §-a (1) bekezdésének f) pontjában, valamint (3)–(4), (8) és (10) bekezdéseiben adott felhatalmazások alapján megalkotott kormányrendelettel és miniszteri rendeletekkel együtt;
+b) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek,
 
-c) az Európai Parlament és a Tanács 2001/18/EK (2001. március 12.) irányelve a géntechnológiával módosított szervezetek környezetbe történő szándékos kibocsátásáról és a Tanács 90/220/EGK irányelvének hatályon kívül helyezéséről, valamint az azt módosító 1829/2003/EK, 1830/2003/EK európai parlamenti és tanácsi rendeletek, a törvény 34. §-a (1) bekezdésének e)–f) pontjaiban, valamint (3)–(4), (8) és (10) bekezdéseiben adott felhatalmazások alapján megalkotott kormányrendeletekkel és miniszteri rendeletekkel együtt.
+c) a géntechnológiával módosított mikroorganizmusok zárt rendszerben történő felhasználásáról szóló, 2009. május 6-i 2009/41/EK európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 

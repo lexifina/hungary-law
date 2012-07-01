@@ -1,26 +1,24 @@
-8. § (1) Az engedély iránti kérelmeket – a külön jogszabályban meghatározott dokumentációval együtt – a géntechnológiai hatósághoz kell benyújtani. A géntechnológiai hatóság
+8. § (1) A géntechnológiai tevékenység engedélyezése iránti kérelmet – az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott dokumentációval együtt – a géntechnológiai hatósághoz kell benyújtani. A géntechnológiai hatóság
 
-a) a kérelem megérkezését visszaigazolja a kérelmezőnek,
+a) a kérelem beérkezéséről értesíti az ügyfelet a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az ügyfél kérelmére történő értesítésére vonatkozó szabályai szerint,
 
-b) 8 napon belül megvizsgálja, hogy a kérelem formailag és tartalmilag eleget tesz-e e törvény és a külön jogszabály előírásainak,
+b) 8 napon belül megvizsgálja, hogy a kérelem formailag és tartalmilag eleget tesz-e e törvény és a felhatalmazása alapján kiadott jogszabály előírásainak; amennyiben a kérelem nem tesz eleget a vonatkozó jogszabályi előírásoknak, hiánypótlásra visszaküldi azt, megjelölve a kérelem elbírálásához szükséges további információkat és benyújtásuk szükségességének okát,
 
-c) ha a kérelem nem tesz eleget a vonatkozó jogszabályi előírásoknak, értesíti a kérelmezőt és a kérelmet hiánypótlásra visszaküldi, a kérelem elbírálásához szükséges további információk bekérésekor annak okát is megjelölve,
+c) a kérelmet – a 13. § (2) bekezdése szerinti behozatali és kiviteli engedély, valamint a 15. § (2) bekezdése szerinti szállítási engedély iránti kérelem kivételével – megküldi a géntechnológiai testületnek, ha a kérelem eleget tesz a vonatkozó jogszabályi előírásoknak.
 
-d) ha a kérelem eleget tesz a vonatkozó jogszabályi előírásoknak, akkor azt – a 15. § (2) bekezdése szerinti szállítási engedély iránti kérelem kivételével – a Géntechnológiai Bizottságnak megküldi.
+(2) A géntechnológiai testület
 
-(2) A Géntechnológiai Bizottság
-
-a) az (1) bekezdésben meghatározott dokumentációt megvizsgálja,
+a) a kérelmet és a hozzá csatolt dokumentációt megvizsgálja,
 
 b) felméri a kérelemben foglalt tevékenység folytatásával járó kockázatot,
 
-c) elfogadja az Európai Unió tagállamaiban végzett környezeti és biológiai hatásvizsgálatokat, de, ha alapos okból szükséges, a géntechnológiai hatóságnak további ellenőrző kísérletek és vizsgálatok – különösen környezeti és biológiai hatásvizsgálatok – elvégzését javasolja,
+c) elfogadja az Európai Unió tagállamaiban végzett környezeti és biológiai hatásvizsgálatokat, de, ha alapos okból szükséges, a géntechnológiai hatóságnak további ellenőrző kísérletek és vizsgálatok – különösen környezeti és biológiai hatásvizsgálatok – elvégzésének a géntechnológiai hatóság határozatában való előírását javasolja,
 
 d) a kérelemben foglalt tevékenységhez hozzájáruló, azt feltételekhez kötő vagy ellenző véleményt készít.
 
-(3) A Géntechnológiai Bizottság a (2) bekezdésben előírtak teljesítéséhez szakértő véleményét is kérheti.
+(3) A géntechnológiai testület a (2) bekezdésben előírtak teljesítéséhez szakértő véleményét is kérheti.
 
-(4) A Géntechnológiai Bizottság véleményének kialakításánál – a (2) bekezdésben foglaltakkal összhangban – vizsgálja a géntechnológiával módosított szervezet alkalmazásának közvetlen vagy közvetett, azonnali vagy később várhatóan bekövetkező hatásait, így különösen:
+(4) A géntechnológiai testület véleményének kialakításánál – a (2) bekezdésben foglaltakkal összhangban – vizsgálja a géntechnológiával módosított szervezet alkalmazásának közvetlen vagy közvetett, azonnali vagy később várhatóan bekövetkező hatásait, így különösen:
 
 – a hatására bekövetkező változást az emberben és a természetes szervezetekben, mindenekelőtt a DNS-ben és az ellenálló képességben,
 
@@ -30,6 +28,6 @@ d) a kérelemben foglalt tevékenységhez hozzájáruló, azt feltételekhez kö
 
 – a természetes változása következtében kialakuló új hatást.
 
-(5) A (2) bekezdés c) pontjában meghatározott ellenőrző kísérletek és vizsgálatok költségeit a hasznosító viseli. A (3) bekezdésben meghatározott szakértők közreműködésének költségeit szakterületüknek megfelelően a Földművelésügyi és Vidékfejlesztési Minisztérium, a Gazdasági és Közlekedési Minisztérium, az Egészségügyi Minisztérium, a Környezetvédelmi és Vízügyi Minisztérium, valamint az Oktatási Minisztérium költségvetési előirányzatában kell biztosítani.
+(5) A (2) bekezdés c) pontjában meghatározott ellenőrző kísérletek és vizsgálatok elvégzésének költségeit a hasznosító viseli. A (3) bekezdésben meghatározott szakértők közreműködésének költségeit a szakterületüknek megfelelően a természetvédelemért, a kutatás-fejlesztésért és technológiai innovációért, az egészségügyért, valamint az oktatásért felelős miniszter által vezetett minisztérium költségvetési előirányzataiban kell biztosítani.
 
-(6) A Géntechnológiai Bizottság a kérelemre vonatkozó véleményét a géntechnológiai hatóságnak a kérelem kézhezvételétől számított 30 napon belül megküldi.
+(6) A géntechnológiai testület a kérelemre vonatkozó véleményét a géntechnológiai hatóságnak a kérelem kézhezvételétől számított 30 napon belül megküldi.

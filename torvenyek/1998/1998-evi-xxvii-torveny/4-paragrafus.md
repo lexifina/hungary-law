@@ -1,17 +1,15 @@
 ## Géntechnológiai hatóságok
 
-4. § (1) Géntechnológiai tevékenység végzését a Géntechnológiai Eljárásokat Véleményező Bizottság (a továbbiakban: Géntechnológiai Bizottság) véleménye alapján
+4. § (1) Géntechnológiai tevékenység végzését a Kormány által határozatban létrehozott testület (a továbbiakban: géntechnológiai testület) 8. § szerint kialakított véleménye alapján
 
-a) humán-egészségügyi, humán gyógyszergyártási célú felhasználás, az emberi testtel közvetlenül érintkező vegyi anyagok esetén az egészségügyi miniszter által külön jogszabályban meghatározott hatóság,
+a) humán-egészségügyi, humán gyógyszergyártási célú, valamint az emberi testtel közvetlenül érintkező vegyi anyagokkal kapcsolatos géntechnológiai tevékenység esetén az egészségügyi géntechnológiai hatóság,
 
-b) a mezőgazdaság és az élelmiszeripar területén (beleértve az élelmiszer előállításban alkalmazott technológiai segédanyagokat is), illetve egyéb ipari célú felhasználás esetén a Kormány rendeletében meghatározott hatóság
+b) a mezőgazdaság és az élelmiszeripar területén történő (beleértve az élelmiszer-előállításban alkalmazott technológiai segédanyagokat is), illetve zárt rendszerű, valamint egyéb ipari célú géntechnológiai tevékenység esetén a környezetvédelmi és mezőgazdasági vonatkozású szempontok figyelembevételével a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság
 
-(a továbbiakban a) és b) pont együtt: géntechnológiai hatóság) engedélyezi, amennyiben az engedélyezés nemzeti hatáskörbe tartozik.
+(a továbbiakban az egészségügyi géntechnológiai hatóság, valamint a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság együtt: géntechnológiai hatóság) engedélyezi, amennyiben az engedélyezés nemzeti hatáskörbe tartozik.
 
-(2) A közösségi hatáskörbe tartozó engedélyezési eljárásokban a nemzeti hatósági feladatokat a géntechnológiai hatóságok látják el az (1) bekezdésben meghatározott szakterületek szerint, amelynek során – az adminisztratív feladatokat kivéve – egyeztetnek
+(2) Az uniós hatáskörbe tartozó engedélyezési eljárásokban a nemzeti hatósági feladatokat a géntechnológiai hatóság látja el, mely a feladatának ellátása során – az adminisztratív feladatokat kivéve – egyeztet a géntechnológiai testülettel. A környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság az uniós hatáskörbe tartozó, élelmiszerekre és takarmányokra vonatkozó engedélyezési eljárások során egyeztet az egészségügyi géntechnológiai hatósággal. Az egészségügyi géntechnológiai hatóság az uniós hatáskörbe tartozó engedélyezési eljárások során egyeztet a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatósággal.
 
-a) a környezetvédelmi és vízügyi miniszterrel, továbbá
+(3) Az egészségügyi géntechnológiai hatóság az (1) bekezdés b) pontjában, a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság az (1) bekezdés a) pontjában meghatározott szakterületeken történő engedélyezés során szakhatóságként jár el.
 
-b) az élelmiszerek és takarmányok esetében az egészségügyi miniszterrel és az élelmiszer- és takarmánybiztonság területén szakmai döntés-előkészítő, véleményező, javaslattevő, információs, koordináló, az Európai Unió központi szerveivel és a tagállamok élelmiszer-biztonsági szerveivel kapcsolatot tartó szervezettel is.
-
-(3) Az egészségügyi miniszter által külön jogszabályban meghatározott hatóság, illetve intézet az (1) bekezdés b) pontjában, a környezetvédelmi és vízügyi miniszter által külön jogszabályban meghatározott hatóság az (1) bekezdés a) és b) pontjaiban meghatározott szakterületeken történő engedélyezés során szakhatóságként jár el.
+(4) Az (1) bekezdés szerinti engedélyezési eljárásokban való szakhatósági közreműködés szabályait az e törvény felhatalmazása alapján kiadott jogszabály határozza meg.

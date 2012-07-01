@@ -1,45 +1,61 @@
 ## Felhatalmazások
 
-34. § Felhatalmazást kap
+34. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
-(1) a Kormány, hogy rendeletben szabályozza
+a) a géntechnológiával nem módosítható természetes szervezetek körét,
 
-a) a géntechnológiával módosított élő szervezetek humán egészségügyben és gyógyszergyártásban, valamint az emberi testtel közvetlenül érintkező vegyi anyagok előállításában való alkalmazását, használatát, környezetvédelmi szempontú szállíthatóságát,
+b) a géntechnológiai tevékenység engedélyezési eljárási rendjét, valamint az Európai Bizottsággal és a tagállamokkal való kapcsolattartás rendjét,
 
-b) az a) pontban meghatározott körben a jelölendő, illetve a jelölési és engedélyezési kötelezettség alól kivett termékek körét, a jelölés tartalmát és módját, a jelölésre vonatkozó előírások alkalmazásának időpontját, valamint azokat a határértékeket, amelyek alatt a termékek nem tekintendők géntechnológiával módosítottnak,
+c) a közvetlen feldolgozásra szánt termékek esetében az engedélyezett géntechnológiával módosított szervezettel történő technológiailag elkerülhetetlen szennyeződés mértékének meghatározását, amely alatt a géntechnológiával módosított szervezetekre vonatkozó forgalomba hozatali, jelölési és csomagolási előírásokat nem kell alkalmazni,
 
-c) az a) pontban meghatározott körben a géntechnológiai tevékenység folytatásához szükséges műszaki, technológiai, környezetvédelmi, természetvédelmi és egészségügyi feltételeket,
+d) a közvetlenül élelmiszerként vagy takarmányként történő felhasználásra, vagy feldolgozásra szánt termékek esetében a kedvező eredményű kockázatértékeléssel rendelkező géntechnológiával módosított szervezetek véletlen vagy technikailag elkerülhetetlen előfordulására vonatkozó átmeneti intézkedéseket,
 
-d) a géntechnológiával módosított szervezetek országhatárokon történő átvitelének szabályait, valamint kijelölje a nemzeti tájékoztató központot, a biológiai biztonságról szóló, Nairobiban, 2000. május 24-én aláírt és a 2004. évi CIX. törvénnyel kihirdetett Cartagena Jegyzőkönyvben meghatározott feladatokat ellátó hatóságot, valamint az ellenőrzést végző hatóságokat;
+e) a nem forgalomba hozatali célú kibocsátás engedélyezésével kapcsolatban a környezeti hatások megítéléséhez szükséges vizsgálatok elvégzésének eseteit, körét és szabályait, valamint a minta szolgáltatásának szabályait,
 
-e) a géntechnológiai bírság kiszabásának eseteit, módját és mértékét,
+f) a géntechnológiai bírság mértékét és kiszabásának részletes szabályait,
 
-f) a géntechnológiai tevékenység engedélyezési eljárási rendjét, valamint az eljárás során az Európai Unió Bizottságával való kapcsolattartást, továbbá a közvetlen feldolgozásra szánt termékek esetében az engedélyezett géntechnológiával módosított szervezettel történő technológiailag elkerülhetetlen szennyeződés mértékének meghatározását, amely alatt a géntechnológiával módosított szervezetekre vonatkozó forgalomba hozatali, jelölési és csomagolási előírásokat nem kell alkalmazni, és a közvetlenül élelmiszerként vagy takarmányként történő felhasználásra, vagy feldolgozásra szánt termékek esetében a kedvező eredményű kockázatértékeléssel rendelkező géntechnológiával módosított szervezetek véletlen vagy technikailag elkerülhetetlen előfordulására vonatkozó átmeneti intézkedéseket, valamint kijelölje a 4. § (1) bekezdésének b) pontjában meghatározott engedélyeket és a géntechnológiával módosított növények termesztésére vonatkozó engedélyeket kiadó hatóságot;
+g) a géntechnológiával módosított szervezetek országhatárokon történő átvitelének szabályait.
 
-(2) a Kormány, hogy rendeletben állapítsa meg a géntechnológiával nem módosítható természetes szervezeteket;
+(2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
-(3) a földművelésügyi és vidékfejlesztési miniszter, hogy a környezetvédelmi és vízügyi miniszterrel, valamint az egészségügyi miniszterrel egyetértésben rendeletben szabályozza a mezőgazdasági, az élelmiszer-ipari (beleértve az élelmiszer-előállításban alkalmazott technológiai segédanyagokat is), illetve az egyéb ipari területeken a géntechnológiai tevékenység részletes szakmai szabályait, és az azok folytatásához szükséges műszaki, technológiai, környezetvédelmi, természetvédelmi és egészségügyi feltételeket;
+a) a géntechnológiai hatóságot, és a géntechnológiai tevékenység engedélyezési eljárásában közreműködő szakhatóságot,
 
-(4) az egészségügyi miniszter, hogy kijelölje a 4. § (1) bekezdésének a) pontjában meghatározott engedélyező, illetve a 4. § (3) bekezdésében meghatározott szakhatóságokat;
+b) a géntechnológiai tevékenység ellenőrzésére jogosult hatóságot vagy hatóságokat,
 
-(5)
+c) a termesztési hatóságot,
 
-(6) a földművelésügyi és vidékfejlesztési miniszter, hogy a gazdasági miniszterrel, a környezetvédelmi miniszterrel, az oktatási miniszterrel, az egészségügyi miniszterrel egyetértésben, a Magyar Tudományos Akadémia véleményének kikérésével rendeletben állapítsa meg a Géntechnológiai Bizottság szervezeti felépítésének és működésének részletes szabályait;
+d) az egymás melletti termesztés ellenőrzésére jogosult hatóságot vagy hatóságokat,
 
-(7) az oktatási miniszter, hogy a földművelésügyi és vidékfejlesztési miniszterrel, a környezetvédelmi miniszterrel, valamint az egészségügyi miniszterrel egyetértésben rendeletben állapítsa meg a géntechnológiai felügyelő tevékenységére és képesítésének követelményeire vonatkozó szabályokat;
+e) a nyilvántartó szervet vagy szerveket,
 
-(8) a földművelésügyi és vidékfejlesztési miniszter, hogy az egészségügyi miniszterrel egyetértésben rendeletben szabályozza a géntechnológiai tevékenységre vonatkozó nyilvántartás, illetve adatszolgáltatás részletes szabályait, valamint a géntechnológiai tevékenységhez szükséges engedély iránti kérelemhez csatolandó dokumentáció tartalmát;
+f) a nemzeti tájékoztató központot vagy központokat, a biológiai biztonságról szóló, Nairobiban, 2000. május 24-én aláírt és a 2004. évi CIX. törvénnyel kihirdetett Cartagena Jegyzőkönyvben meghatározott feladatokat ellátó hatóságot vagy hatóságokat, valamint az ellenőrzést végző hatóságot vagy hatóságokat.
 
-(9) a földművelésügyiés vidékfejlesztési miniszter, hogy az egészségügyi miniszterrel, valamint a pénzügyminiszterrel egyetértésben rendeletben szabályozza az engedélyezési díjak mértékét;
+(3) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a természetvédelemért felelős miniszterrel egyetértésben rendeletben szabályozza a humán-egészségügyi, humán gyógyszergyártási célú, valamint az emberi testtel közvetlenül érintkező vegyi anyagokkal kapcsolatos géntechnológiai tevékenység különös szakmai szabályait és műszaki, technológiai, környezetvédelmi és természetvédelmi feltételeit.
 
-(10) a földművelésügyi és vidékfejlesztési miniszter, hogy a szociális és munkaügyi miniszterrel és az egészségügyi miniszterrel együttesen, valamint a környezetvédelmi és vízügyi miniszterrel egyetértésben rendeletben határozzák meg a géntechnológiai módosításnak tekinthető, illetve annak nem minősülő eljárásokat, továbbá jelöljék ki a géntechnológiai tevékenység ellenőrzésére jogosult hatóságokat és határozzák meg az ellenőrzés részletes szabályait;
+(4) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben szabályozza az egészségügyi géntechnológiai hatóság hatáskörébe tartozó
 
-(11) a földművelésügyi és vidékfejlesztési miniszter, hogy a környezetvédelmi és vízügyi miniszterrel egyetértésben rendeletben szabályozza
+a) géntechnológiai tevékenységre vonatkozó nyilvántartás, illetve adatszolgáltatás szabályait, valamint a géntechnológiai tevékenységhez szükséges engedély iránti kérelemhez csatolandó dokumentáció tartalmát,
 
-a) az egymás melletti termesztés részletes szakmai szabályait és feltételeit (így különösen a pufferzóna minimális mértékét, az írásos hozzájárulás és a nyilatkozat formáját), ellenőrzésének részletes szabályait,
+b) géntechnológiai tevékenységgel összefüggő hatósági ellenőrzés szabályait, valamint a törvény alapján alkalmazható intézkedések részletes szabályait.
 
-b) az Európai Unió más tagállamaiban megszerzett egymás melletti termesztésre vonatkozó képesítést igazoló bizonyítványok elismerésének feltételeit, illetve
+(5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az egészségügyért felelős miniszterrel egyetértésben rendeletben szabályozza
 
-c) kijelölje az ellenőrző hatóságot, valamint az egymás melletti termesztésre vonatkozó oktatást, vizsgáztatást, valamint a bizonyítvány kiállítását végző szervezetet;
+a) a mezőgazdasági, az élelmiszer-ipari (beleértve az élelmiszer-előállításban alkalmazott technológiai segédanyagokat is), illetve zárt rendszerű, valamint egyéb ipari területeken a géntechnológiai tevékenység szakmai szabályait, és az azok folytatásához szükséges műszaki, technológiai, környezetvédelmi, természetvédelmi és egészségügyi feltételeket
 
-(12) a környezetvédelmi és vízügyi miniszter, hogy rendeletben szabályozza a géntechnológiai tevékenység és az egymás melletti termesztés engedélyezési eljárásában közreműködő szakhatóságot.
+b) a géntechnológiai módosításnak tekinthető, illetve annak nem minősülő eljárásokat.
+
+(6) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az egészségügyért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza a géntechnológiai hatósági és a termesztési hatósági eljárás során alkalmazandó igazgatási szolgáltatási díjak mértékét és megfizetésének szabályait.
+
+(7) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza az egymás melletti termesztésre vonatkozó hatósági jellegű képzés és vizsga díjának mértékét és megfizetésének szabályait.
+
+(8) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben szabályozza
+
+a) a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság hatáskörébe tartozó géntechnológiai tevékenységre vonatkozó nyilvántartás, illetve adatszolgáltatás szabályait, valamint a géntechnológiai tevékenységhez szükséges engedély iránti kérelemhez csatolandó dokumentáció tartalmát,
+
+b) a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság hatáskörébe tartozó géntechnológiai tevékenységgel összefüggő hatósági ellenőrzés szabályait, valamint a törvény alapján alkalmazható intézkedések részletes szabályait,
+
+c) az egymás melletti termesztés szakmai szabályait és feltételeit, a pufferzóna minimális méretét, valamint az egymás melletti termesztés ellenőrzésének szabályait,
+
+d) az egymás melletti termesztésre vonatkozó képzésre és vizsgáztatásra vonatkozó előírásokat.
+
+(9) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben megállapítsa a védzáradéki eljárás alá vont termékként vagy termékekben megjelenő géntechnológiával módosított szervezetek listáját és meghatározza a védzáradéki eljárás időtartamára szükséges biztonsági intézkedéseket.
