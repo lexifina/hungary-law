@@ -74,7 +74,7 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 
 34. gyógyászati segédeszköz forgalmazó: a gyógyászati segédeszköznek a végső felhasználó részére történő értékesítését, kölcsönzését, javítását végző természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező gazdasági társaság, ide nem értve azokat az egészségügyi szolgáltatónak nem minősülő, gyógyászati segédeszközt egyedi méretvétel alapján gyártókat, akik az eszköznek a biztosított részére történő kiszolgáltatását nem maguk végzik;
 
-35. Preferált referencia ársávba tartozó gyógyszer: az egészségbiztosításért felelős miniszter rendelete alapján történő fixesítés során meghatározott gyógyszerek közül, a hatóanyag alapú fix támogatás esetén a referenciagyógyszer napi terápiás költségét legfeljebb 5%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer, valamint a terápiás fix elven működő támogatás esetén normatív támogatási kategóriába tartozó csoportban a napi terápiás költség átlagát legfeljebb 10%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer;
+35. Preferált referencia ársávba tartozó gyógyszer: az egészségbiztosításért felelős miniszter rendelete alapján történő fixesítés során meghatározott gyógyszerek közül, a hatóanyag alapú fix támogatás esetén a referenciagyógyszer napi terápiás költségét legfeljebb 10%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer, valamint a terápiás fix elven működő támogatás esetén normatív támogatási kategóriába tartozó csoportban a napi terápiás költség átlagát legfeljebb 10%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer;
 
 36. lakos: a települési önkormányzat közigazgatási területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 26. §-a szerint nyilvántartott lakcímmel rendelkező személy;
 
@@ -86,6 +86,6 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 
 40. folyamatos ellátás: a forgalomba hozatali engedély jogosultjával vagy abban az esetben, ha az belföldön forgalmazási tevékenységet nem végez, a forgalmazóval szerződött gyógyszer-nagykereskedők megrendeléseinek szokásos üzletmenet szerinti kielégítése. A közfinanszírozásban részesülő gyógyszerrel való folyamatos ellátásról a forgalomba hozatali engedély jogosultja ennek hiányában a forgalmazó köteles gondoskodni;
 
-41. munkavégzésre irányuló jogviszony: a Munka Törvénykönyve szerinti munkaviszony, továbbá a személyes közreműködéssel járó gazdasági és polgári jogi társasági tevékenységnek a munkavégzésre irányuló elemei;
+41. munkavégzésre irányuló jogviszony: a munka törvénykönyvéről szóló törvény szerinti munkaviszony, továbbá a személyes közreműködéssel járó gazdasági és polgári jogi társasági tevékenységnek a munkavégzésre irányuló elemei;
 
 42. gyógyászati segédeszköz házhoz szállítása: a gyógyászati segédeszköznek – a forgalmazás részeként – az eszköz megrendelését vagy megvásárlását követően a megrendelő által megjelölt címre történő eljuttatása.

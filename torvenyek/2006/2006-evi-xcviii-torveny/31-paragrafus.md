@@ -14,7 +14,7 @@ f) az több mint hat hónapja – referenciakészítmény esetén egy hónapja �
 
 g) forgalomba hozatali engedélyét visszavonták,
 
-h) a hatóanyag-alapú fix összegű támogatási csoportba tartozó gyógyszer esetén a gyógyszer napi terápiás költsége, illetve egységnyi hatóanyagra számított ára legalább 30%-kal meghaladja a referenciakészítmény napi terápiás költségét,
+h) a hatóanyag-alapú fix összegű támogatási csoportba tartozó gyógyszer esetén a gyógyszer napi terápiás költsége, illetve egységnyi hatóanyagra számított ára legalább 50%-kal meghaladja a referenciakészítmény napi terápiás költségét,
 
 i) a terápiás fix elven működő támogatási csoportba tartozó gyógyszer esetén a gyógyszer napi terápiás költsége legalább 60%-kal meghaladja a csoportba tartozó gyógyszerek napi terápiás költsége egyszerű számtani átlagát,
 
@@ -30,6 +30,6 @@ l) a biológiai gyógyszer napi terápiás költsége legalább 30%-kal meghalad
 
 (3) Az egészségbiztosítási szerv kizárhatja a társadalombiztosítási támogatásból a gyógyszert, ha a forgalomba hozatali engedély jogosultja a 21. § (8) bekezdésében foglalt forgalmazási, illetve készletben tartási kötelezettségét nem teljesíti.
 
-(4) Az (1)–(1a) és a (3) bekezdés alapján a társadalombiztosítási támogatásból kizárt gyógyszerre a forgalombahozatali engedély jogosultja a kizárásról szóló döntés jogerőre emelkedésétől számított fél éven belül befogadásra irányuló kérelmet nem adhat be.
+(4) Az (1) és (1a) bekezdés, valamint a (3) bekezdés alapján a társadalombiztosítási támogatásból kizárt gyógyszer a kizárásról szóló döntés jogerőre emelkedésétől számított kilenc hónapon belül nem részesíthető társadalombiztosítási támogatásban.
 
 (5) A 29. § (4) bekezdés b) pontja szerint induló eljárás keretében társadalombiztosítási támogatásból törölt gyógyszer hat hónapon belül történő ismételt befogadásakor az egészségbiztosító által az egészségbiztosításért felelős miniszter rendeletében foglaltak szerint megállapított, a preferált referencia ársávba nem tartozó gyógyszerre jellemző csökkentett támogatásban részesül.

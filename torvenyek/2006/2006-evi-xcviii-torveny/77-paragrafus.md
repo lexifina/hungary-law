@@ -62,7 +62,9 @@ u) az eredményesség alapú támogatásvolumen-szerződés kötésével érinte
 
 v) a preferált biológiai gyógyszerek rendelésének kötelező minimális arányát,
 
-w) a gyógyászati segédeszközök házhoz szállításának feltételeit és szabályait.
+w) a gyógyászati segédeszközök házhoz szállításának feltételeit és szabályait,
+
+x) azon gyógyászati segédeszközök körét, amelyek esetében a gyógyászati segédeszköz forgalmazója a kiszolgáltatás során eltérhet a közfinanszírozás alapjául elfogadott ártól és az egészségbiztosítási szerv által a támogatás megállapítására irányuló eljárásban megállapított térítési díjtól.
 
 (3) Felhatalmazást kap az élelmiszerlánc-felügyeletért felelős miniszter, hogy
 

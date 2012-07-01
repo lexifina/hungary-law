@@ -10,7 +10,7 @@ b) amelyhez az egészségbiztosításért felelős miniszter rendelete szerinti 
 
 úgy az egészségbiztosítási szerv a gyógyszer támogatásba való befogadásának eljárását a módosítás hatálybalépéséig, legfeljebb azonban kérelem beérkezésétől, illetve a hiánypótlás teljesítésétől számított 90 napig felfüggeszti és erről az ügyfelet értesíti.
 
-(3) Amennyiben a (2) bekezdés szerinti jogszabály-módosításra nem kerül sor, úgy az egészségbiztosítási szerv a 90. nap elteltével a hatályos jogszabályi rendelkezések alapján bírálja el a kérelmet.
+(3) Amennyiben a (2)–(2a) bekezdés szerinti jogszabály-módosításra nem kerül sor, úgy az egészségbiztosítási szerv a 90. nap elteltével a hatályos jogszabályi rendelkezések alapján bírálja el a kérelmet.
 
 (4) Az indikációhoz kötött kiemelt és emelt társadalombiztosítási támogatás javallathoz (indikációhoz) és felírási jogosultsághoz kötött. Egy adott gyógyszer árához eltérő támogatás állapítható meg a gyógykezelést megalapozó egyes betegségcsoportok, és a gyógyszert rendelő egészségügyi szolgáltató által ellátott feladat, valamint a gyógyszer támogatásához előírt szakorvosi javaslat alapján. A kiemelt és emelt indikációhoz kötött támogatási csoportba tartozó betegségcsoportok és indikációs területek megnevezését és a támogatással történő felírásra jogosultak körét az egészségügyért felelős miniszter – az államháztartásért felelős miniszterrel egyetértésben – rendeletben határozza meg.
 

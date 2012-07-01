@@ -16,7 +16,7 @@
 
 (9) A 12. § (3) bekezdése szerinti ismertetési tevékenységet folytató a gyógyszerek vagy gyógyászati segédeszközök rendelésére és forgalmazására jogosult személy részére, a hatályos adójogszabályokban foglalt kötelezettség teljesítése érdekében, a hatályos adójogszabályoknak megfelelő igazolást köteles küldeni, ha ennek feltételei fennállnak.
 
-(10) Az ismertetési tevékenységet folytató köteles a szakmai rendezvénnyel, tanfolyammal összefüggésben a (4)–(6) bekezdés szerint általa nyújtott támogatással kapcsolatban a szakmai rendezvény, tanfolyam kezdő időpontját megelőzően 30 nappal korábban a (11) bekezdésben foglaltakat a gyógyszerészeti államigazgatási szervnek bejelenteni.
+(10) Az ismertetési tevékenységet folytató köteles a szakmai rendezvénnyel, tanfolyammal összefüggésben a (4)–(6) bekezdés szerint általa nyújtott támogatással kapcsolatban a szakmai rendezvény, tanfolyam kezdő időpontját megelőzően 10 nappal korábban a (11) bekezdésben foglaltakat a gyógyszerészeti államigazgatási szervnek bejelenteni.
 
 (11) A bejelentésnek tartalmaznia kell:
 
@@ -34,7 +34,9 @@ e) a (6) bekezdésben említett kapcsolódó, kiegészítő program megnevezés�
 
 a) a részvételi díj befizetését igazoló dokumentum másolatát vagy az előzetes regisztrációt igazoló dokumentum másolatát,
 
-b) rendezvény végrehajtásához szükséges tanácsadói szerződés másolatát.
+b) a rendezvénnyel összefüggésben kötött szerződések másolatát;
+
+c) a rendezvényhez nyújtott támogatás összegét igazoló dokumentumok másolatát.
 
 (13) Az ismertetési tevékenységet folytató a (11) bekezdésen túl köteles a gyógyszerészeti államigazgatási szervnek bejelenteni az általa vagy az általa jutatott forrásból támogatott szakmai rendezvény, tanfolyam megnevezését, helyszínét, időpontját, programját, valamint a szervező nevét, székhelyét, a rendezvény vagy tanfolyam kezdő időpontját megelőzően 30 nappal.
 

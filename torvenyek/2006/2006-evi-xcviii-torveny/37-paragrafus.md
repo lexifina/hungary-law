@@ -4,7 +4,7 @@
 
 (3) Ha a közfinanszírozott gyógyszerek forgalmazásából származó negyedéves árréstömege a 39. § (1) bekezdésében meghatározott összeget meghaladja, a közforgalmú gyógyszertár működtetésére jogosult a 36. § (3) bekezdésében meghatározott fizetési kötelezettség alapján, a 39. § (2) bekezdésében meghatározott sávhatárok megfelelő alkalmazásával a tárgynegyedévet követő harmadik naptári hónap 20. napjáig az állami adóhatósághoz az állami adóhatóság által rendszeresített nyomtatványon bevallást nyújt be és egyidejűleg befizetést teljesít az állami adóhatóság által a kincstárnál külön erre a célra megnyitott számlára.
 
-(4) A 12. § (3) bekezdése szerinti, ismertetési tevékenységet folytató személy a 36. § (4) bekezdésében meghatározott fizetési kötelezettség alapján a tárgyhónapot követő harmadik naptári hónap 20. napjáig bevallást nyújt be és egyidejűleg befizetést teljesít az állami adóhatóság által a kincstárnál külön erre a célra megnyitott számlára.
+(4) A 12. § (3) bekezdése szerinti, ismertetési tevékenységet folytató személy a 36. § (4)–(4a) bekezdésében meghatározott fizetési kötelezettség alapján a tárgyhónapot követő harmadik naptári hónap 20. napjáig bevallást nyújt be és egyidejűleg befizetést teljesít az állami adóhatóság által a kincstárnál külön erre a célra megnyitott számlára.
 
 (5)
 

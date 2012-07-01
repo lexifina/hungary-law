@@ -1,6 +1,6 @@
 16. § (1) A 13/A. § szerinti nyilvántartás az ismertetési tevékenység folytatásának hatósági ellenőrzését és az ismertetésben részesülő személyek tájékoztatását szolgálja.
 
-(2) A gyógyszerészeti államigazgatási szerv az általa vezetett 13/A. § szerinti nyilvántartás és a 14. § (11) bekezdés szerint bejelentett adatok alapján honlapján, díjmentesen bárki számára hozzáférhető módon, az ismertetésben részesülő személyek tájékoztatása, továbbá az adóhatóság felé teljesítendő, a 36. § (4) bekezdése szerinti díj befizetési kötelezettségének ellenőrizhetősége érdekében naprakészen közzéteszi az alábbi adatokat:
+(2) A gyógyszerészeti államigazgatási szerv az általa vezetett 13/A. § szerinti nyilvántartás és a 14. § (11) bekezdés szerint bejelentett adatok alapján honlapján, díjmentesen bárki számára hozzáférhető módon, az ismertetésben részesülő személyek tájékoztatása, továbbá az adóhatóság felé teljesítendő, a 36. § (4)–(4a) bekezdése szerinti díj befizetési kötelezettségének ellenőrizhetősége érdekében naprakészen közzéteszi az alábbi adatokat:
 
 a) az ismertetési tevékenységet folytatók nevét,
 
@@ -14,7 +14,9 @@ c) az ismertető személyek nevét és nyilvántartási számát,
 
 d) azon ismertetési tevékenységet folytatók, illetve ismertető személyek nevét, akik vonatkozásában az ismertetési tevékenység folytatását jogerősen megtiltotta,
 
-e) a bejelentést követő egy évig a tervezett rendezvény nevét, helyszínét, időpontját és programját, továbbá a rendezvény támogatójának nevét.
+e) a bejelentéstől a rendezvény lezajlásáig a tervezett rendezvény nevét, helyszínét, időpontját, programját és a rendezvény támogatójának nevét,
+
+f) a rendezvény lebonyolítását követő egy évig a rendezvény nevét, a rendezvénnyel kapcsolatban eszközölt támogatások összegét, továbbá a rendezvény támogatójának nevét.
 
 (3) A gyógyszerészeti államigazgatási szerv a 19. § (2) bekezdés d) pontja és a (2a) bekezdése szerinti jogerős határozatát – ide nem értve az egymillió forintot meg nem haladó összegű pénzbírságot megállapító határozatát – az (5) bekezdésben meghatározott terjedelemben közzéteszi.
 

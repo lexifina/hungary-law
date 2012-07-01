@@ -6,7 +6,7 @@
 
 (3) Ha a kézigyógyszertár működtetésére adott engedélyben megjelölt településen közforgalmú gyógyszertár vagy fiókgyógyszertár működtetését engedélyezik, ezek megnyitása napjával a kézigyógyszertár működtetésre vonatkozó engedély módosításáról, illetve visszavonásáról intézkedni kell.
 
-(4) A kézigyógyszertárban tartható gyógyszereket csak közforgalmú gyógyszertárból lehet beszerezni. A kézigyógyszertár ellátására elsősorban a működési engedélyben megjelölt székhelyhez legközelebb található közforgalmú gyógyszertárral köthető megállapodás.
+(4) A kézigyógyszertárban tartható gyógyszereket csak közforgalmú gyógyszertárból lehet beszerezni. A kézigyógyszertár ellátására elsősorban a működési engedélyben megjelölt székhelyhez legközelebb található közforgalmú gyógyszertárral köthető megállapodás. Egy közforgalmú gyógyszertár legfeljebb négy kézigyógyszertár ellátására köthet megállapodást.
 
 (5) A háziorvos a kézigyógyszertárból csak a nyilvántartásában szereplő beteg részére és csak az általa rendelt gyógyszert szolgáltathatja ki a sürgős szükség esetét kivéve.
 

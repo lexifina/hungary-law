@@ -59,3 +59,5 @@ d) ha a gyógyszernyilvántartásba bejegyzett jogosult személyében változás
 (5) A (4) bekezdésben foglalt bejelentési kötelezettség teljesítése során igazgatási szolgáltatási díjat nem kell fizetni.
 
 (6) A (4) bekezdésben foglaltakat az egészségbiztosítási szerv a bejelentés megtételét követő hónap 1. napján közzéteszi.
+
+(7) Ha az egészségbiztosító a gyógyszer társadalombiztosítási támogatásba való befogadására irányuló kérelmet kizárólag költségvetési fedezet hiányára való hivatkozással utasította el, a gyógyszer forgalomba hozatali engedély jogosultja a társadalombiztosítási támogatásba való befogadásra irányuló kérelmét, az elutasító határozat jogerőre emelkedésétől számított két éven belül változatlan formában, újbóli igazgatási szolgáltatási díj fizetés nélkül benyújthatja.
