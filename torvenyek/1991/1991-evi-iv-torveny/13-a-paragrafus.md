@@ -18,7 +18,7 @@ c) munkaközvetítés.
 
 a) pályázati eljárás eredményeként támogatást nyújt, vagy
 
-b) a 41. § (3)–(4) bekezdése szerinti uniós források bevonásával megvalósuló programok esetében a 2003. évi CXXIX. törvény rendelkezései alapján, közbeszerzési eljárás keretében vásárol.
+b) a 41. § (3)–(4) bekezdése szerinti uniós források bevonásával megvalósuló programok esetében a 2011. évi CVIII. törvény rendelkezései alapján, közbeszerzési eljárás keretében vásárol.
 
 (4) Felhatalmazást kap a
 

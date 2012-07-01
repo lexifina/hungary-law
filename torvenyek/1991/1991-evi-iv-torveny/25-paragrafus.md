@@ -26,11 +26,11 @@ e) az álláskereső foglalkoztatása munkaviszonyban történik.
 
 (4) Az (1) bekezdés b) pontjában meghatározott jogosultsági idő időtartamába nem számítható be a fizetés nélküli szabadság harminc napot meghaladó időtartama, kivéve, ha annak igénybevételére
 
-a) háromévesnél – ha a munkavállaló a gyermek gondozása céljából gyermekgondozási segélyben részesül, tizennégy évesnél – fiatalabb gyermek gondozása, vagy tizenkét évesnél fiatalabb beteg gyermek otthoni ápolása [a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 138. § (5) bek.], valamint
+a) háromévesnél – ha a munkavállaló a gyermek gondozása céljából gyermekgondozási segélyben részesül, tizennégy évesnél – fiatalabb gyermek gondozása, vagy tizenkét évesnél fiatalabb beteg gyermek otthoni ápolása [a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 128. § és 130. §], valamint
 
-b) közeli hozzátartozó ápolása [Mt. 139. § (1) bek.], továbbá
+b) közeli hozzátartozó ápolása [Mt. 131. § (1) és (2) bekezdése], továbbá
 
-c) saját részére magánerőből lakás építése [Mt. 140. § (1) bek.]
+c)
 
 d) önkéntes tartalékos katonai tényleges szolgálatteljesítés
 

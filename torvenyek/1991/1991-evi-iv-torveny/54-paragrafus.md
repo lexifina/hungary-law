@@ -8,7 +8,7 @@
 
 (3) Ha az állami foglalkoztatási szerv nem e törvény vagy a felhatalmazása alapján kiadott jogszabály, hanem más jogszabály alapján nyújt a foglalkoztatás elősegítése érdekében támogatást, a támogatással kapcsolatos ügyben az eljárására e törvény rendelkezéseit kell megfelelően alkalmazni, kivéve, ha a támogatásról szóló jogszabály ettől eltérően rendelkezik.
 
-(4) A közösségi jogszabályok szerinti migráns munkavállaló munkanélküli ellátásával, vállalkozói járadékával kapcsolatos ügyben az érdemi határozatot két hónapon belül kell meghozni.
+(4) A közösségi jogszabályok szerinti migráns munkavállaló álláskeresési ellátásával, vállalkozói járadékával kapcsolatos ügyben az érdemi határozatot két hónapon belül kell meghozni.
 
 (5) Az e törvény, valamint a felhatalmazása alapján kiadott jogszabály által szabályozott
 

@@ -6,13 +6,7 @@
 
 (3)
 
-(4) E törvény
-
-a) 36. § (1) bekezdése, 37. § (3)–(4) és (8) bekezdése, 46/A. § (4) bekezdése, 54. § (4) bekezdése tekintetében munkanélküli ellátáson az álláskeresők támogatását,
-
-b) 37. § (6) bekezdése tekintetében munkanélküli járadékon az álláskeresési járadékot és az álláskeresési segélyt
-
-is érteni kell.
+(4)
 
 (5) E törvény alkalmazásában
 
@@ -94,11 +88,11 @@ u)–v)
 
 (6) A törvény alkalmazásában a
 
-a) a munkavállaló rendes felmondásán, a köztisztviselő, a közalkalmazott, valamint a Magyar Honvédség, a fegyveres testületek és rendészeti szervek hivatásos állományú tagjának lemondását;
+a) a munkavállaló felmondásán, a köztisztviselő, a közalkalmazott, valamint a Magyar Honvédség, a fegyveres testületek és rendészeti szervek hivatásos állományú tagjának lemondását;
 
-b) munkaviszonynak a munkáltató részéről rendkívüli felmondással történő megszüntetésén a közszolgálati jogviszony hivatalvesztéssel, a közalkalmazotti jogviszony elbocsátással, valamint a hivatásos és szerződéses állományú jogviszonynak a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 53. §-a e)–f) pontjában, 56. §-a (2) bekezdésének b) pontjában, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 56. §-ának e)–f) pontjában, és 59. §-a (2) bekezdésének c) pontjában;
+b) munkaviszonynak a munkáltató részéről azonnali hatályú felmondással történő megszüntetésén a közszolgálati jogviszony hivatalvesztéssel, a közalkalmazotti jogviszony elbocsátással, valamint a hivatásos és szerződéses állományú jogviszonynak a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 53. §-a e)–f) pontjában, 56. §-a (2) bekezdésének b) pontjában, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 56. §-ának e)–f) pontjában, és 59. §-a (2) bekezdésének c) pontjában;
 
-c) a munkaviszonynak a munkaadó részéről rendes felmondással történő megszüntetésén a közszolgálati és a közalkalmazotti jogviszonynak felmentéssel történő megszüntetését is érteni kell;
+c) a munkaviszonynak a munkaadó részéről felmondással történő megszüntetésén a közszolgálati és a közalkalmazotti jogviszonynak felmentéssel történő megszüntetését is érteni kell;
 
 d)
 

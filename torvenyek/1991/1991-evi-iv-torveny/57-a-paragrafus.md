@@ -12,7 +12,7 @@ c) lakóhely (tartózkodási hely);
 
 d) foglalkozás, munkahely, munkakör (tevékenység),
 
-e) a munkanélküli ellátás, a foglalkoztatást elősegítő támogatás, valamint a munkaerőpiaci szolgáltatás megállapításához és igénybevételéhez e törvényben és más törvényben meghatározott adatok,
+e) az álláskeresési ellátás, a foglalkoztatást elősegítő támogatás, valamint a munkaerőpiaci szolgáltatás megállapításához és igénybevételéhez e törvényben és más törvényben meghatározott adatok,
 
 f) iskolai végzettség(ek), szakképzettség(ek),
 

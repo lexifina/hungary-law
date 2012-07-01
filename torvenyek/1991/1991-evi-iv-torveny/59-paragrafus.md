@@ -8,6 +8,6 @@
 
 a) az álláskeresőként való nyilvántartásba vétel feltételeire,
 
-b) az álláskeresési járadékra, valamint az álláskeresési segélyre
+b) az álláskeresési ellátásra
 
 vonatkozó rendelkezéseit az Európai Gazdasági Térségről szóló megállapodásban nem részes, az Európai Közösséggel és tagállamaival nemzetközi szerződést kötött állam állampolgárára, a nemzetközi szerződésben foglaltak szerint kell alkalmazni.

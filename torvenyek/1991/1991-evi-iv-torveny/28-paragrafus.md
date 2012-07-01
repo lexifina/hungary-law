@@ -8,7 +8,7 @@ b) álláskeresési járadékban részesül, és törlik a nyilvántartásból,
 
 c) megváltozott munkaképességű személyek ellátására válik jogosulttá,
 
-d) kereső tevékenységet folytat, kivéve a 29. § (1) bekezdés d) pontjában foglaltakat, valamint az 58. § (5) bekezdés n) pontjában foglalt alkalmi foglalkoztatási jogviszonyban foglalkoztatottakat,
+d) kereső tevékenységet folytat, kivéve a 29. § (1) bekezdés d) pontjában foglaltakat, valamint az 58. § (5) bekezdés n) pontjában foglalt alkalmi foglalkoztatásnak minősülő munkaviszonyban foglalkoztatottakat,
 
 e) olyan képzési lehetőséget fogad el, amelynek során a mindenkori kötelező legkisebb munkabér összegét elérő rendszeres támogatásban részesül,
 

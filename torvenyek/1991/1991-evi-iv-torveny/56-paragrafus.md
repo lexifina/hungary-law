@@ -4,7 +4,7 @@
 
 a) az álláskeresési járadék és álláskeresési segély iránti kérelemnek helyt adó,
 
-b) az álláskeresési járadék és álláskeresési segély folyósítását szüneteltető, valamint megszüntető, továbbá
+b) az álláskeresési járadék és nyugdíj előtti álláskeresési segély folyósítását szüneteltető, valamint megszüntető, továbbá
 
 c) a foglalkoztatást elősegítő támogatás folyósítását megszüntető
 

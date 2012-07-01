@@ -4,7 +4,7 @@
 
 a) a foglalkoztatást legalább a támogatás folyósításának időtartama alatt vállalja, és
 
-b) a támogatás iránti kérelem benyújtását megelőző tizenkét hónapban a munkavállaló munkaviszonyát a működési körében felmerülő okból rendes felmondással nem szüntette meg, és
+b) a támogatás iránti kérelem benyújtását megelőző tizenkét hónapban a munkavállaló munkaviszonyát a működési körében felmerülő okból felmondással nem szüntette meg, és
 
 c) kötelezettséget vállal arra, hogy a b) pont szerinti munkaviszony megszüntetésére a támogatás folyósításának időtartama alatt sem kerül sor.
 
