@@ -1,9 +1,14 @@
-15. § (1) A rehabilitációs ellátásban részesülő személy keresőtevékenységéről, továbbá az Mmtv. 7. § (3) bekezdése szerinti keresőképtelenség, a táppénzben, baleseti táppénzben való részesülése időtartamáról a kirendeltség haladéktalanul értesíti a Nyugdíjfolyósító Igazgatóságot.
+15. § (1)[^19] A rehabilitációs ellátásban részesülő személy keresőtevékenysége, továbbá az Mmtv. 7. § (3) bekezdése szerinti keresőképtelensége, a táppénzben, baleseti táppénzben való részesülése esetén a rehabilitációs szakigazgatási szerv a döntését haladéktalanul megküldi a Nyugdíjfolyósító Igazgatóság részére. A rehabilitációs szakigazgatási szerv a szüneteltetésről szóló döntésében rendelkezik az Mmtv. 7. § (4) bekezdése szerinti levonásról vagy visszakövetelésről is.
 
-(2) A Nyugdíjfolyósító Igazgatóság az (1) bekezdésben meghatározott esetben a rehabilitációs pénzbeli ellátás folyósítását szünetelteti. A szüneteltetésről rendelkező határozatban a keresőtevékenység vagy a keresőképtelenség tartamára kiutalt rehabilitációs pénzbeli ellátás visszafizetését is előírja, – amennyiben ennek a feltételei fennállnak – intézkedik a tartozásnak a folyósításra kerülő rehabilitációs pénzbeli ellátásba történő beszámításáról.
+(2)[^20] A Nyugdíjfolyósító Igazgatóság az (1) bekezdésben meghatározott esetben a rehabilitációs pénzbeli ellátás folyósítását szünetelteti.
 
-(3) A rehabilitációs ellátásra jogosult személy keresőképtelenségének időtartamát a Nyugdíjfolyósító Igazgatóság nyilvántartja, és az ellátás időtartamának leteltét megelőzően a meghosszabbításról határozatban intézkedik. A Nyugdíjfolyósító Igazgatóság a meghosszabbításról szóló döntését közli a kirendeltséggel is.
+(3)[^21] A rehabilitációs ellátásra jogosult személy keresőképtelenségének időtartamát a rehabilitációs szakigazgatási szerv nyilvántartja, és az ellátás időtartamának leteltét megelőzően a meghosszabbításról határozatban intézkedik.
 
-(4) A rehabilitációs pénzbeli ellátás folyósításának szüneteltetéséről és újbóli folyósításáról a Nyugdíjfolyósító Igazgatóság határozattal dönt.
+(4)[^22] A rehabilitációs pénzbeli ellátás folyósításának szüneteltetéséről és újbóli folyósításáról a rehabilitációs szakigazgatási szerv határozattal dönt.
 
 (5) A rehabilitációs pénzbeli ellátás folyósításának szüneteltetését követő újbóli folyósítás esetén az ellátást az időközi emelésekkel növelt összegben kell folyósítani.
+
+[^19]: A 15. § (1) bekezdése a 95/2012. (V. 15.) Korm. rendelet 46. § (6) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
+[^20]: A 15. § (2) bekezdése a 95/2012. (V. 15.) Korm. rendelet 46. § (6) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
+[^21]: A 15. § (3) bekezdése a 95/2012. (V. 15.) Korm. rendelet 46. § (6) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
+[^22]: A 15. § (4) bekezdése a 95/2012. (V. 15.) Korm. rendelet 46. § (11) bekezdés g) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.

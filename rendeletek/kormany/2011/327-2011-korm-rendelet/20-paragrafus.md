@@ -1,5 +1,6 @@
-## 10. A felülvizsgálat
+## 19/A. §[^41] A rehabilitációs szakigazgatási szerv rehabilitációs szolgáltatást nyújthat annak a megváltozott munkaképességű személynek is, aki rehabilitációs ellátásban nem részesül.
 
-20. § (1) Az Mmtv. 19. §-ában meghatározott esetben a nyugdíjmegállapító szerv a felülvizsgálat lefolytatásához megkeresi a Hivatalt a komplex minősítés elvégzése céljából.
+## 10.[^42]
 
-(2) A kirendeltség a felülvizsgálat elvégzése céljából haladéktalanul értesíti a nyugdíjmegállapító szervet az Mmtv. 10. § (2) bekezdés d) és e) pontjában meghatározott körülmények fennállásáról.
+[^41]: A 19/A. §-t a 95/2012. (V. 15.) Korm. rendelet 46. § (8) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 23. §-át.
+[^42]: A 10. alcímet (20. §) a 95/2012. (V. 15.) Korm. rendelet 46. § (12) bekezdés e) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 23. §-át.
