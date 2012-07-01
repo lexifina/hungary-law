@@ -33,21 +33,3 @@ j) a más tagállamban szabadforgalomba bocsátott jövedéki termék ugyanazon 
 k) a kötelező érvényű vámtarifabesorolással kapcsolatos eljárás részletes szabályait;
 
 l) a szemledíj és költségtérítés kiszabásának, beszedésének és mértékének részletes szabályait;
-
-m) az e törvény 7. § 9. pontja szerinti vámtarifaszámokat és a vámtarifaszámok alá történő besoroláshoz szükséges, a törvény hatálya alá tartozó termékekre és a besorolásnál figyelembe veendő, kapcsolódó egyéb árucsoportokra vonatkozó árubesorolási szabályokat;
-
-n) a bioetanol és a biodízel utáni adólevonási, adó-visszaigénylési jogosultság igazolásának, elszámolásának részletes szabályait;
-
-o) a jövedéki bírság 114. § (6) bekezdésében meghatározott gyorsított eljárásban történő kiszabásának és beszedésének részletes szabályait;
-
-p) az E85 szeszüzemben történő előállítása engedélyezésének, folytatásának részletes szabályait;
-
-r) az 52. § (2) bekezdésében az E85-re meghatározott adómérték alkalmazásához a bioetanol-tartalom igazolásának részletes szabályait;
-
-s) a 35. § (1) bekezdés g) pontjának gb) alpontja szerinti egyéb szakképesítést, szakmai végzettséget és szakmai gyakorlatot;
-
-t) a bioüzemanyag kísérleti előállítást végző üzemben történő előállítása engedélyezésének feltételeit, valamint a bioüzemanyag-adóraktár engedélyesére vonatkozó bizonylatolás, nyilvántartás és elszámolás részletes szabályait;
-
-u) a jövedékiadó-bevallás, valamint a vámhatóság felé teljesítendő, e törvényben előírt adatszolgáltatások, elszámolások, bejelentések (értesítések), illetve a zárjegy- és adójegy-megrendelések elektronikus úton történő benyújtásának módját és technikai feltételeit;
-
-v) az e-TKO tervezet és az elektronikus átvételi elismervény, illetve a 40. § (9) bekezdés szerinti okmányok, bizonylatok 20. § (1) bekezdés szerinti módon történő benyújtásához, továbbításához szükséges eljárás részletes szabályait;
