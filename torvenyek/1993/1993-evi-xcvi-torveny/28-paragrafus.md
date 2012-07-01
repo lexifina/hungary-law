@@ -1,6 +1,6 @@
 ## Az ügyvezető feladata és hatásköre
 
-28. § (1) A pénztár ügyvezetője (helyettes ügyvezetője) a pénztárral munkaviszonyban álló személy lehet. Az ügyvezető munkaviszonyára az e törvényben foglalt eltérésekkel a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény rendelkezéseit kell alkalmazni.
+28. § (1) A pénztár ügyvezetője (helyettes ügyvezetője) a pénztárral munkaviszonyban álló személy lehet. Az ügyvezető munkaviszonyára az e törvényben foglalt eltérésekkel a munka törvénykönyvéről szóló 2012. évi I. törvény rendelkezéseit kell alkalmazni.
 
 (2) Ügyvezetőként (helyettes ügyvezetőként) az alkalmazható, aki
 
