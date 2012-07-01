@@ -4,7 +4,7 @@
 
 (3) A munkáltató az (1) bekezdésben meghatározott esetben a foglalkoztatottat a felmondásról szóló döntéséről, illetve a részfoglalkoztatás lehetőségéről legkésőbb március 1-jéig előzetesen tájékoztatja.
 
-(4) Ha a munkáltató az (1) bekezdés alapján szünteti meg a határozatlan idejű jogviszonyt, a foglalkoztatottat az Mt. 95. § (4) bekezdésében, illetve a Kjt. 37. § (6) bekezdésében meghatározotton felül – kollektív szerződésnek a foglalkoztatottra nézve kedvezőbb rendelkezése hiányában – a munkáltatónál fennálló legalább
+(4) Ha a munkáltató az (1) bekezdés alapján szünteti meg a határozatlan idejű jogviszonyt, a foglalkoztatottat az Mt. 77. § (3) bekezdésében, illetve a Kjt. 37. § (6) bekezdésében meghatározotton felül – kollektív szerződésnek a foglalkoztatottra nézve kedvezőbb rendelkezése hiányában – a munkáltatónál fennálló legalább
 
 a) tíz éves jogviszonya után négyhavi,
 
