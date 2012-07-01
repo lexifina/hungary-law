@@ -76,7 +76,7 @@
 
 ## i) a c)-h) pontokban meghatározottakkal azonos besorolású beosztásokban, az állományilletékes parancsnok döntése szerint.
 
-4. melléklet a 65/2011. (XII. 30.) BM rendelethez[^5]
+4. melléklet a 65/2011. (XII. 30.) BM rendelethez[^7]
 
 1. Őr-, ügyeleti, készenléti és készültségi szolgálatok a rendőrségnél
 
@@ -88,11 +88,11 @@ b) Fogdaőr
 
 c) Kísérőőr
 
-d) Díszőr (KŐE)
+d) Díszőr (KR)
 
 e) Mozgóőr,
 
-f) Parlamenti őr (KŐE)
+f) Parlamenti őr (KR)
 
 g) Segédelőadó (őrzött szálláson)
 
@@ -102,7 +102,7 @@ h) Szolgálati csoportvezető (őrzött szálláson)
 
 a) Főügyelet (ORFK)
 
-b) Ügyeleti és Védelmi Osztály (KŐE)
+b)
 
 c) Központi ügyeleti szolgálat (BRFK, MRFK, KR, RRI)
 
@@ -136,7 +136,7 @@ d) KR szakszolgálatainak készenléti szolgálatai (pénzügyi, anyagi, technik
 
 e) RRI (ügyeletes vezető, bűnügyi készenlét, idegenrendészeti készenlét)
 
-f) KŐE főosztály szintű szervei által adott szolgálatok
+f)
 
 g) Területi és helyi szervek bűnügyi szolgálati ág forrónyomos csoportjai
 
@@ -212,4 +212,4 @@ g) ügyeletvezető (területi jogállású szervek)
 
 h) ügyeletes (helyi szervek)
 
-[^5]: A 4. melléklet a 11/2012. (III. 30.) BM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 4. melléklet a 11/2012. (III. 30.) BM rendelet 5. § (2) bekezdése, a 31/2012. (VI. 28.) BM rendelet 18. § (2) bekezdése szerint módosított szöveg.

@@ -8,7 +8,7 @@ a) a rendőrségről szóló törvény alapján általános rendőrségi feladat
 
 3. a megyei (budapesti) rendőr-főkapitányságok, amely magába foglalja a rendőrkapitányságok és határrendészeti kirendeltségek szervezési rész-állománytáblázatait,
 
-4. a Köztársasági Őrezred (a továbbiakban: KŐE),
+4.[^1]
 
 5. a Nemzeti Nyomozó Iroda (a továbbiakban: NNI),
 
@@ -18,7 +18,7 @@ a) a rendőrségről szóló törvény alapján általános rendőrségi feladat
 
 8. a Bűnügyi Szakértői és Kutatóintézet (a továbbiakban: BSZKI),
 
-9.[^1] a Központi Gazdasági Ellátó Igazgatóság (a továbbiakban: Központi GEI),
+9.[^2] a Központi Gazdasági Ellátó Igazgatóság (a továbbiakban: Központi GEI),
 
 b) a Nemzeti Védelmi Szolgálat (a továbbiakban: NVSZ);
 
@@ -36,11 +36,12 @@ e) a hivatásos katasztrófavédelmi szerveknél:
 
 2. a hivatásos katasztrófavédelmi szerv területi jogállású szervei,
 
-3.[^2] megyei (fővárosi) katasztrófavédelmi igazgatóságok;
+3.[^3] megyei (fővárosi) katasztrófavédelmi igazgatóságok;
 
 f) a BM Nemzetközi Oktatási Központ; valamint
 
 g) a rendészeti szakközépiskolák.
 
-[^1]: A 3. § a) pont 9. alpontját a 13/2012. (III. 30.) BM rendelet 7. § (1) bekezdése iktatta be.
-[^2]: A 3. § e) pont 3. alpontja a 11/2012. (III. 30.) BM rendelet 4. §-a szerint módosított szöveg.
+[^1]: A 3. § a) pont 4. alpontját a 31/2012. (VI. 28.) BM rendelet 20. §-a hatályon kívül helyezte.
+[^2]: A 3. § a) pont 9. alpontját a 13/2012. (III. 30.) BM rendelet 7. § (1) bekezdése iktatta be.
+[^3]: A 3. § e) pont 3. alpontja a 11/2012. (III. 30.) BM rendelet 4. §-a szerint módosított szöveg.

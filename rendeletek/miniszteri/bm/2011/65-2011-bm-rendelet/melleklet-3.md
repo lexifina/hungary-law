@@ -212,7 +212,7 @@
 
 ## b) a Nemzetvédelmi Egyetem logisztikai szakán vagy a Bolyai János Katonai Műszaki Főiskola pénzügyi, gazdálkodási, technikai szakán szerzett végzettség és rendészeti szakirányú felsőfokú végzettség,
 
-## c) belső ellenőrzési tevékenység ellátása esetén a költségvetési szervek belső ellenőrzéséről szóló 193/2003. (XI. 26.) Korm. rendelet 11. §-ában meghatározott követelménynek megfelelő képzettség, képesítés.
+## c) belső ellenőrzési tevékenység ellátása esetén a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló Korm. rendeletben meghatározott, a belső ellenőrre vonatkozó általános és szakmai követelményeknek megfelelő képzettség, képesítés.
 
 ## 14. Tanári, oktatói feladatokat ellátók:
 
