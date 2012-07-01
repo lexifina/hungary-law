@@ -27,3 +27,13 @@ d) 36. § (4) bekezdésében meghatározott ingyenesen átruházható vagyontár
 (9) Az Állami vagyonnal kapcsolatos bevételek és kiadások fejezet 2. cím, 2. alcím, 4. jogcím-csoport, 2. A Magyar Nemzeti Filmalap Zrt. támogatása jogcím előirányzat tartalmazza a mozgóképről szóló 2004. évi II. törvény 9/A. § (2) bekezdése szerinti kiadást, amely a hatoslottó szerencsejáték játékadója pénzforgalmilag teljesült összege mértékéig az adópolitikáért felelős miniszter engedélyével túlléphető.
 
 (10) A korábban belügyi célokra használt, értékesítésre kijelölt állami tulajdonú ingatlanok értékesítéséből és hasznosításából származó – Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetben elszámolandó – bevételek a 2012. évben a Kormány határozatában adott jóváhagyásával a büntetés-végrehajtási szervezet fogvatartotti férőhelyeinek bővítését megvalósító beruházások finanszírozására használhatók fel. A Kormány határozatában – legfeljebb a pénzforgalmilag teljesült értékesítési bevételek mértékéig – új kiadási előirányzatot hozhat létre a Belügyminisztérium fejezetben vagy engedélyezheti a fejezet meglévő kiadási előirányzatának megemelését.
+
+(11) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény
+
+a) 11. § (6) bekezdésében meghatározott értékhatárt a 2012. évben 25,0 millió forint egyedi bruttó forgalmi érték,
+
+b) 11. § (16) bekezdésében meghatározott értékhatárt a 2012. évben a hasznosítással érintett rész tekintetében 25,0 millió forint egyedi bruttó forgalmi érték,
+
+c) 13. § (1) bekezdésben meghatározott értékhatárt a 2012. évben 25,0 millió forint egyedi bruttó forgalmi érték
+
+képezi.

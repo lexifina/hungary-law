@@ -12,6 +12,6 @@ e) a Nemzeti Fejlesztési Minisztérium fejezet, 20. cím, 33. alcím, 1. Beruh�
 
 (2) Felhatalmazást kap a helyi önkormányzatokért felelős miniszter, hogy – az államháztartásért felelős miniszter egyetértésével – a 27. § (1) bekezdése alapján létrehozott új előirányzat igénylésének, döntési rendszerének, folyósításának, felhasználásának, ellenőrzésének és elszámolásának részletes szabályait az államháztartásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg.
 
-(3) Felhatalmazást kap a helyi önkormányzat, hogy rendeletében a 68. § (1) bekezdésében meghatározott forgalmi értéktől kisebb értékhatárt határozzon meg.
+(3) Felhatalmazást kap a helyi önkormányzat, hogy rendeletében a 5. § (11) bekezdés b) és c) pontjában meghatározott forgalmi értéktől kisebb értékhatárt határozzon meg.
 
 (4) Felhatalmazást kap a helyi önkormányzatokért felelős miniszter, hogy a 76. § szerinti letéti számlán rendelkezésre álló összeg felhasználásának szabályait – az államháztartásért felelős miniszter egyetértésével – rendeletben állapítsa meg.
