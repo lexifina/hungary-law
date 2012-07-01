@@ -8,5 +8,8 @@
 
 (5) A GYEMSZI alkalmazásában álló kormánytisztviselők tekintetében az illetménykiegészítés mértéke felsőfokú iskolai végzettségű kormánytisztviselő esetében a kormánytisztviselő alapilletményének 50%-a, középiskolai végzettségű kormánytisztviselő esetében a kormánytisztviselő alapilletményének 15%-a.
 
+(6)[^3] A GYEMSZI feladatait központi szervei és területi kihelyezett szervezeti egységei útján látja el.
+
 [^1]: Az 1. § a 3. § (2) bekezdése alapján 2011. május 1-jén lép hatályba.
 [^2]: Az 1. § (2) bekezdése a 258/2011. (XII. 7.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (6) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 69. §-a iktatta be.

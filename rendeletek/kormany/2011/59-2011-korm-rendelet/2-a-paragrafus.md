@@ -1,4 +1,4 @@
-## 2/A. §[^10] A GYEMSZI a MÖKtv., illetve a Ttv. alapján átvett egészségügyi intézmények és az országos gyógyintézetek középirányító szerve. A GYEMSZI középirányító szervként különösen
+## 2/A. §[^11] A GYEMSZI a MÖKtv., illetve a Ttv. alapján átvett egészségügyi intézmények és az országos gyógyintézetek középirányító szerve. A GYEMSZI középirányító szervként különösen
 
 a) érvényesíti, illetve – módszertani segítséget is nyújtva – érvényesítteti az irányítása alá tartozó költségvetési szervek tevékenységében a közfeladatok ellátására vonatkozó követelményeket, és az erőforrásokkal (így különösen: az előirányzatokkal, a létszámokkal és a vagyonnal) való szabályszerű és hatékony gazdálkodás követelményeit, továbbá számon kéri, ellenőrzi e követelmények érvényre juttatását;
 
@@ -22,8 +22,9 @@ j) előkészíti és a miniszternek megküldi az egészségügyi intézmény vez
 
 k) összegyűjti, ellenőrzi az irányítása alá tartozó intézmények gazdálkodására vonatkozó kötelező, rendszeres és ad hoc jellegű adatszolgáltatásokat, szükség szerint összesítve továbbítja azokat a minisztériumba;
 
-l) jóváhagyja a Nemzeti Erőforrás Minisztérium fejezet 10. Gyógyító-megelőző ellátás szakintézményei címen belül az egészségügyi intézményhálózat átalakításával kapcsolatos előirányzat és létszám átcsoportosításokat;
+l)[^12] jóváhagyja a Nemzeti Erőforrás Minisztérium fejezet 10. Gyógyító-megelőző ellátás szakintézményei címen belül az előirányzat és létszám átcsoportosításokat;
 
 m) jogosult az irányítása alá tartozó intézmények vonatkozásában a közbeszerzéseket összevontan lefolytatni, valamint az intézmények közbeszerzési eljárásaival kapcsolatban folyamatba épített és utóellenőrzéseket végezni.
 
-[^10]: A 2/A. §-t a 258/2011. (XII. 7.) Korm. rendelet 43. § (3) bekezdése iktatta be, nyitó szövegrésze a 92/2012. (IV. 27.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^11]: A 2/A. §-t a 258/2011. (XII. 7.) Korm. rendelet 43. § (3) bekezdése iktatta be, nyitó szövegrésze a 92/2012. (IV. 27.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^12]: A 2/A. § l) pontja a 137/2012. (VI. 29.) Korm. rendelet 72. §-a szerint módosított szöveg.
