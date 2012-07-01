@@ -116,7 +116,7 @@ f) tájékoztatást ad az igazságügyért felelős miniszter megkeresésére �
 
 a) ellátja az ítélőtáblák és a törvényszékek elnökeinek vagyonnyilatkozatával kapcsolatos feladatokat,
 
-b) „címzetes törvényszéki bíró”, „címzetes táblabíró”, „címzetes kúriai bíró”, „kúriai tanácsos” cím továbbá igazságügyi alkalmazott esetén főtanácsosi, tanácsosi cím, valamint kitüntetés, díj, oklevél vagy plakett adományozását kezdeményezi az OBT-nél,
+b) ha a bírák jogállásáról és javadalmazásáról szóló törvény szerint a cím adományozásáról az OBT dönt, „címzetes törvényszéki bíró”, „címzetes táblabíró”, „címzetes kúriai bíró”, „kúriai tanácsos” cím adományozását, igazságügyi alkalmazott esetén főtanácsosi, tanácsosi cím adományozását, valamint kitüntetés, díj, oklevél vagy plakett adományozását kezdeményezi az OBT-nél, továbbá ha a bírák jogállásáról és javadalmazásáról szóló törvény cím adományozására az OBH elnökét jogosítja fel, dönt a „címzetes törvényszéki bíró”, „címzetes táblabíró”, „címzetes kúriai bíró”, „kúriai tanácsos” cím adományozásáról,
 
 c) biztosítja az érdek-képviseleti szervek jogainak gyakorlását, és
 
