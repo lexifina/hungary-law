@@ -38,7 +38,7 @@ k) érintett leányvállalat vagy telephely: a részt vevő jogalany olyan leán
 
 l) ügyvezető szerv: a szövetkezet igazgatósága vagy igazgatótanácsa, a részvénytársaság igazgatósága vagy igazgatótanácsa, a korlátolt felelősségű társaság ügyvezetője, továbbá más jogi személy vagy jogi személyiség nélküli szervezet ügyvezetése;
 
-m) belföldön foglalkoztatott munkavállaló: a részt vevő jogalanyok, az európai szövetkezet, illetve ezek leányvállalatai vagy telephelye által Magyarország területén foglalkoztatott munkavállaló – ideértve a Munka Törvénykönyve 76/C. §-ának (2) bekezdésében foglalt esetet is –, tekintet nélkül arra, hogy az európai szövetkezet székhelye Magyarországon vagy külföldön van.
+m) belföldön foglalkoztatott munkavállaló: a részt vevő jogalanyok, az európai szövetkezet, illetve ezek leányvállalatai vagy telephelye által Magyarország területén foglalkoztatott munkavállaló, tekintet nélkül arra, hogy az európai szövetkezet székhelye Magyarországon vagy külföldön van.
 
 (2) Az (1) bekezdés e) pontja szerinti tájékoztatásnak olyan időben, módon és tartalommal kell történnie, hogy a képviseleti testületnek, illetve a munkavállalói képviselőknek elegendő ideje és ismerete legyen a lehetséges hatások elemzésére, és ha szükséges, az igazgatósággal, igazgatótanáccsal (vagy az általa felhatalmazott más szervvel) való konzultáció előkészítésére.
 
