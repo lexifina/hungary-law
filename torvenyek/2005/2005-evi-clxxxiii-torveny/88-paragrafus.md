@@ -6,7 +6,7 @@ a) a vasúti közlekedési hatóság vagy hatóságok, valamint a vasúti igazga
 
 b) a vasúti közlekedés területén a kötelező kárfedezet biztosításának részletes szabályait,
 
-c) a vasúti piacfelügyeleti bírság legmagasabb mértékére, a vasúti bírság mértékére, valamint a 79/A. § (3) bekezdésének c) pontjában meghatározott bírság mértékére, továbbá a megfizetésükre vonatkozó részletes szabályokat,
+c) a vasúti piacfelügyeleti bírság legmagasabb mértékére, a vasúti bírság mértékére,, továbbá a megfizetésükre vonatkozó részletes szabályokat,
 
 d) a vasúti árufuvarozási szerződésre vonatkozó részletes szabályokat,
 
@@ -16,7 +16,7 @@ f) a vasúti vizsgaközpont kijelölését,
 
 g) a jogszabályban meghatározott vasúti munkaköröket betöltő munkavállalókkal szemben támasztott egészségügyi követelményeket és az egészségügyi vizsgálat feltételeit, valamint az egészségi alkalmasság megállapítását végző hatóság vagy hatóságok kijelölését, az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának részletes szabályait,
 
-h) a vasúti személyszállításnak az 1371/2007/EK rendeletben nem szabályozott részletes feltételeit, a személyszállítási üzletszabályzat tartalmára és jóváhagyására vonatkozó részletes szabályokat, valamint a vasúti társaság közforgalmú személyszállítási szolgáltatásokra vonatkozó minőségbiztosítási rendszerével kapcsolatos szabályokat
+h)
 
 h)
 
@@ -34,7 +34,7 @@ n) a hivatásos katasztrófavédelmi szervek által lefolytatott eljárások sor
 
 o) a vasúti közlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályait,
 
-p) az 5. § (1) bekezdés f) pontjában, a 21/C. §-ban, a 27/H. § (1) bekezdés e)–g) pontjában és a 27/H.§ (4), (6) és (7) bekezdésében meghatározott adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokat, a központi adatbázisok és az azokhoz kapcsolódó központi szolgáltatások kialakításával, működtetésével, fejlesztésével és finanszírozásával kapcsolatos feladatok ellátásának szabályait, továbbá a központi adatbázisok működtetésére és a központi koordinációs feladatok ellátását végző szervezet kijelölését
+p)
 
 rendeletben állapítsa meg.
 
@@ -70,11 +70,11 @@ rendeletben állapítsa meg.
 
 15. a különleges vasutak működésének és hatósági engedélyezésének a feltételeit,
 
-16. a közforgalmú menetrend készítésének szabályait,
+16.
 
 17. a teljesítményösztönző rendszerre vonatkozó részletes szabályokat,
 
-18. a 68. § (2) bekezdése szerinti utazási kedvezmény mértékét és igénybevételének feltételeit,
+18.
 
 19. a vasutak kölcsönös átjárhatóságának szabályait,
 
@@ -88,17 +88,15 @@ rendeletben állapítsa meg.
 
 24. a vasúti közlekedés biztonságára és a biztonsági szabályzatokra, valamint azok hatósági jóváhagyására vonatkozó szabályokat,
 
-25. a vasúti személyszállítási közszolgáltatási szerződésben meghatározott ellentételezés fedezetének biztosítása érdekében a vasúti személyszállítási szolgáltatást nyújtó vasúti társaságokat terhelő kártalanítási kötelezettség megállapításának mérlegelési szempontjait az államháztartásért felelős miniszterrel egyetértésben,
+25.
 
 26. a vasúti járművezetői engedély és tanúsítvány kiadására, megszerzésére, és alkalmazására vonatkozó részletes szabályokat,
 
-27. a vasúti pályahálózathoz való nyílt hozzáférésnek az 53/C. § szerinti korlátozását,
+27.
 
 28. a vasúti pálya más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben,
 
-29. az egységes egyeztetési eljárásra vonatkozó részletes szabályokat,
-
-30. a Regionális Közlekedési Szakbizottság szervezetére és működésére vonatkozó szabályokat
+29–30.
 
 31. az átjárhatósági műszaki előírások keretében alkalmazandó megfelelőségértékelési, alkalmazhatósági és EK-hitelesítési eljárások moduljaira vonatkozó részletes szabályokat
 

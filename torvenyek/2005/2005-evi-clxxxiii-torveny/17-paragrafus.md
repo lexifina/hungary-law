@@ -1,1 +1,1 @@
-17. § A helyi vasúti személyszállítási közszolgáltatási kötelezettséget – a közszolgáltatás mértékét megállapító, az önkormányzat képviselő-testülete által jóváhagyott közszolgáltatási menetrend keretei között – az önkormányzat által alapított vagy az önkormányzat által ezzel megbízott helyi közforgalmú vasúti társaság látja el.
+### 17. §

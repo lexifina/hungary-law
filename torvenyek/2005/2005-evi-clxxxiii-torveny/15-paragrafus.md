@@ -12,4 +12,4 @@ b) az adott térség érintett önkormányzatai önként vállalt feladataik ker
 
 c) a hálózat az országos vasúti pályahálózatokhoz képest keskenyebb nyomtávú.
 
-(3) A térségi, illetve elővárosi működési engedéllyel rendelkező közforgalmú vasúti társaság a miniszterrel kötött vasúti személyszállítási közszolgáltatási szerződésben vasúti személyszállítási közszolgáltatási kötelezettséget vállalhat. E szerződésre a 27. § (1)–(10) bekezdésében és 27/A–27/D. §-ában foglaltakat megfelelően alkalmazni kell.
+(3)

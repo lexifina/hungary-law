@@ -28,11 +28,11 @@
 
 3. vállalkozó vasúti tevékenység: a más részére díj ellenében végzett vasúti személyszállítás, a vasúti árutovábbítás, valamint a más személy részére ellenérték fejében végzett vontatás (vontatási szolgáltatás);
 
-4. vasúti személyszállítás: vasúti járművel szerződés alapján, díj ellenében végzett személyszállítás;
+4. vasúti személyszállítás: a személyszállítási szolgáltatásokról szóló törvény szerinti vasúti személyszállítási szolgáltatás;
 
-5. belföldi vasúti személyszállítás: az a vasúti személyszállítás, amelyben az utazás megkezdésének a helye és a célállomás egyaránt Magyarország területén van;
+5. belföldi vasúti személyszállítás: a személyszállítási szolgáltatásokról szóló törvény szerinti belföldi vasúti személyszállítási szolgáltatás;
 
-6. határon átmenő vasúti személyszállítás: az a vasúti személyszállítás, amelyben az utazás megkezdésének a helye és a célállomás, vagy legalább azok egyike Magyarország területén kívül van, és az útvonal részben Magyarország területén halad;
+6. határon átmenő vasúti személyszállítás: a személyszállítási szolgáltatásokról szóló törvény szerinti határon átmenő vasúti személyszállítási szolgáltatás;
 
 7. vasúti árutovábbítás: árufuvarozás vagy áruszállítás;
 
@@ -56,27 +56,13 @@
 
 17. helyi közforgalmú vasúti szolgáltatás: egy város és agglomerációja területén a 16. § (1) bekezdésében meghatározott tevékenységek keretében végzett közforgalmú vasúti szolgáltatás;
 
-18. vasúti személyszállítási közszolgáltatás: vasúton végzett személyszállítási közszolgáltatás, ezen belül
+18.
 
-a) elővárosi vasúti személyszállítási közszolgáltatás: a főváros vagy megyei város és annak legfeljebb 70 kilométeres vonzáskörzete között végzett személyszállítási szolgáltatás,
-
-b) helyi vasúti személyszállítási közszolgáltatás: a település közigazgatási határán belül – helyi díjszabás alapján – végzett személyszállítási szolgáltatás, a vasúti járművel végzett személyszállítási közszolgáltatások esetében ideértve a település közigazgatási határon kívül eső közösségi közlekedési eszköz megállóhelyére, komp- vagy rév-átkelőhelyére közbeeső megállóhely érintése nélkül történő személyszállítási szolgáltatást is,
-
-c) országos személyszállítási közszolgáltatás: regionális, elővárosi, vagy helyi személyszállítási szolgáltatásnak nem minősülő személyszállítási szolgáltatás,
-
-d) regionális személyszállítási közszolgáltatás: a megye határain belül vagy a megyehatár átlépése esetén 100 kilométert meg nem haladó, elővárosi személyszállítási szolgáltatásnak nem minősülő belföldi személyszállítási szolgáltatás;
-
-19. nemzetközi személyszállítási szolgáltatás: olyan vasúti személyszállítási szolgáltatás, amelynek során a vonat valamely, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) legalább egy határán áthalad, és amelynek fő célja a különböző EGT-államok állomásai közötti személyszállítás; a vonatot egyesíthetik és szétválaszthatják, továbbá a különböző vasúti szerelvények különböző kiindulási és célállomással rendelkezhetnek, feltéve, hogy valamennyi vasúti kocsi legalább egy határon áthalad;
+19. nemzetközi személyszállítási szolgáltatás: a személyszállítási szolgáltatásokról szóló törvény szerinti nemzetközi vasúti személyszállítási szolgáltatás;
 
 20. átmenő vasúti szolgáltatás: EGT-államok területén, áruk be- vagy kirakodása nélkül, továbbá utasok felvétele vagy leszállása nélkül végzett áthaladás;
 
-21. belső szolgáltató:
-
-a) a települési (fővárosi) önkormányzat belső szervezeti egysége, vagy
-
-b) a települési (fővárosi) önkormányzat többségi befolyása alatt álló olyan gazdasági társaság, amelynek tevékenységét a települési (fővárosi) önkormányzat irányítja, vagy
-
-c) olyan egyéb gazdasági társaság, amelyben a települési (fővárosi) önkormányzat meghatározó befolyással rendelkezik.
+21.
 
 (3) Vasúti szervezetek:
 
@@ -158,7 +144,7 @@ vasúti pálya;
 
 2. különleges vasút: a magasvasút, a felszín alatti vasút (metró, kéregvasút), a fogaskerekű vasút, a sikló, a függővasút és a sífelvonó;
 
-3. közszolgáltatási menetrend: vasúti személyszállítási közszolgáltatási szerződésben meghatározott járatok útvonala, megállóhelyei, indulási – érkezési időpontjai meghatározásának összessége, azok minőségi követelményeivel együtt;
+3.
 
 4. vasúti pálya üzemeltetése: a vasúti pálya és tartozékai, valamint ezek működéséhez szükséges eszközök üzem és forgalombiztos-állapotban tartása, folyamatos működésének biztosítása és műszaki felügyelete;
 
@@ -184,7 +170,7 @@ vasúti pálya;
 
 – annak ellenőrzésére szolgáló módszerekre, hogy a nagysebességű és hagyományos transzeurópai vasúti rendszer strukturális alrendszereinek üzemeltetése és karbantartása megfelel-e a rájuk vonatkozó alapvető követelményeknek, kivéve, ha az ÁME-k meghatározzák azokat;
 
-13. közforgalmú menetrend: a belföldi vasúti személyszállításra vonatkozó – az útvonal, a megállóhelyek, az érkezési és az indulási időpontok, illetve a gyakoriság és a szolgáltatás minőségének meghatározását tartalmazó – közzétett szolgáltatási előírás;
+13.
 
 14. üzemi menetrend: a nyílt hozzáférésű vasúti pályahálózatokban végbemenő összes tervezett vasúti jármű-mozgást meghatározó adatokat tartalmazó előírás;
 
@@ -192,13 +178,11 @@ vasúti pálya;
 
 16. kapcsolt vállalkozás: a számviteli törvényben így meghatározott fogalom;
 
-17. egységes egyeztetési eljárás: a közforgalmú vasúti személyszállítási és közforgalmú közúti személyszállítási menetrend elkészítésének folyamata, amelynek során a menetrend mennyiségi és minőségi követelményeinek egységes rendszerét országos és regionális szinten, a helyi közlekedési sajátosságokra is figyelemmel alakítják ki, és amelynek célja a személyszállítási közszolgáltatás nyújtása hatékony módjának megválasztása, valamint a csatlakozások összehangolása, a közlekedésért felelős miniszter (a továbbiakban: miniszter) által kidolgozott közszolgáltatási menetrendi koncepcióval összhangban;
-
-18. Regionális Közlekedési Szakbizottság: a statisztikai célú területi egységek nómenklatúrájának (NUTS) létrehozásáról szóló 1059/2003/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: NUTS) meghatározott, a magyarországi NUTS 2 szintnek megfelelő statisztikai régiók szerint a miniszter által létrehozott, az egységes egyeztetési eljárás során a regionális érdekeket megjelenítő, döntés-előkészítő szakértői testület;
+17–18.
 
 19. turistavasút: vasúti személyszállítást végző és keskeny nyomtávú vasúti pályahálózatot működtető integrált vasúti társaság.
 
-20. meghatározó befolyás: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685/B. § (1)–(3) bekezdése szerinti meghatározó befolyás.
+20.
 
 (6) A 68. §–68/G. § alkalmazásában:
 

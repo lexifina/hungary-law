@@ -4,7 +4,7 @@
 
 68. § (1) A vasúti közlekedési tevékenység keretében a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállaló az lehet, aki a külön jogszabályban meghatározott képesítési és egészségügyi alkalmassági követelményeknek megfelel. A vasúti járművezetői tevékenység önálló végzésének további előfeltétele a külön jogszabályban előírt járművezetői gyakorlat más vasúti járművezető felügyelete mellett történő megszerzése.
 
-(2) Az országos, térségi vagy elővárosi vasúti személyszállítási közszolgáltatást végző, valamint az országos vasúti pályahálózatot működtető vasúti társaság munkavállalóját, azt a volt munkavállalóját, aki legkésőbb a munkaviszony megszűnését követő naptól kezdődően nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, átmeneti bányászjáradékban vagy megváltozott munkaképességű személyek ellátásában részesül (a továbbiakban: nyugdíjas) és igényjogosult hozzátartozóikat, továbbá a külön jogszabályban meghatározott személyeket utazási kedvezmény illeti meg. Az egyes vasúti társaságok munkavállalóit megillető utazási kedvezmények kölcsönös elismerésére, elszámolásának módjára és megtérítésére az érintett vasúti társaságok megállapodása irányadó.
+(2)
 
 (3) A közforgalmú vasúti társaság munkavállalója formaruha viselésére kötelezhető.
 

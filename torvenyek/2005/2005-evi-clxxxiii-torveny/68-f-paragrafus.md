@@ -2,7 +2,7 @@
 
 68/F. § (1) Vasúti jármű csak vasúti társasággal vagy a vasúti pályahálózat működtetésében szerződés alapján közreműködő szervezettel fennálló munkaviszony keretében vezethető. Az országos vasúti pályahálózathoz képest keskenyebb nyomtávú térségi vasúti pályahálózaton vasúti személyszállítást végző vasúti jármű munkavégzésre vonatkozó egyéb jogviszony keretében is vezethető.
 
-(2) Az Mt. 128. § (1) bekezdésében meghatározott eseteket kivéve a vezetési idő hossza a teljesített napi (beosztás szerinti rendes- vagy rendkívüli) munkaidőn belül nem haladhatja meg a kilenc órát. Aki éjszakai időben legalább három órán keresztül dolgozik, vezetési ideje nem haladhatja meg a nyolc órát. Kéthetes időszakonként a vezetési idő hossza legfeljebb nyolcvan óra lehet.
+(2) Az Mt. 108. § (2) bekezdésében meghatározott eseteket kivéve a vezetési idő hossza a teljesített napi (beosztás szerinti rendes- vagy rendkívüli) munkaidőn belül nem haladhatja meg a kilenc órát. Aki éjszakai időben legalább három órán keresztül dolgozik, vezetési ideje nem haladhatja meg a nyolc órát. Kéthetes időszakonként a vezetési idő hossza legfeljebb nyolcvan óra lehet.
 
 (3) A vasúti járművezető köteles a munkáltatójával fennálló munkaviszonyán kívüli munkaviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban töltendő vezetési idejét a munkáltatóval a munkáltató által előírt gyakorisággal, ennek hiányában havonta írásban közölni. A munkáltató a vasúti járművezető nyilatkozata figyelembevételével állapítja meg a vasúti járművezető vezetési idejét.
 

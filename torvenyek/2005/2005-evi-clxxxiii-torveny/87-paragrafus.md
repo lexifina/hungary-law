@@ -4,7 +4,7 @@
 
 (2) E törvény hatálybalépését megelőzően az országos közforgalmú vasúti pályát igénybevevő vasúti társaság működéséhez, valamit a vasúti személyszállításhoz és a vasúti árufuvarozáshoz kiadott hatósági engedélyek a bennük megjelölt időpontig, de legkésőbb 2007. június 30-áig jogosítanak a tevékenység folytatására.
 
-(3) A vasúti társaságok egymással kötött, az utazási kedvezményekre vonatkozó megállapodásai alapján a jelen törvény hatálybalépése előtt megszerzett kedvezmények a kedvezményezetteket e törvény hatálybalépése után is megilletik.
+(3)
 
 (4) A külön jogszabályban meghatározott vasúti üzemi létesítményeket magában foglaló záhonyi körzetben a vasúti pályahálózathoz tartozó átrakó és rendező pályaudvarok működtetését a Magyar Állam vagy a Magyar Állam kizárólagos tulajdonában lévő gazdasági társaság legalább többségi tulajdonában lévő gazdasági társaság látja el. E gazdasági társaság vonatkozásában a 3. § (2) bekezdésének d) pontjában és 14. § (1) bekezdésében foglaltakat nem kell alkalmazni.
 
@@ -18,10 +18,6 @@
 
 (9) A közlekedési hatóság a vasúti pályahálózat működtetője engedélyének kiadásakor kérelemre eltekinthet a vasúti pályahálózat részét képező egyes hálózati elemek használatbavételi engedélyének benyújtásától, ha a kérelmező valószínűsíti, hogy az adott hálózati elemet ténylegesen legalább 15 éve működteti. A közlekedési hatóság a kérelmezőt az engedélyben kötelezi, hogy az érintett hálózati elemek műszaki alkalmasságát igazoló dokumentációt és állapotfelmérést legkésőbb 2009. december 31-éig nyújtsa be a közlekedési hatóság részére. E határidő elteltét követően a közlekedési hatóság az engedélynek a 34. § (2) bekezdésének b) pontja szerinti részét az érintett hálózati elemek vonatkozásában hivatalból felülvizsgálja.
 
-(10) A belső szolgáltató a helyi közlekedés ellátásáért felelős illetékességi területén kívül a helyi járattal közigazgatási határon kívül végzett személyszállítást, valamint más önkormányzatok területén végzett személyszállítást a vasúti személyszállítási közszolgáltatási szerződés belső szolgáltatóként történt közvetlen odaítélését követő 1 évig tarthatja fenn.
-
-(11) A 2009. december 3-át megelőzően megkötött vasúti személyszállítási közszolgáltatási szerződések az azokban rögzített határidő leteltéig hatályban maradnak azzal, hogy módosításuk során az 1370/2007/EK rendelet rendelkezéseit figyelembe kell venni.
-
-(12) Az egyenlő esélyű hozzáférés feltételeit a közforgalmú menetrend alapján végzett személyszállításban részt vevő vasúti járműveken, továbbá a pályaudvar, a vasútállomás és a megállóhely személyforgalom lebonyolítására és kiszolgálására szolgáló részében fokozatosan, de legkésőbb 2013. január 1-jéig meg kell teremteni.
+(10)–(12)
 
 (13) Amennyiben a 32/A. § szerinti biztonsági szervezet feladatait a vasúti társaság a biztonságirányítási rendszerben látja el, a vasútbiztonsági engedély, vasútbiztonsági tanúsítvány módosítása iránti kérelmét 2012. január 31-éig nyújtja be a közlekedési hatóságnak. A vasútbiztonsági engedély, vasútbiztonsági tanúsítvány kizárólag erre irányuló módosítása kapcsán fizetendő igazgatási szolgáltatási díj a vasútbiztonsági engedély, vasútbiztonsági tanúsítvány kiadása hatósági díjának 40%-a.

@@ -28,7 +28,7 @@ m) külön jogszabályban meghatározott adatgyűjtési, adatszolgáltatási fel
 
 n) a miniszter részére a vasúti közlekedési alágazatra vonatkozó, a miniszter által előírt adatszolgáltatások teljesítése,
 
-o) a 79/B. § (1) bekezdése szerinti panaszok kezelése,
+o) a személyszállítási szolgáltatásokról szóló törvényben meghatározottak szerint a vasúti személyszállítást igénybe vevő utasok panaszainak kezelése,
 
 p) a vasúti személyszállítást igénybe vevő utasok jogaira vonatkozó rendelkezések betartásának ellenőrzése,
 

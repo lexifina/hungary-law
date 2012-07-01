@@ -1,9 +1,0 @@
-27/E. § (1) A vasúti igazgatási szerv a vasúti személyszállítási közszolgáltatási szerződésben rögzített kötelezettségek ellentételezésének biztosítása érdekében kártalanítási kötelezettséget állapíthat meg olyan vasúti társaságok részére, amelyek nem közszolgáltatásnak minősülő vasúti személyszállítási szolgáltatást nyújtanak két olyan meghatározott belföldi állomás között, amely szakaszra más vasúti társaság hatályos vasúti személyszállítási közszolgáltatási szerződéssel rendelkezik.
-
-(2) Az (1) bekezdés esetében az adott állomások között nem közszolgáltatásnak minősülő vasúti személyszállítást végző vasúti társaságok függetlenül attól, hogy belföldi vagy nemzetközi vasúti személyszállítást végeznek, azonos mértékű kártalanítást kötelesek fizetni. A kártalanításból befolyó és ellentételezésként kifizetett összeg nem haladhatja meg az érintett közszolgáltatási kötelezettségek során felmerült költségek egészének vagy egy részének fedezéséhez szükséges mértéket, figyelembe véve a vonatkozó bevételeket és az említett kötelezettségek teljesítéséből származó ágazatban elérhető ésszerű nyereséget is.
-
-(3) Az e § szerinti kártalanítás megállapításakor tiszteletben kell tartani a méltányosság, az átláthatóság, az egyenlő elbánás és az arányosság elvét. Az arányosság elvét különösen figyelembe kell venni a szolgáltatásért az utasok által fizetett díjak alapján számolt átlagos ellenérték és a kártalanítás mértéke közötti eltérés vizsgálatakor.
-
-(4) Az e § alapján kivetett kártalanítás mértéke nem veszélyeztetheti annak a vasúti személyszállítási szolgáltatásnak a gazdasági életképességét, amelyre azt kivetették.
-
-(5) A miniszter az e § alkalmazásával összefüggésben keletkezett információkat megőrzi, annak biztosítása érdekében, hogy a kártalanítás eredete és azok felhasználása nyomon követhetővé váljon, és az Európai Bizottság rendelkezésére bocsátja.

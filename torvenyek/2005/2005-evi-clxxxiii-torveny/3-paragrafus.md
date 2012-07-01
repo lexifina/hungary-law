@@ -2,7 +2,7 @@
 
 3. § (1) A Kormány feladata:
 
-a) a vasúti közlekedéspolitikára, valamint a vasúti közlekedés fejlesztésére vonatkozó – az épített és természeti környezet, továbbá az emberi egészség védelmével összehangolt, a fejlett információs és kommunikációs technológiák alkalmazására alapozott – koncepció jóváhagyása, a vasúti személyszállítási közszolgáltatás fejlesztése,
+a) a vasúti közlekedéspolitikára, valamint a vasúti közlekedés fejlesztésére vonatkozó – az épített és természeti környezet, továbbá az emberi egészség védelmével összehangolt, a fejlett információs és kommunikációs technológiák alkalmazására alapozott – koncepció jóváhagyása, a
 
 b) a vasúti közlekedéssel összefüggő nemzeti érdekek érvényesítése és kötelezettségek teljesítése nemzetközi kapcsolatokban,
 
@@ -28,20 +28,18 @@ f) a vasútbiztonság fenntartása és fejlesztése érdekében nyílt és megk�
 
 g) a közösségi vasutak biztonságáról, valamint a vasúttársaságok engedélyezéséről szóló 95/18/EK tanácsi irányelv és a vasúti infrastruktúrakapacitás elosztásáról, továbbá a vasúti infrastruktúra használati díjának felszámításáról és a biztonsági tanúsítványról szóló 2001/14/EK irányelv módosításáról szóló 2004. április 29-ei 2004/49/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2004/49/EK irányelv) 8. cikkének (2) és (4) bekezdésében, továbbá 32. cikkében, valamint az 1370/2007/EK rendelet 7. cikkének (1) bekezdésében és 8. cikkének (2) bekezdésében előírt jelentés közzététele,
 
-h) az 1370/2007/EK rendelet szerinti illetékes hatóságként és ellátásért felelősként az államháztartásért felelős miniszterrel egyetértésben az országos, a térségi és az elővárosi vasúti személyszállítási közszolgáltatási kötelezettség – a közszolgáltatási menetrend jóváhagyásával történő – megállapítása, a közszolgáltatást végző vasúti társasággal vasúti személyszállítási közszolgáltatási szerződés megkötése,
+h)
 
 i) az államháztartásért felelős miniszterrel egyetértésben az országos törzshálózati és regionális vasúti pályát és ezek tartozékait magában foglaló vasúti pályahálózat működtetésének hálózat-hozzáférési díj bevétellel és az ilyen vasúti pályahálózatot működtető pályavasúti társaság egyéb üzleti tevékenységéből, illetve az ilyen vasúti pályahálózatot működtető integrált vasúti társaság egyéb pályavasúti üzleti tevékenységéből eredő bevétellel nem fedezett – indokoltnak elismert – költségeinek a központi költségvetésből történő megtérítése, a 26. § és a 28. § (1) bekezdése szerinti szerződés alapján,
 
-j) az államháztartásért felelős miniszterrel egyetértésben a vállalkozó vasúti társaság vasúti személyszállítási közszolgáltatási kötelezettségéből eredő bevétellel nem fedezett – indokoltnak elismert – költségeinek a központi költségvetésből történő megtérítése, a vasúti személyszállítási közszolgáltatási szerződés alapján,
+j)–k)
 
-k) az államháztartásért felelős miniszterrel egyetértésben a vasúti személyszállítási közszolgáltatás díjához a – külön jogszabályban meghatározott kedvezményekből származó – bevételkiesés fogyasztói árkiegészítéssel történő ellentételezése,
-
-l) a vasúti személyszállítási közszolgáltatás és a belföldi menetrend szerinti személyszállítás szervezésére vonatkozó főbb prioritásokat tartalmazó egységes, országosan és regionálisan összehangolt, valamint az államháztartás teherbíró-képességét is figyelembe vevő közszolgáltatási menetrendi koncepció kidolgozása,
+l)
 
 m) a transzeurópai hagyományos és nagysebességű vasúti rendszerekre vonatkozó, a kölcsönös átjárhatóságot lehetővé tevő átjárhatósági műszaki előírásokban szabályozott esetekben a tagállam nevében az Európai Unió Bizottsága értesítése,
 
 m) az utasok számára elektronikus formában egységesen megismerhető közszolgáltatási menetrend és elektronikus utazásszervező működtetésére és fejlesztésére vonatkozó koncepció készítése.
 
-(3) A miniszter az állam nevében a települési önkormányzatokkal, illetőleg azok társulásaival a térségi, elővárosi, illetve helyi vasúti személyszállítási közszolgáltatás működtetése tárgyában – írásban – együttműködési megállapodást köthet.
+(3)
 
-(4) A miniszter az állam nevében a térségi, elővárosi, illetve helyi vasúti közlekedési tevékenységről írásbeli megállapodást köthet az egyéb vasúti pálya tekintetében. Ilyen megállapodás hiányában az egyéb vasúti pályáról az állami vagyonról szóló törvény szerint kell gondoskodni.
+(4)
