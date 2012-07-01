@@ -5,11 +5,3 @@ a) a műszaki szabványok és szabályok terén történő információszolgált
 b) a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv
 
 szerinti bejelentése megtörtént.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
