@@ -8,15 +8,15 @@ b) szervezi és koordinálja a terrorcselekmények megelőzését és elhárít�
 
 c) részt vesz a kritikus infrastruktúrák védelmére vonatkozó nemzeti program kidolgozásában, a veszélyeztetettség értékelésében és biztonsági intézkedési tervek kidolgozásában, továbbá külön szerződés alapján ellátja a terrorveszélyeztetettség szempontjából jelentős, kritikus infrastruktúrák védelmét,
 
-d) végzi a védett személyek és a kijelölt létesítmények védelméről szóló kormányrendeletben meghatározottak szerint a köztársasági elnök és a miniszterelnök védelmét, ennek keretében
+d)[^2] végzi a védett személyek és a kijelölt létesítmények védelméről szóló kormányrendeletben meghatározottak szerint a köztársasági elnök és a miniszterelnök védelmét, valamint a rendészetért felelős miniszter által ideiglenesen, eseti jelleggel a hatáskörébe utalt egyéb személyvédelmi feladatokat, ennek keretében
 
 da) személy-, valamint létesítményvédelmi feladatainak ellátása során irányítja a feladatok előkészítését és végrehajtását, valamint az általános rendőrségi feladatokat ellátó szerv tűzszerész szolgálati ágának szakegységeivel együttműködve végzi a személy- és létesítményvédelmi feladatkörében felmerülő tűzszerészeti feladatokat, a robbantással fenyegetett helyszínek átvizsgálását,
 
-db)[^2] végzi a Magyarország érdekei szempontjából jelentős – a köztársasági elnök és a miniszterelnök részvételével megtartott – rendezvények biztosításához kapcsolódó feladatok előkészítését és végrehajtását,
+db)[^3] végzi a Magyarország érdekei szempontjából jelentős – köztársasági elnök és a miniszterelnök részvételével megtartott, valamint a rendészetért felelős miniszter által ideiglenesen hatáskörébe utalt egyéb személyvédelmi feladatokkal összefüggő – rendezvények biztosításához kapcsolódó feladatok előkészítését és végrehajtását,
 
 dc) együttműködik a személy- és létesítményvédelmi feladatok biztosításban érdekelt és a biztosítás végrehajtásában közvetlenül érintett hazai, valamint külföldi szervekkel és szervezetekkel,
 
-de) nemzeti kapcsolattartó szervként – a Köztársasági Őrezredet érintő feladat esetén a Köztársasági Őrezred bevonásával – ellátja a közéleti személyiségek védelmére szolgáló Európai Hálózat tevékenységével kapcsolatos feladatokat,
+de)[^4] nemzeti kapcsolattartó szervként – a Készenléti Rendőrséget érintő feladat esetén a Készenléti Rendőrség bevonásával – ellátja a közéleti személyiségek védelmére szolgáló Európai Hálózat tevékenységével kapcsolatos feladatokat,
 
 e) személyvédelmi feladatai körében együttműködik az általános rendőrségi feladatokat ellátó szerv személyvédelmi feladatokat ellátó szerveivel, ennek végrehajtása során szakmailag koordinálja az ezzel kapcsolatos feladatok előkészítését és végrehajtását,
 
@@ -28,9 +28,9 @@ h) a nemzetközi kötelezettségek végrehajtása érdekében együttműködik a
 
 i) feladatkörében eljárva közreműködik az Európai Unió különleges intervenciós egységével való együttműködés keretében a bűnüldöző szervek nemzetközi együttműködéséről szóló törvényben, valamint az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvényben meghatározott segítségnyújtás végrehajtásában,
 
-j)[^3] ellátja a kormányügyeleti rendszer működési rendjéből fakadó feladatokat, valamint a Belügyminisztérium ügyeleti tevékenységét,
+j)[^5] ellátja a kormányügyeleti rendszer működési rendjéből fakadó feladatokat, valamint a Belügyminisztérium ügyeleti tevékenységét,
 
-k)[^4] ellátja – indokolt esetben az általános rendőrségi feladatokat ellátó szerv tűzszerész szolgálati ágának szakegységeivel együttműködve – a felderítési és felszámolási feladatkörében felmerülő tűzszerészeti tevékenységet, ennek keretében végzi különösen
+k)[^6] ellátja – indokolt esetben az általános rendőrségi feladatokat ellátó szerv tűzszerész szolgálati ágának szakegységeivel együttműködve – a felderítési és felszámolási feladatkörében felmerülő tűzszerészeti tevékenységet, ennek keretében végzi különösen
 
 ka) a fegyver- és robbanóanyagok felkutatásával összefüggő feladatok tűzszerészeti biztosítását,
 
@@ -40,7 +40,7 @@ kc) az intézkedések megtételét akadályozó tárgyak eltávolítását, a be
 
 kd) az előtalált robbanásveszélyes, robbantásos cselekmények végrehajtására utaló, valamint gyanús tárgyak vizsgálatát, hatástalanítását, továbbá – indokolt esetben – elszállítását és megsemmisítését,
 
-(2)[^5] A TEK az Rtv. 7/E. § (1) bekezdés b) pontja alapján a rendvédelmi szervek részére kizárólagos hatáskörrel, míg a Nemzeti Adó- és Vámhivatal, valamint az ügyészség tekintetében felkérésre végzi
+(2)[^7] A TEK az Rtv. 7/E. § (1) bekezdés b) pontja alapján a rendvédelmi szervek részére kizárólagos hatáskörrel, míg a Nemzeti Adó- és Vámhivatal, valamint az ügyészség tekintetében felkérésre végzi
 
 a) a szándékos bűncselekmény elkövetésén tetten ért személyek elfogását és előállítását, amennyiben a rendelkezésre álló információk alapján az elkövetésre fegyveresen kerül sor,
 
@@ -48,7 +48,7 @@ b) a bűncselekmény elkövetésével gyanúsítható fegyveres személyek elfog
 
 c) az ön- vagy közveszélyes állapotban lévő személy megfékezését, amennyiben a személy a vele szemben foganatosított intézkedés során fegyveresen vagy felfegyverkezve áll ellen.
 
-(3)[^6] A TEK a nyomozó hatóságok, a rendvédelmi szervek, továbbá az ügyészség felkérésére végrehajthatja különösen
+(3)[^8] A TEK a nyomozó hatóságok, a rendvédelmi szervek, továbbá az ügyészség felkérésére végrehajthatja különösen
 
 a) a (2) bekezdés b) pontjába nem sorolható, személy elleni erőszakos bűncselekmények megszakítását, az elkövetők elfogását,
 
@@ -60,18 +60,20 @@ d) a fogvatartott személy kísérését, ha a kísért személy veszélyessége
 
 e) a hatósági eljárás során lefoglalt, a közbiztonságra különösen veszélyes anyagok, valamint különösen nagy vagy különösen jelentős értékű kábítószer szállítását.
 
-(4)[^7] Amennyiben a rendelkezésre álló információk alapján kétséges, hogy a kizárólagos hatáskör az adott esetben fennáll-e, ha a késedelem veszéllyel nem jár, az érintett szerv előzetesen egyeztetni köteles a TEK-kel.
+(4)[^9] Amennyiben a rendelkezésre álló információk alapján kétséges, hogy a kizárólagos hatáskör az adott esetben fennáll-e, ha a késedelem veszéllyel nem jár, az érintett szerv előzetesen egyeztetni köteles a TEK-kel.
 
-(5)[^8] Halaszthatatlan intézkedésként, ha a késedelem az életet, testi épséget vagy a vagyonbiztonságot közvetlenül veszélyeztetné, vagy helyrehozhatatlan kárral járna, továbbá ha a késedelem nyilvánvalóan sértené a bűnüldözés eredményességéhez fűződő érdeket, az érintett rendvédelmi szerv a (2) bekezdésben megjelölt feladatot a TEK igénybevétele nélkül végrehajtja, a feladat felmerülésekor azonban a TEK-et haladéktalanul értesíteni köteles.
+(5)[^10] Halaszthatatlan intézkedésként, ha a késedelem az életet, testi épséget vagy a vagyonbiztonságot közvetlenül veszélyeztetné, vagy helyrehozhatatlan kárral járna, továbbá ha a késedelem nyilvánvalóan sértené a bűnüldözés eredményességéhez fűződő érdeket, az érintett rendvédelmi szerv a (2) bekezdésben megjelölt feladatot a TEK igénybevétele nélkül végrehajtja, a feladat felmerülésekor azonban a TEK-et haladéktalanul értesíteni köteles.
 
-(6)[^9] A TEK az Rtv. szerinti rendőrségi feladatok ellátása során közreműködhet a harmadik országbeli állampolgárok hatósági kísérettel történő kiutasításának végrehajtásában.
+(6)[^11] A TEK az Rtv. szerinti rendőrségi feladatok ellátása során közreműködhet a harmadik országbeli állampolgárok hatósági kísérettel történő kiutasításának végrehajtásában.
 
 [^1]: A 3. § (1) bekezdés a) pontja a 276/2011. (XII. 20.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^2]: A 3. § (1) bekezdés d) pont db) alpontja a 276/2011. (XII. 20.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^3]: A 3. § (1) bekezdés j) pontja a 376/2011. (XII. 31.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^4]: A 3. § (1) bekezdés k) pontját a 376/2011. (XII. 31.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^5]: A 3. § (2) bekezdése a 374/2011. (XII. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^6]: A 3. § (3) bekezdését a 374/2011. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^7]: A 3. § (4) bekezdését a 374/2011. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^8]: A 3. § (5) bekezdését a 374/2011. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^9]: A 3. § (6) bekezdését a 374/2011. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^2]: A 3. § (1) bekezdés d) pontja a 102/2012. (V. 18.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés d) pont db) alpontja a 276/2011. (XII. 20.) Korm. rendelet 18. §-a, a 102/2012. (V. 18.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés d) pont de) alpontja a 102/2012. (V. 18.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés j) pontja a 376/2011. (XII. 31.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (1) bekezdés k) pontját a 376/2011. (XII. 31.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^7]: A 3. § (2) bekezdése a 374/2011. (XII. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (3) bekezdését a 374/2011. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^9]: A 3. § (4) bekezdését a 374/2011. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^10]: A 3. § (5) bekezdését a 374/2011. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^11]: A 3. § (6) bekezdését a 374/2011. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
