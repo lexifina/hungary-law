@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-123-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2006-07-01 | 2006-123-20-22.1 | 123/2006. (V. 19.) Korm. rendelet |
+| 2012-07-01 | 2006-123-20-22.2 | 74/2014. (III. 13.) Korm. rendelet |
