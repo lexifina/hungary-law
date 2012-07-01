@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-261-20-
 | --- | --- | --- |
 | 2009-09-01 | 2002-261-20-22.2 | 261/2002. (XII. 18.) Korm. rendelet |
 | 2011-01-01 | 2002-261-20-22.3 | 360/2010. (XII. 30.) Korm. rendelet |
+| 2012-07-01 | 2002-261-20-22.4 | 135/2012. (VI. 28.) Korm. rendelet |
