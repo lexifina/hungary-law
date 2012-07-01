@@ -1,1 +1,0 @@
-## [A tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló 1978/1995. évi nemzetközi egyezmény mellékletének módosításai a Magyar Köztársaság vonatkozásában az egyezmény XII. cikke (vii) bekezdésének 2. pontja alapján 1999. január 1-jén léptek hatályba.]
