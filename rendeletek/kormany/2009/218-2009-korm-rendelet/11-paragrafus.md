@@ -1,4 +1,4 @@
-## 10. §[^8] A területrendezési terv kidolgozásáért felelős szerv a tervet a területrendezési tervezési jogosultságról és a területrendezési tervezési tevékenység felügyeletét ellátó hatóság kijelöléséről szóló kormányrendeletben meghatározott területrendezési tervezési tevékenység folytatására jogosult személlyel készítteti el.
+## 10/A. §[^9] A területrendezésért felelős miniszter az OTrT-nek az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 29. §-a szerinti felülvizsgálatáról, valamint az OTrT munkarészei módosításának előkészítéséről a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. útján gondoskodik.
 
 ## 11. § A területi terveket az Országos Területfejlesztési és Területrendezési Információs Rendszerbe (a továbbiakban: TeIR) történő illeszthetőség követelményeinek figyelembevételével elektronikus és papíralapú dokumentumként kell kidolgozni. Ennek érdekében:
 
@@ -12,4 +12,4 @@ d) a területrendezési terveket egységes országos vetületi rendszerben, vekt
 
 e) a területrendezési tervek kidolgozása során a térségi szerkezeti terv tartalmi elemeit egy tervlapon, az egyes, tartalmilag nem összetartozó és átfedő térségi övezeteket elkülönülő tervlapokon kell ábrázolni.
 
-[^8]: A 10. § a 77/2010. (III. 25.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^9]: A 10/A. §-t a 134/2012. (VI. 28.) Korm. rendelet 15. §-a iktatta be.
