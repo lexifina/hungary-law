@@ -6,7 +6,7 @@ a) az ellátott, és
 
 b) az intézmény vagy az intézménnyel az ellátottak foglalkoztatására megállapodást kötött szervezet
 
-által, legfeljebb egy évre kötött munkaszerződés alapján, a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény szerinti határozott idejű munkaviszony keretében folytatható. Az intézményi jogviszony megszűnése esetén a fejlesztő-felkészítő foglalkoztatásra irányuló jogviszony is megszűnik.
+által, legfeljebb egy évre kötött munkaszerződés alapján, a munka törvénykönyvéről szóló 2012. évi I. törvény szerinti határozott idejű munkaviszony keretében folytatható. Az intézményi jogviszony megszűnése esetén a fejlesztő-felkészítő foglalkoztatásra irányuló jogviszony is megszűnik.
 
 (3) Az intézmény és az intézménnyel az ellátottak foglalkoztatására megállapodást kötő szervezet közötti szerződésre a 122/B. §-ban foglaltakat megfelelően kell alkalmazni.
 
