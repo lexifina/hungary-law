@@ -52,7 +52,7 @@ d) a vizsgálat menetéről.
 
 (7) A vizsgálat – a (4) bekezdés szerinti eset kivételével – térítésmentes. A (4) bekezdés szerinti esetben az ellátott által fizetendő vizsgálati díj összege 4000 Ft.
 
-(8)[^19] Az ellátott, törvényes képviselője, illetve közeli hozzátartozója a felülvizsgálatot az intézményvezetőnél kezdeményezheti, aki tájékoztatja őket a (6)–(7) bekezdésben foglaltakról, majd a kezdeményezést a benyújtástól számított nyolc napon belül az általa kitöltött adatlapon, az (5) bekezdés szerinti dokumentumokat mellékelve továbbítja a Hivatal illetékes kirendeltségéhez.
+(8)[^19] Az ellátott, törvényes képviselője, illetve közeli hozzátartozója a felülvizsgálatot az intézményvezetőnél kezdeményezheti, aki tájékoztatja őket a (6)–(7) bekezdésben foglaltakról, majd a kezdeményezést a benyújtástól számított nyolc napon belül az általa kitöltött adatlapon, az (5) bekezdés szerinti dokumentumokat mellékelve továbbítja a Hivatalhoz.
 
 [^9]: Az 5. § (1) bekezdés nyitó szövegrésze a 357/2010. (XII. 30.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
 [^10]: Az 5. § (2) bekezdése a 174/2009. (VIII. 29.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg. E módosító rendelet 35. § (14) bekezdése alapján a rendelkezést a folyamatban lévő vizsgálatokra is alkalmazni kell.
@@ -64,4 +64,4 @@ d) a vizsgálat menetéről.
 [^16]: Az 5. § (4) bekezdése a 174/2009. (VIII. 29.) Korm. rendelet 30. § (1) bekezdésével megállapított, a 357/2010. (XII. 30.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
 [^17]: Az 5. § (5) bekezdése a 174/2009. (VIII. 29.) Korm. rendelet 30. § (1) bekezdésével megállapított, a 332/2010. (XII. 27.) Korm. rendelet 29. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^18]: Az 5. § (6) bekezdés nyitó szövegrésze a 357/2010. (XII. 30.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
-[^19]: Az 5. § (8) bekezdését a 174/2009. (VIII. 29.) Korm. rendelet 30. § (2) bekezdése iktatta be, szövege a 332/2010. (XII. 27.) Korm. rendelet 29. § (2) bekezdés b) pontja, a 357/2010. (XII. 30.) Korm. rendelet 21. § e) pontja szerint módosított szöveg.
+[^19]: Az 5. § (8) bekezdését a 174/2009. (VIII. 29.) Korm. rendelet 30. § (2) bekezdése iktatta be, szövege a 332/2010. (XII. 27.) Korm. rendelet 29. § (2) bekezdés b) pontja, a 357/2010. (XII. 30.) Korm. rendelet 21. § e) pontja, a 95/2012. (V. 15.) Korm. rendelet 40. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.
