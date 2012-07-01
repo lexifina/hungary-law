@@ -1,4 +1,4 @@
-16. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^294]
+16. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^298]
 
 ## A dízelmotorral hajtott M2 és M3, valamint az N1, N2 és N3 kategóriájú gépjárművekbe utólagosan felszerelt részecske kibocsátást csökkentő rendszerekre vonatkozó követelmények
 
@@ -56,34 +56,4 @@ VF: a részecske kibocsátást csökkentő rendszer térfogata
 
 VH: a motor lökettérfogata
 
-2. A részecske-kibocsátás csökkentési osztályainak definíciója
-
-A részecske kibocsátást csökkentő rendszerrel utólag felszerelt haszonjárművek az alábbi részecske – kibocsátás csökkentési osztályba tartoznak, amennyiben teljesítik a kipufogógáz-emissziójukra a kiinduló állapotban előírt követelményeket:
-
-|  |  | kategória |
-
-|  | PMO 01 | N1/II és III: 0,17 g/km |
-
-|  | PMO 0, | N1/I, II és III: 0,100g/km M2, M3; N2, N3:0,15 g/kWh – ESC |
-
-|  | PMO 1, | N1/II és III:0,05g/km; M2, M3; N2, N3:0,100 g/kWh – ESC |
-
-|  | PMO 2, | N1/II és III:0,025 g/km; M2, M3; N2, N3:0,02 g/kWh – ESC 0,03 g/kWh – ETC |
-
-|  | PMO 3, | N1/II és III:0,0125g/km; M2, M3; N2, N3:0.02g/kWh – ESC; ELR; ETC |
-
-|  | PMO 4, | N1/II és III:0,005g/km |
-
-3. A részecske kibocsátást csökkentő rendszerekkel szemben támasztott követelmények
-
-A kérelmezőnek a 4. és az 5. vagy 6. pontban ismertetett vizsgálatokkal kell alátámasztania és igazolnia, hogy a rendszer működőképessége – rendeltetésszerű üzemeltetést feltételezve – a hengerenként 0,75 dm3 alatti lökettérfogatú és 3000 min1 fölötti névleges teljesítményhez tartozó fordulatszámú motorral hajtott haszonjárművek esetében 80.000 km megtételéig, egyéb haszonjárművek esetében 200.000 km-ig vagy 6 évig terjedő élettartamig – attól függően, hogy melyik kritérium teljesül elsőként – szavatolt.
-
-A részecske kibocsátást csökkentő rendszer nem tartalmazhat olyan elemet, amelynek segítségével e rendszert üzemen kívül helyezik, egyébként a 3.2. pont szerinti követelmények érvényesek.
-
-3.1. Az azonosság kritériumai
-
-A részecske kibocsátást csökkentő rendszer az alábbi kritériumok vonatkozásában egymástól nem térhet el:
-
-3.1.1. a részecskék leválasztására szolgáló anyag szűrési módja és működési elve (fém, kerámia),
-
-[^294]: A 16. számú mellékletet a 23/2012. (V. 8.) NFM rendelet 11. § (4) bekezdése iktatta be.
+[^298]: A 16. számú mellékletet a 23/2012. (V. 8.) NFM rendelet 11. § (4) bekezdése iktatta be.

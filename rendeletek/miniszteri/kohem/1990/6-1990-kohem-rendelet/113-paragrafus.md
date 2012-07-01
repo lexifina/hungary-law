@@ -1,3 +1,5 @@
+## 112/C. §[^174] A versenyjárműnek – a gépkönyvében meghatározott versenyzési célú műszaki jellemzői tekintetében – nem kell megfelelnie az e rendeletben meghatározott további műszaki feltételeknek.
+
 ## Csoportos személyszállításra használt tehergépkocsikra vonatkozó üzemeltetési műszaki feltételek
 
 ## 113. § A csoportos személyszállításra használt tehergépkocsit fel kell szerelni:
@@ -11,3 +13,5 @@ c) az utasok fel- és leszállására alkalmas lépcsővel vagy hágcsóval,
 d) olyan könnyen kezelhető jelzőkészülékkel, amely a szállított személyek és a vezető állandó összeköttetését biztosítja,
 
 e) az e rendeletben az utóbuszra előírt mentődobozzal.
+
+[^174]: A 112/C. §-t a 23/2012. (V. 8.) NFM rendelet 7. §-a iktatta be.
