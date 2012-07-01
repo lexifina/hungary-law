@@ -8,8 +8,6 @@ a) nem éri el a becsérték 50%-át, lakóingatlan esetében a 147. § (3) beke
 
 b) nem haladja meg legalább a licitküszöb összegével vagy annak többszörösével az előzőleg közzétett vételi ajánlatot.
 
-(4) Ha az árverező vételi ajánlatának közzétételét követően az elektronikus árverési rendszer újabb vételi ajánlatot tesz közzé a licitnaplóban, az árverező kérelmére a végrehajtó 3 munkanapon belül intézkedik az árverési előleg visszautalásáról.
+(4)–(5)
 
-(5) Az elektronikus árverési rendszer az árverést megelőző munkanap 12 órakor zárja le automatikusan a licitnaplót.
-
-(6) Az elővásárlásra jogosult települési önkormányzat valamennyi közzétett ajánlat vonatkozásában az árverés befejezéséig, az utolsóként közzétett vételi ajánlat vonatkozásában pedig a licitnapló lezárásának napján 24 óráig az aktivált felhasználói nevének és jelszavának megadásával, a közzétett vételi ajánlattal megegyező összegű vételi ajánlat tételével gyakorolhatja elővásárlási jogát. Az elővásárlási jog gyakorlására irányuló vételi ajánlatot az elektronikus árverési rendszer automatikusan közzéteszi az árverési hirdetményen.
+(6)

@@ -12,10 +12,4 @@ c) jogalap nélkül felvett munkavállalói munkabér és társadalombiztosítá
 
 (3) Több letiltás esetén a levonás a munkavállalói munkabérnek legfeljebb 50%-áig terjedhet.
 
-(4) E § alkalmazása során a munkavállalói munkabérhez tartoznak a következő összegek is:
-
-a) a munkáltató által a munkavállaló részére a betegszabadságának idejére kifizetett összeg,
-
-b) a végkielégítés,
-
-c) a jutalom.
+(4) Az (1)–(3) bekezdések alkalmazásában munkavállalói munkabérnek minősül a munkáltató által, a személyi jövedelemadóról szóló törvény szerinti béren kívüli juttatás kivételével minden olyan, a munkavállaló munkaviszonyára vagy annak megszüntetésére, megszűnésére tekintettel kifizetett pénzbeli juttatás, amelyet személyi jövedelemadó-előleg fizetési kötelezettség terhel a magánszemélynél.
