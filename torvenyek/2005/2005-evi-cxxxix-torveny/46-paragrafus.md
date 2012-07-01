@@ -84,4 +84,4 @@ f) választó és választható legyen a hallgatói önkormányzatba.
 
 (9) A felsőoktatási intézmény a szervezeti és működési szabályzatában jogszabály alapján nem kötelező hallgatói juttatás igénybevételének lehetőségét közösségi célú tevékenységben való részvételhez kötheti.
 
-(10) A hallgató hallgatói munkadíj ellenében akkor végezhet munkát, ha hallgatói munkaszerződést kötöttek vele. A hallgatói munkaszerződés alapján munkát végző hallgató foglalkoztatására a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Munka Törvénykönyve) rendelkezéseit megfelelően alkalmazni kell.
+(10) A hallgató hallgatói munkadíj ellenében akkor végezhet munkát, ha hallgatói munkaszerződést kötöttek vele. A hallgatói munkaszerződés alapján munkát végző hallgató foglalkoztatására a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit megfelelően alkalmazni kell.

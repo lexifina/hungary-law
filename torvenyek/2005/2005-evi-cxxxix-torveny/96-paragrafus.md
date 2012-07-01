@@ -32,7 +32,7 @@ b) szervezeti egység vezetői és vezetőhelyettesei.
 
 (8) A magasabb vezetői és vezetői megbízásokra benyújtott pályázatok rangsorolásáról a szenátus dönt. Döntését a (7) bekezdésben meghatározott kivétellel megküldi a rektornak. A rektor a szenátus véleményének mérlegelésével dönt a vezetői megbízás kiadásáról.
 
-(9) A magasabb vezető a vezetői tevékenységének keretében gondatlanul okozott károkért teljes mértékben felel. A magasabb vezető által a vezetői tevékenység keretében szándékosan okozott kárért, illetve a nem vezetői tevékenysége keretében okozott kárért az általános felelősségi szabályok (Munka Törvénykönyve Harmadik Rész, VIII. fejezet) az irányadóak azzal az eltéréssel, hogy gondatlan károkozás esetén a felelősség mértéke a vezető tizenkét havi átlagkeresetéig terjedhet.
+(9) A magasabb vezető a vezetői tevékenységének keretében gondatlanul okozott károkért teljes mértékben felel. A magasabb vezető által a vezetői tevékenység keretében szándékosan okozott kárért, illetve a nem vezetői tevékenysége keretében okozott kárért az általános felelősségi szabályok (Mt. XIV. fejezet) az irányadóak azzal az eltéréssel, hogy gondatlan károkozás esetén a felelősség mértéke a vezető tizenkét havi átlagkeresetéig terjedhet.
 
 (10) A magasabb vezetői és a vezetői megbízás – ha e törvény eltérően nem rendelkezik – a hatvanötödik életév betöltéséig szólhat. Ha a magasabb vezetői megbízás időtartama – részben, vagy teljes egészében – a hatvanötödik életév betöltését követően kerülne kitöltésre, a megbízás a szenátus tagjai kétharmadának igenlő szavazatával meghozott döntésével – legfeljebb a hetvenedik életév betöltéséig terjedő időszakra – adható meg.
 

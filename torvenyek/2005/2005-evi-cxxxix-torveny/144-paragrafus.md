@@ -4,7 +4,7 @@
 
 (2) A művészeti felsőoktatási intézmény művészeti gyakorlóhelyet létesíthet és tarthat fenn.
 
-(3) A táncművészeti képzési ágban a felsőfokú tanulmányok a középiskolában folytatott tanulmányok alatt, az érettségi vizsgát megelőzően is megkezdhetők oly módon, hogy a tanulói jogviszony mellett a felsőoktatási intézménnyel hallgatói jogviszony jön létre. A hallgató egyidejűleg sajátítja el az érettségi vizsga letételéhez szükséges követelményeket és a művészeti képzés követelményeit. Az e bekezdésben szabályozott hallgatók tekintetében alkalmazni kell a Munka Törvénykönyve 129/A. §-ának (2)–(6) bekezdését is.
+(3) A táncművészeti képzési ágban a felsőfokú tanulmányok a középiskolában folytatott tanulmányok alatt, az érettségi vizsgát megelőzően is megkezdhetők oly módon, hogy a tanulói jogviszony mellett a felsőoktatási intézménnyel hallgatói jogviszony jön létre. A hallgató egyidejűleg sajátítja el az érettségi vizsga letételéhez szükséges követelményeket és a művészeti képzés követelményeit. Az e bekezdésben szabályozott hallgatók tekintetében alkalmazni kell az Mt. 114. § (1) és (3)–(4) bekezdését is.
 
 (4) A művészeti felsőoktatási intézmény az egyetem elnevezést akkor is használhatja, ha egy képzési területen jogosult mesterképzésre, valamint egy tudományterületen doktori képzésre és doktori fokozat odaítélésére.
 
