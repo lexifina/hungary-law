@@ -3664,7 +3664,7 @@ Ezen kategórián belül a progresszivitás legfelsőbb fokát az egyetemi oktat
 
 Minimum ágyszám: 15
 
-2K10148_56
+2K12288M_56
 
 | Bőrgyógyászati osztály minimumfeltételei |
 
@@ -4064,4 +4064,4 @@ A legmagasabb szintű, a szakmai minimum feltételek által meghatározott kis s
 
 A III.-as szintnek megfelelő tevékenységeken kívül őssejt-transzplantáció végzése önállóan vagy intézményen belüli kooperációval.
 
-[^41]: A 2. melléklet az 1/2012. (V. 31.) EMMI rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^41]: A 2. melléklet az 1/2012. (V. 31.) EMMI rendelet 9. § (2) bekezdésével megállapított, a 6/2012. (VI. 28.) EMMI rendelet 1. §-a szerint módosított szöveg.
