@@ -1,7 +1,5 @@
 ## 9/A. §[^58]
 
-## Az e rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
-
 ## A közműves ivóvízellátás
 
 ## 10. §
@@ -20,6 +18,6 @@
 
 (7)[^60] A szolgáltatás korlátozása akkor közérdekű, ha azt a víziközmű biztonságos működtetésével összefüggő közegészségügyi vagy egyéb követelmény (így például hálózatfejlesztés, jelentősebb üzemzavar-elhárítás) teszi indokolttá.
 
-[^58]: A 9/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^58]: A 9/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 24. § (2) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § a) pontja.
 [^59]: A 10. § (6) bekezdését a 37/1999. (II. 26.) Korm. rendelet 9. §-a iktatta a szövegbe.
 [^60]: A 10. § (7) bekezdését a 37/1999. (II. 26.) Korm. rendelet 9. §-a iktatta a szövegbe.
