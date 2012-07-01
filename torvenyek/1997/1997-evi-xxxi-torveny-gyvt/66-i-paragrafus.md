@@ -30,4 +30,4 @@ napra emelkedik.
 
 (5) A szabadság időtartamára a teljes hivatásos nevelőszülői díj jár.
 
-(6) A szabadság kiadására és pénzbeli megváltására a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) vonatkozó szabályait kell megfelelően alkalmazni.
+(6) A szabadság kiadására és pénzbeli megváltására a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) vonatkozó szabályait kell megfelelően alkalmazni.
