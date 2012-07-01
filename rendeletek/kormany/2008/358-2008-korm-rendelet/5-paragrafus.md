@@ -1,4 +1,4 @@
-## 4/A. §[^7] Az e rendelet szerint a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
+## 4/A. §[^7]
 
 5. § (1) A jegyző a telepengedély iránti kérelem beérkezését követően köteles meggyőződni arról, hogy a helyi építési szabályzat, szabályozási terv, meghatározott övezeti besorolás, illetőleg azok hiányában az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 18. § (2) bekezdése szerint a kérelemben feltüntetett telepen az adott tevékenység végezhető-e.
 
@@ -12,7 +12,7 @@
 
 (6)[^11] A helyszíni szemléről a jegyző jegyzőkönyvet készít, a jegyzőkönyv egy-egy példányát megküldi azoknak a személyeknek, akiket a szemle időpontjáról értesített.
 
-[^7]: A 4/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 232. §-a iktatta be.
+[^7]: A 4/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 232. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § m) pontja.
 [^8]: Az 5. § (2) bekezdése a 211/2009. (IX. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
 [^9]: Az 5. § (3) bekezdése a 211/2009. (IX. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
 [^10]: Az 5. § (4) bekezdése a 211/2009. (IX. 29.) Korm. rendelet 10. § (2) bekezdés b) pontja, továbbá a (3) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
