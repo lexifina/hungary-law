@@ -1,3 +1,3 @@
-2. §[^2]
+## 1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: Vhr.) 3/A. §-a a következő (1c) bekezdéssel egészül ki:
 
-[^2]: Az 1–2. § a 16. § (2) bekezdése alapján 2012. július 1-jén lép hatályba.
+## „(1c) A szakellátást nyújtó egészségügyi szolgáltató által foglalkoztatott személyt és a közeli hozzátartozóját választása alapján az (1) bekezdés szerinti szolgáltató helyett a foglalkoztató egészségügyi szolgáltatóhoz kell beutalni.”
