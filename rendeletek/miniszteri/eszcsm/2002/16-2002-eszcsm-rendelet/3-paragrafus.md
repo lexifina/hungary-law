@@ -20,7 +20,7 @@ e)[^3] a műtétet követően azzal összefüggő szövődmény fellépése eset
 
 ea) a beavatkozás szakmai besorolása szerinti aktív fekvőbeteg háttérrel rendelkezés esetén saját intézményében, vagy
 
-eb) a beavatkozás szakmai besorolása szerinti aktív fekvőbeteg háttér hiányában előzetes szerződés alapján olyan fekvőbeteg-ellátásra alkalmas intézményben, amely a beavatkozás szakmai besorolása szerinti aktív osztállyal is rendelkezik és az egynapos sebészeti ellátást végző intézettől személygépkocsival (mentővel) – átlagos forgalmat figyelembe véve – 30 percen belül elérhető;
+eb)[^4] a beavatkozás szakmai besorolása szerinti aktív fekvőbeteg háttér hiányában előzetes szerződés alapján olyan fekvőbeteg-ellátásra alkalmas intézményben, amely a beavatkozás szakmai besorolása szerinti aktív osztállyal is rendelkezik és az egynapos sebészeti ellátást végző intézettől személygépkocsival (mentővel) – átlagos forgalmat figyelembe véve – 45 percen belül elérhető;
 
 f) a műtét során eltávolított anyag szövettani vizsgálatának lehetőségét;
 
@@ -28,3 +28,4 @@ g) a beteg részére zárójelentést, amellyel szükség esetén a keresőképt
 
 [^2]: A 3. § (1) bekezdés záró szövegrésze a 36/2011. (VI. 27.) NEFMI rendelet 7. §-a szerint módosított szöveg.
 [^3]: A 3. § (2) bekezdésének e) pontja a 10/2008. (III. 18.) EüM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 3. § (2) bekezdés e) pont eb) alpont a 6/2012. (VI. 28.) EMMI rendelet 2. §-a szerint módosított szöveg.
