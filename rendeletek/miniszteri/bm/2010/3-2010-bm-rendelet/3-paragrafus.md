@@ -8,7 +8,7 @@ b) a fontos és bizalmas munkakörökről, valamint a biztonsági ellenőrzés s
 
 c) a fontos és bizalmas munkakörökről, valamint a nemzetbiztonsági ellenőrzés szintjéről szóló 1/2008. (II. 26.) TNM rendelet 1. § (1) bekezdésében az „a MeH Nemzetbiztonsági Iroda és a Szervezett Bűnözés Elleni Koordinációs Központ” szövegrész.
 
-Melléklet a 3/2010. (X. 21.) BM rendelethez[^1]
+Melléklet a 3/2010. (X. 21.) BM rendelethez[^2]
 
 | Szám | A munkakör megnevezése | A nemzetbiztonsági ellenőrzés szintje |
 
@@ -90,13 +90,13 @@ Melléklet a 3/2010. (X. 21.) BM rendelethez[^1]
 
 | 39 | a Számítástechnikai Központ vezetője, a Stratégiai és Szervezési Osztály vezetője, a Fejlesztési Osztály vezetője | C |
 
-| 40 | Köztársasági Őrezred |  |
+| 40 |  |  |
 
-| 41 | a Személyvédelmi Főosztály vezetője, az Ellenőrzési Szolgálat vezetője, a Hivatal vezetője, a biztonsági vezető, az Objektumvédelmi Főosztály vezetője, a Gazdasági Igazgatóság igazgatója | C |
+| 41 |  |  |
 
-| 42 | az Objektumvédelmi Főosztály osztályvezetői, a Gazdasági Igazgatóság osztályvezetői, a Személyvédelmi Főosztály osztályvezetői | B |
+| 42 |  |  |
 
-| 43 | a Külügyminisztérium Őrségi Alosztály vezetője, az objektumőri, a technikusi, valamint az eligazítói feladatokat ellátó munkakörök | A |
+| 43 |  |  |
 
 | 44 | Nemzeti Nyomozó Iroda (a továbbiakban: NNI) |  |
 
@@ -108,9 +108,11 @@ Melléklet a 3/2010. (X. 21.) BM rendelethez[^1]
 
 | 48 | Készenléti Rendőrség |  |
 
-| 49 | a Rendészeti Igazgatóság igazgatója, a Különleges Szolgálatok Igazgatósága igazgatója, az Állami Futárszolgálat parancsnoka és helyettese, az Ellenőrzési Szolgálat vezetője, a hivatalvezető, a biztonsági vezető | C |
+| 49 | a Készenléti Rendőrség igazgatói, az Állami Futárszolgálat parancsnoka és helyettese, az Ellenőrzési Szolgálat vezetője, a hivatalvezető, a Személy- és Objektumvédelmi Igazgatóság főosztályvezetői, a Gazdasági Igazgatóság Informatikai Osztály vezetője, a biztonsági vezető, a Levélirányító Osztály, a Futár Osztály és a Szolgálatirányító Alosztály állománya, a Védelemszervező Szolgálat valamennyi munkaköre | C |
 
-| 50 | a Támogató Igazgatóság igazgatója, a Pénzkísérő Szolgálat szolgálatparancsnoka, a Tűzszerész Szolgálat szolgálatparancsnoka, a Légirendészeti Parancsnokság parancsnoka, a Humánigazgatási Szolgálat vezetője, a Bevetési Főosztályok vezetői, az Ügyeleti Osztály vezetője | B |
+| 50 | a Pénzkísérő Szolgálat szolgálatparancsnoka, a Tűzszerész Szolgálat parancsnoka, a Légirendészeti Parancsnokság parancsnoka, a Humánigazgatási Szolgálat vezetője, a Bevetési Főosztályok vezetői, az Ügyeleti és Védelmi Szolgálat vezetője, ügyeletvezetője, a Személy- és Objektumvédelmi Igazgatóság osztályvezetői, a Gazdasági Igazgatóság igazgató-helyettese és osztályvezetői | B |
+
+| 50a | a Külügyminisztérium Őrségi Alosztály vezetője, szolgálatparancsnoka, az objektumőri, a technikusi, valamint az eligazítói feladatokat ellátó munkakörök | A |
 
 | 51 | Repülőtéri Rendőr Igazgatóság |  |
 
@@ -222,13 +224,13 @@ Melléklet a 3/2010. (X. 21.) BM rendelethez[^1]
 
 | 103 | a Szervezett Bűnözés Elleni Koordinációs Központ valamennyi munkaköre | C |
 
-| 104 | VIII. Nemzetközi Oktatási és Polgári Válságkezelési Központ |
+| 104 | VIII. Belügyminisztérium Nemzetközi Oktatási Központ |  |
 
 | 105 | a főigazgató-helyettes, a biztonsági vezető | C |
 
-| 106 | Nemzetközi Oktatási Főosztályon az ILEA, KERA CEPOL osztályvezetői | B |
+| 106 | az ILEA, KERA, CEPOL osztályvezetői | B |
 
-| 107 | Polgári Válságkezelési és Béketámogató Főosztály főosztályvezetője és helyettese | C |
+| 107 |  |  |
 
 | 108 | IX. Rendőrtiszti Főiskola |
 
@@ -256,4 +258,4 @@ Melléklet a 3/2010. (X. 21.) BM rendelethez[^1]
 
 | 120 | akinek a Mavtv. 5. § (4) bekezdés c) pontja szerinti nemzeti „Bizalmas!”, vagy 9. § (1) bekezdésében szereplő, illetve a 9. § (2) bekezdése szerint nemzetközi szerződésben meghatározott vagy külföldi minősítéssel és jelöléssel ellátott „Bizalmas” adatot kell megismernie | A |
 
-[^1]: A melléklet a 38/2011. (XI. 3.) BM rendelet 1. §-ával megállapított, a 11/2012. (III. 30.) BM rendelet 2. §-a, a 13/2012. (III. 30.) BM rendelet 5. §-a szerint módosított szöveg.
+[^2]: A melléklet a 38/2011. (XI. 3.) BM rendelet 1. §-ával megállapított, a 11/2012. (III. 30.) BM rendelet 2. §-a, a 13/2012. (III. 30.) BM rendelet 5. §-a, a 31/2012. (VI. 28.) BM rendelet 9. §-a szerint módosított szöveg.
