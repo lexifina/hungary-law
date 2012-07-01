@@ -24,10 +24,11 @@
 
 10. segélyhívás: amikor a rendőr saját maga észleli más személy segélykérését, és emiatt, ezzel összefüggésben intézkedésbe kezd,
 
-11. rendőri szerv: az Országos Rendőr-főkapitányság, a megyei (fővárosi) rendőr-főkapitányság, a rendőrkapitányság, a határrendészeti kirendeltség, a Nemzeti Nyomozó Iroda, a Készenléti Rendőrség, a Köztársasági Őrezred, a Repülőtéri Rendőr Igazgatóság, a Bűnügyi Szakértői és Kutatóintézet, a Terrorelhárítási Központ, valamint a Nemzeti Védelmi Szolgálat,
+11.[^2] rendőri szerv: az Országos Rendőr-főkapitányság, a megyei (fővárosi) rendőr-főkapitányság, a rendőrkapitányság, a határrendészeti kirendeltség, a Nemzeti Nyomozó Iroda, a Készenléti Rendőrség, a Repülőtéri Rendőr Igazgatóság, a Bűnügyi Szakértői és Kutatóintézet, a Terrorelhárítási Központ, valamint a Nemzeti Védelmi Szolgálat,
 
 12. támadással közvetlenül fenyegető magatartás: az a fellépés, amikor a támadó helyzetéből, tevékenységének módjából és eszközéből a rendőr alaposan következtet arra, hogy a támadás nyomban bekövetkezik,
 
 13. testi épséget súlyosan veszélyeztető támadás: ha a támadó helyzetéből, tevékenységének módjából és eszközéből alaposan feltételezhető a súlyos sérülés közvetlen veszélye.
 
 [^1]: Az 1. § a 68/2011. (XII. 30.) BM rendelet 35. § (1) bekezdése szerint módosított szöveg.
+[^2]: A 2. § 11. pontja a 31/2012. (VI. 28.) BM rendelet 15. § a) pontja szerint módosított szöveg.

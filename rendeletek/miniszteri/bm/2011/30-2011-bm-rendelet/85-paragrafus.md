@@ -1,4 +1,4 @@
-## 84. § Készenlétet az országos rendőrfőkapitány, a Terrorelhárítási Központ főigazgatója, a Nemzeti Védelmi Szolgálat főigazgatója, a bűnügyi főigazgató, a rendészeti főigazgató, a Köztársasági Őrezred parancsnoka, a Készenléti Rendőrség parancsnoka, a Nemzeti Nyomozó Iroda igazgatója, a Repülőtéri Rendőr Igazgatóság igazgatója, a Bűnügyi Szakértői- és Kutatóintézet Bűnügyi Technikai Főosztály vezetője, a megyei (fővárosi) rendőrfőkapitány, a rendőrkapitány és a határrendészeti kirendeltség vezetője rendelhet el az irányítása alatt álló szerv, szervezeti egység vagy szervezeti elem vonatkozásában.
+## 84. §[^20] Készenlétet az országos rendőrfőkapitány, a Terrorelhárítási Központ főigazgatója, a Nemzeti Védelmi Szolgálat főigazgatója, a bűnügyi főigazgató, a rendészeti főigazgató, a Készenléti Rendőrség parancsnoka, a Nemzeti Nyomozó Iroda igazgatója, a Repülőtéri Rendőr Igazgatóság igazgatója, a Bűnügyi Szakértői- és Kutatóintézet Bűnügyi Technikai Főosztály vezetője, a megyei (fővárosi) rendőrfőkapitány, a rendőrkapitány és a határrendészeti kirendeltség vezetője rendelhet el az irányítása alatt álló szerv, szervezeti egység vagy szervezeti elem vonatkozásában.
 
 ## 62. Felügyeleti szolgálati forma
 
@@ -7,3 +7,5 @@
 (2) Felügyeleti szolgálatot olyan, nagyobb számú közönséget vonzó rendezvényeken, kulturális és egyéb létesítményekben lehet szervezni, ahol a közrend, közbiztonság fenntartása érdekében az ilyen szolgálat ellátása szükséges.
 
 (3) A rendőrkapitányság vezetője a helyi viszonyoknak megfelelően dönti el, hogy mely létesítményekben, milyen alkalomból indokolt felügyeleti szolgálatot elrendelni, valamint meghatározza azokat a létesítményeket, amelyekben e feladatot járőr hajtja végre.
+
+[^20]: A 84. § a 31/2012. (VI. 28.) BM rendelet 15. § d) pontja szerint módosított szöveg.

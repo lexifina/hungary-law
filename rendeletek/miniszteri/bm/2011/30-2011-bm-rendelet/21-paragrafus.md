@@ -8,7 +8,7 @@ a) robbanóanyag, robbanó szerkezet találásáról a Készenléti Rendőrség 
 
 b) mérgező, sugárzó, radioaktív, nukleáris anyag találásáról a területileg illetékes katasztrófavédelmi szerv ügyeletét, az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) Főügyeletét és a Terrorelhárítási Központ ügyeletét,
 
-c) ha a talált sugárzó, radioaktív, nukleáris, továbbá mérgező anyag vagy az ezekkel kapcsolatos intézkedések a Köztársasági Őrezred által védett létesítményeket, biztosított rendezvényeket, továbbá a védett személyek programhelyszínét érintik, a Köztársasági Őrezred ügyeletét
+c)[^4] ha a talált sugárzó, radioaktív, nukleáris, továbbá mérgező anyag vagy az ezekkel kapcsolatos intézkedések a Készenléti Rendőrség által védett létesítményeket, biztosított rendezvényeket, továbbá a védett személyek programhelyszínét érintik, a Készenléti Rendőrség ügyeletét
 
 haladéktalanul értesíti.
 
@@ -17,3 +17,5 @@ haladéktalanul értesíti.
 a) a katonai robbanószerkezetet bűncselekmény elkövetéséhez eszközül használták fel vagy arra szánták,
 
 b) a katonai robbanószerkezetre követték el a bűncselekményt.
+
+[^4]: A 21. § (2) bekezdés c) pontja a 31/2012. (VI. 28.) BM rendelet 14. § a) pontja szerint módosított szöveg.
