@@ -50,6 +50,8 @@ c) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra 
 
 d) a Közösségi Vízumkódex létrehozásáról szóló (vízumkódex), 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [2. §, 8. §, 9. §, 12. §, 111. §];
 
-e) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról szóló 862/2007EK európai parlamenti és tanácsi rendelet
+e) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról szóló 862/2007EK európai parlamenti és tanácsi rendelet;
+
+f) az Európai Parlament és a Tanács 1168/2011/EU rendelete (2011. október 25.) által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 11b. cikkének (107. §)
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

@@ -28,7 +28,7 @@ i) visszafogadási egyezmény: személyeknek az államhatáron történő átad�
 
 j) beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés: valamely schengeni állam által a Schengeni Információs Rendszerben abból a célból elhelyezett adatcsoport, hogy egy harmadik országbeli állampolgárnak a schengeni államok területére történő beutazását vagy tartózkodását megtagadják;
 
-k) munkáltató: az a természetes vagy jogi személy, jogi személyiség nélküli szervezet – a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 193/C. § b) pontjában meghatározott kölcsönbeadót is ideértve – amelynek javára, vagy irányítása alatt a foglalkoztatására sor kerül;
+k) munkáltató: az a természetes vagy jogi személy, jogi személyiség nélküli szervezet – a munka törvénykönyvéről szóló 2012. évi I. törvény 214. § (1) bekezdés b) pontjában meghatározott kölcsönbeadót is ideértve – amelynek javára, vagy irányítása alatt a foglalkoztatására sor kerül;
 
 l) meghívó: az a természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet, aki, illetve amely hatósági hozzájárulással ellátott meghívólevélben kötelezettséget vállal arra, hogy a meghívott harmadik országbeli állampolgár részére – Magyarország területén történő tartózkodása időtartamára – szállást biztosít, eltartásáról gondoskodik, továbbá – ha nemzetközi szerződés másként nem rendelkezik – egészségügyi ellátásának, valamint kiutazásának költségeit fedezi;
 

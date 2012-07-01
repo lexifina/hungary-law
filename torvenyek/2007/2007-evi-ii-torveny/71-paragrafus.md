@@ -10,4 +10,4 @@
 
 (6) A közrendvédelmi bírság megfizetésének kötelezettsége alól a munkáltató akkor mentesül, ha bizonyítja, hogy az (1)–(4) bekezdésben foglalt ellenőrzési és bejelentési kötelezettségének eleget tett, kivéve, ha tudott, vagy kellő gondosság mellett tudhatott volna arról, hogy az érvényes tartózkodási engedélyként vagy más, tartózkodásra jogosító engedélyként bemutatott okmány hamis volt.
 
-(7) A munkáltató fővállalkozója a munkáltatóval egyetemlegesen felel a közrendvédelmi bírság megfizetéséért akkor, ha tudott, vagy kellő gondosság mellett tudhatott volna arról, hogy az alvállalkozó munkáltató harmadik országbeli állampolgárt érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély, vagy az e törvény alapján keresőtevékenység folytatására jogosító engedély nélkül foglalkoztat.
+(7) A fővállalkozó és valamennyi közbenső alvállalkozó az alvállalkozó munkáltatóval egyetemlegesen felel a közrendvédelmi bírság megfizetéséért akkor, ha tudott, vagy kellő gondosság mellett tudhatott volna arról, hogy az alvállalkozó munkáltató harmadik országbeli állampolgárt az e törvény szerinti tartózkodásra jogosító engedély nélkül foglalkoztat.
