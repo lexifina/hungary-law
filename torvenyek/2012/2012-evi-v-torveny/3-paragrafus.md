@@ -13,3 +13,5 @@ b) a kártérítési igény érvényesítésére a Kttv., valamint a közszolgá
 (5) A Kttv. 193. és 194. §-át a folyamatban lévő perekben is alkalmazni kell.
 
 (6) E törvény hatálybalépésekor folyamatban lévő felmentések esetén a munkavégzési kötelezettség alóli mentesítés idejére a közszolgálati tisztviselő átlagkeresetére jogosult.
+
+(7) Az Országos Közigazgatási Vizsgabizottság Elnöksége megszűnik és az Országos Közigazgatási Vizsgabizottság Elnökségének tagjai (ideértve az elnököt is) a Közigazgatási Továbbképzési Kollégium tagjává válnak. Az Országos Közigazgatási Vizsgabizottság Elnökségének, illetve Elnökének jogszabályban előírt feladatait a Közigazgatási Továbbképzési Kollégium, illetve annak Elnöke látja el. E rendelkezést 2012. évben kell alkalmazni.
