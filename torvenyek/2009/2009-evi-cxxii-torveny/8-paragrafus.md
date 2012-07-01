@@ -4,7 +4,7 @@
 
 (3) Hatályát veszti az államháztartásról szóló 1992. évi XXXVIII. törvény 100/N. § (2) és (5) bekezdése, valamint az állami vagyonról szóló 2007. évi CVI. törvény 30. § (2)–(4) és (6) bekezdése.
 
-(4) Az Mt. 13. § (3) bekezdésében a „ha e törvény” szövegrész helyébe a „ha e törvény vagy a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló törvény” szöveg, 189. §-ában a „vezetőre” szövegrész helyébe a „vezetőre, valamint a 188/A. § (1) bekezdése szerinti munkakört betöltő munkavállalóra” szöveg lép.
+(4)
 
 (5) A 3. § (3) bekezdését, 4. § (2) bekezdését, 5. § (1)–(2) bekezdését, 6. § (1)–(3) bekezdését, valamint 7. §-át nem kell alkalmazni azon gazdasági társaságokra, amelyekben együttesen nem a Magyar Állam, helyi önkormányzat, a helyi önkormányzat jogi személyiséggel rendelkező társulása, többcélú kistérségi társulás, fejlesztési tanács, nemzetiségi önkormányzat, nemzetiségi önkormányzat jogi személyiségű társulása, költségvetési szerv vagy közalapítvány vagy ezek többségi befolyása alatt álló gazdasági társaság jogosult a vezető tisztségviselők többségének megválasztására, illetve visszahívására.
 

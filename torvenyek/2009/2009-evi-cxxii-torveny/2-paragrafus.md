@@ -1,4 +1,4 @@
-2. § (1) A köztulajdonban álló gazdasági társaság a közzététel időpontjában fennálló adatok alapján közzéteszi a vezető tisztségviselők, a felügyelőbizottsági tagok, a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 188. § (1) bekezdése és 188/A. § (1) bekezdése szerint vezető állású munkavállalók, valamint az önállóan cégjegyzésre vagy a bankszámla feletti rendelkezésre jogosult munkavállalók
+2. § (1) A köztulajdonban álló gazdasági társaság a közzététel időpontjában fennálló adatok alapján közzéteszi a vezető tisztségviselők, a felügyelőbizottsági tagok, a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 208. §-a szerint vezető állású munkavállalók, valamint az önállóan cégjegyzésre vagy a bankszámla feletti rendelkezésre jogosult munkavállalók
 
 a) nevét,
 
@@ -6,13 +6,13 @@ b) tisztségét vagy munkakörét,
 
 c) munkaviszonyban álló személy esetében
 
-ca) a munkavállaló részére a munkaviszonya alapján közvetlenül vagy közvetve nyújtott pénzbeli juttatásokat, ezen belül külön feltüntetve személyi alapbérét, egyéb időbérét, teljesítménybérét, valamint az időbért megalapozó időtartamot, illetve a teljesítménybért megalapozó teljesítménykövetelményeket,
+ca) a munkavállaló részére a munkaviszonya alapján közvetlenül vagy közvetve nyújtott pénzbeli juttatásokat, ezen belül külön feltüntetve alapbérét, egyéb időbérét, teljesítménybérét, valamint az időbért megalapozó időtartamot, illetve a teljesítménybért megalapozó teljesítménykövetelményeket,
 
 cb) az Mt., kollektív szerződés, illetve a munkaszerződés alapján járó mértéket megjelölve a munkavállalóra irányadó végkielégítés, illetve felmondási idő időtartamát,
 
-cc) az Mt. 3. § (6) bekezdése alapján kikötött időtartamot és a kötelezettség vállalásának ellenértékét,
+cc) az Mt. 228. § alapján kikötött időtartamot és a kötelezettség vállalásának ellenértékét,
 
-d) a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) 22. § (2) bekezdés a) pont szerinti jogviszony, valamint a felügyelőbizottsági tagok esetén
+d) a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) 22. § (2) bekezdés a) pontja szerinti jogviszony, valamint a felügyelőbizottsági tagok esetén
 
 da) a megbízási díjat,
 
