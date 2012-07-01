@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-314-20-
 | 2012-01-01 | 2005-314-20-22.22 | 322/2011. (XII. 27.) Korm. rendelet |
 | 2012-01-07 | 2005-314-20-22.23 | 308/2011. (XII. 23.) Korm. rendelet |
 | 2012-05-01 | 2005-314-20-22.24 | 80/2012. (IV. 18.) Korm. rendelet |
+| 2012-07-01 | 2005-314-20-22.25 | 362/2008. (XII. 31.) Korm. rendelet |
