@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-149-20-
 | 2011-07-27 | 1997-149-20-22.31 | 140/2011. (VII. 21.) Korm. rendelet |
 | 2012-01-01 | 1997-149-20-22.32 | 334/2011. (XII. 29.) Korm. rendelet |
 | 2012-03-03 | 1997-149-20-22.33 | 21/2012. (II. 29.) Korm. rendelet |
+| 2012-07-01 | 1997-149-20-22.34 | 224/1998. (XII. 30.) Korm. rendelet |
