@@ -48,7 +48,7 @@ g) az orvosi, a sürgős szükség esetén indokolt indikáción túli, valamint
 
 h) az intézeti gyógyszerellátás szabályait,
 
-i) a gyógyszergyártásnál, valamint a gyógyszer-nagykereskedelmi tevékenység folytatásánál közreműködő meghatalmazott személyek szakképesítési követelményeit,
+i) a gyógyszergyártásnál közreműködő meghatalmazott személyek, valamint a gyógyszer-nagykereskedelmi tevékenység folytatásánál közreműködő felelős személyek szakképesítési követelményeit,
 
 j) a kábítószernek, illetve pszichotróp anyagnak minősülő gyógyszerek orvosi rendelésének, gyógyszertári forgalmazásának – ideértve a gyógyszertári tárolás, nyilvántartás, valamint a gyógyszertárból történő kiadást is – szabályait, továbbá gyógyintézeti felhasználásának és nyilvántartásának rendjét,
 
@@ -73,6 +73,10 @@ s) a 16. § (5) bekezdése szerinti, a folyamatos ellátás biztosításához sz
 t) a farmakovigilanciával kapcsolatos szabályokat,
 
 u) a gyógyszerhiány kezelése és megelőzése érdekében a gyógyszerhiánnyal érintett gyógyszer forgalomba hozatali engedély jogosultja, a gyógyszer-nagykereskedő, az állami egészségügyi, katasztrófa- és védelmi készlet kezelője, az egészségbiztosítási szerv, valamint a gyógyszerészeti államigazgatási szerv közötti együttműködésre vonatkozó szabályokat
+
+v) a gyógyszerközvetítéssel kapcsolatos szabályokat,
+
+w) a hatóanyagokra vonatkozó helyes gyártási gyakorlat és helyes forgalmazási gyakorlat, valamint a segédanyagokra vonatkozó helyes gyártási gyakorlat szabályait
 
 rendeletben szabályozza.
 
