@@ -20,7 +20,7 @@ eb) az építésügyi hatósági eljárásokról és az építésügyi hatóság
 
 ec) amennyiben a településrendezési és az építészeti-műszaki tervtanácsokról szóló kormányrendelet szerint tervtanácsi vélemény is szükséges, a tervtanácsi véleményt.
 
-(3)[^11] A létesítési engedélyhez szükséges dokumentáció – a (4) bekezdésben foglalt kivétellel – tartalmazza
+(3)[^12] A létesítési engedélyhez szükséges dokumentáció – a (4) bekezdésben foglalt kivétellel – tartalmazza
 
 a) a futópályák tervezett kiépítésére vonatkozó, a tervezett pályairányoknak és méreteknek, a futópályák akadályviszonyainak, zajgátló és biztonsági védőövezet kijelölésének terveit;
 
@@ -44,12 +44,12 @@ j) a repülőtéri irányítói körzet (CTR/MCTR) és közelkörzeti irányít�
 
 k) a repülőtér ICAO szerinti tervezési kategóriájának megfelelő tűzoltó védelmi kategória biztosításáról szóló megvalósítási tervét.
 
-(4)[^12] A III–VI. osztályú repülőtér létesítési engedélyhez szükséges dokumentáció a (3) bekezdés a)–c), valamint h) és k) pontban meghatározottakat tartalmazza. A dokumentációt 5 példányban kell mellékelni.
+(4)[^13] A III–VI. osztályú repülőtér létesítési engedélyhez szükséges dokumentáció a (3) bekezdés a)–c), valamint h) és k) pontban meghatározottakat tartalmazza. A dokumentációt 5 példányban kell mellékelni.
 
-(5)[^13]
+(5)[^14]
 
 (6) A légiközlekedési hatóság – az ügyfelek meghatározásához szükséges adatok szolgáltatása iránt – megkeresi az ingatlan-nyilvántartást vezető szervet.
 
-[^11]: A 16. § (3) bekezdés nyitó szövegrésze a 309/2010. (XII. 23.) Korm. rendelet 14. §-a szerint módosított szöveg.
-[^12]: A 16. § (4) bekezdése a 309/2010. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^13]: A 16. § (5) bekezdését a 309/2010. (XII. 23.) Korm. rendelet 15. § (1) bekezdése hatályon kívül helyezte.
+[^12]: A 16. § (3) bekezdés nyitó szövegrésze a 309/2010. (XII. 23.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^13]: A 16. § (4) bekezdése a 309/2010. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^14]: A 16. § (5) bekezdését a 309/2010. (XII. 23.) Korm. rendelet 15. § (1) bekezdése hatályon kívül helyezte.
