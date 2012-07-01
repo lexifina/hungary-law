@@ -5,3 +5,5 @@
 (3) Nyugállományba helyezés, a felső korhatár elérése esetén, valamint ha a bíró szolgálati viszonya a 90. § j) pontja szerint szűnik meg, a bíró felmentési ideje 6 hónap. A bírót a munkavégzési kötelezettség alól 3 hónapra mentesíteni kell. A bíró kérelmére a munkavégzési kötelezettség alóli mentesítés idejét az OBH elnöke ennél rövidebb tartamban is megállapíthatja.
 
 (4) A munkavégzési kötelezettség alól mentesített bíró nem ítélkezhet, bírósági vezetői beosztás esetén vezetőként nem járhat el, a bírói tisztséghez fűződő szavazati, illetve igazgatási jogokat nem gyakorolhatja.
+
+(5) A munkavégzési kötelezettség alóli mentesítés tartamára a bíró az átlagilletményére jogosult.

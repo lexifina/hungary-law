@@ -1,4 +1,4 @@
-214. § (1) A jelölt a jelölés elfogadásáról írásban nyilatkozik. A nyilatkozat a jelölt nevét, születési helyét és idejét, anyja nevét, lakóhelyét, iskolai végzettségét, szakképzettségét, foglalkozását, munkahelye nevét és címét, havi átlagkeresetét, valamint az aláírását tartalmazza.
+214. § (1) A jelölt a jelölés elfogadásáról írásban nyilatkozik. A nyilatkozat a jelölt nevét, születési helyét és idejét, anyja nevét, lakóhelyét, iskolai végzettségét, szakképzettségét, foglalkozását, munkahelye nevét és címét, egy hónapra járó távolléti díja összegét, valamint az aláírását tartalmazza.
 
 (2) A jelölt a jelölés elfogadását követően haladéktalanul, az ülnökké történő megválasztására jogosult képviselő-testület részére hatósági bizonyítvánnyal igazolja büntetlen előéletét.
 

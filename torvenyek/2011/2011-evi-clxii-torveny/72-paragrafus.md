@@ -12,4 +12,6 @@ d) kötelező képzéseken való részvételével kapcsolatos adatokat, tovább�
 
 e) az OBH elnöke által szabályzatban meghatározott egyéb okiratokat, véleményeket, adatokat.
 
-(3) A bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető – nem értve ez alatt a közigazgatási és munkaügyi regionális kollégium vezetőjét – vagy az általa kijelölt bíró a vizsgálat kezdeményezőjének, továbbá járásbírósági bíró esetén az ítélőtábla, közigazgatási és munkaügyi bírósági bíró, valamint a törvényszéken közigazgatási és munkaügyi ügyeket tárgyaló bíró esetén a közigazgatási és munkaügyi regionális kollégium vezetőjének előzetesen megküldi a vizsgálati jelentést és az értékelés tervezetét.
+(2a) Ha a vizsgálatot a kollégiumvezető végzi, és személye megegyezik a (2) bekezdés c) pontja szerinti kollégiumvezetővel, a (2) bekezdés c) pont szerinti véleményt a vizsgálat irataihoz csatolja.
+
+(3) A bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető – nem értve ez alatt a közigazgatási és munkaügyi regionális kollégium vezetőjét – vagy az általa kijelölt bíró a vizsgálat kezdeményezőjének, továbbá a kúriai bíró kivételével a bíró beosztása szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetőjének, a járásbírósági bíró esetén az ítélőtábla, közigazgatási és munkaügyi bírósági bíró, valamint a törvényszéken közigazgatási és munkaügyi ügyeket tárgyaló bíró esetén a közigazgatási és munkaügyi regionális kollégium vezetőjének előzetesen megküldi a vizsgálati jelentést és az értékelés tervezetét.

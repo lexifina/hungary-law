@@ -5,3 +5,5 @@
 (3) Azon bírák részére, akiknek e törvény 174. § (2) és (3) bekezdése alapján 2012. január 1-jét követően címpótlék jár, a címpótlékot első ízben a 2012. április hónapra járó illetmény kifizetésével egyidejűleg kell kifizetni. A 2012. január, február és március hónapra járó elmaradt címpótlékot a 2012. április hónapra járó illetmény kifizetésével egyidejűleg kell kifizetni.
 
 (4) Az e törvény 184. § (3)–(5) bekezdésének figyelembevételével megállapított jubileumi jutalmat első ízben 2013. január 31. napjáig kell kifizetni.
+
+(5) Ha a bíró az átlagilletmény számítás alapjául szolgáló időszakban a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény alapján külön juttatásban részesült, annak összegét az átlagilletmény számítása során figyelembe kell venni.

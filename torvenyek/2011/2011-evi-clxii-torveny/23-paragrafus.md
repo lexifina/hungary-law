@@ -14,4 +14,6 @@ b) kinevezését közvetlenül megelőzően alkotmánybíróként működött va
 
 c) kiemelkedő elméleti jogi jártasságot szerzett a tudomány vagy az oktatás területén.
 
+(2a) A (2) bekezdés c) pontjának alkalmazásában kiemelkedő elméleti jogi jártasságú jogász az egyetemi tanár, a Magyar Tudományos Akadémia doktora vagy az a személy, aki legalább húszévi, jogi területen folytatott szakmai gyakorlattal rendelkezik; e jogi szakmai gyakorlatot olyan munkakörben kell eltölteni, amely betöltésének feltétele a jogász végzettség.
+
 (3) Ha a bíró szolgálati viszonya a 90. § g) vagy n) pontja alapján szűnt meg, és az ott megjelölt megbízatása lejártát követő 30 napon belül kéri bíróvá történő ismételt kinevezését, őt kérelmére, pályázat kiírása nélkül a köztársasági elnök – az OBH elnökének javaslatára – a megszűnést megelőző kinevezésének megfelelően határozott vagy határozatlan időre bíróvá kinevezi. A bírói munkakörbe történő beosztásnál az 58. § (3) és (4) bekezdésében írt rendelkezéseket kell alkalmazni, a 90. § g) és n) pontjában megjelölt jogviszonyban eltöltött időt pedig szolgálati időként kell figyelembe venni.

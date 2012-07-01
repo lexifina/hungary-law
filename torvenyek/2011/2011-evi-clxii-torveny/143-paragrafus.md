@@ -4,7 +4,7 @@ a) az illetmény és a táppénz,
 
 b) az illetmény és a sérelem folytán csökkent kereset,
 
-c) az átlagilletmény és a rokkantsági nyugdíj
+c) az átlagilletmény, a távolléti díj és a rokkantsági nyugdíj, rokkantsági ellátás vagy rehabilitációs ellátás
 
 különbözetének a megtérítése iránti igényt.
 
@@ -16,7 +16,7 @@ a) a táppénz első fizetésének napjától,
 
 b) attól az időponttól, amikor a sérelem folytán bekövetkezett munkaképesség-csökkenés első ízben vezetett jövedelemkiesésben megmutatkozó károsodásra,
 
-c) a rokkantsági nyugállományba helyezés időpontjától
+c) a rokkantsági nyugállományba, rokkantsági ellátásba vagy rehabilitációs ellátásba helyezés időpontjától
 
 kezdődik.
 

@@ -10,7 +10,7 @@ d) a kúria bírája részére „kúriai tanácsos”
 
 címet adományozhat.
 
-(2) Az adott bírósági szinten tényleges bírói gyakorlattal eltöltött legalább húsz év után – beszámítva a magasabb szintű bíróságon bírói szolgálati viszonyban töltött időt is – az OBT
+(2) Az adott bírósági szinten tényleges bírói gyakorlattal eltöltött legalább húsz év után – beszámítva a magasabb szintű bíróságon bírói szolgálati viszonyban töltött időt is – az OBH elnöke
 
 a) a járásbírósági, valamint a közigazgatási és munkaügyi bírósági bíró részére „címzetes törvényszéki bíró”,
 
