@@ -4,4 +4,4 @@
 
 (3) Az (1)–(2) bekezdésekben foglalt esetekben a 180 napos határidő elmulasztása jogvesztéssel jár.
 
-(4) A felszámolási eljárás befejezésének időpontjában esedékessé váló követelések közül a gazdálkodó szervezet jogutód nélküli megszűnése miatt az Mt. 86/A. §-a alapján a munkavállalót megillető átlagkeresetet, az Mt. 95. §-ának (1) bekezdése szerinti végkielégítést, valamint a munkaviszonyra tekintettel járó egyéb juttatásokat a felszámoló igénybejelentés hiányában is hitelezői igényként veszi nyilvántartásba, és elégíti ki a kielégítési sorrend általános szabályai (57–58. §) szerint.
+(4) A felszámolási eljárás befejezésének időpontjában esedékessé váló követelések közül a gazdálkodó szervezet jogutód nélküli megszűnése miatt az Mt. 70. § (3) bekezdése alapján a munkavállalót megillető távolléti díjat, az Mt. 77. § (3)–(4) bekezdése szerinti végkielégítést, valamint a munkaviszonyra tekintettel járó egyéb juttatásokat a felszámoló igénybejelentés hiányában is hitelezői igényként veszi nyilvántartásba, és elégíti ki a kielégítési sorrend általános szabályai (57–58. §) szerint.

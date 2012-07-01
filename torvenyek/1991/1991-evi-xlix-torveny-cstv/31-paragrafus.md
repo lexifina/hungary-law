@@ -8,7 +8,7 @@ c) a felszámolás kezdő időpontjától számított 15 napon belül a felszám
 
 d) a felszámolónak tájékoztatást adni minden a 40. § (1) bekezdés a) pont tárgyát képező jogügyletről, illetve kötelezettségvállalásról,
 
-e) a felszámolás elrendeléséről a munkavállalókat, illetve a szövetkezeti tagokat, valamint az Mt. 18. §-ában meghatározott szakszervezeteket, az üzemi tanácsot (üzemi megbízottat) haladéktalanul tájékoztatni
+e) a felszámolás elrendeléséről a munkavállalókat, illetve a szövetkezeti tagokat, valamint az Mt. 270. §-ában meghatározott szakszervezeteket, az Mt. XX. fejezete szerinti üzemi tanácsot (üzemi megbízottat) haladéktalanul tájékoztatni
 
 f) a felszámolás elrendeléséről az 57. § (1) bekezdésének c) pontjában meghatározott követelések jogosultjait a felszámolás kezdő időpontját követő 15 napon belül tájékoztatni,
 

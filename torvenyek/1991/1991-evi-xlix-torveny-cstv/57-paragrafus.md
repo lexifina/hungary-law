@@ -14,13 +14,13 @@ f) egyéb követelések;
 
 g) a keletkezés idejétől és jogcímétől függetlenül a késedelmi kamat és késedelmi pótlék, továbbá a pótlék és bírság jellegű tartozás;
 
-h) azok a követelések (ide nem értve a kötelező minimálbér kétszeresét el nem érő, hathavi átlagkeresetet meg nem haladó munkabér- és bérjellegű követeléseket [(2) bekezdés a) pont]), amelyek jogosultja
+h) azok a követelések (ide nem értve a kötelező legkisebb munkabér, kizárólag teljesítménybérrel díjazott munkavállaló esetén pedig az Mt. 138. § (6) bekezdése szerinti garantált bér kétszeresét el nem érő, hathavi átlagkeresetet meg nem haladó munkabér- és bérjellegű követeléseket [(2) bekezdés a) pont]), amelyek jogosultja
 
 ha) a gazdálkodó szervezet legalább többségi befolyással rendelkező tagja (részvényese),
 
 hb) a gazdálkodó szervezet vezető tisztségviselője,
 
-hc) az Mt. 188. § (1) bekezdése szerinti vezető állású munkavállaló,
+hc) az Mt. 208. § (1) bekezdése szerinti vezető állású munkavállaló,
 
 hd) a ha)–hc) pontban említett személyek közeli hozzátartozója [Ptk. 685. § b) pont], élettársa,
 
@@ -46,7 +46,7 @@ g) a felszámoló – 49/D. § (1) bekezdés alapján nem érvényesített – d
 
 h) a vagyonfelügyelő (ideiglenes vagyonfelügyelő) ki nem fizetett és a kezesektől meg nem térült költségei és díja, ha a felszámolási eljárást csődeljárás előzte meg.
 
-(3) A munkáltató rendes felmondása esetén felszámolási költségként – ha a felszámolás kezdő időpontját megelőzően legalább egy évvel korábban megkötött kollektív szerződés, illetve munkaszerződés magasabb összeget nem állapít meg – a munkavégzés alóli felmentés időtartamára jutó átlagkereset és a végkielégítés azon összege vehető figyelembe, amely a munkavállalót az Mt. 92. §-ának (2) bekezdése és 93. §-a (1) és (3) bekezdése, illetve a 95. §-a alapján megilleti. E rendelkezés alkalmazásában az adós – (1) bekezdés hc) pontjában nem említett – vezető állású munkavállalói tekintetében kizárólag az Mt.-ben megállapított, a felszámolás kezdő időpontjában esedékes összeg vehető figyelembe.
+(3) A munkáltató rendes felmondása esetén felszámolási költségként – ha a felszámolás kezdő időpontját megelőzően legalább egy évvel korábban megkötött kollektív szerződés, illetve munkaszerződés magasabb összeget nem állapít meg – a munkavégzés alóli felmentés időtartamára jutó távolléti díj és a végkielégítés azon összege vehető figyelembe, amely a munkavállalót az Mt. 69. § (1)–(3) bekezdése, 70. § (3) bekezdése és 77. § (3) és (4) bekezdése alapján megilleti. E rendelkezés alkalmazásában az adós – (1) bekezdés hc) pontjában nem említett – vezető állású munkavállalói tekintetében kizárólag az Mt. 210. § (3) bekezdésében megállapított, a felszámolás kezdő időpontjában esedékes összeg vehető figyelembe.
 
 (4) Ha a vagyon a költség, a zálogjoggal biztosított hitelezői követelések és valamennyi más tartozás kielégítésére nem elegendő, a költség kifizetését és a biztosított hitelezők kielégítését követően először az (1) bekezdés c) majd d) pontja szerinti hitelezőket követeléseik arányában kell kielégíteni.
 
