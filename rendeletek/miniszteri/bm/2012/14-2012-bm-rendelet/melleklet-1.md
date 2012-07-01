@@ -1,6 +1,6 @@
 ## 11. §[^1]
 
-1. melléklet a 14/2012. (III. 30.) BM rendelethez
+1. melléklet a 14/2012. (III. 30.) BM rendelethez[^2]
 
 ## A Rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szervnél szolgálatot teljesítő hivatásos állományúak szolgálati igazolványának leírása
 
@@ -24,7 +24,7 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID–1 méretű, töb
 
 | 2. | RENDŐRSÉG | 200. | ORFK központi szervek |
 
-| 3. |  | 202. | Köztársasági Őrezred |
+| 3. |  |  |  |
 
 | 4. |  | 203. | Készenléti Rendőrség |
 
@@ -75,3 +75,4 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID–1 méretű, töb
 | 27. |  | 320. | Zala Megyei Rendőr-főkapitányság |
 
 [^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 31/2012. (VI. 28.) BM rendelet 23. §-a szerint módosított szöveg.
