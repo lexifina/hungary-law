@@ -24,6 +24,9 @@ g) 9. §-a által módosított 3. és 4. mellékletét
 
 az Mr. hatálybalépését[^69] követően indult ügyekben kell alkalmazni.
 
+(3)[^70] E rendeletnek az egyes kormányrendeleteknek a műemlékekkel kapcsolatos építésügyi hatáskör változásával összefüggő módosításáról szóló 134/2012. (VI. 28.) Korm. rendelettel módosított 6. §-át és 2. mellékletét a 2012. július 1-jét követően indult, illetve a megismételt eljárásokban kell alkalmazni.
+
 [^67]: A 19. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 185. pontja hatályon kívül helyezte.
 [^68]: A 20. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 185. pontja hatályon kívül helyezte, újonnan a 129/2010. (IV. 21.) Korm. rendelet 6. §-a iktatta be.
 [^69]: A hatálybalépés időpontja: 2010. május 1.
+[^70]: A 20. § (3) bekezdését a 134/2012. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
