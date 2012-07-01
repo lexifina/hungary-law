@@ -14,7 +14,7 @@ d) a gazdálkodás részletes rendjének meghatározása.
 
 (3) Az OTH részt vesz az országos népegészségügyi programok kidolgozásában és irányítja, szervezi, koordinálja a programok végrehajtásának területi és helyi feladatait.
 
-(4)[^13]
+(4)[^13] Az OTH ellátja a jogszabályban meghatározott, egészségügyi ellátás feletti szakfelügyeleti feladatokat.
 
 (5) Az OTH alaptevékenységének teljes körű ellátása mellett, a szabad kapacitása kihasználásával – az alapító okiratában meghatározott arányban – vállalkozási tevékenységet végezhet.
 
@@ -28,5 +28,5 @@ c) az egészségfejlesztés (egészségvédelem, egészségnevelés és egészs�
 
 d) az egészségügyi, gyógyszerügyi igazgatás és koordináció területén.
 
-[^13]: A 7. § (4) bekezdését az 59/2011. (IV. 12.) Korm. rendelet 22. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^13]: A 7. § (4) bekezdését az 59/2011. (IV. 12.) Korm. rendelet 22. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 137/2012. (VI. 29.) Korm. rendelet 61. §-a iktatta be.
 [^14]: A 7. § (6) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 78. §-a iktatta be.

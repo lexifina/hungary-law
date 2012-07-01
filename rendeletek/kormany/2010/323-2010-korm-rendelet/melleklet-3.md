@@ -8,46 +8,23 @@
 
 ## 1.3. a Csongrád Megyei Népegészségügyi Szakigazgatási Szerv Bács-Kiskun, Békés és Csongrád megyére,
 
-## 1.4.[^67] a Tolna Megyei Népegészségügyi Szakigazgatási Szerv Baranya, Somogy és Tolna megyére, továbbá az Egészségügyi Radiológiai Mérő és Adatszolgáltató Hálózat (a továbbiakban: ERMAH) környezeti sugár-egészségügyi laboratóriumai feladatokat Fejér megyére,
+## 1.4.[^71] a Tolna Megyei Népegészségügyi Szakigazgatási Szerv Baranya, Somogy és Tolna megyére, továbbá az Egészségügyi Radiológiai Mérő és Adatszolgáltató Hálózat (a továbbiakban: ERMAH) környezeti sugár-egészségügyi laboratóriumai feladatokat Fejér megyére,
 
-## 1.5.[^68] a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv – kivéve az ERMAH vonatkozásában a külön jogszabályban meghatározott feladatokat – Fejér, Komárom-Esztergom és Veszprém megyére,
+## 1.5.[^72] a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv – kivéve az ERMAH vonatkozásában a külön jogszabályban meghatározott feladatokat – Fejér, Komárom-Esztergom és Veszprém megyére,
 
-## 1.6.[^69] a Győr-Moson-Sopron Megyei Népegészségügyi Szakigazgatási Szerv Győr-Moson-Sopron, Vas és Zala megyére, továbbá az ERMAH környezeti sugár-egészségügyi laboratóriumai feladatokat Komárom-Esztergom és Veszprém megyére
-
-## kiterjedő illetékességgel látja el.
-
-## 2. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 15. § (1) bekezdésében foglalt, a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
-
-## 3. Az egészségügyről szóló 1997. évi CLIV. törvény 159. § (6) bekezdése és a 161. § (4) bekezdésében foglalt, a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat
-
-## 3.1. a Heves Megyei Népegészségügyi Szakigazgatási Szerv Heves és Nógrád megyére,
-
-## 3.2. a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére
+## 1.6.[^73] a Győr-Moson-Sopron Megyei Népegészségügyi Szakigazgatási Szerv Győr-Moson-Sopron, Vas és Zala megyére, továbbá az ERMAH környezeti sugár-egészségügyi laboratóriumai feladatokat Komárom-Esztergom és Veszprém megyére
 
 ## kiterjedő illetékességgel látja el.
 
-## 4. Az egészségügyről szóló 1997. évi CLIV. törvény 180. § (1) bekezdésében foglalt, a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat
+## 2–8.[^74]
 
-## 4.1. a Heves Megyei Népegészségügyi Szakigazgatási Szerv Heves és Nógrád megyére,
+## 9.[^75]
 
-## 4.2. a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére
+3. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^76]
 
-## kiterjedő illetékességgel látja el.
-
-## 5. A honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 55. § (4) bekezdésében foglalt, a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
-
-## 6. Az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény 21. § (4) bekezdésében foglalt, a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
-
-## 7. A humángenetikai adatok védelméről, a humángenetikai vizsgálatok és kutatások, valamint a biobankok működésének szabályairól szóló 2008. évi XXI. törvény 22. § (1) bekezdésében, a 25. § (4) bekezdésében, a 27. § (5) bekezdésében foglalt, a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
-
-## 8. Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 23. § (1) bekezdésében foglalt, a megyei népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatokat a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér, Komárom-Esztergom és Veszprém megyére kiterjedő illetékességgel látja el.
-
-## 9.[^70]
-
-3. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^71]
-
-[^67]: A 2. melléklet 1.4. pontja a 325/2011. (XII. 28.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg
-[^68]: A 2. melléklet 1.5. pontja a 325/2011. (XII. 28.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg
-[^69]: A 2. melléklet 1.6. pontja a 13/2012. (II. 14.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^70]: A 2. melléklet 9. pontját a 351/2010. (XII. 30.) Korm. rendelet 294. §-a iktatta be, hatályon kívül helyezte a 63/2012. (IV. 2.) Korm. rendelet m) pontja.
-[^71]: A 3. melléklet a 325/2011. (XII. 28.) Korm. rendelet 85. § (2) bekezdése szerint módosított szöveg.
+[^71]: A 2. melléklet 1.4. pontja a 325/2011. (XII. 28.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg
+[^72]: A 2. melléklet 1.5. pontja a 325/2011. (XII. 28.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg
+[^73]: A 2. melléklet 1.6. pontja a 13/2012. (II. 14.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^74]: A 2. melléklet 2–8. pontját a 137/2012. (VI. 29.) Korm. rendelet 68. §-a hatályon kívül helyezte.
+[^75]: A 2. melléklet 9. pontját a 351/2010. (XII. 30.) Korm. rendelet 294. §-a iktatta be, hatályon kívül helyezte a 63/2012. (IV. 2.) Korm. rendelet m) pontja.
+[^76]: A 3. melléklet a 325/2011. (XII. 28.) Korm. rendelet 85. § (2) bekezdése szerint módosított szöveg.

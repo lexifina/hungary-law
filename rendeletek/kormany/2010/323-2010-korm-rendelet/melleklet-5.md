@@ -2,7 +2,7 @@
 
 ## I. A radioaktív anyag tárolása, használata, felhasználása, szállítása és átalakítása tekintetében
 
-|  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
+|  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban és ha az OTH jár el első fokon |
 
 | 1. | Nyitott sugárforrás esetén. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -42,7 +42,7 @@
 
 | 1. | Minden esetben. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-| 2. | Minden esetben. | Az országos településrendezési és építési követelményeknek, valamint a helyi településrendezési tervnek és a helyi építési szabályzatnak való megfelelés. | építésügyi hatóság | a Kormány általános hatáskörű területi államigazgatási szerve |
+| 2. | Minden esetben. | Az országos településrendezési és építési követelményeknek, valamint a helyi településrendezési tervnek és a helyi építési szabályzatnak való megfelelés. | építésügyi hatóság | a fővárosi és megyei kormányhivatal |
 
 | 3. | Minden esetben. | A tárolóban elhelyezendő radioaktív és nukleáris anyagok, nukleáris berendezések, valamint a velük folytatott tevékenységek nyilvántartásával és ellenőrzésével kapcsolatos előírások vizsgálatában, valamint nukleáris balesetelhárítási kérdésekben. | Országos Atomenergia Hivatal |  |
 
@@ -54,7 +54,7 @@
 
 | 8. | Minden esetben. | Az építésföldtani megalapozottság és a földtani veszélyeztetettség vizsgálata figyelemmel a vízzáró rétegre, a felszínen folyásra alkalmas képződmények meglétére, tektonikai jelenségekre (vetők, csúszásra alkalmas felületek), védelemre érdemes földtani képződmény meglétére, a szűkebb környezet felszíni és felszín alatti képződményeire, a felszínmozgásra utaló jellegre, a felszíni vízelvezetési technológiákra. | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-5. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^73]
+5. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^78]
 
 ADATLAP
 
@@ -180,4 +180,4 @@ Name (in capital letters)
 
 of the person acting on behalf of the Hungarian National Blood Transfusion Service
 
-[^73]: Az 5. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 85. § (3) bekezdése iktatta be.
+[^78]: Az 5. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 85. § (3) bekezdése iktatta be.

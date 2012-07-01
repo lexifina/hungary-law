@@ -1,0 +1,1 @@
+## 11. § A kistérségi népegészségügyi intézet illetékességi területén ellátja az egészségügyi államigazgatási szerv mindazon népegészségügyi, hatósági, szakmai felügyeleti feladatait, amelyet jogszabály nem utal a Szolgálat más szerve vagy a megyei népegészségügyi szakigazgatási szerv feladatkörébe.
