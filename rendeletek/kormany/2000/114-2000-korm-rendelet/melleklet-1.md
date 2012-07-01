@@ -1,5 +1,3 @@
-1. melléklet a 114/2000. (II. 25.) Korm. rendelethez[^3]
+1. melléklet a 114/2000. (II. 25.) Korm. rendelethez[^4]
 
-A 3. § (3) bekezdés szerint a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerv hatáskörébe tartozó feladatot a Veszprém Megyei Népegészségügyi Szakigazgatási Szerv Fejér megyére, Komárom-Esztergom megyére és Veszprém megyére kiterjedő illetékességgel látja el.
-
-[^3]: Az 1. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 74. §-a iktatta be.
+[^4]: Az 1. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 74. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § d) pont db) alpontja.
