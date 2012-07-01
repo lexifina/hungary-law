@@ -1,6 +1,6 @@
 ## 4. A fővárosi és megyei kormányhivatal ellenőrzése
 
-7. §[^13] (1) A fővárosi és megyei kormányhivatal ellenőrzése a fővárosi és megyei kormányhivatalok törvényességi, szakszerűségi és hatékonysági vizsgálata, amely a hivatalok működésének szakmai és szervi, jogszerűségi és célszerűségi szempontok szerinti teljes körű, vagy részleges, jogszabályban meghatározott eszközökkel történő vizsgálata.
+7. §[^14] (1) A fővárosi és megyei kormányhivatal ellenőrzése a fővárosi és megyei kormányhivatalok törvényességi, szakszerűségi és hatékonysági vizsgálata, amely a hivatalok működésének szakmai és szervi, jogszerűségi és célszerűségi szempontok szerinti teljes körű, vagy részleges, jogszabályban meghatározott eszközökkel történő vizsgálata.
 
 (2) Az ellenőrzés célja a megelőzés és segítségnyújtás, valamint az érdemi, vagy ügy érdemére is kiható jogsértések, hibák és hiányosságok feltárása, keletkezési okuk megállapítása, a működés megfelelőségének helyreállítása, a jogsértések kiküszöbölése.
 
@@ -10,7 +10,7 @@
 
 (5) A szakigazgatási szervekre is kiterjedő ellenőrzést a közigazgatás-szervezésért felelős miniszter a szakmai irányító szerv vezetője közreműködésével látja el.
 
-(6)[^14] A közigazgatás-szervezésért felelős miniszter a Nemzeti Államigazgatási Központ közreműködésével gondoskodik a fővárosi és megyei kormányhivatal feletti ellenőrzések összehangolásáról.
+(6)[^15] A közigazgatás-szervezésért felelős miniszter a Nemzeti Államigazgatási Központ közreműködésével gondoskodik a fővárosi és megyei kormányhivatal feletti ellenőrzések összehangolásáról.
 
-[^13]: A 7. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
-[^14]: A 7. § (6) bekezdése a 258/2011. (XII. 7.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^14]: A 7. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^15]: A 7. § (6) bekezdése a 258/2011. (XII. 7.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.

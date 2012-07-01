@@ -1,6 +1,6 @@
 ## 7. Koordináció
 
-## 12. §[^21] A fővárosi és megyei kormányhivatal a Khtv. 16. § (3) bekezdésében meghatározott koordinációs jogkörében ellátott koordinációs feladat- és hatáskörében különösen
+## 12. §[^22] A fővárosi és megyei kormányhivatal a Khtv. 16. § (3) bekezdésében meghatározott koordinációs jogkörében ellátott koordinációs feladat- és hatáskörében különösen
 
 a) gondoskodik a több ágazatot érintő kormányzati döntések végrehajtásának területi összehangolásáról,
 
@@ -12,4 +12,4 @@ d) kezdeményezi a központi államigazgatási szervek területi szervei ügyfé
 
 e) gondoskodik a területi elektronikus ügyfél-tájékoztatási rendszer koordinálásáról, ennek keretében elősegíti annak naprakész működését.
 
-[^21]: A 12. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^22]: A 12. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.

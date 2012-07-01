@@ -1,4 +1,4 @@
-## 16. §[^25] A fővárosi és megyei kormányhivatal a helyi önkormányzati szervek tekintetében
+## 16. §[^26] A fővárosi és megyei kormányhivatal a helyi önkormányzati szervek tekintetében
 
 a) külön jogszabályban meghatározottak szerint közszolgálati ellenőrzést végez,
 
@@ -6,4 +6,4 @@ b) ellenőrzi – az illetékes közlevéltárral egyeztetett ellenőrzési terv
 
 c) ellenőrzi a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény végrehajtását.
 
-[^25]: A 16. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^26]: A 16. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.

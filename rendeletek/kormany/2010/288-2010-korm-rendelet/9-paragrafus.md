@@ -1,4 +1,4 @@
-9. §[^16] (1) A szakigazgatási szerv vezetőjének kinevezésére és felmentésére a kormánymegbízott a szakmai irányító szerv vezetőjével előzetes egyeztetést tart.
+9. §[^17] (1) A szakigazgatási szerv vezetőjének kinevezésére és felmentésére a kormánymegbízott a szakmai irányító szerv vezetőjével előzetes egyeztetést tart.
 
 (2) Az előzetes egyeztetést követően a kormánymegbízott a szakigazgatási szerv vezetőjének kinevezésére és felmentésére a Khtv. 14. § (1) bekezdése szerinti egyetértés érdekében javaslatot tesz a szakmai irányító szerv vezetőjének.
 
@@ -10,4 +10,4 @@
 
 (6) Amennyiben a szakmai irányító szerv vezetője és a kormánymegbízott között az egyeztetés során a javaslat kézhezvételétől számított 30 napon belül nem alakul ki egyetértés, a javaslatról a közigazgatás-szervezésért felelős miniszter dönt.
 
-[^16]: A 9. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^17]: A 9. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.

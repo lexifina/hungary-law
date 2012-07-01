@@ -34,10 +34,13 @@
 
 16. a mérésügyi és műszaki biztonsági hatóság mérésügyi és műszaki biztonsági feladatok ellátására,
 
-17. a közlekedési felügyelőség a közlekedési hatósági feladatok ellátására.
+17. a közlekedési felügyelőség a közlekedési hatósági feladatok ellátására,
+
+18.[^4] a rehabilitációs szakigazgatási szerv a megváltozott munkaképességű személyek ellátásaival, a rehabilitációval és a hatáskörébe tartozó más ellátásokkal kapcsolatos feladatok ellátására.
 
 (2) Kormányrendelet más területi államigazgatási szervet is a fővárosi és megyei kormányhivatal szakigazgatási szerveként határozhat meg.
 
 (3) Amennyiben kormányrendelet eltérően nem rendelkezik, a szakigazgatási szerv illetékessége megegyezik a fővárosi és megyei kormányhivatal illetékességével.
 
 [^3]: A 2. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^4]: A 2. § (1) bekezdés 18. pontját a 95/2012. (V. 15.) Korm. rendelet 42. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 23. §-át.
