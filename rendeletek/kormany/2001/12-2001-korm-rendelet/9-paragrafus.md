@@ -36,7 +36,7 @@ b) az orvosszakértői szervnek a 141/2000. (VIII. 9.) Korm. rendelet szerinti, 
 
 c)[^68]
 
-(8a)[^69] Ha a súlyos mozgáskorlátozottság igazolása céljából szükséges (8) bekezdés szerinti iratok nem állnak rendelkezésre, a súlyos mozgáskorlátozottság 102/2011. (VI. 29.) Korm. rendelet szerinti előzetes vizsgálatát – a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentáció és egyéb iratok benyújtásával – az okmányirodák kijelöléséről és illetékességi területéről szóló kormányrendeletben meghatározott települési, a fővárosban a fővárosi kerületi önkormányzat jegyzőjénél (a továbbiakban: körzetközponti jegyző) lehet kezdeményezni. A körzetközponti jegyző a kérelem beérkezésétől számított nyolc napon belül az iratok megküldésével megkeresi a Nemzeti Rehabilitációs és Szociális Hivatalt a közlekedőképesség minősítése érdekében. A közlekedőképesség vizsgálatára egyebekben a 102/2011. (VI. 29.) Korm. rendelet szabályait kell alkalmazni.
+(8a)[^69] Ha a súlyos mozgáskorlátozottság igazolása céljából szükséges (8) bekezdés szerinti iratok nem állnak rendelkezésre, a súlyos mozgáskorlátozottság 102/2011. (VI. 29.) Korm. rendelet szerinti előzetes vizsgálatát – a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentáció és egyéb iratok benyújtásával – az okmányirodák kijelöléséről és illetékességi területéről szóló kormányrendeletben meghatározott települési, a fővárosban a fővárosi kerületi önkormányzat jegyzőjénél (a továbbiakban: körzetközponti jegyző) lehet kezdeményezni. A körzetközponti jegyző a kérelem beérkezésétől számított nyolc napon belül az iratok megküldésével megkeresi a rehabilitációs szakigazgatási szervet a közlekedőképesség minősítése érdekében. A közlekedőképesség vizsgálatára egyebekben a 102/2011. (VI. 29.) Korm. rendelet szabályait kell alkalmazni.
 
 (9) A támogatási kérelemhez az akadálymentesítési munkák műszaki leírását, valamint azok építési költségét tartalmazó költségvetést mellékelni kell.
 
@@ -70,4 +70,4 @@ k) lakás komfortfokozatának növelése céljából gáz, illetve egyéb, szil�
 [^66]: A 9. § a 74/2011. (V. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^67]: A 9. § (8) bekezdés a) pontja a 102/2011. (VI. 29.) Korm. rendelet 17. § (2) bekezdésével megállapított, a 61/2012. (III. 30.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^68]: A 9. § (8) bekezdés c) pontját a 102/2011. (VI. 29.) Korm. rendelet 17. § (4) bekezdése hatályon kívül helyezte.
-[^69]: A 9. § (8a) bekezdése a 61/2012. (III. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^69]: A 9. § (8a) bekezdése a 61/2012. (III. 30.) Korm. rendelet 1. §-ával megállapított, a 95/2012. (V. 15.) Korm. rendelet 33. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.
