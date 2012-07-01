@@ -1,4 +1,4 @@
-167. § (1) A Hivatal kormánytisztviselője a közszolgálati tisztviselőkről szóló törvény (a továbbiakban: Kttv.) szerinti összeférhetetlenségi és kizárási szabályokban foglaltakon túl nem létesíthet munkaviszonyt vagy munkavégzéssel járó egyéb jogviszonyt a Hivatal hatáskörébe tartozó engedélyköteles villamosenergia-ipari társasággal vagy integrált villamosenergia-ipari vállalkozással.
+167. § (1) A Hivatal kormánytisztviselője a Kttv. szerinti összeférhetetlenségi és kizárási szabályokban foglaltakon túl nem létesíthet munkaviszonyt vagy munkavégzéssel járó egyéb jogviszonyt a Hivatal hatáskörébe tartozó engedélyköteles villamosenergia-ipari társasággal vagy integrált villamosenergia-ipari vállalkozással.
 
 (2) A Hivatal kormánytisztviselője az öröklés kivételével a Hivatal hatáskörébe tartozó engedélyköteles villamosenergia-ipari társaságokban tulajdoni részesedést nem szerezhet.
 

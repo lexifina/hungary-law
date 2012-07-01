@@ -22,7 +22,7 @@ c) tisztségével való összeférhetetlenségét három hónapon belül nem sz�
 
 d) tevékenységével a Hivatal hatósági jogköreinek gyakorlását veszélyezteti.
 
-(5) A (4) bekezdés szerinti felmentési javaslatot a Hivatal elnöke, illetve elnökhelyettesei részére meg kell küldeni, aki az Mt. szabályai szerint munkaügyi bírósághoz fordulhat.
+(5) A (4) bekezdés szerinti felmentési javaslatot a Hivatal elnöke, illetve elnökhelyettesei részére meg kell küldeni, aki a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szabályai szerint bírósághoz fordulhat.
 
 (6) A felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően terjeszthető a miniszterelnök elé.
 
