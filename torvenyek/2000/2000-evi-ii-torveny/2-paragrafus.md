@@ -18,7 +18,7 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 
 – a praxisjog folytatására irányuló jogáról a sorrendben őt követő, a jogszabályi feltételeknek megfelelő személy javára lemondhat, illetőleg
 
-– a működtetési jogot a korábbi jogosult halálától számított 1 éven belül ingyenesen vagy visszterhesen elidegenítheti.
+– a praxisjogot a korábbi jogosult halálától számított 1 éven belül ingyenesen vagy visszterhesen elidegenítheti.
 
 (7) Ha a praxisjog elidegenítésére a (6) bekezdés alapján jogosult személy e jogával az ott megjelölt határidőn belül nem él, a praxisjog megszűnik.
 
