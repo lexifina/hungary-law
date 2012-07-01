@@ -1,0 +1,1 @@
+5. § Az Mt. hatálybalépését megelőzően megkezdett tanulmányokra a tanulmányok befejezéséig, de legfeljebb a jogszabály vagy az oktatási intézmény által előírt képzési idő tartamára a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 2012. június 30. napján hatályos 115. §-a az irányadó.
