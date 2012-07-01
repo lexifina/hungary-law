@@ -1,4 +1,4 @@
-11/C. §[^181] (1) A 11/B. § szerinti kérelem elbírálása során figyelemmel kell lenni a kérelmező jövedelmi viszonyára és kiemelt szempont az orvos szakmai indokoltság vizsgálata.
+11/C. §[^192] (1) A 11/B. § szerinti kérelem elbírálása során figyelemmel kell lenni a kérelmező jövedelmi viszonyára és kiemelt szempont az orvos szakmai indokoltság vizsgálata.
 
 (2) Implantátum, egyéb speciális eszköz árának átvállalására irányuló kérelemnél vizsgálni kell, hogy
 
@@ -6,13 +6,13 @@ a) az a születési vagy később bekövetkezett rendellenesség korrekciója so
 
 b) a fejlődési rendellenesség egyéb terápiával orvosolható-e,
 
-c)[^182] a deformitás kialakulását okozta-e orvosi beavatkozás vagy valamilyen trauma.
+c)[^193] a deformitás kialakulását okozta-e orvosi beavatkozás vagy valamilyen trauma.
 
-(3)[^183] Az OEP a kérelmet érdemi vizsgálat nélkül elutasító végzését, az eljárást megszüntető végzését és határozatát közli a beavatkozást elvégző egészségügyi szolgáltatóval. A kérelem elutasítása esetén a határozatot közölni kell a kezelőorvossal is.
+(3)[^194] Az OEP a kérelmet érdemi vizsgálat nélkül elutasító végzését, az eljárást megszüntető végzését és határozatát közli a beavatkozást elvégző egészségügyi szolgáltatóval. A kérelem elutasítása esetén a határozatot közölni kell a kezelőorvossal is.
 
-(4)[^184] Az átvállalt térítési díj összegét az OEP a beavatkozás elvégzése után, a kórházi zárójelentés vagy a klinikai összefoglaló, valamint a beavatkozás, illetve a felhasználásra került anyag, eszköz költségét igazoló számla – szolgáltató által történő – megküldését követően utalványozza az egészségügyi szolgáltató részére. A számlának tartalmaznia kell a biztosított nevét, TAJ-át, valamint a beavatkozás időpontját és az azt végző orvos aláírását, pecsétjét.
+(4)[^195] Az átvállalt térítési díj összegét az OEP a beavatkozás elvégzése után, a kórházi zárójelentés vagy a klinikai összefoglaló, valamint a beavatkozás, illetve a felhasználásra került anyag, eszköz költségét igazoló számla – szolgáltató által történő – megküldését követően utalványozza az egészségügyi szolgáltató részére. A számlának tartalmaznia kell a biztosított nevét, TAJ-át, valamint a beavatkozás időpontját és az azt végző orvos aláírását, pecsétjét.
 
-[^181]: A Vhr. 11/C. §-át a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
-[^182]: A Vhr. 11/C. §-a (2) bekezdésének c) pontja a 113/2005. (VI. 25.) Korm. rendelet 18. § (5) bekezdésének d) pontja szerint módosított szöveg.
-[^183]: A Vhr. 11/C. §-ának (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 128. § (2) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 8. pontja szerint módosított szöveg.
-[^184]: A Vhr. 11/C. § (4) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 14. § 9. pontja szerint módosított szöveg.
+[^192]: A Vhr. 11/C. §-át a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
+[^193]: A Vhr. 11/C. §-a (2) bekezdésének c) pontja a 113/2005. (VI. 25.) Korm. rendelet 18. § (5) bekezdésének d) pontja szerint módosított szöveg.
+[^194]: A Vhr. 11/C. §-ának (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 128. § (2) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 8. pontja szerint módosított szöveg.
+[^195]: A Vhr. 11/C. § (4) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 14. § 9. pontja szerint módosított szöveg.

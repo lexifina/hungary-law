@@ -1,8 +1,8 @@
-7/C. §[^107] (1) Referenciaeszköz az a meghatározott fix összegű támogatási csoportba tartozó, legalacsonyabb közfinanszírozás alapjául elfogadott árú gyógyászati segédeszköz, vagy a termék valamely fizikai paraméterének egy fajlagos egységére meghatározott fix összegű támogatás esetén a legalacsonyabb fajlagos közfinanszírozás alapjául elfogadott árú gyógyászati segédeszköz,
+7/C. §[^118] (1) Referenciaeszköz az a meghatározott fix összegű támogatási csoportba tartozó, legalacsonyabb közfinanszírozás alapjául elfogadott árú gyógyászati segédeszköz, vagy a termék valamely fizikai paraméterének egy fajlagos egységére meghatározott fix összegű támogatás esetén a legalacsonyabb fajlagos közfinanszírozás alapjául elfogadott árú gyógyászati segédeszköz,
 
 a) amely nem áll hivatalból vagy kérelemre törlési eljárás alatt és
 
-b)[^108] amelynek támogatási csoporton belüli forgalmi részesedése a fixesítési eljárás kezdőnapját közvetlenül megelőző hónap kezdőnapját közvetlenül megelőző tizenkét hónapot vizsgálva legalább hét hónapban az összes támogatási jogcímet együttesen figyelembe véve az elszámolt gyógyászati segédeszköz mennyiség tekintetében az 5%-ot elérte.
+b)[^119] amelynek támogatási csoporton belüli forgalmi részesedése a fixesítési eljárás kezdőnapját közvetlenül megelőző hónap kezdőnapját közvetlenül megelőző tizenkét hónapot vizsgálva legalább hét hónapban az összes támogatási jogcímet együttesen figyelembe véve az elszámolt gyógyászati segédeszköz mennyiség tekintetében az 5%-ot elérte.
 
 (2) A referenciaeszköz használatához elengedhetetlenül szükséges tartozékoknak a termékkel együttesen kell a legalacsonyabb közfinanszírozás alapjául elfogadott árral, vagy a termék valamely fizikai paraméterének egy fajlagos egységére meghatározott fix összegű támogatás esetén a legalacsonyabb fajlagos közfinanszírozás alapjául elfogadott árral rendelkezniük.
 
@@ -14,10 +14,10 @@ b) amelynek támogatási csoporton belüli forgalmi részesedése a fixesítési
 
 (4) A Gyftv. 32/A. §-a szerinti eljárásokban az OEP kilencven napon belül dönt.
 
-(5)[^109] A meghatározott eszközre vagy eszközökre irányuló felülvizsgálat kivételével a Gyftv. 32/A. §-a szerinti eljárásokban, és egy adott funkcionális csoportra vonatkozó követelményjegyzék összeállításakor az OEP kikéri az illetékes szakmai kollégium, valamint a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet véleményét.
+(5)[^120] A meghatározott eszközre vagy eszközökre irányuló felülvizsgálat kivételével a Gyftv. 32/A. §-a szerinti eljárásokban, és egy adott funkcionális csoportra vonatkozó követelményjegyzék összeállításakor az OEP kikéri az illetékes szakmai kollégium, valamint a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet véleményét.
 
 (6) A Gyftv. 32. § (4) bekezdése szerinti eljárásokban az OEP kikéri a kérelem tárgya szerinti illetékes szakmai kollégium véleményét.
 
-[^107]: A Vhr. 7/C. §-át a 111/2000. (VI. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^108]: A Vhr. 7/C. § (1) bekezdés b) pontja a 325/2011. (XII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^109]: A Vhr. 7/C. § (5) bekezdése az 59/2011. (IV. 12.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^118]: A Vhr. 7/C. §-át a 111/2000. (VI. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^119]: A Vhr. 7/C. § (1) bekezdés b) pontja a 325/2011. (XII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^120]: A Vhr. 7/C. § (5) bekezdése az 59/2011. (IV. 12.) Korm. rendelet 6. §-a szerint módosított szöveg.

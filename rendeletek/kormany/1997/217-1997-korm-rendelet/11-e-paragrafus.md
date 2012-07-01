@@ -1,4 +1,4 @@
-11/E. §[^195] (1) A kérelem elbírálása során az OEP a beteg kórtörténete, a betegség súlyossága, a kérelemben megjelölt gyógyszer vagy gyógyászati segédeszköz kérelmező általi használatának orvosszakmai indokoltsága, költsége és költséghatékonysága, valamint a várható egészségnyereség alapján, a kórkép előfordulási gyakoriságának és a biztosított jövedelmi helyzetének a figyelembevételével, az OEP által felkért illetékes szakorvos véleményének ismeretében dönt.
+11/E. §[^206] (1) A kérelem elbírálása során az OEP a beteg kórtörténete, a betegség súlyossága, a kérelemben megjelölt gyógyszer vagy gyógyászati segédeszköz kérelmező általi használatának orvosszakmai indokoltsága, költsége és költséghatékonysága, valamint a várható egészségnyereség alapján, a kórkép előfordulási gyakoriságának és a biztosított jövedelmi helyzetének a figyelembevételével, az OEP által felkért illetékes szakorvos véleményének ismeretében dönt.
 
 (2) A kérelem elbírálásakor figyelemmel kell lenni a támogatással rendelhető komparátor technológiákra, valamint arra, hogy a kérelmező azokkal miért nem látható el.
 
@@ -18,4 +18,4 @@ b) értesíti a beteg választása szerinti, ennek hiányában a legközelebbi k
 
 (6) A kérelem elbírálását követően a beteg a 11/D. § (2) bekezdése alapján megjelölt gyógyszertár, illetve gyógyászati segédeszköz gyártó vagy forgalmazó helyett indokolt esetben az OEP részére történő bejelentést követően másikat jelölhet meg.
 
-[^195]: A Vhr. 11/E. §-t a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, szövege a 336/2009. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^206]: A Vhr. 11/E. §-t a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, szövege a 336/2009. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.

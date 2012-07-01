@@ -1,8 +1,8 @@
-26/A. §[^317] (1) Ha a gyermekgondozási díjra jogosult terhességi-gyermekágyi segélyt nem vett igénybe, a gyermekgondozási díjra jogosultság megállapításánál a terhességi-gyermekágyi segélynek megfelelő időtartam kezdő napjaként a gyermek születésének napját kell figyelembe venni.
+26/A. §[^329] (1) Ha a gyermekgondozási díjra jogosult terhességi-gyermekágyi segélyt nem vett igénybe, a gyermekgondozási díjra jogosultság megállapításánál a terhességi-gyermekágyi segélynek megfelelő időtartam kezdő napjaként a gyermek születésének napját kell figyelembe venni.
 
-(2)[^318] Az Ebtv. 40. § (4) bekezdés c) és e) pontja szerinti terhességi-gyermekágyi segélyt az OEP honlapján erre rendszeresített, a (2a) bekezdés szerinti adattartalmú nyomtatvány bemutatásával együtt lehet igényelni.
+(2)[^330] Az Ebtv. 40. § (4) bekezdés c) és e) pontja szerinti terhességi-gyermekágyi segélyt az OEP honlapján erre rendszeresített, a (2a) bekezdés szerinti adattartalmú nyomtatvány bemutatásával együtt lehet igényelni.
 
-(2a)[^319] Az Ebtv. 40. § (4) bekezdés c) és e) pontja szerinti terhességi-gyermekágyi segély igénybevételéhez szükséges nyomtatvány az alábbi adatokat tartalmazza:
+(2a)[^331] Az Ebtv. 40. § (4) bekezdés c) és e) pontja szerinti terhességi-gyermekágyi segély igénybevételéhez szükséges nyomtatvány az alábbi adatokat tartalmazza:
 
 a) a nyomtatványt kiállító egészségügyi szolgáltató neve, címe, bélyegző lenyomata;
 
@@ -24,9 +24,9 @@ i) a nyomtatvány kiállításának dátuma;
 
 j) az orvos aláírása, bélyegzőjének lenyomata.
 
-(3)[^320] A gyermekgondozási díjra – ha jogszabály eltérően nem rendelkezik – a táppénzre vonatkozó rendelkezéseket megfelelően alkalmazni kell.
+(3)[^332] A gyermekgondozási díjra – ha jogszabály eltérően nem rendelkezik – a táppénzre vonatkozó rendelkezéseket megfelelően alkalmazni kell.
 
-[^317]: A Vhr. 26/A.§-át a 203/1999. (XII. 26.) Korm. rendelet 6.§-a iktatta be.
-[^318]: A Vhr. 26/A. § (2) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 17. § (6) bekezdés g) pontja hatályon kívül helyezte, újonnan beiktatta a 325/2011. (XII. 28.) Korm. rendelet 11. § (1) bekezdése.
-[^319]: A Vhr. 26/A. § (2a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^320]: A Vhr. 26. §-a (3) bekezdését a 207/2000. (XII. 11.) Korm. rendelet 4.§-a iktatta be.
+[^329]: A Vhr. 26/A.§-át a 203/1999. (XII. 26.) Korm. rendelet 6.§-a iktatta be.
+[^330]: A Vhr. 26/A. § (2) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 17. § (6) bekezdés g) pontja hatályon kívül helyezte, újonnan beiktatta a 325/2011. (XII. 28.) Korm. rendelet 11. § (1) bekezdése.
+[^331]: A Vhr. 26/A. § (2a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^332]: A Vhr. 26. §-a (3) bekezdését a 207/2000. (XII. 11.) Korm. rendelet 4.§-a iktatta be.
