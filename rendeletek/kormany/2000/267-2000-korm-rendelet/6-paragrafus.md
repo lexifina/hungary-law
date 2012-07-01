@@ -2,10 +2,10 @@
 
 (2)[^12] Az 1. §-ban meghatározott feltételek fennállását az állampolgárságot igazoló okirat, a kárpótlási hatóság által hozott jogerős személyi kárpótlási határozat, az elítélés semmisségét és a szabadságvesztés tényleges időtartamát az első fokon eljárt bíróság igazolása igazolja.
 
-(3)[^13] Amennyiben a kérelmező rokkantság címén nyugellátással, illetve rendszeres szociális ellátással nem rendelkezik, a munkaképesség-csökkenés vagy az egészségkárosodás mértékét az orvosszakértői szerv elsőfokú szakértői bizottsága kérelmére igazolja.
+(3)[^13] Amennyiben a kérelmező a munkaképesség-csökkenésre vagy az egészségkárosodás mértékére vonatkozó hatályos szakvéleménnyel, szakhatósági állásfoglalással nem rendelkezik, kérelmére az egészségkárosodás mértékét a rehabilitációs szakigazgatási szerv igazolja.
 
 (4) A juttatásban részesülő a jogosultság feltételeit érintő tények, körülmények megváltozásáról a változás bekövetkeztétől számított 15 napon belül a folyósító szervet köteles írásban értesíteni.
 
 [^11]: A 6. § (1) bekezdése a 349/2011. (XII. 30.) Korm. renelet 5. §-ával megállapított szöveg.
 [^12]: A 6. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 219. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^13]: A 6. § (3) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^13]: A 6. § (3) bekezdése a 95/2012. (V. 15.) Korm. rendelet 32. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.
