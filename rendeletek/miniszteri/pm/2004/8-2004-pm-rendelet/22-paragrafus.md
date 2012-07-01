@@ -15,5 +15,5 @@ c)[^131] a jövedéki biztosíték rendelkezésre állásáról szóló eredeti 
 [^128]: A 22. §-t megelőző alcím a 44/2009. (XII. 29.) PM rendelet 10. §-ával megállapított szöveg.
 [^129]: A 22. § a 44/2009. (XII. 29.) PM rendelet 10. §-ával megállapított szöveg.
 [^130]: A 22. § (1) bekezdés b) pontját a 17/2011. (IV. 19.) NGM rendelet 57. §-a hatályon kívül helyezte.
-[^131]: A 22. § (1) bekezdés c) pontja az 54/2011. (XII. 29.) NGM rendelet 19. §-ával megállapított szöveg.
-[^132]: A 22. § (2) bekezdése a 17/2011. (IV. 19.) NGM rendelet 27. §-ával megállapított, az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^131]: A 22. § (1) bekezdés c) pontja az 53/2011. (XII. 29.) NGM rendelet 19. §-ával megállapított szöveg.
+[^132]: A 22. § (2) bekezdése az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 8. pontja szerint módosított szöveg.

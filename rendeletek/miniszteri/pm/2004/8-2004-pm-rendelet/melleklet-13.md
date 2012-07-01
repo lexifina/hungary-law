@@ -78,7 +78,7 @@
 
 |  |  | 2.2.3. | egyéb vevőnek |
 
-|  | 2.5. | Ásványolaj üzemanyag-adalékkénti értékesítése |
+|  | 2.5. |  |
 
 | 3. | Regenerálásra átadott: |
 

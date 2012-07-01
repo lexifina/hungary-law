@@ -12,7 +12,7 @@
 
 a) a denaturált szesz esetén a tárgyévben beszerzett denaturált szesz átlagos valódi szeszfoka alapján,
 
-b)[^487] az egyéb ellenőrzött ásványolaj és megfigyelt termék esetében a Jöt. 52. § (1) bekezdésének a) pontja szerinti, illetve a Jöt. 50. § (4) bekezdésének e) pontjában meghatározott megfigyelt termék esetében a Jöt. 64. § (2) bekezdése, illetve – a Jöt. 50. § (5) bekezdésében meghatározott megfigyelt termék esetében – a Jöt. 52. § (2) bekezdésének c) pontja szerinti adómérték alkalmazásával
+b)[^487] az egyéb ellenőrzött ásványolaj és megfigyelt termék esetében a Jöt. 52. § (1) bekezdésének a) pontja szerinti, illetve a Jöt. 50. § (4) bekezdésének e) pontjában meghatározott megfigyelt termék esetében a Jöt. 64. § (2) bekezdése szerinti adómérték alkalmazásával
 
 ## kell megállapítani.
 
@@ -35,7 +35,7 @@ b)[^487] az egyéb ellenőrzött ásványolaj és megfigyelt termék esetében a
 [^484]: A 108. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 48. §-ával megállapított szöveg.
 [^485]: A 108. § (2) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (10) bekezdése szerint módosított szöveg.
 [^486]: A 108. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 48. §-ával megállapított szöveg.
-[^487]: A 108. § (5) bekezdésének b) pontja a 40/2007. (XII. 29.) PM rendelet 26. §-ával megállapított, a 13/2009. (VI. 12.) PM rendelet 21. § (4) bekezdése szerint módosított szöveg.
+[^487]: A 108. § (5) bekezdés b) pontja az 54/2011. (XII. 29.) NGM rendelet 27. §-ával megállapított szöveg.
 [^488]: A 108. § (7) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
 [^489]: A 108. § (8) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (5) bekezdése szerint módosított szöveg.
 [^490]: A 108. § (9) bekezdése a 45/2005. (XII. 26.) PM rendelet 25. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.

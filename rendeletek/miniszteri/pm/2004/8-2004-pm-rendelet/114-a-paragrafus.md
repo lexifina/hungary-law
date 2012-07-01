@@ -1,8 +1,8 @@
 114/A. §[^544] (1) A motorfejlesztést megvalósító személy (a továbbiakban: motorfejlesztő) a Jöt. 57/A. § (3) bekezdés a) pontja szerinti bejelentést a 49. számú melléklet szerinti adattartalommal köteles benyújtani a vámhatósághoz.
 
-(2) A Jöt. 57/A. § szerinti adó-visszaigénylési jogosultság igazolásához szükséges okmányok:
+(2)[^545] A Jöt. 57/A. § szerinti adó-visszaigénylési jogosultság igazolásához szükséges okmányok:
 
-a)[^545] a Jöt. 52. § (1) bekezdés a), d) és f) pont szerinti ásványolajok, az E85, az egyéb bioetanol tartalmú üzemanyagok és a biodízel (e § alkalmazásában a továbbiakban együtt: üzemanyag) jövedéki adóval növelt áron történő beszerzését igazoló olyan számla, amelyen a jövedéki adót külön feltüntették,
+a) a Jöt. 52. § (1) bekezdés a), d) és f) pont szerinti ásványolajok, az E85, az egyéb bioetanol tartalmú üzemanyagok és a biodízel (e § alkalmazásában a továbbiakban együtt: üzemanyag) jövedéki adóval növelt áron történő beszerzését igazoló olyan számla, amelyen a jövedéki adót külön feltüntették,
 
 b) a motorfejlesztéshez a tárgyidőszakban történt üzemanyag-felhasználást igazoló belső bizonylatok,
 

@@ -21,6 +21,6 @@ h)[^35] a 61. § (1)–(2) bekezdésében, valamint a 61/A. § (1) bekezdésébe
 [^31]: A 3/A. §-t a 40/2007. (XII. 29.) PM rendelet 3. §-a iktatta be.
 [^32]: A 3/A. § (1) bekezdés a) pontja a 17/2009. (IX. 29.) PM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^33]: A 3/A. § (1) bekezdés b) pontját a 17/2011. (IV. 19.) NGM rendelet 57. §-a hatályon kívül helyezte.
-[^34]: A 3/A. § (1) bekezdés e) pontja az 54/2011. (XII. 29.) NGM rendelet 17. §-ával megállapított szöveg.
+[^34]: A 3/A. § (1) bekezdés e) pontja az 53/2011. (XII. 29.) NGM rendelet 17. §-ával megállapított szöveg.
 [^35]: A 3/A. § (1) bekezdés h) pontja a 17/2009. (IX. 29.) PM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^36]: A 3/A. § (2) bekezdését az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 3. pontja hatályon kívül helyezte.

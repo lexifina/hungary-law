@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-8-20-53
 | 2011-01-01 | 2004-8-20-53.27 | 18/2010. (XII. 30.) NGM rendelet |
 | 2011-04-20 | 2004-8-20-53.28 | 17/2011. (IV. 19.) NGM rendelet |
 | 2012-01-01 | 2004-8-20-53.29 | 54/2011. (XII. 29.) NGM rendelet |
+| 2012-07-01 | 2004-8-20-53.30 | 53/2011. (XII. 29.) NGM rendelet |

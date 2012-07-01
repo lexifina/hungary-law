@@ -22,5 +22,5 @@ d) a c) pont szerinti szállítási bizonylat aláírására jogosult személyek
 [^134]: A 24. §-t megelőző alcím a 44/2009. (XII. 29.) PM rendelet 12. §-ával megállapított szöveg.
 [^135]: A 24. § a 44/2009. (XII. 29.) PM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 51. §-a alapján a 2009: CXIII. törvény 69. §-a szerinti esetekben a 8/2004. (III. 10.) PM rendelet termékkísérő okmányok aláírásával kapcsolatos, valamint 75. §-ának 2010. március 31-én hatályos rendelkezéseit kell alkalmazni.
 [^136]: A 24. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (6) bekezdése szerint módosított szöveg.
-[^137]: A 24. § (2) bekezdés a) pontja az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^137]: A 24. § (3) bekezdés a) pontja az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 9. pontja szerint módosított szöveg.
 [^138]: A 24. § (4) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (7) bekezdése szerint módosított szöveg.

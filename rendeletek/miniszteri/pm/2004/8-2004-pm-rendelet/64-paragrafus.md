@@ -10,5 +10,5 @@
 
 [^337]: A 63. §-t az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 12. pontja hatályon kívül helyezte.
 [^338]: A 64. § (2) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) és (10) bekezdése szerint módosított szöveg.
-[^339]: A 64. § (3) bekezdése az 54/2011. (XII. 29.) NGM rendelet 23. § bekezdésével megállapított szöveg.
+[^339]: A 64. § (3) bekezdése az 54/2011. (XII. 29.) NGM rendelet 23. §-ával megállapított szöveg.
 [^340]: A 64. § (4) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (10) bekezdése szerint módosított szöveg.

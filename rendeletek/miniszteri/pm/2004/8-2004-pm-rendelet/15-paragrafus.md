@@ -37,10 +37,10 @@ m)[^91] – adóraktárból történő beszerzés esetén – az egyszerűsítet
 [^85]: A 15. § (1) bekezdés a) pontja a 17/2009. (IX. 29.) PM rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^86]: A 15. § (1) bekezdés b) pontját a 17/2011. (IV. 19.) NGM rendelet 57. §-a hatályon kívül helyezte.
 [^87]: A 15. § (1) bekezdés c) pontját a 17/2009. (IX. 29.) PM rendelet 20. § (2) bekezdése hatályon kívül helyezte.
-[^88]: A 15. § (1) bekezdés f) pontja az 54/2011. (XII. 29.) NGM rendelet 18. §-ával megállapított szöveg.
+[^88]: A 15. § (1) bekezdés f) pontja az 53/2011. (XII. 29.) NGM rendelet 18. §-ával megállapított szöveg.
 [^89]: A 15. § (1) bekezdés h) pontja a 17/2009. (IX. 29.) PM rendelet 8. § (2) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^90]: A 15. § (1) bekezdés j) pontját a 17/2009. (IX. 29.) PM rendelet 20. § (2) bekezdése hatályon kívül helyezte.
-[^91]: A 15. § (1) bekezdés m) pontja az 54/2011. (XII. 29.) NGM rendelet 18. §-ával megállapított szöveg.
+[^91]: A 15. § (1) bekezdés m) pontja az 53/2011. (XII. 29.) NGM rendelet 18. §-ával megállapított szöveg.
 [^92]: A 15. § (2) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 37. pontja, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
 [^93]: A 15. § (3) bekezdését az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 6. pontja hatályon kívül helyezte.
 [^94]: A 15. § (4) bekezdését a 44/2009. (XII. 29.) PM rendelet 7. §-a iktatta be.
