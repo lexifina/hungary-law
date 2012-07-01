@@ -20,4 +20,4 @@ f) a megállapodás hatálybalépésének időpontját, időbeli hatályát, a m
 
 g) szükség szerint az Európai Üzemi Tanácson belül létrehozott ügyvezető bizottság összetételét, kinevezési eljárásait, feladatait és ülésezési rendjét.
 
-(4) Az európai üzemi tanács és a munkavállalói képviselői testületek tájékoztatása, valamint a velük folytatott konzultáció közötti kapcsolatra vonatkozó szabályozást az e §-ban, illetve a 8. §-ban szabályozott megállapodás állapítja meg. E megállapodás nem lehet ellentétes a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény munkavállalók tájékoztatására és a velük folytatott konzultációra vonatkozó rendelkezéseivel.
+(4) Az európai üzemi tanács és a munkavállalói képviselői testületek tájékoztatása, valamint a velük folytatott konzultáció közötti kapcsolatra vonatkozó szabályozást az e §-ban, illetve a 8. §-ban szabályozott megállapodás állapítja meg. E megállapodás nem lehet ellentétes a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) munkavállalók tájékoztatására és a velük folytatott konzultációra vonatkozó rendelkezéseivel.
