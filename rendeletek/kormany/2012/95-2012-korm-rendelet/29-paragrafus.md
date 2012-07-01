@@ -1,0 +1,1 @@
+## 28. § A nemzeti helytállásért elnevezésű pótlék bevezetéséről szóló 173/1995. (XII. 27.) Korm. rendelet 8. § (6) bekezdésében az „az orvosszakértői szerv elsőfokú szakértői bizottsága” szövegrész helyébe az „a rehabilitációs szakigazgatási szerv szakértői bizottsága” szöveg lép.
