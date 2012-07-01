@@ -20,7 +20,7 @@
 
 10. az NNI Területi Főosztály vezetője,
 
-11. az NNI Tanúvédelmi Szolgálat vezetője,
+11.[^4] a Készenléti Rendőrség Védelemszervező Szolgálat vezetője,
 
 12. a megyei (fővárosi) rendőrfőkapitány,
 
@@ -48,14 +48,15 @@
 
 terjeszthetik elő.
 
-(2)[^4] A rendőrkapitányság vezetőjének kérelmét a megyei rendőr-főkapitányság bűnügyi igazgatója, illetőleg a budapesti rendőrfőkapitány bűnügyi helyettese terjeszti elő.
+(2)[^5] A rendőrkapitányság vezetőjének kérelmét a megyei rendőr-főkapitányság bűnügyi igazgatója, illetőleg a budapesti rendőrfőkapitány bűnügyi helyettese terjeszti elő.
 
-(3)[^5] Az RRI esetében a különleges eszköz alkalmazásának sürgősségi elrendelésére az RRI igazgatója jogosult.
+(3)[^6] Az RRI esetében a különleges eszköz alkalmazásának sürgősségi elrendelésére az RRI igazgatója jogosult.
 
-(4)[^6] A különleges eszközök alkalmazásának sürgősségi elrendelésére az (1) bekezdés 1–6., 12., valamint 15–21. pontjában felsorolt vezetők jogosultak az Rtv. 72. §-a szerint.
+(4)[^7] A különleges eszközök alkalmazásának sürgősségi elrendelésére az (1) bekezdés 1–6., 12., valamint 15–21. pontjában felsorolt vezetők jogosultak az Rtv. 72. §-a szerint.
 
 [^2]: A 2. § a 38/2004. (VI. 29.) BM rendelet 17. §-ával megállapított szöveg, e módosító rendelet 18. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 [^3]: A 2. § (1) bekezdése a 30/2011. (IX. 22.) BM rendelet 104. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § (2) bekezdése a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 10. pontja szerint módosított szöveg.
-[^5]: A 2. § (3) bekezdése a 8/2008. (IV. 22.) IRM rendelet 2. § (14) bekezdésével megállapított, a 30/2011. (IX. 22.) BM rendelet 104. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^6]: A 2. § (4) bekezdése a 30/2011. (IX. 22.) BM rendelet 104. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés 11. pontja a 31/2012. (VI. 28.) BM rendelet 2. §-a szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdése a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 10. pontja szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdése a 8/2008. (IV. 22.) IRM rendelet 2. § (14) bekezdésével megállapított, a 30/2011. (IX. 22.) BM rendelet 104. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 2. § (4) bekezdése a 30/2011. (IX. 22.) BM rendelet 104. § (3) bekezdés b) pontja szerint módosított szöveg.
