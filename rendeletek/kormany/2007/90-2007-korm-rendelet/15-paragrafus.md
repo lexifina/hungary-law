@@ -20,7 +20,7 @@ e) a)–d) pontok esetében a felügyelőséghez is.
 
 (5)[^22] A bejelentés alapján a VIZIG haladéktalanul köteles a NPI, a megyei népegészségügyi szakigazgatási szerv és a felügyelőség bevonásával az esetet a helyszínen kivizsgálni.
 
-(5a)[^23] A 3. számú melléklet szerinti megyei népegészségügyi szakigazgatási szervek e rendelet szerinti feladat- és hatáskörükben különös illetékességgel járnak el.
+(5a)[^23]
 
 (6)[^24] A kivizsgálásba a halászatról és horgászatról szóló külön jogszabály szerinti tiltott halfogási mód következtében fellépő halpusztulás esetén a halászati, valamint az erdőket érintő környezetveszélyeztetés és környezetkárosodás esetén erdészeti hatóságként a Nemzeti Élelmiszerlánc-biztonsági Hivatalt is be kell vonni.
 
@@ -30,5 +30,5 @@ e) a)–d) pontok esetében a felügyelőséghez is.
 [^20]: A 15. § (4) bekezdés a) pontja a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés h) pontja szerint módosított szöveg.
 [^21]: A 15. § (4) bekezdés d) pontja a 351/2010. (XII. 30.) Korm. rendelet 179. § a) pontja szerint módosított szöveg.
 [^22]: A 15. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 179. § b) pontja, a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^23]: A 15. § (5a) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 180. §-a iktatta be.
+[^23]: A 15. § (5a) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 180. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § j) pontja.
 [^24]: A 15. § (6) bekezdése a 23/2012. (II. 29.) Korm. rendelet 25. § (1) bekezdése szerint módosított szöveg.
