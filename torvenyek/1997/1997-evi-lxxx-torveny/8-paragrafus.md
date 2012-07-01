@@ -2,7 +2,7 @@ Tbj. 8. § Szünetel a biztosítás:
 
 a) a fizetés nélküli szabadság ideje alatt, kivéve, ha
 
-aa) a fizetés nélküli szabadság idejére gyermekgondozási díj, gyermekgondozási segély vagy gyermeknevelési támogatás kerül folyósításra, vagy
+aa) a fizetés nélküli szabadság idejére terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély vagy gyermeknevelési támogatás kerül folyósításra, vagy
 
 ab) a fizetés nélküli szabadságot tizenkét évesnél fiatalabb beteg gyermek ápolása címén veszik igénybe,
 
