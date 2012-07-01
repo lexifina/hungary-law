@@ -120,4 +120,4 @@
 
 3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^193]
 
-[^193]: A 3. számú melléklet a 358/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^193]: A 3. számú melléklet a 358/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés c) pontja, a 95/2012. (V. 15.) Korm. rendelet 35. § (2) bekezdés b)–c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.

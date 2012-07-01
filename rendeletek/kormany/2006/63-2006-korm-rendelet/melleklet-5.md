@@ -30,7 +30,7 @@ I. Igazolom, hogy
 
 ## Fenti igazolást nevezett részére
 
-## az Nemzeti Rehabilitációs és Szociális Hivatal ............ fokú szakértői bizottságának .................... számú szakhatósági állásfoglalása vagy szakvéleménye, vagy a ...................... megyei gyermek szakfőorvos .................... számú igazolása, vagy ........................... fekvőbeteg-szakellátást nyújtó intézmény ....................................................... szakrendelő intézet szakorvosa által kiadott .................... keltű igazolás/zárójelentés, vagy a Tanulási Képességet Vizsgáló Szakértő Bizottság .................... számú szakvéleménye alapján állítottam ki.
+## az Nemzeti Rehabilitációs és Szociális Hivatal vagy a rehabilitációs szakigazgatási szerv .................... számú szakhatósági állásfoglalása vagy szakvéleménye, vagy a ...................... megyei gyermek szakfőorvos .................... számú igazolása, vagy ........................... fekvőbeteg-szakellátást nyújtó intézmény ....................................................... szakrendelő intézet szakorvosa által kiadott .................... keltű igazolás/zárójelentés, vagy a Tanulási Képességet Vizsgáló Szakértő Bizottság .................... számú szakvéleménye alapján állítottam ki.
 
 ## II. Szakvéleményem szerint a fent nevezett személy fogyatékossága/betegsége miatt állandó és tartós gondozásra szorul. A gondozás várható időtartama:
 
@@ -68,4 +68,4 @@ d) mozgásszervi károsodása, illetőleg funkciózavara olyan mértékű, hogy 
 
 2.Tartósan beteg az a személy, aki előreláthatólag három hónapnál hosszabb időtartamban állandó ápolást, gondozást igényel.
 
-[^195]: Az 5. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 332/2010. (XII. 27.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^195]: Az 5. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 332/2010. (XII. 27.) Korm. rendelet 17. § b) pontja, a 95/2012. (V. 15.) Korm. rendelet 35. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.

@@ -128,7 +128,7 @@
 
 ## Jelölje aláhúzással, ha csatolta:
 
-## a) a Nemzeti Rehabilitációs és Szociális Hivatalt szakértői bizottságának érvényes és hatályos szakvéleményét vagy szakhatósági állásfoglalását;
+## a) a Nemzeti Rehabilitációs és Szociális Hivatal vagy a rehabilitációs szakigazgatási szerv érvényes és hatályos szakvéleményét vagy szakhatósági állásfoglalását;
 
 ## b) a Magyar Államkincstár területileg illetékes szervének igazolását a fogyatékossági támogatás vagy a vakok személyi járadékának folyósításáról.
 
@@ -280,7 +280,7 @@
 
 ## 5.3.2. A kérelemhez
 
-## - az 5.3.1.a) pontban meghatározott esetben mellékelni kell a Nemzeti Rehabilitációs és Szociális Hivatal szakértői bizottságának a munkaképesség legalább 67%-os mértékű csökkenéséről, illetve a legalább 50%-os mértékű egészségkárosodásáról készült érvényes és hatályos szakvéleményét, előzetes szakhatósági állásfoglalását vagy szakhatósági állásfoglalását;
+## - az 5.3.1.a) pontban meghatározott esetben mellékelni a Nemzeti Rehabilitációs és Szociális Hivatalnak vagy a rehabilitációs szakigazgatási szervnek a munkaképesség legalább 67%-os mértékű csökkenéséről, illetve a legalább 50%-os mértékű egészségkárosodásáról készült érvényes és hatályos szakvéleményét, előzetes szakhatósági állásfoglalását vagy szakhatósági állásfoglalását;
 
 ## - az 5.3.1.b) és c) pontokban meghatározott esetekben pedig
 
