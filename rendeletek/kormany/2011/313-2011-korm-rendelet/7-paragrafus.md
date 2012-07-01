@@ -10,7 +10,7 @@ c) az ÁNTSZ vagy az engedélyező szerv három éven belül legalább két alka
 
 d) az ÁNTSZ vagy az engedélyező szerv ismételt figyelmeztetése ellenére a háziorvos az ellátást nem, illetve – a helyettesítés kivételével – nem személyesen nyújtja,
 
-e) az 5. § (2) bekezdése szerinti határidő letelik.
+e)[^5] a praxisjog elidegenítésére nyitva álló határidő eredménytelenül telik el, a határidő leteltét követő nappal.
 
 (2) Az (1) bekezdés a) pontjának alkalmazása szempontjából rosszhiszeműnek minősül különösen az a személy, aki az eljárás során valamely, az engedély megadása szempontjából fontos tényt, adatot, körülményt elhallgat, adatot meghamisít, vagy más módon a hatóságot megtéveszti.
 
@@ -21,3 +21,5 @@ e) az 5. § (2) bekezdése szerinti határidő letelik.
 (5) A praxisengedély visszavonását – az állami adóhatóság kivételével – a 6. § szerinti szervek is kezdeményezhetik.
 
 (6) A praxisengedély visszavonásáról szóló határozatot közölni kell az önkormányzattal és azokkal a szervekkel, amelyekkel a praxisengedélyre vonatkozó határozatot közölték.
+
+[^5]: A 7. § (1) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 77. §-ával megállapított szöveg.

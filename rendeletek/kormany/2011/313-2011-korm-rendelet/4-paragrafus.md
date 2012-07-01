@@ -13,3 +13,13 @@ a) a praxisjog átruházásáról szóló szerződést,
 b) a kérelmező és az önkormányzat által kötött előszerződést,
 
 c) a praxisjog folytatása esetén a kérelmezőnek a folytatásra való jogosultságát igazoló okiratokat, ideértve – több folytatásra jogosult személy esetén – az Öotv. 2. § (5) bekezdésében meghatározott megállapodást is.
+
+(4)[^1] Praxisengedély tartósan betöltetlen körzetre is kiadható, ebben az esetben a (3) bekezdés a) és c) pontját nem kell alkalmazni.
+
+(5)[^2] A feladat-ellátási szerződés egy példányát a települési önkormányzat megküldi az engedélyező szervnek.
+
+(6)[^3] Ha a feladat-ellátási szerződést határozott időre kötötték, annak időtartamát a felek – a háziorvos erre irányuló szándéka esetén – meghosszabbítják, ha nem állnak fenn az Öotv. 2/B. § (3) bekezdésében foglalt okok.
+
+[^1]: A 4. § (4) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 75. §-a iktatta be.
+[^2]: A 4. § (5) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 75. §-a iktatta be.
+[^3]: A 4. § (6) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 75. §-a iktatta be.
