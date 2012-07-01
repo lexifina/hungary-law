@@ -1,0 +1,7 @@
+2. § Az Áfa tv. a következő 276. §-sal egészül ki:
+
+„276. § (1) A fordított adózás mezőgazdasági szektorra történő kiterjesztésével kapcsolatban egyes törvények módosításáról szóló 2012. évi XLIX. törvénnyel (a továbbiakban: Mód2 törvény) megállapított 142. § (1) bekezdés i) pontját – a (2) és (3) bekezdésben meghatározott eltéréssel – azon ügyletek esetén kell először alkalmazni, amelyek teljesítési időpontja 2012. július 1. napjára esik, vagy azt követi.
+
+(2) A Mód2 törvénnyel megállapított 6/A. számú mellékletben felsorolt termékek értékesítése esetén, ha a teljesítés időpontja 2012. július 1. napjára esik, vagy azt követi, de a terméket beszerző adóalanynak a 60. § (1)–(3) bekezdése szerint a fizetendő adót 2012. július 1. napját megelőzően kellene megállapítani, a Mód2 törvénnyel megállapított 142. § (1) bekezdés i) pontja nem alkalmazandó.
+
+(3) Amennyiben a Mód2 törvénnyel megállapított 142. § (1) bekezdés i) pontja hatálya alá tartozó termékértékesítéshez fizetett előleg jóváírásának, kézhezvételének időpontja 2012. július 1. napját megelőző napra esik, az előleg jóváírására, kézhezvételére tekintettel fizetendő adót az ügyletet saját nevében teljesítő adóalany fizeti az 59. § (1) és (2) bekezdésének megfelelően, a termék beszerzőjének adófizetési kötelezettsége – a (2) bekezdésben foglaltak figyelembevételével – az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.”
