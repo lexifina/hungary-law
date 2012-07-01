@@ -1,3 +1,1 @@
-28. § (1) A gazdasági társaság munkavállalóival szemben a munkáltatói jogokat – ha a társasági szerződés eltérően nem rendelkezik – a vezető tisztségviselő gyakorolja. Ha a társaságnál ügyvezető testület működik, a társasági szerződésben, a társasági szerződés ilyen rendelkezése hiányában pedig az ügyvezető testület ügyrendjében kell rendelkezni a munkáltatói jogok gyakorlásának a testület tagjai közti megosztásáról.
-
-(2) A társasági szerződés vagy a társaság legfőbb szervének határozata a munkáltatói jogok gyakorlását több vezető tisztségviselő esetében az egyik vezető tisztségviselőre, illetve más, a gazdasági társasággal munkaviszonyban álló személyre ruházhatja át.
+28. §

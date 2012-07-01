@@ -1,4 +1,4 @@
-70. § (1) Az átalakulással létrejövő gazdasági társaság az átalakult gazdasági társaság általános jogutódja. A jogutód gazdasági társaságot illetik meg a jogelőd gazdasági társaság jogai, és terhelik a jogelőd gazdasági társaság kötelezettségei, ideértve a munkavállalókkal kötött kollektív szerződésben foglalt kötelezettségeket is.
+70. § (1) Az átalakulással létrejövő gazdasági társaság az átalakult gazdasági társaság általános jogutódja. A jogutód gazdasági társaságot illetik meg a jogelőd gazdasági társaság jogai és terhelik a jogelőd gazdasági társaság kötelezettségei, ideértve a kollektív szerződésben foglalt jogokat és kötelezettségeket is.
 
 (2) Ha a gazdasági társaság által, hatósági engedély kiadása iránti kérelemre indított eljárás van folyamatban, a gazdasági társaság köteles az átalakulás elhatározását az engedélyt kiadó hatóságnak haladéktalanul bejelenteni.
 

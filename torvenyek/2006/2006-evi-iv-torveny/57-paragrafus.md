@@ -8,7 +8,7 @@ b) az uralmi szerződés tervezetét;
 
 c) a hitelezőknek szóló felhívást, a (4) bekezdésben foglaltak szerint.
 
-(3) Az elismert vállalatcsoport előkészítésében részt vevő gazdasági társaságoknak elhatározásukról tájékoztatniuk kell a gazdasági társaságnál működő munkavállalói érdek-képviseleti szerveket, és azokkal konzultációt kell folytatniuk.
+(3) Az elismert vállalatcsoport előkészítésében résztvevő gazdasági társaságoknak elhatározásukról tájékoztatniuk kell a gazdasági társaságnál működő üzemi tanácsot és konzultációt kell vele folytatniuk.
 
 (4) Azok a hitelezők, akiknek az elismert vállalatcsoport előkészítésében részt vevő bármely gazdasági társasággal szemben fennálló, le nem járt követelése a döntés első közzétételét megelőzően keletkezett, követelésük erejéig a döntés második közzétételét követő harmincnapos jogvesztő határidőn belül biztosítékot követelhetnek. Nem jogosult biztosítékra a hitelező, ha azzal – jogszabály vagy szerződés alapján – már rendelkezik, vagy ha a gazdasági társaság pénzügyi, vagyoni helyzetére figyelemmel a biztosítékadás indokolatlan.
 

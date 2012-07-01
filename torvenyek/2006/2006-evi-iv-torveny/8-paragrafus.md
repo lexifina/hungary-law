@@ -1,4 +1,4 @@
-8. § (1) A gazdasági társaságnál foglalkoztatott munkavállalók jogaira és kötelezettségeire, valamint a munkaügyi kapcsolatokra a Munka Törvénykönyve rendelkezéseit kell alkalmazni.
+8. § (1)
 
 (2) A gazdasági társaság vezető állású munkavállalónak minősülő alkalmazottai feladatkörükben a társaság érdekeinek elsődlegessége alapján kötelesek eljárni.
 

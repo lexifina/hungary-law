@@ -1,6 +1,6 @@
 84. § (1) A 83. §-ban meghatározott tervezetek és okiratok javaslatainak elfogadásáról a szétváló társaság legfőbb szerve dönt, egyúttal megbízza a társaság vezető tisztségviselőit, hogy a szétválási szerződés és a jogutódok társasági szerződésének (társasági szerződés-módosításának) tervezetét a szükséghez képest dolgozzák át.
 
-(2) A szétválás elhatározásáról a szétválási szerződés megkötésétől számított tizenöt napon belül a szétváló gazdasági társaságnál működő munkavállalói érdek-képviseleti szerveket értesíteni kell.
+(2) A szétválás elhatározásáról a szétválási szerződés megkötésétől számított tizenöt napon belül a szétváló gazdasági társaságnál működő üzemi tanácsot értesíteni kell.
 
 (3) A szétválási szerződést a szétváló társaság tagjai, valamint a jogutódok tagjai (leendő tagjai) kötik meg egymással, és írják alá. A jogutód társasági szerződésének aláírására csak azok a tagok jogosultak, akik az adott jogutód tagjaivá válnak majd.
 

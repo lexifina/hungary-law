@@ -14,6 +14,6 @@ e) mindazt, amit e törvény az egyes társasági formák egyesülése kapcsán 
 
 (3) Az egyesülési szerződést az azt elfogadó legfőbb szervek felhatalmazása alapján az egyesülésben részt vevő gazdasági társaságok vezető tisztségviselői írják alá.
 
-(4) Az egyesülésről az egyesülési szerződés elfogadásától számított tizenöt napon belül tájékoztatni kell a gazdasági társaságoknál működő munkavállalói érdek-képviseleti szerveket.
+(4) Az egyesülésről az egyesülési szerződés elfogadásától számított tizenöt napon belül tájékoztatni kell a gazdasági társaságoknál működő üzemi tanácsot.
 
 (5) Az egyesüléssel érintett gazdasági társaságok az egyesülés valamennyi társaságnál megtörtént végleges elhatározása esetében, az utolsó döntés meghozatalától számított nyolc napon belül kötelesek erről a Cégközlönynél közlemény közzétételét kezdeményezni, amelyet két egymást követő lapszámban kell közzétenni. A közleményben a 75. § (3) bekezdésében foglaltakon kívül meg kell jelölni az egyesülés módját is. A közzététel kezdeményezésére az az egyesüléssel érintett társaság köteles, amelyet erre az egyesülő társaságok maguk közül kijelölnek.

@@ -1,4 +1,4 @@
-75. § (1) Az átalakulás elhatározásáról tájékoztatni kell a gazdasági társaságnál működő munkavállalói érdek-képviseleti szerveket.
+75. § (1) Az átalakulás elhatározásáról tájékoztatni kell a gazdasági társaságnál működő üzemi tanácsot.
 
 (2) A gazdasági társaság a társasági szerződés aláírását követő nyolc napon belül köteles erről a Cégközlönynél közlemény közzétételét kezdeményezni, amelyet két egymást követő lapszámban kell közzétenni.
 
