@@ -208,14 +208,14 @@
 
 ## Az egészségi állapotra vonatkozó besorolás valódiságát az orvos aláírásával igazolja.
 
-## A fogyatékosság jellegét igazoló orvos részére be kell mutatni a fogyatékkal élő személy fogyatékossága tekintetében a Nemzeti Rehabilitációs és Szociális Hivatal által kiállított szakvéleményt, szakhatósági állásfoglalást, amennyiben ilyen készült.
+## A fogyatékosság jellegét igazoló orvos részére be kell mutatni a fogyatékkal élő személy fogyatékossága tekintetében a rehabilitációs szakigazgatási szerv, a Nemzeti Rehabilitációs és Szociális Hivatal által kiállított szakvéleményt, szakhatósági állásfoglalást, amennyiben ilyen készült.
 
 ## Az igazolást az igénylőnek kell benyújtania az elosztóhoz az igazolás kiállításától számított 30 napon belül, a nyilvántartásba történő felvétel iránti igény bejelentésekor. A 30 nap elteltét követően az igénylőnek új igazolást kell kérnie.
 
 ## A nyilvántartásba történő felvételt követő évtől a védendő fogyasztó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll. Nem kell évenkénti igazolást benyújtania a fogyatékkal élő fogyasztók nyilvántartásában szereplő személynek, ha az állapotában, illetve a háztartásában lakó fogyatékkal élő személy állapotában – orvosi szakvéleménnyel igazolhatóan – nem várható jelentős javulás.
 
-24. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^367]
+24. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^368]
 
 Az Európai Unió szervei felé teljesítendő jelentéstétel és adatszolgáltatás rendje
 
-[^367]: A Vhr. 24. számú melléklete a 100/2011. (VI. 29.) Korm. rendelet 22. § (3) bekezdésével megállapított, a 378/2011. (XII. 31.) Korm. rendelet 31. § (15) bekezdése, a 67/2012. (IV. 5.) Korm. rendelet 19–20. §-a szerint módosított szöveg.
+[^368]: A Vhr. 24. számú melléklete a 100/2011. (VI. 29.) Korm. rendelet 22. § (3) bekezdésével megállapított, a 378/2011. (XII. 31.) Korm. rendelet 31. § (15) bekezdése, a 67/2012. (IV. 5.) Korm. rendelet 19–20. §-a szerint módosított szöveg.

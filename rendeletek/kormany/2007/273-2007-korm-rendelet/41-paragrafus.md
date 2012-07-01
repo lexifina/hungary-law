@@ -1,4 +1,4 @@
-41. §[^144] (1) A közcélúvá minősítési, valamint az átminősítési kérelemhez mellékelni kell:
+41. §[^145] (1) A közcélúvá minősítési, valamint az átminősítési kérelemhez mellékelni kell:
 
 a) a hálózati elem üzemi vagy elosztói szabályzatban meghatározottak szerinti megnevezését,
 
@@ -24,4 +24,4 @@ e) a közvetlen vezeték vagy a magánvezeték engedélyesének, a hálózati en
 
 f) a közvetlen vezetékre vagy magánvezetékre kapcsolódó felhasználók és vételezők számának és felhasználásuk mértékének ismertetését.
 
-[^144]: A Vhr. 41. §-a a 378/2011. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^145]: A Vhr. 41. §-a a 378/2011. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.

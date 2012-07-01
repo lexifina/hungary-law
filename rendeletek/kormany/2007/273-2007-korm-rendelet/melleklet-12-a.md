@@ -126,7 +126,7 @@
 
 ## b) az átviteli hálózat tulajdonosában operatív irányítást ellátó személy munkaszerződésében vagy munkavégzésre irányuló egyéb jogviszonyát szabályozó szerződésében meghatározott jogai és kötelezettségei, munkabére és egyéb juttatásai, munkavégzésének feltételei és szakmai érdekei oly módon kerültek-e megállapításra, hogy feladatai ellátása során biztosítsák számára a független cselekvés lehetőségét.
 
-12/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^329]
+12/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^330]
 
 Átviteli rendszerirányításra vonatkozó működési engedély kérelemhez benyújtandó dokumentumok
 
@@ -152,4 +152,4 @@ b) az átviteli hálózat és az elosztók hálózatai között,
 
 9. a kérelmező és a villamosenergia-rendszer azon résztvevői közötti szerződések, üzemviteli megállapodások, akik az átviteli rendszerirányító utasításait a villamosenergia-ellátási szabályzatnak megfelelően kötelesek végrehajtani.
 
-[^329]: A Vhr. 12/a. számú mellékletét a 75/2011. (V. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^330]: A Vhr. 12/a. számú mellékletét a 75/2011. (V. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be.
