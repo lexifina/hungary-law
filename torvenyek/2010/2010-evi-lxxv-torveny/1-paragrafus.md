@@ -1,4 +1,4 @@
-1. § (1) E törvény szabályai szerint, egyszerűsített módon létesíthető munkaviszony (a továbbiakban: egyszerűsített foglalkoztatás)
+1. § (1) E törvény hatálya kiterjed az egyszerűsített módon létesíthető munkaviszonyban (a továbbiakban: egyszerűsített foglalkoztatás) végzett
 
 a) mezőgazdasági, továbbá turisztikai idénymunkára vagy
 
@@ -6,7 +6,7 @@ b) alkalmi munkára.
 
 (2) Az alkalmi munkára irányuló egyszerűsített foglalkoztatás esetén az egyszerűsített munkaviszonyban egy naptári napon legfeljebb foglalkoztatott munkavállalók létszáma – a munkáltatónak a tárgyév első, illetve hetedik hónapját megelőző hat havi, ha a munkáltató ennél rövidebb ideje működik, működésének egész hónapjaira eső átlagos statisztikai létszámát alapul véve – nem haladhatja meg
 
-a) a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) hatálya alá tartozó főállású személyt nem foglalkoztató munkáltató esetén az egy főt,
+a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) hatálya alá tartozó főállású személyt nem foglalkoztató munkáltató esetén az egy főt,
 
 b) egy főtől öt főig terjedő munkavállaló foglalkoztatása esetén a két főt,
 
