@@ -1,4 +1,4 @@
-## 5. §[^2] Ha az integrált eljárásban általános építésügyi hatósági eljárás is lefolytatásra kerül, akkor közreműködő és társhatóságként első és másodfokon
+## 5. §[^3] Ha az integrált eljárásban általános építésügyi hatósági eljárás is lefolytatásra kerül, akkor közreműködő és társhatóságként első és másodfokon
 
 a) az 1. § (1) bekezdés a)–b) pontja esetében az Ngtv. 2. §-ában,
 
@@ -6,4 +6,4 @@ b) az 1. § (1) bekezdés c) pontja esetében az építésügyi és az építés
 
 meghatározott hatóság az eljáró általános építésügyi hatóság.
 
-[^2]: Az 5. § a 228/2010. (VIII. 13.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 5. § a 228/2010. (VIII. 13.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

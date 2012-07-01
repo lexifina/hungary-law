@@ -26,6 +26,6 @@ e) az erdő igénybevételének engedélyezési eljárása
 
 folytathatók le integrált hatásvizsgálati eljárásban.
 
-(5)[^13] A (4) bekezdés a)–c) és e) pontjában meghatározott eljárások integrált hatásvizsgálati eljárásban történő lefolytatása esetében a közreműködő hatóság a Honvédelmi Minisztérium Hatósági Hivatal vezetője. Ha az ügyfél az integrált eljárásban a (4) bekezdés d) pontjában meghatározott eljárás lefolytatását is kérelmezi, akkor az integrált eljárás közreműködő hatósága az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség.
+(5)[^17] A (4) bekezdés a)–c) és e) pontjában meghatározott eljárások integrált hatásvizsgálati eljárásban történő lefolytatása esetében a közreműködő hatóság a Honvédelmi Minisztérium Hatósági Hivatal vezetője. Ha az ügyfél az integrált eljárásban a (4) bekezdés d) pontjában meghatározott eljárás lefolytatását is kérelmezi, akkor az integrált eljárás közreműködő hatósága az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség.
 
-[^13]: A 21. § (5) bekezdése a 158/2011. (VIII. 11.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^17]: A 21. § (5) bekezdése a 158/2011. (VIII. 11.) Korm. rendelet 26. §-a szerint módosított szöveg.

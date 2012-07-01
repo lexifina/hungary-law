@@ -1,6 +1,6 @@
 ## A közös helyszíni szemle
 
-9. § (1)[^7] Közös helyszíni szemlét tűz ki a közreműködő hatóság, amennyiben külön jogszabály kötelező helyszíni szemle tartását írja elő. A közös helyszíni szemlén a hatóság részt vesz, ha azt külön jogszabály kötelezően előírja. A közös helyszíni szemlét az eljárás megindításától számított tíz napon belül kell kitűzni úgy, hogy az legkésőbb az eljárás megindításától számított huszonötödik napon megtartásra kerüljön.
+9. § (1)[^8] Közös helyszíni szemlét tűz ki a közreműködő hatóság, amennyiben külön jogszabály kötelező helyszíni szemle tartását írja elő. A közös helyszíni szemlén a hatóság részt vesz, ha azt külön jogszabály kötelezően előírja. A közös helyszíni szemlét az eljárás megindításától számított tíz napon belül kell kitűzni úgy, hogy az legkésőbb az eljárás megindításától számított huszonötödik napon megtartásra kerüljön.
 
 (2) A közös helyszíni szemle meghívójának tartalmaznia kell
 
@@ -22,4 +22,4 @@ b) az ügyfelek részére küldött értesítést.
 
 (4) Ha a kérelmező alaki hiánypótlási felhívást kapott és a hiánypótlásnak nem tett eleget vagy nem megfelelő tartalommal, akkor az alaki hiánypótlási felhívást kibocsátó társhatóság elállhat a közös helyszíni szemlén való részvételtől.
 
-[^7]: A 9. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (122) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^8]: A 9. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (122) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

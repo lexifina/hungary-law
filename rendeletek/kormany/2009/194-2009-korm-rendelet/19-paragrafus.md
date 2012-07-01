@@ -12,13 +12,13 @@
 
 a) sajátos építményfajtákra és általános építményekre vonatkozó építésügyi hatósági engedélyezési eljárásokat integráló,
 
-b) műemlékekre és általános építményekre vonatkozó építésügyi hatósági engedélyezési eljárásokat integráló,
+b)[^12]
 
-c) sajátos építményfajtákra és műemlékekre vonatkozó építésügyi hatósági engedélyezési eljárásokat integráló,
+c)[^13]
 
 d) csak sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárásokat integráló,
 
-e) műemlékekre, általános építményekre és sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárásokat integráló
+e)[^14]
 
 eljárás.
 
@@ -26,7 +26,7 @@ eljárás.
 
 (4) Az integrált építésügyi hatósági eljárás esetén – az (5) bekezdésben foglalt kivétellel – az 1. mellékletben kijelölt építésügyi hatóság látja el a közreműködő hatóság feladatait.
 
-(5)[^11] Honvédelmi és katonai célú építmények
+(5)[^15] Honvédelmi és katonai célú építmények
 
 a) műtárgy építési vagy létesítési, illetve használatbavételi engedélyezési eljárása
 
@@ -60,4 +60,7 @@ e) műemlék elvi építési, építési vagy használatbavételi engedélyezés
 
 folytatható le integrált építésügyi eljárásban, amely esetében a közreműködő hatóság a Honvédelmi Minisztérium Hatósági Hivatal vezetője.
 
-[^11]: A 19. § (5) bekezdés záró szövegrésze a 158/2011. (VIII. 11.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^12]: A 19. § (2) bekezdés b) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
+[^13]: A 19. § (2) bekezdés c) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
+[^14]: A 19. § (2) bekezdés e) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
+[^15]: A 19. § (5) bekezdés záró szövegrésze a 158/2011. (VIII. 11.) Korm. rendelet 26. §-a szerint módosított szöveg.
