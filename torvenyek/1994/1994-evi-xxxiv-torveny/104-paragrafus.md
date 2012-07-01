@@ -8,7 +8,7 @@ b) a személyek határátlépésére irányadó szabályok közösségi kódexé
 
 c) a gyorsreagálású határvédelmi csapatok felállítására szolgáló eljárás bevezetéséről, valamint a 2007/2004/EK tanácsi rendeletnek ezen eljárás tekintetében történő módosításáról és a kiküldött határőrök feladatai és hatáskörei szabályozásáról szóló, 2007. július 11-i 863/2007/EK európai parlamenti és tanácsi rendelet által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 10. cikk (2) bekezdése,
 
-d) az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 11. cikke,
+d) az Európai Parlament és a Tanács 1168/2011/EU rendelete (2011. október 25.) által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 11. és 11c. cikke [91/L. § (3) bekezdése],
 
 e) a fuvarozóknak az utasokkal kapcsolatos adatok közlésére vonatkozó kötelezettségéről szóló, 2004. április 29-i 2004/82/EK tanácsi irányelv 3. cikke és a 6. cikk (1) bekezdése,
 
