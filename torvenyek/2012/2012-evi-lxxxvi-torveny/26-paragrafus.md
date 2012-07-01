@@ -206,9 +206,7 @@
 
 ## (2) A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 106. § (1) bekezdés és 150. § (1) bekezdés alapján munkavégzésre akkor kerülhet sor, ha ez alapján a közalkalmazott az e törvény vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény vagy a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény hatálya alá tartozó munkáltatónál végez munkát.”
 
-(19) A Kjt. 44/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az Mt. 53. §-a alapján más munkáltatónál történő munkavégzésre akkor kerülhet sor, ha ez alapján a közalkalmazott az e törvény vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény vagy a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény hatálya alá tartozó munkáltatónál végez munkát.”
+(19)
 
 (20) A Kjt. 59. §-a helyébe a következő rendelkezés lép:
 
@@ -218,9 +216,7 @@
 
 ## b) az Mt. munka- és pihenőidőről szóló rendelkezései (XI. fejezet) közül a 92. § (4) bekezdés és a 135. § nem alkalmazható.”
 
-(21) A Kjt. 59. §-a helyébe a következő rendelkezés lép:
-
-## „59. § A közalkalmazotti jogviszony tekintetében az Mt. munka- és pihenőidőről szóló rendelkezései (XI. fejezet) közül a 92. § (4) bekezdés, 116–117. §, 119. § (2) bekezdés és a 135. § nem alkalmazható.”
+(21)
 
 (22) A Kjt. 80. §-a helyébe a következő rendelkezés lép:
 
@@ -230,9 +226,7 @@
 
 ## (3) A közalkalmazotti jogviszony tekintetében az Mt. 143. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a rendkívüli munkaidő ellenértékeként szabadidőt csak kollektív szerződés állapíthat meg.”
 
-(23) A Kjt. 80. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A távolléti díjat a 70–75. § szerinti bérpótlék figyelembe vételével kell megállapítani.”
+(23)
 
 (24) A Kjt. 81–83. §-a helyébe a következő rendelkezések lépnek:
 
