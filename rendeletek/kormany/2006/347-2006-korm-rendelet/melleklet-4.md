@@ -654,4 +654,4 @@
 
 [^132]: A 3. melléklet I. pontja a 300/2011. (XII. 22.) Korm. rendelet 1. § (18) bekezdése szerint módosított szöveg.
 [^133]: A 3. számú melléklet II. pontja a 344/2009. (XII. 30.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^134]: A 4. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 171. §-ával megállapított, a 23/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^134]: A 4. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 171. §-ával megállapított, a 23/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdése, a 137/2012. (VI. 29.) Korm. rendelet 95. § (4) bekezdése és 97. § i) pontja szerint módosított szöveg.
