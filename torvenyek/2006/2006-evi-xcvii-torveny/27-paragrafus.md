@@ -27,3 +27,5 @@ c) a jogsértő kamarai szerv (tisztségviselő) tevékenységét felfüggeszthe
 (9) A szakmai kamarák az alapszabály, valamint az etikai kódex elfogadásáról vagy módosításáról hozott döntést hivatalból, az egyéb határozatot pedig felhívásra – az elfogadástól, illetőleg a felhívástól számított 15 napon belül – törvényességi ellenőrzés céljából a miniszter rendelkezésére bocsátják.
 
 (10) A szakmai kamara országos felügyelőbizottságába az egészségügyért felelős miniszter egy – kizárólag tanácskozási jogkörrel rendelkező – állandó tagot delegál.
+
+(11) A szakmai kamara az előző évi költségvetésének végrehajtásáról minden év május 31-ig írásban beszámol a miniszternek.
