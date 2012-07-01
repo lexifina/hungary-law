@@ -26,7 +26,7 @@ c) 24 órás ügyeleti szolgálat esetén az illetményalap 7,4%-a.
 
 (10) A Vhr. 42. § (2) bekezdésében meghatározott különleges gépjárművezetői pótlék folyósítása szempontjából különleges gépjárműnek minősülő járművek felsorolását a 10. melléklet tartalmazza.
 
-(11) A Vhr. 45. §-ában meghatározott díszelgési pótlékra jogosult az Országos Rendőr-főkapitányságon a Köztársasági Őrezred díszőri feladatokat ellátó hivatásos állomány tagja, valamint a Magyarország Lovas Díszegységébe beosztott lovasrendőrök.
+(11)[^1] A Vhr. 45. §-ában meghatározott díszelgési pótlékra jogosult a Készenléti Rendőrség díszőri feladatokat ellátó hivatásos állomány tagja, valamint a Magyarország Lovas Díszegységébe beosztott lovasrendőrök.
 
 (12) A Vhr. 50. §-ában meghatározott különleges bevetési pótlékra jogosultakat a 11. melléklet tartalmazza.
 
@@ -39,3 +39,5 @@ b) a kutyás kiképzést végző szakoktató (kiképző, tanár) és a kutyaveze
 (14) A kutyavezetői pótlék megállapítása szempontjából szolgálati kutyának minősül az az eb is, amely magántulajdonban van, de a szolgálati elöljáró engedélyével szolgálatellátásra használnak, vagy szolgálati célokra kiképeznek.
 
 (15) A Vhr. 54. §-ában meghatározott nyomozói pótlékra jogosító beosztásokat a 12. melléklet tartalmazza.
+
+[^1]: A 40. § (11) bekezdése a 31/2012. (VI. 28.) BM rendelet 22. §-a szerint módosított szöveg.

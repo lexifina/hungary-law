@@ -14,7 +14,7 @@
 
 ## 2.1. a 3.5. pont alpontjaiban felsoroltak kivételével az Országos Rendőr-főkapitányságnál (a továbbiakban: ORFK),
 
-## 2.2. a Köztársasági Őrezrednél,
+## 2.2.[^4]
 
 ## 2.3. a Nemzeti Nyomozó Irodánál
 
@@ -32,9 +32,9 @@
 
 ## 3.5. az ORFK területi besorolású szerveinél:
 
-## 3.5.1.[^3]
+## 3.5.1.[^5]
 
-## 3.5.2.[^4]
+## 3.5.2.[^6]
 
 ## 3.5.3. az ORFK Gazdasági Főigazgatóság Fejlesztési Osztálynál,
 
@@ -44,7 +44,7 @@
 
 ## 3.5.6. a Zsaru Magazinnál,
 
-## 3.6.[^5] a Központi Gazdasági Ellátó Igazgatóságnál
+## 3.6.[^7] a Központi Gazdasági Ellátó Igazgatóságnál
 
 ## szolgálatot teljesítő hivatásos állomány tagja,
 
@@ -116,6 +116,7 @@
 
 2. melléklet a 66/2011. (XII. 30.) BM rendelethez
 
-[^3]: Az 1. melléklet I. pont 3. pont 3.5. pont 3.5.1. alpontját a 13/2012. (III. 30.) BM rendelet 8. §-a hatályon kívül helyezte.
-[^4]: Az 1. melléklet I. pont 3. pont 3.5. pont 3.5.2. alpontját a 13/2012. (III. 30.) BM rendelet 8. §-a hatályon kívül helyezte.
-[^5]: Az 1. melléklet I. pont 3. pont 3.6. pontját a 13/2012. (III. 30.) BM rendelet 8. §-a iktatta be.
+[^4]: Az 1. melléklet „I. A rendőrségnél illetménykiegészítésre jogosító szervezetek, szervezeti egységek” alcím 2. pont 2.2. alpontját a 31/2012. (VI. 28.) BM rendelet 21. § (1) bekezdése hatályon kívül helyezte.
+[^5]: Az 1. melléklet I. pont 3. pont 3.5. pont 3.5.1. alpontját a 13/2012. (III. 30.) BM rendelet 8. §-a hatályon kívül helyezte.
+[^6]: Az 1. melléklet I. pont 3. pont 3.5. pont 3.5.2. alpontját a 13/2012. (III. 30.) BM rendelet 8. §-a hatályon kívül helyezte.
+[^7]: Az 1. melléklet I. pont 3. pont 3.6. pontját a 13/2012. (III. 30.) BM rendelet 8. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 ## 1.1. a Nemzeti Nyomozó Iroda Bűnügyi Ellátó Szervek Műveleti Főosztály osztályainál tényleges műveleti feladatok ellátásával,
 
-## 1.2. a Nemzeti Nyomozó Iroda Bűnügyi Ellátó Szervek Tanúvédelmi Szolgálat Személyvédelmi Osztályán,
+## 1.2.[^16] a Készenléti Rendőrség Különleges Szolgálatok Igazgatósága Védelemszervező Szolgálat Technikai és Támogató Osztályán
 
 ## 1.3. a Repülőtéri Rendőr Igazgatóság Akció Alosztályán
 
@@ -14,23 +14,23 @@
 
 ## 2.1. a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztályán,
 
-## 2.2. a Készenléti Rendőrség Rendészeti Igazgatóság bevetési főosztályainak támogató kommandó alegységeinél,
+## 2.2.[^17] a Készenléti Rendőrség Rendészeti Igazgatóság bevetési főosztályainak támogató alegységeinél
 
 ## 2.3. a békefenntartó és nemzetközi rendőri erőknél,
 
 ## különleges bevetési pótlékra jogosító tevékenységet közvetlenül ellát.
 
-## 3. A rendőrségen 100%-os mértékű különleges bevetési pótlékra jogosult az, aki
+## 3.[^18] A rendőrségen 100%-os mértékű különleges bevetési pótlékra jogosult az, aki
 
-## 3.1. az 1. pont 1.1. és 1.2. alpontjában felsoroltak kivételével a Nemzeti Nyomozó Irodánál,
+## 3.1.[^19] az 1. pont 1.1. alpontjában felsoroltak kivételével a Nemzeti Nyomozó Irodánál,
 
 ## 3.2. a 2. pont 2.2. alpontjában felsoroltak kivételével a Készenléti Rendőrség Rendészeti Igazgatóságán,
 
-## 3.3. a Készenléti Rendőrség Különleges Szolgálatok Igazgatósága III. Bevetési Főosztályánál, Pénzkísérő Szolgálatánál,
+## 3.3.[^20] a Készenléti Rendőrség Különleges Szolgálatok Igazgatósága törzsében, a III. Bevetési Főosztályánál, Pénzkísérő Szolgálatánál, valamint az 1. pont 1.2. alpontjában felsoroltak kivételével a Védelemszervező Szolgálatánál,
 
-## 3.4. a Köztársasági Őrezred Személyvédelmi Főosztályán a Tűzszerész Alosztály kivételével, valamint a Gazdasági Igazgatóság Gépjármű Osztályán (biztonsági gépkocsivezető),
+## 3.4.[^21] a Készenléti Rendőrség Személy- és Objektumvédelmi Igazgatóságán személyvédelmi feladatok közvetlen végrehajtásával, valamint Ügyeleti és Védelmi Szolgálatánál, a Gazdasági Igazgatóság Informatikai Osztályánál és Forgalmi Alosztályánál biztonsági gépkocsivezetőként,
 
-## 3.5. a megyei (fővárosi) rendőr-főkapitányságok akció alegységeinél
+## 3.5.[^22] a megyei (fővárosi) rendőr-főkapitányságok akció alegységeinél, valamint a Budapesti Rendőr-főkapitányság bevetési osztályán
 
 ## különleges bevetési pótlékra jogosító tevékenységet közvetlenül ellát.
 
@@ -97,3 +97,11 @@ A Vhr. 54. §-ában meghatározott nyomozói pótlékra jogosító szolgálati b
 1.22. alosztályvezető (Repülőtéri Rendőr Igazgatóság Bűnügyi Igazgatóság),
 
 1.23. az 1.1.–1.22. alpontban felsoroltak szolgálati elöljárói osztályvezetői szintig, amennyiben bűnügyi megelőző, felderítő és vizsgálati feladatot ténylegesen ellátnak.
+
+[^16]: A 11. melléklet 1. pont 1.2. alpontja a 31/2012. (VI. 28.) BM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^17]: A 11. melléklet 2. pont 2.2. alpontja a 31/2012. (VI. 28.) BM rendelet 21. § (3) bekezdése szerint módosított szöveg.
+[^18]: A 11. melléklet 3. pont záró szövegrésze a 31/2012. (VI. 28.) BM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^19]: A 11. melléklet a 3. pont 3.1. alpontja a 31/2012. (VI. 28.) BM rendelet 21. § (3) bekezdése szerint módosított szöveg.
+[^20]: A 11. melléklet 3. pont 3.3. alpontja a 31/2012. (VI. 28.) BM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^21]: A 11. melléklet 3. pont 3.4. alpontja a 31/2012. (VI. 28.) BM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^22]: A 11. melléklet 3. pont 3.5. alpontja a 31/2012. (VI. 28.) BM rendelet 21. § (3) bekezdésével megállapított szöveg.
