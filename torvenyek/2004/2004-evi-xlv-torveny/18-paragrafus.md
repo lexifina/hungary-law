@@ -36,7 +36,7 @@ k) érintett leányvállalat vagy telephely: a résztvevő társaság olyan leá
 
 l) ügyvezető szerv: a részvénytársaság igazgatósága vagy igazgatótanácsa, a korlátolt felelősségű társaság ügyvezetője, továbbá más jogi személy ügyvezető szerve;
 
-m) belföldön foglalkoztatott munkavállaló: a résztvevő társaságok, az európai részvénytársaság, illetve ezek leányvállalatai vagy telephelye által Magyarország területén foglalkoztatott munkavállaló, – ideértve a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Munka Törvénykönyve) 1. §-ának (2) bekezdésében és 76/C. §-ának (2) bekezdésében foglalt eseteket is, – tekintet nélkül arra, hogy az európai részvénytársaság székhelye Magyarországon vagy külföldön van.
+m) belföldön foglalkoztatott munkavállaló: a résztvevő társaságok, az európai részvénytársaság, illetve ezek leányvállalatai vagy telephelye által Magyarország területén foglalkoztatott munkavállaló, tekintet nélkül arra, hogy az európai részvénytársaság székhelye Magyarországon vagy külföldön van.
 
 (2) Az (1) bekezdés e) pontja szerinti tájékoztatásnak olyan időben, módon és tartalommal kell történnie, hogy a képviseleti testületnek, illetve a munkavállalói képviselőknek elegendő ideje és ismerete legyen a lehetséges hatások elemzésére, és ha szükséges, az igazgatósággal, igazgatótanáccsal (vagy az általa felhatalmazott más szervvel) való konzultáció előkészítésére.
 
