@@ -2,11 +2,11 @@
 
 ## Szabályzati Bizottság létrehozása működtetése
 
-116. §[^342] (1) A Szabályzati Bizottságban (a továbbiakban: SZB) az azonos típusú engedéllyel rendelkezők az engedélyesi körök által választott képviselőik útján vesznek részt.
+116. §[^343] (1) A Szabályzati Bizottságban (a továbbiakban: SZB) az azonos típusú engedéllyel rendelkezők az engedélyesi körök által választott képviselőik útján vesznek részt.
 
 (2) Az SZB-ben a következő engedélyesi körök vesznek részt véleményezési joggal, választott képviselőjük útján:
 
-a)[^343] szállítási rendszerüzemeltetői,
+a)[^344] szállítási rendszerüzemeltetői,
 
 b) földgáztárolási,
 
@@ -28,11 +28,11 @@ engedélyesek.
 
 (6) Az SZB munkájába szakértőket vonhat be.
 
-(7)[^344] Az engedélyesi körök, valamint a földgáztermelők és a felhasználók kidolgozzák a saját tevékenységükre vonatkozó rendelkezésekre, szabályokra, valamint azok módosításaira vonatkozó javaslatukat és azokat a szállítási rendszerirányító részére az ÜKSZ kidolgozása és felülvizsgálata során átadják.
+(7)[^345] Az engedélyesi körök, valamint a földgáztermelők és a felhasználók kidolgozzák a saját tevékenységükre vonatkozó rendelkezésekre, szabályokra, valamint azok módosításaira vonatkozó javaslatukat és azokat a szállítási rendszerirányító részére az ÜKSZ kidolgozása és felülvizsgálata során átadják.
 
-(8)[^345] A szállítási rendszerirányító – az SZB bevonásával – köteles olyan előkészítő munkát végezni, amely lehetővé teszi, hogy a jogszabályi változások kihirdetését követő 90 napon belül az azokban foglaltak az ÜKSZ-ben átvezetésre kerüljenek, és a módosított ÜKSZ a Hivatalhoz jóváhagyásra benyújtásra kerüljön.
+(8)[^346] A szállítási rendszerirányító – az SZB bevonásával – köteles olyan előkészítő munkát végezni, amely lehetővé teszi, hogy a jogszabályi változások kihirdetését követő 90 napon belül az azokban foglaltak az ÜKSZ-ben átvezetésre kerüljenek, és a módosított ÜKSZ a Hivatalhoz jóváhagyásra benyújtásra kerüljön.
 
-[^342]: A Vhr. 116. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^343]: A Vhr. 116. § (2) bekezdés a) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdésével megállapított szöveg.
-[^344]: A Vhr. 116. § (7) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdése szerint módosított szöveg.
-[^345]: A Vhr. 116. § (8) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdése szerint módosított szöveg.
+[^343]: A Vhr. 116. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^344]: A Vhr. 116. § (2) bekezdés a) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdésével megállapított szöveg.
+[^345]: A Vhr. 116. § (7) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdése szerint módosított szöveg.
+[^346]: A Vhr. 116. § (8) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdése szerint módosított szöveg.

@@ -1,3 +1,3 @@
-79. §[^242] Korlátozás esetére a kapacitáslekötési és a kereskedelmi szerződésnek rendelkeznie kell a korlátozás során alkalmazandó eljárásrendről.
+79. §[^243] Korlátozás esetére a kapacitáslekötési és a kereskedelmi szerződésnek rendelkeznie kell a korlátozás során alkalmazandó eljárásrendről.
 
-[^242]: A Vhr. 79. §-a a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.
+[^243]: A Vhr. 79. §-a a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.

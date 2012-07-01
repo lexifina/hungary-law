@@ -1,4 +1,4 @@
-157. §[^446] (1) Az egyetemes szolgáltató az üzletszabályzat részét képező egyetemes szolgáltatási szerződés mintájának Hivatal általi jóváhagyását követő 30 napon belül köteles a honlapján és az ügyfélszolgálatain közzétenni a GET 139. § (4) bekezdésében meghatározott egyetemes szolgáltatási szerződés írásba foglalására vonatkozó eljárásrendet. A tájékoztatásnak tartalmaznia kell továbbá
+157. §[^447] (1) Az egyetemes szolgáltató az üzletszabályzat részét képező egyetemes szolgáltatási szerződés mintájának Hivatal általi jóváhagyását követő 30 napon belül köteles a honlapján és az ügyfélszolgálatain közzétenni a GET 139. § (4) bekezdésében meghatározott egyetemes szolgáltatási szerződés írásba foglalására vonatkozó eljárásrendet. A tájékoztatásnak tartalmaznia kell továbbá
 
 a) azt, hogy az írásbeli egyetemes szolgáltatási szerződéssel nem rendelkező felhasználókkal 2016. július 1-jéig írásbeli egyetemes szolgáltatási szerződést kell kötni,
 
@@ -24,4 +24,4 @@ b) az üzletszabályzatában meghatározott módon
 
 (5) A (4) bekezdés szerinti esetben az egyetemes szolgáltató az üzletszabályzatában szereplő szerződésmintának megfelelő szerződéstervezet általa aláírt két példányát az üzletszabályzatában meghatározott módon megküldi az írásba foglalt szerződéssel nem rendelkező felhasználónak. A szerződéstervezethez az (1) bekezdés a)–e) pontját tartalmazó tájékoztatást, valamint előzetesen bérmentesített válaszborítékot kell mellékelni.
 
-[^446]: A Vhr. 157. § a 378/2011. (XII. 31.) Korm. rendelet 76. §-ával megállapított szöveg.
+[^447]: A Vhr. 157. § a 378/2011. (XII. 31.) Korm. rendelet 76. §-ával megállapított szöveg.

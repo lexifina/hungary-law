@@ -512,6 +512,6 @@
 
 ## Szerződés nélkül használja a gázelosztó-vezetéket az a felhasználó, aki nem rendelkezik elosztóhálózat-használati szerződéssel.
 
-2. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^484]
+2. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^485]
 
-[^484]: A 2. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 78. § (2) bekezdésével megállapított szöveg.
+[^485]: A 2. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 78. § (2) bekezdésével megállapított szöveg.
