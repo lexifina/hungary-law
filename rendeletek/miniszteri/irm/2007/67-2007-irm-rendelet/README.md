@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-67-20-1
 | 2010-05-12 | 2007-67-20-1U.6 | 16/2010. (IV. 27.) IRM rendelet |
 | 2010-10-03 | 2007-67-20-1U.7 | 16/2010. (IV. 27.) IRM rendelet |
 | 2011-07-22 | 2007-67-20-1U.8 | 16/2010. (IV. 27.) IRM rendelet |
+| 2012-07-01 | 2007-67-20-1U.9 | 31/2012. (VI. 28.) BM rendelet |

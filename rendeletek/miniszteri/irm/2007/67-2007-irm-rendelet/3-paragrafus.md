@@ -2,8 +2,8 @@
 
 (2) Az RRI az R. 10. §-ának (2) bekezdésében meghatározott feladatait Budapest Ferihegy Nemzetközi Repülőtér (a továbbiakban: repülőtér) területén látja el.
 
-(3)[^2] Az RRI illetékessége az R. 11. § (2) bekezdés gd)–ge) alpontjában meghatározott, valamint az ideiglenes légi határátkelőhelyek megnyitásával kapcsolatos feladatok tekintetében Budapest és Pest megye területére terjed ki.
+(3)[^3] Az RRI illetékessége az R. 11. § (2) bekezdés gd)–ge) alpontjában meghatározott, valamint az ideiglenes légi határátkelőhelyek megnyitásával kapcsolatos feladatok tekintetében Budapest és Pest megye területére terjed ki.
 
 (4) A (2) bekezdésben meghatározott illetékességi terület a repülőtér nyilvános, a közforgalom számára megnyitott területeire, a repülőtéri belső parkolókra, a repülőteret határoló kerítéssel bezárt területre, valamint a repülőtér jegykezelési, vámkezelési és tranzit területeire, továbbá a forgalmi előterére, a külső parkolókra és a terminálokhoz vezető utakra terjed ki.
 
-[^2]: A 3. § (3) bekezdése az 51/2009. (IX. 30.) IRM rendelet 3. §-ával megállapított szöveg.
+[^3]: A 3. § (3) bekezdése az 51/2009. (IX. 30.) IRM rendelet 3. §-ával megállapított szöveg.
