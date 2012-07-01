@@ -1,3 +1,3 @@
-## 7. §[^11]
+## „f) a legfőbb ügyész esetében a Legfőbb Ügyészség Kabinet,
 
-[^11]: A 7. § a 25. § (2) bekezdése alapján 2012. július 1. napjával lép hatályba.
+## g) az ideiglenes védelemben részesített személy esetében a Miniszterelnökség,”

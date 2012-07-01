@@ -1,3 +1,9 @@
-## 21. §[^29]
+## szöveg lép.
 
-[^29]: A 21. § a 25. § (2) bekezdése alapján 2012. július 1. napjával lép hatályba.
+## 22. § Hatályát veszti a Kormányrendelet3.
+
+a) 2. § (1) bekezdés a) pontja,
+
+b) 7. §-a, valamint
+
+c) 16. § c) pontjában az „és 9. § h) pontja” szövegrész.

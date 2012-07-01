@@ -1,3 +1,1 @@
-## 15. §[^23]
-
-[^23]: A 15. § a 25. § (2) bekezdése alapján 2012. július 1. napjával lép hatályba.
+## „f) –, a terrorizmust elhárító szerv kijelöléséről és feladatai ellátásának részletes szabályairól szóló 295/2010. (XII. 22.) Korm. rendelet 3. § (1) bekezdés d) pont da) alpontjában, valamint k) pontjában meghatározottakra figyelemmel, valamint a 11. § (2) bekezdés i) pontjában foglalt feladat kivételével – a rendőrség hatáskörébe tartozó tűzszerészeti feladatokat lát el, valamint végzi a robbantással fenyegetett helyszínek átvizsgálását,”

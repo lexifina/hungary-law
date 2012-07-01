@@ -1,17 +1,14 @@
-## 10. §[^15]
+## szöveg lép.
 
-## 11. §
+## 11. § Hatályát veszti a Kormányrendelet2.
 
-a)[^16]
+a) 1. § (2) bekezdés d) pontjában az „[az (1) bekezdésben és az a)–d) pontokban meghatározottak a továbbiakban együtt: védett személy]” szövegrész,
 
-b)[^17]
+b)[^6]
 
-c)[^18]
+c)[^7]
 
-d)[^19]
+d) 13. § (5) bekezdése.
 
-[^15]: A 10. § a 25. § (2) bekezdése alapján 2012. július 1. napjával lép hatályba.
-[^16]: A 11. § a) pontja a 25. § (2) bekezdése alapján 2012. július 1. napjával lép hatályba.
-[^17]: A 11. § b) pontja a 25. § (3) bekezdése alapján 2013. január 1. napjával lép hatályba.
-[^18]: A 11. § c) pontja a 25. § (3) bekezdése alapján 2013. január 1. napjával lép hatályba.
-[^19]: A 11. § d) pontja a 25. § (2) bekezdése alapján 2012. július 1. napjával lép hatályba.
+[^6]: A 11. § b) pontja a 25. § (3) bekezdése alapján 2013. január 1. napjával lép hatályba.
+[^7]: A 11. § c) pontja a 25. § (3) bekezdése alapján 2013. január 1. napjával lép hatályba.
