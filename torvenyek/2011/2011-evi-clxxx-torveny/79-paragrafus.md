@@ -4,11 +4,11 @@ a)
 
 b)
 
-c) 122. § (3) bekezdése,
+c)
 
 d)
 
-e) 145. § (3) bekezdése,
+e)
 
 f)
 
