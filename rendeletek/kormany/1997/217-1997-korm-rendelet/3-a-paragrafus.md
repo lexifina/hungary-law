@@ -40,7 +40,7 @@ c) a vizsgálatra vagy gyógykezelésre felkért szolgáltató nevét, intézmé
 
 d) a beutaló orvos által végzett ellátást azonosító naplósorszámot, a beteg rövid kórelőzményét,
 
-e) a beutaló diagnózis szöveges leírását, kódját,
+e)[^65] a beutaló diagnózis szöveges leírását, kódját, konzíliumi beutaló esetén a konkrét kérdést,
 
 f) annak megjelölését, hogy a beutalt biztosított tekintetében rendelkezik-e az adott szakellátás tekintetében a c) pont szerinti egészségügyi szolgáltató területi ellátási kötelezettséggel,
 
@@ -48,7 +48,7 @@ g) a beutaló kiállításának dátumát,
 
 h) a (10b) bekezdés a) pontja szerinti időpontot, ha az későbbre esik a beutaló kiállításától számított 90. napnál.
 
-(10a)[^65] Az Ebtv. 20. § (4) bekezdése szerinti esetben a beutalónak – a kötelező tartalmi elemein túl – tartalmaznia kell
+(10a)[^66] Az Ebtv. 20. § (4) bekezdése szerinti esetben a beutalónak – a kötelező tartalmi elemein túl – tartalmaznia kell
 
 a) azt a tényt, hogy a beutaló orvos a biztosítottat a keresőképtelenségével összefüggő betegsége miatt soron kívül utalja be,
 
@@ -56,7 +56,7 @@ b) azt, hogy a biztosított keresőképtelensége ugyanazon betegségből adód�
 
 c) a biztosított táppénzes naplószámát.
 
-(10b)[^66] A (10), illetve a (10a) bekezdésben foglaltaknak megfelelő beutaló
+(10b)[^67] A (10), illetve a (10a) bekezdésben foglaltaknak megfelelő beutaló
 
 a) a 2. § (6) bekezdése szerinti ellátáshoz kapcsolódó ellátások esetében a beutaló orvos által a beutalón megjelölt időpontig, de legalább 90 napig,
 
@@ -64,7 +64,7 @@ b) az a) pont alá nem tartozó esetben a kiállításától számított 90 napo
 
 használható fel.
 
-(10c)[^67] A (10b) bekezdés alkalmazásában a beutaló felhasználásának minősül
+(10c)[^68] A (10b) bekezdés alkalmazásában a beutaló felhasználásának minősül
 
 a) a beutaló szerinti egészségügyi szolgáltatóhoz történő bejelentkezés a beutaló szerinti ellátásra,
 
@@ -72,9 +72,11 @@ b) a beutaló szerinti ellátás igénybevételének megkezdése a beutaló szer
 
 c) a beutaló szerinti ellátás igénybevétele a beutaló szerinti egészségügyi szolgáltatónál.
 
-(11)[^68] Az Ebtv. 18. § (1) bekezdésében foglaltak vizsgálatához az OEP rendszeresen tájékoztatja a finanszírozott egészségügyi szolgáltatót a beutalásra jogosult orvosok kódjáról.
+(10d)[^69] A beutalóra adott szakvélemény tartalmazza a beutaló orvos kérdéseire adott válaszokat, a betegség okozta elváltozásokat, az esetleges további teendők szükségességét, ismételt szakkonzíliumot vagy szakkonzíliumokra tett javaslatot. A keresőképesség véleményezéséről csak a beutaló orvos ez irányú kérdésére lehet nyilatkozni.
 
-(12)[^69] Az egészségügyi szolgáltató belső szabályzatában nevezi meg azon személyt, aki a (2) bekezdésben meghatározott nyilatkozatot megteheti.
+(11)[^70] Az Ebtv. 18. § (1) bekezdésében foglaltak vizsgálatához az OEP rendszeresen tájékoztatja a finanszírozott egészségügyi szolgáltatót a beutalásra jogosult orvosok kódjáról.
+
+(12)[^71] Az egészségügyi szolgáltató belső szabályzatában nevezi meg azon személyt, aki a (2) bekezdésben meghatározott nyilatkozatot megteheti.
 
 [^51]: A Vhr. 3/A. §-át a 131/2006. (VI. 15.) Korm. rendelet 1. §-a iktatta be.
 [^52]: A Vhr. 3/A. §-ának (1) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
@@ -90,8 +92,10 @@ c) a beutaló szerinti ellátás igénybevétele a beutaló szerinti egészség�
 [^62]: A Vhr. 3/A. §-ának (8) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^63]: A Vhr. 3/A. §-ának (9) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^64]: A Vhr. 3/A. § (1) bekezdése számozását a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése (10) bekezdésre változtatta, szövege a 92/2012. (IV. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^65]: A Vhr. 3/A. § (10a) bekezdését a 106/2011. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
-[^66]: A Vhr. 3/A. § (10b) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 12. § (4) bekezdése iktatta be.
-[^67]: A Vhr. 3/A. § (10c) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 12. § (4) bekezdése iktatta be.
-[^68]: A Vhr. 3/A. §-a eredeti (2) bekezdésének számozását a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése (11) bekezdésre változtatta.
-[^69]: A Vhr. 3/A. §-ának (12) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^65]: A Vhr. 3/A. § (10) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^66]: A Vhr. 3/A. § (10a) bekezdését a 106/2011. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^67]: A Vhr. 3/A. § (10b) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 12. § (4) bekezdése iktatta be.
+[^68]: A Vhr. 3/A. § (10c) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 12. § (4) bekezdése iktatta be.
+[^69]: A Vhr. 3/A. § (10d) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^70]: A Vhr. 3/A. §-a eredeti (2) bekezdésének számozását a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése (11) bekezdésre változtatta.
+[^71]: A Vhr. 3/A. §-ának (12) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.

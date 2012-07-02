@@ -1,4 +1,4 @@
-25/B. §[^324] (1) Az Ebtv. 39. § (1) bekezdése szerinti választás esetén a választott ellátás iránti kérelmet az Ebtv. 62. § (1) bekezdése, gyermekgondozási támogatás választása esetén a családok támogatásáról szóló 1998. évi LXXXIV. törvény 35. §-a szerint illetékes szervhez kell benyújtani a folyósítás alatt álló ellátás megszüntetésére vonatkozó kérelemmel együtt.
+25/B. §[^326] (1) Az Ebtv. 39. § (1) bekezdése szerinti választás esetén a választott ellátás iránti kérelmet az Ebtv. 62. § (1) bekezdése, gyermekgondozási támogatás választása esetén a családok támogatásáról szóló 1998. évi LXXXIV. törvény 35. §-a szerint illetékes szervhez kell benyújtani a folyósítás alatt álló ellátás megszüntetésére vonatkozó kérelemmel együtt.
 
 (2) A korábban folyósított ellátás megszüntetésének napjáról a folyósító szerv értesíti a választott újabb ellátás megállapítására jogosult szervet. A folyósító szerv a korábban folyósított ellátás megszüntetéséről szóló határozatát megküldi a választott ellátást folyósító szervnek. A határozatnak tartalmaznia kell azt az összeget, amellyel a választott újabb ellátás visszamenőlegesen járó összegét csökkenteni kell.
 
@@ -12,4 +12,4 @@
 
 (7) A kifizetőhelyek tekintetében az OEP, illetve az egészségbiztosítási szakigazgatási szervek gondoskodnak a gyermekgondozási támogatás és a pénzbeli ellátás közötti különbözet elszámolásáról attól függően, hogy a kifizetőhely a kifizetőhelyi elszámolását mely szervnek köteles benyújtani.
 
-[^324]: A Vhr. 25/B. §-át a 319/2006. (XII. 23.) Korm. rendelet 15. §-a iktatta be, szövege a 366/2010. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^326]: A Vhr. 25/B. §-át a 319/2006. (XII. 23.) Korm. rendelet 15. §-a iktatta be, szövege a 366/2010. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
