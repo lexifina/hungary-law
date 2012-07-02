@@ -1,7 +1,0 @@
-## 4. § Az R. a következő 15. §-sal egészül ki:
-
-## „15. § (1) E rendeletnek a nagyvízi medrek, a parti sávok, a vízjárta, valamint a fakadó vizek által veszélyeztetett területek használatáról és hasznosításáról, valamint a nyári gátak által védett területek értékének csökkenésével kapcsolatos eljárásról szóló 21/2006. (I. 31.) Korm. rendelet és a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet módosításáról szóló 209/2011. (X. 12.) Korm. rendelettel (a továbbiakban: rendeletmódosítás) megállapított rendelkezéseit a rendeletmódosítás hatálybalépésekor folyamatban lévő, építési és létesítési tevékenység engedélyezésére irányuló hatósági eljárásokban is alkalmazni kell azzal, hogy a kérelem visszavonása esetén a folyamatban lévő eljárásokat meg kell szüntetni.
-
-## (2) E rendeletnek a rendeletmódosítással megállapított rendelkezéseit a használatbavételi, működési és üzemeltetési engedélyezési eljárás során akkor kell alkalmazni, ha az engedély alapján megvalósult építmény az árvízi lefolyási viszonyokat jelentős mértékben kedvezőtlenül megváltoztatja.
-
-## (3) E rendeletnek a rendeletmódosítással megállapított rendelkezéseit a rendeletmódosítás hatálybalépésekor folyamatban lévő településrendezési eszköz készítés és módosítás során is alkalmazni kell.”
