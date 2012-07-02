@@ -1,10 +1,11 @@
-## 3. § A Kormányrendelet 1.
+## 3. §
 
-a)[^3]
+a)[^5]
 
-b)[^4]
+b)[^6]
 
-c) 67. § (11) bekezdésében a „vezetőt személyes gépkocsi-használat” szövegrész helyébe a „vezetőt a (11a)–(11e) bekezdés szerint személyes gépkocsihasználat”
+c)[^7]
 
-[^3]: A 3. § a) pontja a 25. § (3) bekezdése alapján 2013. január 1. napjával lép hatályba.
-[^4]: A 3. § b) pontja a 25. § (3) bekezdése alapján 2013. január 1. napjával lép hatályba.
+[^5]: A 3. § a) pontja a 25. § (3) bekezdése alapján 2013. január 1. napjával lép hatályba.
+[^6]: A 3. § b) pontja a 25. § (3) bekezdése alapján 2013. január 1. napjával lép hatályba.
+[^7]: A 3. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,9 +1,3 @@
-## szöveg lép.
+## 21. §[^29]
 
-## 22. § Hatályát veszti a Kormányrendelet3.
-
-a) 2. § (1) bekezdés a) pontja,
-
-b) 7. §-a, valamint
-
-c) 16. § c) pontjában az „és 9. § h) pontja” szövegrész.
+[^29]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## „f) a legfőbb ügyész esetében a Legfőbb Ügyészség Kabinet,
+## 7. §[^11]
 
-## g) az ideiglenes védelemben részesített személy esetében a Miniszterelnökség,”
+[^11]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

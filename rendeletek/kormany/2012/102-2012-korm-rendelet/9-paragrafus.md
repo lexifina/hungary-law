@@ -1,11 +1,9 @@
-## 8. § A Kormányrendelet2. 8/E. § (3) bekezdése a következő h) ponttal egészül ki:
+## 8. §[^12]
 
-## [Az (1) bekezdés c) pont alkalmazásában a védett személy hivatala]
+9. § (1)[^13]
 
-## „h) az e rendelet alapján utóbiztosításra jogosult esetében – megszűnt tisztségétől függően – az a)–b) pontban meghatározott hivatal.”
+(2)[^14]
 
-9. § (1)[^5]
-
-(2) A Kormányrendelet2. 1. melléklete az 5. melléklet szerint módosul.
-
-[^5]: A 9. § (1) bekezdése a 25. § (3) bekezdése alapján 2013. január 1. napjával lép hatályba.
+[^12]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 9. § (1) bekezdése a 25. § (3) bekezdése alapján 2013. január 1. napjával lép hatályba.
+[^14]: A 9. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

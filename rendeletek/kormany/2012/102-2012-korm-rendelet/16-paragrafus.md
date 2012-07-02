@@ -1,1 +1,3 @@
-## „f) –, a terrorizmust elhárító szerv kijelöléséről és feladatai ellátásának részletes szabályairól szóló 295/2010. (XII. 22.) Korm. rendelet 3. § (1) bekezdés d) pont da) alpontjában, valamint k) pontjában meghatározottakra figyelemmel, valamint a 11. § (2) bekezdés i) pontjában foglalt feladat kivételével – a rendőrség hatáskörébe tartozó tűzszerészeti feladatokat lát el, valamint végzi a robbantással fenyegetett helyszínek átvizsgálását,”
+## 15. §[^23]
+
+[^23]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

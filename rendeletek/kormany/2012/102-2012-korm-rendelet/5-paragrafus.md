@@ -1,3 +1,5 @@
-## 4. § Hatályát veszti a Kormányrendelet1. 67. § (11) bekezdésében az „ – amely legfeljebb felső középkategóriájú (8. kategória) lehet – ” szövegrész.
+## 4. §[^8]
 
 ## 2. A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet módosítása
+
+[^8]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
