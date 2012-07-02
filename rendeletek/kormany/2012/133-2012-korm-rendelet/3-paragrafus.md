@@ -1,1 +1,3 @@
-## 2. § A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 58. § (2) bekezdésében az „az illetékes gyámhivatalhoz” szövegrész helyébe a „haladéktalanul az illetékes gyámhivatalhoz” szöveg lép.
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
