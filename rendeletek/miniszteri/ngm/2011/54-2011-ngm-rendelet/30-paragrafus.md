@@ -1,14 +1,9 @@
-## 28–29. §[^14]
+## 28–29. §[^17]
 
-30. § (1)[^15]
+30. § (1)[^18]
 
-(2) Hatályát veszti a PM6. rendelet
+(2)[^19]
 
-1. 12. számú melléklete II. 2.5. pontja,
-
-2. 22. számú melléklete III. 2.4. pontja,
-
-3. 39. § (5) bekezdésében a „(kivéve a biodízelt és az üzemanyag-adalékot)” szövegrész.
-
-[^14]: A 28–29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 30. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 28–29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 30. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 30. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
