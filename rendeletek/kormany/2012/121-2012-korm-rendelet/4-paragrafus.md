@@ -1,7 +1,7 @@
 ## 4. § Hatályát veszti
 
-a) a belföldi közforgalmú menetrend szerinti vasúti személyszállítás és helyközi (távolsági) autóbusz-közlekedés, valamint a nevelési-oktatási intézmények által rendelt belföldi autóbusz különjáratok legmagasabb díjairól szóló 48/2007. (IV. 26.) GKM rendelet,
+a)[^1]
 
-b)[^1]
+b) a belföldi menetrend szerinti személyszállítás ingyenes utazásai után járó fogyasztói árkiegészítés megállapításáról szóló 31/2007. (III. 13.) GKM rendelet.
 
-[^1]: A 4. § b) pontja a 3. § (2) bekezdése alapján 2012. július 2-án lép hatályba.
+[^1]: A 4. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
