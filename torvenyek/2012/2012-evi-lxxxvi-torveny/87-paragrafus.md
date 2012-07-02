@@ -1,5 +1,3 @@
-## „(7) Az Országos Közigazgatási Vizsgabizottság Elnöksége megszűnik és az Országos Közigazgatási Vizsgabizottság Elnökségének tagjai (ideértve az elnököt is) a Közigazgatási Továbbképzési Kollégium tagjává válnak. Az Országos Közigazgatási Vizsgabizottság Elnökségének, illetve Elnökének jogszabályban előírt feladatait a Közigazgatási Továbbképzési Kollégium, illetve annak Elnöke látja el. E rendelkezést 2012. évben kell alkalmazni.”
-
 ## HARMADIK RÉSZ
 
 ## 67. Záró rendelkezések
