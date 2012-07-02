@@ -1,9 +1,0 @@
-28. § A Hetv. 94. §-a az alábbi szöveggel lép hatályba:
-
-„94. § (1) A hagyatékot az osztályos egyezség alapján öröklés jogcímén kell átadni. Az ilyen egyezséget a közjegyző nem alakszerű végzéssel hagyja jóvá, hanem az egyezségnek megfelelő hagyatékátadó végzést hoz, vagy ha az osztályos egyezség jogszabályba ütközik, a hagyatékot az osztályos egyezségre tekintet nélkül adja át.
-
-(2) Ha az örökösként érdekelt a hagyatéki eljárásban az általa öröklés, halál esetére szóló ajándékozás, dologi hagyomány jogcímén megszerzett hagyatéki vagyon egészét vagy részét az öröklésben érdekelt más személyre, a kieséses örökösre vagy a hagyatéki hitelezőre átruházza, avagy az igénylőnek – az eredetileg a hagyatékhoz tartozónak tekintett – vagyontárgyra vonatkozó igényét elismeri, a közjegyző ezeket a jognyilatkozatokat egyezségbe foglalja, és dönt az egyezség jóváhagyása felől. Ha a közjegyző ezen egyezséget jóváhagyta, a hagyatékot az egyezség szerinti jogcímen szerző félnek adja át az örökös öröklés jogcímén történő közbenső jogszerzésének megállapítása mellett.
-
-(3) Ha az örökösként érdekelt a hagyatéki eljárásban az általa öröklés, halál esetére szóló ajándékozás, dologi hagyomány jogcímén megszerzett a mezőgazdasági termelés célját szolgáló föld, a hozzá tartozó berendezés, felszerelési tárgyak, állatállomány és munkaeszközök öröklését a Magyar Állam részére felajánlja, azt elfogadottnak kell tekinteni. Ilyenkor a közjegyző a hagyatékot ajándékozás jogcímén a Magyar Államnak adja át az örökös öröklés jogcímén történő közbenső jogszerzésének megállapítása mellett.
-
-(4) A (3) bekezdésben foglaltak esetén az örökös illetékfizetési kötelezettségére az örököstársnak való ingyenes átengedés szabályait kell alkalmazni.”
