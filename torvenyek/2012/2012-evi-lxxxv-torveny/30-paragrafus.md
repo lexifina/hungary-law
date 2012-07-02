@@ -1,1 +1,0 @@
-30. § A Ctv. 17. § (1) bekezdésében a „minősített elektronikus aláírással és” szövegrész helyébe a „minősített elektronikus aláírással vagy minősített tanúsítványon alapuló fokozott biztonságú aláírással és” szöveg lép.
