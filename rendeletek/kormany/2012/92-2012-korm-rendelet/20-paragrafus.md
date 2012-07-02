@@ -1,1 +1,3 @@
-## „(10) Az egészségügyi szolgáltató – az (1) bekezdésben rögzített gyakorisággal – elektronikus úton jelentést küld az Országos Egészségbiztosítási Pénztár részére arról, hogy az egyes betegfogadási listái esetében az újonnan jelentkező, sürgős ellátást nem igénylő betegeket milyen várható várakozási időn belül tudja fogadni.”
+## 19. §[^11]
+
+[^11]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

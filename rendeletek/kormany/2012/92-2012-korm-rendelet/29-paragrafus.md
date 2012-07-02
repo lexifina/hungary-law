@@ -1,4 +1,4 @@
-## 28. §[^16]
+## 28. §[^23]
 
 ## 6. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint
 
@@ -6,4 +6,4 @@
 
 ## 162/2009. (VIII. 3.) Korm. rendelet módosítása
 
-[^16]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
