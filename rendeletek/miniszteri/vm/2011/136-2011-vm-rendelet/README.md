@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-136-20-
 | --- | --- | --- |
 | 2012-01-01 | 2011-136-20-2Y.1 | 136/2011. (XII. 22.) VM rendelet |
 | 2012-01-02 | 2011-136-20-2Y.2 | 2010: CXXX. törvény |
+| 2012-07-02 | 2011-136-20-2Y.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
