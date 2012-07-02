@@ -2,7 +2,7 @@
 
 (3) Hatályát veszti a Hszt.
 
-a) 341/E. §-a,
+a)
 
 b)
 
