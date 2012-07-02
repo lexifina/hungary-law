@@ -38,7 +38,7 @@ c) a (2) bekezdésben és a b) pontban meghatározottakon kívüli egyéb tárgy
 
 (10) A Kormánytisztviselői Döntőbizottság hatásköre az e törvény hatálya alá tartozó államigazgatási szervnél keletkezett jogvitára terjed ki.
 
-(11) A közszolgálati panaszt háromfős tanács bírálja el. Az ügy elbírálásában eljáró tanácsba egy közszolgálati biztost a kormánytisztviselő, egy biztost a munkáltató javaslata alapján a Kormánytisztviselői Döntőbizottság elnöke jelöl ki. A tanács elnökét a Kormánytisztviselői Döntőbizottság elnöke jelöli ki. A tanács elnöke az lehet, aki egyetemi szintű végzettséggel és jogász szakképzettséggel rendelkezik.
+(11) A közszolgálati panaszt háromfős tanács bírálja el. Az ügy elbírálásában eljáró tanács tagjait és a tanács elnökét a Kormánytisztviselői Döntőbizottság elnöke jelöli ki. A tanács elnöke az lehet, aki egyetemi szintű végzettséggel és jogász szakképzettséggel rendelkezik.
 
 (12) A tanács a határozatát többségi szavazással hozza.
 
