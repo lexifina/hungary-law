@@ -1,1 +1,3 @@
-## „(4) Az eseti engedély iránti kérelem tartalmazza a 7. és 8. melléklet szerinti adatokat, valamint a szállító és szállítmányozó adatait. Az import kérelemhez mellékelni kell a külföldi partnertől származó címigazolást, továbbá export, illetve kiviteli irányú transzfer esetén a külföldi hatóság import engedélyének eredeti példányát.”
+85. §[^89]
+
+[^89]: A 81–91. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

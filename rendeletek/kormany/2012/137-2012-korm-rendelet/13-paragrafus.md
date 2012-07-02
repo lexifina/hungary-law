@@ -1,5 +1,3 @@
-## 13. § Hatályát veszti az Ebtv. Vhr.
+13. §[^13]
 
-a) 31/B. § (3) bekezdésében a „(pl. rokkantsági nyugdíj, rendszeres szociális járadék)” szövegrész,
-
-b) 38/A. § (1) bekezdésében az „ , illetőleg a kifizetésre elszámolt” szövegrész.
+[^13]: A 12–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

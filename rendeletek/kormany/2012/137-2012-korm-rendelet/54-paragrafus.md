@@ -1,9 +1,3 @@
-## 54. § Hatályát veszti a Szakképz. Vhr.
+54. §[^57]
 
-a) 2. § (5) bekezdésében az „az 5. § (4) bekezdése és” szövegrész,
-
-b) 5. § (4) bekezdése,
-
-c) 14. § (5) bekezdése és
-
-d) 24. §-a.
+[^57]: A 46–54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

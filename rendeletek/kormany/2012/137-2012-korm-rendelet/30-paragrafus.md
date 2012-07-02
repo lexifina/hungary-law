@@ -1,5 +1,3 @@
-## 29. § A Műkr. 19. § (1) bekezdése a következő h) ponttal egészül ki:
+30. §[^33]
 
-## (Az egészségügyi államigazgatási szerv a működési engedélyt visszavonja, ha)
-
-## „h) az egészségügyi alapellátás körében kötött feladat-ellátási szerződés megszűnik,”
+[^33]: A 26–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

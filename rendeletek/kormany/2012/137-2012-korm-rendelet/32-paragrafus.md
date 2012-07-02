@@ -1,7 +1,3 @@
-## 31. § A Műkr. 18. § (3) bekezdésében az „Az egy hónapot meghaladó” szövegrész helyébe az „A” szöveg lép.
+32. §[^35]
 
-## 32. § Hatályát veszti a Műkr.
-
-a) 2. § (3) bekezdése,
-
-b) 1. melléklete.
+[^35]: A 26–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

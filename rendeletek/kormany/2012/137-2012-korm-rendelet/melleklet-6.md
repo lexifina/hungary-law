@@ -1,5 +1,3 @@
-## A Gyógyszer Vhr. 1. számú melléklete szerinti „Finanszírozási előleg igénylő lap” a következő 11. sorral egészül ki:
+6. melléklet a 137/2012. (VI. 29.) Korm. rendelethez[^106]
 
-## „11. Az igényelt összeg: ...........................................................................................................................................................”
-
-6. melléklet a 137/2012. (VI. 29.) Korm. rendelethez
+[^106]: A 2–9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

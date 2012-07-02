@@ -1,3 +1,5 @@
-## 60. § A Klinikai Vhr. 2. mellékletében foglalt táblázat B:7 mezőjében a „Veszprém Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve” szövegrész helyébe a „Fejér Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve” szöveg, B:12 mezőjében a „Veszprém Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve” szövegrész helyébe a „Komárom-Esztergom Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve” szöveg lép.
-
 ## 10. Az Állami Népegészségügyi és Tisztiorvosi Szolgálatról, a népegészségügyi szakigazgatási feladatok ellátásáról, valamint a gyógyszerészeti államigazgatási szerv kijelöléséről szóló 323/2010. (XII. 27.) Korm. rendelet módosítása
+
+61. §[^64]
+
+[^64]: A 61–63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

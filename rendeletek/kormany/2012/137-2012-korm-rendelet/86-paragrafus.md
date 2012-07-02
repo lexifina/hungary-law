@@ -1,3 +1,3 @@
-## 85. § A Kábítószer Vhr. 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+86. §[^90]
 
-## „(2) Az engedély kiadásáról az EEKH a vámszervet értesíti.”
+[^90]: A 81–91. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

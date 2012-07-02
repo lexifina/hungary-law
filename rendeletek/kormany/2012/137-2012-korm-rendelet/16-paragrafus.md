@@ -1,3 +1,3 @@
-## 15. § A Kr. 22. §-a a következő (2a) bekezdéssel egészül ki:
+16. §[^16]
 
-## „(2a) Az iskolai, ifjúsági fogászati szolgálat által nyújtott iskolafogászati ellátás finanszírozására az OEP a Vhr. 16. § (1) bekezdése szerint köt szerződést.”
+[^16]: A 14–20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

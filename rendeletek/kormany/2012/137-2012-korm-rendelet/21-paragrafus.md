@@ -1,9 +1,6 @@
-21. § (1)[^4]
+21. § (1)[^21]
 
-(2) A Kr. 8. számú melléklete a 2. melléklet szerint módosul.
+(2)–(4)[^22]
 
-(3) A Kr. 28. számú melléklete helyébe a 3. melléklet lép.
-
-(4) A Kr. a 4. melléklet szerinti 29. számú melléklettel egészül ki.
-
-[^4]: A 21. § (1) bekezdése a 98. § (4) bekezdése alapján 2012. július 15-én lép hatályba.
+[^21]: A 21. § (1) bekezdése a 98. § (4) bekezdése alapján 2012. július 15-én lép hatályba.
+[^22]: A 21. § (2)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

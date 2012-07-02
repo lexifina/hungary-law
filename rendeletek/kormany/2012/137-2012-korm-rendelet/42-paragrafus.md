@@ -1,1 +1,3 @@
-## „(6a) Amennyiben a kapacitás – az egészségügyért felelős miniszter egyetértése hiányában – a (6) bekezdés alapján nem kerül törlésre a Tv. 11. § (3) bekezdése szerinti nyilvántartásból, a (6) bekezdésben meghatározott időpontot követően – az egészségügyért felelős miniszter által megjelölt határnapig – köthető finanszírozási szerződés a kapacitás tekintetében.”
+42. §[^44]
+
+[^44]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,13 +1,3 @@
-95. § (1) keresőképtelenség és keresőképesség orvosi elbírálásáról és annak ellenőrzéséről szóló 102/1995. (VIII. 25.) Korm. rendelet 2. számú mellékletében a „Rokkantosítva” szövegrész helyébe a „Rehabilitációs vagy rokkantsági ellátásra jogosult” szöveg lép.
+95. §[^99]
 
-(2) A térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló 284/1997. (XII. 23.) Korm. rendelet 1. számú melléklet 2. pont c) alpontjában a „III. csoportba tartozó rokkantsági nyugdíjasok” szövegrész helyébe a „megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 3. § (2) bekezdés a) pont ab) alpontja és b) pont bb) alpontja szerinti minősítési kategóriába tartozó, a megváltozott munkaképességű személyek ellátásában részesülő személy vagy az a 2011. december 31-én III. csoportos rokkantsági nyugdíjban, baleseti rokkantsági nyugdíjban részesülő személy, aki az Mmtv. 31–33. §-a alapján öregségi nyugdíjban, rokkantsági ellátásban vagy rehabilitációs ellátásban részesül” szöveg lép.
-
-(3) A kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet 1. § b) pontjában az „a kábítószerekkel és pszichotróp anyagokkal végezhető tevékenységekről szóló Korm. rendelet” szövegrész helyébe az „a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet” szöveg lép.
-
-(4) A környezetvédelmi, természetvédelmi, vízügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 347/2006. (XII. 23.) Korm. rendelet 4. számú mellékletében foglalt táblázat 1. pontjában és 5. számú mellékletében foglalt táblázat 1. pontjában az „illetékes*” szövegrész helyébe az „illetékes” szöveg, 2. pontjában a „Kormányhivatal” szövegrész helyébe a „Közigazgatási Hivatal” szöveg lép.
-
-(5) A „Duna projekt” megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 77/2009. (IV. 8.) Korm. rendelet 2. számú melléklet 1. pontjában foglalt táblázat 10. pontjában, 2. pontjában foglalt táblázat 10. pontjában, valamint 3. pontjában foglalt táblázat 10. pontjában a „szerve*” szövegrész helyébe a „szerve” szöveg lép.
-
-(6) Az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló 193/2009. (IX. 15.) Korm. rendelet 5. mellékletében foglalt táblázat 4., 5. és 18. pontjában a „népegészségügyi szakigazgatási szerve*” szövegrész helyébe a „népegészségügyi szakigazgatási szerve” szöveg lép.
-
-(7) A települési önkormányzatok egészségügyi intézményei átvételének részletes szabályairól és egyes egészségügyi tárgyú kormányrendeletek módosításáról szóló 92/2012. (IV. 27.) Korm. rendelet 4. § (2) bekezdésében az „A jogutódlás alapján kedvezményezetté váló” szövegrész helyébe az „Az” szöveg lép.
+[^99]: A 95–97. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

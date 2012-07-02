@@ -1,3 +1,3 @@
-## 26. § Az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet (a továbbiakban: Műkr.) 6/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+27. §[^30]
 
-## „(3) Az egyéni egészségügyi vállalkozó köteles személyesen közreműködni az egészségügyi szolgáltató tevékenység folytatásában, és személyesen kell rendelkeznie az engedélyezett szakma folytatásához szükséges egészségügyi szakképesítéssel.”
+[^30]: A 26–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

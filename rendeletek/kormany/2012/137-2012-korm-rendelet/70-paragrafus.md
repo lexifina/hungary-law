@@ -1,3 +1,3 @@
-## 69. § A Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetről szóló 59/2011. (IV. 12.) Korm. rendelet (a továbbiakban: GYEMSZI Vhr.) 1. §-a a következő (6) bekezdéssel egészül ki:
+70. §[^74]
 
-## „(6) A GYEMSZI feladatait központi szervei és területi kihelyezett szervezeti egységei útján látja el.”
+[^74]: A 69–72. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

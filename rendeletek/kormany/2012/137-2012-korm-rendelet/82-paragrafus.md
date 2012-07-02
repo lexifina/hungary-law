@@ -1,1 +1,3 @@
-## „35. előállítás: az opioid alkaloidok elválasztása az azt szolgáltató máknövénytől, valamint a kannabisz, kannabisz gyanta elválasztása az azt szolgáltató kannabisz növénytől.”
+82. §[^86]
+
+[^86]: A 81–91. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

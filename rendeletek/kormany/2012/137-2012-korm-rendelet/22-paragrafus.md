@@ -1,11 +1,11 @@
 ## 22. § Hatályát veszti a Kr.
 
-a) 6/A. § (3) bekezdésében az „és az 50/A. § (1) bekezdés” szövegrész,
+a)–b)[^23]
 
-b) 6/E. §-a,
+c)–d)[^24]
 
-c)–d)[^5]
+e)[^25]
 
-e) 25. számú melléklete.
-
-[^5]: A 22. § c)–d) pontja a 98. § (7) bekezdése alapján 2012. december 31-én lép hatályba.
+[^23]: A 22. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 22. § c)–d) pontja a 98. § (7) bekezdése alapján 2012. december 31-én lép hatályba.
+[^25]: A 22. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „(4a) A 7/A. § (5) bekezdése szerinti fixcsoportban a fajlagos egységre jutó támogatás összege a fixesítés alapjául szolgáló funkcionális csoport támogatására a (4) bekezdés a) pontja szerint megállapított összeg.”
+5. §[^4]
+
+[^4]: A 2–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

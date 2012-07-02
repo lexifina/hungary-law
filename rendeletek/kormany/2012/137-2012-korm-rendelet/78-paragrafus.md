@@ -1,5 +1,3 @@
-## 77. § Az Öotv. Vhr. 7. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+78. §[^82]
 
-## (A praxisengedélyt vissza kell vonni, ha)
-
-## „e) a praxisjog elidegenítésére nyitva álló határidő eredménytelenül telik el, a határidő leteltét követő nappal.”
+[^82]: A 75–80. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

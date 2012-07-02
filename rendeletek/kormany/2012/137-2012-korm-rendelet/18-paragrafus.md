@@ -1,7 +1,3 @@
-## „e) 05P 2081 AMI PCI-vel (egy vagy több stenttel) * homogén betegségcsoport(ok) (a továbbiakban: HBCs),
+18. §[^18]
 
-## f) 05P 2082 AMI PCI-vel, stent nélkül *HBCs,
-
-## g) 01M 015D Cerebrovascularis betegségek (kivéve: TIA), praecerebralis érelzáródással, rtPA kezeléssel *HBCs”
-
-## (kivételével történik.)
+[^18]: A 14–20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
