@@ -1,8 +1,8 @@
-## Egyszerűsített többletkapacitás-befogadási eljárás[^160]
+## Egyszerűsített többletkapacitás-befogadási eljárás[^164]
 
-15/A. §[^161] (1)[^162] Az 1. § (1) bekezdés c), d) és g)–i) pontja, valamint az 1. § (1a) bekezdése szerinti többletkapacitás a 13–15. §-ban foglaltaktól eltérően az e § szerinti eljárás során is befogadásra kerülhet.
+15/A. §[^165] (1)[^166] Az 1. § (1) bekezdés c), d) és g)–i) pontja, valamint az 1. § (1a) bekezdése szerinti többletkapacitás a 13–15. §-ban foglaltaktól eltérően az e § szerinti eljárás során is befogadásra kerülhet.
 
-(2)[^163] Az (1) bekezdés szerinti többletkapacitás befogadására vonatkozó, szakmai indoklással ellátott kérelmet az egészségügyi szolgáltatók nyújthatják be a TBB részére. A kérelemhez mellékelni kell:
+(2)[^167] Az (1) bekezdés szerinti többletkapacitás befogadására vonatkozó, szakmai indoklással ellátott kérelmet az egészségügyi szolgáltatók nyújthatják be a TBB részére. A kérelemhez mellékelni kell:
 
 a) a fenntartó nyilatkozatát a befogadási kérelem támogatásáról,
 
@@ -14,33 +14,33 @@ d) a befogadás szükségességének részletes szakmai indoklását,
 
 e) a befogadás fenntarthatóságát alátámasztó pénzügyi hatásvizsgálatot, megjelölve a szolgáltatás éves felvállalt mennyiségét, és a szükséges teljesítményvolument.
 
-(2a)[^164] Ha a kérelem nem felel meg a (2) bekezdésben foglalt követelményeknek, a TBB a kérelem beérkezésétől számított öt napon belül – legfeljebb 30 napos határidővel –hiánypótlásra hívja fel a kérelmezőt.
+(2a)[^168] Ha a kérelem nem felel meg a (2) bekezdésben foglalt követelményeknek, a TBB a kérelem beérkezésétől számított öt napon belül – legfeljebb 30 napos határidővel –hiánypótlásra hívja fel a kérelmezőt.
 
-(3)[^165] A TBB minden év áprilisában és szeptemberében ülésezik, további üléseket szükség szerint tarthat. A TBB az üléséig beérkezett hiánytalan kérelmek alapján javaslatot tesz az egészségügyért felelős miniszternek az (1) bekezdés szerinti többletkapacitás befogadására.
+(3)[^169] A TBB minden év áprilisában és szeptemberében ülésezik, további üléseket szükség szerint tarthat. A TBB az üléséig beérkezett hiánytalan kérelmek alapján javaslatot tesz az egészségügyért felelős miniszternek az (1) bekezdés szerinti többletkapacitás befogadására.
 
 (4) A (3) bekezdés szerinti javaslat tartalmazza
 
 a) a többletkapacitás-befogadásra javasolt egészségügyi szolgáltatókat,
 
-b)[^166] a befogadásra javasolt többletkapacitás megjelölését,
+b)[^170] a befogadásra javasolt többletkapacitás megjelölését,
 
 c) a többletkapacitás-befogadás forrásigényét,
 
 d) a finanszírozás javasolt kezdési időpontját.
 
-(5)[^167] Az egészségügyért felelős miniszter a javaslatról annak beérkezésétől számított 35 napon belül, az éves pénzügyi kihatások és a rendelkezésre álló források figyelembevételével, a 15. § (12) bekezdésében foglaltak alkalmazásával dönt.
+(5)[^171] Az egészségügyért felelős miniszter a javaslatról annak beérkezésétől számított 35 napon belül, az éves pénzügyi kihatások és a rendelkezésre álló források figyelembevételével, a 15. § (12) bekezdésében foglaltak alkalmazásával dönt.
 
-(6)[^168] Az OEP főigazgatója a befogadott többletkapacitásokról a döntésről való tudomásszerzéstől számított 15 napon belül a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzétételre kerülő közleményt ad ki. A közlemény egészségügyi szolgáltatónként tartalmazza a befogadott többletkapacitás megjelölését, mértékét, valamint a finanszírozási szerződés megkötésének tervezett időpontját és időtartamát.
+(6)[^172] Az OEP főigazgatója a befogadott többletkapacitásokról a döntésről való tudomásszerzéstől számított 15 napon belül a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzétételre kerülő közleményt ad ki. A közlemény egészségügyi szolgáltatónként tartalmazza a befogadott többletkapacitás megjelölését, mértékét, valamint a finanszírozási szerződés megkötésének tervezett időpontját és időtartamát.
 
-(7)[^169] A befogadott többletkapacitásra a finanszírozási szerződéskötési jogosultság hatályát veszti, ha az egészségügyi szolgáltató a közlemény közzétételét vagy a közleményben meghatározott befogadási időpontot követően egy éven belül nem kezdeményezi annak megkötését.
+(7)[^173] A befogadott többletkapacitásra a finanszírozási szerződéskötési jogosultság hatályát veszti, ha az egészségügyi szolgáltató a közlemény közzétételét vagy a közleményben meghatározott befogadási időpontot követően egy éven belül nem kezdeményezi annak megkötését.
 
-[^160]: A 15/A. §-t megelőző alcímet a 360/2009. (XII. 30.) Korm. rendelet 10. §-a iktatta be.
-[^161]: A 15/A. §-t a 360/2009. (XII. 30.) Korm. rendelet 10. §-a iktatta be.
-[^162]: A 15/A. § (1) bekezdése a 227/2011. (X. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^163]: A 15/A. § (2) bekezdése a 185/2011. (IX. 9.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^164]: A 15/A. § (2a) bekezdését a 73/2011. (IV. 29.) Korm. rendelet 7. § (3) bekezdése iktatta be.
-[^165]: A 15/A. § (3) bekezdése a 185/2011. (IX. 9.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^166]: A 15/A. § (4) bekezdés b) pontja a 185/2011. (IX. 9.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
-[^167]: A 15/A. § (5) bekezdése a 185/2011. (IX. 9.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^168]: A 15/A. § (6) bekezdése a 185/2011. (IX. 9.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
-[^169]: A 15/A. § (7) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 34. pontja szerint módosított szöveg.
+[^164]: A 15/A. §-t megelőző alcímet a 360/2009. (XII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^165]: A 15/A. §-t a 360/2009. (XII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^166]: A 15/A. § (1) bekezdése a 227/2011. (X. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^167]: A 15/A. § (2) bekezdése a 185/2011. (IX. 9.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^168]: A 15/A. § (2a) bekezdését a 73/2011. (IV. 29.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^169]: A 15/A. § (3) bekezdése a 185/2011. (IX. 9.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^170]: A 15/A. § (4) bekezdés b) pontja a 185/2011. (IX. 9.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^171]: A 15/A. § (5) bekezdése a 185/2011. (IX. 9.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^172]: A 15/A. § (6) bekezdése a 185/2011. (IX. 9.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^173]: A 15/A. § (7) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 34. pontja szerint módosított szöveg.

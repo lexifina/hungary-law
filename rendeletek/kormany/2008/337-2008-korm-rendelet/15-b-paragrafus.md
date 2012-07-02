@@ -1,6 +1,6 @@
-## Az 1. § (1b) bekezdése szerinti többletkapacitás befogadása[^170]
+## Az 1. § (1b) bekezdése szerinti többletkapacitás befogadása[^174]
 
-15/B. §[^171] (1)[^172] Az 1. § (1b) bekezdése szerinti többletkapacitás befogadására a 13–15. §-ban foglaltakat a (2)–(9) bekezdésben foglalt eltérésekkel kell alkalmazni. Az e § szerinti eljárásban nem kell alkalmazni a 13. § (1), (2), (4), (4a), (6) és (7) bekezdését, a 14. § (3) és (4) bekezdését, valamint a 15. § (8), (10) és (11) bekezdését.
+15/B. §[^175] (1)[^176] Az 1. § (1b) bekezdése szerinti többletkapacitás befogadására a 13–15. §-ban foglaltakat a (2)–(9) bekezdésben foglalt eltérésekkel kell alkalmazni. Az e § szerinti eljárásban nem kell alkalmazni a 13. § (1), (2), (4), (4a), (6) és (7) bekezdését, a 14. § (3) és (4) bekezdését, valamint a 15. § (8), (10) és (11) bekezdését.
 
 (2) Az 1. § (1b) bekezdése szerinti többletkapacitás befogadására vonatkozó pályázatot az egészségügyért felelős miniszter kezdeményezésére és jóváhagyása mellett az OEP a kezdeményezéstől számított 25 napon belül a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzétett pályázati felhívással írja ki. A pályázati felhívásra pályázatot az integrációban érintett egészségügyi szolgáltatók fenntartói a 14. § (1) bekezdésében foglaltaknak megfelelően nyújthatnak be, azzal, hogy a különböző fenntartókhoz tartozó – ugyanazon integrációban érintett – egészségügyi szolgáltatók fenntartói csak közösen pályázhatnak.
 
@@ -34,11 +34,11 @@ c) a többletkapacitás-befogadás forrásigényét,
 
 d) a finanszírozás javasolt kezdési időpontját.
 
-(8)[^173] Az egészségügyért felelős miniszter a (6) bekezdés szerinti javaslatról annak beérkezésétől számított 30 napon belül, az éves pénzügyi kihatások és a rendelkezésre álló források figyelembevételével dönt, a döntése akkor érvényes, ha ahhoz az államháztartásért felelős miniszter a 15. § (12) bekezdésében foglaltak szerint hozzájárult.
+(8)[^177] Az egészségügyért felelős miniszter a (6) bekezdés szerinti javaslatról annak beérkezésétől számított 30 napon belül, az éves pénzügyi kihatások és a rendelkezésre álló források figyelembevételével dönt, a döntése akkor érvényes, ha ahhoz az államháztartásért felelős miniszter a 15. § (12) bekezdésében foglaltak szerint hozzájárult.
 
 (9) Az (1)–(8) bekezdés alapján befogadott többletkapacitás finanszírozása egy alkalommal egy összegben történik.
 
-[^170]: A 15/B. §-t megelőző alcímet a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be.
-[^171]: A 15/B. §-t a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be.
-[^172]: A 15/B. § (1) bekezdése a 92/2012. (IV. 27.) Korm. rendelet 28. § d) pontja szerint módosított szöveg.
-[^173]: A 15/B. § (8) bekezdése a 92/2012. (IV. 27.) Korm. rendelet 28. § e) pontja szerint módosított szöveg.
+[^174]: A 15/B. §-t megelőző alcímet a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be.
+[^175]: A 15/B. §-t a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be.
+[^176]: A 15/B. § (1) bekezdése a 92/2012. (IV. 27.) Korm. rendelet 28. § d) pontja szerint módosított szöveg.
+[^177]: A 15/B. § (8) bekezdése a 92/2012. (IV. 27.) Korm. rendelet 28. § e) pontja szerint módosított szöveg.

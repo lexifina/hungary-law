@@ -52,9 +52,9 @@
 
 ## 27. csecsemő- és gyermekgyógyászat
 
-## 28.[^201] neonatológia
+## 28.[^205] neonatológia
 
-## 28/a.[^202] PIC
+## 28/a.[^206] PIC
 
 ## 29. csecsemő- és gyermekgyógyászati intenzív terápia
 
@@ -72,9 +72,9 @@
 
 ## 36. csecsemő és gyermek fül-, orr-, gégegyógyászat
 
-## 37.[^203] gyermekneurológia
+## 37.[^207] gyermekneurológia
 
-## 37/a.[^204] fejlődésneurológia
+## 37/a.[^208] fejlődésneurológia
 
 ## 38. gyermek- és ifjúságpszichiátria
 
@@ -84,11 +84,11 @@
 
 ## 41. szemészet
 
-## 42.[^205] bőr- és nemibeteg ellátás
+## 42.[^209] bőr- és nemibeteg ellátás
 
-## 43.[^206] neurológia
+## 43.[^210] neurológia
 
-## 43/a.[^207] stroke ellátás
+## 43/a.[^211] stroke ellátás
 
 ## 44. ortopédia
 
@@ -166,13 +166,13 @@
 
 ## 19. hospice
 
-3. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^208]
+3. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^212]
 
-[^201]: A 2. melléklet A) rész 28. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^202]: A 2. melléklet A) rész 28/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
-[^203]: A 2. melléklet A) rész 37. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^204]: A 2. melléklet A) rész 37/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
-[^205]: A 2. számú melléklet A) rész 42. sora a 107/2012. (VI. 1.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^206]: A 2. melléklet A) rész 43. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^207]: A 2. melléklet A) rész 43/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
-[^208]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 137/2012. (VI. 29.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^205]: A 2. melléklet A) rész 28. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^206]: A 2. melléklet A) rész 28/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^207]: A 2. melléklet A) rész 37. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^208]: A 2. melléklet A) rész 37/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^209]: A 2. számú melléklet A) rész 42. sora a 107/2012. (VI. 1.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^210]: A 2. melléklet A) rész 43. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^211]: A 2. melléklet A) rész 43/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^212]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 137/2012. (VI. 29.) Korm. rendelet 44. §-ával megállapított szöveg.

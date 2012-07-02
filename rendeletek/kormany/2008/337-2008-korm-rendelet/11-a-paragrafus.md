@@ -1,3 +1,3 @@
-## A többletkapacitás-befogadási eljárások közös szabályai[^118]
+## A többletkapacitás-befogadási eljárások közös szabályai[^122]
 
-[^118]: A 11/A. §-t megelőző alcímet a 185/2011. (IX. 9.) Korm. rendelet 4. §-a iktatta be.
+[^122]: A 11/A. §-t megelőző alcímet a 185/2011. (IX. 9.) Korm. rendelet 4. §-a iktatta be.
