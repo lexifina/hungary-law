@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-176-00-00
 | 2012-03-02 | 2010. évi CXXX. törvény | 2011-176-00-00.7 |
 | 2012-04-28 | 2012. évi XXXVIII. törvény | 2011-176-00-00.8 |
 | 2012-07-01 | 2012. évi XXXVIII. törvény | 2011-176-00-00.9 |
+| 2012-07-02 | 2010. évi CXXX. törvény | 2011-176-00-00.10 |
