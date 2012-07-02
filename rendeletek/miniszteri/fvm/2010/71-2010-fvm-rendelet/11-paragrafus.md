@@ -6,7 +6,7 @@
 
 (4)[^5]
 
-(5)[^6] A 11. § (4) bekezdése 2012. július 1-jén hatályát veszti. E bekezdés 2012. július 2-án hatályát veszti.
+(5)[^6]
 
 [^5]: A 11. § (4) bekezdését az (5) bekezdés hatályon kívül helyezte.
-[^6]: A 11. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette 2012. július 2. napjával.
+[^6]: A 11. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
