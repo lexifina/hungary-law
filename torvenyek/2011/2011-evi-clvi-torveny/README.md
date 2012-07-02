@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-156-00-00
 | 2012-05-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-156-00-00.13 |
 | 2012-05-02 | 2010. évi CXXX. törvény | 2011-156-00-00.14 |
 | 2012-07-01 | 2012. évi LXIX. törvény | 2011-156-00-00.15 |
+| 2012-07-02 | 2010. évi CXXX. törvény | 2011-156-00-00.16 |
