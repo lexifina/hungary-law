@@ -1,3 +1,0 @@
-## 1. § A pénzforgalom lebonyolításáról szóló 18/2009. (VIII.6.) MNB rendelet (a továbbiakban: R.) 14. §-a a következő (3a) bekezdéssel egészül ki:
-
-## „(3a) A 17. § (2) és (3) bekezdése szerinti teljesítési határidő számítása szempontjából a fizetési megbízás átvételének időpontja az az időpont, amikor a fizető fél pénzforgalmi szolgáltatója a fizetési megbízást a (4) bekezdésben foglaltak figyelembevételével a 6. § (2) bekezdés a) pontja szerint befogadta. Ha a fizetési megbízás terhelési nap feltüntetésével került benyújtásra, a fizetési megbízás átvételi időpontja az az időpont, amikor a 27. § (3) és (4) bekezdése szerinti terhelési napon a fizetési megbízás 6. § (2) bekezdés a) pontja szerinti befogadása megtörtént.”

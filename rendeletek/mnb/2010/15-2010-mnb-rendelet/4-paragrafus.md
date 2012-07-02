@@ -1,1 +1,0 @@
-## 3. § Az R. 14. § (1) bekezdésében az „A a 17. § és 18. §” szövegrész helyébe az „A 17. § (1) bekezdése és a 18. §” szöveg, 14. § (2) bekezdésében a „17. § és 18. §” szövegrész helyébe a „17. § (1) bekezdése és a 18. §” szöveg, 14. § (3) bekezdésében a „17. § és 18. §” szövegrész helyébe a „17. § (1) bekezdése és a 18. §” szöveg lép.
