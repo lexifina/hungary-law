@@ -1,7 +1,0 @@
-19. § (1) Az Ebtv. 20/A. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A (3) bekezdés rendelkezéseinek alkalmazása érdekében a központi várólista tekintetében a kormányrendeletben kijelölt szerv, az intézményi várólista tekintetében az országos várólista-nyilvántartást vezető szerv egyedi azonosítót határoz meg. Az egyedi azonosító nem tartalmazhat a biztosított egészségügyi és személyazonosító adataival összefüggő, továbbá a várólistára, intézményi előjegyzésre történő felvétel időpontjára vonatkozó adatot. Az egyedi azonosítót az azt meghatározó szerv a biztosított kezelőorvosa útján közli a biztosítottal.”
-
-(2) Az Ebtv. 20/A. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Az országos várólista-nyilvántartás az intézményi várólista alapján ellátást igénybe vevő biztosítottnak az (1) bekezdés szerinti személyazonosító adatait, egyedi azonosítóját, az igénybevételre kerülő ellátás megjelölését, az ellátást nyújtó egészségügyi szolgáltató megnevezését és az ismertté válása esetén az ellátás igénybevételének időpontját tartalmazza. Az országos várólista-nyilvántartás az adatokat betegútszervezés céljából az ellátás elvégzésének az ellátást nyújtó egészségügyi szolgáltató általi – külön jogszabályban foglaltak szerinti – jelentéséig tartalmazhatja. Betegútelemzés és a kapacitáskihasználtság elemzése céljából személyazonosításra alkalmatlan módon további négy évig kezelhetőek az adatok.”
