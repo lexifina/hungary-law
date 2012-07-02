@@ -26,7 +26,7 @@
 
 ## ** Esemény dátuma: Csak igénybevett ellátás estén kitöltendő.
 
-8. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^45]
+8. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^46]
 
 Várólista jelentés az országos várólista nyilvántartást vezető szerv részére
 
@@ -100,4 +100,4 @@ Várólista eset teljesítési adatai:
 
 31 Ellátás törzsszáma vagy naplósorszáma
 
-[^45]: A 8. számú mellékletet a 92/2012. (IV. 27.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^46]: A 8. számú mellékletet a 92/2012. (IV. 27.) Korm. rendelet 21. § (2) bekezdése iktatta be.
