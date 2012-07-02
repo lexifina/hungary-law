@@ -1,7 +1,9 @@
-## „11. közvetítő pénzforgalmi szolgáltató: egy másik pénzforgalmi szolgáltató részére, annak ügyfelei fizetési műveleteinek teljesítése érdekében számlát vezető pénzforgalmi szolgáltató.”
+## 1. §[^1]
 
-2. § (1)–(2)[^1]
+2. § (1)–(2)[^2]
 
-(3) Az R. 5. § (6) bekezdése helyébe a következő rendelkezés lép:
+(3)[^3]
 
-[^1]: A 2. § (1)–(2) bekezdése a 20. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. § (1)–(2) bekezdése a 20. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^3]: A 2. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
