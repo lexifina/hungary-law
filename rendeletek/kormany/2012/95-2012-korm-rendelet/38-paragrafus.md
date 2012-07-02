@@ -1,1 +1,0 @@
-## 37. § Az Országos Nyugdíjbiztosítási Főigazgatóságról szóló 289/2006. (XII. 23.) Korm. rendelet 3/A. §-ában a „Nemzeti Rehabilitációs és Szociális Hivatalt” szövegrész helyébe az „első fokú eljárásban a rehabilitációs szakigazgatási szervet, másodfokú eljárásban a Nemzeti Rehabilitációs és Szociális Hivatalt” szöveg lép.

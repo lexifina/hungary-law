@@ -1,1 +1,0 @@
-## 38. § A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet 33. § (3) bekezdésében és 23/b. számú mellékletében a „Nemzeti Rehabilitációs és Szociális Hivatal” szövegrész helyébe a „rehabilitációs szakigazgatási szerv, a Nemzeti Rehabilitációs és Szociális Hivatal” szöveg lép.

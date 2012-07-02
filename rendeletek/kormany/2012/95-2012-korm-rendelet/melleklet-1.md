@@ -1,3 +1,5 @@
+## 25–46. §[^5]
+
 1. melléklet a 95/2012. (V. 15.) Korm. rendelethez
 
 A rehabilitációs szakigazgatási szervek
@@ -39,3 +41,5 @@ A rehabilitációs szakigazgatási szervek
 18. Veszprém Megyei Kormányhivatal Rehabilitációs Szakigazgatási Szerve
 
 19. Zala Megyei Kormányhivatal Rehabilitációs Szakigazgatási Szerve
+
+[^5]: A 25–46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

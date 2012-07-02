@@ -1,1 +1,0 @@
-## 33. § A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet 9. § (8a) bekezdésében a „Nemzeti Rehabilitációs és Szociális Hivatalt” szövegrész helyébe a „rehabilitációs szakigazgatási szervet” szöveg lép.
