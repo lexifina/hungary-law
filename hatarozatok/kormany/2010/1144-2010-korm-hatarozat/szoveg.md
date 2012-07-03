@@ -160,7 +160,7 @@ A KORMÁNY ÜLÉSE
 
 57. Az előterjesztés vagy jelentés a kormányülés napirendjére akkor vehető fel, ha a közigazgatási államtitkári értekezlet megtárgyalta és napirendre tűzését javasolta. E szabály alkalmazása alól a közigazgatási és igazságügyi miniszter javaslatára a miniszterelnök kivételt tehet. A Kormányt az előterjesztés lényegéről az előterjesztő, a közigazgatási államtitkári értekezlet állásfoglalásáról a Közigazgatási és Igazságügyi Minisztérium tájékoztatja.
 
-57/A.[^1] A nemzetgazdasági szempontból kiemelt jelentőségű üggyé minősítésről, az abban eljáró hatóság kijelöléséről, a fejlesztéspolitikai szempontból kiemelt jelentőségű ügyről, továbbá a Kormány egyedi döntésével megítélhető támogatás nyújtásáról szóló – a támogatási szerződés parafált tervezetét tartalmazó – előterjesztés, amennyiben azt a kiemelt jelentőségű beruházásokat kezelő és egyedi kormánydöntéssel támogatható beruházások kormánydöntését előkészítő tárcaközi bizottság megtárgyalta és Kormány általi megtárgyalásra javasolta, közvetlenül benyújtható a Kormány ülésére. Ezekben az ügyekben a 20–36., a 44–57. és a 76. pontban foglaltakat a megfelelő eltéréssel kell alkalmazni.
+57/A.[^1] Ha a Nemzeti Fejlesztési Kormánybizottság feladatkörébe tartozó előterjesztést a Nemzeti Fejlesztési Kormánybizottság megvitatta és a Kormány általi megtárgyalásra javasolta, az előterjesztés közvetlenül benyújtható a Kormány ülésére. Ezekben az esetekben a 20–36., a 44–57. és a 76. pontban foglaltakat a megfelelő eltéréssel kell alkalmazni.
 
 57/B.[^2] Ha a nemzetbiztonság, a közbiztonság védelmével, valamint az élet- és vagyonvédelemmel összefüggő előterjesztést a Nemzetbiztonsági Kabinet megvitatta és a Kormány általi megtárgyalásra javasolta, az előterjesztés közvetlenül benyújtható a Kormány ülésére.
 
@@ -284,6 +284,6 @@ ZÁRÓ RENDELKEZÉSEK
 
 91. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti a Kormány ügyrendjéről szóló 1088/1994. (IX. 20.) Korm. határozat.
 
-[^1]: Az 57/A. §-t az 1054/2011. (III. 22.) Korm. határozat 6. pontja iktatta be.
+[^1]: Az 57/A. §-t az 1054/2011. (III. 22.) Korm. határozat 6. pontja iktatta be, szövege az 1221/2012. (VII. 2.) Korm. határozat 8. pontjával megállapított szöveg.
 [^2]: Az 57/B. pontot az 1308/2011. (IX. 6.) Korm. határozat 17. pontja iktatta be.
 [^3]: A 84. pont az 1204/2012. (VI. 26.) Korm. határozat 1. pontjával megállapított szöveg.
