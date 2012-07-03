@@ -1,3 +1,3 @@
-## 2. § A Cvhr. 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+3. §[^3]
 
-## „(3) Ha a cég képviseletére feljogosított vezető tisztségviselő vagy a cég cégjegyzékbe bejegyzett (bejegyezni kívánt) tagja külföldi személy vagy külföldi szervezet, az állami adóhatósághoz történő bejelentkezés esetén a bejegyzési (változásbejegyzési) nyomtatványon az állami adóhatóság által kiadott adóazonosító számot kell feltüntetnie. Az állami adóhatóság által kiadott adóazonosító szám hiányában a külföldinek az illetősége szerinti államban kiadott, bármely közteherviseléssel kapcsolatos azonosító számot kell feltüntetnie. Ha a külföldi illetősége szerinti államban közteherviseléssel kapcsolatos azonosító számmal nem rendelkezik, erre a kérelemben utalni kell.”
+[^3]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

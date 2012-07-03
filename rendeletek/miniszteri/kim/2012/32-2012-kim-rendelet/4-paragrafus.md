@@ -1,3 +1,3 @@
-## 3. § A Cvhr. a következő 8/A. §-sal egészül ki:
+4. §[^4]
 
-## „8/A. § Amennyiben a cégbejegyzési kérelemhez csatolják a cégjegyzésre jogosult hiteles cégaláírási nyilatkozatát vagy az ügyvéd által ellenjegyzett aláírás-mintáját, a melléklet elnevezése „hiteles cégaláírási nyilatkozat” vagy „ügyvéd által ellenjegyzett aláírás-minta” lehet azzal, hogy a melléklet elnevezésében a képviselő neve is feltüntetésre kerülhet. Egy melléklet csupán egy képviselő nyilatkozatát tartalmazhatja.”
+[^4]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
