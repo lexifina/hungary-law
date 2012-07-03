@@ -16,6 +16,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (3)[^2]
 
-(4) Az 5. § (1) bekezdés a) pontja, az 1. melléklet 1. pontja és a 2. melléklet 1. pontja 2012. július 2-án hatályát veszti.
+(4)[^3]
 
 [^2]: A 8. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -22,6 +22,6 @@
 
 ## A gerincoszlopra merőlegesen a gerinccsatorna felső (háti) széle és a Musculus glutaeus medius elülső (feji) vége között mért legkisebb távolság, a hasítás síkjában (mm).
 
-2. melléklet a 136/2011. (XI. 22.) VM rendelethez[^4]
+2. melléklet a 136/2011. (XI. 22.) VM rendelethez[^5]
 
-[^4]: A 2. melléklet 1. pontját a 8. § (4) bekezdése hatályon kívül helyezte.
+[^5]: A 2. melléklet 1. pontját a 8. § (4) bekezdése hatályon kívül helyezte.
