@@ -1,0 +1,3031 @@
+# A Kormány 1222/2012. (VII. 3.) Korm. határozata
+
+Magyar Közlöny 2012. évi 84. szám, 2012. július 3. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a6f2f99bce15433b82fda15d95def5a2dc8ec054/dokumentumok/58287cb45da513e900136ed73ff18c3f200e6489/letoltes)
+
+---
+
+A Kormány 1222/2012. (VII. 3.) Korm. határozata
+a 2007–13 évekre szóló regionális operatív programok indikátorokat érintő módosításáról
+A Kormány
+1. elfogadta az 1–7. mellékletek szerint a Dél-Alföldi Operatív Program, az Észak-Alföldi Operatív Program,
+az Észak-Magyarországi Operatív Program, a Dél-Dunántúli Operatív Program, a Közép-Dunántúli Operatív Program,
+a Nyugat-Dunántúli Operatív Program és a Közép-Magyarországi Operatív Program indikátorokat érintő
+módosításáról szóló javaslatot az Európai Bizottsággal történő hivatalos tárgyalások alapjául,
+2. hozzájárul az 1. pontban foglaltak szerint elkészített módosítási javaslatnak az Európai Bizottsághoz történő hivatalos
+benyújtásához.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: azonnal
+Orbán Viktor s. k.,
+miniszterelnök
+
+1. melléklet az 1222/2012. (VII. 3.) Korm. határozathoz
+
+
+
+Dél-Alföldi Operatív Program indikátoraiban a módosítás révén bekövetkező változások
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Stratégiai szint
+módosított
+A régió egy főre eső GDP-jének növekedése
+(%)
+100 (2007)
+nem kell
+célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+kontextus
+módosított
+A foglalkoztatási ráta (15-64 éves korosztály)
+a régióban (%)
+54,3 (2006)
+nem kell
+célértéket
+megadni
+KSH/ÁFSZ évente kontextus
+módosított Teremtett munkahelyek száma (db) 0 7400 IH évente
+mag (1) -
+eredmény
+módosított
+Támogatások hatására indukált beruházások
+(millió euro)
+
+254,285
+(71,2 Mrd Ft)
+IH évente
+mag (10) -
+eredmény
+módosított
+Teremtett munkahelyekből nők által
+betöltöttek száma (db)
+
+nem kell
+célértéket
+megadni
+IH évente
+mag (2) -
+horizontális
+(gender)
+módosított
+Teremtett munkahelyek száma a hátrányos
+helyzetű kistérségekben (db)
+
+nem kell
+célértéket
+megadni
+IH évente
+horizontális
+(területi
+kohézió) -
+eredmény
+módosított
+Teremtett munkahelyekből hátrányos
+helyzetűek által betöltöttek száma (db)
+
+nem kell
+célértéket
+megadni
+IH évente
+horizontális
+(társ. Kohézió)
+- eredmény
+törölt
+A vállalati szektor által megtermelt bruttó
+hozzáadott érték (BHÉ) növekedése a program
+hatására (millió Ft)
+törölt
+Fejlesztett nevelési-oktatási intézményekben
+tanuló hátrányos helyzetű gyermekek száma
+(fő)
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Regionális gazdaságfejlesztés (I.)
+új Teremtett munkahelyek száma (db) 0 6400 IH évente
+Eredmény -
+Mag
+új
+Támogatások hatására indukált beruházások
+(millió euro)
+
+189,285 (53
+Mrd Ft)
+IH évente
+Eredmény -
+mag (10)
+új Támogatott KKV projektek száma (db) 0 400 IH évente Mag
+új
+A fejlesztések eredményeként korszerű
+infrastruktúrával ellátott ipari parkok, ipari
+területek és telephelyek nagysága (ha)
+0 520 IH évente Output
+új
+Klaszterekben, támogatott
+együttműködésekben résztvevő vállalatok
+száma (db)
+0 650 IH évente Eredmény
+törölt
+Klaszterekben, támogatott
+együttműködésékben résztvevő vállalatok
+árbevételének növekedése (%)
+törölt
+A támogatásban részesített ipari parkok és
+ipari területek nettó beépítettségének
+növekedése (%)
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Turisztikai célú fejlesztések (II.)
+módosított
+Kereskedelmi/üzleti szálláshelyeken
+eltöltött vendégéjszakák száma (1000 főre
+vetítve) (db)
+821,58
+(2006)
+nem kell
+célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+Kontextus
+új
+Átlagos tartózkodási idő a
+kereskedelmi/üzleti szálláshelyeken
+(éjszaka)
+2,5 (2006)
+nem kell
+célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+Kontextus
+módosított
+A kereskedelmi/üzleti szálláshelyek
+kapacitáskihasználtsága (%)
+26,9 (2006)
+nem kell
+célértéket
+megadni
+KSH évente Kontextus
+új Teremtett munkahelyek száma (db): 0 1000 IH évente
+Mag (35) -
+eredmény
+új
+Támogatások hatására indukált beruházások
+(millió euro)
+
+65 (18,2 mrd
+Ft)
+IH évente
+Mag (10) -
+eredmény
+új
+Támogatott turisztikai attrakció átlagos
+látogatottsága (fő)
+0 2 000 000 IH/KSZ évente Eredmény
+új Támogatott projektek száma (db) 0 160 IH évente
+magindikátor -
+output
+új Támogatott KKV-projektek száma (db) 0 100 IH évente
+magindikátor -
+output
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Közlekedési infrastruktúra fejlesztése (III.)
+módosított
+A kistérségi központot és gyorsforgalmi
+úthálózatot közúton 15/20/30 percen belül
+elérő lakosság számának növekedése (fő)
+0 10 000 IH évente Eredmény
+új
+Fejlesztett városi, helyi tömegközlekedéssel
+érintett lakosság száma (fő)
+0 418 000 IH/KSH évente
+Eredmény -
+Mag (22)
+új Felújított utak hossza (km) 0 400 IH évente
+Output - mag
+(16)
+új Megépített utak hossza (km) 0 90 IH évente
+Output - mag
+(14)
+új
+Létrehozott önálló kerékpárforgalmi
+létesítmények hossza (km)
+0 190 IH évente Output
+törölt
+Közösségi közlekedést igénybe vevők
+számának szinten tartása (fő)
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Humáninfrastruktúra-fejlesztések (IV.)
+módosított
+Fejlesztett nevelési-oktatási feladatellátási
+helyeken ellátott / tanuló gyermekek száma
+(fő)
+0 30 000 IH évente Output
+módosított
+Óvodai nevelésben részesülő gyermekek
+aránya (%)
+90,2 (2006)
+nem kell
+célértéket
+megadni
+KSH évente Kontextus
+új
+Fejlesztett nevelési-oktatási feladatellátási
+helyeken ellátott / tanuló hátrányos helyzetű
+gyermekek száma (fő)
+0 9000 IH évente Eredmény
+új
+A közoktatási intézmények fejlesztéssel
+érintett telephelyeinek száma (db)
+0 130 IH évente output
+új
+Fejlesztésekkel érintett rehabilitációs
+fekvőbeteg férőhelyek száma (db):
+0 140 IH évente Output
+új
+Fejlesztett ambuláns rehabilitációs
+ellátóhelyek száma (db):
+0 9 IH évente Output
+új Épített, felújított rendelők száma (db) 0 126 IH évente output
+új
+A szociális fejlesztésekben érintett
+napközbeni ellátásában részesülő
+gyermekek száma (fő)
+0 24000 IH évente eredmény
+új Új szociális alapszolgáltatások száma (db) 0 202 IH évente Eredmény
+új
+Új, felújított szociális intézmények száma
+(db)
+0 55 IH évente output
+törölt
+Minőségi járóbeteg szakellátásban
+ellátottak számának növekedése (a
+fejlesztéssel érintett szakrendelések esetén,
+fő)
+törölt
+Szociális ellátással elért lakosság számának
+növekedése (fő)
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Térségfejlesztési akciók (V.)
+módosított
+A támogatással érintett területen
+telephellyel rendelkező vállalkozások
+számának növekedése (db)
+0 70 IH évente Hatás
+módosított
+Támogatással érintett lakosok száma a
+rehabilitált településrészeken (fő)
+0 180000 IH évente Eredmény
+új
+Település-rehabilitációs beavatkozások által
+érintett terület nagysága (ha)
+0 1100 IH évente Output
+törölt
+A rehabilitált terület komplex aktivitási
+mutatójának települési átlaghoz való
+közelítése (az átlag százalékában kifejezve)
+módosított
+A támogatott projektek eredményeként elért
+éves energia megtakarítás (TJ)
+
+nem kell
+célértéket
+megadni
+EMIR éves
+horizontális
+(környezeti) -
+eredmény
+új
+A támogatott projektek keretében EU-s
+kritériumoknak megfelelő
+szennyvízkezeléssel ellátott lakosok száma
+a 2000 LE alatti településeken (fő)
+0 7500 IH évente Eredmény
+új
+A támogatott projektek keretében ár- bel- és
+csapadékvíz károktól megvédett lakosság
+(fő)
+0 680000 IH évente
+Mag (32) -
+Eredmény
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Technikai
+segítségnyújtás (VI.)
+változatlan
+Támogatott projektek megvalósulásának
+aránya (%)
+0 100 IH évente Eredmény
+
+2. melléklet az 1222/2012. (VII. 3.) Korm. határozathoz
+
+
+
+
+
+Észak-Alföldi Operatív Program indikátoraiban a módosítás révén bekövetkező változások
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Stratégiai szint
+módosított
+A régió egy főre eső GDP-jének
+növekedése (%)
+100 (2007)
+nem kell
+célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+kontextus
+módosított
+A foglalkoztatási ráta (15-64 éves
+korosztály) a régióban (%)
+51,1 (2006)
+nem kell
+célértéket
+megadni
+KSH évente kontextus
+módosított Teremtett munkahelyek száma (db) 0 3 500 EMIR évente
+mag (1) -
+eredmény
+módosított
+Támogatások hatására indukált beruházások
+(millió euro)
+
+157 (44 mrd
+Ft)
+EMIR évente
+mag (10) -
+eredmény
+módosított
+Teremtett munkahelyekből nők által
+betöltöttek száma (db)
+
+nem kell
+célértéket
+megadni
+EMIR évente
+mag (2) -
+horizontális
+(gender)
+módosított
+Teremtett munkahelyek száma a hátrányos
+helyzetű kistérségekben (db)
+
+nem kell
+célértéket
+megadni
+EMIR évente
+horizontális
+(területi
+kohézió) -
+eredmény
+módosított
+Teremtett munkahelyekből hátrányos
+helyzetűek által betöltöttek száma (db)
+
+nem kell
+célértéket
+megadni
+EMIR évente
+horizontális
+(társ. Kohézió)
+- eredmény
+
+
+
+
+
+
+Stratégiai szint
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+törölt
+Meghatározott foglalkoztatotti és árbevételi
+kategóriákba tartozó KKV-k aránya (%)
+törölt
+A régióban létrejött, vagy új telephellyel
+rendelkező kis- és középvállalkozások száma (db)
+törölt
+A szálláshely-szolgáltatás és vendéglátás ágazat
+által előállított bruttó hozzáadott érték
+növekedése (%)
+törölt
+Bruttó hozzáadott érték/fő relatív szórása
+kistérségi szinten (%)
+törölt
+A minimális tudáskritériumoknak eleget nem tevő
+tanulók arányának csökkenése azokban az
+iskolákban ahol ezen tanulók aránya több mint
+50%
+törölt
+A vállalati szektor által megtermelt bruttó
+hozzáadott érték (BHÉ) növekedése a program
+hatására (Mrd Ft)
+törölt
+Fejlesztett nevelési-oktatási intézményekben
+tanuló hátrányos helyzetű gyermekek száma (fő)
+törölt Hasznosított barnamezős területek nagysága (ha)
+törölt Közösségi közlekedést igénybe vevők száma (fő)
+
+
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Regionális gazdaságfejlesztés (1. prioritás)
+új Teremtett munkahelyek száma (db) 0 2500 IH évente
+Eredmény -
+Mag
+új
+Támogatások hatására indukált beruházások
+(millió euro)
+
+107 (30 mrd
+Ft)
+IH évente
+Eredmény -
+mag (10)
+új Támogatott KKV projektek száma (db) 0 350 IH évente Mag
+új
+A fejlesztések eredményeként korszerű
+infrastruktúrával ellátott ipari parkok, ipari
+területek és telephelyek nagysága (ha)
+0 1000 IH évente Output
+új
+Klaszterekben, támogatott
+együttműködésekben résztvevő vállalatok
+száma (db)
+0 250 IH évente Eredmény
+törölt
+Klaszterekben, támogatott
+együttműködésékben résztvevő vállalatok
+árbevételének növekedése (%)
+törölt
+A támogatásban részesített ipari parkok és
+ipari területek nettó beépítettségének
+növekedése (%)
+
+
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt célérték Adatforrás Gyakoriság
+Indikátor
+típusa
+Turisztikai célú fejlesztés (2. prioritás)
+módosított
+Kereskedelmi/üzleti szálláshelyeken eltöltött
+vendégéjszakák száma (1000 főre vetítve)
+(db)
+
+(2006)
+nem kell célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+Kontextus
+új
+Átlagos tartózkodási idő a
+kereskedelmi/üzleti szálláshelyeken (éjszaka)
+3,2 (2006)
+nem kell célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+Kontextus
+módosított
+A kereskedelmi/üzleti szálláshelyek
+kapacitáskihasználtsága (%)
+40,9 (2006)
+nem kell célértéket
+megadni
+KSH évente Kontextus
+új Teremtett munkahelyek száma (db): 0 600 IH évente
+Mag -
+eredmény
+új
+Támogatások hatására indukált beruházások
+(millió euro)
+0 50 (14 mrd ft) IH évente
+Mag -
+eredmény
+új
+Támogatott turisztikai attrakció átlagos
+látogatottsága (fő)
+1 353 261 2 000 000 IH/KSZ évente Eredmény
+új Támogatott projektek száma (db) 0 170 IH évente mag - output
+új Támogatott KKV-projektek száma (db) 0 70 IH évente mag - output
+törölt
+A kereskedelmi szálláshelyeken eltöltött
+vendégéjszakák havonkénti százalékos
+megoszlásának relatív szórása (%)
+törölt
+Az 1.000 lakosra jutó vendégéjszakák
+számának relatív szórása települési szinten, a
+kereskedelmi szálláshellyel rendelkező
+érintett településeken (%)
+
+
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Közlekedési feltételek javítása (3. prioritás)
+módosított
+A kistérségi központot és gyorsforgalmi
+úthálózatot közúton 15/20/30 percen belül
+elérő lakosság számának növekedése (fő)
+0 20 000 IH évente Eredmény
+új
+Fejlesztett városi közlekedéssel érintett
+lakosság száma (fő)
+0 600 000 IH évente
+Eredmény -
+Mag (22)
+új Felújított utak hossza (km) 0 340 IH évente
+Output - mag
+(16)
+új Megépített utak hossza (km) 0 20 IH évente
+Output - mag
+(14)
+új
+Létrehozott önálló kerékpárforgalmi
+létesítmények hossza (km)
+0 120 IH évente Output
+törölt
+Közösségi közlekedést igénybe vevők
+számának szinten tartása (fő)
+
+
+
+
+
+Humán-infrastruktúra fejlesztése (4. prioritás)
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+módosított
+Fejlesztett nevelési-oktatási feladatellátási
+helyeken ellátott / tanuló gyermekek száma
+(fő)
+0 41 000 IH évente Eredmény
+módosított
+Óvodai nevelésben részesülő gyermekek
+aránya (%)
+87,5 (2006)
+nem kell
+célértéket
+megadni
+KSH évente Kontextus
+új
+Fejlesztett nevelési-oktatásifeladatellátási
+helyeken ellátott / tanuló hátrányos helyzetű
+gyermekek száma (fő)
+0 16 400 IH évente Eredmény
+új
+A közoktatási intézmények fejlesztéssel
+érintett telephelyeinek száma (db)
+0 180 IH évente output
+új
+Fejlesztésekkel érintett rehabilitációs
+fekvőbeteg férőhelyek száma (db):
+0 572 IH évente output
+új
+Fejlesztett ambuláns rehabilitációs
+ellátóhelyek száma (db):
+0 17 IH évente output
+új Épített, felújított rendelők száma (db) 0 200 IH évente output
+új
+A szociális fejlesztésekben érintett
+napközbeni ellátásában részesülő gyermekek
+száma (fő)
+3637 3804 IH évente eredmény
+új Új szociális alapszolgáltatások száma (fő) 0 57 IH évente Eredmény
+új
+Új, felújított szociális intézmények száma
+(fő)
+0 45 IH évente output
+
+
+
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Humán-infrastruktúra
+fejlesztése (4. prioritás)
+törölt
+Szociális ellátással elért lakosság számának
+növekedése (fő)
+törölt
+Minőségi járóbeteg szakellátásban
+ellátottak számának növekedése a
+fejlesztéssel érintett szakrendelések esetén
+(fő)
+törölt
+A minimális tudáskritériumoknak eleget
+nem tevő tanulók arányának csökkenése
+azokban az iskolákban ahol ezen tanulók
+aránya több mint 50% (%)
+
+
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt célérték
+Adat-
+forrás
+Gyakoriság
+Indikátor
+típusa
+Város- és térségfejlesztés (5. prioritás)
+módosított
+A támogatással érintett területen
+telephellyel rendelkező vállalkozások
+számának növekedése (db)
+0 100 IH évente Hatás
+módosított
+Támogatással érintett lakosok száma a
+rehabilitált településrészeken (fő)
+0 300 000 IH évente Eredmény
+új
+Település-rehabilitációs beavatkozások által
+érintett terület nagysága (ha)
+0 1500 IH évente Output
+törölt
+A rehabilitált terület komplex aktivitási
+mutatójának települési átlaghoz való
+közelítése (az átlag százalékában kifejezve)
+(%)
+módosított
+A támogatott projektek eredményeként elért
+éves energia megtakarítás (TJ)
+
+nem kell célértéket
+megadni
+EMIR évente
+horizontális -
+eredmény
+új
+A támogatott projektek keretében ár- bel- és
+csapadékvíz károktól megvédett lakosság
+(fő)
+0 35000 IH évente
+Mag -
+Eredmény
+módosított
+A támogatott projektek keretében EU-s
+kritériumoknak megfelelő
+szennyvízkezeléssel ellátott lakosok száma
+a 2000 LE alatti településeken (fő)
+0 12 000 IH évente Eredmény
+
+
+
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Technikai
+segítségnyújtás
+(VI.)
+változatlan
+Támogatott projektek megvalósulásának
+aránya (%)
+0 100 IH évente Eredmény
+
+
+3. melléklet az 1222/2012. (VII. 3.) Korm. határozathoz
+
+ 
+
+
+Észak-Magyarországi Operatív Program indikátoraiban a módosítás révén bekövetkező változások
+indikátor státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság Indikátor típusa
+Stratégiai szint
+módosított
+A régió egy főre eső GDP-jének növekedése
+(%)
+100 (2007)
+nem kell
+célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+kontextus
+módosított
+A foglalkoztatási ráta (15-64 éves korosztály)
+a régióban (%)
+50,4 (2006)
+nem kell
+célértéket
+megadni
+KSH évente kontextus
+módosított Teremtett munkahelyek száma (db) 0 4000 EMIR évente
+mag (1) -
+eredmény
+módosított
+Támogatások hatására indukált beruházások
+(millió euro)
+0 207 (58 mrd ft) EMIR évente
+mag (10) -
+eredmény
+módosított
+Teremtett munkahelyekből nők által
+betöltöttek száma (db)
+
+nem kell
+célértéket
+megadni
+EMIR évente
+mag (2) -
+horizontális
+(gender)
+módosított
+Teremtett munkahelyek száma a hátrányos
+helyzetű kistérségekben (db)
+
+nem kell
+célértéket
+megadni
+EMIR évente
+horizontális
+(területi kohézió) -
+eredmény
+új
+Teremtett munkahelyekből hátrányos
+helyzetűek által betöltöttek száma (db)
+
+nem kell
+célértéket
+megadni
+EMIR évente
+horizontális (társ.
+Kohézió) -
+eredmény
+törölt
+Fejlesztett nevelési-oktatási intézményekben
+tanuló hátrányos helyzetű gyermekek
+(gyermekvédelmi támogatásban részesülő)
+aránya (%)
+
+ 
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adat-
+forrás
+Gyakoriság
+Indikátor
+típusa
+Versenyképes helyi gazdaság megteremtése (ÉMOP-1)
+módosított Teremtett munkahelyek száma (db) 0 3000 IH évente
+Eredmény -
+Mag
+módosított
+Támogatások hatására indukált beruházások
+(millió euro)
+0 125 (35 mrd Ft) IH évente
+Eredmény -
+mag
+új Támogatott KKV projektek száma (db) 0 250 IH évente Mag
+módosított
+A fejlesztések eredményeként korszerű
+infrastruktúrával ellátott ipari parkok, ipari
+területek és telephelyek nagysága (ha)
+0 1000 IH évente Output
+új
+Klaszterekben, támogatott
+együttműködésekben résztvevő vállalatok
+száma (db)
+0 1000 IH évente Eredmény
+törölt
+Klaszterekben, támogatott
+együttműködésekben, tanácsadásban
+résztvevő vállalatok árbevételének
+növekedése (%)
+törölt
+A vállalati szektor által megtermelt bruttó
+hozzáadott érték (BHÉ) növekedése a
+prioritás hatására (millió Ft)
+törölt
+A programból támogatásban részesített ipari
+parkok és ipari területek nettó
+beépítettségének növekedése (%)
+
+ 
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt célérték
+Adat-
+forrás
+Gyakoriság
+Indikátor
+típusa
+Turisztikai potenciál erősítése (ÉMOP-2)
+módosított
+Kereskedelmi/üzleti szálláshelyeken
+eltöltött vendégéjszakák száma (1000 főre
+vetítve) (db)
+1225,07
+(2006)
+nem kell célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+Kontextus
+új
+Átlagos tartózkodási idő a
+kereskedelmi/üzleti szálláshelyeken
+(éjszaka)
+2,3 (2006)
+nem kell célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+Kontextus
+módosított
+A kereskedelmi/üzleti szálláshelyek
+kapacitáskihasználtsága (%)
+27,6 (2006)
+nem kell célértéket
+megadni
+KSH évente Kontextus
+módosított Teremtett munkahelyek száma (db): 0 1000 IH évente
+Mag -
+eredmény
+módosított
+Támogatások hatására indukált beruházások
+(millió euro)
+0 82 (23 mrd ft) IH évente
+Mag -
+eredmény
+módosított
+Támogatott turisztikai attrakció átlagos
+látogatottsága (fő)
+0 3 000 000 IH/KSZ évente Eredmény
+új Támogatott projektek száma (db) 0 170 IH évente mag - output
+új Támogatott KKV-projektek száma (db) 0 100 IH évente mag - output
+törölt
+A szálláshely-szolgáltatás és vendéglátás
+ágazat bruttó hozzáadott érték növekedése
+%
+törölt
+Magas minőségű szolgáltatásokat nyújtó
+kereskedelmi szállásférőhelyek
+kapacitáskihasználtsága (%)
+
+ 
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Településfejlesztés (ÉMOP-3)
+módosított
+A támogatással érintett területen
+telephellyel rendelkező vállalkozások
+számának növekedése (db)
+0 60 IH évente Hatás
+módosított
+Támogatással érintett lakosok száma a
+rehabilitált településrészeken (fő)
+0 450 000 IH évente Eredmény
+új
+Település-rehabilitációs beavatkozások által
+érintett terület nagysága (ha)
+0 2 000 IH évente Output
+módosított
+A támogatott projektek eredményeként elért
+éves energia megtakarítás (TJ)
+
+nem kell
+célértéket
+megadni
+EMIR éves
+horizontális
+(környezeti) -
+eredmény
+törölt
+A szociális célból rehabilitált terület
+komplex aktivitási rátája (15-64 éves
+korosztály) a települési átlag arányában (%)
+IH évente Hatás
+új
+A támogatott projektek keretében ár- bel- és
+csapadékvíz károktól megvédett lakosság
+(fő)
+0 350 000 IH évente
+Mag (32) -
+Eredmény
+módosított
+A támogatott projektek keretében EU-s
+kritériumoknak megfelelő
+szennyvízkezeléssel ellátott lakosok száma
+a 2000 LE alatti településeken (fő)
+0 10 000 IH évente Eredmény
+
+ 
+
+
+Humán infrastruktúra fejlesztése (ÉMOP-4)
+indikátor státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adat-
+forrás
+Gyakoriság
+Indikátor
+típusa
+módosított
+Fejlesztett nevelési-oktatási feladat-ellátási helyeken
+ellátott / tanuló gyermekek száma (fő)
+0 32 000 IH évente Eredmény
+módosított Óvodai nevelésben részesülő gyermekek aránya (%) 86,1 (2006)
+nem kell
+célértéket
+megadni
+KSH évente Kontextus
+új
+Fejlesztett nevelési-oktatási feladat-ellátási helyeken
+ellátott / tanuló hátrányos helyzetű gyermekek
+száma (fő)
+0 12800 IH évente Eredmény
+új
+A közoktatási intézmények fejlesztéssel érintett
+telephelyeinek száma (db)
+0 185 IH évente output
+új
+Fejlesztésekkel érintett rehabilitációs fekvőbeteg
+férőhelyek száma (db):
+0 714 IH évente output
+új
+Fejlesztett ambuláns rehabilitációs ellátóhelyek
+száma (db):
+0 64 IH évente output
+új Épített, felújított rendelők száma (db) 0 154 IH évente output
+új
+A szociális fejlesztésekben érintett napközbeni
+ellátásában részesülő gyermekek száma (fő)
+0 6000 IH évente eredmény
+új Új szociális alapszolgáltatások száma (db) 0 41 IH évente Eredmény
+új Új, felújított szociális intézmények száma (db) 0 72 IH évente output
+
+ 
+
+
+
+indikátor státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adat-
+forrás
+Gyakoriság
+Indikátor
+típusa
+Humán infrastruktúra
+fejlesztése (ÉMOP-4)
+törölt
+Szociális ellátással elért lakosság számának
+növekedése (%)
+törölt
+Minőségi járóbeteg szakellátásban ellátottak
+számának növekedése a fejlesztéssel érintett
+szakrendelések esetén (fő)
+törölt
+A minimális tudáskritériumoknak eleget nem tevő
+tanulók arányának csökkenése azokban az
+iskolákban ahol ezen tanulók aránya több mint 50%
+(%)
+
+ 
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Közlekedésfejlesztés (ÉMOP-5)
+módosított
+A kistérségi központot és gyorsforgalmi
+úthálózatot közúton 15/20/30 percen belül
+elérő lakosság számának növekedése (fő)
+0 50 000 IH évente Eredmény
+új
+Fejlesztett városi közlekedéssel érintett
+lakosság száma (fő)
+0 180 000 IH évente
+Eredmény -
+Mag (22)
+új Felújított utak hossza (km) 0 450 IH évente
+Output - mag
+(16)
+új Megépített kerékpáros utak hossza (km) 0 15 IH évente Output
+törölt
+Közösségi közlekedést igénybevevők
+számának növekedése (%)
+IH évente Eredmény
+
+ 
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Technikai
+segítségnyújtás
+(VI.)
+változatlan
+Támogatott projektek megvalósulásának
+aránya (%)
+0 100 IH évente Eredmény
+
+
+4. melléklet az 1222/2012. (VII. 3.) Korm. határozathoz
+
+
+
+
+
+Dél-Dunántúli Operatív Program indikátoraiban a módosítás révén bekövetkező változások
+indikátor státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt célérték
+Adat-
+forrás
+Gyakoriság
+Indikátor
+típusa
+Stratégiai szint
+új
+A régió egy főre eső GDP-jének növekedése
+(%)
+100 (2007)
+nem kell célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+kontextus
+módosított
+A foglalkoztatási ráta (15-64 éves korosztály) a
+régióban (%)
+53,6 (2006)
+nem kell célértéket
+megadni
+KSH évente kontextus
+módosított Teremtett munkahelyek száma (db) 0 4400 EMIR évente
+mag -
+eredmény
+új
+Támogatások hatására indukált beruházások
+(millió euro)
+0 185,71 (52 mrd Ft) EMIR évente
+mag -
+eredmény
+módosított
+Teremtett munkahelyekből nők által betöltöttek
+száma (db)
+
+nem kell célértéket
+megadni
+EMIR évente
+mag -
+horizontális
+módosított
+Teremtett munkahelyek száma a hátrányos
+helyzetű kistérségekben (db)
+
+nem kell célértéket
+megadni
+EMIR évente
+horizontális -
+eredmény
+módosított
+Teremtett munkahelyekből hátrányos
+helyzetűek által betöltöttek száma (db)
+
+nem kell célértéket
+megadni
+EMIR évente
+horizontális -
+eredmény
+törölt
+A régió egy főre jutó GDP-je az országos átlag
+százalékában (%)
+törölt
+Az elvándorlással leginkább sújtott kistérség
+belföldi vándorlási különbözetének évi átlaga
+1000 lakosra (fő)
+törölt
+Fejlesztett nevelési-oktatási intézményekben
+tanuló hátrányos helyzetű gyermekek száma (fő)
+törölt
+A környezeti állapottal és a városfejlesztési
+akciókkal való elégedettség az érintett lakosság
+körében (%)
+
+
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Városi térségek fejlesztésére alapozott versenyképes gazdaság
+megteremtése (1. prioritás)
+módosított Teremtett munkahelyek száma (db) 0 2200 IH évente
+Eredmény -
+Mag
+módosított
+Támogatások hatására indukált beruházások
+(millió euro)
+0 75 (21 mrd Ft) IH évente
+Eredmény -
+mag (10)
+módosított Támogatott KKV projektek száma (db) 0 200 IH évente Mag
+új
+A fejlesztések eredményeként korszerű
+infrastruktúrával ellátott ipari parkok, ipari
+területek és telephelyek nagysága (ha)
+0 500 IH évente Output
+új
+Klaszterekben, támogatott
+együttműködésekben résztvevő vállalatok
+száma (db)
+0 320 IH évente Eredmény
+törölt
+A vállalati szektor Bruttó Hozzáadott Érték
+növekedése a program hatására (Mrd Ft)
+törölt
+A támogatásban részesített ipari parkok és
+iparterületek nettó beépítettségének
+növekedése (%)
+
+
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+A turisztikai potenciál erősítése a régióban (2. prioritás)
+módosított
+Kereskedelmi/üzleti szálláshelyeken
+eltöltött vendégéjszakák száma (1000 főre
+vetítve) (db)
+2333,9
+(2006)
+nem kell
+célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+Kontextus
+új
+Átlagos tartózkodási idő a
+kereskedelmi/üzleti szálláshelyeken
+(éjszaka)
+3 (2006)
+nem kell
+célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+Kontextus
+módosított
+A kereskedelmi/üzleti szálláshelyek
+kapacitáskihasználtsága (%)
+32,3 (2006)
+nem kell
+célértéket
+megadni
+KSH évente Kontextus
+új Teremtett munkahelyek száma (db): 0 2000 IH évente Mag- eredmény
+új
+Támogatások hatására indukált beruházások
+(millió euro)
+
+110,71 (31
+mrd Ft)
+IH évente Mag- eredmény
+módosított
+Támogatott turisztikai attrakció átlagos
+látogatottsága (fő)
+0 2 000 000 IH/KSZ évente Eredmény
+új Támogatott projektek száma (db) 0 140 IH évente mag - output
+új Támogatott KKV-projektek száma (db) 0 60 IH évente mag - output
+törölt
+A szálláshely-szolgáltatás és vendéglátás
+ágazat bruttó hozzáadott érték növekedése
+%
+
+
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Humán-infrastruktúra fejlesztése (3. prioritás)
+új
+Fejlesztett nevelési-oktatási feladatellátási
+helyeken ellátott / tanuló gyermekek száma
+(fő)
+0 40 000 IH évente Eredmény
+új
+Óvodai nevelésben részesülő gyermekek
+aránya (%)
+89,4 (2006)
+nem kell
+célértéket
+megadni
+KSH évente Kontextus
+új
+Fejlesztett nevelési-oktatásifeladatellátási
+helyeken ellátott / tanuló hátrányos helyzetű
+gyermekek száma (fő)
+0 14000 IH évente Eredmény
+új
+A közoktatási intézmények fejlesztéssel
+érintett telephelyeinek száma (db)
+0 160 IH évente output
+új
+Fejlesztésekkel érintett rehabilitációs
+fekvőbeteg férőhelyek száma (db):
+0 721 IH évente output
+új
+Fejlesztett ambuláns rehabilitációs
+ellátóhelyek száma (db):
+0 31 IH évente output
+
+
+
+
+
+
+Humán-infrastruktúra fejlesztése (3. prioritás)
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+új Épített, felújított rendelők száma (db) 0 65 0 évente output
+új
+A szociális fejlesztésekben érintett
+napközbeni ellátásában részesülő gyermekek
+száma (fő)
+4416 5297 IH évente eredmény
+új Új szociális alapszolgáltatások száma (db) 0 26 IH évente Eredmény
+új
+Új, felújított szociális intézmények száma
+(db)
+0 7 IH évente output
+törölt
+Minőségi járóbeteg szakellátásban ellátottak
+számának növekedése (a fejlesztéssel érintett
+szakrendelések esetén)
+törölt
+Szociális ellátással elért lakosság számának
+növekedése
+törölt
+Az országos kompetenciamérésen a
+minimális tudáskritériumoknak eleget nem
+tevő tanulók arányánának csökkenése (%)
+törölt
+A többcélú közoktatási intézmények
+szolgáltatásaival érintett 0-18 éves korúak
+arányának növekedése
+törölt
+Minőségi rehabilitációs szolgáltatáshoz
+hozzáférők számának növekedése (a
+fejlesztéssel érintett egészségügyi
+intézmények tekintetében)
+
+
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Integrált városfejlesztési akciók támogatása
+(4. prioritás)
+módosított
+A támogatással érintett területen
+telephellyel rendelkező vállalkozások
+számának növekedése (db)
+0 40 IH évente Hatás
+módosított
+Támogatással érintett lakosok száma a
+rehabilitált településrészeken (fő)
+0 112 000 IH évente Eredmény
+módosított
+A támogatott projektek eredményeként elért
+éves energia megtakarítás (TJ)
+
+nem kell
+célértéket
+megadni
+EMIR évente
+horizontális
+(környezeti) -
+eredmény
+új
+Település-rehabilitációs beavatkozások által
+érintett terület nagysága (ha)
+0 800 IH évente Output
+törölt
+A rehabilitált terület komplex aktivitási
+mutatójának települési átlaghoz való
+közelítése (az átlag százalékában kifejezve)
+
+
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Az elérhetőség javítása és környezetfejlesztés
+(5. prioritás)
+új
+A támogatott projektek keretében EU-s
+kritériumoknak megfelelő
+szennyvízkezeléssel ellátott lakosok száma a
+2000 LE alatti településeken (fő)
+0 23 000 IH évente Eredmény
+új
+A támogatott projektek keretében ár- bel- és
+csapadékvíz károktól megvédett lakosság
+(fő)
+0 39 000 IH évente
+Mag -
+Eredmény
+törölt
+A támogatott projektek keretében EU-s
+kritériumoknak megfelelő
+szennyvízkezeléssel ellátott lakosok száma fő
+módosított
+A kistérségi központot és gyorsforgalmi
+úthálózatot közúton 15/20/30 percen belül
+elérő lakosság számának növekedése fő
+0 50 000 IH évente Eredmény
+új
+Fejlesztett városi, helyi tömegközlekedéssel
+érintett lakosság száma (fő)
+0 250 000 IH évente
+Eredmény -
+Mag
+új Felújított utak hossza (km) 0 300 IH évente Output - mag
+új Megépített utak hossza (km) 0 25 IH évente Output - mag
+új
+Létrehozott önálló kerékpárforgalmi
+létesítmények hossza (km)
+0 45 IH évente Output
+törölt
+Közösségi közlekedést igénybevevők
+számának növekedése fő
+
+
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Technikai
+segítségnyújtás (VI.)
+változatlan
+Támogatott projektek megvalósulásának
+aránya (%)
+0 100 IH évente Eredmény
+
+
+5. melléklet az 1222/2012. (VII. 3.) Korm. határozathoz
+
+
+Közép-Dunántúli Operatív Program indikátoraiban a módosítás révén bekövetkező változások
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Stratégiai szint
+módosított
+A régió egy főre eső GDP-jének
+növekedése (%)
+100 (2007)
+nem kell
+célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+kontextus
+módosított
+A foglalkoztatási ráta (15-64 éves
+korosztály) a régióban (%)
+61,4 (2006)
+nem kell
+célértéket
+megadni
+KSH évente kontextus
+új Teremtett munkahelyek száma (db) 0 2 406,5 IH évente
+mag (1) -
+eredmény
+új
+Támogatások hatására indukált beruházások
+(millió euro)
+
+200,3 (56,1
+mrd Ft)
+IH évente
+mag (10) -
+eredmény
+módosított
+Teremtett munkahelyekből nők által
+betöltöttek száma (db)
+
+nem kell
+célértéket
+megadni
+IH évente
+mag (2) -
+horizontális
+(gender)
+új
+Teremtett munkahelyek száma a hátrányos
+helyzetű kistérségekben (db)
+
+nem kell
+célértéket
+megadni
+IH évente
+horizontális -
+eredmény
+módosított
+Teremtett munkahelyekből hátrányos
+helyzetűek által betöltöttek száma (db)
+
+nem kell
+célértéket
+megadni
+IH évente
+horizontális -
+eredmény
+törölt
+Fejlesztett nevelési-oktatási
+intézményekben tanuló hátrányos helyzetű
+gyermekek száma (fő)
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Regionális gazdaságfejlesztés (1. prioritás)
+módosított Teremtett munkahelyek száma (db) 0 1 955 IH évente
+Eredmény -
+Mag
+módosított
+Támogatások hatására indukált beruházások
+(millió euro)
+
+135,7 (38 mrd
+Ft)
+IH évente
+Eredmény -
+mag (10)
+új Támogatott KKV projektek száma (db) 0 312 IH évente Mag
+módosított
+A fejlesztések eredményeként korszerű
+infrastruktúrával ellátott ipari parkok, ipari
+területek és telephelyek nagysága (ha)
+0 650 IH évente Output
+új
+Klaszterekben, támogatott
+együttműködésekben résztvevő vállalatok
+száma (db)
+0 600 IH évente Eredmény
+törlendő
+A regionális OP beavatkozásainak hatására
+a vállalati szektor által előállított BHÉ
+növekedése (mFt)
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Regionális turizmusfejlesztés (2. prioritás)
+módosított
+Kereskedelmi/üzleti szálláshelyeken
+eltöltött vendégéjszakák száma (1000 főre
+vetítve) (db)
+2115,71
+(2006)
+nem kell
+célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+Kontextus
+új
+Átlagos tartózkodási idő a
+kereskedelmi/üzleti szálláshelyeken
+(éjszaka)
+3,2 (2006)
+nem kell
+célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+Kontextus
+új
+A kereskedelmi/üzleti szálláshelyek
+kapacitáskihasználtsága (%)
+30,7 (2006)
+nem kell
+célértéket
+megadni
+KSH évente Kontextus
+módosított Teremtett munkahelyek száma (db): 0 451,5 IH évente
+Mag -
+eredmény
+új
+Támogatások hatására indukált beruházások
+(millió euro)
+
+64,6 (18,1
+mrd Ft)
+IH évente
+Mag -
+eredmény
+új
+Támogatott turisztikai attrakció átlagos
+látogatottsága (fő)
+0 2 000 000 IH/KSZ évente Eredmény
+új Támogatott projektek száma (db) 0 147 IH évente mag - output
+új Támogatott KKV-projektek száma (db) 0 68 IH évente mag - output
+törölt
+A szálláshely-szolgáltatás és vendéglátás
+ágazat által előállított Bruttó Hozzáadott
+Érték növekedése a regionális OP
+beavatkozásainak hatására (mFt)
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Fenntartható településfejlesztés (3. prioritás)
+módosított
+A támogatással érintett területen
+telephellyel rendelkező vállalkozások
+számának növekedése (db)
+0 13 IH évente Hatás
+módosított
+Támogatással érintett lakosok száma a
+rehabilitált településrészeken (fő)
+0 193 434 IH évente Eredmény
+új
+Település-rehabilitációs beavatkozások által
+érintett terület nagysága (ha)
+0 88,46 IH évente Output
+módosított
+A támogatott projektek eredményeként elért
+éves energia megtakarítás (TJ)
+
+nem kell
+célértéket
+megadni
+EMIR éves
+horizontális
+(környezeti) -
+eredmény
+törölt
+A rehabilitált terület komplex aktivitási
+mutatójának települési átlaghoz való
+közelítése (%, az átlag százalékában
+kifejezve)
+törölt
+A támogatások hatására létrehozott főállású
+új munkahelyek száma (fő)
+
+
+Helyi és térségi környezetvédelmi és közlekedési infrastruktúra fejlesztése
+(4. prioritás)
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+új
+A támogatott projektek keretében ár- bel- és
+csapadékvíz károktól megvédett lakosság
+(fő)
+0 55 000 IH évente
+Mag (32) -
+Eredmény
+módosított
+A támogatott projektek keretében EU-s
+kritériumoknak megfelelő
+szennyvízkezeléssel ellátott lakosok száma
+a 2000 LE alatti településeken (fő)
+0 11 000 IH évente Eredmény
+módosított
+A kistérségi központot és gyorsforgalmi
+úthálózatot közúton 15/20/30 percen belül
+elérő lakosság számának növekedése (fő)
+0 1 500 IH évente Eredmény
+új
+Fejlesztett városi, helyi tömegközlekedéssel
+érintett lakosság száma (fő)
+0 100 000 IH évente
+Eredmény -
+Mag (22)
+új Felújított utak hossza (km) 0 200 IH évente
+Output - mag
+(16)
+új Megépített utak hossza (km) 0 0,8 IH évente
+Output - mag
+(14)
+új
+Létrehozott önálló kerékpárforgalmi
+létesítmények hossza (km)
+0 68,7 IH évente Output
+
+
+Humán infrastruktúra fejlesztése (5. prioritás)
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatfor
+rás
+Gyakoriság
+Indikátor
+típusa
+új
+Fejlesztett nevelési-oktatási feladatellátási
+helyeken ellátott / tanuló gyermekek száma (fő)
+0 15 000 IH évente Eredmény
+új
+Óvodai nevelésben részesülő gyermekek aránya
+(%)
+89,3 (2006)
+nem kell
+célértéket
+megadni
+KSH évente Kontextus
+új
+Fejlesztett nevelési-oktatási feladatellátási
+helyeken ellátott / tanuló hátrányos helyzetű
+gyermekek száma (fő)
+0 3450 IH évente Eredmény
+új
+A közoktatási intézmények fejlesztéssel érintett
+telephelyeinek száma (db)
+0 53 IH évente output
+új
+Fejlesztésekkel érintett rehabilitációs
+fekvőbeteg férőhelyek száma (db):
+0 392 IH évente output
+új
+Fejlesztett ambuláns rehabilitációs ellátóhelyek
+száma (db):
+0 4 IH évente output
+
+
+ 
+Humán infrastruktúra fejlesztése (5. prioritás)
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatfor
+rás
+Gyakoriság
+Indikátor
+típusa
+új Épített, felújított rendelők száma (db) 0 93 IH évente output
+új
+A szociális fejlesztésekben érintett napközbeni
+ellátásában részesülő gyermekek száma (db)
+16862 17858 IH évente eredmény
+új Új szociális alapszolgáltatások száma (db) 0 19 IH évente Eredmény
+új Új, felújított szociális intézmények száma (db) 0 51 IH évente output
+törölt
+Minőségi járóbeteg szakellátásban ellátottak
+számának növekedése (a fejlesztéssel érintett
+szakrendelések esetén) (fő)
+törölt
+Szociális ellátással elért lakosság számának
+növekedése (fő)
+törölt
+A minimális tudáskritériumoknak eleget nem tevő
+tanulók arányának csökkenése azokban az
+iskolákban ahol ezen tanulók aránya több mint
+50% (%)
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Technikai
+segítségnyújtás
+(VI.)
+változatlan
+Támogatott projektek megvalósulásának
+aránya (%)
+0 100 IH évente Eredmény
+
+
+6. melléklet az 1222/2012. (VII. 3.) Korm. határozathoz
+
+Nyugat-Dunántúli Operatív Programban indikátoraiban a módosítás révén bekövetkező változások
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+OP
+bázisérték
+OP célérték Adatforrás Gyakoriság
+Indikátor
+típusa
+Stratégiai szint
+módosított
+A régió egy főre eső GDP-jének
+növekedése (%)
+100 (2007)
+nem kell
+célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+kontextus
+módosított
+A foglalkoztatási ráta (15-64 éves
+korosztály) a régióban (%)
+62,8
+(2006)
+nem kell
+célértéket
+megadni
+KSH/áfsz évente kontextus
+módosított Teremtett munkahelyek száma (db) 0 3150 EMIR évente
+mag (1) -
+eredmény
+módosított
+Támogatások hatására indukált
+beruházások (millió euro)
+
+157,14 (44
+mrd Ft)
+EMIR évente
+mag (10) -
+eredmény
+módosított
+Teremtett munkahelyekből nők által
+betöltöttek száma (db)
+
+nem kell
+célértéket
+megadni
+EMIR évente
+mag (2) -
+horizontális
+(gender)
+módosított
+Teremtett munkahelyek száma a
+hátrányos helyzetű kistérségekben
+(db)
+
+nem kell
+célértéket
+megadni
+EMIR évente
+horizontális
+(területi
+kohézió) -
+eredmény
+módosított
+Teremtett munkahelyekből
+hátrányos helyzetűek által
+betöltöttek száma (db)
+
+nem kell
+célértéket
+megadni
+EMIR évente
+horizontális
+(társ. kohézió)
+- eredmény
+
+Stratégiai szint
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+OP
+bázisérték
+OP célérték Adatforrás Gyakoriság
+Indikátor
+típusa
+törölt
+A minimális tudáskritériumoknak
+eleget nem tevő tanulók arányának
+csökkenése azokban az iskolákban
+ahol ezen tanulók aránya több mint
+50% (fő)
+törölt
+A régióban létrejött vagy új
+telephellyel rendelkező kis- és
+középvállalatok száma (db)
+törölt
+A szálláshely-szolgáltatás és
+vendéglátás ágazat által előállított
+hozzáadott érték növekedése (millió
+Ft)
+törölt
+Vállalati szektor által megtermelt
+bruttó hozzáadott érték (BHÉ)
+növekedése a program hatására
+(millió Ft)
+törölt
+Hasznosított barnamezős terület
+(ha)
+törölt
+Fejlesztett nevelési-oktatási
+intézményekben tanuló hátrányos
+helyzetű gyermekek száma (fő)
+törölt
+Kistérségi központot közúton
+15/20/30 percen belül elérő
+lakosság számának növekedése (fő)
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+OP
+bázisérték
+OP célérték Adatforrás Gyakoriság
+Indikátor
+típusa
+Regionális gazdaságfejlesztés (1. prioritás)
+módosított Teremtett munkahelyek száma (db) 0 2100 IH évente
+Eredmény -
+Mag
+módosított
+Támogatások hatására indukált
+beruházások (millió euro)
+
+82,14 (23 mrd
+Ft)
+IH évente
+Eredmény -
+mag (10)
+új
+Támogatott KKV projektek száma
+(db)
+0 290 IH évente Mag
+módosított
+A fejlesztések eredményeként
+korszerű infrastruktúrával ellátott
+ipari parkok, ipari területek és
+telephelyek nagysága (ha)
+0 270 IH évente Output
+új
+Klaszterekben, támogatott
+együttműködésekben résztvevő
+vállalatok száma (db)
+0 1280 IH évente Eredmény
+törölt
+Klaszterekben, támogatott
+együttműködésékben résztvevő
+vállalatok árbevételének
+növekedése (%)
+törölt
+A támogatásban részesített ipari
+parkok és ipari területek nettó
+beépítettségének növekedése (%)
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+OP
+bázisérték
+OP célérték Adatforrás Gyakoriság
+Indikátor
+típusa
+Turizmusfejlesztés – Pannon örökség megújítása (2. prioritás)
+módosított
+Kereskedelmi szálláshelyeken
+eltöltött vendégéjszakák száma
+(1000 főre vetítve) (db)
+3774,98
+(2006)
+nem kell
+célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+Kontextus
+új
+Átlagos tartózkodási idő a
+kereskedelmi/üzleti szálláshelyeken
+(éjszaka)
+3,1 (2006)
+nem kell
+célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+Kontextus
+módosított
+A kereskedelmi szálláshelyek
+kapacitáskihasználtsága (%)
+39,4
+(2006)
+nem kell
+célértéket
+megadni
+KSH évente Kontextus
+új Teremtett munkahelyek száma (db): 0 1050 IH évente
+Mag (35) -
+eredmény
+új
+Támogatások hatására indukált
+beruházások (millió euro)
+
+75 (21 mrd
+Ft)
+IH évente
+Mag (10) -
+eredmény
+új
+Támogatott turisztikai attrakció
+átlagos látogatottsága (fő)
+0 5 000 000 IH/KSZ évente Eredmény
+új Támogatott projektek száma (db) 0 210 IH évente
+magindikátor -
+output
+új
+Támogatott KKV-projektek száma
+(db)
+0 110 IH évente
+magindikátor -
+output
+
+Városfejlesztés (3. számú prioritás)
+módosított
+A támogatással érintett területen
+telephellyel rendelkező
+vállalkozások számának
+növekedése (db)
+0 150 IH évente Hatás
+módosított
+Támogatással érintett lakosok
+száma a rehabilitált
+településrészeken (fő)
+0 320 000 IH évente Eredmény
+új
+A támogatott projektek
+eredményeként elért éves energia
+megtakarítás (TJ)
+
+nem kell
+célértéket
+megadni
+IH évente
+horizontális
+(környezeti) -
+eredmény
+új
+Település-rehabilitációs
+beavatkozások által érintett terület
+nagysága (ha)
+0 1500 IH évente Output
+törölt
+A rehabilitált terület komplex
+aktivitási mutatójának települési
+átlaghoz való közelítése (az átlag
+százalékában kifejezve) %
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+OP
+bázisérték
+OP célérték Adatforrás Gyakoriság
+Indikátor
+típusa
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+OP
+bázisérték
+OP célérték Adatforrás Gyakoriság
+Indikátor
+típusa
+Környezetvédelmi és közlekedési infrastruktúra (4. prioritás)
+módosított
+A támogatott projektek keretében
+ár- bel- és csapadékvíz károktól
+megvédett lakosság (fő)
+0 95000 IH évente
+Mag (32) -
+Eredmény
+módosított
+A támogatott projektek keretében
+EU-s kritériumoknak megfelelő
+szennyvízkezeléssel ellátott lakosok
+száma a 2000 LE alatti
+településeken (fő)
+0 11000 IH évente Eredmény
+új
+A kistérségi központot és
+gyorsforgalmi úthálózatot közúton
+15/20/30 percen belül elérő
+lakosság számának növekedése (fő)
+0 4 100 IH évente Eredmény
+új
+Fejlesztett városi közlekedéssel
+érintett lakosság száma (fő)
+0 715 000 IH évente
+Eredmény -
+Mag (22)
+módosított Felújított utak hossza (km) 0 110 IH évente
+Output - mag
+(16)
+módosított
+Létrehozott önálló
+kerékpárforgalmi létesítmények
+hossza (km)
+0 60 IH évente Output
+törölt
+Új utak hossza (négy és
+ötszámjegyű) (km)
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+OP
+bázisérték
+OP célérték Adatforrás Gyakoriság
+Indikátor
+típusa
+Helyi és térségi közszolgáltatások infrastrukturális fejlesztése (5.
+prioritás)
+módosított
+Fejlesztett nevelési-oktatási
+feladatellátási helyeken ellátott /
+tanuló gyermekek száma (fő)
+0 21 000 IH évente Output
+módosított
+Óvodai nevelésben részesülő
+gyermekek arányának növekedése
+(%)
+89,3
+(2006)
+nem kell
+célértéket
+megadni
+KSH évente Kontextus
+új
+Fejlesztett nevelési-oktatási
+feladatellátási helyeken ellátott /
+tanuló hátrányos helyzetű
+gyermekek száma (fő)
+0 3780 IH évente Eredmény
+új
+A közoktatási intézmények
+fejlesztéssel érintett telephelyeinek
+száma (db)
+0 95 IH évente output
+új
+Fejlesztésekkel érintett
+rehabilitációs fekvőbeteg
+férőhelyek száma (db):
+0 451 IH évente output
+új
+Fejlesztett ambuláns rehabilitációs
+ellátóhelyek száma (db):
+0 16 IH évente Output
+új
+Épített, felújított rendelők száma
+(db)
+0 145 IH évente output
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+OP
+bázisérték
+OP célérték Adatforrás Gyakoriság
+Indikátor
+típusa
+Helyi és térségi közszolgáltatások infrastrukturális
+fejlesztése (5. prioritás)
+új
+A szociális fejlesztésekben érintett
+napközbeni ellátásában részesülő
+gyermekek száma (fő)
+0 33 998 IH évente eredmény
+új
+Új szociális alapszolgáltatások
+száma (db)
+0 11 IH évente Eredmény
+új
+Új, felújított szociális intézmények
+száma (db)
+0 24 IH évente output
+módosított
+Minőségi járóbeteg szakellátásban
+ellátottak számának növekedése (a
+fejlesztéssel érintett szakrendelések
+esetén, fő)
+módosított
+Szociális ellátással elért lakosság
+számának növekedése (fő)
+módosított
+A program által szélessávú
+internethez közösségi pontokban
+hozzáférő lakosság növekedése (fő)
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+OP
+bázisérték
+OP célérték Adatforrás Gyakoriság
+Indikátor
+típusa
+Technikai
+segítségnyújtás (VI.)
+változatlan
+Támogatott projektek
+megvalósulásának aránya (%)
+0 100 IH évente Eredmény
+
+7. melléklet az 1222/2012. (VII. 3.) Korm. határozathoz
+
+
+
+Közép-Magyarországi Operatív Program indikátoraiban a módosítás révén bekövetkező változások
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Stratégiai szint
+új
+A régió egy főre eső GDP-jének
+növekedése (%)
+100 (2007)
+nem kell
+célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+kontextus
+új
+A foglalkoztatási ráta (15-64 éves
+korosztály) a régióban (%)
+62,7 (2006)
+nem kell
+célértéket
+megadni
+KSH évente kontextus
+új Teremtett munkahelyek száma (db) 0 6 000 EMIR évente
+mag (1) -
+eredmény
+új
+Támogatások hatására indukált beruházások
+(millió euro)
+
+907,25
+(254,03 mrd
+Ft)
+EMIR évente
+mag (10) -
+eredmény
+új
+Teremtett munkahelyekből nők által
+betöltöttek száma (db)
+
+nem kell
+célértéket
+megadni
+EMIR évente
+mag (2) -
+horizontális
+(gender)
+új
+Teremtett munkahelyekből hátrányos
+helyzetűek által betöltöttek száma (db)
+
+nem kell
+célértéket
+megadni
+EMIR évente
+horizontális
+(társadalmi
+kohézió) -
+eredmény
+
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Stratégiai szint
+törölt
+Egy foglalkoztatottra jutó GDP érték
+változása a régióban (%)
+törölt
+A külföldi tőkebefektetések növekedése a
+régióban székhellyel rendelkező
+vállalkozások jegyzett tőkéjét tekintve a
+2003-2004 évek átlagához viszonyítva
+(kumulált %)
+törölt
+Egy foglalkoztatottra jutó bruttó jövedelem-
+egyenlőtlenség indexe a Közép-
+magyarországi régióban a kistérségek
+szintjén (%)
+törölt
+A foglalkoztatottság Közép-magyarországi
+régió kistérségeiben mért
+egyenlőtlenségeinek változása (%)
+törölt
+Egy vállalkozásra jutó bruttó hozzáadott-
+érték (BHÉ) (ezer Ft) egyenlőtlenség index
+átlagos értéke a Közép-magyarországi
+régióban 2002-2004 között a kistérségek
+szintjén
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság Indikátor típusa
+A tudásalapú gazdaság innováció- és vállalkozásorientált
+fejlesztése (1. prioritás)
+módosított Teremtett munkahelyek száma (db) 0 4500 IH évente Eredmény - Mag
+módosított
+Támogatások hatására indukált beruházások
+(millió euro)
+
+828,57 (232
+Mrd Ft)
+IH évente
+Eredmény - mag
+(10)
+új Támogatott KKV projektek száma (db) 0 5900 IH évente Mag
+új
+A fejlesztések eredményeként korszerű
+infrastruktúrával ellátott ipari parkok, ipari
+területek és telephelyek nagysága (ha)
+0 240 IH évente Output
+új
+Klaszterekben, támogatott
+együttműködésekben résztvevő vállalatok
+száma (db)
+0 1250 IH évente Eredmény
+új Támogatott IT projektek száma (db) 0 900 IH évente Mag
+új
+Támogatott KTF együttműködések száma
+(db)
+0 66 IH évente Mag
+új Támogatott KTF projektek száma (db) 0 900 IH évente Mag
+törölt
+A vállalati szektor által Közép-
+magyarországi megtermelt bruttó
+hozzáadott érték (BHÉ) növekedése a
+program hatására (%)
+törölt
+A vállalkozások K+F ráfordításainak
+növekedése a program hatására (millió Ft)
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+A versenyképesség keretfeltételeinek fejlesztése (2. prioritás)
+új
+A kistérségi központot és gyorsforgalmi
+úthálózatot közúton 15/20/30 percen belül
+elérő lakosság számának növekedése (fő)
+0 2300 IH évente Eredmény
+új
+Fejlesztett városi, helyi tömegközlekedéssel
+érintett lakosság száma (fő)
+0 2 000 000 IH évente
+Eredmény -
+Mag (22)
+új Felújított utak hossza (km) 0 220 IH évente
+Output - mag
+(16)
+új Megépített utak hossza (km) 0 180 IH évente
+Output - mag
+(14)
+új
+Létrehozott önálló kerékpárforgalmi
+létesítmények hossza (km)
+0 86 IH évente Output
+törölt
+A közösségi közlekedésben szállított utasok
+számának változása a régió városaiban (%)
+törölt
+Az átmenő forgalom csökkenése a belvárosi
+főutakon (%)
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+A régió vonzerejének fejlesztése (3. prioritás)
+módosított
+Kereskedelmi szálláshelyeken eltöltött
+vendégéjszakák száma (1000 főre vetítve)
+(db)
+2319,84
+(2006)
+nem kell
+célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+Kontextus
+új
+Átlagos tartózkodási idő a
+kereskedelmi/üzleti szálláshelyeken
+(éjszaka)
+2,4 (2006)
+nem kell
+célértéket
+megadni
+KSH
+évente (2 év
+késéssel)
+Kontextus
+új
+A kereskedelmi szálláshelyek
+kapacitáskihasználtsága (%)
+54,3 (2006)
+nem kell
+célértéket
+megadni
+KSH évente Kontextus
+módosított Teremtett munkahelyek száma (db): 0 350 IH évente
+Mag (35) -
+eredmény
+új
+Támogatások hatására indukált beruházások
+(millió euro)
+
+78,68 (22,03
+Mrd Ft)
+IH évente
+Mag (10) -
+eredmény
+új
+Támogatott turisztikai attrakció átlagos
+látogatottsága (fő)
+0 1 200 000 IH/KSZ évente Eredmény
+új Támogatott turisztikai projektek száma (db) 0 85 KSZ évente output
+
+
+
+
+A régió vonzerejének fejlesztése (3. prioritás)
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+új
+Támogatott turisztikai KKV-projektek
+száma (db)
+0 42 KSZ évente output
+új
+A támogatott projektek keretében EU-s
+kritériumoknak megfelelő
+szennyvízkezeléssel ellátott lakosok száma
+a 2000 LE alatti településeken (fő)
+0 3200 IH évente Eredmény
+új
+A támogatott projektek keretében ár- bel- és
+csapadékvíz károktól megvédett lakosság
+(fő)
+0 90 000 IH évente
+Mag (32) -
+Eredmény
+módosított
+Élőhely helyreállításával, fejlesztésével
+érintett terület (mértékegység: ha)
+0 3500 IH, KSZ évente
+Mag (29) -
+Eredmény
+
+
+
+A humán közszolgáltatások intézmény-rendszerének fejlesztése
+(4. prioritás)
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+módosított
+Fejlesztett nevelési-oktatási feladatellátási
+helyeken ellátott / tanuló gyermekek száma
+(fő)
+0 22000 IH évente Eredmény
+új
+Óvodai nevelésben részesülő gyermekek
+aránya (%)
+85,9
+(2006)
+nem kell
+célértéket
+megadni
+KSH évente Kontextus
+módosított
+Fejlesztett nevelési-oktatási feladatellátási
+helyeken ellátott / tanuló hátrányos helyzetű
+gyermekek száma (fő)
+0 3300 IH évente Eredmény
+új
+A közoktatási intézmények fejlesztéssel
+érintett telephelyeinek száma (db)
+0 100 IH évente output
+új
+Építés, bővítés, felújítás alapterülete az
+egészségügyi fejlesztések esetén (m2)
+0 81 045 IH évente Eredmény
+új
+A szociális fejlesztésekben érintett
+napközbeni ellátásában részesülő
+gyermekek száma (fő)
+0 27000 IH évente eredmény
+új Új szociális alapszolgáltatások száma (db) 0 52 IH évente Eredmény
+
+
+
+A humán közszolgáltatások intézmény-rendszerének fejlesztése
+(4. prioritás)
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+új
+Új, felújított szociális intézmények száma
+(db)
+0 42 IH évente output
+új
+A felsőoktatásban kialakított
+szolgáltatásokat igénybevevők száma (fő)
+0 120 559 IH évente Eredmény
+törölt
+A fejlesztett szociális szolgáltatásokat
+igénybe vevő lakosság száma (fő)
+törölt
+A minimális tudáskritériumoknak eleget
+nem tevő tanulók arányának csökkenése
+azokban az iskolákban ahol ezen tanulók
+aránya több mint 50% (%)
+törölt Létrejövő új munkahelyek száma (fő)
+törölt
+A régió foglalkoztatási rátájának
+emelkedése
+
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Települési területek megújítása (5. prioritás)
+módosított
+A támogatással érintett területen
+telephellyel rendelkező vállalkozások
+számának növekedése (db)
+0 550 IH évente Hatás
+módosított
+Támogatással érintett lakosok száma a
+rehabilitált településrészeken (fő)
+0 350 000 IH évente Eredmény
+módosított
+A támogatott projektek eredményeként elért
+éves energia megtakarítás (TJ)
+
+nem kell
+célértéket
+megadni
+EMIR évente
+horizontális
+(környezeti) -
+eredmény
+új
+Településrehabilitációs beavatkozások által
+érintett terület nagysága /ha/
+0 1 300 IH évente Output
+törölt
+A rehabilitált terület komplex aktivitási
+mutatójának települési átlaghoz való
+közelítése (az átlag százalékában kifejezve)
+
+
+
+indikátor
+státusza
+(új/módosított/
+törölt)
+Indikátorok
+javasolt
+bázisérték
+javasolt
+célérték
+Adatforrás Gyakoriság
+Indikátor
+típusa
+Technikai
+segítségnyújtás
+(VI.)
+változatlan
+Támogatott projektek megvalósulásának
+aránya (%)
+0 100 IH évente Eredmény
+
