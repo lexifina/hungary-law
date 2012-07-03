@@ -26,19 +26,25 @@ b) olyan helyzet, amely a vállalkozásban szerződés, alapító okirat (alapsz
 
 9. Európai mű:
 
-a) amely magyar,
+a) azon mű, amely magyar,
 
-b) amely valamely európai államból származik, és amely egy vagy több európai államban lakóhellyel rendelkező szerzőkkel és munkatársak közreműködésével készült, feltéve, hogy megfelel a következő három feltétel egyikének:
+b) azon mű, amely valamely Európai Uniós tagállamból származik,
 
-ba) az említett államok közül egyben vagy többen letelepedett egy vagy több producer alkotása,
+c) azon mű, amely az 1998. évi XLIX. törvénnyel kihirdetett, a határokat átlépő televíziózásról szóló, Strasbourgban, 1989. május 5-én kelt európai egyezmény részes felének számító európai államból származik,
 
-bb) gyártását az említett államok közül egyben vagy többen letelepedett egy vagy több producer felügyeli, és ténylegesen ellenőrzi,
+d) azon mű, amely valamely Európai Uniós tagállam és valamely Európai Unión kívüli állam műsorkészítőinek együttműködése által jött létre, feltéve, hogy a tagállamból származó társproducerek biztosítják a gyártási összköltség többségét, és hogy a gyártást nem a tagállamokon kívül letelepedett egy vagy több producer ellenőrzi, vagy
 
-bc) az összes koprodukciós költséghez túlnyomó részben az említett államok társproducerei járultak hozzá, és a koprodukciót nem az említett államokon kívül letelepedett egy vagy több producer ellenőrzi,
+e) azon mű, amely az Európai Unió és harmadik országok között az audiovizuális ágazatra vonatkozóan létrejött megállapodás keretében, koprodukcióban készült el, és amely megfelel a vonatkozó megállapodások feltételeinek.
 
-c) amely valamely európai állam és valamely Európán kívüli állam műsorkészítőinek együttműködése által jött létre, feltéve, hogy az európai társproducerek biztosítják a gyártási összköltség többségét, és hogy a gyártást nem a tagállamokon kívül letelepedett egy vagy több producer ellenőrzi, vagy
+A b)–c) pontban említett művek olyan művek, amelyek e pontokban meghatározott egy vagy több államban lakóhellyel rendelkező szerzőkkel és munkatársak közreműködésével készültek, feltéve, hogy a mű megfelel a következő három feltétel egyikének:
 
-d) amely az Európai Unió és valamely Európán kívüli állam között létrejött, audiovizuális művek elkészítésére vonatkozó megállapodás keretében létrejött műsorszám.
+1. az említett államok közül egyben vagy többen letelepedett egy vagy több producer alkotása,
+
+2. gyártását az említett államok közül egyben vagy többen letelepedett egy vagy több producer felügyeli, és ténylegesen ellenőrzi,
+
+3. az összes koprodukciós költséghez túlnyomó részben az említett államok társproducerei járultak hozzá, és a koprodukciót nem az említett államokon kívül letelepedett egy vagy több producer ellenőrzi.
+
+A c) és az e) pontban meghatározott művek abban az esetben tekinthetők európai műnek, ha az érintett, Európai Unión kívüli államban a tagállamokból származó művekre nem vonatkoznak megkülönböztető intézkedések.
 
 10. Felhasználó: az a természetes személy, jogi személy vagy jogi személyiség nélküli gazdasági társaság vagy egyéb szervezet, aki vagy amely használja vagy igényli az elektronikus hírközlési szolgáltatásokat vagy médiaszolgáltatásokat.
 
@@ -116,23 +122,17 @@ d) információk megtalálását elősegítő segédeszközöket biztosít az ig
 
 37. Magyar mű:
 
-a) amely eredetileg teljes egészében magyar nyelven készült,
+a) azon mű, amely eredetileg teljes egészében magyar nyelven készült,
 
-b) amely eredetileg több nyelven készült, de időtartamát tekintve eredeti magyar nyelvű része hosszabb, mint bármelyik másik nyelven készült része,
+b) azon mű, amely eredetileg több nyelven készült, de időtartamát tekintve eredeti magyar nyelvű része hosszabb, mint bármelyik másik nyelven készült része,
 
-c) amely eredetileg valamely, Magyarország által elismert nemzetiség nyelvén készült, ha tárgya az adott nemzetiség magyarországi életével, kultúrájával van összefüggésben,
+c) azon mű, amely eredetileg valamely, Magyarország által elismert nemzetiség nyelvén készült, ha tárgya az adott nemzetiség magyarországi életével, kultúrájával van összefüggésben,
 
-d) amely alapjául magyar irodalmi mű, zenemű szolgált,
+d) az olyan zenei műsorszám, amely magyar nyelven kerül előadásra, vagy amely Magyarország által elismert valamely nemzetiség nyelvén kerül előadásra, ha az adott nemzetiség Magyarországhoz kapcsolódó kultúrájával van összefüggésben,
 
-e) amely olyan zenei műsorszám, amely magyar nyelven kerül előadásra, vagy amely Magyarország által elismert valamely nemzetiség nyelvén kerül előadásra, ha az adott nemzetiség Magyarországhoz kapcsolódó kultúrájával van összefüggésben,
+e) az olyan instrumentális zenei műsorszám, amely – elsősorban szerzője vagy előadója révén – a magyar vagy Magyarország által elismert valamely nemzetiség Magyarországhoz kapcsolódó kultúrájának részét képezi, vagy
 
-f) amely olyan instrumentális zenei műsorszám, amely – elsősorban szerzője révén – a magyar vagy Magyarország által elismert valamely nemzetiség Magyarországhoz kapcsolódó kultúrájának részét képezi,
-
-g) amely olyan zenei mű, amelynek legalább egy szerzője magyar,
-
-h) amely olyan zenei műsorszám, amely magyar előadók közreműködésével készült, vagy
-
-i) amely olyan filmalkotás, amely a mozgóképről szóló törvény értelmében magyarnak minősül.
+f) azon filmalkotás, amely a mozgóképről szóló törvény értelmében magyarnak minősül.
 
 38. Magyar zenei mű: magyar műnek minősülő szöveges vagy instrumentális zenei mű.
 
@@ -161,6 +161,8 @@ i) amely olyan filmalkotás, amely a mozgóképről szóló törvény értelméb
 50. Műsorterjesztés: bármely átviteli rendszerrel megvalósuló elektronikus hírközlési szolgáltatás, amelynek során a médiaszolgáltató által előállított analóg vagy digitális műsorszolgáltatási jeleket a médiaszolgáltatótól az előfizető, vagy felhasználó vevőkészülékéhez továbbítják, függetlenül az alkalmazott átviteli rendszertől, és technológiától. Műsorterjesztésnek minősül különösen a műsorszórás, a műholddal végzett műsorterjesztés, a hibrid üvegszálas-koaxiális átviteli rendszeren végzett műsorterjesztés, emellett a médiaszolgáltatás Internet Protokoll segítségével történő továbbítása valamely átviteli rendszeren, ha a szolgáltatás jellege, illetve feltételei megegyeznek a műsorterjesztéssel, illetve ez helyettesíti a más módon megvalósított műsorterjesztést. Műsorterjesztésnek minősül az olyan műsorterjesztés is, amelyhez az előfizető külön díj ellenében, vagy más elektronikus hírközlési szolgáltatás díjával csomagban értékesített díj ellenében férhet hozzá. A tíznél kevesebb vevőkészülék csatlakoztatására alkalmas átviteli rendszer segítségével történő jeltovábbítás nem minősül műsorterjesztésnek.
 
 51. Műsorterjesztő: a műsorterjesztési szolgáltatást nyújtó, ideértve a digitális műsorszóró hálózat üzemeltetőjét is, ha a műsorterjesztést saját maga végzi. Amennyiben az átviteli hálózatot nem a műsorterjesztő üzemelteti, az előfizetőnek, vagy felhasználónak nyújtott szolgáltatás feltételeit meghatározó, illetve az előfizetővel szerződést kötő szolgáltató minősül műsorterjesztőnek.
+
+51a. Műsorterjesztő átviteli platform: azonos technológiájú jelátvitelt biztosító, jellemzően analóg vagy digitális átviteli rendszer.
 
 52. Országos médiaszolgáltatás: az a médiaszolgáltatás, amelynek vételkörzetében Magyarország lakosságának legalább ötven százaléka él.
 

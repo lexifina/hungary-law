@@ -28,7 +28,7 @@ h) a médiaszolgáltatási lehetőség megnevezését vagy az (1) bekezdés c) p
 
 (3) A kérelmet a benyújtástól számított húsz napon belül kell elbírálni. Amennyiben a kérelem nem felel meg a (2) bekezdésben foglaltaknak, a Médiatanács hiánypótlásra szólítja fel a kérelmezőt. A hiánypótlás teljesítésére a kézbesítéstől számított öt nap áll a kérelmező rendelkezésére. A hiánypótlási határidő jogvesztő, elmulasztása esetén a Médiatanács a kérelmet elutasítja. A Médiatanács a kérelmet érdemi vizsgálat nélkül elutasítja, ha a kérelem benyújtásának napja és a tervezett ideiglenes médiaszolgáltatás kezdőnapja között legalább harminc nap időköz nem telik el.
 
-(4) Ha a médiaszolgáltatási lehetőségre több kérelmet nyújtanak be, akkor a Médiatanács a kérelmeket érkezésük sorrendjében bírálja el. Amennyiben a korábban érkezett kérelem alapján a Médiatanács hatósági szerződést köt, a később érkezett kérelem elbírálására az (5) bekezdésben foglaltakat megfelelően alkalmazni kell, és szükség esetén fel kell szólítani a kérelmezőt a (2) bekezdés e) pont szerinti időpontok módosítására.
+(4) Ha a médiaszolgáltatási lehetőségre több kérelmet nyújtanak be, akkor a Médiatanács a kérelmeket érkezésük sorrendjében bírálja el. Amennyiben a korábban érkezett kérelem alapján a Médiatanács hatósági szerződést köt, a később érkezett kérelem elbírálására az (5) bekezdésben foglaltakat megfelelően alkalmazni kell, és szükség esetén fel kell szólítani a kérelmezőt a (2) bekezdés f) pont szerinti időpontok módosítására.
 
 (5) Ideiglenes hatósági szerződést
 
@@ -46,7 +46,7 @@ b) azonos közigazgatási területen évente három alkalommal lehet kötni. Az 
 
 (10) Amennyiben az audiovizuális médiaszolgáltatási jogosultság 2010. január 1. és a Dtv. 38. § (1) bekezdésben rögzített céldátum között úgy jár le, hogy az a 48. § (5) bekezdés alapján nem újítható meg, a Médiatanács a médiaszolgáltató kérelmére – a jogszabályban az audiovizuális médiaszolgáltatók műsorterjesztése digitális átállásának céldátumára megjelölt határidőig – a médiaszolgáltatási jogosultságra ideiglenes hatósági szerződést köthet.
 
-(11) Amennyiben a rádiós médiaszolgáltatási jogosultság úgy jár le, hogy az a 48. § (5) bekezdés alapján nem újítható meg, és a pályáztatási eljárás során döntés még nem született, a Médiatanács a korábban jogosultsággal rendelkező médiaszolgáltatóval, annak kérelmére, a nyertes pályázóval történő hatósági szerződés megkötése napjáig, de legfeljebb hatvan napos időtartamra ideiglenes hatósági szerződést köthet.
+(11) Amennyiben a lineáris rádiós médiaszolgáltatási jogosultság úgy jár le, hogy a Médiatanács egy alkalommal már megújította, és a médiaszolgáltatási lehetőség pályáztatása már megindult, a Médiatanács a korábban jogosultsággal rendelkező médiaszolgáltatóval, annak kérelmére, legfeljebb hatvan napos időtartamra – több alkalommal is – ideiglenes hatósági szerződést köthet. E bekezdés alapján ideiglenes hatósági szerződést kizárólag a pályázati eljárás – illetve a pályázati eljárás érdemében hozott határozattal vagy a pályázati eljárást megszüntető végzéssel szemben esetlegesen indított bírósági felülvizsgálati eljárás jogerős – lezárásáig lehet kötni. Az ideiglenes hatósági szerződés a pályázati eljárás nyertesével való hatósági szerződés megkötésének napján megszűnik.
 
 (12) A (10)–(11) bekezdés alkalmazása során az (1)–(5) bekezdés, valamint a (9) bekezdés nem alkalmazható.
 

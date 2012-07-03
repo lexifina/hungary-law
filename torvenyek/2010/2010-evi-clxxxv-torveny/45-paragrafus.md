@@ -46,6 +46,6 @@ d) bíróság jogerős határozata elrendelte a médiaszolgáltatás elnevezése
 
 (6) A lekérhető médiaszolgáltatás médiaszolgáltatójának tizenöt napon belül be kell jelentenie a Hivatalhoz, ha a nyilvántartásban szereplő adataiban változás következett be.
 
-(7) Amennyiben a médiaszolgáltató személyében vagy a médiaszolgáltatás (1) bekezdés d) pontban szereplő adataiban változás következik be, az eredeti bejelentést tevő médiaszolgáltatónak kezdeményeznie kell a nyilvántartásban szereplő adatok módosítását. Az erre irányuló eljárásra az (1)–(4) bekezdést megfelelően alkalmazni kell.
+(7) Amennyiben a médiaszolgáltató személyében változás következik be, az eredeti bejelentést tevő médiaszolgáltatónak kezdeményeznie kell a nyilvántartásban szereplő adatok módosítását. Az erre irányuló eljárásra az (1)–(4) bekezdést megfelelően alkalmazni kell.
 
 (8) Amennyiben a nyilvántartásba vételre vonatkozó szabályokat a médiaszolgáltató megsérti, a Hivatal – a 185. § (2) bekezdésben foglalt elvek figyelembevételével – egymillió forintig terjedő bírságot szabhat ki.

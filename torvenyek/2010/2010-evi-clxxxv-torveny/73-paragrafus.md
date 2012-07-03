@@ -10,7 +10,7 @@
 
 (5) A továbbítási kötelezettség az elsődlegesen audiovizuális médiaszolgáltatások nyilvánosság számára történő közvetítésére szolgáló műsorterjesztői hálózaton, átviteli rendszeren nem vonatkozik a rádiós médiaszolgáltatásokra.
 
-(6) Amennyiben a műsorterjesztő több átviteli rendszeren, műsorterjesztői hálózaton is nyújt műsorterjesztési szolgáltatást, az (1)–(4) bekezdés szerinti továbbítási kötelezettség átviteli rendszerenként, műsorterjesztői hálózatonként külön-külön terheli.
+(6) Amennyiben a műsorterjesztő több átviteli rendszeren, műsorterjesztői hálózaton vagy műsorterjesztő átviteli platformon is nyújt műsorterjesztési szolgáltatást, az (1)–(4) bekezdés szerinti továbbítási kötelezettség átviteli rendszerenként, műsorterjesztői hálózatonként, illetve műsorterjesztő átviteli platformonként külön-külön terheli, kivéve, ha a műsorterjesztő több műsorterjesztő átviteli platformot tartalmazó egységes, komplex programcsomagot nyújt. Több műsorterjesztő átviteli platformot tartalmazó egységes, komplex programcsomag nyújtása esetén a műsorterjesztőt a továbbítási kötelezettség programcsomagonként terheli.
 
 (7) Médiapiaci szempontból meghatározó jelentőségűnek minősül a műsorterjesztő (a továbbiakban: meghatározó műsorterjesztő), ha
 

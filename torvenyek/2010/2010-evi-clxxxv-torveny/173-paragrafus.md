@@ -1,4 +1,4 @@
-173. § (1) A Médiatanács bármelyik fél kérelmére tárgyalást tart, melyen a felek és egyéb érdekeltek személyesen vagy képviselőik útján jelen lehetnek, nyilatkozatot és észrevételt tehetnek, a tárgyalás befejezéséig bizonyítékaikat előterjeszthetik. A tárgyalás nem nyilvános.
+173. § (1) A 172. § (8) bekezdés szerinti tárgyaláson a felek és egyéb érdekeltek személyesen vagy képviselőik útján jelen lehetnek, nyilatkozatot és észrevételt tehetnek, a tárgyalás befejezéséig bizonyítékaikat előterjeszthetik. A tárgyalás nem nyilvános.
 
 (2) A tárgyalásra szabályszerűen idézettek, értesítettek távolmaradása a tárgyalás megtartását és az ügy elintézését nem gátolja. Távolmaradását azonban az idézett, értesített alapos okkal előzetesen kimentheti, ez esetben a Médiatanács a tárgyalást elhalaszthatja.
 
@@ -6,7 +6,7 @@
 
 (4) E törvény eltérő rendelkezése hiányában a kérelemben foglaltak tény- és jogalapját a kérelmező köteles hitelt érdemlően bizonyítani.
 
-(5) A Médiatanács az ellenérdekű ügyfelet adatszolgáltatásra, illetve nyilatkozattételre kötelezheti.
+(5) A Médiatanács az ellenérdekű ügyfelet adatszolgáltatásra, illetve nyilatkozattételre hívhatja fel, illetve kötelezheti.
 
 (6) A Médiatanács a folyamatban lévő ügyben kérelemre vagy hivatalból ideiglenes intézkedéseket tehet, amennyiben megállapítható, hogy e törvény szabályainak, különösen alapelveinek megszegése miatt az ideiglenes intézkedés hiányában súlyos, másként el nem hárítható jog-, illetve érdeksérelem következik be, vagy ennek veszélye áll fenn, és az intézkedés miatti hátrány nem haladja meg az intézkedéssel elérhető előnyöket.
 

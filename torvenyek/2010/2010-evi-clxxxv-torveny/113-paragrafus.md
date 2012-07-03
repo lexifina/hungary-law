@@ -6,7 +6,9 @@ b) lemond,
 
 c) meghal,
 
-d) a miniszterelnök a (2) bekezdés szerint felmenti.
+d) a miniszterelnök a (2) bekezdés szerint felmenti,
+
+e) az Országgyűlés a kinevezésétől számítva 30 napon belül – amennyiben olyan időpontban történik a kinevezés, amely az Országgyűlés ülésszakán kívül esik, úgy a következő ülésszak kezdetétől számított 15 napon belül – nem választja meg a Médiatanács elnökévé.
 
 (2) A miniszterelnök felmenti az Elnököt, ha
 
@@ -20,15 +22,17 @@ d) ha neki felróható okból több mint hat hónapon át nem tesz eleget megbí
 
 (3) A megbízatás (1) bekezdés a) vagy b) pont szerinti megszűnése esetén az Elnököt a megszűnéskori havi illetménye kétszeresének megfelelő összegű végkielégítés illeti meg. Ha az Elnök három évnél rövidebb ideig töltötte be tisztségét, úgy a (8) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított hat hónapig áll fenn, és ebben az esetben egyhavi illetménye illeti meg végkielégítésként.
 
-(4) Az elnökhelyettes megbízatása megszűnik, ha
+(4) Az elnökhelyettes megbízatása megszűnik
 
-a) lemond,
+a) lemondással,
 
-b) meghal,
+b) halállal,
 
-c) az Elnök az (5) bekezdés szerint felmenti,
+c) az Elnök általi, az (5) bekezdés szerinti felmentéssel,
 
-d) az Elnök a (6) bekezdés szerint visszahívja.
+d) az Elnök általi, (6) bekezdés szerinti visszahívással,
+
+e) az Elnök és az elnökhelyettes közös megegyezésével.
 
 (5) Az Elnök felmenti az elnökhelyettest, ha
 

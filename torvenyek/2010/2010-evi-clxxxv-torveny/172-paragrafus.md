@@ -6,7 +6,7 @@
 
 (3) Amennyiben a kérelmező a szerződés létrehozását, illetve tartalmának megállapítását kéri a Médiatanácstól, köteles szövegszerűen – egyértelműen és világosan – megjelölni a létrehozni, megállapítani kért szerződéses tartalmat.
 
-(4) A kérelemben bizonyítási indítvány is előterjeszthető, valamint abban nyilatkozni kell arról is, hogy a kérelmező kéri-e tárgyalás tartását.
+(4) A kérelemben bizonyítási indítvány is előterjeszthető.
 
 (5) Amennyiben a jogvitás eljárás megindítása iránti kérelem nem vagy nem megfelelően tartalmazza a (2) bekezdésben foglaltakat, a Médiatanács legfeljebb nyolc napos teljesítési határidővel hiánypótlásra hívja fel a kérelmezőt. Amennyiben a hiánypótlást – határidőben – a kérelmező nem vagy nem megfelelően teljesíti, a Médiatanács a kérelmet tizenöt napon belül érdemi vizsgálat nélkül elutasítja.
 
@@ -14,4 +14,4 @@
 
 (7) A kérelmet a Médiatanács – amennyiben érdemi vizsgálat nélkül nem utasítja el – megküldi az ellenérdekű ügyfélnek, és legfeljebb tíz napos határidő tűzésével felhívja nyilatkozatának és bizonyítékainak előterjesztésére, valamint azok ellenérdekű ügyfél részére történő egyidejű megküldésére.
 
-(8) Az eljárás során a Médiatanács megkísérli egyezség létrehozását a felek között.
+(8) Amennyiben az eljárás során a Médiatanács tárgyalást tart, a tárgyaláson megkísérli egyezség létrehozását a felek között.

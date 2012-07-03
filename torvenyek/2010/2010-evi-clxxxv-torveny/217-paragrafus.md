@@ -1,1 +1,1 @@
-### 217. §
+217. § E törvénynek a médiaszolgáltatásokkal és a sajtótermékekkel összefüggő egyes törvények módosításáról szóló 2012. évi LXVI. törvénnyel megállapított rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.

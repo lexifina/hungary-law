@@ -4,7 +4,7 @@
 
 (2) A médiaszolgáltató ellenszolgáltatásként negyedévenként előre köteles médiaszolgáltatási díjat fizetni. Hálózatba kapcsolódás esetén a hálózatba kapcsolódó médiaszolgáltató médiaszolgáltatási díjának a hálózatos műsoridővel arányos részét a hálózatos médiaszolgáltató fizeti.
 
-(3) A díjfizetés késedelme esetén a Médiatanács a szerződést harminc napos határidővel felmondhatja.
+(3) A díjfizetés késedelme esetén a Médiatanács a szerződést tizenöt napos határidővel felmondhatja.
 
 (4) A díjfizetés késedelme a törvény súlyos megsértésének minősül.
 

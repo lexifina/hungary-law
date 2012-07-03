@@ -2,12 +2,12 @@
 
 (2) A Médiatanács elnöke és tagja a megválasztásával, illetve – ha megválasztására hivatali elődje megbízatásának megszűnését megelőzően kerül sor – hivatali elődje megbízatásának megszűnésekor hivatalba lép.
 
-(3) Ha a Hatóság Elnökének a megbízatása megszűnik, akkor ezzel egyidejűleg megszűnik a Médiatanács elnökségére vonatkozó megbízatása is. Ebben az esetben a Hatóság miniszterelnök által kinevezett új Elnöke a kinevezés tényével és időpontjában a Médiatanács elnökjelöltjévé válik. Megválasztásáról az Országgyűlés jelenlevő képviselőinek kétharmada dönt.
+(3) Ha a Hatóság Elnökének a megbízatása a 113. § (1) bekezdés b)–d) pontok szerint megszűnik, akkor ezzel egyidejűleg megszűnik a Médiatanács elnökségére vonatkozó megbízatása is. Amennyiben a Hatóság Elnökének megbízatása lejár, úgy a 216. § (8) bekezdésben foglaltakat kell alkalmazni. A Hatóság miniszterelnök által kinevezett új Elnöke a kinevezés tényével és időpontjában a Médiatanács elnökjelöltjévé válik. Megválasztásáról – a 124. § (1) bekezdésben foglaltak szerint listás vagy külön szavazással – az Országgyűlés jelenlevő képviselőinek kétharmada dönt.
 
-(4) Ha az Országgyűlés nem választja meg a Hatóság Elnökét a Médiatanács elnökévé, akkor ebben az esetben is a Hatóság Elnöke hívja össze a Médiatanács üléseit, amelyen tanácskozási és ülésvezetési joggal vesz részt, de a döntéshozatalnak nem lesz részese. A Hatóság Elnökének ülésösszehívási és -vezetési joga a miniszterelnök általi kinevezés pillanatától, a Médiatanács teljes jogú elnökévé történő megválasztásáig él.
+(4)
 
 (5) A Médiatanács tagja és elnöke újraválasztható, ha a megbízatása nem összeférhetetlenségi okból, felmentéssel, vagy kizárással szűnt meg.
 
 (6) Az új tag megbízatása a Médiatanács korábban megválasztott tagjai megbízatásának hátralévő idejére szól.
 
-(7) A Médiatanács elnöke megbízatási időtartama a Hatóság elnöki megbízatásának időtartamához kötött.
+(7) A Médiatanács elnöke megbízatási időtartama a Hatóság elnöki megbízatásának időtartamához kötött, kivéve a 216. § (8) bekezdésben meghatározott esetet.

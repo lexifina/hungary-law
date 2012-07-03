@@ -4,7 +4,7 @@
 
 206. § (1) Felhatalmazást kap a Nemzeti Média- és Hírközlési Hatóság Elnöke, hogy
 
-a) a frekvenciadíjakat, az azonosítók lekötéséért és használatáért fizetett díjak, továbbá a hírközlési és postai szolgáltatók felügyeleti díjának mértékét,
+a) a frekvenciadíjakat, az azonosítók lekötéséért és használatáért fizetett díjak, továbbá a hírközlési és postai szolgáltatók felügyeleti díjának mértékét, megfizetésének módját és feltételeit, ellenőrzésének szabályait,
 
 b) a műsorszám kategóriába sorolásával és a közlemények besorolásával kapcsolatos hatósági eljárás igazgatási szolgáltatási díját,
 

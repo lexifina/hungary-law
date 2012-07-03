@@ -8,15 +8,17 @@
 
 (4) A főigazgatót nem lehet utasítani az elsőfokú hatósági határozathozatali joggyakorlása során.
 
-(5) A főigazgató megbízatása megszűnik, ha
+(5) A főigazgató megbízatása megszűnik
 
-a) tisztségéről lemond,
+a) lemondással,
 
-b) meghal,
+b) halállal,
 
-c) az Elnök a (6) bekezdés szerint felmenti,
+c) az Elnök általi, a (6) bekezdés szerinti felmentéssel,
 
-d) az Elnök a (7) bekezdés szerint visszahívja.
+d) az Elnök általi, a (7) bekezdés szerinti visszahívással,
+
+e) az Elnök és a főigazgató közös megegyezésével.
 
 (6) Az Elnök felmenti a főigazgatót, ha
 

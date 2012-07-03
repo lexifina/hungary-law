@@ -1,6 +1,6 @@
 ## A Médiatanács választása
 
-124. § (1) A Médiatanács elnökét és négy tagját az Országgyűlés – a jelenlévő országgyűlési képviselők kétharmadának szavazatával – kilenc évre választja egyidejű, listás szavazással.
+124. § (1) A Médiatanács elnökét és négy tagját az Országgyűlés – a jelenlévő országgyűlési képviselők kétharmadának szavazatával – kilenc évre választja egyidejű, listás szavazással, kivéve, ha az elnök megbízatása a 113. § (1) bekezdés b)–e) pontjában, a tag megbízatása pedig a 129. § (1) bekezdés b)–f) pontjában foglalt valamely okból szűnik meg. Utóbbi esetben az elnök-, illetve a tagjelöltről az Országgyűlés külön szavaz.
 
 (2) A Médiatanács elnöke és tagja olyan személy lehet, aki az országgyűlési képviselők választásán választható, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év műsorterjesztéssel, médiaszolgáltatással, a médiaszolgáltatások hatósági felügyeletével, elektronikus hírközléssel, vagy hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
 

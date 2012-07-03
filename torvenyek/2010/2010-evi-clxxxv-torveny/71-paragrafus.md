@@ -16,7 +16,7 @@ végzésére rendelkezhet jogosultsággal.
 
 (4) A médiaszolgáltató saját jogosultságait és befolyásoló részesedése alatt álló vállalkozások jogosultságait az (1) és (3) bekezdés alkalmazása során egybe kell számítani.
 
-(5) A körzeti és helyi lineáris rádiós médiaszolgáltató vagy annak tulajdonosa a médiaszolgáltatásának vételkörzetébe eső más körzeti vagy helyi lineáris rádiós médiaszolgáltatást végző vállalkozásban – az (5) bekezdésben foglaltak kivételével – befolyásoló részesedést nem szerezhet.
+(5) A körzeti és helyi lineáris rádiós médiaszolgáltató vagy annak tulajdonosa a médiaszolgáltatásának vételkörzetébe eső más körzeti vagy helyi lineáris rádiós médiaszolgáltatást végző vállalkozásban – a (6) bekezdésben foglaltak kivételével – befolyásoló részesedést nem szerezhet, illetve a körzeti és helyi lineáris rádiós médiaszolgáltató vagy annak tulajdonosa a médiaszolgáltatásának vételkörzetébe eső más körzeti vagy helyi lineáris rádiós médiaszolgáltatást nem nyújthat.
 
 (6) Az (5) bekezdésben foglalt korlátozás nem alkalmazható, ha
 
