@@ -1,5 +1,5 @@
 ## 10. Az Állami Népegészségügyi és Tisztiorvosi Szolgálatról, a népegészségügyi szakigazgatási feladatok ellátásáról, valamint a gyógyszerészeti államigazgatási szerv kijelöléséről szóló 323/2010. (XII. 27.) Korm. rendelet módosítása
 
-61. §[^64]
+61. §[^67]
 
-[^64]: A 61–63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: A 61–63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
