@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1952-3-00-00
 | 2012-05-26 | 2012. évi LI. törvény | 1952-3-00-00.95 |
 | 2012-06-29 | 2012. évi LXII. törvény | 1952-3-00-00.96 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 1952-3-00-00.97 |
+| 2012-07-03 | 2012. évi LXVI. törvény | 1952-3-00-00.98 |

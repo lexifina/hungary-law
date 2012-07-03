@@ -8,7 +8,9 @@ c) az ügyvéd, az orvos és más olyan személy, aki hivatásánál fogva titok
 
 d) a jogvitával érintett ügyben lefolytatott közvetítői eljárásban eljárt közvetítő, szakértő;
 
-e) az üzleti titok megtartására köteles személy az olyan kérdésben, amely tekintetében a tanúvallomással titoktartási kötelességét sértené meg.
+e) az üzleti titok megtartására köteles személy az olyan kérdésben, amely tekintetében a tanúvallomással titoktartási kötelességét sértené meg,
+
+f) a médiatartalom-szolgáltató, valamint a vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy, ha a tanúvallomásával a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétét felfedné, az azzal kapcsolatos kérdésben.
 
 (2) Ha a tanú több pertárs közül nem valamennyivel áll a 13. § (2) bekezdésében megjelölt viszonyban, a tanúságtételt a többiekre nézve csak akkor tagadhatja meg, ha a vallomás nem különíthető el.
 
@@ -26,8 +28,10 @@ b) ha a kérdés a közérdekű adatok nyilvánosságára és a közérdekből n
 
 c) ha a per tárgyát annak eldöntése képezi, hogy az érintett adat közérdekű adatnak minősül-e.
 
-(5) Az (1) bekezdés a) és c)–e) pontja esetében a tanút mentességére kihallgatása előtt, illetőleg mihelyt a mentesség kiderül, figyelmeztetni kell. Ennek megtörténtét, valamint a tanúnak a figyelmeztetésre adott válaszát a jegyzőkönyvbe fel kell venni.
+(5) Az (1) bekezdés a) és c)–f) pontja esetében a tanút mentességére kihallgatása előtt, illetőleg mihelyt a mentesség kiderül, figyelmeztetni kell. Ennek megtörténtét, valamint a tanúnak a figyelmeztetésre adott válaszát a jegyzőkönyvbe fel kell venni.
 
 (6) Az (1) bekezdés c)–e) pontjában meghatározott titoktartási kötelezettség az annak alapjául szolgáló viszony megszűnése után is fennmarad.
+
+(6a) Az (1) bekezdés f) pontjában foglalt mentesség az annak alapjául szolgáló jogviszony megszűnése után is fennmarad.
 
 (7) Ha a tanút a jelen § esetében a mentességre való alapos hivatkozása ellenére vallomásra kötelezik, vagy az (5) bekezdésben foglalt rendelkezést nem tartják meg, a tanú vallomása bizonyítékként figyelembe nem vehető.
