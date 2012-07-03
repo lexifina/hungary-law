@@ -14,7 +14,13 @@
 
 a) nem kapott felmentést a minősített adatra vonatkozó titoktartási kötelezettség alól,
 
-b) nyilatkozatával saját magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná.
+b) nyilatkozatával saját magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná, vagy
+
+c) az ügyfél, illetve az ellenérdekű ügyfél médiatartalom-szolgáltató, vagy vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy, és nyilatkozatával a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétét felfedné.
+
+(4a) A (4) bekezdés c) pontjában foglalt mentesség az annak alapjául szolgáló jogviszony megszűnése után is fennmarad.
+
+(4b) Az ügyfelet vagy az ellenérdekű ügyfelet a (4) bekezdés c) pontjára hivatkozása ellenére adatszolgáltatásra kötelező végzés ellen önálló fellebbezésnek van helye.
 
 (5) Az ügyfél vagy képviselője, ha más tudomása ellenére az ügy szempontjából jelentős valótlan tényt állít, illetve ha a (3) bekezdés szerinti kötelező adatszolgáltatás körében a (4) bekezdésben foglalt ok hiányában adatszolgáltatási kötelezettségét nem teljesíti, az ügy eldöntése szempontjából jelentős tényt elhallgat, vagy valótlan adatot szolgáltat, eljárási bírsággal sújtható.
 

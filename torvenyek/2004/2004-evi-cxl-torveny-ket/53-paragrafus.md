@@ -12,9 +12,11 @@ b) védett adatnak minősülő tényről az, aki nem kapott felmentést a titokt
 
 (4) A tanúvallomás megtagadható, ha
 
-a) a tanú az ügyfelek valamelyikének hozzátartozója, vagy
+a) a tanú az ügyfelek valamelyikének hozzátartozója,
 
-b) a tanú vallomásával saját magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná.
+b) a tanú vallomásával saját magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná, vagy
+
+c) a tanú médiatartalom-szolgáltató, vagy vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy, és a tanúvallomásával a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétét felfedné.
 
 (4a) Cselekvőképtelen személyt csak akkor lehet tanúként meghallgatni, ha a vallomásától várható bizonyíték mással nem pótolható. Meghallgatása esetén a hamis tanúzás következményeire való figyelmeztetést a hatóság mellőzi. A meghallgatást csak a tanú törvényes képviselőjének jelenlétében lehet lefolytatni.
 
@@ -27,3 +29,5 @@ b) a tanú vallomásával saját magát vagy hozzátartozóját bűncselekmény 
 (6) Törvényben meghatározott esetek kivételével a diplomáciai mentességben részesülő személy nem köteles tanúvallomást tenni.
 
 (7) Ha a tanú a (2) bekezdés szerinti kötelezettségének a következményekre való figyelmeztetés ellenére nem tesz eleget, eljárási bírsággal sújtható.
+
+(8) A (4) bekezdés c) pontjában foglalt mentesség az annak alapjául szolgáló jogviszony megszűnése után is fennmarad.
