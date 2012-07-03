@@ -1,8 +1,6 @@
 3. § A Magyar Köztársaság Kormánya az Országgyűlés felhatalmazása alapján az Egyezményhez történő csatlakozásról szóló okirat letétbe helyezésekor a következő nyilatkozatokat tette:
 
-a) az Egyezmény 23. és 24. Cikkéhez:
-
-Az Egyezmény 23. és 24. Cikkében foglaltakat a Magyar Köztársaság úgy alkalmazza, hogy a saját állampolgárokkal azonos elbánást az állandó belföldi lakóhelyű hontalan személyek számára biztosítja.
+a)
 
 b) az Egyezmény 28. Cikkéhez:
 
