@@ -10,4 +10,6 @@ a) közterület a tulajdonos személyétől, illetve a tulajdonformától függe
 
 b) nyilvános hely a közterületnek nem tekinthető, mindenki számára nyitva álló hely,
 
-c) helyszínről elmenekültnek minősül az a személy is, aki a szabálysértés helyszínét a rendőrség kiérkezése előtt elhagyja, feltéve, hogy a rendőrség által a szabálysértés helyszínén beszerzett bizonyítékok alapján a személyazonossága és a holléte valószínűsíthető.
+c) helyszínről elmenekültnek minősül az a személy is, aki a szabálysértés helyszínét a rendőrség kiérkezése előtt elhagyja, feltéve, hogy a rendőrség által a szabálysértés helyszínén beszerzett bizonyítékok alapján a személyazonossága és a holléte valószínűsíthető,
+
+d) médiatartalom-szolgáltató a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató.
