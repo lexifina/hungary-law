@@ -12,4 +12,6 @@ a) a tanúvallomás megtagadására jogosult személy az üggyel kapcsolatban me
 
 b) a lefoglalandó dolog a bűncselekmény eszköze,
 
-c) a tanúvallomás megtagadására jogosult személy a lefoglalandó dolgot – a (3) és (4) bekezdésre történt figyelmeztetést követően – önként átadja.
+c) a tanúvallomás megtagadására jogosult személy a lefoglalandó dolgot – a (3) és (4) bekezdésre történt figyelmeztetést követően – önként átadja,
+
+d) a tanúvallomás megtagadásra a 82. § (1) bekezdés d) pontja alapján jogosult személyt a számára információt átadó személy kilétének felfedésére kötelezte a bíróság a 82. § (6) bekezdése alapján.

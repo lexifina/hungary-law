@@ -37,3 +37,45 @@ l) a büntetőügyekben hozott határozatok végrehajtása során a bíróságok
 m) a büntetőeljárás során keletkezett iratokból másolat adását a rendészetért felelős miniszter és a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter egyetértésével kiadott,
 
 n) a büntetőeljárásban alkalmazható sajtóhirdetmény útján történő értesítés szabályait a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
+
+o) a bírósági ügyvitel szabályait,
+
+p) a fogvatartásban lévő terhelt elmeállapota megfigyelésének és az ideiglenes kényszergyógykezelés végrehajtásának szabályait,
+
+q)
+
+r) az ügyészség és a Rendőrség szerveinek az ügyészségi nyomozásban való együttműködése, és az ennek kapcsán felmerült költségek viselése részletes szabályait,
+
+s) a tizennegyedik életévét be nem töltött személy meghallgatására szolgáló rendőrségi helyiség kialakítására vonatkozó szabályokat a rendészetért felelős miniszter egyetértésével kiadott
+
+rendeletben szabályozza.
+
+(3) Felhatalmazást kap a rendészetért felelős miniszter, illetve a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter, hogy az igazságügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza az irányítása alá tartozó nyomozó hatóságok nyomozásának részletes szabályait, köztük a nyomozási cselekmények jegyzőkönyv helyett más módon való rögzítésének szabályait, a büntetőeljárás nyomozási szakaszában a sajtónak adandó tájékoztatás részletes szabályait.
+
+(4) Felhatalmazást kap
+
+a) a honvédelemért felelős miniszter, hogy az érintett miniszterek egyetértésével a katonával szemben elrendelt lakhelyelhagyási tilalom ellenőrzésének szabályait,
+
+b) a fegyveres szervet irányító miniszter, hogy az igazságügyért felelős miniszter egyetértésével a nyomozásra illetékes parancsnokokat, valamint hatáskörüket és a parancsnoki nyomozás részletes szabályait,
+
+c) a rendészetért felelős miniszter, hogy az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai rendszer szabályait, valamint az adatgyűjtés és feldolgozás részletes szabályait
+
+rendeletben megállapítsa.
+
+(5) Felhatalmazást kap
+
+a) a nyomozó hatóság országos parancsnoka (vezetője), hogy a legfőbb ügyésszel együttesen a nyomozással kapcsolatban utasításban,
+
+b) a legfőbb ügyész, hogy a büntetőeljárással összefüggő ügyészi feladatok ellátása során utasításban,
+
+c) az Országos Bírósági Hivatal elnöke, hogy a bírósági eljárással kapcsolatban szabályzatban,
+
+d) az igazságügyért felelős miniszter, hogy a bíróság büntetés-végrehajtási feladataival kapcsolatban rendeletben
+
+az idézésekre, értesítésekre, határozatokra, jegyzőkönyvekre és az eljárás során gyakrabban használt más iratokra nyomtatvány rendszeresítését rendelje el.
+
+(6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszter, a rendészetért felelős miniszter, az igazságügyért felelős miniszter egyetértésével kiadott rendeletben meghatározza a kábítószerfüggőséget gyógyító kezelés, kábítószer-használatot kezelő más ellátás vagy megelőző-felvilágosító szolgáltatás szabályait.
+
+(7) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott rendeletben szabályozza a büntetőeljárásban elrendelt elővezetés végrehajtásával, valamint a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, illetőleg nyomozó hatóság elé állításával felmerült költség megtérítésének részletes szabályait.
+
+(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben szabályozza az irányítása alá tartozó nyomozó hatóságok hatáskörét és illetékességét.

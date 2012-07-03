@@ -9,3 +9,5 @@
 (4) Ahol e törvény gazdálkodó szervezetről rendelkezik, ezen a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § c) pontjában felsoroltakat kell érteni.
 
 (5) Ahol e törvény a jogkövetkezményeket a törvényben meghatározott büntetéshez fűzi, ezen a Btk. Különös Részében meghatározott büntetési tételkeret felső határát kell érteni.
+
+(6) E törvény alkalmazásában médiatartalom-szolgáltató a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató.

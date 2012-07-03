@@ -3,3 +3,5 @@
 (2) A tanú kihallgatására a 290. § (2) és (3) bekezdését megfelelően alkalmazni kell.
 
 (3) Ha megállapítható, hogy a tanú a vallomásában a 82. § (4) bekezdés esetét kivéve magát vagy hozzátartozóját bűncselekmény elkövetésével vádolja, a tanút a 82. § (1) bekezdés b) pontjában meghatározottak szerint ismételten figyelmeztetni kell. A figyelmeztetést, valamint a tanúnak a figyelmeztetésre adott válaszát jegyzőkönyvbe kell venni.
+
+(4) A tanúvallomást a 82. § (1) bekezdés d) pontja alapján megtagadó személynek a számára információt átadó személy kilétének felfedésére a 82. § (6) bekezdése alapján történt kötelezése ellen bejelentett fellebbezés halasztó hatályú.
