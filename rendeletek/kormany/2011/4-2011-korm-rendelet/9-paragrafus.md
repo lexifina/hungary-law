@@ -10,13 +10,13 @@
 
 a) a fejlesztéspolitikáért felelős miniszter,
 
-b)[^36] a miniszter,
+b)[^37] a miniszter,
 
 c) az államháztartásért felelős miniszter,
 
 d) az NFÜ,
 
-e)[^37] regionális program esetében az érintett regionális területfejlesztési konzultációs fórum, és
+e)[^38] regionális program esetében az érintett regionális területfejlesztési konzultációs fórum, és
 
 f) a társadalmi, a gazdasági, a civil és a szakmai szervezetek.
 
@@ -30,15 +30,15 @@ c) az igazoló hatóság, az ellenőrzési hatóság és a központi harmonizác
 
 d) a közreműködő szervezet és a forráskezelő szervezet,
 
-e)[^38] az érintett miniszter.
+e)[^39] az érintett miniszter.
 
 (5) A monitoring bizottság ellátja az 1083/2006/EK tanácsi rendelet 65. cikkében meghatározott feladatokat, és megtárgyalja az akciótervet.
 
-(6)[^39]
+(6)[^40]
 
 (7) A monitoring bizottság működésének részletes szabályait ügyrendjében állapítja meg.
 
-[^36]: A 9. § (3) bekezdés b) pontja a 25/2012. (II. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^37]: A 9. § (3) bekezdés e) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 6. pontja szerint módosított szöveg.
-[^38]: A 9. § (4) bekezdés e) pontját a 25/2012. (II. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^39]: A 9. § (6) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 4. pontja hatályon kívül helyezte.
+[^37]: A 9. § (3) bekezdés b) pontja a 25/2012. (II. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^38]: A 9. § (3) bekezdés e) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 6. pontja szerint módosított szöveg.
+[^39]: A 9. § (4) bekezdés e) pontját a 25/2012. (II. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^40]: A 9. § (6) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 4. pontja hatályon kívül helyezte.

@@ -4,7 +4,7 @@
 
 ## 15. Tervezés, programozás
 
-20. § (1)[^62] Az alapok támogatásait a forrásgazdának a miniszterrel egyeztetve kell megterveznie.
+20. § (1)[^64] Az alapok támogatásait a forrásgazdának a miniszterrel egyeztetve kell megterveznie.
 
 (2) Az alapok támogatásaival megvalósuló programokra tervezett európai uniós forrást és a kapcsolódó nemzeti társfinanszírozást ugyanazon az előirányzaton kell megjeleníteni.
 
@@ -26,4 +26,4 @@ e) az európai uniós forrásokat, továbbá más bevételként és kiadásként
 
 (6) A végső egyenleg átutalásából származó forrást a központi költségvetés fő bevételei fejezetben, bevételként kell megtervezni és elszámolni.
 
-[^62]: A 20. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^64]: A 20. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 5. pontja szerint módosított szöveg.

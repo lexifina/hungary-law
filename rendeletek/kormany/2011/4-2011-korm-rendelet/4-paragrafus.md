@@ -1,3 +1,13 @@
-4. § (1) A 3. § b)–f) pontja szerinti esetben a Kormány egyedi ügyben hozott nyilvános határozattal dönt.
+## 3. § A Kormány dönt a fejlesztéspolitikai tevékenység irányítási, finanszírozási, intézményi és szabályozási rendszerének kialakításáról.
 
-(2) A 3. § e) és f) pontja alapján kiadott határozat legalább a projekt megnevezését, a kapcsolódó operatív program megjelölését, a támogatást igénylő nevét, a támogatás összegét és a projekt rövid bemutatását, – feltételhez kötött támogatás esetén – a támogathatóság feltételeit tartalmazza.
+## 4. § A Nemzeti Fejlesztési Kormánybizottság külön jogszabályban meghatározottak szerint
+
+a) dönt az operatív programok tartalmára és azok módosítására vonatkozóan az Európai Bizottság számára benyújtandó javaslatokról,
+
+b) elfogadja a nagyprojektekre vonatkozóan az Európai Bizottság számára benyújtandó javaslatokat,
+
+c) dönt az akciótervről és annak módosításáról
+
+d) dönt a kiemelt projektek nevesítéséről,
+
+e) dönt az egymilliárd forintot meghaladó támogatási igényű projektjavaslatokról.

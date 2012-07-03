@@ -1,4 +1,4 @@
-40. §[^124] (1) Az NFÜ a közbeszerzési dokumentumok beérkezésétől számított 7 napon belül elvégzi a közbeszerzési dokumentumok közbeszerzési-jogi minőségellenőrzését, valamint – indokolt esetben – a közbeszerzési műszaki minőségellenőrzését, és az erről készített minőségellenőrzési jelentését a támogatást igénylő, illetve a kedvezményezett részére megküldi. Az NFÜ a határidőt – az indokok megjelölésével egyidejűleg – legfeljebb 7 nappal meghosszabbíthatja.
+40. §[^127] (1) Az NFÜ a közbeszerzési dokumentumok beérkezésétől számított 7 napon belül elvégzi a közbeszerzési dokumentumok közbeszerzési-jogi minőségellenőrzését, valamint – indokolt esetben – a közbeszerzési műszaki minőségellenőrzését, és az erről készített minőségellenőrzési jelentését a támogatást igénylő, illetve a kedvezményezett részére megküldi. Az NFÜ a határidőt – az indokok megjelölésével egyidejűleg – legfeljebb 7 nappal meghosszabbíthatja.
 
 (2) A támogatást igénylő, illetve a kedvezményezett a minőségellenőrzési jelentés alapján módosított közbeszerzési dokumentumokat – a minőségellenőrzési jelentésben foglaltakkal egyet nem értése esetén a részletes írásbeli indokolással együtt – a minőségellenőrzési jelentés közlésétől számított 5 napon belül az NFÜ részére megküldi.
 
@@ -6,4 +6,4 @@
 
 (4) A támogatást igénylő, illetve a kedvezményezett a közbeszerzési dokumentumokat a közbeszerzési minőségellenőrzési tanúsítvány és a 39/B. § (5) bekezdése szerinti nyilatkozat figyelembevételével véglegesíti.
 
-[^124]: A 40. § a 25/2012. (II. 29.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^127]: A 40. § a 25/2012. (II. 29.) Korm. rendelet 29. §-ával megállapított szöveg.

@@ -4,7 +4,7 @@
 
 a) javaslatot tesz az operatív program tartalmára, és kezdeményezi annak módosítását,
 
-b) javaslatot tesz az akcióterv tartalmára, és – a 3. § d) pont da) és db) alpontja szerinti esetben az érintett miniszter véleményének kikérésével – kezdeményezi annak módosítását,
+b)[^31] javaslatot tesz az akcióterv tartalmára, és kezdeményezi annak módosítását,
 
 c) javaslatot tesz – az érintett miniszter véleményének kikérésével – a kiemelt projektek azonosítására, véleményezi a más szervezetek által javasolt kiemelt projektekre vonatkozó javaslatot, kiadja a kiemelt projektek befogadási kritériumaként meghatározott támogató nyilatkozatot, kivéve, ha a projektjavaslatot a miniszter nyújtja be,
 
@@ -16,9 +16,10 @@ f) szakmai szempontból nyomon követi a feladatkörébe tartozó pályázati fe
 
 g) felel – az érintett miniszter véleményének kikérésével – a támogatási konstrukciók szakmai tartalmának előkészítéséért, melynek keretében biztosítja, hogy a szakmai tartalom illeszkedjen a Kormány stratégai céljaihoz és a kormányzati programhoz.
 
-(2)[^31]
+(2)[^32]
 
 (3) A technikai segítségnyújtás projektjei esetében az (1) bekezdés szerinti feladatokat a fejlesztéspolitikáért felelős miniszter látja el.
 
 [^30]: A 6. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^31]: A 6. § (2) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 2. pontja hatályon kívül helyezte.
+[^31]: A 6. § (1) bekezdés b) pontja a 141/2012. (VII. 2.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^32]: A 6. § (2) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 2. pontja hatályon kívül helyezte.

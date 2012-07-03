@@ -4,7 +4,7 @@
 
 ## 45. Szervezeti kijelölések
 
-115. § (1)[^182] A Kormány a Gazdaságfejlesztési Operatív Program 4. Pénzügyi eszközök prioritásának, valamint a Közép-magyarországi Operatív Program KKV-k pénzügyi eszközökhöz való hozzáférésének fejlesztése intézkedésének végrehajtása érdekében forráskezelő szervezetként a Magyar Vállalkozásfinanszírozási Zártkörűen Működő Részvénytársaságot kizárólagos joggal kijelöli.
+115. § (1)[^186] A Kormány a Gazdaságfejlesztési Operatív Program 4. Pénzügyi eszközök prioritásának, valamint a Közép-magyarországi Operatív Program KKV-k pénzügyi eszközökhöz való hozzáférésének fejlesztése intézkedésének végrehajtása érdekében forráskezelő szervezetként a Magyar Vállalkozásfinanszírozási Zártkörűen Működő Részvénytársaságot kizárólagos joggal kijelöli.
 
 (2) A Kormány a Regionális Operatív Programok Akcióterveiben nevesített Regionális Tőkebefektetési Alap komponensek vonatkozásában alapkezelő szervezetként a Regionális Tőkealap-kezelő Zártkörűen Működő Részvénytársaságot kizárólagos joggal kijelöli.
 
@@ -14,4 +14,4 @@
 
 (5) A Közép-dunántúli Operatív Program 2007–2008-as Akcióterve keretében a 2. Regionális turizmusfejlesztés és 3. Fenntartható településfejlesztés prioritások esetében a közreműködő szervezeti feladatokat a Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft., valamint a VÁTI Nonprofit Kft. látja el. A feladatmegosztás és feladatátadás részleteit a Közép-dunántúli Regionális Fejlesztési Ügynökség, a VÁTI Nonprofit Kft. és a Nemzeti Fejlesztési Ügynökség között létrejövő háromoldalú megállapodásban kell rögzíteni.
 
-[^182]: A 115. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 43. pontja szerint módosított szöveg.
+[^186]: A 115. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 43. pontja szerint módosított szöveg.

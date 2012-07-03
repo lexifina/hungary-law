@@ -1,4 +1,4 @@
-25. §[^76] (1) Döntés-előkészítő bizottság összehívása esetén az NFÜ 27. § (1) bekezdésében meghatározott döntési határideje 10 nappal meghosszabbodik.
+25. §[^78] (1) Döntés-előkészítő bizottság összehívása esetén az NFÜ 27. § (1) bekezdésében meghatározott döntési határideje 10 nappal meghosszabbodik.
 
 (2) A döntés-előkészítés folyamatát elektronikus formában dokumentálni kell.
 
@@ -14,4 +14,4 @@
 
 (8) Ha a támogatást igénylő pályázatában valótlan adatot közölt, vagy valótlan tartalmú nyilatkozatot tett – a nyilvánvaló adminisztrációs hiba esetét kivéve – a projektjavaslat nem támogatható.
 
-[^76]: A 25. § a 25/2012. (II. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^78]: A 25. § a 25/2012. (II. 29.) Korm. rendelet 15. §-ával megállapított szöveg.

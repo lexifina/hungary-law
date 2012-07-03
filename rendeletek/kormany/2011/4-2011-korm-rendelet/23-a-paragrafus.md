@@ -1,6 +1,6 @@
 ## 18. A támogatási kérelem elbírálása
 
-23/A. §[^74] (1) A közreműködő szervezet megvizsgálja, hogy a projektjavaslat megfelel-e a felhívásban meghatározott és a következő befogadási kritériumoknak:
+23/A. §[^76] (1) A közreműködő szervezet megvizsgálja, hogy a projektjavaslat megfelel-e a felhívásban meghatározott és a következő befogadási kritériumoknak:
 
 a) a projektjavaslat a benyújtási határidőn belül került benyújtásra,
 
@@ -28,4 +28,4 @@ b) a kifogás benyújtásának lehetőségét és módját.
 
 (9) A befogadási kritériumokat nem teljesítő projektjavaslat esetén hiánypótlásnak nincs helye.
 
-[^74]: A 23/A. §-t a 25/2012. (II. 29.) Korm. rendelet 14. §-a iktatta be.
+[^76]: A 23/A. §-t a 25/2012. (II. 29.) Korm. rendelet 14. §-a iktatta be.

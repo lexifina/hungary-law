@@ -1,4 +1,4 @@
-## 20/B. [^93] A többletkötelezettség-vállalási minimum szintek és a többletkötelezettség-vállalás mértékének megállapítására vonatkozó alapelvek
+## 20/B. [^96] A többletkötelezettség-vállalási minimum szintek és a többletkötelezettség-vállalás mértékének megállapítására vonatkozó alapelvek
 
 29/B. § (1) Az egyes prioritásokra a prioritásokban támogatott projektek átlagos mérete alapján kötelezettségvállalási minimum szinteket kell meghatározni. Az alábbi kötelezettség-vállalási minimumszintek alatt az NFÜ többletkötelezettség-vállalási igényt nem nyújthat be:
 
@@ -38,4 +38,4 @@ c) 1 milliárd Ft átlagos projekt méret felett a prioritás teljes keretének 
 
 (13) A többletkötelezettség-vállaláson belül az európai uniós és a nemzeti társfinanszírozás arányát úgy kell meghatározni, hogy megvalósuljon a 100%-os abszorpció az Európai Bizottság által előírt hazai társfinanszírozás minimális szinten tartása mellett. Emellett törekedni kell arra, hogy a programozási időszak végére az Európai Bizottság által elvárt prioritásonkénti 85–15% arány teljesüljön.
 
-[^93]: A 20/B. alcímet (29/B. §) a 25/2012. (II. 29.) Korm. rendelet 18. §-a iktatta be.
+[^96]: A 20/B. alcímet (29/B. §) a 25/2012. (II. 29.) Korm. rendelet 18. §-a iktatta be.

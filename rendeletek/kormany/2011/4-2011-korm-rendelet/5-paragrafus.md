@@ -14,18 +14,18 @@ e) irányítja az NFÜ-t, és elbírálja a döntései ellen benyújtott jogorvo
 
 f) gondoskodik az állami támogatások versenyszempontú ellenőrzésének koordinálásáról, különös tekintettel az európai uniós jogi aktusok állami támogatási rendelkezéseinek való megfelelés biztosítására, valamint az Európai Bizottsággal való együttműködésre,
 
-g)[^25] előterjesztést nyújt be a Kormány részére a 3. §-ban meghatározott feladatokkal kapcsolatban,
+g)[^25] javaslatot nyújt be a Nemzeti Fejlesztési Kormánybizottság részére a 4. §-ban meghatározott feladatokkal kapcsolatban,
 
-h)[^26] a miniszterrel egyetértésben dönt az akcióterv módosításáról a 3. § d) pont da) alpontja szerinti esetben és erről az NFÜ útján értesíti az államháztartásért felelős minisztert,
+h)[^26]
 
-i)[^27] a miniszterrel egyetértésben az előkészítettség fokára figyelemmel dönt a tartalék támogatási konstrukció aktiválásáról és erről az NFÜ útján értesíti az államháztartásért felelős minisztert,
+i)[^27]
 
 j)[^28] felügyeli a pályázati felhívás előkészítésének folyamatát, jóváhagyja a pályázati felhívásokat,
 
 k)[^29] döntés-előkészítő bizottság összehívása esetén tagot delegálhat a döntés-előkészítő bizottságba.
 
-[^25]: Az 5. § g) pontja a 25/2012. (II. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^26]: Az 5. § h) pontját a 153/2011. (VIII. 10.) Korm. rendelet 3. §-a iktatta be, szövege a 25/2012. (II. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^27]: Az 5. § i) pontját a 25/2012. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^25]: Az 5. § g) pontja a 141/2012. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^26]: Az 5. § h) pontját a 153/2011. (VIII. 10.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 141/2012. (VII. 2.) Korm. rendelet 6. §-a.
+[^27]: Az 5. § i) pontját a 25/2012. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 141/2012. (VII. 2.) Korm. rendelet 6. §-a.
 [^28]: Az 5. § j) pontját a 25/2012. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^29]: Az 5. § k) pontját a 25/2012. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
