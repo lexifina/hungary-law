@@ -12,11 +12,13 @@
 
 (6)[^19] A vízjogi létesítési engedély az abban meghatározott jogok gyakorlása és kötelezettségek teljesítése mellett feljogosít az engedélyben meghatározott vízimunka elvégzésére, vízilétesítmény megépítésére, de a vízhasználat gyakorlásához, illetve a vízilétesítmény használatbavételéhez, üzemeltetéséhez szükséges vízjogi üzemeltetési engedély, vagy a jogszabály szerint szükséges egyéb hatósági engedély megszerzésének kötelezettsége alól nem mentesít.
 
-(7)[^20] A létesítési engedély – a vízgazdálkodási szempontokra figyelemmel – az abban meghatározott ideig hatályos. A hatály az engedély módosítására vonatkozó szabályok szerint meghosszabbítható.
+(7)[^20] A létesítési engedély – a vízgazdálkodási szempontokra figyelemmel – az abban meghatározott ideig hatályos. A hatály az engedély módosítására vonatkozó szabályok szerint, valamint a (7a) bekezdésben foglalt eltérések figyelembevételével meghosszabbítható.
 
-(8)[^21] A (6) bekezdés szerint meghatározott jog gyakorlásához fűződő kötelezettségek teljesítése körében, az engedélyezett létesítmény céljára és vízgazdálkodási, környezetvédelmi rendeltetésére figyelemmel a vízügyi hatóság a létesítési engedélyben rendelkezik a próbaüzemeltetésről.
+(7a)[^21] Ha a vízjogi létesítési engedély időbeli hatályának meghosszabbítására irányuló kérelem közműveket érint és a műszaki tervdokumentáció tartalma változatlan, a közmű kezelője (üzemeltetője) tizenöt napon belül adja meg nyilatkozatát, illetve hozzájárulását. Ha a közmű kezelője (üzemeltetője) a megkeresés beérkezésétől számított 15 napon belül nem nyilatkozik, a közmű kezelőjének (üzemeltetőjének) nyilatkozatát a megkeresésben foglalt tartalommal megadottnak kell tekinteni.
 
-(9)[^22] Próbaüzemeltetést kell végezni
+(8)[^22] A (6) bekezdés szerint meghatározott jog gyakorlásához fűződő kötelezettségek teljesítése körében, az engedélyezett létesítmény céljára és vízgazdálkodási, környezetvédelmi rendeltetésére figyelemmel a vízügyi hatóság a létesítési engedélyben rendelkezik a próbaüzemeltetésről.
+
+(9)[^23] Próbaüzemeltetést kell végezni
 
 a) a közműves vízellátást szolgáló vízkezelő létesítményeknél, továbbá
 
@@ -24,13 +26,13 @@ b) a közműves szennyvíztisztítást, valamint az egyesített vagy elválaszt�
 
 c) az a) és b) pontban meghatározott létesítményeken túl minden olyan egyéb esetben, amikor a műtárgy, berendezés vagy komplex létesítmény rendeltetésszerű – a jogszabályoknak és a hatósági előírásoknak megfelelő – használhatósága, üzemeltetése, próbaüzem nélkül nem állapítható meg.
 
-(10)[^23] Próbaüzemeltetést lehet végezni – a (9) bekezdésben érintett esetek mellett –, ha azt a vízügyi hatóság kérelemre engedélyezte.
+(10)[^24] Próbaüzemeltetést lehet végezni – a (9) bekezdésben érintett esetek mellett –, ha azt a vízügyi hatóság kérelemre engedélyezte.
 
-(11)[^24] A próbaüzemeltetés időtartamát – amely nem hosszabbítható meg – a kötelező szabványokra, illetve a rendeltetésszerű használhatóság megállapításához szükséges adatokra, egyéb műszaki szempontokra, szakhatósági állásfoglalásokra figyelemmel kell meghatározni.
+(11)[^25] A próbaüzemeltetés időtartamát – amely nem hosszabbítható meg – a kötelező szabványokra, illetve a rendeltetésszerű használhatóság megállapításához szükséges adatokra, egyéb műszaki szempontokra, szakhatósági állásfoglalásokra figyelemmel kell meghatározni.
 
-(12)[^25] A felügyelőség engedélye szükséges – a külön jogszabály szerinti építőipari műszaki engedéllyel, vagy CE megfelelőségi jelöléssel rendelkező szennyvízkezelő berendezések kivételével – a szennyvíz és a csapadékvíz tisztításához, előtisztításához és elhelyezéséhez szükséges berendezés létesítéséhez, a használatbavételéhez, üzemeltetéséhez. A felügyelőségtől elvi vízjogi engedély kérhető a létesítmény tervezését megelőzően.
+(12)[^26] A felügyelőség engedélye szükséges – a külön jogszabály szerinti építőipari műszaki engedéllyel, vagy CE megfelelőségi jelöléssel rendelkező szennyvízkezelő berendezések kivételével – a szennyvíz és a csapadékvíz tisztításához, előtisztításához és elhelyezéséhez szükséges berendezés létesítéséhez, a használatbavételéhez, üzemeltetéséhez. A felügyelőségtől elvi vízjogi engedély kérhető a létesítmény tervezését megelőzően.
 
-(13)[^26] A (12) bekezdésben meghatározott hatáskör gyakorlása során e rendeletnek a vízjogi engedélyezési eljárásra, a hatósági engedély nélkül, vagy attól eltérően végzett létesítésre és üzemeltetésre, a vízjogi kötelezettség megállapítására, valamint a vízügyi felügyeletre vonatkozó rendelkezések szerint, azok megfelelő alkalmazásával kell eljárni.
+(13)[^27] A (12) bekezdésben meghatározott hatáskör gyakorlása során e rendeletnek a vízjogi engedélyezési eljárásra, a hatósági engedély nélkül, vagy attól eltérően végzett létesítésre és üzemeltetésre, a vízjogi kötelezettség megállapítására, valamint a vízügyi felügyeletre vonatkozó rendelkezések szerint, azok megfelelő alkalmazásával kell eljárni.
 
 [^12]: A 3. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 84–85. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^13]: A 3. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -40,10 +42,11 @@ c) az a) és b) pontban meghatározott létesítményeken túl minden olyan egy�
 [^17]: A 3. § eredeti (4) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (5) bekezdésre változtatta.
 [^18]: 1995. évi LVII. törvény 14. § (4) bek.
 [^19]: A 3. § eredeti (5) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (6) bekezdésre változtatta.
-[^20]: A 3. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése, szövege a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^21]: A 3. § (8) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
-[^22]: A 3. § (9) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
-[^23]: A 3. § (10) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
-[^24]: A 3. § (11) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
-[^25]: A 3. § (12) bekezdését a 205/2001. (X. 26.) Korm. rendelet 10. §-ának (1) bekezdése iktatta be, szövege a 377/2007. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^26]: A 3. § (13) bekezdését a 205/2001. (X. 26.) Korm. rendelet 10. §-ának (1) bekezdése iktatta a szövegbe.
+[^20]: A 3. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése, szövege a 123/2012. (VI. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^21]: A 3. § (7a) bekezdését a 123/2012. (VI. 26.) Korm. rendelet 2. §-a iktatta be.
+[^22]: A 3. § (8) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
+[^23]: A 3. § (9) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
+[^24]: A 3. § (10) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
+[^25]: A 3. § (11) bekezdését a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (2) bekezdése iktatta a szövegbe.
+[^26]: A 3. § (12) bekezdését a 205/2001. (X. 26.) Korm. rendelet 10. §-ának (1) bekezdése iktatta be, szövege a 377/2007. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^27]: A 3. § (13) bekezdését a 205/2001. (X. 26.) Korm. rendelet 10. §-ának (1) bekezdése iktatta a szövegbe.
