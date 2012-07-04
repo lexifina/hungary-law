@@ -2,7 +2,7 @@
 
 ## 4. § Nem szükséges engedély, ha
 
-a) haditechnikai eszközt az Országgyűlés vagy a Kormány által jóváhagyott csapatmozgás, továbbá hatályos nemzetközi szerződésben kifejezetten engedélyezett kötelezettségek keretében szállítanak át a Magyar Köztársaság területén,
+a)[^9] haditechnikai eszközt az Országgyűlés vagy a Kormány által jóváhagyott csapatmozgás, továbbá hatályos nemzetközi szerződésben kifejezetten engedélyezett kötelezettségek keretében szállítanak át Magyarország területén,
 
 b) a szállítást – kötelezettségei teljesítéséhez – az Európai Unió, a NATO, vagy a Nemzetközi Atomenergia Ügynökség végzi,
 
@@ -16,4 +16,7 @@ cc) külföldön történt katasztrófa vagy egyéb vészhelyzet esetében
 
 nyújtott humanitárius segítségnyújtáshoz, vagy adományhoz kapcsolódik, vagy
 
-d) haditechnikai eszközt fegyveres testületek közös gyakorlat, bemutató céljából szállítanak át a Magyar Köztársaság határán.
+d)[^10] haditechnikai eszközt fegyveres testületek közös gyakorlat, bemutató céljából szállítanak át Magyarország határán.
+
+[^9]: A 4. § a) pontja a 144/2012. (VII. 3.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^10]: A 4. § d) pontja a 144/2012. (VII. 3.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
 ## Az engedélykérelmek elbírálásakor alkalmazandó egységes magatartási kritériumok
 
-## 1. Első kritérium: a tagországok nemzetközi kötelezettségeinek és kötelezettségvállalásainak tiszteletben tartása.
+## 1.[^13] Első kritérium: a tagországok nemzetközi kötelezettségeinek és kötelezettségvállalásainak tiszteletben tartása.
 
-## A kiviteli engedély iránti kérelmet el kell utasítani, ha az engedély megadása összeegyeztethetetlen a Magyar Köztársaságnak:
+## A kiviteli engedély iránti kérelmet el kell utasítani, ha az engedély megadása összeegyeztethetetlen Magyarországnak:
 
 ## a) az Egyesült Nemzetek Szervezete, az Európai Unió, valamint az Európai Biztonsági és Együttműködési Szervezet által hozott fegyverembargók végrehajtására vonatkozó nemzetközi kötelezettségeivel és kötelezettségvállalásaival;
 
@@ -81,3 +81,5 @@
 ## A kiviteli engedély iránti kérelem elbírálásakor a hatóság figyelembe veszi – a megfelelő forrásokból, úgymint az ENSZ Fejlesztési Programjától (UNDP), a Világbanktól (World Bank), a Nemzetközi Valutaalaptól (IMF) és a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) jelentéseiből származó információkra is figyelemmel – azt, hogy a tervezett export nem hátráltatná-e súlyosan a fenntartható fejlődést a fogadó országban. Ebben az összefüggésben mérlegeli a fogadó ország katonai és szociális kiadásainak relatív szintjét, figyelembe véve bármilyen európai uniós vagy kétoldalú támogatást is.
 
 3. melléklet a 160/2011. (VIII. 18.) Korm. rendelethez
+
+[^13]: A 2. melléklet 1. pontja a 144/2012. (VII. 3.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.

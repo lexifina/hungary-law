@@ -4,9 +4,9 @@
 
 8. § (1) Nem engedélyezhető olyan kereskedelmi ügylet, amely
 
-a) ellentétes a Magyar Köztársaság nemzetközileg vállalt kötelezettségeivel,
+a)[^11] ellentétes Magyarország nemzetközileg vállalt kötelezettségeivel,
 
-b) ellentétes a Magyar Köztársaság nemzetgazdasági érdekeivel,
+b)[^12] ellentétes Magyarország nemzetgazdasági érdekeivel,
 
 c) nemzetbiztonsági érdeket sért,
 
@@ -19,3 +19,6 @@ e) ellentétes a 2. mellékletben meghatározott kritériumokkal.
 (3) Az (1) bekezdés c) és d) pontjában meghatározott esetekben a Hatóság döntésében az indokolást mellőzi.
 
 (4) A Hatóság az (1) bekezdés e) pontja alapján elutasított kérelemben foglalt adatokról, az elutasítás indokolásával együtt értesíti az Európai Unió tagállamainak illetékes hatóságait.
+
+[^11]: A 8. § (1) bekezdés a) pontja a 144/2012. (VII. 3.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^12]: A 8. § (1) bekezdés b) pontja a 144/2012. (VII. 3.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
