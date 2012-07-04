@@ -22,7 +22,7 @@ d) az iparügyekért felelős miniszter
 
 da) a kölcsönös elismerés elvére vonatkozó általános tájékoztatást, valamint
 
-db) a 764/2008/EK rendeletnek a Magyar Köztársaságban történő alkalmazására vonatkozó általános tájékoztatást.
+db)[^4] a 764/2008/EK rendeletnek a Magyarországon történő alkalmazására vonatkozó általános tájékoztatást.
 
 (3) A (2) bekezdés a) pontjában előírt tájékoztatás adattartalmát a 6. melléklet határozza meg.
 
@@ -41,3 +41,5 @@ c) c) és d) pontja szerinti tájékoztatások tartalmában bekövetkező válto
 (6) Az eljárás elektronikus levél útján történik.
 
 (7) Az adatbázis nyilvános, azt a termékinformációs kapcsolattartó pont honlapján magyar és angol nyelven, bárki által hozzáférhető és kereshető módon közzé kell tenni.
+
+[^4]: A 19. § (2) bekezdés d) pont db) alpontja a 144/2012. (VII. 3.) Korm. rendelet 8. §-a szerint módosított szöveg.

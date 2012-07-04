@@ -1,3 +1,3 @@
-## 24. §[^4]
+## 24. §[^5]
 
-[^4]: A 24. § és az azt megelőző alcím e rendelet 26. § (1) bekezdése alapján hatályát vesztette.
+[^5]: A 24. § és az azt megelőző alcím e rendelet 26. § (1) bekezdése alapján hatályát vesztette.
