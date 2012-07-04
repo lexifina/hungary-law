@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-79-30-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-07-03 | 2012-79-30-63.1 | 79/2012. (VII. 2.) ME határozat |
+| 2012-07-04 | 2012-79-30-63.2 | Nemzeti Jogszabálytár (egységes szerkezet) |

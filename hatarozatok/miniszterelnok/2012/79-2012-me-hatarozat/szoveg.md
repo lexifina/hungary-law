@@ -164,6 +164,8 @@ magyar tagozata elnökévé kinevezem.
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. E határozat hatálybalépésével egyidejűleg hatályát veszti a Magyar–Orosz Gazdasági Együttműködési Vegyes Bizottság magyar tagozata elnökének felmentéséről, valamint új elnökének kinevezéséről szóló 59/2010. (VII. 9.) ME határozat, az egyes kétoldalú gazdasági együttműködési kormányközi bizottságok, valamint a tartományi szintű vegyesbizottságok magyar tagozati elnökeinek felmentéséről és kinevezéséről szóló 86/2010. (IX. 15.) ME határozat, valamint a Magyar–Kínai Gazdasági Vegyes Bizottság magyar tagozata elnökének felmentéséről és új elnökének kinevezéséről szóló 106/2010. (XI. 25.) ME határozat.
+3.[^1]
 
 4. A határozat 3. pontja a határozat hatálybalépését követő napon hatályát veszti. Ez a pont a határozat hatálybalépését követő második napon hatályát veszti.
+
+[^1]: A 3. pontot a 4. pont hatályon kívül helyezte.
