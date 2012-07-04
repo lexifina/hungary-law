@@ -1,3 +1,3 @@
-2. számú melléklet a 213/1996. (XII. 23.) Korm. rendelethez[^67]
+2. számú melléklet a 213/1996. (XII. 23.) Korm. rendelethez[^68]
 
-[^67]: A 2. számú mellékletet a 20/2007. (II. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
+[^68]: A 2. számú mellékletet a 20/2007. (II. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
