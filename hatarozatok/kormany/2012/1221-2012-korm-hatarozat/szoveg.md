@@ -18,16 +18,10 @@ c) a nemzeti fejlesztési miniszter.
 
 7. A Kormány felhatalmazza a miniszterelnököt, hogy a Kormány ülései között, az NFK a Nemzeti Fejlesztési Kormánybizottságról szóló 140/2012. (VII. 2.) Korm. rendelet 4–5. §-ban meghatározott feladatkörébe tartozó ügyekben, az NFK döntési javaslata alapján – a Kormány ügyrendjéről szóló 1144/2010. (VII. 7.) Korm. határozat 77. pontjában meghatározottak szerint – kormányhatározatot, illetve kormányrendeletet adhasson ki.
 
-8. A Kormány ügyrendjéről szóló 1144/2010. (VII. 7.) Korm. határozat 57/A. pontja helyébe a következő rendelkezés lép:
-
-„57/A. Ha a Nemzeti Fejlesztési Kormánybizottság feladatkörébe tartozó előterjesztést a Nemzeti Fejlesztési Kormánybizottság megvitatta és a Kormány általi megtárgyalásra javasolta, az előterjesztés közvetlenül benyújtható a Kormány ülésére. Ezekben az esetekben a 20–36., a 44–57. és a 76. pontban foglaltakat a megfelelő eltéréssel kell alkalmazni.”
-
-9. Hatályát veszti
-
-a) a Nemzeti Kutatási, Innovációs és Tudománypolitikai Tanács létrehozásáról szóló 1279/2010. (XII. 15.) Korm. határozat,
-
-b) a kiemelt jelentőségű beruházásokat kezelő és egyedi kormánydöntéssel támogatható beruházások kormánydöntését előkészítő tárcaközi bizottság létrehozásáról szóló 1054/2011. (III. 22.) Korm. határozat.
+8–9.[^1]
 
 10. Ez a határozat a közzétételét követő napon lép hatályba.
 
 11. A határozat hatálybalépését követő napon hatályát veszti a 8. és 9. pont.
+
+[^1]: A 8–9. pontot a 11. pont hatályon kívül helyezte.
