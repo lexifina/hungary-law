@@ -1,6 +1,6 @@
 ## Általános rendelkezések
 
-1. § (1) Az e rendeletben foglalt feltételek alapján állami támogatásként kamattámogatás vehető igénybe a központi költségvetésből a Magyar Köztársaság területén lévő lakás építésére, új lakás vásárlására, korszerűsítésére szolgáló hitelintézeti kölcsönhöz.
+1. § (1)[^1] Az e rendeletben foglalt feltételek alapján állami támogatásként kamattámogatás vehető igénybe a központi költségvetésből Magyarország területén lévő lakás építésére, új lakás vásárlására, korszerűsítésére szolgáló hitelintézeti kölcsönhöz.
 
 (2) E rendelet alkalmazásában az egyes fogalmak jelentése a következő:
 
@@ -24,7 +24,7 @@ bb) amelyet másodízben értékesítenek természetes személy részére, felt�
 
 a) a magyar állampolgár és az a személy, akit külön törvény alapján a magyar állampolgár jogai illetnek meg,
 
-b) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény szerint – a Magyar Köztársaság területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkezik,
+b)[^2] a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény szerint – Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkezik,
 
 c) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben foglaltak szerint bevándorolt vagy letelepedett jogállással rendelkezik,
 
@@ -92,9 +92,9 @@ c) az építtetőnek (vásárlónak) vagy házastársának, illetve bejegyzett �
 
 14. állampapírhozam:
 
-a)[^1] a változó vagy a legfeljebb egy évig állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 12 hónapos névleges futamidejű diszkont kincstárjegy aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
+a)[^3] a változó vagy a legfeljebb egy évig állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 12 hónapos névleges futamidejű diszkont kincstárjegy aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
 
-b)[^2] az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az ÁKK Zrt. által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott ötéves névleges futamidejű államkötvény aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
+b)[^4] az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az ÁKK Zrt. által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott ötéves névleges futamidejű államkötvény aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
 
 15. referenciahozam: az ÁKK Zrt. által havi rendszerességgel közzétett, az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként számított és közzétett referenciahozamoknak a közzétételt megelőző három naptári hónapra vonatkozó számtani átlaga,
 
@@ -136,5 +136,7 @@ b) az a) pont hatálya alá nem tartozó esetekben a Magyar Államkincstár (a t
 
 (5) Nem minősül új lakás felépítésének meglévő épület, épületrész vagy építmény átalakítása.
 
-[^1]: Az 1. § (2) bekezdés 14. pont a) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdés 14. pont b) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése a 144/2012. (VII. 3.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés 5. pont b) alpontja a 144/2012. (VII. 3.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés 14. pont a) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdés 14. pont b) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
