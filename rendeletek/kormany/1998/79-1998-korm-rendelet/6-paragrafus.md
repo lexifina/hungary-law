@@ -1,4 +1,4 @@
-6. §[^10] (1) Ha a piacfelügyeleti hatóságok a piacfelügyeleti ellenőrzés során megállapítják, hogy az áru nem felel meg a biztonságossági követelményeknek, jogosultak
+6. §[^11] (1) Ha a piacfelügyeleti hatóságok a piacfelügyeleti ellenőrzés során megállapítják, hogy az áru nem felel meg a biztonságossági követelményeknek, jogosultak
 
 a) az áru használatából származó veszélyre vonatkozó figyelmeztető tájékoztatás elhelyezését előírni,
 
@@ -20,4 +20,4 @@ e) elrendelni az áru visszahívását, vagy – ha ez indokolt – a gyártókk
 
 (6) Ha a piacfelügyeleti hatóság a piacfelügyeleti ellenőrzés során megállapítja, hogy a CE megfelelőségi jelölést nem jogszerűen tüntették fel, a műszaki harmonizációs irányelvek alapján a megfelelőség-értékelési eljárások különböző szakaszaiban alkalmazandó modulokról és CE megfelelőségi jelölés elhelyezéséről és használatáról szóló 93/465/EGK tanácsi határozat melléklete B. pontjának l) alpontjában meghatározottak szerint jár el.
 
-[^10]: A 6. § a 33/2004. (III. 8.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^11]: A 6. § a 33/2004. (III. 8.) Korm. rendelet 7. §-ával megállapított szöveg.

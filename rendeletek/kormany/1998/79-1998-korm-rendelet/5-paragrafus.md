@@ -1,4 +1,4 @@
-## 5. §[^9] A piacfelügyeleti hatóságok a piacfelügyeleti ellenőrzés során jogosultak
+## 5. §[^10] A piacfelügyeleti hatóságok a piacfelügyeleti ellenőrzés során jogosultak
 
 a) tájékoztatást kérni a gyártótól és a forgalmazótól,
 
@@ -12,4 +12,4 @@ e) az ellenőrzés lefolytatásához szükséges hang- és képfelvételt kész�
 
 f) a biztonságossági vizsgálathoz szükséges időtartamra ideiglenes intézkedéssel az áru forgalmazását, reklámozását, illetve kiállításon való bemutatását megtiltani, ha az áru biztonságosságához alapos kétség fér.
 
-[^9]: Az 5. § a 33/2004. (III. 8.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^10]: Az 5. § a 33/2004. (III. 8.) Korm. rendelet 6. §-ával megállapított szöveg.
