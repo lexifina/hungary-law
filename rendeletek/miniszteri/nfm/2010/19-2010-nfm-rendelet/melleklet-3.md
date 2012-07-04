@@ -1,22 +1,20 @@
-## A 2. § szerinti földgázforrás ára és mennyisége 2012. második negyedévre, valamint a felek köre
+## A 2. § szerinti földgázforrás ára és mennyisége 2012. harmadik negyedévre, valamint a felek köre
 
 ## 1. Az E.ON Földgáz Trade Zrt. mint volt közüzemi nagykereskedő által értékesítendő, nem földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége:
 
 | Szerződött egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Nem hazai termelésből beszerzett földgázforrás ára (USD/GJ) | Hazai termelésből beszerzett földgázforrás ára (Ft/MJ) |
 
-| FŐGÁZ Zrt. | 2877 | 12,123 | – |
+| FŐGÁZ Zrt. | 1409 | 11,901 | – |
 
-| E.ON Energiaszolgáltató Kft. | 1344 | 12,178 | – |
+| E.ON Energiaszolgáltató Kft. | 1145 | 12,004 | – |
 
-| E.ON Energiaszolgáltató Kft. | 908 | – | 1,799 |
+| E.ON Energiaszolgáltató Kft. | 547 | – | 1,135 |
 
-| GDF SUEZ Energia Magyarország Zrt. | 1706 | 12,369 | – |
+| GDF SUEZ Energia Magyarország Zrt. | 1009 | 12,075 | – |
 
-| GDF SUEZ Energia Magyarország Zrt. | 1152 | – | 1,828 |
+| GDF SUEZ Energia Magyarország Zrt. | 476 | – | 1,466 |
 
-| TIGÁZ Zrt. | 2847 | 12,248 | – |
-
-| OERG Kft. | 0,742 | 11,084 | – |
+| TIGÁZ Zrt. |  |  | – |
 
 ## 2. Az E.ON Földgáz Trade Zrt. mint volt közüzemi nagykereskedő által értékesítendő, földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége:
 
@@ -48,6 +46,6 @@
 
 | TIGÁZ Zrt. | 3819 | 1,690 |
 
-3. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^23]
+3. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^24]
 
-[^23]: A 3. melléklet a 17/2012. (IV. 13.) NFM rendelet 7. §-ával megállapított szöveg.
+[^24]: A 3. melléklet a 38/2012. (VII. 3.) NFM rendelet 6. §-ával megállapított szöveg.
