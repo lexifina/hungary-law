@@ -1,6 +1,6 @@
 3. § (1) A foglalkoztató köteles a foglalkoztatás helye szerint illetékes munkaügyi központnak bejelenteni
 
-a) a 2. § (1) bekezdés 7. és 8. pontja kivételével annak a harmadik országbeli állampolgárnak a foglalkoztatását, akinek Magyar Köztársaság területén történő foglalkoztatásához e rendelet szabályai szerint nincs szükség engedélyre, valamint
+a)[^13] a 2. § (1) bekezdés 7. és 8. pontja kivételével annak a harmadik országbeli állampolgárnak a foglalkoztatását, akinek Magyarország területén történő foglalkoztatásához e rendelet szabályai szerint nincs szükség engedélyre, valamint
 
 b) a menekültként, oltalmazottként vagy menedékesként elismert, továbbá a bevándorolt vagy letelepedett jogállású személy foglalkoztatását.
 
@@ -13,3 +13,5 @@ b) a menekültként, oltalmazottként vagy menedékesként elismert, továbbá a
 (5) A foglalkoztató köteles a bejelentés tárgyát képező foglalkoztatási jogviszony létesítéséről és megszűnéséről szóló dokumentumot és igazolást a foglalkoztatási jogviszony megszűnését követő három évig megőrizni, és az ellenőrzés során bemutatni.
 
 (6) Az (1) bekezdésben meghatározott bejelentési kötelezettség teljesítése, illetőleg annak igazolása nem feltétele a foglalkoztatásra irányuló jogviszony létesítésének, illetőleg az annak alapján végzett tevékenység megkezdésének.
+
+[^13]: A 3. § (1) bekezdés a) pontja a 144/2012. (VII. 3.) Korm. rendelet 10. §-a szerint módosított szöveg.
