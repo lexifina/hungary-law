@@ -2,9 +2,9 @@
 
 8. § (1) Ez a rendelet a kihirdetését követő 60. napon lép hatályba; rendelkezéseit a hatálybalépését követően kötött fogyasztói szerződésekre kell alkalmazni.
 
-(2)[^1]
+(2)[^2]
 
-Melléklet a 151/2003. (IX. 22.) Korm. rendelethez[^2]
+Melléklet a 151/2003. (IX. 22.) Korm. rendelethez[^3]
 
 1. Hűtőszekrény, fagyasztó, kombinált hűtőszekrény;
 
@@ -56,5 +56,5 @@ Melléklet a 151/2003. (IX. 22.) Korm. rendelethez[^2]
 
 25. bútorok 10 000 Ft bruttó vételár felett.
 
-[^1]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 837. pontja hatályon kívül helyezte.
-[^2]: A melléklet a 72/2005. (IV. 21.) Korm. rendelet 1. §-ával megállapított szöveg, e módosító rendelet 2. §-a alapján rendelkezéseit a 2005. június 1. napját követően kötött fogyasztói szerződésekre kell alkalmazni.
+[^2]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 837. pontja hatályon kívül helyezte.
+[^3]: A melléklet a 72/2005. (IV. 21.) Korm. rendelet 1. §-ával megállapított szöveg, e módosító rendelet 2. §-a alapján rendelkezéseit a 2005. június 1. napját követően kötött fogyasztói szerződésekre kell alkalmazni.
