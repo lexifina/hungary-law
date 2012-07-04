@@ -2,7 +2,7 @@
 
 14. § (1) Három hónapot meghaladó tartózkodásra jogosító vízum:
 
-a) tartózkodási engedély átvételére jogosító vízum, amely egyszeri, tartózkodási engedély átvétele céljából történő beutazásra és legfeljebb harminc napos tartózkodásra jogosít Magyarország területén;
+a) tartózkodási engedély átvételére jogosító vízum, amely egyszeri, tartózkodási engedély átvétele vagy a 36. § (1) bekezdése alapján engedélyezett nemzeti letelepedési engedély átvétele céljából történő beutazásra és legfeljebb harminc napos tartózkodásra jogosít Magyarország területén;
 
 b) szezonális munkavállalási vízum, amely egyszeri vagy többszöri beutazásra és három hónapot meghaladó, de legfeljebb hat hónapos szezonális munkavállalási célú tartózkodásra jogosít;
 

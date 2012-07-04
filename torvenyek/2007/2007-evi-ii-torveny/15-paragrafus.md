@@ -1,4 +1,4 @@
-15. § (1) Tartózkodási engedély átvételére jogosító vízumot az a harmadik országbeli állampolgár kaphat, akinek a részére e törvény alapján tartózkodási engedély kiadását engedélyezték.
+15. § (1) Tartózkodási engedély átvételére jogosító vízumot az a harmadik országbeli állampolgár kaphat, akinek a részére e törvény alapján tartózkodási engedély, vagy a 36. § (1) bekezdése alapján nemzeti letelepedési engedély kiadását engedélyezték.
 
 (2) A tartózkodási engedély átvételére jogosító vízum érvénytelen, ha a kiadása alapjául szolgáló tartózkodási engedélyt visszavonták vagy visszavonásának lenne helye.
 
