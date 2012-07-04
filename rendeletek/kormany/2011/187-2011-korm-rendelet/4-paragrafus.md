@@ -14,7 +14,7 @@ a) a külföldi megrendelésre, illetve külföldön történő forgalomba hozat
 
 b) az olyan nemesfém tárgy, amely kizárólag tudományos, egészségügyi, oktatási vagy ipari célt szolgál,
 
-c) a Magyar Köztársaság területén vagy más országban bármikor fizetési eszközként használt nemesfém felhasználásával készült pénz, amennyiben nincs az e rendelet hatálya alá tartozó nemesfém tárggyal forrasztás útján összeillesztve,
+c)[^2] Magyarország területén vagy más országban bármikor fizetési eszközként használt nemesfém felhasználásával készült pénz, amennyiben nincs az e rendelet hatálya alá tartozó nemesfém tárggyal forrasztás útján összeillesztve,
 
 d) az érem és féldombormű,
 
@@ -37,3 +37,5 @@ l) az Egyezmény részes tagállamaiból származó és az Egyezmény szerinti K
 m) a miniszteri rendeletnek megfelelően fémjelzett tárgynak minősülő, az arany és ezüst áruk finomsági tartalma, ellenőrzése s fémjelzése iránt című 1868. évi XVIII. törvény, a fémjelzésről szóló 1936. évi IV. törvénycikk és a nemesfémtárgyakról és fémjelzésükről szóló 1965. évi 14. törvényerejű rendelet alapján magyar fémjellel ellátott nemesfém tárgy.
 
 (4) A (3) bekezdés b), c) és k) pontjai szerinti mentességről a hatóság a készítő vagy a kereskedő kérelmére, a kérelemben megjelölt indokok, valamint a nemesfém tárgy méretének, illetve sajátosságainak figyelembevételével dönt.
+
+[^2]: A 4. § (3) bekezdés c) pontja a 144/2012. (VII. 3.) Korm. rendelet 13. §-ával módosított szöveg.

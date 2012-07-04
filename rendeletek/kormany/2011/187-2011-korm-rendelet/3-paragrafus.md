@@ -10,7 +10,7 @@
 
 4. fémjel: a nemesfém tárgynak a jogszabályokban előírt feltételeknek való megfelelőségét, valamint finomsági fokát igazoló hatósági hitelesítő jel, ideértve a nemesfémtárgyak ellenőrzéséről és jelöléséről szóló, Bécsben, 1972. november 15. napján aláírt Egyezmény szerinti Közös Ellenőrző Jelet is;
 
-5. fémjelzési kötelezettség alá eső nemesfém tárgy: a Magyar Köztársaság területén, gazdasági tevékenység során értékesítésre kerülő nemesfém tárgyak közül a nemesfémből, továbbá az e fémek és más fémek ötvözeteiből készült ékszer, díszműáru, továbbá a személyi használatra szolgáló használati tárgy, valamint a kombinált tárgyak nemesfém része;
+5.[^1] fémjelzési kötelezettség alá eső nemesfém tárgy: Magyarország területén, gazdasági tevékenység során értékesítésre kerülő nemesfém tárgyak közül a nemesfémből, továbbá az e fémek és más fémek ötvözeteiből készült ékszer, díszműáru, továbbá a személyi használatra szolgáló használati tárgy, valamint a kombinált tárgyak nemesfém része;
 
 6. finomsági fok: az a mérőszám, amely megmutatja, hogy a nemesfém tárgy minden 1000 grammjában hány gramm nemesfém van;
 
@@ -35,3 +35,5 @@
 16. platina tárgy: a platinából vagy a platina és más fémek ötvözetéből készült tárgy, ha a tárgy nemesfémtartalma az 1. mellékletben foglalt, a platina tárgyra meghatározott legkisebb finomsági fokot eléri;
 
 17. palládium tárgy: a palládiumból vagy a palládium és más fémek ötvözetéből készült tárgy, ha a tárgy nemesfémtartalma az 1. mellékletben foglalt, a palládium tárgyra meghatározott legkisebb finomsági fokot eléri.
+
+[^1]: A 3. § 5. pontja a 144/2012. (VII. 3.) Korm. rendelet 13. §-ával módosított szöveg.
