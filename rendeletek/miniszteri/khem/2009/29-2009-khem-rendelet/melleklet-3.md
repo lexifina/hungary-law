@@ -46,6 +46,6 @@
 
 |  | <20 m3/h | ≥20 m3/h |
 
-| Egyetemes szolgáltatói árrés (Ft/GJ) | 173,7 | 42,4 |
+| Egyetemes szolgáltatói árrés (Ft/GJ) | 174,1 | 42,5 |
 
-[^38]: A 3. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^38]: A 3. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 4. § (2) bekezdésével megállapított, a 38/2012. (VII. 3.) Korm. rendelet 2. §-a szerint módosított szöveg.
