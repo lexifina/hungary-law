@@ -58,7 +58,7 @@ van helye.
 
 a) 20. § (1) bekezdés a) pontja alapján a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet (a továbbiakban: 156/2009. (VII. 29.) Korm. rendelet) 1. mellékletének 1. pontjában, 2. pont a) alpontjában és 5. pontjában foglalt esetekben,
 
-b)[^1] 20. § (1) bekezdés e) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 5. melléklet 1–61. sorában foglalt esetekben,
+b)[^2] 20. § (1) bekezdés e) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 5. melléklet 1–61. sorában foglalt esetekben,
 
 c) 20. § (1) bekezdés c) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 3. mellékletének B2-B3 soraiban, B5-B6 soraiban, B8-B9 soraiban, B11-B12 soraiban, C2-C3 soraiban, D2-D3 soraiban, D5-D6 soraiban, D8-D9 soraiban, D11-D12 soraiban, D14-D15 soraiban, D17-D18 soraiban, E1 sorában foglalt esetekben,
 
@@ -72,7 +72,7 @@ g) 44. § (3) bekezdése, valamint a közúti szállítást végző egyes járm�
 
 h) 44. § (4) bekezdése alapján a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendeletben [a továbbiakban: 6/1990. (IV. 12.) KöHÉM rendelet] az össztömegre, tengelyterhelésre és méretre meghatározott előírásoknak meg nem felelő jármű, illetve balesetveszélyes műszaki állapotú jármű esetén
 
-i)[^2] 20. § (1) bekezdés k) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 11/A–D. mellékletében foglalt esetekben
+i)[^3] 20. § (1) bekezdés k) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 11/A–D. mellékletében foglalt esetekben
 
 ## van helye.
 
@@ -94,5 +94,5 @@ h) 24. § (3) és (4) bekezdése alapján a 23. § szerinti pótalkatrészek és
 
 van helye.
 
-[^1]: A 2. § (5) bekezdés b) pontja a 42/2011. (VIII. 11.) NFM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (5) bekezdés i) pontját a 42/2011. (VIII. 11.) NFM rendelet 16. § (2) bekezdése iktatta be.
+[^2]: A 2. § (5) bekezdés b) pontja a 42/2011. (VIII. 11.) NFM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (5) bekezdés i) pontját a 42/2011. (VIII. 11.) NFM rendelet 16. § (2) bekezdése iktatta be.

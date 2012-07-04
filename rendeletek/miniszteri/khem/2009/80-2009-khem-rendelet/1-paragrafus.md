@@ -42,4 +42,6 @@ van helye.
 
 (8) A Ket. 94. § (2) bekezdés b) pontja alkalmazásának a nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló 89/2005. (V. 5.) Korm. rendelet 1. mellékletének 10.013. pontja, 5. melléklet 2.281. pont a) alpontja, 2.282. pontja, 6. melléklet 2.324. és 2.327. pontja alapján, az abban foglalt esetekben van helye.
 
-(9) A Ket. 94. § (2) bekezdés b) pontja alkalmazásának a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó egyes építésügyi hatósági eljárások szabályairól szóló 96/2005. (XI. 4.) GKM rendelet 44. § (1) bekezdésében foglalt jogszabálysértések és jogkövetkezmények tekintetében van helye.
+(9)[^1] A Ket. 94. § (2) bekezdés b) pontja alkalmazásának a bányafelügyelet hatáskörébe tartozó egyes sajátos építményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló 53/2012. (III. 28.) Korm. rendelet 38. §-ában és 39. § (1) bekezdésében foglalt jogszabálysértések és jogkövetkezmények tekintetében van helye.
+
+[^1]: Az 1. § (9) bekezdése a 38/2012. (VII. 3.) NFM rendelet 3. §-ával megállapított szöveg.
