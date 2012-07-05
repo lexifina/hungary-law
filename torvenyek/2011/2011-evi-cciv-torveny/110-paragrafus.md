@@ -8,7 +8,7 @@
 
 20–22.
 
-23. a hallgatói szerződés kötelező tartalmi elemeit, a szerződés nem teljesülése esetén követendő eljárást, a magyar állami (rész)ösztöndíjas hallgató által igénybe vett szakos képzés éves költségét,
+23.
 
 24–27.
 
