@@ -1,3 +1,3 @@
-## 15. §[^1]
+## 15. §[^5]
 
-[^1]: A 15. § a 14. § (2) bekezdése alapján 2012. december 31-én lép hatályba.
+[^5]: A 15. § a 14. § (2) bekezdése alapján 2012. december 31-én lép hatályba.

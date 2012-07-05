@@ -20,9 +20,11 @@ bb) települési szilárdhulladék-gazdálkodási rendszerek kialakítása tárg
 
 bc) szennyvízelvezetés és -tisztítási,
 
-c) egészségügyi alapellátási, fekvő- és járóbeteg-szakellátási célú intézményekben megvalósuló, valamint
+c)[^1] egészségügyi alapellátási, fekvő- és járóbeteg-szakellátási célú intézményekben megvalósuló,
 
-d) bölcsődei, óvodai nevelési és általános iskolai feladatokat ellátó intézményekben megvalósuló
+d)[^2] bölcsődei, óvodai nevelési és általános iskolai feladatokat ellátó intézményekben megvalósuló, valamint
+
+e)[^3] szociális város-rehabilitációs
 
 ## infrastrukturális fejlesztésekhez elnyert uniós támogatás saját forrás kiegészítéséhez nyújtható be.
 
@@ -31,3 +33,7 @@ d) bölcsődei, óvodai nevelési és általános iskolai feladatokat ellátó i
 (4) A pályázó EU Önerő Alap támogatást akkor igényelhet, ha a fejlesztés nem kezdődött meg, vagy amennyiben a fejlesztés megvalósítása folyamatban van, annak műszaki-pénzügyi lezárása az EU Önerő Alap támogatási igény benyújtása időpontjában még nem történt meg.
 
 (5) A pályázó az EU Önerő Alap támogatásra benyújthatja igényét abban az esetben is, ha az uniós támogatást az általa fenntartott költségvetési szerv nyerte el.
+
+[^1]: A 2. § (2) bekezdés c) pontja a 33/2012. (VII. 4.) BM rendelet 2. §-a szerint módosíttt szöveg.
+[^2]: A 2. § (2) bekezdés d) pontja a 33/2012. (VII. 4.) BM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (2) bekezdés e) pontját a 33/2012. (VII. 4.) BM rendelet 1. §-a iktatta be.
