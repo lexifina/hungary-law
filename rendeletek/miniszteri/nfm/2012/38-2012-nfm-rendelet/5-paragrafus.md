@@ -1,3 +1,0 @@
-## 4. § Az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 19/2010. (XII. 3.) NFM rendelet (a továbbiakban: R2.) a következő 2/A. §-sal egészül ki:
-
-## „2/A. § A GET 141. § (1) bekezdése szerint a volt közüzemi nagykereskedő által vételre felajánlott és az egyetemes szolgáltatóval a GET 141. § (5) bekezdése szerinti szerződésben meghatározott földgázforrás árát – a szállítási rendszerüzemeltetési díj, a földgáztárolási díj, a nagykereskedői árrés, valamint a mobilfinanszírozási költség kivételével – az 5. melléklet tartalmazza.”
