@@ -1,0 +1,5 @@
+## 33. § Az előirányzat kezelő szerve az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft. (a továbbiakban: ÉMI NKft.). Az előirányzat pénzügyi lebonyolítására nyitott elkülönített számla felett az ÉMI Nkft. rendelkezik, ellátja az előirányzat tekintetében a kötelezettségvállalások teljesítésigazolását, az érvényesítést, az utalványozást, végzi a számviteli és ellenőrzési feladatokat és közreműködik a költségvetési beszámolók, mérlegjelentések elkészítésében.
+
+34. § (1) Az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti vállalkozás tulajdonában lévő lakóingatlanon végrehajtott beruházáshoz a 28. § (2) bekezdés a)–h) pontja és a 28. § (2) bekezdés i) pontja szerinti célra nyújtott támogatás a csekély összegű támogatásokról szóló bizottsági rendelet szerinti csekély összegű (de minimis) támogatásnak minősül.
+
+(2) Az európai uniós zöldgazdaság-fejlesztési és energetikai mintaprojekt megvalósítása esetén a 28. § (5)–(6) bekezdését és a 29–32. §-t nem kell alkalmazni.
