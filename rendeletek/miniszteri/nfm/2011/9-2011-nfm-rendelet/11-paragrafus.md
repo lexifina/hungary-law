@@ -1,5 +1,0 @@
-## 5. ESZA Nonprofit Kft. pályázatkezelő szervezet támogatása
-
-11. § (1) Az előirányzat célja vissza nem térítendő támogatás nyújtása az ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaságnak (a továbbiakban: ESZA Nonprofit Kft.) a közhasznú feladatai ellátására, így különösen a hazai költségvetési forrásokból, illetve az Európai Unió által társfinanszírozott munkaerőpiaci integrációs, ifjúsági, képzési, szociális, kábítószerügyi, gyermek és ifjúsági célú, gyermekjóléti, hátrányos helyzetű csoportok lakhatási és szociális integrációját elősegítő programok, támogatási konstrukciók tárgyévi feladatellátásával összefüggő teendők (pályázati értékelés, szerződéskötés, támogatás lehívás biztosítása, beszámoltatás, ellenőrzés, lezárás, tájékoztatás, honlap és adatbázis frissítés) finanszírozása, ide nem értve a közreműködő szervezeti tevékenység kapcsán a szolgáltatási szint szerződések (a továbbiakban: SLA) keretében elszámolt feladatok díját.
-
-(2) A miniszter a támogatás felhasználásáról az ESZA Nonprofit Kft.-vel támogatási szerződésben állapodik meg.

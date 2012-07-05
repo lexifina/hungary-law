@@ -1,3 +1,0 @@
-28. § (1) Az „Energia Központ Nonprofit Kft. támogatása” előirányzat fedezetet nyújt az energiafelhasználás hatékonyságának javítását célzó, korábbi években meghirdetett támogatási programok kezelésével és lezárásával kapcsolatos feladatokra. Az Energia Központ Nonprofit Kft. ellátja továbbá az ügyfélszolgálattal, a panaszügyintézéssel, valamint az „Energiafelhasználási hatékonyság javítása célelőirányzattal” kapcsolatos pályázatkezelési, pénzügyi, számviteli és ellenőrzési teendőket.
-
-(2) Az (1) bekezdésben foglalt feladatok ellátására a miniszter támogatási szerződést köt az Energia Központ Nonprofit Kft.-vel.
