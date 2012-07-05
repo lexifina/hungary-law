@@ -1,0 +1,1115 @@
+# A Kormány 146/2012. (VII. 5.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 86. szám, 2012. július 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ab52edbc68c7b2d85ebb7adc3cb088c9009cc81d/dokumentumok/74306b079c870c8316cf45af02aa4486c643bfa6/letoltes)
+
+---
+
+A Kormány 146/2012. (VII. 5.) Korm. rendelete
+a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.)
+Korm. rendelet és egyes bányászati tárgyú kormányrendeletek módosításáról
+A Kormány
+az 1. alcím tekintetében a bányászatról szóló 1993. évi XLVIII. törvény 50/A. § (1) bekezdés 2–6., 9., 10., 17. és 18., valamint
+25. pontjában,
+a 2. alcím tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+a 3. alcím tekintetében a bányászatról szóló 1993. évi XLVIII. törvény 50/A. § (1) bekezdés 15. pontjában és a közigazgatási hatósági
+eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés a) és b) pontjában,
+a 4. alcím tekintetében a bányászatról szóló 1993. évi XLVIII. törvény 50/A. § (1) bekezdés 12. pontjában, valamint
+az 5. alcím tekintetében a bányászatról szóló 1993. évi XLVIII. törvény 50/A. § (1) bekezdés 19. pontjában kapott felhatalmazás
+alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet
+módosítása
+1. § (1) A bányászatrólszóló 1993. évi XLVIII. törvény végrehajtásárólszóló 203/1998. (XII. 19.) Korm. rendelet (a továbbiakban:
+Vhr.) 2. § (3) bekezdésehelyébea következőrendelkezéslép,egyidejűleg a § a következő(3a)–(3f) bekezdésselegészül
+ki:
+„(3) A pályázat értékelését a bányászati ügyekért felelős miniszter (a továbbiakban: miniszter) által pályázatonként
+létrehozott minősítő bizottság végzi.
+(3a) A minősítő bizottság tagjainak tevékenységére vonatkozó – pályázatonként külön kiadott – megbízás
+visszavonásig érvényes.
+(3b) A minősítő bizottság elnöke az MBFH elnöke.
+(3c) A minősítő bizottság tagja:
+a) az államháztartásért felelős miniszter egy képviselője,
+b) a miniszter egy képviselője, valamint
+c) a koncesszióköteles tevékenység vonatkozásában szakértelemmel, valamint a földtani szakértői tevékenység
+folytatásának részletes szabályairól szóló miniszteri rendeletben meghatározott mesterképzésben vagy egyetemi
+szintű alapképzési szakon szerzett, szakirányú szakképzettséggel és legalább 10 éves szakmai gyakorlattal rendelkező
+két személy.
+(3d) A minősítő bizottság tagjainak személyére a miniszter felkérése alapján a (3c) bekezdés a) pontja szerinti esetben
+az államháztartásért felelős miniszter, a (3c) bekezdés c) pontja szerinti esetben az MBFH elnöke tesz javaslatot a
+miniszternek.
+(3e) A minősítő bizottság tagjainak megbízatása a miniszter általi megbízással jön létre. A megbízást a tagok részére a
+koncessziós pályázat benyújtására nyitva álló határidő leteltét megelőzően legalább 30 nappal korábban kell
+megadni. A minősítő bizottság tagját tevékenységéért díjazás illeti meg.
+(3f) A minősítő bizottság működésének tárgyi feltételeit az MBFH biztosítja, valamint annak munkájában szakmai
+segítséget nyújt.”
+
+(2) A Vhr. a következő 2/A. és 2/B. §-sal egészül ki:
+„2/A. § (1) A minősítő bizottság megszűnik a koncessziós pályázat eredményének vagy eredménytelenségének
+kihirdetését követő napon.
+(2) A minősítő bizottsági tagság megszűnik, ha
+a) a minősítő bizottság megszűnik,
+b) a tag megbízatását a miniszter összeférhetetlenség vagy a miniszter által a tag jelölésére felkért közigazgatási szerv
+vezetőjének kezdeményezésére visszavonja,
+c) a tag tagságáról lemond vagy
+d) a tag elhalálozik.
+2/B. § (1) Nem lehet a minősítő bizottság elnöke és tagja az a személy,
+a) akiapályázatelőkészítésébenvagykidolgozásábanbármilyenmódonrésztvett, abizottságelnökénekkivételével,
+b) aki a koncessziós eljárás során pályázatot nyújtott be,
+c) aki a pályázatot benyújtó természetes személy és annak képviselője, alkalmazottja, foglalkoztatottja, alkalmazója és
+foglalkoztatója,
+d) aki a pályázatot benyújtó jogi személy képviselője, tulajdonosa, részvényese, tagja, vezető tisztségviselője,
+alkalmazottja vagy más szerződéses jogviszony alapján foglalkoztatottja,
+e) aki annak a jogi személynek a képviselője, vezető tisztségviselője, alkalmazottja, foglalkoztatottja, amelyben a
+pályázóközvetlenvagyközvetettbefolyássalrendelkezik,illetveamelynekapályázótulajdonosa,részvényese,tagja,
+f) aki az a)–e) pontban meghatározott személyek Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § b) pontja
+szerinti közeli hozzátartozója vagy
+g) akitől bármely oknál fogva nem várható el az ügy tárgyilagos megítélése.
+(2) Ha összeférhetetlenségiok merült fel, arrólaz összeférhetetlenségiok felmerülésétkövető3 naponbelülaz elnököt
+tájékoztatni kell.
+(3) A tag megbízatásának összeférhetetlenségi ok miatti visszavonására az elnök tesz javaslatot a miniszternek. A
+felmentett tag helyett új tag személyére a 2. § (3d) bekezdésében meghatározott vezető tesz javaslatot a
+miniszternek.”
+2. § (1) A Vhr. 6/E. § (3) bekezdése a következő d) ponttal egészül ki:
+(A bányafelügyelet a kutatási műszaki üzemi terv jóváhagyása iránti kérelmet elutasítja)
+„d) ha a kérelmező a kérelemben megjelölt kutatási területen kutató létesítményekkel történő kutatás elvégzését nem
+tervezi.”
+(2) A Vhr. 6/E. § (6) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a § a következő (7) és (8) bekezdéssel
+egészül ki:
+„(6) A kutatási időszak meghosszabbítását – a kutatási műszaki üzemi terv módosításával – a bányafelügyelet akkor
+engedélyezi, ha a bányavállalkozó a munkaprogramban, valamint a műszaki üzemi tervben jóváhagyott kutatási
+feladatainak elvégzését megkezdte és
+a) igazolja, hogy a kutatást a kutatási engedélyben meghatározott határidőre, tőle független körülmény miatt
+befejezni nem tudja, vagy
+b) a kutatás elvégzéséhez a kutatási feladatok bővítése indokolt.
+(7) Ha a kutatási időszak meghosszabbítását a bányavállalkozó a (6) bekezdés b) pontja alapján kérelmezi, akkor a
+kérelemnek tartalmaznia kell a 6/D. § (1) bekezdésében felsoroltakat. A bányavállalkozónak a kutatási feladatok
+bővítésének indokoltságát igazolnia kell.
+(8) Ha a kutatási időszak első meghosszabbítása a (6) bekezdés b) pontja alapján történt, a kutatási időszak második
+alkalommal történő meghosszabbítása akkor engedélyezhető, ha a bányavállalkozó valamennyi jóváhagyott kutatási
+feladatát a hosszabbítás iránti kérelem benyújtásáig teljesítette.”
+3. § A Vhr. a következő 8/A.– 8/C. §-sal egészül ki:
+„8/A. § (1) A geotermikus védőidom kijelölésére irányuló kérelem tartalmazza:
+a) a geotermikus energia kinyerésére alkalmazandó technológia leírását,
+b) a kinyerni tervezett geotermikus energia mennyiségét,
+c) a kinyerés tervezett időtartamát, és
+d) az 1. számú mellékletben meghatározott műszaki leírást.
+
+(2) A geotermikus védőidomot az elfogadott kutatási zárójelentésben lévő és a kérelemben megadott adatokra és
+információkra alapozottan a bányafelügyelet a Magyar Földtani és Geofizikai Intézet (a továbbiakban: MFGI)
+szakértőként történő bevonásával jelöli ki.
+(3) A geotermikus védőidomot annál a hatástávolságnál kell meghatározni, ahol a kinyerni tervezett geotermikus
+energia mennyisége a kinyerés tervezett időtartama alatt a geotermikus energia-utánpótlódás által biztosított és
+a) felszín alatti víz kivétele nélküli, fluidum mélységi cirkuláltatásával kinyert geotermikus energia esetében a 25 éves
+időtartamhoz tartozó állapotban a hőmérséklet-változás kisebb, mint 1 °C,
+b) a 2500 m-nél nagyobb mélységű felszín alatti víz-termelő és besajtoló kutak esetében – hidrosztatikus nyomású
+tároló esetében – a 25 éves időtartamhoz tartozó állapotban a hőmérséklet-változás kisebb, mint 1 °C vagy az
+állandósult állapotú termeléshez tartozó nyomásváltozás kisebb, mint 0,1 bar,
+c) a 2500 m-nél nagyobb mélységű felszín alatti víz-termelő és besajtoló kutak esetében – nagy nyomású tároló
+esetében – a 25 éves időtartamhoz tartozó állapotban a hőmérséklet-változás kisebb, mint 1 °C, vagy az állandósult
+állapotú termeléshez tartozó nyomásváltozás kisebb, mint 1 bar.
+(4) A geotermikus védőidom a kizárólag azonos tulajdonban lévő létesítményekre közösített burkolófelületként is
+kijelölhető.
+8/B. § (1) A geotermikus védőidom határait a kijelölést követően a bányafelügyelet – az MFGI szakértőként történő
+bevonásával – legalább 5 évente felülvizsgálja. A felülvizsgálat során figyelembe kell venni:
+a) a bányavállalkozó által a felszín alatti vízkészletekbe történő beavatkozás és a vízkútfúrás szakmai követelményeiről
+szóló rendelet alapján szolgáltatott geofizikai, kútszerkezeti és hidrodinamikai,
+b) a Bt. 25. § (2) bekezdés b) pontjában meghatározott éves jelentésben megadott mérési, valamint
+c) az eltelt időszakban keletkezett kutatási
+adatokat.
+(2) A bányafelügyelet a geotermikus védőidom határait az üzemeltető kérelmére felülvizsgálhatja. A kérelemnek
+tartalmaznia kell a felülvizsgálat indokát. Ha a bányafelügyelet megállapítja, hogy a kijelölt geotermikus védőidom
+felülvizsgálata nem szükséges, a kérelmet elutasítja.
+8/C. § (1) Ha a kijelölt védőidomba tartozó térrészben jogerős vízjogi létesítési, vagy üzemeltetési engedéllyel
+rendelkező, termálvíz kitermelésére vagy visszasajtolására szolgáló kút van, a geotermikus energia kinyerés és
+hasznosítás megkezdéséhez a vízjogi engedélyessel kötött megállapodás szükséges. A megállapodást a műszaki
+üzemi terv jóváhagyása iránti kérelemhez mellékelni kell.
+(2) A kijelölt geotermikus védőidom zárttá nyilvánított térrészében olyan egyéb termálvíz kitermelésére szolgáló kút
+nem hozható létre, amely a hatásával a geotermikus energia-utánpótlódást korlátozná.
+(3) Geotermikus energia gazdasági célú kinyerésére és hasznosítására elvi vízjogi engedély vagy vízjogi létesítési
+engedély a geotermikus védőidom kijelöléséig a koncessziós szerződésben meghatározott zárt térrész feletti nyílt
+térrészre csak a bányavállalkozóval kötött megállapodást követően adható ki.
+(4) A geotermikus védőidom-nyilvántartás tartalmazza a védőidom alakjának egyértelmű meghatározásához
+szükséges mennyiségű térbeli pontok x, y és z koordinátáit, a kijelöléshezfelhasználtműszaki és földtani alapadatokat,
+valamint módszereket és számításokat.”
+4. § A Vhr. 10. § (3)–(4) bekezdése helyébe a következő rendelkezés lép:
+„(3) Gáz-, kőolaj- és kőolajtermék-, valamint szén-dioxid-szállítóvezetéket tilos elhelyezni:
+a) nyomvonalas létesítmény alatt a keresztezést kivéve, továbbá közlekedési célt szolgáló alagútban és hídon,
+b) más közművel közös árokban, alagútban,
+c) építmény és létesítmény alatt, továbbá bányaművelés okozta rétegmozgásos területen, valamint
+d) építmény és létesítmény védett területén vagy biztonsági övezetében, kivéve, ha a szállítóvezeték az építmény,
+létesítmény rendeltetésszerű használatához szükséges.
+(4) A szénhidrogén-szállítóvezetékhez és a szén-dioxid-szállítóvezetékhez kapcsolódó távközlő hálózat technológiai
+berendezéseihez tartozó, telekhatáron belüli vagy a távközlési hálózat hozzáférési pontjain lévő létesítmények
+létesítését a bányakapitányság engedélyezi.”
+
+5. § A Vhr. 11/A. § (2) bekezdése a következő i) ponttal egészül ki:
+[A bányatelek megállapítására irányuló kérelemhez – a (10) bekezdésben foglaltak figyelembevételével – mellékelni kell:]
+„i) ha a megállapításra kért külfejtéses bányatelek erdőt vagy erdő művelési ágú erdőgazdálkodási tevékenységet
+közvetlenül szolgáló területet érint, és korábban az erdészeti hatóság igénybevételi vagy elvi igénybevételi eljárása
+nem került lefolytatásra
+ia) a tervezett igénybevétellel érintett erdő ingatlan-nyilvántartás szerinti (helység, fekvés, helyrajzi szám, alrészletjel)
+és erdészeti (helység, tagszám, részlet jel) területazonosító adatait,
+ib) a tervezett igénybevétel területét föld-, illetve alrészletenként kéttized hektáros pontossággal,
+ic) az igénybevételre tervezett terület beazonosítására alkalmas legfeljebb 1:10 000 méretarányú helyszínrajzot,
+id) érintettség esetén a csereerdősítésre tervezett terület megjelölését és
+ie) a tervezett igénybevétel közérdekkel való összhangjának indokolását.”
+6. § (1) A Vhr. 12. §-a a következő (2a)–(2d) bekezdéssel egészül ki:
+„(2a) A bányatelket megállapító határozat tartalmazza a haszonanyagként meghatározott ásványi nyersanyagnak, az
+ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának
+meghatározásáról szóló kormányrendeletben meghatározott, alcsoport szerinti megnevezését.
+(2b) A bányatelket védnévvel kell ellátni, amely tartalmazza:
+a) annak a településnek a megnevezését, amelynek közigazgatási területén a bányatelek elhelyezkedik,
+b) a bányatelek sorszámát római számmal és
+c) annak a haszonanyagként meghatározott ásványi nyersanyagnak, az ásványi nyersanyagok és a geotermikus
+energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben
+meghatározott csoport szerinti megnevezését, amelyre a bányatelek megállapítása irányult.
+(2c) Ha a bányatelek több település közigazgatási területét érinti, annak a településnek a nevét kell a védnevében
+megadni, amelynek közigazgatási területén a bányatelek legnagyobb része helyezkedik el.
+(2d) Egy településen belül a bányatelkek védnevében szereplő sorszámot folyamatosan, ismétlés nélkül kell vezetni,
+függetlenül az ásványi nyersanyag fajtájától.”
+(2) A Vhr. 12. §-a a következő (4a)–(4e) bekezdéssel egészül ki:
+„(4a) Bányatelek megosztása esetén a létrejövő bányatelkekvédnevében sorszámkénta soron következő sorszámokat
+kell megadni, és a megosztott bányatelket a bányafelügyelet által vezetett nyilvántartásból törölni kell.
+(4b) Bányatelkek egyesítése esetén a létrejövő új bányatelek védnevében sorszámként a soron következő sorszámot
+kell megadni, és az egyesítést megelőző bányatelkeket a bányafelügyelet által vezetett nyilvántartásból törölni kell.
+(4c) A bányatelket módosító határozatnak tartalmaznia kell a módosítással érintett bányatelkek tekintetében a
+kitermelés megkezdésére vonatkozó határidő kezdő napját.
+(4d) Bányatelek módosítása esetén a kitermelés megkezdésére vonatkozó határidő kezdő napja
+a) bányatelek megosztása esetén a létrejövő új bányatelkek tekintetében a megosztott bányatelket megállapító,
+b) bányatelkek egyesítése esetén a legkorábban megállapított bányatelek megállapítására vonatkozó,
+c) bányatelek csökkentése esetén a csökkentendő bányatelket megállapító, vagy
+d) bányatelek bővítése esetén a bővítendő bányatelket megállapító
+határozat jogerőssé és végrehajthatóvá válásának napja.
+(4e) Ha a módosítással olyan bányatelek is létrejön, vagy olyan bányatelket csökkentettek vagy bővítettek, amelyen a
+kitermelést már megkezdték, e bányatelek tekintetében a (4c)–(4d) bekezdés rendelkezéseit nem kell alkalmazni.”
+7. § A Vhr. 12/A. §-a helyébe a következő rendelkezés lép:
+„12/A. § (1) Az üzemszerű kitermelés vagy az üzemszerű szénhidrogén-tárolás megkezdésére a Bt. 26/A. §
+(5) bekezdése szerinti öt éves határidőt a bányatelket megállapító határozat jogerőre emelkedésének napjától kell
+számítani. Az üzemszerű kitermelés vagy üzemszerű tárolás megkezdésére előírt határidő meghosszabbítása iránti
+kérelmet a határidő lejárta előtt legalább 60 nappal korábban kell a bányafelügyelethez benyújtani. A határidő
+elmulasztása jogvesztő.
+(2) A kérelemnek tartalmaznia kell:
+a) a meghosszabbítás időtartamának megjelölését és
+b) az üzemszerű kitermelés vagy az üzemszerű tárolás megkezdése elmulasztásának indokát.
+
+(3) A bányafelügyelet a meghosszabbítás iránti kérelmet elutasítja, ha
+a) a bányavállalkozó a kérelem benyújtására előírt (1) bekezdés szerinti határidőt elmulasztotta vagy
+b) a bányavállalkozónak koncessziós díj vagy jogerős és végrehajtható bányajáradék, bírság, felügyeleti díj vagy
+térítési díj tartozása van.
+(4) A bányafelügyelet határozatában dönt a meghosszabbítás időtartamáról és a fizetendő térítés mértékéről. A
+bányavállalkozó a kitermelés megkezdésére a határozatban megállapított határidőn belül jogosult a kitermelési vagy
+tárolási tevékenységet a jóváhagyott műszaki üzemi tervnek megfelelően megkezdeni.
+(5) Az üzemszerű kitermelés vagy üzemszerű tárolás (4) bekezdés szerinti megkezdésének időpontjáig fizetendő
+térítés éves mértéke:
+a) ásványi nyersanyag kitermelésére megállapított bányatelek esetében
+aa) ha a bányatelekben nyilvántartott kitermelhető ásványvagyon mennyisége az egymillió m3-t nem haladja meg, az
+összesen kitermelhető ásványvagyon értékének 0,5‰-e,
+ab) ha a bányatelekben nyilvántartott kitermelhető ásványvagyon mennyisége az egymillió m3-t meghaladja, az
+egymillió m3 ásványvagyon érték 0,5‰-ének és az egymillió m3 feletti rész 0,1‰-ének az összege,
+b) föld alatti szénhidrogén tárolására megállapított bányatelek esetében
+ba) százmillió m3 tároló kapacitásig ötvenmillió forint,
+bb) százmillió m3 tárolókapacitás feletti rész után százmillió m3-enként tízmillió forint.
+(6) Az ásványvagyon értékét az ásványi nyersanyag – az ásványi nyersanyagok és a geotermikus energia fajlagos
+értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott –
+fajlagos értékének és az (5) bekezdés a) pontjában meghatározott ásványvagyon mennyiségnek a szorzataként kell
+kiszámítani.”
+8. § (1) A Vhr. 12/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Bt. 26/A. § (7) bekezdése szerinti pályázatot az MBFH évente két alkalommal hirdeti meg.”
+(2) A Vhr. 12/B.§ (4)–(7) bekezdésehelyébeakövetkezőrendelkezéslép,egyidejűleg a§ akövetkező(8) és(9) bekezdéssel
+egészül ki:
+„(4) A beérkezett pályázatokat az MBFH a benyújtásra nyitva álló határidő lejártának napját követő naptól számított
+30 napon belül bírálja el.
+(5) A bányászati jog ellenértéke a Magyar Államot, a pályázattal kapcsolatos díjak az MBFH-t illetik meg. A nyertes
+pályázónak a bányászati jog ellenértékét az eredményhirdetést követő 8 napon belül meg kell fizetnie. Az MBFH a Bt.
+26/A. § (7) bekezdése szerinti határozatát a bányászati jog ellenértékének megfizetését követő 10 napon belül hozza
+meg.
+(6) Ha a nyertes pályázó a bányászati jog ellenértékét az eredményhirdetést követő 8 napon belül nem fizeti meg, a
+pályázata eredménytelen. A bányászati jogra benyújtott többi pályázatot 5 napon belül ismételten értékelni kell.
+(7) A pályázat eredménytelen akkor is, ha a pályázati hirdetményben vagy e jogszabályban foglalt előírásokat
+figyelembe véve a bányászati jog jogosultja nem jelölhető ki.
+(8) Eredménytelen pályázat esetében a pályázatot a bányafelügyelet ismételten meghirdeti. A pályázat ismételt
+eredménytelensége esetén a bányafelügyelet megkeresi a Magyar Nemzeti Vagyonkezelő Zrt.-t (a továbbiakban:
+MNV Zrt.), azzal, hogy 10 napon belül igényt jelenthet be a bányatelek bányászati jogára.
+(9) Ha az MNV Zrt. a (8) bekezdésben meghatározott határidőn belül nem jelent be igényt a bányatelek bányászati
+jogára, a bányafelügyelet intézkedik a fennmaradó kötelezettségeknek a Bt. 41. § (7) bekezdése szerinti biztosíték
+terhére történő teljesítéséről, ezt követően megkeresi az ingatlanügyi hatóságot a bányatelek jogi jelleg
+ingatlan-nyilvántartásból való törlése céljából.”
+9. § A Vhr. 13. §-a a következő (8) bekezdéssel egészül ki:
+„(8) Ha a bányászati tevékenység folytatásához környezetvédelmi engedély, egységes környezethasználati engedély
+vagy környezetvédelmi működési engedély szükséges, akkor a kérelemhez mellékelnikell a jogerős környezetvédelmi
+engedélyt, egységes környezethasználati engedélyt vagy a környezetvédelmi működési engedélyt.”
+
+10. § (1) A Vhr. 19/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A szénhidrogén- és a széndioxid-szállítóvezeték (a továbbiakban együtt: szállítóvezeték) a földgáz elosztóvezeték
+(a továbbiakban: elosztóvezeték), az egyéb gáz és gáztermék vezeték, valamint a bányászati létesítmény és a
+célvezeték, továbbá környezete védelmére, zavartalan üzemeltetése, ellenőrzése, karbantartása, javítása és az
+üzemzavar-elhárítás biztosítására biztonsági szabályzat szerinti méretű biztonsági övezetet kell megállapítani.”
+(2) A Vhr. 19/A. § (2) bekezdés h) pontja helyébe a következő rendelkezés lép:
+[A biztonsági övezeten belül a (7) és (8) bekezdésben foglaltak kivételével tilos:]
+„h) a szénhidrogén-bányászatban használt technológiai létesítmények, a szállítóvezeték részét képező állomások és
+fáklyákbiztonságiövezeténekteljesterjedelmében,valaminta szállítóvezeték,az egyéb gáz és gáztermékvezetékés a
+célvezeték tengelyétől mért 5-5 m távolságon belül, valamint energiaellátó, távfelügyeleti, hírközlési és
+korrózióvédelemi kábelek esetében 1-1 m távolságon belül
+ha) fák, valamint a létesítmények, vezetékek épségét veszélyeztető egyéb növények ültetése,
+hb) szőlő és egyéb kordonok elhelyezése,
+hc) a 0,6 m-nél nagyobb mélységű talajművelés,
+hd) a kézzel végzett régészeti feltárás kivételével egyéb földmunka végzése, valamint
+he) a tereprendezés;”
+(3) A Vhr. 19/A. § (2) bekezdés j) pontja helyébe a következő rendelkezés lép:
+[A biztonsági övezeten belül a (7) és (8) bekezdésben foglaltak kivételével tilos:]
+„j) a bányászati létesítmény, az elosztóvezeték, a szállítóvezeték, a célvezeték, valamint az egyéb gáz és gáztermék
+vezeték jelzéseinek, felszíni műtárgyainak eltakarása, megrongálása, eltávolítása.”
+(4) A Vhr. 19/A. § (7) és (8) bekezdése helyébe a következő rendelkezés lép:
+„(7) A biztonsági övezeten belül az üzemeltetéshez, karbantartáshoz és javításhoz szükséges létesítmények, anyagok
+ideiglenesen elhelyezhetők, tevékenységek folytathatók. Szállítóvezeték, elosztóvezeték, célvezeték, valamint az
+egyéb gáz és gáztermék vezeték tengelyvonalától számított 2-2 méteres övezetben a 0,5 m mélységet meg nem
+haladó szilárd útburkolat-bontás kivételével gépi földmunka, beleértve a fúrási tevékenységet is, nem végezhető.
+(8) Nyomvonaljellegű kőolaj- és földgázbányászati létesítmény, szállítóvezeték, elosztóvezeték, célvezeték, valamint
+egyéb gáz és gáztermék vezeték keresztezéséhez, megközelítéséhez azok üzemeltetőjének egyetértése szükséges. A
+keresztező, megközelítő létesítmény beruházójának, építtetőjének gondoskodnia kell:
+a) a szükséges engedélyezési és kivitelezési, valamint üzemeltetési, technológiai tervek elkészítéséről és
+egyeztetéséről,
+b) a meglévő létesítményen megvalósítani szükséges átalakítások terveinek elkészítéséről, kivitelezéséről és
+költségeinek viseléséről,
+c) a biztonsági övezet kialakítása érdekében szükséges költségek viseléséről, és
+d) az építési területen a munkaterület átadás-átvételét megelőzően a keresztezett, megközelített létesítményt
+üzemeltető szakfelügyelete és felelőssége mellett a gépi földmunka tiltott övezete nyomvonalának kijelöléséről,
+valamint a kijelölés fenntartásáról a munkálatok végzése során.”
+(5) A Vhr. 19/A. § (10) bekezdése helyébe a következő rendelkezés lép:
+„(10) Az üzemeltető a (8) bekezdés szerinti egyetértés megadását feltételekhez kötheti. Ha a feltételek betartásához
+szakmai felügyelet szükséges, az üzemeltető indokolatlanul nem tagadhatja meg az építtető szakmai felügyelet
+szolgáltatása iránti igényét. Szakmai felügyelet nélkül az építési tevékenységet megkezdeni és végezni nem lehet.”
+11. § (1) A Vhr. 21. § (5) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a § a következő (5a) és (5b) bekezdéssel
+egészül ki:
+„(5) A bányavállalkozóabányászatitevékenységekelvégzéséremásszeméllyel(a továbbiakban:vállalkozó)szerződést
+köthet, ha a vállalkozóa tevékenységre jogszabálybanelőírt szakmaiképesítéssel,gyakorlattal,feltételekkel,vizsgával,
+engedéllyel rendelkezik, vagy e követelményeknek megfelelő személyeket foglalkoztat.
+(5a) A vállalkozó alvállalkozót a bányavállalkozó hozzájárulásával vehet igénybe, amennyiben az alvállalkozó a
+tevékenység végzése tekintetében megfelel a vállalkozóra előírt feltételeknek.
+(5b) A vállalkozó, valamint az alvállalkozó igénybevételét az igénybevétel megkezdését legalább 15 nappal
+megelőzőena bányakapitányságnakbe kelljelenteni.A vállalkozó,valamint az alvállalkozóközreműködésenem érinti
+a bányavállalkozónak a Bt. hatálya alá tartozó tevékenységért fennálló felelősségét.”
+
+(2) A Vhr. 21. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) Az (5b) bekezdés szerinti bejelentésnek tartalmaznia kell
+a) a bányavállalkozó megnevezését, székhelyét,
+b) a más vállalkozóval elvégeztetni tervezett tevékenység megnevezését vagy leírását,
+c) a tevékenység végzésének helyét,
+d) az igénybe venni tervezett vállalkozó megnevezését, székhelyét és
+e) a vállalkozó alkalmasságának igazolását.”
+12. § A Vhr. a következő 21/A. §-sal egészül ki:
+„21/A. § (1) A földgázellátásról szóló törvény alapján szállítási rendszerüzemeltetési, földgázelosztási és a
+földgáztárolási működési engedéllyel rendelkező szervezetnek (a továbbiakban: engedélyes) a Bt. 28/B. §
+(1) bekezdése szerinti kiszervezés jóváhagyása iránti kérelemhez – az (5) bekezdésben foglaltak figyelembevételével –
+mellékelnie kell
+a) a kiszervezésre vonatkozó megállapodást,
+b) a kiszervezett tevékenységet végző vállalkozó – alvállalkozó igénybevétele esetén az alvállalkozó – kiszervezett
+tevékenység gyakorlására vonatkozó alkalmasságának igazolását,
+c) a vállalkozó vagy az alvállalkozó egy hónapnál nem régebbi cégkivonatát.
+(2) A vállalkozó akkor alkalmas a kiszervezett tevékenység végzésére, ha rendelkezik az ahhoz szükséges számú,
+jogszabálybanelőírt szakmaiképesítéssel,gyakorlattal, vizsgávalés engedéllyel rendelkezőmunkavállalóval,valamint
+a tevékenység végzéséhez szükséges munkaeszközzel és berendezéssel.
+(3) A vállalkozó alvállalkozót az engedélyes hozzájárulásával vehet igénybe. Az alvállalkozóra a (2) bekezdés előírásait
+alkalmazni kell.
+(4) A kiszervezés jóváhagyása nem mentesíti az engedélyest a vállalkozó igénybevételére vonatkozó, a
+földgázellátásról szóló törvényben előírt engedély megszerzése alól.
+(5) Ha a kérelmező a kérelemhez az (1) bekezdés c) pontja szerinti cégkivonatot nem mellékeli, annak beszerzéséről a
+bányafelügyelet a cégnyilvántartást vezető szerv céginformációs szolgáltatásán keresztül az adatok elektronikus
+formában történő lekérdezésével gondoskodik.”
+13. § A Vhr. 23/A. §-a a következő (6a) bekezdéssel egészül ki:
+„(6a) A Bt. 38. § (5) bekezdése alapján a szénhidrogén-szállítóvezeték vagy az egyéb gáz és gáztermék vezeték
+biztonságának fenntartása érdekében a bányavállalkozó vagy az egyéb gáz és gáztermék vezeték üzemeltetője
+jogosult a 19/A. § (2) bekezdés h) pontja szerinti biztonsági övezetben, illetve mértékhatárok között lévő fákat,
+bokrokat, azok ágait, gyökereit eltávolítani és elszállítani, ha az eltávolított növényzetre az ingatlan tulajdonosa nem
+tart igényt.”
+14. § A Vhr. 23/B. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) A Bt. 38/C. és 38/D. §-ában meghatározott létesítmények üzemeltetésére megállapított vezetékjog vagy
+használati jog esetén, az engedélyes a vezetékjogot vagy használati jogot alapító határozat végrehajthatóvá válásától
+számított 15 napon belül köteles az (1) bekezdésben előírt kártalanítási összeget az ingatlantulajdonos részére átadni
+vagy bírósági letétbe helyezni.”
+15. § (1) A Vhr. 25. § (1) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a § a következő (1a) és (1b) bekezdéssel
+egészül ki:
+„(1) A Bt. 41. §-a alapján kiszabott bírság összegének felső határa 10 000 000 forint. Ha a bírság kiszabásának alapját
+képező jogellenes állapotot a kötelezett a határozatban megállapított határidőre nem szünteti meg vagy a jogsértést
+ismét elköveti, a bírság ismételten kiszabható, amelynek felső határa 30 000 000 forint.
+(1a) Az (1) bekezdés szerinti bírság mértékének megállapításánál figyelemmel kell lenni a közigazgatási hatósági
+eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottakon túl
+a) a jogsértés felróhatóságára és
+b) a jogsértés veszélyeztető jellegére.
+(1b) A Bt. 41/A. §-a alapján kiszabott bírság összege százezer forintig terjedhet. A bírság ismételten is kiszabható, ha a
+bírság megállapításának alapját képező jogellenes állapotot a kötelezett határidőre nem szünteti meg. Az ismételten
+kiszabott bírság összegének felső határa százötvenezer forint lehet.”
+
+(2) A Vhr. 25. § (7) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a § a következő (7a) bekezdéssel egészül
+ki:
+„(7) Az (5) bekezdésben foglalt biztosítékul hitelintézettel vagy biztosítóval e célra megkötött fedezeti megállapodás
+– bankgarancia, biztosítási szerződés alapján kiállított, garanciát tartalmazó biztosítói kötelezvény, hitelintézet vagy
+biztosítószerződésbenvállaltkészfizetőkezessége–, zálogjog,óvadékvagy a szénipariszerkezetátalakításitámogatás
+meghatározásának és kezelésének részletes szabályairól szóló kormányrendelet alapján megállapított támogatás
+szolgálhat.
+(7a) A bányavállalkozóóvadékesetébenabiztosítékösszegétabányafelügyelethatóságiletétiszámlájáraisutalhatja.”
+(3) A Vhr. 25. § (10) bekezdése helyébe a következő rendelkezés lép:
+„(10) A meg nem fizetett bányajáradék, jogosulatlanul kitermelt ásványi nyersanyag értéke és felügyeleti díj, valamint
+ezek késedelmi kamatai behajtása érdekében a bányafelügyelet megkeresi az adóhatóságot.”
+16. § A Vhr. a következő 32/A. §-sal egészül ki:
+„(a Bt. 49/A. §-ához)
+32/A. § A bányafelügyelet az éves költségvetési tervében elkülönített keretet biztosít a biztonsági- és munkavédelmi
+kutatásokra, valamint ezek megvalósítására, az ipartörténeti jelentőségű bányászati emlékek felkutatására és
+megőrzésére, a bányász szakma hagyományainak ápolására, a bányászati szakirodalom támogatására, továbbá az e
+tevékenységekhez szükséges feltételek biztosítására. A keret felhasználásról az MBFH elnöke dönt.”
+17. § A Vhr. 34. §-a a következő 14–17. ponttal egészül ki:
+(E rendelet alkalmazásában:)
+„14. Geotermikus védőidom: geotermikus energiahasznosítás céljából a földkéreg lehatárolt része, amelyben adott
+technológiát alkalmazva a kinyerni tervezett geotermikus energia mennyiség legalább 25 évre biztosított.
+15. Hidrosztatikusnyomásútároló:olyan föld alatti térrész, amelyben a terep alatti mélységből és átlagosan 1000 kg/m3
+vízsűrűségből becsült nyomásértéknél legfeljebb 20 barral nagyobb a nyomás.
+16. Nagy nyomású tároló: olyan föld alatti térrész, amely a hidrosztatikus nyomású tároló esetében megadott értéknél
+nagyobb nyomással rendelkezik.
+17. Geotermikus energia-utánpótlódás: a termelő-visszasajtoló kutak által kialakított vízáramlási és hőtranszport
+rendszer hatására a földi hőáramból származó energia.”
+18. § A Vhr. az 1. melléklet szerinti 1. számú melléklettel egészül ki.
+19. § A Vhr. 1/C. §-ában a „Bt. 6. § (2) bekezdése szerinti” szövegrész helyébe a „Bt. 6. § (1) bekezdése szerinti” szöveg, a Vhr.
+2. § (4) bekezdésében az „a bányászati koncesszió pályázatok előkészítésére” szövegrész helyébe az „a bányászati
+koncessziós pályázatok előkészítésére, a minősítő bizottság tagjainak díjazására” szöveg, a Vhr. 3. § (2) bekezdésében
+az „A kérelemhez” szövegrész helyébe az „A bányászati koncessziós tevékenység gyakorlása jogának átruházása iránti
+kérelemhez” szöveg, a Vhr. 3. § (5) bekezdésében az „az MBFH” szövegrész helyébe az „a bányafelügyelet” szöveg, a
+Vhr. 10/A. § (1) bekezdésében a „minőségbiztosítási rendszer” szövegrész helyébe a „műszaki-biztonsági irányítási
+rendszer” szöveg, a Vhr. 10/A. § (2) bekezdésében a „minőségbiztosítási rendszert” szövegrész helyébe a
+„műszaki-biztonsági irányítási rendszert” szöveg, a Vhr. 14. § (3) bekezdésében a „környezetvédelmi engedély”
+szövegrész helyébe a „környezetvédelmi, egységes környezethasználati vagy környezetvédelmi működési engedély”
+szöveg, a Vhr. 19/A. § (12) bekezdésében az „a biztonsági övezettel védett létesítmény, szállítóvezeték vagy
+elosztóvezeték” szövegrész helyébe az „az (1) bekezdés szerinti, biztonsági övezettel védett létesítmény” szöveg, a
+Vhr. 21. § (8) bekezdésébenaz „az(5) bekezdésszerinti”szövegrészhelyébeaz „az(5b) bekezdésszerinti”szöveg,a Vhr.
+23/C. § (2) bekezdésében az „a gázelosztó-vezeték (a továbbiakban: elosztóvezeték)” szövegrész helyébe az „az
+elosztóvezeték” szöveg, a Vhr. 35. § (13) bekezdésében az „a bányászatért felelős miniszter” szövegrész helyébe az „a
+miniszter” szöveg, a Vhr. 35. § (14) bekezdésében az „A bányászatért felelős miniszter” szövegrész helyébe az „A
+miniszter” szöveg, a Vhr. 35. § (15) bekezdésében az „a bányászati ügyekért felelős miniszternek” szövegrész helyébe
+az „a miniszternek” szöveg, a Vhr. 4. számú melléklet I.3. pont g) alpontjában az „a hidrogeológiai” szövegrész helyébe
+az „a hidrogeológiai, rezevoármechnikai, vízminőségi és fluidum-összetételi” szöveg lép.
+
+20. § Hatályát veszti a Vhr. 3. § (1) bekezdése, a Vhr. 3. § (2) bekezdés b) pontjában az „ , és a meg nem fizetett bányajáradék”
+szöveg, a Vhr. 6. § (4) bekezdés c) pontja, a Vhr. 6/D. § (1) bekezdés c) pontjában az „és azok elhárítására” szöveg, a Vhr.
+7. § (5) bekezdése, a Vhr. 12. § (7) bekezdése, a Vhr. 13. § (4) bekezdése, a Vhr. 17. § (4) bekezdése, a Vhr. 23/E. §
+(3) bekezdése, a Vhr. 25. § (4) bekezdése, a Vhr. 28. § (1) bekezdés c) és h) pontja, a Vhr. 29. § (4) bekezdése, a Vhr. 30. §
+(2) bekezdése, a Vhr. 30/B. § (6) bekezdés utolsó mondata, a Vhr. 2. számú melléklet I.1. pont b) alpontjában
+a „létesítendő” szöveg, a Vhr. 2. számú melléklet II.2. pont a) alpontjában a „létesítendő” szöveg.
+2. A nyugdíjas bányászok szénjárandóságának pénzbeli megváltásáról szóló
+145/1992. (XI. 4.) Korm. rendelet módosítása
+21. § A nyugdíjas bányászok szénjárandóságának pénzbeli megváltásáról szóló 145/1992. (XI. 4.) Korm. rendelet a
+következő 8/C. és 8/D. §-sal egészül ki:
+„8/C. § A 2012. évben jogosultak a pénzbeli szénjárandóság4. § szerinti kifizetésére azok, akik 2011. december 31-ig az
+1. § (2) bekezdése szerint mentek nyugdíjba, azonban 2012. január 1-jétől
+a) a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló
+2011. évi CLXVII. törvény szerinti korhatár előtti ellátásban,
+b) a bányászatról szóló 1993. évi XLVIII. törvény szerinti átmeneti bányászjáradékban vagy
+c) a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi
+CXCI. törvény szerinti rehabilitációs ellátásban vagy rokkantsági ellátásban
+részesülnek.
+8/D. § A 8/C. § szerinti esetben a pénzbeli szénjárandóság folyósítására 2012. július 15-ig kerül sor.”
+3. A Magyar Bányászati és Földtani Hivatalról szóló 267/2006. (XII. 20.) Korm. rendelet módosítása
+22. § (1) A Magyar Bányászati és Földtani Hivatalról szóló 267/2006. (XII. 20.) Korm. rendelet (a továbbiakban: Korm. rendelet)
+3. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A bányafelügyelet hatáskörébe tartozó hatósági ügyekben – az (5) bekezdésben foglaltak kivételével – első fokon
+a területileg illetékes bányakapitányság, másodfokon a Hivatal jár el. Több bányakapitányság illetékességi területét
+érintő hatósági ügy esetén az eljáró bányakapitányságot a Hivatal elnöke jelöli ki.”
+(2) A Korm. rendelet 3. § (5) bekezdés m) pontja helyébe a következő rendelkezés lép:
+(A Hivatal első fokú hatáskörébe tartozik:)
+„m) a Bt. 24. § (3) bekezdése szerint a szénhidrogén szállítóvezeték, a földgázelosztó és -célvezeték, valamint -tároló
+létesítmény, egyéb gáz és gáztermék vezeték és a szén-dioxid szállítóhálózat tervezésére, létesítésére, felújítására,
+üzemeltetésére és elbontására az engedélyes, az egyéb gáz és gáztermék vezeték és a szén-dioxid szállítóhálózat
+üzemeltetője által kidolgozott műszaki-biztonsági irányítási rendszer jóváhagyása;”
+(3) A Korm. rendelet 3. § (5) bekezdése a következő o)–r) ponttal egészül ki:
+(A Hivatal első fokú hatáskörébe tartozik:)
+„o) a szén-dioxid geológiai tárolására kiadott tárolási engedélyekre, valamint a bezárt tárolóhelyre és az azt övező
+tároló-komplexumra vonatkozó nyilvántartás vezetése;
+p) a Bt. 42/I. § (4) bekezdése szerinti szén-dioxid szállítóhálózathoz vagy tárolóhelyhez való hozzáférés
+megtagadásával kapcsolatban kezdeményezett eljárás lefolytatása;
+q) a Bt. 42/J. § (2) bekezdése szerinti együttműködési megállapodás hiánya esetére előírt eljárás lefolytatása; és
+r) a Bt. 42/V. § (2) bekezdése szerinti, Európai Bizottságnak megküldendő jelentés előkészítése a miniszter számára.”
+23. § A Korm. rendelet 4/A. §-a a következő (10) bekezdéssel egészül ki:
+„(10) A Kormány a szén-dioxid geológiai tárolásával kapcsolatos első- és másodfokú engedélyezési eljárásban a
+3. mellékletben meghatározott feltételek esetében és szakkérdésben a 3. melléklet szerinti hatóságokat
+szakhatóságként jelöli ki.”
+24. § A Korm. rendelet 9. §-a a következő d) ponttal egészül ki:
+(Ez a rendelet)
+„d) a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a
+2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet
+
+módosításáról szóló, 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv 22. cikk (1) bekezdésének,
+23. cikkének, 25. cikk (1) bekezdésének és 27. cikkének”
+(való megfelelést szolgálja.)
+25. § A Korm. rendelet 3. § (5) bekezdésa) pontjábana „továbbáa meg nem fizetett bányajáradékés felügyeleti díj, valamint
+a késedelmi kamat végrehajtása” szövegrész helyébe a „továbbá a Bt. 41. § (8) bekezdésében meghatározott fizetési
+kötelezettség behajtása iránti intézkedés kezdeményezése” szöveg lép.
+26. § (1) A Korm. rendelet 2. melléklete a 2. melléklet szerinti módosul.
+(2) A Korm. rendelet 3. melléklete helyébe a 3. melléklet lép.
+27. § Hatályát veszti a Korm. rendelet 4/A. § (3) bekezdésében a „megszerzésére, felhasználására,” szövegrész.
+4. Az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás
+módjának meghatározásáról szóló 54/2008. (III. 20.) Korm. rendelet módosítása
+28. § (1) Az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának
+meghatározásáról szóló 54/2008. (III. 20.) Korm. rendelet (a továbbiakban: Kr.) 6. § (1) bekezdés a) pontja helyébe a
+következő rendelkezés lép:
+(Az 1998. január 1. előtt termelésbe állított mezőkön kitermelt földgáz esetében)
+„a) a kitermelt földgáz mennyisége után keletkező érték
+aa) a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET.) 141/B. §-a szerint módosított szerződés
+alapján, a GET. 133. § (1) bekezdés 3. pontja szerinti felhatalmazás alapján kiadott rendeletben meghatározott áron és
+mennyiségben értékesített földgáz esetén a kitermelt földgáz hőmennyiségének(GJ) és az 1/b. melléklet A. pontjában
+meghatározott fajlagos értéknek (Ft/GJ), de legfeljebb 2337 Ft/GJ fajlagos értéknek a szorzata (E Ft),
+ab) nem az aa) alpont szerinti értékesítés esetén a kitermelt földgáz hőmennyiségének (GJ) és az 1/b. melléklet
+A. pontjában meghatározott fajlagos értéknek (Ft/GJ) a szorzata (E Ft),”
+(2) A Kr. 9. §-a a következő (3) bekezdéssel egészül ki:
+„(3) E rendeletnek a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm.
+rendelet és egyes bányászati tárgyú kormányrendeletek módosításáról szóló 146/2012. (VII. 5.) Korm. rendelet
+(a továbbiakban: Mód. rendelet) 28. § (1) bekezdésével megállapított 6. § (1) bekezdés a) pontjában foglalt
+rendelkezését a Mód. rendelet hatálybalépését követő hónap első napjától kitermelt földgáz-mennyiségre kell
+alkalmazni.”
+5. Az ásványi nyersanyag és a geotermikus energia természetes előfordulási területének komplex
+érzékenységi és terhelhetőségi vizsgálatáról szóló 103/2011. (VI. 29.) Korm. rendelet módosítása
+29. § Az ásványi nyersanyag és a geotermikus energia természetes előfordulási területének komplex érzékenységi és
+terhelhetőségi vizsgálatáról szóló 103/2011. (VI. 29.) Korm. rendelet 1. melléklet 10:B mezőjében a „Honvéd Vezérkar
+Főnöke” szövegrész helyébe a „Honvédelmi Minisztérium Hatósági Hivatal igazgatója” szöveg lép.
+6. Záró rendelkezések
+30. § Ez a rendelet a kihirdetését követő ötödik napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+31. § E rendelet 22. § (3) bekezdése a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a
+2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint
+az 1013/2006/EK rendelet módosításáról szóló, 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv
+22. cikk (1) bekezdésének, 23. cikkének, 25. cikk (1) bekezdésének és 27. cikkének való megfelelést szolgálja.
+Orbán Viktor s. k.,
+miniszterelnök
+
+1. melléklet a 146/2012. (VII. 5.) Korm. rendelethez
+„1. számú melléklet a 203/1998. (XII. 19.) Korm. rendelethez
+A geotermikus védőidom kijelöléséhez szükséges műszaki leírás tartalma
+1. A termelő és visszatápláló kutakra, valamint a hasznosítás külszíni berendezéseire vonatkozó műszaki adatok.
+2. A kutak és feltáró fúrások geofizikai, földtani, vízföldtani, vízminőségi és vízhőmérsékleti adatai.
+3. A földtani kutatás adatai alapján a terület földtani-geofizikai, hidrogeológiai, vízminőségi és geotermikus,
+hőmérsékleti és termofizikai viszonyainak ismertetése.
+4. A tervezett geotermikus energia-termelése során a geotermikus energia időegység alatt kinyert mennyisége, a
+várható üzemmód, a normál üzemeltetési rend, valamint az üzemeltetési rend karbantartás és havária esetén.”
+2. melléklet a 146/2012. (VII. 5.) Korm. rendelethez
+A Korm. rendelet 2. melléklete a következő 13. sorral egészül ki:
+(A B C D
+Bevonás és közreműködés
+feltétele
+Szakkérdés Első fokú eljárásban Másodfokú eljárásban)
+„13. „A” osztályú bányászati
+hulladékkezelő
+létesítmény építési és
+használatbavételi
+engedélyezési
+eljárásában
+belső vészhelyzeti terv
+megfelelőségének
+kérdésében
+megyei, fővárosi
+katasztrófavédelmi
+igazgatóság
+Belügyminisztérium
+Országos
+Katasztrófavédelmi
+Főigazgatóság”
+
+3. melléklet a 146/2012. (VII. 5.) Korm. rendelethez
+„3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez
+
+A B C D E F G H I J K L M
+1. Bevonás és
+közreműködés
+feltétele
+Szakkérdés Első fokú
+eljárásban
+Másodfokú
+eljárásban
+Kutatásra
+vonatkozó
+műszaki
+üzemterv
+jóváhagyása
+(kivett hely
+esetében a
+hatáskörrel
+kivett
+helyre
+vonatkozó
+állás-
+foglalása is)
+Bánya-
+telek
+megálla-
+pítása
+Feltárásra és
+kitermelésre
+készített
+műszaki
+üzemterv
+jóváhagyása,
+módosítása,
+szüneteltetési
+műszaki
+üzemi
+terv
+jóváhagyása
+Védőpillér
+kijelölése,
+módosítása,
+meggyen-
+gítése
+és lefejtése
+Bánya-
+bezárás,
+tájrendezés
+végrehajtása,
+bányászati
+tevékenység
+befejezése
+Föld alatti
+bánya-
+térségek
+és egyéb
+bányászati
+létesít-
+mények
+más célú
+hasznosítása
+jóváhagyása
+Szén-
+dioxid
+geológiai
+tárolására
+irányuló
+földtani
+kutatás
+engedé-
+lyezése
+Szén-
+dioxid
+geológiai
+tárolásának
+engedélye-
+zése
+Szén-
+dioxid
+tárolóhely
+bezárására
+irányuló
+eljárás
+2. Az eljárás
+gyógyhelyet,
+ásvány-, gyógyvíz
+és gyógyiszap
+lelőhelyet érint, és
+az eljárással érintett
+tevékenység
+megkezdéséhez,
+bányatelek
+megállapításhoz
+környezetvédelmi
+engedély vagy
+egységes környezet-
+használati engedély
+nem szükséges.
+A tevékenység
+természetes
+gyógytényezőre,
+gyógyhelyre
+gyakorolt hatásainak
+vizsgálata
+kérdésében.
+Állami
+Népegészségügyi
+és Tisztiorvosi
+Szolgálat
+Országos
+Tisztifőorvosi
+Hivatala
+Egészségügyi
+Engedélyezési és
+Közigazgatási
+Hivatal
+IGEN IGEN NEM IGEN NEM IGEN IGEN IGEN NEM
+3. Az eljárás
+ivóvízbázist érint.
+A tevékenység
+ivóvízbázisra
+gyakorolt hatásainak
+vizsgálata
+kérdésében.
+fővárosi és
+megyei
+kormányhivatal
+népegészségügyi
+szakigazgatási
+szerve
+Állami
+Népegészségügyi
+és Tisztiorvosi
+Szolgálat Országos
+Tisztifőorvosi
+Hivatala
+NEM NEM NEM NEM NEM NEM IGEN IGEN IGEN
+4. Ha a tevékenység
+vagy beruházás
+termőföldet érint.
+A termőföld
+mennyiségi védelme.
+körzeti
+földhivatal, több
+körzeti
+földhivatal
+illetékességi
+területét érintő
+esetekben a
+megyei
+megyei
+kormányhivatal
+földhivatala, a
+fővárosban a
+Fővárosi
+Kormányhivatal
+Földhivatala, ha
+első fokon a
+IGEN IGEN NEM NEM IGEN NEM IGEN IGEN IGEN
+
+kormányhivatal
+földhivatala, a
+fővárosban a
+Fővárosi
+Kormányhivatal
+Földhivatala
+megyei vagy
+fővárosi
+kormányhivatal
+földhivatala járt el,
+akkor a földügyért
+felelős miniszter
+5. Ha a tevékenység
+vagy beruházás
+termőföldön valósul
+meg.
+A termőföld minőségi
+védelme
+követelményeinek a
+kérdésében.
+fővárosi és
+megyei
+kormányhivatal
+növény- és
+talajvédelmi
+igazgatósága
+Nemzeti
+Élelmiszerlánc-
+biztonsági Hivatal
+NEM NEM IGEN,
+kivéve a
+szüneteltetési
+műszaki
+üzemi terv
+jóváhagyása
+NEM IGEN IGEN NEM IGEN IGEN
+6. Ha ugyanezt a
+szakkérdést
+korábban önálló
+eljárásban vagy
+szakhatóságként
+nem vizsgálták, és
+az eljárás erdőt
+érint.
+a) Az erdőre
+gyakorolt hatásoknak
+a kérdésében.
+b) Bányatelek
+megállapítása iránti
+eljárásban az a)
+pontban
+meghatározot-takon
+túl az erdő
+igénybevételének
+engedélyezhető-sége
+kérdésében is.
+fővárosi és
+megyei
+kormányhivatal
+erdészeti
+igazgatósága
+Nemzeti
+Élelmiszerlánc-
+biztonsági Hivatal
+NEM IGEN NEM IGEN IGEN NEM NEM IGEN IGEN
+7. Ha az eljárás
+közutat vagy annak
+biztonsági övezetét
+érinti és a
+kérelmező az
+útkezelői
+hozzájárulás
+megtagadását vagy
+a hozzájárulásban
+előírt feltételeket
+sérelmesnek tartja.
+Annak elbírálása
+kérdésében,
+hogy a közút
+területének nem
+közlekedési célú
+igénybevétele
+vagy a tevékenység
+a kérelemben
+foglaltak szerint
+vagy további
+feltételek mellett
+– a közúti forgalom
+biztonságára,
+a közút fejlesztési
+terveinek
+végrehajtására,
+a közútkezelő
+fenntartási,
+üzemeltetési
+Országos közút IGEN IGEN NEM IGEN IGEN IGEN IGEN IGEN IGEN
+
+feladatainak
+ellátására, a közút
+állagára gyakorolt
+hatása alapján –
+engedélyezhető-e.
+a) gyorsforgalmi út, valamint közúti
+határátkelőhely közlekedési építményei
+esetében:
+Nemzeti
+Közlekedési
+Hatóság Útügyi,
+Vasúti és
+Hajózási Hivatal
+Nemzeti
+Közlekedési
+Hatóság Központja
+b) egyéb országos közút esetében:
+fővárosi és
+megyei
+kormányhivatal
+közlekedési
+felügyelőség
+Nemzeti
+Közlekedési
+Hatóság Központja
+Helyi közút
+a) a főváros kivételével a települési
+önkormányzat tulajdonában lévő helyi
+közutak esetében:
+megyei
+kormányhivatal
+közlekedési
+felügyelőség
+Nemzeti
+Közlekedési
+Hatóság Központja
+b) a fővárosi kerületi önkormányzat
+tulajdonában lévő helyi közutak
+esetében:
+Fővárosi
+főjegyző
+Budapest Főváros
+Kormány-
+hivatalának
+Közlekedési
+Felügyelősége
+c) a Fővárosi Önkormányzat
+tulajdonában lévő helyi közutak
+esetében:
+Budapest Főváros
+Kormány-
+hivatalának
+Közlekedési
+Felügyelősége
+Nemzeti
+Közlekedési
+Hatóság Központja
+
+8. Az eljárás vasúti
+pályát, vagy szélső
+vágányának
+tengelyétől
+számított 100
+méteren belüli
+területet érint, és az
+építtető a vasúti
+pályahálózat
+működtetője
+hozzájárulásának a
+megtagadását vagy
+a hozzájárulásban
+előírt feltételeket
+sérelmesnek tartja.
+Annak elbírálása
+kérdésében,
+hogy a vasúti pálya
+területének nem
+közlekedési célú
+igénybevétele a
+kérelemben foglaltak
+szerint vagy további
+feltételek mellett
+– a tervezett
+igénybevétel a vasút
+állagára, a vasúti
+forgalom
+biztonságára,
+a vasút kezelő
+fenntartási,
+üzemeltetési
+feladatainak
+ellátására, fejlesztési
+terveinek
+végrehajtására
+gyakorolt hatása
+alapján
+– engedélyezhető-e.
+Nemzeti
+Közlekedési
+Hatóság Útügyi,
+Vasúti és
+Hajózási Hivatal
+Nemzeti
+Közlekedési
+Hatóság Központja
+IGEN IGEN NEM IGEN NEM NEM IGEN IGEN IGEN
+9. Az eljárás egyéb
+víziközlekedési
+létesítményt érint.
+Az építmény nem
+korlátozza-e
+indokolatlanul vagy
+indokolatlan
+mértékben a vízi
+közlekedési
+létesítmények
+működését.
+Nemzeti
+Közlekedési
+Hatóság Útügyi,
+Vasúti és
+Hajózási Hivatal
+Nemzeti
+Közlekedési
+Hatóság Központja
+IGEN IGEN NEM IGEN IGEN NEM IGEN IGEN IGEN
+10. Ha az eljárás tárgya
+meddőhányó vagy
+40 m-nél magasabb
+építmény.
+A létesítmény
+elhelyezkedésé-nek,
+magassága, jellege
+közvetlen és közvetett
+hatásainak vizsgálata
+a légiközlekedésre,
+a földi telepítésű
+berendezések
+működésére és a
+légiközlekedés
+biztonságára.
+Nemzeti
+Közlekedési
+Hatóság Légügyi
+Hivatal
+Nemzeti
+Közlekedési
+Hatóság Központja
+IGEN NEM IGEN NEM IGEN NEM IGEN IGEN IGEN
+
+11. Az eljárás
+honvédelmi és
+katonai célú
+létesítmény
+működési vagy
+védőterületét érinti.
+Annak elbírálása
+kérdésében, hogy a
+Magyar Honvédség
+nemzeti és szövetségi
+védelmi feladatai a
+kérelemben foglaltak
+szerinti esetben vagy
+további feltételek
+mellett
+biztosíthatóak-e.
+Honvédelmi
+Minisztérium
+Hatósági Hivatal
+igazgatója
+honvédelemért
+felelős miniszter
+IGEN IGEN IGEN NEM IGEN IGEN IGEN IGEN IGEN
+12. Ha az eljárással
+érintett tevékenység
+megkezdéséhez,
+bányatelek
+megállapításhoz
+környezetvédelmi
+engedély, vagy
+egységes
+környezet-
+használati engedély
+nem szükséges
+vagy a tevékenység
+továbbfolytatásához
+környezetvédelmi
+működési engedély
+nem szükséges.
+Annak elbírálása
+kérdésében, hogy
+a) a tevékenység a
+természet védelmére
+vonatkozó nemzeti és
+európai uniós jogi
+követelmények-nek, a
+tájvédelem
+jogszabályban
+rögzített
+követelményei-nek,
+környezetvédelmi,
+természetvédelmi
+és
+vízügyi
+felügyelőség
+Országos
+Környezetvédelmi,
+Természetvédelmi
+és Vízügyi
+Főfelügyelőség
+IGEN IGEN IGEN IGEN IGEN IGEN IGEN IGEN IGEN
+b) a felszíni és felszín
+alatti vizek védelme,
+hasznosítási
+lehetőségei
+megőrzése,
+c) a földtani közeg
+védelme
+követelményei-nek,
+d) a környezeti zaj és
+rezgés elleni védelem
+követelményei-nek, a
+levegőtisztaság-
+védelmi előírásoknak,
+valamint
+e) a tájvédelem
+jogszabályban
+rögzített
+
+követelményeinek a
+kérelemben foglaltak
+szerint vagy további
+feltételek mellett
+megfelel-e.
+
+Továbbá annak
+elbírálása kérdésében,
+hogy a keletkező
+hulladék elhelyezése,
+előkezelése,
+hasznosítása,
+ártalmatlanítása
+megfelel-e a
+hulladékgazdál-
+kodási előírásoknak,
+szükséges-e
+hulladékkezelő
+létesítmény létesítése,
+
+merülnek-e fel olyan,
+a hulladék-
+gazdálkodásból eredő
+környezeti
+kockázatok, amelyek
+mellett a
+hozzájárulást nem
+vagy csak
+feltételekkel lehet
+megadni.
+
+13. Ha az eljárás helyi
+jelentőségű védett
+természeti területet érint,
+és az eljárással érintett
+tevékenység
+megkezdéséhez,
+bányatelek megálla-
+pításhoz környezet-
+védelmi engedély vagy
+egységes környezet-
+használati engedély nem
+szük-séges vagy a tevé-
+kenység tovább-
+folytatásához kör-
+nyezetvédelmi működési
+engedély nem szükséges.
+Annak elbírálása
+kérdésében, hogy a
+létesítmény vagy
+tevékenység a helyi
+önkormányzati
+rendeletben és a helyi
+építési szabályzatban
+meghatározott
+természetvédelmi
+követelmények-nek a
+kérelemben foglaltak
+szerint vagy további
+feltételek mellett
+megfelel-e.
+települési
+önkormányzat
+jegyzője, a
+fővárosban a
+főjegyző
+fővárosi, megyei
+kormányhivatal
+ IGEN
+IGEN
+ IGEN
+ NEM
+ IGEN
+ IGEN
+IGEN
+IGEN
+IGEN
+
+14. Ha az eljárás
+régészeti lelőhelyet,
+régészeti védőövezet
+területét, műemléki
+területet vagy külön
+jogszabályban
+meghatározott
+esetekben
+műemléket érint, és
+az eljárással érintett
+tevékenység
+megkezdéséhez,
+bányatelek
+megállapításhoz
+környezetvédelmi
+engedély vagy
+egységes környezet-
+használati engedély
+nem szükséges.
+Annak elbírálása
+kérdésében, hogy a
+kérelem a kulturális
+örökség védelme
+jogszabályban rögzített
+követelményeinek a
+kérelemben foglaltak
+szerint vagy további
+feltételek mellett
+megfelel-e.
+fővárosi, megyei
+kormányhivatal
+kulturális
+örökségvédelmi
+irodája
+Kulturális
+Örökségvédelmi
+Hivatal
+IGEN IGEN NEM IGEN NEM IGEN IGEN IGEN NEM
+”
