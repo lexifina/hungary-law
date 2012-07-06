@@ -52,7 +52,7 @@ g) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az ál
 
 h) a központi költségvetésből vagy Európai Uniós forrásból támogatást folyósító szervet, ha a tájékoztatás a támogatás igénylése, felhasználása, elszámolása jogszerűségének megállapításához szükséges.
 
-i) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet a helyi önkormányzatokról szóló törvény 33/A. § (2a) bekezdés c) pontjában meghatározott körben.
+i) a helyi önkormányzatok törvényességi felügyeletéért felelős szervet a helyi önkormányzatokról szóló törvény 33/A. § (2a) bekezdés c) pontjában meghatározott körben.
 
 (8) Az állami adó- és vámhatóság a NAV nyomozó hatóságát tájékoztatja az adótitokról a bűncselekmények megelőzése, az adott bűncselekmény felderítése és nyomozása során a bűnüldözési feladatok teljesítése érdekében, valamint a büntető eljárás megindítása vagy lefolytatása céljából.
 
