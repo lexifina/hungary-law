@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti kötelezettség magában foglalja a sajátos nevelési igényű gyermekek, tanulók ellátását is, amennyiben azok a többi gyermekkel, tanulóval együtt nevelhetők, oktathatók.
 
-(3) A Kormány általános hatáskörű területi államigazgatási szerve a megyei fenntartó útján, a megyei jogú város saját területén, továbbá – ha a (4) bekezdés másképp nem rendelkezik – a fővárosi önkormányzat köteles gondoskodni
+(3) A fővárosi és megyei kormányhivatal a megyei fenntartó útján, a megyei jogú város saját területén, továbbá – ha a (4) bekezdés másképp nem rendelkezik – a fővárosi önkormányzat köteles gondoskodni
 
 a) a kollégiumi és a nemzetiségi kollégiumi ellátásról,
 
@@ -30,4 +30,4 @@ d) a nevelési tanácsadásról, logopédiai szolgáltatásról és gyógytestne
 
 (5) Felnőttoktatásban – a nappali oktatás munkarendje kivételével – a helyi önkormányzat feladatellátási kötelezettsége nem terjed ki a szakképzés megszervezésére.
 
-(6) Ha az ugyanazon nemzetiséghez tartozó tanulók létszáma nem teszi lehetővé, hogy egy településen belül a nemzetiségi oktatást megszervezzék, az érintett országos nemzetiségi önkormányzat kezdeményezésére a Kormány általános hatáskörű területi államigazgatási szerve a megyei fenntartó útján, a megyei jogú város saját területén – jogszabályban meghatározottak szerint – megszervezi az általános műveltséget megalapozó szakasz követelményeihez kapcsolódóan az anyanyelv és népismeret követelményeinek oktatását (a továbbiakban: kiegészítő nemzetiségi oktatás). A kiegészítő nemzetiségi oktatás megszervezhető egy adott iskola tagozataként, külön nyelvoktató nemzetiségi iskola létrehozásával vagy utazó pedagógusok alkalmazásával.
+(6) Ha az ugyanazon nemzetiséghez tartozó tanulók létszáma nem teszi lehetővé, hogy egy településen belül a nemzetiségi oktatást megszervezzék, az érintett országos nemzetiségi önkormányzat kezdeményezésére a fővárosi és megyei kormányhivatal a megyei fenntartó útján, a megyei jogú város saját területén – jogszabályban meghatározottak szerint – megszervezi az általános műveltséget megalapozó szakasz követelményeihez kapcsolódóan az anyanyelv és népismeret követelményeinek oktatását (a továbbiakban: kiegészítő nemzetiségi oktatás). A kiegészítő nemzetiségi oktatás megszervezhető egy adott iskola tagozataként, külön nyelvoktató nemzetiségi iskola létrehozásával vagy utazó pedagógusok alkalmazásával.

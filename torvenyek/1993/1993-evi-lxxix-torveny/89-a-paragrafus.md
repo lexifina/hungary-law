@@ -6,19 +6,19 @@
 
 (3)
 
-(4) A többcélú kistérségi társulási megállapodást, illetve annak módosítását a társulási tanács elnöke megküldi a Kormány – területileg illetékes – általános hatáskörű területi államigazgatási szervének, és szükség szerint kezdeményezi az átvett feladatokkal kapcsolatos megállapodás megkötését, módosítását. A Kormány általános hatáskörű területi államigazgatási szerve, legkésőbb hatvan napon belül köteles a kezdeményezésről dönteni.
+(4) A többcélú kistérségi társulási megállapodást, illetve annak módosítását a társulási tanács elnöke megküldi a fővárosi és megyei kormányhivatalnak, és szükség szerint kezdeményezi az átvett feladatokkal kapcsolatos megállapodás megkötését, módosítását. A fővárosi és megyei kormányhivatal, legkésőbb hatvan napon belül köteles a kezdeményezésről dönteni.
 
 (5) A többcélú kistérségi társulás az általa ellátott feladatokra – az e törvény 85. §-ának (4) bekezdése szerint – önálló intézkedési tervet készít.
 
 (6) Ha a többcélú kistérségi társulás megszűnik az e törvény 86. §-ának (3) bekezdésében meghatározott feladat-ellátási kötelezettség és a feladat ellátásához rendelkezésre álló intézményi vagyon használati joga – az e törvény 102. §-ának (9)–(10) bekezdésben meghatározottak szerint –
 
-a) a feladatellátási kötelezettség a Kormány általános hatáskörű területi államigazgatási szervére, a használati jog a megyei fenntartóra száll azoknak a községi, városi önkormányzatok tekintetében, amelyek e törvény 1993. szeptember 1-jei hatálybalépésekor (a továbbiakban: 1993. évi hatálybalépés) az adott feladatot nem látták el,
+a) a feladatellátási kötelezettség a fővárosi és megyei kormányhivatalra, a használati jog a megyei fenntartóra száll azoknak a községi, városi önkormányzatok tekintetében, amelyek e törvény 1993. szeptember 1-jei hatálybalépésekor (a továbbiakban: 1993. évi hatálybalépés) az adott feladatot nem látták el,
 
 b) arra a községi, városi önkormányzatra száll, amelyik az adott feladatot e törvény 1993. évi hatálybalépésekor ellátta.
 
 (7) Ha a községi, városi önkormányzat kilép a többcélú kistérségi társulásból az e törvény 86. §-ának (3) bekezdésében meghatározott feladat-ellátási kötelezettség és a feladat ellátásához rendelkezésre álló intézményi vagyon használati joga – az e törvény 102. §-ának (9) bekezdésben meghatározottak szerint –
 
-a) a feladatellátási kötelezettség a Kormány általános hatáskörű területi államigazgatási szervére, a használati jog a megyei fenntartóra száll, amennyiben a kilépő községi, városi önkormányzat e törvény 1993. évi hatálybalépésekor az adott feladatot nem látta el,
+a) a feladatellátási kötelezettség a fővárosi és megyei kormányhivatalra, a használati jog a megyei fenntartóra száll, amennyiben a kilépő községi, városi önkormányzat e törvény 1993. évi hatálybalépésekor az adott feladatot nem látta el,
 
 b) a kilépő községi, városi önkormányzatra száll, amennyiben az adott feladatot e törvény 1993. évi hatálybalépésekor ellátta.
 

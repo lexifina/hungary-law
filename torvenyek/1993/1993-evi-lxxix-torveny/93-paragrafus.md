@@ -34,6 +34,6 @@ n) ellátja a területfejlesztéshez kapcsolódó oktatáspolitikai feladatokat.
 
 (4)
 
-(5) Az oktatásért felelős miniszter, ha megítélése szerint a közoktatási intézmény működése, működtetése jogsértő, tájékoztatja a Kormány általános hatáskörű területi államigazgatási szervét, hogy a nem helyi önkormányzatok által fenntartott közoktatási intézmények tekintetében gyakorolni tudja az e törvény 80. §-ában meghatározott jogkörét.
+(5) Az oktatásért felelős miniszter, ha megítélése szerint a közoktatási intézmény működése, működtetése jogsértő, tájékoztatja a fővárosi és megyei kormányhivatalt, hogy a nem helyi önkormányzatok által fenntartott közoktatási intézmények tekintetében gyakorolni tudja az e törvény 80. §-ában meghatározott jogkörét.
 
 (6) A szakképzés irányításával kapcsolatos hatásköröket az oktatásért felelős miniszter és a szakképesítésért felelős miniszterek a szakképzésről szóló törvényben meghatározottak szerint gyakorolják.

@@ -22,7 +22,7 @@ b) a szakmai ellenőrzésről értesíteni kell az országos nemzetiségi önkor
 
 a) országos, térségi, megyei, fővárosi szinten az oktatásért felelős miniszter, szakképzés tekintetében a szakképesítésért felelős miniszter az országos oktatáspolitikai célkitűzések előkészítése vagy a célkitűzések megvalósulásának megismerése, továbbá az országos nemzetiségi önkormányzat a közoktatás nemzetiségi feladatai végrehajtásának értékelése,
 
-b) fővárosi szinten a fővárosi önkormányzat, megyei szinten a Kormány általános hatáskörű területi államigazgatási szerve a megyei, fővárosi fejlesztési terv, és az oktatáspolitikai célkitűzések előkészítése, megvalósulásának megismerése,
+b) fővárosi szinten a fővárosi önkormányzat, megyei szinten a megyei kormányhivatal a megyei, fővárosi fejlesztési terv, és az oktatáspolitikai célkitűzések előkészítése, megvalósulásának megismerése,
 
 c) települési szinten a községi, városi, megyei jogú városi, fővárosi kerületi önkormányzat a helyi oktatáspolitikai célkitűzések előkészítése, megvalósulásuk megismerése, a települési nemzetiségi önkormányzat a település nemzetiségi óvodai neveléssel, iskolai neveléssel és oktatással összefüggő feladatok végrehajtásának áttekintése,
 
