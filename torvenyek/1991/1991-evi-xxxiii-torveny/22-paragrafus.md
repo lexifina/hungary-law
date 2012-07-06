@@ -1,6 +1,6 @@
 22. § (1) Ajándékozás, öröklés vagy adásvétel (csere) útján állam tulajdonába került múzeális emlék és múzeális gyűjtemény (a továbbiakban együtt: múzeális emlék) a (2) bekezdésben említett kivételekkel e törvény alapján nem kerül, illetve nem adható önkormányzat tulajdonába.
 
-(2) A múzeális emlékek közül a Kormány általános hatáskörű területi államigazgatási szerve azokat adja a tanács, illetve az intézménye jogutódjának minősülő önkormányzat tulajdonába, amelyeket közvetlenül községnek, városnak, megyei jogú városnak, megyének a fővárosi kerületnek és a fővárosnak ajándékoztak, végrendelettel juttattak, ideértve a tanács intézménye által adásvétel (csere) útján szerzett múzeális emléket is.
+(2) A múzeális emlékek közül a fővárosi és megyei kormányhivatal azokat adja a tanács, illetve az intézménye jogutódjának minősülő önkormányzat tulajdonába, amelyeket közvetlenül községnek, városnak, megyei jogú városnak, megyének a fővárosi kerületnek és a fővárosnak ajándékoztak, végrendelettel juttattak, ideértve a tanács intézménye által adásvétel (csere) útján szerzett múzeális emléket is.
 
 (3) Volt közös tanács esetén a (2) bekezdés alkalmazása során a megajándékozott, illetőleg a végrendeletben örökösként nevezett település önkormányzatát kell jogutódnak tekinteni.
 

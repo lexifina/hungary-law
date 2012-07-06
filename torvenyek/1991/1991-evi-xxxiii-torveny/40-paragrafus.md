@@ -1,4 +1,4 @@
-40. § (1) A törvény erejénél fogva vagy a Kormány általános hatáskörű területi államigazgatási szerve döntésével önkormányzat tulajdonába került — az Öt. 79. §-ának b) pontjában megjelölt, továbbá az ingó — vagyont (vagyonrészt) a törvény által közszolgáltatásra kötelezett önkormányzat használatába kell átadni.
+40. § (1) A törvény erejénél fogva vagy a fővárosi és megyei kormányhivatal döntésével önkormányzat tulajdonába került — az Öt. 79. §-ának b) pontjában megjelölt, továbbá az ingó — vagyont (vagyonrészt) a törvény által közszolgáltatásra kötelezett önkormányzat használatába kell átadni.
 
 (2) Az önkormányzat tulajdonában lévő — (1) bekezdésben megjelölt — vagyont, amely nem az önkormányzat részére törvényben meghatározott feladat, vagy nem a főpolgármester, a polgármester, a megyei közgyűlés elnöke, a főjegyző, a jegyző, a képviselőtestület hivatala ügyintézője számára törvényben vagy kormányrendeletben meghatározott feladat, hatáskör gyakorlását szolgálja, továbbá nem az önkormányzat intézménye által végzett közszolgáltatást biztosítja, a feladatot ellátó állami szerv használatába kell adni.
 

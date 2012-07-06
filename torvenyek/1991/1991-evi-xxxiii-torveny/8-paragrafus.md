@@ -2,4 +2,4 @@
 
 (2) Azt a védett természeti területet, amely tanácsi közüzem kezelésében van — ideértve az ingatlankezelő szerv saját vagyonához tartozó védett természeti területet is —, az e szervek vagyonára vonatkozó szabályok megfelelő alkalmazásával kell önkormányzat tulajdonába adni.
 
-(3) Ha a védett természeti terület fenntartása, megóvása indokolja, azt a Kormány általános hatáskörű területi államigazgatási szerve az e törvényben tulajdonosként megjelölt önkormányzat egyetértésével, a természetvédelemért felelős miniszter kérésére, az állami tulajdonban álló ingatlanok kezeléséről szóló jogszabályok alkalmazásával állami szerv kezelésébe adhatja. A kezelés átadásához az állami szerv egyetértése is szükséges.
+(3) Ha a védett természeti terület fenntartása, megóvása indokolja, azt a fővárosi és megyei kormányhivatal az e törvényben tulajdonosként megjelölt önkormányzat egyetértésével, a természetvédelemért felelős miniszter kérésére, az állami tulajdonban álló ingatlanok kezeléséről szóló jogszabályok alkalmazásával állami szerv kezelésébe adhatja. A kezelés átadásához az állami szerv egyetértése is szükséges.
