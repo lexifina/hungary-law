@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-84-00-00
 | 2011-07-27 | 2011. évi XCII. törvény | 1999-84-00-00.27 |
 | 2011-08-26 | 2010. évi CXLVII. törvény | 1999-84-00-00.28 |
 | 2012-01-01 | 2011. évi XCII. törvény | 1999-84-00-00.29 |
+| 2012-07-06 | 2012. évi XCIII. törvény | 1999-84-00-00.30 |
