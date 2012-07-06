@@ -6,7 +6,7 @@
 
 a) az európai területi társulás tevékenysége vagy a kérelmező európai területi társulásban történő részvétele jogszabályba ütközik,
 
-b) az állam kivételével a Kbt. 22. § (1) bekezdés a) és b) pontja szerinti kérelmező nem rendelkezik hozzájárulással arra vonatkozóan, hogy az egyezmény- és az alapszabály-javaslat szerinti európai területi társulásban tagként részt vehet,
+b) az állam kivételével a Kbt. 6. § (1) bekezdés a) és b) pontja szerinti kérelmező nem rendelkezik hozzájárulással arra vonatkozóan, hogy az egyezmény- és az alapszabály-javaslat szerinti európai területi társulásban tagként részt vehet,
 
 c) az országos nemzetiségi önkormányzati költségvetési szerv, a helyi önkormányzati költségvetési szerv vagy a helyi nemzetiségi önkormányzati költségvetési szerv kérelmező nem rendelkezik a képviselő-testület vagy közgyűlés hozzájárulásával arra vonatkozóan, hogy az egyezmény- és az alapszabály-javaslat szerinti európai területi társulásban tagként részt vehet, vagy
 

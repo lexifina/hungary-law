@@ -8,4 +8,4 @@
 
 (2) E törvény szabályait kell alkalmazni a külföldi székhelyű európai területi társulásban magyar jog szerinti tag részvételének jóváhagyására irányuló eljárásban.
 
-(3) A Rendelet 3. cikk (1) bekezdésének alkalmazásában Magyarország tekintetében a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) 22. § (1) bekezdésének a)–j) pontja szerinti szervezeteket kell érteni (magyar jog szerinti tagok). Az európai területi társulásban a Kbt. 22. § (1) bekezdésének a)–j) pontja szerinti szerv akkor vehet részt, ha jogi személyiséggel rendelkezik.
+(3) A Rendelet 3. cikk (1) bekezdésének alkalmazásában Mag yarország tekintetében a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 6. § (1) bekezdésének a)–f) pontja szerinti szervezeteket kell érteni (magyar jog szerinti tagok). Az európai területi társulásban a Kbt. 6. § (1) bekezdésének a)–f) pontja szerinti szerv akkor vehet részt, ha jogi személyiséggel rendelkezik.

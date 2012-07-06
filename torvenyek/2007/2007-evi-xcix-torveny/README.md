@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-99-00-00
 | 2010-12-04 | 2010. évi CXXVI. törvény | 2007-99-00-00.2 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2007-99-00-00.3 |
 | 2012-01-01 | 2011. évi CLXXIX. törvény | 2007-99-00-00.4 |
+| 2012-07-06 | 2012. évi XCIII. törvény | 2007-99-00-00.5 |

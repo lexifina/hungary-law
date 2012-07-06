@@ -1,1 +1,1 @@
-16. § A Rendelet 14. cikke szerinti megszüntetést a Fővárosi Bíróság nemperes eljárásban rendeli el. A bíróság a megszüntetés elrendelése előtt az európai területi társulás részére a helyzet kiigazításához szükséges intézkedések megtételére legfeljebb három hónapos határidőt szabhat.
+16. § A Rendelet 14. cikke szerinti megszüntetést a Fővárosi Törvényszék nemperes eljárásban rendeli el. A bíróság a megszüntetés elrendelése előtt az európai területi társulás részére a helyzet kiigazításához szükséges intézkedések megtételére legfeljebb három hónapos határidőt szabhat.

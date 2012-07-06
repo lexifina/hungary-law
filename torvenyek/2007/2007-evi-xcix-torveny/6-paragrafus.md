@@ -1,6 +1,6 @@
 ## Nyilvántartás
 
-6. § (1) A Fővárosi Bíróság az európai területi társulás adatairól számítógépes nyilvántartást vezet.
+6. § (1) A Fővárosi Törvényszék az európai területi társulás adatairól számítógépes nyilvántartást vezet.
 
 (2) A nyilvántartásban az európai területi társulás alábbi adatai szerepelnek:
 
@@ -24,4 +24,4 @@ i) ha az európai területi társulás csőd, felszámolási, végelszámolási,
 
 j) az európai területi társulás megszűnésének időpontja.
 
-(3) A nyilvántartás fennálló, illetve törölt adatai, valamint az alapszabály és az egyezmény nyilvánosak, azokat a Fővárosi Bíróság az interneten bárki számára korlátozás nélkül megismerhető módon közzéteszi.
+(3) A nyilvántartás fennálló, illetve törölt adatai, valamint az alapszabály és az egyezmény nyilvánosak, azokat a Fővárosi Törvényszék az interneten bárki számára korlátozás nélkül megismerhető módon közzéteszi.

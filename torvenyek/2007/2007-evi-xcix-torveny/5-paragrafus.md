@@ -1,6 +1,6 @@
 ## Nyilvántartásba vétel
 
-5. § (1) Az európai területi társulás bírósági nyilvántartásba vétellel jön létre. A nyilvántartásba vételi eljárás nemperes eljárás, melyre a Fővárosi Bíróság kizárólagosan illetékes. Az eljárásban a jogi képviselet kötelező.
+5. § (1) Az európai területi társulás bírósági nyilvántartásba vétellel jön létre. A nyilvántartásba vételi eljárás nemperes eljárás, melyre a Fővárosi Törvényszék kizárólagosan illetékes. Az eljárásban a jogi képviselet kötelező.
 
 (2) A nyilvántartásba vétel iránti kérelemhez az egyezmény és az alapszabály eredeti példányát, amennyiben az nem magyar nyelven készült, annak magyar nyelvű hiteles fordítását, valamint a Rendelet 4. cikkének (3) bekezdése szerinti jóváhagyások eredeti példányát és magyar nyelvű hiteles fordítását kell csatolni.
 
