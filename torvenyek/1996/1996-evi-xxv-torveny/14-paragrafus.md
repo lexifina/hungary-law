@@ -16,7 +16,7 @@ e) kezdeményezi a helyi önkormányzat esedékessé vált követeléseinek beha
 
 f) a hitelezőket – kérésükre – tájékoztatja a helyi önkormányzat vagyonával, továbbá az adósságrendezési eljárással kapcsolatban;
 
-g) tájékoztatja a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet, ha a képviselő-testület vagy az adósságrendezési bizottság bármely tagja az e törvényben meghatározott kötelezettségét nem teljesíti;
+g) tájékoztatja a fővárosi és megyei kormányhivatalt, ha a képviselő-testület vagy az adósságrendezési bizottság bármely tagja az e törvényben meghatározott kötelezettségét nem teljesíti;
 
 h) az adósságrendezés megindításának időpontjától számított 90 napon belül az általános hatáskörű bíróság előtt a helyi önkormányzat nevében keresettel megtámadhatja a helyi önkormányzatnak és költségvetési szervének az adósságrendezési eljárás kezdő időpontját megelőző 1 éven belül és azt követően megkötött szerződését, vagy más jognyilatkozatát, ha annak tárgya a helyi önkormányzat vagyonából történő ingyenes elidegenítés, illetve a vagyont terhelő ingyenes kötelezettségvállalás, vagy harmadik személy javára feltűnően aránytalan értékkülönbözettel megkötött visszterhes jogügylet. A megtámadási határidő számítására a Ptk. 236. §-ának (3) bekezdésében foglalt szabályok vonatkoznak.
 

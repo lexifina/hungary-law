@@ -12,4 +12,4 @@ c) az (1) bekezdés alapján összehívott képviselő-testületi ülés jegyző
 
 (4) Ha a polgármester vagy az ülés levezetésére megválasztott levezető elnök az Ötv. 12. § (2) bekezdésében meghatározott bármely kötelezettségét nem teljesíti, a bíróság – esetenként – ötszázezer forintig terjedő pénzbírsággal sújthatja.
 
-(5) Az adósságrendezési eljárás megindításáról a polgármester az eljárás bíróság előtti kezdeményezésével egyidejűleg tájékoztatja a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet.
+(5) Az adósságrendezési eljárás megindításáról a polgármester az eljárás bíróság előtti kezdeményezésével egyidejűleg tájékoztatja a fővárosi és megyei kormányhivatalt.

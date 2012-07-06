@@ -20,7 +20,7 @@ Az alapvető lakossági szolgáltatások
 
 8. Az állati hullák ártalmatlanná tétele, az emberre egészségügyi szempontból veszélyes, valamint az állatállomány egészségét veszélyeztető, betegség tüneteit mutató, vagy betegségre gyanús ebek és macskák kártalanítás nélküli kiirtása, az ebek veszettség elleni kötelező védőoltásának megszervezése (2005. évi CLXXVI. törvény).
 
-9. A tűzoltás és a műszaki mentés biztosítása (1973. évi 13. törvényerejű rendelet).
+9.
 
 10. Az óvodai nevelés, az általános iskolai nevelés és oktatás, továbbá a nemzetiségek által lakott településen a nemzetiséghez tartozók óvodai nevelése, általános iskolai nevelése és oktatása (a nemzetiségek jogairól szóló törvény).
 
@@ -46,13 +46,13 @@ Az alapvető lakossági szolgáltatások
 
 21. A jövedelempótló támogatásban részesülők számára közhasznú (közszolgáltatási és államigazgatási feladatok folyamatos működtetéséhez kapcsolódó) foglalkoztatás szervezése (1991. évi IV. törvény, 1993. évi III. törvény).
 
-22. A kulturális javak gyűjtése, őrzése, tudományos feldolgozása és bemutatása, a régészeti örökség védelme megyei múzeumi szervezet fenntartásával (1997. évi CXL. törvény).
+22.
 
-23. A települési és a megyei könyvtári ellátás biztosítása (1997. évi CXL. törvény).
+23. A települési könyvtári ellátás biztosítása (1997. évi CXL. törvény).
 
-24. A megyei (fővárosi) önkormányzatnál a megye települési (a fővárosi kerületek) önkormányzatai, közművelődési intézményei, szervezetei és közösségei részére, a közművelődési tevékenységek elősegítése és fejlesztése érdekében közművelődési szakmai tanácsadás és szolgáltatás, a közművelődési szakmai tanácsadás és szolgáltatás működési feltételeinek biztosítása (1997. évi CXL. törvény).
+24. A fővárosi önkormányzatnál a fővárosi kerületek önkormányzatai, közművelődési intézményei, szervezetei és közösségei részére, a közművelődési tevékenységek elősegítése és fejlesztése érdekében közművelődési szakmai tanácsadás és szolgáltatás, a közművelődési szakmai tanácsadás és szolgáltatás működési feltételeinek biztosítása (1997. évi CXL. törvény).
 
-25. A megyei (fővárosi) közlevéltár működtetése (1995. évi LXVI. törvény).
+25. A fővárosi közlevéltár működtetése (1995. évi LXVI. törvény).
 
 26. A megváltozott munkaképességűeket foglalkoztató közhasznú gazdálkodó szervezettel érvényben lévő szerződésből eredő kötelezettségek (1991. évi IV. törvény).
 
