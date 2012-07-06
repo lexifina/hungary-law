@@ -14,4 +14,4 @@
 
 (6)
 
-(7) A megyei főjegyző a terv elfogadásáról szóló rendeletet előzményeivel (tervjavaslattal, az elfogadott és el nem fogadott vélemények indokolásával, az állami főépítész nyilatkozatával és a területrendezésért felelős miniszter állásfoglalásával) együtt küldi meg a helyi önkormányzatok törvényességi felügyeletéért felelős szervnek.
+(7) A megyei főjegyző a terv elfogadásáról szóló rendeletet előzményeivel (tervjavaslattal, az elfogadott és el nem fogadott vélemények indokolásával, az állami főépítész nyilatkozatával és a területrendezésért felelős miniszter állásfoglalásával) együtt küldi meg a kormányhivatalnak.

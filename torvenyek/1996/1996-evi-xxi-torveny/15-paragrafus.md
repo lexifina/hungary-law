@@ -36,7 +36,7 @@ c) a Balaton Fejlesztési Tanács tekintetében: a Kormány képviselője.
 
 (10) A térségi fejlesztési tanács felkérhet a tanács munkájában való részvételre egyéb szervezeteket, személyeket is, de ezek létszáma a (8) bekezdés szerinti létszám egyharmadát nem haladhatja meg.
 
-(11) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz a területi gazdasági kamarák, kamaránként egy-egy képviselője, a Kormány általános hatáskörű területi államigazgatási szerve vezetője, az állami főépítész, valamint mindazon gazdasági, civil és egyéb szervezetek képviselői, amelyeket a térségi fejlesztési tanács döntése közvetlenül érint vagy akit az ülésen való részvételre felkérnek.
+(11) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz a területi gazdasági kamarák, kamaránként egy-egy képviselője, a kormányhivatal vezetője, az állami főépítész, valamint mindazon gazdasági, civil és egyéb szervezetek képviselői, amelyeket a térségi fejlesztési tanács döntése közvetlenül érint vagy akit az ülésen való részvételre felkérnek.
 
 (12)
 

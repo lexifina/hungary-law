@@ -28,7 +28,7 @@ l) a területfejlesztés intézményeinek a fejlesztési elképzelések összegy
 
 m) az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjét;
 
-n) a Kormány általános hatáskörű területi államigazgatási szervének, a kistérségi, térségi és regionális fejlesztési tanácsok, a megyei területfejlesztési tanácsok és a Budapesti Agglomerációs Fejlesztési Tanács létrehozásával, átalakulásával és megszüntetésével kapcsolatos feladatait, a megalakulással, átalakulással és megszüntetéssel kapcsolatos eljárás rendjét;
+n) a kormányhivatal, a kistérségi, térségi és regionális fejlesztési tanácsok, a megyei területfejlesztési tanácsok és a Budapesti Agglomerációs Fejlesztési Tanács létrehozásával, átalakulásával és megszüntetésével kapcsolatos feladatait, a megalakulással, átalakulással és megszüntetéssel kapcsolatos eljárás rendjét;
 
 o) a területrendezési tervezési tevékenység folytatásának részletes feltételeit, e tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 

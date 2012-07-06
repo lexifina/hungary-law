@@ -12,17 +12,17 @@
 
 (9) A térségi fejlesztési tanács döntéseinek előkészítése, végrehajtásának szervezése, ellenőrzése érdekében a szervezeti és működési szabályzatban meghatározott bizottságokat hozhat létre. A tanács döntési jogkörét nem ruházhatja át a bizottságára.
 
-(10) A térségi fejlesztési tanács működésének törvényességi felügyeletét a Kormánynak a térségi fejlesztési tanács székhelye szerint illetékes általános hatáskörű területi államigazgatási szerve látja el.
+(10) A térségi fejlesztési tanács működésének törvényességi felügyeletét a Kormánynak a térségi fejlesztési tanács székhelye szerint illetékes kormányhivatal látja el.
 
-(11) A Kormány általános hatáskörű területi államigazgatási szerve a törvényességi felügyelet keretében ellenőrzi, hogy a térségi fejlesztési tanács
+(11) A kormányhivatal a törvényességi felügyelet keretében ellenőrzi, hogy a térségi fejlesztési tanács
 
 a) szervezeti és működési szabályzata és egyéb szabályzatai megfelelnek-e a jogszabályoknak,
 
 b) szervezete, működése, döntéshozatali eljárása, határozatai, illetve egyéb döntései nem sértenek-e jogszabályokat, az alapszabályt vagy egyéb szabályzatokat.
 
-(12) Jogszabálysértés esetén a Kormány általános hatáskörű területi államigazgatási szerve határidő kitűzésével felhívja a térségi fejlesztési tanácsot a jogszabálysértés megszüntetésére. A térségi fejlesztési tanács a megadott határidőn belül köteles tájékoztatni a Kormány általános hatáskörű területi államigazgatási szervét a jogszabálysértés megszüntetésére tett intézkedésekről.
+(12) Jogszabálysértés esetén a kormányhivatal határidő kitűzésével felhívja a térségi fejlesztési tanácsot a jogszabálysértés megszüntetésére. A térségi fejlesztési tanács a megadott határidőn belül köteles tájékoztatni a kormányhivatalt a jogszabálysértés megszüntetésére tett intézkedésekről.
 
-(13) Ha a térségi fejlesztési tanács határidőn belül nem intézkedik a jogszabálysértés megszüntetése érdekében, vagy a térségi fejlesztési tanács elutasítja a Kormány általános hatáskörű területi államigazgatási szerve felhívását, illetve nem dönt a felhívás tárgyában, a Kormány általános hatáskörű területi államigazgatási szerve
+(13) Ha a térségi fejlesztési tanács határidőn belül nem intézkedik a jogszabálysértés megszüntetése érdekében, vagy a térségi fejlesztési tanács elutasítja a kormányhivatal felhívását, illetve nem dönt a felhívás tárgyában, a kormányhivatal
 
 a) keresettel fordul a bírósághoz a határozat, illetve egyéb döntése egészben vagy részben történő megsemmisítése iránt, továbbá a jogszabálysértő határozat, illetve egyéb döntés végrehajtását – ha az a közérdek súlyos sérelmével vagy elháríthatatlan kárral járna – felfüggeszti, illetőleg
 
@@ -38,4 +38,4 @@ a) a jogsértő szervezeti és működési szabályzatot, egyéb szabályzatot, 
 
 b) a működés törvényességének helyreállítása céljából elrendelheti a jogszabálysértően működő szerv, tisztségviselő választására jogosult szerv összehívását.
 
-(16) A felügyelőbiztos a tevékenységéről és annak eredményéről tájékoztatja a bíróságot és a Kormány általános hatáskörű területi államigazgatási szervét.
+(16) A felügyelőbiztos a tevékenységéről és annak eredményéről tájékoztatja a bíróságot és a kormányhivatalt.
