@@ -2,7 +2,7 @@
 
 (2) A sorsolást a helyrajzi számok növekvő sorrendjében kell végrehajtani.
 
-(3) A sorsolás szabálytalan lebonyolítása ellen az, akinek jogos érdekét érinti vagy sérti, törvénysértésre hivatkozással a sorsolás lebonyolítását követő 48 órán belül kifogást nyújthat be a mezőgazdasági igazgatási szervhez.
+(3) A sorsolás szabálytalan lebonyolítása ellen az, akinek jogos érdekét érinti vagy sérti, a sorsolás lebonyolítását követő 48 órán belül kifogást nyújthat be a mezőgazdasági igazgatási szervhez.
 
 (4) Ha a sorsolás lebonyolítása ellen kifogás nem érkezett, illetve a kifogással kapcsolatos jogorvoslati eljárás jogerősen befejeződött, a mezőgazdasági igazgatási szerv a sorsolási jegyzőkönyvet megküldi a földrészlet fekvése szerint illetékes ingatlanügyi hatóságnak.
 
@@ -13,3 +13,5 @@
 (7) Az ingatlanügyi hatóság a 12/H. § (1) bekezdése szerinti egyezséget tartalmazó okiratot vagy a sorsolási jegyzőkönyvet, továbbá az elkészített változási vázrajzot és az egyéb munkarészeket megküldi a mezőgazdasági igazgatási szerv részére, amely ezek alapján meghozza az ingatlan-nyilvántartási bejegyzésre alkalmas földkiadási határozatot.
 
 (8) Az ingatlan-nyilvántartási bejegyzést, illetve a (7) bekezdés szerinti határozat jogerőssé válását követően gondoskodni kell a keletkező új földrészletek kitűzéséről, és azok helyszíni birtokbaadásáról. A birtokbaadásról jegyzőkönyvet kell készíteni.
+
+(9) E §-ban foglaltakat az olyan földrészleteket érintően kell alkalmazni, amelyek esetében a részarány-földkiadási eljárás eredményeként meghozott jogerős földkiadási határozat alapján a tulajdonjog ingatlan-nyilvántartásba való bejegyzésére irányuló eljárás nincs folyamatban, illetve a részarány-földkiadás eredményeként tulajdonjog nem került az ingatlan-nyilvántartásba bejegyzésre.
