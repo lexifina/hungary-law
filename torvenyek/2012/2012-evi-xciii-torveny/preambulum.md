@@ -1,0 +1,1 @@
+Az Országgyűlés a Jó Állam kialakítása érdekében, a törvényesen és átláthatóan működő, a közszolgáltatásokat maradéktalanul biztosító Állam működési feltételeinek a megteremtése, valamint a helyi államigazgatási rendszer megújítása, hatékonyságának további növelése és a struktúrájának átláthatóbbá tétele érdekében a következő törvényt alkotja.

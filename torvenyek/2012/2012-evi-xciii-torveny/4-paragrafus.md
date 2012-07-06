@@ -1,0 +1,1 @@
+4. § Az e törvény alapján bejegyzésre kerülő használati jog, illetve a 2. § (8) bekezdése szerinti tulajdonszerzésnek az ingatlan-nyilvántartásba történő bejegyzésére irányuló eljárás díj- és illetékmentes. Az e törvény 5. § (4)–(6) bekezdése szerinti eljárások díj- és illetékmentesek.
