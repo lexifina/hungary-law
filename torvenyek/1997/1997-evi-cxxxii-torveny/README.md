@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-132-00-00
 | 2010-09-01 | 2010. évi XLIII. törvény | 1997-132-00-00.12 |
 | 2011-01-01 | 2010. évi CXXIII. törvény | 1997-132-00-00.13 |
 | 2012-01-01 | 2011. évi CCI. törvény | 1997-132-00-00.14 |
+| 2012-07-06 | 2012. évi XCIII. törvény | 1997-132-00-00.15 |
