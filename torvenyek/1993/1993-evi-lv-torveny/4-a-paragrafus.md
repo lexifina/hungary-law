@@ -1,6 +1,6 @@
 ## Alkotmányos alapismeretek vizsga
 
-4/A. § (1) A 4. § (1) bekezdés e) pontjában meghatározott vizsgát a kérelmező a Kormány általános hatáskörű területi államigazgatási szerve által kijelölt vizsgabizottság előtt teszi le.
+4/A. § (1) A 4. § (1) bekezdés e) pontjában meghatározott vizsgát a kérelmező a fővárosi és megyei kormányhivatal által kijelölt vizsgabizottság előtt teszi le.
 
 (2) Nem köteles vizsgát tenni:
 
