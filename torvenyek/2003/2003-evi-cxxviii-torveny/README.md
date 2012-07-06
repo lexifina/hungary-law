@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-128-00-00
 | 2010-09-01 | 2010. évi LXXXVII. törvény | 2003-128-00-00.18 |
 | 2011-01-01 | 2010. évi CLXXII. törvény | 2003-128-00-00.19 |
 | 2012-01-01 | 2011. évi CLXVI. törvény | 2003-128-00-00.20 |
+| 2012-07-06 | 2012. évi XCIII. törvény | 2003-128-00-00.21 |
