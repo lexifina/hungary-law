@@ -1,33 +1,37 @@
-3. számú melléklet a 22/2009. (IX. 30.) SZMM rendelethez
+|  |  | A Rehabilitációs Párbeszéd Bizottságban való részvétel és döntési jogosultság megállapításához kapcsolódó elektronikus adatszolgáltatás tartalma |
 
-## A kollektív szerződés kiterjesztés feltételei megállapításához kapcsolódó elektronikus adatszolgáltatás tartalma
+| 1. |  | Ágazati szakszervezet/szakszervezeti szövetség által elektronikusan szolgáltatott, a szakszervezet munkahelyi szervezetével kapcsolatos adatok: |
 
-1. Ágazati szakszervezet/szakszervezeti szövetség által szolgáltatott, az érdekképviselet munkahelyi szervezeteivel kapcsolatos adatok, a kollektív szerződés kiterjesztési kérelemben feltüntetett TEÁOR ‘08 területre vonatkozóan:
+| 1.1. |  | A munkáltatónál működő szakszervezet munkahelyi szervezetének neve |
 
-A munkáltatónál működő szakszervezet munkahelyi szervezetének neve
+| 1.2. |  | A munkáltatónál működő szakszervezet munkahelyi szervezetének bírósági nyilvántartási száma (csak a bíróságon önállóan nyilvántartásba vett szervezet esetében) |
 
-A munkáltatónál működő szakszervezet munkahelyi szervezetének bírósági nyilvántartási száma (csak a bíróságon önállóan nyilvántartásba vett szervezet esetében)
+| 1.3. |  | A munkáltatónál működő szakszervezet munkahelyi szervezetének taglétszáma |
 
-A munkáltatónál működő szakszervezet munkahelyi szervezetének taglétszáma
+| 1.4. |  | Üzemi/közalkalmazotti tanácsi választáson a szakszervezet munkahelyi szervezetének jelöltjei által megszerzett redukált szavazatok kiszámításához szükséges választási adatok |
 
-A munkáltató neve
+| 1.5. |  | A megváltozott munkaképességűeket foglalkoztató munkáltató neve |
 
-A munkáltató székhelye
+| 1.6. |  | A megváltozott munkaképességűeket foglalkoztató munkáltató székhelye |
 
-A munkáltató adószáma
+| 1.7. |  | A megváltozott munkaképességűeket foglalkoztató munkáltató statisztikai jelzőszáma |
 
-A munkáltató fő tevékenységének TEÁOR ‘08 szerinti besorolása
+| 1.8. |  | A megváltozott munkaképességűeket foglalkoztató munkáltató adószáma (a statisztikai számjel hiányában kell megadni) |
 
-A munkáltató által foglalkoztatott átlagos statisztikai állományi létszám a kiterjesztési kérelem, az adatszolgáltatás időpontját megelőző évben
+| 1.9. |  | A megváltozott munkaképességűeket foglalkoztató munkáltató által foglalkoztatott átlagos statisztikai állományi létszám a kérelem benyújtását (adatszolgáltatás időpontját) megelőző évben |
 
-2. Ágazati munkáltatói érdekképviselet/érdekképviseleti szövetség által szolgáltatott, az érdekképviseleti tag munkáltatókkal (gazdálkodó szervezetek) kapcsolatos adatok, a kollektív szerződés kiterjesztési kérelemben feltüntetett TEÁOR ‘08 területre vonatkozóan:
+| 2. |  | Munkáltatói érdekképviselet/érdekképviseleti szövetség által elektronikusan szolgáltatott, a megváltozott munkaképességűeket foglalkoztató tagmunkáltatókkal kapcsolatos adatok: |
 
-A munkáltató neve
+| 2.1. |  | A tag munkáltató (cég, gazdálkodó szervezet, költségvetési intézmény, egyéni vállalkozó) neve |
 
-A munkáltató székhelye
+| 2.2. |  | A tag munkáltató székhelye |
 
-A munkáltató adószáma
+| 2.3. |  | A tag munkáltató adószáma |
 
-A munkáltató fő tevékenységének TEÁOR ‘08 szerinti besorolása
+| 2.4. |  | A tag munkáltató fő tevékenységének TEÁOR ’08 szerinti besorolása |
 
-A munkáltató által foglalkoztatott átlagos statisztikai állományi létszám a kiterjesztési kérelem, az adatszolgáltatás időpontját megelőző évben
+| 2.5. |  | A tag munkáltató által munkaviszony/közalkalmazotti jogviszony keretében foglalkoztatott átlagos statisztikai állományi létszám a kérelem benyújtását (adatszolgáltatás időpontját) megelőző évben |
+
+3. számú melléklet a 22/2009. (IX. 30.) SZMM rendelethez[^27]
+
+[^27]: A 3. mellékletet a 17/2012. (VII. 5.) NGM rendelet 5. § (14) bekezdés d) pontja hatályon kívül helyezte.
