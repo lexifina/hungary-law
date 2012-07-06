@@ -2,8 +2,8 @@
 
 (2) A fővárosi és megyei kormányhivatal az (1) bekezdésben meghatározott szervnél – törvénysértés észlelése esetén – egyeztető eljárást kezdeményez, ennek eredménytelensége esetén a szerv felügyeleti szervénél felügyeleti eljárást kezdeményez, ennek eredménytelensége esetén a feladatkörrel rendelkező miniszter eljárását kezdeményezi.
 
-(3) A fővárosi és megyei kormányhivatal a (2) bekezdésben foglalt intézkedések eredménytelensége esetén az érintett döntést hozó szerv felügyeleti szerve és a feladatkörrel rendelkező miniszter egyidejű tájékoztatása mellett kezdeményezi a közigazgatás-szervezésért felelős miniszternél a (4) bekezdésben foglalt intézkedés megtételét.
+(3)
 
 (4)
 
-(5) A fővárosi és megyei kormányhivatal az általa megismerhető iratokban foglalt, valamint a részére nyújtott tájékoztatás alapján tudomására jutott személyes adatok kezelésére az (1)–(4) bekezdésben meghatározott eljárás lefolytatása céljából addig az időpontig jogosult, amíg az feladata ellátásához szükséges.
+(5) A fővárosi és megyei kormányhivatal az általa megismerhető iratokban foglalt, valamint a részére nyújtott tájékoztatás alapján tudomására jutott személyes adatok kezelésére az (1)–(2) bekezdésben meghatározott eljárás lefolytatása céljából addig az időpontig jogosult, amíg az a feladata ellátásához szükséges.
