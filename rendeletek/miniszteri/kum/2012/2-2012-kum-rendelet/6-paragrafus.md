@@ -1,0 +1,1 @@
+## 5. § Költségvetési támogatás a támogatási igény benyújtásakor már megvalósult tevékenységre, projektre vagy programra akkor adható, ha azt e rendelet lehetővé teszi. Költségvetési támogatás a szerződés aláírása előtt már megkezdett tevékenységre, projektre vagy programra is adható a 15. § (3) bekezdésében foglaltak figyelembevételével.
