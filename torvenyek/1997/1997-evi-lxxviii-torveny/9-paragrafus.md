@@ -48,6 +48,6 @@ esetében.
 
 (11) A településrendezés eszközei készítése során a települést érintő jóváhagyott országos és térségi területrendezési terv rendelkezéseit figyelembe kell venni.
 
-(12) A helyi építési szabályzatot és a településrendezési terveket azok összes munkarészével, valamint a megállapításukról szóló – külön jogszabály szerinti – jegyzőkönyvvel, a véleményezési eljárás dokumentumaival, továbbá az állami főépítészi, illetve miniszteri véleménnyel együtt, a képviselő-testületi megállapításuk után 15 napon belül a jegyző köteles megküldeni a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek.
+(12) A helyi építési szabályzatot és a településrendezési terveket azok összes munkarészével, valamint a megállapításukról szóló – külön jogszabály szerinti – jegyzőkönyvvel, a véleményezési eljárás dokumentumaival, továbbá az állami főépítészi, illetve miniszteri véleménnyel együtt, a képviselő-testületi megállapításuk után 15 napon belül a jegyző köteles megküldeni a fővárosi és megyei kormányhivatalnak.
 
 (13) A (2) és (3) bekezdés szerinti véleményezésért az államigazgatási szerv díjat nem számíthat fel.
