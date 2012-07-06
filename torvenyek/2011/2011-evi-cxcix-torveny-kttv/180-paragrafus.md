@@ -6,7 +6,7 @@ b) a kormánytisztviselő felettese,
 
 c) a minősítést végző vezető,
 
-d) a törvényességi ellenőrzést végző,
+d) a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló,
 
 e) a fegyelmi eljárást lefolytató testület vagy személy,
 
