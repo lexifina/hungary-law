@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-34-00-00
 | 2012-04-15 | 2012. évi XXXI. törvény | 1994-34-00-00.53 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 1994-34-00-00.54 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 1994-34-00-00.55 |
+| 2012-07-06 | 2012. évi XCIII. törvény | 1994-34-00-00.56 |
