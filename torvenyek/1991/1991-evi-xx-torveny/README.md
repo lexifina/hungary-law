@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-20-00-00
 | 2011-01-01 | 2010. évi CXXVI. törvény | 1991-20-00-00.45 |
 | 2011-08-01 | 2011. évi XCI. törvény | 1991-20-00-00.46 |
 | 2012-01-01 | 2011. évi CLIV. törvény | 1991-20-00-00.47 |
+| 2012-07-06 | 2012. évi XCIII. törvény | 1991-20-00-00.48 |
