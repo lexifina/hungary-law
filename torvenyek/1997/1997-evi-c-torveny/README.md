@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-100-00-00
 | 2011-12-22 | 2011. évi CLXXV. törvény | 1997-100-00-00.27 |
 | 2011-12-29 | 175/2011. (XII. 29.) AB határozat | 1997-100-00-00.28 |
 | 2012-01-01 | 2011. évi CLXXIX. törvény | 1997-100-00-00.29 |
+| 2012-07-06 | 2012. évi XCIII. törvény | 1997-100-00-00.30 |
