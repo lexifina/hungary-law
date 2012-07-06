@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-107-00-00
 | 2011-01-01 | 2010. évi CXXVI. törvény | 2004-107-00-00.8 |
 | 2011-07-01 | 2011. évi LXVI. törvény | 2004-107-00-00.9 |
 | 2012-01-01 | 2011. évi CXCVIII. törvény | 2004-107-00-00.10 |
+| 2012-07-06 | 2012. évi XCIII. törvény | 2004-107-00-00.11 |
