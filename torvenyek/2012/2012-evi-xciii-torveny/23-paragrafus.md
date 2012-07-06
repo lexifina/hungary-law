@@ -8,8 +8,6 @@ b) 24. § (4) bekezdés e) pontjában a „Kormány általános hatáskörű ter
 
 c) 19. (2) bekezdésében a „szerve” szövegrész helyébe „szervét” szöveg,
 
-d) 19. § (3) bekezdés d) pontjában a „jegyzőtől,” szövegrész helyébe a „jegyzőtől, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalától (a továbbiakban: járási hivatal),” szöveg,
-
-e) 24. § (4) bekezdés c) pontjában a „jegyzőnek” szövegrész helyébe a „járási hivatalnak” szöveg
+d)–e)
 
 lép.
