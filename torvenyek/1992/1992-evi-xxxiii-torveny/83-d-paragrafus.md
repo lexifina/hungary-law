@@ -4,7 +4,7 @@ a) a közalkalmazott felettese,
 
 b) a minősítést végző vezető,
 
-c) feladatkörének keretei között a törvényességi ellenőrzést végző szerv,
+c) feladatkörének keretei között a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló szerv,
 
 d)
 

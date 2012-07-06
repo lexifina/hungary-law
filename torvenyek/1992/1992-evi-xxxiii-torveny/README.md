@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-33-00-00
 | 2012-02-29 | 2011. évi CXCIII. törvény | 1992-33-00-00.78 |
 | 2012-03-01 | 2012. évi V. törvény | 1992-33-00-00.79 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 1992-33-00-00.80 |
+| 2012-07-06 | 2012. évi XCIII. törvény | 1992-33-00-00.81 |
