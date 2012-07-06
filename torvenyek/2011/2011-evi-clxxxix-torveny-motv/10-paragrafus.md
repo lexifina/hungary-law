@@ -4,4 +4,4 @@
 
 ## Önkormányzati feladat- és hatáskörök
 
-10–16. §
+10–15. §
