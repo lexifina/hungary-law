@@ -4,11 +4,11 @@
 
 (2) A rendelet hatálya kiterjed
 
-a) a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.),
+a)[^1] a munka Törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.),
 
 b) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény,
 
-c) a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény és a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény,
+c)[^2] a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény,
 
 d) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény,
 
@@ -21,3 +21,6 @@ g) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogá
 h) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény hatálya alá tartozó munkáltatóra (a továbbiakban: munkáltató), valamint
 
 i) a támogatást nyújtóra
+
+[^1]: Az 1. § (2) bekezdés a) pontja a 17/2012. (VII. 5.) NGM rendelet 7. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés c) pontja a 17/2012. (VII. 5.) NGM rendelet 7. § b) pontjával megállapított szöveg.
