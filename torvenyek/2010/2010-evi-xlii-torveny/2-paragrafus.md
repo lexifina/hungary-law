@@ -36,7 +36,7 @@ hb) az egyházakkal való kapcsolattartás koordinációjával kapcsolatos felad
 
 i) Önkormányzati Minisztériumot, illetve önkormányzati minisztert említ, ott
 
-ia) a helyi önkormányzatok törvényességi ellenőrzéséért, a köziratok kezelésének szakmai irányításáért, a választójogi és népszavazási szabályozásért, a választások és népszavazások lebonyolításáért, továbbá a közigazgatás-szervezésért való felelősségével kapcsolatos feladatok tekintetében Közigazgatási és Igazságügyi Minisztériumot, illetve közigazgatási és igazságügyi minisztert,
+ia) a helyi önkormányzatok törvényességi felügyeletéért, a köziratok kezelésének szakmai irányításáért, a választójogi és népszavazási szabályozásért, a választások és népszavazások lebonyolításáért, továbbá a közigazgatás-szervezésért való felelősségével kapcsolatos feladatok tekintetében Közigazgatási és Igazságügyi Minisztériumot, illetve közigazgatási és igazságügyi minisztert,
 
 ib) a helyi önkormányzatokért, a katasztrófák elleni védekezésért való felelősségével kapcsolatos feladatok tekintetében Belügyminisztériumot, illetve belügyminisztert,
 
