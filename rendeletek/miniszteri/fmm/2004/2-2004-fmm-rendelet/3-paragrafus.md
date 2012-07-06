@@ -1,29 +1,28 @@
-## 2/A. §[^6] Amennyiben az adatlap, illetőleg az Mt. 41/A. §-ának (3) bekezdése alapján letétbe helyezésre benyújtott kollektív szerződés hiányosan vagy pontatlanul tartalmazza a 3. § (2) bekezdésének a)–d) pontjában szereplő adatokat, a Hivatal a kollektív szerződést nem veszi nyilvántartásba.
+## 2/A. §[^4] Amennyiben az adatlap, illetőleg az 1. § (4) bekezdés alapján letétbe helyezésre benyújtott kollektív szerződés hiányosan vagy pontatlanul tartalmazza a 3. § (2) bekezdés a)–d) pontjaiban szereplő adatokat, a Hivatal a kollektív szerződést nem veszi nyilvántartásba és erről a feleket elektronikusan tájékoztatja.
 
-3. § (1)[^7] A Hivatal a kollektív szerződés nyilvántartásba vételekor:
+3. §[^5] (1) A Hivatal a kollektív szerződés nyilvántartásba vétele során:
 
 a) az adatlapot, valamint a megküldött kollektív szerződést nyilvántartási számmal látja el,
 
-b) az adatlapot, illetve a kollektív szerződést dokumentumtárba helyezi,
+b) a több munkáltatóra kiterjedő hatályú kollektív szerződést dokumentumtárba (számítógépes adattárba) helyezi,
 
-c) a számítógépen vezetett nyilvántartásba bejegyzi a (2) bekezdésben felsorolt adatokat, valamint
+c) az elektronikusan beérkezett adatokat informatikai eszközén tárolja,
 
 d) a feleket a nyilvántartásba vételről – a nyilvántartási szám közlésével – elektronikus úton tájékoztatja.
 
-(2)[^8] A Hivatal által számítógépen vezetett nyilvántartás tartalmazza:
+(2) A Hivatal által számítógépen vezetett nyilvántartás tartalmazza:
 
-a) a szerződő felek nevét, székhelyének címét, munkáltatók esetén törzsszámát,
+a) a szerződést kötő felek nevét, székhelyének címét, munkáltatók esetén adószámát,
 
-b) több munkáltatóra kiterjedő hatályú kollektív szerződés esetén a hatálya alá tartozó munkáltatók törzsszámát, nevét, székhelyének címét,
+b) több munkáltatóra kiterjedő hatályú kollektív szerződés esetén, a hatálya alá tartozó munkáltatók adószámát, nevét, székhelyének címét,
 
-c) a bejelentett eseményt (kollektív szerződés kötése, módosítása, felmondása, hatályának módosítása, hatályának megszűnése), valamint annak időpontját,
+c) a bejelentett eseményt (kollektív szerződés kötése, módosítása, hatályának módosítása, hatályának megszűnése), valamint annak időpontját,
 
 d) a kollektív szerződés időbeli hatályát (határozatlan vagy határozott időre kötött), határozott időre kötött kollektív szerződés esetén a lejárat időpontját, továbbá
 
 e) a nyilvántartási számot.
 
-(3) A számítógépen vezetett nyilvántartás tartalma nyilvános.
+(3) A nyilvántartás alapján készülő Kollektív Szerződések Elektronikus Nyilvántartó Könyve nyilvános.
 
-[^6]: A 2/A. §-t az 1/2008. (II. 29.) SZMM rendelet 3. §-a iktatta be, szövege a 3/2012. (II. 10.) NGM rendelet 9. § (5) bekezdésével megállapított szöveg.
-[^7]: A 3. § (1) bekezdése a 3/2012. (II. 10.) NGM rendelet 9. § (6) bekezdésével megállapított szöveg.
-[^8]: A 3. § (2) bekezdés nyitó szövegrésze a 3/2012. (II. 10.) NGM rendelet 9. § (9) bekezdése szerint módosított szöveg.
+[^4]: A 2/A. §-t az 1/2008. (II. 29.) SZMM rendelet 3. §-a iktatta be, szövege a 17/2012. (VII. 5.) NGM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^5]: A 3. § a 17/2012. (VII. 5.) NGM rendelet 4. § (5) bekezdésével megállapított szöveg.
