@@ -6,7 +6,7 @@ b) az Állami Számvevőszék;
 
 c) a Kormány által kijelölt belső ellenőrzési szerv;
 
-d) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv;
+d) a helyi önkormányzatok törvényességi felügyeletéért felelős szerv;
 
 e) a Magyar Államkincstár;
 
