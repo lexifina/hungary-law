@@ -118,13 +118,13 @@
 
 ## A 38. kódnégyzetbe a munkabalesetet szenvedett munkavállaló – a munkáltató vezetői szintű munkavállalóját is beleértve – foglalkoztatásának jellegét kell beírni a következő kódszámok felhasználásával:
 
-| 0 | Ismeretlen |
+|  | 0 | Ismeretlen |
 
-| 1 | Munkavállaló (ideértve a munkáltató – vállalkozás, társadalmi szervezet stb. – bármilyen szintű vezetője is) |
+|  | 1 | Munkavállaló (ideértve a munkáltató – vállalkozás, civil szervezet stb. – bármilyen szintű vezetője is) |
 
-| 2 | Tanuló (szakmai, gyakorlati képzés során) |
+|  | 2 | Tanuló (szakmai, gyakorlati képzés során) |
 
-| 9 | Egyéb [ide sorolandó a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 72/A. §-a szerint foglalkoztatott személy is] |
+|  | 9 | Egyéb [ide sorolandó a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 4. §-a szerint foglalkoztatott személy is] |
 
 ## 1.10. A SÉRÜLT MUNKAKÖRE (39–42. kódnégyzet)
 
