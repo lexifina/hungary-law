@@ -1,5 +1,6 @@
-41. § (1) Hatályát veszti az egyes fejezeti kezelésű előirányzatok felhasználásáról szóló 9/2011. (IV. 7.) NFM rendelet 1–16. alcíme, 16/B. alcíme, 16/C. alcíme és 32. § (3) és (4) bekezdése.
+41. § (1)[^1]
 
-(2)[^1]
+(2)[^2]
 
-[^1]: A 41. § (2) bekezdése a 40. § (2) bekezdésében meghatározott időpontban lép hatályba.
+[^1]: A 41. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 41. § (2) bekezdése a 40. § (2) bekezdésében meghatározott időpontban lép hatályba.
