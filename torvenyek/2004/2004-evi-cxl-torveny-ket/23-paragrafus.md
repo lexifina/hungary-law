@@ -14,7 +14,7 @@ az érdekelt hatóságok kötelesek egymás között megkísérelni a vita eldö
 
 (3) Ha az (1) bekezdés szerinti eljárás nem vezetett eredményre, az eljáró hatóságot a következő szerv jelöli ki:
 
-a) illetékességi összeütközés esetén a legközelebbi közös felügyeleti szerv, ennek hiányában a Kormánynak a vita eldöntését kérő hatóság működési területe szerint illetékes általános hatáskörű területi államigazgatási szerve,
+a) illetékességi összeütközés esetén a legközelebbi közös felügyeleti szerv, ennek hiányában a vita eldöntését kérő hatóság működési területe szerint illetékes fővárosi és megyei kormányhivatal,
 
 b) hatásköri összeütközés esetén a Fővárosi Ítélőtábla.
 

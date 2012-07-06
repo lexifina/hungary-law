@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-140-00-00
 | 2012-04-15 | 2012. évi XXXI. törvény | 2004-140-00-00.27 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 2004-140-00-00.28 |
 | 2012-07-03 | 2012. évi LXVI. törvény | 2004-140-00-00.29 |
+| 2012-07-06 | 2012. évi XCIII. törvény | 2004-140-00-00.30 |
