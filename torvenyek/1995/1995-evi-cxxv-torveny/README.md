@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-125-00-00
 | 2012-01-05 | 2011. évi CCVII. törvény | 1995-125-00-00.30 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 1995-125-00-00.31 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 1995-125-00-00.32 |
+| 2012-07-07 | 2012. évi XCVI. törvény | 1995-125-00-00.33 |
