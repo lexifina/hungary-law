@@ -1,4 +1,4 @@
-## 8. §[^7] A közjegyzői kamara a szerződésben meghatározott időszak utolsó napját követő 10. napig összesítőt küld a félnek, amely tartalmazza a fél által kezdeményezett és elszámolt eljárások díját.
+## 8. §[^4] A közjegyzői kamara a szerződésben meghatározott időszak utolsó napját követő 10. napig összesítőt küld a félnek, amely tartalmazza a fél által kezdeményezett és elszámolt eljárások díját.
 
 ## 4. A másolati díj összege és megfizetésének módja
 
@@ -16,4 +16,4 @@ kell megfizetni.
 
 (3) A (2) bekezdés a)–c) pontja szerint akkor fizethető meg az irat nem hiteles másolatáért megfizetendő másolati díj, ha a közjegyző annak technikai feltételeit biztosítja.
 
-[^7]: A 8. § a 14. § (2) bekezdése alapján 2011. március 1-jén lép hatályba.
+[^4]: A 8. § a 14. § (2) bekezdése alapján 2011. március 1-jén lép hatályba.

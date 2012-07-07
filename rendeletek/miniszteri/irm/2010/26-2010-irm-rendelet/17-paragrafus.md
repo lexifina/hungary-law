@@ -1,6 +1,6 @@
-## 15–16. §[^8]
+## 15–16. §[^11]
 
-17. §[^9]
+17. §[^12]
 
-[^8]: A 15–16. §-t a 17. § (1) bekezdése hatályon kívül helyezte.
-[^9]: A 17. § a (2) bekezdés alapján hatályát vesztette.
+[^11]: A 15–16. §-t a 17. § (1) bekezdése hatályon kívül helyezte.
+[^12]: A 17. § a (2) bekezdés alapján hatályát vesztette.
