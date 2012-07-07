@@ -2,7 +2,7 @@
 
 a) támogatja a Magyar Köztársaságnak az Európai Képesítési Keretrendszer (a továbbiakban: EKKR) elveivel és szerkezetével összhangban lévő Országos Képesítési Keretrendszer (a továbbiakban: OKKR) létrehozását és az OKKR 2013-tól történő egységes bevezetését;
 
-b) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. §-a szerint az OKKR kidolgozására a nemzeti erőforrás miniszter mellett a nemzetgazdasági miniszter elsődleges felelősségével, a vidékfejlesztési miniszter, a közigazgatási és igazságügyi miniszter, a nemzeti fejlesztési miniszter, a honvédelmi miniszter, a külügyminiszter és a belügyminiszter részvételével OKKR Szakmai Munkacsoportot (a továbbiakban: Munkacsoport) hoz létre;
+b)[^1] a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. §-a szerint az OKKR kidolgozására a nemzeti erőforrás miniszter mellett a nemzetgazdasági miniszter elsődleges felelősségével, a vidékfejlesztési miniszter, a közigazgatási és igazságügyi miniszter, a nemzeti fejlesztési miniszter, a honvédelmi miniszter, a külügyminiszter és a belügyminiszter részvételével MKKR Szakmai Munkacsoportot (a továbbiakban: Munkacsoport) hoz létre;
 
 c) felkéri az Országos Köznevelési Tanács, az Országos Kisebbségi Bizottság, a Magyar Rektori Konferencia, a Felsőoktatási és Tudományos Tanács, a Magyar Felsőoktatási Akkreditációs Bizottság, a Nemzeti Szakképzési és Felnőttképzési Intézet, a Nemzeti Szakképzési és Felnőttképzési Tanács, a Felnőttképzési Akkreditáló Testület vezetőjét és az Országos Érdekegyeztető Tanácsban képviselettel rendelkező munkaadói és munkavállalói szervezeteket, valamint az országos gazdasági kamarákat állandó meghívottként a Munkacsoportban való részvételre.
 
@@ -26,6 +26,7 @@ Határidő: 2011. május 13.
 
 5. Jelen határozat a közzétételét követő napon lép hatályba.
 
-6.[^1]
+6.[^2]
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont b) alpontja az 1229/2012. (VII. 6.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
