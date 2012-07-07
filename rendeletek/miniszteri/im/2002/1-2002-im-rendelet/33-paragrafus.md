@@ -1,4 +1,4 @@
-## 32/A. §[^56] A 32. § szerinti jelentéshez a 14/A. § (1) bekezdésében megjelölt iratot nem kell csatolni.
+## 32/A. §[^58] A 32. § szerinti jelentéshez a 14/A. § (1) bekezdésében megjelölt iratot nem kell csatolni.
 
 ## A végrehajtási ügy befejezése
 
@@ -14,21 +14,21 @@ d) a végrehajtható okiratot visszavonták, törölték vagy hatályon kívül 
 
 e) a bűnügyi zárlatot megszüntették,
 
-f)[^57] a zálogtárgy egyszerűsített végrehajtási értékesítéséből [Vht. 204/B–H. §] befolyt összeget a végrehajtó felosztotta,
+f)[^59] a zálogtárgy egyszerűsített végrehajtási értékesítéséből [Vht. 204/B–H. §] befolyt összeget a végrehajtó felosztotta,
 
-g)[^58] a tartásra kötelezett adatainak beszerzésére sor került,
+g)[^60] a tartásra kötelezett adatainak beszerzésére sor került,
 
 h) a végrehajtó a végrehajtási kérelmet a bíróságnak megküldte,
 
-i)[^59] a zálogjogosult bekapcsolódásának alapjául szolgáló végrehajtási ügy megszűnt és a zálogjogosultnak a bekapcsolódással kapcsolatos költségei az annak alapján indult végrehajtási ügyben megtérültek,
+i)[^61] a zálogjogosult bekapcsolódásának alapjául szolgáló végrehajtási ügy megszűnt és a zálogjogosultnak a bekapcsolódással kapcsolatos költségei az annak alapján indult végrehajtási ügyben megtérültek,
 
-j)[^60] a végrehajtói kézbesítés eredményes volt,
+j)[^62] a végrehajtói kézbesítés eredményes volt,
 
-k)[^61] ha a végrehajtói kézbesítést a végrehajtó megszüntette.
+k)[^63] ha a végrehajtói kézbesítést a végrehajtó megszüntette.
 
-[^56]: A 32/A. §-t a 27/2010. (V. 11.) IRM rendelet 6. §-a iktatta be.
-[^57]: A 33. § f) pontja a 4/2004. (II. 27.) IM rendelet 1. §-ának (5) bekezdésével megállapított, a 28/2008. (XII. 10.) IRM rendelet 7. § (1) bekezdése szerint módosított szöveg.
-[^58]: A 33. § g) pontját a 6/2008. (III. 1.) IRM rendelet 8. § b) pontja hatályon kívül helyeze, újonnan a 26/2011. (VIII. 31.) KIM rendelet 26. § (10) bekezdése iktatta be.
-[^59]: A 33. § i) pontját a 27/2004. (VIII. 26.) IM rendelet 1. § (9) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^60]: A 33. § j) pontját a 27/2004. (VIII. 26.) IM rendelet 1. § (9) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^61]: A 33. § k) pontját a 27/2004. (VIII. 26.) IM rendelet 1. § (9) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^58]: A 32/A. §-t a 27/2010. (V. 11.) IRM rendelet 6. §-a iktatta be.
+[^59]: A 33. § f) pontja a 4/2004. (II. 27.) IM rendelet 1. §-ának (5) bekezdésével megállapított, a 28/2008. (XII. 10.) IRM rendelet 7. § (1) bekezdése szerint módosított szöveg.
+[^60]: A 33. § g) pontját a 6/2008. (III. 1.) IRM rendelet 8. § b) pontja hatályon kívül helyeze, újonnan a 26/2011. (VIII. 31.) KIM rendelet 26. § (10) bekezdése iktatta be.
+[^61]: A 33. § i) pontját a 27/2004. (VIII. 26.) IM rendelet 1. § (9) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^62]: A 33. § j) pontját a 27/2004. (VIII. 26.) IM rendelet 1. § (9) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^63]: A 33. § k) pontját a 27/2004. (VIII. 26.) IM rendelet 1. § (9) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
