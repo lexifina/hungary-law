@@ -18,7 +18,7 @@ g) a segítő készkiadását és díját az a terhelt, tanú vagy törvényben 
 
 (3) Az őrizetben, előzetes letartóztatásban lévő vagy a szabadságvesztés büntetését töltő terheltnek az eljáró hatóság elé állításával (szállításával) felmerült költségeket a fogvatartást végrehajtó szerv előlegezi.
 
-(4) A kirendelt igazságügyi szakértő, szaktanácsadó, eseti szakértő, szakértői intézmény vagy szakértői testület a szakértői vizsgálatot, a szakvéleményt saját költségére végzi el. A szakértő az eljárásával felmerült és igazolt készkiadását, valamint a szakértő, a tolmács és a tanú a nyomozóhatóság, az ügyész és a bíróság elé idézésre történt megjelenésével felmerült költségét kifizeti, majd részükre ezen bűnügyi költségeket a nyomozóhatóság, az ügyészség, vagy a bíróság előlegezi (megtéríti). A tolmács díját és költségtérítését a nyomozóhatóság, az ügyészség vagy a bíróság előlegezi.
+(4)[^2] A kirendelt szakértő vagy szaktanácsadó a szakértői vizsgálatot, a szakvéleményt az igazságügyi szakértői tevékenységről szóló törvényben meghatározott költségelőleg alkalmazása kivételével saját költségére végzi el. A szakértő az eljárásával felmerült és igazolt készkiadását, valamint a szakértő, a tolmács és a tanú a nyomozóhatóság, az ügyész és a bíróság elé idézésre történt megjelenésével felmerült költségét kifizeti, majd részükre ezen bűnügyi költségeket a nyomozóhatóság, az ügyészség, vagy a bíróság előlegezi (megtéríti). A tolmács díját és költségtérítését a nyomozóhatóság, az ügyészség vagy a bíróság előlegezi.
 
 (5) Ha a bizonyítás felvétele kiküldött bíró útján történik, a bírót kiküldő bíróság előlegezi a bűnügyi költséget. Ha a bizonyítás felvétele a megkeresett vagy a megkeresésre részben illetékes más bíróság útján történik, a bizonyítást ez a bíróság saját költségére veszi fel, majd az így felmerült bűnügyi költséget részére a megkereső bíróság előlegezi.
 
@@ -27,3 +27,4 @@ g) a segítő készkiadását és díját az a terhelt, tanú vagy törvényben 
 (7) A (2)–(5) bekezdésben meghatározott szervek és személyek az általuk előlegezett költségről az eljáró hatóságot haladéktalanul értesítik.
 
 [^1]: A 2. § (1) bekezdés c) pontja a 30/2010. (XII. 31.) KIM rendelet 20. §-ával megállapított szöveg.
+[^2]: A 2. § (4) bekezdése a 31/2012. (VI. 29.) KIM rendelet 10. §-a szerint módosított szöveg.

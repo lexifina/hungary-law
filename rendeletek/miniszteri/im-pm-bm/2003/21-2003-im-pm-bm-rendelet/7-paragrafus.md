@@ -2,8 +2,8 @@
 
 7. § (1) Ez a rendelet 2003. július 1. napján lép hatályba, rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 
-(2)[^2]
+(2)[^3]
 
 (3) Az államot illető bűnügyi költségek behajtásáról és elszámolásáról, valamint a lefoglalt dologgal (bűnjellel) kapcsolatos bűnügyi költségről külön jogszabály rendelkezik.
 
-[^2]: A 7. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 73. pontja hatályon kívül helyezte.
+[^3]: A 7. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 73. pontja hatályon kívül helyezte.
