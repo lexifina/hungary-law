@@ -1,3 +1,3 @@
-A bíróságokról szóló 1972. évi IV. törvény[^1] 51. §-a (1) bekezdésének b) pontjában foglalt felhatalmazás alapján — a Legfelsőbb Bíróság elnökével egyetértésben — a következőket rendelem:
+A bíróságokról szóló 1972. évi IV. törvény[^2] 51. §-a (1) bekezdésének b) pontjában foglalt felhatalmazás alapján — a Legfelsőbb Bíróság elnökével egyetértésben — a következőket rendelem:
 
-[^1]: Az 1972: IV. törvényt az 1997: LXVI. törvény hatályon kívül helyezte és a tárgykört újraszabályozta.
+[^2]: Az 1972: IV. törvényt az 1997: LXVI. törvény hatályon kívül helyezte és a tárgykört újraszabályozta.
