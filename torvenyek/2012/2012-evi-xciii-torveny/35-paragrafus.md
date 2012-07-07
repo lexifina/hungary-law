@@ -6,7 +6,7 @@
 
 1–23.
 
-24. 100. § (2) bekezdésében a „Kormány általános hatáskörű területi államigazgatási szervének szakigazgatási szerveként működő gyámhivatal” szövegrész helyébe a „fővárosi és megyei kormányhivatal szociális és gyámhivatala” szöveg,
+24.
 
 25–38.
 

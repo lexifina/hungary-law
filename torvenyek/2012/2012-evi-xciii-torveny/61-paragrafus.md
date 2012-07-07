@@ -4,6 +4,6 @@
 
 a)–f)
 
-g) 57/B. § (3) bekezdésében a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szervhez” szövegrész helyébe a „fővárosi és megyei kormányhivatalhoz” szöveg
+g)
 
 lép.

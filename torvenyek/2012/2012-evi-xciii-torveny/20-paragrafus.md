@@ -6,7 +6,7 @@
 
 a)–m)
 
-n) 92/K. § (2) bekezdésében a „Kormány általános hatáskörű területi államigazgatási szervének” szövegrész helyébe a „fővárosi és megyei kormányhivatal” szöveg,
+n)
 
 o)
 

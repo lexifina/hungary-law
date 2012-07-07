@@ -4,6 +4,6 @@
 
 a)
 
-b) 22. § (2) bekezdésében az „ellenőrzéséért” szövegrész helyébe a „felügyeletéért” szöveg
+b)
 
 lép.

@@ -4,13 +4,7 @@
 
 a)
 
-b) mellékletének
-
-ba) 9. pontja,
-
-bb) 22. pontja,
-
-bc) 23. pontjában az „és a megyei” szövegrész.
+b)
 
 (6)
 
@@ -18,11 +12,11 @@ bc) 23. pontjában az „és a megyei” szövegrész.
 
 a)–g)
 
-h) a Khtv. 19. § (3) bekezdése,
+h)
 
 i)–k)
 
-l) az Fkbt. 9/C. § (3) bekezdésében a „törvénysértésre hivatkozással” szövegrész.
+l)
 
 (8)
 

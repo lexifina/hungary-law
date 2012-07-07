@@ -2,6 +2,6 @@
 
 12. § (1)
 
-(2) A Kkt. 16. § (2) bekezdésében a „Kormány általános hatáskörű területi államigazgatási szervének” szövegrész helyébe a „fővárosi és megyei kormányhivatalnak” szöveg lép.
+(2)
 
 (3)
