@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-9-20-06
 | 2010-05-01 | 2002-9-20-06.16 | 11/2010. (III. 31.) IRM rendelet |
 | 2011-01-01 | 2002-9-20-06.17 | 23/2003. (VI. 26.) IM rendelet |
 | 2012-01-01 | 2002-9-20-06.18 | 41/2011. (XII. 30.) KIM rendelet |
+| 2012-07-07 | 2002-9-20-06.19 | 31/2012. (VI. 29.) KIM rendelet |

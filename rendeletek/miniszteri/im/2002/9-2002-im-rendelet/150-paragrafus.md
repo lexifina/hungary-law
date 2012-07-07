@@ -16,6 +16,6 @@ f) a bíróság bélyegzőjét és a tanács elnökének saját kezű aláírás
 
 (2) Az elővezetés foganatosítására a bíróság – határozatának megküldésével – a terhelt, illetőleg a tanú lakóhelye vagy tartózkodási helye szerint illetékes rendőrkapitányságot keresi meg.
 
-(3)[^299] A Magyar Honvédség és a rendvédelmi szervek hivatásos (szerződéses) állományú tagjainak elővezetése esetén a bíróság az érintett személy elöljáróját keresi meg.
+(3)[^301] A Magyar Honvédség és a rendvédelmi szervek hivatásos (szerződéses) állományú tagjainak elővezetése esetén a bíróság az érintett személy elöljáróját keresi meg.
 
-[^299]: A 150. § (3) bekezdése a 7/2005. (III. 24.) IM rendelet 2. §-ával megállapított szöveg.
+[^301]: A 150. § (3) bekezdése a 7/2005. (III. 24.) IM rendelet 2. §-ával megállapított szöveg.

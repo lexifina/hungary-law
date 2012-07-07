@@ -1,12 +1,12 @@
-## 93/H. §[^195] Ha a bíróság a foglalkozástól, a járművezetéstől véglegesen eltiltott elítéltet a Be. 565. §-a szerinti eljárásban mentesíti, erről a 93/B. § (2) vagy (3) bekezdése szerinti illetékes hatóságokat határozatának jogerős kiadmányával értesíti.
+## 93/H. §[^197] Ha a bíróság a foglalkozástól, a járművezetéstől véglegesen eltiltott elítéltet a Be. 565. §-a szerinti eljárásban mentesíti, erről a 93/B. § (2) vagy (3) bekezdése szerinti illetékes hatóságokat határozatának jogerős kiadmányával értesíti.
 
-## IV/B. Fejezet[^196]
+## IV/B. Fejezet[^198]
 
 ## A KIUTASÍTÁS VÉGREHAJTÁSA
 
 ## A kiutasításról kiállított értesítőlap tartalma
 
-93/I. §[^197] (1) A bíróság a kiutasításról külön értesítőlapot állít ki.
+93/I. §[^199] (1) A bíróság a kiutasításról külön értesítőlapot állít ki.
 
 (2) Az értesítőlapnak a 3. § (1) bekezdésének a)–c) pontjaiban, valamint a 3. § (2) bekezdésében meghatározott adatokon felül tartalmaznia kell kiutasítás lejáratának napját is, ha azt a bíróság
 
@@ -18,6 +18,6 @@ c) felfüggesztett szabadságvesztés, vagy más büntetés mellett alkalmazta,
 
 d) önálló büntetésként alkalmazta.
 
-[^195]: A 93/H. §-t a 11/2010. (III. 31.) IRM rendelet 18. §-a iktatta be.
-[^196]: A IV/B. fejezetet (93/I–93/P. §) a 11/2010. (III. 31.) IRM rendelet 18. §-a iktatta be.
-[^197]: A 93/I. §-t a 11/2010. (III. 31.) IRM rendelet 18. §-a iktatta be.
+[^197]: A 93/H. §-t a 11/2010. (III. 31.) IRM rendelet 18. §-a iktatta be.
+[^198]: A IV/B. fejezetet (93/I–93/P. §) a 11/2010. (III. 31.) IRM rendelet 18. §-a iktatta be.
+[^199]: A 93/I. §-t a 11/2010. (III. 31.) IRM rendelet 18. §-a iktatta be.

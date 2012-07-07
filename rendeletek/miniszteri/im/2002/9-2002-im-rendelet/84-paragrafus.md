@@ -8,9 +8,9 @@
 
 (4) Ha a bíróság az egységes értesítőlap megküldését követően felmerült bűnügyi költség megfizetésére kötelezi az elítéltet, újabb egységes értesítőlapot állít ki, és küld meg az első fokú bíróság szerint illetékes BGH-nak.
 
-(5)[^163] Ha a bűnügyi költséget az ügyész állapította meg, végrehajtható határozatának egy kiadmányát megküldi az illetékes BGH-nak. A BGH a végrehajtás foganatosítása érdekében a határozatot olyan záradékkal látja el, amely szerint a határozat az 1994. évi LIII. törvény 10. §-a szerinti végrehajtható okiratnak minősül, és azt megküldi a végrehajtónak.
+(5)[^163] Ha a bűnügyi költséget az ügyész állapította meg, végrehajtható határozatának egy kiadmányát megküldi az illetékes BGH-nak. A BGH a végrehajtás foganatosítása érdekében a határozatot olyan záradékkal látja el, amely szerint a határozat a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 10. §-a szerinti végrehajtható okiratnak minősül, és azt megküldi a Vht. 32. §-a szerint illetékes végrehajtónak.
 
 [^160]: A 84. § (1) bekezdése a 14/2006. (III. 28.) IM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^161]: A 84. § (2) bekezdése a 23/2003. (VI. 26.) IM rendelet 64. § (1) bekezdésének a) pontja, a 11/2006. (VII. 25.) IRM rendelet 12. § (1) bekezdése szerint módosított szöveg.
 [^162]: A 84. § (3) bekezdése a 11/2006. (VII. 25.) IRM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^163]: A 84. § (5) bekezdését a 14/2006. (III. 28.) IM rendelet 6. § (2) bekezdése iktatta be.
+[^163]: A 84. § (5) bekezdését a 14/2006. (III. 28.) IM rendelet 6. § (2) bekezdése iktatta be, szövege a 31/2012. (VI. 29.) KIM rendelet 9. § (4) bekezdés a)–b) pontja szerint módosított szöveg.

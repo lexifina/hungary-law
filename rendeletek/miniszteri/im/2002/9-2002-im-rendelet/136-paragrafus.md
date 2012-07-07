@@ -2,7 +2,7 @@
 
 a) a bíróság megnevezését, ügyszámát, az előzetes letartóztatásról szóló határozat keltét és számát,
 
-b)[^255] a terhelt nevét és a Be. 117. §-a (1) bekezdésében felsorolt személyi adatait,
+b)[^257] a terhelt nevét és a Be. 117. §-a (1) bekezdésében felsorolt személyi adatait,
 
 c) ha a terhelt fiatalkorú, ezt a tényt,
 
@@ -18,22 +18,22 @@ h) az eljáró ügyészség megjelölését és ügyszámát,
 
 i) ha a terhelt más ügyben szabadságvesztést tölt, vagy előzetes letartóztatásban van, ennek a körülménynek és a másik ügynek (eljáró hatóság és ügyszám), valamint a fogva tartó bv. intézetnek a megjelölését,
 
-j)[^256] ha a terhelttel szemben más ügyben házi őrizetet rendeltek el, ennek a körülménynek és a másik ügynek (eljáró hatóság és ügyszám), valamint a terhelt házi őrizet céljára kijelölt lakásának helye szerint illetékes rendőrkapitányság megjelölését,
+j)[^258] ha a terhelttel szemben más ügyben házi őrizetet rendeltek el, ennek a körülménynek és a másik ügynek (eljáró hatóság és ügyszám), valamint a terhelt házi őrizet céljára kijelölt lakásának helye szerint illetékes rendőrkapitányság megjelölését,
 
-k)[^257] bírói rendelvényt az előzetes letartóztatás végrehajtására vagy a terhelt szabadon bocsátására,
+k)[^259] bírói rendelvényt az előzetes letartóztatás végrehajtására vagy a terhelt szabadon bocsátására,
 
-l)[^258] a bíróság bélyegzőjét és a tanács elnökének saját kezű aláírását.
+l)[^260] a bíróság bélyegzőjét és a tanács elnökének saját kezű aláírását.
 
-(2)[^259] Ha a bíróság az ítélet meghozatala után határoz az előzetes letartóztatás kérdésében, az értesítőlap az (1) bekezdésben felsoroltakon kívül tartalmazza a kiszabott büntetést, az előzetes fogvatartás, illetőleg a házi őrizet beszámítását és a feltételes szabadságra bocsátás lehetőségét.
+(2)[^261] Ha a bíróság az ítélet meghozatala után határoz az előzetes letartóztatás kérdésében, az értesítőlap az (1) bekezdésben felsoroltakon kívül tartalmazza a kiszabott büntetést, az előzetes fogvatartás, illetőleg a házi őrizet beszámítását és a feltételes szabadságra bocsátás lehetőségét.
 
-(3)[^260] Ha a bíróság az előzetes letartóztatás megszüntetéséről óvadék megfizetése mellett határoz, az értesítőlap az (1) bekezdésben felsoroltakon kívül tartalmazza az óvadék befizetésének tényét, valamint az óvadék megállapítása tárgyában jogerős határozatot hozó bíróság megjelölését.
+(3)[^262] Ha a bíróság az előzetes letartóztatás megszüntetéséről óvadék megfizetése mellett határoz, az értesítőlap az (1) bekezdésben felsoroltakon kívül tartalmazza az óvadék befizetésének tényét, valamint az óvadék megállapítása tárgyában jogerős határozatot hozó bíróság megjelölését.
 
-(4)[^261] A másodfokú bíróság által kiállított értesítőlapon az első fokon eljárt, a harmadfokú bíróság által kiállított értesítőlapon az első fokon, illetőleg a másodfokon eljárt bíróság megnevezését, határozatának keltét és számát is fel kell tüntetni.
+(4)[^263] A másodfokú bíróság által kiállított értesítőlapon az első fokon eljárt, a harmadfokú bíróság által kiállított értesítőlapon az első fokon, illetőleg a másodfokon eljárt bíróság megnevezését, határozatának keltét és számát is fel kell tüntetni.
 
-[^255]: A 136. § (1) bekezdésének b) pontja a 23/2003. (VI. 26.) IM rendelet 52. §-ának (1) bekezdésével megállapított szöveg.
-[^256]: A 136. § (1) bekezdésének új j) pontját a 23/2003. (VI. 26.) IM rendelet 52. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti j)–k) pontok jelölését k)–l) pontra változtatva.
-[^257]: A 136. § (1) bekezdésének eredeti j) pontjának jelölését a 23/2003. (VI. 26.) IM rendelet 52. §-ának (2) bekezdése k) pontra változtatta.
-[^258]: A 136. § (1) bekezdésének eredeti k) pontjának jelölését a 23/2003. (VI. 26.) IM rendelet 52. §-ának (2) bekezdése l) pontra változtatta.
-[^259]: A 136. § (2) bekezdése a 23/2003. (VI. 26.) IM rendelet 52. §-ának (3) bekezdésével megállapított szöveg.
-[^260]: A 136. § új (3) bekezdését a 23/2003. (VI. 26.) IM rendelet 52. §-ának (4) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. A (3) bekezdés szövege a 11/2006. (VII. 25.) IRM rendelet 22. §-ával megállapított szöveg.
-[^261]: A 136. § eredeti (3) bekezdésének számozását a 23/2003. (VI. 26.) IM rendelet 52. §-ának (4) bekezdése (4) bekezdésre változtatta. A (4) bekezdés szövege a 11/2006. (VII. 25.) IRM rendelet 22. §-ával megállapított szöveg.
+[^257]: A 136. § (1) bekezdésének b) pontja a 23/2003. (VI. 26.) IM rendelet 52. §-ának (1) bekezdésével megállapított szöveg.
+[^258]: A 136. § (1) bekezdésének új j) pontját a 23/2003. (VI. 26.) IM rendelet 52. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti j)–k) pontok jelölését k)–l) pontra változtatva.
+[^259]: A 136. § (1) bekezdésének eredeti j) pontjának jelölését a 23/2003. (VI. 26.) IM rendelet 52. §-ának (2) bekezdése k) pontra változtatta.
+[^260]: A 136. § (1) bekezdésének eredeti k) pontjának jelölését a 23/2003. (VI. 26.) IM rendelet 52. §-ának (2) bekezdése l) pontra változtatta.
+[^261]: A 136. § (2) bekezdése a 23/2003. (VI. 26.) IM rendelet 52. §-ának (3) bekezdésével megállapított szöveg.
+[^262]: A 136. § új (3) bekezdését a 23/2003. (VI. 26.) IM rendelet 52. §-ának (4) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. A (3) bekezdés szövege a 11/2006. (VII. 25.) IRM rendelet 22. §-ával megállapított szöveg.
+[^263]: A 136. § eredeti (3) bekezdésének számozását a 23/2003. (VI. 26.) IM rendelet 52. §-ának (4) bekezdése (4) bekezdésre változtatta. A (4) bekezdés szövege a 11/2006. (VII. 25.) IRM rendelet 22. §-ával megállapított szöveg.
