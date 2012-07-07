@@ -1,3 +1,4 @@
-## 8. §[^12] A Pk lajstrom vezetésére egyebekben a bírósági ügyvitel szabályairól szóló 14/2002. (VIII. 1.) IM rendelet az irányadó.
+## 8/A. §[^13] E rendeletnek az egyes igazságügyi tárgyú miniszteri rendeletek módosításáról szóló 31/2012. (VI. 29.) KIM rendelettel (a továbbiakban: módosító rendelet) megállapított 7. §-át a módosító rendelet 2. §-ának hatálybalépésekor[^14] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^12]: A 8. § a 40/2011. (XII. 30.) KIM rendelet 38. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^13]: A 8/A. §-t a 31/2012. (VI. 29.) KIM rendelet 2. § (2) bekezdése iktatta be.
+[^14]: A hatálybalépés időpontja 2012. július 7.
