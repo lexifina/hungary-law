@@ -1,4 +1,10 @@
-## 18. §[^22]
+## „10/A. § Átutalással történő díjfizetés esetén a közjegyzői kamara külön kérelem nélkül visszautalja
+
+## a) azokat az összegeket, melyekhez kérelem nem kapcsolható,
+
+## b) az átutalt összeget, ha a fél az eljárási díjnál kevesebb összeget utal át és
+
+## c) a különbözetet, ha a fél az eljárási díjnál magasabb összeget utal át, feltéve, hogy a túlfizetés összege a 400 Ft-ot meghaladja.”
 
 ## 19. A civil szervezetek bírósági eljárásokban alkalmazandó űrlapjairól szóló 11/2012. (II. 29.) KIM rendelet módosítása
 
@@ -24,7 +30,7 @@
 
 ## 8.6. az alapítvány céljaira az alapítvány céljára rendelt vagyont meghaladó minden vagyon felhasználható”
 
-(3)[^23]
+(3)[^10]
 
 (4) A civil szervezetek bírósági eljárásokban alkalmazandó űrlapjairól szóló 11/2012. (II. 29.) KIM rendelet
 
@@ -40,5 +46,4 @@ e) 41. melléklet 12.5. pontjában a „szétválásáról vagy feloszlásáról
 
 f) 41. melléklet 14.2. pontjában a „legalább” szövegrész a „több mint” szöveggel
 
-[^22]: A 18. § a 21. § (3) bekezdése alapján 2012. július 7-én lép hatályba.
-[^23]: A 19. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 19. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

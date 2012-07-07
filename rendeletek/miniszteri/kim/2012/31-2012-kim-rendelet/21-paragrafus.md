@@ -1,4 +1,8 @@
-## 20. §[^24]
+## 20. § A felszámolási eljárásban közzétételre kerülő bírósági végzések kivonatának tartalmi elemeiről szóló 13/2012. (III. 1.) KIM rendelet 1. § e) pontja helyébe a következő rendelkezés lép:
+
+## [A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 28. § (1) bekezdésében meghatározott közzétételnek tartalmaznia kell a Cstv. 28. § (2) bekezdésében foglaltakat azzal, hogy a j) pont szerinti egyéb lényeges körülmény különösen]
+
+## „e) az arra való utalás, hogy az eljárás főeljárásként vagy területi eljárásként indult.”
 
 ## 21. Záró rendelkezések
 
@@ -13,5 +17,3 @@
 (5) A 8. § (1) és (6) bekezdése, a 12. §, a 14. §, valamint a 17. § 2012. augusztus 1-jén lép hatályba.
 
 (6) E rendelet 2012. augusztus 2-án a hatályát veszti.
-
-[^24]: A 20. § a 21. § (3) bekezdése alapján 2012. július 7-én lép hatályba.
