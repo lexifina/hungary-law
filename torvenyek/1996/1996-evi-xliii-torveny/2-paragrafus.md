@@ -14,7 +14,7 @@ e) országos parancsnok: a rendőrség központi szervének vezetője, a hivatá
 
 f) országos parancsnokság: a nemzetbiztonsági szolgálatok főigazgatói kivételével az e) pontban meghatározott személyek által vezetett szervek;
 
-g) miniszter: a fegyveres szervet irányító miniszter;
+g) miniszter: a Kormány fegyveres szervet irányító tagja;
 
 h) szervezeti egység: a fegyveres szerv szervezeti rendszerében elhelyezkedő, különböző szervezeti elemekből álló, az állományilletékes parancsnok által vezetett szervezet;
 

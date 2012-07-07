@@ -165,7 +165,3 @@ VIII. Összeférhetetlenségre vonatkozó adatok:
 – engedélyezett, más kereső foglalkozás,
 
 – a bejelentéshez kötött egyéb, szolgálati viszonyon kívüli tevékenységre vonatkozó adatok,
-
-– a szolgálati viszony összeférhetetlenség miatti megszűnésének jogcíme.
-
-IX. Illetmény, juttatások, költségtérítések, kedvezmények és támogatások adatai:

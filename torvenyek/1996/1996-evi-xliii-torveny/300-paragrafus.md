@@ -27,3 +27,5 @@ e) a szolgálatteljesítési idő és a túlszolgálat szolgálatszervezéssel �
 f) a fegyveres szerv hivatásos állományú tagjait érintő szakmai képzési, át- és továbbképzési és vezetőképzési rendszerét.
 
 (3) A polgári nemzetbiztonsági szolgálatok esetében a miniszter a kihelyezett állományra vonatkozó különös szabályokat utasításban állapítja meg.
+
+(4) Az Információs Hivatal esetében – az (1) és (3) bekezdéstől eltérően – a Kormány határozatban állapítja meg az (1) és (3) bekezdés szerinti tárgykörökben az Információs Hivatal vonatkozásában a szabályokat.
