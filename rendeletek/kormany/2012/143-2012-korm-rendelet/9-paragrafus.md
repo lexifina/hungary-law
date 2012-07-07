@@ -1,3 +1,3 @@
-## „(3) A fegyelmi tanács elnöke a vizsgálóbiztos előterjesztésétől számított három munkanapon belül írásban kijelöli a tanács tagjait, akik a fegyelmi eljárás alá vonttal legalább azonos besorolású, illetve vezetői munkakört betöltő kormánytisztviselők lehetnek. Vezetői munkakört betöltő kormánytisztviselő esetén az államigazgatási szervnek a fegyelmi eljárás alá vonttal legalább azonos szintű vezetői munkakört betöltő kormányzati szolgálati jogviszonyban álló foglalkoztatottjai közül kell kijelölni a fegyelmi tanács tagjait.
+## 8. §[^1]
 
-## (4) Ha az államigazgatási szervnél nincs a (3) bekezdésben foglaltaknak megfelelő kormánytisztviselő, az államigazgatási szerv irányítását, illetve felügyeletét ellátó államigazgatási szerv vezetője – ilyen szerv hiányában a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter – a (3) bekezdésben foglalt feltételeknek megfelelő kormányzati szolgálati jogviszonyban álló foglalkoztatottját jelölheti ki fegyelmi tanácstagnak.”
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
