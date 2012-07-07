@@ -8,4 +8,6 @@ c) az arra vonatkozó tájékoztatás, hogy a felszámoló csak azt a Cstv. 46. 
 
 d) ha az adóst a Kormány rendeletben stratégiailag kiemelt jelentőségű gazdálkodó szervezetnek nyilvánította, az erre vonatkozó adatok;
 
-e) ha az eljárás nem főeljárásként indult meg, az erre való utalás.
+e)[^1] az arra való utalás, hogy az eljárás főeljárásként vagy területi eljárásként indult.
+
+[^1]: Az 1. § e) pontja a 31/2012. (VI .29.) KIM rendelet 20. §-ával megállapított szöveg.

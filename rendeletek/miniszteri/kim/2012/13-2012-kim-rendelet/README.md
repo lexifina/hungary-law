@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-13-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-03-02 | 2012-13-20-2T.1 | 13/2012. (III. 1.) KIM rendelet |
+| 2012-07-07 | 2012-13-20-2T.2 | 31/2012. (VI .29.) KIM rendelet |
