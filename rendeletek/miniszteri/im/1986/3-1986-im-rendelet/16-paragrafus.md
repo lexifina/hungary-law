@@ -1,22 +1,22 @@
 16. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit a folyamatban levő ügyekben is alkalmazni kell.
 
-(2)[^52]
+(2)[^50]
 
-I. számú melléklet a 3/1986. (II. 21.) IM rendelethez[^53]
+I. számú melléklet a 3/1986. (II. 21.) IM rendelethez[^51]
 
 Szakértői munkadíjak
 
 ORVOS SZAKÉRTŐ
 
-1. Élő személy megvizsgálása és szakvélemény előterjesztése 5000 Ft
+1.[^52] Élő személy megvizsgálása (a 10. pontban megjelölt eset kivételével) és szakvélemény előterjesztése 5000 Ft
 
 2. Elmeállapot megvizsgálása és szakvélemény előterjesztése 5000 Ft
 
 3. Halottszemle (kivéve, ha a halottszemlét nyomban boncolás követi) és szakvélemény előterjesztése 2400 Ft
 
-4.[^54] Igazságügyi boncolás és szakvélemény előterjesztése vagy csontvázlelet orvos szakértői vizsgálata 12 500 Ft
+4.[^53] Igazságügyi boncolás és szakvélemény előterjesztése vagy csontvázlelet orvos szakértői vizsgálata 12 500 Ft
 
-4/A.[^55] Hatósági boncolás 5600 Ft
+4/A.[^54] Hatósági boncolás 5600 Ft
 
 5. Orvos szakértői vélemények iratok alapján
 
@@ -32,7 +32,9 @@ c) minden más esetben 2800 Ft
 
 8. Bűnjel vagy egyéb tárgy megvizsgálása, ha a vizsgálatot nem lehet az 1–5. pont alatt részletezettek valamelyikével elvégezni 2000 Ft
 
-9.[^56] DNS tulajdonság vizsgálata személyenként 3000 Ft
+9.[^55] DNS tulajdonság vizsgálata személyenként 3000 Ft
+
+10.[^56] Hatósági eljárásban (ide nem értve a hatósági ügy bírósági felülvizsgálatát) komplex minősítéshez kapcsolódó rehabilitációs orvosszakértői tevékenység megkezdett óránként 4000 Ft
 
 PSZICHOLÓGUS SZAKÉRTŐ
 
@@ -146,11 +148,13 @@ III. számú melléklet a 3/1986. (II. 21.) IM rendelethez[^70]
 
 IV. számú melléklet a 3/1986. (II. 21.) IM rendelethez[^71]
 
-[^52]: A 16. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 183. pontja hatályon kívül helyezte.
-[^53]: Az I. számú melléklet a 6/2002. (III. 30.) IM rendelet 4. § (2) bekezdésével megállapított szöveg, e módosító rendelet 5. § (1) bekezdése alapján a folyamatban lévő ügyek közül azokban kell alkalmazni, amelyekben a szakértő kirendelésére 2003. január 1-jét követően került sor.
-[^54]: Az I. melléklet 4. pontja a 65/2007. (XII. 23.) IRM rendelet 9. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a szakértő kirendelésére 2008. január 1. napját követően került sor.
-[^55]: Az I. melléklet 4/A. pontját a 65/2007. (XII. 23.) IRM rendelet 9. § (1) bekezdése iktatta be. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a szakértő kirendelésére 2008. január 1. napját követően került sor.
-[^56]: Az I. melléklet 9. pontját a 65/2007. (XII. 23.) IRM rendelet 9. § (2) bekezdése iktatta be. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a szakértő kirendelésére 2008. január 1. napját követően került sor.
+[^50]: A 16. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 183. pontja hatályon kívül helyezte.
+[^51]: Az I. számú melléklet a 6/2002. (III. 30.) IM rendelet 4. § (2) bekezdésével megállapított szöveg, e módosító rendelet 5. § (1) bekezdése alapján a folyamatban lévő ügyek közül azokban kell alkalmazni, amelyekben a szakértő kirendelésére 2003. január 1-jét követően került sor.
+[^52]: Az I. melléklet 1. pontja a 31/2012. (VI. 29.) KIM rendelet 1. § (8) bekezdés d) pontja szerint módosított szöveg.
+[^53]: Az I. melléklet 4. pontja a 65/2007. (XII. 23.) IRM rendelet 9. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a szakértő kirendelésére 2008. január 1. napját követően került sor.
+[^54]: Az I. melléklet 4/A. pontját a 65/2007. (XII. 23.) IRM rendelet 9. § (1) bekezdése iktatta be. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a szakértő kirendelésére 2008. január 1. napját követően került sor.
+[^55]: Az I. melléklet 9. pontját a 65/2007. (XII. 23.) IRM rendelet 9. § (2) bekezdése iktatta be. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a szakértő kirendelésére 2008. január 1. napját követően került sor.
+[^56]: Az I. melléklet 10. pontját a 31/2012. (VI. 29.) KIM rendelet 1. § (7) bekezdése iktatta be.
 [^57]: Az I. melléklet 31. pontját megelőző alcíme a 65/2007. (XII. 23.) IRM rendelet 9. § (3) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a szakértő kirendelésére 2008. január 1. napját követően került sor.
 [^58]: Az I. melléklet 31. pontja a 65/2007. (XII. 23.) IRM rendelet 9. § (3) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a szakértő kirendelésére 2008. január 1. napját követően került sor.
 [^59]: Az I. melléklet 32. pontja a 65/2007. (XII. 23.) IRM rendelet 9. § (3) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a szakértő kirendelésére 2008. január 1. napját követően került sor.

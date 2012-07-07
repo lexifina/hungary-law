@@ -1,12 +1,12 @@
-## [^43] II. Az igazságügyi szakértői intézmény és az egyetemi intézet alkalmazásában álló szakértő díjának megállapítása és kifizetése
+## [^40] II. Az igazságügyi szakértői intézmény és az egyetemi intézet alkalmazásában álló szakértő díjának megállapítása és kifizetése
 
-11. § (1)[^44] Az igazságügyi szakértői intézmény alkalmazásában álló szakértő – a (4) bekezdést kivéve – külön díjazásra nem jogosult.
+11. § (1)[^41] Az igazságügyi szakértői intézmény alkalmazásában álló szakértő – a (4) bekezdést kivéve – külön díjazásra nem jogosult.
 
-(2)–(3)[^45]
+(2)–(3)[^42]
 
-(4)[^46] Ha az igazságügyi szakértői intézményben alkalmazott szakértő a szakértői feladatot saját nevében, munkaidőn kívül, külön megbízás alapján látja el, ezért a tevékenységéért a díj közvetlenül őt illeti meg. A költségek megosztásáról a szakértő és az igazságügyi szakértői intézmény külön megállapodik.
+(4)[^43] Ha az igazságügyi szakértői intézményben alkalmazott szakértő a szakértői feladatot saját nevében, munkaidőn kívül, külön megbízás alapján látja el, ezért a tevékenységéért a díj közvetlenül őt illeti meg. A költségek megosztásáról a szakértő és az igazságügyi szakértői intézmény külön megállapodik.
 
-[^43]: A II. fejezet címe a 65/2007. (XII. 23.) IRM rendelet 7. §-ával megállapított szöveg.
-[^44]: A 11. § (1) bekezdése a 65/2007. (XII. 23.) IRM rendelet 7. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a szakértő kirendelésére 2008. január 1. napját követően került sor.
-[^45]: A 11. § (2)–(3) bekezdését a 65/2007. (XII. 23.) IRM rendelet 12. § (4) bekezdésének d) pontja hatályon kívül helyezte.
-[^46]: A 11. § (4) bekezdése a 13/1998. (VI. 10.) IM rendelet 2. §-ának (3) bekezdésével megállapított, valamint a 65/2007. (XII. 23.) IRM rendelet 12. § (4) bekezdésének e) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a szakértő kirendelésére 2008. január 1. napját követően került sor.
+[^40]: A II. fejezet címe a 65/2007. (XII. 23.) IRM rendelet 7. §-ával megállapított szöveg.
+[^41]: A 11. § (1) bekezdése a 65/2007. (XII. 23.) IRM rendelet 7. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a szakértő kirendelésére 2008. január 1. napját követően került sor.
+[^42]: A 11. § (2)–(3) bekezdését a 65/2007. (XII. 23.) IRM rendelet 12. § (4) bekezdésének d) pontja hatályon kívül helyezte.
+[^43]: A 11. § (4) bekezdése a 13/1998. (VI. 10.) IM rendelet 2. §-ának (3) bekezdésével megállapított, valamint a 65/2007. (XII. 23.) IRM rendelet 12. § (4) bekezdésének e) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a szakértő kirendelésére 2008. január 1. napját követően került sor.
