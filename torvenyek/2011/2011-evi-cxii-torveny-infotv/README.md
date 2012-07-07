@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-112-00-00
 | 2012-03-01 | 2012. évi V. törvény | 2011-112-00-00.4 |
 | 2012-04-07 | 2012. évi XXV. törvény | 2011-112-00-00.5 |
 | 2012-07-06 | 2012. évi XCIII. törvény | 2011-112-00-00.6 |
+| 2012-07-07 | 2012. évi XCVI. törvény | 2011-112-00-00.7 |

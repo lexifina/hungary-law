@@ -6,7 +6,7 @@
 
 (3) A közzétételre kötelezett szerv vezetője – a Hatóság véleményének kikérésével –, valamint jogszabály a közfeladatot ellátó szervre, azok irányítása, felügyelete alá tartozó szervekre vagy azok egy részére kiterjedő hatállyal további kötelezően közzéteendő adatkört határozhat meg (a továbbiakban: egyedi közzétételi lista).
 
-(4) A polgári nemzetbiztonsági szolgálatok által közzéteendő adatok körét a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter és a polgári hírszerzési tevékenység irányításáért felelős miniszter, a Katonai Nemzetbiztonsági Szolgálat által közzéteendő adatok körét a honvédelemért felelős miniszter – a Hatóság véleményének kikérésével – rendeletben állapítja meg.
+(4) A nemzetbiztonsági szolgálatok által közzéteendő adatok körét a Kormány – a Hatóság véleményének kikérésével – rendeletben állapítja meg.
 
 (5) Testületi szervként működő közzétételre kötelezett szerv esetén az egyedi közzétételi lista megállapítása és módosítása – a Hatóság véleményének kikérésével – a testület hatáskörébe tartozik.
 
