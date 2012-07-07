@@ -1,10 +1,10 @@
 ## 62. § A miniszter egyéb kormányzati felelőssége körében
 
-a)[^187] közreműködik a Magyarország területén élő nemzetiségek, valamint az anyaországok közötti oktatási kapcsolatok fenntartásában,
+a)[^189] közreműködik a Magyarország területén élő nemzetiségek, valamint az anyaországok közötti oktatási kapcsolatok fenntartásában,
 
-b)[^188] ellátja a nemzetiségek anyanyelvű és anyanyelvi oktatásával kapcsolatos állami feladatok központi irányítását,
+b)[^190] ellátja a nemzetiségek anyanyelvű és anyanyelvi oktatásával kapcsolatos állami feladatok központi irányítását,
 
-c)[^189] ellátja a Magyarország területén, illetve a külföldön tanulmányokat folytató magyar nemzetiségű, külföldi állandó lakhellyel rendelkező külföldi állampolgárok (külhoni magyarok) oktatásával kapcsolatos feladatokat,
+c)[^191] ellátja a Magyarország területén, illetve a külföldön tanulmányokat folytató magyar nemzetiségű, külföldi állandó lakhellyel rendelkező külföldi állampolgárok (külhoni magyarok) oktatásával kapcsolatos feladatokat,
 
 d) ellátja a menekültek közoktatásban és felsőoktatásban való részvételével, felzárkóztatásával és magyarnyelv-oktatásával kapcsolatos feladatokat,
 
@@ -16,7 +16,7 @@ g) közreműködik a nemzetgazdasági miniszter iskolai rendszerű szakképzést
 
 h) részt vesz a kormányzati technológia- és innováció politika kidolgozásában,
 
-i)[^190] részt vesz a nemzetgazdasági miniszterrel együttműködve a nemzetiségek oktatási, a romák társadalmi integrációját segítő oktatási-foglalkoztatási központi programjaival kapcsolatos állami feladatok ellátásában,
+i)[^192] részt vesz a nemzetgazdasági miniszterrel együttműködve a nemzetiségek oktatási, a romák társadalmi integrációját segítő oktatási-foglalkoztatási központi programjaival kapcsolatos állami feladatok ellátásában,
 
 j) részt vesz a munkaerőpiacon hátrányos helyzetben lévők foglalkoztatását segítő, alapműveltségi, életviteli oktatási programokkal kapcsolatos állami feladatok végrehajtásában,
 
@@ -24,10 +24,10 @@ k) részt vesz a magyar nyelv és kultúra megőrzése, terjesztése és megisme
 
 l) elősegíti a civil szektor szervezeteinek részvételét az oktatási közfeladatok ellátásában,
 
-m)[^191] a Wekerle Sándor Alapkezelő irányítása vonatkozásában a Wekerle Sándor Alapkezelő által bonyolított, hazai pályázati forrásból finanszírozott oktatási programok tekintetében a közigazgatási és igazságügyi miniszter intézkedéséhez kapcsolódó egyetértési jogot gyakorol.
+m)[^193] a Wekerle Sándor Alapkezelő irányítása vonatkozásában a Wekerle Sándor Alapkezelő által bonyolított, hazai pályázati forrásból finanszírozott oktatási programok tekintetében a közigazgatási és igazságügyi miniszter intézkedéséhez kapcsolódó egyetértési jogot gyakorol.
 
-[^187]: A 62. § a) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § n) és o) pontja szerint módosított szöveg.
-[^188]: A 62. § b) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § n) pontja szerint módosított szöveg.
-[^189]: A 62. § c) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § o) pontja szerint módosított szöveg.
-[^190]: A 62. § i) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § n) pontja, 8. § f) pontja szerint módosított szöveg.
-[^191]: A 62. § m) pontját a 267/2010. (XII. 3.) Korm. rendelet 18. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^189]: A 62. § a) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § n) és o) pontja szerint módosított szöveg.
+[^190]: A 62. § b) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § n) pontja szerint módosított szöveg.
+[^191]: A 62. § c) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § o) pontja szerint módosított szöveg.
+[^192]: A 62. § i) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § n) pontja, 8. § f) pontja szerint módosított szöveg.
+[^193]: A 62. § m) pontját a 267/2010. (XII. 3.) Korm. rendelet 18. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.

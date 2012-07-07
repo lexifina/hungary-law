@@ -1,4 +1,4 @@
-10/A. §[^40] (1) A Miniszterelnökségen működő jogi ügyekért felelős államtitkár
+10/A. §[^42] (1) A Miniszterelnökségen működő jogi ügyekért felelős államtitkár
 
 a) ellátja a miniszterelnök részére jogi szempontú döntés előkészítéssel kapcsolatos véleményezési és javaslattételi tevékenységeket, ennek keretében soron kívül tájékoztatást, továbbá e körben a kormányzati összeállítások elkészítéséhez szakmai előkészítő anyagot, adatszolgáltatást, szakértői közreműködést kérhet,
 
@@ -28,4 +28,4 @@ e) kidolgozza az ellenőrzésre vonatkozó jogszabálytervezeteket,
 
 f) ellenőrzi a Kormány személyzetpolitikával kapcsolatos döntéseinek végrehajtását.
 
-[^40]: A 10/A. §-t a 118/2012. (VI. 26.) Korm. rendelet 5. §-a iktatta be.
+[^42]: A 10/A. §-t a 118/2012. (VI. 26.) Korm. rendelet 5. §-a iktatta be.

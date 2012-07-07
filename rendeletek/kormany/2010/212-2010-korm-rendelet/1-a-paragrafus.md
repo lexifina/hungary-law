@@ -8,7 +8,13 @@
 
 (2) A miniszterelnök általános helyettese közreműködik az emberi erőforrások miniszterének az egyházpolitikával és egyház-diplomáciával kapcsolatos feladatai ellátásában.
 
-(3) A miniszterelnök általános helyettese a Kormány nemzetpolitikáért felelős tagja.
+(3)[^3] A miniszterelnök általános helyettese a Kormány
+
+a) nemzetpolitikáért, valamint
+
+b) – az (5a) bekezdés szerinti eljárásokban – állampolgársági ügyekért
+
+felelős tagja.
 
 (4) A miniszterelnök általános helyettese a nemzetpolitikáért való felelőssége körében
 
@@ -38,6 +44,10 @@ c) a magyar kulturális örökség külföldön található emlékeinek és ért
 
 d) a határon túli ifjúsággal való együttműködés rendszerének koordinálásában, a kapcsolatok fejlesztésére szolgáló programok kidolgozásában.
 
+(5a)[^4] A Kormány a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (7) bekezdésével összefüggő honosítási eljárásban állampolgársági ügyekért felelős miniszterként a miniszterelnök általános helyettesét jelöli ki.
+
 (6) A miniszterelnök általános helyettesét a Közigazgatási és Igazságügyi Minisztérium parlamenti államtitkára helyettesíti.
 
 [^2]: Az I/A. Fejezetet (1/A. §) a 118/2012. (VI. 26.) Korm. rendelet 2. §-a iktatta be.
+[^3]: Az 1/A. § (3) bekezdése a 151/2012. (VII. 6.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1/A. § (5a) bekezdését a 151/2012. (VII. 6.) Korm. rendelet 1. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-71/A. §[^221] (1) A miniszter a társadalmi felzárkózásért való felelőssége körében felelős:
+71/A. §[^223] (1) A miniszter a társadalmi felzárkózásért való felelőssége körében felelős:
 
 a) a gyermekek esélyteremtéséért,
 
@@ -42,4 +42,4 @@ n) közreműködik a közfoglalkoztatási koncepció és az ahhoz kapcsolódó p
 
 o) irányítja a Türr István Képző és Kutató Intézetet.
 
-[^221]: A 71/A. §-t a 94/2012. (V. 11.) Korm. rendelet 4. §-a iktatta be.
+[^223]: A 71/A. §-t a 94/2012. (V. 11.) Korm. rendelet 4. §-a iktatta be.
