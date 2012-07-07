@@ -18,23 +18,23 @@
 
 | 6. függővitorlázó tervezése, gyártása, javítása, karbantartása | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles gépészmérnök vagy d) gépészmérnök |
 
-| 7. helikopter légiüzemeltetése (5700 kg alatti max. felszállótömegű) | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök |
+| 7. helikopter légi üzemeltetése (5700 kg alatti max. felszállótömegű) | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök vagy h) okleveles mezőgazdasági gépészmérnök |
 
-| 8. helikopter légiüzemeltetése (5700 kg vagy nagyobb felszállótömegű) | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök |
+| 8. helikopter légi üzemeltetése (5700 kg vagy nagyobb felszállótömegű) | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök vagy g) okleveles mezőgazdasági gépészmérnök |
 
-| 9. helikopter műszaki üzembentartása, karbantartása (5700 kg vagy nagyobb felszállótömegű) | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök |
+| 9. helikopter műszaki üzemben tartása, karbantartása (5700 kg vagy nagyobb felszállótömegű) | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök vagy g) okleveles mezőgazdasági gépészmérnök |
 
-| 10. helikopter műszaki üzembentartása, karbantartása (5700 kg alatti max. felszállótömegű) | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök |
+| 10. helikopter műszaki üzemben tartása, karbantartása (5700 kg alatti max. felszállótömegű) | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök vagy g) okleveles mezőgazdasági gépészmérnök |
 
-| 11. légiforgalmi szolgálatok | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök |
+| 11. légiforgalmi szolgálatok | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök vagy g) okleveles mezőgazdasági gépészmérnök |
 
-| 12. repülőgép légiüzemeltetési (5700 kg alatti max. felszállótömegű) | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök |
+| 12. repülőgép légi üzemeltetési (5700 kg alatti max. felszállótömegű) | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök vagy g) okleveles mezőgazdasági gépészmérnök |
 
-| 13. repülőgép légiüzemeltetési (5700 kg vagy nagyobb felszállótömegű) | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök |
+| 13. repülőgép légi üzemeltetési (5700 kg vagy nagyobb felszállótömegű) | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök vagy g) okleveles mezőgazdasági gépészmérnök |
 
-| 14. repülőgép műszaki üzembentartása, karbantartása (5700 kg alatti max. felszállótömegű) | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök |
+| 14. repülőgép műszaki üzemben tartása, karbantartása (5700 kg alatti max. felszállótömegű) | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök vagy g) okleveles mezőgazdasági gépészmérnök |
 
-| 15. repülőgép műszaki üzembentartása, karbantartása (5700 kg vagy nagyobb felszállótömegű) | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök |
+| 15. repülőgép műszaki üzemben tartása, karbantartása (5700 kg vagy nagyobb felszállótömegű) | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles villamosmérnök vagy d) villamosmérnök vagy e) okleveles gépészmérnök vagy f) gépészmérnök vagy g) okleveles mezőgazdasági gépészmérnök |
 
 | 16. sikló, függőpálya, sífelvonó | a) okleveles közlekedésmérnök vagy b) közlekedésmérnök vagy c) okleveles építőmérnök |
 
@@ -142,7 +142,7 @@
 
 | 22. papíripari- és nyomdaipari gép gyártása | a) okleveles gépészmérnök vagy b) gépészmérnök vagy c) okleveles könnyűipari mérnök vagy d) könnyűipari mérnök vagy e) okleveles faipari mérnök vagy f) faipari mérnök |
 
-| 23. szénhidrogén termelés, -kutatás, -szállítás | a) okleveles gépészmérnök vagy b) gépészmérnök vagy c) okleveles vegyészmérnök vagy d) vegyészmérnök vagy e) okleveles olaj- és gázmérnök vagy f) okleveles vegyész vagy g) okleveles geofizikus vagy h) okleveles földtudományi mérnök |
+| 23. szénhidrogén termelés, -kutatás, -szállítás | a) okleveles gépészmérnök vagy b) gépészmérnök vagy c) okleveles vegyészmérnök vagy d) vegyészmérnök vagy e) okleveles olaj- és gázmérnök vagy f) okleveles vegyész vagy g) okleveles geofizikus vagy h) okleveles földtudományi mérnök vagy i) okleveles villamosmérnök vagy j) villamosmérnök |
 
 | 24. szerszámgépgyártás | a) okleveles gépészmérnök vagy b) gépészmérnök |
 
@@ -174,6 +174,6 @@
 
 | 38. gumiabroncs gyártása | a) okleveles vegyészmérnök vagy b) vegyészmérnök vagy c) okleveles gépészmérnök vagy d) gépészmérnök vagy e) okleveles vegyész vagy f) okleveles kémia szakos tanár |
 
-6. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^108]
+6. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^112]
 
-[^108]: A 6. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 19. § (3)–(4) bekezdését.
+[^112]: A 6. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 19. § (3)–(4) bekezdését.

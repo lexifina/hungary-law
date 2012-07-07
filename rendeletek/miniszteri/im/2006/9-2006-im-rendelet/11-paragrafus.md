@@ -1,3 +1,5 @@
-## 10. § Az 1. számú melléklet 5. pontjában megjelölt szakterületen a névjegyzékbe az vehető fel, aki a Személy-, Vagyonvédelmi és Magánnyomozói Szakmai Kamara tagja.
+## 10. §[^19]
 
 ## Az orvosi, továbbá egyes pszichológiai és biológiai területeken bejegyezhető szakterületek
+
+[^19]: A 10. §-t a 31/2012. (VI. 29.) KIM rendelet 13. § (7) bekezdése hatályon kívül helyezte.

@@ -16,7 +16,7 @@
 
 | 7. csecsemő- és gyermekgyógyászat | általános orvos és csecsemő- és gyermekgyógyászat szakvizsga |
 
-| 8. egészségbiztosítás | általános orvos és egészségbiztosítás szakvizsga |
+| 8. egészségbiztosítás | általános orvos és egészségbiztosítás szakvizsga és a) a szakorvos, szakfogorvos, szakgyógyszerész és klinikai szakpszichológus szakképesítés megszerzéséről szóló miniszteri rendelet szerinti klinikai szakképesítés vagy b) foglalkozás-orvostan (üzemorvostan) szakvizsga |
 
 | 9. foglalkozás-orvostan | általános orvos és foglalkozás-orvostan (üzemorvostan) szakvizsga |
 
@@ -86,6 +86,6 @@
 
 | 42. Klinikai toxikológia | általános orvos és a) aneszteziológiai és intenzív terápia szakvizsga vagy b) belgyógyászat szakvizsga vagy c) oxyológia és sürgősségi orvostani szakvizsga vagy d) igazságügyi orvostan szakvizsga |
 
-3. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^105]
+3. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^109]
 
-[^105]: A 3. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (8) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. § (3)–(4) bekezdését.
+[^109]: A 3. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (8) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. § (3)–(4) bekezdését.
