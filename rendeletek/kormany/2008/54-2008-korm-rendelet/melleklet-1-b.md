@@ -1,5 +1,3 @@
-## A szilárd ásványi nyersanyagok fajlagos értéke
-
 |  | A | B | C | D | E |
 
 | 1. | Kódja | Csoport | Alcsoport | Az alcsoportok földtani azonosítása | Fajlagos érték Ft/m3 |

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-54-20-2
 | --- | --- | --- |
 | 2009-10-01 | 2008-54-20-22.3 | 54/2008. (III. 20.) Korm. rendelet |
 | 2011-12-09 | 2008-54-20-22.4 | 251/2011. (XII. 1.) Korm. rendelet |
+| 2012-07-10 | 2008-54-20-22.5 | 146/2012. (VII. 5.) Korm. rendelet |

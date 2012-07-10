@@ -6,7 +6,7 @@ b) a fizetendő bányajáradék hatósági engedély alapján végzett kitermel�
 
 (2) A bányavállalkozó köteles a kitermelt széndioxid földgáz mennyiségét meghatározni és bizonylatolni.
 
-(3)[^16] A széndioxid földgázra vonatkozó bányajáradék önbevallás tartalmazza:
+(3)[^17] A széndioxid földgázra vonatkozó bányajáradék önbevallás tartalmazza:
 
 a) a 2. § (4) bekezdés a)–d) és m) pontjában meghatározott adatokat,
 
@@ -20,7 +20,7 @@ e) a bányajáradékot %-ban, és
 
 f) a bányajáradék értékét ezer forintra kerekítve.
 
-(4)[^17] A (3) bekezdés
+(4)[^18] A (3) bekezdés
 
 a) d) pontjában előírt bányajáradék vetítési alapot a 2. melléklet 6.1. pontja, és
 
@@ -28,5 +28,5 @@ b) f) pontjában előírt bányajáradék értékét a 2. melléklet 6.2. pontja
 
 szerint kell megállapítani.
 
-[^16]: A 7. § (3) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^17]: A 7. § (4) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 31. §-a iktatta be.
+[^17]: A 7. § (3) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^18]: A 7. § (4) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 31. §-a iktatta be.

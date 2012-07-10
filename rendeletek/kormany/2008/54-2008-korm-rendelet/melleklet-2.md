@@ -2,6 +2,8 @@
 
 ## A. Fluidum nyersanyagok
 
+## 8M02160_0
+
 | Kód | Nyersanyag megnevezése | A nyersanyag földtani azonosítása | Fajlagos érték |
 
 | 9010 | Kőolaj | A föld felszíne alatt előforduló általában sötétbarna, barnásfekete (zöld árnyalatú) folyékony vagy félszilárd halmazállapotú, víznél kisebb térfogatsűrűségű, viszonylag sok illó anyagot tartalmazó, főleg szénhidrogénekből álló elegy, amelyben a hidrogén és szénatomok molekulaszerkezete igen változatos. Általában található benne kén-, nitrogén- vagy oxigénvegyület, nyomelemek és némi víz. A kőolaj tartalmazhat gázt, folyékony vagy szilárd halmazállapotú összetevőket az olaj típusától (minőségétől), illetve a nyomás és hőmérsékleti körülményektől függően. | 119 420 X k – K1× I Ft/t, ahol a |
@@ -40,6 +42,6 @@
 
 | 2200 | Hőközvetítő anyag recirkulációjával nyert geotermikus energia | Azon geotermikus energia, amelynek kinyerése hőközvetítő anyagnak a földkéregben történő recirkuláltatásával történik. | 325 |
 
-2. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^22]
+2. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^25]
 
-[^22]: A 2. melléklet a 251/2011. (XII. 1.) Korm. rendelet 33. § (2) bekezdésével megállapított szöveg.
+[^25]: A 2. melléklet a 251/2011. (XII. 1.) Korm. rendelet 33. § (2) bekezdésével megállapított szöveg.
