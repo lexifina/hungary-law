@@ -1,10 +1,10 @@
-6/D. §[^43] (1) A kutatási műszaki üzemi terv szöveges részből és tervtérképből áll. A szöveges résznek tartalmaznia kell:
+6/D. §[^52] (1) A kutatási műszaki üzemi terv szöveges részből és tervtérképből áll. A szöveges résznek tartalmaznia kell:
 
 a) a tervezett kutatási feladatokat és az ezek teljesítéséhez szükséges technológia és a biztonsági intézkedések leírását,
 
 b) a tervezett kutató létesítmények felsorolását, a helyének és felvonulási útvonalainak leírását,
 
-c) az egyes kutatási tevékenységek mennyiségét, ütemezését, azok tervezett időtartamát, módjának, mélységének, technológiájának, valamint a kutatás során várható veszélyek, a környezetre és természetre gyakorolt hatások, valamint a várható veszélyek és a kedvezőtlen hatások elhárítására és azok elhárítására tervezett intézkedések leírását,
+c)[^53] az egyes kutatási tevékenységek mennyiségét, ütemezését, azok tervezett időtartamát, módjának, mélységének, technológiájának, valamint a kutatás során várható veszélyek, a környezetre és természetre gyakorolt hatások, valamint a várható veszélyek és a kedvezőtlen hatások elhárítására tervezett intézkedések leírását,
 
 d) a tevékenység káros környezeti és természeti hatásainak, továbbá a környezet és természet veszélyeztetésének megelőzésére és csökkentésére tervezett műszaki intézkedéseket, valamint az elvégzendő tájrendezési feladatok ütemezését,
 
@@ -16,4 +16,5 @@ g) a kutatás során kitermelni kívánt ásványi nyersanyag mennyiségét és 
 
 (2) Ha a kérelmező a kérelemhez az (1) bekezdés f) pontja szerinti adatokat nem mellékeli, azok beszerzéséről a bányafelügyelet az elektronikus szolgáltatásokat nyújtó országos földhivatali rendszeren, a TAKARNET-en keresztül, az érintett ingatlanok tulajdoni lapjának elektronikus formában történő lekérdezésével gondoskodik.
 
-[^43]: A Vhr. 6/D. §-át a 251/2011. (XII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^52]: A Vhr. 6/D. §-át a 251/2011. (XII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^53]: A Vhr. 6/D. § (1) bekezdés c) pontja a 146/2012. (VII. 5.) Korm. rendelet 20. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-6/C. §[^42] (1) A Bt. 22/A. § (4) bekezdése alapján a bányafelügyelet tájékoztatja a szomszédos területek engedélyeseit arról, hogy a területre kutatási jogadomány iránti kérelmet nyújthatnak be.
+6/C. §[^51] (1) A Bt. 22/A. § (4) bekezdése alapján a bányafelügyelet tájékoztatja a szomszédos területek engedélyeseit arról, hogy a területre kutatási jogadomány iránti kérelmet nyújthatnak be.
 
 (2) A Bt. 22/A. § (4) bekezdése alapján a bányavállalkozó vagy a szomszédos terület engedélyese által benyújtott kutatási jogadomány iránti kérelemhez mellékelni kell:
 
@@ -28,4 +28,4 @@ vonatkozó adatokat.
 
 (6) E § rendelkezései geotermikus energia kutatás engedélyezése során nem alkalmazhatók.
 
-[^42]: A Vhr. 6/C. §-át a 106/2005. (VI. 16.) Korm. rendelet 11. §-a iktatta be, szövege a 251/2011. (XII. 1.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^51]: A Vhr. 6/C. §-át a 106/2005. (VI. 16.) Korm. rendelet 11. §-a iktatta be, szövege a 251/2011. (XII. 1.) Korm. rendelet 5. §-ával megállapított szöveg.

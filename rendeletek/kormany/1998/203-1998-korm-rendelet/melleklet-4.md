@@ -1,6 +1,6 @@
-4. számú melléklet a 203/1998. (XII. 19.) Korm. rendelethez[^231]
+4. számú melléklet a 203/1998. (XII. 19.) Korm. rendelethez[^285]
 
-A Magyar Bányászati és Földtani Hivatal számára szolgáltatandó, a földtani kutatás során nyert földtani adatok[^232]
+A Magyar Bányászati és Földtani Hivatal számára szolgáltatandó, a földtani kutatás során nyert földtani adatok[^286]
 
 I. A földtani adatok köre
 
@@ -28,7 +28,7 @@ e) a kutatólétesítmények földtani és műszaki anyagvizsgálati adatait;
 
 f) a geofizikai mérések alapdokumentációit;
 
-g) a hidrogeológiai vizsgálatok adatait.
+g)[^287] a hidrogeológiai, rezevoármechnikai, vízminőségi és fluidum-összetételi vizsgálatok adatait.
 
 4. Az adatszolgáltatás során meg kell adni az alkalmazott mérési módszert, az azt leíró szabályozás címét, a mérési adatok feldolgozásához szükséges adatokat, illetőleg a mérési jegyzőkönyvi dokumentációt, a mérés helyét (nyomvonalát), a mérés kivitelezőjét, illetve a mintavétel helyét, a minta azonosítóját, a laboratóriumi vizsgálatok helyét és időpontját, az alkalmazott mérési, vizsgálati módszereket.
 
@@ -36,11 +36,11 @@ g) a hidrogeológiai vizsgálatok adatait.
 
 6. Elsődlegesen feldolgozott adatok esetén meg kell adni az elsődleges feldolgozás módszerének, illetve az azt leíró szabályozásnak, számítógépes szoftvernek a címét, illetve azonosítóját.
 
-II.[^233]
+II.[^288]
 
 1. számú függelék
 
-a 203/1998. (XII. 19.) Korm. rendelethez[^234]
+a 203/1998. (XII. 19.) Korm. rendelethez[^289]
 
 ## BÁNYAFELÜGYELETI SZOLGÁLATI IGAZOLVÁNY
 
@@ -74,7 +74,7 @@ a 203/1998. (XII. 19.) Korm. rendelethez[^234]
 
 2. számú függelék
 
-a 203/1998. (XII. 19.) Korm. rendelethez[^235]
+a 203/1998. (XII. 19.) Korm. rendelethez[^290]
 
 Nyilvántartás a szolgálati igazolvánnyal és jelvénnyel ellátott
 
@@ -84,8 +84,9 @@ bányafelügyeleti hatósági feladatokat végző személyekről
 
 | neve | szül. helye, ideje | lakóhelye |
 
-[^231]: A Vhr. 4. számú mellékletét a 268/2006. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
-[^232]: A Vhr. 4. melléklet címe a 251/2011. (XII. 1.) Korm. rendelet 22. §-a szerint módosított szöveg.
-[^233]: A Vhr. 4. melléklet II. pontját a 251/2011. (XII. 1.) Korm. rendelet 23. §-a hatályon kívül helyezte.
-[^234]: A Vhr. 1. számú függelékét a 106/2005. (VI. 16.) Korm. rendelet 39. §-ának (2) bekezdése iktatta be, szövege a 145/2006. (VII. 11.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
-[^235]: A Vhr. 2. számú függelékét a 106/2005. (VI. 16.) Korm. rendelet 39. §-ának (2) bekezdése iktatta a szövegbe.
+[^285]: A Vhr. 4. számú mellékletét a 268/2006. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
+[^286]: A Vhr. 4. melléklet címe a 251/2011. (XII. 1.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^287]: A Vhr. 4. számú melléklet I.3. pont g) alpontja a 146/2012. (VII. 5.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^288]: A Vhr. 4. melléklet II. pontját a 251/2011. (XII. 1.) Korm. rendelet 23. §-a hatályon kívül helyezte.
+[^289]: A Vhr. 1. számú függelékét a 106/2005. (VI. 16.) Korm. rendelet 39. §-ának (2) bekezdése iktatta be, szövege a 145/2006. (VII. 11.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^290]: A Vhr. 2. számú függelékét a 106/2005. (VI. 16.) Korm. rendelet 39. §-ának (2) bekezdése iktatta a szövegbe.

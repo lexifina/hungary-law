@@ -1,26 +1,26 @@
 ## (A Bt. 41. §-ához)
 
-25. § (1)[^156] A Bt. 41. §-ában foglalt rendelkezéseken alapuló bírság összegének felső határa 10 000 000 forint. Ha a bírság kiszabásának alapját képező jogellenes állapotot a kötelezett a kitűzött határidőre nem szünteti meg, vagy a jogsértést ismételten elköveti, a bírság ismételten is kiszabható. Az ismételt bírság felső határa 30 000 000 forint. A bírság mértékének megállapításánál figyelemmel kell lenni
+25. § (1)[^197] A Bt. 41. §-a alapján kiszabott bírság összegének felső határa 10 000 000 forint. Ha a bírság kiszabásának alapját képező jogellenes állapotot a kötelezett a határozatban megállapított határidőre nem szünteti meg vagy a jogsértést ismét elköveti, a bírság ismételten kiszabható, amelynek felső határa 30 000 000 forint.
 
-– a jogellenes magatartás felróhatóságára,
+(1a)[^198] Az (1) bekezdés szerinti bírság mértékének megállapításánál figyelemmel kell lenni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottakon túl
 
-– a jogellenes magatartás veszélyeztető jellegére,
+a) a jogsértés felróhatóságára és
 
-– a jogellenes magatartással okozott hátrány mértékére,
+b) a jogsértés veszélyeztető jellegére.
 
-– a jogsértés ismétlődésére.
+(1b)[^199] A Bt. 41/A. §-a alapján kiszabott bírság összege százezer forintig terjedhet. A bírság ismételten is kiszabható, ha a bírság megállapításának alapját képező jogellenes állapotot a kötelezett határidőre nem szünteti meg. Az ismételten kiszabott bírság összegének felső határa százötvenezer forint lehet.
 
 (2) A jogosulatlan vagy szabálytalan bányászati tevékenység kivizsgálása során a bányakapitányság – a tevékenységet végző költségére – elrendelheti a kitermelőhely geodéziai bemérését és a kitermelt ásványvagyon mennyiségének földtani szakértő bevonásával történő meghatározását.
 
-(2a)[^157] Jogosulatlan bányászati tevékenység folytatása esetén a kitermelt ásványi nyersanyag értékét az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló rendeletben meghatározott fajlagos érték alapján kell kiszámítani.
+(2a)[^200] Jogosulatlan bányászati tevékenység folytatása esetén a kitermelt ásványi nyersanyag értékét az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló rendeletben meghatározott fajlagos érték alapján kell kiszámítani.
 
-(3)[^158] A szabálytalan bányászati tevékenység esetében az ingatlan eredeti állapotának helyreállítását elrendelő határozatot a bányakapitányság megküldi a földhivatalnak.
+(3)[^201] A szabálytalan bányászati tevékenység esetében az ingatlan eredeti állapotának helyreállítását elrendelő határozatot a bányakapitányság megküldi a földhivatalnak.
 
-(4)[^159] A befolyt bírság összege az MBHF-t illeti meg. A bírság összegének 60%-át biztonsági, munkavédelmi kutatásokra és ezek megvalósítására, az ipartörténeti jelentőségű bányászati emlékek felkutatására és megőrzésére, a bányász szakma hagyományainak ápolására, a bányászati szakirodalom támogatására, az e tevékenységekhez szükséges feltételek biztosítására, továbbá a bányászati országos gyűjtőkörrel rendelkező iparági múzeumok működési támogatására kell fordítani. A bírság felhasználásról az MBFH elnöke dönt.
+(4)[^202]
 
-(5)[^160] A bányakapitányság a bányászati jog átruházásához előírt hozzájárulás iránti, valamint a műszaki üzemi terv, illetve módosításának jóváhagyására irányuló kérelem elbírálása során dönt – a koncessziós szerződés esetét kivéve – a bányavállalkozót terhelő kötelezettségek teljesítésére szolgáló biztosíték nagyságáról és teljesítésének módjáról. A kérelemhez a bányavállalkozó köteles a biztosíték nagyságát alátámasztó költségtervet, és a biztosítékadás módjára vonatkozó ajánlatot mellékelni.
+(5)[^203] A bányakapitányság a bányászati jog átruházásához előírt hozzájárulás iránti, valamint a műszaki üzemi terv, illetve módosításának jóváhagyására irányuló kérelem elbírálása során dönt – a koncessziós szerződés esetét kivéve – a bányavállalkozót terhelő kötelezettségek teljesítésére szolgáló biztosíték nagyságáról és teljesítésének módjáról. A kérelemhez a bányavállalkozó köteles a biztosíték nagyságát alátámasztó költségtervet, és a biztosítékadás módjára vonatkozó ajánlatot mellékelni.
 
-(6)[^161] A költségtervet a bányavállalkozónak úgy kell elkészítenie, mintha harmadik személy végezné el a bányavállalkozót terhelő kötelezettségekből fakadó feladatokat
+(6)[^204] A költségtervet a bányavállalkozónak úgy kell elkészítenie, mintha harmadik személy végezné el a bányavállalkozót terhelő kötelezettségekből fakadó feladatokat
 
 a) Bt. 41. § (7) bekezdésében meghatározott valamennyi kötelezettségre,
 
@@ -38,24 +38,29 @@ g) a külön jogszabály szerinti környezetkárosodás enyhítésére, a káros
 
 figyelemmel.
 
-(7)[^162] Az (5) bekezdésben foglalt biztosítékul hitelintézettel vagy biztosítóval e célra megkötött fedezeti megállapodás (bankgarancia, biztosítási szerződés alapján kiállított – garanciát tartalmazó – biztosítói kötelezvény, hitelintézet vagy biztosító szerződésben vállalt készfizető kezessége), zálogjog, óvadék vagy a bányászatért felelős miniszter által kezelt, a bányabezárásra fordítandó központi költségvetési előirányzat alapján, támogatási szerződéssel lekötött keretösszeg szolgálhat.
+(7)[^205] Az (5) bekezdésben foglalt biztosítékul hitelintézettel vagy biztosítóval e célra megkötött fedezeti megállapodás – bankgarancia, biztosítási szerződés alapján kiállított, garanciát tartalmazó biztosítói kötelezvény, hitelintézet vagy biztosító szerződésben vállalt készfizető kezessége –, zálogjog, óvadék vagy a szénipari szerkezetátalakítási támogatás meghatározásának és kezelésének részletes szabályairól szóló kormányrendelet alapján megállapított támogatás szolgálhat.
 
-(8)[^163] A fedezeti megállapodás, az óvadéki és a zálogjogi szerződés módosításához vagy megszüntetéséhez a bányafelügyelet hozzájárulása szükséges. A bányafelügyeleti hozzájárulás szükségességét a fedezeti megállapodásnak, az óvadéki és a zálogjogi szerződésnek tartalmaznia kell. A biztosíték igénybevételéről a bányafelügyelet végrehajtást elrendelő döntésben rendelkezhet.
+(7a)[^206] A bányavállalkozó óvadék esetében a biztosíték összegét a bányafelügyelet hatósági letéti számlájára is utalhatja.
 
-(9)[^164] Az (5) bekezdésben foglalt biztosíték mértéke a külön jogszabály szerint képzett céltartalék esetében nem haladhatja meg a 2 milliárd forintot.
+(8)[^207] A fedezeti megállapodás, az óvadéki és a zálogjogi szerződés módosításához vagy megszüntetéséhez a bányafelügyelet hozzájárulása szükséges. A bányafelügyeleti hozzájárulás szükségességét a fedezeti megállapodásnak, az óvadéki és a zálogjogi szerződésnek tartalmaznia kell. A biztosíték igénybevételéről a bányafelügyelet végrehajtást elrendelő döntésben rendelkezhet.
 
-(10)[^165] A meg nem fizetett bányajáradék, bírság és felügyeleti díj, valamint ezek késedelmi kamatai behajtása érdekében a bányafelügyelet az adóhatóságot megkeresi.
+(9)[^208] Az (5) bekezdésben foglalt biztosíték mértéke a külön jogszabály szerint képzett céltartalék esetében nem haladhatja meg a 2 milliárd forintot.
 
-(11)[^166] A jogosulatlan bányászati tevékenység ügyében hivatalból indult eljárásáról a bányakapitányság értesíti a jegyzőt és az elsőfokú környezetvédelmi, természetvédelmi, vízügyi, kulturális örökségvédelmi, valamint talajvédelmi hatóságot.
+(10)[^209] A meg nem fizetett bányajáradék, jogosulatlanul kitermelt ásványi nyersanyag értéke és felügyeleti díj, valamint ezek késedelmi kamatai behajtása érdekében a bányafelügyelet megkeresi az adóhatóságot.
 
-[^156]: A Vhr. 25. § (1) bekezdése a 145/2006. (VII. 11.) Korm. rendelet 5. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^157]: A Vhr. 25. § (2a) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 19. §-a iktatta be.
-[^158]: A Vhr. 25. §-ának (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 148. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^159]: A Vhr. 25. § (4) bekezdése a 282/2003. (XII. 29.) Korm. rendelet 18. §-ának (2) bekezdésével megállapított, a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
-[^160]: A Vhr. 25. §-ának (5) bekezdése az 57/2008. (III. 26.) Korm. rendelet 17. §-ával megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
-[^161]: A Vhr. 25. §-ának (6) bekezdése az 57/2008. (III. 26.) Korm. rendelet 17. §-ával megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
-[^162]: A Vhr. 25. §-ának új (7) bekezdését az 57/2008. (III. 26.) Korm. rendelet 17. §-a iktatta be, egyidejűleg az eredeti (7) bekezdés számozását (10) bekezdésre változtatva. A (7) bekezdés a 116/2010. (IV. 15.) Korm. rendelet 29. § (4) bekezdésével megállapított szöveg.
-[^163]: A Vhr. 25. §-ának új (8) bekezdését az 57/2008. (III. 26.) Korm. rendelet 17. §-a iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (11) bekezdésre változtatva. A (8) bekezdés a 116/2010. (IV. 15.) Korm. rendelet 29. § (4) bekezdésével megállapított szöveg.
-[^164]: A Vhr. 25. §-ának (9) bekezdését az 57/2008. (III. 26.) Korm. rendelet 17. §-a iktatta be. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
-[^165]: A Vhr. 25. §-ának (7) bekezdése a 106/2005. (VI. 16.) Korm. rendelet 29. §-ának (3) bekezdésével megállapított szöveg. A Vhr. 25. §-a eredeti (7) bekezdésének számozását az 57/2008. (III. 26.) Korm. rendelet 17. §-a (10) bekezdésre változtatta.
-[^166]: A Vhr. 25. §-ának (8) bekezdését a 106/2005. (VI. 16.) Korm. rendelet 29. §-ának (4) bekezdése iktatta be. A Vhr. 25. §-a eredeti (8) bekezdésének számozását az 57/2008. (III. 26.) Korm. rendelet 17. §-a (11) bekezdésre változtatta, szövege a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+(11)[^210] A jogosulatlan bányászati tevékenység ügyében hivatalból indult eljárásáról a bányakapitányság értesíti a jegyzőt és az elsőfokú környezetvédelmi, természetvédelmi, vízügyi, kulturális örökségvédelmi, valamint talajvédelmi hatóságot.
+
+[^197]: A Vhr. 25. § (1) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^198]: A Vhr. 25. § (1a) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^199]: A Vhr. 25. § (1b) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^200]: A Vhr. 25. § (2a) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 19. §-a iktatta be.
+[^201]: A Vhr. 25. §-ának (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 148. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^202]: A Vhr. 25. § (4) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^203]: A Vhr. 25. §-ának (5) bekezdése az 57/2008. (III. 26.) Korm. rendelet 17. §-ával megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
+[^204]: A Vhr. 25. §-ának (6) bekezdése az 57/2008. (III. 26.) Korm. rendelet 17. §-ával megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
+[^205]: A Vhr. 25. § új (7) bekezdését az 57/2008. (III. 26.) Korm. rendelet 17. §-a iktatta be, egyidejűleg az eredeti (7) bekezdés számozását (10) bekezdésre változtatva. A (7) bekezdés a 146/2012. (VII. 5.) Korm. rendelet 15. § (2) bekezdésével megállapított szövege iktatta be.
+[^206]: A Vhr. 25. § (7a) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^207]: A Vhr. 25. §-ának új (8) bekezdését az 57/2008. (III. 26.) Korm. rendelet 17. §-a iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (11) bekezdésre változtatva. A (8) bekezdés a 116/2010. (IV. 15.) Korm. rendelet 29. § (4) bekezdésével megállapított szöveg.
+[^208]: A Vhr. 25. §-ának (9) bekezdését az 57/2008. (III. 26.) Korm. rendelet 17. §-a iktatta be. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
+[^209]: A Vhr. 25. §-a eredeti (7) bekezdésének számozását az 57/2008. (III. 26.) Korm. rendelet 17. §-a (10) bekezdésre változtatta, szövege a 146/2012. (VII. 5.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^210]: A Vhr. 25. §-ának (8) bekezdését a 106/2005. (VI. 16.) Korm. rendelet 29. §-ának (4) bekezdése iktatta be. A Vhr. 25. §-a eredeti (8) bekezdésének számozását az 57/2008. (III. 26.) Korm. rendelet 17. §-a (11) bekezdésre változtatta, szövege a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

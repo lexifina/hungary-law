@@ -1,33 +1,33 @@
-12/A. §[^82] (1) A kitermelés vagy az üzemszerű szénhidrogén-tárolás megkezdésére megállapított öt éves határidőt a bányatelket megállapító határozat jogerőre emelkedésének napjától kell számítani. A kitermelés vagy üzemszerű tárolás megkezdésére megállapított határidő meghosszabbítása iránti kérelmet a határidő lejárta előtt legalább 90 nappal korábban kell a bányafelügyelethez benyújtani.
+12/A. §[^111] (1) Az üzemszerű kitermelés vagy az üzemszerű szénhidrogén-tárolás megkezdésére a Bt. 26/A. § (5) bekezdése szerinti öt éves határidőt a bányatelket megállapító határozat jogerőre emelkedésének napjától kell számítani. Az üzemszerű kitermelés vagy üzemszerű tárolás megkezdésére előírt határidő meghosszabbítása iránti kérelmet a határidő lejárta előtt legalább 60 nappal korábban kell a bányafelügyelethez benyújtani. A határidő elmulasztása jogvesztő.
 
 (2) A kérelemnek tartalmaznia kell:
 
-a) a bányavállalkozó javaslatát bányatelkenként a hosszabbítás időtartamára,
+a) a meghosszabbítás időtartamának megjelölését és
 
-b) a kitermelés vagy az üzemszerű tárolás megkezdése elmulasztásának indokát, és
-
-c) a térítés mértékének megállapításához figyelembe venni javasolt ásványi nyersanyag mennyiségét.
+b) az üzemszerű kitermelés vagy az üzemszerű tárolás megkezdése elmulasztásának indokát.
 
 (3) A bányafelügyelet a meghosszabbítás iránti kérelmet elutasítja, ha
 
-a) a bányavállalkozó a kérelem benyújtására megállapított (1) bekezdés szerinti határidőt elmulasztotta,
+a) a bányavállalkozó a kérelem benyújtására előírt (1) bekezdés szerinti határidőt elmulasztotta vagy
 
-b) a bányavállalkozó a Bt. 20. §-a szerinti bányajáradék bevallására és fizetésére előírt kötelezettségét bármely kitermelőhely vonatkozásában nem teljesítette,
+b) a bányavállalkozónak koncessziós díj vagy jogerős és végrehajtható bányajáradék, bírság, felügyeleti díj vagy térítési díj tartozása van.
 
-c) a Bt. 41. § (1) vagy (2) bekezdése alapján jogerősen megállapított bányászati bírság tartozása van,
+(4) A bányafelügyelet határozatában dönt a meghosszabbítás időtartamáról és a fizetendő térítés mértékéről. A bányavállalkozó a kitermelés megkezdésére a határozatban megállapított határidőn belül jogosult a kitermelési vagy tárolási tevékenységet a jóváhagyott műszaki üzemi tervnek megfelelően megkezdeni.
 
-d) a Bt. 43. § (9) bekezdése szerinti felügyeleti díj tartozása van,
+(5) Az üzemszerű kitermelés vagy üzemszerű tárolás (4) bekezdés szerinti megkezdésének időpontjáig fizetendő térítés éves mértéke:
 
-e) a kitermelésre vagy tárolásra vonatkozó műszaki üzemi tervet jóváhagyásra nem nyújtotta be, vagy
+a) ásványi nyersanyag kitermelésére megállapított bányatelek esetében
 
-f) a bányavállalkozó legalább három, ugyanolyan haszonanyagra megállapított bányatelekkel rendelkezik.
+aa) ha a bányatelekben nyilvántartott kitermelhető ásványvagyon mennyisége az egymillió m3-t nem haladja meg, az összesen kitermelhető ásványvagyon értékének 0,5‰-e,
 
-(4) A bányafelügyelet a kitermelés vagy üzemszerű tárolás megkezdésére vonatkozó határidő meghosszabbításáról a Bt. 26/A. § (5) bekezdésében előírt szerződés megkötését követően dönt. A bányafelügyelet a kitermelés vagy üzemszerű tárolás megkezdésére vonatkozó határidőt meghosszabbító határozatában dönt a meghosszabbítás időtartamáról.
+ab) ha a bányatelekben nyilvántartott kitermelhető ásványvagyon mennyisége az egymillió m3-t meghaladja, az egymillió m3 ásványvagyon érték 0,5‰-ének és az egymillió m3 feletti rész 0,1‰-ének az összege,
 
-(5) A meghosszabbítás ideje alatt a bányavállalkozó a határozatban meghatározott bányatelken jogosult a kitermelési tevékenységet megkezdeni. A kitermelés megkezdését a bányavállalkozó köteles 30 napon belül a bányafelügyelet részére bejelenteni.
+b) föld alatti szénhidrogén tárolására megállapított bányatelek esetében
 
-(6) A bányavállalkozó a kitermelés vagy üzemszerű tárolás megkezdéséig a meghosszabbításra vonatkozó engedélyben meghatározott térítést, a kitermelés vagy üzemszerű tárolás megkezdését követően pedig a Bt. 20. §-a szerinti bányajáradékot fizeti.
+ba) százmillió m3 tároló kapacitásig ötvenmillió forint,
 
-(7) A kitermelés megkezdésére megállapított határidő meghosszabbítása iránti kérelem elutasítása esetén a bányatelek nem törölhető a hatósági döntéssel szemben benyújtott bírósági felülvizsgálati kérelem jogerős elbírálásáig.
+bb) százmillió m3 tárolókapacitás feletti rész után százmillió m3-enként tízmillió forint.
 
-[^82]: A Vhr. 12/A. §-át a 106/2005. (VI. 16.) Korm. rendelet 18. §-a iktatta be, szövege a 251/2011. (XII. 1.) Korm. rendelet 11. §-ával megállapított szöveg.
+(6) Az ásványvagyon értékét az ásványi nyersanyag – az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott – fajlagos értékének és az (5) bekezdés a) pontjában meghatározott ásványvagyon mennyiségnek a szorzataként kell kiszámítani.
+
+[^111]: A Vhr. 12/A. §-át a 106/2005. (VI. 16.) Korm. rendelet 18. §-a iktatta be, szövege a 146/2012. (VII. 5.) Korm. rendelet 7. §-ával megállapított szöveg.

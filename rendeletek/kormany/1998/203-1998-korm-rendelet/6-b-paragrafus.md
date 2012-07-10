@@ -1,4 +1,4 @@
-6/B. §[^41] (1) A szénhidrogénekre vonatkozó kutatási jog adományozására irányuló kérelemnek a 6. § (1) bekezdésben előírtakon túlmenően tartalmaznia kell:
+6/B. §[^50] (1) A szénhidrogénekre vonatkozó kutatási jog adományozására irányuló kérelemnek a 6. § (1) bekezdésben előírtakon túlmenően tartalmaznia kell:
 
 a) a kérelmező szakmai-műszaki alkalmasságát igazoló beszámolót,
 
@@ -20,4 +20,4 @@ d) a c) pont szerint lemélyített, vagy más meglevő mélyfúrás (kút) igén
 
 (4) A szénhidrogénekre vonatkozó kutatási jog adományozása iránti kérelmet el kell utasítani, ha a kérelmező az előírt biztosítéknyújtási kötelezettségének nem tesz eleget.
 
-[^41]: A Vhr. 6/B. §-át a 106/2005. (VI. 16.) Korm. rendelet 10. §-a iktatta be, szövege a 145/2006. (VII. 11.) Korm. rendelet 1. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a Bt. 22/A. § (6) bekezdésében foglalt új hirdetménynek az Európai Unió Hivatalos Lapjában történt közzétételét követően benyújtott kérelmek alapján indult eljárásokban kell alkalmazni.
+[^50]: A Vhr. 6/B. §-át a 106/2005. (VI. 16.) Korm. rendelet 10. §-a iktatta be, szövege a 145/2006. (VII. 11.) Korm. rendelet 1. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a Bt. 22/A. § (6) bekezdésében foglalt új hirdetménynek az Európai Unió Hivatalos Lapjában történt közzétételét követően benyújtott kérelmek alapján indult eljárásokban kell alkalmazni.

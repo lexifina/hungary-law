@@ -1,8 +1,8 @@
 ## (A Bt. 27. §-ához)
 
-13. §[^88] (1) A műszaki üzemi terv a bányaüzem tervezett bányászati tevékenységét határozza meg. A terv szöveges részből és tervtérképből áll.
+13. §[^120] (1) A műszaki üzemi terv a bányaüzem tervezett bányászati tevékenységét határozza meg. A terv szöveges részből és tervtérképből áll.
 
-(2)[^89] A bányavállalkozónak a műszaki üzemi tervben meghatározott bányászati tevékenységgel, vagy a tervezett létesítménnyel érintett idegen ingatlanra vonatkozó igénybevételi jogosultságának igazolása céljából a műszaki üzemi terv jóváhagyása iránti kérelemhez mellékelnie kell
+(2)[^121] A bányavállalkozónak a műszaki üzemi tervben meghatározott bányászati tevékenységgel, vagy a tervezett létesítménnyel érintett idegen ingatlanra vonatkozó igénybevételi jogosultságának igazolása céljából a műszaki üzemi terv jóváhagyása iránti kérelemhez mellékelnie kell
 
 a) az ingatlan tulajdonosával vagy vagyonkezelőjével megkötött, ügyvéd vagy jogtanácsos által ellenjegyzett, az ingatlan bányászati tevékenység céljából való igénybevételére vonatkozó megállapodást,
 
@@ -50,7 +50,7 @@ kd) a tárgyidőszakban tervezett próbatermeltetéseket;
 
 l) az esetleges régészeti feltárás ütemezését, módszerét, a feltárást követően bolygatatlanul maradó régészeti lelőhely-részlet megőrzésére tett intézkedéseket.
 
-(4) A műszaki üzemi terv feltárásra és kitermelésre vonatkozó része nem hagyható jóvá annak, aki a bányajáradék bevallására és fizetésére előírt kötelezettségét [Bt. 20. § (2) bekezdés] bármely, általa művelt kitermelőhely vonatkozásában nem teljesítette, illetve akinek bányászati bírság [Bt. 41. § (1) és (2) bekezdés] vagy felügyeleti díj tartozása [Bt. 43. § (9) bekezdés] van.
+(4)[^122]
 
 (5) A Bt. 29. §-a szerinti bányászati tevékenység esetén a bányavállalkozók az egymás tevékenységét közvetlenül érintő körben egyesített műszaki üzemi tervet kötelesek készíteni.
 
@@ -58,8 +58,9 @@ l) az esetleges régészeti feltárás ütemezését, módszerét, a feltárást
 
 (7) A tervtérkép tartalmi követelményeit a miniszter bányabiztonsági szabályzatban állapítja meg.
 
-(8)[^90]
+(8)[^123] Ha a bányászati tevékenység folytatásához környezetvédelmi engedély, egységes környezethasználati engedély vagy környezetvédelmi működési engedély szükséges, akkor a kérelemhez mellékelni kell a jogerős környezetvédelmi engedélyt, egységes környezethasználati engedélyt vagy a környezetvédelmi működési engedélyt.
 
-[^88]: A Vhr. 13. §-a a 106/2005. (VI. 16.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^89]: A Vhr. 13. § (2) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^90]: A Vhr. 13. § (8) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 23. §-a hatályon kívül helyezte.
+[^120]: A Vhr. 13. §-a a 106/2005. (VI. 16.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^121]: A Vhr. 13. § (2) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^122]: A Vhr. 13. § (4) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^123]: A Vhr. 13. § (8) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 23. §-a hatályon kívül helyezte, újonnan a 146/2012. (VII. 5.) Korm. rendelet 9. §-a iktatta be.

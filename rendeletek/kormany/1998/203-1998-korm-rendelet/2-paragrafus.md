@@ -4,33 +4,36 @@
 
 (2) Ha többen együttesen pályáznak ugyanarra a koncessziós tevékenységre vagy területre, kötelesek maguk közül képviselőjüket kijelölni, és pályázatukban feltüntetni.
 
-(3)[^9] A pályázatok értékelésére az MBFH elnöke Minősítő Bizottságot hoz létre. A Minősítő Bizottság tagja:
+(3)[^9] A pályázat értékelését a bányászati ügyekért felelős miniszter (a továbbiakban: miniszter) által pályázatonként létrehozott minősítő bizottság végzi.
 
-a) a katasztrófák elleni védekezésért felelős miniszter,
+(3a)[^10] A minősítő bizottság tagjainak tevékenységére vonatkozó – pályázatonként külön kiadott – megbízás visszavonásig érvényes.
 
-b) az egészségügyért felelős miniszter,
+(3b)[^11] A minősítő bizottság elnöke az MBFH elnöke.
 
-c) a térképészetért felelős miniszter,
+(3c)[^12] A minősítő bizottság tagja:
 
-d) a bányászati ügyekért felelős miniszter,
+a) az államháztartásért felelős miniszter egy képviselője,
 
-e)[^10]
+b) a miniszter egy képviselője, valamint
 
-f) a környezetvédelemért felelős miniszter,
+c) a koncesszióköteles tevékenység vonatkozásában szakértelemmel, valamint a földtani szakértői tevékenység folytatásának részletes szabályairól szóló miniszteri rendeletben meghatározott mesterképzésben vagy egyetemi szintű alapképzési szakon szerzett, szakirányú szakképzettséggel és legalább 10 éves szakmai gyakorlattal rendelkező két személy.
 
-g) a honvédelemért felelős miniszter,
+(3d)[^13] A minősítő bizottság tagjainak személyére a miniszter felkérése alapján a (3c) bekezdés a) pontja szerinti esetben az államháztartásért felelős miniszter, a (3c) bekezdés c) pontja szerinti esetben az MBFH elnöke tesz javaslatot a miniszternek.
 
-h) a kutatás-fejlesztésért és technológiai innovációért felelős miniszter és
+(3e)[^14] A minősítő bizottság tagjainak megbízatása a miniszter általi megbízással jön létre. A megbízást a tagok részére a koncessziós pályázat benyújtására nyitva álló határidő leteltét megelőzően legalább 30 nappal korábban kell megadni. A minősítő bizottság tagját tevékenységéért díjazás illeti meg.
 
-i) az államháztartásért felelős miniszter
+(3f)[^15] A minősítő bizottság működésének tárgyi feltételeit az MBFH biztosítja, valamint annak munkájában szakmai segítséget nyújt.
 
-egy-egy képviselője.
+(4)[^16] A pályázati részvételi díjak befizetéséből származó bevételeket a bányászati koncessziós pályázatok előkészítésére, a minősítő bizottság tagjainak díjazására és a koncessziós szerződésben foglaltak végrehajtásának ellenőrzésére kell fordítani. A bevételek felhasználásáról az MBFH elnöke dönt.
 
-(4)[^11] A pályázati részvételi díjak befizetéséből származó bevételeket a bányászati koncesszió pályázatok előkészítésére és a koncessziós szerződésben foglaltak végrehajtásának ellenőrzésére kell fordítani. A bevételek felhasználásáról az MBFH elnöke dönt.
+(5)[^17] A koncesszióra kijelölt zárt területre koncesszió nélkül kutatási jog nem adományozható, bányatelek nem állapítható meg és geotermikus védőidom nem jelölhető ki.
 
-(5)[^12] A koncesszióra kijelölt zárt területre koncesszió nélkül kutatási jog nem adományozható, bányatelek nem állapítható meg és geotermikus védőidom nem jelölhető ki.
-
-[^9]: A Vhr. 2. §-ának (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 146. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^10]: A Vhr. 2. § (3) bekezdés e) pontját a 251/2011. (XII. 1.) Korm. rendelet 23. §-a hatályon kívül helyezte.
-[^11]: A Vhr. 2. §-ának (4) bekezdése a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
-[^12]: A Vhr. 2. §-ának (5) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^9]: A Vhr. 2. § (3) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^10]: A Vhr. 2. § (3a) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^11]: A Vhr. 2. § (3b) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^12]: A Vhr. 2. § (3c) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^13]: A Vhr. 2. § (3d) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^14]: A Vhr. 2. § (3e) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^15]: A Vhr. 2. § (3f) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^16]: A Vhr. 2. § (4) bekezdése a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése, a 146/2012. (VII. 5.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^17]: A Vhr. 2. §-ának (5) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -8,24 +8,30 @@
 
 (4) Ha a bányaművelés során olyan új körülményt észlelnek, vagy bővítést terveznek, amely a bánya minősítésére kihatással lehet, a bányavállalkozó köteles haladéktalanul gondoskodni a személyek védelméről és a bánya új minősítésének elkészítéséről.
 
-(5)[^120] A bányavállalkozó a bányászati tevékenységek, a földgázellátásról szóló törvény alapján szállítási, tárolási, elosztási működési engedéllyel rendelkező szervezet (engedélyes) a Bt. hatálya alá tartozó gázipari tevékenységek elvégzésére más személlyel (vállalkozó) szerződést köthet, ha a vállalkozó a tevékenységre jogszabályban előírt szakmai képesítéssel, gyakorlattal, feltételekkel, vizsgával, engedéllyel rendelkezik, vagy e követelményeknek megfelelő személyeket foglalkoztat. A vállalkozó alvállalkozót a bányavállalkozó, illetve engedélyes hozzájárulásával vehet igénybe, amennyiben az alvállalkozó a tevékenység végzése tekintetében eleget tesz a vállalkozóra előírt feltételeknek. A vállalkozó (alvállalkozó) igénybevételét az igénybevétel megkezdését legalább 15 nappal megelőzően a bányakapitányságnak be kell jelenteni. A vállalkozó (alvállalkozó) közreműködése nem érinti a bányavállalkozónak, engedélyesnek a Bt. hatálya alá tartozó tevékenységért fennálló felelősségét. A bejelentés nem mentesíti a földgázellátásról szóló törvény alapján szállítási, tárolási, elosztási működési engedéllyel rendelkező szervezetet a vállalkozó igénybevételére vonatkozó, külön jogszabályban előírt engedély megszerzése alól.
+(5)[^155] A bányavállalkozó a bányászati tevékenységek elvégzésére más személlyel (a továbbiakban: vállalkozó) szerződést köthet, ha a vállalkozó a tevékenységre jogszabályban előírt szakmai képesítéssel, gyakorlattal, feltételekkel, vizsgával, engedéllyel rendelkezik, vagy e követelményeknek megfelelő személyeket foglalkoztat.
+
+(5a)[^156] A vállalkozó alvállalkozót a bányavállalkozó hozzájárulásával vehet igénybe, amennyiben az alvállalkozó a tevékenység végzése tekintetében megfelel a vállalkozóra előírt feltételeknek.
+
+(5b)[^157] A vállalkozó, valamint az alvállalkozó igénybevételét az igénybevétel megkezdését legalább 15 nappal megelőzően a bányakapitányságnak be kell jelenteni. A vállalkozó, valamint az alvállalkozó közreműködése nem érinti a bányavállalkozónak a Bt. hatálya alá tartozó tevékenységért fennálló felelősségét.
 
 (6) A bányaüzemben munkát végezni, gépet, berendezést, műszert szerelni és alkalmazni, vegyi anyagot felhasználni a minősítésnek megfelelő szabályok alkalmazásával szabad. A minősítésre vonatkozó előírások megtartását a bányakapitányság ellenőrzi.
 
-(7)[^121] Az (5) bekezdés szerinti bejelentésnek tartalmaznia kell
+(7)[^158] Az (5b) bekezdés szerinti bejelentésnek tartalmaznia kell
 
-a) a bányavállalkozó, illetve működési engedélyes megnevezését, székhelyét;
+a) a bányavállalkozó megnevezését, székhelyét,
 
-b) a más vállalkozóval elvégeztetni tervezett tevékenység megnevezését (leírását);
+b) a más vállalkozóval elvégeztetni tervezett tevékenység megnevezését vagy leírását,
 
-c) a tevékenység helyét;
+c) a tevékenység végzésének helyét,
 
-d) az igénybe venni tervezett vállalkozó megnevezését, székhelyét;
+d) az igénybe venni tervezett vállalkozó megnevezését, székhelyét és
 
-e) a vállalkozó e bekezdés szerinti alkalmasságának igazolását.
+e) a vállalkozó alkalmasságának igazolását.
 
-(8)[^122] A bányakapitányság az (5) bekezdés szerinti bejelentést követő nyolc napon belül az igénybevételt megtilthatja.
+(8)[^159] A bányakapitányság az (5b) bekezdés szerinti bejelentést követő nyolc napon belül az igénybevételt megtilthatja.
 
-[^120]: A Vhr. 21. §-ának (5) bekezdése az 57/2008. (III. 26.) Korm. rendelet 15. §-ával megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
-[^121]: A Vhr. 21. § (7) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 13. §-ának (2) bekezdése iktatta a szövegbe.
-[^122]: A Vhr. 21. §-ának (8) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 13. §-ának (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 146. § (9) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (20) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^155]: A Vhr. 21. § (5) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^156]: A Vhr. 21. § (5a) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^157]: A Vhr. 21. § (5b) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^158]: A Vhr. 21. § (7) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 146/2012. (VII. 5.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^159]: A Vhr. 21. § (8) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 146. § (9) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (20) bekezdése, a 146/2012. (VII. 5.) Korm. rendelet 19. §-a szerint módosított szöveg.

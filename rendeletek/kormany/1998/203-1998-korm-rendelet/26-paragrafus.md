@@ -1,6 +1,6 @@
 ## (A Bt. 42. §-ához)
 
-26. § (1)[^170] A bánya bezárása (megszüntetése), a mező felhagyása és a tájrendezés befejezése tervezhető a kitermelésre készített műszaki üzemi tervben [14. § (3) bekezdése] vagy külön e célra kidolgozott műszaki üzemi tervben.
+26. § (1)[^214] A bánya bezárása (megszüntetése), a mező felhagyása és a tájrendezés befejezése tervezhető a kitermelésre készített műszaki üzemi tervben [14. § (3) bekezdése] vagy külön e célra kidolgozott műszaki üzemi tervben.
 
 (2) A bánya bezárására (megszüntetésére), a mező felhagyására készített műszaki üzemi tervnek tartalmaznia kell
 
@@ -28,7 +28,7 @@ i) a feleslegessé vált ipartörténeti jelentőségű berendezések és dokume
 
 a) a bányaföldtani dokumentációk jegyzékét;
 
-b)[^171] a visszahagyni tervezett ásványvagyonról készített kimutatást [Bt. 25. § (2) bek.];
+b)[^215] a visszahagyni tervezett ásványvagyonról készített kimutatást [Bt. 25. § (2) bek.];
 
 c) a föld alatti bányatérségek és egyéb bányászati létesítmények más célú hasznosítására készített műszaki tervet;
 
@@ -42,7 +42,7 @@ f) a külön jogszabályban előírt környezetvédelmi engedélyt.
 
 (6) A feltárt ipartörténeti jelentőségű tárgyi emlékek értékesítése esetében a bányászati emlékek gyűjtésére és őrzésére alapított múzeumokat elővásárlási jog illeti meg.
 
-(7)[^172] A megszűnt föld alatti bánya nyitvamaradó térségének más célú hasznosítása a hatóság által – a külön jogszabályban meghatározottakon túlmenően – akkor engedélyezhető, ha
+(7)[^216] A megszűnt föld alatti bánya nyitvamaradó térségének más célú hasznosítása a hatóság által – a külön jogszabályban meghatározottakon túlmenően – akkor engedélyezhető, ha
 
 a) a bányavállalkozó a más célú hasznosítással érintett bányatérséggel kapcsolatban végrehajtotta a bányabezárás műszaki üzemi tervében előírt kötelezettségeit;
 
@@ -52,9 +52,9 @@ c) a hasznosító biztosítékot ad a nyitvamaradó bányatérséggel összefüg
 
 (8) A más célra hasznosított föld alatti bányatérségek felhagyását a bányafelügyelet engedélyezi. Az engedély iránti kérelemhez mellékelni kell a föld alatti bányatérségek felhagyására vonatkozó műszaki tervet.
 
-(9)[^173] Szénhidrogén mezők, mezőrészek esetében, amennyiben még létezik kitermelhető ásványvagyon, de annak kitermelése az adott feltételek mellett nem gazdaságos, a mező felhagyása helyett a bányavállalkozó kezdeményezheti a felszín alatti és a felszíni létesítmények biztonságba helyezésével a mező újra termelésbe állíthatóságának biztosítását, konzerválását.
+(9)[^217] Szénhidrogén mezők, mezőrészek esetében, amennyiben még létezik kitermelhető ásványvagyon, de annak kitermelése az adott feltételek mellett nem gazdaságos, a mező felhagyása helyett a bányavállalkozó kezdeményezheti a felszín alatti és a felszíni létesítmények biztonságba helyezésével a mező újra termelésbe állíthatóságának biztosítását, konzerválását.
 
-[^170]: A Vhr. 26. §-ának (1) bekezdése a 106/2005. (VI. 16.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^171]: A Vhr. 26. § (4) bekezdés b) pontja a 251/2011. (XII. 1.) Korm. rendelet 22. §-a szerint módosított szöveg.
-[^172]: A Vhr. 26. § (7) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^173]: A Vhr. 26. § (9) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 19. §-a iktatta a szövegbe.
+[^214]: A Vhr. 26. §-ának (1) bekezdése a 106/2005. (VI. 16.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^215]: A Vhr. 26. § (4) bekezdés b) pontja a 251/2011. (XII. 1.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^216]: A Vhr. 26. § (7) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^217]: A Vhr. 26. § (9) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 19. §-a iktatta a szövegbe.
