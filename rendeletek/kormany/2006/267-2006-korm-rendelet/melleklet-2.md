@@ -12,6 +12,6 @@
 
 | 6. | Veszprémi Bányakapitányság Veszprém | Fejér, Győr-Moson-Sopron, Vas és Veszprém megye |
 
-2. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^43]
+2. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^50]
 
-[^43]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 195/2011. (IX. 22.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 18. § (2) bekezdése szerint módostott szöveg.
+[^50]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 195/2011. (IX. 22.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 18. § (2) bekezdése, a 146/2012. (VII. 5.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.

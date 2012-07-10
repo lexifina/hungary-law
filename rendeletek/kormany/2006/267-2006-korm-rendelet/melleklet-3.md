@@ -62,70 +62,72 @@
 
 | 12. | Az államhatártól számított 100 méteren belül épülő létesítmény esetében. | Annak elbírálása kérdésében, hogy a létesítmény a kérelemben foglaltak szerinti vagy további feltételek melletti megvalósítása esetén az államhatár rendje biztosított-e, a határrendsértések és határesemények megelőzhetők-e. | megyei, fővárosi rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^44]
+| 13. | „A” osztályú bányászati hulladékkezelő létesítmény építési és használatbavételi engedélyezési eljárásában | belső vészhelyzeti terv megfelelőségének kérdésében | megyei, fővárosi katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-|  | A | B | C | D | E | F | G | H | I | J |
+3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^51]
 
-| 1. | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban | Kutatásra vonatkozó műszaki üzemterv jóváhagyása (kivett hely esetében a hatáskörrel kivett helyre vonatkozó állásfoglalása is) | Bányatelek megállapítása | Feltárásra és kitermelésre készített műszaki üzemterv jóváhagyása, módosítása, szüneteltetési műszaki üzemi terv jóváhagyása | Védőpillér kijelölése, módosítása, meggyengítése és lefejtése | Bányabezárás, tájrendezés végrehajtása, bányászati tevékenység befejezése | Föld alatti bányatérségek és egyéb bányászati létesítmények más célú hasznosítása jóváhagyása |
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M |
 
-| 2. | Az eljárás gyógyhelyet, ásvány-, gyógyvíz és gyógyiszap lelőhelyet érint, és az eljárással érintett tevékenység megkezdéséhez, bányatelek megállapításhoz környezetvédelmi engedély vagy egységes környezet- használati engedély nem szükséges. | A tevékenység természetes gyógytényezőre, gyógyhelyre gyakorolt hatásainak vizsgálata kérdésében. | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala | Egészségügyi Engedélyezési és Közigazgatási Hivatal | IGEN | IGEN | NEM | IGEN | NEM | IGEN |
+| 1. | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban | Kutatásra vonatkozó műszaki üzemterv jóváhagyása (kivett hely esetében a hatáskörrel kivett helyre vonatkozó állás-foglalása is) | Bánya- telek megálla- pítása | Feltárásra és kitermelésre készített műszaki üzemterv jóváhagyása, módosítása, szüneteltetési műszaki üzemi terv jóváhagyása | Védőpillér kijelölése, módosítása, meggyen-gítése és lefejtése | Bánya-bezárás, tájrendezés végrehajtása, bányászati tevékenység befejezése | Föld alatti bánya-térségek és egyéb bányászati létesít- mények más célú hasznosítása jóváhagyása | Szén-dioxid geológiai tárolására irányuló földtani kutatás engedé- lyezése | Szén-dioxid geológiai tárolásának engedélye- zése | Szén-dioxid tárolóhely bezárására irányuló eljárás |
 
-| 3. | Ha a tevékenység vagy beruházás termőföldet érint. | A termőföld mennyiségi védelme. | körzeti földhivatal, több körzeti földhivatal illetékességi területét érintő esetekben a megyei földhivatal, a fővárosban a Fővárosi Földhivatal | megyei földhivatal, a fővárosban a Fővárosi Földhivatal, ha első fokon a megyei földhivatal járt el, akkor a földművelésügyért és vidékfejlesztésért felelős miniszter | IGEN | IGEN | NEM | NEM | IGEN | NEM |
+| 2. | Az eljárás gyógyhelyet, ásvány-, gyógyvíz és gyógyiszap lelőhelyet érint, és az eljárással érintett tevékenység megkezdéséhez, bányatelek megállapításhoz környezetvédelmi engedély vagy egységes környezet- használati engedély nem szükséges. | A tevékenység természetes gyógytényezőre, gyógyhelyre gyakorolt hatásainak vizsgálata kérdésében. | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala | Egészségügyi Engedélyezési és Közigazgatási Hivatal | IGEN | IGEN | NEM | IGEN | NEM | IGEN | IGEN | IGEN | NEM |
 
-| 4. | Ha ugyanezt a szakkérdést korábban önálló eljárásban vagy szakhatóságként nem vizsgálták, és az eljárás termőföldet érint. | A termőföld minőségi védelme követelményeinek a kérdésében. | fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc- biztonságiHivatal | NEM | NEM | IGEN, kivéve a szüneteltetési műszaki üzemi terv jóváhagyása | NEM | IGEN | IGEN |
+| 3. | Az eljárás ivóvízbázist érint. | A tevékenység ivóvízbázisra gyakorolt hatásainak vizsgálata kérdésében. | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala | NEM | NEM | NEM | NEM | NEM | NEM | IGEN | IGEN | IGEN |
 
-| 5. | Ha ugyanezt a szakkérdést korábban önálló eljárásban vagy szakhatóságként nem vizsgálták, és az eljárás erdőt érint. | Az erdőre gyakorolt hatásoknak a kérdésében. | fővárosi és megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc- biztonságiHivatal | NEM | IGEN | NEM | NEM | IGEN | NEM |
+| 4. | Ha a tevékenység vagy beruházás termőföldet érint. | A termőföld mennyiségi védelme. | körzeti földhivatal, több körzeti földhivatal illetékességi területét érintő esetekben a megyei kormányhivatal földhivatala, a fővárosban a Fővárosi Kormányhivatal Földhivatala | megyei kormányhivatal földhivatala, a fővárosban a Fővárosi Kormányhivatal Földhivatala, ha első fokon a megyei vagy fővárosi kormányhivatal földhivatala járt el, akkor a földügyért felelős miniszter | IGEN | IGEN | NEM | NEM | IGEN | NEM | IGEN | IGEN | IGEN |
 
-| 6. | Ha az eljárás közutat vagy annak biztonsági övezetét érinti és a kérelmező az útkezelői hozzájárulás megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | Annak elbírálása kérdésében, hogy a közút területének nem közlekedési célú igénybevétele vagy a tevékenység a kérelemben foglaltak szerint vagy további feltételek mellett – a közúti forgalom biztonságára, a közút fejlesztési terveinek végrehajtására, a közútkezelő fenntartási, üzemeltetési feladatainak ellátására, a közút állagára gyakorolt hatása alapján – engedélyezhető-e. | Országos közút | IGEN | IGEN | NEM | IGEN | IGEN | IGEN |
+| 5. | Ha a tevékenység vagy beruházás termőföldön valósul meg. | A termőföld minőségi védelme követelményeinek a kérdésében. | fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal | NEM | NEM | IGEN, kivéve a szüneteltetési műszaki üzemi terv jóváhagyása | NEM | IGEN | IGEN | NEM | IGEN | IGEN |
 
-| a) gyorsforgalmi út, valamint közúti határátkelőhely közlekedési építményei esetében: |
+| 6. | Ha ugyanezt a szakkérdést korábban önálló eljárásban vagy szakhatóságként nem vizsgálták, és az eljárás erdőt érint. | a) Az erdőre gyakorolt hatásoknak a kérdésében. b) Bányatelek megállapítása iránti eljárásban az a) pontban meghatározottakon túl az erdő igénybevételének engedélyezhetősége kérdésében is. | fővárosi és megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal | NEM | IGEN | NEM | IGEN | IGEN | NEM | NEM | IGEN | IGEN |
 
-| Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központja |
+| 7. | Ha az eljárás közutat vagy annak biztonsági övezetét érinti és a kérelmező az útkezelői hozzájárulás megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | Annak elbírálása kérdésében, hogy a közút területének nem közlekedési célú igénybevétele vagy a tevékenység a kérelemben foglaltak szerint vagy további feltételek mellett – a közúti forgalom biztonságára, a közút fejlesztési terveinek végrehajtására, a közútkezelő fenntartási, üzemeltetési feladatainak ellátására, a közút állagára gyakorolt hatása alapján – engedélyezhető-e. | Országos közút | IGEN | IGEN | NEM | IGEN | IGEN | IGEN | IGEN | IGEN | IGEN |
 
-| b) egyéb országos közút esetében: |
+|  |  |  | a) gyorsforgalmi út, valamint közúti határátkelőhely közlekedési építményei esetében: |  |  |  |  |  |  |  |  |  |
 
-| fővárosi és megyei kormányhivatal közlekedési felügyelőség | Nemzeti Közlekedési Hatóság Központja |
+|  |  |  | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központja |  |  |  |  |  |  |  |  |  |
 
-| Helyi közút |
+|  |  |  | b) egyéb országos közút esetében: |  |  |  |  |  |  |  |  |  |
 
-| a) a főváros kivételével a települési önkormányzat tulajdonában lévő helyi közutak esetében: |
+|  |  |  | fővárosi és megyei kormányhivatal közlekedési felügyelőség | Nemzeti Közlekedési Hatóság Központja |  |  |  |  |  |  |  |  |  |
 
-| megyei kormányhivatal közlekedési felügyelőség | Nemzeti Közlekedési Hatóság Központja |
+|  |  |  | Helyi közút |  |  |  |  |  |  |  |  |  |
 
-| b) a fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetében: |
+|  |  |  | a) a főváros kivételével a települési önkormányzat tulajdonában lévő helyi közutak esetében: |  |  |  |  |  |  |  |  |  |
 
-| Fővárosi főjegyző | Budapest Főváros |
+|  |  |  | megyei kormányhivatal közlekedési felügyelőség | Nemzeti Közlekedési Hatóság Központja |  |  |  |  |  |  |  |  |  |
 
-| Kormány- hivatalának |
+|  |  |  | b) a fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetében: |  |  |  |  |  |  |  |  |  |
 
-| Közlekedési Felügyelősége |
+|  |  |  | Fővárosi főjegyző | Budapest Főváros Kormány- hivatalának Közlekedési Felügyelősége |  |  |  |  |  |  |  |  |  |
 
-| c) a Fővárosi Önkormányzat tulajdonában lévő helyi közutak esetében: |
+|  |  |  | c) a Fővárosi Önkormányzat tulajdonában lévő helyi közutak esetében: |  |  |  |  |  |  |  |  |  |
 
-| Budapest Főváros Kormány- hivatalának Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+|  |  |  | Budapest Főváros Kormány- hivatalának Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |  |  |  |  |  |  |  |  |  |
 
-| 7. | Az eljárás vasúti pályát, vagy szélső vágányának tengelyétől számított 100 méteren belüli területet érint, és az építtető a vasúti pályahálózat működtetője hozzájárulásának a megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | Annak elbírálása kérdésében, hogy a vasúti pálya területének nem közlekedési célú igénybevétele a kérelemben foglaltak szerint vagy további feltételek mellett – a tervezett igénybevétel a vasút állagára, a vasúti forgalom biztonságára, a vasút kezelő fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatása alapján – engedélyezhető-e. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központja | IGEN | IGEN | NEM | IGEN | NEM | NEM |
+| 8. | Az eljárás vasúti pályát, vagy szélső vágányának tengelyétől számított 100 méteren belüli területet érint, és az építtető a vasúti pályahálózat működtetője hozzájárulásának a megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | Annak elbírálása kérdésében, hogy a vasúti pálya területének nem közlekedési célú igénybevétele a kérelemben foglaltak szerint vagy további feltételek mellett – a tervezett igénybevétel a vasút állagára, a vasúti forgalom biztonságára, a vasút kezelő fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatása alapján – engedélyezhető-e. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központja | IGEN | IGEN | NEM | IGEN | NEM | NEM | IGEN | IGEN | IGEN |
 
-| 8. | Az eljárás egyéb víziközlekedési létesítményt érint. | Az építmény nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a vízi közlekedési létesítmények működését. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központja | IGEN | IGEN | NEM | IGEN | IGEN | NEM |
+| 9. | Az eljárás egyéb víziközlekedési létesítményt érint. | Az építmény nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a vízi közlekedési létesítmények működését. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központja | IGEN | IGEN | NEM | IGEN | IGEN | NEM | IGEN | IGEN | IGEN |
 
-| 9. | Ha az eljárás tárgya meddőhányó vagy 40 m-nél magasabb építmény. | A létesítmény elhelyezkedésének, magassága, jellege közvetlen és közvetett hatásainak vizsgálata a légiközlekedésre, a földi telepítésű berendezések működésére és a légiközlekedés biztonságára. | Nemzeti Közlekedési Hatóság Légügyi Hivatal | Nemzeti Közlekedési Hatóság Központja | IGEN | NEM | IGEN | NEM | IGEN | NEM |
+| 10. | Ha az eljárás tárgya meddőhányó vagy 40 m-nél magasabb építmény. | A létesítmény elhelyezkedésének, magassága, jellege közvetlen és közvetett hatásainak vizsgálata a légiközlekedésre, a földi telepítésű berendezések működésére és a légiközlekedés biztonságára. | Nemzeti Közlekedési Hatóság Légügyi Hivatal | Nemzeti Közlekedési Hatóság Központja | IGEN | NEM | IGEN | NEM | IGEN | NEM | IGEN | IGEN | IGEN |
 
-| 10. | Az eljárás honvédelmi és katonai célú létesítmény működési vagy védőterületét érinti. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter | IGEN | IGEN | IGEN | NEM | IGEN | IGEN |
+| 11. | Az eljárás honvédelmi és katonai célú létesítmény működési vagy védőterületét érinti. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter | IGEN | IGEN | IGEN | NEM | IGEN | IGEN | IGEN | IGEN | IGEN |
 
-| 11. | Ha az eljárással érintett tevékenység megkezdéséhez, bányatelek megállapításhoz környezetvédelmi engedély, vagy egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a) a tevékenység a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek, a tájvédelem jogszabályban rögzített követelményeinek, | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | IGEN | IGEN | IGEN | IGEN | IGEN | IGEN |
+| 12. | Ha az eljárással érintett tevékenység megkezdéséhez, bányatelek megállapításhoz környezetvédelmi engedély, vagy egységes környezet- használati engedély nem szükséges vagy a tevékenység továbbfolytatásához környezetvédelmi működési engedély nem szükséges. | Annak elbírálása kérdésében, hogy a) a tevékenység a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek, a tájvédelem jogszabályban rögzített követelményeinek, | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | IGEN | IGEN | IGEN | IGEN | IGEN | IGEN | IGEN | IGEN | IGEN |
 
-|  |  | b) a felszíni és felszín alatti vizek védelme, hasznosítási lehetőségei megőrzése, |  |  |  |  |  |  |  |  |
+|  |  | b) a felszíni és felszín alatti vizek védelme, hasznosítási lehetőségei megőrzése, |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | c) a földtani közeg védelme követelményeinek, |  |  |  |  |  |  |  |  |
+|  |  | c) a földtani közeg védelme követelményei-nek, |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | d) a környezeti zaj és rezgés elleni védelem követelményeinek, a levegőtisztaság- védelmi előírásoknak, valamint |  |  |  |  |  |  |  |  |
+|  |  | d) a környezeti zaj és rezgés elleni védelem követelményei-nek, a levegőtisztaság- védelmi előírásoknak, valamint |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | e) a tájvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. Továbbá annak elbírálása kérdésében, hogy a keletkező hulladék elhelyezése, előkezelése, hasznosítása, ártalmatlanítása megfelel-e a hulladék- gazdálkodási előírásoknak, szükséges-e hulladékkezelő létesítmény létesítése, |  |  |  |  |  |  |  |  |
+|  |  | e) a tájvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | merülnek-e fel olyan, a hulladék- gazdálkodásból eredő környezeti kockázatok, amelyek mellett a hozzájárulást nem vagy csak feltételekkel lehet megadni. |  |  |  |  |  |  |  |  |
+|  |  | Továbbá annak elbírálása kérdésében, hogy a keletkező hulladék elhelyezése, előkezelése, hasznosítása, ártalmatlanítása megfelel-e a hulladékgazdálkodási előírásoknak, szükséges-e hulladékkezelő létesítmény létesítése, |  |  |  |  |  |  |  |  |  |  |  |
 
-| 12. | Ha az eljárás helyi jelentőségű védett természeti területet érint, és az eljárással érintett tevékenység megkezdéséhez, bányatelek megállapításhoz környezetvédelmi engedély, vagy egységes környezet- használati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a létesítmény vagy tevékenység a helyi önkormányzati rendeletben és a helyi építési szabályzatban meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, a fővárosban a főjegyző | fővárosi, megyei kormányhivatal | IGEN | IGEN | IGEN | NEM | IGEN | IGEN |
+|  |  | merülnek-e fel olyan, a hulladék- gazdálkodásból eredő környezeti kockázatok, amelyek mellett a hozzájárulást nem vagy csak feltételekkel lehet megadni. |  |  |  |  |  |  |  |  |  |  |  |
 
-| 13. | Ha az eljárás régészeti lelőhelyet, régészeti védőövezet területét, műemléki területet vagy külön jogszabályban meghatározott esetekben műemléket érint, és az eljárással érintett tevékenység megkezdéséhez, bányatelek megállapításhoz környezetvédelmi engedély, vagy egységes környezet- használati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a kérelem a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | fővárosi, megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal | IGEN | IGEN | NEM | IGEN | NEM | IGEN |
+| 13. | Ha az eljárás helyi jelentőségű védett természeti területet érint, és az eljárással érintett tevékenység megkezdéséhez, bányatelek megállapításhoz környezetvédelmi engedély vagy egységes környezet- használati engedély nem szükséges vagy a tevékenység továbbfolytatásához környezetvédelmi működési engedély nem szükséges. | Annak elbírálása kérdésében, hogy a létesítmény vagy tevékenység a helyi önkormányzati rendeletben és a helyi építési szabályzatban meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, a fővárosban a főjegyző | fővárosi, megyei kormányhivatal | IGEN | IGEN | IGEN | NEM | IGEN | IGEN | IGEN | IGEN | IGEN |
 
-[^44]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 3. melléklet a 195/2011. (IX. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.
+| 14. | Ha az eljárás régészeti lelőhelyet, régészeti védőövezet területét, műemléki területet vagy külön jogszabályban meghatározott esetekben műemléket érint, és az eljárással érintett tevékenység megkezdéséhez, bányatelek megállapításhoz környezetvédelmi engedély vagy egységes környezet- használati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a kérelem a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | fővárosi, megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal | IGEN | IGEN | NEM | IGEN | NEM | IGEN | IGEN | IGEN | NEM |
+
+[^51]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 3. melléklet a 146/2012. (VII. 5.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.

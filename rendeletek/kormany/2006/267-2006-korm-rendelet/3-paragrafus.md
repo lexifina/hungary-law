@@ -4,11 +4,11 @@
 
 (3)[^3]
 
-(4)[^4] A bányafelügyelet hatáskörébe tartozó hatósági ügyekben – az (5) bekezdésben foglaltak kivételével – első fokon a bányakapitányság, másodfokon a Hivatal jár el.
+(4)[^4] A bányafelügyelet hatáskörébe tartozó hatósági ügyekben – az (5) bekezdésben foglaltak kivételével – első fokon a területileg illetékes bányakapitányság, másodfokon a Hivatal jár el. Több bányakapitányság illetékességi területét érintő hatósági ügy esetén az eljáró bányakapitányságot a Hivatal elnöke jelöli ki.
 
 (5)[^5] A Hivatal első fokú hatáskörébe tartozik:
 
-a)[^6] a bányajáradék nyilvántartása, a bányajáradék fizetési kötelezettség teljesítésének ellenőrzése, a bányajáradék-folyószámla feletti rendelkezés, a felügyeleti díj nyilvántartása, számításának ellenőrzése, a felügyeleti díj befizetési kötelezettség teljesítésének ellenőrzése, továbbá a meg nem fizetett bányajáradék és felügyeleti díj, valamint a késedelmi kamat végrehajtása;
+a)[^6] a bányajáradék nyilvántartása, a bányajáradék fizetési kötelezettség teljesítésének ellenőrzése, a bányajáradék-folyószámla feletti rendelkezés, a felügyeleti díj nyilvántartása, számításának ellenőrzése, a felügyeleti díj befizetési kötelezettség teljesítésének ellenőrzése, továbbá a Bt. 41. § (8) bekezdésében meghatározott fizetési kötelezettség behajtása iránti intézkedés kezdeményezése;
 
 b)[^7] a tűzijáték testek besorolásának jóváhagyása;
 
@@ -32,31 +32,43 @@ k) az országos ásványi nyersanyag és geotermikus energiavagyon nyilvántart�
 
 l) a földtani szakértői engedélyek kiadása, a földtani szakértők nyilvántartása;
 
-m)[^13] a Bt. 24. § (3) bekezdése szerint a szállító-, elosztó- és célvezetékek, valamint tároló létesítmények tervezésére, létesítésére, felújítására, üzemeltetésére és elbontására az engedélyes által kidolgozott minőségbiztosítási rendszer jóváhagyása;
+m)[^13] a Bt. 24. § (3) bekezdése szerint a szénhidrogén szállítóvezeték, a földgázelosztó és -célvezeték, valamint -tároló létesítmény, egyéb gáz és gáztermék vezeték és a szén-dioxid szállítóhálózat tervezésére, létesítésére, felújítására, üzemeltetésére és elbontására az engedélyes, az egyéb gáz és gáztermék vezeték és a szén-dioxid szállítóhálózat üzemeltetője által kidolgozott műszaki-biztonsági irányítási rendszer jóváhagyása;
 
-n)[^14] a Bt. 44. § (4) bekezdése szerint a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevékenységek folytatásának engedélyezése.
+n)[^14] a Bt. 44. § (4) bekezdése szerint a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevékenységek folytatásának engedélyezése;
 
-(6)[^15] A Hivatal bányafelügyeleti és állami földtani feladatokat ellátó szervként hatósági ügyekben országos illetékességgel jár el, döntését felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
+o)[^15] a szén-dioxid geológiai tárolására kiadott tárolási engedélyekre, valamint a bezárt tárolóhelyre és az azt övező tároló-komplexumra vonatkozó nyilvántartás vezetése;
 
-(7)[^16] A bányakapitányság köztisztviselője illetékességi területén kívül, a Hivatal köztisztviselője az ország egész területén az elnök által kiállított megbízólevél birtokában végezhet ellenőrzést. Az ellenőrzés alapján indult eljárás lefolytatására az a bányakapitányság jogosult, amelynek illetékességi területén az ellenőrzés történt.
+p)[^16] a Bt. 42/I. § (4) bekezdése szerinti szén-dioxid szállítóhálózathoz vagy tárolóhelyhez való hozzáférés megtagadásával kapcsolatban kezdeményezett eljárás lefolytatása;
 
-(8)[^17] A bányafelügyelet a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján az eljárást felfüggeszti, ha az eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőség szakhatósági állásfoglalásában megállapította, hogy a tevékenység várható környezeti hatásai jelentősek. A felfüggesztésről szóló végzésnek tartalmaznia kell a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség megnevezését, valamint állásfoglalása rendelkező részét és indokolását.
+q)[^17] a Bt. 42/J. § (2) bekezdése szerinti együttműködési megállapodás hiánya esetére előírt eljárás lefolytatása; és
 
-(9)[^18] A bányafelügyelet – annak jogerőre emelkedésére tekintet nélkül – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint nyilvánosan közzéteszi azt a határozatot, valamint a felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást, amit olyan eljárásban hozott, amelyben a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
+r)[^18] a Bt. 42/V. § (2) bekezdése szerinti, Európai Bizottságnak megküldendő jelentés előkészítése a miniszter számára.
+
+(6)[^19] A Hivatal bányafelügyeleti és állami földtani feladatokat ellátó szervként hatósági ügyekben országos illetékességgel jár el, döntését felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
+
+(7)[^20] A bányakapitányság köztisztviselője illetékességi területén kívül, a Hivatal köztisztviselője az ország egész területén az elnök által kiállított megbízólevél birtokában végezhet ellenőrzést. Az ellenőrzés alapján indult eljárás lefolytatására az a bányakapitányság jogosult, amelynek illetékességi területén az ellenőrzés történt.
+
+(8)[^21] A bányafelügyelet a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján az eljárást felfüggeszti, ha az eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőség szakhatósági állásfoglalásában megállapította, hogy a tevékenység várható környezeti hatásai jelentősek. A felfüggesztésről szóló végzésnek tartalmaznia kell a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség megnevezését, valamint állásfoglalása rendelkező részét és indokolását.
+
+(9)[^22] A bányafelügyelet – annak jogerőre emelkedésére tekintet nélkül – a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint nyilvánosan közzéteszi azt a határozatot, valamint a felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást, amit olyan eljárásban hozott, amelyben a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
 
 [^3]: A 3. § (3) bekezdését a 63/2012. (IV. 2.) Korm. rendelet 6. § e) pontja hatályon kívül helyezte.
-[^4]: A 3. § (4) bekezdése az 59/2010. (III. 18.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 3. § (4) bekezdése a 146/2012. (VII. 5.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^5]: A 3. § (5) bekezdés nyitó szövegrésze az 59/2010. (III. 18.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.
-[^6]: A 3. § (5) bekezdés a) pontja a 195/2011. (IX. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (5) bekezdés a) pontja a 195/2011. (IX. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 146/2012. (VII. 5.) Korm. rendelet 25. §-a szerint módosított szöveg.
 [^7]: A 3. § (5) bekezdés b) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 19. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^8]: A 3. § (5) bekezdésének c) pontja a 113/2009. (V. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^9]: A 3. § (5) bekezdés d) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 19. pontja hatályon kívül helyezte, újonnan a 195/2011. (IX. 22.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^10]: A 3. § (5) bekezdés e) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 19. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^11]: A 3. § (5) bekezdés h) pontját az 59/2010. (III. 18.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte, újonnan a 195/2011. (IX. 22.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^12]: A 3. § (5) bekezdés j) pontja a 195/2011. (IX. 22.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^13]: A 3. § (5) bekezdés m) pontját a 195/2011. (IX. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^13]: A 3. § (5) bekezdés m) pontját a 195/2011. (IX. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 146/2012. (VII. 5.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
 [^14]: A 3. § (5) bekezdés n) pontját a 195/2011. (IX. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^15]: A 3. § (6) bekezdése az 59/2010. (III. 18.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.
-[^16]: A 3. § (7) bekezdése az 59/2010. (III. 18.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^17]: A 3. § (8) bekezdését a 82/2011. (V. 18.) Korm. rendelet 35. §-a iktatta be.
-[^18]: A 3. § (9) bekezdését a 82/2011. (V. 18.) Korm. rendelet 35. §-a iktatta be.
+[^15]: A 3. § (5) bekezdés o) pontját a 146/2012. (VII. 5.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^16]: A 3. § (5) bekezdés p) pontját a 146/2012. (VII. 5.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^17]: A 3. § (5) bekezdés q) pontját a 146/2012. (VII. 5.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^18]: A 3. § (5) bekezdés r) pontját a 146/2012. (VII. 5.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^19]: A 3. § (6) bekezdése az 59/2010. (III. 18.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^20]: A 3. § (7) bekezdése az 59/2010. (III. 18.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^21]: A 3. § (8) bekezdését a 82/2011. (V. 18.) Korm. rendelet 35. §-a iktatta be.
+[^22]: A 3. § (9) bekezdését a 82/2011. (V. 18.) Korm. rendelet 35. §-a iktatta be.
