@@ -2,21 +2,11 @@
 
 6. § (1) A közterületen lévő fás szárú növény kivágását a fás szárú növény helye szerint illetékes jegyző engedélyezi.
 
-(2) Az engedély iránti kérelemnek tartalmaznia kell:
+(2)[^7] Az engedély kiadására irányuló kérelem a 2. melléklet szerinti formanyomtatványon vagy annak megfelelő tartalommal nyújtható be. A jegyző gondoskodik a formanyomtatványnak a helyben szokásos módon történő közzétételéről.
 
-a) a kivágás indokát;
+(2a)[^8] Nem helyi önkormányzati tulajdonban álló ingatlan esetén a jegyző hivatalból beszerzi az érintett fás szárú növénnyel rendelkezni jogosult kivágáshoz hozzájáruló nyilatkozatát.
 
-b) az érintett fás szárú növénnyel rendelkezni jogosult kivágáshoz hozzájáruló nyilatkozatát;
-
-c) az érintett közterület nevét, helyrajzi számát, az érintett fás szárú növény ingatlanon belüli elhelyezkedésének pontos megjelölését;
-
-d) a fás szárú növény darabszámát, faját, fa esetében annak 1 m magasságban mért törzsátmérőjét;
-
-e) a kivágás kivitelezésének részletes leírását, valamint
-
-f) a pótlásra vonatkozó nyilatkozatot, a faj, fajta, darabszám és hely feltüntetésével.
-
-(3)[^3] A jegyző a fás szárú növény kivágása iránti kérelmet elutasítja, ha
+(3)[^9] A jegyző a fás szárú növény kivágása iránti kérelmet elutasítja, ha
 
 a) a kérelmező a fás szárú növény pótlásáról hiánypótlási felhívás ellenére sem nyilatkozott;
 
@@ -24,10 +14,12 @@ b) a fás szárú növény áttelepítése szakmai és településrendezési sze
 
 c) az természetvédelmi vagy környezetvédelmi érdeket sért.
 
-(4)[^4] Amennyiben a jegyző ügyintézési határidőn belül nem dönt a fás szárú növény kivágásáról, az engedélyt a kérelemben foglaltak szerint megadottnak kell tekinteni.
+(4)[^10] Amennyiben a jegyző ügyintézési határidőn belül nem dönt a fás szárú növény kivágásáról, az engedélyt a kérelemben foglaltak szerint megadottnak kell tekinteni.
 
-(5)[^5] A település szempontjából kiemelt szakmai, tudományos, település- és kultúrtörténeti értéket képviselő fás szárú növény kivágásának kérelmezése esetén a jegyző az eljárás megindításáról szóló értesítést öt napon belül hirdetményi úton, valamint – ha a település ilyennel rendelkezik – a település hivatalos honlapján is közzéteszi a környezet védelmének általános szabályairól szóló törvényben meghatározott ügyféli jogok biztosítása céljából. Ez esetben az ügyintézési határidő két hónap.
+(5)[^11] A település szempontjából kiemelt szakmai, tudományos, település- és kultúrtörténeti értéket képviselő fás szárú növény kivágásának kérelmezése esetén a jegyző az eljárás megindításáról szóló értesítést öt napon belül hirdetményi úton, valamint – ha a település ilyennel rendelkezik – a település hivatalos honlapján is közzéteszi a környezet védelmének általános szabályairól szóló törvényben meghatározott ügyféli jogok biztosítása céljából. Ez esetben az ügyintézési határidő negyvenöt nap.
 
-[^3]: A 6. § (3) bekezdés bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 661. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^4]: A 6. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 661. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^5]: A 6. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 660. § (2) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (109) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^7]: A 6. § (2) bekezdése a 125/2012. (VI. 26.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^8]: A 6. § (2a) bekezdését a 125/2012. (VI. 26.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^9]: A 6. § (3) bekezdés bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 661. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: A 6. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 661. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^11]: A 6. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 660. § (2) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (109) bekezdése, a 125/2012. (VI. 26.) Korm. rendelet 7. §-a szerint módosított szöveg.
