@@ -1,3 +1,0 @@
-15. § (1) Az előirányzat felhasználása során az állami megrendelői (építtetői) feladatokat – ideértve az előkészítést, a területbiztosítást, a KKK feladatkörébe nem utalt terveztetést, az előirányzat terhére megvalósuló projektek tanulmányterveinek előkészítését, a közbeszerzési eljárások lefolytatását, a szerződéskötést, valamint a szerződések teljesítésének igazolását – a NIF Zrt. végzi.
-
-(2) A NIF Zrt. által az (1) bekezdés szerinti feladatok ellátására harmadik személlyel megkötött szerződésnek tartalmaznia kell a vállalási összegnek az előirányzatot terhelő részét, projektenkénti és évenkénti megbontásban.

@@ -1,7 +1,0 @@
-2. § (1) Az állami tulajdonba tartozó országos közúthálózat, továbbá az országos közlekedési hálózat fejlesztésének finanszírozási céljait szolgáló, e rendelet hatálya alá tartozó fejezeti kezelésű előirányzatok (a továbbiakban: előirányzatok) kezelésével, valamint felhasználásával kapcsolatos, e rendeletben meghatározott feladatokat az Útpénztár és a Határkikötők működtetése előirányzat vonatkozásában a Közlekedésfejlesztési Koordinációs Központ (a továbbiakban: KKK), a Gyorsforgalmi úthálózat fejlesztése fejezeti kezelésű előirányzat vonatkozásában a KKK és a Nemzeti Infrastruktúra Fejlesztő Zrt. (a továbbiakban: NIF Zrt.) a 17. § előírásai szerinti megosztásban együttesen látja el.
-
-(2) A KKK az Útpénztár és a Határkikötők működtetése előirányzattal kapcsolatos költségvetési gazdálkodás keretében ellátja a kötelezettségvállalással, a kötelezettségvállalás ellenjegyzésével, a teljesítés igazolásával, az utalványozással, az utalványozás ellenjegyzésével, az érvényesítéssel, a könyvvezetéssel és a közlekedésért felelős miniszter (a továbbiakban: miniszter) felé történő beszámolással kapcsolatos feladatokat.
-
-(3) A KKK az országos közutak vagyonkezelőjeként működteti az országos közúthálózat – kivéve a koncessziós szerződés keretében vagy magántőke bevonásával megvalósult és megvalósuló országos közutak – vagyonnyilvántartását.
-
-(4) Az előirányzatok kezeléséhez és működtetéséhez kapcsolódó költségek mértéke nem lehet több, mint az előirányzatok kiadási előirányzatának 5%-a.
