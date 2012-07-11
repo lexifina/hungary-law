@@ -1,6 +1,6 @@
 ## A SZENNYEZŐ ANYAGOK JEGYZÉKEI
 
-## A Tanács 80/68/EGK irányelvének melléklete, továbbá az Európai Parlament és Tanács 2000/60/EK irányelv VIII. melléklete szerint[^252]
+## A Tanács 80/68/EGK irányelvének melléklete, továbbá az Európai Parlament és Tanács 2000/60/EK irányelv VIII. melléklete szerint[^257]
 
 ## Az I. Jegyzék a következőkben felsorolt anyagféleségekhez és csoportokhoz tartozó meghatározott anyagokat tartalmazza azok kivételével, amelyek toxicitás, lebomlás és az emberi szervezetben való felhalmozódás szempontjából kis kockázatot jelentenek és nem sorolandók az I. Jegyzékbe.
 
@@ -24,7 +24,7 @@
 
 ## 8. Cianidok.
 
-## II.[^253] Jegyzék a veszélyességük alapján K2 minősítésű anyagokra
+## II.[^258] Jegyzék a veszélyességük alapján K2 minősítésű anyagokra
 
 ## A II. Jegyzék a következőkben felsorolt anyagféleségekhez és csoportokhoz tartozó egyes anyagokat és anyagkategóriákat tartalmazza, amelyek a felszín alatti vízre káros hatást fejthetnek ki.
 
@@ -94,7 +94,7 @@
 
 ## „1. Az érintett terület és a hatásterület koncepcionális modelljének (így különösen természeti adottságainak, földtani, hidrogeológiai és talajtani viszonyainak, érzékenységének) bemutatása, továbbá a talaj és altalaj esetleges tisztító hatásának jellemzése.
 
-## 2. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^254]
+## 2. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^259]
 
 ## Felszín alatti víz állapota szempontjából érzékeny területek besorolása
 
@@ -106,7 +106,7 @@
 
 ## b) Azok a karsztos területek, ahol a felszínen, vagy 10 m-en belül a felszín alatt mészkő, dolomit, mész- és dolomitmárga képződmények találhatók.
 
-## c) A vízgazdálkodásról szóló 1995. évi LVII. törvény szerint állami tulajdonban lévő felszíni állóvizek mederéltől számított 0,25 km széles parti sávja, külön jogszabály szerint[^255] regisztrált természetes fürdőhely esetében a mederéltől számított 0,25–1,0 km közötti övezete is.
+## c) A vízgazdálkodásról szóló 1995. évi LVII. törvény szerint állami tulajdonban lévő felszíni állóvizek mederéltől számított 0,25 km széles parti sávja, külön jogszabály szerint[^260] regisztrált természetes fürdőhely esetében a mederéltől számított 0,25–1,0 km közötti övezete is.
 
 ## d) A Nemzetközi Jelentőségű Vadvizek jegyzékébe felvett területek, továbbá a külön jogszabály szerinti Natura 2000 vizes élőhelyei.
 
@@ -126,7 +126,7 @@
 
 ## Egyéb, az 1–2. pontokba nem tartozó területek.
 
-3. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^256]
+3. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^261]
 
 ## A felszín alatti vízre vonatkozó minőségi előírások
 
@@ -134,16 +134,16 @@
 
 a) nitrát: 50 mg/l;
 
-b) növényvédő szer aktív anyagai, beleértve a megfelelő anyagcseretermékeket, bomlástermékeket és reakciótermékeket: 0,1 μg/l[^257], továbbá 0,5 μg/l (összes)[^258].
+b) növényvédő szer aktív anyagai, beleértve a megfelelő anyagcseretermékeket, bomlástermékeket és reakciótermékeket: 0,1 μg/l[^262], továbbá 0,5 μg/l (összes)[^263].
 
 2. A növényvédő szerekre vonatkozó minőségi előírásoknak az e rendelet céljaira meghatározott alkalmazásának eredményei nem sérthetik a növényvédő szerekre és a biocid termékekre vonatkozó, külön jogszabályban előírt kockázatértékelési eljárások eredményeit.
 
 3. E rendelettel összhangban egyes szennyező anyagokra szigorúbb küszöbértékeket kell megállapítani, amennyiben egy adott felszín alatti víztest esetében úgy ítélhető meg, hogy a felszín alatti víz minőségi előírásai a kapcsolódó felszíni víztestekre a külön jogszabályban foglaltak alapján meghatározott környezeti célkitűzések teljesítésének elmulasztását, vagy az ilyen víztestek ökológiai vagy kémiai minőségének jelentős romlását, vagy a közvetlenül a felszín alatti víztesttől függő szárazföldi ökoszisztémák jelentős károsodását eredményezhetik. Az ilyen küszöbértékekkel kapcsolatban szükséges programokat és intézkedéseket a vizek mezőgazdasági eredetű nitrát szennyezéssel szembeni védelméről szóló külön jogszabály hatálya alá tartozó tevékenységekre is alkalmazni kell.
 
-[^252]: Az 1. számú mellékletének címét követő alcím a 367/2004. (XII. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^253]: Az 1. számú melléklet II. Jegyzéke a 302/2008. (XII. 17.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^254]: A 2. számú melléklet e rendelet 41. § (2) bekezdésének a) pontja alapján 2005. január 1. napján lépett hatályba.
-[^255]: A természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és üzemeltetéséről 273/2001. (XII. 21.) Korm. rendelet.
-[^256]: A 3. számú melléklet a 302/2008. (XII. 17.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^257]: Növényvédő szerek: a külön jogszabályban meghatározottak szerinti növényvédő szerek és biocid termékek.
-[^258]: Összes: minden egyes, a monitoring során kimutatott és számszerűsített növényvédő szer összege, beleértve anyagcseretermékeiket, lebontási termékeiket és reakciótermékeiket.
+[^257]: Az 1. számú mellékletének címét követő alcím a 367/2004. (XII. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^258]: Az 1. számú melléklet II. Jegyzéke a 302/2008. (XII. 17.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^259]: A 2. számú melléklet e rendelet 41. § (2) bekezdésének a) pontja alapján 2005. január 1. napján lépett hatályba.
+[^260]: A természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és üzemeltetéséről 273/2001. (XII. 21.) Korm. rendelet.
+[^261]: A 3. számú melléklet a 302/2008. (XII. 17.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^262]: Növényvédő szerek: a külön jogszabályban meghatározottak szerinti növényvédő szerek és biocid termékek.
+[^263]: Összes: minden egyes, a monitoring során kimutatott és számszerűsített növényvédő szer összege, beleértve anyagcseretermékeiket, lebontási termékeiket és reakciótermékeiket.
