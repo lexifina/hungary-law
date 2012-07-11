@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-15-00-00
 | 2011-09-25 | 194/2011. (IX. 22.) Korm. rendelet | 2005-15-00-00.22 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2005-15-00-00.23 |
 | 2012-05-30 | 2012. évi XLVII. törvény | 2005-15-00-00.24 |
+| 2012-07-11 | 145/2012. (VII. 3.) Korm. rendelet | 2005-15-00-00.25 |
