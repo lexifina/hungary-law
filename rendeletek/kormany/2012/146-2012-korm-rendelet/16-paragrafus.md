@@ -1,1 +1,0 @@
-## „(10) A meg nem fizetett bányajáradék, jogosulatlanul kitermelt ásványi nyersanyag értéke és felügyeleti díj, valamint ezek késedelmi kamatai behajtása érdekében a bányafelügyelet megkeresi az adóhatóságot.”

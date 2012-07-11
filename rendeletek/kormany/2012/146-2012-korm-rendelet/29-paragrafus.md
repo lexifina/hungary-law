@@ -1,3 +1,0 @@
-## „(3) E rendeletnek a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet és egyes bányászati tárgyú kormányrendeletek módosításáról szóló 146/2012. (VII. 5.) Korm. rendelet (a továbbiakban: Mód. rendelet) 28. § (1) bekezdésével megállapított 6. § (1) bekezdés a) pontjában foglalt rendelkezését a Mód. rendelet hatálybalépését követő hónap első napjától kitermelt földgáz-mennyiségre kell alkalmazni.”
-
-## 5. Az ásványi nyersanyag és a geotermikus energia természetes előfordulási területének komplex érzékenységi és terhelhetőségi vizsgálatáról szóló 103/2011. (VI. 29.) Korm. rendelet módosítása
