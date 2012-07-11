@@ -1,6 +1,6 @@
 ## Környezeti hatásvizsgálat köteles tevékenységek
 
-| A. Sorszám | B. A tevékenység megnevezése | C. Küszöbérték, feltétel |
+| A. Sor- szám | B. A tevékenység megnevezése | C. Küszöbérték, feltétel |
 
 | Mezőgazdaság, vadgazdálkodás, erdőgazdálkodás |
 
@@ -12,9 +12,9 @@
 
 | d) sertéstelepnél 900 férőhelytől sertéskocák számára |
 
-| 2. | Erdőterület igénybevétele | a) nem termőföldként való további hasznosítás esetén 30 ha-tól |
+| 2. | Erdő igénybevétele | a) nem termőföldként való további hasznosítás esetében 30 ha-tól |
 
-| b) termőföldként való további hasznosítás esetén 50 ha-tól |
+| b) termőföldként való további hasznosítás esetében 50 ha-tól |
 
 | 3. | Vadaskert | védett természeti területen vagy erdőterületen méretmegkötés nélkül |
 
@@ -26,29 +26,29 @@
 
 | 5. | Szénbányászat | a) 100 ezer t/év szén bányászatától |
 
-| b) külszíni bányászat esetén 25 ha területnagyságtól is |
+| b) külszíni bányászat esetében 25 ha területnagyságtól is |
 
-| c) külszíni bányászat esetén védett természeti területen méretmegkötés nélkül |
+| c) külszíni bányászat esetében védett természeti területen méretmegkötés nélkül |
 
 | 6. | Tőzegkitermelés | a) 25 ha területnagyságtól |
 
 | b) védett természeti területen méretmegkötés nélkül |
 
-| 7. | Kőolaj-, földgázkitermelés | a) 500 t/nap kitermelésétől kőolaj esetén |
+| 7. | Kőolaj-, földgázkitermelés | a) 500 t/nap kitermelésétől kőolaj esetében |
 
-| b) 500 ezer m3/nap kitermelésétől földgáz esetén |
+| b) 500 ezer m3/nap kitermelésétől földgáz esetében |
 
 | 8. | Uránércbányászat | 100 ezer t/év uránérc kitermelésétől |
 
-| 9. | Fémtartalmúérc-bányászat | a) vasérc esetén 1 millió t/év kitermeléstől |
+| 9. | Fémtartalmúérc-bányászat | a) vasérc esetében 1 millió t/év kitermeléstől |
 
-| b) nem vas fémek esetén 100 ezer t/év kitermeléstől |
+| b) nem vas fémek esetében 100 ezer t/év kitermeléstől |
 
-| c) külszíni bányászat esetén 25 ha területnagyságtól is |
+| c) külszíni bányászat esetében 25 ha területnagyságtól is |
 
-| 10. | Egyéb bányászat (kivéve az önállóan létesített ásványfeldolgozó üzemet) | a) 25 ha területnagyságtól külszíni bányászat esetén |
+| 10. | Egyéb bányászat (kivéve az önállóan létesített ásványfeldolgozó üzemet) | a) 25 ha területnagyságtól külszíni bányászat esetében |
 
-| b) védett természeti területen külszíni bányászat esetén méretmegkötés nélkül |
+| b) védett természeti területen külszíni bányászat esetében méretmegkötés nélkül |
 
 | Feldolgozóipar |
 
@@ -134,7 +134,7 @@
 
 | 40. | Repülőtér | 2100 m alaphosszúságú futópályától |
 
-| 41. | Gáz-, kőolaj-, kőolajtermék- vagy vegyianyag-szállító vezeték | 800 mm átmérőtől és 40 km hossztól |
+| 41. | Gáz-, kőolaj-, kőolajtermék- , vegyianyag- vagy geológiai tárolásra szánt szén-dioxid-áramokat szállító (beleértve a nyomásfokozó berendezéseket is) vezeték | 800 mm átmérőtől és 40 km hossztól |
 
 | 42. | Földgáztároló | 200 000 m3 össztároló-kapacitástól |
 
@@ -142,31 +142,37 @@
 
 | 44. | Vegyi termék tárolása | 200 000 t össztároló-kapacitástól |
 
-| 45. | Állandó árvízvédelmi mű | országos jelentőségű védett természeti területen |
+| 45. | A szén-dioxid geológiai tárolására szolgáló (a bányászatról szóló törvény szerinti) tárolóhely | méretmegkötés nélkül |
+
+| 46. | A geológiai tárolásra szánt szén-dioxid-áramok elkülönítésére szolgáló létesítmények | a) az 1. számú melléklet B. és C. oszlopában meghatározott tevékenységekből, illetve létesítményekből származó szén-dioxid esetében |
+
+| b) évente 1,5 megatonna elkülönített szén-dioxid mennyiségtől |
+
+| 47. | Állandó árvízvédelmi mű | országos jelentőségű védett természeti területen |
 
 | Szennyvíz-, hulladékkezelés, köztisztasági szolgáltatás |
 
-| 46. | Szennyvíztisztító telep | 50 000 lakosegyenérték-kapacitástól |
+| 48. | Szennyvíztisztító telep | 50 000 lakosegyenérték-kapacitástól |
 
-| 47. | Nemveszélyeshulladék-lerakó létesítmény | a) napi 200 t hulladék lerakásától |
+| 49. | Nemveszélyeshulladék-lerakó létesítmény | a) napi 200 t hulladék lerakásától |
 
 | b) 500 000 t teljes befogadókapacitástól |
 
-| 48. | Nem veszélyes hulladékot égetéssel ártalmatlanító vagy hasznosító létesítmény, kémiai kezeléssel ártalmatlanító létesítmény | 100 t/nap kapacitástól |
+| 50. | Nem veszélyes hulladékot égetéssel ártalmatlanító vagy hasznosító létesítmény, kémiai kezeléssel ártalmatlanító létesítmény | 100 t/nap kapacitástól |
 
-| 49. | Veszélyes hulladékot égetéssel ártalmatlanító vagy hasznosító létesítmény, lerakással, kémiai vagy biológiai kezeléssel ártalmatlanító létesítmény | méretmegkötés nélkül |
+| 51. | Veszélyes hulladékot égetéssel ártalmatlanító vagy hasznosító létesítmény, lerakással, kémiai vagy biológiai kezeléssel ártalmatlanító létesítmény | méretmegkötés nélkül |
 
 | Nómenklatúrába nem besorolt tevékenységek, illetve létesítmények |
 
-| 50. | Kutató vagy oktató atomreaktor, valamint ezek felhagyása, ideértve minden nukleáris üzemanyag és a létesítmény egyéb radioaktív és radioaktívan szennyezett alkotórészeinek végleges eltávolítását | méretmegkötés nélkül |
+| 52.. | Kutató vagy oktató atomreaktor, valamint ezek felhagyása, ideértve minden nukleáris üzemanyag és a létesítmény egyéb radioaktív és radioaktívan szennyezett alkotórészeinek végleges eltávolítását | méretmegkötés nélkül |
 
-| 51. | Duzzasztómű vagy víztározó | 2 millió m3 duzzasztott, illetve tározott vízmennyiségtől |
+| 53. | Duzzasztómű vagy víztározó | 2 millió m3 duzzasztott, illetve tározott vízmennyiségtől |
 
-| 52. | Vízbesajtolás felszín alatti vízbe | 3 millió m3/év víz bejuttatásától |
+| 54. | Vízbesajtolás felszín alatti vízbe | 3 millió m3/év víz bejuttatásától |
 
-| 53. | Halastó vagy tórendszer | ha több mint 30 ha-on fed országos jelentőségű védett természeti területet |
+| 55. | Halastó vagy tórendszer | ha több mint 30 ha-on fed országos jelentőségű védett természeti területet |
 
-| 54. | Az 1. számú melléklet 1–53. pont B. és C. oszlopában és a 3. számú melléklet 1–127. pont B. és C. oszlopában meghatározott tevékenységek, illetve létesítmények olyan megváltoztatása vagy bővítése, ahol a változtatás az 1. számú melléklet 1–53. pont B. és C. oszlopában meghatározott tevékenység, illetve létesítmény megvalósítását jelenti |  |
+| 56. | Az 1. számú melléklet 1–55. pont B. és C. oszlopában és a 3. számú melléklet 1–128. pont B. és C. oszlopában meghatározott tevékenységek, illetve létesítmények olyan megváltoztatása vagy bővítése, ahol a változtatás az 1. számú melléklet 1–55. pont B. és C. oszlopában meghatározott tevékenység, illetve létesítmény megvalósítását jelenti |  |
 
 2. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez
 
@@ -342,6 +348,10 @@ Anyagok, tárgyak vagy termékek felületi kezelésére szerves oldószereket ha
 
 13.4. Fémtartalmú ércek bányászata: vasérc esetén 1 millió t/év, nemvas fémek esetén 100 ezer t/év bányászatától.
 
-14. Egyéb létesítmények
+14.[^122] Egyéb létesítmények
 
-Létesítmények szén (jól kiégetett szén) termelésére vagy elektrografit termelésére égetéssel vagy grafitizációval.
+14.1. Létesítmények szén (jól kiégetett szén) termelésére vagy elektrografit termelésére égetéssel vagy grafitizációval.
+
+14.2. Az e mellékletben felsorolt létesítményekből származó, a bányászatról szóló törvény szerinti geológiai tárolásra szánt szén-dioxid-áramok elkülönítése.
+
+[^122]: A 2. számú melléklet 14. pontja a 145/2012. (VII. 3.) Korm. rendelet 40. § (3) bekezdésével megállapított szöveg.

@@ -4,7 +4,7 @@
 
 1. § (1) A rendelet hatálya – a (2) bekezdésben meghatározott kivétellel – az 1–3. számú mellékletben meghatározott tevékenységekre, létesítményekre, valamint azok jelentős módosításaira, változtatásaira (a továbbiakban együtt: tevékenység) terjed ki.
 
-(2)[^1] Nem terjed ki a rendelet hatálya azokra a kizárólag a 2. számú mellékletben vagy a 3. számú melléklet 1–127., 129–131. pontjában szereplő tevékenységekre, amelyeket kutatásra, fejlesztésre, valamint új termékek és folyamatok tesztelésére használnak.
+(2)[^1] Nem terjed ki a rendelet hatálya azokra a kizárólag a 2. számú mellékletben vagy a 3. számú melléklet 1–128. és 130–132. pontjában szereplő tevékenységekre, amelyeket kutatásra, fejlesztésre, valamint új termékek és folyamatok tesztelésére használnak.
 
 (3) A tevékenység megkezdéséhez, ha az
 
@@ -36,7 +36,7 @@ f)[^2] a 3. számú mellékletben szerepel, azonban nem éri el a 3. számú mel
 
 (7)[^6] Ha más hatóság eljárásában – törvény vagy kormányrendelet rendelkezése alapján – a felügyelőség azért nem jár el szakhatóságként, mert az eljárás tárgyául szolgáló tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély szükséges, az eljáró hatóság a környezetvédelmi engedély vagy az egységes környezethasználati engedély iránti kérelemről döntést hozó felügyelőséget az eljárás megindulásáról – a kérelem megküldésével – tájékoztatja, és az eljárásban hozott határozatot vagy az eljárást megszüntető végzést közli a felügyelőséggel.
 
-[^1]: Az 1. § (2) bekezdése a 82/2011. (V. 18.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (2) bekezdése a 145/2012. (VII. 3.) Korm. rendelet 40. § (5) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdés f) pontját a 82/2011. (V. 18.) Korm. rendelet 12. §-a iktatta be.
 [^3]: Az 1. § (4) bekezdése a 151/2009. (VII. 23.) Korm. rendelet 1. §-ával megállapított, a 82/2011. (V. 18.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
 [^4]: Az 1. § (5) bekezdését a 228/2010. (VIII. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 12/2011. (II. 22.) Korm. rendelet 1. §-a iktatta be.

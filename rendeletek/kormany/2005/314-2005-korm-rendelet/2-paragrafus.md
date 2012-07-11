@@ -16,7 +16,7 @@ a) jelentős módosítás:
 
 aa)[^9] az 1. számú melléklet 37. c) pontjában meghatározott változtatás;
 
-ab)[^10] a 3. számú melléklet 129. pontjában felsorolt tevékenység olyan megváltoztatása, különösen a tevékenység bővítése, illetve technológia- termékváltás, amelynek következtében az alábbiakban megadott feltételek valamelyike fennáll:
+ab)[^10] a 3. számú melléklet 130. pontjában felsorolt tevékenység olyan megváltoztatása, különösen a tevékenység bővítése, illetve technológia- termékváltás, amelynek következtében az alábbiakban megadott feltételek valamelyike fennáll:
 
 aba) új, határértékhez kötött, legalább egy évig tartó anyag- vagy energiakibocsátás keletkezik, és a várható kibocsátás több mint a jogszabályban előírt, az adott tevékenységre vagy kibocsátásra vonatkozó maximálisan megengedhető kibocsátás 25%-a,
 
@@ -32,7 +32,7 @@ abf) a tevékenység céljára lehatárolt terület legalább 25%-kal megnő, é
 
 abg) a tevékenység volumene (különösen kapacitása, az előállított termék mennyisége, a létesítmény befogadóképessége) a tevékenység megvalósítására vonatkozó korábbi engedélyben meghatározott mértéket legalább 25%-kal meghaladja;
 
-ac)[^11] a 3. számú melléklet 130. pontjában felsorolt tevékenységnek az alábbiakban megadott megváltoztatása:
+ac)[^11] a 3. számú melléklet 131. pontjában felsorolt tevékenységnek az alábbiakban megadott megváltoztatása:
 
 aca) a tevékenység volumene a megvalósítására vonatkozó korábbi engedélyben meghatározott mértéket legalább 25%-kal meghaladja,
 
@@ -73,8 +73,8 @@ e) jelentős változás: a tevékenységben az üzemeltető szándéka nélkül 
 [^7]: A 2. § a) pontja a 110/2010. (IV. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^8]: A 2. § (1) bekezdés b) pontja a 151/2009. (VII. 23.) Korm. rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
 [^9]: A 2. § (2) bekezdés a) pont aa) alpontja a 82/2011. (V. 18.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
-[^10]: A 2. § (2) bekezdés a) pont ab) alpont nyitó szövegrésze a 82/2011. (V. 18.) Korm. rendelet 25. § d) pontja szerint módosított szöveg.
-[^11]: A 2. § (2) bekezdés a) pont ac) alpont nyitó szövegrésze a 82/2011. (V. 18.) Korm. rendelet 25. § e) pontja szerint módosított szöveg.
+[^10]: A 2. § (2) bekezdés a) pont ab) alpontja a 145/2012. (VII. 3.) Korm. rendelet 40. § (5) bekezdése szerint módosított szöveg.
+[^11]: A 2. § (2) bekezdés a) pont ac) alpontja a 145/2012. (VII. 3.) Korm. rendelet 40. § (5) bekezdése szerint módosított szöveg.
 [^12]: A 2. § (2) bekezdés d) pontját a 82/2011. (V. 18.) Korm. rendelet 13. §-a iktatta be.
 [^13]: A 2. § (2) bekezdés e) pontját a 82/2011. (V. 18.) Korm. rendelet 13. §-a iktatta be.
 [^14]: A 2. § (2) bekezdés f) pontját a 82/2011. (V. 18.) Korm. rendelet 13. §-a iktatta be.
