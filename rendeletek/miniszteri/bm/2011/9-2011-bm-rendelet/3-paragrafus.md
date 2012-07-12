@@ -2,4 +2,6 @@
 
 3. § (1) Az ellátási tevékenységet végző vagy koordináló Központi Ellátó Szerv és a Kedvezményezett jogaira és kötelezettségeire, az ellátással összefüggő eljárás szabályaira, valamint az e rendeletben nem szabályozott kérdésekre a büntetés-végrehajtási szervezet részéről a központi államigazgatási szervek és a rendvédelmi szervek irányában fennálló egyes ellátási kötelezettségekről, a termékek és szolgáltatások átadás-átvételének és azok ellentételezésének rendjéről szóló 44/2011. (III. 23.) Korm. rendeletet (a továbbiakban: Korm. rendelet) kell megfelelően alkalmazni.
 
-(2) E rendelet alkalmazásában közbeszerzési értékhatárok alatti ellátási igényen a költségvetési törvényben meghatározott nemzeti közbeszerzési értékhatárokat el nem érő ellátási igényt, közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényen valamennyi, a költségvetési törvényben meghatározott nemzeti közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényt kell érteni.
+(2)[^1] E rendelet alkalmazásában közbeszerzési értékhatárok alatti ellátási igényen a költségvetési törvényben meghatározott uniós közbeszerzési értékhatárokat el nem érő ellátási igényt, közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényen valamennyi, az uniós közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényt kell érteni.
+
+[^1]: A 3. § (2) bekezdése a 34/2012. (VII. 4.) BM rendelet 1. §-ával megállapított szöveg.

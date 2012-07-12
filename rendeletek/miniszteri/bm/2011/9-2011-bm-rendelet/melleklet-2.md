@@ -182,7 +182,7 @@
 
 11. Nemzeti Védelmi Szolgálat
 
-12. Rendőrtiszti Főiskola
+12.[^5] Országos Vízügyi Főigazgatóság és a vízügyi igazgatóságok
 
 13. Bevándorlási és Állampolgársági Hivatal
 
@@ -193,3 +193,5 @@
 16. Bevándorlási és Állampolgársági Hivatal Befogadó Állomás, Debrecen
 
 17. Nemzetközi Oktatási és Polgári Válságkezelő Központ
+
+[^5]: A 2. melléklet 12. pontja a 34/2012. (VII. 4.) BM rendelet 3. §-ával megállapított szöveg.

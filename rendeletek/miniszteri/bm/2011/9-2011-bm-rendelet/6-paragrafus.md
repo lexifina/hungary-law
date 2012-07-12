@@ -9,3 +9,8 @@ b) a közbeszerzési értékhatárokat elérő vagy meghaladó igény vonatkozá
 (3) A Feleknek a 2011. évre vonatkozó, az e rendelet hatálybalépését követően felmerülő, a közbeszerzési értékhatárokat elérő vagy meghaladó igényeivel összefüggő beszerzési eljárásaiban az előre nem tervezett, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások körébe tartozó, a közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényre vonatkozó rendelkezéseket kell alkalmazni.
 
 (4) E rendelet 1. mellékletében meghatározott termékek és szolgáltatások, valamint 2. mellékletében meghatározott Kedvezményezettek körét a Belügyminisztérium a Központi Ellátó Szerv javaslata alapján évente felülvizsgálja.
+
+(5)[^2] E rendeletnek a büntetés-végrehajtási szervezet részéről a büntetés-végrehajtásért felelős miniszter vezetése, irányítása vagy felügyelete alá tartozó szervek irányában fennálló ellátási kötelezettségről, a fogvatartottak kötelező foglalkoztatása keretében előállított termékekről és szolgáltatásokról, azok átadás-átvételéről és az ellentételezés rendjéről szóló 9/2011. (III. 23.) BM rendelet módosításáról szóló 34/2012. (VII. 4.) BM rendelettel (a továbbiakban: 1. módosító rendelet) megállapított rendelkezéseit az Országos Vízügyi Főigazgatóság és a vízügyi igazgatóságok beszerzéseire is alkalmazni kell, amennyiben a nemzeti közbeszerzési értékhatárokat elérő, de az európai uniós közbeszerzési értékhatárokat el nem érő igény vonatkozásában az 1. módosító rendelet hatálybalépésekor[^3] a közbeszerzési eljárás még nem kezdődött meg.
+
+[^2]: A 6. § (5) bekezdését a 34/2012. (VII. 4.) BM rendelet 2. §-a iktatta be.
+[^3]: A hatálybalépés időpontja 2012. július 12.
