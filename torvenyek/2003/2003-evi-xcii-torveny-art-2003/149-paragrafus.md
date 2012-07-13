@@ -10,7 +10,7 @@ b) végrehajtható az adóhatósági határozat (végzés), de az abban meghatá
 
 (3) A biztosítási intézkedést az az adóhatóság rendeli el, amelyik a fizetési kötelezettséget megállapító határozatot (végzést) hozta.
 
-(4) A biztosítási intézkedést elrendelő végzés végrehajtására a végrehajtási eljárás során irányadó szabályokat kell alkalmazni azzal, hogy a gépjármű biztosítási intézkedés keretében foganatosítandó lefoglalása a gépjármű lefoglalás foglalási jegyzőkönyvben történő feltüntetésével, illetve ha lehetséges, a törzskönyv lefoglalásával történik.
+(4) A biztosítási intézkedést elrendelő végzés végrehajtására a végrehajtási eljárás során irányadó szabályokat kell alkalmazni azzal, hogy a gépjármű biztosítási intézkedés keretében foganatosítandó lefoglalása a gépjármű lefoglalás foglalási jegyzőkönyvben történő feltüntetésével, illetve ha lehetséges, a törzskönyv lefoglalásával történik. Nem foganatosítható a biztosítási intézkedést elrendelő végzés a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott tanúsítványban felsorolt kulturális javak tekintetében a különleges védelem időtartama alatt.
 
 (5) A biztosítási intézkedést elrendelő végzés ellen végrehajtási kifogásnak van helye, amelynek a végzés végrehajtására nincs halasztó hatálya.
 

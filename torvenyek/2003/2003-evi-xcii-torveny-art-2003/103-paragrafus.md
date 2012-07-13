@@ -4,7 +4,7 @@
 
 (3) Az adóhatóság az átvizsgálás megkezdése előtt közli a jelen lévő adózóval, képviselőjével, megbízottjával, alkalmazottjával az átvizsgálást elrendelő végzést, és – ha az átvizsgálás meghatározott, illetőleg ismert tárgyi bizonyítási eszköz megtalálására irányul – felszólítja a keresett tárgyi bizonyítási eszköz átadására. Ha az adózó, képviselője, megbízottja, alkalmazottja a felszólításra a keresett tárgyi bizonyítási eszközt átadja, az átvizsgálás nem folytatható, kivéve, ha megalapozottan feltételezhető, hogy az átvizsgálás során más tárgyi bizonyítási eszköznek minősülő dolog is fellelhető.
 
-(4) Az átvizsgálás során talált, tárgyi bizonyítási eszköznek minősülő dolgot – a romlandó élelmiszerek és az élő állatok kivételével – az ellenőrzést végző adóhatóság végzésével lefoglalhatja, ha annak újabb elrejtésétől, megsemmisítésétől vagy értékesítésétől lehet tartani.
+(4) Az átvizsgálás során talált, tárgyi bizonyítási eszköznek minősülő dolgot – a romlandó élelmiszerek és az élő állatok kivételével – az ellenőrzést végző adóhatóság végzésével lefoglalhatja, ha annak újabb elrejtésétől, megsemmisítésétől vagy értékesítésétől lehet tartani. Nem foglalhatóak le a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott tanúsítványban felsorolt kulturális javak a különleges védelem időtartama alatt.
 
 (5) A jármű, a jármű rakománya, a helyszín, a helyiség átvizsgálásánál, a lefoglalásnál és a fuvarellenőrzésnél az adózó jelenlétét biztosítani kell. Ha az adózó nem kíván jelen lenni vagy ebben akadályozott, és megfelelő képviseletről nem gondoskodik, az adóhatóság az átvizsgálást, a lefoglalást, illetőleg a fuvarellenőrzést két hatósági tanú jelenlétében foganatosítja.
 
