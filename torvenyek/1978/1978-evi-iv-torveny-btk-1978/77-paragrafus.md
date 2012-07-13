@@ -16,6 +16,8 @@ d) amelyre a bűncselekményt elkövették, vagy a bűncselekmény befejezését
 
 (4) Az elkobzást akkor is el kell rendelni, ha az elkövető gyermekkor vagy kóros elmeállapot miatt nem büntethető, vagy ha az elkövetőt megrovásban részesítették.
 
+(4a) Az elkobzást akkor is el kell rendelni, ha az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.
+
 (5) Nincs helye elkobzásnak a cselekmény büntethetőségének elévülésére megállapított idő, de legalább öt év elteltével.
 
 (6) Nem lehet elrendelni annak a dolognak az elkobzását, amelyre a vagyonelkobzás kiterjed.
