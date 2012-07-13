@@ -1,0 +1,11 @@
+## 2. § Az e rendelet alapján nyújtott támogatás általános de minimis támogatásnak minősül.
+
+3. § (1) E rendelet alapján támogatásra jogosult az az ügyfél,
+
+a) aki vagy amely szárított takarmányt előállító üzemmel rendelkezik, és
+
+b) akinek vagy amelynek a szárított takarmányt előállító üzeme a tárgyévben szárított takarmány előállítás céljára felhasználja a bázis időszak átlagában általa szárított takarmány előállítás céljára felhasznált, a bázis időszakban lefolytatott helyszíni ellenőrzések jegyzőkönyveiben rögzített tüzelőanyag mennyiségének legalább felét.
+
+(2) A bázisidőszak átlagos energiafelhasználásának számításakor az adott ügyfél vonatkozásában a bázisidőszaknak csak azokat a gazdasági éveit kell figyelembe venni, amelyekben az ügyfél szárított takarmányt előállító üzemében ténylegesen történt szárított takarmány előállítás.
+
+(3) Az (1) bekezdés b) pontjában meghatározott adatok és az előállított szárított takarmány mennyiség nyilvántartása céljából a támogatásra jogosult ügyfél köteles telephelyenként üzemnaplót vezetni a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) honlapján közleményben közzétett formanyomtatványnak megfelelően. Az üzemnaplót a számvitelről szóló törvény szerinti számviteli bizonylatként kell kezelni. Ha 2012. március 31-től és e rendelet hatálybalépését követő 15. napig tartó időszakban üzemnapló nem kerül kitöltésre, akkor a szárított takarmány előállítására felhasznált tüzelőanyag mennyiségét mérő hitelesített mérőóra állását kell figyelembe venni.
