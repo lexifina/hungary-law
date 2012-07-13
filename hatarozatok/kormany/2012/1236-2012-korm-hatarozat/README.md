@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1236-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-07-12 | 2012-1236-30-22.1 | 1236/2012. (VII. 12.) Korm. határozat |
+| 2012-07-13 | 2012-1236-30-22.2 | 1422/2012. (X. 4.) Korm. határozat |
