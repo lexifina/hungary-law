@@ -1,6 +1,6 @@
 ## 1. megállapítja az 1. melléklet szerint a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterve 1. és 2. prioritását,
 
-## 2. visszavonja a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akciótervének módosításáról szóló 1453/2011. (XII. 22.) Korm. határozat 1. mellékletének a TÁMOP 1. és 2. prioritásokra vonatkozó részeit.
+## 2.[^1]
 
 1. melléklet az 1235/2012. (VII. 12.) Korm. határozathoz
 
@@ -141,3 +141,5 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 |  | Többlet-kötelezettségvállalás esetén tartalék | 0,00 | 0,00 | 0,00 |  |  |  |
 
 | 2. | Prioritás | 8,70 | 121,414 | 0,00 |  |  |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
