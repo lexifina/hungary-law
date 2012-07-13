@@ -4,7 +4,7 @@
 
 a) 3,5 tonnát meghaladó megengedett legnagyobb össztömegű teherjárművel díj ellenében végzett közúti árutovábbítási tevékenység közúti árutovábbítási engedéllyel,
 
-b)[^1]
+b)[^2]
 
 c) autóbusszal díj ellenében személyszállítási tevékenység közúti személyszállítási engedéllyel,
 
@@ -20,4 +20,4 @@ a) sérült vagy műszaki hibás járművek továbbítása,
 
 b) gyógyszerek, gyógyászati készülékek, berendezések, felszerelések és egyéb tárgyak természeti katasztrófa vagy egyéb közveszély miatt szükséges sürgős szállítása.
 
-[^1]: A 3. § (1) bekezdés b) pontja a 36. § (2) bekezdése alapján 2012. december 4-én lép hatályba.
+[^2]: A 3. § (1) bekezdés b) pontja a 36. § (2) bekezdése alapján 2012. december 4-én lép hatályba.

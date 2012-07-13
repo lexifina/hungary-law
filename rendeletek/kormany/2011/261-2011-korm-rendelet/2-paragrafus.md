@@ -50,10 +50,12 @@
 
 14.2. a szállítást gazdálkodó szervezet az általa üzemben tartott vagy bérelt teherjárművel tagja vagy a vele munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban álló személy részére végzi, vagy az egyéni vállalkozó a saját maga részére végzi;
 
-15. teherjármű: a tehergépjármű, továbbá a mezőgazdasági vontató, a lassú jármű, a mezőgazdasági vontatóból, valamint a lassú járműből és általuk vontatott pótkocsiból (félpótkocsiból) álló járműszerelvény;
+15.[^1] teherjármű: a tehergépjármű
 
 16. tehergépjármű: a tehergépkocsi, a vontató – ideértve a nyerges vontatót is –, valamint az ilyen járműből és az általa vontatott pótkocsiból (félpótkocsiból) álló járműszerelvény;
 
 17. üzembentartó: a járművet hatósági jelzéssel ellátó ország hatóságai által kibocsátott okiratba bejegyzett üzemben tartó (engedélyes, engedély jogosultja), ennek hiányában a tulajdonos; a 32. § szerinti szerződés esetén üzembentartó a bérlő, illetve a használatba vevő.
 
 (2) A közúti közlekedési szolgáltatási, a saját számlás közúti áruszállítási és az autóbusszal végzett saját számlás személyszállítási tevékenységnek részét képezi az árutovábbítás, az áruszállítás vagy a személyszállítás érdekében a járművel rakomány vagy utas nélkül megtett út is.
+
+[^1]: A 2. § (1) bekezdés 15. pontja a 155/2012. (VII. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.

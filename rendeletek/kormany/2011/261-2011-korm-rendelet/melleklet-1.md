@@ -1,4 +1,4 @@
-## 41. §[^5]
+## 41. §[^6]
 
 1. melléklet a 261/2011. (XII. 7.) Korm. rendelethez
 
@@ -124,4 +124,4 @@ o) közlekedés-üzemviteli, gépjárműüzemi technikus.
 
 – közép- vagy felsőfokú vámügyintézői szakképesítés.
 
-[^5]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
