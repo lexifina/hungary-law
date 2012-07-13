@@ -59,11 +59,3 @@
 (15) A Szabstv. 75. §-a a következő (2a) bekezdéssel egészül ki:
 
 „(2a) A lefoglalást akkor is el kell rendelni, ha az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.”
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
