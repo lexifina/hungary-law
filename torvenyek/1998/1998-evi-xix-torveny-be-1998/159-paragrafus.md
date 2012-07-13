@@ -4,6 +4,8 @@
 
 (2) Ha az eljárás olyan bűncselekmény miatt folyik, amellyel kapcsolatban vagyonelkobzásnak van helye, illetve ha polgári jogi igényt érvényesítenek, és alaposan tartani lehet attól, hogy a kielégítést meghiúsítják, ezek biztosítására a terhelt egész vagyonának, vagyona meghatározott részének vagy egyes vagyontárgyainak zár alá vétele rendelhető el. A zár alá vétel elrendelhető arra a vagyonra, vagyonrészre, illetve egyes vagyontárgyra is, amelyre nézve vagyonelkobzás rendelhető el, de amelyet nem a terhelt birtokol.
 
+(2a) A zár alá vétel akkor is elrendelhető, ha az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.
+
 (3) Ha ingatlan elkobzásának van helye, a zár alá vételt el kell rendelni.
 
 (4) A zár alá vételnek a közhitelű nyilvántartásba történő bejegyzése iránt haladéktalanul intézkedni kell. Ha nincs külön jogszabály szerinti közhitelű nyilvántartás, a zár alá vétellel érintett gazdálkodó szervezetet kell értesíteni.

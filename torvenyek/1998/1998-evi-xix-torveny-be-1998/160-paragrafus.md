@@ -4,6 +4,8 @@
 
 (2) Az ügyész, illetőleg a nyomozó hatóság biztosítási intézkedést alkalmazhat, ha a zár alá vétel feltételeinek fennállása valószínűsíthető, és a terhelt az (1) bekezdésben meghatározott vagyona elrejtését, rendelkezési jogának átruházását, elidegenítését vagy megterhelését megkísérli, illetőleg ha ez megalapozottan feltehető.
 
+(2a) Az ügyész, illetőleg a nyomozó hatóság biztosítási intézkedést akkor is alkalmazhat, ha az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.
+
 (3) Biztosítási intézkedésként a nyomozó hatóság, illetve az ügyész az (1) bekezdésben meghatározott dolgokat – az ingatlan kivételével – lefoglalja, vagy a 61. §-ban felsorolt hatóságokat keresi meg a hatáskörükbe tartozó intézkedések elvégzése érdekében. A hatóságok az intézkedéseket haladéktalanul kötelesek megtenni, és ennek megtörténtéről a nyomozó hatóságot, illetve az ügyészt haladéktalanul tájékoztatni.
 
 (4) A nyomozó hatóság, illetőleg az ügyész a 61. §-ban fel nem sorolt más szerveket, gazdálkodó szervezeteket is megkereshet a terhelt vagyonának zárolása és a biztosítási intézkedés nyilvántartásba vétele céljából. A megkeresett szervek a biztosítási intézkedés elvégzésére vonatkozó megkeresést haladéktalanul nyilvántartásba veszik, gondoskodnak a vagyon zárolásáról, és ezek megtörténtéről a megkeresést intéző nyomozó hatóságot, illetőleg ügyészt tájékoztatni kötelesek.

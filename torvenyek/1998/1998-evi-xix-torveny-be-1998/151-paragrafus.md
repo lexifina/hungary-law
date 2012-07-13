@@ -8,6 +8,8 @@ a) bizonyítási eszköz,
 
 b) a törvény értelmében elkobozható vagy amelyre vagyonelkobzás rendelhető el.
 
+(2a) A lefoglalást akkor is el kell rendelni, ha az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.
+
 (3) A közjegyzői vagy ügyvédi irodában, továbbá az egészségügyi intézményben tartott – közjegyzői vagy ügyvédi tevékenységgel összefüggő hivatásbeli titkot, illetőleg egészségügyi adatot tartalmazó – iratok lefoglalását a bíróság rendeli el.
 
 (4) A címzettnek még nem kézbesített postai és hírközlési küldeménynek, valamint a sajtótermék szerkesztősége iratainak lefoglalását a vádirat benyújtásáig az ügyész, azt követően a bíróság rendeli el. A határozat meghozataláig csak a küldemény visszatartásának van helye.
