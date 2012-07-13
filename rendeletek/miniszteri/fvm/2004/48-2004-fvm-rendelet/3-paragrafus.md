@@ -1,4 +1,4 @@
-## 2. §[^4] A szántóföldi vetőmagvak előállításával és forgalomba hozatalával kapcsolatos ellenőrzési feladatokat elsőfokú – OECD rendszerben kijelölt – hatóságként a Mezőgazdasági Szakigazgatási Hivatal, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága (a továbbiakban: MgSzH) látja el. Az MgSzH ezen tevékenységéről közhitelű nyilvántartást vezet.
+## 2. §[^5] A szántóföldi vetőmagvak előállításával és forgalomba hozatalával kapcsolatos ellenőrzési feladatokat elsőfokú – OECD rendszerben kijelölt – hatóságként a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága látja el. A NÉBIH ezen tevékenységéről közhitelű nyilvántartást vezet.
 
 ## Értelmező rendelkezések
 
@@ -18,7 +18,7 @@
 
 7. címerezés: a hibridkukorica-vetőmag előállítása során az anyasorok hímvirágzatának (címerének) eltávolítása,
 
-8.[^5] címke: a vetőmagtétel azonosító adatait és hiteles zárását bizonyító okmány, egyedi azonosító jel, amely a tétel minden göngyölegegységén rajta van, és a növény-egészségügyi jogszabályokkal összhangban egyes növényfajok esetében egyúttal növényútlevélként is szolgál,
+8.[^6] címke: a vetőmagtétel azonosító adatait és hiteles zárását bizonyító okmány, egyedi azonosító jel, amely a tétel minden göngyölegegységén rajta van, és a növény-egészségügyi jogszabályokkal összhangban egyes növényfajok esetében egyúttal növényútlevélként is szolgál,
 
 9. csírázóképesség: a fajazonos, tiszta magvakból a legkedvezőbb laboratóriumi feltételek között végzett, csíráztatással, meghatározott idő alatt nyert teljes értékű (normális) csíranövények száma darabszázalékban kifejezve,
 
@@ -44,7 +44,7 @@
 
 20. fenntartó ellenőrzés: évelő növények vetőmag-szaporításának nem magtermő években végzett szántóföldi ellenőrzése,
 
-21.[^6] fertőző góc: a hibridkukorica vetőmag-előállítás anyasoraiban virágzó címer, illetve fertilis növény virágport hullató virágzatának az előfordulása,
+21.[^7] fertőző góc: a hibridkukorica vetőmag-előállítás anyasoraiban virágzó címer, illetve fertilis növény virágport hullató virágzatának az előfordulása,
 
 22. gumóvizsgálat: a burgonya-vetőgumó felületén és belsejében mutatkozó hibák, egyes kórokozók és károsítók megállapítása érzékszervi (helyszíni) vagy mikroszkópos (laboratóriumi) vizsgálattal, valamint a gumók méret szerinti megoszlásának meghatározása négyzetes mérce alkalmazásával,
 
@@ -112,13 +112,13 @@
 
 54. szántóföldi ellenőrzés: a vetőmag-minősítés része, a szaporító tábla növényállományának a tenyészidő meghatározott szakaszaiban előírt értékmeghatározó tényezők és hivatalos morfológiai leírások alapján végzett vizsgálata; a szántóföldi ellenőrzés során elbírálásra kerül, hogy a növényállomány megfelel-e a vetőmag-szaporításra vonatkozó előírásoknak,
 
-55.[^7] származási bizonylat: a felhasznált vetőmag származását, faját, fajtáját, szaporítási fokát, tömegét és minőségét igazoló okmány,
+55.[^8] származási bizonylat: a felhasznált vetőmag származását, faját, fajtáját, szaporítási fokát, tömegét és minőségét igazoló okmány,
 
 56. szártalanítás: a burgonya szárának és levélzetének megsemmisítése mechanikailag vagy vegyszerekkel, illetve ezek együttes alkalmazásával vagy égetéssel,
 
 57. szelekció: a szaporító tábla növényállományából az idegen fajú, fajtájú, beteg, fejlődésben elmaradt, csenevész, vegyszertől károsodott növények felismerésekor végzett eltávolítása,
 
-58.[^8] szürke címke: nem véglegesen minősített, de szántóföldi ellenőrzés és minősítés alapján fajtaigazolt vetőmag fémzárolásakor használt megjelölés,
+58.[^9] szürke címke: nem véglegesen minősített, de szántóföldi ellenőrzés és minősítés alapján fajtaigazolt vetőmag fémzárolásakor használt megjelölés,
 
 59. tisztaság: fajazonos tiszta mag aránya, amelyet adott magtömegből tömeg%-ban határoznak meg,
 
@@ -126,13 +126,13 @@
 
 60.1. Szuperelit (SE) (Prebázis PB): az elitet megelőző generáció, illetve generációk, amelyet, illetve amelyeket a nemesítő felelősségével – fajtafenntartásra elfogadott gyakorlat szerint – állítottak elő továbbszaporításra,
 
-60.2.[^9] Elit (E) (Bázis B): a szuperelit vagy a nemesítő felelősségével – a fajtafenntartás elfogadott gyakorlata szerint – előállított vetőmag továbbszaporítása, hibrid vetőmag-előállításra kiadott szülői komponens vetőmagja,
+60.2.[^10] Elit (E) (Bázis B): a szuperelit vagy a nemesítő felelősségével – a fajtafenntartás elfogadott gyakorlata szerint – előállított vetőmag továbbszaporítása, hibrid vetőmag-előállításra kiadott szülői komponens vetőmagja,
 
-60.3.[^10] I. szaporítási fok (1. generáció), I. fok: amelyet közvetlenül az elit vetőmagból, illetve – amennyiben a nemesítő vagy fajtafenntartó úgy rendelkezik – a hivatalos szántóföldi ellenőrzésben és minősítésben, valamint hivatalos fémzárolásban részesült SE generáció vetőmagjából állítottak elő,
+60.3.[^11] I. szaporítási fok (1. generáció), I. fok: amelyet közvetlenül az elit vetőmagból, illetve – amennyiben a nemesítő vagy fajtafenntartó úgy rendelkezik – a hivatalos szántóföldi ellenőrzésben és minősítésben, valamint hivatalos fémzárolásban részesült SE generáció vetőmagjából állítottak elő,
 
-60.4.[^11] II. szaporítási fok (2. generáció), II. fok: amelyet közvetlenül az elit vetőmagból, illetve – az I. szaporítási fok minősített vetőmagjából, amennyiben a nemesítő vagy fajtafenntartó úgy kívánja – a hivatalos szántóföldi ellenőrzésben és minősítésben, valamint hivatalos fémzárolásban részesült SE vetőmagból állítottak elő,
+60.4.[^12] II. szaporítási fok (2. generáció), II. fok: amelyet közvetlenül az elit vetőmagból, illetve – az I. szaporítási fok minősített vetőmagjából, amennyiben a nemesítő vagy fajtafenntartó úgy kívánja – a hivatalos szántóföldi ellenőrzésben és minősítésben, valamint hivatalos fémzárolásban részesült SE vetőmagból állítottak elő,
 
-60.5.[^12] III. fok (3. generáció): amelyet közvetlenül az elit, I. vagy II. fokból, illetve – amennyiben a nemesítő vagy fajtafenntartó úgy kívánja – a hivatalos szántóföldi ellenőrzésben és minősítésben, valamint hivatalos fémzárolásban részesült SE vetőmagból állítottak elő,
+60.5.[^13] III. fok (3. generáció): amelyet közvetlenül az elit, I. vagy II. fokból, illetve – amennyiben a nemesítő vagy fajtafenntartó úgy kívánja – a hivatalos szántóföldi ellenőrzésben és minősítésben, valamint hivatalos fémzárolásban részesült SE vetőmagból állítottak elő,
 
 61. vetőmag-feldolgozó: az előírt személyi és tárgyi feltételekkel rendelkező természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, aki, illetve amely a betakarított nyers magtermést tisztítótelepi feldolgozással fémzárolásra előkészíti,
 
@@ -144,15 +144,15 @@
 
 65. vizsgálati minta: a laboratóriumi minta osztásából származó minta, amelyből az előírások szerinti vizsgálatokat végzik,
 
-66.[^13] vetőmagtermesztő: az a természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, aki vagy amely a szántóföldön a növényfajta vetőmagjának szaporítását végzi.
+66.[^14] vetőmagtermesztő: az a természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, aki vagy amely a szántóföldön a növényfajta vetőmagjának szaporítását végzi.
 
-[^4]: A 2. § a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja, a 16/2011. (III. 2.) VM rendelet 32. § b) pontja szerint módosított szöveg.
-[^5]: A 3. § 8. pontja a 16/2011. (III. 2.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^6]: A 3. § 21. pontja a 16/2011. (III. 2.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^7]: A 3. § 55. pontja a 16/2011. (III. 2.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^8]: A 3. § 58. pontja a 16/2011. (III. 2.) VM rendelet 32. § d) pontja szerint módosított szöveg.
-[^9]: A 3. § 60.2. pontja a 16/2011. (III. 2.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^10]: A 3. § 60.3. pontja a 16/2011. (III. 2.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^11]: A 3. § 60.4. pontja a 16/2011. (III. 2.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^12]: A 3. § 60.5. pontja a 16/2011. (III. 2.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^13]: A 3. § 66. pontját a 16/2011. (III. 2.) VM rendelet 2. § (4) bekezdése iktatta be.
+[^5]: A 2. § a 67/2012. (VII. 10.) VM rendelet 6. § (1) és (3) bekezdése szerint módosított szöveg.
+[^6]: A 3. § 8. pontja a 16/2011. (III. 2.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: A 3. § 21. pontja a 16/2011. (III. 2.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^8]: A 3. § 55. pontja a 16/2011. (III. 2.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^9]: A 3. § 58. pontja a 16/2011. (III. 2.) VM rendelet 32. § d) pontja szerint módosított szöveg.
+[^10]: A 3. § 60.2. pontja a 16/2011. (III. 2.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^11]: A 3. § 60.3. pontja a 16/2011. (III. 2.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^12]: A 3. § 60.4. pontja a 16/2011. (III. 2.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^13]: A 3. § 60.5. pontja a 16/2011. (III. 2.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^14]: A 3. § 66. pontját a 16/2011. (III. 2.) VM rendelet 2. § (4) bekezdése iktatta be.

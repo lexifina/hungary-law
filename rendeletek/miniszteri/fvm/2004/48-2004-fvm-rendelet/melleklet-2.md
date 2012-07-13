@@ -250,23 +250,19 @@
 
 | Az ellenőrzések száma: | 2. |
 
-| Az ellenőrzések időpontja: | 1. ellenőrzés bugahányás után 1-2 héttel, |
-
-|  | 2. ellenőrzés aratás előtt. |
+| Az ellenőrzések időpontja: | 1. ellenőrzés bugahányás után 1-2 héttel, 2. ellenőrzés aratás előtt. |
 
 | Elővetemény-korlátozás: | A megelőző évben nem termesztettek azonos vagy rokon fajú növényt. |
 
-| A mintatér nagysága: | 100 m2. |
+| A mintatér nagysága: | 100 m2/ kivéve Fusarium fujikuroi fertőzöttség vizsgálata esetén 200m2* |
 
 | A mintaterek száma: | 20 ha-ig: 4 db, utána minden megkezdett 10 ha után: 2 db. |
 
-| Egyéb követelmények: | Egy kalitkán belül eltérő fajtájú és szaporítási fokú rizs nem szaporítható, kivéve, ha a keveredésmentesség valamely módon megoldható. |
-
-|  | Hibridfajták esetén a szigetelési távolság más rizsfajtáktól 25 méter. |
+| Egyéb követelmények: | Egy kalitkán belül eltérő fajtájú és szaporítási fokú rizs nem szaporítható, kivéve, ha a keveredés mentesség valamely módon megoldható. Hibridfajták esetén a szigetelési távolság más rizsfajtáktól 25 méter. |
 
 | A vizsgálat tárgya | Egység | SE | Elit | I. | II. |
 
-| szaporítási fok |
+|  |  | szaporítási fok |
 
 | 1 | 2 | 3 | 4 | 5 | 6 |
 
@@ -281,6 +277,10 @@
 | Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb vadrizs vagy olyan növény, mely vörös ezüsthártyájú maggal rendelkezik | 0 | 0 | 1 | 1 |
 
 | Gombabetegségek, a mintaterek átlagában, legfeljebb Rizsbarnulás /Bruzóne/ (Pyricularia oryzae) | % | 0,2 | 0,5 | 1 | 1 |
+
+| Fusarium fujikuroi fertőzöttség legfeljebb* | növény db | – | 2 | 4 | 8 |
+
+| Vadon termő vagy vörös magvú növények legfeljebb | növény db | – | 0 | 1 |
 
 ## 4. Fénymag (Phalaris canariensis L.)
 
@@ -414,7 +414,7 @@
 
 |  | A hímsteril anyai szülőn előállított árutermesztés célját szolgáló csöves vetőmagtermést a fertilis analóg csöves termésével a vetőmagüzemben a morzsolást és tisztítást megelőzően legalább 2:1 arányban kell keverni. |
 
-|  | A hímsteril anyai szülőn előállított kukorica vetőmag-előállítás termése önállóan csak az MgSzH írásbeli engedélyével fémzárolható. |
+|  | A hímsteril anyai szülőn előállított kukorica vetőmag-előállítás termése önállóan csak a NÉBIH írásbeli engedélyével fémzárolható. |
 
 |  | Csuhélevéllel teljesen borított csövet nem szabad a végleges válogatószalagra szállítani. A szárítókamrába betárolt minden csőnek legalább 50% mértékben fosztottnak kell lennie. |
 
@@ -1082,7 +1082,7 @@
 
 |  | □ és II. szaporítási fok | 4,0% |
 
-2. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^144]
+2. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^163]
 
 ## A répafélék vetőmagvainak forgalomba hozatali feltételei
 
@@ -1250,4 +1250,4 @@ b) a tömeg feltüntetésénél – ha bármilyen szemcsés növényvédőszer, 
 
 c) monogerm vetőmag esetében a „monogerm”, precíziós vetőmag esetében pedig a „precíziós” megjelölés.
 
-[^144]: A 2. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (1) bekezdése szerint módosított szöveg.
+[^163]: A 2. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (1) bekezdése szerint módosított szöveg.

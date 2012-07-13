@@ -1,4 +1,4 @@
-3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^145]
+3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^164]
 
 A takarmánynövény-vetőmagvak forgalomba hozatali feltételei
 
@@ -1544,4 +1544,4 @@ Megjegyzés: A maximális tételsúlyt 5%-nál nagyobb mértékben nem szabad t�
 
 Megjegyzés: Melilotus spp. megengedett mennyisége SE-E: 0 db/minta; I–II. fok: 0,3%. Rumex spp.: Rumex spp. (Vadsóska fajok) a Rumex acetosella (Juhsóska) kivételével. A herefélék vetőmagjának arankatartalmát mintavételkor a teljes alapmintából külön is meg kell vizsgálni. A nagymagvú hereféléknél (alexandriai here, bíborhere, lucerna, vöröshere, nyúlszapuka, somkóró és tarka koronafürt) az arankavizsgálathoz az 1,12 mm (20-as) rostaalj összes mennyiségét a rosta fölével 400 g-ra kell kiegészíteni. Ha a rostaalj mennyisége 400 g-nál több, akkor is kell a rostaaljhoz még 100 g rostafölet keverni. Az így elkészített mintát finom vasporral összekeverve mágnesgépen kell átereszteni és a mágnesgépről lekerülő aljat arankára megvizsgálni. Arankavizsgálat alkalmával az első életképes arankamag megtalálásakor a vetőmagot arankafertőzöttnek kell nyilvánítani. A csírázóképesség vizsgálat és a biokémiai életképesség vizsgálat alkalmával megállapított keményhéjú és duzzadt magvak mennyiségét (db/100 db) a vetőmag-minősítő bizonyítványon külön is fel kell tüntetni.
 
-[^145]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^164]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított szöveg.

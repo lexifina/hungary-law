@@ -1,8 +1,8 @@
 ## 15. § A vetőmag-szaporítás bejelentése akkor fogadható el, ha
 
-a)[^42] azt a vetőmag-előállító az MgSzH által erre rendszeresített nyomtatványon,
+a)[^48] azt a vetőmag-előállító a NÉBIH által erre rendszeresített nyomtatványon,
 
-b)[^43] a 14. §-ban előírt bejelentési határidőn belül, valamint
+b)[^49] a 14. §-ban előírt bejelentési határidőn belül, valamint
 
 c) a vetőmag származását igazolva nyújtja be, a 19. § szerint,
 
@@ -10,5 +10,5 @@ d) az elit szaporítási foknál alacsonyabb szaporítási fokú vetőmag-előá
 
 e) a vetőmag-előállító 3 évre, de legalább a növényfaj elővetemény korlátozási követelményének megfelelő időtartamra visszamenőleg rendelkezik a vetőmag-előállító tábla nyilvántartásával.
 
-[^42]: A 15. § a) pontja a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.
-[^43]: A 15. § b) pontja a 16/2011. (III. 2.) VM rendelet 9. §-ával megállapított szöveg.
+[^48]: A 15. § a) pontja a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^49]: A 15. § b) pontja a 16/2011. (III. 2.) VM rendelet 9. §-ával megállapított szöveg.

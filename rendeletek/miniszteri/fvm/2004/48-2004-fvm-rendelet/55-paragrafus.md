@@ -1,7 +1,7 @@
-55. § (1)[^130] A fémzárolás, a fémzárolásra való előterjesztés és a feldolgozás során tapasztalt szabálytalanság esetén az MgSzH a feldolgozó üzemben szigorított fémzárolást rendel el, súlyos szabálytalanság estén a fémzárolást meghatározott időre felfüggeszti.
+55. § (1)[^145] A fémzárolás, a fémzárolásra való előterjesztés és a feldolgozás során tapasztalt szabálytalanság esetén a NÉBIH a feldolgozó üzemben szigorított fémzárolást rendel el, súlyos szabálytalanság estén a fémzárolást meghatározott időre felfüggeszti.
 
 (2) Szabálytalanságnak minősül különösen a vetőmag minőségének romlását okozó vetőmagkezelés, a hanyag, illetve hiányos dokumentáció-kezelés, a nem megfelelő adatok közlése.
 
 (3) Súlyos szabálytalanságnak minősül különösen a jogosulatlan, szabálytalan fajtahasználat és minden olyan mulasztás, amely a vetőmag genetikai értékét, fajtaazonosságát hátrányosan befolyásolhatja, továbbá az okmányokkal való visszaélés, hamisítás.
 
-[^130]: Az 55. § (1) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^145]: Az 55. § (1) bekezdése a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
