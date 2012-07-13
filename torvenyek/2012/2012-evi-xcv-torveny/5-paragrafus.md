@@ -1,0 +1,1 @@
+5. § Nem illeti meg a különleges védelem azokat a kulturális javakat, amelyek szerepelnek a Kötv. 71. § f) pontja szerinti nyilvántartásban, vagy velük szemben – jogtalan megszerzésük vagy átruházásuk, illetve jogellenes behozataluk vagy kivitelük miatt – jogszabály vagy nemzetközi szerződés alapján visszaszolgáltatási eljárás van folyamatban.

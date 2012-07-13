@@ -1,0 +1,3 @@
+4. § (1) A különleges védelem a 7. § szerinti tanúsítványban (a továbbiakban: tanúsítvány) foglalt, napokban megállapított időtartam alatt illeti meg a kölcsönzött kulturális javakat, melynek mértéke – a (2) bekezdésben meghatározott kivétellel – nem haladhatja meg a kölcsönzési szerződésben meghatározott időtartamot, de legfeljebb 12 hónapot.
+
+(2) A különleges védelem a kölcsönzött kulturális javaknak a különleges védelem fennállása alatt keletkezett sérülése vagy károsodása (a továbbiakban együtt: sérülés) esetén a helyreállításhoz vagy restauráláshoz (a továbbiakban együtt: restaurálás) szükséges idővel, de legfeljebb – a különleges védelem időtartamának eredeti lejártától számított – 4 hónappal meghosszabbítható a 6. § (3) bekezdésében meghatározottak szerint.
