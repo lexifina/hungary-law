@@ -1,0 +1,1 @@
+178/A. § Mentesek a végrehajtás alól a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott tanúsítványban felsorolt kulturális javak a különleges védelem időtartama alatt.

@@ -1,1 +1,1 @@
-96/B. § A 90. és 91. §-ban felsorolt vagyontárgyak – a 90. § h), l) és m) pontjában felsorolt vagyontárgyak kivételével – csak a természetes személy adósok elleni végrehajtás alól tekinthetők mentesnek.
+96/B. § A 90. és 91. §-ban felsorolt vagyontárgyak – a 90. § h), l), m) és n) pontjában felsorolt vagyontárgyak kivételével – csak a természetes személy adósok elleni végrehajtás alól tekinthetők mentesnek.

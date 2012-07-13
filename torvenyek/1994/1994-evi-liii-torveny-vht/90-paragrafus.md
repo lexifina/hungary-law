@@ -24,7 +24,9 @@ k) az adós és a háztartásához tartozók részére 1 hónapra szükséges é
 
 l) a lábon álló, illetőleg be nem takarított termés, gyümölcs,
 
-m) az a dolog, amelyet a felszámolási eljárás során nem lehet az adós vagyonához tartozóként figyelembe venni.
+m) az a dolog, amelyet a felszámolási eljárás során nem lehet az adós vagyonához tartozóként figyelembe venni,
+
+n) a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott tanúsítványban felsorolt kulturális javak a különleges védelem időtartama alatt.
 
 (2) Ha a foglalásra több ingatlanban kerül sor, az (1) bekezdés e)–g) és k) pontjában meghatározott mentességet csak az – adós nyilatkozata esetén az általa megjelölt – egyik ingatlanban foganatosított foglalás során lehet érvényesíteni.
 
