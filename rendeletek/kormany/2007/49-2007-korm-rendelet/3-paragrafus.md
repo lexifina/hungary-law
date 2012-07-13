@@ -40,15 +40,25 @@ a) az ex-ante hozzájárulás biztosítója: a Nemzeti Fejlesztési Ügynökség
 
 b)[^18] a nemzeti kapcsolattartó pont: a VÁTI.
 
-(6)[^19] Az 1. § (3) bekezdésének l) és m) pontjában meghatározott program vonatkozásában
+(6)[^19] Az 1. § (3) bekezdés l) pontjában meghatározott program vonatkozásában
 
-a)[^20] az ex-ante hozzájárulás biztosítója: a területfejlesztésért és területrendezésért felelős miniszter által vezetett minisztérium;
+a) az ex-ante hozzájárulás biztosítója: a területfejlesztés stratégiai tervezéséért felelős miniszter;
 
-b)[^21] a nemzeti kapcsolattartó pont: az 1. § (3) bekezdés l) pontjában meghatározott program esetén a VÁTI, az 1. § (3) bekezdés m) pontjában meghatározott program esetén a területfejlesztésért és területrendezésért felelős miniszter által vezetett minisztérium;
+b) a nemzeti kapcsolattartó pont: a Nemzetgazdasági Tervezési Hivatal;
 
-c)[^22] az 1080/2006/EK rendelet 16. cikkében foglalt feladat ellátásával megbízott szerv: a VÁTI
+c) az 1080/2006/EK rendelet 16. cikkében foglalt feladat ellátásával megbízott szerv: a VÁTI;
 
-d)[^23] az ellenőri csoport magyar tagja: az Európai Támogatásokat Auditáló Főigazgatóság.
+d) az ellenőri csoport magyar tagja: az Európai Támogatásokat Auditáló Főigazgatóság.
+
+(7)[^20] Az 1. § (3) bekezdés m) pontjában meghatározott program vonatkozásában
+
+a) az ex-ante hozzájárulás biztosítója: a településfejlesztésért és településrendezésért felelős miniszter;
+
+b) a nemzeti kapcsolattartó pont: a VÁTI;
+
+c) az 1080/2006/EK rendelet 16. cikkében foglalt feladat ellátásával megbízott szerv: a VÁTI;
+
+d) az ellenőri csoport magyar tagja: az Európai Támogatásokat Auditáló Főigazgatóság.
 
 [^5]: A 3. § (1) bekezdés b) pontja a 16/2010. (II. 5.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdés c) pontja a 113/2011. (VII. 7.) Korm. rendelet 38. §-a szerint módosított szöveg.
@@ -64,8 +74,5 @@ d)[^23] az ellenőri csoport magyar tagja: az Európai Támogatásokat Auditál�
 [^16]: A 3. § (4) bekezdés c) pontja a 16/2010. (II. 5.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
 [^17]: A 3. § eredeti (4) bekezdésének számozását a 35/2008. (II. 23.) Korm. rendelet 51. § (5) bekezdése (5) bekezdésre változtatta.
 [^18]: A 3. § (5) bekezdés b) pontja a 16/2010. (II. 5.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^19]: A 3. § eredeti (5) bekezdésének számozását a 35/2008. (II. 23.) Korm. rendelet 51. § (5) bekezdése (6) bekezdésre változtatta.
-[^20]: A 3. § (6) bekezdés a) pontja a 16/2010. (II. 5.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^21]: A 3. § (6) bekezdés b) pontja a 16/2010. (II. 5.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^22]: A 3. § (6) bekezdésének c) pontja a 35/2008. (II. 23.) Korm. rendelet 51. § (7) bekezdésével megállapított, a 16/2010. (II. 5.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^23]: A 3. § (6) bekezdésének d) pontja a 35/2008. (II. 23.) Korm. rendelet 51. § (7) bekezdésével megállapított, a 210/2010. (VI. 30.) Korm. rendelet 15. § (5) bekezdése szerint módosított szöveg.
+[^19]: A 3. § (6) bekezdése a 154/2012. (VII. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^20]: A 3. § (7) bekezdését a 154/2012. (VII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
