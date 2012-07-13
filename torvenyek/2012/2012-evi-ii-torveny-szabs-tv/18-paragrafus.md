@@ -25,3 +25,5 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 (4) Az elkobzott dolog tulajdonjoga az államra száll.
 
 (5) Nincs helye elkobzás elrendelésének, ha a cselekmény elkövetése óta két év eltelt, kivéve, ha az elkobzás tárgyának birtoklása jogellenes.
+
+(6) Nincs helye az elkobzás foganatosításának a kölcsönzött kulturális javak különleges védelméről szóló törvény szerinti védelem esetén a különleges védelem időtartama alatt.
