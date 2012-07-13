@@ -1,0 +1,1 @@
+## „(4) A településfejlesztésért és településrendezésért felelős miniszter vagy az általa írásban kijelölt személy a Nemzeti Bizottság jóváhagyását követően, illetve véleményeltérés fennmaradása esetén a Kormány jóváhagyását követően megköti az 1. § (3) bekezdés m) pontjában meghatározott programokban a külföldi székhelyű irányító hatósággal az egyetértési nyilatkozatot.”
