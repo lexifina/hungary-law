@@ -18,4 +18,6 @@ b) aki szülési szabadságát tölti, valamint
 
 c) aki betegállományban van.
 
-(6) Az igényjogosult a Hszt. 43. §-a alapján más szervhez történő vezénylése esetén az ellátást az állományilletékes szerv és a vezénylés helye szerinti szerv megállapodása alapján kell folyósítani.
+(6)[^20] Az igényjogosult a Hszt. 43. §-a alapján más szervhez történő vezénylése esetén az ellátást az állományilletékes szerv és a vezénylés helye szerinti szerv megállapodása alapján kell folyósítani. Amennyiben nem születik megállapodás, abban az esetben a ruházati utánpótlási ellátmány kifizetése az állományilletékes szervet terheli.
+
+[^20]: A 25. § (6) bekezdése a 35/2012. (VII. 13.) BM rendelet 8. §-ával megállapított szöveg.

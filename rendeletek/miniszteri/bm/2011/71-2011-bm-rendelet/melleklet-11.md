@@ -4,7 +4,7 @@
 
 | 1. | Szövetsapka (pilotka), sötétkék, szerelve | db | 1 |
 
-| 2. | Szolgálati téli sapka | db | 1 |
+| 2. | 12M e. r. téli sapka* | db | 1 |
 
 | 3. | 10M e. rendészeti gyakorló dzseki, felirattal | db | 1 |
 
@@ -12,27 +12,19 @@
 
 | 5. | 10M e. rendészeti gyakorlózubbony, felirattal | db | 1 |
 
-| 6. | Kötött kesztyű | pár | 1 |
+| 6. | 10M e. rendészeti gyakorló bakancs | pár | 1 |
 
-| 7. | 10M e. rendészeti gyakorló bakancs | pár | 1 |
+| 7. | Gyakorló póló | db | 4 |
 
-| 8. | Gyakorló póló | db | 4 |
+| 8. | Szolgálati derékszíj, fekete | db | 1 |
 
-| 9. | Szolgálati derékszíj, fekete | db | 1 |
+| 9. | Hímzett tépőzáras rendfokozati jelzés (hallgatói, tanulói karlap) | db | 3 |
 
-| 10. | Nyári zokni | pár | 4 |
+| 10. | Karjelvény | db | 3 |
 
-| 11. | Téli zokni | pár | 4 |
+| 11. | Esőgallér | db | 1 |
 
-| 12. | Hímzett tépőzáras rendfokozati jelzés (hallgatói, tanulói karlap) | db | 3 |
-
-| 13. | Karjelvény | db | 3 |
-
-| 14. | Esőgallér | db | 1 |
-
-| 15. | Téli alsó | db | 1 |
-
-| 16. | Téli ing | db | 1 |
+## * Csak a rendszeresítést követően adható ki.
 
 ## 2. A szakközépiskolák tanulói állománya részére egységfelszerelésként 1 db málhazsákot és 1 db jó láthatósági mellényt kell kiadni.
 
@@ -56,6 +48,14 @@
 
 | 8. | Pulóver |
 
+| 9. | Kötött kesztyű |
+
+| 10. | Zokni |
+
+| 11. | Téli alsó |
+
+| 12. | Téli ing |
+
 ## 4. A rendészeti szakközépiskolák tanulói állománya által megengedett öltözetként viselhető egyenruházati termékek
 
 | Sorszám | Megnevezés |
@@ -73,5 +73,13 @@
 | 6. | Bakancs |
 
 | 7. | Póló |
+
+| 8. | Kötött kesztyű |
+
+| 9. | Zokni |
+
+| 10. | Téli alsó |
+
+| 11. | Téli ing |
 
 11. melléklet a 71/2011. (XII. 31.) BM rendelethez

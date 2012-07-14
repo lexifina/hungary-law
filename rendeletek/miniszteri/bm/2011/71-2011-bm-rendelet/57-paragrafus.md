@@ -6,4 +6,6 @@
 
 (3) A büntetés-végrehajtási szervezetnél rendszerben lévő felöltő gallérján parolit kell viselni.
 
-(4) A hivatásos állományú tagok, amennyiben a ruházati normájukban nem szerepel – megengedett öltözetként – egységes, sötétkék színű társasági egyenruházatot viselhetnek. A Köztársasági Őrezred állománya részére a társasági sapka és a társasági női kalap, illetve a társasági zubbony és a társasági kosztümkabát palackzöld színű, a társasági pantalló és a társasági szoknya fekete színű.
+(4)[^24]
+
+[^24]: Az 57. § (4) bekezdését a 35/2012. (VII. 13.) BM rendelet 14. § b) pontja hatályon kívül helyezte.

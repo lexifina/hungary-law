@@ -10,7 +10,9 @@ d) szakmai véleményt ad az ellátás, gazdálkodás során felmerülő vitás 
 
 e) figyelemmel kíséri a szabályzatok, szakmai utasítások végrehajtását;
 
-f) nyilvántartja a ruházati anyagok és felszerelési cikkek műszaki leírásait.
+f) nyilvántartja a ruházati anyagok és felszerelési cikkek műszaki leírásait;
+
+g)[^4] meghatározza a ruházati fejlesztés irányát, jóváhagyja és felügyeli a Központi Beszerző és Ellátó Szerv, valamint a középfokú szakirányító szerv fejlesztéseit.
 
 (2) A ruházati szakszolgálat középfokú szakirányító szervezeti egysége:
 
@@ -22,13 +24,13 @@ c) megtervezi az igényjogosult állomány ellátási szükségleteit, elkészí
 
 d) gondoskodik az igényjogosultak egyenruházatának és felszerelési cikkeinek folyamatos biztosításáról, forgalmazásáról, ennek érdekében saját üzemeltetésű egyenruházati bolto(ka)t hoz létre, vagy szerződést köt – cikkeinek forgalmazására, valamint méretre készítésére – az egyenruházati bolto(ka)t és a méretes ruhákat, valamint lábbeliket készítő egysége(ke)t üzemeltető szervekkel, cégekkel;
 
-e) szabályozza a saját üzemeltetésű egyenruházati bolt(ok) működési rendjét, valamint minden év november 30-áig elkészíti és megküldi a Beszerző Szerv részére az ellátáshoz és a bolt(ok) üzemeltetéséhez szükséges következő évi cikkenkénti igénybejelentést;
+e)[^5] szabályozza a saját üzemeltetésű egyenruházati bolt(ok) működési rendjét, valamint minden évben elkészíti és megküldi a Központi Beszerző és Ellátó Szerv és a Beszerző Szerv részére az ellátáshoz és a bolt(ok) üzemeltetéséhez szükséges következő évi cikkenkénti igénybejelentést;
 
 f) a szervezeti és működési szabályzatban meghatározottak szerint irányítja és ellenőrzi a saját üzemeltetésű egyenruházati bolt(ok) tevékenységét;
 
 g) a Központi Beszerző és Ellátó Szervtől és a Beszerző Szervtől folyamatosan igényli a saját üzemeltetésű egyenruházati bolt működéséhez szükséges egyenruházati és felszerelési cikkeket;
 
-h) minden év december 31-éig kialakítja és az érintett szerveknek megküldi a következő évre érvényes bolti árjegyzéket;
+h)[^6] kialakítja és az érintett szerveknek megküldi a következő évre érvényes bolti árjegyzéket;
 
 i) meghatározza a központi beszerzésű ruházati termékeken kívüli termékek körét, méretmegoszlását; ellátja a központi beszerzésű termékeken kívül, a közbeszerzési törvényben, más jogszabályokban, illetve a közjogi szervezetszabályozó eszközökben foglaltak szerint az egyenruházati termékek és felszerelési cikkek beszerzését, valamint tárolását, kiadását;
 
@@ -36,7 +38,9 @@ j) a szolgálati követelmények változásainak megfelelően kezdeményezi a ru
 
 k) irányítja a ruházati szakszolgálat végrehajtó szervezeti egysége szakmai továbbképzését;
 
-l) meghatározza a ruházati szolgálatoknak – az e rendeletben nem szabályozott – feladatait.
+l) meghatározza a ruházati szolgálatoknak – az e rendeletben nem szabályozott – feladatait;
+
+m)[^7] összeállítja a ruházati termékek fejlesztési javaslatait, a felsőfokú szakirányító szerv jóváhagyása esetén intézkedik a fejlesztések lebonyolításáról.
 
 (3) A ruházati szakszolgálat végrehajtó szervezeti egysége:
 
@@ -78,7 +82,9 @@ i) ellátja a központi beszerzésből biztosított ruházati termékek és fels
 
 j) a hivatásos állomány alap- és utánpótlási egyenruházati igényeinek biztosítása érdekében egyenruházati bolto(ka)t üzemeltet és készletgazdálkodást folytat;
 
-k) a hivatásos állomány utánpótlási egyenruházati igényeinek biztosítása érdekében csomagküldő szolgáltatást üzemeltethet.
+k) a hivatásos állomány utánpótlási egyenruházati igényeinek biztosítása érdekében csomagküldő szolgáltatást üzemeltethet;
+
+l)[^8] összeállítja a ruházati termékek fejlesztési javaslatait, a felsőfokú szakirányító szerv jóváhagyása esetén intézkedik a fejlesztések lebonyolításáról.
 
 (6) A Beszerző Szerv feladatai:
 
@@ -107,3 +113,9 @@ k) a Beszerző Szerv feladatait részben vagy egészben másik – e rendelet ha
 l) a Beszerző Szerv az éves igénybejelentés alapján igényli a Központi Beszerző és Ellátó Szervtől a központi beszerzési és ellátási körbe vont ruházati és felszerelési anyagokat.
 
 (7) A központi szervnél működő ruházati szakszolgálati szervezeti egység folyamatosan karban tartja a ruházati termékek és felszerelési cikkek műszaki leírásait.
+
+[^4]: A 11. § (1) bekezdés g) pontját a 35/2012. (VII. 13.) BM rendelet 2. § (1) bekezdése iktatta be.
+[^5]: A 11. § (2) bekezdés e) pontja a 35/2012. (VII. 13.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^6]: A 11. § (2) bekezdés h) pontja a 35/2012. (VII. 13.) BM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^7]: A 11. § (2) bekezdés m) pontját a 35/2012. (VII. 13.) BM rendelet 2. § (4) bekezdése iktatta be.
+[^8]: A 11. § (5) bekezdés l) pontját a 35/2012. (VII. 13.) BM rendelet 2. § (5) bekezdése iktatta be.

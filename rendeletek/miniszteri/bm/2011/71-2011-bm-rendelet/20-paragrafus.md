@@ -6,7 +6,7 @@
 
 (3) Az igényjogosultak alapellátási normába való besorolása a szolgálati beosztás alapján történik. A ruházati normába történő besorolásról mindig az érvényes állománytábla alapján kell határozni. Eltérő beosztásban történő foglalkoztatás esetében a ruházati normába történő besorolásról az állományilletékes parancsnok határoz. A ruházati normába történő besorolásról, átsorolásról, átminősítésről az állományilletékes parancsnok állományparancsban intézkedik.
 
-(4) Az alapellátást az állományparancs alapján kell kiadni. Ettől eltérni csak az állományilletékes parancsnok írásbeli engedélye alapján lehet (pl. takarékossági megfontolásból az egyenruhás normába kinevezettet, ha felszereléskor már ismert, hogy rövid időn belül vegyes vagy polgári ruhás normába kerül, e normák alapján is fel lehet szerelni).
+(4)[^10] Az alapellátást a kinevezési állományparancs alapján kell kiadni. Ettől eltérni csak az állományilletékes parancsnok írásbeli engedélye alapján lehet.
 
 (5) Az alapellátásra való igényjogosultság kezdő időpontja az új kinevezés esetén az állományparancsban meghatározott időpont.
 
@@ -20,4 +20,7 @@ b) az az áthelyezett, aki a fogadó szervnél rendszerben lévő egyik ruházat
 
 (8) Ha az új felszerelők a ruházati utalványfüzetben jóváírt forintösszeg felhasználásáról a ruházati szakszolgálat felé – az erre kijelölt időn belül a vásárlást, anyagkiadást bizonyító dokumentum bemutatásával – nem számolnak el, abban az esetben az el nem számolt összeg forintértékét túlellátásként kell számukra előjegyezni és azt az esedékessé váló ruházati utánpótlási ellátmányból le kell vonni.
 
-(9) A teljes alapellátásra igényjogosult egyen- és vegyes ruhás állomány, a terhelés időpontjától számított 12 hónapon belül a 8. melléklet szerinti csökkentett alapellátási normában részesül. Az alapellátás kiegészítést a 12 hónap letöltését követően kell biztosítani. Az ettől való eltérésre az önálló szerv vezetőjének írásos engedélye alapján kerülhet sor.
+(9)[^11] A teljes alapellátásra igényjogosult egyen- és vegyes ruhás állomány, a terhelés időpontjától számított 12 hónapon belül csökkentett alapellátási normában részesül. Az alapellátás kiegészítést a 12 hónap letöltését követően kell biztosítani. Az ettől való eltérésre az önálló szerv vezetőjének írásos engedélye alapján kerülhet sor.
+
+[^10]: A 20. § (4) bekezdése a 35/2012. (VII. 13.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^11]: A 20. § (9) bekezdése a 35/2012. (VII. 13.) BM rendelet 4. § (2) bekezdésével megállapított szöveg.

@@ -8,9 +8,9 @@
 
 | Sorszám | Termék megnevezés | Me. | Mennyiség | Mennyiség |
 
-| 1 | Társasági tányérsapka, sötétkék, szerelve | db | 2 |  |
+| 1 | Társasági tányérsapka, sötétkék, szerelve | db | 1 |  |
 
-| 2 | Társasági női kalap, sötétkék, szerelve | db |  | 2 |
+| 2 | Társasági női kalap, sötétkék, szerelve | db |  | 1 |
 
 | 3 | Társasági felöltő, férfi, sötétkék, szerelve | db | 1 |  |
 
@@ -24,38 +24,30 @@
 
 | 8 | Nyaksál, sötétkék | db | 1 | 1 |
 
-| 9 | Szolgálati nyakkendő, sötétkék | db | 2 | 2 |
+| 9 | Szolgálati nyakkendő, sötétkék | db | 1 | 1 |
 
-| 10 | Szolgálati, nyári zokni, sötétkék | db | 2 | 2 |
+| 10 | Szolgálati bőrkesztyű, fekete | pár | 1 | 1 |
 
-| 11 | Szolgálati bőrkesztyű, fekete | pár | 1 | 1 |
+| 11 | Félcipő, normál bőrtalpú, fekete | pár | 1 |  |
 
-| 12 | Félcipő, normál bőrtalpú, fekete | pár | 1 |  |
+| 12 | Félcipő, ünnepi, fekete | pár |  | 1 |
 
-| 13 | Félcipő, ünnepi, fekete | pár |  | 1 |
+| 13 | Női csizma fekete | pár |  | 1 |
 
-| 14 | Női csizma fekete | pár |  | 1 |
+| 14 | Társasági nadrágszíj fekete | db | 1 | 1 |
 
-| 15 | Nadrágszíj fekete | db | 1 | 1 |
+| 15 | Fehér ing, hosszú ujjú, vállpántos | db | 2 | 2 |
 
-| 16 | Fehér ing, hosszú ujjú, vállpántos | db | 2 | 2 |
+| 16 | Váll-lap tábornoki szerelve | pár | 2 | 2 |
 
-| 17 | Fehér ing, rövid ujjú, vállpántos | db | 2 | 2 |
+| 17 | Karjelvény | db | 2 | 2 |
 
-| 18 | Váll-lap tábornoki szerelve | pár | 4 | 4 |
+| 18 | Ingblúz hosszú ujjú világoskék | db | 1 | 1 |
 
-| 19 | Szövött kitüntetési szalagsáv | klt. | 2 | 2 |
+| 19 | Ingblúz rövid ujjú világoskék | db | 1 | 1 |
 
-| 20 | Karjelvény | db | 2 | 2 |
+| * A tábornoki állomány alapellátási normabesorolása vegyes ruhás norma. |
 
-| 21 | Téli pantalló sötétkék | db | 1 | 1 |
+7–9. melléklet a 71/2011. (XII. 31.) BM rendelethez[^32]
 
-| 22 | Ingblúz hosszú ujjú világoskék | db | 2 | 2 |
-
-| 23 | Ingblúz rövid ujjú világoskék | db | 2 | 2 |
-
-| 24 | Szolgálati téli zokni, sötétkék | db | 2 | 2 |
-
-## * A tábornoki állomány alapellátási normabesorolása vegyes ruhás norma.
-
-7. melléklet a 71/2011. (XII. 31.) BM rendelethez
+[^32]: A 7–9. mellékletet a 35/2012. (VII. 13.) BM rendelet 14. § e)–g) pontja hatályon kívül helyezte.

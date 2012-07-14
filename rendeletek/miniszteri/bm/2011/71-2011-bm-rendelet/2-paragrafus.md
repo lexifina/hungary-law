@@ -12,7 +12,7 @@ d) ruházati szakszolgálat: az önálló szervek ruházati ellátásban illeté
 
 e) ruházati termékek és felszerelési cikkek:
 
-ea) a hivatásos állomány egyenruházati termékei (felsőruházat, alsóruházat, lábbeli, sapka, ékítmények, valamint személyi felszerelés), ezek alap- és kellékanyagai,
+ea)[^1] a hivatásos állomány egyenruházati termékei (felsőruházat, alsóruházat, lábbeli, sapka, ékítmények, ruházati kiegészítők, valamint személyi felszerelés), ezek alap- és kellékanyagai,
 
 eb) a speciális szolgálati egyenruházat,
 
@@ -30,7 +30,7 @@ f) a szolgálati feladatokhoz igazodóan az alapellátási norma:
 
 fa) egyenruhás alapellátási norma, amely kizárólag egyenruházati termékeket és felszerelési cikkeket tartalmaz és e normába besoroltak szolgálati feladataikat egyenruhában látják el,
 
-fb) vegyes ruhás alapellátási norma, amely az egyenruházati termékeken és felszerelési cikkeken túl meghatározott összegű – polgári ruházat vásárlását szolgáló – ruhapénzt is tartalmazhat, amely normába besoroltak szolgálati feladatok ellátása során polgári ruházatot és egyenruházatot is viselhetnek,
+fb)[^2] vegyes ruhás alapellátási norma, amely egyenruházati és felszerelési cikkeket tartalmaz és e normába besoroltak szolgálati feladataik során polgári ruházatot és egyenruházatot is viselhetnek,
 
 fc) polgári ruhás alapellátási norma, amely a hivatásos állomány esetében gyakorló ruházatot és polgári ruhapénzt vagy csak polgári ruhapénzt tartalmaz és az ide sorolt igényjogosultak alapvetően polgári ruházatban teljesítenek szolgálatot,
 
@@ -63,3 +63,6 @@ l) Központi Beszerző és Ellátó Szerv: a központosított ellátásba vont t
 m) Beszerző Szerv: a Központi Beszerző és Ellátó Szerv által a központosított ellátásba be nem vont termékek beszerzését végző szerv, amely az Országos Rendőr-főkapitányság, a Terrorelhárítási Központ, a Büntetés-végrehajtás Országos Parancsnoksága, az Országos Katasztrófavédelmi Főigazgatóság és az NKE-RTK;
 
 n) ruházati bolt: az igényjogosult állomány ruházati ellátását biztosító, a felsőfokú és a középfokú szakirányító szerv által működtetett, valamint szerződéses viszonyban lévő gazdálkodó egység, továbbá a Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt. (a továbbiakban: BMSK Zrt.).
+
+[^1]: A 2. § e) pont ea) alpontja a 35/2012. (VII. 13.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § f) pont fb) alpontja a 35/2012. (VII. 13.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
