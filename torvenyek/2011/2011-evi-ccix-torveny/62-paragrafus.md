@@ -12,6 +12,6 @@ b) figyelembe kell venni a folyamatos és biztonságos víziközmű-szolgáltat�
 
 (2) A víziközmű-szolgáltatás díjában csökkentő tényezőként kell figyelembe venni a víziközmű-szolgáltatás teljesítéséhez biztosított, a költségek ellentételezésére kapott költségvetési és önkormányzati támogatásokat.
 
-(3) A víziközmű-szolgáltatás díjának felhasználó általi pénzügyi teljesítésével együtt járó, a víziközmű-szolgáltatónál felmerülő indokolt költségek a díjmegállapításnál költségnövelő tényezőként nem vehetők figyelembe, azok a felhasználó által alkalmazott fizetési megoldástól függően külön tételként érvényesíthetők.
+(3)
 
 (4) Egyesített csapadékvíz- és szennyvízelvezető rendszerek tekintetében, a csapadékvíz-elvezetés költségei a szennyvízelvezetés és -tisztítás díjában térülnek meg.

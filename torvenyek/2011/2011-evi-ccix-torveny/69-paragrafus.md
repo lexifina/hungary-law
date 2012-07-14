@@ -2,7 +2,7 @@
 
 69. § (1) A nem lakossági felhasználó a víziközmű-szolgáltatóval kötött szerződésben foglaltak szerint a víziközmű-szolgáltató részére víziközmű-fejlesztési hozzájárulást fizet
 
-a) közüzemi szerződés kötés esetében a víziközmű-szolgáltatásba bekapcsolni kívánt ingatlanhoz biztosítandó szolgáltatási kapacitásért,
+a) közüzemi szerződéses jogviszony esetében a felhasználási helyen biztosítandó szolgáltatási kapacitásért,
 
 b) a víziközmű-szolgáltatásba bekapcsolt ingatlanhoz biztosított kapacitás általa kezdeményezett bővítéséért, továbbá
 

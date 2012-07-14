@@ -4,7 +4,7 @@
 
 a) megtiltja a jogszabálysértő díj további alkalmazását, és kötelezi a víziközmű-szolgáltatót a jogszerű ellenérték alkalmazására,
 
-b) kötelezi a víziközmű-szolgáltatót a rendelkezések megsértésével elért többletbevétel jegybanki alapkamat tárgyévi éves átlagával növelt összegének
+b) kötelezi a víziközmű-szolgáltatót a rendelkezések megsértésével elért többletbevétel és az azzal érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamat kétszeres összegének megfelelő kamatnak
 
 ba) a sérelmet szenvedett fél részére történő visszatérítésére, vagy
 

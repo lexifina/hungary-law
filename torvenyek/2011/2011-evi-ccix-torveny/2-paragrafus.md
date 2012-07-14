@@ -2,17 +2,17 @@
 
 2. § E törvény alkalmazásában:
 
-1. átadási pont: olyan víziközmű, amely beépített mérőberendezés, elzárószerelvény és mintavételi lehetőség útján biztosítja két víziközmű-rendszer kapcsolatát, valamint az összekapcsolt víziközmű-rendszerek üzemeltetése során az ivóvízátadás, -átvétel és a szennyvízátadás, -átvétel mennyiségi és minőségi elszámolásának műszaki feltételeit.
+1. átadási pont: olyan víziközmű, amely beépített mérőberendezés, elzárószerelvény és mintavételi lehetőség útján biztosítja két víziközmű-rendszer kapcsolatát, valamint az összekapcsolt víziközmű-rendszerek üzemeltetése során az ivóvízátadás, -átvétel és a szennyvízátadás, -átvétel mennyiségi és minőségi elszámolásának műszaki feltételeit,
 
 2. bekötési vízmérő: a felhasználási hely ivóvízhasználatának mérésére szolgáló, az ivóvíz-bekötővezeték végpontjára telepített mérő,
 
-3. csatlakozó ivóvízhálózat: több felhasználási hely ivóvízét az ivóvíz-bekötővezeték végpontjától a házi ivóvízhálózatokba szállító vízvezeték-hálózat, amely az érintett felhasználási helyek közös tartozékát képezi,
+3. csatlakozó hálózat: több felhasználási hely ivóvízét az ivóvíz-bekötővezeték végpontjától a házi ivóvízhálózatokba szállító vízvezeték-hálózat (csatlakozó ivóvízhálózat), vagy több felhasználási hely szennyvizét a házi szennyvízhálózatból a szennyvíz-bekötővezeték végpontjáig szállító vezeték-hálózat (csatlakozó szennyvízhálózat), amely az érintett felhasználási helyek szerinti ingatlantulajdonosok közös tulajdonát képezi,
 
 4. ellátási terület: olyan, települési közigazgatási területtel vagy területekkel egyértelműen behatárolható terület, amelyen belül a felhasználók részére az adott víziközmű-szolgáltatást ugyanaz a víziközmű-szolgáltató végzi,
 
 5. felhasználási hely: az a víziközmű-szolgáltatásba bekapcsolt ingatlan, amelyen a víziközmű-szolgáltatást a felhasználó igénybe veszi,
 
-6. felhasználó: a víziközmű-szolgáltatást e törvény szerinti szerződéses jogviszony keretében igénybe vevő természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki (amely) a víziközmű-szolgáltatásba bekapcsolt ingatlan tulajdonosa, vagy azt egyéb jogcímen használja,
+6. felhasználó: a víziközmű-szolgáltatást e törvény szerinti szerződéses jogviszony keretében igénybe vevő természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki (amely) a víziközmű-szolgáltatásba bekapcsolt ingatlan használója, és sorban mögötte az ingatlan tulajdonosa,
 
 7. felhasználói egyenérték: olyan mutatószám, amely a víziközmű-szolgáltatást igénybe vevő felhasználók számosságát – víziközmű-szolgáltatási ágazatonként, a felhasználók kapacitás igényeire figyelemmel – az 1. melléklet szerinti képlet alapján egységesen fejezi ki,
 
@@ -34,11 +34,11 @@ b) bekötési vízmérő hiányában az ivóvíz-törzshálózattól a közterü
 
 12. ivóvíz-törzshálózat: olyan a víziközmű-rendszer részét képező hálózat, amely az ivóvíz-főnyomóvezetékből, az erre kapcsolt elosztóvezetékekből és ezek berendezéseiből áll,
 
-13. kiszervezés: víziközmű-működtetés egy részének a víziközmű-szolgáltatótól eltérő, más személlyel történő elvégeztetése,
+13. kiszervezés: a víziközmű-üzemeltetés egy részének a víziközmű-szolgáltatótól eltérő, más személlyel történő elvégeztetése,
 
 14. közműfejlesztési kvóta: víziközmű-szolgáltatásba bekapcsolt vagy bekapcsolni kívánt ingatlanhoz a víziközmű-szolgáltató által a közműfejlesztési hozzájárulás fizetésére kötelezett részére biztosított vagy biztosítandó kapacitás, amelynek mértékegysége: m3/nap,
 
-15. lakossági felhasználó: az a természetes személy felhasználó, aki a víziközmű-szolgáltatást nem jövedelemszerző gazdasági tevékenységhez veszi igénybe, valamint a társasház és a lakásszövetkezet,
+15. lakossági felhasználó: az a természetes személy felhasználó, aki nem jövedelemszerző gazdasági tevékenység keretében, saját háztartása, üdülő vagy hétvégi ház, garázs ellátása érdekében veszi igénybe a víziközmű szolgáltatást, valamint a társasház és a lakásszövetkezet,
 
 16. mellékvízmérő: a bekötési vízmérő után beépített, elkülönített ivóvízhasználat mérésére szolgáló mérő,
 
@@ -50,26 +50,36 @@ b) bekötési vízmérő hiányában az ivóvíz-törzshálózattól a közterü
 
 20. víziközmű: olyan közcélú vízilétesítmény, amely
 
-a) valamely település vagy települések közműves ivóvízellátását, ezen belül a ivóvíztermelést, az ehhez kapcsolódó ivóvízbázis-védelmet, az ivóvízkezelést, -tárolást, -szállítást és -elosztást, és
+a) település vagy települések közműves ivóvízellátását, ezen belül az ivóvíztermelést, az ehhez kapcsolódó ivóvízbázis-védelmet, az ivóvízkezelést, -tárolást, -szállítást és -elosztást, felhasználási helyekre történő eljuttatást, mindezekhez kapcsolódóan a tűzivíz biztosítását vagy
 
-b) a közműves szennyvízelvezetés során (egyesített rendszer esetén a csapadékvíz-elvezetést is ideértve) a szennyvíz összegyűjtését, elvezetését, tisztítását, a tisztított szennyvíz hasznosítását, elhelyezését
+b) a közműves szennyvízelvezetés során (egyesített rendszer esetén a csapadékvíz-elvezetést is ideértve) a szennyvíz felhasználási helyekről történő összegyűjtését, elvezetését, tisztítását, a tisztított szennyvíz hasznosítását, elhelyezését
 
 szolgálja,
 
-21. víziközmű-fejlesztés: új víziközmű létesítésével, meglévő víziközmű felújításával és bővítésével kapcsolatos tevékenységek összessége,
+21. víziközmű-fejlesztés: víziközműre irányuló olyan beruházási vagy felújítási tevékenység, mely célja szerint új víziközmű létesítését, a meglévő víziközmű bővítését, rekonstrukcióját és pótlását is magába foglalhatja,
 
 22. víziközmű-működtetés: a víziközmű üzemeltetésével, valamint a víziközmű-fejlesztéssel kapcsolatos tevékenységek összessége,
 
-23. víziközmű-rendszer: víziközművek olyan összefüggő, szigetüzemben működő vagy átadási pontokkal egyértelműen körülhatárolható rendszere, mely önmagában vagy átadási ponton keresztül történő ivóvízátvétellel vagy szennyvíztovábbítással kiegészülve – ideértve a víziközműves kapcsolódó szolgáltatást – képes biztosítani a víziközmű-szolgáltatás műszaki feltételeit,
+23. víziközmű-rendszer: a víziközművek olyan egybefüggő struktúrája, amely:
 
-24. víziközmű-szolgáltatás: a közműves ivóvízellátás, a közműves szennyvízelvezetés és -tisztítás, valamint az egyesített rendszerű csapadékvíz-elvezetés (a továbbiakban együtt: víziközmű-szolgáltatási ágazatok) közül egy vagy több, a víziközmű-szolgáltató által a felhasználók részére nyújtott szolgáltatás,
+a) önállóan, kizárólag egy település ellátását biztosítja (szigetüzem),
+
+b) önállóan, több település ellátását is szolgálja, és rajta a tulajdoni viszonyok azonosak,
+
+c) átadási pontokkal egyértelműen körülhatárolt, a kapcsolódó szolgáltatás nyújtását is, vagy kizárólagosan azt biztosítja,
+
+d) átadási pontokkal egyértelműen körülhatárolt, kapcsolódó szolgáltatással kiegészülve egy településre nézve, vagy azonos tulajdoni viszonyok mellett több településre nézve, képes biztosítani a víziközmű-szolgáltatás műszaki feltételeit,
+
+24. víziközmű-szolgáltatás: a közműves ivóvízellátás az ahhoz kapcsolódó tűzivíz biztosítással, továbbá a közműves szennyvízelvezetés és -tisztítás, ide értve az egyesített rendszerű csapadékvíz-elvezetést is, mely tevékenységek által megnyilvánuló szolgáltatások közül az egyiket, vagy mindkettőt a víziközmű-szolgáltató a felhasználó részére közüzemi jogviszony keretében nyújtja (a továbbiakban együtt: víziközmű-szolgáltatási ágazatok),
 
 25. víziközmű-szolgáltatásba bekapcsolt ingatlan: az az ingatlan vagy ingatlanrész
 
 a) amelyen legalább egy olyan vízvételi hely található, amely a közműves ivóvízellátásra lehetőséget kínál, vagy
 
-b) amelyről a keletkező szennyvizet részben vagy egészben szennyvíz-bekötővezetéken keresztül a szennyvízhálózatba vezetik be,
+b) amelyen a keletkező szennyvíz részben, vagy egészben történő elvezetése érdekében a szennyvíz-bekötővezeték, vagy a szennyvíz bekötővezeték és a csatlakozó szennyvízhálózat kiépült,
 
 26. víziközmű üzemeltetése: a víziközmű-szolgáltatás nyújtása céljából a víziközmű-szolgáltató által végzett mindazon tevékenységek összessége, amelyek a jogszabályokban és az üzemeltetési szerződésben előírt követelmények teljesítése érdekében okszerűen merülnek fel, különösen a víziközmű műszaki értelemben vett napi üzemben tartása, karbantartása és javítása, közüzemiszerződés-kötés, számlázás, ügyfélszolgálat működtetése,
 
-27. víziközműves kapcsolódó szolgáltatás: szerződés alapján a víziközmű-szolgáltató által más víziközmű-szolgáltató részére nyújtott ivóvíz-értékesítési vagy szennyvízelvezetési és -tisztítási szolgáltatás.
+27. víziközműves kapcsolódó szolgáltatás: szerződés alapján a víziközmű-szolgáltató által más víziközmű-szolgáltató részére nyújtott ivóvíz-értékesítési vagy szennyvízelvezetési és -tisztítási szolgáltatás,
+
+28. holding: a számvitelről szóló törvény szerint anyavállalatnak és leányvállalatnak minősülő társaságok együttese, ahol az anyavállalat egyidejűleg megfelel a nemzeti vagyonról szóló törvény tulajdonosi joggyakorlóval szemben támasztott követelményeinek is.
