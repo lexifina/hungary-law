@@ -1,8 +1,14 @@
-## 15. §[^65]
+## 15. §[^70]
 
 ## Támogatási kérelem benyújtása
 
-16. §[^66] (1)[^67] Támogatási kérelem 2009-ben június 1. és július 25. között, azt követően pedig évente június 1. és június 30. között nyújtható be elektronikus úton. A támogatási kérelem mellékleteit írott formában, postai úton kell benyújtani, az elektronikusan benyújtott kérelemmel azonos támogatási kérelem benyújtási időszakban az ügyfél lakhelye/székhelye szerint illetékes Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) kirendeltséghez.
+16. §[^71] (1)[^72] A támogatási kérelem
+
+a) 2012-ben június 1. és július 25 között,
+
+b) 2013-ban június 1. és június 30. között
+
+elektronikus úton nyújtható be. A támogatási kérelem mellékleteit az adott támogatási kérelem benyújtására irányadó időszakban az ügyfél lakhelye/székhelye szerint illetékes Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) kirendeltségéhez papír alapon, postai úton kell benyújtani.
 
 (2) Az elektronikus kérelembenyújtás technikai feltételeit az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendelet (a továbbiakban: 80/2008. Korm. rendelet) 2. § (1)–(5) bekezdései és 3. §-a szabályozzák.
 
@@ -10,7 +16,7 @@
 
 a) ügyfél-azonosítási információk;
 
-b)[^68] a blokkazonosító, az intézkedés azonosító, a területméret adatok, a beruházás méretére vonatkozó adatok és a helyrajzi számok.
+b)[^73] a blokkazonosító, az intézkedés azonosító, a területméret adatok, a beruházás méretére vonatkozó adatok és a helyrajzi számok.
 
 (4) A támogatási kérelemben fel kell tüntetni, hogy
 
@@ -24,7 +30,7 @@ c) a 3. § (2) bekezdésének b) pontja szerinti intézkedés esetében hány da
 
 (5) A támogatási kérelemhez mellékelni kell:
 
-a) a beruházással érintett ingatlanra vonatkozó 30 napnál nem régebbi hiteles tulajdoni lap-másolatot;
+a)[^74]
 
 b) azt a teljes bizonyító erejű okiratot, amely igazolja, hogy az ügyfél jogosult a beruházást az okiratban feltüntetett ingatlanon megvalósítani és az ingatlant az 5. § (7) bekezdésében szereplő időszakok végéig használni, abban az esetben ha a beruházás nem saját tulajdonú, vagy más személy olyan jogával terhelt ingatlanon valósul meg, mely a beruházás megvalósítását, illetve a fenntartási kötelezettség lejártáig annak használatát korlátozza vagy kizárja;
 
@@ -50,10 +56,14 @@ g) madárvédelmi berendezések beszerzése esetén a 14. § (2) bekezdés b) po
 
 (9) A támogatási kérelemhez az EMVA általános rendelet 13. § (2) bekezdésében foglaltaktól eltérően nem kell mellékelni az egyedi blokktérképet.
 
-(10)[^69] A támogatási kérelem benyújtásánál a falugazdász vagy az agrárkamarai tanácsadó kizárólag az ügyfél technikai közreműködőjeként járhat el. A technikai közreműködő fogalmára, valamint eljárásával kapcsolatos szabályokra az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló rendelet (a továbbiakban: egységes kérelem rendelet) előírásait kell alkalmazni.
+(10)[^75] A 2012. évben benyújtásra kerülő támogatási kérelmekkel kapcsolatban a technikai közreműködőre, valamint annak eljárására az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások 2012. évi igénybevételével kapcsolatos egységes eljárási szabályokról szóló 29/2012. (III. 24.) VM rendelet (a továbbiakban: egységes kérelem rendelet) szabályai az irányadók azzal, hogy az egységes kérelem rendelet 5. § (1) bekezdése e rendelet szerint nyújtható támogatások igénylésénél nem alkalmazható. A támogatási kérelem benyújtásánál az ügyfél technikai közreműködőjeként kizárólag a munkakörében eljáró, az egységes kérelem rendelet 1. § 19. pontjában meghatározott technikai közreműködő vehet részt.
 
-[^65]: A 15. §-t a 46/2011. (V. 31.) VM rendelet 18. §-a hatályon kívül helyezte.
-[^66]: A 16. § a 14/2009. (II. 28.) FVM rendelet 15. §-ával megállapított szöveg.
-[^67]: A 16. § (1) bekezdése a 77/2009. (VI. 30.) FVM rendelet 20. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^68]: A 16. § (3) bekezdés b) pontja a 46/2011. (V. 31.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^69]: A 16. § (10) bekezdését a 46/2011. (V. 31.) VM rendelet 10. § (2) bekezdése iktatta be.
+(11)[^76] Osztatlan közös tulajdonban álló földrészlet esetén az (5) bekezdés b) pontjával meghatározott okiratot az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet 5. § (5) bekezdésében foglaltak alapján kell kiállítani.
+
+[^70]: A 15. §-t a 46/2011. (V. 31.) VM rendelet 18. §-a hatályon kívül helyezte.
+[^71]: A 16. § a 14/2009. (II. 28.) FVM rendelet 15. §-ával megállapított szöveg.
+[^72]: A 16. § (1) bekezdése a 69/2012. (VII. 13.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^73]: A 16. § (3) bekezdés b) pontja a 46/2011. (V. 31.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^74]: A 16. § (5) bekezdés a) pontját a 69/2012. (VII. 13.) VM rendelet 11. § b) pontja hatályon kívül helyezte.
+[^75]: A 16. § (10) bekezdését a 46/2011. (V. 31.) VM rendelet 10. § (2) bekezdése iktatta be, szövege a 69/2012. (VII. 13.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^76]: A 16. § (11) bekezdését a 69/2012. (VII. 13.) VM rendelet 5. § (3) bekezdése iktatta be.

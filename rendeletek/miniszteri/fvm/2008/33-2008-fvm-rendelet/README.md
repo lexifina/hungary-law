@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-33-20-8
 | 2010-03-31 | 2008-33-20-82.7 | 31/2010. (III. 30.) FVM rendelet |
 | 2010-10-01 | 2008-33-20-82.8 | 17/2010. (IX. 30.) VM rendelet |
 | 2011-06-01 | 2008-33-20-82.9 | 46/2011. (V. 31.) VM rendelet |
+| 2012-07-14 | 2008-33-20-82.10 | 69/2012. (VII. 13.) VM rendelet |

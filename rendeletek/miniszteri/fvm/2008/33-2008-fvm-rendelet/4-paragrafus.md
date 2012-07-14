@@ -1,6 +1,6 @@
 ## A támogatás mértéke
 
-4. § (1) A támogatás maximális mértéke a földhasználati intézkedéseknél az elszámolható kiadások 100%-a, de legfeljebb:
+4. § (1)[^16] A támogatás maximális nettó értéke a földhasználati intézkedéseknél az elszámolható kiadások 100%-a, de legfeljebb:
 
 a) sövénytelepítés esetén 300 eurónak megfelelő forintösszeg/100 folyóméter;
 
@@ -20,7 +20,7 @@ g) rovarteleltető bakhát létesítése esetén 30 eurónak megfelelő forintö
 
 a) kerítések esetében: 315 eurónak megfelelő forintösszeg/100 folyóméter;
 
-b)[^16] madárvédelmi berendezések esetében a 2. számú mellékletben az egyes berendezési típusokra megállapított euróösszegnek megfelelő forintösszeg /berendezés.
+b)[^17] madárvédelmi berendezések esetében a 2. számú mellékletben az egyes berendezési típusokra megállapított euróösszegnek megfelelő forintösszeg /berendezés.
 
 (3) E rendelet alkalmazásában a földhasználati intézkedésekkel kapcsolatban felmerült elszámolható kiadásnak minősülnek a következő tevékenységek költségei:
 
@@ -32,7 +32,7 @@ c) szaporítóanyag-beszerzés és -tárolás;
 
 d) telepítés;
 
-e)[^17] az a)–d) pontokhoz kapcsolódó költségek közül az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: EMVA általános rendelet) 31. §-ában – a 31. § (1) bekezdés c) és d) pontjainak kivételével – meghatározott mértékű kiadások.
+e)[^18] az a)–d) pontokhoz kapcsolódó költségek közül az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: EMVA általános rendelet) 31. §-ában – a 31. § (1) bekezdés c) és d) pontjainak kivételével – meghatározott mértékű kiadások.
 
 (4) E rendelet alkalmazásában az eszközbeszerzés esetén felmerült elszámolható kiadásnak minősül:
 
@@ -44,11 +44,12 @@ c) terület-előkészítés költsége;
 
 d) létesítés költsége;
 
-e)[^18] a létesítéshez kapcsolódó költségek közül az EMVA általános rendelet 31. §-ában – a 31. § (1) bekezdés c) és d) pontjainak kivételével – meghatározott mértékű kiadások.
+e)[^19] a létesítéshez kapcsolódó költségek közül az EMVA általános rendelet 31. §-ában – a 31. § (1) bekezdés c) és d) pontjainak kivételével – meghatározott mértékű kiadások.
 
-(5)[^19] Nem minősül elszámolható kiadásnak az ügyfél által a beruházás érdekében végzett saját munka.
+(5)[^20] Nem minősül elszámolható kiadásnak az ügyfél által a beruházás érdekében végzett saját munka.
 
-[^16]: A 4. § (2) bekezdés b) pontja a 14/2009. (II. 28.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^17]: A 4. § (3) bekezdés e) pontját a 17/2010. (IX. 30.) VM rendelet 3. §-a iktatta be.
-[^18]: A 4. § (4) bekezdés e) pontja a 17/2010. (IX. 30.) VM rendelet 4. §-ával megállapított szöveg.
-[^19]: A 4. § (5) bekezdését a 17/2010. (IX. 30.) VM rendelet 5. §-a iktatta be.
+[^16]: A 4. § (1) bekezdés nyitó szövegrésze a 69/2012. (VII. 13.) VM rendelet 1. §-a szerint módosított szöveg.
+[^17]: A 4. § (2) bekezdés b) pontja a 14/2009. (II. 28.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^18]: A 4. § (3) bekezdés e) pontját a 17/2010. (IX. 30.) VM rendelet 3. §-a iktatta be.
+[^19]: A 4. § (4) bekezdés e) pontja a 17/2010. (IX. 30.) VM rendelet 4. §-ával megállapított szöveg.
+[^20]: A 4. § (5) bekezdését a 17/2010. (IX. 30.) VM rendelet 5. §-a iktatta be.

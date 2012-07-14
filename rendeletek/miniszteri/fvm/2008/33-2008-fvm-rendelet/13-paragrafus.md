@@ -1,23 +1,37 @@
-## Természetes alapanyagú kerítés kialakítása[^59]
+## Természetes alapanyagú kerítés kialakítása[^62]
 
 13. § (1) A 3. § (2) bekezdésének a) pontja szerinti gyepterület hasznosítása során alkalmazható természetes alapanyagú kerítés kialakítása esetében a támogatás feltétele, hogy a kérelmezőnek rendelkeznie kell gyep (rét, legelő) hasznosítású,
 
-a)[^60] agrár-környezetgazdálkodási intézkedésben részt vevő területtel, vagy
+a)[^63] agrár-környezetgazdálkodási intézkedésben részt vevő területtel, vagy
 
 b) Natura 2000 területtel, az 5. § (2) bekezdésében foglaltakra is figyelemmel.
 
-(2) A támogatásra jogosult köteles a kerítés kialakítása során az alábbiakban foglalt követelmények szerint eljárni:
+(2)[^64] A támogatásra jogosult köteles a kerítés kialakítása során az alábbiakban foglalt követelmények szerint eljárni:
 
-a)[^61] a kerítés fő szerkezeti elemei (tartóoszlopok, futólécek, kerítés mezők, támasztó oszlopok) fa, nád és vessző alapanyagokból készülhetnek;
+a) a legkisebb körbekeríthető egység 0,3 ha;
 
-b) a kerítés magassága legalább 1,2 méter;
+b) a kerítés fő szerkezeti elemei (tartóoszlopok, futólécek, kerítés mezők, támasztó oszlopok) fa, nád és vessző alapanyagokból készülhetnek;
 
-c) a tartóoszlopokat úgy kell elhelyezni, hogy az egymástól való távolságuk ne haladja meg az 5 métert;
+c) a kerítést legalább 1,2 méter magassággal kell kialakítani, amely
 
-d) a kerítés töréspontjainál és azoknál a tartóoszlopoknál, ahol a talajtani adottságok miatt nem biztosított azok állékonysága (pl. köves talaj, vízmosás), legalább minden tizedik tartóoszlopot legalább két oldaláról kiegészítő támasztékkal kell megerősíteni;
+ca) karám típusú kerítés esetén a legfelső futóléc magasságát,
 
-e) a kerítéssel körülhatárolt területre a gyalogos és gépjárművel történő bejutást biztosítani kell.
+cb) táblás és kerítésmezős kialakítású kerítés esetén a kerítésmező magasságát
 
-[^59]: A 13. §-t megelőző alcímet a 14/2009. (II. 28.) FVM rendelet 12. §-a iktatta be.
-[^60]: A 13. § (1) bekezdés a) pontja a 14/2009. (II. 28.) FVM rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^61]: A 13. § (2) bekezdés a) pontja a 46/2011. (V. 31.) VM rendelet 8. §-ával megállapított szöveg.
+## jelenti;
+
+d) a tartóoszlopokat úgy kell elhelyezni, hogy az egymástól való távolságuk ne haladja meg az 5 métert;
+
+e) legalább két oldalról kiegészítő támasztékkal kell megerősíteni
+
+ea) a kerítés töréspontjaiban lévő tartóoszlopokat, és
+
+eb) minden tizedik tartóoszlopot, amennyiben azok állékonysága a talajtani adottságok (pl. köves talaj, vízmosás) miatt nem biztosított;
+
+f) a kerítés futóléceinek egymással párhuzamosan legalább két sorban kell futniuk;
+
+g) a kerítéssel körülhatárolt területre a gyalogos és gépjárművel történő bejutást biztosítani kell.
+
+[^62]: A 13. §-t megelőző alcímet a 14/2009. (II. 28.) FVM rendelet 12. §-a iktatta be.
+[^63]: A 13. § (1) bekezdés a) pontja a 14/2009. (II. 28.) FVM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^64]: A 13. § (2) bekezdése a 69/2012. (VII. 13.) VM rendelet 3. §-ával megállapított szöveg.
