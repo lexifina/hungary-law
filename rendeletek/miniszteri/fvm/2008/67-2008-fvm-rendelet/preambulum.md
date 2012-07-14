@@ -1,1 +1,0 @@
-Az állattenyésztésről szóló 1993. évi CXIV. törvény 49. § (1) bekezdése a) pontjának 16. alpontjában kapott felhatalmazás alapján – a földművelési és vidékfejlesztési miniszter feladat- és hatásköréről szóló 162/2006. (VII. 28.) Korm. rendelet 1. § d) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
