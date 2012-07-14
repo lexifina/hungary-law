@@ -14,14 +14,14 @@ f) a személyi jövedelemadó meghatározott részének az adózó rendelkezése
 
 g) a szerzői jogról szóló törvény alapján a közös jogkezelő szervezetektől származó befizetések;
 
-h) egyéb bevételek.
+h) egyéb bevételek, ideértve a kezelő szerv által beszedett nevezési díj bevételt is.
 
-(2) Az (1) bekezdés c) pontjában foglalt befizetések közérdekű kötelezettségvállalásnak minősülnek (Ptk. 593–596. §).
+(2) Az (1) bekezdés d) pontjában foglalt befizetések közérdekű kötelezettségvállalásnak minősülnek (Ptk. 593–596. §).
 
 (3) A központi költségvetési előirányzatból évközben átvett pénzeszköz kezelésére, illetve a pályáztatás lebonyolítására az átvétel tárgyában kötött megállapodás rendelkezései az irányadók.
 
 (4) Költségvetési támogatás felhasználását a miniszter e törvényben foglaltaktól eltérően szabályozhatja.
 
-(5) Az Alap bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető a kiadási és bevételi előirányzat egyidejű módosításával. Az Alap költségvetésének tervezésére, végrehajtására és zárszámadására egyebekben az Áht. és az éves költségvetési törvény vonatkozó rendelkezéseit kell alkalmazni.
+(5) Az Alap, valamint a kezelő szervének bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető a kiadási és bevételi előirányzat egyidejű módosításával. Az Alap költségvetésének tervezésére, végrehajtására és zárszámadására egyebekben az Áht. és az éves költségvetési törvény vonatkozó rendelkezéseit kell alkalmazni.
 
-(6) A miniszter jogosult – a pályázati döntések függvényében – az Alap 7. § (1) bekezdése szerinti kiadási jogcímei között átcsoportosítást végrehajtani.
+(6) A miniszter jogosult – a pályázati döntések függvényében – az Alap 7. § (1) bekezdése szerinti kiadási jogcímei között átcsoportosítást végrehajtani. A kiadási jogcímek közötti átcsoportosítás jogát – az előirányzaton belül – a kezelő szerv vezetőjére átruházhatja.

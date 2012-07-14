@@ -2,7 +2,7 @@
 
 (2) A támogatások nyílt vagy meghívásos pályázatok útján, illetve – a miniszteri keret felhasználása során vagy kivételesen indokolt esetben – egyedi pályázatok elbírálása alapján – gazdálkodási formától függetlenül – adhatók.
 
-(3) Az (1)–(2) bekezdések szerinti megosztás arányairól – ideértve a támogatás összegének a kollégiumok közötti felosztását is – a bizottság a miniszter egyetértésével dönt.
+(3) Az (1)–(2) bekezdések szerinti megosztás arányairól – ideértve a támogatás összegének a kollégiumok közötti felosztását is – a Bizottság a miniszter egyetértésével dönt.
 
 (4) Az Alapból támogatás kizárólag az Alap kezelőjénél rendszeresített pályázati adatlap kitöltésével igényelhető.
 

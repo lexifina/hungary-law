@@ -1,11 +1,9 @@
-2/A. § (1) A kollégium döntéseiben nem vehet részt a Bizottság elnöke és tagja.
+2/A. § (1) A kollégium döntéseiben nem vehet részt a miniszter, az Alap alelnöke, valamint a Bizottság tagja.
 
-(2) A Bizottság elnökének és tagjainak, a kollégium vezetőinek és tagjainak, valamint ezek közeli hozzátartozóinak [Ptk. 685. § b) pont] pályázatát érdemi vizsgálat nélkül el kell utasítani.
+(2) A miniszternek, az Alap alelnökének, a Bizottság tagjainak, a kollégium vezetőinek és tagjainak, valamint ezek közeli hozzátartozóinak [Ptk. 685. § b) pont] pályázatát érdemi vizsgálat nélkül el kell utasítani.
 
-(3)–(4)
+(3) A miniszter, az Alap alelnöke, a Bizottság tagja, a kollégium vezetője és tagja nem vehet részt olyan pályázat elbírálásában, amelynek megítélésénél tőle elfogulatlan állásfoglalás nem várható.
 
-(5) A Bizottság elnöke és tagja, a kollégium vezetője és tagja nem vehet részt olyan pályázat elbírálásában, amelynek megítélésénél tőle elfogulatlan állásfoglalás nem várható.
+(4) Az összeférhetetlenségről legkésőbb a pályázat elbírálására összehívott ülésen az érintettnek nyilatkoznia kell. Az összeférhetetlenség kérdésében vita esetén a kollégium, illetve a Bizottság dönt. A kollégium vezetője esetében az Alap alelnöke, az Alap alelnökének összeférhetetlensége kérdésében pedig a miniszter dönt.
 
-(6) Az összeférhetetlenségről legkésőbb a pályázat elbírálására összehívott ülésen az érintettnek nyilatkoznia kell. Az összeférhetetlenség kérdésében vita esetén a Kollégium, illetve a Bizottság dönt. A kollégium vezetője esetében a Bizottság elnöke, a Bizottság elnökének összeférhetetlensége kérdésében pedig a miniszter dönt.
-
-(7) Ha az érintett az összeférhetetlenség fennállásáról valótlanul nyilatkozik vagy valótlan adatot szolgáltat, a Bizottság elnöke javaslatot tesz a miniszternek a tisztségviselő visszahívására.
+(5) Ha az érintett az összeférhetetlenség fennállásáról valótlanul nyilatkozik vagy valótlan adatot szolgáltat, az Alap alelnöke javaslatot tesz a miniszternek a tisztségviselő visszahívására.

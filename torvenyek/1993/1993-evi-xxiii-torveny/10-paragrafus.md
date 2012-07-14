@@ -4,8 +4,10 @@
 
 (3) Felhatalmazást kap a kultúráért felelős miniszter, hogy
 
-a)–b)
+a) az Alap elnöke és alelnöke feladataira vonatkozó részletes szabályokat,
 
-c) a Bizottság és a kollégiumok létesítésére, működésére, valamint az összeférhetetlenségre és a nyilvánosságra vonatkozó részletes eljárási szabályokat rendeletben állapítsa meg.
+b) a nevezési díjak megállapításának elveit,
 
-## Melléklet az 1993. évi XXIII. törvényhez
+c) a Bizottság és a kollégiumok létesítésére, működésére, valamint az összeférhetetlenségre és a nyilvánosságra vonatkozó részletes eljárási szabályokat
+
+rendeletben állapítsa meg.

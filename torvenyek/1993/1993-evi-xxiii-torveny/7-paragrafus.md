@@ -8,8 +8,8 @@ c) a nemzetközi kiállításokon, vásárokon a nemzeti kulturális jelenlét b
 
 d) a művészeti alkotások új irányzataira, új kulturális kezdeményezésekre, a kultúrával kapcsolatos tudományos kutatásokra, az épített örökséggel, az építőművészettel kapcsolatos tevékenységekre;
 
-e) a kultúrateremtő, kultúraközvetítő, valamint egyéni és közösségi tevékenységre, a kiemelkedő szakmai teljesítmények elismerésének díjazásához, valamint a szakmai szervezetek által alapított díjakhoz való hozzájárulásra;
+e) a kultúrateremtő, kultúraközvetítő, valamint egyéni és közösségi tevékenységre, a kiemelkedő szakmai teljesítmények elismerésének díjazásához, valamint a szakmai szervezetek vagy a miniszter által alapított kulturális, művészeti díjakhoz való hozzájárulásra;
 
 f) a nemzetközi tagdíjakra.
 
-(2) Az Alap az (1) bekezdésben foglalt támogatásokon felül felhasználható az Alap és kezelője működésével, valamint a pályáztatás lebonyolításával kapcsolatos költségek fedezetére, figyelembe véve a 4. § (3) bekezdése szerinti pályázatkezeléssel összefüggő kiadásait is.
+(2) Az Alap az (1) bekezdésben foglalt támogatásokon felül felhasználható az Alap és kezelője működésével, valamint a pályáztatás lebonyolításával kapcsolatos költségek fedezetére, figyelembe véve a 4. § (3) bekezdés szerinti, valamint a fejezetet irányító szervvel kötött együttműködési megállapodásban rögzített pályázatkezeléssel összefüggő kiadásait is.
