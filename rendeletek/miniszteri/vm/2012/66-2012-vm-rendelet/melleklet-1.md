@@ -1,4 +1,4 @@
-## 10. § Hatályát veszti a szárított takarmány kvótával szabályozott támogatás igénylésének általános feltételeiről szóló 75/2008. (VI. 14.) FVM rendelet.
+## 10. §[^1]
 
 1. melléklet a 66/2012. (VII. 10.) VM rendelethez
 
@@ -25,3 +25,5 @@ A felhasznált tüzelőanyag földgázra konvertált, köbméterben kifejezett m
 | 6 | 95 999 | 48 000 | 20% | 13 332 |
 
 | 7 | 47 999 | – | 10% | 6 666 |
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
