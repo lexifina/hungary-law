@@ -1,0 +1,1 @@
+## „(9) A teljes alapellátásra igényjogosult egyen- és vegyes ruhás állomány, a terhelés időpontjától számított 12 hónapon belül csökkentett alapellátási normában részesül. Az alapellátás kiegészítést a 12 hónap letöltését követően kell biztosítani. Az ettől való eltérésre az önálló szerv vezetőjének írásos engedélye alapján kerülhet sor.”
