@@ -8,7 +8,7 @@
 
 ## 3. a kibocsátó nyilatkozatát (az aláírók nevének és beosztásának közlésével), hogy az 1. és 2. pontban leírtak megbízható és valós képet adnak a kibocsátó és konszolidációba bevont vállalkozásai helyzetéről.
 
-4. melléklet a 24/2008. (VIII. 15.) PM rendelethez[^7]
+4. melléklet a 24/2008. (VIII. 15.) PM rendelethez[^9]
 
 ## A rendkívüli tájékoztatás keretében közzéteendő információk köre
 
@@ -40,7 +40,7 @@
 
 1.12. olyan engedély megszerzése vagy megvonása, amely a kibocsátó gazdasági teljesítményét jelentősen befolyásolhatja,
 
-1.13. a kibocsátó saját kibocsátású értékpapírjának tulajdonlásában bekövetkezett változás (dátum, mennyiség, az ügyletet követően a kibocsátó által tulajdonolt összmennyiség),
+1.13.[^10] a kibocsátó saját kibocsátású értékpapírjának tulajdonlásában bekövetkezett változás (dátum, mennyiség, az ügyletet követően a kibocsátó által tulajdonolt összmennyiség), ide nem értve a kibocsátó befektetési szolgáltatási tevékenysége körében ügyfélmegbízáshoz kapcsolódó, illetőleg árjegyzői tevékenysége keretében végrehajtott saját kibocsátású értékpapír tranzakciót,
 
 1.14. a kibocsátó saját kibocsátású értékpapírjára vonatkozó vételi vagy eladási opció, vételi vagy eladási megbízás és ezek teljesülése (dátum, mennyiség, árfolyam, befektetési vállalkozás neve, az ügyletet követően a kibocsátó által tulajdonolt összmennyiség),
 
@@ -182,4 +182,5 @@
 
 5.15. a legutolsó tájékoztatóban közzétett kockázati tényezők jelentős megváltozása.
 
-[^7]: A 4. melléklet a 21/2010. (V. 12.) PM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^9]: A 4. melléklet a 21/2010. (V. 12.) PM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^10]: A 4. melléklet 1.13. pontja a 18/2012. (VII. 13.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
