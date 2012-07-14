@@ -1,17 +1,15 @@
-## 6. § A 3. §-ban meghatározott állománykategória természetbeni ellátása a termékek rendszeresítését és normásítását követően a következő cikkekből áll
+## 5. §[^3] A 2. §-ban meghatározott állománykategóriák természetbeni ellátása a termékek rendszeresítését és normásítását követően az alább felsorolt cikkekből áll. A természetbeni ellátást az alapellátási norma cikkösszetételének mértékéig kell biztosítani.
 
-a) 10M e. r. gyakorló nadrág (tűzoltó) 1 db
+| a) | 12M e. r. szolgálati téli pantalló | 1 db |
 
-b) 10M e. r. gyakorló zubbony (tűzoltó) 1 db
+| b) | 12M e. r. szolgálati félcipő | 1 pár |
 
-c) 10M e. r. gyakorló dzseki (tűzoltó) 1 db
+| c) | 12M e. r. szolgálati ing/blúz, hosszú ujjú | 2 db |
 
-d) 10M e. r. gyakorló bakancs 1 pár
+| d) | 12M e. r. szolgálati pulóver | 1 db |
 
-e) hímzett tép. rendfokozati jelzés 1 pár
+| e) | hímzett névkitűző (bv. állomány esetében azonosító szám) | 2 db |
 
-f) hímzett karjelvény 1 db
+| f) | hímzett váll-lap | 1 pár |
 
-g) szövetsapka (pilotka), sötétkék, szerelve 1 db
-
-h) hímzett névkitűző 2 db
+[^3]: Az 5. § a 35/2012. (VII. 13.) BM rendelet 16. §-ával megállapított szöveg.
