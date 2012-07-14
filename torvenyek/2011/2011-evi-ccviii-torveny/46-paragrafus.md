@@ -1,26 +1,22 @@
 ## 22. A Monetáris Tanács
 
-46. § (1) Az MNB legfőbb döntéshozó szerve a Monetáris Tanács. A Monetáris Tanács hatáskörébe tartozik:
+46. § (1) Az e §-ban meghatározott feladatok tekintetében az MNB legfőbb döntéshozó szerve a Monetáris Tanács. A Monetáris Tanács hatáskörébe tartozik:
 
-a) a 4. §-ban meghatározott feladatokkal kapcsolatos döntés,
+a) a 4. § (1)–(7) bekezdésében meghatározott feladatokkal kapcsolatos stratégiai döntés,
 
 b) az a) pontban foglalt hatáskör körében a 9. § (1) bekezdése szerinti döntés,
 
-c) az a) pontban foglalt hatáskör körében a 10. § (2) bekezdésben meghatározott feladatokkal kapcsolatos döntés,
+c) az a) pontban foglalt hatáskör körében a 10. § (2) bekezdésében meghatározott feladatokkal kapcsolatos döntés,
 
-d) az a) pontban foglalt hatáskör körében a 11-13. §-okban meghatározott feladatokkal kapcsolatos döntés,
+d) az a) pontban foglalt hatáskör körében a 11–13. §-ban meghatározott feladatokkal kapcsolatos döntés,
 
-e) az MNB elnöke javaslata alapján az alelnökök hatásköréről történő döntés,
+e) a Monetáris Tanács ügyrendjének megállapítása, továbbá
 
-f) a Monetáris Tanács hatáskörébe tartozó feladatokkal kapcsolatos kommunikáció módjáról történő döntés,
-
-g) az a)–d) pontokban meghatározott feladatokkal kapcsolatos azon döntések végrehajtása, amelyeket a vonatkozó döntésben a Monetáris Tanács saját hatáskörében tart,
-
-h) döntés minden olyan további kérdésben, amit törvény, az alapító okirat vagy a belső eljárási szabályzat a Monetáris Tanács kizárólagos hatáskörébe utal.
+f) döntés minden olyan további kérdésben, amit törvény a Monetáris Tanács kizárólagos hatáskörébe utal.
 
 (2) A Monetáris Tanács szükség esetén bármikor összehívható, de havonta legalább egy alkalommal ülésezik.
 
-(3) A Monetáris Tanács legalább öt-, legfeljebb kilenctagú testület. A Monetáris Tanács tagjai megbízatásuk időtartama alatt munkaviszonyban állnak az MNB-vel.
+(3) A Monetáris Tanács legalább öt-, legfeljebb kilenctagú testület. A Monetáris Tanács (4) bekezdés a) és b) pontja szerinti tagjai számának összege nem érheti el a (4) bekezdés c) pontja szerinti tagjainak számát, és a (4) bekezdés c) pontja szerinti tagok száma nem érheti el a (4) bekezdés a) és b) pontja szerinti tagok száma összegének kétszeresét. A Monetáris Tanács tagjai megbízatásuk időtartama alatt munkaviszonyban állnak az MNB-vel.
 
 (4) A Monetáris Tanács tagjai:
 
@@ -48,13 +44,13 @@ d) halállal.
 
 (9) A lemondást írásban kell közölni a (4) bekezdés a) és b) pontja szerinti tagnak a köztársasági elnökkel, a (4) bekezdés c) pontja szerinti tagnak az Országgyűlés elnökével. A Monetáris Tanács tagjának megbízatása lemondása esetén a lemondó nyilatkozatban megjelölt, a lemondó nyilatkozat megtételét követő időpontban, ennek hiányában a (4) bekezdés a) és b) pontja szerinti tagnak a lemondó nyilatkozat köztársasági elnök általi, a (4) bekezdés c) pont szerinti tagnak az Országgyűlés elnöke általi kézhezvételével szűnik meg. A Monetáris Tanács tagja lemondásának érvényességéhez elfogadó nyilatkozat nem szükséges.
 
-(10) A Monetáris Tanács (4) bekezdés a) és b) pontja szerinti tagjait a köztársasági elnök, (4) bekezdés c) pontja szerinti tagjait az Országgyűlés kizárólag abban az esetben mentheti fel, ha a Monetáris Tanács tagja nem felel meg a feladatai ellátásához szükséges feltételeknek, illetve súlyos kötelezettségszegést követ el.
+(10) A Monetáris Tanács (4) bekezdés a) és b) pontja szerinti tagjait a köztársasági elnök, (4) bekezdés c) pontja szerinti tagjait az Országgyűlés kizárólag az Alapokmány 14.2. cikkében meghatározott okokból mentheti fel.
 
 (11) A (4) bekezdés c) pontja szerinti tagok választására és felmentésére az Országgyűlés gazdasági ügyekért felelős állandó bizottsága tesz javaslatot az Országgyűlés számára.
 
-(12) A (11) bekezdés szerinti felmentési javaslatot a Monetáris Tanács érintett tagja részére meg kell küldeni, aki a Munka Törvénykönyve (a továbbiakban: Mt.) szabályai szerint munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Alapokmány 14.2. cikkében meghatározott bírósághoz fordulás jogát.
+(12) A (11) bekezdés szerinti felmentési javaslatot a Monetáris Tanács érintett tagja részére meg kell küldeni, aki a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) szabályai szerint munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Európai Unió Bíróságához fordulásnak az Alapokmány 14.2. cikkében meghatározott jogát.
 
-(13) A (11) bekezdés szerinti felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően terjeszthető a (4) bekezdés b) pontja szerinti tagok esetében a köztársasági elnök, a (4) bekezdés c) pontja szerinti tagok esetében az Országgyűlés elé.
+(13) A (11) bekezdés szerinti felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság az Alapokmány 14.2. cikkében meghatározott felmentési feltételek fennállását megállapító döntésének jogerőre emelkedését követően terjeszthető a (4) bekezdés b) pontja szerinti tagok esetében a köztársasági elnök, a (4) bekezdés c) pontja szerinti tagok esetében az Országgyűlés elé.
 
 (14) A Monetáris Tanács évente az első ülésen a jelenlevők egyszerű szótöbbségével az MNB alelnökei közül megválasztja a Monetáris Tanács elnökhelyettesét. Az elnökhelyettes megbízatásának megszűnése esetén a Monetáris Tanács a soron következő ülésén új elnökhelyettest választ.
 
@@ -62,4 +58,4 @@ d) halállal.
 
 (16) A Monetáris Tanács álláspontját a Monetáris Tanács elnöke vagy – akadályoztatása esetén – elnökhelyettese jogosult nyilvánosságra hozni.
 
-(17) Az Európai Unió működéséről szóló szerződés 140. cikke szerinti eltérés a Tanács döntésével történő megszüntetése hatálybalépésének napján a Monetáris Tanács megszűnik, tagjainak a Monetáris Tanácsban betöltött megbízatása e nappal lejár.
+(17)

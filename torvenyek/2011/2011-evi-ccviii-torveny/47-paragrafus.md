@@ -8,9 +8,9 @@
 
 (4) Az MNB elnökét a 46. § (10) bekezdésben foglaltaknak megfelelően, a miniszterelnök javaslatára a köztársasági elnök menti fel.
 
-(5) A miniszterelnök (4) bekezdés szerinti felmentési javaslatát az MNB elnöke részére meg kell küldeni, aki az Mt. szabályai szerint munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Alapokmány 14.2. cikkében meghatározott bírósághoz fordulás jogát.
+(5) A miniszterelnök (4) bekezdés szerinti felmentési javaslatát az MNB elnöke részére meg kell küldeni, aki az Mt. szabályai szerint munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Európai Unió Bíróságához fordulásnak az Alapokmány 14.2. cikkében meghatározott jogát.
 
-(6) A felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően terjeszthető a köztársasági elnök elé.
+(6) A felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság az Alapokmány 14.2. cikkében meghatározott felmentési feltételek fennállását megállapító döntésének jogerőre emelkedését követően terjeszthető a köztársasági elnök elé.
 
 (7) A köztársasági elnöknek az MNB elnökének kinevezésére és felmentésére vonatkozó döntéséhez a miniszterelnök ellenjegyzése szükséges.
 
