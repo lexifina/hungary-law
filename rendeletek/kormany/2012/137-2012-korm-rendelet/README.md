@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-137-20-
 | 2012-07-01 | 2012-137-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-07-02 | 2012-137-20-22.4 | 2010: CXXX. törvény |
 | 2012-07-03 | 2012-137-20-22.5 | 2010: CXXX. törvény |
+| 2012-07-15 | 2012-137-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |

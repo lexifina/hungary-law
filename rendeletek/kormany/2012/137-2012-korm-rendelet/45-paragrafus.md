@@ -1,10 +1,10 @@
 ## 45. § A Eftv. Vhr.
 
-a)[^50]
+a)[^49]
 
-b)[^51]
+b)[^50]
 
 lép.
 
-[^50]: A 45. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^51]: A 45. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 45. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: A 45. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

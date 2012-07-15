@@ -1,3 +1,3 @@
-32. §[^36]
+32. §[^35]
 
-[^36]: A 26–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 26–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
