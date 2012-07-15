@@ -20,4 +20,6 @@ c) a szöveget gépírással vagy nyomtatással kell elkészíteni, másfeles va
 
 (7) A leírásban szerepeltetni kell a rajzon feltüntetett valamennyi hivatkozási jelet, és a leírás csak a rajzon is szereplő hivatkozási jelet tartalmazhat. Ugyanazokat az alkotóelemeket azonos megnevezéssel kell illetni, és azonos hivatkozási jellel kell ellátni az egész bejelentésben. A hivatkozási jeleket a leírásban a megvalósítási mód ismertetésénél, az alkotóelem megnevezése előtt zárójel nélkül, az igénypontokban a megnevezés után zárójelben, a megnevezés minden előfordulása esetén fel kell tüntetni.
 
-(8) A leírást és az igénypontokat, valamint a rajzokat a bejelentőnek vagy a képviselőnek az utolsó lap végén alá kell írnia.
+(8)[^1]
+
+[^1]: A 2. § (8) bekezdését a 30/2012. (VI. 25.) KIM rendelet 11. §-a hatályon kívül helyezte.

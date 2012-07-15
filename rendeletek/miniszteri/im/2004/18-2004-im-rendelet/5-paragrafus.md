@@ -10,6 +10,8 @@ c) a feladat megoldásához elengedhetetlenül szükséges összes jellemzőt a 
 
 d) a főigénypont oltalmi körébe tartozó egy vagy több előnyös megoldást aligénypontokba lehet foglalni; az aligénypontnak közvetlenül vagy közvetve utalnia kell a főigénypontra, amely utalásban egynél több előző igénypontot megjelölni csak vagylagosan lehet, és tartalmaznia kell egy vagy több további jellemzőt a megjelölt előző igénypont jellemzőihez képest;
 
-e) az igénypontokban a jellemzést nem lehet helyettesíteni a leírásra, a rajzokra vagy egyéb forrásokra való hivatkozással;
+e)[^4] az igénypontokban – kivéve, ha ez feltétlenül szükséges – a jellemzést nem lehet helyettesíteni a leírásra, a rajzokra vagy egyéb forrásokra való hivatkozással;
 
 f) az igénypontokban a berendezést szerkezete elemeinek és azok kapcsolatának megadásával kell jellemezni, ami nem helyettesíthető a működésre vagy az elérni kívánt hatásra utaló jellemzéssel.
+
+[^4]: Az 5. § e) pontja a 30/2012. (VI. 25.) KIM rendelet 9. §-ával megállapított szöveg.

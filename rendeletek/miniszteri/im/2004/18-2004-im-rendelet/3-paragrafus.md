@@ -4,7 +4,7 @@
 
 a) a mintaoltalom megadására irányuló kérést;
 
-b) a minta címét (tárgyának rövid és szabatos megjelölését, amely nem tartalmazhat fantázianevet, rövidítést, tulajdonnevet, idegen kifejezést);
+b)[^2] a minta címét (tárgyának rövid és szabatos megjelölését, amely nem tartalmazhat fantázianevet);
 
 c) a bejelentő nevét és címét, több bejelentő esetén az igényjogosultság arányát is, ha az nem egyenlő;
 
@@ -24,6 +24,7 @@ j) a bejelentési kérelem mellékleteinek felsorolását, feltüntetve az egyes
 
 k) a bejelentő, illetve mindegyik bejelentő vagy a képviselő aláírását.
 
-(2)[^1] A bejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában díjtalanul beszerezhető formanyomtatvány kitöltésével is elkészíthető.
+(2)[^3] A bejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában díjtalanul beszerezhető formanyomtatvány kitöltésével is elkészíthető.
 
-[^1]: A 3. § (2) bekezdése a 27/2010. (XII. 28.) KIM rendelet 12. §-a szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdés b) pontja a 30/2012. (VI. 25.) KIM rendelet 11. §-a szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdése a 27/2010. (XII. 28.) KIM rendelet 12. §-a szerint módosított szöveg.
