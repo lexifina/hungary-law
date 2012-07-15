@@ -6,7 +6,15 @@ a) a lakóház építésére alkalmas telektulajdonnak (tulajdoni hányadnak), v
 
 b) a lakástulajdon kezelői jogának a megszerzése;
 
-c) a közcélú vízi létesítmények és tartozékaik kezelői jogának a megszerzése;
+c) a közcélú vízi-létesítményre és tartozékára vonatkozóan
+
+ca) a kezelői jog,
+
+cb) az üzemeltetési jog,
+
+cc) a vagyonkezelői jog
+
+megszerzése;
 
 d) az állami tulajdonban lévő természetvédelmi terület kezelői jogának a természetvédelmi kezelő által történő megszerzése;
 
