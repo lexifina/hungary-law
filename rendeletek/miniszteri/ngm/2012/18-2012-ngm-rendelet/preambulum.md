@@ -1,1 +1,0 @@
-A tőkepiacról szóló 2001. évi CXX. törvény 451. § (2) bekezdés e) és n) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § f) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
