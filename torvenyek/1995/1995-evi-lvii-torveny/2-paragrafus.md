@@ -49,3 +49,5 @@ d) a vízügyi igazgatási szervek irányításáért felelős miniszter és a v
 meghatározott feladatokat látja el.
 
 (3) Az (1) bekezdésben felsorolt feladatok közül a c) és a d) pontban említetteket a vízgazdálkodásért felelős miniszter a Kormány által meghatározott munkamegosztás szerinti rendben az érdekelt miniszterek közreműködésével látja el.
+
+(4) Az állam víziközmű-működtetés és víziközmű-szolgáltatás tekintetében felmerülő, a vízügyi tevékenységektől és vízügyi igazgatástól elkülönült feladatait a víziközmű-szolgáltatásról szóló törvény szabályozza.

@@ -14,7 +14,7 @@ e) a vízépítési műtárgyak (vízlépcsők) — fenntartása és üzemeltet�
 
 f) a belvízelvezető művek (így például a belvízcsatornák, szivattyútelepek, belvíztározók) létesítése, fenntartása, bővítése, a belvízvédekezés irányítása és végrehajtása;
 
-g) a víziközműrendszerek és a vízkészlet-gazdálkodási célú feladatokat ellátó vízátvezető csatornák bővítése és üzemeltetése.
+g) a vízkészlet-gazdálkodási célú feladatokat ellátó vízátvezető csatornák bővítése és üzemeltetése.
 
 (3) A helyi önkormányzat tulajdonában lévő vizekről és vízilétesítményekről a 9–10. §-okban és a 13. §-ban foglaltakra is figyelemmel a központi és az önkormányzati költségvetésben meghatározott pénzeszközök felhasználásával, illetve a külön törvényben szabályozott vízitársulat útján lehet gondoskodni.
 
