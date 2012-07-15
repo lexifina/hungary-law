@@ -12,7 +12,7 @@ c) ha a szekvencialista, illetve a táblázat a Szabadalmi Együttműködési Sz
 
 (3) Ha szekvencialistát, illetve táblázatot a bejelentési napot követően nyújtanak be, vagy a bejelentési napot követően alaki hiányosságok miatt javítanak, nyilvánvaló hiba miatt helyesbítenek, illetve módosítanak, a bejelentőnek nyilatkoznia kell, hogy az utólag benyújtott, a javított, a helyesbített, illetve a módosított szekvencialista, illetve táblázat tartalma nem bővebb annál, mint amit az elismert bejelentési napon benyújtott bejelentésben feltártak.
 
-(4) Az írásos formában elkészített szekvencialistának, illetve táblázatnak olvashatónak kell lennie és kivitelezésének biztosítania kell, hogy kétharmados kicsinyítéssel történő sokszorosítás esetén is az összes részlet nehézség nélkül felismerhető maradjon.
+(4)[^8] Az írásos formában elkészített szekvencia listának, illetve táblázatnak olvashatónak kell lennie és kivitelezésének biztosítania kell, hogy az összes részlet felismerhető legyen.
 
 (5) A számítógép által olvasható formában, elektronikus adathordozón elkészített szekvencialistát, illetve táblázatot a következő módon kell benyújtani:
 
@@ -27,3 +27,5 @@ d) az elektronikus adathordozó azonos információtartalmú példányait sorsz�
 e) ha az írásos formában benyújtott szekvencialistát, illetve táblázatot kijavítják, helyesbítik vagy módosítják, ennek megfelelő jelzéssel ellátott elektronikus adathordozót kell két példányban benyújtani a teljes szekvencialista, illetve táblázat javított, helyesbített, illetve módosított változatával, számítógép által olvasható formában;
 
 f) ha az elektronikus adathordozó sérült, illetve nem olvasható, új elektronikus adathordozót kell benyújtani.
+
+[^8]: A 8. § (4) bekezdése a 30/2012. (VI. 25.) KIM rendelet 7. §-ával megállapított szöveg.

@@ -24,6 +24,6 @@ j) a bejelentési kérelem mellékleteinek felsorolását, feltüntetve az egyes
 
 k) a bejelentő, illetve mindegyik bejelentő vagy a képviselő aláírását.
 
-(2)[^1] A bejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában (a továbbiakban: Hivatal) díjtalanul beszerezhető formanyomtatvány kitöltésével is elkészíthető.
+(2)[^4] A bejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában (a továbbiakban: Hivatal) díjtalanul beszerezhető formanyomtatvány kitöltésével is elkészíthető.
 
-[^1]: A 3. § (2) bekezdése a 27/2010. (XII. 28.) KIM rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdése a 27/2010. (XII. 28.) KIM rendelet 8. § (1) bekezdése szerint módosított szöveg.

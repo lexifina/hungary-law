@@ -2,9 +2,11 @@
 
 2. § (1) A bejelentési kérelmet, a leírást az igénypontokkal, a rajzokat és a kivonatot külön lapon kezdve kell elkészíteni, és külön-külön folyamatos, a lap felső közepén elhelyezett számozással kell ellátni; az azokban foglaltaknak egymással összhangban kell állniuk.
 
-(2) A leírást az igénypontokkal, a rajzokat és a kivonatot három-három azonos példányban kell benyújtani, gyűrődéstől, szakadástól vagy behajtástól mentes lapokon; azok elektronikus eljárással és közvetlenül sokszorosíthatók legyenek fényképezéssel, elektrosztatikus eljárással, ofszetnyomással és mikrofilmezéssel, meghatározatlan másolati példányszámban.
+(2)[^1] A leírást az igénypontokkal, a rajzokat és a kivonatot három-három azonos példányban kell benyújtani, gyűrődéstől, szakadástól vagy behajtástól mentes lapokon; azok elektronikus eljárással és közvetlenül sokszorosíthatók legyenek meghatározatlan másolati példányszámban.
 
 (3) A bejelentés egészében az azonos fogalmakra azonos megnevezést kell használni; a műszaki fogalmakra a magyar megnevezéseket, ilyenek hiányában a nemzetközi gyakorlatban elfogadott megnevezéseket, a mértékadatokra a külön jogszabályban meghatározott egységeket, ilyenek hiányában pedig a nemzetközi gyakorlatban elfogadott egységeket kell alkalmazni.
+
+(3a)[^2] A szabadalmi leírást, az igénypontokat, a rajzok feliratait és a kivonatot a nyelvhelyesség követelményeinek megfelelően kell elkészíteni.
 
 (4) A szabadalmi leírást, az igénypontokat és a kivonatot a következők szerint kell elkészíteni:
 
@@ -18,4 +20,8 @@ c) a szöveget gépírással vagy nyomtatással kell elkészíteni, másfeles va
 
 (6) A leírás, az igénypontok és a kivonat nem tartalmazhatnak rajzokat, tartalmazhatnak viszont táblázatokat és – számokkal vagy betűkkel ellátott – vegyi vagy matematikai képleteket; az igénypontokba táblázatok csak feltétlenül szükséges esetben foglalhatók. A táblázatok és a vegyi vagy a matematikai képletek a lapokon fekvő helyzetben is elrendezhetők, ha álló helyzetben megfelelően nem ábrázolhatók; ebben az esetben a táblázatok vagy a képletek felső része az álló helyzetű lap bal oldala felé nézzen.
 
-(7) A leírásban szerepeltetni kell a rajzon feltüntetett valamennyi hivatkozási jelet, és a leírás csak a rajzon is szereplő hivatkozási jelet tartalmazhat. Az igénypontokban és a kivonatban szerepelniük kell a rajzon feltüntetett hivatkozási jelek közül mindazoknak, amelyek az igénypont, illetve a kivonat megértését elősegítik. Ugyanazokat az alkotóelemeket azonos hivatkozási jelekkel kell ellátni az egész bejelentésben. A hivatkozási jelek a leírásban lehetőleg az alkotóelem megnevezése előtt zárójel nélkül, az igénypontokban és a kivonatban lehetőleg a megnevezés után zárójelben legyenek feltüntetve.
+(7)[^3] A leírásban szerepeltetni kell a rajzon feltüntetett valamennyi hivatkozási jelet, és a leírás csak a rajzon is szereplő hivatkozási jelet tartalmazhat. A hivatkozási jeleket a leírásban a megvalósítási mód ismertetésénél, az alkotóelem megnevezése előtt zárójel nélkül, az igénypontokban és a kivonatban a megnevezés után zárójelben, a megnevezés minden előfordulása esetén fel kell tüntetni. Ugyanazokat az alkotóelemeket azonos hivatkozási jelekkel kell ellátni az egész bejelentésben.
+
+[^1]: A 2. § (2) bekezdése a 30/2012. (VI. 25.) KIM rendelet 8. §-a szerint módosított szöveg.
+[^2]: A 2. § (3a) bekezdését a 30/2012. (VI. 25.) KIM rendelet 5. § (1) bekezdése iktatta be.
+[^3]: A 2. § (7) bekezdése a 30/2012. (VI. 25.) KIM rendelet 5. § (2) bekezdésével megállapított szöveg.

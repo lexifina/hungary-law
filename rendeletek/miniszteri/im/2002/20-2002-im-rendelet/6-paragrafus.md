@@ -6,7 +6,7 @@ a) a rajzokat erős, fehér, sima, fénytelen és tartós, 29,7 cm magas és 21,
 
 b) a rajzokat fekete színű, tartós, egyenletes vastagságú, jól látható vonalakkal, színezés és árnyékolás nélkül kell elkészíteni, a metszeteket vonalkázással kell jelölni úgy, hogy az ne akadályozza a hivatkozási jelek és jelzővonalaik felismerhetőségét;
 
-c) a rajzok méretének és grafikai kivitelezésének biztosítania kell, hogy kétharmados kicsinyítéssel történő sokszorosítás esetén is az összes részlet nehézség nélkül felismerhető maradjon; kivételes esetben, amikor a rajzon méret szerepel, azt grafikusan kell ábrázolni;
+c)[^5] a rajzok méretének és grafikai kivitelezésének biztosítania kell, hogy az összes részlet felismerhető legyen; kivételes esetben, amikor a rajzon méret szerepel, azt grafikusan kell ábrázolni;
 
 d) a rajzokon valamennyi hivatkozási jel (szám, betű) legyen egyszerű és világos; a számok és a betűk magassága legalább 0,32 cm legyen; a számok és a betűk mellett zárójelek, körök és idézőjelek nem alkalmazhatók; az ábrák feliratozásához latin, és ha ez a szokásos, görög betűket kell használni;
 
@@ -18,6 +18,10 @@ g) egy lapon több ábra is elhelyezhető; ha az ábráknak két vagy több lapo
 
 h) az egyes ábrákat egymástól világosan elhatárolva, lehetőleg álló helyzetben kell elrendezni; fekvő helyzetben történő elrendezés esetén az ábrák felső része az álló helyzetű lap bal oldala felé nézzen; a különböző ábrákat arab számokkal folyamatosan – a rajzlapok számozásától függetlenül – kell számozni;
 
-i) a rajzok nem tartalmazhatnak szöveget, kivéve a megértéshez feltétlenül szükséges rövid feliratokat, mint pl. ,,víz'', ,,gőz'', ,,A-B metszet'', ,,nyitva'', ,,zárva'';
+i)[^6] a rajzok nem tartalmazhatnak szöveget, kivéve a megértéshez feltétlenül szükséges rövid feliratokat, mint pl. „víz”, „gőz”, „A-B metszet”, „nyitva”, „zárva” vagy a villamos kapcsolási rajzok és a blokkvázlatok szokásos feliratai;
 
-j) mindegyik lap szegélyén legyen rajta az adott lap sorszáma és lehetőleg a lapok összesített száma.
+j)[^7] mindegyik lap szegélyén legyen rajta az adott lap sorszáma, törve a lapok összesített számával.
+
+[^5]: A 6. § c) pontja a 30/2012. (VI. 25.) KIM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^6]: A 6. § i) pontja a 30/2012. (VI. 25.) KIM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^7]: A 6. § j) pontja a 30/2012. (VI. 25.) KIM rendelet 6. § (2) bekezdésével megállapított szöveg.
