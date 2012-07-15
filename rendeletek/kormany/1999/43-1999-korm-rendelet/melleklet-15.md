@@ -582,4 +582,40 @@
 
 15. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^486]
 
+CT/MRI jelentés adattartalma
+
+1. Időszak, amelyre a jelentés vonatkozik
+
+2. Jelentést küldő szolgáltató megye kódja, OEP kódja, a vizsgálatot végző szervezeti egység 9 jegyű azonosítója
+
+3. Elvégzett vizsgálat térítési kategóriájának kódja
+
+4. Elvégzett vizsgálat kódja
+
+5. Elvégzett vizsgálat pontértéke
+
+6. Felhasznált kontrasztanyag mennyisége
+
+7. Személyazonosító jel
+
+8. Személyazonosító jel típusa
+
+9. Beteg állampolgársága
+
+10. Beteg születési dátuma (év, hónap, nap) és nemének kódja
+
+11. Vizsgálat időpontja (év, hónap, nap, óra, perc)
+
+12. Vizsgálattípus kódja
+
+3. Vizsgálat jellegének kódja
+
+14. A vizsgálatra küldő orvos pecsétszáma
+
+15. A vizsgálatra küldő intézmény szervezeti egységének 9 jegyű azonosítója, a beutalást megalapozó ellátást igazoló adat
+
+16. A beutalón szereplő, vizsgálatot indikáló diagnózis BNO kódja
+
+17. Vizsgálat utáni diagnózis BNO kódja
+
 [^486]: A 15. számú melléklet a 112/2004. (IV. 28.) Korm. rendelet 14. §-ának (3) bekezdésével megállapított, a 318/2006. (XII. 23.) Korm. rendelet 24. § (4) bekezdése, a 4/2007. (I. 22.) Korm. rendelet 10. §-a, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § g) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének h) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése szerint módosított szöveg.
