@@ -1,1 +1,0 @@
-## „(11) Osztatlan közös tulajdonban álló földrészlet esetén az (5) bekezdés b) pontjával meghatározott okiratot az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet 5. § (5) bekezdésében foglaltak alapján kell kiállítani.”

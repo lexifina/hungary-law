@@ -1,1 +1,0 @@
-## „(7) A 3. § (1) és (2) bekezdésében meghatározott földhasználati intézkedésekre és eszközbeszerzésekre vonatkozó beruházást a támogatási kérelemnek helyt adó, vagy részben helyt adó határozat alapján benyújtott első kifizetési kérelem alapján hozott jogerős kifizetési határozattól számítva legalább 5 évig kell fenntartani.”
