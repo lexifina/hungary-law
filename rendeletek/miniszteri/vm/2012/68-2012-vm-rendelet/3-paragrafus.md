@@ -2,4 +2,6 @@
 
 3. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) E rendelet hatálybalépésével egyidejűleg az állattenyésztési bírság befizetéséről és felhasználásáról szóló 67/2008. (V. 16.) FVM rendelet hatályát veszti.
+(2)[^1]
+
+[^1]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
