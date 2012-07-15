@@ -2,10 +2,18 @@
 
 4. § (1) Az Értékelő Bizottság a támogatásra vonatkozó döntésében – az egyes szolgáltatókkal történő előzetes egyeztetés alapján – meghatározza a támogatott ellátást nyújtó, finanszírozási szerződéssel rendelkező egészségügyi szolgáltatót is.
 
-(2) Az Értékelő Bizottság az előzetes egyeztetés során tájékozódik az adott egészségügyi szolgáltató fogadókészségéről, a felvétel időpontjáról, az egészségügyi ellátás várható időtartamáról és az ellátással összefüggésben felmerülő költségekről.
+(2)[^24] Az Értékelő Bizottság az előzetes egyeztetés során tájékozódik az adott egészségügyi szolgáltató fogadókészségéről, a felvétel időpontjáról, az egészségügyi ellátás várható időtartamáról és az ellátással összefüggésben felmerülő – a támogatás által fedezett és esetlegesen a beteg által viselendő – költségekről.
 
-(3) A felmerülő költségekről való tájékoztatást a kérelmező magyarországi ellátását végző egészségügyi szolgáltató a tervezett beavatkozások leírásával és tételes költségvetési kalkuláció benyújtásával teljesíti. Az egészségügyi szolgáltató ezen kötelezettségének az Értékelő Bizottság megkeresésének kézhezvételétől számított 15 napon belül köteles eleget tenni. Az egészségügyi ellátás az előzetes költségvetésnek az Értékelő Bizottság általi jóváhagyását követően nyújtható.
+(3)[^25] A felmerülő költségekről való tájékoztatást a beteg magyarországi ellátását végző egészségügyi szolgáltató a tervezett beavatkozások leírásával és a 3. számú melléklet szerinti tételes költségvetési kalkuláció (a továbbiakban: tételes költségkalkuláció) benyújtásával teljesíti. A tételes költségkalkulációnak – a sugárterápia és a kemoterápia kivételével – ki kell térnie azokra a költségekre is, amelyek a beavatkozás végzése során esetlegesen felmerülő körülmények miatt a tervezett költségekhez képest többletköltségként jelentkezhetnek, ide értve a beteg ellátása során a beteg állapota miatt szükségessé váló lehetséges eltéréseket a tervezett beavatkozáshoz képest. Az egészségügyi szolgáltató ezen kötelezettségének az Értékelő Bizottság megkeresésének kézhezvételétől számított 15 napon belül köteles eleget tenni.
 
-(4) Az előzetes költségvetés jóváhagyását követően az ellátás nyújtására kijelölt szolgáltató a kérelemben megadott elérhetőségek alapján kapcsolatba lép a magyarországi egészségügyi ellátást igénylő személlyel, vagy meghatalmazottjával a magyarországi egészségügyi ellátás részleteinek egyeztetésére.
+(3a)[^26] Az Értékelő Bizottság a támogatásról szóló döntéssel egyidejűleg hagyja jóvá a tételes költségkalkulációt.
 
-(5) Az Értékelő Bizottság döntését az adott évben rendelkezésre álló összeg figyelembevételével hozza meg.
+(4)[^27] A tételes költségkalkuláció jóváhagyását követően az ellátás nyújtására kijelölt szolgáltató a kérelemben megadott elérhetőségek alapján kapcsolatba lép a magyarországi egészségügyi ellátást igénylő személlyel, vagy meghatalmazottjával a magyarországi egészségügyi ellátás részleteinek egyeztetésére.
+
+(5)[^28]
+
+[^24]: A 4. § (2) bekezdése a 9/2012. (VII. 13.) EMMI remdelet 4. § (1) bekezdésével megállapított szöveg.
+[^25]: A 4. § (3) bekezdése a 9/2012. (VII. 13.) EMMI remdelet 4. § (1) bekezdésével megállapított szöveg.
+[^26]: A 4. § (3a) bekezdését a 9/2012. (VII. 13.) EMMI rendelet 4. § (2) bekezdése iktatta be.
+[^27]: A 4. § (4) bekezdése a 9/2012. (VII. 13.) EMMI rendelet 9. § g) pontja szerint módosított szöveg.
+[^28]: A 4. § (5) bekezdését a 9/2012. (VII. 13.) EMMI rendelet 10. § c) pontja hatályon kívül helyezte.

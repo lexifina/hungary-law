@@ -1,6 +1,6 @@
 ## Formanyomtatvány
 
-| Iroda tölti ki! |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| A Koordináló Szerv tölti ki! |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Beérkezés dátuma: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -50,40 +50,6 @@
 
 |  |  |  |  | igénylő aláírása |
 
-2. számú melléklet az 59/2007. (XII. 29.) EüM rendelethez
+2. számú melléklet az 59/2007. (XII. 29.) EüM rendelethez[^37]
 
-A határon túli magyarok részére az alábbiakban felsorolt betegségcsoportok magyarországi ellátásának támogatására kerülhet sor:
-
-a) Daganatos megbetegedések diagnosztikája, műtéti megoldása a szükséges implantátumok alkalmazásával együtt, a sugárterápia és kemoterápia nélkül,
-
-b) Idegsebészeti beavatkozások,
-
-c) Szemészeti műtéti beavatkozások,
-
-d) A fül speciális műtéti beavatkozásai,
-
-e) Szájpadhasadék műtéti korrekciója,
-
-f) Gége-garat speciális műtéti beavatkozása,
-
-g) Nyelőcső elváltozások műtéti beavatkozásai,
-
-h) Emésztőrendszer fejlődési rendellenességeinek műtéti megoldása,
-
-i) Mellkas- és gerinc deformitások műtéti megoldása,
-
-j) Mozgásszervek: a traumás csonttörés esetén nem megfelelő ellátást követő korrekciós műtétek végzése,
-
-k) Keringési rendszer veleszületett rendellenességeinek műtéti beavatkozásai,
-
-l) Vezetési zavarok- szív aritmiák kezelése (pl. pacemaker),
-
-m) Csont-izületi fejlődési rendellenességeinek műtéti ellátása,
-
-n) Idegrendszer organikus és nem organikus elváltozásainak diagnosztikája,
-
-o) Húgyivarszervek fejlődési rendellenességeinek, illetve egyéb elváltozások műtéti ellátása,
-
-p) A szöveti transzplantációk közül a cornea átültetés indokolt esetekben, szabályozott rendszerben, a hazai betegellátást nem zavaró mértékig támogatható,
-
-q) A beavatkozást követő hazaszállítás költségeinek határig történő biztosítása.
+[^37]: A 2. számú melléklet a 9/2012. (VII. 13.) EMMI rendelet 8. § (2) bekezdésével megállapított szöveg.
