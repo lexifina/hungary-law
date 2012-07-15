@@ -1,6 +1,6 @@
 ## A minta ábrázolása
 
-4. § (1) A mintaoltalmi bejelentésben a minta ábrázolását három azonos példányban kell benyújtani.
+4. § (1)[^4] A mintaoltalmi bejelentésben a minta ábrázolását egy példányban kell benyújtani.
 
 (2) A mintát fényképen, rajzzal vagy más grafikai úton a következők szerint kell ábrázolni:
 
@@ -18,7 +18,9 @@ f) egy ábrázoláson csak egy minta egy nézete szerepelhet;
 
 g) az egyes ábrázolásokból önmagukból – külön magyarázat nélkül is – ki kell derülnie a többi ábrázoláshoz viszonyított kapcsolatnak;
 
-h) a készletre vonatkozó minta minden elemét legalább egy ábrázoláson együttesen is szerepeltetni kell.
+h) a készletre vonatkozó minta minden elemét legalább egy ábrázoláson együttesen is szerepeltetni kell;
+
+i)[^5] a lap vagy lapok felső szélén legalább 2,5 cm széles üres térközt kell hagyni.
 
 (3) Az ábrázolás benyújtható színes vagy fekete-fehér kivitelben. Az ábrázolást azonban színes kivitelben kell elkészíteni, ha a színek a mintát eredményező külső jellegzetességekhez tartoznak.
 
@@ -49,3 +51,6 @@ f) ha az ábrázoláson metszetek, kitörések szerepelnek, azokat is valóságh
 (6) A bejelentéshez tartozó egyes ábrázolásokat ábraszámmal kell ellátni. Az ábraszám két, ponttal elválasztott számból áll, amelyek közül az első a bejelentésben szereplő minták sorszámát, a második pedig az adott mintához tartozó ábrák sorszámát jelöli (pl. 1.1, 1.2, 1.3 az első minta ábrázolásainak, 2.1, 2.2, 2.3 a második minta ábrázolásainak az ábraszáma). Az ábraszámokat az általuk jelölt ábrázolások mellett, az ábrázolások között fennmaradó térközben úgy kell feltüntetni, hogy az ábraszámok és az ábrák kapcsolata egyértelmű legyen. Ha a mintaoltalmi bejelentés a mintának csupán egyetlen ábrázolását tartalmazza, azon nem kell ábraszámot feltüntetni.
 
 (7) A minta ábrázolásának megváltoztatása [Fmtv. 48. § (1) bek.] esetén szabályszerű új ábrázolást kell benyújtani.
+
+[^4]: A 4. § (1) bekezdése a 30/2012. (VI. 25.) KIM rendelet 3. §-a szerint módosított szöveg.
+[^5]: A 4. § (2) bekezdés i) pontját a 30/2012. (VI. 25.) KIM rendelet 2. §-a iktatta be.
