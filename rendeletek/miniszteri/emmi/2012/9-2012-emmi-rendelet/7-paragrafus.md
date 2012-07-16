@@ -1,1 +1,0 @@
-## „(3a) Abban az esetben, ha az (1), illetve (1a) bekezdésben foglaltak szerint elszámolt ellátás költsége nem éri el az előzetesen engedélyezett támogatás összegét, a ténylegesen kifizetésre kerülő támogatás – a (3) bekezdésben foglaltak figyelembevételével – nem haladhatja meg az elszámolt ellátás költségét.”
