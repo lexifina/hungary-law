@@ -8,6 +8,6 @@ b) elektronikus ingóárverés esetén a licitnapló lezárását követő 30. n
 
 c) ingatlanárverés esetén az árverést követő 30. napon, ha pedig a licitnapló lezárásáról a végrehajtó intézkedett, a licitnapló lezárását követő 30. napon,
 
-d)[^17] a 21. § d) pont szerinti ingatlan árverés napját követő napon vagy azt megelőzően a végrehajtó intézkedésére,
+d)[^18] a 21. § d) pont szerinti ingatlan árverés napját követő napon vagy azt megelőzően a végrehajtó intézkedésére,
 
-[^17]: A 24. § d) pontját a 31/2012. (VI. 29.) KIM rendelet 15. § (5) bekezdése iktatta be.
+[^18]: A 24. § d) pontját a 31/2012. (VI. 29.) KIM rendelet 15. § (5) bekezdése iktatta be.
