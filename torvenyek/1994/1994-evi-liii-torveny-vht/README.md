@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-53-00-00
 | 2012-06-29 | 2012. évi LXXXV. törvény | 1994-53-00-00.82 |
 | 2012-07-01 | 2011. évi CLXXX. törvény | 1994-53-00-00.83 |
 | 2012-07-13 | 2012. évi XCV. törvény | 1994-53-00-00.84 |
+| 2012-07-16 | 2011. évi CLXXX. törvény | 1994-53-00-00.85 |
