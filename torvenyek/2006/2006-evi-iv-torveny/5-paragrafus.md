@@ -14,7 +14,7 @@ b) nem szerezhet gazdasági társaságban közvetlen vagy közvetett többségi 
 
 c) nem lehet közkereseti társaság tagja és betéti társaság beltagja.
 
-(6) Nem lehet közkereseti társaság tagja és betéti társaság beltagja, továbbá nem szerezhet gazdasági társaságban közvetlen vagy közvetett többségi befolyást biztosító részesedést az a személy, aki a 104. § (1) bekezdésében foglalt helytállási kötelezettségének nem tett eleget.
+(6) Nem lehet közkereseti társaság tagja és betéti társaság beltagja, továbbá nem szerezhet gazdasági társaságban kizárólagos vagy többségi befolyást biztosító részesedést az a személy, aki a 104. § (1) bekezdésében foglalt helytállási kötelezettségének nem tett eleget.
 
 (7) A tilalom hatálya az (5)–(6) bekezdés szerinti esetekben a végrehajtási eljárás időtartama és az annak eredménytelenségétől számított öt év.
 
