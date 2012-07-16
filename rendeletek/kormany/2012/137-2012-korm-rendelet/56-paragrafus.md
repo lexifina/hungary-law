@@ -1,3 +1,3 @@
-56. §[^61]
+56. §[^62]
 
-[^61]: Az 55–59. § a 98. § (5) bekezdése alapján 2012. július 21-én lép hatályba.
+[^62]: Az 55–59. § a 98. § (5) bekezdése alapján 2012. július 21-én lép hatályba.
