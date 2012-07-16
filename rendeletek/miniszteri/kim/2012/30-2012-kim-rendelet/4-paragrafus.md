@@ -1,1 +1,0 @@
-## 3. § A Fmar. 4. § (1) bekezdésében a „három azonos” szövegrész helyébe az „egy” szöveg, 5. § (3) bekezdésében a „közzététel” szövegrész helyébe a „mintaoltalom megadásának meghirdetése” szöveg lép.
