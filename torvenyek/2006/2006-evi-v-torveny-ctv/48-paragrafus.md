@@ -22,7 +22,7 @@ e) a cégjegyzék a cég tagja, vezető tisztségviselője, illetve cégvezetőj
 
 f) észleli, hogy azok az adatok, amelyeknek bejegyzését az adott cégformára vonatkozóan e törvény előírja, illetve a létesítő okirat, valamint a bejegyzési kérelem alapjául szolgáló, a 3. számú mellékletben felsorolt, kötelezően, illetve szükség szerint csatolandó egyéb okirat nem felel meg a jogszabályok rendelkezéseinek.
 
-(7) A (6) bekezdés f) pontja szerinti esetben a cégbíróság a jogi képviselővel szemben a 34. § (2) bekezdésében foglaltakat alkalmazza.
+(7) Ha a (6) bekezdés f) pontja szerinti esetben a bejegyezni kért adat vagy a benyújtott okirat súlyosan törvénysértő, a cégbíróság a jogi képviselővel szemben a 34. § (2) bekezdésében foglaltakat alkalmazza.
 
 (8) Ha a cégbíróság a (4) bekezdésben foglalt döntési kötelezettségének határidőn belül nem tesz eleget, a cégbíróság vezetője a határidő lejártát követően, legkésőbb egy munkanapon belül hivatalból intézkedik a bejegyzési kérelem elbírálásáról. Az ügyintézési határidő eredménytelen eltelte esetén a cégbejegyzés a következő munkanapon, a törvény erejénél fogva – a kérelem alapján előszerkesztett adatok szerinti tartalommal – haladéktalanul megtörténik. A törvény erejénél fogva történő automatikus bejegyzés esetén kijavítás iránti kérelem terjeszthető elő.
 

@@ -34,7 +34,7 @@
 
 ## 1.6. A cég e-mail elérhetősége:
 
-## 1M40584P_0 | 2. A társaság alapítója | | Név:1 | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Cégnév (név):2 | | Cégjegyzékszám (nyilvántartási szám):3 | | Székhely: | | Képviseletre jogosult neve: | | Anyja születési neve: | | Lakcím: 1 Természetes személy tag esetén kell kitölteni. 2 Szervezet esetén kell kitölteni. 3 Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén)
+## 2K13588N_0 | 2. A társaság alapítója | | Név:1 | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Cégnév (név):2 | | Cégjegyzékszám (nyilvántartási szám):3 | | Székhely: | | Képviseletre jogosult neve: | | Anyja születési neve: | | Lakcím: 1 Természetes személy tag esetén kell kitölteni. 2 Szervezet esetén kell kitölteni. 3 Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén)
 
 ## 3. A társaság tevékenységi köre(i)12/a
 
@@ -128,7 +128,7 @@
 
 ## 10.2. Az alapító kizárólagos hatáskörébe tartoznak mindazok a kérdések, amelyeket a törvény a taggyűlés kizárólagos hatáskörébe utal.
 
-## 1M40584P_1 | 11. Az ügyvezető | | 13.1. | A társaság ügyvezetője: | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Az ügyvezetői megbízatás8 | | a) határozott időre,6 | | b) határozatlan időre | | szól. | | A megbízatás kezdő időpontja: | | A megbízatás lejárta:15 | 13.2. | Az ügyvezető(k) fizetőképességi nyilatkozat tételére köteles(ek). | | 12. Cégvezető | | 14.1. | A társaságnál cégvezető kinevezésére8 | a) sor kerülhet. | b) nem kerülhet sor. | 14.2.12 | Cégvezetőnek kinevezett munkavállaló(k): | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Kinevezés kezdő időpontja: 8 Aláhúzással jelölendő. 6 Legfeljebb 5 évig (Gt. 24. §) 15 Az a) pont választása esetén kitöltendő. 8 Aláhúzással jelölendő. 12 Kizárólag a 14.1.a) pont aláhúzása esetén tölthető ki.
+## 2K13588N_1 | 11. Az ügyvezető | | 11.1. | A társaság ügyvezetője: | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Az ügyvezetői megbízatás8 | | a) határozott időre,6 | | b) határozatlan időre | | szól. | | A megbízatás kezdő időpontja: | | A megbízatás lejárta:15 | 11.2. | Az ügyvezető(k) fizetőképességi nyilatkozat tételére köteles(ek). | | 12. Cégvezető | | 12.1. | A társaságnál cégvezető kinevezésére8 | a) sor kerülhet. | b) nem kerülhet sor. | 12.2.12 | Cégvezetőnek kinevezett munkavállaló(k): | | Név: | | Születési hely és idő: | | Anyja születési neve: | | Lakcím: | | Kinevezés kezdő időpontja: 8 Aláhúzással jelölendő. 6 Legfeljebb 5 évig (Gt. 24. §) 15 Az a) pont választása esetén kitöltendő. 8 Aláhúzással jelölendő. 12 Kizárólag a 14.1.a) pont aláhúzása esetén tölthető ki.
 
 ## 13. Cégjegyzés
 

@@ -28,11 +28,7 @@ m) a cég közösségi adószámát, továbbá ha a cég közösségi adószáma
 
 n) azt, hogy a cégjegyzékben szereplő adatok, illetve a cégiratok fordítása az Európai Unió melyik hivatalos nyelvén szerepel a cégnyilvántartásban,
 
-o) közhasznú minősítéssel rendelkező nonprofit gazdasági társaság esetében
-
-oa) a közhasznúsági fokozatot,
-
-ob) a közhasznú jogállás megszerzésének, módosításának és törlésének időpontját,
+o) közhasznú minősítéssel rendelkező nonprofit gazdasági társaság esetében a közhasznú jogállás megszerzésének és törlésének időpontját,
 
 p) ha a cég elismert vállalatcsoport tagja, vagy uralkodó tagja, ezt a tényt, a csoporthoz tartozó cégek nevének, székhelyének és cégjegyzékszámának feltüntetésével,
 

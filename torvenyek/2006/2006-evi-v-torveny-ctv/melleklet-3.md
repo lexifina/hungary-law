@@ -30,7 +30,7 @@
 
 ## d) az elismert vállalatcsoportban részt vevő társaságok legfőbb szervének határozatai az elismert vállalatcsoport létrehozásáról, illetve megszüntetéséről;
 
-## 10. a közhasznú jogállás megszerzését, illetve megszűnését tanúsító okirat.
+## 10. a közhasznú jogállás nyilvántartásba vétele esetén teljes bizonyító erejű magánokiratba foglalt nyilatkozat a Civil tv. szerinti közhasznúsági feltételek teljesítéséről és a közszolgáltatási szerződés..
 
 ## 11. a 61/B. § szerinti tagváltozás bejegyzése iránti eljárás során, a 61/B. § (2) bekezdésében foglaltak fennállása esetén a részesedés átruházás napjával mint fordulónappal elkészített, könyvvizsgáló által hitelesített vagyonmérleg benyújtásának igazolása.
 

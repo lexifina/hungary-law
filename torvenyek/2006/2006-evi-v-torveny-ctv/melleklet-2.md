@@ -40,11 +40,11 @@
 
 ## 13.
 
-## a) a székhelyhasználat jogcímét igazoló legalább teljes bizonyító erejű magánokirat
+## a) a székhelyhasználat jogszerűségéről szóló legalább teljes bizonyító erejű magánokirat
 
-## b) a telephely(ek) használatának jogcímét igazoló legalább teljes bizonyító erejű magánokirat
+## b) a telephely(ek) használatának jogszerűségéről szóló legalább teljes bizonyító erejű magánokirat
 
-## c) fióktelep(ek) használatának jogcímét igazoló legalább teljes bizonyító erejű magánokirat
+## c) fióktelep(ek) használatának jogszerűségéről szóló legalább teljes bizonyító erejű magánokirat
 
 ## II. Ha a bejegyzési (változásbejegyzési) kérelem tartalmára tekintettel kötelező, az egyes cégformák bejegyzéséhez (változásbejegyzéséhez) szükséges további okiratok:
 

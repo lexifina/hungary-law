@@ -16,6 +16,6 @@ d) a cég jogutód nélküli megszűnését előidéző ok következett be, és 
 
 (3) A kényszertörlési eljárás során a cég legfőbb szerve nem dönthet a cégnek a kényszertörlési eljárás alatti működtetéséről, illetve a kényszertörlési eljárás megszüntetéséről. A kényszertörlési eljárás kezdő időpontját követően a cég szervei nem hozhatnak a kényszertörlési eljárás céljával ellentétes döntéseket.
 
-(4) A cégbíróság nem dönthet a jogerősen elrendelt kényszertörlési eljárás megszüntetéséről.
+(4) A cégbíróság nem dönthet a kényszertörlési eljárás megszüntetéséről.
 
 (5) Ha a kényszertörlési eljárás során felszámolási eljárást kell kezdeményezni, a felszámolás során egyezségkötésnek nincs helye és a felszámolási eljárás az adós cég teljesítésére tekintettel nem szüntethető meg.

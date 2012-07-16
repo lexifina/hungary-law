@@ -5,3 +5,5 @@
 (3) Ha a cég a változásbejegyzési kérelmet határidőben nem nyújtja be vagy a cégbíróság intézkedése egyébként nem vezetett eredményre, a cégbíróság az eljárást megszünteti, és a céget megszűntnek nyilvánítja.
 
 (4) Az (3) bekezdésben meghatározott végzést a cégbíróság a Cégközlönyben közzéteszi azzal, hogy a végzés ellen a megjelenésétől számított tizenöt napon belül fellebbezésnek van helye.
+
+(5) E cím szerinti eljárásban fogalmazó vagy bírósági ügyintéző önállóan jár el, azonban olyan végzést, amely ellen külön fellebbezésnek van helye, csak a cégbíró előzetes, írásos hozzájárulásával hozhat.

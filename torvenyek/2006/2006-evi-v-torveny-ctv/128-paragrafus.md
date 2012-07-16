@@ -1,4 +1,4 @@
-128. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy
+128. § (1) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
 a) a cégeljárásra és a cégnyilvántartásra,
 
@@ -24,4 +24,8 @@ k) az államháztartásért felelős miniszterrel egyetértésben a céginformá
 
 l) a bűnügyi nyilvántartó szervtől történő adatigénylésre és ezzel összefüggésben a bűnügyi nyilvántartó szerv és a cégbíróság közötti kapcsolattartásra
 
+m) a cégbejegyzési (változásbejegyzési) kérelem céginformációs szolgálat által végzett informatikai és formai szempontú vizsgálatára
+
 vonatkozó részletes szabályokat rendelettel állapítsa meg.
+
+(2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a Fővárosi Törvényszék Gazdasági Hivatalának a központi költségvetéssel történő, a 131/A. § (7) bekezdése szerinti elszámolásának, valamint a központi költségvetésből a pénzösszeg folyósításának részletes szabályait rendeletben állapítsa meg.

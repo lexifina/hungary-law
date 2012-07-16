@@ -12,7 +12,7 @@ c) azt a tényt, ha tagja, vezető tisztségviselője, illetve cégvezetője a g
 
 a) a társaság beltagjainak nevét, természetes személy beltag esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
 
-b) a társaság kültagjainak nevét, természetes személy beltag esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
+b) a társaság kültagjainak nevét, természetes személy kültag esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
 
 c) a tag tagsági jogviszonya keletkezésének és megszűnésének időpontját,
 
@@ -50,7 +50,7 @@ bb) ha a részvény átruházását az alapszabály korlátozza, ezt a tényt,
 
 bc) amennyiben a részvényes szavazati jogának mértéke az 50 százalékot meghaladja, vagy a részvényes minősített többségű befolyással rendelkezik, a részvényes nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát.
 
-bd) egyszemélyes részvénytársaság esetében a részvényes nevét (cégét), lakóhelyét (székhelyét),
+bd) egyszemélyes részvénytársaság esetében a részvényes nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
 
 c) Nyilvánosan működő részvénytársaság esetében
 

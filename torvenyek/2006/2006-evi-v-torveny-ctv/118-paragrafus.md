@@ -4,7 +4,7 @@ a) a céggel szemben követelés bejelentésére nem került sor, valamint
 
 b) a cég vagyonával kapcsolatos információ nem érkezett,
 
-a cégbíróság – a 62. § (4) bekezdés figyelembevételével – a céget törli a cégjegyzékből, és a Gt. 5. (10) bekezdése és a 23. § (3) bekezdése alapján az egyedüli vagy többségi befolyással rendelkező tagot, valamint a vezető tisztségviselőt eltiltja.
+a cégbíróság – a 62. § (4) bekezdés figyelembevételével – a céget törli a cégjegyzékből, és a Gt. 5. § (10) bekezdése és a 23. § (3) bekezdése alapján az egyedüli vagy legalább többségi befolyással rendelkező tagot, valamint a vezető tisztségviselőt eltiltja.
 
 (2) Amennyiben a céggel szemben követelés bejelentésére került sor, a cégbíróság a számítógépes ingatlan-nyilvántartási rendszerből, valamint szükség szerint a földhasználati nyilvántartásból elektronikus úton történő lekérdezéssel megállapítja, hogy a cég jog jogosultjaként van-e bejegyezve, vagy a javára, illetve érdekében tény van-e feljegyezve, illetve van-e bejegyzett földhasználata.
 
@@ -16,8 +16,10 @@ a cégbíróság – a 62. § (4) bekezdés figyelembevételével – a céget t
 
 (6) Az (5) bekezdés alkalmazásában felszámolási költség a Cstv. 57. § (2) bekezdés f) és g) pontjában meghatározott költségek.
 
-(7) Amennyiben a (2)–(3) bekezdésben említett szervezetek értesítése vagy a 117. § szerint tett bejelentés alapján a cégbíróság megállapítja, hogy a cég vagyona előreláthatóan nem fedezi a várható felszámolási költségeket, vagy a cég vagyona nem fellelhető, a cégbíróság – a 62. § (4) bekezdés figyelembevételével – a céget törli a cégjegyzékből, a Gt. 5. § (10) bekezdése és a 23. § (3) bekezdése alapján az egyedüli vagy többségi befolyással rendelkező tagot, valamint a vezető tisztségviselőt eltiltja, egyidejűleg határidő tűzésével felhívja a vezető tisztségviselőt, hogy gondoskodjon az iratok elhelyezéséről, az adózás rendjéről szóló törvény szerinti kötelezettségek teljesítéséről, és ezek megtörténtét a cégbíróságnál igazolja.
+(7) Amennyiben a (2)–(3) bekezdésben említett szervezetek értesítése vagy a 117. § szerint tett bejelentés alapján a cégbíróság megállapítja, hogy a cég vagyona előreláthatóan nem fedezi a várható felszámolási költségeket, vagy a cég vagyona nem fellelhető, a cégbíróság – a 62. § (4) bekezdés figyelembevételével – a céget törli a cégjegyzékből, a Gt. 5. § (10) bekezdése és a 23. § (3) bekezdése alapján az egyedüli vagy legalább többségi befolyással rendelkező tagot, valamint a vezető tisztségviselőt eltiltja, egyidejűleg határidő tűzésével felhívja a vezető tisztségviselőt, hogy gondoskodjon az iratok elhelyezéséről, az adózás rendjéről szóló törvény szerinti kötelezettségek teljesítéséről, és ezek megtörténtét a cégbíróságnál igazolja.
 
 (8) Az (1) és (7) bekezdésben meghatározott végzést a cégbíróság a Cégközlönyben közzéteszi azzal, hogy a végzés ellen a megjelenésétől számított tizenöt napon belül fellebbezésnek van helye, a határidő elmulasztása miatt azonban igazolási kérelem nem terjeszthető elő. A cég törlését elrendelő végzés jogerőre emelkedését a Cégközlönyben közzé kell tenni.
 
 (9) Az eltiltásra vonatkozó rendelkezés elleni fellebbezésnek nincs halasztó hatálya.
+
+(10) Amennyiben a céggel szemben követelés bejelentésére nem került sor, a cégbíróság azonban megállapította, hogy a cég fellelhető vagyonnal rendelkezik, a cégbíróság rendelkezik a vagyonnak a tagok közötti felosztásáról a Cstv. 61. §-ában foglaltak alkalmazásával. Amennyiben azonban a cég fellelhető vagyonának tulajdonjogával összefüggésben kétség merül fel, azt úgy kell tekinteni, mintha a céggel szemben követelés bejelentésére került volna sor.

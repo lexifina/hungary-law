@@ -4,4 +4,4 @@
 
 (3) Magyar cég külföldön lévő fióktelepének a cégjegyzékbe történő bejegyzéséhez a cégnek a külföldi cégkivonattal, illetve más okirattal, valamint ezeknek magyar nyelvű hiteles fordításával kell igazolnia, hogy a fióktelepet a fióktelep helye szerinti államban nyilvántartásba vették.
 
-(4) Cég székhelye, telephelye és fióktelepe olyan ingatlan lehet, amely a cég tulajdonát képezi, vagy amelynek használatára a cég jogosult. A cég a használat jogszerűségét igazolni köteles.
+(4) Cég székhelye, telephelye és fióktelepe olyan ingatlan lehet, amely a cég tulajdonát képezi, vagy amelynek használatára a cég jogosult. A cég a használat jogszerűségéről nyilatkozni köteles.

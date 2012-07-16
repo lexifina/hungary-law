@@ -42,11 +42,11 @@
 
 ## 12.
 
-## a) a székhelyhasználat jogcímét igazoló legalább teljes bizonyító erejű magánokirat,
+## a) a székhelyhasználat jogszerűségéről szóló legalább teljes bizonyító erejű magánokirat,
 
-## b) a telephely(ek) használatának jogcímét igazoló legalább teljes bizonyító erejű magánokirat,
+## b) a telephely(ek) használatának jogszerűségéről szóló legalább teljes bizonyító erejű magánokirat,
 
-## c) fióktelep(ek) használatának jogcímét igazoló legalább teljes bizonyító erejű magánokirat;
+## c) fióktelep(ek) használatának jogszerűségéről szóló legalább teljes bizonyító erejű magánokirat;
 
 ## 13. amennyiben törvény a cég alapítását hatósági engedélyhez köti, az alapítási engedély;
 
