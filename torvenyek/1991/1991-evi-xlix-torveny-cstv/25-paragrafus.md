@@ -12,7 +12,9 @@ e) az adós ellen az Európai Unió más tagállamában a Tanács fizetésképte
 
 f) a 27. § (2) bekezdés a) pontjában meghatározott esetben a kérelem bírósághoz érkezésének időpontjáig az adós írásbeli felszólítása nem történt meg, vagy az nem tartalmazza a 27. § (2c) bekezdés szerinti tartalmi elemeket.
 
-g) a jogerős bírósági határozatban megállapított teljesítési határidő a kérelem bírósághoz érkezésének időpontjában még nem telt el.
+g) a jogerős bírósági határozatban megállapított teljesítési határidő a kérelem bírósághoz érkezésének időpontjában még nem telt el;
+
+h) a 27. § (2b) bekezdése szerinti feltétel nem teljesül.
 
 (2) Ha az Európai Unió más tagállamában a bíróság határozatának meghozatalát megelőzően a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján főeljárást indítottak, a bíróság az ugyanazon adós ellen Magyarországon megindított főeljárást területi eljárássá alakítja át, feltéve, hogy az adós Magyarországon telephellyel rendelkezik. A bíróság erről a főeljárást megindító bíróságot tájékoztatja.
 

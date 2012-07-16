@@ -18,4 +18,4 @@ c) a korábbi csődeljárás iránti kérelmét a bíróság a 9. § (4) bekezd�
 
 (4)
 
-(5) A csődeljárás iránti (1) bekezdés szerinti kérelmet a külön jogszabályban meghatározott formanyomtatványon kell benyújtani, amely 2013. január 1-jétől – ide nem értve a természetes személyek kérelmeit – kizárólag elektronikus nyomtatvány lehet.
+(5) A csődeljárás iránti (1) bekezdés szerinti kérelmet a külön jogszabályban meghatározott formanyomtatványon kell benyújtani, amely 2013. január 1-jétől kizárólag elektronikus nyomtatvány lehet.

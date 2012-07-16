@@ -2,7 +2,7 @@
 
 (2) A Kormány a 65. § szerinti kiadott rendeletében akkor mondhatja ki, hogy a stratégiailag kiemelt gazdálkodó szervezet az (1) bekezdés szerinti körbe tartozik, amennyiben a veszteséges gazdálkodást eredményező okok miatt a vagyonhiány előreláthatólag nem szüntethető meg, a veszteségek halmozódása nem állítható meg, a gazdálkodó szervezet megmentési célú tulajdonosi vagy állami támogatásban nem részesíthető, de tevékenysége folyamatosságának és folytatásának érdekében közérdek fűződik a gazdálkodó szervezet vagyonának működő üzemként történő értékesítéséhez.
 
-(3) A (2) bekezdés szerinti kormányrendelet kihirdetésétől kezdve a gazdálkodó szervezet ellen a hitelezők csődeljárást nem kezdeményezhetnek, a kérelmet a bíróság soron kívül elutasítja.
+(3)
 
 (4) A Kormány – (2) bekezdés szerinti – rendeletének kihirdetésekor felszámolás iránti kérelem alapján már folyamatban lévő eljárásokban az (5)–(6) bekezdést, a 69. § (1)–(9a) bekezdést nem lehet alkalmazni. A 69. § (10) bekezdést akként kell alkalmazni, hogy a rendkívüli moratóriumnak nem meghosszabbítására, hanem elrendelésére kerül sor, amennyiben az adós a bíróságnak a felszámolást elrendelő végzésében meghatározott felhívására a kézhezvételtől számított 5 napos jogvesztő határidőn belül nyilatkozik arról, hogy a moratórium alatti tevékenysége folytatásához és működőképessége fenntartásához szükséges fizetési kötelezettségek teljesítésének fedezetét elkülönítette.
 

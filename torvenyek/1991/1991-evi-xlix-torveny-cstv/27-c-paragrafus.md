@@ -6,7 +6,7 @@ a) nem rendelkezik lejárt köztartozással,
 
 b) rendelkezik a kormányrendeletben előírt biztosítékkal, megfelel a kormányrendelet szerinti szervezeti formának és részletes feltételeknek,
 
-c) ellen a kérelem benyújtásakor nincs jogerősen elrendelt fizetési haladék, felszámolás vagy végelszámolás,
+c) ellen a kérelem benyújtásakor nincs folyamatban kényszertörlés vagy kényszer-végelszámolás, vagy jogerősen elrendelt fizetési haladék, felszámolás vagy végelszámolás,
 
 d) nem tagja olyan gazdasági társaságnak, amelyben felelőssége korlátlan,
 
@@ -30,15 +30,15 @@ c) nem tanúsíthat feladata ellátása körében, sem azon kívül olyan magata
 
 (4) A felszámolói névjegyzékben fel kell tüntetni:
 
-a) a felszámoló nevét, székhelyét, telephelyét, fióktelepét, működési területét,
+a) a felszámoló nevét, székhelyét, telephelyét, fióktelepét (működési terület),
 
 b) a felszámoló ügyvezetőjének, felügyelőbizottsági elnökének, könyvvizsgálójának nevét, lakóhelyét,
 
 c) a felszámoló főtevékenységét és a létesítő okiratában meghatározott további tevékenységi köreit a Központi Statisztikai Hivatal által kiadott nómenklatúra szerint,
 
-d) a felszámoló minden olyan tulajdonosának, tagjának a nevét (cégnevét) és lakóhelyét (székhelyét), aki a társaságban 5%-nál nagyobb tulajdoni hányaddal rendelkezik,
+d) a felszámoló minden közvetlen vagy közvetett részesedéssel rendelkező tagjának (részvényesének) nevét (cégnevét) és lakóhelyét (székhelyét), amennyiben a felszámoló külföldi székhelyű felszámoló magyarországi fióktelepe, akkor a külföldi székhelyű felszámoló nevét (cégnevét) székhelyét, nyilvántartási számát, a felszámolói tevékenység végzésére jogosító okirat számát és az okirat kibocsátóját, az okirat érvényességének időtartamát,
 
-e) annak a jogi személynek a nevét, székhelyét, nyilvántartási számát, amelyben a felszámoló gazdasági társaság többségi befolyással rendelkezik,
+e) annak a jogi személynek vagy jogi személyiség nélküli szervezetnek a nevét, székhelyét, nyilvántartási számát, amelyben a felszámoló gazdasági társaság közvetlen vagy közvetett részesedéssel rendelkezik,
 
 f) a felszámoló gazdasági társaságnál foglalkoztatott szakirányú szakképzettséggel rendelkezők, ezenkívül a közgazdászok, jogi szakvizsgát tett jogászok, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálók nevét, lakcímét,
 

@@ -1,1 +1,5 @@
-84. §
+84. § (1) Ha a felszámoló vagy annak tagja nem felel meg a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és egyéb törvények módosításáról szóló 2012. évi CIV. törvénnyel módosított 27/A. § (2) bekezdés szerinti átlátható és megismerhető tulajdonosi szerkezeti feltételeknek, a felszámolónak 2012. szeptember 1-jéig kell igazolnia a feltételek teljesítését a felszámolók névjegyzékét vezető szervnek.
+
+(2) A felszámolónak 2012. szeptember 1-jéig be kell jelentenie a nyilvántartást vezető szervnek minden közvetlen vagy közvetett részesedéssel rendelkező tagja (részvényese) nevét (cégnevét, cégjegyzék számát), lakóhelyét (székhelyét), továbbá azon jogi személynek vagy jogi személyiség nélküli szervezetnek a nevét, székhelyét, nyilvántartási számát, amelyben a felszámoló gazdasági társaság tagsággal, közvetlen vagy közvetett részesedéssel rendelkezik, és amely még nincs bejegyezve a felszámolói névjegyzékbe.
+
+(3) Az (1)–(2) bekezdés szerinti kötelezettség elmulasztása esetén a nyilvántartó szerv törli a felszámolót a névjegyzékből.
