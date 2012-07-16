@@ -1,0 +1,27 @@
+6. § (1) A Ctv. 131/A. §-a helyébe e következő rendelkezés lép:
+
+„131/A. § (1) A Módtv. 136. §-ának hatálybalépésekor folyamatban lévő kényszer-végelszámolásokban és a 2006. július 1-jén folyamatban lévő, be nem fejezett végelszámolásokban, – amennyiben a cégbíróság még nem kezdeményezett felszámolási eljárást – a végelszámoló 2013. január 1-jéig
+
+a) kényszer-végelszámolás (végelszámolás) befejezésével egyidejűleg a cég törlésére irányuló változásbejegyzési kérelmet nyújt be, vagy
+
+b) felszámolási eljárást kezdeményez, amennyiben a kényszer-végelszámolás (végelszámolás) befejezésére nincs mód, és a cég vagyona a hitelezők követelésének fedezésére nem elegendő, de megállapítható, hogy fedezni fogja a 118. § (6) bekezdésben meghatározott felszámolási költségeket, vagy
+
+c) kényszertörlési eljárás megindítását kezdeményezi, ha sem az a), sem a b) pontban foglalt feltételek nem állnak fenn.
+
+(2) A végelszámoló a kényszertörlési eljárás megindítása iránti kérelemmel egyidejűleg tájékoztatja a cégbíróságot a kényszer-végelszámolási eljárás során megtett intézkedésekről, a cég vagyonára és követeléseire vonatkozó információkról, valamint az egyéb körülményekről.
+
+(3) A cégbíróság a kényszer-végelszámolási eljárást megszünteti, és a végelszámoló elvégzett munkájával arányos díját megállapítja. Az (1) bekezdés b) pontja szerinti esetben a végelszámolónak a cégbíróság által megállapított díja a felszámolási eljárásban felszámolási költségnek minősül.
+
+(4) A cégbíróság az (1) bekezdés c) pontja szerinti esetben a kényszer-végelszámolási eljárás megszüntetésével egyidejűleg megindítja a kényszertörlési eljárást azzal, hogy az együttműködési, valamint a 117. § (4) bekezdésben foglalt kötelezettség a végelszámolót is terheli.
+
+(5) Amennyiben a végelszámoló az (1) bekezdésben foglaltaknak határidőben nem tesz eleget, a cégbíróság hivatalból indítja meg a kényszertörlési eljárást.
+
+(6) Az (1) bekezdés c) pontja szerinti esetben cégbíróság a végelszámoló megállapított díjának, valamint az eljárásban meg nem térült és igazolt készkiadásainak megfizetésére a vezető tisztségviselőt, – illetve amennyiben a cégnek legalább többségi befolyással rendelkező tagja van, akkor a legalább többségi befolyással rendelkező tagot a vezető tisztségviselővel egyetemlegesen – kötelezi. Ebben az esetben a cégbíróság – az (5) bekezdés szerinti kivétellel – a végelszámolónak az eljárásban meg nem térült és igazolt készkiadásait (ideértve a számlában áthárított általános forgalmi adót is) indokolt esetben, és legfeljebb 20 000 forint összeghatárig a központi költségvetésből megfizeti, ha a végelszámoló igazolja, hogy a vezető tisztségviselő – továbbá amennyiben a cégnek legalább többségi befolyással rendelkező tagja van, úgy a legalább többségi befolyással rendelkező tag – elhalálozott, jogutód nélkül megszűnt, vagy lakóhelye (székhelye) és tartózkodási helye ismeretlen.
+
+(7) A Fővárosi Törvényszék Gazdasági Hivatala (a továbbiakban: Gazdasági Hivatal) minden negyedév utolsó munkanapján összesíti, és az erről szóló kimutatást az államháztartásért felelős miniszter részére megküldi, hogy a tárgynegyedévben a kényszertörlési eljárások kapcsán mennyi az a pénzösszeg, amely szükséges ahhoz, hogy a központi költségvetést terhelő, (5) bekezdés szerinti fizetési kötelezettséget teljesíthesse. A kimutatás alapján az államháztartásért felelős miniszter – a központi költségvetés terhére – a szükséges összeget elkülönített számlán a Gazdasági Hivatal rendelkezésére bocsátja. A Gazdasági Hivatal a pénzösszeg beérkezését követő 15 napon belül teljesíti a végelszámolók részére a kifizetéseket. A Gazdasági Hivatal központi költségvetéssel történő elszámolásának, valamint a pénzösszeg folyósításának részletes szabályait az államháztartásért felelős miniszter rendeletben állapítja meg.
+
+(8) E törvény Módtv.-vel megállapított 116–118. §-ának rendelkezéseit azokban a törvényességi felügyeleti eljárásokban is alkalmazni kell, amelyek 2012. március 1-je előtt indultak, és a cégbíróság még nem hozott végzést a cég kényszer-végelszámolásának elrendeléséről. Az elrendelt kényszer-végelszámolások esetében is alkalmazni kell az (1) bekezdésben foglaltakat azzal, hogy az (1) bekezdés a)–c) pontjában meghatározott eljárást a végelszámolónak 2015. január 1-jéig kell kezdeményeznie.”
+
+(2) A Ctv. a következő 131/B. §-sal egészül ki:
+
+„131/B. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és egyéb törvények módosításáról szóló 2012. évi CIV. törvény hatálybalépésekor a cégjegyzékbe bejegyzett közhasznú jogállású nonprofit gazdasági társaságok esetében a cégbíróság 2014. június 1. napjával törli a közhasznú jogállásra vonatkozó adatot, kivéve ha ezen napig az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Civil tv.), valamint a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény rendelkezései szerint a közhasznú nyilvántartásba vétel megtörtént, vagy a közhasznú nyilvántartásba vételre irányuló változásbejegyzési kérelem benyújtásra került. A törlésre automatikusan kerül sor.”
