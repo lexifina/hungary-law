@@ -12,4 +12,6 @@ c) a törvényszéki bíró, a járásbírósági bíró, továbbá a közigazga
 
 kezdeményezi az elsőfokú szolgálati bíróság elnökénél.
 
-(3) Ha a bíróval szemben büntetőeljárás indult – ide nem értve a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást –, a fegyelmi eljárást meg kell indítani.
+(3) Az OBH elnöke kizárólag az általa kinevezett bírósági vezetők, valamint az OBH-ba beosztott bíró ellen kezdeményezheti a fegyelmi eljárás megindítását.
+
+(4) Ha a bíróval szemben büntetőeljárás indult – ide nem értve a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást –, a fegyelmi eljárást meg kell indítani.

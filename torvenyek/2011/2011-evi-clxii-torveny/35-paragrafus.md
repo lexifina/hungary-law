@@ -1,6 +1,6 @@
 ## IV. Fejezet
 
-## A BÍRÓI JOGAI ÉS KÖTELEZETTSÉGEI
+## A BÍRÓ JOGAI ÉS KÖTELEZETTSÉGEI
 
 ## 19. A bíró jogai
 

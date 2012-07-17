@@ -4,7 +4,7 @@
 
 ## 13. A bírói kinevezés tartama
 
-23. § (1) A bíró kinevezése – a (2) bekezdésben, valamint a 25. § (2) és (4) bekezdésében foglalt kivétellel – első alkalommal (első bírói kinevezés) három évre, egyéb esetben határozatlan időre szól.
+23. § (1) A bíró kinevezése – a (2) bekezdésben, foglalt kivétellel – első alkalommal (első bírói kinevezés) három évre, egyéb esetben határozatlan időre szól.
 
 (2) A bíró első kinevezése – a pályázat elbírálójának javaslatára – határozatlan időre szól, ha
 

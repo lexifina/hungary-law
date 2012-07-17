@@ -2,7 +2,7 @@
 
 84. § (1) A bíróság elnökének értesítése alapján az elsőfokú szolgálati bíróság kijelölt tanácsa megindítja az alkalmatlansági eljárást és az előzetes vizsgálat lefolytatására vizsgálóbiztost rendel ki.
 
-(2) A vizsgálóbiztos köteles a tényállás megállapításához szükséges valamennyi körülményt tisztázni. Ennek érdekében meghallgathatja az eljárás alá vont bírót és az értékelő bírósági elnököt, tanúkat hallgathat ki, a bírói értékelés irataiba betekinthet. A bírák és a bíróság dolgozói kötelesek részére a szükséges tájékoztatást megadni.
+(2) A vizsgálóbiztos köteles a tényállás megállapításához szükséges valamennyi körülményt tisztázni. Ennek érdekében az eljárás alá vont bírót és az értékelő bírósági elnököt meghallgatja, beszerzi a bíró beosztása szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetője, illetve a járásbírósági bíró esetén az ítélőtábla, közigazgatási és munkaügyi bírósági bíró, valamint a törvényszéken közigazgatási és munkaügyi ügyeket tárgyaló bíró esetén a közigazgatási és munkaügyi regionális kollégium vezetője véleményét, tanúkat hallgathat ki, a bírói értékelés irataiba betekinthet. A bírák és a bíróság dolgozói kötelesek részére a szükséges tájékoztatást megadni.
 
 (3) Ha a kijelölt tanács megítélése szerint az értékelés homályos, hiányos, önmagával ellentétben állónak látszik, vagy helyességéhez egyébként nyomatékos kétség fér, a kijelölt tanács az értékelő bírósági elnököt és az eljárás alá vont bírót meghallgatja.
 

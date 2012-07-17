@@ -22,7 +22,7 @@ hb) a felső korhatár betöltése előtt a társadalombiztosítási nyugellát�
 
 i) ha a bíróval szemben lefolytatott fegyelmi eljárás során jogerős fegyelmi büntetésként a bírói tisztségből való felmentést indítványozták,
 
-j) ha a bíró a 34. § (2) bekezdésében írtak szerinti áthelyezéséhez nem járul hozzá,
+j) ha a pályázat eredményével szembeni jogorvoslati eljárás során megállapítást nyert, hogy a bíró kinevezésének törvényi feltételei nem állnak fenn,
 
 k) ha a bíró a vagyonnyilatkozat-tételi kötelezettségét szándékosan elmulasztja, vagy a vagyonnyilatkozatában – a vele közös háztartásban élő hozzátartozók adatait is ideértve – lényeges adatot, tényt szándékosan valótlanul közöl, illetve elhallgat, vagy a vagyonnyilatkozatát és a személyes adat kezelésére felhatalmazó nyilatkozatát visszavonja,
 

@@ -1,7 +1,1 @@
-19. § A Kúriára kiírt pályázat esetében a 18. §-ban foglaltakat az alábbi eltérésekkel kell alkalmazni:
-
-a) az OBH elnökének jogköreit a Kúria elnöke gyakorolja,
-
-b) a Kúria elnöke a pályázatot akként bírálja el, hogy 8 munkanapon belül a felterjesztés és az áthelyezés érdekében megkeresi az OBH elnökét,
-
-c) az OBH elnöke a Kúria elnöke megkeresésének 8 munkanapon belül eleget tesz.
+19. § A Kúriára kiírt pályázat esetében a 18. §-ban foglaltakat azzal az eltéréssel kell alkalmazni, hogy az OBH elnökének jogköreit a Kúria elnöke gyakorolja, és a pályázat eredményes elbírálása esetén, 8 munkanapon belül a felterjesztés vagy az áthelyezés érdekében megkeresi az OBH elnökét, aki a Kúria elnöke megkeresésének 8 munkanapon belül eleget tesz.

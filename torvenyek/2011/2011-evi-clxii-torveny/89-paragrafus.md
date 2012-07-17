@@ -6,4 +6,4 @@ a) a bíró halálával,
 
 b) a 25. § (1) bekezdésében foglalt esetben,
 
-c) felmentéssel.
+c) a köztársasági elnök általi felmentéssel.

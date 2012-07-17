@@ -1,1 +1,1 @@
-232. § Az OBH elnöke e törvény hatályba lépésétől számított 1 éven belül felülvizsgálja az Országos Igazságszolgáltatási Tanács által a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény 24. § (5) bekezdése alapján az együttalkalmazási tilalom alól adott felmentéseket.
+232. § Az OBT e törvény hatályba lépésétől számított 1 éven belül felülvizsgálja az Országos Igazságszolgáltatási Tanács által a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény 24. § (5) bekezdése alapján az együttalkalmazási tilalom alól adott felmentéseket.

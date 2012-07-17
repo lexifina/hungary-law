@@ -4,7 +4,7 @@
 
 (2) A bíró beosztásáról írásban kell rendelkezni, abban meg kell határozni a bíró szolgálati helyét, beosztását, a szolgálati ideje kezdetét, fizetési fokozatát, az ahhoz tartozó alapilletményét, a pótlékok jogcímét és összegét, valamint a kötelező előrelépése időpontját.
 
-(3) A bíró beosztása a határozott idejű első kinevezés, valamint a 25. § (2) és (4) bekezdésében meghatározott esetek kivételével határozatlan időre szól.
+(3) A bíró beosztása a határozott idejű első kinevezés, valamint a 25. § (2) bekezdésében meghatározott eset kivételével határozatlan időre szól.
 
 (4) Ha a bírói álláshely betöltése nem pályázat útján történik, a bíró beosztásához a bíró hozzájárulása szükséges.
 

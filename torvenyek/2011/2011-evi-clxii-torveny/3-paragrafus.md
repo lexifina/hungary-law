@@ -10,7 +10,7 @@ a) a pályázati eljárás során olyan személy nyeri el a pályázatot, aki ne
 
 b) a törvény rendelkezései szerint pályázat kiírása nélkül olyan személyt kell kinevezni, aki nem áll bírói szolgálati viszonyban;
 
-c) a határozott időre kinevezett bíró ismételten határozott idejű, vagy határozatlan idejű kinevezést kap;
+c) a határozott időre kinevezett bíró határozatlan idejű kinevezést kap;
 
 d) a katonai bíró katonai bírói tisztségének megszüntetésével egyidejűleg a törvényben meghatározott feltételek fennállása esetén bírói kinevezést kap.
 

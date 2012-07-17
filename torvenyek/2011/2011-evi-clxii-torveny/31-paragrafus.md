@@ -2,9 +2,9 @@
 
 31. § (1) A bíró kirendelésére a törvényszék elnöke jogosult, ha arra a törvényszék és a járásbíróság, a törvényszék és a közigazgatási és munkaügyi bíróság között, továbbá ha a törvényszék területén működő járásbíróságok, vagy a törvényszék területén működő járásbíróság és a közigazgatási és munkaügyi bíróság között kerül sor. Egyéb esetben a kirendelésre az OBH elnöke jogosult.
 
-(2) A bírót szolgálati érdekből vagy szakmai fejlődésének elősegítése érdekében más szolgálati helyre lehet kirendelni.
+(2) A bírót a bíróságok közötti ügyteher egyenletes elosztásának biztosítása vagy szakmai fejlődésének elősegítése érdekében más szolgálati helyre lehet kirendelni.
 
-(3) A bírót – hozzájárulása nélkül – háromévenként, ezen belül legfeljebb egy évre lehet szolgálati érdekből bírói beosztásba, ideiglenesen más szolgálati helyre kirendelni.
+(3) A bírót – hozzájárulása nélkül – háromévenként, ezen belül legfeljebb egy évre lehet a bíróságok közötti ügyteher egyenletes elosztásának biztosítása céljából bírói beosztásba, ideiglenesen más szolgálati helyre kirendelni.
 
 (4) A bíró a beosztásából eredő ítélkezési tevékenységének megtartása mellett más szolgálati helyre csak hozzájárulásával rendelhető ki.
 

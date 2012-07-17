@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-162-00-00
 | 2012-01-03 | 2010. évi CXXX. törvény | 2011-162-00-00.3 |
 | 2012-03-08 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-162-00-00.4 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 2011-162-00-00.5 |
+| 2012-07-17 | 2012. évi CXI. törvény | 2011-162-00-00.6 |

@@ -6,7 +6,7 @@ b) kiválóan alkalmas,
 
 c) alkalmas,
 
-d) alkalmas, utóvizsgálat lefolytatása indokolt,
+d)
 
 e) alkalmatlan
 
