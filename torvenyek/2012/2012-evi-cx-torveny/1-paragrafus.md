@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európa Tanácsnak a kulturális örökség társadalmi értékéről szóló, Faróban, 2005. év október 27. napján elfogadott keretegyezménye (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
