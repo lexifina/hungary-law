@@ -1,3 +1,0 @@
-12. § A Cstv. 27/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A felszámolóként kijelölhetők körét a Kormány rendelettel állapítja meg. Felszámoló csak olyan szervezet lehet, amelynek tagja (részvényese) megismerhető, továbbá amelyben közvetlen vagy közvetett részesedéssel nem rendelkezik olyan tag (részvényes), amely olyan államban – ide nem értve az Európai Gazdasági Térségről szóló megállapodásban részes államban illetőséggel rendelkező államot – rendelkezik adóügyi illetőséggel, amelyben jogszabály nem ír elő a társasági adónak megfelelő adókötelezettséget vagy az előírt adómérték legfeljebb 10 százalék. A Kormány a felszámolók névjegyzékébe való felvételre nyilvános pályázatot ír ki.”

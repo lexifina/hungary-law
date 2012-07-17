@@ -1,3 +1,0 @@
-2. § A Ctv. 36. § (4a) bekezdése helyébe a következő rendelkezés lép:
-
-„(4a) Az állami adóhatóság és a cégnyilvántartás közötti, az adóregisztrációs eljáráshoz kapcsolódó adatszolgáltatás érdekében a bejegyzési (változásbejegyzési) kérelemben fel kell tüntetni a cégjegyzékbe bejegyzett (bejegyezni kívánt) tagok (részvényesek) – külföldi esetében a 30. § (7) bekezdése szerinti – adóazonosító számát. Amennyiben a külföldi nem rendelkezik az illetősége szerinti állam által megállapított közteherviselési azonosítóval sem, úgy erre a körülményre utalni kell. A tagok adóazonosító száma nem szerepel a cégjegyzékben.”
