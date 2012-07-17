@@ -4,4 +4,4 @@
 
 (3) A (2) bekezdésben meghatározottak szerinti eljárás során, közigazgatási és munkaügyi ügyekben a törvényszék kollégiumának kollégiumvezetője, valamint a közigazgatási és munkaügyi regionális kollégium kollégiumvezetője a jogegységi eljárás indítványozására a Kúria kollégiumvezetőjének, az elvi bírósági döntés közzétételére a Kúria elnökének vagy kollégiumvezetőjének tesz javaslatot.
 
-(4) Az OBH elnöke a Kúria elnökének jogegységi eljárás indítványozására tesz javaslatot, ha a feladatai ellátása során észleli, hogy a jogalkalmazás egysége érdekében ez szükséges.
+(4) Az OBH elnöke jelzi a Kúria elnökének, ha álláspontja szerint a jogalkalmazás egysége érdekében jogegységi eljárást szükséges lefolytatni; az OBH elnökét a jogegységi eljárás indítványozásának joga nem illeti meg.

@@ -8,7 +8,7 @@ b) az igazgatási feladatainak ellátása érdekében jogszabályi keretek köz�
 
 c) képviseli a bíróságokat,
 
-d) a bíróságokat érintő jogszabály alkotását kezdeményezheti,
+d) a bíróságokat érintő jogszabály alkotására tehet javaslatot a jogszabályalkotás kezdeményezésére jogosultnál,
 
 e) a bíróságok véleményét az OBH-n keresztül beszerezve és összegezve, véleményezi – az önkormányzati rendeleteket kivéve – a bíróságokat érintő jogszabályok tervezetét, és
 
@@ -24,7 +24,7 @@ c) javaslatot tesz az OBH elnökhelyetteseinek kinevezésére és felmentésére
 
 (3) Az OBH elnöke a bíróságok költségvetésével kapcsolatos feladatkörében
 
-a) összeállítja – az OBT, továbbá a Kúria tekintetében a Kúria elnöke véleményének kikérésével és ismertetésével – a bíróságok költségvetésére vonatkozó javaslatát és az annak végrehajtására vonatkozó beszámolóját, amelyet a Kormány a központi költségvetésről szóló törvényjavaslat és az annak végrehajtására vonatkozó törvényjavaslat részeként változtatás nélkül terjeszt az Országgyűlés elé,
+a) összeállítja – a központi költségvetésről szóló törvény Bíróságokról szóló fejezete, valamint az OBT tekintetében az OBT, továbbá a Kúria tekintetében a Kúria elnöke véleményének kikérésével és ismertetésével – a bíróságok költségvetésére vonatkozó javaslatát és az annak végrehajtására vonatkozó beszámolóját, amelyet a Kormány a központi költségvetésről szóló törvényjavaslat és az annak végrehajtására vonatkozó törvényjavaslat részeként változtatás nélkül terjeszt az Országgyűlés elé,
 
 b) meghívottként részt vesz a Kormány, továbbá az Országgyűlés költségvetéssel foglalkozó bizottságának ülésén a központi költségvetésről szóló törvényjavaslat és az annak végrehajtására vonatkozó törvényjavaslat bíróságokra vonatkozó költségvetési fejezetének megtárgyalásakor,
 
@@ -38,13 +38,13 @@ f) az érdek-képviseleti szervekkel együttműködve meghatározza a cafetéria
 
 g) az érdek-képviseleti szervekkel együttműködve megállapítja az egyéb juttatások részletes feltételeit és mértékét.
 
-(4) Az OBH elnöke a statisztikai adatgyűjtéssel, az ügyelosztással és a munkateher méréssel kapcsolatos feladatkörében
+(4) Az OBH elnöke a statisztikai adatgyűjtéssel, az ügyelosztással és a munkateherméréssel kapcsolatos feladatkörében
 
 a) a központi költségvetésről szóló törvény bíróságokra vonatkozó költségvetési fejezetének létszám-előirányzata, valamint a peres és nemperes eljárások átlagos országos munkaterhének mutatói alapján meghatározza a bíróságok – a törvényszékek esetében az illetékességi területükön működő közigazgatási és munkaügyi bírósággal, valamint járásbíróságokkal együttes – szükséges bírói létszámát,
 
-b) az eljáró bíróság helyett másik bíróságot jelöl ki az eljárásra, ha az az ügyek ésszerű időn belül való elbírálásának biztosítása érdekében szükséges,
+b) az OBT által meghatározott elvek figyelembevételével az eljáró bíróság helyett másik bíróságot jelöl ki az eljárásra, ha az az ügyek ésszerű időn belül való elbírálásának biztosítása érdekében szükséges,
 
-c) kivételesen indokolt esetben elrendelheti a társadalom széles körét érintő vagy a közérdek szempontjából kiemelkedő jelentőségű ügyek soron kívüli intézését,
+c)
 
 d) dönt a bírósági statisztikai adatok gyűjtéséről és az adatok feldolgozásával kapcsolatos központi feladatokról, és
 
@@ -72,13 +72,13 @@ i) dönt a bíró tekintetében a tartós külszolgálat ellátásáról,
 
 j) dönt arról, hogy a bíróság hatáskörének vagy illetékességi területének csökkenése olyan mértékű-e, hogy ott a bíró további foglalkoztatása nem lehetséges,
 
-k) a bíró lemondása esetén hozzájárulhat, hogy a lemondási idő 3 hónapnál rövidebb legyen, illetve a bírót a lemondási időre vagy egy részére mentesítheti a munkavégzési kötelezettség alól,
+k)
 
-l) a bíró nyugállományba helyezése vagy a felső korhatár elérése esetén a bírák jogállásáról és javadalmazásáról szóló törvény alapján dönt a felmentési időre vonatkozóan a munkavégzési kötelezettség alóli mentesítés idejéről,
+l)
 
 m) kinevezi és felmenti a törvényben meghatározott bírósági vezetőket,
 
-n) felmentést adhat a bírósági vezető és a vezetése alatt álló szervezeti egységben bíráskodó hozzátartozója közötti összeférhetetlenség esetében, és
+n)
 
 o) megállapítja, hogy a választó szerv melyik bírósághoz hány ülnököt választ, a nemzetiségi választói jegyzékben szereplő választópolgárok száma és az érintett települések választópolgárai száma arányának figyelembevételével akként, hogy legalább egy ülnököt minden nemzetiségi önkormányzat választhasson.
 
@@ -104,7 +104,7 @@ a) félévente tájékoztatja a tevékenységéről az OBT-t,
 
 b) évente tájékoztatja a Kúria, az ítélőtáblák, valamint a törvényszékek elnökeit a tevékenységéről,
 
-c) évente beszámol az Országgyűlésnek a bíróságok általános helyzetéről és a bíróságok igazgatási tevékenységéről,
+c) a bíróságok általános helyzetéről és a bíróságok igazgatási tevékenységéről évente az Országgyűlésnek, továbbá az éves beszámolók között egy alkalommal az Országgyűlés igazságüggyel foglalkozó bizottságának beszámol,
 
 d) gondoskodik a Bírósági Határozatok Gyűjteményének közzétételéről,
 

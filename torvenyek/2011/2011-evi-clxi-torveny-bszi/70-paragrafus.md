@@ -24,4 +24,4 @@ i) a tisztségtől való megfosztással.
 
 (3) Az OBH elnöke megbízatásának megszűnéséről az Országgyűlés elnöke annak megállapítását követő 8 napon belül tájékoztatja a köztársasági elnököt.
 
-(4) Ha az OBH elnökének megbízatása az (1) bekezdés a) pontja alapján szűnt meg, és a megbízatás megszűnéséig az Országgyűlés nem választott új OBH elnököt, az OBH elnöke az elnöki jogköröket az új OBH elnök megválasztásáig gyakorolja.
+(4)
