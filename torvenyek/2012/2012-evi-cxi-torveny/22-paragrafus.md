@@ -1,0 +1,3 @@
+22. § A Bjt. 84. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A vizsgálóbiztos köteles a tényállás megállapításához szükséges valamennyi körülményt tisztázni. Ennek érdekében az eljárás alá vont bírót és az értékelő bírósági elnököt meghallgatja, beszerzi a bíró beosztása szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetője, illetve a járásbírósági bíró esetén az ítélőtábla, közigazgatási és munkaügyi bírósági bíró, valamint a törvényszéken közigazgatási és munkaügyi ügyeket tárgyaló bíró esetén a közigazgatási és munkaügyi regionális kollégium vezetője véleményét, tanúkat hallgathat ki, a bírói értékelés irataiba betekinthet. A bírák és a bíróság dolgozói kötelesek részére a szükséges tájékoztatást megadni.”

@@ -1,0 +1,3 @@
+16. § A Bjt. 19. §-a helyébe a következő rendelkezés lép:
+
+„19. § A Kúriára kiírt pályázat esetében a 18. §-ban foglaltakat azzal az eltéréssel kell alkalmazni, hogy az OBH elnökének jogköreit a Kúria elnöke gyakorolja, és a pályázat eredményes elbírálása esetén, 8 munkanapon belül a felterjesztés vagy az áthelyezés érdekében megkeresi az OBH elnökét, aki a Kúria elnöke megkeresésének 8 munkanapon belül eleget tesz.”

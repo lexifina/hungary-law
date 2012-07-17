@@ -1,0 +1,3 @@
+18. § A Bjt. 25. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha a bíró tényleges működésének időtartama a 18 hónapot nem érte el, a köztársasági elnök a bíró kinevezését – az OBH elnökének javaslatára, a kinevezés módosításával – három évvel meghosszabbítja, kivéve, ha a bíró a szolgálati viszonyát nem kívánja fenntartani. A javaslat előterjesztésére a 24. § (3) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni. A bíró kinevezése ismételten meghosszabbítható, amíg az értékeléséhez szükséges tényleges bírói működés együttes időtartama a minimális 18 hónapot eléri.”
