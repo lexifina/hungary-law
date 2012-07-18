@@ -1,6 +1,6 @@
 ## 3–4. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^135]
+## az Állategészségügyi Szabályzathoz[^134]
 
 ## 5. számú függelék
 
@@ -8,7 +8,7 @@
 
 ## Állati hulladékgyűjtők, hulladéktemetők, hulladékemésztő vermek, kedvtelésből tartott állatok kegyeleti temetője létesítésének állategészségügyi feltételei
 
-1–2.[^136]
+1–2.[^135]
 
 A gyepmesteri telep
 
@@ -80,8 +80,8 @@ j) a gyepmesteri telepre szállított állathullákról, a hatósági rendelkez�
 
 3.10. A gyepmesteri telep állategészségügyi felügyeletét a hatósági állatorvos látja el.
 
-4.[^137]
+4.[^136]
 
-[^135]: Az 1. számú melléklet 3–4. számú függelékét a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
-[^136]: Az 1. számú melléklet 5. számú függelékének 1–2. pontját a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
-[^137]: Az 1. számú melléklet 5. számú függelék 4. pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 87. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^134]: Az 1. számú melléklet 3–4. számú függelékét a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
+[^135]: Az 1. számú melléklet 5. számú függelékének 1–2. pontját a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
+[^136]: Az 1. számú melléklet 5. számú függelék 4. pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 87. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

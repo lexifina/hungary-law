@@ -3966,143 +3966,9 @@ MÁSODIK RÉSZ[^131]
 
 ## 654–792. §
 
-HARMADIK RÉSZ
+HARMADIK RÉSZ[^132]
 
-## A TAKARMÁNYOZÁS ÁLLATEGÉSZSÉGÜGYI SZABÁLYAI
-
-A takarmánytermesztés állategészségügyi szabályai
-
-793. § (1) Takarmányt betakarítani csak a felhasznált növényvédő szerekre és termésnövelő anyagokra (műtrágyákra), vagy az egyéb, más módon odakerült anyagokra meghatározott várakozási idő eltelte, illetőleg ártalmatlanná tételük után szabad.
-
-(2) Szélsőséges időjárási viszonyok (szélvihar, jégverés) miatt az (1) bekezdésben megjelöltnél korábban betakarított és takarmányként hasznosítható növények állatokkal való esetleges feletetését – az előzetesen kiadagolt anyagokra és azok szermaradékaira irányuló laboratóriumi toxikológiai vizsgálatok eredménye alapján – a hatósági állatorvos határozza meg.
-
-(3) Ha a takarmánytermő területre, illetőleg a legelőre állategészségügyi vagy közegészségügyi szempontból veszélyes anyag került, a hatósági állatorvosnak – az állomás és az ÁNTSZ területi intézetének egyidejű értesítése mellett – a szükséges vizsgálatokat el kell végeznie, vagy végeztetnie. A takarmány betakarítását, illetőleg a legeltetést a vizsgálatok befejezéséig a hatósági állatorvos megtiltja, majd a betakarítást, illetőleg a legeltetést a vizsgálati eredmény alapján engedélyezi vagy korlátozza.
-
-(4) A szántóföldi takarmánynövény-termesztés során a megfelelő agrotechnikai eljárások alkalmazásával törekedni kell arra, hogy – az állatok és az állati eredetű élelmiszerek révén az ember egészségét is veszélyeztető – szántóföldi penészgombák és ezek mérgező anyagcseretermékei a betakarításra kerülő takarmánynövényeket lehetőség szerint minél kisebb mértékben szennyezzék.
-
-(5) A hígtrágyával öntözött területekről betakarított szálastakarmányt lehetőség szerint tartósításnak kell alávetni, illetve tartósítás nélkül csak a kiöntözést követő harminc nap elteltével betakarított szálast szabad feletetni.
-
-(6) A hígtrágyának a szántóföldre, rétre vagy legelőre esőztető öntözéses módszerrel való kijuttatásakor az öntözött terület és a lakóterület, illetőleg állattartó telep határai között legalább ötszáz méteres, a közlekedési főúttól legalább kétszáz méteres, míg az alacsonyabb rendű közúttól száz méteres védőtávolságot, állategészségügyi és közegészségügyi szempontból is meg kell tartani.
-
-Élelmiszeripari melléktermékek és hulladékok takarmányozásra való felhasználásának állategészségügyi szabályai
-
-794. § (1) A különböző élelmiszeripari melléktermékek az élelmiszertermelő állatfajok takarmányozására csak olyan arányban használhatók fel, hogy az azt fogyasztó állatokban egészségkárosodást ne okozzanak, továbbá az ilyen állatokból származó élelmiszerekben az ember egészségére káros maradékanyagok vagy az élelmiszer minőségét rontó káros ízanyagok ne jelenjenek meg. Élelmiszeripari üzemi szennyvíznek semmilyen részét sem szabad állatok takarmányozására felhasználni vagy takarmányozási célra feldolgozni.
-
-(2) A vágóhídi melléktermékek takarmányozásra történő felhasználásának állategészségügyi szabályait a Szabályzatnak az „Állati hulladék ártalmatlanná tétele” című fejezete határozza meg. A kis fertőzési veszélyt jelentő állati hulladékból házi húsevők részére készült hőkezelt takarmány egyedi vagy gyűjtőcsomagolásban, lágy vagy félszáraz (konzerv, töltelékes áru) állapotban is forgalomba hozható. Ezek csomagolásán (burkolatán) tartós, kicserélhetetlen jelöléssel fel kell tüntetni a forgalomba hozatali engedélyben előírt adatokat. A konzervet csak a gyártási tételenként elvégzett, igazoltan kedvező eredményű tartóssági próbát követően szabad forgalomba hozni.
-
-(3) Közfogyasztásra alkalmatlannak minősített állati eredetű élelmiszert – mint nagy fertőzési veszélyt jelentő állati eredetű hulladékot – a Szabályzatnak a (2) bekezdésében hivatkozott fejezetében előírt hőkezelés után, a hatósági állatorvos által meghatározott feltételekkel szabad takarmányozási célra felhasználni.
-
-(4) A közétkeztetésből (pl. vendéglátóipari létesítményekből) és nagyfogyasztóktól (pl. fegyveres testületektől, iskoláktól stb.) származó konyhai hulladékot és konyhamoslékot (a továbbiakban együtt: konyhamoslékot) legalább húsz percig tartó forralás után szabad állatok takarmányozására felhasználni. A hőkezelést lehetőség szerint a konyhamoslék képződésének helyén kell elvégezni. Ez alól az (5) bekezdésben előírt feltételek hiánytalan megléte esetén a hatósági állatorvos felmentést adhat.
-
-(5) Az állattartó a (4) bekezdésben megjelölt konyhamoslékot csak erre a célra használt fedett (fedhető) járművön, csepegéstől és kiszóródástól mentesen szállíthatja el. Az állattartó a konyhamoslék tárolását és felforralását az állataitól elkülönített helyen köteles megoldani. Az állattartónak a szállítóeszköz, a tároló- és főzőhelyiség fertőtlenítésére alkalmas permetezőkészülékkel és megfelelő mennyiségű fertőtlenítőszerrel kell rendelkeznie.
-
-(6) Az állattartónak a (4) bekezdésben meghatározott konyhamoslék elszállítására és saját állataival történő feletetésére vonatkozó engedélyt – a hatósági állatorvos javaslata alapján – az állomás adja ki. Az engedélyben részletesen meg kell jelölni a konyhamoslék begyűjtésének helyeit és az állattartó kötelezettségeit. A fenti tevékenységet végző személyekről működési körzetében a hatósági állatorvosnak, a megyében (fővárosban) az állomásnak kell nyilvántartást vezetnie.
-
-(7) A konyhamoslék begyűjtésének, szállításának és takarmányozási célú felhasználásának járványügyi és takarmányhigiéniai feltételeit a hatósági állatorvos legalább negyedévente ellenőrizni köteles. A járványügyi és a takarmányhigiéniai követelmények megszegésekor a hatósági állatorvos javaslatot tesz az engedély visszavonására.
-
-(8) Bejelentendő állatbetegség megállapításakor a konyhamoslék begyűjtésének, szállításának és feletetésének szabályait a korlátozó intézkedést elrendelő állategészségügyi hatóság határozza meg.
-
-A takarmányok üzemi előállításának
-
-állategészségügyi szabályai
-
-795. § (1) Az állatok egészségkárosodásának megelőzése, továbbá az állati eredetű élelmiszert fogyasztó ember egészségvédelme céljából az előkeverék, takarmánykeverék, táp és tápszer (a továbbiakban együtt: takarmány) előállításához csak a külön jogszabályban előírtak szerint engedélyezett takarmány-alapanyagok, takarmány-kiegészítő és -adalékanyagok, valamint állatgyógyászati készítmények használhatók fel.
-
-(2) A takarmányokat úgy kell előállítani, a készterméket pedig tárolni, hogy a megadott minőségmegőrzési időtartamon belül állatok takarmányozására aggálytalanul felhasználhatók legyenek.
-
-(3) Érzékszervileg megállapíthatóan erősen penészes, dohos, romlott, rothadt vagy avas takarmány-alapanyagok az előkeverékek, takarmánykeverékek, tápok, tápszerek előállításához nem használhatók fel. Ezek ártalmatlanná tételéről a takarmány-alapanyag birtokosa köteles gondoskodni.
-
-(4) A takarmányok előállításához tilos felhasználni a külön jogszabályban felsorolt anyagokat.
-
-(5) A takarmányok kőolajból és kőolajipari melléktermékekből előállított füstgázzal való közvetlen szárítása tilos.
-
-(6)[^132] Fiatalkorú és növendék kérődző állatokkal csak tej eredetű porított termék (tejpor, savópor stb.), valamint saját állománytól származó tej, míg felnőtt kérődzőkkel kizárólag halliszt és baromfi eredetű liszt etethető állati eredetű fehérjeként.
-
-A takarmányelőállító üzemek működésének állategészségügyi szabályai
-
-796. § (1) A takarmányelőállító üzem (a továbbiakban: üzem) területét legalább száznyolcvan centiméter magas kerítéssel be kell keríteni mindenütt, ahol nem védi épület vagy más építményfal. Az üzem kerítésén kívül eső ötven méteres sávon belül tilos olyan anyagot tárolni, vagy olyan tevékenységet folytatni, amely a takarmányt szennyezheti, fertőzheti, illetőleg kedvez a takarmányt károsító (szennyező és fertőző) rovarok, rágcsálók és vadon élő madarak elszaporodásának.
-
-(2) A személy- és járműforgalom részére szilárd burkolatú, pormentes, különbejáratú utat kell létesíteni. A bejáratoknál a kéz és lábbeli, illetőleg a járműfertőtlenítés tárgyi eszközeit folyamatosan biztosítani és működtetni kell.
-
-(3) A szemét- és hulladéktárolásra külön szeméttárolót kell létesíteni, melyet a kerítés vonalában szilárd burkolatú területen kell elhelyezni. A szeméttároló jól takarítható és fertőtleníthető, résmentes, és hézagmentesen záródó legyen.
-
-(4) Az üzem területén idegen anyag nem tárolható. Az üzem működéséhez szükséges, javításra váró gépeket, eszközöket és építőanyagokat a termelőrésztől (övezettől) elkülönített helyen, megfelelő rendben kell tárolni.
-
-(5) A takarmányszállító járművek tisztítása és fertőtlenítése céljából – amennyiben ez nem központi vagy egyéb erre kijelölt és engedélyezett helyen történik – szilárd burkolatú, megfelelő vízellátású, olyan kocsimosót kell létesíteni, amelyből a szennyvíz megbízhatóan elvezethető.
-
-(6) Az üzem területén állatot tartani tilos. Az üzem területének őrzéséhez csak veszettség ellen egy éven belül vakcinázott, továbbá hatékony fonál- és galandféreg ellenes kezelésben részesített ebet lehet igénybe venni. Az őrző eb az ömlesztett alapanyagokkal és késztermékekkel nem érintkezhet.
-
-(7) A nagy létszámú állattartó teleppel összefüggően épített takarmányelőállító üzem személy- és járműforgalmát az állattartó teleptől elkülönítetten – annak érintése nélkül – kell kialakítani. Több állattartó telepet is kiszolgáló új takarmányelőállító üzem állattartó telep kerítésén belül nem létesíthető.
-
-(8) Fokozott járványveszély esetén az üzemben a személy- és járműforgalom korlátozását, valamint a fertőtlenítés módját a hatósági állatorvos határozza meg. Az állattartó telepről származó zsákot (különös tekintettel a juta- vagy textilzsákra) az üzembe bevinni tilos.
-
-(9) A raktárhelyiségeket évente egyszer, lehetőleg a teljes kiürítés és a mechanikai tisztítás után nagynyomású permetezőgéppel, hatékony fertőtlenítőszerrel fertőtleníteni kell.
-
-(10) Gyógyszeres takarmány előállítását követően ugyanazon a gyártósoron más, engedélyezett terméket készíteni csak a gyártósor – az engedélyben meghatározott módon végrehajtott – gyógyszermentesítése után szabad. Különös figyelmet kell fordítani erre akkor, ha a gyógyszeres takarmány hatóanyaga a gyártósoron később készítendő terméket fogyasztó állatfaj(ok)ra mérgező. A gyógyszerek tárolására külön helyiséget kell biztosítani, továbbá a gyógyszerekről és azok felhasználásáról az üzem köteles pontos nyilvántartást vezetni.
-
-(11) Ha a takarmány vagy a takarmányelőállító üzem az állategészségügyi követelményeknek nem felel meg, a hatósági állatorvos, illetőleg a takarmányfelügyelő a szükséges intézkedések megtétele céljából az állomást értesíti, annak intézkedéséig a takarmány felhasználását megtilthatja.
-
-797. § (1) A késztermékek csomagolóanyagait (papír- és műanyagzsák, konténer) a termelőhelyiségektől elkülönítve, tiszta és száraz helyen kell tárolni.
-
-(2) A takarmány-alapanyagokat és a készterméket védeni kell az időjárás káros hatásaitól, ezért azokat szabadtéren átmenetileg sem szabad tárolni.
-
-(3) Az alapanyagokat és a késztermékeket védeni kell a madaraktól úgy, hogy a raktárak ablakaira madárrácsot, a nem körülfalazott tároló oldalfalaira pedig madárhálót kell felszerelni.
-
-(4) A rovar- és rágcsálóirtást legalább félévenként – indokolt esetben rövidebb időközzel – el kell végezni, vagy erre engedéllyel rendelkezővel el kell végeztetni. Az engedélyezett rovar- és rágcsálóirtó szereket a használati utasításban foglaltak betartásával úgy kell alkalmazni, hogy más állat és az ember egészségét ne veszélyeztessék, az alapanyagot és a készterméket ne szennyezzék.
-
-(5) A rovar- és rágcsálóirtó szerek elkülönített tárolására méregraktárat kell létesíteni, amely nem állhat közvetlen kapcsolatban a termelőhelyiséggel vagy más raktárhelyiséggel.
-
-A takarmányok tárolásának és forgalmazásának állategészségügyi szabályai
-
-798. § (1) Takarmányt, illetve az előállításához szükséges alap-, kiegészítő- és adalékanyagokat az időjárás káros hatásaitól védetten, az állatok egészségére káros anyagokkal való szennyeződést és fertőződést kizáró módon, továbbá a minőség megőrzését biztosító helyen szabad tárolni.
-
-(2) A takarmányok előállításának, tárolásának és forgalmazásának tárgyi és személyi feltételeit, valamint ezek ellenőrzésének módját külön jogszabály határozza meg.
-
-(3) Takarmányelőállító üzemből csak egyszerhasználatos papír- vagy műanyagzsákban, illetve ömlesztve szabad takarmányt kiszállítani. A takarmánykeverék az elárusító helyen kapható egyszerhasználatos papír- vagy műanyagzsákban bontható meg, illetve szolgáltatható ki.
-
-(4) Takarmányelőállító üzemek területén belül a kislétszámú állattartó telepet üzemeltetők részére takarmányt közvetlenül kiszolgáltatni tilos.
-
-(5) Ömlesztett takarmányok szállításakor fémből vagy műanyagból készült, jól tisztítható és fertőtleníthető tartályokat (konténereket) kell alkalmazni.
-
-(6) A takarmány-alapanyagok és késztermékek szállítására csak tiszta, szennyező és fertőző anyagoktól mentes olyan járművet lehet használni, amelyen a rakomány (szállítmány) beázás és szóródás mentesen szállítható.
-
-(7) A takarmányszállításra használt gépjárművet tilos állatok, állathullák, állati hulladékok, trágya, növényvédő szer és más veszélyes anyagok szállítására igénybe venni.
-
-(8) Takarmánnyal együtt ugyanazon a járművön nem szállítható állat, illetve olyan anyag, amely azt fertőzheti, vagy szennyezheti.
-
-(9) Takarmányelőállító üzem előkeveréket és takarmánykeveréket csak akkor forgalmazhat, ha legalább ezer méteres sugarú körzetében nagy létszámú állattartó telep nem működik. Ez alól az állomás – feltételekkel – felmentést adhat.
-
-A takarmánnyal terjeszthető fertőzések
-
-és a takarmányártalmak megelőzése
-
-799. § (1) Állatra és/vagy emberre nézve kórokozó mikroorganizmussal fertőzött takarmány állatokkal való feletetése tilos. Az ilyen takarmányokat a hatósági állatorvos által elrendelt módon ártalmatlanná kell tenni. Az ártalmatlanítás költségét a takarmány birtokosa viseli.
-
-(2) A növényi és állati eredetű takarmányokra vonatkozó mikrobiológiai határértékeket külön jogszabály határozza meg. A megengedett határérték felett feltételesen kórokozó vagy romlást okozó mikroorganizmussal szennyezett takarmányt állatokkal feletetni mindaddig nem szabad, amíg ismételt feldolgozásával (pl. hőkezelésével) és ennek laboratóriumi ellenőrző vizsgálatával az aggálytalan feletetés nem biztosítható. A feletetést kedvező laboratóriumi vizsgálati eredmény birtokában az illetékes hatósági állatorvos engedélyezi.
-
-(3) Bejelentendő állatbetegség megállapítása miatt állategészségügyi korlátozó intézkedés hatálya alá tartozó helyen tárolt takarmányok (takarmány-alapanyagok) ártalmatlanításának vagy a betegség iránt nem fogékony más állatfajjal (állatfajokkal) való feletetésének módját az adott betegség leküzdésére vonatkozó részletes szabályok, illetőleg ilyen rendelkezés hiányában a korlátozó intézkedést elrendelő állategészségügyi hatóság határozza meg.
-
-800. § (1) Az országba előzetes behozatali engedély nélkül (tiltott módon) beszállított takarmány állatokkal való feletetése állatjárványügyi okból is tilos. Ennek gyanújáról való értesülést követően a hatósági állatorvos köteles a helyszínre azonnal kiszállni, a gyanúba vett tételt lefoglalni, további feletetését és elszállítását megtiltani, valamint az állatállományt azonnali hatállyal forgalmi korlátozás alá helyezni, ezt követően az állomást haladéktalanul értesíteni a szükséges további intézkedések megtétele céljából.
-
-(2) Az állomás a helyszíni vizsgálatot követően a takarmány birtokosának költségére elrendeli a lefoglalt tétel ártalmatlanítását, az állatállományra vonatkozó forgalmi korlátozást pedig helybenhagyja, vagy módosítja.
-
-801. § (1)[^133]
-
-(2) A takarmánytermő területek használata, a takarmányelőállító, -tároló és -forgalmazó helyek üzemeltetése, valamint a takarmány forgalmazása során úgy kell eljárni, hogy a takarmány mentes maradjon az azt fogyasztó állatra, valamint az emberre veszélyes anyagoktól.
-
-A takarmányozás
-
-állategészségügyi hatósági felügyelete
-
-802. § (1) A nagylétszámú állattartó telepeken az állatok takarmányozását, a felhasznált takarmányokat, továbbá azok kezelését, tárolását a telepet ellátó állatorvosnak figyelemmel kell kísérnie. Állategészségügyi hatósági intézkedést igénylő esetekben az állattartó telepet ellátó állatorvos haladéktalanul értesíteni köteles az illetékes hatósági állatorvost. A hatósági állatorvos jogosult az állattartó telepen a takarmányozást ellenőrizni.
-
-(2) Takarmányártalom gyanúja miatt vagy takarmányártalom megelőzése céljából érkezett bejelentés esetén a hatósági állatorvos köteles a helyszínre kiszállni, és a szükséges intézkedéseket megtenni, továbbá ezekről az állomást is értesíteni.
-
-(3) A hatósági állatorvos a működési körzetében létesített takarmányelőállító és -forgalmazó helyeken, a járványügyi és takarmányhigiéniai előírások megtartását ellenőrizni köteles. Ellenőrzésének tapasztalatait a helyszínen vezetett ellenőrzési naplóba be kell jegyeznie, továbbá indokolt esetben a takarmányokból térítésmentesen hatósági mintát vehet.
-
-(4) Az állomás a működési területén lévő, előkeveréket és takarmánykeveréket gyártó üzemekben – a külön jogszabályban előírtakon túl – a járványügyi és a takarmányhigiéniai követelmények betartását, valamint az állatgyógyszerek tárolásának, felhasználásának és ezek nyilvántartásának tárgyi és személyi feltételeit is köteles ellen
-
-őrizni.
+## 793–802. §
 
 ## 1. számú függelék
 
@@ -4140,7 +4006,7 @@ elhelyezését teszi lehetővé;
 
 5. kislétszámú állattartó telep: amelyben a 4. pontban meghatározott számú állatnál kevesebb helyezhető el. E telep állhat egyetlen állattartó épületből is;
 
-6.[^134] nagylétszámú állattartó telep
+6.[^133] nagylétszámú állattartó telep
 
 – állattartó épülete: a telep tenyész- vagy haszonállat istállója, ellető-, nevelő-, betegelkülönítő istállója, illetve karantén épülete;
 
@@ -4319,6 +4185,5 @@ Az állomás indokolt esetben az e függelékben felsorolt egyéb építmények 
 [^129]: Az 1. számú melléklet 650–651. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
 [^130]: A 653. §-t és az előtte lévő „Baromfi-paratífusz” címet a 49/2002. (V. 24.) FVM rendelet 21. §-ának (1) bekezdése hatályon kívül helyezte.
 [^131]: Az 1. számú melléklet Második részét (654–792. §) a 66/2006. (IX. 15.) FVM rendelet 8. § (1) bekezdésének m) pontja hatályon kívül helyezte.
-[^132]: A 795. § (6) bekezdését a 69/2003. (VI. 25.) FVM rendeltet 41. §-ának (4) bekezdése hatályon kívül helyezte.
-[^133]: Az 1. számú melléklet 801. § (1) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 87. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^134]: Az 1. számú függelék 6. pontja a 27/2006. (II. 7.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^132]: Az 1. számú melléklet Harmadik Részét a 65/2012. (VII. 4.) VM rendelet 48. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 46. §-át.
+[^133]: Az 1. számú függelék 6. pontja a 27/2006. (II. 7.) Korm. rendelet 20. §-a szerint módosított szöveg.

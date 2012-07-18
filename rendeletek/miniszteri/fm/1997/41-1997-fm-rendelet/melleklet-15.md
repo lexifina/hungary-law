@@ -1,4 +1,4 @@
-## 13. számú függelék[^141]
+## 13. számú függelék[^140]
 
 ## 14. számú függelék
 
@@ -302,4 +302,126 @@ Megjegyzések: Az 1. oldal üres rovataiba a települések statisztikai számjel
 
 |  |  |  |  | * |  |  |  |  | * |
 
-[^141]: Az 1. számú melléklet 13. számú függelékét az 53/2004. (IV. 24.) FVM rendelet 27. §-ának (2) bekezdése hatályon kívül helyezte.
+| A betegség tartama alatt | Jegyzet |
+
+| megbetegedett | elhullott | levágott (leölt, kiirtott) | vakcinázott | kezelt | gyógyult |
+
+| állatok (méhcsaládok) száma, halak tömege (t)** |
+
+18. számú függelék
+
+az Állategészségügyi Szabályzathoz
+
+Útmutató
+
+a fertőtlenítésről
+
+I. A fertőtlenítés általános szabályai
+
+1. A fertőtlenítés célja
+
+A) A fertőző állatbetegségek megelőzése és az állatok csíraszegény környezetének kialakítása céljából fertőtleníteni kell.
+
+A preventív fertőtlenítés lehet
+
+a) folyamatos (a termelési folyamat teljes tartama alatt),
+
+b) időszakonként (a termelési folyamat végén, új állomány betelepítése előtt).
+
+B) A fertőző állatbetegség leküzdése céljából fertőtleníteni szükséges:
+
+a) betegség időtartama alatt:
+
+folyamatos,
+
+ismételt,
+
+előzetes fertőtlenítés.
+
+b) a zárlat feloldása előtt vagy más betegségleküzdő intézkedés befejezésekor (végfertőtlenítés).
+
+2. A betegségek megelőzése és leküzdése során a fertőtlenítés módja lehet
+
+– egyszerű fertőtlenítés (célja csíraszámcsökkentés),
+
+– szigorított fertőtlenítés (célja meghatározott kórokozók elpusztítása).
+
+3. A fertőtlenítőszerek, tárolásuk és használatuk
+
+a) Fertőtlenítőszerek
+
+Lúgok:
+
+– Mésztej:
+
+1 kg égetett mészre 1 liter vizet majd a mész
+
+szétesése után keverés közben 3 liter víz,
+
+1 kg oltott mészhez 1 liter víz.
+
+– Nátrium-hidroxid 2–4%-os oldata – pH 10 felett
+
+– Kálium-hidroxid 2–4%-os oldata
+
+– Nátrium-karbonát 3–6%-os oldata (szóda oldat)
+
+– Nátrium-metaszilikát 1%-os oldata
+
+Foszfortartalmú fertőtlenítőszerek:
+
+– ásványi savak 1–2%-os oldata
+
+– szerves savak
+
+– citromsav 0,4%-os oldata – pH 4 alatt
+
+– szulfominsav 0,2%-os oldata – pH 6 alatt
+
+– ortofoszforsav 0,3%-os oldata – pH 4 alatt
+
+– tejsav 1–2%-os oldata – pH 4 alatt
+
+– hangyasav 1–2%-os oldata – pH 4 alatt
+
+Klórtartalmú fertőtlenítőszerek:
+
+– Hipokloritok
+
+– Nátrium-hipoklorit
+
+(aktív klórtartalma 9–12%) 3–6%-os
+
+oldatban
+
+– Klóros mész
+
+(aktív klórtartalom 25–30%) 2,0%-os oldatban
+
+Aldehidek:
+
+– Formalin (a formaldehid 36–40%-os oldata)
+
+1–6%-os oldatban. 15 °C hőmérséklet alatt
+
+hatása mérsékelt, ezért használata nem javasolt.
+
+Jodoforok:
+
+1–5%-os oldatban pH: 2,5–4,0
+
+Egyéb: FM Állategészségügyi és Élelmiszerellenőrzési Főosztály által közzétett további anyagok.
+
+b) Törekedni kell arra, hogy a szóda oldatát különösen a paraziták fertőzőképes alakjai ellen forró állapotban használják.
+
+Klórtartalmú fertőtlenítőszereket 30–40 °C-nál magasabb hőmérsékletű oldatban nem célszerű alkalmazni.
+
+Klórtartalmú fertőtlenítőszereket melegtől, fénytől védett helyen üveg, műanyag vagy ép zománcú fémedényben kell tartani.
+
+Felhasználás előtt hatékonyság szempontjából meg kell vizsgálni a kémhatását (pH) és az aktív klórtartalmát.
+
+Robbanás veszélye miatt a raktározás és felhasználás közben ügyelni kell arra, hogy klórtartalmú fertőtlenítőt formalinos tárolóedénybe – és fordítva – ne öntsenek. Célszerű a tárolóedényeket tartósan megjelölni.
+
+c) A fertőtlenítéshez szükséges fertőtlenítőoldat
+
+[^140]: Az 1. számú melléklet 13. számú függelékét az 53/2004. (IV. 24.) FVM rendelet 27. §-ának (2) bekezdése hatályon kívül helyezte.

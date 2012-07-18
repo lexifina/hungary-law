@@ -1,6 +1,6 @@
 ## 6. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^138]
+## az Állategészségügyi Szabályzathoz[^137]
 
 ## 7. számú függelék
 
@@ -34,4 +34,4 @@
 
 13. A marhalevél kezelő és hatósági állatorvos számára az adminisztráció elvégzéséhez szükséges feltételeket (fedett, fűthető helyiség, asztal, szék, világítás, kézmosási, fertőtlenítési lehetőség stb.) a vásár, piac tartására jogosult köteles biztosítani.
 
-[^138]: Az 1. számú melléklet 6. számú függelékét a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
+[^137]: Az 1. számú melléklet 6. számú függelékét a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.

@@ -1,6 +1,6 @@
 ## 8/a. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^139]
+## az Állategészségügyi Szabályzathoz[^138]
 
 ## (Szigorú számadású nyomtatvány!)
 
@@ -36,4 +36,4 @@ I.
 
 II.
 
-[^139]: Az 1. számú melléklet 8/a. számú függeléke a 68/2002. (VIII. 15.) FVM rendelet 30. §-ának (1) bekezdése szerint módosított szöveg.
+[^138]: Az 1. számú melléklet 8/a. számú függeléke a 68/2002. (VIII. 15.) FVM rendelet 30. §-ának (1) bekezdése szerint módosított szöveg.
