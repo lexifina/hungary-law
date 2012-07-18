@@ -1,4 +1,4 @@
-6. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^131]
+6. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^130]
 
 Igénylőlap
 
@@ -30,7 +30,7 @@ Szerződés összege:
 
 Szerződés lejárata:
 
-A kölcsönszerződés adatai a – felsorolt Korm. határozatok alapján megkötött – kezességi szerződés 10. pontja által előírt adatszolgáltatási táblázatban szerepeltek/nem szerepeltek[^132]:
+A kölcsönszerződés adatai a – felsorolt Korm. határozatok alapján megkötött – kezességi szerződés 10. pontja által előírt adatszolgáltatási táblázatban szerepeltek/nem szerepeltek[^131]:
 
 A kölcsönszerződés módosítására sor került/nem került sor1:
 
@@ -74,7 +74,7 @@ Hitelszerződés és annak mellékletét képező dokumentumok
 
 Hitelszerződés-módosítások és annak mellékletét képező dokumentumok
 
-A bank nyilatkozata, hogy a hitelt céljának megfelelően használták-e fel[^133]
+A bank nyilatkozata, hogy a hitelt céljának megfelelően használták-e fel[^132]
 
 A 3. pontban foglalt egyéb kezességvállalást igazoló dokumentumok
 
@@ -112,9 +112,9 @@ Dátum: ..............................
 
 ...................................................
 
-aláírás[^134]
+aláírás[^133]
 
-[^131]: A 6. számú melléklet a 40/2007. (III. 13.) Korm. rendelet 19. § (2), (6) és (10) bekezdése, a 109/2009. (V. 20.) Korm. rendelet 19. § (4) bekezdése, a 68/2010. (III. 19.) Korm. rendelet 14. § (2) és (3) bekezdése szerint módosított szöveg.
-[^132]: A megfelelő rész aláhúzandó.
-[^133]: Amennyiben a kezességvállalásról szóló jogszabály nem mentesítette a bankot a hitelcél vizsgálatának kötelezettsége alól.
-[^134]: A jogosult bank cégszerű aláírása, illetve a jogosultak nevében eljáró bank cégszerű aláírása.
+[^130]: A 6. számú melléklet a 40/2007. (III. 13.) Korm. rendelet 19. § (2), (6) és (10) bekezdése, a 109/2009. (V. 20.) Korm. rendelet 19. § (4) bekezdése, a 68/2010. (III. 19.) Korm. rendelet 14. § (2) és (3) bekezdése szerint módosított szöveg.
+[^131]: A megfelelő rész aláhúzandó.
+[^132]: Amennyiben a kezességvállalásról szóló jogszabály nem mentesítette a bankot a hitelcél vizsgálatának kötelezettsége alól.
+[^133]: A jogosult bank cégszerű aláírása, illetve a jogosultak nevében eljáró bank cégszerű aláírása.

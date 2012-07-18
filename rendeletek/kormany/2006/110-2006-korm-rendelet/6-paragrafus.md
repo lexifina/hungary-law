@@ -10,21 +10,14 @@ d) a kezességbeváltás alapján keletkező követelés behajtásának valósz�
 
 e)[^52] az előző öt évben hasonló célra, hasonló személyi körnek vállalt állami kezesség tényét, körülményeit, beváltási és megtérülési arányát.
 
-(2)[^53] Az (1) bekezdés szerinti előterjesztés alapján hozandó jogszabály eltérő rendelkezése hiányában
-
-a)[^54] az állami kezesség egyszerű kezességnek minősül,
-
-b) az állami kezességen túlmenően a hitelintézet-jogosult köteles a hitel tőkeösszege felének, valamint az első kamatperiódusban esedékes kamatösszeg felének megfelelő fedezetet előírni,
-
-c) a hitelintézet-jogosultnak vizsgálnia kell a jogszabályban a kötelezett részére előírt hitelcél teljesítését.
+(2)[^53]
 
 (3) A 3. § (6) bekezdésében foglaltakat a jogszabályi kezességvállalás esetén is alkalmazni kell.
 
-(4)[^55]
+(4)[^54]
 
 [^50]: A 6. § (1) bekezdése a 40/2007. (III. 13.) Korm. rendelet 19. § (3) bekezdése szerint módosított szöveg.
 [^51]: A 6. § (1) bekezdésének b) pontja a 40/2007. (III. 13.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.
 [^52]: A 6. § (1) bekezdésének e) pontja a 40/2007. (III. 13.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.
-[^53]: A 6. § (2) bekezdésének bevezető szövegrésze a 40/2007. (III. 13.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^54]: A 6. § (2) bekezdésének a) pontja a 40/2007. (III. 13.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.
-[^55]: A 6. § (4) bekezdését a 40/2007. (III. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 109/2009. (V. 20.) Korm. rendelet 20. § (3) bekezdése.
+[^53]: A 6. § (2) bekezdését a 159/2012. (VII. 17.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^54]: A 6. § (4) bekezdését a 40/2007. (III. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 109/2009. (V. 20.) Korm. rendelet 20. § (3) bekezdése.
