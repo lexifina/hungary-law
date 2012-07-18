@@ -24,10 +24,10 @@ k) a hontalan jogállást a hontalankénti elismerésről szóló határozattal,
 
 l) az 5. § (1) bekezdés a)–c) pontja szerinti feltétel teljesülését a jogerős építési engedély, a jogerős használatbavételi engedély, továbbá az eladói nyilatkozat bemutatásával,
 
-m)[^33] a 6. § (3) bekezdés a) pontjában foglaltakat a megyei kormányhivatalok egészségbiztosítási szakigazgatási szervének – a biztosított kérelmére 3 munkanapon belül kiállított – igazolásával, a 6. § (3) bekezdés b) pont bb) alpontjában foglaltakat nemleges együttes adóigazolással.
+m)[^37] a 6. § (3) bekezdés a) pontjában foglaltakat a megyei kormányhivatalok egészségbiztosítási szakigazgatási szervének – a biztosított kérelmére 3 munkanapon belül kiállított – igazolásával, a 6. § (3) bekezdés b) pont bb) alpontjában foglaltakat nemleges együttes adóigazolással.
 
 (2) Házaspárok esetében, ha a házastársak egyike magyar állampolgár az (1) bekezdés f)–k) pontjában foglaltak igazolására nincs szükség.
 
 (3) Ha az igénylő a hitelintézetnek vagy az igazolást kibocsátónak valótlan adatot tartalmazó nyilatkozatot tett, és ez alapján jutott az otthonteremtési kamattámogatáshoz, akkor a folyósított összeget az igénybevétel napjától, a Ptk. 301. § (1) bekezdése szerint számított késedelmi kamataival együtt köteles a hitelintézeten keresztül visszafizetni.
 
-[^33]: A 14. § (1) bekezdés m) pontját a 71/2012. (IV. 12.) Korm. rendelet 9. §-a iktatta be.
+[^37]: A 14. § (1) bekezdés m) pontját a 71/2012. (IV. 12.) Korm. rendelet 9. §-a iktatta be.
