@@ -1,0 +1,3 @@
+21. § (1) A 183/2005/EK európai parlamenti és tanácsi rendelet II. számú melléklete szerinti termék-visszahívási és panaszkezelési rendszernek magában kell foglalnia az érintett termékek további sorsát, illetve az azokkal kapcsolatos vállalkozói, illetve hatósági intézkedések dokumentálását.
+
+(2) A takarmányforgalmazó, illetve -tároló létesítményekben az ott tárolt, fellelhető takarmányokról nyilvántartást kell vezetni, amelyek tartalmazzák legalább a takarmányok származási helyét, érkezésének idejét és mennyiségét, valamint – más takarmány- vagy élelmiszervállalkozás részére eladott, kiszállított termék esetén – a kiszállítás idejét és helyét.
