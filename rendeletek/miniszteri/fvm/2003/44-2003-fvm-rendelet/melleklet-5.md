@@ -10,11 +10,11 @@
 
 ## d) az állat ürüléke által okozott káros környezeti hatások megelőzésével, illetve csökkentésével javítsa az állatok környezetét.
 
-## II.[^24] A takarmányozásban felhasználható adalékanyagok csoportjai
+## II.[^28] A takarmányozásban felhasználható adalékanyagok csoportjai
 
 ## 1. A takarmányba keverhető állatgyógyászati készítmények
 
-## 1.1.[^25]
+## 1.1.[^29]
 
 ## 2. Antioxidánsok
 
@@ -960,11 +960,11 @@
 
 ## 16.
 
-## III.[^26] A takarmány-adalékanyagok engedélyezésének, nyilvántartásba vételének és minősítésének alapelvei
+## III.[^30] A takarmány-adalékanyagok engedélyezésének, nyilvántartásba vételének és minősítésének alapelvei
 
-## 1.–27.[^27]
+## 1.–27.[^31]
 
-## 1. számú függelék[^28]
+## 1. számú függelék[^32]
 
 ## 2. számú függelék
 
@@ -978,7 +978,7 @@
 
 ## 3. E függelékben meghatározott összes vizsgálat kötelezővé tehető és szükség esetén azokról kiegészítő információ kérhető. Általános szabályként a takarmány-adalékanyag azonosságának, felhasználási feltételeinek, fiziko-kémiai tulajdonságainak, meghatározási módszereinek és hatékonyságának, illetve metabolizmusának, a célfajokra gyakorolt biológiai és toxikológiai hatásainak meghatározására szolgáló vizsgálatokat kell elvégezni. Amennyiben a takarmány-adalékanyagot egy meghatározott fajhoz tartozó állatnak szánják, a vonatkozó vizsgálatokat ezen az állaton kell elvégezni. A takarmány-adalékanyag emberi egészségre vagy a környezetre való ártalmasságának felméréséhez szükséges vizsgálatok alapvetően az adalékanyag jellegétől, illetve felhasználásának feltételeitől függnek.
 
-## 4.[^29] Nem mindig szükséges a kizárólag kedvtelésből tartott állatok takarmányába szánt adalékanyagokon olyan részletes krónikus toxikusság-, mutagenitás- és karcinogenitás-vizsgálatokat végezni, mint amilyeneket azon haszonállatok takarmányaiba szánt adalékanyagok esetében írnak elő, amelyekből emberi fogyasztásra szánt termékek készülnek. A kedvtelésből tartott állatok takarmányaiban lévő maradékanyagok analízise nem követelmény.
+## 4.[^33] Nem mindig szükséges a kizárólag kedvtelésből tartott állatok takarmányába szánt adalékanyagokon olyan részletes krónikus toxikusság-, mutagenitás- és karcinogenitás-vizsgálatokat végezni, mint amilyeneket azon haszonállatok takarmányaiba szánt adalékanyagok esetében írnak elő, amelyekből emberi fogyasztásra szánt termékek készülnek. A kedvtelésből tartott állatok takarmányaiban lévő maradékanyagok analízise nem követelmény.
 
 ## 5. A haszonállatok takarmányában lévő adalékanyag metabolizmusának, maradékanyagainak és azok biológiai hozzáférhetőségének ismerete alapvető követelmény. Elsősorban arról kell gondoskodni, hogy a toxikológiai vizsgálatokat laboratóriumi állatokon végezzék, a fogyasztót érintő esetleges kockázatok megállapítása céljából. Ezt az értékelést nem lehet egyedül az adalékanyagok laboratóriumi állatokra gyakorolt közvetlen hatásainak meghatározására szorítkozó adatokra alapozni, mivel ez nem nyújt külön információt az adalékanyagot tartalmazó takarmánnyal etetni kívánt állatfajban végbemenő metabolizmusból származó maradékanyagok tényleges hatásairól.
 
@@ -1042,7 +1042,7 @@
 
 ## b) megfelelő módszerrel mért mikrobaölő tevékenység hiánya a takarmányban alkalmazott koncentrációszinten,
 
-## c) a nem-enzimatikus alkotóelemek összetétele (különös tekintettel a Szerves Szilárd Testek Összességére, TOS[^30]).
+## c) a nem-enzimatikus alkotóelemek összetétele (különös tekintettel a Szerves Szilárd Testek Összességére, TOS[^34]).
 
 ## 2.4. Vonatkozó tulajdonságok
 
@@ -1206,7 +1206,7 @@
 
 ## 2.2.11. Más személyek által korábban eszközölt bejelentésekre vonatkozó egyéb adatokra vagy eredményekre is lehet hivatkozni, amennyiben ezek a személyek ahhoz írásbeli hozzájárulásukat adják.
 
-## 2.3. A metabolizmusra és a maradékanyagokra vonatkozó vizsgálatok[^31] (Kémiailag meghatározott hatóanyag esetében)
+## 2.3. A metabolizmusra és a maradékanyagokra vonatkozó vizsgálatok[^35] (Kémiailag meghatározott hatóanyag esetében)
 
 ## 2.3.1. A metabolizmus vizsgálata
 
@@ -1408,17 +1408,17 @@
 
 ## 7. Az adalékanyag azonosítására alkalmas egyéb jellemzők.
 
-## 3. számú függelék[^32]
+## 3. számú függelék[^36]
 
-5. számú melléklet a 44/2003. (IV. 26.) FVM rendelethez[^33]
+5. számú melléklet a 44/2003. (IV. 26.) FVM rendelethez[^37]
 
-[^24]: A 4. számú melléklet II. fejezete a 20/2004. (II. 27.) FVM rendelet 3. § (1) bekezdése és 4. § (1) bekezdése szerint módosított szöveg, 3. § (4) bekezdése alapján a módosított előírásoknak nem megfelelő termékek 2004. április 30-ig forgalmazhatóak.
-[^25]: A 4. számú melléklet II. 1.1. pontja e rendelet 3. § (4) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésével egyidejűleg hatályát veszti.
-[^26]: A 4. számú melléklet III. fejezetét a 20/2004. (II. 27.) FVM rendelet 3. § (1) bekezdése iktatta be.
-[^27]: A 4. számú melléklet III. fejezetének 1–27. pontját a 10/2007. (II. 20.) FVM rendelet 4. § (1) bekezdésének a) pontja hatályon kívül helyezte.
-[^28]: A 4. számú melléklet III. fejezetének 1. számú függelékét a 10/2007. (II. 20.) FVM rendelet 4. § (1) bekezdésének a) pontja hatályon kívül helyezte.
-[^29]: A 4. számú melléklet III. fejezet 2. számú függeléke A. Részének 4. pontja a 10/2007. (II. 20.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^30]: TOS (%) = 100 – (% hamu + víz +% hígítók és/vagy adalékanyagok és összetevők).
-[^31]: A 2.3.1., 2.3.3. és 2.3.4. pontokban említett vizsgálatokat címkézett molekulákkal vagy egyéb megfelelő módszerrel kell elvégezni, a használt módszer megválasztását minden esetben meg kell indokolni. A címkézésnek célnak megfelelőnek kell lennie. Amennyiben az aktív anyag fermentációs termék, az említett vizsgálatokat ki kell terjeszteni az előállítási folyamat során nyert rokon anyagokra is.
-[^32]: A 4. számú melléklet III. fejezetének 3. számú függelékét a 10/2007. (II. 20.) FVM rendelet 4. § (1) bekezdésének a) pontja hatályon kívül helyezte.
-[^33]: Az 5. számú mellékletet a 73/2009. (VI. 25.) FVM rendelet 5. § (3) bekezdése hatályon kívül helyezte.
+[^28]: A 4. számú melléklet II. fejezete a 20/2004. (II. 27.) FVM rendelet 3. § (1) bekezdése és 4. § (1) bekezdése szerint módosított szöveg, 3. § (4) bekezdése alapján a módosított előírásoknak nem megfelelő termékek 2004. április 30-ig forgalmazhatóak.
+[^29]: A 4. számú melléklet II. 1.1. pontja e rendelet 3. § (4) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésével egyidejűleg hatályát veszti.
+[^30]: A 4. számú melléklet III. fejezetét a 20/2004. (II. 27.) FVM rendelet 3. § (1) bekezdése iktatta be.
+[^31]: A 4. számú melléklet III. fejezetének 1–27. pontját a 10/2007. (II. 20.) FVM rendelet 4. § (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^32]: A 4. számú melléklet III. fejezetének 1. számú függelékét a 10/2007. (II. 20.) FVM rendelet 4. § (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^33]: A 4. számú melléklet III. fejezet 2. számú függeléke A. Részének 4. pontja a 10/2007. (II. 20.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^34]: TOS (%) = 100 – (% hamu + víz +% hígítók és/vagy adalékanyagok és összetevők).
+[^35]: A 2.3.1., 2.3.3. és 2.3.4. pontokban említett vizsgálatokat címkézett molekulákkal vagy egyéb megfelelő módszerrel kell elvégezni, a használt módszer megválasztását minden esetben meg kell indokolni. A címkézésnek célnak megfelelőnek kell lennie. Amennyiben az aktív anyag fermentációs termék, az említett vizsgálatokat ki kell terjeszteni az előállítási folyamat során nyert rokon anyagokra is.
+[^36]: A 4. számú melléklet III. fejezetének 3. számú függelékét a 10/2007. (II. 20.) FVM rendelet 4. § (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^37]: Az 5. számú mellékletet a 73/2009. (VI. 25.) FVM rendelet 5. § (3) bekezdése hatályon kívül helyezte.

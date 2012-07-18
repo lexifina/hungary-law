@@ -1,3 +1,3 @@
-6. számú melléklet a 44/2003. (IV. 26.) FVM rendelethez[^34]
+6. számú melléklet a 44/2003. (IV. 26.) FVM rendelethez[^38]
 
-[^34]: A 6. számú melléklet a 20/2004. (II. 27.) FVM rendelet 3. § (1) bekezdése, a 10/2007. (II. 20.) FVM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^38]: A 6. számú mellékletet a 64/2012. (VII. 3.) VM rendelet 5. § b) pontja hatályon kívül helyezte.

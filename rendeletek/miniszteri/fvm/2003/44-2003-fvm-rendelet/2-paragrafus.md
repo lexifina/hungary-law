@@ -1,32 +1,32 @@
-2. §[^10] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+2. §[^12] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 1. a Tanács 70/373/EGK irányelve (1970. július 20.) a takarmányok hatósági ellenőrzésénél alkalmazandó közösségi mintavételi és analitikai módszerek bevezetéséről,
 
-2–5.[^11]
+2–5.[^13]
 
 6. a Bizottság 82/475/EGK irányelve (1982. június 23.) a kedvtelésből tartott állatok összetett takarmányának címkézéséhez használható összetevő-kategóriák megállapításáról, valamint az azt módosító, a Bizottság 91/334/EGK és 98/67/EK irányelve,
 
-7.[^12]
+7.[^14]
 
 8. a Tanács 87/153/EGK irányelve (1987. február 16.) a takarmányokban lévő adalékanyagok értékelésére vonatkozó iránymutatások meghatározásáról,
 
-9.[^13]
+9.[^15]
 
 10. a Tanács 90/167/EGK irányelve (1990. március 26.) a Közösségen belül a gyógyszeres takarmányok előállítására, forgalomba hozatalára és felhasználására irányadó feltételek megállapításáról,
 
-11–12.[^14]
+11–12.[^16]
 
-13. a Bizottság 2008/38/EK irányelve (2008. március 5.) a különleges táplálkozási célokra szánt takarmányok tervezett alkalmazási listájának létrehozásáról, valamint az azt módosító, a Bizottság 2008/4/EK, 2008/82/EK irányelve,
+13.[^17] a Bizottság 2008/38/EK irányelve (2008. március 5.) a különleges táplálkozási célokra szánt takarmányok tervezett alkalmazási listájának létrehozásáról, valamint az azt módosító, a Bizottság 2008/4/EK, 2008/82/EK irányelve és 1070/2010/EU rendelete,
 
 14. a Tanács 95/69/EK irányelve (1995. december 22.) a takarmányozási ágazatban működő egyes létesítmények és közvetítők engedélyezésére és nyilvántartására vonatkozó feltételek és szabályok megállapításáról, valamint a 70/524/EGK, a 74/63/EGK, a 79/373/EGK és a 82/471/EGK irányelvek módosításáról, valamint az ezt módosító, a Tanács 1999/20/EK irányelve,
 
-15.[^15]
+15.[^18]
 
 16. a Bizottság 98/51/EK irányelve (1998. július 9.) a takarmányozási ágazatban működő egyes létesítmények és közvetítők engedélyezésére és nyilvántartására vonatkozó feltételek és szabályok megállapításáról szóló 95/69/EK tanácsi irányelv végrehajtására vonatkozó egyes intézkedések megállapításáról,
 
 17. a Bizottság 98/68/EK irányelve (1998. szeptember 10.) a 95/53/EK tanácsi irányelv 9. cikkének (1) bekezdésében említett szabványdokumentum és a harmadik országokból származó takarmányoknak a Közösség területén történő bevezetése során alkalmazott ellenőrzések egyes szabályainak megállapításáról,
 
-18. az Európai Parlament és a Tanács 2002/32/EK irányelve (2002. május 7.) a takarmányban előforduló nemkívánatos anyagokról, valamint az azt módosító, a Bizottság 2005/8/EK, 2005/86/EK, 2005/87/EK, 2006/13/EK, 2008/76/EK, 2009/8/EK, 2009/141/EK, 2010/6/EU irányelve,
+18.[^19] az Európai Parlament és a Tanács 2002/32/EK irányelve (2002. május 7.) a takarmányban előforduló nemkívánatos anyagokról, valamint az azt módosító, a Bizottság 2005/8/EK, 2005/86/EK, 2005/87/EK, 2006/13/EK, 2008/76/EK, 2009/8/EK, 2009/141/EK, 2010/6/EU irányelve és 574/2011/EU rendelete,
 
 19. a Bizottság 2004/116/EK irányelve (2004. december 23.) a 82/471/EGK tanácsi irányelvnek a Candida guilliermondii felvétele tekintetében történő módosításáról,
 
@@ -36,7 +36,7 @@
 
 22. a Bizottság 2001/25/EK határozata (2000. december 27.) bizonyos állati eredetű melléktermékek alkalmazásának megtiltásáról a takarmányokban,
 
-23.[^16]
+23.[^20]
 
 (2) Ez a rendelet a következő uniós jogi aktusok végrehajtását szolgálja:
 
@@ -102,16 +102,18 @@
 
 31. a Bizottság 152/2009/EK rendelete (2009. január 27.) a takarmányok hatósági ellenőrzése során alkalmazott mintavételi és vizsgálati módszerek megállapításáról,
 
-32.[^17] az Európai Parlament és a Tanács 767/2009/EK rendelete (2009. július 13.) a takarmányok forgalomba hozataláról és felhasználásáról, az 1831/2003/EK rendelet módosításáról, valamint a 79/373/EGK tanácsi irányelv, a 80/511/EGK bizottsági irányelv, a 82/471/EGK, 83/228/EGK, 93/74/EGK, 93/113/EK és 96/25/EK tanácsi irányelv és a 2004/217/EK bizottsági határozat hatályon kívül helyezéséről,
+32.[^21] az Európai Parlament és a Tanács 767/2009/EK rendelete (2009. július 13.) a takarmányok forgalomba hozataláról és felhasználásáról, az 1831/2003/EK rendelet módosításáról, valamint a 79/373/EGK tanácsi irányelv, a 80/511/EGK bizottsági irányelv, a 82/471/EGK, 83/228/EGK, 93/74/EGK, 93/113/EK és 96/25/EK tanácsi irányelv és a 2004/217/EK bizottsági határozat hatályon kívül helyezéséről,
 
-33.[^18] a Bizottság 242/2010/EU rendelete (2010. március 19.) a takarmány-alapanyagok jegyzékének létrehozásáról.
+33.[^22] a Bizottság 575/2011/EU rendelete (2011. június 16.) a takarmány-alapanyagok jegyzékéről.
 
-[^10]: A 2. § a 2/2010. (VI. 30.) VM rendelet 2. §-ával megállapított szöveg.
-[^11]: A 2. § (1) bekezdés 2–5. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^12]: A 2. § (1) bekezdés 7. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^13]: A 2. § (1) bekezdés 9. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^14]: A 2. § (1) bekezdés 11–12. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^15]: A 2. § (1) bekezdés 15. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^16]: A 2. § (1) bekezdés 23. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^17]: A 2. § (2) bekezdés 32. pontja a 2/2010. (VI. 30.) VM rendelet 5. § (2) bekezdése alapján 2010. szeptember 1-jén lépett hatályba.
-[^18]: A 2. § (2) bekezdés 33. pontja a 2/2010. (VI. 30.) VM rendelet 5. § (2) bekezdése alapján 2010. szeptember 1-jén lépett hatályba.
+[^12]: A 2. § a 2/2010. (VI. 30.) VM rendelet 2. §-ával megállapított szöveg.
+[^13]: A 2. § (1) bekezdés 2–5. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^14]: A 2. § (1) bekezdés 7. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^15]: A 2. § (1) bekezdés 9. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^16]: A 2. § (1) bekezdés 11–12. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^17]: A 2. § (1) bekezdés 13. pontja a 64/2012. (VII. 3.) VM rendelet 2. § (1) bekezdésévell megállapított szöveg.
+[^18]: A 2. § (1) bekezdés 15. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^19]: A 2. § (1) bekezdés 18. pontja a 64/2012. (VII. 3.) VM rendelet 2. § (2) bekezdésévell megállapított szöveg.
+[^20]: A 2. § (1) bekezdés 23. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^21]: A 2. § (2) bekezdés 32. pontja a 2/2010. (VI. 30.) VM rendelet 5. § (2) bekezdése alapján 2010. szeptember 1-jén lépett hatályba.
+[^22]: A 2. § (2) bekezdés 33. pontja a 64/2012. (VII. 3.) VM rendelet 2. § (3) bekezdésévell megállapított szöveg.
