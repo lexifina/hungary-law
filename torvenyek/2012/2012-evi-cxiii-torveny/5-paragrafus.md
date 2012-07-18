@@ -1,0 +1,1 @@
+5. § Az Országgyűlés az Egyetemes Postaegyezményt a 2004. évi bukaresti és a 2008. évi genfi kongresszuson aláírt módosításaival egységes szerkezetben, valamint az Egyetemes Postaegyezmény 2004. évi bukaresti és 2008. évi genfi kongresszuson elfogadott Zárójegyzőkönyvét e törvénnyel kihirdeti.
