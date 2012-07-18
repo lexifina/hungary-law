@@ -1,7 +1,0 @@
-20. § (1) A Bjt. 34. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a bíróság megszűnt, illetve hatásköre vagy illetékességi területe olyan mértékben csökkent, hogy ott a bíró további foglalkoztatása nem lehetséges, az OBH elnöke – ha Kúriai álláshely is érintett, a Kúria elnökével történt egyeztetést követően – az érintett bíró számára felajánlja azon, a beosztási helyével azonos szintű, vagy legfeljebb eggyel magasabb, vagy legfeljebb eggyel alacsonyabb szintű bíróságon lévő bírói álláshelyeket, amelyek betöltése iránt a pályázatok elbírálása még nem történt meg. A felajánlott bírói álláshelyek közül a bíró 8 munkanapon belül választhat. Ha a bíróság megszűnése, illetve hatáskörének vagy illetékességi területének csökkenése több bíró áthelyezését teszi szükségessé, a választási lehetőség a bírákat életkoruk csökkenő sorrendjében illeti meg. Ha felajánlható bírói álláshely nincs, vagy a bíró azok egyikét sem választja, az OBH elnöke a bírót – méltányos érdekeit figyelembe véve – más, lehetőleg azonos szintű, vagy legfeljebb eggyel alacsonyabb szintű bíróságra áthelyezi.”
-
-(2) A Bjt. 34. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Ha a bíró a (2) bekezdésben foglaltak szerinti áthelyezése esetén szolgálati jogvitát kezdeményez, a közigazgatási és munkaügyi bíróság az OBH elnökének döntését csak a döntés kialakítására irányadó jogszabályok betartása szempontjából vizsgálhatja.”
