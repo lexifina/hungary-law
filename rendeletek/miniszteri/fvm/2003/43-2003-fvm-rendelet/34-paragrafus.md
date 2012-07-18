@@ -1,3 +1,0 @@
-34. § (1) Az ellenőrzés során, a felhasználás előtt az Állomásnak vizsgálat céljából mintát kell vennie abból a takarmány-alapanyagból, -adalékanyagból és előkeverékből, amelynek jelölései olyan mértékben hiányosak, hogy azok nem biztosítják a takarmány azonosítását, szakszerű és biztonságos felhasználását. A vett minták vizsgálatát az OMMI végzi. A vizsgálati eredmények, valamint a rendelkezésre álló dokumentumok alapján az Állomás dönt a takarmány-alapanyag, -adalékanyag és előkeverék felhasználhatóságáról.
-
-(2) Az (1) bekezdésben foglalt vizsgálatok díjkötelesek, a díjak az OMMI bevételét képezik.

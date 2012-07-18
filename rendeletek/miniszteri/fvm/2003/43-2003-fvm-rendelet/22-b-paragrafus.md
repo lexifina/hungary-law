@@ -1,5 +1,0 @@
-22/B. §[^40] (1) A Takarmánykódex 1. számú mellékletének I. fejezetében felsorolt takarmány-alapanyagok csak az ott meghatározott egyedi néven és azzal a feltétellel forgalmazhatóak, ha megfelelnek az ott megállapított leírásoknak.
-
-(2) A Takarmánykódex 1. számú mellékletének I. fejezetében fel nem sorolt takarmány-alapanyagok is forgalmazhatóak, feltéve hogy ezek a takarmány-alapanyagok más néven, illetve más feltételekkel kerülnek forgalomba, mint a Takarmánykódex 1. számú mellékletének I. fejezetében felsorolt anyagok, úgy, hogy ezen takarmány-alapanyagok ne téveszthessék meg a vásárlókat a takarmány-alapanyag azonosságát illetően.
-
-[^40]: A Vhr. 22/B. §-át a 11/2007. (II. 20.) FVM rendelet 3. §-a iktatta be. E módosító rendelet 8. § (2) bekezdése alapján a 2007. március 7. napja előtt gyártott, a gyártás idején hatályos jogszabályi előrásoknak megfelelő jelöléssel ellátott csomagolóeszközök, címkék 2007. május 31-ig, és az ezen csomagolóeszközzel, címkével forgalomba hozott termékek a minőségmegőrzési idő lejártáig használhatóak fel.
