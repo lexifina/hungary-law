@@ -2,7 +2,7 @@
 
 12. § (1) A támogatási kérelmet részben el kell utasítani vagy a kifizetett támogatási összeget részben vissza kell fizetni, amennyiben:
 
-a)[^3] a 123/2008. FVM rendelet 11. § (5) bekezdése, valamint 13. § (4) bekezdése szerint a lepárlóüzemek által benyújtott jelentések alapján azt állapítja meg, hogy a lepárlóüzem részére kifizetett támogatási összeg meghaladja az e rendelet 5. § (2) bekezdésében meghatározott felsőhatárt. Ez esetben a visszafizetendő támogatási összeg a kifizetett teljes támogatási összeg és a megállapított felsőhatár különbsége,
+a)[^5] a 123/2008. FVM rendelet 11. § (5) bekezdése, valamint 13. § (4) bekezdése szerint a lepárlóüzemek által benyújtott jelentések alapján azt állapítja meg, hogy a lepárlóüzem részére kifizetett támogatási összeg meghaladja az e rendelet 5. § (2) bekezdésében meghatározott felsőhatárt. Ez esetben a visszafizetendő támogatási összeg a kifizetett teljes támogatási összeg és a megállapított felsőhatár különbsége,
 
 b) az MVH, a vámhatóság vagy a borászati hatóság ellenőrzése a hasznosításra történő kiadáskor megállapítja, hogy a kiadott ipari célú nyers alkohol alkoholtartalma nem éri el a 92 térfogatszázalékot. Ez esetben a visszafizetendő támogatási összeget a mintával reprezentált ipari célú nyers alkohol mennyiség alapján kell meghatározni,
 
@@ -14,4 +14,4 @@ e) az MVH azt állapítja meg, hogy a lepárlóüzem az ipari célú nyers alkoh
 
 (2) Az (1) bekezdésben foglaltakon túl a támogatási feltételek nem teljesítése esetén a külön jogszabály szerinti jogkövetkezmények alkalmazandók.
 
-[^3]: A 12. § (1) bekezdés a) pontja a 3/2010. (I. 26.) FVM rendelet 12. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 12. § (1) bekezdés a) pontja a 3/2010. (I. 26.) FVM rendelet 12. § (2) bekezdés b) pontja szerint módosított szöveg.

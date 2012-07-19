@@ -6,6 +6,6 @@
 
 (2) Nem igényelhető támogatás azon alkoholmennyiség után, amely meghaladja azoknak az adott borpiaci évben termelt borok alkoholtartalmának 10 százalékát, amelyek termelése során keletkezett melléktermékek, illetve borok támogatott lepárlás útján kerülnek megsemmisítésre.
 
-(3)[^1]
+(3)[^3]
 
-[^1]: Az 5. § (3) bekezdését a 3/2010. (I. 26.) FVM rendelet 12. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^3]: Az 5. § (3) bekezdését a 3/2010. (I. 26.) FVM rendelet 12. § (2) bekezdés b) pontja hatályon kívül helyezte.
