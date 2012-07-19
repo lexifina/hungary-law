@@ -1,0 +1,1 @@
+## „13. § Amennyiben a benyújtott támogatási kérelmek alapján az összesített támogatási igény a keretösszeget meghaladja, úgy a keretösszegen felüli, jogos támogatási igényt tartalmazó támogatási kérelmek kapcsán a kifizetésre a 2012/2013. borpiaci évre meghatározott keretösszeg terhére kerül sor.”
