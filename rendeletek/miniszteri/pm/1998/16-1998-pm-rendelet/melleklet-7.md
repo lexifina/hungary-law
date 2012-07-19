@@ -20,7 +20,7 @@
 
 ## Cégszerű aláírás
 
-7. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^57]
+7. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^62]
 
 1. táblázat a kármegtérülés elszámolásról .... év ......... negyedévben
 
@@ -66,4 +66,4 @@ Készítette: ..............................................
 
 Cégszerű aláírás
 
-[^57]: A 7. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^62]: A 7. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (5) bekezdésével megállapított szöveg.

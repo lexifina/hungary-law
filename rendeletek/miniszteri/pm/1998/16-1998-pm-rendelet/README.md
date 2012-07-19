@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-16-20-5
 | 2010-03-24 | 1998-16-20-53.6 | 9/2010. (III. 23.) PM rendelet |
 | 2010-07-20 | 1998-16-20-53.7 | 9/2010. (III. 23.) PM rendelet |
 | 2011-06-22 | 1998-16-20-53.8 | 22/2011. (VI. 21.) NGM rendelet |
+| 2012-07-19 | 1998-16-20-53.9 | 16/2012. (VI. 28.) NGM rendelet |

@@ -1,5 +1,5 @@
-## 12. §[^45] A költségvetési viszontgarancia vállalásának és érvényesítésének részletes szabályairól szóló 48/2002. (XII. 28.) PM rendelet, valamint a Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló 16/1998. (V. 20.) PM rendelet módosításáról szóló 22/2011. (VI. 21.) NGM rendelet 8., 9. és 11. §-aival megállapított 2. § (2) bekezdést, 5. § (2) bekezdést, valamint 2. számú mellékletet először a hatálybalépését követő első negyedévre vonatkozó jelentés esetében kell alkalmazni.
+## 14. §[^50] A 10/A. § (2) bekezdése a hivatalosan támogatott exporthitelek terén bizonyos iránymutatások alkalmazásáról, valamint a 2001/76 és a 2001/77/EK tanácsi határozat hatályon kívül helyezéséről szóló 2011. november 16-i 1233/2011/EU európai parlamenti és tanácsi rendeletben foglalt előírások végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 1. számú melléklet a 16/1998. (V. 20.) PM rendelethez
 
-[^45]: A 12. §-t a 22/2011. (VI. 21.) NGM rendelet 10. §-a iktatta be.
+[^50]: A 14. §-t a 16/2012. (VI. 28.) NGM rendelet 10. §-a iktatta be.
