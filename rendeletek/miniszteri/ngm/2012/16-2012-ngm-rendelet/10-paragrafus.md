@@ -1,0 +1,5 @@
+## 9. § Az R. a következő 13. §-sal egészül ki:
+
+## „13. § (1) A Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló 16/1998. (V. 20.) PM rendelet módosításáról szóló 16/2012. (VI. 28.) NGM rendelet (a továbbiakban: R.) hatálybalépését megelőzően a 10/A. § (1) bekezdésében foglaltak szerint az államháztartásért felelős miniszter részére postára adott papír alapú értesítések alapján teljesítendő átutalásokat az államháztartásért felelős miniszter az R. hatálybalépését megelőzően hatályos szabályok szerint teljesíti.
+
+## (2) E rendeletnek az R. 1. §-ával megállapított 2. § (3) bekezdésében, 2. §-ával megállapított 2. § (4) bekezdésében, 4. §-ával megállapított 5. § (4) bekezdésében, 5. §-ával megállapított 5. § (5) bekezdésében, 7. §-ával megállapított 9. §-ában előírt rendelkezéseket az Eximbank és a Mehib Zrt. az R. hatálybalépését követő első elszámolási időszakra teljesíti először.”

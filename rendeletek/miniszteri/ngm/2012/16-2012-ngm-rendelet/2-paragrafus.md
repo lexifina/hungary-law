@@ -1,0 +1,3 @@
+## 1. § A Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság és a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló 16/1998. (V. 20.) PM rendelet (a továbbiakban: R.) 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az Eximbank a (2) bekezdésben előírt beszámolóval egyidejűleg ügyletenként is teljesíti a Magyar Államkincstár részére a 10. mellékletben foglalt 1. és 2. táblázat szerinti adatszolgáltatást. A Magyar Államkincstár az Eximbankot hiánypótlásra vagy kijavításra szólítja fel, ha az e bekezdésben szereplő táblázatok hiányosak vagy hiányoznak. Az Eximbank 5 munkanapon belül gondoskodik a hiánypótlás teljesítéséről.”
