@@ -6,7 +6,7 @@ b) az a) pont hatálya alá nem tartozó egészségügyi szolgáltató esetében
 
 ## térítésmentes mintát adhat, melyhez mellékeli a gyógyszerre vonatkozó alkalmazási előírás, illetve a gyógyászati segédeszközre vonatkozó használati útmutató egy példányát.
 
-(2)[^10] Gyógyszerből és egyszer használatos gyógyászati segédeszközből – gyógyszerenként, illetve gyógyászati segédeszközönként – a gyógyszer, gyógyászati segédeszköz rendelésére, használatának betanítására és forgalmazására jogosultanként térítésmentes mintaként az adott gyógyszer, illetve egyszer használatos gyógyászati segédeszköz magyarországi értékesítésének megkezdését követő év végéig évente legfeljebb két csomagolási egység adható azzal, hogy gyógyászati segédeszköz esetén a két csomagolási egység az egy hónapra szükséges mennyiséget nem haladhatja meg. A gyógyszer és egyszer használatos gyógyászati segédeszköz magyarországi értékesítésének megkezdését követő év vége után az adott 0%-osnál magasabb támogatási kategóriába tartozó gyógyszerből, valamint támogatással rendelhető gyógyászati segédeszközből térítésmentes minta nem adható.
+(2)[^10] Gyógyszerből és egyszer használatos gyógyászati segédeszközből – gyógyszerenként, illetve gyógyászati segédeszközönként – a gyógyszer, gyógyászati segédeszköz rendelésére, használatának betanítására és forgalmazására jogosultanként térítésmentes mintaként évente legfeljebb két csomagolási egység adható azzal, hogy gyógyászati segédeszköz esetén a két csomagolási egység az egy hónapra szükséges mennyiséget nem haladhatja meg. 0%-osnál magasabb támogatási kategóriába tartozó gyógyszerből, valamint támogatással rendelhető gyógyászati segédeszközből a gyógyszer és egyszer használatos gyógyászati segédeszköz magyarországi értékesítésének megkezdését követő év vége után térítésmentes minta nem adható.
 
 (3)[^11] Az (1) és (2) bekezdés szerinti átadásról az ismertető személy jegyzőkönyvet vesz fel. A jegyzőkönyvnek tartalmaznia kell:
 
@@ -63,6 +63,6 @@ f) az átadó és az átvevő nevét és aláírását.
 (8) A fogyasztónak – a Gyftv. 17. § (8) bekezdésében foglaltakra figyelemmel – kizárólag az orvos által terápiás vagy rehabilitációs célból juttatott gyógyszer vagy gyógyászati segédeszköz minta adható.
 
 [^9]: A 7. § (1) bekezdésének bevezető szövegrésze a 38/2009. (XI. 6.) EüM rendelet 7. § (2) bekezdése szerint módosított szöveg.
-[^10]: A 7. § (2) bekezdése a 67/2011. (XII. 13.) NEFMI rendelet 10. §-ával megállapított szöveg.
+[^10]: A 7. § (2) bekezdése a 10/2012. (VII. 19.) EMMI rendelet 24. §-ával megállapított szöveg.
 [^11]: A 7. § (3) bekezdésének bevezető szövegrésze a 38/2009. (XI. 6.) EüM rendelet 7. § (2) bekezdése szerint módosított szöveg.
 [^12]: A 7. § (4) bekezdése a 38/2009. (XI. 6.) EüM rendelet 7. § (2) bekezdése szerint módosított szöveg.
