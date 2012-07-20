@@ -8,4 +8,6 @@ c) biztosítja a gyártáshoz és minőség-ellenőrzéshez szükséges személy
 
 d) garantálja, hogy a forgalomba hozatalra engedélyezett gyógyszereket a hatályos jogszabályokban foglaltaknak megfelelően értékesíti;
 
-e) a gyógyszer gyártásával összefüggő minőségi kifogásokról negyedévente minőségi jelentést küld az OGYI-nak.
+e)[^9] a gyógyszer gyártásával összefüggő minőségi kifogásokról negyedévente minőségi jelentést küld a GYEMSZI-nek.
+
+[^9]: A 3. § e) pontja a 10/2012. (VII. 19.) EMMI rendelet 16. § c) pontja szerint módosított szöveg.

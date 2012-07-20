@@ -1,8 +1,8 @@
-2. § (1) A gyógyszergyártási engedélyt az Országos Gyógyszerészeti Intézet (a továbbiakban: OGYI) a Gytv. 4. §-a szerinti eljárás során akkor adja meg, ha a kérelmező rendelkezik olyan – az 1. mellékletében meghatározott – szakmai feltételekkel, amelyek biztosítják, hogy az általa gyártott vagy harmadik országból importált gyógyszer megfelel a forgalomba hozatali engedélyben rögzített követelményeknek.
+2. § (1)[^5] A gyógyszergyártási engedélyt a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) a Gytv. 4. §-a szerinti eljárás során akkor adja meg, ha a kérelmező rendelkezik olyan – az 1. mellékletében meghatározott – szakmai feltételekkel, amelyek biztosítják, hogy az általa gyártott vagy harmadik országból importált gyógyszer megfelel a forgalomba hozatali engedélyben rögzített követelményeknek.
 
-(2) Az OGYI az (1) bekezdésben szereplő szakmai feltételeknek való megfelelés biztosítására magyar nyelven hivatalos lapjában, illetve a honlapján közzéteszi az Európai Bizottság által e célból kiadott „Útmutató a gyógyszerek és vizsgálati gyógyszerek helyes gyógyszergyártási gyakorlatához” című részletes iránymutatást és ennek módosításait.
+(2)[^6] A GYEMSZI az (1) bekezdésben szereplő szakmai feltételeknek való megfelelés biztosítására a honlapján közzéteszi az Európai Bizottság által e célból kiadott „Útmutató a gyógyszerek és vizsgálati gyógyszerek helyes gyógyszergyártási gyakorlatához” című részletes iránymutatást és ennek módosításait.
 
-(3) A gyógyszergyártási engedély iránti kérelmet az OGYI-hoz 3 példányban a 2. mellékletében meghatározott adatlapon kell benyújtani. A kérelemhez mellékelni kell
+(3)[^7] A gyógyszergyártási engedély iránti kérelmet a GYEMSZI-hez 3 példányban a 2. mellékletében meghatározott adatlapon kell benyújtani. A kérelemhez mellékelni kell
 
 a) a gyógyszerforma (gyógyszerformák), illetőleg speciális tevékenység (tevékenységek) – 3. melléklet szerinti – megjelölését, amelyre a kérelmező az engedélyt kéri;
 
@@ -12,8 +12,11 @@ c) a külön jogszabályban meghatározott szakképesítéshez kötött meghatal
 
 d) a Gytv. 4. §-ának (3) bekezdése szerinti felelősségbiztosítási szerződés másolatát;
 
-e) a cégkivonatot; valamint
-
-f) nyilatkozatot arról, hogy a kérelmező megfelel a 2. § (1) bekezdés szerinti feltételeknek.
+e)–f)[^8]
 
 (4) A gyógyszergyártási engedély csak a kérelemben meghatározott telephelyekre, gyógyszerekre és/vagy gyógyszerformákra és tevékenységekre érvényes.
+
+[^5]: A 2. § (1) bekezdése a 10/2012. (VII. 19.) EMMI rendelet 16. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (2) bekezdése a 10/2012. (VII. 19.) EMMI rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (3) bekezdés nyitó szövegrésze a 10/2012. (VII. 19.) EMMI rendelet 16. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § (3) bekezdés e)–f) pontját a 10/2012. (VII. 19.) EMMI rendelet 18. §-a hatályon kívül helyezte.

@@ -18,7 +18,7 @@
 
 ## (1) A helyes gyártási gyakorlat betartatását szolgálják a Gytv.-ben és e rendelet 4. §-ában részletezett helyszíni hatósági ellenőrzések, a hatósági ellenőrök által vett minták laboratóriumi vizsgálata, valamint az EGT tagállamai közötti információcsere. Utóbbi során figyelembe kell venni az Európai Bizottság által meghatározott közösségi eljárásokat is.
 
-## (2) A helyes gyártási gyakorlat alapelveinek és iránymutatásainak értelmezése céljából a gyártók és az OGYI figyelembe veszi az Európai Bizottság által az „Útmutató a gyógyszerek és vizsgálati gyógyszerek helyes gyártási gyakorlatához” című útmutatás fordításaként az OGYI által e rendelet 2. § (2) bekezdése szerint közzétett részletes iránymutatásokat.
+## (2)[^16] A helyes gyártási gyakorlat alapelveinek és iránymutatásainak értelmezése céljából a gyártók és a GYEMSZI figyelembe veszi az Európai Bizottság által az „Útmutató a gyógyszerek és vizsgálati gyógyszerek helyes gyártási gyakorlatához” című útmutatás fordításaként a GYEMSZI által e rendelet 2. § (2) bekezdése szerint közzétett részletes iránymutatásokat.
 
 ## A helyes gyártási gyakorlat betartása
 
@@ -32,13 +32,13 @@
 
 ## A forgalomba hozatali engedélyben foglaltak betartása
 
-## (1) A gyártó biztosítja, hogy a forgalomba hozatali engedéllyel rendelkező gyógyszerekkel kapcsolatos valamennyi gyártási műveletet az OGYI által kiadott forgalomba hozatali engedélyben foglaltakkal összhangban végezzék.
+## (1)[^17] A gyártó biztosítja, hogy a forgalomba hozatali engedéllyel rendelkező gyógyszerekkel kapcsolatos valamennyi gyártási műveletet a GYEMSZI által kiadott forgalomba hozatali engedélyben foglaltakkal összhangban végezzék.
 
-## Vizsgálati készítmények esetében a gyártó biztosítja, hogy minden gyártási műveletet a megbízó által a külön jogszabály szerint rendelkezésre bocsátott és az OGYI által elfogadott eljárással összhangban végezzék.
+## Vizsgálati készítmények esetében a gyártó biztosítja, hogy minden gyártási műveletet a megbízó által a külön jogszabály szerint rendelkezésre bocsátott és a GYEMSZI által elfogadott eljárással összhangban végezzék.
 
-## (2) A gyártó a gyártás módszereit a tudományos és műszaki fejlődés és a vizsgálati gyógyszer figyelembevételével rendszeresen felülvizsgálja.
+## (2)[^18] A gyártó a gyártás módszereit a tudományos és műszaki fejlődés és a vizsgálati gyógyszer figyelembevételével rendszeresen felülvizsgálja.
 
-## Amennyiben szükségessé válik a forgalomba hozatali engedély iránti vagy klinikai vizsgálatra vonatkozó kérelemhez benyújtott dokumentáció módosítása, az OGYI-hoz módosítási kérelmet kell benyújtani.
+## Amennyiben szükségessé válik a forgalomba hozatali engedély iránti vagy klinikai vizsgálatra vonatkozó kérelemhez benyújtott dokumentáció módosítása, a GYEMSZI-hez módosítási kérelmet kell benyújtani.
 
 ## Minőségbiztosítási rendszer
 
@@ -90,19 +90,19 @@
 
 ## E személy rendelkezésére áll a kiinduló és a csomagolóanyagok, valamint a köztes és késztermékek vizsgálatára kialakított, megfelelő személyzettel és berendezéssel ellátott egy vagy több minőség-ellenőrző laboratórium, vagy ezekhez hozzáféréssel rendelkezik.
 
-## (2) Gyógyszerek esetében, beleértve a harmadik országokból importált gyógyszereket is, szerződéses laboratórium is alkalmazható, ha azt az e rendeletben, valamint a Szerződéses (alvállalkozók által végzett) munka címben kifejtettekkel összhangban engedélyezték.
+## (2)[^19] Gyógyszerek esetében, beleértve a harmadik országokból importált gyógyszereket is, szerződéses laboratórium is alkalmazható, ha azt az e rendeletben, valamint a Szerződéses (alvállalkozók által végzett) munka címben kifejtettekkel összhangban engedélyezték.
 
-## Vizsgálati készítmények esetében a megbízó igazolja, hogy a szerződéses laboratórium eleget tesz a klinikai vizsgálatok engedélyezéséről szóló külön jogszabály által említett, az OGYI által elfogadott kérelem tartalmának.
+## Vizsgálati készítmények esetében a megbízó igazolja, hogy a szerződéses laboratórium eleget tesz a klinikai vizsgálatok engedélyezéséről szóló külön jogszabály által említett, a GYEMSZI által elfogadott kérelem tartalmának.
 
 ## (3) A késztermék értékesítését, forgalmazását vagy klinikai vizsgálatokban történő felhasználását megelőző végső felszabadítás során a minőségbiztosítási rendszer az analitikai eredményeken felül olyan alapvető információkat is figyelembe vesz, mint például a gyártási feltételek, a gyártásközi ellenőrzések eredménye, a gyártási dokumentáció vizsgálata, valamint a termék, ezen belül a végleges csomagolás megfelelősége.
 
-## (4) A kész gyógyszer minden gyártási tételéből legalább két teljes vizsgálatra alkalmas gyári csomagolási egységnek a megjelölt felhasználhatósági határidőt követő egy évig történő megőrzéséről kell gondoskodni.
+## (4)[^20] A kész gyógyszer minden gyártási tételéből legalább két teljes vizsgálatra alkalmas gyári csomagolási egységnek a megjelölt felhasználhatósági határidőt követő egy évig történő megőrzéséről kell gondoskodni.
 
 ## Vizsgálati készítmények esetében a nem kimért adagokban kiszerelt (ömlesztett) termék minden egyes gyártási tételéből és a késztermék minden egyes gyártási tételéhez felhasznált csomagolás fő összetevőiből kielégítő mennyiségű mintát kell megőrizni azon klinikai vizsgálat befejezésétől vagy hivatalos megszakításától számítva legalább két évig, amelyben a gyártási tételt felhasználták, attól függően, melyik e két időszak közül a hosszabb.
 
 ## Amennyiben külön jogszabály hosszabb időszakot nem ír elő, a kiindulási anyagok mintáit a gyártási folyamatban felhasznált oldószerek, gázok és víz kivételével a termék felszabadításától számítva legalább két évig meg kell őrizni. Ezen időszakot meg lehet rövidíteni, ha az anyagra vonatkozó előírás szerint az anyag stabilitási (eltarthatósági) időszaka rövidebb. Igény esetén minden mintát az illetékes hatóságok rendelkezésére kell bocsátani.
 
-## Az OGYI beleegyezésével más feltételek is meghatározhatóak a kiinduló anyagok és egyedileg vagy kis mennyiségekben gyártott, illetve olyan anyagok mintavétele és megőrzése esetében, amelyek tárolása különleges problémákat vet fel.
+## A GYEMSZI beleegyezésével más feltételek is meghatározhatóak a kiinduló anyagok és egyedileg vagy kis mennyiségekben gyártott, illetve olyan anyagok mintavétele és megőrzése esetében, amelyek tárolása különleges problémákat vet fel.
 
 ## Szerződéses (alvállalkozók által végzett) munka
 
@@ -114,11 +114,11 @@
 
 ## Panaszok, forgalomból való kivonás és vészhelyzeti kódfeltörés
 
-## (1) Gyógyszerek esetében a gyártó a panaszok rögzítésére és kivizsgálására szolgáló rendszert és a gyógyszereknek a forgalomból történő azonnali kivonása végrehajtására szolgáló hatékony rendszert alakít ki. A gyártó minden hibára vonatkozó panaszt rögzít és kivizsgál. A gyártó minden olyan hibáról tájékoztatja az OGYI-t, amely forgalomból való kivonást eredményezhet, vagy amely a forgalmazás rendkívüli korlátozását vonhatja maga után, és amennyiben lehetséges, megjelöli a rendeltetési országokat is, ahova a termék kiszállításra került.
+## (1)[^21] Gyógyszerek esetében a gyártó a panaszok rögzítésére és kivizsgálására szolgáló rendszert és a gyógyszereknek a forgalomból történő azonnali kivonása végrehajtására szolgáló hatékony rendszert alakít ki. A gyártó minden hibára vonatkozó panaszt rögzít és kivizsgál. A gyártó minden olyan hibáról tájékoztatja a GYEMSZI-t, amely forgalomból való kivonást eredményezhet, vagy amely a forgalmazás rendkívüli korlátozását vonhatja maga után, és amennyiben lehetséges, megjelöli a rendeltetési országokat is, ahova a termék kiszállításra került.
 
 ## A forgalomból való kivonást a Gytv.-ben, ebben a rendeletben és a külön jogszabályban meghatározott előírásokkal összhangban kell végezni.
 
-## (2) Vizsgálati készítmények esetében a gyártó a megbízóval együttműködésben a panaszok rögzítésére és felülvizsgálatára szolgáló rendszert, valamint a már forgalomba került vizsgálati készítmények bármikori azonnali visszagyűjtésére szolgáló hatékony rendszert alakít ki. A gyártó minden panaszt rögzít és kivizsgál, és minden olyan hibáról tájékoztatja az OGYI-t, amely forgalomból való kivonást eredményezhet, vagy amely a forgalmazás rendkívüli korlátozását vonhatja maga után.
+## (2)[^22] Vizsgálati készítmények esetében a gyártó a megbízóval együttműködésben a panaszok rögzítésére és felülvizsgálatára szolgáló rendszert, valamint a már forgalomba került vizsgálati készítmények bármikori azonnali visszagyűjtésére szolgáló hatékony rendszert alakít ki. A gyártó minden panaszt rögzít és kivizsgál, és minden olyan hibáról tájékoztatja a GYEMSZI-t, amely forgalomból való kivonást eredményezhet, vagy amely a forgalmazás rendkívüli korlátozását vonhatja maga után.
 
 ## Adott vizsgálati készítmény esetében minden vizsgálati helyszínt azonosítani kell, és ha lehetséges, minden rendeltetési országot (ahova a készítmény kiszállításra került) meg kell jelölni.
 
@@ -134,4 +134,13 @@
 
 ## Vizsgálati készítmények esetében a címkézésnek biztosítania kell a vizsgálatban részt vevő személy védelmét és a nyomon követhetőséget, lehetővé kell tennie a termék és a vizsgálat azonosítását, valamint elő kell segítenie a vizsgálati készítmény megfelelő használatát.
 
-2. melléklet a 44/2005. (X. 19.) EüM rendelethez
+2. melléklet a 44/2005. (X. 19.) EüM rendelethez[^23]
+
+[^16]: Az 1. melléklet „Hatósági ellenőrzések” alcím (2) bekezdése a 10/2012. (VII. 19.) EMMI rendelet 16. § f) pontja szerint módosított szöveg.
+[^17]: Az 1. melléklet „A forgalomba hozatali engedélyben foglaltak betartása” alcím (1) bekezdése a 10/2012. (VII. 19.) EMMI rendelet 16. § g) pontja szerint módosított szöveg.
+[^18]: Az 1. melléklet „A forgalomba hozatali engedélyben foglaltak betartása” alcím (2) bekezdése a 10/2012. (VII. 19.) EMMI rendelet 16. § g) pontja szerint módosított szöveg.
+[^19]: Az 1. melléklet „Minőség-ellenőrzés” alcím (2) bekezdése a 10/2012. (VII. 19.) EMMI rendelet 16. § h) pontja szerint módosított szöveg.
+[^20]: Az 1. melléklet „Minőség-ellenőrzés” alcím (4) bekezdése a 10/2012. (VII. 19.) EMMI rendelet 16. § h) pontja szerint módosított szöveg.
+[^21]: Az 1. melléklet „Panaszok, forgalomból való kivonás és vészhelyzeti kódfeltörés” alcím (1) bekezdése a 10/2012. (VII. 19.) EMMI rendelet 16. § i) pontja szerint módosított szöveg.
+[^22]: Az 1. melléklet „Panaszok, forgalomból való kivonás és vészhelyzeti kódfeltörés” alcím (2) bekezdése a 10/2012. (VII. 19.) EMMI rendelet 16. § i) pontja szerint módosított szöveg.
+[^23]: A 2. melléklet a 10/2012. (VII. 19.) EMMI rendelet 17. §-a szerint módosított szöveg.
