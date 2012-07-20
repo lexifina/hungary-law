@@ -10,13 +10,13 @@ c) 32. §-ának (1) bekezdésében foglaltakat a díj visszatérítése,
 
 d) 86. §-ában foglaltakat az elévülés
 
-## tekintetében értelemszerűen kell alkalmazni azzal, hogy az ott nevesített állami adóhatóság helyett az OGYI-t, illeték helyett díjat kell érteni.
+## tekintetében értelemszerűen kell alkalmazni azzal, hogy az ott nevesített állami adóhatóság helyett a GYEMSZI-t, illeték helyett díjat kell érteni.
 
-(3)[^5] Ha a díjat egyáltalán nem vagy nem szabályszerű időben, módon vagy mértékben fizették meg, az Itv. 73/A. §-a (1) és (3) bekezdésében, továbbá a 82. §-ában foglaltaknak megfelelően kell eljárni azzal az eltéréssel, hogy az ott nevesített illeték helyett díjat, lelet helyett jegyzőkönyvet, állami adóhatóság helyett az OGYI-t kell érteni.
+(3)[^5] Ha a díjat egyáltalán nem vagy nem szabályszerű időben, módon vagy mértékben fizették meg, az Itv. 73/A. §-a (1) és (3) bekezdésében, továbbá a 82. §-ában foglaltaknak megfelelően kell eljárni azzal az eltéréssel, hogy az ott nevesített illeték helyett díjat, lelet helyett jegyzőkönyvet, állami adóhatóság helyett a GYEMSZI-t kell érteni.
 
 (4) A díjak nyilvántartására és elszámolására az államháztartás alrendszerébe tartozó, költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló hatályos jogszabályi előírásokat kell alkalmazni.
 
 (5) Az igazgatási szolgáltatási díjak beszedésére jogosult gazdálkodó szervezetek felsorolását, bankszámlaszámát a 2. számú melléklet tartalmazza.
 
-[^4]: A 3. § (2) bekezdésének záró szövegrésze az 1/2009. (I. 30.) EüM rendelet 3. § (5) bekezdésének d) pontja, a 4/2010. (VIII. 12.) NEFMI rendelet 2. § (3) bekezdés a)–b) pontja, a 30/2010. (XII. 30.) NEFMI rendelet 12. § (3) bekezdése szerint módosított szöveg.
-[^5]: A 3. § (3) bekezdése a 4/2010. (VIII. 12.) NEFMI rendelet 2. § (3) bekezdés a)–b) pontja, a 30/2010. (XII. 30.) NEFMI rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdésének záró szövegrésze az 1/2009. (I. 30.) EüM rendelet 3. § (5) bekezdésének d) pontja, a 4/2010. (VIII. 12.) NEFMI rendelet 2. § (3) bekezdés a)–b) pontja, a 10/2012. (VII. 19.) EMMI rendelet 22. § d) pontja szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdése a 4/2010. (VIII. 12.) NEFMI rendelet 2. § (3) bekezdés a)–b) pontja, a 10/2012. (VII. 19.) EMMI rendelet 22. § d) pontja szerint módosított szöveg.

@@ -12,6 +12,6 @@
 
 2. számú melléklet a 21/2007. (V. 8.) EüM rendelethez[^7]
 
-| Országos Gyógyszerészeti Intézet | 10032000-01492695-00000000 |
+| Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet | 10032000-01490576-00000000 Magyar Államkincstár |
 
-[^7]: A 2. számú melléklet a 30/2010. (XII. 30.) NEFMI rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^7]: A 2. számú melléklet a 10/2012. (VII. 19.) EMMI rendelet 23. §-ával megállapított szöveg.
