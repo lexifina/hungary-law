@@ -1,3 +1,0 @@
-5. § (1) A felügyeleti szerv a közigazgatási szerv által benyújtott támogatási igényeket és az általa alkalmazott ösztöndíjas foglalkoztatottak után érvényesíthető támogatás iránti igényt összesíti. Az összesített adatokat a tárgynegyedévet követő hónap 15. napjáig, a negyedik negyedévre vonatkozó összesített adatokat december 10-éig a 2. számú mellékletben meghatározott adattartalmú igénylőlapon a Pénzügyminisztériumnak továbbítja.
-
-(2) Az igény beérkezését követő 10 munkanapon belül a pénzügyminiszter gondoskodik a felügyeleti szerv által igényelt előirányzat átcsoportosításáról. A jogosulatlanul benyújtott támogatás iránti igény teljesítését meg kell tagadni.
