@@ -1,5 +1,0 @@
-18. § (1) Ha a központi költségvetési szervnek a 15. § (1) bekezdés b) pontja szerinti önerőt kell biztosítania, az irányító hatóságnak a felhívásban tájékoztatást kell adnia az önerő NFÜ általi finanszírozásának tényéről és módjáról.
-
-(2) Az irányító hatóság a támogatás biztosításáról szóló megállapodásban rögzített gyakorisággal, de legalább a projektmegvalósítás végén köteles ellenőrizni a támogatás szabályszerű felhasználását. Az irányító hatóság az ellenőrzési feladatát a közreműködő szervezet bevonásával is elláthatja.
-
-(3) Abban az esetben, ha a közszférához tartozó szervezet a pályázat során az önerő rendelkezésére állásáról nyilatkozott, az önerő e rendelet szerinti megtérítésének előfeltétele annak igazolása, hogy a korábban igazolt önerő a kedvezményezettnek fel nem róható okból (pl. előirányzat-zárolás) nem vagy csak részlegesen áll rendelkezésre.

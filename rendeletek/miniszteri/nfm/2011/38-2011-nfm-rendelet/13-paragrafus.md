@@ -1,3 +1,0 @@
-13. § (1) Az Európai Unió strukturális alapjainak és Kohéziós Alapjának támogatásával megvalósuló programok esetében az Ámr. 150. § (3) és (6) bekezdéseiben rögzített értéket meghaladó előlegfizetésre vonatkozó javaslatot az irányító hatóság vezetője az NFÜ gazdasági vezetőjén keresztül terjeszti elő egyetértésre az államháztartásért felelős miniszter részére.
-
-(2) Az „Állami költségvetési kedvezményezettek sajáterő támogatása” előirányzat felhasználása esetén a jövedelemtermelő projektek megtérülő része miatt el nem számolható költségek tekintetében az európai uniós elszámolhatósági kritériumokat kell figyelembe venni, így az egyébként érintett operatív program terhére elszámolható költségkategóriák és költségelemek számolhatóak el.
