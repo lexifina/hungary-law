@@ -105,3 +105,15 @@ Megnevezés
 |
 
 Kereskedelmi szálláshely-szolgáltatás
+
+|
+
+2.
+
+|
+
+A zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló 23/2011. (III. 8.)
+
+Korm. rendelet 2012. január 1. napján hatályos állapota szerint meghatározott alkalmi szabadtéri
+
+rendezvényre történő, kizárólag belépést biztosító szolgáltatás.
