@@ -22,7 +22,7 @@ meghaladja.
 
 (5a)[^52] A 10. § szerinti eljárás során képzett támogatási csoportba tartozó, a referencia árnál magasabb napi terápiás költségű gyógyszerek támogatása a referencia árhoz nyújtott támogatás fix összege.
 
-(5b)[^53] A 10/A. § szerinti eljárás során képzett támogatási csoportba tartozó, a referenciagyógyszer napi terápiás költségét legfeljebb 5%-kal meghaladó napi terápiás költségű gyógyszer támogatása a referencia árhoz nyújtott támogatás fix összege.
+(5b)[^53] A 10/A. § szerinti eljárás során képzett támogatási csoportba tartozó, a referenciagyógyszer napi terápiás költségét legfeljebb 10%-kal meghaladó napi terápiás költségű gyógyszer támogatása a referencia árhoz nyújtott támogatás fix összege.
 
 (5c)[^54] A 10/A. § szerinti eljárás során meghatározott, napi terápiás költségük alapján preferált referencia ársávba nem tartozó készítmények társadalombiztosítási támogatásának számítása a támogatási kategória változatlanul hagyása mellett a 8. § szerinti számítási módszerrel, de a referenciagyógyszer árához nyújtott támogatás összegénél 15%-kal alacsonyabb támogatási összeg alkalmazásával kerül megállapításra.
 
@@ -36,7 +36,7 @@ c) az adott csoportba tartozó gyógyszerek közül bruttó fogyasztói áron sz
 
 d) kiszerelési formája a támogatás alapját képező indikációt tekintve nem haladja meg az érvényes alkalmazási előírásában meghatározott egy havi terápiához szükséges, a maximális dózissal számolt mennyiséget vagy ahhoz legközelebb álló csomagolási egységet,
 
-e)[^55] csoporton belüli forgalmi részesedése a 10. § (4) bekezdése szerint megindult fixesítési eljárás kezdőnapját megelőző hét hónapot vizsgálva – ide nem értve a fixesítési eljárás kezdőnapját közvetlenül megelőző hónapot – két egymást követő hónapban a DOT tekintetében az 1%-ot elérte támogatási jogcímenként.
+e)[^55] csoporton belüli forgalmi részesedése a 10. § (4) bekezdése szerint megindult fixesítési eljárás kezdőnapját megelőző hét hónapot vizsgálva – ide nem értve a fixesítési eljárás kezdőnapját közvetlenül megelőző hónapot – két egymást követő hónapban a DOT tekintetében az 1%-ot, a 10/A. § szerinti eljárásban a 3%-ot elérte támogatási jogcímenként.
 
 (7) A nem egyenértékű készítmények a referencia készítmény vagy a referencia ár meghatározásánál nem kerülnek beszámításra. Amennyiben napi terápiás költségük a referencia készítmény napi terápiás költségénél magasabb, a referencia készítmény napi terápiás költségéhez rendelt támogatási összeget kapják. Ellenkező esetben a referencia készítmény támogatásának százalékos mértékét kapják.
 
@@ -48,6 +48,6 @@ e)[^55] csoporton belüli forgalmi részesedése a 10. § (4) bekezdése szerint
 [^50]: A 8. § (2) bekezdése a 47/2011. (VII. 27.) NEFMI rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^51]: A 8. § (5) bekezdése a 47/2011. (VII. 27.) NEFMI rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^52]: A 8. § (5a) bekezdését a 47/2011. (VII. 27.) NEFMI rendelet 2. § (3) bekezdése iktatta be.
-[^53]: A 8. § (5b) bekezdését a 47/2011. (VII. 27.) NEFMI rendelet 2. § (3) bekezdése iktatta be.
+[^53]: A 8. § (5b) bekezdését a 47/2011. (VII. 27.) NEFMI rendelet 2. § (3) bekezdése iktatta be, szövege a 10/2012. (VII. 19.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
 [^54]: A 8. § (5c) bekezdését a 47/2011. (VII. 27.) NEFMI rendelet 2. § (3) bekezdése iktatta be.
-[^55]: A 8. § (6) bekezdés e) pontja a 47/2011. (VII. 27.) NEFMI rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^55]: A 8. § (6) bekezdés e) pontja a 47/2011. (VII. 27.) NEFMI rendelet 2. § (4) bekezdésével megállapított, a 10/2012. (VII. 19.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.

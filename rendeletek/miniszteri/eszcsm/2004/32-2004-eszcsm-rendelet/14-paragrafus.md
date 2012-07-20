@@ -1,4 +1,4 @@
-14. §[^83] (1) A gyógyszer befogadásának egyéb feltételei:
+14. §[^84] (1) A gyógyszer befogadásának egyéb feltételei:
 
 a) új csomagolás az előző csomagolással azonos termelői áron vagy import beszerzési áron (a továbbiakban együtt: termelői ár) és azonos támogatási mértékkel fogadható be;
 
@@ -30,4 +30,4 @@ a) az orális kombinációs készítmények támogatása nem haladhatja meg a te
 
 b) az OEP határozatában megjelöli a támogatási összeg számítása során figyelembe vett készítményeket és fix csoportokat.
 
-[^83]: A 14. § a 47/2011. (VII. 27.) NEFMI rendelet 6. §-ával megállapított szöveg.
+[^84]: A 14. § a 47/2011. (VII. 27.) NEFMI rendelet 6. §-ával megállapított szöveg.

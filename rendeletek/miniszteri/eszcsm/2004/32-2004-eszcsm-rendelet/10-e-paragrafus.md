@@ -1,4 +1,4 @@
-10/E. §[^75] (1) Az első, a Tfr. 7. § (8) bekezdése szerinti hasonló biológiai gyógyszer (a továbbiakban: hasonló biológiai gyógyszer) befogadásával egyidőben az OEP kialakítja a biológiai gyógyszerek csoportját.
+10/E. §[^76] (1) Az első, a Tfr. 7. § (8) bekezdése szerinti hasonló biológiai gyógyszer (a továbbiakban: hasonló biológiai gyógyszer) befogadásával egyidőben az OEP kialakítja a biológiai gyógyszerek csoportját.
 
 (2) Az OEP az OGYTT véleményét figyelembe véve a honlapján folyamatosan közzéteszi az egyes biológiai gyógyszerek szakmai szempontok alapján meghatározott csoportjait, jelöli a csoport egyes készítményei esetében a preferált biológiai gyógyszereket, valamint a (12)–(13) bekezdés alapján meghatározott kötelező minimális rendelési arányt.
 
@@ -28,4 +28,4 @@ a) a preferált biológiai gyógyszer első alkalommal történő meghatározás
 
 b) a preferált biológiai gyógyszer első alkalommal történő meghatározását követő második évben és azt követően minden év július 1-je és az azt követő év július 1. napja közötti időszakban legalább 70%.
 
-[^75]: A 10/E. §-t a 2/2012. (I. 3.) NEFMI rendelet iktatta be.
+[^76]: A 10/E. §-t a 2/2012. (I. 3.) NEFMI rendelet iktatta be.
