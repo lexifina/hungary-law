@@ -1,4 +1,4 @@
-12/C. §[^129] (1) Az egészségügyért felelős miniszter
+12/C. §[^133] (1) Az egészségügyért felelős miniszter
 
 a) a 12/A. § szerinti esetben a Kormány jóváhagyását,
 
@@ -8,17 +8,17 @@ követően haladéktalanul értesíti a befogadást kérő személyt, a 12. § (
 
 (2) Az OEP az (1) és a (7) bekezdés szerinti értesítés alapján az előzetes befogadásokról évenkénti bontásban nyilvántartást vezet, amelyet minden év február 28-áig a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és az OEP, valamint az OTH honlapján közzé kell tenni.
 
-(3)[^130] A 12. § (1) bekezdése szerinti támogatási igény elfogadása esetén az igénnyel összefüggő fejlesztés támogatási szerződésében a beruházás vagy beruházási elem fizikai megvalósítására meghatározott időpontot követő 30 napon belül az OEP – erre irányuló kérelem esetén – az egészségügyi szolgáltatóval finanszírozási szerződést köt, amennyiben annak jogszabályban meghatározott egyéb feltételei is fennállnak.
+(3)[^134] A 12. § (1) bekezdése szerinti támogatási igény elfogadása esetén az igénnyel összefüggő fejlesztés támogatási szerződésében a beruházás vagy beruházási elem fizikai megvalósítására meghatározott időpontot követő 30 napon belül az OEP – erre irányuló kérelem esetén – az egészségügyi szolgáltatóval finanszírozási szerződést köt, amennyiben annak jogszabályban meghatározott egyéb feltételei is fennállnak.
 
 (4) A 12. § (1) bekezdése szerinti támogatás iránti igény elutasítása, visszavonása, valamint a pályázati kiírás meghiúsulása esetén az egészségügyért felelős miniszter intézkedik a pályázó előzetes többletkapacitás-befogadásának törlése érdekében.
 
-(4a)[^131] A beruházás vagy beruházási elem fizikai megvalósulását nem igénylő pályázat esetén a finanszírozási szerződés megkötésekor – a (3) bekezdésben meghatározott időpont helyett – a fejlesztésre vonatkozó támogatási szerződés megkötésének napja, illetve amennyiben az korábbi, az (1) bekezdés szerinti döntésben meghatározott időpont az irányadó.
+(4a)[^135] A beruházás vagy beruházási elem fizikai megvalósulását nem igénylő pályázat esetén a finanszírozási szerződés megkötésekor – a (3) bekezdésben meghatározott időpont helyett – a fejlesztésre vonatkozó támogatási szerződés megkötésének napja, illetve amennyiben az korábbi, az (1) bekezdés szerinti döntésben meghatározott időpont az irányadó.
 
 (5) Amennyiben a pályázat – ugyanazon feltételekkel – ismételten kiírásra kerül, a pályázó nyilatkozhat a korábban benyújtott kérelme fenntartásáról.
 
-(6)[^132] Amennyiben a 12. § (1) bekezdése szerinti támogatási igénnyel összefüggő fejlesztés támogatási szerződésében a beruházás vagy beruházási elem fizikai megvalósítására meghatározott időpontot követő egy éven belül a pályázó nem kezdeményezi a finanszírozási szerződés megkötését, vagy annak a pályázatra vonatkozó támogatási szerződésben foglaltak szerinti időpontra történő halasztását, az OEP az egészségügyért felelős miniszter egyetértésével a pályázó előzetes kapacitásbefogadását törli a nyilvántartásból.
+(6)[^136] Amennyiben a 12. § (1) bekezdése szerinti támogatási igénnyel összefüggő fejlesztés támogatási szerződésében a beruházás vagy beruházási elem fizikai megvalósítására meghatározott időpontot követő egy éven belül a pályázó nem kezdeményezi a finanszírozási szerződés megkötését, vagy annak a pályázatra vonatkozó támogatási szerződésben foglaltak szerinti időpontra történő halasztását, az OEP az egészségügyért felelős miniszter egyetértésével a pályázó előzetes kapacitásbefogadását törli a nyilvántartásból.
 
-(6a)[^133] Amennyiben a kapacitás – az egészségügyért felelős miniszter egyetértése hiányában – a (6) bekezdés alapján nem kerül törlésre a Tv. 11. § (3) bekezdése szerinti nyilvántartásból, a (6) bekezdésben meghatározott időpontot követően – az egészségügyért felelős miniszter által megjelölt határnapig – köthető finanszírozási szerződés a kapacitás tekintetében.
+(6a)[^137] Amennyiben a kapacitás – az egészségügyért felelős miniszter egyetértése hiányában – a (6) bekezdés alapján nem kerül törlésre a Tv. 11. § (3) bekezdése szerinti nyilvántartásból, a (6) bekezdésben meghatározott időpontot követően – az egészségügyért felelős miniszter által megjelölt határnapig – köthető finanszírozási szerződés a kapacitás tekintetében.
 
 (7) Amennyiben a finanszírozási szerződés megkötése előtt a többletkapacitás befogadást módosítani szükséges, azt
 
@@ -30,8 +30,8 @@ engedélyezheti, és erről az egészségügyért felelős miniszter az OEP-et �
 
 (8) Az (1) és a (7) bekezdés szerinti értesítés a 12. § (1) bekezdése szerinti támogatási szerződés megkötésének feltétele, az a támogatási szerződés mellékletét képezi.
 
-[^129]: A 12/C. §-t a 363/2010. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
-[^130]: A 12/C. § (3) bekezdése a 185/2011. (IX. 9.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^131]: A 12/C. § (4a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 41. § (2) bekezdése iktatta be.
-[^132]: A 12/C. § (6) bekezdése a 185/2011. (IX. 9.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^133]: A 12/C. § (6a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 41. § (3) bekezdése iktatta be.
+[^133]: A 12/C. §-t a 363/2010. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
+[^134]: A 12/C. § (3) bekezdése a 185/2011. (IX. 9.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^135]: A 12/C. § (4a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 41. § (2) bekezdése iktatta be.
+[^136]: A 12/C. § (6) bekezdése a 185/2011. (IX. 9.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^137]: A 12/C. § (6a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 41. § (3) bekezdése iktatta be.

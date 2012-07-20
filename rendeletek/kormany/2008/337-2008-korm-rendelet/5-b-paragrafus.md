@@ -50,7 +50,9 @@ d) járóbeteg-szakellátási tartalékkapacitások nem szakorvosi óra száma,
 
 e) egyéb teljesítményegységek szerinti tartalék finanszírozási egységek száma.
 
-(7)[^66] A Tv. 11. § (3) bekezdése szerinti nyilvántartásban az előzetesen befogadott többletkapacitások ellátási formánként és szakmánként szerepelnek. A nyilvántartás tartalmazza
+(6a)[^66] Abban az esetben, ha jogszabályi változás érinti a (2) bekezdés c) pontjában, illetve a (4) bekezdés d) pontjában meghatározott adatokat, a változást – a Tv. 5/A. § (7) bekezdése szerinti nyilvántartásnak a (3), illetve az (5) bekezdés szerinti módosulásáig – az egészségbiztosításért felelős miniszter által vezetett minisztérium honlapján közzétett tájékoztatóban meghatározottak szerint kell figyelembe venni azzal, hogy ennek tényét – a tájékoztató elérhetőségének biztosításával egyidejűleg – a Tv. 5/A. § (7) bekezdése szerinti nyilvántartásban is közölni kell.
+
+(7)[^67] A Tv. 11. § (3) bekezdése szerinti nyilvántartásban az előzetesen befogadott többletkapacitások ellátási formánként és szakmánként szerepelnek. A nyilvántartás tartalmazza
 
 a) annak a pályázónak, illetve egészségügyi szolgáltatónak a nevét, székhelyét és egészségügyi szolgáltató esetén egyedi azonosítóját, aki számára a többletkapacitás előzetesen befogadásra került,
 
@@ -68,20 +70,21 @@ g) az előzetesen befogadott kapacitás mennyiségét,
 
 h) az előzetesen befogadott kapacitás tekintetében a finanszírozási szerződés megkötésének várható időpontját.
 
-(8)[^67] Abban az esetben, ha a finanszírozási szerződés megkötésre kerül a Tv. 11. § (3) bekezdése szerinti nyilvántartásban szereplő kapacitás tárgyában, azt át kell tenni a Tv. 5/A. § (7) bekezdése szerinti nyilvántartásba.
+(8)[^68] Abban az esetben, ha a finanszírozási szerződés megkötésre kerül a Tv. 11. § (3) bekezdése szerinti nyilvántartásban szereplő kapacitás tárgyában, azt át kell tenni a Tv. 5/A. § (7) bekezdése szerinti nyilvántartásba.
 
-(9)[^68] Törölni kell a Tv. 11. § (3) bekezdése szerinti nyilvántartásból a kapacitást
+(9)[^69] Törölni kell a Tv. 11. § (3) bekezdése szerinti nyilvántartásból a kapacitást
 
 a) a (8) bekezdés szerinti esetben,
 
 b) a 12/C. § (4) és (6) bekezdése szerinti esetben.
 
-(10)[^69] Abban az esetben, ha az előzetes befogadást követően olyan jogszabályi változás következett be, amely érinti az előzetesen befogadott kapacitás tekintetében a (7) bekezdésben meghatározott adatokat, a változást – a pályázó szükség szerinti megkeresését követően – a Tv. 11. § (3) bekezdése szerinti nyilvántartásban át kell vezetni azzal, hogy a 12/C. § (7) bekezdés a), illetve b) pontjában foglaltakat megfelelően alkalmazni kell.
+(10)[^70] Abban az esetben, ha az előzetes befogadást követően olyan jogszabályi változás következett be, amely érinti az előzetesen befogadott kapacitás tekintetében a (7) bekezdésben meghatározott adatokat, a változást – a pályázó szükség szerinti megkeresését követően – a Tv. 11. § (3) bekezdése szerinti nyilvántartásban át kell vezetni azzal, hogy a 12/C. § (7) bekezdés a), illetve b) pontjában foglaltakat megfelelően alkalmazni kell.
 
 [^63]: Az 5/B. §-t megelőző alcímet a 325/2011. (XII. 28.) Korm. rendelet 65. §-a iktatta be.
 [^64]: Az 5/B. §-t a 325/2011. (XII. 28.) Korm. rendelet – a 107/2012. (VI. 1.) Korm. rendelet 14. §-a szerint módosított – 65. §-a iktatta be.
 [^65]: Az 5/B. § (5a) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 14. §-a iktatta be.
-[^66]: Az 5/B. § (7) bekezdését a 137/2012. (VII. 29.) Korm. rendelet 38. §-a iktatta be.
-[^67]: Az 5/B. § (8) bekezdését a 137/2012. (VII. 29.) Korm. rendelet 38. §-a iktatta be.
-[^68]: Az 5/B. § (9) bekezdését a 137/2012. (VII. 29.) Korm. rendelet 38. §-a iktatta be.
-[^69]: Az 5/B. § (10) bekezdését a 137/2012. (VII. 29.) Korm. rendelet 38. §-a iktatta be.
+[^66]: Az 5/B. § (6a) bekezdését a 164/2012. (VII. 19.) Korm. rendelet 2. §-a iktatta be.
+[^67]: Az 5/B. § (7) bekezdését a 137/2012. (VII. 29.) Korm. rendelet 38. §-a iktatta be.
+[^68]: Az 5/B. § (8) bekezdését a 137/2012. (VII. 29.) Korm. rendelet 38. §-a iktatta be.
+[^69]: Az 5/B. § (9) bekezdését a 137/2012. (VII. 29.) Korm. rendelet 38. §-a iktatta be.
+[^70]: Az 5/B. § (10) bekezdését a 137/2012. (VII. 29.) Korm. rendelet 38. §-a iktatta be.
