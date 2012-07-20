@@ -68,6 +68,6 @@
 
 ## * A nem kívánt rész törlendő.
 
-6. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^109]
+6. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^111]
 
-[^109]: A 6. számú mellékletet a 39/2008. (X. 18.) EüM rendelet 6. §-a iktatta be, szövege a 46/2008. (XII. 3.) EüM rendelet 6. § (5) bekezdése, a 28/2009. (VIII. 7.) EüM rendelet 3. § (2) bekezdés c) pontja és (3) bekezdése szerint módosított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c)–d) és j) pontja szerint módosított szöveg.
+[^111]: A 6. számú mellékletet a 39/2008. (X. 18.) EüM rendelet 6. §-a iktatta be, szövege a 46/2008. (XII. 3.) EüM rendelet 6. § (5) bekezdése, a 28/2009. (VIII. 7.) EüM rendelet 3. § (2) bekezdés c) pontja és (3) bekezdése szerint módosított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c)–d) és j) pontja szerint módosított szöveg.

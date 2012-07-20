@@ -4,6 +4,8 @@
 
 (2)[^67] Az orvos egy vényen, egyszeri kiváltásra legfeljebb 30 napra elegendő gyógyszermennyiséget rendelhet. Amennyiben a legkisebb eredeti csomagolás ezt meghaladja, a 30 napra elegendő mennyiséghez legközelebbi gyógyszermennyiséget tartalmazó legkisebb eredeti csomagolási egységnek megfelelő mennyiség rendelhető.
 
+(2a)[^68] A (2) bekezdéstől eltérően az orvos injekciós, depot injekciós készítményből a gyári csomagolástól, csomagolásoktól eltérő mennyiséget is rendelhet.
+
 (3) Krónikus betegség vagy állapot kezelése során
 
 a) amennyiben a gyógyszer tartós – előre láthatóan legalább 3 havi folyamatos – alkalmazása szükséges, és
@@ -14,7 +16,7 @@ c) a vény kiváltására nyitva álló időtartam alatt – előre láthatóan 
 
 az orvos a (2) bekezdéstől eltérően 30 napot meghaladó mennyiségű gyógyszert – legfeljebb 3 havi időtartamra, vényenként 1 havi mennyiségben – is rendelhet. A 30 napot meghaladó gyógyszerrendelés tényét és azt, hogy a rendelt gyógyszer mely időpontig (időtartamig) elegendő a beteg számára, a beteg nyilvántartásában rögzíteni kell.
 
-(3a)[^68] Az orvos a (3) bekezdés szerint felírt vényen feltünteti, hogy a rendelt gyógyszermennyiség mely időponttól váltható ki, és erről a beteget tájékoztatja.
+(3a)[^69] Az orvos a (3) bekezdés szerint felírt vényen feltünteti, hogy a rendelt gyógyszermennyiség mely időponttól váltható ki, és erről a beteget tájékoztatja.
 
 (4) Az orvos a (2)–(3) bekezdésben foglaltaktól eltérően – kivételesen, betegellátási érdekből – a gyógyszer alkalmazásának szükségességéig terjedő időtartamra, de legfeljebb egy évre elegendő gyógyszermennyiséget rendelhet egy vényen, amennyiben
 
@@ -24,14 +26,16 @@ b) a gyógyszer tartós alkalmazása szükséges, és
 
 c) a gyógyszer tartós alkalmazásától az adott beteg esetében az előzetes kezelési tapasztalat alapján megfelelő hatás várható.
 
-(5) Az orvos a (4) bekezdés szerinti gyógyszerrendelés indokát a beteg nyilvántartásában ellenőrizhető módon feltünteti és a vény hátoldalára rávezeti, hogy a rendelt gyógyszer mely időpontig, időtartamig elegendő.
+(5)[^70] Az orvos a (4) bekezdés szerinti gyógyszerrendelés indokát a beteg nyilvántartásában ellenőrizhető módon feltünteti és a vényre rávezeti, hogy a rendelt gyógyszer mely időtartamra elegendő.
 
-(5a)[^69] Vényíró szoftverrel írt vényen a gyógyszer kiválthatóságának időpontja nyomtatásban megjelenítésre kerül.
+(5a)[^71] Vényíró szoftverrel írt vényen a gyógyszer kiválthatóságának időpontja nyomtatásban megjelenítésre kerül.
 
 (6) Nem kell a 30 napot meghaladó mennyiség indokoltságát feltüntetni, ha az orvos a gyógyszerből egy eredeti, a 30 napra elegendő gyógyszermennyiséghez legközelebb álló mennyiségű gyógyszert tartalmazó csomagolást rendelt és az abban foglalt gyógyszermennyiség – az adagolás figyelembevételével – meghaladja a 30 napra elegendő mennyiséget.
 
 [^65]: A 10. § a 47/2005. (XI. 4.) EüM rendelet 19. § (3) bekezdésének c) pontja szerint módosított szöveg.
 [^66]: A 11. § a 9/2007. (II. 15.) EüM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2007. február 15. napját követően kiállított vények esetén kell alkalmazni.
 [^67]: A 11. § (2) bekezdése a 2/2012. (I. 3.) NEFMI rendelet 10. §-ával megállapított szöveg.
-[^68]: A 11. § (3a) bekezdését a 2/2012. (I. 3.) NEFMI rendelet 10. § (2) bekezdése iktatta be.
-[^69]: A 11. § (5a) bekezdését a 2/2012. (I. 3.) NEFMI rendelet 10. § (3) bekezdése iktatta be.
+[^68]: A 11. § (2a) bekezdését a 10/2012. (VII. 19.) EMMI rendelet 10. § (1) bekezdése iktatta be.
+[^69]: A 11. § (3a) bekezdését a 2/2012. (I. 3.) NEFMI rendelet 10. § (2) bekezdése iktatta be.
+[^70]: A 11. § (5) bekezdése a 10/2012. (VII. 19.) EMMI rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^71]: A 11. § (5a) bekezdését a 2/2012. (I. 3.) NEFMI rendelet 10. § (3) bekezdése iktatta be.
