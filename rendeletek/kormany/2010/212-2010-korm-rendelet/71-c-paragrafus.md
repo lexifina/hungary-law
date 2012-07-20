@@ -1,4 +1,4 @@
-## 71/C. §[^225] A miniszter a romák társadalmi integrációjáért való felelőssége körében
+## 71/C. §[^229] A miniszter a romák társadalmi integrációjáért való felelőssége körében
 
 a) a nemzeti felzárkózás politika koncepciójához illeszkedően kidolgozza a roma társadalmi integrációs kormányzati politika koncepcióját, különös tekintettel az európai roma-keretstratégiában meghatározott szakpolitikai beavatkozási területekre, továbbá kidolgozza az ehhez kapcsolódó stratégiát és döntési javaslatokat,
 
@@ -16,4 +16,4 @@ g) kiemelt figyelmet fordít a konfliktuskezelési feladatokra, együttműködik
 
 h) ellátja a Roma Integráció Évtizede Programhoz kapcsolódóan Magyarország nemzeti koordinátori feladatait, valamint részt vesz a Nemzetközi Irányító Bizottság munkájában.
 
-[^225]: A 71/C. §-t a 94/2012. (V. 11.) Korm. rendelet 4. §-a iktatta be.
+[^229]: A 71/C. §-t a 94/2012. (V. 11.) Korm. rendelet 4. §-a iktatta be.

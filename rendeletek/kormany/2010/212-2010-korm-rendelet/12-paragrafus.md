@@ -2,7 +2,7 @@
 
 ## A KÖZIGAZGATÁSI ÉS IGAZSÁGÜGYI MINISZTER SZAKPOLITIKAI FELADAT- ÉS HATÁSKÖRE
 
-## 12. §[^44] A közigazgatási és igazságügyi miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
+## 12. §[^48] A közigazgatási és igazságügyi miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
 
 a) igazságügyért,
 
@@ -18,7 +18,7 @@ f) választójogi és népszavazási szabályozásért,
 
 g) választások és népszavazások lebonyolításáért,
 
-h)–i)[^45]
+h)–i)[^49]
 
 j) társadalompolitika összehangolásáért,
 
@@ -34,13 +34,13 @@ o) kárpótlásért,
 
 p) személyiadat- és lakcímnyilvántartásért,
 
-q)[^46]
+q)[^50]
 
 r) kormányzati társadalmi kapcsolatok összehangolásáért,
 
-s)–t)[^47]
+s)–t)[^51]
 
-[^44]: A 12. § a 267/2010. (XII. 3.) Korm. rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^45]: A 12. § h)–i) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^46]: A 12. § q) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^47]: A 12. § s)–t) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^48]: A 12. § a 267/2010. (XII. 3.) Korm. rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^49]: A 12. § h)–i) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^50]: A 12. § q) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^51]: A 12. § s)–t) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
