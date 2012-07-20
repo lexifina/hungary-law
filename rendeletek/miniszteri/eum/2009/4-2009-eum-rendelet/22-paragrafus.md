@@ -1,6 +1,6 @@
-## 21/B. §[^27] Az egészségügyi szolgáltató vezetőjének a balesetfelelős nevét, beosztását, elérhetőségeit, az egészségügyi szolgáltató megnevezését, az adatokban bekövetkezett változásokat 30 napon belül írásban vagy elektronikusan a Hivatalnak be kell jelentenie.
+## 21/B. §[^32] Az egészségügyi szolgáltató vezetőjének a balesetfelelős nevét, beosztását, elérhetőségeit, az egészségügyi szolgáltató megnevezését, az adatokban bekövetkezett változásokat 30 napon belül írásban vagy elektronikusan a Hivatalnak be kell jelentenie.
 
-## Piacfelügyeleti hatósági ellenőrző eljárások[^28]
+## Piacfelügyeleti hatósági ellenőrző eljárások[^33]
 
 22. § (1) Ha a Hivatal megállapítja, hogy egy CE jelöléssel ellátott, helyesen felszerelt és karbantartott, rendeltetésszerűen használt eszköz veszélyeztetheti a beteg, a kezelő vagy más személy egészségét, illetve biztonságát, határozattal rendelkezik az eszköz
 
@@ -14,11 +14,11 @@ b) forgalomból történő kivonásáról, illetve a használatának megtiltás�
 
 (3) Amennyiben a Hivatal megállapítja, hogy egy eszközre előírt EK megfelelőség értékelési eljárást a gyártó vagy a kijelölt szervezet nem, vagy nem megfelelően folytatott le, az (1) bekezdés a), illetve b) pontjának megfelelő határozatot hoz.
 
-(4)[^29] Az (1)–(3) bekezdés szerinti esetben – az intézkedés indokolásával – a Hivatal egyidejűleg értesíti a Bizottságot és az EGT államokat.
+(4)[^34] Az (1)–(3) bekezdés szerinti esetben – az intézkedés indokolásával – a Hivatal egyidejűleg értesíti a Bizottságot és az EGT államokat.
 
-(5)[^30] A Hivatal az (1)–(3) bekezdés szerint lefolytatott eljárás alapján felfüggesztett vagy a forgalomból kivont eszközök megnevezését, azok gyártójának vagy meghatalmazott képviselőjének a nevét a Hivatal honlapján közzéteszi.
+(5)[^35] A Hivatal az (1)–(3) bekezdés szerint lefolytatott eljárás alapján felfüggesztett vagy a forgalomból kivont eszközök megnevezését, azok gyártójának vagy meghatalmazott képviselőjének a nevét a Hivatal honlapján közzéteszi.
 
-[^27]: A 21/B. §-t a 29/2011. (VI. 7.) NEFMI rendelet 18. §-a iktatta be.
-[^28]: A 22. §-t megelőző alcím a 29/2011. (VI. 7.) NEFMI rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^29]: A 22. § (4) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^30]: A 22. § (5) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^32]: A 21/B. §-t a 29/2011. (VI. 7.) NEFMI rendelet 18. §-a iktatta be.
+[^33]: A 22. §-t megelőző alcím a 29/2011. (VI. 7.) NEFMI rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^34]: A 22. § (4) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^35]: A 22. § (5) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 19. § (2) bekezdésével megállapított szöveg.

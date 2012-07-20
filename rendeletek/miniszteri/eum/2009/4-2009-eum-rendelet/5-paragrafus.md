@@ -1,6 +1,6 @@
 ## Alapvető rendelkezések
 
-5. § (1)[^12] Eszköz – a rendelésre készült, a klinikai vizsgálatra szánt kivételével – akkor hozható forgalomba, ha a (2) bekezdés előírásainak megfelelően CE jelöléssel van ellátva.
+5. § (1)[^16] Eszköz – a rendelésre készült, a klinikai vizsgálatra szánt kivételével – akkor hozható forgalomba, ha a (2) bekezdés előírásainak megfelelően CE jelöléssel van ellátva.
 
 (2) Eszköz CE jelöléssel abban az esetben látható el, ha
 
@@ -10,4 +10,4 @@ b) az a) pont szerinti követelmények igazolására lefolytatták a 13. § szer
 
 (3) A gyártónak vagy meghatalmazott képviselőjének már a forgalomba hozatal idején rendelkeznie kell a (2) bekezdés a) és b) pontjának való megfelelést igazoló, e jogszabályban meghatározott tartalmú dokumentumokkal, melyeket a Hivatal piacfelügyeleti eljárása során ellenőrizhet.
 
-[^12]: Az 5. § (1) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 31. § e) pontja szerint módosított szöveg.
+[^16]: Az 5. § (1) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 31. § e) pontja szerint módosított szöveg.

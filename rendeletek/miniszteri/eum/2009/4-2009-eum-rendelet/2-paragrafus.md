@@ -1,31 +1,23 @@
 ## Értelmező rendelkezések
 
-2. § (1) E rendelet alkalmazásában orvostechnikai eszköz (a továbbiakban: eszköz):
+2. §[^4] (1) E rendelet alkalmazásában orvostechnikai eszköz (a továbbiakban: eszköz) az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § h) pont ha)–hd) alpontjában meghatározott eszköz.
 
-a) minden olyan, akár önállóan, akár más termékkel együttesen használt készülék, berendezés, anyag, szoftver vagy más termék – ideértve az azok megfelelő működéséhez szükséges szoftvert, amely a gyártó szándéka szerint kifejezetten diagnosztikai, illetve terápiás célra szolgál, valamint a rendelésre készült eszközt, továbbá a klinikai vizsgálatra szánt eszközt is –, amely a gyártó meghatározása szerint emberen történő alkalmazásra szolgál
+(2) Orvostechnikai eszköznek kell tekinteni
 
-aa) betegség megelőzése, diagnosztizálása, megfigyelése, kezelése vagy a betegség tüneteinek enyhítése,
+a) az élettelen állati eredetű szövet vagy sejt felhasználásával készült eszközt;
 
-ab) sérülés vagy fogyatékosság diagnosztizálása, megfigyelése, kezelése, tüneteinek enyhítése vagy kompenzálása,
+b) a gyógyszernek minősülő készítmény beadására szolgáló eszközt;
 
-ac) az anatómiai felépítés vagy valamely fiziológiai folyamat vizsgálata, helyettesítése, illetve pótlása vagy módosítása,
+c) azt az eszközt, melynek szerves része olyan, önmagában alkalmazva gyógyszernek minősülő anyag, amely az eszközt kiegészítve hat az emberi testre;
 
-ad) fogamzásszabályozás
+d) azt az eszközt, melynek szerves része olyan humán vérből vagy humán plazmából származó, önmagában alkalmazva gyógyszer alkotóelemnek vagy gyógyszernek minősülő anyag, amely az eszközt kiegészítve hat az emberi testre (a továbbiakban: humán vérszármazék),
 
-## céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy szervezetre elsősorban nem farmakológiai, immunológiai vagy metabolikus módon fejti ki, de működése ilyen módon elősegíthető;
+## amennyiben annak rendeltetési célja megfelel az Eütv. 3. § h) pont ha)–hd) alpontjában foglaltaknak.
 
-b) az élettelen állati eredetű szövet vagy sejt felhasználásával készült eszköz;
+(3) A (2) bekezdés a) pontja szerinti, szarvasmarha, juh és kecske fajokból, valamint szarvasból, jávorszarvasból, nercből és macskafélékből származó szövetek felhasználásával készült eszközök esetében az egyes állati eredetű szövetek felhasználásával gyártott orvostechnikai eszközökről szóló 52/2004. (VI. 2.) ESZCSM rendeletben meghatározott követelményeket is alkalmazni kell.
 
-c) a gyógyszernek minősülő készítmény beadására szolgáló eszköz;
-
-d) az az eszköz, melynek szerves része olyan, önmagában alkalmazva gyógyszernek minősülő anyag, amely az eszközt kiegészítve hat az emberi testre;
-
-e) az az eszköz, melynek szerves része olyan humán vérből vagy humán plazmából származó, önmagában alkalmazva gyógyszer alkotóelemnek vagy gyógyszernek minősülő anyag, amely az eszközt kiegészítve hat az emberi testre (a továbbiakban: humán vérszármazék).
-
-(2) Az (1) bekezdés b)–e) pontjában meghatározott eszközök akkor minősülnek orvostechnikai eszköznek, ha megfelelnek az (1) bekezdés aa)–ad) alpontjaiban foglaltaknak.
-
-(3) Az (1) bekezdés b) pontja szerinti, szarvasmarha, juh és kecske fajokból, valamint szarvasból, jávorszarvasból, nercből és macskafélékből származó szövetek felhasználásával készült eszközök esetében az egyes állati eredetű szövetek felhasználásával gyártott orvostechnikai eszközökről szóló 52/2004. (VI. 2.) ESZCSM rendeletben meghatározott követelményeket is alkalmazni kell.
-
-(4) Az (1) bekezdés c) pontja szerinti eszközök esetében e rendelet mellett az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény rendelkezéseit kell alkalmazni a gyógyszerek vonatkozásában.
+(4) A (2) bekezdés c)–d) pontja szerinti eszközök esetében e rendelet mellett a Gytv. rendelkezéseit kell alkalmazni a gyógyszerek vonatkozásában.
 
 (5) Egy adott termék eszköznek minősülése kérdésében – kétség esetén – az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: Hivatal) határozatban dönt.
+
+[^4]: A 2. § a 10/2012. (VII. 19.) EMMI rendelet 25. §-ával megállapított szöveg.

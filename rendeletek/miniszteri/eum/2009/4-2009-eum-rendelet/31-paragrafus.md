@@ -1,4 +1,4 @@
-31. §[^40] (1) Ez a rendelet
+31. §[^45] (1) Ez a rendelet
 
 a) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 1990. június 20-i 90/385/EGK tanácsi irányelvnek,
 
@@ -26,4 +26,4 @@ b) az orvostechnikai eszközök európai adatbankjáról (EUDAMED) szóló 2010.
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^40]: A 31. §-t a 29/2011. (VI. 7.) NEFMI rendelet 22. §-a iktatta be.
+[^45]: A 31. §-t a 29/2011. (VI. 7.) NEFMI rendelet 22. §-a iktatta be.
