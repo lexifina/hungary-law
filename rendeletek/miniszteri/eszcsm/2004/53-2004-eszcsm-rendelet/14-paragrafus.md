@@ -1,6 +1,6 @@
-## 13. §[^37]
+## 13. §[^42]
 
-14. § (1)[^38] Amennyiben a párhuzamos importtal behozni kívánt gyógyszert vagy gyógyszeranyagot a párhuzamos importőrnek át kell csomagol(tat)nia annak érdekében, hogy a gyógyszer kiszerelése, címkeszövege és betegtájékoztatója a Magyarországon hatályos forgalomba hozatali engedélynek megfeleljen, akkor
+14. § (1)[^43] Amennyiben a párhuzamos importtal behozni kívánt gyógyszert vagy gyógyszeranyagot a párhuzamos importőrnek át kell csomagol(tat)nia annak érdekében, hogy a gyógyszer kiszerelése, címkeszövege és betegtájékoztatója a Magyarországon hatályos forgalomba hozatali engedélynek megfeleljen, akkor
 
 a) ha az átcsomagolást maga végzi, a külön jogszabályban meghatározott gyógyszergyártási engedéllyel kell rendelkeznie;
 
@@ -10,5 +10,5 @@ c) ha az átcsomagolás EGT tagállamban történik, akkor az átcsomagolótól 
 
 (2) Átcsomagolás Magyarországon kívül csak az EGT tagállamában végezhető.
 
-[^37]: A 13. §-t a 41/2011. (VII. 5.) NEFMI rendelet 17. § (2) bekezdés c) pontja hatályon kívül helyezte.
-[^38]: A 14. § (1) bekezdés nyitó szövegrésze a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^42]: A 13. §-t a 41/2011. (VII. 5.) NEFMI rendelet 17. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^43]: A 14. § (1) bekezdés nyitó szövegrésze a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés e) pontja szerint módosított szöveg.

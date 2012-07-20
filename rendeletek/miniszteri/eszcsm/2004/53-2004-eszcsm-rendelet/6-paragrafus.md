@@ -1,4 +1,4 @@
-6. §[^28] (1) A nagykereskedő a tevékenységét legfeljebb egy évig szüneteltetheti. a nagykereskedő a szünetelés tényéről – a szüneteltetés időtartamának megjelölésével – annak megkezdését megelőzően legalább 30 nappal köteles értesíteni a GYEMSZI-t.
+6. §[^30] (1) A nagykereskedő a tevékenységét legfeljebb egy évig szüneteltetheti. a nagykereskedő a szünetelés tényéről – a szüneteltetés időtartamának megjelölésével – annak megkezdését megelőzően legalább 30 nappal köteles értesíteni a GYEMSZI-t.
 
 (2) A nagykereskedő haladéktalanul köteles bejelenteni a GYEMSZI-nek, ha az 5. § (1) bekezdés e) pontjában, f) pont ff) alpontjában és i) pontjában felsoroltakban, valamint ha a nagykereskedő nevében vagy székhelyének címében változás történik.
 
@@ -10,7 +10,7 @@ b) meglévő telephelyen új raktár építése,
 
 c) meglévő alapterület bővítése,
 
-d) a beérkezett gyógyszerek minőségértékelését és felszabadítását végző minőségbiztosítás érdekében meghatalmazott személy változása,
+d)[^31] a beérkezett gyógyszerek minőségértékelését és felszabadítását végző felelős személy változása,
 
 e) a forgalmazni kívánt gyógyszercsoport vagy gyógyszercsoportok változása
 
@@ -20,4 +20,5 @@ e) a forgalmazni kívánt gyógyszercsoport vagy gyógyszercsoportok változása
 
 (5) A GYEMSZI a kiadott, a módosított, továbbá a visszavont tevékenységi engedélyekről, valamint a nagykereskedelmi tevékenység (1) bekezdés szerinti szüneteltetéséről nyilvántartást vezet, amelynek személyes adatot nem tartalmazó részét a honlapján közzéteszi.
 
-[^28]: A 6. § a 41/2011. (VII. 5.) NEFMI rendelet 8. §-ával megállapított szöveg.
+[^30]: A 6. § a 41/2011. (VII. 5.) NEFMI rendelet 8. §-ával megállapított szöveg.
+[^31]: A 6. § (3) bekezdés d) pontja a 10/2012. (VII. 19.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.

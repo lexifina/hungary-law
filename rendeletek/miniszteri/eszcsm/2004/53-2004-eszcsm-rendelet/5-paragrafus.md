@@ -6,9 +6,9 @@ a) a forgalmazni kívánt gyógyszercsoport vagy gyógyszercsoportok 1. számú 
 
 b) a telephely vagy telephelyek címét, pontosan megnevezve a létesítményeket, ahol a kérelmező a nagykereskedelmi tevékenységet folytatni kívánja;
 
-c) a beérkezett gyógyszerek minőségértékelését és felszabadítását végző minőségbiztosítás érdekében meghatalmazott személy – több telephely esetén személyek – nevét;
+c)[^25] a beérkezett gyógyszerek minőségértékelését és felszabadítását végző felelős személy – több telephely esetén személyek – nevét;
 
-d) a beérkezett gyógyszerek minőségértékelését és felszabadítását végző minőségbiztosítás érdekében meghatalmazott személy szakképesítését igazoló oklevél másolatát, munkaköri leírását, szakmai gyakorlatának igazolását;
+d)[^26] a beérkezett gyógyszerek minőségértékelését és felszabadítását végző felelős személy szakképesítését igazoló oklevél másolatát, munkaköri leírását, szakmai gyakorlatának igazolását;
 
 e) a kapcsolattartó személy nevét és elérhetőségét;
 
@@ -34,14 +34,16 @@ i) a kivonás végrehajtásához használt elektronikus levélcímet;
 
 j) a nagykereskedelmi tevékenységre vonatkozó felelősségbiztosítási szerződés másolatát.
 
-(2)[^25]
+(2)[^27]
 
-(3)[^26] A GYEMSZI a határozat meghozatala előtt helyszíni szemlét tart, amely során megvizsgálja, hogy a kérelmező rendelkezik-e a nagykereskedelmi tevékenység gyakorlásához szükséges személyi és tárgyi feltételekkel, valamint megfelelő dokumentációs és minőségbiztosítási rendszerrel.
+(3)[^28] A GYEMSZI a határozat meghozatala előtt helyszíni szemlét tart, amely során megvizsgálja, hogy a kérelmező rendelkezik-e a nagykereskedelmi tevékenység gyakorlásához szükséges személyi és tárgyi feltételekkel, valamint megfelelő dokumentációs és minőségbiztosítási rendszerrel.
 
-(4)[^27]
+(4)[^29]
 
 [^23]: A 4. § a 41/2011. (VII. 5.) NEFMI rendelet 6. §-ával megállapított szöveg.
 [^24]: Az 5. § (1) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 7. §-ával megállapított szöveg.
-[^25]: Az 5. § (2) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 17. § (2) bekezdés b) pontja hatályon kívül helyezte.
-[^26]: Az 5. § (3) bekezdését a 10/2009. (IV. 10.) EüM rendelet 11. § (7) bekezdése hatályon kívül helyezte, újonnan a 38/2009. (XI. 6.) EüM rendelet 5. § (1) bekezdése iktatta be, szövege a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^27]: Az 5. § (4) bekezdését a 10/2009. (IV. 10.) EüM rendelet 11. § (7) bekezdése hatályon kívül helyezte.
+[^25]: Az 5. § (1) bekezdés c) pontja a 10/2012. (VII. 19.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
+[^26]: Az 5. § (1) bekezdés d) pontja a 10/2012. (VII. 19.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
+[^27]: Az 5. § (2) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 17. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^28]: Az 5. § (3) bekezdését a 10/2009. (IV. 10.) EüM rendelet 11. § (7) bekezdése hatályon kívül helyezte, újonnan a 38/2009. (XI. 6.) EüM rendelet 5. § (1) bekezdése iktatta be, szövege a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^29]: Az 5. § (4) bekezdését a 10/2009. (IV. 10.) EüM rendelet 11. § (7) bekezdése hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-9. § (1)[^31] A nagykereskedő gondoskodik
+9. § (1)[^36] A nagykereskedő gondoskodik
 
 a) az általa forgalmazott gyógyszerek és gyógyszeranyagok
 
@@ -22,9 +22,9 @@ h) a selejt megsemmisítéséről és annak nyilvántartásáról;
 
 i) raktári ügyrend elkészítéséről.
 
-(2)[^32] Az (1) bekezdés e) pontjában meghatározott gyógyszerkészítmény és gyógyszeranyag forgalmazásához a GYEMSZI külön engedélye szükséges.
+(2)[^37] Az (1) bekezdés e) pontjában meghatározott gyógyszerkészítmény és gyógyszeranyag forgalmazásához a GYEMSZI külön engedélye szükséges.
 
-(3)[^33] A nagykereskedő a raktárból kiszállított termékről felszabadítási, illetve minőségi bizonylatot köteles biztosítani a megrendelő részére. Szállításkor mellékelni kell egy olyan dokumentumot is, amely tartalmazza a kiszállítás időpontját, a gyógyszer nevét és gyógyszerformáját, a kiszállított mennyiséget, továbbá a nagykereskedő nevét és címét. A kiszállított gyógyszer gyűjtőcsomagolását oly módon kell ellátni a nagykereskedő cégjelzésével, hogy a gyógyszer származási helye azonosítható maradjon.
+(3)[^38] A nagykereskedő a raktárból kiszállított termékről felszabadítási, illetve minőségi bizonylatot köteles biztosítani a megrendelő részére. Szállításkor mellékelni kell egy olyan dokumentumot is, amely tartalmazza a kiszállítás időpontját, a gyógyszer nevét és gyógyszerformáját, a kiszállított mennyiséget, továbbá a nagykereskedő nevét és címét. A kiszállított gyógyszer gyűjtőcsomagolását oly módon kell ellátni a nagykereskedő cégjelzésével, hogy a gyógyszer származási helye azonosítható maradjon.
 
 (4) A nagykereskedő felelős az általa forgalmazott termék minőségének megőrzéséért a nagykereskedelmi tevékenysége során.
 
@@ -32,6 +32,6 @@ i) raktári ügyrend elkészítéséről.
 
 (6) A nagykereskedő 2. § (1) bekezdésében meghatározott adatszolgáltatási kötelezettségére vonatkozó szabályokat a statisztikáról szóló törvény, valamint az annak végrehajtásáról rendelkező jogszabályok tartalmazzák.
 
-[^31]: A 9. § (1) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 11. §-ával megállapított szöveg.
-[^32]: A 9. § (2) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^33]: A 9. § (3) bekezdése a 42/2005. (IX. 27.) EüM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^36]: A 9. § (1) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 11. §-ával megállapított szöveg.
+[^37]: A 9. § (2) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^38]: A 9. § (3) bekezdése a 42/2005. (IX. 27.) EüM rendelet 4. § (2) bekezdésével megállapított szöveg.
