@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Nemzetközi Mezőgazdasági Kutatóközpontok Konzorciumának nemzetközi szervezetként történő létrehozásáról 2011. szeptember 13-án aláírt Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
