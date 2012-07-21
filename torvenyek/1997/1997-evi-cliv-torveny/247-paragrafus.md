@@ -233,29 +233,3 @@ ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ide�
 ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek bejelentéséért, nyilvántartásba vételéért, a különleges táplálkozási célú élelmiszer csomagolására előírt kötelezettség alóli felmentés engedélyezésére irányuló eljárásáért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezésére irányuló eljárásáért, az új élelmiszerek elsődleges értékeléséhez szükséges szakvélemények elkészítéséért, az élelmiszerek alkalmi árusításának engedélyezésére irányuló eljárásáért, valamint a vendéglátótermékek végső fogyasztó részére történő kiszállítására irányuló tevékenység engedélyezésére irányuló eljárásáért, igazgatási jellegű szolgáltatásáért,
 
 cj)
-
-ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért,
-
-fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket,
-
-d) a miniszter, hogy az oktatásért felelős miniszterrel és a sportpolitikáért felelős miniszterrel egyetértésben a közoktatási intézményekben történő teljeskörű egészségfejlesztésre vonatkozó részletes szabályokat
-
-rendeletben állapítsa meg.
-
-(6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
-
-a) – szabályozási tárgykörben – az Európai Parlament és a Tanács 2005/36/EK irányelve (2005. szeptember 7.) a szakmai képesítések elismeréséről, 21–45. cikk, 56. cikk (2) bekezdése;
-
-b) a Tanács 93/42/EGK irányelve (1993. június 14.) az orvostechnikai eszközökről;
-
-c) az Európai Parlament és a Tanács 2007/47/EK irányelve (2007. szeptember 5.) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról;
-
-d) az Európai Parlament és a Tanács 2004/23/EK irányelve (2004. március 31.) az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára, feldolgozására, megőrzésére, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról;
-
-e) az Európai Parlament és a Tanács 2010/53/EU irányelve (2010. július 7.) az átültetésre szánt emberi szervekre vonatkozó minőségi és biztonsági előírások megállapításáról;
-
-f) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv. 107m. cikk (3) és (4) bekezdések, 107n. cikk (2) bekezdés;
-
-g)–i)
-
-j) a Tanács 1996. május 13-i 96/29/EURATOM irányelve a munkavállalók és a lakosság egészségének az ionizáló sugárzásból származó veszélyekkel szembeni védelmét szolgáló alapvető biztonsági előírások megállapításáról,
