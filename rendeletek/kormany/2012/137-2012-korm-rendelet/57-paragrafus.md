@@ -1,3 +1,11 @@
-57. §[^63]
+## „(3) A GYEMSZI a módosítás engedélyezésére irányuló eljárása során az ETT TUKEB szakhatósági állásfoglalását kéri a 18. § (6) bekezdés a)–c) pontjában foglaltak megvizsgálása érdekében.
 
-[^63]: Az 55–59. § a 98. § (5) bekezdése alapján 2012. július 21-én lép hatályba.
+## (4) Az (1) bekezdés b) pont bb) alpontja szerinti bejelentés keretében az alábbi dokumentumokat kell megküldeni:
+
+## a) a PRAC által kiadott, a módosítás jóváhagyásáról szóló dokumentumot,
+
+## b) a PRAC által jóváhagyott módosított vizsgálati tervet, megjelölve annak megváltoztatott részeit,
+
+## c) az ETT-TUKEB etikai engedélyének másolatát,
+
+## d) a vizsgálat lefolytatása során alkalmazott megváltoztatott valamennyi dokumentum eredeti és magyar nyelvű változatát.”
