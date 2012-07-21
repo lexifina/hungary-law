@@ -1,1 +1,0 @@
-## „c) felelős személy (Responsible Person): a gyógyszer-nagykereskedelmi engedély jogosultja által foglalkoztatott olyan személy, aki a gyógyszerek nagykereskedelmi felszabadításáért, valamint – működési területén – a gyógyszerészi minőségbiztosításért felelős.”
