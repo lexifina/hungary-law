@@ -16,6 +16,4 @@
 
 (8) Az 1., 3. és 5. § 2013. május 1-jén lép hatályba.
 
-(8) Az 1., 3. és 5. § 2013. május 1-jén lép hatályba.
-
 (9) A 21. § 2014. január 1-jén lép hatályba.
