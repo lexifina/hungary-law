@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2012-06-20 | 2012. évi LXIX. törvény | 1995-117-00-00.101 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 1995-117-00-00.102 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 1995-117-00-00.103 |
+| 2012-07-21 | 2012. évi CIII. törvény | 1995-117-00-00.104 |
