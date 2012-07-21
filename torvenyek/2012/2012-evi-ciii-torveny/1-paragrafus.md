@@ -1,0 +1,1 @@
+1. § Az Erzsébet-program célja, hogy a meglévő keretek között jelentősen csökkentse azon gyermekek számát, akik részére nem biztosított a napi többszöri étkezés, az életkoruknak megfelelő egészséges táplálék, a tudás megszerzéséhez szükséges egészségi állapot, a regenerációhoz szükséges aktív kikapcsolódás lehetősége.

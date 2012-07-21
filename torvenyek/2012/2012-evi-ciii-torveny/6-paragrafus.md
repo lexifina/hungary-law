@@ -1,0 +1,1 @@
+6. § Az MNÜA Erzsébet-programmal kapcsolatos feladatai végrehajtásához közreműködőként általa alapított és százszázalékos tulajdonában álló gazdasági társaságot vehet igénybe. Az MNÜA feladatainak ellátásához együttműködhet más nonprofit szervezettel.
