@@ -1,5 +1,7 @@
 20. § (1) A gyógyszerek gyártásával, forgalomba hozatalával, forgalmazásával, farmakovigilanciájával és a gyógyszerellátási felelősséggel, valamint a vizsgálati készítmények klinikai vizsgálatával, továbbá a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratórium tevékenységével kapcsolatos, valamint az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott kötelezettségek betartásának hatósági ellenőrzése a gyógyszerészeti államigazgatási szerv feladata. A gyógyszertárak és egyéb egészségügyi szolgáltatók esetén az ellenőrzést az egészségügyi államigazgatási szerv is végzi. A gyógyszerek ismertetésére, valamint a gyógyszerrel kapcsolatos, fogyasztókkal szembeni egyes kereskedelmi gyakorlatokra vonatkozó előírások ellenőrzésére, és az ezek megsértése esetén irányadó eljárásra vonatkozó szabályokat a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló törvény állapítja meg.
 
+(1a) A gyógyszerészeti államigazgatási szerv a Magyarországon vagy harmadik országok területén végzett ellenőrzések során együttműködik az Európai Gyógyszerügynökséggel, amelynek keretében az Európai Gyógyszerügynökséggel megosztja a tervezett és lefolytatott vizsgálatokkal kapcsolatos információkat.
+
 (2) A gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
 
 (3) Amennyiben a gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapítja, hogy az arra kötelezett természetes személy, jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság tevékenysége folytatása során az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott feltételeinek nem tesz eleget, illetve kötelezettségét megszegi,
@@ -18,7 +20,7 @@ e) ismételt, vagy súlyos közegészségügyi veszélyt rejtő jogsértés eset
 
 (5) A gyógyszerellátással kapcsolatos e törvény szerinti kötelezettség megszegése esetén a bírság összegét a betegek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására vagy az eset más a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni azzal, hogy a bírság legalacsonyabb összege százezer forint.
 
-(6)
+(6) A 18. § (2) bekezdésének végrehajtásával kapcsolatban az egészségügyi dolgozók további kötelezettségeit jogszabály tartalmazza.
 
 (7) A bírságot az azt kiszabó gyógyszerészeti államigazgatási szerv vagy egészségügyi államigazgatási szerv számlájára kell befizetni.
 

@@ -1,35 +1,41 @@
-18. § (1) A forgalomba hozatali engedély jogosultja, valamint a gyógyszert alkalmazó orvos, illetve a kiszolgáltatást végző gyógyszerész köteles az általa észlelt vagy tudomására jutott mellékhatásokat haladéktalanul a gyógyszerészeti államigazgatási szervnek bejelenteni, ha az
+## Farmakovigilancia
 
-a) a gyógyszer alkalmazási előírásában nem szerepel,
+18. § (1) A forgalomba hozatali engedély jogosultja a jogszabályban foglaltak szerint nyilvántartja és bejelenti az EGT-államokban vagy harmadik országban bekövetkező valamennyi, a betegek vagy egészségügyi dolgozók által bejelentett vagy engedélyezés utáni vizsgálatok során észlelt feltételezett mellékhatást.
 
-b) súlyos és nemkívánatos, illetve
+(2) Az egészségügyi dolgozó köteles az általa észlelt vagy tudomására jutott feltételezett mellékhatást haladéktalanul a gyógyszerészeti államigazgatási szervnek jelenteni. A gyógyszerészeti államigazgatási szerv a jogszabályban meghatározott módon nyilvántartásba veszi és továbbítja az egészségügyi dolgozók és a betegek által a tudomására hozott, Magyarországon bekövetkezett összes feltételezett mellékhatást.
 
-c) a gyógyszer további alkalmazását megakadályozza.
+(3) Ha egy gyógyszer helytelen alkalmazásából eredő feltételezett mellékhatásról valamely hatóság értesülést szerez, haladéktalanul tájékoztatnia kell a gyógyszerészeti államigazgatási szervet.
 
-(2) A gyógyszerészeti államigazgatási szerv a bejelentéseket elbírálja, értékeli, és megteszi a (3) és (4) bekezdés szerinti szükséges intézkedéseket. A bejelentésről, a bejelentés eredményéről, illetve a szükséges intézkedésekről a gyógyszerészeti államigazgatási szerv a bejelentőt, a forgalomba hozatali engedély jogosultját, valamint az egészségügyi szolgáltatókat hirdetmény útján értesíti, valamint az intézkedéseiről szóló döntését nyilvánosan közzéteszi. A döntést a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben is közzé kell tenni.
+(4) A gyógyszerészeti államigazgatási szerv a tudomására jutott farmakovigilanciával kapcsolatos adatokat értékeli, és amennyiben sürgős intézkedést tart szükségesnek, értesíti az európai uniós tagállamokat és az Európai Gyógyszerügynökséget. Amennyiben az Európai Gyógyszerügynökség nem folytat le sürgős uniós eljárást, a gyógyszerészeti államigazgatási szerv megteszi a (7) és (8) bekezdés szerinti szükséges intézkedéseket. Az intézkedésekről, és az azok alapját képező adatokról a gyógyszerészeti államigazgatási szerv a bejelentőt, a forgalomba hozatali engedély jogosultját, valamint hirdetmény útján az egészségügyi szolgáltatókat is értesíti, és az intézkedéseiről szóló döntését honlapján is nyilvánosan közzéteszi.
 
-(3) A gyógyszerészeti államigazgatási szerv a gyógyszer forgalomba hozatalát a forgalmazás feltételeinek az előírt határidőben történő teljesítéséig felfüggeszti, ha az (1) bekezdés szerinti bejelentések alapján úgy ítéli meg, hogy a gyógyszer
+(5) A gyógyszerészeti államigazgatási szerv a gyógyszer forgalmazását felfüggesztheti, és megtilthatja a gyógyszer alkalmazását, ha
 
-a) rendeltetésszerű használat esetén károsnak bizonyul, vagy
+a) a tudomására jutott adatok arra utalnak, hogy a gyógyszer az egészségre káros,
 
-b) terápiás hatása nincs, vagy
+b) a tudomására jutott adatok arra utalnak, hogy a gyógyszerrel nem érhető el terápiás eredmény,
 
-c) előny/kockázat aránya a rendeltetésszerű használat során kedvezőtlen, illetve
+c) a tudomására jutott adatok arra utalnak, hogy a gyógyszerrel kapcsolatban felmerült kockázatok és a gyógyszertől várható előnyök aránya oly módon változott meg, hogy kétségessé vált a biztonságos alkalmazhatóság,
 
-d) mennyiségi és minőségi összetétele nem felel meg a forgalomba hozatali engedélyben meghatározott követelményeknek,
+d) a gyógyszer mennyiségi és minőségi összetétele nem felel meg a forgalomba hozatali engedélyben meghatározott követelményeknek,
 
-e) összetevőinek ellenőrzését, továbbá a gyártási folyamat közbenső fázisában szükséges ellenőrzést nem végezték el, vagy ha nem felel meg az egyéb, a gyártási engedély kiállításával kapcsolatos követelményeknek vagy kötelezettségeknek.
+e) a gyógyszer összetevőinek ellenőrzését, továbbá a gyártási folyamat közbenső fázisában szükséges ellenőrzést nem végezték el, vagy ha a gyógyszer nem felel meg az egyéb, a gyártási engedély kiállításával kapcsolatos követelményeknek vagy kötelezettségeknek,
 
-(4) A gyógyszerészeti államigazgatási szerv a forgalomba hozatali engedélyt visszavonja, ha
+f) a forgalomba hozatali engedély vagy annak megújítása iránti kérelem alátámasztására benyújtott adatok pontatlanok, vagy nem módosították azokat,
 
-a) az (1)–(2) bekezdés szerinti bejelentések alapján úgy ítéli meg, hogy a (3) bekezdés a)–d) pontjaiban foglaltak megfelelő határidő tűzésével sem orvosolhatóak,
+g) a forgalomba hozatali engedély jogosultja a forgalomba hozatali engedély módosítását határidőben nem kérelmezi, vagy
 
-b) a (3) bekezdés szerinti határozatban kitűzött határidőre a hiányosságokat a forgalomba hozatali engedély jogosultja nem szüntette meg.
+h) az Európai Bizottságtól érkező kérés teljesítése érdekében az szükséges.
 
-(5) A terápiás hatás akkor hiányzik, ha megállapítják, hogy a gyógyszerrel nem érhető el a forgalomba hozatali engedély kiadásának alapjául szolgáló, a hatásosságra vonatkozó terápiás eredmény.
+(6) A gyógyszerészeti államigazgatási szerv a forgalomba hozatali engedélyt visszavonja, ha
 
-(6) A gyógyszer forgalmazását akkor is fel kell függeszteni, illetve az engedélyt vissza kell vonni, ha a forgalomba hozatali engedély megújítása iránti kérelem alátámasztására benyújtott adatok pontatlanok, vagy nem módosították őket, illetve ha nem végezték el a gyártási folyamatra előírt ellenőrzést.
+a) úgy ítéli meg, hogy az (5) bekezdés a)–d) pontjában foglaltak megfelelő határidő tűzésével sem orvosolhatóak, vagy
 
-(7) Ha egy a gyógyszerészeti államigazgatási szerv által már forgalomba hozatalra engedélyezett gyógyszer három egymást követő éven keresztül nincs ténylegesen forgalomban a hazai gyógyszerpiacon, a gyógyszerészeti államigazgatási szerv a gyógyszer forgalomba hozatali engedélyét visszavonhatja.
+b) az (5) bekezdés szerinti határozatban kitűzött határidőre a hiányosságokat a forgalomba hozatali engedély jogosultja nem szüntette meg,
 
-(8) Különös méltánylást érdemlő betegellátási érdekből vagy közegészségügyi okból a gyógyszerészeti államigazgatási szerv a (6) és (7) bekezdés rendelkezéseitől eltekinthet.
+c) a forgalomba hozatali engedély jogosultja nem teljesítette a forgalomba hozatali engedélyben előírt külön feltételeket.
+
+(7) Amennyiben az (5) vagy (6) bekezdés alkalmazása farmakovigilanciával kapcsolatos tevékenységekből származó adatok alapján indokolt, az intézkedés foganatosítására akkor kerülhet sor, ha a gyógyszerészeti államigazgatási szerv a tervezett intézkedésről és annak okairól előzetesen tájékoztatja az Európai Bizottságot, az Európai Gyógyszerügynökséget és a többi EGT-megállapodásban részes államot, és ezt követően az Ügynökség arról ad tájékoztatást, hogy a bejelentés alapján nem kezdeményez sürgős uniós eljárást. Amennyiben azonban közegészségügyi okból indokolt ideiglenes intézkedésként szükséges alkalmazni az (5) bekezdést, akkor az e bekezdésben említett tájékoztatást a gyógyszerészeti államigazgatási szerv az intézkedés foganatosítását követő munkanapon is megteheti. E bekezdést nem kell alkalmazni, ha az intézkedésre az (5) bekezdés h) pontja vagy a (8) bekezdés alapján került sor.
+
+(8) A gyógyszerészeti államigazgatási szerv az Európai Gyógyszerügynökség koordinációs csoportjában elfogadott egyhangú állásfoglalás vagy az Európai Bizottság határozata alapján is felfüggesztheti, visszavonhatja a forgalomba hozatali engedélyt, továbbá elutasíthatja annak megújítását, vagy felszólíthatja a forgalomba hozatali engedély jogosultját a forgalomba hozatali engedély megfelelő módosításának kérelmezésére.
+
+(9) Amennyiben az e § alapján nem forgalmazható gyógyszer más gyógyszerrel nem helyettesíthető, a gyógyszerészeti államigazgatási szerv átmeneti ideig engedélyezheti, hogy az a már kezelt betegek számára továbbra is kiszolgáltatható legyen.

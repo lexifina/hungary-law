@@ -10,6 +10,20 @@ b) terápiás hatásossága – az egyszerűsített eljárással törzskönyvezh
 
 c) előny/kockázat aránya kedvező.
 
+(2a) Amennyiben a gyógyszer biztonságosságával kapcsolatos kockázatok azt indokolják, a gyógyszer forgalomba hozatalát a gyógyszerészeti államigazgatási szerv, az alábbiakban felsorolt egy vagy több feltételhez kötve, határidők előírása mellet engedélyezheti:
+
+a) a kockázatkezelési rendszerben szereplő meghatározott intézkedések meghozatala a gyógyszer biztonságos alkalmazása érdekében;
+
+b) engedélyezés utáni gyógyszerbiztonsági vizsgálat lefolytatása;
+
+c) a feltételezett mellékhatásoknak a külön jogszabályban meghatározottaknál szigorúbb nyilvántartása vagy bejelentése;
+
+d) a gyógyszer biztonságos és hatásos használatára vonatkozó minden egyéb feltétel vagy korlátozás;
+
+e) megfelelő farmakovigilancia-rendszer létezése;
+
+f) az Európai Gyógyszerügynökség által elkészített tudományos iránymutatásokat figyelembe vevő engedélyezés utáni hatásossági vizsgálat lefolytatása abban az esetben, ha a gyógyszer hatásosságának bizonyos szempontjai tekintetében aggályok merültek fel, amelyeket csak a gyógyszer forgalomba hozatalát követően lehet megoldani.
+
 (3) A forgalomba hozatali engedély kiadása iránti eljárás során a gyógyszerészeti államigazgatási szerv az EGT-megállapodásban részes államon kívül végzett vizsgálatok eredményét abban az esetben fogadja el, ha
 
 a) azt jogszabály, nemzetközi egyezmény előírja, vagy
@@ -34,7 +48,7 @@ f) lejárati idejét és tárolásának körülményeit.
 
 (6) A forgalomba hozatali eljárás ügyintézési határideje a kérelem beérkezését követő naptól számított legfeljebb kettőszáztíz nap. Forgalomba hozatali engedély csak EGT-megállapodásban részes államban letelepedett kérelmezőnek adható. A forgalomba hozatali engedély jogosultja felelős a gyógyszer forgalomba hozataláért. A képviselő kijelölése nem mentesíti a forgalomba hozatali engedély jogosultját a termékért viselt egyéb jogi felelősség alól.
 
-(7) Az (1)–(6) bekezdés szerint kiadott forgalomba hozatali engedély öt évig hatályos. Az engedély – a hatályosság lejártát megelőzően legalább hat hónappal benyújtott kérelemre, az előny/kockázat arány újraértékelése alapján – megújítható. A megújítást követően a gyógyszer forgalomba hozatali engedélye korlátlan ideig hatályos, kivéve, ha a gyógyszerészeti államigazgatási szerv úgy dönt, hogy a külön jogszabály szerinti mellékhatás bejelentési kötelezettség alapján beérkezett adatok alapján csak öt évre újítja meg.
+(7) Az (1)–(6) bekezdés szerint kiadott forgalomba hozatali engedély öt évig hatályos. Az engedély – a hatályosság lejártát megelőzően legalább kilenc hónappal benyújtott kérelemre, az előny/kockázat arány újraértékelése alapján – megújítható. A megújítást követően a gyógyszer forgalomba hozatali engedélye korlátlan ideig hatályos, kivéve, ha a gyógyszerészeti államigazgatási szerv úgy dönt, hogy az e bekezdés alapján benyújtott farmakovigilanciával kapcsolatos adatok alapján vagy az adott gyógyszerrel történő betegexpozíció elégtelensége miatt öt évre újítja meg.
 
 (8)
 

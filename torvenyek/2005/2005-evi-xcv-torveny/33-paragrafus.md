@@ -14,6 +14,8 @@ f) a Bizottság 2005/28/EK (2005. április 8.) irányelve a helyes klinikai gyak
 
 g) a gyógyszerek forgalombahozatali engedélye feltételeinek módosítása tekintetében a 2001/82/EK és a 2001/83/EK irányelvek módosításáról szóló 2009. június 18-i 2009/53/EK európai parlamenti és tanácsi irányelv.
 
+h) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv.
+
 (2) Ez a törvény a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
 a) az Európai Parlament és a Tanács 726/2004/EK rendelete (2004. március 31.) az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról,

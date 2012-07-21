@@ -1,0 +1,1 @@
+18/B. § A forgalomba hozatali engedély jogosultja a 18/A. § (1) bekezdésében említett farmakovigilancia-rendszerrel egyenértékű farmakovigilancia-rendszert működtet a farmakovigilancia végrehajtása céljából. A farmakovigilancia-rendszerrel kapcsolatos feladatokat jogszabály tartalmazza.

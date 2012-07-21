@@ -74,8 +74,24 @@ e) az összegyűjtött adatok elemzésére kizárólag epidemiológiai módszere
 
 26. előny/kockázat arány: a gyógyszer pozitív terápiás hatása a 25. pontban meghatározott kockázat viszony értékelésének eredménye;
 
-27–28.
+27. engedélyezés utáni gyógyszerbiztonsági vizsgálat: minden olyan forgalomba hozatali engedéllyel rendelkező gyógyszerrel összefüggő vizsgálat, amelynek célja, hogy azonosítsa, bemutassa vagy felmérje a gyógyszer alkalmazásával kapcsolatos biztonságossági kockázatot, alátámasztva a gyógyszer alkalmazásának biztonságossági profilját vagy felbecsülje a kockázatkezelési intézkedések hatékonyságát.
+
+28.
 
 29. fejlett (újszerű) terápiás gyógyszerkészítmény: a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés a) pontja szerinti gyógyszer.
+
+30. farmakovigilancia: a gyógyszerek biztonságossága érdekében a gyógyszer előny/kockázat viszonyát nyomon követő, a kockázat csökkentésére és az előnyök növelésére irányuló tevékenység,
+
+31. farmakovigilancia kockázatértékelési bizottság: az Európai Gyógyszerügynökség tudományos bizottsága,
+
+32. kockázatkezelési rendszer: azon farmakovigilancia-tevékenységek és -beavatkozások összessége, amelyek célja az adott gyógyszerrel kapcsolatos kockázatok azonosítása, jellemzése, megelőzése vagy csökkentése, beleértve az ilyen tevékenységek és beavatkozások hatékonyságának értékelését is,
+
+33. kockázatkezelési terv: a kockázatkezelési rendszer részletes leírása,
+
+34. farmakovigilancia-rendszer: a farmakovigilanciai feladatok ellátásához alkalmazott rendszer, amely a forgalomba hozatali engedéllyel rendelkező gyógyszerek biztonságosságának figyelemmel kísérésére és előny/kockázat viszonyában bekövetkező változás felismerésére szolgál,
+
+35. farmakovigilanciarendszer-törzsdokumentáció: a forgalombahozatali engedély jogosultja által egy vagy több forgalomba hozatali engedéllyel rendelkező gyógyszer tekintetében alkalmazott farmakovigilancia-rendszer részletes leírása,
+
+36. koordinációs csoport: az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelv 27. cikkében említett testület,
 
 37. új pszichoaktív anyag: olyan, a forgalomban újonnan megjelent, gyógyászati felhasználással nem rendelkező anyag vagy vegyületcsoport, amely a központi idegrendszer működésének befolyásolása révén alkalmas a tudatállapot, a viselkedés vagy az érzékelés módosítására, megváltoztatására, és ezért hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény mellékletének I. és II. Jegyzékén, az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzékén, vagy az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletében meghatározott pszichotróp anyagok jegyzékén szereplő anyagok, és erre tekintettel azt a Kormány rendeletében ilyen anyaggá minősítette.
