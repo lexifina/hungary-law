@@ -1,1 +1,3 @@
-20. § Hatályát veszti a XIX. Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok 2011. évi felhasználásának rendjéről szóló 38/2011. (VII. 20.) NFM rendelet.
+20. §[^2]
+
+[^2]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
