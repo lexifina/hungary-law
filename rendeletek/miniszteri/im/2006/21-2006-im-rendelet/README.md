@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-21-20-0
 | 2012-03-01 | 2006-21-20-06.11 | 10/2012. (II. 29.) KIM rendelet |
 | 2012-07-02 | 2006-21-20-06.12 | 10/2012. (II. 29.) KIM rendelet |
 | 2012-07-16 | 2006-21-20-06.13 | 33/2012. (VII. 13.) KIM rendelet |
+| 2012-07-21 | 2006-21-20-06.14 | Nemzeti Jogszabálytár (egységes szerkezet) |
