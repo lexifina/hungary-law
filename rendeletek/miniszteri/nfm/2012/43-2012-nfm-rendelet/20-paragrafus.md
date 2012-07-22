@@ -1,0 +1,3 @@
+## 19. § A területfejlesztéssel és fejlesztéspolitikával összefüggő feladatokat szolgáló előirányzat felhasználásának részletes szabályairól szóló 35/2011. (VII. 7.) NFM rendelet (a továbbiakban: R.) a következő, 3/B. §-sal egészül ki:
+
+## „3/B. § Az előirányzatból a 3. § (1) bekezdés e) pontjában foglalt központi pályázati rendszer keretében nyújtott támogatásokkal kapcsolatban a támogatási szerződés megkötését követően indult eljárásokban – ideértve a megkötött támogatási szerződésekhez kapcsolódóan már folyamatban lévő eljárásokat is – a Támogató feladatait a Magyar Államkincstár (a továbbiakban: Kincstár) látja el.”
