@@ -1,3 +1,3 @@
-4. melléklet a 137/2012. (VI. 29.) Korm. rendelethez[^102]
+4. melléklet a 137/2012. (VI. 29.) Korm. rendelethez[^107]
 
-[^102]: A 2–9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: A 2–9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

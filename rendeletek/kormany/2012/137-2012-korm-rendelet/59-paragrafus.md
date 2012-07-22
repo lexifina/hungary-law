@@ -1,7 +1,3 @@
-## 58. § A Klinikai Vhr. 21. §-a helyébe a következő rendelkezés lép:
+59. §[^65]
 
-## „21. § (1) Amennyiben az ellenőrzés során megállapítást nyer, hogy a beavatkozással nem járó vizsgálat folytatása nem felel meg az engedélyben, a vizsgálati tervben, illetve az emberen végzett orvostudományi kutatásokról szóló külön jogszabályban foglalt feltételeknek, a 16. § b) pont ba)–bb) alpontjában említett vizsgálatok és kutatások esetében az ETT TUKEB, a 16. § b) pont bc) alpontjában említett vizsgálat esetében a GYEMSZI a beavatkozással nem járó vizsgálatot haladéktalanul felfüggeszti vagy megszünteti.
-
-## (2) A felfüggesztést követően, a megszüntető határozat meghozatala előtt az ETT TUKEB vagy a GYEMSZI hétnapos határidő tűzésével kikéri a kérelmező, a vizsgálatvezető, illetve a beavatkozással nem járó vizsgálatban közreműködők véleményét, továbbá felhívja az érintetteket a hiányosságok megszüntetésére, és javaslatot tesz arra, hogy a hiányosság milyen módon küszöbölhető ki. Amennyiben határidőn belül nem érkezik vélemény, vagy a hiányosságot az e bekezdés szerint meghatározott határidőn belül nem szüntetik meg, az ETT TUKEB vagy a GYEMSZI a beavatkozással nem járó vizsgálatot határozatával megszünteti.
-
-## (3) Ha a kérelmező kívánja a beavatkozással nem járó vizsgálatot annak befejezése előtt felfüggeszteni vagy megszüntetni, erről az indokok felsorolásával legkésőbb a felfüggesztéssel vagy megszüntetéssel egyidejűleg értesíti az ETT TUKEB-et vagy a GYEMSZI-t. A kérelmező beavatkozással nem járó vizsgálatot megszüntető döntése alapján az ETT TUKEB és a GYEMSZI törli a beavatkozással nem járó vizsgálatot a nyilvántartásból.”
+[^65]: Az 55–59. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
