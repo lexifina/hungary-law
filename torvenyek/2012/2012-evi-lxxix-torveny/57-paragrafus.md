@@ -1,1 +1,3 @@
-57. §
+57. § A Gytv. 7/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A gyógyszerészeti államigazgatási szerv a forgalomba hozatali engedély megadását követően felhívhatja a forgalomba hozatali engedély jogosultját arra, hogy végezzen engedélyezés utáni gyógyszerbiztonsági vizsgálatot, amennyiben valamely engedélyezett gyógyszerrel összefüggő új, vagy korábban csekélynek vélt, de valójában súlyosabb biztonsági kockázat azt indokolja. Ha egynél több gyógyszer esetében ugyanazok az aggályok merülnek fel, a gyógyszerészeti államigazgatási szerv a farmakovigilancia kockázatértékelési bizottsággal való információcserét követően az érintett forgalomba hozatali engedély jogosultjainak közös engedélyezés utáni gyógyszerbiztonsági vizsgálat elvégzését javasolja.”
