@@ -1,5 +1,0 @@
-## 6. § Hatályát veszti a Cvhr. 19. § (2) bekezdése.
-
-7. §[^7]
-
-[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
