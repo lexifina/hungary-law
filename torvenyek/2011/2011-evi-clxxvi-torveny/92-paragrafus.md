@@ -1,3 +1,1 @@
-92. § A Gytv. a következő 32/A. §-sal egészül ki:
-
-„32/A. § Az 5. § az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvénnyel megállapított (7) bekezdését a 2012. július 21-ét követően benyújtott kérelmek vonatkozásában kell alkalmazni.”
+92. §
