@@ -1,1 +1,0 @@
-## 7. § A KA-VOSZ Zrt. a 6. § (1) bekezdésben meghatározott feladatok ellátásába – a Támogató egyetértésével – más szervezeteket (a továbbiakban: regisztráló szervezetek) is bevonhat, amely szervezetek tevékenységéért a KA-VOSZ Zrt. felelősséggel tartozik.

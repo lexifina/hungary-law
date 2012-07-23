@@ -1,3 +1,0 @@
-4. § (1) Az előirányzathoz kapcsolódó pénzügyi és számviteli feladatokat a MAG – Magyar Gazdaságfejlesztési Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: MAG Zrt.) látja el az e rendeletben meghatározottak szerint, az e rendelet hatálybalépését követő 30 napon belül a Támogatóval megkötött szerződésben foglaltak alapján.
-
-(2) Az előirányzat terhére nyújtott támogatások tekintetében a támogatási rendszer közreműködő szervezeti feladatait a KA-VOSZ Zrt. és a MAG Zrt. látja el az e rendeletben meghatározottak szerint, az e rendelet hatálybalépését követő 30 napon belül a Támogatóval megkötött szerződésben foglaltak alapján.
