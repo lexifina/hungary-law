@@ -1,9 +1,11 @@
-## 20. § Az R. 15. § (2) bekezdése helyébe az alábbi rendelkezés lép:
-
-## „(2) A pályázatot a felhívás közzétételét követő 45 napon belül lehet személyesen vagy postai úton benyújtani a Kincstár területileg illetékes megyei szervezeteihez. Postai úton történő benyújtás esetén a pályázatot igazolható módon kell postára adni, és a pályázat benyújtása dátumának a postára adás napját kell tekinteni. Kétség esetén a határidőn belül történő postára adást a pályázónak kell bizonyítania.”
+## 19–20. §[^1]
 
 ## 11. Hatályon kívül helyező rendelkezések
 
-21. §[^1]
+## 21. § Hatályát veszti
 
-[^1]: A 21. § a 17. § (2) bekezdése alapján 2012. július 23-án lép hatályba.
+a) a területfejlesztési intézményrendszeri feladatok támogatása előirányzat 2011. évi felhasználásának részletes szabályairól szóló 18/2011. (V. 10.) NFM rendelet,
+
+b) a gazdaságfejlesztést szolgáló célelőirányzat 2011. évi felhasználásának részletes szabályairól szóló 41/2011. (VIII. 9.) NFM rendelet.
+
+[^1]: A 19–20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
