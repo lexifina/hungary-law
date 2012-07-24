@@ -18,8 +18,4 @@ b) a belföldi idézési címmel és belföldi idézésű című képviselővel 
 
 (6) A beadvány és mellékletei benyújtása során a Pp. 93. § (3) bekezdését megfelelően alkalmazni kell, azzal, hogy a szervezet által működési körében kiállított, szabályszerűen aláírt okirat is benyújtható.”
 
-(2) A Cnytv. 5. § (3) bekezdése a következő c) ponttal egészül ki:
-
-[Az e törvényben szabályozott polgári nemperes eljárásokban az eljárás szünetel, ha]
-
-„c) az elektronikus útra kötelezett vagy elektronikus utat választó kérelmező nem biztosítja – külön jogszabályban meghatározott módon – azt, hogy részére (képviselő, kézbesítési megbízott részére) a hivatalos iratok elektronikus úton kézbesíthetőek legyenek.”
+(2)
