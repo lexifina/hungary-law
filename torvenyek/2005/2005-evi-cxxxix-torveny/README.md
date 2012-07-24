@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-139-00-00
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2005-139-00-00.35 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2005-139-00-00.36 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 2005-139-00-00.37 |
+| 2012-07-24 | 2012. évi CXVII. törvény | 2005-139-00-00.38 |
