@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-20-00-00
 | 2012-01-01 | 2011. évi CXCVI. törvény | 2001-20-00-00.25 |
 | 2012-05-10 | 2012. évi XLV. törvény | 2001-20-00-00.26 |
 | 2012-05-23 | 2012. évi XLV. törvény | 2001-20-00-00.27 |
+| 2012-07-24 | 2012. évi CXIV. törvény | 2001-20-00-00.28 |
