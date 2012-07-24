@@ -2,4 +2,4 @@
 
 (2) E törvény 5. § (1) bekezdését, valamint 7. § (1)–(3) bekezdését az e törvény hatálybalépését követően kötött vagy a javadalmazásra vonatkozó részében módosított munkaszerződésekre kell alkalmazni.
 
-(3)
+(3) E törvénynek az állami vagyonnal összefüggő egyes rendelkezésekről szóló 2012. évi CXIV. törvénnyel (a továbbiakban: Mód.tv.) megállapított 7. §-át a Mód.tv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
