@@ -1,1 +1,1 @@
-8–12. §
+8. § E törvény alkalmazásában állami alapító alatt a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 62.§ (3) bekezdésében meghatározott alapítót kell érteni.

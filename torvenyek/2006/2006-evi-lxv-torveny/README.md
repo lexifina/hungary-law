@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-65-00-00
 | 2011-07-01 | 2011. évi LXVI. törvény | 2006-65-00-00.9 |
 | 2011-10-18 | 2011. évi CXXXII. törvény | 2006-65-00-00.10 |
 | 2012-05-18 | 25/2012. (V. 18.) AB határozat | 2006-65-00-00.11 |
+| 2012-07-24 | 2012. évi CXVII. törvény | 2006-65-00-00.12 |
