@@ -1,0 +1,3 @@
+66. § Az Áhtm. 2. § (1) bekezdése helyébe a következő szöveg lép:
+
+„(1) Az állami alapító által alapított alapítványt (közalapítványt), továbbá az állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítványt (közalapítványt) az alapítók kérelmére a bíróság – nemperes eljárásban – akkor is megszünteti, ha az alapítvány (közalapítvány) céljainak megvalósítására, feladatának további ellátására az állami alapító többségi részesedésének biztosításával közhasznú szervezetnek minősülő jogi személyiséggel rendelkező nonprofit gazdasági társaságot kíván alapítani (a továbbiakban: nonprofit gazdasági társaság).”

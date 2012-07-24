@@ -1,0 +1,5 @@
+103. § A Cnytv. 57. §-a a következő (4) és (5) bekezdéssel egészül ki:
+
+„(4) Ha a bíróság az alapítvány új kezelő szerve (szervezete) nyilvántartásba történő bejegyzésére irányuló változásbejegyzési eljárást az 56. § (3) vagy (4) bekezdésben meghatározott okból szünteti meg, és a változásbejegyzési kérelem az alapítvány új kezelő szerve (szervezete) nyilvántartásba történő bejegyzésére irányuló változásbejegyzési eljárás mellett más adat bejegyzése (törlése) iránti kérelmet is tartalmaz, a bíróság a változásbejegyzési eljárást – a meg nem szüntetett részben – a perindításra nyitva álló határidő eredménytelen elteltéig, illetőleg a jogerős ítélet meghozataláig (a per megszüntetéséig) felfüggeszti.
+
+(5) Az 55–57. § rendelkezési szerint kell eljárni abban az esetben is, ha az alapító az alapító okirat rendelkezése alapján hívja vissza a kezelő szervezet (szervezetet) vagy annak tagját és nyújt be az alapítvány új kezelő szerve (szervezete) nyilvántartásba történő bejegyzésére vagy a kezelő szervezet új tagjának bejegyzésére irányuló változásbejegyzési kérelmet.”

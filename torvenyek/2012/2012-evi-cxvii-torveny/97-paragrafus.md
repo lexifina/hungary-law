@@ -1,0 +1,3 @@
+97. § A Cnytv. 33. §-a helyébe a következő rendelkezés lép:
+
+„33. § Az ügyésznek – ha az ügyészség látja el a szervezet feletti törvényességi ellenőrzést – kézbesíteni kell a nyilvántartásba vételi, a változásbejegyzési és a nyilvántartásból való törlés iránti eljárás során a nem az ügy érdemében hozott fellebbezhető végzést és az ügy érdemében hozott végzést, az áttételt elrendelő és a nyilvántartásba vételi kérelmet elutasító végzés kivételével.”
