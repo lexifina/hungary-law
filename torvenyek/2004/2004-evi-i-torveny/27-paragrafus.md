@@ -1,4 +1,4 @@
-27. § (1) A szakszövetség működése felett a törvényességi felügyeletet az ügyészség gyakorolja.
+27. § (1) A szakszövetség működése felett a törvényességi ellenőrzést az ügyészség gyakorolja.
 
 (2) Az ügyész keresete alapján a bíróság akkor is felfüggesztheti a szakszövetség ügyintéző-képviselő szervének tevékenységét, és a tevékenység irányítására felügyelő biztost rendelhet ki, ha a szakszövetség számviteli jogszabályok szerinti eredménye egymást követő két évben negatív, és kötelezettségei legalább ötven százalékkal meghaladják saját vagyonának mértékét. Ha a rendeltetésszerű gazdálkodás nem állítható helyre, a felügyelő biztos javaslatot tesz az ügyésznek a szakszövetség bírósági feloszlatásának kezdeményezésére.
 
