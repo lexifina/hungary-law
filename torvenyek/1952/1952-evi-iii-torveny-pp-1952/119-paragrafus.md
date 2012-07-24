@@ -8,7 +8,15 @@
 
 (4) Az iratok megtekintése és a másolatkészítés során a 171/A. § rendelkezéseit alkalmazni kell.
 
-(5) A fél, az ügyész és a perben részt vevő egyéb személy, valamint azok képviselője kérheti, hogy az irat elektronikus másolatát az általa megjelölt e-mail címre továbbítsa a bíróság, amennyiben az iratról neki másolat adható, és az irat elektronikus okiratként, vagy a papíralapú okirat elektronikus másolataként a bíróságnál rendelkezésre áll. Ebben az esetben a másolat kiadásáért nem kell illetéket fizetni.
+(5) A fél, az ügyész és a perben részt vevő egyéb személy, valamint azok képviselője írásban vagy a tárgyaláson kérheti, hogy a részére kiadható iratot elektronikus formában az általa megjelölt e-mail címre továbbítsa a bíróság, ha az irat
+
+a) elektronikus formában,
+
+b) elektronikus okiratként vagy
+
+c) a papíralapú okirat elektronikus másolataként a bíróságnál rendelkezésre áll.
+
+(5a) Az (5) bekezdésben meghatározott esetben az irat továbbításáért nem kell illetéket fizetni. Az irat akkor áll elektronikus formában rendelkezésre [119. § (5) bekezdés a) pont], ha a bíróság a papír alapú iratot informatikai eszköz alkalmazásával szerkesztette meg; az elektronikus formában rendelkezésre álló irat nem hiteles kiadmány, az bizonyítékként nem használható fel.
 
 (6) Bíróság, ügyészség, közjegyző, bírósági végrehajtó, nyomozó hatóság vagy közigazgatási hatóság megkeresésére – törvényben meghatározott feladataik ellátásához szükséges mértékben – a bíróság a per iratait vagy azok másolatát (kivonatát) megküldi, illetve azokba betekintést engedélyez.
 

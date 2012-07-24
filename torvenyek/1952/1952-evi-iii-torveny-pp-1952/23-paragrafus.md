@@ -24,7 +24,7 @@ ef) a társaság tartozásaiért korlátozott felelősséggel tartozó tag (rés
 
 f) a törvényszék által nyilvántartásba vett, cégnek nem minősülő szervezetekkel kapcsolatos perek közül:
 
-fa) az ilyen szervezetek ellen a törvényességi felügyeletet gyakorló szerv által indított perek,
+fa) az ilyen szervezetek ellen a törvényességi felügyeletet, törvényességi ellenőrzést gyakorló szerv által indított perek,
 
 fb) az ilyen szervezetek és tagjaik (volt tagjaik) közötti, illetve a tagok (volt tagok) egymás közti a tagsági jogviszonyon alapuló perek;
 

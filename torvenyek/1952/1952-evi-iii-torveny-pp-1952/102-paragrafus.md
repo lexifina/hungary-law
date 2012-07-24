@@ -1,4 +1,18 @@
-102. § (1) A hirdetmény útján kézbesítendő iratot tizenöt napra ki kell függeszteni a bíróság hirdetőtáblájára és a fél – illetőleg ismeretlen örökösök részére való kézbesítés esetében az örökhagyó – utolsó ismert lakóhelyén a polgármesteri hivatal hirdetőtáblájára, továbbá közzé kell tenni a bíróság honlapján és az erre a célra fenntartott központi honlapon.
+102. § (1) A hirdetményt tizenöt napra ki kell függeszteni a bíróság hirdetőtáblájára és a fél – illetőleg ismeretlen örökösök részére való kézbesítés esetében az örökhagyó – utolsó ismert lakóhelyén a polgármesteri hivatal hirdetőtáblájára, továbbá közzé kell tenni a bíróságok központi internetes honlapján.
+
+(1a) A hirdetmény tartalmazza
+
+a) a kifüggesztés, a bíróságok központi internetes honlapján történő közzététel esetén pedig a közzététel napját,
+
+b) az eljáró bíróság megnevezését,
+
+c) a bírósági ügyszámot,
+
+d) a címzett nevét és utolsó belföldi lakóhelyét (székhelyét), ennek hiányában tartózkodási helyét,
+
+e) azt az okot, amelynek következtében a hirdetményi kézbesítés szükségessé vált és
+
+f) a figyelemfelhívást az (5) bekezdés szerinti jogkövetkezményre és arra, hogy a címzett a kézbesítendő iratot a bíróság kezelőirodáján átveheti.
 
 (2) Ha a fél olyan államban lakik, amely a kézbesítéshez jogsegélyt nem nyújt, de amellyel a postai forgalom fennáll, a hirdetményt – lehetőleg ajánlott levélként – a fél ottani címére is meg kell küldeni. Ha a hirdetményi kézbesítésre a 100/A. § (4) bekezdése alapján kerül sor, és a fél olyan államban lakik, amellyel a postai forgalom fennáll, a hirdetményt ajánlott levélként a fél ottani címére is meg kell küldeni.
 
@@ -6,7 +20,7 @@
 
 (4) A hirdetményi kézbesítéssel felmerülő költséget az köteles előlegezni, aki a hirdetményi kézbesítést kérte.
 
-(5) Hirdetményi kézbesítés esetében az iratot – amennyiben a bíróság másként nem rendelkezik – a bíróság hirdetőtábláján való kifüggesztéstől számított tizenötödik napon kell kézbesítettnek tekinteni.
+(5) Hirdetményi kézbesítés esetén az iratot – ha a bíróság másként nem rendelkezik – a hirdetménynek a bíróság hirdetőtábláján való kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
 
 (6) A hirdetményi kézbesítésről az eljáró bíróság számítógépes nyilvántartást vezet, amelyben rögzíti a bíróság nevét, az ügy számát, az utolsó ismert lakóhely (székhely) megjelölésével a fél nevét, akinek részére a kézbesítés hirdetmény útján történt, továbbá azt az okot, amelynek következtében a kézbesítés szükségessé vált, illetve a kézbesítés megtörténtére vonatkozó vélelem beálltának időpontját. Az országosan összekapcsolt számítógépes közhiteles nyilvántartást az Országos Bírósági Hivatal elnöke kezeli, az abban foglalt adatokról az Országos Bírósági Hivatal elnöke jogszabályban meghatározott költségtérítés ellenében a felvilágosítást kérő személyére vonatkozóan, kérelmére felvilágosítást ad.
 

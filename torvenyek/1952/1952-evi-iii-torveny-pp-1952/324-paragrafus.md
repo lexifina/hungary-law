@@ -8,7 +8,7 @@
 
 (2) E fejezet alkalmazásában közigazgatási határozat
 
-a) a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott közigazgatási hatóság vagy vezetője által hatósági ügyben hozott határozat, valamint a hatósági szerződésben foglalt kötelezettség megszegése miatt végrehajtást elrendelő végzés,
+a) a közigazgatási hatósági eljárás általános szabályairól szóló törvényben (a továbbiakban: Ket.) meghatározott közigazgatási hatóság vagy vezetője által hatósági ügyben hozott határozat, valamint a hatósági szerződésben foglalt kötelezettség megszegése miatt végrehajtást elrendelő végzés,
 
 b) a helyi önkormányzat törvényben meghatározott határozata,
 
