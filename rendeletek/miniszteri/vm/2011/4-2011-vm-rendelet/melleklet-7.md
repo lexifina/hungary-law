@@ -2,7 +2,7 @@
 
 ## 1. A kibocsátási határérték tüzelési és termikus (a levegőből tényleges oxigén-elvonás történik) technológiáknál – ha jogszabály vagy hatósági határozat másként nem rendelkezik – a száraz véggáz 5 tf%-os O2 tartalmára, 273 K hőmérsékletre és 101,3 kPa nyomásra vonatkozik. A technológiai kibocsátási határérték légszennyező pontforrásonként értelmezendő.
 
-## 2. A tömegáram küszöb alá eső (küszöbnél kisebb tömegáram esetén) légszennyező anyag kibocsátása esetén (a kibocsátási koncentráció vizsgálata nélkül) a légszennyező forrás üzemeltetőjének levegőtisztaság-védelmi alapbejelentést kell tennie (LAL). Amennyiben a légszennyező anyag kibocsátása eléri vagy meghaladja a küszöbértéket, a légszennyezés éves mértékét (éves levegőtisztaság-védelmi jelentést) is be kell jelenteni. Ha jogszabály másként nem rendelkezik, a légszennyezőanyag koncentrációra meghatározott kibocsátási határértékek 273 K hőmérsékletű és 101,3 kPa nyomású száraz véggázra vonatkoznak.
+## 2. Tömegárammal szabályozott technológiai kibocsátási határértékek esetében, ha a légszennyező anyag kibocsátása a tömegáram alsó határa (küszöbértéke) alá esik, a kibocsátási határérték a tömegáram alsó határához hozzárendelt, mg/m3-ben megadott légszennyező anyag koncentráció, amelyet a küszöbérték alatt nem kell alkalmazni. Levegőtisztaság-védelmi alapbejelentést (LAL) a tömegáram küszöbérték alatti kibocsátásokkal működő technológiák esetén is kell tenni. Amennyiben a légszennyező anyag kibocsátása eléri vagy meghaladja a küszöbértéket, a légszennyezés éves mértékét (éves levegőtisztaság-védelmi jelentést) is be kell jelenteni. Ha jogszabály másként nem rendelkezik, a légszennyezőanyag koncentrációra meghatározott kibocsátási határértékek 273 K hőmérsékletű és 101,3 kPa nyomású száraz véggázra vonatkoznak.
 
 ## 2.1.1. Szilárd anyag és por alakú szervetlen anyagok
 
@@ -576,7 +576,7 @@
 
 | 3 | Azbeszt | 0,0005 vagy ennél nagyobb | 1000 |
 
-7. melléklet a 4/2011. (I. 14.) VM rendelethez
+7. melléklet a 4/2011. (I. 14.) VM rendelethez[^10]
 
 Eljárásspecifikus technológiai kibocsátási határértékek és egyéb előírások
 
@@ -746,7 +746,7 @@ Eljárásspecifikus technológiai kibocsátási határértékek és egyéb elő�
 
 2.8.2. Az előírások a helyhez kötött berendezések belső égésű motorjaira vonatkoznak, amelyek tüzelőanyag felhasználása 50 kg/h vagy ennél nagyobb. Az előírások vonatkoznak a motorok féktermi próbajáratására is.
 
-2.8.3. Az előírások nem vonatkoznak azokra a szükségáramforrást hajtó, helyhez kötött motorokra, amelyek 50 h/év-nél rövidebb ideig üzemelnek. Ezekre a berendezésekre kibocsátási határértéket nem kell kiadni, az alapbejelentés elkészítése azonban kötelező.
+2.8.3. Az előírások nem vonatkoznak azokra a szükségáramforrást hajtó, helyhez kötött motorokra, amelyek 50 h/év-nél rövidebb ideig üzemelnek. Ezekre a berendezésekre kibocsátási határértéket nem kell kiadni, az alapbejelentés elkészítése azonban kötelező. Az üzemidő megállapításánál nem kell figyelembe venni a motorok időszakos, teljes felújítása után, biztonsági okból legfeljebb 6 évenként egyszer végzett, legfeljebb 24 órás próbajáratás időtartamát. A teljes felújítást követő próbajáratásról annak megkezdése előtt 5 munkanappal az illetékes környezetvédelmi hatóságot írásban értesíteni kell.
 
 2.8.4. Üzemanyag-minőségi követelmény: a gázolaj kéntartalma 0,05 m/m%-nál nem lehet nagyobb.
 
@@ -824,13 +824,11 @@ Szilárd anyag (festék és lakk részecskék) kibocsátási határértéke: 3 m
 
 |  | A | B | C | D | E |
 
-| 1 |  | Kibocsátási határérték |
+| 1. |  | Kibocsátási határérték |  |  |  |
 
-| 2 |  | Szilárd anyag [mg/m3] | Klór [mg/m3] | Fluor- vegyületek (HF-ként megadva) [kg F/t Al] | Összes szerves anyag C-ként [mg/m3] |
+| 2. |  | Szilárd anyag [mg/m3] | Klór [mg/m3] | Fluorvegyületek (HF-ként megadva) [kg F/t Al] | Összes szerves anyag C-ként [mg/m3] |
 
-| 3 | A légszennyező anyag 0,5 kg/h vagy annál nagyobb | 20 | 3 | 1,5 (napi | 50 |
-
-| 4 | tömegárama esetén |  | a finomítók (klórozó berendezések) véggázaiban | átlagban) |  |
+| 3. | A légszennyező anyag 0,5 kg/h vagy annál nagyobb tömegárama esetén | 20 | 3, a finomítók (klórozó berendezések) véggázaiban | 1,5 (napi átlagban) | 50 |
 
 2.15. Fémolvasztó berendezések, beleértve a színesfémek és ötvözeteik – kivéve az alumíniumot – finomítására szolgáló berendezéseket
 
@@ -1238,7 +1236,7 @@ Szilárd anyag (festék és lakk részecskék) kibocsátási határértéke: 3 m
 
 2.45.3. A kibocsátási határértékek a közvetlen füstgáz szárításra is vonatkoznak.
 
-2.45.4. A 2.45.1. pont alatti táblázat 5–11 sorában szereplő légszennyező anyagokat öt évente kell mérni.
+2.45.4. A 2.45.1. pontban foglalt táblázat 6–11. sorában szereplő légszennyező anyagokat ötévente kell mérni.
 
 2.46. Vasérczsugorítás
 
@@ -1350,8 +1348,10 @@ Szilárd anyag (festék és lakk részecskék) kibocsátási határértéke: 3 m
 
 2.55.3. A technológiából kikerülő valamennyi légszennyező anyag esetében a kibocsátási határértékek 5 tf% O2-tartalmú, 273 K hőmérsékletű, 101,3 kPa nyomású száraz véggázra vonatkoznak.
 
-2.56. Biomassza tüzeléssel működő tüzelőberendezések
+2.56. A 140 kWth és az ennél nagyobb, de 1 MWth-nál kisebb névleges bemenő hőteljesítményű, biomasszával üzemelő tüzelőberendezések
 
-2.56.1. Szén-monoxid kibocsátási határérték 1000 mg/m3
+2.56.1. Szén-monoxid (CO) kibocsátási határérték 1000 mg/m3
 
 2.56.2. A kibocsátási határérték 11 tf% O2-tartalmú, 273 K hőmérsékletű, 101,3 kPa nyomású száraz véggázra vonatkozik.
+
+[^10]: A 7. melléklet a 71/2012. (VII. 16.) VM rendelet 7. §-a szerint módosított szöveg.
