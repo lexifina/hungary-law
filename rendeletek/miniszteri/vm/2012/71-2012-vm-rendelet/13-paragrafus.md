@@ -1,0 +1,1 @@
+## 12. § Az R1. 4. § (4) bekezdésében az „anyagokat, valamint az 1. melléklet 1.1.4.1. pontjában felsorolt arzént, 3,4-benz(a)pirént, kadmiumot és nikkelt” szövegrész helyébe az „anyagok, valamint az 1. melléklet 1.1.4.1. pontjában felsorolt arzén, 3,4-benz(a)pirén, kadmium és nikkel határértékét, valamint ahol szerepel, a tűréshatárt” szöveg lép.

@@ -1,0 +1,1 @@
+## 11. § A légszennyezettségi agglomerációk és zónák kijelöléséről szóló 4/2002. (X. 7.) KvVM rendelet 2. § (1) bekezdésében „az együttes miniszteri rendelet 4. számú mellékletében” szövegrész helyébe „a VM rendelet 5. mellékletében” szöveg lép.
