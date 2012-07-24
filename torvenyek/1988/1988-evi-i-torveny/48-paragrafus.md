@@ -72,6 +72,8 @@ a) a Kormány, hogy
 
 33. az állami tulajdonban álló terek, parkok és egyéb közterületek vonatkozásában díjfizetési kötelezettséggel érintett várakozási területek kijelölését,
 
+35. az Információs Hivatal állományának tagjai, járművei és magánútjai, valamint az általa üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket
+
 b) a miniszter, hogy
 
 1. a Közlekedési Miniszterek Európai Konferenciája által létrehozott közlekedési engedélyek használatának részletes szabályait,
@@ -176,7 +178,7 @@ m) a közlekedésért felelős miniszterrel egyetértésben
 
 ma) a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket, valamint
 
-mb) az egyes rendvédelmi szerveket irányító miniszter, hogy a rendvédelmi szervek tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket,
+mb) az egyes rendvédelmi szerveket irányító miniszter, hogy – az Információs Hivatal kivételével – a rendvédelmi szervek állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket,
 
 n) a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti auditori tevékenység engedélyezésére vonatkozó igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat
 
