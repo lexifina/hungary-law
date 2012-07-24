@@ -96,7 +96,11 @@ d) a b) és c) pont szerinti vizsgálat megállapításaitól függően megteszi
 
 a) dönt a központi oktatási feladatokról és felügyeli azok végrehajtását, továbbá meghatározza a regionális képzési feladatokat, és
 
-b) meghatározza a bírák képzési rendszerének és a képzési kötelezettség teljesítésének szabályait.
+b) meghatározza a bírák képzési rendszerének és a képzési kötelezettség teljesítésének szabályait,
+
+c) a legfőbb ügyész előzetes véleményének kikérését követően kinevezi a Magyar Igazságügyi Akadémia vezetőjét,
+
+d) a legfőbb ügyésszel együtt meghatározza a bírósági és ügyészségi fogalmazók egységes központi képzésének rendszerét.
 
 (8) Az OBH elnöke a tájékoztatással kapcsolatos feladatkörében
 

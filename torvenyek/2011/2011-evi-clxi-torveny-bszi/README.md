@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-161-00-00
 | 2012-03-17 | 2010. évi CXXX. törvény | 2011-161-00-00.6 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 2011-161-00-00.7 |
 | 2012-07-17 | 2012. évi CXI. törvény | 2011-161-00-00.8 |
+| 2012-07-24 | 2012. évi CXVII. törvény | 2011-161-00-00.9 |
