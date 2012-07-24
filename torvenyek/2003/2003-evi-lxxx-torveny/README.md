@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-80-00-00
 | 2011-07-09 | 2011. évi LXVII. törvény | 2003-80-00-00.17 |
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2003-80-00-00.18 |
 | 2012-01-01 | 2011. évi CLXXIX. törvény | 2003-80-00-00.19 |
+| 2012-07-24 | 2012. évi CXVII. törvény | 2003-80-00-00.20 |

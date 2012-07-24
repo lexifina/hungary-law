@@ -1,0 +1,3 @@
+58/A. § (1) Ha a rendkívüli jogorvoslat eredményeként a Kúria a jogerős határozatot a költségek viselésére is kihatóan megváltoztatja, vagy a jogerős határozat hatályon kívül helyezését követően hozott új jogerős határozatban a bíróság a költség viseléséről a hatályon kívül helyezett határozatban foglaltaktól eltérően rendelkezik, a jogi segítségnyújtó szolgálat a korábban hozott jogerős díjmegállapító határozatát módosítja, a visszatérítésre kötelező határozatát visszavonja és új visszatérítésre kötelező határozatot hoz.
+
+(2) Az (1) bekezdésben foglaltak szerint jár el a jogi segítségnyújtó szolgálat akkor is, ha az eljáró bíróság a jogerős határozatot a költségek viselésére is kihatóan kijavítja vagy kiegészíti.
