@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-188-00-00
 | 2012-06-19 | 2012. évi LXVII. törvény | 2011-188-00-00.5 |
 | 2012-06-29 | 2012. évi LXXXIII. törvény | 2011-188-00-00.6 |
 | 2012-07-01 | 2012. évi LXXXIII. törvény | 2011-188-00-00.7 |
+| 2012-07-24 | 2012. évi CXV. törvény | 2011-188-00-00.8 |

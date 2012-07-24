@@ -2,7 +2,7 @@
 
 (2) A Gyvt. 66/L. § (1) bekezdése szerinti hivatásos nevelőszülői díj legalacsonyabb összege a 2012. évben 135 000 forint/hó.
 
-(3) A Gyvt. 20/A. § (2) bekezdése szerinti pénzbeli támogatás esetenkénti összege 2012. évben gyermekenként 5800 forint.
+(3) A Gyvt. 20/A. § (2) bekezdése szerinti támogatás esetenkénti összege 2012. évben gyermekenként 5800 forint.
 
 (4) A Gyvt. 20/B. § (5) bekezdése szerinti pótlék esetenkénti összege 2012. évben gyermekenként 8400 forint.
 

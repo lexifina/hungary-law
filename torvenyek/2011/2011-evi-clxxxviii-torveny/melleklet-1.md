@@ -30332,6 +30332,34 @@ Oktatási, kulturális és sport PPP programok
 
 |
 
+|
+
+3
+
+|
+
+|
+
+|
+
+|
+
+PPP-konstrukcióban létrehozott beruházások megvásárlásával és befejezésével kapcsolatos kiadások
+
+|
+
+15 000,00
+
+|
+
+|
+
+15 000,00
+
+|
+
+|
+
 37
 
 |
@@ -30604,6 +30632,34 @@ Fejezeti egyensúlybiztosítási tartalék
 
 |
 
+41
+
+|
+
+|
+
+|
+
+|
+
+|
+
+EU Önerő Alap
+
+|
+
+50 000,00
+
+|
+
+|
+
+50 000,00
+
+|
+
+|
+
 |
 
 |
@@ -30618,7 +30674,7 @@ Fejezeti egyensúlybiztosítási tartalék
 
 |
 
-341 480,3
+406 480,3
 
 |
 
@@ -30626,7 +30682,7 @@ Fejezeti egyensúlybiztosítási tartalék
 
 |
 
-206 013,0
+271 013,0
 
 |
 
@@ -30824,7 +30880,7 @@ XVII. fejezet összesen:
 
 |
 
-573 149,3
+638 149,3
 
 |
 
@@ -30832,7 +30888,7 @@ XVII. fejezet összesen:
 
 |
 
-206 013,0
+271 013,0
 
 |
 
@@ -33996,7 +34052,7 @@ Támogatás
 
 |
 
-XX. NEMZETI ERŐFORRÁS MINISZTÉRIUM
+XX. EMBERI ERŐFORRÁSOK MINISZTÉRIUMA
 
 |
 
@@ -34020,7 +34076,7 @@ XX. NEMZETI ERŐFORRÁS MINISZTÉRIUM
 
 |
 
-Nemzeti Erőforrás Minisztérium igazgatása
+Emberi Erőforrások Minisztériuma igazgatása
 
 |
 
@@ -42526,7 +42582,7 @@ Apákat megillető munkaidő-kedvezmény távolléti díjának megtérítése
 
 |
 
-Pénzbeli gyermekvédelmi támogatások
+Pénzbeli és természetbeni gyermekvédelmi támogatások
 
 |
 
@@ -61884,7 +61940,7 @@ K I A D Á S I F Ő Ö S S Z E G :
 
 |
 
-14 917 107,8
+15 013 280,9
 
 |
 
@@ -61892,7 +61948,7 @@ B E V É T E L I F Ő Ö S S Z E G :
 
 |
 
-14 340 947,1
+14 437 120,2
 
 |
 
@@ -61900,4 +61956,4 @@ A FŐÖSSZEGEK EGYENLEGE :
 
 |
 
--576 160,7
+–576 160,7

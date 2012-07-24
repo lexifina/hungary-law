@@ -34,4 +34,4 @@ gyakorolja.
 
 (7) A Nemzeti Adó- és Vámhivatal fejezet tekintetében a fejezetet irányító szerv vezetőjének az (1) bekezdésben megjelölt jogait és kötelezettségeit a NAV elnöke, szabályozási jogait és kötelezettségeit az adópolitikáért felelős miniszter gyakorolja.
 
-(8) Az Országgyűlés fejezet 8–9. és 10. címben, a Közigazgatási és Igazságügyi Minisztérium fejezet 24–25. címeiben, a Miniszterelnökség fejezet 3. címében, a Nemzeti Erőforrás Minisztérium fejezet 21. címeiben megjelölt támogatások folyósításáról az államháztartásért felelős miniszter gondoskodik.
+(8) Az Országgyűlés fejezet 8–9. és 10. címben, a Közigazgatási és Igazságügyi Minisztérium fejezet 24–25. címeiben, a Miniszterelnökség fejezet 3. címében, az Emberi Erőforrások Minisztériuma fejezet 21. címeiben megjelölt támogatások folyósításáról az államháztartásért felelős miniszter gondoskodik.
