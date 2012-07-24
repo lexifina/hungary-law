@@ -1,4 +1,4 @@
-191. § (1) A Kormánytisztviselői Döntőbizottság elnökét és helyettesét, valamint tagjait (közszolgálati biztosok) a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatára a miniszterelnök nevezi ki határozatlan időre.
+191. § (1) A Kormánytisztviselői Döntőbizottság elnökét és helyettesét, valamint tagjait (közszolgálati biztosok) a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki határozatlan időre.
 
 (2) A Kormánytisztviselői Döntőbizottság tagja az lehet, aki
 

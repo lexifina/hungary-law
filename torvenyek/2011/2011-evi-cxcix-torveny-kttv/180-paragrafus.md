@@ -14,7 +14,7 @@ f) munkaügyi per kapcsán az eljáró bíróság,
 
 g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közszolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a nyomozó hatóság, az ügyész és a bíróság,
 
-h) az ügyészi törvényességi feladatkörében eljárva az ügyész,
+h) törvényességi ellenőrzési feladatkörében eljárva az ügyész,
 
 i) a személyes adatok kezelésével összefüggésben a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
 
