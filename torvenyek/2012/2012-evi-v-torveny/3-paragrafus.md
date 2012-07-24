@@ -15,3 +15,5 @@ b) a kártérítési igény érvényesítésére a Kttv., valamint a közszolgá
 (6) E törvény hatálybalépésekor folyamatban lévő felmentések esetén a munkavégzési kötelezettség alóli mentesítés idejére a közszolgálati tisztviselő átlagkeresetére jogosult.
 
 (7) Az Országos Közigazgatási Vizsgabizottság Elnöksége megszűnik és az Országos Közigazgatási Vizsgabizottság Elnökségének tagjai (ideértve az elnököt is) a Közigazgatási Továbbképzési Kollégium tagjává válnak. Az Országos Közigazgatási Vizsgabizottság Elnökségének, illetve Elnökének jogszabályban előírt feladatait a Közigazgatási Továbbképzési Kollégium, illetve annak Elnöke látja el. E rendelkezést 2012. évben kell alkalmazni.
+
+(8) A 2012. július 1-jét megelőzően a Magyar Közigazgatási Ösztöndíj keretében létesített ösztöndíjas jogviszonyra a Kttv. 47. § (5) bekezdése nem alkalmazható az ösztöndíjas jogviszony fennállásáig.
