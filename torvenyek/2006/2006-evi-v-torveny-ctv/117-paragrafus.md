@@ -13,3 +13,5 @@ azt harminc napon belül jelentse be a cégbíróságnak.
 (3) Amennyiben a cég vezető tisztségviselője és tagjai elérhetőek, a cégbíróság felhívja a vezető tisztségviselőt és a tagokat a cég vagyonára és kötelezettségeire vonatkozó információk közlésére. Az együttműködési kötelezettség megszegése esetén a cégbíróság a 98. § (5) bekezdés szerinti jogkövetkezményeket alkalmazza.
 
 (4) A cégbíróság határidő tűzésével felhívja a vezető tisztségviselőt, hogy gondoskodjon az iratok elhelyezéséről és az adózás rendjéről szóló törvény szerinti kötelezettségek teljesítéséről, és ezek megtörténtét a cégbíróságnál igazolja. Amennyiben a vezető tisztségviselő határidőben nem tett eleget ezen kötelezettségének, a cégbíróság erről haladéktalanul, elektronikus úton értesíti az állami adóhatóságot.
+
+(5) Az (1) bekezdés szerinti végzés meghozatalára fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.

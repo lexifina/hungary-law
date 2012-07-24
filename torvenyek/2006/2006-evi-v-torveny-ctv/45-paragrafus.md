@@ -4,7 +4,7 @@
 
 (3) Ha a bíróság a cégbejegyzési kérelem, valamint mellékletei megvizsgálására nyitva álló határidő lejártakor, az 1. számú mellékletben felsorolt okirat hiánya ellenére az elutasító végzést nem adta ki, a hiányosságok pótlását a 46. §-ban foglaltak szerint kell elrendelnie.
 
-(4) Az (1)–(2) bekezdés szerinti eljárásra bírósági titkár, fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
+(4) Az (1)–(2) bekezdés szerinti eljárásra fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
 
 (5) Ha a cégbejegyzési kérelmet elutasító végzés közlését követően nyolc napon belül ismételten kérik a cég bejegyzését, az elutasításhoz fűződő jogkövetkezmények nem alkalmazhatóak, és a korábbi eljárás során benyújtott okiratokat ismételten fel lehet használni az új bejegyzési kérelemhez. A határidő elmulasztása miatt igazolásnak nincs helye.
 

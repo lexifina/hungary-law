@@ -42,4 +42,4 @@ n) a kényszertörlési eljárás kezdő időpontját és befejezését.
 
 (8) A hivatalból történő bejegyzés, valamint közzététel az (5)–(7) bekezdésben meghatározott esetekben is irányadó.
 
-(9) A 24. § (5) bekezdésében, a 25. § (2) bekezdésében, valamint a 26. § (4)–(7) bekezdésében említett tények bejegyzésére bírósági titkár, fogalmazó vagy bírósági ügyintéző önállóan is jogosult.
+(9) A 24. § (5) bekezdésében, a 25. § (2) bekezdésében, valamint a 26. § (1) bekezdés a), b), f)–l) pontjaiban említett tények bejegyzésére fogalmazó vagy bírósági ügyintéző önállóan is jogosult.

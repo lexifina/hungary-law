@@ -10,7 +10,7 @@ a cégbíróság – a 62. § (4) bekezdés figyelembevételével – a céget t
 
 (3) A cégbíróság más közhiteles vagy közérdekvédelmi célból vezetett nyilvántartást vezető szervezet – különösen a járműnyilvántartást vezető szerv, a zálogjogi nyilvántartást vezető szerv – megkeresésével megvizsgálja, hogy cég jog jogosultjaként van-e bejegyezve, vagy a javára, illetve érdekében tény van-e feljegyezve. A cégbíróság megkeresi a cég számláit vezető pénzforgalmi szolgáltatókat a cég számlakövetelésével és egyéb pénzfizetés teljesítésére vonatkozó követelésével kapcsolatos adatszolgáltatás teljesítése érdekében.
 
-(4) A (2)–(3) bekezdésben meghatározott adatszolgáltatatást az érintett szervezetek soron kívül és ellenszolgáltatás nélkül kötelesek teljesíteni.
+(4) A (2)–(3) bekezdésben meghatározott adatszolgáltatatást az érintett szervezetek soron kívül és ellenszolgáltatás nélkül kötelesek teljesíteni. A (2) és (3) bekezdés szerinti lekérdezésre, megkeresésre fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
 
 (5) Amennyiben a (2)–(3) bekezdésben említett szervezetek értesítése vagy a 117. § szerint tett bejelentés alapján a cégbíróság megállapítja, hogy a cég vagyona előreláthatóan fedezi a várható felszámolási költségeket, vagy a cégnek valószínűsíthetően fedezetelvonó ügylet miatt nincs vagyona, a cégbíróság a kényszertörlési eljárást megszünteti, és kezdeményezi a cég ellen felszámolási eljárás megindítását.
 

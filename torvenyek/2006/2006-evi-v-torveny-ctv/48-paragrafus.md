@@ -2,7 +2,7 @@
 
 (2) A bejegyzési kérelemhez – a cégnyilvánosság alapelvének teljesítése, illetve az illetékes adóhatósághoz való továbbítás végett – csatolandó okiratok felsorolását a 3. számú melléklet tartalmazza. A jogi képviselő a bejegyzési kérelemben nyilatkozik arról, hogy a csatolandó okiratok törvényességi szempontú vizsgálatát elvégezte, azok megfelelőségét szavatolja. A jogi képviselőnek a törvényességi szempontú vizsgálatára vonatkozó nyilatkozatát a bejegyzési kérelemnek tartalmaznia kell.
 
-(3) A cég bejegyzésére irányuló kérelem érdemi vizsgálatát bírósági titkár, fogalmazó, vagy bírósági ügyintéző önállóan lefolytathatja és a bejegyzési kérelmet elutasító végzés meghozatalára is önálló aláírási joggal jogosult. Ugyanez irányadó a többi olyan végzés meghozatalára is, amely ellen külön fellebbezésnek van helye.
+(3) A cég bejegyzésére irányuló kérelem érdemi vizsgálatát fogalmazó, vagy bírósági ügyintéző önállóan lefolytathatja és a bejegyzési kérelmet elutasító végzés meghozatalára is önálló aláírási joggal jogosult. Ugyanez irányadó a többi olyan végzés meghozatalára is, amely ellen külön fellebbezésnek van helye.
 
 (4) A bejegyzési kérelem elbírálásáról a cégbíróság a bejegyzési kérelem érkezését követően, az adószám megállapításától számított egy munkaórán belül határoz. A cégbíróság e határidőn belül kezdeményezi a bejegyzést elrendelő, illetőleg a bejegyzési kérelmet elutasító végzés jogi képviselő részére történő kézbesítését. A kérelem elbírálására nyitva álló határidő számításának kezdő időpontja munkanapokon reggel 9 óra.
 

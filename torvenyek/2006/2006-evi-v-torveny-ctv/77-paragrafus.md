@@ -14,7 +14,7 @@ c) az kéri, akinek az eljárás lefolytatásához jogi érdeke fűződik és e 
 
 (3) A cégbíróság a kérelmet elutasítja, ha a kérelem nem felel meg az (1) bekezdésben foglalt feltételeknek.
 
-(4) Az eljárás során a kérelmező a kérelmét bármikor visszavonhatja. Ilyen esetben az eljárást meg kell szüntetni. Az eljárás során felmerült költségeket a Pp. általános szabályai szerint a kérelmező viseli.
+(4) Az eljárás során a kérelmező a kérelmét bármikor visszavonhatja. Ilyen esetben az eljárást meg kell szüntetni. Az eljárás során felmerült költségeket a Pp. általános szabályai szerint a kérelmező viseli. Az eljárás megszüntetésére fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
 
 (5) A (4) bekezdésben meghatározott esetben, illetve ha a kérelem elutasítására került sor, a cégbíróság az eljárást hivatalból megindíthatja, ha a törvényességi felügyeleti eljárásnak hivatalból is helye van.
 

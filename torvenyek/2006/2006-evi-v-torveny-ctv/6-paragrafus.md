@@ -6,7 +6,7 @@
 
 (4) A névfoglalás egyszeri alkalommal 8 nappal meghosszabbodik, ha ugyan a hatvan napos határidő lejárt, a cégnevet lefoglaló jogalany bejegyzési kérelmét elutasították, de azt 8 napon belül ismételten beadja.
 
-(5) A névfoglalásra vonatkozó eljárásra bírósági titkár, fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
+(5) A névfoglalásra vonatkozó eljárásra fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
 
 4. CÍM
 
