@@ -4,6 +4,6 @@
 
 ## Igazgatóság
 
-14. § (1) Az Eximbank-nál és a Mehib Rt.-nél igazgatóság választására nem kerül sor és az igazgatóság Gt.-ben meghatározott jogait egy vezető tisztségviselő (vezérigazgató) gyakorolja (Gt. 247. §).
+14. § (1) Az Eximbank és a Mehib Rt. ügyvezető szerve az igazgatóság, amely az igazgatóság elnökéből és további igazgatósági tagokból áll.
 
-(2)
+(2) Az Eximbank igazgatósági tagja egyidejűleg a Mehib Rt. igazgatósági tagjává, a Mehib Rt. igazgatósági tagja egyidejűleg az Eximbank igazgatósági tagjává jelölhető.

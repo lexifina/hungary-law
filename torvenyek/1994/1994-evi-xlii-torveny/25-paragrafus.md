@@ -8,6 +8,6 @@
 
 (3) A Bit. 157. §-ának (1) bekezdésében meghatározott szervek mellett a (2) bekezdés szerinti kormányrendeletben előírt feltételekkel végzett biztosítási tevékenységgel kapcsolatban nem áll fenn a biztosítási titoktartási kötelezettség az államháztartásért felelős miniszter által vezetett minisztériummal szemben.
 
-(4) A Mehib Rt. hitelt csak biztosítási tevékenységéhez kapcsolódóan és a közgyűlés előzetes hozzájárulásával vehet fel.
+(4) A Mehib Rt. hitelt csak biztosítási tevékenységéhez kapcsolódóan és a miniszter előzetes hozzájárulásával vehet fel.
 
 (5)
