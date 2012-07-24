@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-181-00-00
 | 2012-04-28 | 2012. évi XXXVIII. törvény | 2011-181-00-00.5 |
 | 2012-05-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-181-00-00.6 |
 | 2012-06-29 | 2012. évi LXXXV. törvény | 2011-181-00-00.7 |
+| 2012-07-24 | 2012. évi CXVII. törvény | 2011-181-00-00.8 |

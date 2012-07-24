@@ -2,7 +2,9 @@
 
 a) a felszámolási eljárást lefolytató bíróságnak a szervezet megszüntetéséről szóló jogerős végzése vagy
 
-b) a szervezet feloszlatásáról, megszüntetésről vagy megszűnése megállapításáról rendelkező jogerős ítélet
+b) a szervezet feloszlatásáról, megszüntetésről vagy megszűnése megállapításáról rendelkező jogerős ítélet vagy
+
+c) az egyszerűsített törlési eljárás befejezését követően.
 
 alapján.
 

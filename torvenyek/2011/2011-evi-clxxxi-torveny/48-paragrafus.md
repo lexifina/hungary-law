@@ -4,7 +4,7 @@
 
 (2) Az alapítvány nyilvántartásba vétele iránti kérelemben nyilatkozni kell a következőkről is:
 
-a) az alapítvány típusáról (alapítvány, a pártok működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítvány),
+a) az alapítvány típusáról,
 
 b) az alapítvány vagyonfelhasználási módjáról, a felhasználható vagyon mértékéről,
 

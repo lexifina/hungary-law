@@ -4,7 +4,7 @@
 
 a) az alapító nem él a kezelő szerv (szervezet) kijelölésének jogával vagy az alapító által kijelölt szerv (szervezet) a feladat ellátását nem vállalja,
 
-b) az alapító halála vagy jogutód nélküli megszűnése miatt az alapítói jogok gyakorlására nem kerülhet sor.
+b) az alapítói jogokat a bíróság gyakorolja.
 
 (2) Ha a kezelő szerv (szervezet) kijelölésének feltételei fennállnak, a bíróság az ügyész indítványára vagy az egyéb érdekelt kérelmére az eljárást megindítja.
 

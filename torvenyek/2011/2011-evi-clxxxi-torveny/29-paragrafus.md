@@ -8,6 +8,12 @@ b) a jogi képviselő által benyújtott kérelem nem tartalmazza a 20. § (1) b
 
 c)
 
+d) a kérelmezőnek nincs perbeli jogképessége,
+
+e) a szervezet alapításában olyan alapító vesz részt, aki a szervezet alapításában törvény alapján nem vehet részt vagy
+
+f) a kérelmet nem a jogszabályban arra feljogosított személy nyújtja be.
+
 (2) A bíróság a nyilvántartásba vétel iránti kérelmet hatvan napon belül elutasítja, ha a kérelmező a hiánypótlási felhívást követően a kitűzött határidő alatt a hiánytalan kérelmet (annak hiánypótlási felhívásban megjelölt részét) nem nyújtotta be, és emiatt a kérelem nem bírálható el.
 
 (3) Ha a nyilvántartásba vételi kérelem elutasítását követően harminc napon belül ismételten kérik a szervezet nyilvántartásba vételét, a korábbi eljárásban benyújtott – hiánypótlási felhívással nem érintett – iratokat nem kell ismételten benyújtani, azok az új eljárásban felhasználhatóak. A határidő elmulasztása miatt igazolásnak helye nincs.

@@ -16,7 +16,7 @@ d) a szervezet székhelyét,
 
 e) a szervezet képviselőjének nevét, lakóhelyét,
 
-f) a képviseleti jog terjedelmét,
+f) a képviseleti jog terjedelmét és gyakorlásának módját,
 
 g) a szervezet célját,
 

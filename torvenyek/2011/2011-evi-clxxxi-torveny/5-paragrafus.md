@@ -4,8 +4,14 @@
 
 (2) A bírósági titkár első fokon önállóan önálló aláírási joggal eljárhat, érdemi határozatot hozhat a törvényben szabályozott polgári nemperes eljárásokban.
 
-(3) Az e törvényben szabályozott polgári nemperes eljárásokban szünetelésnek az e törvényben meghatározott esetekben van helye.
+(3) Az e törvényben szabályozott polgári nemperes eljárásokban az eljárás szünetel, ha
 
-(4) Az e törvényben szabályozott polgári nemperes eljárásokban a Pp. határidők számításáról rendelkező 104/A. §-át alkalmazni kell.
+a) a kérelmező nem biztosítja, hogy részére (képviselő, kézbesítési megbízott részére) a hivatalos iratok kézbesíthetőek legyenek,
 
-(5) A beadvány és mellékletei benyújtása során a Pp. 93. § (3) bekezdését megfelelően alkalmazni kell.
+b) a belföldi idézési címmel és belföldi idézésű című képviselővel sem rendelkező kérelmező a kérelem – ide nem értve a szervezet nyilvántartásba vételére irányuló kérelmet – benyújtásával egyidejűleg nem jelöl meg belföldi idézési című kézbesítési megbízottat (Pp. 100/A. §) vagy az irat a kézbesítési megbízott részére nem volt kézbesíthető.
+
+(4) Az eljárás szünetelésről és az eljárás szünetelés okán történő megszűnésről nem kell végzést hozni.
+
+(5) Az e törvényben szabályozott polgári nemperes eljárásokban a Pp. határidők számításáról rendelkező 104/A. §-át alkalmazni kell.
+
+(6) A beadvány és mellékletei benyújtása során a Pp. 93. § (3) bekezdését megfelelően alkalmazni kell, azzal, hogy a szervezet által működési körében kiállított, szabályszerűen aláírt okirat is benyújtható.
