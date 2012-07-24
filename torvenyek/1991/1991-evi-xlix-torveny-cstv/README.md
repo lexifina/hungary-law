@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-49-00-00
 | 2012-06-29 | 2012. évi LXXXV. törvény | 1991-49-00-00.71 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 1991-49-00-00.72 |
 | 2012-07-16 | 2012. évi CIV. törvény | 1991-49-00-00.73 |
+| 2012-07-24 | 2012. évi CXVII. törvény | 1991-49-00-00.74 |
