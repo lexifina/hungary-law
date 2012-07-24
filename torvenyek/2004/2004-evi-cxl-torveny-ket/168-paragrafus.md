@@ -26,8 +26,24 @@ k) adatelérési felület biztosításával kapcsolatos szabályozott elektronik
 
 l) elektronikus tájékoztatási szolgáltatás,
 
-m) elektronikus fizetési és elszámolási rendszer, valamint
+m) elektronikus fizetési és elszámolási rendszer,
 
-n) jogszabályban kötelezően nyújtandóként előírt további szabályozott elektronikus ügyintézési szolgáltatások.
+n) iratérvényességi nyilvántartás,
+
+o) kormányzati hitelesítés-szolgáltatás,
+
+p) kormányzati elektronikus aláírás ellenőrzési szolgáltatás,
+
+q) központi azonosítási ügynök,
+
+r) ÁNYK űrlapbenyújtás támogatási szolgáltatás,
+
+s) azonosításra visszavezetett dokumentumhitelesítés,
+
+t) elektronikus irat hiteles papír alapú irattá alakítása,
+
+u) papír alapú irat átalakítása hiteles elektronikus irattá,
+
+v) jogszabályban kötelezően nyújtandóként előírt további szabályozott elektronikus ügyintézési szolgáltatások.
 
 (2) Jogszabály egyes szabályozott elektronikus ügyintézési szolgáltatások nyújtását más szervek számára is előírhatja.

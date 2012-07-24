@@ -18,7 +18,7 @@ dd) az eljárási költség megállapítását, ha arról a hatóság nem külö
 
 de) az eljárási költségek viseléséről szóló döntést, ha arról a hatóság nem külön dönt,
 
-df) a kötelezettség teljesítésének határnapját vagy határidejét és az önkéntes teljesítés elmaradásának jogkövetkezményeit, ideértve a fizetési kötelezettséget megállapító döntésben a késedelmipótlék-fizetési kötelezettségről és annak mértékéről szóló tájékoztatást,
+df) a kötelezettség teljesítésének határnapját vagy határidejét és az önkéntes teljesítés elmaradásának jogkövetkezményeit, ideértve a fizetési kötelezettséget megállapító döntésben a késedelmipótlék-fizetési kötelezettségről és annak mértékéről szóló tájékoztatást, valamint a 131. § (1a) bekezdés szerinti esetben a közérdekű munkával való megváltás szabályaival kapcsolatos tájékoztatást,
 
 dg) a határozatban megállapított fizetési kötelezettség és a fellebbezési illeték vagy díj mértékéről és megfizetésének, lerovásának módjairól szóló tájékoztatást,
 

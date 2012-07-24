@@ -10,4 +10,4 @@
 
 (3) A közigazgatási hatóság az ügyfél jogát és jogos érdekét csak a közérdek és az ellenérdekű ügyfél jogának, jogos érdekének védelméhez szükséges mértékben korlátozza.
 
-(4) A közigazgatási hatóság védi az ügyfelek jóhiszeműen szerzett és gyakorolt jogait, ezek korlátait e törvény határozza meg.
+(4) A közigazgatási hatóság védi az ügyfelek jóhiszeműen szerzett és gyakorolt jogait, ezek korlátait törvény határozza meg.

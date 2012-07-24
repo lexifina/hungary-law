@@ -26,6 +26,14 @@ hatálybalépését követően indult ügyekben és megismételt eljárásokban 
 
 (7) E törvénynek a Módtv. 47. §-ával megállapított, az elektronikus kapcsolattartásra és elektronikus ügyintézésre vonatkozó rendelkezéseit az e rendelkezések hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
+(7a) A 2012. március 31-én elektronikus kapcsolattartás, valamint elektronikus ügyintézés biztosítására köteles hatóságok 2012. december 31-ig kötelesek
+
+a) az elektronikus kapcsolattartás, illetve az elektronikus ügyintézés lehetőségét a 2012. március 31-én hatályos szabályoknak megfelelően biztosítani, mindaddig, amíg az e törvénynek való megfelelést nem biztosítják,
+
+b) megteremteni az e törvénynek való megfelelés feltételeit.
+
+(7b) A 2012. március 31-én létező ügyfélkapu 2012. április 1-jét követően is fennmarad, az ügyfélkapuval rendelkező természetes személyek adatait az ügyfélkapu regisztrációs adatbázist kezelő szerv az ügyfélkapu regisztrációs adatbázisban kezeli tovább, kivéve, ha a természetes személy az ügyfélkapu és az ahhoz kapcsolódó személyes adatai törlését az ügyfélkapu regisztrációs adatbázist kezelő szervtől kéri.
+
 (8) A Módtv. 47. §-ának hatálybalépésekor már nyújtott nem engedélyköteles elektronikus ügyintézési szolgáltatások tekintetében e törvénynek a Módtv. 47. §-ával megállapított rendelkezéseit 2013. január 1-jétől kell alkalmazni. Az ilyen szolgáltatásokat a felügyeletnek 2013. január 1-jéig kell bejelenteni.
 
 (9) A Módtv. 47. §-ának hatálybalépésekor már nyújtott engedélyköteles elektronikus ügyintézési szolgáltatás 2013. január 1. napjától akkor folytatható, ha a szolgáltatást nyújtó az e törvény szerinti engedélyt eddig az időpontig megszerezte.

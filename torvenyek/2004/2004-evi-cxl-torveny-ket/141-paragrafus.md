@@ -18,7 +18,7 @@ g) a hatóság a jogutódlásra tekintettel a teljesítési határidőt a végre
 
 h) a végrehajtást foganatosító szerv a kötelezettel szemben felszámolási eljárást kezdeményezett, illetve a kötelezett ellen felszámolási eljárás indult,
 
-i) a meg nem fizetett közigazgatási bírság közérdekű munkával történő megváltását elrendelő határozatban foglaltaknak eleget tett, vagy
+i)
 
 j) törvény vagy kormányrendelet a végrehajtás megszüntetését egyéb okból lehetővé teszi.
 

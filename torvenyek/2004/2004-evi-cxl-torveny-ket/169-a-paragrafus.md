@@ -14,6 +14,12 @@ a) más hatóságok elektronikus tájékoztatásához, illetve elektronikus kapc
 
 b) az ügyfél azonosítását követően egyedi hatósági ügye intézéséhez internetes kapcsolati lehetőséget, szakmai és informatikai segítséget nyújthat.
 
-(3) Jogszabályban arra feljogosított szervezet az ügyfél számára az (1) bekezdés b) és c) pontjában és a (2) bekezdés a) és b) pontjában meghatározott hatósági szolgáltatást biztosíthatja.
+(3) Jogszabályban arra feljogosított szervezet az ügyfél számára az alábbi hatósági szolgáltatásokat biztosíthatja:
+
+a) az (1) bekezdés a) pontjában meghatározott hatósági szolgáltatásból a beadvány elektronikus irattá alakítását a vonatkozó szabályozott elektronikus ügyintézési szolgáltatás szabályai szerint, az elektronikus irat hatóság nevében történő átvételét és – amennyiben ennek informatikai feltételei adottak – annak a hatóság informatikai rendszerében történő elhelyezését,
+
+b) az (1) bekezdés b) és c) pontjában meghatározott hatósági szolgáltatást, valamint
+
+c) a (2) bekezdés a) és b) pontjában meghatározott hatósági szolgáltatást.
 
 (4) Az (1) bekezdés b) és c) pontjában és a (2) bekezdés a) és b) pontjában meghatározott hatósági szolgáltatás teljesítésére jogszabály az érintett hatóságok számára soronkívüliséget vagy rövidített ügyintézési határidőt is megállapíthat.

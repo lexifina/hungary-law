@@ -6,6 +6,10 @@ b) az ügyintézési rendelkezést nyilvántartó szervet,
 
 c) az állam által kötelezően nyújtandó szabályozott elektronikus ügyintézési szolgáltatások szolgáltatóit.
 
+d) az ügyfélkapu regisztrációs szervet vagy szerveket,
+
+e) az ügyfélkapu regisztrációs adatbázist kezelő szervet vagy szerveket.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
 a) az elektronikus ügyintézés és az elektronikus kapcsolattartás részletes szabályait,

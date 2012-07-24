@@ -33,3 +33,5 @@ e) a közigazgatás-fejlesztésért felelős miniszter, hogy rendeletben állap�
 f) a közigazgatás-fejlesztésért felelős miniszter, hogy rendeletben állapítsa meg a hatósági letét részletes szabályait.
 
 (4) Felhatalmazást kapnak a feladatkörrel rendelkező miniszterek, hogy rendeletben határozzák meg azon jogszabályi rendelkezések körét, amelyek megsértése esetén a 94. § (2) bekezdés b) pontja alkalmazásának van helye.
+
+(5) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter arra, hogy a közérdekű munka végrehajtásának, a közérdekű munka foglalkoztatói nyilvántartás részére történő adatközlés formájának és módjának, valamint az adatközlés rendjének, a közérdekű munka foglalkoztatói nyilvántartását vezető szerv által teljesített adatszolgáltatás rendjének részletes szabályait – a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben – állapítsa meg.

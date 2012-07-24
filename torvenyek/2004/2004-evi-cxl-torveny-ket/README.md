@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-140-00-00
 | 2012-07-03 | 2012. évi LXVI. törvény | 2004-140-00-00.29 |
 | 2012-07-06 | 2012. évi XCIII. törvény | 2004-140-00-00.30 |
 | 2012-07-07 | 2012. évi XCVI. törvény | 2004-140-00-00.31 |
+| 2012-07-24 | 2012. évi CXVII. törvény | 2004-140-00-00.32 |

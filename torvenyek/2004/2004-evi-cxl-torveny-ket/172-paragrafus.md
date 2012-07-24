@@ -44,11 +44,11 @@ j) szabályozott elektronikus ügyintézési szolgáltatás: az alábbi elektron
 
 9. nyilatkozattételi jogosultsággal kapcsolatos elektronikus igazolás szolgáltatása,
 
-10. hozzáférés az elektronikus iratkezelő rendszeréhez,
+10. 10. hozzáférés az elektronikus iratkezelő rendszerhez,
 
-11. hozzáférés olyan elektronikus nyilvántartások adataihoz, amely elektronikus nyilvántartás adatait jogszabály alapján más közigazgatási szerv, bíróság vagy ügyészség is jogosult előzetes döntés nélkül vagy teljes mértékben automatizálható döntést követően megismerni, és abból adatszolgáltatást kérni,
+11. hozzáférés biztosítása elektronikus nyilvántartások adataihoz,
 
-12. hozzáférés az adott informatikai rendszer működésével kapcsolatos adatokhoz a közigazgatás működésének optimalizálását végző központi informatikai rendszerek felé,
+12. hozzáférés biztosítása az informatikai rendszer működésével kapcsolatos adatokhoz,
 
 13. elektronikus irat hiteles papír alapú irattá alakítása,
 
@@ -58,7 +58,7 @@ j) szabályozott elektronikus ügyintézési szolgáltatás: az alábbi elektron
 
 16. elektronikus iratról hiteles, más formátumú elektronikus másolat készítése,
 
-17. elektronikus iratok kezelése, nyilvántartása,
+17. elektronikus iratok kezelése,
 
 18. a hatóság informatikai rendszeréhez automatikus adatelérési felület (hozzáférés) biztosítása más hatóság számára,
 
@@ -68,9 +68,19 @@ j) szabályozott elektronikus ügyintézési szolgáltatás: az alábbi elektron
 
 21. elektronikus tájékoztatási szolgáltatás,
 
-22. elektronikus formában tett nyilatkozat személyhez rendelése, valamint
+22. elektronikus dokumentum titkosítása,
 
-23. az e törvényben vagy e törvény felhatalmazása alapján kiadott kormányrendeletben szabályozott elektronikus ügyintézési szolgáltatásként nevesített további elektronikus ügyintézéssel kapcsolatos szolgáltatás,
+23. elektronikus űrlapok kezelése,
+
+24. elektronikus aláírás ellenőrzési szolgáltatás,
+
+25. informatikai háttér szolgáltatása,
+
+26. azonosításra visszavezetett dokumentumhitelesítés,
+
+27. elektronikus fizetési és elszámolási rendszer,
+
+28. az e törvényben vagy e törvény felhatalmazása alapján kiadott kormányrendeletben szabályozott elektronikus ügyintézési szolgáltatásként nevesített további elektronikus ügyintézéssel kapcsolatos szolgáltatás.
 
 k) szabályozott elektronikus ügyintézési szolgáltató:
 
