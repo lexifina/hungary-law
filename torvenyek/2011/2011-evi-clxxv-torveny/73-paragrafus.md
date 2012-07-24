@@ -19,3 +19,5 @@ d) az Alap testületeinek tevékenységével és az Alap működésével kapcsol
 e) a Tanács tagjának és a kollégium tagjának járó költségátalány és a költségtérítése elszámolásának szabályait az államháztartásért felelős miniszterrel egyetértésben,
 
 rendeletben szabályozza.
+
+(3) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a Fővárosi Törvényszék Gazdasági Hivatalának a központi költségvetéssel történő, a 10/D. § (2) bekezdés szerinti elszámolásának, valamint a központi költségvetésből a pénzösszeg folyósításának részletes szabályait rendeletben állapítsa meg.

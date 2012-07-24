@@ -1,12 +1,12 @@
 ## II. Fejezet
 
-## A CIVIL SZERVEZETEK CSŐD-, FELSZÁMOLÁSI ÉS VÉGELSZÁMOLÁSI ELJÁRÁSA
+## A CIVIL SZERVEZETEK CSŐD-, FELSZÁMOLÁSI ÉS VÉGELSZÁMOLÁSI ELJÁRÁSA, EGYSZERŰSÍTETT TÖRLÉSI ELJÁRÁSA
 
 9. § (1) A civil szervezet végelszámolására – törvény eltérő rendelkezése hiányában – a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény (a továbbiakban: Ctv.) rendelkezéseit, kényszer-végelszámolására a Ctv. 2012. február 29-én hatályos 116. § (3)–(6) bekezdését, 117. §-át és 118. §-át az e törvényben szabályozott eltérésekkel kell alkalmazni.
 
 (2) A civil szervezet végelszámolására irányuló kérelmet űrlapon kell benyújtani. Az eljárás lefolytatására a civil szervezetet nyilvántartó bíróság illetékes.
 
-(3) A végelszámoló a végelszámolás iránti kérelemben köteles bejelenteni a végelszámolás megindítását elrendelő határozat keltét, a végelszámolás kezdő időpontját, a végelszámoló nevét (cégnevét) és lakóhelyét (székhelyét), ha a végelszámoló nem természetes személy, akkor a cégjegyzékszámát és a megbízásából eljáró természetes személy nevét és lakóhelyét, valamint a civil szervezet ügyintéző és képviseleti szerve jogviszonyának megszűnését. A bíróság a végelszámolás megindításáról végzést hoz, melynek közzétételéről a bíróság a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvényben meghatározott országos névjegyzék útján gondoskodik. A végelszámolás elrendelésekor a nyilvántartásban a „v.a.” toldatot fel kell tüntetni.
+(3) A végelszámoló a végelszámolás iránti kérelemben köteles bejelenteni a végelszámolás megindítását elrendelő határozat keltét, a végelszámolás kezdő időpontját, a végelszámoló nevét (cégnevét) és lakóhelyét (székhelyét), ha a végelszámoló nem természetes személy, akkor a cégjegyzékszámát és a megbízásából eljáró természetes személy nevét és lakóhelyét, valamint a civil szervezet ügyintéző és képviseleti szerve jogviszonyának megszűnését. A bíróság a végelszámolás megindításáról végzést hoz, melynek közzétételéről a bíróság a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvényben meghatározott országos névjegyzék útján gondoskodik. A végelszámolás elrendelésekor a nyilvántartásban a „v.a.” toldatot fel kell tüntetni. A civil szervezet végelszámolójának elsősorban a civil szervezet volt vezető tisztségviselőjét kell kirendelni.
 
 (4) A civil szervezetek vonatkozásában egyszerűsített végelszámolási eljárás lefolytatásának nincs helye.
 
