@@ -1,0 +1,1 @@
+## 4. § A támogató képviseletében eljáró szervezet (a továbbiakban: szervezet) a miniszter kérésére az adott önkormányzati beruházás megvalósításának átvállalásával kapcsolatos állásfoglalást ad, amelyhez csatolja a Magyar Államkincstárnak az érintett beruházásra rendelkezésre álló jövőbeni fedezet mértékéről való tájékoztatását.
