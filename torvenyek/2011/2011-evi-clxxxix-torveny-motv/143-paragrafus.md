@@ -10,7 +10,7 @@ b) a helyi önkormányzat tulajdonába tartozó vagyonelemek nyilvántartásána
 
 c)
 
-d)
+d) a 16. §-ban meghatározott esetekben az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő beruházás megvalósítása érdekében szükséges intézkedéseket;
 
 e) a helyi önkormányzatok törvényességi felügyeletének részletes szabályait.
 

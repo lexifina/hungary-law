@@ -8,4 +8,4 @@
 
 (4) A 27. § (2) bekezdés, a 28–40. §, a 64. §, a 69–70. §, a 72–78. §, a 143. § (4) bekezdés f) pontja, a 154. §, a 156. § (3) bekezdése, valamint a 158. § a 2014. évi általános önkormányzati választások napján lép hatályba.
 
-(5) A 16. § és a 143. § (1) bekezdés d) pontja 2012. augusztus 1-jén lép hatályba.
+(5) A 16. § és a 143. § (1) bekezdés d) pontja az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvény hatálybalépésének napján lép hatályba.
