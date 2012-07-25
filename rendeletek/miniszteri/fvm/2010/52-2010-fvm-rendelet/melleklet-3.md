@@ -30,6 +30,6 @@
 
 | hatósági állatorvos |
 
-3. melléklet az 52/2010. (IV. 30.) FVM rendelethez[^28]
+3. melléklet az 52/2010. (IV. 30.) FVM rendelethez[^29]
 
-[^28]: A 3. melléklet a 4/2010. (VII. 5.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^29]: A 3. melléklet a 4/2010. (VII. 5.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.
