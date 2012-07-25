@@ -1,3 +1,1 @@
-106. § A Cnytv. 88. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A szervezet és a szervezet jogi személy szervezeti egységének képviselője – alapítvány esetén az alapító is – a szervezet nyilvántartásban szereplő adatairól másolat, kivonat vagy bizonyítvány kiadását kérheti. A másolat a nyilvántartás valamennyi fennálló és törölt adatát, a kivonat a nyilvántartás fennálló adatait, a bizonyítvány pedig – a kérelemtől függően – a nyilvántartás egyes fennálló vagy törölt adatait hitelesen tanúsítja, illetve azt, hogy valamely meghatározott bejegyzés a nyilvántartásban nem szerepel(t). A másolatot, a kivonatot vagy bizonyítványt jogszabályban meghatározott módon kell elkészíteni.”
+106. §

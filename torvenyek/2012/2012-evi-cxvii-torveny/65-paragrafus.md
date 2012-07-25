@@ -1,5 +1,3 @@
 ## 26. Az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény módosítása
 
-65. § Az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény (a továbbiakban: Áhtm.) 1. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az állami alapító által alapított alapítványt (közalapítványt) továbbá az állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítványt (közalapítványt) az alapítók kérelmére a bíróság – nemperes eljárásban – akkor is megszünteti, ha azt az alapítók arra hivatkozással kérik, hogy az alapítvány, közalapítvány céljainak megvalósítása, feladatának további ellátása központi költségvetési szerv, legalább többségi állami tulajdonban álló közhasznú nonprofit gazdasági társaság, illetve egyéb közfeladatot ellátó szervezet által hatékonyabban megvalósítható. Ez esetben a megszűnt alapítvány, közalapítvány vagyonát – cél szerinti feladatainak további ellátása érdekében – az állami alapító a megszüntetési kérelemben megjelölt központi költségvetési szerv, többségi állami tulajdonban álló közhasznú nonprofit gazdasági társaság, illetve egyéb közfeladatot ellátó szervezet rendelkezésére bocsátja (nonprofit gazdasági társaság esetében apportként).”
+65–68. §
