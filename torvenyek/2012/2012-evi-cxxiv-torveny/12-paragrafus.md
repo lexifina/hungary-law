@@ -1,0 +1,3 @@
+12. § Az Nkt. 27. § (8) bekezdése a következő szöveggel lép hatályba:
+
+„(8) A gyógypedagógiai nevelésben-oktatásban részt vevő nevelési-oktatási intézményben a sajátos nevelési igényű tanulók részére kötelező egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozásokat kell szervezni. A tanuló annyi egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozáson vesz részt, amennyi a sajátos nevelési igényéből eredő hátránya csökkentéséhez szükséges. A kötelező egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozások megszervezésének heti időkeretét a 6. melléklet határozza meg. A heti időkeret a tanítási hetek között a tanuló érdeksérelme nélkül különösen indokolt esetben átcsoportosítható.”

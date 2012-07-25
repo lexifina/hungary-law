@@ -1,0 +1,3 @@
+6. § Az Nkt. 16. § (3) bekezdése a következő szöveggel lép hatályba:
+
+„(3) Az állami fenntartású és az állami feladatellátásban részt vevő alapfokú művészeti iskolában heti hat tanórai foglalkozás biztosított térítési díj ellenében a főtárgy gyakorlatának és elméletének elsajátításához, valamint tanévenkénti egy meghallgatás és egy művészi előadás, továbbá e szolgáltatások körében az iskola létesítményeinek, felszereléseinek használata. Minden esetben ingyenes a halmozottan hátrányos helyzetű, a hátrányos helyzetű tanuló, a testi, érzékszervi, középsúlyos és enyhe értelmi fogyatékos, továbbá az autista tanuló részére az első alapfokú művészetoktatásban való részvétel.”

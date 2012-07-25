@@ -1,0 +1,3 @@
+7. § Az Nkt. 20. § (10) bekezdése a következő szöveggel lép hatályba:
+
+„(10) Ha a települési önkormányzat nem köteles bölcsődét működtetni és a gyermekek száma nem teszi lehetővé az óvodai és bölcsődei csoport külön-külön történő létrehozását, feltéve továbbá, hogy minden, a településen lakóhellyel, ennek hiányában tartózkodási hellyel rendelkező gyermek óvodai felvételi kérelme teljesíthetővé válik, egységes óvoda-bölcsőde hozható létre a legalább második életévüket betöltött, továbbá az óvodai nevelésben ellátható gyermekek közös neveléséhez. Egységes óvoda-bölcsőde szervezeti és szakmai tekintetben önálló intézményegységként működhet minden olyan többcélú intézményben, amely az e §-ban meghatározottak szerint óvodai feladatot is elláthat.”

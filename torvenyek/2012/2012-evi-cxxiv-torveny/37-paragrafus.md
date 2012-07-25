@@ -1,0 +1,1 @@
+37. § Az Nkt. 5. melléklet „Az intézményvezető-helyettes, tagintézmény-vezető, intézményegység-vezető, tagintézményvezető-helyettes, intézményegységvezető-helyettes heti tanóráinak száma (óvodapedagógus esetén óvodai foglalkozásainak száma)” alcím 6. sora e törvény 3. melléklete szerint hatályba.

@@ -1,0 +1,3 @@
+20. § Az Nkt. 66. § (3) bekezdése a következő szöveggel lép hatályba:
+
+„(3) Gyakorló nevelési-oktatási intézményben, gyakorló pedagógiai szakszolgálati intézményben vezetőpedagógusi megbízást az kaphat, akinek pedagógus-munkakör betöltéséhez szükséges felsőfokú iskolai végzettsége és szakképzettsége, továbbá pedagógus-szakvizsgája vagy a munkakör ellátásához szükséges végzettséghez és szakképzettséghez kapcsolódó szakterületen szerzett tudományos fokozata vagy doktori cselekmény alapján szerzett doktori címe, valamint a nevelő-oktató munkában, pedagógiai szakszolgálatban eltöltött legalább ötéves szakmai gyakorlata van.”
