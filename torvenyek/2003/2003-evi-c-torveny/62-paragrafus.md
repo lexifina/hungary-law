@@ -10,7 +10,7 @@ a) azonosítja az érintett piacokon a jelentős piaci erővel rendelkező szolg
 
 b) a jelentős piaci erővel rendelkező szolgáltatóra, szolgáltatókra a XI–XIV. fejezetben foglalt kötelezettségek közül a piacelemzés alapján feltárt versenyt korlátozó akadályok által indokolt, azokkal arányos, legalább egy kötelezettséget ír elő vagy a jelentős piaci erővel rendelkező szolgáltatóra korábban, az e bekezdés szerinti piacelemzés első elvégzését megelőzően jogszabályban, vagy azt követően a határozatában megállapított legalább egy kötelezettséget fenntart, illetve módosítja azt.
 
-(2) Az Elnök a piacmeghatározást és a piacelemzést a miniszter által rendeletben meghatározott alapelvek és az Európai Bizottság harmonizált jogalkalmazásra vonatkozó határozatai és ajánlásai alapján, a versenyjog vonatkozó szabályai szerint végzi el figyelembe véve a földrajzi piacon a versenyfeltételekben, és a fogyasztók jellemzőiben megjelenő eltéréseket.
+(2) Az Elnök a piacmeghatározást és a piacelemzést az Európai Bizottság harmonizált jogalkalmazásra vonatkozó határozatai és ajánlásai alapján, a versenyjog vonatkozó szabályai szerint végzi el figyelembe véve a földrajzi piacon a versenyfeltételekben, és a fogyasztók jellemzőiben megjelenő eltéréseket.
 
 (3) A piacelemzés alapján az Elnök jelentős piaci erővel rendelkező szolgáltatóként azonosítja azt a szolgáltatót, amelyik valamely olyan érintett piacon, amelyen a gazdasági verseny nem hatékony, egyedül vagy más szolgáltatóval közösen gazdasági erőfölényben van, azaz olyan gazdasági helyzetben van, amely lehetővé teszi, hogy a tevékenységét a versenytársaktól, a vevőktől, és végső soron a fogyasztóktól nagymértékben függetlenül folytassa.
 

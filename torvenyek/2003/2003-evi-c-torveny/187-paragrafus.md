@@ -8,6 +8,8 @@ b) a Közösségen belüli nyilvános mobiltelefon-hálózatok közötti barango
 
 c) az Európai Elektronikus Hírközlési Szabályozók Testületének (BEREC) és Hivatalának létrehozásáról szóló, az Európai Parlament és a Tanács 1211/2009/EK rendelete (2009. november 25.)
 
+d) short ügyletekről és a hitel-nemteljesítési csereügyletekkel kapcsolatos egyes szempontokról szóló 236/2012/EU európai parlamenti és tanácsi rendelet
+
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:

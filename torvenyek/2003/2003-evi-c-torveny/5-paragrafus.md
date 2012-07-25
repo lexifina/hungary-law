@@ -14,21 +14,17 @@ g)–h)
 
 i)
 
-j) rendeletben meghatározza a piacmeghatározás, piacelemzés és a jelentős piaci erejű szolgáltatókra vonatkozó kötelezettségek előírása során alkalmazandó alapelveket;
-
-k) az adópolitikáért felelős miniszterrel egyetértésben ellátja a hatósági árszabályozással kapcsolatos feladatokat;
-
-l) figyelemmel kíséri az egyetemes elektronikus hírközlési szolgáltatás (a továbbiakban: egyetemes szolgáltatás) ellátásának helyzetét, és intézkedik a szolgáltatás biztosítása érdekében, lebonyolítja az egyetemes szolgáltatók kiválasztásával kapcsolatos eljárásokat, szerződést köt az egyetemes szolgáltatókkal;
+j)–l)
 
 m)
 
-n) kijelöli a honvédelmi és a katasztrófavédelmi feladatok ellátásában részt vevő elektronikus hírközlési szolgáltatókat, meghatározza a minősített időszaki helyzetekre történő felkészüléssel kapcsolatos feladatokat;
+n)
 
 o)
 
 p)
 
-q) ellátja a hatályban lévő koncessziós szerződésekkel kapcsolatos tevékenységeket;
+q)
 
 r)
 

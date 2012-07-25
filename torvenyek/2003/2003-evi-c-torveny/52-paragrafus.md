@@ -20,6 +20,6 @@ g) a nem azonosítható hívószámokról;
 
 h) a nem harmonizált frekvenciahasználatú rádióalkalmazások rádióberendezéseinek belföldi forgalomba hozataláról.
 
-(3) A hatósági nyilvántartásokban szereplő közérdekű adatokat bárki megismerheti, kivéve, ha jogszabály a hatósági nyilvántartásba való betekintést kifejezetten korlátozza.
+(3) A hatósági nyilvántartásokban szereplő közérdekű adatokat bárki megismerheti, kivéve, ha jogszabály vagy nemzetközi kötelezettségvállalás a hatósági nyilvántartásba való betekintést kifejezetten korlátozza.
 
 (4) A Hatóság jogszabályban hatáskörébe utalt feladatainak körében egyéb nyilvántartásokat vezet a főigazgató által meghatározott egyéb adatokról, az adat- és minősített adatvédelemre, valamint a közérdekű adatok nyilvánosságára vonatkozó jogszabályoknak megfelelően.

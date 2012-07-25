@@ -14,12 +14,6 @@
 
 (3) Amennyiben külön jogszabály alapján a szolgáltatás nyújtásához szükséges rádiófrekvenciák használati jogának megszerzéséhez egyedi használati engedély nem szükséges, a szolgáltatás szabadon nyújtható.
 
-(4) Az elektronikus hírközlési szolgáltató az általa nyújtott elektronikus hírközlési szolgáltatások díjait – az (5) bekezdésben foglalt kivételekkel – az elektronikus hírközlésre vonatkozó szabályok keretei között állapítja meg.
+(4) Az elektronikus hírközlési szolgáltató az általa nyújtott elektronikus hírközlési szolgáltatások díjait az elektronikus hírközlésre vonatkozó szabályok keretei között állapítja meg.
 
-(5) Az elektronikus hírközlési szolgáltatások közül
-
-a) az egyetemes elektronikus hírközlési szolgáltatás díja,
-
-b)–c)
-
-legmagasabb árát a miniszter állapítja meg az árak megállapításáról szóló 1990. évi LXXXVII. törvény rendelkezései szerint.
+(5)

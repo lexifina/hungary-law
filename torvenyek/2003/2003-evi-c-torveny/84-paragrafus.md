@@ -10,7 +10,7 @@
 
 (5) A frekvenciahasználati jogosultság és jog külön jogszabályban meghatározott esetekben és feltételekkel ruházható át.
 
-(6) A polgári célú rádiófrekvenciák használati jogáért a frekvenciakijelöléskor, továbbá használatuk során jogszabályban meghatározott díjat kell fizetni.
+(6) A polgári célú rádiófrekvencia-használati jogáért, jogosultságáért a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól, valamint a frekvenciadíjakról szóló rendelet szerinti díjat kell fizetni.
 
 (7) A frekvenciadíjat oly módon kell megállapítani, hogy az tükrözze az erőforrások optimális felhasználásának biztosítására irányuló igényeket. A díjakat úgy kell megállapítani, hogy azok objektíven megalapozottak, átláthatók és megkülönböztetéstől mentesek, valamint az elérni kívánt cél tekintetében arányosak legyenek és a frekvenciagazdálkodási célok elérését szolgálják.
 

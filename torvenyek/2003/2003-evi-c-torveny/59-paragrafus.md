@@ -1,4 +1,4 @@
-59. § (1) Az eljáró tanács bármelyik fél kérelmére tárgyalást tart, melyen a felek és egyéb érdekeltek személyesen vagy képviselőik útján jelen lehetnek, nyilatkozatot és észrevételt tehetnek, a tárgyalás befejezéséig bizonyítékaikat előterjeszthetik. A tárgyalás nem nyilvános.
+59. § (1) Az 58. § (7) bekezdése szerinti tárgyaláson a felek és egyéb érdekeltek személyesen vagy képviselőik útján jelen lehetnek, nyilatkozatot és észrevételt tehetnek, a tárgyalás befejezéséig bizonyítékaikat előterjeszthetik. A tárgyalás nem nyilvános.
 
 (2) A tárgyalásra szabályszerűen idézettek, értesítettek távolmaradása a tárgyalás megtartását és az ügy elintézését nem gátolja. Távolmaradását azonban az idézett, értesített alapos okkal előzetesen kimentheti, ez esetben az eljáró tanács a tárgyalást elhalaszthatja.
 

@@ -1,4 +1,4 @@
-120. § (1) A kijelölt szolgáltatóval a miniszter egyetemes szolgáltatási szerződést köt, amelyben a felek megállapodnak legalább:
+120. § (1) A kijelölt szolgáltatóval az Elnök egyetemes szolgáltatási szerződést köt, amelyben a felek megállapodnak legalább:
 
 a) az egyetemes szolgáltatás tárgyáról;
 
@@ -14,6 +14,6 @@ f) a szerződés megszűnésének módjáról, jogkövetkezményeiről;
 
 g) a szerződés hibás teljesítése esetén alkalmazandó kötbér mértékéről, illetve egyéb jogkövetkezményekről;
 
-h) a szerződésben foglaltak megtartásának ellenőrzésével kapcsolatosan a minisztert, illetőleg a felhatalmazása alapján eljáró Hatóságot megillető jogosultságokról.
+h) a szerződésben foglaltak megtartásának ellenőrzésével kapcsolatosan a Hatóságot megillető jogosultságokról.
 
-(2) A miniszter és a Hatóság az egyetemes szolgáltatási szerződést nyilvánosságra hozza.
+(2) A Hatóság az egyetemes szolgáltatási szerződést nyilvánosságra hozza.

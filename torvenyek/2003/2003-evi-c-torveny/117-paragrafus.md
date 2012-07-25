@@ -12,7 +12,7 @@
 
 a) a nyilvános elektronikus hírközlő hálózathoz a felhasználó lakóhelye, székhelye vagy telephelye szerint meghatározott helyen való olyan hozzáférés, amely lehetővé teszi helyhez kötött előfizetői hozzáférési ponton keresztül belföldi és nemzetközi telefonhívások, faxüzenetek és adatátviteli hívások kezdeményezését és fogadását, a segélyhívó szolgálatok elérését, a funkcionális internet-hozzáféréshez elegendő adatátviteli sebességű internet szolgáltatást, figyelembe véve az előfizetők többsége által használt, leginkább elterjedt technológiákat és a technológiai megvalósíthatóságot;
 
-b) a lakosságszámhoz igazodva a Kormány által rendeletben meghatározott számú, de legalább településenként egy darab nyilvános telefonállomás vagy más nyilvános telefon-hozzáférési pont működtetése, továbbá a kötelezően létesített nyilvános telefonállomások vagy más nyilvános telefon hozzáférési pontok legalább 3%-a hallás-, illetőleg mozgáskorlátozottak által is használható kialakítással;
+b) a lakosságszámhoz igazodva az Elnök által rendeletben meghatározott számú, de legalább településenként egy darab nyilvános telefonállomás vagy más nyilvános telefon-hozzáférési pont működtetése, továbbá a kötelezően létesített nyilvános telefonállomások vagy más nyilvános telefon hozzáférési pontok legalább 3%-a hallás-, illetőleg mozgáskorlátozottak által is használható kialakítással;
 
 c) országos belföldi tudakozó nyújtása;
 

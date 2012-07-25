@@ -10,7 +10,7 @@ d) a közösségi jogszabályokkal összhangban meghatározott egyéb közérdek
 
 (2) Egyedi engedélyezési kötelezettség esetén az engedélyek számának korlátozása a spektrum hatékony kihasználásának biztosítása érdekében történik.
 
-(3) Az elektronikus hírközlési szolgáltatás céljára felhasználható frekvenciasáv esetén, amennyiben a frekvencia használatához egyedi engedély szükséges és az engedély határozott ideig hatályos, az időtartam meghatározása során a miniszter figyelembe veszi
+(3) Az elektronikus hírközlési szolgáltatás céljára felhasználható frekvenciasáv esetén, amennyiben a frekvencia használatához egyedi engedély szükséges és az engedély határozott ideig hatályos, az időtartam meghatározása során az Elnök figyelembe veszi
 
 a) az elérni kívánt célt,
 

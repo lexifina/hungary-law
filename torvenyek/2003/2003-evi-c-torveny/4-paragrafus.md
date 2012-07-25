@@ -10,7 +10,7 @@
 
 4. § (1) A Kormány:
 
-a) kialakítja az elektronikus hírközlés-politikát, a rádióspektrum-politikát és információs társadalompolitikát, amely politikák meghatározzák különösen az elektronikus hírközlési és informatikai tevékenységek, szolgáltatások és a frekvencia- és azonosítógazdálkodás alapvető elveit és feltételeit, valamint az információs társadalom infrastruktúrájának fejlesztésére irányuló állami programokat és megalkotja e politikák végrehajtásához szükséges rendeleteket, és gondoskodik az ehhez szükséges jogalkotási feladatok megvalósításáról;
+a) elfogadja a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) által megalkotott stratégiák és ágazati politikák mentén a Hatóság által előkészített elektronikus hírközlés-politikát és rádióspektrum-politikát tartalmazó stratégiai dokumentumokat, amelyek meghatározzák különösen az elektronikus hírközlési tevékenységek és szolgáltatások, valamint a frekvencia- és azonosítógazdálkodás alapvető elveit és feltételeit;
 
 b) a társadalmi esélyegyenlőség előmozdítása érdekében úgy alakítja ki az a) pontban említett politikákat és programokat, hogy a fogyatékos és megváltozott munkaképességű személyek a többi felhasználó számára biztosítottal azonos szinten férhessenek hozzá az elektronikus hírközlési szolgáltatásokhoz, különösen a nyilvánosan elérhető telefonszolgáltatáshoz;
 
@@ -26,7 +26,7 @@ g) meghatározza az elektronikus hírközlés biztonságának alapelveit, minős
 
 h) meghatározza az elektronikus hírközlés területén a nemzetbiztonsági érdekek érvényesítéséhez szükséges feltételeket, valamint az ezek megvalósulásának ellenőrzésére vonatkozó szabályokat;
 
-i) biztosítja a különleges jogrend idején a lakosság riasztásának rendszerét;
+i) biztosítja a lakosság riasztásának rendszerét;
 
 j) ellátja az elektronikus hírközléssel összefüggő, jogszabályban meghatározott további feladatokat.
 
