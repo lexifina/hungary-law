@@ -155,5 +155,3 @@ A munkáltató a pedagógus-munkakörben, a pedagógiai előadó és pedagógiai
 A diákigazolvány
 
 1. A diákigazolvány tartalmazza a diákigazolvány számát, a tanuló nevét, születési helyét és idejét, lakcímét és a 14. életévét betöltött tanuló esetében az aláírását. A diákigazolvány tartalmazza továbbá a tanuló fényképét, azonosító számát, az iskola nevét és címét, a diákigazolvány lejáratának időpontját, az érvényességére vonatkozó adatot és típusának megjelölését. A közoktatási információs iroda a diákigazolvány elkészítése körében tudomására jutott személyes adatot a diákigazolvány hatályának megszűnését követő öt évig kezelheti.
-
-2. A diákigazolvány elektronikus adattárolásra és adatellenőrzésre alkalmas eszközzel ellátott igazolvány.

@@ -31,3 +31,5 @@
 (16) A közoktatási feladatkörében eljáró oktatási hivatal – a fenntartó kérésére – az érintett iskolának felmentést adhat az osztályindítás tilalma alól, feltéve, hogy a felmentés elmaradása esetén az iskolai nevelés és oktatás igénybevétele a tanuló és a szülő részére aránytalan teherrel járna.
 
 (17) A nyolc évfolyamnál kevesebb évfolyammal működő általános iskola fenntartója számára 2007-ben, illetve 2008-ban határozott időre kiadott továbbműködési engedély érvényességi ideje három évvel meghosszabbodik.
+
+(18) Ha a nemzeti köznevelésről szóló törvény szerinti mindennapos testnevelés megszervezése érdekében a 2012/2013. tanévet megelőzően a pedagógiai program módosítása válik szükségessé, az iskolák a pedagógiai programjukat szakértő igénybevétele nélkül felülvizsgálhatják, és nincs szükség fenntartói jóváhagyásra sem. A szakképző iskolák a szakképzésről szóló törvény 92. § (27) bekezdésében meghatározott szakképzési tantervi ajánlás alapján a pedagógiai programot vagy annak kiegészítését szakértő igénybevétele nélkül felülvizsgálhatják, és nincs szükség fenntartói jóváhagyásra sem.
