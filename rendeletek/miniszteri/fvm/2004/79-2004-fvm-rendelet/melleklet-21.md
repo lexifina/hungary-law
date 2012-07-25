@@ -1,6 +1,6 @@
 | Faj | Érték (ezer Ft/egyed) |
 
-| Gímszarvas |  |
+| gímszarvas |  |
 
 | bika (trófea szerint) |  |
 
@@ -10,13 +10,13 @@
 
 | 10,01 kg-tól | 3750 |
 
-| tarfejű és agancsfejlesztő (barkás) | 1000 |
+| tar fejű és agancsfejlesztő (barkás) | 1000 |
 
 | tehén, ünő | 200 |
 
 | borjú | 100 |
 
-| Dámszarvas |  |
+| dámszarvas, szikaszarvas |  |
 
 | bika (trófea szerint) |  |
 
@@ -30,9 +30,9 @@
 
 | borjú | 100 |
 
-| Őz |  |
+| őz |  |
 
-| őzbak (trófea szerint) |  |
+| bak (trófea szerint) |  |
 
 | 350 g-ig | 200 |
 
@@ -44,7 +44,7 @@
 
 | gida | 50 |
 
-| Muflon |  |
+| muflon |  |
 
 | kos (trófea szerint) |  |
 
@@ -56,7 +56,7 @@
 
 | bárány | 50 |
 
-| Vaddisznó |  |
+| vaddisznó |  |
 
 | kan (trófea szerint) |  |
 
@@ -70,38 +70,42 @@
 
 | süldő | 100 |
 
-| malac (20 kg-ig) (zsigerelt testtömeg szerint) | 50 |
+| malac (20 kg-ig) | 50 |
 
-| Mezei nyúl | 20 |
+| (zsigerelt testtömeg szerint) |  |
 
-| Fácán |  |
+| zerge | 50 |
 
-| kakas | 10 |
+| mezei nyúl | 20 |
 
-| tyúk | 20 |
+| üregi nyúl | 10 |
 
-| Fogoly | 20 |
+| fácán |  |
 
-| Nagylilik | 10 |
+| - kakas | 10 |
 
-| Vetési lúd | 10 |
+| - tyúk | 20 |
 
-| Tőkés réce | 10 |
+| fogoly | 50 |
 
-| Csörgő réce | 10 |
+| nyári lúd | 20 |
 
-| Kerceréce | 10 |
+| vetési lúd | 20 |
 
-| Szárcsa | 10 |
+| nagy lilik | 20 |
 
-| Erdei szalonka | 10 |
+| tőkés réce | 10 |
 
-| Balkáni gerle | 10 |
+| szárcsa | 10 |
 
-| Örvös galamb | 10 |
+| erdei szalonka | 10 |
 
-| Egyéb vadászható állatfajok | 5 |
+| örvös galamb | 10 |
 
-| Hullott agancs (kg-ja) | 5 |
+| balkáni gerle | 10 |
+
+| egyéb vadászható állatfajok | 5 |
+
+| hullott agancs (kg-ja) | 5 |
 
 21. számú melléklet a 79/2004. (V. 4.) FVM rendelethez

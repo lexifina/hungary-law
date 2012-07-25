@@ -20,7 +20,7 @@ a) nagyvadfajok:
 
 8. Zerge (Rupicapra rupicapra), kivéve a R. r. tatrica és balcanica alfajok.
 
-b) apróvadfajok:
+b)[^2] apróvadfajok:
 
 ba) hasznos apróvadfajok
 
@@ -32,23 +32,25 @@ ba) hasznos apróvadfajok
 
 4. Fogoly (Perdix perdix),
 
-5. Vetési lúd (Anser fabalis),
+5. Nyári lúd (Anser anser),
 
-6. Nagylilik (Anser albifrons albifrons),
+6. Vetési lúd (Anser fabalis),
 
-7. Tőkés réce (Anas platyrhynchos),
+7. Nagy lilik (Anser albifrons albifrons),
 
-8. Csörgő réce (Anas crecca),
+8. Kanadai lúd (Branta canadensis),
 
-9. Kerceréce (Bucephala clangula),
+9. Nílusi lúd (Alopochen aegyptiacus),
 
-10. Szárcsa (Fulica atra),
+10. Tőkés réce (Anas platyrhynchos),
 
-11. Erdei szalonka (Scolopax rusticola),
+11. Szárcsa (Fulica atra),
 
-12. Balkáni gerle (Streptopelia decaocto),
+12. Erdei szalonka (Scolopax rusticola),
 
-13. Örvös galamb (Columba palumbus),
+13. Balkáni gerle (Streptopelia decaocto),
+
+14. Örvös galamb (Columba palumbus),
 
 bb) egyéb apróvadfajok:
 
@@ -74,40 +76,40 @@ bb) egyéb apróvadfajok:
 
 11. Szajkó (Garrulus glandarius).
 
-(2) Közösségi jelentőségű vadászható állatfajok a következők:
+(2)[^3] Közösségi jelentőségű vadászható állatfajok a következők:
 
 1. Fácán (Phasianus colchicus),
 
 2. Fogoly (Perdix perdix),
 
-3. Vetési lúd (Anser fabalis),
+3. Nyári lúd (Anser anser),
 
-4. Nagylilik (Anser albifrons albifrons),
+4. Vetési lúd (Anser fabalis),
 
-5. Tőkés réce (Anas platyrhynchos),
+5. Nagy lilik (Anser albifrons albifrons),
 
-6. Csörgő réce (Anas crecca),
+6. Kanadai lúd (Branta canadensis),
 
-7. Kerceréce (Bucephala clangula),
+7. Tőkés réce (Anas platyrynchos),
 
 8. Szárcsa (Fulica atra),
 
 9. Erdei szalonka (Scolopax rusticola),
 
-10. Balkáni gerle (Streptopelia decaocto),
+10. Örvös galamb (Columba palumbus),
 
-11. Örvös galamb (Columba palumbus),
+11. Balkáni gerle (Streptopelia decaocto),
 
 12. Házi görény (Mustela putorius),
 
-13. Zerge (Rupicapra rupicapra),
+13. Aranysakál (Canis aureus),
 
-14. Aranysakál (Canis aureus),
+14. Dolmányos varjú (Corvus corone cornix),
 
 15. Szarka (Pica pica),
 
-16. Szajkó (Garrulus glandarius),
-
-17. Dolmányos varjú (Corvus cornix).
+16. Szajkó (Garrulus glandarius).
 
 [^1]: A Vhr. 1. §-a a 7/2010. (II. 2.) FVM rendelet 1. §-ával megállapított szöveg.
+[^2]: A Vhr. 1. § (1) bekezdés b) pontja a 72/2012. (VII. 24.) VM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^3]: A Vhr. 1. § (2) bekezdése a 72/2012. (VII. 24.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.

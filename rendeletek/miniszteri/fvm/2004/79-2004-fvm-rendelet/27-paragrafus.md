@@ -1,13 +1,17 @@
-27. §[^35] (1) A vadászati idényeket az 5. számú melléklet tartalmazza. A vadászati idény, ha annak kezdete vasárnapra vagy hétfőre esik, akkor kiterjed az azt megelőző egy, illetve kettő napra. Ha a vadászati idény vége péntekre vagy szombatra esik, akkor kiterjed az azt követő kettő, illetve egy napra is.
+27. §[^37] (1) A vadászati idényeket az 5. számú melléklet tartalmazza. A vadászati idény, ha annak kezdete vasárnapra vagy hétfőre esik, akkor kiterjed az azt megelőző egy, illetve kettő napra. Ha a vadászati idény vége péntekre vagy szombatra esik, akkor kiterjed az azt követő kettő, illetve egy napra is.
 
-(2) A fácántyúk kibocsátás esetében vadászható, a vadászati hatóság által a vad zárttéri tartásáról és kibocsátásáról adott engedélyben foglaltak szerint. Az engedélyben meg kell határozni a kibocsátás feltételeit és a hasznosítás mértéke, feltételei mellett a vadászat kibocsátóhelytől mért körzetét is.
+(2) A fácántyúk az adott vadászati évben 2000 példány vegyes ivarú fácánt meghaladó kibocsátás esetében vadászható a vadászati hatóság külön engedéllyel a vadászati idényben. Az engedélyben meg kell határozni a kibocsátás feltételeit és a hasznosítás mértéke, feltételei mellett a vadászat kibocsátóhelytől mért körzetét is.
 
-(3) Fogoly indokolt esetben vadászható azokon a vadászterületeken, ahol kibocsátás történt, a vadászati hatóság által a vad zárttéri tartásáról és kibocsátásáról adott engedélyben foglaltak szerint. Az engedélyben meg kell határozni a kibocsátás feltételeit, a hasznosítás mértékét, mely legfeljebb negyven százalék lehet, továbbá a vadászat kibocsátóhelytől mért körzetét.
+(3) Fogoly a vadászati idényben azokon a vadászterületeken vadászható, ahol az adott vadászati évben legalább 500 példány fogoly kibocsátása történt, a vadászati hatóság által a vad zárttéri tartásáról és kibocsátásáról adott engedélyben foglaltak szerint. Az engedélyben meg kell határozni a kibocsátás feltételeit, a hasznosítás mértékét, mely legfeljebb negyven százalék lehet, továbbá a vadászat kibocsátóhelytől mért körzetét.
 
 (4) Vaddisznó malacnak minősül a szaporulat 20 kg, süldőnek pedig 50 kg zsigerelt testtömegig. Vaddisznó kocának minősül az 50 kg zsigerelt súlyt elérő vagy meghaladó súlyú nőivarú vaddisznó.
 
-(5) Gímszarvasbikát, dámbikát, őzbakot, muflonkost, szika szarvasbikát egész évben, egyéb vadfaj egyedét, továbbá suta vadat az adott vadfajra vonatkozó vadászati idényben szabad élve befogni.
+(5) Gímszarvasbikát, dámbikát, őzbakot, muflonkost és szikaszarvasbikát egész évben, mezei nyulat október 1-től január 15-ig, egyéb vadfaj egyedét, továbbá suta vadat az adott vadfajra vonatkozó vadászati idényben szabad élve befogni.
 
-(6) Apróvadas vadászterületeken a dolmányos varjú, a szarka és szajkó az apróvad szaporodási időszakában a vadászati hatóság külön engedélyével gyéríthető.
+(6) Gímszarvas esetében, az április 1. és június 30. közötti időszakra megállapított vadászati idény során borjúnak a gímszarvas előző évi szaporulatát kell tekinteni.
 
-[^35]: A Vhr. 27. §-a a 7/2010. (II. 2.) FVM rendelet 17. §-ával megállapított szöveg.
+(7) Apróvadas vadászterületeken a dolmányos varjú, a szarka és a szajkó az apróvad szaporodási időszakában a vadászati hatóság külön engedélyével gyéríthető.
+
+(8) Az elejtett nyestkutyáról, mosómedvéről fotódokumentációt kell készíteni, melyet meg kell küldeni a Szent István Egyetem Vadvilág Megőrzési Intézetének. Az elejtett példányt a fotódokumentáció elküldését követő két munkanapig meg kell őrizni.
+
+[^37]: A Vhr. 27. §-a a 72/2012. (VII. 24.) VM rendelet 12. §-ával megállapított szöveg.

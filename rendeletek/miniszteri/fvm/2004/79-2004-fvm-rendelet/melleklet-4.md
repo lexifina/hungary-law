@@ -1,4 +1,4 @@
-## 3. I. számú melléklet a 79 /2004. (V. 4.) FVM rendelethez[^145]
+## 3. I. számú melléklet a 79 /2004. (V. 4.) FVM rendelethez[^148]
 
 ## A VADASKERT LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
 
@@ -34,11 +34,11 @@
 
 ## i) ábrák, táblázatok;
 
-## 3.[^146] Az állategészségügyért felelős hatóság véleményét.
+## 3.[^149] Az állategészségügyért felelős hatóság véleményét.
 
 ## 4. A védett természeti terület esetében a területileg illetékes környezetvédelmi hatóságnál külön jogszabály szerint kezdeményezett környezeti hatásvizsgálat eredményeként kiadott környezetvédelmi engedélyt.
 
-## 3. II. számú melléklet a 79/2004. (V. 4) FVM rendelethez[^147]
+## 3. II. számú melléklet a 79/2004. (V. 4) FVM rendelethez[^150]
 
 ## A VADFARM LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
 
@@ -72,6 +72,6 @@
 
 4. számú melléklet a 79/2004. (V. 4.) FVM rendelet
 
-[^145]: A Vhr. eredeti 3. számú mellékletének számozását 3. I. számú mellékletre változtatta és bevezető szövegrészét módosította a 7/2010. (II. 2.) FVM rendelet 46. § (2) bekezdés a)–b) pontja.
-[^146]: A Vhr. 3.I. számú mellékletének 3. pontja a 7/2010. (II. 2.) FVM rendelet 46. § (2) bekezdés c) pontjával megállapított szöveg.
-[^147]: A Vhr. 3. II. számú mellékletét a 7/2010. (II. 2.) FVM rendelet 46. § (3) bekezdése iktatta be.
+[^148]: A Vhr. eredeti 3. számú mellékletének számozását 3. I. számú mellékletre változtatta és bevezető szövegrészét módosította a 7/2010. (II. 2.) FVM rendelet 46. § (2) bekezdés a)–b) pontja.
+[^149]: A Vhr. 3.I. számú mellékletének 3. pontja a 7/2010. (II. 2.) FVM rendelet 46. § (2) bekezdés c) pontjával megállapított szöveg.
+[^150]: A Vhr. 3. II. számú mellékletét a 7/2010. (II. 2.) FVM rendelet 46. § (3) bekezdése iktatta be.

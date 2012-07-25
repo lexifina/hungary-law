@@ -1,68 +1,52 @@
 ## I. VADÁSZATI IDÉNYEK
 
-## a) Nagyvadfajok
+| a) Nagyvadfajok |  |
 
-| Gímszarvasbika, golyóra érett | szeptember 1.–október 31. |
+| gímszarvasbika – bika, golyóra érett – tehén, -ünő – borjú | szeptember 1–január 31. szeptember 1–október 31. szeptember 1–január 31. szeptember 1–január 31. április 1–június 30. |
 
-| Gímszarvasbika, selejt | szeptember 1.–január 31. |
+| dámbika – tehén, -ünő – borjú | október 1–január 31. október 1–február utolsó napja október 1–február utolsó napja |
 
-| – tehén, ünő, borjú | szeptember 1.–február utolsó napja |
+| őzbak – suta, gida | április 15–szeptember 30. október 1–február utolsó napja |
 
-| Dámbika, golyóra érett | október 1.–december 31. |
+| muflonkos - juh, -jerke, -bárány | egész évben szeptember 1–február utolsó napja |
 
-| Dámbika, selejt | október 1.–január 31. |
+| vaddisznó | egész évben |
 
-| – tehén, ünő, borjú | október 1.–február utolsó napja |
+| szikaszarvasbika, tehén, -ünő, -borjú | szeptember 1–december 31. |
 
-| Őzbak | április 15.–szeptember 30. |
+| zerge | vadászati idény nélkül |
 
-| suta, gida | október 1.–február utolsó napja |
+| b) Apróvadfajok |  |
 
-| Muflonkos, muflonjuh, -jerke, -bárány | szeptember 1.–február utolsó napja |
+| mezei nyúl | október 1–december 31. |
 
-| Vaddisznó | egész évben |
+| üregi nyúl | szeptember 1–január 31. |
 
-| Szika szarvasbika, tehén, -ünő, -borjú | szeptember 1.–december 31. |
+| fácánkakas | október 1–február utolsó napja |
 
-| Zerge | vadászati idény nélkül |
+| – fácántyúk | október 1–január 31. |
 
-## b) Apróvadfajok
+| fogoly | október 1–december 31. |
 
-| Mezei nyúl | október 1.–január 31. |
+| nyári lúd | október 1–december 31. |
 
-| Üregi nyúl | szeptember 1.–január 31. |
+| vetési lúd, nagy lilik, kanadai lúd, nílusi lúd | október 1–január 31. |
 
-| Fácánkakas | október 1.–február utolsó napja |
+| tőkés réce | augusztus 15–január 31. |
 
-| – fácántyúk | vadászati idény nélkül |
+| szárcsa | szeptember 1–január 31. |
 
-| Fogoly | október 1.–december 31. |
+| erdei szalonka | vadászati idény nélkül. |
 
-| Vetési lúd, Nagylilik | október 1.–január 31. |
+| örvös galamb, balkáni gerle | augusztus 15–január 31. |
 
-| Tőkésréce, Csörgőréce, Szárcsa | szeptember 1.–január 31. |
+| c) Egyéb apróvadfajok |  |
 
-| Kerceréce | október 1.–január 31. |
+| róka, aranysakál, nyest, pézsmapocok, nyestkutya, mosómedve | egész évben |
 
-| Erdei szalonka | vadászati idény nélkül |
+| borz, házi görény, dolmányos varjú, szarka, szajkó | július 1–február utolsó napja |
 
-| Balkáni gerle | augusztus 15.–február utolsó napja |
-
-| Örvös galamb | augusztus 15.–október 31. |
-
-## c) Egyéb apróvadfajok
-
-| Róka, Pézsmapocok, Nyestkutya, Mosómedve | egész évben |
-
-| Házi görény, Nyest | szeptember 1.–február utolsó napja |
-
-| Borz, Aranysakál | június 1.–február utolsó napja |
-
-| Dolmányos varjú, Szarka | július 1.–február utolsó napja |
-
-| Szajkó | augusztus 1.–február utolsó napja |
-
-## Az a), b) és c) pontokban meghatározott vadászati idények alkalmazása során az egyes vadfajoknál e rendelet 27. és 27/A. §-okban foglalt rendelkezéseket is figyelembe kell venni.
+## Az a), b) és c) pontokban meghatározott vadászati idények alkalmazása során az egyes vadfajoknál a 27. és 27/A. §-ban foglalt rendelkezéseket is figyelembe kell venni.
 
 ## II.
 

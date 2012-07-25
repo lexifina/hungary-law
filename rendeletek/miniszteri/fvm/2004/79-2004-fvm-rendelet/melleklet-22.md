@@ -1,6 +1,6 @@
 ## A VADÁSZATI HATÓSÁG OKMÁNYAI ÉS JELVÉNYE
 
-## I.[^159]
+## I.[^163]
 
 ## I.
 
@@ -36,13 +36,13 @@
 
 | Kiállítva: ................................................ | Nyilv. sz.: ................................................ |
 
-## II.[^160]
+## II.[^164]
 
 ## A VADÁSZATI HATÓSÁGI FELADATOKAT ELLÁTÓ SZEMÉLYEK JELVÉNYE
 
 ## A szolgálati igazolványba fűzött 43 mm átmérőjű, bronz alapszínű fémérme, melyet alulról Magyarország színes címere, jobbról, valamint balról félkör alakban futó tölgyfalevél koszorú díszít. Közepén gímszarvas bika fejalak, a felső részén ,,VADÁSZATI HATÓSÁG'' felirat látható. Hátulsó oldalán a sorszám szerepel.
 
-## III.[^161]
+## III.[^165]
 
 ## A VADÁSZATI HATÓSÁGI FELADATOKAT ELLÁTÓ SZEMÉLYEK KITŰZŐ JELVÉNYE
 
@@ -52,6 +52,6 @@
 
 A VADÁSZATI HATÓSÁGI ELJÁRÁSBAN FIZETENDŐ IGAZGATÁSI-SZOLGÁLTATÁSI DÍJ
 
-[^159]: A Vhr. 21. számú mellékletének I. része a 7/2010. (II. 2.) FVM rendelet 46. § (8) bekezdésével megállapított szöveg. E módosító rendelet 47. § (3) bekezdése alapján a 2010. február 10. napját követően a minisztérium által korábban kiadott vadászati hatósági igazolványok 2010. december 31-én hatályukat vesztik.
-[^160]: A Vhr. 21. számú melléklet II. része az 5/2012. (II. 10.) VM rendelet 15. §-a szerint módosított szöveg.
-[^161]: A Vhr. 21. számú melléklet III. része az 5/2012. (II. 10.) VM rendelet 15. §-a szerint módosított szöveg.
+[^163]: A Vhr. 21. számú mellékletének I. része a 7/2010. (II. 2.) FVM rendelet 46. § (8) bekezdésével megállapított szöveg. E módosító rendelet 47. § (3) bekezdése alapján a 2010. február 10. napját követően a minisztérium által korábban kiadott vadászati hatósági igazolványok 2010. december 31-én hatályukat vesztik.
+[^164]: A Vhr. 21. számú melléklet II. része az 5/2012. (II. 10.) VM rendelet 15. §-a szerint módosított szöveg.
+[^165]: A Vhr. 21. számú melléklet III. része az 5/2012. (II. 10.) VM rendelet 15. §-a szerint módosított szöveg.

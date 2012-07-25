@@ -1,5 +1,5 @@
 ## (A Vtv. 37. §-ához)
 
-25. §[^34]
+25. §[^36]
 
-[^34]: A Vhr. 25. §-át a 61/2007. (VII. 13.) FVM rendelet 5. §-a hatályon kívül helyezte.
+[^36]: A Vhr. 25. §-át a 61/2007. (VII. 13.) FVM rendelet 5. §-a hatályon kívül helyezte.
