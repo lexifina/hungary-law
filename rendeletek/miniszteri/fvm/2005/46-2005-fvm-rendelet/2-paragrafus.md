@@ -4,8 +4,8 @@
 
 (3)[^3] A pályázó a program végrehajtására versenyeztetési eljárással végrehajtó szervezetet választ ki. A pályázó a program egyes részeit a közösségi jogszabályokban meghatározott feltételek mellett maga is végrehajthatja.
 
-(4)[^4] A versenyeztetési eljárás keretében – amennyiben nem tartozik a közbeszerzésekről szóló 2003. évi CXXIX. törvény hatálya alá – legalább három ajánlat bekérése szükséges.
+(4)[^4] A versenyeztetési eljárás keretében – amennyiben nem tartozik a közbeszerzésekről szóló 2011. évi CVIII. törvény hatálya alá – legalább három ajánlat bekérése szükséges.
 
 [^2]: A 2. § (2) bekezdése a 108/2008. (VIII. 27.) FVM rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § (3) bekezdését a 100/2005. (X. 28.) FVM rendelet 1. §-a iktatta be.
-[^4]: A 2. § (4) bekezdését a 100/2005. (X. 28.) FVM rendelet 1. §-a iktatta be.
+[^4]: A 2. § (4) bekezdését a 100/2005. (X. 28.) FVM rendelet 1. §-a iktatta be, szövege a 73/2012. (VII. 24.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.
