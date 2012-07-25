@@ -1,3 +1,0 @@
-## 9. § Az R2. 5. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A 140 kWth és az ennél nagyobb, de 1 MWth-nál kisebb névleges bemenő hőteljesítményű, az 50 MWth és annál nagyobb névleges bemenő hőteljesítményű tüzelőberendezések működési feltételeiről és légszennyező anyagainak kibocsátási határértékeiről szóló miniszteri rendeletben meghatározott biomasszát átalakító tüzelőberendezések esetében a szén-monoxid (CO) technológiai kibocsátási határértékére a levegőterheltségi szint határértékeiről és a helyhez kötött légszennyező pontforrások kibocsátási határértékeiről szóló miniszteri rendelet előírásai vonatkoznak.”
