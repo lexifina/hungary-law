@@ -54,7 +54,7 @@ B) Szolgáltatások
 
 Szolgáltatásszám
 
-(SZTJ)(ITJ)
+(SZTJ)
 
 |
 
@@ -66,15 +66,15 @@ A hatósági ár megállapítója
 
 |
 
+|
+
 64.11.12.0-ból
-
-64.11.14.0-ból
-
-64.11.15.0-ból
 
 |
 
-A postáról szóló 2003. évi CI. törvény 7. § (1) bekezdésében meghatározott postai belföldi fenntartott szolgáltatások díja
+A postáról szóló 2003. évi CI. törvény 7. § (1) bekezdésében
+
+meghatározott postai belföldi fenntartott szolgáltatások díja
 
 |
 
@@ -82,27 +82,25 @@ postaügyért felelős miniszter
 
 |
 
-64.20.11.0
-
-64.20.12.1
-
-64.20.12.2
+64.11.14.0-ból
 
 |
 
-Az egyetemes elektronikus hírközlési szolgáltatás díja
+64.11.15.0-ból
 
 |
 
-elektronikus hírközlésért felelős miniszter
+|
 
 |
 
-507−34, 45-ből
+507-34, 45-ből
 
 |
 
-Humán célú, a járóbeteg-ellátás keretében társadalombiztosítási támogatással forgalmazható gyógyszerek kereskedelmi árrése
+Humán célú, a járóbeteg-ellátás keretében
+
+társadalombiztosítási támogatással forgalmazható gyógyszerek kereskedelmi árrése
 
 |
 
@@ -118,9 +116,15 @@ Távhőszolgáltatás csatlakozási díja
 
 |
 
-települési önkormányzat – fővárosban a Fővárosi Önkormányzat –
+települési önkormányzat –
 
-képviselő-testülete
+fővárosban
+
+a Fővárosi Önkormányzat –
+
+képviselő-
+
+testülete
 
 |
 
@@ -133,3 +137,17 @@ A céginformációs szolgálat által biztosított céginformáció elektronikus
 |
 
 igazságügyért felelős miniszter és az államháztartásért felelős miniszter
+
+|
+
+Termékszám
+
+(BTO)
+
+|
+
+Megnevezés
+
+|
+
+A hatósági ár megállapítója
