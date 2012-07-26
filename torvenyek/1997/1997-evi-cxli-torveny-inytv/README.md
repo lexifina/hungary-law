@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-141-00-00
 | 2012-04-01 | 2011. évi CLXXIV. törvény | 1997-141-00-00.36 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 1997-141-00-00.37 |
 | 2012-07-06 | 2012. évi XCIII. törvény | 1997-141-00-00.38 |
+| 2012-07-26 | 2012. évi LXXVI. törvény | 1997-141-00-00.39 |

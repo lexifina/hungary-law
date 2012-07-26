@@ -4,7 +4,7 @@
 
 a) az ügyfél természetes személyazonosító adatait, lakcímét és személyi azonosítóját,
 
-b) a statisztikai számjellel rendelkező szervezet megnevezését, statisztikai azonosítóját, székhelyét, a bírósági, illetőleg cégbírósági bejegyzésének számát,
+b) a statisztikai számjellel rendelkező szervezet megnevezését, statisztikai azonosítóját, székhelyét, a bírósági, illetőleg cégbírósági bejegyzésének számát, egyház és belső egyházi jogi személy esetében nyilvántartási számát,
 
 c) az érintett ingatlan pontos megjelölését (település neve, helyrajzi szám) és a bejegyzéssel érintett tulajdoni hányadot,
 
