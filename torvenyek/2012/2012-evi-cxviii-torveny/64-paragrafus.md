@@ -1,0 +1,1 @@
+64. § A Tbj. 40/A. §-ában az „és az egészségbiztosítási nyilvántartás” szövegrész helyébe az „az egészségbiztosítási nyilvántartás és a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás” szöveg lép.

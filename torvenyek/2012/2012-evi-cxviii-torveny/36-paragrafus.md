@@ -1,0 +1,3 @@
+36. § Az Mmtv. 18. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A megállapított rokkantsági és rehabilitációs pénzbeli ellátás visszamenőlegesen járó összegét csökkenteni kell annak a Kormány által kijelölt szerv által folyósított ellátásnak az összegével, amely ugyanarra az időszakra került folyósításra, feltéve, hogy a jogosultat a két ellátás egyidejűleg nem illette volna meg. A beszámítást a Kormány által kijelölt szerv határozattal rendeli el. Ha a visszamenőlegesen járó ellátás összege alacsonyabb, mint a beszámított összeg, a jogalap nélkül felvett különbözetet vissza kell követelni.”

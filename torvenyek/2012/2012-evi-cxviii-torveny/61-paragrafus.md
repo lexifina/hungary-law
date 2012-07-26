@@ -1,0 +1,1 @@
+61. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 23. § a) pontjában az „ , (a továbbiakban: Eb.tv.)” szövegrész helyébe az „(a továbbiakban: Eb.tv.), a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvényben” szöveg lép.
