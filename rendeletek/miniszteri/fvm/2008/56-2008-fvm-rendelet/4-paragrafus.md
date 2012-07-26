@@ -12,6 +12,14 @@ bb) nincs lejárt köztartozása,
 
 bc) az egyes állatfajok egységes azonosítási és nyilvántartási kötelezettségére vonatkozó előírásokban foglaltaknak eleget tesz,
 
-bd) az elhullott állatokkal kapcsolatosan az állat-egészségügyi jogszabályokban meghatározott nyilvántartási és bejelentési kötelezettségének eleget tesz.
+bd) az elhullott állatokkal kapcsolatosan az állat-egészségügyi jogszabályokban meghatározott nyilvántartási és bejelentési kötelezettségének eleget tesz,
+
+c)[^2] kötelezettséget vállal arra, hogy
+
+ca) a b) pontban meghatározott nyilatkozataiban közölt tényekben bekövetkező változást a szolgáltatónak, annak bekövetkezésétől számított 15 napon belül jelzi, valamint
+
+cb) amennyiben megállapítást nyer, hogy támogatott szolgáltatás igénybevételére nem jogosult, a bruttó számlaértéket megfizeti az állati hulla elszállítását és megsemmisítését végző szolgáltató részére.
 
 (2) A gyűjtő-átrakó létesítmény üzemeltetője az e rendelet hatálya alá tartozó állati hullák gyűjtő-átrakó létesítményből az ártalmatlanító üzembe történő elszállítására és ártalmatlanítására a kedvezményezett nevében veheti igénybe a támogatott szolgáltatást, ez esetben a kedvezményzett részére a szolgáltatást a támogatás mértékével csökkentve kell elszámolnia.
+
+[^2]: A 4. § (1) bekezdés c) pontját a 75/2012. (VII. 25.) VM rendelet 1. §-a iktatta be.

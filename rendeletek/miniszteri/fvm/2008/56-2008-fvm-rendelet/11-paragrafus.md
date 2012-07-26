@@ -1,4 +1,4 @@
-## 10/A. §[^16] E rendeletnek az egyes nemzeti hatáskörben nyújtott állami támogatásokról szóló miniszteri rendeletek módosításáról szóló 24/2011. (III. 28.) VM rendelettel (a továbbiakban: 1. módosító rendelet) módosított 7. § (1) bekezdését, valamint 8. § (2) bekezdését az 1. módosító rendelet hatálybalépésekor[^17] folyamatban lévő ügyekben is kell alkalmazni.
+## 10/B. §[^21] E rendeletnek az állati hulla elszállítási és ártalmatlanítási költségeinek támogatásáról szóló 56/2008. (IV. 25.) FVM rendelet módosításáról szóló 75/2012. (VII. 25.) VM rendelettel [a továbbiakban: 75/2012. (VII. 25.) VM rendelet] megállapított 8. § (2) bekezdését a 75/2012. (VII. 25.) VM rendelet hatálybalépésekor[^22] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^16]: A 10/A. §-t a 24/2011. (III. 28.) VM rendelet 2. § (4) bekezdése iktatta be.
-[^17]: A hatálybalépés időpontja 2011. március 29.
+[^21]: A 10/B. §-t a 75/2012. (VII. 25.) VM rendelet 4. §-a iktatta be.
+[^22]: A hatálybalépés napja: 2012. július 26.

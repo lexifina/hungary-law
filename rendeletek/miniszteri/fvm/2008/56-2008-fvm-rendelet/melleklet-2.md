@@ -38,38 +38,38 @@
 
 ## 6. Mellékletek
 
-2. számú melléklet az 56/2008. (IV. 25.) FVM rendelethez[^19]
+2. számú melléklet az 56/2008. (IV. 25.) FVM rendelethez[^24]
 
-## Adatlap és nyilatkozat adattartalma
+## Számla összesítő
 
-1. A kedvezményezett azonosító adatai:
+1. A kérelmező (szolgáltató) azonosító adatai
 
-1.1. Telephely címe;
+2. A számla adatai:
 
-1.2. Telephely tenyészetkódja.
+2.2. Kedvezményezett azonosító adatai
 
-2. Az állatállományra vonatkozó adat:
+2.3. Számlaszám
 
-Az állatfaj megnevezése.
+2.4. Az állati hulla osztályba sorolása (I. vagy II.)
 
-3. A kedvezményezett nyilatkozata arról, hogy
+2.5. Gyűjtő átrakó helyről származó állati hulla (Igen/ Nem)
 
-3.1. nem áll csőd-, felszámolási, végelszámolási eljárás alatt, vagy vele szemben gazdasági tevékenységből eredő tartozás megfizetése vagy gazdasági tevékenységével összefüggő kötelezettség kikényszerítése miatt végrehajtási eljárás nincs folyamatban, vagy a korábban ellene vezetett végrehajtás eredményes volt,
+2.6. Az elszámolási időszak (választható)
 
-3.2. nincs lejárt köztartozása,
+2.7. Ártalmatlanításra vonatkozó adatok:
 
-3.3. eleget tesz az egyes állatfajok egységes azonosítási és nyilvántartási kötelezettségére vonatkozó szabályozásban foglaltaknak,
+2.7.1. Ártalmatlanított mennyiség (kg)
 
-3.4. eleget tesz az elhullott állatokkal kapcsolatosan az állat-egészségügyi jogszabályokban meghatározott nyilvántartási és bejelentési kötelezettségének,
+2.7.2. Ártalmatlanítás bruttó értéke (Ft)
 
-3.5. a kedvezményezett büntetőjogi felelőssége tudatában kijelenti, hogy az általa közölt adatok a valóságnak megfelelnek.
+2.7.3. Ártalmatlanításra vonatkozó támogatástartalom (Ft)
 
-4. A kedvezményezett kötelezettséget vállalása arról, hogy
+2.8. Elszállításra vonatkozó adatok:
 
-4.1. a nyilatkozataiban szereplő feltételekben változás történik, azt a szolgáltató felé azonnal jelzi,
+2.8.1. Szállítási távolság (km)
 
-4.2. megállapítást nyer, hogy a támogatásra nem jogosult az állati hulla elszállítását és megsemmisítését végző szolgáltató részére a számla teljes összegét megfizeti.
+2.8.2. Szállítás bruttó értéke (Ft)
 
-5. Keltezés és a kedvezményezett (cégszerű) aláírása
+2.8.3. Szállításra vonatkozó támogatástartalom (Ft)
 
-[^19]: A 2. számú melléklet a 171/2009. (XII. 22.) FVM rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^24]: A 2. számú melléklet a 75/2012. (VII. 25.) VM rendelet 5. §-ával megállapított szöveg.
