@@ -6,4 +6,4 @@ a) akinek a foglalkoztathatósága rehabilitációval helyreállítható, vagy
 
 b) aki tartós foglalkozási rehabilitációt igényel
 
-és a kérelem benyújtásának időpontjában az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam az 5 évet nem haladja meg.
+és a kérelem benyújtásának, vagy a felülvizsgálat időpontjában az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam az 5 évet nem haladja meg.

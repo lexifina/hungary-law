@@ -24,11 +24,11 @@ b) a 2011. december 31-éig terjedő időszakra
 
 ba) rendszeres szociális járadékot, átmeneti járadékot kell megállapítani, ha a kérelmező foglalkoztathatósága rehabilitációval helyreállítható, vagy egészségi állapota alapján foglalkoztathatósága rehabilitációval helyreállítható, azonban a komplex minősítés szakmai szabályairól szóló rendeletben meghatározott egyéb körülményei miatt foglalkozási rehabilitációja nem javasolt,
 
-bb) III. csoportos rokkantsági nyugdíjat kell megállapítani, ha a kérelmező tartós foglalkozási rehabilitációt igényel, vagy egészségi állapota alapján tartós foglalkozási rehabilitációt igényel, azonban a komplex minősítés szakmai szabályairól szóló rendeletben meghatározott egyéb körülményei miatt foglalkozási rehabilitációja nem javasolt,
+bb) III. csoportos rokkantsági, baleseti rokkantsági nyugdíjat kell megállapítani, ha a kérelmező tartós foglalkozási rehabilitációt igényel, vagy egészségi állapota alapján tartós foglalkozási rehabilitációt igényel, azonban a komplex minősítés szakmai szabályairól szóló rendeletben meghatározott egyéb körülményei miatt foglalkozási rehabilitációja nem javasolt,
 
-bc) II. csoportos rokkantsági nyugdíjat kell megállapítani, ha a kérelmező kizárólag folyamatos támogatással foglalkoztatható, és
+bc) II. csoportos rokkantsági, baleseti rokkantsági nyugdíjat kell megállapítani, ha a kérelmező kizárólag folyamatos támogatással foglalkoztatható, és
 
-bd) I. csoportos rokkantsági nyugdíjat kell megállapítani, ha a kérelmező egészségkárosodása jelentős és önellátásra nem vagy csak segítséggel képes.
+bd) I. csoportos rokkantsági, baleseti rokkantsági nyugdíjat kell megállapítani, ha a kérelmező egészségkárosodása jelentős és önellátásra nem vagy csak segítséggel képes.
 
 (6) Aki rokkantsági nyugdíj, baleseti rokkantsági nyugdíj mellett 2012. január 1-je előtt a Tny. 22/A. §-a alapján nyugdíjnövelésre jogot szerzett, ezt a jogát a megváltozott munkaképességű személyek ellátása esetén is érvényesítheti az öregségi nyugdíjra vonatkozó szabályok megfelelő alkalmazásával.
 
