@@ -10,4 +10,9 @@ b) a behajtás költségigénye eléri a követelt összeget,
 
 c) a károkozó ellen indított büntetőeljárás keretében sem sikerült a károkozót vagy annak vagyonát felderíteni.
 
-(3) A 100 000 Ft-ot meghaladó kártérítés összeget a Honvédelmi Minisztériumban, a honvédelmi miniszter közvetlen irányítása, illetve felügyelete alá tartozó szervezeteknél a Honvédelmi Minisztérium közigazgatási államtitkára, a Magyar Honvédség katonai szervezeteinél a Honvéd Vezérkar főnöke törölheti.
+(3)[^13] A 100 000 Ft-ot meghaladó kártérítési összeget a Honvédelmi Minisztériumban és a honvédelmi miniszter közvetlen alárendeltségébe tartozó szervezeteknél a helyettes államtitkár, a Magyar Honvédség katonai szervezeteinél a Honvéd Vezérkar főnöke törölheti.
+
+(4)[^14] A behajthatatlannak minősített, a KNBSZ-nél nyilvántartott kártérítés összegét a KNBSZ főigazgatója összeghatártól függetlenül törölheti.
+
+[^13]: A 13. § (3) bekezdése a 12/2012. (VII. 25.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^14]: A 13. § (4) bekezdését a 12/2012. (VII. 25.) HM rendelet 8. § (2) bekezdése iktatta be.

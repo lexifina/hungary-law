@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-19-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2002-19-20-15.3 | 19/2002. (IV. 5.) HM rendelet |
+| 2012-07-26 | 2002-19-20-15.4 | 12/2012. (VII. 25.) HM rendelet |
