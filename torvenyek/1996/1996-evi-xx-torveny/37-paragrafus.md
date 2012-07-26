@@ -10,7 +10,9 @@ c) a társadalombiztosítási szervnek, a nyugdíjbiztosítási nyilvántartás�
 
 d) A Pénzügyi Szervezetek Állami Felügyeletének a Pénztárak Központi Nyilvántartásában szereplő személy elhalálozásáról, az elhalálozás időpontjáról;
 
-e) a kincstárnak, a kincstár által folyósított ellátásban részesülő személy és a külön törvényben meghatározott kincstár által vezetett egységes szociális nyilvántartásban szereplő személy családi és utónevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról.
+e) a kincstárnak, a kincstár által folyósított ellátásban részesülő személy és a külön törvényben meghatározott kincstár által vezetett egységes szociális nyilvántartásban szereplő személy családi és utónevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról;
+
+f) a társadalombiztosítási szervnek, a megváltozott munkaképességű személyek nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének – ennek hiányában tartózkodási helyének – változásáról, ideiglenesen külföldön tartózkodásának tényéről vagy az onnan való visszatéréséről, továbbá az érintett elhalálozásáról, az ország végleges elhagyásáról.
 
 (2) A személyiadat- és lakcímnyilvántartás szerve – személyi azonosító alkalmazásával – rendszeres adatszolgáltatást teljesít:
 
