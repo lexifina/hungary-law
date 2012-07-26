@@ -1,0 +1,3 @@
+## 1. § Az úszólétesítmények lajstromozásáról szóló 198/2000. (XI. 29.) Korm. rendelet (a továbbiakban: R1.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A lajstrom – a 3. § (5) bekezdésében foglaltak kivételével – tartalmazza az úszólétesítmény azonosító adatait, az úszólétesítményhez kapcsolódó jogokat és jogi szempontból jelentős tényeket. A lajstrom tartalmazza továbbá az oda bejegyzett természetes és jogi személyeknek, valamint a jogi személyiség nélküli gazdálkodó szervezeteknek (a továbbiakban együtt: jogosult) a nyilvántartáshoz szükséges, e rendeletben meghatározott azonosító adatait is.”
