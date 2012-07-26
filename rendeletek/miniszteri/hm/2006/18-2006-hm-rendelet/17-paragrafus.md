@@ -12,6 +12,8 @@
 
 (5) A részletekben történő fizetés esetén a kártérítést úgy kell megállapítani, hogy annak egy havi részlete ne haladja meg a katona egy havi illetményének a külön jogszabályok szerint levonással teljesítendő adónak (adóelőlegnek), egészségbiztosítási és nyugdíjjáruléknak, magánnyugdíjpénztári tagdíjnak, továbbá egyéb járuléknak a levonás után fennmaradó részének 25%-át.
 
-(6) A halasztásról, illetve a részletfizetésről – a (7) bekezdésben foglaltak kivételével – a jogerős kártérítési határozatot hozó állományilletékes parancsnok, illetve honvédelmi miniszter dönt a (2)–(6) bekezdésekben foglaltak alapján.
+(6)[^4] A halasztásról, illetve a részletfizetésről – a (7) bekezdésben foglaltak kivételével – az állományilletékes parancsnok, illetve honvédelmi miniszter dönt a (2)–(5) bekezdésben foglaltak alapján.
 
 (7) A jogerős bírósági határozattal megállapított kártérítés halasztásáról, illetve részletekben történő fizetéséről – a Polgári perrendtartásról szóló 1952. évi III. törvény 217. § (3) bekezdésében foglalt eseten kívül – utólag a honvédelmi miniszter dönt.
+
+[^4]: A 17. § (6) bekezdése a 12/2012. (VII. 25.) HM rendelet 13. §-ával megállapított szöveg.

@@ -4,7 +4,9 @@
 
 21. § (1) Ez a rendelet a kihirdetését követő 30. napon lép hatályba, rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 
-(2)–(3)[^3]
+(2)[^7] Jelen rendelet a kártérítési felelősség körében meg nem térülő kár leírásának és törlésének egyes szabályairól szóló 19/2002. (IV. 5.) HM rendelet, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonái, valamint az önkéntes jelentkezés alapján tartalékos katonai szolgálatot teljesítők kártérítési felelősségének egyes szabályairól szóló 18/2006. (VI. 27.) HM rendelet módosításáról szóló 12/2012. (VII. 25.) HM rendelettel megállapított 8/A. §-át 2012. január 1-je után keletkezett károk vonatkozásában kell alkalmazni.
+
+(3)[^8]
 
 Melléklet a 18/2006. (VI. 27.) HM rendelethez
 
@@ -60,4 +62,5 @@ ___________
 
 * A megfelelő rész aláhúzandó.
 
-[^3]: A 21. § (2)–(3) bekezdését a 37/2007. (IX. 19.) HM rendelet 2. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^7]: A 21. § (2) bekezdését a 37/2007. (IX. 19.) HM rendelet 2. § (2) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 12/2012. (VII. 25.) HM rendelet 14. §-a iktatta be.
+[^8]: A 21. § (3) bekezdését a 37/2007. (IX. 19.) HM rendelet 2. § (2) bekezdésének b) pontja hatályon kívül helyezte.

@@ -1,5 +1,3 @@
-## 8. § A katona és képviselője jogosult betekinteni a kártérítési eljárás során keletkezett iratokba, az üggyel kapcsolatban észrevételt, megjegyzést tehet.
-
 9. § (1) A határozat fejrészből, rendelkező részből és indokolásból áll. A határozaton továbbá fel kell tüntetni a határozathozatal helyét, idejét, a határozathozó nevét, beosztását és aláírását. A fejrészben kell feltüntetni a katonai szervezet megnevezését, a határozat nyilvántartási számát és példányszámát.
 
 (2) A rendelkező rész tartalmazza:

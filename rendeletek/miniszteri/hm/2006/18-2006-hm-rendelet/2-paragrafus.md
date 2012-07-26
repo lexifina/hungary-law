@@ -1,4 +1,4 @@
-## 1. § A rendelet hatálya a Honvédelmi Minisztériumra, a Honvédelmi Minisztérium közvetlen alárendeltségébe tartozó szervezetekre, a Magyar Honvédség katonai szervezeteire, valamint a honvédelmi miniszter közvetlen irányítása és felügyelete alá tartozó szervezetekre (a továbbiakban együtt: Honvédség) és a Honvédség állományába tartozó hivatásos és szerződéses katonákra, valamint az önkéntes jelentkezés alapján tartalékos katonai szolgálatot teljesítőkre (a továbbiakban együtt: katona) terjed ki.
+## 1. §[^1]
 
 ## Értelmező rendelkezések
 
@@ -24,8 +24,9 @@ b) jogszabály, hatósági intézkedés vagy szerződés alapján a Honvédség 
 
 c) a Honvédséget illető vagyoni értékű jogok és követelések,
 
-d)[^1] a vállalkozásoknak [Ptk. 685. § c) pont], illetve társadalmi szervezeteknek átadott azon vagyontárgyak és pénzeszközök, amelyeket e szervezetek a Honvédséggel szembeni visszaszolgáltatási vagy elszámolási kötelezettséggel kezelnek;
+d)[^2] a vállalkozásoknak [Ptk. 685. § c) pont], illetve társadalmi szervezeteknek átadott azon vagyontárgyak és pénzeszközök, amelyeket e szervezetek a Honvédséggel szembeni visszaszolgáltatási vagy elszámolási kötelezettséggel kezelnek;
 
 3. külföldi szolgálat: a Hjt. 2. § (32) bekezdésben meghatározott katonai szolgálat.
 
-[^1]: A 2. § 2. pont d) alpontja a 9/2010. (V. 4.) HM rendelet 4. §-a szerint módosított szöveg.
+[^1]: Az 1. §-t a 12/2012. (VII. 25.) HM rendelet 16. §-a hatályon kívül helyezte.
+[^2]: A 2. § 2. pont d) alpontja a 9/2010. (V. 4.) HM rendelet 4. §-a szerint módosított szöveg.
