@@ -8,10 +8,4 @@
 
 (5)
 
-(6) Az önkormányzat a központi költségvetés részére a költségviselés arányában visszafizeti
-
-a) a jogosulatlanul, illetve rosszhiszeműen igénybe vett pénzbeli szociális ellátás [17. § (1) bekezdés a) pontja]
-
-b)
-
-megtérítésével befolyt összeget.
+(6)

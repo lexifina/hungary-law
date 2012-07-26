@@ -4,7 +4,7 @@ a) egészségkárosodott személynek minősül, vagy
 
 b) a rá irányadó nyugdíjkorhatárt öt éven belül betölti, vagy
 
-c) 14 éven aluli kiskorú gyermeket nevel – feltéve, hogy a családban élő gyermekek valamelyikére tekintettel más személy nem részesül a Cst. szerinti gyermekgondozási támogatásban, vagy gyermekgondozási díjban, terhességi-gyermekágyi segélyben – és a gyermek ellátását napközbeni ellátást biztosító intézményben [Gyvt. 41. § (3) bek.] nem tudják biztosítani, vagy
+c) 14 éven aluli kiskorú gyermeket nevel – feltéve, hogy a családban élő gyermekek valamelyikére tekintettel más személy nem részesül a Cst. szerinti gyermekgondozási támogatásban, vagy gyermekgondozási díjban, terhességi-gyermekágyi segélyben – és a gyermek ellátását napközbeni ellátást biztosító intézményben [Gyvt. 41. § (3) bek.], illetve nyári napközis otthonban, óvodában vagy iskolai napköziben nem tudják biztosítani, vagy
 
 d) a települési önkormányzat rendeletében az aktív korúak ellátására jogosult személyek családi körülményeire, egészségi vagy mentális állapotára tekintettel meghatározott egyéb feltételeknek megfelel,
 

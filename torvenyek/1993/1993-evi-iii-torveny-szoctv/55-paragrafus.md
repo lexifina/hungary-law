@@ -16,7 +16,7 @@ c) aki a településen elismert minimális lakásnagyságot és minőséget meg 
 
 a) közüzemi díjtartozás (vezetékes gáz-, áram-, távhő-szolgáltatási, víz- és csatornahasználati, szemétszállítási, több lakást tartalmazó lakóépületeknél, háztömböknél központi fűtési díjtartozás),
 
-b) közösköltség-hátralék,
+b) közösköltség-hátralék, valamint az épület- és fűtéskorszerűsítéssel járó külön költség hátralék,
 
 c) a lakbérhátralék,
 

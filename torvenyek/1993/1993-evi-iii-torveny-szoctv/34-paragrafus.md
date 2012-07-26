@@ -16,7 +16,9 @@ g) közoktatási, illetőleg felsőoktatási intézményben nappali oktatás mun
 
 h) az Flt. szerint képzési támogatásként keresetpótló juttatásban részesül,
 
-i) a megváltozott munkaképességű személyek ellátásában részesül.
+i) a megváltozott munkaképességű személyek ellátásában részesül,
+
+j) az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló törvény szerint felzárkózást elősegítő megélhetési támogatásban részesül.
 
 (2) Meg kell szüntetni az aktív korúak ellátására való jogosultságát annak a személynek,
 

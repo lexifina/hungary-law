@@ -18,6 +18,6 @@ b) az öregségi nyugdíj mindenkori legkisebb összegének 25%-át meghaladó m
 
 (8) A személyi térítési díj felülvizsgálata során a (4) bekezdés rendelkezéseit értelemszerűen alkalmazni kell.
 
-(9) A szolgáltatási önköltséget a tárgyévre tervezett adatok alapján, a tárgyév április 1-jéig kell megállapítani. A szolgáltatási önköltség év közben egy alkalommal korrigálható, ha azt a tárgyidőszaki folyamatok indokolják. Ha a szolgáltatás az előző évben nem működött, az önköltség számításának alapjául a tárgyévre tervezett költségeket kell figyelembe venni.
+(9) A szolgáltatási önköltséget a tárgyévre tervezett adatok alapján, a tárgyév április 1-jéig kell megállapítani. A szolgáltatási önköltség év közben egy alkalommal korrigálható, ha azt a tárgyidőszaki folyamatok indokolják.
 
 (10) A fenntartó az intézményi térítési díjat az (1) bekezdés szerint kiszámított és külön jogszabály szerint dokumentált térítési díjnál alacsonyabb összegben is meghatározhatja.
