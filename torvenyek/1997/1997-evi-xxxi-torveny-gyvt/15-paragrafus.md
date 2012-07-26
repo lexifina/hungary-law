@@ -58,6 +58,6 @@ hivatalból jár el, és e tevékenységével kapcsolatban a büntetőjogi véde
 
 (8) A gyermekvédelmi rendszerben a külön jogszabályban meghatározott munkakörben, valamint önkéntes jogviszonyban nem foglalkoztatható az a személy, akivel szemben a 11/A. § (8) bekezdésben meghatározott kizáró okok valamelyike fennáll, vagy aki e törvényben meghatározott igazolási kötelezettségének ismételt szabályszerű felhívásra sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívülálló ok következménye.
 
-(9) Gyermekjóléti, gyermekvédelmi intézményben történő foglalkoztatás esetén a Kjt. 41. § (2) bekezdésének a) pontja nem alkalmazható.
+(9) Gyermekjóléti, gyermekvédelmi intézményben történő foglalkoztatás esetén a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 41. § (2) bekezdésének a) pontja nem alkalmazható.
 
 (10) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenység keretében munkaviszonyban, közalkalmazotti jogviszonyban foglalkoztatott személynek, ha a beosztás szerinti napi munkaidejének kezdő időpontja rendszeresen változik, a tizennégy és tizennyolc óra közötti időtartam alatt történő munkavégzés esetén 15% bérpótlék jár, ha a munkáltató napi üzemelési ideje meghaladja a munkavállaló napi teljes munkaidejét és a közalkalmazottak, munkavállalók időszakonként rendszeresen, egy napon belül egymást váltva végzik azonos tevékenységüket.

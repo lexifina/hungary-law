@@ -13,3 +13,5 @@ a) a bölcsődei nevelési év végén, ha a gyermek a 3. évét betöltötte,
 b) ha a gyermek az (1), illetve (2) bekezdés szerinti életkort elérte.
 
 (5) A bölcsőde nyári nyitvatartási rendjét a fenntartó hagyja jóvá. A fenntartó a bölcsődei szünet idejére a szülő kérésére gondoskodhat a gyermek intézményi gondozásának megszervezéséről.
+
+(6) A miniszter rendeletben a bölcsődék számára – a bölcsődei dolgozók szakmai fejlesztése, szakmai ünnepségek megtartása és a bölcsődei ellátáshoz kapcsolódó szakmai célok megvalósítása érdekében – nevelés-gondozás nélküli munkanapot határozhat meg. A nevelés-gondozás nélküli munkanapon a bölcsődei nevelés és gondozás szünetel, a fenntartónak azonban erre irányuló szülői kérésre gondoskodnia kell a gyermekek felügyeletének megszervezéséről.

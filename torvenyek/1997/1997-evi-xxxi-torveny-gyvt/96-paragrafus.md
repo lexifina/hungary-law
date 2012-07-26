@@ -30,7 +30,7 @@ b) a házi gyermekfelügyelet szolgáltatással,
 
 c) a családi gyermekfelügyelet szolgáltatással,
 
-d) a 41. § (4) bekezdése szerinti ellátásokkal,
+d) az alternatív napközbeni ellátással
 
 e) a helyettes szülői ellátással,
 

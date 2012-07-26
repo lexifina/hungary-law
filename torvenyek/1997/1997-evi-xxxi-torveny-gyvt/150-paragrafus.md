@@ -12,9 +12,9 @@ kell figyelembe venni.
 
 a) 50%-át családi napközi és családi gyermekfelügyelet esetén,
 
-b) 20%-át az a) pont alá nem tartozó egyéb gyermekek napközbeni ellátása esetén,
+b) 25%-át bölcsőde esetén, ha a fenntartó a bölcsődei ellátás keretében biztosított gyermekétkeztetés mellett a bölcsődei ellátás keretében nyújtott gondozásra is megállapít személyi térítési díjat,
 
-c) 25%-át az a) pont alá nem tartozó egyéb gyermekek napközbeni ellátása esetén, ha annak keretében étkezést is biztosítanak,
+c) 20%-át az a) és b) pont, valamint a 151. § alá nem tartozó egyéb gyermekek napközbeni ellátása esetén,
 
 d) 50%-át átmeneti gondozás esetén,
 

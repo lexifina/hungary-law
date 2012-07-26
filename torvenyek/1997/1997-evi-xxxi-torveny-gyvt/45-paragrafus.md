@@ -2,7 +2,7 @@
 
 45. § (1) A gyermekek átmeneti gondozása keretében – kivéve, ha a gyermek átmeneti gondozását családok átmeneti otthona biztosítja – a gyermek testi, értelmi, érzelmi és erkölcsi fejlődését elősegítő, az életkorának, egészségi állapotának és egyéb szükségleteinek megfelelő étkeztetéséről, ruházattal való ellátásáról, mentálhigiénés és egészségügyi ellátásáról, gondozásáról, neveléséről, lakhatásáról (a továbbiakban: teljes körű ellátás) kell gondoskodni.
 
-(2) A gyermekek átmeneti gondozását – a szülői felügyeletet gyakorló szülő vagy más törvényes képviselő (a továbbiakban együtt: szülő) kérelmére vagy belegyezésével – ideiglenes jelleggel, teljes körű ellátással kell biztosítani, ha a szülő egészségügyi körülménye, életvezetési problémája, indokolt távolléte vagy más akadályoztatása miatt a gyermek nevelését a családban nem tudja megoldani. A fogyatékos gyermek számára a sajátos szükségleteihez igazodó ellátást kell biztosítani.
+(2) A gyermekek átmeneti gondozását – a szülői felügyeletet gyakorló szülő vagy más törvényes képviselő (a továbbiakban együtt: szülő) kérelmére vagy belegyezésével – ideiglenes jelleggel, teljes körű ellátással kell biztosítani, ha a szülő egészségügyi körülménye, életvezetési problémája, indokolt távolléte vagy más akadályoztatása miatt a gyermek nevelését a családban nem tudja megoldani. A fogyatékos gyermek számára a különleges szükségleteihez igazodó ellátást kell biztosítani.
 
 (3) A gyermekek átmeneti gondozásának helyén a gyermek otthontalanná vált szülője is elhelyezhető. A 14. évét be nem töltött gyermeket szüleitől elválasztani csak kivételesen indokolt esetben lehet. A szülő gyermeke ellátásában munkarendjéhez igazodóan részt vesz.
 

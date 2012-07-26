@@ -76,7 +76,7 @@ i) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részlet
 
 j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait,
 
-[k)]
+k) a bölcsődében a nevelés-gondozás nélküli munkanapok számát, célját, időpontját, valamint az e napokon nyújtott ellátás tartalmát,
 
 (3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
 
