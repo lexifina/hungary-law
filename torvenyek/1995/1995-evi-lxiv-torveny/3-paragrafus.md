@@ -2,6 +2,6 @@
 
 (2)
 
-(3) Az Alapprogram éves felhasználásának irányairól és arányairól, a pályázatok elbírálásáról, a támogatás odaítéléséről az Alapprogram Tanácsa (a továbbiakban: Tanács) dönt.
+(3) Az Alapprogramból kiírt pályázatok elbírálásáról, a támogatás odaítéléséről az erre a célra létrehozott testület javaslatára a miniszter dönt.
 
-(4) A Tanács elnökét és tagjait a miniszter bízza meg az Alapprogram céljai szempontjából érintett kormányzati szervek és az ifjúsági, illetve e korosztályt segítő szervezetek kiemelkedő személyiségei közül. A Tanács összetételét a miniszter úgy állapítja meg, hogy abban a kormányzati szerveket és a nem-kormányzati szervezeteket egyenlő számú képviselő képviselje. A Tanács elnökének és tagjainak megbízatása három évre szól.
+(4)

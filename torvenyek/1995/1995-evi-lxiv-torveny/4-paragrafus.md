@@ -28,4 +28,4 @@ j) hátrányos helyzetben lévő gyermekek és fiatalok felzárkóztatását seg
 
 k) az ifjúság társadalmi helyzetének változásait nyomon követni képes információs és elemző rendszer kiépítését és működtetését.
 
-(2) Az Alapprogramból nyújtható támogatások és kedvezményezettek körét, a Tanács által meghirdetett pályázatokat, valamint a támogatásban részesültek névsorát és támogatásuk célját, mértékét az országos sajtó útján közzé kell tenni.
+(2)

@@ -4,7 +4,7 @@
 
 7/A. § A miniszter az ifjúsággal összefüggő feladatai keretében:
 
-a) ellátja a gyermekeket és fiatalokat (a továbbiakban: ifjúság) érintő kérdésekben a kormányzati programok összehangolásának feladatait;
+a) ellátja a gyermekeket és fiatalokat (a továbbiakban: ifjúság) érintő kérdésekben a kormányzati programok összehangolásának és a stratégiai tervdokumentumok végrehajtásának feladatait;
 
 b) biztosítja a fiatalok képviselőinek részvételét az ifjúságot közvetlenül érintő kormányzati döntések előkészítésében;
 
