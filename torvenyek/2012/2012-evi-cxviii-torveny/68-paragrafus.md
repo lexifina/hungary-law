@@ -13,11 +13,3 @@
 (6) Az 5. §, a 7–10. §, a 11. § (2) bekezdése, valamint a 12. § (3) és (6) bekezdése 2013. január 1-jén lép hatályba.
 
 (7) A 12. § (4) és (7) bekezdése 2015. január 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
