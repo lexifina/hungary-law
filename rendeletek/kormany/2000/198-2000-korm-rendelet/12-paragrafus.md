@@ -20,7 +20,7 @@ h) a szerződésen vagy végintézkedésen alapuló elidegenítési és terhelé
 
 i) árverés kitűzése,
 
-j)[^9] zár alá vétel, zár alá vételt megelőző biztosítási intézkedés, zárlat az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására;
+j)[^14] zár alá vétel, zár alá vételt megelőző biztosítási intézkedés, zárlat az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására;
 
 k) a törölt zálogjog ranghelyének fenntartása, illetve a ranghellyel való rendelkezés jogáról történő lemondás,
 
@@ -30,4 +30,4 @@ m) ranghely megváltoztatása.
 
 (2) Az (1) bekezdés a)–f) pontjaiban említett tények bejegyzésének elmaradása az azokhoz egyébként fűződő joghatásokat nem érinti. A g)–m) pontokban meghatározott tények bejegyzésének elmaradása esetén a jogosult azokat jóhiszemű harmadik jogszerzővel szemben nem érvényesítheti.
 
-[^9]: A 12. § (1) bekezdésének j) pontja a 407/2007. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^14]: A 12. § (1) bekezdésének j) pontja a 407/2007. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -28,13 +28,13 @@
 
 ## c) Kishajóknál
 
-| Sorszám | A hajó neve vagy betű- és számjele | A hajó típusa | A hajótest anyaga | A vízrebocsátás helye és éve | Az építő neve és székhelye vagy telephelye | Hajózási körzet | A hajó főméretei, m | A hajó vízkiszorítása teljes terhelésnél, m3 | Befogadható személyek száma | A fő-, vagy vitorlás hajókon beépített segédgépek | Névleges vitorlafelület*, m2 |
+| Sorszám | A hajó (vízijármű) neve vagy betű- és számjele | A hajó (vízijármű) típusa | A (hajó-) test anyaga | A vízrebo- csátás helye és éve | A (hajó-) test sorozat- száma* (építési szám, test azonosító Hull ID number) | Az építő neve és székhelye (telep- helye) | Hajózási körzet | A hajó főméretei, m | A hajó vízkiszorí- tása teljes terhelés- nél, m3 | Befogad- ható személyek száma | A fő- vagy vitorlás hajókon beépített segédgépek | Névleges vitorlafe- lület,* m2 |
 
-| hajótesten mért hossz | hajótesten mért szélesség | oldalmagasság | száma | típusa | típusjele | teljesítmény, kW | gyártásának éve és helye |
+| hajótes- ten mért hossz | hajótes- ten mért szélesség | oldalma- gasság | száma | típusa | típusjele | teljesít- mény, kW | gyártásá- nak éve és helye |
 
-## _____________
+## __________________________
 
-## * A kedvtelési célú vízijárművek tervezéséről, építéséről és megfelelőségének tanúsításáról szóló 2/2000. (VII. 26.) KöViM rendelet szerint.
+## * A kedvtelési célú vízi járművek tervezéséről, építéséről és megfelelőségének tanúsításáról szóló 2/2000. (VII. 26.) KöViM rendelet szerint.
 
 ## d) Kompoknál
 
