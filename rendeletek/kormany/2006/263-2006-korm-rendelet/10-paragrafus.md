@@ -1,8 +1,8 @@
-## 9/B. §[^169] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését[^170] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
+## 9/B. §[^171] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését[^172] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
 
 ## Az Európai Unió jogának való megfelelés
 
-10. §[^171] (1) Ez a rendelet – a Kkt. 48. § (3) bekezdés 19. pontjában foglalt felhatalmazás alapján megalkotott végrehajtási jogszabállyal együtt – megállapítja a 2135/98/EK tanácsi rendelettel módosított, a közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet végrehajtásához szükséges rendelkezéseket.
+10. §[^173] (1) Ez a rendelet – a Kkt. 48. § (3) bekezdés 19. pontjában foglalt felhatalmazás alapján megalkotott végrehajtási jogszabállyal együtt – megállapítja a 2135/98/EK tanácsi rendelettel módosított, a közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet végrehajtásához szükséges rendelkezéseket.
 
 (2) Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
@@ -16,64 +16,67 @@ d) Az Európai Parlament és a Tanács 216/2008/EK rendelete (2008. február 20.
 
 e) az Európai Parlament és Tanács 1107/2006/EK rendelete (2006. július 5.) a légijárműveken utazó fogyatékkal élő, illetve csökkent mozgásképességű személyek jogairól,
 
-f)[^172] a Bizottság 262/2009/EK rendelete (2009. március 30.) az egységes európai égbolt S-módú lekérdezési kódjainak összehangolt kiosztására és használatára vonatkozó követelmények megállapításáról,
+f)[^174] a Bizottság 262/2009/EK rendelete (2009. március 30.) az egységes európai égbolt S-módú lekérdezési kódjainak összehangolt kiosztására és használatára vonatkozó követelmények megállapításáról,
 
-g)[^173] az Európai Parlament és a Tanács 1008/2008/EK rendelete (2008. szeptember 24.) a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról.
+g)[^175] az Európai Parlament és a Tanács 1008/2008/EK rendelete (2008. szeptember 24.) a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról.
 
-h)[^174] a Bizottság 2010. február 5-i 127/2010/EU rendelete a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légialkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló 2042/2003/EK rendelet módosításáról,
+h)[^176] a Bizottság 2010. február 5-i 127/2010/EU rendelete a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légialkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló 2042/2003/EK rendelet módosításáról,
 
-i)[^175] a könnyű haszongépjárművek szén-dioxid-kibocsátásának csökkentésére irányuló közösségi integrált megközelítés keretében az új személygépkocsikra vonatkozó kibocsátási követelmények meghatározásáról szóló, 2009. április 23-i 443/2009/EK európai parlamenti és tanácsi rendelet,
+i)[^177] a könnyű haszongépjárművek szén-dioxid-kibocsátásának csökkentésére irányuló közösségi integrált megközelítés keretében az új személygépkocsikra vonatkozó kibocsátási követelmények meghatározásáról szóló, 2009. április 23-i 443/2009/EK európai parlamenti és tanácsi rendelet,
 
-j)[^176] az új személygépkocsik nyilvántartásba vett adatainak a 443/2009/EK európai parlamenti és tanácsi rendelet szerinti nyomon követéséről és bejelentéséről szóló, 2010. november 10-i 1014/2010/EU bizottsági rendelet,
+j)[^178] az új személygépkocsik nyilvántartásba vett adatainak a 443/2009/EK európai parlamenti és tanácsi rendelet szerinti nyomon követéséről és bejelentéséről szóló, 2010. november 10-i 1014/2010/EU bizottsági rendelet,
 
-k)[^177] a polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendelet,
+k)[^179] a polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendelet,
 
-l)[^178] a léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló 1794/2006/EK rendelet módosításáról szóló, 2010. december 6-i 1191/2010/EU bizottsági rendelet,
+l)[^180] a léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló 1794/2006/EK rendelet módosításáról szóló, 2010. december 6-i 1191/2010/EU bizottsági rendelet,
 
-m)[^179] a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-i 1071/2009/EK európai parlamenti és tanácsi rendelet,
+m)[^181] a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-i 1071/2009/EK európai parlamenti és tanácsi rendelet,
 
-n)[^180] a nemzetközi közúti árutovábbítási piachoz való hozzáférés közös szabályairól szóló, 2009. október 21-i 1072/2009/EK európai parlamenti és tanácsi rendelet,
+n)[^182] a nemzetközi közúti árutovábbítási piachoz való hozzáférés közös szabályairól szóló, 2009. október 21-i 1072/2009/EK európai parlamenti és tanácsi rendelet,
 
-o)[^181] az autóbusszal végzett személyszállítás nemzetközi piacához való hozzáférés közös szabályairól és az 561/2006/EK rendelet a módosításáról szóló, 2009. október 21-i 1073/2009/EK európai parlamenti és tanácsi rendelet,
+o)[^183] az autóbusszal végzett személyszállítás nemzetközi piacához való hozzáférés közös szabályairól és az 561/2006/EK rendelet a módosításáról szóló, 2009. október 21-i 1073/2009/EK európai parlamenti és tanácsi rendelet,
 
-p)[^182] az autóbusszal végzett személyszállítás okmányaira vonatkozóan a 684/92/EGK és a 12/98/EK tanácsi rendelet alkalmazásának részletes szabályairól szóló, 1998. október 2-i 2121/98/EK bizottsági rendelet.
+p)[^184] az autóbusszal végzett személyszállítás okmányaira vonatkozóan a 684/92/EGK és a 12/98/EK tanácsi rendelet alkalmazásának részletes szabályairól szóló, 1998. október 2-i 2121/98/EK bizottsági rendelet.
 
-(3)[^183] Ez a rendelet
+(3)[^185] Ez a rendelet
 
 a) a közösségi repülőterek földi kiszolgálási piacára való bejutásról szóló, 1996. október 15-i 96/67/EGK tanácsi irányelvnek és
 
 b) a harmadik országok közösségi repülőtereket használó légi járműveinek biztonságáról szóló, 2004. április 21-i 2004/36/EK európai parlamenti és tanácsi irányelvnek
 
-c)[^184] a hajók által okozott szennyezésről és a jogsértésekre alkalmazandó szankciók bevezetéséről szóló, 2005. szeptember 7-ei 2005/35/EK európai parlamenti és tanácsi irányelv 12. cikkének
+c)[^186] a hajók által okozott szennyezésről és a jogsértésekre alkalmazandó szankciók bevezetéséről szóló, 2005. szeptember 7-ei 2005/35/EK európai parlamenti és tanácsi irányelv 12. cikkének
 
-d)[^185] az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelv 2. és 4. cikkének, valamint II. és III. mellékletének,
+d)[^187] az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelv 2. és 4. cikkének, valamint II. és III. mellékletének,
 
-d)[^186] a repülőtéri díjakról szóló, 2009. március 11-i 2009/12/EK európai parlamenti és tanácsi irányelvnek
+d)[^188] a repülőtéri díjakról szóló, 2009. március 11-i 2009/12/EK európai parlamenti és tanácsi irányelvnek
 
-e)[^187] az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló 85/337/EGK irányelv módosításáról szóló, 1997. március 3-i 97/11/EK tanácsi irányelv 1. cikkének, továbbá
+e)[^189] az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló 85/337/EGK irányelv módosításáról szóló, 1997. március 3-i 97/11/EK tanácsi irányelv 1. cikkének, továbbá
 
-f)[^188] a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a nyilvánosság részvételéről, valamint a nyilvánosság részvétele és az igazságszolgáltatáshoz való jog tekintetében a 85/337/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. május 26-i 2003/35/EK európai parlamenti és tanácsi irányelv 3. cikkének
+f)[^190] a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a nyilvánosság részvételéről, valamint a nyilvánosság részvétele és az igazságszolgáltatáshoz való jog tekintetében a 85/337/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. május 26-i 2003/35/EK európai parlamenti és tanácsi irányelv 3. cikkének
 
-g)[^189] a gépjárművezető nélkül bérelt járművek közúti árufuvarozásra történő használatáról szóló, 2006. január 18-i 2006/1/EK európai parlamenti és tanácsi irányelvnek
+g)[^191] a gépjárművezető nélkül bérelt járművek közúti árufuvarozásra történő használatáról szóló, 2006. január 18-i 2006/1/EK európai parlamenti és tanácsi irányelvnek
 
-[^169]: A 9/B. §-t a 82/2011. (V. 18.) Korm. rendelet 31. §-a iktatta be.
-[^170]: A hatálybalépés napja: 2011. szeptember 15.
-[^171]: A 10. § a 182/2009. (IX. 10.) Korm. rendelet 487. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^172]: A 10. § (2) bekezdés f) pontját a 350/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
-[^173]: A 10. § (2) bekezdés g) pontját a 350/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
-[^174]: A 10. § (2) bekezdés h) pontját a 108/2010. (IV. 9.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^175]: A 10. § (2) bekezdés i) pontját a 175/2011. (VIII. 31.) Korm. rendelet 17. §-a iktatta be. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
-[^176]: A 10. § (2) bekezdés j) pontját a 175/2011. (VIII. 31.) Korm. rendelet 17. §-a iktatta be. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
-[^177]: A 10. § (2) bekezdés k) pontját a 175/2011. (VIII. 31.) Korm. rendelet 17. §-a iktatta be. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
-[^178]: A 10. § (2) bekezdés l) pontját a 175/2011. (VIII. 31.) Korm. rendelet 17. §-a iktatta be. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
-[^179]: A 10. § (2) bekezdés m) pontját a 261/2011. (XII. 7.) Korm. rendelet 40. § (3) bekezdése iktatta be. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
-[^180]: A 10. § (2) bekezdés n) pontját a 261/2011. (XII. 7.) Korm. rendelet 40. § (3) bekezdése iktatta be. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
-[^181]: A 10. § (2) bekezdés o) pontját a 261/2011. (XII. 7.) Korm. rendelet 40. § (3) bekezdése iktatta be. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
-[^182]: A 10. § (2) bekezdés p) pontját a 261/2011. (XII. 7.) Korm. rendelet 40. § (3) bekezdése iktatta be. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
-[^183]: A 10. § (3) bekezdése a 108/2010. (IV. 9.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^184]: A 10. § (3) bekezdés c) pontját a 326/2010. (XII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^185]: A 10. § (3) bekezdés d) pontját a 82/2011. (V. 18.) Korm. rendelet 32. §-a iktatta be.
-[^186]: A 10. § (3) bekezdés második d) pontját a 177/2011. (IX. 1.) Korm. rendelet 12. § (5) bekezdése iktatta be.
-[^187]: A 10. § (3) bekezdés e) pontját a 82/2011. (V. 18.) Korm. rendelet 32. §-a iktatta be.
-[^188]: A 10. § (3) bekezdés f) pontját a 82/2011. (V. 18.) Korm. rendelet 32. §-a iktatta be.
-[^189]: A 10. § (3) bekezdés g) pontját a 261/2011. (XII. 7.) Korm. rendelet 40. § (4) bekezdése iktatta be. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+h)[^192] a lobogó szerinti állammal szembeni követelmények teljesítéséről szóló, 2009. április 23-i 2009/21/EK európai parlamenti és tanácsi irányelv 3. cikk b) pontjának, 6. cikk d)–e) pontjának, valamint 7. cikkének
+
+[^171]: A 9/B. §-t a 82/2011. (V. 18.) Korm. rendelet 31. §-a iktatta be.
+[^172]: A hatálybalépés napja: 2011. szeptember 15.
+[^173]: A 10. § a 182/2009. (IX. 10.) Korm. rendelet 487. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^174]: A 10. § (2) bekezdés f) pontját a 350/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^175]: A 10. § (2) bekezdés g) pontját a 350/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^176]: A 10. § (2) bekezdés h) pontját a 108/2010. (IV. 9.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^177]: A 10. § (2) bekezdés i) pontját a 175/2011. (VIII. 31.) Korm. rendelet 17. §-a iktatta be. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^178]: A 10. § (2) bekezdés j) pontját a 175/2011. (VIII. 31.) Korm. rendelet 17. §-a iktatta be. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^179]: A 10. § (2) bekezdés k) pontját a 175/2011. (VIII. 31.) Korm. rendelet 17. §-a iktatta be. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^180]: A 10. § (2) bekezdés l) pontját a 175/2011. (VIII. 31.) Korm. rendelet 17. §-a iktatta be. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^181]: A 10. § (2) bekezdés m) pontját a 261/2011. (XII. 7.) Korm. rendelet 40. § (3) bekezdése iktatta be. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^182]: A 10. § (2) bekezdés n) pontját a 261/2011. (XII. 7.) Korm. rendelet 40. § (3) bekezdése iktatta be. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^183]: A 10. § (2) bekezdés o) pontját a 261/2011. (XII. 7.) Korm. rendelet 40. § (3) bekezdése iktatta be. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^184]: A 10. § (2) bekezdés p) pontját a 261/2011. (XII. 7.) Korm. rendelet 40. § (3) bekezdése iktatta be. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^185]: A 10. § (3) bekezdése a 108/2010. (IV. 9.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^186]: A 10. § (3) bekezdés c) pontját a 326/2010. (XII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^187]: A 10. § (3) bekezdés d) pontját a 82/2011. (V. 18.) Korm. rendelet 32. §-a iktatta be.
+[^188]: A 10. § (3) bekezdés második d) pontját a 177/2011. (IX. 1.) Korm. rendelet 12. § (5) bekezdése iktatta be.
+[^189]: A 10. § (3) bekezdés e) pontját a 82/2011. (V. 18.) Korm. rendelet 32. §-a iktatta be.
+[^190]: A 10. § (3) bekezdés f) pontját a 82/2011. (V. 18.) Korm. rendelet 32. §-a iktatta be.
+[^191]: A 10. § (3) bekezdés g) pontját a 261/2011. (XII. 7.) Korm. rendelet 40. § (4) bekezdése iktatta be. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^192]: A 10. § (3) bekezdés h) pontját a 122/2012. (VI. 26.) Korm. rendelet 10. §-a iktatta be.
