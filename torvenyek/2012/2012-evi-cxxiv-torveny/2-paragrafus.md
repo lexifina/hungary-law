@@ -1,3 +1,0 @@
-2. § Az Nkt. 7. § (5) bekezdése a következő szöveggel lép hatályba:
-
-„(5) Köznevelési alapfeladatot csak a 7. § (1) bekezdésben felsorolt köznevelési intézmény láthat el. A vidékfejlesztésért felelős miniszter által fenntartott szakképző iskolában kizárólag az agrárpolitikáért, az élelmiszeriparért, az erdőgazdálkodásért, a halgazdálkodásért, a földügyért és térképészetért, a környezetvédelemért és vízgazdálkodásért, valamint a vadgazdálkodásért felelős miniszter hatáskörébe tartozó szakképesítések oktathatóak, ezen túli szakképzések indításához az állami intézményfenntartó központ hozzájárulását ki kell kérni.”
