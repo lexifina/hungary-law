@@ -18,6 +18,8 @@ h) a köztartozás behajtására törvény által felhatalmazott szervek e tevé
 
 i) a szociális hatóság a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben a g) pont
 
+j) az állami foglalkoztatási szerv rehabilitációs szolgáltatás nyújtása és a rehabilitációs célú munkaközvetítésben való közreműködés céljából az a)–g) pont
+
 szerinti adatok igénylésére jogosultak.
 
 (2) A 42. § (1) bekezdése szerinti adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.

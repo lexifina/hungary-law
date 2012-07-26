@@ -1,5 +1,3 @@
-## Az Európai Unió jogának való megfelelés
-
 Tbj. 61. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 11. cikk (1) bekezdés d) pont és 21. cikk;
