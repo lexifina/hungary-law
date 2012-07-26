@@ -16,7 +16,7 @@ f) tartósan beteg, illetve súlyosan fogyatékos személy:
 
 fa) az a tizennyolc évesnél fiatalabb gyermek, aki a külön jogszabályban meghatározott betegsége, illetve fogyatékossága miatt állandó vagy fokozott felügyeletre, gondozásra szorul,
 
-fb) az a tizennyolc évesnél idősebb személy, aki tizennyolcadik életévének a betöltése előtt munkaképességét legalább 67%-ban elvesztette, illetve legalább 50%-os mértékű egészségkárosodást szenvedett, és ez az állapot egy éve tart, vagy előreláthatólag legalább egy évig fennáll;
+fb) az a tizennyolc évesnél idősebb személy, aki a tizennyolcadik életévének a betöltése előtt munkaképességét legalább 67%-ban elvesztette, legalább 50%-os mértékű egészségkárosodást szenvedett, vagy akinek egészségi állapota a rehabilitációs hatóság minősítése alapján a tizennyolcadik életévének a betöltése előtt sem haladja meg az 50%-os mértéket, és ez az állapot legalább egy éve tart, vagy előreláthatólag legalább egy évig fennáll;
 
 g) nevelőszülő: az a személy, aki nevelőszülői jogviszonya keretében saját háztartásában gondozza a gyámhivatal jogerős határozatával nála elhelyezett, átmeneti vagy tartós nevelésbe vett gyermeket és az utógondozói ellátásban részesülő fiatal felnőttet;
 
