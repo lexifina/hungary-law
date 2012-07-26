@@ -10,4 +10,6 @@
 
 (5) A balesetek megelőzése érdekében a vízi jármű korlátjának, habvédjének ajtaját, valamint a vízi jármű ablakát önhatalmúlag kinyitni, a vízi jármű korlátjára, habvédjére ülni tilos.
 
-(6) Víziközlekedési baleset vagy rendkívüli hajózási esemény esetében az utas köteles a vízi jármű személyzetének utasításait követni.
+(6)[^2] Víziközlekedési baleset vagy víziközlekedési esemény esetében az utas köteles a vízi jármű személyzetének utasításait követni.
+
+[^2]: A 11. § (6) bekezdése a 122/2012. (VI. 26.) Korm. rendelet 14. §-a szerint módosított szöveg.
