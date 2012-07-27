@@ -8,9 +8,9 @@
 
 | Deviza nostro számla egyenleg |
 
-| MNB által, monetáris politikai ügyletek keretében elfogadható értékpapír-állomány 30 napos kumulált értéke |
+| MNB által, monetáris politikai ügyletek keretében elfogadható fedezetek 30 napos kumulált értéke |
 
-| Európai Központi Bank, illetve az eurórendszer központi bankjai által, monetáris politikai ügyletek keretében elfogadható értékpapír-állomány 30 napos kumulált értéke |
+| Európai Központi Bank, illetve az eurórendszer központi bankjai által, monetáris politikai ügyletek keretében elfogadható fedezetek 30 napos kumulált értéke |
 
 | 30 napon belül lejáró saját kibocsátású hitelviszonyt megtestesítő értékpapírok (negatív előjellel) |
 
@@ -24,7 +24,7 @@
 
 | Nevező | Hitelintézet mérlegfőösszege |
 
-3. melléklet a 366/2011. (XII. 30.) Korm. rendelethez
+3. melléklet a 366/2011. (XII. 30.) Korm. rendelethez[^6]
 
 A Devizafinanszírozás megfelelési mutató számításának módja
 
@@ -46,7 +46,7 @@ A mutató számlálójának a kiszámítása az alábbi elemek és a hozzájuk r
 
 | 5 | Háztartások tulajdonában lévő, adott hitelintézet által kibocsátott 1 éven belüli hátralévő lejárattal rendelkező deviza kötvények állománya | 80% |
 
-| 6 | Lejárat nélküli vagy 1 éven belül lejáró nem pénzügyi vállalatok, központi kormányzat (beleértve a központi költségvetési intézményeket), helyi önkormányzatok, Társadalombiztosítási Alapok, egyéb pénzügyi szolgáltatás közvetítők, pénzügyi kiegészítő tevékenységet végzők, biztosítók és magánnyugdíjpénztárak, valamint a háztartásokat segítő nonprofit intézmények deviza betétei | 50% |
+| 6 | Lejárat nélküli vagy 1 éven belül lejáró nem pénzügyi vállalatok, központi kormányzat (beleértve a központi költségvetési intézményeket), helyi önkormányzatok, Társadalombiztosítási Alapok, egyéb pénzügyi szolgáltatás közvetítők, pénzügyi kiegészítő tevékenységet végzők, biztosítók és magánnyugdíjpénztárak, s a háztartásokat segítő nonprofit intézmények, valamint a külföldiek nem bankközi deviza betétei | 50% |
 
 | 7 | Pénzpiaci alapok 1 éven belül lejáró deviza betétei | 50% |
 
@@ -141,3 +141,5 @@ A mutató számítása során a nevező egyes sorai az alábbiak szerint értelm
 5. A táblázat 18. sorában szereplő éven túli hátralévő lejáratú, nem csoporton belül kibocsátott jelzáloglevelek alatt az adatszolgáltató tulajdonában lévő azon 1 éven túl lejáró jelzáloglevelek állományát kell beszámítani névértéken, amelynek kibocsátója az adatszolgáltatóval nem ugyanazon összevont felügyeleti körbe tartozó hitelintézet.
 
 6. A táblázat 19. sorában szereplő bármilyen lejáratú, 35%-os, vagy annál kisebb súlyozású lakóingatlannal fedezett kitettségekhez a Hkr. szerint meghatározott feltételek alapján 35%-os vagy annál kisebb hitelkockázati súlyozású lakóingatlannal fedezett kitettségek tartoznak, függetlenül attól, hogy a hitelintézet a hitelezési kockázat kezelésére sztenderd vagy belső minősítési módszert alkalmaz. Ebbe a kategóriába tartozik a jelzálog-hitelintézet ingatlanon alapított önálló zálogjog visszavásárlási vételárából származó követelése is.
+
+[^6]: A 3. melléklet a 165/2012. (VII. 19.) Korm. rendelet 4. §-a szerint módosított szöveg.

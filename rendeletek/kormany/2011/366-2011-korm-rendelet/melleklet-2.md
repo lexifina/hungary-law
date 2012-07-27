@@ -8,9 +8,9 @@
 
 | Deviza nostro számla egyenleg |
 
-| MNB által, monetáris politikai ügyletek keretében elfogadható értékpapír-állomány 30 napos kumulált értéke |
+| MNB által, monetáris politikai ügyletek keretében elfogadható fedezetek 30 napos kumulált értéke |
 
-| Európai Központi Bank, illetve az eurórendszer központi bankjai által, monetáris politikai ügyletek keretében elfogadható értékpapír-állomány 30 napos kumulált értéke |
+| Európai Központi Bank, illetve az eurórendszer központi bankjai által, monetáris politikai ügyletek keretében elfogadható fedezetek 30 napos kumulált értéke |
 
 | 30 napon belül lejáró saját kibocsátású hitelviszonyt megtestesítő értékpapírok (negatív előjellel) |
 
@@ -24,4 +24,6 @@
 
 | Nevező | A hitelintézetnél a háztartások és nem pénzügyi vállalatok által elhelyezett betétek állománya |
 
-2. melléklet a 366/2011. (XII. 30.) Korm. rendelethez
+2. melléklet a 366/2011. (XII. 30.) Korm. rendelethez[^5]
+
+[^5]: A 2. melléklet a 165/2012. (VII. 19.) Korm. rendelet 3. §-a szerint módosított szöveg.

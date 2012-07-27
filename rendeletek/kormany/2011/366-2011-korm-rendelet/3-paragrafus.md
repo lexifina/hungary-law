@@ -12,7 +12,7 @@
 
 ## 6. egyéb mérlegen kívüli kötelezettség: olyan, szerződés alapján fennálló mérlegen kívüli kötelezettség, illetve követelés, amely pénzeszköz vagy egyéb eszköz átadására, illetve átvételére vonatkozik, a mérleg fordulónapján már fennáll, de mérlegtételkénti szerepeltetése egy jövőbeni esemény bekövetkezésétől, vagy a szerződés teljesítésétől függ;
 
-## 7. Európai Központi Bank, illetve az eurórendszer központi bankjai által, monetáris politikai ügyletek keretében elfogadható értékpapírok értéke: az Európai Központi Bank, illetve az eurórendszer központi bankjai által monetáris politikai műveletek során – az adott intézmény számára még rendelkezésre álló kereten belül – szabad rendelkezésű (nem zárolt) értékpapírok állománya befogadási értéken, ideértve a pénzforgalom fedezetére, az Európai Központi Bank, illetve az eurórendszer bármely központi bankjának javára limitként zárolt, de ki nem használt állományt is;
+## 7.[^1] Európai Központi Bank, illetve az eurórendszer központi bankjai által, monetáris politikai ügyletek keretében elfogadható fedezetek: az Európai Központi Bank, illetve az eurórendszer központi bankjai által monetáris politikai műveletek során – az adott intézmény számára még rendelkezésre álló kereten belül – szabad rendelkezésű (nem zárolt) fedezetek befogadási értéken, ideértve a pénzforgalom fedezetére, az Európai Központi Bank, illetve az eurórendszer bármely központi bankjának javára limitként zárolt, de ki nem használt fedezetet is;
 
 ## 8. finanszírozási pozíció: a treasury likviditási pozíciójához kapcsolódó jelenlegi, illetve jövőbeli pénzáramlásokból származó kötelezettségek és követelések különbségéből adódó, 30 naptári napra számított kumulált finanszírozási hiány, illetve többlet, ide nem értve a leányvállalatokkal kötött szerződések alapján keletkező pénzáramlásokat, amelynek meghatározásakor csak a hitelintézet saját nevében, saját kockázatára megkötött szerződésekből származó követeléseket és kötelezettségeket kell figyelembe venni;
 
@@ -66,7 +66,7 @@
 
 ## 27. mikro-, kis- és középvállalkozás: a hitelintézetekről és pénzügyi vállalkozásokról szóló törvényben (a továbbiakban Hpt.) meghatározott fogalom;
 
-## 28. MNB által, monetáris politikai ügyletek keretében elfogadható értékpapírok értéke: az MNB monetáris politikai műveletei során az elkövetkező 30 naptári napban felajánlható, szabad rendelkezésű (nem zárolt) értékpapírok állománya befogadási értéken, ideértve a pénzforgalom fedezetére, az MNB javára limitként zárolt, de ki nem használt állományt is, amely nem tartalmazza a 7. pontban meghatározott, az Európai Központi Bank, illetve az eurórendszer központi bankjai által, monetáris politikai ügyletek keretében elfogadható értékpapírok értékét;
+## 28.[^2] MNB által, monetáris politikai ügyletek keretében elfogadható fedezetek: az MNB monetáris politikai műveletei során az elkövetkező 30 naptári napban felajánlható, szabad rendelkezésű (nem zárolt) fedezetek befogadási értéken, ideértve a pénzforgalom fedezetére, az MNB javára limitként zárolt, de ki nem használt állományt is, amely nem tartalmazza a 7. pontban meghatározott, az Európai Központi Bank, illetve az eurórendszer központi bankjai által, monetáris politikai ügyletek keretében elfogadható fedezeteket;
 
 ## 29. nem pénzügyi vállalat: pénzügyi szolgáltatást nem nyújtó gazdálkodó szervezet, amelynek fő tevékenysége a piaci értékesítésre szánt javak előállítása, illetve nem pénzügyi szolgáltatások nyújtása;
 
@@ -105,3 +105,6 @@ b) Mérlegfedezeti mutató: a 2. melléklet szerint számított mutatószám.
 (2) A jelzálog-hitelintézetnek az (1) bekezdés b) pontja szerinti mérlegfedezeti mutatóra vonatkozó minimumkövetelményt kell teljesítenie.
 
 (3) Az (1) bekezdés szerinti mutatókat a hitelintézetek Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) számára történő napi gyakoriságú adatszolgáltatása alapján kell kiszámítani.
+
+[^1]: A 2. § 7. pontja a 165/2012. (VII. 19.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 28. pontja a 165/2012. (VII. 19.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
