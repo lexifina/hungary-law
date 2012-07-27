@@ -1,0 +1,1 @@
+## 1. § A Kormány az ATTAND Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság (Cg. 16-09-014242, székhely: 5000 Szolnok, Bacsó Nándor utca 12.) gazdasági társaságot a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
