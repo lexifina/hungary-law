@@ -1,0 +1,1 @@
+## 1. § A Kormány a THERMA Kereskedelmi, Uszodatechnika és Szolgáltató Korlátolt Felelősségű Társaság (Cg. 09-09-002748, székhely: 4029 Debrecen, Kígyó u. 19.) gazdasági társaságot a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
