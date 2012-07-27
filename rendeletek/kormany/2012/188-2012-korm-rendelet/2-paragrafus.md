@@ -1,0 +1,1 @@
+## 1. § A Kormány a Somogy Tornaterem 2006 Sportlétesítményt Üzemeltető, Szolgáltató Korlátolt Felelősségű Társaság (Cg. 20-09-067232, székhely: 8749 Zalakaros, Jegenye sor 3.) gazdasági társaságot a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
