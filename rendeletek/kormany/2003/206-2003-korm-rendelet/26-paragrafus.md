@@ -8,7 +8,7 @@ Melléklet a 206/2003. (XII. 10.) Korm. rendelethez[^35]
 
 A Kormánynak a pedagógus- és oktatói kedvezmények megállapítását végző területi államigazgatási szervei
 
-|  | A Kormány általános hatáskörű területi államigazgatási szervének a megnevezése | Székhelye | Érintett kör |
+|  | A fővárosi és megyei kormányhivatal megnevezése | Székhelye | Érintett kör |
 
 | 1 | Győr-Moson-Sopron Megyei Kormányhivatal | Győr | A Szlovák Köztársaságban és a Horvát Köztársaságban lakóhellyel rendelkező jogosultak |
 
@@ -37,4 +37,4 @@ A Kormánynak a pedagógus- és oktatói kedvezmények megállapítását végz�
 | 13 | Bács-Kiskun Megyei Kormányhivatal | Kecskemét | A Szerb Köztársaságban lakóhellyel rendelkező jogosultak |
 
 [^34]: A 23–25. §-t a 131/2007. (VI. 12.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
-[^35]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 112. §-ával megállapított szöveg.
+[^35]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 112. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 34. §-a szerint módosított szöveg.
