@@ -6,8 +6,9 @@
 
 a) négyévenként ellenőrzi a szociális és gyámhivatalok gyermekjóléti és gyermekvédelmi szolgáltatásokkal kapcsolatos tevékenységét, az alapellátó és szolgáltató intézményrendszer, valamint a gyámhatóság szakmai munkáját,
 
-b) részt vesz a helyi önkormányzatokért felelős miniszter által koordinált, a Kormány általános hatáskörű területi államigazgatási szerve szervezeti egységeként működő szakigazgatási szervek tevékenységének szakmai irányítását ellátó miniszterek bevonásával zajló ellenőrzésekben, a szociális és gyámhivatalok tekintetében meghatározza az ellenőrzés szakmai szempontjait,
+b)[^31] részt vesz a helyi önkormányzatokért felelős miniszter által koordinált, a fővárosi és megyei kormányhivatal szervezeti egységeként működő szakigazgatási szervek tevékenységének szakmai irányítását ellátó miniszterek bevonásával zajló ellenőrzésekben, a szociális és gyámhivatalok tekintetében meghatározza az ellenőrzés szakmai szempontjait,
 
 c) a szociális és gyámhivatalok számára meghatározza az éves ellenőrzési terv kiemelt területeit és értékeli a szociális és gyámhivatalok éves beszámoló jelentéseit.
 
 [^30]: A 20. § a 360/2010. (XII. 30.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^31]: A 20. § (2) bekezdés b) pontja a 174/2012. (VII. 26.) Korm. rendelet 42. § (13) bekezdés c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 27–28. §[^50]
+## 27–28. §[^51]
 
 29. § Ahol rendelet megyei, fővárosi szociális és gyámhivatalt, illetve megyei, fővárosi gyámhivatalt említ azon szociális és gyámhivatalt kell érteni.
 
@@ -838,7 +838,7 @@ Kerekegyháza
 
 Kunbaracs
 
-2.8.[^51] Kecel Gyámhivatal
+2.8.[^52] Kecel Gyámhivatal
 
 Császártöltés
 
@@ -866,7 +866,7 @@ Petőfiszállás
 
 Tiszaalpár
 
-2.10.[^52] Kiskunhalas Gyámhivatal
+2.10.[^53] Kiskunhalas Gyámhivatal
 
 Balotaszállás
 
@@ -4518,7 +4518,7 @@ Vácrátót
 
 Veresegyház
 
-13.32.[^53] Visegrád Gyámhivatal
+13.32.[^54] Visegrád Gyámhivatal
 
 Dunabogdány
 
@@ -4588,7 +4588,7 @@ Szólád
 
 Teleki
 
-14.3.[^54] Balatonlelle Gyámhivatal
+14.3.[^55] Balatonlelle Gyámhivatal
 
 Balatonlelle
 
@@ -4658,7 +4658,7 @@ Tótújfalu
 
 Vízvár
 
-14.5.[^55] Csurgó Gyámhivatal
+14.5.[^56] Csurgó Gyámhivatal
 
 Berzence
 
@@ -4696,7 +4696,7 @@ Zákány
 
 Zákányfalu
 
-14.6.[^56] Fonyód Gyámhivatal
+14.6.[^57] Fonyód Gyámhivatal
 
 Balatonfenyves
 
@@ -4876,7 +4876,7 @@ Somogyvár
 
 Szőlősgyörök
 
-14.9.[^57] Marcali Gyámhivatal
+14.9.[^58] Marcali Gyámhivatal
 
 Balatonberény
 
@@ -4954,7 +4954,7 @@ Vése
 
 Vörs
 
-14.10.[^58] Nagyatád Gyámhivatal
+14.10.[^59] Nagyatád Gyámhivatal
 
 Bakháza
 
@@ -5020,7 +5020,7 @@ Som
 
 Zamárdi
 
-14.13.[^59] Tab Gyámhivatal
+14.13.[^60] Tab Gyámhivatal
 
 Andocs
 
@@ -7064,7 +7064,7 @@ Várfölde
 
 Zajk
 
-19.5.[^60] Nagykanizsa Gyámhivatal
+19.5.[^61] Nagykanizsa Gyámhivatal
 
 Alsórajk
 
@@ -7290,7 +7290,7 @@ Zalaszentmihály
 
 Zalatárnok
 
-19.7.[^61] Zalakaros Gyámhivatal
+19.7.[^62] Zalakaros Gyámhivatal
 
 Balatonmagyaród
 
@@ -7424,15 +7424,15 @@ Zalavég
 
 20.23. Gyámhivatal Budapest XXIII. kerület
 
-[^50]: A 27–28. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 187. pontja hatályon kívül helyezte.
-[^51]: A melléklet 2.8. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^52]: A melléklet 2.10. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^53]: A melléklet 13.32. pontját az 53/2007. (III. 28.) Korm. rendelet 15. §-a iktatta be. E módosító rendelet 17. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^54]: A melléklet 14.3. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^55]: A melléklet 14.5. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^56]: A melléklet 14.6. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^57]: A melléklet 14.9. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^58]: A melléklet 14.10. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^59]: A melléklet 14.13. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^60]: A melléklet 19.5. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^61]: A melléklet 19.7. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^51]: A 27–28. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 187. pontja hatályon kívül helyezte.
+[^52]: A melléklet 2.8. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^53]: A melléklet 2.10. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^54]: A melléklet 13.32. pontját az 53/2007. (III. 28.) Korm. rendelet 15. §-a iktatta be. E módosító rendelet 17. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^55]: A melléklet 14.3. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^56]: A melléklet 14.5. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^57]: A melléklet 14.6. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^58]: A melléklet 14.9. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^59]: A melléklet 14.10. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^60]: A melléklet 14.13. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^61]: A melléklet 19.5. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^62]: A melléklet 19.7. pontja a 275/2008. (XI. 21.) Korm. rendelet 22. §-ával megállapított szöveg.
