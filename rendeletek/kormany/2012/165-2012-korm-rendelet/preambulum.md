@@ -1,0 +1,1 @@
+A Kormány a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 235. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
