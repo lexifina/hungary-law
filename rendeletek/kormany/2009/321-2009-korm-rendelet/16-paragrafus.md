@@ -4,7 +4,7 @@
 
 (2) Nappali melegedő, éjjeli menedékhely és hajléktalan személyek átmeneti szállásának fenntartója időszakos férőhelyek kialakítása érdekében új telephely engedélyezését, illetve a működési engedély módosítását kérelmezheti (a továbbiakban együtt: időszakos férőhelybővítés) a téli időszakra vagy annak egy részére. A fenntartó az időszakos férőhely-bővítést több év téli időszakára vagy azok egy részére is kérelmezheti.
 
-(3)[^53] Az időszakos férőhelybővítés során az eljárásban nem vesz részt
+(3)[^54] Az időszakos férőhelybővítés során az eljárásban nem vesz részt
 
 a) az 5. § (3) bekezdés a) pontja szerinti szakhatóság, ha az időszakos férőhelyeken elhelyezetteknek meleg étkeztetést nem nyújtanak,
 
@@ -16,4 +16,4 @@ b) az 5. § (3) bekezdés f) pontja szerinti szakhatóság.
 
 (6) A működést engedélyező szerv az időszakos férőhelyek működtetését az engedélyezett időszakban, az időszakos férőhelyek több évre történő engedélyezése esetén kétévente legalább egyszer ellenőrzi.
 
-[^53]: A 16. § (3) bekezdése a 330/2011. (XII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^54]: A 16. § (3) bekezdése a 330/2011. (XII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.

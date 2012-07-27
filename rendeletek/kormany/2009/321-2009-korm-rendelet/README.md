@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-321-20-
 | 2011-12-31 | 2009-321-20-22.7 | 330/2011. (XII. 29.) Korm. rendelet |
 | 2012-01-01 | 2009-321-20-22.8 | 258/2011. (XII. 7.) Korm. rendelet |
 | 2012-07-01 | 2009-321-20-22.9 | 357/2010. (XII. 30.) Korm. rendelet |
+| 2012-07-27 | 2009-321-20-22.10 | 174/2012. (VII. 26.) Korm. rendelet |

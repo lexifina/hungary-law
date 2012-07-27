@@ -30,17 +30,17 @@ b)[^20] nappali ellátás és bentlakásos intézményi ellátás esetén – az
 
 c) nappali ellátás és bentlakásos intézményi ellátás esetén – az intézményre vonatkozó létesítési, használati és üzemeltetési tűzvédelmi előírások teljesülése kérdésében – első fokú eljárásban a szociális intézmény székhelye, telephelye szerint illetékes, első fokon eljáró tűzvédelmi szakhatóságot, másodfokú eljárásban a másodfokon eljáró tűzvédelmi szakhatóságot,
 
-d) nappali ellátás és bentlakásos intézményi ellátás esetén, ha a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre, a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt nem adtak ki – az intézményre vonatkozó építéshatósági követelmények érvényesítése szakkérdésében – első fokú eljárásban a szociális intézmény székhelye, telephelye szerint illetékes építésügyi hatóságot, másodfokú eljárásban a Kormány általános hatáskörű területi államigazgatási szervét,
+d)[^21] nappali ellátás és bentlakásos intézményi ellátás esetén, ha a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre, a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt nem adtak ki – az intézményre vonatkozó építéshatósági követelmények érvényesítése szakkérdésében – első fokú eljárásban a szociális intézmény székhelye, telephelye szerint illetékes építésügyi hatóságot, másodfokú eljárásban a fővárosi és megyei kormányhivatalt,
 
 e) egyházi vagy nem állami fenntartású, tanköteles korú vagy annál fiatalabb fogyatékos személyeket is ellátó, ápolást, gondozást nyújtó intézmény esetén – a korai fejlesztéshez és gondozáshoz, valamint a fejlesztő felkészítéshez szükséges személyi és tárgyi feltételek teljesítése kérdésében – első fokú eljárásban a szociális intézmény székhelye, telephelye szerint illetékes megyei, fővárosi főjegyzőt, másodfokú eljárásban a Kormány általános hatáskörű területi államigazgatási szervét
 
-f)[^21] abban az esetben, ha a fenntartó a szolgáltatót, intézményt, ellátotti számot, férőhelyszámot normatív állami hozzájárulással kívánja működtetni, az Szt. 58/A. § (2) és (2a) bekezdése szerinti, szociális szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadás (a továbbiakban: befogadás) kérdésében az első fokú eljárásban a Hivatalt, másodfokú eljárásban a minisztert
+f)[^22] abban az esetben, ha a fenntartó a szolgáltatót, intézményt, ellátotti számot, férőhelyszámot normatív állami hozzájárulással kívánja működtetni, az Szt. 58/A. § (2) és (2a) bekezdése szerinti, szociális szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadás (a továbbiakban: befogadás) kérdésében az első fokú eljárásban a Hivatalt, másodfokú eljárásban a minisztert
 
 ## szakhatóságként jelöli ki. A szakhatóságok ügyintézési határideje harminc nap. Külső férőhelyek engedélyezése során szakhatósági állásfoglalást nem kell beszerezni.
 
 (4) A szakhatóság a fenntartó kérelmére előzetes szakhatósági állásfoglalást ad ki, amely a működési engedélyezési eljárásban akkor használható fel, ha a fenntartó a működési engedély iránti kérelmét az előzetes szakhatósági állásfoglalás kiadását követő hat hónapon belül benyújtja.
 
-(5)[^22] A szakmai programot a módszertani intézmény – a kirendeléstől számított harminc napon belül – szakértőként véleményezi. A működést engedélyező szerv a határidőt – a módszertani intézménynek a határidő letelte előtt benyújtott indokolt kérelmére – egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja.
+(5)[^23] A szakmai programot a módszertani intézmény – a kirendeléstől számított harminc napon belül – szakértőként véleményezi. A működést engedélyező szerv a határidőt – a módszertani intézménynek a határidő letelte előtt benyújtott indokolt kérelmére – egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja.
 
 (6) A működést engedélyező szerv ellátást nyújtó székhely engedélyezése esetén a székhelyen, telephely engedélyezése esetén a telephelyen, a külső férőhelyek elhelyezésére szolgáló lakásban (lakrészben), az ellátottak számára nyitva álló egyéb helyiségben, jelzőrendszeres házi segítségnyújtás esetén a szakmai központban és szükség esetén a diszpécserközpontban, valamint a támogató szolgáltatáshoz használni kívánt gépjármű vizsgálata céljából helyszíni szemlét tart.
 
@@ -48,5 +48,6 @@ f)[^21] abban az esetben, ha a fenntartó a szolgáltatót, intézményt, ellát
 [^18]: Az 5. § (3) bekezdés záró szövegrésze a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^19]: Az 5. § (3) bekezdés a) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^20]: Az 5. § (3) bekezdés b) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^21]: Az 5. § (3) bekezdés f) pontját a 330/2011. (XII. 29.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^22]: Az 5. § (5) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^21]: Az 5. § (3) bekezdés d) pontja a 174/2012. (VII. 26.) Korm. rendelet 68. § c) pontja szerint módosított szöveg.
+[^22]: Az 5. § (3) bekezdés f) pontját a 330/2011. (XII. 29.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^23]: Az 5. § (5) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés f) pontja szerint módosított szöveg.

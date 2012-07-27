@@ -16,8 +16,8 @@
 
 ## 8. a kérelem elbírálásához jogszabály alapján szükséges egyéb adatok.
 
-## 9.[^69] a fenntartó nyilatkozata arról, hogy a szolgáltatót, intézményt, ellátotti, illetve férőhelyszámot normatív állami hozzájárulással kívánja-e működtetni.
+## 9.[^70] a fenntartó nyilatkozata arról, hogy a szolgáltatót, intézményt, ellátotti, illetve férőhelyszámot normatív állami hozzájárulással kívánja-e működtetni.
 
 2. számú melléklet a 321/2009. (XII. 29.) Korm. rendelethez
 
-[^69]: Az 1. számú melléklet 9. pontját a 330/2011. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^70]: Az 1. számú melléklet 9. pontját a 330/2011. (XII. 29.) Korm. rendelet 21. §-a iktatta be.

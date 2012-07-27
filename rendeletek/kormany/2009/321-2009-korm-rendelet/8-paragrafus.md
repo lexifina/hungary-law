@@ -12,7 +12,7 @@ feltéve, hogy a változások a működési engedély módosítását nem teszik
 
 (2) Az (1) bekezdés b) pontja szerinti bejelentéshez csatolni kell a jogerős használatbavételi engedély vagy fennmaradási engedély másolatát. Ha a fenntartó a használatbavételi engedélyt, illetve a fennmaradási engedélyt nem csatolja, annak adatait a működést engedélyező szerv az építésügyi hatóságtól szerzi be.
 
-(2a)[^27] Az (1) bekezdés c) pontja szerinti bejelentési kötelezettség nem teljesítése miatt szociális igazgatási bírság (a továbbiakban: bírság) nem szabható ki.
+(2a)[^28] Az (1) bekezdés c) pontja szerinti bejelentési kötelezettség nem teljesítése miatt szociális igazgatási bírság (a továbbiakban: bírság) nem szabható ki.
 
 (3) Az egyházi, a nem állami és az ellátási kötelezettséget teljesítőnek nem minősülő állami fenntartó alapszolgáltatás esetén legalább két hónappal, bentlakásos intézményi ellátás esetén legalább hat hónappal korábban köteles bejelenteni
 
@@ -36,7 +36,7 @@ c) a jogutód nélküli megszűnése iránt eljárás indult, és ha az eljárá
 
 (6) A (4)–(5) bekezdés alapján teljesített bejelentéshez mellékelni kell a bejelentésben foglaltakat alátámasztó okirat másolatát. Ha a bejelentésre kötelezett a (4) bekezdés a)–b) pontja vagy az (5) bekezdés, illetve bírósági nyilvántartásba vett fenntartó esetén a (4) bekezdés c) pontja alapján teljesített bejelentésben foglaltakat nem igazolja, és az adat az egyéni vállalkozók nyilvántartásában, illetve bírósági nyilvántartásban rendelkezésre áll, a bejelentésben foglaltakat a működést engedélyező szerv a nyilvántartásból ellenőrzi.
 
-(7)[^28] A működést engedélyező szerv a (3)–(5) bekezdés szerinti bejelentésről nyolc napon belül értesíti az ellátásra köteles helyi önkormányzatot, megyei fenntartót, az igazgatóságot és az ellátottjogi képviselőt.
+(7)[^29] A működést engedélyező szerv a (3)–(5) bekezdés szerinti bejelentésről nyolc napon belül értesíti az ellátásra köteles helyi önkormányzatot, megyei fenntartót, az igazgatóságot és az ellátottjogi képviselőt.
 
-[^27]: A 8. § (2a) bekezdését a 357/2010. (XII. 30.) Korm. rendelet 34. §-a iktatta be.
-[^28]: A 8. § (7) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés a) pontja, a 258/2011. (XII. 7.) Korm. rendelet 44. § (9) bekezdése szerint módosított szöveg.
+[^28]: A 8. § (2a) bekezdését a 357/2010. (XII. 30.) Korm. rendelet 34. §-a iktatta be.
+[^29]: A 8. § (7) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés a) pontja, a 258/2011. (XII. 7.) Korm. rendelet 44. § (9) bekezdése szerint módosított szöveg.
