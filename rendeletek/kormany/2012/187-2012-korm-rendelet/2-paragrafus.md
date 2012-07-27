@@ -1,0 +1,1 @@
+## 1. § A Kormány az Öko-Komplex Építőipari és Szolgáltató Korlátolt Felelősségű Társaság (Cg. 03-09-111741, székhely: 6000 Kecskemét, Tatár sor 6.) gazdasági társaságot a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
