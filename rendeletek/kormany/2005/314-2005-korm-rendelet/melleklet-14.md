@@ -50,7 +50,7 @@
 
 ## Amennyiben az adatlap bármely pontjára vonatkozóan az eljárásban egyébként benyújtott dokumentáció részletesebb információt tartalmaz, kérjük az adott pontban jelezni.
 
-14. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^144]
+14. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^146]
 
 Előzetes szakhatósági állásfoglalás esetén az ügyfél által benyújtandó dokumentumok
 
@@ -468,4 +468,4 @@ f) a kikötő megközelíthetőségének leírását,
 
 g) a kikötő építményeinek tervét és leírását.
 
-[^144]: A 14. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 24. §-a iktatta be.
+[^146]: A 14. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 24. §-a iktatta be.

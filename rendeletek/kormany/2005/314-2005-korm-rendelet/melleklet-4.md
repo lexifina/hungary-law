@@ -370,7 +370,7 @@
 
 | Szórakoztatás, kultúra, sport |
 
-| 111. | Stadion, sportcsarnok | a) 1500 fő befogadóképességtől |
+| 111. | Stadion, sportcsarnok | a) 10 000 fő befogadóképességtől |
 
 | b) vízbázis védőövezetén (amennyiben a tevékenység megkezdését vagy a létesítmény megvalósítását a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendelet nem tiltja), védett természeti területen, Natura 2000 területen, barlang védőövezetén 500 fő befogadóképességtől |
 
