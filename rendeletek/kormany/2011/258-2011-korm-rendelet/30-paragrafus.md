@@ -1,3 +1,3 @@
-30. §[^39]
+## 29. §[^40]
 
-[^39]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 29. §-t a 14. § (4) bekezdése hatályon kívül helyezte.

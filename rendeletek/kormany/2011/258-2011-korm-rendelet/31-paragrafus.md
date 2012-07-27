@@ -1,3 +1,3 @@
-31. §[^40]
+## 30. §[^41]
 
-[^40]: A 31. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^41]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

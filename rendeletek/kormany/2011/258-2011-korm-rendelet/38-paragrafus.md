@@ -1,3 +1,3 @@
-38. §[^47]
+## 37. §[^48]
 
-[^47]: A 38. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^48]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

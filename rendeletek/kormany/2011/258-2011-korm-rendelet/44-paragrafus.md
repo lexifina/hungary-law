@@ -1,3 +1,3 @@
-44. §[^60]
+## 43. §[^61]
 
-[^60]: A 44. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^61]: A 43. §-t a 14. § (4) bekezdése hatályon kívül helyezte.

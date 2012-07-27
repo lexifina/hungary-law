@@ -1,3 +1,3 @@
-34. §[^43]
+## 33. §[^44]
 
-[^43]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^44]: A 33. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
