@@ -1,0 +1,1 @@
+## 1. § A Kormány a Mohács Uszoda Szolgáltató Korlátolt Felelősségű Társaság (Cg. 06-09-010866, székhely: 6762 Sándorfalva, Sövényházi út 1.) gazdasági társaságot a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
