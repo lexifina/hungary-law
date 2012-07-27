@@ -30,6 +30,6 @@
 
 | Email: |  |
 
-5. melléklet a 8/2010. (I. 28.) Korm. rendelethez[^26]
+5. melléklet a 8/2010. (I. 28.) Korm. rendelethez[^29]
 
-[^26]: Az 5. melléklet a 47/2010. (II. 26.) Korm. rendelet 2. § (5) bekezdése, a 243/2010. (X. 5.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^29]: Az 5. melléklet a 47/2010. (II. 26.) Korm. rendelet 2. § (5) bekezdése, a 243/2010. (X. 5.) Korm. rendelet 7. § (4) bekezdése, a 174/2012. (VII. 26.) Korm. rendelet 69. § a) pontja szerint módosított szöveg.

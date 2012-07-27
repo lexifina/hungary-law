@@ -1,8 +1,8 @@
 ## A támogatás igénylése
 
-4. § (1)[^8] Az önkormányzat, illetve a többcélú kistérségi társulás az 5. melléklet szerinti adatlapon rögzített támogatási kérelmét – a (3) bekezdés szerinti kötelező mellékletek becsatolásával – a 3. § (4) bekezdése szerinti bejelentést követő 22 munkanapon belül köteles benyújtani papír alapon egy eredeti és három másolati példányban a Magyar Államkincstár területileg illetékes szervének (a továbbiakban: Igazgatóság), továbbá egy másolati példányban a Kormány általános hatáskörű területi államigazgatási szervének. A benyújtási határidő meghosszabbítására nincs lehetőség, annak elmulasztása jogvesztő.
+4. § (1)[^8] Az önkormányzat, illetve a többcélú kistérségi társulás az 5. melléklet szerinti adatlapon rögzített támogatási kérelmét – a (3) bekezdés szerinti kötelező mellékletek becsatolásával – a 3. § (4) bekezdése szerinti bejelentést követő 22 munkanapon belül köteles benyújtani papír alapon egy eredeti és három másolati példányban a Magyar Államkincstár területileg illetékes szervének (a továbbiakban: Igazgatóság), továbbá egy másolati példányban a fővárosi és megyei kormányhivatalnak. A benyújtási határidő meghosszabbítására nincs lehetőség, annak elmulasztása jogvesztő.
 
-(2)[^9] A kérelemben meg kell határozni a védekezés, illetve helyreállítás kezdési és befejezési határidejét. Az Igazgatóság megvizsgálja a kérelmet, és hiányosság észlelése esetén az Áht. 64/B. § (3) bekezdése alapján az önkormányzatot, többcélú kistérségi társulást hiánypótlásra szólítja fel. A hiány pótlásáról a felszólítás kézhezvételétől számított 5 munkanapon belül – elektronikusan és papír alapon is – gondoskodni kell az Igazgatóság és a Kormány általános hatáskörű területi államigazgatási szerve felé. Amennyiben az önkormányzat a hiánypótlásnak a megadott határidőn belül nem tesz eleget, vagy nem megfelelően teljesíti azt, az Igazgatóság a támogatási igényt nem továbbítja, és erről tájékoztatja a minisztert és a kérelmet benyújtót. Az Igazgatóság a pályázatokat papír alapon egy eredeti és két másolati példányban részletes véleményének egyidejű csatolásával küldi meg a miniszter részére.
+(2)[^9] A kérelemben meg kell határozni a védekezés, illetve helyreállítás kezdési és befejezési határidejét. Az Igazgatóság megvizsgálja a kérelmet, és hiányosság észlelése esetén az Áht. 64/B. § (3) bekezdése alapján az önkormányzatot, többcélú kistérségi társulást hiánypótlásra szólítja fel. A hiány pótlásáról a felszólítás kézhezvételétől számított 5 munkanapon belül – elektronikusan és papír alapon is – gondoskodni kell az Igazgatóság és a fővárosi és megyei kormányhivatal felé. Amennyiben az önkormányzat a hiánypótlásnak a megadott határidőn belül nem tesz eleget, vagy nem megfelelően teljesíti azt, az Igazgatóság a támogatási igényt nem továbbítja, és erről tájékoztatja a minisztert és a kérelmet benyújtót. Az Igazgatóság a pályázatokat papír alapon egy eredeti és két másolati példányban részletes véleményének egyidejű csatolásával küldi meg a miniszter részére.
 
 (3) A támogatási kérelem kötelező mellékletei:
 
@@ -60,8 +60,8 @@ m) a miniszter által a kérelmek elbírálása során egyedileg meghatározott,
 
 (5)[^12] Ár- és belvíz-védekezési költségek elszámolásával kapcsolatos kérelmek esetén – kizárólag a védekezési költségek vonatkozásában – a (3) bekezdés b), ca), cb), cd), ce), d), e) és i) pontjában megjelölt dokumentumok csatolása nem kötelező.
 
-[^8]: A 4. § (1) bekezdése a 243/2010. (X. 5.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^9]: A 4. § (2) bekezdése a 243/2010. (X. 5.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^8]: A 4. § (1) bekezdése a 243/2010. (X. 5.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 69. § b) pontja szerint módosított szöveg.
+[^9]: A 4. § (2) bekezdése a 243/2010. (X. 5.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 69. § a) pontja szerint módosított szöveg.
 [^10]: A 4. § (3) bekezdés c) pont ce) alpontját a 243/2010. (X. 5.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^11]: A 4. § (3) bekezdés g) pontja a 243/2010. (X. 5.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
 [^12]: A 4. § (5) bekezdése a 243/2010. (X. 5.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

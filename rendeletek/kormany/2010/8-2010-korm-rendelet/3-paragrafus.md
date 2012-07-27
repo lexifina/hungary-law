@@ -14,7 +14,7 @@ b) az önkormányzati, kisebbségi önkormányzati tulajdonban lévő építmén
 
 (5)[^2] Az (1) bekezdés a) pontja szerinti esetben a miniszter a bejelentést követően haladéktalanul megkeresi az illetékes megyei katasztrófavédelmi igazgatóságot, illetve a Fővárosi Polgári Védelmi Igazgatóságot (a továbbiakban: Katasztrófavédelmi Igazgatóság), amely 5 munkanapon belül a 2. melléklet szerinti adatlapon – elektronikusan az ebr42 rendszerben – köteles tájékoztatást nyújtani a bejelentés valódiságáról, a vis maior esemény jellegéről, a védekezési munkálatok szükségességéről. Ennek igazolására a Katasztrófavédelmi Igazgatóság helyszíni ellenőrzést is folytat.
 
-(6)[^3] A bejelentést követően haladéktalanul – legkésőbb 20 munkanapon belül – a Kormány általános hatáskörű területi államigazgatási szerve által kinevezett és koordinált, legalább 2 fős bizottság helyszíni vizsgálatot végez (a továbbiakban: előzetes helyszíni vizsgálat). Az előzetes helyszíni vizsgálatban részt vesz a Kormány általános hatáskörű területi államigazgatási szerve, a Katasztrófavédelmi Igazgatóság, továbbá a Kormány általános hatáskörű területi államigazgatási szerve felkérése alapján:
+(6)[^3] A bejelentést követően haladéktalanul – legkésőbb 20 munkanapon belül – a fővárosi és megyei kormányhivatal által kinevezett és koordinált, legalább 2 fős bizottság helyszíni vizsgálatot végez (a továbbiakban: előzetes helyszíni vizsgálat). Az előzetes helyszíni vizsgálatban részt vesz a fővárosi és megyei kormányhivatal, a Katasztrófavédelmi Igazgatóság, továbbá a fővárosi és megyei kormányhivatal felkérése alapján:
 
 a)[^4] ár-, illetve belvíz elleni védekezés esetében a területileg illetékes vízügyi igazgatóság,
 
@@ -33,7 +33,7 @@ képviselője.
 (11)[^7] A települést ért különösen súlyos természeti csapás esetében, amelynek következtében a lakóépületek jelentős része életveszélyessé vált, illetve helyre nem állítható, kivételesen a támogatás a lakosság egyszeri, rendkívüli szociális támogatására is kiterjedhet. A lakossági támogatás a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben előírt eljárási szabályokkal egyezően az önkormányzati kötelezettségből eredő kiadások (átmeneti segély nyújtása a létfenntartást veszélyeztető rendkívüli élethelyzetbe került személyek részére az életveszély megszüntetéséhez) részbeni vagy teljes megtérítését jelenti. Ez a támogatás a kárt szenvedett lakosok biztonságát szolgálja, az ingatlan helyreállításának vagy újjáépítésének fedezetét nem tartalmazza. A támogatás előleg formájában is folyósítható a 7. § (3) bekezdésben részletezett eljárás szerint.
 
 [^2]: A 3. § (5) bekezdése a 243/2010. (X. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 3. § (6) bekezdése a 243/2010. (X. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: A 3. § (6) bekezdése a 243/2010. (X. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 69. § a) pontja szerint módosított szöveg.
 [^4]: A 3. § (6) bekezdés a) pontja a 300/2011. (XII. 22.) Korm. rendelet 30. § e) pontja szerint módosított szöveg.
 [^5]: A 3. § (9) bekezdése a 243/2010. (X. 5.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^6]: A 3. § (10) bekezdése a 243/2010. (X. 5.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
