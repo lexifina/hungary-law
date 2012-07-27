@@ -1,0 +1,1 @@
+## 1. § A Kormány a K'-Art Építész Stúdió Korlátolt Felelősségű Társaság (Cg. 06-09-006107, székhely: 6800 Hódmezővásárhely, Szabadság tér 71.) gazdasági társaságot a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
