@@ -2,7 +2,7 @@
 
 ## A magyar állampolgárságról szóló 1993. évi LV. törvény (a továbbiakban: Ápt.) 4. § (1) bekezdés e) pontja értelmében a honosítását kérő cselekvőképes nagykorú személynek – a hivatkozott törvény 4/A. § (2) bekezdésében meghatározott kivételekkel – alkotmányos alapismeretekből magyar nyelven eredményes vizsgát kell tennie.
 
-## 1. Az Ápt. 4/A. § (1) bekezdése szerint a vizsgát a Kormánynak a kérelmező lakóhelye szerint illetékes általános hatáskörű területi államigazgatási szervénél (a továbbiakban: hivatal) kell letenni, a hivatal vezetője által kijelölt vizsgabizottság előtt. Ha a vizsgára jelentkezőnek a személyiadat- és lakcímnyilvántartásban szereplő, illetve a letelepedési vagy EGT tartózkodási engedélyébe bejegyzett lakóhelye a hivatal illetékességi területén kívül van, a hivatal vezetője a vizsgára történő jelentkezést visszautasítja, illetve a vizsgabizottság a vizsgáztatást megtagadja és a jelentkezőt az illetékes hivatalhoz irányítja.
+## 1.[^70] Az Ápt. 4/A. § (1) bekezdése szerint a vizsgát a kérelmező lakóhelye szerint illetékes fővárosi és megyei kormányhivatalnál (a továbbiakban: hivatal) kell letenni, a hivatal vezetője által kijelölt vizsgabizottság előtt. Ha a vizsgára jelentkezőnek a személyiadat- és lakcímnyilvántartásban szereplő, illetve a letelepedési vagy EGT tartózkodási engedélyébe bejegyzett lakóhelye a hivatal illetékességi területén kívül van, a hivatal vezetője a vizsgára történő jelentkezést visszautasítja, illetve a vizsgabizottság a vizsgáztatást megtagadja és a jelentkezőt az illetékes hivatalhoz irányítja.
 
 ## 2. A vizsga témakörei a következők:
 
@@ -16,7 +16,7 @@
 
 ## 2.5. A magyar irodalom meghatározó személyiségei
 
-## 2.6.[^70] Az Alaptörvény alapvető intézményei (Országgyűlés, köztársasági elnök, Kormány, az Alkotmánybíróság és az igazságszolgáltatás)
+## 2.6.[^71] Az Alaptörvény alapvető intézményei (Országgyűlés, köztársasági elnök, Kormány, az Alkotmánybíróság és az igazságszolgáltatás)
 
 ## 2.7. A közigazgatás felépítése (központi, területi, helyi szervek, önkormányzati igazgatás)
 
@@ -38,7 +38,7 @@
 
 ## 9. A vizsgabizottság mellett jegyzőkönyvvezető működik, aki vezeti a jegyzőkönyvet és elvégzi a vizsgával kapcsolatos egyéb adminisztratív teendőket.
 
-## 10.[^71] A vizsgára jelentkező, illetve a vizsgabizottság tagjai és a jegyzőkönyvvezető egyaránt bejelenthet összeférhetetlenségi okot vagy elfogultságot. A hivatal vezetője a bejelentést megvizsgálja, és a jelentkező vizsgáztatására más vizsgabizottságot jelölhet ki. Ha a bejelentést a hivatal vezetőjével kapcsolatban teszik, a belügyminisztertől kérhető a vizsgáztatásra másik hivatal kijelölése.
+## 10.[^72] A vizsgára jelentkező, illetve a vizsgabizottság tagjai és a jegyzőkönyvvezető egyaránt bejelenthet összeférhetetlenségi okot vagy elfogultságot. A hivatal vezetője a bejelentést megvizsgálja, és a jelentkező vizsgáztatására más vizsgabizottságot jelölhet ki. Ha a bejelentést a hivatal vezetőjével kapcsolatban teszik, a belügyminisztertől kérhető a vizsgáztatásra másik hivatal kijelölése.
 
 ## 11. A vizsgabizottság tagjait és a jegyzőkönyvvezetőt tiszteletdíj illeti meg. A vizsgabizottság elnökét a vizsgadíj 6%-a, a vizsgabizottság tagjait 3,5%-a, a jegyzőkönyvvezetőt 1,75%-a illeti meg vizsgázónként.
 
@@ -60,7 +60,7 @@
 
 ## 20. Az elveszett vagy megsemmisült igazolásról a vizsgázó kérelmére a hivatal a vizsganyilvántartó-könyv alapján igazolásmásolatot ad ki.
 
-## 1. függelék
+## 1. függelék[^73]
 
 ## JELENTKEZÉSI LAP
 
@@ -100,7 +100,7 @@
 
 ## Anyja volt-e magyar állampolgár: ..................................................... mikortól meddig:
 
-## Tudomásul veszem, hogy a vizsgáért a kötelező legkisebb munkabér (minimálbér) 50%-át kell befizetnem a Kormány általános hatáskörű területi államigazgatási szervének számlájára.
+## Tudomásul veszem, hogy a vizsgáért a kötelező legkisebb munkabér (minimálbér) 50%-át kell befizetnem a fővárosi és megyei kormányhivatalnak számlájára.
 
 ## Kelt: ........................................................................
 
@@ -112,9 +112,7 @@
 
 ## ..................................................................................
 
-## a Kormány általános hatáskörű területi
-
-## államigazgatási szervének vezetője
+## fővárosi és megyei kormányhivatalnak vezetője
 
 ## A tájékoztatást tudomásul vettem.
 
@@ -122,7 +120,7 @@
 
 ## kérelmező
 
-## 2. függelék[^72]
+## 2. függelék[^74]
 
 ## Ügyszám: .....................................
 
@@ -130,7 +128,7 @@
 
 ## alkotmányos alapismeretek vizsgáról
 
-## Készült a ............................ (a Kormány általános hatáskörű területi államigazgatási szerve megjelölése)-ban .......... év ......................... hó ........ napján a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (1) bekezdés e) pontjában előírt alkotmányos alapismeretek vizsgáról.
+## Készült a ............................ (a fővárosi és megyei kormányhivatal megjelölése)-ban .......... év ......................... hó ........ napján a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (1) bekezdés e) pontjában előírt alkotmányos alapismeretek vizsgáról.
 
 ## A vizsgázó
 
@@ -178,9 +176,11 @@
 
 | neve | szül. helye, ideje, anyja neve | lakóhelye |
 
-8. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^73]
+8. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^75]
 
-[^70]: A 7. számú melléklet 2.6. pontja a 276/2011. (XII. 20.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.
-[^71]: A 7. számú melléklet 10. pontja a 26/2011. (III. 10.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^72]: A 7. számú melléklet 2. függeléke a 234/2010. (VIII. 31.) Korm. rendelet 23. § (6) bekezdése szerint módosított szöveg.
-[^73]: A 8. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 26/2011. (III. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^70]: A 7. számú melléklet 1. pontja a 174/2012. (VII. 26.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^71]: A 7. számú melléklet 2.6. pontja a 276/2011. (XII. 20.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.
+[^72]: A 7. számú melléklet 10. pontja a 26/2011. (III. 10.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^73]: A 7. számú melléklet 1. függeléke a 174/2012. (VII. 26.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^74]: A 7. számú melléklet 2. függeléke a 234/2010. (VIII. 31.) Korm. rendelet 23. § (6) bekezdése, a 174/2012. (VII. 26.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
+[^75]: A 8. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 26/2011. (III. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
