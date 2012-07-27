@@ -1,1 +1,0 @@
-## „(5) A hajózási hatóság együttműködik a Nemzetközi Tengerészeti Szervezet által folytatott – a hajózási hatóság tevékenységének megfelelőségét vizsgáló – ellenőrzésben, amelynek eredményét a honlapján közzéteszi.”

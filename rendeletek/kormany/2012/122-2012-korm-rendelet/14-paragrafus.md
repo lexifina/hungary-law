@@ -1,3 +1,3 @@
-## 13. § Az R3. a következő 20. §-sal egészül ki:
+## 13. §[^5]
 
-## „20. § Ez a rendelet a tengeri és belvízi közlekedést igénybe vevő utasok jogairól, valamint a 2006/2004/EK rendelet módosításáról szóló, 2010. november 24-i 1177/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.”
+[^5]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

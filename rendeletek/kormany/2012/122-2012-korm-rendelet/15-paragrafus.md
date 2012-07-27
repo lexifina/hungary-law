@@ -1,4 +1,4 @@
-## 14. § Az R3. 11. § (6) bekezdésében a „rendkívüli hajózási” szövegrész helyébe a „víziközlekedési” szöveg lép.
+## 14. §[^6]
 
 ## 4. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) E rendelet 12. §-a 2012. december 18-án lép hatályba.
 
 (3) Ez a rendelet 2012. december 19-én hatályát veszti.
+
+[^6]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
