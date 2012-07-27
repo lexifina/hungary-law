@@ -6,7 +6,7 @@
 
 a) igazságügyért,
 
-b) helyi önkormányzatok törvényességi ellenőrzéséért,
+b)[^49] helyi önkormányzatok törvényességi felügyeletéért,
 
 c) közigazgatás-szervezésért,
 
@@ -18,7 +18,7 @@ f) választójogi és népszavazási szabályozásért,
 
 g) választások és népszavazások lebonyolításáért,
 
-h)–i)[^49]
+h)–i)[^50]
 
 j) társadalompolitika összehangolásáért,
 
@@ -34,13 +34,14 @@ o) kárpótlásért,
 
 p) személyiadat- és lakcímnyilvántartásért,
 
-q)[^50]
+q)[^51]
 
 r) kormányzati társadalmi kapcsolatok összehangolásáért,
 
-s)–t)[^51]
+s)–t)[^52]
 
 [^48]: A 12. § a 267/2010. (XII. 3.) Korm. rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^49]: A 12. § h)–i) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^50]: A 12. § q) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^51]: A 12. § s)–t) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^49]: A 12. § b) pontja a 174/2012. (VII. 26.) Korm. rendelet 74. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^50]: A 12. § h)–i) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^51]: A 12. § q) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^52]: A 12. § s)–t) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.

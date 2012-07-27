@@ -4,7 +4,7 @@ a) javaslatot tesz a Kormány Európa-politikájának kereteire és fő irányai
 
 b) összehangolja a Kormánynak az európai uniós intézmények kormányzati részvétellel működő döntéshozó, döntés-előkészítő eljárásaiban képviselendő tárgyalási álláspontjait, biztosítja a tárgyalási álláspontok tartalmi összhangját és részt vesz azok kialakításában és közreműködik a magyar érdekek érvényesítésében,
 
-c)[^415] az Európai Unió döntéshozatali tevékenységében való részvételről és a kormányzati koordinációról szóló kormányhatározat által megjelölt vitás európai integrációs kérdésekben a Kormány egyidejű tájékoztatása mellett önállóan dönt,
+c)[^423] az Európai Unió döntéshozatali tevékenységében való részvételről és a kormányzati koordinációról szóló kormányhatározat által megjelölt vitás európai integrációs kérdésekben a Kormány egyidejű tájékoztatása mellett önállóan dönt,
 
 d) képviseli a Kormányt az Európai Unió Általános Ügyek és Külügyek Tanácsának ülésein, részt vesz az Európai Unió európaügyi minisztereinek találkozóin, valamint közreműködik az Európai Tanács munkájában és ellátja üléseinek előkészítését,
 
@@ -30,11 +30,11 @@ n) a közigazgatási és igazságügyi miniszterrel együttműködve gondoskodik
 
 o) összehangolja a Kormány és az Országgyűlés európai integrációs ügyekkel kapcsolatos együttműködésével összefüggő kormányzati feladatokat,
 
-p)[^416] működteti és irányítja Magyarország Központi EU Nyilvántartóját,
+p)[^424] működteti és irányítja Magyarország Központi EU Nyilvántartóját,
 
-q)[^417] a közigazgatási és igazságügyi miniszter bevonásával és az érintett miniszterekkel együttműködve ellátja Magyarország képviseletét a közösségi jog megsértése miatt indult kötelezettségszegési eljárásokban az Európai Bíróság előtti eljárást megelőző szakaszban, valamint ezzel kapcsolatban – a közigazgatási és igazságügyi miniszter bevonásával – összehangolja a beadványok előkészítését, és az egyeztetések alapján elkészíti a beadványokat,
+q)[^425] a közigazgatási és igazságügyi miniszter bevonásával és az érintett miniszterekkel együttműködve ellátja Magyarország képviseletét a közösségi jog megsértése miatt indult kötelezettségszegési eljárásokban az Európai Bíróság előtti eljárást megelőző szakaszban, valamint ezzel kapcsolatban – a közigazgatási és igazságügyi miniszter bevonásával – összehangolja a beadványok előkészítését, és az egyeztetések alapján elkészíti a beadványokat,
 
-r)[^418] az Európai Bíróság előtti eljárásokban Magyarország képviseletét meghatalmazottként ellátó közigazgatási és igazságügyi miniszter képviselője mellett bevont képviselője útján részt vesz az Európai Bíróság előtti eljárásokban, valamint részt vesz az Európai Bíróság előtti eljárásokban és a képviselendő kormányzati álláspont kialakításában,
+r)[^426] az Európai Bíróság előtti eljárásokban Magyarország képviseletét meghatalmazottként ellátó közigazgatási és igazságügyi miniszter képviselője mellett bevont képviselője útján részt vesz az Európai Bíróság előtti eljárásokban, valamint részt vesz az Európai Bíróság előtti eljárásokban és a képviselendő kormányzati álláspont kialakításában,
 
 s) gondoskodik a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv végrehajtásából eredő feladatok koordinálásáról, így különösen ellátja az irányelv 15. cikk (7) bekezdésében és 39. cikk (5) bekezdésében szabályozott bejelentési kötelezettségek teljesítésével összefüggő külön kormányrendeletben meghatározott feladatokat,
 
@@ -44,7 +44,7 @@ u) ellátja az Európai Unió többéves pénzügyi keretének tárgyalásaival 
 
 (2) A miniszter az európai integrációs ügyekért való felelőssége keretében előkészíti különösen az európai uniós tagsággal összefüggő kormányzati koordinációhoz kapcsolódó jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
-[^415]: A 116. § (1) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (71) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^416]: A 116. § (1) bekezdés p) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^417]: A 116. § (1) bekezdés q) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (71) bekezdés b) pontja, a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^418]: A 116. § (1) bekezdés r) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^423]: A 116. § (1) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (71) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^424]: A 116. § (1) bekezdés p) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^425]: A 116. § (1) bekezdés q) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (71) bekezdés b) pontja, a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^426]: A 116. § (1) bekezdés r) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 58. §[^185] A miniszter az oktatásért való felelőssége körében
+## 58. §[^193] A miniszter az oktatásért való felelőssége körében
 
 a) kidolgozza a közoktatás tartalmi szabályozásának kereteit,
 
@@ -18,4 +18,4 @@ e) közreműködik a nem állami közoktatási intézmények költségvetési t�
 
 f) segíti az esélyegyenlőség érvényesülését.
 
-[^185]: Az 58. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (37) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^193]: Az 58. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (37) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
