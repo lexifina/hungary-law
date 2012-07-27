@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-267-20-
 | 2012-04-01 | 2006-267-20-22.17 | 320/2011. (XII. 27.) Korm. rendelet |
 | 2012-04-15 | 2006-267-20-22.18 | 63/2012. (IV. 2.) Korm. rendelet |
 | 2012-07-10 | 2006-267-20-22.19 | 146/2012. (VII. 5.) Korm. rendelet |
+| 2012-07-27 | 2006-267-20-22.20 | 174/2012. (VII. 26.) Korm. rendelet |

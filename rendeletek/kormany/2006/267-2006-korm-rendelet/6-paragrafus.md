@@ -1,4 +1,4 @@
-6. §[^36] (1) A Magyar Földtani és Geofizikai Intézet (a továbbiakban: MFGI) a Magyar Állami Eötvös Loránd Geofizikai Intézet névváltozásával létrejövő központi költségvetési szerv, alaptevékenysége alapján kutatóintézet, amely a beolvadó Magyar Állami Földtani Intézet általános jogutódja.
+6. §[^37] (1) A Magyar Földtani és Geofizikai Intézet (a továbbiakban: MFGI) a Magyar Állami Eötvös Loránd Geofizikai Intézet névváltozásával létrejövő központi költségvetési szerv, alaptevékenysége alapján kutatóintézet, amely a beolvadó Magyar Állami Földtani Intézet általános jogutódja.
 
 (2) Az MFGI-nek az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) szerinti irányításáért – a (3) bekezdésben meghatározott kivétellel – a miniszter a felelős.
 
@@ -76,7 +76,7 @@ j) a klímaváltozással, az azt kiváltó folyamatokkal és hatásokkal kapcsol
 
 (7) Az MFGI éves kutatási munkaprogramját – az MFGI igazgatójának javaslata alapján – a Hivatal elnöke az MFGI éves költségvetési keretének ismeretében hagyja jóvá. Jóváhagyás előtt a munkaprogramot a környezetvédelemért és a vízgazdálkodásért felelős miniszter által kijelölt szervezetnek véleményezésre megküldi, tekintettel a hulladékgazdálkodást és a vízgazdálkodást érintő feladatokra. A kutatási munkaprogram teljesítéséről szóló jelentés elfogadásáról a Hivatal elnöke az éves költségvetési beszámoló ismeretében dönt.
 
-6./A §[^37]
+6./A §[^38]
 
-[^36]: A 6. § a 320/2011. (XII. 27.) Korm. rendelet 1. § (1) bekezésével megállapított szöveg.
-[^37]: A 6/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 163. §-a iktatta be, hatályon kívül helyezte a 320/2011. (XII. 27.) Korm. rendelet 1. § (2) bekezdése.
+[^37]: A 6. § a 320/2011. (XII. 27.) Korm. rendelet 1. § (1) bekezésével megállapított szöveg.
+[^38]: A 6/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 163. §-a iktatta be, hatályon kívül helyezte a 320/2011. (XII. 27.) Korm. rendelet 1. § (2) bekezdése.

@@ -64,7 +64,7 @@
 
 | 13. | „A” osztályú bányászati hulladékkezelő létesítmény építési és használatbavételi engedélyezési eljárásában | belső vészhelyzeti terv megfelelőségének kérdésében | megyei, fővárosi katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^51]
+3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^52]
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M |
 
@@ -130,4 +130,4 @@
 
 | 14. | Ha az eljárás régészeti lelőhelyet, régészeti védőövezet területét, műemléki területet vagy külön jogszabályban meghatározott esetekben műemléket érint, és az eljárással érintett tevékenység megkezdéséhez, bányatelek megállapításhoz környezetvédelmi engedély vagy egységes környezet- használati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a kérelem a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | fővárosi, megyei kormányhivatal kulturális örökségvédelmi irodája | Kulturális Örökségvédelmi Hivatal | IGEN | IGEN | NEM | IGEN | NEM | IGEN | IGEN | IGEN | NEM |
 
-[^51]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 3. melléklet a 146/2012. (VII. 5.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^52]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 3. melléklet a 146/2012. (VII. 5.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.

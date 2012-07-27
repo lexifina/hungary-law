@@ -12,11 +12,11 @@
 
 a) a létesítésre vonatkozó tűzvédelmi előírások érvényre juttatása kérdésében első fokú eljárásban a hivatásos önkormányzati tűzoltóságot, másodfokú eljárásban a megyei katasztrófavédelmi igazgatóság, a főváros területén az Országos Katasztrófavédelmi Főigazgatóságot,
 
-b) a helyi építési szabályzat előírásainak érvényre juttatása kérdésében első fokú eljárásban az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló kormányrendelet szerinti építésügyi hatóságot, másodfokú eljárásban a Kormány általános hatáskörű területi államigazgatási szervét
+b)[^32] a helyi építési szabályzat előírásainak érvényre juttatása kérdésében első fokú eljárásban az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló kormányrendelet szerinti építésügyi hatóságot, másodfokú eljárásban a fővárosi és megyei kormányhivatalt
 
 ## szakhatóságként jelöli ki.
 
-(7)[^32] A Kormány a bányászati hulladékkezelő létesítmények bezárási eljárásában – ha a bezárást nem műszaki üzemi terv jóváhagyásával engedélyezik –
+(7)[^33] A Kormány a bányászati hulladékkezelő létesítmények bezárási eljárásában – ha a bezárást nem műszaki üzemi terv jóváhagyásával engedélyezik –
 
 a) a környezetvédelmi előírásoknak való megfelelőség szakkérdésében az első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, a másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget,
 
@@ -24,11 +24,11 @@ b) a katasztrófavédelmi előírásoknak való megfelelőség szakkérdésében
 
 ## szakhatóságként jelöli ki.
 
-(8)[^33] Ha az engedélyezési eljárás a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet (a továbbiakban: Khvr.) 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül, az (1) bekezdés szerinti esetben a kérelemhez mellékelni kell a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr.-ben meghatározott – adatlapot.
+(8)[^34] Ha az engedélyezési eljárás a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet (a továbbiakban: Khvr.) 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül, az (1) bekezdés szerinti esetben a kérelemhez mellékelni kell a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr.-ben meghatározott – adatlapot.
 
-(9)[^34] A Kormány a bányászati hatóságnak a geotermikus védőidom megállapítására irányuló eljárásában, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, a geotermikus védőidom kijelölésének a felszín alatti vizek mennyiségi és minőségi védelmével kapcsolatos szakkérdésében, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
+(9)[^35] A Kormány a bányászati hatóságnak a geotermikus védőidom megállapítására irányuló eljárásában, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, a geotermikus védőidom kijelölésének a felszín alatti vizek mennyiségi és minőségi védelmével kapcsolatos szakkérdésében, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
 
-(10)[^35] A Kormány a szén-dioxid geológiai tárolásával kapcsolatos első- és másodfokú engedélyezési eljárásban a 3. mellékletben meghatározott feltételek esetében és szakkérdésben a 3. melléklet szerinti hatóságokat szakhatóságként jelöli ki.
+(10)[^36] A Kormány a szén-dioxid geológiai tárolásával kapcsolatos első- és másodfokú engedélyezési eljárásban a 3. mellékletben meghatározott feltételek esetében és szakkérdésben a 3. melléklet szerinti hatóságokat szakhatóságként jelöli ki.
 
 [^26]: A 4/A. §-t a 362/2008. (XII. 31.) Korm. rendelet 22. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^27]: A 4/A. § (1) bekezdése az 59/2010. (III. 18.) Korm. rendelet 5. § (3) bekezdése, a 41/2011. (III. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
@@ -36,7 +36,8 @@ b) a katasztrófavédelmi előírásoknak való megfelelőség szakkérdésében
 [^29]: [A 351/2010. (XII. 30.) Korm. rendelet 161. §-ával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal területi szerve” szövegrész helyébe a „megyei kormányhivatal növény- és talajvédelmi igazgatósága” szövegrész, a „Mezőgazdasági Szakigazgatási Hivatal Központ” szövegrész helyébe a „Mezőgazdasági Szakigazgatási Hivatal” szöveg lép, nem vezethető át.] A 4/A. § (4) bekezdése a 23/2012. (II. 29.) Korm. rendelet 18. § (1) bekezdése szerint módosított szöveg.
 [^30]: A 4/A. § (5) bekezdése az 59/2010. (III. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^31]: A 4/A. § (6) bekezdését a 273/2009. (XII. 3.) Korm. rendelet 20. § (5) bekezdése iktatta be. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^32]: A 4/A. § (7) bekezdését a 41/2011. (III. 22.) Korm. rendelet 2. §-a iktatta be.
-[^33]: A 4/A. § (8) bekezdését a 82/2011. (V. 18.) Korm. rendelet 36. §-a iktatta be.
-[^34]: A 4/A. § (9) bekezdését a 195/2011. (IX. 22.) Korm. rendelet 3. §-a iktatta be.
-[^35]: A 4/A. § (10) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 23. §-a iktatta be.
+[^32]: A 4/A. § (6) bekezdés b) pontja a 174/2012. (VII. 26.) Korm. rendelet 40. §-a szerint módosított szöveg.
+[^33]: A 4/A. § (7) bekezdését a 41/2011. (III. 22.) Korm. rendelet 2. §-a iktatta be.
+[^34]: A 4/A. § (8) bekezdését a 82/2011. (V. 18.) Korm. rendelet 36. §-a iktatta be.
+[^35]: A 4/A. § (9) bekezdését a 195/2011. (IX. 22.) Korm. rendelet 3. §-a iktatta be.
+[^36]: A 4/A. § (10) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 23. §-a iktatta be.
