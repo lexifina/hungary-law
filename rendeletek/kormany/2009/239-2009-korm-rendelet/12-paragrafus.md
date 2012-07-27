@@ -4,7 +4,7 @@ a) a szálláshely címét, helyrajzi számát,
 
 b) a szálláshely elnevezését,
 
-c)[^9] a szálláshely-szolgáltató adóazonosító számát, statisztikai számjelét,
+c)[^10] a szálláshely-szolgáltató adóazonosító számát, statisztikai számjelét,
 
 d) a szálláshely-szolgáltatási tevékenység típusának megjelölését,
 
@@ -18,4 +18,4 @@ h) a szálláshely megszűnésének időpontját és a megszűnés okát.
 
 (2) A jegyző az általa vezetett nyilvántartás valamennyi adatát közzéteszi az interneten.
 
-[^9]: A 12. § (1) bekezdés c) pontja a 281/2010. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^10]: A 12. § (1) bekezdés c) pontja a 281/2010. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.

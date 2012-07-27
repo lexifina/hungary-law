@@ -1,3 +1,3 @@
-## 19. §[^15]
+## 19. §[^16]
 
-[^15]: A 19. §-t a 17. § (2) bekezdése hatályon kívül helyezte.
+[^16]: A 19. §-t a 17. § (2) bekezdése hatályon kívül helyezte.
