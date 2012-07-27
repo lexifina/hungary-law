@@ -6,11 +6,11 @@
 
 Melléklet a 318/2001. (XII. 29.) Korm. rendelethez[^38]
 
-A Kormánynak a „Magyar igazolvány”, valamint a „Magyar hozzátartozói igazolvány” kézbesítésében közreműködő általános hatáskörű területi államigazgatási szervei
+A „Magyar igazolvány”, valamint a „Magyar hozzátartozói igazolvány” kézbesítésében közreműködő fővárosi és megyei kormányhivatalok
 
 |  | A | B | C |
 
-| 1 | A Kormány általános hatáskörű területi államigazgatási szervének a megnevezése | Székhelye | Kézbesítéssel érintett személyi kör |
+| 1 | A fővárosi és megyei kormányhivatalnak a megnevezése | Székhelye | Kézbesítéssel érintett személyi kör |
 
 | 2 | Baranya Megyei Kormányhivatal | Pécs | A Horvát Köztársaságban és a Szlovén Köztársaságban lakóhellyel rendelkező jogosultak |
 
@@ -40,4 +40,4 @@ A Kormánynak a „Magyar igazolvány”, valamint a „Magyar hozzátartozói i
 
 [^36]: A 21. §-t a 276/2006. (XII. 23.) Korm. rendelet 18. § (1) bekezdésének g) pontja hatályon kívül helyezte, újonnan a 130/2007. (VI. 12.) Korm. rendelet 12. §-a iktatta be.
 [^37]: A 22. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 987. pontja hatályon kívül helyezte.
-[^38]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 87. §-ával megállapított szöveg.
+[^38]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 87. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 27. § c) és d) pontja szerint módosított szöveg.
