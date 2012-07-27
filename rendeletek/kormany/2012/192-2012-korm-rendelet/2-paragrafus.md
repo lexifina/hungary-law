@@ -1,0 +1,1 @@
+## 1. § A Kormány az ALISCA BAU Vagyonkezelő Korlátolt Felelősségű Társaság (Cg. 17-09-006821, székhely: 7140 Bátaszék, Bonyhádi utca 30.) gazdasági társaságot a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
