@@ -6,7 +6,7 @@ A Kormánynak a diákkedvezmények megállapítását végző területi államig
 
 |  | A | B | C |
 
-| 1 | A Kormány általános hatáskörű területi államigazgatási szervének a megnevezése | Székhelye | Érintett kör |
+| 1 | A fővárosi és megyei kormányhivatal megnevezése | Székhelye | Érintett kör |
 
 | 2 | Győr-Moson-Sopron Megyei Kormányhivatal | Győr | A Szlovák Köztársaságban és a Horvát Köztársaságban lakóhellyel rendelkező jogosultak |
 
@@ -34,4 +34,4 @@ A Kormánynak a diákkedvezmények megállapítását végző területi államig
 
 | 14 | Bács-Kiskun Megyei Kormányhivatal | Kecskemét | A Szerb Köztársaságban lakóhellyel rendelkező jogosultak |
 
-[^57]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 89. §-ával megállapított szöveg.
+[^57]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 89. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 28. §-a szerint módosított szöveg.
