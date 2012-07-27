@@ -1,8 +1,8 @@
-## Bejelentési kötelezettség[^110]
+## Bejelentési kötelezettség[^111]
 
-8/A. §[^111] (1) A fenntartó köteles az első fokú működést engedélyező szervnek a változást követő tizenöt napon belül bejelenteni, ha
+8/A. §[^112] (1) A fenntartó köteles az első fokú működést engedélyező szervnek a változást követő tizenöt napon belül bejelenteni, ha
 
-a)[^112] bölcsőde, hetes bölcsőde, családi napközi, családi gyermekfelügyelet, alternatív napközbeni ellátás, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon és utógondozó otthon esetén
+a)[^113] bölcsőde, hetes bölcsőde, családi napközi, családi gyermekfelügyelet, alternatív napközbeni ellátás, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon és utógondozó otthon esetén
 
 aa) az ellátásba a szolgáltató (intézmény) elhelyezésére korábban nem szolgáló épületet (épületrészt) vont be, vagy az ellátásból korábban erre a célra szolgáló épületet (épületrészt) vont ki,
 
@@ -36,9 +36,9 @@ c) a jogutód nélküli megszűnése iránt eljárás indult, és ha az eljárá
 
 (7) Az (5)–(6) bekezdés alapján teljesített bejelentéshez mellékelni kell a bejelentésben foglaltakat alátámasztó okirat másolatát. Ha a bejelentésre kötelezett az (5) bekezdés a)–b) pontja vagy a (6) bekezdés, illetve bírósági nyilvántartásba vett fenntartó esetén a (5) bekezdés c) pontja alapján teljesített bejelentésben foglaltakat nem igazolja, és az adat az egyéni vállalkozók nyilvántartásában, illetve bírósági nyilvántartásban rendelkezésre áll, a bejelentésben foglaltakat a működést engedélyező szerv a nyilvántartásból ellenőrzi.
 
-(8)[^113] A működést engedélyező szerv a (4)–(6) bekezdés szerinti bejelentésről nyolc napon belül értesíti az ellátásra köteles helyi önkormányzatot, megyei fenntartót, az igazgatóságot és a gyermekjogi képviselőt.
+(8)[^114] A működést engedélyező szerv a (4)–(6) bekezdés szerinti bejelentésről nyolc napon belül értesíti az ellátásra köteles helyi önkormányzatot, megyei fenntartót, az igazgatóságot és a gyermekjogi képviselőt.
 
-[^110]: A 8/A. §-t megelőző alcímet a 320/2009. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
-[^111]: A 8/A. §-t a 320/2009. (XII. 29.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^112]: A 8/A. § (1) bekezdés a) pontja a 330/2011. (XII. 29.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
-[^113]: A 8/A. § (8) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 1. pontja, a 258/2011. (XII. 7.) Korm. rendelet 44. § (8) bekezdése szerint módosított szöveg.
+[^111]: A 8/A. §-t megelőző alcímet a 320/2009. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^112]: A 8/A. §-t a 320/2009. (XII. 29.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^113]: A 8/A. § (1) bekezdés a) pontja a 330/2011. (XII. 29.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
+[^114]: A 8/A. § (8) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 1. pontja, a 258/2011. (XII. 7.) Korm. rendelet 44. § (8) bekezdése szerint módosított szöveg.

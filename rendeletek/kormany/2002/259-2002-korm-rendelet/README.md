@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-259-20-
 | 2012-01-01 | 2002-259-20-22.27 | 330/2011. (XII. 29.) Korm. rendelet |
 | 2012-03-03 | 2002-259-20-22.28 | 376/2004. (XII. 28.) Korm. rendelet |
 | 2012-07-01 | 2002-259-20-22.29 | 360/2010. (XII. 30.) Korm. rendelet |
+| 2012-07-27 | 2002-259-20-22.30 | 174/2012. (VII. 26.) Korm. rendelet |
