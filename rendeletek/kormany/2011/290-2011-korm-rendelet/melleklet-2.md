@@ -46,7 +46,7 @@
 
 ## 10. a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szervek,
 
-## 11. a területi államigazgatási szervek,
+## 11.[^10] a fővárosi és megyei kormányhivatalok,
 
 ## 12. a körjegyzőség, a polgármesteri hivatalok (a képviselő-testület hivatala, a megyei jogú város kerületi hivatala, a fővárosi kerületi képviselő-testület hivatala), a megyei közgyűlés hivatala, a főpolgármesteri hivatal (a fővárosi közgyűlés hivatala), az önkormányzati hatósági igazgatási társulások,
 
@@ -62,7 +62,9 @@
 
 ## 18. jogszabály, a miniszterek által honvédelmi feladat ellátására kijelölt, honvédelemben közreműködő szervek,
 
-## 19. a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi C. törvény szerinti egyházak.
+## 19. a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi C. törvény szerinti egyházak,
+
+## 20.[^11] a lakosság részére alapvető közüzemi szolgáltatást nyújtó szervek.
 
 ## III. kategória
 
@@ -125,3 +127,6 @@ a) Minta az Excel formátumú adatszolgáltatásra:
 – Jogszabály:
 
 – Bírósági határozat száma:
+
+[^10]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 11. pontja a 174/2012. (VII. 26.) Korm. rendelet 87. § (17) bekezdésével megállapított szöveg.
+[^11]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 20. pontját a 174/2012. (VII. 26.) Korm. rendelet 87. § (18) bekezdése iktatta be.

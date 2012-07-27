@@ -2,12 +2,10 @@
 
 ## 37. A légiriasztás elrendelése és feloldása
 
-## 82. § A légiriasztásra vonatkozó, a légierő ügyeletes parancsnokától érkező jelzés vételét követően
+## 82. §[^6] A légiriasztásra vonatkozó, a légierő ügyeletes parancsnokától érkező jelzés vételét követően
 
-a) az MTVA közszolgálati műsorszolgáltatásban,
+a) az MTVA közszolgálati műsorszolgáltatásában és a külön jogszabályban kijelölt országos, vagy helyi műsorszolgáltatók műsorában a közlemények átvételével,
 
-b) a polgári védelem riasztási rendszere helyi riasztási eszközein,
+b) a polgári védelem riasztási rendszere helyi riasztási eszközein
 
-c) külön jogszabályban kijelölt országos vagy helyi műsorszolgáltató műsorában az MR közleményének átvételével
-
-a légiriasztást azonnal végre kell hajtani.
+[^6]: A 82. § a 174/2012. (VII. 26.) Korm. rendelet 87. § (15) bekezdésével megállapított szöveg.

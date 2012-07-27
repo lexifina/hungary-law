@@ -4,4 +4,6 @@
 
 37. § (1) A honvédelemért felelős miniszter irányítása alatt álló központi hivatal a HM VH.
 
-(2) A HM VH a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-koordináló szakmai szerveként honvédelmi igazgatási feladatokat lát el.
+(2)[^1] A HM VH a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-koordináló szakmai szerve, amely a honvédelmi igazgatási feladatok mellett a HM feladat- és hatáskörébe tartozó egyéb védelmi igazgatási feladatokat is elláthat.
+
+[^1]: A 37. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 87. § (10) bekezdésével megállapított szöveg.
