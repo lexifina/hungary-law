@@ -1,0 +1,1 @@
+[A Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás (SzMGSz) és Mellékletei 2011. évi módosításai és kiegészítései Magyarország vonatkozásában 2011. július 1-jén léptek nemzetközi jogilag hatályba.]
