@@ -1,0 +1,1 @@
+## 1. § A Kormány a ZEMPLÉNKŐ Kelet-magyarországi Építőipari Fővállalkozó és Bányászati Korlátolt Felelősségű Társaság (Cg. 05-09-008473, székhely: 3950 Sárospatak, Páncél-hegy) gazdasági társaságot a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
