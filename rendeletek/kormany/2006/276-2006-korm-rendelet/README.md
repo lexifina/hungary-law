@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-276-20-
 | 2011-07-19 | 2006-276-20-22.23 | 278/2008. (XI. 28.) Korm. rendelet |
 | 2012-01-01 | 2006-276-20-22.24 | 310/2007. (XI. 16.) Korm. rendelet |
 | 2012-04-22 | 2006-276-20-22.25 | 278/2008. (XI. 28.) Korm. rendelet |
+| 2012-07-27 | 2006-276-20-22.26 | 318/2008. (XII. 23.) Korm. rendelet |
