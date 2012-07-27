@@ -188,7 +188,7 @@
 
 | Nemzeti Fejlesztési Minisztérium |
 
-| 77. | Magyar Energia Hivatal | 126 |
+| 77. | Magyar Energia Hivatal | 197 |
 
 | 78. | Országos Atomenergia Hivatal | 85 |
 
@@ -228,6 +228,6 @@
 
 | 92. | Országos Egészségbiztosítási Pénztár | 1594 |
 
-| 93. | ÖSSZESEN | 70729 |
+| 93. | ÖSSZESEN: | 70 800 |
 
-[^2]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított, az 1258/2012. (VII. 26.) Korm. határozat 1. pontja szerint módosított szöveg.
