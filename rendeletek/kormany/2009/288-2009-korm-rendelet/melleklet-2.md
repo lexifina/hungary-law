@@ -1492,7 +1492,7 @@
 
 |  |  | (29) a gyermek és ifjúságvédelmi koordinátorok által végzett tevékenységek (a bűnmegelőzeési programok helye szerinti bontásban) és a közreműködések száma szerint bontásban, |
 
-|  |  | (30) adatok a bűncselekményt és szabálysértést elkövetett gyermek- és fiatalkorúakról (KIM Pártfogó, rendőrség, jegyző és gyermekjóléti szolgálat szerinti bontásban), |
+|  |  | (30) adatok a bűncselekményt és szabálysértést elkövetett gyermek- és fiatalkorúakról (KIM Pártfogó, rendőrség, jegyző, fővárosi és megyei kormányhivatal és gyermekjóléti szolgálat szerinti bontásban), |
 
 |  |  | (31) a tárgyévben kiszabott gyermekvédelmi igazgatási bírságok összege az eset típusa szerint (és az egyeztető beszélgetések alapszáma). |
 
@@ -3526,4 +3526,4 @@
 
 2. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^12]
 
-[^12]: A 2. melléklet a 243/2011. (XI. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^12]: A 2. melléklet a 243/2011. (XI. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 66. § (3) és (4) bekezdése szerint módosított szöveg.

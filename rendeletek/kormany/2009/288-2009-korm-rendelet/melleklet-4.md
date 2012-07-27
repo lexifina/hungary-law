@@ -24,7 +24,7 @@
 
 | 1730 | Önálló bírósági végrehajtók tevékenysége | AGY | Negyedévenkénti, havi bontásban | önálló bírósági végrehajtók | a tárgyidőszakot követő hó 15. |  |
 
-| 2030 | Jelentés a pártfogó felügyelői tevékenységéről | AGY | Évenként kétszeri | megyei igazságügyi hivatalok | a tárgyfélévet követő hó 20. |  |
+| 2030 | Jelentés a pártfogó felügyelői tevékenységéről | AGY | Évenként kétszeri | fővárosi és megyei kormányhivatalok igazságügyi szolgálatai | a tárgyfélévet követő hó 20. |  |
 
 | 2031 | Jelentés a közvetítői tevékenységről | AGY | Évenkénti | közvetítők, a közvetítőket foglalkoztató jogi személyek és jogi személyiség nélküli gazdasági társaságok | a tárgyévet követő január 31. |  |
 
