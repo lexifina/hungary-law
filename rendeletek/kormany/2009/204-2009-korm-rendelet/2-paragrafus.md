@@ -20,4 +20,4 @@ b) fél naptári napként kell figyelembe venni azt a napot, amelynek során az 
 
 (8) A napidíj összege után az ideiglenes külföldi kiküldetést teljesítő személyt a hatályos jogszabályoknak megfelelően terheli adó- és járulékfizetési kötelezettség.
 
-[^2]: Az 1. § a 273/2010. (XII. 9.) Korm. rendelet 128. §-ával megállapított szöveg.
+[^2]: Az 1. § a 273/2010. (XII. 9.) Korm. rendelet 128. §-ával megállapított szöveg. [A 174/2012. (VII. 26.) Korm. rendelet 60. §-ával elrendelet módosítás, amely szerint a „Kormány általános területi államigazgatási szerve” szövegrész helyébe a „fővárosi és megyei kormányhivatal” szöveg lép, nem vezethető át.]
