@@ -1,1 +1,0 @@
-## „(4) A benyújtott támogatási kérelem teljességének ellenőrzését követően az MVH a támogatásról beérkezési sorrend alapján – az agrárpolitikáért felelős miniszter által meghatározott éves támogatási keret erejéig – a szolgáltató részére kedvezményezettenkénti részletezésben döntést hoz.”
