@@ -1,7 +1,8 @@
-## 16. §[^92] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 56/2012. (VI. 21.) VM rendelettel [a továbbiakban: 56/2012. (VI. 21.) VM rendelet] megállapított 9/A. §-át azon, az 56/2012. (VI. 21.) VM rendelet hatálybalépésekor[^93] folyamatban lévő ügyek esetében kell alkalmazni, amelyekben az ügyfél a támogatási kérelmét 2007. április 23. napjától 2007. május 23. napjáig, továbbá 2007. augusztus 13. napjától 2007. szeptember 17. napjáig tartó időszakban nyújtotta be és a módosító rendelet hatálybalépésekor a Vhr. 25. § (2) bekezdése szerint határidő már letelt, de a Vhr. 17. § (3) bekezdése szerinti utolsó kifizetési kérelem benyújtására nyitva álló időszak még nem telt le. Nem kell alkalmazni a 9/A. §-t azokban az ügyekben, amelyekben az ügyfél utolsó kifizetési kérelmére hozott kifizetési határozat a módosító rendelet hatálybalépésekor már jogerőre emelkedett.
+## 17. §[^95] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártárgyú miniszteri rendeletek módosításáról szóló 76/2012. (VII. 27.) VM rendelettel [a továbbiakban: 76/2012. (VII. 27.) VM rendelet] megállapított 9/B. §-ának rendelkezéseit a 76/2012. (VII. 27.) VM rendelet hatálybalépésekor[^96] folyamatban lévő azon ügyekben kell alkalmazni, amelyekben a támogatási kérelmet 2009. december 15. napjával bezárólag nyújtották be és a 76/2012. (VII. 27.) VM rendelet hatálybalépésekor[^97] a Vhr. 24. § (1) bekezdése rendelkezéseinek megsértése miatt a Vhr. 35. § (9) bekezdésében foglaltak alkalmazásának lenne helye, vagy a Vhr. 35. § (9) bekezdésében foglalt bármelyik döntés még nem emelkedett jogerőre, vagy annak kapcsán bírósági felülvizsgálat van folyamatban.
 
-1. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^94]
+1. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^98]
 
-[^92]: A 16. §-t az 56/2012. (VI. 21.) VM rendelet 2. §-a iktatta be.
-[^93]: A hatálybalépés időpontja 2012. június 22.
-[^94]: Az 1. számú melléklet a 143/2009. (XI. 5.) FVM rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^95]: A 17. §-t a 76/2012. (VII. 27.) VM rendelet 2. §-a iktatta be.
+[^96]: A hatálybalépés időpontja 2012. július 28.
+[^97]: A hatálybalépés időpontja 2012. július 28.
+[^98]: Az 1. számú melléklet a 143/2009. (XI. 5.) FVM rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.

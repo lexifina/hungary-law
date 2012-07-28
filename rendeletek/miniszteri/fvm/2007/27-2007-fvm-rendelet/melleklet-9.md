@@ -152,6 +152,6 @@
 
 | A vállalkozás társadalmi felelősségvállalása | (+) 5 |
 
-9. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^102]
+9. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^106]
 
-[^102]: A 9. számú melléklet a 130/2008. (X. 1.) FVM rendelet 6. § (2) bekezdésével megállapított, a 143/2009. (XI. 5.) FVM rendelet 8. § (6) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^106]: A 9. számú melléklet a 130/2008. (X. 1.) FVM rendelet 6. § (2) bekezdésével megállapított, a 143/2009. (XI. 5.) FVM rendelet 8. § (6) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

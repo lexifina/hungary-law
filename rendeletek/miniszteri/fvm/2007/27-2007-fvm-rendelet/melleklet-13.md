@@ -242,7 +242,7 @@
 
 |  | – Rezsióradíj alapján számított élőmunka költség. |
 
-13. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^106]
+13. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^110]
 
 Telepi állategészségügyi helyzetet, illetve a nyomon követhetőséget javító, állatbetegségek kialakulását
 
@@ -280,32 +280,4 @@ Telepi állategészségügyi helyzetet, illetve a nyomon követhetőséget javí
 
 |  | – Rezsióradíj alapján számított élőmunka költség. |
 
-| 5.1.1.1.3. Bendő-bólusz és számítógépes bólusz-leolvasó |
-
-| MT | – A korszerű üzemeltetési funkcióknak és a kapcsolódó előírásoknak megfelelő működést biztosító technológiai kivitelezés. |
-
-|  | – Meglévő állatállomány gépi automatikus azonosítására, valamint élettani adatok gyűjtésére is alkalmas bendő-bólusz lenyeletése, és az azonosítás számítógépes telepirányítási rendszerbe illesztése. |
-
-|  | – A számítógépes bólusz-leolvasó egység telepítése, számítógépre kapcsolása, adatok elektronikus rögzítésének kialakítása. |
-
-|  | – Üzembe helyezés, a dolgozók oktatása. |
-
-| EK | – A bendő-bólusz elemek és a számítógépes bólusz-leolvasó terv szerinti részegységeinek beszerzése (bendő-bólusz, lenyelető eszköz, érzékelő, adattároló, automatikus adatgyűjtő stb.), azok helyszínre szállításával. |
-
-|  | – A technológia szerelési anyagainak (például villamos szerelési anyagok, adatkábelek, csatlakozók stb.) beszerzése, beépítése helyszínre szállítással. |
-
-|  | – A leolvasó egység lakatos szerelési munkáinak anyagköltségei. |
-
-|  | – Rezsióradíj alapján számított élőmunka költség. |
-
-| 5.1.1.1.4. Füljelzők és állatjelölők |
-
-| MT | – A korszerű üzemeltetési funkcióknak és a kapcsolódó előírásoknak megfelelő működést biztosító technológiai kivitelezés. |
-
-|  | – A füljelzők és állatjelölők állategészségügyi és nyomonkövethetőségi előírásoknak a telepi állatorvos által igazoltan megfelelő használata. |
-
-| EK | – Meglévő állatállomány hagyományos azonosításához, füljelzők és állatjelölők, terv szerinti részegységeinek beszerzése (füljelző, behelyező eszköz stb.), azok helyszínre szállításával. |
-
-|  | – Az állatjelölők behelyezésének költségei. |
-
-[^106]: A 13. számú melléklet a 130/2008. (X. 1.) FVM rendelet 6. § (6) bekezdésével megállapított szöveg.
+[^110]: A 13. számú melléklet a 130/2008. (X. 1.) FVM rendelet 6. § (6) bekezdésével megállapított szöveg.
