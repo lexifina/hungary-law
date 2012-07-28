@@ -1,4 +1,4 @@
-19/A. §[^135] (1)[^136] A kivizsgálás során a környezethasználó, illetve a felügyelőség köteles mérlegelni a felszín alatti vizek, illetve földtani közeg eredeti állapothoz közeli állapotba történő – kárelhárítás esetén gyors – visszaállítása érdekében a választható intézkedéseket, figyelembe véve a (2) bekezdésben foglaltakat és a természetes regenerálódás lehetőségét is.
+19/A. §[^136] (1)[^137] A kivizsgálás során a környezethasználó, illetve a felügyelőség köteles mérlegelni a felszín alatti vizek, illetve földtani közeg eredeti állapothoz közeli állapotba történő – kárelhárítás esetén gyors – visszaállítása érdekében a választható intézkedéseket, figyelembe véve a (2) bekezdésben foglaltakat és a természetes regenerálódás lehetőségét is.
 
 (2) A helyreállítási intézkedések kiválasztása során – a rendelkezésre álló legjobb technológiák alkalmazásával – a következő szempontokat kell figyelembe venni:
 
@@ -24,5 +24,5 @@ e) a 21. § (6) bekezdésében foglaltakat, továbbá a környezeti állapot tov
 
 f) lényeges társadalmi, gazdasági és kulturális vonatkozásokat és a helyi sajátosságokból adódó egyéb lényeges tényezőket.
 
-[^135]: A 19/A. §-t a 92/2007. (IV. 26.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 9. § (3) bekezdése alapján a rendelkezést a 2007. április 30. napja után megvalósított környezetkárosításokra, valamint környezetveszélyeztető magatartásokra kell alkalmazni. Mulasztás által megvalósított környezetkárosítás vagy környezetveszélyeztetés esetén az akkor hatályos szabályokat kell alkalmazni, amikor a környezethasználó a környezetkárosodást vagy környezetveszélyeztetést megakadályozhatta volna.
-[^136]: A 19/A. § (1) bekezdése a 302/2008. (XII. 17.) Korm. rendelet 11. §-ával megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^136]: A 19/A. §-t a 92/2007. (IV. 26.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 9. § (3) bekezdése alapján a rendelkezést a 2007. április 30. napja után megvalósított környezetkárosításokra, valamint környezetveszélyeztető magatartásokra kell alkalmazni. Mulasztás által megvalósított környezetkárosítás vagy környezetveszélyeztetés esetén az akkor hatályos szabályokat kell alkalmazni, amikor a környezethasználó a környezetkárosodást vagy környezetveszélyeztetést megakadályozhatta volna.
+[^137]: A 19/A. § (1) bekezdése a 302/2008. (XII. 17.) Korm. rendelet 11. §-ával megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.

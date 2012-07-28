@@ -1,30 +1,30 @@
-24. § (1)[^155] A (D) kármentesítési célállapot határérték – szükség esetén részterületenként és mélység szerint eltérő – kockázati alapon történő meghatározásánál a 19/A. § (2) bekezdésében foglaltakon túl, figyelembe kell venni:
+24. § (1)[^156] A (D) kármentesítési célállapot határérték – szükség esetén részterületenként és mélység szerint eltérő – kockázati alapon történő meghatározásánál a 19/A. § (2) bekezdésében foglaltakon túl, figyelembe kell venni:
 
-a)[^156]
+a)[^157]
 
-b)[^157] a szennyező anyagokra vonatkozó (B) szennyezettségi határértéket és a szennyező anyagokra vonatkozó küszöbértékeket;
+b)[^158] a szennyező anyagokra vonatkozó (B) szennyezettségi határértéket és a szennyező anyagokra vonatkozó küszöbértékeket;
 
 c) a szennyezettséget, károsodást megelőző korábbi, feltételezhető állapotot, továbbá az (Ab) bizonyított háttér-koncentráció értékeit;
 
-d)–e)[^158]
+d)–e)[^159]
 
-f)[^159] az alkalmazásra javasolt, bizonyítottan legjobb elérhető, kármentesítési beavatkozási technológiát;
+f)[^160] az alkalmazásra javasolt, bizonyítottan legjobb elérhető, kármentesítési beavatkozási technológiát;
 
 g) amennyiben a szennyezettség, illetve a veszélyeztetettség mértéke szükségessé teszi
 
-ga)[^160] a részletes kármentesítési mennyiségi kockázatfelmérés eredményét, illetve
+ga)[^161] a részletes kármentesítési mennyiségi kockázatfelmérés eredményét, illetve
 
-gb)[^161]
+gb)[^162]
 
-(2)[^162]
+(2)[^163]
 
 (3) Az (E) egyedi szennyezettségi határérték megállapítása során az (1) bekezdés ga) pontjában meghatározottak szerint kell eljárni.
 
-[^155]: A 24. § (1) bekezdésének felvezető szövege a 92/2007. (IV. 26.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (3) bekezdése alapján a rendelkezést a 2007. április 30. napja után megvalósított környezetkárosításokra, valamint környezetveszélyeztető magatartásokra kell alkalmazni. Mulasztás által megvalósított környezetkárosítás vagy környezetveszélyeztetés esetén az akkor hatályos szabályokat kell alkalmazni, amikor a környezethasználó a környezetkárosodást vagy környezetveszélyeztetést megakadályozhatta volna.
-[^156]: A 24. § (1) bekezdésének a) pontját a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
-[^157]: A 24. § (1) bekezdésének b) pontja a 302/2008. (XII. 17.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^158]: A 24. § (1) bekezdésének d)–e) pontját a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
-[^159]: A 24. § (1) bekezdésének f) pontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^160]: A 24. § (1) bekezdésének ga) alpontja a 302/2008. (XII. 17.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^161]: A 24. § (1) bekezdése g) pontjának gb) alpontját a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
-[^162]: A 24. § (2) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte.
+[^156]: A 24. § (1) bekezdésének felvezető szövege a 92/2007. (IV. 26.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (3) bekezdése alapján a rendelkezést a 2007. április 30. napja után megvalósított környezetkárosításokra, valamint környezetveszélyeztető magatartásokra kell alkalmazni. Mulasztás által megvalósított környezetkárosítás vagy környezetveszélyeztetés esetén az akkor hatályos szabályokat kell alkalmazni, amikor a környezethasználó a környezetkárosodást vagy környezetveszélyeztetést megakadályozhatta volna.
+[^157]: A 24. § (1) bekezdésének a) pontját a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^158]: A 24. § (1) bekezdésének b) pontja a 302/2008. (XII. 17.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^159]: A 24. § (1) bekezdésének d)–e) pontját a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^160]: A 24. § (1) bekezdésének f) pontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^161]: A 24. § (1) bekezdésének ga) alpontja a 302/2008. (XII. 17.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^162]: A 24. § (1) bekezdése g) pontjának gb) alpontját a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^163]: A 24. § (2) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte.
