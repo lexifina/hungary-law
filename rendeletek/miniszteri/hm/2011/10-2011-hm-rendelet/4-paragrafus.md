@@ -1,5 +1,0 @@
-## II. Fejezet
-
-## AZ ELŐIRÁNYZATOK FELHASZNÁLÁSÁRA VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
-
-## 3. Közös szabályok
