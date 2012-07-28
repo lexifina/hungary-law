@@ -1,6 +1,7 @@
-## 10/A. §[^37] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a falumegújításra és -fejlesztésre igénybe vehető támogatások részletes feltételeiről szóló 135/2008. (X. 18.) FVM rendelet és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó, a vidéki örökség megőrzéséhez igénybe vehető támogatások részletes feltételeiről szóló 138/2008. (X. 18.) FVM rendelet módosításáról szóló 56/2010. (V. 6.) FVM rendelet (a továbbiakban: módosító rendelet) 2. § (2) bekezdésével megállapított 2. § (1) bekezdés k) pontját, valamint e rendeletnek a módosító rendelet 2. § (3) bekezdésével megállapított 3. § (1) bekezdés a) pontját a módosító rendelet hatálybalépésekor[^38] folyamatban lévő eljárásokban is alkalmazni kell, feltéve, hogy ez a rendelkezés az ügyfél számára hátrányos következménnyel nem jár.
+## 10/B. §[^40] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártárgyú miniszteri rendeletek módosításáról szóló 76/2012. (VII. 27.) VM rendelettel [a továbbiakban: 76/2012. (VII. 27.) VM rendelet] megállapított 8/A. §-ának rendelkezéseit a 76/2012. (VII. 27.) VM rendelet hatálybalépésekor[^41] folyamatban lévő azon ügyekben kell alkalmazni, amelyekben a támogatási kérelmet 2009. december 21. napjáig nyújtották be és a 76/2012. (VII. 27.) VM rendelet hatálybalépésekor[^42] a Vhr. 24. § (1) bekezdése rendelkezéseinek megsértése miatt a 35. § (9) bekezdésében foglaltak alkalmazásának lenne helye, vagy a Vhr. 35. § (9) bekezdésében foglalt bármelyik döntés még nem emelkedett jogerőre, vagy annak kapcsán bírósági felülvizsgálat van folyamatban.
 
 ## Az Európai Unió jogának való megfelelés
 
-[^37]: A 10/A. §-t az 56/2010. (V. 6.) FVM rendelet 2. § (4) bekezdése iktatta be.
-[^38]: A hatálybalépés időpontja: 2010. május 7.
+[^40]: A 10/B. §-t a 76/2012. (VII. 27.) VM rendelet 16. §-a iktatta be.
+[^41]: A hatálybalépés időpontja 2012. július 28.
+[^42]: A hatálybalépés időpontja 2012. július 28.
