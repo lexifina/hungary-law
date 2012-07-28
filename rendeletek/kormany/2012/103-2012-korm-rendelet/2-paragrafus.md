@@ -1,5 +1,3 @@
-## 1. § A közösségi agrármarketing és közösségi bormarketing tevékenységhez kapcsolódó feladatokat a Magyar Turizmus Zrt. látja el, amely során támogatások nyújtására jogosult.
-
 2. § (1) A Magyar Turizmus Zrt. jogutódja – a (3) bekezdés szerinti védjegyek működtetésének kivételével – az Agrármarketing Centrumnak
 
 a) az Agrármarketing Centrum által a mezőgazdasági és vidékfejlesztési támogatási szerv kijelöléséről szóló 154/2011. (VIII. 10.) Korm. rendeletben meghatározott feladatok ellátásával kapcsolatban e rendelet hatálybalépését megelőzően létesített támogatási jogviszonyok,
