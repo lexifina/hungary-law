@@ -14,7 +14,7 @@ a) a Mehib Rt. utasításai szerint eljárni, továbbá megtenni mindazokat az i
 
 b) a megtett intézkedéseiről és azok eredményeiről folyamatosan tájékoztatni a Mehib Rt.-t.
 
-(3)[^74] Átruházási kötelezettsége keretében a biztosított a kárfizetéssel egyidejűleg köteles az ügylettel kapcsolatos összes lejárt biztosított követelését – ideértve az egyéb biztosítékokat is – a követelés érvényesítésének jogával együtt a Mehib Rt.-re, mint az Állam megbízottjára engedményezni, és
+(3)[^78] Átruházási kötelezettsége keretében a biztosított a kárfizetéssel egyidejűleg köteles az ügylettel kapcsolatos összes lejárt biztosított követelését – ideértve az egyéb biztosítékokat is – a követelés érvényesítésének jogával együtt a Mehib Rt.-re, mint az Állam megbízottjára engedményezni, és
 
 a) az adóst az átruházás megtörténtéről értesíteni;
 
@@ -30,7 +30,7 @@ c) a Mehib Rt. által megkívánt nyilatkozatokat megtenni.
 
 (7) Ha a biztosított fővállalkozó, a fővállalkozó és az alvállalkozó közötti vállalkozási szerződés módosításához a Mehib Rt. előzetes írásbeli engedélye szükséges.
 
-(8)[^75] A 7. § (9) bekezdésben meghatározott nemzeti érdekű fedezetnyújtás alátámasztásához a biztosított köteles benyújtani a biztosító által előírt dokumentumokat.
+(8)[^79] A 7. § (9) bekezdésben meghatározott nemzeti érdekű fedezetnyújtás alátámasztásához a biztosított köteles benyújtani a biztosító által előírt dokumentumokat.
 
-[^74]: A 20. § (3) bekezdése az 50/2010. (III. 9.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^75]: A 20. § (8) bekezdését az 50/2010. (III. 9.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^78]: A 20. § (3) bekezdése az 50/2010. (III. 9.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^79]: A 20. § (8) bekezdését az 50/2010. (III. 9.) Korm. rendelet 16. § (2) bekezdése iktatta be.

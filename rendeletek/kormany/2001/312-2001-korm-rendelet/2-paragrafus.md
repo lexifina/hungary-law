@@ -20,7 +20,7 @@ f)[^5] állami adós által vállalt szerződéses kötelezettség: a 4. § (1) 
 
 g)[^6] bankgarancia: ajánlati, előleg-visszafizetési, teljesítési, jólteljesítési, szavatossági bankgarancia;
 
-h)[^7] export: olyan termékértékesítés vagy szolgáltatásnyújtás, amelyet a gazdálkodó szervezet a számviteli szabályok szerint exportárbevételként számol el azzal, hogy a szolgáltatás nyújtás teljesítésének helye a szerződésben – az általános forgalmi adóról szóló törvény előírásaitól függetlenül meghatározott – egyértelműen rögzített, a magyar államhatáron kívüli azon terület (külföld), ahol a vevő a szolgáltatást igénybe veszi, élvezi;
+h)[^7] export: olyan termékértékesítés vagy szolgáltatásnyújtás, amelyet a gazdálkodó szervezet a számviteli szabályok szerint exportárbevételként számol el;
 
 i)[^8] szállítói hitel: olyan tagállami származású áruk vagy szolgáltatások exportjáról szóló, egy vagy több szállító és egy vagy több vevő közötti kereskedelmi szerződésre vonatkozik, ahol a vevő(k) vállalja (vállalják), hogy a szállító(k)nak készpénzzel vagy hitelmegállapodás keretében fizet(nek);
 
@@ -30,11 +30,17 @@ k)[^10] nemzeti érdekű fedezetnyújtás: exporthitel biztosítás keretében a
 
 l)[^11] viszontbiztosítás: olyan külföldi székhelyű hitelbiztosító által vállalt kockázat egy részének vagy egészének szerződésben meghatározott feltételek alapján, díjfizetés ellenében történő átvállalása, amely hitelbiztosító a székhelye szerinti állam számlájára végez hitelbiztosítási tevékenységet;
 
-m)[^12] OECD: Gazdasági és Együttműködési Fejlesztési Szervezet.
+m)[^12] OECD: Gazdasági és Együttműködési Fejlesztési Szervezet;
+
+n)[^13] érdekeltség: olyan külföldön bejegyzett, a biztosított tulajdonosi érdekeltségébe tartozó gazdálkodó szervezet,
+
+na) amelyben a biztosított vagy a biztosított bármely többségi tulajdonosa közvetlenül vagy közvetve többségi tulajdonosi részesedéssel rendelkezik, vagy
+
+nb) amely vagy amelynek bármely többségi tulajdonosa a biztosított gazdálkodó szervezetben közvetve vagy közvetlenül többségi tulajdonosi részesedéssel rendelkezik.
 
 (2) Az állami adósra vonatkozó előírásokat kell alkalmazni az (1) bekezdés b) pontja szerinti szervezet esetében, ha a kötelezettségeiért az állami adós, mint kezes vállal felelősséget.
 
-(3)[^13] Jelen rendelet alkalmazásában a külföldi vállalkozásnak nyújtott tulajdonosi hitel, illetve a tulajdonos által a külföldi vállalkozás hitelfelvételéhez vállalt jogszabályban nevesített fizetési kötelezettség ugyanolyan megítélés alá esik, mint a 2. § (1) bekezdés da) pontja szerinti befektetett tőke;
+(3)[^14] Jelen rendelet alkalmazásában a külföldi vállalkozásnak nyújtott tulajdonosi hitel, illetve a tulajdonos által a külföldi vállalkozás hitelfelvételéhez vállalt jogszabályban nevesített fizetési kötelezettség ugyanolyan megítélés alá esik, mint a 2. § (1) bekezdés da) pontja szerinti befektetett tőke;
 
 [^1]: Az 1. § az 50/2010. (III. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdés c) pontja az 50/2010. (III. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -42,10 +48,11 @@ m)[^12] OECD: Gazdasági és Együttműködési Fejlesztési Szervezet.
 [^4]: A 2. § (1) bekezdésének e) pontját a 48/2003. (IV. 3.) Korm. rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 12. §-ának (1) bekezdése alapján a rendelkezés a 2003. április 11. napja után kötött szerződésekre irányadó.
 [^5]: A 2. § (1) bekezdésének f) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
 [^6]: A 2. § (1) bekezdésének g) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
-[^7]: A 2. § (1) bekezdésének h) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege az 50/2010. (III. 9.) Korm. rendelet 21. § (1) bekezdése szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdésének h) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 205/2012. (VII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^8]: A 2. § (1) bekezdésének i) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
 [^9]: A 2. § (1) bekezdésének j) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
 [^10]: A 2. § (1) bekezdés k) pontját az 50/2010. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^11]: A 2. § (1) bekezdés l) pontját az 50/2010. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^12]: A 2. § (1) bekezdés m) pontját az 50/2010. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^13]: A 2. § (3) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^13]: A 2. § (1) bekezdés n) pontját a 205/2012. (VII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^14]: A 2. § (3) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
