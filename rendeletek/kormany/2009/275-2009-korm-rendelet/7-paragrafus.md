@@ -1,4 +1,4 @@
-7. §[^8]
+7. §[^4]
 
 Melléklet a 275/2009. (XII. 3.) Korm. rendelethez
 
@@ -34,4 +34,4 @@ k) a Cstv. 27/C. § (2) bekezdésének e) pontjában említett hozzájáruló ny
 
 A pályázónak meg kell jelölnie azt is, hogy a székhelyén kívül – a 2. § b) pont szerinti pályázó esetén pedig a magyarországi cégbejegyzése helyén kívül – melyik legközelebb eső további három megyei (vagy fővárosi) bíróság illetékességi területén kívánja elsősorban folytatni a Cstv. szerinti tevékenységét.”
 
-[^8]: A 7. § ugyanezen § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 7. § ugyanezen § (2) bekezdése alapján hatályát vesztette.
