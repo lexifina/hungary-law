@@ -1,3 +1,3 @@
-## 9. §[^7]
+## 9. §[^6]
 
-[^7]: A 9. § a 16. § (2) bekezdése alapján 2012. július 29-én lép hatályba.
+[^6]: A 9. § a 16. § (2) bekezdése alapján 2012. július 29-én lép hatályba.
