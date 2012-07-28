@@ -1,4 +1,4 @@
-9/E. §[^106] (1) A külföldi gazdálkodó szervezetben lévő nettó befektetés fedezeti ügyletét a hozzárendelt külföldi gazdálkodó szervezetben lévő részesedés, külföldi követelés és külföldi kötelezettség (fedezett tétel, tételek) 9/B. § (5) bekezdése szerinti értékelésekor kell átértékelni, a valós értékelés értékelési tartalékával szemben.
+9/E. §[^108] (1) A külföldi gazdálkodó szervezetben lévő nettó befektetés fedezeti ügyletét a hozzárendelt külföldi gazdálkodó szervezetben lévő részesedés, külföldi követelés és külföldi kötelezettség (fedezett tétel, tételek) 9/B. § (5) bekezdése szerinti értékelésekor kell átértékelni, a valós értékelés értékelési tartalékával szemben.
 
 (2) Az (1) bekezdés szerinti fedezeti ügylet zárásakor annak értékelési különbözetét és a fedezett tétel (tételek) értékelési különbözetét meg kell szüntetni a valós értékelés értékelési tartalékával szemben, egyidejűleg el kell számolni a fedezeti ügylet és a fedezett tétel (tételek) eredményét az egyéb pénzügyi szolgáltatások bevételei vagy ráfordításai között egymást ellentételező tételként.
 
@@ -8,4 +8,4 @@
 
 (5) A Tv. 3. §-a (9) bekezdésének 14. pontja szerinti fedezeti hatékonyságot – a számviteli politikában rögzített módon – az értékelési időpontokban kötelező vizsgálni és annak eredményét a fedezeti dokumentációban rögzíteni. Ha a lejárati időn belül az ügylet fedezeti jellege megszűnik, akkor azt a kereskedési célú ügyletek szabályai szerint kell elszámolni. Az előre jelzett ügyletek feltételeinek alakulását folyamatosan nyomon kell követni és annak változását a fedezeti dokumentációban rögzíteni kell.
 
-[^106]: A 9/E. §-t a 238/2003. (XII. 17.) Korm. rendelet 6. §-a iktatta be, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^108]: A 9/E. §-t a 238/2003. (XII. 17.) Korm. rendelet 6. §-a iktatta be, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.

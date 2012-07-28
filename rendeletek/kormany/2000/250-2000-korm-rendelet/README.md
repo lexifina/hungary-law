@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-250-20-
 | 2011-01-01 | 2000-250-20-22.15 | 345/2010. (XII. 28.) Korm. rendelet |
 | 2012-01-01 | 2000-250-20-22.16 | 342/2011. (XII. 29.) Korm. rendelet |
 | 2012-06-09 | 2000-250-20-22.17 | 114/2012. (VI. 8.) Korm. rendelet |
+| 2012-07-28 | 2000-250-20-22.18 | 204/2012. (VII. 27.) Korm. rendelet |
