@@ -1,0 +1,3 @@
+## 4. § Az R. 11/A. § (13) bekezdése helyébe a következő rendelkezés lép:
+
+## „(13) Az Eximbank az Európai Bizottság számára készítendő éves tevékenységi jelentéshez a 2. mellékletben meghatározott tartalmú jelentést készít. A jelentésben azokat az ügyleteket, amelyekhez az Eximbank és a Magyar Exporthitel Biztosító Részvénytársaság közösen nyújtott hivatalos támogatást, az Európai Uniónak és az OECD-nek megküldött jelentések esetén követett gyakorlatnak megfelelően csak az egyik intézmény szerepeltetheti. Az Eximbank a tevékenységi jelentésben megadja közérdekű adatai elektronikus elérhetőségét is.”
