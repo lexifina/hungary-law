@@ -1,4 +1,4 @@
-## 3/A. §[^3] Az államháztartásról szóló 1992. évi XXXVIII. törvény 122. §-ának (3) bekezdésében meghatározott szervként a Kormány a Főigazgatóságot jelöli ki.
+## 3/A. §[^3] Az államháztartásról szóló törvény 109. § (2) bekezdés c) pontjában meghatározott szervként a Kormány a Főigazgatóságot jelöli ki.
 
 ## A Főigazgatóság ellenőrzési hatósági feladatai
 
@@ -18,4 +18,4 @@ meghatározott ellenőrzési hatósági feladatokat.
 
 (3) Az Európai Közösségek általános költségvetésére alkalmazandó költségvetési rendeletről szóló 1605/2002/EK (2002. június 25.) Rendelet 53b cikkének (3) bekezdésében, valamint az Európai Közösségek általános költségvetésére alkalmazandó költségvetési rendeletről szóló 1605/2002/EK Rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló 2342/2002/EK Rendelet 42a cikkében foglaltak teljesítése érdekében a Főigazgatóság minden év február 15-ig – az Európai Bizottság módszertani iránymutatásainak megfelelően – összegzi a rendelkezésére álló ellenőrzési jelentéseket, véleményeket, igazolásokat és nyilatkozatokat. A feladat végrehajtása érdekében az államháztartásért felelős miniszter megküldi a Főigazgatóság részére az egyéb jogszabályok alapján számára megküldött jelentéseket, véleményeket, igazolásokat, és nyilatkozatokat, melyek a Főigazgatóságnak nem állnak rendelkezésére.
 
-[^3]: A 3/A. §-t a 113/2011. (VII. 7.) Korm. rendelet 48. §-a iktatta be.
+[^3]: A 3/A. §-t a 113/2011. (VII. 7.) Korm. rendelet 48. §-a iktatta be, szövege a 206/2012. (VII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
