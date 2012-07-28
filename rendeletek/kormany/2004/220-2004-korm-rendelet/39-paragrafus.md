@@ -1,6 +1,8 @@
-39. § (1)[^103] A kibocsátási határérték évi kétszeri vagy ennél többszöri 20%-os túllépése esetén, továbbá a települési szennyvíztisztító telepeknél a 2. számú melléklet 2/I. 2.7.2. a) pontja szerinti követelmények meg nem tartása esetén a felügyelőség a szennyezést okozó kibocsátót, a közcsatorna és közös üzemi tisztító esetén annak tulajdonosát szakértő által is elkészíthető szennyezéscsökkentési ütemterv benyújtására és jóváhagyatására és az abban foglaltak megvalósítására kötelezi.
+## 38/A. §[^103] A mezőgazdasági termelés területén kizárólag energiahasznosítás céljából történő termálvíz kitermelése esetén a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben megállapított kibocsátási határértékeket meglévő és új létesítmény esetén is 2015. június 30-ig kell teljesíteni (átmeneti időszak). Az átmeneti időszakban a bírság mértéke az adott szennyezőanyagra a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben megállapított kibocsátási határérték fölötti kibocsátás után számított teljes bírság 3%-a.
 
-(2)[^104] A kibocsátó szennyezéscsökkentési ütemtervét a felügyelőség részére, valamint észrevételezés céljából:
+39. § (1)[^104] A kibocsátási határérték évi kétszeri vagy ennél többszöri 20%-os túllépése esetén, továbbá a települési szennyvíztisztító telepeknél a 2. számú melléklet 2/I. 2.7.2. a) pontja szerinti követelmények meg nem tartása esetén a felügyelőség a szennyezést okozó kibocsátót, a közcsatorna és közös üzemi tisztító esetén annak tulajdonosát szakértő által is elkészíthető szennyezéscsökkentési ütemterv benyújtására és jóváhagyatására és az abban foglaltak megvalósítására kötelezi.
+
+(2)[^105] A kibocsátó szennyezéscsökkentési ütemtervét a felügyelőség részére, valamint észrevételezés céljából:
 
 a) közcsatornába bocsátás esetén a szolgáltatónak is,
 
@@ -12,11 +14,12 @@ b) közös üzemi (ipari) csatornahálózatba bocsátás esetén a közös üzem
 
 (4) Települési szennyvízelvezetés, -tisztítás esetében, valamint a közös üzemi csatornahálózaton való szennyvízelvezetés, közös üzemi szennyvíztisztítóban való szennyvíztisztítás esetében a szennyezéscsökkentési ütemterv készítéséért és annak megvalósításáért a közcsatornának vagy a közös üzemi csatornának, illetve szennyvíztisztítónak a tulajdonosa felelős.
 
-(5)[^105] A befogadó ökológiai állapotának, illetve a közcsatorna állapotának védelmében a felügyelőség, a jóváhagyott szennyezéscsökkentési ütemtervben részletezett fejlesztések megvalósítására vonatkozó ütemezés alapján a 38. § (1) és (2) bekezdésben rögzítetteknél rövidebb türelmi időt is előírhat.
+(5)[^106] A befogadó ökológiai állapotának, illetve a közcsatorna állapotának védelmében a felügyelőség, a jóváhagyott szennyezéscsökkentési ütemtervben részletezett fejlesztések megvalósítására vonatkozó ütemezés alapján a 38. § (1) és (2) bekezdésben rögzítetteknél rövidebb türelmi időt is előírhat.
 
-(6)[^106] Az (1) bekezdésben meghatározott esetben szennyezéscsökkentésként az anyagáram egyes módszerekkel (így például hígítás nélküli koncentrációcsökkentés, változatlan koncentráció mellett a kibocsátott szennyvíz mennyiségének csökkentése, a gyártástechnológia módosítása, szennyezőanyag felhasználásának, illetve kibocsátásának csökkentése) történő csökkentése elfogadható.
+(6)[^107] Az (1) bekezdésben meghatározott esetben szennyezéscsökkentésként az anyagáram egyes módszerekkel (így például hígítás nélküli koncentrációcsökkentés, változatlan koncentráció mellett a kibocsátott szennyvíz mennyiségének csökkentése, a gyártástechnológia módosítása, szennyezőanyag felhasználásának, illetve kibocsátásának csökkentése) történő csökkentése elfogadható.
 
-[^103]: A 39. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 360. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^104]: A 39. § (2) bekezdésének felvezető szövege a 208/2006. (X. 16.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^105]: A 39. § (5) bekezdése a 208/2006. (X. 16.) Korm. rendelet 13. §-ának a) pontja szerint módosított szöveg.
-[^106]: A 39. § (6) bekezdését a 208/2006. (X. 16.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^103]: A 38/A. §-t a 156/2012. (VII. 13.) Korm. rendelet 3. §-a iktatta be.
+[^104]: A 39. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 360. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^105]: A 39. § (2) bekezdésének felvezető szövege a 208/2006. (X. 16.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^106]: A 39. § (5) bekezdése a 208/2006. (X. 16.) Korm. rendelet 13. §-ának a) pontja szerint módosított szöveg.
+[^107]: A 39. § (6) bekezdését a 208/2006. (X. 16.) Korm. rendelet 8. § (3) bekezdése iktatta be.

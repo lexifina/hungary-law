@@ -1,6 +1,6 @@
-## Tényfeltárás[^119]
+## Tényfeltárás[^120]
 
-39/C. §[^120] (1) A tényfeltárás
+39/C. §[^121] (1) A tényfeltárás
 
 a) amennyiben a környezetkárosodás megállapításának bonyolultsága azt szükségessé teszi, tényfeltárási terv készítéséből,
 
@@ -26,9 +26,9 @@ d) a tényfeltárási záródokumentáció benyújtási határidejét.
 
 (5) A (4) bekezdés szerinti tényfeltárási terv elfogadásáról a felügyelőség dönt.
 
-(6)[^121] A tényfeltárási munkák megkezdését nyolc napon belül, a tényfeltárás során észlelt bármilyen rendkívüli körülményt haladéktalanul be kell jelenteni a felügyelőségnek.
+(6)[^122] A tényfeltárási munkák megkezdését nyolc napon belül, a tényfeltárás során észlelt bármilyen rendkívüli körülményt haladéktalanul be kell jelenteni a felügyelőségnek.
 
-(7)[^122] A tényfeltárás során észleltek alapján, a tényfeltárásra kötelezett kezdeményezésére indokolt esetben, a felügyelőség nyolc napon belül dönt a tényfeltárási terv módosításának elfogadásáról vagy elutasításáról.
+(7)[^123] A tényfeltárás során észleltek alapján, a tényfeltárásra kötelezett kezdeményezésére indokolt esetben, a felügyelőség nyolc napon belül dönt a tényfeltárási terv módosításának elfogadásáról vagy elutasításáról.
 
 (8) A tényfeltárást és annak eredményeit dokumentálni kell. A tényfeltárási záródokumentációt a (9) bekezdés szerint kell összeállítani és benyújtani a felügyelőséghez.
 
@@ -56,7 +56,7 @@ c) a tényfeltárást követő monitorozás elrendeléséről;
 
 d) a kármentesítés befejezéséről, ha minden körülmény együttes mérlegelése azt mutatja, hogy a további kármentesítési munkára nincs szükség.
 
-[^119]: A 39/C. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
-[^120]: A 39/C. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^121]: A 39/C. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^122]: A 39/C. § (7) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^120]: A 39/C. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^121]: A 39/C. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^122]: A 39/C. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^123]: A 39/C. § (7) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
