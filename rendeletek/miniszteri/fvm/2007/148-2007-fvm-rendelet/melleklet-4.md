@@ -18,7 +18,7 @@
 
 ## Az összesítőn csak egy állatfajra vonatkozó számlák nyújthatók be.
 
-## III.[^27]
+## III.[^33]
 
 ## – A kedvezményezett neve, regisztrációs száma;
 
@@ -50,7 +50,7 @@
 
 ## Mellékletek: számlamásolatok
 
-## VII.[^28]
+## VII.[^34]
 
 ## élelmiszerlánc-biztonsági és állategészségügyi igazgatóság igazolása
 
@@ -60,7 +60,7 @@
 
 ## Keltezés, az igazgató főállatorvos (cégszerű) aláírása
 
-4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^29]
+4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^35]
 
 ## Támogatási kérelem adattartalma
 
@@ -112,6 +112,6 @@
 
 9. Keltezés, az igazgató főállatorvos (cégszerű) aláírása
 
-[^27]: A 3. számú melléklet III. pontja a 23/2011. (III. 28.) VM rendelet 10. §-a szerint módosított szöveg.
-[^28]: A 3. számú melléklet VII. pontja a 23/2011. (III. 28.) VM rendelet 10. §-a szerint módosított szöveg.
-[^29]: A 4. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^33]: A 3. számú melléklet III. pontja a 23/2011. (III. 28.) VM rendelet 10. §-a szerint módosított szöveg.
+[^34]: A 3. számú melléklet VII. pontja a 23/2011. (III. 28.) VM rendelet 10. §-a szerint módosított szöveg.
+[^35]: A 4. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (3) bekezdésével megállapított szöveg.

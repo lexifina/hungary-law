@@ -8,9 +8,9 @@
 
 | 1. | Technikai kód | Támogatási jogcím (állatbetegség megnevezése) | Támogatható állatfajok | Támogatható költségek maximális, áfát nem tartalmazó értéke forintban, szolgáltatási egységenként, amely tartalmazza a felhasznált eszközök, állatgyógyászati készítmények, továbbá a mintaküldés költségeit |
 
-| 2. | A001 | Szarvasmarha- tuberkulózis | szarvasmarha, bivaly, szarvasfélék | Allergiás bőrpróba: Gazdaságonkénti első egyed: 1500 Ft 2–5. egyed: 1000 Ft minden további egyed: 400 Ft |
+| 2. | A001 | Szarvasmarha-tuberkulózis | szarvasmarha, bivaly, szarvasfélék | Allergiás bőrpróba: Gazdaságonkénti első egyed: 1500 Ft 2–5. egyed: 1000 Ft minden további egyed: 400 Ft |
 
-| 3. | A002 | Szarvasmarha- brucellózis | szarvasmarha, bivaly | Mintavétel: Gazdaságonkénti első egyed: 1500 Ft 2–5. egyed: 1000 Ft minden további egyed: 400 Ft Laboratóriumi diagnosztikai vizsgálat: 700 Ft |
+| 3. | A002 | Szarvasmarha-brucellózis | szarvasmarha, bivaly | Mintavétel: Gazdaságonkénti első egyed: 1500 Ft 2–5. egyed: 1000 Ft minden további egyed: 400 Ft Laboratóriumi diagnosztikai vizsgálat: 700 Ft |
 
 | 4. | A003 | Enzootiás szarvasmarha- leukózis | szarvasmarha | Mintavétel: Gazdaságonkénti első egyed: 1500 Ft 2–5. egyed: 1000 Ft minden további egyed: 400 Ft Laboratóriumi diagnosztikai vizsgálat: 600 Ft |
 
@@ -42,29 +42,25 @@
 
 | 18. | B010 | Listeriosis | valamennyi baromfi faj | Laboratóriumi diagnosztikai vizsgálat: 8000 Ft |
 
-| 19. | A009 | Szalmonellózis | valamennyi gazdasági haszonállat | Immunizálás: 50 Ft/egyed/alkalom Gyógykezelés: 5 Ft/egyed (csak a nemzeti ellenőrzési terv alá még nem tartozó állományok esetében) Mintavétel: 5000 Ft/légtér/alkalom Laboratóriumi diagnosztikai vizsgálat (maximum 15 000 Ft/légtér/alkalom): Salmonella kimutatása: 4500 Ft/vizsgálat** Salmonella szerotipizálása: 5500 Ft/db Broiler állományból izolált Salmonella törzs szerocsoport szűrővizsgálata: 2500 Ft/db H antigén meghatározása: 3500 Ft/db Törzs vakcina eredetének vizsgálata: 2500 Ft/db**: egy vizsgálatnak 1 minta vagy gyűjtőminta vizsgálata számít, ahány szalmonella dúsítás történik, annyiszor 4500 Ft számolható el a szalmonella kimutatásra (napos állatokból 5 állat vizsgálata=1 minta=4500Ft) |
+| 19. | A009 | Szalmonellózis | valamennyi gazdasági haszonállat | Immunizálás: 50 Ft/egyed/alkalom Gyógykezelés: 5 Ft/egyed (csak a nemzeti ellenőrzési terv alá még nem tartozó állományok esetében) Mintavétel: 5000 Ft/légtér/ alkalom Laboratóriumi diagnosztikai vizsgálat (maximum 15 000 Ft/légtér/alkalom): Salmonella kimutatása: 4500 Ft/vizsgálat* Salmonella szerotipizálása: 5500 Ft/db Broiler állományból izolált Salmonella törzs szerocsoport szűrővizsgálata: 2500 Ft/db H antigén meghatározása: 3500 Ft/db Törzs vakcina eredetének vizsgálata: 2500 Ft/db |
 
-| 20. | B011 | Leptospirózis | sertés | Mintavétel: Gazdaságonkénti első egyed: 1500 Ft 2–5. egyed: 1000 Ft minden további egyed: 400 Ft Laboratóriumi diagnosztikai vizsgálat szerotípusonként: 300 Ft |
+| 20. | A010 | Sertés brucellózis | sertés | Mintavétel: Gazdaságonkénti első egyed: 1500 Ft 2–5. egyed: 1000 Ft minden további egyed: 400 Ft Laboratóriumi diagnosztikai vizsgálat: 700 Ft |
 
-| 21. | A010 | Sertés brucellózis | sertés | Mintavétel: Gazdaságonkénti első egyed: 1500 Ft 2–5. egyed: 1000 Ft minden további egyed: 400 Ft Laboratóriumi diagnosztikai vizsgálat: 700 Ft |
+| 21. | A011 | PRRS | sertés | Mintavétel: Gazdaságonkénti első egyed: 1500 Ft 2–5. egyed: 1000 Ft minden további egyed: 400 Ft Laboratóriumi diagnosztikai vizsgálat: 1300 Ft |
 
-| 22. | A011 | PRRS | sertés | Mintavétel: Gazdaságonkénti első egyed: 1500 Ft 2–5. egyed: 1000 Ft minden további egyed: 400 Ft Laboratóriumi diagnosztikai vizsgálat: 1300 Ft |
+| 22. | C001 | Kapcsolódó állat-egészségügyi szolgáltatás, gyógykezelés, immunizálás | baromfi és szarvasmarha sertés (tenyészkoca) | Szolgáltatási díj és anyagköltség: legfeljebb 3000 Ft/vágóhídra szállított állategység (ÁE)** Legalább egyszer fialt koca után havonta 1500 Ft,/egyed |
 
-| 23. | C001 | Kapcsolódó állat-egészségügyi szolgáltatás, gyógykezelés, immunizálás | baromfi és szarvasmarha sertés (tenyészkoca) | Szolgáltatási díj és anyagköltség: legfeljebb 3000 Ft/vágóhídra értékesített állategység (ÁE)* Legalább egyszer fialt koca után havonta 1500 Ft/egyed, de 2011. évben legfeljebb 2100 millió Ft. A támogatási keret tartalmazza a 2011. év. január, február és március hónapokban a hízósertésre elfogadott szolgáltatások támogatási összegét is. |
+## * Egy vizsgálatnak 1 minta vagy gyűjtőminta vizsgálata számít, ahány szalmonella dúsítás történik, annyiszor 4500 Ft számolható el a szalmonella kimutatásra (napos állatokból 5 állat vizsgálata=1 minta=4500Ft).
 
-| 24. | B012 | Myxomatózis elleni vakcinázás | házinyúl | Vakcinázás: 100 Ft/alkalom/egyed |
+## ** Állategység:
 
-| 25. | B013 | Nyulak vérzéses betegsége (RHD) elleni vakcinázás | házinyúl | Vakcinázás: 110 Ft/alkalom/egyed |
+## – A baromfi kivételével az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásokról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1974/2006/EK bizottsági rendelet V. melléklete szerint.
 
-## * Állategység:
-
-## –  A baromfi kivételével az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásokról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1974/2006/EK bizottsági rendelet V. melléklete szerint.
-
-## –  A pulyka kivételével az egyéb baromfi esetében az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásokról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1974/2006/EK bizottsági rendelet V. melléklete szerinti felhatalmazás alapján egyéb baromfi: 0,003 ÁE
+## – A pulyka kivételével az egyéb baromfi esetében az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásokról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1974/2006/EK bizottsági rendelet V. melléklete szerinti felhatalmazás alapján egyéb baromfi: 0,003 ÁE
 
 ## – A pulyka esetében a baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 139/2007. (XI. 28.) FVM rendelet 1. számú melléklete szerint.
 
-2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^25]
+2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^31]
 
 ## Jóváhagyási kérelem adattartalma
 
@@ -126,4 +122,4 @@
 
 A hatósági állatorvos igazolása a hazai és közösségi állat-egészségügyi és állatjóléti jogszabályok által előírt feltételek teljesítéséről.
 
-[^25]: A 2. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^31]: A 2. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.

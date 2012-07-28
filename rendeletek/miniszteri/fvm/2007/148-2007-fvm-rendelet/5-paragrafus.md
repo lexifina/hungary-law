@@ -1,6 +1,6 @@
 ## A támogatott szolgáltatás igénybevétele
 
-5. §[^8] (1) A 4. § (1) bekezdés b) pontja szerinti jóváhagyási kérelmet ugyanazon állományra és betegségekre vonatkozóan az állattartónak évente egy alkalommal a Mezőgazdasági Szakigazgatási Hivatal által rendszeresített és honlapján közzétett, a 2. számú melléklet szerinti adattartalmú nyomtatványon az élelmiszerlánc-biztonsági és állategészségügyi igazgatósághoz kell benyújtania. A kérelmet állatfajonként külön nyomtatványon kell benyújtani. Év közbeni állomány változás esetén új kérelem nyújtható be.
+5. §[^7] (1)[^8] A 4. § (1) bekezdés b) pontja szerinti jóváhagyási kérelmet ugyanazon állományra és betegségekre vonatkozóan az állattartónak évente egy alkalommal a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által rendszeresített és honlapján közzétett, a 2. számú melléklet szerinti adattartalmú nyomtatványon az élelmiszerlánc-biztonsági és állategészségügyi igazgatósághoz kell benyújtania. A kérelmet állatfajonként külön nyomtatványon kell benyújtani. Év közbeni állomány változás esetén új kérelem nyújtható be.
 
 (2) Az (1) bekezdés szerinti jóváhagyásra az az állattartó jogosult, aki/amely:
 
@@ -36,6 +36,7 @@ d) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatás
 
 (8) A kedvezményezett az engedélyesnek a bruttó számlaérték és a támogatástartalom különbözetét fizeti meg. A támogatási keret kimerülése, illetve valamely jogosultsági feltétel nem teljesítése esetén a kedvezményezett köteles az engedélyes részére a számla teljes összegét kifizetni.
 
-[^8]: Az 5. § a 23/2011. (III. 28.) VM rendelet 3. §-ával megállapított szöveg.
+[^7]: Az 5. § a 23/2011. (III. 28.) VM rendelet 3. §-ával megállapított szöveg.
+[^8]: Az 5. § (1) bekezdése a 77/2012. (VII. 27.) VM rendelet 5. §-a szerint módosított szöveg.
 [^9]: Az 5. § (4) bekezdése a 93/2011. (X. 12.) VM rendelet 6. §-ával megállapított szöveg.
 [^10]: Az 5. § (5) bekezdése a 93/2011. (X. 12.) VM rendelet 6. §-ával megállapított szöveg.
