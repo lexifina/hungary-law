@@ -1,0 +1,1 @@
+## „be) a katasztrófával érintett, 10. § szerinti településeken a hátrányos helyzetű gyermekek felzárkóztatása érdekében indított programok igazolt dologi kiadásainak, valamint a programokban közreműködő szakemberek, mentorok igazolt bérjellegű költségeinek támogatására.”
