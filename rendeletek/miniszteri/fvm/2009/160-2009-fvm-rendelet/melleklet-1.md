@@ -1,6 +1,6 @@
 ## 11. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 55. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-1. melléklet a 160/2009. (XI. 19.) FVM rendelethez[^8]
+1. melléklet a 160/2009. (XI. 19.) FVM rendelethez[^12]
 
 Értékelési szempontok
 
@@ -3958,4 +3958,4 @@
 
 1.15 Dél-Baranya határmenti települések Egyesülete területén alkalmazandó pontozás
 
-[^8]: Az 1. melléklet a 167/2009. (XII. 15.) FVM rendelet 6. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2009. december 16-át követően indult ügyekben kell alkalmazni.
+[^12]: Az 1. melléklet a 167/2009. (XII. 15.) FVM rendelet 6. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2009. december 16-át követően indult ügyekben kell alkalmazni.
