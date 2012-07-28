@@ -1,0 +1,9 @@
+# 206/2012. (VII. 27.) Korm. rendelet
+
+az Európai Támogatásokat Auditáló Főigazgatóságról szóló 210/2010. (VI. 30.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-206-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-07-28 | 2012-206-20-22.1 | 206/2012. (VII. 27.) Korm. rendelet |
