@@ -2,7 +2,7 @@
 
 ## Kifizetési kérelem
 
-8. § (1)[^2]
+8. § (1)[^3]
 
 (2) Ha a beruházás építésiengedély-köteles, akkor
 
@@ -10,4 +10,4 @@ a) az első kifizetési kérelemhez mellékelni kell a jogerős építési enged
 
 b) az utolsó kifizetési kérelemhez mellékelni kell a forgalomba helyezési engedély hiteles másolatát.
 
-[^2]: A 8. § (1) bekezdését az 57/2011. (VI. 20.) VM rendelet 16. § k) pontja hatályon kívül helyezte.
+[^3]: A 8. § (1) bekezdését az 57/2011. (VI. 20.) VM rendelet 16. § k) pontja hatályon kívül helyezte.

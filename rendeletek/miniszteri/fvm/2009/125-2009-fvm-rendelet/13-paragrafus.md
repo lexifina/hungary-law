@@ -1,3 +1,3 @@
-13. §[^5]
+## 12. §[^8]
 
-[^5]: A 13. § ugyanezen § alapján hatályát vesztette.
+[^8]: A 12. § a 13. § alapján hatályát vesztette.
