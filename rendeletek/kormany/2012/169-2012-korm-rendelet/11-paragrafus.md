@@ -1,0 +1,1 @@
+## 10. § A felszámolók névjegyzékéről szóló 114/2006. (V. 12.) Korm. rendelet módosításáról szóló 275/2009. (XII. 3.) Korm. rendelet 6. § (7) bekezdésében a „2012. május 1-jéig” szövegrész helyébe a „2012. július 31-éig” szöveg, a „2012. november 1-je” szövegrész helyébe a „2012. december 1-je” szöveg lép.

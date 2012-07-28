@@ -1,0 +1,1 @@
+## 11. § A betétek és takarékbetétek végrehajtásáról szóló 180/2001. (X. 4.) Korm. rendelet 10. § (1) bekezdésében a „hivatalos lapjában” szövegrész helyébe az „által üzemeltetett honlapon” szöveg lép.
