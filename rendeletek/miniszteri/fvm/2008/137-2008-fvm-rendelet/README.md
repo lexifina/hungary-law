@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-137-20-
 | 2009-11-20 | 2008-137-20-82.10 | 137/2008. (X. 18.) FVM rendelet |
 | 2010-08-31 | 2008-137-20-82.11 | 13/2010. (VIII. 30.) VM rendelet |
 | 2011-07-01 | 2008-137-20-82.12 | 57/2011. (VI. 20.) VM rendelet |
+| 2012-07-28 | 2008-137-20-82.13 | 76/2012. (VII. 27.) VM rendelet |
