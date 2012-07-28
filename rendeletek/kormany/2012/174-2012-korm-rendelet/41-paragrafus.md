@@ -1,9 +1,11 @@
-## 40. § A Magyar Bányászati és Földtani Hivatalról szóló 267/2006. (XII. 20.) Korm. rendelet 4/A. § (6) bekezdés b) pontjában a „Kormány általános hatáskörű területi államigazgatási szervét” szövegrész helyébe a „fővárosi és megyei kormányhivatalt” szöveg lép.
+## 40. §[^43]
 
 ## 41. A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala létrehozásáról, feladatairól és hatásköréről szóló 276/2006. (XII. 23.) Korm. rendelet módosítása
 
-41. § (1) A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala létrehozásáról, feladatairól és hatásköréről szóló 276/2006. (XII. 23.) Korm. rendelet (a továbbiakban: R10.) 9. § (2) bekezdésében a „Kormány általános hatáskörű területi államigazgatási szerve” szövegrész helyébe a „fővárosi és megyei kormányhivatal” szöveg lép.
+41. § (1)[^44]
 
-(2)–(4)[^36]
+(2)–(4)[^45]
 
-[^36]: A 41. § (2)–(4) bekezdése a 94. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^43]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^44]: A 41. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 41. § (2)–(4) bekezdése a 94. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.

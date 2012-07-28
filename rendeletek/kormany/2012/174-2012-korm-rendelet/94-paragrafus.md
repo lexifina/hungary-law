@@ -1,4 +1,4 @@
-## 93. §[^82]
+## 93. §[^110]
 
 94. § (1) E rendelet – a (2)–(3) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -8,10 +8,7 @@
 
 (4) E rendelet 2013. február 2-án hatályát veszti.
 
-Melléklet a 174/2012. (VII. 26.) Korm. rendelethez
+Melléklet a 174/2012. (VII. 26.) Korm. rendelethez[^111]
 
-Az R15. 2. mellékletében foglalt Országos Statisztikai Adatgyűjtési Program Adatkörök című táblázatban az 1227 kezdetű sor helyébe a következő rendelkezés lép:
-
-| „1227 | Fővárosi és megyei kormányhivatali szabálysértési statisztika | Szabálysértési ügyfajtánként (becsületsértés, csendháborítás, köztisztasági szabálysértés, vásárlók megkárosítása stb.) (1) tárgyidőszakban érkezett (ügyek) szabálysértési feljelentések száma (2) tárgyidőszakban szabálysértés miatt feljelentett személyek száma (3) áttétel más szervhez (4) megszüntetések száma a megszüntetés jogcíme szerinti bontásban (5) figyelmeztetések száma (6) pénzbírságot kiszabó határozatok száma (7) kifogások száma, kifogás alapján megváltoztatott határozatok száma (8) bírósághoz megküldött kifogások száma (9) panaszok száma a szabálysértési hatóság határozata ellen (10) elfogadott panaszok száma (11) ügyészi intézkedések száma az el nem fogadott panaszok alapján (12) bírósági intézkedés a kifogás alapján (hatályban tartás, megváltoztatás) (13) adók módjára történő behajtások száma (14) közérdekű munkára átváltoztató határozat száma (15) bíróság által elzárásra átváltoztatott bírságolások száma (16) letöltött elzárások száma (17) végrehajtás mellőzése méltányosságból (18) feljelentett fiatalkorúak száma (19) feljelentett külföldi állampolgárok száma (20) fennálló hátralék a kiszabott pénzbírság %-ában” |
-
-[^82]: A 93. § a 94. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^110]: A 93. § a 94. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^111]: A melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
