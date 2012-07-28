@@ -1,0 +1,1 @@
+## 4. § Ha a működési támogatás kedvezményezettje a tárgyévet megelőző évben is részesült működési támogatásban, – a 18. §-ban és a 19. §-ban foglaltak kivételével – a tárgyévi támogatási szerződés megkötésére és a támogatás utalására az előző évi szakmai beszámoló és pénzügyi elszámolás benyújtása és annak elfogadása után kerülhet sor.

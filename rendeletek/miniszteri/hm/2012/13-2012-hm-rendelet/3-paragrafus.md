@@ -1,0 +1,1 @@
+## 2. § E rendelet alkalmazásában kötelezettségvállaló a miniszter, továbbá az általa az államháztartásról szóló 2011. évi CXCV. törvény 28. § (1) bekezdése szerinti szabályzatban meghatározott személy.
