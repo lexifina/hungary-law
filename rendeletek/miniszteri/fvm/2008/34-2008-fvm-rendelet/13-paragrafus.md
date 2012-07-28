@@ -1,6 +1,7 @@
-## 12. §[^64] E rendeletnek egyes agrártárgyú miniszteri rendeletek módosításáról szóló 56/2012. (VI. 21.) VM rendelettel [a továbbiakban: 56/2012. (VI. 21.) VM rendelet] megállapított 9/A. és 9/B. §-át azon, az 56/2012. (VI. 21.) VM rendelet hatálybalépésekor[^65] folyamatban lévő ügyek esetében kell alkalmazni, amelyekben a módosító rendelet hatálybalépésekor a Vhr. 25. § (2) bekezdése szerint határidő már letelt, de a Vhr. 17. § (3) bekezdése szerinti utolsó kifizetési kérelem benyújtására nyitva álló időszak még nem telt le. Nem kell alkalmazni 9/A. és 9/B. §-t azokban az ügyekben, amelyekben az ügyfél utolsó kifizetési kérelmére hozott kifizetési határozat a módosító rendelet hatályba lépésekor már jogerőre emelkedett.
+## 12/A. §[^67] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártárgyú miniszteri rendeletek módosításáról szóló 76/2012. (VII. 27.) VM rendelettel [a továbbiakban: 76/2012. (VII. 27.) VM rendelet] megállapított 9/C. §-ának rendelkezéseit a 76/2012. (VII. 27.) VM rendelet hatálybalépésekor[^68] folyamatban lévő azon ügyekben kell alkalmazni, amelyekben a támogatási kérelmet 2009. november 30. napjáig nyújtották be és a 76/2012. (VII. 27.) VM rendelet hatálybalépésekor[^69] a Vhr. 24. § (1) bekezdése rendelkezéseinek megsértése miatt a 35. § (9) bekezdésében foglaltak alkalmazásának lenne helye, vagy a Vhr. 35. § (9) bekezdésében foglalt bármelyik döntés még nem emelkedett jogerőre, vagy annak kapcsán bírósági felülvizsgálat van folyamatban.
 
 ## Az Európai Unió jogának való megfelelés
 
-[^64]: A 12. §-t az 59/2011. (VI. 29.) VM rendelet 9. § e) pontja hatályon kívül helyezte, újonnan az 56/2012. (VI. 21.) VM rendelet 7. §-a iktatta be.
-[^65]: A hatálybalépés időpontja 2012. június 22.
+[^67]: A 12/A. §-t a 76/2012. (VII. 27.) VM rendelet 6. §-a iktatta be.
+[^68]: A hatálybalépés időpontja 2012. július 28.
+[^69]: A hatálybalépés időpontja 2012. július 28.
