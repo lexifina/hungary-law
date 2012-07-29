@@ -1,4 +1,4 @@
-## 71/B. §[^273] A totalizatőr rendszerű lóversenyfogadásoknál az alábbi alap fogadási formákat kell üzemeltetni:
+## 71/B. §[^280] A totalizatőr rendszerű lóversenyfogadásoknál az alábbi alap fogadási formákat kell üzemeltetni:
 
 a) tétfogadás,
 
@@ -10,4 +10,4 @@ d) hármas befutó fogadás,
 
 e) halmozott fogadás.
 
-[^273]: A 71/B. §-t a 32/2007. (XII. 21.) PM rendelet 23. §-a iktatta be.
+[^280]: A 71/B. §-t a 32/2007. (XII. 21.) PM rendelet 23. §-a iktatta be.

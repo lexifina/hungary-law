@@ -46,6 +46,26 @@ j) a mértékhitelesítő aláírását.
 
 (8)[^173] Több játékhelyes pénznyerő automata esetében a játékjog szerzés módja minden játékhelyen azonos módon történhet.
 
+(9)[^174] A (3), (4) és (7) bekezdése helyhez kötött szerver alapú pénznyerő automatára és nem helyhez kötött szerver alapú pénznyerő rendszerre nem alkalmazható.
+
+(10)[^175] A pénznyerő automatán és a helyhez kötött szerver alapú pénznyerő automatán jól látható módon fel kell tüntetni:
+
+a) a pénznyerő automata, helyhez kötött szerver alapú pénznyerő automata engedély számát,
+
+b) legalább egy, a játékfüggőség megelőzése, illetve kezelése terén a játékosnak segítséget nyújtó magyarországi székhellyel rendelkező szervezet telefonszámát, valamint
+
+c) az a) és b) pontbeli adatok feltüntetése nélkül vagy egyébként jogszabálysértő módon üzemeltetett pénznyerő automatával, helyhez kötött szerver alapú pénznyerő automatával kapcsolatos bejelentések fogadására szolgáló, az állami adóhatóság által működtetett ingyenesen hívható telefonszámot.
+
+(11)[^176] Az állami adóhatóság a pénznyerő automata, helyhez kötött szerver alapú pénznyerő automata üzemeltetési (működtetési) engedélyét visszavonhatja, ha az üzemeltető a (10) bekezdés a) pontjában foglalt előírást megsérti.
+
+(12)[^177] A (10) bekezdés b) pontja szerinti szervezet olyan, legalább két éve bejegyzett szervezet lehet, amelynek
+
+a) létesítő okiratában rögzített célja a játékosok védelme, rehabilitációja és a játékfüggőség megelőzése,
+
+b) tagja nem tagja (részvényese), vezető tisztségviselője szerencsejáték szervezéssel foglalkozó gazdasági társaságnak és ilyen társasággal nem áll munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban.
+
+(13)[^178] Az állami adóhatóság a (10) bekezdés c) pontja szerint tett bejelentés esetén az intézkedés foganatosításának tényéről – az intézkedés foganatosítását, ellenőrzés esetén annak lezárását követő három munkanapon belül – írásban tájékoztatja a bejelentőt, ha a bejelentő a név és lakcím adatát közli és a tájékoztatás mellőzését nem kéri.
+
 [^162]: A 44. § (1) bekezdésének záró szövegrésze a 36/2006. (XII. 25.) PM rendelet 4. § (2)–(3) bekezdése szerint módosított szöveg.
 [^163]: A 44. § (1) bekezdésének a) pontja a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^164]: A 44. § (2) bekezdése a 19/2006. (VII. 31.) PM rendelet 19. § (1) bekezdésével megállapított szöveg.
@@ -58,3 +78,8 @@ j) a mértékhitelesítő aláírását.
 [^171]: A 44. § (6) bekezdését a 16/2010. (IV. 28.) PM rendelet 7. § (3) bekezdése iktatta be.
 [^172]: A 44. § (7) bekezdését a 16/2010. (IV. 28.) PM rendelet 7. § (3) bekezdése iktatta be.
 [^173]: A 44. § (8) bekezdését a 16/2010. (IV. 28.) PM rendelet 7. § (3) bekezdése iktatta be.
+[^174]: A 44. § (9) bekezdését a 15/2012. (VI. 28.) NGM rendelet 6. § (2) bekezdése iktatta be.
+[^175]: A 44. § (10) bekezdését a 15/2012. (VI. 28.) NGM rendelet 6. § (2) bekezdése iktatta be.
+[^176]: A 44. § (11) bekezdését a 15/2012. (VI. 28.) NGM rendelet 6. § (2) bekezdése iktatta be.
+[^177]: A 44. § (12) bekezdését a 15/2012. (VI. 28.) NGM rendelet 6. § (2) bekezdése iktatta be.
+[^178]: A 44. § (13) bekezdését a 15/2012. (VI. 28.) NGM rendelet 6. § (2) bekezdése iktatta be.

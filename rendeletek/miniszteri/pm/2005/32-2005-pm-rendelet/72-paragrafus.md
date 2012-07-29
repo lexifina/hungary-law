@@ -34,7 +34,7 @@ a) a totalizatőri rendszerű fogadás esetén
 
 15. az át nem vett nyeremények kezelésének és felhasználásának módját,
 
-16.[^277] a napi készpénz záró állomány havi szintű átlagának maximumát és az összeg megállapításának indokait, amennyiben a számvitelről szóló törvényben meghatározott értékhatártól való eltérés a nyeremények kifizetése miatt szükséges;
+16.[^284] a napi készpénz záró állomány havi szintű átlagának maximumát és az összeg megállapításának indokait, amennyiben a számvitelről szóló törvényben meghatározott értékhatártól való eltérés a nyeremények kifizetése miatt szükséges;
 
 b) bukmékeri rendszerű fogadás esetén
 
@@ -46,7 +46,7 @@ b) bukmékeri rendszerű fogadás esetén
 
 4. a fogadás megkötésének és nyilvántartásának módszerét,
 
-5.[^278] az a) pont 14., 15. és 16. alpontjában foglaltakat.
+5.[^285] az a) pont 14., 15. és 16. alpontjában foglaltakat.
 
 (2) A részvételi szabályzatnak tartalmaznia kell:
 
@@ -60,7 +60,7 @@ d) a fogadás eredményének bizonyítási módját,
 
 e) a szervező és a játékos közötti megállapodás módját
 
-f)[^279] a nyereményigazolás kiadásának feltételeit.
+f)[^286] a nyereményigazolás kiadásának feltételeit.
 
 (3) A költségvetésnek tartalmaznia kell:
 
@@ -98,6 +98,6 @@ h) a fogadásban történő részvételre vonatkozó, az 1. § (5) bekezdése sz
 
 (5) A fogadóirodákban és a hírközlő eszközök és rendszerek útján szervezett fogadás esetén a játékos számára fogadási formánként megismerhetővé kell tenni a részvételi szabályzatot.
 
-[^277]: A 72. § (1) bekezdés a) pont 16. alpontját a 40/2008. (XII. 31.) PM rendelet 7. § (1) bekezdése iktatta be.
-[^278]: A 72. § (1) bekezdés b) pont 5. alpontja a 40/2008. (XII. 31.) PM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^279]: A 72. § (2) bekezdésének f) pontját a 32/2007. (XII. 21.) PM rendelet 24. §-a iktatta be. E módosító rendelet 30. § (4) bekezdése alapján a szerencsejáték-szervezőnek a részvételi szabályzat, illetve a látogatási szabályzat új szabályozás szerinti módosításáról – az igazgatási-szolgáltatási díj megfizetése nélkül – 2008. március 31-éig kell gondoskodnia.
+[^284]: A 72. § (1) bekezdés a) pont 16. alpontját a 40/2008. (XII. 31.) PM rendelet 7. § (1) bekezdése iktatta be.
+[^285]: A 72. § (1) bekezdés b) pont 5. alpontja a 40/2008. (XII. 31.) PM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^286]: A 72. § (2) bekezdésének f) pontját a 32/2007. (XII. 21.) PM rendelet 24. §-a iktatta be. E módosító rendelet 30. § (4) bekezdése alapján a szerencsejáték-szervezőnek a részvételi szabályzat, illetve a látogatási szabályzat új szabályozás szerinti módosításáról – az igazgatási-szolgáltatási díj megfizetése nélkül – 2008. március 31-éig kell gondoskodnia.
