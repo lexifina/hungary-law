@@ -1,0 +1,5 @@
+## 14. § A Rendelet 40/A. §-a helyébe a következő rendelkezés lép:
+
+## „40/A. § (1) A támogatást igénylő, illetve a kedvezményezett – figyelemmel a 37. § (3) bekezdésében foglaltakra is – a közbeszerzési eljárást abban az esetben indíthatja meg, ha az NFÜ a közbeszerzési dokumentumokat ellenőrizte, és erről a 40. § (3) bekezdése szerinti minőségellenőrzési tanúsítványt, továbbá a közreműködő szervezet a 39/B. § (4) bekezdése szerinti nyilatkozatot állított ki. A támogatást igénylő, illetve a kedvezményezett az eljárás megindításával egyidejűleg az eljárást megindító végleges dokumentumot a közreműködő szervezet, valamint az NFÜ részére megküldi. A közreműködő szervezet, illetve az NFÜ egyet nem értése esetén dönt a szabálytalansági eljárás lefolytatásáról, illetve Kbt. szerint jogorvoslati eljárás kezdeményezéséről.
+
+## (2) A támogatást igénylő, illetve a kedvezményezett írásban vagy elektronikus úton haladéktalanul tájékoztatja az NFÜ-t, valamint a közreműködő szervezetet az (1) bekezdés szerinti végleges dokumentumokban történt esetleges változásokról.”
