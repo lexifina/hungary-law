@@ -1,1 +1,0 @@
-## 40. § A kihelyezett és a 2. § 12. pontjában, valamint a 26. § (5) bekezdésében meghatározott személyek a külszolgálat időtartamára a külföldre utazásról szóló 1998. évi XII. törvény rendelkezései alapján jogosultak diplomata-, illetve külügyi szolgálati útlevél igénybevételére.
