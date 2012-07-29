@@ -2,4 +2,6 @@
 
 28. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) Hatályát veszti a fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló 10/2011. (IX. 29. ) HM rendelet.
+(2)[^2]
+
+[^2]: A 28. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
