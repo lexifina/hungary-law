@@ -1,4 +1,4 @@
-47/A. § (1) A próbavásárláshoz a fogyasztóvédelmi hatóság közreműködő személyt vehet igénybe.
+47/A. § (1) A próbavásárláshoz a fogyasztóvédelmi hatóság közreműködő személyt vehet igénybe. A közreműködő személlyel megbízási szerződés köthető, amely alapján megbízási díjra jogosult.
 
 (2) A közreműködő személy részére a közreműködést igénybe vevő fogyasztóvédelmi hatóság megbízólevelet állít ki, amely tartalmazza a közreműködő személy nevét, továbbá azt, hogy mely vállalkozásnál milyen típusú ellenőrzésben vehet részt.
 

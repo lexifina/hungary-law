@@ -12,12 +12,14 @@ d) a fogyasztó álláspontjának rövid leírását, az azt alátámasztó tén
 
 e) a fogyasztó nyilatkozatát a 27. §-ban előírt feltétel teljesítéséről,
 
-f) a fogyasztó nyilatkozatát arra nézve, hogy az ügyben más békéltető testület eljárását nem kezdeményezte, közvetítői eljárást vagy polgári peres eljárást nem indított,
+f) a fogyasztó nyilatkozatát arra nézve, hogy az ügyben más békéltető testület eljárását nem kezdeményezte, közvetítői eljárás nem indult, keresetlevél beadására, illetve fizetési meghagyás kibocsátása iránti kérelem előterjesztésére nem került sor,
 
-g) a testület döntésére irányuló indítványt.
+g) a testület döntésére irányuló indítványt,
+
+h) a fogyasztó aláírását.
 
 (3) A kérelemhez csatolni kell azt az okiratot, illetve annak másolatát (kivonatát), amelynek tartalmára a fogyasztó bizonyítékként hivatkozik, így különösen a vállalkozás írásbeli nyilatkozatát a panasz elutasításáról, ennek hiányában a fogyasztó rendelkezésére álló egyéb írásos bizonyítékot a 27. §-ban előírt egyeztetés megkísérléséről.
 
 (4) Ha a fogyasztó meghatalmazott útján jár el, a kérelemhez csatolni kell a meghatalmazást.
 
-(5) Ha a kérelem nem felel meg a (2)–(4) bekezdésben foglaltaknak, a békéltető testület elnöke a kérelmet – annak beérkezésétől számított tizenöt napon belül – a hiányok megjelölése mellett pótlás végett a kérelmezőnek visszaküldi.
+(5) Ha a kérelem nem felel meg a (2)–(4) bekezdésben foglaltaknak, a békéltető testület elnöke a hiány megjelölésével – a kérelem beérkezésétől számított tizenöt napon belül – pótlásra hívja fel a kérelmezőt.

@@ -18,7 +18,7 @@ g) a békéltető testületi tagok díjazására,
 
 h) a fogyasztóvédelmi hatóság vagy hatóságok kijelölésére, feladat- és hatáskörére,
 
-i) a békéltető testületi tagok kijelölésére, valamint a 21. § (4) bekezdés b) pontjában említett végzettségre és szakismeretre,
+i) a békéltető testületi tagok kijelölésére,
 
 j) a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének végrehajtása céljából a fogyasztói érdekek képviseletét ellátó egyesületeknek az irányelv 4. cikk (3) bekezdésében meghatározott jegyzékre való felkerülése céljából lefolytatandó eljárásra,
 

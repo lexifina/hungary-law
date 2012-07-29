@@ -20,10 +20,10 @@ ce) végrehajtásában felfüggesztett pénzbüntetés kiszabása esetén a ment
 
 d) az (1) bekezdés szerinti, a kijelölés alapjául szolgáló végzettségnek és szakmai gyakorlatnak megfelelő foglalkozástól eltiltás hatálya alatt áll.
 
-(3) Az (1) bekezdés szerinti alkalmassági feltétel teljesülését az érintett igazolja a békéltetőtestületi tagsági kijelölés feltételeként.
+(3) Az (1) bekezdés szerinti alkalmassági feltétel teljesülését az érintett igazolja a békéltető testületi tagsági kijelölés feltételeként.
 
 (4) Azt a tényt, hogy a (2) bekezdés b)–d) pontjában meghatározott kizáró okok vele szemben nem állnak fenn, az érintett hatósági bizonyítvánnyal igazolja
 
-a) a békéltetőtestületi tagsági kijelölés feltételeként,
+a) a békéltető testületi tagsági kijelölés feltételeként,
 
 b) megbízatásának tartama alatt a békéltető testület elnöke, a békéltető testület elnöke tekintetében a fogyasztóvédelemért felelős miniszter írásbeli felhívására a felhívástól számított tizenöt munkanapon belül, vagy ha ez e határidőn belül az érintetten kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul.

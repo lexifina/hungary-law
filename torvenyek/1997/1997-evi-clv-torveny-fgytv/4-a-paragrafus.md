@@ -11,3 +11,5 @@ c) a termék biztonságosságával kapcsolatos kifogásokat kivizsgálni,
 d) a forgalmazót az ellenőrzések megállapításairól tájékoztatni,
 
 e) a nem biztonságos terméket a forgalomból kivonni, illetve – a külön jogszabályban meghatározottak szerint – visszahívni.
+
+(3) Ha a gyártó nem tesz eleget a (2) bekezdés a) pontjában foglalt kötelezettségének, a forgalmazó – a gyártó által rendelkezésére bocsátott azonosító jelölések felhasználásával – köteles azt pótolni.

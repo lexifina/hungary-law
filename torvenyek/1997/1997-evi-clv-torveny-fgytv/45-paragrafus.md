@@ -10,7 +10,7 @@ b) figyelemmel kísérjék a fogyasztókkal szemben alkalmazott általános szer
 
 c) képviseljék a fogyasztókat az érdekegyeztető fórumokon és testületekben,
 
-d) eljárást, vizsgálatot, intézkedést kezdeményezzenek a fogyasztói jogok vagy fogyasztói érdekek védelme érdekében,
+d) közérdekű keresetet indítsanak, eljárást, vizsgálatot, intézkedést kezdeményezzenek a fogyasztói jogok vagy fogyasztói érdekek védelme érdekében,
 
 e) véleményezzék a fogyasztókat érintő jogszabálytervezeteket, jogszabály-módosítást kezdeményezzenek a fogyasztói jogok vagy fogyasztói érdekek érvényesítése vagy védelme érdekében,
 

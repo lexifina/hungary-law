@@ -1,1 +1,1 @@
-41. § A fogyasztóvédelemért felelős miniszter az állami szervekhez címzett, jogszabály vagy közvetlenül alkalmazandó európai uniós jogi aktus vállalkozás számára fogyasztóval szembeni kötelezettséget megállapító rendelkezésének megsértése miatti fogyasztói beadványokat fogadó, azokat a hatáskörrel és illetékességgel rendelkező hatósághoz továbbító, valamint a fogyasztókat a rendelkezésre álló eljárási lehetőségekről tájékoztató telefonon, illetve elektronikusan is elérhető állami ügyfélszolgálatot működtet.
+41. §

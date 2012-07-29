@@ -10,7 +10,7 @@ b) a felek az eljárás megszüntetésében megállapodnak,
 
 c) az eljárás folytatása lehetetlen,
 
-d) az eljárás folytatására a tanács megítélése szerint bármely okból – ideértve a kérelem megalapozatlanságát is – nincs szükség.
+d) az eljárás folytatására a tanács megítélése szerint bármely okból – ideértve azt az esetet is, ha a kérelem megalapozatlansága meghallgatás tartása nélkül megállapítható – nincs szükség.
 
 (4) A tanács az ügy érdemében szótöbbséggel dönt.
 

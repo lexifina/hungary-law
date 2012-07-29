@@ -10,4 +10,4 @@
 
 (4) A Nemzeti Alaptanterv elvei és követelményei szerint a fogyasztóvédelemért felelős miniszter közreműködik a közoktatás intézményei számára készülő fogyasztóvédelmi tantervi követelmények meghatározásában.
 
-(5) Az állam az iskolai fogyasztóvédelmi oktatással kapcsolatos feladatait az oktatási intézményeken keresztül, a fogyasztóvédelmi hatósággal és a fogyasztói érdekek képviseletét ellátó egyesületekkel együttműködve látja el.
+(5) Az állam a fogyasztóvédelmi oktatással kapcsolatos feladatait az oktatási intézményekkel, a fogyasztóvédelmi hatósággal és a fogyasztói érdekek képviseletét ellátó egyesületekkel együttműködve látja el.

@@ -1,4 +1,4 @@
-22/B. § (1) Az alkalmassági feltételek teljesülése és a kizáró okok vizsgálata céljából a békéltető testület elnöke kezeli a békéltetőtestületi tagnak jelölt személy
+22/B. § (1) Az alkalmassági feltételek teljesülése és a kizáró okok vizsgálata céljából a békéltető testület elnöke kezeli a békéltető testületi tagnak jelölt személy
 
 a) 22. § (1) bekezdés szerinti végzettséget és szakmai gyakorlatot igazoló dokumentumokban,
 
