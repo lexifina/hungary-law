@@ -20,6 +20,14 @@ g) a központi szerver, és az alkalmazásra kerülő játéklogikák, játéksz
 
 h) az e rendeletben meghatározott igazgatási szolgáltatási díj megfizetését igazoló dokumentumot.
 
-(3)–(6)[^1]
+(3) A központi szerver üzemeltetésére vonatkozó engedély iránti kérelem benyújtása esetén a kérelmezőnek 10 000 000 Ft igazgatási szolgáltatási díjat kell fizetni. A díjat a minisztérium gazdálkodó szervezete 10032000-01454055 számú számlájára kell befizetni. A díj megfizetését az eljáró hatóság számára az eljárás lefolytatására irányuló kérelem benyújtásával egyidejűleg – de legkésőbb az engedély iránti kérelemről szóló döntés meghozataláig – igazolni kell. A díj megfizetésének elmaradása esetén engedély nem adható.
 
-[^1]: A 3. § (3)–(6) bekezdése a 10. § (2) bekezdése alapján 2012. július 29-én lép hatályba.
+(4) A díj az eljáró hatóság bevétele. A díj nyilvántartására, kezelésére és elszámolására az államháztartás szervezetei beszámolási és könyvvezetési kötelezettségének sajátosságairól szóló 249/2000. (XII. 24.) Korm. rendelet előírásait kell alkalmazni.
+
+(5) A kérelem elutasítása esetén az államháztartásért felelős miniszter a befizetett díj 75%-ának visszatérítéséről a határozat jogerőre emelkedését követően haladéktalanul intézkedik.
+
+(6) Az illetékekről szóló 1990. évi XCIII. törvény
+
+a) 86. §-át az elévülés tekintetében,
+
+b) 32. §-át a díj visszatérítése vonatkozásában

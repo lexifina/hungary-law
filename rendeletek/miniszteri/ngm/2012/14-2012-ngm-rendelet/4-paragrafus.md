@@ -1,3 +1,5 @@
+## megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon az államháztartásért felelős minisztert, ahol illetéket említ, azon igazgatási szolgáltatási díjat kell érteni.
+
 4. § (1) Az engedély kiadásának feltétele, hogy
 
 a) helyhez kötött szerver alapú pénznyerő automatát üzemeltető központi szerver működtetése céljából a kérelmező – a kérelem benyújtásakor – rendelkezzen legalább 1000 helyhez kötött szerver alapú pénznyerő automata üzemeltetésére vonatkozó, legalább egy éves határozott idejű csatlakozási szerződéssel,

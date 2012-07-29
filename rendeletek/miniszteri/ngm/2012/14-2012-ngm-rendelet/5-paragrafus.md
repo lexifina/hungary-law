@@ -2,10 +2,8 @@
 
 a) a kérelemhez a 3. § (2) bekezdés f), g) és h) pontjában meghatározott okiratokat kell csatolni,
 
-b)[^2]
+b) a kérelem benyújtása esetén 2 millió forint igazgatási szolgáltatási díjat kell fizetni a 3. § (3) bekezdés szerinti számlaszámra,
 
 c) a bővítés az engedély eredeti időtartamát nem hosszabbítja meg.
 
 (2) Az érvényes engedéllyel rendelkező központi szerverre új játékszoftver (játékprogram) csak akkor telepíthető, ha a telepíteni kívánt játékszoftver (játékprogram) auditálása megtörtént, és az auditálást igazoló dokumentumot az üzemeltető előzetesen az államháztartásért felelős miniszter és az állami adóhatóság részére személyesen vagy postai úton benyújtotta.
-
-[^2]: Az 5. § (1) bekezdés b) pontja a 10. § (2) bekezdése alapján 2012. július 29-én lép hatályba.
