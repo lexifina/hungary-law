@@ -1,4 +1,4 @@
-120. §[^192] (1) Az elektronikus alkalmazás útján megküldött dokumentumot az átvétel visszaigazolásával kell kézbesítettnek tekinteni.
+120. §[^228] (1) Az elektronikus alkalmazás útján megküldött dokumentumot az átvétel visszaigazolásával kell kézbesítettnek tekinteni.
 
 (2) Ha a dokumentum elektronikus alkalmazáson keresztül történő átvételének visszaigazolása a küldés napját követő hét napon belül nem történik meg, a dokumentumot – az ellenkező bizonyításig – kézbesítettnek kell tekinteni.
 
@@ -10,4 +10,4 @@
 
 (6) Az elektronikus alkalmazás útján megküldött tájékoztatást nyomtatott formában nem kell dokumentálni.
 
-[^192]: A 120. § a 25/2012. (II. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^228]: A 120. § a 25/2012. (II. 29.) Korm. rendelet 55. §-ával megállapított szöveg.

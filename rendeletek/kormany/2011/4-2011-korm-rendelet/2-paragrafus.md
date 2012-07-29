@@ -38,7 +38,7 @@
 
 16. konzorcium: több kedvezményezett támogatásával megvalósuló projektek esetében a részes felek (tagok) polgári jogi szerződésben szabályozott munkamegosztásán alapuló együttműködése a projekt közös megvalósítása, valamint ennek érdekében közös gazdasági érdekeik előmozdítása és erre irányuló tevékenységük összehangolása céljából,
 
-16a.[^9] közkiadás: az 1083/2006/EK tanácsi rendelet 2. cikk 5. pontja szerinti kiadás, amelynek részét képezi az uniós és a központi költségvetési támogatáson kívül a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 6. § (1) bekezdése alapján ajánlatkérőnek minősülő közszféra szervezet kedvezményezett által biztosított elismerhető saját forrás is,
+16a.[^9] közkiadás: az 1083/2006/EK tanácsi rendelet 2. cikk 5. pontja szerinti kiadás, amelynek részét képezi az uniós és a központi költségvetési támogatáson kívül a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 6. § (1) bekezdés a)–f) pontja alapján ajánlatkérőnek minősülő közszféra szervezet kedvezményezett által biztosított elismerhető saját forrás is,
 
 17.[^10] közreműködő szervezet: az 1083/2006/EK tanácsi rendelet 2. cikk 6. pontja szerinti szervezet,
 
@@ -64,25 +64,27 @@
 
 25. szabálytalanság-felelős: az NFÜ, illetve a közreműködő szervezet (a továbbiakban együtt: lebonyolításban érintett szervezet) alkalmazásában álló, a szabálytalansági eljárással kapcsolatos feladatok ellátására kijelölt személy,
 
+25a.[^19] szállítói finanszírozás: a kedvezményezettet vagy a támogatási szerződésben megnevezett, a projekt végrehajtásában részt vevőt megillető támogatás összegének kifizetése közvetlenül a szállító vagy engedményes pénzforgalmi számlájára történő utalással,
+
 26. támogatási konstrukció: azonos céllal, támogatható tevékenységekkel, támogatási formával és indikátorokkal jellemezhető egy vagy több pályázat, illetve kiemelt projekt,
 
-26a.[^19] tartalék támogatási konstrukció: olyan támogatási konstrukció, amely az adott operatív program prioritásának keretein felüli többletkötelezettség-vállalás esetére, a megemelt finanszírozási keret lekötése céljából kerül nevesítésre az akciótervben, de a nevesítés kötelezettségvállalással nem jár, a tartalék támogatási konstrukcióban meghatározott tartalék pályázati kiírások, tartalék kiemelt projektek a tartalék támogatási konstrukció aktiválásáig nem indíthatók,
+26a.[^20] tartalék támogatási konstrukció: olyan támogatási konstrukció, amely az adott operatív program prioritásának keretein felüli többletkötelezettség-vállalás esetére, a megemelt finanszírozási keret lekötése céljából kerül nevesítésre az akciótervben, de a nevesítés kötelezettségvállalással nem jár, a tartalék támogatási konstrukcióban meghatározott tartalék pályázati kiírások, tartalék kiemelt projektek a tartalék támogatási konstrukció aktiválásáig nem indíthatók,
 
-26b.[^20] tartalék támogatási konstrukció aktiválása: a korábban tartalékként nevesített támogatási konstrukció törlése, egyúttal annak a 26. pont szerinti támogatási konstrukcióként történő megjelenítése az akcióterv módosítása révén,
+26b.[^21] tartalék támogatási konstrukció aktiválása: a korábban tartalékként nevesített támogatási konstrukció törlése, egyúttal annak a 26. pont szerinti támogatási konstrukcióként történő megjelenítése az akcióterv módosítása révén,
 
 27. támogatási szerződés: a kedvezményezett és az NFÜ között létrejött polgári jogi szerződés,
 
 28. támogatói okirat: a lebonyolításban érintett szervezet által kiadott dokumentum, amely a pályázat elfogadásával keletkeztet a támogatás nyújtásának és felhasználásának részletes szabályairól szólóan polgári jogi jogviszonyt,
 
-29.[^21] technikai segítségnyújtás projektjei: azon projektek, amelyek célja a Nemzeti Stratégiai Referencia Keret hatékony, eredményes, szabályszerű, átlátható megvalósításának biztosítása és a végrehajtásáért felelős intézményrendszer magas színvonalú működése,
+29.[^22] technikai segítségnyújtás projektjei: azon projektek, amelyek célja a Nemzeti Stratégiai Referencia Keret hatékony, eredményes, szabályszerű, átlátható megvalósításának biztosítása és a végrehajtásáért felelős intézményrendszer magas színvonalú működése,
 
-30.[^22]
+30.[^23]
 
 31. tényfeltáró látogatás: a költségigazoló nyilatkozat alátámasztása érdekében az igazoló hatóság által a támogatások lebonyolításában érintett szervezeteknél végzett, az eljárások megfelelőségének vizsgálatára irányuló helyszíni ellenőrzés,
 
 32. tényfeltáró vizsgálat: a költségigazoló nyilatkozat alátámasztása érdekében az igazoló hatóság által a támogatások lebonyolításában érintett szervezeteknél végzett számlák és egyéb, kifizetési kérelmet alátámasztó dokumentumok ellenőrzése,
 
-32a.[^23] többletkötelezettség-vállalás: az operatív program valamely prioritásának keretét meghaladó, az államháztartásért felelős miniszter által jóváhagyott kötelezettség-vállalás,
+32a.[^24] többletkötelezettség-vállalás: az operatív program valamely prioritásának keretét meghaladó, az államháztartásért felelős miniszter által jóváhagyott kötelezettség-vállalás,
 
 33. utófinanszírozás: a kedvezményezett vagy a támogatási szerződésben megnevezett, a projekt végrehajtásában részt vevő által kifizetett számlák vagy egyéb, az egységes működési kézikönyvben meghatározott, az elszámolást alátámasztó dokumentumok támogatási összegének utólagos megtérítése közvetlenül a kedvezményezett, vagy az engedményes pénzforgalmi számlájára.
 
@@ -107,7 +109,7 @@ rendelkezései szerint kell értelmezni.
 [^6]: A 2. § (1) bekezdés 7. pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 1. pontja hatályon kívül helyezte.
 [^7]: A 2. § (1) bekezdés 8a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be.
 [^8]: A 2. § (1) bekezdés 12. pontja a 141/2012. (VII. 2.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^9]: A 2. § 16a. pontját a 153/2011. (VIII. 10.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 25/2012. (II. 29.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^9]: A 2. § 16a. pontját a 153/2011. (VIII. 10.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 25/2012. (II. 29.) Korm. rendelet 2. § (5) bekezdésével megállapított, a 176/2012. (VII. 26.) Korm. rendelet 29. § 1. pontja szerint módosított szöveg.
 [^10]: A 2. § (1) bekezdés 17. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
 [^11]: A 2. § (1) bekezdés 18. pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 1. pontja hatályon kívül helyezte.
 [^12]: A 2. § (1) bekezdés 19. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
@@ -117,8 +119,9 @@ rendelkezései szerint kell értelmezni.
 [^16]: A 2. § (1) bekezdés 20b. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (10) bekezdése iktatta be.
 [^17]: A 2. § (1) bekezdés 21. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (11) bekezdésével megállapított szöveg.
 [^18]: A 2. § (1) bekezdés 24. pontja a 304/2011. (XII. 23.) Korm. rendelet 43. §-a szerint módosított szöveg.
-[^19]: A 2. § (1) bekezdés 26a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (12) bekezdése iktatta be.
-[^20]: A 2. § (1) bekezdés 26b. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (12) bekezdése iktatta be.
-[^21]: A 2. § (1) bekezdés 29. pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 2. pontja szerint módosított szöveg.
-[^22]: A 2. § (1) bekezdés 30. pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 1. pontja hatályon kívül helyezte.
-[^23]: A 2. § (1) bekezdés 32a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (13) bekezdése iktatta be.
+[^19]: A 2. § (1) bekezdés 25a. pontját a 176/2012. (VII. 26.) Korm. rendelet 1. §-a iktatta be.
+[^20]: A 2. § (1) bekezdés 26a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (12) bekezdése iktatta be.
+[^21]: A 2. § (1) bekezdés 26b. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (12) bekezdése iktatta be.
+[^22]: A 2. § (1) bekezdés 29. pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 2. pontja szerint módosított szöveg.
+[^23]: A 2. § (1) bekezdés 30. pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^24]: A 2. § (1) bekezdés 32a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (13) bekezdése iktatta be.

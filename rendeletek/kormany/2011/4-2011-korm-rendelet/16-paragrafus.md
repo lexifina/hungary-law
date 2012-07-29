@@ -1,6 +1,6 @@
 16. § (1) Az NFÜ kockázatelemzés alapján legalább évente elvégzi a közreműködő szervezetre átruházott feladatok végrehajtásának ellenőrzését. Az ellenőrzés eredményét tartalmazó dokumentumot az NFÜ 7 napon belül megküldi a fejlesztéspolitikáért felelős miniszter, az igazoló hatóság, az ellenőrző hatóság és az államháztartásért felelős miniszter részére.
 
-(2)[^60] A kincstár az NFÜ által meghatározott közreműködő szervezet vonatkozásában a közreműködő szervezetre átruházott feladatok ellátásának elsőszintű ellenőrzését a (3)–(5) bekezdés szerint látja el.
+(2)[^65] A kincstár az NFÜ által meghatározott közreműködő szervezet vonatkozásában a közreműködő szervezetre átruházott feladatok ellátásának elsőszintű ellenőrzését a (3)–(5) bekezdés szerint látja el.
 
 (3) A kincstár utólagosan ellenőrzi az NFÜ által kijelölt kedvezményezett benyújtott pályázatának és elszámolásainak közreműködő szervezet által történő feldolgozását, ennek keretében azt, hogy
 
@@ -18,4 +18,4 @@ b) a megfelelő szintű jóváhagyások megtörténtek-e és azok dokumentálás
 
 (8) Az NFÜ összehangolja a közreműködő szervezetre átruházott feladatok végrehajtásával kapcsolatos ellenőrzéseit.
 
-[^60]: A 16. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 13. pontja szerint módosított szöveg.
+[^65]: A 16. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 13. pontja szerint módosított szöveg.

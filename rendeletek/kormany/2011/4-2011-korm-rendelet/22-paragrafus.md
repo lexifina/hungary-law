@@ -26,6 +26,6 @@ j) a felhívásban meghatározott egyéb adatokat.
 
 (3) A projektadatlapot és mellékleteit a támogatást igénylő a felhívásban meghatározott elektronikus alkalmazással készíti el, és a felhívásban meghatározott módon, elektronikus formában nyújtja be. A felhívás előírhatja, hogy a projektadatlapot a támogatást igénylő papír alapon is köteles benyújtani. A kétféle módon benyújtott projektadatlapban mutatkozó eltérés esetén a papír alapú és aláírt projektadatlap tekintendő hitelesnek azzal, hogy a papír alapú és az elektronikus projektadatlap egyezőségéről a támogatást igénylő köteles gondoskodni.
 
-(4)–(7)[^74]
+(4)–(7)[^80]
 
-[^74]: A 22. § (4)–(7) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 6. pontja hatályon kívül helyezte.
+[^80]: A 22. § (4)–(7) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 6. pontja hatályon kívül helyezte.

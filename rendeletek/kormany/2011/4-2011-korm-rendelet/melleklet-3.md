@@ -12,7 +12,7 @@
 
 |  | Prioritás | Többletkötelezettség- vállalás összege (Mrd Ft) | Többletkötelezettség- vállalás összegének tervezett EU része (Mrd Ft) | Többletkötelezettség- vállalás összegének tervezett Hazai része (Mrd Ft) | Hazai részből tervezett public saját erő (Mrd Ft) | Többletkötelezettség- vállalás összegéből tervezett kifizetése – éves bontásban– 2012–2015 |
 
-3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^207]
+3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^245]
 
 A közreműködő szervezetek felsorolása operatív programonként, prioritásonként és intézkedésenként
 
@@ -20,9 +20,9 @@ A közreműködő szervezetek felsorolása operatív programonként, prioritáso
 
 | 1. | Operatív program | Prioritás | Intézkedés | Közreműködő szervezet |
 
-| 2. | Államreform Operatív Program |  |  | VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. |
+| 2. | Államreform Operatív Program |  |  | MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
-| 3. | Elektronikus Közigazgatás Operatív Program |  |  | VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. |
+| 3. | Elektronikus Közigazgatás Operatív Program |  |  | MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
 | 4. | Gazdaságfejlesztési Operatív Program |  |  | MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
@@ -50,7 +50,7 @@ A közreműködő szervezetek felsorolása operatív programonként, prioritáso
 
 | 16. | Közlekedési infrastruktúra fejlesztés |  | Dél-alföldi Regionális Fejlesztési Ügynökség Nonprofit Kft. |
 
-| 17. | Humán-infrastruktúra fejlesztések |  | VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. |
+| 17. | Humán-infrastruktúra fejlesztések |  | MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
 | 18. | Térségfejlesztési akciók |  | Dél-alföldi Regionális Fejlesztési Ügynökség Nonprofit Kft. |
 
@@ -58,7 +58,7 @@ A közreműködő szervezetek felsorolása operatív programonként, prioritáso
 
 | 20 | A turisztikai potenciál erősítése a régióban |  | Dél-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
 
-| 21. | Humán közszolgáltatások fejlesztése |  | VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. |
+| 21. | Humán közszolgáltatások fejlesztése |  | MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
 | 22. | Integrált városfejlesztési akciók támogatása |  | Dél-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
 
@@ -70,7 +70,7 @@ A közreműködő szervezetek felsorolása operatív programonként, prioritáso
 
 | 26. | Közlekedési feltételek javítása |  | Észak-alföldi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
 
-| 27. | Humán infrastruktúra fejlesztése |  | VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. |
+| 27. | Humán infrastruktúra fejlesztése |  | MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
 | 28. | Város- és térségfejlesztés |  | Észak-alföldi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
 
@@ -80,19 +80,19 @@ A közreműködő szervezetek felsorolása operatív programonként, prioritáso
 
 | 31. | Településfejlesztés |  | NORDA Észak-magyarországi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
 
-| 32. | Humán közösségi infrastruktúra fejlesztése |  | VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. |
+| 32. | Humán közösségi infrastruktúra fejlesztése |  | MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
 | 33. | Térségi közlekedés fejlesztése |  | NORDA Észak-magyarországi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
 
 | 34. | Közép-dunántúli Operatív Program | Regionális gazdaságfejlesztés |  | Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
 
-| 35. | Regionális turizmusfejlesztés |  | Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. és VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. |
+| 35. | Regionális turizmusfejlesztés |  | Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. és MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
-| 36. | Fenntartható településfejlesztés |  | Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. és VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. |
+| 36. | Fenntartható településfejlesztés |  | Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. és MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
 | 37. | Helyi és térségi környezetvédelmi és közlekedési infrastruktúra fejlesztés |  | Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
 
-| 38. | Humán-infrastruktúra fejlesztés |  | VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. |
+| 38. | Humán-infrastruktúra fejlesztés |  | MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
 | 39. | Nyugat-dunántúli Operatív Program | Regionális gazdaságfejlesztés |  | Nyugat-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
 
@@ -102,7 +102,7 @@ A közreműködő szervezetek felsorolása operatív programonként, prioritáso
 
 | 42. | Környezetvédelmi és közlekedési infrastruktúra |  | Nyugat-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
 
-| 43. | Helyi és térségi közszolgáltatások fejlesztése |  | VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. |
+| 43. | Helyi és térségi közszolgáltatások fejlesztése |  | MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
 | 44. | Közép-magyarországi Operatív program | A tudásalapú gazdaság innováció- és vállalkozás-orientált fejlesztése | Összes intézkedés, kivéve Helyi gazdaságfejlesztés, KKV-k pénzügyi eszközökhöz való hozzáférésének fejlesztése | MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
@@ -124,11 +124,11 @@ A közreműködő szervezetek felsorolása operatív programonként, prioritáso
 
 | 53. |  | A társadalmi befogadást támogató infrastruktúra fejlesztése | ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
 
-| 54. |  | A lakosságközeli szociális szolgáltatási infrastruktúra fejlesztése | VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. |
+| 54. |  | A lakosságközeli szociális szolgáltatási infrastruktúra fejlesztése | MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
-| 55. |  | A közoktatási intézmények infrastruktúra fejlesztése | VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. |
+| 55. |  | A közoktatási intézmények infrastruktúra fejlesztése | MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
-| 56. |  | Elektronikus helyi közigazgatási infrastruktúra fejlesztése | VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. |
+| 56. |  | Elektronikus helyi közigazgatási infrastruktúra fejlesztése | MAG – Magyar Gazdaságfejlesztési Központ Zrt. |
 
 | 57. | Városi és települési területek megújítása |  | Pro Regio Közép-Magyarországi Regionális Fejlesztési és Szolgáltató Nonprofit Közhasznú Kft. |
 
@@ -136,4 +136,4 @@ A közreműködő szervezetek felsorolása operatív programonként, prioritáso
 
 | 59. | Társadalmi Infrastruktúra Operatív Program |  |  | ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
 
-[^207]: A 3. számú melléklet a 86/2011. (V. 31.) Korm. rendelet 13. § (6) bekezdése és a 14. § h) pontja, a 25/2012. (II. 29.) Korm. rendelet 60. §-a szerint módosított szöveg.
+[^245]: A 3. számú melléklet a 86/2011. (V. 31.) Korm. rendelet 13. § (6) bekezdése és a 14. § h) pontja, a 25/2012. (II. 29.) Korm. rendelet 60. §-a, a 176/2012. (VII. 26.) Korm. rendelet 28. §-a szerint módosított szöveg.

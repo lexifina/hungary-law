@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-22
 | 2012-03-01 | 2011-4-20-22.7 | 25/2012. (II. 29.) Korm. rendelet |
 | 2012-03-31 | 2011-4-20-22.8 | 25/2012. (II. 29.) Korm. rendelet |
 | 2012-07-03 | 2011-4-20-22.9 | 141/2012. (VII. 2.) Korm. rendelet |
+| 2012-07-29 | 2011-4-20-22.10 | 176/2012. (VII. 26.) Korm. rendelet |

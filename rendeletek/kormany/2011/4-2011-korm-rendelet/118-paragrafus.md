@@ -8,10 +8,11 @@ c) a kedvezményezett önkormányzat kizárólagos tulajdonában álló gazdasá
 
 kerüljön sor.
 
-(2)[^190] Az (1) bekezdés szerinti vagyonkezelői jog átengedésére a Magyarország helyi önkormányzatairól szóló törvény, valamint a nemzeti vagyonról szóló törvény rendelkezéseit kell alkalmazni.
+(2)[^225] Az (1) bekezdés szerinti vagyonkezelői jog átengedésére a Magyarország helyi önkormányzatairól szóló törvény, valamint a nemzeti vagyonról szóló törvény rendelkezéseit kell alkalmazni.
 
-(3) A közreműködő szervezet jogosult a koncessziós és vagyonkezelési pályázatokat értékelő testületbe, valamint az üzemeltető kiválasztására irányuló közbeszerzési eljárás döntés-előkészítő bizottságába megfigyelőt delegálni.
+(3)[^226] A közreműködő szervezet jogosult a koncessziós és vagyonkezelési pályázatokat értékelő testületbe, valamint az üzemeltető kiválasztására irányuló közbeszerzési eljárás bíráló bizottságába megfigyelőt delegálni.
 
 (4) A támogatással megvalósuló közszolgáltatási célú eszközrendszer működtetésére, vagyonkezelésére irányuló közszolgáltatási, üzemeltetési, vagyonkezelési szerződések, és – a jogszabályoknak megfelelő – módosításuk érvényességéhez a támogatással megvalósuló eszközrendszer üzembe helyezésétől számított 10 évig a közreműködő szervezet hozzájárulása szükséges.
 
-[^190]: A 118. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 54. §-ával megállapított szöveg.
+[^225]: A 118. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 54. §-ával megállapított szöveg.
+[^226]: A 118. § (3) bekezdése a 176/2012. (VII. 26.) Korm. rendelet 29. § 16. pontja szerint módosított szöveg.

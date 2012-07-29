@@ -11,3 +11,7 @@
 (6) A szállítói finanszírozású és vegyes kifizetési igénylésekre vonatkozóan a kifizetési igénylés benyújtásának ütemezésével és a benyújtás feltételeivel kapcsolatos előírásokat, valamint az engedményezés bejelentésének szabályait a felhívás vagy a támogatási szerződés tartalmazza.
 
 (7) A lebonyolításban érintett szervezet az engedményezésekről naprakész nyilvántartást vezet.
+
+(8)[^153] Az NFÜ a (2) bekezdés szerinti százalékos és összegszerű korláttól a kedvezményezett javára eltérhet.
+
+[^153]: Az 56. § (8) bekezdését a 176/2012. (VII. 26.) Korm. rendelet 18. §-a iktatta be.
