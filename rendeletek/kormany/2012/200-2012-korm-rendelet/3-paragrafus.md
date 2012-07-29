@@ -240,7 +240,7 @@
 
 ## S0. NEM ENGEDELYEZETT SZEREK
 
-## Minden esetben tiltott bármely olyan farmakológiai szer, amely nem szerepel a Lista valamely következő részében, és amely jelenleg nem rendelkezik valamely kormányzati szabályozó egészségügyi hatóság humán terápiás használatra történő jóváhagyásával (például preklinikai vizsgálatra engedélyezett anyag vagy klinikai vizsgálatra engedélyezett vizsgálati készítmény, vagy forgalomból kivont gyógyszerek és vizsgálati készítmények, dizájner drogok[^1], állatgyógyászati készítmények).
+## Minden esetben tiltott bármely olyan farmakológiai szer, amely nem szerepel a Lista valamely következő részében, és amely jelenleg nem rendelkezik valamely kormányzati szabályozó egészségügyi hatóság humán terápiás használatra történő jóváhagyásával (például preklinikai vizsgálatra engedélyezett anyag vagy klinikai vizsgálatra engedélyezett vizsgálati készítmény, vagy forgalomból kivont gyógyszerek és vizsgálati készítmények, dizájner drogok[^2], állatgyógyászati készítmények).
 
 ## S1. ANABOLIKUS SZEREK
 
@@ -428,6 +428,7 @@
 
 (2) E rendelet végrehajtásához szükséges intézkedésekről a sportpolitikáért felelős miniszter gondoskodik.
 
-(3) Hatályát veszti az UNESCO által 2005. október 19-én elfogadott, a sportbeli dopping elleni nemzetközi egyezmény módosításának kihirdetéséről szóló 42/2011. (III. 23.) Korm. rendelet.
+(3)[^3]
 
-[^1]: „Dizájner drogok” kifejezés alatt „tiltólistán lévő szer módosításával előállított anyagok” értendő.
+[^2]: „Dizájner drogok” kifejezés alatt „tiltólistán lévő szer módosításával előállított anyagok” értendő.
+[^3]: A 3. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
