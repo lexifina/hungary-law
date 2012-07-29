@@ -1,5 +1,0 @@
-## 22. § Az R11. Záró rendelkezés alcíme a következő 12/B. §-sal egészül ki:
-
-## „12/B. § (1) E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártárgyú miniszteri rendeletek módosításáról szóló 76/2012. (VII. 27.) VM rendelettel [a továbbiakban: 76/2012. (VII. 27.) VM rendelet] megállapított 10/A. §-ának rendelkezéseit a 76/2012. (VII. 27.) VM rendelet hatálybalépésekor folyamatban lévő azon ügyekben kell alkalmazni, amelyekben a támogatási kérelmet 2009. november 16. napjáig nyújtották be és a 76/2012. (VII. 27.) VM rendelet hatálybalépésekor a Vhr. 24. § (1) bekezdése rendelkezéseinek megsértése miatt a 35. § (9) bekezdésében foglaltak alkalmazásának lenne helye, vagy a Vhr. 35. § (9) bekezdésében foglalt bármelyik döntés még nem emelkedett jogerőre, vagy annak kapcsán bírósági felülvizsgálat van folyamatban.
-
-## (2) E rendeletnek a 76/2012. (VII. 27.) VM rendelettel megállapított 10. § (1) bekezdése szerinti rendelkezést 76/2012. (VII. 27.) VM rendelet hatályba lépésekor a folyamatban lévő ügyekben is alkalmazni kell.”
