@@ -1,1 +1,0 @@
-## „(4) Ha a bíróság a Cstv. 27/A. § (7) bekezdése alapján a felszámoló szervezet felmentéséről döntött, a nyilvántartó szervet döntéséről a jogerős határozat megküldésével, haladéktalanul, elektronikus úton értesíti.”
