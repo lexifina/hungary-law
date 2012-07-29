@@ -1,3 +1,1 @@
-## 9. §[^6]
-
-[^6]: A 9. § a 16. § (2) bekezdése alapján 2012. július 29-én lép hatályba.
+## „g) nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetése iránti kérelem esetén átlag 1000 játékos egyidejű kiszolgálására alkalmas rendszerenként 5 000 000 forint (kulcsszó: PRENDSZER).”
