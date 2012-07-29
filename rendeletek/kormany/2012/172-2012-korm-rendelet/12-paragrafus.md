@@ -1,0 +1,3 @@
+12. § (1) A külszolgálat leteltekor, annak idő előtti megszűnésekor, illetve meghiúsulásakor a Külügyminisztérium a szakdiplomatát visszahelyezi a szaktárca állományába.
+
+(2) A szakdiplomata külszolgálatának megszüntetésére vagy kihelyezésének visszavonására a szaktárca tesz javaslatot, amelyhez a Külügyminisztérium kötve van. A külszolgálatot a Külügyminisztérium a szaktárca javaslatának megfelelően köteles megszüntetni, illetve visszavonni. A kihelyezés visszavonásáról rendkívüli esetben (pl. vis maior, válsághelyzet) – a szakminiszter egyidejű értesítése mellett – a külpolitikáért felelős miniszter is dönthet.

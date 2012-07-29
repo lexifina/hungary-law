@@ -1,0 +1,1 @@
+## 46. § E rendelet rendelkezéseit a rendelet hatálybalépésekor tartós külszolgálatot ellátó kormánytisztviselők, valamint a folyamatban lévő ideiglenes külföldi kiküldetések esetében is alkalmazni kell.

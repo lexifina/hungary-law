@@ -1,0 +1,1 @@
+## 41. § A kihelyezett és a 3. § 12. pontjában meghatározott személyek a külszolgálat időtartamára a külföldre utazásról szóló 1998. évi XII. törvény rendelkezései alapján jogosultak diplomata-, illetve külügyi szolgálati útlevél igénybevételére.

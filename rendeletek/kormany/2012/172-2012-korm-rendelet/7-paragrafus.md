@@ -1,0 +1,1 @@
+## 6. § A nagykövetség vezetője az érintett képviselet-vezetők útján – a nemzetközi szervezetek mellé rendelt állandó képviseletek kivételével – ellátja a fogadó államban működő valamennyi külképviselet képviseleti tevékenységének összehangolását, irányítását.

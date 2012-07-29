@@ -1,0 +1,1 @@
+## 35. § A kihelyezett és a 3. § 12. pontjában meghatározott személyek ingóságainak indokolt szállítási költségeit a külszolgálat megkezdésekor, befejezésekor és más külföldi állomáshelyre történő áthelyezéskor a kihelyező szerv viseli. A költségviselés mértékét a kihelyező szerv szabályzatban határozza meg.
