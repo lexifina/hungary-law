@@ -16,10 +16,11 @@ d)[^1]
 
 (3)[^2] E rendelet rendelkezéseit
 
-a) a közlekedési nyomvonal jellegű építmények (vasutak, repülőterek stb.) közbeiktatott vagy csatlakozó építményei,
+a) a közlekedési nyomvonal jellegű építmények (vasutak, repülőterek stb.) közbeiktatott vagy csatlakozó építményei tekintetében a rájuk vonatkozó jogszabályban,
 
-b)[^3] a nukleáris létesítményben lévő felvonók tekintetében a rájuk vonatkozó jogszabályban foglalt eltérésekkel kell alkalmazni.
+b) a nukleáris létesítményben lévő felvonók tekintetében a rájuk vonatkozó jogszabályban,
+
+c) a nemzetgazdasági szempontból kiemelt jelentőségű beruházásnak minősülő ügy tárgyát képező beruházás esetében a nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletben
 
 [^1]: Az 1. § (2) bekezdés d) pontját a 118/2011. (VII. 11.) Korm. rendelet 43. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 39–40. §-át.
-[^2]: Az 1. § (3) bekezdését a 173/1999. (XII. 6.) Korm. rendelet 1. §-ának (2) bekezdése iktatta a szövegbe.
-[^3]: Az 1. § (3) bekezdés b) pontja a 118/2011. (VII. 11.) Korm. rendelet 42. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 39–40. §-át.
+[^2]: Az 1. § (3) bekezdését a 173/1999. (XII. 6.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, szövege a 173/2012. (VII. 26.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -22,7 +22,7 @@
 
 ## 10. Használat során, illetve nyitott ajtó esetén a fülkét megfelelően ki kell világítani, továbbá szükségvilágítást is fel kell szerelni, amelynek működőképesnek kell maradnia az esetleges kimentés várható teljes ideje alatt.
 
-8. számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez[^59]
+8. számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez[^58]
 
 8. a)
 
@@ -342,4 +342,4 @@ A heveder szakítóerejének nagysága: …………………………………�
 
 P. H.
 
-[^59]: A 8 számú mellékletet a 121/2004. (IV. 29.) Korm. rendelet 28. § (2) bekezdése iktatta be, a Magyar Közlöny 2004. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^58]: A 8 számú mellékletet a 121/2004. (IV. 29.) Korm. rendelet 28. § (2) bekezdése iktatta be, a Magyar Közlöny 2004. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.

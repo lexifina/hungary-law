@@ -14,17 +14,17 @@ a) felvonószerelő szakmunkás bizonyítvánnyal vagy ennél magasabb szakirán
 
 b) vagy egyéb szakirányú (lakatos, gépész, villanyszerelő) szakmunkás bizonyítványa és kétéves szakmai gyakorlata van, továbbá a miniszter által a gazdasági és közlekedési miniszterrel egyetértésben előírt tanfolyami és vizsgakötelezettségének eleget tett,
 
-c)[^31] a szabad mozgás és tartózkodás jogával rendelkező személy, illetve letelepedett jogállású személy, és rendelkezik az Etv. VI. fejezete előírásainak megfelelő, a küldő vagy származási állam illetékes hatósága által kiállított bizonyítvánnyal, amelynek hiteles magyar nyelvű fordítását elismerés céljából a 6. § (2) bekezdése szerinti szervezetnek bemutat.
+c)[^30] a szabad mozgás és tartózkodás jogával rendelkező személy, illetve letelepedett jogállású személy, és rendelkezik az Etv. VI. fejezete előírásainak megfelelő, a küldő vagy származási állam illetékes hatósága által kiállított bizonyítvánnyal, amelynek hiteles magyar nyelvű fordítását elismerés céljából a 6. § (2) bekezdése szerinti szervezetnek bemutat.
 
 (4) A szakmai vizsgát a miniszter által külön jogszabályban meghatározott előírásoknak megfelelően jogi, pénzügyi és műszaki ismeretekből kell letenni.
 
-(5)[^32] A felvonók, illetve mozgólépcsők rendszeres karbantartását a gyártó gépkönyvben rögzített utasításai, ennek hiányában az érvényes nemzeti szabványok útmutatásai alapján kell elvégezni.
+(5)[^31] A felvonók, illetve mozgólépcsők rendszeres karbantartását a gyártó gépkönyvben rögzített utasításai, ennek hiányában az érvényes nemzeti szabványok útmutatásai alapján kell elvégezni.
 
-(6)[^33] A felvonóknak, illetve a mozgólépcsőknek legalább a létesítésük, felszerelésük időpontjában érvényes nemzeti szabványok, műszaki előírások biztonsági követelményeinek meg kell felelniük. Az egyes alkatrészek, részegységek cseréje esetén – ha azok eltérőek az eredetitől – a beépítés időpontjában érvényes műszaki előírásokat kell alkalmazni.
+(6)[^32] A felvonóknak, illetve a mozgólépcsőknek legalább a létesítésük, felszerelésük időpontjában érvényes nemzeti szabványok, műszaki előírások biztonsági követelményeinek meg kell felelniük. Az egyes alkatrészek, részegységek cseréje esetén – ha azok eltérőek az eredetitől – a beépítés időpontjában érvényes műszaki előírásokat kell alkalmazni.
 
-(7)[^34] Személyszállításra is alkalmas felvonók felújításánál, átalakításánál figyelembe kell venni a 7. számú mellékletben foglalt, a felvonók biztonságát növelő ajánlásokat.
+(7)[^33] Személyszállításra is alkalmas felvonók felújításánál, átalakításánál figyelembe kell venni a 7. számú mellékletben foglalt, a felvonók biztonságát növelő ajánlásokat.
 
-[^31]: A 7. § (3) bekezdésének c) pontját a 121/2004. (IV. 29.) Korm. rendelet 25. §-a iktatta be, szövege a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének f) pontja szerint módosított szöveg.
-[^32]: A 7. § (5) bekezdését a 246/2002. (XI. 28.) Korm. rendelet 5. §-a iktatta a szövegbe.
-[^33]: A 7. § (6) bekezdését a 246/2002. (XI. 28.) Korm. rendelet 5. §-a iktatta a szövegbe.
-[^34]: A 7. § (7) bekezdését a 246/2002. (XI. 28.) Korm. rendelet 5. §-a iktatta a szövegbe.
+[^30]: A 7. § (3) bekezdésének c) pontját a 121/2004. (IV. 29.) Korm. rendelet 25. §-a iktatta be, szövege a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének f) pontja szerint módosított szöveg.
+[^31]: A 7. § (5) bekezdését a 246/2002. (XI. 28.) Korm. rendelet 5. §-a iktatta a szövegbe.
+[^32]: A 7. § (6) bekezdését a 246/2002. (XI. 28.) Korm. rendelet 5. §-a iktatta a szövegbe.
+[^33]: A 7. § (7) bekezdését a 246/2002. (XI. 28.) Korm. rendelet 5. §-a iktatta a szövegbe.

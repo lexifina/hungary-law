@@ -34,6 +34,6 @@
 
 ## – a kijelölt szervezet alkalmassági nyilatkozatát.
 
-6. számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez[^57]
+6. számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez[^56]
 
-[^57]: A 6. számú mellékletet a 173/1999. (XII. 6.) Korm. rendelet 10. §-ának (3) bekezdése, illetve 5. számú melléklete iktatta a szövegbe.
+[^56]: A 6. számú mellékletet a 173/1999. (XII. 6.) Korm. rendelet 10. §-ának (3) bekezdése, illetve 5. számú melléklete iktatta a szövegbe.

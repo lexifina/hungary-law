@@ -74,6 +74,6 @@
 
 ## e) külső vezérlésű teherfelvonó esetén a fülke elküldésekor az aknaajtó reteszelt állapotának ellenőrzése.
 
-2. számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez[^51]
+2. számú melléklet a 113/1998. (VI. 10.) Korm. rendelethez[^50]
 
-[^51]: A 2. számú melléklet a 246/2002. (XI. 28.) Korm. rendelet 7. §-ának (1) bekezdésével megállapított szöveg.
+[^50]: A 2. számú melléklet a 246/2002. (XI. 28.) Korm. rendelet 7. §-ának (1) bekezdésével megállapított szöveg.
