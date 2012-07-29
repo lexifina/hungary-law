@@ -1,1 +1,0 @@
-## 5. § Az R. 5. § (1) bekezdésében a „Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe „Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH)” szöveg, a 6. § (13) bekezdésében a „Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH)” szövegrész helyébe a „NÉBIH” szöveg lép.
