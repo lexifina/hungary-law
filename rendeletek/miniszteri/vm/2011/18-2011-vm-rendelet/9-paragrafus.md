@@ -6,10 +6,13 @@ a) félévente körmölést, és
 
 b) negyedévente lábfürösztést kell magába foglalnia.
 
-(2) A csülökápolás megtörténtét – időpontra (év/hó/nap/óra), a cselekményt végző személy azonosítására és aláírására, valamint az egyedek azonosítására kiterjedően – a telepi munkanaplóban kell vezetni.
+(2)[^11] A csülökápolás megtörténtét – időpontra, a cselekményt végző személy azonosítására és aláírására, valamint az egyedek azonosítására kiterjedően – a telepi munkanaplóban kell vezetni.
 
 (3) A támogatásra jogosult tartási helyenként köteles fejési szabályzatot készíteni, és azt a tartási helyen őrizni.
 
-(4) A támogatásra jogosult köteles a tartási helyen a tejtermelő szarvasmarha gondozását végző minden személlyel a fejési szabályzat tartalmát az alkalmazáshoz szükséges mértékben megismertetni. A fejési szabályzathoz kapcsolódó elméleti és gyakorlati oktatásról jelenléti ívet kell felvenni.
+(4)[^12] A támogatásra jogosult köteles a tartási helyen a tejtermelő szarvasmarha gondozását végző minden személlyel a fejési szabályzat tartalmát évente legalább egyszer az alkalmazáshoz szükséges mértékben megismertetni. A fejési szabályzathoz kapcsolódó elméleti és gyakorlati oktatásról jelenléti ívet kell felvenni.
 
 (5) A támogatásra jogosult – napi rendszerességgel – köteles a fejési munkafolyamatokról az IH által közzétett közleményben meghatározott adattartalommal munkanaplót vezetni, és azt a tartási helyen őrizni.
+
+[^11]: A 9. § (2) bekezdése a 79/2012. (VII. 27.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^12]: A 9. § (4) bekezdése a 79/2012. (VII. 27.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.

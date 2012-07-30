@@ -1,5 +1,3 @@
-## a TIR rendelet szerint nyilvántartott terület éves átlaga alapján számított értéket, két tizedes jegyre történő kerekítéssel kell figyelembe venni.
-
 ## 6. A gondozói felügyeletre vonatkozó kötelezettség
 
 7. § (1) A támogatásra jogosult – többletkötelezettség-vállalásként az 1. § (1) bekezdés 2. pontjában meghatározott állatjóléti előíráshoz képest – köteles az istállóban és nyitott állattartó létesítményben tartott tejtermelő szarvasmarhákat naponta legalább két alkalommal ellenőrizni

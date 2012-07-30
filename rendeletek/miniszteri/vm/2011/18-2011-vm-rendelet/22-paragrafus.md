@@ -2,7 +2,7 @@
 
 22. § (1) A támogatási kérelem magában foglalja az első kifizetési kérelmet is.
 
-(2) A további kifizetési kérelmeket évente, szeptember 1. és szeptember 30. között lehet benyújtani az MVH Központ által rendszeresített formanyomtatványon, az MVH-nak a támogatásra jogosult lakóhelye vagy székhelye szerint illetékes megyei kirendeltséghez. A formanyomtatvány tartalmi elemei a következők:
+(2)[^17] A 2012. évben kifizetési kérelmet nem lehet benyújtani. A további kifizetési kérelmeket évente, június 1. és június 30. között lehet benyújtani az MVH-hoz, az MVH által rendszeresített nyomtatványon. A nyomtatvány tartalmi elemei az alábbiak:
 
 a) ügyfél-azonosítási adatok, valamint a kapcsolattartó adatai,
 
@@ -14,9 +14,9 @@ d) az adott gazdálkodási évre igényelt legeltetett ÁE,
 
 e) a tartási helyet azonosító adatok,
 
-f) az állatjóléti kötelezettség-vállalások azonosítása és az ügyleti költség igénylése,
+f) az állatjóléti kötelezettség-vállalások azonosítása, és az ügyleti költség igénylése,
 
-g) a 2. § (4) bekezdés b) pont szerinti kiegészítő támogatás igénylése esetén a legelőt azonosító adatok,
+g) a 2. § (4) bekezdés b) pontja szerinti kiegészítő támogatás igénylése esetén a legelőt azonosító adatok,
 
 h) a támogatás kifizetéséhez szükséges nyilatkozatok, valamint
 
@@ -27,3 +27,5 @@ i) az ügyfél aláírása.
 a) az állattartó nyilatkozatát arról, hogy a 12. § (5) bekezdésben meghatározott többletszénát biztosította a tenyészetében tartott állatok számára,
 
 b) az ellátó állatorvos igazolását arra vonatkozólag, hogy a 10. § (1) bekezdésben meghatározott paraziták elleni védekezés a tartási helyen tartott szarvasmarhák vonatkozásában megtörtént.
+
+[^17]: A 22. § (2) bekezdése a 79/2012. (VII. 27.) VM rendelet 10. §-ával megállapított szöveg.

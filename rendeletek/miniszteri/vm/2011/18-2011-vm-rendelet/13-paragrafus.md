@@ -6,14 +6,14 @@
 
 (3) A kötelezettség átadása és átvállalása a támogatási időszak hátralévő időtartamára vonatkozik. Kötelezettségátadás csak teljes gazdálkodási évre vonatkozhat.
 
-(4) A kötelezettségátadásra vonatkozó kérelmet az adott gazdálkodási évet megelőző év április
-
-30-ig kell benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatalnak (a továbbiakban: MVH) a támogatásra jogosult lakóhelye vagy székhelye szerint illetékes megyei kirendeltségére. A formanyomtatvány tartalmi elemei az alábbiak:
+(4)[^14] A kötelezettségátadásra vonatkozó kérelmet a következő gazdálkodási évre vonatkozóan az adott gazdálkodási év április 30-áig kell benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatalhoz (a továbbiakban: MVH). A nyomtatvány tartalmi elemei az alábbiak:
 
 a) a kötelezettséget átadó azonosító adatai,
 
 b) a kötelezettséget átvevő, valamint a kapcsolattartó adatai,
 
-c) a kötelezettségátadásra vonatkozó nyilatkozatok,
+c) a kötelezettségátadásra vonatkozó nyilatkozatok, valamint
 
 d) az ügyfelek aláírása.
+
+[^14]: A 13. § (4) bekezdése a 79/2012. (VII. 27.) VM rendelet 8. §-ával megállapított szöveg.

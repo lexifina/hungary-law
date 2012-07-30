@@ -1,6 +1,12 @@
 ## 19. Jogkövetkezmények
 
-26. § (1) Ha a támogatásra jogosult megszegi a 3. § (1) bekezdés a) pontjában meghatározottakat azáltal, hogy a támogatásba bevont szarvasmarha állományt nem tejtermelés céljából tartja, akkor a támogatásból kizárásra kerül, és a támogatási kérelemre vonatkozóan már igénybe vett teljes támogatás jogosulatlannak minősül.
+26. § (1)[^22] Ha a támogatásra jogosult megszegi a 3. § (1) bekezdés a) pontjában meghatározottakat azáltal, hogy a támogatásba bevont szarvasmarha állományt
+
+a) nem tejtermelés céljából tartja, vagy
+
+b) nem a TIR-ben bejelentett, és a kérelemben megjelölt tartási helyen tartja,
+
+## akkor a támogatásból kizárásra kerül, és a támogatási kérelemre vonatkozóan már igénybe vett teljes támogatás jogosulatlanul igénybevett támogatásnak minősül.
 
 (2) Ha a támogatásra jogosult megszegi az 4. § (3) bekezdésében meghatározottakat, akkor a támogatásból kizárásra kerül, és a támogatási kérelemre vonatkozóan már igénybe vett teljes támogatás jogosulatlannak minősül.
 
@@ -13,3 +19,5 @@
 (6) Ha egy adott kötelezettség keretében vállalt előírásoknak való meg nem felelés miatt az adott kötelezettség vonatkozásában – a 6. melléklet alapján – ugyanazon gazdálkodási évben több kötelezettségszegés is megállapításra kerül, akkor a súlyosabb hibára vonatkozó jogkövetkezményt kell alkalmazni.
 
 (7) Ha egy gazdálkodási éven belül több kötelezettség esetében is meg nem felelések kerülnek megállapításra, akkor a 6. melléklet alapján meghatározott jogkövetkezmények mindegyike alkalmazásra kerül.
+
+[^22]: A 26. § (1) bekezdése a 79/2012. (VII. 27.) VM rendelet 14. §-ával megállapított szöveg.

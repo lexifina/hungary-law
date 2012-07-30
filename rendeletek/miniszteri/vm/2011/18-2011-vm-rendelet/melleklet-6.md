@@ -10,7 +10,7 @@
 
 | 2 | Állatsűrűség csökkentése – borjak esetében – üszők esetében – tehenek esetében | 42 27 27 |
 
-| 3 | A kötelező felügyelet sűrítése a. 50 ÁE-ig b. 50 ÁE felett | 9 2 |
+| 3 | A kötelező felügyelet sűrítése a. 50 ÁE-et elérő, vagy az az alatti támogatható állatállomány esetén b. 50 ÁE feletti támogatható állatállomány esetén | 9 2 |
 
 | 4 | Az állatjólétet veszélyeztető tényezők feltérképezése, valamint a kockázat csökkentéséhez, elkerüléséhez szükséges intézkedések meghatározása | 2 |
 
