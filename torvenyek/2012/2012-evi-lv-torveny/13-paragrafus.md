@@ -1,3 +1,1 @@
-13. § Az Fgytv. 23/A. §-a helyébe a következő rendelkezés lép:
-
-„23/A. § A tagokról a testület elnöke listát vezet. A lista tartalmazza a tagok nevét, felsőfokú végzettségük oklevél szerinti megnevezését, szakterületük és a tagot jelölő szervezet megjelölését. Ezek az adatok közérdekből nyilvános adatok. Az elnök a testületi tagok listáját megküldi a békéltető testület működési feltételeit biztosító kamarának, valamint a fogyasztóvédelemért felelős miniszternek.”
+13–37. §
