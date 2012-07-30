@@ -7,11 +7,3 @@
 (3) A 9. § 2012. augusztus 1-jén lép hatályba.
 
 (4) Ez a törvény 2012. szeptember 2-án hatályát veszti.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
