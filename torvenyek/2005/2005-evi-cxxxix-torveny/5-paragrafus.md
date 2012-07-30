@@ -8,6 +8,6 @@
 
 (5) A felsőoktatási intézményekben folytatott kutatásokhoz – pályázati rendszerben – hozzájárul az Országos Tudományos Kutatási Alapprogram és a Kutatási és Technológiai Innovációs Alap is.
 
-(6) A kiemelkedő színvonalú képzést nyújtó, a tudományos életben elismert, az Európai Kutatási Térségkutatási tevékenységéhez kapcsolódó egyetem – Kormány által meghatározott feltételekkel – „kutatóegyetem” minősítést kaphat. A „kutatóegyetem” jelentős hazai és nemzetközi kutatás-fejlesztési és innovációs tevékenységet végez, amelynek eredményét az oktatásba közvetíti, a tehetséggondozást a képzés minden szintjén kiemelt feladatként végzi, kiemelkedő teljesítményt nyújt a doktori képzés területén, valamint mind a kutatás, mind a képzés területén széles körű nemzetközi együttműködéssel rendelkezik, továbbá országos, illetve regionális vezető szerepet lát el.
+(6)
 
 (7) A felsőoktatási intézmény a kutatási-fejlesztési feladatainak ellátása során együttműködhet a Magyar Tudományos Akadémiával és annak intézményeivel. Ennek keretei között különösen támogatott kutatócsoportot hozhatnak létre és tarthatnak fenn. A kutatócsoport és az akadémiai intézet felsőoktatási intézménybe kihelyezett szervezeti egysége tanszékként működhet, továbbá részt vehet a doktori képzésben.

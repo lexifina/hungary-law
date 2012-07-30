@@ -42,7 +42,7 @@
 
 20. a felsőoktatási intézmény finanszírozásával, gazdálkodásával kapcsolatos kérdéseket [127. § (2) bekezdés, 128. § (6) bekezdés, 129. § (2) bekezdés, 130. § (7) bekezdés, 131. § (4) bekezdés, 132. § (3) bekezdés, 133. § (2) bekezdés, 141. § (9) bekezdés, 143. § (4) bekezdés], a magán intézmények gazdálkodásával kapcsolatos kérdéseket [138. § (1) bekezdés],
 
-21. felsőoktatási ösztöndíjak alapítását [134. § (1)–(2) bekezdés, 152. § (6) bekezdés],
+21.
 
 22.
 

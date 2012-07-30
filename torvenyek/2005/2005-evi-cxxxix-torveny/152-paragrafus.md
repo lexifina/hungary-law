@@ -8,4 +8,4 @@
 
 (5) Az 1993. évi felsőoktatásról szóló törvény 10/A. §-a és 10/B. §-a rendelkezései alapján utoljára 2006-ban lehet ösztöndíjat odaítélni, a már megállapított ösztöndíjakat e törvény hatálybalépése nem érinti, azokat az ösztöndíjas jogviszony kezdetekor hatályos rendelkezések szerint kell az ösztöndíj tartamának megfelelően folyósítani.
 
-(6) A felsőoktatási ösztöndíjak odaítélésének rendjét, mértékét, az ösztöndíjra jogosultak körét, valamint e törvény bevezetésével összefüggésben további átmeneti szabályokat a Kormány határozza meg.
+(6)
