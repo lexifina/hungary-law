@@ -1,4 +1,4 @@
-## 32. §[^39] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a védett őshonos és veszélyeztetett mezőgazdasági állatfajták genetikai állományának tenyésztésben történő megőrzésére nyújtandó támogatások részletes feltételeiről szóló 38/2010. (IV. 15.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a Helyi Vidékfejlesztési Stratégiák LEADER fejezetének végrehajtásához 2011-től nyújtandó támogatások részletes feltételeiről szóló 76/2011. (VII. 29.) VM rendelet módosításáról szóló 112/2011. (XI. 24.) VM rendelettel [a továbbiakban: 112/2011. (XI. 24.) VM rendelet] megállapított 2. § (1) bekezdés 14. pontját, 2. § (1) bekezdés 23. pontját, a 7. § b) pontját, a 11. § (2) bekezdés b) pontját, a 11. § (6) bekezdését, a 13. § (2) bekezdését, a 13. § (4) bekezdését, 13. § (9) bekezdését, a 14. § (4) bekezdését, a 14. § (7)–(10) bekezdéseit, a 16. § (1) bekezdés b) pontját, a 21. § (1) bekezdését, a 24. § (2) bekezdés a) pontját a 25. § (3) bekezdését, a 28. § (1) bekezdését, a 112/2011. (XI. 24.) VM rendelet hatálybalépésekor[^40] folyamatban lévő ügyekben is alkalmazni kell.
+## 32. §[^42] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a védett őshonos és veszélyeztetett mezőgazdasági állatfajták genetikai állományának tenyésztésben történő megőrzésére nyújtandó támogatások részletes feltételeiről szóló 38/2010. (IV. 15.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a Helyi Vidékfejlesztési Stratégiák LEADER fejezetének végrehajtásához 2011-től nyújtandó támogatások részletes feltételeiről szóló 76/2011. (VII. 29.) VM rendelet módosításáról szóló 112/2011. (XI. 24.) VM rendelettel [a továbbiakban: 112/2011. (XI. 24.) VM rendelet] megállapított 2. § (1) bekezdés 14. pontját, 2. § (1) bekezdés 23. pontját, a 7. § b) pontját, a 11. § (2) bekezdés b) pontját, a 11. § (6) bekezdését, a 13. § (2) bekezdését, a 13. § (4) bekezdését, 13. § (9) bekezdését, a 14. § (4) bekezdését, a 14. § (7)–(10) bekezdéseit, a 16. § (1) bekezdés b) pontját, a 21. § (1) bekezdését, a 24. § (2) bekezdés a) pontját a 25. § (3) bekezdését, a 28. § (1) bekezdését, a 112/2011. (XI. 24.) VM rendelet hatálybalépésekor[^43] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 38/2010. (IV. 15.) FVM rendelethez
 
@@ -84,5 +84,5 @@
 
 | 2 | Szarvasmarha | magyartarka szarvasmarha |
 
-[^39]: A 32. §-t a 112/2011. (XI. 24.) VM rendelet 13. §-a iktatta be.
-[^40]: A hatálybalépés időpontja 2011. november 25.
+[^42]: A 32. §-t a 112/2011. (XI. 24.) VM rendelet 13. §-a iktatta be.
+[^43]: A hatálybalépés időpontja 2011. november 25.

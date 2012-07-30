@@ -16,10 +16,10 @@ f) az ügyfelek aláírásai.
 
 (3) Egy kérelmező a támogatási időszak alatt egy célprogramra vonatkozóan csak mint átvevő vagy mint átadó szerepelhet.
 
-(4)[^20]
+(4)[^21]
 
 (5) Vis maior esetén a támogatásra jogosult a (4) bekezdésben foglaltaktól eltérően a folyamatban lévő kötelezettségének az átadásról vagy átvételről történő döntés előtt is nyújthat be kötelezettségátadásra vonatkozó kérelmeket.
 
 (6) Az átadónak a kötelezettségátvállaláshoz szükséges tenyésztési dokumentumok másolati példányát az átvevő részére biztosítania kell.
 
-[^20]: A 15. § (4) bekezdését a 21/2010. (X. 12.) VM rendelet 4. §-a hatályon kívül helyezte.
+[^21]: A 15. § (4) bekezdését a 21/2010. (X. 12.) VM rendelet 4. §-a hatályon kívül helyezte.

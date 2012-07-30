@@ -22,7 +22,7 @@
 
 | 10 | Tojás |
 
-9. melléklet a 38/2010. (IV. 15.) FVM rendelethez[^41]
+9. melléklet a 38/2010. (IV. 15.) FVM rendelethez[^44]
 
 ## A tenyésztési programra vonatkozó meg nem felelés kiértékelésének alapelvei
 
@@ -68,4 +68,4 @@
 
 |  | 10. | 5 | 5 | 100% |
 
-[^41]: A 9. melléklet a 74/2011. (VII. 29.) VM rendelet 9. §-a szerint módosított szöveg.
+[^44]: A 9. melléklet a 74/2011. (VII. 29.) VM rendelet 9. §-a szerint módosított szöveg.
