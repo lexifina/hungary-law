@@ -1,1 +1,0 @@
-## „g) nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetése iránti kérelem esetén átlag 1000 játékos egyidejű kiszolgálására alkalmas rendszerenként 5 000 000 forint (kulcsszó: PRENDSZER).”
