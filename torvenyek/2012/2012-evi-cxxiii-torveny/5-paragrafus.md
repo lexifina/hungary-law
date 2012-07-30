@@ -1,0 +1,3 @@
+5. § Az Nftv. 39. § (3) bekezdése a következő szöveggel lép hatályba:
+
+„(3) A hallgatói jogviszony a felvételről vagy az átvételről szóló döntés alapján, a beiratkozással jön létre. A beiratkozást megelőzően a 15. § (2)–(6) bekezdésben meghatározott képzésben részt vevő hallgatóval hallgatói ösztöndíjszerződést, illetve az önköltség fizetése mellett folytatott képzés tekintetében hallgatói képzési szerződést kell kötni. A hallgatói szerződések nyilvántartásáért felelős szerv által nyilvántartott személyes adatokat, az adatkezelés célját, időtartamát, továbbításának feltételeit az 5. melléklet tartalmazza.”
