@@ -5,3 +5,5 @@
 (3) A MAB tagjai közül tisztségviselőket választ, valamint meghatározza működésének rendjét.
 
 (4) A delegált tagokat – a miniszter előterjesztésére – a miniszterelnök bízza meg. A megbízás egy alkalommal meghosszabbítható. A tagok megbízatása – a Doktoranduszok Országos Szövetsége által delegált tag kivételével – hat évre szól. A Doktoranduszok Országos Szövetsége által delegált tagot a miniszterelnök kettő évre bízza meg.
+
+(5) Az azonos tárgy, vagy személy tekintetében, egy eljárás keretében a 67. és 69. §-ban meghatározottak szerint szükséges újabb szakvélemény elkészítésével kapcsolatos feladatok pártatlan, tárgyilagos szempontokon alapuló ellátása céljából a MAB szervezetének részeként három tagból álló Felülvizsgálati Bizottságot kell működtetni. A Felülvizsgálati Bizottság tagjait a miniszter delegálja, megbízásukra, összeférhetetlenségükre a MAB tagjaira vonatkozó szabályokat kell alkalmazni, azzal, hogy nem lehet a Felülvizsgálati Bizottság tagja az a személy, aki megbízását megelőző három éven belül a MAB tagja volt.

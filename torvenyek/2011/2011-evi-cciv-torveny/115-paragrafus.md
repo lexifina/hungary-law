@@ -6,4 +6,4 @@
 
 (6)–(7)
 
-(8) A 14. § (3) bekezdés második mondata alapján a törzskönyvi nyilvántartásban nyilvántartandó, de 2012. szeptember 1-jén még nyilvántartásba nem vett törzskönyvi jogi személy 2012. november 30-ig köteles kezdeményezni a nyilvántartásba vételt.
+(8)
