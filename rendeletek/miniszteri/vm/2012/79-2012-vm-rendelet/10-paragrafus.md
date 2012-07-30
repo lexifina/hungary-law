@@ -1,0 +1,3 @@
+## 9. § Az R. 14. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A kötelezettség átadásának jóváhagyásáról szóló határozat jogerőre emelkedését követően a kifizetési kérelmet – a 22. § (2) bekezdésében meghatározott határidőben – a kötelezettségátadással érintett tenyészetre vonatkozóan a kötelezettség átvevője nyújthatja be. Ha a kötelezettség átadásának jóváhagyásáról szóló határozat a kifizetési kérelem beadási időszak végéig nem emelkedik jogerőre, akkor a kifizetési kérelmet – a 22. § (2) bekezdésében meghatározott határidőben – a kötelezettség átadójának kell benyújtania.”
