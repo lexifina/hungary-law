@@ -1,3 +1,0 @@
-## 20. § A Rendelet 59. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Ha a kifizetési igénylés hiányos vagy hibás, a beérkezéstől számított 30 – szállítói finanszírozás esetén 15 – napon belül legfeljebb 15 napos határidő kitűzésével, az adott igénylésben szereplő valamennyi hiány, illetve hiba megjelölésével, hiánypótlásra és a hiba javítására kell felhívni a kedvezményezettet. Ha a hiány pótlására és a hiba javítására a kitűzött hiánypótlási határidőn belül nem kerül sor, ez a kifizetési igénylés érintett részének elutasítását eredményezi, ez esetben további hiánypótlásnak nincs helye.”
