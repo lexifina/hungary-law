@@ -14,59 +14,62 @@ a) vállalja az 1. § (3) bekezdés a)–e) pontjaiban felsorolt tevékenység l
 
 b) a tevékenységének megfelelő, az érintett termékpályán működő, olyan államilag elismert termelői csoport, Beszerzési és Értékesítő Szövetkezet, tenyésztő szervezet, az adott termékpályán működő terméktanács vagy szakmai szervezet tagja, amely nyitott tagsággal működik;
 
-c) részt vesz a Mezőgazdasági Szakigazgatási Hivatal által működtetett Tenyészet Információs Rendszerben és Baromfi Információs Rendszerben;
+c)[^15]
 
-d)[^15] valamennyi állategészségügyi nyilvántartási kötelezettségének eleget tesz, valamint betartja az állategészségügyi és állatvédelmi szabályokat, és erről rendelkezik a területileg illetékes kormányhivatal élelmiszerlánc biztonsági és állategészségügyi igazgatóságának igazolásával;
+d)[^16] valamennyi állategészségügyi nyilvántartási kötelezettségének eleget tesz, valamint betartja az állategészségügyi és állatvédelmi szabályokat, és erről rendelkezik a területileg illetékes kormányhivatal élelmiszerlánc biztonsági és állategészségügyi igazgatóságának igazolásával;
 
 e) megfelel a rendezett munkaügyi kapcsolatoknak az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában meghatározott feltételeinek;
 
-f)[^16] adó-, vám-, egészség-, nyugdíj-, társadalombiztosítási járuléktartozással nem rendelkezik, és nincs lejárt tartozása a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) felé;
+f)[^17] adó-, vám-, egészség-, nyugdíj-, társadalombiztosítási járuléktartozással nem rendelkezik, és nincs lejárt tartozása a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) felé;
 
 g) a nehéz helyzetben lévő vállalkozások megmentéséhez és szerkezetátalakításához nyújtott állami támogatásról szóló bizottsági közlemény (HL 2004/C 244/02.) 2.1. alpontja szerint nem minősül nehéz helyzetben lévő vállalkozásnak;
 
-h)[^17]
+h)[^18]
 
 (3) E rendelet szerinti támogatásra az az igénylő jogosult, akinek/amelynek jogerős határozatban megállapított, jogosulatlanul igénybevett agrár- vagy agrár-vidékfejlesztési támogatásból eredő tartozása nincs.
 
-(4)[^18] Támogatás adott tárgynegyedévre vonatkozóan a 2. számú melléklet szerinti adattartalmú, az MVH által rendszeresített, az MVH honlapján közleményben közzétett formanyomtatványon igényelhető. A támogatási kérelem a tárgynegyedévet követő hónap utolsó napjáig nyújtható be. A támogatási kérelmet 2011. I. és II. tárgynegyedévére vonatkozóan 2011. augusztus 31-ig kell benyújtani.
+(4)[^19] Támogatás adott tárgynegyedévre vonatkozóan a 2. számú melléklet szerinti adattartalmú, az MVH által rendszeresített, az MVH honlapján közleményben közzétett nyomtatványon igényelhető. A támogatási kérelem a tárgynegyedévet követő hónap utolsó napjáig nyújtható be. Az MVH honlapján közleményben közzétett, az 5. számú melléklet szerinti adattartalmú nyomtatvány szerint kiállított szakmai ellenőrzési lapok a Baromfi Termék Tanács címére folyamatosan, de legkésőbb a tárgynegyedévet követő hónap 15. napjáig nyújthatóak be. A szakmai ellenőrzési lapból negyedévenként és baromfi megnevezésenként több is benyújtható, de egy ellenőrzési lapon csak egy baromfi megnevezés jeleníthető meg.
 
-(5)[^19] A támogatási kérelemhez csatolni kell:
+(5)[^20] A támogatási kérelemhez csatolni kell:
 
 a) az egyes jogcímeknél meghatározott dokumentumokat,
 
-b) az 1. § (5) bekezdésében foglalt bizonylatokat,
+b)[^21] az 1. § (5) bekezdésben foglalt igazolást,
 
-c) a 2. § (2) bekezdésének a) pontjában foglaltak vállalásáról szóló nyilatkozatot,
+c)[^22]
 
 d) a 2. § (2) bekezdésének b) pontja szerinti termelői csoport, Beszerzési és Értékesítő Szövetkezet, tenyésztő szervezet, terméktanács vagy szakmai szervezet igazolását arról, hogy az igénylő a tárgyévre vonatkozóan érvényes tagsággal rendelkezik,
 
-e)[^20] a területileg illetékes kormányhivatal élelmiszerlánc biztonsági és állategészségügyi igazgatóságának az állategészségügyi nyilvántartási kötelezettségek, valamint az állategészségügyi és állatvédelmi szabályok betartásáról szóló, a támogatási évre vonatkozóan kiadott igazolását, továbbá
+e)[^23] az első igénylés alkalmával a területileg illetékes kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságának az állategészségügyi nyilvántartási kötelezettségek, valamint az állategészségügyi és állatvédelmi szabályok betartásáról szóló, a támogatási évre vonatkozóan kiadott igazolását, továbbá
 
-f)[^21] a Baromfi Termék Tanács javaslatával és ellenjegyzésével ellátott, az MVH honlapján közleményben közzétett, az 5. számú melléklet szerinti adattartalmú formanyomtatvány szerint kiállított szakmai ellenőrzési lapot.
+f)[^24] a Baromfi Termék Tanács javaslatával és ellenjegyzésével ellátott szakmai ellenőrzési lapot.
 
-(6)[^22] Az MVH a (4) bekezdés szerint benyújtott és az ellenőrzést követően jóváhagyott támogatási kérelmeket negyedévente összesíti, az adott tárgynegyedévre vonatkozóan megállapítja a kérelmenként járó jogos támogatás összegét.
+(6)[^25] Az MVH a (4) bekezdés szerint benyújtott és az ellenőrzést követően jóváhagyott támogatási kérelmeket negyedévente összesíti, az adott tárgynegyedévre vonatkozóan megállapítja a kérelmenként járó jogos támogatás összegét.
 
-(7)[^23] Amennyiben az adott baromfifajra benyújtott, az adott tárgynegyedévre vonatkozó jogos igény meghaladja a 4. számú mellékletben a tárgynegyedévre rögzített, baromfifajonként elkülönített támogatási keretet, az MVH az érintett tárgynegyedévre vonatkozóan – a 4. számú mellékletben rögzített baromfifajonként elkülönített támogatási keretek alapján – megállapítja a visszaosztás mértékét és ennek figyelembevételével a kérelmenként maximálisan adható támogatás összegét.
+(7)[^26] Amennyiben az adott baromfifajra benyújtott, az adott tárgynegyedévre vonatkozó jogos igény meghaladja a 4. számú mellékletben a tárgynegyedévre rögzített, baromfifajonként elkülönített támogatási keretet, az MVH az érintett tárgynegyedévre vonatkozóan – a 4. számú mellékletben rögzített baromfifajonként elkülönített támogatási keretek alapján – megállapítja a visszaosztás mértékét és ennek figyelembevételével a kérelmenként maximálisan adható támogatás összegét.
 
-(8)[^24] Az MVH érdemi döntését az adott tárgynegyedévre vonatkozóan benyújtott összes kérelem ellenőrzését követően hozza meg.
+(8)[^27] Az MVH érdemi döntését az adott tárgynegyedévre vonatkozóan benyújtott összes kérelem ellenőrzését követően hozza meg.
 
-(9)[^25] Az MVH a támogatási évet követő évben, a szükséges forrás rendelkezésre állását követően intézkedik a támogatás kifizetéséről. A támogatás átutalása a kérelmezőnek az MVH Egységes Ügyfél-nyilvántartási Rendszerében szereplő fizetési számlájára történik.
+(9)[^28] Az MVH a támogatási évet követő évben, a szükséges forrás rendelkezésre állását követően intézkedik a támogatás kifizetéséről. A támogatás átutalása a kérelmezőnek az MVH Egységes Ügyfél-nyilvántartási Rendszerében szereplő fizetési számlájára történik.
 
-(10)[^26]
+(10)[^29]
 
-(11)[^27] Az ügyfél kérelmére történő eljárás felfüggesztésének helye nincs.
+(11)[^30] Az ügyfél kérelmére történő eljárás felfüggesztésének helye nincs.
 
 [^14]: A 2. § (1) bekezdése a 81/2008. (VI. 24.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. január 1-je utáni időszakra vonatkozóan benyújtott támogatási kérelmekre kell alkalmazni.
-[^15]: A 2. § (2) bekezdés d) pontja a 68/2011. (VII. 14.) VM rendelet 7. §-ával megállapított szöveg.
-[^16]: A 2. § (2) bekezdés f) pontja a 19/2010. (III. 11.) FVM rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
-[^17]: A 2. § (2) bekezdés h) pontját a 19/2010. (III. 11.) FVM rendelet 8. §-a hatályon kívül helyezte. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
-[^18]: A 2. § (4) bekezdése a 68/2011. (VII. 14.) VM rendelet 8. §-ával megállapított szöveg.
-[^19]: A 2. § (5) bekezdése az 57/2009. (IV. 29.) FVM rendelet 2. §-ával megállapított szöveg.
-[^20]: A 2. § (5) bekezdés e) pontja a 68/2011. (VII. 14.) VM rendelet 9. §-ával megállapított szöveg.
-[^21]: A 2. § (5) bekezdés f) pontja a 19/2010. (III. 11.) FVM rendelet 4. § (5) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
-[^22]: A 2. § (6) bekezdését a 19/2010. (III. 11.) FVM rendelet 8. §-a hatályon kívül helyezte, újonnan a 68/2011. (VII. 14.) VM rendelet 10. §-a iktatta be.
-[^23]: A 2. § (7) bekezdését a 111/2008. (VIII. 30.) FVM rendelet 1. §-a iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 10. §-ával megállapított szöveg.
-[^24]: A 2. § (8) bekezdését az 57/2009. (IV. 29.) FVM rendelet 2. §-a iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 10. §-ával megállapított szöveg.
-[^25]: A 2. § (9) bekezdését az 57/2009. (IV. 29.) FVM rendelet 2. §-a iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 10. §-ával megállapított szöveg.
-[^26]: A 2. § (10) bekezdését az 57/2009. (IV. 29.) FVM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 68/2011. (VII. 14.) VM rendelet 18. §-a.
-[^27]: A 2. § (11) bekezdését a 19/2010. (III. 11.) FVM rendelet 4. § (8) bekezdése iktatta be. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
+[^15]: A 2. § (2) bekezdés c) pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
+[^16]: A 2. § (2) bekezdés d) pontja a 68/2011. (VII. 14.) VM rendelet 7. §-ával megállapított szöveg.
+[^17]: A 2. § (2) bekezdés f) pontja a 19/2010. (III. 11.) FVM rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
+[^18]: A 2. § (2) bekezdés h) pontját a 19/2010. (III. 11.) FVM rendelet 8. §-a hatályon kívül helyezte. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
+[^19]: A 2. § (4) bekezdése a 80/2012. (VII. 30.) VM rendelet 3. §-ával megállapított szöveg.
+[^20]: A 2. § (5) bekezdése az 57/2009. (IV. 29.) FVM rendelet 2. §-ával megállapított szöveg.
+[^21]: A 2. § (5) bekezdés b) pontja a 80/2012. (VII. 30.) VM rendelet 4. § (1) bekezdésvel megállapított szöveg.
+[^22]: A 2. § (5) bekezdés c) pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
+[^23]: A 2. § (5) bekezdés e) pontja a 80/2012. (VII. 30.) VM rendelet 4. § (2) bekezdésvel megállapított szöveg.
+[^24]: A 2. § (5) bekezdés f) pontja a 80/2012. (VII. 30.) VM rendelet 4. § (2) bekezdésvel megállapított szöveg.
+[^25]: A 2. § (6) bekezdését a 19/2010. (III. 11.) FVM rendelet 8. §-a hatályon kívül helyezte, újonnan a 68/2011. (VII. 14.) VM rendelet 10. §-a iktatta be.
+[^26]: A 2. § (7) bekezdését a 111/2008. (VIII. 30.) FVM rendelet 1. §-a iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 10. §-ával megállapított szöveg.
+[^27]: A 2. § (8) bekezdését az 57/2009. (IV. 29.) FVM rendelet 2. §-a iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 10. §-ával megállapított szöveg.
+[^28]: A 2. § (9) bekezdését az 57/2009. (IV. 29.) FVM rendelet 2. §-a iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 10. §-ával megállapított szöveg.
+[^29]: A 2. § (10) bekezdését az 57/2009. (IV. 29.) FVM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 68/2011. (VII. 14.) VM rendelet 18. §-a.
+[^30]: A 2. § (11) bekezdését a 19/2010. (III. 11.) FVM rendelet 4. § (8) bekezdése iktatta be. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.

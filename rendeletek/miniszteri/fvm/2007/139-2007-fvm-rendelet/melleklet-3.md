@@ -18,7 +18,7 @@
 
 ## 3.3. az érintett termékpályán működő, olyan államilag elismert termelői csoport, BÉSZ, tenyésztő szervezet, terméktanács vagy szakmai szervezet tagja, amely nyitott tagsággal működik;
 
-## 3.4. a Mezőgazdasági Szakigazgatási Hivatal által működtetett Tenyészet Információs Rendszerben és Baromfi Információs Rendszerben részt vesz;
+## 3.4.[^54]
 
 ## 3.5. megfelel az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában meghatározott rendezett munkaügyi kapcsolatok feltételeinek;
 
@@ -54,14 +54,18 @@
 
 ## 7.7. Ivóvíz minőségű víz biztosítása esetén a 7. § (4) bekezdésében előírt dokumentumok.
 
-## 7.8. Napos vagy előnevelt baromfi számla másolata az 1. § (5) bekezdés szerint.
+## 7.8.[^55] A naposkori letelepítés darabszámát és az átminősítéskori állatlétszámot, valamint annak időpontját tartalmazó kezelő állatorvosi igazolás az 1. § (5) bekezdés szerint.
 
-## 7.9. Tyúknál, pulykánál átminősítésről készült bizonylat az 1. § (5) bekezdés szerint.
+## 7.9.[^56]
 
 ## 7.10. Szakmai Ellenőrzési Lap a 2. § (5) bekezdés szerint.
 
-## 7.11. Szigorú számadású bizonylat az 1. § (5) bekezdése szerint.
+## 7.11.[^57]
 
-3. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^49]
+3. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^58]
 
-[^49]: A 3. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege az 57/2009. (IV. 29.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^54]: A 2. számú melléklet 3.4. pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
+[^55]: A 2. számú melléklet 7.8. pontja a 80/2012. (VII. 30.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^56]: A 2. számú melléklet 7.9. pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
+[^57]: A 2. számú melléklet 7.11. pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
+[^58]: A 3. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.

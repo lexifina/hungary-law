@@ -30,54 +30,22 @@
 
 | 6. | Összesen: |  | 4000,00 |
 
-5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^51]
+5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^60]
 
-A szakmai ellenőrzési lap adattartalma és a csatolandó mellékletek a 139/2007. (XI. 28.) FVM rendelet alapján
+A baromfi ágazatban igénybe vehető állatjóléti támogatások – Szakmai ellenőrzési Lap adattartalma
 
-| 1. | Kérelmező azonosító adatai. |
+1. Ügyfél azonosítási információ
 
-| 1.1. | regisztrációs szám. |
+2. A támogatott állomány azonosítási információ
 
-| 2. | Tenyészetkód. |
+3. Napos vagy előnevelt baromfi beszerzésére, vágására, vágóhídra történő szállítására (átminősítésére) vonatkozó információk
 
-| 3. | Tartási hely azonosító. |
+4. A támogatási igényre vonatkozó adatok
 
-| 4. | A támogatott baromfi megnevezése. |
+5. A kérelmező aláírása
 
-| 5. | Támogatási jogcímek, állategység. |
+6. A Baromfi Termék Tanács igazolása
 
-| 6. | A kérelemben igényelt támogatás összege (Ft). |
+7. Csatolandó mellékletek
 
-| 7. | Napos vagy előnevelt baromfi beszerzés |
-
-| 7.1. | napos vagy előnevelt baromfi megnevezése, |
-
-| 7.2. | keltető/szállító neve, címe, |
-
-| 7.3. | tenyészetkód, |
-
-| 7.4 | átvétel ideje, átvett darabszáma. |
-
-| 8. | Vágás vagy tömésre való kihelyezés, eladás |
-
-| 8.1. | baromfiféle megnevezése, |
-
-| 8.2. | átvevő neve, címe, |
-
-| 8.3. | tenyészetkód, |
-
-| 8.4. | átadás ideje, átvett darabszám. |
-
-| 9. | Keltezés, kérelmező aláírása. |
-
-| 10. | A Baromfi Termék Tanács javaslata a kérelem szakmailag történő áttekintéséről, elfogadásáról, részbeni elfogadásáról, elutasításáról, az elutasítás indokolásával. |
-
-| 11. | Keltezés, Baromfi Termék Tanács cégszerű aláírása. |
-
-| 12. | Mellékletek: |
-
-| 12.1. | a napos- és előnevelt baromfi vételéről szóló számlamásolatok, |
-
-| 12.2. | a korosbításról szóló, vagy saját üzembe történő napos állat telepítése esetén az arról kiállított bizonylatok. |
-
-[^51]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^60]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.

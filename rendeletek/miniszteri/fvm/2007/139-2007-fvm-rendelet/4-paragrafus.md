@@ -2,7 +2,7 @@
 
 4. § (1) E jogcím alapján az az igénylő jogosult támogatásra, aki/amely biztosítja a baromfiállományban a mellsérülés megelőzéséhez szükséges feltételeket.
 
-(2)[^32] A támogatás mértéke:
+(2)[^36] A támogatás mértéke:
 
 a) növendék csirke (vágócsirke) esetén 4 736,00 Ft állategységenként,
 
@@ -28,7 +28,7 @@ k) növendék pulyka esetén 9 822,00 Ft állategységenként.
 
 (3) Az igénylő által a vágóhídra leadott állatoknál a mellsérülést szenvedő állatok aránya állományonként nem haladhatja meg az 5%-ot.
 
-(4)[^33] A 2. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell a vágóhídnak és a felügyelő jogosult állatorvosnak a mellsérülések (3) bekezdésben meghatározott arányára vonatkozó igazolását, amely tartalmazza a levágott baromfi darabszámát és vágásának időpontját.
+(4)[^37] A 2. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell a vágóhídnak és a felügyelő jogosult állatorvosnak a mellsérülések (3) bekezdésben meghatározott arányára vonatkozó igazolását, amely tartalmazza a levágott baromfi darabszámát és vágásának időpontját.
 
-[^32]: A 4. § (2) bekezdése a 68/2011. (VII. 14.) VM rendelet 12. §-ával megállapított szöveg.
-[^33]: A 4. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
+[^36]: A 4. § (2) bekezdése a 68/2011. (VII. 14.) VM rendelet 12. §-ával megállapított szöveg.
+[^37]: A 4. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.

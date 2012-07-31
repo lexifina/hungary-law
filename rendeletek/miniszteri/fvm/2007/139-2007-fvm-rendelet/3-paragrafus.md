@@ -1,8 +1,8 @@
 ## A takarmányok nem kívánatos anyagtartalma mentességének biztosítása
 
-3. § (1)[^28] E jogcím alapján az az igénylő jogosult támogatásra, aki (amely) rendszeresen, a baromfiállományok nevelési ideje alatt – a letelepítés vagy átminősítés és a vágás közötti időszakban – egy alkalommal ellenőrizteti az általa felhasznált baromfi nevelő-, pulyka utónevelésnél nevelő, valamint befejező táp nem kívánatos anyagtartalmát, ezen belül a mikotoxin tartalmat.
+3. § (1)[^31] E jogcím alapján az az igénylő jogosult támogatásra, aki (amely) rendszeresen, a baromfiállományok nevelési ideje alatt – a letelepítés vagy átminősítés és a vágás közötti időszakban – egy alkalommal ellenőrizteti az általa felhasznált baromfi nevelő-, pulyka utónevelésnél nevelő, valamint befejező táp nem kívánatos anyagtartalmát, ezen belül a mikotoxin tartalmat.
 
-(2)[^29] A támogatás mértéke:
+(2)[^32] A támogatás mértéke:
 
 a) növendék csirke (vágócsirke) esetén 2 078,00 Ft állategységenként,
 
@@ -24,13 +24,14 @@ i) hízott kacsa esetén 1 637,18 Ft állategységenként,
 
 j) növendék pulyka esetén 4 425,00 Ft állategységenként.
 
-(3) Az igénylő által használt takarmány deoxinivalenol tartalma legfeljebb 2,5 mg/kg lehet.
+(3)[^33] Az igénylő által használt takarmány deoxinivalenol tartalma legfeljebb 2,5 mg/kg lehet. A laboratóriumi vizsgálat dokumentuma a takarmánygyártótól is beszerezhető, ebben az esetben a takarmánygyártó nyilatkozik az igénylő által vásárolt takarmány mennyiségéről és a vásárlás időpontjáról. Amennyiben a jegyzőkönyv külön nem tünteti fel, a vizsgálat elvégzése időpontjának a jegyzőkönyv kiállításának dátuma tekintendő.
 
-(4)[^30] A 2. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell a vizsgálat elvégzésére akkreditált laboratórium vonatkozó, a (3) bekezdésben meghatározott értékre is kiterjedő igazolását. A laboratóriumi vizsgálat dokumentuma a takarmánygyártótól is beszerezhető, ebben az esetben a takarmánygyártó nyilatkozik az igénylő által vásárolt takarmány mennyiségéről és a vásárlás időpontjáról. Amennyiben a jegyzőkönyv külön nem tünteti fel, a vizsgálat elvégzése időpontjának a jegyzőkönyv kiállításának dátuma tekintendő.
+(4)[^34] A 2. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell a kezelő állatorvos igazolását arról, hogy a felhasznált – az (1) bekezdés szerint bevizsgáltatott – takarmány az akkreditált laboratóriumi eredmény alapján megfelel a 3. § (3) bekezdésben foglalt előírásnak.
 
-(5)[^31] Amennyiben az állomány egy része vagy egésze az (1) bekezdés szerinti takarmányvizsgálatot megelőzően – amely időpont a takarmányvizsgálati jegyzőkönyv adattartalmától függően a takarmány gyártási ideje, a mintavétel időpontja, a takarmányvizsgálat időpontja vagy a jegyzőkönyv kiállításának időpontja lehet – vágásra kerül, a támogatás alapját képező állategység kiszámításához a letelepített vagy átminősített állatlétszámból le kell vonni a levágott állatok számát.
+(5)[^35]
 
-[^28]: A 3. § (1) bekezdése a 68/2011. (VII. 14.) VM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^29]: A 3. § (2) bekezdése a 68/2011. (VII. 14.) VM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^30]: A 3. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
-[^31]: A 3. § (5) bekezdését a 68/2011. (VII. 14.) VM rendelet 11. § (2) bekezdése iktatta be.
+[^31]: A 3. § (1) bekezdése a 68/2011. (VII. 14.) VM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^32]: A 3. § (2) bekezdése a 68/2011. (VII. 14.) VM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^33]: A 3. § (3) bekezdése a 80/2012. (VII. 30.) VM rendelet 5. §-ával megállapított szöveg.
+[^34]: A 3. § (4) bekezdése a 80/2012. (VII. 30.) VM rendelet 5. §-ával megállapított szöveg.
+[^35]: A 3. § (5) bekezdését a 68/2011. (VII. 14.) VM rendelet 11. § (2) bekezdése iktatta be, hatályon kívül helyezte a 80/2012. (VII. 30.) VM rendelet 10. §-a.
