@@ -1,1 +1,0 @@
-13. § A rendészeti feladatokat ellátó szerv tagja törvényben meghatározott feladatainak ellátása során a testi épséghez, a személyes szabadsághoz, valamint a tulajdonhoz fűződő jogokat az e törvényben foglaltak szerint korlátozhatja.
