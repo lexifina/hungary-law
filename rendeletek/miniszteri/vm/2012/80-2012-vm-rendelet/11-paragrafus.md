@@ -1,0 +1,1 @@
+## 10. § Hatályát veszti az R. 1. § (11) bekezdése, 2. § (2) bekezdés c) pontja, 2. § (5) bekezdés c) pontja, 3. § (5) bekezdése, 6. § (5) bekezdése, valamint 2. számú melléklet 3.4., 7.9. és 7.11. pontjai.

@@ -1,0 +1,3 @@
+## 2. § Az R. 1. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+## „(7) A támogatást baromfifajonként elkülönítve a 4. számú mellékletben rögzített támogatási keretek alapján az adott negyedévben bekövetkezett gazdasági események után lehet igényelni. Egy kérelmező egy tárgynegyedévre baromfi megnevezésenként (baromfifaj és annak hasznosítási iránya) egy támogatási kérelmet nyújthat be. A növendék csirke (vágócsirke), a szabadtartásos csirke, a gyöngyös, a vágási célra előállított pecsenyeliba, a növendék liba, a fiatal liba, a pecsenyekacsa és a vágásra nevelt növendék kacsa esetében az összes támogatási jogcím után igényelhető támogatás.”
