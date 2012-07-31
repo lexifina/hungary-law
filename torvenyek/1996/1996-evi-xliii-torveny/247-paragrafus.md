@@ -8,7 +8,7 @@ b) főigazgató,
 
 c) megyei (budapesti) rendőrfőkapitány, és a vele azonos jogállású szervek vezetői,
 
-d)
+d) a Készenléti Rendőrség parancsnokának helyettesei,
 
 e)
 
