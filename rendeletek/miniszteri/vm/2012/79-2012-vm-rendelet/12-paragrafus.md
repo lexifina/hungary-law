@@ -1,1 +1,0 @@
-## „(8) A területileg illetékes Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága legkésőbb az adott gazdálkodási évet követő év július 1-jéig átadja az MVH részére azon támogatottak listáját, amelyeknél a tartási helyek nem felelnek meg maradéktalanul a hatályban lévő állatjóléti előírásoknak.”

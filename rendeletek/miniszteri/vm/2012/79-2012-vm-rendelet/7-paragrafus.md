@@ -1,1 +1,0 @@
-## „(4) A támogatásra jogosult köteles a tartási helyen a tejtermelő szarvasmarha gondozását végző minden személlyel a fejési szabályzat tartalmát évente legalább egyszer az alkalmazáshoz szükséges mértékben megismertetni. A fejési szabályzathoz kapcsolódó elméleti és gyakorlati oktatásról jelenléti ívet kell felvenni.”
