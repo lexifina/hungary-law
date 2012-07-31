@@ -34,6 +34,6 @@
 
 | 12. | Az államhatártól számított 100 méteren belül épülő létesítmény esetén. | Annak elbírálása kérdésében, hogy a létesítmény a kérelemben foglaltak szerinti vagy további feltételek melletti megvalósítása esetén az államhatár rendje biztosított-e, a határrendsértések és határesemények megelőzhetők-e. | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-4. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^196]
+4. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^207]
 
-[^196]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 13. §-a, a 259/2011. (XII. 7.) Korm. rendelet 18. § (4)–(5) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^207]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 13. §-a, a 259/2011. (XII. 7.) Korm. rendelet 18. § (4)–(5) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
