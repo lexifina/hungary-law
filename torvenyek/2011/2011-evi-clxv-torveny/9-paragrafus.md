@@ -1,6 +1,6 @@
 9. § (1) Az Országos Polgárőr Szövetség közigazgatási hatósági feladatként
 
-a) kiadja a polgárőr tevékenység végzésére jogosító igazolványt (a továbbiakban: polgárőr igazolvány),
+a)
 
 b) nyilvántartást vezet a kiadott polgárőr igazolványokról, a kiadásuk alapjául szolgáló, a 10. § (3) bekezdésében meghatározott feltételek igazolásához szükséges adatokról, az adatváltozásról, a polgárőr szolgálat ellátására jogosultakról, az igazolvány visszavonásáról, bevonásáról,
 
