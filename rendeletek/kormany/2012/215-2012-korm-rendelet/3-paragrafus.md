@@ -1,0 +1,3 @@
+## 2. § Az 1. § szerinti beszerzésnek minősül a Ludovika Campus megvalósítását szolgáló beszerzésekkel kapcsolatosan a beruházás keretében a Budapest VIII. kerület Orczy út 1., 36030 helyrajzi számon, a Budapest VIII. kerület, Diószeghy Sámuel utca 38–40., 36009 helyrajzi számon, valamint a Budapest VIII. kerület, Diószeghy Sámuel utca 42., 36014 helyrajzi számon nyilvántartott ingatlanokon megvalósuló létesítmények előkészítési és tervezési munkáihoz kapcsolódó beszerzések, a Ludovika Főépület kivitelezése, és az ezekhez kapcsolódó szolgáltatások megrendelése.
+
+3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
