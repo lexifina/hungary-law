@@ -58,7 +58,7 @@
 
 | 4. | A mezőgazdasági termelő aláírása. |
 
-7. melléklet a 21/2012. (III. 9.) VM rendelethez
+7. melléklet a 21/2012. (III. 9.) VM rendelethez[^14]
 
 A kárenyhítő juttatás összegének kiszámítása
 
@@ -126,7 +126,7 @@ A kárenyhítő juttatás összegének kiszámítása
 
 |  | I | JEG=jégesőkár, BEL=belvízkár, TEF=téli fagykár, TAF=tavaszi fagykár, ASZ=aszálykár, ARV=mezőgazdasági árvízkár, VIH=viharkár, FSZ=felhőszakadáskár. |
 
-|  | II | A területi adatokat (ha), a súlyadatokat (t) és a termésátlagokat (t/ha) mértékegységben két tizedes jegy pontossággal kell kitölteni. |
+|  | II | A területi adatokat (ha), a súlyadatokat (t) és a termésátlagokat (t/ha) mértékegységben két tizedes jegy pontossággal kell kitölteni. A „C” oszlop szerinti területadatokat valamennyi, a káresemény bekövetkezésekor és a kárenyhítő juttatás iránti kérelem benyújtásakor is a termelő használatában álló termőföld-terület vonatkozásában meg kell adni. |
 
 |  | III | Azon növénykultúrák tárgyévi hozamait, amelyek károsodásáról az agrárkár-megállapító szerv nem állított ki hatósági bizonyítványt, |
 
@@ -160,8 +160,16 @@ A kárenyhítő juttatás összegének kiszámítása
 
 | 3. | Igényelt kárenyhítő juttatás összege mindösszesen, forintban meghatározva (a táblázat „O” oszlopának összesítése) |
 
-| 4. | A termelő nyilatkozata arról, hogy az érintett mezőgazdasági káresemény által okozott kárra a biztosítóval kötött szerződés alapján a biztosító által megállapított összeget a törvény által előírt kötelezettség szerint tüntette fel, és tudomásul veszi, hogy a kötelezettség elmulasztásával a kárenyhítő juttatásra való jogosultságot a teljes kárenyhítő juttatás összegére vonatkozóan elveszíti, és kötelezettséget vállal arra, hogy ilyen esetben a felvett összeget a Mezőgazdasági és Vidékfejlesztési Hivatal felszólító határozata szerint visszafizeti. |
+| 4. | A termelő nyilatkozata arról, hogy |
+
+| 4.1. | kérelmezi a 7. § (4) bekezdés szerinti hatósági bizonyítvány kiállítását; |
+
+| 4.2. | az érintett mezőgazdasági káresemény által okozott kárra a biztosítóval kötött szerződés alapján a biztosító által megállapított összeget a törvény által előírt kötelezettség szerint tüntette fel, és tudomásul veszi, hogy a kötelezettség elmulasztásával a kárenyhítő juttatásra való jogosultságot a teljes kárenyhítő juttatás összegére vonatkozóan elveszíti, és kötelezettséget vállal arra, hogy ilyen esetben a felvett összeget a Mezőgazdasági és Vidékfejlesztési Hivatal felszólító határozata szerint visszafizeti; |
+
+| 4.3. | az elemi káresemény (jégesőkár, belvízkár, téli fagykár, tavaszi fagykár, aszálykár, viharkár, felhőszakadáskár) bekövetkezését megelőző napon nem minősült a 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti nehéz helyzetben lévő vállalkozásnak. |
 
 | 5. | Keltezés helye, ideje (év, hó, nap). |
 
 | 6. | A termelő aláírása. |
+
+[^14]: A 7. melléklet a 81/2012. (VII. 30.) VM rendelet 7. § (3) bekezdése szerint módosított szöveg.

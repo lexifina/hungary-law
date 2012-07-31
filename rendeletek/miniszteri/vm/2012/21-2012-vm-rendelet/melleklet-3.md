@@ -10,7 +10,7 @@
 
 | 1.4. | A gazdálkodási forma megadása (őstermelő, vagy egyéni mezőgazdasági vállalkozó, vagy gazdálkodó szervezet) |
 
-| 2. | Táblázat a biztosítási díjtámogatás mellett megkötött mezőgazdasági biztosítási szerződésről, vagy szerződésekről: |
+| 2. | Táblázat a megkötött mezőgazdasági biztosítási szerződésről, vagy szerződésekről: |
 
 | Termék megnevezése | A biztosításba bevont terület (ha) | A biztosított hozamérték (ezer Ft) | A biztosító által kifizetett kártérítés (ezer Ft) |
 

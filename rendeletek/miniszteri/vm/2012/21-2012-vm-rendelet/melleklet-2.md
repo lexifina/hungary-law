@@ -20,95 +20,95 @@
 
 | 1. Szántóföldi növények |  |  |  |  |  |  |
 
-| - őszi búza |  |  |  |  |  |  |
+| – őszi búza |  |  |  |  |  |  |
 
-| - őszi durum búza |  |  |  |  |  |  |
+| – őszi durum búza |  |  |  |  |  |  |
 
-| - őszi árpa |  |  |  |  |  |  |
+| – őszi árpa |  |  |  |  |  |  |
 
-| - rozs |  |  |  |  |  |  |
+| – rozs |  |  |  |  |  |  |
 
-| - triticale |  |  |  |  |  |  |
+| – triticale |  |  |  |  |  |  |
 
-| - kétszeres (őszi árpa+őszi búza) |  |  |  |  |  |  |
+| – kétszeres (őszi árpa+őszi búza) |  |  |  |  |  |  |
 
-| - tavaszi árpa |  |  |  |  |  |  |
+| – tavaszi árpa |  |  |  |  |  |  |
 
-| - zab |  |  |  |  |  |  |
+| – zab |  |  |  |  |  |  |
 
-| - kukorica |  |  |  |  |  |  |
+| – kukorica |  |  |  |  |  |  |
 
-| - káposztarepce |  |  |  |  |  |  |
+| – káposztarepce |  |  |  |  |  |  |
 
-| - szója |  |  |  |  |  |  |
+| – szója |  |  |  |  |  |  |
 
-| - lencse |  |  |  |  |  |  |
+| – lucerna |  |  |  |  |  |  |
 
-| - lucerna |  |  |  |  |  |  |
+| – csemege kukorica |  |  |  |  |  |  |
 
-| - borsó |  |  |  |  |  |  |
+| – napraforgó |  |  |  |  |  |  |
 
-| - magborsó |  |  |  |  |  |  |
+| – cukorrépa |  |  |  |  |  |  |
 
-| - lóbab |  |  |  |  |  |  |
+| – dohány |  |  |  |  |  |  |
 
-| - csemege kukorica |  |  |  |  |  |  |
-
-| - napraforgó |  |  |  |  |  |  |
-
-| - cukorrépa |  |  |  |  |  |  |
-
-| - dohány |  |  |  |  |  |  |
-
-| - egyéb növények |  |  |  |  |  |  |
+| – egyéb növények |  |  |  |  |  |  |
 
 | Szántóföldi növények összesen: |  |  |  |  |  |  |
 
 | 2. Szántóföldi zöldségfélék |  |  |  |  |  |  |
 
-| - zöldborsó |  |  |  |  |  |  |
+| – zöldborsó |  |  |  |  |  |  |
 
-| - zöldbab |  |  |  |  |  |  |
+| – zöldbab |  |  |  |  |  |  |
 
-| - uborka |  |  |  |  |  |  |
+| – uborka |  |  |  |  |  |  |
 
-| - sárgadinnye |  |  |  |  |  |  |
+| – sárgadinnye |  |  |  |  |  |  |
 
-| - görögdinnye |  |  |  |  |  |  |
+| – görögdinnye |  |  |  |  |  |  |
 
-| - spárgatök |  |  |  |  |  |  |
+| – spárgatök |  |  |  |  |  |  |
 
-| - cukkini és egyéb kabakosok |  |  |  |  |  |  |
+| – cukkini és egyéb kabakosok |  |  |  |  |  |  |
 
-| - paprika |  |  |  |  |  |  |
+| – paprika |  |  |  |  |  |  |
 
-| - fűszerpaprika |  |  |  |  |  |  |
+| – fűszerpaprika |  |  |  |  |  |  |
 
-| - paradicsom |  |  |  |  |  |  |
+| – paradicsom |  |  |  |  |  |  |
 
-| - káposzta |  |  |  |  |  |  |
+| – káposzta |  |  |  |  |  |  |
 
-| - kelkáposzta |  |  |  |  |  |  |
+| – kelkáposzta |  |  |  |  |  |  |
 
-| - karfiol |  |  |  |  |  |  |
+| – karfiol |  |  |  |  |  |  |
 
-| - brokkoli |  |  |  |  |  |  |
+| – brokkoli |  |  |  |  |  |  |
 
-| - sárgarépa |  |  |  |  |  |  |
+| – sárgarépa |  |  |  |  |  |  |
 
-| - sütőtök |  |  |  |  |  |  |
+| – sütőtök |  |  |  |  |  |  |
 
-| - spárga |  |  |  |  |  |  |
+| – spárga |  |  |  |  |  |  |
 
-| - étkezési mák |  |  |  |  |  |  |
+| – étkezési mák |  |  |  |  |  |  |
 
-| - szárazbab |  |  |  |  |  |  |
+| – szárazbab |  |  |  |  |  |  |
 
-| - burgonya |  |  |  |  |  |  |
+| – burgonya |  |  |  |  |  |  |
 
-| - vöröshagyma |  |  |  |  |  |  |
+| – vöröshagyma |  |  |  |  |  |  |
 
-| - egyéb |  |  |  |  |  |  |
+| – lencse |  |  |  |  |  |  |
+
+| – borsó |  |  |  |  |  |  |
+
+| – magborsó |  |  |  |  |  |  |
+
+| – lóbab |  |  |  |  |  |  |
+
+| – egyéb |  |  |  |  |  |  |
 
 | Szántóföldi zöldségfélék összesen |  |  |  |  |  |  |
 
@@ -166,10 +166,12 @@
 
 | 4. | A mezőgazdasági káresemény megnevezésére a „C” oszlopban megadható: jégesőkár, belvízkár, téli fagykár, tavaszi fagykár, aszálykár, mezőgazdasági árvízkár, viharkár, felhőszakadáskár. |
 
-| 5. | A mezőgazdasági termelő nyilatkozata arról, hogy kérelmezi az agrárkár-megállapító szervtől az e rendelet 7. § (4) bekezdése szerinti hatósági bizonyítvány kiállítását. |
+| 5. | A mezőgazdasági termelő nyilatkozata arról, hogy kérelmezi az agrárkár-megállapító szervtől az Mkk. tövény 14. § (2) bekezdése szerinti hatósági bizonyítvány kiállítását. |
 
 | 6. | Keltezés helye, ideje (év, hó, nap). |
 
 | 7. | A mezőgazdasági termelő aláírása. |
 
-2. melléklet a 21/2012. (III. 9.) VM rendelethez
+2. melléklet a 21/2012. (III. 9.) VM rendelethez[^13]
+
+[^13]: A 2. melléklet a 81/2012. (VII. 30.) VM rendelet 7. § (2) bekezdése szerint módosított szöveg.
