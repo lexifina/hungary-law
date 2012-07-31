@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-133-00-00
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2005-133-00-00.13 |
 | 2012-01-01 | 2011. évi XXIV. törvény | 2005-133-00-00.14 |
 | 2012-05-15 | 2012. évi XXXI. törvény | 2005-133-00-00.15 |
+| 2012-07-31 | 2012. évi CXX. törvény | 2005-133-00-00.16 |
