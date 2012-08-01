@@ -20,7 +20,7 @@
 
 | 9. | Építésügyi hatósági engedélyezési eljárások a bányafelügyelet hatáskörébe tartozó sajátos építményekre | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 10. | Beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése | illetékes hivatásos önkormányzati tűzoltóság | BM Országos Katasztrófavédelmi Főigazgatóság |
+| 10. | Beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése | illetékes megyei katasztrófavédelmi igazgatóság | BM Országos Katasztrófavédelmi Főigazgatóság |
 
 | 11. | Építésügyi hatósági engedélyezési eljárások a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló rendelet szerint | Budapest Főváros Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága (Budapest) | Magyar Kereskedelmi és Engedélyezési Hivatal |
 
