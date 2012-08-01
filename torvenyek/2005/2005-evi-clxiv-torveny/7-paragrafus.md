@@ -27,3 +27,5 @@ i) ha a termék nem a kereskedő tulajdona, a szerződésben megállapított sz�
 (4) A (3) bekezdésben meghatározottakon kívül akkor is fennáll a kereskedő jelentős piaci ereje, ha a piac struktúrája, a piacra lépési korlátok léte, a vállalkozás piaci részesedése, pénzügyi ereje és egyéb erőforrásai, kereskedelmi hálózatának kiterjedtsége, üzleteinek mérete és elhelyezkedése, kereskedelmi és egyéb tevékenységeinek összessége alapján a kereskedő vállalkozás, vállalatcsoport, illetve beszerzési szövetség a beszállítóval szemben egyoldalúan előnyös alkuhelyzetben van vagy abba kerül.
 
 (5) A (3) bekezdés hatálya alá tartozó vállalkozások a beszállítókkal való kapcsolataikban a tisztességes piaci magatartásra vonatkozó önszabályozó etikai kódex megalkotására, valamint az abban foglaltak megsértése esetén alkalmazandó eljárásrend kialakítására kötelesek.
+
+(6) E § rendelkezései nem alkalmazhatóak a mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény hatálya alá tartozó esetekben.
