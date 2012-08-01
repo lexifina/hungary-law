@@ -4,7 +4,7 @@
 
 (2) A 2012. évben Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet terhére történő, 1000,0 millió forint összeget elérő mértékű kötelezettségvállalásokat és – a központi alrendszer likviditási helyzetére figyelemmel – a kifizetések ütemezését az állami vagyon felügyeletéért felelős miniszter a rábízott vagyon vagyonkezelési tervének keretében hagyja jóvá.
 
-(3) Az állami vagyonról szóló 2007. évi CVI. törvény
+(3) Az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.)
 
 a) 28. § (4) bekezdésében meghatározott egyedi könyv szerinti bruttó érték a 2012. évben 25,0 millió forint,
 
