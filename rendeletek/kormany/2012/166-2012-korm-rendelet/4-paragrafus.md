@@ -1,0 +1,1 @@
+## 3. § A beruházáshoz tervezett felvonóknak az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 82. § (1) bekezdése szerinti forgalomelemzését a ténylegesen használt tervezett szintek forgalmára kell elkészíteni.
