@@ -2,4 +2,4 @@
 
 (2) A hivatalból meghozott bejegyzési végzés ellen nincs helye fellebbezésnek, illetve felülvizsgálatnak, ha a bejegyzésre más bíróság vagy hatóság határozata alapján került sor (26. §).
 
-(3) A fellebbezés elbírálására a Fővárosi Ítélőtábla kizárólagos illetékességgel rendelkezik.
+(3)

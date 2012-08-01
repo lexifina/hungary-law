@@ -361,5 +361,3 @@
 ## amely a jegyzett tőke  %-a
 
 ## b) ............................................ Ft, azaz   forint nem pénzbeli
-
-## hozzájárulásból áll.
