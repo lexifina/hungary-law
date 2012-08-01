@@ -26,4 +26,4 @@ j)
 
 (3) Az országos kamara alapszabálya az országos kamara számára további feladatokat állapíthat meg.
 
-(4) Az agrárkamarák, valamint a Magyar Agrárkamara egyes közösségi, illetve nemzeti hatáskörben nyújtott mezőgazdasági, agrár-vidékfejlesztési, halászati támogatások igénybevételi jogosultságát, valamint az ezekkel összefüggő vagyoni értékű jogokat érintő, a jogosultak közötti egyezségkötés elősegítése érdekében Egyezségi Tanácsokat működtethetnek. Az Egyezségi Tanácsok előtti eljárás az érintettek kérelme alapján indul. Az Egyezségi Tanács működési rendjét, eljárásának szabályait, a díjfizetés rendjét a Magyar Agrárkamara állapítja meg.
+(4)

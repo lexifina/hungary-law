@@ -8,6 +8,6 @@ c) előmozdítsák a gazdálkodó szervezeteknek a szabványosítással, minős�
 
 d) a gazdálkodó szervezetek döntéseinek megalapozottsága érdekében hazai, európai uniós és nemzetközi gazdasági, műszaki, környezetvédelmi és jogi információkat gyűjtsenek, rendszerezzenek és bocsássanak a gazdálkodó szervezetek rendelkezésére.
 
-(2) A gazdasági kamarák – külön törvények rendelkezései szerint – részt vesznek az (1) bekezdésben, valamint a 9. §-ban meghatározott feladataikkal összefüggő célokat szolgáló elkülönített állami pénzalapok és költségvetési előirányzatok felhasználására vonatkozó döntések előkészítésében, továbbá az agrárkamarák közreműködnek az agrár-szaktanácsadás szervezésében és az ehhez kapcsolódó, pályázati úton elnyerhető támogatások lebonyolításában, továbbá a területi agrárkamarák értékelik a velük szerződéses kapcsolatban lévő szaktanácsadók munkáját és az értékelésről adatokat, valamint évenként egy alkalommal összefoglaló jelentést szolgáltatnak az agrárpolitikáért felelős miniszter részére.
+(2) A gazdasági kamarák – külön törvények rendelkezései szerint – részt vesznek az (1) bekezdésben, valamint a 9. §-ban meghatározott feladataikkal összefüggő célokat szolgáló elkülönített állami pénzalapok és költségvetési előirányzatok felhasználására vonatkozó döntések előkészítésében.
 
-(3) Az agrárkamarák – az (1)–(2) bekezdésekben foglaltakon túlmenően – közfeladatként az agrár- és vidékfejlesztési támogatásokkal összefüggésben a gazdálkodó szervezetek részére tanácsadást végeznek. A tanácsadás – ha a gazdálkodó szervezet igényli – kiterjedhet a pályázat elkészítésére is.
+(3)

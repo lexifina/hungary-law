@@ -6,7 +6,7 @@ a) a kamara nevét és székhelyét;
 
 b) a kamara szervezetére, szerveinek működésére és tisztségviselőire vonatkozó főbb szabályokat;
 
-c) a tagozatok, az osztályok, illetve helyi és egyéb szervek, szervezeti egységek létesítése esetén azok feladatkörét, a kamara más szervezeteihez való kapcsolódásának és működésének rendjét;
+c) a tagozatok, illetve helyi és egyéb szervek, szervezeti egységek létesítése esetén azok feladatkörét, a kamara más szervezeteihez való kapcsolódásának és működésének rendjét;
 
 d) az országos gazdasági érdekképviseleti szervezetekkel való együttműködés módját és részletes szabályait;
 
@@ -20,7 +20,7 @@ h) a küldöttválasztás részletes szabályait;
 
 i) az országos gazdasági kamara küldöttgyűlésébe történő delegálás részletes szabályait;
 
-j) a kamarai osztályok számát és fajtáit, küldöttgyűléseik összehívásának módját és határozathozataluk rendjét, valamint gazdasági súlyuk megállapításának módját;
+j)
 
 k) a küldöttgyűlés küldötteinek, az elnökség, az ellenőrző és etikai bizottság tagjainak számát;
 
