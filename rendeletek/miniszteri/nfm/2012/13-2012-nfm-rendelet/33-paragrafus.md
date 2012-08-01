@@ -4,6 +4,6 @@
 
 33. § (1) Ez a rendelet a kihirdetését követő harmincadik napon lép hatályba.
 
-(2)[^1]
+(2)[^13]
 
-[^1]: A 33. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 33. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
