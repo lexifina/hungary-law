@@ -1,0 +1,1 @@
+## 1. § A rendelet hatálya a magyar lajstromba bejegyzett, valamint a Magyarország területi vizeire érkező külföldi lobogójú, 300 vagy ennél nagyobb bruttó tonnatartalmú, gazdasági célú tengeri hajózási tevékenységet folytató tengeri hajóra, a tengeri hajó üzemben tartójára és parancsnokára terjed ki.
