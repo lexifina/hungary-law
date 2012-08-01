@@ -4,9 +4,9 @@
 
 ## 2. § E rendelet alkalmazásában
 
-a)[^1] előtörlesztés: a teljesítési határidő előtt az előtörlesztési cél megjelölésével történő, átutalás útján teljesített olyan befizetés, amely a hitelfelvevő tartozását csökkenti,
+a)[^2] előtörlesztés: a teljesítési határidő előtt az előtörlesztési cél megjelölésével történő, átutalás útján teljesített olyan befizetés, amely a hitelfelvevő tartozását csökkenti,
 
-b)[^2] Európai Gazdasági Térségben működő felsőoktatási intézmény (a továbbiakban: EGT felsőoktatási intézmény): a c) pontban foglaltak kivételével az a felsőoktatási intézmény, amely államilag elismert az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban, illetve abban az államban, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
+b)[^3] Európai Gazdasági Térségben működő felsőoktatási intézmény (a továbbiakban: EGT felsőoktatási intézmény): a c) pontban foglaltak kivételével az a felsőoktatási intézmény, amely államilag elismert az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban, illetve abban az államban, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
 
 c) felsőoktatási intézmény: a felsőoktatásról szóló 2005. évi CXXXIX. törvény (a továbbiakban: Fot.) 1. számú mellékletében felsorolt intézmény és a felsőfokú szakképzést folytató szakközépiskola,
 
@@ -20,7 +20,7 @@ g) jogosultsági idő: tanulmányi félévekben meghatározott és tanulmányi h
 
 h) költségtérítéses képzés: a felsőoktatási intézmény által indított olyan képzés, amelynek költségeit a hallgató viseli,
 
-i)[^3] Oktatási Hivatal: a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény alapján a külföldi bizonyítványok és oklevelek elismerésére hivatott hatóság,
+i)[^4] Oktatási Hivatal: a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény alapján a külföldi bizonyítványok és oklevelek elismerésére hivatott hatóság,
 
 j) minimálbér: külön kormányrendeletben a teljes munkaidőben foglalkoztatott munkavállaló részére megállapított személyi alapbér legkisebb összege, a teljes munkaidő teljesítése és havibér alkalmazása esetén,
 
@@ -38,18 +38,18 @@ p) törlesztőrészlet: az e rendelet alapján meghatározott, a hitelfelvevő �
 
 q) résztanulmányok folytatása: ha a hallgató külföldi felsőoktatási intézményben vendéghallgatói jogviszony keretében folytat tanulmányokat és szerez kreditet,
 
-r)[^4] szülők: a hitelfelvevő születési anyakönyvi kivonatában anyaként és apaként megjelölt személyek,
+r)[^5] szülők: a hitelfelvevő születési anyakönyvi kivonatában anyaként és apaként megjelölt személyek,
 
-s)[^5] álláskereső: a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. §-a (5) bekezdésének d) pontja szerinti személy,
+s)[^6] álláskereső: a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. §-a (5) bekezdésének d) pontja szerinti személy,
 
-t)[^6] árva: az a hallgató, akinek mindkét szülője, illetve vele egy háztartásban élt hajadon, nőtlen, elvált, vagy házastársától külön élt szülője elhunyt és nem fogadták örökbe,
+t)[^7] árva: az a hallgató, akinek mindkét szülője, illetve vele egy háztartásban élt hajadon, nőtlen, elvált, vagy házastársától külön élt szülője elhunyt és nem fogadták örökbe,
 
-u)[^7] félárva: az a hallgató, akinek egy szülője elhunyt és nem fogadták örökbe.
+u)[^8] félárva: az a hallgató, akinek egy szülője elhunyt és nem fogadták örökbe.
 
-[^1]: A 2. § a) pontja a 314/2009. (XII. 28.) Korm. rendelet 67. §-a szerint módosított szöveg.
-[^2]: A 2. § b) pontja a 115/2007. (V. 24.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § i) pontja a 307/2006. (XII. 23.) Korm. rendelet 41. § a) pontjával megállapított szöveg. E módosító rendelet 42. § (3) bekezdése alapján a Hivatal az Országos Közoktatási Értékelési és Vizsgaközpont, a Felsőoktatási Regisztrációs Központ, a Magyar Ekvivalencia és Információs Központ, és a Nyelvvizsgáztatási Akkreditációs Központ, valamint a „suliNova” Közoktatási Fejlesztési és Pedagógus-továbbképzési Kht.-nak a díjjal nem fedezett szolgáltatásokkal kapcsolatos feladatai tekintetében általános jogutódja.
-[^4]: A 2. § r) pontját a 27/2009. (II. 13.) Korm. rendelet 1. §-a iktatta be.
-[^5]: A 2. § s) pontját a 27/2009. (II. 13.) Korm. rendelet 1. §-a iktatta be.
-[^6]: A 2. § t) pontját a 27/2009. (II. 13.) Korm. rendelet 1. §-a iktatta be.
-[^7]: A 2. § u) pontját a 27/2009. (II. 13.) Korm. rendelet 1. §-a iktatta be.
+[^2]: A 2. § a) pontja a 314/2009. (XII. 28.) Korm. rendelet 67. §-a szerint módosított szöveg.
+[^3]: A 2. § b) pontja a 115/2007. (V. 24.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § i) pontja a 307/2006. (XII. 23.) Korm. rendelet 41. § a) pontjával megállapított szöveg. E módosító rendelet 42. § (3) bekezdése alapján a Hivatal az Országos Közoktatási Értékelési és Vizsgaközpont, a Felsőoktatási Regisztrációs Központ, a Magyar Ekvivalencia és Információs Központ, és a Nyelvvizsgáztatási Akkreditációs Központ, valamint a „suliNova” Közoktatási Fejlesztési és Pedagógus-továbbképzési Kht.-nak a díjjal nem fedezett szolgáltatásokkal kapcsolatos feladatai tekintetében általános jogutódja.
+[^5]: A 2. § r) pontját a 27/2009. (II. 13.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 2. § s) pontját a 27/2009. (II. 13.) Korm. rendelet 1. §-a iktatta be.
+[^7]: A 2. § t) pontját a 27/2009. (II. 13.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 2. § u) pontját a 27/2009. (II. 13.) Korm. rendelet 1. §-a iktatta be.

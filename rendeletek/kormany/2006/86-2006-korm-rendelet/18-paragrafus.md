@@ -1,6 +1,6 @@
 ## A hallgatói hitellel kapcsolatos célzott kamattámogatás
 
-18. §[^30] (1) A Hitelfelvevő – a kölcsön futamidején belül – célzott és teljes kamattámogatásban részesül a 16. § (2) bekezdés a) pontjában meghatározott időszakra, ha célzott kamattámogatás iránti kérelmét – a Diákhitel Központ által az e célra rendszeresített nyomtatványon – az ellátásokat folyósító szerv igazolásával ellátva benyújtja a Diákhitel Központhoz. A célzott kamattámogatásra való jogosultság igazolására szolgáló dokumentum a törlesztési kötelezettség szüneteltetésére való jogosultság igazolására is szolgál.
+18. §[^33] (1) A Hitelfelvevő – a kölcsön futamidején belül – célzott és teljes kamattámogatásban részesül a 16. § (2) bekezdés a) pontjában meghatározott időszakra, ha célzott kamattámogatás iránti kérelmét – a Diákhitel Központ által az e célra rendszeresített nyomtatványon – az ellátásokat folyósító szerv igazolásával ellátva benyújtja a Diákhitel Központhoz. A célzott kamattámogatásra való jogosultság igazolására szolgáló dokumentum a törlesztési kötelezettség szüneteltetésére való jogosultság igazolására is szolgál.
 
 (2) A célzott kamattámogatás anyagi fedezetét a családpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetésében kell biztosítani. A célzott kamattámogatás összegét a minisztérium a Diákhitel Központ számlájára a jogosult hitelfelvevő megjelölésével negyedévente utalja át.
 
@@ -18,4 +18,4 @@
 
 (9) Nem számít jogosulatlan igénybevételnek az, ha a hitelfelvevő célzott kamattámogatásra való jogosultságának megszűnését a (6) bekezdésben meghatározott határidőn belül bejelenti, vagy a célzott kamattámogatásra való jogosultság más jogcímen megilleti, azonban a kamattámogatást folyósító minisztérium tovább folyósítja az eredeti jogcím alapján a Diákhitel Központnak a kamattámogatás összegét.
 
-[^30]: A 18. § a 114/2011. (VII. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^33]: A 18. § a 114/2011. (VII. 7.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## A hallgatói hitel igénybevételének feltételei
 
-3. § (1)[^8] Hallgatói hitelre a (2) bekezdésben meghatározott feltételekkel – egyéni hitelbírálat és kockázatértékelés nélkül – jogosult:
+3. § (1)[^9] Hallgatói hitelre a (2) bekezdésben meghatározott feltételekkel – egyéni hitelbírálat és kockázatértékelés nélkül – jogosult:
 
 a) a magyar állampolgár, a menekültként elismert, valamint a bevándorolt vagy letelepedett jogállású személy, továbbá
 
@@ -26,4 +26,4 @@ d) a hitel igénylésekor nincs érvényes hallgatói kölcsönszerződése a Di
 
 (3) Nem jogosult hallgatói hitelre az, akinek korábban kötött kölcsönszerződése megszűnt és hallgatói hiteltartozása van.
 
-[^8]: A 3. § (1) bekezdése a 115/2007. (V. 24.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^9]: A 3. § (1) bekezdése a 115/2007. (V. 24.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
