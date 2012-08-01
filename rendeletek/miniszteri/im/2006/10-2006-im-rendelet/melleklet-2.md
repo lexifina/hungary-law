@@ -8,7 +8,7 @@
 
 ## 3. Az eljárási törvényeknek az igazságügyi szakértőket érintő rendelkezései.
 
-## 4. A Magyar Köztársaság Alkotmányának rendelkezései.
+## 4.[^66] Magyarország Alaptörvényének rendelkezései.
 
 ## 5. A személyes adatok védelméhez fűződő alapjogra, a személyiségvédelem és az adatvédelem követelményeire vonatkozó alapvető rendelkezések.
 
@@ -30,6 +30,7 @@
 
 ## 4. Gyakorlati ismeretek.
 
-2. számú melléklet a 10/2006. (III. 7.) IM rendelethez[^58]
+2. számú melléklet a 10/2006. (III. 7.) IM rendelethez[^67]
 
-[^58]: A 2. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (2) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a 2007. október 1. napján folyamatban lévő ügyekre is alkalmazni kell.
+[^66]: Az 1. számú melléklet A) rész 4. pontja a 31/2012. (VI. 29.) KIM rendelet 14. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^67]: A 2. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (2) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a 2007. október 1. napján folyamatban lévő ügyekre is alkalmazni kell.
