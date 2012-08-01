@@ -48,7 +48,7 @@
 
 | 23. | Fegyveres biztonsági őr | Országos Rendőr-főkapitányság |
 
-| 24. | Az állattenyésztéshez kapcsolódó mesterséges termékenyítési szolgáltatások | Mezőgazdasági Szakigazgatási Hivatal |
+| 24. | Az állattenyésztéshez kapcsolódó mesterséges termékenyítési szolgáltatások | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 25. | Magán-állatorvosi tevékenység | Magyar Állatorvosi Kamara |
 
@@ -72,4 +72,4 @@
 
 2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^13]
 
-[^13]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 27. §-ával megállapított, a 74/2012. (IV. 13.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^13]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 27. §-ával megállapított, a 74/2012. (IV. 13.) Korm. rendelet 6. §-a, a 115/2012. (VI. 15.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
