@@ -40,7 +40,13 @@
 
 ## 8. Szürke mókus (Sciurus carolinensis)
 
-2. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^23]
+## 9.[^63] Amerikai rókamókus (Sciurus niger)
+
+## 10.[^64] Csinos tarkamókus (Callosciurus erythraeus)
+
+## 11.[^65] Japán mókus (Sciurus lis)
+
+2. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^66]
 
 ## A 9. § (2) bekezdése szerinti írásos dokumentumok
 
@@ -78,4 +84,7 @@ l) az e rendelet szerinti minimális tartási követelmények,
 
 m) az állat milyen veszélyt és egészségügyi ártalmat jelent az állat tartójának egészségére, és azt hogyan lehet megelőzni.
 
-[^23]: A 2. számú melléklet a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
+[^63]: Az 1. számú melléklet E. pont 9. alpontját a 115/2012. (VI. 11.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^64]: Az 1. számú melléklet E. pont 10. alpontját a 115/2012. (VI. 11.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^65]: Az 1. számú melléklet E. pont 11. alpontját a 115/2012. (VI. 11.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^66]: A 2. számú melléklet a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
