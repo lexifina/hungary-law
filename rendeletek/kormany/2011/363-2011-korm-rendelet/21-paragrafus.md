@@ -2,6 +2,6 @@
 
 ## 5. Módosító és hatályon kívül helyező rendelkezések
 
-21–29. §[^1]
+21–29. §[^2]
 
-[^1]: A 21–29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 21–29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
