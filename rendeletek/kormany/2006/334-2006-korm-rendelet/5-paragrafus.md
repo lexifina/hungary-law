@@ -1,3 +1,3 @@
-## 4. §[^10] A Kormány az állatvédelmi hatóságnak az eb veszélyessé minősítése iránti eljárásában, – az állat lehetőségekhez képest jóléte biztosítása kérdésében – első fokú eljárásban a kerületi hivatalt, másodfokú eljárásban az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot szakhatóságként jelöli ki.
+## 4. §[^9]
 
-[^10]: A 4. § a 351/2010. (XII. 30.) Korm. rendelet 168. § (4) bekezdésével megállapított szöveg.
+[^9]: A 4. §-t a 115/2012. (VI. 11.) Korm. rendelet 5. §-a hatályon kívül helyezte.
