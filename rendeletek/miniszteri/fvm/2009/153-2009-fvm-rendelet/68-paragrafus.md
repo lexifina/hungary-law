@@ -1,12 +1,12 @@
-## 67. §[^12]
+## 67. §[^14]
 
-68. § (1)[^13]
+68. § (1)[^15]
 
-(2)[^14]
+(2)[^16]
 
-(3)[^15]
+(3)[^17]
 
-[^12]: A 67. § a 68. § (3) bekezdése alapján hatályát vesztette.
-[^13]: A 68. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
-[^14]: A 68. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^15]: A 68. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^14]: A 67. § a 68. § (3) bekezdése alapján hatályát vesztette.
+[^15]: A 68. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
+[^16]: A 68. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^17]: A 68. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
