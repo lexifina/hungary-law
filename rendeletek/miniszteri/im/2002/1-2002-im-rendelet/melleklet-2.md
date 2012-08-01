@@ -316,32 +316,6 @@
 
 ## 2099 Zalaegerszegi Munkaügyi Bíróság
 
-2. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^120]
+2. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^121]
 
-A bírósági végrehajtók irattári terve
-
-| Irattári tételszám | Az irattári tétel megnevezése | Selej- tezési idő (években) | Levél- tárba történő átadás ideje (években) |
-
-| 1 | Behajtással befejezett ügyek, illetve azok az ügyek, amelyekben a teljesítést a végrehajtást kérő bejelentette, illetve elengedte | 40 | 0 |
-
-| 2 | Azok az ügyek, amelyekben az adós vagy a kötelezett a végrehajtható okiratban foglaltaknak eleget tett, és ezt a végrehajtó megállapította | 40 | 0 |
-
-| 3 | Azok az ügyek, amelyekben a bíróság a végrehajtást megszüntette | 40 | 0 |
-
-| 4 | Azok a bírósági végrehajtási ügyek, amelyekben a végrehajtási lapot visszavonták, a végrehajtási záradékot törölték, a végrehajtást elrendelő végzést hatályon kívül helyezték, a végrehajtó által elkészített végrehajtási kérelmet a bíróság elutasította | 40 | 0 |
-
-| 5 | Azok a végrehajtási ügyek, amelyekben az eljárás a Vht. 52. § a)–e) pontja alapján szünetel | 40 | 0 |
-
-| 6 | Azoknak a végrehajtási ügyeknek a végrehajtónál maradt iratai, amely ügyekben az egyéb iratokat az R. 31. §-a alapján a végrehajtó az eljárásra jogosult végrehajtónak megküldte | 40 | 0 |
-
-| 7 | Az előzetes eljárás, ha az alapján nem indul végrehajtási eljárás | 40 | 0 |
-
-| 8 | Végrehajtói kézbesítési ügy | 40 | 0 |
-
-| 9 | Azok a végrehajtási ügyek, amelyeknek az iratai között a végrehajtó által maradandó értékű iratnak minősített irat található | 0 | 15 |
-
-| 10 | Azok a végrehajtási ügyek, amelyeknek az iratai között 1900. év előtt keletkezett irat található | 0 | 15 |
-
-| 11 | Tartásra kötelezett adatainak beszerzésére irányuló ügy | 5 | 0 |
-
-[^120]: A 2. számú mellékletet a 4/2004. (II. 27.) IM rendelet 4. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet a 27/2004. (VIII. 26.) IM rendelet 1. § (14) bekezdése, a 26/2011. (VIII. 31.) KIM rendelet 7. § (12) bekezdése szerint módosított szöveg.
+[^121]: A 2. számú mellékletet a 4/2004. (II. 27.) IM rendelet 4. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet a 27/2004. (VIII. 26.) IM rendelet 1. § (14) bekezdése, a 26/2011. (VIII. 31.) KIM rendelet 7. § (12) bekezdése szerint módosított szöveg.
