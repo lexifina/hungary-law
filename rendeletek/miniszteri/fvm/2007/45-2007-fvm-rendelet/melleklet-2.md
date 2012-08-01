@@ -26,46 +26,6 @@
 
 | Korai juhar | Acer platanoides |
 
-2. számú melléklet a 45/2007. (VI. 11.) FVM rendelethez
+2. számú melléklet a 45/2007. (VI. 11.) FVM rendelethez[^4]
 
-A Mezőgazdasági Szakigazgatási Hivatal területi szerveinek előirányzat-felhasználási keretszámlái
-
-|  | Intézmény megnevezése | Előirányzat-felhasználási keretszámla |
-
-| 1. | Baranya Megyei Mezőgazdasági Szakigazgatási Hivatal | 10025003-00289809-00000000 |
-
-| 2. | Bács-Kiskun Megyei Mezőgazdasági Szakigazgatási Hivatal | 10025004-00289799-00000000 |
-
-| 3. | Békés Megyei Mezőgazdasági Szakigazgatási Hivatal | 10026005-00289847-00000000 |
-
-| 4. | Borsod-Abaúj-Zemplén Megyei Mezőgazdasági Szakigazgatási Hivatal | 10027006-00289861-00000000 |
-
-| 5. | Csongrád Megyei Mezőgazdasági Szakigazgatási Hivatal | 10028007-00289737-00000000 |
-
-| 6. | Fejér Megyei Mezőgazdasági Szakigazgatási Hivatal | 10029008-00289775-00000000 |
-
-| 7. | Fővárosi és Pest Megyei Mezőgazdasági Szakigazgatási Hivatal | 10032000-00289830-00000000 |
-
-| 8. | Győr-Moson-Sopron Megyei Mezőgazdasági Szakigazgatási Hivatal | 10033001-00289720-00000000 |
-
-| 9. | Hajdú-Bihar Megyei Mezőgazdasági Szakigazgatási Hivatal | 10034002-00289706-00000000 |
-
-| 10. | Heves Megyei Mezőgazdasági Szakigazgatási Hivatal | 10035003-00289878-00000000 |
-
-| 11. | Jász-Nagykun-Szolnok Megyei Mezőgazdasági Szakigazgatási Hivatal | 10045002-00289768-00000000 |
-
-| 12. | Komárom-Esztergom Megyei Mezőgazdasági Szakigazgatási Hivatal | 10036004-00289885-00000000 |
-
-| 13. | Nógrád Megyei Mezőgazdasági Szakigazgatási Hivatal | 10037005-00289892-00000000 |
-
-| 14. | Somogy Megyei Mezőgazdasági Szakigazgatási Hivatal | 10039007-00289854-00000000 |
-
-| 15. | Szabolcs-Szatmár-Bereg Megyei Mezőgazdasági Szakigazgatási Hivatal | 10044001-00289751-00000000 |
-
-| 16. | Tolna Megyei Mezőgazdasági Szakigazgatási Hivatal | 10046003-00289823-00000000 |
-
-| 17. | Vas Megyei Mezőgazdasági Szakigazgatási Hivatal | 10047004-00289816-00000000 |
-
-| 18. | Veszprém Megyei Mezőgazdasági Szakigazgatási Hivatal | 10048005-00289744-00000000 |
-
-| 19. | Zala Megyei Mezőgazdasági Szakigazgatási Hivatal | 10049006-00289902-00000000 |
+[^4]: A 2. számú mellékletet a 63/2012. (VII. 2.) VM rendelet 13. § (1) bekezdés l) pontja hatályon kívül helyezte.
