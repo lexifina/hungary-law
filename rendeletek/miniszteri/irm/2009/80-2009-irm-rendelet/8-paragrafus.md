@@ -4,6 +4,8 @@
 
 (2) Egy eljárás keretében egy zálogtárgyra egy – zálogjogra vonatkozó – bejegyzés kérhető, a változásbejegyzési kérelem azonban a bejegyzés több adatára is vonatkozhat.
 
-(3) A kérelem az eljárás jogerős befejezéséig visszavonható. A kérelem visszavonása esetén a közjegyző a bejegyzési eljárást megszünteti.
+(3)[^2] A kérelem a bejegyzésig visszavonható. A kérelem visszavonása esetén a közjegyző a bejegyzési eljárást megszünteti.
 
 (4) Az eljárásban szünetelésnek és felfüggesztésnek helye nincs.
+
+[^2]: A 8. § (3) bekezdése a 31/2012. (VI. 29.) KIM rendelet 17. § (4) bekezdése szerint módosított szöveg.
