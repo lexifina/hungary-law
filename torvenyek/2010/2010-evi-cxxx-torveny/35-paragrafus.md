@@ -1,3 +1,1 @@
-## 19.
-
-### 35. §
+35. § E törvénynek az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló 2012. évi LXXVI. törvénnyel megállapított 12. § (3) bekezdését a 2012. augusztus 1-jén és az azt követően kihirdetett jogszabályok és közzétett közjogi szervezetszabályozó eszközök tekintetében kell alkalmazni.
