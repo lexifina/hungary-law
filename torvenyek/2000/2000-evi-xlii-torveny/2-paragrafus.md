@@ -46,7 +46,7 @@ d) a c) pontjában megállapított feladatot – feladatkörében – a miniszte
 
 e) a d) pontjában rögzített feladatot a miniszter a külpolitikáért felelős miniszterrel, a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszterrel és a fejlesztéspolitikáért felelős miniszterrel egyetértésben,
 
-f) a g) pontjában rögzített feladatot a miniszter a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszterrel együttesen,
+f)
 
 g) az i) pontjában rögzített feladatot a miniszter a fejlesztéspolitikáért felelős miniszterrel, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel, a határkikötők tekintetében a határrendészetért felelős miniszterrel is együttesen,
 

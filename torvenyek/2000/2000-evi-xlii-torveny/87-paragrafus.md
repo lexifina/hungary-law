@@ -72,7 +72,7 @@ b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza 
 
 31. őrszolgálat: tengeri hajón a parancsnoki hídon, a fedélzeten, illetve a géptérben, menetben vagy kikötőben teljesített szolgálat;
 
-32. révhajó, révcsónak: csak személyeket szállító, a komp;
+32. révhajó, révcsónak: csak személyeket szállító komp;
 
 33. révkalauz: a hajó vezetőjét a hajó vezetésében segítő, kellő helyismerettel és képesítéssel rendelkező személy;
 
@@ -106,4 +106,10 @@ b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza 
 
 47. folyami információs szolgáltatások központ: a folyami információs szolgáltatásokkal kapcsolatos adatok – informatikai és távközlési berendezések útján történő – továbbítására szolgáló, a hajózási hatóság által működtetett központ;
 
-48. katonai úszólétesítmény: a Magyar Honvédség állományába tartozó, katonai célú víziközlekedésre, vízen való munkavégzésre és azokkal összefüggő tevékenység folytatására alkalmas úszóképes eszköz, szerkezet, berendezés.
+48. katonai úszólétesítmény: a Magyar Honvédség állományába tartozó, katonai célú víziközlekedésre, vízen való munkavégzésre és azokkal összefüggő tevékenység folytatására alkalmas úszóképes eszköz, szerkezet, berendezés;
+
+49. biztosítás: a hatóságtól biztosítási tevékenységre engedélyt kapott biztosítóval kötelezettségvállalás alapján megkötött önrészes vagy önrész nélküli biztosítás, amely magában foglalja a kölcsönös biztosító klubok nemzetközi csoportjának tagja által kínált biztosítás-típust, továbbá más egyenértékű biztosítási formákat – ideértve az igazolt önbiztosítást is –, és a hasonló fedezeti feltételeket nyújtó pénzügyi biztosítékokat;
+
+50. magyar jogszabály által kihirdetett, polgári jogi felelősségre vonatkozó nemzetközi egyezmény: az olajszennyezéssel okozott károk megtérítésére szolgáló nemzetközi alap létrehozataláról szóló 1992. évi egyezmény és az olajszennyezéssel okozott károk megtérítésére szolgáló nemzetközi alap létrehozataláról szóló 1992. évi egyezményhez elfogadott 2003. évi jegyzőkönyv, valamint az olajszennyezéssel okozott károkkal kapcsolatos polgári jogi felelősségről szóló 1992. évi egyezmény kihirdetéséről szóló 2007. évi IX. törvény, a Londonban, 2001. március 23-án kelt, a bunkerolaj-szennyezéssel okozott károkkal kapcsolatos polgári jogi felelősségről szóló 2001. évi nemzetközi egyezmény kihirdetéséről szóló 2007. évi CLXV. törvény; a Londonban, 1996. május 3-án kelt, a veszélyes és ártalmas anyagok tengeri szállításával kapcsolatos felelősségről és kártérítésről szóló 1996. évi nemzetközi egyezmény kihirdetéséről szóló 2008. évi XXIII. törvény;
+
+51. Európai Unió baleseti biztosításra vonatkozó kötelező erejű jogi aktusa: a tengeri utasszállítók baleseti felelősségéről szóló, 2009. április 23-i 392/2009/EK európai parlamenti és tanácsi rendelet.

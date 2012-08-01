@@ -14,7 +14,9 @@ b) a tervezett út megtételéhez szükséges készletekkel,
 
 c) az úszólétesítményre előírt érvényes hajóokmányokkal,
 
-d) osztályozásra kötelezett úszólétesítmény esetén, érvényes osztályozási bizonyítvánnyal.
+d) osztályozásra kötelezett úszólétesítmény esetén, érvényes osztályozási bizonyítvánnyal,
+
+e) gazdasági célú tengeri hajózási tevékenységet folytató, 300 vagy ennél nagyobb bruttó tonnatartalmú hajó esetén biztosítási fedezet meglétéről szóló igazolással (a továbbiakban: biztosítási igazolás).
 
 (3) Az úszólétesítmény üzemképes, ha rendeltetésének, továbbá az engedélyezett hajózási zónára, illetőleg hajózási körzetre vonatkozó – külön jogszabályban megállapított – műszaki, biztonsági és környezetvédelmi követelményeknek megfelel.
 

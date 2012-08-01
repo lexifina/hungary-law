@@ -1,3 +1,3 @@
-## Felelősségbiztosítás
+## A biztosítás
 
 24. §

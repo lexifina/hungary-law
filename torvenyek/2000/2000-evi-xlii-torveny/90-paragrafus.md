@@ -16,4 +16,6 @@ g) az Európai Parlament és a Tanács 2006/87/EK irányelve (2006. december 12.
 
 h) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvénnyel együtt, a tengeri szállítási ágazatban bekövetkező balesetek kivizsgálására irányadó alapelvek megállapításáról, valamint az 1999/35/EK tanácsi és a 2002/59/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2009. április 23-i 2009/18/EK európai parlamenti és tanácsi irányelv, az I. és II. melléklet kivételével;
 
-i) az Európai Parlament és a Tanács 2003/88/EK irányelve (2003. november 4.) a munkaidő-szervezés egyes szempontjairól a munka törvénykönyvéről szóló 2012. évi I. törvénnyel együtt.
+i) az Európai Parlament és a Tanács 2003/88/EK irányelve (2003. november 4.) a munkaidő-szervezés egyes szempontjairól a munka törvénykönyvéről szóló 2012. évi I. törvénnyel együtt;
+
+i) a hajótulajdonosok tengeri biztosítási kárigényre vonatkozó biztosításáról szóló, 2009. április 23-i 2009/20/EK európai parlamenti és tanácsi irányelvnek a tengeri hajók kötelező biztosításáról szóló kormányrendelettel együtt.

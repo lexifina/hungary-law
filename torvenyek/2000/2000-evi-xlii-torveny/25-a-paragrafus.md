@@ -1,0 +1,5 @@
+25/A. § (1) A magyar lajstromba bejegyzett, valamint a Magyarország területi vizeire érkező külföldi lobogójú, gazdasági célú tengeri hajózási tevékenységet folytató, 300 vagy ennél nagyobb bruttó tonnatartalmú hajó a víziközlekedésben csak abban az esetben vehet részt, ha az üzemben tartó a szerződésen kívüli kárra az adott hajóra vonatkozóan érvényes biztosítási igazolással rendelkezik.
+
+(2) Az üzemben tartó a Londonban, 1976. november 19-én kelt, a tengeri követelésekkel összefüggő felelősség korlátozásáról szóló 1976. évi egyezmény és a Londonban, 1996. május 2-án kelt, az egyezmény módosításáról szóló 1996. évi jegyzőkönyv kihirdetéséről szóló törvényben meghatározott legnagyobb összegre köteles biztosítást kötni.
+
+(3) A magyar jogszabály által kihirdetett, polgári jogi felelősségre vonatkozó nemzetközi egyezményben és az Európai Unió baleseti felelősségre vonatkozó kötelező erejű jogi aktusában létrehozott rendszereknek való megfelelés nem mentesíti az üzemben tartót az e törvényben és a tengeri hajók kötelező biztosításáról szóló kormányrendeletben foglalt biztosítási kötelezettségek teljesítése alól.

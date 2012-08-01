@@ -1,0 +1,1 @@
+18/A. § Amennyiben a biztosítási igazolás hiánya miatt a hajózási hatóság a külföldi lobogójú hajó üzemeltetésének korlátozásáról vagy megtiltásáról dönt, köteles erről az Európai Bizottságot, a többi EGT-államot és a hajó lobogója szerint illetékes állam hatóságát értesíteni.
