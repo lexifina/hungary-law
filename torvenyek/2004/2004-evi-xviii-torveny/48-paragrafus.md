@@ -24,7 +24,7 @@ d) minőségvédelmi bírságot szabhat ki;
 
 e) megtilthatja a származási helyre utaló megnevezés használatát.
 
-(3) Ha a 24/A. § (5) bekezdése, illetve az 51/A. § szerinti mulasztási vagy a minőségvédelmi bírságot a határozatban megjelölt határidő lejártát követő 60 napon túl sem fizetik meg, a borászati hatóság a kötelezettségszegés súlyától és gyakoriságától függően – a fizetési kötelezettség teljesítéséig terjedő időtartamra – felfüggesztheti a borászati üzem működési engedélyét.
+(3) Ha az 51/A. § szerinti mulasztási vagy a minőségvédelmi bírságot a határozatban megjelölt határidő lejártát követő hatvan napon túl sem fizetik meg, a borászati hatóság a kötelezettségszegés súlyától és gyakoriságától függően – a fizetési kötelezettség teljesítéséig terjedő időtartamra – felfüggesztheti a borászati üzem működési engedélyét.
 
 (4) A borászati hatóság a (2) bekezdés a), c), e) pontjában felsorolt esetben a határozatot a borászati üzem helye szerint illetékes hegyközséggel is közli.
 

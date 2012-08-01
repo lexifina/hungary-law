@@ -8,7 +8,7 @@
 
 3. termőhely: ökológiai szempontból minősített, egyértelműen körülhatárolt terület, amelyet a borszőlő termőhelyi kataszterében tartanak nyilván (a továbbiakban: termőhelyi kataszter).
 
-4. borvidék: olyan termőhelyek összessége, amely több település közigazgatási területére kiterjedően hasonló éghajlati, domborzati, talajtani adottságokkal, jellemző fajtaösszetételű és művelésű ültetvényekkel, sajátos szőlő- és bortermelési hagyományokkal rendelkezik, és amelyről sajátos jellegű borászati termékek származnak; borvidékbe olyan település sorolható, amelynek a szőlő termőhelyi kataszterében nyilvántartott területe a település összes mezőgazdaságilag hasznosított területének 7%-át eléri vagy olyan település, illetve fővárosi vagy megyei jogú városi kerület, amelynek területén borászati üzem működik.
+4. borvidék: olyan termőhelyek összessége, amely több település közigazgatási területére kiterjedően hasonló éghajlati, domborzati, talajtani adottságokkal, jellemző fajtaösszetételű és művelésű ültetvényekkel, sajátos szőlő- és bortermelési hagyományokkal rendelkezik, és amelyről sajátos jellegű borászati termékek származnak.
 
 5. borvidéki dűlő: borvidéki településen belül pontosan körülhatárolt, mikroökológiájában egységes termőhely, amelynek adottságai a bor karakterére jelentős hatással vannak.
 
@@ -30,4 +30,8 @@
 
 14. borászati üzem: borászati termékek előállítására, kiszerelésére és tárolására vonatkozó működési engedéllyel rendelkező üzem.
 
-15. borászati termék: a borpiac közös szervezéséről, az 1493/1999/EK, az 1782/2003/EK, az 1290/2005/EK és a 3/2008/EK rendelet módosításáról, valamint a 2392/86/EGK és az 1493/1999/EK rendelet hatályon kívül helyezéséről szóló, 2008. április 29-i 479/2008/EK tanácsi rendelet (a továbbiakban: 479/2008/EK rendelet) IV. mellékletében szereplő szőlészeti és borászati termékek, továbbá a friss borszőlő, a töppedt borszőlő és az aszúsodott borszőlő.
+15. borászati termék: a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet (a továbbiakban: 1234/2007/EK tanácsi rendelet) XIb. mellékletében szereplő szőlészeti és borászati termékek, továbbá a friss borszőlő, a töppedt borszőlő és az aszúsodott borszőlő.
+
+16. gazdasági akta: a 479/2008/EK tanácsi rendeletnek a szőlőkataszter, a kötelező bejelentések, a piaci felügyelethez szükséges információgyűjtés, a borászati termékek fuvarozásához szükséges kísérőokmányok, valamint a borágazatban vezetendő nyilvántartás tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2009. május 26-i 436/2009/EK rendelet I. melléklet 1. pontja szerinti adattartalmú, egy természetes személyre, jogi személyre vagy jogi személyiség nélküli szervezetre vonatkozó, azonosító számmal ellátott nyilvántartás.
+
+17. telepítési jog: olyan vagyoni értékű jog, amely az 1234/2007/EK tanácsi rendelet 85h–85i. cikke szerint új telepítési jog vagy újratelepítési jog.

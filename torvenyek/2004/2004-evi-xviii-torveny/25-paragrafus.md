@@ -2,7 +2,7 @@
 
 (2) A vámhatóság a Jöt.-ben az egyszerűsített adóraktár-engedélyesekre előírt tárgyidőszakonkénti mennyiségi elszámolás benyújtási határideje hónapját követő három hónapon belül megküldi a borászati hatóságnak a tárgyidőszakra vonatkozóan – egyszerűsített adóraktár-engedélyesenként (nevét, címét, cégnevét, székhelyét, adószámát is feltüntetve) részletezve – az Európai Unió tagállamaiból összesen, továbbfeldolgozás céljából beszerzett bor mennyiségére vonatkozó adatokat, mely adatokat a borászati hatóság átadhatja az illetékes hegyközségnek.
 
-(3) Italmérésre, termelői borkimérésre való jogosultságot biztosító engedélyező határozatot az engedélyező hatóság a borászati hatósággal és a hegyközséggel is közli.
+(3)
 
 (4) Közfogyasztásra tilos forgalomba hozni
 

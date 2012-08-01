@@ -1,4 +1,4 @@
-10. § (1) Magyarországon az 1996. május 1. és 2004. április 30. között engedéllyel végzett ültetvénykivágások alapján újratelepítési jog áll fenn. A kivágási engedéllyel rendelkező újratelepítési jogát 2010. július 31-ig használhatja fel. Az ezen időszak alatt fel nem használt újratelepítési jogok a telepítési jogtartalékba kerülnek. A telepítési jogtartalékról a mezőgazdasági és vidékfejlesztési támogatási szerv nyilvántartást vezet.
+10. § (1)
 
 (2) 2004. május 1-je után engedéllyel végzett ültetvénykivágás alapján újratelepítési jogot szerző és kivágási engedéllyel rendelkező személy újratelepítési jogát a kivágástól számított nyolcadik borpiaci év (augusztus 1–július 31.) végéig jogosult felhasználni. Az ezen időszak alatt fel nem használt újratelepítési jogok a telepítési jogtartalékba kerülnek. Az újratelepítési jogra, az új telepítési jogra, valamint a telepítési jogtartalékra vonatkozó részletes szabályokat az e törvény felhatalmazása alapján kiadott rendelet határozza meg.
 

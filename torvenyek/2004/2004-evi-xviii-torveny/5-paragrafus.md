@@ -2,7 +2,7 @@
 
 5. § (1) Árutermő szőlőültetvény létesítésére és pótlására az e törvény felhatalmazása alapján kiadott rendeletben meghatározott, engedélyezettként osztályba sorolt borszőlőfajta használható fel.
 
-(2) A Szőlőfajta Használati Bizottság (a továbbiakban: SZHB) a borkészítésre alkalmas fajták engedélyezett vagy ideiglenesen engedélyezett osztályba sorolására javaslatot tesz. Az SZHB tagjait az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) kéri fel, és a tagok kétharmadát a Hegyközségek Nemzeti Tanácsa jelöli.
+(2)
 
 (3) Az osztályba sorolást megalapozó kísérleti és törzsszőlő létesítésére bármely fajta szaporítóanyaga felhasználható, amely
 
