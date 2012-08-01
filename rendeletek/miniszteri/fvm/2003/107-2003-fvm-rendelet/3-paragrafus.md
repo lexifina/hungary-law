@@ -1,1 +1,0 @@
-## 2. § Az eljáró hatóság vetőmagvak minősítésével kapcsolatos tevékenységéért – beleértve a vetőmag-szaporítások szántóföldi ellenőrzését, mintavételezését, vizsgálatát, minősítését, a vetőmag kisparcellás fajtaazonosító vizsgálatát – az eljáró hatóság részére az 1. számú mellékletben meghatározott mértékű díjat kell fizetni.
