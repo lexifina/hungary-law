@@ -1,4 +1,4 @@
-## 8. §[^2]
+## 8. § Az R1. 1/A. melléklete e rendelet 1. melléklete szerint módosul.
 
 ## 9. § Hatályát veszti az R1.
 
@@ -6,7 +6,4 @@ a) 1. § (3) bekezdésében az „ , a műemlékek” szövegrész,
 
 b) 1. § (5) bekezdésében az „és a műemléki védelem alatt álló építmények” szövegrész,
 
-c)[^3]
-
-[^2]: A 8. § a 23. § (2) bekezdése alapján 2012. augusztus 1-jén lép hatályba.
-[^3]: A 9. § c) pontja a 23. § (2) bekezdése alapján 2012. augusztus 1-jén lép hatályba.
+c) 1/B. mellékletének a BORSOD-ABAÚJ-ZEMPLÉN MEGYE alcímet követő 8. pontja.
