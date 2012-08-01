@@ -1,3 +1,3 @@
-## 5. §[^11] A bírság az azt kiszabó szerv [3. § (1) bekezdés] bevételét képezi, amelyet kizárólag az állatvédelemmel kapcsolatos kiadási többletének fedezeteként lehet felhasználni. Az állatvédelmi bírságból befolyt összeget elkülönítetten és ellenőrizhetően kell kezelni. A 3. § (1) bekezdés b) pontjában szereplő szerv által kiszabott bírság összegét az azt kiszabó szerv alszámlájára kell befizetni. A befizetett bírságok teljes összegét havonta, tárgyhót követő hónap 5. napig át kell utalni a Nemzeti Élelmiszerlánc-biztonsági Hivatal 10032000–00289782–00000000 számú számlájára.
+## 5. §[^5]
 
-[^11]: Az 5. § a 351/2010. (XII. 30.) Korm. rendelet 56. §-ával megállapított, a 23/2012. (II. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^5]: Az 5. §-t a 115/2012. (VI. 11.) Korm. rendelet 1. § (2) bekezdése hatályon kívül helyezte.
