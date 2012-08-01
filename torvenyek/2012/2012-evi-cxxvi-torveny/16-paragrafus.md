@@ -14,27 +14,7 @@ a) biztosítja a kamarai ügyfélszolgálat igénybevételét;
 
 b) az alapszabályban rögzített feltételek szerint biztosítja az agrárkamara által szervezett szakmai konferenciákon való részvételt;
 
-c) általános agrometeorológiai tájékoztatást ad;
-
-d) a tag kérelmére közreműködik a tagot érintő hatósági vagy más szerv előtti eljárás megindításához szükséges kérelem, beadvány összeállításában;
-
-e) tájékoztatást nyújt földügyekkel kapcsolatosan a földtulajdonnal, földhasználattal és földforgalmazással összefüggő kérdésekben, valamint a Nemzeti Földalapkezelő Szervezet által kiírt pályázatokkal kapcsolatosan;
-
-f) a tag kérelmére tanácsadás keretében tájékoztatást ad a tevékenységét érintő
-
-fa) közösségi, valamint nemzeti forrásból folyósított támogatási lehetőségekről és az igénybevétel feltételeiről,
-
-fb) gazdasági és jogi információkról,
-
-fc) finanszírozási lehetőségekről;
-
-g) a tag kérelmére közreműködik az egységes támogatási kérelem összeállításában és annak elektronikus benyújtásában;
-
-h) növényvédelmi előrejelzést ad;
-
-i) piaci információkat ad;
-
-j) általános információt szolgáltat a piaci szereplők minősítéséről.
+c)–j)
 
 (3) Az agrárkamara alapszabálya meghatározza a tagok részére térítés ellenében nyújtandó szolgáltatások körét.
 
