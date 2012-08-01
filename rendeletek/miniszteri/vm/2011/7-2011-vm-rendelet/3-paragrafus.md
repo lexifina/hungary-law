@@ -1,1 +1,0 @@
-## 2. § A BÜHG-nyilvántartásban szereplő biomassza-kereskedők, biomassza-feldolgozók és üzemanyag-forgalmazók nyilvántartásba vételének meghosszabbítására irányuló eljárás igazgatási szolgáltatási díja harmincötezer forint.

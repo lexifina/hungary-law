@@ -1,1 +1,0 @@
-## 3. § A biomassza-kereskedők, biomassza-feldolgozók és üzemanyag-forgalmazók által vezetett nyilvántartás változásának a BÜHG-nyilvántartásban történő átvezetésének igazgatási szolgáltatási díja húszezer forint.
