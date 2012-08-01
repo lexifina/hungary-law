@@ -1,3 +1,11 @@
-## 19. §[^19]
+20. § (1) A kötelezettektől átvett borászati melléktermékekből, illetve borokból lepárlással előállított ipari célú nyers alkohol azon mennyiségére, amelyre vonatkozóan a lepárlóüzem támogatásban részesült, a támogatási feltételek maradéktalan teljesülését az MVH utólagosan is ellenőrizheti. Az utólagos ellenőrzés kiterjedhet:
 
-[^19]: A 19. § a 23. § (2) bekezdése alapján 2012. augusztus 1-jén lép hatályba.
+a) a készleten lévő, hasznosításra még át nem adott ipari célú nyers alkoholra, annak mennyisége, illetve alkoholtartalma megállapítására,
+
+b) a hasznosított ipari célú nyers alkoholra vonatkozó nyilvántartások teljes körű ellenőrzésére,
+
+c) a 10. § (5) bekezdése, valamint 12. § (4) bekezdése alapján benyújtott jelentés összevetésére a jóváhagyott támogatási kérelmek adataival,
+
+d) a Jöt. által előírt nyilvántartások, szállítási okmányok, valamint a hasznosításra vonatkozó számlák és azok kifizetését igazoló bizonylatok ellenőrzésére, a jóváhagyott támogatási kérelmek adataival való összevetésére.
+
+(2) Az utólagos ellenőrzések során felvett készlet-adatok meghatározásakor a jövedéki termékek veszteségnormáiról szóló miniszteri rendelet rendelkezései tekintendők irányadónak.

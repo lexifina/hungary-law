@@ -1,3 +1,1 @@
-## 24. §[^23]
-
-[^23]: A 24. § a 23. § (2) bekezdése alapján 2012. augusztus 1-jén lép hatályba.
+## végrehajtásához szükséges rendelkezéseket állapít meg.

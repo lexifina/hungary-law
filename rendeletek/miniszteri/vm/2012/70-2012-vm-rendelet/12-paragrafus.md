@@ -1,3 +1,29 @@
-## 11. §[^11]
+12. § (1) Támogatás igénybevételére jogosult minden olyan Magyarországon bejegyzett lepárlóüzem, amely a leadott borászati melléktermékekből ipari célú nyers alkoholt állít elő.
 
-[^11]: A 11. § a 23. § (2) bekezdése alapján 2012. augusztus 1-jén lép hatályba.
+(2) A lepárlóüzemnek rendelkeznie kell
+
+a) a borászati melléktermékek átvételének és az alkoholok leadásának technikai és személyi feltételeivel,
+
+b) mintaraktárral, amelyben a beszállított, átmenetileg tárolt és kiszállított borászati melléktermékek mintáinak szakszerű és biztonságos tárolása megoldható, legalább a leadott borászati melléktermék átvételi bizonylatának 10. § (3) bekezdés szerinti aláírásáig,
+
+c) az Európai Unión belül alkalmazott vagy az OIV előírásai szerinti mérési módszerek alkalmazásához szükséges feltételekkel (súly, nedvességtartalom, cukortartalom, alkoholtartalom meghatározása), amennyiben a vizsgálatokat nem akkreditált laboratóriumban végezteti,
+
+d) a 9. § szerinti megállapodással.
+
+(3) A lepárlóüzem írásbeli nyilatkozatában vállalja, hogy:
+
+a) a szőlőfeldolgozótól vagy a borkészítőtől a 9. §-ban meghatározott módon átvett egy vagy több fajta borászati mellékterméket saját költségére párolja le,
+
+b) a szőlőfeldolgozó vagy borkészítő által beszállított borászati melléktermékeknek közvetlenül a lepárlóüzembe történő beszállítása esetén megfizeti a 9. § (4) és (5) bekezdésében meghatározottak alapján számított beszállítási költségeket a beszállítást követő 90 napon belül,
+
+c) az átvett borászati melléktermékeket a 11. § (2) bekezdésében meghatározott időpontig lepárolja,
+
+d) a támogatott lepárlással előállított nyersalkoholt kizárólag ipari, illetve energetikai felhasználásra értékesíti, vagy hasznosítja,
+
+e) biztosítja a borászati melléktermékből származó ipari célú nyers alkoholnak az üzemben keletkezett többi alkoholfajtától történő elkülönített tárolását,
+
+f) a feltételekkel kapcsolatos bármely változást az eseménytől számított 15 napon belül bejelenti az MVH-nak, és egyidejűleg csatolja a változást alátámasztó dokumentumokat.
+
+(4) A lepárlóüzem borpiaci évenként a feldolgozott borászati melléktermékekről kötelezettenként tételes kimutatást vezet. A kimutatást – az MVH által rendszeresített és honlapján közzétett nyomtatványon – az adott borpiaci évet követő augusztus 15-ig az MVH részére kell megküldeni.
+
+(5) A (4) bekezdés szerinti nyomtatvány tartalmazza a 10. § (5) bekezdésében foglaltakon túl a borászati melléktermék lepárlása során előállított alkoholmennyiség hektoliterben kifejezett térfogatszázalékát.

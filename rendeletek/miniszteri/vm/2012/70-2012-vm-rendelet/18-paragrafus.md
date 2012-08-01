@@ -1,3 +1,3 @@
-## 17. §[^17]
+18. § (1) Az MVH a támogatási kérelmet érdemi vizsgálat nélkül elutasítja, amennyiben a kérelmező nem tett eleget a 11. § (1) bekezdés szerinti bejelentési kötelezettségnek.
 
-[^17]: A 17. § a 23. § (2) bekezdése alapján 2012. augusztus 1-jén lép hatályba.
+(2) Az MVH a kérelmet elutasítja, amennyiben a 15. § (2) bekezdésében országos szinten meghatározott alkoholmennyiség támogatására már sor került.

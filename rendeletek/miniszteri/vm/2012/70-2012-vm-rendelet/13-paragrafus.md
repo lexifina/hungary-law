@@ -1,5 +1,9 @@
-## 12. §[^12]
-
 ## 10. A szőlőfeldolgozás és a borkészítés során keletkező melléktermékek támogatással történő lepárlása
 
-[^12]: A 12. § a 23. § (2) bekezdése alapján 2012. augusztus 1-jén lép hatályba.
+13. § (1) Borászati melléktermékek lepárlás útján történő megsemmisítése esetében az 555/2008/EK bizottsági rendelet 25. cikkének (1) bekezdésében meghatározott mértékű támogatás igényelhető.
+
+(2) A forintban kifejezett támogatási összeg meghatározásakor az euróval kapcsolatos agromonetáris rendszernek a mezőgazdaságban való alkalmazására vonatkozó részletes szabályok megállapításáról és egyes rendeletek módosításáról szóló, 2006. december 20-i 1913/2006/EK bizottsági rendelet 4. cikkének (2) bekezdésében meghatározott, az Európai Központi Bank által jegyzett forint/euró átváltási árfolyamot kell figyelembe venni.
+
+(3) Az 1234/2007/EK tanácsi rendelet 103k. cikke szerint elkészített és az Európai Bizottság részére benyújtott és elfogadott Nemzeti Támogatási Program 1. számú mellékletében foglaltaknak megfelelően az aktuális borpiaci évre vonatkozóan az e rendelet alapján kifizethető támogatási keretösszegről a miniszter az adott borpiaci év augusztus 1-jéig tájékoztatja az MVH-t, amely a keretösszegről közleményt tesz közzé.
+
+(4) A (3) bekezdésben meghatározott keretösszeg változásáról a miniszter haladéktalanul tájékoztatja az MVH-t, amely a keretösszegről közleményt tesz közzé.
