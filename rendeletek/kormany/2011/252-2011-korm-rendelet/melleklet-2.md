@@ -14,7 +14,7 @@
 
 | 6. | kulturális örökségvédelmi hatósági engedélyek | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
-| 7. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Heves Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
 | 8. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások | Heves Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -22,7 +22,7 @@
 
 | 10. | a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet szerinti engedélyek | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 11. | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Heves Megyei Katasztrófavédelmi Igazgatóság | Országos Katasztrófavédelmi Főigazgatóság |
+| 11. | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
 2. melléklet a 252/2011. (XII. 1.) Korm. rendelethez
 

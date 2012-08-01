@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-252-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-12-02 | 2011-252-20-22.1 | 252/2011. (XII. 1.) Korm. rendelet |
+| 2012-08-01 | 2011-252-20-22.2 | 166/2012. (VII. 19.) Korm. rendelet |
