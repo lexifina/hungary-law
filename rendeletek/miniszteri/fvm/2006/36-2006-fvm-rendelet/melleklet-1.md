@@ -1,3 +1,3 @@
-1. számú melléklet a 36/2006. (V. 18.) FVM rendelethez[^35]
+1. számú melléklet a 36/2006. (V. 18.) FVM rendelethez[^48]
 
-[^35]: Az 1. számú melléklet a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése szerint módosított szöveg.
+[^48]: Az 1. számú melléklet a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése szerint módosított szöveg.

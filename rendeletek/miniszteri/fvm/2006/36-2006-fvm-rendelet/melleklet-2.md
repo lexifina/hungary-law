@@ -4,11 +4,11 @@
 
 ## 2. A termésnövelő anyag típusa, az 1. számú melléklet függeléke szerint.
 
-## 3.[^36] Gyártó és az engedély jogosultjának neve, címe és statisztikai számjele.
+## 3.[^49] Gyártó és az engedély jogosultjának neve, címe és statisztikai számjele.
 
 ## 4. A kérelmező neve, címe és statisztikai számjele.
 
-## 5. A készítmény teljes összetétele, hatóanyagok, alapanyagok, szennyező anyagok megnevezése és koncentrációja.
+## 5.[^50] A készítmény teljes összetétele, a hatóanyagok, valamint a szennyező anyagok megnevezése és koncentrációja, az alapanyagok származási helye és koncentrációja.
 
 ## 6. A gyártó által szavatolt minőségi jellemzők.
 
@@ -36,7 +36,7 @@
 
 ## 15.3. Az engedélyezési eljárási díj befizetésének igazolása.
 
-## 15.4.[^37]
+## 15.4.[^51]
 
 ## 15.5. A külön jogszabály szerint kockázatos anyagot tartalmazó termésnövelő anyagok esetén annak bemutatása, hogyan viselkednek a kockázatos anyagok a talajban, milyen hatással vannak a felszín alatti vizekre.
 
@@ -206,7 +206,7 @@
 
 – kelátképző anyag.
 
-1.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:[^38]
+1.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:[^52]
 
 – P, K, NPK műtrágyák: As, Cd, Cr, Hg, Ni, Pb,
 
@@ -268,7 +268,7 @@ Amennyiben a műtrágya előállításához hulladékot (is) használtak fel, a 
 
 – szervesanyag-tartalom,
 
-–[^39]
+–[^53]
 
 – szemcseméret eloszlás,
 
@@ -276,7 +276,7 @@ Amennyiben a műtrágya előállításához hulladékot (is) használtak fel, a 
 
 2.2. Toxikus elemek vizsgálata 3 x 1 kg mintából:
 
-– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^40]
+– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^54]
 
 2.3. Szerves szennyezők vizsgálata
 
@@ -312,7 +312,7 @@ Amennyiben a szerves trágya előállításához hulladékot (is) használtak fe
 
 – Humán parazita bélféreg peteszám meghatározása.
 
-2.6.2.[^41]
+2.6.2.[^55]
 
 2.7. Amennyiben a szerves trágya előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további ökotoxikológiai (Daphnia-teszt, halteszt, algateszt) és egyéb vizsgálatok is elrendelhetőek.
 
@@ -338,7 +338,7 @@ Amennyiben a szerves trágya előállításához hulladékot (is) használtak fe
 
 3.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:
 
-– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^42]
+– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^56]
 
 3.3. Biológiai hatás vizsgálata: 2 szántóföldi, illetve 2 kertészeti tesztnövénnyel, növényenként legalább egy szabadföldi és egy tenyészedényes vizsgálat végzése.
 
@@ -430,7 +430,7 @@ A komposzt előállításához felhasznált hulladék minőségétől függően 
 
 5.2. Toxikus elemek vizsgálata 3 x 1 kg mintából:
 
-– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^43]
+– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^57]
 
 5.3. Szerves szennyezők vizsgálata
 
@@ -666,7 +666,7 @@ Amennyiben a talajjavító anyag előállításához hulladékot (is) használta
 
 7.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:
 
-– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^44]
+– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^58]
 
 7.3. Szerves szennyezők vizsgálata
 
@@ -704,7 +704,7 @@ Amennyiben a talajkondicionáló készítmény előállításához hulladékot (
 
 8.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:
 
-– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^45]
+– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^59]
 
 8.3. Mikrobiológiai minősítés 3 x 1 kg vagy liter mintából.
 
@@ -764,7 +764,7 @@ Amennyiben a talajkondicionáló készítmény előállításához hulladékot (
 
 9.2. Toxikus elemek vizsgálata 3 x 1 kg mintából:
 
-– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^46]
+– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^60]
 
 9.3. Szerves szennyezők vizsgálata
 
@@ -820,7 +820,7 @@ Amennyiben a termesztőközeg előállításához hulladékot (is) használtak f
 
 10.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:
 
-– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^47]
+– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^61]
 
 10.3. Szerves szennyezők vizsgálata
 
@@ -856,15 +856,16 @@ Amennyiben a növénykondicionáló készítmény előállításához hulladéko
 
 Az anyag minőségétől függően az engedélyező hatóság esetenként adja meg a szükséges vizsgálatok körét.
 
-[^36]: Az 1. számú melléklet 3. pontja a 10/2010. (II. 4.) FVM rendelet 12. §-ával megállapított szöveg.
-[^37]: Az 1. számú melléklet 15.4. pontját a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^38]: Amennyiben a műtrágya előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikus elemek vizsgálata is elrendelhető.
-[^39]: A 2. számú melléklet 2.1. pont hatodik franciabekezdését a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^40]: A hulladékot is tartalmazó készítményeknél.
-[^41]: A 2. számú melléklet 2.6.2. pontját a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^42]: A hulladékot is tartalmazó készítményeknél.
-[^43]: A hulladékot is tartalmazó készítményeknél.
-[^44]: A hulladékot is tartalmazó készítményeknél.
-[^45]: A hulladékot is tartalmazó készítményeknél.
-[^46]: A hulladékot is tartalmazó készítményeknél.
-[^47]: A hulladékot is tartalmazó készítményeknél.
+[^49]: Az 1. számú melléklet 3. pontja a 10/2010. (II. 4.) FVM rendelet 12. §-ával megállapított szöveg.
+[^50]: Az 1. melléklet 5. pontja a 72/2012. (VII. 24.) VM rendelet 8. §-ával megállapított szöveg.
+[^51]: Az 1. számú melléklet 15.4. pontját a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^52]: Amennyiben a műtrágya előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikus elemek vizsgálata is elrendelhető.
+[^53]: A 2. számú melléklet 2.1. pont hatodik franciabekezdését a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^54]: A hulladékot is tartalmazó készítményeknél.
+[^55]: A 2. számú melléklet 2.6.2. pontját a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^56]: A hulladékot is tartalmazó készítményeknél.
+[^57]: A hulladékot is tartalmazó készítményeknél.
+[^58]: A hulladékot is tartalmazó készítményeknél.
+[^59]: A hulladékot is tartalmazó készítményeknél.
+[^60]: A hulladékot is tartalmazó készítményeknél.
+[^61]: A hulladékot is tartalmazó készítményeknél.

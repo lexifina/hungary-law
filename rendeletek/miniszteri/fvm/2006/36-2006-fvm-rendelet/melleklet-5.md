@@ -1,6 +1,6 @@
 ## Az engedélyezett termésnövelő anyag csomagolóeszközén, valamint a 100 kg nettó tömeget meghaladó ömlesztett áru kísérő okmányán feltüntetendő adatok
 
-## 1.[^49] Az engedély száma és hatálya.
+## 1.[^63] Az engedély száma és hatálya.
 
 ## 2. A termésnövelő anyag kereskedelmi neve (feltűnő helyen, egyértelműen, olvashatóan).
 
@@ -32,11 +32,11 @@
 
 ## 16. Egyéb előírások.
 
-## 4. számú melléklet függeléke
+## 4. számú melléklet függeléke[^64]
 
 ## A tápelemek feltüntetésére vonatkozó előírások
 
-## 1. A csomagoláson, címkén, illetve a kísérőokmányon a tápelemeket vegyjellel és betűvel is, a táblázat szerinti elemi és oxidos formában kell feltüntetni. A táblázat tartalmazza az elemi és oxidos forma közötti átváltás vonatkozó szorzószámait. A tápelemek sorrendje egyben a felsorolás kötelező sorrendjét is jelenti.
+## 1. A műtrágyák csomagolásán, címkéjén, illetve kísérőokmányán a tápelemeket vegyjellel és betűvel is, a táblázat szerinti elemi és oxidos formában kell feltüntetni. A táblázat tartalmazza az elemi és oxidos forma közötti átváltás vonatkozó szorzószámait. A tápelemek sorrendje egyben a felsorolás kötelező sorrendjét is jelenti.
 
 ## 2. A szilárd műtrágyák tápelem-tartalmát tömegszázalékban (m/m%), a folyékony műtrágyákét vegyes százalékban (m/v%) kell feltüntetni. A makro- és mezoelemeket egész számokban, adott esetben egy tizedes helyig kell megadni.
 
@@ -96,4 +96,5 @@ e) kezelések adatai (dózis, koncentráció, fenofázis, kezelés módja, felha
 
 f) értékelési szempontok.
 
-[^49]: A 4. számú melléklet 1. pontja a 10/2010. (II. 4.) FVM rendelet 13. § (4) bekezdése szerint módosított szöveg.
+[^63]: A 4. számú melléklet 1. pontja a 10/2010. (II. 4.) FVM rendelet 13. § (4) bekezdése szerint módosított szöveg.
+[^64]: A 4. számú melléklet függeléke a 72/2012. (VII. 24.) VM rendelet 9. § e) pontja szerint módosított szöveg.
