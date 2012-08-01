@@ -1,0 +1,1 @@
+8. § Az ingatlanügyi hatóság az agrárgazdasági tevékenységet folytató agrárkamarai tag földhasználati nyilvántartásban szereplő adataiban bekövetkezett változásról a változás átvezetésével egyidejűleg értesíti az agrárkamarát.

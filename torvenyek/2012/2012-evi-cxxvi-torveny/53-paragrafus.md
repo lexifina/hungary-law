@@ -1,0 +1,1 @@
+53. § Felhatalmazást kap a kormány, hogy rendeletben határozza meg az ingatlanügyi hatóság, az adóhatóság, a mezőgazdasági és vidékfejlesztési támogatási szerv és a mezőgazdasági szakigazgatási szerv általi adatszolgáltatási kötelezettség szabályait.

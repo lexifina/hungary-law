@@ -1,0 +1,1 @@
+Az Országgyűlés az agrár- és élelmiszergazdaság, valamint a vidékfejlesztés ágazatainak erősítése, a gazdák és gazdálkodók piacra jutásának elősegítése, az agrár- és élelmiszergazdaság szereplőinek széleskörű integrálása és összérdekének képviselete érdekében a következő törvényt alkotja:

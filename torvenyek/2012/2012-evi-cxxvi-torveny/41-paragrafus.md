@@ -1,0 +1,23 @@
+## VIII. Fejezet
+
+## AZ AGRÁRKAMARA MŰKÖDÉSÉNEK PÉNZÜGYI FORRÁSAI
+
+41. § (1) Az agrárkamara a közfeladatai ellátásával, illetve működésével járó költségeket a következő bevételekből fedezi:
+
+a) tagdíjakból;
+
+b) kamarai hozzájárulásból;
+
+c) az agrárkamara szolgáltatásaiért fizetett díjakból;
+
+d) az agrárkamara által alapított gazdasági társaság tevékenységéből származó bevételből;
+
+e) a költségvetési törvényben megállapított támogatásból;
+
+f) egyéb bevételekből, ideértve az önkéntesen felajánlott hozzájárulásokat is.
+
+(2) Az agrárkamara alanyi adó- és illetékmentességet élvez.
+
+(3) Az (1) bekezdés e) pontjában megállapított, az agrárkamara közfeladatainak ellátásához kapcsolódó költségvetési támogatást a miniszter által vezetett minisztérium költségvetési fejezetében kell megtervezni.
+
+(4) A költségvetési támogatás felhasználásáról az agrárkamara évente beszámol a miniszternek.

@@ -1,0 +1,19 @@
+2. § E törvény alkalmazásában
+
+a) gazda: Magyarország területén lakóhellyel, tartózkodási hellyel, illetve székhellyel vagy telephellyel rendelkező agrárgazdasági tevékenységet folytató természetes személy, ide értve az egyéni vállalkozót is;
+
+b) gazdálkodó szervezet: Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező agrárgazdasági tevékenységet főtevékenységként folytató jogi személy vagy jogi személyiség nélküli gazdasági társaság, egyéb állami gazdálkodó szerv, egyéni cég, szövetkezet, egyesülés, egyes jogi személyek vállalata, leányvállalat, erdő-birtokossági társulat, európai szövetkezet, európai részvénytársaság;
+
+c) agrárkamara tagja: a kamarai tagjegyzékbe bejegyzett gazda, gazdálkodó szervezet;
+
+d) agrárgazdasági tevékenység: az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek, a mezőgazdasági termelés, a mezőgazdasági termékek feldolgozása, a szőlő termelése, feldolgozása, az erdőgazdálkodás, a halgazdálkodás, a vadgazdálkodás, az élelmiszer feldolgozása, valamint az ezekhez kapcsolódó, közvetlen ipari, kereskedelmi, szolgáltató tevékenységek;
+
+e) gazdasági kamara: a kereskedelmi és iparkamara és az agrárkamara;
+
+f) közeli hozzátartozó: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pontja szerint meghatározott személy;
+
+g) szakmai kamara: meghatározott szakmát gyakorló személyek törvény által létrehozott köztestülete;
+
+h) ÖVTJ: az önálló vállalkozók tevékenységi jegyzéke bevezetéséről és alkalmazásáról szóló mindenkor hatályos jogszabályban meghatározott tevékenységek jegyzéke;
+
+i) TEÁOR: a mindenkor hatályos gazdasági tevékenységek egységes ágazati osztályozási rendszere, amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeletnek felel meg.
