@@ -14,7 +14,7 @@
 
 | 6. | kulturális örökségvédelmi hatósági engedélyek | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
-| 7. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | hivatásos katasztrófavédelmi szerv központi szerve |
+| 7. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
 | 8. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások | Fővárosi Katasztrófavédelmi Igazgatóság | hivatásos katasztrófavédelmi szerv központi szerve |
 
@@ -22,7 +22,7 @@
 
 | 10. | a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 11. | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Fővárosi Katasztrófavédelmi Igazgatóság | hivatásos katasztrófavédelmi szerv központi szerve |
+| 11. | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
 2. melléklet a 142/2011. (VII. 21.) Korm. rendelethez[^2]
 
@@ -36,7 +36,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 3. | tűzvédelem | Fővárosi Katasztrófavédelmi Igazgatóság | hivatásos katasztrófavédelmi szerv központi szerve |
 
-| 4. | katasztrófavédelem | Országos Katasztrófavédelmi Főigazgatóság | katasztrófák elleni védekezésért felelős miniszter |
+| 4. | katasztrófavédelem | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 5. | kulturális örökségvédelem | Budapest Főváros Kormányhivatala Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -44,4 +44,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 7. | környezetvédelem, természetvédelem és vízügy | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-[^2]: Az 1. melléklet a 259/2011. (XII. 7.) Korm. rendelet 22. § (1)–(2) bekezdése szerint módosított szöveg.
+[^2]: Az 1. melléklet a 259/2011. (XII. 7.) Korm. rendelet 22. § (1)–(2) bekezdése, a 166/2012. (VII. 19.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
