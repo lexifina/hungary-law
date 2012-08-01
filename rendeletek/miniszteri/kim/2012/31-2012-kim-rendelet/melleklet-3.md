@@ -3008,6 +3008,6 @@
 
 ## Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.”
 
-3–7. melléklet a 31/2012. (VI. 29.) KIM rendelethez[^25]
+3–7. melléklet a 31/2012. (VI. 29.) KIM rendelethez[^21]
 
-[^25]: A 3–7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 3–7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

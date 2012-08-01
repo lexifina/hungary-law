@@ -1,4 +1,4 @@
-## 18. §[^22]
+## 18. §[^18]
 
 ## 19. A civil szervezetek bírósági eljárásokban alkalmazandó űrlapjairól szóló 11/2012. (II. 29.) KIM rendelet módosítása
 
@@ -24,7 +24,7 @@
 
 ## 8.6. az alapítvány céljaira az alapítvány céljára rendelt vagyont meghaladó minden vagyon felhasználható”
 
-(3)[^23]
+(3)[^19]
 
 (4) A civil szervezetek bírósági eljárásokban alkalmazandó űrlapjairól szóló 11/2012. (II. 29.) KIM rendelet
 
@@ -40,5 +40,5 @@ e) 41. melléklet 12.5. pontjában a „szétválásáról vagy feloszlásáról
 
 f) 41. melléklet 14.2. pontjában a „legalább” szövegrész a „több mint” szöveggel
 
-[^22]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 19. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 19. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
