@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-98-00-00
 | 2012-01-01 | 2011. évi CLXXVI. törvény | 2006-98-00-00.23 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 2006-98-00-00.24 |
 | 2012-07-01 | 2012. évi LXXIX. törvény | 2006-98-00-00.25 |
+| 2012-08-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2006-98-00-00.26 |
