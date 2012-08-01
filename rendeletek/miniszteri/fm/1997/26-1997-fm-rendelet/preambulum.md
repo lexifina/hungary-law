@@ -1,1 +1,0 @@
-A takarmányok előállításáról és forgalomba hozataláról szóló 1995. évi XCII. törvény (a továbbiakban: törvény) 20. §-a (1) bekezdésnek h) pontjában, valamint az illetékekről szóló 1990. évi XCIII. törvény 67. §-ának (2) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
