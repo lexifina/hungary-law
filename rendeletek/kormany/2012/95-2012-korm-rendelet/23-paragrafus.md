@@ -22,15 +22,15 @@ b) a 8. §-ban foglalt feladatai ellátása érdekében a TÁMOP 5.5.7. „Beteg
 
 (8) A 2012. január 1-jét megelőzően meghozott közigazgatási hatósági döntés bírósági felülvizsgálata során alperesként és a megismételt eljárásban az a közigazgatási szerv jár el, amelynek hatáskörébe a közigazgatási ügy 2012. január 1-jét megelőzően tartozott. Ha a közigazgatási döntés meghozatalára a Hivatal szakhatósági állásfoglalása alapulvételével került sor, az alperes a Hivatalt hívhatja perbe. Az alperes megismételt eljárásra utasítása esetén a bírósági ítélet végrehajtásához szükséges szakhatósági állásfoglalást az alperesként eljárt közigazgatási szerv megkeresésére a rehabilitációs szakigazgatási szerv készíti el.
 
-(9)[^1] A fővárosi és megyei kormányhivatalokat a rehabilitációs szakigazgatási szervek számára e rendeletben meghatározott, 2012. július 1-jét megelőzően a Hivatal regionális igazgatóságainak kirendeltségei által ellátott feladat- és hatáskörök, valamint azok ellátásához kapcsolódó jogviszonyok tekintetében jogutódnak kell tekinteni.
+(9)[^2] A fővárosi és megyei kormányhivatalokat a rehabilitációs szakigazgatási szervek számára e rendeletben meghatározott, 2012. július 1-jét megelőzően a Hivatal regionális igazgatóságainak kirendeltségei által ellátott feladat- és hatáskörök, valamint azok ellátásához kapcsolódó jogviszonyok tekintetében jogutódnak kell tekinteni.
 
-(10)[^2] Budapest Főváros Kormányhivatala Rehabilitációs Szakigazgatási Szervét a számára a 15. § (2) bekezdésében meghatározott, 2012. július 1-jét megelőzően a Nyugdíjfolyósító Igazgatóság által ellátott feladat- és hatáskörök, valamint azok ellátásához kapcsolódó jogviszonyok tekintetében jogutódnak kell tekinteni.
+(10)[^3] Budapest Főváros Kormányhivatala Rehabilitációs Szakigazgatási Szervét a számára a 15. § (2) bekezdésében meghatározott, 2012. július 1-jét megelőzően a Nyugdíjfolyósító Igazgatóság által ellátott feladat- és hatáskörök, valamint azok ellátásához kapcsolódó jogviszonyok tekintetében jogutódnak kell tekinteni.
 
-(11)[^3] Budapest Főváros Kormányhivatala Rehabilitációs Szakigazgatási Szervét a számára e rendeletben meghatározott, 2012. július 1-jét megelőzően a Pest Megyei Kormányhivatal Munkaügyi Központja által ellátott feladat- és hatáskörök, valamint azok ellátásához kapcsolódó kormányzati szolgálati jogviszonyok tekintetében jogutódnak kell tekinteni.
+(11)[^4] Budapest Főváros Kormányhivatala Rehabilitációs Szakigazgatási Szervét a számára e rendeletben meghatározott, 2012. július 1-jét megelőzően a Pest Megyei Kormányhivatal Munkaügyi Központja által ellátott feladat- és hatáskörök, valamint azok ellátásához kapcsolódó kormányzati szolgálati jogviszonyok tekintetében jogutódnak kell tekinteni.
 
-(12)[^4] A Hivatalt a számára az 1. § b) pontjában meghatározott, 2012. július 1-jét megelőzően az Országos Nyugdíjbiztosítási Főigazgatóság által ellátott feladat- és hatáskörök, valamint azok ellátásához kapcsolódó jogviszonyok tekintetében jogutódnak kell tekinteni.
+(12)[^5] A Hivatalt a számára az 1. § b) pontjában meghatározott, 2012. július 1-jét megelőzően az Országos Nyugdíjbiztosítási Főigazgatóság által ellátott feladat- és hatáskörök, valamint azok ellátásához kapcsolódó jogviszonyok tekintetében jogutódnak kell tekinteni.
 
-[^1]: A 23. § (9) bekezdését a 132/2012. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
-[^2]: A 23. § (10) bekezdését a 132/2012. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
-[^3]: A 23. § (11) bekezdését a 132/2012. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
-[^4]: A 23. § (12) bekezdését a 132/2012. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
+[^2]: A 23. § (9) bekezdését a 132/2012. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
+[^3]: A 23. § (10) bekezdését a 132/2012. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
+[^4]: A 23. § (11) bekezdését a 132/2012. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
+[^5]: A 23. § (12) bekezdését a 132/2012. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
