@@ -6,9 +6,10 @@
 
 (3)[^61] Az azonosító jelet a nagyvad hátsó lábán a csánk fölött – a horgasinat (Achilles-ín) befoglalóan – a nagyvad birtokbavételét követően azonnal be kell helyezni. A behelyezéskor az elejtés, illetve a birtokbavétel hónapját és napját az azonosító jelről el kell távolítani. A vad elszállítását csak azonosító jellel történt megjelölését követően szabad megkezdeni.
 
-(4) Az azonosító jel díja darabonként száz forint, amit a vadászterület fekvése szerint illetékes megyei kormányhivatal – a fővárosi és megyei kormányhivatalok mezőgazdasági szakigazgatási szerveinek kijelöléséről szóló 328/2010. (XII. 27.) Korm. rendelet 1. § (1) bekezdés d) pontja szerinti – földművelésügyi igazgatóságának számlájára, a vadászati hatóság által meghatározott módon kell teljesíteni.
+(4)[^62]
 
 [^58]: A Vhr. 43. §-a a 30/2011. (IV. 27.) VM rendelet 1. §-ával megállapított szöveg.
 [^59]: A Vhr. 43. § (1) bekezdése a 45/2012. (V. 8.) VM rendelet 34. § (2) bekezdés szerint módosított szöveg.
 [^60]: A Vhr. 43. § (2) bekezdése a 30/2011. (IV. 27.) 1. §-ával megállapított szöveg.
 [^61]: A Vhr. 43. § (3) bekezdése a 45/2012. (V. 8.) VM rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^62]: A Vhr. 43. § (4) bekezdését a 63/2012. (VII. 2.) VM rendelet 13. § (1) bekezdés k) pontja hatályon kívül helyezte.

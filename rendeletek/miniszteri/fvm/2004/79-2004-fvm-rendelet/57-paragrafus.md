@@ -2,6 +2,6 @@
 
 (2) A Vadászvizsga Főkönyv nyilvántartó lapját a vizsgát követően a vizsgabizottság tagjainak aláírásukkal kell hitelesíteni. A Vadászvizsga Főkönyv nem selejtezhető.
 
-(3)[^82] A vadászkamara területi szervezete az állami vadászvizsgát tett személyek listáját a Vadászvizsga Főkönyv alapján negyedévente megküldi a vadászati hatóságnak.
+(3)[^83] A vadászkamara területi szervezete az állami vadászvizsgát tett személyek listáját a Vadászvizsga Főkönyv alapján negyedévente megküldi a vadászati hatóságnak.
 
-[^82]: A Vhr. 57. § (3) bekezdését az 56/2005. (VI. 25.) FVM rendelet 16. §-a iktatta be, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^83]: A Vhr. 57. § (3) bekezdését az 56/2005. (VI. 25.) FVM rendelet 16. §-a iktatta be, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.

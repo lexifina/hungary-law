@@ -1,4 +1,4 @@
-## I.[^158]
+## I.[^160]
 
 ## VADÁSZVIZSGA BIZONYÍTVÁNY
 
@@ -54,4 +54,4 @@
 
 TRÓFEÁS VAD KOROSZTÁLY BESOROLÁSA
 
-[^158]: A Vhr. 15. számú melléklet I. része az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^160]: A Vhr. 15. számú melléklet I. része az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
