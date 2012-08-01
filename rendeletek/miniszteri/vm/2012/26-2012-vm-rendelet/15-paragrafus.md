@@ -1,3 +1,1 @@
-## 14. §[^1]
-
-[^1]: A 14. § a 13. § (2) bekezdése alapján 2012. augusztus 1-jén lép hatályba.
+## 14. § Hatályát veszti a 2011. évi lakossági víz- és csatornaszolgáltatás-támogatás igénylésének és elbírálásának részletes feltételeiről, valamint az egészséges ivóvízzel való ellátás ideiglenes módozatainak ellentételezéséről szóló 31/2011. (IV. 28.) VM rendelet.
