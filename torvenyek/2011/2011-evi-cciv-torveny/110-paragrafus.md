@@ -16,17 +16,7 @@ c) a tehetséggondozási tevékenység előmozdítását ösztönző támogatás
 
 d) a felsőoktatási intézmény tehetséggondozó rendszere elveit,
 
-13.
-
-14.
-
-15.
-
-16.
-
-17.
-
-18.
+13-18.
 
 19. a MAB működésével, hatáskörével, a Felsőoktatási Tervezési Testület létrehozásával, működésével kapcsolatos kérdéseket,
 

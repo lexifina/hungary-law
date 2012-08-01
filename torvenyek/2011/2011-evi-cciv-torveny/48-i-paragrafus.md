@@ -1,0 +1,3 @@
+48/I. § (1) A hallgatói szerződések nyilvántartásáért felelős szerv a nyilvántartása alapján a magyar állami (rész)ösztöndíjas hallgatóval évente közli az általa igénybe vett állami ösztöndíj aktuális összegét.
+
+(2) A hallgatói szerződések nyilvántartásáért felelős szerv a magyar állami (rész)ösztöndíjjal támogatott képzés befejezésének, vagy ha a magyar állami (rész)ösztöndíjas hallgató az adott képzést nem fejezi be, a hallgatói jogviszony megszűnésének időpontjától számított hatvan napon belül közli a volt magyar állami (rész)ösztöndíjas hallgatóval az adott képzésen általa igénybe vett állami ösztöndíj teljes összegét. Ezen alcím alkalmazásában a képzés befejezésének időpontja az adott képzésben a végbizonyítvány kiállításának napja.

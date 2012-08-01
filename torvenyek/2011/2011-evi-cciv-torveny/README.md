@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-204-00-00
 | 2012-07-05 | 32/2012. (VII. 4.) AB határozat | 2011-204-00-00.3 |
 | 2012-07-30 | 2012. évi CXXIII. törvény | 2011-204-00-00.4 |
 | 2012-07-31 | 2012. évi CXXIII. törvény | 2011-204-00-00.5 |
+| 2012-08-01 | 2012. évi CXXIII. törvény | 2011-204-00-00.6 |
