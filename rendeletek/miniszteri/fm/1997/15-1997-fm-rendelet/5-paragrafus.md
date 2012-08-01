@@ -1,1 +1,0 @@
-## 4. § Az ebtartónak a veszélyes ebek ivartalanítására vonatkozó írásbeli kérelmét az eljáró állatorvos köteles hét munkanapon belül a 3. §-ban előírt jelentés mellékleteként megküldeni a területileg illetékes állomásnak.

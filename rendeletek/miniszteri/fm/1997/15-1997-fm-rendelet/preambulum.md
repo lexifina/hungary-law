@@ -1,1 +1,0 @@
-Az állam- és közbiztonságról szóló – többször módosított – 1974. évi 17. törvényerejű rendelet – (a továbbiakban: Tvr.) 8. § (7) bekezdésének b) pontjában kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:

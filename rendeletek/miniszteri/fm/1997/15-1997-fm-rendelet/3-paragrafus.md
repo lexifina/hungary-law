@@ -1,1 +1,0 @@
-## 2. § A veszélyes és veszélyessé minősített ebek fájdalommentes kiirtását a jegyző határozata alapján az eb tartási helye szerint illetékes állategészségügyi és élelmiszer-ellenőrző állomás (a továbbiakban: állomás) által kijelölt hatósági állatorvosok végzik. A kiirtás költségei az állat tulajdonosát terhelik.
