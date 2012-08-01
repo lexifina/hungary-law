@@ -50,7 +50,7 @@ w) a családok átmeneti otthona által működtetett krízisközpont finanszír
 
 x) a megyei fenntartó kijelölését,
 
-y) a rendszeres gyermekvédelmi kedvezményhez kapcsolódó 20/A. § szerinti támogatás természetbeni formában történő nyújtásának feltételeit és eljárási szabályait,
+y)
 
 z) a gyermekétkeztetésre vonatkozó részletes szabályokat.
 
