@@ -1,18 +1,28 @@
 ## Nyomtatványok[^54]
 
-54/A. §[^55] (1) A MOKK az 1. § (1) bekezdés i) pontjában meghatározott ügyekben a végrehajtás elrendelése iránti kérelem előterjesztésére és a végrehajtható okirat kiállítására nyomtatványt (a továbbiakban: végrehajtható okirat nyomtatvány) rendszeresít akként, hogy azt – közzététele időpontjának megjelölésével – közzéteszi a honlapján. A fél papír alapú végrehajtható okirat nyomtatványt a közjegyző irodájában is igényelhet.
+54/A. §[^55] (1) Az 1. § (1) bekezdés i) pontjában meghatározott ügyekben e rendelet
 
-(2)[^56] Ha a végrehajtható okirat nyomtatvány módosítására kerül sor, a MOKK ennek tényéről honlapján az új végrehajtható okirat nyomtatvány közzétételét megelőző hét nappal korábban tájékoztatást ad és az új végrehajtható okirat nyomtatvány közzétételét követően tizennégy napon keresztül jelzi annak tényét, hogy az űrlap megváltozott.
+a) 1. mellékletében meghatározott adattartalommal rendszeresített nyomtatványon kell előterjeszteni a pénzkövetelés behajtására szolgáló végrehajtási lap kiállítása iránti kérelmet,
 
-(3) A végrehajtható okirat nyomtatványt úgy kell kialakítani, hogy azon kellő hely álljon rendelkezésre a kérelem előterjesztésére, és azon a közjegyző, valamint a végrehajtó érkeztető bélyegzője lenyomatának helyét is ki kell alakítani.
+b) 2. mellékletében meghatározott adattartalommal rendszeresített nyomtatványon kell előterjeszteni a meghatározott cselekmény végrehajtására szolgáló végrehajtási lap kiállítása iránti kérelmet,
 
-(4) A végrehajtható okirat nyomtatványon egyértelműen meg kell különböztetni a fél által kötelezően megadandó adatokat, és azokat, melyeket a fél saját választása szerint adhat meg; a megkülönböztetésből egyértelműen ki kell tűnnie, hogy mi a célja a nem kötelezően megadandó adatok megadásának.
+c) 3. mellékletében meghatározott adattartalommal rendszeresített nyomtatványon kell előterjeszteni a pénzkövetelés behajtására szolgáló, közjegyzői okirat végrehajtási záradékkal történő ellátása iránti kérelmet,
 
-(5) A végrehajtható okirat nyomtatványt – a (2) bekezdésben meghatározott kivétellel – el kell látni a szükséges tájékoztatással. A tájékoztatásnak ki kell terjednie az egyes kérelmek joghatásaira, valamint késedelmes előterjesztésük jogkövetkezményeire.
+d) 4. mellékletében meghatározott adattartalommal rendszeresített nyomtatványon kell előterjeszteni a meghatározott cselekmény végrehajtására szolgáló, közjegyzői okirat végrehajtási záradékkal történő ellátása iránti kérelmet,
 
-(6)[^57] Ha a MOKK az 1. § (1) bekezdés i) pontja szerinti ügyben valamely kérelem rendszeresítésére olyan nyomtatványt rendszeresít, melynek igénybevétele nem kötelező, ennek tényére a felek figyelmét fel kell hívnia. A nem kötelező nyomtatványt a MOKK-nak az e §-ban meghatározott módon kell közzétennie.
+e) 5. mellékletében meghatározott adattartalommal rendszeresített nyomtatványon kell előterjeszteni a zálogjog érvényesítésére szolgáló, közjegyzői okirat végrehajtási záradék kiállítása iránti kérelmet,
+
+f) 6. mellékletében meghatározott adattartalommal rendszeresített nyomtatványon kell előterjeszteni a zálogtárgy egyszerűsített végrehajtási értékesítésére szolgáló, közjegyzői okirat végrehajtási záradékkal történő ellátása iránti kérelmet.
+
+(2) A közjegyző az (1) bekezdésben meghatározott, az ügyfél által kitöltött papíralapú nyomtatvány (a továbbiakban: nyomtatvány) ellenőrzésével, szükség esetén javításával, valamint aláírásával állítja ki a végrehajtható okiratot.
+
+(3) A nyomtatványok rendszeresítése a MOKK feladata; a MOKK által rendszeresített nyomtatványok alkalmazása kötelező. A MOKK az alkalmazandó nyomtatványt honlapján közzéteszi, és feltünteti a nyomtatvány közzétételének időpontját, valamint azt, hogy a nyomtatvány alkalmazása kötelező. Ha a nyomtatvány módosítására kerül sor, a MOKK ennek tényéről a honlapján az új nyomtatvány közzétételét megelőző hét nappal korábban tájékoztatást ad; a MOKK az új nyomtatvány közzétételét követően a honlapján egy hónapon keresztül jelzi annak tényét, hogy a nyomtatvány megváltozott. A fél nyomtatványt a közjegyző irodájában is igényelhet.
+
+(4) A nyomtatványt el kell látni az egyes kérelmek joghatásaira és késedelmes előterjesztésük jogkövetkezményeire, valamint a nyomtatvány kitöltésének módjára vonatkozó tájékoztatással.
+
+(5) A nyomtatványt úgy kell kialakítani, hogy azon kellő hely álljon rendelkezésre a kérelem előterjesztésére. A nyomtatványon a közjegyző és a végrehajtó érkeztető bélyegzője lenyomatának helyét ki kell alakítani.
+
+(6) A MOKK az általa rendszeresített nyomtatvány közzétételének tényéről haladéktalanul tájékoztatja az igazságügyért felelős minisztert (a továbbiakban: miniszter). Ha a nyomtatvány nem felel meg a jogszabályoknak, a miniszter erre felhívja a MOKK figyelmét, és ezt követően a fizetési meghagyásos eljárásban és a fizetési meghagyás végrehajtásának elrendelése iránti eljárásban alkalmazandó papír alapú és elektronikus űrlapokról szóló 22/2010. (V. 7.) IRM rendeletben meghatározott eljárási rendet kell követni.
 
 [^54]: Az 54/A. §-t megelőző alcímet a 28/2010. (V. 12.) IRM rendelet 39. §-a iktatta be.
-[^55]: Az 54/A. §-t a 28/2010. (V. 12.) IRM rendelet 39. §-a iktatta be.
-[^56]: Az 54/A. § (2) bekezdése a 28/2010. (XII. 31.) KIM rendelet 4. § c) pontja szerint módosított szöveg.
-[^57]: Az 54/A. § (6) bekezdése a 28/2010. (XII. 31.) KIM rendelet 4. § d) pontja szerint módosított szöveg.
+[^55]: Az 54/A. §-t a 28/2010. (V. 12.) IRM rendelet 39. §-a iktatta be, szövege a 31/2012. (VI. 29.) KIM rendelet 12. § (1) bekezdésével megállapított szöveg.
