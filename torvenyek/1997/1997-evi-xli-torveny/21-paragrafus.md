@@ -52,7 +52,7 @@ i) a halászati tevékenységgel kapcsolatos biztonsági, természet- és körny
 
 (4) A tanfolyam részletes szakmai anyagát a Földművelésügyi Minisztérium (a továbbiakban: minisztérium) – az Országos Halászati Bizottság javaslatának figyelembevételével – állapítja meg.
 
-(5) A halászvizsga díja ezer forint, amelyet a vizsgára jelentkezéskor, a halászati hatóságnál kell megfizetni.
+(5)
 
 (6) A halász vizsgabizonyítványok kiadásáról a minisztérium – a Tatai Mezőgazdasági és Élelmiszeripari Szakmunkásképző Iskola útján – gondoskodik.
 
@@ -94,9 +94,7 @@ h) az egyesületi tagságból eredő jogokról és kötelezettségekről.
 
 (3) Horgászvizsgát a halászati hatóság által – az illetékességi területén – kijelölt szervezetnél lehet tenni.
 
-(4) A horgászvizsga díja ezer forint, amelyet a vizsgára jelentkezéskor kell a vizsgáztatásra kijelölt szervezetnél megfizetni.
-
-(5) A vizsgáztatásra kijelölt szervezet a horgászvizsga díjbevételeit havonta, a tárgyhó 20. munkanapjáig köteles – az MgSzH 10032000-00289782-00000000 számú számlára – befizetni. A horgászvizsga díjbevételének összege – megállapodás alapján – a költségek levonásával csökkenthető. A vizsgáztatásra kijelölt szervezet negyedévenként köteles a halászati hatóság felé elszámolni. A halászati hatóság a tárgyévet követő év január 31-ig számol el a minisztérium felé.
+(4)–(5)
 
 Vhr. 12. § (1) Az állami halászjegy (beleértve a kutatási célút is), az állami horgászjegy és annak évenkénti érvényesítésének díja – a (1) bekezdésben foglalt személyek horgászjegyének kivételével – 2004. január 1-jétől ezer forint.
 
