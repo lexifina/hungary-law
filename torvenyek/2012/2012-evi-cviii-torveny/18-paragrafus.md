@@ -22,4 +22,4 @@ j) 57. § (1) bekezdés n) pontja;
 
 k) 58. § (5) bekezdése.
 
-(2) Hatályát veszti a Btv. 40. § (4) bekezdése.
+(2)

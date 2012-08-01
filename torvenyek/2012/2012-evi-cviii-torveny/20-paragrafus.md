@@ -1,9 +1,1 @@
 20. § Ez a törvény a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
