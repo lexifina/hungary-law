@@ -4,4 +4,4 @@
 
 ## b) az elhunyt jogszerzőnek a tagsági jogviszonya megszűnésekor fennálló tagi követelése alapján kell kiszámítani, ha a visszalépő tagi kifizetések összegét a Nyugdíjbiztosítási Alapnak utalták át.”
 
-26. § A Tny. az „Adatszolgáltatás és bejelentési kötelezettség” alcímet megelőzően a következő alcímmel és 96/B–96/E. §-sal egészül ki:
+### 26–27. §

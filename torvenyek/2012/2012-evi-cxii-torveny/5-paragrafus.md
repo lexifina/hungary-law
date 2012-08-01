@@ -1,1 +1,0 @@
-5. § A magánnyugdíjpénztárból történő nyugdíjbiztosítási átutalás összege az uniós tisztviselő magánnyugdíj-pénztári egyéni számlájának – a nyugdíjbiztosítási átutalás teljesítésének az uniós intézmény felhívásában megjelölt időpontjában fennálló – egyenlege.

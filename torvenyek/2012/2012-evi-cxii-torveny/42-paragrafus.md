@@ -13,11 +13,3 @@ c) 7. § (1) bekezdés b) pontjában a „szerzett” szövegrész helyébe a �
 d) 8. § (3) bekezdésében a „(3) bekezdése” szövegrész helyébe a „(3) és (5) bekezdése” szöveg
 
 lép.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

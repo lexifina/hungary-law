@@ -10,6 +10,6 @@
 
 30. § (1) A Tny. 1. melléklete helyébe az 1. melléklet lép.
 
-(2) A Tny. 1. melléklete a 2. melléklet szerint módosul.
+(2)
 
-(3) A Tny. a 3. melléklet szerinti 2. melléklettel egészül ki.
+(3)
