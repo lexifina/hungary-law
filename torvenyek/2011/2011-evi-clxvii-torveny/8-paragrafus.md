@@ -6,6 +6,6 @@ a) a 2011. december 31-én hatályos szabályok alapján a korhatár előtti ell
 
 b) a csökkentett összegű előrehozott öregségi nyugdíjhoz szükséges szolgálati időt 2008. december 31-éig megszerezte.
 
-(3) A 7. § (1) bekezdés a), b) és f) pontja szerinti esetben a korhatár előtti ellátás (1) bekezdés szerint kiszámított összegét – a (2) bekezdésben foglalt eset kivételével – a Tny. 2011. december 31-én hatályos 18/A. § (3) bekezdése szerint csökkenteni kell, ha a jogosult a 2011. december 31-én hatályos szabályok alapján a korhatár előtti ellátás kezdő napjáig csak csökkentett összegű előrehozott öregségi nyugdíjra szerzett volna jogosultságot.
+(3) A 7. § (1) bekezdés a), b) és f) pontja szerinti esetben a korhatár előtti ellátás (1) bekezdés szerint kiszámított összegét – a (2) bekezdésben foglalt eset kivételével – a Tny. 2011. december 31-én hatályos 18/A. § (3) és (5) bekezdése szerint csökkenteni kell, ha a jogosult a 2011. december 31-én hatályos szabályok alapján a korhatár előtti ellátás kezdő napjáig csak csökkentett összegű előrehozott öregségi nyugdíjra szerzett volna jogosultságot.
 
 (4) A 7. § (1) bekezdés a) és f) pontja szerinti esetben a korhatár előtti ellátás (1) bekezdés szerint kiszámított összegét a Tny. 2011. december 31-én hatályos 18/B. § (2), illetve (3) bekezdése szerint csökkenteni kell, ha a jogosult a 2011. december 31-én hatályos szabályok alapján a korhatár előtti ellátás kezdő napjáig csak a Tny. 2011. december 31-én hatályos 18/B. §-a szerinti előrehozott öregségi nyugdíjra szerzett volna jogosultságot.

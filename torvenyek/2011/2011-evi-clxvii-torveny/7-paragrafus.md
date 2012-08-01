@@ -6,9 +6,9 @@ a) az, aki 2011. december 31-éig az előrehozott, csökkentett összegű előre
 
 aa) életkort betöltötte, és
 
-ab) szolgálati időt megszerezte,
+ab) szolgálati időt megszerezte azzal, hogy a korhatár előtti ellátásra e pont alapján való jogosultság szempontjából szolgálati időként kell figyelembe venni a rokkantsági nyugdíj és a baleseti rokkantsági nyugdíj folyósításának időtartamát is,
 
-b) az az 1953. évben született nő, aki 59. életévét betöltötte és a korhatár előtti ellátás kezdő napjáig, de legkésőbb 2012. december 31-éig legalább 37 év szolgálati időt szerzett,
+b) az az 1953. évben született nő, aki 59. életévét betöltötte és a korhatár előtti ellátás kezdő napjáig, de legkésőbb 2012. december 31-éig legalább 37 év szolgálati időt szerzett azzal, hogy a korhatár előtti ellátásra e pont alapján való jogosultság szempontjából szolgálati időként kell figyelembe venni a rokkantsági nyugdíj és a baleseti rokkantsági nyugdíj folyósításának időtartamát is,
 
 c) az, aki a korhatár előtti ellátás kezdő napjáig, de legkésőbb 2012. december 31-éig a Tny. 2012. január 1-jét megelőzően hatályos szabályai szerint korkedvezményre jogosultságot szerzett,
 
