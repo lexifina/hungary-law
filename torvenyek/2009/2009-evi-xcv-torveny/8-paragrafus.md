@@ -1,4 +1,12 @@
-8. § (1) Ha a mezőgazdasági igazgatási szerv ügydöntő határozatának meghozatalát megelőzően az eljárás alá vont kereskedő írásban kötelezettséget vállal arra, hogy magatartását meghatározott módon összhangba hozza e törvény rendelkezéseivel, és a közérdek hatékony védelme e módon biztosítható, a mezőgazdasági igazgatási szerv végzéssel – az eljárás egyidejű megszüntetésével és az eljárás alá vont kereskedőnek az eljárási költségek megfizetésére való egyidejű kötelezésével – kötelezővé teheti a vállalás teljesítését, anélkül, hogy a végzésben a törvénysértés megvalósulását vagy annak hiányát megállapítaná.
+8. § (1) A mezőgazdasági igazgatási szerv végzéssel – az eljárás egyidejű megszüntetésével és az eljárás alá vont kereskedőnek az eljárási költségek megfizetésére való egyidejű kötelezésével – kötelezővé teszi a 6. § (1) bekezdése szerinti vállalás teljesítését, anélkül, hogy a végzésben a törvénysértés megvalósulását vagy annak hiányát megállapítaná.
+
+(1a) Nem hozható meg az (1) bekezdés szerinti döntés ha az eljárás alá vont kereskedő
+
+a) kötelezettségvállaló nyilatkozata nem terjed ki valamennyi feltárt jogsértésre;
+
+b) ugyanezen jogsértő magatartása vonatkozásában a mezőgazdasági igazgatási szerv korábban már hozott az (1) bekezdés szerinti döntést vagy a (4) bekezdés szerint termékpálya-felügyeleti bírságot szabott ki; vagy
+
+c) jogsértő magatartása kirívóan súlyos vagy a beszállítók széles körét érintő érdeksérelmet, illetve kárt okozott.
 
 (2) Az (1) bekezdés szerinti végzés meghozatala nem zárja ki, hogy az ügyben – a körülmények lényeges változása miatt, illetve akkor, ha a végzés a döntés meghozatala szempontjából fontos tény félrevezető közlésén alapult – újabb eljárás kerüljön megindításra. Az újabb eljárás során rendelkezni kell a korábban az (1) bekezdés alapján hozott végzésről.
 

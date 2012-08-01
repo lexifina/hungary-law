@@ -8,7 +8,7 @@ a) a kereskedő számára egyoldalúan előnyös kockázatmegosztást eredménye
 
 b) olyan szerződési kitétel alkalmazása – ide nem értve a hibás teljesítéssel kapcsolatos kötelezettséget –, amely a beszállító által a kereskedőnek leszállított termékeknek
 
-ba) a beszállító általi kötelező visszavásárlását vagy visszavételét, illetve
+ba) – a kereskedő áruválasztékába első ízben történő bevezetés során a kereskedő készletében maradt, valamint a beszállítótól közeli lejáratúként átvett és a fogyaszthatósági, illetve minőségmegőrzési idő lejártát követően a kereskedő készletében maradt termék kivételével – a beszállító általi kötelező visszavásárlását vagy visszavételét, illetve
 
 bb) a beszerzési árhoz képest – a termék tulajdonságaiból, a beszállító általi további felhasználhatóságából eredően – nem megfelelő mértékben csökkentett áron történő visszavásárlását vagy visszavételét
 
@@ -22,11 +22,11 @@ e) a kereskedő részéről vagy harmadik közreműködő szereplő igénybevét
 
 ea) ténylegesen nem nyújtott szolgáltatásért,
 
-eb) a kereskedő által a végső fogyasztó részére történő értékesítéssel összefüggő és a beszállító számára többletszolgáltatást nem nyújtó tevékenységért – így különösen a terméknek a kereskedő üzletében meghatározott helyen, a beszállító számára többletszolgáltatást nem nyújtó módon való kihelyezéséért –,
+eb) a kereskedő által a végső fogyasztó részére történő értékesítéssel összefüggő és a beszállító számára többletszolgáltatást nem nyújtó tevékenységért – így különösen a terméknek a kereskedő üzletében meghatározott helyen, a beszállító számára többletszolgáltatást nem nyújtó módon való kihelyezéséért, a termék tárolásáért, hűtéséért, élő állat tartásáért –,
 
 ec) a beszállító által nem igényelt, illetve érdekeit nem szolgáló szolgáltatások igénybevételének előírása, illetve e szolgáltatásokért,
 
-ed) a beszállító által igényelt és a kereskedő által ténylegesen nyújtott, a termék forgalmazásához kapcsolódó szolgáltatásért azzal nem arányos
+ed) a beszállító által igényelt és a kereskedő által ténylegesen nyújtott, a termék forgalmazásához kapcsolódó szolgáltatásért azzal nem arányos, vagy – ha a szolgáltatás ellenértéke a termék átadási árának meghatározott mértékében kerül megállapításra – a terméket terhelő adómérték figyelembevételével számított
 
 díj – bármilyen jogcímen történő – felszámítása a beszállító felé;
 
@@ -34,7 +34,11 @@ f) a kereskedő által a végső fogyasztónak nyújtott árengedményhez az ár
 
 g) a kereskedő működési körébe eső jogszabálysértés miatt hatóság által a kereskedővel szemben alkalmazott jogkövetkezményből eredő költségek áthárítása a beszállítóra;
 
-h) a termék ellenértékének – hibás teljesítés esetének kivételével – a beszállító részére a terméknek a kereskedő vagy javára eljáró más személy általi birtokba vételét (átvételét) követő harminc napon túli kifizetése, amennyiben a beszállító a számlát az átvételt követő tizenöt napon belül a kereskedő rendelkezésére bocsátja, továbbá a (2b) bekezdésében foglalt rendelkezés be nem tartása;
+h) a termék ellenértékének – hibás teljesítés esetének kivételével – a beszállító részére, vagy annak részére, akire azt a beszállító – a kereskedő erről szóló értesítése mellett – engedményezte
+
+ha) a terméknek a kereskedő vagy javára eljáró más személy általi birtokba vételét [a h) pont vonatkozásában a továbbiakban: átvétel] követő harminc napon túli kifizetése, amennyiben a beszállító a helyesen kiállított számlát az átvételt követő tizenöt napon belül a kereskedő rendelkezésére bocsátja,
+
+hb) a helyesen kiállított számla kézhezvételétől számított tizenöt napon túli kifizetése, amennyiben a beszállító a helyesen kiállított számlát az átvételt követő tizenöt napon túl bocsátja a kereskedő rendelkezésére;
 
 i) kedvezmény alkalmazásának előírása arra az esetre, ha a kereskedő pénzügyi teljesítése a fizetési határidőnek megfelelően történik;
 
@@ -52,15 +56,21 @@ o) az (5) bekezdés szerinti üzletszabályzat nyilvánosságra hozatalának elm
 
 p) a beszállító jogszerű védjegyhasználatának kereskedő általi korlátozása;
 
-q) a terméknek – az árukészletnek a kereskedő tevékenységének beszüntetése vagy profilváltás miatt történő legfeljebb tizenöt napos és a mezőgazdasági igazgatási szervnek előzetesen bejelentett kiárusítása, valamint nem teljes értékű termék kiárusítása esetének kivételével – a beszállító által számlázott átadási ára, illetve a kereskedő általi saját előállítás esetén önköltségi ára alatt történő forgalmazása a kereskedő által a végső fogyasztó felé;
+q) a terméknek – az árukészletnek a kereskedő tevékenységének beszüntetése vagy profilváltás miatt történő legfeljebb tizenöt napos és a mezőgazdasági igazgatási szervnek előzetesen bejelentett kiárusítása, valamint nem teljes értékű (ideértve az előre nem látható okból a kereskedő készletében felhalmozódott közeli lejáratú terméket is) termék kiárusítása esetének kivételével – a beszállító által számlázott átadási ára, illetve a kereskedő általi saját előállítás esetén – az üzemi általános költségeket is tartalmazó – önköltségi ára alatt történő forgalmazása a kereskedő által a végső fogyasztó felé;
 
-r) a kereskedő által forgalmazott termékmennyiség alapján érvényesíthető árkedvezmény, jutalék vagy díj – bármilyen jogcímen történő – felszámítása a beszállító felé, a kereskedőt a forgalmazott termékmennyiség növelésére ösztönző – a felek által megállapított valamely korábbi időszakban elért vagy becsült mértékhez képesti többletértékesítés alapján megállapított, a termék kereskedelmi forgalmának tulajdonságaival összefüggő, arányos mértékű – utólagos árkedvezmény kivételével;
+r) a kereskedő által forgalmazott termékmennyiség alapján érvényesíthető árkedvezmény, jutalék vagy díj – bármilyen jogcímen történő – felszámítása a beszállító felé, a kereskedőt a forgalmazott termékmennyiség növelésére ösztönző – a felek által megállapított valamely korábbi időszakban elért vagy becsült mértékhez képesti többletértékesítés alapján, a terméket terhelő adómérték figyelembevétele nélkül megállapított, a termék kereskedelmi forgalmának tulajdonságaival összefüggő, arányos mértékű – utólagos árkedvezmény kivételével;
 
-s) ha a kereskedő a részére szállított termék után a beszállító által fizetendő népegészségügyi termékadó összegét a h) pontban foglalt határidőn belül nem téríti meg a beszállító részére.
+s) ha a kereskedő a részére szállított termék után a beszállító által fizetendő népegészségügyi termékadó összegét a h) pontban foglalt határidőn belül nem téríti meg a beszállító részére;
 
-(2a) A kereskedő által a beszállító hozzájárulásával a végső fogyasztónak nyújtott árengedmény fogyasztó irányába történő nyújtásának végső időpontjától számított harminc napon belül a kereskedőnek a nyújtott árengedményről és az azzal érintett termékmennyiségről el kell számolnia a beszállító felé.
+t) a (2b) bekezdésben foglalt rendelkezés be nem tartása;
 
-(2b) A kereskedő számlakompenzáció érvényesítése esetén annak tényéről az érvényesítés napjától számított tizenöt napon belül értesíti a beszállítót. A beszállító számlakiállítása az átvételt követően nem korlátozható, feltételhez nem köthető. A hibás számlát a kereskedőnek a kézhezvételtől számított öt napon belül kell visszaküldenie a beszállítónak.
+u) összetétele és érzékszervi tulajdonságai alapján azonos termékek végső fogyasztói értékesítési árának a termék származási országa alapján diszkriminatív módon eltérő képzése.
+
+(2a) A kereskedő által a beszállító hozzájárulásával a végső fogyasztónak nyújtott árengedmény fogyasztó irányába történő nyújtásának végső időpontjától számított harminc napon belül, illetve ha a kereskedőnek a 6. § (3) bekezdése szerint számított előző évi nettó árbevétele nem haladja meg a százmillió forintot, az Szt. szerinti beszámoló elkészítéshez kapcsolódó leltár elkészítését követő harminc napon belül, a kereskedőnek a nyújtott árengedményről és az azzal érintett termékmennyiségről el kell számolnia a beszállító felé.
+
+(2b) A kereskedő követeléskompenzációs igényéről annak érvényesítését megelőzően legalább öt nappal korábban köteles értesíteni a beszállítót. A követeléskompenzáció akkor érvényesíthető, ha annak összegszerűségét a beszállító megalapozottan nem vitatta vagy azzal kapcsolatban hibás teljesítés vonatkozásában a beszállító megalapozottan kifogást nem emelt. Követeléskompenzáció érvényesítése esetén annak tényéről az érvényesítés napjától számított tizenöt napon belül a kereskedő köteles értesíteni a beszállítót. A beszállító számlakiállítása az átvételt követően nem korlátozható, feltételhez nem köthető. A hibás számlát a kereskedőnek a kézhezvételtől számított öt napon belül kell visszaküldenie a beszállítónak.
+
+(2c) A terméket terhelő – a (2) bekezdés e) pontjának ed) alpontja, valamint a (2) bekezdés r) pontja szerinti – adómérték összegéről a beszállító tájékoztatja a kereskedőt.
 
 (3) A tisztességtelen forgalmazói magatartást tartalmazó, illetve az e törvényben szereplő tilalom megkerülésére irányuló szerződési kitétel semmis. Az (5) bekezdés szerinti üzletszabályzat nyilvánosságra hozatalának elmulasztása önmagában nem eredményezi az abban foglalt kitétel semmisségét.
 
@@ -71,3 +81,5 @@ s) ha a kereskedő a részére szállított termék után a beszállító által
 (6) Az (5) bekezdés szerinti üzletszabályzatnak tartalmaznia kell a beszállító által a kereskedőtől igénybe vehető szolgáltatások tartalmát, azok nyújtásának feltételeit, a szolgáltatásért fizetendő legmagasabb díjat és annak elszámolásnál alkalmazandó számítás módját, továbbá a kereskedő beszállítóinak körébe való bekerülés és az onnan való kikerülés feltételeit.
 
 (7) Az (5) bekezdés szerinti üzletszabályzat elkészítésének és nyilvánosságra hozatalának kötelezettsége nem vonatkozik arra a kereskedőre, melynek a 6. § (3) bekezdése szerint számított előző évi nettó árbevétele a húszmilliárd forintot nem haladja meg.
+
+(8) A (2) bekezdés h) pontja vonatkozásában kifizetés napjának az a nap minősül, amikor a kereskedő számláját megterhelték.

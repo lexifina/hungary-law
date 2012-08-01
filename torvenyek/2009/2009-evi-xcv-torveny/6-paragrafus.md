@@ -1,6 +1,6 @@
 ## A tisztességtelen forgalmazói magatartás tilalmának megsértése miatt alkalmazható jogkövetkezmények
 
-6. § (1) Amennyiben az eljáró hatóság megállapítja, hogy a kereskedő tisztességtelen forgalmazói magatartást tanúsít, termékpálya-felügyeleti bírságot szab ki.
+6. § (1) Amennyiben az eljáró hatóság megállapítja, hogy a kereskedő tisztességtelen forgalmazói magatartást tanúsít, az ügydöntő határozat meghozatalát megelőzően tájékoztatja a kereskedőt a feltárt jogsértésről. Az eljárás alá vont kereskedő a tájékoztatást követő tíz napon belül írásban kötelezettséget vállalhat arra, hogy a feltárt jogsértés vonatkozásában magatartását meghatározott módon összhangba hozza e törvény rendelkezéseivel. E határidő leteltéig nem hozható meg az ügydöntő határozat. Amennyiben az eljárás alá vont kereskedő határidőn belül nem tett írásban kötelezettségvállaló nyilatkozatot, illetve a 8. § (1a) bekezdésében foglalt valamely feltétel fennállása esetén, az eljáró hatóság termékpálya-felügyeleti bírságot szab ki.
 
 (2) A termékpálya-felügyeleti bírság legkisebb mértéke százezer forint, legmagasabb mértéke ötszázmillió forint, de legfeljebb a kereskedő által – a jogsértést megállapító határozat meghozatalát megelőző üzleti évben – elért nettó árbevétel tíz százaléka.
 
