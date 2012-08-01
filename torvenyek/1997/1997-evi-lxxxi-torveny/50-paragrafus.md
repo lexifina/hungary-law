@@ -8,7 +8,7 @@ b) a 47. § (2) bekezdés a)–b) pontja szerinti feltétellel rendelkező és e
 
 annak az öregségi nyugdíjnak, amely az elhunytat halála időpontjában megillette, vagy megillette volna.
 
-(3) A (2) bekezdés a) pontja szerint hatvanszázalékos mértékben megállapított özvegyi nyugdíj helyett harminc százalékos mértékű özvegyi nyugdíjat kell megállapítani attól az időponttól, amelytől az özvegy saját jogú nyugellátásban részesül. A (2) bekezdés b) pontja szerint megállapított özvegyi nyugdíj az özvegy saját jogú nyugdíjának összegére tekintet nélkül jár.
+(3) A (2) bekezdés a) pontja szerint hatvanszázalékos mértékben megállapított özvegyi nyugdíj helyett harminc százalékos mértékű özvegyi nyugdíjat kell megállapítani attól az időponttól, amelytől az özvegy saját jogú nyugellátásban, rokkantsági ellátásban, rehabilitációs ellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül. A (2) bekezdés b) pontja szerint megállapított özvegyi nyugdíj az özvegy ellátásának összegére tekintet nélkül jár.
 
 (4)
 

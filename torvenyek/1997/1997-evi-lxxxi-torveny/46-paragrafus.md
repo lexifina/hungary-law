@@ -22,6 +22,6 @@ szolgálati időt szerzett.
 
 (3) Az (1) és (2) bekezdés alkalmazása során az özvegyi nyugdíjra történő jogszerzés szempontjából szolgálati időként kell figyelembe venni
 
-a) az elhunyt jogszerzőnek a felsőfokú oktatási intézmény nappali tagozatán folytatott – legfeljebb azonban a képesítés megszerzéséhez a tanulmányok folytatása idején szükséges – tanulmányi idejét a 41. §-ban foglaltak szerint, de a tanulmányok időpontjára tekintet nélkül,
+a)
 
 b) azt az időtartamot, ami alatt az elhunyt jogszerző rokkantsági nyugdíjban, baleseti rokkantsági nyugdíjban vagy rokkantsági ellátásban részesült.

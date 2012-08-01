@@ -1,1 +1,3 @@
-102/D. § A 2012. január 1-jét megelőző időre folyósított rokkantsági, baleseti rokkantsági nyugdíj visszafizetésére és megtérítésére a 2011. december 31-én hatályos szabályokat 2011. december 31-ét követően is alkalmazni kell.
+102/D. § (1) A 2012. január 1-jét megelőző időre folyósított rokkantsági, baleseti rokkantsági nyugdíj visszafizetésére és megtérítésére a 2011. december 31-én hatályos szabályokat 2011. december 31-ét követően is alkalmazni kell.
+
+(2) Azt a rokkantsági, baleseti rokkantsági nyugdíjat, amelyet a 2011. december 31-én hatályos 87. vagy 88. § alapján meg kellett téríteni, és 2012. január 1-jétől a megváltozott munkaképességű személyek ellátásairól szóló törvény rendelkezése alapján öregségi nyugdíjként kell továbbfolyósítani, továbbra is meg kell téríteni a 2011. december 31-én hatályos rendelkezések alapján azzal, hogy ahol e rendelkezések rokkantsági, baleseti rokkantsági nyugdíjat említettek, azon öregségi nyugdíjat kell érteni.
