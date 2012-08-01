@@ -38,4 +38,6 @@ o) az elvégzett feladataikról közvetlenül jelentenek a NÉBIH-nek.
 
 (4) A NÉBIH az Európai Mezőgazdasági Vidékfejlesztési Alapból és az Európai Mezőgazdasági Garancia Alapból finanszírozott egyes támogatások tekintetében az MVH által átruházott, illetve együttműködőként ellátott feladatok ellátása érdekében megállapodást köthet a megyei kormányhivatallal, amelyben rendelkezni kell ezeknek a feladatoknak az ellátásához a pénzeszközátadás, a szakmai teljesítés és az elszámolás rendjéről.
 
-(5) A megyei kormányhivatal a mezőgazdasági szakigazgatási szervéhez hatósági tevékenység ellátásával összefüggésben befolyt igazgatási szolgáltatási díj 20%-ának megfelelő összeget a NÉBIH részére a szakmai feladatok ellátása érdekében befizeti.
+(5)[^1]
+
+[^1]: A 4. § (5) bekezdését a 32. § (4) bekezdése hatályon kívül helyezte azzal, hogy az abban foglaltakat a 2012. július 31. napjáig megállapított igazgatási szolgáltatási díjra vonatkozóan alkalmazni kell.

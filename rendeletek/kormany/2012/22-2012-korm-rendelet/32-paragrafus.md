@@ -4,8 +4,8 @@
 
 (2) Az 1–31. §, a 32. § (3) és (4) bekezdése, továbbá a 33. § (1) és (2) bekezdése 2012. március 15-én lép hatályba.
 
-(3)[^3]
+(3)[^4]
 
 (4) E rendelet 4. § (5) bekezdése 2012. augusztus 1. napjával hatályát veszti azzal, hogy az abban foglaltakat a 2012. július 31. napjáig megállapított igazgatási szolgáltatási díjra vonatkozóan alkalmazni kell.
 
-[^3]: A 32. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 32. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
