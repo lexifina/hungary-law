@@ -13,3 +13,5 @@
 (8) A nyugdíjpénztár tagja által tett, 2003. december 31-én hatályos kedvezményezett-jelölés a 16/A. §-a (1) és (2) bekezdésében foglaltaktól függetlenül 2003. december 31-e után is érvényes, azonban azokra is alkalmazandók 16/A. § (3)–(10) bekezdéseinek előírásai.
 
 (9) Az e törvény 2011. december 31-én hatályos 51/B. § (1) bekezdés e), l), m) és n) pontjaiban és az 51/C. § b) és d) pontjaiban említett, 2012. január 1-je előtt igénybe vett szolgáltatások számlái az önkéntes egészségpénztárban 2012. június 30-ig az e törvény 2011. december 31-én hatályos rendelkezései szerint elszámolhatók. E szolgáltatások adókötelezettségére az Szja tv. és az Eho tv. 2011. december 31-én hatályos rendelkezéseit kell értelemszerűen alkalmazni.
+
+(10) Azon pénztártagok nyugdíjszolgáltatásra való jogosultságának elbírásakor, akik részére 2012. január 1-jét megelőző kezdő nappal rokkantsági vagy baleseti rokkantsági nyugdíjat állapítottak meg, a szolgáltatás igénylésének időpontjától függetlenül a 2011. december 31-én hatályos szabályokat kell alkalmazni.
