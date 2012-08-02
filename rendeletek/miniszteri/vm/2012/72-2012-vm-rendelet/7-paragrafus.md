@@ -1,3 +1,0 @@
-## 6. § Az R. 9. §-a a következő (10) bekezdéssel egészül ki:
-
-## „(10) A termésnövelő anyag engedélyének kérelemre történő visszavonása esetén az engedélyes a visszavonó határozat jogerőre emelkedésétől számított 6 hónapig értékesítheti a terméket a nagy- és kiskereskedők számára. A nagy- és kiskereskedők a visszavonó határozat jogerőre emelkedésétől számított 12 hónapig értékesíthetik a terméket. A termésnövelő anyagot a visszavonó határozat jogerőre emelkedésétől számított 24 hónapig lehet felhasználni. Az engedélyező hatóság az előbbiektől – kérelemre, illetve hivatalból hozott döntése alapján – indokolt esetben eltérhet. Az egyes határnapokat a visszavonó határozat rendelkezései szerint kell a címkén feltüntetni.”
