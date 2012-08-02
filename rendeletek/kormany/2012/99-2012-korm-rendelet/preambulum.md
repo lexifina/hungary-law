@@ -1,1 +1,0 @@
-A Kormány a felsőoktatásról szóló 2005. évi CXXXIX. törvény 153. § (1) bekezdés 2. és 5. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében foglalt feladatkörében eljárva a következőket rendeli el:
