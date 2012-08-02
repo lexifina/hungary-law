@@ -6,6 +6,7 @@
 
 (3)[^4]
 
-(4) E rendelet 4. § (5) bekezdése 2012. augusztus 1. napjával hatályát veszti azzal, hogy az abban foglaltakat a 2012. július 31. napjáig megállapított igazgatási szolgáltatási díjra vonatkozóan alkalmazni kell.
+(4)[^5]
 
 [^4]: A 32. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 32. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
