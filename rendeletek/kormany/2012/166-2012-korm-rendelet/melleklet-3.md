@@ -34,4 +34,6 @@
 
 | 16. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
 
-3. melléklet a 166/2012. (VII. 19.) Korm. rendelethez
+3–5. melléklet a 166/2012. (VII. 19.) Korm. rendelethez[^2]
+
+[^2]: A 3–5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
