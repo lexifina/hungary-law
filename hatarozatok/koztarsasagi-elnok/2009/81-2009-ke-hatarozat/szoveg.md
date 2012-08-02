@@ -38,7 +38,7 @@ határozatlan időtartamra bíróvá,
 
 Fábiánné dr. Csonki Borbála Klárát,
 
-dr. Horváthné dr. Gödöllei Juditot,
+dr. Horváthné dr. Gödöllei Juditot,[^1]
 
 dr. Iványiné dr. Ludányi Erikát,
 
@@ -54,16 +54,20 @@ dr. Kenese Attilát,
 
 dr. Keyha Ádámot,
 
-Kovácsné dr. Droblyen Évát,
+Kovácsné dr. Droblyen Évát,[^2]
 
 dr. Kozma Tamás Gáspárt,
 
 dr. Rábel Noémi Ilonát,
 
-Varjasné dr. Nagy Anitát és
+Varjasné dr. Nagy Anitát[^3] és
 
 dr. Vétek Jánost a 2009. szeptember 1. napjától 2012. augusztus 31. napjáig terjedő időtartamra
 
 bíróvá kinevezem.
 
 KEH ügyszám: IV-4/02848/2009.
+
+[^1]: A köztársasági elnök a 197/2012. (VIII. 2.) KE határozat alapján dr. Horváthné dr. Gödöllei Judit bírói kinevezését 2012. augusztus 1. napjától 2015. július 31. napjáig terjedő időtartamra meghosszabbította.
+[^2]: A köztársasági elnök a 197/2012. (VIII. 2.) KE határozat alapján Kovácsné dr. Droblyen Éva bírói kinevezését 2012. szeptember 1. napjától 2015. augusztus 31. napjáig terjedő időtartamra meghosszabbította.
+[^3]: A köztársasági elnök a 197/2012. (VIII. 2.) KE határozat alapján Varjasné dr. Nagy Anita bírói kinevezését 2012. szeptember 1. napjától 2015. augusztus 31. napjáig terjedő időtartamra meghosszabbította.
