@@ -1,3 +1,0 @@
-## 6. § Az R1. a következő 2/B. §-sal egészül ki:
-
-## „2/B. § Ha a műemléken építésügyi hatósági engedélyhez kötött építési tevékenység mellett örökségvédelmi hatósági engedélyhez kötött építési munkát is kell végezni, akkor a Kulturális Örökségvédelmi Hivatalról, a kulturális örökségvédelmi szakigazgatási szervekről, és eljárásaikra vonatkozó általános szabályokról szóló 324/2010. (XII. 27.) Korm. rendelet 5. § (1) bekezdés 12. pont e) és f) alpontjában, 5. § (1) bekezdés 13. és 14. pontjában meghatározott építési munkák elvégzését is az 1. § (1a) bekezdése szerinti építésügyi hatóság engedélyezi.”
