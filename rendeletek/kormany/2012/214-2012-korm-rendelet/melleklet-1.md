@@ -1,3 +1,5 @@
-## 25. § Hatályát veszti a Nemzeti Rehabilitációs és Szociális Hivatalról, valamint a szakmai irányítása alá tartozó rehabilitációs szakigazgatási szervek feladat- és hatásköréről szóló 95/2012. (V. 15.) Korm. rendelet 8. §-a.
+## 24–25. §[^1]
 
 1. melléklet a 214/2012. (VII. 30.) Korm. rendelethez
+
+[^1]: A 24–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
