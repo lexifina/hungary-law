@@ -1,3 +1,5 @@
 ## 15. § Ez a rendelet 2016. január 2-án hatályát veszti.
 
-1. melléklet a 115/2012. (VI. 11.) Korm. rendelethez
+1–8. melléklet a 115/2012. (VI. 11.) Korm. rendelethez[^13]
+
+[^13]: Az 1–8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
