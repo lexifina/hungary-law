@@ -1,0 +1,1 @@
+## 16. § Az R. alapján 2011. évben benyújtott, de el nem bírált EU Önerő Alap pályázatok esetében a döntés az EU Önerő Alap támogatás terhére történik, a támogatási igények elbírálása esetében az R. rendelkezéseit kell alkalmazni.

@@ -1,4 +1,4 @@
-## 16. § Az R. alapján 2011. évben benyújtott, de el nem bírált EU Önerő Alap pályázatok esetében a döntés az EU Önerő Alap támogatás terhére történik, a támogatási igények elbírálása esetében az R. rendelkezéseit kell alkalmazni.
+## 17. §[^9] E rendeletnek az önkormányzatok és társulásaik európai uniós fejlesztési pályázatai saját forrás kiegészítése 2012. évi támogatásának rendjéről szóló 6/2012. (III. 1.) BM rendelet, valamint az önkormányzatok és jogi személyiségű társulásaik európai uniós fejlesztési pályázatai saját forrás kiegészítése 2011. évi támogatásának rendjéről szóló 15/2011. (IV. 22.) BM rendelet módosításáról szóló 39/2012. (VIII. 2.) BM rendelettel (a továbbiakban: Módosító Rendelet) megállapított 11. § (1)–(2a) bekezdését a Módosító Rendelet hatálybalépésekor már megkötött támogatási szerződésekre is alkalmazni kell.
 
 1. melléklet a 6/2012. (III. 1.) BM rendelethez
 
@@ -57,3 +57,5 @@ Kelt: ......................., 20... év ..................... hó ........... n
 az önkormányzatot/Társulást képviselő aláírása
 
 Az I. 2. pont szerinti társulásnak (valamennyi tagot feltüntetve) a 2. mellékletet is kell töltenie!
+
+[^9]: A 17. §-t a 39/2012. (VIII. 2.) BM rendelet 3. §-a iktatta be.
