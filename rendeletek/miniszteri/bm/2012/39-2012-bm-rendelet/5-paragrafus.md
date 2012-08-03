@@ -1,0 +1,3 @@
+## 4. § Az önkormányzatok és jogi személyiségű társulásaik európai uniós fejlesztési pályázatai saját forrás kiegészítése 2011. évi támogatásának rendjéről szóló 15/2011. (IV. 22.) BM rendelet (továbbiakban: R. 2.) 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az EU Önerő Alap támogatást a támogatási szerződésben foglaltak szerint, a 2. § (2) bekezdés a) pont ac) alpontja, valamint a 2. § (2) bekezdés b) pontja szerinti pályázat kivételével teljesítményarányosan, a miniszter utalványozása alapján a Magyar Államkincstár folyósítja a pályázó költségvetési elszámolási számlájára.”
