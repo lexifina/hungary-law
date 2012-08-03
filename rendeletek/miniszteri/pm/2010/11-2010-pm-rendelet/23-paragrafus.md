@@ -1,3 +1,3 @@
-23. §[^1]
+23. §[^7]
 
-[^1]: A 23. § a (2) bekezdés alapján hatályát vesztette 2010. április 2. napjával.
+[^7]: A 23. § a (2) bekezdés alapján hatályát vesztette 2010. április 2. napjával.
