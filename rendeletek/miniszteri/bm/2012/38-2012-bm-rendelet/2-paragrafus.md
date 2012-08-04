@@ -1,3 +1,0 @@
-## 1. § A Katasztrófa elhárítási célelőirányzatok 2011. évi felhasználásáról szóló 16/2011. (V. 2.) BM rendelet (a továbbiakban: R.) a következő 1/A. §-sal egészül ki:
-
-## „1/A. § Nem ítélhető meg és nem fizethető ki támogatás annak a mezőgazdasági termelőnek vagy családi gazdálkodónak, amelyet az Európai Mezőgazdasági Vidékfejlesztési Alapból, az Európai Mezőgazdasági Garanciaalapból vagy az Európai Halászati Alapból finanszírozott vagy társfinanszírozott támogatásokból a támogatási szabályok megsértése miatt korábban kizártak. Ha a kedvezményezett a támogatási időszak alatt megsérti az ezekből a forrásokból finanszírozott vagy társfinanszírozott támogatás nyújtására vonatkozó szabályokat, a támogatást a jogsértés súlyával arányos mértékben köteles visszafizetni.”
