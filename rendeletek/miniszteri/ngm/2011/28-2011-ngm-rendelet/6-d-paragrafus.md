@@ -1,0 +1,1 @@
+## 6/C. § A kötelező továbbképzés – miniszter által jóváhagyott – akkreditált képzési programjában meghatározott előzetes tudásszint-felmérésen legalább 80%-os eredményt elérő továbbképzésre kötelezett az adott év vonatkozásában mentesül a kötelező továbbképzésen való részvétel és – ha a kötelező továbbképzéshez vizsga kapcsolódik – a vizsgatételi kötelezettség alól.
