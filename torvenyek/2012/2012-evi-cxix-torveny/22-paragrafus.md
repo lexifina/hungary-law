@@ -1,0 +1,23 @@
+22. § (1) A Kkt. 29. § (3) bekezdése helyébe a következő rendelkezés lép, és a § a következő (3a)–(3f) bekezdéssel egészül ki:
+
+„(3) A NIF Zrt. – az elkészült utak ideiglenes vagy ennek hiányában végleges forgalomba helyezése után – a felhasznált forrásokkal és a létrehozott eszközökkel elszámol a magyar állam nevében eljáró, a forrásokat rendelkezésre bocsátó szervvel. A forgalomba helyezett út és az egyes projektekkel kapcsolatban létrehozott vagy megszerzett egyéb eszközök, illetve ezeket magában foglaló, a magyar állam tulajdonában álló egyes földterületek az ideiglenes, vagy ennek hiányában a végleges forgalomba helyezés napján e törvény erejénél fogva – az építtető vagyonkezelői jogának egyidejű megszűnése mellett – a 32. § (6) bekezdésében kijelölt szervezet vagyonkezelésébe kerül, aki az MNV Zrt.-vel vagyonkezelési szerződést köteles kötni.
+
+(3a) Az út létesítése során az építtető által a magyar állam részére megszerzett és az építtető vagyonkezelésében álló, útnak nem minősülő egyéb ingatlanon az építtető vagyonkezelői joga – a forgalomba helyezés napján e törvény erejénél fogva – megszűnik. Az építtető vagyonkezelői jogának megszűnését követően az ingatlant a tulajdonosi joggyakorló könyveiben, nyilvántartásában kell feltüntetni.
+
+(3b) Az út forgalomba helyezésekor az építtető által a magyar állam nevében történő ingatlan tulajdonszerzés tárgyában már megindított, de lezárásra nem került ügyletkötések vagy eljárások esetében az építtető vagyonkezelői joga akkor szűnik meg, amikor a magyar állam tulajdonjogát az érintett ingatlanra az ingatlan-nyilvántartásba bejegyezték.
+
+(3c) Az út ideiglenes forgalomba helyezése és végleges forgalomba helyezése közötti időszakban az építtető által a magyar állam nevében történő ingatlan tulajdonszerzés tárgyában megindított ügyletkötések vagy eljárások esetében az építtető vagyonkezelői joga akkor szűnik meg, amikor a magyar állam tulajdonjogát az érintett ingatlanra az ingatlan-nyilvántartásba bejegyezték.
+
+(3d) A más vagyonkezelésében álló állami vagyonon végzett értéknövelő beruházások, felújítások, azokhoz kapcsolódó új eszköz létrehozása esetén a létrehozott beruházás a forgalomba helyezéssel e törvény erejénél fogva az illetékes vagyonkezelő vagyonkezelésébe kerül, amely vagyonkezelő köteles az MNV Zrt. felé a vagyonkezelési szerződésében foglaltak szerint a vagyon értékének változásával elszámolni. E rendelkezéseket kell alkalmazni abban az esetben is, ha az építtető az ideiglenes és végleges forgalomba helyezés közötti időszakban végez más vagyonkezelésében álló állami ingatlanon értéknövelő beruházást.
+
+(3e) A NIF Zrt. a vagyonkezelői jogának (3)–(3c) bekezdés szerinti megszűnését követő hat hónapon belül elszámolási kimutatást készít annak céljából, hogy az érintett eszközöket, ingatlanokat a megszűnés napján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és a tulajdonosi joggyakorló vagy a tulajdonosi joggyakorló döntése alapján az új vagyonkezelő könyveiben azokat nyilvántartásba vegye.
+
+(3f) A (3d) bekezdés szerinti értéknövelő beruházásnak az építtető és a vagyonkezelő közötti elszámolására a (3e) bekezdés rendelkezéseit kell megfelelően alkalmazni.”
+
+(2) A Kkt. 29. § (4)–(6) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A (3)–(3f) bekezdésben foglaltakat kell alkalmazni abban az esetben is, ha a (2) bekezdés szerinti építtetői feladatokat az út kezelője látja el, azzal, hogy a felhasznált forrásokkal és a létrehozott eszközökkel a magyar állam nevében eljáró, a forrásokat rendelkezésre bocsátó szervvel, a vele – külön jogszabály alapján – megkötött szerződés rendelkezései szerint számol el.
+
+(5) A (3) és a (3c) bekezdés szerinti vagyonátadás mentes az adó- – ide nem értve az általános forgalmi adót – és illetékfizetési kötelezettség alól. A 32. § (6) bekezdésében meghatározott szervezet a beruházások befejezését – azaz ideiglenes vagy végleges forgalomba helyezést – követően térítés nélkül veszi át az országos közúthoz tartozó értéknövelő beruházást vagy földrészletet.
+
+(6) A 32. § (6) bekezdésében meghatározott szervezet a befejezett beruházások magyar állam tulajdonában álló területének rendezése során saját hatáskörben a magyar állam javára és nevében jár el. A befejezett beruházások területének rendezése érdekében megvásárolt vagy kisajátított további földrészlet a magyar állam tulajdonába és e törvény erejénél fogva, ellenérték nélkül a 32. § (6) bekezdésében meghatározott szervezet vagyonkezelésébe kerül, amely köteles azt az ingatlan-nyilvántartásba bejegyeztetni. A 32. § (6) bekezdésében meghatározott szervezet a vagyonkezelői jog bejegyzésére vonatkozó földhivatali határozatot haladéktalanul köteles az MNV Zrt. részére tájékoztatásul megküldeni.”

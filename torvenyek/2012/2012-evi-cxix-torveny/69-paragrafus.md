@@ -1,0 +1,3 @@
+69. § A Kbvt. a 14. §-át követően a következő 14/A. §-sal egészül ki:
+
+„14/A. § Vasúti baleset vagy esemény bekövetkezése esetén a biztonsági ajánlások címzettjeit, a balesetben vagy eseményben érintett mentőszolgálatokat, a megsérült vagyontárgyak tulajdonosait, a gyártókat, az érintett szolgáltatások igénybevevőinek képviselőit és a munkavállalók képviselőit tájékoztatni kell a vizsgálat folyamatáról, és lehetőséget kell biztosítani arra, hogy tájékoztatás kézhezvételétől számított 30 napon belül írásban ismertessék álláspontjukat és véleményüket a vizsgálattal kapcsolatban, valamint megjegyzést tegyenek a zárójelentés-tervezetben szereplő információkra.”
