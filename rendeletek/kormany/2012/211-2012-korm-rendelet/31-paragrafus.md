@@ -1,0 +1,1 @@
+## „(5) Meglévő építmény átalakítása, bővítése, meglévő építményben az önálló rendeltetési egység megosztása, rendeltetés módosítása esetében a 13. § (3) bekezdés 1. pontjában foglalt előírásoktól a (3) bekezdésben foglalt feltételek fennállása mellett el lehet térni.”
