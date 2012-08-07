@@ -1,4 +1,4 @@
-76. § (1) Ha a vasúti igazgatási szerv a piac felügyelete során észleli a működési engedélyhez kötött tevékenység végzésével, a vasúti pályahálózathoz való nyílt hozzáféréssel, illetve a számviteli elkülönítéssel és a keresztfinanszírozás tilalmával kapcsolatosan e törvényben, külön jogszabályban, a vasúti igazgatási szerv határozatában, valamint a Hálózati Üzletszabályzatban meghatározott valamely kötelezettség megsértését, jogosult
+76. § (1) Ha a vasúti igazgatási szerv a piac felügyelete során észleli a működési engedélyhez kötött tevékenység végzésével, a vasúti pályahálózathoz való nyílt hozzáféréssel, a 18. § (4) bekezdése szerinti kötelezettség teljesítésével, a számviteli elkülönítéssel, valamint a keresztfinanszírozás tilalmával kapcsolatosan e törvényben, külön jogszabályban, a vasúti igazgatási szerv határozatában, valamint a Hálózati Üzletszabályzatban meghatározott valamely kötelezettség megsértését, jogosult
 
 a) a jogsértőt kötelezni az eljárás költségeinek megtérítésére,
 

@@ -16,7 +16,7 @@ e) a vasúti járművek és a vasúti járműre szerelt vasútüzemi célt szolg
 
 f) a vasúti járművek, valamint a vasúti pályák nyilvántartásának vezetése,
 
-g) a nemzeti vasútbiztonsági szabályok érvényesülésének figyelemmel kísérése, azok módosítására vonatkozó javaslat kidolgozása, és a módosítással kapcsolatban a szakmai egyeztetés lefolytatása,
+g) a biztonsági keretszabályok érvényesítése és fejlesztése, a nemzeti vasútbiztonsági szabályok érvényesítése és érvényesülésének figyelemmel kísérése, azok módosítására vonatkozó javaslat kidolgozása, és a módosítással kapcsolatban a szakmai egyeztetés lefolytatása, a nemzeti keretszabályok kidolgozása során szakmai egyeztetés lefolytatása a vasúti társaságokkal, a vasúti alrendszerek gyártóival és karbantartóival, a vasúti szolgáltatásokat igénybevevőkkel, valamint a vasúti munkavállalók képviselőivel,
 
 h) a (2) bekezdés szerinti éves jelentés elkészítése,
 
@@ -38,10 +38,14 @@ p) a vasúti járművek üzembe helyezésének engedélyezése,
 
 q) a transzeurópai hagyományos és nagysebességű vasúti rendszerekre vonatkozó, a kölcsönös átjárhatóságot lehetővé tevő átjárhatósági műszaki előírásokban a hatósági engedélyezési és ellenőrzési feladatok ellátása,
 
-r) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal.
+r) a vasúti járművek üzembe helyezésére vonatkozó nemzeti szabályozása mint nemzeti referenciadokumentum (a továbbiakban: nemzeti referenciadokumentum) jóváhagyása, valamint a nemzeti referenciadokumentum módosításának ellenőrzése és a módosítás jóváhagyása,
+
+s) a tehervagonok karbantartásáért felelős szervezetek tanúsítása,
+
+t) mindazon feladatok ellátása, amelyeket törvény vagy kormányrendelet feladatkörébe utal.
 
 (2) A közlekedési hatóság minden év szeptember 30-áig a vasútbiztonsági hatósági feladat- és hatáskörében végzett tevékenységéről készített éves jelentését megküldi az Európai Vasúti Ügynökségnek, és azt egyidejűleg honlapján is közzéteszi.
 
 (3) A közlekedési hatóság kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni.
 
-(4) A közlekedési hatóság ellenőrzése és egyéb hivatalból indított eljárása során az ügyfél köteles az érdemi döntéshez szükséges adatokat a hatóság felhívására megadni.
+(4) Az ügyfél a közlekedési hatóság felhívására köteles az ügy eldöntéséhez szükséges adatokat, iratokat szolgáltatni a közlekedési hatóság részére.

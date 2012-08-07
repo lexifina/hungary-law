@@ -10,7 +10,9 @@ c) a vasúti közlekedési tevékenység végzésével összefüggésben a vasú
 
 d) a műszaki engedélyek kiadásának, valamint a 80. § (5) bekezdésében meghatározott éves jelentés alapjául szolgáló adatokat,
 
-e) a képzést és vizsgáztatást, illetve az egészségi alkalmasság vizsgálatát és véleményezését végző személyek természetes személyazonosító adatait
+e) a képzést és vizsgáztatást, illetve az egészségi alkalmasság vizsgálatát és véleményezését végző személyek természetes személyazonosító adatait,
+
+f) a vasúti járművekre szerelt, vasútüzemi célt szolgáló nyomástartó edények és kazánok minősítését, valamint hatósági műszaki vizsgálatát végző személyek természetes személyazonosító adatait
 
 kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képesítéseket – ezek hitelességének utólagos igazolása céljából – nyilvántartani.
 

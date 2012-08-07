@@ -40,7 +40,9 @@
 
 9. áruszállítás: áru vasúti járművel saját célból történő továbbítása;
 
-10. vontatás: vasúti jármű továbbítása;
+10. vontatás: a 10a. pontban meghatározottak kivételével vasúti jármű továbbítása;
+
+10a. tolatás: a vasúti állomáson, vasúti pályaudvaron, áruterminálon, ipari parkon, kikötőben, logisztikai központban, egyéb árukezelő telephelyen, valamint vasúti üzemi létesítményen belül a vasúti járműveknek emberi vagy gépi erővel történő helyváltoztatása, a vonatok szétrendezése, összeállítása, a vasúti járművek rakodóhelyre állítása és az onnan történő kihúzása;
 
 11. belföldi vasúti árutovábbítás: az a vasúti árutovábbítás, amelyben a küldemény átvételének és kiszolgáltatásának helye egyaránt Magyarország területén van;
 
@@ -100,7 +102,7 @@ e) olyan vasúti pályahálózat-működtető, amely a b)–d) pontokban meghat�
 
 1. vasúti pálya: a vasúti vágány, az alatta levő, valamint a – jogszabályban vagy hatósági előírásban megállapított – hozzátartozó védő (biztonsági) földterület, továbbá a különleges vasút működéséhez szükséges szerkezet, illetve földterület, valamint az azt hordozó és mozgásirányát meghatározó tartószerkezet;
 
-2. vasúti pálya tartozékai: a vasúti alagút, híd, jelzőhíd, áteresz, zajvédő-fal, támfal, a vasút kereszteződése vasúttal, közúttal vagy magánúttal, a vasúti térvilágító berendezés, a vasúti jelző- és biztosító berendezés, a vasúti villamos felső vezeték és az ehhez kapcsolt berendezés, a vasúti peron, a vasúti peronhoz vezető gyalogos alul- és felüljáró, a különböző nyomtávolságú pályahálózatok közötti kölcsönös átjárhatóságot biztosító eszközök, berendezések, vágányba épített mérlegek, vágányfékek, hőn-futásjelző berendezés, valamint a vasúti távközlő vezetékek, berendezések, vasúti rakodó és járműmozgató berendezések, ideértve a mindezek elhelyezésére szolgáló földterületet is;
+2. vasúti pálya tartozékai: a vasúti alagút, híd, jelzőhíd, áteresz, zajvédő-fal, támfal, a vasút kereszteződése vasúttal, közúttal vagy magánúttal, a vasúti térvilágító berendezés, a vasúti jelző- és biztosító berendezés, a vasúti villamos felső vezeték és az ehhez kapcsolt berendezés, a vasúti peron, a vasúti peronhoz vezető gyalogos alul- és felüljáró, a különböző nyomtávolságú pályahálózatok közötti kölcsönös átjárhatóságot biztosító eszközök, berendezések, vágányba épített mérlegek, vágányfékek, hőn-futásjelző berendezés, valamint a vasúti távközlő vezetékek, berendezések, vasúti rakodó és járműmozgató berendezések, az elektronikus berendezések működését biztosító szoftverek, ideértve a mindezek elhelyezésére szolgáló földterületet is;
 
 3. vasúti üzemi létesítmény: a vasúti közlekedés lebonyolításához szükséges ingatlan (épület, illetve építmény, az alatta levő földterülettel együtt), amely nélkül a vasúti közlekedési tevékenység nem vagy csak jelentős nehézség árán lenne folytatható (pl. forgalmi épület, javító pályaudvar, vasútállomás és megállóhely, vasúti felvételi épület közvetlenül az áruforgalom és a személyforgalom lebonyolítására és kiszolgálására szolgáló része, az utastájékoztató berendezés, a különböző nyomtávolságú pályák közötti átjárhatóságot szolgáló létesítmények), kivéve a vasúti pályát és tartozékait;
 
@@ -183,6 +185,10 @@ vasúti pálya;
 19. turistavasút: vasúti személyszállítást végző és keskeny nyomtávú vasúti pályahálózatot működtető integrált vasúti társaság.
 
 20.
+
+21. közmű: vízellátást szolgáló vezeték, szennyvíz-, illetve csapadékelvezetést szolgáló zárt csatorna, távhővezeték, villamos energia átviteli és elosztó hálózat, villamos termelői-, magán- és közvetlen vezeték, szénhidrogén szállító-, földgázelosztó- és célvezeték, valamint az egyéb gázok és ezek termékeinek vezetéke, elektronikus hírközlési vezeték;
+
+22. kapacitásfoglalásra jogosult: az a bármely EGT-államban bejegyzett, a Ptk. 685. § c) pontja szerinti gazdálkodó szervezet, amely nem vasúti társaság, és a vasúti pályahálózat-működtetővel a vasúti pályahálózat-kapacitás foglalására vonatkozó keretszerződést köt.
 
 (6) A 68. §–68/G. § alkalmazásában:
 

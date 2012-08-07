@@ -42,7 +42,7 @@ rendeletben állapítsa meg.
 
 1. a működési engedélyezés részletes szabályait, a működési engedély felfüggesztésének és visszavonásának, az ideiglenes engedély kiadásának részletes szabályait, valamint a tevékenység megkezdésének bejelentésére vonatkozó szabályokat
 
-2. a vasútbiztonsági tanúsítványra, a vasútbiztonsági engedélyre, a biztonságirányítási rendszerekre, a biztonsági jelentésre, valamint az egyes hatósági engedélyezési eljárásokra vonatkozó részletes szabályokat,
+2. a vasútbiztonsági tanúsítványra, a vasútbiztonsági engedélyre, a biztonságirányítási rendszerekre, a biztonsági jelentésre, valamint az egyes hatósági engedélyezési eljárásokra vonatkozó részletes szabályokat, valamint a tevékenység megkezdésének bejelentésére vonatkozó szabályokat,
 
 3. a vasúti pályahálózathoz történő nyílt hozzáférés keretében nyújtandó szolgáltatásokra, valamint az azok igénybevételére vonatkozó részletes szabályokat,
 
@@ -56,7 +56,13 @@ rendeletben állapítsa meg.
 
 8. a vasúti járművek üzembe helyezése engedélyezésének és időszakos hatósági vizsgálatának, valamint hatósági nyilvántartásának előírásait,
 
-9. a vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények üzembe helyezése engedélyezésének, időszakos vizsgálatának és ellenőrzésének előírásait,
+9. a vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények
+
+9.1. üzembe helyezése engedélyezésének, időszakos vizsgálatának és ellenőrzésének előírásait,
+
+9.2. gyártásának, javításának ellenőrzését, minősítését, valamint műszaki vizsgálatát végző személyekre (kazánbiztosok) vonatkozó képzettségi, végzettségi követelményekre, képzésükre, vizsgáztatásukra, elismerésükre, valamint nyilvántartásukra vonatkozó szabályokat,
+
+9.3. gyártásának, javításának ellenőrzését, minősítését, valamint műszaki vizsgálatát végző szervezetek engedélyezésének és nyilvántartásának szabályait,
 
 10. a vasúti járművek nyilvántartásának vezetésére vonatkozó részletes szabályokra vonatkozó rendelkezéseket,
 
@@ -64,7 +70,13 @@ rendeletben állapítsa meg.
 
 12. a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésére és vizsgáztatására, a vasúti vizsgaközpont és képzőszervezetek működésére, a képzési engedélyre, továbbá a vasúti járművezetői gyakorlatra vonatkozó szabályokat,
 
-13. a vasúti járművek, a vasúti járművekre szerelt, vasútüzemi célt szolgáló nyomástartó edények és kazánok gyártását, javítását, minősítését, valamint hatósági műszaki vizsgálatát végző személyek, illetve szervezetek működési feltételeit,
+13. a vasúti járművek
+
+13.1. javítását, karbantartását, minősítését végző szervezetek (karbantartó műhelyek) engedélyezésének és nyilvántartásának szabályait,
+
+13.2. közül a tehervagonok karbantartásáért felelős szervezetek tanúsításának, engedélyezésének és nyilvántartásának szabályait,
+
+13.3. hatósági műszaki vizsgálatát végző szervezetek (vizsgaműhelyek) engedélyezésének és nyilvántartásának szabályait,
 
 14. a számviteli elválasztásnak és az önálló belső mérlegkészítésnek a szabályait az államháztartásért felelős miniszter egyetértésével kiadott,
 

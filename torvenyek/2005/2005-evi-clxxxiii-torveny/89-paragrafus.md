@@ -33,3 +33,13 @@ m) az Európai Parlament és a Tanács 2008/57/EK irányelve (2008. június 17.)
 a) az Európai Parlament és a Tanács 1370/2007/EK rendelete (2007. október 23.) a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről,
 
 b) az Európai Parlament és a Tanács 1371/2007/EK rendelete (2007. október 23.) a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről.
+
+c) a tehervagonok karbantartásáért felelős szervezetek tanúsítási rendszeréről és a 653/2007/EK rendelet módosításáról szóló, 2011. május 10-i 445/2011/EU bizottsági rendelet,
+
+d) a versenyképes árufuvarozást szolgáló európai vasúti hálózatról szóló, 2010. szeptember 22-i 913/2010/EU európai parlamenti és tanácsi rendelet.
+
+(3) Ez a törvény a következő határozatok végrehajtásához szükséges rendelkezéseket állapítja meg:
+
+a) a vasúti rendszer Közösségen belüli kölcsönös átjárhatóságáról szóló 2008/57/EK európai parlamenti és tanácsi irányelv 27. cikkének (4) bekezdésében említett referenciadokumentum közzétételéről és kezeléséről szóló, 2011. március 9-i 2011/155/EU bizottsági határozat,
+
+b) a 2007/59/EK európai parlamenti és tanácsi irányelvvel összhangban a mozdonyvezetők képzésében részt vevő képzési központok elismerésére, a mozdonyvezetők vizsgáztatóinak elismerésére és a vizsgák szervezésére vonatkozó feltételekről szóló, 2011. november 22-i 2011/765/EU határozat.

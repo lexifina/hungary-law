@@ -2,11 +2,11 @@
 
 81/A. § (1) A hivatásos katasztrófavédelmi szerv feladat- és hatáskörébe tartozik:
 
-a) a veszélyes áruk vasúti szállításra történő előkészítésére, valamint a vasúton beérkezett veszélyes áruk továbbítására vonatkozó jogszabályi előírások betartásának ellenőrzése;
+a) a veszélyes áruk vasúti szállításra történő előkészítésére, valamint a veszélyes áruk vasúton történő továbbítására vonatkozó jogszabályi előírások betartásának ellenőrzése;
 
-b) a veszélyes áruk vasútüzemi létesítmények területén végzett átrakásának, tárolásának ellenőrzése.
+b) a veszélyes áruk vasúti átrakásának, tárolásának ellenőrzése.
 
-(2) A jogszabályban előírt veszélyes áruk vasúti szállítására vonatkozó előírások (RID) megsértőivel szemben bírság szabható ki. Az e § alapján indított bírságolási eljárást a hivatásos katasztrófavédelmi szerv folytatja le.
+(2) A veszélyes áruk vasúti szállítására vonatkozó jogszabályi előírások megsértőivel szemben bírság szabható ki. Az e § alapján indított bírságolási eljárást a hivatásos katasztrófavédelmi szerv folytatja le.
 
 (3) Ha a hivatásos katasztrófavédelmi szerv az ellenőrzés során jogszabálysértést állapít meg, a külön jogszabályban foglaltak szerinti intézkedést és 50 000 forinttól 1 000 000 forintig terjedő bírságot alkalmaz.
 

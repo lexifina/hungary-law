@@ -4,7 +4,7 @@
 
 ## MŰKÖDÉSI ENGEDÉLY
 
-6. § (1) E törvény alapján a vasúti pályahálózat működtetése, valamint a vasúti személyszállítás, az árutovábbítás és a vontatási szolgáltatás – a (7) bekezdésben meghatározott kivétellel – működési hatósági engedélyhez (a továbbiakban: működési engedély) kötött tevékenység.
+6. § (1) E törvény alapján a vasúti pályahálózat működtetése, valamint a vasúti személyszállítás, az árutovábbítás és a vontatási szolgáltatás – a (8) bekezdésben meghatározott kivétellel – működési hatósági engedélyhez (a továbbiakban: működési engedély) kötött tevékenység.
 
 (2) A vasúti személyszállításra és a vasúti árutovábbításra működési engedély külön-külön is megszerezhető. Vontatási szolgáltatás vasúti személyszállításra vagy vasúti árutovábbításra vonatkozó működési engedély birtokában végezhető. Működési engedélyt az a szervezet kaphat, amely teljesíti az e törvényben és a külön jogszabályban meghatározott feltételeket. Ha vasúti társaság kizárólag vontatási szolgáltatást nyújt, azt a működési engedély iránti kérelmében meg kell jelölnie és a működési engedélyében ezt rögzíteni kell. Kizárólag vontatási szolgáltatás nyújtása estén a vasúti társaság személyszállítási üzletszabályzatot [20. § (1) bekezdés] vagy árutovábbítási üzletszabályzatot [23. § (1) bekezdés] nem köteles készíteni.
 

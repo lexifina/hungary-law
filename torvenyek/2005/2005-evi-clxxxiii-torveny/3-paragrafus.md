@@ -24,11 +24,11 @@ d) az országos törzshálózati és a regionális vasúti pálya, valamint ezek
 
 e) a nem független vasúti pályahálózat-működtető által működtetett országos vasúti pályahálózat kapacitásának elosztását, valamint a hálózat-hozzáférési díj megállapítását végző szervezet működésének biztosítása,
 
-f) a vasútbiztonság fenntartása és fejlesztése érdekében nyílt és megkülönböztetéstől mentes, rendszerszintű megközelítésű vasútbiztonsági szabályrendszer meghatározása és érvényesítése,
+f) a vasútbiztonság fenntartása és fejlesztése, továbbá a vasúti balesetek megelőzésének érdekében, figyelemmel a műszaki és tudományos fejlődésre, nyílt és megkülönböztetéstől mentes, rendszerszintű megközelítésű vasútbiztonsági szabályrendszer meghatározása és érvényesítése,
 
 g) a közösségi vasutak biztonságáról, valamint a vasúttársaságok engedélyezéséről szóló 95/18/EK tanácsi irányelv és a vasúti infrastruktúrakapacitás elosztásáról, továbbá a vasúti infrastruktúra használati díjának felszámításáról és a biztonsági tanúsítványról szóló 2001/14/EK irányelv módosításáról szóló 2004. április 29-ei 2004/49/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2004/49/EK irányelv) 8. cikkének (2) és (4) bekezdésében, továbbá 32. cikkében, valamint az 1370/2007/EK rendelet 7. cikkének (1) bekezdésében és 8. cikkének (2) bekezdésében előírt jelentés közzététele,
 
-h)
+h) az utasok számára elektronikus formában egységesen megismerhető közszolgáltatási menetrend és elektronikus utazásszervező működtetésére és fejlesztésére vonatkozó koncepció készítése,
 
 i) az államháztartásért felelős miniszterrel egyetértésben az országos törzshálózati és regionális vasúti pályát és ezek tartozékait magában foglaló vasúti pályahálózat működtetésének hálózat-hozzáférési díj bevétellel és az ilyen vasúti pályahálózatot működtető pályavasúti társaság egyéb üzleti tevékenységéből, illetve az ilyen vasúti pályahálózatot működtető integrált vasúti társaság egyéb pályavasúti üzleti tevékenységéből eredő bevétellel nem fedezett – indokoltnak elismert – költségeinek a központi költségvetésből történő megtérítése, a 26. § és a 28. § (1) bekezdése szerinti szerződés alapján,
 
@@ -38,7 +38,7 @@ l)
 
 m) a transzeurópai hagyományos és nagysebességű vasúti rendszerekre vonatkozó, a kölcsönös átjárhatóságot lehetővé tevő átjárhatósági műszaki előírásokban szabályozott esetekben a tagállam nevében az Európai Unió Bizottsága értesítése,
 
-m) az utasok számára elektronikus formában egységesen megismerhető közszolgáltatási menetrend és elektronikus utazásszervező működtetésére és fejlesztésére vonatkozó koncepció készítése.
+m)
 
 (3)
 
