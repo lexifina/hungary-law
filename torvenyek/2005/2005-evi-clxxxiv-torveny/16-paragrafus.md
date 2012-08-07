@@ -14,7 +14,7 @@
 
 (7) A közlekedésbiztonsági szerv a zárójelentést – a légiközlekedési rendellenesség vizsgálatával kapcsolatban készített zárójelentés kivételével – honlapján közzéteszi.
 
-(8) A vasúti és víziközlekedési balesetek és események kapcsán kibocsátott biztonsági ajánlások címzettjei a biztonsági ajánlás kézhezvételétől számított 90 napon belül írásban tájékoztatást adnak a közlekedésbiztonsági szervnek az ajánlások elfogadásáról bevezetésük határidejének megjelölésével vagy egyet nem értésükről indokolással ellátva.
+(8) A vasúti vagy víziközlekedési balesetek és események kapcsán kibocsátott biztonsági ajánlások címzettjei a biztonsági ajánlás kézhezvételétől számított 90 napon belül írásban tájékoztatást adnak a közlekedésbiztonsági szervnek az ajánlások elfogadásáról, az ajánlás alapján tervezett, vagy megtett intézkedésükről bevezetésük határidejének megjelölésével, vagy egyet nem értésük esetén indoklással ellátva.
 
 (9) A biztonsági ajánlások címzettjei jelentést nyújtanak be a közlekedésbiztonsági szervhez az ajánlások nyomán megtett vagy tervezett intézkedésekről a tárgyévet követő év április 30-áig.
 
