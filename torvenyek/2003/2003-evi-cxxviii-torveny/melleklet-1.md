@@ -1,663 +1,407 @@
 1. számú melléklet a 2003. évi CXXVIII. törvényhez
 
-Az e törvény alkalmazási körébe tartozó gyorsforgalmi utak
+Az e törvény hatálya alá tartozó gyorsforgalmi utak
 
 |
 
-A szakasz neve
+Út betű- és számjele
 
 |
 
-Az út típusa
+Hosszú távú úttípus
 
 |
 
-Sáv
+Szakasz (beruházás jellege)
 
 |
 
-km
+Nagytávú úttípus
 
 |
 
-M0 Kelet, 4. sz. főút–31. sz. főút között
+M0
 
 |
 
-Autópálya
+autóút
 
 |
 
-2×2
+teljes útgyűrű (új út építése, kapacitásbővítés)
 
 |
 
-6
+autóút
 
 |
 
-M0 Kelet, 31. sz. főút–3. sz. főút között
+M1–M7
 
 |
 
-Autópálya
+autópálya
 
 |
 
-2×2
+M0 – Egérút (kapacitásbővítés)
 
 |
 
-11
+autópálya
 
 |
 
-M0 Kelet, 3. sz. főút–M3 között
+M1
 
 |
 
-Autópálya
+autópálya
 
 |
 
-2×2
+M0 – Tatabánya (kapacitásbővítés)
 
 |
 
-9
+autópálya
 
 |
 
-M0 Gödöllői átkötés (M31)
+M2
 
 |
 
-Autópálya
+autóút
 
 |
 
-2×2
+M0 – országhatár (új út építése, kapacitásbővítés)
 
 |
 
-12
+autóút
 
 |
 
-M0 Dél, M1–51. sz. főút között pályabővítés
+M3
 
 |
 
-Autópálya
+autópálya
 
 |
 
-2×3
+M0 – országhatár (új út építése, kapacitásbővítés)
 
 |
 
-23
+autópálya
 
 |
 
-M0 Dél, 51. sz. főút–M5 között
+M4
 
 |
 
-Autópálya
+autópálya
 
 |
 
-2×3
+M0 – országhatár (új út építése, kapacitásbővítés)
 
 |
 
-7
+autópálya
 
 |
 
-M0 Észak, M2–11. sz. főút között (M0 Északi-híd)
+M5
 
 |
 
-Autópálya
+autópálya
 
 |
 
-2×2
+M0 – Újhartyán (kapacitásbővítés)
 
 |
 
-3
+autópálya
 
 |
 
-M3 Görbeháza–Nyíregyháza (4. sz. főút)
+M6
 
 |
 
-Autópálya
+autóút
 
 |
 
-2×2
+Boly – országhatár (új út építése)
 
 |
 
-39
+autópálya
 
 |
 
-M43 Szeged–Maroslele között
+M7
 
 |
 
-Autópálya
+autópálya
 
 |
 
-2×2
+M0 – M8 (kapacitásbővítés)
 
 |
 
-16
+autópálya
 
 |
 
-M43 Maroslele–Makó között
+M8
 
 |
 
-Autóút
+autóút/autópálya
 
 |
 
-2×1
+országhatár – Vasvár és Veszprém – Jászalsószentgyörgy (új út építése, kapacitásbővítés)
 
 |
 
-16
+autóút/autópálya
 
 |
 
-M6 M0–Érdi tető között
+M9
 
 |
 
-Autópálya
+autóút
 
 |
 
-2×2
+M86 – 53. sz. főút (új út építése, kapacitásbővítés)
 
 |
 
-8
+autóút
 
 |
 
-M6 Dunaújváros–Szekszárd között
+M10
 
 |
 
-Autópálya
+autóút
 
 |
 
-2×2
+Budapest – Kesztölc (új út építése)
 
 |
 
-67
+autóút
 
 |
 
-M6 Szekszárd–Bóly között
+M15
 
 |
 
-Autópálya
+autópálya
 
 |
 
-2×2
+M1 – országhatár (kapacitásbővítés)
 
 |
 
-47
+autópálya
 
 |
 
-M60 Bóly–Pécs
+M30
 
 |
 
-Autópálya
+autóút
 
 |
 
-2×2
+Miskolc – országhatár (új út építése, kapacitásbővítés)
 
 |
 
-30
+autóút
 
 |
 
-M7 Zamárdi–Balatonszárszó között
+M34
 
 |
 
-Autópálya
+autóút
 
 |
 
-2×2
+Vásárosnamény (M3) – Kisvárda kelet (autóút) és Jéke – 4. sz. főút közötti bekötés, Kisvárda és Jéke elkerülővel (összekötő út) (új út építése)
 
 |
 
-14
+autóút
 
 |
 
-M7 Balatonkeresztúr–Nagykanizsa között
+M35
 
 |
 
-Autópálya
+autópálya
 
 |
 
-2×2
+Debrecen – Berettyóújfalu (a Debrecen déli elkerülővel M35 – 47. sz. főút között – 2x1 főút)
 
-|
-
-36
-
-|
-
-M7 Rigyác–Nagykanizsa
-
-|
-
-Autópálya
-
-|
-
-2×2
-
-|
-
-12
-
-|
-
-M7 Letenye–országhatár között (Mura-híddal)
-
-|
-
-Autópálya
-
-|
-
-2×2
-
-|
-
-1
-
-|
-
-M8 Dunaújváros (M6)–Dunavecse (51. sz. főút) (Duna-híddal)
-
-|
-
-Autópálya
-
-|
-
-2×2
-
-|
-
-9
-
-|
-
-M9 51–54. sz. főút között
-
-|
-
-Autóút
-
-|
-
-2×1
-
-|
-
-12
-
-|
-
-M2 Budapest–Vác (déli csomópont) között
-
-|
-
-Autóút
-
-|
-
-2×2
-
-|
-
-20
-
-|
-
-M3 Nyíregyháza–Vaja (49. sz. főút) között
-
-|
-
-Autópálya
-
-|
-
-2×2
-
-|
-
-26
-
-|
-
-M3 Vaja (49. sz. főút)–Vásárosnamény között
-
-|
-
-Autóút
-
-|
-
-2×2
-
-|
-
-20
-
-|
-
-M35 4. sz. főút–47. sz. főút között
-
-|
-
-Autóút
-
-csatlakozó főút kapcsolattal
-
-|
-
-2×1
+(új út építése)
 
 |
 
-4 (+5)
+autópálya
 
 |
 
-M43 Makó–Csanádpalota (országhatár) között
+M43
 
 |
 
-Autóút
+autópálya
 
 |
 
-2×1
+Makó – országhatár (új út építése)
 
 |
 
-23
+autópálya
 
 |
 
-M44 Kecskemét–Tiszakürt között
+M44
 
 |
 
-Autóút
+autóút
 
 |
 
-2×2
+Kecskemét térsége (M8) – Békéscsaba (új út építése)
 
 |
 
-42
+autóút
 
 |
 
-M44 Tiszakürt–Kondoros között
+M49
 
 |
 
-Autóút
+autóút
 
 |
 
-2×2
+M3 – országhatár (új út építése)
 
 |
 
-62
+autóút
 
 |
 
-M44 Kondoros–Békéscsaba között
+M60
 
 |
 
-Autóút
+autóút
 
 |
 
-2×2
+58. sz. főút – Pellérd délkelet és főúti visszakötés
 
-|
-
-22
-
-|
-
-M8 Kecskemét–Szolnok között
-
-|
-
-Autóút
-
-|
-
-2×1
-
-|
-
-54
-
-|
-
-M8 Dunavecse–Kecskemét
-
-|
-
-Autóút
-
-|
-
-2×1
-
-|
-
-45
-
-|
-
-M8 Körmend–Szentgotthárd (oh.) között (Körmend elkerülővel)
-
-|
-
-Autóút
-
-|
-
-2×2
-
-|
-
-31
-
-|
-
-M0 10–11 sz. főutak között
-
-|
-
-Autóút
-
-|
-
-2×2
-
-|
-
-9
-
-|
-
-M85 Pereszteg–Sopron (országhatár) között
-
-|
-
-Autóút
-
-|
-
-2×2
-
-|
-
-29
-
-|
-
-M85 Győr–Csorna között (Csorna elkerülővel)
-
-|
-
-Autóút
-
-|
-
-2×2
-
-|
-
-34
-
-|
-
-M9 Dombóvár–Bonyhád (65. sz. főút) között
-
-|
-
-Autóút
-
-|
-
-2×1
-
-|
-
-34
-
-|
-
-M86 Szombathely–Csorna között
-
-|
-
-Autóút
-
-|
+a 6. sz. főútig (új út építése)
 
-2×2
-
 |
 
-61
+autópálya
 
 |
 
-M4 Üllő (kelet)–Szolnok (észak)–Berettyóújfalu között
+M70
 
 |
 
-Gyorsforgalmivá fejleszthető út
+autópálya
 
 |
 
-2×2, illetve 2+2
+M7 – országhatár (kapacitásbővítés)
 
 |
 
-190
+autópálya
 
 |
 
-49. sz. főút a távlati M49 nyomvonalán M3 és Ököritófülpös között
+M75
 
 |
 
-Autóút
+autóút
 
 |
 
-2×1
+Pacsa – Fenékpuszta – M7 (új út építése)
 
 |
 
-30
+autóút
 
 |
 
-71. sz. főút a távlati M8 nyomvonalán Balatonfűzfő–M7 között
+M85
 
 |
 
-Autóút
+autóút
 
 |
 
-2×1
+Győr – országhatár (új út építése)
 
 |
 
-20
+autóút
 
 |
 
-10. sz. főút a távlati M10 nyomvonalán Budapest–Kesztölc között
+M86
 
 |
-
-Gyorsforgalmivá fejleszthető
 
-országos főút
+főút/autóút
 
 |
 
-2×2, 2×1
+M1 – Szombathely (új út építése, kapacitásbővítés)
 
 |
 
-29
+autóút

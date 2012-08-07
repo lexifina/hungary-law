@@ -1,10 +1,18 @@
-17. § (1) A Kormány által, a megvalósítandó gyorsforgalmi út számára rendelettel megállapított nyomvonalat tartalmazó dokumentációval (jóváhagyott tanulmányterv) – amely tartalmazza a tervezett csomópontokat, valamint jellemző hossz- és keresztszelvényeket is – vagy az építési engedéllyel rendelkező külterületi gyorsforgalmi út tengelyétől számított 250-250 méter széles területsáv beépítésre szánt területté – a külön jogszabályban megjelölt gazdasági terület kivételével – nem nyilvánítható.
+17. § (1) Az országos településrendezési és építési követelményekről szóló kormányrendeletben megjelölt gazdasági terület kivételével nem nyilvánítható beépítésre szánt területté
+
+a) az e törvény hatálya alá eső, építési engedéllyel rendelkező gyorsforgalmi út tengelyétől számított 100-100 méter vagy
+
+b) a Kormány által, a megvalósítandó gyorsforgalmi út számára rendelettel megállapított nyomvonalat, a tervezett csomópontokat, valamint jellemző hossz- és keresztszelvényeket tartalmazó dokumentációval (a továbbiakban: jóváhagyott tanulmányterv) rendelkező gyorsforgalmi út tengelyétől számított 250-250 méter
+
+széles területsáv.
+
+(1a) Az (1) bekezdés b) pontja szerinti esetben a korlátozás a gyorsforgalmi út építésére kiadott építési engedély jogerőre emelkedésével hatályát veszti.
 
 (2) A Kormány a 6. §-ban említett rendeletben – amennyiben a műszaki feltételek ezt lehetővé teszik – az (1) bekezdésben meghatározottnál keskenyebb területsávot is megállapíthat.
 
-(3) Az (1) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon – a rendelet hatálybalépésétől számított négy éven belül – tilos a terepviszonyokat megváltoztató munkát végezni. Ez a tilalom a megjelölt időtartamon belül az ingatlan vagy egy része állami tulajdonként való birtokba vételéig áll fenn.
+(3) Az (1) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon – a rendelet hatálybalépésétől számított öt éven belül – tilos a terepviszonyokat megváltoztató munkát végezni. Ez a tilalom a megjelölt időtartamon belül az ingatlan vagy egy része állami tulajdonként való birtokba vételéig áll fenn.
 
-(4) Az (1) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon – a rendelet hatálybalépésétől számított négy éven belül –
+(4) Az (1) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon – a rendelet hatálybalépésétől számított öt éven belül –
 
 a) más hatóság hatáskörébe tartozó építési vagy egyéb sajátos építményfajtákra vonatkozó jogerős engedély alapján végezhető tevékenység csak akkor kezdhető meg, illetve folytatható,
 
@@ -28,4 +36,4 @@ b) a tevékenység értéknövekedést nem eredményez vagy eredményez ugyan, d
 
 (10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére fővárosi és megyei kormányhivatal állapítja meg a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keret terhére. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni.
 
-(11) Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 9. §-ában foglaltakra tekintettel, a miniszter kezdeményezésére, az (1) bekezdésben említett jóváhagyott tanulmánytervet az érintett települési önkormányzatoknak a – külön jogszabályban meghatározott – településrendezési eszközeikben figyelembe kell venniük és amennyiben szükséges, azt a 18. §-ban említett miniszteri rendelet hatálybalépésétől számított hat hónapon belül a települési rendezési tervükben, illetve a helyi építési szabályzatukban át kell vezetniük. Az ehhez szükséges pénzügyi fedezetet az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 6. §-ának (4) bekezdésében foglaltak szerint a Kormány a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keretből [3. § (1) bekezdés] biztosítja az önkormányzatok számára.
+(11) Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 9. §-ában foglaltakra tekintettel, a miniszter kezdeményezésére, az (1) bekezdésben említett jóváhagyott tanulmánytervet az érintett települési önkormányzatoknak a – külön jogszabályban meghatározott – településrendezési eszközeikben figyelembe kell venniük és amennyiben szükséges, azt a 18. §-ban említett kormányrendelet hatálybalépésétől számított hat hónapon belül a települési rendezési tervükben, illetve a helyi építési szabályzatukban át kell vezetniük. Az ehhez szükséges pénzügyi fedezetet az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 6. §-ának (4) bekezdésében foglaltak szerint a Kormány a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keretből [3. § (1) bekezdés] biztosítja az önkormányzatok számára.

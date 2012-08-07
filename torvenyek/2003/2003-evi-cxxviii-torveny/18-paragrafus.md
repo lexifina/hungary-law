@@ -26,17 +26,17 @@ g) az út forgalomba helyezése.
 
 (5)
 
-(6) Felhatalmazást kap a Kormány, hogy
+(6) Felhatalmazás kap a Kormány, hogy
 
-a) a 6. § (2) bekezdésében meghatározott elővásárlásra vonatkozó részletes rendelkezéseket, és
+a) a 6. § (2) bekezdésében meghatározott elővásárlásra vonatkozó részletes rendelkezéseket,
 
-b)
+b) az 1. számú mellékletben megjelölt gyorsforgalmi utak esetében a környezetvédelmi engedély jogerőre emelkedését követően a gyorsforgalmi út nyomvonalát,
 
-c) a mellékletben megjelölt azon gyorsforgalmi utak esetében, amelyeknél a környezetvédelmi engedély jogerőre emelkedését követően az építési engedélyt az eljáró hatóság még nem adta ki, a gyorsforgalmi út nyomvonalát rendeletben hirdesse ki. E rendelettel megállapított nyomvonal tekintetében a 6. §-ának (2) bekezdését, továbbá a 7. § és a 17. § rendelkezéseit megfelelően kell alkalmazni, és
+c) a b) pont hatálya alá nem tartozó gyorsforgalmi utak nyomvonalát,
 
-d) a c) pont hatálya alá nem tartozó gyorsforgalmi utak nyomvonalát
+d) a 9. § (1) és (2) bekezdése szerinti szervek kijelölését
 
-rendeletben állapítsa meg és a 9. § (1) és (2) bekezdések szerinti szerveket rendeletben jelölje ki.
+rendeletben állapítsa meg.
 
 (7) Felhatalmazást kap a miniszter, hogy
 
