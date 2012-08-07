@@ -34,4 +34,12 @@ f) kilométerszámláló műszere által jelzett értéket (km-óra állást) é
 
 (4) A járműtulajdonos (üzemben tartó) kérésére a járműnyilvántartás tartalmazza a járműtulajdonos (üzemben tartó) rövid szöveges üzenet fogadására szolgáló elérhetőségét, telefonszámát vagy elektronikus levélcímét.
 
-(5) 3,5 tonna össztömeget meghaladó tehergépjárművet, autóbuszt üzemeltető tulajdonos (üzembentartó) az (1) bekezdés f) pontja szerinti székhely, telephely címként csak olyan települési cím bejegyzését kérheti, amelyet a cégjegyzék tartalmaz és e járművek számára ténylegesen tárolási helyül szolgál. Azt a tényt, hogy a települési cím szerinti ingatlan alkalmas a járművek tárolására a települési önkormányzat jegyzője igazolja.
+(5) A 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsiból, vontatóból, pótkocsiból és autóbuszból
+
+a) 10-nél többet üzemeltető üzemben tartó az (1) bekezdés b) és f) pontja szerinti székhely, telephely címként olyan települési cím bejegyzését kérheti, amelyet a cégjegyzék vagy a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatal általa vezetett egyéni vállalkozók nyilvántartása tartalmaz,
+
+b) legfeljebb 10-et üzemeltető üzemben tartó az (1) bekezdés b) és f) pontja szerinti székhely, telephely címként olyan települési cím bejegyzését is kérheti, amelyet a külön jogszabály szerint tárolási helyül a közlekedési hatóságnak bejelentett, és a bejelentés megtörténtét a közlekedési hatóság igazolása tanúsítja,
+
+feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolgál. Azt a tényt, hogy a települési cím szerinti ingatlan alkalmas a járművek tárolására, a települési önkormányzat jegyzője igazolja.
+
+(6) Az (1) bekezdés b) és f) pontja szerinti telephely alatt a legfeljebb 10 járművet üzemeltető üzemben tartó által a külön jogszabály szerint bejelentett tárolóhely is értendő.
