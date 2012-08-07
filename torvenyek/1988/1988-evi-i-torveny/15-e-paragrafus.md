@@ -1,4 +1,4 @@
-15/E. § (1) A várakozási díj, a pótdíj a várakozási terület tekintetében tulajdonosi jogot gyakorló helyi önkormányzatot, állami tulajdonban álló várakozási terület esetében a vagyonkezelőt illeti meg. A szolgáltató legalább a közszolgáltatás ellátásához szükséges költségekre jogosult, amelyet az elszámolás jóváhagyását követően a helyi önkormányzat részére külön térít meg.
+15/E. § (1)
 
 (2) A várakozási díjakból és pótdíjakból eredő bevételeket és azok felhasználását a helyi önkormányzatnak nyilván kell tartania. A nyilvántartást az önkormányzat honlapján közzé kell tenni. Az adatok közzétételéért, folyamatos hozzáférhetőségéért és hitelességéért az önkormányzat polgármestere felel. A közzététel elmulasztása esetén, továbbá ha a közzététel nem teljes vagy nem időszerű, külön jogszabály szerint a törvényességi felügyelet gyakorlására jogosult szerv eljárása kezdeményezhető.
 

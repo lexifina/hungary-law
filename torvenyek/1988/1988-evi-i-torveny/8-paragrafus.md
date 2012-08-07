@@ -20,4 +20,6 @@ h) a közúthálózat fejlesztése, fenntartása, üzemeltetése;
 
 i) a helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánúton, valamint a tereken, parkokban és egyéb közterületeken járművel történő várakozás biztosítása.
 
+(1a) A közutak tervezése, fejlesztése során úgy kell eljárni, hogy a biztonságos közlekedési feltételek valamennyi, a közúton közlekedni jogosult számára biztosítottak legyenek.
+
 (2) A hazai járműállomány rendeltetésszerű, biztonságos és a környezetvédelmi követelményeknek megfelelő működtetéséhez szükséges feltételeket (alkatrészellátás, javítás, karbantartás, tüzelő- és kenőanyagellátás stb.) jogi, közgazdasági és hatósági eszközökkel is biztosítani kell.

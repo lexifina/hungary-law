@@ -34,7 +34,13 @@
 
 17. gyalogút: jelzőtáblával gyalogútként megjelölt, vagy olyan helyi közút, amely kizárólag a gyalogosok közlekedésére szolgál, és az úttesttől tartós fizikai akadály (árok, korlát, kerítés, sövény stb.) vagy két méternél nagyobb távolság választja el;
 
-18. belföldi üzemben tartó: az az üzemben tartó, akinek (amelynek) lakó-, szokásos tartózkodási, illetve székhelye Magyarország területén van;
+18. belföldi üzemben tartó: a jármű tulajdonosa, vagy a tulajdonos által meghatározott, a jármű üzemben tartásának jogát és kötelezettségét gyakorló személy vagy szervezet, akinek/amelynek
+
+18.1. természetes személy üzemben tartó esetében – állampolgárságára tekintet nélkül – a lakóhelye és szokásos tartózkodási helye is, vagy
+
+18.2. nem természetes személy esetében székhelye vagy telephelye
+
+Magyarország területén van.
 
 19. iskolavezető: a közlekedési hatóság engedélyével végzett tanfolyami, szaktanfolyami képzést irányító személy;
 
@@ -76,9 +82,9 @@
 
 22.10. a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Mellékletének belföldi alkalmazásáról szóló külön jogszabályban meghatározott, undort keltő anyag szállítására eredményes vizsgát tett járművezető;
 
-23. várakozási terület: a 8. pont szerinti utak közül a helyi közút és a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánút 11. pont szerinti tartozéka, valamint az állam és a helyi önkormányzat tulajdonában álló terek, parkok és egyéb közterületek járművel történő várakozásra kijelölt része;
+23. várakozási terület: a közutak, valamint az állam és a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek gépjárművel történő várakozásra kijelölt része;
 
-24. várakozási terület kezelője: a helyi közút és a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánút tartozékaként a 33. § (1) bekezdés c) pontjában meghatározott szervezet, a közösségi közlekedéssel érintett közutak kivételével, a helyi önkormányzat tulajdonában álló tereken, parkokban, egyéb közterületen kialakított várakozási terület tekintetében a tulajdonos helyi önkormányzat, az állam tulajdonában álló tereken, parkokban, egyéb közterületen kialakított várakozási terület tekintetében a vagyonkezelő; a várakozási területen létesített parkolóóra, jegykiadó automata az Ötv. 9. § (5) bekezdése szerinti szolgáltató tulajdonában, illetve használatában állhat;
+24.
 
 25. tanfolyam: a közúti járművezetők szervezett formában történő képzése; a tanfolyam a képzési engedélynek megfelelően elméleti (tantermi vagy zárt rendszerű elektronikus távoktatás), és gyakorlati képzési részekből állhat;
 

@@ -1,4 +1,8 @@
-15/A. § (1) Az állami tulajdonban álló terek, parkok és egyéb közterületek vonatkozásában a kormány rendeletében, a helyi önkormányzat (fővárosban: a fővárosi önkormányzat) tulajdonában álló helyi közutak, a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutak, valamint terek, parkok és egyéb közterületek vonatkozásában a helyi önkormányzat (fővárosban: a fővárosi önkormányzat) rendeletében – forgalomszervezési, valamint a 13. § (2) bekezdésében meghatározott indokok alapján, az e törvényben meghatározott keretek között – kijelölhet olyan várakozási övezetet, illetve várakozási övezeten kívül eső olyan várakozó helyet (a továbbiakban együtt: várakozási terület), amelynek a három vagy annál több kerekű járművel történő, várakozási célú használatáért várakozási díjat kell fizetni (a továbbiakban: díjfizetési kötelezettség).
+15/A. § (1) Forgalomszervezési, valamint a 13. § (2) bekezdésében meghatározott indokok alapján, az e törvényben meghatározott keretek között
+
+a) a helyi közutak, valamint a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek vonatkozásában a helyi önkormányzat rendeletében, valamint
+
+b) az országos közutak, valamint az állam tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek vonatkozásában a Kormány rendeletében kijelölhet olyan várakozási területet, amelynek a járművel történő, várakozási célú használatáért várakozási díjat kell fizetni.
 
 (2) A díj fizetési kötelezettség alá eső várakozási területen – a lehetőségekhez képest egyenlő megoszlásban, illetve a mozgáskorlátozottak által jellemzően igénybe vett közintézmények elérhető közelségében – minden megkezdett ötven várakozási helyből ki kell jelölni legalább egy, a mozgáskorlátozottak számára fenntartott várakozási helyet.
 
@@ -24,4 +28,4 @@ A minimális fizetendő várakozási díjat a kerekítés szabályai szerint, 5 
 
 (8) A helyi önkormányzat (fővárosban a fővárosi önkormányzat) rendeletében megállapíthatja a várakozási területen a díjköteles várakozás megengedett leghosszabb időtartamát, amely nem lehet egy óránál kevesebb.
 
-(9) Amennyiben az (1) bekezdésben meghatározott, helyi önkormányzat (fővárosban: a fővárosi önkormányzat) tulajdonában álló, díjfizetési kötelezettséggel terhelt várakozási terület állami tulajdonba kerül, és a díjfizetési kötelezettséggel terhelt várakozási terület kijelölése tárgyában kormányrendelet eltérően nem rendelkezik, úgy a díjfizetési kötelezettséggel terhelt várakozási területnek azt a várakozási területet kell tekinteni, amelyet a helyi önkormányzat (fővárosban: a fővárosi önkormányzat) a tulajdonosváltozás napján hatályos rendeletében akként állapít meg.
+(9)

@@ -1,0 +1,1 @@
+46/G. § Az e törvénynek az egyes közlekedési tárgyú törvények módosításáról szóló 2012. évi CXIX. törvénnyel megállapított 12. § (3)–(3c) bekezdése szerinti tilalommal érintett jelet, jelzést, egyéb tárgyat, berendezést, reklámtáblát, reklámhordozót és egyéb reklámcélú berendezést 2012. szeptember 30-ig el kell távolítani.

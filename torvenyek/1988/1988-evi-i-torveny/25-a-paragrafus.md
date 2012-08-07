@@ -2,11 +2,11 @@
 
 a) a gépkocsi,
 
-b) a motorkerékpár [ideértve a négykerekű motorkerékpárt is (quad)],
+b) a motorkerékpár [ideértve a négykerekű motorkerékpárt is],
 
 c) a mezőgazdasági vontató,
 
-d) a négykerekű segédmotoros kerékpár (quad),
+d) a négykerekű segédmotoros kerékpár,
 
 e) a pótkocsi,
 

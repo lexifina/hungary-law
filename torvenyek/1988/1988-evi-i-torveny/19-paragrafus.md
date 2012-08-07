@@ -10,7 +10,7 @@ c) az autóbusszal végzett személyszállítás piacához való hozzáférés k
 
 e törvénnyel és a 48. § (3) bekezdés a) pont 5. alpontja alapján kiadott kormányrendelettel együttesen alkalmazandó.
 
-(1a) A közúti árutovábbítási, az autóbusszal díj ellenében végzett személyszállítási és a személygépkocsival díj ellenében végzett személyszállítási tevékenység (a továbbiakban együtt: közúti közlekedési szolgáltatás), valamint a saját számlás áruszállítási és a saját számlás személyszállítási tevékenység, továbbá az e tevékenységekhez használt járművek üzemeltetése a Kormány rendeletében meghatározott feltételekkel végezhető.
+(1a) A közúti árutovábbítási, az autóbusszal díj ellenében végzett személyszállítási és a személygépkocsival díj ellenében végzett személyszállítási tevékenység (a továbbiakban együtt: közúti közlekedési szolgáltatás), valamint a gazdálkodó szervezet által végzett saját számlás áruszállítási és a saját számlás személyszállítási tevékenység, továbbá az e tevékenységekhez használt járművek üzemeltetése a Kormány rendeletében meghatározott feltételekkel végezhető.
 
 (2)–(3)
 

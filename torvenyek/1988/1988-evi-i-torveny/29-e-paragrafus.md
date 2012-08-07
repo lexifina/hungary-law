@@ -1,0 +1,11 @@
+29/E. § (1) Az építtető a végleges nyomvonal meghatározását követően haladéktalanul köteles írásban értesíteni a nyomvonallal érintett közmű tulajdonosát vagy szükség esetén üzemeltetőjét (a továbbiakban együtt: közműszolgáltató) arról, hogy az útépítés során mely közműszakasz kiváltása vagy fejlesztése szükséges.
+
+(2) A közműszolgáltató – az országos közúthálózat fejlesztésének közérdekűségére tekintettel, az útépítés mint közérdekből megvalósítandó beruházás megvalósítása érdekében – az (1) bekezdés szerinti értesítés kézhezvétele után az abban feltüntetett határidőn belül köteles a közműszakasz kiváltását vagy fejlesztését elvégezni vagy elvégeztetni. Az építtető a közműszakasz kiváltásának vagy fejlesztésének elvégzésére vagy elvégeztetésére a körülmények által indokolt mértékű, a közműszolgáltatóval egyeztetett – 30 napnál nem rövidebb – határidőt határoz meg. A közműszolgáltató a véleményét az annak közléséről szóló felhívás kézhezvételétől számított tíznapos határidőn belül köteles közölni az építtetővel. Az építtető köteles a közműkiváltás vagy -fejlesztés indokolt költségeit a közműszolgáltatónak megfizetni. A közműkiváltás vagy -fejlesztés elvégzését követő 90 napon belül az építtető és a közműszolgáltató kötelesek egymással tételesen elszámolni.
+
+(3) A közműkiváltás vagy -fejlesztés elvégzésének vagy elvégeztetésének megtagadása esetén az építtető jogosult a közműkiváltást vagy -fejlesztést a megfelelő szakmai képesítéssel rendelkező vállalkozóval elvégeztetni, amelyet a közműszolgáltató tűrni köteles.
+
+(4) A közműszolgáltatót a – közműkiváltással vagy -fejlesztéssel összefüggésben bekövetkezett – vagyonnövekedés tekintetében illetékfizetési kötelezettség nem terheli.
+
+(5) Ha közműszolgáltató neki felróható módon a (1) bekezdés szerinti értesítésben szereplő közműszakasz kiváltására vagy fejlesztésére vonatkozó közműkiváltási vagy -fejlesztési kötelezettségét késedelmesen teljesíti, vagy egyébként a közműkiváltást vagy -fejlesztést nem megfelelően végzi el, illetve annak elvégzését vagy elvégeztetését megtagadja, köteles az ezzel okozott kárt a polgári jog általános szabályai szerint megtéríteni.
+
+(6) Az országos közutak építési beruházásánál a nyomvonalat keresztező kiváltásra kerülő és a közutat ellátó közművek a hatósági eljárásban közcélúnak minősülnek.

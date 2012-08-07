@@ -34,13 +34,13 @@ a) a Kormány, hogy
 
 14. a 7500 kg megengedett legnagyobb össztömeget meghaladó járművel történő közlekedés időszakos és területi korlátozására vonatkozó szabályokat,
 
-15. a közúti árufuvarozásra, személyszállításra és egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
+15. a közúti árufuvarozásra, személyszállításra, a vizsgálóállomás által végzett közúti jármű vizsgálatára, az ömlesztett áruk szállítására és egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
 
 16. a veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárás szabályait,
 
 17. a közúti járművekkel kapcsolatos jóváhagyásokra, típusbizonyítványokra, műszaki vizsgálatokra vonatkozó adatok kezelésére és nyilvántartására vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegét és az ellenőrzés részletes szabályait,
 
-18. az e törvény 33/C. § (1) bekezdése szerinti hatósági ellenőrzés lefolytatására jogosult szervezet vagy szervezetek kijelölését,
+18. a 20. § (11) bekezdés a) pont ab) alpontja és b) pont bc) alpontja, valamint a 33/C. § (1) bekezdése szerinti hatósági ellenőrzés lefolytatására jogosult közútkezelő kijelölését,
 
 19. az útdíj alapjául szolgáló költségek felosztásának, valamint az útdíj számításának elveit, a díjköteles utak használatáért történő elektronikus díjfizetést lehetővé tévő rendszer bevezetésére, üzemeltetésére, az úthasználati díjak beszedésére, ellenőrzésére és behajtására vonatkozó részletes szabályokat, a 33/A. § (2) bekezdése szerinti útdíj fizetésére kötelezettek körét,
 
@@ -66,11 +66,13 @@ a) a Kormány, hogy
 
 30. a közúti járművek vezetésére jogosító engedély, a törzskönyv, a gépjármű hatósági engedélye és jelzése gyártásának, forgalmazásának, kiadásának, használatának szabályait, helyszíni elvételük és visszavonásuk feltételeit, az engedélyek és jelzések tartalmi, formai követelményét,
 
-31. a reklámtábláknak, a reklámhordozóknak és egyéb reklám célú berendezéseknek a közutak melletti elhelyezésére vonatkozó részletes szabályokat,
+31. a reklámtábláknak, a reklámhordozóknak és egyéb reklámcélú berendezéseknek a közutak melletti elhelyezésére és eltávolítására vonatkozó részletes szabályokat,
 
 32. a közúti közlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályait
 
-33. az állami tulajdonban álló terek, parkok és egyéb közterületek vonatkozásában díjfizetési kötelezettséggel érintett várakozási területek kijelölését,
+33. a kerékpárutak adatainak nyilvántartását végző szerv kijelölését, valamint a kerékpárutak nyilvántartásával összefüggő feladatok végrehajtásának részletes szakmai szabályait,
+
+34. az országos közutak, valamint az állam tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek vonatkozásában díjfizetési kötelezettséggel érintett várakozási területek kijelölését, azok kategóriáját, várakozási területenként vagy kategóriánként a díjköteles várakozási időszakot, a fizetendő várakozási díj mértékét, a díjköteles várakozás megengedett leghosszabb időtartamát, valamint a díjfizetés alól mentesítettek, valamint a kedvezményes várakozásra jogosultak körét, a kedvezményes várakozási díj mértékét,
 
 35. az Információs Hivatal állományának tagjai, járművei és magánútjai, valamint az általa üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket
 
@@ -80,7 +82,7 @@ b) a miniszter, hogy
 
 2. az útügyi igazgatás eljárási szabályait,
 
-3.
+3. az ömlesztett (szóródó) tömegáru közúton történő fuvarozásának és saját számlás szállításának a feltételeit, valamint egyes közúti közlekedési szolgáltatások engedélyezésének a részletes szabályait,
 
 4. az országos közutak kezelésének szabályait és a helyi közutak kezelésének szakmai szabályait,
 
@@ -130,9 +132,9 @@ b) a miniszter, hogy
 
 27. a meghatározott össztömeget, tengelyterhelést és méretet, továbbá össztömeg-korlátozást meghaladó járművek közúti közlekedéséről, a közútkezelői és a hatósági eljárás, a díjfizetés, valamint a szakkíséret és kíséret személyi és tárgyi feltételeiről szóló szabályokat,
 
-28. a közút és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá a közutak kezelésére vonatkozó műszaki szabályzatok, előírások, útmutatók megalkotására és kiadására vonatkozó eljárási szabályokat,
+28. az út és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá az utak kezelésére vonatkozó műszaki szabályzatokat, előírásokat,
 
-29. az e törvény 32. § (4) bekezdésében meghatározott állami feladatok végrehajtásának és a feladatok ellátásához szükséges források felhasználásának szabályait,
+29. a 32. § (4) és (5) bekezdésében meghatározott állami feladatokat, azok végrehajtásának és az egyes feladatok ellátásához szükséges források felhasználásának szabályait,
 
 30. az e törvény szerinti járművezetői vizsgabiztosi, műszaki vizsgabiztosi, iskolavezetői, szakoktatói tevékenység folytatásának részletes feltételeit, az e tevékenységekre jogosító engedély kiadásának rendjét, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
@@ -143,6 +145,10 @@ b) a miniszter, hogy
 33. a közúti infrastruktúra közlekedésbiztonsági kezeléséről szóló iránymutatásokat,
 
 34. a 24. § (11) bekezdésében meghatározott szervezet vagy szervezetek kijelölését, és az azzal összefüggésben ellátandó feladatokat,
+
+35. a közúti ellenőri munkakör létesítéséhez szükséges iskolai végzettséget, képesítési előírásokat, valamint a névjegyzék vezetésére és a közúti ellenőrök rendszeres továbbképzésére vonatkozó részletes eljárási szabályokat,
+
+36. a közút lakott területen kívüli szakasza mellett a közlekedés biztonságát elősegítő közérdekű tájékoztató táblák szakmai tartalmát, valamint engedélyezésüket meghatározó testület létrehozásának, valamint a testület eljárásának részletes szabályait,
 
 c) a miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter egyetértésével kiadott,
 

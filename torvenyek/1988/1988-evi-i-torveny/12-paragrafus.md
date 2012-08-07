@@ -4,9 +4,19 @@
 
 (2) A közutak forgalmi rendjét félreérthetetlenül, úgy kell kialakítani, hogy azt a közlekedés résztvevői kellő időben és könnyen felismerhessék. A forgalmi rend kialakításához a szükséges és lehető legkevesebb közúti jelzőtáblát kell használni. A forgalomban résztvevők továbbhaladásának és úticéljuk elérésének megkönnyítése érdekében megfelelő tájékoztató közúti jelzéseket kell elhelyezni.
 
-(3) A közút területén, a közút felett és mellett – a közúti jelzőtáblák megtervezésének, alkalmazásának és elhelyezésének körülményeiről szóló miniszteri rendeletben meghatározott területen belül – tilos elhelyezni olyan jelet, jelzést, egyéb tárgyat és berendezést, amely a közúti jelzésekkel – azok alakjával, színével – összetéveszthető, a láthatóságot akadályozza, alkalmas arra, hogy a közlekedők figyelmét elterelje, vagy a közlekedés biztonságát egyéb módon veszélyezteti. Tilos továbbá elhelyezni – a közút úttesten kívüli burkolatlan területe, a járda, a gyalogút és a kerékpárút kivételével – a közút területén, a közút felett, az út műtárgyán, az út tartozékán, közvilágítási-, villany-, telefonoszlopon – függetlenül attól, hogy a közvilágítási-, villany-, és telefonoszlop a közút úttesten kívüli burkolatlan területén, járdán, gyalogúton vagy kerékpárúton helyezkedik el –, valamint a közút lakott területen kívüli szakasza mellett reklámtáblát, reklámhordozót és egyéb reklámcélú berendezést. Ez utóbbi tilalom nem vonatkozik a 42/A. § (1) bekezdésének a) pontjában meghatározott távolságon kívül elhelyezett, 4 m2 felületet meg nem haladó reklámtáblára, reklámhordozóra és egyéb reklámcélú berendezésre, valamint az üzemanyagtöltő állomások területén elhelyezett cégjelzést, és üzemanyag árakat tartalmazó táblákra, továbbá azokra a – közvetlenül a közút mellett elhelyezett – berendezésekre, amelyek kizárólag a közlekedés biztonságát elősegítő közérdekű tájékoztatást tartalmaznak.
+(3) A gépjárművek közlekedésére szolgáló közút területén, a felett és mellett – a közúti jelzőtáblák megtervezésének, alkalmazásának és elhelyezésének követelményeiről szóló miniszteri rendeletben meghatározott területen belül – nem lehet olyan jel, jelzés, egyéb tárgy és berendezés, amely a közúti jelzésekkel – azok alakjával, színével – összetéveszthető, a láthatóságot akadályozza, alkalmas arra, hogy a közlekedők figyelmét elterelje, vagy a közlekedés biztonságát egyéb módon veszélyezteti.
 
-(4) A közlekedési hatóság annak az ingatlannak – az ingatlan-nyilvántartás szerinti – tulajdonosát, amelynek területén a (3) bekezdésben megállapított tilalmat megszegik, a jel, jelzés, reklámtábla, reklámhordozó, reklámcélú berendezés vagy egyéb tárgy eltávolítására és 100 000 forinttól 500 000 forintig terjedő bírság fizetésére kötelezi. A bírság ismételten is kiszabható.
+(3a) Nem lehet továbbá reklámtábla, reklámhordozó és egyéb reklámcélú berendezés lakott területen
+
+a) a gépjárművek közlekedésére szolgáló közút területén, a közút úttesten kívüli burkolatlan területe kivételével,
+
+b) a gépjárművek közlekedésére szolgáló közút felett, annak műtárgyán, tartozékán, a járda, a gyalogút, valamint a kerékpárút kivételével.
+
+(3b) Nem lehet továbbá reklámtábla, reklámhordozó és egyéb reklámcélú berendezés a közvilágítási-, villany-, telefonoszlopon, függetlenül attól, hogy a közvilágítási-, villany-, és telefonoszlop a közút úttesten kívüli burkolatlan területén, járdán, gyalogúton vagy kerékpárúton helyezkedik el.
+
+(3c) A gépjárművek közlekedésére szolgáló közút lakott területen kívüli szakasza mellett nem lehet az úttesten közlekedők figyelmének elterelésére alkalmas reklámtábla, reklámhordozó vagy egyéb reklámcélú berendezés. A tilalom nem vonatkozik az üzemanyagtöltő állomások területén elhelyezett cégjelzésre, és üzemanyagárakat tartalmazó táblákra, az építményeken, az építmények telkén elhelyezett olyan feliratra, amelyek az építményben működő cég nevét, jelét (piktogramját), vagy tevékenységét jelzik, továbbá azokra a – közvetlenül a közút mellett elhelyezett – berendezésekre, amelyek kizárólag a közlekedés biztonságát elősegítő közérdekű tájékoztatást tartalmaznak.
+
+(4) A közlekedési hatóság annak az ingatlannak – az ingatlan-nyilvántartás szerinti – tulajdonosát, amelynek területén a (3)–(3c) bekezdésekben megállapított tilalmat megszegik, a jel, jelzés, reklámtábla, reklámhordozó, reklámcélú berendezés vagy egyéb tárgy eltávolítására és 100 000 forinttól 500 000 forintig terjedő bírság fizetésére kötelezi. A bírság ismételten is kiszabható.
 
 (4a) A közlekedési hatóság a (4) bekezdés szerinti bírság összegének meghatározása során a következőket mérlegeli:
 
@@ -14,9 +24,7 @@ a) a közvetlen balesetveszély lehetősége,
 
 b) a tilalom megszegésének ismétlődése,
 
-c) a tájra gyakorolt romboló hatás mértéke,
-
-d) a termőföld engedély nélküli foglalásának súlya.
+c)–d)
 
 (5) A közút kezelője a hozzájárulása nélkül vagy attól eltérő módon az út területén elhelyezett reklámcélú tárgyat vagy berendezést a reklám célú tárgy tulajdonosának költségére eltávolíthatja.
 

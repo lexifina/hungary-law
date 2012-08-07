@@ -18,7 +18,7 @@ g) a közutak állapotára, tisztaságára, nem közlekedési célú igénybevé
 
 h) a közút kezelőjének hozzájárulásához vagy a közlekedési hatóság engedélyéhez kötött járművek közlekedésére.
 
-(2) Az (1) bekezdésben meghatározott ellenőrzési feladatok végzésére az a) pont tekintetében a rendőrség; a b), d), e) és h) pontok tekintetében külön jogszabály alapján a rendőrség; a b) és e)–h) pontok tekintetében a közlekedési hatóság; a c) és d) pontok tekintetében a 20. § (11) bekezdésében meghatározott hatóság (a továbbiakban együtt: ellenőrző hatóság) jogosult. Az a) és h) pontok tekintetében a külföldi járművek ellenőrzését a rendőrség, illetve a közlekedési hatóság végzi. Az ellenőrzést végző személy az ellenőrzési jogosultságát köteles igazolni.
+(2) Az (1) bekezdésben meghatározott ellenőrzési feladatok végzésére az a) pont tekintetében a rendőrség; a b), d), e) és h) pontok tekintetében külön jogszabály alapján a rendőrség; a b), d), e)–h) pontok tekintetében a közlekedési hatóság; a c) és d) pontok tekintetében a 20. § (11) bekezdésében meghatározott hatóság (a továbbiakban együtt: ellenőrző hatóság) jogosult. Az a) és h) pontok tekintetében a külföldi járművek ellenőrzését a rendőrség, illetve a közlekedési hatóság végzi. Az ellenőrzést végző személy az ellenőrzési jogosultságát köteles igazolni.
 
 (3) Az ellenőrző hatóság jelzésére a jármű vezetője a járművet köteles megállítani, személyazonosságát és járművezetési jogosultságát igazolni, a jármű és tartozékai, a rakomány, az okmányok ellenőrzésével kapcsolatos felhívásnak eleget tenni. Az ellenőrzés során az ellenőrző hatóság a járműhöz és tartozékaihoz, a rakományhoz tartozó okmányokat a helyszínen időlegesen elveheti, továbbá a jármű műszeres ellenőrző vizsgálatát vagy kötelező javítását rendeli el, amelynek a helyszínére történő közlekedésre a jármű vezetőjét utasíthatja. A kötelezően elrendelt javítás elvégeztetéséről az ellenőrző hatóságnak meg kell győződnie, az ezzel kapcsolatosan a hatóság részéről felmerült költségeket az eljáró hatóság megtérítteti a jármű üzembentartójával. A jármű vezetőjének vezetési és pihenőidejére vonatkozó – a 20. § (1) bekezdésének c) pontjában meghatározott – előírások megsértése esetén az ellenőrző hatóság a pihenőidő letöltését rendeli el.
 
@@ -30,4 +30,4 @@ h) a közút kezelőjének hozzájárulásához vagy a közlekedési hatóság e
 
 (7) A közlekedési hatóság a külön engedély alapján üzemeltetett, valamint a nem közúti közlekedési szolgáltatást végző járművek esetében az (1) bekezdés c)–e) pontjában megjelölt ellenőrzéseket a jármű telephelyén is végezheti, az f) pontban meghatározott járműfenntartó tevékenységet csak telephelyen ellenőrizheti.
 
-(8) A közlekedési hatóság önálló közúti ellenőrzési tevékenységet végezhet más közlekedési hatóság illetékességi területén is.
+(8)

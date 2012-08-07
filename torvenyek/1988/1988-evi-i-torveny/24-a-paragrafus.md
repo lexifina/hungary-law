@@ -4,9 +4,11 @@
 
 (3) A típusvizsgálóra és a vizsgáló állomásra vonatkozó követelményeket, valamint a tanúsítási tevékenységükre vonatkozó szabályokat a miniszter, a típusvizsgáló és vizsgáló állomás engedélyezésére irányuló eljárás részletes szabályait a Kormány rendeletben határozza meg.
 
-(4) A típusvizsgáló és a vizsgáló állomás engedélyezésére irányuló eljárásban a közlekedési hatóság határozathozatal helyett a típusvizsgálóval, illetve a vizsgáló állomással hatósági szerződést köt a vizsgálatok elvégzéséhez szükséges feltételek biztosítására, valamint a tényállás tisztázásában való közreműködésre.
+(4)
 
 (5) A vizsgáló állomás tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóság feladatait a közlekedési hatóság látja el.
+
+(5a) A vizsgáló állomás által a közúti járművek időszakos vizsgálatával és rendszeres környezetvédelmi felülvizsgálatával kapcsolatos rendelkezések megsértése esetén a közlekedési hatóság a vizsgáló állomással szemben 100 000 forinttól 1 000 000 forintig terjedő bírságot szabhat ki.
 
 (6) A jármű időszakos vizsgálata során a jármű műszaki megvizsgálását, illetve környezetvédelmi felülvizsgálatát a közlekedési hatóság köztisztviselője, illetve a (2) bekezdésben meghatározott tanúsító szervezettel foglalkoztatási jogviszonyban álló, a közlekedési hatóság által kiadott engedéllyel rendelkező személy (a továbbiakban: műszaki vizsgabiztos) végzi. Műszaki vizsgabiztosi tevékenység folytatását a közlekedési hatóság annak engedélyezi, aki büntetlen előéletű, nem áll műszaki vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítésekkel, és megfelel az ott meghatározott egyéb feltételeknek. A közlekedési hatóság az engedéllyel rendelkező személyről nyilvántartást vezet, amely tartalmazza a vizsgabiztosi tevékenység végzésére jogosult személy természetes személyazonosító adatait.
 

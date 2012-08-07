@@ -14,7 +14,7 @@ e) az engedélyezési eljárásokban hatásterületnek minősül azon ingatlanok
 
 (3) A gyorsforgalmi közúthálózat közérdekűségéről és fejlesztéséről szóló külön törvényben megjelölt utakkal és az ezekkel az utakkal egy beruházásban megvalósuló egyéb utakkal kapcsolatos közlekedési hatósági eljárásokban az elsőfokú határozat – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – a fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 
-(4) A (3) bekezdésben meghatározott utak forgalomba helyezése tárgyában hozott elsőfokú határozat – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(4) Az országos közutak forgalomba helyezése tárgyában hozott elsőfokú határozat – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 
 (5) Az elsőfokú határozat ellen nem nyújthat be fellebbezést az az ügyfél, aki az eljárás megindításáról szóló szabályszerű értesítés ellenére az első fokú engedélyezési eljárásban nem vett részt.
 
@@ -23,3 +23,5 @@ e) az engedélyezési eljárásokban hatásterületnek minősül azon ingatlanok
 (7) Ha jogszabály az engedélyezési eljárás során helyszíni szemle tartását írja elő, a közmeghallgatás a helyszíni szemlével együtt lebonyolítható.
 
 (8) A közlekedési hatóság a forgalomba helyezési eljárás során nem tart közmeghallgatást.
+
+(9) A Kormány által kijelölt szervezet a kerékpárutakkal összefüggő egyes műszaki adatokról nyilvántartást vezet.

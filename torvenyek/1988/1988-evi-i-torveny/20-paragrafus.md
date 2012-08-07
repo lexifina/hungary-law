@@ -14,7 +14,7 @@ f) a gyorsan romló élelmiszerek és élő állatok közúti szállítására,
 
 g) a bérelt járművekkel végzett közúti áruszállításra,
 
-h) a közúti közlekedési szolgáltatást vagy saját számlás szállítási tevékenységet végző járművek műszaki és környezetvédelmi tulajdonságaira, a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésére, továbbá az ömlesztett áruk szállítására,
+h) a közúti járművek közúti közlekedésben való részvételéhez előírt műszaki, biztonsági és környezetvédelmi tulajdonságokra, a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésére, a rakomány rögzítésére, továbbá az ömlesztett áruk szállítására,
 
 i) a nemzetközi kombinált árufuvarozást elősegítő kedvezményekre,
 
@@ -66,6 +66,8 @@ a) a bírságfizetésre kötelezett (kötelezettek) székhelye, illetve lakóhel
 
 b) a bírságfizetési kötelezettség teljesítéséért pénzügyi intézmény kezességet, bankgaranciát vállal vagy a kötelezettséget belföldön bejegyzett, adószámmal rendelkező gazdálkodó szervezet átvállalja és ezt a tényt a bírságfizetésre kötelezett az eljárás során hitelt érdemlően igazolja.
 
+(7a) Amennyiben az ellenőrzés megállapítja, hogy az (1) bekezdés c), e) és h) pontjában felsorolt szabályok valamelyikét megszegték és a szabályszegés a közlekedés biztonságára kockázatot jelent, az eljáró hatóság az erre vonatkozó külön határozat kiadása nélkül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény biztosítási intézkedésekre vonatkozóan megállapított feltételei szerint a járművet visszatartja a közlekedésbiztonsági kockázat elhárításáig.
+
 (8) A jármű részére a visszatartás idejére várakozó helyet kell kijelölni és a jármű forgalmi engedélyét – az átvételét igazoló elismervény egyidejű kiállítása és a járművezető részére történő átadása mellett – a visszatartás időtartamára el kell venni. A külföldi hatóság által kiadott forgalmi engedélyt – ha azt a jogosult a visszatartás időtartamának lejáratát követő három napon belül nem veszi át – a kiállító hatósághoz kell megküldeni.
 
 (9) A jármű vezetőjét a külön jogszabályban foglaltak szerint írásban tájékoztatni kell magyar, angol, német vagy orosz nyelven a (4a) bekezdés szerint kiszabott bírságról, illetve a (8) bekezdés szerint kijelölt várakozási helyről valamint annak megközelítési útvonaláról, továbbá a bírságolási eljárás lefolytatására vonatkozó jogszabályi rendelkezésekről.
@@ -78,7 +80,7 @@ a) belföldi forgalomban közlekedő jármű esetén
 
 aa) a közlekedési hatóság és a Rendőrség,
 
-ab) az (1) bekezdés c)–e) és l) pontja tekintetében, valamint az (1) bekezdés h) pontjában a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésének tekintetében a vámhatóság is,
+ab) az (1) bekezdés c)–e) és l) pontja tekintetében a vámhatóság is, valamint az (1) bekezdés h) pontjában a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésének tekintetében a vámhatóság, és közlekedési hatósági jogkörben a Kormány rendeletében meghatározott közút kezelője is,
 
 ac) az (1) bekezdés e) pontja tekintetében a katasztrófavédelmi hatóság is,
 
@@ -87,6 +89,8 @@ b) nemzetközi forgalomban közlekedő jármű esetén
 ba) a közlekedési hatóság, a rendőrség és a vámhatóság,
 
 bb) az (1) bekezdés e) pontja tekintetében a katasztrófavédelmi hatóság is,
+
+bc) az (1) bekezdés h) pontja szerinti a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedésének tekintetében közlekedési hatósági jogkörben a Kormány rendeletében meghatározott közút kezelője is,
 
 c) az üzembentartó telephelyén
 
@@ -100,7 +104,7 @@ e) az (1) bekezdés k) pontja tekintetében a rendőrség
 
 f) az (1) bekezdés kf) és kg) pontjai tekintetében a közterület-felügyelet is
 
-jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c) és d) pontjában meghatározott ellenőrzésébe a munkaügyi hatóság is, a belföldi forgalomban közlekedő járműnek az (1) bekezdés a) és b), valamint f)–j) pontjában meghatározott ellenőrzésébe a vámhatóság is, az (1) bekezdés h) pontjában meghatározott, a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek ellenőrzésébe a közút kezelője is bevonható.
+jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c) és d) pontjában meghatározott ellenőrzésébe a munkaügyi hatóság is, a belföldi forgalomban közlekedő járműnek az (1) bekezdés a) és b), valamint f)–j) pontjában meghatározott ellenőrzésébe a vámhatóság is bevonható.
 
 (12) Amennyiben a közúti járművel végzett tevékenység az (1) bekezdésben megjelölt rendelkezéseknek a határon történő belépés alkalmával nem felel meg, a vámhatóság vagy a rendőrség a közúti jármű belépését – a közlekedési hatóság haladéktalan értesítése mellett – megtagadhatja.
 

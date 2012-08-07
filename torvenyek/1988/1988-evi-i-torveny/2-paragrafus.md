@@ -1,6 +1,16 @@
 ## A törvény hatálya
 
-2. § (1) A törvény hatálya kiterjed Magyarország területén a közúti közlekedésben résztvevőkre, a közúti járművekre (a továbbiakban: jármű), – a 48. § (4) bekezdésében foglalt eltéréssel – az utakra, az utak környezetére és a közúti közlekedést szolgáló létesítményekre, valamint az állam és a helyi önkormányzat tulajdonában álló utakon, tereken, parkokban, egyéb közterületeken kialakított várakozási területen járművekkel történő várakozás rendjére.
+2. § (1) A törvény hatálya kiterjed Magyarország területén
+
+a) a közúti közlekedésben résztvevőkre,
+
+b) a közúti járművekre (a továbbiakban: jármű)
+
+c) az utakra – a 48. § (4) bekezdésében foglalt eltéréssel –,
+
+d) az utak környezetére és a közúti közlekedést szolgáló létesítményekre, valamint
+
+e) a közutakon, valamint az állami és helyi önkormányzatok tulajdonában álló közforgalom elől el nem zárt magánutakon, tereken, parkokban és egyéb közterületeken kialakított várakozási területen járművekkel történő várakozás rendjére.
 
 (2) Magyarország területén kívül a magyar hatósági jelzéssel ellátott járművekre, azok üzembentartójára és vezetőjére a törvény rendelkezéseit annyiban kell alkalmazni, amennyiben a külföldi jogszabály vagy nemzetközi szerződés, egyezmény, megállapodás eltérően nem rendelkezik.
 

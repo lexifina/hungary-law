@@ -4,7 +4,7 @@
 
 (3) A hatósági engedély és jelzés kiadása előtt a közlekedési hatóság vizsgálaton (a továbbiakban: forgalomba helyezés előtti vizsgálat) ellenőrzi, hogy a jármű megfelel-e a típusbizonyítványban foglaltaknak vagy – ha a hatóság típusbizonyítvány kiadásától eltekintett – a 22. § (2) bekezdésében említett követelményeknek.
 
-(4) A közlekedési hatóság típusbizonyítvány alapján forgalmazott új jármű forgalomba helyezés előtti vizsgálatától eltekinthet. A forgalmazónak a forgalomba helyezéshez kapcsolódó tevékenységét a közlekedési hatóság ellenőrzi.
+(4) A közlekedési hatóság a típusbizonyítvány alapján forgalmazott új jármű forgalomba helyezés előtti vizsgálatától a gyártó vagy a forgalmazó kérelmére eltekint. E járművek forgalomba helyezéséhez szükséges adatszolgáltatást a belföldi gyártó, valamint a forgalmazó a közlekedési hatóság által rendelkezésükre bocsátott elektronikus csatornán keresztül teljesíti. A közlekedési hatóság a belföldi gyártó, valamint a forgalmazó ezen tevékenységét ellenőrzi.
 
 (5) Egyedileg előállított (összeépített) vagy átalakított jármű esetén a közlekedési hatóság azt vizsgálja, hogy a jármű megfelel-e az előzetes engedélyben foglaltaknak. Előzetes engedély nélkül előállított vagy átalakított járműre hatósági engedély és jelzés nem adható.
 

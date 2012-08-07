@@ -1,6 +1,6 @@
 46/D. § (1) A jogszerű vizsgáztatás, vizsgálat és ellenőrzés, illetve a visszaélések kiszűrése és a megfelelő felelősségre vonás kezdeményezése érdekében a közlekedési hatóság jogosult
 
-a) a közúti járművezetők vizsgáztatása,
+a) a közúti járművezetők és a közúti közlekedési szakemberek vizsgáztatása,
 
 b) a járművek műszaki vizsgálata,
 
@@ -9,6 +9,8 @@ c) a közúti járművek telephelyi ellenőrzése és
 d) a járművezető-képzés feltételeinek ellenőrzése
 
 során a vizsgáztatásról, vizsgálatról és ellenőrzésről – adatrögzítés nélkül – elektronikus berendezéssel közvetlen kép- és hangmegfigyelést végezni.
+
+(1a) Az (1) bekezdés a) pont szerinti esetben a közlekedési hatóság jogosult elektronikus berendezéssel kép- és hangfelvételt adatrögzítéssel készíteni, amelyet a vizsgaeseménytől számított 15 napig, illetve amennyiben az érintett vizsga ügyében eljárás indult, az eljárás jogerős lezárásáig szükséges megőrizni.
 
 (2) A közlekedési hatóságnak lehetővé kell tenni, hogy – a vizsgázó erre irányuló kérése esetén – az (1) bekezdés a) pontja szerinti vizsga letétele az (1) bekezdésben meghatározott megfigyelés nélkül is megtörténhessen.
 
