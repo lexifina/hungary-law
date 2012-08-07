@@ -1,24 +1,24 @@
-## Égéstermék-elvezetők[^141]
+## Égéstermék-elvezetők[^181]
 
-74. § (1)[^142] A tüzelő-, energiatermelő berendezések gáznemű égéstermékét – a 80. §-ban foglaltak kivételével – a tető fölé, szabadba kell kivezetni. E célra égéstermék-elvezetőt (kéményt, füstcsatornát) kell tervezni és megvalósítani a vonatkozó előírások, továbbá a (2)–(8) bekezdésekben foglaltak figyelembevételével.
+74. § (1)[^182] A szilárd, cseppfolyós és légnemű energiatermelő anyagok égéstermékeinek elvezetésére alkalmas égéstermék-elvezetőt (kéményt, füstcsatornát) úgy kell tervezni és megvalósítani, hogy az a keletkezett égésterméket biztonságosan, az emberi életet nem veszélyeztető és az egészséget nem károsító módon vezesse ki a tető fölé – a 80. §-ban foglaltak kivételével – a szabadba.
 
-(2) Az építmény, önálló rendeltetési egység égéstermék-elvezetőit olyan számban, helyzetben és úgy kell megvalósítani, hogy a rendeltetésszerű használathoz szükséges összes tüzelőberendezést szabályszerűen lehessen azokra rácsatlakoztatni.
+(2)[^183] Az építmény égéstermék-elvezetőjét úgy kell tervezni és megvalósítani, hogy az építmény rendeltetésszerű használatához szükséges energiatermelő berendezést szabályszerűen lehessen arra rácsatlakoztatni.
 
-(3) Tüzelőberendezés építményben csak a hozzá tartozó, vagy a hozzá alkalmas (a tüzelő berendezés égéstermékének elvezetéséhez szükséges, előírt követelményeknek megfelelő) égéstermék-elvezetővel együtt alkalmazható.
+(3)–(4)[^184]
 
-(4)[^143] Az égéstermék-elvezetőt úgy kell megvalósítani, hogy az feleljen meg a rácsatlakozó tüzelőberendezéshez és az égéstermékéhez tartozó, előírt követelményeknek és az égésterméket biztonságosan és az egészséget nem károsító módon vezesse ki a szabadba.
-
-(5) Tüzelőberendezés csak olyan égéstermék-elvezetőre csatlakoztatható, amely az adott berendezés égéstermékének elvezetésére alkalmas és az égéstermék-elvezető és a tüzelőberendezés is megfelel a szabályos, biztonságos működéséhez megállapított, előírt (engedélyezett) követelményeknek.
+(5)[^185] Energiatermelő berendezés csak olyan égéstermék-elvezetőre csatlakoztatható, amely az adott berendezés égéstermékének elvezetésére alkalmas és az égéstermék-elvezető és a energiatermelő berendezés is megfelel a szabályos, biztonságos működéséhez megállapított, előírt (engedélyezett) követelményeknek.
 
 (6) Az égéstermék-kibocsátás helyét és magasságát úgy kell meghatározni, hogy az a környezetet szikrával, pernyével, füsttel ne veszélyeztesse, a levegőt a megengedett mértéken felül ne szennyezze.
 
 (7) Az égéstermék-elvezető biztonságosan ellenőrizhető és tisztítható legyen.
 
-(8)[^144] Az égéstermék-elvezetés gyújtásveszélyt, épületszerkezeti károsodást (korróziót, átnedvesedést, kicsapódást) nem okozhat. Az égéstermék az építmény tartószerkezeteivel közvetlenül nem érintkezhet.
+(8)[^186] Az égéstermék-elvezetés gyújtásveszélyt, épületszerkezeti károsodást (korróziót, átnedvesedést, kicsapódást) nem okozhat. Az égéstermék az építmény tartószerkezeteivel közvetlenül nem érintkezhet.
 
 (9) Gyűjtőkémény csak az e célra engedélyezett rendszer és megoldás szerint létesíthető.
 
-[^141]: A 74. §-t megelőző alcím a 182/2008. (VII. 14.) Korm. rendelet 29. §-ával megállapított szöveg.
-[^142]: A 74. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 29. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^143]: A 74. § (4) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^144]: A 74. § (8) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének p) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^181]: A 74. §-t megelőző alcím a 182/2008. (VII. 14.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^182]: A 74. § (1) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^183]: A 74. § (2) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^184]: A 74. § (3)–(4) bekezdését a 211/2012. (VII. 30.) Korm. rendelet 33. § 8. pontja hatályon kívül helyezte.
+[^185]: A 74. § (5) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 32. § 23. pontja szerint módosított szöveg.
+[^186]: A 74. § (8) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének p) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

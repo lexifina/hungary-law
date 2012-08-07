@@ -1,20 +1,20 @@
 ## Korlát, mellvédfal
 
-68. § (1)[^130] Az 1,0 m-nél hosszabb vízszintes vetületű gyalogos közlekedés céljára szolgáló lépcsőt, rámpát, lejtőt fogódzkodóval kell megvalósítani. Azt a lépcsőt, rámpát, lejtőt, amelynek a járófelülete a csatlakozó terepszintnél
+68. § (1)[^168] Az építményben, építményrészben minden olyan padlószintet, amelynek használata során a használókra nézve a kiesés, leesés kockázata fennáll, a biztonságos használat érdekében korláttal vagy mellvédfallal kell ellátni. A korlátot úgy kell tervezni és megvalósítani, hogy egy 120 mm átmérőjű tárgy ne férjen át a nyílásain, és ne tartalmazzon felmászást elősegítő, fellépőként szolgáló elemeket. A korlátot, mellvédfalat az előírt vízszintes terhelések elviselésére alkalmas szerkezettel kell kialakítani, szükség esetén figyelembe véve a tolongó tömeg okozta hatásokat is. Az üvegezést tartalmazó korlátot biztonsági üvegezéssel kell kialakítani.
 
-a) 0,17 m-rel magasabban van, a fogódzókon felül megfelelő méretű lecsúszás elleni védőperemmel,
+(2)[^169] A biztonságos gyalogos közlekedés céljára az 1,0 m-nél hosszabb vízszintes vetületű lépcsőt, rámpát, lejtőt fogódzkodóval kell tervezni és megvalósítani. Azt a lépcsőt, rámpát, lejtőt, amelynek a járófelülete a csatlakozó terepszintnél
+
+a) legfeljebb 0,17 m-rel magasabban van, a fogódzkodón felül megfelelő méretű lecsúszás elleni védőperemmel,
 
 b) legalább 0,95 m-rel magasabban van, lecsúszást gátló korlátkialakítással vagy mellvédfallal
 
-kell megvalósítani.
+kell tervezni és megvalósítani.
 
-(2)[^131] A lépcsőkar legalább egyik – a 2,0 m-nél szélesebb lépcsőkar mindkét – oldalát fogódzásra alkalmas módon kell megvalósítani. A lépcső és a lejtőkar kezdetén és a végén a kapaszkodók 0,30 m-rel nyúljanak túl. A kapaszkodó 4,5–5 cm átmérőjű, kör keresztmetszetű markolattal rendelkezzen. A markolat faltól való távolsága 4,5 cm legyen. A korlát markolatán a kéz legyen végigcsúsztatható és a környezethez képest színe kontrasztos legyen.
+(3)[^170] A lépcsőkar legalább egyik oldalát, fogódzkodásra alkalmas módon kell megvalósítani. Tömegtartózkodás céljára szolgáló építményben 2,0 m-nél szélesebb lépcsőkar mindkét oldalát fogódzkodásra alkalmas módon kell megvalósítani.
 
-(3)[^132] Azt a járófelületet, amelynek szintje a csatlakozó terepszintnél 0,80 m-nél magasabban van, legalább 0,95 m magas kiesést gátló korláttal vagy mellvédfallal kell határolni. A magasság legfeljebb 0,80 m-re csökkenthető, ha a korlát vagy a mellvédfal felső vízszintes lezárása (pl. könyöklője) legalább 0,30 m széles, vagy legalább ilyen biztonságot nyújtó, más megoldású stabil szerkezet. A korlát és a mellvéd magasságát – ha ezáltal balesetveszély nem keletkezik – jogszabály meghatározott esetre vonatkozóan, eltérően is meghatározhatja.
+(4)[^171] A nevelési-oktatási építmények közterületi kijáratai előtt a járda és az úttest elválasztására korlátot vagy annak megfelelő építményt kell létesíteni.
 
-(4)[^133] A nevelési-oktatási építmények közterületi kijáratai előtt a járda és az úttest elválasztására korlátot vagy annak megfelelő építményt kell létesíteni.
-
-[^130]: A 68. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^131]: A 68. § (2) bekezdésének második–ötödik mondatát a 182/2008. (VII. 14.) Korm. rendelet 26. § (2) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^132]: A 68. § új (3) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 26. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdésének számozását (4) bekezdésre változtatva. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^133]: A 68. § eredeti (3) bekezdésének számozását a 182/2008. (VII. 14.) Korm. rendelet 26. § (3) bekezdése (4) bekezdésre változtatta.
+[^168]: A 68. § (1) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^169]: A 68. § (2) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^170]: A 68. § új (3) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 26. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdésének számozását (4) bekezdésre változtatva. A 68. § (3) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^171]: A 68. § eredeti (3) bekezdésének számozását a 182/2008. (VII. 14.) Korm. rendelet 26. § (3) bekezdése (4) bekezdésre változtatta.

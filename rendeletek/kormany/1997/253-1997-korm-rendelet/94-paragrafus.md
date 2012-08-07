@@ -1,9 +1,3 @@
-## Tartalékfűtés
+94. §[^247]
 
-94. § (1) A tartalékfűtés lehetőségéről gondoskodni kell
-
-a) minden lakás legalább egy lakószobájában,
-
-b) minden olyan helyiségben, ahol folyamatos tartózkodás szükséges (pl. készenléti, ügyeleti helyiségekben).
-
-(2) A tartalékfűtés lehetőségéről szilárd tüzelőanyaggal üzemeltethető tüzelőberendezés céljára alkalmas, gravitációs üzemű kémény vagy egyidejűleg és folyamatosan igénybe vehető többlet villamos energia biztosításával kell gondoskodni.
+[^247]: A 94. §-t és a megelőző alcímet a 211/2012. (VII. 30.) Korm. rendelet 33. § 14. pontja hatályon kívül helyezte.

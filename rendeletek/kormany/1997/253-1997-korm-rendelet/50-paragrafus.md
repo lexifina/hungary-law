@@ -4,7 +4,7 @@
 
 ## ÁLTALÁNOS ELŐÍRÁSOK
 
-50. § (1)[^99] Az építményeket és részeit tervezési program (üzemelés-technológia) alapján kell tervezni és megvalósítani, a vonatkozó jogszabályok előírásainak megfelelően. A rendeltetési célnak megfelelő építési követelményeket és az akadálymentes használatot biztosító építményrészeket tervezési programban kell meghatározni. A közhasználatú építmények akadálymentesen használható részeit a rendeltetésük szerinti közszolgáltatók által meghatározott adatok alapján kell megvalósítani.
+50. § (1)[^99] A tervezési program olyan szöveges dokumentum, amely tartalmazza az építménnyel szemben előírt alapvető követelmények meghatározását, valamint a tervezési szerződés szerinti építtetői elvárások mennyiségi és minőségi részletezését. A tervezési program az e rendeletben előírt követelményeknél szigorúbbakat is megállapíthat.
 
 (2)[^100] Az (1) bekezdésben foglaltakon túlmenően építményt és annak részeit a rendeltetési céljának megfelelően, és a helyszíni adottságok figyelembevételével kell megvalósítani úgy, hogy az
 
@@ -22,38 +22,41 @@ f) építmény elhelyezési módja, építménymagassága, homlokzata, tetőzete
 
 g) építészeti megoldásával járuljon hozzá a táj- és a településkép esztétikus alakításához.
 
-(3)[^101] Az építmények és részei megvalósítása során
+(3)[^101] Az építménynek meg kell felelnie a rendeltetési célja szerint
 
-a) az állékonyságra és a szilárdságra,
+a) az állékonyság és a mechanikai szilárdság,
 
-b) a tűzbiztonságra,
+b) a tűzbiztonság,
 
-c) a higiéniára, az egészség- és a környezetvédelemre,
+c) a higiénia, az egészség- és a környezetvédelem,
 
-d) a használati biztonságra,
+d) a biztonságos használat és akadálymentesség,
 
-e) a zaj és rezgés elleni védelemre,
+e) a zaj és rezgés elleni védelem,
 
-f) az energiatakarékosságra és a hővédelemre,
+f) az energiatakarékosság és hővédelem,
 
-g) az élet- és vagyonvédelemre
+g) az élet- és vagyonvédelem, valamint
 
-vonatkozó nemzeti szabványok előírásainak megfelelő, illetőleg azokkal legalább egyenértékű megoldást kell alkalmazni.
+h) a természeti erőforrások fenntartható használata
 
-(4)[^102] Építési célra szolgáló anyagot, szerkezetet, berendezést építménybe beépíteni csak a jogszabályokban meghatározott feltételek szerint szabad.
+alapvető követelményeinek, és a tervezési programban részletezett elvárásoknak.
 
-(5)[^103] Az építményt és részeit, szerkezeteit, beépített berendezéseit úgy kell megvalósítani, utólagosan átalakítani, hogy azok
+(3a)[^102] Az alapvető követelmények kielégítését a vonatkozó magyar nemzeti szabvány alkalmazásával vagy más, a követelmények legalább ezzel egyenértékű teljesítését biztosító megoldással lehet teljesíteni. Építményeket úgy kell tervezni és megvalósítani, hogy – a tervezési programban meghatározott típusú – megújuló energiaforrás berendezésének beépítési vagy csatlakozási lehetősége az építmény szerkezetének jelentős mértékű megbontása nélkül biztosított legyen.
 
-a) a tervezett vagy becsült élettartamuk alatt a rendeltetési céljuknak megfelelően az állékonyság és a biztonság követelményeinek megfeleljenek,
+(4)[^103] Építési célra szolgáló anyagot, szerkezetet, berendezést építménybe beépíteni csak a jogszabályokban meghatározott feltételek szerint szabad.
 
-b) a várható hatások (nedvesség, szél, levegőszennyeződés, hang, rezgés, földrengés, sugárzás, napfény, hő stb.) okozta ártalmak ellen az építmény rendeltetésszerű használatához szükséges mértékű védelmet nyújtsanak,
+(5)[^104] Az építményt és annak részét, szerkezetét, beépített berendezését és vezetékrendszerét úgy kell tervezni és megvalósítani, hogy azok karbantartás, korszerűsítés, esetleges csere céljából – a csatlakozó szerkezetek állékonyságának veszélyeztetése nélkül – hozzáférhetők legyenek, valamint azok a magyar nemzeti szabványok által megkövetelt biztonsággal
 
-c) a várható mértékű terheléseknek, hatásoknak [pl. mechanikai, (nap)fény, oldó, vegyi, hő, tűz, robbanás, korróziós és biológiai] az előírt mértékben ellenálljanak, illetőleg azoknak megfeleljenek,
+a) feleljenek meg a tervezett vagy becsült élettartamuk alatt – a rendeltetési céljuknak megfelelő biztonsággal – az állékonyság és a mechanikai szilárdság, valamint a rendeltetésszerű és biztonságos használat követelményeinek,
 
-d) jókarbantartásuk, esetleges cseréjük céljából – a csatlakozó szerkezetek állékonyságának veszélyeztetése nélkül – hozzáférhetők legyenek.
+b) nyújtsanak védelmet a várható hatások okozta ártalmak ellen az építmény rendeltetésszerű használata során, és
 
-[^99]: Az 50. § (1) bekezdése a 36/2002. (III. 7.) Korm. rendelet 13. §–ával megállapított szöveg. Az 50. § (1) bekezdésének harmadik mondatát a 182/2008. (VII. 14.) Korm. rendelet 17. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+c) feleljenek meg és álljanak ellen a várható mértékű terheléseknek, hatásoknak.
+
+[^99]: Az 50. § (1) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^100]: Az 50. § (2) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^101]: Az 50. § új (3) bekezdését a 36/2002. (III. 7.) Korm. rendelet 13. §–a iktatta a szövegbe, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. E módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a 2002. 03. 15. napját követően indított ügyekben kell alkalmazni.
-[^102]: Az 50. § eredeti (3) bekezdésének számozását a 36/2002. (III. 7.) Korm. rendelet 13. §-a (4) bekezdésre változtatta, szövege a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének k) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^103]: Az 50. § eredeti (4) bekezdésének számozását a 36/2002. (III. 7.) Korm. rendelet 13. §-a (5) bekezdésre változtatta.
+[^101]: Az 50. § új (3) bekezdését a 36/2002. (III. 7.) Korm. rendelet 13. §–a iktatta a szövegbe, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. Az 50. § (3) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^102]: Az 50. § (3a) bekezdését a 211/2012. (VII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^103]: Az 50. § eredeti (3) bekezdésének számozását a 36/2002. (III. 7.) Korm. rendelet 13. §-a (4) bekezdésre változtatta, szövege a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének k) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^104]: Az 50. § eredeti (4) bekezdésének számozását a 36/2002. (III. 7.) Korm. rendelet 13. §-a (5) bekezdésre változtatta, szövege a 211/2012. (VII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

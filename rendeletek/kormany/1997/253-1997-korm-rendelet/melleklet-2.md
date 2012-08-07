@@ -1,4 +1,4 @@
-2. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^215]
+2. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^303]
 
 A TELEPÜLÉSRENDEZÉSI ESZKÖZÖK JELKULCSA
 
@@ -346,4 +346,4 @@ I. TELEPÜLÉSSZERKEZETI TERVLAP*
 
 | - csapadékvízelvezető főárok |  |  |
 
-[^215]: A 2. számú melléklet a 36/2002. (III. 7.) Korm. rendelet 17. §-ával megállapított, valamint a 219/2004. (VII. 21.) Korm. rendelet 44. §-a, a 182/2008. (VII. 14.) Korm. rendelet 51. § (2) bekezdése, 52. § (6) bekezdése és 52. § (7) bekezdésének w) pontja, a 306/2010. (XII. 23.) Korm. rendelet 45. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 38–42. §-át.
+[^303]: A 2. számú melléklet a 36/2002. (III. 7.) Korm. rendelet 17. §-ával megállapított, valamint a 219/2004. (VII. 21.) Korm. rendelet 44. §-a, a 182/2008. (VII. 14.) Korm. rendelet 51. § (2) bekezdése, 52. § (6) bekezdése és 52. § (7) bekezdésének w) pontja, a 306/2010. (XII. 23.) Korm. rendelet 45. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 38–42. §-át.

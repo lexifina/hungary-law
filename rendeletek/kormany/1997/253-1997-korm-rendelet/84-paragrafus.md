@@ -1,5 +1,3 @@
-## Távközlő vezetékek, berendezések
+84. §[^221]
 
-84. § (1) A közcélú távbeszélő és a műsorelosztó hálózat vezetékeit egymástól és a házi telefon és más jelző vezetékektől elkülönítve, karbantartás céljából hozzáférhető módon közös helyiségekben kell elhelyezni.
-
-(2) Tűz- és robbanásveszélyes helyiségek belső falán távközlő vezetékek, berendezések kizárólag robbanásbiztos szereléssel alkalmazhatók.
+[^221]: A 84. §-t és a megelőző alcímet a 211/2012. (VII. 30.) Korm. rendelet 33. § 12. pontja hatályon kívül helyezte.

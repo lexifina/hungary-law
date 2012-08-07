@@ -1,16 +1,12 @@
 ## EGYES HELYISÉGEK, TEREK
 
-## Közlekedők
+## Közlekedési célú terek és helyiségek[^248]
 
-95. § (1) Az építmény közlekedő terei és helyiségei egyaránt tegyék lehetővé a zavartalan, biztonságos közlekedést a rendeltetésnek megfelelően a használó személyek, a járművek, a gépek és a teherszállítás számára, biztosítsák továbbá veszély esetén az építmények meghatározott időn belüli kiürítésének lehetőségét. Az építmény használata, berendezéseinek működése, vagy esetleges meghibásodása a kiürítés lehetőségét nem veszélyeztetheti.
+95. §[^249] (1) Az építmény közlekedési célú tereinek és helyiségeinek (a továbbiakban együtt: közlekedők) a rendeltetésnek megfelelően egyaránt lehetővé kell tennie a zavartalan, biztonságos közlekedést a használó személyek, a járművek, a gépek és a teherszállítás számára, biztosítani kell továbbá veszély esetén az építmény és annak részei meghatározott időn belüli kiürítésének lehetőségét. Az építmény használata, berendezéseinek működése vagy esetleges meghibásodása a kiürítés lehetőségét nem veszélyeztetheti.
 
-(2) Az építmény főbejárata és valamennyi önálló rendeltetési egységének (pl. lakásának) bejárata, továbbá az ezek közötti közlekedőterületek – a kiürítési útvonalak – legyenek alkalmasak egy hordágyon fekvő beteg biztonságos és akadálymentes végigszállítására.
+(2) Az építmény főbejáratának és valamennyi önálló rendeltetési egysége bejáratának, továbbá az ezek közötti közlekedőnek, és a kiürítési útvonalnak alkalmasnak kell lennie egy hordágyon fekvő beteg biztonságos végigszállítására.
 
-(3) Kapualjat és áthajtót a rendeltetéséhez, a biztonságos használatához szükséges méretekkel, a tűzvédelmi követelmények szerint, a közhasználatú átjárót, áthajtót, aluljárót a külön előírásoknak megfelelő űrszelvénnyel kell kialakítani.
+(3) Az építmény kiürítésre alkalmas közlekedőit – a várható személyi forgalom egyidejűségének figyelembevételével, és a kiürítésre vonatkozó előírások megtartásával – úgy kell tervezni és megvalósítani, hogy a kiürítésre alkalmas közlekedő hátrányosan befolyásoló térszűkületet ne tartalmazzon.
 
-(4)[^179] Az építmény kiürítésre alkalmas útvonalainak (folyosók, lépcsők, lejtők, kapualjak stb.) előírt legkisebb szabad keresztmetszetét, területét, épületszerkezet, beépített berendezés, felszerelés, szerelvény (pl. benyíló ajtószárny, ablakszárny, fűtőtest, csővezeték) a járófelülettől mért 1,95 m magasságon belül nem szűkítheti.
-
-(5)[^180]
-
-[^179]: A 95. § (4) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének t) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^180]: A 95. § (5) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése hatályon kívül helyezte.
+[^248]: A 95. §-t megelőző alcím a 211/2012. (VII. 30.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^249]: A 95. § a 211/2012. (VII. 30.) Korm. rendelet 24. §-ával megállapított szöveg.

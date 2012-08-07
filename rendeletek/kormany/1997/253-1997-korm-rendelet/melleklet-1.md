@@ -1,152 +1,200 @@
-1. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^212]
+1. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^302]
 
 Fogalommeghatározások
 
-1. Akadálymentes: az az építmény, amely mindenki számára önállóan, biztonságosan és kényelmesen, korlátozás nélkül használható.
+1. Alagsor: olyan építményszint, amelynek padlószintje legfeljebb 20%-ában kerül 0,70 m-nél mélyebbre a csatlakozó rendezett terepszint alá.
 
-2. Alagsor: olyan építményszint, amelynek padlószintje az építmény szintterülete legfeljebb 20%-ában kerül 0,70 m-nél mélyebbre a csatlakozó rendezett terepszint alá.
+2. Alagsori helyiség, helyiségcsoport: olyan helyiség, helyiségcsoport, amelynek a padlószintje bárhol legfeljebb 0,70 m-rel kerül a terepcsatlakozás alá.
 
-3. Alagsori helyiség, helyiségcsoport: amelynek a padlószintje bárhol legfeljebb 0,70 m-rel kerül a terepcsatlakozás alá.
+3. Aula: fedett belső udvar vagy átrium.
 
-4. Alapterület: épületszerkezettel részben vagy egészben közrefogott helyiség vagy tér vízszintes vetületben számított belső területe (nettó alapterület).
+4. Állagmegóvás: meglévő építmény, építményrész, önálló rendeltetési egység, helyiség kármegelőzése, kárelhárítása, rendeltetésszerű és biztonságos használatra alkalmassága érdekében végzett, az eredeti állagának visszaállítását szolgáló építési tevékenység.
 
-5. Állagmegóvás (karbantartás): meglévő építmény, építményrész, önálló rendeltetési egység, helyiség kármegelőzése, kárelhárítása érdekében végzett, az eredeti állagának visszaállítását szolgáló építési-szerelési munka.
+5. Állattartó építmény: állatok elhelyezésére szolgáló építmény.
 
-6. Állattartó építmény: állatok elhelyezésére szolgáló gazdasági célú építmény.
+6. Álmennyezet: nem teherhordó, térelhatároló szerkezet, amelyet födémre vagy fedélszerkezetre rögzítenek.
 
-7. Árkád: az építmény földszinti három oldalán nyitott, általában közhasználat céljára szolgáló területe.
+7. Árkád: az építmény földszintjének a szabad tér felé jellemzően csak tartószerkezetével határolt és hosszoldalán nyitott, közterületi kapcsolat esetén többnyire közhasználat céljára szolgáló területe.
 
-8. Átalakítás: meglévő építmény, építményrész, önálló rendeltetési egység, helyiség alaprajzi elrendezésének vagy külső megjelenésének, illetőleg használati módjának megváltoztatása érdekében végzett, az építmény térfogatát nem növelő építési munka.
+8. Átalakítás: meglévő építmény, építményrész, önálló rendeltetési egység, helyiség alaprajzi elrendezésének vagy külső megjelenésének, megváltoztatása érdekében végzett, az építmény belső térfogatát nem növelő építési tevékenység.
 
-9. Áthajtó: építményen átvezető, járműközlekedésre szolgáló tér.
+9. Áthajtó: építményen átvezető, járműközlekedésre is szolgáló tér.
 
-10. Átjáró: építményen átvezető, személyi közlekedésre szolgáló tér.
+10. Átjáró: építményen átvezető, személyközlekedésre szolgáló tér.
 
-11. Átlagos belmagasság: a helyiség hasznos alapterületéhez tartozó térfogatnak és a hasznos alapterületnek a hányadosa (m3/m2).
+11. Átlagos belmagasság: a helyiség hasznos alapterületéhez tartozó térfogatnak és a hasznos alapterületnek a hányadosa m3/m2.
 
-12. Belmagasság: a padlószint és a födém vakolt (burkolt) alsó síkja közötti függőleges távolság.
+12. Átrium: belső udvar, -kert, e köré szerveződnek a helyiségek.
 
-13. Belső fekvésű helyiség: homlokzati nyílászáró nélküli helyiség.
+13. Beépítési sűrűség: a területfelhasználási egységek területén elhelyezhető épületek valamennyi építményszintjének összesített bruttó területe és a területfelhasználási egységeknek a köztük lévő, településszerkezetet nem meghatározó közterületek területével növelt területének viszonyszáma.
 
-14. Belső kerítés: a telek területén álló, a telek különböző rendeltetésű vagy használatú részeit térbelileg elválasztó, lehatároló építmény.
+14. Befogadóképesség: valamely területen, építményben, helyiségcsoportban, helyiségben az építmény, helyiség rendeltetése szerint megállapított mennyiségi mutatók szerint egyszerre, egy időpontban tartózkodó személyek megengedett száma, eszközök, tárgyak megengedett mennyisége.
 
-15. Biztonságos használhatóság: biztonságosan használható az építmény vagy annak része, ha a rendeltetésszerű használókat nem veszélyezteti állékonysági, tűzvédelmi, egészségvédelmi vagy más szempontból nem megfelelő építményrész, szerkezet, berendezés, építési anyag.
+15. Belmagasság: a padlószint és a födém vakolt (burkolt) vagy az álmennyezet alsó síkja közötti függőleges távolság.
 
-16. Bővítés: meglévő építmény építményszintjének, vagy beépített térfogatának vízszintes, illetve függőleges irányú növelése érdekében végzett építési tevékenység.
+16. Belső fekvésű helyiség: közvetlen természetes szellőzéssel és közvetlen természetes megvilágítással nem rendelkező helyiség.
 
-17. Csoportház (a sorház, láncház, átriumház gyűjtő-meghatározása): építési telkenként egy vagy több önálló rendeltetési egységet (pl. lakást vagy egy üdülőegységet) magába foglaló, egymástól független épületszerkezetekkel és vezetékekkel megvalósított önálló épületelemek, egymáshoz kapcsolt beépítéssel csoportosan elhelyezett együttese.
+17. Bővítés: olyan építési tevékenység, amely az építmény térfogatát növeli.
 
-18. Előkert: az építési teleknek a közterület vagy a magánút felőli határvonala (homlokvonala) és az e felé meghatározott építési határvonal (előkerti határvonal), illetőleg az oldalkerje(i) között fekvő része.
+18. Bruttó alapterület: épületszerkezetek alapterületével növelt nettó alapterület.
 
-19. Előlépcső: az építmény megközelítését szolgáló az épület körüli járda, illetve rendezett csatlakozó terepszint és az építmény első bejárati szintje közötti szabad lépcső.
+19. Csoportház: építési telkenként egy vagy több önálló rendeltetési egységet (pl. lakást vagy üdülőegységet) magába foglaló, zártsorúan csatlakozó – többnyire egy ütemben, jellemzően azonos vagy hasonló építészeti kialakítású, egymástól független épületszerkezetekkel és közműbekötésekkel épített – épületek, együttese. Lehet sorház, láncház, átriumház.
 
-20. Emeletráépítés: meglévő építmény függőleges irányú bővítése egy vagy több emeleti szint létesítése érdekében.
+20. Egészségügyi rendeltetés: az egészségügy körébe tartozó fekvő- és járóbeteg ellátás, megelőző, illetve utólagos ellátást végző egészségügyi szolgáltatás, gyógyszerellátás, valamint kutatás.
 
-21. Emeletszint: földszint feletti építményszint.
+21. Előkert: az építési teleknek a közterület vagy a magánút felőli határvonala (homlokvonala), és az építési határvonal (előkerti határvonal), valamint az oldalkertje(i) által határolt része.
 
-22. Építési határvonal: a telek előkertjét, oldalkertjét és hátsókertjét meghatározó vonalak.
+22. Előlépcső: az épület körüli járdáról, vagy a rendezett csatlakozó terepszintről induló, az építmény bejáratához csatlakozó olyan szabad- vagy tereplépcső, mely az épület egy szintmagasságánál kevesebbet hidal át.
 
-23. Építési hely (telek beépíthető része): az építési teleknek az elő-, oldal- és hátsókerti építési határvonalai által körülhatárolt területrésze, amelyen – a védőtávolságok megtartásával – az övezeti előírások szerinti telekbeépítettség mértékéig az épület(ek) elhelyezhető(k).
+23. Emeletráépítés: meglévő építmény függőleges irányú bővítése egy vagy több emelet- szint létesítése érdekében.
 
-24. Építési övezet: a beépítésre szánt (beépített) területek területfelhasználási egységein belüli egyes területrészeken a felhasználás és az építés feltételeit és módját meghatározó besorolás.
+24. Emeletszint: földszint feletti építményszint.
 
-25. Építési vonal: az építési helyen belül vagy annak határvonalán a helyi építési szabályzatban meghatározott olyan vonal(ak), amely(ek)re az épületet kötelezően kell elhelyezni.
+25. Erkély: az épület homlokzati síkjától kinyúló, konzolos, függesztett vagy pontszerűen alátámasztott kialakítású külső tartózkodó tér.
 
-26. Építménymagasság („H”): az építmény valamennyi, a telek beépítettsége meghatározásánál figyelembe veendő építmény kontúrvonalára állított függőleges felületre vetített homlokzati vetületi-felület összegének (F) valamennyi, e vetületi-felület vízszintesen mért hosszának összegével (L) való osztásából (F/L) eredő érték.
+26. Életciklus: anyagok, szerkezetek használati időszakának egymást követő szakaszainak összessége a nyersanyagbeszerzéstől vagy természeti erőforrásból történő előállítástól a végső ártalmatlanításig.
 
-Az építménymagasság megállapítása során:
+27. Építési határvonal: a telek előkertjét, oldalkertjét és hátsókertjét meghatározó vonalak.
 
-a) az egyes homlokzati vetületi-felületeket az adott felületi síknak és a legfelső teljes építményszint záró szerkezetének felső síkjának metszésvonala vagy érintővonala és a síknak a rendezett tereppel való metszésvonala közötti magassággal kell megállapítani, legfeljebb 6,0 m magasságú két oromfal kivételével, amelyek nem az építmény hosszoldalán állnak,
+28. Építési hely: az építési teleknek az elő-, oldal- és hátsókerti építési határvonalai által körülhatárolt beépíthető területrésze, amelyen – a védőtávolságok megtartásával – az övezeti előírások szerinti telekbeépítettség mértékéig az épület (épületek) elhelyezhető (elhelyezhetők).
 
-b) az egyes homlokzatfelületekhez hozzá kell számítani – a kémény, a tetőszerelvények, a 0,5 m2-t meg nem haladó felületű padlásvilágító ablak és az 1,0 m2-t meg nem haladó felületű reklámhordozók kivételével – mindazoknak az építményrészeknek (attikafal, torony, kupola, tető, tetőrész vagy egyéb építményrész) a felületét, amelyek az a) pont szerinti metszésvonalra vagy érintővonalra az építmény irányában emelkedő 45° alatt vont sík fölé emelkednek, ezen építményrészeknek az illető homlokzat felületi síkjára ugyancsak 45° alatt vont – az előzővel párhuzamos – síkkal történő vetítéssel meghatározott magasságával,
+29. Építési övezet: a beépítésre szánt vagy beépített területek területfelhasználási egységein belüli egyes területrészeken a felhasználás és az építés feltételeit és módját meghatározó besorolás.
 
-c) a négy oldalról körülhatárolt légakna, légudvar, belső udvar homlokzatfelületeit, valamint a loggiák belső oldalfelületeit és azok vízszintesen mért hosszait figyelmen kívül kell hagyni,
+30. Építési telek: az a telek,
 
-d) az egy telken álló több épület magasságát külön-külön kell figyelembe venni.
+a) amely beépítésre szánt területen fekszik,
 
-Az épület egy homlokzatának magasságát a hozzá tartozó F/L érték alapján kell megállapítani.
+b) az építési szabályoknak megfelelően kialakított,
 
-27. Építményszint: az építmény minden olyan szintje, amely padlószinttel rendelkezik.
+c) a közterületnek gépjármű-közlekedésre alkalmas részéről az adott közterületre vonatkozó jogszabályi előírások szerint, vagy önálló helyrajzi számon útként nyilvántartott magánútról gépjárművel közvetlenül, zöldfelület, illetve termőföld sérelme nélkül megközelíthető, és
 
-28. Erkély: az épület homlokzati síkjától kinyúló, szerkezetileg rendszerint konzolos, függesztett, vagy pontszerűen alátámasztott kialakítású és helyiséghez közvetlenül csatlakozó külső tartózkodó tér.
+d) amelynek a közterülettel vagy magánúttal közös határvonala legalább 3,00 m.
 
-29. Fagyhatár (mértékadó): a rendezett terepcsatlakozástól mért azon talajmélység, ahol még a talaj nem fagy át.
+31. Építési vonal: az építési helyen belül vagy annak határvonalán a helyi építési szabályzatban meghatározott olyan vonal (vonalak), amelyre (amelyekre) az épületet a helyi építési szabályzatban meghatározottak szerint kötelezően helyezni kell.
 
-30. Felújítás: meglévő építmény, építményrész, önálló rendeltetési egység, helyiség rendeltetésszerű és biztonságos használhatóságának, valamint üzembiztonságának megtartása érdekében végzett (jókarbantartási) építési tevékenység.
+32. Épület legmagasabb pontja: az épületnek a terepcsatlakozáshoz, lejtős terepen a lejtőoldali alacsonyabb terepcsatlakozáshoz, valamely magas ponthoz, vagy valamely síkhoz viszonyított, helyi építési szabályzat által megállapított legfelső pontja. Ennek meghatározásánál a tető azon díszítő elemei, amelyek huzamos tartózkodásra szolgáló helyiséget nem tartalmaznak – kupola, saroktorony – valamint a tetőfelépítmények és az épület tetőzetén elhelyezett antenna, kémény és szellőző valamint tartozékaik figyelmen kívül hagyandók.
 
-31. Felvonulási építmény: az építmény(ek) kivitelezése célját szolgáló, annak befejezéséig fenntartható építmény.
+33. Épületmagasság („Ém”): az épület valamennyi, külső és belső, sík vagy kiterített íves homlokzati felülete összegének (F) valamennyi, e felületek vízszintesen mért hosszának összegével (L) való osztásából (F/L) eredő érték.
 
-32. Fogyatékos személy: az a személy aki mozgásszervi, érzékszervi, értelmi képességeinek tartós korlátozottsága vagy egyéb súlyos egészségkárosodása miatt az építmények akadálymentes használat követelményeinek biztosítása nélkül akadályozott.
+34. Építményszint: az építmény mindazon használati szintje, amelyen helyiség van. Nem építményszint a padlás, valamint az a tetőszint, amelyen a felvonógépházon vagy a lépcsőház felső szintjén kívül más helyiség nincs.
 
-33. Folyosó: önálló rendeltetési egységek, helyiségek megközelítésére, összekapcsolására szolgáló közös használatú közlekedő.
+35. Fagyhatár: a rendezett terepcsatlakozástól mért azon talajmélység, ahol a talaj nem hűl tartósan 0 °C alá.
 
-34. Földszint: olyan építményszint, amelynek padlószintje az építmény szintterülete legfeljebb 20%-ában és legfeljebb 0,70 m-rel kerül a csatlakozó rendezett terepszint alá.
+36. Felújítás: meglévő építmény, építményrész, önálló rendeltetési egység, helyiség rendeltetésszerű és biztonságos használhatóságának, valamint üzembiztonságának megtartása érdekében végzett az építmény térfogatát nem növelő építési tevékenység.
 
-35. Földszinti helyiség, helyiségcsoport: amelynek padlószintje sehol sem kerül a csatlakozó terepszint alá.
+37. Felvonulási építmény: az építmény (építmények) kivitelezését szolgáló, az építés befejezéséig fenntartható építmény.
 
-36. Galéria: helyiség légterének részleges – az alapterületének legfeljebb 75%-án és csak vízszintes szerkezettel történő – megosztásával kialakított belső (közbenső) szint, amelyen helyiség és 1,0 m-nél magasabb tömör korlát vagy fal nem létesül.
+38. Fényszennyezés: olyan mesterséges zavaró fény, ami a horizont fölé vagy nem kizárólag a megvilágítandó felületre és annak irányába, illetve nem a megfelelő időszakban világít, ezzel káprázást, az égbolt mesterséges fénylését vagy káros élettani és környezeti hatást okoz, beleértve az élővilágra gyakorolt negatív hatásokat is.
 
-37. Hasznos alapterület: az alapterületnek azon része, amelyen a belmagasság legalább 1,90 m. (A fogalom nem vonatkozik a terek használhatóságára.)
+39. Fogyatékos személy: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvényben meghatározott fogalom.
 
-38. Hátsókert: az építési telek hátsó telekhatára és az e felé meghatározott építési határvonal (hátsókerti határvonal), illetőleg az oldalkertje(i) között fekvő része.
+40. Folyosó: önálló rendeltetési egységek, helyiségek megközelítésére, összekapcsolására szolgáló közös használatú közlekedő.
 
-39. Helyiség: a rendeltetésének megfelelően épületszerkezettel minden irányból körülzárt tér.
+41. Főépítmény: az övezeti előírások megtartásával épített, elsősorban a területfelhasználási egység jellegének megfelelő, másodsorban a településrendezési eszközben meghatározott, a területhasználatot nem zavaró rendeltetésű építmény.
 
-40. Helyreállítás (újjáépítés): építmény rendeltetésszerű és biztonságos használatra alkalmassá tétel érdekében végzett felújítási tevékenység az építmény építményrész, eredeti építészeti, alaprajzi kialakításának lehetséges megtartása mellett.
+42. Földszint: olyan építményszint, amelynek padlószintje legfeljebb 20%-ában és legfeljebb 0,70 m-rel kerül a csatlakozó rendezett terepszint alá.
 
-41. Homlokzat: az építménynek a nézőpont felé eső legkülső pontjára illesztett függőleges felületre vetített terepcsatlakozása felett látható része.
+43. Földszinti helyiség, helyiségcsoport: olyan helyiség, helyiségcsoport, amelynek padlószintje sehol sem kerül a csatlakozó terepszint alá.
 
-42. Huzamos tartózkodásra szolgáló helyiség: amelynek a használata folyamatosan két óra időtartamot meghaladó, vagy amelynél a használatok közötti szünet időtartama a két órát nem éri el.
+44. Függönyfal: az építmény tartószerkezetihez rögzített, azok előtt folytonosan kialakított önhordó térelhatároló falszerkezet.
 
-43. Ikerház: két szomszédos építési telek közös oldalhatárán álló, egymástól független épületszerkezetekkel és vezetékekkel megvalósított, nyílás nélküli tűzfalakkal csatlakozó két olyan önálló épület, amely külsőleg egy épület képét mutatja.
+45. Galéria: helyiség légterének részleges – az alapterületének legfeljebb 50%-án és csak vízszintes szerkezettel történő – megosztásával kialakított belső (közbenső) szint, amelyen helyiség és 1,0 m-nél magasabb tömör korlát vagy fal nem létesül.
 
-44. Kerítés: a telek területét a közterülettől, illetve a szomszédos telkek területétől térbelileg elválasztó, lehatároló építmény.
+46. Hasznos alapterület: a nettó alapterületnek azon része, amelyen a belmagasság legalább 1,90 m.
 
-45. Kerti építmény: az építési telken belül pihenés, játék, szórakozás, kikapcsolódás céljára szolgáló műtárgy [pl. hinta, csúszda, homokozó, lugas, szökőkút, kerti tó, kerti grill, kerti pavilon, terasz, kerti víz- és fürdőmedence, kerti épített tűzrakóhely, kerti zuhanyozó, kerti napkollektor, legfeljebb 20 m2 vízszintes vetülettel kialakított kerti tető, kerti szabadlépcső (tereplépcső) és lejtő].
+47. Hátsókert: az építési telek hátsó telekhatára és az e felé meghatározott építési határvonal (hátsókerti határvonal), valamint az oldalkertje(i) által határolt része.
 
-46. Kézműipari építmény: olyan ipari vagy üzemi rendeltetésű építmény, amelyben a főhelyiségek összes alapterülete nem haladja meg a 100 m2-t, a foglalkoztatottak száma legfeljebb 5 fő és az üzem működése során kielégíti a lakóterületre megállapított egészségügyi és környezetvédelmi követelményeket.
+48. Helyiség: a rendeltetésének megfelelően épületszerkezettel minden irányból körülhatárolt, járófelülettel rendelkező tér, a beépítetlen tetőtér kivételével.
 
-47. Korszerűsítés: meglévő építmény, építményrész, önálló rendeltetési egység, helyiség rendeltetésszerű és biztonságos használatra alkalmasságának javítása, használati értékének, teljesítőképességének, üzembiztonságának növelése érdekében végzett építési-szerelési munka.
+49. Helyreállítás: újjáépítés, építmény rendeltetésszerű és biztonságos használatra alkalmassá tétele érdekében végzett felújítási tevékenység az építmény, építményrész eredeti építészeti kialakításának lehetséges megtartása mellett.
 
-48. Környezetterhelési határérték: jogszabályban a területfelhasználási egységre a terület rendeltetésszerű használhatósága érdekében meghatározott levegő- (por, fűst, szag), víz- és talajszennyezettség, továbbá a zaj-, a rezgés-, és a sugárterhelés megengedett felső határértéke.
+50. Hitéleti rendeltetés: egyházi, vallási gyülekezeti használati cél.
 
-49. Környező terepszint: a telekhez csatlakozó szomszédos telkek rendezett terepszintje.
+51. Homlokzat: az építménynek a nézőpont felé eső legkülső pontjára illesztett függőleges felületre vetített, a terepcsatlakozása feletti része.
 
-50. Középfolyosó: olyan zártfolyosó, amelynek mindkét hosszanti oldalát helyiségek, helyiségcsoportok határolják.
+52. Homlokzatmagasság (Hm): az épület homlokzatának magasságát a hozzá tartozó F/L érték alapján kell megállapítani, melynek számítása során figyelmen kívül kell hagyni
 
-51. Középmagas építmény: amelyben a legfelső építményszint szintmagassága 13,65 m és 30,0 m között van.
+a) a kémények, szellőzőkürtők, tetőszerelvények magasságát,
 
-52. Közhasználatú építmény: az Étv. 2. §-ban meghatározott építmény.
+b) a vizsgált homlokzatfelülettől 12,00 m-nél távolabbi (hátrább álló) építményrészeket,
 
-53. Közkert: egy meghatározott főfunkciót (játék, sport, pihenés stb.) szolgáló 1 ha-nál kisebb területű, közterületi zöldterület, amelyet bárki használhat.
+c) a vizsgált homlokzatfelület vízszintes összhosszának egyharmadát meg nem haladó összhosszúságú és legfeljebb 3,00 m magasságú
 
-54. Közpark: több funkciót szolgáló, legalább 1 ha nagyságú és legkisebb oldalmérete is 80 m-nél nagyobb, közhasználatú közterületi zöldterület, amelyet bárki használhat.
+ca) tetőfelépítmény, építményrész, attika, álló tetőablak,
 
-55. Közműpótló: a vezetékes közműellátást helyettesítő műtárgy (pl. kút, szennyvíztároló, aggregátor).
+cb) a terepbevágás mögötti homlokzatrész magasságát, továbbá
 
-56. Köztárgy: közterületen vagy közhasználat céljára átadott területen álló közcélú műtárgy (pl. művészeti, kegyeleti alkotás, emlékmű, díszkút, szökőkút, közvilágítási, közlekedésirányítási, hírközlési, postai, kertépítészeti műtárgy, illetőleg geodéziai jel, utcabútor).
+d) a magastető és oromfalainak 6,00 m-t meg nem haladó magasságú részét.
 
-57. Közvetett természetes megvilágítás: közvetlen természetes megvilágítású helyiségen, helyiségrészen keresztül történő megvilágítás.
+A gömb, félgömb, donga vagy sátortető alakú építmények („tetőépítmények”) homlokzatmagasságát, ha az a 12,00 m magasságot nem haladja meg, a vetületmagasság felében, ha a 12,00 m magasságot meghaladja, a vetületmagasság 6,00 m-rel csökkentett értékében kell meghatározni.
 
-58. Közvetlen természetes megvilágítás: közvetlenül a szabadba nyíló, bevilágításra szolgáló felületen keresztül történő megvilágítás.
+53. Huzamos tartózkodásra szolgáló helyiség: olyan helyiség, amelynek a használata folyamatosan két óra időtartamot meghaladó, vagy amelynél a használatok közötti szünet időtartama a két órát nem éri el.
 
-59. Közvetlen természetes szellőzés: közvetlenül a szabadba nyíló nyílászárón vagy szellőzőkürtőn, szellőzőcsatornán keresztül történő gravitációs légcsere.
+54. Ikerház: két szomszédos építési telek közös oldalhatárán álló, egymástól független épületszerkezetekkel és közműbekötésekkel megvalósított, tűzfalakkal csatlakozó két olyan önálló épület, amely külsőleg egy épület képét mutatja.
 
-60. Légakna: közel azonos légszennyezettségű mellékhelyiségek közvetlen természetes szellőzésére szolgáló, épületszerkezetekkel körülhatárolt, vagy a szomszédos építési telek beépítéséig a telekhatárhoz csatlakozó oldalán nyitott tér.
+55. Igazgatási rendeltetés: állami, önkormányzati vagy egyéb igazgatási feladatok.
 
-61. Légudvar: helyiségek közvetlen természetes szellőzésére és megvilágítására szolgáló, épületszárnyakkal, határfalakkal körülhatárolt belső udvar, vagy a szomszédos építési telek beépítéséig a telekhatárhoz csatlakozó oldalán nyitott tér.
+56. Ipari rendeltetés: rendszeres üzletszerű ipari tevékenység.
 
-62. Lépcsőkar szabad szélessége: a lépcsőkorlátok, illetőleg a korlát és a fal között mért legkisebb vízszintes távolság.
+57. Irodai rendeltetés: jellemzően irodai funkció.
 
-63. Loggia: az épület homlokzati síkján belül lévő, három oldalról falakkal, alulról és felülről födémekkel, a homlokzat síkjára eső oldala felől pedig korláttal vagy mellvéddel határolt, helyiséghez közvetlenül csatlakozó külső tartózkodó tér.
+58. Járófelület: emberi tartózkodás vagy közlekedés céljára alkalmas felület.
 
-64.[^213]
+59. Kereskedelmi, szolgáltató és raktár rendeltetés: termékek és szolgáltatások értékesítése, tárolása.
 
-65. Magasépítmény: amelyben a legfelső építményszint szintmagassága a 30 m-t meghaladja.
+60. Kerítés: a telek területét a közterülettől, a telek közhasználat céljára átadott területétől, illetve a szomszédos telkek területétől vagy a telek különböző rendeltetésű vagy használatú részeit térben elválasztó, lehatároló építmény.
 
-66. Magastető: olyan tető, amelynek lejtése a 10%-ot meghaladja és általában tetőteret képez.
+61. Kerti építmény: a kerti tevékenységre, pihenésre, játékra, szórakozásra, kikapcsolódásra történő használatát szolgáló műtárgy.
 
-67. Melléképítmény: az építési telek, illetve azon álló épületek rendeltetésszerű használatához, működtetéséhez szükséges építmény
+62. Komposzttoalett: vízöblítés nélküli illemhely, amelyben a fekáliát, valamint szerves háztartási és kerti hulladékot zárt, hőszigetelt és szellőzéssel ellátott tartályban adalékanyag hozzáadásával, komposztálással humusszá alakítják.
+
+63. Korszerűsítés: meglévő építmény, építményrész, önálló rendeltetési egység, helyiség rendeltetésszerű és biztonságos használatra alkalmasságának javítása, használati értékének, teljesítőképességének, üzembiztonságának növelése érdekében végzett építési tevékenység.
+
+64. Környező terepszint: a telekhez csatlakozó szomszédos telkek rendezett terepszintje.
+
+65. Középfolyosó: olyan folyosó, amelynek mindkét hosszanti oldalát helyiségek, helyiségcsoportok határolják.
+
+66. Középmagas építmény: olyan építmény, amelyben a legfelső építményszint szintmagassága 13,65 m és 30,0 m között van.
+
+67. Közkert: egy meghatározott fő funkciót (játék, sport, pihenés stb.) szolgáló, 1 ha-nál kisebb területű és legalább 15 m oldalméretű, közterületi zöldterület, amelyet bárki használhat.
+
+68. Közmű: termelő, elosztó, gyűjtő, továbbító, szabályozó, mérő rendeltetésű építmények, vezetékek, berendezések összessége, amely az egyes területfelhasználási egységek és az építmények rendeltetésszerű használatának biztosítása érdekében a fogyasztók vízellátási, szennyvízelvezetési és belterületi csapadékvíz elvezetési, gáz-, hő- és villamosenergia-ellátási, valamint hírközlési időszakos vagy folyamatos igényeit a település saját termelő, illetve előkészítő berendezései révén, vagy távvezetéki rendszerekhez kapcsolódva központosan, folyamatosan, kellő biztonsággal, közösségi úton, üzemszerűen működve elégíti ki.
+
+69. Közműpótló műtárgy: a közművet helyettesítő vagy kiegészítő egyedi műtárgy.
+
+70. Közösségi szórakoztató rendeltetés: rendezvény, előadás, kiállítás, táncmulatság, művelődés, szórakoztatás.
+
+71. Közpark: több funkciót szolgáló, legalább 1 ha nagyságú közhasználatú közterületi zöldterület, amelynek legkisebb oldalmérete is 80 m-nél nagyobb, amelyet bárki használhat.
+
+72. Köztárgy: közterületen vagy közhasználat céljára átadott területen álló közcélú műtárgy.
+
+73. Közüzemi szolgáltatás: külön törvény alapján termékértékesítési vagy szolgáltatásnyújtási kötelezettség hatálya alá tartozó vállalkozás által e kötelezettség alapján nyújtott közszolgáltatás.
+
+74. Közvetett természetes megvilágítás: közvetlen természetes megvilágítású helyiségen, helyiségrészen keresztül történő megvilágítás.
+
+75. Közvetlen természetes megvilágítás: külső térelhatároló szerkezetben kialakított, bevilágításra szolgáló felületen keresztül történő nappali megvilágítás.
+
+76. Közvetlen természetes szellőzés: közvetlenül a szabadba nyíló nyílászárón vagy szellőzőkürtőn, szellőzőcsatornán keresztül történő gravitációs légcsere.
+
+77. Kulturális rendeltetés: kiállítás, előadás, rendezvény, művelődés, szórakoztatás.
+
+78. Lakóépület: jellemzően lakást és a hozzá tartozó kiszolgáló helyiségeket magába foglaló épület.
+
+79. Légakna: közel azonos légszennyezettségű helyiségek közvetlen természetes szellőzésére szolgáló, határfalakkal határolt, vagy a szomszédos építési telek beépítéséig a telekhatárhoz csatlakozó oldalán nyitott tér.
+
+80. Légudvar: helyiségek közvetlen természetes szellőzésére és megvilágítására szolgáló, épületszárnyakkal, határfalakkal körülhatárolt belső udvar, vagy a szomszédos építési telek beépítéséig a telekhatárhoz csatlakozó oldalán nyitott tér.
+
+81. Lépcsőkar szabad szélessége: a lépcsőkorlátok, vagy a lépcsőkorlát és a fal között mért legkisebb vízszintes távolság. Ezt a szélességet a korlátlift csukott szerkezeti mérete nem csökkentheti.
+
+82. Loggia: az épület homlokzati síkján belül lévő, három oldalról falakkal, alulról és felülről födémekkel határolt, helyiséghez közvetlenül csatlakozó külső tartózkodó tér.
+
+83. Magasépítmény: olyan építmény, amelyben a legfelső építményszint szintmagassága a 30 m-t meghaladja.
+
+84. Magastető: olyan tető, amelynek lejtése a 10%-ot meghaladja.
+
+85. Megújuló energiaforrás: megújuló, nem fosszilis forrásokból származó energia, nevezetesen szél-, nap-, aerotermikus, geotermikus, hidrotermikus energia, vízenergia, biomasszából, hulladéklerakó helyeken és szennyvíztisztító telepeken keletkező gázokból és biogázokból nyert energia.
+
+86. Melléképítmény: a telek és a telken álló főépítmény (főépítmények) rendeltetésszerű használatát, működtetését elősegítő, kiegészítő rendeltetésű építmény, így különösen:
 
 a) közmű-becsatlakozási műtárgy,
 
@@ -154,114 +202,128 @@ b) közműpótló műtárgy,
 
 c) hulladéktartály-tároló,
 
-d) önálló – épülettől különálló – kirakatszekrény,
+d) – épülettől különálló – építménynek minősülő kirakatszekrény,
 
 e) kerti építmény,
 
-f) háztartási célú kemence, húsfüstölő, jégverem, zöldségverem,
+f) húsfüstölő, jégverem, zöldségverem,
 
 g) állat ól, állatkifutó,
 
 h) trágyatároló, komposztáló,
 
-i) siló, ömlesztett anyag-, folyadék- és gáztároló,
+i) siló, ömlesztettanyag-, folyadék- és gáztároló,
 
-j) szabadon álló és legfeljebb 6,0 m magas szélkerék, antenna oszlop, zászlótartó oszlop.
+j) építménynek minősülő antennatartó szerkezet, zászlótartó oszlop,
 
-68. Mezőgazdasági birtoktest: egy mezőgazdasági birtokközponthoz tartozó, attól – a közigazgatási egységtől függetlenül – legfeljebb 20 km-es távolságon belüli, az ingatlan-nyilvántartásban önálló helyrajzi számon bejegyzett és azonos családi mezőgazdasági vállalkozás tagjainak tulajdonában álló termőföldterületek és a működéshez szükséges üzemi és lakó építmények elhelyezésére szolgáló kivett területek összessége.
+k) gépkocsi és egyéb tároló, vagy ezek épülete valamint
 
-69. Oldalkert: az építési teleknek a szomszédos telekkel közös oldalhatára és az e felé meghatározott építési határvonala (oldalkerti határvonal) között fekvő része.
+l) mosókonyha, nyárikonyha épülete.
 
-70. Oromfal: a magastetővel lefedett épület (épületrész) homlokzati falának az a része, amely a tetőszerkezet végeit lezárja.
+87. Mezőgazdasági birtoktest: a mezőgazdasági birtokközponthoz tartozó – a közigazgatási egységtől függetlenül – és attól legfeljebb 20 km-es távolságon belüli, az ingatlan-nyilvántartásban önálló helyrajzi számon bejegyzett termőföldterületek és az azokon lévő épületek által elfoglalt kivett területek összessége.
 
-71. Önálló parkolóterület: nem közlekedési területbe tartozó egy helyrajzi számon nyilvántartott telken kialakított járműtároló terület.
+88. Nettó alapterület: helyiség vagy épületszerkezettel részben vagy egészben közrefogott tér vízszintes vetületben számított területe.
 
-72. Önálló rendeltetési egység: meghatározott rendeltetés céljára önmagában alkalmas helyiség vagy helyiségcsoport amelynek a szabadból vagy az épületen belül közlekedőből nyíló önálló bejárata van.
+89. Nevelési, oktatási rendeltetés: a gyermeknevelés, az alap-, közép-, és felsőfokú oktatási tevékenység, a szakképzés és a felnőttképzés, valamint továbbképzés.
 
-73. Övezet: a beépítésre nem szánt területek területfelhasználási egységein belüli egyes területrészeken a felhasználás és az építés feltételeit és módját meghatározó besorolás.
+90. Olaszlépcső: ahol a belépő szélessége kiegészül egy lépéstávolság egész számú többszörösével, azaz „2m+sz = 60-64 + n*60-64” .
 
-74. Padlószint: födémszerkezetek (aljzatszerkezetek) padlóburkolattal ellátott vízszintes járófelülete.
+91. Oldalkert: az építési teleknek a szomszédos telekkel közös oldalhatára és az e felé eső építési határvonala (oldalkerti határvonal) között fekvő része.
 
-75. Pinceszint: olyan építményszint amelynek padlószintje az építmény szintterülete több mint 20%-ában kerül 0,70 m-nél mélyebbre a csatlakozó rendezett terepszint alá.
+92. Oromfal: a magastetővel lefedett épület, épületrész homlokzati falának az a része, amely a padlásteret vagy a beépített tetőteret a tetőgerincet elmetszve lehatárolja.
 
-76. Pinceszinti helyiség, helyiségcsoport: amelynek padlószintje több mint 0,70 m-rel kerül a terepcsatlakozás alá.
+93. Önálló építmény: független építményszerkezetekkel, valamint vezetékrendszerrel és berendezésekkel megvalósított, más építményhez legfeljebb tűzfalakkal csatlakozó építmény.
 
-77. Rendeltetés: az a használati cél, amelyre az építmény, az önálló rendeltetési egység vagy a helyiség létesül, illetve amire használják.
+94. Önálló parkolóterület: nem közlekedési területbe tartozó, egy helyrajzi számon nyilvántartott telken kialakított járműtároló terület.
 
-78. Rendeltetés-módosítás: az építmény használati céljának az olyan megváltoztatása, amely általában változást eredményez az állékonyság, a tűzbiztonság, az egészségvédelem, a környezetre gyakorolt hatás, a használati biztonság, a zaj- és rezgéskibocsátás tekintetében, a megelőző használathoz képest.
+95. Önálló rendeltetési egység: meghatározott rendeltetés céljára önmagában alkalmas helyiség vagy helyiségcsoport, amelynek a szabadból vagy az épületen belüli közös közlekedőből nyíló önálló bejárata van.
 
-79. Rehabilitáció: elavult, de értéket képviselő településrész, tömb olyan felújítása, amely során az úthálózat és az épületállomány erre érdemes elemeinek megtartásával, korszerűsítésével, az alkalmatlan épületek, épületrészek elbontásával, esetleg azok új épületekkel történő pótlásával történik az érintett terület értékének a kornak megfelelő színvonalra emelése.
+96. Övezet: a beépítésre nem szánt területek területfelhasználási egységein belüli egyes területrészeken a felhasználás és az építés feltételeit és módját meghatározó besorolás.
 
-80. Rekonstrukció: zömében avult településrész olyan korszerűsítése, amelynél az épületek nagy része bontásra kerül és szükség szerint az úthálózat és a tömbosztás is módosul a jelen igényszintnek megfelelő állapot elérése érdekében.
+97. Padlószint: födémszerkezetek vagy talajon fekvő aljzatszerkezetek járófelülete.
 
-81. Revitalizáció: a különösen értékes, elsősorban számos műemléki értékkel rendelkező, elavult, élettelen településrész „újraélesztése”, a történeti érték megtartásával, minimális kiegészítő, nagyrészt helyreállító beavatkozással.
+98. Párkánymagasság: az épület homlokzati síkja és a rendezett terepszint metszésvonala, valamint magastetős épület esetében az épület homlokzati síkja és a tetősík metszésvonala, lapostetős épület esetében a homlokzati falsík és a legfelső zárófödém felső síkjának metszésvonala közötti függőlegesen mért távolság.
 
-82. Részleges akadálymentesítés: ha a meglévő építmény, építményrész utólagos akadálymentessé történő átalakítása kisebb területre, építményrészre terjed ki, mint az az építmény rendeltetése alapján elvárható, ideális volna, és/vagy az építmény egyes részletei nem felelnek meg az akadálymentesség követelményéhez előírt méreteknek, szabályoknak, azonban az építményben lévő közszolgáltatások így is hozzáférhetők mindenki számára.
+99. Pinceszint: olyan építményszint, amelynek padlószintje több mint 20%-ában kerül 0,70 m-nél mélyebbre a csatlakozó rendezett terepszint alá.
 
-83. Szabad belmagasság: előírt legkisebb belmagasság, amelybe a határoló faltól vízszintesen mért 0,20 m-es sávon belül, a padlótól mért 1,90 m magasságig beálló épületszerkezet vagy rögzített vezeték figyelmen kívül hagyható.
+100. Pinceszinti helyiség, helyiségcsoport: olyan helyiség, helyiségcsoport, amelynek padlószintje több mint 0,70 m-rel kerül a terepcsatlakozás alá.
 
-84. Szabad keresztmetszet, szabad méret: amelybe a világítótest kivételével épületszerkezet, szerelvény vagy más szerkezet nem állhat be.
+101. Rendeltetés: az a használati cél, amelyre az építmény, az önálló rendeltetési egység vagy a helyiség létesül, illetve amire használják.
 
-85. Szabad lépcső: csapadéktól nem vagy csak részben védett, oldalról legfeljebb korláttal lehatárolt lépcső.
+102. Rendeltetés-módosítás: az építmény, az önálló rendeltetési egység, vagy a helyiség használati céljának megváltoztatása.
 
-86. Szabályozási vonal: a közterületet és az egyéb nem közterületet elválasztó vonal.
+103. iSport rendeltetés: sportolás, versenyzés, mérkőzés, egészségmegőrző mozgás.
 
-87. Szennyvízszikkasztó műtárgy: szakszerű talaj-abszorpciós csatornapótló létesítmény (oldóakna és drénezett talajszűrő).
+104. Szabad belmagasság: az az előírt legkisebb belmagasság, amelybe a határoló faltól vízszintesen mért 0,20 m-es sávon belül, a padlótól mért 1,90 m magasság felett beálló épületszerkezet vagy rögzített vezeték nem számít bele.
 
-88. Szintkülönbség: födémszerkezetek (aljzatszerkezetek) felső síkja közötti függőleges távolság.
+105. Szabad keresztmetszet: amelybe a világítótest kivételével épületszerkezet, szerelvény vagy más szerkezet nem állhat be.
 
-89. Szintmagasság: az építmény főbejárata – bejárati előlépcsője – előtti járda szintje és az építményszint padlófelülete közötti függőleges távolság.
+106. Szabad lépcső: építményhez közvetlenül kapcsolódó, legalább egy oldalról nyitott lépcső.
 
-90. Szintterület: az építményszint (vakolt, burkolt) épületszerkezetei által elfoglalt területtel növelt alapterülete (bruttó építményszint terület), amelybe nem kell beszámítani a földszinti fedetlen terasz alapterületét.
+107. Szabályozási vonal: a közterületet és az egyéb nem közterületet elválasztó vonal.
 
-91. Szintterület-sűrűség: a beépítésre szánt terület egyes területfelhasználási egységein elhelyezhető épületek összes szintterületének és a területfelhasználási egység területének viszonyszáma.
+108. Szintkülönbség: egymás feletti padlószintek közötti függőleges távolság.
 
-92. Telek zöldfelülete: a teleknek a 25. § (1) bekezdése szerinti azon növényzettel borított területe (legkisebb zöldfelülete), ahol a termőtalaj és az eredeti altalaj, illetve a talajképző kőzet között nincs egyéb más réteg.
+109. Szintmagasság: az építmény főbejárata – bejárati előlépcsője – előtti járda szintje és az építményszint padlófelülete közötti függőleges távolság.
 
-93. Telek beépített területe: a telken álló, a terepcsatlakozáshoz képest 1,0 m-nél magasabbra emelkedő építmények vízszintes síkban mért vetületi területeinek összege. A 35. § (9) bekezdésének a) pontja szerinti épületkiugrás vízszintesen mért vetületi területét a telek beépítettségének számítása során figyelembe kell venni. A vetületi területek számítása során figyelmen kívül kell hagyni:
+110. Szintterület: az összes építményszint bruttó alapterülete.
 
-a) az árnyékszék, a terepszint alatti építmény, a melléképítmények és a telken és a telek határain álló kerítés,
+111. Szociális rendeltetés: a szociális alapszolgáltatás, szakosított ellátás, a gyermekjóléti alapellátás és gyermekvédelmi szakellátás.
 
-b) mezőgazdasági, gazdasági és különleges beépítésre szánt területen a legfeljebb 9,0 m-es, egyéb területen a legfeljebb 4,50 m-es gerincmagasságú növényház (üvegház) és fóliasátor,
+112. Tanya: mezőgazdasági területen lévő mezőgazdasági termelés (növénytermesztés és állattenyésztés, továbbá az ezekkel kapcsolatos termékfeldolgozás és terméktárolás) céljára létesített lakó- és gazdasági épület, épületcsoport és az azonos helyrajzi szám alatt hozzá tartozó, legfeljebb 6000 m2 területű föld együttese.
 
-c) az építményhez tartozó előlépcső, valamint a terepcsatlakozástól legalább 2,0 m-rel magasabban lévő erkély, függőfolyosó, ereszpárkány, előtető – az építmény tömegétől kiálló részeinek – az építménytől számított 1,50 m-es sávba eső
+113. Telek zöldfelülete: a teleknek a 25. § (1) bekezdése szerinti azon növényzettel borított területe (legkisebb zöldfelülete), ahol a termőtalaj és az eredeti altalaj, illetve a talajképző kőzet között nincs egyéb más réteg.
 
-vízszintes vetületét.
+114. Telek beépített területe: a telken álló épületeknek a terepcsatlakozáshoz képest 1,00 m-es vízszintes síkban mért vetületi területeinek összege. A vetületi területek számítása során figyelmen kívül kell hagyni
 
-94. Telek legnagyobb beépítettsége: a telek beépített területének a telek teljes – nyúlványos telek esetében a teleknyúlvány területével csökkentett – területéhez viszonyított megengedett mértéke.
+a) mezőgazdasági, gazdasági és különleges beépítésre szánt területen a legfeljebb 9,00 m-es, egyéb területen a legfeljebb 4,50 m-es gerincmagasságú növényház (üvegház) és fóliasátor,
 
-95. Terasz: – a loggia és az erkély kivételével – helyiséghez, önálló rendeltetési egységhez vagy azok közös közlekedőihez kapcsolódó, padlóburkolattal ellátott külső tartózkodótér.
+b) az épülethez tartozó előlépcső, tornác, előtető, valamint a terepcsatlakozástól legalább 2,00 m-rel magasabban lévő erkély, függőfolyosó, ereszpárkány – az épület tömegétől kiálló részeinek – az épülettől számított 1,50 m-es sávba eső vízszintes vetületét.
 
-96. Terepcsatlakozás: az építmény, építményrész és a közvetlenül hozzá csatlakozó rendezett terep (járda) érintkezési vonala.
+115. Telek legnagyobb beépítettsége: a telek beépített területének a telek teljes – nyúlványos telek esetében a teleknyúlvány területével csökkentett – területéhez viszonyított megengedett mértéke.
 
-97. Terepszint alatti építmény: olyan, szerkezetileg önálló építmény, amely földdel fedve is – a bejárat felőli oldal kivételével – legfeljebb 1,0 m-rel emelkedik ki a környező (szomszédos) és a csatlakozó terepszintből, és legfeljebb bejárati vagy tereplejtő felőli homlokzatfelülete van, és legfeljebb a tereplejtő felőli és az olyan oldalhomlokzati felületrésze kerül a terepszint fölé, amelyhez a terepbevágásban közvetlenül kerti szabadlépcső vagy lejtő csatlakozik (pl. pince, támfalgarázs).
+116. Település rehabilitáció: elavult, de értéket képviselő településrész, tömb olyan felújítása, amely során az úthálózat, az épületállomány és a növényzet erre érdemes elemeinek megtartásával, korszerűsítésével, az alkalmatlan épületek, épületrészek elbontásával, esetleg azok új épületekkel történő pótlásával történik az érintett terület értékeinek és minőségének a kornak megfelelő színvonalra emelése.
 
-98. Területfelhasználási egység: a település igazgatási területének a jellemző rendeltetés szerint megkülönböztetett területegysége, amely a jellemző vagy kijelölt településfunkciónak biztosít területet.
+117. Település rekonstrukció: zömében elavult településrész olyan korszerűsítése, amelynél az épületek nagy része bontásra kerül, és szükség szerint az úthálózat és a tömbosztás is módosul a jelen igényszintnek megfelelő állapot elérése érdekében.
 
-99. Tervezési program: a tervező és az építtető által is aláírt olyan szöveges dokumentum, mely az építészeti-műszaki tervezés tárgyát képező építési tevékenységgel kapcsolatos alapvető megbízói elvárásokat, követelményeket, valamint az ezek megvalósításával kapcsolatos tervezői álláspontot, a tervezési és az építési tevékenység ütemezését (szakaszolását) tartalmazza.
+118. Település revitalizáció: a különösen értékes, elsősorban számos műemléki értékkel rendelkező, elavult, élettelen településrész „újraélesztése” a történeti érték megtartásával, minimális kiegészítő, nagyrészt helyreállító beavatkozással, szükség szerint rendeltetésmódosítással.
 
-100. Tetőfelépítmény: a tető fölé emelkedő, az épület rendeltetésszerű használatát biztosító épületrész, a kémények, a szellőzők és a tetőablakok kivételével (pl. felvonó gépház, lépcsőház tetőkijárata).
+119. Településszerkezeti egység: az egymás melletti azonos területfelhasználási egységek és a köztük lévő kiszolgáló utak együttes területe.
 
-101. Tetőtér: az épület legfelső építményszintje feletti födémszerkezet felső síkja és a magastető szerkezetének alsó síkja közötti – minden irányból épületszerkezettel körülzárt – tér [a beépítés nélküli tetőtér (padlás) nem minősül építményszintnek].
+120. Terasz: a rendezett terepen vagy épületrész zárófödémén kialakított helyiséghez, önálló rendeltetési egységhez vagy azok közös közlekedőihez kapcsolódó, járható szilárd burkolatú külső tartózkodótér.
 
-102. Tetőtér-beépítés: tetőtérben helyiség(ek), helyiségcsoport(ok) vagy önálló rendeltetési egység építésével új építményszint (emeletszint) létrehozása.
+121. Terepcsatlakozás: az építmény, építményrész és a közvetlenül hozzá csatlakozó rendezett terep (járda) érintkezési vonala.
 
-103. Többszintes épület: amelyben a legfelső építményszint szintmagassága legfeljebb 13,65 m.
+122. Tereplépcső: épülethez nem csatlakozó, a végleges rendezett terep részeként kialakított szabadtéri lépcső.
 
-104. Többszintes növényállomány: a zöldfelületet egyszerre gyep-, cserje- és lombkoronaszinttel fedő növényzet.
+123. Terepszint alatti építmény: olyan, szerkezetileg önálló építmény, amely földdel fedve is – a bejárat felőli oldal kivételével – legfeljebb 1,00 m-rel emelkedik ki a környező (szomszédos) és a csatlakozó terepszintből, legfeljebb bejárati vagy tereplejtő felőli homlokzatfelülete van, és legfeljebb a tereplejtő felőli és az olyan oldalhomlokzati felületrésze kerül a terepszint fölé, amelyhez a terepbevágásban közvetlenül kerti szabadlépcső vagy lejtő csatlakozik.
 
-105.[^214] Tömegtartózkodásra szolgáló építmény: amelyben tömegtartózkodásra szolgáló helyiség van, illetőleg amelyen (pl. híd, kilátó) bármikor egyidejűleg 300 főnél több személy tartózkodása várható.
+124. Területfelhasználási egység: a település igazgatási területének a jellemző rendeltetés szerint megkülönböztetett területegysége, amely azonos jellemző vagy kijelölt településfunkciónak biztosít területet.
 
-106. Tömegtartózkodásra szolgáló helyiség: egyidejűleg 300 személynél nagyobb befogadóképességű helyiség.
+125. Tetőfelépítmény: a tető fölé emelkedő, az épület rendeltetésszerű használatát biztosító épületrész, a kémények, a szellőzők és a tetőablakok kivételével (pl. felvonó gépház, lépcsőház tetőkijárata).
 
-107. Tömör kerítés: olyan kerítés, melynek a kerítés síkjára merőleges átláthatósága 50%-nál nagyobb mértékben korlátozott.
+126. Tetőtér: az épület legfelső építményszintje feletti födémszerkezet felső síkja és a magastető szerkezetének alsó síkja közötti – minden irányból épületszerkezettel körülzárt – tér. A beépítés nélküli tetőtér (padlás) nem minősül építményszintnek.
 
-108. Tűzfal: az építménynek – általában a teleknek a szomszédos telekkel közös telekhatárán álló – olyan függőleges térelhatároló falszerkezete, amelynek tűzállósági határértéke megfelel a tűzvédelmi előírás követelményeinek, és amely a tetőhéjazat fölé emelkedik.
+127. Tetőtér-beépítés: tetőtérben helyiség (helyiségek), helyiségcsoport (helyiségcsoportok) vagy önálló rendeltetési egység építésével új építményszint (emeletszint) létrehozása.
 
-109. Vegyes rendeltetésű épület: amelyben két vagy több egymástól eltérő rendeltetésű önálló rendeltetési egység van vagy létesül.
+128. Tisztítómezővel ellátott oldómedencés műtárgy: olyan oldómedencéből és tisztítómezőből álló vízilétesítmény, amely a települési szennyvizek nem közműves elvezetésére és elhelyezésére szolgál, és amely a szennyezőanyagok anaerob lebontását energiabevitel nélkül végzi.
 
-A II. fejezetben használt rendeltetés megnevezések alatt a TEÁOR szerinti alágazatokat kell érteni.
+129. Tornác: oszlopokkal, pillérekkel, boltívekkel alátámasztott fedett, az épület egyik homlokvonalához csatlakozó oldalirányból nyitott közlekedő tér.
 
-[^212]: Az 1. számú melléklet a 182/2008. (VII. 14.) Korm. rendelet 51. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján rendelkezéseit a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^213]: Az 1. számú melléklet 64. pontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (6) bekezdésének j) pontja hatályon kívül helyezte.
-[^214]: Az 1. számú melléklet 105. pontja a 196/2009. (IX. 15.) Korm. rendelet 51. §-ával megállapított szöveg.
+130. Többszintes növényállomány: a zöldfelületet egyszerre gyep-, cserje- és lombkoronaszinttel fedő növényzet.
+
+131. Tömegtartózkodásra szolgáló építmény: olyan építmény, amelyben tömegtartózkodásra szolgáló helyiség van, vagy amelyen bármikor egyidejűleg 300 főnél több személy tartózkodása várható.
+
+132. Tömegtartózkodásra szolgáló helyiség: egyidejűleg 300 főnél nagyobb befogadóképességű helyiség.
+
+133. Tűzfal: a vonatkozó műszaki követelménynek megfelelő tűzállósági határértékű, A1 tűzvédelmi osztályú térelhatároló folytonos függőleges falszerkezet, amelyet úgy kell kialakítani, hogy az általa elválasztott tűzszakaszok vagy építmények egyikének állékonyság-vesztése, illetve az ebből adódó oldalirányú erőhatás esetén is megőrizze tűzterjedést gátló képességeit.
+
+134. Üdülő rendeltetés: időszakosan a pihenést szolgáló használati cél.
+
+135. Vegyes rendeltetésű épület: több eltérő rendeltetésű önálló rendeltetési egységet magában foglaló épület.
+
+136. Vezetékrendszer: egy vagy több villamos vagy információtechnikai vezetékből (kábelekből, sínekből, ideértve az optikai kábeleket is), épületgépészeti vagy technológiai csővezetékből, ezek rögzítésére szolgáló eszközökből, valamint ezek mechanikai védelméből álló együttes.
+
+137. Villamos kezelőhelyiség: villamos berendezés (transzformátor-, főkapcsoló és akkumulátor) elhelyezésére szolgáló helyiség.
+
+[^302]: Az 1. számú melléklet a 211/2012. (VII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.

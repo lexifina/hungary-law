@@ -2,8 +2,8 @@
 
 63. § (1) Az építmények szintkülönbségeit a biztonságos gyalogos közlekedés és az építmény előírt időn belüli kiürítésének lehetővé tétele céljára lépcsővel és/vagy lejtővel kell áthidalni. Időszakos használat (pl. üzemi ellenőrzés) céljára hágcsó és rögzített létra létesíthető.
 
-(2)[^123] Akadálymentes használhatósághoz az építmények és bejárataik szintkülönbségeinek áthidalása érdekében a lépcső mellett akadálymentes közlekedést biztosító megoldásról (lejtő, felvonó, emelőlap stb.) is gondoskodni kell oly módon, hogy a közlekedés a rendeltetésszerű használatot ne akadályozza.
+(2)[^155] A közhasználatú építmény akadálymentes használatú részei, bejárata és kiürítési útvonala szintkülönbségének áthidalására a lépcsőn kívül legalább egy helyen akadálymentes közlekedést biztosító megoldásról is gondoskodni kell oly módon, hogy a közlekedés az építmény rendeltetésszerű használatát ne akadályozza.
 
 (3) A szintkülönbség-áthidalók járófelületeit csúszásgátló módon kell kialakítani.
 
-[^123]: A 63. § (2) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 22. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^155]: A 63. § (2) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 12. §-ával megállapított szöveg.

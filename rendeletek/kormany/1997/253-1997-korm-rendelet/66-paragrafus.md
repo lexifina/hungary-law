@@ -1,33 +1,31 @@
-## Lejtők
-
-66. § (1) A lejtő lejtésének mértéke
+66. §[^161] (1) A lejtő lejtésének mértéke
 
 a) a gyalogos közlekedés útvonalán legfeljebb 8%-os,
 
-b) a rendszeres kézierős teherszállítás útvonalán legfeljebb 10%-os
+b) a rendszeres kézierős teherszállítás útvonalán legfeljebb 10%-os,
+
+c)[^162] szabadban legfeljebb 15%-os
 
 lehet.
 
-(2)[^129] Akadálymentes közlekedéshez:
+(2)[^163] Akadálymentes közlekedéshez a lejtőt és a rámpát úgy kell tervezni és megvalósítani, hogy
 
-a) a lejtők egyenes karúak legyenek,
+a) a legfeljebb 17 cm-es szintkülönbség áthidalásához legfeljebb 8%-os (1:12) lejtésű legyen,
 
-b) a legfeljebb 2 cm-es szintkülönbség elfogadható,
+b) a 17 cm-nél nagyobb szintkülönbség áthidalásához legfeljebb 5%-os (1:20) lejtésű legyen,
 
-c) a legfeljebb 17 cm-es szintkülönbség áthidalásához legfeljebb 8%-os (1:12) lejtésű rámpa is alkalmazható,
+c) egy lejtőkar, rámpakar legfeljebb 0,45 m szintkülönbséget hidaljon át,
 
-d) a 17 cm-nél nagyobb szintkülönbség áthidalásához legfeljebb 5%-os (1:20) lejtésű rámpát kell alkalmazni,
+d) a lejtőkar, rámpakar indulásánál és érkezésénél legalább 1,50 m átmérőjű vízszintes szabad terület biztosított legyen,
 
-e) egy lejtőkarral legfeljebb 0,45 m szintkülönbség hidalható át,
+e) a többkarú lejtő, rámpa áttekinthető mellvéddel kerüljön kialakításra,
 
-f) a lejtőkar indulásánál és érkezésénél legalább 1,50 m átmérőjű szabad terület biztosítandó,
+f) a lejtőhöz, rámpához két fogódzkodóval ellátott korlát legyen biztosítva a járófelülettől mért 0,70 m és 0,95 m magasságban, és az 1,50 m-nél szélesebb lejtőnél, rámpánál mindkét oldalon kapaszkodót kell elhelyezni és a pihenők mentén megszakítás nélkül továbbvezetni,
 
-g) a többkarú lejtők áttekinthetőséget biztosító mellvéddel alakítandók ki,
+g) szabadban csapadéktól védetten, ennek hiányában megfelelő csúszásgátló bordázattal legyen kialakítva, valamint
 
-h) a lejtőhöz két fogódzkodó korlátot kell biztosítani, a járófelülettől mért 0,70 m és 0,95 m magasságban, az 1,50 m-nél szélesebb lejtőknél mindkét oldalon kapaszkodót kell elhelyezni és a pihenők mentén megszakítás nélkül továbbvezetni,
+h) építményen belül a többkarú lejtő, rámpa legfeljebb 1,80 m szintkülönbséget hidalhat át.
 
-i) a szabadtéri lejtőt csapadéktól védetten, ennek hiányában megfelelő csúszásgátló bordázattal kell kialakítani,
-
-j) többkarú lejtő legfeljebb 1,80 m magasságkülönbség áthidalására létesíthető.
-
-[^129]: A 66. § (2) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 25. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^161]: A 66. §-t megelőző alcímet a 211/2012. (VII. 30.) Korm. rendelet 33. § 7. pontja hatályon kívül helyezte.
+[^162]: A 66. § (1) bekezdés c) pontját a 211/2012. (VII. 30.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^163]: A 66. § (2) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.

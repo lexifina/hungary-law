@@ -1,9 +1,6 @@
-## Göngyöleg-, konténer- és hulladéktároló
+## 101. §[^264] Az építmény rendeltetésszerű használatához szükséges tároló helyiség létesítését – a tárolandó anyagokra figyelemmel – a tervezési programban kell meghatározni. A tároló helyiség kialakításának meg kell felelnie a tűz-, hő-, zaj- és vagyonvédelem, a higiénia, valamint a biztonságos használat követelményeinek.
 
-102. § (1) Az építmények használata során keletkező kommunális hulladékok tárolására szolgáló gyűjtőedények (tartály, konténer) elhelyezésére megfelelő méretű hulladéktároló helyiséget, -fülkét kell létesíteni vagy erre alkalmas területet kell kiépíteni.
+102. §[^265]
 
-(2) A hulladéktárolót mosható fal-, illetőleg padlófelülettel kell megvalósítani.
-
-(3) A hulladéktároló helyiség közvetlen természetes szellőzésű és padlóösszefolyóval ellátott legyen.
-
-(4) A göngyöleg- és konténertárolót az építmény saját telkén, a közterület felől építménnyel takartan kell megvalósítani.
+[^264]: A 101. § a 211/2012. (VII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^265]: A 102. §-t és a megelőző alcímet a 211/2012. (VII. 30.) Korm. rendelet 33. § 19. pontja hatályon kívül helyezte.

@@ -1,29 +1,34 @@
 ## Nyílások, nyílászárók, üvegfalak, vészkijáratok
 
-62. § (1) A nyílások, nyílászárók, üvegfalak feleljenek meg az építmény, a helyiség rendeltetési céljának, a tűz-, a hő-, a zaj-, a használati és a még vonatkozó biztonsági követelményeknek.
+62. § (1)[^145] A nyílásnak, a nyílászárónak és az üvegfalnak meg kell felelnie az építmény és a helyiség rendeltetési céljának, a tűz-, hő-, zaj- és vagyonvédelem, valamint a biztonságos használat követelményének.
 
-(2) A nyílászárók a padlószintről könnyen és veszélymentesen kezelhetők legyenek. Ha az üvegfal felületei padlószintről nem tisztíthatók, a tisztításhoz szükséges szerkezeti megoldásról az építmény megvalósításával egyidejűleg kell gondoskodni.
+(2)[^146] A nyílászárónak a padlószintről könnyen és veszélymentesen kezelhetőnek kell lennie.
 
-(3) Az ablakok, továbbá a tömegtartózkodásra szolgáló építmény, önálló rendeltetési egység, helyiség ajtószárnyai nyitott helyzetben biztonságosan rögzíthetők legyenek.
+(3)[^147] Az ablaknak, továbbá a tömegtartózkodásra szolgáló helyiség kiürítésre számításba vett ajtaja ajtószárnyának nyitott helyzetben biztonságosan rögzíthetőnek kell lennie.
 
-(4)[^118] Építményben gyalogos közlekedés céljára szolgáló falnyílás vagy ajtó szabad mérete 0,60/1,95 m-nél, önálló rendeltetési egységek és lakásban a nappali tartózkodásra is szolgáló szobák ajtajának szabad mérete 0,85/1,95 m- nél kisebb nem lehet. A huzamos tartózkodásra szolgáló helyiség falnyílásának, ajtajának szabad mérete az (5) bekezdésben foglaltak kivételével legalább 0,75/1,95 m legyen.
+(4)[^148] Az építményben a gyalogos közlekedés céljára szolgáló falnyílásnak vagy ajtónak alkalmasnak kell lennie a rendeltetésszerű és a biztonságos használatra. A falnyílás vagy ajtó szabad mérete 0,60/1,95 m-nél nem lehet kisebb. A tömegtartózkodásra szolgáló építményben, a kiürítési útvonalon lévő falnyílás vagy ajtó szabad méretét az országos tűzvédelmi szabályzatról szóló miniszteri rendelet szerinti számítással kell meghatározni.
 
-(5)[^119] Az akadálymentes közlekedésre is alkalmas szabad falnyílás és ajtó 0,90/1,95 m-nél kisebb nem lehet.
+(5)[^149] A közhasználatú építményben az akadálymentes közlekedésre is alkalmas falnyílás vagy ajtó szabad mérete 0,90/1,95 m-nél kisebb nem lehet.
 
-(6)[^120] Az akadálymentesség érdekében az ajtó beépítését úgy kell megtervezni és megvalósítani, hogy az ajtó azon az oldalán, ahová nyílik, a zárszerkezet felőli részen legalább 55 cm széles, a másik oldalon legalább 30 cm széles szabad sáv legyen biztosítva a nyílás tokbelméretén felül. Az ajtó pánt felőli oldalán a burkolt falfelülettől való távolság legalább 10 cm legyen.
+(6)[^150] Az akadálymentesség érdekében az ajtó beépítését úgy kell megtervezni és megvalósítani, hogy az ajtó azon az oldalán, ahová nyílik, a zárszerkezet felőli részen legalább 55 cm széles, a másik oldalon legalább 30 cm széles szabad sáv legyen biztosítva a nyílás tokbelméretén felül. Az ajtó pánt felőli oldalán a burkolt falfelülettől való távolság legalább 10 cm legyen.
 
-(7) Az akadálymentes használathoz megfelelő, az ülő helyzetből is kilátást biztosító mellvéd magassága legfeljebb 0,6 m. A kiesés elleni védelemről gondoskodni kell.
+(7)[^151] A mellvéd tervezése és megvalósítása során biztosítani kell a rendeltetésszerű használat melletti kiesés elleni védelmet.
 
 (8) Az építmény kiürítési útvonalára nyíló ajtókat, vészkijáratokat a tűzvédelmi előírásoknak megfelelően kell kialakítani.
 
-(9) A 0–18 éves gyermekek, tanulók részére szolgáló helyiségekben, terekben nem alkalmazható kiesést, sérülést gátló szerkezet nélküli forgó- és billenőablak, mélyen üvegezett ajtó és üvegfal.
+(9)[^152] A 0–18 éves gyermekek, tanulók részére szolgáló helyiségekben, terekben forgó- és billenőablak, mélyen üvegezett ajtó és üvegfal nem alkalmazható.
 
-(10)[^121] Akadálymentes használatra könnyen kezelhető, nagy erőkifejtést nem igénylő nyílászárókat kell beépíteni, szükség esetén automatikus nyitást biztosítva.
+(10)[^153] Akadálymentes használatra könnyen kezelhető, nagy erőkifejtést nem igénylő nyílászárókat kell beépíteni, szükség esetén automatikus nyitást biztosítva.
 
-(11)[^122] A nagy üvegfelületek, üvegajtók olyan vastagságúak és szerkezetűek legyenek, amelyek biztonságot nyújtanak minden építményhasználó számára. A sérülésveszély elkerülése érdekében a nagy üvegezett felületeket, üvegajtókat 1,00–1,50 m magas sávban érzékelhető jelöléssel kell ellátni.
+(11)[^154] A nagy üvegfelületek, üvegajtók olyan vastagságúak és szerkezetűek legyenek, amelyek biztonságot nyújtanak minden építményhasználó számára. A sérülésveszély elkerülése érdekében a nagy üvegezett felületeket, üvegajtókat 1,00–1,50 m magas sávban érzékelhető jelöléssel kell ellátni.
 
-[^118]: A 62. § (4) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^119]: A 62. § (5) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^120]: A 62. § (6) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^121]: A 62. § (10) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 21. § (2) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^122]: A 62. § (11) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 21. § (2) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^145]: A 62. § (1) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^146]: A 62. § (2) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^147]: A 62. § (3) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^148]: A 62. § (4) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^149]: A 62. § (5) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^150]: A 62. § (6) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^151]: A 62. § (7) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^152]: A 62. § (9) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^153]: A 62. § (10) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 21. § (2) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^154]: A 62. § (11) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 21. § (2) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

@@ -4,10 +4,12 @@
 
 a) állékonyságuk az előírt ideig fennmaradjon,
 
-b) a tűz és a füst keletkezése és terjedése korlátozott legyen és mérgező elemet ne tartalmazzon,
+b)[^108] a tűz és a füst keletkezése és terjedése korlátozott legyen,
 
 c) a tűz a szomszédos önálló rendeltetési egységre, építményre lehetőleg ne terjedhessen tovább,
 
 d) az építményben lévők az építményt az előírt időn belül elhagyhassák vagy kimentésük lehetősége műszakilag biztosított legyen,
 
 e) a mentőegységek tevékenysége ellátható és biztonságos legyen.
+
+[^108]: Az 52. § b) pontja a 211/2012. (VII. 30.) Korm. rendelet 33. § 2. pontja szerint módosított szöveg.
