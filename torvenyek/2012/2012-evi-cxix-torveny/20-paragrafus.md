@@ -1,12 +1,4 @@
-20. § (1) A Kkt. 25/B. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az (1) bekezdés b) pontjában foglaltakat nem kell alkalmazni, ha a járművezető
-
-a) szokásos tartózkodási helye nem Magyarország területén van,
-
-b) a járművet – hat hónapon belül összességében – 30 nap időtartamot meg nem haladóan használja Magyarország területén és a használathoz az üzemben tartó a jármű birtokba adása időpontjának, továbbá a használati jogosultság időtartamának megjelölését is tartalmazó okiratba foglalt nyilatkozatával hozzájárult, vagy
-
-c) a belföldön használt járművet a külföldi üzemben tartójától rendszeres munkavégzéséhez kapta használatra.”
+20. § (1)
 
 (2) A Kkt. 25/B. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
 
@@ -22,6 +14,4 @@ b) az Európai Unió intézményeinél – vagy olyan nemzetközi szervezetnél,
 
 „(5) A (2) és (4) bekezdésben meghatározott feltételek fennállását az ellenőrzés során a jármű üzemben tartója, valamint a jármű vezetője magyar nyelvű, vagy magyar nyelvű hiteles fordítással vagy hiteles fordításnak nem minősülő egyszerű fordítással is ellátott közokirattal vagy teljes bizonyító erejű magánokirattal köteles igazolni.”
 
-(4) A Kkt. 25/B. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Az ellenőrző hatóság a külföldi rendszámmal ellátott gépjármű közúti ellenőrzése során a közigazgatási bírságnyilvántartásban rögzíti a 21/D. § (1) bekezdés j) pontjában meghatározott adatokat, ha a jármű használata a (4) bekezdés b) pontjában meghatározottak alapján történik.”
+(4)

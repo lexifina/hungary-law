@@ -14,14 +14,6 @@ való megfelelést szolgálja.
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2012. évi CXIX. törvényhez
 
 „1. számú melléklet a 2003. évi CXXVIII. törvényhez

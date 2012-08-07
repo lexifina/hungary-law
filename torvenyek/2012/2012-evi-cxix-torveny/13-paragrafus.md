@@ -26,10 +26,4 @@
 
 [jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c) és d) pontjában meghatározott ellenőrzésébe a munkaügyi hatóság is, a belföldi forgalomban közlekedő járműnek az (1) bekezdés a) és b), valamint f)–j) pontjában meghatározott ellenőrzésébe a vámhatóság is, az (1) bekezdés h) pontjában meghatározott, a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek ellenőrzésébe a közút kezelője is bevonható.]
 
-(5) A Kkt. 20. § (11) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-[Magyarország területén magyar vagy külföldi rendszámú közúti jármű közlekedésére, valamint a közúti járművel végzett áru-, illetve személyszállítási tevékenységre vonatkozó az (1) bekezdés szerinti rendelkezések megtartását]
-
-„f) az (1) bekezdés kg) pontja tekintetében a közterület-felügyelet is”
-
-[jogosult együtt vagy önállóan ellenőrizni.]
+(5)
