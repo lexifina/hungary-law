@@ -1,3 +1,0 @@
-33. § A Kkt. a következő 46/H. §-sal egészül ki:
-
-„46/H. § Az egyes közlekedési tárgyú törvények módosításáról szóló 2012. évi CXIX. törvény (a továbbiakban: Módtv.) hatálybalépése előtt forgalomba helyezett utak vonatkozásában a 29. § (3e) bekezdése szerinti elszámolást a NIF Zrt. 2012. december 31-ig köteles elkészíteni azzal, hogy az értékmeghatározás napjának a Módtv. hatálybalépésének napját kell tekinteni.”

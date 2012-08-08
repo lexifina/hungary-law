@@ -1,5 +1,3 @@
 ## 5. A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény módosítása
 
-68. § A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény (a továbbiakban: Kbvt.) 10. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) A közlekedésbiztonsági szerv vezetője a bejelentést követően haladéktalanul írásban kijelöli a vizsgálóbizottság tagjait, és ezzel megindítja a szakmai vizsgálatot. A vizsgálóbizottság a kijelölést követően a szakmai vizsgálat 8. §-ban rögzített alapelvei szerint, a szakmai vizsgálatra vonatkozó általános szabályok figyelembevételével határozza meg a vizsgálat körét és a vizsgálatok során követendő eljárást, valamint haladéktalanul megkezdi a szakmai vizsgálatot. Amennyiben a közlekedési balesetben és egyéb közlekedési eseményben több jármű érintett, azt egy esetnek kell tekinteni. Az esetet a legsúlyosabb következménye alapján kell minősíteni.”
+68–72. §
