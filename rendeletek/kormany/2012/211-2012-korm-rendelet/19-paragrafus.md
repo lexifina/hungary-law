@@ -1,1 +1,0 @@
-## „(4) A közhasználatú építmény mindenki által használt részeiben a kapcsolókat, a jelző és működtető berendezéseket, valamint a telefonokat a padlószinttől számított 0,90–1,10 m közötti magasságban kell elhelyezni.”
