@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-87-00-00
 | --- | --- | --- |
 | 2012-06-30 | 2012. évi LXXXVII. törvény | 2012-87-00-00.0 (közlönyállapot) |
 | 2012-06-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-87-00-00.1 |
+| 2012-08-09 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-87-00-00.2 |
