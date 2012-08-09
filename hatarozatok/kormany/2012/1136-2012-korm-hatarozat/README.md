@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1136-30
 | --- | --- | --- |
 | 2012-05-03 | 2012-1136-30-22.1 | 1136/2012. (V. 3.) Korm. határozat |
 | 2012-05-04 | 2012-1136-30-22.2 | 2010: CXXX. törvény |
+| 2012-08-09 | 2012-1136-30-22.3 | 1286/2012. (VIII. 9.) Korm. határozat |
