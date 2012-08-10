@@ -1,0 +1,3 @@
+45. § (1) A belügyi szervek személyi állományának tagja a foglalkoztatási jogviszonyát szabályozó jogszabályokban és a 44. § (1) bekezdésében meghatározott és a részére adományozott címet munkája során, szolgálati érintkezés közben vagy társadalmi kapcsolataiban jogosult használni. E jogosultság megilleti a 31. § (3) bekezdés c) pontjában meghatározott személyeket is.
+
+(2) A személyi állomány tagjának a foglalkoztatási jogviszony fennállása alatt egyazon címet csak egyszer lehet adományozni. A más munkáltatótól (minisztertől) korábban kapott címek nem zárják ki az e rendelet alapján történő címadományozást. Címpótlékot azonban csak a foglalkoztatási jogviszonyát szabályozó jogszabályok és e rendelet alapján adományozott címek után lehet folyósítani.

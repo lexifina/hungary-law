@@ -1,0 +1,1 @@
+## 38. § A hivatásos állomány tagjának az egy fizetési fokozattal történő soron kívüli előresorolása kezdeményezhető, ha az adott fizetési fokozatban eltöltendő várakozási idő felét letöltötte és legalább alkalmas minősítéssel rendelkezik.
