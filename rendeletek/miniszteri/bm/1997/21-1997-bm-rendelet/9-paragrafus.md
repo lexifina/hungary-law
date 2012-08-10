@@ -1,3 +1,0 @@
-9. § (1) Miniszteri emléktárgy adományozásával elsősorban a hosszabb és példamutató szolgálatot, életpályát, valamint a közszolgálat és általában a Magyar Köztársaság érdekeit, külső kapcsolatait kimagaslóan szolgáló tevékenységet folytatók ismerhetők el. Emléktárgy adományozható az 50., illetve a 60. születésnap betöltése alkalmával.
-
-(2) A miniszteri emléktárgyon, ha az esztétikai és vagyoni érték veszélyeztetése nélkül lehetséges, megfelelő technikai eljárással fel kell tüntetni az adományozás indokát (alkalmát) és az érintett nevét (rendfokozatát). A miniszteri emléktárgyat az adományozásról szóló oklevéllel együtt kell átadni.

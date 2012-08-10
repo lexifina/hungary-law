@@ -1,1 +1,0 @@
-## 4. § A hivatásos állomány tagjainak az egy fizetési fokozattal történő előresorolása kezdeményezhető, ha az adott fizetési fokozatban eltöltendő várakozási idő felét letöltötte, és legalább alkalmas minősítéssel rendelkezik.
