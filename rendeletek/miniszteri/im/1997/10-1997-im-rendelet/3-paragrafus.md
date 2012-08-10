@@ -1,1 +1,0 @@
-## 2. § Az állami kitüntetéseken kívül a Hszt. 118. §-ában felsorolt elismerések a Hszt.-ben és az e rendeletben meghatározottak szerint adományozhatók a ht. állomány tagjának, illetve a 12. §-ban és a 16–18. §-okban foglalt elismerések a nyugállományú tagnak.

@@ -1,1 +1,0 @@
-## 7. § A kitüntetésről és egyéb elismerésről, valamint más szerv vezetője által adományozott kitüntetés viselésének engedélyezéséről határozatban vagy állományparancsban (a továbbiakban: parancs) kell rendelkezni.
