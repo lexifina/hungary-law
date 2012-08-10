@@ -12,7 +12,7 @@ d) egy évnél rövidebb ideig tartó tanulmányi vagy kutatói tevékenység v�
 
 ## de nem lehet alacsonyabb a beosztásának megfelelő besorolási szintnél.
 
-(2)[^55] A fizikai alkalmassági követelmény az
+(2)[^84] A fizikai alkalmassági követelmény az
 
 a) (1) bekezdés a) pontja szerinti feladat esetében T4 követelményszint (260 pontos teljesítmény),
 
@@ -26,7 +26,7 @@ de nem lehet alacsonyabb a beosztásának megfelelő besorolási szintnél.
 
 (3) A pszichikai követelmény az (1) bekezdés a) és b) pontja szerinti feladatok esetében az átlagos megterheléstől lényegesen eltérő speciális pszichikai teljesítmény (Pk), az (1) bekezdés c) és d) pontja szerinti feladatok esetében a pszichikai alapkövetelményeknek való megfelelés (Pa), illetve a beosztásának megfelelő követelményeknek való megfelelés.
 
-(4)–(6)[^56]
+(4)–(6)[^85]
 
-[^55]: A 22. § (2) bekezdése a 13/2009. (VIII. 26.) HM rendelet 15. §-ával megállapított szöveg.
-[^56]: A 22. § (4)–(6) bekezdését a 13/2009. (VIII. 26.) HM rendelet 42. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^84]: A 22. § (2) bekezdése a 13/2009. (VIII. 26.) HM rendelet 15. §-ával megállapított szöveg.
+[^85]: A 22. § (4)–(6) bekezdését a 13/2009. (VIII. 26.) HM rendelet 42. § (2) bekezdésének b) pontja hatályon kívül helyezte.

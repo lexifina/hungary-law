@@ -1,12 +1,12 @@
 45. § (1) Tartós vagy végleges egészségkárosodás esetén, ha az nem okoz alkalmatlanságot, a katona egyes szolgálati kötelezettségek teljesítése alól egészségügyi felmentést (a továbbiakban: eü. felmentés) kaphat. Az eü. felmentések – számokkal jelölt felsorolását – a 3. melléklet C) pontja tartalmazza.
 
-(2)[^89] A felmentés engedélyezésére
+(2)[^153] A felmentés engedélyezésére
 
 a) az alapellátást végző orvos 30 naptári nap,
 
-b) az ÁEK, illetve az MH HEK szakrendelést biztosító egészségügyi intézete szakrendelésének orvosa 60 naptári nap,
+b)[^154] az MH Honvédkórház szakrendelést biztosító egészségügyi intézete szakrendelésének orvosa 60 naptári nap,
 
-c) az ÁEK, illetve az MH HEK repülőorvosi vizsgálati intézet fekvőbeteg-ellátó osztályának főorvosa 90 naptári nap,
+c)[^155] az MH Honvédkórház repülőorvosi vizsgálati intézet fekvőbeteg-ellátó osztályának főorvosa 90 naptári nap,
 
 d) az Elsőfokú FÜV Bizottság 180 naptári nap,
 
@@ -30,4 +30,6 @@ időtartamban jogosult.
 
 (10) A 24 órás ügyeleti szolgálat alóli eü. felmentés – a (2) bekezdés szerinti időtartamban – csak akkor állapítható meg, ha az ügyeleti szolgálat teljesítése bakancs helyett félcipő viselés engedélyezése esetén sem lehetséges.
 
-[^89]: A 45. § (2) bekezdése a 13/2009. (VIII. 26.) HM rendelet 33. §-ával megállapított szöveg.
+[^153]: A 45. § (2) bekezdése a 13/2009. (VIII. 26.) HM rendelet 33. §-ával megállapított szöveg.
+[^154]: A 45. § (2) bekezdés b) pontja a 16/2012. (VIII. 2.) HM rendelet 38. § (8) bekezdése szerint módosított szöveg.
+[^155]: A 45. § (2) bekezdés c) pontja a 16/2012. (VIII. 2.) HM rendelet 38. § (8) bekezdése szerint módosított szöveg.

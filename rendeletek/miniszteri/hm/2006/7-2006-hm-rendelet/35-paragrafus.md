@@ -1,8 +1,8 @@
 ## Az Elsőfokú FÜV Bizottság hatás- és jogköre
 
-35. § (1)[^73] Az ÁEK-ben és az MH HEK repülőorvosi vizsgálati intézetében működő Elsőfokú FÜV Bizottság a katona egészségi alkalmasságáról, valamint a szolgálatképességéről a következő döntéseket hozhatja:
+35. § (1)[^130] Az MH Honvédkórházban működő Elsőfokú Felülvizsgálati Bizottság a katona egészségi alkalmasságáról, valamint a szolgálatképességéről a következő döntéseket hozhatja:
 
-a) „Katonai szolgálatra alkalmas” („A”),
+a) „Katonai szolgálatra alkalmas”, „Tartalékos katonai szolgálatra alkalmas” („A”),
 
 b) „Katonai szolgálatra korlátozással alkalmas” („K”),
 
@@ -14,9 +14,10 @@ e) „részleges szolgálatmentesség” engedélyezése (az egyes szolgálati f
 
 f) a „szolgálatteljesítési idő csökkentése” napi 4 vagy 6 óra időtartamra, legfeljebb 120 naptári napig.
 
-(2) Az Elsőfokú FÜV Bizottság „Katonai szolgálatra alkalmatlan” minősítést nem hozhat. Ha ez a minősítés indokolt, akkor a bizottság elnöke az iratokat haladéktalanul a Másodfokú FÜV Bizottsághoz továbbítja. Ugyanígy jár el az Elsőfokú FÜV Bizottság határozata elleni fellebbezés esetén is.
+(2)[^131] Az Elsőfokú FÜV Bizottság „Katonai szolgálatra alkalmatlan”, „Tartalékos katonai szolgálatra alkalmatlan” minősítést nem hozhat. Ha ez a minősítés indokolt, akkor a bizottság elnöke az iratokat haladéktalanul a Másodfokú FÜV Bizottsághoz továbbítja. Ugyanígy jár el az Elsőfokú FÜV Bizottság határozata elleni fellebbezés esetén is.
 
-(3)[^74] Az Elsőfokú FÜV Bizottság orvos-szakmai felügyeletét az MH HEK felülvizsgálatokat irányító szervének főorvosa által kijelölt főorvos látja el.
+(3)[^132]
 
-[^73]: A 35. § (1) bekezdésének bevezető szövegrésze a 13/2009. (VIII. 26.) HM rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^74]: A 35. § (3) bekezdése a 13/2009. (VIII. 26.) HM rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^130]: A 35. § (1) bekezdése a 16/2012. (VIII. 2.) HM rendelet 30. §-ával megállapított szöveg.
+[^131]: A 35. § (2) bekezdése a 16/2012. (VIII. 2.) HM rendelet 30. §-ával megállapított szöveg.
+[^132]: A 35. § (3) bekezdését a 16/2012. (VIII. 2.) HM rendelet 46. § (1) bekezdése hatályon kívül helyezte.

@@ -1,10 +1,10 @@
-## 25. § A hallgató egészségi alkalmasságát a felvétel, illetve a honvédségi ösztöndíjas hallgatói jogviszonyt létrehozó szerződéskötés előtt a Táblázat A2a rovata szerint, a hivatásos vagy szerződéses állományba vétele előtt az A2a és az A3, illetve az A5 rovata szerint kell elbírálni attól függően, hogy a hivatásos szolgálat mely fegyvernemi szakra vonatkozik.
+## 25. §[^103] A honvéd tisztjelöltnek jelentkező, és a honvéd altiszt-jelöltnek jelentkező egészségi alkalmasságát a honvéd tisztjelölti, honvéd altiszt-jelölti szolgálati viszony létesítése előtt a Táblázat A2a rovata szerint, a honvéd tisztjelölt és a honvéd altiszt-jelölt egészségi alkalmasságát a hivatásos állományba vétele előtt a Táblázat A2a és A3, illetve A5 rovata szerint kell elbírálni, attól függően, hogy a hivatásos szolgálat mely fegyvernemi szakra vonatkozik.
 
 ## A pszichikai alkalmasság vizsgálata
 
 26. § (1) A pszichikai alkalmasság megállapításához meghatározott mentális és egyéb teszteket, műszeres pszicho-fiziológiai vizsgálatokat és célzott beszélgetést (exploráció) kell folytatni, amelyekkel az alkalmassági célnak megfelelő mélységig fel kell tárni:
 
-a) a katonai középfokú oktatási intézménybe jelentkező esetében:
+a)[^104] a honvéd altiszt-jelöltnek jelentkező esetében:
 
 aa) az értelmi képességek fejlettségi szintjét,
 
@@ -22,7 +22,7 @@ ag) a szociobilitást, a közösséghez való affinitást,
 
 ah) a családi háttér jellemzőit;
 
-b) a katonai felsőfokú oktatási intézménybe, illetőleg honvédségi ösztöndíjra pályázó esetében:
+b)[^105] a honvéd tisztjelöltnek jelentkező esetében:
 
 ba) az értelmi képességek fejlettségi szintjét, speciális adottságokat,
 
@@ -45,3 +45,7 @@ bi) a katonai pálya iránti motivációt, beállítottságot,
 bj) a szervezési, döntési, vezetői képességet.
 
 (2) A pszichológus a vizsgálati eredmények és az exploráció alapján, a PAV lapon feljegyzést készít, amelynek tartalmaznia kell a vizsgált személy értelmi képességének, személyiségének, motivációs bázisának jellemzőit, illetve ezek alapján véleményét a vizsgált személy pszichikai alkalmasságáról.
+
+[^103]: A 25. § a 16/2012. (VIII. 2.) HM rendelet 26. §-ával megállapított szöveg.
+[^104]: A 26. § (1) bekezdés a) pont nyitó szövegrésze a 16/2012. (VIII. 2.) HM rendelet 39. § (6) bekezdése szerint módosított szöveg.
+[^105]: A 26. § (1) bekezdés b) pont nyitó szövegrésze a 16/2012. (VIII. 2.) HM rendelet 39. § (7) bekezdése szerint módosított szöveg.

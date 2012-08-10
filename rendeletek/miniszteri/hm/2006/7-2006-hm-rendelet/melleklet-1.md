@@ -1,22 +1,22 @@
-## 50. §[^91]
+## 50. §[^159]
 
-1. melléklet a 7/2006. (III. 21.) HM rendelethez[^92]
+1. melléklet a 7/2006. (III. 21.) HM rendelethez[^160]
 
 TÁBLÁZAT ÉS MAGYARÁZAT A BETEGSÉGEK ÉS FOGYATÉKOSSÁGOK EGÉSZSÉGI ALKALMASSÁGI FOKOZATÁNAK MEGÁLLAPÍTÁSÁHOZ
 
 Fertőző betegségek (001–010)
 
-| 001 Tüdő, mellhártya és mellkasi nyirok- csomó tuberculosis | A2 | A3 | A4 | A5 | A6 | BNO |
+| 001 Tüdő, mellhártya és mellkasi nyirok- csomó tuberculosis | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | inactiv kiskiterjedésű formák, functio- károsodás nélkül | KLGS | KLGS | A | A | A | A | A | A | A15–A16, A19, B90 |
+| 1. | inactiv kiskiterjedésű formák, functio- károsodás nélkül | KLGS | KLGS | A | A | A | A | A | A | A | A15–A16, A19, B90 |
 
-| 2. | activ formák | E | E | I | I | E | KLGS | E | K |
+| 2. | activ formák | E | E | I | I | E | KLGS | E | K | KLGS |
 
-| 3. | inactiv kp. kiterjedésű formák, enyhe functiozavarral | E | E | KLGS | KLGS | E | KLGS | E | KLGS |
+| 3. | inactiv kp. kiterjedésű formák, enyhe functiozavarral | E | E | KLGS | KLGS | E | KLGS | E | KLGS | KLGS |
 
-| 4. | inactiv kiterjedt formák, súlyos functiozavarral | E | E | E | E | E | E | E | E |
+| 4. | inactiv kiterjedt formák, súlyos functiozavarral | E | E | E | E | E | E | E | E | KLGS |
 
 a)  Ide tartoznak a mycobactérium tuberculosis okozta megbetegedések (a tüdő, mellhártya, hörgő, gége és nyirokcsomó tuberculosis) activ (kimutatható Koch pozitív és Koch negatív) és inactiv formái, légzőszervi tuberculosis késői hatásai, valamint a fiatalkori pleuritis azon esetei, amikor nem mutatható ki az aetiológiai factor. A tüdősebészeti műtét utáni állapot értékelése a 104–105-ös szakaszok szerint történik.
 
@@ -38,17 +38,17 @@ d) K: 1, 8, 13–17, 19, 23; F: 1–2, 6, 8.
 
 e) A tuberculosis szolgálati betegségként való elismerésekor különbséget kell tenni a friss specificus fertőzés és az olyan esetek között, mikor a már meglevő tuberculosis gócok reaktiválódnak a szolgálat okozta speciális körülmények hatására. Szolgálati megbetegedésnek fogadható el az a fertőzés, melynél az infectio forrása jól ismert, a tüdőtuberculosisban szenvedő emberrel az együttlét bizonyíthatóan tartós vagy szoros volt és a fertőzés katonai kollektívában történt. Közvetlen fertőzés esetén az expositio és a manifesztátio közötti időtartam legkevesebb két hét, a folyamat fellobbanása esetén pedig négy-hat hét kell, hogy legyen. A rosszabbodás szolgálati eredete elismerhető, ha a régi folyamat egyértelműen bizonyítható (kórházi zárójelentés, tüdőgondozói vélemény, mellkas rtg. stb.), és a már meglévő góc activálódása a katonai szolgálat feltételeinek hatására (szokatlan és az átlagosnál jelentősen magasabb terhelés) történt. A korrekt minősítéshez a folyamat progressióját és a szolgálattal való okozati és időbeni összefüggést bizonyító adatokra van szükség.
 
-| 002 Az agyhártyák és a központi idegrend- szer gümőkórja | A2 | A3 | A4 | A5 | A6 | BNO |
+| 002 Az agyhártyák és a központi idegrend- szer gümőkórja | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | activ folyamat elbírálása, vagy az ellenőrzés szüksé- gessége esetén | E | E | I | I | KLGS | KLGS | I | I | A17, B90.0, G05.1 |
+| 1. | activ folyamat elbírálása, vagy az ellenőrzés szüksé- gessége esetén | E | E | I | I | KLGS | KLGS | I | I | KLGS | A17, B90.0, G05.1 |
 
-| 2. | gyógyult, maradványtünetek nélkül | A | A | A | A | A | A | A | A |
+| 2. | gyógyult, maradványtünetek nélkül | A | A | A | A | A | A | A | A | A |
 
-| 3. | gyógyult, kp. súlyos maradvány- tünetekkel | E | E | E | E | E | K | E | KLGS |
+| 3. | gyógyult, kp. súlyos maradvány- tünetekkel | E | E | E | E | E | K | E | KLGS | K |
 
-| 4. | gyógyult, súlyos maradvány tünetekkel | E | E | E | E | E | E | E | E |
+| 4. | gyógyult, súlyos maradvány tünetekkel | E | E | E | E | E | E | E | E | KLGS |
 
 a) Az agyhártyák és a központi idegrendszeri tuberculosis activ folyamatai és késői hatásai.
 
@@ -60,17 +60,17 @@ d) K: 1, 3–4, 6, 11–12, 16, 21; F: 1–2, 6, 8.
 
 e) A katonai kötelmekkel való összefüggés elbírálása az első szakasznál leírtak szerint történik a betegség kétféle pathogenesise figyelembevételével.
 
-| 003 A húgy-, ivarrendszer gümőkórja | A2 | A3 | A4 | A5 | A6 | BNO |
+| 003 A húgy-, ivarrendszer gümőkórja | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | functiokárosodás nélkül gyógyult | A | A | A | A | A | A | A | A | A18.1 |
+| 1. | functiokárosodás nélkül gyógyult | A | A | A | A | A | A | A | A | A | A18.1 |
 
-| 2. | gyógyintézet által igazolt activ folyamatok | E | E | I | I | I | KLGS | I | I |
+| 2. | gyógyintézet által igazolt activ folyamatok | E | E | I | I | I | KLGS | I | I | KLGS |
 
-| 3. | mérsékelt functiozavarral gyógyult | E | E | KLGS | KLGS | E | K | E | KLGS |
+| 3. | mérsékelt functiozavarral gyógyult | E | E | KLGS | KLGS | E | K | E | KLGS | K |
 
-| 4. | súlyos functiozavarral gyógyult | E | E | E | E | E | E | E | E |
+| 4. | súlyos functiozavarral gyógyult | E | E | E | E | E | E | E | E | KLGS |
 
 a) Pyelonephritis tuberculosa, cystitis tuberculosa, ureteritis tuberculosa, mellékhere és egyéb férfi nemi szervek tuberculosisa, oophoritis tuberculosa, salpingitis tuberculosa. A nagy kiterjedésű destructio miatt végzett vese-resectio, nephrectomia vagy egyéb urológiai műtéti beavatkozás utáni állapot értékelése a 135. szakasz szerint történik.
 
@@ -82,17 +82,17 @@ d) K: 1, 4, 12, 16, 21; F: 6.
 
 e) A szolgálati kötelmekkel való összefüggés meghatározása az első szakasznál leírtak szerint történik.
 
-| 004 Bőr és bőr alatti kötőszövet, csontok és ízületek, valamint egyéb szervek gümőkórja | A2 | A3 | A4 | A5 | A6 | BNO |
+| 004 Bőr és bőr alatti kötőszövet, csontok és ízületek, valamint egyéb szervek gümőkórja | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | gyógyult, mérsékelt maradványtüne- tekkel | E | E | KLGS | KLGS | KLGS | A | E | A | A18.0, A18.4, A18.8, A19 |
+| 1. | gyógyult, mérsékelt maradványtüne- tekkel | E | E | KLGS | KLGS | KLGS | A | E | A | A | A18.0, A18.4, A18.8, A19 |
 
-| 2. | gyógyult, kp. súlyos maradványtüne- tekkel | E | E | E | E | E | K | E | E |
+| 2. | gyógyult, kp. súlyos maradványtüne- tekkel | E | E | E | E | E | K | E | E | K |
 
-| 3. | activ folyamat | E | E | E | E | E | E | E | E |
+| 3. | activ folyamat | E | E | E | E | E | E | E | E | KLGS |
 
-| 4. | gyógyult, súlyos maradványtüne- tekkel | E | E | E | E | E | E | E | E |
+| 4. | gyógyult, súlyos maradványtüne- tekkel | E | E | E | E | E | E | E | E | KLGS |
 
 a) Bőr és bőr alatti kötőszövet, csont és ízületi tuberculosis, Addison-kór (ha gümőkóros), erythema nodosum, tuberculosis miliaris, valamint a szem, periphériás nyirokcsomók és egyéb szervek tuberculosisa.
 
@@ -104,17 +104,17 @@ d) K: 1–4, 6, 11–15, 18, 21; F: 1–2, 6.
 
 e) A katonai kötelmekkel való összefüggés elbírálása az első szakasznál leírtak szerint történik.
 
-| 005 Vírusos májgyulladás | A2 | A3** | A4 | A5 | A6 | BNO |
+| 005 Vírusos májgyulladás | A2 | A3** | A4 | A5 | A6 | A7 | BNO |
 
 | a | b* | c* | d* |
 
-| 1. | funkciókárosodás nélkül gyógyult | KLGS | A | A | A | KLGS | A | A | A | B15–B19 B94.1 |
+| 1. | funkciókárosodás nélkül gyógyult | KLGS | A | A | A | KLGS | A | A | A | A | B15–B19 B94.1 |
 
-| 2. | posthepatitis- syndroma | KLGS | A | A | A | KLGS | KLGS | KLGS | KLGS |
+| 2. | posthepatitis- syndroma | KLGS | A | A | A | KLGS | KLGS | KLGS | KLGS | KLGS |
 
-| 3. | elhúzódó vírusos hepatitis, hepatitis recidiva | E | E | E | E | E | E | E | KLGS |
+| 3. | elhúzódó vírusos hepatitis, hepatitis recidiva | E | E | E | E | E | E | E | KLGS | KLGS |
 
-| 4. | persistaló idült hepatitis, activ idült hepatitis | E | E | E | E | E | E | E | KLGS |
+| 4. | persistaló idült hepatitis, activ idült hepatitis | E | E | E | E | E | E | E | KLGS | KLGS |
 
 a) Hepatitis infectiosa, inoculatios hepatitis, mononucleosis eredetű hepatitis, valamint a chronicus hepatitis azon esetei, melyek kialakulását bizonyíthatóan vírus hepatitis előzte meg. Egyéb infectiok, mérgek, keringési zavarok, táplálkozási hiány, mechanikus tényezők okozta májbetegségek elbírálása a 122-es szakasz szerint történik. A posthepatitis bilirubinaemia (ártalmatlan enzimműködési zavar) az 1. alszakasz szerint minősítendő.
 
@@ -152,13 +152,13 @@ Megjegyzések:
 
 ** HBV, ill. HCV PCR pozitivitás esetén, ha a májfunkciós értékek normálisak, hasi UH negatív, panasz- és tünetmentesség esetén a katona egyéni elbírálás alapján alkalmas lehet.
 
-| 006 Trachoma (egyiptomi szemgyulladás) és a kötőhártya vírusos betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 006 Trachoma (egyiptomi szemgyulladás) és a kötőhártya vírusos betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | gyógyult, mérsékelt maradvány- tünetekkel | E | E | E | E | KLGS | K | E | K | A71, A74, B94.0 |
+| 1. | gyógyult, mérsékelt maradvány- tünetekkel | E | E | E | E | KLGS | K | E | K | K | A71, A74, B94.0 |
 
-| 2. | gyógyult, kifejezett maradvány- tünetekkel | E | E | E | E | E | K | E | E |
+| 2. | gyógyult, kifejezett maradvány- tünetekkel | E | E | E | E | E | K | E | E | K |
 
 a) Trachoma és a kötőhártya vírus vagy chlamydia okozta betegségei és azok késői hatásai.
 
@@ -170,19 +170,19 @@ d) K: 1, 3, 6, 9–11, 21; F: 1–2, 4, 6.
 
 e) Trachoma akkor ismerhető el szolgálati eredetű betegségnek, ha a fertőzés forrása jól ismert, és a fertőzés a katonai kollektívában történt.
 
-| 007 | Vérbaj (szifilisz) | A2 | A3 | A4 | A5 | A6 | BNO |
+| 007 | Vérbaj (szifilisz) | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | Kezelés és gondozás után functiokárosodás nélkül gyógyult | A | A | A | A | A | A | A | A | A50- A53 |
+| 1. | Kezelés és gondozás után functiokárosodás nélkül gyógyult | A | A | A | A | A | A | A | A | A | A50- A53 |
 
-| 2. | Késői syphilis mérsékelt functiozavarral | E | E | E | E | E | K | E | E |
+| 2. | Késői syphilis mérsékelt functiozavarral | E | E | E | E | E | K | E | E | K |
 
-| 3. | Korai manifeszt syphilis | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
+| 3. | Korai manifeszt syphilis | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
-| 4. | Késői manifeszt syphilis | E | E | E | E | E | KLGS | E | E |
+| 4. | Késői manifeszt syphilis | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 5. | Késői syphilis súlyos functiozavarral | E | E | E | E | E | E | E | E |
+| 5. | Késői syphilis súlyos functiozavarral | E | E | E | E | E | E | E | E | KLGS |
 
 a) Veleszületett, friss tüneti és latens, szív- és érrendszeri, központi idegrendszeri, késői tüneti és latens syphilis.
 
@@ -194,13 +194,13 @@ d) K: 3, 6, 11, 14, 21; F: 1–2, 6.
 
 e) A katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 008 Gombák okozta betegségek | A2 | A3 | A4 | A5 | A6 | BNO |
+| 008 Gombák okozta betegségek | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | felületes bőr, szőrzet, körömmycosisok | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | B35–B49 |
+| 1. | felületes bőr, szőrzet, körömmycosisok | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | KLGS | B35–B49 |
 
-| 2. | mély mycosisok | E | E | E | E | E | KLGS | E | KLGS |
+| 2. | mély mycosisok | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
 a) Dermatophytosis, tinea, candidiasis, coccidiomycosis, histoplasmosis, sarjadzó gombafertőzések és egyéb szisztémás gombás betegségek.
 
@@ -212,13 +212,13 @@ d) K: 4, 14, 21; F: 1–2.
 
 e) A gombás betegségek szolgálati eredete akkor ismerhető el, ha bizonyítható a nagyszámú fertőző forrás jelenléte a beteg környezetében (érintkezés beteg emberekkel vagy állatokkal, illetve fertőzött anyaggal), valamint a betegség és a fertőző forrás aethiológiai azonossága. Figyelembe kell venni továbbá a hajlamosító (endocrin betegségek, tumorok stb.) és külső (nedves környezetben tartósan végzett munka, gumicsizma állandó használata) tényezők hatását is.
 
-| 009 Heveny fertőző betegségek | A2 | A3 | A4 | A5 | A6 | BNO |
+| 009 Heveny fertőző betegségek | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | hosszú lefolyású, mérsékelt functiozavarral | KLGS | KLGS | KLGS | KLGS | KLGS | K | KLGS | KLGS | A00–A99, B00–B99 |
+| 1. | hosszú lefolyású, mérsékelt functiozavarral | KLGS | KLGS | KLGS | KLGS | KLGS | K | KLGS | KLGS | K | A00–A99, B00–B99 |
 
-| 2. | hosszú lefolyású, jelentős functiozavarral | E | E | E | E | E | K | E | E |
+| 2. | hosszú lefolyású, jelentős functiozavarral | E | E | E | E | E | K | E | E | K |
 
 a) Heveny fertőzés esetén a minősítést a betegség viszonylag elhúzódó jellege, illetve a panaszok vagy functiozavar tartós volta határozza meg.
 
@@ -238,15 +238,15 @@ e) Heveny fertőző betegség a következő feltételek mellett minősíthető
 
 4. Nagy valószínűséggel kizárható a szolgálaton kívüli (familiaris vagy egyéb) fertőzés lehetősége.
 
-| 010 Idült fertőző betegségek | A2 | A3 | A4 | A5 | A6 | BNO |
+| 010 Idült fertőző betegségek | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | mérsékelt működészavarral | KLGS | KLGS | KLGS | KLGS | E | KLGS | KLGS | KLGS | A00–A99, B00–B99 |
+| 1. | mérsékelt működészavarral | KLGS | KLGS | KLGS | KLGS | E | KLGS | KLGS | KLGS | KLGS | A00–A99, B00–B99 |
 
-| 2. | kp. súlyos működészavarral | E | E | E | E | E | KLGS | E | KLGS |
+| 2. | kp. súlyos működészavarral | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
-| 3. | súlyos működészavarral | E | E | E | E | E | E | E | E |
+| 3. | súlyos működészavarral | E | E | E | E | E | E | E | E | KLGS |
 
 a) Itt minősítendők a több mint egy éve tartó, sőt évekre vagy évtizedekre elhúzódó fertőző betegség azon esetei, amikor az idült folyamat (pl. dysenteria, malaria, salmonellosis chr., idült parasitás megbetegedés) nem minősíthető az alkalmassági utasítás más szakasza szerint. Itt minősülnek továbbá a functiokárosodás mértékének megfelelően az idült fertőző betegség okozta szövődmények és defectusok.
 
@@ -256,15 +256,15 @@ c) Szerződéses és hivatásos állományba vételkor, az eddigi therápiás 
 
 Daganatok (011–014)
 
-| 011 Rosszindulatú daganatok | A2 | A3 | A4 | A5 | A6 | BNO |
+| 011 Rosszindulatú daganatok | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | kezelést már nem igénylő jó általános állapot | KLGS | KLGS | A | A | KLGS | KLGS | KLGS | A | C00–C80, C97 |
+| 1. | kezelést már nem igénylő jó általános állapot | KLGS | KLGS | A | A | KLGS | KLGS | KLGS | A | KLGS | C00–C80, C97 |
 
-| 2. | időszakos vagy folyamatos kezeléssel biztosított jó általános állapot | E | E | E | E | E | KLGS | E | E |
+| 2. | időszakos vagy folyamatos kezeléssel biztosított jó általános állapot | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 3. | rossz általános állapot, functiokárosodással, metastasissal | E | E | E | E | E | E | E | E |
+| 3. | rossz általános állapot, functiokárosodással, metastasissal | E | E | E | E | E | E | E | E | KLGS |
 
 a) Malignus tumor bármilyen eredetű vagy localisatiojú esetei függetlenül a választott kezelési eljárástól. Kivételt képeznek az egyes szervcsonkolási műtét utáni állapotok megfelelő szakasz szerinti minősítése (pl. tüdőműtét utáni állapot 105. szakasz, vagy gyomorműtét utáni állapot 116. szakasz).
 
@@ -284,33 +284,33 @@ e) Rosszindulatú daganat csak a következő feltételek mellett minősíthet�
 
 – meg kell vizsgálni és nagy valószínűséggel kizárni a nem szolgálati eredetű, ún. endogen (öröklődés, életkor) tényezők lehetőségét.
 
-| 012 A nyirok- és vérképzőszövet rosszindulatú daganatai | A2 | A3 | A4 | A5 | A6 | BNO |
+| 012 A nyirok- és vérképzőszövet rosszindulatú daganatai | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | folyamatosan kezelt, még nem véglegesen kialakult állapotok | E | E | I | I | E | KLGS | E | KLGS | C81–C96 |
+| 1. | folyamatosan kezelt, még nem véglegesen kialakult állapotok | E | E | I | I | E | KLGS | E | KLGS | KLGS | C81–C96 |
 
-| 2. | spontán vagy kezeléssel elért tartós remissio | E | E | KLGS | KLGS | E | KLGS | E | KLGS |
+| 2. | spontán vagy kezeléssel elért tartós remissio | E | E | KLGS | KLGS | E | KLGS | E | KLGS | KLGS |
 
-| 3. | spontán vagy kezeléssel elért, rövid ideig tartó remissio | E | E | E | E | E | E | E | E |
+| 3. | spontán vagy kezeléssel elért, rövid ideig tartó remissio | E | E | E | E | E | E | E | E | KLGS |
 
 a)–e) Az itt minősítendő non Hodgkin lymphomák, Hodgkin-kór, myeloma multiplex, különböző leukaemiák, valamint a nyirok- és vérképzőszövet egyéb rosszindulatú daganatainak elbírálása, a 011. szakasz magyarázatában foglaltak szerint történik. Az átmeneti jellegű folyadék, electrolit, sav-bázis egyensúly vagy egyéb panaszt okozó Waldenström-féle purpura hypergammaglobulinaemia zavar minősítése a 2-es alszakasz szerint történik.
 
-| 013 Jóindulatú daganatok | A2 | A3 | A4 | A5 | A6 | BNO |
+| 013 Jóindulatú daganatok | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | solitaer daganatok eltávolítása utáni állapot functiokáro- sodás nélkül | A | A | A | A | KLGS | A | A | A | D10–D36 |
+| 1. | solitaer daganatok eltávolítása utáni állapot functiokáro- sodás nélkül | A | A | A | A | KLGS | A | A | A | A | D10–D36 |
 
-| 2. | solitaer és multiplex daganatok functio- károsodás nélkül | KLGS | KLGS | A | A | KLGS | K | KLGS | KLGS |
+| 2. | solitaer és multiplex daganatok functio- károsodás nélkül | KLGS | KLGS | A | A | KLGS | K | KLGS | KLGS | K |
 
-| 3. | solitaer daganatok eltávolítása utáni állapot mérsékelt functiokieséssel | E | KLGS | KLGS | KLGS | E | K | E | KLGS |
+| 3. | solitaer daganatok eltávolítása utáni állapot mérsékelt functiokieséssel | E | KLGS | KLGS | KLGS | E | K | E | KLGS | K |
 
-| 4. | solitaer és multiplex daganatok mérsékelt functiokieséssel | E | KLGS | KLGS | KLGS | E | K | E | KLGS |
+| 4. | solitaer és multiplex daganatok mérsékelt functiokieséssel | E | KLGS | KLGS | KLGS | E | K | E | KLGS | K |
 
-| 5. | solitaer és multiplex daganatok súlyos functiokieséssel, vagy ha gátolják a felszerelés viselését | E | E | E | E | E | E | E | E |
+| 5. | solitaer és multiplex daganatok súlyos functiokieséssel, vagy ha gátolják a felszerelés viselését | E | E | E | E | E | E | E | E | KLGS |
 
-| 6. | solitaer daganatok eltávolítása utáni állapot súlyos functiokieséssel | E | E | E | E | E | E | E | E |
+| 6. | solitaer daganatok eltávolítása utáni állapot súlyos functiokieséssel | E | E | E | E | E | E | E | E | KLGS |
 
 a) A benignus tumor bármilyen eredetű vagy localisatiojú esetei, valamint ezek kezelése utáni állapotai.
 
@@ -322,37 +322,37 @@ d) K: 3–4, 6, 11, 13, 17–19, 21; F: 1–4, 6.
 
 e) Jelenlegi ismereteink szerint nem mutatható ki összefüggés a katonai kötelmek és a jóindulatú daganatképződés között.
 
-| 014 Csak a hámrétegre kiterjedő rák (in situ carcinoma) és bizonytalan termé- szetű daganatok | A2 | A3 | A4 | A5 | A6 | BNO |
+| 014 Csak a hámrétegre kiterjedő rák (in situ carcinoma) és bizonytalan termé- szetű daganatok | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | kezelés után functiokárosodás nélkül | A | A | A | A | KGLS | A | KGLS | A | D00–D09, D37–D48 |
+| 1. | kezelés után functiokárosodás nélkül | A | A | A | A | KGLS | A | KGLS | A | A | D00–D09, D37–D48 |
 
-| 2. | kezelés után mérsékelt functiokieséssel | E | E | E | KLGS | E | K | E | KLGS |
+| 2. | kezelés után mérsékelt functiokieséssel | E | E | E | KLGS | E | K | E | KLGS | K |
 
-| 3. | folyamatosan kezelt, még nem véglegesen kialakult állapot | I | I | I | I | E | K | E | E |
+| 3. | folyamatosan kezelt, még nem véglegesen kialakult állapot | I | I | I | I | E | K | E | E | K |
 
-| 4. | kezelés után súlyos functiokieséssel | E | E | E | E | E | E | E | E |
+| 4. | kezelés után súlyos functiokieséssel | E | E | E | E | E | E | E | E | KLGS |
 
 a)–e) Itt minősülnek a carcinoma in situ és bizonytalan természetű daganatok (pl. Recklinghausen-féle betegség) bármilyen eredetű localisatiojú esetei. Helyenként semimalignusként jelölt daganatok minősítése értelemszerűen 011. vagy 013. szakaszok magyarázatában foglaltak szerint történik. Igazolt 5 éves, tünetmentes túlélés esetében 1. alszakaszban „A” minősítés adható, 1 és 5 év között „KLGS”, 1 évig „I”.
 
 Endocrin betegségek (015–020)
 
-| 015 A pajzsmirigy betegsége | A2 | A3 | A4 | A5 | A6 | BNO |
+| 015 A pajzsmirigy betegsége | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | műtét utáni normofunctios állapot | A | A | A | A | A | A | A | A | E00–E07 |
+| 1. | műtét utáni normofunctios állapot | A | A | A | A | A | A | A | A | A | E00–E07 |
 
-| 2. | struma nyomási tünetek nélkül, euthyreosis | KLGS | A | A | A | KLGS | A | KLGS | A |
+| 2. | struma nyomási tünetek nélkül, euthyreosis | KLGS | A | A | A | KLGS | A | KLGS | A | A |
 
-| 3. | struma nyomási tünetekkel, műtét szükségessége esetén | E | E | E | E | E | K | E | E |
+| 3. | struma nyomási tünetekkel, műtét szükségessége esetén | E | E | E | E | E | K | E | E | K |
 
-| 4. | hyperthyreosis golyvával vagy anélkül | E | E | E | E | E | K | E | E |
+| 4. | hyperthyreosis golyvával vagy anélkül | E | E | E | E | E | K | E | E | K |
 
-| 5. | hypothyreosis (enyhe formák) | E | E | E | E | E | K | E | E |
+| 5. | hypothyreosis (enyhe formák) | E | E | E | E | E | K | E | E | K |
 
-| 6. | Hypothyreosis (súlyos formák) | E | E | E | E | E | E | E | E |
+| 6. | Hypothyreosis (súlyos formák) | E | E | E | E | E | E | E | E | KLGS |
 
 a) Egyszerű (nem toxicus) struma, a pajzsmirigy gyulladásos betegségei és functió zavarai, valamint ezek kezelése utáni állapotai. Struma maligna esetén a minősítés a 011. szakasz szerint történik.
 
@@ -364,17 +364,17 @@ d) K: 3–4, 6, 11–14, 17–19, 21; F: 1–4, 6.
 
 e) A pajzsmirigy betegségek keletkezésében bizonyos öröklött hajlam is szerepet játszik, ezért a katonai kötelmekkel való összefüggés nem ismerhető el. Kivételt képezhetnek azon esetek, amikor az addig rejtett folyamat kibontakozása a szolgálattal összefüggő tényezők (pl. rendkívüli psychés trauma, éhezés, acut fertőzés) hatására történt.
 
-| 016 Cukorbaj | A2 | A3 | A4 | A5 | A6 | BNO |
+| 016 Cukorbaj | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | csak diétával kezelhető formák, jó általános állapot | E | E | KLGS | KLGS | KLGS | A | E | KLGS | E10–E14 |
+| 1. | csak diétával kezelhető formák, jó általános állapot | E | E | KLGS | KLGS | KLGS | A | E | KLGS | A | E10–E14 |
 
-| 2. | szigorú diétával, tablettával kezelhető formák | E | E | E | E | E | K | E | KLGS |
+| 2. | szigorú diétával, tablettával kezelhető formák | E | E | E | E | E | K | E | KLGS | K |
 
-| 3. | szigorú diétával, közepes mennyiségű Inzulinnal kezelhető, nem labilis formák, jó általános állapot | E | E | E | E | E | KLGS | E | E |
+| 3. | szigorú diétával, közepes mennyiségű Inzulinnal kezelhető, nem labilis formák, jó általános állapot | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 4. | szigorú diétával, nagy mennyiségű Inzulinnal kezelhető, labilis formák, érszövődményekkel | E | E | E | E | E | E | E | E |
+| 4. | szigorú diétával, nagy mennyiségű Inzulinnal kezelhető, labilis formák, érszövődményekkel | E | E | E | E | E | E | E | E | KLGS |
 
 a) Az I. és II. típusú diabetes mellitus (IDDM s NIDDM), glukozúriával és anélkül, valamint a csökkent szénhidrát tolerancia (IGT). A cukorbetegség szövődményei: retinopathia, polyneuropathia, macro- és microangiopathia, nephropathia diabetica.
 
@@ -386,13 +386,13 @@ d) K: 4, 12, 14; F: 1–2.
 
 e) A szolgálati kötelmekkel való összefüggés vizsgálatánál mindenekelőtt figyelembe kell venni, hogy a diabetes mellitus öröklődő betegség és a geneticus dispositio sok esetben fennállhat a diabetes manifestatioja nélkül is. Diabetes mellitus csak kivételes esetben (pl. a szolgálati baleset okozta traumás diabetes) ismerhető el katonai kötelmekkel összefüggő betegségnek.
 
-| 017 A hasnyálmirigy belső elválasztású tevékenységének egyéb zavarai | A2 | A3 | A4 | A5 | A6 | BNO |
+| 017 A hasnyálmirigy belső elválasztású tevékenységének egyéb zavarai | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe esetek | E | E | KLGS | KLGS | E | K | E | KLGS | E15–E16 |
+| 1. | enyhe esetek | E | E | KLGS | KLGS | E | K | E | KLGS | K | E15–E16 |
 
-| 2. | súlyos esetek | E | E | E | E | E | E | E | E |
+| 2. | súlyos esetek | E | E | E | E | E | E | E | E | KLGS |
 
 a) Hypoglykaemia, hasnyálmirigyműtét utáni állapot, a gastrin-elválasztás zavarai.
 
@@ -404,13 +404,13 @@ d) K: 2–4, 6, 11–12, 14, 21, 24; F: 1–2, 6.
 
 e) A hasnyálmirigy endokrin tevékenységének zavarai nem tekinthetők szolgálati eredetűnek. Előfordulhat azonban, hogy a hasnyálmirigyműtétre a katonai szolgálat teljesítése alatt baleseti adatlappal igazoltan bekövetkezett hasi sérülés után kerül sor. Ilyen esetben a műtét utáni állapot katonai kötelmekkel összefüggőnek tartható.
 
-| 018 A mellékpajzs- mirigy betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 018 A mellékpajzs- mirigy betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe formák | E | E | E | KLGS | KLGS | KLGS | E | E | E20–E21 |
+| 1. | enyhe formák | E | E | E | KLGS | KLGS | KLGS | E | E | KLGS | E20–E21 |
 
-| 2. | súlyos formák | E | E | E | E | E | E | E | E |
+| 2. | súlyos formák | E | E | E | E | E | E | E | E | KLGS |
 
 a) Hyperparathyreoidismus (beleértve a Recklinghausen-betegséget) és hypoparathyreoidismus minden formája. Hysteriás tetania a 036-os, pszichogén tetania a 039-es szakasz szerint minősül.
 
@@ -422,13 +422,13 @@ d) K: 2–4, 6, 11–12, 14, 21; F: 1–2.
 
 e) Katonai kötelmekkel való összefüggés hypo- vagy hyperparathyreoidismus esetén nem igazolható.
 
-| 019 Az agyalapi mirigy működési zavarai | A2 | A3 | A4 | A5 | A6 | BNO |
+| 019 Az agyalapi mirigy működési zavarai | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe formák | E | E | E | KLGS | E | KLGS | E | E | E22–E23 |
+| 1. | enyhe formák | E | E | E | KLGS | E | KLGS | E | E | KLGS | E22–E23 |
 
-| 2. | súlyos formák | E | E | E | E | E | E | E | E |
+| 2. | súlyos formák | E | E | E | E | E | E | E | E | KLGS |
 
 a) Acromegalia, Sheehan-féle syndroma, Simmonds-féle betegség, hypophysis eredetű törpeség, diabetes insipidus, iatrogén hypophysis zavarok és a hypophysis és diencephalo-hypophysealis rendszer egyéb zavarai.
 
@@ -440,11 +440,11 @@ d) K: 2–4, 6, 11–14, 16–19, 21, 24; F: 1–4, 6, 8.
 
 e) A hypophysis-hypothalamus rendszer zavarai közül csupán azok minősíthetők összefüggőnek a katonai kötelmekkel, amelyek a katonai szolgálat ideje alatt és a katonai feladatok teljesítése közben elszenvedett koponyasérülések után jelentkeztek.
 
-| 020 A mellékvese betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 020 A mellékvese betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-|  | E | E | E | E | E | E | E | E | E25–E27 |
+|  | E | E | E | E | E | E | E | E | KLGS | E25–E27 |
 
 a) Cushing-féle syndroma, Conn-féle syndroma, adrenogenitalis zavarok, Addison-kór, Waterhouse-Friderichsen syndroma. Pheochromocytoma esetén a minősítés 011., 013., 014. szakaszok szerint történik.
 
@@ -456,13 +456,13 @@ e) A mellékvese betegségei a katonai kötelmekkel nem összefüggő betegsé
 
 Anyagcsere betegségek (021–024)
 
-| 021 Köszvény | A2 | A3 | A4 | A5 | A6 | BNO |
+| 021 Köszvény | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | nem régen fennálló, remissio állapotában lévő köszvény, ritka rohamok esetén | E | E | E | E | E | KLGS | E | E | M10 |
+| 1. | nem régen fennálló, remissio állapotában lévő köszvény, ritka rohamok esetén | E | E | E | E | E | KLGS | E | E | KLGS | M10 |
 
-| 2. | „visceralis” köszvény, gyakori rohamok esetén | E | E | E | E | E | E | E | E |
+| 2. | „visceralis” köszvény, gyakori rohamok esetén | E | E | E | E | E | E | E | E | KLGS |
 
 a) Arthritis urica, köszvényesek nephropathiája és a köszvény egyéb manifestatioja.
 
@@ -474,15 +474,15 @@ d) K: 2–4, 6, 11–12, 14, 21; F: 1–2, 6.
 
 e) Arthritis urica eredetére vonatkozó ismereteink szerint öröklődő és ezért a katonai kötelmekkel nem összefüggő betegség. Szolgálati baleset által kiváltott roham esetén szolgálati kötelmekkel összefüggő állapotrosszabbodás ismerhető el.
 
-| 022 Az anyagcsere zavarai | A2 | A3 | A4 | A5 | A6 | BNO |
+| 022 Az anyagcsere zavarai | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe | E | E | KLGS | KLGS | E | K | E | KLGS | E70–E90 |
+| 1. | enyhe | E | E | KLGS | KLGS | E | K | E | KLGS | K | E70–E90 |
 
-| 2. | kp. súlyos | E | E | E | E | E | KLGS | E | E |
+| 2. | kp. súlyos | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 3. | súlyos | E | E | E | E | E | E | E | E |
+| 3. | súlyos | E | E | E | E | E | E | E | E | KLGS |
 
 a) Az aminosav-anyagcsere és transport (pl. Fanconi syndroma), a szénhydrát-anyagcsere és transport (pl. diabetes renalis), a zsíranyagcsere (pl. hypercholesterolaemia, hyperlipidaemia), a plazmafehérjék anyagcsere (pl. macroglobulinaemia), az ásványi anyagcsere (pl. haemochromatosis, degeneratio hepatolenticularis, calcinosis), a folyadék, electrolit és a savbázis egyensúly (pl. hyper- és hyponatraemia, acidosis, alkalosis, hyper- és hypopotassaemia) és az anyagcsere egyéb zavara (pl. amyloidosis).
 
@@ -494,15 +494,15 @@ d) K: 2, 4, 12–14, 17–19, 21; F: 1–4, 6.
 
 e) Mivel az anyagcserezavarok döntően örökölt rendellenességek vagy valamilyen más betegséghez társuló másodlagos elváltozások, így nem tekinthetők a katonai kötelmekkel összefüggő betegségeknek.
 
-| 023 Túlsúly és elhízás | A2 | A3 | A4 | A5 | A6 | BNO |
+| 023 Túlsúly és elhízás | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | Túlsúly | E | E | KLGS | KLGS | KLGS | A | E | A | E65–E68 |
+| 1. | Túlsúly | E | E | KLGS | KLGS | KLGS | A | E | A | A | E65–E68 |
 
-| 2. | Elhízás I (közepes fokú) | E | E | E | E | E | K | E | KLGS |
+| 2. | Elhízás I (közepes fokú) | E | E | E | E | E | K | E | KLGS | K |
 
-| 3. | Elhízás II–III (súlyos, extrém fokú) | E | E | E | E | E | E | E | E |
+| 3. | Elhízás II–III (súlyos, extrém fokú) | E | E | E | E | E | E | E | E | KLGS |
 
 a) Obesitas, localis zsírfelrakódás.
 
@@ -530,15 +530,15 @@ d) K: 2–4, 6, 11–12, 14, 21, 23; F: 1–2.
 
 e) Az elhízás nem tekinthető a szolgálati kötelmekkel összefüggő kóros állapotnak.
 
-| 024 Immunzavarok és táplálkozási hiányállapotok | A2 | A3 | A4 | A5 | A6 | BNO |
+| 024 Immunzavarok és táplálkozási hiányállapotok | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe | E | E | E | KLGS | E | A | E | KLGS | B20–B24, D80–D89, E40–E64, Z20.6, Z21 |
+| 1. | enyhe | E | E | E | KLGS | E | A | E | KLGS | A | B20–B24, D80–D89, E40–E64, Z20.6, Z21 |
 
-| 2. | kp. súlyos | E | E | E | E | E | KLGS | E | E |
+| 2. | kp. súlyos | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 3. | súlyos | E | E | E | E | E | E | E | E |
+| 3. | súlyos | E | E | E | E | E | E | E | E | KLGS |
 
 a) A vitaminok, a humoralis immunitás, a sejtes immunitás hiánya, kevert típusú immundeficiencia, valamint szerzett formái, pl. AIDS.
 
@@ -552,13 +552,13 @@ e) Mivel az avitaminosisok és a szerzett immundeficiencia mindig valamely el�
 
 Vérképző szervek betegsége (025–029)
 
-| 025 Hiányvérszegénység | A2 | A3 | A4 | A5 | A6 | BNO |
+| 025 Hiányvérszegénység | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe formák | E | E | E | KLGS | E | A | E | A | D50–D53 |
+| 1. | enyhe formák | E | E | E | KLGS | E | A | E | A | A | D50–D53 |
 
-| 2. | súlyos formák | E | E | E | E | E | KLGS | E | E |
+| 2. | súlyos formák | E | E | E | E | E | KLGS | E | E | KLGS |
 
 a) Vashiány-vérszegénység, anaemia perniciosa, fólsav-anaemia, egyéb hiány-vérszegénységek, posthaemorrhagiás anaemia és az egyéb secunder anaemiák.
 
@@ -570,13 +570,13 @@ d) K: 1–2, 4, 11–14, 17–19, 21; F: 1–4, 6.
 
 e) Hiány-vérszegénység a katonai kötelmekkel nem összefüggő betegség.
 
-| 026 Öröklődő és szerzett vérsejtoldó (haemolyticus) vérszegénység | A2 | A3 | A4 | A5 | A6 | BNO |
+| 026 Öröklődő és szerzett vérsejtoldó (haemolyticus) vérszegénység | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe formák | E | E | E | E | E | K | E | KLGS | D55–D59 |
+| 1. | enyhe formák | E | E | E | E | E | K | E | KLGS | K | D55–D59 |
 
-| 2. | súlyos formák | E | E | E | E | E | E | E | E |
+| 2. | súlyos formák | E | E | E | E | E | E | E | E | KLGS |
 
 a) Öröklődő sphaerocytosis, anaemia enzimdeficit miatt, thalassaemia, sarlósejtes anaemia, haemoglobinopathiák, autoimmun és nem autoimmun haemolyticus anaemia, haemoglobinuria exogen okú haemolysis miatt.
 
@@ -588,13 +588,13 @@ d) K: 2, 4, 11–14, 17–19, 21; F: 1–4, 6.
 
 e) Bizonyos kémiai mérgek vagy fizikai ártalmak hatására kialakult haemolyticus vérszegénység egyes esetei összefüggésbe hozhatók a katonai kötelmekkel.
 
-| 027 Veleszületett és egyéb vérszegénység | A2 | A3 | A4 | A5 | A6 | BNO |
+| 027 Veleszületett és egyéb vérszegénység | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe formák | E | E | E | KLGS | E | KLGS | E | KLGS | D60 |
+| 1. | enyhe formák | E | E | E | KLGS | E | KLGS | E | KLGS | KLGS | D60 |
 
-| 2. | súlyos formák | E | E | E | E | E | E | E | E |
+| 2. | súlyos formák | E | E | E | E | E | E | E | E | KLGS |
 
 a) Anaemia aplastica, anaemia sideroblastica.
 
@@ -606,13 +606,13 @@ d) K: 2, 4, 11–14, 17–21; F: 1–4, 6.
 
 e) Baleset vagy sérülés következtében kialakult posthaemorrhagiás anaemia egyes esetei lehetnek összefüggőek a katonai kötelmekkel.
 
-| 028 Véralvadási hibák | A2 | A3 | A4 | A5 | A6 | BNO |
+| 028 Véralvadási hibák | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe formák | E | E | E | E | E | K | E | E | D65–D68 |
+| 1. | enyhe formák | E | E | E | E | E | K | E | E | K | D65–D68 |
 
-| 2. | súlyos formák | E | E | E | E | E | KLGS | E | E |
+| 2. | súlyos formák | E | E | E | E | E | KLGS | E | E | KLGS |
 
 a) Haemophylia, egyéb véralvadási faktorok congenitalis hiánya, von Willebrand-féle betegség, vérzéses zavarok keringő anticoagulansok miatt, defibrinatiós syndroma, véralvadási factorok szerzett hiánya.
 
@@ -624,13 +624,13 @@ d) K: 2, 4, 11–14, 16–19, 21; F: 1–4, 6–8.
 
 e) Az öröklődő vagy szerzett véralvadási hibák katonai kötelmekkel nem összefüggő betegségek.
 
-| 029 Egyéb vérzéses állapotok, valamint a vér és a vérképző szervek egyéb betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 029 Egyéb vérzéses állapotok, valamint a vér és a vérképző szervek egyéb betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe formák | E | E | E | KLGS | E | K | E | KLGS | D69–D77 |
+| 1. | enyhe formák | E | E | E | KLGS | E | K | E | KLGS | K | D69–D77 |
 
-| 2. | súlyos formák | E | E | E | KLGS | E | KLGS | E | E |
+| 2. | súlyos formák | E | E | E | KLGS | E | KLGS | E | E |  |
 
 a) Ide tartoznak a 028. pontba nem sorolható, egyéb vérzéses állapotok.
 
@@ -644,13 +644,13 @@ e) Nem állapítható meg összefüggés a katonai kötelmek és e szakasz sze
 
 Ideg-elme betegségek (030–053)
 
-| 030 Szervi és kórjelző értelmi (mentalis) zavarok | A2 | A3 | A4 | A5 | A6 | BNO |
+| 030 Szervi és kórjelző értelmi (mentalis) zavarok | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | átmeneti, maradványtünet nélkül | E | E | E | E | E | KLGS | E | E | F00–F09 |
+| 1. | átmeneti, maradványtünet nélkül | E | E | E | E | E | KLGS | E | E | KLGS | F00–F09 |
 
-| 2. | tartós, súlyos tünetekkel | E | E | E | E | E | E | E | E |
+| 2. | tartós, súlyos tünetekkel | E | E | E | E | E | E | E | E | E |
 
 a) Demencia, organikus amnesztikus szindroma, delirium, melyet nem alkohol vagy más pszichoaktiv szer okoz, agyi károsodás vagy testi betegség okozta egyéb mentális zavarok (hallucinozis, catatonia, paranoid zavar, hangulatzavar, szorongás, disszociativ zavar, emocionalis labilitás), organikus személyiség és viselkedészavarok (epilepsziás, posttraumás, postencephalitises, egyéb idegrendszeri károsodás okozta személyiségzavarok).
 
@@ -662,13 +662,13 @@ d) K: 2, 4, 11–14, 15–19, 21, 23–24; F: 1–4, 6, 8.
 
 e) Katonai kötelmekkel összefüggés mérlegelendő agysérülés, olyan agyvelőgyulladás maradványaként, ahol a fertőzés a katonai közösséggel valószínű.
 
-| 031 Alkohol okozta értelmi és viselkedészavarok | A2 | A3 | A4 | A5 | A6 | BNO |
+| 031 Alkohol okozta értelmi és viselkedészavarok | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | kezelésre tartósan tünetmentes, abstinens | E | E | E | E | E | KLGS | E | E | F10 |
+| 1. | kezelésre tartósan tünetmentes, abstinens | E | E | E | E | E | KLGS | E | E | KLGS | F10 |
 
-| 2. | kezelésre nem tünetmentes | E | E | E | E | E | E | E | E |
+| 2. | kezelésre nem tünetmentes | E | E | E | E | E | E | E | E | E |
 
 a) A rendszeres, mértéktelen alkoholfogyasztás, alkoholfüggőség, megvonási szindróma, amnesztikus szindróma, egyéb alkohol okozta pszichotikus zavar (delirium, hallucinozis).
 
@@ -680,13 +680,13 @@ d) Korlátozások nem alkalmazhatók.
 
 e) Katonai kötelmekkel való összefüggés nem igazolható.
 
-| 032 Drog (pszichoaktiv szer), gyógyszer használata által okozott értelmi, érzelmi, viselkedés- és szomatikus zavarok | A2 | A3 | A4 | A5 | A6 | BNO |
+| 032 Drog (pszichoaktiv szer), gyógyszer használata által okozott értelmi, érzelmi, viselkedés- és szomatikus zavarok | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | kezelésre reagáló | E | E | E | E | E | E | E | E | F11–F19 |
+| 1. | kezelésre reagáló | E | E | E | E | E | E | E | E | E | F11–F19 |
 
-| 2. | kezelésre nem reagál, visszaeső | E | E | E | E | E | E | E | E |
+| 2. | kezelésre nem reagál, visszaeső | E | E | E | E | E | E | E | E | E |
 
 a) Itt minősítendők a 031. kivételével a pszichoaktiv szer rendszeres használata, túladagolás, drogfogyasztás és a drogfüggőség, a megvonási és az amnestikus szindróma, valamint az egyéb psychotikus és szomatikus zavar. A drogszűréskor a drogvizsgálatra akkreditált, az MH HEK Tudományos Intézetében végzett nagyműszeres vizsgálattal igazolt pozitívitás esetén, hivatásos és szerződéses állományba vétel előtt (ideértve a katonai oktatási intézményi felvételt és HM ösztöndíjas szerződéskötést is) a minősítés csak „E” lehet. A szolgálatteljesítés során (ideértve a külföldi szolgálat előtti és utáni szűrővizsgálatokat is) észlelt nagyműszeres vizsgálattal megerősített drogpozitívitás esetén az egészségi alkalmassági minősítés „E”.
 
@@ -698,13 +698,13 @@ d) –
 
 e) Katonai kötelmekkel összefüggés nem igazolható.
 
-| 033 Hasadásos elmezavar és téveseszmés rendellenességek | A2 | A3 | A4 | A5 | A6 | BNO |
+| 033 Hasadásos elmezavar és téveseszmés rendellenességek | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | kezelésre jól reagál, tünetmentes, nem ismétlődik | E | E | E | E | E | E | E | E | F20–F29 |
+| 1. | kezelésre jól reagál, tünetmentes, nem ismétlődik | E | E | E | E | E | E | E | E | E | F20–F29 |
 
-| 2. | kezelésre maradványtünettel gyógyul, visszaeső | E | E | E | E | E | E | E | E |
+| 2. | kezelésre maradványtünettel gyógyul, visszaeső | E | E | E | E | E | E | E | E | E |
 
 a) Schizophrenia minden formája, schizotipiás, perzisztáló téveseszmékkel járó zavarok, schizoaffektiv és egyéb nem organikus pszihotikus rendellenességek.
 
@@ -716,13 +716,13 @@ d) K: 2, 4, 11–14, 15–19, 21, 23–24; F: 1–4, 6, 8.
 
 e) E szakasz megbetegségei a katonai kötelmekkel nem összefüggőek.
 
-| 034 Hangulatzavarok (affectiv rendellenességek) | A2 | A3 | A4 | A5 | A6 | BNO |
+| 034 Hangulatzavarok (affectiv rendellenességek) | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | kezelésre jól reagáló, rövid lefolyású, tartósan tünetmentes | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | F30–F39 |
+| 1. | kezelésre jól reagáló, rövid lefolyású, tartósan tünetmentes | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | F30–F39 |
 
-| 2. | ismételten jelentkező vagy tartós lefolyású | E | E | E | E | E | E | E | E |
+| 2. | ismételten jelentkező vagy tartós lefolyású | E | E | E | E | E | E | E | E | KLGS |
 
 a) Mániás epizód, depressziós epizód, bipoláris affektiv zavar, ismétlődő depressziós zavarok, perzisztáló hangulati zavar (cyclothymia, dysthimia), egyéb hangulatzavarok. (A neurotikus, stresszhez társuló szorongásos, depressziós zavar a 036 alapján minősítendő.)
 
@@ -734,13 +734,13 @@ d) K: 21, 24; F: 6.
 
 e) E szakasz betegségei a katonai kötelmekkel nem összefüggőek.
 
-| 035 Alvászavarok | A2 | A3 | A4 | A5 | A6 | BNO |
+| 035 Alvászavarok | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | ritka előfordulás, kezelésre reagáló | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | G 47 |
+| 1. | ritka előfordulás, kezelésre reagáló | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | G 47 |
 
-| 2. | gyakori előfordulás, szomatikus tünetekkel | E | E | E | E | E | E | E | E |
+| 2. | gyakori előfordulás, szomatikus tünetekkel | E | E | E | E | E | E | E | E | KLGS |
 
 a) Paraszomnia, insomniák, hypersomniák, alvási apnoe, narcolepsia, „nyugtalan láb szindróma”, „periódikus lábmozgás zavar”.
 
@@ -752,13 +752,13 @@ d) K: 2, 11–12, 24; F: 1, 6.
 
 e) E szakasz betegségei katonai kötelmekkel nem összefüggőek.
 
-| 036 Neurotikus, stresszhez társuló és szomatoform betegségek. Táplálkozási zavarok | A2 | A3 | A4 | A5 | A6 | BNO |
+| 036 Neurotikus, stresszhez társuló és szomatoform betegségek. Táplálkozási zavarok | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | mérsékelt tünetekkel, kezelésre reagáló | E | E | E | KLGS | E | KLGS | E | KLGS | F40–42 F44–48 |
+| 1. | mérsékelt tünetekkel, kezelésre reagáló | E | E | E | KLGS | E | KLGS | E | KLGS | KLGS | F40–42 F44–48 |
 
-| 2. | kifejezett, kezelésre nem javuló | E | E | E | E | E | E | E | E | F50–51 |
+| 2. | kifejezett, kezelésre nem javuló | E | E | E | E | E | E | E | E | KLGS | F50–51 |
 
 a) Fóbiás, szorongásos zavarok (pánik, generalizált szorongás, kevert szorongásos és depressziós zavar), obsessiv-kompulziv zavar, disszociativ (konverziós) zavarok, szomatoform rendellenességek, egyéb neurotikus rendellenességek (neuraszténia), anorexia, bulimia nervosa.
 
@@ -770,27 +770,27 @@ d) K: 2–6, 12, 13, 15, 17, 23–24; F: 1–2, 4, 6, 8.
 
 e) Katonai kötelmekkel való összefüggés nem igazolható.
 
-| 036/A | Neurotikus, stresszhez társuló és szomatoform betegségek | A2 | A3 | A4 | A5 | A6 | BNO |
+| 036/A | Neurotikus, stresszhez társuló és szomatoform betegségek | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | Mérsékelt tünetekkel, kezelésre reagáló | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | F40–42 F44–48 |
+| 1. | Mérsékelt tünetekkel, kezelésre reagáló | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | F40–42 F44–48 |
 
-| 2. | Kifejezett, kezelésre nem javuló | E | E | E | E | E | E | E | E | F50–51 |
+| 2. | Kifejezett, kezelésre nem javuló | E | E | E | E | E | E | E | E | KLGS | F50–51 |
 
-| 036/B | Táplálkozási zavarok | A2 | A3 | A4 | A5 | A6 | BNO |
-
-| a | b | c | d |
-
-| 1. | Mérsékelt tünetekkel, kezelésre reagáló | E | E | E | E | E | E | E | E | F40–42 F44–48 |
-
-| 2. | Kifejezett, kezelésre nem javuló | E | E | E | E | E | E | E | E | F50–51 |
-
-| 037 Személyiség- és viselkedészavarok | A2 | A3 | A4 | A5 | A6 | BNO |
+| 036/B | Táplálkozási zavarok | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-|  | személyiségzavar minden fajtája | E | E | E | E | E | E | E | E | F60–65 F89 |
+| 1. | Mérsékelt tünetekkel, kezelésre reagáló | E | E | E | E | E | E | E | E | E | F40–42 F44–48 |
+
+| 2. | Kifejezett, kezelésre nem javuló | E | E | E | E | E | E | E | E | E | F50–51 |
+
+| 037 Személyiség- és viselkedészavarok | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
+
+| a | b | c | d |
+
+|  | személyiségzavar minden fajtája | E | E | E | E | E | E | E | E | E | F60–65 F89 |
 
 a) E szakasz szerint minősítendők a BNO-ban szereplő személyiségzavarok, az „Auto-heteroagresszivitás”, melyek nem agyi károsodáshoz járulnak (paranoid, schizoid, disszociális, érzelmileg labilis, hystrionikus, anancastikus, szorongó, dependens) valamint az éretlen személyiség. Az „Auto-heteroagresszivitás”-hoz sorolandók az öncsonkítás, az önsértés és az öngyilkossági kísérlet esetei.
 
@@ -802,13 +802,13 @@ d) –
 
 e) Katonai kötelmekkel összefüggés e szakasz szerinti minősítésnél nem ismerhető el.
 
-| 038 Gyermek- és serdülőkorban kezdődő viselkedési és érzelmi (emocionalis) rendellenességek | A2 | A3 | A4 | A5 | A6 | BNO |
+| 038 Gyermek- és serdülőkorban kezdődő viselkedési és érzelmi (emocionalis) rendellenességek | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | kezelésre jól reagál | E | E | E | E | E | E | E | E | F90–98 |
+| 1. | kezelésre jól reagál | E | E | E | E | E | E | E | E | E | F90–98 |
 
-| 2. | kezelésre nem reagál | E | E | E | E | E | E | E | E |
+| 2. | kezelésre nem reagál | E | E | E | E | E | E | E | E | E |
 
 a) Gyermekkorban kezdődő hyperkinetikuszavar tic, nem organikus enuresis, dadogás.
 
@@ -820,13 +820,13 @@ d) –
 
 e) Katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 039 Lelki (pszichés) fejlődés zavarai | A2 | A3 | A4 | A5 | A6 | BNO |
+| 039 Lelki (pszichés) fejlődés zavarai | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | kezelésre jól reagál | E | E | E | E | E | E | E | E | F80–89 |
+| 1. | kezelésre jól reagál | E | E | E | E | E | E | E | E | E | F80–89 |
 
-| 2. | kezelésre nem reagál | E | E | E | E | E | E | E | E |
+| 2. | kezelésre nem reagál | E | E | E | E | E | E | E | E | E |
 
 a) A beszéd kifejező és megértés zavara, olvasási, írászavar, számolási dyscalculációs zavar, mely a gyermekkorban kezdődött.
 
@@ -838,13 +838,13 @@ d) –
 
 e) Katonai kötelmekkel összefüggés nem ismerhető el.
 
-| 040 Súlyos stressz által kiváltott reakció és alkalmazkodási rendellenességek | A2 | A3 | A4 | A5 | A6 | BNO |
+| 040 Súlyos stressz által kiváltott reakció és alkalmazkodási rendellenességek | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | rövid lefolyással, tünetmentesen gyógyul | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | F 43 |
+| 1. | rövid lefolyással, tünetmentesen gyógyul | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | F 43 |
 
-| 2. | elhúzódó lefolyással, maradványtünettel | E | E | E | E | E | E | E | E |
+| 2. | elhúzódó lefolyással, maradványtünettel | E | E | E | E | E | E | E | E | KLGS |
 
 a) E szerint minősítendők az abnormis fizikai és/vagy mentális stresszre adott reakciók, a poszttraumás stressz zavar (traumás élményre fellépő késői válasz), az alkalmazkodási zavarok (új életkörülményekhez való alkalmazkodás során alakulnak ki).
 
@@ -856,11 +856,11 @@ d) K: 12, 13, 15, 17, 24, 25; F: 1–2, 6.
 
 e) A szolgálat során az átlagos frusztrációt meghaladó fizikai vagy pszichikai stresszre kialakuló alkalmazkodási reakció, posttraumás stressz zavar lehet a katonai kötelmekkel összefüggő.
 
-| 041 Mentális színvonal insufficienciája (szellemi vissza- maradottság) | A2 | A3 | A4 | A5 | A6 | BNO |
+| 041 Mentális színvonal insufficienciája (szellemi vissza- maradottság) | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-|  | E | E | E | E | E | E | E | E | F70–79 |
+|  | E | E | E | E | E | E | E | E | E | F70–79 |
 
 a) Itt minősítendők, akiknél az intelligencia mutató 80 alatt van és mentális elmaradást a pszichológiai exploráció is megerősíti.
 
@@ -872,13 +872,13 @@ d) –
 
 e) Katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 042 A központi idegrendszer gyulladásos betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 042 A központi idegrendszer gyulladásos betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | maradványtünet nélkül | A | A | A | A | A | A | A | A | G00–09 |
+| 1. | maradványtünet nélkül | A | A | A | A | A | A | A | A | A | G00–09 |
 
-| 2. | maradványtünettel | E | E | E | E | E | E | E | E |
+| 2. | maradványtünettel | E | E | E | E | E | E | E | E | KLGS |
 
 a) Itt minősítjük a meningitis, encephalitis, poliomyelitis, myelitis, intrakranialis, intraspinalis tályog, koponyaűri, gerinccsatornai phlebitis, thrombophlebitis kórképeket, amelyek súlyossága a csak liquor eltérést okozó, egyébként tünetmentes meningitistől, a letalis kimenetelűig terjed.
 
@@ -890,13 +890,13 @@ d) K: 2–4, 6, 11–12, 14, 21; F: 1–2, 6.
 
 e) A katonai kötelmekkel való összefüggés elismerhető, ha a megbetegedés katonai közösségben zajló járvány esetén keletkezett.
 
-| 043 Az extrapyramidalis rendszer betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 043 Az extrapyramidalis rendszer betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe formák | E | E | E | E | E | KLGS | E | KLGS | G20–26 |
+| 1. | enyhe formák | E | E | E | E | E | KLGS | E | KLGS | KLGS | G20–26 |
 
-| 2. | kp. súlyos, súlyos formák | E | E | E | E | E | E | E | E |
+| 2. | kp. súlyos, súlyos formák | E | E | E | E | E | E | E | E | KLGS |
 
 a) Itt minősítendő a Parkinson-kór, a másodlagos parkinsonizmus, a törzsdúcok egyéb elfajulásos megbetegedései, a tónuszavarok, a tremor, a chorea, a ballizmus, a myoclonus, a tic egyéb mozgási rendellenességek. Gyógyszer okozta extrapyramidalis mozgászavarok.
 
@@ -908,11 +908,11 @@ d) K: 2, 4, 11–14, 16–19, 21, 23–24; F: 1–4, 6, 8.
 
 e) Amennyiben a mozgászavar katonai kötelmekkel oki és időbeni kapcsolata bizonyított, a katonai kötelmekkel való összefüggés ismerhető.
 
-| 044 Központi idegrend- szer elfajulásos (degeneratív) betegségei és egyéb zavarai | A2 | A3 | A4 | A5 | A6 | BNO |
+| 044 Központi idegrend- szer elfajulásos (degeneratív) betegségei és egyéb zavarai | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-|  | E | E | E | E | E | E | E | E | G10–13 G30–32 G80–83 G90–94 |
+|  | E | E | E | E | E | E | E | E | E | G10–13 G30–32 G80–83 G90–94 |
 
 a) Hungtinton chorea, öröklődő ataxiák, motoneuron megbetegedések. Egyéb egy végtagra, fél és kétoldali bénulások ha a kórok ismeretlen. Az autonom idegrendszer rendellenességei, toxikus encephalopathiák.
 
@@ -924,13 +924,13 @@ d) –
 
 e) Katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 045 A gerincvelő betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 045 A gerincvelő betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe formák | E | E | E | E | E | KLGS | E | KLGS | G95 G99 |
+| 1. | enyhe formák | E | E | E | E | E | KLGS | E | KLGS | KLGS | G95 G99 |
 
-| 2. | kp. súlyos, súlyos formák | E | E | E | E | E | E | E | E |
+| 2. | kp. súlyos, súlyos formák | E | E | E | E | E | E | E | E | KLGS |
 
 a) Itt minősítjük a syringomyelia, gerincvelő éreredetű bántalmait, spondylotikus, daganatos és egyéb myelopathiákat.
 
@@ -942,13 +942,13 @@ d) K: 2, 4, 11–14, 16–19, 21, 23–24; F: 1–4, 6–8.
 
 e) A katonai kötelmekkel összefüggés nem ismerhető el.
 
-| 046 A központi idegrendszer elvelőtlenedési (demyelinizációs) betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 046 A központi idegrendszer elvelőtlenedési (demyelinizációs) betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe formák | E | E | E | E | E | KLGS | E | KLGS | G35–37 |
+| 1. | enyhe formák | E | E | E | E | E | KLGS | E | KLGS | KLGS | G35–37 |
 
-| 2. | kp. súlyos, súlyos formák | E | E | E | E | E | E | E | E |
+| 2. | kp. súlyos, súlyos formák | E | E | E | E | E | E | E | E | KLGS |
 
 a) Itt minősítjük a sclerosis multiplex, neuromyelitis optica, egyéb demyelinizációs megbetegedéseket.
 
@@ -960,15 +960,15 @@ d) K: 2, 4, 10, 12–14, 17–19; F: 1–2, 4, 6.
 
 e) Katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 047 Epilepsia | A2 | A3 | A4 | A5 | A6 | BNO |
+| 047 Epilepsia | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | alkalmi epilepsziás roham | E | E | E | E | E | KLGS | E | E | G40–41 |
+| 1. | alkalmi epilepsziás roham | E | E | E | E | E | KLGS | E | E | KLGS | G40–41 |
 
-| 2. | ritka rosszullét, gyógyszerrel befolyásolható | E | E | E | E | E | KLGS | E | E |
+| 2. | ritka rosszullét, gyógyszerrel befolyásolható | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 3. | gyakori rosszullét és/vagy psychés tünet | E | E | E | E | E | E | E | E |
+| 3. | gyakori rosszullét és/vagy psychés tünet | E | E | E | E | E | E | E | E | KLGS |
 
 a) Idetartozik a generalizált, fokális epilepsia bármely formája és az alkalmi epilepsiás roham. A csecsemőkori lázgörcs esetén a minősítés KLGS.
 
@@ -980,13 +980,13 @@ d) K: 2–4, 6; F: 1–2.
 
 e) Katonai kötelmekkel összefüggés a katonai szolgálattal összefüggő trauma, központi idegrendszeri gyulladás után ismerhető el.
 
-| 048 Migrén és egyéb fejfájás formák | A2 | A3 | A4 | A5 | A6 | BNO |
+| 048 Migrén és egyéb fejfájás formák | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | aura nélküli migrén, tenziós fejfájás | E | E | E | KLGS | E | A | E | A | G43–44 |
+| 1. | aura nélküli migrén, tenziós fejfájás | E | E | E | KLGS | E | A | E | A | A | G43–44 |
 
-| 2. | migrén aurával, elsődleges fejfájás gyakori rohamokkal, cluster fejfájás | E | E | E | E | E | KLGS | E | KLGS |
+| 2. | migrén aurával, elsődleges fejfájás gyakori rohamokkal, cluster fejfájás | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
 a) Itt minősítjük az elsődleges fejfájásokat (migrén, cluster, tenziós, különleges fejfájás formák).
 
@@ -998,11 +998,11 @@ d) K: 2–4, 6, 7, 11–15, 22; F: 1–2.
 
 e) Katonai kötelmekkel összefüggés nem ismerhető el.
 
-| 049 Agyi bénulásos tünetcsoport (szindrómák), az idegrendszer egyéb rendellenességei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 049 Agyi bénulásos tünetcsoport (szindrómák), az idegrendszer egyéb rendellenességei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-|  | E | E | E | E | E | E | E | E | G80–83 G90–99 Q85 |
+|  | E | E | E | E | E | E | E | E | E | G80–83 G90–99 Q85 |
 
 a) Itt minősítjük a csecsemőkori agyi bénulás, az autonom idegrendszer rendellenességei, egyéb agyi és gerincvelői rendellenességek, neurofibromatosis és más fakomatosisok eseteit.
 
@@ -1014,13 +1014,13 @@ d) –
 
 e) Katonai kötelmekkel összefüggés nem ismerhető el.
 
-| 050 Agyidegek betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 050 Agyidegek betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | maradványtünet nélkül | E | E | KLGS | KLGS | E | KLGS | E | KLGS | G50–G53 |
+| 1. | maradványtünet nélkül | E | E | KLGS | KLGS | E | KLGS | E | KLGS | KLGS | G50–G53 |
 
-| 2. | maradványtünettel | E | E | E | E | E | E | E | E |
+| 2. | maradványtünettel | E | E | E | E | E | E | E | E | KLGS |
 
 a) Idetartozik az agyidegek bénulása, sérülése, gyulladása, neuralgiája.
 
@@ -1032,15 +1032,15 @@ d) K: 2–4, 6, 11–15, 17–19; F: 1–4, 6.
 
 e) Katonai kötelmekkel való összefüggés elismerhető, ha traumás vagy toxikus behatás körülményei ezt egyértelműen igazolják.
 
-| 051 Ideggyök és idegfonat (plexus) rendellenességek | A2 | A3 | A4 | A5 | A6 | BNO |
+| 051 Ideggyök és idegfonat (plexus) rendellenességek | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | kezelésre jól reagál, maradványtünet nélkül gyógyul | A | A | A | A | A | A | A | A | G54–55 M5110 |
+| 1. | kezelésre jól reagál, maradványtünet nélkül gyógyul | A | A | A | A | A | A | A | A | A | G54–55 M5110 |
 
-| 2. | gerincműtét utáni állapot maradványtünet, illetve funkció- zavar nélkül | E | E | E | E | KLGS | K | E | KLGS |
+| 2. | gerincműtét utáni állapot maradványtünet, illetve funkció- zavar nélkül | E | E | E | E | KLGS | K | E | KLGS | K |
 
-| 3. | műtétet nem igénylő rendellenesség és gerincműtét utáni állapot, maradványtünettel funkciókárosodással | E | E | E | E | E | KLGS | E | E |
+| 3. | műtétet nem igénylő rendellenesség és gerincműtét utáni állapot, maradványtünettel funkciókárosodással | E | E | E | E | E | KLGS | E | E | KLGS |
 
 a) Itt minősítjük a porckorongsérvek és azok műtéte utáni állapotot, a plexusok és ideggyökök egyéb megbetegedéseit.
 
@@ -1052,13 +1052,13 @@ d) K: 1–12, 14, 16, 17, 21; F: 1–7.
 
 e) Katonai kötelmekkel összefüggés csak a szolgálati eredetű baleset után kialakult, azzal oksági összefüggésben fellépő folyamat esetén véleményezhető.
 
-| 052 Az idegek elfajulá- sos károsodása (mono és poly- neuropathiák) és a perifériás idegrendszer egyéb rendellenességei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 052 Az idegek elfajulá- sos károsodása (mono és poly- neuropathiák) és a perifériás idegrendszer egyéb rendellenességei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe defektussal, mérsékelt funkció- zavarral | E | E | E | KLGS | E | K | E | KLGS | G56–64 |
+| 1. | enyhe defektussal, mérsékelt funkció- zavarral | E | E | E | KLGS | E | K | E | KLGS | K | G56–64 |
 
-| 2. | végleges maradvánnyal, kifejezett funkciózavarral | E | E | E | E | E | E | E | E |
+| 2. | végleges maradvánnyal, kifejezett funkciózavarral | E | E | E | E | E | E | E | E | KLGS |
 
 a) Itt minősítjük a perifériás idegkárosodásokat – kiváltó okoktól függetlenül –, alagút szindrómákat.
 
@@ -1070,13 +1070,13 @@ d) K: 2, 3, 6, 7, 12–14, 18–20; F: 1–4, 6.
 
 e) Katonai kötelmekkel való összefüggés a trauma, mérgezés körülményeinek vizsgálata alapján ítélhető meg.
 
-| 053 Myopathiák és egyéb izombetegségek | A2 | A3 | A4 | A5 | A6 | BNO |
+| 053 Myopathiák és egyéb izombetegségek | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | funkciót jelentősen nem befolyásoló forma, kezelésre jól reagál | E | E | E | KLGS | E | KLGS | E | KLGS | G70–73 |
+| 1. | funkciót jelentősen nem befolyásoló forma, kezelésre jól reagál | E | E | E | KLGS | E | KLGS | E | KLGS | KLGS | G70–73 |
 
-| 2. | jelentős funkciózavarral | E | E | E | E | E | E | E | E |
+| 2. | jelentős funkciózavarral | E | E | E | E | E | E | E | E | KLGS |
 
 a) Itt minősítjük a myasthenia gravis, és egyéb myopathiák, myotoniák, periodikus bénulás, gyulladásos myopathiák eseteit.
 
@@ -1090,15 +1090,15 @@ e) Katonai kötelmekkel összefüggés nem ismerhető el.
 
 Érzékszervek betegségei (054–074)
 
-| 054 A szemgolyó és az üvegtest betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 054 A szemgolyó és az üvegtest betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | látásromlást nem okozó szemsérülés maradvány- tünetekkel | E | E | E | KLGS | KLGS | K | E | KLGS | H44–H45 |
+| 1. | látásromlást nem okozó szemsérülés maradvány- tünetekkel | E | E | E | KLGS | KLGS | K | E | KLGS | K | H44–H45 |
 
-| 2. | áthatoló szemsérülés utáni állapot visszamaradt el nem távolítható idegentesttel | E | E | E | E | E | KLGS | E | E |
+| 2. | áthatoló szemsérülés utáni állapot visszamaradt el nem távolítható idegentesttel | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 3. | gyulladásos és degeneratív állapotok | E | E | E | E | E | E | E | E |
+| 3. | gyulladásos és degeneratív állapotok | E | E | E | E | E | E | E | E | KLGS |
 
 a) Endophtalmitis purulenta és egyéb endopthalmitis, a bulbus degeneratív és elfajulásos állapotai, áthatoló szemsérülés után visszamaradt fém vagy nem fémes idegentest. A látásromlást okozó szemsérülések minősítése a látóélesség (061. szakasz) alapján történik.
 
@@ -1110,15 +1110,15 @@ d) K: 3–4, 6, 10–11, 21; F: 1–2, 4, 6.
 
 e) A szolgálati baleset következtében keletkezett szemsérülés a katonai kötelmekkel összefüggő sérülésként elismerhető.
 
-| 055 Az ideghártya leválása és defektusai | A2 | A3 | A4 | A5 | A6 | BNO |
+| 055 Az ideghártya leválása és defektusai | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | eredményes kezelés esetén, látásromlás nélkül | E | E | E | KLGS | E | KLGS | E | KLGS | H33 |
+| 1. | eredményes kezelés esetén, látásromlás nélkül | E | E | E | KLGS | E | KLGS | E | KLGS | KLGS | H33 |
 
-| 2. | nem véglegesen kialakult műtét utáni állapot | E | E | E | E | E | KLGS | E | KLGS |
+| 2. | nem véglegesen kialakult műtét utáni állapot | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
-| 3. | eredménytelen kezelés után | E | E | E | E | E | E | E | E |
+| 3. | eredménytelen kezelés után | E | E | E | E | E | E | E | E | KLGS |
 
 a) Ablatio retinae a retina sérülésével és a retina sérülése nélkül, retinasérülés ablatio nélkül, retinoschisis és cysta retinae.
 
@@ -1136,13 +1136,13 @@ e) Retina-leválás elismerhető szolgálati sérülésnek:
 
 – a fej súlyos sérüléseinél vagy nagy testi erőfeszítés után, ha az hat hónapnál nem régebben történt.
 
-| 056 Az ideghártya, a szaruhártya, sugártest, érhártya (uvea), szivárványhártya és ínhártya idült vagy kiújuló gyulladásos megbetegedései és elfajulásai | A2 | A3 | A4 | A5 | A6 | BNO |
+| 056 Az ideghártya, a szaruhártya, sugártest, érhártya (uvea), szivárványhártya és ínhártya idült vagy kiújuló gyulladásos megbetegedései és elfajulásai | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe vagy kiújulásra nem hajlamos | E | E | E | KLGS | E | K | E | KLGS | H30–H32, H34–H36 |
+| 1. | enyhe vagy kiújulásra nem hajlamos | E | E | E | KLGS | E | K | E | KLGS | K | H30–H32, H34–H36 |
 
-| 2. | súlyos idült elváltozások | E | E | E | E | E | E | E | E |
+| 2. | súlyos idült elváltozások | E | E | E | E | E | E | E | E | KLGS |
 
 a) Retinopathia diabetica, retina érelváltozásai, degeneratio et dystrophia retinae, chorioretinitis, iritis, iridocyclitis, scleritis, episcleritis.
 
@@ -1154,13 +1154,13 @@ d) K: 3–4, 6, 10–12, 14, 21; F: 1–2, 4, 6, 8.
 
 e) Szolgálati kötelmekkel való összefüggés a szem sérüléseihez csatlakozó gyulladás esetén akkor ismerhető el, ha ezt a sérülést szolgálati baleset okozta.
 
-| 057 Zöldhályog | A2 | A3 | A4 | A5 | A6 | BNO |
+| 057 Zöldhályog | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | látótérkiesés nélkül | E | E | E | KLGS | E | KLGS | E | KLGS | H40 |
+| 1. | látótérkiesés nélkül | E | E | E | KLGS | E | KLGS | E | KLGS | KLGS | H40 |
 
-| 2. | zavaró látótérkieséssel | E | E | E | E | E | E | E | E |
+| 2. | zavaró látótérkieséssel | E | E | E | E | E | E | E | E | E |
 
 a) Határeset glaucoma, nyílt zugú glaucoma, elsődleges zárt zugú glaucoma, egyéb betegségekhez társult glaucoma.
 
@@ -1172,13 +1172,13 @@ d) K: 2, 4, 11–12, 14, 21; F: 1–2, 4, 6, 8.
 
 e) A másodlagos glaucomában a szemnyomás-emelkedést a szem sérülése okozhatja, ezért a szolgálati baleset után felépő glaucoma szolgálati kötelmekkel összefüggő betegség.
 
-| 058 Szürkehályog, a lencse egyéb betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 058 Szürkehályog, a lencse egyéb betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | egyik szemen, javítható esetben | E | E | E | KLGS | E | KLGS | E | KLGS | H25–H27 |
+| 1. | egyik szemen, javítható esetben | E | E | E | KLGS | E | KLGS | E | KLGS | KLGS | H25–H27 |
 
-| 2. | mindkét szemen | E | E | E | K | E | K | E | K |
+| 2. | mindkét szemen | E | E | E | K | E | K | E | K | K |
 
 a) Cataracta, aphakia, dislocatio lentis, subluxatio és luxatio lentis, műlencse beültetése utáni állapot.
 
@@ -1196,13 +1196,13 @@ e) A katonai kötelmekkel való összefüggés sugárzás, elektromos energia,
 
 – a külső tényezők hatása és a cataracta keletkezése közötti időbeli összefüggés igazolható.
 
-| 059 Alkalmazkodási hibák | A2 | A3 | A4 | A5 | A6 | BNO |
+| 059 Alkalmazkodási hibák | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | eredményes kezelés után | E | E | E | KLGS | E | A | E | A | H52 |
+| 1. | eredményes kezelés után | E | E | E | KLGS | E | A | E | A | A | H52 |
 
-| 2. | eredménytelen kórházi kezelés után | E | E | E | E | E | K | E | E |
+| 2. | eredménytelen kórházi kezelés után | E | E | E | E | E | K | E | E | K |
 
 a) Ophthalmoplegia interna totalis, az alkalmazkodás bénulása, az alkalmazkodás görcse.
 
@@ -1214,13 +1214,13 @@ d) K: 2–4, 6–7, 10–11, 17, 22; F: 1–4, 6.
 
 e) Ha az alkalmazkodás bénulása szolgálati baleset kapcsán elszenvedett trauma hatására következett be, szolgálati kötelmekkel összefüggőnek minősíthető.
 
-| 060 Színlátás zavarai | A2 | A3 | A4 | A5 | A6 | BNO |
+| 060 Színlátás zavarai | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | színlátás enyhe zavara (anomal) | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | KLGS | H53.5 |
+| 1. | színlátás enyhe zavara (anomal) | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | KLGS | A | H53.5 |
 
-| 2. | színlátás kifejezett zavara (anop) | E | E | E | E | E | KLGS | E | KLGS |
+| 2. | színlátás kifejezett zavara (anop) | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
 a) A színlátás kifejezett zavara (anop, anomal).
 
@@ -1232,21 +1232,21 @@ d) K: 2–3, 6, 8–9, 11, 20; F: 1–2, 6.
 
 e) A veleszületett színlátás zavarai a katonai kötelmekkel nem összefüggő állapotok.
 
-| 061 A látóélesség csökkenése | A2 | A3 | A4 | A5 | A6 | BNO |
+| 061 A látóélesség csökkenése | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | 1,0–0,9 nyers 1,0–0,8 visus | A | A | A | A | A | A | A | A | H53–H54 |
+| 1. | 1,0–0,9 nyers 1,0–0,8 visus | A | A | A | A | A | A | A | A | A | H53–H54 |
 
-| 2. | 1,0–0,7 szemüveggel 1,0–0,7 | KLGS | A | A | A | KLGS | K | KLGS | KLGS |
+| 2. | 1,0–0,7 szemüveggel 1,0–0,7 | KLGS | A | A | A | KLGS | K | KLGS | KLGS | K |
 
-| 3. | 1,0–0,7 szemüveggel 0,6–0,1 | KLGS | KLGS | KLGS | KLGS | KLGS | K | KLGS | KLGS |
+| 3. | 1,0–0,7 szemüveggel 0,6–0,1 | KLGS | KLGS | KLGS | KLGS | KLGS | K | KLGS | KLGS | K |
 
-| 4. | 0,6–0,3 szemüveggel 0,6–0,1 | E | E | E | E | E | K | E | E |
+| 4. | 0,6–0,3 szemüveggel 0,6–0,1 | E | E | E | E | E | K | E | E | K |
 
-| 5. | egyik szem hiánya vagy gyakorlati vaksága fényérzéstől 0,08-ig | E | E | E | E | E | KLGS | E | E |
+| 5. | egyik szem hiánya vagy gyakorlati vaksága fényérzéstől 0,08-ig | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 6. | szemüveggel javítva mindkét szemen kevesebb, mint 0,3 | E | E | E | E | E | E | E | E |
+| 6. | szemüveggel javítva mindkét szemen kevesebb, mint 0,3 | E | E | E | E | E | E | E | E | KLGS |
 
 a) Ezen szakasz szerint minősülnek a fénytörési rendellenességeken kívül az amblyopia, a nystagmus, a törőközegek állandó homálya vagy a szemfenék tartós elváltozása okozta látóélesség-csökkenés.
 
@@ -1260,17 +1260,17 @@ d) K: 2–4, 6–7, 10–11, 14, 22; F: 1–2, 4, 6.
 
 e) A katonai kötelmekkel való összefüggés meghatározásánál a látóélesség-csökkenést előidéző alapbetegséget kell értékelni.
 
-| 061/A Refraktív sebé- szeti beavatkozás utáni állapot | A2 | A3 | A4 | A5 | A6 | BNO |
+| 061/A Refraktív sebé- szeti beavatkozás utáni állapot | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | radiális keratotomia | E | E | E | E | E | KLGS | E | KLGS |  |
+| 1. | radiális keratotomia | E | E | E | E | E | KLGS | E | KLGS | KLGS |  |
 
-| 2. | photorefraktív keratektomia | KLGS | KLGS | A | A | KLGS | A | A | A |
+| 2. | photorefraktív keratektomia | KLGS | KLGS | A | A | KLGS | A | A | A | A |
 
-| 3. | LASIK | KLGS | KLGS | A | A | KLGS | A | KLGS | A |
+| 3. | LASIK | KLGS | KLGS | A | A | KLGS | A | KLGS | A | A |
 
-| 4. | phakiás intraokuláris lencse | E | E | KLGS | KLGS | E | KLGS | E | KLGS |
+| 4. | phakiás intraokuláris lencse | E | E | KLGS | KLGS | E | KLGS | E | KLGS | KLGS |
 
 a) Rövidlátás, távollátás, astigmia csökkentése, ill. megszüntetése céljából végzett műtéti beavatkozások a szaruhártyán, valamint nagyfokú rövidlátás miatt végzett műlencse beültetés utáni állapot a szemlecse megtartásával.
 
@@ -1278,15 +1278,15 @@ b) Az alkalmasság megállapításához szükséges a beavatkozás dokumentác
 
 c) A beavatkozás és az alkalmasság elbírálása között minimum 6 hónap eltelte szükséges. Progresszív myopia esetén műtét után is a minősítés KLGS.
 
-| 062 A szaruhártya és a kötőhártya kiújuló gyulladásos megbetegedései és elfajulása | A2 | A3 | A4 | A5 | A6 | BNO |
+| 062 A szaruhártya és a kötőhártya kiújuló gyulladásos megbetegedései és elfajulása | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | felszínes gyulladás ritka recidivák esetén | E | E | E | KLGS | KLGS | A | E | A | H10–H22 |
+| 1. | felszínes gyulladás ritka recidivák esetén | E | E | E | KLGS | KLGS | A | E | A | A | H10–H22 |
 
-| 2. | hypertrophiaval járó idült kötőhártya- gyulladás, gyakran recidiváló gyulladás | E | E | E | E | E | KLGS | E | KLGS |
+| 2. | hypertrophiaval járó idült kötőhártya- gyulladás, gyakran recidiváló gyulladás | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
-| 3. | a szaru ismétlődő mély gyulladása vagy progrediáló degeneratív elfajulása | E | E | E | E | E | E | E | E |
+| 3. | a szaru ismétlődő mély gyulladása vagy progrediáló degeneratív elfajulása | E | E | E | E | E | E | E | E | KLGS |
 
 a) Keratitis, ulcus corneae, keratoconjunctivitis, opacitas corneae, dystrophia corneae hereditaria, keratoconus, keratoglobus és a cornea egyéb betegségei, conjunctivitis, pterygium, a kötőhártya degeneratív elváltozásai.
 
@@ -1298,13 +1298,13 @@ d) K: 3–4, 6–7, 10–12, 14, 21; F: 1–2, 4, 6.
 
 e) Csak a szolgálati baleset során elszenvedett szemsérülés után keletkezett ulcus corneae ismerhető el a katonai kötelmekkel összefüggő betegségnek.
 
-| 063 A szemhéjak gyulladásai | A2 | A3 | A4 | A5 | A6 | BNO |
+| 063 A szemhéjak gyulladásai | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | fekélyes kiújulásra hajlamos szemhéjszélgyulladás eredményes kezelés után | E | E | E | KLGS | KLGS | A | E | A | H00–H01 |
+| 1. | fekélyes kiújulásra hajlamos szemhéjszélgyulladás eredményes kezelés után | E | E | E | KLGS | KLGS | A | E | A | A | H00–H01 |
 
-| 2. | kezelésnek ellenálló és/vagy pillaszőrök elpusztulásával járó esetek | E | E | E | E | E | E | E | E |
+| 2. | kezelésnek ellenálló és/vagy pillaszőrök elpusztulásával járó esetek | E | E | E | E | E | E | E | E | KLGS |
 
 a) Blepharitis és a szemhéjak egyéb mély gyulladásai, a szemhéj parazitás, fertőzéses és nem fertőzéses, valamint torzulást eredményező bőrbetegségei.
 
@@ -1316,15 +1316,15 @@ d) K: 2, 4, 6–7, 10–11, 13–14, 17–18, 21; F: 1–4, 6.
 
 e) Katonai kötelmekkel való összefüggés csak akkor ismerhető el, ha a szemhéjgyulladást előidéző tényező bizonyíthatóan a szolgálati helyen érte a minősítendőt.
 
-| 064 A szemhéj egyéb betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 064 A szemhéj egyéb betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | műtéttel javítható, látásromlást nem okozó esetek | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | H02–H03 |
+| 1. | műtéttel javítható, látásromlást nem okozó esetek | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | A | H02–H03 |
 
-| 2. | műtéttel javítható, látásromlást okozó esetek | E | E | E | KLGS | E | K | E | KLGS |
+| 2. | műtéttel javítható, látásromlást okozó esetek | E | E | E | KLGS | E | K | E | KLGS | K |
 
-| 3. | műtéttel nem javítható esetek | E | E | E | E | E | KLGS | E | E |
+| 3. | műtéttel nem javítható esetek | E | E | E | E | E | KLGS | E | E | KLGS |
 
 a) Szemhéj entropium és -trichiasis, ectropium, lagophthalmus, a szemhéj ptosisa és működését érintő egyéb zavar, a szemhéj és a periocularis terület degeneratív betegségei.
 
@@ -1336,13 +1336,13 @@ d) K: 2, 4, 6–7, 10–12; F: 1, 4, 6.
 
 e) Katonai kötelmekkel való összefüggés akkor ismerhető el, ha az elváltozást előidéző sérülés bizonyíthatóan a szolgálati helyen érte a minősítendőt.
 
-| 065 A könnyszervek betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 065 A könnyszervek betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | gyógyítható esetekben | E | E | E | KLGS | KLGS | A | E | A | H04, H06.0 |
+| 1. | gyógyítható esetekben | E | E | E | KLGS | KLGS | A | E | A | A | H04, H06.0 |
 
-| 2. | nem gyógyítható esetekben | E | E | E | E | E | KLGS | E | E |
+| 2. | nem gyógyítható esetekben | E | E | E | E | E | KLGS | E | E | KLGS |
 
 a) E csoportba sorolandók az elvezetés akadályozottsága következtében fellépő makacs könnycsorgás, valamint a szárazszem syndroma. Gyógyíthatónak tekinthető a könnyutak szűkülete, a könnypontok rendellenes állása, heveny vagy idült könnytömlőgyulladás. Gyógyíthatatlannak tekinthető a könnytömlő hiánya, vagy a könnyutak olyan fokú hegesedése, mely kórházban korszerű módszerekkel sem befolyásolható.
 
@@ -1354,13 +1354,13 @@ d) K: 2–4, 6–7, 10–12, 14–15, 17; F: 1, 3–4, 6.
 
 e) Katonai kötelmekkel való összefüggés akkor ismerhető el, ha a könnyszervek betegsége közvetlenül a szolgálati baleset után jelentkezett.
 
-| 066 A szemüreg betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 066 A szemüreg betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | eredményes kezelés esetén látásromlás nélkül | E | E | E | KLGS | KLGS | A | E | KLGS | H05, H06.1– H06.3 |
+| 1. | eredményes kezelés esetén látásromlás nélkül | E | E | E | KLGS | KLGS | A | E | KLGS | A | H05, H06.1– H06.3 |
 
-| 2. | eredménytelen kezelés és súlyos látásromlás esetén | E | E | E | E | E | K | E | E |
+| 2. | eredménytelen kezelés és súlyos látásromlás esetén | E | E | E | E | E | K | E | E | K |
 
 a) Az orbita heveny és idült gyulladásai, az endokrin és egyéb exophthalmus, az orbita deformitásai, enophthalmus, az orbita áthatoló sérülése után visszamaradt idegentest.
 
@@ -1372,13 +1372,13 @@ d) K: 2, 4, 11–12, 14, 21; F: 1–2.
 
 e) Közvetlenül a szolgálati baleset után jelentkező orbitalis gennyedés katonai kötelmekkel összefüggő betegség.
 
-| 067 A látóideg és látópálya betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 067 A látóideg és látópálya betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | látásromlás és látótérkárosodás nélkül | E | E | E | E | E | K | E | KLGS | H46–H48 |
+| 1. | látásromlás és látótérkárosodás nélkül | E | E | E | E | E | K | E | KLGS | K | H46–H48 |
 
-| 2. | látásromlással és látótérkárosodással | E | E | E | E | E | E | E | E |
+| 2. | látásromlással és látótérkárosodással | E | E | E | E | E | E | E | E | KLGS |
 
 a) Oedema papillae, atrophia nervi optici, neuritis nervi optici, neuritis retrobulbaris, neuropathia nervi optici, a látópályák egyéb megbetegedése.
 
@@ -1390,15 +1390,15 @@ d) K: 2, 4, 6–7, 10–12, 14, 22; F: 1, 3–4, 6.
 
 e) Bizonyított szolgálati baleset (pl. methylalkohol fogyasztása) következtében kialakult neuritis retrobulbaris szolgálati kötelmekkel összefüggő betegségként minősíthető.
 
-| 068 Kancsalság és a mindkét szemhez tartozó (binocularis) szemmozgások egyéb zavarai | A2 | A3 | A4 | A5 | A6 | BNO |
+| 068 Kancsalság és a mindkét szemhez tartozó (binocularis) szemmozgások egyéb zavarai | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | kísérő kancsalság | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | KLGS | H49–H51, H55 |
+| 1. | kísérő kancsalság | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | KLGS | A | H49–H51, H55 |
 
-| 2. | szemmozgató izmok bénulása zavaró kettősképek nélkül | E | E | E | E | E | KLGS | E | KLGS |
+| 2. | szemmozgató izmok bénulása zavaró kettősképek nélkül | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
-| 3. | szemmozgató izmok bénulása zavaró kettősképekkel | E | E | E | E | E | E | E | E |
+| 3. | szemmozgató izmok bénulása zavaró kettősképekkel | E | E | E | E | E | E | E | E | E |
 
 a) Strabismus, heterotropia intermittens, heterophoria, a conjugált szemmozgás bénulása vagy görcse, a convergentia fokozódása vagy elégtelensége, a szemmozgás deviatiojának elégtelensége, ophthalmoplegia.
 
@@ -1410,13 +1410,13 @@ d) K: 6, 9, 11, 14, 22; F: 1–2, 4.
 
 e) Szolgálati baleset (pl. sérülés, intoxicatio) következtében kialakult kancsalság vagy binocularis szemmozgások egyéb zavara szolgálati kötelmekkel összefüggő betegségként minősíthető.
 
-| 069 A külsőfül betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 069 A külsőfül betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | therápiára resistens, eczematizált külső hallójárat-gyulladás | E | E | E | E | E | K | E | KLGS | H60–H62 |
+| 1. | therápiára resistens, eczematizált külső hallójárat-gyulladás | E | E | E | E | E | K | E | KLGS | K | H60–H62 |
 
-| 2. | alaki torzulások, hallásromlással | E | E | E | E | E | KLGS | E | E |
+| 2. | alaki torzulások, hallásromlással | E | E | E | E | E | KLGS | E | E | KLGS |
 
 a) Perichondritis cartilaginis auriculae, a külsőfül fertőzései (erysipelas, herpes, impetigo, furunculosis meati acustici externi, otitis externa, cholesteatoma et eczema auris externae), a fülkagyló szerzett deformitása, collapsus et exostosis canalis acustici externi.
 
@@ -1428,15 +1428,15 @@ d) K: 3–4, 6, 9, 11, 25; F: 1–2, 4.
 
 e) Katonai kötelmekkel való összefüggés a külsőfül betegségei elbírálása esetén nem igazolható, és csak a szolgálati balesetből eredő, szerzett külsőfül-deformitás esetén ismerhető el.
 
-| 070 A középfül nem gennyes gyulladásai és az Eustach-kürt betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 070 A középfül nem gennyes gyulladásai és az Eustach-kürt betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | jó gyógyhajlammal | E | E | KLGS | KLGS | E | A | E | A | H65, H68–H69 |
+| 1. | jó gyógyhajlammal | E | E | KLGS | KLGS | E | A | E | A | A | H65, H68–H69 |
 
-| 2. | elhúzódó lefolyás, átmeneti hallásromlással | E | E | E | E | E | K | E | KLGS |
+| 2. | elhúzódó lefolyás, átmeneti hallásromlással | E | E | E | E | E | K | E | KLGS | K |
 
-| 3. | elhúzódó lefolyás, tartós halláskárosodással | E | E | E | E | E | KLGS | E | E |
+| 3. | elhúzódó lefolyás, tartós halláskárosodással | E | E | E | E | E | KLGS | E | E | KLGS |
 
 a) Otitis media acuta nonsuppurativa, otitis media chronica (serosa, mucoides, allergica, exudativa), salpingitis tubae Eustachii, az Eustach-kürt elzáródása és egyéb betegségei.
 
@@ -1448,15 +1448,15 @@ d) K: 4, 6, 8–9, 11, 14–15, 21, 25; F: 1–2, 4, 6.
 
 e) Katonai kötelmekkel való összefüggés a középfül nem gennyes gyulladásai és az Eustach-kürt betegségei elbírálása esetén nem igazolható.
 
-| 071 Középfül, csecsnyúlvány és dobhártya idült gennyes gyulladásai és egyéb betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 071 Középfül, csecsnyúlvány és dobhártya idült gennyes gyulladásai és egyéb betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | egyszeri heveny gyulladásos esetekben, teljes gyógyulás és teljes hallás esetén | A | A | A | A | A | A | A | A | H66, H70–H74, H95 |
+| 1. | egyszeri heveny gyulladásos esetekben, teljes gyógyulás és teljes hallás esetén | A | A | A | A | A | A | A | A | A | H66, H70–H74, H95 |
 
-| 2. | szövődménymentes esetek és radicalis, valamint hallásjavító műtét utáni állapot | E | E | E | KLGS | E | K | E | KLGS |
+| 2. | szövődménymentes esetek és radicalis, valamint hallásjavító műtét utáni állapot | E | E | E | KLGS | E | K | E | KLGS | KLGS |
 
-| 3. | szövődményekkel járó esetek, recidiva | E | E | E | E | E | E | E | E |
+| 3. | szövődményekkel járó esetek, recidiva | E | E | E | E | E | E | E | E | KLGS |
 
 a) Otitis media acuta et chronica suppurativa, mastoiditis acuta et chronica, perforatio membranae tympani, tympanosclerosis, a középfül adhaesiv betegségei, a hallócsontok egyéb szerzett rendellenességei, a középfül és a csecsnyúlvány cholesteatomája, radicalis fülműtét, tympanoplastica és stapedectomia utáni állapot.
 
@@ -1468,15 +1468,15 @@ d) K: 4, 8–9, 11, 14, 21, 25; F: 1–2, 4, 6.
 
 e) Szolgálati baleset (dörejártalom) következtében elszenvedett perforatio membranae tympani esetén a katonai kötelmekkel való összefüggést az egység parancsnoka állapítja meg és baleseti jegyzőkönyvet készít.
 
-| 072 Szédüléses állapotok és az egyensúlyszerv egyéb zavarai, hallóideg károsodás | A2 | A3 | A4 | A5 | A6 | BNO |
+| 072 Szédüléses állapotok és az egyensúlyszerv egyéb zavarai, hallóideg károsodás | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | jó gyógyhajlamú esetek, maradvány- tünetekkel | E | E | E | KLGS | E | K | E | KLGS | H81–H83, H93, H94 |
+| 1. | jó gyógyhajlamú esetek, maradvány- tünetekkel | E | E | E | KLGS | E | K | E | KLGS | K | H81–H83, H93, H94 |
 
-| 2. | Meniére-betegség (kezelésre resistens) | E | E | E | E | E | KLGS | E | E |
+| 2. | Meniére-betegség (kezelésre resistens) | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 3. | tartós labyrinthus- működési zavar, mely gyógykezelésre nem reagál (kinetosis) | E | E | E | E | E | E | E | E |
+| 3. | tartós labyrinthus- működési zavar, mely gyógykezelésre nem reagál (kinetosis) | E | E | E | E | E | E | E | E | KLGS |
 
 a) Méniére-betegség, benignus paroxysmalis vertigo vagy nystagmus, neuronitis vestibularis, centralis positionalis nystagmus, labyrinthitis, a labyrinthus fistulája és sikeres műtét utáni állapota, a labyrinthus működésének egy- vagy kétoldali kiesése, a labyrinthus hypersensitivitása, kinetosis, tinnitus.
 
@@ -1488,13 +1488,13 @@ d) K: 2–4, 6, 9, 11, 14, 25; F: 1–2, 4.
 
 e) A szolgálati baleset után visszamaradt szédülés vagy egyéb egyensúlyszervi zavar szolgálati kötelmekkel összefüggő betegségként ismerhető el.
 
-| 073 A belsőfül gócos kötőszövetes csontos elfajulása (otosclerosis) | A2 | A3 | A4 | A5 | A6 | BNO |
+| 073 A belsőfül gócos kötőszövetes csontos elfajulása (otosclerosis) | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe | E | E | E | E | E | K | E | KLGS | H80 |
+| 1. | enyhe | E | E | E | E | E | K | E | KLGS | K | H80 |
 
-| 2. | súlyos | E | E | E | E | E | E | E | E |
+| 2. | súlyos | E | E | E | E | E | E | E | E | KLGS |
 
 a) Otosclerosis.
 
@@ -1506,27 +1506,27 @@ d) K: 2, 4, 9, 11, 14, 25; F: 1–2, 4, 6.
 
 e) Katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 074 Halláscsökkenés | A2 | A3 | A4 | A5 | A6 | BNO |
+| 074 Halláscsökkenés | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| Egyoldali: |  |  |  |  |  |  |  |  | H90–H91 |
+| Egyoldali: |  |  |  |  |  |  |  |  |  | H90–H91 |
 
-| 1. | I. fokú | KLGS | KLGS | KLGS | KLGS | KLGS | K | KLGS | A |
+| 1. | I. fokú | KLGS | KLGS | KLGS | KLGS | KLGS | K | KLGS | A | K |
 
-| 2. | II. fokú | E | E | E | E | E | K | E | A |
+| 2. | II. fokú | E | E | E | E | E | K | E | A | K |
 
-| 3. | III. fokú | E | E | E | E | E | KLGS | E | KLGS |
+| 3. | III. fokú | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
-| 4. | IV. fokú | E | E | E | E | E | KLGS | E | E |
+| 4. | IV. fokú | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| Kétoldali: |  |  |  |  |  |  |  |  |
+| Kétoldali: |  |  |  |  |  |  |  |  |  |
 
-| 5. | I–I. fokú | KLGS | KLGS | KLGS | KLGS | KLGS | K | KLGS | KLGS |
+| 5. | I–I. fokú | KLGS | KLGS | KLGS | KLGS | KLGS | K | KLGS | KLGS | K |
 
-| 6. | I–II., II–II., I–III., II–III., I–IV. fokú | E | E | E | E | E | KLGS | E | E |
+| 6. | I–II., II–II., I–III., II–III., I–IV. fokú | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 7. | III–III., II–IV., III–IV., IV–IV. fokú | E | E | E | E | E | E | E | E |
+| 7. | III–III., II–IV., III–IV., IV–IV. fokú | E | E | E | E | E | E | E | E | KLGS |
 
 I. fokú: 20–30 dB mérsékelt halláscsökkenés
 
@@ -1560,13 +1560,13 @@ e) A már említett feltételek mellett acut vagy chronicus zajártalom hatás
 
 A szív és az erek betegségei (075–093)
 
-| 075 A szív gyulladásos betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 075 A szív gyulladásos betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | carditis utáni állapot vitium nélkül | A | A | A | A | A | A | KLGS | A | I00–I02, I09, I30–I33 |
+| 1. | carditis utáni állapot vitium nélkül | A | A | A | A | A | A | KLGS | A | A | I00–I02, I09, I30–I33 |
 
-| 2. | heveny, félheveny carditis következményes vitiummal | E | E | E | E | E | E | E | E |
+| 2. | heveny, félheveny carditis következményes vitiummal | E | E | E | E | E | E | E | E | KLGS |
 
 a) Febris reumatica, vírus és egyéb kóreredetű carditis (endo-, myo-, pericarditis), bacterialis endocarditis,
 
@@ -1578,15 +1578,15 @@ d) K: 1–4, 6, 11–14, 16–19, 21; F: 1–4, 6, 8.
 
 e) A betegség keletkezésében fontos szerepet játszik az öröklött hajlam (immunogeneticai tényező), ezért a katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 076 A kéthegyű, a háromhegyű és az aortabillentyű szerzett betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 076 A kéthegyű, a háromhegyű és az aortabillentyű szerzett betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | szívelégtelenség tünetei nélkül | E | E | E | KLGS | E | K | E | KLGS | I05–I09 |
+| 1. | szívelégtelenség tünetei nélkül | E | E | E | KLGS | E | K | E | KLGS | KLGS | I05–I09 |
 
-| 2. | mérsékelt szívelégtelenség tüneteivel | E | E | E | E | E | E | E | E |
+| 2. | mérsékelt szívelégtelenség tüneteivel | E | E | E | E | E | E | E | E | KLGS |
 
-| 3. | súlyos szívelégtelenség tüneteivel | E | E | E | E | E | E | E | E |
+| 3. | súlyos szívelégtelenség tüneteivel | E | E | E | E | E | E | E | E | E |
 
 a) Stenosis mitralis, insufficientia valvulae mitralis, stenosis aortae, inofufficientia aortae, stenosis ostii venosi dextri, insufficientia valvulae tricuspidalis. Mitralis prolapsus syndroma a 175-ös szakasz szerint minősül.
 
@@ -1598,17 +1598,17 @@ d) K: 1–4, 6, 11–14, 16–19, 21; F: 1–4, 6, 8.
 
 e) A katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 077 | Magasvérnyomás-betegség | A2 | A3 | A4 | A5 | A6 | BNO |
+| 077 | Magasvérnyomás-betegség | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | Praehypertensios állapot, hyperkinesis enyhe formája | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | I10-I15 |
+| 1. | Praehypertensios állapot, hyperkinesis enyhe formája | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | KLGS | I10-I15 |
 
-| 2. | Hypertonia essentiális átmeneti vérnyomás- emelkedéssel, kezelésre jól reagáló | E | E | E | E | E | K | E | KLGS |
+| 2. | Hypertonia essentiális átmeneti vérnyomás- emelkedéssel, kezelésre jól reagáló | E | E | E | E | E | K | E | KLGS | K |
 
-| 3. | Hypertonia essentiális tartós vérnyomás-emelkedés | E | E | E | E | E | KLGS | E | KLGS |
+| 3. | Hypertonia essentiális tartós vérnyomás-emelkedés | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
-| 4. | Tüneti és essentiális hypertonia szövődményes esetei mérsékelt és súlyos functiozavarral | E | E | E | E | E | E | E | E |
+| 4. | Tüneti és essentiális hypertonia szövődményes esetei mérsékelt és súlyos functiozavarral | E | E | E | E | E | E | E | E | KLGS |
 
 a) Hypertonia essentialis, hypertonia secundaria, hypertoniás szív- és vesebetegség, hyperkinesis.
 
@@ -1622,17 +1622,17 @@ d) K: 2–4, 6, 11–14, 16, 18, 21, 24; F: 1–3, 6, 8.
 
 e) Essentiális hypertoniát nem lehet a katonai kötelmekkel összefüggőnek tekinteni, azonban egyes tüneti hypertensiókat lehet akkor, ha az alapbetegség szolgálat következménye (pl. meghűlés következtében kialakult idült uroinfekció talaján kialakult vesebetegség).
 
-| 078 | Vérellátási (ischaemiás) szívbetegség | A2 | A3 | A4 | A5 | A6 | BNO |
+| 078 | Vérellátási (ischaemiás) szívbetegség | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | Koszorúserek elmeszesedése okozta ritka angina pectoris EKG-eltéréssel | E | E | E | E | E | KLGS | E | E |  |
+| 1. | Koszorúserek elmeszesedése okozta ritka angina pectoris EKG-eltéréssel | E | E | E | E | E | KLGS | E | E | KLGS |  |
 
-| 2. | Szívizominfarctus utáni állapot stenocardia és decompensatio nélkül | E | E | E | E | E | KLGS | E | E |  |
+| 2. | Szívizominfarctus utáni állapot stenocardia és decompensatio nélkül | E | E | E | E | E | KLGS | E | E | KLGS |  |
 
-| 3. | Koszorúserek elmeszesedése okozta gyakori angina pectoris | E | E | E | E | E | E | E | E |  |
+| 3. | Koszorúserek elmeszesedése okozta gyakori angina pectoris | E | E | E | E | E | E | E | E | KLGS |  |
 
-| 4. | Szívizominfarctus utáni állapot stenocardiával és decompensatioval vagy szívaneurysma | E | E | E | E | E | E | E | E |  |
+| 4. | Szívizominfarctus utáni állapot stenocardiával és decompensatioval vagy szívaneurysma | E | E | E | E | E | E | E | E | E |  |
 
 a) Infarctus myocardii, Dressler-féle syndroma, angina pectoris, coronaria sclerosis, aneurysma cordis.
 
@@ -1644,15 +1644,15 @@ d) K: 1–4, 6, 11–14, 16, 18, 21, 24; F: 1–3, 6, 8.
 
 e) A katonai kötelmekkel való összefüggés elismerhető, ha a hadsereg specificus tényezői (erős testi vagy psychés terhelés) és a szívinfarctus között időben összefüggés bizonyítható és a terhelés szokatlan és az átlagosnál jelentősen magasabb volt (pl. gázálarcban végzett erős testi munka, ijedtség vagy félelmi reactió előre nem látható helyzetek miatt). Állandó konfliktushelyzetek vagy tartós psychés többletterhelés nem fogadhatók el szívinfarctus kiváltó okaként.
 
-| 079 A tüdő-keringés betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 079 A tüdő-keringés betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | heveny pulmonalis szívbetegség utáni véglegesen gyógyult állapot functio- károsodás nélkül | E | E | E | KLGS | E | K | K | A | I26–I28 |
+| 1. | heveny pulmonalis szívbetegség utáni véglegesen gyógyult állapot functio- károsodás nélkül | E | E | E | KLGS | E | K | K | A | K | I26–I28 |
 
-| 2. | heveny pulmonalis szívbetegség utáni állapot, mérsékelt functiokárosodással, vagy idült pulmo- nalis szívbetegség a jobb kamra decompensatioja nélkül | E | E | E | KLGS | E | KLGS | E | E |
+| 2. | heveny pulmonalis szívbetegség utáni állapot, mérsékelt functiokárosodással, vagy idült pulmo- nalis szívbetegség a jobb kamra decompensatioja nélkül | E | E | E | KLGS | E | KLGS | E | E | KLGS |
 
-| 3. | heveny pulmonalis szívbetegség utáni állapot súlyos functiokárosodással, vagy idült pulmo- nalis szívbetegség a jobb kamra decompensatioja esetén | E | E | E | E | E | E | E | E |
+| 3. | heveny pulmonalis szívbetegség utáni állapot súlyos functiokárosodással, vagy idült pulmo- nalis szívbetegség a jobb kamra decompensatioja esetén | E | E | E | E | E | E | E | E | KLGS |
 
 a) Cor pulmonale acutum, embolia pulmonum, hypertensio pulmonalis idiopathica, cor pulmonale chronicum, a pulmonalis keringés egyéb zavarai.
 
@@ -1664,13 +1664,13 @@ d) K: 1–4, 6, 11–14, 16, 18, 21, 24; F: 1–3, 6, 8.
 
 e) A katonai kötelmekkel való összefüggés elismerhető, ha szolgálati balesetből származó acut túlnyomásos pneumathorax következtében támad a cor pulmonale kialakulása.
 
-| 080 Szívizombántalom | A2 | A3 | A4 | A5 | A6 | BNO |
+| 080 Szívizombántalom | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | mérsékelt functiozavarral | E | E | E | E | E | K | E | E | I42 |
+| 1. | mérsékelt functiozavarral | E | E | E | E | E | K | E | E | K | I42 |
 
-| 2. | súlyos functiozavarral | E | E | E | E | E | E | E | E |
+| 2. | súlyos functiozavarral | E | E | E | E | E | E | E | E | KLGS |
 
 a) Primaer és secundaer cardiomyopathiák tartoznak ide.
 
@@ -1682,15 +1682,15 @@ d) K: 2–4, 11–12, 14, 16, 21; F: 1–2, 6, 8.
 
 e) A katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 081 A szív ingerképzési és ingervezetési zavarai | A2 | A3 | A4 | A5 | A6 | BNO |
+| 081 A szív ingerképzési és ingervezetési zavarai | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe formák | E | E | E | KLGS | E | A | E | A | I44–I49 |
+| 1. | enyhe formák | E | E | E | KLGS | E | A | E | A | A | I44–I49 |
 
-| 2. | kp. súlyos formák | E | E | E | E | E | K | E | E |
+| 2. | kp. súlyos formák | E | E | E | E | E | K | E | E | K |
 
-| 3. | súlyos formák | E | E | E | E | E | E | E | E |
+| 3. | súlyos formák | E | E | E | E | E | E | E | E | KLGS |
 
 a) Atrioventricularis block, bal Tawara-szár block, bal anterior hemiblock, bal posterior hemiblock arborisatios block, jobb Tawara-szár block, sinoatrialis és sinoauricularis block, WPW-syndroma, LGL-syndroma, supraventricularis paroxysmalis tachycardia, ventricularis paroxysmalis tachycardia, auricularis fibrillatio és flutter, ventricularis fibrillatio és flutter, extrasystolia, sinus ritmuszavar.
 
@@ -1708,15 +1708,15 @@ d) K: 1–4, 6, 11–12, 14, 16–17, 21; F: 1–4, 6, 8.
 
 e) Mivel a szív ingerképzés és ingervezetési zavarok (a congenitalis rhytmuszavarokon kívül) mindig csak egy meghatározott alapbetegség tünetei lehetnek, a katonai kötelmekkel való összefüggést is e betegségek megítélése alapján kell eldönteni.
 
-| 082 Szívelégtelenség | A2 | A3 | A4 | A5 | A6 | BNO |
+| 082 Szívelégtelenség | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | rejtett elégtelenség esetén | E | E | E | E | E | KLGS | E | KLGS | I50 |
+| 1. | rejtett elégtelenség esetén | E | E | E | E | E | KLGS | E | KLGS | KLGS | I50 |
 
-| 2. | mérsékelt elégtelenség tüneteivel | E | E | E | E | E | E | E | E |
+| 2. | mérsékelt elégtelenség tüneteivel | E | E | E | E | E | E | E | E | KLGS |
 
-| 3. | súlyos elégtelenség tüneteivel | E | E | E | E | E | E | E | E |
+| 3. | súlyos elégtelenség tüneteivel | E | E | E | E | E | E | E | E | E |
 
 a) Pangásos szívelégtelenség, jobb szívfél-elégtelenség, bal szívfél-elégtelenség (asthma cardiale, balkamra-elégtelenség, oedema pulmonum acutum).
 
@@ -1732,15 +1732,15 @@ d) K: 2–4, 6, 11–14, 16–19, 21; F: 1–4, 6, 8.
 
 e) Katonai kötelmekkel való összefüggés megállapítása a szívelégtelenséget kiváltó betegség alapján történik.
 
-| 083 Szívműtét utáni állapotok, valamint rosszul meghatározott szívbetegségek és szövődmények | A2 | A3 | A4 | A5 | A6 | BNO |
+| 083 Szívműtét utáni állapotok, valamint rosszul meghatározott szívbetegségek és szövődmények | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe formák | E | E | E | KLGS | E | K | E | KLGS | I51, I97 |
+| 1. | enyhe formák | E | E | E | KLGS | E | K | E | KLGS | K | I51, I97 |
 
-| 2. | kp. súlyos formák | E | E | E | E | E | KLGS | E | E |
+| 2. | kp. súlyos formák | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 3. | súlyos formák | E | E | E | E | E | E | E | E |
+| 3. | súlyos formák | E | E | E | E | E | E | E | E | E |
 
 a) Szívműtét utáni functionalis zavarok, postcardiotomiás syndroma, myocarditis (arteriosclerosis említésével), degeneratio myocarditis (arteriosclerosis említésével), arteriosclerosis cardiovascularis, cardiomegalia, chorda tendinea szakadása, szemölcsizmok szakadása.
 
@@ -1752,17 +1752,17 @@ d) K: 1–4, 6, 11–14, 16–19, 21; F: 1–4, 6, 8.
 
 e) Katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 084 A központi idegrendszer keringési zavarai | A2 | A3 | A4 | A5 | A6 | BNO |
+| 084 A központi idegrendszer keringési zavarai | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | múló működési zavarok, nem organicus (reflexes) eredettel | E | E | E | E | E | K | E | A | I60–I69 |
+| 1. | múló működési zavarok, nem organicus (reflexes) eredettel | E | E | E | E | E | K | E | A | K | I60–I69 |
 
-| 2. | ismétlődő organicus eredetű múló működési zavarok | E | E | E | E | E | KLGS | E | E |
+| 2. | ismétlődő organicus eredetű múló működési zavarok | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 3. | mérsékelt defectussal | E | E | E | E | E | KLGS | E | E |
+| 3. | mérsékelt defectussal | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 4. | tartós defectussal | E | E | E | E | E | E | E | E |
+| 4. | tartós defectussal | E | E | E | E | E | E | E | E | KLGS |
 
 a) Itt minősítjük a TIA-t, a nyaki verőerek, agyi erek szűkületét, elzáródását, thrombosisát, ill. az emiatt fellépő kórképeket, a subarachnoidális vérzéseket, agyi embóliát, thrombosist stb., valamint az általános tünetekkel járó agyérelmeszesedést, a hypertensiv encephalopathiát, az agyi aneurysmákat, az arteritis cerebralist, Moyamoya-betegséget és a cerebrális vénás synusok thrombosisát.
 
@@ -1774,15 +1774,15 @@ d) K: 1–4, 6, 9, 11–14, 17–19, 21, 23–24; F: 1–4, 6.
 
 e) A katonai kötelmekkel való összefüggés trauma vagy toxicus károsodás körülményeinek függvénye.
 
-| 085 Érelmeszesedés | A2 | A3 | A4 | A5 | A6 | BNO |
+| 085 Érelmeszesedés | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | keringési zavar nélkül | E | E | E | KLGS | E | A | E | A | I70 |
+| 1. | keringési zavar nélkül | E | E | E | KLGS | E | A | E | A | A | I70 |
 
-| 2. | az érintett szerv mérsékelt keringészavarával | E | E | E | E | E | KLGS | E | KLGS |
+| 2. | az érintett szerv mérsékelt keringészavarával | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
-| 3. | az érintett szerv súlyos keringészavarával, vagy veszélyes localisatio esetén | E | E | E | E | E | E | E | E |
+| 3. | az érintett szerv súlyos keringészavarával, vagy veszélyes localisatio esetén | E | E | E | E | E | E | E | E | E |
 
 a) Arteriosclerosis, atheroma, endarteritis obliterans, az aorta, a vesék verőerei, a végtagok verőerei, egyéb verőerek arteriosclerosisa.
 
@@ -1794,17 +1794,17 @@ d) K: 2–4, 11–12, 14, 16, 21; F: 1–2, 6, 8.
 
 e) Katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 086 Verőér helyi tágulata (aneurysma) | A2 | A3 | A4 | A5 | A6 | BNO |
+| 086 Verőér helyi tágulata (aneurysma) | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | tüneteket és panaszt nem okozó aneurysma | E | E | E | KLGS | E | K | E | KLGS | I71–I72 |
+| 1. | tüneteket és panaszt nem okozó aneurysma | E | E | E | KLGS | E | K | E | KLGS | K | I71–I72 |
 
-| 2. | aneurysma műtét utáni állapot enyhe maradványtünettel | E | E | E | E | E | KLGS | E | E |
+| 2. | aneurysma műtét utáni állapot enyhe maradványtünettel | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 3. | panaszt és nyomási tünetet okozó aneurysma | E | E | E | E | E | KLGS | E | E |
+| 3. | panaszt és nyomási tünetet okozó aneurysma | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 4. | aneurysma műtét utáni állapot súlyos maradványtünettel | E | E | E | E | E | E | E | E |
+| 4. | aneurysma műtét utáni állapot súlyos maradványtünettel | E | E | E | E | E | E | E | E | KLGS |
 
 a) Aorta-aneurysma (hasi, mellkasi, dissecans), egyéb aneurysma (felső végtagok verőerei, vese verőerek, arteria iliaca, alsó végtagok verőerei). A cerebralis aneurysma 084. szakasz, a szív aneurysma 078. szakasz szerint minősítendő.
 
@@ -1818,25 +1818,25 @@ d) K: 2–4, 11–12, 14, 16, 21; F: 1–2, 6, 8.
 
 e) Katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 087 Egyéb perifériás érbetegség | A2 | A3 | A4 | A5 | A6 | BNO |
+| 087 Egyéb perifériás érbetegség | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| Angiopathiák: |  |  |  |  |  |  |  |  | I73 |
+| Angiopathiák: |  |  |  |  |  |  |  |  |  | I73 |
 
-| 1. | enyhe formák | E | E | E | KLGS | E | K | E | KLGS |
+| 1. | enyhe formák | E | E | E | KLGS | E | K | E | KLGS | K |
 
-| 2. | súlyos formák | E | E | E | E | E | E | E | E |
+| 2. | súlyos formák | E | E | E | E | E | E | E | E | KLGS |
 
-| Thromboangitis obliterans |  |  |  |  |  |  |  |  |
+| Thromboangitis obliterans |  |  |  |  |  |  |  |  |  |
 
-| (Bürger-féle betegség) |  |  |  |  |  |  |  |  |
+| (Bürger-féle betegség) |  |  |  |  |  |  |  |  |  |
 
-| 3. | hosszabb tünet- mentes stationaer állapot esetén | E | E | E | KLGS | E | K | E | KLGS |
+| 3. | hosszabb tünet- mentes stationaer állapot esetén | E | E | E | KLGS | E | K | E | KLGS | K |
 
-| 4. | műtét utáni állapot enyhe maradványtünettel | E | E | E | E | E | KLGS | E | E |
+| 4. | műtét utáni állapot enyhe maradványtünettel | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 5. | műtét utáni állapot súlyos maradvány- tünettel, valamint visceralis kerintési zavar esetén | E | E | E | E | E | E | E | E |
+| 5. | műtét utáni állapot súlyos maradvány- tünettel, valamint visceralis kerintési zavar esetén | E | E | E | E | E | E | E | E | KLGS |
 
 a) M. Raynaud, Raynaud-syndroma, acrocyanosis, erythrocyanosis, erythromegalia, arteria-spasmus, perifériás érbetegség, thromboangitis obliterans.
 
@@ -1852,13 +1852,13 @@ d) K: 2, 3, 6, 11, 15, 21; F: 1–2.
 
 e) A katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 088 Verőeres vérrögösödés és embolia | A2 | A3 | A4 | A5 | A6 | BNO |
+| 088 Verőeres vérrögösödés és embolia | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | az érintett szerv mérsékelt functiozavara esetén | E | E | E | E | E | K | E | E | I74 |
+| 1. | az érintett szerv mérsékelt functiozavara esetén | E | E | E | E | E | K | E | E | K | I74 |
 
-| 2. | az érintett szerv súlyos functiozavara esetén | E | E | E | E | E | E | E | E |
+| 2. | az érintett szerv súlyos functiozavara esetén | E | E | E | E | E | E | E | E | KLGS |
 
 a) Infarctus embolicus, infarctus thromboticus, occlusio.
 
@@ -1870,13 +1870,13 @@ d) K: 1–4, 6, 11–12, 14, 21; F: 1–2.
 
 e) A katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 089 A kis artériák gyul- ladásos elfajulása és rokon állapotok | A2 | A3 | A4 | A5 | A6 | BNO |
+| 089 A kis artériák gyul- ladásos elfajulása és rokon állapotok | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | tartós remissio esetén | E | E | E | E | E | KLGS | E | KLGS | I77 |
+| 1. | tartós remissio esetén | E | E | E | E | E | KLGS | E | KLGS | KLGS | I77 |
 
-| 2. | súlyos szervi laesio esetén | E | E | E | E | E | E | E | E |
+| 2. | súlyos szervi laesio esetén | E | E | E | E | E | E | E | E | KLGS |
 
 a) Periarteritis nodosa, Wegener-féle granulomatózis, Takayasau-féle betegség, arteritis temporalis, allergiás és autoimmun eredetű vaszkulítiszek.
 
@@ -1888,17 +1888,17 @@ d) K: 2, 4, 11–12, 14–15, 17–18, 21; F: 1–4.
 
 e) A katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 090 Visszér és visszérrögösödéses gyulladás | A2 | A3 | A4 | A5 | A6 | BNO |
+| 090 Visszér és visszérrögösödéses gyulladás | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | végtagok felületes venagyulladása vagy thrombosisa | E | E | E | KLGS | E | A | E | A | I80–I82 |
+| 1. | végtagok felületes venagyulladása vagy thrombosisa | E | E | E | KLGS | E | A | E | A | A | I80–I82 |
 
-| 2. | végtagok nem ismétlődő mély venathrombosisa jó collateralis keringéssel | E | E | E | KLGS | E | K | E | KLGS |
+| 2. | végtagok nem ismétlődő mély venathrombosisa jó collateralis keringéssel | E | E | E | KLGS | E | K | E | KLGS | K |
 
-| 3. | végtagok mély venathrombosisa mérsékelt helyi keringési zavarral | E | E | E | E | E | KLGS | E | E |
+| 3. | végtagok mély venathrombosisa mérsékelt helyi keringési zavarral | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 4. | végtagok ismétlődő mély venathrombosisa súlyos helyi keringési zavarral, valamint az egyéb visszeres embólia és thrombosis | E | E | E | E | E | E | E | E |
+| 4. | végtagok ismétlődő mély venathrombosisa súlyos helyi keringési zavarral, valamint az egyéb visszeres embólia és thrombosis | E | E | E | E | E | E | E | E | KLGS |
 
 a) Thrombophlebitis, phlebitis suppurativa, vena portae thrombosis, thrombophlebitis migrans, Budd-Chiari- syndroma.
 
@@ -1916,19 +1916,19 @@ d) K: 1, 2, 4, 6, 11, 14; F: 1, 6.
 
 e) A katonai kötelmekkel való összefüggés legtöbb esetben nem ismerhető el. Kivételt képeznek phlebothrombosis vagy thrombophlebitis azon esetei, amelyek kialakulását szolgálati baleset vagy tartós megterhelés okozta, és a kettő közötti összefüggés a sérülés helyét és időpontját illetően bizonyítható.
 
-| 091 Az alsó végtag visszértágulatai | A2 | A3 | A4 | A5 | A6 | BNO |
+| 091 Az alsó végtag visszértágulatai | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | eredményes műtét utáni állapot | KLGS | A | A | A | KLGS | A | KLGS | A | I83 |
+| 1. | eredményes műtét utáni állapot | KLGS | A | A | A | KLGS | A | KLGS | A | A | I83 |
 
-| 2. | kis kiterjedésű visszértágulat gyulladásos és trophiás zavar nélkül | KLGS | KLGS | KLGS | A | E | A | E | A |
+| 2. | kis kiterjedésű visszértágulat gyulladásos és trophiás zavar nélkül | KLGS | KLGS | KLGS | A | E | A | E | A | KLGS |
 
-| 3. | kis kiterjedésű visszértágulat gyulladás vagy trophiás zavar esetén, valamint nagy kiterjedésű visszértágulat említett elvátozások nélkül | E | E | E | E | E | K | E | KLGS |
+| 3. | kis kiterjedésű visszértágulat gyulladás vagy trophiás zavar esetén, valamint nagy kiterjedésű visszértágulat említett elvátozások nélkül | E | E | E | E | E | K | E | KLGS | KLGS |
 
-| 4. | műtét utáni állapot mérsékelt keringési zavarral | E | KLGS | KLGS | KLGS | E | KLGS | E | KLGS |
+| 4. | műtét utáni állapot mérsékelt keringési zavarral | E | KLGS | KLGS | KLGS | E | KLGS | E | KLGS | KLGS |
 
-| 5. | műtét utáni állapot súlyos keringési zavarral | E | E | E | E | E | E | E | E |
+| 5. | műtét utáni állapot súlyos keringési zavarral | E | E | E | E | E | E | E | E | KLGS |
 
 a) Varicositas, ulcus varicosum (alsó végtagon, vagy egyéb lokalizációjú).
 
@@ -1948,15 +1948,15 @@ d) K: 3, 4, 6, 9, 11–12, 14, 21; F: 1–2, 4.
 
 e) A katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 092 Aranyér | A2 | A3 | A4 | A5 | A6 | BNO |
+| 092 Aranyér | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | szövődmény nélkül hatásos konzervatív kezelés esetén | KLGS | A | A | A | KLGS | A | E | A | I84 |
+| 1. | szövődmény nélkül hatásos konzervatív kezelés esetén | KLGS | A | A | A | KLGS | A | E | A | A | I84 |
 
-| 2. | szövődménnyel, sikeres műtét utáni állapot esetén | KLGS | KLGS | KLGS | KLGS | E | K | E | KLGS |
+| 2. | szövődménnyel, sikeres műtét utáni állapot esetén | KLGS | KLGS | KLGS | KLGS | E | K | E | KLGS | KLGS |
 
-| 3. | szövődménnyel, gyakori recidiva és ismételt műtét szükségessége esetén | E | E | E | E | E | KLGS | E | E |
+| 3. | szövődménnyel, gyakori recidiva és ismételt műtét szükségessége esetén | E | E | E | E | E | KLGS | E | E | KLGS |
 
 a) Nodus haemorrhoidalis recti internus et externus (thromboticus haemorrhagicus, prolapsus, strangulatus, ulcerosus).
 
@@ -1968,13 +1968,13 @@ d) K: 3; F: 0.
 
 e) A katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 093 Alacsony vérnyomás | A2 | A3 | A4 | A5 | A6 | BNO |
+| 093 Alacsony vérnyomás | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe formák | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | I95 |
+| 1. | enyhe formák | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | A | I95 |
 
-| 2. | kifejezett formák | E | E | E | E | E | K | E | KLGS |
+| 2. | kifejezett formák | E | E | E | E | E | K | E | KLGS | K |
 
 a) Hypotonia orthostatica, hypotonia chronica, collapsus (elhúzódó is), syncope.
 
@@ -1988,15 +1988,15 @@ e) A katonai kötelmekkel való összefüggés nem ismerhető el.
 
 A légzőszervek betegségei (094–105)
 
-| 094 | Az orrnyálkahártya daganata (orrpolyp) | A2 | A3 | A4 | A5 | A6 | BNO |
+| 094 | Az orrnyálkahártya daganata (orrpolyp) | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | Egyik vagy mindkét orrfél érintettsége esetén műtét után tünet és panaszmentes recidíva nélkül | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | J33 |
+| 1. | Egyik vagy mindkét orrfél érintettsége esetén műtét után tünet és panaszmentes recidíva nélkül | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | J33 |
 
-| 2. | Mindkét orrfél nehezített légzése vagy teljes elzártsága esetén | E | E | E | E | E | A | E | E |  |
+| 2. | Mindkét orrfél nehezített légzése vagy teljes elzártsága esetén | E | E | E | E | E | A | E | E | KLGS |  |
 
-| 3. | Gyakran recidiváló, sokszor operált esetek | E | E | E | E | E | KLGS | E | E |  |
+| 3. | Gyakran recidiváló, sokszor operált esetek | E | E | E | E | E | KLGS | E | E | KLGS |  |
 
 a) Polypus cavi nasi, conchae, nasopharyngis, polypus-sinus ethmoidalis, frontalis, maxillaris, sphenoidalis.
 
@@ -2008,15 +2008,15 @@ d) K: 6, 14; F: 6.
 
 e) Katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 095 Az orrnyálkahártya idült betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 095 Az orrnyálkahártya idült betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | Enyhe formák | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | J30–J31 |
+| 1. | Enyhe formák | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | A | J30–J31 |
 
-| 2. | Kp. súlyos formák | E | E | E | E | E | K | E | KLGS |
+| 2. | Kp. súlyos formák | E | E | E | E | E | K | E | KLGS | K |
 
-| 3. | Súlyos formák | E | E | E | E | E | E | E | E |
+| 3. | Súlyos formák | E | E | E | E | E | E | E | E | KLGS |
 
 a) Rhinitis chronica, rhinitis allergica, ozaena.
 
@@ -2034,13 +2034,13 @@ d) K: 21; F: 0.
 
 e) Katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 096 Idült melléküreg-gyulladás | A2 | A3 | A4 | A5 | A6 | BNO |
+| 096 Idült melléküreg-gyulladás | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | recidiváló sinusitisek | E | E | E | E | E | K | E | KLGS | J32 |
+| 1. | recidiváló sinusitisek | E | E | E | E | E | K | E | KLGS | K | J32 |
 
-| 2. | torzító, műtét utáni állapot | E | E | E | E | E | KLGS | E | KLGS |
+| 2. | torzító, műtét utáni állapot | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
 a) Sinusitis maxillaris chronica, sinusitis frontalis chronica, sinusitis ethmoidalis chronica, sinusitis sphenoidalis chronica, pansinusitis chronica, torzító műtét utáni állapotok, amelyek az arc, homlok alaki elváltozásával járnak (pl. Riedl-műtét).
 
@@ -2052,15 +2052,15 @@ d) K: 6, 21; F: 6.
 
 e) A katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 097 A gége, légcső idült betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
+| 097 A gége, légcső idült betegségei | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe | E | E | KLGS | KLGS | E | K | E | KLGS | J37 |
+| 1. | enyhe | E | E | KLGS | KLGS | E | K | E | KLGS | K | J37 |
 
-| 2. | kp. súlyos | E | E | E | E | E | KLGS | E | KLGS |
+| 2. | kp. súlyos | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
-| 3. | súlyos | E | E | E | E | E | E | E | E |
+| 3. | súlyos | E | E | E | E | E | E | E | E | KLGS |
 
 a) Laryngitis chronica hypertrophica, laryngitis chronica sicca, laryngotracheitis chronica.
 
@@ -2076,13 +2076,13 @@ d) K: 21; F: 0.
 
 e) A katonai kötelmekkel való összefüggés csapatnál kedvezőtlen klímájú munkahelyen több mint öt éven át folyamatosan teljesített szolgálat esetén ismerhető el.
 
-| 098 A hangszalagok és a gége bénulása | A2 | A3 | A4 | A5 | A6 | BNO |
+| 098 A hangszalagok és a gége bénulása | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | egyoldali recurrens bénulás hangképzési zavarral, jó légzésfunctioval | E | E | E | E | E | K | E | KLGS | J38 |
+| 1. | egyoldali recurrens bénulás hangképzési zavarral, jó légzésfunctioval | E | E | E | E | E | K | E | KLGS | K | J38 |
 
-| 2. | kétoldali recurrens paresis súlyos hangképzési és légzési zavarral | E | E | E | E | E | E | E | E |
+| 2. | kétoldali recurrens paresis súlyos hangképzési és légzési zavarral | E | E | E | E | E | E | E | E | KLGS |
 
 a) Laryngoplegia, paralysis glottidis.
 
@@ -2094,15 +2094,15 @@ d) K: 17, 21; F: 3–4.
 
 e) A katonai kötelmekkel való összefüggés nem ismerhető el. Kivételt képezhet a peripheriás eredetű hangszalag- és recurrensbénulás, ha az ideg szolgálati baleset következtében sérült.
 
-| 099 Idült hörghurut és hörgőtágulat | A2 | A3 | A4 | A5 | A6 | BNO |
+| 099 Idült hörghurut és hörgőtágulat | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | kis kiterjedésű, kevés köpettel, cardiorespiratoricus zavar nélkül | E | E | E | KLGS | E | K | E | KLGS | J40–J42, J44 |
+| 1. | kis kiterjedésű, kevés köpettel, cardiorespiratoricus zavar nélkül | E | E | E | KLGS | E | K | E | KLGS | K | J40–J42, J44 |
 
-| 2. | nagyobb kiterjedésű, sok köpettel, mérsékelt cardiorespiratoricus zavarral | E | E | E | E | E | KLGS | E | E |
+| 2. | nagyobb kiterjedésű, sok köpettel, mérsékelt cardiorespiratoricus zavarral | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 3. | nagy kiterjedésű, sok köpettel, súlyos cardiorespiratoricus zavarral | E | E | E | E | E | E | E | E |
+| 3. | nagy kiterjedésű, sok köpettel, súlyos cardiorespiratoricus zavarral | E | E | E | E | E | E | E | E | KLGS |
 
 a) Bronchitis chronica (simplex, obstructiva), bronchiectasia (congenitalis, szerzett, localisalt, diffúz).
 
@@ -2136,17 +2136,17 @@ d) K: 2–4, 7–8, 11–12, 14–16, 21; F: 1–2, 6, 8.
 
 e) A katonai kötelmekkel való összefüggés bronchiectasia esetén nem igazolható. Az idült bronchitisnél, ha bizonyítható a katonai szolgálat teljesítése során az exogen tényező tartós, egyértelmű hatása, az összefüggés megállapítható.
 
-| 100 Tüdőtágulat | A2 | A3 | A4 | A5 | A6 | BNO |
+| 100 Tüdőtágulat | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe | E | E | E | KLGS | E | K | E | KLGS | J43 |
+| 1. | enyhe | E | E | E | KLGS | E | K | E | KLGS | K | J43 |
 
-| 2. | kp. súlyos | E | E | E | E | E | K | E | KLGS |
+| 2. | kp. súlyos | E | E | E | E | E | K | E | KLGS | K |
 
-| 3. | súlyos | E | E | E | E | E | KLGS | E | E |
+| 3. | súlyos | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 4. | veszélyes | E | E | E | E | E | E | E | E |
+| 4. | veszélyes | E | E | E | E | E | E | E | E | KLGS |
 
 a) Emphysema pulmonum, bulla(e) pulmonum, emphysemás hólyag, Mac-Leod-féle syndroma.
 
@@ -2158,15 +2158,15 @@ d) K: 3–4, 6, 11–12, 14, 16–17; F: 1–4, 6, 8.
 
 e) Fenti betegségek katonai kötelmekkel nem függnek össze.
 
-| 101 Hörgi nehézlégzés | A2 | A3 | A4 | A5 | A6 | BNO |
+| 101 Hörgi nehézlégzés | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | rövid időtartam és ritka asthma rohamok jó cardiorespiratoricus functioval | E | E | E | KLGS | E | K | E | KLGS | J45 |
+| 1. | rövid időtartam és ritka asthma rohamok jó cardiorespiratoricus functioval | E | E | E | KLGS | E | K | E | KLGS | K | J45 |
 
-| 2. | hosszan tartó, de ritka asthma bronchiale rohamok mérsékelt cardioprespiratoricus zavarral | E | E | E | E | E | K | E | E |
+| 2. | hosszan tartó, de ritka asthma bronchiale rohamok mérsékelt cardioprespiratoricus zavarral | E | E | E | E | E | K | E | E | K |
 
-| 3. | hosszan tartó és gyakori asthma bronchiale rohamok súlyos cardio- respiratoricus zavarral | E | E | E | E | E | E | E | E |
+| 3. | hosszan tartó és gyakori asthma bronchiale rohamok súlyos cardio- respiratoricus zavarral | E | E | E | E | E | E | E | E | KLGS |
 
 a) Extrinsic, intrinsic, vegyes, terheléses típusú asthma bronchiale.
 
@@ -2178,17 +2178,17 @@ d) K: 1–4, 6, 8–9, 11–12, 14–17, 21; F: 1–4, 6.
 
 e) A katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 102 Mellhártya- gyulladás | A2 | A3 | A4 | A5 | A6 | BNO |
+| 102 Mellhártya- gyulladás | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | izzadmány vagy activ gümőkór említése nélkül | A | A | A | A | A | A | A | A | J85–J92 |
+| 1. | izzadmány vagy activ gümőkór említése nélkül | A | A | A | A | A | A | A | A | A | J85–J92 |
 
-| 2. | izzadmánnyal, szövődmény nélkül, egyéb bacteriális ok említésével | E | E | E | E | KLGS | K | E | KLGS |
+| 2. | izzadmánnyal, szövődmény nélkül, egyéb bacteriális ok említésével | E | E | E | E | KLGS | K | E | KLGS | K |
 
-| 3. | bacteriális eredetű izzadmány szövődménnyel, mérsékelt functiokárosodás esetén | E | E | E | E | E | K | E | KLGS |
+| 3. | bacteriális eredetű izzadmány szövődménnyel, mérsékelt functiokárosodás esetén | E | E | E | E | E | K | E | KLGS | KLGS |
 
-| 4. | bacteriális eredetű izzadmány szövődménnyel, súlyos functiokárosodás esetén | E | E | E | E | E | E | E | E |
+| 4. | bacteriális eredetű izzadmány szövődménnyel, súlyos functiokárosodás esetén | E | E | E | E | E | E | E | E | KLGS |
 
 a) Itt minősítjük a nem gümőkóros mellhártyagyulladásokat (pl. pleuritis sicca, Bornholm-betegség formái, pleuritis diaphragmatica, pleuritis interlobaris, pleuritis fibrinosa). Maradványállapotok: adhaesio pulmonis et pleurae, calcificatio pleurae, pleuramegvastagodás.
 
@@ -2202,15 +2202,15 @@ d) K: 2–4, 6, 11–12, 14, 16–17, 21; F: 1–4, 6.
 
 e) A katonai kötelmekkel való összefüggés elismerhető, ha a pleuritis szolgálati eredetű baleset (mellkas trauma) vagy baleset jellegű esemény (nagymérvű átnedvesedés vagy átfázás) következménye. A tünetek fellépésének időpontja az eseményt követően ne legyen több egy napnál.
 
-| 103 Spontán légmell | A2 | A3 | A4 | A5 | A6 | BNO |
+| 103 Spontán légmell | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | egy alkalommal keletkezett, konzervatív kezeléssel megoldott | E | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | J93 |
+| 1. | egy alkalommal keletkezett, konzervatív kezeléssel megoldott | E | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | A | J93 |
 
-| 2. | egy alkalommal keletkezett, műtéttel megoldott | E | KLGS | KLGS | KLGS | E | K | E | KLGS |
+| 2. | egy alkalommal keletkezett, műtéttel megoldott | E | KLGS | KLGS | KLGS | E | K | E | KLGS | K |
 
-| 3. | ismételten keletkezett | E | E | E | E | E | KLGS | E | E |
+| 3. | ismételten keletkezett | E | E | E | E | E | KLGS | E | E | KLGS |
 
 a) Pneumothorax (acutus, chronicus, spontaneus, secund., partiale, totale, tensivus, congenitalis, traumaticus) tünet és panaszmentesség esetén.
 
@@ -2222,15 +2222,15 @@ d) K: 2–4, 11, 14, 16–17, 21; F: 1–4, 6.
 
 e) A katonai kötelmekkel való összefüggés elismerhető a katonai szolgálat teljesítésekor, mellkassérülés következtében fellépett pneumothorax esetén.
 
-| 104 Mellkasi szervek csonkolás nélküli műtéte utáni állapot | A2 | A3 | A4 | A5 | A6 | BNO |
+| 104 Mellkasi szervek csonkolás nélküli műtéte utáni állapot | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | légzésfunctios zavar nélkül | E | E | E | KLGS | KLGS | K | E | KLGS | J95 |
+| 1. | légzésfunctios zavar nélkül | E | E | E | KLGS | KLGS | K | E | KLGS | K | J95 |
 
-| 2. | mérsékelt légzésfunctios zavarral | E | E | E | E | E | K | E | KLGS |
+| 2. | mérsékelt légzésfunctios zavarral | E | E | E | E | E | K | E | KLGS | K |
 
-| 3. | súlyos légzésfunctios zavarral | E | E | E | E | E | E | E | E |
+| 3. | súlyos légzésfunctios zavarral | E | E | E | E | E | E | E | E | KLGS |
 
 a) Itt minősítendők a mellkas, a pleura, a mediastinum, a nyelőcső, a rekesz benignus betegségei, fejlődési rendellenességei miatt és diagnosztikai vagy therápiás célból történő sebészi beavatkozások (pl. pectus excavatum, recurvatum, carinatum, rekeszrelaxatio, rekesz és pleura jóindulatú daganatai, nyaki borda, reflux oesophagei, mediastinum benigus elváltozásai, thymuselváltozások, mediastinoscopia, pleuroscopia, pericardialis cysta). Az 1. alszakaszban az etiológiától függően akár „A” minősítés is adható.
 
@@ -2242,15 +2242,15 @@ d) K: 2, 4, 6, 11–12, 14, 16–17, 21; F: 1–4, 6.
 
 e) Fenti betegségek a katonai kötelmekkel nem összefüggőek.
 
-| 105 Tüdőműtét utáni állapot | A2 | A3 | A4 | A5 | A6 | BNO |
+| 105 Tüdőműtét utáni állapot | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | segmentectomia utáni állapot | E | E | E | KLGS | KLGS | K | E | KLGS | J98 |
+| 1. | segmentectomia utáni állapot | E | E | E | KLGS | KLGS | K | E | KLGS | K | J98 |
 
-| 2. | lobectomia utáni állapot | E | E | E | E | E | KLGS | E | E |
+| 2. | lobectomia utáni állapot | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 3. | pulmonectomia utáni állapot | E | E | E | E | E | E | E | E |
+| 3. | pulmonectomia utáni állapot | E | E | E | E | E | E | E | E | V |
 
 a) Itt minősítendő a segmentectomia, a lobectomia vagy a pulmonectomia utáni állapot. Lobectomia végzése után, az alapbetegség és ettől függően a beteg általános állapota figyelembevételével, a minősítés egyéni elbírálást igényel.
 
@@ -2264,13 +2264,13 @@ e) A katonai kötelmekkel való összefüggés elbírálása a műtétet kivá
 
 Az emésztőszervek betegségei (106–125)
 
-| 106 Foghiány | A2 | A3 | A4 | A5 | A6 | BNO |
+| 106 Foghiány | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | mérsékelt | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | K00 |
+| 1. | mérsékelt | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | A | K00 |
 
-| 2. | súlyos | E | E | E | E | E | KLGS | E | KLGS |
+| 2. | súlyos | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
 a) Anodontia, hypodontia és oligodontia.
 
@@ -2282,13 +2282,13 @@ d) K: 4, 6, 11; F: 1.
 
 e) Szolgálati baleset következtében kialakult foghiány szolgálati kötelmekkel összefüggőnek minősíthető.
 
-| 107 Paradontosis | A2 | A3 | A4 | A5 | A6 | BNO |
+| 107 Paradontosis | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | második szakban | E | E | E | KLGS | KLGS | A | E | A | K05 |
+| 1. | második szakban | E | E | E | KLGS | KLGS | A | E | A | A | K05 |
 
-| 2. | harmadik szakban | E | E | E | E | E | KLGS | E | KLGS |
+| 2. | harmadik szakban | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
 a) A fogágykárosodás minősítésére szolgáló szakasz.
 
@@ -2300,13 +2300,13 @@ d) K: 4, 6, 11–13, 17–18, 21; F: 1–4.
 
 e) Katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 107 | Fogszuvasodás | A2 | A3 | A4 | A5 | A6 | BNO |
+| 107 | Fogszuvasodás | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | Zománc káriesz | A | A | A | A | A | A | A | A | K02 |
+| 1. | Zománc káriesz | A | A | A | A | A | A | A | A | A | K02 |
 
-| 2. | Dentin, illetve cement káriesz | E | E | E | E | E | KLGS | E | KLGS |
+| 2. | Dentin, illetve cement káriesz | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
 a) A fogszuvasodás minősítésére szolgáló szakasz.
 
@@ -2314,13 +2314,13 @@ b) A STANAG 2466 szerint DFC=2-nél a minősítés lehet „A”.
 
 c) DFC=3-nál a minősítés „I” a szanáció idejére.
 
-| 108 Fog-, arcanomáliák | A2 | A3 | A4 | A5 | A6 | BNO |
+| 108 Fog-, arcanomáliák | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe elváltozás mérsékelt functiozavarral | E | E | E | E | KLGS | KLGS | E | KLGS | K06–K07 |
+| 1. | enyhe elváltozás mérsékelt functiozavarral | E | E | E | E | KLGS | KLGS | E | KLGS | KLGS | K06–K07 |
 
-| 2. | a rágó- vagy beszédfunctio súlyos zavarával | E | E | E | E | E | E | E | E |
+| 2. | a rágó- vagy beszédfunctio súlyos zavarával | E | E | E | E | E | E | E | E | KLGS |
 
 a) Itt minősítendő az arc, a fogazat és az állcsontok tartós, veleszületett vagy szerzett elvátozásai, torzulásai, amelyek plasztikai műtéttel nem korrigálhatók.
 
@@ -2334,13 +2334,13 @@ d) K: 4, 6, 12, 21, 23–24; F: 1–2, 6.
 
 e) Katonai kötelmekkel összefüggőnek csak a szolgálati baleset következtében elszenvedett torzulás vagy elváltozás ismerhető el.
 
-| 109 Az állcsontokon és a szájüregszerveken végzett műtétek utáni állapot, ezen szervek sérülései és sérüléseit követő állapot | A2 | A3 | A4 | A5 | A6 | BNO |
+| 109 Az állcsontokon és a szájüregszerveken végzett műtétek utáni állapot, ezen szervek sérülései és sérüléseit követő állapot | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | mérsékelt torzulás vagy functiozavar | E | E | E | E | KLGS | K | E | KLGS | K09–K14 |
+| 1. | mérsékelt torzulás vagy functiozavar | E | E | E | E | KLGS | K | E | KLGS | K | K09–K14 |
 
-| 2. | súlyos torzulás vagy functiozavar | E | E | E | E | E | E | E | E |
+| 2. | súlyos torzulás vagy functiozavar | E | E | E | E | E | E | E | E | KLGS |
 
 a) Itt minősítjük az állcsontok és a szájüreg sérüléseinek, betegségeinek következményeit, valamint az e szerveken végzett műtétek utáni állapotokat.
 
@@ -2352,15 +2352,15 @@ d) K: 2; F: 1.
 
 e) A katonai kötelmekkel való összefüggés sérüléses esetekben lehetséges, megállapítása az állományilletékes parancsnok feladata.
 
-| 110 A nyelőcső betegségei és műtét utáni állapota | A2 | A3 | A4 | A5 | A6 | BNO |
+| 110 A nyelőcső betegségei és műtét utáni állapota | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | mérsékelt nyelési zavarral | E | E | E | E | E | A | E | KLGS | K20–K24 |
+| 1. | mérsékelt nyelési zavarral | E | E | E | E | E | A | E | KLGS | A | K20–K24 |
 
-| 2. | kp. súlyos nyelési zavarral | E | E | E | E | E | KLGS | E | E |
+| 2. | kp. súlyos nyelési zavarral | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 3. | súlyos nyelési zavarral | E | E | E | E | E | E | E | E |
+| 3. | súlyos nyelési zavarral | E | E | E | E | E | E | E | E | KLGS |
 
 a) A nyelőcső betegségek közül e szakasz alapján minősítendők: achalasia cardiae, cardiospasmus, oesophagitis, ulcus oesophagei, obstructio oesophagei, perforatio oesophagei, diverticulum oesophagei acquisita, Mallory-Weiss-féle syndroma.
 
@@ -2376,19 +2376,19 @@ d) K: 4, 12; F: 1.
 
 e) A katonai kötelmekkel való összefüggés szóbajöhet a nyelőcső baleseti eredetű károsodása esetén. Az összefüggés megállapítása az állományilletékes parancsnok feladata.
 
-| 111 Gyomor- és nyombélfekély | A2 | A3 | A4 | A5 | A6 | BNO |
+| 111 Gyomor- és nyombélfekély | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | inactiv, recidiva említése nélkül | E | E | E | A | KLGS | A | E | A | K25–K28 |
+| 1. | inactiv, recidiva említése nélkül | E | E | E | A | KLGS | A | E | A | A | K25–K28 |
 
-| 2. | activ, recidiva említése nélkül | E | E | E | I | KLGS | K | E | KLGS |
+| 2. | activ, recidiva említése nélkül | E | E | E | I | KLGS | K | E | KLGS | K |
 
-| 3. | ritka recidiva esetén | E | E | E | KLGS | KLGS | K | E | KLGS |
+| 3. | ritka recidiva esetén | E | E | E | KLGS | KLGS | K | E | KLGS | K |
 
-| 4. | gyakori recidiva esetén | E | E | E | E | E | KLGS | E | E |
+| 4. | gyakori recidiva esetén | E | E | E | E | E | KLGS | E | E | KLGS |
 
-| 5. | gyakori recidiva ismételten jelentkező vérzéssel, ha nem végezhető el a műtét | E | E | E | E | E | E | E | E |
+| 5. | gyakori recidiva ismételten jelentkező vérzéssel, ha nem végezhető el a műtét | E | E | E | E | E | E | E | E | KLGS |
 
 a) Ulcus seu erosio pylori, ventriculi, duodeni, gastrointestinale, ulcus pepticum.
 
@@ -2404,15 +2404,15 @@ d) K: 4, 12; F: 1.
 
 e) Katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 112 Idült gyomor- és nyombélhurut | A2 | A3 | A4 | A5 | A6 | BNO |
+| 112 Idült gyomor- és nyombélhurut | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe formák | E | E | E | E | KLGS | A | E | A | K29–K31 |
+| 1. | enyhe formák | E | E | E | E | KLGS | A | E | A | A | K29–K31 |
 
-| 2. | kp. súlyos formák | E | E | E | E | E | KLGS | E | KLGS |
+| 2. | kp. súlyos formák | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
-| 3. | súlyos formák | E | E | E | E | E | E | E | E |
+| 3. | súlyos formák | E | E | E | E | E | E | E | E | KLGS |
 
 a) Gastritis chronica (atrophica), gastritis hypertrophica, duodenitis, gastroduodenitis.
 
@@ -2424,15 +2424,15 @@ d) K: 4; F: 0.
 
 e) Katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 113 Hasfali és hasüregi sérv | A2 | A3 | A4 | A5 | A6 | BNO |
+| 113 Hasfali és hasüregi sérv | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | mérsékelt kiterjedésű, kizáródásra nem hajlamos | E | E | KLGS | KLGS | E | A | E | A | K40–K46 |
+| 1. | mérsékelt kiterjedésű, kizáródásra nem hajlamos | E | E | KLGS | KLGS | E | A | E | A | A | K40–K46 |
 
-| 2. | jelentős kiterjedésű, ismételten kiújuló és kizáródásra hajlamos | E | E | E | E | E | KLGS | E | KLGS |
+| 2. | jelentős kiterjedésű, ismételten kiújuló és kizáródásra hajlamos | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
-| 3. | jelentős kiterjedésű, ismételten kiújuló, több alkalommal műtött | E | E | E | E | E | E | E | E |
+| 3. | jelentős kiterjedésű, ismételten kiújuló, több alkalommal műtött | E | E | E | E | E | E | E | E | KLGS |
 
 a) Hernia inguinalis, hernia scrotalis, hernia femoralis, hernia umbilicalis, hernia diaphragmatica.
 
@@ -2444,17 +2444,17 @@ d) K: 1, 6, 8; F: 0.
 
 e) Egyes esetekben, mint pl. a szolgálati feladat teljesítése közben egy nagy súly megemelése hatására kialakuló sérv esetén felmerülhet a katonai kötelmekkel való összefüggés lehetősége.
 
-| 114 Nem fertőző eredetű idült vékony- és vastagbélhurut | A2 | A3 | A4 | A5 | A6 | BNO |
+| 114 Nem fertőző eredetű idült vékony- és vastagbélhurut | A2 | A3 | A4 | A5 | A6 | A7 | BNO |
 
 | a | b | c | d |
 
-| 1. | enyhe formák | E | E | E | KLGS | KLGS | A | E | A | K50–K52 |
+| 1. | enyhe formák | E | E | E | KLGS | KLGS | A | E | A | A | K50–K52 |
 
-| 2. | kp. súlyos formák | E | E | E | E | E | K | E | KLGS |
+| 2. | kp. súlyos formák | E | E | E | E | E | K | E | KLGS | K |
 
-| 3. | súlyos formák, valamint Crohn-betegség és colitis ulcerosa enyhe esetei | E | E | E | E | E | KLGS | E | KLGS |
+| 3. | súlyos formák, valamint Crohn-betegség és colitis ulcerosa enyhe esetei | E | E | E | E | E | KLGS | E | KLGS | KLGS |
 
-| 4. | Crohn-betegség és colitis ulcerosa súlyos esetei | E | E | E | E | E | E | E | E |
+| 4. | Crohn-betegség és colitis ulcerosa súlyos esetei | E | E | E | E | E | E | E | E | KLGS |
 
 a) Enteritis regionalis, proctocolitis idiopathica ulcerosa, enterocolitis chronica, egyéb nem fertőző eredetű gyomor-, bél- és vastagbélhurut.
 
@@ -2466,255 +2466,5 @@ d) K: 4, 6, 11–12, 14–15, 16; F: 1–2, 6.
 
 e) Katonai kötelmekkel való összefüggés nem ismerhető el.
 
-| 115 Bélelzáródás műtéte utáni állapot | A2 | A3 | A4 | A5 | A6 | BNO |
-
-| a | b | c | d |
-
-| 1. | functiokárosodás nélkül | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | K56 |
-
-| 2. | mérsékelt functiozavarral | E | E | E | E | E | K | E | KLGS |
-
-| 3. | súlyos functiozavarral | E | E | E | E | E | E | E | E |
-
-a) Invaginatio intestini seu coli, ileus intestini paralyticus enterolithiasis, adhaesiones intestinalis cum obstructione, volvulus.
-
-b) Műtéti leírás, fizikális lelet, rtg.-passage vizsgálatok.
-
-c) A külföldi szolgálatra való alkalmasság megállapításánál a betegség súlyosságától függetlenül csak „E” minősítés hozható. Hivatásos állományba, szerződéses állományba vétel esetén a minősítés „E”. Csecsemő és kisgyermekkorban elvégzett eredményes műtéti beavatkozás után, kiújulást nem mutatott esetekben, tünet- és panaszmentesség esetén felnőtteknél a 115 1. pont szerinti minősítés végig „A” lehet.
-
-d) K: 2, 4, 6, 11–12, 14; F: 1–2.
-
-e) A katonai kötelmekkel való összefüggés nem ismerhető el.
-
-| 116 Gyomorműtét utáni állapot | A2 | A3 | A4 | A5 | A6 | BNO |
-
-| a | b | c | d |
-
-| 1. | functiozavar nélkül | E | KLGS | KLGS | KLGS | KLGS | A | E | A | K91.1 |
-
-| 2. | mérsékelt functiozavarral | E | E | E | E | KLGS | K | E | KLGS |
-
-| 3. | súlyos functiozavarral | E | E | E | E | E | E | E | E |
-
-a) Dumping-syndroma, postvagotomiás-syndroma, postgastrectomiás-syndroma, gastrointestinális műtétet követő hányás.
-
-b) Műtéti leírás, vércukor, Se Na, K, EKG, passage vizsgálatok.
-
-c) Hivatásos és szerződéses állományba vételkor 116.1/A3 a minősítés „E”.
-
-d) –
-
-e) A katonai kötelmekkel való összefüggés nem ismerhető el.
-
-| 117 Egyéb hasüregi szervek műtéte utáni állapot | A2 | A3 | A4 | A5 | A6 | BNO |
-
-| a | b | c | d |
-
-| 1. | működési zavar nélkül | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | K63, K90–K93 |
-
-| 2. | mérsékelt működési zavarral | E | E | E | KLGS | KLGS | A | E | A |
-
-| 3. | kp. súlyos működési zavarral | E | E | E | E | E | E | E | E |
-
-| 4. | súlyos működési zavarral | E | E | E | E | E | E | E | E |
-
-a) Itt minősítendők az enterocolitis acuta ischaemica, gangraena intestini, abscessus abdomini, abscessus intestini, adhaesiones intestinalis stb. miatt végzett műtétek utáni állapotok. A hasi sérülések utáni állapotok a 194. szakasz szerint minősítendők.
-
-b) Műtéti leírás, fizikális lelet, rtg.-passage vizsgálatok.
-
-c) A 117.1. alszakasz szerint minősülnek a lényegében maradandó károsodás nélkül gyógyuló vagy minimális működési zavarral járó műtét utáni állapotok. Hivatásos és szerződéses állománybavételkor a minősítés 117.2/A3 „E”.
-
-117.3. alszakasz szerint minősülnek a kiterjedt bélresectio utáni állapotok, a recidivára, progressiora hajlamos elváltozások.
-
-d) K: 2–4, 6, 11–14, 16–19, 21; F: 1–4, 6.
-
-e) A katonai kötelmekkel való összefüggés nem ismerhető el.
-
-| 118 A végbélnyílás repedése, sipolya és tályogja (műtét után) | A2 | A3 | A4 | A5 | A6 | BNO |
-
-| a | b | c | d |
-
-| 1. | recidiva nélkül | KLGS | KLGS | KLGS | A | KLGS | A | E | A | K60–K61 |
-
-| 2. | ritka recidiva esetén | E | E | KLGS | KLGS | KLGS | K | E | KLGS |
-
-| 3. | gyakori recidiva esetén | E | E | E | E | E | E | E | E |
-
-a) Fissura ani, fistula analis, abscessus ani, sacrococcydeális dermoid, sinus pilonidalis.
-
-b) Műtéti leírás, rectális digitális vizsgálat, rectoscopia, irrigoscopia, fistulographia.
-
-c) A szerződéses állományba, állományba vételkor a minősítés „E”. A 118 2. pont A2b rovat szerinti minősítés esetén két évnél nem gyakoribb korábbi recidíva eredményes kezelése esetén, panasz és tünetmentes állapotban KLGS.
-
-d) K: 4, 11–14, 16–19, 21; F: 1–4, 6.
-
-e) A katonai kötelmekkel való összefüggés nem ismerhető el.
-
-| 119 Hashártyagyulladás utáni állapot | A2 | A3 | A4 | A5 | A6 | BNO |
-
-| a | b | c | d |
-
-| 1. | működési zavar nélkül | KLGS | KLGS | KLGS | KLGS | KLGS | A | KLGS | A | K65 |
-
-| 2. | mérsékelt működési zavarral | E | E | E | KLGS | KLGS | KLGS | E | KLGS |
-
-| 3. | kp. súlyos működési zavarral | E | E | E | E | E | KLGS | E | E |
-
-| 4. | súlyos működési zavarral | E | E | E | E | E | E | E | E |
-
-a) Peritonitis acuta (generalisata, pelvica, subphrenica, suppurativa), peritonitis chronica proliferativa. Peritonitis tuberculosa itt is, de a 004. szakasz szerint is minősíthető.
-
-b) A passage-zavarok a radiologiai lelettel összhangban a klinikum alapján értékelhetők. Rutin laboratóriumi vizsgálatok, ascites-folyadék vizsgálata, szükség szerint laparoscopia.
-
-c) A 119.1. alszakasz szerint minősülnek a lényegében maradandó károsodás nélkül gyógyult, vagy minimális működési zavarral járó műtét utáni állapotok. A 119.2. alszakasz szerint minősülnek a műtéti vagy tartós konzervatív kezelést igénylő esetek. Hivatásos és szerződéses állományba vétel esetén a 119.2/A3 „E”.
-
-d) K: 2–4, 6, 11–12, 14, 21; F: 1–2.
-
-e) A katonai kötelmekkel való összefüggés nem ismerhető el.
-
-| 120 A végbél előesése | A2 | A3 | A4 | A5 | A6 | BNO |
-
-| a | b | c | d |
-
-| 1. | erős feszítésnél | E | E | E | KLGS | KLGS | K | E | KLGS | K62.2. |
-
-| 2. | kisfokú feszítésnél | E | E | E | E | E | KLGS | E | E |
-
-a) Prolapsus canalis analis, prolapsus mucosae recti.
-
-b) Fizikális lelet, rectalis digitális vizsgálat, rectoscopia, esetleg irrigoscopia.
-
-c) Műtét után a kialakult állapottól függően a minősítés változhat. Hivatásos és szerződéses állománybavételkor 120.1/A3 „E”.
-
-d) K: 3–4, 6, 11–12, 14, 16; F: 1–2, 6.
-
-e) A katonai kötelmekkel való összefüggés nem ismerhető el.
-
-| 121 A végbél szűkülete | A2 | A3 | A4 | A5 | A6 | BNO |
-
-| a | b | c | d |
-
-| 1. | mérsékelt működési zavarral | E | E | A | A | KLGS | A | E | A | K62.4 |
-
-| 2. | súlyos működési zavarral | E | E | E | E | E | KLGS | E | E |
-
-a) Strictura (sphincter) ani.
-
-b) Fizikális lelet, rectalis digitalis vizsgálat, rectoscopia, esetleg irrigoscopia.
-
-c) Hivatásos és szerződéses állományba vétel esetén a 121.1/A3 „E”.
-
-d) –
-
-e) A katonai kötelmekkel való összefüggés nem ismerhető el.
-
-| 122 A máj betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
-
-| a | b | c | d |
-
-| 1. | idült máj- és epeútgyulladás enyhe formái | E | E | E | KLGS | KLGS | K | E | KLGS | K70–K77 |
-
-| 2. | idült máj- és epeútgyulladás súlyos formái és compensalt májzsugorodás | E | E | E | E | E | KLGS | E | E |
-
-| 3. | decompensalt májzsugorodás | E | E | E | E | E | E | E | E |
-
-a) Degeneratio hepatis lipomatosa alcoholica, hepatitis acuta alcoholica, cirrhosis hepatis alcoholica, hepatitis chronica, cirrhosis hepatis, atrophia hepatis flava, abscessus hepatis, portalis hypertensio, hepatorenalis syndroma, májinfarctus, hepatosis, cholangitis.
-
-b) A rutin laboratóriumi vizsgálatokon kívül SGOT, SGPT, gamma GT, ALP, Se összfehérje, Elfo, Latex, vírus serológia, a nyelőcső kontrasztanyagos vizsgálata, hasi (máj és epe) UH, sz. sz. májbiopsia.
-
-c) Szövettanilag igazolt zsírmáj esetében hosszabb egészségügyi szabadság, majd ismételt kórházi felvétel és megismételt vizsgálatok szükségesek, ezek eredményei alapján kell minősíteni. Az idült májgyulladás súlyos formáinak, az actív ún. agresszív májgyulladásnak igazolására – és gyógykezelésének kivitelezésére – májbiopsiás vizsgálat szükséges. Ilyenkor „E” minősítést kell alkalmazni.
-
-Ht. állományúak részére – compensalt állapotban – „K” a minősítés, 50 éven felül pedig egyéni elbírálás szükséges.
-
-Az idült kötőszövetes májgyulladás decompensalt állapotát a típusos klinikai kép és a kóros laboratóriumi, rtg., biopsiás vizsgálati eredmények igazolják. Ebbe a csoportba soroljuk a nyelőcsővisszér-tágulással, ill. vérzéssel járó májcirrhosisokat is. Hivatásos és szerződéses állományba vételkor a 122.1/A3 „E”.
-
-d) K: 4, 11–12, 17, 21; F: 1–4.
-
-e) Katonai kötelmekkel való összefüggés nem ismerhető el.
-
-| 123 Az epehólyag betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
-
-| a | b | c | d |
-
-| 1. | dyskinesia cholecystae | KLGS | KLGS | KLGS | KLGS | A | A | A | A | K80–K82 |
-
-| 2. | epekő vagy epehólyag-gyulladás okozta ritka rohamok, ill. tünetszegény formák gyógyszeresen kezelt esetei | E | E | E | KLGS | KLGS | K | E | KLGS |
-
-| 3. | epekő vagy epehólyag-gyulladás okozta gyakori rohamok, ill. sok tünettel járó formák gyógyszeresen kezelt esetei | E | E | E | E | E | E | E | E |
-
-a) Cholelithiasis, cholecystitis acuta calculosa, cholecystitis acuta et chronica, (occlusio, stenosis, strictura) ductus seu vesicae felleae, hydrops vesicae felleae, dyskinesia biliaris.
-
-b) A rutin laboratóriumi vizsgálatokon kívül májfunctio, SGOT, SGPT, ALP, szondával nyert duodenum nedv üledék vizsgálata, protozoon vizsgálata, bacteriológiai tenyésztése, az epeutak és a máj ultrahangos vizsgálata, szükség esetén intravénás epehólyag-epeút rtg. vizsgálat és gyomor rtg.
-
-c) Dyskinesia esetén, epehólyag-betegségre utaló mérsékelt panaszok vannak, kimutatható szervi betegség nélkül. Itt a minősítés 123.1. alszakasz szerint „A”, illetve 123.2/A2a–d rovatban „KLGS”. Igazolt epekövesség esetén, ha annak javallatai megvannak, a műtétet el kell végeztetni. A ht. állomány minősítése „K”. Az epekőműtét utáni állapotot a 124. szakasz szerint minősítjük. Az epehólyag gyulladásos betegségei önmagukban általában nem képezik minősítés tárgyát. A gyulladás alatt gyógykezelés, utána eü. szolgálatmentesség szükséges. A minősítés tárgyát az epehólyag-gyulladást kiváltó vagy fenntartó betegség, ill. annak következményei képezik. Hivatásos és szerződéses állományba vételkor a 123.2/A3 „E”.
-
-d) K: 4; F: 0.
-
-e) Katonai kötelmekkel való összefüggés nem ismerhető el.
-
-| 124 Epehólyag-eltávolítás utáni állapot | A2 | A3 | A4 | A5 | A6 | BNO |
-
-| a | b | c | d |
-
-| 1. | tünetmentesség esetén | A | A | A | A | KLGS | A | E | A | K83 |
-
-| 2. | mérsékelt tünetekkel | KLGS | KLGS | KLGS | KLGS | KLGS | K | E | KLGS |
-
-| 3. | sok tünettel | E | E | E | E | E | KLGS | E | E |
-
-a) Lásd fent.
-
-b) A rutin laboratóriumi vizsgálatokon kívül Se bilirubin, SGOT, SGPT, ALP, próbareggeli, szondával vett epeüledék mikroszkópos és microbiológiai vizsgálata, az epeutak ultrahangos vizsgálata, ezen vizsgálatok negativitása, ill. elégtelensége esetén az epeutak izotópos vizsgálata (HIDA), esetleg ERCP vizsgálat is szóba jöhet.
-
-c) Az epehólyag-eltávolítás utáni állapot felsőfokú posztgraduális katonai tanintézeti tanulmányok folytatására való alkalmasságot a választott szak figyelembevételével kell elbírálni. Egyéb kategóriában panasz- és tünetmentesség esetén „A” minősítés adható. Hivatásos és szerződéses állományba vétel esetén a 124.1– 2/A3 „E”. Katonai oktatási intézménybe jelentkezők esetében a felvételkor a minősítés 124.1–2/A2a „E”.
-
-d) K: 4; F: 0.
-
-e) Katonai kötelmekkel való összefüggés nem ismerhető el.
-
-| 125 A hasnyálmirigy betegségei | A2 | A3 | A4 | A5 | A6 | BNO |
-
-| a | b | c | d |
-
-| 1. | enyhe formák | E | E | E | KLGS | KLGS | K | E | KLGS | K85–K86 |
-
-| 2. | súlyos formák | E | E | E | E | E | E | E | E |
-
-a) Abscessus pancreatis, pancreatitis acuta et chronica, a hasnyálmirigy cystája és pseudocystája, a hasnyálmirigy egyéb betegségei.
-
-b) A rutin laboratóriumi vizsgálatokon kívül vércukor (terheléses vércukor) vizsgálat, hasnyálmirigyenzim-vizsgálatok, széklet emésztettség, ételpróba vizsgálat (Hund-test stb.), ultrahangvizsgálat, nehezen tisztázható esetekben ERCP, a hasi erek érfestése és CT is szóba jöhet.
-
-c) A hasnyálmirigy-gyulladás enyhe formájában a megfelelő panaszok mellett enyhébb fokú hasnyálmirigy-károsodás jelei mutathatók ki. A gyanút megerősíti, ha a kórelőzményben kórházi zárójelentéssel is igazolt heveny hasnyálmirigy-gyulladás is szerepel. Súlyos formának minősül a nagyfokú típusos panaszokkal, klinikai képpel és a hasnyálmirigy működési zavaraival vagy anatómiai elváltozásával járó kórkép. Ht. állományúaknál enyhe formák esetében „K”. Ismétlődő esetekben, vagy a hasnyálmirigy súlyosabb fokú károsodására utaló vizsgálati adatok birtokában „E” minősítés adható. Bármilyen hasnyálmirigy-betegség miatt végzett részleges vagy teljes hasnyálmirigy-eltávolítás utáni állapot minősítése „E”. Hivatásos és szerződéses állományba vétel esetén a 125.1/A3 „E”.
-
-d) K: 4, 12; F: 1.
-
-e) Katonai kötelmekkel való összefüggés csak a hasi sérülés után kialakult acut pancreatitis és pancreas-necrosis esetében ismerhető el, ha a sérülést szolgálati baleset okozta.
-
-A húgy- és ivari szervek betegségei (126–145)
-
-| 126 Vesegyulladás és nephrosis syndroma | A2 | A3 | A4 | A5 | A6 | BNO |
-
-| a | b | c | d |
-
-| 1. | heveny vesegyulladás utáni, következmény nélkül gyógyult állapot, két évet meghaladó megfigyelés esetén | A | A | A | A | A | A | A | A | N00–N05 |
-
-| 2. | heveny vesegyulladás utáni állapot, két éven belül | KLGS | KLGS | A | A | A | K | I | A |
-
-| 3. | defect állapottal gyógyult heveny vesegyulladás, két évet meghaladó megfigyelés esetén, valamint az idült vesegyulladás enyhe formája | E | E | KLGS | KLGS | E | K | E | E |
-
-| 4. | idült vesegyulladás kp. súlyos formája | E | E | E | E | E | KLGS | E | E |
-
-| 5. | idült vesegyulladás súlyos formája és nephrosis syndroma | E | E | E | E | E | E | E | E |
-
-a) Itt minősítendő a poststreptococcalis glomerulonephritis acuta, a nephritis chronica különböző formái, továbbá vizelet eltéréssel (haematuria, proteinuria) és a vesefunctio romlásával, illetve nephrosis syndroma klinikai képével járó egyéb betegségek. Kivétel a pyelonephritis (129. szakasz), a vesekőbetegség (131. szakasz), a vese fejlődési rendellenességei (180. szakasz).
-
-b) We, teljes vérkép és vizelet (ante oculos), Se kreatinin, UN, Se összfehérje, Elfo, koncentrálási próba, vizelet fehérje 24 órás ürítés, UH, a 3., 4. alszakasz szerint vesebiopsia elvégzése is indokolt lehet, szükség esetén megfelelő immunológiai vizsgálatok, izolált proteinuria esetén az orthostaticus albuminuria kizárása céljából, a 12 órás fekvés után, a provokált lumbalis lordosis után és a 2 órás fizikai terhelés (járkálás) után ürített vizeletek összehasonlító vizsgálata, látóterenként 4–5 vvt., ill. fvs. kisebb mértékű alakos elem esetén Addis-vizsgálat szükséges. A nephrosis syndroma kórisméjének kimondásához, az igazolható, nem arthostaticus eredetű és megfelelő mértékű albuminuria fennállása szükséges.
-
-c) Defect állapotnak, illetve idült vesegyulladás enyhe formájának tekinthető kisfokú microscopos haematuria (10–15 vvt/látótér), illetve 0,5–1,0 g közötti napi fehérjeürítés, valamint a glomeruláris vesefunctio beszűkülése (Se kreatinin 120 μmol/l), illetve a koncentrálóképesség csökkenésével járó tünetek. Idült vesegyulladás kp. súlyos formájának tekinthető, ha a beteg vesefunctioja az előző pontban foglaltnál fokozottabb mértékben beszűkült (Se kreatinin 200 μmol/l), illetve egyidejűleg jelentős mértékű proteinuria (1,0 g/24 óra) és/vagy haematuria (50 vvt/látótér) észlelhető rendszeresen. Idült vesegyulladás súlyos formájának tekinthető, ha a beteg vesefunctioja erősen beszűkült (Se kreatinin 400 μmol/l), ha a betegnek jelentős proteinuriája (2,5 g/24 óra és/vagy haematuriája100 vvt/látótér) van rendszeresen. Hasonló az elbírálás nephrosis syndroma klinikai képének fennállása esetén. Hivatásos és szerződéses állományba vételkor a 126.2/A3 „I”. Katonai oktatási intézménybe jelentkezők estében a felvételkor 126.2/A2a „I”.
-
-d) K: 4, 6, 11–15, 17–18, 21; F: 1–4, 6.
-
-e) A katonai kötelmekkel való összefüggés nem ismerhető el. Kivételt képezhet – baleset körülményeitől függően – a toxicus vesekárosodás.
-
-[^91]: Az 50. §-t a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 34. pontja hatályon kívül helyezte.
-[^92]: Az 1. melléklet a 13/2009. (VIII. 26.) HM rendelet 35. §-a és 42. § (2) bekezdésének d) pontja szerint módosított szöveg. [E módosító rendelet 35. § (87) bekezdése 107/A. táblázatot iktatott be az 1. számú mellékletbe, azonban annak számozása 107. táblázatként szerepel a módosító rendeletben.]
+[^159]: Az 50. §-t a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 34. pontja hatályon kívül helyezte.
+[^160]: Az 1. melléklet a 13/2009. (VIII. 26.) HM rendelet 35. §-a és 42. § (2) bekezdésének d) pontja, a 16/2012. (VIII. 2.) HM rendelet 45. § (1) bekezdése szerint módosított szöveg. [A 13/2009. (VIII. 26.) HM rendelet 35. § (87) bekezdése 107/A. táblázatot iktatott be az 1. számú mellékletbe, azonban annak számozása 107. táblázatként szerepel a módosító rendeletben.]

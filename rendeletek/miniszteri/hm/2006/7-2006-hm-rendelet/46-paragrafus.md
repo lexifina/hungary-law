@@ -4,9 +4,9 @@
 
 (3) A szolgálatteljesítési idő csökkentése legfeljebb napi 4 óra lehet.
 
-(4)[^90] Csökkentett napi szolgálatteljesítési idő engedélyezésére
+(4)[^156] Csökkentett napi szolgálatteljesítési idő engedélyezésére
 
-a) az ÁEK, illetve az MH HEK repülőorvosi vizsgálati intézet fekvőbeteg-ellátó osztályának főorvosa 60 naptári nap,
+a)[^157] az MH Honvédkórház repülőorvosi vizsgálati intézet fekvőbeteg-ellátó osztályának főorvosa 60 naptári nap,
 
 b) az Elsőfokú FÜV Bizottság 120 naptári nap,
 
@@ -20,4 +20,5 @@ időtartamban jogosult.
 
 (6) A szolgálatteljesítés alóli felmentéssel kapcsolatos rendelkezések a várható gyógyulási időtartamot naptári napban jelölik meg és ezen időpont alapján állapítható meg a szolgálatteljesítés alóli felmentés napjainak száma.
 
-[^90]: A 46. § (4) bekezdése a 13/2009. (VIII. 26.) HM rendelet 34. §-ával megállapított szöveg.
+[^156]: A 46. § (4) bekezdése a 13/2009. (VIII. 26.) HM rendelet 34. §-ával megállapított szöveg.
+[^157]: A 46. § (4) bekezdés a) pontja a 16/2012. (VIII. 2.) HM rendelet 38. § (8) bekezdése szerint módosított szöveg.
