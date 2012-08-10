@@ -6,6 +6,8 @@
 
 ## Határidő: folyamatos
 
-## 3. visszavonja az Államreform Operatív Program 2011–2013. időszakra szóló akciótervének megállapításáról, továbbá az Államreform Operatív Program és az Elektronikus Közigazgatás Operatív Program keretében egyes kiemelt projektjavaslatok akciótervi nevesítéséről szóló 1136/2012. (V. 3.) Korm. határozat Államreform Operatív Programot érintő határozati pontjait.
+## 3.[^2]
 
 1. melléklet az 1286/2012. (VIII. 9.) Korm. határozathoz
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
