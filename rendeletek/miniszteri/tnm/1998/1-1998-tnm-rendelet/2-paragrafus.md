@@ -1,12 +1,12 @@
-## 1. §[^1] A rendelet hatálya kiterjed az Információs Hivatal, a Nemzetbiztonsági Hivatal, a Nemzetbiztonsági Szakszolgálat (a továbbiakban együtt: Hivatal) és a Szervezett Bűnözés Elleni Koordinációs Központ (a továbbiakban: SZBKK) állományára, valamint a Hivatal és az SZBKK tevékenységét segítő személyekre.
+## 1. §[^2] A rendelet hatálya kiterjed az Információs Hivatal (a továbbiakban: Hivatal) állományára, és a Hivatal tevékenységét segítő személyekre.
 
 ## 2. § Az 1. §-ban meghatározott személyi körbe tartozók a következő elismerésekben részesülhetnek:
 
-a)[^2]
+a)[^3]
 
-b)[^3] Nemzetbiztonságáért Díj,
+b)[^4] Nemzetbiztonságáért Díj,
 
-c)[^4] Nemzetbiztonságáért Érem,
+c)[^5] Nemzetbiztonságáért Érem,
 
 d) Nemzetbiztonsági Szolgálatért Jel,
 
@@ -28,7 +28,7 @@ l) soron kívüli előléptetés,
 
 m) hazai vagy külföldi jutalomüdülés.
 
-[^1]: Az 1. § az 1/2009. (XI. 18.) PTNM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § a) pontját az 1/2009. (XI. 18.) PTNM rendelet 9. § (1) bekezdése hatályon kívül helyezte.
-[^3]: A 2. § b) pontja a 2/2000. (II. 23.) TNM rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § c) pontja a 2/2000. (II. 23.) TNM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § a 37/2012. (VIII. 2.) BM rendelet 60. §-ával megállapított szöveg.
+[^3]: A 2. § a) pontját az 1/2009. (XI. 18.) PTNM rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^4]: A 2. § b) pontja a 2/2000. (II. 23.) TNM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § c) pontja a 2/2000. (II. 23.) TNM rendelet 1. §-ával megállapított szöveg.

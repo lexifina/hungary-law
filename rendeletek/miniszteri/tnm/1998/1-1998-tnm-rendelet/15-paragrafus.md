@@ -1,8 +1,8 @@
-## 14. §[^18] A Nemzetbiztonsági Szolgálatért Jel odaítélése szempontjából a szolgálati időbe az 1990. február 28-át követően a Hivatalnál hivatásos szolgálati jogviszonyban eltöltött időtartam számítható be. A szolgálati érdemekre tekintettel a miniszter engedélyezheti ezen időpont előtt más fegyveres szerv hivatásos vagy szerződéses állományában eltöltött – maximum öt év – szolgálati idő beszámítását is.
+## 14. §[^19] A Nemzetbiztonsági Szolgálatért Jel odaítélése szempontjából a szolgálati időbe az 1990. február 28-át követően a Hivatalnál hivatásos szolgálati jogviszonyban eltöltött időtartam számítható be. A szolgálati érdemekre tekintettel a miniszter engedélyezheti ezen időpont előtt más fegyveres szerv hivatásos vagy szerződéses állományában eltöltött – maximum öt év – szolgálati idő beszámítását is.
 
 15. § E rendelet a kihirdetését követő 8. napon lép hatályba, ezzel egyidejűleg hatályát veszti az elismerések adományozásának rendjéről szóló 3/1991. (X. 8.) TNM rendelet.
 
-Melléklet az 1/1998. (I. 23.) TNM rendelethez[^19]
+Melléklet az 1/1998. (I. 23.) TNM rendelethez[^20]
 
 A Nemzet Biztonságáért Díj
 
@@ -40,5 +40,5 @@ IV. és a további fokozatok, 35, 40 stb. év szolgálat után:
 
 Leírása megfelel a III. fokozat leírásának, azzal a különbséggel, hogy a lapon 35-ös, 40-es stb. szám található.
 
-[^18]: A 14. § a 2/2000. (II. 23.) TNM rendelet 4. §-ával megállapított szöveg.
-[^19]: A melléklet a 2/2003. (II. 28.) MeHVM rendelet 1. §-ával megállapított szöveg.
+[^19]: A 14. § a 2/2000. (II. 23.) TNM rendelet 4. §-ával megállapított szöveg.
+[^20]: A melléklet a 2/2003. (II. 28.) MeHVM rendelet 1. §-ával megállapított szöveg.
