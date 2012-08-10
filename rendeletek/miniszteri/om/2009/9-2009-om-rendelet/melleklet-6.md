@@ -1,17 +1,3 @@
-## A Szent Flórián Érdemjel kitüntető cím
+6. melléklet a 9/2009. (II. 27.) ÖM rendelethez[^26]
 
-## leírása és viselési rendje
-
-## 1.[^6] A Szent Flórián Érdemjel élére állított, enyhén befelé ívelő szárú, négyszög alakú, rézötvözetből készült, átmérője 42 mm, vastagsága 3 mm, bordó színűre zománcozott, melynek közepén Magyarország 18 mm nagyságú zománcozott címere helyezkedik el. A címert kifelé keskenyedő sugarak díszítik.
-
-## Az érdemjel felett a szalagtartó karikán 17x14 mm oldalú díszítés van, melyen babérkoszorúval körülfont tűzoltósisak és -fejsze, közepén a polgári védelem nemzetközi jele egy körben elhelyezkedő egyenlő oldalú háromszög található.
-
-## A hátlapon a széleket követve az „Önkormányzati Minisztérium”, középen két sorban a „Szent Flórián Érdemjel” felirat van.
-
-## Az érdemjel szalagja egyenruhán, a szalagtartó karikán elhelyezett díszítés polgári ruhán a kitüntetés kitűző változata. A kitüntetés eredeti formában a bal mellen viselendő.
-
-## 2. Az érdemjel szalagja 40 mm széles, sötétsárga selyemszalag, melynek szélén 4-4 mm zöld, közepén 2 mm szélességű piros csík helyezkedik el. A színeket 1,5 mm széles fehér csíkok választják el egymástól.
-
-6. melléklet a 9/2009. (II. 27.) ÖM rendelethez
-
-[^6]: Az 5. melléklet 1. pontja a 68/2011. (XII. 30.) BM rendelet 31. § a) pontja szerint módosított szöveg.
+[^26]: A 6. mellékletet a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.

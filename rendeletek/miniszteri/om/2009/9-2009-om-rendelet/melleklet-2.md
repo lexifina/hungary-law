@@ -2,12 +2,17 @@
 
 ## A Miniszteri Díj emlékplakett kör alakú, bronzból készült, átmérője 110 mm, vastagsága 12 mm. A plakett egyik oldalát a címer díszíti.
 
-## 1. A Közigazgatásért Miniszteri Díj plakettjének hátoldalára a díj megnevezése, a díjazott neve és a díjazás időpontja kerül rávésésre.
+## 1.[^19]
 
 ## 2. A Közszolgálatért Miniszteri Díj plakettjének hátoldalára a díj megnevezése, a díjazott neve és a díjazás időpontja, továbbá körkörösen »AZ IGAZSÁG MINDIG A LEGERŐSEBB ÉRV« felirat kerül rávésésre.
 
-## 3. Az Év Tűzoltója Miniszteri Díj plakettjének hátoldalára a díj megnevezése, a díjazott neve, rendfokozata és a díjazás időpontja kerül rávésésre.
+## 3.[^20]
 
-## 4. A Polgári Védelemért Miniszteri Díj plakettjének hátoldalára a díj megnevezése, a díjazott neve, rendfokozata és a díjazás időpontja kerül rávésésre.
+## 4.[^21]
 
-2. melléklet a 9/2009. (II. 27.) ÖM rendelethez
+2. melléklet a 9/2009. (II. 27.) ÖM rendelethez[^22]
+
+[^19]: Az 1. melléklet 1. pontját a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^20]: Az 1. melléklet 3. pontját a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^21]: Az 1. melléklet 4. pontját a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^22]: A 2. mellékletet a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.

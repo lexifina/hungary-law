@@ -4,17 +4,17 @@
 
 1. § (1) A rendelet hatálya kiterjed
 
-a) az Önkormányzati Minisztérium (a továbbiakban: minisztérium) hivatali szervezeteivel (a továbbiakban: hivatali egységek), valamint az önkormányzati miniszter (a továbbiakban: miniszter) irányítása alá tartozó önálló szervezetekkel (a továbbiakban: önálló szervek) foglalkoztatási jogviszonyban állók;
+a)[^1]
 
 b) a Kormány általános hatáskörű területi államigazgatási szerveivel (a továbbiakban: területi államigazgatási szerv) foglalkoztatási jogviszonyban állók;
 
-c) a hivatásos önkormányzati tűzoltóságnál szolgálatot teljesítők [az a)–c) pont a továbbiakban együtt: foglalkoztatottak];
+c)[^2]
 
-d) a köztestület és létesítményi tűzoltóságok állományában dolgozók, valamint az önkéntes tűzoltó egyesületek tagjai;
+d)[^3]
 
 e) a miniszter feladatkörébe utalt
 
-ea) helyi önkormányzatokkal,
+ea)[^4]
 
 eb) lakásüggyel,
 
@@ -22,7 +22,7 @@ ec) sporttal,
 
 ed) turizmussal,
 
-ee) katasztrófavédelemmel
+ee)[^5]
 
 ## kapcsolatos feladatok ellátása során példamutató, kimagasló tevékenységet végző, illetve kiemelkedő teljesítményt nyújtó, vagy eredményeket elérő természetes személyek, jogi személyek és jogi személyiséggel nem rendelkező szervezetek;
 
@@ -30,6 +30,14 @@ f) a minisztériumi szervek munkáját támogató magyar és külföldi személy
 
 ## tevékenységének elismerésére.
 
-(2) E rendelet szabályait kell megfelelően alkalmazni a helyi önkormányzatok választott tisztségviselőinek és képviselőinek, továbbá a helyi önkormányzatok szerveivel és intézményeivel foglalkoztatási jogviszonyban állók kitüntetésre előterjesztésére és miniszteri elismerésére is.
+(2)[^6]
 
-(3) E rendelet szabályait kell alkalmazni a minisztérium szerveitől és a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2006. évi LV. törvény 2. §-ának aa) alpontja alapján megosztott feladatok szerint korábbi belügyi feladatot ellátó szervektől nyugállományba helyezettek elismerésének rendjére is.
+(3)[^7]
+
+[^1]: Az 1. § (1) bekezdés a) pontját a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (1) bekezdés c) pontját a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (1) bekezdés d) pontját a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^4]: Az 1. § (1) bekezdés e) pont ea) alpontját a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (1) bekezdés e) pont ee) alpontját a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^6]: Az 1. § (2) bekezdését a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^7]: Az 1. § (3) bekezdését a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
