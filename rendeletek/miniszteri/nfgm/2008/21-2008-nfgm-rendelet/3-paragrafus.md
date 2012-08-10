@@ -10,7 +10,7 @@
 
 (6) A 2. § (4) bekezdésében meghatározott díj adományozására vonatkozó javaslatokat a Pro Régió-Díj Bizottság rangsorolja. A Pro Régió-Díj Bizottság elnöke: a minisztérium területfejlesztésért és területrendezésért felelős szakállamtitkára; tagjai az elnök által a területfejlesztés és területrendezés elismert szaktekintélyei közül felkért további 4–10 személy.
 
-(7) A 2. § (5) bekezdésében meghatározott bármely díj adományozására vonatkozó javaslatokat az Építészeti és Építésügyi Díjak Bizottság rangsorolja. Az Építészeti és Építésügyi Díjak Bizottság elnöke: a minisztérium építészeti ügyekért felelős szakállamtitkára, illetve megbízása alapján az országos főépítész; 4–8 további tagját a bizottság elnöke kéri fel az egyes díjakhoz kapcsolódóan az elismert építészek, építésügyi és településrendezési szakemberek közül.
+(7)[^2]
 
 (8) A 2. § (6) bekezdésében meghatározott elismerésre vonatkozó javaslatokat a Kitüntetési Bizottság rangsorolja.
 
@@ -21,3 +21,5 @@
 (11) A beérkezett javaslatokat a (2)–(8) bekezdésben megjelölt bizottság rangsorolja, és előterjesztést készít a miniszternek az elismerés adományozására.
 
 (12) Az elismerés adományozásához szükséges a megadományozott előzetes hozzájárulása a 2. mellékletben meghatározott személyes adatainak a 6. § (3) bekezdésében meghatározott kezeléséhez, valamint az elismeréssel összefüggő, a 6. § (4) bekezdése szerinti személyes adatai közzétételéhez.
+
+[^2]: A 3. § (7) bekezdését a 37/2012. (VIII. 2.) BM rendelet 61. § a) pontja hatályon kívül helyezte.

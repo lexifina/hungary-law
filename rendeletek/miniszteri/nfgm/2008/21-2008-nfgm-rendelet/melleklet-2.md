@@ -14,25 +14,7 @@
 
 ## A plakett bronz öntvény, erős plasztikájú, kör alakú, 125 mm átmérőjű. Az egyik oldalán egy kis település található a tájban a fölé repülő angyallal, a másik oldalán a Kárpát-medence karéjából kiemelt Magyarország cizellált domborzati látványképe található a Pro Régió felirattal.
 
-## 5. Ybl Miklós-Díj
-
-## Az érem bronzból készül, kör alakú, 60 mm átmérőjű. Egyik oldalán Ybl Miklós dombormű arcképe található, a szélén Ybl-díj felirattal. A másik oldalán vésett felirattal az adományozott neve és az adományozás évszáma található.
-
-## 6. Pro Architectura-Díj
-
-## Az érem bronzból készül, kör alakú, 76 mm átmérőjű. Egyik oldalán építészetet szimbolizáló ábra PRO ARCHITECTURA körfelirattal, másik oldalán nyitott könyv, „Alapítva 1992” felirattal található.
-
-## 7. Kós Károly-Díj
-
-## Az érem bronzból készül, kör alakú, 135 mm átmérőjű. Egyik oldalán Kós Károly dombormű arcképe található, „Kós Károly 1883–1977” körfelirattal. A másik oldal közepén „KÓS KÁROLY” felirat, négyzet alakban „Településeink védelméért, szépítéséért érem” felirat található.
-
-## 8. Lechner Lajos-Díj
-
-## Az érem bronzból készül, kör alakú, 76 mm átmérőjű. Az egyik oldalán Lechner Lajos dombormű arcképe „Lechner Lajos 1833–1897” körfelirattal található, a másik oldalán a kitüntetett neve és az adományozás évszáma található, vésett felirattal.
-
-## 9. Palóczi Antal-Díj
-
-## Az érem bronzból készül, kör alakú, 76 mm átmérőjű. Az egyik oldalán Palóczi Antal dombormű arcképe „Palóczi Antal 1849–1927” körfelirattal található, a másik oldalán a kitüntetett neve és az adományozás évszáma található, vésett felirattal.
+## 5–9.[^7]
 
 ## 10. Miniszteri Elismerés
 
@@ -79,3 +61,5 @@ Javaslattevő neve:
 Javaslattevő munkahelye:
 
 Javaslattevő aláírása:
+
+[^7]: Az 1. melléklet 5–9. pontját a 37/2012. (VIII. 2.) BM rendelet 61. § a) pontja hatályon kívül helyezte.
