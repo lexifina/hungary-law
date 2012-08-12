@@ -1,4 +1,4 @@
-## 2. §[^1] Az 1. § (1) bekezdésében meghatározott Alapok és a hazai társfinanszírozás felhasználásának lebonyolítása és ellenőrzése során e rendelet eltérő rendelkezése hiányában az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.) rendelkezéseit kell alkalmazni.
+## 2. §[^1] Az 1. § (1) bekezdésében meghatározott Alapok és a hazai társfinanszírozás felhasználásának lebonyolítása és ellenőrzése során e rendelet eltérő rendelkezése hiányában az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) rendelkezéseit kell alkalmazni.
 
 ## Értelmező rendelkezések
 
@@ -56,7 +56,7 @@
 
 (2) Az (1) bekezdésben meg nem határozott fogalmak a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjaiból származó támogatások hazai felhasználásának intézményeiről szóló 49/2007. (III. 26.) Korm. rendeletben (a továbbiakban: Kijelölő Rendelet), az 1083/2006/EK rendeletben foglaltak szerint értelmezendők.
 
-[^1]: A 2. § a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
+[^1]: A 2. § a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése, a 216/2012. (VIII. 9.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^2]: A 3. § (1) bekezdés 2. pontja a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
 [^3]: A 3. § (1) bekezdés 4. pontja a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
 [^4]: A 3. § (1) bekezdés 20. pontja a 304/2011. (XII. 23.) Korm. rendelet 37. §-a szerint módosított szöveg.

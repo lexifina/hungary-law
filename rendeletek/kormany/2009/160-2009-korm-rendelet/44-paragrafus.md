@@ -1,15 +1,9 @@
 ## Intézkedési tervekre vonatkozó különleges szabályok
 
-44. § (1) A programok végrehajtásában vagy ellenőrzésében érintett – magyarországi illetőségű – szerv vagy hatóság vezetője köteles valamennyi vonatkozó, a programokkal összefüggő ellenőrzési jelentés alapján intézkedési tervet készíteni, amennyiben a jelentésben rá vonatkozó, intézkedést igénylő megállapítás szerepel, és felelős annak végrehajtásáért, illetve a végrehajtás nyomon követéséért.
+44. §[^95] (1) Ha a jelentésben a szervezetre vonatkozó, intézkedést igénylő megállapítás, ajánlás vagy javaslat szerepel, az Irányító Hatóság, az Igazoló Hatóság, a Közreműködő Szervezet, a Kincstár és a kedvezményezett köteles valamennyi vonatkozó, az európai uniós támogatások felhasználásával összefüggő ellenőrzési jelentés alapján a jelentés kézhezvételétől számított 20 napon belül intézkedési tervet készíteni és megküldeni az Ellenőrzési Hatóság részére. Az ellenőrzött szervezetek felelősek az intézkedési tervek végrehajtásáért, nyilvántartásáért, illetve a végrehajtás nyomon követéséért.
 
-(2) Az intézkedési terveket azok elkészültét követő 15 napon belül köteles megküldeni
+(2) Az (1) bekezdés szerinti szervezetek vezetői gondoskodnak az intézkedési terveik – különös tekintettel a szabálytalanságok kezelésével kapcsolatos intézkedések – megvalósításának folyamatos nyomon követéséről, amelyről félévente, minden év március 31-ig és szeptember 30-ig tájékoztatják az ellenőrzési hatóságot a megvalósítást alátámasztó dokumentumok megküldésével.
 
-a) a hitelesítéssel megbízott szerv a Nemzeti Hatóság, az Igazoló Hatóság és az Ellenőrzési Hatóság, illetve az ellenőri csoport magyar tagja részére;
+(3) A (2) bekezdés szerinti, szeptember 30-án esedékes tájékoztatást éves összefoglaló beszámoló formájában kell teljesíteni.
 
-b) az Irányító Hatóság az Igazoló Hatóság és az Ellenőrzési Hatóság részére;
-
-c) az Igazoló Hatóság az Ellenőrzési Hatóság részére.
-
-(3) Az (1) bekezdésben megjelölt szervezetek vezetői gondoskodnak az intézkedési terveikben megfogalmazottak megvalósításának (különös tekintettel a szabálytalanságok kezelésével kapcsolatos intézkedésekre) folyamatos nyomon követéséről, melynek helyzetéről negyedévente tájékoztatják egymást a (2) bekezdésben foglaltak szerint.
-
-(4) Minden év szeptember 30-ig éves összefoglaló beszámolót kell készíteni, amellyel kapcsolatban a (2) bekezdésben foglaltak szerint kell eljárni.
+[^95]: A 44. § a 216/2012. (VIII. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

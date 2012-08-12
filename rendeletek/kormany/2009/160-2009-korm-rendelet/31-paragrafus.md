@@ -32,13 +32,16 @@ c) az alkalmazandó intézkedésre vonatkozó javaslatot, valamint az intézked�
 
 a) annak megállapításával, hogy nem történt szabálytalanság és a szabálytalansági eljárás intézkedés nélküli megszüntetésével, vagy
 
-b)[^60] a szabálytalanság megtörténtét megállapító, és – amennyiben szükséges – további, a szabálytalansággal arányos intézkedést elrendelő döntéssel, így különösen a hazai partner részére kifizetett támogatás részleges vagy teljes visszafizetésének elrendelésével.
+b)[^77] a szabálytalanság megtörténtét megállapító, és – amennyiben szükséges – további, a szabálytalansággal arányos intézkedést elrendelő döntéssel, így különösen a hazai partner részére kifizetett támogatás részleges vagy teljes visszafizetésének elrendelésével.
 
 (6) A Kbt., illetve a közbeszerzési eljárásra vonatkozó egyéb jogszabályok megsértésének gyanúja esetén a szabálytalansági vizsgálatot lefolytató szervezet vezetője a Kbt. 327. § (2) bekezdésében foglaltakkal összhangban köteles a Közbeszerzési Döntőbizottság eljárását kezdeményezni és ezzel egyidejűleg dönt a szabálytalansági vizsgálat 32. § (5) bekezdése szerinti felfüggesztéséről.
 
-(7)[^61] Közbeszerzést érintő szabálytalanság megállapítása esetén a szabálytalansággal érintett közbeszerzési eljárásban, az ajánlatkérő nevében eljáró vagy az eljárásba bevont személyek részére a támogatásból kifizetendő díj összegére eső támogatás kifizetése megtagadható, visszakövetelhető és a támogatói döntés meghozataláig az igényelt támogatási összeg csökkenthető.
+(7)[^78] Közbeszerzést érintő szabálytalanság megállapítása esetén a szabálytalansággal érintett közbeszerzési eljárásban, az ajánlatkérő nevében eljáró vagy az eljárásba bevont személyek részére a támogatásból kifizetendő díj összegére eső támogatás kifizetése megtagadható, visszakövetelhető és a támogatói döntés meghozataláig az igényelt támogatási összeg csökkenthető.
 
 (8) A szabálytalansági vizsgálat alapján elrendelt intézkedést az Irányító Hatóság és a Nemzeti Hatóság vezetője állapítja meg, a hitelesítési tevékenységre kijelölt szervezet által lefolytatott szabálytalansági vizsgálat esetében az Irányító Hatóság és a Nemzeti Hatóság vezetőjének jóvá kell hagynia a hitelesítési tevékenységre kijelölt szervezet által elrendelt intézkedést. Amennyiben a Irányító Hatóság és a Nemzeti Hatóság vezetője az intézkedést nem hagyja jóvá, akkor a hitelesítési tevékenységre kijelölt szervezetet legfeljebb két alkalommal új eljárás lefolytatására kötelezheti, az elrendelt intézkedést megváltoztathatja vagy saját hatáskörben új eljárást folytathat le.
 
-[^60]: A 31. § (5) bekezdés b) pontja a 137/2010. (IV. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^61]: A 31. § (7) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 23. §-ával megállapított szöveg.
+(9)[^79] Ha az ellenőrzési hatóság ellenőrzési tevékenysége során szabálytalanságot és ehhez kapcsolódó szankciót állapít meg, az e rendelet szerinti jogkövetkezmények alkalmazásának szükségességéről értesíti az Irányító Hatóság és a Nemzeti Hatóság vezetőjét, aki gondoskodik azok végrehajtásáról.
+
+[^77]: A 31. § (5) bekezdés b) pontja a 137/2010. (IV. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^78]: A 31. § (7) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^79]: A 31. § (9) bekezdését a 216/2012. (VIII. 9.) Korm. rendelet 9. §-a iktatta be.

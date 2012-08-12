@@ -2,7 +2,7 @@
 
 ## A források tervezése, kifizetési előrejelzés
 
-4. § (1)[^5] Az Alapok támogatásait az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.), a költségvetési törvény, illetve az Ámr. 26. §-a szerinti tervezési tájékoztató előírásai szerint a forrásgazdának kell megterveznie.
+4. § (1)[^5] Az Alapok támogatásait az államháztartásról szóló 2011. évi CXCV. törvényben (a továbbiakban: Áht.), valamint a költségvetési törvényben meghatározottak szerint az államháztartásért felelős miniszter által előírtaknak megfelelően a forrásgazdának kell megterveznie.
 
 (2) Az Alapok támogatásaival megvalósuló programokra tervezett közösségi forrást és a kapcsolódó hazai társfinanszírozást ugyanazon az előirányzaton kell megjeleníteni.
 
@@ -20,6 +20,6 @@ b) az Európai Bizottság által elfogadott programokat.
 
 (7) Az Igazoló Hatóság minden év április 30-ig – az Irányító Hatóság által adott információk alapján – elkészíti és megküldi a tárgyévre és a következő évre összeállított, a közösségi hozzájárulásra vonatkozó kifizetési előrejelzést programonként az Európai Bizottság részére.
 
-[^5]: A 4. § (1) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 4. § (1) bekezdése a 216/2012. (VIII. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: A 4. § (3) bekezdés a) pontja a 137/2010. (IV. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^7]: A 4. § (5) bekezdését a 137/2010. (IV. 28.) Korm. rendelet 30. §-a hatályon kívül helyezte.

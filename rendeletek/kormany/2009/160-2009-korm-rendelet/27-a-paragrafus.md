@@ -1,10 +1,10 @@
-## Közösségi hozzájárulás megelőlegezése[^55]
+## Közösségi hozzájárulás megelőlegezése[^66]
 
-27/A. §[^56] (1) A programok keretében meghirdetett pályázati kiírások keretében közösségi támogatásra jóváhagyott projektek hazai partnerei számára a Nemzeti Hatóság – központi költségvetési szerv hazai partner részére kérelem nélkül, nem központi költségvetési szerv hazai partner részére kérelemre – megelőlegezést biztosít.
+27/A. §[^67] (1) A programok keretében meghirdetett pályázati kiírások keretében közösségi támogatásra jóváhagyott projektek hazai partnerei számára a Nemzeti Hatóság – központi költségvetési szerv hazai partner részére kérelem nélkül, nem központi költségvetési szerv hazai partner részére kérelemre – megelőlegezést biztosít.
 
-(2) A megelőlegezés iránti kérelmet a hazai társfinanszírozási szerződés megkötését megelőzően kell benyújtani.
+(2)[^68] A megelőlegezés iránti kérelmet a támogatási döntést követően lehet benyújtani. A megelőlegezési szerződést a közösségi támogatási szerződés hatályba lépését követően lehet megkötni.
 
-(3) A megelőlegezés iránti kérelmet nem központi költségvetési szerv partner akkor nyújthat be, ha a projektrész elszámolható összköltsége eléri vagy meghaladja az 550 ezer eurót.
+(3)[^69] Megelőlegezés iránti kérelmet nem központi költségvetési szerv partner akkor nyújthat be, ha a projektrész elszámolható összköltsége eléri vagy meghaladja az 550 ezer eurót. A megyei önkormányzatok és a regionális fejlesztési ügynökségek az 550 ezer euró alatti összköltségű projektrészük támogatásának megelőlegezését is kérelmezhetik.
 
 (4) A kérelemnek tartalmaznia kell
 
@@ -22,5 +22,7 @@ f) a projektrész pénzügyi tervét, valamint
 
 g) a megelőlegezés indokainak részletes, számszerűsített bemutatását.
 
-[^55]: A 27/A. §-t megelőző alcímet a 137/2010. (IV. 28.) Korm. rendelet 21. §-a iktatta be.
-[^56]: A 27/A. §-t a 137/2010. (IV. 28.) Korm. rendelet 21. §-a iktatta be.
+[^66]: A 27/A. §-t megelőző alcímet a 137/2010. (IV. 28.) Korm. rendelet 21. §-a iktatta be.
+[^67]: A 27/A. §-t a 137/2010. (IV. 28.) Korm. rendelet 21. §-a iktatta be.
+[^68]: A 27/A. § (2) bekezdése a 216/2012. (VIII. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^69]: A 27/A. § (3) bekezdése a 216/2012. (VIII. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
