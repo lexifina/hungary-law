@@ -1,0 +1,3 @@
+## 1. § A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjainak végrehajtásáról szóló 160/2009. (VIII. 3.) Korm. rendelet (a továbbiakban: R.) 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az Alapok támogatásait az államháztartásról szóló 2011. évi CXCV. törvényben (a továbbiakban: Áht.), valamint a költségvetési törvényben meghatározottak szerint az államháztartásért felelős miniszter által előírtaknak megfelelően a forrásgazdának kell megterveznie.”

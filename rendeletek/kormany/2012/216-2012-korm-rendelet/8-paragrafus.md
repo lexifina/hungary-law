@@ -1,0 +1,1 @@
+## „(4) A nem központi költségvetési szerv hazai partner – ide nem értve a nem költségvetési szerv formában működő közszféra szervezet hazai partnert – biztosítékot nyújt be a Nemzeti Hatóság részére. A biztosíték lehet bankgarancia, felhatalmazó levélen alapuló beszedési megbízás, vagy ingatlan jelzálogjog bejegyzése.”
