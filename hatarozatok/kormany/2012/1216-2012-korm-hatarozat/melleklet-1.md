@@ -6,15 +6,13 @@
 
 ## 3. Adósságmegújító ügyletek esetén az önkormányzat az ügyletből származó bevételét kizárólag már meglévő adósságának visszafizetésére fordíthatja.
 
-1. melléklet az 1216/2012. (VI. 26.) Korm. határozathoz
+1. melléklet az 1216/2012. (VI. 26.) Korm. határozathoz[^1]
 
 | Önkormányzat neve | Ügyeletek adatai | Fejlesztések adatai |
 
 | Értéke | Deviza | Ügylet célja | Ügylet típusa | Futamideje (év) | Deviza árfolyama (Ft) | Ügyletből eredő fizetési kötelezettség (az ügylet devizanemében) esedékesség szerint | Fejlesztés sorszáma | Fejlesztés alcélja | Fejlesztés bruttó forrásigénye | Fejlesztési célhoz az ügylet mekkora értékkel járul hozzá |
 
 | Tárgyévi | Tárgyévet követő első évben | Tárgyévet követő második évben | Tárgyévet követő harmadik és azt követő években |
-
-| BICSKE VÁROS ÖNKORMÁNYZATA | 500 000 000 | HUF | adósság- megújítás | Hitel | 6 | 1 | 111 000 000 | 104 340 000 | 98 235 000 | 461 205 000 |  |  |  |  |
 
 | VESZPRÉM MEGYEI JOGÚ VÁROS ÖNKORMÁNYZATA | 3 600 000 000 | HUF | működési cél | Hitel | 3 | 1 | 99 976 000 | 1 365 961 000 | 1 298 977 000 | 1 232 992 000 |  |  |  |  |
 
@@ -157,3 +155,5 @@
 |  |  |  |  |  |  |  |  |  |  |  | 64 | 7.5. Megújuló energiaforrások hasznosításával kapcsolatos beruházások | 57 975 000 | 8 006 000 |
 
 |  |  |  |  |  |  |  |  |  |  |  | 65 | 7.9. Város- és település-rehabilitáció | 4 950 000 | 4 950 000 |
+
+[^1]: Az 1. melléklet táblázatának Bicske Város Önkormányzatának adott hozzájárulásra vonatkozó sorát a Kormány az 1293/2012. (VIII. 13.) Korm. határozat 2. pontjával visszavonta.
