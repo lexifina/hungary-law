@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad Magyarország Kormánya és az Algériai Demokratikus és Népi Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás (a továbbiakban: megállapodás) kötelező hatályának elismerésére.
