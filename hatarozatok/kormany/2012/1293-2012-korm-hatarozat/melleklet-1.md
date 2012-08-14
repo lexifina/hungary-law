@@ -10,7 +10,7 @@
 
 ## c) adósságmegújító ügyletek esetén az önkormányzat az ügyletből származó bevételét kizárólag már meglévő adósságának visszafizetésére fordíthatja.
 
-## 2. A Kormány visszavonja az önkormányzatok adósságot keletkeztető ügyleteihez történő előzetes kormányzati hozzájárulásról szóló 1216/2012. (VI. 26.) Korm. határozat (a továbbiakban: H.) 1. melléklete szerint Bicske Város Önkormányzatának adott hozzájárulást, és a H. 1. melléklete szerinti táblázat Bicske Város Önkormányzatának adott hozzájárulásra vonatkozó sorát.
+## 2.[^1] A Kormány visszavonja az önkormányzatok adósságot keletkeztető ügyleteihez történő előzetes kormányzati hozzájárulásról szóló 1216/2012. (VI. 26.) Korm. határozat (a továbbiakban: H.) 1. melléklete szerint Bicske Város Önkormányzatának adott hozzájárulást,
 
 1. melléklet az 1293/2012. (VIII. 13.) Korm. határozathoz
 
@@ -25,3 +25,5 @@
 | 2. | SZÉKESFEHÉRVÁR MEGYEI JOGÚ VÁROS ÖNKOR- MÁNYZATA | 4 925 000 000 | HUF | adósság- megújítás | Hitelviszonyt megtestesítő értékpapír | 9 | 1 | 34 324 000 | 533 795 000 | 533 795 000 | 7 060 966 000 | 0 |  |  |  |
 
 | 3. | BICSKE VÁROS ÖNKOR- MÁNYZATA | 500 000 000 | HUF | adósság- megújítás | Hitel | 9 | 1 | 111 000 000 | 104 340 000 | 98 235 000 | 461 205 000 | 0 |  |  |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
