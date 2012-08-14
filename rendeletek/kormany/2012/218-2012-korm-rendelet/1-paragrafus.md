@@ -1,0 +1,1 @@
+## 1. Illetékességi szabályok
