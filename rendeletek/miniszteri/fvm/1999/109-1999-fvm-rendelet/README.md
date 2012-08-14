@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-109-20-
 | 2011-01-01 | 1999-109-20-82.11 | 48/2010. (IV. 27.) FVM rendelet |
 | 2011-01-14 | 1999-109-20-82.12 | 1/2011. (I. 11.) VM rendelet |
 | 2011-11-01 | 1999-109-20-82.13 | 97/2011. (X. 28.) VM rendelet |
+| 2012-08-14 | 1999-109-20-82.14 | 85/2012. (VIII. 6.) VM rendelet |
