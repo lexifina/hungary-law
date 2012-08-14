@@ -1,0 +1,1 @@
+## 5. § Ez a rendelet a tagállamok kikötőibe érkező vagy onnan induló hajókra vonatkozó nyilatkozattételi követelményekről és a 2002/6/EK irányelv hatályon kívül helyezéséről szóló 2010. október 20-i 2010/65/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

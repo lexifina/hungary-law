@@ -1,0 +1,9 @@
+# 46/2012. (VIII. 6.) NFM rendelet
+
+az Európai Gazdasági Térség valamely tagállamának tengeri kikötőjébe érkező vagy onnan induló tengeri hajókra vonatkozó nyilatkozattételi kötelezettség teljesítéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-46-20-2W
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-08-14 | 2012-46-20-2W.1 | 46/2012. (VIII. 6.) NFM rendelet |
