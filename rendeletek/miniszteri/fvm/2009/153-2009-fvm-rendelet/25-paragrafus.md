@@ -48,10 +48,10 @@ r) az f)–q) pontokban foglalt tervrészek adatai alapján, erdőrészletenkén
 
 s) a tervet készítő jogosult erdészeti szakszemélyzet nevét, erdészeti hatósági azonosító kódját és aláírását, valamint a telepítő aláírását,
 
-t)[^1] a környezeti hatások jelentőségének vizsgálatára szolgáló – a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendeletben (a továbbiakban: Khvr.) meghatározott – adatlapot, ha az engedélyezési eljárás a Khvr. 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el, vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül.
+t)[^2] a környezeti hatások jelentőségének vizsgálatára szolgáló – a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendeletben (a továbbiakban: Khvr.) meghatározott – adatlapot, ha az engedélyezési eljárás a Khvr. 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el, vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül.
 
 (2) Az erdőtelepítési-kivitelezési tervet kettő, védett természeti terület és Natura 2000 terület esetén három példányban kell benyújtani az erdészeti hatósághoz.
 
 (3) Az erdészeti hatóság a jóváhagyott erdőtelepítési-kivitelezési terv egy, jóváhagyási záradékkal ellátott példányát a jóváhagyó határozat kézbesítésekor visszaküldi a kérelmezőnek.
 
-[^1]: A 25. § (1) bekezdés t) pontját a 38/2011. (V. 18.) VM rendelet 4. §-a iktatta be.
+[^2]: A 25. § (1) bekezdés t) pontját a 38/2011. (V. 18.) VM rendelet 4. §-a iktatta be.
