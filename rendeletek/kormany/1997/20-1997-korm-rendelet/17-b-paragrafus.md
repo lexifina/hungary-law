@@ -1,4 +1,4 @@
-17/B. §[^113] (1) A közoktatási feladatot ellátó egyház számára az éves költségvetési törvényben meghatározott kiegészítő támogatás megállapítását az egyházi intézményfenntartók részére az illetékes Igazgatóságok által megállapított normatív hozzájárulás és támogatás igénylése és elszámolása alapján a Magyar Államkincstár Budapesti és Pest Megyei Igazgatósága (a továbbiakban: kijelölt Igazgatóság) végzi.
+17/B. §[^100] (1) A közoktatási feladatot ellátó egyház számára az éves költségvetési törvényben meghatározott kiegészítő támogatás megállapítását az egyházi intézményfenntartók részére az illetékes Igazgatóságok által megállapított normatív hozzájárulás és támogatás igénylése és elszámolása alapján a Magyar Államkincstár Budapesti és Pest Megyei Igazgatósága (a továbbiakban: kijelölt Igazgatóság) végzi.
 
 (2) A kijelölt Igazgatóság az egyházi intézményfenntartók székhelye szerinti illetékes Igazgatóságok adatszolgáltatása alapján figyelembe vehető gyermek-, tanulólétszám alapján a Ket.-ben szabályozott eljárás keretében
 
@@ -26,4 +26,4 @@ c) képviselőjének aláírási címpéldányát, adószámát, valamennyi, a k
 
 (7) Az e §-ban nem szabályozott kérdésekben a 13-17. §-ban foglaltakat kell megfelelően alkalmazni.
 
-[^113]: A 17/B. §-t a 232/2004. (VIII. 6.) Korm. rendelet 2. §-a iktatta be, szövege a 213/2011. (X. 14.) Korm. rendelet – a 314/2011. (XII. 23.) Korm. rendelet 24. §-a szerint módosított – 18. §-ával megállapított szöveg.
+[^100]: A 17/B. §-t a 232/2004. (VIII. 6.) Korm. rendelet 2. §-a iktatta be, szövege a 213/2011. (X. 14.) Korm. rendelet – a 314/2011. (XII. 23.) Korm. rendelet 24. §-a szerint módosított – 18. §-ával megállapított szöveg.

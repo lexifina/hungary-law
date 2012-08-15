@@ -1,4 +1,4 @@
-17. §[^111] (1) Az Igazgatóság a megküldött iratok alapján felülvizsgálja, és a helyszínen ellenőrizheti a normatív hozzájárulás és támogatás igénylésének és elszámolásának jogszerűségét. Az ellenőrzés kiterjed az igénybevételi jogosultság jogszabályi feltételei teljesítésének, az igénylési lapon, a változásjelentésben, az elszámoláskor közölt adatok megalapozottságának, továbbá a kötött támogatások felhasználása jogszerűségének vizsgálatára.
+17. §[^98] (1) Az Igazgatóság a megküldött iratok alapján felülvizsgálja, és a helyszínen ellenőrizheti a normatív hozzájárulás és támogatás igénylésének és elszámolásának jogszerűségét. Az ellenőrzés kiterjed az igénybevételi jogosultság jogszabályi feltételei teljesítésének, az igénylési lapon, a változásjelentésben, az elszámoláskor közölt adatok megalapozottságának, továbbá a kötött támogatások felhasználása jogszerűségének vizsgálatára.
 
 (2) Az Igazgatóság hatósági ellenőrzés keretében vizsgálja a fenntartónál és a közoktatási intézményekben a fenntartó által igényelt normatív hozzájárulás és támogatás igénylésének alapjául szolgáló – a közoktatási intézményben vezetett – nyilvántartások meglétét, vezetését, a tanügy-igazgatási dokumentumokat és ennek alapján az igénylés és az elszámolás megalapozottságát.
 
@@ -14,4 +14,4 @@
 
 (8) A normatív hozzájárulás és támogatás átadásával kapcsolatos adatokat, egyéb állami támogatások felhasználását, tandíj, térítési díj megállapításával, beszedésével kapcsolatos rendelkezéseket alaptevékenységenkénti bontásban elkülönítetten és naprakészen kell nyilvántartani, az ellenőrzésre feljogosított szervek megkeresésére az ellenőrzés lefolytatásához szükséges tájékoztatást meg kell adni, a kért dokumentumokat rendelkezésre kell bocsátani, a helyszíni ellenőrzést lehetővé kell tenni. Az adatok valódiságát az egyes fenntartóknál, közoktatási intézményeknél megfelelő nyilvántartással, szakmai és pénzügyi dokumentációval kell alátámasztani. A betekintést akkor is biztosítani kell, ha az intézményi és az intézmény fenntartásával összefüggő fenntartói könyvvezetési, beszámolókészítési kötelezettséget intézményen és fenntartón kívüli egyéb szervezet látja el.
 
-[^111]: A 17. § a 213/2011. (X. 14.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^98]: A 17. § a 213/2011. (X. 14.) Korm. rendelet 16. §-ával megállapított szöveg.

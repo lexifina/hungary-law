@@ -1,6 +1,6 @@
-## 15/A. §[^108] Amennyiben a fenntartónak két egymást követő hónapban lejárt köztartozása van, és e tartozás mértéke nagyobb a fenntartónak megállapított hat havi normatív hozzájárulás és támogatás összegénél, az Igazgatóság erről tájékoztatja a működést engedélyező szervet és az oktatásért felelős minisztert.
+## 15/A. §[^95] Amennyiben a fenntartónak két egymást követő hónapban lejárt köztartozása van, és e tartozás mértéke nagyobb a fenntartónak megállapított hat havi normatív hozzájárulás és támogatás összegénél, az Igazgatóság erről tájékoztatja a működést engedélyező szervet és az oktatásért felelős minisztert.
 
-16. §[^109] (1) A fenntartó a költségvetési törvényben meghatározott normatív hozzájárulás és támogatás igénybevételének jogosságáról és felhasználásáról a Magyar Államkincstár és az oktatásért felelős miniszter által közösen meghatározott és az Igazgatóság által a fenntartó részére január 15-ig megküldött adatlapon intézmény feladatellátási helyenkénti, valamint összesített adatokkal, a tárgyévet követő év január 31-ig köteles elszámolni. Az elszámolás alapja
+16. §[^96] (1) A fenntartó a költségvetési törvényben meghatározott normatív hozzájárulás és támogatás igénybevételének jogosságáról és felhasználásáról a Magyar Államkincstár és az oktatásért felelős miniszter által közösen meghatározott és az Igazgatóság által a fenntartó részére január 15-ig megküldött adatlapon intézmény feladatellátási helyenkénti, valamint összesített adatokkal, a tárgyévet követő év január 31-ig köteles elszámolni. Az elszámolás alapja
 
 a) a tárgyévben a tárgyévre vonatkozó jogerős határozatokban foglaltak,
 
@@ -34,5 +34,5 @@ b) adott hónap 16. napjától egy főként.
 
 (11) Ha elszámoláskor a fenntartó által közölt létszámadatok az igénylési létszámhoz képest tíz százalékot meghaladó mértékben változtak, vagy a fenntartó befizetési kötelezettsége tíz százalékkal meghaladja az őt ténylegesen megillető támogatás összegét, az Igazgatóság köteles helyszíni vizsgálatot tartani.
 
-[^108]: A 15/A. §-t a 229/2007. (VIII. 31.) Korm. rendelet 6. §-a iktatta be, szövege a 213/2011. (X. 14.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^109]: A 16. § a 213/2011. (X. 14.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^95]: A 15/A. §-t a 229/2007. (VIII. 31.) Korm. rendelet 6. §-a iktatta be, szövege a 213/2011. (X. 14.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^96]: A 16. § a 213/2011. (X. 14.) Korm. rendelet 14. §-ával megállapított szöveg.

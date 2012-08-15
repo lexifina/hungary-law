@@ -1,8 +1,8 @@
-## 12/I. §[^90]
+## 12/I. §[^77]
 
-## A nem állami, nem helyi önkormányzati intézményfenntartók normatív állami hozzájárulásának és támogatásának igénylése, folyósítása, elszámolása és ellenőrzése[^91]
+## A nem állami, nem helyi önkormányzati intézményfenntartók normatív állami hozzájárulásának és támogatásának igénylése, folyósítása, elszámolása és ellenőrzése[^78]
 
-13. §[^92] (1) A nem állami, nem helyi önkormányzati intézményfenntartó (a továbbiakban: fenntartó) a közoktatásról szóló törvény 118. § (3) bekezdése alapján a mindenkori költségvetési törvényben meghatározott normatív állami hozzájárulások, továbbá normatív, kötött felhasználású támogatások (a továbbiakban: normatív hozzájárulás és támogatás) iránti igényét a Magyar Államkincstár – fenntartó székhelye szerint – illetékes megyei igazgatóságnál (a továbbiakban: Igazgatóság) jelentheti be.
+13. §[^79] (1) A nem állami, nem helyi önkormányzati intézményfenntartó (a továbbiakban: fenntartó) a közoktatásról szóló törvény 118. § (3) bekezdése alapján a mindenkori költségvetési törvényben meghatározott normatív állami hozzájárulások, továbbá normatív, kötött felhasználású támogatások (a továbbiakban: normatív hozzájárulás és támogatás) iránti igényét a Magyar Államkincstár – fenntartó székhelye szerint – illetékes megyei igazgatóságnál (a továbbiakban: Igazgatóság) jelentheti be.
 
 (2) Normatív hozzájárulás és támogatás – a külön jogszabályban meghatározott feltételek figyelembevételével – az után a gyermek, tanuló után vehető igénybe,
 
@@ -52,6 +52,6 @@ d) nyilatkozatát arról, hogy sem neki, sem az intézménynek harminc napon tú
 
 (12) A fenntartó a támogatási igénylés benyújtásakor csatolja az intézmény székhelye és telephelye szerint illetékes önkormányzat által kiállított hatósági igazolást arról, hogy sem neki, sem az intézményének nincsen – az október 1-jei, illetve február 1-jei állapotot figyelembe véve – az önkormányzatnál lejárt köztartozása, valamint nyilatkozatával hozzájárul ahhoz, hogy az Igazgatóság az adó-, járulék-, illeték- vagy vámtartozással kapcsolatban adatot kérjen az illetékes hatóságoktól.
 
-[^90]: A 12/I. §-t a 229/2007. (VIII. 31.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 229/2009. (X. 16.) Korm. rendelet 12. § (3) bekezdés d) pontja.
-[^91]: A 13. §-t megelőző alcím a 232/2004. (VIII. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^92]: A 13. § a 213/2011. (X. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^77]: A 12/I. §-t a 229/2007. (VIII. 31.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 229/2009. (X. 16.) Korm. rendelet 12. § (3) bekezdés d) pontja.
+[^78]: A 13. §-t megelőző alcím a 232/2004. (VIII. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^79]: A 13. § a 213/2011. (X. 14.) Korm. rendelet 9. §-ával megállapított szöveg.

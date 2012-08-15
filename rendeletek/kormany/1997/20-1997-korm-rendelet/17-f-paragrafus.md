@@ -1,6 +1,6 @@
-## A központosított előirányzatokból folyósított támogatások elszámolása és ellenőrzése[^127]
+## A központosított előirányzatokból folyósított támogatások elszámolása és ellenőrzése[^114]
 
-17/F. §[^128] (1) A 13. § (1) bekezdése és a 17/C. § (1) bekezdése szerinti fenntartó – külön jogszabály alapján – központosított előirányzatból folyósított támogatásokra (a továbbiakban: központosított támogatás) válhat jogosulttá.
+17/F. §[^115] (1) A 13. § (1) bekezdése és a 17/C. § (1) bekezdése szerinti fenntartó – külön jogszabály alapján – központosított előirányzatból folyósított támogatásokra (a továbbiakban: központosított támogatás) válhat jogosulttá.
 
 (2) A központosított támogatást más állami támogatással, pályázattal nem lehet összevonni. A központosított támogatást a tárgyév december 31-ig kötelezettségvállalással terhelten a fenntartó a tárgyévet követő év június 30-ig használhatja fel jogszerűen. Kötelezettségvállalásnak minősül különösen a szerződés, a megállapodás megkötése, a visszaigazolt megrendelés. Kötelezettségvállalásnak kell elfogadni a közbeszerzés megkezdéseként a közbeszerzési eljárást megindító feladott hirdetményt, megküldött ajánlati, ajánlattételi felhívást.
 
@@ -16,5 +16,5 @@
 
 (8) A fenntartónak – a Wekerle Sándor Alapkezelő által végzendő monitoring tevékenységéhez – a központosított támogatás folyósítását követő évben adatszolgáltatási kötelezettsége van.
 
-[^127]: A 17/F. §-t megelőző alcímet a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.
-[^128]: A 17/F. §-t a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.
+[^114]: A 17/F. §-t megelőző alcímet a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.
+[^115]: A 17/F. §-t a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.
