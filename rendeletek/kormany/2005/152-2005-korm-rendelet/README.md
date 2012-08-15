@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-152-20-
 | 2011-07-24 | 2005-152-20-22.8 | 143/2011. (VII. 21.) Korm. rendelet |
 | 2011-09-01 | 2005-152-20-22.9 | 143/2011. (VII. 21.) Korm. rendelet |
 | 2012-01-01 | 2005-152-20-22.10 | 143/2011. (VII. 21.) Korm. rendelet |
+| 2012-08-15 | 2005-152-20-22.11 | 222/2012. (VIII. 15.) Korm. rendelet |

@@ -1,17 +1,20 @@
 1. § (1) Az Útravaló Ösztöndíjprogram (a továbbiakban: Ösztöndíjprogram) célja, hogy – a (2) bekezdés a)–c) pontjában meghatározott esetekben – elősegítse a hátrányos helyzetben lévő tanulók esélyegyenlőségét, valamint – a (2) bekezdés d) pontjában meghatározott esetben – támogassa a természettudományos érdeklődésű tanulók tehetséggondozását.
 
-(2)[^1] Az Ösztöndíjprogram az alábbi alprogramokból áll:
+(2)[^1] Az Ösztöndíjprogram a következő alprogramokból áll:
 
-a) Út a középiskolába ösztöndíj, amelynek célja a résztvevő tanulók felkészítése érettségit adó középiskolában való továbbtanulásra;
+a) Út a középiskolába ösztöndíj program, amelynek célja a résztvevő tanulók felkészítése érettségit adó középiskolában való továbbtanulásra,
 
-b) Út az érettségihez ösztöndíj, amelynek célja a részt vevő tanulók támogatása a középiskola sikeres befejezése céljából;
+b) Út az érettségihez ösztöndíj program, amelynek célja a résztvevő tanulók támogatása a középiskola sikeres befejezése céljából,
 
-c)[^2] Út a szakmához ösztöndíj, amelynek célja a részt vevő szakiskolai tanulók sikeres tanulmányainak elősegítése, tanulási nehézségeinek leküzdése [az a)–c) pontok együtt: ÚTRAVALÓ-MACIKA esélyegyenlőségi ösztöndíjak, továbbiakban esélyegyenlőségi ösztöndíjak]; valamint
+c) Út a szakmához ösztöndíj program, amelynek célja a résztvevő szakiskolai tanulók sikeres tanulmányainak elősegítése, tanulási nehézségeinek leküzdése,
 
-d)[^3] Út a tudományhoz alprogram, amelynek célja a természettudományok, a műszaki tudományok és a matematika területe iránt kiemelt érdeklődést mutató tanulók tehetséggondozása.
+d) Út a felsőoktatásba ösztöndíj- és tandíj-támogatási program, amelynek célja a résztvevő hallgatók támogatása annak érdekében, hogy felsőfokú végzettséget szerezhessenek [az a)–d) pont a továbbiakban együtt: esélyegyenlőségi ösztöndíjak]; valamint
+
+e) Út a tudományhoz alprogram, amelynek célja a természettudományok, a műszaki tudományok és a matematika területe iránt kiemelt érdeklődést mutató tanulók tehetséggondozása.
 
 (3) Az Ösztöndíjprogram céljának megvalósulását a tanulók közoktatási intézményei és mentorok segítik.
 
-[^1]: Az 1. § (2) bekezdésének bevezető szövegrésze a 155/2008. (VI. 6.) Korm. rendelet 9. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdés c) pontja a 143/2011. (VII. 21.) Korm. rendelet 13. § a) pontja szerint módosított szöveg. A módosító rendelet az 1. § (1) bekezdés c) pontját jelölte meg. E módosító rendelet 15. § (1) bekezdése alapján a 2011. július 24-ét követően meghirdetett pályázatokra és az azt követően létrejött ösztöndíjas jogviszonyokra kell alkalmazni.
-[^3]: Az 1. § (2) bekezdésének d) pontja a 155/2008. (VI. 6.) Korm. rendelet 9. § (2) bekezdésének b) pontja szerint módosított szöveg.
+(4)[^2] A 3–5. §-t, a 6. § (1), (2), (3)–(6) és (7) bekezdését, a 7. §-t, a 9. § (1)–(3) és (5)–(15) bekezdését, a 9/A. §-t, a 10. §-t, valamint a 11. § (1)–(4) bekezdését nem kell alkalmazni az Út a felsőoktatásba ösztöndíj- és tandíjtámogatási programra.
+
+[^1]: Az 1. § (2) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (4) bekezdését a 222/2012. (VIII. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be.

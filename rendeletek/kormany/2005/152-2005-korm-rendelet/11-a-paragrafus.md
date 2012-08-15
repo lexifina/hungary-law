@@ -1,11 +1,19 @@
-11/A. §[^75] (1) A hátrányos helyzetű tanulók iskolai előmenetelének biztosítása érdekében a pályáztató szerv Iskola-háló programot szervez, amelynek célja, hogy olyan innovatív elemeket és eszközöket támogasson, amelyek alkalmazásával a nevelési-oktatási intézmény alkalmassá válik az iskolai lemorzsolódás csökkentésére, továbbá elősegíti a halmozottan hátrányos helyzetű tanulók sikeres iskolai és későbbi munkaerő-piaci eredményességét a minőségi és motiváló pedagógiai munka feltételeinek támogatásával.
+11/A. §[^89] (1) Az Út a felsőoktatásba alprogram
 
-(2) Az Iskola-háló program keretén belül ösztöndíj nyújtható.
+a) ösztöndíj-támogatási és
 
-(3) A pályáztató szerv az Iskola-háló program pályázati felhívásait honlapján közzéteszi.
+b) önköltség-támogatási
 
-(4) Az Iskola-háló program működtetése a KIM feladata.
+komponensből áll.
 
-(5) Az Iskola-háló program forrása a Magyar Köztársaság éves költségvetéséről szóló törvény Közigazgatási és Igazságügyi Minisztérium fejezetében meghatározott előirányzat.
+(2) Az ösztöndíj-támogatási komponens keretében pályázatot nyújthat be az a magyar állampolgárságú hallgató, aki nappali tagozatra magyar állami ösztöndíjas, magyar állami részösztöndíjas vagy önköltséges képzésre Magyarország területén működő felsőoktatási intézménybe alap-, mester vagy osztatlan képzésre a pályázat kiírásának évében jelentkezését beadta, amennyiben az adott szintű végzettséggel még nem rendelkezik, vagy azonos szintű más képzésben nem vesz részt és a felsőoktatásról szóló 2005. évi CXXXIX. törvény (a továbbiakban: Ftv.), illetve a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) szerint hátrányos vagy halmozottan hátrányos helyzetűnek minősül, vagy utógondozásban, utógondozói ellátásban részesül.
 
-[^75]: A 11/A. §-t a 143/2011. (VII. 21.) Korm. rendelet 10. § (1) bekezdése iktatta be. E módosító rendelet 15. § (1) bekezdése alapján a 2011. július 24-ét követően meghirdetett pályázatokra és az azt követően létrejött ösztöndíjas jogviszonyokra kell alkalmazni.
+(3) Az ösztöndíj-támogatás mértékét a pályázati felhívás határozza meg.
+
+(4) Önköltség-támogatási komponens keretében pályázatot nyújthat be az a magyar állampolgárságú hallgató, aki az önköltséges, illetve magyar állami részösztöndíjas képzésre nappali, esti vagy levelező tagozatra Magyarország területén működő felsőoktatási intézménybe alap-, mester vagy osztatlan képzésre a pályázat kiírásának évében jelentkezését beadta, amennyiben az adott szintű végzettséggel még nem rendelkezik, vagy azonos szintű más képzésben nem vesz részt és az Ftv., illetve az Nftv. szerint halmozottan hátrányos helyzetűnek minősül vagy utógondozásban, utógondozói ellátásban részesül.
+
+(5) Az önköltség-támogatás mértékét a pályázati felhívás határozza meg.
+
+(6) A támogatás folyósításának a feltétele a hallgatói jogviszony igazolása minden félévben. A második félévtől kezdődően a hallgató akkor jogosult a támogatásra, ha igazolja, hogy a mintatanterv felének megfelelő kreditet teljesített.
+
+[^89]: A 11/A. §-t a 143/2011. (VII. 21.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 222/2012. (VIII. 15.) Korm. rendelet 10. §-ával megállapított szöveg.

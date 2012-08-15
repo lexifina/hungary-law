@@ -1,9 +1,12 @@
-9/A. §[^63] (1) Amennyiben az esélyegyenlőségi ösztöndíjjal rendelkező tanuló tanulói jogviszonya 60 napot meghaladóan szünetel, a 60. napot követően a tanuló ösztöndíjas jogviszonya is szünetel, és sem a tanulót, sem a mentort nem illeti meg ösztöndíj az ösztöndíjas jogviszony szünetelésének időtartama alatt.
+9/A. §[^71] (1) Amennyiben az esélyegyenlőségi ösztöndíjjal rendelkező tanuló tanulói jogviszonya 60 napot meghaladóan szünetel, a 60. napot követően a tanuló ösztöndíjas jogviszonya is szünetel, és sem a tanulót, sem a mentort nem illeti meg ösztöndíj az ösztöndíjas jogviszony szünetelésének időtartama alatt.
 
-(2) Ahol e rendelet feltételként az esélyegyenlőségi ösztöndíjjal rendelkező mentor közoktatási intézményben, tanodában történő foglalkoztatását előírja, a mentor foglalkoztatásra irányuló jogviszonyának szünetelése akkor nem érinti a tanuló, illetve a mentor ösztöndíjas jogviszonyát, ha a mentor foglalkoztatására irányuló jogviszonya szünetelésének időtartama alatt is ellátja az e rendeletben meghatározott feladatait. Ha a mentor foglalkoztatására irányuló jogviszonya szünetelésének időtartama alatt nem látja el az e rendeletben meghatározott feladatait, a mentor ösztöndíjas jogviszonya szünetel, és – az ösztöndíjas jogviszony szünetelésének időtartama alatt – a mentor nem, csak a tanuló jogosult ösztöndíjra.
+(2)[^72]
 
-(3) Amennyiben a mentor ösztöndíjas jogviszonya a (2) bekezdésben foglaltak szerint, 60 napot meghaladóan szünetel, erről értesíti a tanulót és a közoktatási intézményt, a tanuló pedig haladéktalanul köteles a 9. § (14)–(15) bekezdésben foglaltak szerint mentorváltást kezdeményezni.
+(3)[^73] Ha a mentor a szerződésben foglalt feladatait előreláthatóan 30 napig nem tudja ellátni, erről a tanulót és a közoktatási intézményt értesítenie kell, a tanuló pedig haladéktalanul köteles a 9. § (14) és (15) bekezdésében foglaltak szerint mentorváltást kezdeményezni.
 
-(4) A tanuló, illetve a mentor ösztöndíjas jogviszonyának szüneteléséről a közoktatási intézmény a pályáztató szervet 8 munkanapon belül értesíti. A szünetelés az ösztöndíjas jogviszony időtartamát nem hosszabbítja meg.
+(4)[^74] A tanuló, illetve a mentor ösztöndíjas jogviszonyának szüneteléséről a közoktatási intézmény a lebonyolító szervet 8 munkanapon belül értesíti. A szünetelés az ösztöndíjas jogviszony időtartamát nem hosszabbítja meg.
 
-[^63]: A 9/A. §-t a 155/2008. (VI. 6.) Korm. rendelet 6. §-a iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. június 9. napját követően meghirdetett pályázatokra és létrejött ösztöndíjas jogviszonyokra kell alkalmazni.
+[^71]: A 9/A. §-t a 155/2008. (VI. 6.) Korm. rendelet 6. §-a iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. június 9. napját követően meghirdetett pályázatokra és létrejött ösztöndíjas jogviszonyokra kell alkalmazni.
+[^72]: A 9/A. § (2) bekezdését a 222/2012. (VIII. 15.) Korm. rendelet 13. § (1) bekezdés f) pontja hatályon kívül helyezte.
+[^73]: A 9/A. § (3) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^74]: A 9/A. § (4) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.

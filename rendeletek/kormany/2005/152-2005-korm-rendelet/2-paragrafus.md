@@ -1,22 +1,22 @@
-2. § (1)[^4] Az Ösztöndíjprogram működtetése
+2. § (1)[^3] Az Ösztöndíjprogram működtetése a társadalmi felzárkózásért felelős miniszter és az oktatásért felelős miniszter feladata. Az Ösztöndíjprogram lebonyolítása a Wekerle Sándor Alapkezelő (a továbbiakban: lebonyolító szerv) bevonásával történik.
 
-a) a Nemzeti Erőforrás Minisztérium (a továbbiakban: NEFMI),
+(2)[^4] Az 1. § (2) bekezdés a)–d) pontja szerinti Ösztöndíjprogram forrását a központi költségvetés Emberi Erőforrások Minisztériuma, továbbá Nemzetgazdasági Minisztérium fejezeteibe kell tervezni. A társadalmi felzárkózásért felelős miniszter dönt az esélyegyenlőségi ösztöndíjak összegéről és a rendelkezésre álló forrásnak az Ösztöndíjprogram alprogramjai közötti megosztásáról Az oktatásért felelős miniszter dönt az Út a tudományhoz alprogram szerinti támogatás és igényelhető ösztöndíj összegéről.
 
-b)[^5] 1. § (2) bekezdés a)–c) pont tekintetében a Közigazgatási és Igazságügyi Minisztérium (a továbbiakban: KIM),
+(3)[^5] Az Ösztöndíjprogram pályázatai évente többször is meghirdethetőek. Az Út a tudományhoz alprogramra vonatkozó pályázati kiírást az esélyegyenlőségi ösztöndíjakra vonatkozó pályázati kiírás megjelentetésétől eltérő időpontban kell meghirdetni. A lebonyolító szerv az Ösztöndíjprogram pályázati kiírást a honlapján és legalább egy országos napilapban közzéteszi.
 
-feladata. Az Ösztöndíjprogram lebonyolítása a Wekerle Sándor Alapkezelő bevonásával történik (a továbbiakban: pályáztató szerv). A pályáztató szervet az Ösztöndíjprogram lebonyolításával kapcsolatban az Ösztöndíjprogram működtetésére rendelkezésre álló forrásból a részére lebonyolítás céljából átadott előirányzat legfeljebb 5%-áig lebonyolítási költség illeti meg.
+(4)[^6] Az esélyegyenlőségi ösztöndíjak és az Út a tudományhoz alprogram szerinti támogatás a pályázati felhívásban meghatározott időszakra, de legfeljebb egy tanévre nyújthatók. Az esélyegyenlőségi ösztöndíjak és az Út a tudományhoz alprogram szerinti támogatás több alkalommal is elnyerhetők.
 
-(2)[^6] Az 1. § (2) bekezdés a)–d) pontja szerinti Ösztöndíjprogram forrása a Magyar Köztársaság éves költségvetéséről szóló törvény Nemzeti Erőforrás Minisztérium és a Közigazgatási és Igazságügyi Minisztérium fejezetében meghatározott előirányzat, továbbá a Nemzeti Foglalkoztatási Alap képzési alaprésze. A közigazgatási és igazságügyi miniszter dönt az esélyegyenlőségi ösztöndíjak összegéről, valamint a rendelkezésre álló forrásnak az Ösztöndíjprogram alprogramjai közötti megosztásáról, illetve az Út a tudományhoz alprogramban a nemzeti erőforrás miniszter dönt az elnyerhető támogatás és az igényelhető ösztöndíj maximumáról.
+(4a)[^7] A pályázati kiírás tartalmazza
 
-(3)[^7] Az Ösztöndíjprogram pályázatai évente többször is meghirdethetőek. Az Út a tudományhoz alprogramra vonatkozó pályázati felhívást az esélyegyenlőségi ösztöndíjakra vonatkozó felhívások megjelentetésétől eltérő időpontban kell meghirdetni. A pályáztató szerv az Ösztöndíjprogram pályázati felhívásait honlapján és legalább egy országos napilapban közzéteszi.
+a) az esélyegyenlőségi ösztöndíjak és az Út a tudományhoz alprogram szerinti támogatás összegét, és
 
-(4)[^8] Az esélyegyenlőségi ösztöndíjakat, illetve az Út a tudományhoz alprogramban a támogatást és az ösztöndíjakat a pályáztató szerv adományozza, illetve nyújtja a pályázati felhívásban meghatározott időszakra, de legfeljebb egy tanévre. Az esélyegyenlőségi ösztöndíjak összegét, illetve – az Út a tudományhoz alprogramban – az elnyerhető támogatás maximumát a pályázati felhívás tartalmazza. Az esélyegyenlőségi ösztöndíjak és az Út a tudományhoz alprogramban a támogatás több alkalommal is elnyerhetőek.
+b) az elszámolható és el nem számolható költségek körét.
 
-(5)[^9] Az Út a tudományhoz alprogram pályázata iránt érdeklődő közoktatási intézmények részére a pályáztató szerv a pályázat benyújtását segítő felkészítő napot szervez a pályázati felhívásban meghatározottak szerint. A felkészítő nap pontos időpontja, helyszíne, a jelentkezés módja a pályázati felhívásban kerül ismertetésre.
+(5)[^8] Ha a lebonyolító szerv az Út a tudományhoz alprogramban támogatott közoktatási intézmények számára szakmai találkozót szervez, annak részvételi költségei a támogatás terhére elszámolhatóak a pályázati kiírásban meghatározottak szerint.
 
-[^4]: A 2. § (1) bekezdése a 143/2011. (VII. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 15. § (1) bekezdése alapján a 2011. július 24-ét követően meghirdetett pályázatokra és az azt követően létrejött ösztöndíjas jogviszonyokra kell alkalmazni.
-[^5]: A 2. § (1) bekezdés b) pontja a 143/2011. (VII. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 15. § (1) bekezdése alapján a 2011. szeptember 1-jét követően meghirdetett pályázatokra és az azt követően létrejött ösztöndíjas jogviszonyokra kell alkalmazni.
-[^6]: A 2. § (2) bekezdése a 143/2011. (VII. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 324/2011. (XII. 28.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^7]: A 2. § (3) bekezdése a 143/2011. (VII. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 15. § (1) bekezdése alapján a 2011. július 24-ét követően meghirdetett pályázatokra és az azt követően létrejött ösztöndíjas jogviszonyokra kell alkalmazni.
-[^8]: A 2. § (4) bekezdése a 155/2008. (VI. 6.) Korm. rendelet 9. § (2) bekezdésének c) pontja szerint módosított szöveg.
-[^9]: A 2. § (5) bekezdését a 143/2011. (VII. 21.) Korm. rendelet 1. § (2) bekezdés iktatta be. E módosító rendelet 15. § (1) bekezdése alapján a 2011. július 24-ét követően meghirdetett pályázatokra és az azt követően létrejött ösztöndíjas jogviszonyokra kell alkalmazni.
+[^3]: A 2. § (1) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (2) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (3) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (4) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (4a) bekezdését a 222/2012. (VIII. 15.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^8]: A 2. § (5) bekezdését a 143/2011. (VII. 21.) Korm. rendelet 1. § (2) bekezdés iktatta be, szövege a 222/2012. (VIII. 15.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
