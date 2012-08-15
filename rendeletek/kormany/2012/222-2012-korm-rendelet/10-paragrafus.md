@@ -1,0 +1,3 @@
+## 9. § A Rendelet 10. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) Az Út a tudományhoz alprogramban a támogatás felhasználásáról a közoktatási intézmény – a támogatási szerződésben meghatározott határidőig – szakmai beszámolót és pénzügyi elszámolást készít, és nyújt be a lebonyolító szervnek elektronikus formában, valamint egy példányban postai úton. Az (1) bekezdés b) pontjában meghatározott esetben a mentor az ösztöndíjas időszak végén – az ösztöndíjszerződésben rögzített határidőig – a kutatási program megvalósulásáról szakmai beszámolót készít, és nyújt be a közoktatási intézménynek, amelyet az a saját beszámolója részeként egy példányban postai úton továbbít a lebonyolító szervnek.”
