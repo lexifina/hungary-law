@@ -1,16 +1,4 @@
-## 13. § Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtásáról szóló 153/2009. (XI. 13.) FVM rendelet 22. § (4) bekezdése helyébe az következő rendelkezés lép:
-
-## „(4) Teljes másolat kizárólag
-
-## a) az erdőgazdálkodó,
-
-## b) a tulajdonos,
-
-## c) az ingatlan-nyilvántartásba bejegyzett vagyonkezelői, földhasználati, haszonélvezeti, használati jog jogosultja, valamint
-
-## d) az ingatlanügyi hatóság
-
-## részére adható ki.”
+## 12–13. §[^1]
 
 1. melléklet a 85/2012. (VIII. 6.) VM rendelethez
 
@@ -263,3 +251,5 @@ c) az átmeneti erdő, kultúrerdő és faültetvény természetességi állapot
 12.1. A kavicsos váztalajú, a legfeljebb sekély termőrétegű cseri talajú erdők, valamint a legalább 50 %-ban vízmosásos területen elhelyezkedő erdőrészletek esetében a talajvédelmi rendeltetés kezdeményezésére kell javaslatot tenni.
 
 12.2. A körzeti erdőtervezés során kiemelt figyelmet kell fordítani a meglévő erdészeti utak erdészeti hatósági nyilvántartási hiányosságainak, illetve az esetleges művelési ág eltérések feltárására.
+
+[^1]: A 12–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
