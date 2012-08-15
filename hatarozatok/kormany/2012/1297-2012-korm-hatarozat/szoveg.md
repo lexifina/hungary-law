@@ -22,4 +22,6 @@ Határidő: 2012. október 31.
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-5. Hatályát veszti az Alternatív Közgazdasági Gimnázium Alapítvány közhasznú nonprofit gazdasági társasággá történő átalakításáról szóló 1170/2011. (V. 26.) Korm. határozat.
+5.[^2]
+
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
