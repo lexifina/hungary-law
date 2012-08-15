@@ -8,6 +8,4 @@ c) a nem magyar oktatási intézménnyel tanulói, hallgatói jogviszonyban áll
 
 d) a 19. § (1) bekezdésében meghatározott jogosultak esetében a fogadó intézmény,
 
-e)[^8]
-
-[^8]: A 6. § e) a 41. § (2) bekezdése alapján 2012. augusztus 15-én lép hatályba.
+e) a 23. § b) pontjában meghatározott személyek oktatási igazolványának cseréje, pótlása és a közoktatásról szóló törvény 122. § (3) bekezdése szerinti intézményben pedagógus munkakörben foglalkoztatott személyek oktatási igazolványainak kiadása esetében a közoktatási feladatkörében eljáró fővárosi és megyei kormányhivatal.

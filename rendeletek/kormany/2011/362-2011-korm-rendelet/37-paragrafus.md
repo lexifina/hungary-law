@@ -1,5 +1,3 @@
 37. § (1) A tanköteles tanulók diákigazolványa érvényesítő matrica nélkül is érvényes azon tanévet követő október 31. napjáig, amely tanévben a tanuló a tanköteles kor felső határát betölti.
 
-(2)[^31]
-
-[^31]: A 37. § (2) bekezdése a 41. § (2) bekezdése alapján 2012. augusztus 15-én lép hatályba.
+(2) A nyugállományba helyezett pedagógus pedagógusigazolványa az igazolvány érvényesíthetőségének évéig érvényes. Az igazolvány az érvényességre vonatkozó adat helyén az igazolvány érvényesíthetőségének évét tartalmazza.

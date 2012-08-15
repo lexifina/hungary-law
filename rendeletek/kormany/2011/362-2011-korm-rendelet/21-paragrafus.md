@@ -1,4 +1,4 @@
-## 20. §[^16]
+## 20. §[^6]
 
 21. § (1) A közreműködő intézmény a diákigazolványra jogosultnak a diákigazolvány igénylése nélkül – a 12. §-ban meghatározott – igazolást ad ki,
 
@@ -12,4 +12,4 @@ c) annak a jogosultnak, aki tanulói, hallgatói jogviszonyának megszűnését 
 
 (3) A közreműködő intézmény a jogosult tanulói, hallgatói jogviszonya megszűnésekor a diákigazolvány 38. § (1) bekezdésének a) pontja szerinti bevonásával egyidejűleg a 12. § (1) bekezdésében meghatározott igazolást ad ki, mely a 13. § (3)–(4) bekezdése szerinti diákigazolványra való jogosultság megszűnésének időpontjáig érvényes.
 
-[^16]: A 20. § a 41. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^6]: A 20. § a 41. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
