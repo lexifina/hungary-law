@@ -6,14 +6,14 @@
 
 (3) A Támogató az éves általános működési támogatásról január 31-éig kibocsátott rendelkező levél alapján intézkedik a Kincstárnál a támogatásban részesülő települési nemzetiségi önkormányzatok jegyzékének egyidejű megküldése mellett. A támogatás egy összegben történő folyósítása iránt a Kincstár tizenöt naptári napon belül intézkedik.
 
-(4)[^1]
+(4)[^2]
 
 (5) Az időközi választás során az újonnan megalakult települési és területi nemzetiségi önkormányzati képviselő-testület részére a képviselő-testület megalakulásáról szóló értesítés alapján, az értesítésnek a Támogatóhoz történő beérkezésétől számított harminc naptári napon belül, egy összegben kerül sor az e rendelet szerinti időarányos általános működési támogatás Kincstár által történő folyósítására, a Támogató által – a képviselő-testület megalakulásáról szóló értesítés beérkezésétől számított 15 naptári napon belül – megtett intézkedés alapján.
 
-(6)[^2]
+(6)[^3]
 
-(7)[^3]
+(7)[^4]
 
-[^1]: A 3. § (4) bekezdése a 15. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^2]: A 3. § (6) bekezdése a 15. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^3]: A 3. § (7) bekezdése a 15. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^2]: A 3. § (4) bekezdése a 15. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^3]: A 3. § (6) bekezdése a 15. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^4]: A 3. § (7) bekezdése a 15. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.

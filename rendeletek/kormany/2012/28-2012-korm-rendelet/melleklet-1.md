@@ -1,4 +1,4 @@
-## 18. §[^6]
+## 18. §[^12]
 
 1. melléklet a 28/2012. (III. 6.) Korm. rendelethez
 
@@ -30,4 +30,4 @@ A feladatalapú támogatás elbírálásának szempontrendszere
 
 | ELÉRHETŐ ÖSSZES PONTSZÁM: 100 pont |
 
-[^6]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

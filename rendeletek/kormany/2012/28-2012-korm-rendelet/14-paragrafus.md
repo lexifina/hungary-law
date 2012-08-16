@@ -1,4 +1,4 @@
-## 13. § A Támogató a nemzetiségi támogatások fejezeti kezelésű előirányzat felhasználása során lebonyolító szervként az Alapkezelőt igénybe veheti.
+## 13. §[^9] A Támogató a nemzetiségi támogatások fejezeti kezelésű előirányzat felhasználása során lebonyolító szervként a Támogatáskezelőt igénybe veheti.
 
 ## III. Fejezet
 
@@ -9,3 +9,5 @@
 (2) A Támogató az általa nyújtott támogatás cél szerinti felhasználását bármikor ellenőrizheti. Ha a kedvezményezett a Támogató felhívása alapján adatszolgáltatási kötelezettségének nem tesz eleget, akkor az esedékes támogatási összeg folyósítását az adatszolgáltatás teljesítéséig Támogató felfüggeszti.
 
 (3) Az e rendeletben nem szabályozott kérdésekben az államháztartásból származó támogatások igénylésre, felhasználásra, határidő számítására vonatkozó rendelkezések megfelelően irányadóak.
+
+[^9]: A 13. § a 178/2012. (VII. 26.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
