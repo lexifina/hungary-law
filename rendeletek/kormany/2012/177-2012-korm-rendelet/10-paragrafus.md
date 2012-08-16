@@ -1,5 +1,27 @@
-## 9. §[^5]
+## 9. § A Hivatal módszertani és tudásközpontként önálló elemzési, hatásvizsgálati, módszertan-fejlesztési tevékenységet végez.
 
 ## 6. A Közigazgatási és Igazságügyi Hivatal személyügyi igazgatási feladatai
 
-[^5]: A 9. § a 11. § (2) bekezdése alapján 2012. augusztus 16-án lép hatályba.
+## 10. § A Hivatal
+
+a) ellátja az integrált humánerőforrás-gazdálkodást támogató humáninformatikai rendszerre (KSzSzR) vonatkozó rendeletben meghatározott feladatait, az egységes toborzási adatbázis és a tartalékállomány egységes nyilvántartását biztosító tartinfó rendszerrel összefüggésben a vonatkozó jogszabályokban meghatározott feladatait,
+
+b) bevezeti és működteti a központi humánkontrolling rendszert,
+
+c) biztosítja a vonatkozó jogszabályban meghatározott pályázati és kiválasztási eljárásokkal összefüggő szolgáltatásokat,
+
+d) fejleszti és működteti a közigazgatási szervek munkaerő-utánpótlási igényei alapján a gyakornoki és utánpótlásprogramokat,
+
+e) módszertanilag kialakítja és fenntartja az új közigazgatási életpályát támogató továbbképzési rendszert és ellátja a minőségirányítási feladatokat,
+
+f) módszertanilag kialakítja az új közigazgatási vizsgarendszert, és ellátja a minőségirányítási feladatokat,
+
+g) módszertanilag kialakítja a vezetői képességek fejlesztését és ellátja a minőségirányítási feladatokat,
+
+h) a Nemzeti Közszolgálati Egyetem közreműködésével működteti a közigazgatásban a tudásmenedzsmentre épülő, kompetencia- és munkaköralapú továbbképzési-, vizsga-, és vezetőképzési rendszert,
+
+i) javaslatot tesz a munkakör alapú rendszerre (MAR) és támogatja annak működtetését,
+
+j) javaslatot tesz az objektív teljesítménymenedzsment és teljesítményértékelési rendszerre és támogatja annak működtetését,
+
+k) javaslatot tesz a közszolgálati életpályát támogató belső karrier- és tehetségmenedzsmentre, és módszertani támogatást nyújt a közigazgatási szervek számára.

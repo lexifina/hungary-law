@@ -1,5 +1,11 @@
-## 3–7. §[^3]
-
 ## 4. A Közigazgatási és Igazságügyi Hivatal támogatáskezelői- és közvetítői feladatai
 
-[^3]: A 3–7. § a 11. § (2) bekezdése alapján 2012. augusztus 16-án lép hatályba.
+## 8. § A Hivatal ellátja a miniszter által megjelölt, vagy jogszabály alapján kijelölt fejezeti kezelésű előirányzatok, programok pályázati és más úton történő felhasználásának előkészítésével, lebonyolításával és ellenőrzésével kapcsolatos feladatokat, amelynek keretében
+
+a) közreműködik a miniszter által megjelölt hazai források felhasználásában,
+
+b) közreműködik a megvalósuló programokkal összefüggő értékelési és ellenőrzési feladatok elvégzésében,
+
+c) közreműködik az egyes fejezetet irányító szervvel, valamint egyéb szervezetekkel kötött megállapodásban foglaltak alapján fejezeti kezelésű előirányzataikból, valamint egyéb forrásból meghirdetett normatívák, pályázatok, ösztöndíjak és egyéb támogatások lebonyolításában,
+
+d) közreműködik az európai uniós forrásból támogatott fejlesztések tervezésében, előkészítésében, megvalósításában, elszámolásában és a fejlesztések lezárásában.

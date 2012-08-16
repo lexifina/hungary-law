@@ -1,5 +1,7 @@
-## 1. §[^1]
-
 ## 2. A Közigazgatási és Igazságügyi Hivatal vezetői
 
-[^1]: Az 1. § a 11. § (2) bekezdése alapján 2012. augusztus 16-án lép hatályba.
+2. § (1) A Hivatalt elnök vezeti.
+
+(2) A Hivatal elnökhelyetteseit és igazgatóit az elnök javaslatára a miniszter nevezi ki és menti fel. Az elnökhelyettesek és az igazgatók felett – a kinevezés, a felmentés, az illetmény megállapítása kivételével – a munkáltatói jogköröket az elnök gyakorolja.
+
+(3) Az igazgató minisztériumi főosztályvezetői besorolású és illetményű kormánytisztviselő.
