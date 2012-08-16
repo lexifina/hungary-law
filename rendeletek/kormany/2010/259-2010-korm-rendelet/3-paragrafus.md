@@ -1,9 +1,15 @@
-## 2. § Ha jogszabály vagy kormányhatározat az Oktatási és Kulturális Minisztérium Támogatáskezelő Igazgatóságát említi, azon az Alapkezelőt kell érteni.
+## 1–2. §[^1]
 
-## 2. Kormányzati Személyügyi Szolgáltató és Képzési Központ
+## 2.[^2] Emberi Erőforrás Támogatáskezelő
 
-3. § (1) A Kormányzati Személyügyi Szolgáltató és Képzési Központ (a továbbiakban: KSZK) a miniszter irányítása alatt álló központi hivatal.
+3. §[^3] (1) Az Emberi Erőforrás Támogatáskezelő (a továbbiakban: Támogatáskezelő) az emberi erőforrások minisztere irányítása alatt álló központi hivatal.
 
-(2) A KSZK önállóan működő és gazdálkodó központi költségvetési szerv.
+(2) A Támogatáskezelő főigazgatóját az emberi erőforrások minisztere határozatlan időre nevezi ki. A helyettesek és az igazgatók felett a munkáltatói jogköröket a Támogatáskezelő főigazgatója gyakorolja.
 
-(3) A KSZK vezetőjét a miniszter határozatlan időre nevezi ki. A miniszter jogosult továbbá a KSZK vezetőjének felmentésére és a vezető felett a munkáltatói jogok gyakorlására.
+(3) Az igazgató minisztériumi főosztályvezetői besorolású és illetményű kormánytisztviselő.
+
+(4) A Támogatáskezelő ellátja az emberi erőforrások minisztere által megjelölt, vagy jogszabály alapján kijelölt fejezeti kezelésű előirányzatok, ösztöndíjak és más programok pályázati, illetve más úton történő felhasználásának előkészítésével, lebonyolításával és ellenőrzésével kapcsolatos feladatokat, valamint – szükség szerint – közreműködik az európai uniós forrásból támogatott fejlesztések tervezésében, előkészítésében, megvalósításában, elszámolásában és lezárásában.
+
+[^1]: Az 1–2. §-t a 177/2012. (VII. 26.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^2]: A 3. §-t megelőző alcím szövege a 178/2012. (VII. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^3]: A 3. § a 178/2012. (VII. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
