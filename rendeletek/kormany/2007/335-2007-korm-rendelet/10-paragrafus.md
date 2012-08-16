@@ -24,6 +24,7 @@ j) a Nemzeti Fejlesztési Ügynökség elnöke,
 
 k) az Országgyűlés Hivatalának vezetője, valamint
 
-l) az ECOSTAT Kormányzati Hatásvizsgálati Központ főigazgatója.
+l)[^27] a Közigazgatási és Igazságügyi Hivatal vezetője.
 
 [^26]: A 10. § az 55/2012. (III. 30.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^27]: A 10. § l) pontja a 178/2012. (VII. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
