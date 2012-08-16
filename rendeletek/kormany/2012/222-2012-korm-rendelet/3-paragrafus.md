@@ -1,7 +1,3 @@
-## „(5) Ha a lebonyolító szerv az Út a tudományhoz alprogramban támogatott közoktatási intézmények számára szakmai találkozót szervez, annak részvételi költségei a támogatás terhére elszámolhatóak a pályázati kiírásban meghatározottak szerint.”
+3. §[^3]
 
-3. § (1) A Rendelet 4. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Az esélyegyenlőségi ösztöndíjak esetében a közoktatási intézmény a pályázatot a lebonyolító szerv által működtetett elektronikus felületen (a továbbiakban: ellenőrzött adatrögzítési felület) rögzíti. A közoktatási intézmény a lebonyolító szerv által postai úton megküldött azonosítót felhasználva lép be az ellenőrzött adatrögzítési felületre. A közoktatási intézmény a pályázatot egy példányban postai úton is megküldi a lebonyolító szerv részére. Ha a postai úton továbbított pályázaton nem szerepel a tanuló vagy a mentor e rendeletben meghatározottak szerinti aláírása, a közoktatási intézmény képviselőjének aláírása, vagy az intézmény körbélyegzőjének lenyomata, a lebonyolító szerv 10 munkanap határidő tűzésével hiánypótlási felhívást bocsát ki. Hiánypótlásnak egy alkalommal van helye, a határidő elmulasztása esetén igazolásnak helye nincs. Az olyan pályázatot, amelynek postai úton továbbított példányát az ellenőrzött adatrögzítési felületen nem rögzítették, vagy az nem az ellenőrzött adatrögzítési felületen rögzítettek nyomtatott példánya, a lebonyolító szerv további bírálat nélkül elutasítja.”
-
-(2) A Rendelet 4. § (4b) bekezdése helyébe a következő rendelkezés lép:
+[^3]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

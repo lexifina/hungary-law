@@ -1,3 +1,3 @@
-## 6. § A Rendelet 9. § (15) bekezdése helyébe a következő rendelkezés lép:
+7. §[^7]
 
-## „(15) Mentorváltás esetén a korábbi mentor köteles az általa a mentorváltás időpontjáig vezetett, a 7. § (1) bekezdés f) pontjában meghatározott előrehaladási naplót a közoktatási intézménynek átadni, amelyet az a (9) bekezdésben meghatározottak szerint továbbít a lebonyolító szervnek.”
+[^7]: A 6–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
