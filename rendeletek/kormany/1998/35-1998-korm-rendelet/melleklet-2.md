@@ -1,4 +1,4 @@
-## 2. függelék[^49]
+## 2. függelék[^58]
 
 ## JEGYZŐKÖNYV
 
@@ -84,18 +84,18 @@
 
 ## vizsgáztató bizottság elnöke
 
-## 3. függelék[^50]
+## 3. függelék[^59]
 
 ## VIZSGANYILVÁNTARTÓ KÖNYV
 
 | VIZSGANYILVÁNTARTÓ KÖNYV |
 
-| Sor- szám | Vizsgázó neve, szül. helye, ideje, anyja neve | Munkáltató neve, címe | A bizonyítvány | Megjegyzés |
+| Sor- szám | Vizsgázó neve, szül. helye, ideje, anyja neve | Munkáltató neve, címe | A bizonyítvány | Vizsgabizottság tagjainak megnevezés |
 
 | minősítése | kelte |
 
-2. számú melléklet a 35/1998. (II. 27.) Korm. rendelethez[^51]
+2. számú melléklet a 35/1998. (II. 27.) Korm. rendelethez[^60]
 
-[^49]: Az 1. számú melléklet 2. számú függeléke a 126/2011. (VII. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^50]: Az 1. számú melléklet 3. számú függeléke a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^51]: A 2. számú melléklet a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^58]: Az 1. számú melléklet 2. számú függeléke a 126/2011. (VII. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^59]: Az 1. számú melléklet 3. számú függeléke a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított, a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés j) pontja szerint módosított szöveg.
+[^60]: A 2. számú melléklet a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított, a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés k) pontja szerint módosított szöveg.

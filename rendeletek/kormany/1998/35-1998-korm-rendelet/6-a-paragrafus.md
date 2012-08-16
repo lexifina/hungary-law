@@ -1,15 +1,20 @@
-6/A. §[^25] (1) A szakvizsgaszervező a szakvizsgára jelentkezők számára – az eredményes felkészülés céljából – a kötelező és a választott vizsgatárgyból az NKI által kidolgozott és az OKV elnöksége által jóváhagyott program szerint az OKV tagjai által tartott felkészítő tanfolyamot szervez.
+6/A. §[^29] (1)[^30] A szakvizsgaszervező a szakvizsgára jelentkezők számára – az eredményes felkészülés céljából – a kötelező és a választott vizsgatárgyból az NKE által kidolgozott program szerint az OKV tagjai által tartott felkészítő tanfolyamot szervez.
 
 (2) A programban meg kell határozni a tanfolyam összóraszámát, az alkalmazott módszereket, az egy-egy vizsgatárgyra eső óraszámot, az ismeret-ellenőrzés módját, az egy felkészítő tanfolyamra beiskolázhatók létszámát.
 
-(3) A munkáltatója hozzájárulásával részvételi szándékát a jelentkezési lapon jelző köztisztviselő köteles részt venni a felkészítő tanfolyamon, azonban a felkészítő tanfolyamon történő részvétel ez esetben sem feltétele a szakvizsga letételének. Ha adott vizsgatárgyból húsz vagy annál több köztisztviselő jelezte felkészítő tanfolyamon való részvételét, a vizsgaszervező köteles a felkészítő tanfolyamot megszervezni.
+(3)[^31] A vizsgázó a felkészítő tanfolyamon történő részvételi szándékát munkáltatója hozzájárulásával a jelentkezési lapon jelzi. A felkészítő tanfolyamon történő részvétel nem feltétele a szakvizsga letételének. Ha adott vizsgatárgyból húsz vagy annál több köztisztviselő jelezte felkészítő tanfolyamon való részvételét, a szakvizsgaszervező köteles a felkészítő tanfolyamot megszervezni.
 
 (4) Ha az adott vizsgatárgyból a vizsgára jelentkezettek száma nem éri el a húsz főt és a vizsgaszervező úgy dönt, hogy nem szervezi meg a felkészítő tanfolyamot, akkor a vizsgaszervező köteles tájékoztatni a köztisztviselő munkahelyéhez legközelebbi, adott tárgyból induló felkészítő tanfolyamokról az azon való részvételi szándékukat jelző köztisztviselőket.
 
-(5) A vizsgaszervező a munkáltató kérelmére a felkészítő tanfolyamot követően írásban tájékoztatja a munkáltatót a köztisztviselő tanfolyamon való részvételéről.
+(5)[^32] A szakvizsgaszervező a munkáltató kérelmére a felkészítő tanfolyamot követően írásban tájékoztatja a munkáltatót a vizsgázó tanfolyamon való részvételéről.
 
-(6) A munkáltató a felkészítő tanfolyamon részvételre kötelezett köztisztviselőt a felkészítő tanfolyam időtartamára köteles mentesíteni a munkavégzés alól, aki erre az időre illetményére jogosult. A munkavégzés alól mentesítés idejére járó illetményét a munkáltató levonja annak a felkészítő tanfolyamra kötelezett köztisztviselőnek az illetményéből, aki önhibájából nem vesz részt a felkészítő tanfolyamon.
+(6)[^33] A munkáltató a felkészítő tanfolyamon résztvevő vizsgázót a felkészítő tanfolyam időtartamára köteles mentesíteni a munkavégzés alól, aki erre az időre illetményére jogosult. A munkavégzés alól mentesítés idejére járó illetményét a munkáltató levonja annak vizsgázónak az illetményéből, aki önhibájából nem vesz részt a felkészítő tanfolyamon.
 
-(7) A munkáltató a felkészítő tanfolyam időtartamával megegyező időtartamban mentesíti a köztisztviselőt a munkavégzési kötelezettsége alól, feltéve, hogy a köztisztviselő a jelentkezési lapon jelezte a felkészítő tanfolyamon való részvételi szándékát és a munkáltatója ahhoz nem járult hozzá, vagy a köztisztviselő felkészítő tanfolyamon való részvételéhez hozzájárult, de a (4) bekezdésben foglalt okból nem került sor a felkészítő tanfolyam megszervezésre. A köztisztviselőt a szakvizsga időpontját megelőző, általa előzetesen bejelentett munkanapokon kell a munkavégzési kötelezettség alól mentesíteni. A köztisztviselő a mentesítés idejére illetményére jogosult.
+(7)[^34] A munkáltató a felkészítő tanfolyam időtartamával megegyező időtartamban mentesíti a vizsgázót a munkavégzési kötelezettsége alól, feltéve, hogy a vizsgázó a jelentkezési lapon jelezte a felkészítő tanfolyamon való részvételi szándékát és a munkáltatója ahhoz nem járult hozzá. A vizsgázót a szakvizsga időpontját megelőző, általa előzetesen bejelentett munkanapokon kell a munkavégzési kötelezettség alól mentesíteni. A köztisztviselő a mentesítés idejére illetményére jogosult.
 
-[^25]: A 6/A. §-t a 107/2001. (VI. 21.) Korm. rendelet 6. §-a iktatta be, szövege a 126/2011. (VII. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^29]: A 6/A. §-t a 107/2001. (VI. 21.) Korm. rendelet 6. §-a iktatta be, szövege a 126/2011. (VII. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^30]: A 6/A. § (1) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 14. § (6) bekezdésével megállapított szöveg.
+[^31]: A 6/A. § (3) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 14. § (7) bekezdésével megállapított szöveg.
+[^32]: A 6/A. § (5) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
+[^33]: A 6/A. § (6) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
+[^34]: A 6/A. § (7) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
