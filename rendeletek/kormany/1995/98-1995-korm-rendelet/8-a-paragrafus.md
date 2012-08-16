@@ -4,11 +4,11 @@
 
 a) a Szakszolgálatnak a Szakszolgálat vezetője által kijelölt munkatársa;
 
-b)[^23] a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálata arra kijelölt képviselője;
+b)[^23] a Közigazgatási és Igazságügyi Hivatal arra kijelölt képviselője;
 
 c) az állami vagyonkezelő szervezet képviselője.
 
 (3) A megsemmisítésre csak a bizottság valamennyi tagjának jelenléte esetén kerülhet sor.
 
 [^22]: A 8/A. §-t a 27/2007. (II. 28.) Korm. rendelet 5. §-a iktatta be.
-[^23]: A 8/A. § (2) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^23]: A 8/A. § (2) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 27. §-a, a 178/2012. (VII. 26.) Korm. rendelet 17. §-a szerint módosított szöveg.
