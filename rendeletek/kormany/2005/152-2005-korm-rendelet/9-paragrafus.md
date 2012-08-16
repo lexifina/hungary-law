@@ -1,10 +1,12 @@
+## 8. §[^55]
+
 9. § (1) Az esélyegyenlőségi ösztöndíjak esetében
 
 a) a tanuló ösztöndíjban és – nem pénzügyi – mentori támogatásban;
 
 b) a mentor ösztöndíjban
 
-részesül [a továbbiakban a) és b) pontok együtt: ösztöndíjasok].
+## részesül [a továbbiakban a) és b) pontok együtt: ösztöndíjasok].
 
 (2)[^56] A mentor ösztöndíjának a pályázati kiírásban meghatározott részére – a (3) bekezdésben foglaltakat kivéve – akkor válik jogosulttá, ha
 
@@ -54,6 +56,7 @@ cb) sikeres szakmai vizsgát tesz és az előző tanév végi tanulmányi átlag
 
 (15)[^70] Mentorváltás esetén a korábbi mentor köteles az általa a mentorváltás időpontjáig vezetett, a 7. § (1) bekezdés f) pontjában meghatározott előrehaladási naplót a közoktatási intézménynek átadni, amelyet az a (9) bekezdésben meghatározottak szerint továbbít a lebonyolító szervnek.
 
+[^55]: A 8. §-t a 222/2012. (VIII. 15.) Korm. rendelet 13. § (1) bekezdés e) pontja hatályon kívül helyezte.
 [^56]: A 9. § (2) bekezdése a 143/2011. (VII. 21.) Korm. rendelet 7. §-ával megállapított, nyitó szövegrésze a 222/2012. (VIII. 15.) Korm. rendelet 12. § h) pontja szerint módosított szöveg.
 [^57]: A 9. § (2a) bekezdését a 143/2011. (VII. 21.) Korm. rendelet 7. §-a iktatta be, szövege a 222/2012. (VIII. 15.) Korm. rendelet 12. § h) pontja szerint módosított szöveg.
 [^58]: A 9. § új (3) bekezdését a 77/2006. (IV. 4.) Korm. rendelet 6. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3)–(11) bekezdés számozását (4)–(12) bekezdésre változtatva. A 9. § (3) bekezdése a 143/2011. (VII. 21.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 15. §-a alapján a 2011. július 24-ét követően meghirdetett pályázatokra és az azt követően létrejött ösztöndíjas jogviszonyokra kell alkalmazni, a 2011/2012. tanévben a továbbfutó ösztöndíjas mentorokra is a 2011/2012. tanévre kiírt pályázati feltételek vonatkoznak.

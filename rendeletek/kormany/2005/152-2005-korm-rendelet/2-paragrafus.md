@@ -1,4 +1,4 @@
-2. § (1)[^3] Az Ösztöndíjprogram működtetése a társadalmi felzárkózásért felelős miniszter és az oktatásért felelős miniszter feladata. Az Ösztöndíjprogram lebonyolítása a Wekerle Sándor Alapkezelő (a továbbiakban: lebonyolító szerv) bevonásával történik.
+2. § (1)[^3] Az Ösztöndíjprogram működtetése a társadalmi felzárkózásért felelős miniszter és az oktatásért felelős miniszter feladata. Az Ösztöndíjprogram lebonyolítása az Emberi Erőforrás Támogatáskezelő (a továbbiakban: lebonyolító szerv) bevonásával történik.
 
 (2)[^4] Az 1. § (2) bekezdés a)–d) pontja szerinti Ösztöndíjprogram forrását a központi költségvetés Emberi Erőforrások Minisztériuma, továbbá Nemzetgazdasági Minisztérium fejezeteibe kell tervezni. A társadalmi felzárkózásért felelős miniszter dönt az esélyegyenlőségi ösztöndíjak összegéről és a rendelkezésre álló forrásnak az Ösztöndíjprogram alprogramjai közötti megosztásáról Az oktatásért felelős miniszter dönt az Út a tudományhoz alprogram szerinti támogatás és igényelhető ösztöndíj összegéről.
 
@@ -14,7 +14,7 @@ b) az elszámolható és el nem számolható költségek körét.
 
 (5)[^8] Ha a lebonyolító szerv az Út a tudományhoz alprogramban támogatott közoktatási intézmények számára szakmai találkozót szervez, annak részvételi költségei a támogatás terhére elszámolhatóak a pályázati kiírásban meghatározottak szerint.
 
-[^3]: A 2. § (1) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 12. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (2) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § (3) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (4) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

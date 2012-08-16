@@ -4,7 +4,7 @@ a) ösztöndíj-támogatási és
 
 b) önköltség-támogatási
 
-komponensből áll.
+## komponensből áll.
 
 (2) Az ösztöndíj-támogatási komponens keretében pályázatot nyújthat be az a magyar állampolgárságú hallgató, aki nappali tagozatra magyar állami ösztöndíjas, magyar állami részösztöndíjas vagy önköltséges képzésre Magyarország területén működő felsőoktatási intézménybe alap-, mester vagy osztatlan képzésre a pályázat kiírásának évében jelentkezését beadta, amennyiben az adott szintű végzettséggel még nem rendelkezik, vagy azonos szintű más képzésben nem vesz részt és a felsőoktatásról szóló 2005. évi CXXXIX. törvény (a továbbiakban: Ftv.), illetve a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) szerint hátrányos vagy halmozottan hátrányos helyzetűnek minősül, vagy utógondozásban, utógondozói ellátásban részesül.
 
