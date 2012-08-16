@@ -154,13 +154,13 @@ f) Vidékfejlesztési Minisztérium.
 
 2.1. A központi szolgáltatási megállapodás alapján igénybevételre kötelezett egyéb költségvetési szervek:
 
-a) ECOSTAT Kormányzati Hatásvizsgálati Központ,
+a)[^4]
 
 b) Egyenlő Bánásmód Hatóság,
 
 c) Közbeszerzési és Ellátási Főigazgatóság,
 
-d) Nemzeti Közigazgatási Intézet.
+d)[^5]
 
 2.2. Egyedi szolgáltatási megállapodás és közvetlen finanszírozás útján igénybevételre kötelezett egyéb költségvetési szervek és 100%-os állami tulajdonú gazdasági társaságok:
 
@@ -172,7 +172,7 @@ c) NT Nemzetközi Technológiai Nonprofit Közhasznú Kft.,
 
 d) Nemzeti Eszközkezelő Zrt.,
 
-e) Közigazgatási és Igazságügyi Minisztérium Vagyonkezelő Központ,
+e)[^6] Közigazgatási és Igazságügyi Hivatal,
 
 f) Nemzeti Államigazgatási Központ,
 
@@ -183,3 +183,6 @@ h) Bethlen Gábor Alapkezelő Zrt.,
 i) Közpolitikai Kutatások Intézete.
 
 [^3]: A 2. melléklet a 72/2012. (IV. 12.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. melléklet 2.1. pont a) pontját a 178/2012. (VII. 26.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^5]: A 2. melléklet 2.1. pont d) pontját a 178/2012. (VII. 26.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^6]: A 2. melléklet 2.2. pont e) alpontja a 178/2012. (VII. 26.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
