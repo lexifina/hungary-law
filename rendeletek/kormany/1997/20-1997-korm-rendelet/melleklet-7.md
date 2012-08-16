@@ -32,6 +32,6 @@
 
 ## c) a hátrányos helyzetű és halmozottan hátrányos helyzetű gyermekekkel és tanulókkal összefüggő statisztikai adatokat.
 
-7. számú melléklet a 20/1997. (II. 13.) Korm. rendelethez[^134]
+7. számú melléklet a 20/1997. (II. 13.) Korm. rendelethez[^138]
 
-[^134]: A 7. számú mellékletet a 119/2006. (V. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 229/2009. (X. 16.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^138]: A 7. számú mellékletet a 119/2006. (V. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 229/2009. (X. 16.) Korm. rendelet 11. §-ával megállapított szöveg.
