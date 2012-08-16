@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-212-20-
 | 2012-07-07 | 2010-212-20-22.26 | 151/2012. (VII. 6.) Korm. rendelet |
 | 2012-07-20 | 2010-212-20-22.27 | 162/2012. (VII. 19.) Korm. rendelet |
 | 2012-07-27 | 2010-212-20-22.28 | 174/2012. (VII. 26.) Korm. rendelet |
+| 2012-08-16 | 2010-212-20-22.29 | 178/2012. (VII. 26.) Korm. rendelet |

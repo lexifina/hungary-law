@@ -1,4 +1,4 @@
-## 9/A. §[^36] A miniszter a Közgyűjteményi Ellátó Szervezet útján – amely e tevékenységéhez a HUMAN-JÖVŐ 2000 Egészségmegőrző és Oktatási Nonprofit Közhasznú Korlátolt Felelősségű Társaság szolgáltatásait veszi igénybe – működteti a központi közigazgatás integrált üdültetési rendszerét, gondoskodik az integrált üdültetési rendszerhez tartozó – az állami vagyon felügyeletéért felelős miniszter egyetértésével kijelölt – üdülőingatlanok üzemeltetéséről.
+## 9/A. §[^36] A miniszter a Közigazgatási és Igazságügyi Hivatal útján – amely e tevékenységéhez a HUMAN-JÖVŐ 2000 Egészségmegőrző és Oktatási Nonprofit Közhasznú Korlátolt Felelősségű Társaság szolgáltatásait veszi igénybe – működteti a központi közigazgatás integrált üdültetési rendszerét, gondoskodik az integrált üdültetési rendszerhez tartozó – az állami vagyon felügyeletéért felelős miniszter egyetértésével kijelölt – üdülőingatlanok üzemeltetéséről.
 
 ## III. Fejezet
 
@@ -58,7 +58,7 @@ c) előkészíti a polgári hírszerzési tevékenység irányításával össze
 
 d) a miniszterelnök felkérése alapján megválaszolja a polgári hírszerzési tevékenység irányításával összefüggő interpellációkat, kérdéseket, azonnali kérdéseket.
 
-[^36]: A 9/A. §-t az 53/2011. (III. 31.) Korm. rendelet 4. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 4. § (3) és (9)–(11) bekezdését.
+[^36]: A 9/A. §-t az 53/2011. (III. 31.) Korm. rendelet 4. § (5) bekezdése iktatta be, szövege a 178/2012. (VII. 26.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
 [^37]: A III. Fejezet címe a 118/2012. (VI. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^38]: A 10. § a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (7) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^39]: A 10. § i) pontja a 267/2010. (XII. 3.) Korm. rendelet 4. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

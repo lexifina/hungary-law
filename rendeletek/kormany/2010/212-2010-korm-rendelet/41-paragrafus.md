@@ -1,18 +1,18 @@
 ## VII. Fejezet
 
-## AZ EMBERI ERŐFORRÁSOK MINISZTERÉNEK FELADAT- ÉS HATÁSKÖRE[^155]
+## AZ EMBERI ERŐFORRÁSOK MINISZTERÉNEK FELADAT- ÉS HATÁSKÖRE[^151]
 
-## 41. §[^156] Az emberi erőforrások minisztere (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
+## 41. §[^152] Az emberi erőforrások minisztere (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
 
 a) a családpolitikáért,
 
 b) az egészségbiztosításért,
 
-c)[^157]
+c)[^153]
 
 d) az egészségügyért,
 
-e)[^158]
+e)[^154]
 
 f) a gyermek- és ifjúságpolitikáért,
 
@@ -20,7 +20,7 @@ g) a gyermekek és az ifjúság védelméért,
 
 h) a kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért,
 
-i)[^159] az oktatásért,
+i)[^155] az oktatásért,
 
 j) a kultúráért,
 
@@ -28,31 +28,31 @@ k) a sportpolitikáért,
 
 l) a szociál- és nyugdíjpolitikáért,
 
-m)[^160] a társadalmi esélyegyenlőség előmozdításáért és
+m)[^156] a társadalmi esélyegyenlőség előmozdításáért és
 
-n)[^161] a kormányzati tudománypolitikáért,
+n)[^157] a kormányzati tudománypolitikáért,
 
-o)[^162] társadalmi felzárkózásért,
+o)[^158] társadalmi felzárkózásért,
 
-p)[^163] társadalmi és civil kapcsolatok fejlesztéséért,
+p)[^159] társadalmi és civil kapcsolatok fejlesztéséért,
 
-q)[^164] egyházakkal való kapcsolattartás koordinációjáért,
+q)[^160] egyházakkal való kapcsolattartás koordinációjáért,
 
-r)[^165] nemzetiségpolitikáért,
+r)[^161] nemzetiségpolitikáért,
 
-s)[^166] romák társadalmi integrációjáért
+s)[^162] romák társadalmi integrációjáért
 
 felelős tagja.
 
-[^155]: A VII. Fejezet címe a 94/2012. (V. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^156]: A 41. § nyitó szövegrésze a 94/2012. (V. 11.) Korm. rendelet 7. § l) pontja szerint módosított szöveg.
-[^157]: A 41. § c) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (17) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^158]: A 41. § e) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (17) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^159]: A 41. § i) pontja a 267/2010. (XII. 3.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^160]: A 41. § m) pontja a 267/2010. (XII. 3.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^161]: A 41. § n) pontja a 267/2010. (XII. 3.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^162]: A 41. § o) pontját a 94/2012. (V. 11.) Korm. rendelet 3. §-a iktatta be.
-[^163]: A 41. § p) pontját a 94/2012. (V. 11.) Korm. rendelet 3. §-a iktatta be.
-[^164]: A 41. § q) pontját a 94/2012. (V. 11.) Korm. rendelet 3. §-a iktatta be.
-[^165]: A 41. § r) pontját a 94/2012. (V. 11.) Korm. rendelet 3. §-a iktatta be.
-[^166]: A 41. § s) pontját a 94/2012. (V. 11.) Korm. rendelet 3. §-a iktatta be.
+[^151]: A VII. Fejezet címe a 94/2012. (V. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^152]: A 41. § nyitó szövegrésze a 94/2012. (V. 11.) Korm. rendelet 7. § l) pontja szerint módosított szöveg.
+[^153]: A 41. § c) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (17) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^154]: A 41. § e) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (17) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^155]: A 41. § i) pontja a 267/2010. (XII. 3.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^156]: A 41. § m) pontja a 267/2010. (XII. 3.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^157]: A 41. § n) pontja a 267/2010. (XII. 3.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^158]: A 41. § o) pontját a 94/2012. (V. 11.) Korm. rendelet 3. §-a iktatta be.
+[^159]: A 41. § p) pontját a 94/2012. (V. 11.) Korm. rendelet 3. §-a iktatta be.
+[^160]: A 41. § q) pontját a 94/2012. (V. 11.) Korm. rendelet 3. §-a iktatta be.
+[^161]: A 41. § r) pontját a 94/2012. (V. 11.) Korm. rendelet 3. §-a iktatta be.
+[^162]: A 41. § s) pontját a 94/2012. (V. 11.) Korm. rendelet 3. §-a iktatta be.
