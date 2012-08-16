@@ -4,6 +4,8 @@
 
 (2) A miniszternek az (1) bekezdés szerinti tevékenységében közreműködik
 
-a) a Nemzeti Közigazgatási Intézet (a továbbiakban: NKI)
+a)[^1] a Közigazgatási és Igazságügyi Hivatal (a továbbiakban: Hivatal)
 
 b) és a Program Irányító Bizottság (a továbbiakban: PIB).
+
+[^1]: A 2. § (2) bekezdés a) pontja a 178/2012. (VII. 26.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

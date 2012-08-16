@@ -4,7 +4,7 @@
 
 (3) A szakmai gyakorlat egy része nemzetközi közigazgatási mobilitási megállapodás keretében külföldi közigazgatási szervnél töltött gyakorlatot is magában foglal.
 
-(4) A szakmai gyakorlattal kapcsolatos jogokat és kötelezettségeket az ösztöndíjas, a befogadó intézmény és az NKI által aláírt ösztöndíjas szerződés határozza meg.
+(4)[^8] A szakmai gyakorlattal kapcsolatos jogokat és kötelezettségeket az ösztöndíjas, a befogadó intézmény és a Hivatal által aláírt ösztöndíjas szerződés határozza meg.
 
 (5) Az ösztöndíjas szerződésnek tartalmaznia kell:
 
@@ -21,3 +21,5 @@ e) a szakmai tapasztalatszerzést segítő, a befogadó intézmény kormánytisz
 f) az ösztöndíjas szakmai gyakorlattal kapcsolatos jogait és kötelezettségeit,
 
 g) az adatkezelésre vonatkozó felhatalmazást.
+
+[^8]: A 8. § (4) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.

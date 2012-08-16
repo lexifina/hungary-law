@@ -1,4 +1,4 @@
-4. § (1) Az NKI teljes körű koordinációs, kapcsolattartási, információs és pénzügyi-ügyviteli feladatokat lát el, ennek keretében
+4. § (1)[^3] A Hivatal teljes körű koordinációs, kapcsolattartási, információs és pénzügyi-ügyviteli feladatokat lát el, ennek keretében
 
 a) kidolgozza és a miniszter jóváhagyását követően közzéteszi a pályázati felhívást és az ösztöndíj program működési szabályzatát,
 
@@ -28,4 +28,7 @@ k) monitoring tevékenységet végez a program során a képzés, a gyakorlat é
 
 l) szervezi az ösztöndíjasok külföldi gyakorlatra való elhelyezését, nemzetközi befogadó intézményi partnerkapcsolatokat épít és koordinál.
 
-(2) Az ösztöndíj program működtetésének pénzügyi fedezetét az NKI költségvetésében kell tervezni.
+(2)[^4] Az ösztöndíj program működtetésének pénzügyi fedezetét a Hivatal költségvetésében kell tervezni.
+
+[^3]: A 4. § (1) bekezdés nyitó szövegrésze a 178/2012. (VII. 26.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^4]: A 4. § (2) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
