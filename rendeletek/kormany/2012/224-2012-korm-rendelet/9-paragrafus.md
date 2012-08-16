@@ -1,0 +1,1 @@
+## „(3) Az (1) bekezdésben meghatározott igénylés alapján a Diákhitel szervezet dönt a célzott kamattámogatásról, kérelemnek helyt adó döntésében megjelölve az igényjogosultság kezdő és várható utolsó napját. A Diákhitel szervezet döntését írásban közli a hitelfelvevővel.”
