@@ -44,7 +44,7 @@
 
 | 8. | Közigazgatási és Igazságügyi Minisztérium | Cégközzététel és cégnyilvántartás bevételei miatti követelések és kötelezettségek. |
 
-| 9. | Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálata | Kibocsátott kárpótlási jegyek be nem váltott állománya. |
+| 9. | Közigazgatási és Igazságügyi Hivatal | Kibocsátott kárpótlási jegyek be nem váltott állománya. |
 
 | 10. | Egyenlő Bánásmód Hatóság | Bírságbevételek miatti követelések és kötelezettségek. |
 
