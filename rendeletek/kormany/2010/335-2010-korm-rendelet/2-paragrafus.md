@@ -1,4 +1,4 @@
-## 1. § A rendelet hatálya a Miniszterelnökségre, a minisztériumokra és a Nemzeti Közigazgatási Intézetre (a továbbiakban: NKI), valamint az e szervekkel jogviszonyban álló foglalkoztatottakra terjed ki.
+## 1. §[^1] A rendelet hatálya a Miniszterelnökségre, a minisztériumokra és a Közigazgatási és Igazságügyi Hivatalra (a továbbiakban: Hivatal), valamint az e szervekkel jogviszonyban álló foglalkoztatottakra terjed ki.
 
 ## Értelmező rendelkezések
 
@@ -14,7 +14,7 @@
 
 5. Interfész: két funkcionális egység összekapcsolhatóságát és együttműködését biztosító előírások összessége, a KSzSzR azon eleme, amely biztosítja a külső informatikai rendszerekkel történő kommunikációt (elektronikus adatátadás–átvétel);
 
-6. Munkáltató: a Miniszterelnökség, a minisztériumok és az NKI;
+6.[^2] Munkáltató: a Miniszterelnökség, a minisztériumok és a Hivatal;
 
 7. Állománytábla: a munkáltató szervezeti felépítéséhez igazodó, az egyes szervezeti egységekhez rendelt álláshelyek és az álláshelyekhez szükséges ismérvek összessége;
 
@@ -35,3 +35,6 @@
 15. Jogosultság: egy adott szerepkört betöltő felhasználó számára biztosított, a KSzSzR használatát lehetővé tévő egyes jogok (felhatalmazások) összessége;
 
 16. Értékkészlet: a KSzSzR-ben rögzítendő egyes adatokra jellemző, választható elemek halmaza.
+
+[^1]: Az 1. § a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 2. § 6. pontja a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
