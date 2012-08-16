@@ -4,9 +4,9 @@
 
 (2)[^16]
 
-(3) 2012. augusztus 15. napján hatályát veszti a közoktatásról szóló 1993. évi LXXIX. törvény végrehajtásáról szóló 20/1997. (II. 13.) Korm. rendelet 1–3/A. §-a.
+(3)[^17]
 
-Melléklet a 362/2011. (XII. 30.) Korm. rendelethez[^17]
+Melléklet a 362/2011. (XII. 30.) Korm. rendelethez[^18]
 
 Igazolás
 
@@ -75,4 +75,5 @@ megbízott személynek az aláírása
 [^14]: A 44. § a 41. § (4) bekezdése alapján 2014. március 31-én lép hatályba.
 [^15]: A 45. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^16]: A 45. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A melléklet az 59/2012. (III. 30.) Korm. rendelet 1. § (6), (7) és (8) bekezdése szerint módosított szöveg.
+[^17]: A 45. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A melléklet az 59/2012. (III. 30.) Korm. rendelet 1. § (6), (7) és (8) bekezdése szerint módosított szöveg.
