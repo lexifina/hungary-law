@@ -36,7 +36,7 @@ bg) a gazdasági, az ügyviteli, a műszaki, a személyzeti vezetői megbízás.
 
 (3)[^33] Az intézményvezetői pályázati eljárás előkészítésével összefüggő előkészítő feladatokat – ide nem értve a pályázati feltételek meghatározását – a közoktatási intézményt fenntartó önkormányzat jegyzője, főjegyzője, más fenntartó esetén a munkáltató megbízottja (a továbbiakban: pályáztató) látja el.
 
-(4)[^34] Az intézményvezetői magasabb vezetői megbízásra irányuló pályázati felhívást – a Kjt. 20/A. §-ának (4) bekezdésében meghatározottakon túl – az Oktatási és Kulturális Közlönyben is közzé kell, egyéb magasabb vezetői, vezetői megbízás esetén közzé lehet tenni. A pályázat benyújtásának határidejét ezekben az esetekben is a Nemzeti Közigazgatási Intézet internetes oldalán történő közzétételtől kell számítani.
+(4)[^34] Az intézményvezetői magasabb vezetői megbízásra irányuló pályázati felhívást – a Kjt. 20/A. §-ának (4) bekezdésében meghatározottakon túl – az Oktatási és Kulturális Közlönyben is közzé kell, egyéb magasabb vezetői, vezetői megbízás esetén közzé lehet tenni. A pályázat benyújtásának határidejét ezekben az esetekben is a Közigazgatási és Igazságügyi Hivatal internetes oldalán történő közzétételtől kell számítani.
 
 (5) A pályázati felhívásnak tartalmaznia kell:
 
@@ -89,7 +89,7 @@ h) a pályázat elbírálásának határidejét.
 [^31]: Az 5. § (1) bekezdés a) pont aa) pontja a 258/2011. (XII. 7.) Korm. rendelet 44. § (1) bekezdése szerint módosított szöveg.
 [^32]: Az 5. § (2) bekezdése a 125/2011. (VII. 18. ) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^33]: Az 5. § (3) bekezdése a 323/2008. (XII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.[A 258/2011. (XII. 7.) Korm. rendelet 44. § (1) bekezdésével elrendelt módosítás, amely szerint „a jegyzője, főjegyzője” szövegrész helyébe az „a jegyzője, a fővárosi főjegyző, a központ” szövegrész lép, nem vezethető át.]
-[^34]: Az 5. § (4) bekezdése a 125/2011. (VII. 18. ) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^34]: Az 5. § (4) bekezdése a 125/2011. (VII. 18. ) Korm. rendelet 1. § (2) bekezdésével megállapított, a 178/2012. (VII. 26.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^35]: Az 5. § (6) bekezdését a 323/2008. (XII. 29.) Korm. rendelet 20. § (3) bekezdése hatályon kívül helyezte.
 [^36]: Az 5. § (8) bekezdése a 98/2000. (VI. 22.) Korm. rendelet 1. §-ának (3) bekezdése, a 290/2006. (XII. 23.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.
 [^37]: Az 5. § (10) bekezdése a 290/2006. (XII. 23.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.

@@ -192,7 +192,7 @@ Pályázati adatlap
 
 3. A pályázati eljárásra vonatkozó adatok
 
-|  | A pályázat közzétételének ideje | Nemzeti Közigazgatási Intézet internetes oldala | Oktatási és Kulturális Közlöny | Helyben szokásos mód |
+|  | A pályázat közzétételének ideje | Közigazgatási és Igazságügyi Hivatal internetes oldala | Oktatási és Kulturális Közlöny | Helyben szokásos mód |
 
 |  | A pályázat beadásának határideje |  |  |  |
 
@@ -223,4 +223,4 @@ Pályázati adatlap
 [^189]: A melléklet III. rész 10. pontjának a) alpontja a 3/1997. (I. 15.) Korm. rendelet 12. §-a (7) bekezdésének d) pontjával módosított szöveg.
 [^190]: A melléklet III. része 10. pontjának c) pontját a 177/1993. (XII.19.) Korm. rendelet 9.§-a iktatta a szövegbe.
 [^191]: A mellkéklet III. rész 11. alpontját a 3/1997. (I. 15.) Korm. rendelet 12. §-a (9) bekezdésének a) pontja hatályon kívül helyezte.
-[^192]: A 2. mellékletet a 258/2011. (XII. 7.) Korm. rendelet 24. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. mellékletre változtatta.
+[^192]: A 2. mellékletet a 258/2011. (XII. 7.) Korm. rendelet 24. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. mellékletre változtatta. A 2. melléklet szövege a 178/2012. (VII. 26.) Korm. rendelet 18. §-a szerint módosított szöveg.

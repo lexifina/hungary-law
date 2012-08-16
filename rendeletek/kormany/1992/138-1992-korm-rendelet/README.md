@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-138-20-
 | 2012-03-31 | 1992-138-20-22.40 | 54/2012. (III. 30.) Korm. rendelet |
 | 2012-04-27 | 1992-138-20-22.41 | 54/2012. (III. 30.) Korm. rendelet |
 | 2012-07-01 | 1992-138-20-22.42 | 135/2012. (VI. 28.) Korm. rendelet |
+| 2012-08-16 | 1992-138-20-22.43 | 125/2011. (VII. 18. ) Korm. rendelet |
