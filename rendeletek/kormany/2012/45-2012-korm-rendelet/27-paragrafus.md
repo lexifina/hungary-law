@@ -1,4 +1,4 @@
-## 24–26. §[^4]
+## 24–26. §[^5]
 
 ## VII. Fejezet
 
@@ -12,4 +12,4 @@
 
 (4) A 30. § c) pontja 2012. december 31-én lép hatályba.
 
-[^4]: A 24–26. § a 27. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
+[^5]: A 24–26. § a 27. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
