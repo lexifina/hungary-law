@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-18-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-01-01 | 2005-18-20-0P.2 | 18/2005. (XII. 27.) IHM rendelet |
+| 2012-08-16 | 2005-18-20-0P.3 | 34/2012. (VIII. 15.) KIM rendelet |

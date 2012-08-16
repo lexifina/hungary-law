@@ -1,343 +1,373 @@
-2. melléklet a 18/2005. (XII. 27.) IHM rendelethez[^1]
+2. melléklet a 18/2005. (XII. 27.) IHM rendelethez[^7]
 
 A közzétételi egységek az 1. melléklet szerinti szervezetben
 
-I. Szervezeti, személyzeti adatok
+1. I. Szervezeti, személyzeti adatok.
 
 1.1. Kapcsolat, szervezet, vezetők
 
-Közzétételi egység: Elérhetőségi adatok
+I. Közzétételi egység: Elérhetőségi adatok
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| Hivatalos név (teljes név) |  |
+| 1. Hivatalos név (teljes név) |  |
 
-| Székhely |  |
+| 2. Székhely |  |
 
-| Postacím (postafiók szerinti címe, ha van) |  |
+| 3. Postacím (postafiók szerinti címe, ha van) |  |
 
-| Telefonszám (nemzetközi vagy belföldi számként, utóbbi esetben körzetszámmal, illetve szolgáltatás- vagy hálózatkijelölő számmal) |  |
+| 4. Telefonszám (nemzetközi vagy belföldi számként, utóbbi esetben körzetszámmal, illetve szolgáltatás- vagy hálózatkijelölő számmal) |  |
 
-| Faxszám (nemzetközi vagy belföldi számként, utóbbi esetben körzetszámmal, illetve szolgáltatás- vagy hálózatkijelölő számmal) |  |
+| 5. Faxszám (nemzetközi vagy belföldi számként, utóbbi esetben körzetszámmal, illetve szolgáltatás- vagy hálózatkijelölő számmal) |  |
 
-| Központi elektronikus levélcím |  |
+| 6. Központi elektronikus levélcím | A közvetlen elérés biztosításával. |
 
-| A honlap URL-je |  |
+| 7. A honlap URL-je |  |
 
-| Ügyfélszolgálat vagy közönségkapcsolat elérhetősége (telefonszám, telefaxszám, ügyfélfogadás helye, postacíme) | Ha több önálló ügyfélszolgálat vagy közönségkapcsolat is van (pl. szervezeti egységenként eltérő), akkor az elérhetőségi adatokat ügyfélszolgálatonként vagy közönségkapcsolatonként csoportosítva. |
+| 8. Ügyfélszolgálat vagy közönségkapcsolat elérhetősége (telefonszám, telefaxszám, ügyfélfogadás helye, postacíme) | Ha több önálló ügyfélszolgálat vagy közönségkapcsolat is van (pl. szervezeti egységenként eltérő), akkor az elérhetőségi adatokat ügyfélszolgálatonként vagy közönségkapcsolatonként csoportosítva. |
 
-| Az ügyfélszolgálati vagy közönségkapcsolati vezető neve | Ha több önálló ügyfélszolgálat vagy közönségkapcsolat is van (pl. szervezeti egységenként eltérő), akkor az elérhetőségi adatokat ügyfélszolgálatonként vagy közönségkapcsolatonként csoportosítva. |
+| 9. Az ügyfélszolgálati vagy közönségkapcsolati vezető neve | Ha több önálló ügyfélszolgálat vagy közönségkapcsolat is van (pl. szervezeti egységenként eltérő), akkor az elérhetőségi adatokat ügyfélszolgálatonként vagy közönségkapcsolatonként csoportosítva. |
 
-| Az ügyfélfogadás rendje | Ha több önálló ügyfélszolgálat vagy közönségkapcsolat is van (pl. szervezeti egységenként eltérő), akkor az elérhetőségi adatokat ügyfélszolgálatonként vagy közönségkapcsolatonként csoportosítva. |
+| 10. Az ügyfélfogadás rendje | Ha több önálló ügyfélszolgálat vagy közönségkapcsolat is van (pl. szervezeti egységenként eltérő), akkor az elérhetőségi adatokat ügyfélszolgálatonként vagy közönségkapcsolatonként csoportosítva. |
 
-Közzétételi egység: A szervezeti struktúra
+II. Közzétételi egység: A szervezeti struktúra
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A szervezeti struktúra ábrája (a szervezeti egységek és vezetőik megnevezésével) | Elérést biztosítva a szervezeti egységek feladatainak leírását tartalmazó dokumentumokhoz. Az e közzétételi egység által összefoglalt közzétételi kötelezettségek teljesíthetőek a KIETB 19. sz. ajánlásában foglalt közzétételi kötelezettségekkel együttesen, vagy az ezek alapján már közzétett adatokra hivatkozással is. |
+| 1. A szervezeti struktúra ábrája (a szervezeti egységek és vezetőik megnevezésével) | Elérést biztosítva a szervezeti egységek feladatainak leírását tartalmazó dokumentumokhoz. |
 
-Közzétételi egység: A szerv vezetői
+III. Közzétételi egység: A szerv vezetői
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A szerv vezetőjének, vezetőinek, valamint testületi szerv esetén a testületi tagok neve, beosztás megnevezése, hivatali elérhetősége (telefon, telefax, postacím, elektronikus levélcím) | Az e közzétételi egység által összefoglalt közzétételi kötelezettségek teljesíthetőek a KIETB 19. sz. ajánlásában foglalt közzétételi kötelezettségekkel együttesen, vagy az ezek alapján már közzétett adatokra hivatkozással is. |
+| 1. A szerv vezetőjének, vezetőinek, valamint testületi szerv esetén a testületi tagok neve, beosztás megnevezése, hivatali elérhetősége (telefon, telefax, postacím, elektronikus levélcím) | Az elektronikus levélcím közvetlen elérésének biztosításával. |
 
-| A szervezeti egységek vezetőinek neve, beosztás megnevezése, hivatali elérhetősége (telefon, telefax, postacím, elektronikus levélcím) | Szervezeti egységenként felsorolásszerűen. |
+| 2. A szervezeti egységek vezetőinek neve, beosztás megnevezése, hivatali elérhetősége (telefon, telefax, postacím, elektronikus levélcím) | Szervezeti egységenként felsorolásszerűen. Az elektronikus levélcím közvetlen elérésének biztosításával. |
 
 1.2. A felügyelt költségvetési szervek
 
-Közzétételi egység: A szerv irányítása, felügyelete vagy ellenőrzése alatt álló, vagy alárendeltségében működő más közfeladatot ellátó szerv
+I. Közzétételi egység: A szerv irányítása, felügyelete vagy ellenőrzése alatt álló, vagy alárendeltségében működő más közfeladatot ellátó szerv
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A szerv irányítása, felügyelete vagy ellenőrzése alatt álló, vagy alárendeltségében működő más közfeladatot ellátó szervek hivatalos neve (teljes neve), székhelye, elérhetősége (telefonszám, telefaxszám, postacím, elektronikus levélcím) |  |
+| 1. A szerv irányítása, felügyelete vagy ellenőrzése alatt álló, vagy alárendeltségében működő más közfeladatot ellátó szervek hivatalos neve (teljes neve), székhelye, elérhetősége (telefonszám, telefaxszám, postacím, elektronikus levélcím) | A szerv által alapított költségvetési szerv adatait külön közzétételi egységben kell közzétenni. Az elektronikus levélcím közvetlen elérésének biztosításával. |
 
-| A szerv irányítása, felügyelete vagy ellenőrzése alatt álló, vagy alárendeltségében működő más közfeladatot ellátó szervek honlapjának URL-je |  |
+| 2. A szerv irányítása, felügyelete vagy ellenőrzése alatt álló, vagy alárendeltségében működő más közfeladatot ellátó szervek honlapjának URL-je | A honlap közvetlen elérésének biztosításával. |
 
-| A szerv irányítása, felügyelete vagy ellenőrzése alatt álló, vagy alárendeltségében működő más közfeladatot ellátó szervek ügyfélszolgálatának vagy közönségkapcsolatának elérhetősége (telefonszám, telefaxszám, ügyfélfogadás helye, postacíme), ügyfélfogadásának rendje |  |
+| 3. A szerv irányítása, felügyelete vagy ellenőrzése alatt álló, vagy alárendeltségében működő más közfeladatot ellátó szervek ügyfélszolgálatának vagy közönségkapcsolatának elérhetősége (telefonszám, telefaxszám, ügyfélfogadás helye, postacíme), ügyfélfogadásának rendje |  |
 
 1.3. Gazdálkodó szervezetek
 
-Közzétételi egység: A szerv tulajdonában álló vagy részvételével működő gazdálkodó szervezetek
+I. Közzétételi egység: A szerv tulajdonában álló vagy részvételével működő gazdálkodó szervezetek
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| Azon gazdálkodó szervezetek neve, székhelye, elérhetősége (telefon, telefax, földrajzi hely, postacím, elektronikus levélcím), amelyek a közfeladatot ellátó szerv többségi tulajdonában állnak, illetve amelyek felett közvetlen irányítással rendelkezik |  |
+| 1. Azon gazdálkodó szervezetek neve, székhelye, elérhetősége (telefon, telefax, földrajzi hely, postacím, elektronikus levélcím), amelyek a közfeladatot ellátó szerv többségi tulajdonában állnak, illetve amelyek felett közvetlen irányítással rendelkezik |  |
 
-| A fentiek szerinti gazdálkodó szervezetek tevékenységi körének leírása |  |
+| 2. A fentiek szerinti gazdálkodó szervezetek tevékenységi körének leírása |  |
 
-| A fentiek szerinti gazdálkodó szervezetek képviselőjének neve |  |
+| 3. A fentiek szerinti gazdálkodó szervezetek képviselőjének neve |  |
 
-| A fentiek szerinti gazdálkodó szervezetekben a közfeladatot ellátó szerv részesedésének mértéke |  |
+| 4. A fentiek szerinti gazdálkodó szervezetekben a közfeladatot ellátó szerv részesedésének mértéke |  |
 
 1.4. Közalapítványok
 
-Közzétételi egység: A szerv által alapított közalapítványok
+I. Közzétételi egység: A szerv által alapított közalapítványok
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| Azon közalapítványok neve, amelyeket a közfeladatot ellátó szerv alapított, amelyek alapítói jogát ő gyakorolja | Az alapító okiratok közvetlen elérhetőségének biztosításával. |
+| 1. Azon közalapítványok neve, amelyeket a közfeladatot ellátó szerv alapított, amelyek alapítói jogát ő gyakorolja | Az alapító okiratok közvetlen elérhetőségének biztosításával. |
 
-| A fentiek szerinti közalapítványok székhelye |  |
+| 2. A fentiek szerinti közalapítványok székhelye |  |
 
-| A fentiek szerinti közalapítványok kezelő szerve tagjainak felsorolása |  |
+| 3. A fentiek szerinti közalapítványok kezelő szerve tagjainak felsorolása |  |
 
 1.5. Lapok
 
-Közzétételi egység: Lapok
+I. Közzétételi egység: Lapok
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közfeladatot ellátó szerv által alapított lapok neve |  |
+| 1. A közfeladatot ellátó szerv által alapított lapok neve |  |
 
-| A közfeladatot ellátó szerv által alapított lapok szerkesztőségének és kiadójának neve és elérhetősége (telefon, telefax, földrajzi hely, postacím, elektronikus levélcím) |  |
+| 2. A közfeladatot ellátó szerv által alapított lapok szerkesztőségének és kiadójának neve és elérhetősége (telefon, telefax, földrajzi hely, postacím, elektronikus levélcím) | Az elektronikus levélcím közvetlen elérésének biztosításával. |
 
-| A közfeladatot ellátó szerv által alapított lapok főszerkesztőjének a neve |  |
+| 3. A közfeladatot ellátó szerv által alapított lapok főszerkesztőjének a neve |  |
 
 1.6. Felettes, felügyeleti, törvényességi ellenőrzést gyakorló szerv
 
-Közzétételi egység: Felettes, felügyeleti, törvényességi ellenőrzést gyakorló szerv
+I. Közzétételi egység: Felettes, felügyeleti, törvényességi ellenőrzést gyakorló szerv
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közfeladatot ellátó szerv felettes, illetve felügyeleti szervének, ennek hiányában a közfeladatot ellátó szerv felett törvényességi ellenőrzést gyakorló szerv hivatalos neve (teljes neve), székhelye, elérhetősége (telefon, telefax, földrajzi hely, postacím, elektronikus levélcím), honlapjának címe |  |
+| 1. A közfeladatot ellátó szerv felettes, illetve felügyeleti szervének, hatósági döntéseinek tekintetében a fellebbezés elbírálására jogosult szervek, ennek hiányában a közfeladatot ellátó szerv felett törvényességi ellenőrzést gyakorló szerv hivatalos neve (teljes neve), székhelye, elérhetősége (telefon, telefax, földrajzi hely, postacím, elektronikus levélcím), honlapjának címe | A honlap és az elektronikus levélcím közvetlen elérésének biztosításával. |
 
-| A közfeladatot ellátó szerv felettes, illetve felügyeleti szervének, ennek hiányában a közfeladatot ellátó szerv felett törvényességi ellenőrzést gyakorló szerv ügyfélszolgálatának vagy közönségkapcsolatának elérhetősége (telefonszám, telefaxszám, ügyfélfogadás helye, postacíme), ügyfélfogadásának rendje |  |
+| 2. A közfeladatot ellátó szerv felettes, illetve felügyeleti szervének, hatósági döntéseinek tekintetében a fellebbezés elbírálására jogosult szervek, ennek hiányában a közfeladatot ellátó szerv felett törvényességi ellenőrzést gyakorló szerv ügyfélszolgálatának vagy közönségkapcsolatának elérhetősége (telefonszám, telefaxszám, ügyfélfogadás helye, postacíme), ügyfélfogadásának rendje |  |
+
+1.7. Költségvetési szervek
+
+| A) Adat megnevezése | B) Megjegyzés |
+
+| 1. A közfeladatot ellátó szerv által alapított költségvetési szerv neve, székhelye, a költségvetési szervet alapító jogszabály megjelölése, illetve azt alapító határozat, a költségvetési szerv alapító okirata, működési engedélye | A jogszabály, az alapító határozat, az alapító okirat, működési engedély közvetlen elérésének biztosításával. |
+
+| 2. A költségvetési szerv vezetője, honlapjának elérhetősége | A honlap közvetlen elérésének biztosításával. |
 
 2. Tevékenyégre, működésre vonatkozó adatok
 
-Közzétételi egység: A szerv alaptevékenysége, feladat- és hatásköre
+I. Közzétételi egység: A szerv alaptevékenysége, feladat- és hatásköre
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közfeladatot ellátó szerv feladatát, hatáskörét és alaptevékenységét meghatározó, a szervre vonatkozó alapvető jogszabályok, állami irányítás egyéb jogi eszközei, valamint a szervezeti és működési szabályzat vagy ügyrend listája | A jogszabályok, állami irányítás egyéb jogi eszközei, valamint a szervezeti és működési szabályzat vagy ügyrend hatályos és teljes szövegét tartalmazó önálló dokumentumok elérhetőségének biztosításával. E közzétételi kötelezettség teljesíthető a Ket. 164. § (1) és (2) bekezdésében, valamint a KIETB 19. sz. ajánlásában foglalt közzétételi kötelezettségekkel együttesen, vagy az ezek alapján már közzétett adatokra hivatkozással is. |
+| 1. A közfeladatot ellátó szerv feladatát, hatáskörét és alaptevékenységét meghatározó, a szervre vonatkozó alapvető jogszabályok, közjogi szervezetszabályozó eszközök, valamint a szervezeti és működési szabályzat vagy ügyrend az adatvédelmi és adatbiztonsági szabályzat hatályos és teljes szövege | A jogszabályok, közjogi szervezetszabályozó eszközök, valamint a szervezeti és működési szabályzat vagy ügyrend, az adatvédelmi és biztonsági szabályzat hatályos és teljes szövegét tartalmazó önálló dokumentumok elérhetőségének biztosításával. |
 
-| Az országos illetékességű szerv, valamint a Kormány általános hatáskörű területi államigazgatási szervének feladatáról, tevékenységéről szóló tájékoztató szövege magyar és angol nyelven | A tartalomjegyzékben a dokumentum címét angol nyelven is meg kell jelölni. E közzétételi kötelezettség teljesíthető a KIETB 19. sz. ajánlásában foglalt közzétételi kötelezettségekkel együttesen, vagy az ezek alapján már közzétett adatokra hivatkozással is. |
+| 2. Az országos illetékességű szervek, valamint a Kormány általános hatáskörű területi államigazgatási szerve esetében a közfeladatot ellátó szerv feladatáról, tevékenységéről szóló tájékoztató szövege magyar és angol nyelven | A tartalomjegyzékben a dokumentum címét angol nyelven is meg kell jelölni. |
 
-| A helyi önkormányzat önként vállalt feladatainak felsorolása és részletes leírása |  |
+| 3. A helyi önkormányzat önként vállalt feladatainak felsorolása és részletes leírása | A feladatokat helyi kisebbségi önkormányzatok esetén az adott kisebbség nyelvén is meg kell jelentetni. |
 
-Közzétételi egység: A hatósági ügyek intézésének rendjével kapcsolatos adatok
+II. Közzétételi egység: A hatósági ügyek intézésének rendjével kapcsolatos adatok
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| Az államigazgatási, önkormányzati és egyéb hatósági ügyekben a hatáskörrel rendelkező, hatáskör gyakorlásának átruházása esetén a ténylegesen eljáró szerv neve | A közzétételi egységen belül ügycsoportonként (ügytípusonként) és eljárás-típusonként csoportosítva. |
+| 1. Az államigazgatási, önkormányzati és egyéb hatósági ügyekben ügyfajtánként és eljárástípusonként a hatáskörrel rendelkező szerv megnevezése, hatáskör gyakorlásának átruházása esetén a ténylegesen eljáró szerv megnevezése | A közzétételi egységen belül ügycsoportonként (ügytípusonként) és eljárás-típusonként csoportosítva. |
 
-| Az államigazgatási, önkormányzati és egyéb hatósági ügyekben a hatáskörrel rendelkező, hatáskör gyakorlásának átruházása esetén a ténylegesen eljáró szerv illetékességi területe |  |
+| 2. Az államigazgatási, önkormányzati és egyéb hatósági ügyekben ügyfajtánként és eljárástíposonként a hatáskörrel rendelkező, hatáskör gyakorlásának átruházása esetén a ténylegesen eljáró szerv illetékességi területe |  |
 
-| Az államigazgatási, önkormányzati és egyéb hatósági ügyekben az ügyintézéshez szükséges dokumentumok, okmányok felsorolása | Az e közzétételi egység által összefoglalt közzétételi kötelezettségek teljesíthetőek a Ket. 164. § (1) és (2) bekezdésében foglalt közzétételi kötelezettségekkel együttesen, vagy az ezek alapján már közzétett adatokra hivatkozással is. |
+| 3. Az államigazgatási, önkormányzati és egyéb hatósági ügyekben az ügyintézéshez szükséges dokumentumok, okmányok felsorolása |  |
 
-| Az államigazgatási, önkormányzati és egyéb hatósági ügyekben az eljárási illetékek, igazgatási szolgáltatási díjak összege |  |
+| 4. Az államigazgatási, önkormányzati és egyéb hatósági ügyekben az eljárási illetékek, igazgatási szolgáltatási díjak összege |  |
 
-| Az államigazgatási, önkormányzati és egyéb hatósági ügyekben az alapvető eljárási szabályok, ezek magyarázata, az ügyintézést segítő útmutatók, az ügymenetre vonatkozó tájékoztatás |  |
+| 5. Az államigazgatási, önkormányzati és egyéb hatósági ügyekben az alapvető eljárási szabályok, ezek magyarázata, az ügyintézést segítő útmutatók, az ügymenetre vonatkozó tájékoztatás |  |
 
-| Az államigazgatási, önkormányzati és egyéb hatósági ügyekben az eljárást megindító irat benyújtására szolgáló postacím (postafiók szerinti cím, ha van), ügyfélfogadási vagy közönségkapcsolati cím és nyitvatartási idő |  |
+| 6. Az államigazgatási, önkormányzati és egyéb hatósági ügyekben az eljárást megindító irat benyújtására szolgáló postacím (postafiók szerinti cím, ha van), ügyfélfogadási vagy közönségkapcsolati cím és nyitvatartási idő |  |
 
-| Az államigazgatási, önkormányzati és egyéb hatósági ügyekben az eljárást megindító irat benyújtására nyitva álló határidő |  |
+| 7. Az államigazgatási, önkormányzati és egyéb hatósági ügyekben az eljárást megindító irat benyújtására, elintézésére, fellebbezésére nyitva álló határidő |  |
 
-| Az államigazgatási, önkormányzati és egyéb hatósági ügyekben használt formanyomtatványok listája | A formanyomtatványok letölthetőségének biztosításával. E közzétételi kötelezettség teljesíthető a Ket. 164. § (1) és (2) bekezdésében, valamint a KIETB 19. sz. ajánlásában foglalt közzétételi kötelezettségekkel együttesen, vagy az ezek alapján már közzétett adatokra hivatkozással is. |
+| 8. Az államigazgatási, önkormányzati és egyéb hatósági ügyekben használt formanyomtatványok listája | A formanyomtatványok letölthetőségének biztosításával. |
 
-Közzétételi egység: Közszolgáltatások
+| 9. Az államigazgatási, önkormányzati, és egyéb hatósági ügyekben igénybe vehető elektronikus programok elérése, időpontfoglalás | Az elektronikus program közvetlen elérésének biztosításával. |
 
-| Adat megnevezése | Megjegyzés |
+| 10. Az államigazgatási, önkormányzati, és egyéb hatósági ügyekben az ügytípusokhoz kapcsolódó jogszabályok jegyzéke, tájékoztatás az ügyfelet megillető jogokról és az ügyfelet terhelő kötelezettségekről | A jogszabályok közvetlen elérésének biztosításával. |
 
-| A közfeladatot ellátó szerv által nyújtott vagy költségvetéséből finanszírozott közszolgáltatások megnevezése |  |
+III. Közzétételi egység: Közszolgáltatások
 
-| A közfeladatot ellátó szerv által nyújtott vagy költségvetéséből finanszírozott közszolgáltatások tartalmának leírása |  |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közfeladatot ellátó szerv által nyújtott vagy költségvetéséből finanszírozott közszolgáltatások igénybevételének rendjére vonatkozó tájékoztatás | Amennyiben hosszabb terjedelműek, a tájékoztatásokat önálló dokumentumban, azok, valamint az igénybevételhez használt formanyomtatványok elérhetőségének biztosításával. |
+| 1. A közfeladatot ellátó szerv által nyújtott vagy költségvetéséből finanszírozott közszolgáltatások megnevezése |  |
 
-| A közfeladatot ellátó szerv által nyújtott vagy költségvetéséből finanszírozott közszolgáltatások díjának és az abból adott kedvezmények mértéke |  |
+| 2. A közfeladatot ellátó szerv által nyújtott vagy költségvetéséből finanszírozott közszolgáltatások tartalmának leírása |  |
 
-Közzétételi egység: A szerv nyilvántartásai
+| 3. A közfeladatot ellátó szerv által nyújtott vagy költségvetéséből finanszírozott közszolgáltatások igénybevételének rendjére vonatkozó tájékoztatás | Amennyiben hosszabb terjedelműek, a tájékoztatásokat önálló dokumentumban, azok, valamint az igénybevételhez használt formanyomtatványok elérhetőségének biztosításával. |
 
-| Adat megnevezése | Megjegyzés |
+| 4. A közfeladatot ellátó szerv által nyújtott vagy költségvetéséből finanszírozott közszolgáltatások díjának és az abból adott kedvezmények mértéke |  |
 
-| A közfeladatot ellátó szerv által az alaptevékenysége ellátásához használt saját fenntartású adatbázisok, illetve nyilvántartások jegyzéke |  |
+IV. Közzétételi egység: A szerv nyilvántartásai
 
-| A közfeladatot ellátó szerv által fenntartott, az adatvédelmi nyilvántartásba bejelentendő nyilvántartásokról az 1992. évi LXIII. tv. 28. § (1) bekezdésében szereplő adatok |  |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közfeladatot ellátó szerv által – alaptevékenysége keretében – gyűjtött és feldolgozott adatok fajtái |  |
+| 1. A közfeladatot ellátó szerv által saját fenntartású adatbázisok, illetve nyilvántartások leíró (név, formátum, az adatkezelés célja, jogalapja, időtartama, az érintettek köre, az adatok forrása, kérdőíves adatfelvétel esetén a kitöltetlen kérdőív) jegyzéke | Az általános közzétételi listában csak az adatokat tartalmazó jegyzéket kell közzétenni, azonban a közadatkereső felé történő adatszolgáltatás során minden egyes adatbázisról, illetve nyilvántartásról külön leíró adatot kell készíteni az Adatbázisokat meghatározó séma alapján. |
 
-| A közfeladatot ellátó szerv által – alaptevékenysége keretében – gyűjtött és feldolgozott adatokhoz való hozzáférés módja |  |
+| 2. A közfeladatot ellátó szerv által – alaptevékenysége keretében – gyűjtött és feldolgozott adatok fajtái |  |
 
-| A közfeladatot ellátó szerv által – alaptevékenysége keretében – gyűjtött és feldolgozott adatokról való másolatkészítés költségei |  |
+| 3. A közfeladatot ellátó szerv által – alaptevékenysége keretében – gyűjtött és feldolgozott adatokhoz való hozzáférés módja |  |
 
-Közzétételi egység: Nyilvános kiadványok
+| 4. A közfeladatot ellátó szerv által – alaptevékenysége keretében – gyűjtött és feldolgozott adatokról való másolatkészítés költségei |  |
 
-| Adat megnevezése | Megjegyzés |
+V. Közzétételi egység: Nyilvános kiadványok
 
-| A közfeladatot ellátó szerv nyilvános kiadványainak címei |  |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közfeladatot ellátó szerv nyilvános kiadványai témájának leírása | Kiadványonkénti bontásban. |
+| 1. A közfeladatot ellátó szerv nyilvános kiadványainak címei |  |
 
-| A közfeladatot ellátó szerv nyilvános kiadványaihoz való hozzáférés módja | Amennyiben a honlapról a kiadvány letölthető, a kiadvány elérhetőségének biztosításával. E közzétételi kötelezettség teljesíthető a KIETB 19. sz. ajánlásában foglalt közzétételi kötelezettségekkel együttesen, vagy az ezek alapján már közzétett adatokra hivatkozással is. |
+| 2. A közfeladatot ellátó szerv nyilvános kiadványai témájának leírása | Kiadványonkénti bontásban. |
 
-| A közfeladatot ellátó szerv nyilvános kiadványaiért fizetendő költségtérítés mértéke vagy az ingyenesség ténye |  |
+| 3. A közfeladatot ellátó szerv nyilvános kiadványaihoz való hozzáférés módja | Amennyiben a honlapról a kiadvány letölthető, a kiadvány elérhetőségének biztosításával. |
 
-Közzétételi egység: Döntéshozatal, ülések
+| 4. A közfeladatot ellátó szerv nyilvános kiadványaiért fizetendő költségtérítés mértéke vagy az ingyenesség ténye |  |
 
-| Adat megnevezése | Megjegyzés |
+VI. Közzétételi egység: Döntéshozatal, ülések
 
-| A testületi szerv döntései előkészítésének rendje |  |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A testületi szerv döntéseiben való állampolgári közreműködés (véleményezés) módja (erre szolgáló postai, illetve elektronikus levélcím) |  |
+| 1. A testületi szerv döntései előkészítésének rendje |  |
 
-| A testületi szerv döntéshozatalának eljárási szabályai |  |
+| 2. A testületi szerv döntéseiben való állampolgári közreműködés (véleményezés) módja (erre szolgáló postai, illetve elektronikus levélcím) |  |
 
-| A testületi szerv ülésének helye (irányítószám, város, utca, házszám) | Több helyszín esetén ülésenkénti bontásban. |
+| 3. A testületi szerv döntéshozatalának eljárási szabályai |  |
 
-| A testületi szerv megtartott üléseinek ideje (év, hó, nap, óra megjelöléssel) | Az ülés jegyzőkönyve, illetve összefoglalója elérhetőségének biztosításával. |
+| 4. A testületi szerv ülésének helye (irányítószám, város, utca, házszám) | Több helyszín esetén ülésenkénti bontásban. |
 
-| A testületi szerv tervezett üléseinek ideje (év, hó, nap, óra megjelöléssel) |  |
+| 5. A testületi szerv megtartott üléseinek ideje (év, hó, nap, óra megjelöléssel), valamint nyilvánossága, üléseinek jegyzőkönyvei, illetve összefoglalói | Az ülés jegyzőkönyve, illetve összefoglalója elérhetőségének biztosításával. |
 
-| A testületi szerv ülései látogathatóságának rendje |  |
+| 6. A testületi szerv tervezett üléseinek ideje (év, hó, nap, óra megjelöléssel), valamint nyilvánossága |  |
 
-| A testületi szerv üléseinek napirendje | Ülésenkénti bontásban. |
+| 7. A testületi szerv ülései látogathatóságának rendje |  |
 
-| A testületi szerv döntéseinek felsorolása | Ülésenkénti bontásban; a döntések elérhetőségének biztosításával. |
+| 8. A testületi szerv üléseinek napirendje | Ülésenkénti bontásban. |
 
-Közzétételi egység: A szerv döntései, koncepciók, tervezetek, javaslatok
+| 9. A testületi szerv döntéseinek felsorolása | Ülésenkénti bontásban; a döntések elérhetőségének biztosításával. |
 
-| Adat megnevezése | Megjegyzés |
+VII. Közzétételi egység: A szerv döntései, koncepciók, tervezetek, javaslatok
 
-| A testületi szerv döntéseinek felsorolása | A döntések elérhetőségének biztosításával. |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A testületi szerv döntéshozatalának dátuma (év, hó, nap megjelöléssel) | Döntésenkénti bontásban; a megfelelő ülés jegyzőkönyve, illetve összefoglalója elérhetőségének biztosításával. |
+| 1. A testületi szerv döntéseinek felsorolása | A döntések elérhetőségének biztosításával. |
 
-| A testületi szerv szavazásának nyilvános adatai | Döntésenkénti bontásban. |
+| 2. A testületi szerv döntéshozatalának dátuma (év, hó, nap megjelöléssel) | Döntésenkénti bontásban; a megfelelő ülés jegyzőkönyve, illetve összefoglalója elérhetőségének biztosításával. |
 
-| Az Eitv. alapján közzéteendő jogszabályalkotásra irányuló koncepciók, jogszabálytervezetek felsorolása |  |
+| 3. A testületi szerv szavazásának nyilvános adatai, ha azt jogszabály nem korlátozza | Döntésenkénti bontásban. |
 
-| Az Eitv. alapján közzéteendő jogszabályalkotásra irányuló koncepciók, jogszabálytervezetek tekintetében az egyeztetés állapota | Koncepciónkénti, illetve jogszabály-tervezetenkénti bontásban. |
+| 4. Az Infotv. alapján közzéteendő jogszabályalkotásra irányuló koncepciók, jogszabálytervezetek és kapcsolódó dokumentumok | A közadatkereső felé történő adatszolgáltatás során minden egyes jogszabálytervezetről külön leíró adatot kell készíteni a Jogszabálytervezeteket meghatározó séma alapján. |
 
-| A helyi önkormányzat képviselő-testületének nyilvános ülésére benyújtott előterjesztések felsorolása | Az előterjesztések elérhetőségének biztosításával. |
+| 5. Az Infotv. alapján közzéteendő jogszabályalkotásra irányuló koncepciók, jogszabálytervezetek tekintetében az egyeztetés állapota | Koncepciónkénti, illetve jogszabály-tervezetenkénti bontásban. |
 
-| Összefoglaló a véleményezők észrevételeiről, és az észrevételek elutasításának indokairól | A nyilvánvalóan alaptalan észrevételek esetén az elutasítás indokairól nem kell összefoglalót készíteni. |
+| 6. A helyi önkormányzat képviselő-testületének nyilvános ülésére benyújtott előterjesztések a benyújtás időpontjától | A közadatkereső felé történő adatszolgáltatás során minden egyes előterjesztésről külön leíró adatot kell készíteni a Jogszabálytervezeteket meghatározó séma alapján. |
 
-Közzétételi egység: Pályázatok
+| 7. Összefoglaló a véleményezők észrevételeiről, és az észrevételek elutasításának indokairól | A nyilvánvalóan alaptalan észrevételek esetén az elutasítás indokairól nem kell összefoglalót készíteni. |
 
-| Adat megnevezése | Megjegyzés |
+VIII. Közzétételi egység: Pályázatok
 
-| A közfeladatot ellátó szerv által kiírt pályázatok felsorolása | A pályázatok szakmai leírását, eredményeit és indokolását tartalmazó dokumentumok elérhetőségének biztosításával. E közzétételi kötelezettség teljesíthető a KIETB 19. sz. ajánlásában foglalt közzétételi kötelezettségekkel együttesen, vagy az ezek alapján már közzétett adatokra hivatkozással is. |
+| A) Adat megnevezése | B) Megjegyzés |
 
-Közzétételi egység: Közérdekű adatok igénylése
+| 1. A közfeladatot ellátó szerv által kiírt pályázatok szakmai leírása, azok eredményei és indoklásuk | A kapcsolódó dokumentumok közvetlen elérhetőségének biztosításával. |
 
-| Adat megnevezése | Megjegyzés |
+IX. Közzétételi egység: Hirdetmények
 
-| A közérdekű adatok megismerésére irányuló igények intézésének rendje |  |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közérdekű adatok megismerésére irányuló igények tekintetében illetékes szervezeti egység neve |  |
+| 1. A közfeladatot ellátó szerv által közzétett hirdetmények, közlemények | A hirdetmények, közlemények közvetlen elérésének biztosításával. |
 
-| A közérdekű adatok megismerésére irányuló igények tekintetében illetékes szervezeti egység elérhetősége (postacíme, földrajzi helye, telefonszáma, telefaxszáma, elektronikus levélcíme) |  |
+X. Közzétételi egység: Közérdekű adatok igénylése
 
-| A közérdekű adatokkal kapcsolatos kötelező statisztikai adatszolgáltatás adott szervre vonatkozó adatai |  |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közfeladatot ellátó szerv kezelésében lévő közérdekű adatok felhasználására, hasznosítására vonatkozó általános szerződési feltételek |  |
+| 1. A közérdekű adatok megismerésére irányuló igények intézésének rendje |  |
 
-| Azon közérdekű adatok hasznosítására irányuló szerződések listája, amelyekben a közfeladatot ellátó szerv az egyik szerződő fél |  |
+| 2. A közérdekű adatok megismerésére irányuló igények tekintetében illetékes szervezeti egység neve |  |
 
-Közzétételi egység: Közzétételi listák
+| 3. A közérdekű adatok megismerésére irányuló igények tekintetében illetékes szervezeti egység elérhetősége (postacíme, földrajzi helye, telefonszáma, telefaxszáma, elektronikus levélcíme) | Az elektronikus levélcím közvetlen elérésének biztosításával. |
 
-| Adat megnevezése | Megjegyzés |
+| 4. Az adatvédelmi felelős vagy az információs jogokkal foglalkozó személy neve |  |
 
-| A közfeladatot ellátó szervre vonatkozó különös közzétételi lista | A közzétételt elrendelő jogszabály megnevezésével és elérhetővé tételével. |
+| 5. A közérdekű adatokkal kapcsolatos kötelező statisztikai adatszolgáltatás adott szervre vonatkozó adatai |  |
 
-| A közfeladatot ellátó szervre vonatkozó egyedi közzétételi lista | A közzétételt elrendelő jogszabály vagy egyéb aktus megnevezésével elérhetővé tételével. |
+| 6. A közfeladatot ellátó szerv kezelésében lévő közérdekű adatok felhasználására, hasznosítására vonatkozó általános szerződési feltételek |  |
+
+| 7. Azon közérdekű adatok hasznosítására irányuló szerződések listája, amelyekben a közfeladatot ellátó szerv az egyik szerződő fél |  |
+
+XI. Közzétételi egység: Közzétételi listák
+
+| A) Adat megnevezése | B) Megjegyzés |
+
+| 1. A közfeladatot ellátó szervre vonatkozó különös közzétételi lista | A közzétételt elrendelő jogszabály megnevezésével és elérhetővé tételével. |
+
+| 2. A közfeladatot ellátó szervre vonatkozó egyedi közzétételi lista | A közzétételt elrendelő jogszabály vagy egyéb aktus megnevezésével, elérhetővé tételével. |
 
 3. Gazdálkodási adatok
 
 3.1. A működés törvényessége, ellenőrzések
 
-Közzétételi egység: Vizsgálatok, ellenőrzések listája
+I. Közzétételi egység: Vizsgálatok, ellenőrzések listája
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közfeladatot ellátó szervnél végzett alaptevékenységgel kapcsolatos – nyilvános megállapításokat tartalmazó – vizsgálatok, ellenőrzések felsorolása |  |
+| 1. A közfeladatot ellátó szervnél végzett alaptevékenységgel kapcsolatos – nyilvános megállapításokat tartalmazó – vizsgálatok, ellenőrzések felsorolása |  |
 
-Közzétételi egység: Az Állami Számvevőszék ellenőrzései
+II. Közzétételi egység: Az Állami Számvevőszék ellenőrzései
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| Az Állami Számvevőszék ellenőrzéseinek nyilvános megállapításai |  |
+| 1. Az Állami Számvevőszék ellenőrzéseinek nyilvános megállapításai |  |
 
-Közzétételi egység: Egyéb ellenőrzések, vizsgálatok
+III. Közzétételi egység: Egyéb ellenőrzések, vizsgálatok
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A szervre vonatkozó egyéb ellenőrzések, vizsgálatok nyilvános megállapításai | Időrendben. |
+| 1. A szervre vonatkozó egyéb ellenőrzések, vizsgálatok nyilvános megállapításai | Időrendben. |
 
-Közzétételi egység: A működés eredményessége, teljesítmény
+IV. Közzétételi egység: A működés eredményessége, teljesítmény
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közfeladatot ellátó szerv feladatellátásának teljesítményére, kapacitásának jellemzésére, hatékonyságának és teljesítményének mérésére szolgáló mutatók és értékük, időbeli változásuk |  |
+| 1. A közfeladatot ellátó szerv feladatellátásának teljesítményére, kapacitásának jellemzésére, hatékonyságának és teljesítményének mérésére szolgáló mutatók és értékük, időbeli változásuk |  |
 
-Közzétételi egység: Működési statisztika
+V. Közzétételi egység: Működési statisztika
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közfeladatot ellátó szerv tevékenységére vonatkozó, jogszabályon alapuló statisztikai adatgyűjtés eredményei, időbeli változásuk |  |
+| 1. A közfeladatot ellátó szerv tevékenységére vonatkozó, jogszabályon alapuló statisztikai adatgyűjtés eredményei, időbeli változásuk |  |
 
 3.2. Költségvetések, beszámolók
 
-Közzétételi egység: Éves költségvetések
+I. Közzétételi egység: Éves költségvetések
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közfeladatot ellátó szerv éves (elemi) költségvetései | Évenkénti bontásban. E közzétételi kötelezettség teljesíthető az Ámr. 22. mellékletében foglalt közzétételi kötelezettségekkel együttesen, vagy az ezek alapján már közzétett adatokra hivatkozással is. |
+| 1. A közfeladatot ellátó szerv éves (elemi) költségvetései | Évenkénti bontásban. |
 
-Közzétételi egység: Számviteli beszámolók
+II. Közzétételi egység: Számviteli beszámolók
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közfeladatot ellátó szerv számviteli törvény szerinti beszámolói | Beszámolónként. |
+| 1. A közfeladatot ellátó szerv számviteli törvény szerinti beszámolói | Beszámolónként. |
 
-Közzétételi egység: A költségvetés végrehajtása
+III. Közzétételi egység: A költségvetés végrehajtása
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közfeladatot ellátó szervnek a költségvetés végrehajtásáról – a külön jogszabályban meghatározott módon és gyakorisággal – készített beszámolói | Beszámolónként. E közzétételi kötelezettség teljesíthető az Ámr. 22. mellékletében foglalt közzétételi kötelezettségekkel együttesen, vagy az ezek alapján már közzétett adatokra hivatkozással is. |
+| 1. A közfeladatot ellátó szervnek a költségvetés végrehajtásáról – a külön jogszabályban meghatározott módon és gyakorisággal – készített beszámolói | Beszámolónként. |
 
 3.3. Költségvetések, beszámolók
 
-Közzétételi egység: A foglalkoztatottak
+I. Közzétételi egység: A foglalkoztatottak
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közfeladatot ellátó szervnél foglalkoztatottak létszáma |  |
+| 1. A közfeladatot ellátó szervnél foglalkoztatottak létszáma és személyi juttatásaira vonatkozó összesített adatok |  |
 
-| A vezetők és a vezető tisztségviselők illetménye, munkabére, és rendszeres juttatásai, valamint költségtérítése összesített összege és átlagos mértéke |  |
+| 2. A vezetők és a vezető tisztségviselők illetménye, munkabére, és rendszeres juttatásai, valamint költségtérítése összesített összege |  |
 
-| Az egyéb alkalmazottaknak nyújtott juttatások fajtája és mértéke összesítve |  |
+| 3. Az egyéb alkalmazottaknak nyújtott juttatások fajtája és mértéke összesítve |  |
 
-Közzétételi egység: Támogatások
+II. Közzétételi egység: Támogatások
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közfeladatot ellátó szerv költségvetéséből nyújtott, nem normatív, céljellegű, fejlesztési támogatások kedvezményezettjeinek neve | Az e közzétételi egység által összefoglalt közzétételi kötelezettségek teljesíthetőek az Ámr. 22. mellékletében foglalt közzétételi kötelezettségekkel együttesen, vagy az ezek alapján már közzétett adatokra hivatkozással is. |
+| 1. A közfeladatot ellátó szerv költségvetéséből nyújtott, nem normatív, céljellegű, fejlesztési támogatások kedvezményezettjeinek neve |  |
 
-| A közfeladatot ellátó szerv költségvetéséből nyújtott, nem normatív, céljellegű, fejlesztési támogatások célja | Támogatásonként és kedvezményezettekként lebontva. |
+| 2. A közfeladatot ellátó szerv költségvetéséből nyújtott, nem normatív, céljellegű, fejlesztési támogatások célja | Támogatásonként és kedvezményezettekként lebontva. |
 
-| A közfeladatot ellátó szerv költségvetéséből nyújtott, nem normatív, céljellegű, fejlesztési támogatások összege | Támogatásonként és kedvezményezettekként lebontva. |
+| 3. A közfeladatot ellátó szerv költségvetéséből nyújtott, nem normatív, céljellegű, fejlesztési támogatások összege | Támogatásonként és kedvezményezettekként lebontva. |
 
-| A közfeladatot ellátó szerv költségvetéséből nyújtott, nem normatív, céljellegű, fejlesztési támogatási program megvalósítási helyére | Támogatásonként és kedvezményezettekként lebontva |
+| 4. A közfeladatot ellátó szerv költségvetéséből nyújtott, nem normatív, céljellegű, fejlesztési támogatási program megvalósítási helye | Támogatásonként és kedvezményezettekként lebontva. |
 
-Közzétételi egység: Szerződések
+III. Közzétételi egység: Szerződések
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| Az államháztartás pénzeszközei felhasználásával, az államháztartáshoz tartozó vagyonnal történő gazdálkodással összefüggő – a külön jogszabályban meghatározott értékű – árubeszerzésre, építési beruházásra, szolgáltatás megrendelésre, vagyonértékesítésre, vagyonhasznosításra, vagyon vagy vagyoni értékű jog átadására, valamint koncesszióba adásra vonatkozó szerződések megnevezése (típusa), tárgya, a szerződő felek megnevezése, a szerződések értéke, időtartama | E közzétételi kötelezettség teljesíthető az államháztartásról szóló 1992. évi XXXVIII. törvény 15/B. §-a által előírt közzétételi kötelezettségekkel együttesen, vagy az ezek alapján már közzétett adatokra hivatkozással is. |
+| 1. Az államháztartás pénzeszközei felhasználásával, az államháztartáshoz tartozó vagyonnal történő gazdálkodással összefüggő, ötmillió forintot elérő vagy azt meghaladó értékű árubeszerzésre, építési beruházásra, szolgáltatás megrendelésre, vagyonértékesítésre, vagyonhasznosításra, vagyon vagy vagyoni értékű jog átadására, valamint koncesszióba adásra vonatkozó szerződések megnevezése (típusa), tárgya, a szerződést kötő felek neve, a szerződés értéke, határozott időre kötött szerződés esetében annak időtartama, valamint az említett adatok változásai, a nemzetbiztonsági, illetve honvédelmi érdekkel közvetlenül összefüggő beszerzések adatai, és a minősített adatok kivételével A szerződés értéke alatt a szerződés tárgyáért kikötött – általános forgalmi adó nélkül számított – ellenszolgáltatást kell érteni, ingyenes ügylet esetén a vagyon piaci vagy könyv szerinti értéke közül a magasabb összeget kell figyelembe venni. Az időszakonként visszatérő – egy évnél hosszabb időtartamra kötött – szerződéseknél az érték kiszámításakor az ellenszolgáltatás egy évre számított összegét kell alapul venni. Az egy költségvetési évben ugyanazon szerződő féllel kötött azonos tárgyú szerződések értékét egybe kell számítani |  |
 
-Közzétételi egység: Koncessziók
+IV. Közzétételi egység: Koncessziók
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A koncesszióról szóló törvényben meghatározott nyilvános adatok (pályázati kiírások, pályázók adatai, az elbírálásról készített emlékeztetők, pályázat eredménye) | E közzétételi kötelezettség teljesíthető az államháztartásról szóló 1992. évi XXXVIII. törvény 15/B. §-a által előírt közzétételi kötelezettségekkel együttesen, vagy az ezek alapján már közzétett adatokra hivatkozással is. |
+| 1. A koncesszióról szóló törvényben meghatározott nyilvános adatok (pályázati kiírások, pályázók adatai, az elbírálásról készített emlékeztetők, pályázat eredménye) |  |
 
-Közzétételi egység: Egyéb kifizetések
+V. Közzétételi egység: Egyéb kifizetések
 
-| Adat megnevezése | Megjegyzés |
+| A) Adat megnevezése | B) Megjegyzés |
 
-| A közfeladatot ellátó szerv által nem alapfeladatai ellátására (így különösen társadalmi szervezet támogatására, foglalkoztatottai szakmai és munkavállalói érdek-képviseleti szervei számára, foglalkoztatottjai, ellátottjai oktatási, kulturális, szociális és sporttevékenységet segítő szervezet támogatására, alapítványok által ellátott feladatokkal összefüggő kifizetésre) fordított, ötmillió forintot meghaladó kifizetések címzettjei | E közzétételi kötelezettség teljesíthető az államháztartásról szóló 1992. évi XXXVIII. törvény 15/B. §-a által előírt közzétételi kötelezettségekkel együttesen, vagy az ezek alapján már közzétett adatokra hivatkozással is. |
+| 1. A közfeladatot ellátó szerv által nem alapfeladatai ellátására (így különösen egyesület támogatására, foglalkoztatottai szakmai és munkavállalói érdek-képviseleti szervei számára, foglalkoztatottjai, ellátottjai oktatási, kulturális, szociális és sporttevékenységet segítő szervezet támogatására, alapítványok által ellátott feladatokkal összefüggő kifizetésre) fordított, ötmillió forintot meghaladó kifizetések címzettjei |  |
 
-[^1]: A 2. melléklet a 9/2008. (XII. 31.) MeHVM rendelet 1. §-ának 1. pontja szerint módosított szöveg.
+VI. Közzétételi egység: Európai Unió által támogatott fejlesztések
+
+| A) Adat megnevezése | B) Megjegyzés |
+
+| 1. Az Európai Unió támogatásával megvalósuló fejlesztések leírása, az azokra vonatkozó szerződések | A dokumentumok, a szerződések, közvetlen elérésének biztosításával. |
+
+VII. Közzétételi egység: Közbeszerzés
+
+| A) Adat megnevezése | B) Megjegyzés |
+
+| 1. Közbeszerzési információk: éves terv, összegzés az ajánlatok elbírálásáról, a megkötött szerződésekről | Az éves terv közvetlen elérésének biztosításával. |
+
+[^7]: A 2. melléklet a 34/2012. (VIII. 15.) KIM rendelet 3. § (2) bekezdésével megállapított szöveg.
