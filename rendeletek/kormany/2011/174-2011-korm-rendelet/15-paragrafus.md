@@ -2,7 +2,7 @@
 
 15. § (1) A vizsgázó a közigazgatási alapvizsgára a Vizsgaportálon keresztül regisztrál és jelentkezik. Regisztrációjához és a vizsgára való jelentkezéséhez munkáltatójának előzetesen regisztrálnia szükséges a Vizsgaportálon.
 
-(2) A munkáltatónak a Vizsgaportálon való regisztrációja során ki kell kijelölnie a munkáltató képviseletében a közigazgatási alapvizsgával kapcsolatban nyilatkozattételre jogosult személyt vagy személyeket. A regisztrációs folyamat végén a rögzített adatok hitelesítése érdekében a munkáltató írásban tájékoztatja az NKI-t a regisztráció megtörténtéről. Az NKI az írásos tájékoztatás beérkezését követően 3 munkanapon belül aktiválja a munkáltatót a rendszerben.
+(2)[^21] A munkáltatónak a Vizsgaportálon való regisztrációja során ki kell kijelölnie a munkáltató képviseletében a közigazgatási alapvizsgával kapcsolatban nyilatkozattételre jogosult személyt vagy személyeket. A regisztrációs folyamat végén a rögzített adatok hitelesítése érdekében a munkáltató írásban tájékoztatja a Közigazgatási és Igazságügyi Hivatalt a regisztráció megtörténtéről. Az NKE az írásos tájékoztatás beérkezését követően 3 munkanapon belül aktiválja a munkáltatót a rendszerben.
 
 (3) A vizsgázó regisztrációja során
 
@@ -43,3 +43,5 @@ b) a felkészítő konzultáción való részvételéhez.
 (14) Egy vizsgacsoportba legalább 5 főt és legfeljebb 20 főt lehet beosztani. A vizsgaszervező dönti el, hogy ha a vizsgaidőpontra 5 főnél kevesebb vizsgázó jelentkezik, megtartja-e a vizsgát.
 
 (15) Indokolt esetben a vizsgaszervező – a vizsgázóval egyeztetve – átirányíthatja a vizsgázót egy másik vizsgaszervezőhöz a közigazgatási alapvizsga letétele érdekében. Indokolt esetnek minősül különösen, ha a közigazgatási alapvizsga letételére nyitva álló határidő lejár és a vizsgáztatásra illetékes vizsgaszervező nem szervez vizsgát e határidő lejártáig.
+
+[^21]: A 15. § (2) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés b) és e) pontja szerint módosított szöveg.

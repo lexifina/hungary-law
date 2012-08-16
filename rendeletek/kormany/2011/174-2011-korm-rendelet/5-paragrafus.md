@@ -1,6 +1,6 @@
 ## 4. A vizsgaszervező
 
-5. § (1) Közigazgatási alapvizsgát, valamint ügykezelői alapvizsgát az NKI, valamint a fővárosi és megyei kormányhivatal szervez (a továbbiakban együtt: vizsgaszervező).
+5. § (1)[^7] Közigazgatási alapvizsgát, valamint ügykezelői alapvizsgát az NKE, valamint a fővárosi és megyei kormányhivatal szervez (a továbbiakban együtt: vizsgaszervező).
 
 (2) A közigazgatási alapvizsga, valamint az ügykezelői alapvizsga szervezésével, lebonyolításával és a nyilvántartással kapcsolatos feladatokat a vizsgaszervező látja el. E feladatai keretében a vizsgaszervező különösen a következőket látja el:
 
@@ -18,8 +18,12 @@ f) a vizsgákról jegyzőkönyvet vezet;
 
 g) az eredményesen vizsgázók számára kiállítja a vizsgabizonyítványt;
 
-h) a vizsgákról statisztikai célú összesítést készít.
+h)[^8] a vizsgákról statisztikai célú összesítést készít, melyet a Közigazgatási és Igazságügyi Hivatal rendelkezésére bocsát tárgyévet követő év február 1-ig az összefoglaló-értékelő beszámoló elkészítéséhez.
 
-(3) A fővárosi, valamint a megyei kormányhivatal, mint adatfeldolgozó közreműködik az NKI által vezetett közigazgatási alapvizsga nyilvántartással összefüggő helyi feladatok ellátásában.
+(3)[^9] A fővárosi, valamint a megyei kormányhivatal, mint adatfeldolgozó közreműködik az NKE által vezetett közigazgatási alapvizsga nyilvántartással összefüggő helyi feladatok ellátásában.
 
 (4) A vizsgaszervező vezetője felelős a közigazgatási alapvizsga, valamint az ügykezelői alapvizsga jogszabályokban, szabályzatokban foglaltak szerinti lebonyolításáért.
+
+[^7]: Az 5. § (1) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés b) pontja szerint módosított szöveg.
+[^8]: Az 5. § (2) bekezdés h) pontja a 178/2012. (VII. 26.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (3) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés b) pontja szerint módosított szöveg.

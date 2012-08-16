@@ -1,8 +1,8 @@
-## 2. függelék
+## 2. függelék[^41]
 
 ## Szám:
 
-## (a Magyar Köztársaság címere többszínnyomással)
+## (a Magyarország címere többszínnyomással)
 
 ## BIZONYÍTVÁNY
 
@@ -12,7 +12,7 @@
 
 ## Anyja születési családi és utóneve:
 
-## ..........................(vizsgaszervező neve)................................ , mint vizsgaszervező előtt a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény alapján megfelelt minősítéssel
+## ..........................(vizsgaszervező neve)................................ , mint vizsgaszervező előtt a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény alapján megfelelt minősítéssel
 
 ## KÖZIGAZGATÁSI ALAPVIZSGÁT
 
@@ -26,7 +26,7 @@
 
 ## vizsgaszervező vezetője
 
-## 3. függelék[^4]
+## 3. függelék[^42]
 
 2. melléklet a 174/2011. (VIII. 31.) Korm. rendelethez
 
@@ -134,12 +134,14 @@ P. H.
 
 vizsgáztató bizottság elnöke
 
-4. függelék
+4. függelék[^43]
 
 VIZSGANYILVÁNTARTÓ-KÖNYV
 
 Az ügykezelői alapvizsgáról
 
-| Sorszám | Dátum | Vizsgázó családi és utóneve, (Születési családi és utóneve) születési helye, ideje anyja születési családi és utóneve | Munkáltató megnevezése | Bizonyítvány minősítése | Megjegyzés |
+| Sorszám | Dátum | Vizsgázó családi és utóneve, (Születési családi és utóneve) születési helye, ideje anyja születési családi és utóneve | Munkáltató megnevezése | Bizonyítvány minősítése | Vizsgabizottság tagjainak megnevezése |
 
-[^4]: Az 1. melléklet 3. függelékét a 28. § (9) bekezdése hatályon kívül helyezte.
+[^41]: Az 1. melléklet 2. függeléke a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés i) pontja szerint módosított szöveg.
+[^42]: Az 1. melléklet 3. függelékét a 28. § (9) bekezdése hatályon kívül helyezte.
+[^43]: A 2. melléklet 4. függeléke a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés j) pontja szerint módosított szöveg.
