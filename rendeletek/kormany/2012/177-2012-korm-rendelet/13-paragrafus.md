@@ -1,3 +1,5 @@
+## 12. §[^1]
+
 ## 8. Átmeneti rendelkezések
 
 13. § (1) A Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálata, az ECOSTAT Kormányzati Hatásvizsgálati Központ, valamint a Közigazgatási és Igazságügyi Minisztérium Vagyonkezelő Központ 2012. augusztus 15. napjával a Wekerle Sándor Alapkezelővel, mint általános jogutóddal történő egyesítés (beolvadás) révén megszűnik.
@@ -15,3 +17,5 @@
 a) az e rendelet hatálybalépésének napjától 2012. augusztus 15. napjáig – európai uniós forrásból megvalósuló beruházások kivételével – beruházást, felújítást érintően új kötelezettséget a miniszter engedélye nélkül nem vállalhat,
 
 b) foglalkoztatásra irányuló jogviszonyt nem létesíthet.
+
+[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
