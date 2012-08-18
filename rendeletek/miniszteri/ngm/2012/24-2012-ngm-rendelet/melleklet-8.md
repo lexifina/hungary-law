@@ -1,0 +1,59 @@
+## ADATLAP
+
+## a felsőoktatási intézmény részére az Szht. 31.§ (2) bekezdésében előírt adatszolgáltatás tejesítéséről
+
+| 1. | Felsőoktatási intézmény azonosító adatai: |  |  |  |  |  |  |
+
+| 1.1. | neve: |  |  |  |  |  |  |
+
+| 1.2. | címe: |  |  |  |  |  |  |
+
+| 1.3. | intézmény azonosítója: |  |  |  |  |  |  |  |
+
+| 2. | Felhasznált fejlesztési támogatások évenkénti összesített elszámolásának táblázata: |  |  |  |  |  |  |
+
+|  | A | B | C | D | E | F | G | H | I |
+
+|  |  | 2002-2006 év.* | 2007. év | 2008. év | 2009. év | 2010. év | 2011. év | 2012. év | összesen |
+
+| 2.1. | Fejlesztési megállapodások száma: (db) |  |  |  |  |  |  |  |  |
+
+| 2.2. | Átvett fejlesztési támogatás összege: (Ft.) |  |  |  |  |  |  |  |  |
+
+| 2.3. | Felhasznált fejlesztési támogatás összeg: (Ft.) |  |  |  |  |  |  |  |  |
+
+| 2.4. | a) tárgyi eszköz, ingatlan, szoftver beszerzésre fordított összeg:(Ft.) |  |  |  |  |  |  |  |  |
+
+| 2.5. | ab) decentralizált pályázati önrész összege: (Ft.) |  |  |  |  |  |  |  |  |
+
+| 2.6. | b) tárgyi eszközök működtetési költség összeg: (Ft.) |  |  |  |  |  |  |  |  |
+
+| 2.7. | c) gyakorlati képzésre felhasznált anyagköltség összeg: (Ft.) |  |  |  |  |  |  |  |  |
+
+| 2.8. | d) tananyag fejlesztés, akkredítált továbbképzésre fordított összeg: (Ft.) |  |  |  |  |  |  |  |  |
+
+| 2.9. | Átvett, de fel nem használt, az MPA képzési alaprészébe befizetett összeg: (Ft.) |  |  |  |  |  |  |  |  |
+
+| 3. Tárgyi eszköz, ingatlan, szoftver beszerzés |  |  |  |  |  |  |  |
+
+|  | A | B | C | D | E | F | G | H | I | J |
+
+|  | Megnevezése | db száma | Egyedi azonosítója | Bekerülési érték bruttó összege | Bekerülési érték fejlesztési támogatás terhére elszámolt összege | Nyilvántartásba/használatba vétel száma | Aktíválás dátuma | Használati kötelezettség vége | Gyakorlati képzés megnevezése: OKJ / gyakorlatigényes szak | Gyakorlati képzés helyszíne, ahol jelenleg használják |
+
+| 3.1. |  |  |  |  |  |  |  |  |  |  |
+
+| 3.2. |  |  |  |  |  |  |  |  |  |  |
+
+| (….) |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  | Összesen: |  | ** |  |  |  |  |
+
+## * Csak ingatlan elszámolása esetén töltendő ki!
+
+## ** Az összegnek meg kell egyeznie a 2. táblázat 4. sorának összesen értékével!
+
+## Dátum:
+
+|  | P.H. | aláírás |
+
+8. melléklet a 24/2012. (VIII. 15.) NGM rendelethez
