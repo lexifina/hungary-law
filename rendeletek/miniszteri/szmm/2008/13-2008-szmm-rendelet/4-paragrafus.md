@@ -1,1 +1,0 @@
-## 3. § Az Szht. 7. § (9) bekezdése alapján a gyakorlati képzést teljesen megszüntető, vagy a gyakorlati képzést egy oktatási éven túl szüneteltető hozzájárulásra kötelezettnek, ha ezt követően az Szht. 4. § (1) bekezdése szerinti gyakorlati képzés szervezésével teljesíti szakképzési hozzájárulási kötelezettségét, az 1. § (1) bekezdése szerint kell eljárnia.

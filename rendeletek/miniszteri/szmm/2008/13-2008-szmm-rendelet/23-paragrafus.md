@@ -1,7 +1,0 @@
-## 22. §[^54] Az adatlap esetében is alkalmazni kell a 21. §-ban előírtakat azzal, hogy a hiánypótlás, illetve a kijavítás – a negyedéves visszatérítési igény 30, a havi visszatérítési igény 15 napon belüli – nem teljesítése esetén az adatlapon benyújtott visszatérítési igényt az NMH elutasítja azzal, hogy az adott visszatérítési igény csak az éves bevallás részeként érvényesíthető, és erről a hozzájárulásra kötelezettet a hiánypótlásra, illetve a kijavításra való felhívásban megállapított határidő leteltétől számított 30 napon belül értesíti.
-
-23. § (1) Ha a hozzájárulásra kötelezettnek az Szht. mellékletében felsorolt költségei elérik vagy meghaladják a bruttó kötelezettsége mértékét, akkor a tanuló, illetve a hallgató gyakorlati képzéséről más hozzájárulásra kötelezett számára is gondoskodó hozzájárulásra kötelezett a visszatérítési igényét csak a saját tanulói, illetve hallgatói létszáma után érvényesítheti.
-
-(2) Az a hozzájárulásra kötelezett, aki más hozzájárulásra kötelezettől annak hozzájárulási kötelezettsége terhére a gyakorlati képzés – Szht. mellékletében meghatározott elszámolható – költségeihez költség-hozzájárulásban részesül, a többletköltségei visszatérítésére az Szht. 4. § (8) bekezdésében foglaltak szerint tarthat igényt.
-
-[^54]: A 22. § a 3/2010. (II. 18.) SZMM rendelet 16. § (6) bekezdés c) pontja, a 3/2012. (II. 10.) NGM rendelet 15. § (3) bekezdés b) pontja szerint módosított szöveg.
