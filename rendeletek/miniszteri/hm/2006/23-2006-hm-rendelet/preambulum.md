@@ -1,1 +1,0 @@
-A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény (a továbbiakban: Met.) 1. § (6) bekezdésében kapott felhatalmazás alapján, a munkaügyi ellenőrzések Magyar Honvédségnél történő végrehajtására a következőket rendelem el:
