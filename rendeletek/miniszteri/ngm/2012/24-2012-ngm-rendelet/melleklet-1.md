@@ -1,3 +1,5 @@
-## 40. § Hatályát veszti a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény végrehajtásáról szóló 13/2008. (IV. 27.) SZMM rendelet.
+## 40. §[^3]
 
 1. melléklet a 24/2012. (VIII. 15.) NGM rendelethez
+
+[^3]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

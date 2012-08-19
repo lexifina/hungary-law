@@ -110,6 +110,6 @@
 
 ## 2.14. A végső kedvezményezettre vonatkozóan elszámoltatás és ellenőrzés bemutatása
 
-2–4. melléklet a 24/2012. (VIII. 15.) NGM rendelethez[^3]
+2–4. melléklet a 24/2012. (VIII. 15.) NGM rendelethez[^4]
 
-[^3]: A 2–4. melléklet a 34. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^4]: A 2–4. melléklet a 34. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
