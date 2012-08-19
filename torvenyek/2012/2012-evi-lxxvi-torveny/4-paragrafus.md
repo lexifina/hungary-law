@@ -1,4 +1,4 @@
-4. § (1)
+4. § (1) Hatályát veszti a közbiztonság javítása érdekében szükséges egyes törvénymódosításokról szóló 2010. évi LXXXVI. törvény.
 
 (2)
 
