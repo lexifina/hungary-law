@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-76-00-00
 | 2012-08-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-76-00-00.10 |
 | 2012-08-02 | 2010. évi CXXX. törvény | 2012-76-00-00.11 |
 | 2012-08-19 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-76-00-00.12 |
+| 2012-08-20 | 2010. évi CXXX. törvény | 2012-76-00-00.13 |
