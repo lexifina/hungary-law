@@ -1,4 +1,4 @@
-4. § (1) A szabálysértési hatóság a 3. § (1) bekezdésében megjelölt felhívást az elkövető jelentkezésére meghatározott napot követő nyolc napig nyilvántartja. Ha szabályszerűen kézbesített felhívás esetén e határidő elteltéig az elzárás foganatba vételéről értesítés nem érkezett, az elkövető elővezetését rendeli el. Az elrendelt elővezetésről az ügyészt elektronikus úton kell értesíteni.
+4. § (1)[^1] A szabálysértési hatóság a 3. § (1) bekezdésében megjelölt felhívást az elkövető jelentkezésére meghatározott napot követő öt napig nyilvántartja. Ha szabályszerűen kézbesített felhívás esetén e határidő elteltéig az elzárás foganatba vételéről értesítés nem érkezett, haladéktalanul az elkövető elővezetését rendeli el. Az elrendelt elővezetésről az ügyészt elektronikus úton kell értesíteni.
 
 (2) Az elővezetést elrendelő határozat tartalmazza:
 
@@ -12,6 +12,9 @@ d) annak a büntetés-végrehajtási intézetnek a megnevezését, ahová az elk
 
 e) az ügyintéző aláírását, és a szabálysértési hatóság körbélyegzőjét.
 
-(3) Sikertelen elővezetés esetén az elővezetés újabb határnapjaként az elővezetésre meghatározott naptól számított nyolcadik napot kell megjelölni, kivéve, ha az elzárás elévülése ennél rövidebb idő alatt következik be.
+(3)[^2] Sikertelen elővezetés esetén az elővezetést az elővezetésre meghatározott naptól számított öt napon belül kell megismételni, kivéve, ha az elzárás elévülése ennél rövidebb idő alatt következik be.
 
 (4) Az elővezetést foganatosító rendőr az elővezetési határozat egy példányát átadja az elkövetőnek. A rendőr az elkövetőt az elővezetési határozat két példányával adja át a büntetés-végrehajtási intézetnek. A határozat egy példányát a büntetés-végrehajtási intézet visszatartja, egy példányon az elkövető átvételét igazolja, és azt a rendőrnek visszaadja.
+
+[^1]: A 4. § (1) bekezdése a 41/2012. (VIII. 22.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 4. § (3) bekezdése a 41/2012. (VIII. 22.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
