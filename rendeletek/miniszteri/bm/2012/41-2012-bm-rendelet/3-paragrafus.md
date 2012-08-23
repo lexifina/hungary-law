@@ -1,0 +1,1 @@
+## „(3) Sikertelen elővezetés esetén az elővezetést az elővezetésre meghatározott naptól számított öt napon belül kell megismételni, kivéve, ha az elzárás elévülése ennél rövidebb idő alatt következik be.”
