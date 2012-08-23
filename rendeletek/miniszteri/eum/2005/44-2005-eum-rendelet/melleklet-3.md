@@ -82,7 +82,7 @@
 
 ## cégszerű aláírás
 
-3. melléklet a 44/2005. (X. 19.) EüM rendelethez[^24]
+3. melléklet a 44/2005. (X. 19.) EüM rendelethez[^25]
 
 Gyógyszerformák és tevékenységek megnevezése, amelyekre gyógyszergyártási engedély kérhető
 
@@ -220,4 +220,4 @@ Gyógyszerformák és tevékenységek megnevezése, amelyekre gyógyszergyártá
 
 |  | 4.2.4 Egyéb import tevékenység / Other import activities 4.2.4.1 Radioaktív gyógyszerek/Radioaktív izotópgenerátorok / Radiopharmaceuticals/Radionuclide generators □ 4.2.4.2 Orvosi gázok / Medicinal gases □ 4.2.4.3 Növényi gyógyszerek / Herbal products □ 4.2.4.4 Homeopátiás gyógyszerek / Homeopathic products □ 4.2.4.5 Biológiailag aktív kiindulási anyagok / Biological active starting materials □ 4.2.4.6 Egyéb / Other □ ……………………………………………………………………………..…… |
 
-[^24]: A 3. melléklet a 10/2012. (VII. 19.) EMMI rendelet 19. §-ával megállapított szöveg.
+[^25]: A 3. melléklet a 10/2012. (VII. 19.) EMMI rendelet 19. §-ával megállapított szöveg.
