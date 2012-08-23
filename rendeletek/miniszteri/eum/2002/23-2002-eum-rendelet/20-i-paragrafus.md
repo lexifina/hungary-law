@@ -1,4 +1,4 @@
-## 20/I. §[^41] Kiskorúakon beavatkozással nem járó vizsgálat a 20/G–20/H. §-ban foglaltak megfelelő alkalmazása esetén is csak akkor végezhető, ha az alábbi feltételek mindegyike teljesül:
+## 20/I. §[^46] Kiskorúakon beavatkozással nem járó vizsgálat a 20/G–20/H. §-ban foglaltak megfelelő alkalmazása esetén is csak akkor végezhető, ha az alábbi feltételek mindegyike teljesül:
 
 a) a vizsgálat közvetlen kapcsolatban van azzal a klinikai kórképpel, amelyben a kiskorú szenved, vagy olyan jellegű, amely csak kiskorúakon végezhető el;
 
@@ -8,6 +8,7 @@ c) a kiskorúakkal kapcsolatban tapasztalattal rendelkező vizsgáló a kiskorú
 
 d) a vizsgáló vagy a vizsgálatvezető teljeskörűen figyelembe veszi, ha a véleményalkotásra és helyzetértékelésre képes 16 éven aluli kiskorú kifejezetten elhárítja a vizsgálatban való részvételt, illetve azt, hogy a vizsgálatból bármikor ki kíván lépni;
 
-e) a 20/D. § szerinti szerv gyermekgyógyász szakorvos szakvéleményének birtokában dönt az engedélyezésről.
+e)[^47]
 
-[^41]: A 20/I. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^46]: A 20/I. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^47]: A 20/I. § e) pontját a 15/2012. (VIII. 22.) EMMI rendelet 26. §-a hatályon kívül helyezte.

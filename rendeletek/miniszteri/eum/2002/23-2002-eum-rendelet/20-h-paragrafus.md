@@ -1,4 +1,4 @@
-20/H. §[^40] (1) A beavatkozással nem járó vizsgálat alanyát a vizsgálatba való beleegyezését megelőzően a vizsgálat vezetője vagy a vizsgáló szóban és írásban magyar nyelven – illetve a vizsgálati alany anyanyelvén vagy a vizsgálati alany által ismertként megjelölt más nyelven –, laikus számára is érthető módon szóban és írásban tájékoztatja
+20/H. §[^45] (1) A beavatkozással nem járó vizsgálat alanyát a vizsgálatba való beleegyezését megelőzően a vizsgálat vezetője vagy a vizsgáló szóban és írásban magyar nyelven – illetve a vizsgálati alany anyanyelvén vagy a vizsgálati alany által ismertként megjelölt más nyelven –, laikus számára is érthető módon szóban és írásban tájékoztatja
 
 a) a vizsgálatban való részvétel önkéntességéről, valamint arról, hogy a beleegyezés bármikor, a (2) bekezdésben foglaltak szerint szóban vagy írásban indokolás és hátrányos következmények nélkül visszavonható;
 
@@ -38,4 +38,4 @@ f) a beleegyező nyilatkozatot tevő aláírását.
 
 (7) Amennyiben a beavatkozással nem járó vizsgálattal kapcsolatban olyan új, lényeges információ válik ismertté, amely érinti az írásos tájékoztatóban foglaltakat, az engedély módosítását kell kezdeményezni a 20/M. §-ban foglaltaknak megfelelően. A módosított írásos tájékoztatóban foglaltakról a vizsgálati alanyt ismételten tájékoztatni kell, és beleegyezését kell kérni a vizsgálat folytatásához. Ennek hiányában a vizsgálatot az érintett személyen nem lehet folytatni.
 
-[^40]: A 20/H. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^45]: A 20/H. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.

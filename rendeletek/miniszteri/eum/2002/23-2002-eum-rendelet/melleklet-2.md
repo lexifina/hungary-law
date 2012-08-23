@@ -22,6 +22,6 @@
 
 | 10. Győr-Moson-Sopron, Komárom-Esztergom és Fejér megyében lévő egészségügyi intézmények | Győr-Moson-Sopron Megyei Önkormányzat Petz Aladár Kórháza, Győr, Regionális Tudományos és Kutatásetikai Bizottsága |
 
-2. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^57]
+2. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^70]
 
-[^57]: A 2. számú mellékletet az 1/2007. (I. 24.) EüM rendelet 2. § a) pontja iktatta be.
+[^70]: A 2. számú mellékletet az 1/2007. (I. 24.) EüM rendelet 2. § a) pontja iktatta be, szövege a 15/2012. (VIII. 22.) EMMI rendelet 24. § (1) bekezdése szerint módosított szöveg.
