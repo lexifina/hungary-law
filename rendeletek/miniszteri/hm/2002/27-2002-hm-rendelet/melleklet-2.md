@@ -1,14 +1,14 @@
 ## Az elismerések leírása
 
-## 1.[^98] A Sebesülési Szolgálati Érdemjel: 38 mm átmérőjű, ezüstszínű érem, előlapján két keresztbe tett kardra helyezett, lombbal díszített címerrel. Az érem felső ívén ,,LAESO MILITI'' szövegrész található, alsó íve pedig vörös zománccal szegélyezett. A hátlapba a sebesülés helyszínét (város, ország) és évét kell bevésni.
+## 1.[^100] A Sebesülési Szolgálati Érdemjel: 38 mm átmérőjű, ezüstszínű érem, előlapján két keresztbe tett kardra helyezett, lombbal díszített címerrel. Az érem felső ívén ,,LAESO MILITI'' szövegrész található, alsó íve pedig vörös zománccal szegélyezett. A hátlapba a sebesülés helyszínét (város, ország) és évét kell bevésni.
 
 ## A szalag színe bíbor, szélein a háromszögek felváltva tartalmazzák a magyar nemzeti színeket. A szalag közepén a sérülések számának megfelelő számú, legfeljebb öt ezüst csík látható.
 
-## 2.[^99] A Szolgálati Érdemjel: Az előlapján szalaggal átfont babérkoszorúval határolt ovális mezőben címer rátét nemzeti zászlókkal határolva. A babérkoszorú belső ívén, a fokozatoknak megfelelően arany, ezüst, bronz sáv látható, amely azonos a babérkoszorút átfonó szalag színével. A szalagok színe fokozatonként: piros, fehér, zöld, széleit farkasfog minta díszíti, amelynek minden háromszöge egyenként tartalmazza a nemzeti színeket. Az érem mérete 43 x 35 mm-es, anyaga tombach, tűzzománcozott, aranyozott rátéttel kivitelezve.
+## 2.[^101] A Szolgálati Érdemjel: Az előlapján szalaggal átfont babérkoszorúval határolt ovális mezőben címer rátét nemzeti zászlókkal határolva. A babérkoszorú belső ívén, a fokozatoknak megfelelően arany, ezüst, bronz sáv látható, amely azonos a babérkoszorút átfonó szalag színével. A szalagok színe fokozatonként: piros, fehér, zöld, széleit farkasfog minta díszíti, amelynek minden háromszöge egyenként tartalmazza a nemzeti színeket. Az érem mérete 43 x 35 mm-es, anyaga tombach, tűzzománcozott, aranyozott rátéttel kivitelezve.
 
-## 2/A.[^100] Babérkoszorúval Ékesített Szolgálati Érdemjel: Előlapján négy helyen ívelt szélű pánttal díszített, illetve szalaggal átkötött, stilizált, aranyszínű ovális babérkoszorúban sugaras díszítésű, fehér zománc alapon a Magyarország aranyszínű címere látható. Hátlapján négy helyen ívelt szélű pánttal díszített, illetve szalaggal átkötött, stilizált, aranyszínű ovális babérkoszorúban „A HAZÁÉRT” félköríves felirat alatt hegyével jobbra mutató kardot markoló, kiterjesztett szárnyú, jobbra néző ragadozó madár, alatta fehér pólyával vágott vörös-zöld tárcsapajzs, a háttérben körívet formáló, keresztbe fektetett tölgy- és babérág. Nemzetiszínű farkasfogakkal szegélyezett okkersárga szalagon függ, amelyen zöld zománcos, stilizált babérkoszorú ékítmény van.
+## 2/A.[^102] Babérkoszorúval Ékesített Szolgálati Érdemjel: Előlapján négy helyen ívelt szélű pánttal díszített, illetve szalaggal átkötött, stilizált, aranyszínű ovális babérkoszorúban sugaras díszítésű, fehér zománc alapon a Magyarország aranyszínű címere látható. Hátlapján négy helyen ívelt szélű pánttal díszített, illetve szalaggal átkötött, stilizált, aranyszínű ovális babérkoszorúban „A HAZÁÉRT” félköríves felirat alatt hegyével jobbra mutató kardot markoló, kiterjesztett szárnyú, jobbra néző ragadozó madár, alatta fehér pólyával vágott vörös-zöld tárcsapajzs, a háttérben körívet formáló, keresztbe fektetett tölgy- és babérág. Nemzetiszínű farkasfogakkal szegélyezett okkersárga szalagon függ, amelyen zöld zománcos, stilizált babérkoszorú ékítmény van.
 
-## 3.[^101] Tiszti Szolgálati Jel:
+## 3.[^103] Tiszti Szolgálati Jel:
 
 ## a) I. fokozat: sűrű fonatos, arany vitézkötés alapon, középpont felé összefutó szárú, ezüstkereszt fehér zománccsíkkal, közepén lombbal díszített, zománcozott gótikus címerpajzs van. A felfüggesztésnél az ellenkarikán stilizált arany cserfalevél.
 
@@ -18,7 +18,7 @@
 
 ## A szalag színe fehér, széleit farkasfog minta díszíti, amelynek minden háromszöge egyenként tartalmazza a nemzeti színeket.
 
-## 4.[^102] Altiszti Szolgálati Jel:
+## 4.[^104] Altiszti Szolgálati Jel:
 
 ## a) I. fokozat: sűrű fonatos, ezüst vitézkötés alapon, középpont felé összefutó szárú ezüstkereszt, zöld zománccsíkkal, közepén lombbal díszített zománcozott címerpajzs van. A felfüggesztésnél az ellenkarikán stilizált ezüst cserfalevél.
 
@@ -28,7 +28,7 @@
 
 ## A szalag színe zöld, széleit farkasfog minta díszíti, amelynek minden háromszöge egyenként tartalmazza a nemzeti színeket.
 
-## 5.[^103] Legénységi Szolgálati Jel:
+## 5.[^105] Legénységi Szolgálati Jel:
 
 ## a) I. fokozat: négyzetbe foglalt, fénytelen aranysugár alapon, középpont felé összefutó szárú kereszt, vörös zománccsíkkal, közepén fénytelen arany címerpajzs van, lomb nélkül. A felfüggesztés ezüstkarika.
 
@@ -40,21 +40,21 @@
 
 ## A szolgálati jel anyaga tombak, vastagsága legfeljebb 4 mm, és befoglalható egy 38 mm átmérőjű körbe.
 
-## 6.[^104] Árvízvédelemért Szolgálati Jel: 38 mm átmérőjű, ezüst színű érem, előlapján a Szolgálati Jel keresztje látható, közepén koszorúval. Az érem felső ívén az ,,Az árvízvédelmi tevékenység elismerésére'' szövegrész található. A hátlapon lombbal díszített magyar címer látható, alatta hely az adományozás bevésendő évének számára.
+## 6.[^106] Árvízvédelemért Szolgálati Jel: 38 mm átmérőjű, ezüst színű érem, előlapján a Szolgálati Jel keresztje látható, közepén koszorúval. Az érem felső ívén az ,,Az árvízvédelmi tevékenység elismerésére'' szövegrész található. A hátlapon lombbal díszített magyar címer látható, alatta hely az adományozás bevésendő évének számára.
 
 ## A szalag színe világoskék, szélein a háromszögek felváltva tartalmazzák a nemzeti színeket.
 
-## 7.[^105] Békefenntartásért Szolgálati Jel: 38 mm átmérőjű, ezüstszínű érem, előlapján a Szolgálati Jel keresztje látható, középen koszorúval. Az érem felső ívén ,,A békefenntartó tevékenység elismerésére'' szövegrész, alsó ívén pedig a békefenntartó misszió hivatalos angol nyelvű rövidítése (pl. IFOR, SFOR, AFOR, KFOR) található. A hátlapon lombbal díszített magyar címer van, alatta hely az adományozás bevésendő évének számára.
+## 7.[^107] Békefenntartásért Szolgálati Jel: 38 mm átmérőjű, ezüstszínű érem, előlapján a Szolgálati Jel keresztje látható, középen koszorúval. Az érem felső ívén ,,A békefenntartó tevékenység elismerésére'' szövegrész, alsó ívén pedig a békefenntartó misszió hivatalos angol nyelvű rövidítése (pl. IFOR, SFOR, AFOR, KFOR) található. A hátlapon lombbal díszített magyar címer van, alatta hely az adományozás bevésendő évének számára.
 
 ## A szalag színe fehér, szélein a háromszögek felváltva tartalmazzák bal oldalt a magyar nemzeti, jobb oldalt pedig az Egyesült Nemzetek Szervezetét jelképező színeket. A békefenntartó tevékenység teljesítésének helyére a szalag, illetve a szalagsáv fémből készült rátétje utal.
 
-## 7/A.[^106] NATO/EU/EBESZ/ENSZ Szolgálatért Érdemérem: 38 mm átmérőjű, antikolt, ezüstözött kivitelű érem. Az érem középmezőjében plasztikus kereszt forma látható, mögötte a jobb felső és a bal alsó negyedében a magyar zászló sávjai jelenítődnek meg a heraldika szabályai szerint. Az érem közép részében a szolgálatteljesítés helye szerinti embléma (NATO/EU/EBESZ/ENSZ) látható. Az érem hátoldalán középen, fekvő ovális mezőben a szolgálatteljesítés időpontja évszámmal és a szolgálatteljesítés helye látható.
+## 7/A.[^108] NATO/EU/EBESZ/ENSZ Szolgálatért Érdemérem: 38 mm átmérőjű, antikolt, ezüstözött kivitelű érem. Az érem középmezőjében plasztikus kereszt forma látható, mögötte a jobb felső és a bal alsó negyedében a magyar zászló sávjai jelenítődnek meg a heraldika szabályai szerint. Az érem közép részében a szolgálatteljesítés helye szerinti embléma (NATO/EU/EBESZ/ENSZ) látható. Az érem hátoldalán középen, fekvő ovális mezőben a szolgálatteljesítés időpontja évszámmal és a szolgálatteljesítés helye látható.
 
 ## A szalag háromszög alakú, kék színű, jobb oldali szélén a szegélytől 3 mm-re fehér színű farkasfogazás látható.
 
-## 8.[^107] Szövetségért Szolgálati Jel: Előlapján nemzeti színű zsinórminta által körbefogott fehér mezőben címer és lomb látható. A szalag színe világoszöld, középen a nemzeti színeket tartalmazó sávval. Az érem 38 mm átmérőjű, kör alakú, tombach anyagú, tűzzománcozott, aranyozott kivitelben.
+## 8.[^109] Szövetségért Szolgálati Jel: Előlapján nemzeti színű zsinórminta által körbefogott fehér mezőben címer és lomb látható. A szalag színe világoszöld, középen a nemzeti színeket tartalmazó sávval. Az érem 38 mm átmérőjű, kör alakú, tombach anyagú, tűzzománcozott, aranyozott kivitelben.
 
-## 9.[^108] Honvédelemért Kitüntető Cím:
+## 9.[^110] Honvédelemért Kitüntető Cím:
 
 ## a) I. osztálya: középpont felé összefutó szárú ezüstkereszt, sötétzöld zománccsíkkal, középen lombbal díszített zománcos címer van. A felfüggesztésnél az ellenkarikán arany akantuszlevél.
 
@@ -64,7 +64,7 @@
 
 ## A szalag színe sötétzöld, széleit farkasfog minta díszíti, amelynek minden háromszöge egyenként tartalmazza a nemzeti színeket.
 
-## 9/A.[^109] Magyar Hadigondozásért Kitüntető Cím:
+## 9/A.[^111] Magyar Hadigondozásért Kitüntető Cím:
 
 ## a) I. osztálya: középpont felé összefutó szárú, szürke színű, 35 mm átmérőjű kereszt, fekete zománccsíkkal. Felső szárában ,,PRO CUSTODIA'', bal szárában ,,TUMULORUM'', jobb szárában ,,MILITUM'' fekete felirat, alsó szárában sötétbarna sírhalom látható, amelyből 3 mm vastagságú sötétbarna egyszerű sírkereszt emelkedik ki. A középpajzsban arany babérkoszorú övezi a sírkereszt felső harmadát és a tetején döntött, balra néző sötétbarna rohamsisak nyugszik.
 
@@ -74,21 +74,21 @@
 
 ## Háromszögben hajtogatott szalagja 40 mm átmérőjű, középen 6 mm széles, felülről lefelé 65 fokban döntött zöld csíkkal, attól felfelé és kifelé azonos szélességű fehér és piros csíkokkal, a zöld csíktól lefelé a szalag széléig futó fekete sávval. A szalagsáv bal fele piros-fehér-zöld, jobb fele fekete.
 
-## 10.[^110] Aranykor Kitüntető Cím: Előlapján babérkoszorúval határolt ovális mezőben koronás címer kardokkal, a korona alatt a címer két oldalán lelógó tölgy és babér ágakkal. Hátlapján körívben ,,Magyar Honvédség'' felirat olvasható. Az arany fokozat aranyozott babérkoszorú és címer, előlap bordó tűzzománc, az ezüst fokozat ezüstözött antikolt babérkoszorú és címer, a bronz fokozat antikolt bronz babérkoszorú és címer, előlap sötétzöld tűzzománc. A szalagok színe fokozatonként világospiros, fehér, bordó, középen a nemzeti színeket tartalmazó sávval, az érem mérete 43 x 35 mm, anyaga tombach.
+## 10.[^112] Aranykor Kitüntető Cím: Előlapján babérkoszorúval határolt ovális mezőben koronás címer kardokkal, a korona alatt a címer két oldalán lelógó tölgy és babér ágakkal. Hátlapján körívben ,,Magyar Honvédség'' felirat olvasható. Az arany fokozat aranyozott babérkoszorú és címer, előlap bordó tűzzománc, az ezüst fokozat ezüstözött antikolt babérkoszorú és címer, a bronz fokozat antikolt bronz babérkoszorú és címer, előlap sötétzöld tűzzománc. A szalagok színe fokozatonként világospiros, fehér, bordó, középen a nemzeti színeket tartalmazó sávval, az érem mérete 43 x 35 mm, anyaga tombach.
 
-## 11.[^111] Hazáért Kitüntető Cím: Fehér zománcozott, kereszt alakú érem, közepén ovális mezőben cserfa lombkoronával körülvett koronás címer, alatta ,,HAZÁÉRT'' felirattal. Az érem 38 mm átmérőjű, kör alakú, tombach anyagú, aranyozott kivitelben. A szalag színe: egyszínű zöld.
+## 11.[^113] Hazáért Kitüntető Cím: Fehér zománcozott, kereszt alakú érem, közepén ovális mezőben cserfa lombkoronával körülvett koronás címer, alatta ,,HAZÁÉRT'' felirattal. Az érem 38 mm átmérőjű, kör alakú, tombach anyagú, aranyozott kivitelben. A szalag színe: egyszínű zöld.
 
-## 11/A.[^112] Az Év Katonája Kitüntető Cím emlékplakettje egyszínű arany, vert kivitelű, kör alakú, 80 mm átmérőjű érem. A tetején a kör ívét követve a becsületes munka mindent legyőz, az alján Az Év Katonája felirat olvasható 16-os betűmérettel, Impact betűtípussal, nagybetűvel szedve. Az érem közepén az MH hivatalos emblémája, alatta 4 hatágú rozetta helyezkedik el a felirat ívét követve. Az MH emblémában a babér és az olajág találkozásánál a minősített év évszáma helyezkedik el.
+## 11/A.[^114] Az Év Katonája Kitüntető Cím emlékplakettje egyszínű arany, vert kivitelű, kör alakú, 80 mm átmérőjű érem. A tetején a kör ívét követve a becsületes munka mindent legyőz, az alján Az Év Katonája felirat olvasható 16-os betűmérettel, Impact betűtípussal, nagybetűvel szedve. Az érem közepén az MH hivatalos emblémája, alatta 4 hatágú rozetta helyezkedik el a felirat ívét követve. Az MH emblémában a babér és az olajág találkozásánál a minősített év évszáma helyezkedik el.
 
 ## A jelvény fehér tűzzománc, kör alakú, 20 mm átmérőjű, rajta az MH hivatalos emblémája. Az embléma alatt 4 hatágú, aranyszínű rozetta. A babér és az olajág találkozásánál a minősített év évszáma helyezkedik el.
 
 ## A jelvényt a zubbony bal felső zsebtakaróján, a gomb és a belső széle között, középen kell elhelyezni.
 
-## 12.[^113] Kiváló Tanulmányokért Kitüntető Cím: Sugárkoszorúval határolt, honvéd tisztjelölt részére arany, honvéd altiszt-jelölt részére ezüst színű érem, előlapján Kossuth címer, keresztben elhelyezett kard és toll rátéttel. Az érem mérete 38x56 mm, tombach anyagú, aranyozott, illetve ezüstözött antikolt kivitelben. Patentrögzítéssel.
+## 12.[^115] Kiváló Tanulmányokért Kitüntető Cím: Sugárkoszorúval határolt, honvéd tisztjelölt részére arany, honvéd altiszt-jelölt részére ezüst színű érem, előlapján Kossuth címer, keresztben elhelyezett kard és toll rátéttel. Az érem mérete 38x56 mm, tombach anyagú, aranyozott, illetve ezüstözött antikolt kivitelben. Patentrögzítéssel.
 
-## 13.[^114] Honvédségért Emlékplakett: Bronzszínű, kör alakú, 80 mm átmérőjű érem. Az előlap alsó mezőjében a ,,HONVÉDSÉGÉRT'' felirat olvasható. Felette babér- és tölgykoszorúk által határolt plasztikus koronás magyar címer. A koszorúkat a honvédség farkasfogas zászlói és nemzeti zászlók, illetve a honvédséget szimbolizáló ágyúk veszik körül.
+## 13.[^116] Honvédségért Emlékplakett: Bronzszínű, kör alakú, 80 mm átmérőjű érem. Az előlap alsó mezőjében a ,,HONVÉDSÉGÉRT'' felirat olvasható. Felette babér- és tölgykoszorúk által határolt plasztikus koronás magyar címer. A koszorúkat a honvédség farkasfogas zászlói és nemzeti zászlók, illetve a honvédséget szimbolizáló ágyúk veszik körül.
 
-## 14.[^115] A díjak leírása: Plakett, álló ovális alakú, rajta a névadó arcmása és neve. Anyaga bronz, mérete 70 x 100 mm. Kitűzője kerek vagy ovális, rajta a díjat megjelenítő motívumokkal, mérete 20 mm. A miniatűr jelvényt a szolgálati, köznapi és ünnepi öltözet esetén a zubbony jobb oldalán, a zsebtakaró felett kell viselni.
+## 14.[^117] A díjak leírása: Plakett, álló ovális alakú, rajta a névadó arcmása és neve. Anyaga bronz, mérete 70 x 100 mm. Kitűzője kerek vagy ovális, rajta a díjat megjelenítő motívumokkal, mérete 20 mm. A miniatűr jelvényt a szolgálati, köznapi és ünnepi öltözet esetén a zubbony jobb oldalán, a zsebtakaró felett kell viselni.
 
 2. számú melléklet a 27/2002. (IV. 17.) HM rendelethez
 
@@ -132,99 +132,99 @@ A Magyar Köztársaság
 
 15. Hazáért Kitüntető Cím,
 
-16.[^116] Sebesülési Szolgálati Érdemjel
+16.[^118] Sebesülési Szolgálati Érdemjel
 
-16/A.[^117] Babérkoszorúval Ékesített Szolgálati Érdemjel,
+16/A.[^119] Babérkoszorúval Ékesített Szolgálati Érdemjel,
 
-17.[^118] Szolgálati Emlékjel,
+17.[^120] Szolgálati Emlékjel,
 
-18.[^119] Szolgálati Érdemjel arany fokozat (Szolgálati Jel I. o.),
+18.[^121] Szolgálati Érdemjel arany fokozat (Szolgálati Jel I. o.),
 
-19.[^120] Honvédelemért Kitüntető Cím I. osztálya,
+19.[^122] Honvédelemért Kitüntető Cím I. osztálya,
 
-19/A.[^121] a ,,Magyar Hadisírgondozásért Kitüntető Cím I. osztálya,
+19/A.[^123] a ,,Magyar Hadisírgondozásért Kitüntető Cím I. osztálya,
 
-20.[^122] Szolgálati Érdemjel ezüst fokozat (Szolgálati Jel II. o.),
+20.[^124] Szolgálati Érdemjel ezüst fokozat (Szolgálati Jel II. o.),
 
-21.[^123] Honvédelemért Kitüntető Cím II. osztálya,
+21.[^125] Honvédelemért Kitüntető Cím II. osztálya,
 
-21/A.[^124] a ,,Magyar Hadisírgondozásért Kitüntető Cím II. osztálya,
+21/A.[^126] a ,,Magyar Hadisírgondozásért Kitüntető Cím II. osztálya,
 
-22.[^125] Ti., Alt-i, (zls.-i) Szolgálati Jel I. fokozat,
+22.[^127] Ti., Alt-i, (zls.-i) Szolgálati Jel I. fokozat,
 
-23.[^126] Szolgálati Érdemjel bronz fokozat (Szolgálati Jel III. o.),
+23.[^128] Szolgálati Érdemjel bronz fokozat (Szolgálati Jel III. o.),
 
-24.[^127] Árvízvédelemért Szolgálati Jel,
+24.[^129] Árvízvédelemért Szolgálati Jel,
 
-24/A.[^128] NATO/EU/EBESZ/ENSZ Szolgálati Érdemérem,
+24/A.[^130] NATO/EU/EBESZ/ENSZ Szolgálati Érdemérem,
 
-25.[^129] Békefenntartásért Szolgálati Jel,
+25.[^131] Békefenntartásért Szolgálati Jel,
 
-26.[^130] Honvédelemért Kitüntető Cím III. osztálya,
+26.[^132] Honvédelemért Kitüntető Cím III. osztálya,
 
-26/A.[^131] a ,,Magyar Hadisírgondozásért Kitüntető Cím III. osztálya,
+26/A.[^133] a ,,Magyar Hadisírgondozásért Kitüntető Cím III. osztálya,
 
-27.[^132] Ti-i., Alt-i, (zls.-i) Szolgálati Jel II. fokozat,
+27.[^134] Ti-i., Alt-i, (zls.-i) Szolgálati Jel II. fokozat,
 
-28.[^133] Ti-i., Alt-i, (zls.-i) Szolgálati Jel III. fokozata,
+28.[^135] Ti-i., Alt-i, (zls.-i) Szolgálati Jel III. fokozata,
 
-29.[^134] Legénységi Szolgálati Jel I. fokozata,
+29.[^136] Legénységi Szolgálati Jel I. fokozata,
 
-30.[^135] Legénységi Szolgálati Jel II. fokozata,
+30.[^137] Legénységi Szolgálati Jel II. fokozata,
 
-31.[^136] Legénységi Szolgálati Jel III. fokozata,
+31.[^138] Legénységi Szolgálati Jel III. fokozata,
 
-32.[^137] II. világháború előtt alapított kitüntetések,
+32.[^139] II. világháború előtt alapított kitüntetések,
 
-33.[^138] 1945–1948 között alapított kitüntetések,
+33.[^140] 1945–1948 között alapított kitüntetések,
 
-34.[^139] 1948–1990 között alapított kitüntetések (Viselésük csak szalagsávon engedélyezett. Katonai temetések alkalmával a rendjelvivő párnákra eredeti formájukban helyezhetők el, kivéve a Munkás-Paraszt Hatalomért Emlékérem és a Magyar Szabadság Érdemrendet.)
+34.[^141] 1948–1990 között alapított kitüntetések (Viselésük csak szalagsávon engedélyezett. Katonai temetések alkalmával a rendjelvivő párnákra eredeti formájukban helyezhetők el, kivéve a Munkás-Paraszt Hatalomért Emlékérem és a Magyar Szabadság Érdemrendet.)
 
-35.[^140] Más fegyveres szervtől kapott kitüntetések, szolgálati jelek az adományozás sorrendjében,
+35.[^142] Más fegyveres szervtől kapott kitüntetések, szolgálati jelek az adományozás sorrendjében,
 
-36.[^141] Külföldi kitüntetések és az ENSZ, az EBESZ, az MFO és a NATO által a szolgálatukban végzett tevékenységért adományozott kitüntetések vagy más szolgálati jelek az adományozás sorrendjében.
+36.[^143] Külföldi kitüntetések és az ENSZ, az EBESZ, az MFO és a NATO által a szolgálatukban végzett tevékenységért adományozott kitüntetések vagy más szolgálati jelek az adományozás sorrendjében.
 
-[^98]: Az 1. számú melléklet új 1. pontját a 4/2004. (III. 2.) HM rendelet 6. §-a iktatta a szövegbe, egyidejűleg az eredeti 1–13. pont számozását 2–14. pontra változtatta.
-[^99]: Az 1. számú melléklet eredeti 1. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 2. pontra változtatta.
-[^100]: Az 1. számú melléklet 2/A. pontját a 7/2007. (II. 23.) HM rendelet 20. § (1) bekezdése iktatta be, szövege a 3/2012. (III. 6.) HM rendelet 39. § l) pontja szerint módosított szöveg.
-[^101]: Az 1. számú melléklet eredeti 2. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 3. pontra változtatta.
-[^102]: Az 1. számú melléklet eredeti 3. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 4. pontra változtatta, nyitó szövegrésze a 3/2012. (III. 6.) HM rendelet 39. § m) pontja szerint módosított szöveg.
-[^103]: Az 1. számú melléklet eredeti 4. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 5. pontra változtatta.
-[^104]: Az 1. számú melléklet eredeti 5. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 6. pontra változtatta.
-[^105]: Az 1. számú melléklet eredeti 6. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 7. pontra változtatta.
-[^106]: Az 1. számú melléklet 7/A. pontját az 5/2004. (III. 4.) HM rendelet 9. §-ának (1) bekezdése iktatta be, e módosító rendelet 11. §-ának (3) bekezdése alapján a NATO/EU/EBESZ/ENSZ Szolgálati Érdemérem adományozására első alkalommal 2004. március 12-én kerül sor.
-[^107]: Az 1. számú melléklet eredeti 7. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 8. pontra változtatta.
-[^108]: Az 1. számú melléklet eredeti 8. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 9. pontra változtatta.
-[^109]: Az 1. számú melléklet 9/A. pontját az 5/2004. (III. 4.) HM rendelet 9. §-ának (2) bekezdése iktatta a szövegbe.
-[^110]: Az 1. számú melléklet eredeti 9. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 10. pontra változtatta.
-[^111]: Az 1. számú melléklet eredeti 10. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 11. pontra változtatta.
-[^112]: Az 1. számú melléklet 11/A. pontját a 7/2007. (II. 23.) HM rendelet 20. § (2) bekezdése iktatta be, szövege a 31/2007. (VIII. 3.) HM rendelet 2. §-a szerint módosított szöveg.
-[^113]: Az 1. számú melléklet eredeti 11. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 12. pontra változtatta, szövege a 3/2012. (III. 6.) HM rendelet 38. §-ával megállapított szöveg.
-[^114]: Az 1. számú melléklet eredeti 12. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 13. pontra változtatta.
-[^115]: Az 1. számú melléklet eredeti 13. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 14. pontra változtatta.
-[^116]: A 2. számú melléklet új 16. pontját a 4/2004. (III. 2.) HM rendelet 7. §-a iktatta a szövegbe, egyidejűleg az eredeti 16–35. pont jelölését 17–36. pontra változtatta.
-[^117]: A 2. számú melléklet 16/A. pontját a 7/2007. (II. 23.) HM rendelet 21. § (1) bekezdése iktatta be.
-[^118]: A 2. számú melléklet eredeti 16. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 17. pontra változtatta.
-[^119]: A 2. számú melléklet eredeti 17. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 18. pontra változtatta.
-[^120]: A 2. számú melléklet eredeti 18. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 19. pontra változtatta.
-[^121]: A 2. számú melléklet 19/A. pontját az 5/2004. (III. 4.) HM rendelet 10. §-ának (1) bekezdése iktatta be, e módosító rendelet 11. §-ának (2) bekezdése alapján a Magyar Hadisírgondozásért Kitüntető Cím adományozására először a 2004. évi Honvédelem Napján kerül sor. A kitüntető cím első alkalommal az osztályokra tekintet nélkül, kivételesen 15 fő részére adományozható.
-[^122]: A 2. számú melléklet eredeti 19. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 20. pontra változtatta.
-[^123]: A 2. számú melléklet eredeti 20. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 21. pontra változtatta.
-[^124]: A 2. számú melléklet 21/A. pontját az 5/2004. (III. 4.) HM rendelet 10. §-ának (2) bekezdése iktatta be, e módosító rendelet 11. §-ának (2) bekezdése alapján a Magyar Hadisírgondozásért Kitüntető Cím adományozására először a 2004. évi Honvédelem Napján kerül sor. A kitüntető cím első alkalommal az osztályokra tekintet nélkül, kivételesen 15 fő részére adományozható.
-[^125]: A 2. számú melléklet eredeti 21. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 22. pontra változtatta, szövege a 3/2012. (III. 6.) HM rendelet 39. § n) pontja szerint módosított szöveg.
-[^126]: A 2. számú melléklet eredeti 22. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 23. pontra változtatta.
-[^127]: A 2. számú melléklet eredeti 23. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 24. pontra változtatta.
-[^128]: A 2. számú melléklet 24/A. pontját az 5/2004. (III. 4.) HM rendelet 10. §-ának (3) bekezdése iktatta be, e módosító rendelet 11. §-ának (3) bekezdése alapján a NATO/EU/EBESZ/ENSZ Szolgálati Érdemérem adományozására első alkalommal 2004. március 12-én kerül sor.
-[^129]: A 2. számú melléklet eredeti 24. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 25. pontra változtatta.
-[^130]: A 2. számú melléklet eredeti 25. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 26. pontra változtatta.
-[^131]: A 2. számú melléklet 26/A. pontját az 5/2004. (III. 4.) HM rendelet 10. §-ának (4) bekezdése iktatta be, e módosító rendelet 11. §-ának (2) bekezdése alapján a Magyar Hadisírgondozásért Kitüntető Cím adományozására először a 2004. évi Honvédelem Napján kerül sor. A kitüntető cím első alkalommal az osztályokra tekintet nélkül, kivételesen 15 fő részére adományozható.
-[^132]: A 2. számú melléklet eredeti 26. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 27. pontra változtatta, szövege a 3/2012. (III. 6.) HM rendelet 39. § n) pontja szerint módosított szöveg.
-[^133]: A 2. számú melléklet eredeti 27. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 28. pontra változtatta, szövege a 3/2012. (III. 6.) HM rendelet 39. § n) pontja szerint módosított szöveg.
-[^134]: A 2. számú melléklet eredeti 28. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 29. pontra változtatta.
-[^135]: A 2. számú melléklet eredeti 29. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 30. pontra változtatta.
-[^136]: A 2. számú melléklet eredeti 30. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 31. pontra változtatta.
-[^137]: A 2. számú melléklet eredeti 31. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 32. pontra változtatta.
-[^138]: A 2. számú melléklet eredeti 32. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 33. pontra változtatta.
-[^139]: A 2. számú melléklet eredeti 33. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 34. pontra változtatta, szövege a 7/2007. (II. 23.) HM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^140]: A 2. számú melléklet eredeti 34. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 35. pontra változtatta.
-[^141]: A 2. számú melléklet eredeti 35. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 36. pontra változtatta, szövege a 3/2012. (III. 6.) HM rendelet 39. § o) pontja szerint módosított szöveg.
+[^100]: Az 1. számú melléklet új 1. pontját a 4/2004. (III. 2.) HM rendelet 6. §-a iktatta a szövegbe, egyidejűleg az eredeti 1–13. pont számozását 2–14. pontra változtatta.
+[^101]: Az 1. számú melléklet eredeti 1. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 2. pontra változtatta.
+[^102]: Az 1. számú melléklet 2/A. pontját a 7/2007. (II. 23.) HM rendelet 20. § (1) bekezdése iktatta be, szövege a 3/2012. (III. 6.) HM rendelet 39. § l) pontja szerint módosított szöveg.
+[^103]: Az 1. számú melléklet eredeti 2. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 3. pontra változtatta.
+[^104]: Az 1. számú melléklet eredeti 3. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 4. pontra változtatta, nyitó szövegrésze a 3/2012. (III. 6.) HM rendelet 39. § m) pontja szerint módosított szöveg.
+[^105]: Az 1. számú melléklet eredeti 4. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 5. pontra változtatta.
+[^106]: Az 1. számú melléklet eredeti 5. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 6. pontra változtatta.
+[^107]: Az 1. számú melléklet eredeti 6. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 7. pontra változtatta.
+[^108]: Az 1. számú melléklet 7/A. pontját az 5/2004. (III. 4.) HM rendelet 9. §-ának (1) bekezdése iktatta be, e módosító rendelet 11. §-ának (3) bekezdése alapján a NATO/EU/EBESZ/ENSZ Szolgálati Érdemérem adományozására első alkalommal 2004. március 12-én kerül sor.
+[^109]: Az 1. számú melléklet eredeti 7. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 8. pontra változtatta.
+[^110]: Az 1. számú melléklet eredeti 8. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 9. pontra változtatta.
+[^111]: Az 1. számú melléklet 9/A. pontját az 5/2004. (III. 4.) HM rendelet 9. §-ának (2) bekezdése iktatta a szövegbe.
+[^112]: Az 1. számú melléklet eredeti 9. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 10. pontra változtatta.
+[^113]: Az 1. számú melléklet eredeti 10. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 11. pontra változtatta.
+[^114]: Az 1. számú melléklet 11/A. pontját a 7/2007. (II. 23.) HM rendelet 20. § (2) bekezdése iktatta be, szövege a 31/2007. (VIII. 3.) HM rendelet 2. §-a szerint módosított szöveg.
+[^115]: Az 1. számú melléklet eredeti 11. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 12. pontra változtatta, szövege a 3/2012. (III. 6.) HM rendelet 38. §-ával megállapított szöveg.
+[^116]: Az 1. számú melléklet eredeti 12. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 13. pontra változtatta.
+[^117]: Az 1. számú melléklet eredeti 13. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 6. §-a 14. pontra változtatta.
+[^118]: A 2. számú melléklet új 16. pontját a 4/2004. (III. 2.) HM rendelet 7. §-a iktatta a szövegbe, egyidejűleg az eredeti 16–35. pont jelölését 17–36. pontra változtatta.
+[^119]: A 2. számú melléklet 16/A. pontját a 7/2007. (II. 23.) HM rendelet 21. § (1) bekezdése iktatta be.
+[^120]: A 2. számú melléklet eredeti 16. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 17. pontra változtatta.
+[^121]: A 2. számú melléklet eredeti 17. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 18. pontra változtatta.
+[^122]: A 2. számú melléklet eredeti 18. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 19. pontra változtatta.
+[^123]: A 2. számú melléklet 19/A. pontját az 5/2004. (III. 4.) HM rendelet 10. §-ának (1) bekezdése iktatta be, e módosító rendelet 11. §-ának (2) bekezdése alapján a Magyar Hadisírgondozásért Kitüntető Cím adományozására először a 2004. évi Honvédelem Napján kerül sor. A kitüntető cím első alkalommal az osztályokra tekintet nélkül, kivételesen 15 fő részére adományozható.
+[^124]: A 2. számú melléklet eredeti 19. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 20. pontra változtatta.
+[^125]: A 2. számú melléklet eredeti 20. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 21. pontra változtatta.
+[^126]: A 2. számú melléklet 21/A. pontját az 5/2004. (III. 4.) HM rendelet 10. §-ának (2) bekezdése iktatta be, e módosító rendelet 11. §-ának (2) bekezdése alapján a Magyar Hadisírgondozásért Kitüntető Cím adományozására először a 2004. évi Honvédelem Napján kerül sor. A kitüntető cím első alkalommal az osztályokra tekintet nélkül, kivételesen 15 fő részére adományozható.
+[^127]: A 2. számú melléklet eredeti 21. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 22. pontra változtatta, szövege a 3/2012. (III. 6.) HM rendelet 39. § n) pontja szerint módosított szöveg.
+[^128]: A 2. számú melléklet eredeti 22. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 23. pontra változtatta.
+[^129]: A 2. számú melléklet eredeti 23. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 24. pontra változtatta.
+[^130]: A 2. számú melléklet 24/A. pontját az 5/2004. (III. 4.) HM rendelet 10. §-ának (3) bekezdése iktatta be, e módosító rendelet 11. §-ának (3) bekezdése alapján a NATO/EU/EBESZ/ENSZ Szolgálati Érdemérem adományozására első alkalommal 2004. március 12-én kerül sor.
+[^131]: A 2. számú melléklet eredeti 24. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 25. pontra változtatta.
+[^132]: A 2. számú melléklet eredeti 25. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 26. pontra változtatta.
+[^133]: A 2. számú melléklet 26/A. pontját az 5/2004. (III. 4.) HM rendelet 10. §-ának (4) bekezdése iktatta be, e módosító rendelet 11. §-ának (2) bekezdése alapján a Magyar Hadisírgondozásért Kitüntető Cím adományozására először a 2004. évi Honvédelem Napján kerül sor. A kitüntető cím első alkalommal az osztályokra tekintet nélkül, kivételesen 15 fő részére adományozható.
+[^134]: A 2. számú melléklet eredeti 26. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 27. pontra változtatta, szövege a 3/2012. (III. 6.) HM rendelet 39. § n) pontja szerint módosított szöveg.
+[^135]: A 2. számú melléklet eredeti 27. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 28. pontra változtatta, szövege a 3/2012. (III. 6.) HM rendelet 39. § n) pontja szerint módosított szöveg.
+[^136]: A 2. számú melléklet eredeti 28. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 29. pontra változtatta.
+[^137]: A 2. számú melléklet eredeti 29. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 30. pontra változtatta.
+[^138]: A 2. számú melléklet eredeti 30. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 31. pontra változtatta.
+[^139]: A 2. számú melléklet eredeti 31. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 32. pontra változtatta.
+[^140]: A 2. számú melléklet eredeti 32. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 33. pontra változtatta.
+[^141]: A 2. számú melléklet eredeti 33. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 34. pontra változtatta, szövege a 7/2007. (II. 23.) HM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^142]: A 2. számú melléklet eredeti 34. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 35. pontra változtatta.
+[^143]: A 2. számú melléklet eredeti 35. pontjának jelölését a 4/2004. (III. 2.) HM rendelet 7. §-a 36. pontra változtatta, szövege a 3/2012. (III. 6.) HM rendelet 39. § o) pontja szerint módosított szöveg.

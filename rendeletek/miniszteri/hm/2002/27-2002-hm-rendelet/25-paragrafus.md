@@ -1,4 +1,4 @@
-## 24. §[^27]
+## 24. §[^28]
 
 ## III. Fejezet
 
@@ -8,4 +8,4 @@
 
 ## Az adományozás általános szabályai
 
-[^27]: A 24. §-t és az azt megelőző alcímet a 7/2007. (II. 23.) HM rendelet 22. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^28]: A 24. §-t és az azt megelőző alcímet a 7/2007. (II. 23.) HM rendelet 22. § (2) bekezdésének a) pontja hatályon kívül helyezte.
