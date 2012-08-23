@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-52-20-0
 | 2011-08-19 | 2005-52-20-0B.17 | 41/2011. (VII. 5.) NEFMI rendelet |
 | 2011-12-28 | 2005-52-20-0B.18 | 41/2011. (VII. 5.) NEFMI rendelet |
 | 2012-01-04 | 2005-52-20-0B.19 | 2/2012. (I. 3.) NEFMI rendelet |
+| 2012-08-23 | 2005-52-20-0B.20 | 15/2012. (VIII. 22.) EMMI rendelet |

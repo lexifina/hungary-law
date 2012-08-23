@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti kérelemnek az – 1. számú mellékletben foglaltak alapján – tartalmaznia kell:
 
-a)[^12] a kérelmező számlázási és levelezési címét;
+a)[^13] a kérelmező számlázási és levelezési címét;
 
 b) a gyógyszer nevét;
 
@@ -30,7 +30,21 @@ kb) a farmakológiai, toxikológiai és más preklinikai vizsgálatokat,
 
 kc) klinikai vizsgálatokat;
 
-l) a mellékhatás-figyelés és adott esetben a kérelmező által esetlegesen bevezetni kívánt kockázatkezelési rendszer részletes leírását;
+l)[^14] a farmakovigilanciával kapcsolatban:
+
+la) a farmakovigilancia-rendszerének összefoglalását, amely az alábbi elemeket tartalmazza:
+
+1. igazolás arról, hogy a kérelmezőnél folyamatosan rendelkezésre áll legalább egy, a farmakovigilanciáért felelős, megfelelően képesített személy (a továbbiakban: farmakovigilanciáért felelős személy),
+
+2. a farmakovigilanciáért felelős személy lakóhelyeként és a tevékenység végzésének helyéül szolgáló EGT-tagállamok felsorolása,
+
+3. a farmakovigilanciáért felelős személy elérhetősége,
+
+4. a kérelmező által aláírt nyilatkozat arról, hogy rendelkezik a farmakovigilanciával kapcsolatos feladatok és felelősségek teljesítéséhez szükséges eszközökkel,
+
+5. a gyógyszer farmakovigilanciarendszer-törzsdokumentációja elérhetőségének helye;
+
+lb) a kérelmező által az érintett gyógyszer vonatkozásában bevezetendő, a Gytv. 1. § 33. pontjában foglalt, a gyógyszer felismert, illetve lehetséges kockázatait, valamint az engedélyezés utáni gyógyszerbiztonsági adatok iránti szükségletet figyelembe vevő kockázatkezelési tervet és annak összefoglalóját;
 
 m) nyilatkozatot arról, hogy az EGT-n kívül végzett klinikai vizsgálatok megfelelnek az emberi felhasználásra szánt gyógyszerekkel végzett klinikai vizsgálatok során alkalmazandó helyes klinikai gyakorlat bevezetésére vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről a 2001/20/EK európai parlamenti és a tanácsi irányelv etikai követelményeinek;
 
@@ -40,21 +54,26 @@ o) a készítmény és a hatóanyag(ok) minősége értékeléséhez szükséges
 
 p) a tervezett csomagolás mintadarabját vagy annak (színes csomagolás esetén színes) grafikáját;
 
-q) igazolást arról, hogy a kérelmezőnek folyamatosan rendelkezésére áll legalább egy, a mellékhatás-figyelésért felelős, megfelelően képzett személy;
+q)[^15]
 
 r) a 15. § (2) bekezdése szerinti dokumentumot;
 
-s)[^13] ha a gyógyszer Magyarországon kívül már rendelkezik forgalomba hozatali engedéllyel, mellékelni kell az ott kiadott forgalomba hozatali engedély másolatát, a jóváhagyott alkalmazási előírást és a betegtájékoztató másolatát;
+s)[^16] Magyarországon kívül kiadott forgalomba hozatali engedélyt, az időszakos gyógyszerbiztonsági jelentésekben és a feltételezett mellékhatásokra vonatkozó jelentésekben szereplő, rendelkezésre álló biztonsági adatok összefoglalását, valamint azon EGT-tagállamok jegyzékét, ahol a 2001/83/EK irányelvnek megfelelően benyújtott engedély iránti kérelem elbírálás alatt áll;
 
-t)[^14] amennyiben a gyógyszerrel kapcsolatosan Magyarországon kívül forgalomba hozatali eljárás iránti kérelmet utasítottak el, az elutasító határozatot.
+t)[^17] a kérelmező által a más EGT-tagállamban javasolt, illetve más EGT-tagállam illetékes hatósága által jóváhagyott alkalmazási előírás összefoglalását és a betegtájékoztatót.
+
+u)[^18] a más országban hozott elutasító döntés részleteit és az elutasítás indokait.
 
 (3) A k) pont szerinti gyógyszerészeti, preklinikai és klinikai vizsgálatok eredményeivel kapcsolatos dokumentumokhoz és információkhoz az 1. számú melléklettel összhangban részletes szakértői összefoglalót kell csatolni. A szakértői összefoglalókat megfelelő szakmai képzettséggel rendelkező szakértőnek kell összeállítani. Az összefoglalóhoz csatolni kell a szakértő rövid szakmai önéletrajzát is. A szakértőnek meg kell indokolnia a tudományos irodalom felhasználását az 1. számú melléklettel összhangban.
 
-(4)[^15] A (2)–(3) bekezdésben foglaltak változását a kérelmező a tudomására jutást követő harminc napon belül közli a GYEMSZI-vel.
+(4)[^19] A (2)–(3) bekezdésben foglaltak változását a kérelmező a tudomására jutást követő harminc napon belül közli a GYEMSZI-vel.
 
 (5) A (2) bekezdés b) pontja szerinti gyógyszernév nem lehet azonos más, már forgalomba hozatalra engedélyezett készítmény nevével, és nem hasonlíthat más, már forgalomba hozatalra engedélyezett készítmény nevéhez oly mértékben, hogy azzal összetéveszthető legyen.
 
-[^12]: Az 5. § (2) bekezdés a) pontja a 20/2010. (IV. 29.) EüM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^13]: Az 5. § (2) bekezdés s) pontja a 2/2012. (I. 3.) NEFMI rendelet 25. § a) pontja szerint módosított szöveg.
-[^14]: Az 5. § (2) bekezdés t) pontja a 2/2012. (I. 3.) NEFMI rendelet 25. § a) pontja szerint módosított szöveg.
-[^15]: Az 5. § (4) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^13]: Az 5. § (2) bekezdés a) pontja a 20/2010. (IV. 29.) EüM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (2) bekezdés l) pontja a 15/2012. (VIII. 22.) EMMI rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^15]: Az 5. § (2) bekezdés q) pontját a 15/2012. (VIII. 22.) EMMI rendelet 44. § b) pontja hatályon kívül helyezte.
+[^16]: Az 5. § (2) bekezdés s) pontja a 15/2012. (VIII. 22.) EMMI rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^17]: Az 5. § (2) bekezdés t) pontja a 15/2012. (VIII. 22.) EMMI rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^18]: Az 5. § (2) bekezdés u) pontját a 15/2012. (VIII. 22.) EMMI rendelet 34. § (3) bekezdése iktatta be.
+[^19]: Az 5. § (4) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés c) pontja szerint módosított szöveg.

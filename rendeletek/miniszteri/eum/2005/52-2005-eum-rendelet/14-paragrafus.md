@@ -8,6 +8,6 @@
 
 (4) Az emberi vérből vagy vérplazmából előállított gyógyszerek forgalomba hozatala iránti kérelemben be kell mutatni azokat a módszereket, amelyek a kórokozó vírusok mennyiségét csökkentik, illetve amelyek azokat teljesen eltávolítják a készítményekből.
 
-(5)[^39] Az emberi vérből vagy vérplazmából készült gyógyszerek gyártóitól a GYEMSZI megkövetelheti a készítmények minőségi bizonylatának folyamatos megküldését.
+(5)[^43] Az emberi vérből vagy vérplazmából készült gyógyszerek gyártóitól a GYEMSZI megkövetelheti a készítmények minőségi bizonylatának folyamatos megküldését.
 
-[^39]: A 14. § (5) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^43]: A 14. § (5) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.

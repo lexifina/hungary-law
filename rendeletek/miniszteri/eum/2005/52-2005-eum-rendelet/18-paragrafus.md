@@ -1,12 +1,12 @@
 ## A gyógyszerek osztályozása
 
-18. § (1)[^53] A GYEMSZI a gyógyszerek osztályozását a következők szerint határozza meg:
+18. § (1)[^61] A GYEMSZI a gyógyszerek osztályozását a következők szerint határozza meg:
 
 a) I. csoport: orvosi rendelvény nélkül is kiadható gyógyszerek (VN),
 
 b) II. csoport: kizárólag orvosi rendelvényhez kötött gyógyszerek (V vagy J vagy SZ vagy I).
 
-(2)[^54] Az (1) bekezdés b) pontja szerinti, kizárólag orvosi rendelvényhez kötött gyógyszereket a GYEMSZI a következő további alcsoportokba is besorolja, amely besorolásokat a 33. § szerinti közzétételkor feltünteti:
+(2)[^62] Az (1) bekezdés b) pontja szerinti, kizárólag orvosi rendelvényhez kötött gyógyszereket a GYEMSZI a következő további alcsoportokba is besorolja, amely besorolásokat a 33. § szerinti közzétételkor feltünteti:
 
 a) orvosi rendelvényhez kötött gyógyszerek (V);
 
@@ -26,7 +26,7 @@ cb) a szakorvosi/kórházi diagnózist követően folyamatos szakorvosi ellenőr
 
 cc) az egészségügyről szóló 1997. évi CLIV. törvény 3. §-ának ga) pontja szerinti rendelőintézeti járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó szolgáltatók által biztosított körülmények között alkalmazható gyógyszerek (I).
 
-(3)[^55] A GYEMSZI az (2) bekezdés a) pontjába, a kizárólag orvosi rendelvényhez kötött gyógyszerek osztályába sorolja be a gyógyszereket, ha
+(3)[^63] A GYEMSZI az (2) bekezdés a) pontjába, a kizárólag orvosi rendelvényhez kötött gyógyszerek osztályába sorolja be a gyógyszereket, ha
 
 a) orvosi felügyelet nélküli alkalmazásuk esetén közvetlen vagy közvetett veszélyt jelenthetnek az emberi szervezetre (egészségre) még akkor is, ha a betegtájékoztatónak megfelelően használják őket, vagy
 
@@ -36,7 +36,7 @@ c) olyan anyagokat, illetve ezekből előállított olyan készítményeket tart
 
 d) az orvos szokásos körülmények között parenterális alkalmazásra rendeli.
 
-(4)[^56] A GYEMSZI a (2) bekezdés b) pontjába, a különleges rendelvényhez kötött gyógyszerek közé sorolja be – a (2) bekezdés a) vagy c) pontjába történő besorolás mellett – a gyógyszert, ha
+(4)[^64] A GYEMSZI a (2) bekezdés b) pontjába, a különleges rendelvényhez kötött gyógyszerek közé sorolja be – a (2) bekezdés a) vagy c) pontjába történő besorolás mellett – a gyógyszert, ha
 
 a) a külön jogszabály szerint kábítószerként (K1, K2) vagy pszichotróp (P2) anyagként minősített gyógyszer, vagy
 
@@ -44,7 +44,7 @@ b) annak helytelen alkalmazása valószínűsíthetően a gyógyszerrel való vi
 
 c) olyan anyagot tartalmaz, amely – újszerűsége vagy tulajdonságai miatt – e csoportba sorolandó.
 
-(5)[^57] A GYEMSZI a (2) bekezdés c) pontjába, a korlátozott érvényű orvosi rendelvényhez kötött osztályba sorolja – a 17. § (2) bekezdése alapján a gyógyszert, ha
+(5)[^65] A GYEMSZI a (2) bekezdés c) pontjába, a korlátozott érvényű orvosi rendelvényhez kötött osztályba sorolja – a 17. § (2) bekezdése alapján a gyógyszert, ha
 
 a) azt olyan betegségek kezelésére alkalmazzák, amelyek diagnózisát kórházi környezetben vagy megfelelő diagnosztikai felszereltséggel rendelkező intézményekben kell felállítani, noha a gyógyszer alkalmazása és az utókezelés – az előzőek javaslatára – az adott intézményen kívül is végezhető, vagy
 
@@ -54,17 +54,17 @@ c) azt – gyógyszerészeti tulajdonságai vagy újszerűsége, illetve közeg�
 
 (6) Azok a gyógyszerek, amelyek nem felelnek meg a (3)–(5) bekezdésekben foglaltaknak, orvosi rendelvény nélkül is kiadható gyógyszereknek minősülnek.
 
-(7)[^58] A GYEMSZI megállapítja a gyógyszerek (1)–(6) bekezdés szerinti osztályozását a 2. § (2) bekezdésének 1. vagy 2. pontja szerinti típusát.
+(7)[^66] A GYEMSZI megállapítja a gyógyszerek (1)–(6) bekezdés szerinti osztályozását a 2. § (2) bekezdésének 1. vagy 2. pontja szerinti típusát.
 
-(8)[^59] A GYEMSZI a gyógyszerek (1)–(7) bekezdés szerinti osztályozását akkor, ha új tények jutnak tudomására felülvizsgálja és szükség szerint módosítja.
+(8)[^67] A GYEMSZI a gyógyszerek (1)–(7) bekezdés szerinti osztályozását akkor, ha új tények jutnak tudomására felülvizsgálja és szükség szerint módosítja.
 
-(9)[^60] A GYEMSZI a gyógyszerek osztályozás szerinti listáját évente frissíti, figyelemmel a 33. § (1) bekezdésének a) pontjában meghatározott közzétételi kötelezettségére.
+(9)[^68] A GYEMSZI a gyógyszerek osztályozás szerinti listáját évente frissíti, figyelemmel a 33. § (1) bekezdésének a) pontjában meghatározott közzétételi kötelezettségére.
 
-[^53]: A 18. § (1) bekezdés nyitó szövegrésze a 20/2010. (IV. 29.) EüM rendelet 3. § e) pontja, a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^54]: A 18. § (2) bekezdés nyitó szövegrésze a 20/2010. (IV. 29.) EüM rendelet 4. § e) pontja, a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^55]: A 18. § (3) bekezdés nyitó szövegrésze a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^56]: A 18. § (4) bekezdés nyitó szövegrésze a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^57]: A 18. § (5) bekezdés nyitó szövegrésze a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^58]: A 18. § (7) bekezdése a 20/2010. (IV. 29.) EüM rendelet 4. § f) pontja, a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^59]: A 18. § (8) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^60]: A 18. § (9) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^61]: A 18. § (1) bekezdés nyitó szövegrésze a 20/2010. (IV. 29.) EüM rendelet 3. § e) pontja, a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^62]: A 18. § (2) bekezdés nyitó szövegrésze a 20/2010. (IV. 29.) EüM rendelet 4. § e) pontja, a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^63]: A 18. § (3) bekezdés nyitó szövegrésze a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^64]: A 18. § (4) bekezdés nyitó szövegrésze a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^65]: A 18. § (5) bekezdés nyitó szövegrésze a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^66]: A 18. § (7) bekezdése a 20/2010. (IV. 29.) EüM rendelet 4. § f) pontja, a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^67]: A 18. § (8) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^68]: A 18. § (9) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
