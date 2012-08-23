@@ -8,10 +8,12 @@
 
 (4)[^58] Ez a rendelet
 
-a) az Európai Parlamentnek és a Tanácsnak az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelve (2001. november 6.) 76–85. cikkének,
+a) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001. november 6-i 2001/83/EK európai parlament és tanácsi irányelv 76–85. cikkének,
 
-b) az Európai Parlamentnek és a Tanácsnak az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelv módosításáról szóló 2004/27/EK irányelve (2004. március 31.) 1. cikkének való megfelelést szolgálja.
+b) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelv módosításáról szóló 2004. március 31-i 2004/27/EK európai parlament és tanácsi irányelv 1. cikkének és
+
+c) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlament és tanács irányelvnek
 
 [^56]: A 20/A. §-t az 5/2005. (III. 3.) EüM rendelet 1. §–a iktatta be, szövege a 38/2009. (XI. 6.) EüM rendelet 5. § (2) bekezdése, a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^57]: A 21. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 25. pontja hatályon kívül helyezte.
-[^58]: A 21. § (4) bekezdése a 42/2005. (IX. 27.) EüM rendelet 7. §-ával megállapított szöveg.
+[^58]: A 21. § (4) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 28. §-ával megállapított szöveg.

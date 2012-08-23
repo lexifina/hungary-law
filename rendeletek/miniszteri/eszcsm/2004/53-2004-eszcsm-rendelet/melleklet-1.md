@@ -1,3 +1,5 @@
+## való megfelelést szolgálja.
+
 1. számú melléklet az 53/2004. (VI. 2.) ESZCSM rendelethez
 
 ## A gyógyszerekkel folytatott nagykereskedelmi és párhuzamos import tevékenység során forgalmazható gyógyszerek

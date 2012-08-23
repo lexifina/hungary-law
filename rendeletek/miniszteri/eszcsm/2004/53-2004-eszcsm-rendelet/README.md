@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-53-20-0
 | 2011-08-19 | 2004-53-20-0M.8 | 41/2011. (VII. 5.) NEFMI rendelet |
 | 2012-01-01 | 2004-53-20-0M.9 | 73/2011. (XII. 29.) NEFMI rendelet |
 | 2012-07-20 | 2004-53-20-0M.10 | 10/2012. (VII. 19.) EMMI rendelet |
+| 2012-08-23 | 2004-53-20-0M.11 | 15/2012. (VIII. 22.) EMMI rendelet |
