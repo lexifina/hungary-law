@@ -1,0 +1,3 @@
+## 31. § Az emberi alkalmazásra kerülő gyógyszerek gyártásának személyi és tárgyi feltételeiről szóló 44/2005. (X. 19.) EüM rendelet [a továbbiakban: 44/2005. (X. 19.) EüM rendelet] 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A helyszíni gyártásellenőrzésről a GYEMSZI jegyzőkönyvet vesz fel, és ezt követően elkészíti az inspekciós jelentés tervezetét, melynek egy példányát a gyártási engedély kérelmezőjének/jogosultjának is megküldi. A gyártási engedély kérelmezője vagy jogosultja az inspekciós jelentés tervezetében foglaltakra annak kézhezvételétől számított 15 napon belül észrevételt tehet.”

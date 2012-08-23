@@ -1,0 +1,1 @@
+## „(8) Az üzleti titkok törlését követően a GYEMSZI honlapján haladéktalanul közzéteszi a nyilvános értékelő jelentést az egyes javallatokra vonatkozó indoklással együtt. A nyilvános értékelő jelentés egy, a nyilvánosság számára közérthető stílusban írt, a gyógyszer felhasználásának feltételeit is külön bemutató összefoglalót is tartalmaz.”
