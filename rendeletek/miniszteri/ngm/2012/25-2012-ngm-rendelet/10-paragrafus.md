@@ -1,0 +1,1 @@
+## 9. § Az Európai Mezőgazdasági Orientációs és Garanciaalap Garanciarészlegéből történő kifizetések utólagos ellenőrzéséről szóló 23/2004. (IV. 22.) PM rendelet 2. § (1) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

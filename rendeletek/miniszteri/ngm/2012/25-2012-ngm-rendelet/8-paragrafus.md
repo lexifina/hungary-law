@@ -1,0 +1,1 @@
+## 7. § A fogyasztói szerződés keretében érvényesített szavatossági és jótállási igények intézéséről szóló 49/2003. (VII. 30.) GKM rendelet 1. §-ában a „Magyar Köztársaság Polgári Törvénykönyvéről” szövegrész helyébe a „Polgári Törvénykönyvről” szöveg lép.

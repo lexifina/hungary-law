@@ -1,0 +1,1 @@
+## 14. § A haditechnikai termékek jelöléséről, valamint a haditechnikai termékek és szolgáltatások nyilvántartásáról szóló 32/2007. (III. 19.) GKM rendelet 3. § (1) bekezdésében az „A Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

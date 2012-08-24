@@ -1,0 +1,1 @@
+## 5. § A háztartási villamos hűtőszekrényekre, fagyasztószekrényekre és ezek kombinációira vonatkozó energia-hatásfok-követelményekről és megfelelőségük tanúsításáról szóló 5/2002. (II. 15.) GM rendelet 3. § (3) bekezdés b) pontjában az „a Magyar Köztársaságban” szövegrészek helyébe a „Magyarországon” szöveg lép.

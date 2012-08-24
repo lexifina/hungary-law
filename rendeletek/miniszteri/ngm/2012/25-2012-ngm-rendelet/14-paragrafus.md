@@ -1,0 +1,1 @@
+## 13. § A szakmai vizsgáztatás általános szabályairól és eljárási rendjéről szóló 20/2007. (V. 21.) SZMM rendelet 32. § (1) és (10) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
