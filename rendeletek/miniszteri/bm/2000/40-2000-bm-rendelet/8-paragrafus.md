@@ -20,7 +20,7 @@ g) a szállóférőhely elemi csapás vagy más ok következtében történő me
 
 a) a szállóférőhely használója a használati díját az írásbeli felszólításban megjelölt időpontig sem fizeti meg,
 
-b)[^8]
+b)[^14]
 
 c) a szállóférőhely használója a megállapodásban vállalt vagy jogszabályban foglalt egyéb kötelezettségeit nem teljesíti,
 
@@ -28,4 +28,4 @@ d) a szállóférőhely használója vagy a vele együtt lakó személy a házir
 
 e) házaspári lakóegység esetében, ha a házastársak, élettársak életközösségüket felbontják, illetőleg megszüntetik.
 
-[^8]: A 8. § (2) bekezdésének b) pontját a 31/2003. (VII. 18.) BM rendelet 10. §-ának (2) bekezdése hatályon kívül helyezte.
+[^14]: A 8. § (2) bekezdésének b) pontját a 31/2003. (VII. 18.) BM rendelet 10. §-ának (2) bekezdése hatályon kívül helyezte.
