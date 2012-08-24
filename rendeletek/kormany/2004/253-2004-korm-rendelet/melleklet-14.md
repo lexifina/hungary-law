@@ -50,6 +50,6 @@
 
 | aláírás |  |
 
-14. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^176]
+14. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^177]
 
-[^176]: A 14. számú mellékletet a 247/2009. (XI. 10.) Korm rendelet 39. § d) pontja hatályon kívül helyezte, újonnan a 39/2012. (III. 12.) Korm. rendelet 28. § b) pontja iktatta be.
+[^177]: A 14. számú mellékletet a 247/2009. (XI. 10.) Korm rendelet 39. § d) pontja hatályon kívül helyezte, újonnan a 39/2012. (III. 12.) Korm. rendelet 28. § b) pontja iktatta be.
