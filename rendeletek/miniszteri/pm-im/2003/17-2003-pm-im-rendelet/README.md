@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-17-20-5
 | 2010-05-09 | 2003-17-20-53.6 | 19/2010. (V. 6.) PM–IRM együttes rendelet |
 | 2011-01-01 | 2003-17-20-53.7 | 273/2010. (XII. 9.) Korm. rendelet |
 | 2011-05-07 | 2003-17-20-53.8 | 19/2011. (V. 6.) NGM rendelet |
+| 2012-08-24 | 2003-17-20-53.9 | 9/2007. (V. 31.) PM–IRM rendelet |
