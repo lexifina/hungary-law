@@ -44,7 +44,7 @@
 
 | „T” kategória | – mezőgazdasági vontató (mezőgazdasági és erdészeti traktor) és két nehéz pótkocsi – lassú jármű és pótkocsi – kerti traktor – állati erővel vont jármű hajtására |
 
-| „M” kategória | – segédmotoros kerékpár (a négykerekű segédmotoros kerékpár kivételével) – állati erővel vont jármű hajtására – kerti traktor (16. életév betöltése után) |
+| „M” kategória | – segédmotoros kerékpár (ide értve a „mopedautót is”) – állati erővel vont jármű hajtására – kerti traktor (16. életév betöltése után) |
 
 | „TR” trolibusz | – trolibusz – mezőgazdasági vontató és két nehéz pótkocsi – segédmotoros kerékpár – lassú jármű és pótkocsi – kerti traktor – állati erővel vont jármű hajtására |
 

@@ -6,7 +6,13 @@
 
 a) járművet engedély nélkül átalakították,
 
-b) a járművel érvénytelen ideiglenes forgalomban tartási engedéllyel, vagy több mint három hónapja lejárt érvényességi idejű forgalmi engedéllyel és hatósági jelzéssel, részt vettek a közúti forgalomban, továbbá, ha a közlekedési hatóság műszaki vizsgálatra történő berendelésre vonatkozó jogerős határozatában foglaltaknak határidőben nem tettek eleget,
+b)[^9] a járművel a közúti forgalomban részt vesznek annak ellenére, hogy a jármű
+
+ba) forgalmi engedélyébe bejegyzett műszaki érvényességi idő több mint három hónapja lejárt,
+
+bb) forgalmi engedélyének „H” adatmezőben szereplő érvényességi ideje vagy az ideiglenes forgalomban tartási engedélyének az érvényességi ideje lejárt vagy
+
+bc) műszaki vizsgálatra történő berendelésére vonatkozó jogerős határozatban foglaltaknak határidőben nem tettek eleget,
 
 c) a jármű közúti forgalomban való további részvétele közvetlen balesetveszéllyel jár és a járművel ennek ellenére közlekednek,
 
@@ -32,4 +38,7 @@ g) az új típusú rendszámmal rendelkező járművön nincs regisztrációs ma
 
 (8) A (6) bekezdés alapján megküldött ideiglenes forgalomban tartási engedélyt és a hatósági jelzést a közlekedési igazgatási hatóság visszavonja.
 
-(9) Az ellenőrző hatósági személy a helyszínen elveszi az M és P betűjelű ideiglenes rendszámtáblát, az indítási naplót, valamint az ideiglenes forgalomban tartási engedélyt, ha a jármű vezetője az ideiglenes rendszámtáblát a 69. § (1) bekezdésében, illetve a 70. §-ban meghatározott feltételektől eltérően használta, nem előírásszerűen vezette az indítási naplót, illetve az ideiglenes rendszámtábla nem az arra jogosult járműre van felszerelve.
+(9)[^10] Az ellenőrző hatósági személy a helyszínen elveszi az M, az SP és P betűjelű ideiglenes rendszámtáblát, az indítási naplót, valamint az ideiglenes forgalomban tartási engedélyt, ha a jármű vezetője az ideiglenes rendszámtáblát a 69. § (1) bekezdésében, 69/A. §-ban, illetve a 70. §-ban meghatározott feltételektől eltérően használta, nem előírásszerűen vezette az indítási naplót, illetve az ideiglenes rendszámtábla nem az arra jogosult járműre van felszerelve.
+
+[^9]: A 96. § (1) bekezdés b) pontja a 228/2012. (VIII. 23.) Korm. rendelet 7. § (10) bekezdésével megállapított szöveg.
+[^10]: A 96. § (9) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (11) bekezdésével megállapított szöveg.

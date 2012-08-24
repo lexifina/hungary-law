@@ -20,7 +20,7 @@ fa) E típusú, vagy
 
 fb) amennyiben a jármű műszaki kialakítása azt indokolja, kérelemre az A típusú rendszámtábla méretének megfelelő,
 
-g) a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendelet alapján versenycélú járműnek minősített különleges, versenyzési célra használható járművekre (a továbbiakban: versenyjármű) SP betűjelű
+g)[^5]
 
 különleges rendszámtáblát ad ki.
 
@@ -28,6 +28,9 @@ különleges rendszámtáblát ad ki.
 
 (4) Az OT betűjelű különleges rendszámtáblát a Muzeális Minősítő Bizottság igazolása, továbbá a muzeális jellegű járműhöz a közlekedési hatóság által kiadott „Műszaki Adatlap” alapján a Hivatal adja ki.
 
-(5) Az SP betűjelű különleges rendszámtáblát a versenyjárműhöz a közlekedési hatóság által kiadott „Műszaki Adatlap”, továbbá az országos versenyrendszert működtető országos sportági szövetség szakvéleménye és a versenyjárműhöz kiállított gépkönyv alapján a Hivatal adja ki.
+(5)[^6]
 
 (6) A (2) bekezdés d) és e) pontjában meghatározott különleges rendszámtáblák régi típusú rendszámtáblaként kerülnek előállításra.
+
+[^5]: A 60. § (2) bekezdés g) pontját a 228/2012. (VIII. 23.) Korm. rendelet 7. § (22) bekezdése hatályon kívül helyezte.
+[^6]: A 60. § (5) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 7. § (22) bekezdése hatályon kívül helyezte.

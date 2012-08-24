@@ -68,7 +68,7 @@
 
 ## 10. A jártassági feltételek teljesítésének kell tekinteni azt az esetet is, ha a járművezető a feltételül szabott járműkategóriára érvényes vizsgával rendelkezik.
 
-8. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
+8. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^17]
 
 ## A kártya formátumú vezetői engedélybe bejegyezhető kódok jegyzéke
 
@@ -330,7 +330,7 @@
 
 79 A zárójelben megjelölt tulajdonságokkal rendelkező járművekre korlátozva (a direktíva szerint)
 
-95. A 2003/59/EK irányelvben előírt szakmai alkalmassági kötelezettségnek megfelelő szakmai alkalmassági bizonyítvánnyal (Gépjárművezető Képesítési Igazolvánnyal) rendelkező gépjárművezető
+95. A 2003/59/EK irányelvben előírt szakmai alkalmassági kötelezettségnek megfelelő szakmai alkalmassági bizonyítvánnyal (Gépjárművezető Képesítési Igazolvány) rendelkező gépjárművezető, …-ig [pl. 95(01.01.12)]
 
 96. A 3500 kg megengedett legnagyobb össztömegű gépkocsiból és 750 kg megengedett legnagyobb össztömeget meg nem haladó (könnyű) pótkocsiból álló járműszerelvény (amelynek megengedett legnagyobb együttes össztömege legfeljebb 4250 kg) vezetésére jogosító jártassági és magatartási vizsgát letevő gépjárművezető.
 
@@ -373,3 +373,5 @@
 187 „T” kategóriába tartozó mezőgazdasági vontató pótkocsival
 
 270 A Magyar Honvédség kezelésében lévő autóbusz vezetéséhez külön jogszabály alapján megszerzett vezetési jogosultság, a 21. életév betöltését követően egyéb autóbuszok vezetésére is jogosít
+
+[^17]: A 8. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (18) bekezdése szerint módosított szöveg.
