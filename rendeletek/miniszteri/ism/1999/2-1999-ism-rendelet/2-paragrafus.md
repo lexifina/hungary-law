@@ -1,4 +1,4 @@
-## 1. §[^2] A gyermek- és ifjúságpolitikáért felelős miniszter (a továbbiakban: miniszter) szakmai-fejlesztési, szolgáltatási és támogatási rendszert hoz létre, amely a Gyermek és Ifjúsági Alapprogram, a Regionális Ifjúsági Tanácsok, valamint a Nemzeti Család- és Szociálpolitikai Intézet (a továbbiakban: Intézet) összehangolt működésén keresztül valósítja meg a Kormány ifjúságpolitikai célkitűzéseit.
+## 1. §[^2] A gyermek- és ifjúságpolitikáért felelős miniszter (a továbbiakban: miniszter) szakmai-fejlesztési, szolgáltatási és támogatási rendszert hoz létre, amely a Gyermek és Ifjúsági Alapprogram, valamint a Nemzeti Család- és Szociálpolitikai Intézet (a továbbiakban: Intézet) összehangolt működésén keresztül valósítja meg a Kormány ifjúságpolitikai célkitűzéseit.
 
 ## Az Alapprogram
 
@@ -10,7 +10,7 @@
 
 (4)[^5] Az Alapprogram pénzügyi fedezetével a miniszter rendelkezik.
 
-[^2]: Az 1. § a 8/2006. (XII. 27.) SZMM rendelet 1. §-ával megállapított, a 24/2010. (XII. 30.) NEFMI rendelet 3. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § a 8/2006. (XII. 27.) SZMM rendelet 1. §-ával megállapított, a 24/2010. (XII. 30.) NEFMI rendelet 3. § a) pontja, a 16/2012. (VIII. 23.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdése a 21/2011. (V. 12.) NEFMI rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § (3) bekezdése a 21/2011. (V. 12.) NEFMI rendelet 11. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § (4) bekezdése a 8/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésének a) pontja szerint módosított szöveg.

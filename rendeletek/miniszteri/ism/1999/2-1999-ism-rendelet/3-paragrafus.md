@@ -1,6 +1,6 @@
 ## Az Alapprogram felhasználásának szabályai
 
-3. § (1)[^6] Az Alapprogramból támogatásra fordítható bevételek legfeljebb 70%-ának felhasználására a regionális támogatási rendszerben kerül sor.
+3. § (1)[^6]
 
 (2)[^7] Meghívásos pályázatot akkor kell lebonyolítani, ha az
 
@@ -12,9 +12,9 @@ b) olyan nemzetközi programok megvalósítását szolgálja, amely megvalósít
 
 (4) A pályázatokon való részvétel feltétele a kiíró által meghatározott pályázati díj befizetése az Alapprogram számlájára.
 
-(5)[^9] A pályázat benyújtásának határideje előtt legalább 30 nappal pályázati hirdetmény tehető közzé azzal, hogy a teljes pályázati felhívás a miniszter által vezetett minisztérium hivatalos lapjában, honlapján, a kezelő szervezet honlapján jelenik meg. A pályázati hirdetményt hírként a Magyar Távirati Irodának meg kell küldeni.
+(5)[^9]
 
-[^6]: A 3. § (1) bekezdése a 21/2011. (V. 12.) NEFMI rendelet 11. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdését a 16/2012. (VIII. 23.) EMMI rendelet 3. § b) pontja hatályon kívül helyezte.
 [^7]: A 3. § (2) bekezdése a 6/2002. (V. 8.) ISM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^8]: A 3. § (3) bekezdését a 21/2011. (V. 12.) NEFMI rendelet 11. § c) pontja hatályon kívül helyezte.
-[^9]: A 3. § (5) bekezdése a 21/2011. (V. 12.) NEFMI rendelet 2. §-ával megállapított szöveg.
+[^9]: A 3. § (5) bekezdését a 16/2012. (VIII. 23.) EMMI rendelet 3. § c) pontja hatályon kívül helyezte.
