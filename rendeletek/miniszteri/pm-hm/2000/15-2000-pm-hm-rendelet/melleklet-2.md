@@ -46,4 +46,6 @@
 
 ## title of the issuing officer
 
-2. számú melléklet a 15/2000. (IV. 14.) PM–HM együttes rendelethez
+2. számú melléklet a 15/2000. (IV. 14.) PM–HM együttes rendelethez[^27]
+
+[^27]: A 2. számú melléklet a 25/2012. (VIII. 23.) NGM rendelet 3. § d) pontja szerint módosított szöveg.

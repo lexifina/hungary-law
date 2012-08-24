@@ -26,7 +26,7 @@
 
 ## Alulírott igazolom, hogy a ........... sz. arcképes katonai/szolgálati igazolvány vagy útlevél tulajdonosa a .......... Fegyveres Erőhöz tartozik.
 
-## A Magyar Köztársaság területén történő tartózkodás, illetve állomásozás a Fegyveres Erők szolgálati feladatainak végéig, előreláthatólag ........... napig tart.
+## Magyarország területén történő tartózkodás, illetve állomásozás a Fegyveres Erők szolgálati feladatainak végéig, előreláthatólag ........... napig tart.
 
 ## Jelen igazolást az ,,Észak-atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló Megállapodás'' (NATO-SOFA) XI. Cikk. 5., 6., 8. pontjainak érvényesítése, illetve ,,Az Észak-atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló megállapodáshoz történő csatlakozásról, a megállapodás kihirdetéséről, valamint a megállapodáshoz kapcsolódó egyes jogszabályok módosításáról szóló 1999. évi CXVII. törvény'' 8. §-ának (5) bekezdésében foglalt vámkezeléshez adom ki.
 

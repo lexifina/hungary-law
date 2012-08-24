@@ -10,6 +10,6 @@
 
 (6) A vámhatóság a NATO vámokmányhoz csatolt árujegyzék és NATO igazolás minden egyes példányát a vámkezelést végző aláírásával, olvasható bélyegzőlenyomatával és nyilvántartási számmal látja el.
 
-(7)[^16] A kiléptető vámhatóság a 13. § (l) bekezdés szerinti esemény bekövetkezése esetén – a katonai vámügyi szerv kérelmére – a vámnyilvántartást mellékletét képező NATO okmány, valamint csatolt árujegyzék és NATO igazolás hitelesített másolatát megküldi.
+(7)[^20] A kiléptető vámhatóság a 13. § (l) bekezdés szerinti esemény bekövetkezése esetén – a katonai vámügyi szerv kérelmére – a vámnyilvántartást mellékletét képező NATO okmány, valamint csatolt árujegyzék és NATO igazolás hitelesített másolatát megküldi.
 
-[^16]: A 16. § (7) bekezdése a 16/2007. (VII. 10.) PM–HM együttes rendelet 3. § f) pontja szerint módosított szöveg.
+[^20]: A 16. § (7) bekezdése a 16/2007. (VII. 10.) PM–HM együttes rendelet 3. § f) pontja szerint módosított szöveg.

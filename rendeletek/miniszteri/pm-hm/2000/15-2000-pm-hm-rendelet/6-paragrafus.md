@@ -32,6 +32,6 @@ c) gyűjtőárukra, amennyiben egy időben történik a szállításuk.
 
 (8) Az e rendelet 4. §-a (2) bekezdésének a)–b) alpontja, a (3) bekezdésének b)–c) alpontja, a (4) bekezdésének b)–d) alpontja szerinti okmányok magyar és angol nyelvű formanyomtatványok, melyeket géppel vagy olvasható kézírással, magyar vagy angol nyelven kell kiállítani.
 
-(9)[^1] A Honvédelmi Minisztérium vám- és határforgalmi feladatok végrehajtásáért felelős szervezeti egysége (a továbbiakban: katonai vámügyi szerv) a NATO tagállamok által megküldött NATO okmányok mintáit a beérkezést követő 10 napon belül megküldi a vámhatóság és az adóhatóság központi szerve részére.
+(9)[^4] A Honvédelmi Minisztérium vám- és határforgalmi feladatok végrehajtásáért felelős szervezeti egysége (a továbbiakban: katonai vámügyi szerv) a NATO tagállamok által megküldött NATO okmányok mintáit a beérkezést követő 10 napon belül megküldi a vámhatóság és az adóhatóság központi szerve részére.
 
-[^1]: A 6. § (9) bekezdése a 42/2004. (XI. 17.) PM rendelet 16. §-ának (1) bekezdésével megállapított, a 16/2007. (VII. 10.) PM–HM együttes rendelet 3. § a) pontja szerint módosított szöveg.
+[^4]: A 6. § (9) bekezdése a 42/2004. (XI. 17.) PM rendelet 16. §-ának (1) bekezdésével megállapított, a 16/2007. (VII. 10.) PM–HM együttes rendelet 3. § a) pontja szerint módosított szöveg.

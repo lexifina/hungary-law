@@ -4,7 +4,7 @@
 
 1. a) Honvédelmi Minisztériumra (a továbbiakban: HM), a HM hivatalaira és háttérintézményeire,
 
-b) a Magyar Köztársaság Katonai Felderítő Hivatalra és a Magyar Köztársaság Katonai Biztonsági Hivatalra, a katonai felsőoktatási intézményekre,
+b)[^2] Katonai Nemzetbiztonsági Szolgálatra, a katonai felsőoktatási intézményekre,
 
 c) a Magyar Honvédség (a továbbiakban: MH) vezető szerveire, csapataira, intézeteire
 
@@ -19,3 +19,5 @@ b) az 1995. évi LXVII. törvényben kihirdetett ,,Békepartnerség'' más rész
 3. A programfelelős HM, MH szervekkel, valamint a külföldi fegyveres erőkkel kapcsolatban álló, az e rendelet tárgyi hatálya alá tartozó tevékenységekkel összefüggésben feladatot ellátó beszállító és fuvarozó vállalatokra.
 
 4. A Vám- és Pénzügyőrség szerveire (a továbbiakban: vámhatóság), az Adó- és Pénzügyi Ellenőrzési Hivatal szerveire (a továbbiakban: adóhatóság).
+
+[^2]: Az 1. § 1. pont b) alpontja a 25/2012. (VIII. 23.) NGM rendelet 3. § a) pontja szerint módosított szöveg.
