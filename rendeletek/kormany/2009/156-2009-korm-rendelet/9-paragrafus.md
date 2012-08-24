@@ -1,4 +1,4 @@
-## 8. §[^8] A Kkt. 20. § (1) bekezdés g) pontjához kapcsolódóan a 7. mellékletben meghatározott összegű bírságot köteles fizetni az, aki a KR. 32. §-ában foglalt rendelkezést megsérti.
+## 8. §[^9] A Kkt. 20. § (1) bekezdés g) pontjához kapcsolódóan a 7. mellékletben meghatározott összegű bírságot köteles fizetni az, aki a KR. 32. §-ában foglalt rendelkezést megsérti.
 
 ## 9. § A Kkt. 20. § (1) bekezdés h) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 8. mellékletben meghatározott összegű bírságot köteles fizetni az, aki
 
@@ -12,4 +12,4 @@ d) a nemzetközi közúti áru- és személyszállítás végzésének egyes fel
 
 e) a közúti járművek időszakos vizsgálata egységes feltételeinek elfogadásáról és ezen vizsgálat kölcsönös elismeréséről szóló, Bécsben, 1997. november 13-án aláírt Egyezmény kihirdetéséről szóló 2001. évi LXVIII. törvényben
 
-[^8]: A 8. § a 261/2011. (XII. 7.) Korm. rendelet 41. § (5) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^9]: A 8. § a 261/2011. (XII. 7.) Korm. rendelet 41. § (5) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.

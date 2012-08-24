@@ -8,7 +8,7 @@
 
 | c) 35 km/óra felett 45 km/óráig | c) 60 000 | 26. § (1) és (2) bekezdés | járművezető |
 
-| d) 45 km/óra felett 55 km/óráig | d) 90 000 | 39. § (1) bekezdés |  |
+| d) 45 km/óra felett 55 km/óráig | d) 90 000 |  |  |
 
 | e) 55 km/óra felett 65 km/óráig | e) 130 000 | 39/A. § (2) bekezdés |  |
 
@@ -48,6 +48,6 @@
 
 | g) 110 km/óra felett | g) 300 000 |
 
-11/C. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^28]
+11/C. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^31]
 
-[^28]: A 11/C. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^31]: A 11/C. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 228/2012. (VIII. 23.) Korm. rendelet 4. § (9) bekezdésével megállapított szöveg.

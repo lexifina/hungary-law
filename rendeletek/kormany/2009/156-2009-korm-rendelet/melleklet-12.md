@@ -1,14 +1,8 @@
-| Sorszám | a járművezető szervezetében a szeszes ital fogyasztásából származó alkohol tilalma („ittas vezetés”) | A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet | Bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
+| Sorszám | A járművel történő megállásra és várakozásra | A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet | Bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
 
-| 1. | gépi meghajtású járművet vezetőnél a szeszes ital fogyasztásából származó alkohol mértéke 0,50‰ véralkohol-koncentrációt vagy a kilégzett levegőben a 0,30 mg/l-t nem haladja meg, feltéve, ha az nem minősül bűncselekménynek | 4. § (1) bekezdés c) pont | 150 000 | járművezető |
+| 1. | A megállás tilalmára | a) 15. § (1) bekezdés a) pont, 15. § (4), (7) bekezdése, ha az az (1) bekezdés a) pontjára vonatkozik, b) 40. § (5) bekezdés a), c), e), f), g), h), i), j), l), m) pont, c) 40. § (8) bekezdés a) pont | 10 000 20 000 10 000 | járművezető vagy annak távollétében az üzemben tartó |
 
-| 2. | gépi meghajtású járművet vezetőnél a szeszes ital fogyasztásából származó alkohol mértéke 0,50‰ véralkohol-koncentrációnál magasabb, de 0,80‰ véralkohol-koncentrációt nem haladja meg vagy a kilégzett levegőben 0,30 mg/l-nél magasabb, de a 0,50 mg/l-t nem haladja meg, feltéve, ha azok nem minősülnek bűncselekménynek | 4. § (1) bekezdés c) pont | 200 000 |
-
-| 3. | gépi meghajtású járművet vezetőnél a szeszes ital fogyasztásából származó alkohol mértéke a 0,80‰ véralkohol-koncentrációt vagy a kilégzett levegőben a 0,50 mg/l-t meghaladja, feltéve, ha az nem minősül bűncselekménynek | 4. § (1) bekezdés c) pont | 300 000 |
-
-| 4. | nem gépi meghajtású járművet vezetőnél vagy hajtójánál a szeszes ital fogyasztásából származó alkohol mértéke 0,80‰ véralkohol-koncentrációt vagy a kilégzett levegőben a 0,50 mg/l-t nem haladja meg | 4. § (1) bekezdés c) pont | 30 000 | járművezető, hajtó |
-
-| 5. | nem gépi meghajtású járművet vezetőnél vagy hajtójánál a szeszes ital fogyasztásából származó alkohol mértéke 0,80‰ véralkohol-koncentrációt vagy a kilégzett levegőben 0,50 mg/l-t meghaladja | 4. § (1) bekezdés c) pont | 60 000 |  |
+| 2. | A várakozás tilalmára | 41. § (2) bekezdés a)–b) pont | 10 000 | járművezető vagy annak távollétében az üzemben tartó |
 
 12. melléklet a 156/2009. (VII. 29.) Korm. rendelethez
 
