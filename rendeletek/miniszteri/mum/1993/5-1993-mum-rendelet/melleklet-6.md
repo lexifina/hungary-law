@@ -92,7 +92,7 @@
 
 ## 1.6. SZÜLETÉSI HELY, A SÉRÜLT NEME, SZÜLETÉSI ÉV, HÓ, NAP (30–36. kódnégyzet)
 
-## Ha a munkabalesetet szenvedett munkavállaló születési helye a Magyar Köztársaság államhatárán kívüli területre esik, akkor annak az országnak a nevét kell feltüntetni a jegyzőkönyvben, ahol a születési okmányt kiállították.
+## Ha a munkabalesetet szenvedett munkavállaló születési helye Magyarország államhatárán kívüli területre esik, akkor annak az országnak a nevét kell feltüntetni a jegyzőkönyvben, ahol a születési okmányt kiállították.
 
 ## A sérült nemének megjelölésekor a 30. kódnégyzetbe magyar állampolgárságú férfi esetén 1-es, nő esetén 2-es, külföldi állampolgárságú férfi esetén 5-ös, nő esetén 6-os kódszámot kell beírni, ismeretlen nem esetén 9-es kódszámot kell alkalmazni.
 

@@ -58,4 +58,4 @@
 
 5. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^31]
 
-[^31]: A Vhr. 5. számú melléklete a 41/2011. (X. 14.) NGM rendelet 10. § (2) bekezdésével megállapított, a 17/2012. (VII. 5.) NGM rendelet 1. §-a szerint módosított szöveg.
+[^31]: A Vhr. 5. számú melléklete a 41/2011. (X. 14.) NGM rendelet 10. § (2) bekezdésével megállapított, a 17/2012. (VII. 5.) NGM rendelet 1. §-a, a 25/2012. (VIII. 23.) NGM rendelet 1. §-a szerint módosított szöveg.
