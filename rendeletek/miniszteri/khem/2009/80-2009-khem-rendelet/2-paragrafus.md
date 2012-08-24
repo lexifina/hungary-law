@@ -6,7 +6,9 @@ b) 81. § (3) bekezdése alapján;
 
 c) 81. § (8) bekezdése alapján;
 
-d) 81. § (10) bekezdése alapján
+d) 81. § (10) bekezdése alapján;
+
+e)[^2] 81/A. § (2) bekezdése alapján a hivatásos katasztrófavédelmi szerv eljárásai során a veszélyes áruk vasúti és belvízi szállításának ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályairól, továbbá az egyes szabálytalanságokért kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatok általános szabályairól szóló 312/2011. (XII. 23.) Korm. rendelet 3. melléklet A. táblázatában foglalt esetekben
 
 ## van helye.
 
@@ -26,7 +28,9 @@ e) 60. § (1) bekezdés g) pontja alapján a 85. §-ának (1) bekezdésében és
 
 f) 60. § (1) bekezdés h) pontja alapján a vízi közlekedés irányítására és a hajóút kitűzésére szolgáló jelekről, valamint e jelek létesítéséről, üzemeltetéséről, módosításáról és megszüntetéséről szóló 27/2002. (XII. 5.) GKM rendeletben és a 39/2003. (VI. 13.) GKM rendelet melléklete I. részének 5. fejezetében a víziközlekedés forgalmának irányítására és a hajóút kitűzésére szolgáló jelek létesítésére, üzemeltetésére és megszüntetésére vonatkozó szabályok megsértése miatt;
 
-g) 60. § (1) bekezdés k) pontja alapján a 39/2003. (VI. 13.) GKM rendelet melléklete I. részének 1.02–1.03. cikkében foglalt úszólétesítmény rendeltetésszerű üzemeltetéséhez előírt személyzet létszámára és képesítésére vonatkozó szabályok megsértése miatt
+g) 60. § (1) bekezdés k) pontja alapján a 39/2003. (VI. 13.) GKM rendelet melléklete I. részének 1.02–1.03. cikkében foglalt úszólétesítmény rendeltetésszerű üzemeltetéséhez előírt személyzet létszámára és képesítésére vonatkozó szabályok megsértése miatt;
+
+h)[^3] 60/A. § (1) bekezdése alapján a hivatásos katasztrófavédelmi szerv eljárásai során a veszélyes áruk vasúti és belvízi szállításának ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályairól, továbbá az egyes szabálytalanságokért kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatok általános szabályairól szóló 312/2011. (XII. 23.) Korm. rendelet 3. melléklet B. táblázatában foglalt esetekben
 
 van helye.
 
@@ -58,7 +62,7 @@ van helye.
 
 a) 20. § (1) bekezdés a) pontja alapján a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet (a továbbiakban: 156/2009. (VII. 29.) Korm. rendelet) 1. mellékletének 1. pontjában, 2. pont a) alpontjában és 5. pontjában foglalt esetekben,
 
-b)[^2] 20. § (1) bekezdés e) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 5. melléklet 1–61. sorában foglalt esetekben,
+b)[^4] 20. § (1) bekezdés e) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 5. melléklet 1–61. sorában foglalt esetekben,
 
 c) 20. § (1) bekezdés c) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 3. mellékletének B2-B3 soraiban, B5-B6 soraiban, B8-B9 soraiban, B11-B12 soraiban, C2-C3 soraiban, D2-D3 soraiban, D5-D6 soraiban, D8-D9 soraiban, D11-D12 soraiban, D14-D15 soraiban, D17-D18 soraiban, E1 sorában foglalt esetekben,
 
@@ -72,7 +76,9 @@ g) 44. § (3) bekezdése, valamint a közúti szállítást végző egyes járm�
 
 h) 44. § (4) bekezdése alapján a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendeletben [a továbbiakban: 6/1990. (IV. 12.) KöHÉM rendelet] az össztömegre, tengelyterhelésre és méretre meghatározott előírásoknak meg nem felelő jármű, illetve balesetveszélyes műszaki állapotú jármű esetén
 
-i)[^3] 20. § (1) bekezdés k) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 11/A–D. mellékletében foglalt esetekben
+i)[^5] 20. § (1) bekezdés k) pontja alapján a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet 11/A–11/G. mellékletében foglalt esetekben,
+
+j)[^6] 20. § (1) bekezdés l) pontja alapján a magyarországi illetőségű személy vagy szervezet által a külföldi hatósági jelzéssel ellátott jármű belföldi üzemeltetésére, használatára vonatkozó szabályok megsértése esetén
 
 ## van helye.
 
@@ -94,5 +100,8 @@ h) 24. § (3) és (4) bekezdése alapján a 23. § szerinti pótalkatrészek és
 
 van helye.
 
-[^2]: A 2. § (5) bekezdés b) pontja a 42/2011. (VIII. 11.) NFM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (5) bekezdés i) pontját a 42/2011. (VIII. 11.) NFM rendelet 16. § (2) bekezdése iktatta be.
+[^2]: A 2. § (1) bekezdés e) pontját a 47/2012. (VIII. 23.) NFM rendelet 2. § (1) bekezdése iktatta be.
+[^3]: A 2. § (3) bekezdés h) pontját a 47/2012. (VIII. 23.) NFM rendelet 2. § (2) bekezdése iktatta be.
+[^4]: A 2. § (5) bekezdés b) pontja a 42/2011. (VIII. 11.) NFM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (5) bekezdés i) pontját a 42/2011. (VIII. 11.) NFM rendelet 16. § (2) bekezdése iktatta be, szövege a 47/2012. (VIII. 23.) NFM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^6]: A 2. § (5) bekezdés j) pontját a 47/2012. (VIII. 23.) NFM rendelet 2. § (4) bekezdése iktatta be.
