@@ -2,7 +2,7 @@
 
 | 1. | 50 km/óra sebességig |
 
-| a) 15 km/óra felett 25 km/óráig b) 25 km/óra felett 35 km/óráig c) 35 km/óra felett 45 km/óráig d) 45 km/óra felett 55 km/óráig e) 55 km/óra felett 65 km/óráig f) 65 km/óra felett 75 km/óráig g) 75 km/óra felett | a) 30 000 b) 45 000 c) 60 000 d) 90 000 e) 130 000 f) 200 000 g) 300 000 | 14. § (1) bekezdés d) pont 14. § (1) bekezdés z) 1. pont 26. § (1) és (2) bekezdés 39. § (1) bekezdés 39/A. § (2) bekezdés |
+| a) 15 km/óra felett 25 km/óráig b) 25 km/óra felett 35 km/óráig c) 35 km/óra felett 45 km/óráig d) 45 km/óra felett 55 km/óráig e) 55 km/óra felett 65 km/óráig f) 65 km/óra felett 75 km/óráig g) 75 km/óra felett | a) 30 000 b) 45 000 c) 60 000 d) 90 000 e) 130 000 f) 200 000 g) 300 000 | 14. § (1) bekezdés d) pont 14. § (1) bekezdés z) 1. pont 26. § (1) és (2) bekezdés 39/A. § (2) bekezdés |
 
 | 2. | 50 km/óra felett 100 km/óra sebességig |
 
@@ -24,4 +24,6 @@
 
 | g) 110 km/óra felett | g) 300 000 |  |
 
-2. melléklet a 410/2007. (XII. 29.) Korm. rendelethez
+2. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^38]
+
+[^38]: A 2. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 3. § (6) bekezdésével megállapított szöveg.
