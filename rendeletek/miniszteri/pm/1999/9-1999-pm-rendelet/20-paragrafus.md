@@ -4,7 +4,7 @@
 
 (2) A vegyesruhás állományt a teljes utánpótlási ellátmány megilleti.
 
-(3)[^29] Az utánpótlási ellátmány [Hszt. 245/G. § (2) bekezdés a) pont] kifizetésének szabályait az országos parancsnok állapítja meg.
+(3)[^32] Az utánpótlási ellátmány [Hszt. 245/G. § (2) bekezdés a) pont] kifizetésének szabályait az országos parancsnok állapítja meg.
 
 Az újonnan rendszeresített egyenruházattal történő ellátás esetén a hivatásos állomány tagja a mindenkori ruházati utánpótlási illetmény terhére 50%-os mértékben köteles a ruházat költségeit fedezni [Hszt. 245/G. § (2) bek. b) pont].
 
@@ -18,4 +18,4 @@ b) a szolgálati beosztásból való felfüggesztés, valamint az előzetes leta
 
 c) szolgálati viszony szünetelése esetén (Hszt. 51. §).
 
-[^29]: A 20. § (3) bekezdése a 19/2003. (VII. 31.) PM rendelet 8. §-ával megállapított szöveg.
+[^32]: A 20. § (3) bekezdése a 19/2003. (VII. 31.) PM rendelet 8. §-ával megállapított szöveg.

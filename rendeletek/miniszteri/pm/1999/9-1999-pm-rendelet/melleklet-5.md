@@ -10,9 +10,9 @@
 
 ## A tábornoki jelvény ezüst színű, száránál összekapcsolt és egy olajág. A tábornoki parolira szúrótű segítségével illeszthető fel.
 
-## 3. Tábornoki sapkadísz
+## 3.[^37] Tábornoki sapkadísz
 
-## A köztársaság címerét egyik oldalról egy tölgyfalomb, a másik oldalról egy olajág szegélyezi.
+## Magyarország címerét egyik oldalról egy tölgyfalomb, a másik oldalról egy olajág szegélyezi.
 
 ## 4. Tábornoki gomb
 
@@ -40,7 +40,7 @@
 
 ## Tábornoki karjelvény piros posztóra hímzett.
 
-## 10.[^34] a) Névkitűző: A névkitűző a viselőjének teljes nevét tartalmazó ”BODONI ANTIQUA” betűtípusú, nagy nyomtatott betűvel írott, 80 x 14 mm méretű, lekerekített sarkú, ezüst vagy aranyszínű fémlap. A betűk színe fekete.
+## 10.[^38] a) Névkitűző: A névkitűző a viselőjének teljes nevét tartalmazó ”BODONI ANTIQUA” betűtípusú, nagy nyomtatott betűvel írott, 80 x 14 mm méretű, lekerekített sarkú, ezüst vagy aranyszínű fémlap. A betűk színe fekete.
 
 ## b) Hímzett azonosítószám: A hímzett azonosítószám 20 x 65 mm méretű fektetett téglalap alakú, tépőzárra dolgozott zöld szövet. A szövetre 5 db 10 mm magas szám van napsárga fonallal hímezve, míg a nyomozók esetében egy NY betű és 4 db szám található, és a szövet széle 2 mm vastagon körbe hímzett, ugyanazzal a fonallal. A hímzett azonosítószám száma megegyezik a szolgálati jelvény számával.
 
@@ -52,13 +52,13 @@
 
 ## Nyitható bőr tartótokban kerül elhelyezésre.
 
-## 12.[^35] Szolgálati derékövcsat
+## 12.[^39] Szolgálati derékövcsat
 
 ## 12.1. Férfi szolgálati övcsat: 70 x 45 mm-es méretű, nikkelezett felületű címeres díszítéssel ellátott szorítócsattal készült övcsat.
 
 ## 12.2. Női szolgálati övcsat: 70 x 30 mm-es méretű nikkelezett felületű címeres díszítéssel ellátott szorítócsattal készült övcsat.
 
-## 13.[^36] Társasági derékövcsat
+## 13.[^40] Társasági derékövcsat
 
 ## 13.1. Férfi társasági derékövcsat: 40 x 30 mm-es méretű arannyal futtatott csat, melyen szürke mezőben a koronás címer látható. A csat rögzítését karmos szorító biztosítja.
 
@@ -92,6 +92,7 @@
 
 5. számú melléklet a 9/1999. (III. 31.) PM rendelethez
 
-[^34]: A 4. számú melléklet 10. pontját a 19/2003. (VII. 31.) PM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan a 16/2009. (IX. 24.) PM rendelet 2. §-a iktatta be.
-[^35]: A 4. számú melléklet 12. pontja a 19/2003. (VII. 31.) PM rendelet 10. §-ával megállapított szöveg.
-[^36]: A 4. számú melléklet 13. pontja a 19/2003. (VII. 31.) PM rendelet 10. §-ával megállapított szöveg.
+[^37]: A 4. számú melléklet 3. pontja a 25/2012. (VIII. 23.) NGM rendelet 2. § c) pontja szerint módosított szöveg.
+[^38]: A 4. számú melléklet 10. pontját a 19/2003. (VII. 31.) PM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan a 16/2009. (IX. 24.) PM rendelet 2. §-a iktatta be.
+[^39]: A 4. számú melléklet 12. pontja a 19/2003. (VII. 31.) PM rendelet 10. §-ával megállapított szöveg.
+[^40]: A 4. számú melléklet 13. pontja a 19/2003. (VII. 31.) PM rendelet 10. §-ával megállapított szöveg.

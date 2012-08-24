@@ -28,6 +28,6 @@
 
 ## Jobb oldalon a zsebtakaró tűzésen a gomb fölött középen. Több jelvény esetén viselése a fent meghatározottól jobbra, illetve balra helyezkedik el.
 
-7. számú melléklet a 9/1999. (III. 31.) PM rendelethez[^37]
+7. számú melléklet a 9/1999. (III. 31.) PM rendelethez[^41]
 
-[^37]: A 7. számú mellékletet a 19/2003. (VII. 31.) PM rendelet 11. § (2) bekezdése hatályon kívül helyezte.
+[^41]: A 7. számú mellékletet a 19/2003. (VII. 31.) PM rendelet 11. § (2) bekezdése hatályon kívül helyezte.

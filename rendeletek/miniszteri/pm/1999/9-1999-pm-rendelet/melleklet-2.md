@@ -174,6 +174,6 @@
 
 ## – váll-lap szerelvénnyel.
 
-2. számú melléklet a 9/1999. (III. 31.) PM rendelethez[^32]
+2. számú melléklet a 9/1999. (III. 31.) PM rendelethez[^35]
 
-[^32]: A 2. számú melléklet a 19/2003. (VII. 31.) PM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^35]: A 2. számú melléklet a 19/2003. (VII. 31.) PM rendelet 9. § (2) bekezdésével megállapított szöveg.

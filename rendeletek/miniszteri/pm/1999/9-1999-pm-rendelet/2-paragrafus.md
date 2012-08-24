@@ -10,7 +10,7 @@ a) egyenruházati termékek (felsőruházat, fehérnemű, lábbelik, sapkák, va
 
 b) jelvények, kitüntetések és tartozékaik,
 
-c)–d)[^1]
+c)–d)[^2]
 
 e) az egyenruházattal együtt árusítandó sportruházat,
 
@@ -20,4 +20,4 @@ f) az egyenruházattal együtt, egyenruházati boltban árusított választéki 
 
 (3) Az egyenruházati termékek részletes leírását, az egyenruházati termékeken kívül árusítható termékek körét és azok beszerzési, illetve értékesítési lehetőségét, az ellátás rendjét részletesen az országos parancsnok külön utasításban szabályozza.
 
-[^1]: A 2. § (1) bekezdésének c)–d) pontját a 19/2003. (VII. 31.) PM rendelet 11. § (2) bekezdése hatályon kívül helyezte.
+[^2]: A 2. § (1) bekezdésének c)–d) pontját a 19/2003. (VII. 31.) PM rendelet 11. § (2) bekezdése hatályon kívül helyezte.

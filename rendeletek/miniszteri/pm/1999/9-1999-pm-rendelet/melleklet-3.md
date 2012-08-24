@@ -602,6 +602,6 @@
 
 ## * A szolgálati tányérsapka, téli sapka vagy a gyakorló sapka helyett a meghatározott személyi kör részére.”
 
-3. számú melléklet a 9/1999. (III. 31.) PM rendelethez[^33]
+3. számú melléklet a 9/1999. (III. 31.) PM rendelethez[^36]
 
-[^33]: A 3. számú melléklet a 19/2003. (VII. 31.) PM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^36]: A 3. számú melléklet a 19/2003. (VII. 31.) PM rendelet 9. § (3) bekezdésével megállapított szöveg.

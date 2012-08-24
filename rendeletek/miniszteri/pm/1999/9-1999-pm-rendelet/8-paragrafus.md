@@ -4,7 +4,7 @@
 
 ## illetve a polgári ruha viselés szabályai
 
-8. § (1)[^12] Az egyenruhás állomány köteles a szolgálatát kifogástalan állapotú, az általános szabályok, illetve az esetenkénti utasítás (engedély) szerint az időszaknak megfelelő változatú egyenruházatban teljesíteni, és azt a jelen rendeletben meghatározott módon és az előírt kivitelben viselni. A vegyesruhás állomány a szolgálat jellegének és az alkalomnak megfelelő és kifogástalan állapotú polgári ruhát hordhat, a szolgálati elöljáró rendelkezésének megfelelően.
+8. § (1)[^14] Az egyenruhás állomány köteles a szolgálatát kifogástalan állapotú, az általános szabályok, illetve az esetenkénti utasítás (engedély) szerint az időszaknak megfelelő változatú egyenruházatban teljesíteni, és azt a jelen rendeletben meghatározott módon és az előírt kivitelben viselni. A vegyesruhás állomány a szolgálat jellegének és az alkalomnak megfelelő és kifogástalan állapotú polgári ruhát hordhat, a szolgálati elöljáró rendelkezésének megfelelően.
 
 (2) A szolgálat érdekében vagy más indokolt esetben az egyenruhás állomány tagja részére a szolgálati elöljáró elrendelheti, illetőleg engedélyezheti a szolgálat polgári ruhában való teljesítését.
 
@@ -20,4 +20,4 @@
 
 (8) Az egyenruha viselésére nem kötelezettek körét az országos parancsnok külön utasításban – munkakörönként, beosztásonként – részletesen szabályozza.
 
-[^12]: A 8. § (1) bekezdésének első mondata a 19/2003. (VII. 31.) PM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^14]: A 8. § (1) bekezdésének első mondata a 19/2003. (VII. 31.) PM rendelet 11. § (2) bekezdése szerint módosított szöveg.
