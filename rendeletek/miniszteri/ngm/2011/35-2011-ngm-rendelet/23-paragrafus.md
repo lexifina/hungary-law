@@ -2,9 +2,9 @@
 
 23. § (1) A fémjelzési kötelezettség alá tartozó nemesfém tárgyat
 
-a) a Magyar Köztársaság területén történő gyártás esetében a készítő,
+a)[^4] Magyarország területén történő gyártás esetében a készítő,
 
-b) a külföldről a Magyar Köztársaság területén történő forgalomba hozatal céljából behozott nemesfém tárgy esetében a kereskedő
+b)[^5] a külföldről Magyarország területén történő forgalomba hozatal céljából behozott nemesfém tárgy esetében a kereskedő
 
 azzal a névjellel látja el, amelynek használatát részére a hatóság engedélyezte.
 
@@ -20,6 +20,10 @@ azzal a névjellel látja el, amelynek használatát részére a hatóság enged
 
 (7) A használatban elkopott névjelbeütő eszközt a hatóságnak megsemmisítés céljából át kell adni.
 
-(8) A Magyar Köztársaság területén készült nemesfém tárgyba a készítő, a külföldről a Magyar Köztársaság területén történő forgalmazásra irányuló kereskedelmi tevékenység céljából behozott nemesfém tárgyba a kereskedő köteles a névjelet a 3. mellékletben meghatározott betűsoros tárgycsoport mutatóban megjelölt helyre tisztán és felismerhetően beütni, amennyiben annak nincs technikai akadálya.
+(8)[^6] Magyarország területén készült nemesfém tárgyba a készítő, a külföldről Magyarország területén történő forgalmazásra irányuló kereskedelmi tevékenység céljából behozott nemesfém tárgyba a kereskedő köteles a névjelet a 3. mellékletben meghatározott betűsoros tárgycsoport mutatóban megjelölt helyre tisztán és felismerhetően beütni, amennyiben annak nincs technikai akadálya.
 
 (9) Ha a névjel beütésére a 3. mellékletben meghatározott betűsoros tárgymutató nem ad útmutatást, a névjelet úgy kell elhelyezni, hogy a beütött jel tisztán felismerhető legyen. Ha a beütött jel nem ismerhető fel, a hatóság a nemesfém tárgyat a névjel beütésének pótlására visszaadhatja a bemutatónak. A hatóság a készítő vagy a kereskedő kérelmére elvégzi a névjel beütését.
+
+[^4]: A 23. § (1) bekezdés a) pontja a 25/2012. (VIII. 23.) NGM rendelet 19. § b) pontja szerint módosított szöveg.
+[^5]: A 23. § (1) bekezdés b) pontja a 25/2012. (VIII. 23.) NGM rendelet 19. § b) pontja szerint módosított szöveg.
+[^6]: A 23. § (8) bekezdése a 25/2012. (VIII. 23.) NGM rendelet 19. § a) és b) pontja szerint módosított szöveg.

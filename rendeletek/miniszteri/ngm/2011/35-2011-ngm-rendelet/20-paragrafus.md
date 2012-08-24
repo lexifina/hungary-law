@@ -6,7 +6,7 @@
 
 a) a 7–10. és 23. §-ban foglalt rendelkezésektől való eltérés,
 
-b) a Magyar Köztársaság területén készült nemesfém tárgyon az engedélyezett névjel hiánya, vagy nem megfelelő alkalmazása, így a fel nem ismerhető, kopott vagy nem a meghatározott helyen lévő jel,
+b)[^3] Magyarország területén készült nemesfém tárgyon az engedélyezett névjel hiánya, vagy nem megfelelő alkalmazása, így a fel nem ismerhető, kopott vagy nem a meghatározott helyen lévő jel,
 
 c) a bemutatott nemesfém tárgy nedves vagy szennyezett,
 
@@ -21,3 +21,5 @@ a) a bemutatott nemesfém tárgy olyan durván van kikészítve, hogy a fémjel 
 b) a láncszemek vagy a záróelemek nincsenek forrasztva, kivéve a nemesfém tárgy sérülése nélkül nem szétszerelhető gépi vagy kézi kötésű láncokat, vagy
 
 c) a több alkatrészből álló nemesfém tárgy összes alkatrészeit nem mutatják be.
+
+[^3]: A 20. § (3) bekezdés b) pontja a 25/2012. (VIII. 23.) NGM rendelet 19. § b) pontja szerint módosított szöveg.
