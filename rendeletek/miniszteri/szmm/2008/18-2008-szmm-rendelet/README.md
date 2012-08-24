@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-18-20-1
 | --- | --- | --- |
 | 2008-12-19 | 2008-18-20-1X.2 | 18/2008. (XII. 3.) SZMM rendelet |
 | 2012-02-11 | 2008-18-20-1X.3 | 3/2012. (II. 10.) NGM rendelet |
+| 2012-08-24 | 2008-18-20-1X.4 | 25/2012. (VIII. 23.) NGM rendelet |
