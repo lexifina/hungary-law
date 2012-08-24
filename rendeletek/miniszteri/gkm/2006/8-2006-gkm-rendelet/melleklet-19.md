@@ -196,6 +196,6 @@
 
 ## c) A fogyasztásmérő áramerősség mérési tartományát a fogyasztó előirányzott vagy várható fogyasztási igényének megfelelően kell kiválasztani.
 
-19. melléklet a 8/2006. (II. 27.) GKM rendelethez[^11]
+19. melléklet a 8/2006. (II. 27.) GKM rendelethez[^12]
 
-[^11]: A 19. melléklet a 16/2010. (IV. 28.) NFGM rendelet 20. § (8) bekezdése szerint módosított szöveg.
+[^12]: A 19. melléklet a 16/2010. (IV. 28.) NFGM rendelet 20. § (8) bekezdése szerint módosított szöveg.

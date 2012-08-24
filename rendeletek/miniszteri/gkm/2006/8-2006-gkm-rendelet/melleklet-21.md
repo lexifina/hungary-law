@@ -254,6 +254,6 @@
 
 ## A mért mennyiséget milliliterben, köbcentiméterben, literben, köbméterben, grammban, kilogrammban vagy tonnában kell megjeleníteni, de LPG mérés esetén a kijelzés tömegben történjen.
 
-21. melléklet a 8/2006. (II. 27.) GKM rendelethez[^13]
+21. melléklet a 8/2006. (II. 27.) GKM rendelethez[^14]
 
-[^13]: A 21. számú melléklet a 13/2008. (VIII. 8.) NFGM–FVM együttes rendelet 9. § (4) bekezdése szerint módosított szöveg.
+[^14]: A 21. számú melléklet a 13/2008. (VIII. 8.) NFGM–FVM együttes rendelet 9. § (4) bekezdése szerint módosított szöveg.

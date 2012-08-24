@@ -138,6 +138,6 @@
 
 ## 8. A gyártónak a 3.1., a 3.5., 6.2. és 7. pontban írt kötelezettségeit a gyártó nevében és felelősségére meghatalmazott képviselője is teljesítheti.
 
-16. melléklet a 8/2006. (II. 27.)GKM rendelethez[^8]
+16. melléklet a 8/2006. (II. 27.)GKM rendelethez[^9]
 
-[^8]: A 16. melléklet a 16/2010. (IV. 28.) NFGM rendelet 20. § (5) bekezdése szerint módosított szöveg.
+[^9]: A 16. melléklet a 16/2010. (IV. 28.) NFGM rendelet 20. § (5) bekezdése szerint módosított szöveg.
