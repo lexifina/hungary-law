@@ -1,4 +1,4 @@
-## 4. § A hatóság túlfizetés esetén a tudomásszerzést követő 15 napon belül hivatalból intézkedik a többletösszeg visszatérítése iránt. A többletösszeg visszatérítését a teljesítéstől számított 15 napon belül – a befizetést igazoló irat csatolásával egyidejűleg – a kötelezett is kérheti.
+## 3–4. §
 
 ## 3. A katasztrófavédelmi bírság
 
