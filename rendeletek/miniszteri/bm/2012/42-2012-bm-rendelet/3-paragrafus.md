@@ -1,0 +1,5 @@
+## „(8) A használati jogviszony meghosszabbítását, indokolt esetben a beutalt – közvetlen munkahelyi vezetőjének javaslatával ellátott – írásbeli kérelmére, a helyi lakásügyi szerv vezetője egy alkalommal, legfeljebb két évre engedélyezheti. Meg kell tagadni a meghosszabbítás iránti kérelem teljesítését, ha a kérelmező használati jogviszonya a belügyi szolgálati jogviszonyának megszűnése miatt szűnik meg.
+
+## (9) A központi lakásügyi szerv vezetője a helyi lakásügyi szerv javaslata alapján, szolgálati érdekből – a beosztásra, az ellátandó feladatra, a szolgálati tevékenységre, a szolgálatszervezési szempontokra, valamint a használati jogviszonyra jogosult személyi, családi körülményeire figyelemmel – felmentést adhat a (8) bekezdésben foglalt, a megállapodás meghosszabbításának gyakoriságára és időtartamára vonatkozó korlátozás alkalmazása alól.
+
+## (10) A szabad férőhelyek hasznosításáról – a férőhellyel rendelkező szerv hozzájárulásával – a helyi lakásügyi szerv vagy az üzemeltető dönt.”
