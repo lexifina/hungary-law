@@ -10,17 +10,17 @@
 
 | 1603 | A megengedett legnagyobb sebesség túllépése [KR. 1. melléklet 1. pont f)–g) alpontja, 2. pont f)–g) alpontja, 3. pont f)–g) alpontja, BR. 11/B. melléklet 1. pont f)–g) alpontja, 2. pont f)–g) alpontja, 3. pont f)–g) alpontja]; | 8 |
 
-| 17 | Vasúti átjárón áthaladás szabályainak megsértése [KR. 2. melléklet 1. pont, BR. 11/C. melléklet 2. pont]; | 8 |
+| 17 | Vasúti átjárón áthaladás szabályainak megsértése [KR. 2. melléklet 1. pont, BR. 11/C. melléklet 2., 3. pont]; | 8 |
 
-| 18 | Megállás kijelölt gyalogos-átkelőhelyen, valamint a gyalogos-átkelőhely előtt, kerékpársávon, útkanyarulatban, valamint olyan helyen, ahol a jármű a fényjelzőkészülék vagy jelzőtábla észlelését akadályozza [KR. 4. melléklet 1. pont]; | 6 |
+| 18 | Megállás kijelölt gyalogos-átkelőhelyen, valamint a gyalogos-átkelőhely előtt, kerékpársávon, útkanyarulatban, valamint olyan helyen, ahol a jármű a fényjelzőkészülék vagy jelzőtábla észlelését akadályozza [KR. 4. melléklet 1. pont, BR. 11/G. melléklet 1. pont]; | 6 |
 
-| 19 | Az autópálya leállósávján történő haladás [KR. 5. melléklet 1. pont]; | 6 |
+| 19 | Az autópálya leállósávján történő haladás [KR. 5. melléklet 1. pont, BR. 11/E. melléklet 1. pont]; | 6 |
 
-| 20 | Megállás az autópálya úttestjén és leállósávján [KR. 5. melléklet 2. pont]; | 6 |
+| 20 | Megállás az autópálya úttestjén és leállósávján [KR. 5. melléklet 2. pont, BR. 11/E. melléklet 2. pont]; | 6 |
 
-| 21 | A behajtás tilalmára vonatkozó szabályok megszegése [KR. 6. melléklet 1. pont]; | 4 |
+| 21 | A behajtás tilalmára vonatkozó szabályok megszegése [KR. 6. melléklet 1. pont, BR. 11/F. melléklet 1. pont]; | 4 |
 
-| 22 | A kötelező haladási irányra vonatkozó szabályok megszegése [KR. 6. melléklet 2. pont]; | 4 |
+| 22 | A kötelező haladási irányra vonatkozó szabályok megszegése [KR. 6. melléklet 2. pont, BR. 11/F. melléklet 2. pont]; | 4 |
 
 | 23 | Ittas vezetés |  |
 
@@ -30,7 +30,7 @@
 
 | 2303 | Ittas vezetés [BR. 11/D. melléklet 3. pont]; | 8 |
 
-| 24 | A forgalomirányító fényjelző készülék előtti megállási kötelezettség megszegése [KR. 3. melléklet 1., 2. pont, BR. 11/C. melléklet 1. pont]; | 8 |
+| 24 | A forgalomirányító fényjelző készülék előtti megállási kötelezettség megszegése [KR. 3. melléklet 1. pont, BR. 11/C. melléklet 1. pont]; | 8 |
 
 | 25 | Biztonsági öv használata nélküli közlekedés |  |
 

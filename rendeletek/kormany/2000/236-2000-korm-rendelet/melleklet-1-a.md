@@ -66,4 +66,4 @@
 
 1/A. számú melléklet a 236/2000. (XII. 23.) Korm. rendelethez[^14]
 
-[^14]: Az 1/A. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^14]: Az 1/A. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 228/2012. (VIII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
