@@ -1,1 +1,0 @@
-## 14. § A textiltermék nyersanyag-összetételének meghatározására, illetve a címkén feltüntetett adatok hitelességének ellenőrzésére vonatkozó vizsgálatokat az 5. mellékletben szereplő mintavételi, minta-előkészítési eljárások alkalmazásával, a 6. és a 7. mellékletben szereplő vizsgálati módszerekkel kell elvégezni.
