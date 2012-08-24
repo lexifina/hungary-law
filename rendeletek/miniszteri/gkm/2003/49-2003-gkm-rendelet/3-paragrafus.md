@@ -4,7 +4,7 @@
 
 a) a fogyasztó nevét, címét
 
-b)[^1] a fogyasztási cikk (a továbbiakban: termék) megnevezését, vételárát
+b)[^3] a fogyasztási cikk (a továbbiakban: termék) megnevezését, vételárát
 
 c) a vásárlás időpontját
 
@@ -22,4 +22,4 @@ g) a kifogás rendezésének módját.
 
 (4) Ha a forgalmazó a fogyasztó igényének teljesíthetőségéről annak bejelentésekor nem tud nyilatkozni, álláspontjáról legkésőbb három munkanapon belül köteles értesíteni a fogyasztót.
 
-[^1]: A 3. § (1) bekezdés b) pontja a 27/2008. (XII. 20.) NFGM rendelet 16. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés b) pontja a 27/2008. (XII. 20.) NFGM rendelet 16. § (2) bekezdés a) pontja szerint módosított szöveg.
