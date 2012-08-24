@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1975-1-20-24
 | 2011-01-01 | 1975-1-20-24.17 | 280/2010. (XII. 15.) Korm. rendelet |
 | 2011-07-22 | 1975-1-20-24.18 | 137/2011. (VII. 19.) Korm. rendelet |
 | 2012-01-01 | 1975-1-20-24.19 | 304/2011. (XII. 23.) Korm. rendelet |
+| 2012-08-24 | 1975-1-20-24.20 | 228/2012. (VIII. 23.) Korm. rendelet |

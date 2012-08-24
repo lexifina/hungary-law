@@ -11,3 +11,7 @@ c) a vezetési képességre hátrányosan ható szer befolyása alatt nem áll, 
 (2) A jármű vezetését az üzembentartó nem engedheti meg, illetőleg a vezető nem engedheti át olyan személynek, aki az (1) bekezdésben meghatározott feltételeknek nem felel meg.
 
 (3) Az (1) bekezdésben említett engedélyt a vezetőnek vezetés közben magánál kell tartania.
+
+(4)[^5] Az (1) bekezdés b) pontjában foglalt feltétel fennállása esetén – a főútvonalon kerékpározás esetét kivéve – a kerékpárosra nem kell alkalmazni az (1) bekezdés c) pontjában meghatározott korlátozást.
+
+[^5]: A 4. § (4) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be.
