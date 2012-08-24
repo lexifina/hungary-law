@@ -1,4 +1,4 @@
-16. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^316]
+16. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^317]
 
 ## Az e-learning rendszerű képzésekre vonatkozó követelmények
 
@@ -78,4 +78,4 @@ a) a képzés Tananyagát – az e-learning tananyagokra vonatkozó speciális p
 
 b) képzésen belül a Tananyagnak modulárisan kell felépülnie, oly módon, hogy egy átlagos képességű tanulónak képesnek kell lennie bármely modul egyszerre történő elvégzésére.
 
-[^316]: A 16. mellékletet az 58/2011. (XI. 24.) NFM rendelet 39. § (14) bekezdése iktatta be.
+[^317]: A 16. mellékletet az 58/2011. (XI. 24.) NFM rendelet 39. § (14) bekezdése iktatta be.

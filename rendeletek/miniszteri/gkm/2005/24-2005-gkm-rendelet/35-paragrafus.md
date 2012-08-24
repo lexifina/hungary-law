@@ -1,4 +1,4 @@
-35. §[^124] (1) A szakfelügyelet és az ellenőrzés lehet előre bejelentett és soron kívüli.
+35. §[^125] (1) A szakfelügyelet és az ellenőrzés lehet előre bejelentett és soron kívüli.
 
 (2) A szakfelügyelő és az ellenőrzést végző tapasztalatairól az érintett szakoktatót, a vizsgabiztost, az iskolavezetőt, valamint a közlekedési hatóságot tájékoztatja.
 
@@ -26,4 +26,4 @@ c) a vizsgát, ha a feltételek hiánya, a vizsgakörülmények, vagy a vizsgáz
 
 (5) Amennyiben a szakoktató ellenőrzése során az ellenőrzést végző szakmai, módszertani hiányosságot tapasztal, úgy a szakoktató felé történő jelzés mellett köteles a szakfelügyeletet végző közlekedési hatóság részére az előírt módon jelentést tenni.
 
-[^124]: A 35. § az 58/2011. (XI. 24.) NFM rendelet 35. §-ával megállapított szöveg.
+[^125]: A 35. § az 58/2011. (XI. 24.) NFM rendelet 35. §-ával megállapított szöveg.

@@ -6,13 +6,13 @@
 
 ## 1. A kiállító hatóság megnevezése
 
-## 2. A jármű forgalmi rendszáma, gyártmánya, típusa, besorolása[^180]
+## 2. A jármű forgalmi rendszáma, gyártmánya, típusa, besorolása[^181]
 
 ## 3. A jogosultság tartalma
 
 ## 4. Kötelmek
 
-## 5.[^181] Hatály[^182]
+## 5.[^182] Hatály[^183]
 
 ## 6. Napló/tételszám
 
@@ -22,11 +22,11 @@
 
 ## 9. A kiállító hatóság bélyegzőlenyomata
 
-## 10.[^183] Vonójármű rendszáma pótkocsi esetén
+## 10.[^184] Vonójármű rendszáma pótkocsi esetén
 
 ## II. AZ OKTATÓJÁRMŰVEK MINŐSÍTŐ VIZSGÁLATÁNAK ELJÁRÁSI RENDJE
 
-## 1.[^184] Az oktatójárművek minősítő vizsgálata
+## 1.[^185] Az oktatójárművek minősítő vizsgálata
 
 ## A közúti járművezető-képzésben a vezetési gyakorlat tantárgy oktatására használt „B”, „C”, „D”, „T” kategóriás, a „C1”, „D1” alkategóriás, valamint a „B+E”, „C1+E”, „C+E”, „D1+E”, „D+E” kombinált kategóriás oktatójármű járművekhez tartozó oktatójármű-igazolás kiadásához szükséges minősítő vizsgálatot a közlekedési hatóság végzi.
 
@@ -64,7 +64,7 @@
 
 ## b) az ellenőrzött szerkezeti egységeinek, illetőleg a kezelőszerveinek működése bizonytalan.
 
-## 2.[^185] A járművek terhelhetősége (szállítható személyek száma), sebességadatai, méretei
+## 2.[^186] A járművek terhelhetősége (szállítható személyek száma), sebességadatai, méretei
 
 ## A forgalmi engedély alapján ellenőrizni kell, hogy a járművek terhelhetősége megfelel-e az előírásoknak.
 
@@ -132,7 +132,7 @@
 
 ## – megfelel a 6/1990. (IV. 12.) KöHÉM rendeletben előírtaknak,
 
-## –[^186] beszerelése a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és az NKH honlapján közzétett (a regionális igazgatóságnál nyilvántartott) szakműhelyben történt,
+## –[^187] beszerelése a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és az NKH honlapján közzétett (a regionális igazgatóságnál nyilvántartott) szakműhelyben történt,
 
 ## – az oktatójármű a minősítő vizsgán megfelelt.
 
@@ -156,9 +156,9 @@
 
 ## Abban az esetben, ha 2003. december 1-je előtt oktatásba bevont vonójárműhöz kapcsolt – a vonójárműhöz illeszkedő, de korábban oktatás céljára nem használt – új (korszerű) pótkocsival járműszerelvény oktató jármű megvizsgálására kerül sor, a 4. melléklet előírásai szerint kell eljárni.
 
-## A vizsgálat során különös figyelemmel kell lenni a fékezésre vonatkozó külön jogszabály[^187] előírásainak teljesítésére.
+## A vizsgálat során különös figyelemmel kell lenni a fékezésre vonatkozó külön jogszabály[^188] előírásainak teljesítésére.
 
-## 8.[^188] A „T” tábla
+## 8.[^189] A „T” tábla
 
 ## Szemrevételezéssel, szükség esetén mérőeszközzel ellenőrizni kell a „T” jelű tábla és az azonos méretű „Autósiskola” felirat meglétét. A jogszabályi értéktől eltérés ±10%-ig elfogadott. A „T” tábla színe a közlekedési jelzőtáblák kék színéhez hasonló legyen. „T” jelű táblának és „Autósiskola” feliratnak kell elfogadni a járműre ragasztott öntapadó fóliát vagy festést is. Szemrevételezéssel kell meggyőződni arról, hogy legalább az „Autósiskola” felirat, valamint a „T” jelű tábla elölről és hátulról egyaránt jól látható.
 
@@ -172,7 +172,7 @@
 
 ## 9. A tűzoltó készülék
 
-## A tehergépkocsit, az autóbuszt, a mezőgazdasági vontatót és a trolibuszt fel kell szerelni a külön jogszabályban[^189] kötelezően előírt fajtájú és méretű tűzoltó készülékkel.
+## A tehergépkocsit, az autóbuszt, a mezőgazdasági vontatót és a trolibuszt fel kell szerelni a külön jogszabályban[^190] kötelezően előírt fajtájú és méretű tűzoltó készülékkel.
 
 7. melléklet a 24/2005. (IV. 21.) GKM rendelethez
 
@@ -200,7 +200,7 @@ Olyan formát kell választani, amellyel ellenőrizhető, hogy a vizsgázó rend
 
 – észlelés, becslés és döntéshozatal, különösen a reakcióidő, valamint a gépjárművezetői magatartás megváltozása alkohol, kábítószerek, gyógyszerészeti termékek, adott lelki állapot vagy fáradtság hatására.
 
-2.1.3.[^190] Az úttest:
+2.1.3.[^191] Az úttest:
 
 – a járművek közötti biztonságos távolság, a féktávolságok és a biztonságos úttartás különböző időjárási és útviszonyok közötti megtartására vonatkozó legfontosabb elvek,
 
@@ -232,7 +232,7 @@ Olyan formát kell választani, amellyel ellenőrizhető, hogy a vizsgázó rend
 
 2.1.9. A gépjárműhasználat környezetre gyakorolt hatásával kapcsolatos szabályok (a hangjelző berendezések megfelelő használata, mérsékelt tüzelőanyag-fogyasztás, korlátozott károsanyag-kibocsátás stb.).
 
-3.[^191] Az „Akorl.” „A”, „A2” kategóriákra és az „A1” alkategóriára vonatkozó különleges rendelkezések
+3.[^192] Az „Akorl.” „A”, „A2” kategóriákra és az „A1” alkategóriára vonatkozó különleges rendelkezések
 
 3.1. Az alábbiak általános ismeretének kötelező ellenőrzése:
 
@@ -252,7 +252,7 @@ Olyan formát kell választani, amellyel ellenőrizhető, hogy a vizsgázó rend
 
 4.1.2. Az érintett szállítmány típusára (áru vagy utasok) vonatkozó szabályok.
 
-4.1.3.[^192] A belföldi és a nemzetközi áru- és utas szállításhoz szükséges gépjármű- és szállítási okmányok.
+4.1.3.[^193] A belföldi és a nemzetközi áru- és utas szállításhoz szükséges gépjármű- és szállítási okmányok.
 
 4.1.4. Baleset esetén tanúsítandó magatartás; baleset vagy hasonló esemény, például az utasok eltávolításával járó veszélyhelyzet esetén elvégzendő intézkedések ismerete és elsősegély-nyújtási alapismeretek.
 
@@ -266,7 +266,7 @@ Olyan formát kell választani, amellyel ellenőrizhető, hogy a vizsgázó rend
 
 4.1.9. A gépjármű rakományával kapcsolatos biztonsági tényezők: a rakomány ellenőrzése (rakodás és rögzítés), a különböző típusú rakományokkal kapcsolatos nehézségek (pl. folyadékok, függesztett rakomány), az áru be- és kirakodása és a rakodó berendezések használata (csak a „C”, „C+E”, „C1”, „C1+E” kategóriákban).
 
-4.1.10.[^193] A gépjárművezető felelőssége az utas szállítást illetően; az utasok kényelme és biztonsága; gyermekszállítás; az elindulás előtti szükséges ellenőrzések; az összes autóbusztípus része kell, hogy legyen az elméleti vizsgának (a tömegközlekedésben használt autóbuszok és a távolsági autóbuszok, különleges méretű autóbuszok) (csak a „D”, „D+E”, „D1”, „D1+E” kategóriákban).
+4.1.10.[^194] A gépjárművezető felelőssége az utas szállítást illetően; az utasok kényelme és biztonsága; gyermekszállítás; az elindulás előtti szükséges ellenőrzések; az összes autóbusztípus része kell, hogy legyen az elméleti vizsgának (a tömegközlekedésben használt autóbuszok és a távolsági autóbuszok, különleges méretű autóbuszok) (csak a „D”, „D+E”, „D1”, „D1+E” kategóriákban).
 
 4.2. A „C”, „C+E”, „D” és „D+E” kategóriák vonatkozásában a következő további előírások általános ismeretének kötelező ellenőrzése:
 
@@ -308,11 +308,11 @@ A vizsgázónak a következő követelmények kielégítésével igazolnia kell,
 
 6.2.2. A motorkerékpár támasztólábon történő leállítása.
 
-6.2.3.[^194] Végrehajtandó legalább két kis sebességű manőver, amelyek egyike szlalom vezetés; ennek lehetővé kell tennie a tengelykapcsoló és a fék kombinált kezelésében, az egyensúlyozásban, a tekintet irányításában, a motorkerékpáron való elhelyezkedésben és a lábak lábtartón való elhelyezésében szerzett jártasság értékelését.
+6.2.3.[^195] Végrehajtandó legalább két kis sebességű manőver, amelyek egyike szlalom vezetés; ennek lehetővé kell tennie a tengelykapcsoló és a fék kombinált kezelésében, az egyensúlyozásban, a tekintet irányításában, a motorkerékpáron való elhelyezkedésben és a lábak lábtartón való elhelyezésében szerzett jártasság értékelését.
 
-6.2.4.[^195] Végrehajtandó legalább két nagyobb sebességű manőver: az egyiknek egy második vagy harmadik sebességfokozatban, legalább 30 km/óra sebességgel megtett manővernek kell lennie, a másik során pedig akadályt kell kikerülni legalább 50 km/óra sebességgel; ennek lehetővé kell tennie a motorkerékpáron való elhelyezkedésben, a tekintet irányításában, az egyensúlyozásban, a kormányzási technikában és a sebességváltási technikában szerzett jártasság értékelését.
+6.2.4.[^196] Végrehajtandó legalább két nagyobb sebességű manőver: az egyiknek egy második vagy harmadik sebességfokozatban, legalább 30 km/óra sebességgel megtett manővernek kell lennie, a másik során pedig akadályt kell kikerülni legalább 50 km/óra sebességgel; ennek lehetővé kell tennie a motorkerékpáron való elhelyezkedésben, a tekintet irányításában, az egyensúlyozásban, a kormányzási technikában és a sebességváltási technikában szerzett jártasság értékelését.
 
-6.2.5.[^196] Fékezés: végre kell hajtani legalább két fékezési gyakorlatot, amelyek egyike egy legalább 50 km/óra sebességnél elvégzett vészfékezés; ennek lehetővé kell tennie az első és a hátsó fékek kezelésében, a tekintet irányításában és a motorkerékpáron való elhelyezkedésben szerzett jártasság értékelését.
+6.2.5.[^197] Fékezés: végre kell hajtani legalább két fékezési gyakorlatot, amelyek egyike egy legalább 50 km/óra sebességnél elvégzett vészfékezés; ennek lehetővé kell tennie az első és a hátsó fékek kezelésében, a tekintet irányításában és a motorkerékpáron való elhelyezkedésben szerzett jártasság értékelését.
 
 6.3. Magatartás a közlekedésben
 
@@ -332,7 +332,7 @@ A vizsgázónak normál közlekedési helyzetben, teljes biztonsággal és az ö
 
 6.3.7. Előzés/elhaladás valami mellett: más közlekedő előzése (ha lehetséges); haladás útakadályok (pl. parkoló autók) mellett; más közlekedő általi leelőzés (ha alkalmazható).
 
-6.3.8.[^197] Különleges úttulajdonságok (ha rendelkezésre áll ilyen): alagút, körforgalom, szintbeli vasúti átjáró, villamos-, autóbusz-megálló, gyalogátkelőhely, haladás hosszú emelkedőn, lejtőn.
+6.3.8.[^198] Különleges úttulajdonságok (ha rendelkezésre áll ilyen): alagút, körforgalom, szintbeli vasúti átjáró, villamos-, autóbusz-megálló, gyalogátkelőhely, haladás hosszú emelkedőn, lejtőn.
 
 6.3.9. A szükséges óvintézkedések betartása a gépjármű elhagyásakor.
 
@@ -392,7 +392,7 @@ A vizsgázónak normál közlekedési helyzetben, teljes biztonsággal és az ö
 
 7.4.7. Előzés/elhaladás valami mellett: más közlekedő előzése (ha lehetséges); haladás útakadályok (pl. parkoló autók) mellett; más közlekedő általi leelőzés (ha alkalmazható).
 
-7.4.8.[^198] Különleges úttulajdonságok (ha rendelkezésre áll ilyen): alagút, körforgalom, szintbeli vasúti átjáró, villamos-, autóbusz-megálló, gyalogátkelőhely, haladás hosszú emelkedőn, lejtőn.
+7.4.8.[^199] Különleges úttulajdonságok (ha rendelkezésre áll ilyen): alagút, körforgalom, szintbeli vasúti átjáró, villamos-, autóbusz-megálló, gyalogátkelőhely, haladás hosszú emelkedőn, lejtőn.
 
 7.4.9. A szükséges óvintézkedések betartása a gépjárműből történő kiszálláskor.
 
@@ -448,7 +448,7 @@ A vizsgázónak normál közlekedési helyzetben, teljes biztonsággal és az ö
 
 8.3.7. Előzés/elhaladás valami mellett: más közlekedő előzése (ha lehetséges); haladás útakadályok (pl. parkoló autók) mellett; más közlekedő általi leelőzés (ha alkalmazható).
 
-8.3.8.[^199] Különleges úttulajdonságok (ha rendelkezésre áll ilyen): alagút, körforgalom, szintbeli vasúti átjáró, villamos-, autóbusz-megálló, gyalogátkelőhely, haladás hosszú emelkedőn, lejtőn.
+8.3.8.[^200] Különleges úttulajdonságok (ha rendelkezésre áll ilyen): alagút, körforgalom, szintbeli vasúti átjáró, villamos-, autóbusz-megálló, gyalogátkelőhely, haladás hosszú emelkedőn, lejtőn.
 
 8.3.9. A szükséges óvintézkedések betartása a gépjárműből történő kiszálláskor.
 
@@ -500,7 +500,7 @@ Valamennyi gépjármű vezetőjének minden időpillanatban rendelkeznie kell az
 
 – a többiek iránti tiszteletadással elősegíteni valamennyi közúti közlekedő, különösen a leggyengébbek és a legvédtelenebbek biztonságát.
 
-II.[^200] A KÖZÚTI KÖZLEKEDÉSI SZAKEMBEREK VIZSGÁZTATÁSA
+II.[^201] A KÖZÚTI KÖZLEKEDÉSI SZAKEMBEREK VIZSGÁZTATÁSA
 
 A szaktanfolyami képzéshez kapcsolódó vizsgák során, a vizsgán számon kérhető ismeretanyagot az irányadó jogszabályok rendelkezései tartalmazzák.
 
@@ -508,24 +508,24 @@ A vizsgakérdéseket – megfelelő csoportosításban – a vonatkozó jogszab�
 
 A vizsga eredményes letételéhez szükséges ismereti szintet a vonatkozó jogszabályok határozzák meg, ennek hiányában azt a közlekedési hatóság állapítja meg.
 
-[^180]: A 24/2005. (IV. 21.) GKM rendelet 4. melléklete alá tartozó oktatójármű. (Megjegyzés: A 4. melléklet hatálya alá tartozó jármű oktatójármű-igazolása 2009. december 31-ét követő érvényességgel nem állítható ki.)
-[^181]: A 6. melléklet I. pont 5. alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^182]: A vizsgálat időpontjától számított legfeljebb 2 év időtartam.
-[^183]: A 6. melléklet I. pont 10. alpontját az 58/2011. (XI. 24.) NFM rendelet 39. § (6) bekezdése iktatta be.
-[^184]: A 6. melléklet II. pont 1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (6) bekezdésével megállapított szöveg.
-[^185]: A 6. számú melléklet „Az oktatásban használt járművek követelményei és vizsgálata” alcímének 2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (6) bekezdésével megállapított szöveg.
-[^186]: A 6. számú melléklet „Az oktatásban használt járművek követelményei és vizsgálata” alcím 5. pontjának második franciabekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § g) pontja, a 41/2008. (XII. 31.) KHEM rendelet 6. § (2) bekezdésének 6. pontja szerint módosított szöveg.
-[^187]: A közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 29–32. §-a.
-[^188]: A 6. számú melléklet „Az oktatásban használt járművek követelményei és vizsgálata” alcímének 8. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (6) bekezdésével megállapított szöveg.
-[^189]: A közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 107. § (1)–(3) bekezdése.
-[^190]: A 7. számú melléklet I. fejezet A) pontjának 2.1.3. alpontja a 18/2009. (IV. 14.) KHEM rendelet 4. §-ával megállapított szöveg.
-[^191]: A 7. melléklet I. fejezet 3. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (7) bekezdésével megállapított szöveg.
-[^192]: A 7. melléklet I. fejezet 4. pont 4.1.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (7) bekezdésével megállapított szöveg.
-[^193]: A 7. melléklet I. fejezet 4. pont 4.1.10. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (7) bekezdésével megállapított szöveg.
-[^194]: A 7. melléklet 6.2.3. pontja e rendelet 39. §-ának (4) bekezdése alapján 2006. január 1. napján lép hatályba.
-[^195]: A 7. melléklet 6.2.4. pontja e rendelet 39. §-ának (4) bekezdése alapján 2006. január 1. napján lép hatályba.
-[^196]: A 7. melléklet 6.2.5. pontja e rendelet 39. §-ának (4) bekezdése alapján 2006. január 1. napján lép hatályba.
-[^197]: A 7. számú melléklet I. fejezet B) pontjának 6.3.8. alpontja a 18/2009. (IV. 14.) KHEM rendelet 4. §-ával megállapított szöveg.
-[^198]: A 7. számú melléklet I. fejezet B) pontjának 7.4.8. alpontja a 18/2009. (IV. 14.) KHEM rendelet 4. §-ával megállapított szöveg.
-[^199]: A 7. számú melléklet I. fejezet B) pontjának 8.3.8. alpontja a 18/2009. (IV. 14.) KHEM rendelet 4. §-ával megállapított szöveg.
-[^200]: A 7. melléklet II. fejezete az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^181]: A 24/2005. (IV. 21.) GKM rendelet 4. melléklete alá tartozó oktatójármű. (Megjegyzés: A 4. melléklet hatálya alá tartozó jármű oktatójármű-igazolása 2009. december 31-ét követő érvényességgel nem állítható ki.)
+[^182]: A 6. melléklet I. pont 5. alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^183]: A vizsgálat időpontjától számított legfeljebb 2 év időtartam.
+[^184]: A 6. melléklet I. pont 10. alpontját az 58/2011. (XI. 24.) NFM rendelet 39. § (6) bekezdése iktatta be.
+[^185]: A 6. melléklet II. pont 1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (6) bekezdésével megállapított szöveg.
+[^186]: A 6. számú melléklet „Az oktatásban használt járművek követelményei és vizsgálata” alcímének 2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (6) bekezdésével megállapított szöveg.
+[^187]: A 6. számú melléklet „Az oktatásban használt járművek követelményei és vizsgálata” alcím 5. pontjának második franciabekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § g) pontja, a 41/2008. (XII. 31.) KHEM rendelet 6. § (2) bekezdésének 6. pontja szerint módosított szöveg.
+[^188]: A közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 29–32. §-a.
+[^189]: A 6. számú melléklet „Az oktatásban használt járművek követelményei és vizsgálata” alcímének 8. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (6) bekezdésével megállapított szöveg.
+[^190]: A közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 107. § (1)–(3) bekezdése.
+[^191]: A 7. számú melléklet I. fejezet A) pontjának 2.1.3. alpontja a 18/2009. (IV. 14.) KHEM rendelet 4. §-ával megállapított szöveg.
+[^192]: A 7. melléklet I. fejezet 3. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (7) bekezdésével megállapított szöveg.
+[^193]: A 7. melléklet I. fejezet 4. pont 4.1.3. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (7) bekezdésével megállapított szöveg.
+[^194]: A 7. melléklet I. fejezet 4. pont 4.1.10. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (7) bekezdésével megállapított szöveg.
+[^195]: A 7. melléklet 6.2.3. pontja e rendelet 39. §-ának (4) bekezdése alapján 2006. január 1. napján lép hatályba.
+[^196]: A 7. melléklet 6.2.4. pontja e rendelet 39. §-ának (4) bekezdése alapján 2006. január 1. napján lép hatályba.
+[^197]: A 7. melléklet 6.2.5. pontja e rendelet 39. §-ának (4) bekezdése alapján 2006. január 1. napján lép hatályba.
+[^198]: A 7. számú melléklet I. fejezet B) pontjának 6.3.8. alpontja a 18/2009. (IV. 14.) KHEM rendelet 4. §-ával megállapított szöveg.
+[^199]: A 7. számú melléklet I. fejezet B) pontjának 7.4.8. alpontja a 18/2009. (IV. 14.) KHEM rendelet 4. §-ával megállapított szöveg.
+[^200]: A 7. számú melléklet I. fejezet B) pontjának 8.3.8. alpontja a 18/2009. (IV. 14.) KHEM rendelet 4. §-ával megállapított szöveg.
+[^201]: A 7. melléklet II. fejezete az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.

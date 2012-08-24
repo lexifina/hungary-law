@@ -1,3 +1,3 @@
-## Engedélyezési és vizsgadíjak[^121]
+## Engedélyezési és vizsgadíjak[^122]
 
-[^121]: A 33/G. §-t megelőző alcímet a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
+[^122]: A 33/G. §-t megelőző alcímet a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
