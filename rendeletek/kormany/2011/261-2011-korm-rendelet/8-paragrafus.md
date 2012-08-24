@@ -1,5 +1,3 @@
-## 7. § Az 1071/2009/EK rendeletnek, valamint az e rendelet 8–23. §-ainak a díj ellenében végzett közúti árutovábbítási tevékenységre vonatkozó rendelkezéseit alkalmazni kell minden olyan gazdálkodó szervezetre, amely – a teherjármű megengedett legnagyobb sebességének a mértékétől függetlenül – 3.5 tonnát meghaladó megengedett legnagyobb össztömegű teherjárművel akár belföldi, akár nemzetközi forgalomban díj ellenében közúti árutovábbítási tevékenységet végez.
-
 8. § (1) Közúti közlekedési szolgáltatási tevékenység csak a közlekedési hatóság által kiadott engedéllyel végezhető.
 
 (2) A közlekedési hatóság a Magyarország területén székhellyel rendelkező gazdálkodó szervezet részére

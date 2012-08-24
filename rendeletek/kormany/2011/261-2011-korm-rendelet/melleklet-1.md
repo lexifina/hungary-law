@@ -1,4 +1,4 @@
-## 41. §[^6]
+## 41. §[^24]
 
 1. melléklet a 261/2011. (XII. 7.) Korm. rendelethez
 
@@ -58,7 +58,7 @@ f) egészségbiztosítási főiskolai szintű szak
 
 g) jogi egyetem.
 
-4. Jármű műszaki, üzemeltetési és közlekedésbiztonsági ismeretek:
+4.[^25] Árufuvarozási ismeretek:
 
 a) szakirányú okleveles gépészmérnök vagy
 
@@ -74,17 +74,15 @@ f) gépészmérnök mesterképzési szakon vagy
 
 g) közlekedésmérnök alapképzési szakon vagy
 
-h) közlekedésmérnök mesterképzési szakon
-
-szerzett diploma vagy
+h) közlekedésmérnök mesterképzési szakon szerzett diploma vagy
 
 i) az Országos Képzési Jegyzék szerinti szakképesítés:
 
-– nemzetközi szállítmányozási és logisztikai menedzser,
+ia) nemzetközi szállítmányozási és logisztikai menedzser,
 
-– forgalmi tiszti felsőfokú tanfolyami szakképesítés.
+ib) forgalmi tiszti felsőfokú tanfolyami szakképesítés.
 
-5. Jármű műszaki, üzemeltetési ismeretek:
+5.[^26] Jármű műszaki, üzemeltetési és közlekedés biztonsági ismeretek:
 
 a) szakirányú okleveles gépészmérnök vagy
 
@@ -100,9 +98,7 @@ f) gépészmérnök mesterképzési szakon vagy
 
 g) közlekedésmérnök alapképzési szakon vagy
 
-h) közlekedésmérnök mesterképzési szakon
-
-szerzett diploma vagy
+h) közlekedésmérnök mesterképzési szakon szerzett diploma vagy
 
 i) környezetvédelmi mérnök vagy
 
@@ -110,9 +106,7 @@ j) okleveles környezetmérnök vagy
 
 k) környezetmérnök alapképzési szakon vagy
 
-l) környezetmérnök mesterképzési szakon
-
-szerzett diploma vagy
+l) környezetmérnök mesterképzési szakon szerzett diploma vagy
 
 m) műszaki tiszti felsőfokú tanfolyami képesítés, illetve
 
@@ -124,4 +118,23 @@ o) közlekedés-üzemviteli, gépjárműüzemi technikus.
 
 – közép- vagy felsőfokú vámügyintézői szakképesítés.
 
-[^6]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+7.[^27] Személyszállítási ismeretek:
+
+a) szakirányú okleveles közlekedésmérnök vagy
+
+b) szakirányú közlekedésmérnök vagy
+
+c) közlekedésmérnök alapképzési szakon szerzett diploma vagy
+
+d) közlekedésmérnök mesterképzési szakon szerzett diploma vagy
+
+e) az Országos Képzési Jegyzék szerinti szakképesítés:
+
+ea) nemzetközi szállítmányozási és logisztikai menedzser,
+
+eb) forgalmi tiszti felsőfokú tanfolyami szakképesítés.
+
+[^24]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: Az 1. melléklet 4. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
+[^26]: Az 1. melléklet 5. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
+[^27]: Az 1. melléklet 7. pontját a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdése iktatta be.

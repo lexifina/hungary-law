@@ -2,7 +2,7 @@
 
 2. § (1) E rendelet alkalmazásában:
 
-1. autóbusszal díj ellenében végzett belföldi személyszállítás: az személyszállítás, amelynél a személyszállítás megkezdésének és befejezésének a helye Magyarország területén van, és utas csak Magyarország területén szállhat fel az autóbuszra és csak ott szállhat le arról;
+1.[^1] autóbusszal díj ellenében végzett belföldi személyszállítás: az a személyszállítás, amelynél a személyszállítás megkezdésének és befejezésének a helye Magyarország területén van, és utas csak Magyarország területén szállhat fel az autóbuszra és csak ott szállhat le arról;
 
 2. autóbusszal díj ellenében végzett nemzetközi személyszállítás: az a személyszállítás, amelynél
 
@@ -44,18 +44,21 @@
 
 13. ömlesztett áru: részecskékből, szemcsékből, vagy nagyobb anyagdarabokból, illetve ezek kombinációjából álló anyag, amelyet tömegben, rendezetlenül és csomagolás nélkül raknak fel az azt továbbító teherjármű rakfelületére;
 
-14. saját számlás közúti áruszállítás: árunak vagy más dolognak teherjárművel végzett szállítása, ha a
+14.[^2] saját számlás közúti áruszállítás: árunak vagy más dolognak teherjárművel gazdálkodó szervezet által végzett szállítása, ha a
 
 14.1. a szállított áru vagy más dolog a szállítást végző tulajdona, vagy azt a szállítást végző megvette, eladta, bérbe vette, bérbe adta, vagy az a szállítást végző által előállított, kinyert, feldolgozásra, javításra átvett, feldolgozott, javított dolog, és a szállítás célja az árunak vagy más dolognak a szállítást végzőhöz beszállítása, vagy a szállítást végzőtől való elszállítása, a szállítást végző saját céljaira, és a szállítást végző által üzemben tartott vagy bérelt teherjárművel végzik a szállítást;
 
 14.2. a szállítást gazdálkodó szervezet az általa üzemben tartott vagy bérelt teherjárművel tagja vagy a vele munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban álló személy részére végzi, vagy az egyéni vállalkozó a saját maga részére végzi;
 
-15.[^1] teherjármű: a tehergépjármű
+15.[^3] teherjármű: a tehergépjármű
 
 16. tehergépjármű: a tehergépkocsi, a vontató – ideértve a nyerges vontatót is –, valamint az ilyen járműből és az általa vontatott pótkocsiból (félpótkocsiból) álló járműszerelvény;
 
-17. üzembentartó: a járművet hatósági jelzéssel ellátó ország hatóságai által kibocsátott okiratba bejegyzett üzemben tartó (engedélyes, engedély jogosultja), ennek hiányában a tulajdonos; a 32. § szerinti szerződés esetén üzembentartó a bérlő, illetve a használatba vevő.
+17.[^4] üzembentartó: a járművet hatósági jelzéssel ellátó ország hatóságai által kibocsátott okiratba bejegyzett üzemben tartó (engedélyes, engedély jogosultja), ennek hiányában a tulajdonos; a 34. § szerinti szerződés esetén üzembentartó a bérlő, illetve a használatba vevő.
 
 (2) A közúti közlekedési szolgáltatási, a saját számlás közúti áruszállítási és az autóbusszal végzett saját számlás személyszállítási tevékenységnek részét képezi az árutovábbítás, az áruszállítás vagy a személyszállítás érdekében a járművel rakomány vagy utas nélkül megtett út is.
 
-[^1]: A 2. § (1) bekezdés 15. pontja a 155/2012. (VII. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^1]: A 2. § (1) bekezdés 1. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 14. pont nyitó szövegrésze a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés 15. pontja a 155/2012. (VII. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés 17. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
