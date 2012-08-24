@@ -22,4 +22,6 @@ a) házastársa, élettársa (a továbbiakban együtt: házastárs), valamint
 
 b) gyermeke, örökbe fogadott gyermeke, illetőleg a házastárs gyermeke, örökbe fogadott gyermeke (a továbbiakban együtt: gyermek);
 
-9. Állandó Képviselet: a Magyar Köztársaságnak az Európai Unió mellett működő állandó képviselete.
+9.[^2] Állandó Képviselet: Magyarországnak az Európai Unió mellett működő állandó képviselete.
+
+[^2]: A 2. § 9. pontja a 25/2012. (VIII. 23.) NGM rendelet 15. §-a szerint módosított szöveg.
