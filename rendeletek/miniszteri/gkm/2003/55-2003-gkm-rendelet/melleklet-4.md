@@ -1,4 +1,4 @@
-4. számú melléklet az 55/2003. (IX. 4.) GKM rendelethez[^9]
+4. számú melléklet az 55/2003. (IX. 4.) GKM rendelethez[^11]
 
 Az előtétes fénycső-áramkörök felvett teljesítményének wattban kifejezett legnagyobb értékeit a következő táblázat tartalmazza:
 
@@ -60,4 +60,4 @@ Amennyiben az előtétet olyan fénycsőhöz tervezik, amely a fenti táblázatb
 
 45+(48–38) x (67–45)/(58–38)=56W]
 
-[^9]: A 4. számú melléklet e rendelet 7. §-ának (3) bekezdése alapján 2005. november 21. napján lépett hatályba.
+[^11]: A 4. számú melléklet e rendelet 7. §-ának (3) bekezdése alapján 2005. november 21. napján lépett hatályba.
