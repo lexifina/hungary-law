@@ -252,7 +252,7 @@
 
 ## C A jog és a jogi norma, a jog tagozódása, a jogforrások, a jogforrások érvényessége és hatályossága.
 
-## C A Magyar Köztársaság jogrendje, a jogforrások rendszere, a jogszabályalkotás folyamata és rendje.
+## C Magyarország jogrendje, a jogforrások rendszere, a jogszabályalkotás folyamata és rendje.
 
 ## B A polgári jog alapfogalmai. A jogalany, a jogképesség, a cselekvőképesség. A személyhez fűződő jogok rendszere. A dologi jog. A tulajdonjog alapjai (tartalma, a tulajdonjog védelme, a tulajdonjog megszerzése, a tulajdon átruházására irányuló szerződések, az ingatlan nyilvántartás).
 
