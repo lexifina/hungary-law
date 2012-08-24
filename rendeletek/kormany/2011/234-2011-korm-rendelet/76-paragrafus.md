@@ -16,4 +16,6 @@
 
 (6) A közbiztonsági referensi tanfolyam szervezéséről és a képzés, valamint a vizsga tartalmának meghatározásáról a hivatásos katasztrófavédelmi szerv központi szervének vezetője gondoskodik.
 
-(7) A referensképzés költségei a katasztrófavédelmi hozzájárulásból kerülnek finanszírozásra.
+(7)[^13]
+
+[^13]: A 76. § (7) bekezdését a 226/2012. (VIII. 23.) Korm. rendelet 6. §-a hatályon kívül helyezte.

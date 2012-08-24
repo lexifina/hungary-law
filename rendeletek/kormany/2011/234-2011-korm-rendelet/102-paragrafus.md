@@ -8,6 +8,6 @@
 
 102. § (1) E rendelet 2012. január 1-jén lép hatályba.
 
-(2)[^9]
+(2)[^14]
 
-[^9]: A 102. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 102. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
