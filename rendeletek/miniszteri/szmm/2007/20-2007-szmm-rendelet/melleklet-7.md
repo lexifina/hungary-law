@@ -48,6 +48,6 @@
 
 | P. H. |
 
-7. számú melléklet a 20/2007. (V. 21.) SZMM rendelethez[^74]
+7. számú melléklet a 20/2007. (V. 21.) SZMM rendelethez[^76]
 
-[^74]: A 7. számú melléklet a 19/2008. (XII. 4.) SZMM rendelet 27. § (1) bekezdésének d) pontjával megállapított szöveg. E módosító rendelet 28. § (2) bekezdése alapján rendelkezéseit a 2009. január 18. napját követően megkezdett szakmai vizsgák esetén kell alkalmazni.
+[^76]: A 7. számú melléklet a 19/2008. (XII. 4.) SZMM rendelet 27. § (1) bekezdésének d) pontjával megállapított szöveg. E módosító rendelet 28. § (2) bekezdése alapján rendelkezéseit a 2009. január 18. napját követően megkezdett szakmai vizsgák esetén kell alkalmazni.

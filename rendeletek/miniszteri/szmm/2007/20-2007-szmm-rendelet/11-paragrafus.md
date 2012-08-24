@@ -2,7 +2,7 @@
 
 ## A szakmai vizsga ellenőrzése
 
-11. §[^20] (1) A vizsga eseti szakmai ellenőrzését a szakképesítésért felelős miniszter az országos gazdasági kamarák vagy az országos gazdasági érdekképviseleti szervezetek, vagy amennyiben a szakképesítés nem tartozik egyik gazdasági kamara vagy országos gazdasági érdekképviseleti szervezet hatáskörébe sem, a szakképesítésért felelős miniszter által a szakképesítés szakmai és vizsgakövetelményében a szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet, illetve az ágazat egészében érdekelt szakmai kamara bevonásával végzi. Az ellenőrzés kiterjedhet vizsgatevékenységekre, vizsgarészekre, vizsganapokra vagy a teljes vizsgára.
+11. §[^21] (1) A vizsga eseti szakmai ellenőrzését a szakképesítésért felelős miniszter az országos gazdasági kamarák vagy az országos gazdasági érdekképviseleti szervezetek, vagy amennyiben a szakképesítés nem tartozik egyik gazdasági kamara vagy országos gazdasági érdekképviseleti szervezet hatáskörébe sem, a szakképesítésért felelős miniszter által a szakképesítés szakmai és vizsgakövetelményében a szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet, illetve az ágazat egészében érdekelt szakmai kamara bevonásával végzi. Az ellenőrzés kiterjedhet vizsgatevékenységekre, vizsgarészekre, vizsganapokra vagy a teljes vizsgára.
 
 (2) A szakmai ellenőrzés a vizsgaszervező, a vizsgabizottság és a vizsgabizottság munkáját segítő szakértők – szakmai vizsga színvonalas lebonyolítása, illetve a vizsgázók felkészültségének hatékony mérése érdekében folytatott – tevékenységének vizsgálatára irányul.
 
@@ -22,4 +22,4 @@
 
 (10) Ha a szakmai ellenőrzést végző szakértő tevékenysége során jogszabálysértést észlel, haladéktalanul köteles megbízójának jelenteni, aki szükség esetén intézkedik a szakmai vizsga felfüggesztéséről. A vizsgaszervező e jelentéstételhez szükséges kommunikációs eszközöket köteles biztosítani.
 
-[^20]: A 11. § a 19/2008. (XII. 4.) SZMM rendelet 8. §-ával megállapított szöveg. E módosító rendelet 28. § (2) bekezdése alapján a rendelkezést a 2009. január 18. napját követően megkezdett szakmai vizsgák esetén kell alkalmazni.
+[^21]: A 11. § a 19/2008. (XII. 4.) SZMM rendelet 8. §-ával megállapított szöveg. E módosító rendelet 28. § (2) bekezdése alapján a rendelkezést a 2009. január 18. napját követően megkezdett szakmai vizsgák esetén kell alkalmazni.

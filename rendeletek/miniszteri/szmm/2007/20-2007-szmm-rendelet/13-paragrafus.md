@@ -4,7 +4,7 @@
 
 a) a szakmai vizsga megkezdése előtt ellenőrzi, a bizottság döntése alapján jóváhagyja a vizsga szervezési és lebonyolítási szabályzatát és a 8. § (7) bekezdés szerinti vizsgaprogramot,
 
-b)[^25] ellenőrzi a vizsga előkészítését, a szükséges szakmai feltételek, az egészséges és biztonságos vizsgakörülmények meglétét, az írásbeli, illetve az interaktív vizsgatevékenységről készített jegyzőkönyvet,
+b)[^26] ellenőrzi a vizsga előkészítését, a szükséges szakmai feltételek, az egészséges és biztonságos vizsgakörülmények meglétét, az írásbeli, illetve az interaktív vizsgatevékenységről készített jegyzőkönyvet,
 
 c) vezeti a szakmai vizsgát és a vizsgabizottság értekezleteit, jóváhagyja azok jegyzőkönyveit,
 
@@ -18,4 +18,4 @@ g) elkészíti a vizsga előkészítésével, lebonyolításával, a vizsgáztat
 
 (3) Aki a (2) bekezdés g) pontjában foglalt kötelezettségének nem tett eleget, e kötelezettség teljesítéséig nem bízható meg újabb szakmai vizsgaelnöki teendők ellátásával.
 
-[^25]: A 13. § (2) bekezdésének b) pontja a 19/2008. (XII. 4.) SZMM rendelet 10. §-ával megállapított szöveg. E módosító rendelet 28. § (2) bekezdése alapján a rendelkezést a 2009. január 18. napját követően megkezdett szakmai vizsgák esetén kell alkalmazni.
+[^26]: A 13. § (2) bekezdésének b) pontja a 19/2008. (XII. 4.) SZMM rendelet 10. §-ával megállapított szöveg. E módosító rendelet 28. § (2) bekezdése alapján a rendelkezést a 2009. január 18. napját követően megkezdett szakmai vizsgák esetén kell alkalmazni.

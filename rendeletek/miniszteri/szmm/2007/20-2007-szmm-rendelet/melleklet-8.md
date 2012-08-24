@@ -42,7 +42,7 @@
 
 ## * A kívánt rész aláhúzandó!
 
-8. számú melléklet a 20/2007. V. 21.) SZMM rendelethez[^75]
+8. számú melléklet a 20/2007. V. 21.) SZMM rendelethez[^77]
 
 IGAZOLÁS
 
@@ -80,4 +80,4 @@ név, aláírás
 
 * A kívánt rész aláhúzandó!
 
-[^75]: A 8. számú mellékletet a 19/2008. (XII. 4.) SZMM rendelet 27. § (1) bekezdésének e) pontja iktatta be. E módosító rendelet 28. § (2) bekezdése alapján rendelkezéseit a 2009. január 18. napját követően megkezdett szakmai vizsgák esetén kell alkalmazni.
+[^77]: A 8. számú mellékletet a 19/2008. (XII. 4.) SZMM rendelet 27. § (1) bekezdésének e) pontja iktatta be. E módosító rendelet 28. § (2) bekezdése alapján rendelkezéseit a 2009. január 18. napját követően megkezdett szakmai vizsgák esetén kell alkalmazni.

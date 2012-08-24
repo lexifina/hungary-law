@@ -4,9 +4,9 @@
 
 A vizsgabizottság értekezletet tart:
 
-a)[^27] a vizsgaszervezési és lebonyolítási szabályzat és a vizsgaprogram elfogadása, a vizsgára jelentkező vizsgafelmentés tárgyában benyújtott kérelméről szóló döntés határozatba foglalása céljából, illetve a szakmai vizsga első vizsgatevékenységének megkezdése előtt,
+a)[^28] a vizsgaszervezési és lebonyolítási szabályzat és a vizsgaprogram elfogadása, a vizsgára jelentkező vizsgafelmentés tárgyában benyújtott kérelméről szóló döntés határozatba foglalása céljából, illetve a szakmai vizsga első vizsgatevékenységének megkezdése előtt,
 
-b)[^28] a szakmai vizsga utolsó napján, az utolsó vizsgatevékenység befejezését követően, a vizsgázók teljesítményének értékelése, a vizsga lebonyolítása szabályszerűségének megállapítása céljából,
+b)[^29] a szakmai vizsga utolsó napján, az utolsó vizsgatevékenység befejezését követően, a vizsgázók teljesítményének értékelése, a vizsga lebonyolítása szabályszerűségének megállapítása céljából,
 
 c) ha a szakmai vizsga lefolytatását, megtartását, befejezését zavaró vagy gátló körülmény, illetőleg a vizsgázó elbírálása, az általa elkövetett szabálytalanság vagy egyéb ok azt szükségessé teszi.
 
@@ -18,5 +18,5 @@ c) ha a szakmai vizsga lefolytatását, megtartását, befejezését zavaró vag
 
 (5) Ha az elnök a vizsgabizottság eljárásával vagy határozatával nem ért egyet, óvást nyújthat be, és a határozat végrehajtását felfüggesztheti. Az óvást haladéktalanul meg kell küldeni a szakképesítésért felelős miniszternek, aki azt három napon belül köteles elbírálni. Az óvás elbírálásáig a vizsgázó bizonyítványát nem lehet kiállítani.
 
-[^27]: A 15. § (1) bekezdésének a) pontja a 19/2008. (XII. 4.) SZMM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 28. § (2) bekezdése alapján a rendelkezést a 2009. január 18. napját követően megkezdett szakmai vizsgák esetén kell alkalmazni.
-[^28]: A 15. § (1) bekezdésének b) pontja a 19/2008. (XII. 4.) SZMM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 28. § (2) bekezdése alapján a rendelkezést a 2009. január 18. napját követően megkezdett szakmai vizsgák esetén kell alkalmazni.
+[^28]: A 15. § (1) bekezdésének a) pontja a 19/2008. (XII. 4.) SZMM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 28. § (2) bekezdése alapján a rendelkezést a 2009. január 18. napját követően megkezdett szakmai vizsgák esetén kell alkalmazni.
+[^29]: A 15. § (1) bekezdésének b) pontja a 19/2008. (XII. 4.) SZMM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 28. § (2) bekezdése alapján a rendelkezést a 2009. január 18. napját követően megkezdett szakmai vizsgák esetén kell alkalmazni.

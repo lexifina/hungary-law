@@ -54,6 +54,6 @@
 
 ## * A megfelelő rész (szakképesítés köre) aláhúzandó!
 
-2. számú melléklet a 20/2007. (V. 21.) SZMM rendelethez[^70]
+2. számú melléklet a 20/2007. (V. 21.) SZMM rendelethez[^72]
 
-[^70]: A 2. számú melléklet a 19/2008. (XII. 4.) SZMM rendelet 27. § (1) bekezdésének a) pontjával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján rendelkezéseit a 2009. január 18. napját követően megkezdett szakmai vizsgák esetén kell alkalmazni.
+[^72]: A 2. számú melléklet a 19/2008. (XII. 4.) SZMM rendelet 27. § (1) bekezdésének a) pontjával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján rendelkezéseit a 2009. január 18. napját követően megkezdett szakmai vizsgák esetén kell alkalmazni.
