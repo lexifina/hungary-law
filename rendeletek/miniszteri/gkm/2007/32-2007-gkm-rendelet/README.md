@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-32-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-06-17 | 2007-32-20-0L.1 | 32/2007. (III. 19.) GKM rendelet |
+| 2012-08-24 | 2007-32-20-0L.2 | 25/2012. (VIII. 23.) NGM rendelet |

@@ -1,8 +1,8 @@
-## Haditechnikai termékek jelölése[^1]
+## Haditechnikai termékek jelölése[^2]
 
 ## I. Fejezet
 
-## Sima csövű fegyverek 20 mm-nél kisebb kaliberrel, más kézifegyverek és automata fegyverek 12,7 mm (0,50 hüvelyk/inch) vagy kisebb kaliberrel, és tartozékok, és a kifejezetten azokhoz tervezett részegységek (ML 1)[^2]
+## Sima csövű fegyverek 20 mm-nél kisebb kaliberrel, más kézifegyverek és automata fegyverek 12,7 mm (0,50 hüvelyk/inch) vagy kisebb kaliberrel, és tartozékok, és a kifejezetten azokhoz tervezett részegységek (ML 1)[^3]
 
 ## Minden egyes lövészfegyvert (lőfegyvert) gyártásakor egyedi azonosító jelöléssel kell ellátni. A jelölésnek tartalmaznia kell a gyártó nevét, Magyarország, mint az előállítás helye szerinti ország angol nevét (Made in Hungary), a fegyver típus (modell) megnevezését (típusjelét) és kaliberjelét, a gyártási évet és a gyártási számot. Jelölni kell a fegyver műszaki megbízhatóságát (átvételét) is. Az egyedi jelölést a fegyver olyan lényegi részén kell alkalmazni, mely rész roncsolása a fegyvert tartósan működésképtelenné vagy újbóli beüzemelésre képtelenné tenné. A gyári kiegészítő felszerelés (például: irányzék) rögzítésére szolgáló sínek alá lehetőleg ne kerüljön azonosító jel.
 
@@ -42,7 +42,7 @@
 
 ## Lőszerek és mechanikus gyújtószerkezetek, és az azokhoz készített különleges részegységek (ML 3)
 
-## A lőszerek gyűjtőcsomagolásán (tároláskor és szállításkor a környezeti hatásoknak ellenálló külső csomagolás, például: faláda) az ADR[^3]/RID[^4] előírásoknak megfelelő formában fel kell tüntetni a termék veszélyességi osztályát, alosztályát és összeférhetőségi csoportját, továbbá a termékazonosító NSN[^5] kódszámot.
+## A lőszerek gyűjtőcsomagolásán (tároláskor és szállításkor a környezeti hatásoknak ellenálló külső csomagolás, például: faláda) az ADR[^4]/RID[^5] előírásoknak megfelelő formában fel kell tüntetni a termék veszélyességi osztályát, alosztályát és összeférhetőségi csoportját, továbbá a termékazonosító NSN[^6] kódszámot.
 
 ## III.1. Lövészfegyverek lőszerei
 
@@ -148,7 +148,7 @@
 
 ## VI.2. Összkerék-meghajtású, terepjáró képességgel rendelkező járművek
 
-## Minden járműre jól látható és könnyen hozzáférhető, a jármű használata során nem cserélendő helyen, a vonatkozó jogszabály[^6] előírásának megfelelően úgynevezett „gyári adattáblát” kell elhelyezni. Az adattáblán szerepelnie kell a gyártó nevének, a jármű gyártó által képzett azonosító számnak (VIN-szám), a jármű megengedett legnagyobb össztömegének, a vontatható megengedett legnagyobb össztömegének, valamint a jármű megengedett legnagyobb tengelyterhelésének az egyes tengelyek szerint.
+## Minden járműre jól látható és könnyen hozzáférhető, a jármű használata során nem cserélendő helyen, a vonatkozó jogszabály[^7] előírásának megfelelően úgynevezett „gyári adattáblát” kell elhelyezni. Az adattáblán szerepelnie kell a gyártó nevének, a jármű gyártó által képzett azonosító számnak (VIN-szám), a jármű megengedett legnagyobb össztömegének, a vontatható megengedett legnagyobb össztömegének, valamint a jármű megengedett legnagyobb tengelyterhelésének az egyes tengelyek szerint.
 
 ## A járművet azonosító VIN-számot az alvázon vagy más hasonló szerkezeti részen is fel kell tüntetni.
 
@@ -366,7 +366,7 @@
 
 ## XXIII. Fejezet
 
-## Kifejezetten katonai célú felszerelések[^7]
+## Kifejezetten katonai célú felszerelések[^8]
 
 ## XXIII.1. Hadi ruházat
 
@@ -398,13 +398,13 @@
 
 ## XXIV. Fejezet
 
-## Kifejezetten katonai célú szolgáltatások[^8]
+## Kifejezetten katonai célú szolgáltatások[^9]
 
 ## Megjegyzés: A fejezethez nem tartozik gyártási tevékenység!
 
 ## XXV. Fejezet
 
-## Kényszerítő és bűnfelderítő eszközök[^9]
+## Kényszerítő és bűnfelderítő eszközök[^10]
 
 ## XXV.1. Többször felhasználható kényszerítő eszközök
 
@@ -444,7 +444,7 @@
 
 ## XXVI. Fejezet
 
-## Titkosszolgálati eszközök[^10]
+## Titkosszolgálati eszközök[^11]
 
 ## E termékkörbe tartozik
 
@@ -458,13 +458,13 @@
 
 2. melléklet a 32/2007. (III. 19.) GKM rendelethez
 
-[^1]: A mellékletben a fejezet sorszámok és címek a Httv. mellékletében lévő sorrendet és tartalmat követik.
-[^2]: ML: Munition List/Military List = Haditechnikai Jegyzék, a Wasenaar-i Megállapodás és az EU által alkalmazott jelölés a Haditechnikai Jegyzék fejezeteire.
-[^3]: A veszélyes áruk nemzetközi közúti szállításáról szóló Európai Megállapodás.
-[^4]: RID = A veszélyes áruk nemzetközi vasúti fuvarozásáról szóló Szabályzat.
-[^5]: NSN = A termék NATO leltári száma (NATO Stock Number)
-[^6]: Jelenleg a többször módosított 6/1990. (IV. 12.) KÖHÉM rendelet A. Függelék A/18. számú melléklete.
-[^7]: Magyar terminológia szerint, az ML lista nem tartalmazza.
+[^2]: A mellékletben a fejezet sorszámok és címek a Httv. mellékletében lévő sorrendet és tartalmat követik.
+[^3]: ML: Munition List/Military List = Haditechnikai Jegyzék, a Wasenaar-i Megállapodás és az EU által alkalmazott jelölés a Haditechnikai Jegyzék fejezeteire.
+[^4]: A veszélyes áruk nemzetközi közúti szállításáról szóló Európai Megállapodás.
+[^5]: RID = A veszélyes áruk nemzetközi vasúti fuvarozásáról szóló Szabályzat.
+[^6]: NSN = A termék NATO leltári száma (NATO Stock Number)
+[^7]: Jelenleg a többször módosított 6/1990. (IV. 12.) KÖHÉM rendelet A. Függelék A/18. számú melléklete.
 [^8]: Magyar terminológia szerint, az ML lista nem tartalmazza.
 [^9]: Magyar terminológia szerint, az ML lista nem tartalmazza.
 [^10]: Magyar terminológia szerint, az ML lista nem tartalmazza.
+[^11]: Magyar terminológia szerint, az ML lista nem tartalmazza.
