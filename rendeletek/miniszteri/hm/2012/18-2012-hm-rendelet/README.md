@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-18-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-08-23 | 2012-18-20-15.1 | 18/2012. (VIII. 22.) HM rendelet |
+| 2012-08-24 | 2012-18-20-15.2 | 2010: CXXX. törvény |
