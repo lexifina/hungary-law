@@ -1,4 +1,4 @@
-## 9. §[^10]
+## 9. §[^22]
 
 ## 10. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) Az R2. 5. §-a, az R2. 8/A. § (2) bekezdésében az „a járművel történő megállásra és várakozásra,” szövegrész, az R2. 4. melléklete, az R2. 5. melléklet 2. sora, az R3. 12. § (1) bekezdésében az „a járművel történő megállásra és várakozásra,” szövegrész, az R3. 11/E. melléklet 2. sora, valamint az R3. 11/G. melléklete, az R6. 1/A. számú melléklet 18. Kódszámú sorában a „Megállás kijelölt gyalogos-átkelőhelyen, valamint a gyalogos-átkelőhely előtt, kerékpársávon, útkanyarulatban, valamint olyan helyen, ahol a jármű a fényjelzőkészülék vagy jelzőtábla észlelését akadályozza [KR. 4. melléklet 1. pont, BR. 11/G. melléklet 1. pont];” és a „6” pontszám, továbbá 20. Kódszámú sorában a „Megállás az autópálya úttestjén és leállósávján [KR. 5. melléklet 2. pont, BR. 11/E. melléklet 2. pont];” és a „6” pontszám szövegrész 2012. szeptember 1-jén hatályát veszti.
 
-[^10]: A 9. § a 10. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
+[^22]: A 9. § a 10. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
