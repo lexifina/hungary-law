@@ -1,1 +1,0 @@
-## 4. § A nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló 9/2001. (IV. 5.) GM rendelet 10. számú melléklet 2. pont utolsó mondatában a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

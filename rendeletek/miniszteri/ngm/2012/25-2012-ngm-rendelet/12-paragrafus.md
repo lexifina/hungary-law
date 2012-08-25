@@ -1,1 +1,0 @@
-## 11. § A katonai csapat- és árumozgásokra vonatkozó vámeljárás különös szabályairól szóló 42/2004. (XI. 17.) PM rendelet 4. § (3) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

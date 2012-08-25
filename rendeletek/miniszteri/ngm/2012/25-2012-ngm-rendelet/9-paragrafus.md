@@ -1,1 +1,0 @@
-## 8. § A fénycsőelőtétekre vonatkozó energiahatékonysági követelményekről szóló 55/2003. (IX. 4.) GKM rendelet 3. § (2) bekezdésében a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.

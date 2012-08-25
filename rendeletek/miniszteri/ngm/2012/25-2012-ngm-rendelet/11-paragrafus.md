@@ -1,1 +1,0 @@
-## 10. § Az illetékbélyegek forgalomba hozataláról szóló 38/2004. (VIII. 16.) PM rendelet melléklet A) pont a), b), c), d), e), f) és g) alpontjában az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép.
