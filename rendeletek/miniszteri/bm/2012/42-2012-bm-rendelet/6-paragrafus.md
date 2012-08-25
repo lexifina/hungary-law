@@ -1,1 +1,0 @@
-## „(5) A hozzájárulás összege nem lehet magasabb a szerződéssel és számlával igazolt bérleti, albérleti díjnál, vagy lízing díjnál, de legfeljebb a mindenkori köztisztviselői illetményalap száz százaléka.”
