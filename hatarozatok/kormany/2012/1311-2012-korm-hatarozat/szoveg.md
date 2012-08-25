@@ -70,6 +70,8 @@ belügyminiszter
 
 Határidő: folyamatos
 
-2. Hatályát veszti a megyei múzeumok, könyvtárak és közművelődési intézmények további fenntartásáról, valamint a települési önkormányzatok kötelező kulturális feladatairól szóló 1094/2012. (IV. 3.) Korm. határozat.
+2.[^1]
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
