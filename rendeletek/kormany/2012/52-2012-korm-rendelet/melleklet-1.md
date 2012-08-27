@@ -1,4 +1,4 @@
-## 19. §[^1]
+## végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 1. melléklet az 52/2012. (III. 28.) Korm. rendelethez
 
@@ -183,5 +183,3 @@ Továbbá: az ADR. 1. osztályba tartozó más robbanóanyagok.
 | 4 |  | 4811 | Papír, karton, cellulózvatta és cellulózszálból álló szövedék bevonva, impregnálva, borítva, felületileg színezve, díszítve vagy nyomtatva, tekercsben vagy téglalap alakú (beleértve a négyzetet is) ívben, bármilyen méretben a 4803, 4809 vagy a 4810 vtsz. alá tartozók kivételével: |
 
 | 5 | ex | 4811 | Biztonsági papír |
-
-[^1]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
