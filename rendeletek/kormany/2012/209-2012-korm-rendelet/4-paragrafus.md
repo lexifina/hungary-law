@@ -1,0 +1,3 @@
+## 3. § Az R1. 5. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) Az 1. § (1) bekezdésében meghatározott ügyletekkel összefüggő vámeljárásban, a kérelmezőnek az egységes vámáru-nyilatkozat 44. rovatában fel kell tüntetnie az engedély vagy a Nemzetközi importigazolás számát, Uniós Általános Exportengedély használata esetén annak azonosító számát. Az egységes vámáru-nyilatkozat 31. rovatában a kérelmezőnek az engedélyen vagy a Nemzetközi importigazoláson szereplő árumegnevezést, ellenőrzési jegyzékszámot, vegyi anyagok esetében a vegyületet egyedileg azonosító számot (a továbbiakban: CAS szám) is fel kell tüntetnie.”
