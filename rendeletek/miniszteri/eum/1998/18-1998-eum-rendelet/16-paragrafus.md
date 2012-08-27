@@ -1,8 +1,8 @@
-## 15/C. §[^34] Vérsejtképző őssejt transzplantáció céljából a szövetbankból közvetlenül az átültetést végző egészségügyi szolgáltatóhoz akkor juttatható el, ha az egészségügyi szolgáltató az átültetésre vonatkozóan működési engedéllyel rendelkezik.
+## 15/C. §[^45] Vérsejtképző őssejt transzplantáció céljából a szövetbankból közvetlenül az átültetést végző egészségügyi szolgáltatóhoz akkor juttatható el, ha az egészségügyi szolgáltató az átültetésre vonatkozóan működési engedéllyel rendelkezik.
 
-## Szövetek és sejtek tárolására vonatkozó rendelkezések[^35]
+## Szövetek és sejtek tárolására vonatkozó rendelkezések[^46]
 
-16. § (1)[^36] Szövet, valamint sejt csak szövet-, illetve sejtbankban (a továbbiakban együtt: szövetbank) tárolható. A szöveteket, valamint sejteket tartalmazó csomagoláson a tárolás és a feldolgozás során jelzőcímkét kell alkalmazni. A szövet, valamint sejt – feldolgozásáig történő – tárolása során a jelzőcímke a következő adatokat tartalmazza:
+16. § (1)[^47] Szövet, valamint sejt csak szövetbankban tárolható. A szöveteket, valamint sejteket tartalmazó csomagoláson a tárolás és a feldolgozás során jelzőcímkét kell alkalmazni. A szövet, valamint sejt – feldolgozásáig történő – tárolása során a jelzőcímke a következő adatokat tartalmazza:
 
 a) az eltávolítás időpontja,
 
@@ -32,12 +32,12 @@ f) a szövet mennyisége vagy méretei, lehetséges vegyszermaradékra történ�
 
 g) a donorazonosító szám.
 
-(3)[^37] A jelzőcímkén a donor neve nem szerepelhet. A donor azonosítására a donorazonosító szám szolgál. A szövet, illetve sejt eltávolítását végző egészségügyi szolgáltató a szövet-, illetve sejtdonorokról az egészségügyi adatok kezelésére vonatkozó jogszabályok, valamint a 9. számú mellékletben meghatározottak szerint nyilvántartást vezet.
+(3)[^48] A jelzőcímkén a donor neve nem szerepelhet. A donor azonosítására a donorazonosító szám szolgál. A szövet, illetve sejt eltávolítását végző egészségügyi szolgáltató a szövet-, illetve sejtdonorokról az egészségügyi adatok kezelésére vonatkozó jogszabályok, valamint a 9. számú mellékletben meghatározottak szerint nyilvántartást vezet.
 
-(4)[^38] A szövet, illetve sejt szállítása során a 9. számú melléklet 1.4. pontja szerinti szállítótartályra vonatkozó címkézési előírásokat kell betartani.
+(4)[^49] A szövet, illetve sejt szállítása során a 9. számú melléklet 1.4. pontja szerinti szállítótartályra vonatkozó címkézési előírásokat kell betartani.
 
-[^34]: A 15/C. §-t a 20/2007. (IV. 19.) EüM rendelet 5. §-a iktatta be.
-[^35]: A 16. §-t megelőző alcím a 20/2007. (IV. 19.) EüM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^36]: A 16. § (1) bekezdése a 20/2007. (IV. 19.) EüM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^37]: A 16. § (3) bekezdése a 20/2007. (IV. 19.) EüM rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^38]: A 16. § (4) bekezdését a 20/2007. (IV. 19.) EüM rendelet 6. § (4) bekezdése iktatta be.
+[^45]: A 15/C. §-t a 20/2007. (IV. 19.) EüM rendelet 5. §-a iktatta be.
+[^46]: A 16. §-t megelőző alcím a 20/2007. (IV. 19.) EüM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^47]: A 16. § (1) bekezdése a 20/2007. (IV. 19.) EüM rendelet 6. § (2) bekezdésével megállapított, a 12/2012. (VIII. 6.) EMMI rendelet 10. § e) pontja szerint módosított szöveg.
+[^48]: A 16. § (3) bekezdése a 20/2007. (IV. 19.) EüM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^49]: A 16. § (4) bekezdését a 20/2007. (IV. 19.) EüM rendelet 6. § (4) bekezdése iktatta be.

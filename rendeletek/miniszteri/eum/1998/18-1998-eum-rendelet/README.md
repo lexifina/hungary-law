@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-18-20-0
 | 2010-05-13 | 1998-18-20-0B.13 | 3/2003. (II. 1.) ESZCSM rendelet |
 | 2011-03-31 | 1998-18-20-0B.14 | 10/2011. (III. 30.) NEFMI rendelet |
 | 2012-01-04 | 1998-18-20-0B.15 | 3/2012. (I. 3.) NEFMI rendelet |
+| 2012-08-27 | 1998-18-20-0B.16 | 12/2012. (VIII. 6.) EMMI rendelet |

@@ -1,4 +1,4 @@
-## a)[^50] Hozzájáruló nyilatkozat személyes adatok kezeléséhez és az OTNY-be történő nyilvántartásba vételéhez
+## a)[^78] Hozzájáruló nyilatkozat személyes adatok kezeléséhez és az OTNY-be történő nyilvántartásba vételéhez
 
 ## (szerv-, szövetátültetéssel kapcsolatosan)*
 
@@ -8,7 +8,7 @@
 
 ## utóneve:2 .............................
 
-## TAJ száma: ............................
+## TAJ: ............................
 
 ## születési dátuma: .....................
 
@@ -58,7 +58,7 @@
 
 ## 3 Amennyiben a lakóhely nem azonos az értesítési címmel, kérjük ezt is feltüntetni.
 
-## 4 Az OTNY-nél történő személyes nyilatkozattétel, valamint postai küldeményben beérkezett tiltakozó nyilatkozat esetén, az OTNY munkatársának aláírása, háziorvoson keresztül történő nyilatkozattétel esetén a háziorvos neve, címe, aláírása és OONY száma.
+## 4 Az OTNY-nél történő személyes nyilatkozattétel, valamint postai küldeményben beérkezett tiltakozó nyilatkozat esetén, az OTNY munkatársának aláírása, háziorvoson keresztül történő nyilatkozattétel esetén a háziorvos neve, címe, aláírása és OONY.
 
 ## b) Tiltakozó nyilatkozat visszavonása
 
@@ -70,7 +70,7 @@
 
 ## utóneve:6 .............................
 
-## TAJ száma: ............................
+## TAJ: ............................
 
 ## születési dátuma: .....................
 
@@ -118,9 +118,9 @@
 
 ## 7 Amennyiben a lakóhely nem azonos az értesítési címmel, kérjük ezt is feltüntetni.
 
-## 8 Az OTNY-nél történő személyes visszavonás esetén az OTNY munkatársának aláírása; háziorvoson keresztül történő visszavonás esetén a háziorvos neve, címe, aláírása és OONY száma.
+## 8 Az OTNY-nél történő személyes visszavonás esetén az OTNY munkatársának aláírása; háziorvoson keresztül történő visszavonás esetén a háziorvos neve, címe, aláírása és OONY.
 
-## c) Adatlap a kijelölt egészségügyi dolgozóról[^51]
+## c) Adatlap a kijelölt egészségügyi dolgozóról[^79]
 
 ## Az adatközlés célja:9
 
@@ -146,11 +146,11 @@
 
 ## utóneve: ..............................
 
-## nyilvántartási száma:11 ...............
+## nyilvántartási:11 ...............
 
-## telefonszáma: .........................
+## telefon: .........................
 
-## telefaxszáma: .........................
+## telefax: .........................
 
 ## A kijelölés kezdő dátuma: .............
 
@@ -168,8 +168,8 @@
 
 ## 11 Az egészségügyi szakdolgozóknál a működési nyilvántartás szerinti szám, orvosoknál/gyógyszerészeknél az OONY, illetőleg a GYONY szerinti szám. GYONY szerinti szám esetén a nyilvántartási szám után egy ,,x''-et kérünk beírni.
 
-5. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^52]
+5. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^80]
 
-[^50]: A 4. számú melléklet a) pontja a 74/2003. (XII. 23.) ESZCSM rendelet 2. §-ának (2) bekezdésének b) pontja, a 20/2007. (IV. 19.) EüM rendelet 13. § (2) bekezdése szerint módosított szöveg.
-[^51]: A 4. számú melléklet c) része a 2/2004. (XI. 17.) EüM rendelet 10. §-a (5) bekezdésének a) pontja szerint módosított szöveg.
-[^52]: Az 5. számú melléklet a 26/2010. (V. 12.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^78]: A 4. számú melléklet a) pontja a 74/2003. (XII. 23.) ESZCSM rendelet 2. §-ának (2) bekezdésének b) pontja, a 20/2007. (IV. 19.) EüM rendelet 13. § (2) bekezdése szerint módosított szöveg.
+[^79]: A 4. számú melléklet c) része a 2/2004. (XI. 17.) EüM rendelet 10. §-a (5) bekezdésének a) pontja szerint módosított szöveg.
+[^80]: Az 5. számú melléklet a 26/2010. (V. 12.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.

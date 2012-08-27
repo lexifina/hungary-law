@@ -1,4 +1,4 @@
-9. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^57]
+9. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^88]
 
 ## A szövetek (sejtek) donációs és gyűjtési eljárásai
 
@@ -56,9 +56,9 @@ f) halottból történő eltávolítás esetében a holttest tárolásának kör
 
 g) a használt reagensek és szállítási oldatok azonosítója/tételszáma;
 
-h)[^58] az adományozás típusa (pl. egy vagy több sejttípusból álló szövet, autológ vagy allogén donor, élő donor vagy halottból történő eltávolítás);
+h)[^89] az adományozás típusa (pl. egy vagy több sejttípusból álló szövet, autológ vagy allogén donor, élő donor vagy halottból történő eltávolítás);
 
-i)[^59] az emberi felhasználás azonosító adatai, ezen belül az elosztás vagy megsemmisítés időpontja, továbbá az egészségügyi szolgáltató azonosítója.
+i)[^90] az emberi felhasználás azonosító adatai, ezen belül az elosztás vagy megsemmisítés időpontja, továbbá az egészségügyi szolgáltató azonosítója.
 
 Amennyiben lehetséges, a jelentésnek tartalmaznia kell a halál napját és időpontját is.
 
@@ -70,7 +70,7 @@ b) a donor azonosítója.
 
 Amennyiben mód van rá, a jelentés tartalmazhatja a gyűjtés napját és időpontját.
 
-1.2.3.[^60] Az emberi felhasználásra szánt, emberi szövetekből és sejtekből előállított terméken az alábbi azonosító adatokat kell feltüntetni:
+1.2.3.[^91] Az emberi felhasználásra szánt, emberi szövetekből és sejtekből előállított terméken az alábbi azonosító adatokat kell feltüntetni:
 
 a) a szövetfeldolgozó és -tároló egység azonosítója,
 
@@ -88,7 +88,7 @@ g) a termékek leírása és eredete, az alkalmazott feldolgozási lépések, a 
 
 h) a végleges címkét kiállító egészségügyi szolgáltató azonosítója.
 
-1.2.4.[^61] A felhasználó szervezet legalább a következő adatokat köteles nyilvántartani:
+1.2.4.[^92] A felhasználó szervezet legalább a következő adatokat köteles nyilvántartani:
 
 a) a szállító szövetfeldolgozó és -tároló egység azonosítója,
 
@@ -132,11 +132,11 @@ h) autológ donorok esetében fel kell tüntetni a „KIZÁRÓLAG AUTOLÓG FELHA
 
 i) a tárolási feltételekre vonatkozó előírások (például „NEM FAGYASZTHATÓ”);
 
-j)[^62] ajánlott szállítási körülmények (pl. hűtendő, állított helyzetben szállítandó stb.);
+j)[^93] ajánlott szállítási körülmények (pl. hűtendő, állított helyzetben szállítandó stb.);
 
-k)[^63] biztonsági előírások/(adott esetben) hűtési módszerek;
+k)[^94] biztonsági előírások/(adott esetben) hűtési módszerek;
 
-l)[^64] a szövet- vagy sejttermék meghatározása és mérete, továbbá a morfológiai és a működésére vonatkozó adatok.
+l)[^95] a szövet- vagy sejttermék meghatározása és mérete, továbbá a morfológiai és a működésére vonatkozó adatok.
 
 1.5. A szövetek/sejtek átvétele a szövetfeldolgozó és -tároló létesítményben
 
@@ -158,17 +158,17 @@ d) allogén donorok vonatkozásában a donor kiválasztásának ellenőrzése a 
 
 e) autológ felhasználásra szánt sejtkultúrák esetében a recipiens gyógyszerallergiájára vonatkozó dokumentáció.
 
-1.5.5.[^65] A szövetbanknak szakmai eljárásrenddel kell rendelkeznie a sejtek, illetve szövetek elosztására és visszahívására. A szakmai eljárásrend a visszahívás tekintetében tartalmazza a szükséges intézkedéseket, az intézkedések határidejét, az intézkedésekért való felelősség rendjét és az illetékes megyei népegészségügyi szakigazgatási szerv értesítésére vonatkozó szabályokat. A szakmai eljárásrendben biztosítani kell a szövetek és sejtek követhetőségét. Minden olyan donort azonosítani kell, aki hozzájárulhatott szövődmény kiváltásához a recipiensben, vissza kell hívni az e donortól rendelkezésre álló szöveteket és sejteket, és értesíteni kell az ugyanazon donortól gyűjtött szövetek és sejtek címzettjeit és recipienseit abban az esetben, ha kockázatnak lehetnek kitéve. A szövetek és sejtek iránt egészségügyi szolgáltatóktól érkező igénylések alapján megteendő intézkedéseket, továbbá a szövetek és sejtek betegek, illetve egészségügyi szolgáltatók részére történő elosztását bárki számára hozzáférhető szakmai eljárásrendben kell szabályozni. A visszaküldött termékek kezelését, beleértve a termékek leltárba való visszavételére vonatkozó szabályokat, a szakmai eljárásrendben meg kell határozni.
+1.5.5.[^96] A szövetbanknak szakmai eljárásrenddel kell rendelkeznie a sejtek, illetve szövetek elosztására és visszahívására. A szakmai eljárásrend a visszahívás tekintetében tartalmazza a szükséges intézkedéseket, az intézkedések határidejét, az intézkedésekért való felelősség rendjét és az OTH-t értesítésére vonatkozó szabályokat. A szakmai eljárásrendben biztosítani kell a szövetek és sejtek követhetőségét. Minden olyan donort azonosítani kell, aki hozzájárulhatott szövődmény kiváltásához a recipiensben, vissza kell hívni az e donortól rendelkezésre álló szöveteket és sejteket, és értesíteni kell az ugyanazon donortól gyűjtött szövetek és sejtek címzettjeit és recipienseit abban az esetben, ha kockázatnak lehetnek kitéve. A szövetek és sejtek iránt egészségügyi szolgáltatóktól érkező igénylések alapján megteendő intézkedéseket, továbbá a szövetek és sejtek betegek, illetve egészségügyi szolgáltatók részére történő elosztását bárki számára hozzáférhető szakmai eljárásrendben kell szabályozni. A visszaküldött termékek kezelését, beleértve a termékek leltárba való visszavételére vonatkozó szabályokat, a szakmai eljárásrendben meg kell határozni.
 
-1.5.6.[^66] A kritikus feldolgozási eljárásokat validálni kell, és azok nyomán a szövetek vagy sejtek nem válhatnak klinikailag hatástalanná vagy a recipiensre nézve ártalmassá. A validálást az egészségügyi szolgáltató saját adatai vagy más egészségügyi szolgáltató adatai, illetve egyéb közzétett adatok alapján kell elvégezni, illetőleg a már bevezetett és alkalmazott eljárások esetében azok leírása és indikátorai alapján. Biztosítani kell, hogy a validált eljárást a szövetfeldolgozó és -tároló egység végre tudja hajtani. Az eljárásokat szakmai eljárásrendben kell rögzíteni, és minden esetben a szakmai eljárásrend alapján végezni, az e mellékletben irányadó szabályok szerint. Amennyiben a szövetekre vagy sejtekre mikrobák inaktiválását célzó eljárást alkalmaznak, azt pontosan meg kell határozni, illetve dokumentálni és validálni kell. A feldolgozás bármely jelentős változása előtt a módosított folyamatot validálni és dokumentálni kell. A feldolgozási eljárásokat rendszeres kritikai értékelésnek kell alávetni annak biztosítása érdekében, hogy azok folyamatosan a várt eredményeket hozzák. A szövet- és sejtmegsemmisítő eljárásokkal meg kell előzni az egyéb adományozások és termékek, a feldolgozási környezet szennyeződését vagy a személyzet megfertőződését.
+1.5.6.[^97] A kritikus feldolgozási eljárásokat validálni kell, és azok nyomán a szövetek vagy sejtek nem válhatnak klinikailag hatástalanná vagy a recipiensre nézve ártalmassá. A validálást az egészségügyi szolgáltató saját adatai vagy más egészségügyi szolgáltató adatai, illetve egyéb közzétett adatok alapján kell elvégezni, illetőleg a már bevezetett és alkalmazott eljárások esetében azok leírása és indikátorai alapján. Biztosítani kell, hogy a validált eljárást a szövetfeldolgozó és -tároló egység végre tudja hajtani. Az eljárásokat szakmai eljárásrendben kell rögzíteni, és minden esetben a szakmai eljárásrend alapján végezni, az e mellékletben irányadó szabályok szerint. Amennyiben a szövetekre vagy sejtekre mikrobák inaktiválását célzó eljárást alkalmaznak, azt pontosan meg kell határozni, illetve dokumentálni és validálni kell. A feldolgozás bármely jelentős változása előtt a módosított folyamatot validálni és dokumentálni kell. A feldolgozási eljárásokat rendszeres kritikai értékelésnek kell alávetni annak biztosítása érdekében, hogy azok folyamatosan a várt eredményeket hozzák. A szövet- és sejtmegsemmisítő eljárásokkal meg kell előzni az egyéb adományozások és termékek, a feldolgozási környezet szennyeződését vagy a személyzet megfertőződését.
 
-[^57]: A 9. számú mellékletet a 20/2007. (IV. 19.) EüM rendelet 10. § (3) bekezdése iktatta be.
-[^58]: A 9. számú melléklet 1.2.2. pontjának h) alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be.
-[^59]: A 9. számú melléklet 1.2.2. pontjának i) alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be.
-[^60]: A 9. számú melléklet 1. pontjának 1.2.3. alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be.
-[^61]: A 9. számú melléklet 1. pontjának 1.2.4. alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be.
-[^62]: A 9. számú melléklet 1.4. pontjának j) alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be.
-[^63]: A 9. számú melléklet 1.4. pontjának k) alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be.
-[^64]: A 9. számú melléklet 1.4. pontjának l) alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be.
-[^65]: A 9. számú melléklet 1. pontjának 1.5.5. alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be, szövege a 10/2011. (III. 30.) NEFMI rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^66]: A 9. számú melléklet 1. pontjának 1.5.6. alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be.
+[^88]: A 9. számú mellékletet a 20/2007. (IV. 19.) EüM rendelet 10. § (3) bekezdése iktatta be.
+[^89]: A 9. számú melléklet 1.2.2. pontjának h) alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be.
+[^90]: A 9. számú melléklet 1.2.2. pontjának i) alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be.
+[^91]: A 9. számú melléklet 1. pontjának 1.2.3. alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be.
+[^92]: A 9. számú melléklet 1. pontjának 1.2.4. alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be.
+[^93]: A 9. számú melléklet 1.4. pontjának j) alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be.
+[^94]: A 9. számú melléklet 1.4. pontjának k) alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be.
+[^95]: A 9. számú melléklet 1.4. pontjának l) alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be.
+[^96]: A 9. számú melléklet 1. pontjának 1.5.5. alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be, szövege a 10/2011. (III. 30.) NEFMI rendelet 10. § (2) bekezdése, a 12/2012. (VIII. 6.) EMMI rendelet 10. § h) pontja szerint módosított szöveg.
+[^97]: A 9. számú melléklet 1. pontjának 1.5.6. alpontját az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdése iktatta be.

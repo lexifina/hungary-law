@@ -40,7 +40,7 @@
 
 | A megtett korrekciós intézkedések (részletek) |
 
-11. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^68]
+11. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^100]
 
 Az éves jelentéshez alkalmazandó formanyomtatványok
 
@@ -120,4 +120,4 @@ B. A súlyos káros eseményekre vonatkozó éves jelentéshez alkalmazandó for
 
 | Egyéb (határozza meg) |  |  |  |  |
 
-[^68]: A 11. számú mellékletet az 55/2007. (XII. 19.) EüM rendelet 5. § (4) bekezdése iktatta be.
+[^100]: A 11. számú mellékletet az 55/2007. (XII. 19.) EüM rendelet 5. § (4) bekezdése iktatta be.
