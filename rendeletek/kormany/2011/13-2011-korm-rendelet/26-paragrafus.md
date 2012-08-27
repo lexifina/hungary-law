@@ -1,7 +1,17 @@
-## IV. Fejezet
+## IV. Fejezet[^33]
 
-## VEGYI ANYAGOKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
+## A NEMZETKÖZI SZANKCIÓBAN ELRENDELT KÜLKERESKEDELMI KORLÁTOZÁS ALÁ ESŐ TERMÉK KIVITELÉNEK ELLENŐRZÉSE
 
-26. § (1) A Vegyi fegyver Tilalmi Egyezmény 1. Mellékletének hatálya alá tartozó vegyi anyagoknak a Magyar Köztársaság területéről, és annak területére történő transzferje, valamint a Közösségi Általános Exportengedély alapján történő kivitele és behozatala esetén a lebonyolítást végző bármely személy köteles jelenteni a terméknek a Magyar Köztársaság területéről történő kiszállítását, valamint a területére történő beszállítását.
+26. § (1) A nemzetközi szankcióban elrendelt külkereskedelmi korlátozás alá eső termék kiviteléhez engedély szükséges.
 
-(2) A jelentést a ki- vagy beszállítást követő tíz napon belül az 5. mellékletben meghatározott tartalmú Nemzetközi Transzfer Nyilatkozaton, a Hivatalnak kell megküldeni.
+(2) A nemzetközi szankcióban elrendelt külkereskedelmi korlátozás alá eső termék kivitelére csak egyedi exportengedély adható, mely legfeljebb hat hónapig hatályos.
+
+(3) A Hivatal a kérelmet elutasítja, ha
+
+a) nemzetközi szankció a termék kivitelét tiltja vagy
+
+b) fennáll a 15. § (1) bekezdésében foglalt bármely feltétel.
+
+(4) A nemzetközi szankcióban elrendelt külkereskedelmi korlátozás alá eső termék kivitelével kapcsolatos engedélyezési eljárásra az egyedi exportengedélyre vonatkozó szabályok irányadók.
+
+[^33]: A IV. Fejezet (26. §) a 209/2012. (VII. 27.) Korm. rendelet 10. §-ával megállapított szöveg.

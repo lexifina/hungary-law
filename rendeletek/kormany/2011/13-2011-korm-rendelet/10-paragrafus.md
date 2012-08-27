@@ -14,11 +14,11 @@ b) a számlákon és a szállítási okmányokon feltünteti a Globális Exporte
 
 c) a szerződéskötésnél vagy annak visszaigazolásánál bekéri a címzett, a végfelhasználó a 9. § (3) bekezdésében meghatározott tartalmú Végfelhasználói Nyilatkozatát.
 
-(5) A naptári év végétől számított harminc napon belül az exportőr köteles megküldeni a Hivatalnak a Globális Exportengedély rendjében lebonyolított exportügyleteinek az összesítését, amelynek tartalmaznia kell:
+(5)[^13] A globális exportengedélyek alapján lebonyolított ügyletekről – ha a globális exportengedélyről szóló határozat másképpen nem rendelkezik – az exportőr minden év július 31. napjáig az adott naptári év első hat hónapjában, minden év január 31. napjáig az előző naptári év utolsó hat hónapjában folytatott tevékenységéről megküldi összesítését a Hivatalnak, mely összesítés tartalmazza:
 
 a) az értékesített termék megnevezését, mennyiségét és értékét;
 
-b) az ellenőrzési jegyzékszámát;
+b) a termék ellenőrzési jegyzékszámát;
 
 c) a kapcsolódó vámtarifa besorolást;
 
@@ -26,6 +26,8 @@ d) a rendeltetési országot;
 
 e) a címzett, a végfelhasználó részletes adatait;
 
-f) az értékesítés dátumát, és
+f) az értékesítés dátumát; és
 
-g) hogy a kivitel végleges vagy ideiglenes.
+g) a kivitel ideiglenes vagy végleges jellegét.
+
+[^13]: A 10. § (5) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.

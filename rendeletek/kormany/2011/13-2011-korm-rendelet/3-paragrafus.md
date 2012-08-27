@@ -12,7 +12,7 @@ c) a részéről kötelezettségvállalásra jogosult személy aláírásának h
 
 d) az adóazonosító számát.
 
-(3) Az 1. § (1) bekezdés a)–c) pontja szerinti tevékenységekhez a 3. § (2) bekezdésében foglaltakon túl a nyilvántartásba vételi kérelemhez a kérelmezőnek be kell nyújtania
+(3)[^11] Az 1. § (1) bekezdés a)–b) és e) pontja szerinti tevékenységekhez, az Európai Unión belüli transzfert kivéve, a 3. § (2) bekezdésében foglaltakon túl a nyilvántartásba vételi kérelemhez a kérelmezőnek be kell nyújtania
 
 a) nem természetes személy esetében a vállalkozás irányításában részt vevő exportellenőrzésért felelős vezető kijelöléséről szóló és a Hivatallal való kapcsolattartásra felhatalmazott személy képviseleti jogosultságát igazoló iratot, és
 
@@ -25,3 +25,5 @@ a) szabályozza az e rendelet hatálya alá eső tevékenységben részt vevő s
 b) szabályozza a 428/2009/EK tanácsi rendelet, valamint e rendelet előírásainak vállalkozáson belüli betartatását;
 
 c) intézkedési tervben rendelkezik az esetleges jogsértés következményeinek felszámolásáról.
+
+[^11]: A 3. § (3) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.

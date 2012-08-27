@@ -1,9 +1,23 @@
 ## 31. § Az e rendelet hatálybalépésekor folyamatban levő ügyekben a kettős felhasználású termékek és technológiák külkereskedelmi forgalmának engedélyezéséről szóló 50/2004. (III. 23.) Korm. rendelet rendelkezéseit kell alkalmazni.
 
-32. § (1) Ez a rendelet a kettős felhasználású termékek kivitelére, transzferjére, brókertevékenységére és tranzitjára vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló, 2009. május 5-i 428/2009/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+32. § (1)[^37] Ez a rendelet
+
+a) a kettős felhasználású termékek kivitelére, transzferjére, brókertevékenységére és tranzitjára vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló, 2009. május 5-i 428/2009/EK tanácsi rendelet,
+
+b) a Koreai Népi Demokratikus Köztársasággal szembeni korlátozó intézkedésekről szóló, 2007. március 27-i 329/2007/EK tanácsi rendelet,
+
+c) a Burmával/Mianmarral szembeni korlátozó intézkedések megújításáról és megerősítéséről, valamint a 817/2006/EK rendelet hatályon kívül helyezéséről szóló, 2008. február 25-i 194/2008/EK tanácsi rendelet, valamint az azt módosító, a Burmával/Mianmarral szembeni korlátozó intézkedések megújításáról és megerősítéséről szóló 194/2008/EK tanácsi rendeletben meghatározott bizonyos korlátozó intézkedések alkalmazásának felfüggesztéséről szóló, 2012. május 14-i 409/2012/EU tanácsi rendelet,
+
+d) az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendelet hatályon kívül helyezéséről szóló, 2012. március 23-i 267/2012/EU tanácsi rendelet és
+
+e) a szíriai helyzetre tekintettel korlátozó intézkedések meghozataláról és a 442/2011/EU rendelet hatályon kívül helyezéséről szóló, 2012. január 18-i 36/2012/EU tanácsi rendelet
+
+## végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (2) Ez a rendelet
 
 a) az egyes katonai célú végfelhasználásokkal kapcsolatos műszaki segítségnyújtás ellenőrzéséről szóló, 2000. június 22-i 401/2000/KKBP tanácsi együttes fellépésnek;
 
 b) a katonai technológia és felszerelések kivitelének ellenőrzésére vonatkozó közös szabályok meghatározásáról szóló, 2008. december 8-i 2008/944/KKBP tanácsi közös álláspontnak
+
+[^37]: A 32. § (1) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.

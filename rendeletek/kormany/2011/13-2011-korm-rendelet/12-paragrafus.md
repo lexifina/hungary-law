@@ -4,13 +4,13 @@
 
 (3) A határozott vagy határozatlan időtartamra kiadott Nemzeti Általános Exportengedély a hatályossági ideje alatt módosítható.
 
-(4) A kettős felhasználású termék Nemzeti Általános Exportengedély alapján lebonyolított kiviteléhez kapcsolódó fuvarokmányon a 2. melléklet szerinti nyilatkozatot fel kell tüntetni.
+(4)[^16] A kettős felhasználású termék Nemzeti Általános Exportengedély alapján lebonyolított kiviteléhez kapcsolódó fuvarokmányon vagy a szállítmányt végigkísérő kereskedelmi számlán a 2. melléklet szerinti nyilatkozatot kell feltüntetni.
 
-(5) A naptári év végétől számított harminc napon belül az exportőr köteles megküldeni a Hivatalnak a Nemzeti Általános Exportengedélyezés rendjében lebonyolított exportügyletei összesítését, melynek tartalmaznia kell:
+(5)[^17] A nemzeti általános exportengedély alapján lebonyolított ügyletekről az exportőr minden év július 31. napjáig az adott naptári év első hat hónapjában, minden év január 31. napjáig az előző naptári év utolsó hat hónapjában folytatott tevékenységéről megküldi összesítését a Hivatalnak, mely összesítés tartalmazza:
 
 a) a termék megnevezését, mennyiségét és értékét;
 
-b) az ellenőrzési jegyzékszámát;
+b) a termék ellenőrzési jegyzékszámát;
 
 c) a kapcsolódó vámtarifa besorolásokat;
 
@@ -18,6 +18,9 @@ d) a rendeltetési országot;
 
 e) a címzett, a végfelhasználó részletes adatait;
 
-f) az értékesítés dátumát, és
+f) az értékesítés dátumát; és
 
-g) hogy a kivitel végleges vagy ideiglenes.
+g) a kivitel ideiglenes vagy végleges jellegét.
+
+[^16]: A 12. § (4) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^17]: A 12. § (5) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

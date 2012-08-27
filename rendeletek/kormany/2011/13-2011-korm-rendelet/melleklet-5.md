@@ -84,40 +84,6 @@
 
 ## 8. A címzett, a végfelhasználó aláírása, dátum
 
-5. melléklet a 13/2011. (II. 22.) Korm. rendelethez
+5. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^41]
 
-## Nemzetközi Transzfer Nyilatkozat tartalmi elemei
-
-1. Ügyfél neve
-
-EORI száma
-
-2. Transzfer időpontja
-
-3. Ügyintéző adatai
-
-4. Tételek
-
-Leírása
-
-Ellenőrzési jegyzékszáma
-
-CAS száma
-
-Mennyisége
-
-5. Származási ország
-
-6. Címzett ország
-
-7. Címzett (Címzettek)
-
-Neve
-
-Címe
-
-8. Egyes címzetteknek átadott termék CAS száma
-
-Termék mennyisége
-
-9. Dátum, cégszerű aláírás, bélyegző
+[^41]: Az 5. mellékletet a 209/2012. (VII. 27.) Korm. rendelet 15. §-a hatályon kívül helyezte.
