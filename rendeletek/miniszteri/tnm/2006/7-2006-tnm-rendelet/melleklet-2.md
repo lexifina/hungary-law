@@ -212,4 +212,6 @@
 
 ## A besorolás alapja a fajlagos hőtároló tömeg (2. melléklet III. 2. pontja)
 
-2. melléklet a 7/2006. (V. 24.) TNM rendelethez
+2. melléklet a 7/2006. (V. 24.) TNM rendelethez[^6]
+
+[^6]: A 2. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (2) bekezdésével megállapított szöveg.

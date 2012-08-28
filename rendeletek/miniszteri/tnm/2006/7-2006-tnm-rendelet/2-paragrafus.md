@@ -1,11 +1,21 @@
-## 2. § E rendelet alkalmazásában
+## 2. §[^4] E rendelet alkalmazásában
 
-1. meglévő épület: az e rendelet hatálybalépése előtt használatba vételi engedéllyel rendelkező épület;
+1. alternatív rendszer: a megújuló energiaforrásokon alapuló decentralizált energiaellátási rendszer, a kapcsolt energiatermelés, a táv- vagy tömbfűtés és -hűtés, vagy a hőszivattyús rendszer;
 
-2. összesített energetikai jellemző: az épület energiafelhasználásának hatékonyságát jellemző számszerű mutató, amelynek kiszámítása során figyelembe veszik az épület telepítését, a homlokzatok benapozottságát, a szomszédos épületek hatását, valamint más klimatikus tényezőket; az épület hőszigetelőképességét, épületszerkezeti és más műszaki tulajdonságait; az épületgépészeti berendezések és rendszerek jellemzőit, a felhasznált energia fajtáját, az előírt beltéri légállapot követelményeiből származó energiaigényt, továbbá a sajátenergia-előállítást;
+2. épületelem: a határoló szerkezetek vagy az épületgépészeti rendszerek valamely eleme;
 
-3. hővel kapcsolt villamosenergia-termelés: az elsődleges tüzelőanyagok egyidejű átalakítása mechanikus vagy villamos és hőenergiává, az energiahatékonyság bizonyos minőségi feltételeinek teljesítése mellett (a továbbiakban: KHV);
+3. épületgépészeti rendszer: az épület vagy önálló rendeltetési egység fűtésére, hűtésére, szellőztetésére, melegvíz-ellátására, világítására, vagy ezek kombinációjára szolgáló berendezések és vezetékrendszerek összessége;
 
-4. jelentős mértékű felújítás: ahol a felújítás összköltsége meghaladja az épület külön jogszabály[^1] szerinti értékének 25%-át.
+4. határoló szerkezet: az épület fűtött, szellőztetett, hűtött belső helyiségeit a külső környezettől vagy az épület fűtetlen, szellőzés nélküli helyiségétől elválasztó épületszerkezet;
 
-[^1]: Az építésügyi bírságról szóló 43/1997. (XII. 29.) KTM rendelet.
+5. jelentős felújítás: a határoló szerkezetek összes felületének legalább a 25%-át érintő felújítás;
+
+6. kapcsolt energiatermelés: hő- és villamos vagy mozgási energia egyetlen folyamat során, egyidejűleg történő előállítása;
+
+7. meglévő épület: az e rendelet hatálybalépése előtt használatbavételi engedéllyel rendelkező épület;
+
+8. összesített energetikai jellemző: az épület energiafelhasználásának hatékonyságát jellemző számszerű mutató, amelynek kiszámítása során figyelembe veszik az épület telepítését, a homlokzatok benapozottságát, a szomszédos épületek hatását, valamint más klimatikus tényezőket; az épület hőszigetelő képességét, épületszerkezeti és más műszaki tulajdonságait; az épületgépészeti berendezések és rendszerek jellemzőit, a felhasznált energia fajtáját, az előírt beltéri légállapot követelményeiből származó energiaigényt, továbbá a sajátenergia-előállítást;
+
+9. primerenergia: az a megújuló és nem megújuló energiaforrásból származó energia, amely nem esett át semminemű átalakításon vagy feldolgozási eljáráson.
+
+[^4]: A 2. § a 40/2012. (VIII. 13.) BM rendelet 1. §-ával megállapított szöveg.
