@@ -1,5 +1,0 @@
-## 6. § A társadalmi szervezetek nyilvántartásának ügyviteli szabályairól szóló 6/1989. (VI. 8.) IM rendelet a következő 1. §-sal egészül ki:
-
-## „1. § A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 4. §-ában meghatározott szervezet esetében 2013. január 1-jéig a civil és az egyéb cégnek nem minősülő szervezetek nyilvántartásának és az országos névjegyzéknek a vezetésére, a nyilvántartásba és a névjegyzékbe történő bejegyzésre, a nyilvántartásban és a névjegyzékben foglalt adatok módosítására, a nyilvántartásból és a névjegyzékből való törlésre a kérelmek adatai és a bíróságnál rendelkezésre álló adatok alapján a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 2012. július 23-án hatályos 99. §-a szerinti adattartalommal kerül sor.”
-
-7. § Hatályát veszti az igazságügyi szakértői tevékenység folytatásához szükséges jogi oktatásról és vizsgáról szóló 10/2006. (III. 7.) IM rendelet 14. és 15. §-a.
