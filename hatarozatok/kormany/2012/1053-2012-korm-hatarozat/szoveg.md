@@ -1,8 +1,10 @@
 1. A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 31. § (1) bekezdésében meghatározott feladatkörében eljárva, a budai Várbazár felújításával és a Várnegyed hosszú távú fejlesztési koncepciója kidolgozásával, valamint a fertődi Esterházy-kastély rekonstrukciójával kapcsolatos állami feladatok koordinálásával kapcsolatos feladatok ellátására dr. Zumbok Ferencet – a 2012. március 3. napjától 2014. március 2. napjáig terjedő időtartamra – kormánybiztossá nevezi ki.
 
-2. A kormánybiztos feladatkörében ellátja
+2.[^2] A kormánybiztos feladatkörében ellátja
 
 – a budai Várbazár felújításával és a Várnegyed hosszú távú fejlesztési koncepciójának kidolgozásával kapcsolatos feladatokat;
+
+– a Kúria épülete vonatkozásában átfogó építészeti koncepció kialakításával kapcsolatos feladatokat;
 
 – a fertődi Esterházy-kastély rekonstrukciójával kapcsolatos állami feladatok koordinálásával kapcsolatos feladatokat;
 
@@ -21,3 +23,5 @@
 A kormánybiztos és titkársága működéséhez közvetlenül kapcsolódó kiadásokat a központi költségvetés tartalékából kell biztosítani.
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: A 2. pont az 1314/2012. (VIII. 28.) Korm. határozat 1. pontjával megállapított szöveg.
