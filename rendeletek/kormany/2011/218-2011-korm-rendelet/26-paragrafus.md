@@ -4,7 +4,7 @@ a) a Közbeszerzési Hatóságon keresztül az Európai Unió Kiadóhivatalának
 
 b) a 6. mellékletben meghatározott adattovábbítási formátummal és eljárással összhangban elektronikus úton
 
-küldi meg.
+## küldi meg.
 
 (2) A határidő rövidítése esetén a hirdetményeket:
 
@@ -12,7 +12,7 @@ a) telefaxon az Európai Bizottságnak, vagy
 
 b) a 6. mellékletben meghatározott adattovábbítási formátummal és eljárással összhangban elektronikus úton
 
-kell megküldeni.
+## kell megküldeni.
 
 (3) A hirdetményt teljes terjedelmében magyarul kell közzétenni és ez az eredeti nyelvi változat tekintendő az egyetlen hiteles szövegnek.
 

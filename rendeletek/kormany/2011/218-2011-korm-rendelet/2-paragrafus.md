@@ -54,10 +54,12 @@
 
 26. személyellenőrzés: a hatáskörrel rendelkező nemzetbiztonsági szolgálat által az előzetes minősítési kérdőívben megjelölt személyeknek a külön jogszabály felhatalmazása alapján rendelkezésre álló adatkezelési rendszerekben történő ellenőrzése abból a célból, hogy az adott személy bevonása az e rendelet szerinti beszerzési eljárásokba jelent-e nemzetbiztonsági kockázatot;
 
-27. szerződési biztosíték: az ajánlatkérő által meghatározott, a beszerzési szerződést biztosító mellékkötelem, mely a gazdasági szereplő jegyzékből való törlése esetén történő szerződés megszűnéséből eredő kár megtérülésére szolgál;
+27.[^1] szerződési biztosíték: az ajánlatkérő által meghatározott, a beszerzési szerződést biztosító mellékkötelem, mely a gazdasági szereplő jegyzékből való törlése esetén történő szerződés megszűnéséből, illetve a 65. § (4) bekezdésében meghatározott rendelkezés alkalmazása esetén a jegyzékbevétel meghiúsulásából eredő kár megtérülésére szolgál;
 
 28. válság: a mindennapi élet kárt okozó eseményeinek mértékét egyértelműen túllépő és sok ember életét, egészségét jelentősen veszélyeztető, a vagyontárgyak értékére jelentős hatást gyakorló vagy a népesség létfontosságú ellátása érdekében intézkedéseket követelő esemény bekövetkezése vagy bekövetkezésének veszélye, továbbá a fegyveres konfliktusok és háborúk;
 
 29. védett foglalkoztató: a Kbt. 4. § 23. pontjában meghatározottak.
 
 (2) Ahol a Kbt. hivatkozott rendelkezéseiben közbeszerzési eljárás szerepel, azon e rendelet vonatkozásában beszerzési eljárást kell érteni. A beszerzési eljárásban nyílt eljárás lefolytatására és többváltozatú ajánlattételre nincs lehetőség, a Kbt. hivatkozott rendelkezéseiben a nyílt eljárásra, az ajánlati felhívásra és a többváltozatú ajánlatokra vonatkozó szabályokat figyelmen kívül kell hagyni.
+
+[^1]: A 2. § (1) bekezdés 27. pontja a 232/2012. (VIII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.

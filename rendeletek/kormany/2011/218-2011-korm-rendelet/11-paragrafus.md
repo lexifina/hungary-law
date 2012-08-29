@@ -8,7 +8,7 @@ b) az előzetes minősítésen megfelelt gazdasági szereplők, valamint
 
 c) a beszerzési eljáráshoz kötődő minősítésen megfelelt gazdasági szereplők
 
-szerepelnek.
+## szerepelnek.
 
 (2) A jegyzéket az AH vezeti. Az ajánlatkérőt írásbeli megkeresése alapján az AH írásban vagy az ajánlatkérő által megadott e-mail címen elektronikus úton 8 napon belül tájékoztatja a jegyzéken szereplő gazdasági szereplőkkel összefüggő, jegyzéken szereplő adatokról.
 

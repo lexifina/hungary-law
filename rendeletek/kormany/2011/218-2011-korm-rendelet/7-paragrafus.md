@@ -1,4 +1,4 @@
-7. §[^1] (1) A (4) bekezdésben foglalt értékhatárokat elérő vagy meghaladó értékű beszerzésekre a II. Fejezetben foglaltakat, az ezen értékhatár alatti beszerzésekre a III. Fejezetben foglaltakat kell alkalmazni, kivéve, ha e rendelet másként rendelkezik.
+7. §[^2] (1) A (4) bekezdésben foglalt értékhatárokat elérő vagy meghaladó értékű beszerzésekre a II. Fejezetben foglaltakat, az ezen értékhatár alatti beszerzésekre a III. Fejezetben foglaltakat kell alkalmazni, kivéve, ha e rendelet másként rendelkezik.
 
 (2) A közösségi beszerzési eljárás lehet
 
@@ -28,7 +28,7 @@ a) az árubeszerzésre és szolgáltatás megrendelésére irányuló szerződé
 
 b) az építési beruházásra irányuló szerződések esetében az 1 364 000 000 forint
 
-értékhatárt.
+## értékhatárt.
 
 (5) A közösségi beszerzések eljárási szabályait nem kell alkalmazni
 
@@ -40,4 +40,4 @@ c) a hírszerző és elhárító tevékenységgel összefüggő beszerzésekre.
 
 (6) Az (5) bekezdésben meghatározott beszerzésekre az e rendelet által meghatározott nemzeti beszerzési eljárás szabályait kell alkalmazni azzal, hogy a 71. § szerinti könnyített eljárás szabályai az (5) bekezdésben foglalt valamennyi esetben alkalmazhatóak.
 
-[^1]: A 7. § a 347/2011. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 7. § a 347/2011. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.

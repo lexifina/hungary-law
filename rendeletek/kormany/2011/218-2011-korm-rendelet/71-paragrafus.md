@@ -1,6 +1,6 @@
 ## 38. Könnyített eljárás
 
-71. § (1)[^3] Könnyített eljárást lehet alkalmazni
+71. § (1)[^9] Könnyített eljárást lehet alkalmazni
 
 a) a III. Fejezet hatálya alá tartozó azon beszerzések esetén, amelyek nem érik el az uniós értékhatárok felét;
 
@@ -18,4 +18,7 @@ c) az Nbtv. 63. § (1) bekezdése szerinti speciális működési kiadásokból 
 
 (6) Az írásbeli összegezésnek az 57. § (1) bekezdés d) pontjában foglaltak helyett a könnyített eljárás lefolytatását igazoló körülményeket kell tartalmaznia.
 
-[^3]: A 71. § (1) bekezdése a 347/2011. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+(7)[^10] A tárgyalások során – az ajánlattevő megnevezése nélkül – az ajánlati árakról az ajánlattevőknek felvilágosítás adható.
+
+[^9]: A 71. § (1) bekezdése a 347/2011. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^10]: A 71. § (7) bekezdését a 232/2012. (VIII. 28.) Korm. rendelet 4. §-a iktatta be.

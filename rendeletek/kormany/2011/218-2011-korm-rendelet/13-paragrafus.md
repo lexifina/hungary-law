@@ -8,7 +8,7 @@ a) az Nbtv. 6. és 7. §-ában meghatározott feladatköröket érintő, valamin
 
 b) az a) pontba nem tartalmazó esetekben az AH
 
-folytatja le.
+## folytatja le.
 
 (3) Amennyiben a kérdőívek hiányosan kerülnek benyújtásra, és a gazdasági szereplő hiánypótlási kötelezettségének a felszólítás kézhezvételétől számított 10 napon belül nem tesz eleget, az AH elutasítja a gazdasági szereplő felvételét a jegyzékre.
 

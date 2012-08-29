@@ -8,7 +8,7 @@ a) amennyiben a gazdasági szereplő a főtevékenysége alapján előreláthat�
 
 b) az a) pontba nem tartalmazó esetekben az AH
 
-folytatja le.
+## folytatja le.
 
 (3) Amennyiben a gazdasági szereplő nem, vagy hiányosan nyújtja be a (2) bekezdés szerinti kérdőíveket és hiánypótlási kötelezettségének a felszólítás kézhezvételétől számított 15 napon belül nem tesz eleget, az AH elutasítja a gazdasági szereplő felvételét a jegyzékre.
 
