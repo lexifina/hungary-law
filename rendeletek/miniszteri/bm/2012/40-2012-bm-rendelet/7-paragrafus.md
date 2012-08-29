@@ -1,1 +1,3 @@
-## 6. § Hatályát veszti az R. 1. § (1) bekezdésében, valamint 1. § (2) bekezdés h) pontjában az „illetve annak tervezésére” szövegrész.
+## 5–6. §[^6]
+
+[^6]: Az 5–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
