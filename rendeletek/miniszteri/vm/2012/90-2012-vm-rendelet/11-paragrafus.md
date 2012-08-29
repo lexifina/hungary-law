@@ -1,0 +1,3 @@
+## 10. § E rendelet vonatkozásában az euró/forint átváltási árfolyam meghatározása tekintetében a közös agrárpolitika finanszírozásáról szóló, 2005. június 21-i 1290/2005/EK tanácsi rendelet 45. cikk 2. bekezdésében foglaltak az irányadóak.
+
+## 11. Záró rendelkezés

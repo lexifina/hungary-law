@@ -1,0 +1,3 @@
+## 1. § A 2012. évre vonatkozóan Magyarország által folyósítandó kiegészítő nemzeti közvetlen kifizetések engedélyezéséről szóló, 2012. június 4-i [C(2012) 3483] bizottsági végrehajtási határozatban (a továbbiakban: végrehajtási határozat) foglaltakra figyelemmel a szántóföldi (GOFR) növények támogatása esetében az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás (SAPS), valamint az ahhoz kapcsolódó kiegészítő nemzeti támogatások (top up) 2012. évi igénybevételével kapcsolatos egyes kérdésekről szóló 32/2012. (IV. 2.) VM rendelet 34–37. §-a alapján történő támogatáscsökkentés (a továbbiakban: támogatáscsökkentés) kiszámítása során nemzeti szinten 195 941 000 euró elvi maximum összeg vehető figyelembe.
+
+## 2. Rizs
