@@ -6,7 +6,7 @@
 
 a) nevét, – ha azzal rendelkezik – rövidített nevét és a köznyelvben meghonosodott elnevezését,
 
-b) székhelyét, – ha azzal rendelkezik – telephelyét,
+b)[^2] székhelyét,
 
 c) képviselőjének nevét, lakóhelyét és a képviselet gyakorlásának módját, továbbá
 
@@ -29,3 +29,5 @@ e) – ha azzal rendelkezik – címerének és logójának képi megjelenítés
 (5) Az elismert egyház nyilvántartásba vételére irányuló eljárás az ügyfél kérelmére nem függeszthető fel.
 
 (6) A nyilvántartásba vett egyház a nyilvántartásba vétel során kilencjegyű nyilvántartási számot kap, amelyben az első öt jegy a nyilvántartásba vétel sorszámát jelenti, amelyhez per jellel a nyilvántartásba vétel éve kapcsolódik.
+
+[^2]: Az 1. § (2) bekezdés b) pontja a 19/2012. (VIII. 29.) EMMI rendelet 4. § 1. pontja szerint módosított szöveg.
