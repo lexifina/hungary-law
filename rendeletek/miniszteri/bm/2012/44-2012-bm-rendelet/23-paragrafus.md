@@ -1,0 +1,1 @@
+## 22. § A helyi lakásügyi szerv a munkáltatói kölcsön biztosítására bejegyzett jelzálogjog, valamint elidegenítési és terhelési tilalom ranghelyéről csak abban az esetben mondhat le a jogosult pénzintézet javára, ha a pénzintézet a hitelt a munkáltatói kölcsönnel érintett lakás bővítése, korszerűsítése céljára nyújtja.
