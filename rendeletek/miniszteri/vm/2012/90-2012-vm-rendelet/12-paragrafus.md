@@ -1,5 +1,5 @@
 ## 11. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-12. § (1) Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból a falumegújításra és -fejlesztésre igénybe vehető támogatások részletes feltételeiről szóló 135/2008. (X. 18.) FVM rendelet 6. § (1) bekezdése.
+12. § (1)–(2)[^1]
 
-(2) Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó, a vidéki örökség megőrzéséhez igénybe vehető támogatások részletes feltételeiről szóló 138/2008. (X. 18.) FVM rendelet 6. § (1) bekezdése.
+[^1]: A 12. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
