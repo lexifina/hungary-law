@@ -1,6 +1,6 @@
-## 1. §[^1] E rendelet hatálya a Nemzetbiztonsági Hivatal, az Információs Hivatal, valamint a Nemzetbiztonsági Szakszolgálat (a továbbiakban együtt: Hivatal) valamennyi véglegesített hivatásos állományú tagjára, valamint határozatlan időre kinevezett közalkalmazottjára (a továbbiakban együtt: alkalmazott) terjed ki.
+## 1. §[^2] E rendelet hatálya az Információs Hivatal (a továbbiakban együtt: Hivatal) valamennyi véglegesített hivatásos állományú tagjára, valamint határozatlan időre kinevezett közalkalmazottjára (a továbbiakban együtt: alkalmazott) terjed ki.
 
-2. §[^2] (1) A Hivatal – a lakás célú számla vezetésével megbízott pénzforgalmi szolgáltató útján – lakás célú munkáltatói támogatást (a továbbiakban: támogatás) nyújthat az alkalmazottai részére:
+2. §[^3] (1) A Hivatal – a lakás célú számla vezetésével megbízott pénzforgalmi szolgáltató útján – lakás célú munkáltatói támogatást (a továbbiakban: támogatás) nyújthat az alkalmazottai részére:
 
 a) az alkalmazott tulajdonába kerülő lakás építéséhez, ideértve az önálló lakást eredményező emeletráépítést, a tetőtérbeépítést, a lakás műszaki megosztását, a szobaszám-növekedést is jelentő toldaléképítést és a nem lakás céljára szolgáló helyiségek lakóhelyiséggé történő átalakítását;
 
@@ -14,5 +14,5 @@ e) az alkalmazott lakásigénye kielégítése céljából pénzforgalmi szolgá
 
 (2) Az (1) bekezdés a)–b), d)–e) pontjaiban meghatározott célra támogatás nyújtható akkor is, ha az alkalmazott az ingatlannak csak részben tulajdonosa.
 
-[^1]: Az 1. § a 3/1996. (VIII. 9.) TNM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § az 1/2010. (I. 14.) PTNM rendelet 1. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 14. § (1) bekezdését.
+[^2]: Az 1. § a 3/1996. (VIII. 9.) TNM rendelet 1. §-ával megállapított, a 44/2012. (VIII. 29.) BM rendelet 33. § b) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 32. §-át.
+[^3]: A 2. § az 1/2010. (I. 14.) PTNM rendelet 1. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 14. § (1) bekezdését.

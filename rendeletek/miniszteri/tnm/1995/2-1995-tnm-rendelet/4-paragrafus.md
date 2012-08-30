@@ -1,4 +1,4 @@
-4. §[^5] (1) A Hivatal az alkalmazottai részére támogatást a 2. § (1) bekezdésében meghatározott célokra a következő feltételek együttes fennállása esetén nyújthat:
+4. §[^6] (1) A Hivatal az alkalmazottai részére támogatást a 2. § (1) bekezdésében meghatározott célokra a következő feltételek együttes fennállása esetén nyújthat:
 
 a) az alkalmazott a Hivatalnál, annak jogelődjénél, illetve a Magyar Honvédségnél vagy rendvédelmi szervnél (a továbbiakban: fegyveres szerv) legalább 2 éves tényleges szolgálati, köztisztviselői, illetve közalkalmazotti jogviszonnyal rendelkezik, és – a 2. § (1) bekezdésének e) pontjában meghatározott célra nyújtott támogatást kivéve – önálló lakása nincs vagy korszerűtlen;
 
@@ -24,4 +24,4 @@ c) a munka-, vagy szolgálati helyén lévő lakástulajdonát a támogatás ir�
 
 (6) Szolgálati és munkáltatói érdekből a Hivatal főigazgatója az (1) bekezdés a) és b) pontjában, a (4) bekezdésben, továbbá a 3. § c) pontjában foglaltaktól eltérhet.
 
-[^5]: A 4. § az 1/2010. (I. 14.) PTNM rendelet 2. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 14. § (1) bekezdését.
+[^6]: A 4. § az 1/2010. (I. 14.) PTNM rendelet 2. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 14. § (1) bekezdését.

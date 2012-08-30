@@ -1,4 +1,4 @@
-11. §[^12] (1) A Hivatalnak a támogatási megállapodást fel kell mondani azzal az alkalmazottal szemben,
+11. §[^13] (1) A Hivatalnak a támogatási megállapodást fel kell mondani azzal az alkalmazottal szemben,
 
 a) aki a támogatási összeg pénzforgalmi szolgáltatóhoz történő átutalásától számított 3 hónapon belül a szerződést a pénzforgalmi szolgáltatóval nem köti meg, a 2. § (1) bekezdésének e) pontjában meghatározott célra nyújtott támogatás esetén az előtörlesztésről, végtörlesztésről szóló pénzforgalmi szolgáltatói igazolást nem nyújtja be;
 
@@ -16,4 +16,4 @@ f) aki a támogatási összeg felhasználását az 5. § (5) bekezdésében fogl
 
 (3) A felmondást a támogatást igénybe vevő alkalmazott és az illetékes pénzforgalmi szolgáltató részére is meg kell küldeni.
 
-[^12]: A 11. § az 1/2010. (I. 14.) PTNM rendelet 8. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 14. § (1) bekezdését.
+[^13]: A 11. § az 1/2010. (I. 14.) PTNM rendelet 8. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 14. § (1) bekezdését.

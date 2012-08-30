@@ -1,4 +1,4 @@
-6. §[^7] (1) A Hivatal által nyújtott támogatás kamatmentes. A lakásalapszámlát kezelő és támogatást folyósító pénzforgalmi szolgáltató által felszámított kezelési költség a támogatást igénylő alkalmazottat terheli.
+6. §[^8] (1) A Hivatal által nyújtott támogatás kamatmentes. A lakásalapszámlát kezelő és támogatást folyósító pénzforgalmi szolgáltató által felszámított kezelési költség a támogatást igénylő alkalmazottat terheli.
 
 (2) Nem lehet támogatást nyújtani – a 2. § (1) bekezdésének e) pontjában meghatározott eset kivételével –
 
@@ -16,4 +16,4 @@ követően.
 
 (5) A visszafizetés időtartama alatt rendkívül indokolt esetben az alkalmazott kérelmére a Hivatal főigazgatója a támogatás törlesztését – a futamidő változatlanul hagyása mellett – legfeljebb egy évre felfüggesztheti.
 
-[^7]: A 6. § az 1/2010. (I. 14.) PTNM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 14. § (1) bekezdését.
+[^8]: A 6. § az 1/2010. (I. 14.) PTNM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 14. § (1) bekezdését.

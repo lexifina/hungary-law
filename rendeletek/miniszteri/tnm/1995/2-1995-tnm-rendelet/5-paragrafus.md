@@ -1,4 +1,4 @@
-5. §[^6] (1) A támogatás összege a 2. § (1) bekezdésének a)–c) pontjaiban meghatározott célok esetén a (3) bekezdés szerinti támogatási alap 80%-áig, de legfeljebb 4 millió forintig terjedhet. Az 1. §-ban meghatározott hivatalok valamelyikében együtt dolgozó, együtt költöző családtagok támogatásainak összege a támogatási alap 80%-áig, de legfeljebb 6 millió forintig terjedhet. Az első önálló lakáshoz jutás esetén a támogatás összege a kölcsönalap 80%-áig, de legfeljebb 5 millió forintig terjedhet.
+5. §[^7] (1) A támogatás összege a 2. § (1) bekezdésének a)–c) pontjaiban meghatározott célok esetén a (3) bekezdés szerinti támogatási alap 80%-áig, de legfeljebb 4 millió forintig terjedhet. Az 1. §-ban meghatározott hivatalok valamelyikében együtt dolgozó, együtt költöző családtagok támogatásainak összege a támogatási alap 80%-áig, de legfeljebb 6 millió forintig terjedhet. Az első önálló lakáshoz jutás esetén a támogatás összege a kölcsönalap 80%-áig, de legfeljebb 5 millió forintig terjedhet.
 
 (2) A támogatás összege a 2. § (1) bekezdésének d) pontjában meghatározott cél esetén a korszerűsítés bekerülési összegének 80%-áig, de legfeljebb 800 ezer forintig terjedhet.
 
@@ -18,4 +18,4 @@ d) a 2. § (1) bekezdésének e) pontjában meghatározott cél esetén: a pénz
 
 (6) Az (5) bekezdésben meghatározott okiratok, bizonylatok benyújtásának határidejét a főigazgató belső rendelkezésben határozza meg.
 
-[^6]: Az 5. § az 1/2010. (I. 14.) PTNM rendelet 3. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 14. § (1) bekezdését.
+[^7]: Az 5. § az 1/2010. (I. 14.) PTNM rendelet 3. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 14. § (1) bekezdését.
