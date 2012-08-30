@@ -1,3 +1,0 @@
-## 3. § Az R. 67. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A Kbt. 95. § (2) bekezdésében foglaltaktól eltérően valamely ajánlattételre felhívott gazdasági szereplő csak akkor tehet közös ajánlatot az olyan gazdasági szereplővel, akinek az ajánlatkérő nem küldött ajánlattételi felhívást, ha ezen szándékát az ajánlatkérőnek az ajánlattételi felhívás közvetlen megküldését követő öt munkanapon belül előzetesen jelzi és az ajánlatkérő hozzájárul ezen gazdasági szereplőnek az eljárásba való bevonásához. Az ajánlatkérő csak a jegyzéken szereplő gazdasági szereplő bevonásához járulhat hozzá.”
