@@ -4,7 +4,7 @@ a) lejárt az eszköz felhasználhatósági ideje, vagy
 
 b) az eredeti csomagolása sérült, hiányos és ez az eszköz használatát hátrányosan befolyásolhatja, illetve
 
-c)[^6] hiányzik vagy olvashatatlan a magyar nyelvű használati útmutató.
+c)[^8] hiányzik vagy olvashatatlan a magyar nyelvű használati útmutató.
 
 (2) A gyógyászati segédeszközt kiadó személy köteles tájékoztatni az átvevőt az eszköz használatának módjáról, illetve köteles annak használatát betanítani.
 
@@ -18,4 +18,4 @@ a) sorozatgyártású és javított gyógyászati segédeszközt,
 
 b) próbát, illetve adaptációt igénylő, illetőleg egyedi méretvétel alapján készült gyógyászati segédeszközt csak próba és betanítás lehetőségének biztosításával, végleges használat céljából
 
-[^6]: A 4. § (1) bekezdésének c) pontja a 27/2006. (VI. 29.) EüM rendelet 5. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdésének c) pontja a 27/2006. (VI. 29.) EüM rendelet 5. § (2) bekezdésének b) pontja szerint módosított szöveg.
