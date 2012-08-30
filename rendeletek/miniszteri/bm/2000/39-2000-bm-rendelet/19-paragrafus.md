@@ -1,1 +1,0 @@
-## 18. § A helyi lakásügyi szerv a munkáltatói kölcsön iránti kérelmek jogszerűségét a beérkezés sorrendjében vizsgálja meg, és a rendelkezésre álló pénzügyi fedezet függvényében a 21. §-ban foglaltak figyelembevételével a kérelemnek megfelelően megállapítja a támogatás összegét.
