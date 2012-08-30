@@ -1,0 +1,1 @@
+## 1. § A Kormány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján a Gyulai Húskombinát Zrt.-t (székhely: 5700 Gyula, Kétegyházi út 3.) stratégiailag kiemelt jelentőségű gazdálkodó szervezetnek minősíti.
