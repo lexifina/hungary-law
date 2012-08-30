@@ -56,7 +56,7 @@ b) morbilli-mumpsz-rubeola elleni újraoltásra betöltött 11 éves korban
 
 ## kerül sor.
 
-(6)[^22] A csecsemőknél 6 hónapos korukban ellenőrizni kell, hogy van-e BCG oltás helyén heg a bőrükön. Azoknál a csecsemőknél, akik a születést követően BCG oltásban részesültek, de az oltás helyén beszűrődés vagy heg nem található, a BCG oltást előzetes tuberkulin próba nélkül 6 és 12 hónapos koruk között meg kell ismételni. Egyéves kor felett BCG primovakcináció végzése csak az egészségügyi államigazgatási szerv elrendelésére történik. Azokat, akiken a megismételt BCG oltás után sem alakul ki reakció (heg), további BCG oltásban nem kell részesíteni.
+(6)[^22]
 
 (7)[^23] Hepatitis B elleni oltást betöltött 13 éves korban kell elvégezni.
 
@@ -68,13 +68,15 @@ b) a torokgyík, a merevgörcs elleni elmaradt negyedik, továbbá a gyermekbén
 
 c)[^25] a kanyaró, a rózsahimlő, a mumpsz és a Hepatitis B elleni elmaradt védőoltásokra a 20. életév,
 
-d)[^26] a Hib elleni elmaradt védőoltásokra az 5. életév
+d)[^26] a Hib elleni elmaradt védőoltásokra az 5. életév,
+
+e)[^27] elmaradt BCG oltás esetén az 1. életév
 
 ## betöltéséig áll fenn.
 
-(9)[^27] Oltóorvos az oltásra kötelezett háziorvosa, házi gyermekorvosa, iskolai kampányoltás esetén az iskolaorvos, a foglalkozás-egészségügyi szolgálat orvosa, a klinikai védőoltási szaktanácsadó, a nemzetközi oltásokra feljogosított oltóhely orvosa. Oltóorvosnak minősül a 6. § (7) bekezdése szerinti helyen oltást végző egészségügyi dolgozó. Rendkívüli esetben vagy járványügyi veszélyhelyzetben az egészségügyi államigazgatási szerv a fentieken kívül más oltóorvost is kijelölhet. Életkorhoz kötött kötelező védőoltás oltóhelyen végezhető.
+(9)[^28] Oltóorvos az oltásra kötelezett háziorvosa, házi gyermekorvosa, iskolai kampányoltás esetén az iskolaorvos, a foglalkozás-egészségügyi szolgálat orvosa, a klinikai védőoltási szaktanácsadó, a nemzetközi oltásokra feljogosított oltóhely orvosa. Oltóorvosnak minősül a 6. § (7) bekezdése szerinti helyen oltást végző egészségügyi dolgozó. Rendkívüli esetben vagy járványügyi veszélyhelyzetben az egészségügyi államigazgatási szerv a fentieken kívül más oltóorvost is kijelölhet. Életkorhoz kötött kötelező védőoltás oltóhelyen végezhető.
 
-(10)[^28]
+(10)[^29]
 
 [^8]: Az 5. § (1) bekezdése a 13/2008. (IV. 8.) EüM rendelet 2. §-ával megállapított szöveg.
 [^9]: Az 5. § (2) bekezdése a 32/1999. (VIII. 6.) EüM rendelet 1. §-ának (2) bekezdésével, első mondata a 9/2002. (III. 12.) EüM rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
@@ -90,10 +92,11 @@ d)[^26] a Hib elleni elmaradt védőoltásokra az 5. életév
 [^19]: Az 5. § új (4) bekezdését a 33/2005. (VIII. 24.) EüM rendelet 1. §-ának (3) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (6) bekezdésre változtatva. Hatályon kívül helyezte a 21/2012. (IV. 4.) NEFMI rendelet 26. § a) pontja.
 [^20]: Az 5. § (3) bekezdése a 9/2002. (III. 12.) EüM rendelet 2. §-ának (3) bekezdésével megállapított szöveg, számozását a 33/2005. (VIII. 24.) EüM rendelet 1. §-ának (3) bekezdése (5) bekezdésre változtatta.
 [^21]: Az 5. § (5) bekezdés a) pontja az 5/2009. (III. 20.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a rendelkezés 2009. szeptember 1-jén lépett hatályba azzal, hogy az 5. § (5) bekezdés a) pontja szerinti oltást első alkalommal a 2009/2010-es tanévben kezdődő iskolai kampányoltástól kell alkalmazni.
-[^22]: Az 5. § (4) bekezdése a 9/2002. (III. 12.) EüM rendelet 2. §-ának (4) bekezdésével megállapított szöveg, számozását a 33/2005. (VIII. 24.) EüM rendelet 1. §-ának (3) bekezdése (6) bekezdésre változtatta, szövege a 30/2009. (X. 14.) EüM rendelet 11. § (2) bekezdésének b) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 11. § (4) bekezdése alapján a háziorvosi szolgálat a betegforgalmi tevékenység külön jogszabály szerinti jelentése alapján, új influenzavírus elleni védőoltással történő immunizálásért oltásonként 200 forintra jogosult, melyet az Egészségügyi Minisztérium és az Országos Egészségbiztosítási Pénztár között létrejött megállapodásban foglaltaknak megfelelően az Országos Egészségbiztosítási Pénztár utal.
+[^22]: Az 5. § (6) bekezdését a 18/2012. (VIII. 29.) EMMI rendelet 13. §-a hatályon kívül helyezte.
 [^23]: Az 5. § új (5) bekezdését a 32/1999. (VIII. 6.) EüM rendelet 1. § (4) bekezdése iktatta be, egyidejűleg az eredeti (5)–(7) bekezdés számozását (6)–(8) bekezdésre változtatva. Az (5) bekezdés számozását (7) bekezdésre változtatta a 33/2005. (VIII. 24.) EüM rendelet 1. § (3) bekezdése, szövege az 5/2009. (III. 20.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 4. § (3) bekezdése alapján a rendelkezés 2010. január 1-jén lépett hatályba azzal, hogy az életkorhoz kötött kötelező hepatitis B védőoltást a 2009/2010-es tanév első félévében a 13. életévüket 2009. január 1-jét követően és 2010. január 1-je előtt betöltő gyermekek esetében is el kell végezni.
 [^24]: Az 5. § (6) – eredeti (5) – bekezdésének számozását (8) bekezdésre változtatta a 33/2005. (VIII. 24.) EüM rendelet 1. §-ának (3) bekezdése, bevezető szövegrésze a 30/2009. (X. 14.) EüM rendelet 2. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 11. § (4) bekezdése alapján a háziorvosi szolgálat a betegforgalmi tevékenység külön jogszabály szerinti jelentése alapján, új influenzavírus elleni védőoltással történő immunizálásért oltásonként 200 forintra jogosult, melyet az Egészségügyi Minisztérium és az Országos Egészségbiztosítási Pénztár között létrejött megállapodásban foglaltaknak megfelelően az Országos Egészségbiztosítási Pénztár utal.
 [^25]: Az 5. § (6) bekezdésének c) pontja a 32/1999. (VIII. 6.) EüM rendelet 1. § (5) bekezdésével megállapított szöveg.
 [^26]: Az 5. § (6) bekezdésének d) pontját a 32/1999. (VIII. 6.) EüM rendelet 1. § (5) bekezdése iktatta a szövegbe.
-[^27]: Az 5. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 32/1999. (VIII. 6.) EüM rendelet 1. § (4) bekezdése. A (7) bekezdés számozását a 33/2005. (VIII. 24.) EüM rendelet 1. §-ának (3) bekezdése (9) bekezdésre változtatta, szövege a 21/2012. (IV. 4.) NEFMI rendelet 3. §-ával megállapított szöveg.
-[^28]: Az 5. § (8) – eredeti (7) – bekezdésének számozását (10) bekezdésre változtatta a 33/2005. (VIII. 24.) EüM rendelet 1. §-ának (3) bekezdése. A (10) bekezdést a 30/2009. (X. 14.) EüM rendelet 11. § (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^27]: Az 5. § (8) bekezdés e) pontját a 18/2012. (VIII. 29.) EMMI rendelet 11. §-a iktatta be.
+[^28]: Az 5. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 32/1999. (VIII. 6.) EüM rendelet 1. § (4) bekezdése. A (7) bekezdés számozását a 33/2005. (VIII. 24.) EüM rendelet 1. §-ának (3) bekezdése (9) bekezdésre változtatta, szövege a 21/2012. (IV. 4.) NEFMI rendelet 3. §-ával megállapított szöveg.
+[^29]: Az 5. § (8) – eredeti (7) – bekezdésének számozását (10) bekezdésre változtatta a 33/2005. (VIII. 24.) EüM rendelet 1. §-ának (3) bekezdése. A (10) bekezdést a 30/2009. (X. 14.) EüM rendelet 11. § (3) bekezdésének b) pontja hatályon kívül helyezte.

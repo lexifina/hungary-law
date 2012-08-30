@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-18-20-3
 | 2012-01-04 | 1998-18-20-3D.24 | 3/2012. (I. 3.) NEFMI rendelet |
 | 2012-03-30 | 1998-18-20-3D.25 | 19/2012. (III. 28.) NEFMI rendelet |
 | 2012-04-15 | 1998-18-20-3D.26 | 21/2012. (IV. 4.) NEFMI rendelet |
+| 2012-08-30 | 1998-18-20-3D.27 | 18/2012. (VIII. 29.) EMMI rendelet |
