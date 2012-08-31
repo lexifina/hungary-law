@@ -1,0 +1,126 @@
+# A Kormány 244/2012. (VIII. 31.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 115. szám, 2012. augusztus 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c3a29d25e39ed878da7b52955f4d874f51692fd4/dokumentumok/66dd9267324a35fd31bbb398fd873cf7cc0d0924/letoltes)
+
+---
+
+A Kormány 244/2012. (VIII. 31.) Korm. rendelete
+a felsőoktatási intézmények gazdasági tanácsairól
+A Kormány a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 110. § (1) bekezdés 27. pontjában foglalt felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A gazdasági tanács a felsőoktatási intézmény feladatainak végrehajtása megalapozásában, a rendelkezésére
+bocsátott források, eszközök, a közpénz, a közvagyon hatékony és felelős használatát segítő gazdasági stratégiai
+döntéseket előkészítő és végrehajtásuk ellenőrzésében részt vevő, a fenntartói döntések előkészítésében
+– e rendeletben meghatározottak szerint – közreműködő testület.
+(2) Az állami fenntartású felsőoktatási intézményben a gazdasági tanácsot létre kell hozni, a nem állami felsőoktatási
+intézményekben – az alapító okiratban meghatározottak szerint – a gazdasági tanács létrehozható.
+
+(3) A gazdasági tanácsnak kilenc tagja van. A gazdasági tanács tagja az lehet, aki felsőfokú végzettséggel rendelkezik.
+A gazdasági tanács tagjainak a megbízatása öt évre szól, amely legfeljebb egy alkalommal meghosszabbítható.
+(4) A gazdasági tanácsba három főt delegál a szenátus, ebből egy tagot a hallgatói önkormányzat javaslata alapján.
+A gazdasági tanácsnak – a delegált tagokon felül – hivatalból tagja a rektor és a gazdasági főigazgató, ennek
+hiányában a gazdasági igazgató. A szenátus által delegált tagok egyike
+a) jogász, vagy a gazdaságtudományok képzési területen mesterképzésben szerzett, vagy azzal egyenértékű
+szakképzettséggel kell hogy rendelkezzen,
+b) nem állhat a felsőoktatási intézménnyel foglalkoztatásra irányuló jogviszonyban.
+(5) A gazdasági tanácsba egy-egy tagot delegál
+a) az oktatásért felelős miniszter (a továbbiakban: miniszter),
+b) a kormányzati tevékenység összehangolásáért felelős miniszter,
+c) az állami vagyon felügyeletéért felelős miniszter,
+d) az államháztartásért felelős miniszter.
+(6) A gazdasági tanács tagjai részére a delegálók utasítást nem adhatnak. A gazdasági tanács (5) bekezdés szerint delegált
+tagjai tevékenységükért díjazásra nem jogosultak. A gazdasági tanács tagjával a felsőoktatási intézmény létesít
+megbízási jogviszonyt.
+(7) Nem lehet tagja a gazdasági tanácsnak az, aki
+a) büntetett előéletű,
+b) polgármesteri tisztséget tölt be,
+c) a központi államigazgatási szervekről, valamint a Kormány tagja és az államtitkárok jogállásáról szóló törvény
+szerint politikai vezetőnek minősülő állami vezetői tisztséget tölt be,
+d) politikaipártbantisztséget tölt, illetvetöltött be,fizetett pártalkalmazottkéntfoglalkoztattákvagy foglalkoztatják,
+feltéve, hogy a kizáró ok megszűnése óta még nem telt el legalább öt év,
+e) önkormányzati, országgyűlési vagy európai parlamenti képviselő,
+f) tagja a szenátusnak,
+g) tagja – az (5) bekezdés szerint delegált tagok kivételével – más felsőoktatási intézmény gazdasági tanácsának,
+h) az állami felsőoktatási intézmények kivételével, a miniszter felügyelete alatt álló költségvetési szervvel
+közalkalmazotti jogviszonyban áll,
+i) betöltötte a hetvenedik életévét,
+j) más felsőoktatási intézmény szenátusának a tagja,
+k) más felsőoktatási intézmény vezető beosztású alkalmazottja.
+(8) A rektor tekintetében – az a) és a g)–i) pont kivételével – a (7) bekezdésben foglaltakat nem kell alkalmazni.
+(9) A gazdasági tanács ülésére – a napirend és az előterjesztések megküldésével, az ülés előtt legalább öt munkanappal
+– meg kell hívni a kincstár képviselőjét, aki tanácskozási joggal vesz részt az ülésen, és véleményt nyilváníthat
+minden olyan kérdésben, amely a közpénz, közvagyon célszerű és gazdaságos felhasználását érinti. A megbízott
+részére a felsőoktatási intézmény köteles a szükséges információkat megadni. A megbízott véleményét, kérésére,
+a felsőoktatási intézmény és a miniszter által vezetett minisztérium honlapján közzé kell tenni. A megbízott
+a tevékenységéről évente legalább egyszer tájékoztatást ad a felsőoktatási intézmény fenntartójának és a
+kincstárnak.
+2. § (1) A gazdasági tanács – a szervezeti és működési szabályzat keretei között – dönt működésének rendjéről, azzal a
+megkötéssel, hogy
+a) szükség szerint, de legalább kéthavonta ülésezik,
+b) határozatképes, ha azon 7 tag jelen van,
+c) a gazdasági tanács döntéseihez a jelenlévő szavazásra jogosult tagok többségének támogatásával hozott
+döntése szükséges,
+d) a gazdasági tanács vezetőjének megbízásával kapcsolatos döntéshez öt támogató szavazatra van szükség.
+Nem vehet részt a szavazásban az, akinek jogaira vagy kötelezettségeire a döntés kihatással lehet, illetve az, akitől
+az ügynek tárgyilagos megítélése egyéb okból nem várható (elfogultság).
+
+(2) A gazdasági tanács megalakulását a rektor készíti elő. A gazdasági tanács ülésére a 12. § (7) bekezdés d) pontja szerinti
+szakszervezeti képviselőt – több szakszervezeti képviselő esetén a szakszervezet, vagy szakszervezetek által
+kiválasztott egy szakszervezeti képviselőt – tanácskozási joggal meg kell hívni, ha a szakszervezeti tagok létszáma az
+oktatók és kutatók együttes létszámának egyharmadát eléri.
+3. § (1) A gazdasági tanács
+a) közreműködik a szenátus döntéseinek előkészítésében, így különösen véleményezi
+aa) a felsőoktatási intézmény intézményfejlesztési tervét,
+ab) a minőség és teljesítmény alapján differenciáló jövedelemelosztás elveit,
+ac) a felsőoktatási intézmény költségvetését, éves, illetve éven túli kötelezettségvállalási tervét és
+végrehajtásának ütemtervét továbbá vagyongazdálkodási tervét,
+ad) a számviteli rendelkezések szerinti beszámolóját,
+ae) a felsőoktatási intézmény számviteli rendjét,
+af) fejlesztés indítását,
+ag) gazdálkodó szervezet alapítását, gazdálkodó szervezetben részesedés szerzését, gazdálkodó szervezettel
+történő együttműködést,
+ah) a felsőoktatásiintézmény rendelkezésérebocsátott, valaminta tulajdonábanlévő ingó – ideértve a szellemi
+terméket, más vagyoni értékű jogokat – és ingatlanvagyon hasznosítását, elidegenítését,
+ai) együttműködési megállapodás megkötését,
+aj) a felsőoktatási intézmény szervezete, szervezeti egysége létesítését, átalakítását, megszüntetését;
+b) gazdasági szempontból véleményezi
+ba) a felsőoktatási intézmény vagy az intézmény tulajdonában álló, vagy többségi részesedésével működő jogi
+személyek által készített, egymilliárd forintot meghaladó támogatási igényű, illetve az intézmény
+költségvetését önrész biztosításával terhelő pályázatokat,
+bb) a felsőoktatási intézmény kutatási-fejlesztési-innovációs stratégiáját,
+bc) a felsőoktatási intézmény kutatási programját;
+c) dönt azokban az ügyekben, amelyek ellátására a szenátus felhatalmazta.
+(2) A gazdasági tanács figyelemmel kíséri a felsőoktatási intézmény gazdálkodásában a szakmai hatékonyság és a
+gazdaságosság követelményeinek érvényesítését. Rendszeresen – de évente legalább két alkalommal – áttekinti a
+felsőoktatási intézmény működését, gazdálkodását, az alapító okiratában meghatározott feladatok végrehajtását.
+Figyelemmel kíséri, hogy a felsőoktatási intézmény szervezeti rendje igazodik-e a feladatok hatékony ellátásához.
+(3) A gazdasági tanács a szenátusnál, annak eredménytelensége esetén a fenntartónál köteles jelezni, ha megítélése
+szerint a felsőoktatási intézmény a gazdálkodásával, a rendelkezésére bocsátott vagy tulajdonában lévő
+ingatlanvagyon működtetésével, hasznosításával, elidegenítésével kapcsolatosan hozott döntésével veszélyezteti a
+felsőoktatási intézmény működését. Állami felsőoktatási intézmény esetében e bekezdés vonatkozásában fenntartón
+az állami vagyon felügyeletéért felelős minisztert kell érteni.
+(4) Állami felsőoktatási intézmény esetén a fenntartó a gazdasági tanács
+a) javaslatára
+aa) határozza meg a rektor juttatásait,
+ab) hagyja jóvá a rektor munkaköri leírásának az oktatói, kutatói feladatoktól elkülönülő részét;
+b) részére a rektor tekintetében további munkáltatói jogköröket ruházhat át.
+4. § (1) A gazdasági tanácsi tagság megszűnik a megbízatás lejártával, a tag lemondásával, illetőleg visszahívásával. A
+gazdasági tanácsba delegálási joggal rendelkező jogosult az általa delegált tagot visszahívni. A lemondás elfogadása,
+illetve a visszahívás – a (3) bekezdésben meghatározott eset kivételével – a delegáló hatáskörébe tartozik.
+(2) A gazdasági tanács elnökének – az elnök esetén a tanács tagjának – kezdeményezésére vissza kell hívni azt a tagot,
+a) aki egy éven keresztül a gazdasági tanács ülésének több mint felén nem vett részt, és mulasztását nem tudta
+megfelelő módon igazolni,
+b) aki bármilyen okból a gazdasági tanácsi tagságból eredő feladatait – több mint fél éven keresztül – nem tudja
+ellátni,
+c) akivel szemben utóbb következik be olyan körülmény, amely miatt a gazdasági tanácsnak nem lehet tagja.
+
+(3) Lemondás és visszahívás esetén az, aki az érintett tagot delegálta, harminc napon belül új tagot köteles delegálni. Az
+eljárásra alkalmazni kell az 1. §-ban meghatározottakat. Az újonnan megválasztott tag megbízatása öt évre szól
+függetlenül attól, hogy a lemondott, illetve visszahívott tag megbízatásából mennyi idő telt el.
+(4) Ha a nem állami felsőoktatási intézményben hoznak létre gazdasági tanácsot, a miniszter, a kormányzati tevékenység
+összehangolásáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, az államháztartásért felelős
+miniszter 1. §-ban és e §-ban meghatározott jogait és kötelességeit a fenntartó gyakorolja. A kincstár képviselőjére
+vonatkozó rendelkezéseket nem kell alkalmazni.
+5. § Ez a rendelet 2012. szeptember 1-jén lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök

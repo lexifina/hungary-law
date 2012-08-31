@@ -1,0 +1,89 @@
+# A Kormány 246/2012. (VIII. 31.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 115. szám, 2012. augusztus 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c3a29d25e39ed878da7b52955f4d874f51692fd4/dokumentumok/66dd9267324a35fd31bbb398fd873cf7cc0d0924/letoltes)
+
+---
+
+A Kormány 246/2012. (VIII. 31.) Korm. rendelete
+a Magyar Közigazgatási Ösztöndíjról szóló 228/2011. (X. 28.) Korm. rendelet módosításáról
+A Kormány a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 2. pontjában kapott felhatalmazás
+alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § A Magyar Közigazgatási Ösztöndíjról szóló 228/2011. (X. 28.) Korm. rendelet (a továbbiakban: MKÖ rendelet) a 16. §-t
+követően a 16/A–16/E. §-okkal egészül ki:
+„16/A. § (1) A Hivatal vezetője – a 16/B. §-ban meghatározottak szerint – az ösztöndíj program keretében pályázat
+kiírása nélkül külföldi közigazgatási szervnél szakmai tapasztalatszerzésben való részvételt (a továbbiakban: szakmai
+tanulmányút) engedélyezhet kormánytisztviselő, valamint államigazgatási szervnél foglalkoztatott munkavállaló
+(a továbbiakban együtt: szakmai ösztöndíjas) részére.
+(2) Az (1) bekezdéstől eltérően nem engedélyezhető szakmai tanulmányút annak a határozott időre kinevezett
+kormánytisztviselőnek vagy a határozott idejű munkaszerződéssel foglalkoztatott munkavállalónak, akinek a 16/C. §
+(1) bekezdésében meghatározott szerződés megkötésekor a határozott időből a szerződésben meghatározott
+szakmai tanulmányút, valamint állásfenntartási kötelezettség együttes időtartamánál kevesebb van hátra.
+(3) A szakmai tanulmányút célja a hazai közigazgatás fejlesztését elősegítő jó gyakorlatok megismerése, a szakmai
+ösztöndíjastfoglalkoztatóMiniszterelnökség,minisztérium, valamint a minisztérium irányítása, felügyelete alá tartozó
+szerv (a továbbiakban együtt: küldő szerv) működése során hasznosítható ismeretek, tapasztalatok szerzése a külföldi
+közigazgatási szerv szakmai tevékenységének vizsgálata útján.
+(4) A szakmai tanulmányút időtartama legfeljebb négy hónap lehet.
+16/B. § (1) A szakmai ösztöndíjas személyére és a vizsgálni kívánt külföldi közigazgatási szervre a küldő szerv
+kezdeményezése alapján – a (3) bekezdésben foglaltaknak megfelelően – a PIB tesz javaslatot. A Hivatal vezetője
+– az ösztöndíj program költségvetési keretei között rendelkezésre álló pénzügyi fedezetre is tekintettel – a PIB
+javaslata alapján dönt.
+(2) A küldő szerv – minisztérium esetében az irányítása, felügyelete alá tartozó szervekkel együtt – évente összesen
+legfeljebb négy fő szakmai ösztöndíjas szakmai tanulmányúton való részvételét kezdeményezheti.
+(3) A PIB a javaslat kialakítása során azt vizsgálja, hogy a küldő szerv által kezdeményezett szakmai tapasztalatszerzés
+mennyiben igazodik a kormányprogramban, valamint a Kormány közigazgatás-fejlesztési programjában
+meghatározott fejlesztési irányokhoz.
+16/C. § (1) A szakmai ösztöndíjas, a küldő szerv és a Hivatal a szakmai tanulmányúttal kapcsolatos jogaikat és
+kötelezettségeiket a szakmai ösztöndíjas szerződésben (a továbbiakban: szerződés) határozzák meg.
+(2) A szerződésnek tartalmaznia kell
+a) a felek nevét vagy megnevezését és a szerződés megkötése szempontjából lényeges adatait,
+b) a szerződés megkötésének időpontját,
+c) az ösztöndíj havi összegét, a kifizetés időpontját, módját,
+d) a szakmai tanulmányút időtartamát, helyét, feltételeit,
+e) a felek tanulmányúttal kapcsolatos jogait és kötelezettségeit,
+f) a szakmai ösztöndíjas adatainak kezelésére adott hozzájáruló nyilatkozatát,
+g) a szakmai ösztöndíjas szakmai tanulmányút időtartamára történő munkavégzés alóli mentesítésére vonatkozó
+rendelkezést,
+h) a szakmai ösztöndíjas államigazgatási szervvel fennálló jogviszonyából származó jövedelmére vonatkozó
+megállapodást,
+i) a szerződés megkötése szempontjából lényeges egyéb rendelkezéseket.
+(3) A szerződés alapján a szakmai ösztöndíjas köteles
+a) a küldő szerv által meghatározott feladatokat a küldő szerv utasításainak megfelelően elvégezni,
+b) tevékenységéről a szerződésben meghatározottak szerint és gyakorisággal tájékoztatást adni, továbbá
+a hazaérkezést követő harminc napon belül a küldő szerv részére beszámolót készíteni. A küldő szerv a beszámolót
+a Hivatal részére továbbítja, a beszámolók alapján a Hivatal a miniszter részére éves összefoglalót készít.
+(4) A Hivatal köteles a szerződésben foglaltak szerint ösztöndíjat fizetni.
+
+(5) A szakmai ösztöndíjas a szerződésben vállalja, hogy a szakmai tanulmányút teljesítését követően a küldő szervvel
+a szerződésben meghatározott ideig, de legfeljebb – a hazaérkezést követő munkába állástól számítva – a szakmai
+tanulmányút időtartama kétszeresének megfelelő ideig nem szünteti meg
+a) lemondással a kormányzati szolgálati jogviszonyát vagy
+b) felmondással a munkaviszonyát.
+(6) Ha a szakmai ösztöndíjas az (5) bekezdés szerinti időtartam alatt kormányzati szolgálati jogviszonyát lemondással
+vagy munkaviszonyát felmondással megszünteti, a Hivatal a részére folyósított ösztöndíj időarányos részének
+megfelelő összeg megtérítését követelheti.
+(7) A szerződést a Hivatal vezetője – a küldő szerv kezdeményezésére – indokolással ellátott döntésével, azonnali
+hatállyal felmondhatja, ha a szakmai ösztöndíjas lényeges szerződésszegést követ el.
+(8) A (7) bekezdésben meghatározott esetben a szakmai ösztöndíjas köteles a részére folyósított ösztöndíj összegének
+megfelelő összeget az erre vonatkozó felhívástól számított kilencven napon belül a Hivatal részére visszafizetni.
+A szakmai ösztöndíjas kérelmére a Hivatal vezetője méltányosságból részletfizetést biztosíthat, a visszafizetendő
+összeget mérsékelheti, vagy a visszafizetéstől eltekinthet.
+(9) A szakmai ösztöndíjas a szerződést indokolás mellett azonnali hatállyal felmondhatja, ez esetben
+– a (10) bekezdésben foglalt kivétellel – köteles a részére folyósított ösztöndíj összegének megfelelő összeget
+kilencven napon belül a Hivatal részére visszafizetni. A szakmai ösztöndíjas kérelmére a Hivatal vezetője
+méltányosságból részletfizetést biztosíthat, a visszafizetendő összeget mérsékelheti, vagy a visszafizetéstől
+eltekinthet.
+(10) A szakmai ösztöndíjas indokolását a PIB megvizsgálja. Ha a szerződés felmondásának oka a küldő szerv vagy
+a Hivatal szerződésszegése,a szakmaiösztöndíjasta részére folyósított ösztöndíjnakmegfelelő összeg visszafizetésére
+vonatkozó kötelezettség nem terheli.
+16/D. § (1) A küldő szerv köteles a szakmai ösztöndíjas által teljesítendő feladatokat meghatározni, a feladatok
+teljesítéséhez szükséges szakmai segítséget megadni, a szakmai ösztöndíjast utasításokkal ellátni.
+(2) A szakmai tanulmányút teljesítése érdekében a küldő szerv a külföldi közigazgatási szervvel együttműködési
+megállapodást köthet.
+16/E. § (1) A szakmai ösztöndíjasra a 6–10. §, a 11. § (2) bekezdése, valamint a 12–16. § nem alkalmazható.
+(2) Az ösztöndíj havi összegét – a küldő szerv egyetértésével, a szakmai tanulmányút célországának viszonyaitól
+függően – a Hivatal vezetője állapítja meg.”
+2. § Az MKÖ rendelet 9. § (4) bekezdésében a „12. § (1) bekezdésének” szövegrész helyébe a „13. § (1) bekezdésének”
+szöveg lép.
+3. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök
