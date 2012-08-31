@@ -12,7 +12,7 @@ c) nem áll a SAPARD Program, az Agrár- és Vidékfejlesztési Operatív Progra
 
 (3) Egy támogatási kérelemben több település is szerepelhet megvalósítási helyként, de minden településnek ugyanahhoz a kedvezményezett térséghez kell tartoznia.
 
-(4)[^1] A támogatási kérelmet 2009. november 16. és 2010. január 15. között lehet benyújtani.
+(4)[^2] A támogatási kérelmet 2009. november 16. és 2010. január 15. között lehet benyújtani.
 
 (5) A támogatási kérelemnek legalább az alábbi adatokat kell tartalmaznia:
 
@@ -28,4 +28,4 @@ b) a vállalás mértékének megjelölése, ha a támogatás részletes feltét
 
 (9) Ha az ügyfél a támogatási kérelemben a támogatási alapra vagy a támogatási összegre vonatkozóan nem szolgáltat adatot, ezek vonatkozásában nincs helye hiánypótlásnak.
 
-[^1]: A 7. § (4) bekezdése a 167/2009. (XII. 15.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^2]: A 7. § (4) bekezdése a 167/2009. (XII. 15.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

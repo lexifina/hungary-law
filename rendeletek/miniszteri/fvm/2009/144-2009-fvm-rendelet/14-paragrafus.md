@@ -14,10 +14,10 @@ c) nem beruházási jellegű műveletek esetén a művelethez kapcsolódó tevé
 
 (4) Ha az ügyfél olyan beruházást hajt végre, amelynek teljes költsége meghaladja az 50 000 eurót, a kedvezményezettnek magyarázó táblát kell elhelyeznie. Az 500 000 euró összköltséget meghaladó beruházások helyszínén plakátot kell felállítani.
 
-(5)[^9] A (4) bekezdés szerinti plakáton és táblán fel kell tüntetni a művelet leírását és a következő mondatot: „Készült az Európai Mezőgazdasági Garancia Alap társfinanszírozásában és Magyarország támogatásával.”
+(5)[^10] A (4) bekezdés szerinti plakáton és táblán fel kell tüntetni a művelet leírását és a következő mondatot: „Készült az Európai Mezőgazdasági Garancia Alap társfinanszírozásában és Magyarország támogatásával.”
 
 (6) A (4) bekezdés szerinti plakáton és táblán fel kell tüntetni az európai lobogót az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló, 2006. december 15-i 1974/2006/EK bizottsági rendelet VI. melléklet 4.1 pontjában meghatározott grafikai előírásoknak megfelelően.
 
 (7) A (4) bekezdés szerinti plakát és tábla legalább 25%-ának az (5) és (6) bekezdésben foglalt adatokat kell tartalmaznia.
 
-[^9]: A 14. § (5) bekezdése az 5/2012. (II. 10.) VM rendelet 45. §-a szerint módosított szöveg.
+[^10]: A 14. § (5) bekezdése az 5/2012. (II. 10.) VM rendelet 45. §-a szerint módosított szöveg.

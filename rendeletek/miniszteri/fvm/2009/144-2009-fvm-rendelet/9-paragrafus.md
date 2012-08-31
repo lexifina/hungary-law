@@ -18,15 +18,15 @@ b) az ügyfél természetes személy, nem áll a gazdálkodási tevékenységév
 
 (7) A kifizetési kérelmet
 
-a)[^2] 2010. április 1. és május 31.,
+a)[^3] 2010. április 1. és május 31.,
 
 b) 2010. október 1. és október 31.,
 
 c) 2011. április 1. és április 30.,
 
-d)[^3] 2011. október 1. és október 31.,
+d)[^4] 2011. október 1. és október 31.,
 
-e)[^4] 2012. január 1. és január 31.
+e)[^5] 2012. január 1. és január 31.
 
 közötti időszakban lehet benyújtani az MVH-hoz.
 
@@ -38,6 +38,6 @@ b) építésiengedély-köteles tevékenység esetén az utolsó kifizetési ké
 
 c) termálkútfúrás és termálkút fennmaradását biztosító beruházások esetén az első, építéssel kapcsolatos kifizetési kérelemhez mellékelni kell a jogerős létesítési vízjogi engedély hiteles másolatát, valamint az utolsó kifizetési kérelemhez a jogerős üzemeltetési vízjogi engedély hiteles másolatát.
 
-[^2]: A 9. § (7) bekezdés a) pontja a 49/2010. (IV. 27.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^3]: A 9. § (7) bekezdés d) pontját a 48/2010. (XII. 31.) VM rendelet 1. §-a iktatta be.
-[^4]: A 9. § (7) bekezdés e) pontját a 48/2010. (XII. 31.) VM rendelet 1. §-a iktatta be.
+[^3]: A 9. § (7) bekezdés a) pontja a 49/2010. (IV. 27.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^4]: A 9. § (7) bekezdés d) pontját a 48/2010. (XII. 31.) VM rendelet 1. §-a iktatta be.
+[^5]: A 9. § (7) bekezdés e) pontját a 48/2010. (XII. 31.) VM rendelet 1. §-a iktatta be.
