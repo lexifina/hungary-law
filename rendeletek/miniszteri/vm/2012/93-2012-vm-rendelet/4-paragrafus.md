@@ -1,0 +1,1 @@
+## „(7) A szervezet az újonnan létesített talajgenerátorokról legkésőbb a díjtámogatási kérelem benyújtásával egyidejűleg értesíti a földművelésügyi hatóságot, amely a területén működő talajgenerátorokról – megyeszintű bontásban – nyilvántartást vezet.”
