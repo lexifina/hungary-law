@@ -1,6 +1,15 @@
-4. § (1)[^6]
+## „48. § E rendeletnek a felsőoktatási intézmények felvételi eljárásairól szóló 237/2006. (XI. 27.) Korm. rendelet, valamint az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet módosításáról szóló 12/2012. (II. 14.) Korm. rendelet
 
-(2)[^7]
+## a) 1. § (2) bekezdésével módosított 8. § (1) bekezdés b) pontját első alkalommal a 2013. évi,
 
-[^6]: A 4. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 4. § (2) bekezdése a 6. § (2) bekezdése alapján 2012. augusztus 31-én lép hatályba.
+## b) 2. §-ával módosított 11. § (4) bekezdését első alkalommal a 2012. évi
+
+## általános felvételi eljárás során kell alkalmazni.”
+
+4. § (1)[^5]
+
+(2) Az R2 12. § (6) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+[A jelentkezési lapot]
+
+[^5]: A 4. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
