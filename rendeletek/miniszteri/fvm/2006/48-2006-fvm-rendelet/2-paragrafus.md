@@ -8,4 +8,7 @@ c) a cukorrépa szállítási joggal kapcsolatos kötelezettségeiket teljesíte
 
 (2)[^7] Ha a cukorrépa szállítási jogosult jogutód nélkül szűnik meg, a támogatást a cukorrépa szállítási jog új tulajdonosa akkor igényelheti, ha a kérelem beadás időszakának kezdő időpontjáig a szállítási jog már átírásra került. Ha a cukorrépa szállítási jogosult úgy szűnik meg jogutód nélkül, hogy nem rendelkezik a cukorrépa szállítási jogáról, akkor az R. 3. § (6) bekezdése szerint kell eljárni. A támogatást ebben az esetben is a szállítási jog új jogosultja igényelheti. A támogatás mértékének kiszámításakor a fenti esetekben a szállítási jog régi tulajdonosa által megtermelt és a referencia időszakban a kvótajogosultnak leszállított cukorrépa mennyiségét is figyelembe kell venni.
 
+(3)[^8] A támogatási kérelmet a benyújtás évében hatályban lévő Európai Mezőgazdasági Garancia Alapból, Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló miniszteri rendelet szerinti egységes kérelem keretében, az arra vonatkozó szabályoknak megfelelően kell benyújtani.
+
 [^7]: A 2. § (2) bekezdése a 93/2011. (X. 12.) VM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 2. § (3) bekezdését a 92/2012. (VIII. 30.) VM rendelet 7. § (1) bekezdése iktatta be.

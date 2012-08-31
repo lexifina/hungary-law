@@ -10,12 +10,12 @@
 
 | d | = a termeltetési szerződés alapján leszállított „A” és „B” cukorrépa mennyisége a 2005/2006 gazdasági évben (tonna) |
 
-| e | = összes igényelt mennyiség (tonna) |
+| e | = a benyújtott támogatási kérelmekben szereplő összes igényelt mennyiség (tonna) |
 
 | f | = az egy évben kiosztható támogatás összértéke |
 
 ## x = (a+b+c+d)/4/e * f
 
-2–3. számú melléklet a 48/2006. (VI. 22.) FVM rendelethez[^20]
+2–3. számú melléklet a 48/2006. (VI. 22.) FVM rendelethez[^23]
 
-[^20]: A 2–3. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 88. pontja hatályon kívül helyezte.
+[^23]: A 2–3. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 88. pontja hatályon kívül helyezte.
