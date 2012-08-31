@@ -1,1 +1,3 @@
-## 3. § A 7/2004. EüM rendelet az 1. melléklet szerinti 3. számú melléklettel egészül ki.
+## 1–3. §[^1]
+
+[^1]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
