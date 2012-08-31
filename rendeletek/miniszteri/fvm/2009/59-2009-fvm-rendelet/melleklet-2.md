@@ -1,18 +1,26 @@
-2. számú melléklet az 59/2009. (V. 8.) FVM rendelethez[^16]
+2. számú melléklet az 59/2009. (V. 8.) FVM rendelethez[^24]
 
-Díjtámogatási kérelem adattartalma
+DÍJTÁMOGATÁSI KÉRELEM
 
-1. A kérelmező azonosító adata
+a jégeső-elhárító szervezetnek fizetett szolgáltatási díj támogatása igénybevételének szabályairól szóló 59/2009. (V. 8.) FVM rendelet alapján ......... évben
 
-2. A jégeső-elhárító szervezet működési területének meghatározása:
+Benyújtás helye: a jégeső-elhárító szervezet székhelye szerint illetékes megyei kormányhivatal Földművelésügyi Igazgatósága
 
-2.1. megye megnevezése;
+Benyújtási időszak: a tárgyév június hónapja
 
-2.2. működő talajgenerátorok (megyénként/db);
+1. A kérelmező azonosító adatai
 
-2.3. területnagyság megyénként (km2);
+2. A jégeső-elhárító szervezet működési területének megnevezése (megye):
 
-2.4. területnagyság összesen (km2);
+2.1. Amennyiben az elmúlt évhez képest változás következett be valamelyik paraméterben:
+
+2.1.1. megye megnevezése;
+
+2.1.2. működő talajgenerátorok (megyénként/db);
+
+2.1.3. területnagyság megyénként (km2);
+
+2.1.4. területnagyság összesen (km2);
 
 3. Összesítő kimutatás a jégeső-elhárítási díjtámogatás kedvezményezetteiről:
 
@@ -32,18 +40,18 @@ Díjtámogatási kérelem adattartalma
 
 5. Keltezés, cégszerű aláírása
 
-6. Mellékletek:
+6. Mellékletek felsorolása:
 
-6.1. alapszabály/társasági szerződés másolata;
+6.1. alapszabály vagy társasági szerződés másolata, amennyiben a szervezet azt korábban még nem nyújtotta be, vagy a korábban benyújtottakhoz képest változás következett be;
 
 6.2. számla másolata (db);
 
 6.3. meghatalmazás (db);
 
-7. Az illetékes megyei Mezőgazdasági Szakigazgatási Hivatal igazolása arról, hogy a díjtámogatási kérelem 1. pontjában megjelölt kérelmező, valamint a mellékelt számlán vevőként szereplő kedvezményezettek a jégeső-elhárító szervezetnek fizetett szolgáltatási díj támogatása igénybevételének szabályairól szóló 59/2009. (V. 8.) FVM rendelet alapján meghatározott feltételeket teljesítették. Az igazolás kiterjed a díjtámogatás összegére is.
+7. Az illetékes megyei kormányhivatal Földművelésügyi Igazgatóságának igazolása arról, hogy a díjtámogatási kérelem 1. pontjában megjelölt kérelmező, valamint a mellékelt számlán vevőként szereplő kedvezményezettek a jégeső-elhárító szervezetnek fizetett szolgáltatási díj támogatása igénybevételének szabályairól szóló 59/2009. (V. 8.) FVM rendelet alapján meghatározott feltételeket teljesítették. Az igazolás kiterjed a díjtámogatás összegére is.
 
 8. Keltezés
 
-9. Igazgató aláírása (megyei MgSzH)
+9. Igazgató aláírása (illetékes megyei kormányhivatal Földművelésügyi Igazgatósága)
 
-[^16]: A 2. számú melléklet a 171/2009. (XII. 22.) FVM rendelet 7. § (8) bekezdésével megállapított szöveg.
+[^24]: A 2. számú melléklet a 93/2012. (VIII. 30.) VM rendelet 4. §-ával megállapított szöveg.
