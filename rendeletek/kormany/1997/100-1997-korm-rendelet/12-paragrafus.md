@@ -20,7 +20,7 @@ c) a tanulói jogviszony megszűnését követően bármelyik, az adott vizsgat�
 
 a)[^64]
 
-b)[^65] május–júniusi vizsgaidőszak esetén február 24-ig,
+b)[^65] május–júniusi vizsgaidőszak esetén február 15-ig,
 
 c)[^66] október-novemberi vizsgaidőszak esetén szeptember 5-ig
 
@@ -62,7 +62,7 @@ b) a Hivatal a központi vizsgakövetelményekre épülő vizsgatárgyak esetéb
 [^62]: A 12. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 41. § d) pontja szerint módosított szöveg.
 [^63]: A 12. § (6) bekezdésének befejező szövegrésze a 253/2006. (XII. 7.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^64]: A 12. § (6) bekezdésének a) pontját a 256/2005. (XII. 7.) Korm. rendelet 28. § (2) bekezdése hatályon kívül helyezte.
-[^65]: A 12. § (6) beekzdés b) pontja a 12/2012. (II. 14.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^65]: A 12. § (6) beekzdés b) pontja a 12/2012. (II. 14.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^66]: A 12. § (6) bekezdésének c) pontja a 148/2005. (VII. 27.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^67]: A 12. § (7) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 40. § (5) bekezdésével megállapított szöveg.
 [^68]: A 12. § új (8) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése iktatta be, egyidejűleg az eredeti (8)–(12) bekezdés számozását (9)–(13) bekezdésre változtatva. A 12. § (8) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 41. § b) és e) pontja szerint módosított szöveg.
