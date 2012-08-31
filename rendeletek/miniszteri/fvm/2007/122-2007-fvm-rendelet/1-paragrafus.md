@@ -2,8 +2,8 @@
 
 (2) Az R. 147. §-ának (1) bekezdése szerinti támogatás 2007. október 20-át követően igényelhető.
 
-(3)[^2] A 2004. május 31-éig telepített erdőkre megkötött erdőtelepítési támogatási szerződések vonatkozásában a támogatás igénylése és mértékének megállapítása során az R. 105. § (1) bekezdés b) pontjának ba) és bb) alpontjához tartozó táblázatokat, a (2) bekezdésének a) pontjában, továbbá a 106. §-ában foglaltakat kell figyelembe venni, valamint az e rendelet 2. §-ában meghatározottak szerint kell eljárni.
+(3)[^2] A 2004. május 31-éig telepített erdőkre megkötött erdőtelepítési támogatási szerződések vonatkozásában a támogatás igénylése és mértékének megállapítása során az R. 105. § (1) bekezdés b) pontjának ba) és bb) alpontjához tartozó táblázatok „befejezett” megnevezésű sorait és a (2) bekezdésének a) pontjában foglaltakat kell figyelembe venni, valamint az e rendelet 2. §-ában meghatározottak szerint kell eljárni.
 
 (4) Az R. 289–291. §-ában foglaltakat 2008. március 31-éig kell alkalmazni.
 
-[^2]: Az 1. § (3) bekezdése a 11/2010. (VIII. 30.) VM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (3) bekezdése a 95/2012. (VIII. 30.) VM rendelet 13. § (1) bekezdésével megállapított szöveg.
