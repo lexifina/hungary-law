@@ -1,4 +1,4 @@
-5. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^124]
+5. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^132]
 
 ## A pénzkövetelés behajtására szolgáló, törvényben meghatározott okirat végrehajtási záradékkal történő ellátása iránti kérelem nyomtatványának adattartalma
 
@@ -556,4 +556,4 @@
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-[^124]: Az 5. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^132]: Az 5. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.

@@ -1,5 +1,5 @@
-## 36. §[^70] Ha a végrehajtó szolgálata megszűnik, vagy a végrehajtói kinevezés érvénytelenségét állapították meg, a végrehajtó a végrehajtási ügyek iratait és a nyilvántartásokat a szolgálatba lépő új végrehajtónak (helyettesnek) adja át. Ha a végrehajtói álláshely megszűnik, az iratokat, nyilvántartásokat a felügyelő szervnek kell átadni, amely azokat a 35. §-ban foglaltak betartásával kezeli.
+## 36. §[^78] Ha a végrehajtó szolgálata megszűnik, vagy a végrehajtói kinevezés érvénytelenségét állapították meg, a végrehajtó a végrehajtási ügyek iratait és a nyilvántartásokat a szolgálatba lépő új végrehajtónak (helyettesnek) adja át. Ha a végrehajtói álláshely megszűnik, az iratokat, nyilvántartásokat a felügyelő szervnek kell átadni, amely azokat a 35. §-ban foglaltak betartásával kezeli.
 
 ## A befejezett ügyek kezelése
 
-[^70]: A 36. § a 6/2010. (III. 12.) IRM rendelet 8. § c) pontja szerint módosított szöveg.
+[^78]: A 36. § a 6/2010. (III. 12.) IRM rendelet 8. § c) pontja szerint módosított szöveg.
