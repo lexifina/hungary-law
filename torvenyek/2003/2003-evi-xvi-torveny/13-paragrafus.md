@@ -1,3 +1,0 @@
-13. § (1) A miniszter az agrárpiaci rendtartás eszközeinek alkalmazásával összefüggő egyes feladatok végrehajtására a terméktanáccsal szerződést köthet. A megkötött szerződések nyilvánosak és ahhoz – meghatározott feltételekkel – a terméktanácshoz nem tartozó termékpálya szereplők írásos nyilatkozatban csatlakozhatnak. A csatlakozás feltételeit a felek a szerződésben határozzák meg.
-
-(2) Ha a termékpályán nincs terméktanács, a miniszter az illetékes szakmai szövetséggel is köthet megállapodást. Ha az adott termékpályán több szakmai szövetség is működik, a miniszter az általuk kijelölt szövetséggel köt megállapodást.

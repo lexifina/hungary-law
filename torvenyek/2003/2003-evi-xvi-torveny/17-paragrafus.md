@@ -1,1 +1,0 @@
-17. § Ha a terméktanácsként elismert szervezet nem felel meg az elismeréskor megkövetelt és teljesített feltételeknek, továbbá az elismerés fenntartásához szükséges intézkedéseket az erre irányuló miniszteri felhívásban biztosított megfelelő határidőn belül nem teszi meg, az elismerés hatályát veszti.

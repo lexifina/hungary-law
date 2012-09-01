@@ -1,3 +1,0 @@
-## Szakmaközi szervezet a szőlő- és borágazatban
-
-29/B. § A borágazatban elismert szakmaközi szervezet az egységes közös piacszervezésről szóló rendelet 123. cikk (3) bekezdésében meghatározott tevékenységek elvégzéséhez tagjaitól piacfejlesztési hozzájárulás formájában marketingjárulékot szedhet. Az így megfizetett marketingjárulékot a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény (a továbbiakban Btv.) 24/A. §-ának (3) bekezdése szerint megfizetett összegnek kell tekinteni, és a Btv. 24/A. §-ának (7) bekezdésében meghatározott célokra használható fel. A marketingjárulékként megfizetett összeget a Btv. 24/A. §-ának (7) bekezdése szerint felhasználható összeg részének kell tekinteni.
