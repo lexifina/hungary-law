@@ -1,5 +1,3 @@
-## 36. §[^3]
-
 ## 26. Összeférhetetlenség
 
 37. § (1) Az állomány tagjának méltányolható okok (közvetlen családtagok elhelyezkedési problémája, családi körülmények miatt nem vállalható utazás stb.) miatti kérelme alapján az állományilletékes parancsnok javaslatára a miniszter engedélyezheti a közeli hozzátartozójával szolgálati alá-fölérendeltségi viszonyba kerülést.
@@ -35,5 +33,3 @@ f) a végzendő tevékenység harmadik személyre vonatkozó információ gyűjt
 g) személyek őrzésével, biztosításával és e személyek objektumainak őrzésével kapcsolatos feladatra terjed ki, vagy követelés behajtására irányul, vagy
 
 h) a tevékenység a fegyveres szervnél rendszeresített nyilvántartások közvetlen felhasználásával történne, vagy olyan ügyintézésre vonatkozik, amelyben valamely fegyveres szerv mint hatóság jár el.
-
-[^3]: A 36. § a 65. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
