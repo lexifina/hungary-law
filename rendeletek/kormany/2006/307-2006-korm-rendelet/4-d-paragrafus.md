@@ -1,6 +1,6 @@
-## A Hivatal közoktatási és felsőoktatási ágazati információs rendszerek működtetésével kapcsolatos feladatai[^16]
+## A Hivatal közoktatási és felsőoktatási ágazati információs rendszerek működtetésével kapcsolatos feladatai[^17]
 
-4/D. §[^17] (1) A közoktatási és felsőoktatási ágazati információs rendszerek oktatásszakmai fejlesztési koncepcióját a miniszter határozza meg. A közoktatási és felsőoktatási ágazati információs rendszerekhez kapcsolódó informatikai fejlesztési feladatok megvalósításáért, az ágazati informatikai rendszerek működtetéséért, üzemeltetéséért a Hivatal felel.
+4/D. §[^18] (1) A közoktatási és felsőoktatási ágazati információs rendszerek oktatásszakmai fejlesztési koncepcióját a miniszter határozza meg. A közoktatási és felsőoktatási ágazati információs rendszerekhez kapcsolódó informatikai fejlesztési feladatok megvalósításáért, az ágazati informatikai rendszerek működtetéséért, üzemeltetéséért a Hivatal felel.
 
 (2) A Hivatalnak az oktatási ágazati jogszabályokban, különösen
 
@@ -40,5 +40,5 @@ b) a statisztikai adatok előállításához szükséges lekérdezési felülete
 
 (5) Az Educatio Társadalmi Szolgáltató Nonprofit Kft.-nek az (1)–(4) bekezdés szerinti feladatellátással összefüggő kiadásai fedezetét – a díjakkal fedezett feladatok és az oktatásért felelős miniszter által előírt fejlesztési feladatok kivételével – a Hivatal költségvetésében kell megtervezni.
 
-[^16]: A 4/D. §-t megelőző alcímet a 165/2011. (VIII. 24.) Korm. rendelet 1. §-a iktatta be.
-[^17]: A 4/D. §-t a 165/2011. (VIII. 24.) Korm. rendelet 1. §-a iktatta be.
+[^17]: A 4/D. §-t megelőző alcímet a 165/2011. (VIII. 24.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 4/D. §-t a 165/2011. (VIII. 24.) Korm. rendelet 1. §-a iktatta be.
