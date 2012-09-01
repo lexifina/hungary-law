@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 1995-117-00-00.103 |
 | 2012-07-21 | 2012. évi CIII. törvény | 1995-117-00-00.104 |
 | 2012-08-01 | 2012. évi CXII. törvény | 1995-117-00-00.105 |
+| 2012-09-01 | 2012. évi CXXVII. törvény | 1995-117-00-00.106 |

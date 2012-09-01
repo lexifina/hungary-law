@@ -120,7 +120,7 @@ d) az egyéni szabadalmi ügyvivő a szabadalmi ügyvivőkről szóló törvény
 
 e) az ügyvéd az ügyvédekről szóló törvényben meghatározott tevékenysége tekintetében (kivéve, amennyiben e tevékenységét ügyvédi iroda tagjaként vagy alkalmazott ügyvédként folytatja);
 
-f) a magán-állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező magánszemély e tevékenysége tekintetében;
+f) a szolgáltató állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező magánszemély e tevékenysége tekintetében;
 
 g)
 

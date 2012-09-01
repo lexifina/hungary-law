@@ -38,6 +38,8 @@ jd) a magánszemély kérelmére, munkaviszonyának megszűnése esetén a fogla
 
 je) a foglalkoztatói nyugdíjszolgáltató intézmény a tagot megillető követelése javára jóváír;
 
+jf) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a Nyugdíjbiztosítási Alapnak utalnak át, vagy önkéntes kölcsönös nyugdíjpénztárban vezetett egyéni számlán, foglalkoztatói nyugdíjszolgáltató intézményben tagi kiegészítésként vagy nyugdíj-előtakarékossági számlán jóváírnak azzal, hogy az így jóváírt összeg a 28. § (17) bekezdésének alkalmazásában nem tekinthető a számlatulajdonos által teljesített befizetésnek, és nem jogosít az adó feletti rendelkezésre;
+
 k) azt az összeget, amelyet a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint
 
 ka) tagdíj fizetésére kötött támogatási megállapodás alapján a magánszemély helyett más fizet meg;
