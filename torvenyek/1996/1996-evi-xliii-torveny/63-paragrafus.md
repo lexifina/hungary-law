@@ -22,9 +22,15 @@ távolléti díjnak megfelelő összeg.
 
 (3) A 64. § (1) bekezdése alapján a hivatásos szolgálatba visszavett személy szolgálati viszonyának felmentéssel történő megszűnésekor a végkielégítés alapjául a korábbi végkielégítést követően szolgálati viszonyban töltött időt lehet figyelembe venni.
 
-(4) A végkielégítés összegének felére jogosult a hivatásos állomány tagja, ha azért mentették fel, mert az 56. § (3) vagy (5) bekezdése szerinti áthelyezéshez nem járult hozzá, kivéve, ha a hozzájárulását alapos (hozzátartozó elhelyezkedési, iskoláztatási, gondozási lehetetlensége, lakhatási feltételek nehézségei miatti, stb.) indokkal tagadta meg.
+(4) A végkielégítés összegének felére jogosult a hivatásos állomány tagja, ha
 
-(5) A hivatásos állomány tagja a munkavégzési kötelezettség alóli mentesítés idejére járó átlagkeresetre havonta egyenlő részletekben jogosult, részére a végkielégítést a felmentési idő utolsó napján kell kifizetni.
+a) azért mentették fel, mert az 56. § (5) bekezdés b) pontja szerinti áthelyezéshez nem járult hozzá, kivéve, ha a hozzájárulását alapos (hozzátartozó elhelyezkedési, iskoláztatási, gondozási lehetetlensége, lakhatási feltételek nehézségei miatti stb.) indokkal tagadta meg,
+
+b) a 66/A. § (1) bekezdésében szabályozott tartalékállomány tartama alatt a végzettségének, képzettségének, egészségi, pszichikai és fizikai állapotának megfelelő felajánlott munkakört nem fogadja el, vagy
+
+c) a 66/A. § (2) bekezdésében meghatározott tartalékállomány tartama alatt az együttműködési kötelezettségének nem tesz eleget vagy a végzettségének, képzettségének, egészségi, pszichikai és fizikai állapotának megfelelő felajánlott álláshelyet nem fogadja el.
+
+(5) A hivatásos állomány tagja a munkavégzési kötelezettség alóli mentesítés idejére járó átlagkeresetre havonta egyenlő részletekben jogosult, részére a végkielégítést – a 66/A. § (6) bekezdésében meghatározott kivételekkel – a felmentési idő utolsó napján kell kifizetni.
 
 (6) Végkielégítésre nem jogosult a hivatásos állomány tagja, ha
 
@@ -33,6 +39,8 @@ a) a szolgálati viszony megszűnésekor az Mt. megfelelő alkalmazásával nyug
 b) alkalmatlansága miatt mentették fel, kivéve azt, aki egészségi, pszichikai és fizikai alkalmatlanság miatt került felmentésre.
 
 c) nem felel meg a kifogástalan életvitel követelményének, vagy a kifogástalan életvitel ellenőrzéséhez szükséges hozzájáruló nyilatkozatot határidőben nem tette meg, ezért a hivatásos szolgálatra alkalmatlanná vált,
+
+d) a 66/A. § (1) és (2) bekezdésében szabályozott tartalékállomány tartama alatt felajánlott álláshelyet elfogadja.
 
 (7) Ha a hivatásos állomány tagja a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 

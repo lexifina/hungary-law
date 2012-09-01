@@ -165,3 +165,45 @@ VIII. Összeférhetetlenségre vonatkozó adatok:
 – engedélyezett, más kereső foglalkozás,
 
 – a bejelentéshez kötött egyéb, szolgálati viszonyon kívüli tevékenységre vonatkozó adatok,
+
+– a szolgálati viszony összeférhetetlenség miatti megszűnésének jogcíme.
+
+IX. Illetmény, juttatások, költségtérítések, kedvezmények és támogatások adatai:
+
+X. Fegyelmi, kártérítési adatok:
+
+– a fegyelmi fenyítés neme, hatálya, mentesítés,
+
+– kártérítési kötelezettség mértéke, a teljesítésre vonatkozó adatok.
+
+XI. Társadalombiztosítási adatok:
+
+– a társadalombiztosítási jogosultságot igazoló adatok,
+
+– a társadalombiztosítási igazolvány,
+
+– társadalombiztosítási ellátások.
+
+XII. A nyugállományúakra vonatkozó adatok:
+
+– szolgálati lakásra jogosultság,
+
+– a nyugállományba helyezés, nyugállományba vonulás ideje,
+
+– a nyugdíjfolyósítási törzsszám,
+
+– egyenruha viselésének a joga.
+
+XIII. A szociális és kegyeleti gondoskodás adatai:
+
+– elhalálozás ideje, oka,
+
+– a haláleset minősítése,
+
+– a temetés helye, ideje,
+
+– visszamaradt hozzátartozók neve és címe,
+
+– segélyezés,
+
+– járadékfizetés.

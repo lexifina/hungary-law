@@ -14,6 +14,8 @@
 
 (2a) A IV. Fejezet, valamint a IV/A. Fejezet rendelkezéseit és a 70/B. §-t a fegyveres szervvel közalkalmazotti jogviszonyban állókra is alkalmazni kell.
 
+(2b) A tartalékállományra vonatkozó rendelkezéseket a szolgálati viszony megszűnését követően a hivatásos állományból tartalékállományba helyezettekre is alkalmazni kell.
+
 (3) A szükségállapot és a rendkívüli állapot idején – a hivatásos állomány tagjainak szolgálati viszonyára – alkalmazandó eltérő rendelkezéseket külön jogszabályok állapítják meg.
 
 (4) A Nemzeti Adó- és Vámhivatal hivatásos állományú tagjainak szolgálati viszonyára az e törvényben foglaltakat a Nemzeti Adó- és Vámhivatalról szóló törvényben foglalt eltérésekkel kell alkalmazni.
