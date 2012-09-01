@@ -1,0 +1,3 @@
+34. § A Vht. 138. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A végrehajtó az ingatlan lefoglalása végett megkeresi az ingatlanügyi hatóságot, hogy a végrehajtási jogot jegyezze be az ingatlan-nyilvántartásba, egyúttal felhívja az ingatlanügyi hatóságot, hogy a végrehajtási jog bejegyzésével kapcsolatos határozatának megküldésével együtt tájékoztassa a végrehajtót azoknak a nevéről és lakóhelyéről (székhelyéről), akiknek az ingatlanra vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van, valamint a lefoglalt ingatlant érintően a földhasználati nyilvántartásba bejegyzett földhasználat jogcíméről és időtartamáról. A foglalás a végrehajtási jog bejegyzésével valósul meg.”
