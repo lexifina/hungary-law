@@ -1,1 +1,0 @@
-100. § Az országos pedagógiai-szakmai szolgáltatást ellátó intézményt az oktatásért felelős miniszter, szakképzés esetén – a szakképzési törvényben meghatározott hatáskörében foglaltak szerint – a szakképesítésért felelős miniszter jelöli ki.

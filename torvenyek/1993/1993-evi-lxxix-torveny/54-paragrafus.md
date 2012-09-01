@@ -1,7 +1,3 @@
 ## A közoktatási intézmény vezetője
 
-54. § (1) A közoktatási intézmény vezetője felelős az intézmény szakszerű és törvényes működéséért, a takarékos gazdálkodásért, gyakorolja a munkáltatói jogokat, és dönt az intézmény működésével kapcsolatban minden olyan ügyben, amelyet jogszabály vagy kollektív szerződés (közalkalmazotti szabályzat) nem utal más hatáskörébe. Az alkalmazottak foglalkoztatására, élet- és munkakörülményeire vonatkozó kérdések tekintetében jogkörét jogszabályban előírt egyeztetési kötelezettség megtartásával gyakorolja. A nevelési-oktatási intézmény vezetője felel továbbá a pedagógiai munkáért, az intézmény ellenőrzési, mérési, értékelési és minőségirányítási programjának működéséért, a gyermek- és ifjúságvédelmi feladatok megszervezéséért és ellátásáért, a nevelő és oktató munka egészséges és biztonságos feltételeinek megteremtéséért, a tanuló- és gyermekbaleset megelőzéséért, a gyermekek, tanulók rendszeres egészségügyi vizsgálatának megszervezéséért. A nevelési-oktatási intézmény vezetője rendkívüli szünetet rendelhet el, ha rendkívüli időjárás, járvány, természeti csapás vagy más elháríthatatlan ok miatt a nevelési-oktatási intézmény működtetése nem biztosítható, vagy az intézkedés elmaradása jelentős veszéllyel, illetve helyrehozhatatlan kárral járna. Intézkedéséhez be kell szerezni a fenntartó egyetértését, illetve, ha ez nem lehetséges, a fenntartót haladéktalanul értesítenie kell.
-
-(2) A közoktatási intézmény vezetője képviseli az intézményt.
-
-(3) A közoktatási intézmény vezetője az (1)–(2) bekezdésben meghatározott jogkörét esetenként vagy az ügyek meghatározott körében helyettesére vagy az intézmény más alkalmazottjára átruházhatja.
+54. §

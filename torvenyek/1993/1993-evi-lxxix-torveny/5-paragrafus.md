@@ -1,1 +1,1 @@
-5. § Az óvodai nevelés, az iskolai nevelés és oktatás, a kollégiumi nevelés nyelve a magyar, illetve a nemzetiségek nyelve. A nemzetiséghez tartozó gyermekek, tanulók — a nemzetiségek jogairól szóló törvényben meghatározott választás alapján — anyanyelvükön, illetőleg anyanyelvükön és magyarul vagy magyar nyelven részesülhetnek óvodai nevelésben, iskolai nevelésben és oktatásban, illetve kollégiumi nevelésben. A nevelés, oktatás — részben vagy egészben — más nyelven is folyhat.
+5. §

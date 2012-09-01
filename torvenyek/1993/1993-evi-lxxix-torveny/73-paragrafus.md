@@ -1,1 +1,0 @@
-73. § Ha a szakiskola, illetőleg a szakközépiskola párhuzamos oktatás keretében művészeti szakmai vizsgára készít fel, a tanuló magasabb évfolyamba lépéséről az általános műveltséget megalapozó pedagógiai szakasz követelményei és a szakképzés követelményei tekintetében külön-külön is lehet dönteni és bizonyítványt kiállítani.

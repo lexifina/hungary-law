@@ -1,7 +1,0 @@
-23. § (1) Az oktatásért felelős miniszter a 20–22. §-ban meghatározottakon kívül más közoktatási intézményt alapíthat, illetve alapítását engedélyezheti, ha az megfelel e törvény, valamint a szakképzési törvény előírásainak, továbbá engedélyezheti olyan sajátos pedagógiai program alapján nevelő és oktató általános iskola, középiskola alapítását, amelynek nem célja, hogy a tanulót felkészítse az érettségi vizsgára. A kérelemhez mellékelni kell a közoktatási intézmény alapításához jogszabályban meghatározott dokumentumokat, tevékenységével, óvoda és iskola esetén az átadni kívánt ismeretekkel kapcsolatos programot. Az engedéllyel kapcsolatos többletköltségeket a fenntartónak kell viselnie.
-
-(2) Az óvodai nevelés, iskolai nevelés-oktatás, kollégiumi nevelés, továbbá – az e törvény 30. §-ában meghatározott kivétellel – a pedagógiai szakszolgáltatás, valamint – az e törvény 36. § (2) bekezdésének e)–f) pontjában felsoroltak kivételével – a pedagógiai szakmai szolgáltatás a 20–23. §-ban felsorolt közoktatási intézményben látható el.
-
-(3) Az óvodai nevelés, általános iskolai nevelés-oktatás, kollégiumi ellátás, nevelési tanácsadás ellátható a közös igazgatású gyermekjóléti vagy gyermekvédelmi intézmény szervezeti és szakmai tekintetben önálló intézményegységének keretei között is.
-
-(4) A 20. § (1) bekezdés b)–d) és f) pontjában felsorolt iskolák – külön jogszabályban meghatározottak szerint – elláthatják a sportiskola feladatait is.

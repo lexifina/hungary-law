@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-79-00-00
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 1993-79-00-00.68 |
 | 2012-07-06 | 2012. évi XCIII. törvény | 1993-79-00-00.69 |
 | 2012-07-25 | 2012. évi CXXIV. törvény | 1993-79-00-00.70 |
+| 2012-09-01 | 2011. évi CXC. törvény | 1993-79-00-00.71 |

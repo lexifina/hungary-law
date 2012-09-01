@@ -2,7 +2,7 @@
 
 ## Az óvoda
 
-24. § (1) Az óvoda a gyermek hároméves korától a tankötelezettség – e törvény 6. §-ának (2) bekezdésében meghatározottak szerinti – kezdetéig nevelő intézmény. Az óvodai nevelés a gyermek neveléséhez szükséges, a teljes óvodai életet magában foglaló foglalkozások keretében folyik. Az óvoda felveheti azt a körzetében lakó gyermeket is, aki a harmadik életévét a felvételétől számított fél éven belül betölti, feltéve, hogy minden, a településen, fővárosban fővárosi kerületben, illetve, ha a felvételi körzet több településen található, az érintett településeken lakóhellyel, ennek hiányában tartózkodási hellyel rendelkező három éves és annál idősebb gyermek óvodai felvételi kérelme teljesíthető.
+24. § (1)
 
 (2) Az óvoda a gyermek hároméves korától ellátja – a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározottak szerint – a gyermek napközbeni ellátásával összefüggő feladatokat is.
 

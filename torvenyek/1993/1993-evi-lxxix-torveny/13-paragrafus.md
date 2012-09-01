@@ -1,17 +1,3 @@
 ## A szülő jogai és kötelességei
 
-13. § (1) A szülőt megilleti a nevelési, illetőleg nevelési-oktatási intézmény szabad megválasztásának joga. A nevelési, nevelési-oktatási intézmény szabad megválasztásának joga alapján gyermeke adottságainak, képességeinek, érdeklődésének, saját vallási, illetve világnézeti meggyőződésének, nemzeti vagy etnikai hovatartozásának megfelelően választhat óvodát, iskolát, kollégiumot.
-
-(2) A szülők joga, hogy gyermekük számára nem állami, illetve nem önkormányzati nevelési-oktatási intézményt válasszanak, továbbá – az, hogy e törvényben foglaltak szerint – nem állami, illetve nem helyi önkormányzati óvodát, iskolát alapítsanak, vagy annak alapításában részt vegyenek.
-
-(3) A szülő joga igényelni, hogy az óvoda a nevelési programjában és tevékenységében, az iskola és kollégium pedagógiai programjában és tevékenységében a tájékoztatást és az ismereteket tárgyilagosan és többoldalú módon közvetítse, továbbá, hogy az állami, illetve önkormányzati nevelési-oktatási intézményben a hit- és vallásoktatást lehetővé tegyék.
-
-(4) A szülő (1)–(3) bekezdésben meghatározott jogai nem korlátozhatják gyermeke gondolat-, lelkiismeret- és vallásszabadsághoz való jogát, melynek gyakorlását – a gyermek érettségének megfelelően – a szülő irányíthatja. Attól az évtől kezdve, amelyben a gyermek tizennegyedik életévét eléri – ha nem cselekvőképtelen –, a szülő az iskolaválasztás jogát gyermekével közösen gyakorolhatja.
-
-(5) A szülő joga, hogy gyermeke lakóhelyén, ennek hiányában tartózkodási helyén a polgármester segítségét kérje ahhoz, hogy gyermeke különbözeti vizsga vagy évfolyamismétlés nélkül folytathassa tanulmányait, ha a településen nem működik olyan iskola, amelyik a tankötelezettség végéig biztosítja az iskolai nevelést és oktatást. A sajátos nevelési igényű gyermek lakóhelyén, ennek hiányában tartózkodási helyén a polgármester segítségét kérheti ahhoz, hogy gyermeke óvodai neveléséhez, iskolai neveléséhez-oktatásához szükséges feltételeket a településen megteremtsék.
-
-(6) A szülőt megilleti a közérdekű igényérvényesítés joga. A közérdekű igényérvényesítés joga alapján a szülő – a közérdekű kérelmekkel, panaszokkal és bejelentésekkel kapcsolatos eljárásokra vonatkozó rendelkezések szerint – eljárást indíthat, vizsgálatot kezdeményezhet az intézmény vezetőjénél, az intézmény fenntartójánál, a jegyzőnél, a főjegyzőnél, a közoktatási feladatkörében eljáró oktatási hivatalnál vagy más hatóságnál minden olyan esetben, amikor konkrétan nem határozhatók meg a jogaiban sértett személyek, illetve a veszélyeztetett személyek köre. A szülő joga továbbá, hogy saját vagy gyermeke ügyében, valamint a közérdekű igényérvényesítés során igénybe vegye az oktatásügyi közvetítői szolgálatot.
-
-(7) A halmozottan hátrányos helyzetű gyermek szülőjét megilleti az a jog, hogy gyermeke óvodába járatásához – a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározottak szerint – anyagi támogatást kapjon, feltéve, hogy gyermekét legkésőbb a negyedik életévében beíratja az óvodába.
-
-(8) A szülő joga, hogy gyermeke neveléséhez igénybe vegye a pedagógiai szakszolgálat intézményét. A szülő kötelessége, hogy gyermekével megjelenjen a nevelési tanácsadáson, továbbá biztosítsa gyermekének az iskolapszichológusi vizsgálaton és a fejlesztő foglalkozásokon való részvételét, ha a tanulóval foglalkozó pedagógusok kezdeményezésére a nevelőtestület erre javaslatot tesz. A jegyző kötelezheti a szülőt, hogy az e bekezdésben meghatározott kötelezettségének tegyen eleget.
+13–14. §

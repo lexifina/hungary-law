@@ -50,17 +50,7 @@ f) Az e bekezdésben szabályozott oktatást az oktatásért felelős miniszter 
 
 g) A tanuló részére biztosítani kell a kollégiumi elhelyezést, ha e nélkül nem tudna bekapcsolódni a felzárkóztató oktatásba.
 
-(9) A sajátos nevelési igényű tanulók iskolai nevelése és oktatása céljából a szakiskola speciális szakiskolaként vagy készségfejlesztő speciális szakiskolaként is működhet.
-
-(10) A szakiskola
-
-a) speciális szakiskolaként működik, ha a többi tanulóval fogyatékossága miatt együtt haladásra képteleneket készíti fel szakmai vizsgára, vagy nyújt részükre munkába álláshoz és életkezdéshez szükséges ismereteket; a munkába álláshoz és életkezdéshez szükséges ismeretek átadása esetén a szakképzési évfolyamok száma kettő,
-
-b) készségfejlesztő speciális szakiskolaként működik, ha a középsúlyos értelmi fogyatékos tanulók részére biztosítja az életkezdéshez való felkészülést, a munkába állást lehetővé tevő egyszerű betanulást igénylő munkafolyamatok elsajátítását. Ebben az esetben a szakképzési évfolyamok száma kettő.
-
-(11) A speciális szakiskola (tagozat, osztály, csoport) működésére, a tanulók jogállására, Munkaerő-piaci Alapból történő támogatására a szakiskolákra vonatkozó rendelkezéseket kell alkalmazni. E rendelkezéseket kell alkalmazni a készségfejlesztő speciális szakiskolára is abban az esetben, ha a tanulók a tanítási év átlagában a szakképzésre vonatkozó rendelkezések szerint legalább heti tizenöt óra gyakorlati képzésben vesznek részt.
-
-(12) Az értelmi fogyatékos tanulók képességét fejlesztő szakiskola (tagozat, osztály) előkészítő szakiskolaként (tagozatként, osztályként) működik, ha a nevelés-oktatás kizárólag a kilencedik-tizedik évfolyamon folyik. A tanuló a kilencedik-tizedik évfolyamon felkészülhet a speciális szakiskola vagy a készségfejlesztő szakiskola szakképzési évfolyamán történő továbbtanulásra.
+(9)–(12)
 
 (13)
 
