@@ -10,7 +10,7 @@
 
 a) a személyi jövedelemadóról szóló törvény szerinti mezőgazdasági őstermelői tevékenységre,
 
-b) a magán-állatorvosi tevékenységre,
+b) a szolgáltató állatorvosi tevékenységre,
 
 c) az ügyvédi tevékenységre,
 

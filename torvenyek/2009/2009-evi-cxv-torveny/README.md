@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-115-00-00
 | 2010-12-31 | 2010. évi CLXXIX. törvény | 2009-115-00-00.5 |
 | 2011-01-01 | 2010. évi CLXX. törvény | 2009-115-00-00.6 |
 | 2012-01-01 | 2011. évi CXCVII. törvény | 2009-115-00-00.7 |
+| 2012-09-01 | 2012. évi CXXVII. törvény | 2009-115-00-00.8 |
