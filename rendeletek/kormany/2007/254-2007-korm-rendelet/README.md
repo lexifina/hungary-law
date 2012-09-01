@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-254-20-
 | 2010-12-02 | 2007-254-20-22.7 | 262/2010. (XI. 17.) Korm. rendelet |
 | 2011-01-01 | 2007-254-20-22.8 | 348/2010. (XII. 28.) Korm. rendelet |
 | 2012-01-01 | 2007-254-20-22.9 | 356/2011. (XII. 30.) Korm. rendelet |
+| 2012-09-01 | 2007-254-20-22.10 | 348/2010. (XII. 28.) Korm. rendelet |
