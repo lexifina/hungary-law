@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-62-00-00
 | 2010-12-23 | 2010. évi CLVII. törvény | 2001-62-00-00.7 |
 | 2011-01-01 | 2010. évi CLXXXII. törvény | 2001-62-00-00.8 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2001-62-00-00.9 |
+| 2012-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2001-62-00-00.10 |
