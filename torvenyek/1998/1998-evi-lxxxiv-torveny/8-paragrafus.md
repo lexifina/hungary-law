@@ -10,7 +10,7 @@ ab) a tankötelezettsége megszűnését követően közoktatási intézményben
 
 b) a javítóintézet igazgatója vagy a büntetés-végrehajtási intézet parancsnoka a javítóintézetben nevelt vagy a büntetés-végrehajtási intézetben lévő, és gyermekvédelmi gondoskodás alatt álló, tanköteles gyermekre tekintettel a tankötelezettség teljes időtartamára.
 
-(2) A súlyos és halmozottan fogyatékos tanuló [a közoktatásról szóló 1993. évi LXXIX. törvény 30/A. §] szülője a tankötelezettség teljesítésének formájától függetlenül a tankötelezettség teljesítésének végéig jogosult iskoláztatási támogatásra.
+(2) A súlyos és halmozottan fogyatékos tanuló szülője a tankötelezettség teljesítésének formájától függetlenül a tankötelezettség teljesítésének végéig jogosult iskoláztatási támogatásra.
 
 (3) Saját jogán jogosult iskoláztatási támogatásra az a közoktatási intézményben a tankötelezettsége megszűnését követően tanulmányokat folytató személy,
 

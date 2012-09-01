@@ -6,10 +6,12 @@
 
 (4) Az anyasági támogatás iránti kérelmet az igényelbíráló szerv a kérelem megérkezését követő naptól számított nyolc napon belül elbírálja, a jogosultság megállapítása esetén a támogatást fizetési számlára vagy kifizetési utalványon kiutalja.
 
-(5) Ha a gyámhatóságként eljáró jegyző a családi pótlék természetbeni nyújtását vagy az iskoláztatási támogatás felfüggesztését rendeli el, a kincstár a jegyző határozatában foglaltak szerint intézkedik az ellátás természetbeni nyújtását, illetve a felfüggesztést elrendelő települési önkormányzat részére a kincstárban megnyitott családtámogatási folyószámlára (a továbbiakban: családtámogatási folyószámla) utalásáról.
+(5) Ha a gyámhatóság a családi pótlék természetbeni nyújtását rendeli el, a kincstár a gyámhatóság határozatában foglaltak szerint intézkedik az ellátásnak a természetbeni nyújtást elrendelő települési önkormányzat részére a kincstárban megnyitott családtámogatási folyószámlára utalásáról.
 
 (6) A családi pótlékot az elrendelést, illetve a megszüntetést követő második hónaptól kell természetben biztosítani, illetve pénzbeli formában folyósítani.
 
-(7) A felfüggesztett iskoláztatási támogatást a felfüggesztés elrendelését, illetve megszüntetését követő második hónaptól kell a családtámogatási folyószámlára, illetve a jogosult számára folyósítani.
+(7) Az iskoláztatási támogatás szüneteltetése esetén a kincstár – a (8) bekezdésben foglalt kivétellel – az iskoláztatási támogatás szüneteltetését elrendelő döntése jogerőre emelkedésének hónapját megelőző hónapra járó ellátást folyósítja utolsó alkalommal a jogosult részére.
 
-(8) A 15. § (1) bekezdés b) pont bb) alpontja szerinti esetben az iskoláztatási támogatás szüneteltetését a gyámhatóságként eljáró jegyző jelzésének beérkezését követő második hónap első napjától kell elrendelni.
+(8) Ha az iskoláztatási támogatás szüneteltetését elrendelő döntés jogerőre emelkedésének hónapja május, június vagy július, úgy a folyósítás szüneteltetése az augusztus hónapra járó ellátással indul.
+
+(9) Az iskoláztatási támogatás szüneteltetésének megszüntetése esetén az ellátást első alkalommal a gyámhatóság iskoláztatási támogatás szüneteltetésének megszüntetésére irányuló kezdeményezésének hónapjára kell ismételten folyósítani. Ebben az esetben a folyósításra visszamenőlegesen, a kincstárnak a szüneteltetést megszüntető döntése meghozatalát követően kerül sor.

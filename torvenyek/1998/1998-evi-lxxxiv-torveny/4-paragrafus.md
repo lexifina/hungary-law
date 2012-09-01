@@ -6,7 +6,7 @@ a) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált, házas
 
 b)
 
-c) tanköteles: a közoktatásról szóló 1993. évi LXXIX. törvény rendelkezése értelmében az a gyermek, akit az iskola igazgatója tankötelesnek nyilvánított;
+c)
 
 d) kereső tevékenység: munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, a Magyar Honvédség, rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenység, továbbá szövetkezet tagjaként vagy egyéni vállalkozóként, illetőleg társas vállalkozás vagy egyéni cég tagjaként folytatott – személyes közreműködést igénylő – tevékenység;
 
