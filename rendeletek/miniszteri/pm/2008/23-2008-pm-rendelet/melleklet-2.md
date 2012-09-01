@@ -1342,6 +1342,6 @@
 
 ## .................................
 
-2. számú melléklet a 23/2008. (VIII. 8.) PM rendelethez[^2]
+2. számú melléklet a 23/2008. (VIII. 8.) PM rendelethez[^6]
 
-[^2]: A 2. számú melléklet a 15/2009. (IX. 22.) PM rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 2. §-a alapján a 2009. szeptember 30. napján folyamatban lévő képzéseket a megkezdésükkor hatályos szakmai és vizsgakövetelmények alapján kell lefolytatni. A 2. számú melléklet a 21/2009. (X. 9.) PM rendelet 1. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 2. §-a alapján a rendelkezést a 15/2009. (IX. 22.) PM rendelet szerint indított szakképzések vonatkozásában is alkalmazni kell.
+[^6]: A 2. számú melléklet a 15/2009. (IX. 22.) PM rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 2. §-a alapján a 2009. szeptember 30. napján folyamatban lévő képzéseket a megkezdésükkor hatályos szakmai és vizsgakövetelmények alapján kell lefolytatni. A 2. számú melléklet a 21/2009. (X. 9.) PM rendelet 1. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 2. §-a alapján a rendelkezést a 15/2009. (IX. 22.) PM rendelet szerint indított szakképzések vonatkozásában is alkalmazni kell.

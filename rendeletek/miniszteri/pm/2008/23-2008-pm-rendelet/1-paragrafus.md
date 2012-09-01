@@ -22,7 +22,7 @@
 
 (12) A pénzügyi és számviteli szakellenőr szakképesítés elágazásainak szakmai és vizsgakövetelményeit a 12. számú melléklet szerint határozom meg.
 
-(13) A pénzügyi-számviteli ügyintéző szakképesítés szakmai és vizsgakövetelményeit a 13. számú melléklet szerint határozom meg.
+(13)[^2]
 
 (14) A pénzügyőr szakképesítés és ráépüléseinek szakmai és vizsgakövetelményeit a 14. számú melléklet szerint határozom meg.
 
@@ -30,8 +30,12 @@
 
 (16) Az üzleti szakügyintéző szakképesítés elágazásainak szakmai és vizsgakövetelményeit a 16. számú melléklet szerint határozom meg.
 
-(17) A vállalkozási ügyintéző szakképesítés szakmai és vizsgakövetelményeit a 17. számú melléklet szerint határozom meg.
+(17)[^3]
 
 (18) A valutapénztáros és valutaügyintéző szakképesítés és kifizetőhelyi pénztáros részszakképesítés szakmai és vizsgakövetelményeit a 18. számú melléklet szerint határozom meg.
 
-(19) A vám- és jövedéki ügyintéző szakképesítés elágazásainak szakmai és vizsgakövetelményeit a 19. számú melléklet szerint határozom meg.
+(19)[^4]
+
+[^2]: Az 1. § (13) bekezdését a 27/2012. (VIII. 12.) NGM rendelet 3. § (6) bekezdése hatályon kívül helyezte.
+[^3]: Az 1. § (17) bekezdését a 27/2012. (VIII. 12.) NGM rendelet 3. § (6) bekezdése hatályon kívül helyezte.
+[^4]: Az 1. § (19) bekezdését a 27/2012. (VIII. 12.) NGM rendelet 3. § (6) bekezdése hatályon kívül helyezte.

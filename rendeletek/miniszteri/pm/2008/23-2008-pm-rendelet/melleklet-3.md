@@ -1590,6 +1590,6 @@
 
 ## A szakmai vizsgán kizárólag a PM honlapján közzétett segédeszközök használhatóak.
 
-3. számú melléklet a 23/2008. (VIII. 8.) PM rendelethez[^3]
+3. számú melléklet a 23/2008. (VIII. 8.) PM rendelethez[^7]
 
-[^3]: A 3. számú melléklet a 15/2009. (IX. 22.) PM rendelet 1. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 2. §-a alapján a 2009. szeptember 30. napján folyamatban lévő képzéseket a megkezdésükkor hatályos szakmai és vizsgakövetelmények alapján kell lefolytatni. A 3. számú melléklet a 21/2009. (X. 9.) PM rendelet 1. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 2. §-a alapján a rendelkezést a 15/2009. (IX. 22.) PM rendelet szerint indított szakképzések vonatkozásában is alkalmazni kell.
+[^7]: A 3. számú melléklet a 15/2009. (IX. 22.) PM rendelet 1. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 2. §-a alapján a 2009. szeptember 30. napján folyamatban lévő képzéseket a megkezdésükkor hatályos szakmai és vizsgakövetelmények alapján kell lefolytatni. A 3. számú melléklet a 21/2009. (X. 9.) PM rendelet 1. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 2. §-a alapján a rendelkezést a 15/2009. (IX. 22.) PM rendelet szerint indított szakképzések vonatkozásában is alkalmazni kell.
