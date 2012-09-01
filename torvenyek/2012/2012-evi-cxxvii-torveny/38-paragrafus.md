@@ -2,19 +2,7 @@
 
 38. § (1) Praxisengedélyt kérelemre annak az állat-egészségügyi szolgáltatónak kell kiadni, amely rendelkezik az e törvény végrehajtására kiadott rendelet és a Kamara által előírt, a bejelentett szakmai tevékenységéhez szükséges felszereléssel, és az állat-egészségügyi intézményekre és egységekre vonatkozó szabályoknak megfelelő helyiséggel, valamint a tevékenység folytatásához az állat-egészségügyi szolgáltató szakmai munkáját irányító állatorvossal.
 
-(2) Gazdasági társaság vagy szövetkezet formájában működő állat-egészségügyi szolgáltató akkor jogosult praxisengedélyre, ha működése során a 34. § (2) bekezdésének a), b), d) vagy e) pontja alapján rendelkezik legalább egy
-
-a) 5 éves szakmai gyakorlattal rendelkező állatorvossal és
-
-b) olyan állatorvossal, aki rendelkezik
-
-ba) a Szent István Egyetem Állatorvos-tudományi Karán (vagy annak jogelődjén) megszerzett szakállatorvosi végzettséggel,
-
-bb) a Kamara specialistája végzettséggel,
-
-bc) legalább PhD tudományos fokozattal vagy
-
-bd) európai állatorvosi szakkollégiumi tagsággal.
+(2)
 
 (3) A vezetőség az állat-egészségügyi szolgáltató praxisengedély kiadása iránti kérelméről a beérkezését követő első ülésén, de legkésőbb a kérelem beérkezésétől számított harminc napon belül dönt. Ha a vezetőség a kérelemnek helyt ad, kiadja a praxisengedélyt. Ha az állat-egészségügyi szolgáltató gazdasági társaság vagy szövetkezet, a praxisengedély iránti kérelemben meg kell jelölni az állat-egészségügyi szolgáltató szakmai munkáját irányító felelős állatorvost, valamint azt az állatorvost, aki megfelel a (2) bekezdésben leírt feltételeknek, akiknek vonatkozásában a praxisengedélyben fel kell tüntetni az 5. § (1) bekezdés a)–d) pontja szerinti adatokat.
 
