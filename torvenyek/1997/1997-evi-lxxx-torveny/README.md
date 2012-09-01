@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-80-00-00
 | 2012-06-20 | 2012. évi LXIX. törvény | 1997-80-00-00.60 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 1997-80-00-00.61 |
 | 2012-07-26 | 2012. évi CXVIII. törvény | 1997-80-00-00.62 |
+| 2012-09-01 | 2012. évi CXXVII. törvény | 1997-80-00-00.63 |
