@@ -37,3 +37,5 @@ e) a szén-dioxid-tárolóhely üzemeltetőjének, valamint a szén-dioxid-szál
 (9c) A felügyeleti díj – legfeljebb a tárgyévre megállapított fizetési kötelezettség mértékéig – csökken a fizetésre kötelezett által a bányafelügyelet eljárásaiért a tárgyévben megfizetett igazgatási szolgáltatási díjak összegével.
 
 (10) A bányászati igazgatási feladatokat ellátó személyek részére igazolványt, a hatósági feladatokat ellátó személyek részére az igazolvánnyal azonos sorszámú szolgálati jelvényt kell biztosítani.
+
+(11) A bányafelügyelet a piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.
