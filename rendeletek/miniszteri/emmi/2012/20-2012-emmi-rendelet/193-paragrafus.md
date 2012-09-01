@@ -1,0 +1,37 @@
+## 80. Átmeneti rendelkezések
+
+193. § (1) Szakképző iskolában a közoktatási törvény szabályai szerint szervezett kifutó évfolyamokon az évfolyamok számozása a (2) bekezdésben foglaltak szerint történik.
+
+(2) Az első szakképzési évfolyam törtjel utáni kiegészítő számát a szakképzésbe való bekapcsolódás előfeltételeként meghatározott iskolai végzettség alapján kell meghatározni az alábbiak szerint: ha a szakképzésbe való bekapcsolódás
+
+a) iskolai előképzettséghez nem kötött, az első szakképzési évfolyam jelölése 1/8.,
+
+b) alapfokú iskolai végzettséghez kötött, az első szakképzési évfolyam jelölése 1/9.,
+
+c) a tizedik évfolyam elvégzéséhez kötött, az első szakképzési évfolyam jelölése 1/11.,
+
+d) a középiskola utolsó évfolyamának elvégzéséhez vagy középiskolai végzettséghez kötött, az első szakképzési évfolyam jelölése 1/13.
+
+(3) Az iskola azon évfolyamain, ahol a mindennapos testnevelés bevezetése még nem kötelező, a második–negyedik évfolyamon a helyi tantervbe évfolyamonként legalább heti három, a többi évfolyamán heti átlagban két és fél testnevelési órát be kell építeni. A helyi tantervbe – a nem kötelező tanórai foglalkozások időkeretének terhére – további egy vagy több testnevelés óra is beépíthető. A többlet testnevelés órákkal a közoktatási törvény 52. § (3) bekezdésében meghatározott tanulói kötelező tanórai foglalkozások száma megnövelhető. Ha az iskolában iskolaotthonos nevelés, oktatás folyik, a helyi tantervbe minden tanítási napra – a délelőtti vagy a délutáni tanítási időszakra – be kell építeni a testnevelés órát.
+
+(4) Az iskola a további felvételi, átvételi kérelmek teljesítésének, továbbá a tanulók osztályba vagy csoportba való beosztásának szempontjait, elveit, prioritásait 2012. december 31-ig rögzíti és fogadja el a pedagógiai programjában, az Nkt. 26. §-ában foglalt eljárásrendben.
+
+(5) A 135. § szerinti célnyelvi méréseket a két tanítási nyelvű általános iskolában a hivatal első ízben a 2013/2014. tanévben szervezi meg.
+
+(6) A 137. § rendelkezéseit először a 2012/2013. tanévben nyelvi előkészítő évfolyammal induló nevelésre-oktatásra kell alkalmazni.
+
+(7) A képesség-kibontakoztató felkészítést a 2012/2013. tanévet követően bevezető középfokú köznevelési intézmény felmenő rendszerben, a kilencedik évfolyamon szervezi meg először a képesség-kibontakoztató felkészítést. A képesség-kibontakoztató felkészítést a 2012/2013. tanévet követően bevezető alapfokú köznevelési intézmény felmenő rendszerben, első és ötödik évfolyamon szervezi meg először a képesség-kibontakoztató felkészítést. Az e bekezdésben foglaltak nem érintik a 2012/2013. tanévet megelőzően indított képesség-kibontakoztató felkészítés megszervezését és lebonyolítását.
+
+(8) A 134. §-ban foglalt rendelkezéseknek történő megfelelést a 2016/2017. tanévtől kezdve kell vizsgálni.
+
+(9) A 135. § (1) bekezdésben foglalt feltételeknek történő megfelelést a 2014/2015. tanévtől kezdve kell vizsgálni.
+
+(10) A 2015/2016. tanévtől nem indítható két tanítási nyelvű nevelés-oktatás abban a középiskolában, ahol a 136. § (1) bekezdésben foglalt feltételeket a 2015/2016. tanév kezdetéig nem teljesítik. Ezen intézményekben a két tanítási nyelvű oktatás felmenő rendszerben megszűnik.
+
+(11) A 2015/2016. tanévtől kezdve nyelvi előkészítő évfolyammal működő nevelés-oktatás csak abban a nevelési-oktatási intézményben szervezhető, amelyekben a képzés 2012. szeptember 1-jei indítását követő harmadik tanév végéig teljesítik a 137. § (1) bekezdésben előírt feltételeket.
+
+(12) A nevelési-oktatási intézmény a 2012/2013. tanévben csoportnaplóként és egyéb foglakozási naplóként a nevelési-oktatási intézmények működéséről szóló 11/1994. (VI. 8.) MKM rendelet (a továbbiakban: MKM rendelet) alapján alkalmazott nyomtatványt is használhatja.
+
+(13) A nevelési-oktatási intézmény a 2012/2013. tanévben megkezdett tanügyi nyomtatványokat az adott osztály, csoport vonatkozásában kifutó rendszerben tovább alkalmazhatja.
+
+(14) E rendelet hatálybalépésekor működő nevelési-oktatási intézmények esetében a fenntartónak, működtetőnek 2013. május 31-éig kell eleget tennie a 2. mellékletben meghatározott követelményeknek.

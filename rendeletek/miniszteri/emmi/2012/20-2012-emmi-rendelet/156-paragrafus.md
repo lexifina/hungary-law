@@ -1,0 +1,3 @@
+156. § (1) A szakértő egy pedagógus, intézményvezető ellenőrzéséért járó tiszteletdíja havi alapilletményének tizenöt százaléka. Intézményellenőrzés esetén a szakértő napidíja havi alapilletményének húsz százaléka. Nyugdíjas és nem pedagógusként alkalmazott szakértő esetén a pedagógus-munkakörben történő alkalmazásnak megfelelő besorolás szerinti pedagógusbért kell alapul venni.
+
+(2) A 155. § (7) bekezdése szerinti esetben a szakértő utazási és esetleges szállásköltségeit az ellenőrzés által érintett intézmény fenntartója biztosítja a szakértő által bemutatott számla ellenében. Egyéb esetben a szakértő költségtérítésre nem jogosult.

@@ -1,0 +1,1 @@
+## 97. § Az érettségi bizonyítvány, tanúsítvány és az érettségi vizsgát tanúsító törzslap, törzslapkivonat tartalmát és kiállításának módját az érettségi vizsga vizsgaszabályzatának kiadásáról szóló jogszabály határozza meg.

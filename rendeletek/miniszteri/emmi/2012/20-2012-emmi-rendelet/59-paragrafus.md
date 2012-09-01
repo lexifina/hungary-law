@@ -1,0 +1,3 @@
+59. § (1) Az elsőfokú határozat ellen a tanuló, kiskorú tanuló esetén pedig a szülő is nyújthat be fellebbezést. A fellebbezést a határozat kézhezvételétől számított tizenöt napon belül kell az elsőfokú fegyelmi jogkör gyakorlójához benyújtani.
+
+(2) A fegyelmi büntetést megállapító határozat ellen benyújtott kérelmet az elsőfokú fegyelmi jogkör gyakorlója a kérelem beérkezésétől számított nyolc napon belül köteles továbbítani a másodfokú fegyelmi jogkör gyakorlójához. A felterjesztéssel együtt az ügy valamennyi iratát továbbítani kell, az elsőfokú fegyelmi jogkör gyakorlójának az ügyre vonatkozó véleményével ellátva.

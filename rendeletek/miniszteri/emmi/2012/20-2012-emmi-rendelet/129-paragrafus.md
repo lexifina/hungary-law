@@ -1,0 +1,9 @@
+129. § (1) Az egészséges életmódra vonatkozó támogató intézményi munkarendben és házirendben előírt szabályok betartása az intézményben mindenki számára kötelező.
+
+(2) A nevelési-oktatási intézmény közreműködik a gyermekek, tanulók veszélyeztetettségének megelőzésében és megszüntetésében, ennek során tevékenyen együttműködik a gyermekjóléti szolgálattal, valamint a gyermekvédelmi rendszerhez kapcsolódó feladatot ellátó más személyekkel, intézményekkel és hatóságokkal.
+
+(3) Ha a nevelési-oktatási intézmény a gyermeket, tanulót veszélyeztető okokat pedagógiai eszközökkel nem tudja megszüntetni, vagy a gyermekközösség, a tanulóközösség védelme érdekében indokolt, megkeresi a gyermek- és ifjúságvédelmi szolgálatot vagy más, az ifjúságvédelem, területen működő szervezetet, hatóságot, amely javaslatot tesz további intézkedésekre.
+
+(4) A nevelési-oktatási intézményben, valamint a nevelési-oktatási intézményen kívül a gyermekek, tanulók részére szervezett rendezvényeken a népegészségügyi termékadóról szóló 2011. évi CIII. törvény hatálya alá tartozó, továbbá alkohol- és dohánytermék nem árusítható. A nevelési-oktatási intézményben, valamint a nevelési-oktatási intézményen kívül a gyermekek, tanulók részére szervezett rendezvényeken alkohol- és dohánytermék nem fogyasztható.
+
+(5) Az óvoda, az iskola, a kollégium SZMSZ-ében kell meghatározni azokat a védő, óvó előírásokat, amelyeket a gyermekeknek, tanulóknak az óvodában, az iskolában, a kollégiumban való tartózkodás során meg kell tartaniuk.

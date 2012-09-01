@@ -1,0 +1,7 @@
+## 47. A két tanítási nyelvű általános iskolai nevelés-oktatás feltételei
+
+135. § (1) Nyolc évfolyamos általános iskolai két tanítási nyelvű nevelés-oktatás abban az általános iskolában folytatható, amelyik három egymást követő tanév átlagában teljesíti azt a feltételt, hogy a nevelés-oktatásban részt vevő tanulók legalább hatvan százaléka megfelel a hivatal által szervezett, az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatásról és a külföldön kiállított, idegennyelv-tudást igazoló nyelvvizsga-bizonyítványok Magyarországon történő honosításáról szóló 137/2008. (V. 16.) Korm. rendelet 2. számú mellékletében meghatározott Közös Európai Referenciakeret (a továbbiakban: KER) szerinti A2, továbbá a KER szerinti B1 szintű nyelvtudást mérő célnyelvi mérésnek.
+
+(2) Az (1) bekezdésben meghatározott célnyelvi mérést a hivatal a tanév rendjéről szóló miniszteri rendeletben meghatározott időpontban szervezi meg azzal, hogy a KER szerinti A2 szintű nyelvtudást mérő célnyelvi mérést az ötödik évfolyamos, a KER szerinti B1 szintű nyelvtudást mérő célnyelvi mérést a nyolcadik évfolyamos tanulók bevonásával kell lebonyolítani az érintett iskolában.
+
+(3) A mérések eredményét az érintett iskola a hivatal által közzétett javítókulcsok alapján állapítja meg és az eredményeket idegen nyelvenként és évfolyamonként lebontva a honlapján teszi közzé, továbbá a hivatal által meghatározottak szerint elektronikus úton megküldi a hivatal részére.

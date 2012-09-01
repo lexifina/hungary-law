@@ -1,0 +1,7 @@
+## 145. § Az országos pedagógiai-szakmai ellenőrzés általános célja, hogy a nevelési-oktatási intézmények szakmai tevékenységét a pedagógusok munkájának általános pedagógiai szempontok alapján történő értékelésére, az intézményvezetők általános pedagógiai és vezetéselméleti szempontok szerint történő értékelésére és az intézmények saját céljainak megvalósulására alapozva értékelje, és ezzel az intézmény szakmai fejlődéséhez támogatást adjon.
+
+146. § (1) A nevelési-oktatási intézmény vezetője minden év augusztus 15-éig megküldi a megyei kormányhivatalnak a nevelési-oktatási intézményben alkalmazott pedagógusok névsorát és oktatási azonosító számát.
+
+(2) A kormányhivatal minden év május 31-éig a következő tanévre szóló megyei ellenőrzési tervet készít a hivatal által megadott szempontok alapján, amelyhez előzetesen kikéri a fenntartók véleményét. A megyei ellenőrzési tervet a nevelési-oktatási intézmények által beküldött adatoknak megfelelően felülvizsgálja, és szükség szerint augusztus 31-éig korrigálja. A tervet úgy állítja össze, hogy az legalább ötévente egyszer a megye minden intézményének minden pedagógusára kiterjedjen.
+
+(3) A kormányhivatal az ellenőrzés tervezett időpontja előtt tizenöt nappal elektronikus formában bekéri az ellenőrzéssel érintett intézmény vezetőjétől az intézményben alkalmazott pedagógusok órarendjét, ez alapján megtervezi az ellenőrzés menetét, és erről az ellenőrzést végző szakértőt értesíti.

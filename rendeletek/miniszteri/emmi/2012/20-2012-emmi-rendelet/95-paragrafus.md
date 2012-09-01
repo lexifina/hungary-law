@@ -1,0 +1,39 @@
+95. § (1) Az iskolába felvett tanulók iskolai nyilvántartására beírási naplót kell vezetni.
+
+(2) A beírási naplót az adott iskola kezdő évfolyamán kell megnyitni és folytatólagosan kell vezetni.
+
+(3) A beírási naplót az iskola vezetője által kijelölt – nem pedagógus-munkakörben foglalkoztatott – alkalmazott vezeti.
+
+(4) A tanulót akkor lehet a beírási naplóból törölni, ha a tanulói jogviszonya megszűnt. A törlést a megfelelő záradék bejegyzésével kell végrehajtani.
+
+(5) Ha az iskola beilleszkedési, tanulási, magatartási nehézséggel küzdő vagy sajátos nevelési igényű tanuló nevelését, oktatását is ellátja, a beírási naplóban fel kell tüntetni a szakvéleményt kiállító nevelési tanácsadói feladatot, a szakértői bizottsági feladatot ellátó intézmény, nevét, címét, a szakvélemény számát és kiállításának keltét, az elvégzett felülvizsgálatok, valamint a következő kötelező felülvizsgálat időpontját.
+
+(6) Az iskola az (5) bekezdésben meghatározott adatok alapján minden év június 30-áig megküldi az illetékes szakértői bizottsági feladatot ellátó intézmény részére azon tanulók nevét – a szakvéleményt kiállító intézmény és a szakvélemény számával együtt –, akiknek a felülvizsgálata a következő tanévben esedékes.
+
+(7) A beírási naplóban szerepeltetni kell azokat a tanulókat is, akik tankötelezettségüket külföldön teljesítik, továbbá azokat is, akik az iskolai kötelező tanórai foglalkozásokon való részvétel alól felmentést kaptak. Ennek tényét a határozat számával szerepeltetni kell a beírási napló megjegyzés rovatában.
+
+(8) A beírási naplóban fel kell tüntetni az iskola nevét, OM azonosítóját és címét, a megnyitás és lezárás időpontját, az igazgató aláírását, valamint papíralapú nyomtatvány esetén az iskola körbélyegzőjének lenyomatát is.
+
+(9) A beírási napló tartalmazza
+
+a) a tanuló
+
+aa) naplóbeli sorszámát,
+
+ab) felvételének időpontját,
+
+ac) nevét, oktatási azonosító számát, születési helyét és idejét, lakcímét, ennek hiányában tartózkodási helyét,
+
+ad) anyja születéskori nevét,
+
+ae) állampolgárságát,
+
+af) reggeli ügyeletre, napközire és étkezésre vonatkozó igényét az alapfokú művészeti iskola kivételével,
+
+ag) jogviszonya megszűnésének időpontját és okát, továbbá annak az intézménynek a nevét, ahová felvették vagy átvették,
+
+ah) évfolyamismétlésére vonatkozó adatokat,
+
+ai) sajátos nevelési igényére vonatkozó adatait,
+
+b) az egyéb megjegyzéseket.

@@ -1,0 +1,19 @@
+23. § (1) Az alapfokú művészeti iskolába külön jelentkezési lap benyújtásával kell jelentkezni. A felvételi eljárás rendjét az iskola igazgatója határozza meg. A beiratkozás időpontját a beiratkozás első határnapját megelőzően legalább harminc nappal korábban – a helyben szokásos módon – nyilvánosságra kell hozni.
+
+(2) Az alapfokú művészeti iskolában, ha az igazgató másképp nem rendelkezett, a jelentkező képességeit az iskola – adott művészeti ágnak megfelelő végzettségű és szakképzettségű – pedagógusaiból álló bizottság méri fel. A bizottság a jelentkezők képességeinek felmérése után javaslatot készít az igazgatónak a kérelem elbírálására, továbbá arra vonatkozóan, hogy melyik évfolyamra és tanszakra vegyék fel a jelentkezőt. Ha a tanuló az alapfokú művészeti iskola magasabb évfolyamára kéri felvételét, a jelentkezési lapján ezt fel kell tüntetnie. Kérelméről a bizottság különbözeti vizsga alapján dönt, az alapfokú művészetoktatás követelményeinek és tantervi programjának az adott évfolyamra meghatározott rendelkezései alapján.
+
+(3) Az iskola igazgatója a felvételi eljárásban a felvételről, átvételről tanulói jogviszonyt létesítő, vagy a kérelmet elutasító döntést hoz. Az iskola igazgatója köteles értesíteni a felvételi, átvételi kérelem elbírálásáról a szülőt a döntést megalapozó indokolással, a fellebbezésre vonatkozó tájékoztatással, továbbá átvétel esetén az előző iskola igazgatóját is. Az iskola igazgatója a felvételi, átvételi kérelem benyújtásával kapcsolatos ügyintézés, a határidő-számítás, a mulasztás elbírására és a kérelem benyújtásával kapcsolatos eljárás során a köznevelés rendszerében hozott döntésekkel kapcsolatos szabályok alapján jár el.
+
+(4) A kötelező felvételt biztosító iskola igazgatója a kormányhivataltól kapott nyilvántartás, a kijelölt iskola a megküldött szakértői vélemény vagy a kormányhivatal határozata alapján értesíti a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes kormányhivatalt, ha a gyermeket az iskolába nem íratták be.
+
+(5) Az iskola igazgatója értesíti a gyermek, tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes kormányhivatalt, ha olyan gyermeket, tanköteles tanulót vett fel vagy át, akinek lakóhelye, ennek hiányában tartózkodási helye nem a nevelési-oktatási intézmény székhelyén van.
+
+(6) A tanuló átvételére – a (7) bekezdésben meghatározott kivétellel – a tanítási év során bármikor lehetőség van. Az átvételi kérelemhez a 22. § (4) bekezdésében felsorolt iratokat kell mellékelni.
+
+(7) Ha az általános iskolai tanuló úgy kíván iskolát váltani, hogy az az iskolatípus változtatásával is jár, az átvételre a felvételre megállapított eljárás szerint kerülhet sor.
+
+(8) Az iskolába felvett gyermeket, tanulót – beleértve a magántanulót is – az iskola tartja nyilván. Az iskola a vele tanulói jogviszonyban álló és a 49. § (1)–(3) bekezdés szerint benyújtott kérelem alapján vendégtanulói jogviszony létesítésére engedélyt kapott tanulókról külön nyilvántartást vezet. Ha a tanköteles tanuló iskolát változtat, további nyilvántartása az átadó iskola értesítése alapján az átvevő iskola feladata. Az iskola nyilvántartásában marad az a tanköteles tanuló, aki iskolai tanulmányait külföldön folytatja. Az iskola kivezeti a nyilvántartásából azt a tanulót, akinek tanulói jogviszonya kérelmére a tankötelezettség megszűnését követően megszűnik.
+
+(9) Ha a tanköteles tanuló az általános iskola utolsó évfolyamának elvégzése után a középfokú iskolai felvételi eljárásban nem vett részt, az általános iskola igazgatója értesíti a tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes kormányhivatalt, amely gondoskodik a tanuló tankötelezettségének teljesítését biztosító nevelés-oktatásban történő részvételéről.
+
+(10) Ha a tanulót rendkívüli felvételi eljárás keretében vették fel az iskolába, a beiratkozásának időpontját az iskola igazgatója állapítja meg.
