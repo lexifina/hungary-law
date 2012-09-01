@@ -110,13 +110,7 @@
 
 |  |  | 52 | 522 | 02 | 0010 | 52 | 08 | Szakképesítés-elágazás: Erőművi reaktor karbantartó |  |
 
-| 13. | 91. | 54 | 544 | 01 |  |  |  | Bányaipari technikus | Gépészet szakmacsoport |
-
-|  |  | 54 | 544 | 01 | 0010 | 54 | 01 | Szakképesítés-elágazás: Geológiai technikus |  |
-
-|  |  | 54 | 544 | 01 | 0010 | 54 | 02 | Szakképesítés-elágazás: Külszíni bányaipari technikus |  |
-
-|  |  | 54 | 544 | 01 | 0010 | 54 | 03 | Szakképesítés-elágazás: Mélyművelési bányaipari technikus |  |
+| 13. |  |  |  |  |  |  |  |  |  |
 
 | 14. | 92. | 31 | 544 | 01 | 0000 | 00 | 00 | Bányászati gépkezelő | Gépészet szakmacsoport |
 
@@ -134,21 +128,7 @@
 
 |  |  | 52 | 522 | 05 | 0010 | 52 | 02 | Szakképesítés-elágazás: Megújuló energiaforrás energetikus |  |
 
-| 18. | 97. | 54 | 544 | 02 |  |  |  | Energiatermelő és -hasznosító technikus | Gépészet szakmacsoport |
-
-|  |  | 54 | 544 | 02 | 0010 | 54 | 01 | Szakképesítés-elágazás: Fluidumkitermelő technikus |  |
-
-|  |  | 54 | 544 | 02 | 0010 | 54 | 02 | Szakképesítés-elágazás: Gázipari technikus |  |
-
-|  |  | 54 | 544 | 02 | 0010 | 54 | 03 | Szakképesítés-elágazás: Megújulóenergia-gazdálkodási technikus |  |
-
-|  |  | 54 | 544 | 02 | 0010 | 54 | 04 | Szakképesítés-elágazás: Mélyfúró technikus |  |
-
-|  |  | 54 | 544 | 02 | 0100 | 31 | 01 | Részszakképesítés: Cső-távvezeték üzemeltető (olaj, gáz) |  |
-
-|  |  | 54 | 544 | 02 | 0100 | 31 | 02 | Részszakképesítés: Fluidumkitermelő |  |
-
-|  |  | 54 | 544 | 02 | 0100 | 31 | 03 | Részszakképesítés: Mélyfúró |  |
+| 18. |  |  |  |  |  |  |  |  |  |
 
 | 19. | 98. | 54 | 525 | 01 | 0000 | 00 | 00 | Építő- és anyagmozgató-gépész technikus | Gépészet szakmacsoport |
 
@@ -156,25 +136,17 @@
 
 | 20. | 99. | 31 | 521 | 03 | 0000 | 00 | 00 | Építő- és szállítógép-szerelő | Gépészet szakmacsoport |
 
-| 21. | 100. | 54 | 582 | 06 |  |  |  | Épületgépészeti technikus | Gépészet szakmacsoport |
-
-|  |  | 54 | 582 | 06 | 0010 | 54 | 01 | Szakképesítés-elágazás: Épületgépész technikus |  |
-
-|  |  | 54 | 582 | 06 | 0010 | 54 | 02 | Szakképesítés-elágazás: Hűtő-klíma technikus |  |
+| 21. |  |  |  |  |  |  |  |  |  |
 
 | 22. |  |  |  |  |  |  |  |  |  |
 
-| 23. | 102. | 31 | 582 | 10 | 1000 | 00 | 00 | Épületlakatos | Gépészet szakmacsoport |
-
-|  |  | 31 | 582 | 10 | 0100 | 31 | 01 | Részszakképesítés: Épületmechanikai szerelő |  |
+| 23. |  |  |  |  |  |  |  |  |  |
 
 | 24. | 104. | 52 | 522 | 06 | 0000 | 00 | 00 | Erőművi kazángépész | Gépészet szakmacsoport |
 
 | 25. | 105. | 52 | 522 | 07 | 0000 | 00 | 00 | Erőművi turbinagépész | Gépészet szakmacsoport |
 
-| 26. | 106. | 31 | 863 | 01 | 0000 | 00 | 00 | Fegyverműszerész | Gépészet szakmacsoport |
-
-|  |  | 31 | 863 | 01 | 0001 | 33 | 01 | Szakképesítés-ráépülés: Vadászpuska műves |  |
+| 26. |  |  |  |  |  |  |  |  |  |
 
 | 27. | 108. | 33 | 521 | 03 | 0000 | 00 | 00 | Felvonószerelő | Gépészet szakmacsoport |
 
@@ -198,59 +170,21 @@
 
 | 29. | 110. | 31 | 521 | 06 | 0000 | 00 | 00 | Finommechanikai gépkarbantartó, gépbeállító | Gépészet szakmacsoport |
 
-| 30. | 111. | 31 | 521 | 07 | 1000 | 00 | 00 | Finommechanikai műszerész | Gépészet szakmacsoport |
-
-|  |  | 31 | 521 | 07 | 0100 | 31 | 01 | Részszakképesítés: Mérlegműszerész |  |
-
-|  |  | 31 | 521 | 07 | 0100 | 31 | 02 | Részszakképesítés: Orvosi műszerész |  |
+| 30. |  |  |  |  |  |  |  |  |  |
 
 | 31. |  |  |  |  |  |  |  |  |  |
 
-| 32. | 113. | 54 | 521 | 01 | 0000 | 00 | 00 | Gépgyártástechnológiai technikus | Gépészet szakmacsoport |
+| 32. |  |  |  |  |  |  |  |  |  |
 
-| 33. | 114. | 31 | 521 | 08 |  |  |  | Gépgyártósori gépkezelő, gépszerelő | Gépészet szakmacsoport |
+| 33. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 31 | 521 | 08 | 0010 | 31 | 01 | Szakképesítés-elágazás: Autógyártó |  |
-
-|  |  | 31 | 521 | 08 | 0010 | 31 | 02 | Szakképesítés-elágazás: Háztartási gépgyártó |  |
-
-|  |  | 31 | 521 | 08 | 0100 | 31 | 01 | Részszakképesítés: Finomgyártósori gépkezelő, gépszerelő |  |
-
-|  |  | 31 | 521 | 08 | 0100 | 21 | 01 | Részszakképesítés: Gépi felületelőkészítő és- tisztító |  |
-
-|  |  | 31 | 521 | 08 | 0100 | 21 | 02 | Részszakképesítés: Gyártósori munkás |  |
-
-|  |  | 31 | 521 | 08 | 0100 | 21 | 03 | Részszakképesítés: Iparitermék-bontó |  |
-
-|  |  | 31 | 521 | 08 | 0100 | 31 | 02 | Részszakképesítés: Kézigépes megmunkáló |  |
-
-| 34. | 115. | 31 | 521 | 09 | 1000 | 00 | 00 | Gépi forgácsoló | Gépészet szakmacsoport |
-
-|  |  | 31 | 521 | 09 | 0001 | 31 | 01 | Szakképesítés-ráépülés: Esztergályos |  |
-
-|  |  | 31 | 521 | 09 | 0001 | 31 | 02 | Szakképesítés-ráépülés: Köszörűs |  |
-
-|  |  | 31 | 521 | 09 | 0001 | 31 | 03 | Szakképesítés-ráépülés: Marós |  |
+| 34. |  |  |  |  |  |  |  |  |  |
 
 | 35. | 116. | 54 | 520 | 01 | 0000 | 00 | 00 | Gépipari minőségellenőr | Gépészet szakmacsoport |
 
-| 36. | 117. | 31 | 521 | 10 | 1000 | 00 | 00 | Géplakatos | Gépészet szakmacsoport |
+| 36. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 31 | 521 | 10 | 0100 | 31 | 01 | Részszakképesítés: Gépbeállító |  |
-
-| 37. | 118. | 31 | 521 | 11 | 1000 | 00 | 00 | Hegesztő | Gépészet szakmacsoport |
-
-|  |  | 31 | 521 | 11 | 0100 | 31 | 01 | Részszakképesítés: Bevontelektródás kézi ívhegesztő |  |
-
-|  |  | 31 | 521 | 11 | 0100 | 31 | 02 | Részszakképesítés: Egyéb eljárás szerinti hegesztő |  |
-
-|  |  | 31 | 521 | 11 | 0100 | 31 | 03 | Részszakképesítés: Fogyóelektródás védőgázas ívhegesztő |  |
-
-|  |  | 31 | 521 | 11 | 0100 | 31 | 04 | Részszakképesítés: Gázhegesztő |  |
-
-|  |  | 31 | 521 | 11 | 0100 | 31 | 05 | Részszakképesítés: Hegesztő-vágó gép kezelője |  |
-
-|  |  | 31 | 521 | 11 | 0100 | 31 | 06 | Részszakképesítés: Volfrámelektródás védőgázas ívhegesztő |  |
+| 37. |  |  |  |  |  |  |  |  |  |
 
 | 38. | 119. | 31 | 521 | 12 | 0000 | 00 | 00 | Hőkezelő | Gépészet szakmacsoport |
 
@@ -328,13 +262,7 @@
 
 | 48. |  |  |  |  |  |  |  |  |  |
 
-| 49. | 131. | 54 | 521 | 03 |  |  |  | Melegüzemi technikus | Gépészet szakmacsoport |
-
-|  |  | 54 | 521 | 03 | 0010 | 54 | 01 | Szakképesítés-elágazás: Öntőtechnikus |  |
-
-|  |  | 54 | 521 | 03 | 0010 | 54 | 02 | Szakképesítés-elágazás: Színesfémkohászati technikus |  |
-
-|  |  | 54 | 521 | 03 | 0010 | 54 | 03 | Szakképesítés-elágazás: Vaskohászati technikus |  |
+| 49. |  |  |  |  |  |  |  |  |  |
 
 | 50. | 133. | 52 | 520 | 01 | 0000 | 00 | 00 | Műszaki termékminősítő | Gépészet szakmacsoport |
 
@@ -344,7 +272,7 @@
 
 | 52. | 135. | 52 | 725 | 03 | 0000 | 00 | 00 | Optikai műszerész | Gépészet szakmacsoport |
 
-| 53. | 136. | 31 | 725 | 01 | 0000 | 00 | 00 | Optikai üvegcsiszoló | Gépészet szakmacsoport |
+| 53. |  |  |  |  |  |  |  |  |  |
 
 | 54. | 137. | 31 | 521 | 22 | 0000 | 00 | 00 | Öntészeti mintakészítő | Gépészet szakmacsoport |
 
@@ -366,13 +294,9 @@
 
 |  |  | 52 | 544 | 01 | 0100 | 52 | 01 | Részszakképesítés: Pirotechnikus (a szakirány megjelölésével) |  |
 
-| 57. | 140. | 31 | 521 | 24 | 1000 | 00 | 00 | Szerkezetlakatos | Gépészet szakmacsoport |
+| 57. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 31 | 521 | 24 | 0100 | 31 | 01 | Részszakképesítés: Lemezlakatos |  |
-
-| 58. | 141. | 33 | 521 | 08 | 1000 | 00 | 00 | Szerszámkészítő | Gépészet szakmacsoport |
-
-|  |  | 33 | 521 | 08 | 0100 | 31 | 01 | Részszakképesítés: Szikraforgácsoló |  |
+| 58. |  |  |  |  |  |  |  |  |  |
 
 | 59. | 142. | 31 | 521 | 25 | 1000 | 00 | 00 | Színesfém-feldolgozó | Gépészet szakmacsoport |
 
@@ -400,25 +324,19 @@
 
 | 64. |  |  |  |  |  |  |  |  |  |
 
-| 65. | 148. | 54 | 523 | 04 | 1000 | 00 | 00 | Automatikai technikus | Elektrotechnika-elektronika szakmacsoport |
-
-|  |  | 54 | 523 | 04 | 0100 | 52 | 01 | Részszakképesítés: PLC programozó |  |
+| 65. |  |  |  |  |  |  |  |  |  |
 
 | 66. | 149. | 31 | 544 | 02 | 1000 | 00 | 00 | Elektrolakatos és villamossági szerelő | Elektrotechnika-elektronika szakmacsoport |
 
-| 67. | 150. | 33 | 521 | 01 | 1000 | 00 | 00 | Elektromechanikai műszerész | Elektrotechnika-elektronika szakmacsoport |
+| 67. |  |  |  |  |  |  |  |  |  |
 
-| 68. | 151. | 31 | 522 | 01 | 1000 | 00 | 00 | Elektromos gép- és készülékszerelő | Elektrotechnika-elektronika szakmacsoport |
+| 68. |  |  |  |  |  |  |  |  |  |
 
-| 69. | 152. | 31 | 522 | 05 | 1000 | 00 | 00 | Elektronikai műszerész | Elektrotechnika-elektronika szakmacsoport |
+| 69. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 31 | 522 | 05 | 0100 | 31 | 01 | Részszakképesítés: Elektronikai gyártósori műszerész |  |
+| 70. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 31 | 522 | 05 | 0001 | 33 | 01 | Szakképesítés-ráépülés: Audió- és vizuáltechnikai műszerész |  |
-
-| 70. | 153. | 54 | 523 | 01 | 0000 | 00 | 00 | Elektronikai technikus | Elektrotechnika-elektronika szakmacsoport |
-
-| 71. | 154. | 54 | 522 | 01 | 1000 | 00 | 00 | Erősáramú elektrotechnikus | Elektrotechnika-elektronika szakmacsoport |
+| 71. |  |  |  |  |  |  |  |  |  |
 
 | 72. | 155. | 31 | 521 | 14 | 0000 | 00 | 00 | Kereskedelmi, háztartási és vendéglátóipari gépszerelő | Elektrotechnika-elektronika szakmacsoport |
 
@@ -432,7 +350,7 @@
 
 | 74. | 157. | 51 | 521 | 01 | 0000 | 00 | 00 | Másoló- és irodagép műszerész | Elektrotechnika-elektronika szakmacsoport |
 
-| 75. | 158. | 54 | 523 | 05 | 1000 | 00 | 00 | Mechatronikai technikus | Elektrotechnika-elektronika szakmacsoport |
+| 75. |  |  |  |  |  |  |  |  |  |
 
 | 76. | 159. | 33 | 521 | 07 | 0000 | 00 | 00 | Órás | Elektrotechnika-elektronika szakmacsoport |
 
@@ -442,125 +360,31 @@
 
 | 78. |  |  |  |  |  |  |  |  |  |
 
-| 79. | 165. | 33 | 522 | 04 | 1000 | 00 | 00 | Villanyszerelő | Elektrotechnika-elektronika szakmacsoport |
-
-|  |  | 33 | 522 | 04 | 0001 | 33 | 02 | Szakképesítés-ráépülés: Erősáramú berendezések felülvizsgálója |  |
-
-|  |  | 33 | 522 | 04 | 0001 | 33 | 01 | Szakképesítés-ráépülés: Érintésvédelmi szabványossági felülvizsgáló |  |
-
-|  |  | 33 | 522 | 04 | 0001 | 33 | 11 | Szakképesítés-ráépülés: Kisfeszültségű csatlakozó- és közvilágítási FAM szerelő |  |
-
-|  |  | 33 | 522 | 04 | 0001 | 33 | 12 | Szakképesítés-ráépülés: Kisfeszültségű FAM kábelszerelő |  |
-
-|  |  | 33 | 522 | 04 | 0001 | 33 | 13 | Szakképesítés-ráépülés: Kisfeszültségű kábelszerelő |  |
-
-|  |  | 33 | 522 | 04 | 0001 | 33 | 14 | Szakképesítés-ráépülés: Kisfeszültségű mérőhelyi FAM szerelő |  |
-
-|  |  | 33 | 522 | 04 | 0001 | 33 | 15 | Szakképesítés-ráépülés: Kisfeszültségű szabadvezeték hálózati FAM szerelő |  |
-
-|  |  | 33 | 522 | 04 | 0001 | 33 | 16 | Szakképesítés-ráépülés: Középfeszültségű FAM szerelő |  |
-
-|  |  | 33 | 522 | 04 | 0001 | 33 | 17 | Szakképesítés-ráépülés: Középfeszültségű kábel szerelő |  |
-
-|  |  | 33 | 522 | 04 | 0001 | 33 | 06 | Szakképesítés-ráépülés: Szakszolgálati FAM szerelő |  |
-
-|  |  | 33 | 522 | 04 | 0001 | 33 | 18 | Szakképesítés-ráépülés: Villamos alállomás kezelő |  |
-
-|  |  | 33 | 522 | 04 | 0001 | 33 | 19 | Szakképesítés-ráépülés: Villamos elosztóhálózat szerelő, üzemeltető |  |
-
-|  |  | 33 | 522 | 04 | 0001 | 33 | 07 | Szakképesítés-ráépülés: Villamos gép és -készülék üzemeltető |  |
-
-|  |  | 33 | 522 | 04 | 0001 | 33 | 20 | Szakképesítés-ráépülés: Villamos hálózat kezelő |  |
-
-|  |  | 33 | 522 | 04 | 0001 | 33 | 21 | Szakképesítés-ráépülés: Villamos távvezeték építő, üzemeltető |  |
-
-|  |  | 33 | 522 | 04 | 0001 | 33 | 10 | Szakképesítés-ráépülés: Villámvédelmi felülvizsgáló |  |
+| 79. |  |  |  |  |  |  |  |  |  |
 
 | 80. | 178. | 52 | 522 | 03 | 0000 | 00 | 00 | Dozimetrikus | Vegyipar szakmacsoport |
 
 | 81. | 179. | 55 | 524 | 01 | 0000 | 00 | 00 | Farmakológus szakasszisztens | Vegyipar szakmacsoport |
 
-| 82. | 180. | 33 | 543 | 02 |  |  |  | Gumiipari technológus | Vegyipar szakmacsoport |
-
-|  |  | 33 | 543 | 02 | 0100 | 31 | 01 | Részszakképesítés: Gumikeverék-készítő |  |
-
-|  |  | 33 | 543 | 02 | 0010 | 33 | 01 | Szakképesítés-elágazás: Abroncsgyártó |  |
-
-|  |  | 33 | 543 | 02 | 0010 | 33 | 02 | Szakképesítés-elágazás: Formacikk-gyártó |  |
-
-|  |  | 33 | 543 | 02 | 0010 | 33 | 03 | Szakképesítés-elágazás: Ipari gumitermék előállító |  |
-
-|  |  | 33 | 543 | 02 | 0001 | 52 | 01 | Szakképesítés-ráépülés: Gumiipari technikus (a szakirány megnevezésével) |  |
+| 82. |  |  |  |  |  |  |  |  |  |
 
 | 83. | 181. | 52 | 524 | 01 | 0000 | 00 | 00 | Kőolaj- és vegyipari géprendszer üzemeltetője | Vegyipar szakmacsoport |
 
 |  |  | 52 | 524 | 01 | 0100 | 31 | 01 | Részszakképesítés: Nyomástartóedény-gépész |  |
 
-| 84. | 182. | 54 | 524 | 01 |  |  |  | Laboratóriumi technikus | Vegyipar szakmacsoport |
+| 84. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 54 | 524 | 01 | 0010 | 54 | 01 | Szakképesítés-elágazás: Általános vegyipari laboratóriumi technikus |  |
-
-|  |  | 54 | 524 | 01 | 0010 | 54 | 02 | Szakképesítés-elágazás: Drog és toxikológiai laboratóriumi technikus |  |
-
-|  |  | 54 | 524 | 01 | 0010 | 54 | 03 | Szakképesítés-elágazás: Élelmiszerminősítő laboratóriumi technikus |  |
-
-|  |  | 54 | 524 | 01 | 0010 | 54 | 04 | Szakképesítés-elágazás: Gyógyszeripari laboratóriumi technikus |  |
-
-|  |  | 54 | 524 | 01 | 0010 | 54 | 05 | Szakképesítés-elágazás: Környezetvédelmi és vízminőségi laboratóriumi technikus |  |
-
-|  |  | 54 | 524 | 01 | 0010 | 54 | 06 | Szakképesítés-elágazás: Mezőgazdasági laboratóriumi technikus |  |
-
-|  |  | 54 | 524 | 01 | 0100 | 31 | 01 | Részszakképesítés: Általános laboráns |  |
-
-|  |  | 54 | 524 | 01 | 0100 | 31 | 02 | Részszakképesítés: Élelmiszeripari laboráns |  |
-
-|  |  | 54 | 524 | 01 | 0100 | 31 | 03 | Részszakképesítés: Élelmiszeripari mikrobiológiai laboráns |  |
-
-|  |  | 54 | 524 | 01 | 0001 | 54 | 01 | Szakképesítés-ráépülés: Farmakológus |  |
-
-|  |  | 54 | 524 | 01 | 0001 | 54 | 02 | Szakképesítés-ráépülés: Gombatoxikológus |  |
-
-| 85. | 183. | 52 | 521 | 02 | 0000 | 00 | 00 | Műanyag-feldolgozó | Vegyipar szakmacsoport |
-
-|  |  | 52 | 521 | 02 | 0100 | 31 | 01 | Részszakképesítés: Egyéb műanyagtermék gyártó |  |
-
-|  |  | 52 | 521 | 02 | 0100 | 31 | 02 | Részszakképesítés: Fröccsöntőgép-kezelő |  |
-
-|  |  | 52 | 521 | 02 | 0100 | 31 | 03 | Részszakképesítés: Hőre keményedő műanyagok feldolgozója |  |
-
-|  |  | 52 | 521 | 02 | 0100 | 31 | 04 | Részszakképesítés: Műanyag hegesztő, hőformázó |  |
-
-|  |  | 52 | 521 | 02 | 0100 | 31 | 05 | Részszakképesítés: Műanyagextruder-kezelő |  |
+| 85. |  |  |  |  |  |  |  |  |  |
 
 | 86. | 184. | 31 | 543 | 07 | 0000 | 00 | 00 | Papírgyártó és –feldolgozó | Vegyipar szakmacsoport |
 
 |  |  | 31 | 543 | 07 | 0100 | 31 | 01 | Részszakképesítés: Papíripari alapanyaggyártó |  |
 
-| 87. | 185. | 54 | 524 | 02 | 1000 | 00 | 00 | Vegyipari technikus | Vegyipar szakmacsoport |
+| 87. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 54 | 524 | 02 | 0100 | 33 | 01 | Részszakképesítés: Gyógyszer-készítménygyártó |  |
+| 88. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 54 | 524 | 02 | 0100 | 33 | 02 | Részszakképesítés: Vegyianyaggyártó |  |
-
-|  |  | 54 | 524 | 02 | 0001 | 54 | 01 | Szakképesítés-ráépülés: Biotechnológus technikus |  |
-
-|  |  | 54 | 524 | 02 | 0001 | 54 | 02 | Szakképesítés-ráépülés: Drog- és toxikológiai technikus |  |
-
-|  |  | 54 | 524 | 02 | 0001 | 54 | 03 | Szakképesítés-ráépülés: Papíripari technikus |  |
-
-|  |  | 54 | 524 | 02 | 0001 | 54 | 04 | Szakképesítés-ráépülés: Vegyipari minőségbiztosítási technikus |  |
-
-| 88. | 186. | 55 | 524 | 02 |  |  |  | Vegyipari technológus | Vegyipar szakmacsoport |
-
-|  |  | 55 | 524 | 02 | 0010 | 55 | 01 | Szakképesítés-elágazás: Felületvédelmi technológus |  |
-
-|  |  | 55 | 524 | 02 | 0010 | 55 | 02 | Szakképesítés-elágazás: Vegyipari méréstechnológus |  |
-
-| 98. | 198. | 31 | 582 | 07 |  |  |  | Bádogos | Építészet |
-
-|  |  | 31 | 582 | 07 | 0010 | 31 | 01 | Szakképesítés-elágazás: Épület- és építmény bádogos |  |
-
-|  |  | 31 | 582 | 07 | 0010 | 31 | 02 | Szakképesítés-elágazás: Ipari szigetelő-bádogos |  |
+| 89. |  |  |  |  |  |  |  |  |  |
 
 | 90. |  |  |  |  |  |  |  |  |  |
 
@@ -592,27 +416,9 @@
 
 |  |  | 54 | 543 | 01 | 0001 | 54 | 01 | Szakképesítés-ráépülés: Építőanyagipari minőségellenőr |  |
 
-| 98. | 198. | 31 | 582 | 07 |  |  |  | Bádogos | Építészet szakmacsoport |
+| 98. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 31 | 582 | 07 | 0010 | 31 | 01 | Szakképesítés-elágazás: Épület- és építménybádogos |  |
-
-|  |  | 31 | 582 | 07 | 0010 | 31 | 02 | Szakképesítés-elágazás: Ipari szigetelő-bádogos |  |
-
-|  |  | 31 | 582 | 07 | 0001 | 31 | 01 | Szakképesítés-ráépülés: Díszműbádogos |  |
-
-| 99. | 199. | 33 | 582 | 04 | 1000 | 00 | 00 | Festő, díszítő, mázoló és tapétázó | Építészet szakmacsoport |
-
-|  |  | 33 | 582 | 04 | 0100 | 31 | 03 | Részszakképesítés: Díszítő |  |
-
-|  |  | 33 | 582 | 04 | 0100 | 21 | 01 | Részszakképesítés: Mázoló, lakkozó |  |
-
-|  |  | 33 | 582 | 04 | 0100 | 21 | 02 | Részszakképesítés: Plakátragasztó |  |
-
-|  |  | 33 | 582 | 04 | 0100 | 31 | 01 | Részszakképesítés: Szobafestő |  |
-
-|  |  | 33 | 582 | 04 | 0100 | 31 | 02 | Részszakképesítés: Tapétázó |  |
-
-|  |  | 33 | 582 | 04 | 0001 | 33 | 01 | Szakképesítés-ráépülés: Műemléki díszítő, festő |  |
+| 99. |  |  |  |  |  |  |  |  |  |
 
 | 100. | 200. | 31 | 543 | 01 | 0000 | 00 | 00 | Finomkerámiagyártó gép kezelője | Építészet szakmacsoport |
 
@@ -624,29 +430,19 @@
 
 | 102. | 202. | 31 | 582 | 12 | 0000 | 00 | 00 | Ipari alpinista | Építészet szakmacsoport |
 
-| 103. | 203. | 31 | 582 | 13 | 0000 | 00 | 00 | Kályhás | Építészet szakmacsoport |
+| 103. |  |  |  |  |  |  |  |  |  |
 
 | 104. | 204. | 31 | 521 | 13 | 0000 | 00 | 00 | Kemencekezelő, -égető | Építészet szakmacsoport |
 
 | 105. | 205. | 54 | 521 | 02 | 0000 | 00 | 00 | Korrózióvédelmi technikus | Építészet szakmacsoport |
 
-| 106. | 206. | 31 | 582 | 14 | 0000 | 00 | 00 | Kőfaragó, műköves és épületszobrász | Építészet szakmacsoport |
+| 106. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 31 | 582 | 14 | 0100 | 31 | 01 | Részszakképesítés: Kőfaragó, épületszobrász |  |
+| 107. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 31 | 582 | 14 | 0100 | 31 | 02 | Részszakképesítés: Műkőkészítő |  |
+| 108. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 31 | 582 | 14 | 0100 | 31 | 03 | Részszakképesítés: Sírkőkészítő |  |
-
-|  |  | 31 | 582 | 14 | 0001 | 33 | 01 | Szakképesítés-ráépülés: Műemléki díszítőszobrász |  |
-
-| 107. | 207. | 31 | 582 | 15 | 1000 | 00 | 00 | Kőműves | Építészet szakmacsoport |
-
-|  |  | 31 | 582 | 15 | 0001 | 33 | 01 | Szakképesítés-ráépülés: Műemléki helyreállító |  |
-
-| 108. | 208. | 54 | 582 | 03 | 1000 | 00 | 00 | Magasépítő technikus | Építészet szakmacsoport |
-
-| 109. | 209. | 54 | 582 | 04 | 1000 | 00 | 00 | Mélyépítő technikus | Építészet szakmacsoport |
+| 109. |  |  |  |  |  |  |  |  |  |
 
 | 110. | 210. | 31 | 543 | 06 | 0000 | 00 | 00 | Mész- és cementterméket gyártó gép kezelője | Építészet szakmacsoport |
 
@@ -662,17 +458,9 @@
 
 |  |  | 31 | 543 | 10 | 0100 | 31 | 02 | Részszakképesítés: Üvegipari gépkezelő |  |
 
-| 114. | 218. | 33 | 542 | 01 | 1000 | 00 | 00 | Bőrdíszműves | Könnyűipar szakmacsoport |
+| 114. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 33 | 542 | 01 | 0100 | 21 | 01 | Részszakképesítés: Táskajavító |  |
-
-| 115. | 219. | 33 | 542 | 02 | 1000 | 00 | 00 | Cipész, cipőkészítő, cipőjavító | Könnyűipar szakmacsoport |
-
-|  |  | 33 | 542 | 02 | 0100 | 31 | 01 | Részszakképesítés: Cipőfelsőrész-készítő |  |
-
-|  |  | 33 | 542 | 02 | 0100 | 21 | 01 | Részszakképesítés: Cipőösszeállító |  |
-
-|  |  | 33 | 542 | 02 | 0001 | 33 | 01 | Szakképesítés-ráépülés: Ortopédiai cipész |  |
+| 115. |  |  |  |  |  |  |  |  |  |
 
 | 116. | 220. | 33 | 542 | 03 | 0000 | 00 | 00 | Fonó, kötő és nemszőtt-termék gyártó | Könnyűipar szakmacsoport |
 
@@ -698,35 +486,11 @@
 
 |  |  | 33 | 521 | 05 | 0100 | 21 | 03 | Részszakképesítés: Szőr- és tollfeldolgozó |  |
 
-| 119. | 223. | 54 | 542 | 01 |  |  |  | Könnyűipari technikus | Könnyűipar szakmacsoport |
-
-|  |  | 54 | 542 | 01 | 0010 | 54 | 01 | Szakképesítés-elágazás: Bőrfeldolgozó-ipari technikus |  |
-
-|  |  | 54 | 542 | 01 | 0010 | 54 | 02 | Szakképesítés-elágazás: Ruhaipari technikus |  |
-
-|  |  | 54 | 542 | 01 | 0010 | 54 | 03 | Szakképesítés-elágazás: Textilipari technikus |  |
+| 119. |  |  |  |  |  |  |  |  |  |
 
 | 120. | 224. | 51 | 542 | 02 | 0000 | 00 | 00 | Szabász | Könnyűipar szakmacsoport |
 
-| 121. | 225. | 33 | 542 | 05 |  |  |  | Szabó | Könnyűipar szakmacsoport |
-
-|  |  | 33 | 542 | 05 | 0010 | 33 | 01 | Szakképesítés-elágazás: Csecsemő- és gyermekruha-készítő |  |
-
-|  |  | 33 | 542 | 05 | 0010 | 33 | 04 | Szakképesítés-elágazás: Fehérnemű-készítő |  |
-
-|  |  | 33 | 542 | 05 | 0010 | 33 | 02 | Szakképesítés-elágazás: Férfiszabó |  |
-
-|  |  | 33 | 542 | 05 | 0010 | 33 | 03 | Szakképesítés-elágazás: Női szabó |  |
-
-|  |  | 33 | 542 | 05 | 0100 | 21 | 02 | Részszakképesítés: Lakástextil-készítő |  |
-
-|  |  | 33 | 542 | 05 | 0100 | 21 | 03 | Részszakképesítés: Munkaruha- és védőruha-készítő |  |
-
-|  |  | 33 | 542 | 05 | 0100 | 21 | 04 | Részszakképesítés: Textiltermék-összeállító |  |
-
-|  |  | 33 | 542 | 05 | 0001 | 33 | 01 | Szakképesítés-ráépülés: Férfi alkalmi- és korhű ruhakészítő |  |
-
-|  |  | 33 | 542 | 05 | 0001 | 33 | 02 | Szakképesítés-ráépülés: Női alkalmi- és korhű ruhakészítő |  |
+| 121. |  |  |  |  |  |  |  |  |  |
 
 | 122. | 226. | 31 | 542 | 02 | 1000 | 00 | 00 | Szíjgyártó és nyerges | Könnyűipar szakmacsoport |
 
@@ -748,27 +512,11 @@
 
 | 127. | 231. | 33 | 814 | 02 | 0000 | 00 | 00 | Vegytisztító, kelmefestő, mosodás | Könnyűipar szakmacsoport |
 
-| 128. | 232. | 33 | 543 | 01 | 1000 | 00 | 00 | Bútorasztalos | Faipar szakmacsoport |
+| 128. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 33 | 543 | 01 | 0100 | 31 | 03 | Részszakképesítés: Asztalosipari gépkezelő |  |
+| 129. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 33 | 543 | 01 | 0100 | 21 | 01 | Részszakképesítés: Asztalosipari szerelő |  |
-
-|  |  | 33 | 543 | 01 | 0100 | 21 | 03 | Részszakképesítés: Faipari alapmegmunkáló |  |
-
-|  |  | 33 | 543 | 01 | 0001 | 33 | 01 | Szakképesítés-ráépülés: Műbútorasztalos |  |
-
-| 129. | 233. | 31 | 582 | 08 | 1000 | 00 | 00 | Épületasztalos | Faipar szakmacsoport |
-
-|  |  | 31 | 582 | 08 | 0100 | 31 | 01 | Részszakképesítés: Famegmunkáló |  |
-
-|  |  | 31 | 582 | 08 | 0100 | 21 | 01 | Részszakképesítés: Fűrészipari gépkezelő |  |
-
-| 130. | 234. | 54 | 543 | 02 |  |  |  | Fa- és bútoripari technikus | Faipar szakmacsoport |
-
-|  |  | 54 | 543 | 02 | 0010 | 54 | 01 | Szakképesítés-elágazás: Bútoripari technikus |  |
-
-|  |  | 54 | 543 | 02 | 0010 | 54 | 02 | Szakképesítés-elágazás: Fafeldolgozó technikus |  |
+| 130. |  |  |  |  |  |  |  |  |  |
 
 | 131. | 235. | 31 | 543 | 04 |  |  |  | Kádár, bognár | Faipar szakmacsoport |
 
@@ -776,29 +524,17 @@
 
 |  |  | 31 | 543 | 04 | 0010 | 31 | 02 | Szakképesítés-elágazás: Kádár |  |
 
-| 132. | 236. | 33 | 542 | 04 | 1000 | 00 | 00 | Kárpitos | Faipar szakmacsoport |
+| 132. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 33 | 542 | 04 | 0001 | 33 | 01 | Szakképesítés-ráépülés: Járműkárpitos |  |
+| 133. |  |  |  |  |  |  |  |  |  |
 
-| 133. | 237. | 31 | 527 | 01 | 0000 | 00 | 00 | Könyvkötő | Nyomdaipar szakmacsoport |
-
-|  |  | 31 | 527 | 01 | 0100 | 31 | 01 | Részszakképesítés: Kötészeti gépkezelő |  |
-
-| 134. | 238. | 52 | 213 | 03 | 1000 | 00 | 00 | Nyomdai gépmester | Nyomdaipar szakmacsoport |
-
-|  |  | 52 | 213 | 03 | 0100 | 31 | 01 | Részszakképesítés: Gyorsnyomdai gépkezelő |  |
-
-|  |  | 52 | 213 | 03 | 0100 | 31 | 02 | Részszakképesítés: Nyomdai gépkezelő |  |
+| 134. |  |  |  |  |  |  |  |  |  |
 
 | 135. | 239. | 54 | 213 | 05 | 0000 | 00 | 00 | Nyomdaipari technikus | Nyomdaipar szakmacsoport |
 
 |  |  | 54 | 213 | 05 | 0100 | 51 | 01 | Részszakképesítés: Nyomóforma-készítő |  |
 
-| 136. | 240. | 51 | 213 | 02 | 0000 | 00 | 00 | Nyomtatványfeldolgozó | Nyomdaipar szakmacsoport |
-
-|  |  | 51 | 213 | 02 | 0100 | 21 | 01 | Részszakképesítés: Író- és irodaszergyártó, papírtermék-készítő |  |
-
-|  |  | 51 | 213 | 02 | 0100 | 31 | 01 | Részszakképesítés: Papírfeldolgozó |  |
+| 136. |  |  |  |  |  |  |  |  |  |
 
 | 137. | 241. | 31 | 213 | 01 | 0000 | 00 | 00 | Szita-, tampon- és filmnyomó | Nyomdaipar szakmacsoport |
 
@@ -816,11 +552,7 @@
 
 |  |  | 54 | 345 | 06 | 0100 | 52 | 01 | Részszakképesítés: Személyügyi ügyintéző |  |
 
-| 142. | 297. | 54 | 343 | 05 | 0000 | 00 | 00 | Társadalombiztosítási és bérügyi szakelőadó | Közgazdaság szakmacsoport |
-
-|  |  | 54 | 343 | 05 | 0100 | 52 | 01 | Részszakképesítés: Bérügyintéző |  |
-
-|  |  | 54 | 343 | 05 | 0100 | 52 | 02 | Részszakképesítés: Társadalombiztosítási ügyintéző |  |
+| 142. |  |  |  |  |  |  |  |  |  |
 
 | 143. | 302. | 52 | 347 | 01 | 0000 | 00 | 00 | Ellenőrzési és minőségbiztosítási munkatárs | Ügyvitel szakmacsoport |
 
@@ -836,17 +568,9 @@
 
 |  |  | 54 | 347 | 01 | 0010 | 54 | 04 | Szakképesítés-elágazás: Üzleti kommunikációs szakügyintéző |  |
 
-| 145. | 305. | 33 | 346 | 01 | 1000 | 00 | 00 | Irodai asszisztens | Ügyvitel szakmacsoport |
+| 145. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 33 | 346 | 01 | 0100 | 31 | 01 | Részszakképesítés: Gépíró |  |
-
-|  |  | 33 | 346 | 01 | 0100 | 31 | 02 | Részszakképesítés: Gépíró, szövegszerkesztő |  |
-
-|  |  | 33 | 346 | 01 | 0001 | 52 | 01 | Szakképesítés-ráépülés: Beszédleíró-gyorsíró |  |
-
-|  |  | 33 | 346 | 01 | 0001 | 52 | 02 | Szakképesítés-ráépülés: Jegyzőkönyvvezető |  |
-
-| 146. | 306. | 55 | 346 | 01 | 0000 | 00 | 00 | Jogi asszisztens | Ügyvitel szakmacsoport |
+| 146. |  |  |  |  |  |  |  |  |  |
 
 | 147. | 307. | 52 | 347 | 02 | 0000 | 00 | 00 | Személyes ügyfélszolgálati asszisztens | Ügyvitel szakmacsoport |
 
@@ -862,19 +586,9 @@
 
 | 149. | 309. | 54 | 347 | 02 | 0000 | 00 | 00 | Ügyfélkapcsolati vezető | Ügyvitel szakmacsoport |
 
-| 150. | 310. | 55 | 346 | 02 |  |  |  | Ügyviteli szakügyintéző | Ügyvitel szakmacsoport |
+| 150. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 55 | 346 | 02 | 0010 | 55 | 01 | Szakképesítés-elágazás: Gazdasági idegen nyelvű menedzser |  |
-
-|  |  | 55 | 346 | 02 | 0010 | 55 | 02 | Szakképesítés-elágazás: Titkárságvezető |  |
-
-| 151. | 311. | 54 | 346 | 01 |  |  |  | Ügyviteli titkár | Ügyvitel szakmacsoport |
-
-|  |  | 54 | 346 | 01 | 0010 | 54 | 01 | Szakképesítés-elágazás: Idegen nyelvi titkár |  |
-
-|  |  | 54 | 346 | 01 | 0010 | 54 | 02 | Szakképesítés-elágazás: Iskolatitkár |  |
-
-|  |  | 54 | 346 | 01 | 0010 | 54 | 03 | Szakképesítés-elágazás: Ügyintéző titkár |  |
+| 151. |  |  |  |  |  |  |  |  |  |
 
 | 152. | 313. | 52 | 341 | 02 |  |  |  | Becsüs | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
 
@@ -888,63 +602,25 @@
 
 |  |  | 52 | 341 | 02 | 0100 | 52 | 01 | Részszakképesítés: Drágakő-meghatározó |  |
 
-| 153. | 314. | 31 | 341 | 01 |  |  |  | Bolti eladó | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
+| 153. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 31 | 341 | 01 | 0010 | 31 | 01 | Szakképesítés-elágazás: Bútor- és lakástextil-eladó |  |
+| 154. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 31 | 341 | 01 | 0010 | 31 | 02 | Szakképesítés-elágazás: Élelmiszer- és vegyiáru-eladó |  |
-
-|  |  | 31 | 341 | 01 | 0010 | 31 | 03 | Szakképesítés-elágazás: Műszakicikk eladó |  |
-
-|  |  | 31 | 341 | 01 | 0010 | 31 | 04 | Szakképesítés-elágazás: Porcelán- és edényáru-eladó |  |
-
-|  |  | 31 | 341 | 01 | 0010 | 31 | 05 | Szakképesítés-elágazás: Ruházati eladó |  |
-
-|  |  | 31 | 341 | 01 | 0010 | 31 | 06 | Szakképesítés-elágazás: Zöldség-gyümölcs eladó |  |
-
-| 154. | 315. | 55 | 345 | 01 |  |  |  | Kereskedelmi menedzser | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
-
-|  |  | 55 | 345 | 01 | 0010 | 55 | 01 | Szakképesítés-elágazás: Európai Uniós üzleti szakügyintéző | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
-
-|  |  | 55 | 345 | 01 | 0010 | 55 | 02 | Szakképesítés-elágazás: Kereskedelmi szakmenedzser | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
-
-|  |  | 55 | 345 | 01 | 0010 | 55 | 03 | Szakképesítés-elágazás: Kis- és középvállalkozási menedzser | Közgazdaság szakmacsoport |
-
-|  |  | 55 | 345 | 01 | 0010 | 55 | 04 | Szakképesítés-elágazás: Külgazdasági üzletkötő | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
-
-|  |  | 55 | 345 | 01 | 0010 | 55 | 05 | Szakképesítés-elágazás: Nemzetközi szállítmányozási és logisztikai szakügyintéző | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
-
-|  |  | 55 | 345 | 01 | 0010 | 55 | 06 | Szakképesítés-elágazás: Reklámszervező szakmenedzser | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
-
-|  |  | 55 | 345 | 01 | 0010 | 55 | 07 | Szakképesítés-elágazás: Üzleti szakmenedzser | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
-
-| 155. | 316. | 55 | 345 | 02 |  |  |  | Kereskedelmi menedzserasszisztens | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
-
-|  |  | 55 | 345 | 02 | 0010 | 55 | 01 | Szakképesítés-elágazás: Logisztikai műszaki menedzserasszisztens |  |
-
-|  |  | 55 | 345 | 02 | 0010 | 55 | 02 | Szakképesítés-elágazás: Terméktervező műszaki menedzserasszisztens |  |
+| 155. |  |  |  |  |  |  |  |  |  |
 
 | 156. | 317. | 52 | 341 | 04 | 1000 | 00 | 00 | Kereskedelmi ügyintéző | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
 
 |  |  | 52 | 341 | 04 | 0001 | 52 | 01 | Szakképesítés-ráépülés: Külgazdasági ügyintéző |  |
 
-| 157. | 318. | 52 | 341 | 05 | 1000 | 00 | 00 | Kereskedő | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
+| 157. |  |  |  |  |  |  |  |  |  |
 
 | 158. | 319. | 33 | 341 | 01 | 0000 | 00 | 00 | Kereskedő, boltvezető | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
 
 | 159. | 322. | 54 | 341 | 01 | 0000 | 00 | 00 | Külkereskedelmi üzletkötő | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
 
-| 160. | 323. | 52 | 725 | 01 | 0000 | 00 | 00 | Látszerész és fotócikk-kereskedő | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
+| 160. |  |  |  |  |  |  |  |  |  |
 
-| 161. | 324. | 54 | 345 | 02 | 0000 | 00 | 00 | Logisztikai ügyintéző | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
-
-|  |  | 54 | 345 | 02 | 0100 | 31 | 01 | Részszakképesítés: Anyagbeszerző |  |
-
-|  |  | 54 | 345 | 02 | 0100 | 31 | 02 | Részszakképesítés: Áruterítő |  |
-
-|  |  | 54 | 345 | 02 | 0100 | 52 | 01 | Részszakképesítés: Veszélyesáru-ügyintéző |  |
-
-|  |  | 54 | 345 | 02 | 0001 | 54 | 01 | Szakképesítés-ráépülés: Nemzetközi szállítmányozási ügyintéző |  |
+| 161. |  |  |  |  |  |  |  |  |  |
 
 | 162. | 325. | 52 | 342 | 01 | 0000 | 00 | 00 | Marketing- és reklámügyintéző | Kereskedelem-marketing, üzleti adminisztráció szakmacsoport |
 
@@ -1016,9 +692,7 @@
 
 |  |  | 31 | 341 | 04 | 0100 | 31 | 04 | Részszakképesítés: Sportszer- és játékkereskedő |  |
 
-| 172. | 337. | 33 | 811 | 01 | 1000 | 00 | 00 | Cukrász | Vendéglátás-idegenforgalom szakmacsoport |
-
-|  |  | 33 | 811 | 01 | 0001 | 33 | 01 | Szakképesítés-ráépülés: Diétás cukrász |  |
+| 172. |  |  |  |  |  |  |  |  |  |
 
 | 173. | 338. | 52 | 811 | 01 | 0000 | 00 | 00 | Élelmezésvezető | Vendéglátás-idegenforgalom szakmacsoport |
 
@@ -1026,7 +700,7 @@
 
 | 174. | 339. | 52 | 812 | 01 | 0000 | 00 | 00 | Hostess | Vendéglátás-idegenforgalom szakmacsoport |
 
-| 175. | 340. | 54 | 812 | 01 | 1000 | 00 | 00 | Idegenvezető | Vendéglátás-idegenforgalom szakmacsoport |
+| 175. |  |  |  |  |  |  |  |  |  |
 
 | 176. | 341. | 31 | 812 | 01 | 0000 | 00 | 00 | Panziós, falusi vendéglátó | Vendéglátás-idegenforgalom szakmacsoport |
 
@@ -1034,35 +708,17 @@
 
 |  |  | 31 | 812 | 01 | 0100 | 21 | 01 | Részszakképesítés: Szállodai szobaasszony |  |
 
-| 177. | 342. | 33 | 811 | 02 | 1000 | 00 | 00 | Pincér | Vendéglátás-idegenforgalom szakmacsoport |
+| 177. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 33 | 811 | 02 | 0001 | 33 | 01 | Szakképesítés-ráépülés: Mixer-Bartender |  |
+| 178. |  |  |  |  |  |  |  |  |  |
 
-| 178. | 343. | 54 | 812 | 02 |  |  |  | Protokoll és utazásügyintéző | Vendéglátás-idegenforgalom szakmacsoport |
-
-|  |  | 54 | 812 | 02 | 0010 | 54 | 01 | Szakképesítés-elágazás: Protokollügyintéző |  |
-
-|  |  | 54 | 812 | 02 | 0010 | 54 | 02 | Szakképesítés-elágazás: Utazásügyintéző |  |
-
-|  |  | 54 | 812 | 02 | 0001 | 54 | 01 | Szakképesítés-ráépülés: Rendezvény- és konferenciaszervező |  |
-
-|  |  | 54 | 812 | 02 | 0001 | 54 | 02 | Szakképesítés-ráépülés: Utazásszervező menedzser |  |
-
-| 179. | 344. | 33 | 811 | 03 | 1000 | 00 | 00 | Szakács | Vendéglátás-idegenforgalom szakmacsoport |
-
-|  |  | 33 | 811 | 03 | 0001 | 33 | 01 | Szakképesítés-ráépülés: Diétás szakács |  |
-
-|  |  | 33 | 811 | 03 | 0001 | 33 | 02 | Szakképesítés-ráépülés: Konyhafőnök |  |
+| 179. |  |  |  |  |  |  |  |  |  |
 
 | 180. | 345. | 54 | 812 | 03 | 0000 | 00 | 00 | Szállodai portás, recepciós | Vendéglátás-idegenforgalom szakmacsoport |
 
-| 181. | 346. | 55 | 812 | 01 |  |  |  | Vendéglátó és idegenforgalmi szakmenedzser | Vendéglátás-idegenforgalom szakmacsoport |
+| 181. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 55 | 812 | 01 | 0010 | 55 | 01 | Szakképesítés-elágazás: Idegenforgalmi szakmenedzser |  |
-
-|  |  | 55 | 812 | 01 | 0010 | 55 | 02 | Szakképesítés-elágazás: Vendéglátó szakmenedzser |  |
-
-| 182. | 347. | 52 | 811 | 02 | 1000 | 00 | 00 | Vendéglős | Vendéglátás-idegenforgalom szakmacsoport |
+| 182. |  |  |  |  |  |  |  |  |  |
 
 | 183. | 352. | 61 | 313 | 01 | 0000 | 00 | 00 | Érdekérvényesítő (lobbi) szakreferens | Egyéb szolgáltatások szakmacsoport |
 
@@ -1096,37 +752,7 @@
 
 |  |  | 31 | 853 | 04 | 0100 | 31 | 01 | Részszakképesítés: Településtisztasági szippantógépkezelő |  |
 
-| 191. | 366. | 55 | 810 | 01 |  |  |  | Mérnökasszisztens | Egyéb szolgáltatások |
-
-|  |  | 55 | 810 | 01 | 0010 | 55 | 01 | Szakképesítés-elágazás: Energetikai mérnökasszisztens |  |
-
-|  |  | 55 | 810 | 01 | 0010 | 55 | 02 | Szakképesítés-elágazás: Építettkörnyezetmérnök- asszisztens |  |
-
-|  |  | 55 | 810 | 01 | 0010 | 55 | 03 | Szakképesítés-elágazás: Faipari terméktervező |  |
-
-|  |  | 55 | 810 | 01 | 0010 | 55 | 04 | Szakképesítés-elágazás: Faipari termelésszervező |  |
-
-|  |  | 55 | 810 | 01 | 0010 | 55 | 05 | Szakképesítés-elágazás: Gépipari mérnökasszisztens |  |
-
-|  |  | 55 | 810 | 01 | 0010 | 55 | 06 | Szakképesítés-elágazás: Hálózati informatikus |  |
-
-|  |  | 55 | 810 | 01 | 0010 | 55 | 07 | Szakképesítés-elágazás: Kohómérnök asszisztens |  |
-
-|  |  | 55 | 810 | 01 | 0010 | 55 | 08 | Szakképesítés-elágazás: Könnyűipari mérnökasszisztens |  |
-
-|  |  | 55 | 810 | 01 | 0010 | 55 | 09 | Szakképesítés-elágazás: Mechatronikai mérnökasszisztens |  |
-
-|  |  | 55 | 810 | 01 | 0010 | 55 | 10 | Szakképesítés-elágazás: Műszaki informatikai mérnökasszisztens |  |
-
-|  |  | 55 | 810 | 01 | 0010 | 55 | 11 | Szakképesítés-elágazás: Vegyész mérnökasszisztens |  |
-
-|  |  | 55 | 810 | 01 | 0010 | 55 | 12 | Szakképesítés-elágazás: Vegyipari gépészmérnök-asszisztens |  |
-
-|  |  | 55 | 810 | 01 | 0010 | 55 | 13 | Szakképesítés-elágazás: Villamosmérnök-asszisztens |  |
-
-|  |  | 55 | 810 | 01 | 0010 | 55 | 14 | Szakképesítés-elágazás: Területfejlesztési szakasszisztens |  |
-
-|  |  | 55 | 810 | 01 | 0010 | 55 | 15 | Szakképesítés-elágazás: Munkavédelmi mérnökasszisztens |  |
+| 191. |  |  |  |  |  |  |  |  |  |
 
 | 192. | 367. | 52 | 345 | 03 | 0000 | 00 | 00 | Munkaelemző | Egyéb szolgáltatások szakmacsoport |
 
@@ -1150,45 +776,19 @@
 
 | 199. | 425. | 55 | 810 | 02 | 0000 | 00 | 00 | Fogyasztóvédelmi szakasszisztens | Egyéb szolgáltatások |
 
-| 200. | 426. | 31 | 521 | 28 | 0000 | 00 | 00 | Járműipari fémalkatrész-gyártó | Gépészet |
+| 200. |  |  |  |  |  |  |  |  |  |
 
 | 201. | 427. | 31 | 582 | 22 | 0000 | 00 | 00 | Árnyékolástechnikai szerelő | Építészet szakmacsoport |
 
-| 202. | 428. | 31 | 582 | 21 |  |  |  | Épületgépészeti rendszerszerelő | Gépészet szakmacsoport |
+| 202. |  |  |  |  |  |  |  |  |  |
 
-|  |  | 31 | 582 | 21 | 0010 | 31 | 01 | Szakképesítés-elágazás: Hűtő- és légtechnikai rendszerszerelő |  |
-
-|  |  | 31 | 582 | 21 | 0010 | 31 | 02 | Szakképesítés-elágazás: Központifűtés- és gázhálózat rendszerszerelő |  |
-
-|  |  | 31 | 582 | 21 | 0010 | 31 | 03 | Szakképesítés-elágazás: Víz-, csatorna- és közmű-rendszerszerelő |  |
-
-|  |  | 31 | 582 | 21 | 0100 | 31 | 01 | Részszakképesítés: Hűtéstechnikai hálózatszerelő |  |
-
-|  |  | 31 | 582 | 21 | 0100 | 31 | 02 | Részszakképesítés: Karbantartó csőszerelő |  |
-
-|  |  | 31 | 582 | 21 | 0100 | 31 | 03 | Részszakképesítés: Légtechnikai hálózatszerelő |  |
-
-|  |  | 31 | 582 | 21 | 0001 | 31 | 01 | Szakképesítés-ráépülés: Fűtésirendszer felülvizsgáló, korszerűsítő |  |
-
-|  |  | 31 | 582 | 21 | 0001 | 31 | 02 | Szakképesítés-ráépülés: Gáz- és hőtermelő berendezés-szerelő |  |
-
-|  |  | 31 | 582 | 21 | 0001 | 31 | 03 | Szakképesítés-ráépülés: Gázipari műszaki-biztonsági felülvizsgáló |  |
-
-|  |  | 31 | 582 | 21 | 0001 | 31 | 04 | Szakképesítés-ráépülés: Hűtő-, klíma- és hőszivattyú berendezés-szerelő |  |
-
-|  |  | 31 | 582 | 21 | 0001 | 31 | 05 | Szakképesítés-ráépülés: Vízgépészeti és technológiai berendezésszerelő |  |
-
-| 203. | 432. | 31 | 523 | 01 | 0000 | 00 | 00 | Mechatronikus-karbantartó | Elektrotechnika-elektronika szakmacsoport |
+| 203. |  |  |  |  |  |  |  |  |  |
 
 | 204. | 434. | 31 | 522 | 05 | 1000 | 00 | 00 | Robbanásbiztos berendezés kezelője | Elektrotechnika-elektronika szakmacsoport |
 
-| 205. | 435. | 31 | 582 | 23 | 1000 | 00 | 00 | Szárazépítő | Építészet szakmacsoport |
+| 205. |  |  |  |  |  |  |  |  |  |
 
-| 206. | 437. | 33 | 811 | 04 | 1000 | 00 | 00 | Vendéglátó eladó | Vendéglátás-idegenforgalom szakmacsoport |
-
-|  |  | 33 | 811 | 04 | 0100 | 33 | 01 | Részszakképesítés: Gyorséttermi ételeladó |  |
-
-|  |  | 33 | 811 | 04 | 0001 | 33 | 01 | Szakképesítés-ráépülés: Barista és teakészítő |  |
+| 206. |  |  |  |  |  |  |  |  |  |
 
 2. számú melléklet a 15/2008. (VIII. 13.) SZMM rendelethez[^4]
 
@@ -3918,4 +3518,598 @@ B A kisgyermek környezetében elvárt higiénés követelmények
 
 B A fertőző betegségek megelőzésében alkalmazott eljárások
 
-[^4]: A 2. számú melléklet a – 19/2009. (IX. 25.) SZMM rendelet 1. § (1) bekezdése szerint módosított – 18/2009. (IX. 10.) SZMM rendelet 1. § (2) bekezdése, az 1/2010. (II. 5.) SZMM rendelet 2. § b) pontja, a 34/2010. (V. 12.) IRM rendelet 2. §-a, a 6/2010. (IX. 29.) NGM rendelet 1. § (2) bekezdése, a 26/2011. (VII. 12.) NGM rendelet 1. § (2) bekezdése, a 32/2011. (VIII. 25.) NGM rendelet 2. § (2) bekezdése és 3. § (2) bekezdése, a 61/2011. (XI. 3.) NEFMI rendelet 1. §-a, a 78/2011. (XII. 30.) NEFMI rendelet 13. §-a, a 4/2012. (VI. 12.) EMMI rendelet 1. §-a szerint módosított szöveg.
+B Szervezés és felvilágosítás
+
+A szint megjelölésével a szakmai készségek:
+
+1 Elemi szintű számítógéphasználat
+
+3 Olvasott köznyelvi szöveg megértése
+
+3 Köznyelvi szöveg fogalmazása írásban
+
+3 Kézírás
+
+1 Szakmai nyelvű beszédkészség
+
+3 Elemi számolási készség
+
+3 Mennyiségérzék
+
+3 Háztartási eszközök használata
+
+3 Kerti eszközök használata
+
+3 Kéziszerszámok használata
+
+2 Informatikai eszközök használata
+
+3 Híradástechnikai eszközök használata
+
+3 Játékok használata
+
+2 Dekorációs anyagok (színes ceruza, textíliák, papírok stb.) használata
+
+Személyes kompetenciák:
+
+Szervezőkészség
+
+Elhivatottság, elkötelezettség
+
+Döntésképesség
+
+Kézügyesség
+
+Tájékozódás
+
+Türelem
+
+Társas kompetenciák:
+
+Határozottság
+
+Közérthetőség
+
+Adekvát metakommunikáció
+
+Konfliktusmegoldó készség
+
+Segítőkészség
+
+Kapcsolatteremtő készség
+
+Kompromisszumkészség
+
+Empátia
+
+Módszerkompetenciák:
+
+Áttekintő képesség
+
+Gyakorlatias feladatértelmezés
+
+A környezet tisztántartása
+
+Tervezés
+
+Kreativitás, ötletgazdagság
+
+Ismeretek helyén való alkalmazása
+
+Következtetési képesség
+
+Problémaelemzés, -feltárás
+
+Okok feltárása
+
+Helyzetfelismerés
+
+Rendszerekben való gondolkodás
+
+Nyitott hozzáállás
+
+A szakmai követelménymodul azonosítója és megnevezése:
+
+1885-06 A napközbeni gyermekellátás dokumentációs feladatai
+
+A szakmai követelménymodul tartalma:
+
+Feladatprofil:
+
+Ellenőrzi a játékok és eszközök állapotát és közreműködik a megfelelő eszközök pótlásában
+
+Végzi a gyermek játékainak folyamatos tisztántartását
+
+Fertőző megbetegedés esetén szervezi és végzi a fertőzés tovább terjedését megelőző feladatokat
+
+Szervezi és vezeti a szülőcsoportok gondozással-neveléssel kapcsolatos megbeszéléseit, válaszol a felmerülő kérdésekre
+
+Vezeti a jelenlétet és a gyermekekkel kapcsolatos napi eseményeket rögzítő gondozási naplót
+
+Vezeti a szülői és a gondozónői bejegyzésekre szolgáló üzenő füzetet
+
+Figyelemmel kíséri a gyermek fejlődési állapotát rögzítő időszakos orvosi vizsgálatok időpontját és az eredmények dokumentálását
+
+Elkészíti a gyermekcsoport életkorához, fejlettségéhez, évszakhoz igazodó foglalkozások tervét
+
+Részt vesz az intézményre vonatkozó statisztikai adatok összeállításában, a fejlesztéssel kapcsolatos dokumentációk előkészítésében
+
+Tulajdonságprofil:
+
+Szakmai kompetenciák:
+
+A típus megjelölésével a szakmai ismeretek:
+
+B A fertőző megbetegedések dokumentációja
+
+B Adatszolgáltatási kötelezettség és az arra szolgáló dokumentumok
+
+C A gyermek állapotával, fejlődésével kapcsolatos dokumentációk
+
+B Foglakoztatási terv készítése
+
+C A kisgyermek környezetében elvárt higiénés követelmények
+
+B A gyógyászati segédeszközök
+
+A A védőoltások kísérő-tüneteinek enyhítésére szolgáló eljárások
+
+A A fertőző betegségek megelőzésére alkalmazott eljárások
+
+B Az intézményben, szolgáltatásban észlelt fertőző megbetegedés dokumentációja, jelentési kötelezettség
+
+A szint megjelölésével a szakmai készségek:
+
+1 Elemi szintű számítógéphasználat
+
+4 Köznyelvi beszédkészség
+
+4 Szakmai nyelvű beszédkészség
+
+4 Elemi számolási készség
+
+4 Mennyiségérzék
+
+1 Gyermekjátékok használata
+
+Személyes kompetenciák:
+
+Állóképesség
+
+Érzelmi stabilitás, kiegyensúlyozottság
+
+Szervezőkészség
+
+Pontosság
+
+Kitartás
+
+Szorgalom, igyekezet
+
+Türelem
+
+Kézügyesség
+
+Tájékozódás
+
+Társas kompetenciák:
+
+Határozottság
+
+Közérthetőség
+
+Adekvát metakommunikáció
+
+Konfliktusmegoldó készség
+
+Kapcsolatfenntartó készség
+
+Módszerkompetenciák:
+
+Áttekintő képesség
+
+Információgyűjtés
+
+Gyakorlatias feladatértelmezés
+
+A környezet tisztántartása
+
+Tervezés
+
+Rendszerező képesség
+
+Kontroll (ellenőrző képesség)
+
+Emlékezőképesség (ismeretmegőrzés)
+
+Figyelemmegosztás
+
+| Az 54 761 02 0010 54 01 azonosító számú, Gyermekotthoni asszisztens megnevezésű elágazás szakmai követelménymoduljainak |
+
+| azonosítója | megnevezése |
+
+| 1868-06 | Gyermekellátási alapfeladatok |
+
+| 1878-06 | Házi időszakos gyermek-felügyeleti feladatok |
+
+| 1879-06 | Gyermekfelügyelői feladatok |
+
+| 1880-06 | Gyermek-felügyeleti dokumentációs feladatok |
+
+| 1881-06 | A befogadással kapcsolatos feladatok |
+
+| 1882-06 | A szabadidő-szervezéssel kapcsolatos feladatok |
+
+| 1883-06 | Az önálló életvitelre való felkészítés |
+
+| Az 54 761 02 0010 54 02 azonosító számú, Kisgyermekgondozó, -nevelő megnevezésű elágazás szakmai követelménymoduljainak |
+
+| azonosítója | megnevezése |
+
+| 1868-06 | Gyermekellátási alapfeladatok |
+
+| 1878-06 | Házi időszakos gyermek-felügyeleti feladatok |
+
+| 1879-06 | Gyermekfelügyelői feladatok |
+
+| 1880-06 | Gyermek-felügyeleti dokumentációs feladatok |
+
+| 1884-06 | A napközbeni gyermekellátás feladatai |
+
+| 1885-06 | A napközbeni gyermekellátás dokumentációs feladatai |
+
+| Az 54 761 02 0100 33 01 azonosító számú, Gyermek- és ifjúsági felügyelő megnevezésű részszakképesítés szakmai követelménymoduljainak |
+
+| azonosítója | megnevezése |
+
+| 1868-06 | Gyermekellátási alapfeladatok |
+
+| 1878-06 | Házi időszakos gyermek-felügyeleti feladatok |
+
+| 1879-06 | Gyermekfelügyelői feladatok |
+
+| 1880-06 | Gyermek-felügyeleti dokumentációs feladatok |
+
+| Az 54 761 02 0100 31 01 azonosító számú, Házi időszakos gyermekgondozó megnevezésű részszakképesítés szakmai követelménymoduljainak |
+
+| azonosítója | megnevezése |
+
+| 1868-06 | Gyermekellátási alapfeladatok |
+
+| 1878-06 | Házi időszakos gyermek-felügyeleti feladatok |
+
+V.
+
+VIZSGÁZTATÁSI KÖVETELMÉNYEK
+
+1. A szakmai vizsgára bocsátás feltételei:
+
+Iskolarendszeren kívüli felnőttképzések esetén:
+
+A személyes gondoskodás területén dolgozók képzése esetén:
+
+A szakképesítés megszerzéséhez szükséges követelménymodulok modulzáró vizsgájának eredményes letétele
+
+A 120 órás – a házi időszakos gyermekgondozó, valamint a gyermek- és ifjúsági felügyelő képzés esetén 40 órás – szakmai készségfejlesztésről szóló igazolás
+
+400 óra (20%-a demonstrációs/gyakorló teremben, 80%-a szociális, gyermekjóléti és gyermekvédelmi ellátórendszer intézményeiben tereptanár végzettséggel rendelkező szakember irányításával letöltött) gyakorlat teljesítéséről szóló igazolás. A házi időszakos gyermekgondozó képzés esetén 60 óra, a gyermek- és ifjúsági felügyelő képzés esetén 80 óra, a fenti szerkezetben letöltött gyakorlat teljesítéséről szóló igazolása
+
+Egyéb területen dolgozók és a munkanélküliek képzése esetén:
+
+A szakképesítés megszerzéséhez szükséges követelménymodulok modulzáró vizsgájának eredményes letétele.
+
+A 120 órás – a házi időszakos gyermekgondozó, valamint a gyermek- és ifjúsági felügyelő képzés esetén 40 órás – szakmai készségfejlesztésről szóló igazolás
+
+500 óra (20%-a demonstrációs/gyakorló teremben, 80%-a szociális, gyermekjóléti és gyermekvédelmi ellátórendszer intézményeiben tereptanár végzettséggel rendelkező szakember irányításával letöltött) gyakorlat teljesítéséről szóló igazolás. A házi időszakos gyermekgondozó képzés esetén 60 óra, a gyermek- és ifjúsági felügyelő képzés esetén 80 óra, a fenti szerkezetben letöltött gyakorlat teljesítéséről szóló igazolása
+
+Iskolai rendszerű szakképzés esetén:
+
+Az utolsó szakképző évfolyam eredményes elvégzése, amely egyenértékű a modulzáró vizsga eredményes letételével
+
+A 120 órás szakmai készségfejlesztésről szóló igazolás
+
+A központi programban előírt (a képzőintézmény gyakorló termében, valamint a szociális, gyermekjóléti és gyermekvédelmi ellátórendszer intézményeiben letöltött) gyakorlat teljesítéséről szóló igazolás
+
+2. A szakmai vizsga részei:
+
+1. vizsgarész
+
+A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
+
+1868-06 Gyermekellátási alapfeladatok
+
+A hozzárendelt 1. vizsgafeladat:
+
+Napi gondozási feladatok ellátása gyermekellátó intézményben
+
+A hozzárendelt jellemző vizsgatevékenység:
+
+gyakorlati
+
+Időtartama: 120 perc
+
+A hozzárendelt 2. vizsgafeladat:
+
+A gyermeki fejlődés és a fejlődést segítő módszerek bemutatása
+
+A hozzárendelt jellemző vizsgatevékenység:
+
+írásbeli
+
+Időtartama: 120 perc
+
+A hozzárendelt 3. vizsgafeladat:
+
+A szociális gondozás dilemmáinak értelmezése egy esetleírás alapján
+
+A hozzárendelt jellemző vizsgatevékenység:
+
+szóbeli
+
+Időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
+
+A vizsgarészben az egyes feladatok aránya:
+
+1. feladat 35%
+
+2. feladat 35%
+
+3. feladat 30%
+
+2. vizsgarész
+
+A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
+
+1878-06 Házi időszakos gyermek-felügyeleti feladatok
+
+A hozzárendelt 1. vizsgafeladat:
+
+A házi időszakos gyermekfelügyelet feladatainak bemutatása esetleírás alapján
+
+A hozzárendelt jellemző vizsgatevékenység:
+
+írásbeli
+
+Időtartama: 90 perc
+
+A vizsgarészben az egyes feladatok aránya:
+
+1. feladat 100%
+
+3. vizsgarész
+
+A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
+
+1879-06 Gyermekfelügyelői feladatok
+
+A hozzárendelt 1. vizsgafeladat:
+
+A gyermekfelügyelet feladatainak bemutatása esetleírás alapján
+
+A hozzárendelt jellemző vizsgatevékenység:
+
+szóbeli
+
+Időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
+
+A vizsgarészben az egyes feladatok aránya:
+
+1. feladat 100%
+
+4. vizsgarész
+
+A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
+
+1880-06 Gyermek-felügyeleti dokumentációs feladatok
+
+A hozzárendelt 1. vizsgafeladat:
+
+Az "élettörténet-könyv" készítésének funkciója és jelentősége
+
+A hozzárendelt jellemző vizsgatevékenység:
+
+írásbeli
+
+Időtartama: 90 perc
+
+A vizsgarészben az egyes feladatok aránya:
+
+1. feladat 100%
+
+5. vizsgarész
+
+A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
+
+1881-06 A befogadással kapcsolatos feladatok
+
+A hozzárendelt 1. vizsgafeladat:
+
+A gyermek befogadásával kapcsolatos feladatok megoldásának bemutatása esettanulmány alapján
+
+A hozzárendelt jellemző vizsgatevékenység:
+
+írásbeli
+
+Időtartama: 90 perc
+
+A vizsgarészben az egyes feladatok aránya:
+
+1. feladat 100%
+
+6. vizsgarész
+
+A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
+
+1882-06 A szabadidő-szervezéssel kapcsolatos feladatok
+
+A hozzárendelt 1. vizsgafeladat:
+
+A játék kisgyermekek fejlődésben játszott szerepének bemutatása
+
+A hozzárendelt jellemző vizsgatevékenység:
+
+írásbeli
+
+Időtartama: 90 perc
+
+A vizsgarészben az egyes feladatok aránya:
+
+1. feladat 100%
+
+7. vizsgarész
+
+A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
+
+1883-06 Az önálló életvitelre való felkészítés
+
+A hozzárendelt 1. vizsgafeladat:
+
+Bemutatni az önálló életvitelre való felkészítés legfontosabb feladatait
+
+A hozzárendelt jellemző vizsgatevékenység:
+
+írásbeli
+
+Időtartama: 90 perc
+
+A vizsgarészben az egyes feladatok aránya:
+
+1. feladat 100%
+
+8. vizsgarész
+
+A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
+
+1884-06 A napközbeni gyermekellátás feladatai
+
+A hozzárendelt 1. vizsgafeladat:
+
+A játék kisgyermekek fejlődésben játszott szerepének bemutatása
+
+A hozzárendelt jellemző vizsgatevékenység:
+
+írásbeli
+
+Időtartama: 90 perc
+
+A vizsgarészben az egyes feladatok aránya:
+
+1. feladat 100%
+
+9. vizsgarész
+
+A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
+
+1885-06 A napközbeni gyermekellátás dokumentációs feladatai
+
+A hozzárendelt 1. vizsgafeladat:
+
+A kisgyermekek testi, lelki fejlődésének folyamata és a fejlődést rögzítő dokumentációs feladatok
+
+A hozzárendelt jellemző vizsgatevékenység:
+
+írásbeli
+
+Időtartama: 90 perc
+
+A vizsgarészben az egyes feladatok aránya:
+
+1. feladat 100%
+
+3. A szakmai vizsga értékelése%-osan:
+
+Az 54 761 02 0010 54 01 azonosító számú, Gyermekotthoni asszisztens megnevezésű elágazáshoz rendelt vizsgarészek és ezek súlya a vizsga egészében
+
+1. vizsgarész: 15
+
+2. vizsgarész: 15
+
+3. vizsgarész: 15
+
+4. vizsgarész: 10
+
+5. vizsgarész: 15
+
+6. vizsgarész: 15
+
+7. vizsgarész: 15
+
+Az 54 761 02 0010 54 02 azonosító számú, Kisgyermekgondozó, -nevelő megnevezésű elágazáshoz rendelt vizsgarészek és ezek súlya a vizsga egészében
+
+1. vizsgarész: 15
+
+2. vizsgarész: 15
+
+3. vizsgarész: 15
+
+4. vizsgarész: 10
+
+5. vizsgarész: 25
+
+6. vizsgarész: 20
+
+Az 54 761 02 0100 33 01 azonosító számú, Gyermek- és ifjúsági felügyelő megnevezésű részszakképesítéshez rendelt vizsgarészek és ezek súlya a vizsga egészében
+
+1. vizsgarész: 25
+
+2. vizsgarész: 25
+
+3. vizsgarész: 25
+
+4. vizsgarész: 25
+
+A(z) 54 761 02 0100 31 01 azonosító számú, Házi időszakos gyermekgondozó megnevezésű részszakképesítéshez rendelt vizsgarészek és ezek súlya a vizsga egészében
+
+1. vizsgarész: 50
+
+2. vizsgarész: 50
+
+Az 54 761 02 0010 54 01 azonosító számú, Gyermekotthoni asszisztens megnevezésű elágazáshoz rendelt vizsgarészek és ezek súlya a vizsga egészében, amennyiben a vizsgázó az 54 761 02 0100 33 01 azonosító számú, Gyermek- és ifjúsági felügyelő megnevezésű részszakképesítéssel rendelkezik
+
+5. vizsgarész: 35
+
+6. vizsgarész: 35
+
+7. vizsgarész: 30
+
+Az 54 761 02 0010 54 02 azonosító számú, Kisgyermekgondozó, -nevelő megnevezésű elágazáshoz rendelt vizsgarészek és ezek súlya a vizsga egészében, amennyiben a vizsgázó az 54 761 02 0100 33 01 azonosító számú, Gyermek- és ifjúsági felügyelő megnevezésű részszakképesítéssel rendelkezik
+
+8. vizsgarész: 50
+
+9. vizsgarész: 50
+
+Az 54 761 02 0010 54 01 azonosító számú, Gyermekotthoni asszisztens megnevezésű elágazáshoz rendelt vizsgarészek és ezek súlya a vizsga egészében, amennyiben a vizsgázó az 54 761 02 0100 31 01 azonosító számú, Házi időszakos gyermekgondozó megnevezésű részszakképesítéssel rendelkezik
+
+3. vizsgarész: 20
+
+4. vizsgarész: 20
+
+5. vizsgarész: 20
+
+6. vizsgarész: 20
+
+7. vizsgarész: 20
+
+Az 54 761 02 0010 54 02 azonosító számú, Kisgyermekgondozó, -nevelő megnevezésű elágazáshoz rendelt vizsgarészek és ezek súlya a vizsga egészében, amennyiben a vizsgázó az 54 761 02 0100 31 01 azonosító számú, Házi időszakos gyermekgondozó megnevezésű részszakképesítéssel rendelkezik
+
+3. vizsgarész: 25
+
+4. vizsgarész: 25
+
+8. vizsgarész: 25
+
+9. vizsgarész: 25
+
+4. A szakmai vizsgarészek alóli felmentés feltételei:
+
+A szakképesítéshez rendelt vizsgarészek valamelyikének korábbi teljesítése
+
+5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai:
+
+-
+
+VI.
+
+ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+
+[^4]: A 2. számú melléklet a – 19/2009. (IX. 25.) SZMM rendelet 1. § (1) bekezdése szerint módosított – 18/2009. (IX. 10.) SZMM rendelet 1. § (2) bekezdése, az 1/2010. (II. 5.) SZMM rendelet 2. § b) pontja, a 34/2010. (V. 12.) IRM rendelet 2. §-a, a 6/2010. (IX. 29.) NGM rendelet 1. § (2) bekezdése, a 26/2011. (VII. 12.) NGM rendelet 1. § (2) bekezdése, a 32/2011. (VIII. 25.) NGM rendelet 2. § (2) bekezdése és 3. § (2) bekezdése, a 61/2011. (XI. 3.) NEFMI rendelet 1. §-a, a 78/2011. (XII. 30.) NEFMI rendelet 13. §-a, a 4/2012. (VI. 12.) EMMI rendelet 1. §-a, a 27/2012. (VIII. 27.) NGM rendelet 3. § (5) bekezdés b) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 3. § (2)–(4) bekezdését.
