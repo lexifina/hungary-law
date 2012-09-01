@@ -1,0 +1,5 @@
+2. § (1) Az Sztv. 2. § 24. pontja szerinti meglévő szakképesítéssel betölthető munkakör magasabb színvonalon való ellátását biztosító képzésben – a szakmai és vizsgakövetelményben meghatározott körben – szerezhető szakképesítéseknek az 1. melléklet 1. táblázata szerinti szakképesítés-ráépülések minősülnek.
+
+(2) Az iskolarendszeren kívüli szakképzésben szervezett távoktatás esetén az 1. melléklet 1. táblázatában és a 2. táblázatában feltüntetett iskolarendszeren kívüli minimális képzési idő legalább húsz százalékát a képzésben résztvevő és az oktatást végző személyek egyidejű egy helyen történő jelenlétét biztosító képzési formában kell megtartani.
+
+(3) Az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendelettel kiadott OKJ-ban szereplő szakképesítések tekintetében megszerzett jogosultságok e rendelettel kiadott OKJ-ban szereplő szakképesítésekre vonatkozó érvényességét a szakképesítésért felelős miniszter rendeletben határozza meg.
