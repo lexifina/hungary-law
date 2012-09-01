@@ -286,6 +286,6 @@
 
 | 142. |  | egészségbiztosítási orvosszakértés |
 
-4. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^218]
+4. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^219]
 
-[^218]: A 4. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (1) bekezdése iktatta be, szövege a 13/2012. (II. 14.) Korm. rendelet 7. § (2) bekezdése, a 92/2012. (IV. 27.) Korm. rendelet 26. § (2) bekezdése, a 107/2012. (VI. 1.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^219]: A 4. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (1) bekezdése iktatta be, szövege a 13/2012. (II. 14.) Korm. rendelet 7. § (2) bekezdése, a 92/2012. (IV. 27.) Korm. rendelet 26. § (2) bekezdése, a 107/2012. (VI. 1.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
