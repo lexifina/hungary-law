@@ -11,3 +11,7 @@
 3. fenntartó: a vizek és a közcélú vízilétesítmények tulajdonjogából, a vízgazdálkodási közfeladat ezzel összefüggő ellátási kötelezettségéből eredő jogokat gyakorló, az 1. pontban meghatározott kötelezettségek teljesítésért felelős személy (így például tulajdonos, vagyonkezelő);
 
 4. folyóban újonnan keletkezett sziget: a vízből állandóan kiemelkedő terület (szárazulat), amelyet a vízfolyás természetes módon (hordaléklerakódás) vagy mesterséges beavatkozás (folyószabályozás) hozott létre.
+
+5.[^1] tulajdonos: a tulajdonos, valamint – állami tulajdonban álló ingatlan esetében – az állami tulajdonban álló ingatlan felett jogszabály vagy szerződés alapján tulajdonosi jogokat gyakorló személy vagy szervezet.
+
+[^1]: A 2. § 5. pontját a 242/2012. (VIII. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
