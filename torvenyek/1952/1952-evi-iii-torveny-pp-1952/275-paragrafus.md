@@ -4,7 +4,7 @@
 
 (3) Ha a felülvizsgálni kért határozat a jogszabályoknak megfelel, vagy olyan eljárási szabálysértés történt, amelynek az ügy érdemi elbírálására lényeges kihatása nem volt, a Kúria a megtámadott határozatot hatályában fenntartja.
 
-(4) Ha a határozat – a (3) bekezdésben foglalt eljárási szabály megsértésének kivételével – jogszabályt sért, a Kúria a jogszabálysértő határozatot egészben vagy részben hatályon kívül helyezi, és ha a döntéshez szükséges tények megállapíthatók, helyette a jogszabályoknak megfelelő új határozatot hoz, egyébként az ügyben eljárt első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja.
+(4) Ha a határozat – a (3) bekezdésben foglalt eljárási szabály megsértésének kivételével – jogszabályt sért, a Kúria a jogerős határozatot egészben vagy részben hatályon kívül helyezi, és ha a döntéshez szükséges tények megállapíthatók, helyette, illetve az első fokú határozat helyett a jogszabályoknak megfelelő új határozatot hoz, egyébként az ügyben eljárt első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja.
 
 (5) Ha a Kúria az első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja, a hatályon kívül helyező végzésben az új eljárás lefolytatására vonatkozóan kötelező utasításokat ad. Ebben az esetben csak a felülvizsgálati eljárásban felmerült költség összegét állapítja meg, annak viseléséről az új határozatot hozó bíróság dönt.
 

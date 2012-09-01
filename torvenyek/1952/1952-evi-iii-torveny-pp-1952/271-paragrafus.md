@@ -4,9 +4,9 @@ a) az első fokon jogerőre emelkedett határozat ellen, kivéve, ha azt törvé
 
 b) ha a fél a fellebbezési jogával nem élt és a másik fél fellebbezése alapján a másodfokú bíróság az elsőfokú határozatot helybenhagyta;
 
-c) a jogerős határozatnak csupán a kamatfizetésre, illetve a perköltségre vonatkozó rendelkezései ellen, kivéve ha a fellebbezés is kizárólag az elsőfokú határozat e rendelkezései ellen irányult;
+c) a jogerős határozatnak csupán a kamatfizetésre, illetve a perköltségre vonatkozó rendelkezései ellen,
 
-d) a jogerős határozatnak csupán a teljesítési határidőre, illetve a részletfizetésre vonatkozó rendelkezései ellen;
+d) a jogerős határozatnak csupán a teljesítési határidőre, a részletfizetésre vonatkozó rendelkezései ellen vagy a jogerős határozatnak csupán az indokolása ellen,
 
 e) ha a határozatot a Kúria hozta;
 
@@ -16,7 +16,7 @@ g) az apaság vélelmét megdöntő ítélet ellen – az apaság vélelmét meg
 
 h) az egyezséget jóváhagyó végzés ellen;
 
-i) a hagyaték átadása tárgyában hozott végzés ellen;
+i) a birtokvédelmi eljárást követő birtokvédelmi perben hozott ítélet ellen,
 
 j) a helyi önkormányzat ellen indult adósságrendezési eljárásban az adósságrendezés elrendelése tárgyában hozott végzés ellen;
 
@@ -24,7 +24,7 @@ k) a vízumkiadás tárgyában hozott bírósági határozat ellen;
 
 l) ha azt törvény kizárja.
 
-(2) Nincs helye felülvizsgálatnak olyan vagyonjogi ügyben, amelyben a felülvizsgálati kérelemben vitatott érték, illetve annak a 24. §, valamint a 25. § (3) és (4) bekezdése alapján, továbbá a 25. § (3) bekezdésének az egyesített perekre történő megfelelő alkalmazásával megállapított értéke az egymillió forintot nem haladja meg. Ez az értékhatártól függő kizárás nem vonatkozik a 23. § (1) bekezdésének b) és h) pontjában, valamint a 24. § (2) bekezdésének a) pontjában meghatározott ügyekre, továbbá a munkaügyi perekben előterjesztett pénzkövetelésre.
+(2) Nincs helye felülvizsgálatnak olyan vagyonjogi ügyben, amelyben a felülvizsgálati kérelemben vitatott érték, illetve annak a 24. §, valamint a 25. § (3) és (4) bekezdése alapján, továbbá a 25. § (3) bekezdésének az egyesített perekre történő megfelelő alkalmazásával megállapított értéke a hárommillió forintot nem haladja meg. Ez az értékhatártól függő kizárás nem vonatkozik a 23. § (1) bekezdés b) pontjában, valamint a 24. § (2) bekezdés a) pontjában meghatározott ügyekre.
 
 (3) Nincs helye a felülvizsgálatnak, ha az elsőfokú bíróság ítéletét a másodfokú bíróság helybenhagyta
 
@@ -33,3 +33,9 @@ a) a szomszédjogok megsértéséből eredő, valamint a birtokvédelmi, tovább
 b) a XXV. fejezetben meghatározott végrehajtási perekben, kivéve a végrehajtás megszüntetése, illetve korlátozása iránti ügyeket, ha a végrehajtás végrehajtási záradékkal ellátott okirat alapján indult;
 
 c) a gyermek elhelyezése, elhelyezésének a megváltoztatása, továbbá a gyermekkel való kapcsolattartás szabályozása iránti ügyekben.
+
+(4) Nincs helye felülvizsgálatnak, ha az elsőfokú bíróság ítéletét a másodfokú bíróság azonos jogszabályi rendelkezésre utalással hagyta helyben
+
+a) a 23. § (1) bekezdés ec) pontjában foglalt perekben és
+
+b) a társasház tulajdonostársai közösségének szervei által hozott határozatok tárgyában hozott döntéssel szemben.
