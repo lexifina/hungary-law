@@ -1,3 +1,3 @@
-## 18/A. §[^123] Az igénylési lap és az elszámoló adatlap benyújtásával egyidejűleg a nem állami, nem önkormányzati fenntartó az intézménnyel jogviszonyt létesítő alkalmazottak és tanulók azonosító számait (székhelyenkénti és telephelyenkénti, valamint összesített táblázatban) az Igazgatóság rendelkezésére bocsátja.
+## 18/A. §[^81]
 
-[^123]: A 18/A. §-t újonnan a 310/2005. (XII. 25.) Korm. rendelet 9. §-a iktatta be.
+[^81]: A 18/A. §-t újonnan a 310/2005. (XII. 25.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 229/2012. (VIII. 28.) Korm. rendelet 56. § b) pontja.

@@ -1,23 +1,6 @@
-## Az azonosító szám igénylése és kiadása[^57]
+## 12/C. §[^14]
 
-12/D. §[^58] (1)[^59] A munkáltató a pedagógus-munkakörben, illetve a nevelő- és oktatómunkát közvetlenül segítő alkalmazotti munkakörben, a pedagógiai előadó vagy a pedagógiai szakértő munkakörben foglalkoztatottak (a továbbiakban: alkalmazottak) adatait – a foglalkoztatási jogviszony létesítésének napját követő nyolc napon belül – köteles az Oktatási Hivatalnak a KIR-en keresztül az azonosító szám kiadásához megadni. Az Oktatási Hivatal a tizenegy jegyű azonosító számot – az igénylés befogadása napjától számított nyolc napon belül – a KIR-en keresztül teszi elérhetővé a munkáltató részére. A munkáltató gondoskodik arról, hogy az érintett megismerje a részére kiadott azonosító számot. Ha az érintett kéri az azonosítóról szóló igazolás kiadását, a munkáltató köteles – térítésmentesen – az igazolást haladéktalanul kiállítani. Az Oktatási Hivatal az igazoláson szereplő adatokat és az igazolás formátumát a KIR rendszerében teszi hozzáférhetővé.
+## Az azonosító szám igénylése és kiadása[^15]
 
-(2) Az azonosító szám – a közoktatásról szóló törvény 2. számú mellékletében szabályozott módon – a KIR-ben való megjelenésének időpontjától kezdve kezelhető és használható fel. Az azonosító szám képzésének szabályait az 5. számú melléklet tartalmazza.
-
-(3)[^60] A KIR-ben nyilvántartott személyes adatokban bekövetkezett változásokat az érintett haladéktalanul, de legkésőbb öt napon belül köteles a munkáltatónak bejelenteni. A munkáltató a változások megismerését követő nyolc napon belül köteles a változásokat a KIR-en keresztül bejelenteni. Az igazolás tartalmát érintő adatváltozásnak az átvezetése után az alkalmazottnak a munkáltató – kérelemre – térítésmentesen igazolást állít ki. A munkáltató az elveszett, megsemmisült vagy megrongálódott igazolás helyett az érintettnek a kérésre új igazolást állít ki.
-
-(4)[^61] Ha a munkáltató olyan személyt alkalmaz, aki rendelkezik azonosító számmal, a jogviszony létesítését követő nyolc napon belül köteles a jogviszony létrejöttét bejelenti a KIR-en keresztül. A bejelentésnél az e rendeletben előírtakat azzal az eltéréssel kell alkalmazni, hogy az érintett részére nem lehet új azonosítót kiadni. Minden alkalmazottnak, függetlenül attól, hogy hány helyen áll foglalkoztatási jogviszonyban, csak egy azonosítója lehet.
-
-(5)[^62] Ha az alkalmazott foglalkoztatása megszűnik, a munkáltató a jogviszony megszűnését – a megszűnés időpontjától számított – nyolc napon belül köteles bejelenteni. Az intézményvezető e jelentéssel egyidejűleg feladatellátási helyenként, alaptevékenységenként az (1) bekezdés szerinti bontásban tájékoztatást ad arról, hány álláshely megszüntetésére került sor, továbbá a közalkalmazotti jogviszony, illetve munkaviszony milyen jogcím alapján szűnt meg. Amennyiben az érintett nem létesít másik intézménnyel újabb foglalkoztatási jogviszonyt, az Oktatási Hivatal – a közoktatásról szóló törvény 2. számú mellékletében szabályozott határidővel – törli az adatait a nyilvántartásból.
-
-(6)[^63] A közoktatási intézmény a hivatalos iratain – jogszabályban meghatározott esetekben – köteles feltüntetni az alkalmazotti azonosító számot. Az azonosító szám hiányában az irat érvénytelen.
-
-(7) Foglalkoztatási jogviszony megszűnését követően – az (5) bekezdésben meghatározott határidőn belül – az érintett a korábbi azonosító számáról igazolást kérhet az Oktatási Hivataltól. Az igazolás kiállítására akkor van lehetőség, ha az érintett a személyazonosságát igazolja.
-
-[^57]: A 12/D. §-t megelőző alcímet a 310/2004. (XI. 13.) Korm. rendelet 9. §-a iktatta be.
-[^58]: A 12/D. §-t a 310/2004. (XI. 13.) Korm. rendelet 9. §-a iktatta be, szövege a 349/2007. (XII. 21.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^59]: A 12/D. § (1) bekezdése a 229/2009. (X. 16.) Korm. rendelet 12. § (2) bekezdés d) pontja, a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^60]: A 12/D. § (3) bekezdése a 229/2009. (X. 16.) Korm. rendelet 12. § (2) bekezdés a) és e) pontja, a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^61]: A 12/D. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^62]: A 12/D. § (5) bekezdése a 229/2009. (X. 16.) Korm. rendelet 6. §-ával megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (14) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^63]: A 12/D. § (6) bekezdése a 229/2009. (X. 16.) Korm. rendelet 12. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^14]: A 12/C. §-t és az azt megelőző alcímet a 310/2004. (XI. 13.) Korm. rendelet 9. §-a iktatta be, a 12/C. §-t hatályon kívül helyezte a 229/2012. (VIII. 28.) Korm. rendelet 56. § b) pontja.
+[^15]: A 12/D. §-t megelőző alcímet a 310/2004. (XI. 13.) Korm. rendelet 9. §-a iktatta be.

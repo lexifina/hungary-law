@@ -1,6 +1,8 @@
-## A nem állami térségi integrált szakképző központok központi képzőhelyei[^112]
+## 17/D. §[^67]
 
-17/E. §[^113] (1) A térségi integrált szakképző központ keretei között működő központi képzőhely nem állami fenntartója – feltéve, hogy a központi képzőhely olyan jogi személy részeként jött létre, amely gazdasági tevékenységét nyereség- és vagyonszerzési cél nélkül, közhasznú tevékenységének elősegítése érdekében folytatja – a (2) bekezdésben meghatározott feltételek esetén és a 13. § (1) bekezdés szerinti fenntartóval kötött megállapodás alapján jogosult a szakmai gyakorlati képzéshez nyújtott normatív hozzájárulásra és támogatásra (a továbbiakban: szakképzési támogatás).
+## A nem állami térségi integrált szakképző központok központi képzőhelyei[^68]
+
+17/E. §[^69] (1) A térségi integrált szakképző központ keretei között működő központi képzőhely nem állami fenntartója – feltéve, hogy a központi képzőhely olyan jogi személy részeként jött létre, amely gazdasági tevékenységét nyereség- és vagyonszerzési cél nélkül, közhasznú tevékenységének elősegítése érdekében folytatja – a (2) bekezdésben meghatározott feltételek esetén és a 13. § (1) bekezdés szerinti fenntartóval kötött megállapodás alapján jogosult a szakmai gyakorlati képzéshez nyújtott normatív hozzájárulásra és támogatásra (a továbbiakban: szakképzési támogatás).
 
 (2) A szakképzési támogatást a megállapodásban meghatározott, 13. § (1) bekezdése szerinti fenntartó az Igazgatóság útján igényelheti azzal, hogy a szakképzési támogatást átadja a központi képzőhely nem állami fenntartójának. A megállapodásban kell rögzíteni a szakképzési támogatás átadásának idejét, módját, a nyilvántartással, a szakmai ellenőrzéssel, adatszolgáltatással és a felhasználással kapcsolatos szabályokat. A szakképzési támogatással az igénylést benyújtó, 13. § (1) bekezdése szerinti fenntartó számol el azzal, hogy az elszámolást megalapozó nyilvántartást mindkét fenntartónál ellenőrizheti az Igazgatóság.
 
@@ -24,7 +26,9 @@ c) valamennyi pénzforgalmi számlaszerződése hiteles másolatát és az azokr
 
 d) a helyi önkormányzat által kiállított hatósági igazolást arról, hogy a fenntartónak nincsen az önkormányzatnál lejárt köztartozása, valamint a fenntartó nyilatkozatát arról, hogy hozzájárul ahhoz, hogy az Igazgatóság az adó-, járulék-, illeték- vagy vámtartozással kapcsolatban adatot kérjen az illetékes hatóságoktól.
 
-(5) Az e §-ban nem szabályozott kérdésekben a 13–17. §-ban foglaltakat kell megfelelően alkalmazni.
+(5)[^70] Az elszámolás és az ellenőrzés során a normatív hozzájárulás és támogatás elszámolására és ellenőrzésére vonatkozó szabályokat kell alkalmazni.
 
-[^112]: A 17/E. §-t megelőző alcímet a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.
-[^113]: A 17/E. §-t a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.
+[^67]: A 17/D. §-t a 229/2007. (VIII. 31.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 229/2012. (VIII. 28.) Korm. rendelet 56. § b) pontja.
+[^68]: A 17/E. §-t megelőző alcímet a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.
+[^69]: A 17/E. §-t a 213/2011. (X. 14.) Korm. rendelet 20. §-a iktatta be.
+[^70]: A 17/E. § (5) bekezdése a 229/2012. (VIII. 28.) Korm. rendelet 53. § (6) bekezdésével megállapított szöveg.

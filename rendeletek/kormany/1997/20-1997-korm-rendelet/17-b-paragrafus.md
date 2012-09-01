@@ -1,29 +1,18 @@
-17/B. §[^100] (1) A közoktatási feladatot ellátó egyház számára az éves költségvetési törvényben meghatározott kiegészítő támogatás megállapítását az egyházi intézményfenntartók részére az illetékes Igazgatóságok által megállapított normatív hozzájárulás és támogatás igénylése és elszámolása alapján a Magyar Államkincstár Budapesti és Pest Megyei Igazgatósága (a továbbiakban: kijelölt Igazgatóság) végzi.
+17/B. §[^59] (1) A köznevelési feladatot ellátó egyház számára a központi költségvetésről szóló törvényben meghatározott kiegészítő támogatás megállapítását az egyházi intézményfenntartók részére az Igazgatóságok által megállapított normatív hozzájárulás és támogatás igénylése és elszámolása alapján a Magyar Államkincstár Budapesti és Pest Megyei Igazgatósága (a továbbiakban: Budapesti és Pest Megyei Igazgatóság) országos illetékességgel végzi.
 
-(2) A kijelölt Igazgatóság az egyházi intézményfenntartók székhelye szerinti illetékes Igazgatóságok adatszolgáltatása alapján figyelembe vehető gyermek-, tanulólétszám alapján a Ket.-ben szabályozott eljárás keretében
+(2) A Budapesti és Pest Megyei Igazgatóság az egyházi intézményfenntartó székhelye szerinti Igazgatóság adatszolgáltatása alapján figyelembe vehető gyermek-, tanulólétszám alapján az októberi igénylés alapján szeptember–december hónapokra határozatban – feladatonkénti, egyházi fenntartónkénti bontásban – állapítja meg a köznevelési feladatot ellátó egyház részére járó kiegészítő támogatás mértékét.
 
-a) az októberi igénylés alapján szeptember–december hónapokra,
+(3)[^60] A Budapesti és Pest Megyei Igazgatóság a kiegészítő támogatást havi részletekben tárgyhó ötödik napjáig folyósítja a köznevelési feladatot ellátó egyház részére.
 
-b) az elszámolásban közölt október 1-jei létszám, valamint – szükség esetén – az új jogcímekre vonatkozó kiegészítő felmérés adatai alapján január hónapra,
+(4) Ha a köznevelési feladatot ellátó egyház első alkalommal válik jogosulttá az (1) bekezdés szerinti kiegészítő támogatásra, köteles megküldeni:
 
-c) a márciusi igénylés alapján február–augusztus hónapokra
+a) a nyilvántartásba vett adatait igazoló hatósági bizonyítványt, ha az egyház a kért hatósági bizonyítványt nem csatolja, a Budapesti és Pest Megyei Igazgatóság a szükséges adatokat helyette beszerzi,
 
-határozatban – feladatonkénti, egyházi fenntartónkénti bontásban – állapítja meg a közoktatási feladatot ellátó egyház jogosultságát.
+b) képviselőjének aláírási címpéldányát, adószámát, valamennyi, a kiegészítő támogatással összefüggő bankszámlaszerződésének hiteles másolatát, bankszámlaszámát.
 
-(3) A kijelölt Igazgatóság a támogatást havi részletekben tárgyhó 10. napjáig folyósítja a közoktatási feladatot ellátó egyház részére.
+(5) A köznevelési feladatot ellátó egyház nyilvántartást vezet arról, hogy az egyházi intézményfenntartó mely települési önkormányzattal, milyen feladatra, mennyi időre és hány főre kötött köznevelési szerződést, tett egyoldalú nyilatkozatot. A nyilvántartást a Budapesti és Pest Megyei Igazgatóság a kiegészítő támogatás megállapítása, elszámolása és ellenőrzése során bekérheti a nyilvántartásban szereplő adatok ellenőrzése céljából.
 
-(4) Ha a közoktatási feladatot ellátó egyház új igénylő, az igénylési dokumentumhoz köteles csatolni:
+(6) Az elszámolás és ellenőrzés során a normatív hozzájárulás és támogatás elszámolására és ellenőrzésére vonatkozó szabályokat kell alkalmazni.
 
-a) az egyházi jogi személyként történő törvényszéki nyilvántartásba vételének hiteles másolatát,
-
-b) nyilatkozatát arról, hogy valamennyi egyházi intézményfenntartó, amelynek közoktatási intézményére vonatkozóan kiegészítő támogatási igényt nyújt be, egyházi jogi személy,
-
-c) képviselőjének aláírási címpéldányát, adószámát, valamennyi, a kiegészítő támogatással összefüggő bankszámlaszerződésének hiteles másolatát, bankszámlaszámát.
-
-(5) Az Igazgatóság hivatalból beszerzi a főjegyzői nyilatkozatot arról, hogy az egyházi intézményfenntartó mely önkormányzattal, milyen feladatra, mennyi időre és hány főre kötött közoktatási megállapodást, tett egyoldalú nyilatkozatot, vagy, hogy a közgyűlés a fejlesztési terv módosításáról mely napon dönt.
-
-(6) A kijelölt Igazgatóság a közoktatási feladatot ellátó egyház támogatási igényét részben vagy egészben akkor fogadja el, ha az megfelel a jogszabályban meghatározott valamennyi feltételnek.
-
-(7) Az e §-ban nem szabályozott kérdésekben a 13-17. §-ban foglaltakat kell megfelelően alkalmazni.
-
-[^100]: A 17/B. §-t a 232/2004. (VIII. 6.) Korm. rendelet 2. §-a iktatta be, szövege a 213/2011. (X. 14.) Korm. rendelet – a 314/2011. (XII. 23.) Korm. rendelet 24. §-a szerint módosított – 18. §-ával megállapított szöveg.
+[^59]: A 17/B. §-t a 232/2004. (VIII. 6.) Korm. rendelet 2. §-a iktatta be, szövege a 229/2012. (VIII. 28.) Korm. rendelet 53. § (5) bekezdésével megállapított szöveg.
+[^60]: [A 229/2012. (VIII. 28.) Korm. rendelet 54. § f) pontjával elrendelt módosítás, amely szerint a „10.” szövegrész helyébe az „5.” szöveg lép, nem vezethető át.]

@@ -1,4 +1,4 @@
-17. §[^98] (1) Az Igazgatóság a megküldött iratok alapján felülvizsgálja, és a helyszínen ellenőrizheti a normatív hozzájárulás és támogatás igénylésének és elszámolásának jogszerűségét. Az ellenőrzés kiterjed az igénybevételi jogosultság jogszabályi feltételei teljesítésének, az igénylési lapon, a változásjelentésben, az elszámoláskor közölt adatok megalapozottságának, továbbá a kötött támogatások felhasználása jogszerűségének vizsgálatára.
+17. §[^56] (1) Az Igazgatóság a megküldött iratok alapján felülvizsgálja, és a helyszínen ellenőrizheti a normatív hozzájárulás és támogatás igénylésének és elszámolásának jogszerűségét. Az ellenőrzés kiterjed az igénybevételi jogosultság jogszabályi feltételei teljesítésének, az igénylési lapon, a változásjelentésben, az elszámoláskor közölt adatok megalapozottságának, továbbá a kötött támogatások felhasználása jogszerűségének vizsgálatára.
 
 (2) Az Igazgatóság hatósági ellenőrzés keretében vizsgálja a fenntartónál és a közoktatási intézményekben a fenntartó által igényelt normatív hozzájárulás és támogatás igénylésének alapjául szolgáló – a közoktatási intézményben vezetett – nyilvántartások meglétét, vezetését, a tanügy-igazgatási dokumentumokat és ennek alapján az igénylés és az elszámolás megalapozottságát.
 
@@ -10,8 +10,9 @@
 
 (6) Az Igazgatóság az ellenőrzés megállapításait tartalmazó jegyzőkönyvet megküldi a működést engedélyező szerv részére, ezzel egyidejűleg az ellenőrzés során megállapított jogsértésre figyelemmel kezdeményezheti törvényességi ellenőrzés lefolytatását a vizsgált fenntartónál.
 
-(7) Ha a fenntartónak az Állami Számvevőszék által lefolytatott normatív állami hozzájárulás és támogatás ellenőrzése során visszafizetési kötelezettsége keletkezik, akkor az ennek megállapításáról szóló döntés kézhezvételét követő 16. naptól a visszafizetés napjáig a fenntartót a napi jegybanki alapkamat kétszeres mértékének megfelelő késedelmi kamatfizetési kötelezettség terheli.
+(7)[^57] Ha a fenntartónak az Állami Számvevőszék által lefolytatott ellenőrzése során visszafizetési kötelezettsége keletkezik, annak a döntés kézhezvételét követő tizenhatodik naptól a visszafizetés napjáig a döntés időpontjában érvényes jegybanki alapkamat kétszeres mértékének megfelelő kamattal növelt összegben való megfizetésére az Igazgatóság kötelezi a fenntartót.
 
 (8) A normatív hozzájárulás és támogatás átadásával kapcsolatos adatokat, egyéb állami támogatások felhasználását, tandíj, térítési díj megállapításával, beszedésével kapcsolatos rendelkezéseket alaptevékenységenkénti bontásban elkülönítetten és naprakészen kell nyilvántartani, az ellenőrzésre feljogosított szervek megkeresésére az ellenőrzés lefolytatásához szükséges tájékoztatást meg kell adni, a kért dokumentumokat rendelkezésre kell bocsátani, a helyszíni ellenőrzést lehetővé kell tenni. Az adatok valódiságát az egyes fenntartóknál, közoktatási intézményeknél megfelelő nyilvántartással, szakmai és pénzügyi dokumentációval kell alátámasztani. A betekintést akkor is biztosítani kell, ha az intézményi és az intézmény fenntartásával összefüggő fenntartói könyvvezetési, beszámolókészítési kötelezettséget intézményen és fenntartón kívüli egyéb szervezet látja el.
 
-[^98]: A 17. § a 213/2011. (X. 14.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^56]: A 17. § a 213/2011. (X. 14.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^57]: A 17. § (7) bekezdése a 229/2012. (VIII. 28.) Korm. rendelet 53. § (4) bekezdésével megállapított szöveg.
