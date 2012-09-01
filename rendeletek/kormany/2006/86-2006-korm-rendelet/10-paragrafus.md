@@ -1,9 +1,0 @@
-## 9. § A Diákhitel Központ, a felsőoktatási intézmény és az Országos Felsőoktatási Információs Központ nyilvántartásában szereplő, a Fot. 2. számú mellékletében „A hallgatók adatai” részének 1. ba), bb), bc), bk) pontjai szerinti személyes és képzési adatait, valamint a tartózkodásra jogosító okirat érvényességi idejét a hallgatónak a kölcsönszerződés keretében megadott hozzájárulása alapján, a hallgatói hitel folyósításával, jogszerű igénybevételével és törlesztésével kapcsolatban kezeli, valamint törvényben és az e rendelet 16. §-ának (5) bekezdésében, 18. §-ának (2) bekezdésében, 19. §-ának (7) bekezdésében meghatározott szervezeteknek a diákhitel rendszer működtetésének céljára tekintettel továbbítja az adatvédelmi törvény vonatkozó rendelkezéseinek betartásával.
-
-10. § (1) A hitelfelvevő köteles a 9. §-ban, valamint a (3) bekezdésben meghatározott kézbesítési meghatalmazott adataiban bekövetkezett minden változást, annak bekövetkezésétől számított 14 napon belül a Diákhitel Központnak bejelenteni.
-
-(2) A hitelfelvevő, amennyiben Magyarország területét előreláthatólag legalább két hónapot meghaladó időtartamra elhagyja, vagy elhagyta, – a Diákhitel Központ tájékoztatási és értesítési kötelezettségének teljesíthetősége érdekében – köteles gondoskodni a postai küldemények átvételére jogosult, belföldi lakóhellyel rendelkező kézbesítési meghatalmazottról.
-
-(3) A kézbesítési meghatalmazott személyazonosító adatait és lakcímét a hitelfelvevő legkésőbb a külföldi tartózkodása megkezdésének időpontját követő 45. napig köteles a Diákhitel Központ számára bejelenteni. A kézbesítési meghatalmazottnak írásban kell nyilatkoznia a meghatalmazás elfogadásáról.
-
-(4) A Diákhitel Központ által a kézbesítési meghatalmazott részére küldött postai küldemények a hitelfelvevő joghatályos értesítésének minősülnek.

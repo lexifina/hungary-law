@@ -1,1 +1,0 @@
-A Magyar Köztársaság 2001. és 2002. évi költségvetéséről szóló 2000. évi CXXXIII. törvény 42. §-ában kapott felhatalmazás alapján és figyelemmel a felsőoktatásról szóló 2005. évi CXXXIX. törvény 46. §-ának (8) bekezdésében, valamint 118. §-ának (4) bekezdésében foglaltakra, a Kormány a következőket rendeli el:
