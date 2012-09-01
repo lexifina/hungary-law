@@ -1,10 +1,10 @@
-26. § (1) A végrehajtó a kérelem alapján az árverező felhasználói nevét és jelszavát – az egyéb, Vht.-ban foglalt feltételek fennállása esetén – az árverési előleg befizetését követően haladéktalanul, átutalása esetén pedig legkésőbb a kérelemről szóló rendszerüzenet kézbesítését követő munkanapon aktiválja, a feltételek hiánya esetén az aktiválási kérelmet – az ok megjelölésével – elutasítja.
+26. § (1)[^42] A végrehajtó a kérelem alapján az árverező felhasználói nevét és jelszavát – az egyéb, Vht.-ban foglalt feltételek fennállása esetén – az árverési előleg befizetését követően haladéktalanul, átutalása esetén pedig legkésőbb a kérelemről szóló rendszerüzenet kézbesítését követő munkanapon aktiválja, a feltételek hiánya esetén az aktiválási kérelmet – az ok megjelölésével – elutasítja. A felhasználói név és jelszó ingatlan átvételi eljárás tekintetében történő aktiválásának nem feltétele árverési előleg befizetése.
 
-(2)[^21] Az aktiválás
+(2)[^43] Az aktiválás
 
 a) vételi ajánlat megtételére vagy
 
-b) vételi ajánlat megtételére és elővásárlási jog gyakorlására
+b)[^44] vételi ajánlat megtételére és előárverezési jog gyakorlására
 
 ## történhet.
 
@@ -16,4 +16,6 @@ a) az ok megjelölésével kitöltött adatlap alapján az értesítésről rend
 
 b) ha nem töltötték ki az adatlapon az elutasítás okát, az értesítést ne továbbítsa az a) pontban foglaltak szerint, hanem a hiányosság megjelölésével hibaüzenetet küldjön a végrehajtó részére.
 
-[^21]: A 26. § (2) bekezdése a 31/2009. (VIII. 14.) IRM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 6. § (2) bekezdése alapján az új informatikai alkalmazást azokon az árveréseken kell alkalmazni, amelyek árverési hirdetményét 2009. augusztus 21. napját követően tették közzé az elektronikus árverési hirdetmények nyilvántartásában.
+[^42]: A 26. § (1) bekezdése a 38/2012. (VIII. 23.) KIM rendelet 9. §-a szerint módosított szöveg.
+[^43]: A 26. § (2) bekezdése a 31/2009. (VIII. 14.) IRM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 6. § (2) bekezdése alapján az új informatikai alkalmazást azokon az árveréseken kell alkalmazni, amelyek árverési hirdetményét 2009. augusztus 21. napját követően tették közzé az elektronikus árverési hirdetmények nyilvántartásában.
+[^44]: A 26. § (2) bekezdés b) pontja a 38/2012. (VIII. 23.) KIM rendelet 14. § c) pontja szerint módosított szöveg.

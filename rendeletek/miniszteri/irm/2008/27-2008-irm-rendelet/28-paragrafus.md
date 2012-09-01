@@ -10,10 +10,12 @@ b) közzétehető összegű ajánlattal kitöltött adatlap alapján automatikus
 
 c) nem közzétehető összegű ajánlat esetén ne tegyen közzé vételi ajánlatot, hanem erről – a közzététel akadályának megjelölésével – küldjön hibaüzenetet az árverező részére.
 
-(3)[^22] Az (1) és (2) bekezdésben foglaltakat megfelelően alkalmazni kell
+(3)[^46] Az (1) és (2) bekezdésben foglaltakat megfelelően alkalmazni kell az előárverezési jog gyakorlására szolgáló nyilatkozat megtételére is azzal, hogy az az összeg megjelölésének hiányában is közzétehető; ez a nyilatkozat minősül a megelőzően közzétett vételi ajánlat vonatkozásában megtett előárverezési jogot gyakorló nyilatkozatnak.
 
-a) üzletrész árverése során az elővásárlási jog gyakorlására,
+(4)[^47] Az átvételi ajánlat megtétele a vételi ajánlat megtételére vonatkozó, az (1) és (2) bekezdésben foglalt rendelkezések alkalmazásával történik.
 
-b) lakóingatlan árverése során a települési önkormányzat lakástörvény szerinti elővásárlási jogának gyakorlására
+(5)[^48] Az informatikai alkalmazást úgy kell kialakítani, hogy az ingatlan folyamatos árverése során történő felhasználói név és jelszó aktiválással a vételi ajánlat automatikusan kerüljön közzétételre a licitnaplóban, valamint a Vht 159. § (4) bekezdése szerint közzétételre kerülő ingatlanárverési hirdetményhez tartozó licitnaplóban is.
 
-[^22]: A 28. § (3) bekezdése a 31/2009. (VIII. 14.) IRM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 6. § (2) bekezdése alapján az új informatikai alkalmazást azokon az árveréseken kell alkalmazni, amelyek árverési hirdetményét 2009. augusztus 21. napját követően tették közzé az elektronikus árverési hirdetmények nyilvántartásában.
+[^46]: A 28. § (3) bekezdése a 38/2012. (VIII. 23.) KIM rendelet 11. §-ával megállapított szöveg.
+[^47]: A 28. § (4) bekezdését a 38/2012. (VIII. 23.) KIM rendelet 11. §-a iktatta be.
+[^48]: A 28. § (5) bekezdését a 38/2012. (VIII. 23.) KIM rendelet 11. §-a iktatta be.
