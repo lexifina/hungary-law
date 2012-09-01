@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-84-00-00
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1992-84-00-00.32 |
 | 2011-01-01 | 2010. évi CLIII. törvény | 1992-84-00-00.33 |
 | 2012-01-01 | 2011. évi CLXVI. törvény | 1992-84-00-00.34 |
+| 2012-09-01 | 2012. évi CXII. törvény | 1992-84-00-00.35 |

@@ -2,7 +2,7 @@
 
 4. § (1) A Nyugdíjbiztosítási Alap az öregségi nyugdíj – ideértve a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében meghatározott szolgálatfüggő nyugellátást is –, a hozzátartozói nyugellátás és törvényben meghatározott méltányossági kifizetések fedezetére szolgál.
 
-(2) A Nyugdíjbiztosítási Alap az (1) bekezdésben megjelölt ellátásokon túl, azok finanszírozásával, megállapításával és az adatszolgáltatással összefüggésben közvetlenül felmerült kamatkiadásokra, bankköltségre, postaköltségre – ideértve a bérmentesítő gép alkalmazásával kapcsolatos költségeket is – az ügyfelekkel való kapcsolattartás nyomtatott dokumentumai előállítási költségére, a jóváhagyott működési kiadások külső forrásból nem biztosított fedezetének biztosítására, az ellátások fedezetére szolgáló vagyongazdálkodási tevékenység költségeire, valamint a törvényben meghatározott egyéb kiadásra használható fel. A Nyugdíjbiztosítási Alap működési költségvetését a 10. § (2) bekezdése szerinti kiadások terhelik.
+(2) A Nyugdíjbiztosítási Alap az (1) bekezdésben megjelölt ellátásokon túl, azok finanszírozásával, megállapításával és az adatszolgáltatással összefüggésben közvetlenül felmerült kamatkiadásokra, bankköltségre, postaköltségre – ideértve a bérmentesítő gép alkalmazásával kapcsolatos költségeket is – az ügyfelekkel való kapcsolattartás nyomtatott dokumentumai előállítási költségére, a jóváhagyott működési kiadások külső forrásból nem biztosított fedezetének biztosítására, az ellátások fedezetére szolgáló vagyongazdálkodási tevékenység költségeire, valamint a törvényben meghatározott egyéb kiadásra használható fel, ideértve az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerint a társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás során a Nyugdíjbiztosítási Alapot terhelő összeg fedezetét. A Nyugdíjbiztosítási Alap működési költségvetését a 10. § (2) bekezdése szerinti kiadások terhelik.
 
 (3) A kiadások fedezetét a következő bevételek képezik:
 
@@ -44,7 +44,7 @@ e) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törv�
 
 f) a központi költségvetési hozzájárulások, ideértve az adórendszer átalakításával összefüggő pénzeszköz átvételt;
 
-g) a nyugdíjbiztosítási tevékenységgel kapcsolatos, a Nyugdíjbiztosítási Alapból fizetett – jogalap nélkül felvett, vagy más ok miatt – visszatérült, bevételként elszámolt összeg,
+g) a nyugdíjbiztosítási tevékenységgel kapcsolatos, a Nyugdíjbiztosítási Alapból fizetett – jogalap nélkül felvett, vagy más ok miatt – visszatérült, bevételként elszámolt összeg és az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerint a nyugdíjbiztosítási visszautalás során a Nyugdíjbiztosítási Alapot megillető összeg,
 
 h) a Nyugdíjbiztosítási Alap részére tartozás fejében átadott vagyon értékesítéséből, hozamából származó bevétel;
 
