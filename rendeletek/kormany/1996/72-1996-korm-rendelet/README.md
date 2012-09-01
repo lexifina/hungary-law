@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-72-20-2
 | 2012-01-01 | 1996-72-20-22.23 | 340/2004. (XII. 22.) Korm. rendelet |
 | 2012-01-07 | 1996-72-20-22.24 | 10/2000. (II. 2.) Korm. rendelet |
 | 2012-07-04 | 1996-72-20-22.25 | 123/2012. (VI. 26.) Korm. rendelet |
+| 2012-09-01 | 1996-72-20-22.26 | 242/2012. (VIII. 31.) Korm. rendelet |

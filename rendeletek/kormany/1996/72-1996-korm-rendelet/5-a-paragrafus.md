@@ -1,3 +1,3 @@
-## Az eljárás felfüggesztése és a döntés közzététele[^43]
+## Az eljárás felfüggesztése és a döntés közzététele[^44]
 
-[^43]: Az 5/A. §-t megelőző alcímet a 82/2011. (V. 18.) Korm. rendelet 3. §-a iktatta be.
+[^44]: Az 5/A. §-t megelőző alcímet a 82/2011. (V. 18.) Korm. rendelet 3. §-a iktatta be.
