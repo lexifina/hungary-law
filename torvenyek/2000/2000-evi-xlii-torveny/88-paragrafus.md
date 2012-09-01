@@ -30,7 +30,9 @@ l) az e törvény szerinti szakértői tevékenység folytatása részletes felt
 
 m) a hivatásos katasztrófavédelmi szerv eljárásai során a veszélyes áruk belvízi szállításának ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályainak, továbbá az egyes szabálytalanságokért kiszabható bírságok összegének, valamint a bírságolással összefüggő hatósági feladatok általános szabályainak,
 
-n) a víziközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályainak
+n) a víziközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályainak,
+
+o) a hajózási bírság mértékének és kivetése szabályainak
 
 rendeletben történő megállapítására.
 
@@ -94,13 +96,7 @@ rendeletben történő megállapítására.
 
 (5) Felhatalmazást kap a környezetvédelemért felelős miniszter, illetve a természetvédelemért felelős miniszter a hajózás környezet- és természetvédelmi követelményeinek, valamint a hajózási létesítményekkel kapcsolatos ügyekben eljáró környezetvédelmi hatóság feladat- és hatáskörének a miniszterrel egyetértésben, rendeletben történő megállapítására.
 
-(6) Felhatalmazást kap az államháztartásért felelős miniszter
-
-a) a határkikötők fenntartásával és működtetésével kapcsolatos szabályoknak, a miniszterrel és a határrendészetért felelős miniszterrel egyetértésben,
-
-b)
-
-rendeletben történő megállapítására.
+(6)
 
 (7) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter a hajózással kapcsolatos munkabiztonsági követelményeknek a miniszterrel és az egészségügyért felelős miniszterrel egyetértésben, rendeletben történő megállapítására.
 

@@ -1,12 +1,12 @@
 60. § (1) A jogszabályban előírt
 
-a) lajstromozási, osztályozási, biztosítási,
+a) lajstromozásra, osztályozásra, biztosításra,
 
-b) képesítési,
+b) képesítésre,
 
-c) víziút és hajóút használatára, hajóút felszabadítására,
+c) vízi út és hajóút használatára, hajóút felszabadítására,
 
-d) adatszolgáltatási, tájékoztatási, bejelentési,
+d) adatszolgáltatásra, tájékoztatásra, bejelentésre,
 
 e) úszólétesítmény szükséghelyzetben való igénybevételére, hajózási tevékenység korlátozására,
 
@@ -22,8 +22,20 @@ j) belvízi utakon közlekedési korlátozás alá eső területen üzemeltetett
 
 k) úszólétesítmény rendeltetésszerű üzemeltetéséhez előírt személyzet létszámára és képesítésére
 
-vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizetésére kötelezheti. A bírságolással kapcsolatos eljárás lefolytatására a hajózási hatóság jogosult.
+vonatkozó rendelkezések megsértőit a hajózási hatóság – a hajózási bírság mértékéről és kivetésének szabályairól szóló kormányrendeletben előírtak szerint – bírság megfizetésére kötelezheti.
 
-(2) A bírság összege legfeljebb a miniszter rendeletében megállapított hatósági eljárási díj tízszerese. Amennyiben külön jogszabály az adott tevékenységgel kapcsolatban eljárási díjat nem állapít meg, a bírság összege legfeljebb az általános tételű államigazgatási eljárási illeték húszszorosa.
+(2) A bírság összege legfeljebb 1 000 000 forint.
 
-(3)
+(3) A hajózási hatóság a hajózási bírság összegét a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározott mérlegelési szempontok alapján állapítja meg, figyelembe véve
+
+a) a jogsértés víziközlekedés biztonságára gyakorolt hatását,
+
+b) a jogsértő vagyoni helyzetét, jövedelmi viszonyait,
+
+c) a jogsértő magatartás felróhatóságát, valamint a jogsértő személy korábbi jogsértő magatartását,
+
+d) a jogsértő magatartás emberi életet és testi épséget veszélyeztető jellegét.
+
+(4) A hajózási bírság ugyanazon cselekményért ismételten is kiszabható, ha a kötelezett a jogsértő tevékenységgel nem hagy fel, vagy a jogsértő állapotot nem szünteti meg.
+
+(5) Nincs helye a hajózási bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt.
