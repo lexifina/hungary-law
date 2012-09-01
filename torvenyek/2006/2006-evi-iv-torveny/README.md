@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-4-00-00
 | 2012-06-27 | 2012. évi LXXVI. törvény | 2006-4-00-00.29 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 2006-4-00-00.30 |
 | 2012-07-16 | 2012. évi CIV. törvény | 2006-4-00-00.31 |
+| 2012-09-01 | 2011. évi CLXXX. törvény | 2006-4-00-00.32 |
