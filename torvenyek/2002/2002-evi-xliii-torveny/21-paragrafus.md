@@ -18,7 +18,7 @@ d) az egyéni szabadalmi ügyvivő,
 
 e) az ügyvéd (kivéve, amennyiben az ügyvédi tevékenységet ügyvédi iroda tagjaként vagy alkalmazott ügyvédként folytatja),
 
-f) a magán-állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező magánszemély,
+f) a szolgáltató állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező magánszemély,
 
 g)
 
