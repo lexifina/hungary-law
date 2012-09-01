@@ -30,4 +30,4 @@ is jogosult – ha törvény másként nem rendelkezik – mind a saját jogú, 
 
 (4) Ha jogszabály kivételt nem tesz, a mezőgazdasági szövetkezeti járadékra, a mezőgazdasági szakszövetkezeti járadékra és a mezőgazdasági szakszövetkezeti tagok növelt összegű járadékára a társadalombiztosítási nyugdíjrendszer keretében járó nyugellátásokra vonatkozó szabályokat kell alkalmazni.
 
-(5) Az Európai Közösségek tisztviselőinek személyzeti szabályzatáról és egyéb alkalmazottainak alkalmazási feltételeiről szóló, 1968. február 29-i 259/68/EGK, Euratom, ESZAK tanácsi rendelet (a továbbiakban: SR.) VIII. melléklet 11. cikk (1) bekezdése alapján erre jogosult személy kérheti a szerzett nyugdíjjogosultság biztosításmatematikai egyenértékének a Nyugdíjbiztosítási Alapnak történő átadását. Az SR. VIII. melléklet 11. cikk (1) és (2) bekezdésének végrehajtásához szükséges egyéb szabályokról külön törvény rendelkezik.
+(5)

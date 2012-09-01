@@ -16,7 +16,9 @@ g) azt az időt, amely az 1997. december 31-én hatályos rendelkezések szerint
 
 h) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitáció keretében foglalkoztatott személy tekintetében a munka-rehabilitációs díj folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
 
-i) az Rjtv. szerinti rehabilitációs járadék folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették.
+i) az Rjtv. szerinti rehabilitációs járadék folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
+
+j) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a nyugdíjbiztosítási visszautalás során elismert szolgálati időt, ha a Nyugdíjbiztosítási Alapot megillető összeget a Nyugdíjbiztosítási Alapnak átutalták.
 
 (2) Szolgálati időként nem lehet figyelembe venni
 
