@@ -1,6 +1,6 @@
-## 86. §[^98] A Tv. 51. § (2) bekezdés d) pontja szerinti esetben a menekültügyi hatóság elsősorban azt vizsgálja, hogy a jogerős elutasító döntés meghozatalát követően az elismerést kérő tudott-e olyan új tényt, illetve körülményt valószínűsíteni, amelyek alapján a kérelmező menekültkénti vagy oltalmazottkénti elismerésének lenne helye.
+## 86. §[^107] A Tv. 51. § (2) bekezdés d) pontja szerinti esetben a menekültügyi hatóság elsősorban azt vizsgálja, hogy a jogerős elutasító döntés meghozatalát követően az elismerést kérő tudott-e olyan új tényt, illetve körülményt valószínűsíteni, amelyek alapján a kérelmező menekültkénti vagy oltalmazottkénti elismerésének lenne helye.
 
-## A részletes vizsgálati eljárás[^99]
+## A részletes vizsgálati eljárás[^108]
 
-[^98]: A 86. § a 290/2010. (XII. 21.) Korm. rendelet 117. §-ával megállapított szöveg.
-[^99]: A 87. §-t megelőző alcím a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdésével megállapított szöveg.
+[^107]: A 86. § a 290/2010. (XII. 21.) Korm. rendelet 117. §-ával megállapított szöveg.
+[^108]: A 87. §-t megelőző alcím a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdésével megállapított szöveg.

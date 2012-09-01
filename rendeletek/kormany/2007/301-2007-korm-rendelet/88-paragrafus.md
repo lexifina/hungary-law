@@ -1,8 +1,8 @@
 ## 87. § A kérelmezőt a kijelölt szálláshelyen történő elhelyezés alkalmával tájékoztatni kell a szálláshelyen előírt magatartási szabályokról, valamint e szabályok megszegésének következményeiről.
 
-88. § (1)[^100] A menekültügyi hatóság a kérelmezőt az részletes vizsgálati eljárásban meghallgatja.
+88. § (1)[^109] A menekültügyi hatóság a kérelmezőt az részletes vizsgálati eljárásban meghallgatja.
 
-(2)[^101]
+(2)[^110]
 
-[^100]: A 88. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
-[^101]: A 88. § (2) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^109]: A 88. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
+[^110]: A 88. § (2) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés c) pontja hatályon kívül helyezte.

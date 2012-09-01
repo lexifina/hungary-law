@@ -1,4 +1,4 @@
-## 73. §[^87] Az elismerését kérő menekültként, oltalmazottként vagy menedékesként történő elismerése esetén a Tv. 42. § (1) bekezdésében meghatározott kapcsolatfelvétel tilalma az elismerés visszavonásáról rendelkező jogerős döntés meghozataláig áll fenn.
+## 73. §[^96] Az elismerését kérő menekültként, oltalmazottként vagy menedékesként történő elismerése esetén a Tv. 42. § (1) bekezdésében meghatározott kapcsolatfelvétel tilalma az elismerés visszavonásáról rendelkező jogerős döntés meghozataláig áll fenn.
 
 74. § (1) Az eljárási képességgel nem rendelkező elismerését kérőt törvényes képviselője vagy ügygondnoka jelenlétében kell meghallgatni.
 
@@ -20,7 +20,7 @@ a) a meghallgatás idejére a menekültügyi hatóság kizárólagos használat�
 
 b) az elismerését kérő személyes meghallgatáson történő megjelenéséről.
 
-(9)[^88] A meghallgatásról jegyzőkönyvet kell készíteni. Az elismerését kérőnek biztosítani kell a lehetőséget, hogy a jegyzőkönyv tartalmára észrevételeket tegyen.
+(9)[^97] A meghallgatásról jegyzőkönyvet kell készíteni. Az elismerését kérőnek biztosítani kell a lehetőséget, hogy a jegyzőkönyv tartalmára észrevételeket tegyen.
 
-[^87]: A 73. § a 290/2010. (XII. 21.) Korm. rendelet 115. §-ával megállapított szöveg.
-[^88]: A 74. § (9) bekezdését a 81/2012. (IV. 13.) Korm. rendelet 19. §-a iktatta be.
+[^96]: A 73. § a 290/2010. (XII. 21.) Korm. rendelet 115. §-ával megállapított szöveg.
+[^97]: A 74. § (9) bekezdését a 81/2012. (IV. 13.) Korm. rendelet 19. §-a iktatta be.

@@ -8,8 +8,8 @@
 
 a) a menekült, az oltalmazott és a menedékes részére a menekültügyi hatóság által megjelölt intézményben szervezett, államilag elismert, „A”, „B” vagy „C” típusú alap-, illetve középfokú magyar nyelvvizsga;
 
-b)[^57] a nevelési-oktatási intézményi oktatás keretében tanulmányokat folytató tanköteles korú menekült, oltalmazott és menedékes részére a menekültügyi hatóság által megjelölt intézményben szervezett felzárkóztató magyar nyelvi képzés.
+b)[^67] a nevelési-oktatási intézményi oktatás keretében nappali rendszerű iskolai oktatásban tanulmányokat folytató menekült, oltalmazott és menedékes részére – nagykorúsága eléréséig – a menekültügyi hatóság által megjelölt intézményben szervezett felzárkóztató magyar nyelvi képzés.
 
 (3) Az (1)–(2) bekezdésben meghatározott képzés, illetve vizsga költségét a menekültügyi hatóság az intézmény részére megtéríti.
 
-[^57]: Az 51. § (2) bekezdés b) pontja a 290/2010. (XII. 21.) Korm. rendelet 105. §-ával megállapított szöveg.
+[^67]: Az 51. § (2) bekezdés b) pontja a 81/2012. (IV. 18.) Korm. rendelet 17. §-ával megállapított szöveg.

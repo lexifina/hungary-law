@@ -12,7 +12,7 @@ a) a befogadás anyagi feltételeinek további biztosítása,
 
 b) egészségügyi ellátás,
 
-c) az oktatási-nevelési költségek, valamint a menekült, az oltalmazott és a menedékes tankötelezettsége teljesítésével kapcsolatos költségek megtérítése,
+c)[^45] oktatási, nevelési költségek megtérítése,
 
 d) pénzbeli támogatások,
 
@@ -49,3 +49,5 @@ c) a lakhatási támogatás,
 d) menekültek és oltalmazottak lakáscélú támogatása.
 
 (5) A menedékes nem jogosult a letelepedéshez nyújtott egyszeri támogatásra, lakhatási támogatásra, valamint a menekültek és oltalmazottak lakáscélú támogatására.
+
+[^45]: A 37. § (1) bekezdés c) pontja a 81/2012. (IV. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
