@@ -1,7 +1,13 @@
 34. § (1) A Cst.
 
-a)
+a) 21/A. § (2) bekezdésében és 22. § b) pontjában az „intézményben [Gyvt. 41. § (3) bek.]” szövegrész helyébe az „intézményben [Gyvt. 41. § (3) bek.], illetve nyári napközis otthonban, óvodában vagy iskolai napköziben” szöveg,
 
 b)
 
-(2)
+(2) Hatályát veszti a Cst.
+
+a) 4. § c) pontja,
+
+b) 8. § (2) bekezdésében az „[a közoktatásról szóló 1993. évi LXXIX. törvény 30/A. §]” szövegrész,
+
+c) 15. § (2) bekezdésében a „tanköteles” szövegrész.
