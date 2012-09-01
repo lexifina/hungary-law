@@ -49,11 +49,3 @@
 24. 5. számú melléklete,
 
 25. 6/A. számú melléklet 2. sora.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
