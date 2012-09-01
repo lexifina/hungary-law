@@ -272,8 +272,8 @@
 
 ## 1 var = 1 W.
 
-2. számú melléklet a 127/1991. (X. 9.) Korm. rendelethez[^75]
+2. számú melléklet a 127/1991. (X. 9.) Korm. rendelethez[^77]
 
 Kötelező hitelesítésű mérőeszközök
 
-[^75]: A Vhr. eredeti mellékletének számozását a 294/2001. (XII. 26.) Korm. rendelet 7. §-ának (2) bekezdése 2. számú mellékletre változtatta, szövege a 309/2005. (XII. 25.) Korm. rendelet 12. §-ával megállapított, a 266/2006. (XII. 20.) Korm. rendelet 6. § (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 25. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^77]: A Vhr. eredeti mellékletének számozását a 294/2001. (XII. 26.) Korm. rendelet 7. §-ának (2) bekezdése 2. számú mellékletre változtatta, szövege a 309/2005. (XII. 25.) Korm. rendelet 12. §-ával megállapított, a 266/2006. (XII. 20.) Korm. rendelet 6. § (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 25. §-a, a 247/2012. (VIII. 31.) Korm. rendelet 2. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 9M36385M_0
+## 2K19478M_0
 
 | Sor- szám | Megnevezés | A hitelesítés hatálya (év) |
 
@@ -10,7 +10,7 @@
 
 |  | a) bekötési és törzshálózati | 4 |
 
-|  | b) mellékvízmérő elszámolásra | 6 |
+|  | b) mellékvízmérő elszámolásra | 8 |
 
 |  | c) mellékvízmérő költségmegosztásra | korlátlan |
 
@@ -102,9 +102,9 @@
 
 ## 4 A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény.
 
-3. számú melléklet a 127/1991. (X. 9.) Korm. rendelethez[^76]
+3. számú melléklet a 127/1991. (X. 9.) Korm. rendelethez[^78]
 
-A mérésügyi hatóság által használt törvényes tanúsító jelek, hitelesítési bélyegzők rajzai és alkalmazásuk módja[^77]
+A mérésügyi hatóság által használt törvényes tanúsító jelek, hitelesítési bélyegzők rajzai és alkalmazásuk módja[^79]
 
 1. A törvényes tanúsító jelet a mérőeszköz
 
@@ -162,5 +162,5 @@ A Szentkorona mellett a „MÉRŐESZKÖZ MINŐSÍTÉS” felirat.
 
 A mező alsó részén azonosító jelölés, alatta a minősítés éve található.
 
-[^76]: A Vhr. 3. számú mellékletét a 294/2001. (XII. 26.) Korm. rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 266/2006. (XII. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 7. § (1)–(2) bekezdése alapján rendelkezéseit a 2007. január 1. napját követően indult hatósági eljárásokban kell alkalmazni. A „2006–2009.” évszámot és az „OMH” jelölést tartalmazó hitelesítő, valamint lezáró öntapadó matricák 2009. december 31-éig érvényesek.
-[^77]: A Vhr. 3. számú mellékletének címe a 182/2009. (IX. 10.) Korm. rendelet 24. § (7) bekezdésével megállapított szöveg.
+[^78]: A Vhr. 3. számú mellékletét a 294/2001. (XII. 26.) Korm. rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 266/2006. (XII. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 7. § (1)–(2) bekezdése alapján rendelkezéseit a 2007. január 1. napját követően indult hatósági eljárásokban kell alkalmazni. A „2006–2009.” évszámot és az „OMH” jelölést tartalmazó hitelesítő, valamint lezáró öntapadó matricák 2009. december 31-éig érvényesek.
+[^79]: A Vhr. 3. számú mellékletének címe a 182/2009. (IX. 10.) Korm. rendelet 24. § (7) bekezdésével megállapított szöveg.
