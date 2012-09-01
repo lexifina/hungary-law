@@ -34,13 +34,13 @@
 
 | 1503 | Bekanyarodási szabályok megsértése [KRESZ 31. § (1)–(4) bek.]; | 3 |
 
-| 1504 | Megfordulás, hátramenet szabályainak megszegése autópályán, autóúton és vasúti átjáróban [KRESZ 33. § (2) bek., 37. § (3) bek. b) pont]; | 6 |
+| 1504 | Megállás, megfordulás, hátramenet szabályainak megszegése autópálya úttestjén és leállósávján autóúton és vasúti átjáróban [KRESZ 33. § (2) bek., 37. § (3) bek. b) pont, (4) bek.]; | 6 |
 
 | 1505 | Megállás útkereszteződésben és az úttestek széleinek metszéspontjától számított 5 m-es távolságon belül [40. § (5) bek. d) pont]; | 2 |
 
-| 1506 |  |  |
+| 1506 | Megállás kijelölt gyalogos-átkelőhelyen, valamint a gyalogos-átkelőhely előtt [KRESZ 40. § (5) bekezdés e) pont]; | 6 |
 
-| 1507 |  |  |
+| 1507 | Megállás kerékpársávon, útkanyarulatban, valamint olyan helyen, ahol a jármű a fényjelzőkészülék vagy jelzőtábla észlelését akadályozza [KRESZ 40. § (5) bekezdés a), c), l) pont]; | 6 |
 
 | 1508 |  |  |
 
@@ -66,4 +66,4 @@
 
 1/A. számú melléklet a 236/2000. (XII. 23.) Korm. rendelethez[^14]
 
-[^14]: Az 1/A. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 228/2012. (VIII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^14]: Az 1/A. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 228/2012. (VIII. 23.) Korm. rendelet 8. § (2) bekezdése és 10. § (4) bekezdése szerint módosított szöveg.
