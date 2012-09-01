@@ -32,7 +32,7 @@ kd) a járművezető szervezetében a szeszes ital fogyasztásából származó 
 
 ke) a vasúti átjárón való áthaladásra,
 
-kf) a járművel történő megállásra és várakozásra,
+kf)
 
 kg) a behajtási tilalomra, a korlátozott övezetre (zóna), a kötelező haladási irányra
 
@@ -50,7 +50,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (4a) A közúti forgalomban történő ellenőrzés során, ha a 20. § (1) bekezdés k) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja határozathozatal nélkül szabja ki a bírságot és döntését közli az elkövetővel. Ha az elkövető a jogsértés tényét nem vitatja, a döntéssel szemben fellebbezésnek nincs helye, amelyről az ügyfelet a helyszínen tájékoztatni kell.
 
-(4b) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés kf) és kg) pontjában meghatározott szabályszegést elkövető személye a helyszínen nem válik ismertté és a szabályszegést a külön jogszabályban meghatározott technikai eszközzel nem rögzítették, a (4) bekezdésben meghatározott bírságot a gépjármű forgalmi rendszáma alapján megállapított üzemben tartóval szemben kell kiszabni. Ilyenkor az üzemben tartó címére kell a kiszabott összeget tartalmazó csekkszelvényt megküldeni.
+(4b) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés kg) pontjában meghatározott szabályszegést elkövető személye a helyszínen nem válik ismertté és a szabályszegést a külön jogszabályban meghatározott technikai eszközzel nem rögzítették, a (4) bekezdésben meghatározott bírságot a gépjármű forgalmi rendszáma alapján megállapított üzemben tartóval szemben kell kiszabni. Ilyenkor az üzemben tartó címére kell a kiszabott összeget tartalmazó csekkszelvényt megküldeni.
 
 (4c) Ha a gépjármű üzemben tartója a (4b) bekezdés alapján kiszabott közigazgatási bírságot nem veszi tudomásul, a közigazgatási hatósági eljárást az egyébként irányadó rendelkezések szerint kell lefolytatni. Így kell eljárni akkor is, ha a gépjármű üzemben tartójának megküldött csekkszelvényen vagy banki átutalással a közigazgatási bírságot harminc napon belül nem fizetik meg.
 
@@ -102,7 +102,7 @@ d) az (1) bekezdés e) pontja tekintetében – a veszélyes áru szállítójá
 
 e) az (1) bekezdés k) pontja tekintetében a rendőrség
 
-f) az (1) bekezdés kf) és kg) pontjai tekintetében a közterület-felügyelet is
+f) az (1) bekezdés kg) pontja tekintetében a közterület-felügyelet is
 
 jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c) és d) pontjában meghatározott ellenőrzésébe a munkaügyi hatóság is, a belföldi forgalomban közlekedő járműnek az (1) bekezdés a) és b), valamint f)–j) pontjában meghatározott ellenőrzésébe a vámhatóság is bevonható.
 

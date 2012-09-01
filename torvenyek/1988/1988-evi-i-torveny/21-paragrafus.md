@@ -6,7 +6,7 @@ b) a vasúti átjárón való áthaladásra,
 
 c) a járműforgalom irányítására szolgáló fényjelző készülék jelzéseire,
 
-d) a járművel történő megállásra és várakozásra,
+d)
 
 e) az autópálya leálló sávjának igénybevételére,
 
