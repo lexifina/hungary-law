@@ -1,0 +1,3 @@
+## 1. § A Magyar Honvédség külföldi szolgálatot teljesítő és külföldi tanulmányokat folytató személyi állománya devizaellátmányáról és egyes ellátmányon kívüli pénzbeli járandóságairól szóló 26/2007. (VI. 20.) HM rendelet (a továbbiakban: R1.) 1. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) Amennyiben a Hjt. 48/A. § (1) bekezdése alapján a Nemzeti Közszolgálati Egyetemen (a továbbiakban: NKE) szolgálatot teljesítő kiküldött nem a Honvédelmi Minisztérium (a továbbiakban: HM) – a HM és az NKE közötti külön megállapodásban rögzített – képzési igényeihez kapcsolódóan lát el külföldön feladatot, a külföldi feladatellátás időtartamára a honvédség által e rendelet szerint biztosítható juttatásokra a 4. §-ban foglaltak kivételével nem jogosult.”
