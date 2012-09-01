@@ -6,14 +6,6 @@ b) az 1234/2007/EK tanácsi rendeletnek a tej- és tejtermék-ágazati szerződ�
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2012. évi CXXVIII. törvényhez
 
 A törvény 9. §-a alapján kiterjeszthető piacszervezési intézkedések
