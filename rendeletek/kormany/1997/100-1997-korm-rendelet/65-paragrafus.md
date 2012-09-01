@@ -1,3 +1,3 @@
-## 64. §[^348]
+## 64. §[^360]
 
-[^348]: A 64. §-t a 229/2007. (VIII. 31.) Korm. rendelet 21. § (7) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte.
+[^360]: A 64. §-t a 229/2007. (VIII. 31.) Korm. rendelet 21. § (7) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte.

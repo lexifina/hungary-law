@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-100-20-
 | 2012-02-14 | 1997-100-20-22.30 | 12/2012. (II. 14.) Korm. rendelet |
 | 2012-04-01 | 1997-100-20-22.31 | 324/2011. (XII. 28.) Korm. rendelet |
 | 2012-08-31 | 1997-100-20-22.32 | 12/2012. (II. 14.) Korm. rendelet |
+| 2012-09-01 | 1997-100-20-22.33 | 106/2012. (VI. 1.) Korm. rendelet |

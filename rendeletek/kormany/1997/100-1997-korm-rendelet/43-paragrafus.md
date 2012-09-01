@@ -8,10 +8,10 @@ b) a jelenlévő, illetőleg a hiányzó bizottsági tagok, szaktanárok és ké
 
 c) a vizsgabizottság döntéseit, a rövid indokolással és a szavazás eredményét,
 
-d)[^234] azok nevét, akik javítóvizsgán megismételhetik, vagy pótló vizsgán folytathatják az érettségi vizsgát, a vizsgatárgy, vizsgarész, vizsgaszint megnevezésével, illetve azokét, akiket a vizsgáról kizártak, és a döntés okát,
+d)[^236] azok nevét, akik javítóvizsgán megismételhetik, vagy pótló vizsgán folytathatják az érettségi vizsgát, a vizsgatárgy, vizsgarész, vizsgaszint megnevezésével, illetve azokét, akiket a vizsgáról kizártak, és a döntés okát,
 
 e) a vizsgabizottság elnökének rövid értékelését,
 
 f) a vizsgabizottság tagjainak hozzászólását, a kisebbségi véleményeket.
 
-[^234]: A 43. § (2) bekezdésének d) pontja a 233/2004. (VIII. 6.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^236]: A 43. § (2) bekezdésének d) pontja a 233/2004. (VIII. 6.) Korm. rendelet 31. §-ával megállapított szöveg.

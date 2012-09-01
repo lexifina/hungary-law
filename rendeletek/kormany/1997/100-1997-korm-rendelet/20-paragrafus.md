@@ -10,7 +10,7 @@
 
 (6) A vizsgateremben és a folyosón gondoskodni kell az állandó felügyeletről. A felügyelő tanárok az igazgató által előre megállapított sorrendben, óránként váltják egymást. A felügyelő tanár feladata annak megakadályozása, hogy a vizsgázó meg nem engedett segédeszközt használjon, társaitól vagy más személytől segítséget vegyen igénybe.
 
-(7) A közoktatásról szóló törvény 30. §-ának (9) bekezdése szerint a vizsgázó kérelmére, az igazgató engedélye alapján
+(7)[^132] A 6. § (7) bekezdése szerint a vizsgázó kérelmére, az igazgató engedélye alapján
 
 a) a 19. § (1) bekezdésben meghatározott időt legfeljebb egy órával (60 perc) meg kell növelni,
 
@@ -18,8 +18,9 @@ b) lehetővé kell tenni, hogy az iskolai tanulmányok során alkalmazott segéd
 
 c) engedélyezni kell, hogy az írásbeli vizsga helyett szóbeli beszámolót tegyen, vagy a szóbeli vizsgát írásban teljesítse,
 
-d)[^132] a tanuló a vizsgán mentesülhet az értékelés egy vagy több része alól, amennyiben a középiskolában a megfelelő tantárgyból nem mentesítették az értékelés, minősítés egésze alól.
+d)[^133] a tanuló a vizsgán mentesülhet az értékelés egy vagy több része alól, amennyiben a középiskolában a megfelelő tantárgyból nem mentesítették az értékelés, minősítés egésze alól.
 
 [^130]: A 20. § a 256/2005. (XII. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^131]: A 20. § (1) bekezdése a 253/2006. (XII. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^132]: A 20. § (7) bekezdésének d) pontját a 253/2006. (XII. 7.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^132]: A 20. § (7) bekezdés nyitó szövegrésze a 106/2012. (VI. 1.) Korm. rendelet 9. § j) pontja szerint módosított szöveg.
+[^133]: A 20. § (7) bekezdésének d) pontját a 253/2006. (XII. 7.) Korm. rendelet 6. § (2) bekezdése iktatta be.
