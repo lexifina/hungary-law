@@ -36,7 +36,7 @@ a) rendeletben szabályozza
 
 16. az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak megfizetésével kapcsolatos eljárási szabályokat, az igazgatási szolgáltatási díjfizetés ellenében végzett feladatokat, valamint az igazgatási szolgáltatási díjak felhasználásának szabályait;
 
-17. a vágás utáni minősítési kötelezettség alá eső állatok körét, a minősítés rendjét és ezen állatok kereskedelmi jelölésének szabályait;
+17.
 
 18. a mesterséges termékenyítési szolgáltatást nyújtó inszeminátori, embrióátültetői tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és az inszeminátorok, embrióátültetők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az inszeminátori, embrióátültetői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
 
