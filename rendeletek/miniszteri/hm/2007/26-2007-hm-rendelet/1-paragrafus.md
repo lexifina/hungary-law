@@ -26,8 +26,11 @@ h) önkéntes tartalékos katonákra. A továbbiakban az a)–h) pontokban felso
 
 (3)[^5] A Hjt. 109/A. §-a szerinti vezetők esetében e rendelet rendelkezéseit külön jogszabály által nem szabályozott kérdésekben kell alkalmazni.
 
+(4)[^6] Amennyiben a Hjt. 48/A. § (1) bekezdése alapján a Nemzeti Közszolgálati Egyetemen (a továbbiakban: NKE) szolgálatot teljesítő kiküldött nem a Honvédelmi Minisztérium (a továbbiakban: HM) – a HM és az NKE közötti külön megállapodásban rögzített – képzési igényeihez kapcsolódóan lát el külföldön feladatot, a külföldi feladatellátás időtartamára a honvédség által e rendelet szerint biztosítható juttatásokra a 4. §-ban foglaltak kivételével nem jogosult.
+
 [^1]: Az 1. § (1) bekezdés d) pontját az 1/2011. (III. 8.) HM rendelet 27. § (6) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
 [^2]: Az 1. § (1) bekezdés e) pontja az 1/2011. (III. 8.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (1) bekezdés f) pontját az 1/2011. (III. 8.) HM rendelet 27. § (6) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 27. § (3) bekezdését.
 [^4]: Az 1. § (1) bekezdés g) pontja a 3/2012. (III. 6.) HM rendelet 52. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (3) bekezdését a 3/2012. (III. 6.) HM rendelet 52. § (2) bekezdése iktatta be.
+[^6]: Az 1. § (4) bekezdését a 18/2012. (VIII. 22.) HM rendelet 1. §-a iktatta be.

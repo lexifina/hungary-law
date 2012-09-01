@@ -8,8 +8,8 @@ b) szállásköltségének megtérítésére,
 
 c) utazási költségtérítésre, és
 
-d)[^132] a kiküldő által a vezénylési határozatban vagy parancsban jóváhagyott egyéb költségei megtérítésére.
+d)[^142] a kiküldő által a kiutazást elrendelő döntésben jóváhagyott egyéb költségei megtérítésére.
 
 (2) A rendelet hatálya alá nem tartozó személyek közül azok ellátását, akiket a kiküldő kér fel kiutazó delegáció hivatalos tagjának, a honvédség biztosítja az e fejezetben szereplő feltételekkel.
 
-[^132]: Az 51. § (1) bekezdés d) pontja a 3/2012. (III. 6.) HM rendelet 62. § (1) bekezdés w) pontja szerint módosított szöveg.
+[^142]: Az 51. § (1) bekezdés d) pontja a 18/2012. (VIII. 22.) HM rendelet 16. § q) pontja szerint módosított szöveg.

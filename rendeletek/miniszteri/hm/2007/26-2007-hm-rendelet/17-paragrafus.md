@@ -1,31 +1,35 @@
 ## Szállítási költségek
 
-17. § (1) Az állomáshelyre történő első kiutazás és végleges hazautazás alkalmával (ideértve a másik állomáshelyre történő áthelyezés esetét is) a honvédség a legszükségesebb személyi ingóságok szállításának számlával igazolt költségeit az alábbiak szerint (a következő súlyhatárokig) téríti meg:
+17. §[^59] (1) Az állomáshelyre történő első kiutazás és végleges hazautazás alkalmával, ideértve a másik állomáshelyre történő áthelyezés esetét is, a honvédség a legszükségesebb személyi ingóságok szállításához – ide nem értve a 17/A. § szerinti berendezési tárgyakat – a (2)–(11) bekezdés szerinti feltételekkel biztosít költségtérítést.
 
-a)[^61] vasúton, közúton és hajón történő szállítás esetén a kiküldött után 200, a házastárs (élettárs) után 150, családtagi pótlékra jogosító gyermekenként 50-50 kg-ig;
+(2) A személyi ingóságok szállításának elszámolása során legfeljebb a következő súlyhatárok vehetők figyelembe:
 
-b) repülőgép igénybevétele esetén a kiküldött után 150, a házastárs (élettárs) után 100, a családtagi pótlékra jogosító gyermekenként 30-30 kg-ig;
+a) vasúton, közúton és hajón történő szállítás esetén a kiküldött után 200, a házastárs után 150, családtagi pótlékra jogosító gyermekenként 50-50 kg;
 
-c) amennyiben a szállítás konténerrel történik, a tényleges számla szerinti összeget, de legfeljebb az engedélyezett súlyhatárhoz tartozó összeg erejéig lehet elszámolni.
+b) légi szállítás igénybevétele esetén a kiküldött után 150, a házastárs után 100, a családtagi pótlékra jogosító gyermekenként 30-30 kg.
 
-(2) Repülőgépen történő első kiutazás és végleges hazautazás, valamint az Európán kívüli országokból szabadságra és arról történő visszautazás alkalmával a repülőtársaság által személyenként biztosított súlyhatáron felül 20-20 kg túlsúlyt a honvédség terhére lehet elszámolni.
+(3) Amennyiben a szállítás konténerrel történik, melynél a számlázás alapját a szállítótérfogat képezi, a tényleges számla szerinti összeg, legfeljebb azonban a (9) bekezdés szerinti normaösszeg számolható el.
 
-(3) A kiküldött részére a külföldi állomáshelyre történő első ki- és végleges hazautazása során az (1)–(2) bekezdésekben meghatározott súlyhatárokig a személyi ingóságok vám-, illetve a vámmal kapcsolatos, (4) bekezdés szerinti költségeit meg kell téríteni. A számlával igazolt költségek elszámolását az illetékes logisztikai ellátó szerv vezetője engedélyezi.
+(4) Repülőgépen történő első kiutazás és végleges hazautazás alkalmával a repülőtársaság által személyenként biztosított súlyhatáron felül 20-20 kg túlsúlyt a honvédség terhére lehet elszámolni. A repülőtársaság által személyenként biztosított súlyhatár hiányában személyenként összesen 40-40 kg súlyt lehet a honvédség terhére elszámolni.
 
-(4) A kiküldött első kiutazásával, illetve végleges hazatérésével kapcsolatosan a honvédség a következő vámjellegű költségeket téríti meg:
+(5) A kiküldött részére a külföldi állomáshelyre történő első ki- és végleges hazautazása során a (2) és (4) bekezdésben meghatározott súlyhatárokig a személyi ingóságok szállítása (6) bekezdés szerinti vám-, és vámmal kapcsolatos költségeit meg kell téríteni, melynek során a számlával igazolt költségek elszámolását az illetékes logisztikai ellátó szerv vezetője engedélyezi.
+
+(6) Az (5) bekezdés alkalmazása során a honvédség a következő vámjellegű költségeket téríti meg:
 
 a) a kiküldött és családtagi pótlékra jogosító hozzátartozói személyi ingóságairól készülő egységes vámáru-nyilatkozat elkészítésének költsége,
 
-b) egyes spedíciós költségek (garanciajegy, tranzit vámokmány kiállításának díja),
+b) egyes spedíciós költségek, különösen garanciajegy, tranzit vámokmány kiállításának díja,
 
-c) vámszemle díjak (magyarországi, helyszíni).
+c) vámszemle díjak, különösen magyarországi, helyszíni.
 
-(5) A kiküldött személyi ingóságainak ki- és hazaszállíttatását, a vámügyintézést alapvetően az illetékes logisztikai ellátó szerv végzi. A kiküldött azonban egyénileg is szállíttathatja személyi ingóságait, azzal, hogy ez esetben a szállítással és vámmal kapcsolatos teljes körű ügyintézés a kiküldöttet terheli.
+(7) A kiküldött és családtagi pótlékra jogosító hozzátartozói személyi ingóságainak ki- és hazaszállíttatása, továbbá másik állomáshelyre történő áthelyezés esetén az új állomáshelyre való átszállítása, az onnan történő visszaszállítása megszervezését, továbbá a szállítás vámügyintézését a kiküldött végzi.
 
-(6) Amennyiben a kiküldött egyénileg szállíttatja ingóságait, részére az (1)–(2) bekezdésekben foglaltak alapján a szállítási költség számlával igazolt összegét, de legfeljebb a (7) bekezdés szerinti normaösszeget lehet megtéríteni.
+(8) A kiküldött részére a személyi ingóságok szállításának költsége az (1)–(4) bekezdésben foglaltak alapján a szállítási költség számlával igazolt összegéig, de legfeljebb a (9) bekezdés szerinti normaösszegig téríthető meg, amennyiben a szállításhoz a honvédség nem biztosít térítésmentesen szállítókapacitást. A számlán szereplő tételek közül a csomagolási, rakodási, szállítási szolgáltatásról szólók számolhatók el. Amennyiben az elszámolás során külföldi pénznemben kiállított számla kerül benyújtásra, a költségtérítés folyósításához szükséges átváltásnál a kifizetés hónapját megelőző hónap tizenötödik napján érvényes, hivatalos MNB devizaárfolyamot kell figyelembe venni.
 
-(7) Az illetékes logisztikai ellátó szerv minden év január 31-ig a honvédség tartós külföldi szolgálatot teljesítő kiküldöttei állomáshelyéül szolgáló településenként elkészíti és közzéteszi az adott évre érvényes szállítási normaösszegeket, külön-külön az állomáshelyre való kiköltözés és a hazaköltözés költségeire vonatkoztatva. A számítások alapját az illetékes logisztikai ellátó szervnél a költöztetések során felmerült költségek képezik.
+(9) Az illetékes logisztikai ellátó szerv minden év január 31-ig – a honvédség tartós külföldi szolgálatot teljesítő kiküldöttei állomáshelyéül szolgáló településenkénti bontásban – elkészíti és közzéteszi az adott naptári évre érvényes személyi ingóság szállítási normaösszegeket, külön-külön az állomáshelyre való kiköltözés és a hazaköltözés költségeire vonatkoztatva azzal, hogy a hazatelepülésre megállapított norma összege nem lehet alacsonyabb, mint a kihelyezésre vonatkozó norma. A norma összegének meghatározása során a tengerentúli szállítások esetében – amennyiben gazdaságosabb – a konténerrel történő vízi szállítási formát kell figyelembe venni.
 
-(8) A kiküldött saját gépjárművének külföldre történő kivitele, illetőleg hazahozatala és a kapcsolódó vámügyintézés a kiküldött feladata, a költségek a kiküldöttet terhelik.
+(10) A kiküldött saját gépjárművének saját elhatározásból Magyarországról külföldre történő kivitele, Magyarországra történő behozatala és a kapcsolódó vámügyintézés a kiküldött feladata, és a költségek is a kiküldöttet terhelik.
 
-[^61]: A 17. § (1) bekezdés a) pontja a 12/2011. (X. 5.) HM rendelet 9. § (1) bekezdés d) pontja szerint módosított szöveg.
+(11) A tartós külszolgálat alatti áthelyezés miatti állomáshelyváltás, és a kiküldött akaratától függetlenül szükségessé váló, állomáshelyen belüli átköltözés esetén a (8) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a kiküldött részére folyósítható költségtérítés maximális mértékét az illetékes logisztikai ellátó szerv esetenként – az átköltözés időpontját megelőzően – határozza meg az adott szállítási viszonylathoz kapcsolódó sajátosságokat figyelembe véve, így különösen az eredeti és az új állomáshely távolságát, az átköltözés során igénybe vehető szállítási formákat, ez utóbbiak költség- és időigényét.
+
+[^59]: A 17. § a 18/2012. (VIII. 22.) HM rendelet 8. §-ával megállapított szöveg.

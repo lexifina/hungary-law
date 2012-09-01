@@ -1,4 +1,4 @@
-## 53. §[^138]
+## 53. §[^148]
 
 ## Szállásköltség-térítés
 
@@ -8,7 +8,7 @@
 
 (3) A napi szállásköltség felső határát, ezen túlmenően – gépjárművel történő utazás esetén – az utazás időtartamát a kiutazás előtt meg kell határozni. Ennél magasabb összegű költség csak kivételesen, előre nem látható körülmények bekövetkezése esetén, a kiküldő utólagos engedélyével számolható el.
 
-(4)[^139] Amennyiben a szállás (a szállodai szoba) ára kötelező reggeli árát is tartalmazza, a szállásköltség számlával igazolt költségét teljes összegben meg kell téríteni a kiküldött részére.
+(4)[^149] Amennyiben a szállás (a szállodai szoba) ára kötelező reggeli árát is tartalmazza, a szállásköltség számlával igazolt költségét teljes összegben meg kell téríteni a kiküldött részére.
 
-[^138]: Az 53. §-t a 7/2012. (VI. 5.) HM rendelet 8. § (1) bekezdés e) pontja hatályon kívül helyezte.
-[^139]: Az 54. § (4) bekezdése a 7/2012. (VI. 5.) HM rendelet 4. §-ával megállapított szöveg.
+[^148]: Az 53. §-t a 7/2012. (VI. 5.) HM rendelet 8. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^149]: Az 54. § (4) bekezdése a 7/2012. (VI. 5.) HM rendelet 4. §-ával megállapított szöveg.

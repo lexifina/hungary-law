@@ -16,9 +16,9 @@ vér szerinti, örökbe fogadott, nevelt, gyámságba vett gyermeke után jár a
 
 a) házastárs után
 
-aa)[^40] amennyiben a külföldi tartózkodás ideje alatt nem rendelkezik jövedelemmel (ide nem értve a nyugdíjat és nyugdíjszerű ellátásokat), az alapellátmány összegének alapulvételével a 2,5-es szorzószámmal számított devizaellátmány 25%-a,
+aa)[^40] amennyiben a külföldi tartózkodás ideje alatt nem rendelkezik jövedelemmel – ide nem értve a nyugdíjat, nyugdíjszerű ellátásokat, továbbá a nem foglalkoztatási jogviszonyból származó jövedelmet –, az alapellátmány összegének alapulvételével a 2,5-es szorzószámmal számított devizaellátmány 25%-a,
 
-ab)[^41] ha a külföldi tartózkodás ideje alatt szerzett havi nettó jövedelme (ide nem értve a nyugdíjat és nyugdíjszerű ellátásokat) nem haladja meg az állomáshelyre meghatározott alapellátmány összegét, az alapellátmány összegének alapulvételével a 2,5-es szorzószámmal számított devizaellátmány 12,5%-a;
+ab)[^41] ha a külföldi tartózkodás ideje alatt szerzett havi nettó jövedelme – ide nem értve a nyugdíjat, nyugdíjszerű ellátásokat, továbbá a nem foglalkoztatási jogviszonyból származó jövedelmet – nem haladja meg az állomáshelyre meghatározott alapellátmány összegét, az alapellátmány összegének alapulvételével a 2,5-es szorzószámmal számított devizaellátmány 12,5%-a;
 
 b) gyermek után – a c) pontban foglaltak kivételével – az alapellátmány összegének alapulvételével a 2,5-es szorzószámmal számított devizaellátmány
 
@@ -40,5 +40,5 @@ cb) 20%-a a gyermek 12. életévének betöltését követően.
 [^37]: A 7. § (2) bekezdése a 3/2012. (III. 6.) HM rendelet 53. §-ával megállapított szöveg.
 [^38]: A 7. § (3) bekezdése a 3/2012. (III. 6.) HM rendelet 53. §-ával megállapított szöveg.
 [^39]: A 7. § (4) bekezdése a 4/2011. (VI. 7.) HM rendelet 11. §-ával megállapított szöveg.
-[^40]: A 7. § (4) bekezdés a) pont aa) alpontja a 12/2011. (X. 5.) HM rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^41]: A 7. § (4) bekezdés a) pont ab) alpontja a 7/2011. (VIII. 18.) HM rendelet 13. §-a, a 12/2011. (X. 5.) HM rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^40]: A 7. § (4) bekezdés a) pont aa) alpontja a 12/2011. (X. 5.) HM rendelet 9. § (1) bekezdés b) pontja, a 18/2012. (VIII. 22.) HM rendelet 16. § d) pontja szerint módosított szöveg.
+[^41]: A 7. § (4) bekezdés a) pont ab) alpontja a 7/2011. (VIII. 18.) HM rendelet 13. §-a, a 12/2011. (X. 5.) HM rendelet 9. § (1) bekezdés a) pontja, a 18/2012. (VIII. 22.) HM rendelet 16. § d) pontja szerint módosított szöveg.

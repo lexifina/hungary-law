@@ -1,47 +1,53 @@
-## A NATO-, EU- és nemzeti beosztást betöltők devizaszorzószámainak mértéke
+## A NATO- és nemzeti beosztást betöltők devizaszorzószámainak mértéke
 
-| Fsz. | Hivatásos és szerződéses katonák (besorolási osztály/beosztási kategória) | Közalkalmazottak (munkakör, fizetési osztály) | Kormánytisztviselők (munkakör, besorolási osztály/fizetési fokozat) | Devizaellátmány szorzószáma |
+|  | A | B | C | D |
 
-| 1. | I/X | – | – | 4,6–5,0 |
+| 1. | Hivatásos és szerződéses katonák (besorolási osztály/kategória) | Közalkalmazottak (munkakör, fizetési osztály, vezetői megbízás) | Kormánytisztviselők (munkakör, besorolási osztály/fizetési fokozat) | Devizaellátmány szorzószáma |
 
-| 2. | I/IX | – | – | 4,4–4,8 |
+| 2. | I/X | – | – | 4,2 |
 
-| 3. | I/VIII | – | – | 4,2–4,6 |
+| 3. | I/IX | – | – | 4,0 |
 
-| 4. | I/VII | – | – | főosztályvezető | 3,8–4,2 |
+| 4. | I/VIII | – | – | 3,8 |
 
-|  |  |  | – | MK Állandó NATO Képviselet, Védelempolitikai Részleg képviseletvezető |  |
+| 5. | I/VII | – | – főosztályvezető | 3,5 |
 
-| 5. | I/VI | – | fizetési osztálytól függetlenül magasabb vezető | főosztályvezető-helyettes | 3,4–3,8 |
+| – Magyarország Állandó NATO Képviselet, Védelempolitikai Részleg képviseletvezető |
 
-| 6. | I/V | – Hadtörténeti Intézet és Múzeum Bécsi Kirendeltség, kirendeltség vezető, | osztályvezető | 2,9–3,3 |
+| 6. | I/VI | – fizetési osztálytól függetlenül magasabb vezető | főosztályvezető-helyettes | 3,2 |
 
-|  |  | – | „H”–„J” fizetési osztály |  |  |
+| 7. | I/V | – Hadtörténeti Intézet és Múzeum | osztályvezető | 2,8 |
 
-|  |  | – | fizetési osztálytól függetlenül vezető |  |  |
+|  |  | Bécsi Kirendeltség, |  |  |
 
-| 7. | I/IV | – | I/11–I/17. | 2,7–3,0 |
+|  |  | kirendeltség vezető, |  |  |
 
-| 8. | I/III | „G” fizetési osztály | I/7–I/10. | 2,3–2,7 |
+|  |  | – „H”–„J” fizetési osztály |  |  |
 
-| 9. | I/II | „F” fizetési osztály | I/4–I/6. | 2,3–2,6 |
+|  |  | – fizetési osztálytól függetlenül vezető |  |  |
 
-| 10. | I/I | „E” fizetési osztály | I/1–I/3. | 2,2–2,5 |
+| 8. | I/IV | – | I/11–I/17 | 2,6 |
 
-| 11. | II/X | – | II/15–II/17. | 2,2–2,4 |
+| 9. | I/III | „G” fizetési osztály | I/7–I/10 | 2,3 |
 
-| 12. | II/IX | „D” fizetési osztály | II/12–II/14. | 2,1–2,3 |
+| 10. | I/II | „F” fizetési osztály | I/4–I/6 | 2,3 |
 
-| 13. | II/VIII | – | II/9–II/11. | 2,0–2,3 |
+| 11. | I/I | „E” fizetési osztály | I/1–I/3 | 2,2 |
 
-| 14. | II/VII | – | II/6–II/8. | 1,9–2,2 |
+| 12. | II/X | – | II/15–II/17 | 2,2 |
 
-| 15. | II/VI | „C” fizetési osztály | II/3–II/5. | 1,8–2,1 |
+| 13. | II/IX | „D” fizetési osztály | II/12–II/14 | 2,1 |
 
-| 16. | II/V | – | II/1–II/2. | 1,6–1,9 |
+| 14. | II/VIII | – | II/9–II/11 | 2,0 |
 
-| 17. | II/I–IV | „A”–,,B” fizetési osztály | III. besorolási osztály | 1,1–1,5 |
+| 15. | II/VII | – | II/6–II/8 | 1,9 |
 
-2. számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^177]
+| 16. | II/VI | „C” fizetési osztály | II/3–II/5 | 1,8 |
 
-[^177]: A 2. számú melléklet a 4/2009. (IV. 22.) HM rendelet 4. §-ával megállapított, az 1/2011. (III. 8.) HM rendelet 25. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 27. § (3) bekezdését.
+| 17. | II/V | – | II/1–II/2 | 1,6 |
+
+| 18. | II/I-IV | „A”–„B” fizetési osztály | – | 1,1 |
+
+2. számú melléklet a 26/2007. (VI. 20.) HM rendelethez[^191]
+
+[^191]: A 2. számú melléklet a 4/2009. (IV. 22.) HM rendelet 4. §-ával megállapított, az 1/2011. (III. 8.) HM rendelet 25. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 27. § (3) bekezdését.
