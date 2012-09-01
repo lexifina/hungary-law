@@ -1,3 +1,3 @@
-## 10. §[^2]
+## 10. § Az R. 25. §-a a következő (7) bekezdéssel egészül ki:
 
-[^2]: A 10. § a 15. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
+## „(7) A Diákhitel szervezet feladatait a Diákhitel Központ Zrt. látja el.”

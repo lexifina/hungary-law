@@ -6,8 +6,8 @@
 
 ## „b) kötött felhasználású hitel igénybevétele esetén a teljes hiteltartozás – a hallgatói jogviszony megszűnése napján, illetve ha a törlesztési kötelezettség ismételt hallgatói jogviszony miatt ezt követően szünetelt, annak ismételt megszűnése napján, vagy legkésőbb a 35. életév betöltés napján fennálló – összegétől függő legalább 4%-os, legfeljebb a 6. § (4) bekezdés szerinti felülvizsgálat alapján megállapított %-os mértéke.”
 
-(2)[^1]
+(2) Az R. 14. §-a a következő (5a) bekezdéssel egészül ki:
+
+## „(5a) A Diákhitel szervezet a kötött felhasználású hitel esetén az egyes teljes hiteltartozáshoz tartozó törlesztési hányadokat köteles évente, a 6. § (4) bekezdése szerinti aktuáriusi vizsgálatot követően – a tanulmányi év megkezdése előtt legalább 7 nappal – két országos napilapban, honlapján, valamint hirdetményként a felsőoktatási intézményben közzétenni.”
 
 (3) Az R. 14. § (9) bekezdése a következő szöveggel lép hatályba:
-
-[^1]: A 6. § (2) bekezdése a 15. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
