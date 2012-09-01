@@ -1,4 +1,4 @@
-## 18/A. §[^50] A Kormány a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetet jelöli ki az Eüak. 22/A. §-ában meghatározott feladat ellátására.
+## 18/A. §[^51] A Kormány a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetet jelöli ki az Eüak. 22/A. §-ában meghatározott feladat ellátására.
 
 ## 9. Hatósági eljárás, illetékesség
 
@@ -12,4 +12,4 @@ b) ha első fokon a megyei népegészségügyi szakigazgatási szerv, illetőleg
 
 c) amennyiben első fokon az országos tisztifőorvos járt el, a külön jogszabály szerinti jogorvoslati hatóság
 
-[^50]: A 18/A. §-t a 325/2011. (XII. 28.) Korm. rendelet 82. §-a iktatta be.
+[^51]: A 18/A. §-t a 325/2011. (XII. 28.) Korm. rendelet 82. §-a iktatta be.

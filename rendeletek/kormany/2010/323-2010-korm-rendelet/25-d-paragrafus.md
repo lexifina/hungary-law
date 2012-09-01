@@ -1,4 +1,4 @@
-25/D. §[^61] (1) A 25/C. § szerint megtett bejelentés alapján egészségügyi tevékenység egy alkalommal végezhető, azzal, hogy egy donorból történő több szerv eltávolítása egy alkalomnak minősül.
+25/D. §[^62] (1) A 25/C. § szerint megtett bejelentés alapján egészségügyi tevékenység egy alkalommal végezhető, azzal, hogy egy donorból történő több szerv eltávolítása egy alkalomnak minősül.
 
 (2) Az Adatlap kitöltése angol vagy magyar nyelven egyaránt történhet.
 
@@ -8,4 +8,4 @@
 
 (5) A bejelentés alapján az egészségügyi tevékenység végzése a jogszabályok, a szakmai szabályok és irányelvek, valamint az egészségügyi dolgozókra irányadó etikai szabályok megtartásával történik, amelyek betartatásáért az az egészségügyi szolgáltató felelős, amely a szervkivételre működési engedéllyel rendelkezik.
 
-[^61]: A 25/D. §-t a 325/2011. (XII. 28.) Korm. rendelet 83. §-a iktatta be.
+[^62]: A 25/D. §-t a 325/2011. (XII. 28.) Korm. rendelet 83. §-a iktatta be.
