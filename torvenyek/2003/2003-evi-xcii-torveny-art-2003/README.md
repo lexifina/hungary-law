@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-92-00-00
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 2003-92-00-00.89 |
 | 2012-07-06 | 2012. évi XCIII. törvény | 2003-92-00-00.90 |
 | 2012-07-13 | 2012. évi XCV. törvény | 2003-92-00-00.91 |
+| 2012-09-01 | 2011. évi CLXXX. törvény | 2003-92-00-00.92 |
