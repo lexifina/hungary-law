@@ -882,7 +882,7 @@
 
 | minden más szakképzés | az Oktatási Hivatal döntése szerint |
 
-3. számú melléklet a 237/2006. (XI. 27.) Korm. rendelethez[^133]
+3. számú melléklet a 237/2006. (XI. 27.) Korm. rendelethez[^155]
 
 A felvételi eljárás során figyelembe vehető érettségi vizsgatárgyak
 
@@ -898,9 +898,9 @@ a) a kötelező érettségi vizsgatárgyak
 
 – magyar nyelven, illetve a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett matematika
 
-–[^134] az élő idegen nyelv vizsgatárgy esetében az angol, német, francia, olasz, orosz, spanyol nyelvekből, valamint a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény 42. §-a szerinti kisebbségek által használt nyelvként elismert nyelvből tett vizsga, amennyiben az adott idegen nyelvből az érettségi vizsga szabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 12. § (1) bekezdése alapján érettségi vizsga tehető;
+–[^156] az élő idegen nyelv vizsgatárgy esetében az angol, német, francia, olasz, orosz, spanyol nyelvekből, valamint a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény 42. §-a szerinti kisebbségek által használt nyelvként elismert nyelvből tett vizsga, amennyiben az adott idegen nyelvből az érettségi vizsga szabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 12. § (1) bekezdése alapján érettségi vizsga tehető;
 
-b)[^135] a választható közismereti vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
+b)[^157] a választható közismereti vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
 
 – fizika
 
@@ -926,7 +926,7 @@ b)[^135] a választható közismereti vizsgatárgyak közül a magyar nyelven, a
 
 – latin nyelv;
 
-c)[^136] a választható szakmai előkészítő vizsgatárgyak magyar nyelvű vizsgáztatás esetén
+c)[^158] a választható szakmai előkészítő vizsgatárgyak magyar nyelvű vizsgáztatás esetén
 
 – egészségügyi alapismeretek
 
@@ -952,7 +952,7 @@ c)[^136] a választható szakmai előkészítő vizsgatárgyak magyar nyelvű vi
 
 – vendéglátás-idegenforgalom” alapismeretek.
 
-[^133]: A 3. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 1. § 251. pontja hatályon kívül helyezte, újonnan a 98/2009. (IV. 24.) Korm. rendelet 12. § (2) bekezdése iktatta be. [A 4. számú mellékletet a 39/2011. (III. 22.) Korm. rendelet 11. §-a iktatta be, a 28. § (3) bekezdése alapján a módosítás 2013. január 1-jén lép hatályba.]
-[^134]: A 3. számú melléklet a) pont hatodik franciabekezdése a 39/2011. (III. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^135]: A 3. számú melléklet b) pontja a 39/2011. (III. 22.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^136]: A 3. számú melléklet c) pontja a 39/2011. (III. 22.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^155]: A 3. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 1. § 251. pontja hatályon kívül helyezte, újonnan a 98/2009. (IV. 24.) Korm. rendelet 12. § (2) bekezdése iktatta be. [A 4. számú mellékletet a 39/2011. (III. 22.) Korm. rendelet 11. §-a iktatta be, a 28. § (3) bekezdése alapján a módosítás 2013. január 1-jén lép hatályba.]
+[^156]: A 3. számú melléklet a) pont hatodik franciabekezdése a 39/2011. (III. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^157]: A 3. számú melléklet b) pontja a 39/2011. (III. 22.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^158]: A 3. számú melléklet c) pontja a 39/2011. (III. 22.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.

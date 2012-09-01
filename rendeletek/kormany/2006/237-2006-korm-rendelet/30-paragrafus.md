@@ -2,7 +2,7 @@
 
 ## rendelkezések
 
-30. § (1)[^105] A felvételi eljárás lebonyolítása során a Hivatal és a felsőoktatási intézmények kötelesek biztosítani a fogyatékossággal élő jelentkező számára a felvételi eljárásban való részvétel feltételeit.
+30. § (1)[^124] A felvételi eljárás lebonyolítása során a Hivatal és a felsőoktatási intézmények kötelesek biztosítani a fogyatékossággal élő jelentkező számára a felvételi eljárásban való részvétel feltételeit.
 
 (2) A fogyatékossággal élő jelentkezőt a felvételi eljárás során ugyanazok a kedvezmények illetik meg, mint amelyek a közoktatásról szóló jogszabályok alapján megillették.
 
@@ -10,4 +10,4 @@
 
 (4) Az (1)–(3) bekezdések alapján nyújtott kedvezménynek vagy mentesítésnek a fogyatékosság jellegéhez kell igazodnia, és nem vezethet a felvételhez szükséges alapvető tanulmányi követelmények alóli teljes felmentéshez.
 
-[^105]: A 30. § (1) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 30. § (3) bekezdése szerint módosított szöveg.
+[^124]: A 30. § (1) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 30. § (3) bekezdése szerint módosított szöveg.

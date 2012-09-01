@@ -1,8 +1,8 @@
 ## A besorolási döntés
 
-25. §[^89] (1)[^90] A Hivatal a besorolási döntést
+25. §[^107] (1)[^108] A Hivatal a besorolási döntést
 
-a)[^91] a keresztféléves felvételi eljárás esetén legkésőbb a képzés indítása szerinti év január 25. napjáig,
+a)[^109] a keresztféléves felvételi eljárás esetén legkésőbb a képzés indítása szerinti év január 25. napjáig,
 
 b) az általános felvételi eljárás esetén legkésőbb a képzés indítása szerinti év augusztus 1. napjáig
 
@@ -10,7 +10,7 @@ b) az általános felvételi eljárás esetén legkésőbb a képzés indítása
 
 (2) Besorolási döntéskor arról születik döntés, hogy a jelentkező felvehető-e bármely általa a felvételi kérelmében megjelölt képzésre és ha igen, melyikre. Egyazon felvételi eljárásban a jelentkező csak egy helyre sorolható be.
 
-(3) A Hivatal a besorolásról a felsőfokú szakképzésre, az alapképzésre és az egységes, osztatlan képzésre a jelentkező felvételéről képzési áganként vagy szakonként (önálló szakképzettséget adó szakirányonként) egységes – a mesterképzésre jelentkezők esetében intézményi – rangsor alapján dönt. A felsőfokú szakképzéseket a besorolási döntések során egy képzési ágként kell kezelni.
+(3)[^110] A Hivatal a besorolásról a felsőoktatási szakképzésre, az alapképzésre és az egységes, osztatlan képzésre a jelentkező felvételéről képzési áganként vagy szakonként (önálló szakképzettséget adó szakirányonként) egységes – a mesterképzésre jelentkezők esetében intézményi – rangsor alapján dönt. A felsőoktatási szakképzéseket a besorolási döntések során egy képzési ágként kell kezelni.
 
 (4) A jelentkezők rangsorba állításakor figyelembe kell venni
 
@@ -32,6 +32,7 @@ h) a felsőoktatási intézmény számára a miniszter által pályázat kereté
 
 (5) A jelentkezőkről egységes rangsorolás alapján ponthatár alkalmazásával kell dönteni. Az adott képzésre ponthatár alatti eredménnyel senki nem sorolható be, azt, aki a ponthatárt elérte vagy meghaladta, kötelező besorolni.
 
-[^89]: A 25. § és az azt megelőző alcím a 198/2008. (VIII. 4.) Korm. rendelet 12. §-ával megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^90]: A 25. § (1) bekezdése a 98/2009. (IV. 24.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^91]: A 25. § (1) bekezdés a) pontja a 39/2011. (III. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^107]: A 25. § és az azt megelőző alcím a 198/2008. (VIII. 4.) Korm. rendelet 12. §-ával megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^108]: A 25. § (1) bekezdése a 98/2009. (IV. 24.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^109]: A 25. § (1) bekezdés a) pontja a 39/2011. (III. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^110]: A 25. § (3) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 18. § h) pontja szerint módosított szöveg.
