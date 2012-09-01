@@ -1,1 +1,0 @@
-A Kormány a felsőoktatásról szóló 2005. évi CXXXIX. törvény 153. § (1) bekezdés 9. pontjában, valamint a közoktatásról szóló 1993. évi LXXIX. törvény 94. § (3) bekezdés c) pontjában foglalt felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében foglalt feladatkörében eljárva, a következőket rendeli el:
