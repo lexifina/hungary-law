@@ -54,14 +54,6 @@
 
 | 25. | 24 | 62,5 | 62,5 | 62,5 | 62,5 | 62,5 | 62,5 |
 
-4. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^287]
+4. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^285]
 
-A nyugdíjbiztosítási visszautalási kérelemhez szükséges adatlap és elektronikus űrlap adattartalma
-
-1. Az uniós tisztviselő természetes személyazonosító adatai, társadalombiztosítási azonosító jele, lakóhelye, tartózkodási helye, elérhetősége és a magánnyugdíj-pénztári tagságára vonatkozó adatok.
-
-2. Ha a kérelmező a túlélő hozzátartozó, a túlélő hozzátartozó természetes személyazonosító adatai, társadalombiztosítási azonosító jele, lakóhelye, tartózkodási helye, elérhetősége és a magánnyugdíj-pénztári tagságára vonatkozó adatok, az uniós tisztviselő halálának időpontja, továbbá az uniós tisztviselő és a túlélő hozzátartozó közötti, a kérelem alapját jelentő hozzátartozói viszony.
-
-3. A visszautaláshoz való jog megnyílásának időpontja.
-
-[^287]: A 4. számú mellékletet a 333/2011. (XII. 29.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^285]: A 4. számú mellékletet a 333/2011. (XII. 29.) Korm. rendelet 27. § (2) bekezdése iktatta be, hatályon kívül helyezte a 219/2012. (VIII. 13.) Korm. rendelet 8. § b) pontja.

@@ -1,3 +1,3 @@
-1. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^284]
+1. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^282]
 
-[^284]: Az 1. számú mellékletet a 327/2006. (XII. 23.) Korm. rendelet 12. § (3) bekezdésének g) pontja hatályon kívül helyezte.
+[^282]: Az 1. számú mellékletet a 327/2006. (XII. 23.) Korm. rendelet 12. § (3) bekezdésének g) pontja hatályon kívül helyezte.
