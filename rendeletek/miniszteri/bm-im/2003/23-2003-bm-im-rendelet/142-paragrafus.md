@@ -30,7 +30,8 @@ c) a rendőrkapitányság nyomozó szerve végzi, akkor a rendőrkapitány,
 
 d) az RRI nyomozó szerve végzi, akkor az RRI parancsnoka,
 
-e) az NNI nyomozó szerve végzi, akkor az NNI igazgatója
+e)[^83] a KR nyomozó szerve végzi, akkor a KR parancsnoka
 
 [^81]: A 141. § a 24/2007. (V. 24.) IRM rendelet 9. §-ával megállapított szöveg.
 [^82]: A 142. § (9) bekezdése a 8/2008. (IV. 22.) IRM rendelet 2. § (10) bekezdésével megállapított szöveg.
+[^83]: A 142. § (9) bekezdés e) pontja a 43/2012. (VIII. 23.) BM rendelet 3. §-ával megállapított szöveg.
