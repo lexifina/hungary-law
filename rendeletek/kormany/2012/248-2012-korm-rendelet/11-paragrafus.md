@@ -1,0 +1,3 @@
+11. § (1) A záróvizsgát záróvizsga-bizottság előtt kell tenni, amelynek elnöke és legalább még két tagja van. A záróvizsga-bizottságot úgy kell összeállítani, hogy legalább egy tagja egyetemi vagy főiskolai tanár, illetve egyetemi vagy főiskolai docens legyen, továbbá legalább egy tagja vagy ne álljon az Nftv. szerinti foglalkoztatási jogviszonyban az érintett felsőoktatási intézménnyel, vagy a felsőoktatási intézmény másik karának, szakjának oktatója legyen. A záróvizsgáról jegyzőkönyvet kell vezetni.
+
+(2) A felsőoktatási intézmény tanulmányi és vizsgaszabályzata határozza meg a záróvizsgára jelentkezés módját, a záróvizsga megszervezésének és lebonyolításának rendjét, eredményének kiszámítási módját. Záróvizsgát felsőoktatási intézmények közösen is szervezhetnek.

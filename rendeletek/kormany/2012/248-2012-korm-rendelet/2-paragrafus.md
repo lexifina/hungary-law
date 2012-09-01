@@ -1,0 +1,15 @@
+2. § (1) Az Nftv., valamint e rendelet magyar állami (rész)ösztöndíjas képzésre történő beiratkozásra vonatkozó rendelkezéseit a magyar állami (rész)ösztöndíjas képzésre történő átsorolást követő első félévre való bejelentkezéskor is alkalmazni kell.
+
+(2) Az Oktatási Hivatal (a továbbiakban: Hivatal) a hallgatói ösztöndíjszerződés-tervezet megszemélyesített példányát az állami (rész)ösztöndíjjal támogatott képzésre besorolt jelentkező számára elektronikusan hozzáférhetővé teszi a felvételi eljárásra vonatkozó kormányrendeletben meghatározott honlapján. A Hivatal a szerződéstervezet három eredeti példányát azon felsőoktatási intézmény számára juttatja el, amelybe a hallgató besorolásra került.
+
+(3) A felsőoktatási intézmény képviselője a beiratkozási eljárás során ellenőrzi és – a hallgatói ösztöndíjszerződés valamennyi eredeti példányának aláírásával – tanúsítja, hogy meggyőződött a hallgatói ösztöndíjszerződést aláírni szándékozó magyar állami (rész)ösztöndíjas személyazonosságáról, vagy a szerződő személy helyett eljáró személy képviseleti jogosultságáról.
+
+(4) A három eredeti aláírt példányból egy eredeti a hallgató, egy eredeti a felsőoktatási intézmény, egy eredeti pedig a Hivatal példánya.
+
+(5) A magyar állami (rész)ösztöndíjas hallgató oly módon gondoskodik az ösztöndíjszerződés Hivatalnak történő eljuttatásáról, hogy két példányt az aláírását követően a felsőoktatási intézménynél adja le, a felsőoktatási intézmény pedig a beiratkozási időszak végén valamennyi, aláírásra került szerződés egy-egy példányát együtt továbbítja a Hivatal részére. A felsőoktatási intézmény a jelentkezők által valamennyi alá nem írt szerződéspéldányt jegyzőkönyv felvétele mellett megsemmisíti, és erről a jegyzőkönyv egy példányának megküldésével a Hivatalt a beiratkozás időszak végén értesíti.
+
+(6) A hallgatói ösztöndíjszerződést az írásba foglalása során a felvételt nyert jelentkező saját kezűleg írja alá, vagy a Polgári perrendtartásról szóló 1952. évi III. törvényben meghatározott teljes bizonyító erejű magánokiratba vagy közokiratba foglalt meghatalmazással eljáró képviselője aláírásával látja el. Ebben az esetben a meghatalmazás egy eredeti példánya a Hivatal szerződéspéldányának elválaszthatatlan részét képezi. A szerződést a Magyar Állam nevében eljáró Hivatal elnöke olyan módon írja alá, hogy a kiküldött szerződéstervezeten nyomtatva szerepel a Magyar Állam nevében eljáró Hivatal elnökének aláírásképe, valamint az egyedi hallgatói szerződésazonosító szám.
+
+(7) Az Nftv. 48/G. §-ban foglaltakon felül a felsőoktatási intézmény a hallgatói jogviszony megszűnése vagy a képzés lezárása esetén gondoskodik a hallgatói jogviszony megszűnése vagy a képzés lezárása tényének a tanulmányi adminisztrációs nyilvántartásban történő rögzítéséről, a felsőoktatási információs rendszer által a Hivatalhoz való megküldéséről.
+
+(8) Amennyiben a felvételt nyert jelentkező a hallgatói ösztöndíjszerződést nem írja alá, részére a felsőoktatási intézmény ugyanazon képzésre köteles felajánlani az önköltséges képzésben való részvétel lehetőségét.

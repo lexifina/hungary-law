@@ -1,0 +1,1 @@
+## 4. § A magyar állami (rész)ösztöndíjas hallgató, amennyiben az Nftv. 48/B. § (5) bekezdése szerint teljesíti a hazai munkaviszonyt, akkor köteles harminc napon belül e tényt dokumentumokkal alátámasztva bejelenteni a Hivatalnak.

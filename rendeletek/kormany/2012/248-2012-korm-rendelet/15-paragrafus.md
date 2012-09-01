@@ -1,0 +1,3 @@
+## 14. § Az R1. 21. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az államközi megállapodás alapján Magyarországon tanulmányokat folytató személyek, illetve a miniszter döntése alapján a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerint – hallgatói jogviszony keretében, legalább két féléves – előkészítő tanulmányokat folytatott és e tanulmányok zárásaként eredményes záróvizsgát tett személyek, valamint a miniszter döntése alapján a felsőoktatási intézmény által szervezett előkészítő képzésben eredményesen részt vett hátrányos helyzetű személyek felvételi összpontszáma 500 pont. Ezeknek a személyeknek a köréről a miniszter által meghatározott szervezet tájékoztatja a felsőoktatási intézményeket.”

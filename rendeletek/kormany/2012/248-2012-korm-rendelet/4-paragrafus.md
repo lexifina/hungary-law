@@ -1,0 +1,1 @@
+## számított kilencven napon belül közli a volt magyar állami (rész)ösztöndíjas hallgatóval a szerződés teljesítéséhez szükséges feltételeket, így különösen az adott képzésen a volt magyar állami (rész)ösztöndíjas hallgató által igénybe vett állami ösztöndíj teljes összegét, továbbá az általa teljesíteni szükséges hazai munkaviszony időtartamát.
