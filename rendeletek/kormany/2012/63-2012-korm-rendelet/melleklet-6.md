@@ -6,4 +6,6 @@
 
 | 2. | a megkülönböztető fényjelzés vagy a hangjelzést adó készülék közterületen lévő gépjárműben engedély nélküli birtoklása | Szabs. tv. 223. § b) pont | 15 000 | 30 000 |
 
-6. melléklet a 63/2012. (IV. 2.) Korm. rendelethez
+6. melléklet a 63/2012. (IV. 2.) Korm. rendelethez[^5]
+
+[^5]: A 6. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
