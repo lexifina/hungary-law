@@ -2,7 +2,9 @@
 
 4. § (1) E rendelet 2009. május 1. napján lép hatályba.
 
-(2)–(6)[^4]
+(2)[^4] E rendeletnek a számviteli törvény szerinti beszámoló elektronikus úton történő letétbe helyezéséről és közzétételéről szóló 11/2009. (IV. 28.) IRM–MeHVM–PM együttes rendelet módosításáról szóló 25/2012. (V. 8.) KIM rendelet 2. §-ával módosított 3. § (4) bekezdését a 2012. szeptember 1-jét követően beküldött beszámolókra kell alkalmazni.
+
+(3)–(6)[^5]
 
 Melléklet a 11/2009. (IV. 28.) IRM rendelethez
 
@@ -51,4 +53,5 @@ Nyilatkozat
 Kijelentem, hogy a fent közölt adatok a valóságnak megfelelnek, a csatolt okiratokban szereplő adatok az elfogadott beszámoló (ideértve az adózott eredmény felhasználására vonatkozó határozatot és a független könyvvizsgálói jelentést is) adattartalmával egyezőek.
 
 [^3]: A 3/A. §-t a 38/2011. (XII. 29.) KIM rendelet 5. §-a iktatta be.
-[^4]: A 4. § (2)–(6) bekezdése a (6) bekezdés alapján hatályát vesztette.
+[^4]: A 4. § (2) bekezdése a (6) bekezdés alapján hatályát vesztette, újonnan a 25/2012. (V. 8.) KIM rendelet 3. §-a iktatta be.
+[^5]: A 4. § (3)–(6) bekezdése a (6) bekezdés alapján hatályát vesztette.
