@@ -6,7 +6,7 @@
 
 | 1. | Munkáltatói jogkör- csoport | Egyes munkáltatói jogkörök | A munkáltatói jogkör gyakorlója |
 
-| 2. | Főigazgató |  | megyei (fővárosi) rendőr- főkapitány | Készenléti Rendőrség parancsnoka, Nemzeti Nyomozó Iroda vezetője, Repülőtéri Rendőr Igazgatóság igazgatója | Rendőr- kapitány, Határ- rendészeti kirendeltség vezető | Szolgálati elöljáró | Központi Gazdasági Ellátó Igazgatóság igazgatója |
+| 2. | Főigazgató |  | megyei (fővárosi) rendőr- főkapitány | Készenléti Rendőrség parancsnoka, Készenléti Rendőrség parancs- nokának helyettese, Repülőtéri Rendőr Igazgatóság igazgatója | Rendőr- kapitány, Határ- rendészeti kirendeltség vezető | Szolgálati elöljáró | Központi Gazdasági Ellátó Igazgatóság igazgatója |
 
 | 3. | Szolgálati viszony létesítése, meg- szűnése | Szolgálati viszony létesítése zászlós, tiszthelyettes esetében | * |  | * | * | * |  | * |
 
