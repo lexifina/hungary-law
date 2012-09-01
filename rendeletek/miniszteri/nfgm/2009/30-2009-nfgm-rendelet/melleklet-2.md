@@ -78,4 +78,4 @@
 
 2. melléklet a 30/2009. (XI. 26.) NFGM rendelethez[^7]
 
-[^7]: A 2. melléklet a 16/2010. (IV. 28.) NFGM rendelet 28. § (1) bekezdése, a 27/2010. (XII. 31.) NGM rendelet 67. § (5) bekezdése szerint módosított szöveg.
+[^7]: A 2. melléklet a 19/2012. (VII. 20.) NGM rendelet 5. §-ával megállapított szöveg.
