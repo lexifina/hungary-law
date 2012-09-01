@@ -10,7 +10,7 @@
 
 (5) Az útzár alkalmazását
 
-a)[^6] az országos rendőrfőkapitány, a rendészeti vagy a bűnügyi főigazgató, a Készenléti Rendőrség vagy a Terrorelhárítási Központ által védett létesítmények vagy biztosított rendezvények, továbbá a Készenléti Rendőrség vagy a Terrorelhárítási Központ által védett személyek programhelyszíneinek vonatkozásában a Készenléti Rendőrség parancsnoka vagy a Terrorelhárítási Központ főigazgatója, hatásköre szerint ellátott speciális feladatok végrehajtása során a Terrorelhárítási Központ főigazgatója vagy a Készenléti Rendőrség parancsnoka, valamint a Nemzeti Nyomozó Iroda igazgatója, továbbá
+a)[^7] az országos rendőrfőkapitány, a rendészeti vagy a bűnügyi főigazgató, a Készenléti Rendőrség vagy a Terrorelhárítási Központ által védett létesítmények vagy biztosított rendezvények, továbbá a Készenléti Rendőrség vagy a Terrorelhárítási Központ által védett személyek programhelyszíneinek vonatkozásában a Készenléti Rendőrség parancsnoka vagy a Terrorelhárítási Központ főigazgatója, hatásköre szerint ellátott speciális feladatok végrehajtása során a Terrorelhárítási Központ főigazgatója vagy a Készenléti Rendőrség parancsnoka, továbbá
 
 b) illetékességi területén – az autópálya és az autóút kivételével – a megyei (fővárosi) rendőrfőkapitány, a rendészeti vagy a bűnügyi igazgató, a főváros esetében a rendészeti vagy a bűnügyi helyettes, a rendőrkapitány vagy a határrendészeti kirendeltség vezetője
 
@@ -20,4 +20,4 @@ rendeli el.
 
 (7) Ha az útzár telepítésének elrendelésére jogosult szolgálati elöljáró döntésének meghozatala indokolatlan késedelemmel járna, az útzár telepítésének engedélyezésére az illetékes ügyelet vezetője is jogosult.
 
-[^6]: A 44. § (5) bekezdés a) pontja a 31/2012. (VI. 28.) BM rendelet 14. § a) pontja szerint módosított szöveg.
+[^7]: A 44. § (5) bekezdés a) pontja a 31/2012. (VI. 28.) BM rendelet 14. § a) pontja, a 43/2012. (VIII. 23.) BM rendelet 13. § (2) bekezdés b) pontja szerint módosított szöveg.

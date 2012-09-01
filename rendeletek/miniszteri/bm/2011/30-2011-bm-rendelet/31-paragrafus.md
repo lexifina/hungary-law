@@ -2,7 +2,7 @@
 
 (2) A fogvatartott tényleges elhelyezése az előállító egységen belül az előállító helyiségben történik.
 
-(3) A rendőrkapitányság, a határrendészeti kirendeltség, valamint a rendőrőrs vezetője köteles a fogvatartott személy biztonságos elhelyezésére szolgáló előállító egységet kijelölni. A Repülőtéri Rendőr Igazgatóság, a Nemzeti Nyomozó Iroda és a megyei (fővárosi) rendőr-főkapitányság esetében előállító egység kijelölésére indokolt esetben a szerv vezetője jogosult.
+(3)[^6] A rendőrkapitányság, a határrendészeti kirendeltség, valamint a rendőrőrs vezetője köteles a fogvatartott személy biztonságos elhelyezésére szolgáló előállító egységet kijelölni. A Repülőtéri Rendőr Igazgatóság, a Készenléti Rendőrség és a megyei (fővárosi) rendőr-főkapitányság esetében előállító egység kijelölésére indokolt esetben a szerv vezetője jogosult.
 
 (4) Az előállító egységben történő elhelyezés, őrzés végrehajtásának feltételeit a (3) bekezdésben meghatározott rendőri szerv vezetője biztosítja.
 
@@ -27,3 +27,5 @@ c) a felügyeletet ellátó nevét, rendfokozatát, valamint
 d) az étkeztetésre vonatkozó adatokat.
 
 (11) A személyi szabadság elvonása első 5 óráját követően az intézkedést foganatosító rendőri szervnek kell gondoskodni a fogvatartott személy élelemmel történő ellátásáról. A fogvatartott személy étkezése az előállító helyiségben történik. Az étel kiosztását a felügyeletet ellátó rendkívüli őr végzi. Ha a rendkívüli őr nem rendelkezik az étel kiosztásához szükséges egészségügyi dokumentációval, akkor az élelmiszer kicsomagolását nem végezheti. A fogvatartott ilyen esetben előrecsomagolt élelmiszerrel és az annak elfogyasztásához szükséges egyszerhasználatos evőeszközökkel látható el. A rendkívüli őri feladatokkal megbízott rendőr lőfegyverét ezen feladat ellátása alatt nem viselheti.
+
+[^6]: A 31. § (3) bekezdése a 43/2012. (VIII. 23.) BM rendelet 13. § (1) bekezdése szerint módosított szöveg.
