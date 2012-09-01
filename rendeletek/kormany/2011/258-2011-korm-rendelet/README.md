@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-258-20-
 | 2012-06-01 | 2011-258-20-22.11 | 107/2012. (VI. 1.) Korm. rendelet |
 | 2012-06-29 | 2011-258-20-22.12 | 137/2012. (VI. 29.) Korm. rendelet |
 | 2012-07-27 | 2011-258-20-22.13 | 174/2012. (VII. 26.) Korm. rendelet |
+| 2012-09-01 | 2011-258-20-22.14 | Nemzeti Jogszabálytár (egységes szerkezet) |

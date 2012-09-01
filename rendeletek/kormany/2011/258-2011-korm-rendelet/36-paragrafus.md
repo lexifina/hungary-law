@@ -1,3 +1,3 @@
-## 35. §[^46]
+## 35. §[^35]
 
-[^46]: A 35. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^35]: A 35. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
