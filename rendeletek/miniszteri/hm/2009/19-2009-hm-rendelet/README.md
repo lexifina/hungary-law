@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-1
 | 2010-10-08 | 2009-19-20-15.3 | 15/2010. (X. 5.) HM rendelet |
 | 2012-04-13 | 2009-19-20-15.4 | 4/2012. (IV. 5.) HM rendelet |
 | 2012-06-01 | 2009-19-20-15.5 | 4/2012. (IV. 5.) HM rendelet |
+| 2012-09-01 | 2009-19-20-15.6 | 4/2012. (IV. 5.) HM rendelet |
