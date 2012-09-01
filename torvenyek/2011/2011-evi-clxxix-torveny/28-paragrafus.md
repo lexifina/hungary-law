@@ -1,1 +1,1 @@
-28. §
+28. § A nemzetiségi nevelési, oktatási intézményt az érintett nemzetiséghez nem tartozók csak akkor vehetik igénybe, ha az intézmény – az adott nemzetiség igényeinek kielégítése után – betöltetlen férőhellyel rendelkezik. A felvétel (beiratkozás) előzetesen nyilvánosságra hozott szabályok alapján történhet.

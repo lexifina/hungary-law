@@ -1,10 +1,4 @@
-165. § (1) A nemzetiségi nevelési, oktatási intézményt az érintett nemzetiséghez nem tartozók csak akkor vehetik igénybe, ha az intézmény – az adott nemzetiség igényeinek kielégítése után – betöltetlen férőhellyel rendelkezik. A felvétel (beiratkozás) előzetesen nyilvánosságra hozott szabályok alapján történhet.
-
-(2) A magyar nyelv oktatását – az elsajátításához szükséges óraszámban és színvonalon – a nemzetiségi közoktatás keretében is biztosítani kell.
-
-(3) Az olyan településeken, ahol a magyar anyanyelvű lakosság – vagy más nemzetiség – van számszerű kisebbségben, a magyar anyanyelvű, illetve más anyanyelvű gyermekek anyanyelvű vagy anyanyelvi nevelését és oktatását törvényben meghatározottak szerint az állam biztosítani köteles.
-
-(4) A nemzetiséghez tartozó személynek joga van részt venni anyanyelvű oktatásban és művelődésben.
+165. § (1)–(4)
 
 (5) A nemzetiségi közösségeknek joguk van nemzetiségi óvodai nevelés, alap- és középfokú iskolai nevelés és oktatás, továbbá felsőfokú képzés, illetve az országos önkormányzat útján a kiegészítő nemzetiségi oktatás feltételeinek megteremtését kezdeményezni és kialakításában közreműködni.
 
@@ -20,4 +14,4 @@
 
 (11) A nemzetiség történelmi hagyományokkal rendelkező településeinek és építészeti emlékeinek megőrzésével és ápolásával kapcsolatos jogszabály (ide nem értve a helyi önkormányzat rendeletét) és a közoktatási törvény végrehajtásáról szóló kormányrendeletek megalkotásakor – a nemzetiséghez tartozók óvodai nevelését, iskolai nevelését és oktatását érintő kérdésekben – az országos önkormányzatok véleményének kikérése szükséges.
 
-(12) A nemzetiséghez tartozó személynek joga van részt venni – a közoktatási törvényben meghatározott módon – kiegészítő oktatásban és művelődésben.
+(12)

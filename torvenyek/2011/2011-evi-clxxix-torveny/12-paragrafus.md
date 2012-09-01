@@ -2,7 +2,7 @@
 
 a) anyanyelvének szabad használatához szóban és írásban, történelmének, kultúrájának, hagyományainak megismeréséhez, ápolásához, gyarapításához, továbbadásához;
 
-b)
+b) megtanulni anyanyelvét, részt venni anyanyelvű köznevelésben, oktatásban és művelődésben;
 
 c) az oktatási esélyegyenlőséghez és a kulturális szolgáltatásokhoz, amelyet az állam hatékony intézkedésekkel elősegíteni köteles;
 

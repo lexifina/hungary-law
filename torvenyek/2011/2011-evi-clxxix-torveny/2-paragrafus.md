@@ -16,7 +16,11 @@ törvényben meghatározott nemzetiségi közszolgáltatási feladatokat ellát�
 
 olyan kollektív nemzetiségi jog, amely az e törvény szerinti intézmény-összességnek és nemzetiségi önszerveződéseknek a nemzetiségi közösség által önigazgatással történő működtetése során megvalósuló önállóságban testesül meg;
 
-4.
+4. nemzetiségi köznevelési intézmény:
+
+a) az a köznevelési intézmény, amelynek alapító okirata a nemzeti köznevelésről szóló törvényben foglaltak szerint tartalmazza a nemzetiségi feladatok ellátását, feltéve, hogy e feladatokat a köznevelési intézmény ténylegesen ellátja, továbbá óvoda, iskola és kollégium esetén a tanulók legalább huszonöt százaléka részt vesz a nemzetiségi óvodai nevelésben, illetve a nemzetiségi iskolai nevelésben-oktatásban;
+
+b) nemzetiségi többcélú intézményen, nemzetiségi tagintézményen és nemzetiségi köznevelési intézmény intézményegységén a köznevelési törvény szerinti többcélú intézmény, tagintézmény és intézményegység értendő;
 
 5. nemzetiségi kulturális intézmény:
 
@@ -58,7 +62,9 @@ a nemzetiségi közösség anyanyelvén, elsősorban a közösség médiaműhely
 
 az egyenesági rokon és ennek házastársa, a testvér, a házastárs, a bejegyzett élettárs és az élettárs;
 
-13.
+13. nemzetiségi köznevelésben alkalmazottak köre:
+
+a nemzetiségi köznevelési intézmény azon alkalmazottai, akik foglalkoztatása a nemzetiségi köznevelési intézményben pedagógus, pedagógiai szakértő munkakörben és pedagógiai előadó munkakörben, továbbá a nevelő és oktató munkát, a pedagógiai szakszolgálatokat és a pedagógiai-szakmai szolgáltatások ellátását közvetlenül segítő munkakörben történik;
 
 14.
 

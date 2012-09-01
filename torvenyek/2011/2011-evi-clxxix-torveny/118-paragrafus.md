@@ -10,4 +10,4 @@ d) egyetértési jogot gyakorol – az adott nemzetiséget közvetlenül érint�
 
 e) közreműködik a nemzetiségi önkormányzati képviselők választásával kapcsolatos tájékoztatónak a helyi választási bizottság és a nemzetiségpolitikáért felelős állami szerv által történő összeállításában.
 
-(2)
+(2) A nemzetiség történelmi hagyományokkal rendelkező településeinek és építészeti emlékeinek megőrzésével és ápolásával kapcsolatos jogszabály (ide nem értve a helyi önkormányzat rendeletét) és a köznevelési törvény végrehajtásáról szóló kormányrendeletek megalkotásakor – a nemzetiséghez tartozók oktatási önigazgatását érintő kérdésekben – az országos önkormányzatok véleményének kikérése szükséges. Az e tárgyban alkotott jogszabály soron kívüli felülvizsgálata érdekében a nemzetiségi jogok sérelmére hivatkozással az országos nemzetiségi önkormányzat közvetlenül bírósághoz fordulhat.
