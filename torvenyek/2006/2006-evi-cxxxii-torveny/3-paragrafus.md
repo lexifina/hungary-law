@@ -1,12 +1,12 @@
 3. § (1) Az egészségügyi szakellátásban rendelkezésre álló országos kapacitásmennyiség
 
-a) az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő fekvőbeteg-szakellátási kapacitások,
+a) az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő szakellátási kapacitások (ide értve az egészségügyi államigazgatási szervnek bejelentve szüneteltetett kapacitásokat is),
 
-b) az a) pont alá nem tartozó kapacitások tekintetében a 2012. április 30-án lekötött kapacitások,
+b) az a) pont szerinti nyilvántartásban nem szereplő kapacitások tekintetében a 2012. augusztus 31-én lekötött kapacitások,
 
-c) a 14. § (8) bekezdése szerinti tartalékkapacitások és
+c) a 11. § (3) bekezdése szerinti nyilvántartásban szereplő szakellátási kapacitások, és
 
-d) az egészségügyi államigazgatási szervnek bejelentve szüneteltetett kapacitások
+d) a 14. § (8) bekezdése szerinti tartalékkapacitások
 
 összessége.
 

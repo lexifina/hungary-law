@@ -1,6 +1,6 @@
 8. § (1) Az egészségbiztosító felelős
 
-a) a 3. § (1) bekezdés a)–c) pontja szerinti kapacitások felhasználásával nyújtott egészségügyi szakellátások,
+a) a 3. § (1) bekezdés a), b) és d) pontja szerinti kapacitások felhasználásával nyújtott egészségügyi szakellátások,
 
 b)–c)
 
