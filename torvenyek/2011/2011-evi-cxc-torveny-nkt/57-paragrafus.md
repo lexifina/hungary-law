@@ -1,0 +1,15 @@
+57. § (1) A tanuló az iskola magasabb évfolyamába akkor léphet, ha az előírt tanulmányi követelményeket sikeresen teljesítette. Az iskola igazgatója a szülő kérésére legfeljebb egy alkalommal engedélyezheti az iskola első évfolyamának megismétlését, akkor is, ha a tanuló az előírt tanulmányi követelményeket sikeresen teljesítette. Ebben az esetben a megismétlésre kerülő évfolyamról nem kap bizonyítványt a tanuló. A szülő kérésére az iskola magasabb évfolyama is megismételhető legfeljebb egy alkalommal.
+
+(2) Az alapfokú művészeti iskola alapfokú évfolyamáról a továbbképző évfolyamba az léphet, aki – jogszabályban meghatározottak szerint szervezett – művészeti alapvizsgát tett.
+
+(3) A tanuló az iskola igazgatójának engedélyével az iskola két vagy több évfolyamára megállapított tanulmányi követelményeket egy tanévben vagy az előírtnál rövidebb idő alatt is teljesítheti.
+
+(4) A tanuló az egyes évfolyamok, továbbá az érettségi vizsga, a szakmai vizsga, a művészeti alapvizsga és a művészeti záróvizsga tanulmányi követelményeinek teljesítéséről bizonyítványt kap. A bizonyítvány tartalmazza az általa tanúsított végzettségnek, szakképzettségnek a Magyar Képesítési Keretrendszer, valamint az Európai Képesítési Keretrendszer szerinti besorolását az erről szóló kormányrendelet alapján. A bizonyítvány és a bizonyítvány kiállításának alapjául szolgáló irat közokirat.
+
+(5) Az iskolában csak olyan bizonyítványnyomtatvány, valamint bizonyítvány kiállításához szükséges nyomtatvány alkalmazható, amelyet az oktatásért felelős miniszter, szakképesítést tanúsító bizonyítvány esetén a szakképzésért és felnőttképzésért felelős miniszter jóváhagyott. A bizonyítványnyomtatvány és a bizonyítvány kiállításának alapjául szolgáló nyomtatvány előállításához, forgalmazásához az oktatásért felelős miniszter, szakképesítést tanúsító bizonyítvány esetén a szakképzésért és felnőttképzésért felelős miniszter engedélye szükséges.
+
+(6) Az iskolai nyomtatványok – az év végi bizonyítvány és az állami vizsga teljesítéséről kiállított bizonyítvány kivételével – az oktatásért felelős miniszter, szakképesítést tanúsító bizonyítvány esetén a szakképzésért és felnőttképzésért felelős miniszter által jóváhagyott rendszer alkalmazásával, a személyiségi, adatvédelmi és biztonságvédelmi követelmények megtartásával elektronikus úton is elkészíthetők és tárolhatók. A bizonyítvány kiállításának alapjául szolgáló nyomtatványt ebben az esetben is elő kell állítani nyomtatott formában, és meg kell őrizni.
+
+(7) A kiadott érettségi bizonyítványokról és a szakképesítést tanúsító bizonyítványokról – a vizsgaszabályzatban meghatározottak szerint – központi nyilvántartást kell vezetni.
+
+(8) Ha a szakiskola, a szakközépiskola párhuzamos oktatás keretében művészeti szakmai vizsgára készít fel, a tanuló magasabb évfolyamba lépéséről a szakképzés követelményei tekintetében külön is lehet dönteni és bizonyítványt kiállítani.

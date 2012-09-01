@@ -1,0 +1,7 @@
+## 1. A törvény célja és alapelvei
+
+1. § (1) A törvény célja olyan köznevelési rendszer megalkotása, amely elősegíti a gyermekek, fiatalok harmonikus lelki, testi és értelmi fejlődését, készségeik, képességeik, ismereteik, jártasságaik, érzelmi és akarati tulajdonságaik, műveltségük életkori sajátosságaiknak megfelelő, tudatos fejlesztése révén, és ezáltal erkölcsös, önálló életvitelre és céljaik elérésére, a magánérdeket a köz érdekeivel összeegyeztetni képes embereket, felelős állampolgárokat nevel. Kiemelt célja a nevelés-oktatás eszközeivel a társadalmi leszakadás megakadályozása és a tehetséggondozás.
+
+(2) A köznevelés közszolgálat, amely a felnövekvő nemzedék érdekében a magyar társadalom hosszú távú fejlődésének feltételeit teremti meg, és amelynek általános kereteit és garanciáit az állam biztosítja. A köznevelés egészét a tudás, az igazságosság, a rend, a szabadság, a méltányosság, a szolidaritás erkölcsi és szellemi értékei, az egyenlő bánásmód, valamint a fenntartható fejlődésre és az egészséges életmódra nevelés határozzák meg. A köznevelés egyetemlegesen szolgálja a közjót és a mások jogait tiszteletben tartó egyéni célokat.
+
+(3) A nevelési-oktatási intézmények pedagógiai kultúráját az egyéni bánásmódra való törekvés, a gyermek, a tanuló elfogadása, a bizalom, a szeretet, az empátia, az életkornak megfelelő követelmények támasztása, a feladatok elvégzésének ellenőrzése és a gyermek, tanuló fejlődését biztosító sokoldalú, a követelményekhez igazodó értékelés jellemzi.

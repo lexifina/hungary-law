@@ -1,0 +1,35 @@
+## 47. Az Országos szakértői és érettségi vizsgaelnöki névjegyzék
+
+82. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály köznevelési szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, köznevelési szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a személynek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a köznevelési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, és
+
+a) felsőfokú végzettséggel és pedagógus szakképzettséggel, pedagógus- vagy oktatói munkakörben szerzett tíz év szakmai gyakorlattal, továbbá pedagógus-szakvizsgával rendelkezik, valamint akit pedagógus-munkakörben foglalkoztatnak, vagy a pedagógus-munkakörre szóló jogviszonya, munkaviszonya megszűnése óta tíz évnél kevesebb idő telt el, vagy
+
+b) rendelkezik a hivatal engedélyével.
+
+(2) Aki az (1) bekezdés a) pontja alapján szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a hivatalnak bejelenteni. A bejelentésben a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl meg kell jelölni a bejelentő természetes személyazonosító adatait, szakterületét, lakcímét és munkahelyét.
+
+(3) Az (1) bekezdés b) pontjában foglalt esetben a köznevelési szakértői tevékenység folytatását a hivatal annak engedélyezi, aki szakirányú felsőfokú végzettséggel és szakterületén szerzett tízéves gyakorlattal rendelkezik, és szakterületének elismert képviselője. A kérelemben meg kell jelölni a kérelmező természetes személyazonosító adatait, szakterületét, lakcímét és munkahelyét.
+
+(4) A hivatal az (1) bekezdés a) és b) pontja szerinti szakértőkről Országos szakértői névjegyzéket vezet, amely tartalmazza a köznevelési szakértői tevékenység folytatására jogosult személy természetes személyazonosító adatait, szakterületét, lakcímét és munkahelyét. A névjegyzékből kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+
+(5) Az (1) bekezdés szerinti tevékenység folytatását külön jogszabály továbbképzéshez vagy szakvizsga letételéhez kötheti.
+
+(6) A hivatal által vezetett Országos érettségi vizsgaelnöki névjegyzék tartalmazza azok nevét, szakterületét, lakcímét és munkahelyét, akik érettségi vizsga vizsgaelnöki megbízást kaphatnak. Az Országos érettségi vizsgaelnöki névjegyzékbe az vehető fel, aki mesterfokozattal, a 3. melléklet szerint középiskolában pedagógus-munkakör betöltéséhez szükséges szakképzettséggel, valamint 10 év középiskolai pedagógus-munkakörben vagy pedagógusképző felsőoktatási intézmény oktatói munkakörben szerzett gyakorlattal rendelkezik, továbbá részt vett a vizsgaelnöki feladatok ellátásához szükséges szakmai felkészítésben vagy továbbképzésben.
+
+(7) A (6) bekezdés szerinti névjegyzékbe nyilvános pályázat útján lehet felvételt nyerni. A pályázati felhívást az oktatásért felelős miniszter által vezetett minisztérium hivatalos lapjában közzé kell tenni. A (6) bekezdés szerinti névjegyzékbe való felvétel öt évre szól. Szakképzés tekintetében a vizsgaelnöki névjegyzék elkészítéséről és kiadásáról a szakképzésről szóló törvény rendelkezik.
+
+(8) A nemzetiségi óvodai nevelés, iskolai nevelés-oktatás, kollégiumi nevelés-oktatás tekintetében köznevelési szakértői feladatot és érettségi vizsgaelnöki feladatot az láthat el, aki az (1) vagy a (6) bekezdésben meghatározott gyakorlatot a nemzetiségi nevelésben, oktatásban szerezte.
+
+(9) A hivatal – az (1) bekezdés b) pontja szerinti esetben az engedély visszavonásával egyidejűleg – eltiltja a köznevelési szakértői tevékenység folytatásától vagy a vizsgaelnöki feladatok ellátásától és törli az Országos szakértői névjegyzékből, az Országos érettségi vizsgaelnöki névjegyzékből azt, aki a tevékenységére vonatkozó, e törvényben vagy a felhatalmazására kiadott jogszabályban meghatározott szabályokat súlyosan megszegi.
+
+(10) A köznevelési szakértői tevékenység (1) bekezdés b) pontja szerinti engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a köznevelési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a hivatal részére – annak a köznevelési szakértői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a hivatal a (11) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
+
+(11) A hivatal az (1) bekezdés szerinti köznevelési szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a köznevelési szakértő büntetlen előéletű-e, és nem áll-e a köznevelési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a hivatal adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a köznevelési szakértő büntetlen előéletű-e, valamint a köznevelési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+
+(12) A (10) és (11) bekezdés alapján megismert személyes adatokat a hivatal
+
+a) az (1) bekezdés b) pontja szerinti köznevelési szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig, vagy
+
+b) a (11) bekezdés szerinti hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
+
+kezeli.
