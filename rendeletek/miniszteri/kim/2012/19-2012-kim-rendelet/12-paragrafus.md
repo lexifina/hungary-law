@@ -4,7 +4,7 @@
 
 a) a kedvezményezett 5. melléklet szerinti nyilatkozata az igénybe vett de minimis támogatásokról,
 
-b) – a határon túli támogatási célt szolgáló fejezeti kezelésű előirányzatokból és egyházi célú központi költségvetési támogatásokból határon túli kedvezményezett részére nyújtott költségvetési támogatás kivételével – a kedvezményezett 6. melléklet szerinti nyilatkozata az adott tárgyban benyújtott támogatási kérelmekről,
+b)[^2] – a határon túli támogatási célt szolgáló fejezeti kezelésű előirányzatokból nyújtott költségvetési támogatás kivételével – a kedvezményezett 6. melléklet szerinti nyilatkozata az adott tárgyban benyújtott támogatási kérelmekről,
 
 c) gazdálkodó szervezet esetén a létezését jogszabályban meghatározottak szerint igazoló, 30 napnál nem régebbi, hiteles okirat, különösen cégkivonat, nyilvántartásba vételről szóló igazolás hiteles másolata,
 
@@ -31,3 +31,5 @@ a) a szerződéskötés várható határideje a támogatási döntés közlésé
 b) ha a költségvetési támogatás az Európai Unió működéséről szóló szerződés 107. cikkének hatálya alá tartozik, a támogatási szerződés megkötéséhez a fejlesztéspolitikáért felelős miniszter állásfoglalása szükséges, amelyre tekintettel az a) pontban meghatározott határidő további 30 nappal meghosszabbodik.
 
 (3) Ha a kötelezettségvállaló a támogatási szerződésben az (1) bekezdés h) pontjában meghatározott biztosítéktól eltérő biztosítékot köt ki, e tényről az (1) bekezdés szerinti értesítésben kell a kedvezményezettet tájékoztatni.
+
+[^2]: A 12. § (1) bekezdés b) pontja a 41/2012. (VIII. 31.) KIM rendelet 2. §-ával megállapított szöveg.

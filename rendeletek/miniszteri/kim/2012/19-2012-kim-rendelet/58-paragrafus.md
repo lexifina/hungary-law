@@ -1,3 +1,5 @@
+## 57. §
+
 ## 45. Fejezeti általános tartalék (20/25)
 
 58. § (1) Az előirányzat az előre nem tervezett, de az év közben szükségessé váló feladatok megoldására, eseti jellegű, elháríthatatlan igények finanszírozására szolgál.

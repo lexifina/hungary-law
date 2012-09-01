@@ -1,5 +1,5 @@
-## 39. Országos nemzetiségi önkormányzatok és média támogatása (20/7)
+## 51. §
 
-52. § (1) Az előirányzat fedezetet nyújt a nemzetiségi célú előirányzatokból nyújtott támogatások feltételrendszeréről és elszámolásának rendjéről rendelkező kormányrendeletben foglaltak alapján az országos nemzetiségi önkormányzatok és a nemzetiségi sajtó működési támogatására.
+## 39.[^18]
 
-(2) A támogatás az (1) bekezdésben meghatározott kormányrendelet alapján kerül folyósításra négy egyenlő részletben.
+[^18]: A 39. alcímet a 41/2012. (VIII. 31.) KIM rendelet 3. §-a hatályon kívül helyezte.

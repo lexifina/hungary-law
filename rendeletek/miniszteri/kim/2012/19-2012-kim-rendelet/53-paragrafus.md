@@ -1,5 +1,5 @@
-## 40. Országos nemzetiségi önkormányzatok által fenntartott intézmények támogatása (20/8)
+## 52. §
 
-53. § (1) Az előirányzat fedezetet nyújt a nemzetiségi célú előirányzatokból nyújtott támogatások feltételrendszeréről és elszámolásának rendjéről rendelkező kormányrendeletben foglaltak alapján az országos nemzetiségi önkormányzatok által fenntartott intézmények működési támogatására.
+## 40.[^19]
 
-(2) A támogatás az (1) bekezdésben meghatározott kormányrendelet alapján kerül folyósításra négy egyenlő részletben.
+[^19]: A 40. alcímet a 41/2012. (VIII. 31.) KIM rendelet 3. §-a hatályon kívül helyezte.
