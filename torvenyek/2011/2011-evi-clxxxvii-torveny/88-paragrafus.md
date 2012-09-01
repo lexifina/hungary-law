@@ -8,7 +8,7 @@
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
-a) a gyakorlati képzés folytatására jogosult szervezetek nyilvántartása tartalmának és a nyilvántartásba vételi eljárásnak a részletes szabályait,
+a) a gyakorlati képzés folytatására jogosult szervezetek nyilvántartása tartalmának és a nyilvántartásba vételi eljárásnak a részletes szabályait, valamint a 26. § (1) bekezdésében meghatározott, a gyakorlati képzés folytatására jogosult szervezet kizárólag gyakorlati képzési célt szolgáló tanműhelyként történő nyilvántartásba vétel részletes feltételeit,
 
 b) a gyakorlati képzést folytató szervezetek szakképzési tevékenysége ellenőrzésének és a komplex szakmai vizsga ellenőrzésének részletes szabályait,
 

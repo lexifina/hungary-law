@@ -1,4 +1,4 @@
-26. § (1) A szakiskolai képzésben a kilencedik évfolyamon a szakmai gyakorlati képzést – a 42. § (6) bekezdésében foglaltak figyelembevételével – a szakképző iskolában kell megszervezni.
+26. § (1) A szakiskolai képzésben a kilencedik évfolyamon a szakmai gyakorlati képzést – az összefüggő szakmai gyakorlat kivételével – a szakképző iskolában vagy a gyakorlati képzés folytatására jogosult szervezet kizárólag gyakorlati képzési célt szolgáló tanműhelyében kell megszervezni.
 
 (2) Az iskolai rendszerű szakképzésben a gyakorlati képzés a szorgalmi időszakban teljesítendő gyakorlati képzésből és a szorgalmi időszakon kívüli összefüggő szakmai gyakorlati képzésből áll.
 

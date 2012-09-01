@@ -12,7 +12,7 @@
 
 a) a nemzeti köznevelésről szóló törvényben meghatározott Köznevelési Hídprogram keretében megszerezhető részszakképesítés megszerzésére,
 
-b)
+b) az állam által elismert szakképesítés megszerzésére, továbbá
 
 c) munkakör betöltéséhez szükséges, foglalkozás, tevékenység gyakorlására képesítő végzettség megszerzésére
 

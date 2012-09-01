@@ -1,6 +1,6 @@
 76. § (1)
 
-(2) A területileg illetékes gazdasági kamara a szakképző iskolával együttműködve ellátja a tanulószerződés megkötésének alapjául szolgáló szintvizsga szervezését, továbbá a honlapján közzéteszi a szintvizsga feladatbankot.
+(2) A területileg illetékes gazdasági kamara a szakképző iskolával együttműködve ellátja a szintvizsga szervezését, továbbá a honlapján közzéteszi a szintvizsga-feladatbankot.
 
 (3) A gazdasági kamara a megállapodásban szereplő szakképesítések tekintetében szervezi és koordinálja a megállapodásban meghatározott szakmai versenyeket, amelyekhez kidolgozza a versenyszabályzatot és versenyfelhívást. A gazdasági kamara a versenyfelhívást évente – a tanév rendjéről szóló rendeletben előírt közzétételi határidőt harminc nappal megelőzően – megküldi a szakképzésért és felnőttképzésért felelős miniszter részére. A szakképzésért és felnőttképzésért felelős miniszter a versenyfelhívást a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzéteszi, amelyet ezzel egyidejűleg a gazdasági kamara megjelentet a honlapján.
 
