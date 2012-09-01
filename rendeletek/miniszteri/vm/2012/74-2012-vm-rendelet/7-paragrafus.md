@@ -1,0 +1,3 @@
+7. § (1) E rendeletben meghatározott technikai jellegű előírásoknak nem kell megfelelniük az olyan élelmiszereknek, amelyeket az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy e rendeletben meghatározottal egyenértékű védelmet nyújtanak.
+
+(2) A rendelet tervezetének a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás megállapításáról szóló, a 98/48/EK irányelvvel módosított 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.

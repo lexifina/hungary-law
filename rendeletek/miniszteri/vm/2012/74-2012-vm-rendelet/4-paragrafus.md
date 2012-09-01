@@ -1,0 +1,3 @@
+4. § (1) A forgalomba hozott feldolgozott termék jelölésén, megjelenítésén vagy reklámozása során a „hazai feldolgozású termék”, vagy bármilyen ezzel egyenértékű jelölés, amely a termék Magyarországon feldolgozott, de import eredetű összetevőt tartalmazó állapotára utal, akkor tüntethető fel, ha a feldolgozás minden, a termék összetételét vagy érzékszervi tulajdonságait meghatározó eljárás Magyarországon történt.
+
+(2) A feldolgozott termék előállítása során nem tekinthető a termék összetételét vagy érzékszervi tulajdonságait meghatározó eljárásnak a válogatás, az osztályozás, a szétválasztás, a csomagolás és a jelölés.
