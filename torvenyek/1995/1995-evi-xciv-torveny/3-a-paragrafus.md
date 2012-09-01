@@ -1,1 +1,0 @@
-3/A. § A kamara feladata a kedvtelésből tartott állatok külön jogszabály szerinti útlevele kiállításának, kezelésének országos szintű megszervezése – így különösen a szükséges nyomtatványok biztosítása – és országos adatbázisban történő nyilvántartása.
