@@ -1,0 +1,3 @@
+## 1. § A mérésügyről szóló törvény végrehajtásáról szóló 127/1991. (X. 9.) Korm. rendelet (a továbbiakban: 127/1991. Korm. rendelet) a következő 16/A. §-sal egészül ki:
+
+## „16/A. § E rendeletnek a mérésügyről szóló törvény végrehajtásáról szóló 127/1991. (X. 9.) Korm. rendelet, valamint a közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló 38/1995. (IV. 5.) Korm. rendelet módosításáról szóló 247/2012. (VIII. 31.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit azokra a már felszerelt mellékvízmérőkre is alkalmazni kell, amelyeknek a hitelesítési hatálya a Mód. Kr. hatálybalépése napján még nem járt le.”
