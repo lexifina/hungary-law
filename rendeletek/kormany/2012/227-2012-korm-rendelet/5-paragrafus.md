@@ -1,0 +1,1 @@
+## 4. § A Korm. rendelet2. 9. § nyitó szövegrészében az „az Országos Rendőr-főkapitányság főigazgatójának irányítása alatt” szövegrész helyébe az „az országos rendőrfőkapitány közvetlen irányítása alatt” szöveg lép.
