@@ -10,7 +10,7 @@ c) határozza meg a Magyar Élelmiszerkönyv, a Magyar Takarmánykódex, az Áll
 
 d) határozza meg az e törvény hatálya alá tartozó bírságok kiszámításának módját és mértékét;
 
-e) állapítsa meg az állami feladatok végzésére feljogosított magánállatorvos jogállását, feladat- és hatáskörét;
+e) állapítsa meg az állami feladatok végzésére feljogosított szolgáltató állatorvos jogállását, feladat- és hatáskörét;
 
 f) határozza meg az állami, illetve a közérdekű védekezés költségei megállapításának és a költségvetési törvényben meghatározott előirányzatból való igénylésének részletes szabályait;
 
@@ -136,7 +136,7 @@ e) a fogyasztóvédelemért felelős miniszterrel egyetértésben a hagyományos
 
 f) a környezetvédelemért felelős miniszterrel egyetértésben a növényvédő szerrel érintkezésbe került csomagolóeszközök kezelésére vonatkozó részletes szabályokat;
 
-g) a környezetvédelemért felelős miniszterrel egyetértésben a növényvédő szerek, valamint termésnövelő anyagok mező- és erdőgazdasági célú légi kijuttatásának részletes szabályait;
+g) a környezetvédelemért felelős miniszterrel egyetértésben a növényvédő szerek, biocid termékek, valamint termésnövelő anyagok légi kijuttatásának részletes szabályait;
 
 h) a környezetvédelemért felelős miniszterrel egyetértésben az állati hulladékokból készített komposztok mezőgazdasági területen történő felhasználásának feltételeit;
 

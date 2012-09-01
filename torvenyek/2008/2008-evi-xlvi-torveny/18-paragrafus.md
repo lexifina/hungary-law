@@ -4,21 +4,21 @@
 
 a) állata rendszeres ellátásáról és felügyeletéről gondoskodni;
 
-b) e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott fajú és létszámú állat tartása esetén állomány-nyilvántartást vezetni, továbbá e törvény végrehajtására kiadott jogszabályban foglaltak szerint az állatok állat-egészségügyi felügyeletét magán-állatorvossal kötött írásbeli szerződéssel biztosítani;
+b) e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott fajú és létszámú állat tartása esetén állomány-nyilvántartást vezetni, továbbá e törvény végrehajtására kiadott jogszabályban foglaltak szerint az állatok állat-egészségügyi felügyeletét szolgáltató állatorvossal kötött írásbeli szerződéssel biztosítani;
 
-c) az állat állat-egészségügyi felügyeletét ellátó magánállatorvost a tartott állatok fajáról, létszámáról, az állatok tartási helyéről az állattartó tevékenység megkezdésétől számított öt napon belül tájékoztatni;
+c) az állat állat-egészségügyi felügyeletét ellátó szolgáltató állatorvost a tartott állatok fajáról, létszámáról, az állatok tartási helyéről az állattartó tevékenység megkezdésétől számított öt napon belül tájékoztatni;
 
 d) az egyedi jelölésre kötelezett állatok esetében az egyedi jelölésről az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott határidőn belül és módon gondoskodni;
 
 e) az e törvény végrehajtására kiadott jogszabályban meghatározott esetekben az állatok tartását, tartási helyét, jelölését és mozgatását bejelenteni az élelmiszerlánc-felügyeleti szervnek;
 
-f) állata betegségéről vagy annak gyanújáról haladéktalanul értesíteni az élelmiszerlánc-felügyeleti szervet, illetve a magánállatorvost, a beteg, illetve betegségre gyanús állatát megvizsgáltatni, járványos állatbetegség esetén az élelmiszerlánc-felügyeleti szervnek, illetve a magánállatorvosnak az állat (állomány) kezelésére és a betegség továbbvitelének megakadályozására adott utasításait végrehajtani, az elrendelt járványügyi intézkedésben foglalt kötelezettségeket teljesíteni;
+f) állata betegségéről vagy annak gyanújáról haladéktalanul értesíteni az élelmiszerlánc-felügyeleti szervet, illetve a szolgáltató állatorvost, a beteg, illetve betegségre gyanús állatát megvizsgáltatni, járványos állatbetegség esetén az élelmiszerlánc-felügyeleti szervnek, illetve a szolgáltató állatorvosnak az állat (állomány) kezelésére és a betegség továbbvitelének megakadályozására adott utasításait végrehajtani, az elrendelt járványügyi intézkedésben foglalt kötelezettségeket teljesíteni;
 
 g) állatának az élelmiszerlánc-felügyeleti szerv által elrendelt vizsgálatát, kezelését, védőoltását, elszállítását, levágatását, illetve leölését tűrni, ezen feladatokat ellátó állatorvos részére segédszemélyzetről gondoskodni, és a kárenyhítési kötelezettségének megfelelően közreműködni;
 
-h) az állat elhullását vagy kényszervágását az élelmiszerlánc-felügyeleti szervnek, illetve a magánállatorvosnak – az e törvény végrehajtására kiadott jogszabályban foglaltak szerint – bejelenteni, és az állati testet vizsgálatra bemutatni;
+h) az állat elhullását vagy kényszervágását az élelmiszerlánc-felügyeleti szervnek, illetve a szolgáltató állatorvosnak – az e törvény végrehajtására kiadott jogszabályban foglaltak szerint – bejelenteni, és az állati testet vizsgálatra bemutatni;
 
-i) az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározottak szerint a levágott állatát az élelmiszerlánc-felügyeleti szervvel, illetve a magánállatorvossal megvizsgáltatni;
+i) az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározottak szerint a levágott állatát az élelmiszerlánc-felügyeleti szervvel, illetve a szolgáltató állatorvossal megvizsgáltatni;
 
 j) állatának az e törvény végrehajtására kiadott jogszabályban meghatározott állat-egészségügyi vizsgálata elvégzéséről – amennyiben jogszabály másként nem rendeli – saját költségén gondoskodni.
 

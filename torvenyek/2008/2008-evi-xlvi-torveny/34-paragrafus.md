@@ -20,7 +20,7 @@ i) az állatgyógyászati termékekkel végzett forgalomba hozatali tevékenysé
 
 (2) Állat-egészségügyi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban foglaltak szerint ellenőrzi
 
-a) törvényességi szempontból a magánállatorvosok tevékenységét;
+a) törvényességi szempontból a szolgáltató állatorvosok tevékenységét;
 
 b) az állati eredetű melléktermék kezelését, a járványügyi szempontból szigorúbb eljárást igénylő állati eredetű melléktermék, anyag, eszköz ártalmatlanná tételét;
 
