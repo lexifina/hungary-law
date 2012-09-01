@@ -1,3 +1,3 @@
-## 24. §[^51] E rendelet 17. § (6) bekezdése szerinti felülvizsgálatot első alkalommal 2012. I. negyedévére vonatkozóan kell elvégezni.
+## 24. §[^70]
 
-[^51]: A 24. §-t a 22/2011. (V. 20.) NFM rendelet 4. §-a iktatta be.
+[^70]: A 24. §-t a 22/2011. (V. 20.) NFM rendelet 4. §-a iktatta be, hatályon kívül helyezte az 51/2012. (VIII. 31.) NFM rendelet 12. § d) pontja.

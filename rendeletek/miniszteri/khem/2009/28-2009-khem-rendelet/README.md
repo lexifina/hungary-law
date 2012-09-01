@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-28-20-2
 | 2012-01-01 | 2009-28-20-2M.14 | 83/2011. (XII. 29.) NFM rendelet |
 | 2012-06-01 | 2009-28-20-2M.15 | 28/2012. (V. 31.) NFM rendelet |
 | 2012-07-04 | 2009-28-20-2M.16 | 38/2012. (VII. 3.) NFM rendelet |
+| 2012-09-01 | 2009-28-20-2M.17 | 51/2012. (VIII. 31.) NFM rendelet |

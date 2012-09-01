@@ -12,7 +12,7 @@
 
 | A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság: | 1054 | 1581 |
 
-| A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság: | 1085 | 1627 |
+| A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság: | 1085 | 1627 |
 
 ## 2. 20 m3/h és annál nagyobb névleges (össz)teljesítményű gázmérővel rendelkező fogyasztói közösségek esetében
 
@@ -26,8 +26,8 @@
 
 | A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság: | 871 | 1306 |
 
-| A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság: | 830 | 1245 |
+| A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság: | 830 | 1245 |
 
-11. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^60]
+11. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^80]
 
-[^60]: A 11. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 22/2011. (V. 20.) NFM rendelet 7. §-a, a 32/2011. (VI. 30.) NFM rendelet 1. § (7) bekezdése szerint módosított szöveg.
+[^80]: A 11. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege az 51/2012. (VIII. 31.) NFM rendelet 10. §-ával megállapított szöveg.

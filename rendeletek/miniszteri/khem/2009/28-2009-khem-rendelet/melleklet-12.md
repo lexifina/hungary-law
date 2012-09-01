@@ -1,8 +1,8 @@
-## Igénylőlap a kedvezményre való jogosultság megállapításához
+## Igénylőlap a nagycsaládos kedvezményre való jogosultság megállapításához
 
-## A hiányzó adatokat ki kell tölteni, illetve a megfelelő választ X-szel kell jelölni. Ha több gázmérőkészüléken mérik az Ön által felhasznált energiát ugyanazon fogyasztási helyen, akkor gázmérőóránként külön igénylőlapot kell kitöltenie.
+## Az igénylőlapot felhasználási helyenként kell kitölteni.
 
-## 1. Az igénylő (a családi pótlékra jogosult személlyel egy háztartásban élő felhasználó) személyi adatai:
+## 1. Az igénylő személyi adatai:
 
 ## Családi és utóneve:
 
@@ -12,77 +12,67 @@
 
 ## Születési hely, év, hó, nap:
 
-## Lakcíme: ..........irányítószám..................... település .................. utca/út/tér ......... házszám ...... lépcsőház ........ emelet, ajtó
+## Lakcíme: .......... irányítószám ...................... település ..................... utca/út/tér ...... házszám ...... lépcsőház ...... emelet, ajtó
 
-## Társadalombiztosítási azonosító jel (TAJ): .................................................................................
+## Társadalombiztosítási azonosító jel (TAJ):
 
-## 2. Az igénylő és a vele együtt élő személyek adatai:
+## Telefonszáma és e-mail címe (nem kötelező kitölteni):
 
-## A táblázatban fel kell tüntetni az igénylőt és minden olyan személyt, akinek a kérelmezővel közös a lakcíme, ideértve azon gyermekeket, akik után az igénylő családipótlékra jogosult, illetve akik a családi pótlék összegének megállapítása szempontjából figyelembe vételre kerülnek.
+## 2. Az igénylővel együtt élő személyek adatai:
 
-| Név | Születési idő | TAJ szám |
+## A táblázatban fel kell tüntetni minden olyan személyt, akinek az igénylővel közös a lakcíme, ideértve azon gyermekeket, akik után az igénylő családi pótlékban részesül, illetve akik a családi pótlék összegének megállapítása szempontjából figyelembevételre kerülnek.
 
-|  | □□□□-□□-□□ | □□□□-□□-□□ |
+|  | Név | Születési idő | TAJ szám |
 
-|  | □□□□-□□-□□ | □□□□-□□-□□ |
+|  |  | □□□□- □□- □□ | □□□□- □□□- □□□ |
 
-|  | □□□□-□□-□□ | □□□□-□□-□□ |
+|  |  | □□□□- □□- □□ | □□□□- □□□- □□□ |
 
-|  | □□□□-□□-□□ | □□□□-□□-□□ |
+|  |  | □□□□- □□- □□ | □□□□- □□□- □□□ |
 
-|  | □□□□-□□-□□ | □□□□-□□-□□ |
+|  |  | □□□□- □□- □□ | □□□□- □□□- □□□ |
 
-|  | □□□□-□□-□□ | □□□□-□□-□□ |
+|  |  | □□□□- □□- □□ | □□□□- □□□- □□□ |
 
-|  | □□□□-□□-□□ | □□□□-□□-□□ |
+|  |  | □□□□- □□- □□ | □□□□- □□□- □□□ |
 
-## 3. Szolgáltatásra vonatkozó adatok
+|  |  | □□□□- □□- □□ | □□□□- □□□- □□□ |
 
-## Kérjük megadni a következő adatokat:
+## 3. A kérelemhez mellékelni kell:
 
-## A gázszolgáltató megnevezése:
+## a) az egyetemes szolgáltatási szerződés másolatát,
 
-## A területi földgázelosztó megnevezése:
+## b) amennyiben az a) pont szerinti szerződés alapján már történt számla kibocsátás, a kérelem benyújtását megelőzően kézhez kapott utolsó számla (részszámla) másolatát.
 
-## Ügyfélazonosító száma vagy a hivatkozási szám:
+## 4. Ha a családi pótlék folyósítására kifizetőhelyen kerül sor, ennek neve és címe:
 
-## A gázmérő gyári száma:
-
-## Fogyasztási hely azonosító száma vagy a szerződés száma:
-
-## A fenti részt a számlán szereplő adatok alapján kell kitölteni.
-
-## A kérelemhez mellékelni kell:
-
-## a) a kérelem benyújtását megelőzően kézhez kapott utolsó számla (részszámla) másolatát,
-
-## b) a szolgáltatásba újonnan bekapcsolt felhasználási hely esetében a szerződés másolatát.
-
-## 4. Fogyasztói közösség képviselőjére vonatkozó adatok
+## 5. Fogyasztói közösség képviselőjére vonatkozó adatok
 
 ## Név, megnevezés:
 
 ## Cím, székhely:
 
-## 5. Nyilatkozat
+## 6. Nyilatkozat
 
 ## Tudomásul veszem, hogy a kérelemben foglaltak valódiságát a Magyar Államkincstár ellenőrizheti.
 
-## Tudomásul veszem, hogy a jogosulatlanul igénybe vett kedvezményt kamattal növelten az érintett gázszolgáltató részére vagyok köteles egy összegben visszafizetni.
+## Tudomásul veszem, hogy a jogosulatlanul igénybe vett kedvezményt kamattal növelten az érintett földgáz egyetemes szolgáltató részére vagyok köteles egy összegben visszafizetni.
 
 ## A Magyar Államkincstárnak a jogosultság elbírálásához, valamint a kedvezmény érvényesítéséhez és ellenőrzéséhez szükséges adatkezeléséhez, továbbá az egyetemes szolgáltató, valamint fogyasztási közösség esetén a fogyasztói közösség képviselője részére történő adattovábbításhoz hozzájárulok.
 
-## Kijelentem, hogy sem én, sem a háztartásomban élő személy más lakóingatlanra támogatást nem vesz(ek) igénybe.
+## Kijelentem, hogy sem én, sem a háztartásomban élő személy más felhasználási helyen nagycsaládos kedvezményt nem vesz(ek) igénybe.
+
+## Kijelentem és tudomásul veszem, hogy köteles vagyok bejelenteni a jogosultságom fennállásának feltételeiben történt bármilyen változást – annak bekövetkeztétől számított 15 napon belül – a MÁK/Igazgatóság részére.
 
 ## Büntetőjogi felelősségem tudatában kijelentem, hogy a kérelemben feltüntetett adatok a valóságnak megfelelnek.
 
-## Dátum: ...................... év ........................... hó........... nap
+## Dátum: ...................... év ........................... hó ........... nap
 
-## .........................................
+## ...............................................
 
 ## (az igénylő aláírása)
 
-12. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^61]
+12. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^81]
 
 A kedvezményre jogosultakról szóló értesítés adatai
 
@@ -120,4 +110,4 @@ A kedvezményre jogosultakról szóló értesítés adatai
 
 13. Dátum.
 
-[^61]: A 12. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^81]: A 12. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 1. § (8) bekezdésével megállapított szöveg.

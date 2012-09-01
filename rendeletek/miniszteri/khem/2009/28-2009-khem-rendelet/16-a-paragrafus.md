@@ -1,21 +1,21 @@
-## 13–16. §[^32]
+## 13–16. §[^36]
 
-## A nagycsaládos kedvezményre vonatkozó rendelkezések[^33]
+## A nagycsaládos kedvezményre vonatkozó rendelkezések[^37]
 
-16/A. §[^34] (1) A nagycsaládos háztartásban élő (a továbbiakban: jogosult) a 16/B. § (1) bekezdése alapján kiadott határozatban megállapított jogosultsági időszakonként és gyermekenként nagycsaládos kedvezményre jogosult
+16/A. §[^38] (1) A jogosult
 
-a) az önálló felhasználási hellyel rendelkező nagycsaládos a 12/A. § (4) bekezdése,
+a) önálló felhasználási hely esetében a (4) bekezdés,
 
-b) fogyasztói közösségben vételező nagycsaládos a 10. melléklet
+b) fogyasztói közösség esetében a 10. melléklet
 
-## szerint.
+szerint részesülhet nagycsaládos kedvezményben.
 
-(2) A nagycsaládos kedvezményre megállapított jogosultság a 2. § (1) bekezdés k) pontja szerinti családi pótlékban részesülő személyhez kötött.
+(2) A jogosult a nagycsaládos kedvezményt csak egy felhasználási helyen veheti igénybe. Fogyasztói közösség esetében egy felhasználási helyen több jogosult is igénybe vehet nagycsaládos kedvezményt.
 
-(3) A jogosult a nagycsaládos kedvezményt csak egy felhasználási helyen veheti igénybe. Fogyasztói közösség esetén egy felhasználási helyen több jogosult is igénybe vehet nagycsaládos kedvezményt.
+(3) Ha a jogosultnak a vele egy háztartásban élő, családi pótlékra jogosító személyre hivatkozással nagycsaládos kedvezményt állapítottak meg, a jogosulttal egy háztartásban élő más személy erre a személyre tekintettel további kedvezményre nem jogosult.
 
-(4) Ha a jogosultnak a vele egy háztartásban élő, családi pótlékra jogosító személyre hivatkozással nagycsaládos kedvezmény került megállapításra, a jogosulttal egy háztartásban élő más személy erre a személyre tekintettel további kedvezményre nem jogosult.
+(4) A nagycsaládos kedvezményre vonatkozó jogosultság megállapítása esetén a 12/A. § (3) bekezdése szerint maximálisan vételezhető földgázmennyiség három gyermekre tekintettel felhasználási helyenként és naptári évenként 61560 MJ, valamint a negyedik gyermektől számítva gyermekenként további 10250 MJ.
 
-[^32]: A 13. §-t megelőző alcímet a 32/2011. (VI. 30.) NFM rendelet 3. §-a, a 13–16. §-t a 46/2011. (IX. 14.) NFM rendelet 3. §-a hatályon kívül helyezte.
-[^33]: A 16/A. §-t megelőző alcímet a 39/2010. (XII. 31.) NFM rendelet 5. §-a iktatta be.
-[^34]: A 16/A. §-t a 39/2010. (XII. 31.) NFM rendelet 5. §-a iktatta be.
+[^36]: A 13. §-t megelőző alcímet a 32/2011. (VI. 30.) NFM rendelet 3. §-a, a 13–16. §-t a 46/2011. (IX. 14.) NFM rendelet 3. §-a hatályon kívül helyezte.
+[^37]: A 16/A. §-t megelőző alcímet a 39/2010. (XII. 31.) NFM rendelet 5. §-a iktatta be.
+[^38]: A 16/A. §-t a 39/2010. (XII. 31.) NFM rendelet 5. §-a iktatta be, az 51/2012. (VIII. 31.) NFM rendelet 2. § (1) bekezdésével megállapított szöveg.

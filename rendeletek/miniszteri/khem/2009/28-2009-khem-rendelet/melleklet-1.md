@@ -1,6 +1,6 @@
-## 25. §[^52] A 16/B. § (8) bekezdése szerinti kérelem a 2012. évben szeptember 1. és szeptember 30. között nyújtható be.
+## 26. §[^72] A 16/B. § (9) bekezdése szerint visszamenőlegesen biztosított jogosultság 2013. január 1-jét követően benyújtott kérelem esetében legkorábban 2013. január 1-jével állapítható meg.
 
-1. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^53]
+1. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^73]
 
-[^52]: A 25. §-t a 28/2012. (V. 31.) NFM rendelet 1. §-a iktatta be.
-[^53]: Az 1. mellékletet a 18/2010. (XII. 3.) NFM rendelet 4. §-a hatályon kívül helyezte.
+[^72]: A 26. §-t az 51/2012. (VIII. 31.) NFM rendelet 9. §-a iktatta be.
+[^73]: Az 1. mellékletet a 18/2010. (XII. 3.) NFM rendelet 4. §-a hatályon kívül helyezte.
