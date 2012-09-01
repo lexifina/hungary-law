@@ -1,0 +1,1 @@
+18. § A Kamara teljes munkaidőben foglalkoztatott tisztségviselőjének munkabére és egyéb juttatásai nem haladhatják meg a kormánytisztviselőkre vonatkozó bértábla alapján megállapítható legmagasabb összeget a közszolgálati tisztviselőkről szóló törvényben foglaltak szerint.

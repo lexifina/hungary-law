@@ -1,0 +1,37 @@
+## 11. A praxisengedély
+
+38. § (1) Praxisengedélyt kérelemre annak az állat-egészségügyi szolgáltatónak kell kiadni, amely rendelkezik az e törvény végrehajtására kiadott rendelet és a Kamara által előírt, a bejelentett szakmai tevékenységéhez szükséges felszereléssel, és az állat-egészségügyi intézményekre és egységekre vonatkozó szabályoknak megfelelő helyiséggel, valamint a tevékenység folytatásához az állat-egészségügyi szolgáltató szakmai munkáját irányító állatorvossal.
+
+(2) Gazdasági társaság vagy szövetkezet formájában működő állat-egészségügyi szolgáltató akkor jogosult praxisengedélyre, ha működése során a 34. § (2) bekezdésének a), b), d) vagy e) pontja alapján rendelkezik legalább egy
+
+a) 5 éves szakmai gyakorlattal rendelkező állatorvossal és
+
+b) olyan állatorvossal, aki rendelkezik
+
+ba) a Szent István Egyetem Állatorvos-tudományi Karán (vagy annak jogelődjén) megszerzett szakállatorvosi végzettséggel,
+
+bb) a Kamara specialistája végzettséggel,
+
+bc) legalább PhD tudományos fokozattal vagy
+
+bd) európai állatorvosi szakkollégiumi tagsággal.
+
+(3) A vezetőség az állat-egészségügyi szolgáltató praxisengedély kiadása iránti kérelméről a beérkezését követő első ülésén, de legkésőbb a kérelem beérkezésétől számított harminc napon belül dönt. Ha a vezetőség a kérelemnek helyt ad, kiadja a praxisengedélyt. Ha az állat-egészségügyi szolgáltató gazdasági társaság vagy szövetkezet, a praxisengedély iránti kérelemben meg kell jelölni az állat-egészségügyi szolgáltató szakmai munkáját irányító felelős állatorvost, valamint azt az állatorvost, aki megfelel a (2) bekezdésben leírt feltételeknek, akiknek vonatkozásában a praxisengedélyben fel kell tüntetni az 5. § (1) bekezdés a)–d) pontja szerinti adatokat.
+
+(4) A praxisengedély kiadása iránti kérelmet elutasító döntést határozatba kell foglalni, és a kérelmező részére meg kell küldeni. A kérelmező az elutasító határozat ellen az elnökséghez fellebbezhet.
+
+(5) Amennyiben az állat-egészségügyi szolgáltató a praxisengedély kiadása feltételeinek már nem felel meg, a praxisengedélyt vissza kell tőle vonni.
+
+(6) Ha a kérelmező a kérelem benyújtását megelőző három éven belül Magyarország területén kívül dolgozott állatorvosként, a kérelme benyújtásakor köteles csatolni az illetékes külföldi, a Kamarának megfelelő állatorvosi szervezet jó szakmai előmenetel igazolását, amely kiterjed a kapott esetleges etikai büntetésekre is.
+
+(7) A Kamara a praxisnyilvántartásban feltünteti
+
+a) az állat-egészségügyi szolgáltató és annak állat-egészségügyi intézménye nevét, székhelyét, illetve címét, valamint telefonos és elektronikus elérhetőségeit,
+
+b) az állat-egészségügyi szolgáltató szakmai tevékenységi körét,
+
+c) a praxisengedély és az állat-egészségügyi szolgáltató állat-egészségügyi intézménye engedélyének sorszámát és keltét,
+
+d) az állat-egészségügyi szolgáltatónál állatorvosi tevékenységet végző állatorvosok nevét és kamarai tagsági számát, az állat-egészségügyi szolgáltató szakmai munkáját irányító felelős állatorvos nevét és kamarai tagsági számát,
+
+e) az állat-egészségügyi szolgáltató tevékenység végzése szüneteltetésének tényét és időtartamát.
