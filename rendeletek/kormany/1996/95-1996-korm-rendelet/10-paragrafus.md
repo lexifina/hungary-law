@@ -2,39 +2,34 @@
 
 ## A helyi önkormányzatok adósságrendezésére irányuló hitelfelvételhez nyújtandó visszterhes kamattámogatás megállapítása és folyósítása
 
-10. § (1)[^20] Ha a polgármester a Hartv. 34. §-ában foglaltaknak megfelelően a helyi önkormányzatokért felelős miniszterhez kamattámogatási kérelmet nyújt be, a kérelméhez az alábbi dokumentumokat kell mellékelnie:
+10. §[^23] (1) A pénzügyi gondnok a Har. törvény 20/A. § (1) bekezdése és 22/A. § (1) bekezdése szerinti kamattámogatás iránti kérelemhez a következő dokumentumokat csatolja:
 
-a) a helyi önkormányzat és a hitelezői között létrejött egyezséget tartalmazó okiratot;
+a) a helyi önkormányzat és a hitelezői között létrejövő egyezség adósságrendezési bizottság által elfogadott tervezetét, vagy a hitelezők által a Har. törvény 22/A. §-ában foglaltak szerint a pénzügyi gondnok részére átadott egyezségi tervet (terveket) tartalmazó okiratot;
 
 b) a reorganizációs javaslatot;
 
-c) a bíróság eljárást befejező végzését;
+c) a reorganizációs hitel nyújtására – a hitel tőke- és kamatterhének várható összegére, valamint a kamattörlesztés mértékére és esedékességének időpontjaira – vonatkozó hiteles, a pénzügyi intézménytől származó nyilatkozatokat;
 
-d) a hitelnyújtásra – a hitel tőke- és kamatterhének összegére, valamint a kamattörlesztés mértékére és esedékességének időpontjaira – vonatkozó hiteles pénzintézeti iratokat, igazolásokat;
+d) a tárgyévet megelőző év költségvetésének végrehajtásáról, továbbá a tárgyévi költségvetésről szóló képviselő-testületi előterjesztést és rendeletet;
 
-e) a tárgyévet megelőző év költségvetésének végrehajtásáról, továbbá a tárgyévi költségvetésről szóló képviselő-testületi előterjesztést és rendeletet;
+e) az adósságrendezési eljárás során készített válságköltségvetésről szóló képviselő-testületi előterjesztést és rendeletet;
 
-f) az adósságrendezési eljárás során készített válságköltségvetésről, továbbá az adósságrendezési eljárás lezárását követő – a tárgyév december 31-éig tartó – időszak költségvetéséről szóló képviselő-testületi előterjesztést és rendeletet;
+f) a képviselő-testület határozatát, amelyben kötelezettséget vállal arra, hogy
 
-g) a képviselő-testület határozatát, melyben nyilatkozik arról, hogy
+fa) a reorganizációs hitel kamattörlesztésére elsőként a helyi önkormányzat saját forrásait, majd azokat követően a központi költségvetés által e célra nyújtott támogatást használja fel, és
 
-– a kamattörlesztés összegét részben vagy teljes egészében a saját forrásaiból kifizetni nem tudja,
+fb) ha a helyi önkormányzat a reorganizációs hitel törlesztésének, illetve a kamattámogatás visszatérítésének időtartama alatt lemond a kamattámogatásról, arról a helyi önkormányzatokért felelős minisztert haladéktalanul értesíti, és az igénybevett kamattámogatás összegét a központi költségvetésnek visszafizeti.
 
-– helyi adó bevezetéséről döntött,
+(2) A polgármester a Har. törvény 34. § (1) bekezdése szerinti kamatmentes visszatérítendő támogatás iránti kérelméhez – az (1) bekezdés e) és f) pontjában meghatározott dokumentumokon túl – a következő dokumentumokat csatolja:
 
-– kezdeményezte az alacsony kihasználtsággal működő intézményeinek társulás útján történő közös fenntartását;
+a) a helyi önkormányzat és a hitelezői között létrejött egyezséget tartalmazó okiratot;
 
-h) a képviselő-testület határozatát, melyben kötelezettséget vállal arra, hogy
+b) a bíróság eljárást befejező végzését;
 
-– a pénzintézeti hitel kamattörlesztésére elsőként a helyi önkormányzat saját forrásait, majd azokat követően a központi költségvetés által e célra nyújtott támogatást használja fel,
+c) a reorganizációs hitel nyújtására – a hitel tőke- és kamatterhének összegére, valamint a kamattörlesztés mértékére és esedékességének időpontjaira – vonatkozó, a pénzügyi intézménnyel kötött megállapodást;
 
-–[^21] amennyiben a helyi önkormányzat pénzügyi helyzete a pénzintézeti hitel törlesztésének, illetve a kamattámogatás visszatérítésének időtartama alatt kedvezően változik, arról a helyi önkormányzatokért felelős minisztert haladéktalanul értesíti, és a kamattámogatás összegét, vagy annak a saját forrásból rendelkezésre álló részét a központi költségvetésnek visszafizeti.
+d) az adósságrendezés során készített válságköltségvetésről, továbbá az adósságrendezési eljárás lezárását követő – a tárgyév december 31-éig tartó – időszak költségvetéséről szóló képviselő-testületi előterjesztést és rendeletet.
 
-(2)[^22]
+(3) A kamattámogatás iránti kérelemmel és a kamattörlesztéshez kapcsolódó kamatmentes visszatérítendő támogatás iránti kérelemmel összefüggő döntés-előkészítés során a helyi önkormányzatokért felelős miniszter az (1) és (2) bekezdésben meghatározott dokumentumokon túl a helyi önkormányzattól további információt kérhet.
 
-(3)[^23] A támogatás odaítéléséről a helyi önkormányzatokért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter együttesen dönt.
-
-[^20]: A 10. § (1) bekezdésének bevezető szövegrésze a 97/2008. (IV. 29.) Korm. rendelet 4. § 58. pontja, a 182/2009. (IX. 10.) Korm. rendelet 90. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^21]: A 10. § (1) bekezdés h) pontjának második franciabekezdése a 182/2009. (IX. 10.) Korm. rendelet 90. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^22]: A 10. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 91. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^23]: A 10. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 90. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^23]: A 10. § a 243/2012. (VIII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
