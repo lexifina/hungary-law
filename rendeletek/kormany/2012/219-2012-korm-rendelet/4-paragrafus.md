@@ -1,0 +1,3 @@
+4. § (1) A magánnyugdíjpénztár a magánnyugdíjpénztárból történő nyugdíjbiztosítási átutalás összegét a nyugdíjbiztosítási átutalásról szóló határozat végrehajthatóvá válásáról szóló értesítés kézhezvételét követő tizennyolc munkanapon belül átutalja a Nyugdíjbiztosítási Alapnak.
+
+(2) A nyugdíjbiztosítási átutalás összegét kizárólag a társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás esetén a nyugdíjbiztosítási átutalásról szóló határozat végrehajthatóvá válását követő tizennyolc munkanapon belül, részben magánnyugdíjpénztárból történő nyugdíjbiztosítási átutalás esetén a magánnyugdíj-pénztár átutalását követő tíz munkanapon belül kell átutalni a Nyugdíjbiztosítási Alapból az uniós intézménynek.

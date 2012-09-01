@@ -1,0 +1,7 @@
+## 1. Általános rendelkezések
+
+1. § (1) Az uniós tisztviselőnek, illetve túlélő hozzátartozójának a nyugdíjbiztosítási átutalásra vagy visszautalásra irányuló, az uniós rendelkezéseknek megfelelően az uniós intézménynél benyújtott és az uniós intézmény által megküldött kérelme alapján a hatósági ügyekben első fokon a Nyugdíjfolyósító Igazgatóság (a továbbiakban: Igazgatóság) jár el.
+
+(2) Az uniós tisztviselő, illetve túlélő hozzátartozója a nyugdíjbiztosítási átutalás, illetve visszautalás elbírálásához szükséges adatokat – az Országos Nyugdíjbiztosítási Főigazgatóság által e célra rendszeresített és a nyugdíjbiztosítási igazgatási szervek honlapján, továbbá a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon – az Igazgatóság felhívásának kézhezvételétől számított húsz munkanapon belül jelenti be Igazgatóságnak. Az adatlap és az elektronikus űrlap adattartalmát az 1. melléklet határozza meg.
+
+(3) Az e rendelet szerinti hatósági ügyekben az ügyintézési határidő negyvenöt munkanap. Ha az ügyintézési határidő a tárgyévi valorizációs szorzószámok hatálybalépését megelőzően kezdődik, az ügyintézési határidő a tárgyévi valorizációs szorzószámok hatálybalépését követő tizedik munkanapon jár le. Az ügyintézési határidő legfeljebb tizenöt munkanappal hosszabbítható meg. Ha az uniós intézmény az (1) bekezdés szerinti kérelmet 2012. szeptember 1-jét megelőzően küldte meg, az ügyintézési határidő 2012. szeptember 1-jén kezdődik.
