@@ -30,7 +30,7 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID–1 méretű, töb
 
 | 5. |  | 290. | Repülőtéri Rendőr Igazgatóság |
 
-| 6. |  | 291. | Nemzeti Nyomozó Iroda |
+| 6. |  |  |  |
 
 | 7. |  | 183. | Bűnügyi Szakértői és Kutatóintézet |
 
@@ -75,4 +75,4 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID–1 méretű, töb
 | 27. |  | 320. | Zala Megyei Rendőr-főkapitányság |
 
 [^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet a 31/2012. (VI. 28.) BM rendelet 23. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 31/2012. (VI. 28.) BM rendelet 23. §-a, a 43/2012. (VIII. 23.) BM rendelet 18. §-a szerint módosított szöveg.
