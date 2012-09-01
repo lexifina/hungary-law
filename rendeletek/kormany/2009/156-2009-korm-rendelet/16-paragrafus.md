@@ -1,12 +1,12 @@
 16. § (1) Ez a rendelet 2009. augusztus 1-jén lép hatályba, rendelkezéseit a hatálybalépését követően elkövetett szabályszegések esetében kell alkalmazni, a hatálybalépését megelőzően elkövetett szabályszegések esetében pedig akkor, ha a bírság mértéke, illetve a bírság legmagasabb mértéke tekintetében kedvezőbb rendelkezést állapít meg.
 
-(2)[^17] E rendeletnek a közúti közlekedéssel kapcsolatos egyes kormányrendeletek módosításáról szóló 99/2011. (VI. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított 12. §-át a 2011. július 1-jén folyamatban levő ügyekben nem lehet alkalmazni.
+(2)[^18] E rendeletnek a közúti közlekedéssel kapcsolatos egyes kormányrendeletek módosításáról szóló 99/2011. (VI. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított 12. §-át a 2011. július 1-jén folyamatban levő ügyekben nem lehet alkalmazni.
 
-(3)[^18] E rendeletnek a közúti közlekedéssel kapcsolatos egyes kormányrendeletek módosításáról szóló 228/2012. (VIII. 23.) Korm. rendelet (a továbbiakban: módosító rendelet) 4. § (2) bekezdésével megállapított 12. §-ának rendelkezését és a 8–11. mellékletével megállapított, illetve módosított 11/A–11/G. mellékletét a módosító rendelet hatálybalépése napját megelőzően indult ügyekben nem lehet alkalmazni.
+(3)[^19] E rendeletnek a közúti közlekedéssel kapcsolatos egyes kormányrendeletek módosításáról szóló 228/2012. (VIII. 23.) Korm. rendelet (a továbbiakban: módosító rendelet) 4. § (2) bekezdésével megállapított 12. §-ának rendelkezését és a 8–11. mellékletével megállapított, illetve módosított 11/A–11/G. mellékletét a módosító rendelet hatálybalépése napját megelőzően indult ügyekben nem lehet alkalmazni.
 
-(4)–(7)[^19]
+(4)–(7)[^20]
 
-(8)[^20] Ez a rendelet
+(8)[^21] Ez a rendelet
 
 a) a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-i 1071/2009/EK európai parlamenti és tanácsi rendeletnek,
 
@@ -18,13 +18,13 @@ d) a közúti szállításra vonatkozó egyes szociális jogszabályok összehan
 
 a végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(9)[^21] Ez a rendelet a közúti szállításra vonatkozó egyes szociális jogszabályokkal kapcsolatos 3820/85/EGK és a 3821/85/EGK tanácsi rendelet végrehajtásának minimumfeltételeiről szóló 2006/22/EK európai parlamenti és tanácsi irányelv III. mellékletének módosításáról szóló, 2009. január 30-i 2009/5/EK bizottsági irányelvnek való megfelelést szolgálja.
+(9)[^22] Ez a rendelet a közúti szállításra vonatkozó egyes szociális jogszabályokkal kapcsolatos 3820/85/EGK és a 3821/85/EGK tanácsi rendelet végrehajtásának minimumfeltételeiről szóló 2006/22/EK európai parlamenti és tanácsi irányelv III. mellékletének módosításáról szóló, 2009. január 30-i 2009/5/EK bizottsági irányelvnek való megfelelést szolgálja.
 
-(10)[^22]
+(10)[^23]
 
-[^17]: A 16. § (2) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette, újonnan a 99/2011. (VI. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^18]: A 16. § (3) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette, újonnan a 228/2012. (VIII. 23.) Korm. rendelet 4. § (4) bekezdése iktatta be.
-[^19]: A 16. § (4)–(7) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette.
-[^20]: A 16. § (8) bekezdése a 261/2011. (XII. 7.) Korm. rendelet 41. § (7) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
-[^21]: A 16. § (9) bekezdése a 261/2011. (XII. 7.) Korm. rendelet 41. § (8) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
-[^22]: A 16. § (10) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^18]: A 16. § (2) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette, újonnan a 99/2011. (VI. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^19]: A 16. § (3) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette, újonnan a 228/2012. (VIII. 23.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^20]: A 16. § (4)–(7) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette.
+[^21]: A 16. § (8) bekezdése a 261/2011. (XII. 7.) Korm. rendelet 41. § (7) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^22]: A 16. § (9) bekezdése a 261/2011. (XII. 7.) Korm. rendelet 41. § (8) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^23]: A 16. § (10) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

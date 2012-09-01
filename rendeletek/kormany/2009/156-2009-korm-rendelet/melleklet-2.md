@@ -22,6 +22,6 @@
 
 | 10. | Közúti árutovábbítási engedéllyel, közúti személyszállítási engedéllyel, árutovábbítási vagy személyszállítási közösségi engedéllyel kapcsolatos adatváltozás bejelentésének, a tevékenység szüneteltetése bejelentésének, a lejárt engedély visszaadásának az elmulasztása, a helyettesítő járműre vonatkozó okmány, vagy az eredeti járműre kiállított engedély-kivonat (hiteles másolat) közúton való bemutatásának a hiánya | 30 000 | szállító |
 
-2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^24]
+2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^25]
 
-[^24]: A 2. melléklet a 261/2011. (XII. 7.) Korm. rendelet 41. § (10) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^25]: A 2. melléklet a 261/2011. (XII. 7.) Korm. rendelet 41. § (10) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.

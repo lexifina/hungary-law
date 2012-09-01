@@ -1,9 +1,3 @@
-| Sorszám | A járművel történő megállásra és várakozásra | A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet | Bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
-
-| 1. | A megállás tilalmára | a) 15. § (1) bekezdés a) pont, 15. § (4), (7) bekezdése, ha az az (1) bekezdés a) pontjára vonatkozik, b) 40. § (5) bekezdés a), c), e), f), g), h), i), j), l), m) pont, c) 40. § (8) bekezdés a) pont | 10 000 20 000 10 000 | járművezető vagy annak távollétében az üzemben tartó |
-
-| 2. | A várakozás tilalmára | 41. § (2) bekezdés a)–b) pont | 10 000 | járművezető vagy annak távollétében az üzemben tartó |
-
 12. melléklet a 156/2009. (VII. 29.) Korm. rendelethez
 
 – 42/1978. (VIII. 31.) MT rendelet a Magyar Népköztársaság Kormánya és az Afgán Köztársaság Kormánya között Kabulban, 1977. október 16-án aláírt nemzetközi közúti árufuvarozási megállapodás kihirdetéséről

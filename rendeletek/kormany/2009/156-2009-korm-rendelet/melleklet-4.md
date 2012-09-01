@@ -146,6 +146,6 @@
 
 | E1 | A bér és a megtett úthossz vagy a szállított áru mennyisége közötti kapcsolat | 400 000 | szállító |
 
-4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^26]
+4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^27]
 
-[^26]: A 4. melléklet a 272/2009. (XII. 1.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^27]: A 4. melléklet a 272/2009. (XII. 1.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
