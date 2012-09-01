@@ -1,4 +1,4 @@
-14/A. §[^27] (1) Az alapfokú művészetoktatási intézmény művészetoktatási-nevelési tevékenységét a minősítő csoport a helyszínen értékeli a tanórai foglalkozások, művészeti bemutatók, a vizsgált időszakra vonatkozó archivált tanulói munkák és előadások alapján.
+14/A. §[^22] (1) Az alapfokú művészetoktatási intézmény művészetoktatási-nevelési tevékenységét a minősítő csoport a helyszínen értékeli a tanórai foglalkozások, művészeti bemutatók, a vizsgált időszakra vonatkozó archivált tanulói munkák és előadások alapján.
 
 (2) A vizsgálat egyes cselekményeiről a vizsgálatot végző szakértők jegyzőkönyvet készítenek. A jegyzőkönyvek alapján összegző jegyzőkönyv készül, amelynek tartalmaznia kell:
 
@@ -16,4 +16,4 @@ c) a minősítési javaslatokat.
 
 (6) Az összegző jegyzőkönyv, az arra tett észrevételek, továbbá a minősítő testület döntése nyilvános, amelyeket a minősítő testületet működtető szakmai szervezet honlapján tesz közzé a minősítő testület, azzal a megkötéssel, hogy azok személyes adatokat nem tartalmazhatnak.
 
-[^27]: A 14/A. §-t a 12/2006. (III. 28.) OM rendelet 1. §-a iktatta be, szövege a 31/2008. (XI. 24.) OKM rendelet 5. §-ával megállapított szöveg.
+[^22]: A 14/A. §-t a 12/2006. (III. 28.) OM rendelet 1. §-a iktatta be, szövege a 31/2008. (XI. 24.) OKM rendelet 5. §-ával megállapított szöveg.

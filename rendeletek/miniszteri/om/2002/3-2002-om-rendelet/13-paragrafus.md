@@ -1,4 +1,4 @@
-13. §[^24] (1)[^25] A minősítési eljárás megindítását a fenntartó a minősítő testületnél kezdeményezheti írásban, ajánlott, tértivevényes küldemény formájában vagy elektronikus formában, elektronikus aláírással. A fenntartónak az eljárás megindításának kezdeményezésekor nyilatkoznia kell arról, hogy
+13. §[^19] (1)[^20] A minősítési eljárás megindítását a fenntartó a minősítő testületnél kezdeményezheti írásban, ajánlott, tértivevényes küldemény formájában vagy elektronikus formában, elektronikus aláírással. A fenntartónak az eljárás megindításának kezdeményezésekor nyilatkoznia kell arról, hogy
 
 a) az intézmény tevékenységével összefüggésben a minősítési eljárás kezdeményezését megelőző öt évben folyt-e vagy folyik-e a közoktatásról szóló törvény szerinti törvényességi ellenőrzés, illetve hatósági ellenőrzés, valamint esélyegyenlőséggel, egyenlő bánásmóddal kapcsolatos eljárás, továbbá, amennyiben ilyen eljárás folyt, az milyen eredménnyel zárult,
 
@@ -46,5 +46,5 @@ f) az érdekeltek elégedettségét (település, fenntartó, szülő, pedagógu
 
 (8) Az alapfokú művészetoktatási intézmény öt évig köteles megőrizni azokat az iratokat, amelyek alapján ellenőrizni lehet a minősítés alapjául szolgáló adatok valódiságát.
 
-[^24]: A 13. §-t a 31/2004. (XI. 13.) OM rendelet 17. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 12/2006. (III. 28.) OM rendelet 1. §-a iktatta be, szövege a 31/2008. (XI. 24.) OKM rendelet 3. §-ával megállapított szöveg.
-[^25]: A 31/2008. (XI. 24.) OKM rendelet 9. § (5) bekezdése alapján ha az alapfokú művészetoktatási intézményben a 2007/2008. tanévben – bármilyen oknál fogva – nem indult minősítési eljárás, az intézmény fenntartója a minősítési eljárást 2008. november 1-jét követően megindíthatja.
+[^19]: A 13. §-t a 31/2004. (XI. 13.) OM rendelet 17. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 12/2006. (III. 28.) OM rendelet 1. §-a iktatta be, szövege a 31/2008. (XI. 24.) OKM rendelet 3. §-ával megállapított szöveg.
+[^20]: A 31/2008. (XI. 24.) OKM rendelet 9. § (5) bekezdése alapján ha az alapfokú művészetoktatási intézményben a 2007/2008. tanévben – bármilyen oknál fogva – nem indult minősítési eljárás, az intézmény fenntartója a minősítési eljárást 2008. november 1-jét követően megindíthatja.
