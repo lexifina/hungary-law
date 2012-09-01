@@ -4,14 +4,10 @@
 
 a) a vízi közlekedés rendjére,
 
-b) a hajózási tevékenység végzésére – ide nem értve a jogszabály által engedélykötelesnek minősített árufuvarozás és személyszállítás szabályait –,
+b) a hajózási tevékenység végzésére – ide nem értve a jogszabály által engedélykötelesnek minősített hajózási tevékenység szabályait –,
 
-c) a vízi munkavégzéssel, vízi rendezvényekkel kapcsolatos szabályokra, rendelkezésekre,
+c) a vízi rendezvényekre
 
-d) a külön jogszabályban meghatározott vízi közlekedési igazgatásra
-
-vonatkozó szabályokat megszegi,
-
-szabálysértést követ el.
+vonatkozó szabályokat megszegi, szabálysértést követ el.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt a hivatásos katasztrófavédelmi szerv erre felhatalmazott ügyintézője is szabhat ki helyszíni bírságot.
