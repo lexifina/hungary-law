@@ -1,4 +1,4 @@
-13. § (1) Forgalomba hozni, beépíteni, használni és készenlétben tartani csak megfelelőségi igazolással rendelkező építési terméket, tűzvédelmi megfelelőségi tanúsítvánnyal rendelkező tűzoltó-technikai terméket, tűz- vagy robbanásveszélyes készüléket, gépet, berendezést (a továbbiakban együtt: termék) lehet.
+13. § (1) Forgalomba hozni, forgalmazni, beépíteni, használni és készenlétben tartani csak megfelelőségi igazolással rendelkező építési terméket, tűzvédelmi megfelelőségi tanúsítvánnyal rendelkező tűzoltó-technikai terméket, tűz- vagy robbanásveszélyes készüléket, gépet, berendezést (a továbbiakban együtt: termék) lehet.
 
 (2) Ha a tűzoltó-technikai termékre nincs tűzvédelmi biztonságossági követelmény, azt csak a tűzvédelmi hatóság vizsgálaton alapuló hatósági engedélye alapján lehet forgalomba hozni, beépíteni, használni és készenlétben tartani.
 

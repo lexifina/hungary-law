@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-31-00-00
 | 2012-01-01 | 2011. évi CXXVIII. törvény | 1996-31-00-00.20 |
 | 2012-01-05 | 2011. évi CCVII. törvény | 1996-31-00-00.21 |
 | 2012-04-15 | 2012. évi XXXI. törvény | 1996-31-00-00.22 |
+| 2012-09-01 | 2012. évi LXXXVIII. törvény | 1996-31-00-00.23 |
