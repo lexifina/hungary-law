@@ -6,13 +6,13 @@
 
 21. § (1) A gyalogosnak a járdán, ahol pedig járda nincs, a leállósávon, az útpadkán vagy a kerékpárúton kell közlekednie.
 
-(2)[^169] Ha az úton sem járda, sem leállósáv, sem útpadka, sem kerékpárút nincs — vagy az a gyalogosközlekedésre, illetőleg a kerekes székkel való közlekedésre alkalmatlan —, a gyalogosok az úttesten közlekedhetnek.
+(2)[^170] Ha az úton sem járda, sem leállósáv, sem útpadka, sem kerékpárút nincs — vagy az a gyalogosközlekedésre, illetőleg a kerekes székkel való közlekedésre alkalmatlan —, a gyalogosok az úttesten közlekedhetnek.
 
-(3)[^170] Ha a gyalogosok az úttesten közlekednek, az úttest szélén, egy sorban
+(3)[^171] Ha a gyalogosok az úttesten közlekednek, az úttest szélén, egy sorban
 
 a) lakott területen lehetőleg a menetirány szerint a bal oldalon, lakott területen kívül mindig a bal oldalon, a járműforgalommal szemben,
 
-b)[^171] a segédmotoros kerékpárt vagy kerékpárt toló, továbbá a kerekes székkel közlekedő mozgáskorlátozott gyalogosok mindig a menetirány szerint a jobb oldalon haladhatnak.
+b)[^172] a segédmotoros kerékpárt vagy kerékpárt toló, továbbá a kerekes székkel közlekedő mozgáskorlátozott gyalogosok mindig a menetirány szerint a jobb oldalon haladhatnak.
 
 (4) A gyalogosnak az úton olyan tárgyat, illetőleg anyagot, amely sérülést, rongálást, vagy szennyezést okozhat, csak megfelelően becsomagolva szabad vinnie. Olyan tárggyal, amely méretei miatt a gyalogosforgalmat zavarná, az úttesten – a menetirány szerinti jobb oldalon, az úttest szélén – kell közlekedni; éjszaka és korlátozott látási viszonyok között az ilyen tárggyal közlekedő gyalogosnak a járművek vezetői által elölről és hátulról kellő távolságból észlelhető lámpát kell vinnie.
 
@@ -44,21 +44,21 @@ e) autópályán (a leállósávon is) közlekedni, valamint áthaladni;
 
 f) autóúton (a leállósávon és az útpadkán is) közlekedni, valamint útkereszteződésen kívül áthaladni;
 
-g)[^172] az úttesten áthaladni, ha a közelben gyalogos alul- vagy felüljáró van.
+g)[^173] az úttesten áthaladni, ha a közelben gyalogos alul- vagy felüljáró van.
 
-(10)[^173] Vasúti pályán (vasúti átjárón vagy más kiépített átkelőhelyen) a gyalogos csak akkor haladhat át, ha meggyőződött arról, hogy vasúti jármű nem közeledik. Nem haladhat át a gyalogos, ha a jelzőberendezés a továbbhaladás tilalmát jelzi.
+(10)[^174] Vasúti pályán (vasúti átjárón vagy más kiépített átkelőhelyen) a gyalogos csak akkor haladhat át, ha meggyőződött arról, hogy vasúti jármű nem közeledik. Nem haladhat át a gyalogos, ha a jelzőberendezés a továbbhaladás tilalmát jelzi.
 
-(11)[^174] Főútvonalon 6 éven aluli gyermeket felügyelet nélkül hagyni tilos.
+(11)[^175] Főútvonalon 6 éven aluli gyermeket felügyelet nélkül hagyni tilos.
 
-(12)[^175] A lakott területen kívüli út úttestjén, leállósávján, útpadkáján tartózkodó gyalogosnak/személynek – ide nem értve a gyalogosok zárt csoportban történő közlekedését – éjszaka és korlátozott látási viszonyok esetén fényvisszaverő mellényt (ruházatot) kell viselnie.
+(12)[^176] A lakott területen kívüli út úttestjén, leállósávján, útpadkáján tartózkodó gyalogosnak/személynek – ide nem értve a gyalogosok zárt csoportban történő közlekedését – éjszaka és korlátozott látási viszonyok esetén fényvisszaverő mellényt (ruházatot) kell viselnie.
 
-(13)[^176] A gyalog- és kerékpárúton a gyalogos a kerékpáros forgalmat nem akadályozhatja és nem veszélyeztetheti.
+(13)[^177] A gyalog- és kerékpárúton a gyalogos a kerékpáros forgalmat nem akadályozhatja és nem veszélyeztetheti.
 
-[^169]: A 21. § (2) bekezdése a 148/1992. (XI. 12.) Korm. rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
-[^170]: A 21. § (3) bekezdése a 2/1984. (I. 29.) KM–BM együttes rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^171]: A 21. § (3) bekezdésének b) pontja a 148/1992. (XI. 12.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^172]: A 21. § (9) bekezdésének g) pontját a 2/1984. (I. 29.) KM-BM együttes rendelet 14. §-ának (2) bekezdése iktatta be a rendeletbe.
-[^173]: A 21. § új (10) bekezdését a 2/1984. (I. 29.) KM–BM együttes rendelet 14. §-ának (3) bekezdése iktatta be, egyidejűleg az eredeti (10) bekezdés számozását (11) bekezdésre változtatva.
-[^174]: A 21. § eredeti (10) bekezdésének számozását (11) bekezdésre változtatta a 2/1984. (I. 29.) KM–BM együttes rendelet 14. § (3) bekezdése.
-[^175]: A 21. § (12) bekezdését az 58/2007. (III. 31.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 14. § (2) bekezdésének c) pontja alapján a rendelkezést 2008. január 1-jétől kell alkalmazni.
-[^176]: A 21. § (13) bekezdését a 289/2009. (XII. 18.) Korm. rendelet 11. §-a iktatta be.
+[^170]: A 21. § (2) bekezdése a 148/1992. (XI. 12.) Korm. rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
+[^171]: A 21. § (3) bekezdése a 2/1984. (I. 29.) KM–BM együttes rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^172]: A 21. § (3) bekezdésének b) pontja a 148/1992. (XI. 12.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^173]: A 21. § (9) bekezdésének g) pontját a 2/1984. (I. 29.) KM-BM együttes rendelet 14. §-ának (2) bekezdése iktatta be a rendeletbe.
+[^174]: A 21. § új (10) bekezdését a 2/1984. (I. 29.) KM–BM együttes rendelet 14. §-ának (3) bekezdése iktatta be, egyidejűleg az eredeti (10) bekezdés számozását (11) bekezdésre változtatva.
+[^175]: A 21. § eredeti (10) bekezdésének számozását (11) bekezdésre változtatta a 2/1984. (I. 29.) KM–BM együttes rendelet 14. § (3) bekezdése.
+[^176]: A 21. § (12) bekezdését az 58/2007. (III. 31.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 14. § (2) bekezdésének c) pontja alapján a rendelkezést 2008. január 1-jétől kell alkalmazni.
+[^177]: A 21. § (13) bekezdését a 289/2009. (XII. 18.) Korm. rendelet 11. §-a iktatta be.
