@@ -1,10 +1,4 @@
-53. § (1) Megszűnik az óvodai elhelyezés, ha
-
-a) a gyermeket másik óvoda átvette, az átvétel napján,
-
-b) a jegyző a szülő kérelmére engedélyt adott a gyermek óvodából történő kimaradására,
-
-c) a gyermeket felvették az iskolába, a nevelési év utolsó napján.
+53. § (1)
 
 (2) Megszűnik a tanulói jogviszony
 

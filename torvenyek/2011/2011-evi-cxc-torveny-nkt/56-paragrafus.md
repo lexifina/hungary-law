@@ -1,3 +1,9 @@
-56. § (1) A tanulót, ha egyéni adottsága, fejlettsége szükségessé teszi, a szakértői bizottság véleménye alapján az igazgató mentesíti az érdemjegyekkel és osztályzatokkal történő értékelés és minősítés alól, és ehelyett szöveges értékelés és minősítés alkalmazását írja elő.
+56. § (1) A tanulót, ha egyéni adottsága, fejlettsége szükségessé teszi, a szakértői bizottság véleménye alapján az igazgató mentesíti
 
-(2) Szünetel a tanulói jogviszonya annak, akinek engedélyezték, hogy tanulmányait megszakítsa, vagy akit fegyelmi határozattal a tanév folytatásától eltiltottak.
+a) az érdemjegyekkel és osztályzatokkal történő értékelés és minősítés alól, és ehelyett szöveges értékelés és minősítés alkalmazását írja elő,
+
+b) a gyakorlati képzés kivételével egyes tantárgyakból, tantárgyrészekből az értékelés és a minősítés alól.
+
+(2) Az érettségi vizsgán az (1) bekezdés b) pont szerinti tantárgyak helyett a tanuló – a vizsgaszabályzatban meghatározottak szerint – másik tantárgyat választhat.
+
+(3) Szünetel a tanulói jogviszonya annak, akinek engedélyezték, hogy tanulmányait megszakítsa, vagy akit fegyelmi határozattal a tanév folytatásától eltiltottak.

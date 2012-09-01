@@ -14,7 +14,7 @@ b) általános iskolában felvételi vizsga.
 
 (6) Az általános iskola köteles felvenni, átvenni azt a tanköteles tanulót, akinek lakóhelye, ennek hiányában tartózkodási helye a körzetében található (a továbbiakban: kötelező felvételt biztosító iskola). Ha a településen több általános iskola működik, az egyes általános iskolai körzetet úgy kell meghatározni, hogy kialakíthatóvá váljon a halmozottan hátrányos helyzetű gyermekek egyenletes aránya a nevelési-oktatási intézményekben.
 
-(7) Az iskolába a tanköteles tanulókat az első évfolyamra a kormányhivatal, települési önkormányzat által működtetett intézmény esetében az önkormányzat által meghatározott időszakban kell beíratni. A beiratkozásra meghatározott időt a helyben szokásos módon közzé kell tenni.
+(7)
 
 (8) A kormányhivatal meghatározza és közzéteszi az iskolák felvételi körzetét, továbbá – a köznevelés-fejlesztési tervvel összhangban – a pedagógiai szakszolgálatot ellátó intézmény működési körzetét. A felvételi körzetek megállapításához a kormányhivatalnak be kell szereznie az érdekelt települési önkormányzatok véleményét.
 

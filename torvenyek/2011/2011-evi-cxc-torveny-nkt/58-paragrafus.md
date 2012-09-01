@@ -50,4 +50,4 @@ fegyelmi büntetés szabható ki.
 
 (13) Végrehajtani csak jogerős fegyelmi határozatot lehet. Ha a végrehajtás elmaradása a többi tanuló jogait súlyosan sértené vagy más elháríthatatlan kárral, veszéllyel járna, az elsőfokú határozat a fellebbezésre tekintet nélkül végrehajtható.
 
-(14) A fegyelmi eljárás lefolytatásának alapvető szabályait jogszabály állapítja meg. A fegyelmi eljárás lefolytatásának részletszabályairól az SZMSZ-ben kell rendelkezni.
+(14) A fegyelmi eljárás lefolytatásának alapvető szabályait jogszabály állapítja meg.

@@ -1,6 +1,6 @@
 84. § (1) A fenntartó a köznevelési intézmény részére új feladatot az ellátáshoz szükséges feltételek biztosításával állapíthat meg.
 
-(2) A fenntartó – a nevelési-oktatási intézmény költségvetésében – gondoskodik az iskolaszék, a szülői szervezet, továbbá az iskolai, kollégiumi diákönkormányzat működési feltételeiről.
+(2) A működtető, ennek hiányában a fenntartó – önálló költségvetéssel rendelkező intézmény esetében a nevelési-oktatási intézmény költségvetésében – gondoskodik az iskolaszék, az óvodaszék, a szülői szervezet, továbbá az iskolai, kollégiumi diákönkormányzat működési feltételeiről.
 
 (3) A fenntartó tanítási évben, továbbá – a július-augusztus hónapok kivételével – nevelési évben
 
@@ -14,7 +14,7 @@ c) az iskola, kollégium, óvoda feladatait nem változtathatja meg.
 
 (5) Az átszervezés tilalmára vonatkozó rendelkezést nem kell alkalmazni, ha a székhely, telephely megváltoztatására azért kerül sor tanítási évben, nevelési évben, mert a már meglévő épületet, helyiséget, területet megfelelő időben nem lehetett birtokba venni, vagy a nevelési-oktatási intézmény által használt épület, helyiség, terület váratlanul alkalmatlanná vált a rendeltetésszerű használatra.
 
-(6) Az egyházi és más nem állami, nem önkormányzati intézményfenntartó részére a kormányhivatal engedélyezheti a székhely, telephely változását tanítási évben, nevelési évben más, előre nem látható okból is. Ha az egyházi és más nem állami, nem önkormányzati intézményfenntartó három éven belül másodszor kéri előre nem látható okból a székhely-, telephelyváltozás engedélyezését, a kormányhivatalnak le kell folytatnia a 34. § (2) bekezdésében szabályozott törvényességi ellenőrzést.
+(6) A kormányhivatal engedélyezi a működési engedéllyel rendelkező intézmények fenntartói számára a székhely, telephely változását tanítási évben, nevelési évben más, előre nem látható okból is. Ha a fenntartó három éven belül másodszor kéri előre nem látható okból a székhely-, telephelyváltozás engedélyezését, a kormányhivatalnak le kell folytatnia a 34. § (2) bekezdésében szabályozott törvényességi ellenőrzést.
 
 (7) A fenntartó legkésőbb az intézkedés tervezett végrehajtása éve májusának utolsó munkanapjáig hozhat döntést
 
@@ -34,7 +34,7 @@ kapcsolatban.
 
 (8) A (7) bekezdésben fel nem sorolt egyéb átszervezésre vonatkozó döntések határideje július utolsó munkanapja.
 
-(9) Az állami fenntartó az alapító okirata szerint nemzetiségi óvodai nevelésben, iskolai nevelés-oktatásban, kollégiumi nevelésben közreműködő nevelési-oktatási intézmény, továbbá az érintett gyermekek, tanulók ellátásában közreműködő pedagógiai szakszolgálatot ellátó intézmény
+(9) A települési önkormányzat, az állami fenntartó az alapító okirata szerint nemzetiségi óvodai nevelésben, iskolai nevelés-oktatásban, kollégiumi nevelésben közreműködő nevelési-oktatási intézmény, továbbá az érintett gyermekek, tanulók ellátásában közreműködő pedagógiai szakszolgálatot ellátó intézmény
 
 a) létesítéséhez, megszüntetéséhez, átszervezéséhez, nevének megállapításához,
 

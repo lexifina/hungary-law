@@ -28,10 +28,10 @@ rendelkezik, abban az esetben, ha a bizonyítvány, oklevél megszerzése óta 1
 
 (9) Az e törvényben foglaltaktól eltérően pedagógus-munkakörben továbbra is foglalkoztatható és újonnan alkalmazható, aki a felsőoktatásról szóló 2005. évi CXXXIX. törvény vagy a felsőoktatásról szóló 1993. évi LXXX. törvény alapján vagy az azt megelőző felsőoktatási képzési rendszerben szerzett, az e törvény 3. mellékletében az adott pedagógus-munkakör betöltéséhez előírt szakképzettségnek megfeleltethető vagy a szakiránynak megfelelő felsőfokú végzettséggel és pedagógus szakképzettséggel rendelkezik.
 
-(10) Ha a pedagógus szakképzettsége e törvényben meghatározott képesítésnek nem felel meg, és e törvény hatálybalépésekor a pedagógusnak
+(10) Ha a pedagógus szakképzettsége e törvényben meghatározott képesítésnek a megváltozott előírások miatt nem felel meg, és e törvény hatálybalépésekor a pedagógusnak
 
 a) a nyugdíjjogosultság eléréséhez szükséges korhatárig tíz évnél kevesebb ideje van, legfeljebb a nyugdíjkorhatár eléréséig változatlan munkakörben tovább foglalkoztatható;
 
 b) a nyugdíjjogosultság eléréséhez szükséges korhatárig tíz évnél több ideje van, e törvény hatálybalépésének napjától számított öt év után csak akkor foglalkoztatható tovább pedagógus-munkakörben, ha tanulmányait a felsőfokú pedagógus-szakképzettséget nyújtó oktatásban megkezdte.
 
-(11) A Kt. alapján létrehozott Országos Köznevelési Tanács, valamint tagjainak megbízatása e törvény hatálybalépésével egyidejűleg megszűnik.
+(11) A Kt. alapján létrehozott Országos Köznevelési Tanács, valamint tagjainak megbízatása 2013. szeptember 1-jén megszűnik.

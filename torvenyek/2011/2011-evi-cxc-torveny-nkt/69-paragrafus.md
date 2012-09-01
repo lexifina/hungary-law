@@ -40,6 +40,4 @@ k) a pedagógus etika normáinak betartásáért és betartatásáért.
 
 (4) A nevelési-oktatási intézményvezető munkáját a nevelőtestület és a szülők közössége a vezetői megbízásának második és negyedik évében személyazonosításra alkalmatlan kérdőíves felmérés alapján értékeli. Az országos pedagógiai-szakmai ellenőrzés az intézményvezető munkájának ellenőrzése és értékelése során a kérdőíves felmérés eredményét is figyelembe veszi.
 
-(5) A nevelési-oktatási intézmény vezetője munkaideje felhasználását és beosztását, az 5. mellékletben foglalt tanórák, foglalkozások megtartásának kötelezettségén kívül maga jogosult meghatározni.
-
-(6) A korábban legalább két ciklust intézményvezetőként dolgozó pedagógus „címzetes igazgatói” pótlékban részesülhet, ha intézményvezetői megbízásának lejártát vagy megszűnését követően továbbra is az intézményben marad alkalmazásban. A pótlék mértéke a volt intézményvezető korábbi vezetői pótlékának huszonöt százaléka.
+(5)–(6)

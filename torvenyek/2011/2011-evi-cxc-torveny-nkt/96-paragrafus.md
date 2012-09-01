@@ -1,12 +1,12 @@
 ## 54. Átmeneti és vegyes rendelkezések
 
-96. § (1) E törvénynek a köznevelési intézmények működésére, a pedagógusok alkalmazására és foglalkoztatására, kötelezettségeire és jogaira, juttatásaira és kedvezményeire vonatkozó rendelkezéseit a gyermekgyógyüdülőkben, az egészségügyi és rehabilitációs intézményekben, gyermekotthonokban, a büntetés-végrehajtási intézményekben folytatott nevelő-oktató munka esetén is alkalmazni kell. Ezekben az intézményekben a nevelés-oktatás a körülményekhez igazodó pedagógiai program szerint folyhat, és a tanév rendjére vonatkozó előírásoktól el lehet térni.
+96. § (1) A nem köznevelési intézményben a gyermek nevelése-gondozása céljából létesített pedagógus-munkakör esetén az ágazati törvény rendelkezései szerint lehet az e törvény szerinti juttatásokat, kedvezményeket alkalmazni. Az egészségügyi intézmény, gyermekgyógyüdülő, büntetés-végrehajtási intézmény, javítóintézet szakmailag önálló nevelési-oktatási intézményegység létesítésével vagy a nevelési-oktatási intézménnyel létesített megállapodás alapján részt vehet a nevelés-oktatás feladataiban. A nevelő-oktató munka a körülményekhez igazodó egyéni fejlesztési és pedagógiai program, valamint egyedi munkarend szerint folyik , a tanév rendjére vonatkozó előírásokat nem kell figyelembe venni.
 
 (2) Az (1) bekezdés szerinti intézményekben folyó nevelő-oktató munka során – a nevelő-oktató munka pedagógiai szakaszait, követelményrendszerét, az állami vizsgák rendszerét meghatározó rendelkezések kivételével – e törvény rendelkezéseitől el lehet térni.
 
 (3) A működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban, a nevelési-oktatási programok akkreditálásával, a tankönyvek jóváhagyásával, a kerettanterv jóváhagyásával összefüggő eljárásokban, a pedagógus-továbbképzési programokkal összefüggő eljárásokban, valamint a törvényességi és hatósági ellenőrzések során az ügyintézési határidő két hónap.
 
-(4) Köznevelési intézmény tekintetében felügyeleti szerven a fenntartót, felügyeleten a fenntartói jogok és kötelességek gyakorlását, szakmai és gazdasági felügyeleten a szakmai és gazdasági ellenőrzést, nevelési-oktatási intézménynél az illetékességi és működési körön a működési (felvételi) körzetet kell érteni.
+(4) Köznevelési intézmény tekintetében felügyeleti és irányító szerven a fenntartót, felügyeleten és irányításon a fenntartói jogok és kötelességek gyakorlását, szakmai és gazdasági felügyeleten a szakmai és gazdasági ellenőrzést, nevelési-oktatási intézménynél az illetékességi és működési körön a működési (felvételi) körzetet kell érteni.
 
 (5) Ahol jogszabály valamely kedvezményre, juttatásra való jogosultságot tanulói jogviszony fennállásához köti, tanulói jogviszony alatt a fejlesztő nevelés-oktatást is érteni kell.
 

@@ -1,4 +1,4 @@
-55. § (1) Az igazgató a gyakorlati képzés kivételével a tanulót kérelmére – kiskorú tanuló esetében a szülő kérelmére – felmentheti az iskolai kötelező tanórai foglalkozásokon való részvétel alól, ha a tanuló egyéni adottságai, sajátos nevelési igénye, továbbá sajátos helyzete ezt indokolttá teszi. Az igazgató a tanulót kérelmére mentesítheti a készségtárgyak tanulása alól, ha azt egyéni adottsága vagy sajátos helyzete indokolttá teszi. Az iskolában – kivéve, ha az intézmény e törvény rendelkezéseinek megfelelően egész napos iskolaként működik – az igazgató a tanulót a szülő kérelmére felmentheti – az általános iskolában tizenhat óra előtt megszervezett egyéb foglalkozás alól.
+55. § (1)
 
 (2) A magántanulót – az iskolában vagy azon kívül folyó gyakorlati képzés kivételével – az iskola valamennyi kötelező tanórai foglalkozása alól fel kell menteni. Az iskolai rendszerű szakképzésben a magántanulókra vonatkozó részletes szabályokat a szakképzésre vonatkozó jogszabályok határozzák meg.
 

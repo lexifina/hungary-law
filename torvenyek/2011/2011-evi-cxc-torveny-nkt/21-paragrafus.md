@@ -6,7 +6,7 @@
 
 (3) A köznevelési intézmény alapító okirata tartalmazza
 
-a) az alapító és a fenntartó nevét és székhelyét,
+a) az alapító és a fenntartó, a működtető nevét és székhelyét,
 
 b) az intézmény – külön jogszabályban meghatározott – hivatalos nevét,
 

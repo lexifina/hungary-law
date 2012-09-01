@@ -12,7 +12,7 @@ c) gondoskodik – az országos pedagógiai-szakmai szolgáltatásokról és az 
 
 d) gondoskodik a nevelési-oktatási intézményekben folyó pedagógiai munka országos, térségi, megyei, fővárosi szintű szakmai ellenőrzéséről, értékeléséről a hivatal közreműködésével,
 
-e) működteti a KIR-t,
+e)
 
 f) működteti az oktatási jogok biztosának hivatalát,
 

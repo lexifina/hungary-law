@@ -12,7 +12,7 @@ c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáró
 
 (4) Az (1) bekezdés a) pontjában felsoroltak az elismerés iránti kérelem benyújtásától kezdődően gyakorolhatják a (3) bekezdésben meghatározott jogokat.
 
-(5) A (3) bekezdésben szabályozott jog az (1) bekezdés b), c) pontjában meghatározottak alapján akkor gyakorolható, ha a szülő három hónapot meghaladó tartózkodásra jogosító engedéllyel rendelkezik és keresőtevékenységet folytat. E rendelkezéseket az érintett házastársa és gyermeke tekintetében is alkalmazni kell.
+(5) A (3) bekezdésben szabályozott jog az (1) bekezdés b), c) pontjában meghatározottak alapján akkor gyakorolható, ha a szülő három hónapot meghaladó tartózkodásra jogosító engedéllyel rendelkezik és keresőtevékenységet folytat.
 
 (6) Az a nem magyar állampolgár, aki az oktatásért felelős miniszter meghívólevelével rendelkezik, a meghívólevélben meghatározott ellátást a magyar állampolgárokkal azonos feltételek szerint veheti igénybe.
 

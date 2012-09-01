@@ -40,15 +40,19 @@ e) vezetőjének megbízásával és megbízásának visszavonásával
 
 a) az intézmény alkalmazotti közössége,
 
-b) az iskolaszék,
+b) az óvodaszék, az iskolaszék,
 
-c) az iskolai szülői szervezet,
+c) a szülői szervezet,
 
 d) az iskolai diákönkormányzat,
 
 e) a nemzetiségi nevelés-oktatásban részt vevő intézmény esetén – ha nem rendelkezik egyetértési joggal – a települési nemzetiségi önkormányzat, ennek hiányában az érintett országos nemzetiségi önkormányzat,
 
-f) szakközépiskola és szakiskola esetén a fővárosi, megyei gazdasági kamara
+f) szakközépiskola és szakiskola esetén a fővárosi, megyei gazdasági kamara,
+
+g) az állami fenntartású szakképző iskola esetén a szakképzésért és felnőttképzésért felelős miniszter,
+
+h) a működtető önkormányzat
 
 véleményét.
 
@@ -56,4 +60,4 @@ véleményét.
 
 (6) Ha a fenntartó három vagy annál több köznevelési intézményt tart fenn, a (3)–(4) bekezdés szerinti véleményeztetési kötelezettségének – a nevelési-oktatási intézmény átalakítása, megszüntetése, vezetőjének megbízása és megbízásának visszavonása kivételével – eleget tehet úgy is, hogy a tervezett intézkedésről szóló tájékoztatót az érintett köznevelési intézmény vezetőjének küldi meg azzal, hogy a helyben szokásos módon hozza nyilvánosságra, és hívja fel a (4) bekezdésben meghatározottak figyelmét arra, hogy a fenntartó tervezett intézkedésével kapcsolatos véleményüket a (5) bekezdésben meghatározott határidő biztosítása mellett a köznevelési intézmény vezetőjének küldhetik meg. A köznevelési intézmény vezetője a véleményeket a véleményezési határidő lejártát követő öt munkanapon belül megküldi a fenntartónak.
 
-(7) A magyar nyelvi előkészítés, a nemzetiség nyelvén folyó nevelés és oktatás iránti igényt a kormányhivatal évente köteles felmérni az érintett első óvodai nevelési évre, első iskolai évfolyamra beiratkozni szándékozók körében az érdekelt települési nemzetiségi önkormányzat és az országos nemzetiségi önkormányzat bevonásával.
+(7) A magyar nyelvi előkészítés, a nemzetiség nyelvén folyó nevelés és oktatás iránti igényt a települési önkormányzat, az állami intézményfenntartó központ évente köteles felmérni az érintett első óvodai nevelési évre, első iskolai évfolyamra beiratkozni szándékozók körében az érdekelt települési nemzetiségi önkormányzat és az országos nemzetiségi önkormányzat bevonásával.

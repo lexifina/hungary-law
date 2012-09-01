@@ -18,7 +18,7 @@ g) gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény,
 
 h) kollégium (a továbbiakban: az a)–h) pont alattiak együtt: nevelési-oktatási intézmény),
 
-i) pedagógiai szakszolgálati intézmény,
+i)
 
 j) pedagógiai-szakmai szolgáltatást nyújtó intézmény (a továbbiakban: az a)–j) pont alattiak együtt: köznevelési intézmény).
 
@@ -28,6 +28,6 @@ j) pedagógiai-szakmai szolgáltatást nyújtó intézmény (a továbbiakban: az
 
 (4) Az oktatásért felelős miniszter az (1)–(3) bekezdésben meghatározottakon kívül más köznevelési intézményt is alapíthat, alapítását engedélyezheti, ha az megfelel e törvény, valamint a szakképzésről szóló törvény előírásainak. Engedélyezheti sajátos pedagógiai program alapján nevelő és oktató általános iskola, középfokú iskola továbbá olyan középiskola alapítását, amelynek nem célja, hogy a tanulót felkészítse az érettségi vizsgára. A kérelemhez mellékelni kell a köznevelési intézmény alapításához jogszabályban meghatározott dokumentumokat, tevékenységével, óvoda és iskola esetén az átadni kívánt ismeretekkel kapcsolatos programot. Az engedéllyel kapcsolatos többletköltségeket a fenntartónak kell viselnie.
 
-(5) Az agrárágazatba tartozó külön jogszabályban meghatározott szakképesítések esetében iskolai rendszerű szakképzés kizárólag a vidékfejlesztésért felelős miniszter által alapított és fenntartott szakképző iskolában, vagy más fenntartó esetén – a vidékfejlesztésért felelős miniszter egyetértésével kötött – köznevelési szerződés és szakképzési megállapodás alapján folyhat.
+(5) Köznevelési alapfeladatot csak a 7. § (1) bekezdésben felsorolt köznevelési intézmény láthat el. A vidékfejlesztésért felelős miniszter által fenntartott szakképző iskolában kizárólag az agrárpolitikáért, az élelmiszeriparért, az erdőgazdálkodásért, a halgazdálkodásért, a földügyért és térképészetért, a környezetvédelemért és vízgazdálkodásért, valamint a vadgazdálkodásért felelős miniszter hatáskörébe tartozó szakképesítések oktathatóak, ezen túli szakképzések indításához az állami intézményfenntartó központ hozzájárulását ki kell kérni.
 
 (6) Az (1) bekezdés b)–e) és g) pontjában felsorolt iskola – külön jogszabályban meghatározottak szerint – elláthatja a sportiskola feladatait is.

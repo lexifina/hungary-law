@@ -8,7 +8,7 @@ b) a tanuló testi-lelki egészségét veszélyeztető, tanulását akadályozó
 
 szükséges.
 
-(2) Kollégiumi nevelés-oktatás és lakhatáson kívüli ellátás biztosítható annak a tanulónak is, akinek férőhely hiányában nem lehet kollégiumi elhelyezést biztosítani (a továbbiakban: externátusi ellátás). A kollégiumi ellátás tízéves kortól – a testi, érzékszervi, értelmi fogyatékosság miatt sajátos nevelési igényű gyermekek és tanulók, valamint a nemzetiségi nevelésben, nevelés-oktatásban részt vevő gyermekek és tanulók esetében az óvodai nevelés kezdetétől – vehető igénybe.
+(2) Kollégiumi nevelés-oktatás és lakhatáson kívüli ellátás biztosítható annak a tanulónak is, akinek férőhely hiányában nem lehet kollégiumi elhelyezést biztosítani (a továbbiakban: externátusi ellátás).
 
 (3) A kollégium – részben vagy egészben, jogszabályban meghatározottak szerint – szakkollégiumként is működhet. A szakkollégium célja, hogy saját pedagógiai program kidolgozásával személyközpontú tehetséggondozást végezzen.
 

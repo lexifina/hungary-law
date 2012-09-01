@@ -10,7 +10,7 @@
 
 (6) Az általános iskola ötödik-nyolcadik évfolyamán az erkölcstan tantárgy tanítására az alkalmazható, aki a tantárgynak megfelelő szakos tanári végzettséggel és szakképzettséggel rendelkezik, vagy az iskolai nevelés oktatás ötödik-nyolcadik évfolyamán pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik, továbbá legalább hatvan órás pedagógus továbbképzés vagy szakirányú továbbképzés keretében elsajátította az erkölcstan oktatásához szükséges elméleti és módszertani ismereteket.
 
-(7) Iskolai, kollégiumi könyvtárostanárnak (tanítónak) alkalmazható az is, aki a 3. mellékletében foglaltak szerint az iskolában, kollégiumban pedagógus-munkakör betöltésére jogosító tanítói vagy tanári végzettséggel és szakképzettséggel, továbbá iskolarendszeren kívüli oktatásban szerzett felsőfokú könyvtárosi szakképesítéssel rendelkezik.
+(7) Iskolai, kollégiumi könyvtárostanárnak vagy könyvtárostanítónak alkalmazható az is, aki a 3. mellékletében foglaltak szerint az iskolában, kollégiumban pedagógus-munkakör betöltésére jogosító tanítói vagy tanári végzettséggel és szakképzettséggel, továbbá iskolarendszeren kívüli oktatásban szerzett emelt szintű könyvtárosi szakképesítéssel rendelkezik.
 
 (8) Az alkalmazáskor és a vezetői megbízáskor
 
@@ -24,4 +24,4 @@ d) egyetemi végzettségnek és szakképzettségnek kell elfogadni a Magyar Test
 
 (9) Gyakorlati oktató munkakörben történő alkalmazáskor a képzés szakirányának megfelelő főiskolai végzettségnek kell elfogadni a – képzésről rendelkező jogszabály szerint – felsőfokú végzettséget tanúsító műszaki oktatói, technikus tanári, szakoktatói oklevelet, bizonyítványt. A felsőfokú végzettséget nem tanúsító, tanfolyami képzésben szerzett műszaki szakoktatói (oktatói) bizonyítványt az alkalmazáskor a képzés szakirányának megfelelő középfokú szakképesítésnek kell elfogadni.
 
-(10) Ha nincs a képzés szakirányának megfelelő hazai felsőfokú képzés, szakiskolában – az elméletigényes szakmai gyakorlat kivételével – alkalmazható határozatlan időre az is, továbbá köznevelési szakértői tevékenységet végezhet, aki középiskolai végzettséggel és mestervizsgával rendelkezik; továbbá a népzenész- és a szórakoztatózenész-képzésben az, aki emelt szintű szakképesítéssel rendelkezik.
+(10) Ha nincs a képzés szakirányának megfelelő hazai felsőfokú képzés, szakiskolában – a szakképzési kerettantervben az adott gyakorlati tantárgyra vonatkozó eltérő rendelkezés hiányában – alkalmazható határozatlan időre az is, továbbá köznevelési szakértői tevékenységet végezhet, aki középiskolai végzettséggel és mestervizsgával rendelkezik; továbbá a népzenész- és a szórakoztatózenész-képzésben az, aki emelt szintű szakképesítéssel rendelkezik.

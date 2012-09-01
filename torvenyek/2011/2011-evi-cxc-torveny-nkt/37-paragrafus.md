@@ -12,4 +12,4 @@ b) az óvodai felvétellel és az óvodából való kizárással, a tanulói jog
 
 tekintetében.
 
-(4) A (3) bekezdésben szabályozott eljárásban állami fenntartású nevelési-oktatási intézményben a kormánymegbízott, települési önkormányzat által fenntartott nevelési-oktatási intézmény esetén a jegyző, más fenntartó esetén jogi és igazgatási képzési területen szerzett felsőfokú végzettséggel és szakképzettséggel vagy a döntéshozó nevelési-oktatási intézményben igazgatói munkakör betöltésére jogosító felsőfokú végzettséggel rendelkező személy járhat el.
+(4) A (3) bekezdésben szabályozott eljárásban állami fenntartású nevelési-oktatási intézményben a fenntartó vezetője, települési önkormányzat által fenntartott nevelési-oktatási intézmény esetén a jegyző, más fenntartó esetén jogi és igazgatási képzési területen szerzett felsőfokú végzettséggel és szakképzettséggel vagy a döntéshozó nevelési-oktatási intézményben igazgatói munkakör betöltésére jogosító felsőfokú végzettséggel rendelkező személy járhat el.

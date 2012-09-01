@@ -1,4 +1,4 @@
-23. § (1) Ha a köznevelési intézményt nem kormányhivatal alapítja, működésének megkezdéséhez engedély szükséges.
+23. § (1) Ha a köznevelési intézményt nem az állami intézményfenntartó központ alapítja, működésének megkezdéséhez engedély szükséges.
 
 (2) Az engedély akkor adható ki, ha a köznevelési intézmény a 22. § (1)–(2) bekezdésben meghatározottak szerint rendelkezik a működéséhez szükséges feltételekkel és a nyilvántartásba vétel óta kevesebb mint hat hónap telt el. Az engedély kiadásával összefüggő költségeket a kérelem benyújtója viseli.
 
@@ -30,7 +30,7 @@ d) működése nincs összhangban a köznevelés-fejlesztési tervben foglaltakk
 
 a) nem rendelkezik – az e törvényben és a külön jogszabályban foglaltaknak megfelelő – a működéséhez szükséges személyi és tárgyi feltételekkel,
 
-b) munkaterve nem felel meg a külön jogszabályban foglaltaknak és nincs összhangban az oktatásért felelős miniszter által kijelölt háttérintézmény szakmai irányelvében foglaltakkal.
+b) munkaterve nem felel meg a külön jogszabályban foglaltaknak, továbbá pedagógiai-szakmai szolgáltatást nyújtó intézmény esetében nincs összhangban az oktatásért felelős miniszter által kijelölt háttérintézménynek a miniszter által jóváhagyott szakmai irányelvében foglaltakkal.
 
 (9) A nevelési-oktatási intézmény működéséhez szükséges engedély akkor adható ki, ha a nevelési-oktatási intézmény állandó saját székhellyel rendelkezik, továbbá legalább egy, a maximális létszám befogadására alkalmas óvodai csoport, kollégiumi csoport, továbbá az adott iskolatípusnak megfelelően valamennyi évfolyamra egy-egy iskolai osztály működtetésére alapították, és az ehhez szükséges – jogszabályban meghatározott – személyi és tárgyi feltételek rendelkezésre állnak, újonnan induló nevelési-oktatási forma esetében felmenő rendszerben, fokozatosan megteremti.
 

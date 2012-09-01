@@ -68,7 +68,7 @@ f) az országos mérés-értékelés adatai.
 
 (5) A (2)–(3) bekezdésben foglalt adatok – az e törvényben meghatározottak szerint, a személyes adatok védelmére vonatkozó célhoz kötöttség megtartásával – továbbíthatók a fenntartónak, a kifizetőhelynek, a bíróságnak, rendőrségnek, ügyészségnek, a közneveléssel összefüggő igazgatási tevékenységet végző közigazgatási szervnek, a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak, a nemzetbiztonsági szolgálatnak.
 
-(6) A köznevelési intézmények az alkalmazottak személyes adatait csak a foglalkoztatással, a juttatások, kedvezmények, kötelezettségek megállapításával és teljesítésével, az állampolgári jogok és kötelezettségek teljesítésével kapcsolatosan, nemzetbiztonsági okokból, az e törvényben meghatározott nyilvántartások kezelése céljából, a célnak megfelelő mértékben, célhoz kötötten kezelhetik. A 63. § (3) bekezdésében meghatározott pedagógusigazolványra jogosultak esetében a pedagógusigazolvány kiállításához szükséges valamennyi adat a KIR – jogszabályban meghatározott – működtetője, a pedagógusigazolvány elkészítésében közreműködők részére továbbítható.
+(6) A köznevelési intézmények az alkalmazottak személyes adatait csak a foglalkoztatással, a juttatások, kedvezmények, kötelezettségek megállapításával és teljesítésével, az állampolgári jogok és kötelezettségek teljesítésével kapcsolatosan, nemzetbiztonsági okokból, az e törvényben meghatározott nyilvántartások kezelése céljából, a célnak megfelelő mértékben, célhoz kötötten kezelhetik. A 63. § (3) bekezdésében meghatározott pedagógusigazolványra jogosultak esetében a pedagógusigazolvány kiállításához szükséges valamennyi adat a KIR adatkezelője, a pedagógusigazolvány elkészítésében közreműködők részére továbbítható.
 
 (7) A gyermek, tanuló adatai közül
 
@@ -96,7 +96,7 @@ b) óvodai fejlődésével, valamint az iskolába lépéshez szükséges fejlett
 
 c) magatartása, szorgalma és tudása értékelésével kapcsolatos adatai az érintett osztályon belül, a nevelőtestületen belül, a szülőnek, a vizsgabizottságnak, a gyakorlati képzés szervezőjének, a tanulószerződés alanyainak vagy ha az értékelés nem az iskolában történik, az iskolának, iskolaváltás esetén az új iskolának, a szakmai ellenőrzés végzőjének,
 
-d) diákigazolványa kiállításához szükséges valamennyi adata a KIR – jogszabályban meghatározott – működtetője, a diákigazolvány elkészítésében közreműködők részére
+d) diákigazolványa kiállításához szükséges valamennyi adata a KIR adatkezelője, a diákigazolvány elkészítésében közreműködők részére
 
 továbbítható.
 

@@ -6,7 +6,7 @@
 
 (3) Ha a szakközépiskola, a szakiskola a Magyar Honvédségnél vagy rendvédelmi szervekben folyó hivatásos szolgálat ellátásához szükséges munkakör betöltésére, szakképesítés megszerzésére készít fel, létesítéséhez és működése megkezdésének engedélyezéséhez a szakképesítésért felelős miniszter engedélye szükséges.
 
-(4) Ha a nevelési-oktatási intézményt a honvédelemért valamint a rendvédelemért felelős miniszter tartja fenn,
+(4) Ha a nevelési-oktatási intézményt a honvédelemért, valamint a rendvédelemért felelős miniszter tartja fenn,
 
 a) a szakközépiskola és a szakiskola a 12–13. §-ban foglaltaktól eltérő számú évfolyammal működhet,
 
@@ -14,7 +14,7 @@ b) a pedagógiai programban sajátos honvédelmi, rendvédelmi szempontok érvé
 
 c) az SZMSZ, házirend a pedagógusok, a nevelő-oktató munkát közvetlenül segítők és a tanulók számára a Magyar Honvédségben és a Hszt.-ben előírt viselkedési és megjelenési szabályokat, jogokat, kötelességeket, kiképzési tevékenységet írhat elő, továbbá ezek megsértése miatt fegyelmi eljárás kezdeményezhető,
 
-d) a nevelő-oktató munka pedagógus-munkakörben szolgálati viszonyban is ellátható,
+d) a nevelő-oktató munka pedagógus munkakörben szolgálati viszonyban is ellátható,
 
 e) a fenntartó pályáztatás és további eljárás nélkül is adhat intézményvezetői megbízást,
 
@@ -22,4 +22,6 @@ f) nem kell alkalmazni az osztály-, csoportlétszámokat meghatározó rendelke
 
 g) a tanulói jogviszony és a kollégiumi tagsági viszony megszüntetésével kapcsolatosan – írásbeli megállapodásban – a törvény szabályaitól el lehet térni,
 
-h) országos feladatot ellátó intézménynek minősül.
+h) országos feladatot ellátó intézménynek minősül,
+
+i) a 60. § (2) bekezdés b) pontja szerinti életkori határ a katonai szakképesítések esetén huszonnégy év.

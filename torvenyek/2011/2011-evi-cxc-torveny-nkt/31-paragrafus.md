@@ -12,21 +12,23 @@ c) az óvodai, iskolai, kollégiumi felvétel, továbbá az óvodai elhelyezés,
 
 d) a fenntartó pályáztatás és további eljárás nélkül is adhat intézményvezetői megbízást, nem kell alkalmazni a 67. § (7) bekezdésében és a 83. § (3) bekezdés e) pontjában foglaltakat,
 
-e) a nevelési-oktatási intézmény – a fenntartó és az oktatásért felelős miniszter között létrejött írásbeli szerződés (a továbbiakban: köznevelési szerződés) keretei között – részt vehet az e törvényben meghatározott köznevelési közszolgálati feladatok megvalósításában.
+e) a nevelési-oktatási intézmény – a fenntartó, óvoda esetében a települési önkormányzattal, más köznevelési intézmény esetében az oktatásért felelős miniszterrel kötött írásbeli szerződés (a továbbiakban: köznevelési szerződés) alapján – részt vehet az e törvényben meghatározott köznevelési közszolgálati feladatok megvalósításában.
 
 (3) Ha a pedagógiai szakszolgálati intézményt vagy a pedagógiai-szakmai szolgáltató intézményt nem állami szerv, nem települési önkormányzat tartja fenn, az oktatásért felelős miniszter köthet a fenntartóval köznevelési szerződést.
 
-(4) A köznevelési szerződés keretei között a nevelés és oktatás a gyermekek, tanulók számára térítésmentessé válik, továbbá a gyermekek, tanulók felvételére alkalmazni kell azokat a szabályokat, amelyek az állami, települési önkormányzati nevelési-oktatási intézményekre vonatkoznak, és nem lehet alkalmazni a (2) bekezdés b) pontjában foglaltakat.
+(4) A köznevelési szerződés keretei között a nevelés és oktatás a gyermekek, tanulók számára térítésmentessé válik, továbbá a gyermekek, tanulók felvételére alkalmazni kell azokat a szabályokat, amelyek az állami, települési önkormányzati nevelési-oktatási intézményekre vonatkoznak, és nem lehet alkalmazni a (2) bekezdés c) pontjában foglaltakat.
 
 (5) A köznevelési szerződés az alábbiakat tartalmazza:
 
-a) a nevelési és oktatási feladatokat,
+a) a köznevelési alapfeladatokat,
 
-b) a felvehető gyermekek, tanulók számát,
+b) a felvehető, ellátandó gyermekek, tanulók számát,
 
-c) az óvodai nevelési feladatokban, a tankötelezettség teljesítésével és az iskolai nevelés-oktatással összefüggő feladatokban való részvételt,
+c) az óvodai nevelési feladatokban, a tankötelezettség teljesítésével és az iskolai neveléssel-oktatással, a pedagógiai szakszolgálatok ellátásával összefüggő feladatokban való részvételt,
 
 d) a fenntartó által a feladatellátáshoz igénybe vehető forrásokat, azokat a szolgáltatásokat, amelyek a megállapodás alapján a gyermekek, tanulók, szülők részére térítésmentessé válnak, továbbá amelyeket térítési díjért vehetnek igénybe.
+
+e) pedagógiai-szakmai szolgáltatás esetén az állami közfeladat-ellátásban történő részvétel keretében ingyenesen nyújtott szolgáltatásokat és az ellátási körzetet.
 
 (6) A köznevelési szerződés érvényességi ideje öt év. A köznevelési szerződésre egyebekben a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) megbízásra vonatkozó rendelkezéseit kell alkalmazni.
 

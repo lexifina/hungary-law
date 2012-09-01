@@ -1,5 +1,1 @@
-## | | A | B | C | 1 | Magasabb vezetői, vezetői megbízás | Feltétel | Létszám | 2 | intézményvezető | intézményenként | 1 | 3 | tagintézmény-vezető | tagintézményenként | 1 | 4 | intézményegység-vezető | szervezeti és szakmai tekintetben önálló intézményegységenként | 1 | 5 | intézményvezető-helyettes | 50 gyermek/tanuló létszám alatt | - | 6 | intézményvezető-helyettes | 51 – 200 gyermek/tanuló | 1 | 7 | intézményvezető-helyettes | 201 – 500 gyermek/tanuló | 2 | 8 | intézményvezető-helyettes | 500-nál több gyermek/tanuló esetén | 3 | 9 | tagintézmény-, intézményegységvezető-helyettes | intézményegységenként, tagintézményenként 200 gyermek/tanuló létszám alatt | – | 10 | tagintézmény-, intézményegységvezető-helyettes | intézményegységenként, tagintézményenként 201–500 gyermek/tanuló | 1 | 11 | tagintézmény-, intézményegységvezető-helyettes | intézményegységenként, tagintézményenként 500-nál több gyermek/tanuló esetén | 2
-
 2. melléklet a 2011. évi CXC. törvényhez
-
-A nevelő- és oktatómunkát közvetlenül segítő alkalmazottak finanszírozott létszáma
