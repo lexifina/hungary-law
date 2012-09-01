@@ -12,9 +12,10 @@ d) Út a felsőoktatásba ösztöndíj- és tandíj-támogatási program, amelyn
 
 e) Út a tudományhoz alprogram, amelynek célja a természettudományok, a műszaki tudományok és a matematika területe iránt kiemelt érdeklődést mutató tanulók tehetséggondozása.
 
-(3) Az Ösztöndíjprogram céljának megvalósulását a tanulók közoktatási intézményei és mentorok segítik.
+(3)[^2] Az Ösztöndíjprogram céljának megvalósulását a tanulók köznevelési intézményei és mentorok segítik.
 
-(4)[^2] A 3–5. §-t, a 6. § (1), (2), (3)–(6) és (7) bekezdését, a 7. §-t, a 9. § (1)–(3) és (5)–(15) bekezdését, a 9/A. §-t, a 10. §-t, valamint a 11. § (1)–(4) bekezdését nem kell alkalmazni az Út a felsőoktatásba ösztöndíj- és tandíjtámogatási programra.
+(4)[^3] A 3–5. §-t, a 6. § (1), (2), (3)–(6) és (7) bekezdését, a 7. §-t, a 9. § (1)–(3) és (5)–(15) bekezdését, a 9/A. §-t, a 10. §-t, valamint a 11. § (1)–(4) bekezdését nem kell alkalmazni az Út a felsőoktatásba ösztöndíj- és tandíjtámogatási programra.
 
 [^1]: Az 1. § (2) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (4) bekezdését a 222/2012. (VIII. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^2]: Az 1. § (3) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (4) bekezdését a 222/2012. (VIII. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be.

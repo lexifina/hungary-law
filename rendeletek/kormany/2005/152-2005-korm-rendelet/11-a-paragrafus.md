@@ -1,4 +1,4 @@
-11/A. §[^89] (1) Az Út a felsőoktatásba alprogram
+11/A. §[^93] (1) Az Út a felsőoktatásba alprogram
 
 a) ösztöndíj-támogatási és
 
@@ -16,4 +16,4 @@ b) önköltség-támogatási
 
 (6) A támogatás folyósításának a feltétele a hallgatói jogviszony igazolása minden félévben. A második félévtől kezdődően a hallgató akkor jogosult a támogatásra, ha igazolja, hogy a mintatanterv felének megfelelő kreditet teljesített.
 
-[^89]: A 11/A. §-t a 143/2011. (VII. 21.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 222/2012. (VIII. 15.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^93]: A 11/A. §-t a 143/2011. (VII. 21.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 222/2012. (VIII. 15.) Korm. rendelet 10. §-ával megállapított szöveg.
