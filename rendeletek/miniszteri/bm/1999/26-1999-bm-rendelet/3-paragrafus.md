@@ -1,4 +1,4 @@
-3. § (1)[^8] A 2. § (1) bekezdésében meghatározott hatóságok a kérelmet írásban, a székhelyük szerint illetékes helyi bíróság – törvényszék elnöke által kijelölt – bírájánál terjesztik elő.
+3. § (1)[^7] A 2. § (1) bekezdésében meghatározott hatóságok a kérelmet írásban, a székhelyük szerint illetékes helyi bíróság – törvényszék elnöke által kijelölt – bírájánál terjesztik elő.
 
 (2) A kérelem az Rtv. 70. §-ának (2) bekezdésében előírtakat tartalmazza azzal, hogy az indokolásban ki kell térni:
 
@@ -10,4 +10,4 @@ c) sürgősségi elrendelés esetén, ennek okára és az elrendelés időpontj�
 
 (3) A kérelmet három számozott példányban kell elkészíteni és a titkos ügykezelés szabályai szerint az engedélyezésre jogosult bírónak megküldeni, melyből elbírálás után a kérelmező két példányt visszakap.
 
-[^8]: A 3. § (1) bekezdése a 63/2011. (XII. 29.) BM rendelet 2. §-a szerint módosított szöveg.
+[^7]: A 3. § (1) bekezdése a 63/2011. (XII. 29.) BM rendelet 2. §-a szerint módosított szöveg.

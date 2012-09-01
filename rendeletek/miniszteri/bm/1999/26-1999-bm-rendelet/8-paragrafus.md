@@ -2,6 +2,6 @@
 
 8. § (1) Ez a rendelet 1999. szeptember 1-jén lép hatályba.
 
-(2)[^9]
+(2)[^8]
 
-[^9]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 3. § 175. pontja hatályon kívül helyezte.
+[^8]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 3. § 175. pontja hatályon kívül helyezte.

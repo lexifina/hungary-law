@@ -8,55 +8,56 @@
 
 4. az ORFK Bűnügyi Főigazgatóság Bűnügyi Főosztály (a továbbiakban: ORFK Bűnügyi Főosztály) főosztályvezetője,
 
-5. a Nemzeti Nyomozó Iroda (a továbbiakban: NNI) igazgatója,
+5. a Készenléti Rendőrség (a továbbiakban: KR) parancsnoka,
 
-6. az NNI igazgatóhelyettesei,
+6. a KR Különleges Szolgálatok Igazgatóság igazgatója,
 
-7. az NNI Szervezett Bűnözés Elleni Főosztály főosztályvezetője,
+7. a KR Nemzeti Nyomozó Iroda igazgatója,
 
-8. az NNI Gazdaságvédelmi Főosztály főosztályvezetője,
+8. a KR Nemzeti Nyomozó Iroda Korrupció és Gazdasági Bűnözés Elleni Főosztály vezetője,
 
-9. az NNI Bűnügyi Főosztály főosztályvezetője,
+9. a KR Nemzeti Nyomozó Iroda Nyomozó Főosztály vezetője,
 
-10. az NNI Területi Főosztály vezetője,
+10. a KR Nemzeti Nyomozó Iroda Nemzetközi Bűnözés Elleni Főosztály vezetője,
 
-11.[^4] a Készenléti Rendőrség Védelemszervező Szolgálat vezetője,
+11. a KR Nemzeti Nyomozó Iroda Felderítő Főosztály vezetője,
 
-12. a megyei (fővárosi) rendőrfőkapitány,
+12. a KR Tanúvédelmi Szolgálat vezetője,
 
-13. a megyei rendőr-főkapitányság bűnügyi igazgatója, illetve a budapesti rendőrfőkapitány bűnügyi helyettese,
+13. a megyei (fővárosi) rendőrfőkapitány,
 
-14. a Repülőtéri Rendőr Igazgatóság (a továbbiakban: RRI) igazgatója, az RRI igazgatójának bűnügyi helyettese,
+14. a megyei rendőr-főkapitányság bűnügyi igazgatója, illetve a budapesti rendőrfőkapitány bűnügyi helyettese,
 
-15. az NVSZ főigazgatója,
+15. a Repülőtéri Rendőr Igazgatóság (a továbbiakban: RRI) igazgatója, az RRI igazgatójának bűnügyi helyettese,
 
-16. az NVSZ Rendvédelmi Szervek Védelmi Szolgálata Igazgatóságának igazgatója,
+16. az NVSZ főigazgatója,
 
-17. az NVSZ Polgári Titkosszolgálatok Védelmi Szolgálata Igazgatóságának igazgatója,
+17. az NVSZ Rendvédelmi Szervek Védelmi Szolgálata Igazgatóságának igazgatója,
 
-18. az NVSZ Közigazgatási Szervek Védelmi Szolgálata Igazgatóságának igazgatója,
+18. az NVSZ Polgári Titkosszolgálatok Védelmi Szolgálata Igazgatóságának igazgatója,
 
-19. az NVSZ Rendvédelmi Szervek Védelmi Szolgálata Igazgatóságának igazgatóhelyettese,
+19. az NVSZ Közigazgatási Szervek Védelmi Szolgálata Igazgatóságának igazgatója,
 
-20. a TEK főigazgatója,
+20. az NVSZ Rendvédelmi Szervek Védelmi Szolgálata Igazgatóságának igazgató-helyettese,
 
-21. a TEK főigazgató-helyettese,
+21. a TEK főigazgatója,
 
-22. a TEK Felderítési Igazgatóság igazgatója, valamint
+22. a TEK főigazgató-helyettese,
 
-23. a TEK Felderítési Igazgatóság főosztályvezetői
+23. a TEK Felderítési Igazgatóság igazgatója, valamint
+
+24. a TEK Felderítési Igazgatóság főosztályvezetői
 
 terjeszthetik elő.
 
-(2)[^5] A rendőrkapitányság vezetőjének kérelmét a megyei rendőr-főkapitányság bűnügyi igazgatója, illetőleg a budapesti rendőrfőkapitány bűnügyi helyettese terjeszti elő.
+(2)[^4] A rendőrkapitányság vezetőjének kérelmét a megyei rendőr-főkapitányság bűnügyi igazgatója, illetőleg a budapesti rendőrfőkapitány bűnügyi helyettese terjeszti elő.
 
-(3)[^6] Az RRI esetében a különleges eszköz alkalmazásának sürgősségi elrendelésére az RRI igazgatója jogosult.
+(3)[^5] Az RRI esetében a különleges eszköz alkalmazásának sürgősségi elrendelésére az RRI igazgatója jogosult.
 
-(4)[^7] A különleges eszközök alkalmazásának sürgősségi elrendelésére az (1) bekezdés 1–6., 12., valamint 15–21. pontjában felsorolt vezetők jogosultak az Rtv. 72. §-a szerint.
+(4)[^6] A különleges eszközök alkalmazásának sürgősségi elrendelésére az (1) bekezdés 1–7., 13., valamint 16–22. pontjában felsorolt vezetők jogosultak az Rtv. 72. §-a szerint.
 
 [^2]: A 2. § a 38/2004. (VI. 29.) BM rendelet 17. §-ával megállapított szöveg, e módosító rendelet 18. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
-[^3]: A 2. § (1) bekezdése a 30/2011. (IX. 22.) BM rendelet 104. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § (1) bekezdés 11. pontja a 31/2012. (VI. 28.) BM rendelet 2. §-a szerint módosított szöveg.
-[^5]: A 2. § (2) bekezdése a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 10. pontja szerint módosított szöveg.
-[^6]: A 2. § (3) bekezdése a 8/2008. (IV. 22.) IRM rendelet 2. § (14) bekezdésével megállapított, a 30/2011. (IX. 22.) BM rendelet 104. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^7]: A 2. § (4) bekezdése a 30/2011. (IX. 22.) BM rendelet 104. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése a 43/2012. (VIII. 23.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (2) bekezdése a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 10. pontja szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdése a 8/2008. (IV. 22.) IRM rendelet 2. § (14) bekezdésével megállapított, a 30/2011. (IX. 22.) BM rendelet 104. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 2. § (4) bekezdése a 43/2012. (VIII. 23.) BM rendelet 2. § (2) bekezdése szerint módosított szöveg.
