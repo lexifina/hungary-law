@@ -1,0 +1,1 @@
+17. § A külön jogszabályban meghatározott állatokat a levágás során az Európai Unió közvetlenül alkalmazandó jogi aktusában, illetve a külön jogszabályban meghatározott módon és feltételek szerint minősíteni kell.

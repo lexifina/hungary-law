@@ -1,0 +1,1 @@
+15. § A szakmaközi szervezet a tanácsi rendelet 176a. cikk (2) bekezdés a) pontjában, 177. cikk (1) bekezdés a) pontjában, valamint 177a. cikk (2) bekezdés a) pontjában foglalt értesítést a miniszter útján küldi meg az Európai Bizottság részére a Gazdasági Versenyhivatal egyidejű tájékoztatásával.
