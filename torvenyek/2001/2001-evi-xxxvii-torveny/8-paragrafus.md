@@ -1,34 +1,30 @@
 ## Az iskolai tankönyvrendelés rendje
 
-8. § (1) Az iskolai tankönyvrendelést az iskola igazgatója készíti el, a szakmai munkaközösség véleményének beszerzését követően, a közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: közoktatásról szóló törvény) 19. § (1) bekezdés c) pontjának és (2) bekezdésének figyelembevételével. A tankönyvrendelés alapján kell meghatározni, hogy a tankönyv vásárlására rendelkezésre álló összeget mely tankönyvek vásárlására fordítják.
+8. § (1) Az iskolai tankönyvrendelést az iskola igazgatója készíti el, a szakmai munkaközösség véleményének beszerzését követően, a nemzeti köznevelésről szóló 2011. évi CXC. törvény (továbbiakban: Nkt.) 63. § (1) bekezdés c) pontjának figyelembevételével. A tankönyvrendelés alapján kell meghatározni, hogy a tankönyv vásárlására rendelkezésre álló összeget mely tankönyvek vásárlására fordítják.
 
 (2) A tankönyvrendelés elkészítéséhez az iskola igazgatója beszerzi az iskolaszék, iskolaszék hiányában az iskolai szülői szervezet (közösség) és az iskolai diákönkormányzat véleményét.
 
-(3)
+(3) Amennyiben a tankönyvek hivatalos jegyzékén a 4. § (3) bekezdés szerint tankönyvek szerepelnek, az iskola a tankönyvrendelés során az iskolai helyi tanterv adott tantárgyához ezek közül választ.
 
 (4) Az iskolai tankönyvrendelésnek biztosítania kell, hogy – az iskolától történő tankönyv-kölcsönzés, napköziben, tanulószobában elhelyezett tankönyvek igénybevétele, használt tankönyvek biztosítása, illetőleg tankönyvek megvásárlásához nyújtott pénzbeli támogatás útján – a nappali rendszerű iskolai oktatásban részt vevő minden olyan tanuló részére, aki
 
 a) tartósan beteg,
 
-b) testi, érzékszervi, értelmi, beszédfogyatékos, autista, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos,
+b) a szakértői bizottság szakértői véleménye alapján mozgásszervi, érzékszervi, értelmi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrum zavarral vagy egyéb pszichés fejlődési zavarral (súlyos tanulási, figyelem- vagy magatartásszabályozási zavarral) küzd,
 
-c) pszichés fejlődés zavarai miatt a nevelési, tanulási folyamatban tartósan és súlyosan akadályozott (pl. dyslexia, dysgraphia, dyscalculia, mutizmus, kóros hyperkinetikus vagy kóros aktivitászavar),
+c) három vagy több kiskorú, illetve eltartott gyermeket nevelő családban él,
 
-d) három- vagy többgyermekes családban él,
+d) nagykorú és saját jogán iskoláztatási támogatásra jogosult, vagy
 
-e) nagykorú és saját jogán iskoláztatási támogatásra jogosult,
+e) rendszeres gyermekvédelmi kedvezményben részesül
 
-f) rendszeres gyermekvédelmi kedvezményben részesül
-
-a tankönyvek ingyenesen álljanak rendelkezésre (normatív kedvezmények). A gyermekvédelmi gondoskodásban részesülő – nevelőszülőnél, gyermekotthonban, vagy más bentlakásos intézményben nevelkedő – ideiglenes hatállyal elhelyezett, átmeneti vagy tartós nevelésbe vett tanuló után nem vehető igénybe a normatív kedvezmény.
-
-Az iskola igazgatója felel a normatív kedvezmények biztosításáért.
+a tankönyvek ingyenesen álljanak rendelkezésre (a továbbiakban: normatív kedvezmény). A gyermekvédelmi gondoskodásban részesülő – nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben nevelkedő – ideiglenes hatállyal elhelyezett, átmeneti vagy tartós nevelésbe vett tanuló után nem vehető igénybe a normatív kedvezmény.
 
 (5) Abban a kérdésben, hogy a normatív kedvezményre való jogosultság elbírálásánál kit kell
 
 a) tartósan beteg, súlyosan fogyatékos, három- vagy többgyermekes családban élő, nagykorú és saját jogán iskoláztatási támogatásra jogosultnak tekinteni – kivéve, ha az iskoláztatási támogatásra való jogosultság a legmagasabb életkor elérése miatt szűnt meg – a családok támogatásáról szóló 1998. évi LXXXIV. törvény II. fejezetében,
 
-b) sajátos nevelési igényűnek tekinteni, a közoktatásról szóló törvény 121. §-a (1) bekezdésének 29. pontjában
+b) sajátos nevelési igényűnek tekinteni, az Nkt. 4. § 23. pontjában
 
 foglaltakat kell alkalmazni.
 
@@ -38,12 +34,12 @@ foglaltakat kell alkalmazni.
 
 (8) A tartós használatra készült tankönyvet tankönyvkölcsönzés útján kell a normatív kedvezményre jogosult birtokába adni. Ha az iskola a tankönyvet tankönyvkölcsönzés útján adja a normatív kedvezményre jogosult tanuló birtokába, a használat jogát a tanulói jogviszony fennállása alatt addig az időpontig kell a tanuló részére biztosítani, ameddig az adott tantárgyból a helyi tanterv alapján a felkészítés folyik, illetve az adott tantárgyból vizsgát lehet vagy kell tenni. A tanuló, illetve a kiskorú tanuló szülője köteles a tankönyv elvesztéséből, megrongálásából származó kárt az iskolának megtéríteni. Nem kell megtéríteni a rendeltetésszerű használatból származó értékcsökkenést. A kölcsönzött tankönyv a tanuló részére értékesíthető. A tankönyvkölcsönzéssel, a tankönyv-értékesítéssel, a tankönyv elvesztésével, megrongálásával okozott kár megtérítésével, a kártérítési kötelezettség mérséklésével, illetve elengedésével összefüggő kérdéseket az iskola házirendjében kell meghatározni.
 
-(9) Ha a nem állami, nem önkormányzati iskola a közoktatásról szóló törvény 81. § (1) bekezdésének d) pontja alapján a tanulói jogviszony fenntartását – írásbeli megállapodásban – fizetési kötelezettséghez köti, e megállapodásban a (4) bekezdésben meghatározott normatív kedvezményt korlátozhatja. A korlátozás alapján nyújtott kedvezmény azonban nem lehet kevesebb, mint a költségvetésről szóló törvényben a tanulói tankönyvvásárláshoz nyújtott hozzájárulás egy tanulóra jutó összege.
+(9) Ha a nem állami, nem önkormányzati iskola az Nkt. 31. § (2) bekezdés c) pontja alapján a tanulói jogviszony fenntartását – írásbeli megállapodásban – fizetési kötelezettséghez köti, e megállapodásban a (4) bekezdésben meghatározott normatív kedvezményt korlátozhatja. A korlátozás alapján nyújtott kedvezmény azonban nem lehet kevesebb, mint a költségvetésről szóló törvényben a tanulói tankönyvvásárláshoz nyújtott hozzájárulás egy tanulóra jutó összege.
 
 (10) Az iskolai tankönyvvásárláshoz nyújtott fenntartói támogatásból elsősorban a normatív kedvezményeket kell biztosítani. A fennmaradó összegből támogathatók a normatív kedvezményre nem jogosult tanulók, továbbá a tanulói munkatankönyv, munkafüzet megvásárlásához támogatás nyújtható. A normatív hozzájárulásból az iskolai könyvtár, könyvtárszoba részére a normatív kedvezmények biztosításához szükséges tankönyv, a fennmaradó összegből ajánlott és kötelező olvasmány, digitális tananyag, oktatási program szerezhető be.
 
 (11) A normatív kedvezmények biztosításában a kollégium is közreműködhet. A kollégium közreműködése esetén a (8) bekezdésben foglaltakat a kollégiumi könyvtári kölcsönzés tekintetében is alkalmazni kell. A kollégium közreműködése esetén az iskolai könyvtár fejlesztésére rendelkezésre álló összeg a kollégiumi könyvtár fejlesztésére is felhasználható az e törvény 7. §-ának (4) bekezdésében és e § (10) bekezdésében meghatározottak szerint.
 
-(12) Az iskolai tankönyvrendelést az iskola – jogszabályban meghatározottak szerint, elektronikus formában – megküldi a kiadónak és a közoktatás információs rendszerének.
+(12) Az iskolai tankönyvrendelést az iskola – jogszabályban meghatározottak szerint, elektronikus formában – megküldi a kiadónak és a köznevelés információs rendszerének.
 
 (13) Az iskolai tankönyvellátás feladatainak végrehajtásában, az iskolai tankönyvrendelés teljesítésében – az iskolával kötött megállapodás alapján – közreműködhet a Könyvtárellátó Közhasznú Társaság, továbbá más tankönyvkiadó és tankönyvforgalmazó. Jogszabály határozza meg, hogy a Könyvtárellátó Közhasznú Társaság milyen esetben köteles részt venni a tankönyvellátás feladatainak a végrehajtásában, a tankönyvkölcsönzés megszervezésében.
