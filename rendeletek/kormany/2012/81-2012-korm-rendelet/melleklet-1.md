@@ -1,3 +1,3 @@
-1–2. melléklet a 81/2012. (IV. 18.) Korm. rendelethez[^6]
+1–2. melléklet a 81/2012. (IV. 18.) Korm. rendelethez[^5]
 
-[^6]: Az 1–2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1–2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
