@@ -19,3 +19,5 @@ b) meghatározza a jogsértések megelőzésével, az önkéntes jogérvényesü
 (7) A Hatóság évente – az Elnök és a Hivatal piacfelügyeleti tevékenységét egységesen tartalmazó – beszámolót készít a piacfelügyeleti tervében foglaltak teljesítéséről, piacfelügyeleti tevékenységének eredményéről, megállapításairól, valamint a piacfelügyeleti döntések alapján felmerülő jogszabály-módosítási javaslatokról. A beszámolót a Hatóság annak – Elnök általi – elfogadásától számított tizenöt napon belül internetes honlapján közzéteszi.
 
 (8) Az Elnök és Hivatal piacfelügyeleti terven kívül is folytathat hivatalból piacfelügyeleti tevékenységet.
+
+(9) Az Elnök és a Hivatal a piacfelügyeleti feladat- és hatáskörét e törvény, valamint külön jogszabály alapján gyakorolja.
