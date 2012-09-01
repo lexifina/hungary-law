@@ -1,3 +1,3 @@
-11. melléklet a 228/2012. (VIII. 23.) Korm. rendelethez[^33]
+11. melléklet a 228/2012. (VIII. 23.) Korm. rendelethez[^29]
 
-[^33]: A 11. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 11. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
