@@ -10,7 +10,7 @@
 
 | 2. | Szerv | Vezetői szint | Munkakör (beosztás) | Rendfokozati maximum | Állami iskolai végzettség | Szakmai iskolai végzettség | Speciális rendészeti végzettség | Speciális követelmények |
 
-| 3. |  |  | országos rendőr-főkapitány | tábornok | egyetem | szakirányú felsőfokú | RIASZTSZ + RMVK vagy RSZVI + RVK + RMVK | pszichológiai alkalmasság |
+| 3. |  |  | országos rendőr-főkapitány és az országos rendőrfőkapitány általános helyettese | tábornok | egyetem | szakirányú felsőfokú | RIASZTSZ + RMVK vagy RSZVI + RVK + RMVK | pszichológiai alkalmasság |
 
 | 4. |  | a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiak- ban: Hszt.) 245/H. § (2) bekezdés szerinti illetményre jogosult | bűnügyi főigazgató (országos rendőr- főkapitány- helyettes) |  |  |  |  |  |
 
@@ -42,7 +42,7 @@
 
 | 15. |  | titkárságvezető |  |  |  |  |
 
-| 16. |  | főosztályvezetői illetményre jogosult | rendőrfőkapitány | tábornok | egyetem |  | RIASZTSZ+ |  |
+| 16. |  | a Hszt. 245/H. § (2) bekezdése szerinti illetményre jogosult | Készenléti Rendőrség parancsnoka (országos rendőrfőkapitány- helyettes) | tábornok | egyetem |  | RIASZTSZ+ |  |
 
 |  |  | RMVK vagy |  |
 
@@ -50,9 +50,9 @@
 
 |  |  | + RMVK |  |
 
-| 17. |  | igazgató (NNI, RRI, Központi GEI) |  |  |
+| 17. |  | főosztályvezetői illetményre jogosult | rendőrfőkapitány |  |  |
 
-| 18. |  | parancsnok (KR) |  |  |
+| 18. |  | igazgató (Készenléti Rendőrség Nemzeti Nyomozó Iroda, RRI, Központi GEI) |  |  |
 
 | 19. |  | bűnügyi rendőrfőkapitány- helyettes (BRFK) |  |
 
@@ -60,29 +60,25 @@
 
 | 21. |  | gazdasági rendőrfőkapitány- helyettes (BRFK) |  |  |
 
-| 22. |  | igazgató (ORFK RSZKK, ORFK DOK, KR) | ezredes | egyetem vagy főiskola |  |  |
+| 21/A. |  | igazgató (KR NNI, KR SZO) |  |  |  |  |
 
-| 23. |  | főosztályvezető- helyettesi illetményre jogosult | főosztályvezető (BRFK, NNI, KR) |  | RIASZTSZ vagy RSZVI + RVK |  |
+| 22. |  | igazgató (ORFK NEBEK, ORFK BEI, ORFK RSZKK, ORFK DOK, KR), igazgató- helyettes (RRI, BSZKI, Központi GEI), megyei rendőrfőkapitány helyettesek | ezredes | egyetem vagy főiskola |  |  |
+
+| 23. |  | főosztályvezető- helyettesi illetményre jogosult | főosztályvezető (BRFK, KR) |  | RIASZTSZ vagy RSZVI + RVK |  |
 
 | 24. |  | hivatalvezető |  |  |  |  |
 
 |  | (BRFK, KR) |  |  |  |  |
 
-| 25. |  | bűnügyi igazgató (rendőrfőkapitány- helyettes) |  |  |  |  |
+| 25. |  |  |  |  |  |  |
 
-| 26. |  | rendészeti igazgató (rendőrfőkapitány- helyettes) |  |  |  |  |
+| 26. |  |  |  |  |  |  |
 
-| 27. | Területi | gazdasági igazgató |  |  |  |  |
-
-|  | (rendőrfőkapitány- helyettes) |  |  |  |  |
+| 27. |  |  |  |  |  |  |
 
 | 28. |  |  | igazgató |  |  |  |  |
 
-| 29. |  |  | igazgató-helyettes |  |  |  |  |
-
-|  |  |  | (BSZKI bűnügyi, |  |  |  |  |  |
-
-|  |  | NNI, RRI) |  |  |  |  |  |
+| 29. |  |  |  |  |  |  |  |
 
 | 30. |  |  | humánigazgatási szolgálatvezető (KR), ellenőrzési szolgálatvezető (KR) |  |  |  |  |  |
 
@@ -566,7 +562,7 @@
 
 |  | Területi szervek: (megyei illetékességű középirányító és azonos jogállású) |  |
 
-|  |  | ORFK területi besorolású szervek + BRFK + MRFK-k + NNI + KR + RRI + Központi GEI +BSZKI |
+|  |  | ORFK területi besorolású szervek + BRFK + MRFK-k + KR + RRI + Központi GEI +BSZKI |
 
 |  | Helyi szervek: |  |  |
 
@@ -589,6 +585,10 @@
 |  | ORFK DOK: ORFK Dunakeszi Oktatási Központ |  | KR SZO: Készenléti Rendőrség Személy- és Objektumvédelmi Igazgatóság |
 
 |  | ORFK RSZKK: ORFK Rendészeti Szervek Kiképző Központja |
+
+|  | ORFK NEBEK: ORFK Nemzetközi Bűnügyi Együttműködési Központ |  |
+
+|  | ORFK BEI: ORFK Bűnügyi Ellátó Igazgatóság |  |
 
 ## 2. A Nemzeti Védelmi Szolgálatnál rendszeresített hivatásos szolgálati beosztások, munkakörök, az azokhoz kapcsolódó rendfokozatok, beosztási kategóriák és képesítési követelmények
 
@@ -1162,6 +1162,6 @@
 
 ## 6. GEK: BM OKF Gazdasági Ellátó Központ
 
-2. melléklet a 65/2011. (XII. 30.) BM rendelethez[^6]
+2. melléklet a 65/2011. (XII. 30.) BM rendelethez[^7]
 
-[^6]: A 2. melléklet a 31/2012. (VI. 28.) BM rendelet 19. §-a szerint módosított szöveg.
+[^7]: A 2. melléklet a 31/2012. (VI. 28.) BM rendelet 19. §-a szerint módosított szöveg.

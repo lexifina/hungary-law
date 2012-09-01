@@ -4,17 +4,17 @@
 
 ## 1. Országos rendőrfőkapitány és helyettesei.
 
-## 2. Nemzetközi Bűnügyi Együttműködési Központ vezetője és minden beosztás.
+## 2. ORFK Nemzetközi Bűnügyi Együttműködési Központ minden beosztása, valamint az ORFK Bűnügyi Ellátó Igazgatóság minden beosztása.
 
-## 3. Nemzetközi Kapcsolatok Osztályának vezetője és minden beosztás.
+## 3. ORFK Nemzetközi Kapcsolatok Osztályának minden beosztása.
 
-## 4. ORFK Határrendészeti Főosztály vezetője és minden beosztás.
+## 4. ORFK Határrendészeti Főosztály minden beosztása.
 
-## 5. NNI vezetője és minden beosztás.
+## 5. KR parancsnoka és helyettesei
 
-## 6. RRI vezetője és helyettese.
+## 6. A KR NNI minden beosztása, valamint a KR Különleges Szolgálatok Igazgatósága Tanúvédelmi Szolgálat minden beosztása.
 
-## 7. KR parancsnoka és helyettesei.
+## 7. RRI vezetője és helyettese.
 
 ## 8. A turistaforgalom szempontjából frekventált területeken szolgálatot teljesítő, az állományilletékes parancsnok által meghatározott járőr, baleseti helyszínelő, vizsgáló, körzeti megbízott beosztások.
 
@@ -76,7 +76,7 @@
 
 ## i) a c)-h) pontokban meghatározottakkal azonos besorolású beosztásokban, az állományilletékes parancsnok döntése szerint.
 
-4. melléklet a 65/2011. (XII. 30.) BM rendelethez[^7]
+4. melléklet a 65/2011. (XII. 30.) BM rendelethez[^9]
 
 1. Őr-, ügyeleti, készenléti és készültségi szolgálatok a rendőrségnél
 
@@ -212,4 +212,4 @@ g) ügyeletvezető (területi jogállású szervek)
 
 h) ügyeletes (helyi szervek)
 
-[^7]: A 4. melléklet a 11/2012. (III. 30.) BM rendelet 5. § (2) bekezdése, a 31/2012. (VI. 28.) BM rendelet 18. § (2) bekezdése szerint módosított szöveg.
+[^9]: A 4. melléklet a 11/2012. (III. 30.) BM rendelet 5. § (2) bekezdése, a 31/2012. (VI. 28.) BM rendelet 18. § (2) bekezdése szerint módosított szöveg.
