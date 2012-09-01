@@ -1,4 +1,4 @@
-16/A. § (1) A munkáltatói jogkör gyakorlójának (a továbbiakban: pályázatot kiíró) döntése alapján meghatározott munkakör betöltése, illetve vezetői munkakör/beosztás betöltése pályázat alapján is történhet. A megpályáztatott munkakörre/beosztásra kinevezni csak olyan személyt lehet, aki a pályázaton részt vett és a pályázati feltételeknek megfelelt.
+16/A. § (1) A munkáltatói jogkör gyakorlójának (a továbbiakban: pályázatot kiíró) döntése alapján meghatározott munkakör betöltése, illetve vezetői munkakör betöltése pályázat alapján is történhet. A megpályáztatott munkakörre kinevezni csak olyan személyt lehet, aki a pályázaton részt vett és a pályázati feltételeknek megfelelt.
 
 (2) A pályázatot kiíró szerv által meghirdetett pályázatban megjelölt benyújtási határidőt a pályázatot kiíró szerv által történő közzétételtől kell számítani. A pályázat benyújtására meghatározott idő a pályázati felhívásnak a pályázatot kiíró szerv által történő közzétételétől számított tíz napnál nem lehet rövidebb.
 

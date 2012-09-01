@@ -1,3 +1,1 @@
-27. § (1) A pénzügyőr szolgálati jogviszonya alapján havonta járó illetményét száz forintra kerekítve kell megállapítani. A kerekítés nem minősül munkáltatói intézkedésen alapuló, az általánostól eltérő illetmény megállapításnak.
-
-(2)
+27. § Az illetmény-összetevők – ide nem értve az illetménypótlékokat – változása esetén, így különösen az illetményalap emelkedése, a besorolási vagy fizetési fokozat változása során a kormánytisztviselő, illetve a pénzügyőr illetményét újra meg kell állapítani.

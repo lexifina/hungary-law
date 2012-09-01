@@ -1,23 +1,29 @@
-31. § (1) A Kttv. 150. §-ában foglaltakat a (2)–(4) bekezdésekben foglalt eltérésekkel kell alkalmazni.
+## Jubileumi jutalom
 
-(2) A kormánytisztviselő jubileumi jutalomra jogosult, melynek mértéke:
+31. § (1) A kormánytisztviselő és a pénzügyőr a kormányzati szolgálati jogviszonyban, illetve a hivatásos szolgálati jogviszonyban töltött idő után jubileumi jutalomra jogosult. A jubileumi jutalom a (2) bekezdésben megjelölt kormányzati szolgálati jogviszonyban, illetve hivatásos szolgálati jogviszonyban töltött idő betöltésének a napján esedékes.
 
-a) 25 év kormánytisztviselői jogviszonyban töltött idő esetén 2 havi,
+(2) A jubileumi jutalom mértéke:
 
-b) 30 év kormánytisztviselői jogviszonyban töltött idő esetén 3 havi,
+a) 25 év kormánytisztviselői jogviszonyban, illetve hivatásos szolgálati jogviszonyban töltött idő esetén 2 havi,
 
-c) 35 év kormánytisztviselői jogviszonyban töltött idő esetén 5 havi,
+b) 30 év kormánytisztviselői jogviszonyban, illetve hivatásos szolgálati jogviszonyban töltött idő esetén 3 havi,
 
-d) 40 és ezt követő minden 5 év kormánytisztviselői jogviszonyban töltött idő esetén 7 havi illetménynek megfelelő összeg.
+c) 35 év kormánytisztviselői jogviszonyban, illetve hivatásos szolgálati jogviszonyban töltött idő esetén 5 havi,
 
-(3) A kormánytisztviselői jogviszony megszűnése, és ezzel egyidejűleg a kormánytisztviselő nyugdíjba vonulása esetén ki kell fizetni:
+d) 40 és ezt követő minden 5 év kormánytisztviselői jogviszonyban, illetve hivatásos szolgálati jogviszonyban töltött idő esetén 7 havi illetménynek megfelelő összeg.
+
+(3) A kormánytisztviselői jogviszony, illetve a hivatásos szolgálati jogviszony megszűnése, és ezzel egyidejűleg a kormánytisztviselő nyugdíjba vonulása, illetve a pénzügyőr nyugdíjazása esetén ki kell fizetni:
 
 a) a nyugdíjazás évében esedékessé váló jubileumi jutalmat,
 
-b) a 30 év kormánytisztviselői jogviszonyban töltött idő után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító idejéből 1 év vagy ennél kevesebb van hátra,
+b) a 30 év kormánytisztviselői jogviszonyban, illetve hivatásos szolgálati jogviszonyban töltött idő után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító idejéből 1 év vagy ennél kevesebb van hátra,
 
-c) a 35 év kormánytisztviselői jogviszonyban töltött idő után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító idejéből 2 év vagy ennél kevesebb van hátra,
+c) a 35 év kormánytisztviselői jogviszonyban, illetve hivatásos szolgálati jogviszonyban töltött idő után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító idejéből 2 év vagy ennél kevesebb van hátra,
 
-d) a 40 év és az ezt követő minden 5 év kormánytisztviselői jogviszonyban töltött idő után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító idejéből 3 év vagy ennél kevesebb van hátra.
+d) a 40 év és az ezt követő minden 5 év kormánytisztviselői jogviszonyban, illetve hivatásos szolgálati jogviszonyban töltött idő után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító idejéből 3 év vagy ennél kevesebb van hátra.
 
-(4) Az (1)–(3) bekezdés rendelkezéseit az ügykezelőkre és a munkavállalókra is megfelelően alkalmazni kell.
+(3a) Ha a kormánytisztviselői jogviszony, illetve a hivatásos szolgálati jogviszony a kormánytisztviselő, illetve a pénzügyőr halála miatt szűnt meg, a (3) bekezdés alkalmazása alapján járó jubileumi jutalmat özvegyének (élettársának), ennek hiányában az örökösnek kell kifizetni.
+
+(3b) A kormánytisztviselő, illetve a pénzügyőr nem jogosult jubileumi jutalomra, ha másik foglalkoztatási jogviszonyban azt már megkapta.
+
+(4) Az (1)–(3b) bekezdés rendelkezéseit az ügykezelőkre és a munkavállalókra is megfelelően alkalmazni kell.

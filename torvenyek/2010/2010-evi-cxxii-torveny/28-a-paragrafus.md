@@ -1,0 +1,1 @@
+28/A. § A késedelem idejére a késedelembe esés időpontjától kezdve a késedelemmel érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamattal megegyező mértékű kamatot kell fizetni.

@@ -28,8 +28,12 @@ b) külső áthelyezés: a kormánytisztviselők, ügykezelők tekintetében a k
 
 a) országos parancsnokságot említ, azon a NAV tekintetében a NAV Központi Hivatalát;
 
-b) szervezeti egységet említ, azon a NAV tekintetében a központi szerveket, a középfokú szerveket és az alsó fokú szerveket
+b) szervezeti egységet említ, azon a NAV tekintetében a központi szerveket, a középfokú szerveket és az alsó fokú szerveket;
+
+c) beosztási illetményt említ, azon az e törvény szerinti alapilletményt,
+
+d) alapilletményt említ, azon e törvény szerinti alapilletmény és rendfokozati illetmény együttes összegét
 
 kell érteni.
 
-(5) A 31. § (2)–(3) bekezdés alkalmazásában kormánytisztviselői jogviszonyban töltött idő alatt a Kttv. 150. § (3) bekezdése alapján megállapított jubileumi jutalomra jogosító jogviszonyban töltött időt kell érteni.
+(5) A 31. § (2)–(3) bekezdés alkalmazásában kormánytisztviselői jogviszonyban töltött idő alatt a Kttv. 150. § (3) bekezdése alapján, illetve hivatásos szolgálati jogviszonyban töltött idő alatt a Hszt. szolgálati idő számítására vonatkozó rendelkezései alapján megállapított jubileumi jutalomra jogosító jogviszonyban töltött időt kell érteni.

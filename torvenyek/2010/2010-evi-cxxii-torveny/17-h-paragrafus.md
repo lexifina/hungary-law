@@ -2,7 +2,7 @@
 
 (2) A pénzügyőrnek a Hszt. 62. §-ában foglaltakon kívül meg kell térítenie a megkezdett és önhibájából be nem fejezett, valamint a befejezett alapfokú és középfokú szaktanfolyamoknak a NAV humánerőforrás-fejlesztési feladatokat ellátó intézete által a pénzügyőrrel megkötött felnőttképzési szerződésben megállapított költségeit, valamint az általa megkezdett olyan tanfolyamok tandíját is, amelyet helyette a NAV fizetett ki, ha szolgálati viszonya hat éven belül a Hszt. 53. § b), f)–g) pontja, 56. § (2) bekezdés b) pontja, vagy az 59. § (1) bekezdés b), d) pontja alapján szűnt meg. Négy évet meghaladó hivatásos szolgálat esetén a fenti költségeknek a le nem töltött évekre eső hányadát kell megfizetni.
 
-(3) Vezetői kinevezés visszavonása esetén, ha a hivatásos állomány tagja a részére felajánlott másik vezető beosztást elfogadja, az illetményét az új vezetői beosztásnak megfelelően kell megállapítani. Amennyiben nem vezető beosztásba kerül, úgy új munkakörének megfelelően kell besorolni és illetményét megállapítani.
+(3)
 
 (4) A pénzügyőr kártérítési felelősségének megállapítására, illetve a kártérítés összegének mérséklésére nyolcszázezer forint értékhatárig az állományilletékes parancsnok, ezt meghaladó kár esetén pedig a NAV elnöke jogosult.
 
@@ -14,4 +14,4 @@
 
 (8) A hivatásos állományú pénzügyi nyomozóra megfelelően alkalmazni kell a Hszt. 261–262. §-ainak rendelkezéseit.
 
-(9) A pótszabadság mértéke szempontjából a Hszt. 326. § (1) bekezdése nem alkalmazható.
+(9)

@@ -24,7 +24,7 @@ c) harmincegy év jogviszonyban töltött idő után főmunkatárs,
 
 besorolást kap.
 
-(4) A kormánytisztviselő és a pénzügyőr – a jogviszony időtartamától függetlenül – magasabb besorolási fokozatba, fizetési fokozatba sorolható, amennyiben kiválóan alkalmas minősítést kap, és kimagasló munkát végez.
+(4) A kormánytisztviselő és a pénzügyőr – a jogviszony időtartamától függetlenül – magasabb besorolási fokozatba, fizetési fokozatba sorolható, amennyiben "kiválóan megfelelt" minősítést kap, és kimagasló munkát végez.
 
 (5) Azt a kormánytisztviselőt, illetve pénzügyőrt, aki állam- és jogtudományi doktori, igazgatásszervezői, okleveles közgazdász képesítést, illetve a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán oklevelet szerzett, a fogalmazó besorolási fokozat 2-es fizetési fokozatába kell sorolni, akkor is, ha a kormánytisztviselői jogviszonyban, illetve a hivatásos szolgálati jogviszonyban töltött ideje az e besorolási fokozathoz előírt időtartamot nem éri el.
 
