@@ -1,5 +1,7 @@
-## 26. §[^19]
-
 ## 17. A Diákhitel szervezet működési és forrásköltségeinek elhatárolása
 
-[^19]: A 26. § a 30. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
+27. § (1) A Diákhitel szervezet az egyes években felmerülő, a kamatbevételekben foglalt működési költséget fedező prémiummal nem fedezett működési költségeit aktív időbeli elhatárolásként mutatja ki. Az elhatárolt költségek teljes feloldását követően a Diákhitel szervezet az adott naptári félévben (kamatperiódusban) a hallgatói hitelek kamatában megtérült működési költséget, valamint egyéb, bevételekkel nem fedezett ráfordításokat fedező prémiumbevétel és az adott naptári félévben (kamatperiódusban) ténylegesen felmerült működési költségek, valamint egyéb, bevételekkel nem fedezett ráfordítások különbözetét a különbözet jellegétől függően aktív vagy passzív elhatárolásként mutatja ki. Egy adott kamatperiódusból származó különbözet időbeli elhatárolása a soron következő kamatperiódusban kerül megszüntetésre.
+
+(2) Az adott kamatperiódusból származó különbözet meghatározásakor az előző kamatperiódusból származó különbözet időbeli elhatárolásának feloldását is számításba kell venni. Az egyes kamatperiódusokban elhatárolt összegeket és azok megszüntetését analitikusan elkülönítetten kell nyilvántartani és az éves beszámoló kiegészítő mellékletében be kell mutatni.
+
+(3) A Diákhitel szervezet az adott naptári félévben (kamatperiódusban) a hallgatói hitelek finanszírozása érdekében bevont források kamat- és kamatjellegű ráfordításainak, valamint a kamat- és kamatjellegű (kockázati és működési prémiumot nem tartalmazó) bevételeinek különbözetét – a különbözet jellegétől függően – aktív vagy passzív elhatárolásként mutatja ki. Egy adott kamatperiódusból származó kamatkülönbözet időbeli elhatárolása a következő tíz kamatperióduson – azaz öt éven – keresztül, időarányosan kerül megszüntetésre. Az egyes kamatperiódusokban elhatárolt összegeket és azok megszüntetését analitikusan elkülönítetten kell nyilvántartani és az éves beszámoló kiegészítő mellékletében be kell mutatni.
