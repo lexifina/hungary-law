@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-19-00-00
 | 2012-07-03 | 2012. évi LXVI. törvény | 1998-19-00-00.57 |
 | 2012-07-13 | 2012. évi XCV. törvény | 1998-19-00-00.58 |
 | 2012-07-24 | 2012. évi CXVII. törvény | 1998-19-00-00.59 |
+| 2012-09-01 | 2012. évi LXII. törvény | 1998-19-00-00.60 |
