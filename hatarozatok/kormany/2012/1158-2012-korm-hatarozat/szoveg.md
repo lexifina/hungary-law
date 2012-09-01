@@ -6,9 +6,9 @@ A Kormány
 
 3. egyetért azzal, hogy az Ingatlannak a Beruházás megvalósítására feljogosított vagyonkezelője, valamint a létrejövő létesítmények vagyonkezelője a Nemzeti Közszolgálati Egyetem legyen azzal, hogy a Beruházással kapcsolatban biztosítani szükséges az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1351/2011. (X. 20.) Korm. határozat 2. pont a) alpontjában foglaltak érvényesülését;
 
-4. felhívja a Jó Állam fejlesztési koncepció végrehajtásának összehangolásáért felelős kormánybiztost és a nemzeti fejlesztési minisztert, hogy az arra jogosult szervezetek útján gondoskodjanak az Ingatlan vonatkozásában az 1. és 2. pontban foglaltakat lehetővé tevő, egységes tulajdoni, vagyonkezelői és használói jogviszonyok, valamint a Nemzeti Közszolgálati Egyetem vagyonkezelői jogállása biztosításához szükséges intézkedések megtételéről;
+4.[^1] felhívja a közigazgatási és igazságügyi minisztert, valamint a nemzeti fejlesztési minisztert, hogy az arra jogosult szervezetek útján gondoskodjanak az Ingatlan vonatkozásában az 1. és 2. pontban foglaltakat lehetővé tevő, egységes tulajdoni, vagyonkezelői és használói jogviszonyok, valamint a Nemzeti Közszolgálati Egyetem vagyonkezelői jogállása biztosításához szükséges intézkedések megtételéről;
 
-Felelős: a Jó Állam fejlesztési koncepció végrehajtásának összehangolásáért felelős kormánybiztos
+Felelős: közigazgatási és igazságügyi miniszter
 
 nemzeti fejlesztési miniszter
 
@@ -22,11 +22,11 @@ az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiz
 
 Határidő: 2012. május 31.
 
-6. felhívja a belügyminisztert és a Jó Állam fejlesztési koncepció végrehajtásának összehangolásáért felelős kormánybiztost, hogy a Beruházás, illetve egyes munkaszakaszainak Startmunka Mintaprogram keretében történő megvalósításához a szükséges intézkedést megtegye;
+6.[^2] felhívja a belügyminisztert, valamint a közigazgatási és igazságügyi minisztert, hogy a Beruházás, illetve egyes munkaszakaszainak Startmunka Mintaprogram keretében történő megvalósításához a szükséges intézkedést megtegye;
 
 Felelős: belügyminiszter
 
-a Jó Állam fejlesztési koncepció végrehajtásának összehangolásáért felelős kormánybiztos
+közigazgatási és igazságügyi miniszter
 
 Határidő: 2012. május 31.
 
@@ -64,19 +64,19 @@ az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiz
 
 Határidő: a 2013. évi központi költségvetés tervezése keretében
 
-11. felhívja a Jó Állam fejlesztési koncepció végrehajtásának összehangolásáért felelős kormánybiztost, a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy a Nemzeti Közszolgálati Egyetem egységes elhelyezéséhez szükséges, nem beruházási tevékenység fedezetét szolgáló, egyéb források biztosításáról készítsen előterjesztést a Kormány számára;
+11.[^3] felhívja a közigazgatási és igazságügyi minisztert, a nemzetgazdasági minisztert, valamint a nemzeti fejlesztési minisztert, hogy a Nemzeti Közszolgálati Egyetem egységes elhelyezéséhez szükséges, nem beruházási tevékenység fedezetét szolgáló, egyéb források biztosításáról készítsenek előterjesztést a Kormány számára;
 
-Felelős: a Jó Állam fejlesztési koncepció végrehajtásának összehangolásáért felelős kormánybiztos
+Felelős: közigazgatási és igazságügyi miniszter
 
 nemzetgazdasági miniszter
 
 nemzeti fejlesztési miniszter
 
-Határidő: 2012. június 30., illetve szükség szerint
+Határidő: 2012. június 30., valamint szükség szerint
 
-12. felhívja a Jó Állam fejlesztési koncepció végrehajtásának összehangolásáért felelős kormánybiztost, a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos bevonásával, az Ingatlanon és környezetében megvalósítandó, a 9. és 10. ponttal nem érintett beruházási programelemek finanszírozásáról, az európai uniós fejlesztési források felhasználási lehetőségének megvizsgálásával, készítsen előterjesztést a Kormány részére;
+12.[^4] felhívja a közigazgatási és igazságügyi minisztert, a nemzetgazdasági minisztert, valamint a nemzeti fejlesztési minisztert, hogy az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos bevonásával, az Ingatlanon és környezetében megvalósítandó, a 9. és 10. ponttal nem érintett beruházási programelemek finanszírozásáról, az európai uniós fejlesztési források felhasználási lehetőségének megvizsgálásával, készítsenek előterjesztést a Kormány részére;
 
-Felelős: a Jó Állam fejlesztési koncepció végrehajtásának összehangolásáért felelős kormánybiztos
+Felelős: közigazgatási és igazságügyi miniszter
 
 nemzetgazdasági miniszter
 
@@ -86,13 +86,11 @@ az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiz
 
 Határidő: 2012. június 30.
 
-13. felhívja a Jó Állam fejlesztési koncepció végrehajtásának összehangolásáért felelős kormánybiztost és a nemzeti fejlesztési minisztert, hogy a vagyonkezelő és a Nemzeti Közszolgálati Egyetem fenntartói jogait gyakorló miniszterek közreműködésével vizsgálja meg a Nemzeti Közszolgálati Egyetem „Ludovika Campusban” történő egységes elhelyezésével felszabaduló állami tulajdonú ingatlanok hasznosításának lehetőségét, és az arra jogosult szervezetek útján gondoskodjon azok hasznosításáról;
+13.[^5] felhívja a közigazgatási és igazságügyi minisztert, valamint a nemzeti fejlesztési minisztert, hogy a vagyonkezelő és a Nemzeti Közszolgálati Egyetem fenntartói jogait gyakorló miniszterek közreműködésével vizsgálják meg a Nemzeti Közszolgálati Egyetem „Ludovika Campusban” történő egységes elhelyezésével felszabaduló állami tulajdonú ingatlanok hasznosításának lehetőségét, és az arra jogosult szervezetek útján gondoskodjanak azok hasznosításáról;
 
-Felelős: a Jó Állam fejlesztési koncepció végrehajtásának összehangolásáért felelős kormánybiztos
+Felelős: közigazgatási és igazságügyi miniszter
 
 nemzeti fejlesztési miniszter
-
-közigazgatási és igazságügyi miniszter
 
 belügyminiszter
 
@@ -110,7 +108,7 @@ az új nemzeti közgyűjteményi épületegyüttes koncepciójáért felelős ko
 
 Határidő: 2012. december 31.
 
-15. kiemelt kormányzati céllá nyilvánítja, hogy az Európai Unió 2014–2020-as tervezési és programozási időszakára vonatkozó operatív programok keretében, uniós fejlesztési támogatásként, a megvalósítási határidőkkel összhangban, rendelkezésre álljanak a Beruházás megvalósításához ezen időszakban szükséges további pénzügyi források.
+15.[^6] kiemelt kormányzati céllá nyilvánítja, hogy az Európai Unió 2014–2020-as tervezési és programozási időszakára vonatkozó operatív programok keretében, uniós fejlesztési támogatásként, a megvalósítási határidőkkel összhangban, rendelkezésre álljanak a Beruházás megvalósításához ezen időszakban szükséges további pénzügyi források.
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -118,8 +116,15 @@ nemzetgazdasági miniszter
 
 az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos
 
-a Jó Állam fejlesztési koncepció végrehajtásának összehangolásáért felelős kormánybiztos
+közigazgatási és igazságügyi miniszter
 
 Határidő: az Európai Unió 2014–2020-as programozási időszakára vonatkozó nemzeti szintű tervezési dokumentumok, illetve operatív programok elkészítéséhez igazodva folyamatosan
 
 16. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 4. pont az 1325/2012. (IX. 4.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 6. pont az 1325/2012. (IX. 4.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 11. pont az 1325/2012. (IX. 4.) Korm. határozat 3. pontjával megállapított szöveg.
+[^4]: A 12. pont az 1325/2012. (IX. 4.) Korm. határozat 3. pontjával megállapított szöveg.
+[^5]: A 13. pont az 1325/2012. (IX. 4.) Korm. határozat 3. pontjával megállapított szöveg.
+[^6]: A 15. pont az 1325/2012. (IX. 4.) Korm. határozat 4. pontja szerint módosított szöveg.
