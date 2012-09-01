@@ -1,4 +1,4 @@
-68/C. § (1) A települési önkormányzat jegyzője a felfüggesztett iskoláztatási támogatás és a családi pótlék természetbeni formában történő biztosítása céljából a gyermek részére – figyelemmel korára, egyéni szükségleteire és az ítélőképessége birtokában lévő gyermek véleményére – eseti gondnokot rendel ki.
+68/C. § (1) A települési önkormányzat jegyzője a családi pótlék természetbeni formában történő biztosítása céljából a gyermek részére – figyelemmel korára, egyéni szükségleteire és az ítélőképessége birtokában lévő gyermek véleményére – eseti gondnokot rendel ki.
 
 (2) Egy eseti gondnok egyidejűleg legfeljebb tíz gyermek vonatkozásában gondoskodhat a családi pótlék természetbeni formában történő biztosításáról.
 

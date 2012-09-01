@@ -10,4 +10,4 @@ a) a nevelési-oktatási intézménynek – feltéve, hogy legalább tizenöt á
 
 b) amennyiben az a) pontban foglaltak szerint az otthont nyújtó ellátás nem biztosítható, a kollégiumi, diákotthoni ellátás fenntartása mellett gondoskodni kell a gyermek nevelőszülőnél vagy gyermekotthonban történő elhelyezéséről.
 
-(5) A törvény hatálybalépését követően a gyermekotthonban működő óvoda és iskola – mint közös igazgatású többcélú gyermekvédelmi intézmény – önálló intézményegységként működik tovább a Kt. rendelkezései alapján.
+(5) A törvény hatálybalépését követően a gyermekotthonban működő óvoda és iskola – mint közös igazgatású többcélú gyermekvédelmi intézmény – önálló intézményegységként működik tovább az Nktv. rendelkezései alapján.

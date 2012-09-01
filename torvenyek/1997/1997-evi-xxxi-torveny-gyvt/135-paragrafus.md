@@ -62,7 +62,7 @@ cd) lakóhelyén életvitelszerűen tartózkodó személyek személyazonosító 
 
 ce) sorsának megtervezése szempontjából jelentőséggel bíró személyek, így különösen a korábbi gondozók, szomszédok elérhetőségére vonatkozó,
 
-cf) háziorvosának, védőnőjének, amennyiben óvodai, iskolai nevelésben részesül, a közoktatási intézmény vezetőjének elérhetőségére vonatkozó
+cf) háziorvosának, védőnőjének, amennyiben óvodai, iskolai nevelésben részesül, a nevelési-oktatási intézmény vezetőjének elérhetőségére vonatkozó
 
 adatainak a kezelésére.
 

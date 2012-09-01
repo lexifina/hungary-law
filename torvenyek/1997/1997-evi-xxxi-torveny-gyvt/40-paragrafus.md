@@ -1,6 +1,6 @@
 ## Gyermekjóléti szolgálat
 
-40. § (1) A települési önkormányzat a 39. §-ban meghatározott gyermekjóléti szolgáltatás feladatait önálló intézményként, illetve családsegítő szolgálat, vagy a 96. § (4)–(5) bekezdései szerinti egészségügyi vagy közoktatási intézmény szervezeti és szakmai tekintetben önálló intézményegységként, illetve a külön jogszabályban meghatározott képesítési előírásoknak megfelelő személy foglalkoztatásával biztosítja (a továbbiakban együtt: gyermekjóléti szolgálat).
+40. § (1) A települési önkormányzat a 39. §-ban meghatározott gyermekjóléti szolgáltatás feladatait önálló intézményként, illetve családsegítő szolgálat, vagy a 96. § (4)–(5) bekezdései szerinti egészségügyi vagy nevelési-oktatási intézmény szervezeti és szakmai tekintetben önálló intézményegységként, illetve a külön jogszabályban meghatározott képesítési előírásoknak megfelelő személy foglalkoztatásával biztosítja (a továbbiakban együtt: gyermekjóléti szolgálat).
 
 (2) A gyermekjóléti szolgálat – összehangolva a gyermekeket ellátó egészségügyi és nevelési-oktatási intézményekkel, illetve szolgálatokkal – szervezési, szolgáltatási és gondozási feladatokat végez. Tevékenysége körében a 39. §-ban foglaltakon túl
 

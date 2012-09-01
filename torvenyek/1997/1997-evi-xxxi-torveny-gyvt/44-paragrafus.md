@@ -8,4 +8,4 @@
 
 (4) Házi gyermekfelügyeletet az a személy biztosíthat, aki megfelel a 43. § (4) bekezdésében foglaltaknak.
 
-(5) A házi gyermekfelügyelet keretében segítséget kell nyújtani az iskolai tanulmányok folytatásához, amennyiben a gyermek tanulmányait a Kt. rendelkezései szerint fogyatékossága vagy súlyos betegsége miatt magántanulóként folytatja.
+(5) A házi gyermekfelügyelet keretében segítséget kell nyújtani az iskolai tanulmányok folytatásához, amennyiben a gyermek tanulmányait az Nktv. rendelkezései szerint fogyatékossága vagy súlyos betegsége miatt magántanulóként folytatja.

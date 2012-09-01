@@ -14,7 +14,7 @@ c) a rendőrség, az ügyészség, illetve a bíróság jelzése alapján a bűn
 
 (3) A védelembe vétellel egyidejűleg a gyermek gondozásának folyamatos segítése és ellátásának megszervezése, a szülői nevelés támogatása érdekében a települési önkormányzat jegyzője a gyermek részére a gyermekjóléti szolgálat családgondozóját rendeli ki és a veszélyeztetettség okának megszüntetése érdekében intézkedést tesz, így különösen
 
-a) kötelezi a szülőt, hogy folyamatosan vegye igénybe a gyermekek napközbeni ellátását, a gyermekek átmeneti gondozását, a Kt. hatálya alá tartozó iskolaotthonos nevelést-oktatást, illetve kollégiumi ellátást,
+a) kötelezi a szülőt, hogy folyamatosan vegye igénybe a gyermekek napközbeni ellátását, a gyermekek átmeneti gondozását, az Nktv. hatálya alá tartozó iskolaotthonos nevelést-oktatást, illetve kollégiumi ellátást,
 
 b) kötelezi a szülőt, hogy gyermekével keressen fel valamely családvédelemmel foglalkozó személyt vagy szervezetet,
 

@@ -1,15 +1,19 @@
-68/A. § (1) A gyermek után járó iskoláztatási támogatás teljes összege folyósításának a Cst. 15. § (1) bekezdés b) pont ba) alpontjában foglaltak szerinti felfüggesztésével egyidejűleg a települési önkormányzat jegyzője elrendeli a 16. életévét be nem töltött gyermek védelembe vételét.
+68/A. § (1) A gyámhatóság a Cst. 15. § (1) bekezdés b) pontja szerinti esetben kezdeményezi a kincstárnál az iskoláztatási támogatás szüneteltetését és elrendeli a 16. életévét be nem töltött, védelembe vétel hatálya alatt nem álló gyermek védelembe vételét.
 
-(2) A települési önkormányzat jegyzője
+(2) A gyámhatóság az iskoláztatási támogatás szüneteltetésének szükségességét
 
-a) a Cst. 15. § (1) bekezdés b) pont ba) alpontja szerinti esetben dönt az iskoláztatási támogatás felfüggesztéséről és ezzel egyidejűleg az iskoláztatási támogatás összegének a települési önkormányzat részére a kincstárban megnyitott családtámogatási folyószámlára (a továbbiakban: családtámogatási folyószámla) történő utalásáról,
+a) három tanítási hónapot magában foglaló időszakonként, és
 
-b) a Cst. 15. § (1) bekezdés b) pont bb) alpontja szerinti esetben kezdeményezi az iskoláztatási támogatást folyósító szervnél az ellátás szüneteltetését.
+b) a tanítási év lezárását követő 15 napon belül, feltéve, hogy az iskoláztatási támogatás szüneteltetésének kezdő időpontja vagy az utolsó felülvizsgálat óta legalább egy hónap eltelt
 
-(3) Az iskoláztatási támogatás folyósításának felfüggesztése esetén a felfüggesztés időtartama alatt
+felülvizsgálja.
 
-a) a rendszeres gyermekvédelmi kedvezményben nem részesülő gyermek után járó iskoláztatási támogatást a családtámogatási folyószámlán kell gyűjteni,
+(3) A gyámhatóság a (2) bekezdés szerinti felülvizsgálati eljárás eredményeként, ha a gyermek (fiatal felnőtt) a felülvizsgálattal érintett időszakban ötnél több kötelező tanórai foglalkozást igazolatlanul
 
-b) a rendszeres gyermekvédelmi kedvezményben részesülő gyermek után járó iskoláztatási támogatást a gyermek számára természetbeni formában kell nyújtani.
+a) mulasztott, megállapítja, hogy az iskoláztatási támogatás szüneteltetése megszüntetéséhez szükséges feltétel nem áll fenn,
 
-(4) Az iskoláztatási támogatás felfüggesztésének és szüneteltetésének indokoltságát a külön jogszabályban foglalt esetekben rendszeresen felül kell vizsgálni. Ha a gyermek igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma a 16. életévének betöltését megelőző utolsó felülvizsgálat és az azt követő első felülvizsgálat közötti időtartamban eléri a tizet, a települési önkormányzat jegyzője kezdeményezi az iskoláztatási támogatást folyósító szervnél az ellátás szüneteltetését és rendelkezik a családtámogatási folyószámlán összegyűlt iskoláztatási támogatás családi pótlék előirányzat javára történő visszafizetéséről.
+b) nem mulasztott, kezdeményezi a kincstárnál az iskoláztatási támogatás szüneteltetésének megszüntetését.
+
+(4) A gyámhatóság a (3) bekezdés b) pontjában foglaltakon túl kezdeményezi a kincstárnál az iskoláztatási támogatás szüneteltetésének megszüntetését, ha a gyermek (fiatal felnőtt) nevelőszülőnél, hivatásos nevelőszülőnél, gyermekotthonban, szociális intézményben történő elhelyezésére került sor, vagy a gyermekvédelmi gondoskodás alatt álló gyermek (fiatal felnőtt) javítóintézetbe, büntetés-végrehajtási intézetbe került.
+
+(5) A gyámhatóságnak a (3) bekezdés b) pontja és (4) bekezdés szerinti intézkedése ellen nincs helye fellebbezésnek.

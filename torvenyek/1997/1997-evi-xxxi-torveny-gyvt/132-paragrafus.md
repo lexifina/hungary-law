@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdésben meghatározott esetben a települési önkormányzat jegyzője, a gyámhivatal arra kötelezi a szülőt, a törvényes képviselőt vagy az egyéb ügyfelet, hogy a gyermekkel keresse fel a szakértőként kirendelt szervet vagy személyt, és közreműködésével, szakértői vizsgálaton való részvételével járuljon hozzá a szakértői vizsgálat eredményességéhez.
 
-(3) Abban a kérdésben, hogy a gyermek testi, érzékszervi, értelmi, beszéd vagy más fogyatékosságban szenved, továbbá, hogy a gyermek beilleszkedési, tanulási, magatartási rendellenességgel küzd, a Kt. 35. §-a szerinti szakértői és rehabilitációs bizottság, illetve nevelési tanácsadó ad véleményt.
+(3) Abban a kérdésben, hogy a gyermek testi, érzékszervi, értelmi, beszéd vagy más fogyatékosságban szenved, továbbá, hogy a gyermek beilleszkedési, tanulási, magatartási rendellenességgel küzd, az Nktv. szerinti szakértői bizottság, illetve nevelési tanácsadó ad véleményt.
 
 (4) Az átmeneti vagy tartós nevelésbe vett és súlyos pszichés vagy disszociális tüneteket mutató, illetve pszichoaktív szerekkel küzdő gyermek ellátására, az ellátás módjára, formájára a megyei, fővárosi, valamint az országos gyermekvédelmi szakértői bizottság tesz javaslatot. A szakértői bizottság eljárásának részletes szabályait külön jogszabály határozza meg.
 
