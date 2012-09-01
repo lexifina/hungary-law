@@ -1,4 +1,4 @@
-## 1–6. §[^1]
+## 6. § Az R. az 1. melléklet szerinti 13. melléklettel egészül ki.
 
 7. § (1) Az R. 2. § d) pontja a következő szöveggel lép hatályba:
 
@@ -21,5 +21,3 @@
 (5) Az R. 10. melléklete a 2. melléklet szerinti szöveggel lép hatályba.
 
 (6) Az R. 11. melléklete a 3. melléklet szerinti szöveggel lép hatályba.
-
-[^1]: Az 1–6. § a 9. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
