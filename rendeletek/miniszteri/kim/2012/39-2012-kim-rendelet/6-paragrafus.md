@@ -1,6 +1,5 @@
-## 5. §[^2]
+## 5. § E rendeletet a hatályba lépését követően történt becsérték-megállapítással szemben benyújtott végrehajtási kifogások esetében kell alkalmazni.
 
-6–7. §[^3]
+6–7. §[^1]
 
-[^2]: Az 5. § a 4. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
-[^3]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
