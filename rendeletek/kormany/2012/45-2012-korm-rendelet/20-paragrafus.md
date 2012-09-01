@@ -6,4 +6,6 @@
 
 (4) A személyügyi központ a lefolytatott keresésről értesíti a keresést kérő, illetve az üres álláshelyet bejelentő közigazgatási szerv hivatali szervezetének vezetőjét. A keresést kérő közigazgatási szerv hivatali szervezetének vezetője abban az esetben is kap értesítést, ha a személyügyi központ keresése eredménytelen.
 
-(5) Az eredményes keresésről szóló értesítéssel egyidejűleg a személyügyi központ a keresést kérő, illetve az üres álláshelyet bejelentő közigazgatási szerv hivatali szervezetének vezetője számára hozzáférhetővé teszi az ajánlati listán szereplő tartalékállományba helyezetteknek a Kttv. 3. mellékletében meghatározott adatait.
+(5)[^11] Az eredményes keresésről szóló értesítéssel egyidejűleg a személyügyi központ a keresést kérő, illetve az üres álláshelyet bejelentő közigazgatási szerv hivatali szervezetének vezetője számára hozzáférhetővé teszi az ajánlati listán szereplő tartalékállományba helyezetteknek a Kttv. 3. mellékletében, a Hszt. 11. mellékletében, valamint a Hjt. 10. mellékletében meghatározott adatait.
+
+[^11]: A 20. § (5) bekezdése a 237/2012. (VIII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.

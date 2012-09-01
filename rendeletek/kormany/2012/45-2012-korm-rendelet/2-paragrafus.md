@@ -6,9 +6,17 @@ a) személyi irat: bármilyen anyagon, alakban és bármilyen eszköz felhaszná
 
 b) munkavállaló személyi anyaga: a munkavállaló öt évnél nem régebbi fényképe, önéletrajza, a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány, a munkavállaló titoktartási nyilatkozata, munkaszerződése és annak módosítása, munkaköri leírása, teljesítményértékelése, a munkaviszonyt megszüntető irat, és a munkáltatói igazolás másolata,
 
-c) tartalékállományba helyezett: az a közszolgálati tisztviselő, akinek tartalékállományba helyezéséről az őt foglalkoztató közigazgatási szerv intézkedett,
+c)[^4] tartalékállományba helyezett:
 
-d)[^2]
+ca) az a közszolgálati tisztviselő, akinek tartalékállományba helyezéséről az őt foglalkoztató közigazgatási szerv intézkedett;
+
+cb) az a hivatásos állományú, akinek tartalékállományba helyezéséről az őt foglalkoztató fegyveres szerv országos parancsnoksága intézkedett;
+
+cc) az a hivatásos állományú, akinek tartalékállományba helyezéséről a személyügyi központ a hivatásos állományú hozzá intézett kérelmére intézkedett;
+
+cd) az a rendelkezési állományú katona, akinek adatait a Honvédelmi Minisztérium személyügyi szervének (a továbbiakban: HM személyügyi szerve) vezetője a Hjt. 48. § (13) bekezdése alapján megküldte,
+
+d)[^5] országos parancsnok: a Hszt. 2. § e) pontja szerinti személyek,
 
 e) országos parancsnokság: az országos parancsnok által vezetett szerv,
 
@@ -18,4 +26,5 @@ g) irányító szerv: a kormányhivatal, a központi hivatal, valamint a megyei,
 
 h) irányított szerv: az irányító szerv irányítása alatt álló területi, illetve helyi államigazgatási szerv.
 
-[^2]: A 2. § d) pontja a 27. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
+[^4]: A 2. § c) pontja a 237/2012. (VIII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. § d) pontja a 237/2012. (VIII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
