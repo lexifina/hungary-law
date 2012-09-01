@@ -1,0 +1,5 @@
+## 16. § A köznevelési intézmény képviselője a KIR-ben az oktatási azonosító számmal kapcsolatosan nyilvántartott adatok változását a változást követő öt napon belül köteles bejelenteni. A 14. § (4) bekezdése szerinti tájékoztatás tartalmát érintő adatváltozás átvezetése után a köznevelési intézmény képviselője az érintettnek a 14. § (4) bekezdése szerinti tájékoztatást a megváltozott adatok alapján állítja ki.
+
+17. § (1) Ha az oktatási azonosító számmal rendelkező személy jogviszonya megszűnik, a köznevelési intézmény képviselője a jogviszony megszűnését – a megszűnés időpontjától számított – öt napon belül jelenti be a KIR-en keresztül.
+
+(2) Ha a gyermek, tanuló jogviszonya a nevelési-oktatási intézménnyel megszűnik, a nevelési-oktatási intézmény képviselője statisztikai céllal közli a KIR-en keresztül, hogy a jogviszony milyen jogcím alapján szűnt meg, továbbá tanuló esetén közli, hogy az érintett az adott köznevelési alapfeladatban szerzett-e iskolai végzettséget, szakképesítést, valamint – iskolai végzettség hiányában – hány évfolyamot végzett el.
