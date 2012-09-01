@@ -20,6 +20,6 @@
 
 ## (c) Azoknál az elosztóknál, akiknél a fogyasztói létszám meghaladja a 10 000 felhasználót, meg kell állapítani az 1 km-re jutó átlagos elosztott mennyiséget. Ha valamelyik elosztónál az 1 km-re jutó elosztás mennyisége meghaladja az átlagos elosztás kétszeresét, akkor ezen elosztó kiemelésével újra meg kell határozni az 1 km-re jutó átlagos elosztott mennyiséget. Azon elosztóknál, akiknél az 1 km-re jutó átlagos elosztás nem éri el a vizsgálat alatt lévő elosztók 1 km-re jutó átlag elosztásának 80%-át, azon elosztóknál nem teljesíthető kifizetés a kiegyenlítő mechanizmus befizetéseiből.
 
-9. melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^235]
+9. melléklet a 31/2009. (VI. 25.) KHEM rendelethez[^234]
 
-[^235]: A 9. mellékletet a 73/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 4/2010. (VI. 30.) NFM rendelet 8. § (3) bekezdése.
+[^234]: A 9. mellékletet a 73/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 4/2010. (VI. 30.) NFM rendelet 8. § (3) bekezdése.
