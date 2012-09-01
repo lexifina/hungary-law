@@ -10,9 +10,9 @@ d) a jogszerű állapot helyreállításáig feltételhez kötheti, vagy megtilt
 
 illetve értékesítését,
 
-e) elrendelheti a fogyasztó életére, egészségére, testi épségére veszélyes termék forgalomból való kivonását vagy visszahívását,
+e)
 
-f) elrendelheti a fogyasztó életére, egészségére, testi épségére veszélyes termék megsemmisítését a környezetvédelmi szempontok figyelembevételével,
+f)
 
 g) a jogszerű állapot helyreállításáig terjedő időtartamra elrendelheti a jogsértéssel érintett üzlet ideiglenes bezárását, ha az a fogyasztók életének, testi épségének, egészségének védelme vagy a fogyasztók széles körét érintő kárral fenyegető veszély elhárítása érdekében szükséges,
 
@@ -22,7 +22,7 @@ i) fogyasztóvédelmi bírságot (a továbbiakban: bírság) szabhat ki.
 
 (2) Az (1) bekezdésben foglalt jogkövetkezmények alkalmazása esetén a fogyasztóvédelmi hatóság – amennyiben azt az eset körülményeire tekintettel szükségesnek tartja – határidő tűzésével kötelezheti a jogsértő vállalkozást, hogy a hibák, hiányosságok, illetve a jogsértés megszüntetése érdekében tett intézkedésekről a hatóságot értesítse.
 
-(3) Külön jogszabály az abban meghatározott fogyasztóvédelmi rendelkezés megsértése esetére további jogkövetkezményeket határozhat meg.
+(3) Külön jogszabály az abban meghatározott fogyasztóvédelmi rendelkezés megsértése esetére további jogkövetkezményeket határozhat meg. A fogyasztóvédelmi hatóság a piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.
 
 (4) Az (1) és (3) bekezdés szerinti jogkövetkezmények együttesen is megállapíthatók.
 
@@ -36,7 +36,7 @@ i) fogyasztóvédelmi bírságot (a továbbiakban: bírság) szabhat ki.
 
 (9) A hatósági ellenőrzés, illetve a fogyasztóvédelmi hatóság eljárása során a vállalkozás köteles közölni a tevékenységével kapcsolatos – az ellenőrzés lefolytatásához, illetve az érdemi döntéshez szükséges – adatokat a nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatok kivételével. Ha a fogyasztóvédelmi hatóság felhívására a vállalkozás az adatokat nem közli, vagy valótlan adatot közöl, vele szemben eljárási bírság kiszabásának van helye.
 
-(10) A fogyasztóvédelmi hatóság – jegyzőkönyv felvétele mellett – jogosult minta és ellenminta vételére a termék biztonságosságának, minőségének vagy összetételének vizsgálata céljából. A minta költségét is tartalmazó mintavételi költség, továbbá a laboratóriumi vagy az egyéb vizsgálatok költsége eljárási költség.
+(10) A fogyasztóvédelmi hatóság – jegyzőkönyv felvétele mellett – jogosult minta és ellenminta vételére a termék, minőségének vagy összetételének vizsgálata céljából. A minta költségét is tartalmazó mintavételi költség, továbbá a laboratóriumi vagy az egyéb vizsgálatok költsége eljárási költség.
 
 (11) A (10) bekezdés szerinti eljárási költséget a jogsértésért felelős vállalkozás viseli, ha a minta az előírt követelményeknek nem felel meg.
 

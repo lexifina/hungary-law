@@ -40,11 +40,11 @@ q) kereskedelmi kommunikáció: a fogyasztókkal szembeni tisztességtelen keres
 
 r) forgalmazás: valamely termék vállalkozás által – értékesítés, fogyasztás vagy használat céljára ellenérték fejében vagy ingyenesen – történő rendelkezésre bocsátása, ideértve a fogyasztó számára történő felkínálást is,
 
-s) forgalomból történő kivonás: olyan intézkedés, amelynek célja a nem biztonságos termék forgalmazásának, bemutatásának, illetve a fogyasztó számára történő felajánlásának megakadályozása,
+s)
 
-t) visszahívás: olyan intézkedés, amelynek célja a fogyasztó számára forgalmazott nem biztonságos termék visszaszolgáltatása,
+t)
 
-u) honosított harmonizált szabvány: európai szabványügyi testület által az általános termékbiztonságról szóló 2001/95/EK európai parlamenti és tanácsi irányelv 4. cikkében megállapított eljárással összhangban az európai követelmények meghatározása céljából elfogadott műszaki leírás, amelyet nemzeti szabványként közzétettek,
+u)
 
 v) szexuális termék: olyan birtokba vehető forgalomképes dolog, amelynek elsődleges célja a szexuális ingerkeltés, különösen amely nemi aktust vagy egyéb szexuális cselekményt nyíltan ábrázol, illetve emberi testet, testrészt szexuális ingerkeltésre alkalmas módon vagy szexuális ingerkeltés céljából ábrázol, ideértve a – rendeltetése szerint – szexuális ingerkeltésre szolgáló, nemi aktus vagy egyéb szexuális cselekmény során alkalmazható eszközt is, a fogamzásgátlás céljából alkalmazható eszköz kivételével,
 

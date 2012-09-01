@@ -30,6 +30,6 @@ bb) pénzügyi műveletek bevételeinek
 
 a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító jogerős határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
 
-b) a jogsértés a fogyasztók életét, testi épségét, egészségét sérti vagy veszélyezteti, vagy a fogyasztók széles körét érinti, továbbá
+b) a jogsértés a fogyasztók széles körét érinti, továbbá
 
 c) a tizennyolcadik életévüket be nem töltött személyek védelmét célzó jogszabályi rendelkezés megsértésére került sor.

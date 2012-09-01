@@ -10,7 +10,7 @@
 
 a) az áru fogyasztók számára való értékesítésére,
 
-b) a fogyasztóknak forgalmazott termék minőségére, összetételére, csomagolására, megfelelőségértékelésére, megfelelőségi jelölésére,
+b) a fogyasztóknak forgalmazott termék minőségére, összetételére, csomagolására,,
 
 c) a fogyasztóknak értékesítésre szánt, illetve értékesített áru mérésére, hatósági árára vagy egyébként kötelezően megállapított árára,
 

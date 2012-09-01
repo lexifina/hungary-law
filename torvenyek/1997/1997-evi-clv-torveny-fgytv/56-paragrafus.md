@@ -1,1 +1,1 @@
-56. § Felhatalmazást kapnak az ágazati irányításért felelős miniszterek, hogy a feladat- és hatáskörükbe tartozó termékek forgalmazására alkalmazandó követelményeket, biztonságossági előírásokat, címkézésre vonatkozó külön előírásokat, az egyes termékek megfelelőségértékelésének módját, valamint a megfelelőségi tanúsítványokat kiadó szervezetek körét vagy az ilyen szervezetek köre meghatározásának szabályait rendelettel meghatározzák.
+56. §

@@ -2,9 +2,9 @@
 
 a) a határozat fellebbezésre tekintet nélkül történő végrehajtását rendelte el a 49. § (2) bekezdése alapján,
 
-b) a határozathozatalra azért került sor, mert a fogyasztóvédelmi hatóság az 55. § (1) bekezdésének a) pontja alapján kiadott kormányrendelet szerinti eljárása során megállapítja, hogy a vizsgált termék nem felel meg a biztonságossági követelményeknek, vagy
+b)
 
-c) a jogsértéssel érintett üzlet ideiglenes bezárását vagy az áru forgalmazásának, illetve értékesítésének megtiltását rendelte el.
+c)
 
 (2) A fogyasztóvédelmi hatóság közzéteszi a 49. § (1) bekezdése szerinti végzését.
 

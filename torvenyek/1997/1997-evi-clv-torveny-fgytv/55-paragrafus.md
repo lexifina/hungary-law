@@ -2,7 +2,7 @@
 
 55. § (1) Felhatalmazást kap a Kormány, hogy
 
-a) e törvény II. fejezetének végrehajtására, valamint a megjelenésükben másnak látszó és ezáltal a fogyasztó egészségét vagy biztonságát veszélyeztető termékek forgalmazására és ellenőrzésére, továbbá az alkalmazható jogkövetkezményekre,
+a)
 
 b) a mintavételi költség, továbbá a laboratóriumi, illetve az egyéb vizsgálatok költségének mértékére és megfizetésére,
 

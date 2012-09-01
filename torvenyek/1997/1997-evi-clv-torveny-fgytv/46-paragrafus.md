@@ -9,3 +9,5 @@ b) a 43/A. § (1) bekezdés a)–c), e) és f), valamint h)–k) pontjában eml�
 (2a) A (2) bekezdés a) pontjától eltérően a fogyasztói érdekek képviseletét ellátó egyesületeket a más által kezdeményezett eljárásban az ügyfél jogai csak akkor illetik meg, ha az eljárásban vizsgált jogsértés a fogyasztók széles körét érinti.
 
 (3) A fogyasztóvédelmi hatóság eljárása a jogsértés bekövetkezését követő három éven túl nem indítható meg. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
+
+(4) A fogyasztóvédelmi hatóság a termék biztonságosságával és megfelelőségével kapcsolatos piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.

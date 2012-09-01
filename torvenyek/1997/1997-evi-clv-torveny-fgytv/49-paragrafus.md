@@ -6,9 +6,9 @@ a) a 47. § (1) bekezdésének h) pontja szerinti jogkövetkezmény megállapít
 
 b) környezetvédelmi okból,
 
-c) a fogyasztók testi épségének, egészségének védelme érdekében,
+c)
 
-d) a fogyasztók széles körét érintő kárral fenyegető veszély elhárítása érdekében,
+d)
 
 e) a fiatalkorúak fizikai, szellemi, érzelmi vagy erkölcsi fejlődésének védelme érdekében, továbbá
 
