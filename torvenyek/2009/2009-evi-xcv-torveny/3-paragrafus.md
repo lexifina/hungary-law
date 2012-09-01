@@ -62,7 +62,7 @@ r) a kereskedő által forgalmazott termékmennyiség alapján érvényesíthet�
 
 s) ha a kereskedő a részére szállított termék után a beszállító által fizetendő népegészségügyi termékadó összegét a h) pontban foglalt határidőn belül nem téríti meg a beszállító részére;
 
-t) a (2b) bekezdésben foglalt rendelkezés be nem tartása;
+t) a (2b) vagy a (2c) bekezdésben foglalt rendelkezés be nem tartása;
 
 u) összetétele és érzékszervi tulajdonságai alapján azonos termékek végső fogyasztói értékesítési árának a termék származási országa alapján diszkriminatív módon eltérő képzése.
 
@@ -71,6 +71,8 @@ u) összetétele és érzékszervi tulajdonságai alapján azonos termékek vég
 (2b) A kereskedő követeléskompenzációs igényéről annak érvényesítését megelőzően legalább öt nappal korábban köteles értesíteni a beszállítót. A követeléskompenzáció akkor érvényesíthető, ha annak összegszerűségét a beszállító megalapozottan nem vitatta vagy azzal kapcsolatban hibás teljesítés vonatkozásában a beszállító megalapozottan kifogást nem emelt. Követeléskompenzáció érvényesítése esetén annak tényéről az érvényesítés napjától számított tizenöt napon belül a kereskedő köteles értesíteni a beszállítót. A beszállító számlakiállítása az átvételt követően nem korlátozható, feltételhez nem köthető. A hibás számlát a kereskedőnek a kézhezvételtől számított öt napon belül kell visszaküldenie a beszállítónak.
 
 (2c) A terméket terhelő – a (2) bekezdés e) pontjának ed) alpontja, valamint a (2) bekezdés r) pontja szerinti – adómérték összegéről a beszállító tájékoztatja a kereskedőt.
+
+(2c) Amennyiben a (2) bekezdés h) pontjában meghatározott határidőn belül a fizetési teljesítésre nem kerül sor, a kereskedő a jegybanki alapkamat kétszeresével növelt kamat megfizetésére köteles. A szerződésnek tartalmaznia kell a kereskedő részéről a termék ellenértékére, valamint annak a jegybanki alapkamat kétszeresével növelt kamatára vonatkozó, a pénzforgalmi szolgáltatónak adott beszedési megbízás teljesítésére vonatkozó hozzájárulást, felhatalmazó nyilatkozatot, arra az esetre, ha a (2) bekezdés h) pontjában meghatározott határidőn belül a fizetési teljesítésre nem kerül sor.
 
 (3) A tisztességtelen forgalmazói magatartást tartalmazó, illetve az e törvényben szereplő tilalom megkerülésére irányuló szerződési kitétel semmis. Az (5) bekezdés szerinti üzletszabályzat nyilvánosságra hozatalának elmulasztása önmagában nem eredményezi az abban foglalt kitétel semmisségét.
 
@@ -83,3 +85,5 @@ u) összetétele és érzékszervi tulajdonságai alapján azonos termékek vég
 (7) Az (5) bekezdés szerinti üzletszabályzat elkészítésének és nyilvánosságra hozatalának kötelezettsége nem vonatkozik arra a kereskedőre, melynek a 6. § (3) bekezdése szerint számított előző évi nettó árbevétele a húszmilliárd forintot nem haladja meg.
 
 (8) A (2) bekezdés h) pontja vonatkozásában kifizetés napjának az a nap minősül, amikor a kereskedő számláját megterhelték.
+
+(9) E § alkalmazásában végső fogyasztónak kell tekinteni mindazokat, akik számára a kereskedő a terméket értékesíti.
