@@ -8,12 +8,12 @@
 
 a) a szakképzésről szóló törvény hatálya alá tartozó, iskolai rendszerű képzések támogatása,
 
-b) a felsőoktatásról szóló törvényben meghatározott, az államilag támogatott létszám tekintetében a gyakorlatigényes alapképzési szak keretében folytatott gyakorlati képzés támogatása (a továbbiakban: gyakorlatigényes alapképzési szak),
+b)
 
-c)
+c) a nemzeti felsőoktatási rendszerről szóló törvényben meghatározott, az államilag támogatott létszám tekintetében a gyakorlatigényes alapképzési szak keretében szervezett szakmai gyakorlat támogatása (a továbbiakban: gyakorlatigényes alapképzési szak),
 
-d) az a)–b) pont szerinti képzés fejlesztésének támogatása,
+d)
 
-e)
+e) az a) és c) pont szerinti képzés fejlesztésének támogatása,
 
 f) az iskolarendszeren kívüli felnőttképzésnek a felnőttképzésről szóló törvény alapján történő támogatása.
