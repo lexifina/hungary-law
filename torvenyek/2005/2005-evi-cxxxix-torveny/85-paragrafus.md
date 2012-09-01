@@ -1,3 +1,0 @@
-85. § (1) Az egyetemi és a főiskolai docens, valamint az egyetemi és a főiskolai tanár a tudományos kutatás, illetve művészi alkotótevékenység végzéséhez, egyéni tudományos továbbképzéshez – a foglalkoztatási követelményrendszerben meghatározottak szerint – hétévenként alkotói szabadságra jogosult. Az alkotói szabadság ideje legfeljebb egy év lehet. A szabadság ideje alatt távolléti díj jár.
-
-(2) Ha az alkotói szabadságot tudományos kutatás, művészi alkotótevékenység céljára biztosították, a munkáltatónak és az oktatónak megállapodásban kell rögzíteniük az elérendő célt és a mulasztás jogkövetkezményeit.

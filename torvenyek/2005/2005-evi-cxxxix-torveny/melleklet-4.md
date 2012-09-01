@@ -1,1 +1,0 @@
-4. számú melléklet a 2005. évi CXXXIX. törvényhez

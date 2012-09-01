@@ -1,5 +1,0 @@
-65. § (1) A felsőoktatási intézmény rektora – a köztársasági elnök előzetes hozzájárulásával – Promotio sub auspiciis praesidentis Rei Publicae kitüntetéssel avatja doktorrá azt, akinek a középiskolában és a felsőoktatási intézményben, valamint a doktori képzésben folytatott tanulmányai során a teljesítményét mindig a legmagasabbra értékelték, feltéve továbbá, hogy a doktori fokozatszerzési eljárás során is kiemelkedő teljesítményt nyújtott. A kitüntetéses doktorrá avatás részletes feltételeit a Kormány állapítja meg.
-
-(2) A felsőoktatási intézmény rektora tiszteletbeli doktorrá (doctor honoris causa) vagy tiszteletbeli doktorrá és professzorrá (doctor et professor honoris causa) avathatja azt, aki a doktori szabályzatában foglaltak alapján arra érdemessé vált.
-
-(3) A felsőoktatási intézmény rektora – a szervezeti és működési szabályzatában meghatározott feltételek szerint – arany, gyémánt, vas, illetve rubin díszoklevelet adományozhat annak, aki ötven, hatvan, hatvanöt vagy hetven éve szerezte meg az oklevelét a felsőoktatási intézményben, és életpályája alapján közmegbecsülésre méltó.

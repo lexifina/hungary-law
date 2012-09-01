@@ -1,3 +1,0 @@
-## A FINANSZÍROZÁS EGYÉB KÉRDÉSEI
-
-134. §

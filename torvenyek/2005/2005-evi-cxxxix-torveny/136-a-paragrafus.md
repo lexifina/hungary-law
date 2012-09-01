@@ -1,1 +1,0 @@
-136/A. § A szakképzési hozzájárulásra jogosultság tekintetében gyakorlatigényesnek minősül a Kormány által a többciklusú képzés rendjét, a képzés indításának eljárását meghatározó jogszabályban megjelölt – képzési és kimeneti követelményei alapján legalább hat hétig tartó szakmai gyakorlatot is tartalmazó – alapképzési szak.

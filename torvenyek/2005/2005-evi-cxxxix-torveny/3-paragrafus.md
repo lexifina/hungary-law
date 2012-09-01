@@ -1,3 +1,0 @@
-## A TÖRVÉNY HATÁLYA
-
-3. § E törvény hatálya kiterjed a Magyarország területén folytatott felsőoktatási, a felsőoktatással összefüggő szolgáltató és igazgatási tevékenységre, a feladatellátásban közreműködő szervezetekre, intézményekre, azok alapítóira és fenntartóira, a felsőoktatás feladataiban közreműködő oktatókra, tudományos kutatókra és más, a felsőoktatásban alkalmazottakra, a felsőoktatásba jelentkezőkre és a hallgatókra, továbbá a felsőoktatás támogatóira, valamint arra a felsőoktatási tevékenységre is, amelyet a magyar felsőoktatási intézmények Magyarország területén kívül folytatnak.

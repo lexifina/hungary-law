@@ -1,5 +1,0 @@
-## A TÖRVÉNY ALAPELVEI
-
-4. § (1) A felsőoktatási intézmény alaptevékenysége az oktatás, a tudományos kutatás, a művészeti alkotótevékenység.
-
-(2) A felsőoktatás oktatási alaptevékenysége magában foglalja az alapképzést, a mesterképzést, a doktori képzést, a felsőfokú szakképzést és a szakirányú továbbképzést. A felsőoktatás feladatait – e törvényben meghatározottak szerint – a felsőoktatási intézmények látják el, együttműködve egymással, illetőleg a társadalom, a gazdaság, a tudományos kutatás és a művészeti élet más szereplőivel. A felsőoktatási intézmény e törvényben, a szakképzésről szóló 1993. évi LXXVI. törvényben (a továbbiakban: szakképzésről szóló törvény), a közoktatásról szóló 1993. évi LXXIX. törvényben (a továbbiakban: közoktatásról szóló törvény) és a felnőttképzésről szóló 2001. évi CI. törvényben (a továbbiakban: felnőttképzésről szóló törvény) foglaltak szerint részt vehet a közoktatási, továbbá a felsőoktatásnak nem minősülő szakképzési és az ágazati törvényekben meghatározott egyéb képzési feladatok megvalósításában.
