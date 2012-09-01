@@ -28,7 +28,7 @@ a) a rendőrkapitány, ha a megtámadott határozatot a rendőrkapitányság sze
 
 b) a rendőrfőkapitány, ha a megtámadott határozatot a rendőr-főkapitányság szervének vezetője hozta;
 
-c)[^57] az NNI igazgatója, ha a megtámadott határozatot az NNI nyomozó szervének vezetője hozta.
+c)[^57] a Készenléti Rendőrség parancsnoka, ha a megtámadott határozatot a KR NNI nyomozó szervének vezetője hozta.
 
 (9) A panaszt a határozat kihirdetésekor kell bejelenteni, melyet a fegyelmi jogkör gyakorlója véleményes jelentésével haladéktalanul felterjeszt a panasz elbírálására jogosulthoz. A panaszt a kézhezvételtől számított 5 napon belül kell elbírálni.
 
@@ -36,4 +36,4 @@ c)[^57] az NNI igazgatója, ha a megtámadott határozatot az NNI nyomozó szerv
 
 [^55]: A 27. § (2) bekezdése a 42/2003. (X. 3.) BM rendelet 8. §-a szerint módosított szöveg.
 [^56]: A 27. § (7) bekezdése a 42/2003. (X. 3.) BM rendelet 8. §-a szerint módosított szöveg.
-[^57]: A 27. § (8) bekezdésének c) pontja a 38/2004. (VI. 29.) BM rendelet 12. §-ával megállapított, a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 23. pontja szerint módosított szöveg.
+[^57]: A 27. § (8) bekezdés c) pontja a 43/2012. (VIII. 23.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.

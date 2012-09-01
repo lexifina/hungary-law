@@ -56,7 +56,7 @@ a) a rendőrkapitánysági fogdában a rendőrkapitány,
 
 b)[^11] a megyei (fővárosi) rendőr-főkapitánysági fogdában (központi) fogdában a rendőrfőkapitány,
 
-c)[^12] a Nemzeti Nyomozó Iroda (a továbbiakban: NNI) fogdájában az NNI igazgatója.
+c)[^12] a Készenléti Rendőrség Nemzeti Nyomozó Iroda (a továbbiakban: KR NNI) fogdájában a Készenléti Rendőrség parancsnoka.
 
 [^4]: A 2. § (1) bekezdésének c) pontja a 23/2001. (X. 11.) BM rendelet 2. § (1) bekezdésével megállapított szöveg, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
 [^5]: A 2. § (1) bekezdésének d) pontját a 23/2001. (X. 11.) BM rendelet 27. § (2) bekezdésének c) pontja hatályon kívül helyezte.
@@ -66,4 +66,4 @@ c)[^12] a Nemzeti Nyomozó Iroda (a továbbiakban: NNI) fogdájában az NNI igaz
 [^9]: A 2. § (6) bekezdése a 42/2003. (X. 3.) BM rendelet 8. §-a szerint módosított szöveg.
 [^10]: A 2. § (9) bekezdése a 23/2001. (X. 11.) BM rendelet 2. § (5) bekezdésével megállapított szöveg, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
 [^11]: A 2. § (10) bekezdésének b) pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 23. pontja szerint módosított szöveg.
-[^12]: A 2. § (10) bekezdésének c) pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 23. pontjával megállapított szöveg.
+[^12]: A 2. § (10) bekezdés c) pontja a 43/2012. (VIII. 23.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.

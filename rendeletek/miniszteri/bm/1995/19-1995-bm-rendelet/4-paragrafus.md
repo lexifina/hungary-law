@@ -10,7 +10,7 @@ a)[^19] a rendőrkapitány, akkor a megyei (fővárosi) rendőrfőkapitány;
 
 b)[^20] a megyei (fővárosi) rendőrfőkapitány, akkor az országos rendőrfőkapitány;
 
-c)[^21] az NNI igazgatója, akkor az Országos Rendőr-főkapitányság bűnügyi főigazgatója bírálja el.
+c)[^21] a Készenléti Rendőrség parancsnoka, akkor az országos rendőrfőkapitány bírálja el.
 
 (5) A panaszt a (4) bekezdésben meghatározott elbírálásra jogosulthoz érkezésétől számított 15 napon belül kell elbírálni, a határidő indokolt esetben egyszer 30 nappal meghosszabbítható. A panasz elbírálásáról, illetve a határidő meghosszabbításáról a fogvatartottat tájékoztatni kell.
 
@@ -22,4 +22,4 @@ c)[^21] az NNI igazgatója, akkor az Országos Rendőr-főkapitányság bűnügy
 [^18]: A 4. § (4) bekezdése a 38/2004. (VI. 29.) BM rendelet 11. §-ával megállapított szöveg, e módosító rendelet 18. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 [^19]: A 4. § (4) bekezdésének a) pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 23. pontja szerint módosított szöveg.
 [^20]: A 4. § (4) bekezdésének b) pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 23. pontja szerint módosított szöveg.
-[^21]: A 4. § (4) bekezdésének c) pontja a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 23. pontja szerint módosított szöveg.
+[^21]: A 4. § (4) bekezdés c) pontja a 43/2012. (VIII. 23.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
