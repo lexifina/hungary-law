@@ -1,0 +1,1 @@
+A Kormány a szakképzésről szóló 2011. évi CLXXXVII. törvény 88. § (3) bekezdés b) pontjában kapott felhatalmazás alapján, Magyarország Alaptörvénye 15. cikkének (1) bekezdésében meghatározott feladatkörében eljárva, a következőket rendeli el:
