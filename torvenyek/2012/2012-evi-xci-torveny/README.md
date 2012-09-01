@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-91-00-00
 | --- | --- | --- |
 | 2012-07-06 | 2012. évi XCI. törvény | 2012-91-00-00.0 (közlönyállapot) |
 | 2012-07-06 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-91-00-00.1 |
+| 2012-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-91-00-00.2 |
