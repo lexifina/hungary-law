@@ -6,7 +6,7 @@ b) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgá
 
 c) az ingatlanügyi hatóság hirdetőtábláján.
 
-(2) Az árverési hirdetményt az árverést megelőzően legalább 15 napon át és legalább az árverést megelőző 5. napig kell a hirdetőtáblán kifüggesztve tartani.
+(2) Az árverési hirdetményt az árverésnek a hirdetményben feltüntetett időtartamára kell a hirdetőtáblán kifüggesztve tartani.
 
 (3)
 

@@ -4,6 +4,6 @@ a) a felek nevét,
 
 b) az árverés helyét és idejét,
 
-c) az árverésre kerülő ingóságokat és becsértéküket,
+c) az árverésre kerülő ingóságokat és becsértéküket, valamint a becsérték 2%-ának megfelelő, ötszázezer Ft-ot meg nem haladó becsérték esetén száz forintra, egymillió Ft-ot meghaladó becsérték felett pedig ezer forintra kerekített licitküszöböt,
 
 d) azt, hogy az ingóságokat az árverés előtt hol és mikor lehet megnézni.

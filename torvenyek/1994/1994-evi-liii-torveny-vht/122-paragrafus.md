@@ -10,8 +10,8 @@ c) az árverés helye szerinti községi, városi, fővárosi kerületi polgárm
 
 (3)
 
-(4) A végrehajtó az árverési hirdetményt közzéteszi az elektronikus árverési hirdetmények nyilvántartásában is; az elektronikus árverési rendszer az árverést követő napon automatikusan törli a hirdetményt az elektronikus árverési hirdetmények nyilvántartásából.
+(4) A végrehajtó az árverési hirdetményt – legalább a (2) bekezdésben foglalt időtartamban – közzéteszi az elektronikus árverési hirdetmények nyilvántartásában is; az elektronikus árverési rendszer az árverést követő napon automatikusan törli a hirdetményt az elektronikus árverési hirdetmények nyilvántartásából.
 
 (5) A végrehajtó bármelyik fél kérelmére gondoskodik arról, hogy az árverést egyéb megfelelő módon is közhírré tegyék.
 
-(6) Az árverés közhírré tételéhez fűződő jogkövetkezmény a bíróság hirdetőtábláján történt kifüggesztéshez kapcsolódik.
+(6) Az árverés közhírré tételéhez fűződő jogkövetkezmény az elektronikus árverési hirdetmények nyilvántartásában történő közzétételhez kapcsolódik.

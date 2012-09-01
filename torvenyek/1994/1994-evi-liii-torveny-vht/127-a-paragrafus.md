@@ -2,4 +2,4 @@
 
 (2) A végrehajtó a helyszínen ellenőrizheti, hogy a forgalmazó eleget tesz-e bizományosi kötelezettségének.
 
-(3) Ha a dolgot nem sikerült értékesíteni, 45 nap elteltével a végrehajtó a vételárat 15 napos határidőkkel fokozatosan a becsérték egynegyedére szállítja le. Ha az értékesítés sikertelen, nincs helye a végrehajtást kérő által történő átvételnek (134. §), az ingóságot vissza kell adni az adósnak.
+(3) Ha a dolgot nem sikerült értékesíteni, 45 nap elteltével a végrehajtó a vételárat 15 napos határidőkkel fokozatosan a becsérték 35%-ára szállítja le. Ha az értékesítés sikertelen, nincs helye a végrehajtást kérő által történő átvételnek (134. §), az ingóságot vissza kell adni az adósnak.

@@ -1,17 +1,13 @@
 132/G. § (1) Az ingóság árverési vevője – a (2) bekezdésben foglalt kivétellel – az automatikusan lezárt licitnaplóban utolsóként közzétett ajánlatot tevő árverező.
 
-(2) Üzletrész árverezése esetén az elővásárlásra jogosult
+(2) Az előárverezési jog jogosultja – a 132/F. § (1) bekezdés c) pontja szerinti aktiválást követően – az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatja előárverezési jogát. Az előárverezési jogot gyakorló nyilatkozatot az elektronikus árverési rendszer az előzőleg közzétett, legmagasabb összegű, érvényes vételi ajánlattal megegyező összegű vételi ajánlatként teszi közzé automatikusan a licitnaplóban.
 
-a) valamennyi közzétett ajánlat vonatkozásában az árverés befejezéséig,
-
-b) az utolsóként közzétett vételi ajánlat vonatkozásában a licitnapló lezárását követő 5. munkanap 20 órájáig
-
-az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatja elővásárlási jogát; az elővásárlási jogot gyakorló nyilatkozatot az elektronikus árverési rendszer automatikusan közzéteszi az árverési hirdetményen.
-
-(3) A végrehajtó az árverés befejezését követően felhívja az árverési vevőt, hogy az árverési jegyzőkönyv aláírása és a vételár kifizetése céljából a végrehajtó irodájában vagy az ingóság tárolási helyén a megadott időpontban jelenjen meg; ha ezt elmulasztja, előlegét elveszti. A jegyzőkönyv aláírását és a vételár kifizetését követően a végrehajtó átadja az ingóságot az árverési vevőnek.
+(3) A végrehajtó az árverés befejezését követően felhívja az árverési vevőt, hogy az árverési jegyzőkönyv aláírása és a vételár kifizetése céljából a végrehajtó irodájában vagy az ingóság tárolási helyén a megadott időpontban jelenjen meg; ha ezt elmulasztja, előlegét elveszti. A jegyzőkönyv aláírását és a vételár kifizetését követően a végrehajtó átadja az ingóságot az árverési vevőnek. Az árverési vevő letétbe helyezett előlegét be kell számítani a vételárba.
 
 (4) Az elektronikus árverési rendszer a licitnapló lezárását követő 30. napon automatikusan törli az elektronikus árverési hirdetmények nyilvántartásából az árverési hirdetményt és a hozzá tartozó licitnaplót.
 
 (5) Az árverés sikertelen, ha nem tettek közzé a licitnaplóban vételi ajánlatot, vagy az árverési vevő a vételárat nem fizette meg a (3) bekezdésben foglaltak szerint.
 
-(6) Az árverés sikertelensége esetén a második árverést az általános szabályok szerint kell megtartani. Nem kell megtartani a második árverést, ha az árverési vevő annak megkezdése előtt befizette a vételárat (vagy átutalta és az arról szóló terhelési értesítőt a végrehajtónak bemutatta), továbbá megtérítette a második árverés kitűzésével felmerült költséget; ilyenkor az utólag megfizetett vételárba nem lehet beszámítani a (3) bekezdés alapján elvesztett előleget.
+(6) Az árverés sikertelensége esetén a második árverést az első árverésre vonatkozó szabályok megfelelő alkalmazásával kell megtartani azzal, hogy a második árverésen az első árverésen legmagasabb ajánlatot tett, de a vételár fizetését elmulasztó árverező nem árverezhet. Nem kell megtartani a második árverést, ha az árverési vevő annak megkezdése előtt befizette a vételárat (vagy átutalta és az arról szóló terhelési értesítőt a végrehajtónak bemutatta), továbbá megtérítette a második árverés kitűzésével felmerült költséget; ilyenkor az utólag megfizetett vételárba nem lehet beszámítani a (3) bekezdés alapján elvesztett előleget.
+
+(7) Ha a második árverésen az ingóságot alacsonyabb áron adták el, mint amelyet az első árverésen a legmagasabb ajánlatot tett árverező felajánlott, a különbözetet a korábbi legmagasabb ajánlatot tevő és a vételár fizetését elmulasztó árverező a végrehajtó felszólítására 15 napon belül köteles megtéríteni. Ha ezt elmulasztja, a végrehajtó az erről szóló iratokat beterjeszti a végrehajtást foganatosító bírósághoz, amely végzéssel kötelezi a fizetést elmulasztó árverezőt a különbözet megtérítésére; a megtérítendő összegbe az elvesztett előleget be kell számítani. Az elvesztett előleg és a fizetést elmulasztott árverező által megtérített különbözet a végrehajtás során befolyt összeget növeli.

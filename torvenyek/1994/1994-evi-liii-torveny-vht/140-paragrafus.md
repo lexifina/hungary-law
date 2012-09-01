@@ -1,6 +1,6 @@
 ## Az ingatlan becsértéke
 
-140. § (1) A végrehajtó az ingatlan értékesítése előtt a 6 hónapnál nem régebbi adó- és értékbizonyítványt is figyelembe véve vagy – bármelyik fél erre irányuló kérelmére – szakértő becsüs véleménye alapján megállapítja az ingatlan becsértékét mind a beköltözhető, mind pedig a lakott állapotban történő értékesítés esetére. Az adó- és értékbizonyítványnak, illetve a szakértő becsüs véleményének tartalmaznia kell azt, hogy az ingatlan a 147. § (3) bekezdése szerint lakóingatlannak minősül-e.
+140. § (1) A végrehajtó az ingatlan értékesítése előtt a 6 hónapnál nem régebbi adó- és értékbizonyítványt is figyelembe véve vagy – bármelyik fél erre irányuló kérelmére – igazságügyi szakértő szakvéleménye alapján megállapítja az ingatlan becsértékét mind a beköltözhető, mind pedig a lakott állapotban történő értékesítés esetére. Az adó- és értékbizonyítványnak, illetve a igazságügyi szakértő szakvéleményének tartalmaznia kell azt, hogy az ingatlan a 147. § (3) bekezdése szerint lakóingatlannak minősül-e.
 
 (2) A végrehajtó az ingatlan becsértékét közli a felekkel és azokkal, akiknek az ingatlanra vonatkozóan az ingatlan-nyilvántartásba bejegyzett joguk van.
 
@@ -12,4 +12,6 @@
 
 (6) A végrehajtó a becsérték közlésével egyidejűleg tájékoztatja a zálogjogosultat arról, hogy a zálogjogból fakadó igényét – ha az alapügyben nem végrehajtást kérő – végrehajtási eljárás során érvényesítheti, és az erre vonatkozó kérelmét az értesítés kézhezvételét követő 15 munkanapon belül kell bejelentenie a végrehajtónál. A végrehajtó a kérelmet haladéktalanul, de legkésőbb annak kézhezvételét követő munkanapon továbbítja a végrehajtást foganatosító bíróságnak.
 
-(7) Ha a közléstől számított 15 napon belül végrehajtási kifogást terjesztettek elő, a becsértéket a bíróság — szükség esetén szakértő közreműködésével — állapítja meg.
+(7) Ha a közléstől számított 15 napon belül végrehajtási kifogást terjesztettek elő, a becsértéket a bíróság – szükség esetén szakértő közreműködésével – állapítja meg. A becsérték megállapításával szemben előterjesztett, a becsérték bíróság általi megállapítására irányuló végrehajtási kifogás előterjesztésével együtt letétbe kell helyezni az igazságügyi szakértő díjának fedezésére szolgáló, az igazságügyért felelős miniszter rendeletében meghatározott összeget.
+
+(8) Ha a becsérték megállapítása (kifogás esetén bíróság általi jogerős megállapítása) óta három év eltelt, és az ingatlan még nem került értékesítésre, a végrehajtó bármelyik fél kérelmére az árverés kitűzése előtt a becsértéket az (1) és (2) bekezdésben foglaltak alkalmazásával ismételten megállapítja.
