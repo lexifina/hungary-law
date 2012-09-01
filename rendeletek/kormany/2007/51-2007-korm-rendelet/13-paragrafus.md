@@ -1,6 +1,4 @@
-## Az egyes tanulmányi ösztöndíjak igénybevételével kapcsolatos feltételek
-
-## [a felsőoktatási törvény 51. §-a (3) bekezdésének b) pontjához]
+## Az egyes tanulmányi ösztöndíjak igénybevételével kapcsolatos feltételek[^34]
 
 ## Tanulmányi ösztöndíj
 
@@ -13,3 +11,5 @@
 (4) Korábban felsőoktatási intézményben tanulmányokat folytató hallgató esetében arról, hogy a hallgató milyen feltételekkel kaphat tanulmányi ösztöndíjat a fogadó intézményben, a fogadó felsőoktatási intézmény térítési és juttatási szabályzatában kell rendelkezni.
 
 (5) A felsőoktatási intézménynek a 2007. szeptember 1-je előtt felvett hallgatók esetében a tanulmányi ösztöndíj megállapítása során figyelemmel kell lennie arra, hogy e hallgatók közül az alacsony tanulmányi teljesítményű hallgatók nem sorolhatók át költségtérítéses képzésre.
+
+[^34]: A 13. §-t megelőző alcím a 248/2012. (VIII. 31.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.

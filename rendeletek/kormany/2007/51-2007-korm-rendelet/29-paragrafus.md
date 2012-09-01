@@ -1,8 +1,6 @@
-## Az államilag támogatott és költségtérítéses képzési forma közötti átsorolás rendje
+## Az államilag támogatott és költségtérítéses képzési forma közötti átsorolás rendje[^73]
 
-## [a felsőoktatási törvény 55. §-ának (6) bekezdéséhez][^41]
-
-29. § (1) A felsőoktatási törvény 55. §-ának (1) bekezdése és 59. §-a (4) bekezdésének c) pontja szerinti döntést az államilag támogatott, illetve költségtérítéses képzési forma közötti átsorolásról a tanév végén a képzési időszak lezárását követően, de legkésőbb a következő képzési időszak kezdetét megelőző 30 nappal kell meghozni.
+29. § (1)[^74] Az államilag támogatott, illetve költségtérítéses, valamint a magyar állami (rész)ösztöndíjas, illetve az önköltséges képzési forma közötti átsorolásról szóló döntést a tanév végén a képzési időszak lezárását követően, de legkésőbb a következő képzési időszak kezdetét megelőző 30 nappal kell meghozni.
 
 (2) Az átsorolási döntés során azokat a hallgatókat nem kell figyelembe venni, akik az adott felsőoktatási intézményben legfeljebb egy képzési időszakban folytattak tanulmányokat, továbbá akik a felsőoktatási törvény 55. §-ának (2) bekezdésében meghatározottak szerint betegség, szülés vagy más a hallgatónak fel nem róható ok miatt félévüket nem tudták befejezni.
 
@@ -14,7 +12,7 @@
 
 a) az utolsó két bejelentkezett félévében megszerezte az ajánlott tantervben előírt kreditmennyiségnek legalább az 50%-át és az összesített korrigált kreditindex alapján létrehozott hallgatói rangsor elején lévő hallgató, továbbá akinek
 
-b)[^42] az összesített korrigált kreditindexe magasabb, mint az államilag támogatott hallgatók összesített korrigált kreditindex-jegyzékén a rangsor alsó ötödénél elhelyezkedő hallgató összesített kreditindexe.
+b)[^75] az összesített korrigált kreditindexe magasabb, mint az államilag támogatott hallgatók összesített korrigált kreditindex-jegyzékén a rangsor alsó ötödénél elhelyezkedő hallgató összesített kreditindexe.
 
 (6) A felsőoktatási intézménynek a következő képzési időszakra államilag támogatott formára átsorolható hallgatói létszáma meghatározásához a hallgatók tanulmányi teljesítménye alapján meg kell állapítania, hogy
 
@@ -28,5 +26,6 @@ c) hány olyan hallgató van, aki a lezárt félévvel már igénybe vette az ad
 
 (8) Az át nem sorolt hallgatók ugyanabban a képzési (finanszírozási) formában folytatják tanulmányaikat a következő tanévben, mint az azt megelőzőben.
 
-[^41]: A 29. §-t megelőző alcím a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének f) pontja szerint módosított szöveg.
-[^42]: A 29. § (5) bekezdésének b) pontja a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének g) pontja szerint módosított szöveg.
+[^73]: A 29. §-t megelőző alcím a 248/2012. (VIII. 31.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.
+[^74]: A 29. § (1) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^75]: A 29. § (5) bekezdésének b) pontja a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének g) pontja szerint módosított szöveg.

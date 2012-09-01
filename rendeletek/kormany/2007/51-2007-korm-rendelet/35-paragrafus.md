@@ -1,6 +1,4 @@
-## Az Európai Gazdasági Térség országaiban résztanulmányokat folytató hallgatók ösztöndíja megállapításának és folyósításának rendje
-
-## [a felsőoktatási törvény 130. §-ának (7) bekezdéséhez]
+## Az Európai Gazdasági Térség országaiban résztanulmányokat folytató hallgatók ösztöndíja megállapításának és folyósításának rendje[^83]
 
 35. § (1) A felsőoktatási törvény 130. §-ának (6) bekezdésében meghatározott ösztöndíjalap terhére adományozott ösztöndíj esetében
 
@@ -17,3 +15,5 @@ e) az ösztöndíj átutalásáról a felsőoktatási intézmény lehetőleg a h
 f) sikertelen résztanulmányok esetében a felsőoktatási intézmény előírhatja a támogatás legfeljebb felének visszafizetését.
 
 (2) A részletszabályokat a felsőoktatási intézmény a térítési és juttatási szabályzatában határozza meg.
+
+[^83]: A 35. §-t megelőző alcím a 248/2012. (VIII. 31.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.

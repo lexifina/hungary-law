@@ -1,12 +1,10 @@
-## A hallgató fizetési kötelezettség teljesítéséhez mentesség, kedvezmény, részletfizetési lehetőség biztosításának feltételei és szabályai
-
-## [a felsőoktatási törvény 46. §-a (5) bekezdésének c) pontjához]
+## A hallgató fizetési kötelezettség teljesítéséhez mentesség, kedvezmény, részletfizetési lehetőség biztosításának feltételei és szabályai[^9]
 
 4. § (1) A hallgató fizetési kötelezettségének teljesítéséhez mentességet, részletfizetési kedvezményt, halasztást kérelme alapján kaphat.
 
 (2) A hallgató szociális alapon – az intézmény térítési és juttatási szabályzatában meghatározottak szerint – az alábbi fizetési kötelezettségek esetén részesülhet részletfizetési kedvezményben vagy engedélyezhető részére a fizetési kötelezettség halasztása:
 
-a)[^6]
+a)[^10]
 
 b) a térítési díj,
 
@@ -14,19 +12,23 @@ c) a kollégiumi díj.
 
 (3) A hallgató tanulmányi teljesítménye alapján – az intézmény térítési és juttatási szabályzatában meghatározottak szerint – mentesíthető a fizetési kötelezettség alól
 
-a)[^7]
+a)[^11]
 
-b) a felsőoktatási törvény 125. §-a (3) bekezdése alapján igénybe vett szolgáltatások térítési díja
+b)[^12] az Nftv. 82. §-ában foglaltak szerint igénybe vett szolgáltatások térítési díja
 
 ## esetében.
 
 (4) A kollégiumi díj befizetésének kötelezettsége alól szociális helyzete miatt mentesülhet az a hallgató, aki hátrányos helyzetű, aki árva, aki családfenntartó, vagy akinek gyámsága nagykorúsága miatt szűnt meg. Az intézmény a kollégiumi munkát végző hallgató számára a kollégiumi díjból kedvezményt, mentességet biztosíthat a térítési és juttatási szabályzatában meghatározottak szerint.
 
-(5) Nem adható mentesség, részletfizetési kedvezmény vagy halasztott fizetési lehetőség a felsőoktatási törvény 125. §-ának (4) bekezdése alapján a térítési és juttatási szabályzatban meghatározott mulasztási és késedelmes teljesítési díj megfizetése alól, továbbá a közösségi célú tevékenységben való részvétel alapján.
+(5)[^13] Nem adható mentesség, részletfizetési kedvezmény vagy halasztott fizetési lehetőség az Nftv. 82. § (2) bekezdése alapján a térítési és juttatási szabályzatban meghatározott mulasztási és késedelmes teljesítési díj megfizetése alól, továbbá a közösségi célú tevékenységben való részvétel alapján.
 
-(6) A fizetési kötelezettség teljesítéséhez kapcsolódó kérelem tárgyában a szervezeti és működési szabályzatban meghatározottak szerint a felsőoktatási törvény 27. §-ának (11) bekezdése szerint létrehozott bizottság vagy az intézményi szabályzat hallgatói követelményrendszere részében megjelölt szervezet jár el.
+(6)[^14] A fizetési kötelezettség teljesítéséhez kapcsolódó kérelem tárgyában a szervezeti és működési szabályzatban meghatározottak szerint létrehozott bizottság vagy az intézményi szabályzat hallgatói követelményrendszere részében megjelölt szervezet jár el.
 
 (7) A fizetési kötelezettség teljesítése tárgyában hozott döntésről határozatot kell hozni. A részletfizetési lehetőséget biztosító határozatban rögzíteni kell a teljesítés határidejét és ütemezését, valamint az elmaradás következményeit. Elutasítás esetén a határozatban indokolni kell a döntést és tájékoztatást kell adni a jogorvoslati lehetőségről.
 
-[^6]: A 4. § (2) bekezdésének a) pontját a 66/2008. (III. 29.) Korm. rendelet 2. § (2) bekezdése b) pontjának ba) alpontja hatályon kívül helyezte.
-[^7]: A 4. § (3) bekezdésének a) pontját a 66/2008. (III. 29.) Korm. rendelet 2. § (2) bekezdése b) pontjának bb) alpontja hatályon kívül helyezte.
+[^9]: A 4. §-t megelőző alcím a 248/2012. (VIII. 31.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.
+[^10]: A 4. § (2) bekezdésének a) pontját a 66/2008. (III. 29.) Korm. rendelet 2. § (2) bekezdése b) pontjának ba) alpontja hatályon kívül helyezte.
+[^11]: A 4. § (3) bekezdésének a) pontját a 66/2008. (III. 29.) Korm. rendelet 2. § (2) bekezdése b) pontjának bb) alpontja hatályon kívül helyezte.
+[^12]: A 4. § (3) bekezdés b) pontja a 248/2012. (VIII. 31.) Korm. rendelet 32. § b) pontja szerint módosított szöveg.
+[^13]: A 4. § (5) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
+[^14]: A 4. § (6) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.

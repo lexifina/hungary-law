@@ -1,6 +1,4 @@
-## Az állami fenntartásban működő kollégiumok alapszolgáltatásai, a kérhető térítési díj legmagasabb összege, a kollégium komfortfokozat szerinti osztályba sorolásának feltételei
-
-## [a felsőoktatási törvény 52. §-ának (8) bekezdéséhez]
+## Az állami fenntartásban működő kollégiumok alapszolgáltatásai, a kérhető térítési díj legmagasabb összege, a kollégium komfortfokozat szerinti osztályba sorolásának feltételei[^49]
 
 ## A kollégiumi elhelyezés
 
@@ -21,3 +19,5 @@ d) a IV. kategóriába sorolható be a kollégiumi férőhely, amennyiben szobá
 (4) Az (1)–(3) bekezdés alkalmazása során felújítás minden olyan beruházás, amely a kollégium összértékéhez képest meghatározó költségráfordítás során a kollégiumi lakhatási körülményeket javítja, kivéve a kollégium állagmegőrzését célzó ráfordítást.
 
 (5) A 2007. január 1-je előtt hallgatói jogviszonyt létesítő, államilag támogatott doktori képzésben részt vevő hallgatót, amennyiben e rendelet hatálybalépése előtt kollégiumi elhelyezésben részesült, kérelme esetén fel kell venni a kollégiumba.
+
+[^49]: A 22. §-t megelőző alcím a 248/2012. (VIII. 31.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.

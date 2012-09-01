@@ -30,13 +30,17 @@ fc) legalább két kiskorú gyermeknek a gyámja;
 
 g) szociális juttatásra jogosult hallgató: az a teljes idejű felsőfokú szakképzésben, alap- és mesterképzésben, illetve egységes, osztatlan képzésben, valamint doktori képzésben részt vevő hallgató, aki
 
-ga) államilag támogatott képzési formában vesz részt, vagy
+ga)[^3] államilag támogatott képzési formában, vagy magyar állami (rész)ösztöndíjasként vesz részt, vagy
 
 gb) tanulmányait államilag támogatott képzési formában kezdte meg és az adott szakon, szakképzésben megkezdett féléveinek száma alapján jogosult lenne államilag támogatott képzésben való részvételre;
 
-h)[^2] saját bevétel: a felsőoktatási törvény 125. §-ának (3)–(4) bekezdése szerinti térítési díj, továbbá az intézményi szabályzatban meghatározott szolgáltatási díj, valamint az intézmény vállalkozási tevékenységének eredménye, gazdasági társaságtól kapott támogatásból származó bevétele, továbbá a pályázat útján kifejezetten ösztöndíj fizetésére kapott támogatás.
+h)[^4] saját bevétel: a felsőoktatási törvény 125. §-ának (3)–(4) bekezdése szerinti térítési díj, továbbá az intézményi szabályzatban meghatározott szolgáltatási díj, valamint az intézmény vállalkozási tevékenységének eredménye, gazdasági társaságtól kapott támogatásból származó bevétele, továbbá a pályázat útján kifejezetten ösztöndíj fizetésére kapott támogatás;
 
-(2)[^3]
+i)[^5] államilag támogatott hallgató: az államilag támogatott képzésben részt vevő hallgató, valamint 2012 szeptemberétől kezdődően magyar állami (rész)ösztöndíjas képzésre felvételt nyert hallgató. A magyar állami ösztöndíjas hallgatóhoz képest a magyar állami részösztöndíjas hallgatót a jogosultsági elszámoláskor és a részére biztosított támogatások tekintetében 0,5-ös szorzóval kell figyelembe venni.
 
-[^2]: A 2. § (1) bekezdésének h) pontja a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének a) pontjával megállapított szöveg.
-[^3]: A 2. § (2) bekezdését a 233/2007. (IX. 4.) Korm. rendelet 2. § (5) bekezdése hatályon kívül helyezte.
+(2)[^6]
+
+[^3]: A 2. § (1) bekezdés g) pont ga) alpontja a 248/2012. (VIII. 31.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdésének h) pontja a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének a) pontjával megállapított szöveg.
+[^5]: A 2. § (1) bekezdés i) pontját a 248/2012. (VIII. 31.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^6]: A 2. § (2) bekezdését a 233/2007. (IX. 4.) Korm. rendelet 2. § (5) bekezdése hatályon kívül helyezte.

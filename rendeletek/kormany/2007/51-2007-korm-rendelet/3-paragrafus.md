@@ -28,13 +28,13 @@ dc) tanulmányai megkezdésekor államilag finanszírozott egyszakos közismeret
 
 dd) olyan szakon folytat tanulmányokat, amelynek képesítési követelményei bemeneti követelményként előírják, hogy a hallgatónak felsőoktatási oklevéllel kell rendelkeznie, továbbá megkezdett féléveinek száma nem haladja meg a képesítési követelményekben előírt képzési idő féléveinek számát legalább 8 féléves képzés esetén hárommal, egyébként kettővel megnövelt értéket, vagy
 
-de)[^4] első kiegészítő alapképzésben vesz részt, hat féléven keresztül;
+de)[^7] első kiegészítő alapképzésben vesz részt, hat féléven keresztül;
 
 e) bármely szakon költségtérítéses képzésből az intézmény döntése alapján, az intézménynél már meglévő államilag finanszírozott helyre átvett hallgató a kilépett hallgató képzési idejéből még hátralévő időtartamban;
 
-f)[^5] 2006. március 1-je előtt felsőfokú szakképzés keretében tanulmányokat kezdett hallgató a felsőfokú szakképzés képzési idejét kettővel meghaladó számú félévig.
+f)[^8] 2006. március 1-je előtt felsőfokú szakképzés keretében tanulmányokat kezdett hallgató a felsőfokú szakképzés képzési idejét kettővel meghaladó számú félévig.
 
 (2) A felsőoktatási törvény 55. §-ának (2) és (4) bekezdése szerint minősül államilag támogatott képzésben részt vevőnek a 2006/2007-es tanévtől hallgatói jogviszonyt létesített személy.
 
-[^4]: A 3. § (1) bekezdése d) pontjának de) alpontja a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének b) pontja szerint módosított szöveg.
-[^5]: A 3. § (1) bekezdésének f) pontját a 372/2007. (XII. 23.) Korm. rendelet 20. §-a iktatta be.
+[^7]: A 3. § (1) bekezdése d) pontjának de) alpontja a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének b) pontja szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdésének f) pontját a 372/2007. (XII. 23.) Korm. rendelet 20. §-a iktatta be.

@@ -1,6 +1,6 @@
-19. § (1) Az Ösztöndíjrendszerrel kapcsolatos központi adatbázis-kezelői, koordinációs, a települési és megyei ösztöndíjjal kapcsolatos pénzkezelési feladatokat az oktatási és kulturális miniszter által kijelölt szervezet (a továbbiakban: pályázatkezelő szervezet) látja el.
+19. § (1)[^44] Az Ösztöndíjrendszerrel kapcsolatos központi adatbázis-kezelői, koordinációs, a települési és megyei ösztöndíjjal kapcsolatos pénzkezelési feladatokat az oktatásért felelős miniszter által kijelölt szervezet (a továbbiakban: pályázatkezelő szervezet) látja el.
 
-(2) Az intézményi ösztöndíjrészt az oktatási és kulturális miniszter adományozza.
+(2)[^45] Az intézményi ösztöndíjrészt az oktatásért felelős miniszter adományozza.
 
 (3) A települési, illetve a megyei önkormányzatok által az Ösztöndíjrendszer keretében pénzeszközátadásként a pályázatkezelő szervezet kezelésében levő számlára félévente egy összegben eljuttatott támogatást a pályázatkezelő szervezet félévente egy összegben, a kifizetés helyéül szolgáló felsőoktatási intézmény számára pénzeszközátadásként köteles átadni, és az átutalásról félévente köteles elszámolni a települési, illetve a megyei önkormányzatnak.
 
@@ -25,3 +25,6 @@ b) a hallgató képzésének megnevezése, munkarendje,
 c) a tanulmányok halasztása.
 
 (11) Az az ösztöndíjas, aki értesítési kötelezettségének nem tesz eleget, az ösztöndíj folyósításából és az Ösztöndíjrendszer következő évi fordulójából kizárható. Az ösztöndíjas 30 napon belül köteles a jogosulatlanul felvett ösztöndíjat a folyósító felsőoktatási intézmény részére visszafizetni. Az az ösztöndíjas, aki értesítési kötelezettségének elmulasztása miatt esik el az ösztöndíj folyósításától, a tanulmányi félév lezárását követően (június 30-ig, illetve január 31-ig) ki nem fizetett ösztöndíjára már nem tarthat igényt.
+
+[^44]: A 19. § (1) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 32. § l) pontja szerint módosított szöveg.
+[^45]: A 19. § (2) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 32. § l) pontja szerint módosított szöveg.
