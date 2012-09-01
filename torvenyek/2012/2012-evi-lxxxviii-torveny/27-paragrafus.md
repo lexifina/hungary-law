@@ -1,0 +1,15 @@
+## 17. Közösségi Gyors Tájékoztatási Rendszer
+
+27. § (1) A KPIR működtetéséért felelős fogyasztóvédelmi hatóság vesz részt a termékbiztonsággal kapcsolatos ügyekben illetékes piacfelügyeleti hatóságok európai hálózatában.
+
+(2) Magyarország a KPIR működtetéséért felelős fogyasztóvédelmi hatóságon keresztül kapcsolódik a Közösségi Gyors Tájékoztatási Rendszerhez (a továbbiakban: RAPEX).
+
+(3) Amennyiben a piacfelügyeleti hatóság a termék forgalomba hozatalát korlátozó, illetve kivonását vagy visszahívását elrendelő intézkedést hoz, vagy a gazdasági szereplőkkel olyan intézkedésekben állapodik meg, amelyek egy terméknek az értékesítését vagy használatát súlyos veszély miatt megakadályozzák, korlátozzák vagy különleges feltételekhez kötik, tájékoztatnia kell a KPIR működtetéséért felelős fogyasztóvédelmi hatóságot. A KPIR működtetéséért felelős fogyasztóvédelmi hatóság a hivatalos értesítési formanyomtatvány felhasználásával a RAPEX-en keresztül tájékoztatja az Európai Bizottságot az intézkedésekről, megjelölve azok okát is. A KPIR működtetéséért felelős fogyasztóvédelmi hatóság az intézkedések módosításáról vagy a termék visszahívásáról haladéktalanul tájékoztatja az Európai Bizottságot.
+
+(4) Amennyiben a veszély hatásai Magyarország határain nem terjednek túl, a KPIR működtetéséért felelős fogyasztóvédelmi hatóság az intézkedésekről olyan mértékben nyújt tájékoztatást az Európai Bizottság részére, amennyiben azok termékbiztonsági szempontból információkat tartalmaznak, és olyan új veszéllyel kapcsolatosak, amelyek más értesítésekben még nem szerepeltek.
+
+(5) Súlyos veszély esetén a KPIR működtetéséért felelős fogyasztóvédelmi hatóság értesíti az Európai Bizottságot a gazdasági szereplők által hozott önkéntes intézkedésekről. Amennyiben a KPIR működtetéséért felelős fogyasztóvédelmi hatóság az Európai Bizottság útján az Európai Unió más tagállamából származó, a fentieknek megfelelő értesítést kap, tájékoztatja az Európai Bizottságot a részéről megtett intézkedésekről.
+
+(6) Amennyiben az Európai Bizottság a fogyasztók egészségére és biztonságára az Európai Unió több tagállamában is súlyosan veszélyes termékről szerez tudomást és az Európai Unió érintett tagállamaival folytatott tanácskozást, valamint a veszély tekintetében illetékes tudományos bizottsággal folytatott konzultációt követően a 2001/95/EK irányelv 13. cikkének (1) bekezdése alapján határozatot hoz, a határozat tárgyát képező veszélyes terméknek az Európai Unió területéről történő kivitele – a határozat eltérő rendelkezése hiányában – tilos. A KPIR működtetéséért felelős fogyasztóvédelmi hatóság az Európai Bizottság határozata alapján haladéktalanul értesíti a piacfelügyeleti hatóságot, és az a határozatban megjelölt más határidő hiányában legfeljebb 20 napon belül meghoz minden szükséges intézkedést a határozat végrehajtása érdekében. A határozat végrehajtásáért felelős piacfelügyeleti hatóságnál az érintettek a határozat közzétételét követő 30 napon belül észrevételeket tehetnek.
+
+(7) A piacfelügyeleti hatóság az észrevételekről a KPIR működtetéséért felelős fogyasztóvédelmi hatóságon keresztül tájékoztatja az Európai Bizottságot.

@@ -1,0 +1,3 @@
+24. § (1) A piacfelügyeleti hatóság – figyelembe véve a jogszabályban meghatározott információszolgáltatási kötelezettségeket is – köteles a tudomására jutott tények vagy körülmények alapján a Központi Piacfelügyeleti Információs Rendszeren (a továbbiakban: KPIR) keresztül haladéktalanul tájékoztatni a KPIR működtetéséért felelős fogyasztóvédelmi hatóságot mindazon termékekről, amelyek nem felelnek meg a biztonságossági követelményeknek.
+
+(2) A KPIR működtetéséért felelős fogyasztóvédelmi hatóság a termékek biztonságosságára vonatkozóan tudomására jutott adatok alapján haladéktalanul tájékoztatja a piacfelügyeleti hatóságot, az országos gazdasági kamarát és a vámhatóságot, vagy ha az ügy más szerv hatáskörébe tartozik, megkeresi az eljárásra jogosult hatóságot.
