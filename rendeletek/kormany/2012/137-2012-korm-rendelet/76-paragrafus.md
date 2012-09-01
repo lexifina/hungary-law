@@ -1,3 +1,3 @@
-76. §[^83]
+76. §[^81]
 
-[^83]: A 75–80. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^81]: A 75–80. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
