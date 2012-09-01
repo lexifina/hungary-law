@@ -1,9 +1,9 @@
-5. § (1) Az e rendelet szerint pályázó tanulóról nyilvántartott adatok tekintetében a közoktatásról szóló 1993. évi LXXIX. törvény 2. számú mellékletének „A közoktatási intézményekben nyilvántartott és kezelt személyes és különleges adatok” cím, „A gyermek tanuló adatai” alcím 1–3. pontjában foglaltakat kell alkalmazni.
+5. § (1)[^1]
 
-(2)[^1]
+(2) Az e rendelet szerint pályázó tanulóról nyilvántartott adatok tekintetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény 41. § (4) bekezdés a) pontjában foglaltakat tartja nyilván.
 
 (3) Az e rendelet szerinti személyes adatokat a KIM az ösztöndíj támogatás megállapítása, a támogatási szerződés megkötése, a felhasználás ellenőrzése során, az ezzel összefüggő elszámolás elfogadásától, vagy a szerződéses jogviszony egyéb módon történő megszűnésétől számított 3 évig kezeli.
 
 (4) Az e rendelet szerinti adatok statisztikai célra felhasználhatók, és statisztikai felhasználás céljára személyazonosításra alkalmatlan módon átadhatók.
 
-[^1]: Az 5. § (2) bekezdése a 6. § (2) bekezdése alapján 2012. szeptember 1-jén lép hatályba.
+[^1]: Az 5. § (1) bekezdését a 6. § (4) bekezdése hatályon kívül helyezte.
