@@ -2,9 +2,9 @@
 
 (2) Az 5. § (2) bekezdése 2012. szeptember 1-jén lép hatályba.
 
-(3)[^2]
+(3)[^3]
 
-(4) E rendelet 5. § (1) bekezdése 2012. szeptember 1-jén veszti hatályát.
+(4)[^4]
 
 Melléklet a 8/2012. (II. 22.) KIM rendelethez
 
@@ -88,4 +88,5 @@ P. H.
 
 | Közigazgatási és Igazságügyi Minisztérium 1055 Budapest, Kossuth Lajos tér 4. Telefonszám: (06 1) 795 6483 Kérjük, hogy a borítékra írják rá: Nemzetiségi Tanulmányi Ösztöndíj |
 
-[^2]: A 6. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 6. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 6. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
