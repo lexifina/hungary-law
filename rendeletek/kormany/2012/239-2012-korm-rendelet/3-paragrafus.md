@@ -1,0 +1,5 @@
+## 2. § A Kr. 38. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) Ha a biztosított az újabb biztosítási kötelezettséggel járó jogviszonyának kezdetekor az Igazolványt és a 37/A. § szerinti jövedelemigazolást nem adja át, a foglalkoztató köteles a biztosítottat felhívni, hogy az Igazolványt, illetve a jövedelemigazolást az előző foglalkoztatójától szerezze be, kivéve, Igazolvány esetében, ha a biztosítás kezdetétől számított két éven belül, jövedelemigazolás esetében a jogviszony kezdetét megelőző év első napjától nem állt biztosítási kötelezettséggel járó jogviszonyban. Erről a tényről a biztosítottnak írásban kell nyilatkoznia. Amennyiben a biztosított a foglalkoztató felhívására nem szerzi be az előző foglalkoztatójától a jövedelemigazolást, úgy pénzbeli ellátás iránti igény benyújtása esetén az ellátásra való jogosultság elbírálására jogosult szerv a rendelkezésére álló adatok alapján dönt. A nyilatkozatot a foglalkoztató köteles öt évig megőrizni.”
+
+3. § Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
