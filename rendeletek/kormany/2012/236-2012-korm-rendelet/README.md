@@ -1,0 +1,9 @@
+# 236/2012. (VIII. 30.) Korm. rendelet
+
+egyes kormányrendeleteknek az Erzsébet-programmal, valamint a családtámogatási eljárások egyszerűsítésével összefüggő módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-236-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-09-02 | 2012-236-20-22.1 | 236/2012. (VIII. 30.) Korm. rendelet |
