@@ -2,8 +2,6 @@
 
 1. § (1)
 
-(2) A Hszt. 1. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) A tartalékállományra vonatkozó rendelkezéseket a szolgálati viszony megszűnését követően a hivatásos állományból tartalékállományba helyezettekre is alkalmazni kell.”
+(2)
 
 (3)
