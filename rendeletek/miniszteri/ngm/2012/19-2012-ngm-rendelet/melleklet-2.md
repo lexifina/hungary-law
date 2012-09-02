@@ -248,44 +248,6 @@
 
 ## Olvasható név /aláírás
 
-2. melléklet a 19/2012. (VII. 20.) NGM rendelethez
+2. melléklet a 19/2012. (VII. 20.) NGM rendelethez[^2]
 
-„2. melléklet a 30/2009. (XI. 26.) NFGM rendelethez
-
-|  | Végezhető tevékenység | Végzettség/képesítés | Gyak. idő |
-
-| 1. | Csatlakozóvezeték és felhasználói berendezés létesítése, üzembe helyezése, karbantartása, üzemzavar elhárítása, felhagyása | 1.1. Gázvezeték- és készülékszerelő mestervizsga | – |
-
-| 1.2. Épületgépész mérnök, gázipari mérnök, vegyipari gépészmérnök, gázipari szakmérnök, épületgépész üzemmérnök, gázszolgáltatói szak-üzemmérnök és gázfogyasztóberendezés- és csőhálózat-szerelő szakképesítés | 3 |
-
-| 1.3. Épületgépész technikus, gázipari technikus, és gázfogyasztóberendezés- és csőhálózat-szerelő szakképesítés | 3 |
-
-| 2. | Felhasználói berendezés létesítése, üzembe helyezése, karbantartása, üzemzavar elhárítása, felhagyása | 2.1. Gáz- és olajtüzelőberendezés-szerelő, üzembe helyező mestervizsga vagy gázvezeték- és készülékszerelő mestervizsga | – |
-
-| 2.2. Épületgépész mérnök, gázipari mérnök, vegyipari gépészmérnök, gázipari szakmérnök, épületgépész üzemmérnök, gázszolgáltatói szak-üzemmérnök, és gáz- és tüzeléstechnikai műszerész szakképesítés | 3 |
-
-| 2.3. Épületgépész mérnök, gázipari mérnök, vegyipari gépészmérnök, gázipari szakmérnök, épületgépész üzemmérnök, gázszolgáltatói szak-üzemmérnök, és gázfogyasztóberendezés- és csőhálózat-szerelő | 3 |
-
-| 2.4. Épületgépész technikus, gázipari technikus, és gáz- és tüzeléstechnikai műszerész szakképesítés | 3 |
-
-| 2.5. Épületgépész technikus, gázipari technikus, és gázfogyasztóberendezés- és csőhálózat-szerelő szakképesítés | 3 |
-
-| 3. | Csatlakozóvezeték és felhasználói berendezés műszaki biztonsági felülvizsgálata | 3.1. Gázvezeték- és készülékszerelő mestervizsga, és gázipari műszaki biztonsági felülvizsgáló szakképesítés | – |
-
-| 3.2. Gáz- és olajtüzelőberendezés-szerelő, üzembe helyező mestervizsga, és gázipari műszaki-biztonsági felülvizsgáló | 3 |
-
-| 3.3. Épületgépész mérnök, gázipari mérnök, vegyipari gépészmérnök, gázipari szakmérnök, épületgépész üzemmérnök, gázipari szaküzemmérnök, és gázipari műszaki-biztonsági felülvizsgáló szakképesítés | 3 |
-
-| 3.4. Épületgépész technikus, gázipari technikus, és gázipari műszaki-biztonsági felülvizsgáló szakképesítés | 3 |
-
-| 3.5. A Magyar Mérnöki Kamara közhiteles nyilvántartásában szereplő (G vagy GO betűjellel kezdődő) tervezői és szakértői jogosultsággal rendelkező szakember. |  |
-
-Megjegyzés:
-
-a) A felsőoktatásról szóló 1993. évi LXXX. törvény, valamint a felsőoktatásról szóló 2005. évi CXXXIX. törvény alapján szerzett azonos szakirányú okleveles mérnök (egyetemi szintű) és mérnök (főiskolai szintű) végzettséggel a tevékenységek szintén elláthatók. Az egyetemi és főiskolai szakok megnevezését a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendelet tartalmazza.
-
-b) A gázfogyasztó készülék üzembe helyezésére az e mellékletben megjelölt képesítéssel, végzettséggel rendelkező készülék gyártója vagy a gyártó által megbízott gázszerelő jogosult.
-
-c) A csatlakozó és fogyasztói vezeték létesítésére az e mellékletben megjelölt képesítéssel, végzettséggel és az alkalmazott technológiához más jogszabályban előírt feltételeknek megfelelő gázszerelő jogosult.
-
-”
+[^2]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
