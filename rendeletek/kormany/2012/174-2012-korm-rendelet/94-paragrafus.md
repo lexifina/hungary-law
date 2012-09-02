@@ -1,4 +1,4 @@
-## 93. §[^109]
+## 93. §[^110]
 
 94. § (1) E rendelet – a (2)–(3) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -8,7 +8,7 @@
 
 (4) E rendelet 2013. február 2-án hatályát veszti.
 
-Melléklet a 174/2012. (VII. 26.) Korm. rendelethez[^110]
+Melléklet a 174/2012. (VII. 26.) Korm. rendelethez[^111]
 
-[^109]: A 93. § a 94. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^110]: A melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^110]: A 93. § a 94. § (3) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^111]: A melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
