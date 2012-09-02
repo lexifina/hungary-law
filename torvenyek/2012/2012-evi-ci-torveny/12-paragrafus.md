@@ -1,3 +1,0 @@
-12. § A NAV tv. 25. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdés szerint megállapított eltérítés a tárgyévben akkor módosítható, ha a tárgyévben a kormánytisztviselőt, pénzügyőrt, ügykezelőt vezetői munkakörbe helyezik, vagy vezetői munkakörből nem vezetői munkakörbe helyezik, illetve címadományozásra vagy annak visszavonására, vagy a kormánytisztviselő, illetve a pénzügyőr II. besorolási osztályból I. besorolási osztályba történő átsorolására kerül sor. A módosítás eredményeként az alapilletmény nem lehet alacsonyabb, mint az e törvény alapján az eltérítés nélkül meghatározott összeg.”
