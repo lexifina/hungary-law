@@ -1,6 +1,6 @@
-6. § (1)[^21] A Hálózati Üzletszabályzat módosításának tervezetét – az (1a) bekezdésben meghatározott kivételekkel – a kapacitás-elosztó szervezet annak közzétételét legalább 30 nappal megelőzően köteles az egyeztetési lehetőség biztosítása érdekében honlapján nyilvánosságra hozni, valamint a nyilvánosságra hozatal tényéről a hozzáférésre jogosultakat elektronikus úton tájékoztatni. Az érdekeltek a nyilvánosságra hozatalt követő 10 napon belül tehetik meg a módosítás tervezetével kapcsolatos észrevételeiket, amiket a kapacitás-elosztó szervezet a módosítás véglegesítése során figyelembe vesz.
+6. § (1)[^23] A Hálózati Üzletszabályzat módosításának tervezetét – az (1a) bekezdésben meghatározott kivételekkel – a kapacitás-elosztó szervezet annak közzétételét legalább 30 nappal megelőzően köteles az egyeztetési lehetőség biztosítása érdekében honlapján nyilvánosságra hozni, valamint a nyilvánosságra hozatal tényéről a hozzáférésre jogosultakat elektronikus úton tájékoztatni. Az érdekeltek a nyilvánosságra hozatalt követő 10 napon belül tehetik meg a módosítás tervezetével kapcsolatos észrevételeiket, amiket a kapacitás-elosztó szervezet a módosítás véglegesítése során figyelembe vesz.
 
-(1a)[^22] A kapacitás-elosztó szervezet
+(1a)[^24] A kapacitás-elosztó szervezet
 
 a) a nyílt hozzáférésű vasúti pályahálózat működtetésére vonatkozó jogszabályokban,
 
@@ -14,5 +14,5 @@ bekövetkezett változásokat a Hálózati Üzletszabályzatban minden hónap 1.
 
 (3) A kapacitás-elosztó szervezet köteles valamennyi módosítást a Hálózati Üzletszabályzat elválaszthatatlan részét képező „Módosítások jegyzéke” című jegyzékben a hatálybalépés időpontjának feltüntetésével rögzíteni.
 
-[^21]: A 6. § (1) bekezdése a 6/2012. (II. 15.) NFM rendelet 2. §-ával megállapított szöveg.
-[^22]: A 6. § (1a) bekezdését a 6/2012. (II. 15.) NFM rendelet 2. §-a iktatta be.
+[^23]: A 6. § (1) bekezdése a 6/2012. (II. 15.) NFM rendelet 2. §-ával megállapított szöveg.
+[^24]: A 6. § (1a) bekezdését a 6/2012. (II. 15.) NFM rendelet 2. §-a iktatta be.

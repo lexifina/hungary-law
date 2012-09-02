@@ -2,7 +2,7 @@
 
 ## Az összehangolási eljárás
 
-19. §[^32] (1) Ha az ütköző igények előnyben részesítési sorrendje a 17. § alapján nem állapítható meg, a kapacitás-elosztó szervezet az összehangolási eljárást írásban vagy elektronikus úton kezdeményezi – valamennyi érintett igénylő és a vasúti igazgatási szerv egyidejű értesítése mellett – a vasúti pályahálózat-kapacitás iránt bejelentett igények ütközéséről szerzett tudomást követő két munkanapon belül.
+19. §[^34] (1) Ha az ütköző igények előnyben részesítési sorrendje a 17. § alapján nem állapítható meg, a kapacitás-elosztó szervezet az összehangolási eljárást írásban vagy elektronikus úton kezdeményezi – valamennyi érintett igénylő és a vasúti igazgatási szerv egyidejű értesítése mellett – a vasúti pályahálózat-kapacitás iránt bejelentett igények ütközéséről szerzett tudomást követő két munkanapon belül.
 
 (2) Az összehangolási eljárásról szóló értesítésben meg kell jelölni a vasúti pályahálózat-kapacitás iránt bejelentett igények ütközésével érintett kapacitást, az igénytől eltérően – figyelemmel a 12. § (3) bekezdésére – felajánlott kapacitást, az összehangolási eljárás helyét, idejét, valamint az összehangolási eljáráson való részvétel elmulasztásának következményeit.
 
@@ -46,4 +46,4 @@ e) a korábban benyújtott menetvonal-igényeknek
 
 biztosít elsőbbséget.
 
-[^32]: A 19. § a 45/2009. (IX. 17.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^34]: A 19. § a 45/2009. (IX. 17.) KHEM rendelet 2. §-ával megállapított szöveg.

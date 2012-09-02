@@ -36,7 +36,7 @@ n)[^7] fenntartott kapacitás: egy hozzáférésre jogosult részére a vasúti 
 
 o)[^8] menetrendi fekvés: a menetvonal-igénynek a vonat kezdőállomásról történő indulási időpontjára, a célállomásra történő érkezési időpontjára, valamint a köztes állomásokon és megállóhelyeken történő tartózkodás időtartamára vonatkozó adatai,
 
-p)[^9] menetrendi év: az éves üzemi menetrend érvényességi időtartamának január hónap első napjától december hónap második vasárnapjának 0.00 óráig terjedő részét magába foglaló naptári év,
+p)[^9] menetrendi év: az éves üzemi menetrend érvényességi időtartamának január hónap első napjától december hónap második szombatjának 24.00 óráig terjedő részét magába foglaló naptári év,
 
 q)[^10] pályahálózat-működtetői kapacitás-igény: a pályahálózat-működtető által a vasúti pályahálózat üzemeltetése, fejlesztése, felújítása, karbantartása érdekében igényelt kapacitás,
 
@@ -48,7 +48,7 @@ s)[^12] üzemi célú menetvonal: az üzemi menetrendben nem lekötött szabad k
 [^6]: A 3. § g) pontja a 13/2009. (III. 27.) KHEM rendelet 2. §-ával megállapított szöveg.
 [^7]: A 3. § n) pontját a 45/2009. (IX. 17.) KHEM rendelet 1. § (2) bekezdése iktatta be.
 [^8]: A 3. § o) pontját a 45/2009. (IX. 17.) KHEM rendelet 1. § (2) bekezdése iktatta be.
-[^9]: A 3. § p) pontját a 45/2009. (IX. 17.) KHEM rendelet 1. § (2) bekezdése iktatta be.
+[^9]: A 3. § p) pontját a 45/2009. (IX. 17.) KHEM rendelet 1. § (2) bekezdése iktatta be, szövege az 50/2012. (VIII. 28.) NFM rendelet 10. § a) pontja szerint módosított szöveg.
 [^10]: A 3. § q) pontját a 45/2009. (IX. 17.) KHEM rendelet 1. § (2) bekezdése iktatta be.
 [^11]: A 3. § r) pontját a 45/2009. (IX. 17.) KHEM rendelet 1. § (2) bekezdése iktatta be.
 [^12]: A 3. § s) pontját a 45/2009. (IX. 17.) KHEM rendelet 1. § (2) bekezdése iktatta be.

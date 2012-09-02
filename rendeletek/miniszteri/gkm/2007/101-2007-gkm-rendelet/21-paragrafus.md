@@ -1,4 +1,4 @@
-21. § (1)[^34] A túlterhelt vasúti pályaszakaszon a pályahálózat-működtető által igényelt menetvonal, illetve a pályahálózat működtetői pályakapacitás-igény elsőbbséget élvez, amennyiben
+21. § (1)[^36] A túlterhelt vasúti pályaszakaszon a pályahálózat-működtető által igényelt menetvonal, illetve a pályahálózat működtetői pályakapacitás-igény elsőbbséget élvez, amennyiben
 
 a) a kapacitás használata a jogszabályban foglaltak végrehajtásához szükséges, vagy
 
@@ -6,7 +6,7 @@ b) a pályahálózat-működtető karbantartási, felújítási vagy fejlesztés
 
 (2) A pályahálózat-működtető az (1) bekezdés szerinti elsőbbségi igényét csúcsidőszakon belül végzett vasúti közszolgáltatással szemben nem érvényesítheti.
 
-(3)[^35] Túlterhelt vasúti pályaszakaszon, az (1) és (2) bekezdésekben foglalt rendelkezések érvényesítését követően, az alábbi sorrend figyelembevételével – a szakosított infrastruktúraként kijelölt vasúti pályaszakaszok kivételével – elsőbbséget kell biztosítani
+(3)[^37] Túlterhelt vasúti pályaszakaszon, az (1) és (2) bekezdésekben foglalt rendelkezések érvényesítését követően, az alábbi sorrend figyelembevételével – a szakosított infrastruktúraként kijelölt vasúti pályaszakaszok kivételével – elsőbbséget kell biztosítani
 
 a) a vasúti közszolgáltatásnak,
 
@@ -32,5 +32,5 @@ e) a rendszeresen közlekedő vonatok menetvonal-igényeinek,
 
 f) a korábban benyújtott menetvonal-igényeknek.
 
-[^34]: A 21. § (1) bekezdés bevezető szövegrésze a 45/2009. (IX. 17.) KHEM rendelet 8. § (2) bekezdés g) pontja szerint módosított szöveg.
-[^35]: A 21. § (3) bekezdése a 45/2009. (IX. 17.) KHEM rendelet 4. §-ával megállapított szöveg.
+[^36]: A 21. § (1) bekezdés bevezető szövegrésze a 45/2009. (IX. 17.) KHEM rendelet 8. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^37]: A 21. § (3) bekezdése a 45/2009. (IX. 17.) KHEM rendelet 4. §-ával megállapított szöveg.
