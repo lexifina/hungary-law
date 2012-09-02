@@ -1,18 +1,17 @@
-## lép.
+## 4–11. §[^9]
 
 ## 12. § Hatályát veszti az R.
 
-a)[^4]
+a)[^10]
 
-b) 12/A. § (4) bekezdése,
+b)–d)[^11]
 
-c) 16/G. § (3) bekezdésében a „felhasználó” szövegrészek,
+e)[^12]
 
-d) 23. §-a és 24. §-a,
+f)[^13]
 
-e)[^5]
-
-f) 9. melléklete.
-
-[^4]: A 12. § a) pontja a 13. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^5]: A 12. § e) pontja a 13. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^9]: A 4–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 12. § a) pontja a 13. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^11]: A 12. § b)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 12. § e) pontja a 13. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^13]: A 12. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
