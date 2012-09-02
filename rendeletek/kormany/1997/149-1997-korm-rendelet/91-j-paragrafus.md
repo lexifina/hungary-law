@@ -32,7 +32,7 @@ d) a felülvizsgálattal érintett időszakban betöltötte a 16. életévét.
 
 (8)[^449]
 
-[^439]: A 91/J. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be.
+[^439]: A 91/J. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be. [A 91/J. §-nak a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével 2012. szeptember 1. napjával elrendelt módosítása – mivel a módosító rendelet 2012. szeptember 2-án lépett hatályba – nem vezethető át.]
 [^440]: A 91/J. § (1) bekezdés nyitó szövegrésze a 21/2012. (II. 29.) Korm. rendelet 17. § i) pontja szerint módosított szöveg.
 [^441]: A 91/J. § (1) bekezdés b) pontja a 360/2010. (XII. 30.) Korm. rendelet 25. § 15. pontja, a 21/2012. (II. 29.) Korm. rendelet 17. § j) pontja szerint módosított szöveg.
 [^442]: A 91/J. § (1) bekezdés d) pontja a 21/2012. (II. 29.) Korm. rendelet 17. § k) pontja szerint módosított szöveg.

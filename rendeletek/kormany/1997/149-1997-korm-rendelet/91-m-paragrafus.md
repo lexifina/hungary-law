@@ -30,8 +30,8 @@ h)[^462]
 
 i)[^463]
 
-[^456]: A 91/M. §-t megelőző alcímet a 237/2010. (IX. 13.) Korm. rendelet 9. §-a iktatta be.
-[^457]: A 91/M. §-t a 237/2010. (IX. 13.) Korm. rendelet 9. §-a iktatta be.
+[^456]: A 91/M. §-t megelőző alcímet a 237/2010. (IX. 13.) Korm. rendelet 9. §-a iktatta be. [A 91/M. §-t megelőző alcímnek a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontjával 2012. szeptember 1. napjával elrendelt módosítása – mivel a módosító rendelet 2012. szeptember 2-án lépett hatályba – nem vezethető át.]
+[^457]: A 91/M. §-t a 237/2010. (IX. 13.) Korm. rendelet 9. §-a iktatta be. [A 91/M. §-nak a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontjával 2012. szeptember 1. napjával elrendelt módosítása – mivel a módosító rendelet 2012. szeptember 2-án lépett hatályba – nem vezethető át.]
 [^458]: A 91/M. § (1) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 10. pontja szerint módosított szöveg.
 [^459]: A 91/M. § (2) bekezdés b) pontját a 21/2012. (II. 29.) Korm. rendelet 16. § d) pontja hatályon kívül helyezte.
 [^460]: A 91/M. § (2) bekezdés e) pontja a 21/2012. (II. 29.) Korm. rendelet 17. § m) pontja szerint módosított szöveg.

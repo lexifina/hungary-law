@@ -20,4 +20,4 @@ bb) a 16. életévét betöltötte, döntés kibocsátása nélkül kezdeményez
 
 (7) Ha a gyermek igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma a 16. életévének betöltését megelőző utolsó felülvizsgálat és az azt követő első felülvizsgálat közötti időtartamban eléri a tízet, a családtámogatási folyószámlán összegyűlt összeget a központi költségvetés családi pótlék előirányzat javára vissza kell fizetni.
 
-[^430]: A 91/G. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 21/2012. (II. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^430]: A 91/G. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 21/2012. (II. 29.) Korm. rendelet 4. §-ával megállapított szöveg. [A 91/G. §-nak a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével 2012. szeptember 1. napjával elrendelt módosítása – mivel a módosító rendelet 2012. szeptember 2-án lépett hatályba – nem vezethető át.]

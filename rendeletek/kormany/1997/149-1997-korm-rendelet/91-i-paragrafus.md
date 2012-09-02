@@ -10,7 +10,7 @@
 
 (6)[^438] A jegyző fennálló védelembe vétel esetén jogerős határozatát közli a kirendelt családgondozóval, egyidejűleg felhívja az egyéni gondozási-nevelési terv felülvizsgálatára és annak harminc napon belül történő megküldésére. Az iskoláztatási támogatás felfüggesztésével érintett gyermek egyéni gondozási-nevelési tervének tartalmaznia kell a tankötelezettség, iskolalátogatási kötelezettség teljesítésének előmozdítása érdekében szükséges feladatokat, így különösen a közoktatási intézményben igénybe vehető, a gyermeknek a felzárkóztatását célzó foglalkozásokon, fejlesztő foglalkoztatáson, képesség-kibontakoztató felkészítésen való részvételének biztosítására irányuló intézkedéseket.
 
-[^433]: A 91/I. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be.
+[^433]: A 91/I. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be. [A 91/I. §-nak a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével 2012. szeptember 1. napjával elrendelt módosítása – mivel a módosító rendelet 2012. szeptember 2-án lépett hatályba – nem vezethető át.]
 [^434]: A 91/I. § (1) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 5. pontja szerint módosított szöveg.
 [^435]: A 91/I. § (2) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 24. § d) pontja hatályon kívül helyezte.
 [^436]: A 91/I. § (4) bekezdését a 21/2012. (II. 29.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.

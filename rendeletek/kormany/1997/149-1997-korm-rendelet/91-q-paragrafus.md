@@ -30,7 +30,7 @@ a) a szülő vagy más törvényes képviselő tájékoztatását arról, hogy a
 
 b) a gyermek védelembe vételének a 91/K. § (2) bekezdése szerinti fenntartását vagy megszüntetését.
 
-[^485]: A 91/Q. §-t a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be.
+[^485]: A 91/Q. §-t a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be. [A 91/Q. §-nak a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés c) pontjával 2012. szeptember 1. napjával elrendelt módosítása – mivel a módosító rendelet 2012. szeptember 2-án lépett hatályba – nem vezethető át.]
 [^486]: A 91/Q. § (1) bekezdés c) pontja a 360/2010. (XII. 30.) Korm. rendelet 25. § 10. pontja szerint módosított szöveg.
 [^487]: A 91/Q. § (2) bekezdése a 21/2012. (II. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^488]: A 91/Q. § (3) bekezdése a 21/2012. (II. 29.) Korm. rendelet 10. §-ával megállapított szöveg.

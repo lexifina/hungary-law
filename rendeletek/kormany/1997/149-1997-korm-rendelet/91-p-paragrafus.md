@@ -62,8 +62,8 @@ l)[^483]
 
 (5)[^484] A jegyző a családtámogatási folyószámlára érkező iskoláztatási támogatást havonta, a családtámogatási folyószámlára történő átutalását követően legkésőbb nyolc napon belül kifizeti az eseti gondnoknak.
 
-[^476]: A 91/P. §-t megelőző alcímet a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be.
-[^477]: A 91/P. §-t a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be.
+[^476]: A 91/P. §-t megelőző alcímet a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be. [A 91/P. §-t megelőző alcímnek a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés c) pontjával 2012. szeptember 1. napjával elrendelt módosítása – mivel a módosító rendelet 2012. szeptember 2-án lépett hatályba – nem vezethető át.]
+[^477]: A 91/P. §-t a 237/2010. (IX. 13.) Korm. rendelet 10. §-a iktatta be. [A 91/P. §-nak a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés c) pontjával 2012. szeptember 1. napjával elrendelt módosítása – mivel a módosító rendelet 2012. szeptember 2-án lépett hatályba – nem vezethető át.]
 [^478]: A 91/P. § (1) bekezdés nyitó szövegrésze a 360/2010. (XII. 30.) Korm. rendelet 25. § 10. pontja szerint módosított szöveg.
 [^479]: A 91/P. § (4) bekezdés b) pontját a 21/2012. (II. 29.) Korm. rendelet 16. § e) pontja hatályon kívül helyezte.
 [^480]: A 91/P. § (4) bekezdés h) pontja a 21/2012. (II. 29.) Komr. rendelet 17. § m) pontja szerint módosított szöveg.

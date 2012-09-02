@@ -8,5 +8,5 @@
 
 (5)[^432] Az eseti gondnok elszámolására és felmentésére a 91/D. § (8)–(10) bekezdését kell alkalmazni.
 
-[^431]: A 91/H. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be.
+[^431]: A 91/H. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be. [A 91/H. §-nak a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével 2012. szeptember 1. napjával elrendelt módosítása – mivel a módosító rendelet 2012. szeptember 2-án lépett hatályba – nem vezethető át.]
 [^432]: A 91/H. § (5) bekezdése a 21/2012. (II. 29.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.

@@ -68,7 +68,7 @@ e)[^471] a gyermek védelembe vételének a 91/K. § (2) bekezdése szerinti fen
 
 (7)[^472] A (2) bekezdés b) pontja és d) pont da) alpontja szerinti esetben a jegyző a családtámogatási folyószámlán összegyűlt iskoláztatási támogatás havi részleteit a felfüggesztés időtartamával megegyező számú hónapig, minden hónap 10. napjáig kifizeti az eseti gondnok részére.
 
-[^464]: A 91/N. §-t a 237/2010. (IX. 13.) Korm. rendelet 9. §-a iktatta be.
+[^464]: A 91/N. §-t a 237/2010. (IX. 13.) Korm. rendelet 9. §-a iktatta be. [A 91/N. §-nak a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontjával 2012. szeptember 1. napjával elrendelt módosítása – mivel a módosító rendelet 2012. szeptember 2-án lépett hatályba – nem vezethető át.]
 [^465]: A 91/N. § (2) bekezdése a 21/2012. (II. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^466]: A 91/N. § (2a) bekezdését a 21/2012. (II. 29.) Korm. rendelet 8. § (2) bekezdése iktatta be.
 [^467]: A 91/N. § (3) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 10. pontja, a 21/2012. (II. 29.) Korm. rendelet 17. § n) pontja szerint módosított szöveg.

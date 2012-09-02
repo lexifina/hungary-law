@@ -16,6 +16,6 @@ bc)[^475] értesíti az illetékességváltozásról a Magyar Államkincstárnak
 
 (2) A jegyző az eseti gondnokot az elszámolás elfogadását követően határozatával felmenti, és határozatát közli az illetékessé vált jegyzővel.
 
-[^473]: A 91/O. §-t a 237/2010. (IX. 13.) Korm. rendelet 9. §-a iktatta be.
+[^473]: A 91/O. §-t a 237/2010. (IX. 13.) Korm. rendelet 9. §-a iktatta be. [A 91/O. §-nak a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontjával 2012. szeptember 1. napjával elrendelt módosítása – mivel a módosító rendelet 2012. szeptember 2-án lépett hatályba – nem vezethető át.]
 [^474]: A 91/O. § (1) bekezdés a) pont ab) alpontja a 113/2011. (VII. 7.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^475]: A 91/O. § (1) bekezdés b) pont bc) alpontja a 113/2011. (VII. 7.) Korm. rendelet 7. §-a szerint módosított szöveg.
