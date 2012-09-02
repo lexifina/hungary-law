@@ -42,6 +42,8 @@ s) az országos tanulmányi verseny szabályzatát,
 
 t) a Köznevelési Hídprogram megszervezésének feltételeit, a Köznevelési Hídprogramban folytatott képzéshez szükséges nevelési-oktatási programokat, a Köznevelési Hídprogramba történő bekapcsolódás részletes szabályait,
 
+u) az elektronikus és a papírformátumú nyomtatványok előállításához és forgalmazásához, a tanügyi nyilvántartások elektronikus alkalmazásához szükséges engedély kiadásának szabályait, valamint az engedélyezési eljárással összefüggő igazgatási szolgáltatási díj megállapításának, befizetésének és felhasználásának kérdéseit,
+
 rendeletben állapítsa meg.
 
 (2) Az oktatásért felelős miniszter az (1) bekezdésben meghatározott jogkörét

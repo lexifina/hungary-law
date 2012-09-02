@@ -10,7 +10,7 @@
 
 (5) A 6. § (2) bekezdés e) pont „szakközépiskolában a szakközépiskola ágazatának megfelelő szakmai vizsgatárgy” szövegrésze 2016. január 1-jén lép hatályba.
 
-(6) Hatályát veszti a közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: Kt.) 1–3. §-a, 4. § (1)–(3) bekezdése, 4. § (5)–(7) bekezdése, 4/A–5. §-a, 6. § (1) és (3)–(6) bekezdése, 7–11. §-a, 12. § (1) bekezdés b)–h) pontja, (2)–(6) bekezdése, 13–14. §-a, 15. § (1)–(2) és (5)–(6) bekezdése, 16. § (2)–(3) és (5)–(7) bekezdése, 17. §-a, 18–20. §-a, 22–23. §-a, 24. § (1) bekezdése, 25–26. §-a, 28. §-a, 30–33. §, 36–38. §-a, 39. § (1)–(2) és (4) bekezdése, 40–51. §-a, 52. § (15)–(16) bekezdése, 54. §-a, 55. § (1)–(4) bekezdése, 56–65. §-a, 66. § (1)–(8) bekezdése és (10)–(11) bekezdése, 67–68. §-a, 69. § (3)–(5) bekezdése, 70–73. §-a, 75–77. §-a, 78. § (1) bekezdése, 78. § (3)–(7) bekezdése, 79–84. §-a, 92–93. §-a, 94. § (1)–(2) bekezdése, 94. § (3) bekezdés a)–e), g)–k) pontja, m)–p) pontjai, 94. § (4)–(7) bekezdése, 95–117. §, 118. § (1)–(2) bekezdése és (7)–(11) bekezdése, 119–120. §-a, 121. § (1) bekezdés 1–13. pontja, 15–46. pontja, (2)–(10) bekezdése, 122. § (2)–(15) bekezdése, 122/A–127. §-a, 128. § (1)–(7), (9)–(23), 129–133. §-a és 2. számú melléklete.
+(6)
 
 (7)
 
