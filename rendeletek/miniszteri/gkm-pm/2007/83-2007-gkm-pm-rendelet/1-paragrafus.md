@@ -10,6 +10,8 @@ a) a nyílt hozzáférésű vasúti pályahálózatot működtető vasúti társ
 
 b) a Vasúti Pályakapacitás-elosztó Szervezetre (a továbbiakban: VPSZ),
 
-c) a hozzáférésre jogosultra [Vtv. 53. § (1) bekezdés], valamint
+c)[^1] a hozzáférésre jogosultra [Vtv. 53. §], valamint
 
 d) a vasúti igazgatási szervre.
+
+[^1]: Az 1. § c) pontja az 50/2012. (VIII. 28.) NFM rendelet 9. § a) pontja szerint módosított szöveg.

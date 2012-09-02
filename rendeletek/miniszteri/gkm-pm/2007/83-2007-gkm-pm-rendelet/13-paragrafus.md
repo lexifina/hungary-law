@@ -2,7 +2,7 @@
 
 ## DÍJSZÁMÍTÁS
 
-## Díjképzési Módszertan[^5]
+## Díjképzési Módszertan[^12]
 
 13. § (1) A díjmegállapító szervezet Díjképzési Módszertant (a továbbiakban: DM) készít.
 
@@ -42,12 +42,13 @@ c) a költségek és ráfordítások szolgáltatások közötti felosztásához 
 
 d) a pályahálózat-működtetési tevékenység külön jogszabály alapján elkülönített valamennyi költségének és ráfordításának a pályahálózat-működtető által nyújtott szolgáltatások közötti felosztását szabályozza.
 
-(5) A díjmegállapító szervezet a DM-et ötévente, az első naptári év február hónap végéig készíti el.
+(5)[^13] A díjmegállapító szervezet a DM-et öt menetrendi évre vonatkozóan, a DM által érintett első menetrendi év Hálózati Üzletszabályzatának nyilvánosságra hozatali időpontját megelőzően legalább 24 hónappal köteles elkészíteni és nyilvánosságra hozni.
 
-(6)[^6] A díjmegállapító szervezet a DM, a pályahálózat-működtető utolsó lezárt üzleti évének tényadatai, a DM-ben meghatározott egyéb adatforrások pályahálózat-működtető utolsó lezárt üzleti évére vonatkozó tényadatai, valamint a várható központi költségvetési támogatás mértéke alapján határozza meg a díjszabási rendszer adott menetrendi évre vonatkozó elemeit.
+(6)[^14] A díjmegállapító szervezet a DM, a pályahálózat-működtető utolsó lezárt üzleti évének tényadatai, a DM-ben meghatározott egyéb adatforrások pályahálózat-működtető utolsó lezárt üzleti évére vonatkozó tényadatai, valamint a várható központi költségvetési támogatás mértéke alapján határozza meg a díjszabási rendszer adott menetrendi évre vonatkozó elemeit.
 
-(7)[^7]
+(7)[^15]
 
-[^5]: A 13. §-t megelőző alcím a 17/2009. (IV. 8.) KHEM–PM együttes rendelet 8. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^6]: A 13. § (6) bekezdése a 17/2009. (IV. 8.) KHEM–PM együttes rendelet 5. §-ával megállapított szöveg.
-[^7]: A 13. § (7) bekezdését a 17/2009. (IV. 8.) KHEM–PM együttes rendelet 8. § (4) bekezdés b) pontja hatályon kívül helyezte.
+[^12]: A 13. §-t megelőző alcím a 17/2009. (IV. 8.) KHEM–PM együttes rendelet 8. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^13]: A 13. § (5) bekezdése az 50/2012. (VIII. 28.) NFM rendelet 5. §-ával megállapított szöveg.
+[^14]: A 13. § (6) bekezdése a 17/2009. (IV. 8.) KHEM–PM együttes rendelet 5. §-ával megállapított szöveg.
+[^15]: A 13. § (7) bekezdését a 17/2009. (IV. 8.) KHEM–PM együttes rendelet 8. § (4) bekezdés b) pontja hatályon kívül helyezte.
