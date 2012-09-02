@@ -1,1 +1,0 @@
-## „(4) A beiskolázási támogatás tankönyvre, tantárgyi munkafüzetre, tanszerre, tanfelszerelésre és ruházatra fordítható, egyszeri mértéke az öregségi nyugdíj mindenkori legkisebb összege. A beiskolázási támogatást a jegyző állapítja meg. A jegyző a támogatást számla alapján utólag téríti meg, amelynek összegét a menekültügyi hatóságtól visszaigényli.”
