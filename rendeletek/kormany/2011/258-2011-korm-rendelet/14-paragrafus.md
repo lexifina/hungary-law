@@ -14,9 +14,10 @@ c) az R8. 41. § (2a) bekezdése.
 
 (4)[^5]
 
-(5)[^6] 2012. szeptember 1-jén hatályát veszti a rendelet 17–20. §-a.
+(5)[^6]
 
-(6) 2012. szeptember 1-jén hatályát veszti az R. 22. §-a és az azt megelőző alcím.
+(6)[^7]
 
 [^5]: A 14. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 14. § (5) bekezdése a 107/2012. (VI. 1.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^6]: A 14. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 14. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

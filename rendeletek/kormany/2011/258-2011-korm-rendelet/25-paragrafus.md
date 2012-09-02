@@ -1,3 +1,3 @@
-## 24. §[^24]
+## 24. §[^25]
 
-[^24]: A 24. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
+[^25]: A 24. §-t a 14. § (4) bekezdése hatályon kívül helyezte.
