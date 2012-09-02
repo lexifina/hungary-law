@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Tamariska-domb természetvédelmi terület (a továbbiakban: természetvédelmi terület) elnevezéssel a Budapest XXI. kerület közigazgatási területén lévő, Budapest XXI. kerület 206759/5 ingatlan-nyilvántartási helyrajzi számú, 5,22 hektár kiterjedésű területet.
