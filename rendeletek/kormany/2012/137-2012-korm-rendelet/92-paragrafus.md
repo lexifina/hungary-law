@@ -1,5 +1,5 @@
 ## 15. Egyéb, az egészségüggyel összefüggő kormányrendeletek módosítása
 
-92. §[^97]
+92. §[^99]
 
-[^97]: A 92. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^99]: A 92. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
