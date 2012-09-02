@@ -1,3 +1,0 @@
-8. § Az Nftv. 46. § (3) bekezdése a következő szöveggel lép hatályba:
-
-„(3) A magyar állami ösztöndíjjal támogatott hallgató képzésének teljes költségét, a magyar állami részösztöndíjjal támogatott hallgató képzési költségének felét az állam, az önköltséges képzés költségeit a hallgató viseli. A magyar állami (rész)ösztöndíjjal támogatott képzésre tekintettel a hallgatói szerződések nyilvántartásáért felelős szerv által megállapított visszafizetési kötelezettség adók módjára behajtandó köztartozás. Bármely képzési ciklusban, felsőoktatási szakképzésben, szakirányú továbbképzésben részt vevő hallgató lehet magyar állami (rész)ösztöndíjjal támogatott, függetlenül annak munkarendjétől.”
