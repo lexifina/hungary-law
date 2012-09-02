@@ -6243,3 +6243,39 @@ Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizo
 | 5.2.5. | 10103-12 | Mázolási munkák fa-, fal-, fém és speciális felületeken | gyakorlati |
 
 | 5.2.6. | 10105-12 | Tapétázási munkák | szóbeli gyakorlati |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+
+5.3.1. Gyakorlati vizsgatevékenység:
+
+A) A vizsgafeladat megnevezése: Adott technológiával falfelület festése, díszítése tapétázása.
+
+A vizsgafeladat ismertetése: Előre előkészített felületen a bevonatrendszer fedő rétegének felhordása, díszítése, tapétázása (festhető tapéta alkalmazása).
+
+A vizsgafeladat időtartama: 300 perc
+
+A vizsgafeladat értékelési súlyaránya: 40%
+
+B) A vizsgafeladat megnevezése: – Mázolás készítése.
+
+A vizsgafeladat ismertetése: – Előre elkészített felületen a bevonatrendszer utolsó rétegének felhordása.
+
+A vizsgafeladat időtartama: 120 perc
+
+A vizsgafeladat aránya: 30%
+
+5.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: –
+
+A vizsgafeladat ismertetése: –
+
+A vizsgafeladat időtartama: –
+
+A vizsgafeladat értékelési súlyaránya: –
+
+5.3.3. Szóbeli vizsgatevékenység:
+
+A vizsgafeladat megnevezése: Festő, mázoló, tapétázó szakmai ismeretek
