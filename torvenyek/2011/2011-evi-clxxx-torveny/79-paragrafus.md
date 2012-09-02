@@ -6,21 +6,21 @@ b)
 
 c)
 
-d) 132/F. § (8) bekezdésében a „; de az utolsóként közzétett vételi ajánlatokat megelőzően közzétett vételi ajánlatokat csak az elektronikus árverési rendszer árverezőként történő használatára jogosult felhasználók tekinthetik meg” szövegrész,
+d)
 
 e)
 
-f) 145/C. § (2) bekezdés második mondata, (3) bekezdés b) pontjában a „vagy annak többszörösével” szövegrész és (4)–(6) bekezdése,
+f)
 
-g) 146. §-a,
+g)
 
-h) 147. § (5) bekezdése,
+h)
 
-i) 148. §-a,
+i)
 
-j) 152. § (4) bekezdése,
+j)
 
-k) 156. § (3) bekezdése, valamint (5) és (6) bekezdése,
+k)
 
 l)
 
