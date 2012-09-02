@@ -1,3 +1,3 @@
-## 6. §[^6]
+## 6. §[^10]
 
-[^6]: A 6. § a 10. § (2) bekezdése alapján 2014. január 1. napjával lép hatályba.
+[^10]: A 6. § a 10. § (2) bekezdése alapján 2014. január 1. napjával lép hatályba.
