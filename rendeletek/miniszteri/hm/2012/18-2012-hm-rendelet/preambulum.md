@@ -1,5 +1,0 @@
-A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 287. § (2) bekezdés i) pontjában és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (7) bekezdés a) pont ac) alpontjában,
-
-a 2. alcím tekintetében a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 24. § (6) bekezdésében, a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 287. § (2) bekezdés a) pont ac) alpontjában
-
-kapott felhatalmazás alapján – a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 2. § (1) bekezdésében meghatározott feladatkörömben eljárva – a következőket rendelem el:
