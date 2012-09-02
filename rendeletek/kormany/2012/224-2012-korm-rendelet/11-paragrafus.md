@@ -1,3 +1,3 @@
-## 10. § Az R. 25. §-a a következő (7) bekezdéssel egészül ki:
+## 10. §[^3]
 
-## „(7) A Diákhitel szervezet feladatait a Diákhitel Központ Zrt. látja el.”
+[^3]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
