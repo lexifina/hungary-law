@@ -1,3 +1,5 @@
-## 25. § Hatályát veszti az R2. 18. § (3) bekezdésének „[Ftv. 107. § (3)–(4) bekezdés, 116. § (2) bekezdés]” szövegrésze.
-
 ## 6. A felsőoktatásban részt vevő hallgatók juttatásairól és az általuk fizetendő egyes térítésekről szóló 51/2007. (III. 26.) Korm. rendelet módosítása
+
+26. §[^15]
+
+[^15]: A 26–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,7 @@
-## 34. §[^3]
-
 ## 8. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény egyes rendelkezéseinek végrehajtásáról szóló
 
 ## 363/2011. (XII. 30.) Korm. rendelet módosítása
 
-[^3]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+35. §[^24]
+
+[^24]: A 35–37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

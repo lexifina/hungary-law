@@ -14,7 +14,7 @@ ad) az adott képzésen a képzési idő másfélszeresének leteltét követő 
 
 b) az Nftv. 48/A. § d) pontja szerinti visszatérítési kötelezettség az oklevél – ennek hiányában a végbizonyítvány – kiállítása napjától számított húsz év elteltével
 
-## válik esedékessé.
+válik esedékessé.
 
 (2) Az Nftv. 48/A. § b) és d) pontja szerinti kötelezettség teljesítését – az Nftv. 48/B. § (7) bekezdésében meghatározottakon felül – képzésenként kell számítani azzal, hogy a hallgató számára kedvezőbb számítási módot kell alkalmazni a teljesítés során.
 
