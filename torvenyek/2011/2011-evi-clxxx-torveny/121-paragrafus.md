@@ -1,1 +1,0 @@
-121. § E törvény 95., 96. és 98. §-ai a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározat végrehajtásához szükséges rendelkezéseket állapítanak meg.
