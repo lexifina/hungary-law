@@ -1,6 +1,6 @@
-9. § (1)[^14]
+9. § (1)[^16]
 
-(2)[^15]
+(2)[^17]
 
-[^14]: [Mivel a 20. § (2) bekezdése nem hajtható végre, ezért nem lép hatályba.]
-[^15]: A 9. § (2) bekezdése a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^16]: [Mivel a 20. § (2) bekezdése nem hajtható végre, ezért nem lép hatályba.]
+[^17]: A 9. § (2) bekezdése a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.

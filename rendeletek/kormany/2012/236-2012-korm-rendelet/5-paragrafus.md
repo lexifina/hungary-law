@@ -1,3 +1,3 @@
-## 4. §[^3]
+## 4. §[^4]
 
-[^3]: [Mivel a 20. § (2) bekezdése nem hajtható végre, ezért nem lép hatályba.]
+[^4]: [Mivel a 20. § (2) bekezdése nem hajtható végre, ezért nem lép hatályba.]

@@ -1,12 +1,12 @@
-## 17. §[^26]
+## 17. §[^28]
 
-18. § (1)[^27]
+18. § (1)[^29]
 
-(2)[^28]
+(2)[^30]
 
-(3)[^29]
+(3)[^31]
 
-[^26]: A 17. § a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
-[^27]: [Mivel a 20. § (2) bekezdése nem hajtható végre, ezért nem lép hatályba.]
-[^28]: A 18. § (2) bekezdése a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^29]: A 18. § (3) bekezdése a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
+[^28]: A 17. § a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
+[^29]: [Mivel a 20. § (2) bekezdése nem hajtható végre, ezért nem lép hatályba.]
+[^30]: A 18. § (2) bekezdése a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^31]: A 18. § (3) bekezdése a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.

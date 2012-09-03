@@ -1,3 +1,3 @@
-## 15. §[^24]
+## 15. §[^26]
 
-[^24]: [Mivel a 20. § (2) bekezdése nem hajtható végre, ezért nem lép hatályba.]
+[^26]: [Mivel a 20. § (2) bekezdése nem hajtható végre, ezért nem lép hatályba.]

@@ -1,12 +1,12 @@
-## 10. §[^16]
+## 10. §[^18]
 
-11. § (1)[^17]
+11. § (1)[^19]
 
-(2)[^18]
+(2)[^20]
 
-(3)[^19]
+(3)[^21]
 
-[^16]: A 10. § a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
-[^17]: A 11. § (1) bekezdése a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^18]: [Mivel a 20. § (2) bekezdése nem hajtható végre, ezért nem lép hatályba.]
-[^19]: [Mivel a 20. § (2) bekezdése nem hajtható végre, ezért nem lép hatályba.]
+[^18]: A 10. § a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
+[^19]: A 11. § (1) bekezdése a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^20]: [Mivel a 20. § (2) bekezdése nem hajtható végre, ezért nem lép hatályba.]
+[^21]: [Mivel a 20. § (2) bekezdése nem hajtható végre, ezért nem lép hatályba.]

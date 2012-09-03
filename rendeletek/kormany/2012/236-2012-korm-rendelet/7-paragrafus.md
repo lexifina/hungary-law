@@ -1,5 +1,6 @@
-7. § (1) A Gyer. 8. számú melléklet 7.a) pontjában a „(4) bekezdése” szövegrész helyébe a „(8) bekezdése” szöveg lép.
+7. § (1)[^8]
 
-(2)[^7]
+(2)[^9]
 
-[^7]: A 7. § (2) bekezdése a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^8]: A 7. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 7. § (2) bekezdése a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
