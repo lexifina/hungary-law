@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-182-20-
 | 2010-04-23 | 2009-182-20-82.2 | 41/2010. (IV. 20.) FVM rendelet |
 | 2010-11-17 | 2009-182-20-82.3 | 28/2010. (XI. 9.) VM rendelet |
 | 2011-01-14 | 2009-182-20-82.4 | 1/2011. (I. 11.) VM rendelet |
+| 2012-09-04 | 2009-182-20-82.5 | 87/2012. (VIII. 27.) VM rendelet |

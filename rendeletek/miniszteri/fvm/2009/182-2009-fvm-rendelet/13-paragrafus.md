@@ -1,6 +1,6 @@
 13. § (1) Az állatokat az országon belül két tenyészet közötti szállításuk esetén az MgSzH Központ által rendszeresített és a www.enar.hu honlapon közzétett, a (2) bekezdésben meghatározott adattartalmú szállítólevéllel kell kísérni.
 
-(2) A szállítólevélnek a 21/2004/EK rendelet Mellékletének C. 1. szakaszában foglalt adattartalmon kívül tartalmaznia kell a szállított állat faját és ENAR-számát, a szállítást felügyelő állatorvos állategészségügyi igazolását arról, hogy az állat szállíthatóságának állat-egészségügyi akadálya nincs, továbbá a fogadó tenyészet általi fogadás dátumát, a fogadott állatok számát és a fogadó tenyészet állattartójának aláírását.
+(2)[^8] A szállítólevélnek a 21/2004/EK rendelet Mellékletének C. 1. szakaszában foglalt adattartalmon kívül tartalmaznia kell a szállított állat faját és ENAR-számát, az állatorvos által kiállított élőállat-szállítási állategészségügyi bizonyítványának sorszámát, kiállítás dátumát, az állatorvos bélyegzőszámát, valamint a fogadó tenyészet általi fogadás dátumát, a fogadott állatok számát és a fogadó tenyészet állattartójának aláírását.
 
 (3) Az állattartó részére a szállítólevél nyomtatványt a területi felelős biztosítja.
 
@@ -11,3 +11,5 @@
 (6) A szállítólevelet az állattartó három évig köteles megőrizni.
 
 (7) Az országot elhagyó állat esetében az indító tenyészetben az MgSzH Központ által rendszeresített és a www.enar.hu honlapon közzétett szállítólevélnek a 21/2004/EK rendelet Mellékletének C. 1. szakaszában foglalt adattartalmon kívül tartalmaznia kell a szállított állat faját és ENAR-számát, a szállítást felügyelő állatorvos állategészségügyi igazolását arról, hogy az állat szállíthatóságának állat-egészségügyi akadálya nincs, továbbá a hatósági állatorvos azonosítóját és aláírását. Az indító tenyészetnek a szállítólevél egy példányát meg kell küldenie az MgSzH Központ részére, egy példányát pedig meg kell őriznie.
+
+[^8]: A 13. § (2) bekezdése a 87/2012. (VIII. 27.) VM rendelet 18. §-ával megállapított szöveg.
