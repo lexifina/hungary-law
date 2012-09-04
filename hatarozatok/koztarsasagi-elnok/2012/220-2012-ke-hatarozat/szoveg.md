@@ -1,0 +1,1 @@
+A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 38. § (1) bekezdése alapján – a Gazdasági Versenyhivatal elnökének javaslatára – dr. Szoboszlai Izabella Annát 2012. szeptember 1-jei hatállyal hat évig terjedő időtartamra a Gazdasági Versenyhivatal Versenytanácsa tagjává kinevezem.
