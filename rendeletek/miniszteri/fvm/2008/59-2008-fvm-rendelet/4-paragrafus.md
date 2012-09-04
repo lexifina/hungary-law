@@ -8,15 +8,15 @@
 
 (3) Amennyiben az állatsűrűségből származóan a kijuttatott trágya nem haladja meg éves szinten a 120 kg/ha nitrogén hatóanyag mennyiséget, úgy a téli legeltetés megengedett.
 
-(4)[^1] Ültetvények esetében 15%-nál meredekebb lejtésű területeken csak a külön jogszabály szerinti talajvédelmi tervben meghatározott erózió elleni védelem biztosításával juttatható ki trágya.
+(4)[^2] Ültetvények esetében 15%-nál meredekebb lejtésű területeken csak a külön jogszabály szerinti talajvédelmi tervben meghatározott erózió elleni védelem biztosításával juttatható ki trágya.
 
 (5) Hígtrágya nem juttatható ki 6%-os terepesés felett, kivéve csúszócsöves (csőfüggönyös) eljárással, melynek alkalmazása 12%-ig megengedett. Injektálási technológia 17% meredekségig alkalmazható.
 
-(6)[^2] Műtrágya 12%-nál meredekebb lejtésű terület talajára csak haladéktalan bedolgozás mellett juttatható ki, kivéve a fejtrágyázás műveletét.
+(6)[^3] Műtrágya 12%-nál meredekebb lejtésű terület talajára csak haladéktalan bedolgozás mellett juttatható ki, kivéve a fejtrágyázás műveletét.
 
 (7) 17%-nál meredekebb lejtésű területre trágya nem juttatható ki.
 
 (8) Fagyott, vízzel telített, összefüggő hótakaróval borított talajra trágya nem juttatható ki.
 
-[^1]: A 4. § (4) bekezdése az 55/2009. (IV. 29.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 4. § (6) bekezdése az 55/2009. (IV. 29.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^2]: A 4. § (4) bekezdése az 55/2009. (IV. 29.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § (6) bekezdése az 55/2009. (IV. 29.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.

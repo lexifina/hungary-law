@@ -72,33 +72,39 @@
 
 ## C) Irányszámok egyes állattartótelepek trágyatároló kapacitásának méretezéséhez
 
-| Egyéb állatok | Trágyatermelés [kg/állatkategória/hét] | Megjegyzés |
+| Egyéb állatok | Trágyatermelés [kg/állatkategória/hét](2) | Megjegyzés |
 
 | Állatkategória | Testtömeg | Trágyatípus |
 
 | Almos trágya | Hígtrágya |
 
-| 1000 tojótyúk | ∼2,2 kg/állat | – | 805(1) | Ketreces tartás, csak ürülék (21% SZA) |
+| 1000 tojótyúk | ~ 2,2 kg/állat | – | 805(1) | Ketreces tartás, csak ürülék (21% SZA) |
 
-| 1000 brojler | ∼2 kg/állat | 218 | – | Mélyalmos tartásnál, a kitermelt trágyamennyiség alapján |
+| 1000 brojler | ~ 2 kg/állat | 218 | – | Mélyalmos tartásnál, a kitermelt trágyamennyiség alapján |
 
-| 1000 pulykabak | ∼14 kg/állat | 790 | – | Mélyalmos tartásnál, a kitermelt trágyamennyiség alapján |
+| 1000 pulykabak | ~ 14 kg/állat | 790 | – | Mélyalmos tartásnál, a kitermelt trágyamennyiség alapján |
 
-| 1000 pulykatojó | ∼5 kg/állat | 330 | – | Mélyalmos tartásnál, a kitermelt trágyamennyiség alapján |
+| 1000 pulykatojó | ~ 5 kg/állat | 330 | – | Mélyalmos tartásnál, a kitermelt trágyamennyiség alapján |
+
+| 1000 kacsa | ~ 3,5 kg/állat | 1200 | – | Mélyalmos tartásnál, a kitermelt trágyamennyiség alapján |
+
+| 1000 liba | ~ 5 kg/állat | 1500 | – | Mélyalmos tartásnál, a kitermelt trágyamennyiség alapján |
 
 | Juh (vegyes korcsoport) | 50 kg-os anyajuh | 30 |  | Anyajuhra vetítve (anyajuh + szaporulat) mélyalmos tartásnál |
 
 | Juh (vegyes korcsoport) | 70 kg-os anyajuh | 42 |  | Anyajuhra vetítve (anyajuh + szaporulat) mélyalmos tartásnál |
 
-| Kecske (vegyes korcsoport) | 50 kg-os anyakecske | 30 |  | Anyakecskére vetítve (anyakecske + szaporu- lat) mélyalmos tartásnál |
+| Kecske (vegyes korcsoport) | 50 kg-os anyakecske | 30 |  | Anyakecskére vetítve (anyakecske + szaporulat) mélyalmos tartásnál |
 
-| Kecske (vegyes korcsoport) | 80 kg-os anyakecske | 50 |  | Anyakecskére vetítve (anyakecske + szaporu- lat) mélyalmos tartásnál |
+| Kecske (vegyes korcsoport) | 80 kg-os anyakecske | 50 |  | Anyakecskére vetítve (anyakecske + szaporulat) mélyalmos tartásnál |
 
 | Anyanyúl + szaporulata | 4 kg |  | 8,4 | Ketreces tartás, trágyagyűjtő aknával |
 
 | Ló | 600 kg | 94 |  | Almozott tartás |
 
 ## (1) Trágyaszárításos technológia esetén a trágyamennyiséget a szárazanyag-növekedés arányában korrigálni szükséges (pl. 40% SZA esetén a trágyatermelés értéke 402 kg/1000 állat/hét).
+
+## (2) A táblázatban szereplő adatokat az életkor és testtömeg figyelembevételével korrigálni szükséges.
 
 ## D) A trágyatároló szükséges térfogatának kiszámításához
 
@@ -166,7 +172,7 @@
 
 ## Azon trágyatárolóra, melyek típustervek alapján, különböző méretekben készülő ipari gyártmányok, a gyártóknak a teljes hígtrágya tárolóra, mint késztermékre kell Megfelelőségi Nyilatkozatot biztosítania. Ehhez a gyártónak rendelkeznie kell az összes, szabványokban foglalt tulajdonságoknak való megfelelőséget igazoló dokumentumokkal, a megfelelőséget igazoló akkreditált vizsgálati eredményekkel.
 
-6. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^8]
+6. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^11]
 
 ADATLAP
 
@@ -664,4 +670,4 @@ Amennyiben egy állattartó telepen keletkezett trágya nem abban a gazdaságban
 
 A táblázat első két oszlopában kérjük jelezni, hogy trágyaátadásról vagy más gazdálkodótól történő trágyaátvételről van szó. Meg kell adni továbbá az átadott/átvett szervestrágya mennyiségét hígtrágya esetén m3-ben, istállótrágya esetén tonnában. A szervestrágya típusa rovatban a 3.2. pontban megadott táblázat kódjait kérjük, használják.
 
-[^8]: A 6. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^11]: A 6. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.

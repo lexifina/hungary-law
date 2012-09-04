@@ -276,6 +276,6 @@
 
 | 37. Zöldborsó | 16.0 | 5.6 | 15.2 |
 
-5. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^7]
+5. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^10]
 
-[^7]: Az 5. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 5. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (1) bekezdésével megállapított, a 87/2012. (VIII. 27.) VM rendelet 22. §-a szerint módosított szöveg.
