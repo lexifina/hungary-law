@@ -10,6 +10,6 @@ d) meghiúsult export esetén a szarvasmarha útlevelet és az állategészség�
 
 e) a már beszállított állatok adatait az országos adatbázisnak hét napon belül bejelenteni. Az Útmutató tartalmazza a bejelentés mintáját.
 
-(2)[^83] Az ideiglenesen külföldre szállított állat visszaérkezésekor az állattartó köteles a szarvasmarha visszaküldött útlevelét, valamint állat-egészségügyi bizonyítványát az ENAR-felelősnek 3 napon belül leadni. Az ENAR-felelős 4 napon belül új igazolólapot igényel az országos adatbázistól.
+(2)[^85] Az ideiglenesen külföldre szállított állat visszaérkezésekor az állattartó köteles a szarvasmarha visszaküldött útlevelét, valamint állat-egészségügyi bizonyítványát az ENAR-felelősnek 3 napon belül leadni. Az ENAR-felelős 4 napon belül új igazolólapot igényel az országos adatbázistól.
 
-[^83]: A 30. § (2) bekezdése a 4/2009. (I. 16.) FVM rendelet 26. §-ával megállapított szöveg.
+[^85]: A 30. § (2) bekezdése a 4/2009. (I. 16.) FVM rendelet 26. §-ával megállapított szöveg.

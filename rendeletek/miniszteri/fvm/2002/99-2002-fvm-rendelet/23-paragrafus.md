@@ -20,6 +20,6 @@ g) a kiadás időpontját és sorszámát.
 
 (2) A belföldi marhalevél-igazolólap első oldalának alsó része az ellenőrző szelvényből áll.
 
-(3)[^62] Az igazolólap második oldala az állategészségügyi forgalomképesség igazolásához szükséges adatokat tartalmazza. Az adatlap kitöltését követően – ha egyéb jogszabály másképp nem rendelkezik – a hatósági állatorvos az aláírásával és a bélyegzőjével igazolja az állat forgalomképességét. Vágóhídra történő szállítás esetén szükséges az állattartó aláírása is.
+(3)[^64] A marhalevél második oldala (hátoldala) az állatot kísérő állategészségügyi bizonyítvány azonosító adatait tartalmazza. Az adatlap kitöltését követően – ha jogszabály másképp nem rendelkezik – az állatorvos feltünteti a jelen rendelet alapján kiállított állategészségügyi bizonyítvány sorszámát, valamint aláírását és a bélyegzőlenyomatát.
 
-[^62]: A 23. § (3) bekezdése a 12/2004. (I. 31.) FVM rendelet 14. §-ával megállapított szöveg.
+[^64]: A 23. § (3) bekezdése a 87/2012. (VIII. 27.) VM rendelet 17. § (3) bekezdésével megállapított szöveg.

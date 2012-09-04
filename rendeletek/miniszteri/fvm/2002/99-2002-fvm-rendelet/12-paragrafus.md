@@ -1,9 +1,9 @@
-12. § (1)[^38] A szarvasmarha csak akkor szállítható, ha a közösségi jogszabályokban foglaltaknak megfelelően megjelölték, továbbá belföldi marhalevél-igazolólap és állategészségügyi forgalomképességet tanúsító igazolás kíséri.
+12. § (1)[^39] A szarvasmarha csak akkor szállítható, ha a szarvasmarhák azonosítási és nyilvántartási rendszerének létrehozásáról, továbbá a marhahús és marhahústermékek címkézéséről, valamint a 820/97/EK tanácsi rendelet hatályon kívül szóló 1760/2000/EK (2000. július 17.) európai parlamenti és tanácsi rendeletben foglaltaknak megfelelően megjelölték, valamint – hátoldalán az állategészségügyi bizonyítvány sorszámával, a kiállító állatorvos aláírásával és bélyegzőlenyomatával ellátott – belföldi marhalevél-igazolólap kíséri.
 
-(2)[^39] Az Útmutató tartalmazza a belföldi marhalevél-igazolólap és az állategészségügyi forgalomképességet tanúsító igazolás kötelező mintáját.
+(2)[^40] Az Útmutató tartalmazza a marhalevél kötelező mintáját.
 
-(3)[^40] A szarvasmarhát az export zárórakodás helyéig a belföldi marhalevél-igazolólappal és a szarvasmarha útlevéllel együtt kell szállítani.
+(3)[^41] A szarvasmarhát az export zárórakodás helyéig a belföldi marhalevél-igazolólappal és a szarvasmarha útlevéllel együtt kell szállítani.
 
-[^38]: A 12. § (1) bekezdése a 12/2004. (I. 31.) FVM rendelet 9. §-ának (1) bekezdésével megállapított szöveg.
-[^39]: A 12. § (2) bekezdése a 119/2007. (X. 18.) FVM rendelet 15. § (3) bekezdésével megállapított szöveg.
-[^40]: A 12. § (3) bekezdése a 12/2004. (I. 31.) FVM rendelet 9. §-ának (2) bekezdésével megállapított szöveg.
+[^39]: A 12. § (1) bekezdése a 87/2012. (VIII. 27.) VM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^40]: A 12. § (2) bekezdése a 87/2012. (VIII. 27.) VM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^41]: A 12. § (3) bekezdése a 12/2004. (I. 31.) FVM rendelet 9. §-ának (2) bekezdésével megállapított szöveg.
