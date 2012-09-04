@@ -1,6 +1,6 @@
 ## Az állatmozgás-nyilvántartás
 
-26. § (1)[^44] Az állattartó köteles a tenyészetében lévő sertésekről állatmozgás-nyilvántartást vezetni és azt naprakészen tartani.
+26. § (1)[^46] Az állattartó köteles a tenyészetében lévő sertésekről állatmozgás-nyilvántartást vezetni és azt naprakészen tartani.
 
 (2) Az állatmozgás-nyilvántartásban az állattartó az alábbi adatokat köteles feltüntetni:
 
@@ -20,9 +20,9 @@ b) gondoskodni arról, hogy az állatmozgás-nyilvántartás, amely elektronikus
 
 c) az ellenőrzésre jogosult hatóság képviselőjének rendelkezésre bocsátani a szükséges információkat és adatokat.
 
-d)[^45]
+d)[^47]
 
 (4) Az állatmozgás-nyilvántartást és az ellenőrzésről készült jegyzőkönyveket legalább három évig megőrizni.
 
-[^44]: A 26. § (1) bekezdése a 4/2009. (I. 16.) FVM rendelet 10. §-ával megállapított szöveg.
-[^45]: A 26. § (3) bekezdésének d) pontját a 12/2004. (I. 31.) FVM rendelet 24. §-a hatályon kívül helyezte.
+[^46]: A 26. § (1) bekezdése a 4/2009. (I. 16.) FVM rendelet 10. §-ával megállapított szöveg.
+[^47]: A 26. § (3) bekezdésének d) pontját a 12/2004. (I. 31.) FVM rendelet 24. §-a hatályon kívül helyezte.
