@@ -1,6 +1,6 @@
 ## 11. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^139]
+## az Állategészségügyi Szabályzathoz[^137]
 
 ## 12. számú függelék
 
@@ -40,4 +40,4 @@ II. Import állatok karanténozásának szabályai
 
 5. Az importállatokat a tulajdonos költségére kell karanténozni. A karanténozás időtartama legalább harminc nap, nyúl baromfi és galamb esetében legalább huszonegy nap. Ettől eltérő időtartamot a minisztérium megállapíthat.
 
-[^139]: Az 1. számú melléklet 11. számú függelékét az 52/2003. (VIII. 15.) GKM–FVM együttes rendelet 37. § (1) bekezdése hatályon kívül helyezte.
+[^137]: Az 1. számú melléklet 11. számú függelékét az 52/2003. (VIII. 15.) GKM–FVM együttes rendelet 37. § (1) bekezdése hatályon kívül helyezte.
