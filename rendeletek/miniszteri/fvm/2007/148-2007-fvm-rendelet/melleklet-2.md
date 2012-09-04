@@ -60,7 +60,7 @@
 
 ## – A pulyka esetében a baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 139/2007. (XI. 28.) FVM rendelet 1. számú melléklete szerint.
 
-2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^31]
+2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^32]
 
 ## Jóváhagyási kérelem adattartalma
 
@@ -122,4 +122,4 @@
 
 A hatósági állatorvos igazolása a hazai és közösségi állat-egészségügyi és állatjóléti jogszabályok által előírt feltételek teljesítéséről.
 
-[^31]: A 2. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^32]: A 2. számú melléklet a 23/2011. (III. 28.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.

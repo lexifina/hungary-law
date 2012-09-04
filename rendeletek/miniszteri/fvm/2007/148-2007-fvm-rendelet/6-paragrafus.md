@@ -8,7 +8,9 @@
 
 (2) Ha az engedélyes a 2011. január, február és március hónapokban elvégzett állat-egészségügyi szolgáltatásokra vonatkozó 3. számú mellékletben meghatározott adattartalmú összesítőt 2011. március 31-ig a kedvezményezett telephelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóság részére benyújtotta, akkor azt az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság és az MVH támogatási kérelemként el kell fogadja.
 
-(3)[^15] Az engedélyesnek az 1. számú mellékletben C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás esetén – a sertés állatfaj (tenyészkoca) kivételével – csatolnia kell az állategészségügyi bizonyítvány másolatát is. Az exportált, külföldön levágott állatok esetében a Traces rendszer bevezetéséről és a 92/486 EGK határozat módosításáról szóló 2004. március 30-i 2004/292/EK bizottsági határozat alapján kiállított „Bizonyítvány a Közösségen belüli kereskedelemhez” nyomtatvány másolatának csatolása elegendő, amennyiben a nyomtatvány 1.13. Rendeltetési hely pontjában „Létesítmény”, az 1.25. az állatok/termékek felhasználási célja pontjában „Vágás” megjelölés szerepel. Mindkét nyomtatványon fel kell tüntetni a vágásra szállított állatfajt, egyedszámot és a származási helyet. Szarvasmarha állatfaj esetében a nyomtatványokon vagy külön az engedélyes és a kedvezményezett által együttesen aláírt nyilatkozaton az állatok életkorát is fel kell tüntetni.
+(3)[^15] Az engedélyesnek az 1. számú mellékletben C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás esetén – belföldi szállítás és sertés állatfaj (tenyészkoca) kivételével – csatolnia kell az emberi fogyasztásra szánt állati eredetű termékek hatósági ellenőrzésének megszervezésére vonatkozó különleges szabályok megállapításáról szóló, 2004. április 29-i 854/2004/EK parlamenti és tanácsi rendelet I. Melléklet IV. Szakasz X. Fejezet A. pontja szerinti állategészségügyi bizonyítvány másolatát is.
+
+(3a)[^16] Belföldi szállítás esetén az engedélyesnek az élő állatok belföldi szállításának állat-egészségügyi szabályairól szóló 87/2012. (VIII. 27.) VM rendelet 1. számú melléklete szerinti nyilatkozatot kell csatolnia.
 
 (4) Sertés állatfaj (tenyészkoca) esetén az engedélyesnek az 1. számú mellékletben C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás igényléséhez az 5. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és az MVH honlapján közzétett nyilatkozatot kell csatolnia.
 
@@ -28,11 +30,12 @@
 
 (12) Az MVH az adott támogatási évre vonatkozóan benyújtott összes támogatási kérelem érdemi elbírálását követően, évente egy alkalommal összesítő értesítést küld a kedvezményezett részére a tárgyévben igénybevett támogatott állat-egészségügyi szolgáltatásról és annak támogatástartalmáról.
 
-(13)[^16] A jóváhagyott támogatási összegről és a kifizetett támogatásról az MVH havonta tájékoztatást küld az agrárpolitikáért, agrár-vidékfejlesztésért felelős miniszternek (a továbbiakban: miniszter) és a NÉBIH elnökét is tájékoztatja.
+(13)[^17] A jóváhagyott támogatási összegről és a kifizetett támogatásról az MVH havonta tájékoztatást küld az agrárpolitikáért, agrár-vidékfejlesztésért felelős miniszternek (a továbbiakban: miniszter) és a NÉBIH elnökét is tájékoztatja.
 
 [^11]: A 6. § a 23/2011. (III. 28.) VM rendelet 4. §-ával megállapított szöveg.
 [^12]: A 6. § (1) bekezdése a 77/2012. (VII. 27.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^13]: A 6. § (1a) bekezdését a 93/2011. (X. 12.) VM rendelet 7. §-a iktatta be, szövege a 77/2012. (VII. 27.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^14]: A 6. § (1b) bekezdését a 77/2012. (VII. 27.) VM rendelet 2. § (2) bekezdése iktatta be.
-[^15]: A 6. § (3) bekezdése a 77/2012. (VII. 27.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^16]: A 6. § (13) bekezdése a 77/2012. (VII. 27.) VM rendelet 5. §-a szerint módosított szöveg.
+[^15]: A 6. § (3) bekezdése a 87/2012. (VIII. 27.) VM rendelet 16. §-ával megállapított szöveg.
+[^16]: A 6. § (3a) bekezdését a 87/2012. (VIII. 27.) VM rendelet 16. §-a iktatta be.
+[^17]: A 6. § (13) bekezdése a 77/2012. (VII. 27.) VM rendelet 5. §-a szerint módosított szöveg.
