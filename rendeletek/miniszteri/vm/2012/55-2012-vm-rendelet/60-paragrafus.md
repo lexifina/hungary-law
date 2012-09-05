@@ -2,6 +2,9 @@
 
 (2) Az előirányzatból nyújtott támogatás pályázat meghirdetését követően támogatási szerződés formájában valósulhat meg.
 
-(3) Az előirányzat felhasználása közvetlen módon, fejezeti kifizetéssel, vagy költségvetési szervek részére történő előirányzat-átcsoportosítással történik.
+(3)[^6] Az előirányzat pénzügyi, számviteli lebonyolítását a 82/2007. (IV. 25.) Korm. rendelet és a minisztérium–MVH–Kincstár közötti együttműködési megállapodás szabályozza.
 
-(4) A támogatás folyósítása utófinanszírozás útján történik. Előleg indokolt esetben a 12. §-ban foglaltak szerint nyújtható.
+(4)[^7] Az előirányzat pénzeszköz átadás formájában átadásra kerül a kedvezményezettek felé történő végső kifizetést teljesítő költségvetési intézmény részére.
+
+[^6]: A 60. § (3) bekezdése a 96/2012. (IX. 4.) VM rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^7]: A 60. § (4) bekezdése a 96/2012. (IX. 4.) VM rendelet 8. § (4) bekezdésével megállapított szöveg.
