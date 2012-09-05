@@ -1,2403 +1,2317 @@
 2. melléklet a 25/2002. (II. 27.) Korm. rendelethez[^15]
 
-|  | 1. táblázat: Agglomerációk 10 000 LE feletti szennyvízterheléssel, szennyvízbefogadásra érzékeny vizek vízgyűjtőin |
+A települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK tanácsi irányelvben előírt Program szennyvízelvezetési agglomerációi
+
+| 1. táblázat: Agglomerációk 10 000 LE feletti szennyvízterheléssel, szennyvízbe fogadásra érzékeny vizek vízgyűjtőin |
 
 | Kiépítési határidő: 2008. december 31. |
 
-| A | B | C | D |
+| Az agglomeráció központi települése | Az agglomeráció települései | Lakos szám | Az agglomeráció szennyvízterhelése (LE) | Van-e fejlesztés? |
 
-| Az agglomeráció központi települése | Az agglomeráció települései | Az agglomeráció szennyvízterhelése (LE) | Fejlesztéssel érintett |
+| Keszthely |  | 44 367 | 85 634 | + |
 
-| 1 | Keszthely |  | 113 590 | + |
+|  | Alsópáhok | 1 315 |  |  |
 
-| 2 |  | Alsópáhok |  |  |
+|  | Balatonederics | 1 043 |  |  |
 
-| 3 |  | Balatonederics |  |  |
+|  | Balatongyörök | 1 085 |  |  |
 
-| 4 |  | Balatongyörök |  |  |
+|  | Cserszegtomaj | 2 765 |  |  |
 
-| 5 |  | Cserszegtomaj |  |  |
+|  | Felsőpáhok | 636 |  |  |
 
-| 6 |  | Felsőpáhok |  |  |
+|  | Gyenesdiás | 3 681 |  |  |
 
-| 7 |  | Gyenesdiás |  |  |
+|  | Hévíz | 4 335 |  |  |
 
-| 8 |  | Hévíz |  |  |
+|  | Karmacs | 769 |  |  |
 
-| 9 |  | Karmacs |  |  |
+|  | Keszthely | 21 047 |  |  |
 
-| 10 |  | Keszthely |  |  |
+|  | Nemesbük | 676 |  |  |
 
-| 11 |  | Nemesbük |  |  |
+|  | Nemesvita | 351 |  |  |
 
-| 12 |  | Nemesvita |  |  |
+|  | Rezi | 1 179 |  |  |
 
-| 13 |  | Rezi |  |  |
+|  | Sármellék | 1 863 |  |  |
 
-| 14 |  | Sármellék |  |  |
+|  | Szentgyörgyvár | 313 |  |  |
 
-| 15 |  | Szentgyörgyvár |  | + |
+|  | Vindornyafok | 129 |  |  |
 
-| 16 |  | Vindornyafok |  |  |
+|  | Vonyarcvashegy | 2 244 |  |  |
 
-| 17 |  | Vonyarcvashegy |  |  |
+|  | Zalavár | 936 |  |  |
 
-| 18 |  | Zalavár |  |  |
+| Kéthely |  | 11 764 | 23 103 | + |
 
-| 19 | Kéthely |  | 21 636 | + |
+|  | Balatonberény | 1 150 |  |  |
 
-| 20 |  | Balatonberény |  |  |
+|  | Balatonfenyves | 1 851 |  | + |
 
-| 21 |  | Balatonfenyves |  |  |
+|  | Balatonkeresztúr | 1 432 |  |  |
 
-| 22 |  | Balatonkeresztúr |  |  |
+|  | Balatonmáriafürdő | 648 |  |  |
 
-| 23 |  | Balatonmáriafürdő |  |  |
+|  | Balatonszentgyörgy | 1 566 |  |  |
 
-| 24 |  | Balatonszentgyörgy |  |  |
+|  | Balatonújlak | 520 |  |  |
 
-| 25 |  | Balatonújlak |  |  |
+|  | Fonyód-Alsóbélatelep | 429 |  |  |
 
-| 26 |  | Fonyód-Alsóbélatelep |  |  |
+|  | Főnyed | 71 |  |  |
 
-| 27 |  | Főnyed |  |  |
+|  | Hollád | 226 |  |  |
 
-| 28 |  | Hollád |  |  |
+|  | Kéthely | 2 326 |  |  |
 
-| 29 |  | Kéthely |  |  |
+|  | Somogyszentpál | 748 |  |  |
 
-| 30 |  | Somogyszentpál |  |  |
+|  | Szegerdő | 221 |  |  |
 
-| 31 |  | Szegerdő |  |  |
+|  | Tikos | 127 |  |  |
 
-| 32 |  | Tikos |  |  |
+|  | Vörs | 449 |  |  |
 
-| 33 |  | Vörs |  |  |
+| Marcali |  | 12 588 | 16 940 | + |
 
-| 34 | Marcali |  | 13 629 | + |
+|  | Csömend | 292 |  |  |
 
-| 35 |  | Csömend |  |  |
+|  | Marcali | 11 571 |  | + |
 
-| 36 |  | Marcali |  | + |
+|  | Nikla | 725 |  |  |
 
-| 37 |  | Nikla |  |  |
+| Révfülöp* |  | 3 049 |  |  |
 
-| 38 | Nemesgulács |  | 16 403 | + |
+|  | Balatonszepezd | 406 |  |  |
 
-| 39 |  | Ábrahámhegy |  | + |
+|  | Kővágóörs | 808 |  |  |
 
-| 40 |  | Badacsonytomaj |  |  |
+|  | Révfülöp | 1 081 |  |  |
 
-| 41 |  | Badacsonytördemic |  |  |
+|  | Zánka | 754 |  |  |
 
-| 42 |  | Balatonrendes |  |  |
+| Zalaegerszeg |  | 87 489 | 117 563 | + |
 
-| 43 |  | Káptalantóti |  | + |
+|  | Alibánfa | 465 |  |  |
 
-| 44 |  | Kékkút |  |  |
+|  | Alsónemesapáti | 721 |  |  |
 
-| 45 |  | Kisapáti |  |  |
+|  | Babosdöbréte | 511 |  |  |
 
-| 46 |  | Nemesgulács |  |  |
+|  | Bagod | 1 340 |  |  |
 
-| 47 |  | Szigliget |  |  |
+|  | Bak | 1 673 |  |  |
 
-| 48 | Révfülöp |  | 10 327 | + |
+|  | Bocfölde | 1 136 |  |  |
 
-| 49 |  | Balatonszepezd |  |  |
+|  | Boncodfölde | 358 |  |  |
 
-| 50 |  | Kővágóörs |  |  |
+|  | Böde | 292 |  |  |
 
-| 51 |  | Révfülöp |  |  |
+|  | Búcsúszentlászló | 825 |  |  |
 
-| 52 |  | Zánka |  |  |
+|  | Csatár | 568 |  |  |
 
-| 53 | Tapolca |  | 27 907 | + |
+|  | Csonkahegyhát | 367 |  |  |
 
-| 54 |  | Gyulakeszi |  |  |
+|  | Dobronhegy | 135 |  |  |
 
-| 55 |  | Lesencefalu |  |  |
+|  | Egervár | 1 008 |  |  |
 
-| 56 |  | Lesenceistvánd |  |  |
+|  | Gősfa | 330 |  |  |
 
-| 57 |  | Lesencetomaj |  |  |
+|  | Hagyárosbörönd | 305 |  | + |
 
-| 58 |  | Sáska |  |  |
+|  | Hottó | 361 |  |  |
 
-| 59 |  | Tapolca |  |  |
+|  | Kávás | 249 |  |  |
 
-| 60 |  | Uzsa |  |  |
+|  | Kemendollár | 515 |  |  |
 
-| 61 |  | Zalahaláp |  |  |
+|  | Keménfa | 80 |  |  |
 
-| 62 | Zalaegerszeg |  | 126 463 | + |
+|  | Kisbucsa | 478 |  |  |
 
-| 63 |  | Alibánfa |  |  |
+|  | Kiskutas | 176 |  |  |
 
-| 64 |  | Alsónemesapáti |  | + |
+|  | Kispáli | 273 |  |  |
 
-| 65 |  | Babosdöbréte |  |  |
+|  | Lakhegy | 484 |  |  |
 
-| 66 |  | Bagod |  |  |
+|  | Nagykutas | 457 |  |  |
 
-| 67 |  | Bak |  |  |
+|  | Nagypáli | 458 |  |  |
 
-| 68 |  | Bocfölde |  |  |
+|  | Nemesapáti | 534 |  |  |
 
-| 69 |  | Boncodfölde |  | + |
+|  | Nemeshetés | 299 |  |  |
 
-| 70 |  | Böde |  |  |
+|  | Nemessándorháza | 259 |  |  |
 
-| 71 |  | Bucsuszentlászló |  |  |
+|  | Nemesszentandrás | 289 |  |  |
 
-| 72 |  | Csatár |  |  |
+|  | Németfalu | 192 |  |  |
 
-| 73 |  | Csonkahegyhát |  | + |
+|  | Ozmánbük | 187 |  | + |
 
-| 74 |  | Dobronhegy |  | + |
+|  | Pethőhenye | 438 |  |  |
 
-| 75 |  | Egervár |  |  |
+|  | Pókaszepetk | 976 |  |  |
 
-| 76 |  | Gősfa |  |  |
+|  | Pusztaszentlászló | 601 |  |  |
 
-| 77 |  | Hagyárosbörönd |  | + |
+|  | Salomvár | 595 |  |  |
 
-| 78 |  | Hottó |  |  |
+|  | Sárhida | 803 |  |  |
 
-| 79 |  | Kávás |  |  |
+|  | Söjtör | 1 536 |  |  |
 
-| 80 |  | Kemendollár |  |  |
+|  | Teskánd | 1 133 |  |  |
 
-| 81 |  | Keménfa |  |  |
+|  | Vasboldogasszony | 601 |  |  |
 
-| 82 |  | Kisbucsa |  | + |
+|  | Vaspör | 388 |  | + |
 
-| 83 |  | Kiskutas |  |  |
+|  | Vöckönd | 79 |  |  |
 
-| 84 |  | Kispáli |  |  |
+|  | Zalaboldogfa | 375 |  |  |
 
-| 85 |  | Lakhegy |  |  |
+|  | Zalacséb | 532 |  |  |
 
-| 86 |  | Nagykutas |  |  |
+|  | Zalaegerszeg | 61 970 |  |  |
 
-| 87 |  | Nagypáli |  |  |
+|  | Zalaistvánd | 371 |  |  |
 
-| 88 |  | Nemesapáti |  | + |
+|  | Zalaszentgyörgy | 419 |  |  |
 
-| 89 |  | Nemeshetés |  | + |
+|  | Zalaszentiván | 1 042 |  |  |
 
-| 90 |  | Nemessándorháza |  |  |
+|  | Zalaszentlőrinc | 305 |  |  |
 
-| 91 |  | Nemesszentandrás |  |  |
+| Zalakaros |  | 5 007 | 11 195 |  |
 
-| 92 |  | Németfalu |  | + |
+|  | Galambok | 1 288 |  |  |
 
-| 93 |  | Ozmánbük |  | + |
+|  | Garabonc | 737 |  |  |
 
-| 94 |  | Pethőhenye |  |  |
+|  | Nagyrada | 474 |  |  |
 
-| 95 |  | Pókaszepetk |  |  |
+|  | Zalakaros | 1 791 |  |  |
 
-| 96 |  | Pusztaszentlászló |  | + |
+|  | Zalamerenye | 159 |  |  |
 
-| 97 |  | Salomvár |  |  |
+|  | Zalaszabar | 558 |  |  |
 
-| 98 |  | Sárhida |  |  |
+| Zalaszentgrót* |  | 9 061 |  |  |
 
-| 99 |  | Söjtör |  | + |
+|  | Batyk | 387 |  |  |
 
-| 100 |  | Teskánd |  |  |
+|  | Pakod | 944 |  |  |
 
-| 101 |  | Vasboldogasszony |  |  |
+|  | Zalabér | 728 |  |  |
 
-| 102 |  | Vaspör |  | + |
+|  | Zalaszentgrót | 6 618 |  |  |
 
-| 103 |  | Vöckönd |  |  |
+|  | Zalavég | 384 |  |  |
 
-| 104 |  | Zalaboldogfa |  |  |
+| Összesen: |  | 346 650 | 254 435 |  |
 
-| 105 |  | Zalacséb |  |  |
+*Az agglomeráció szennyezőanyag terhelése a felülvizsgálatok során 10 000 LE alá csökkent, így a 4. táblázatba került át.
 
-| 106 |  | Zalaegerszeg |  | + |
-
-| 107 |  | Zalaistvánd |  |  |
-
-| 108 |  | Zalaszentgyörgy |  |  |
-
-| 109 |  | Zalaszentiván |  |  |
-
-| 110 |  | Zalaszentlőrinc |  |  |
-
-| 111 | Zalakaros |  | 14 008 |  |
-
-| 112 |  | Galambok |  |  |
-
-| 113 |  | Garabonc |  |  |
-
-| 114 |  | Nagyrada |  |  |
-
-| 115 |  | Zalakaros |  |  |
-
-| 116 |  | Zalamerenye |  |  |
-
-| 117 |  | Zalaszabar |  |  |
-
-| 118 | Zalaszentgrót |  | 10 129 |  |
-
-| 119 |  | Batyk |  |  |
-
-| 120 |  | Pakod |  |  |
-
-| 121 |  | Zalabér |  |  |
-
-| 122 |  | Zalaszentgrót |  |  |
-
-| 123 |  | Zalavég |  |  |
-
-| 124 | Összesen: |  | 354 092 |  |
-
-|  | 2. táblázat: Agglomerációk 15 000 LE-nél nagyobb szennyvízterheléssel, normál területen |
+| 2. táblázat: Agglomerációk 15 000 LE-nél nagyobb szennyvízterheléssel, normál területen |
 
 | Kiépítési határidő: 2010. december 31. |
 
-| A | B | C | D |
+| Az agglomeráció központi települése | Az agglomeráció települései | Lakos szám | Az agglomeráció szennyvízterhelése (LE) | Van-e fejlesztés? |
 
-| Az agglomeráció központi települése | Az agglomeráció települései | Az agglomeráció szennyvízterhelése (LE) | Fejlesztéssel érintett |
+| Abony |  | 20216 | 22 932 | + |
 
-| 1 | Abony |  | 20 961 | + |
+|  | Abony | 15072 |  |  |
 
-| 2 |  | Abony |  |  |
+|  | Kőröstetétlen | 860 |  |  |
 
-| 3 |  | Kőröstetétlen |  |  |
+|  | Törtel | 4284 |  |  |
 
-| 4 |  | Törtel |  |  |
+| Ajka |  | 34592 | 38 461 | + |
 
-| 5 | Ajka |  | 35 869 |  |
+|  | Ajka | 29131 |  |  |
 
-| 6 |  | Ajka |  |  |
+|  | Csehbánya | 266 |  |  |
 
-| 7 |  | Ajka (Padragkút) |  |  |
+|  | Farkasgyepű | 406 |  |  |
 
-| 8 |  | Csehbánya |  |  |
+|  | Kislőd | 1208 |  |  |
 
-| 9 |  | Farkasgyepű |  |  |
+|  | Magyarpolány | 1110 |  |  |
 
-| 10 |  | Kislőd |  |  |
+|  | Városlőd | 1387 |  |  |
 
-| 11 |  | Magyarpolány |  |  |
+| Albertirsa |  | 12394 | 15 343 |  |
 
-| 12 |  | Városlőd |  |  |
+|  | Albertirsa | 12394 |  |  |
 
-| 13 | Aszód |  | 26 677 | + |
+| Aszód |  | 22526 | 26 639 | + |
 
-| 14 |  | Aszód |  |  |
+|  | Aszód | 6395 |  | + |
 
-| 15 |  | Bag |  |  |
+|  | Bag | 3967 |  |  |
 
-| 16 |  | Domony |  |  |
+|  | Domony | 2164 |  | + |
 
-| 17 |  | Galgamácsa |  | + |
+|  | Galgamácsa | 1959 |  | + |
 
-| 18 |  | Hévízgyörk |  |  |
+|  | Hévízgyörk | 3113 |  |  |
 
-| 19 |  | Iklad |  |  |
+|  | Iklad | 2104 |  |  |
 
-| 20 |  | Kisnémedi |  | + |
+|  | Kisnémedi | 723 |  | + |
 
-| 21 |  | Püspökszilágy |  | + |
+|  | Püspökszilágy | 751 |  | + |
 
-| 22 |  | Vácegres |  | + |
+|  | Vácegres | 884 |  | + |
 
-| 23 |  | Váckisújfalu |  | + |
+|  | Váckisújfalu | 466 |  | + |
 
-| 24 | Baja |  | 71 014 | + |
+| Baja |  | 47554 | 67 709 | + |
 
-| 25 |  | Baja |  | + |
+|  | Baja | 37508 |  | + |
 
-| 26 |  | Érsekcsanád |  | + |
+|  | Érsekcsanád | 2846 |  | + |
 
-| 27 |  | Sükösd |  | + |
+|  | Sükösd | 3721 |  | + |
 
-| 28 |  | Vaskút |  | + |
+|  | Vaskút | 3479 |  | + |
 
-| 29 | Balassagyarmat |  | 31 634 |  |
+| Balassagyarmat |  | 20678 | 36 408 |  |
 
-| 30 |  | Balassagyarmat |  |  |
+|  | Balassagyarmat | 16396 |  |  |
 
-| 31 |  | Csitár |  |  |
+|  | Csitár | 385 |  |  |
 
-| 32 |  | Hugyag |  |  |
+|  | Hugyag | 871 |  |  |
 
-| 33 |  | Iliny |  |  |
+|  | Iliny | 167 |  |  |
 
-| 34 |  | Ipolyszög |  |  |
+|  | Ipolyszög | 647 |  |  |
 
-| 35 |  | Nógrádmarcal |  |  |
+|  | Nógrádmarcal | 525 |  |  |
 
-| 36 |  | Őrhalom |  |  |
+|  | Őrhalom | 1040 |  |  |
 
-| 37 |  | Patvarc |  |  |
+|  | Patvarc | 647 |  |  |
 
-| 38 | Balatonfőkajár |  | 16 499 |  |
+| Balatonfőkajár |  | 10940 | 15 843 |  |
 
-| 39 |  | Balatonfőkajár |  |  |
+|  | Balatonfőkajár | 1320 |  |  |
 
-| 40 |  | Balatonkenese |  |  |
+|  | Balatonkenese | 3224 |  |  |
 
-| 41 |  | Balatonvilágos |  |  |
+|  | Balatonvilágos | 1173 |  |  |
 
-| 42 |  | Füle |  |  |
+|  | Füle | 845 |  |  |
 
-| 43 |  | Lepsény |  |  |
+|  | Lepsény | 3069 |  |  |
 
-| 44 45 | Balatonfüred | Mezőszentgyörgy |  |  |
+|  | Mezőszentgyörgy | 1309 |  |  |
 
-|  | 26 610 |  |
+| Balatonfüred |  | 8537 | 32 142 |  |
 
-| 46 |  | Aszófő |  |  |
+|  | Aszófő | 399 |  |  |
 
-| 47 |  | Balatonakali |  |  |
+|  | Balatonakali | 621 |  |  |
 
-| 48 |  | Balatonfüred |  |  |
+|  | Balatonfüred | 4075 |  |  |
 
-| 49 |  | Balatonszőlős |  |  |
+|  | Balatonszőlős | 637 |  |  |
 
-| 50 |  | Balatonudvari |  |  |
+|  | Balatonudvari | 300 |  |  |
 
-| 51 |  | Dörgicse |  |  |
+|  | Dörgicse | 255 |  |  |
 
-| 52 |  | Örvényes |  |  |
+|  | Örvényes | 155 |  |  |
 
-| 53 |  | Pécsely |  |  |
+|  | Pécsely | 533 |  |  |
 
-| 54 |  | Tihany |  |  |
+|  | Tihany | 1353 |  |  |
 
-| 55 |  | Vászoly |  |  |
+|  | Vászoly | 209 |  |  |
 
-| 56 | Balatonfűzfő |  | 28 899 | + |
+| Balatonfűzfő |  | 26241 | 25 304 | + |
 
-| 57 |  | Alsóörs |  |  |
+|  | Alsóörs | 1401 |  |  |
 
-| 58 |  | Balatonalmádi |  |  |
+|  | Balatonalmádi | 9062 |  |  |
 
-| 59 |  | Balatonfüred (Szívkórháztól K-re) |  |  |
+|  | Balatonfüred (Szívkórháztól K-re) | 9509 |  |  |
 
-| 60 |  | Balatonfűzfő |  |  |
+|  | Balatonfűzfő | 2222 |  |  |
 
-| 61 |  | Csopak |  |  |
+|  | Csopak | 1617 |  |  |
 
-| 62 |  | Felsőörs |  |  |
+|  | Felsőörs | 1565 |  |  |
 
-| 63 |  | Lovas |  |  |
+|  | Lovas | 432 |  |  |
 
-| 64 |  | Paloznak |  |  |
+|  | Paloznak | 433 |  |  |
 
-| 65 | Balatonlelle |  | 45 927 | + |
+| Balatonlelle |  | 27592 | 38 389 | + |
 
-| 66 |  | Balatonboglár |  |  |
+|  | Balatonboglár | 5934 |  |  |
 
-| 67 |  | Balatonlelle |  |  |
+|  | Balatonlelle | 4824 |  |  |
 
-| 68 |  | Balatonőszöd |  |  |
+|  | Balatonőszöd | 519 |  |  |
 
-| 69 |  | Balatonszemes |  |  |
+|  | Balatonszemes | 1793 |  |  |
 
-| 70 |  | Buzsák |  |  |
+|  | Buzsák | 1402 |  |  |
 
-| 71 |  | Fonyód |  | + |
+|  | Fonyód | 4348 |  | + |
 
-| 72 |  | Lengyeltóti |  |  |
+|  | Lengyeltóti | 3262 |  |  |
 
-| 73 |  | Ordacsehi |  |  |
+|  | Ordacsehi | 788 |  |  |
 
-| 74 |  | Öreglak |  |  |
+|  | Öreglak | 1599 |  |  |
 
-| 75 |  | Somogyvár |  |  |
+|  | Somogyvár | 1909 |  |  |
 
-| 76 |  | Szőlősgyörök |  |  |
+|  | Szőlősgyörök | 1214 |  |  |
 
-| 77 | Balmazújváros |  | 21 463 |  |
+| Balmazújváros |  | 17383 | 18 879 |  |
 
-| 78 |  | Balmazújváros |  |  |
+|  | Balmazújváros | 17383 |  |  |
 
-| 79 | Barcs |  | 23 107 |  |
+| Barcs |  | 20840 | 23 163 |  |
 
-| 80 |  | Babócsa |  |  |
+|  | Babócsa | 1547 |  |  |
 
-| 81 |  | Barcs |  |  |
+|  | Barcs | 11532 |  |  |
 
-| 82 |  | Bélavár |  |  |
+|  | Bélavár | 341 |  |  |
 
-| 83 |  | Bolhó |  |  |
+|  | Bolhó | 713 |  |  |
 
-| 84 |  | Csokonyavisonta |  |  |
+|  | Csokonyavisonta | 1614 |  |  |
 
-| 85 |  | Darány |  |  |
+|  | Darány | 900 |  |  |
 
-| 86 |  | Drávagárdony |  |  |
+|  | Drávagárdony | 140 |  |  |
 
-| 87 |  | Drávatamási |  |  |
+|  | Drávatamási | 394 |  |  |
 
-| 88 |  | Heresznye |  |  |
+|  | Heresznye | 273 |  |  |
 
-| 89 |  | Istvándi |  |  |
+|  | Istvándi | 580 |  |  |
 
-| 90 |  | Kálmáncsa |  |  |
+|  | Kálmáncsa | 624 |  |  |
 
-| 91 |  | Kastélyosdombó |  |  |
+|  | Kastélyosdombó | 204 |  |  |
 
-| 92 |  | Komlósd |  |  |
+|  | Komlósd | 186 |  |  |
 
-| 93 |  | Péterhida |  |  |
+|  | Péterhida | 150 |  |  |
 
-| 94 |  | Rinyaújlak |  |  |
+|  | Rinyaújlak | 297 |  |  |
 
-| 95 |  | Somogyaracs |  |  |
+|  | Somogyaracs | 212 |  |  |
 
-| 96 |  | Szulok |  |  |
+|  | Szulok | 599 |  |  |
 
-| 97 |  | Vízvár |  |  |
+|  | Vízvár | 534 |  |  |
 
-| 98 | Bátaszék |  | 15 201 | + |
+| Bátonyterenye |  | 18175 | 19 084 |  |
 
-| 99 |  | Alsónána |  |  |
+|  | Bátonyterenye | 12826 |  |  |
 
-| 100 |  | Báta |  |  |
+|  | Dorogháza | 1098 |  |  |
 
-| 101 |  | Bátaapáti |  |  |
+|  | Mátramindszent | 812 |  |  |
 
-| 102 |  | Bátaszék |  |  |
+|  | Mátraverebély | 2068 |  |  |
 
-| 103 |  | Kismórágy |  |  |
+|  | Nemti | 746 |  |  |
 
-| 104 |  | Mórágy |  |  |
+|  | Szuha | 625 |  |  |
 
-| 105 |  | Mőcsény |  |  |
+| Békés |  | 19981 | 22 469 | + |
 
-| 106 | Bátonyterenye |  | 19 411 |  |
+|  | Békés | 19981 |  |  |
 
-| 107 |  | Bátonyterenye |  |  |
+| Békéscsaba |  | 64074 | 95 171 | + |
 
-| 108 |  | Dorogháza |  |  |
+|  | Békéscsaba | 64074 |  | + |
 
-| 109 |  | Mátramindszent |  |  |
+| Bicske |  | 15380 | 25 141 | + |
 
-| 110 |  | Mátraverebély |  |  |
+|  | Bicske | 11659 |  | + |
 
-| 111 |  | Nemti |  |  |
+|  | Csabdi | 1195 |  |  |
 
-| 112 |  | Szuha |  |  |
+|  | Mány | 2359 |  |  |
 
-| 113 | Békés |  | 22 369 | + |
+|  | Vasztély (Csabdi) | 167 |  |  |
 
-| 114 |  | Békés |  |  |
+| Bonyhád |  | 18897 | 20 170 | + |
 
-| 115 | Békéscsaba |  | 114 685 | + |
+|  | Bonyhád | 13829 |  |  |
 
-| 116 |  | Békéscsaba |  | + |
+|  | Cikó | 838 |  |  |
 
-| 117 | Biatorbágy |  | 16 254 | + |
+|  | Kakasd | 1611 |  |  |
 
-| 118 |  | Biatorbágy |  |  |
+|  | Kismányok | 343 |  |  |
 
-| 119 | Bicske |  | 19 216 |  |
+|  | Nagymányok | 2276 |  |  |
 
-| 120 |  | Bicske |  |  |
+| Budakeszi |  | 14311 | 23 187 | + |
 
-| 121 |  | Csabdi |  |  |
+|  | Budakeszi | 14311 |  | + |
 
-| 122 |  | Mány |  |  |
+| Budapest |  | 1857109 | 2 454 534 | + |
 
-| 123 | Bonyhád |  | 20 238 | + |
+|  | Budapest | 1721556 |  | + |
 
-| 124 |  | Bonyhád |  |  |
+|  | Nagykovácsi | 6628 |  |  |
 
-| 125 |  | Cikó |  |  |
+|  | Remeteszőlős | 726 |  |  |
 
-| 126 |  | Kakasd |  |  |
+|  | Gyál | 23431 |  | + |
 
-| 127 |  | Kismányok |  |  |
+|  | Üllő | 11350 |  |  |
 
-| 128 |  | Nagymányok |  |  |
+|  | Vecsés | 20879 |  |  |
 
-| 129 | Budakeszi |  | 20 066 | + |
+|  | Budakalász | 10452 |  |  |
 
-| 130 |  | Budakeszi |  | + |
+|  | Kerepes | 9977 |  |  |
 
-| 131 | Budapest |  | 3 302 338 | + |
+|  | Kistarcsa | 11703 |  |  |
 
-| 132 |  | Budapest |  | + |
+|  | Nagytarcsa | 3738 |  |  |
 
-| 133 |  | Nagykovácsi |  |  |
+|  | Üröm | 7241 |  |  |
 
-| 134 |  | Remeteszőlős |  |  |
+|  | Budaörs | 29428 |  | + |
 
-| 135 |  | Gyál |  | + |
+| Cegléd |  | 38066 | 50 901 | + |
 
-| 136 |  | Üllő |  |  |
+|  | Cegléd | 38066 |  | + |
 
-| 137 |  | Vecsés |  |  |
+| Csongrád |  | 19099 | 21 702 | + |
 
-| 138 |  | Budakalász |  | + |
+|  | Csongrád | 17147 |  | + |
 
-| 139 |  | Kerepes |  |  |
+|  | Csongrád-Bokros | 640 |  | + |
 
-| 140 |  | Kistarcsa |  |  |
+|  | Felgyő | 1312 |  | + |
 
-| 141 |  | Nagytarcsa |  |  |
+| Csorna |  | 14644 | 23 486 | + |
 
-| 142 |  | Üröm |  |  |
+|  | Bősárkány | 2125 |  | + |
 
-| 143 |  | Budaörs |  | + |
+|  | Csorna | 10585 |  |  |
 
-| 144 | Cegléd |  | 75 388 | + |
+|  | Farád | 1934 |  |  |
 
-| 145 |  | Cegléd |  | + |
+| Debrecen |  | 219083 | 448 171 | + |
 
-| 146 | Csongrád |  | 21 114 | + |
+|  | Debrecen | 208016 |  | + |
 
-| 147 |  | Csongrád |  |  |
+|  | Ebes | 4392 |  | + |
 
-| 148 |  | Csongrád-Bokros |  |  |
+|  | Hajdúsámson | 13122 |  | + |
 
-| 149 |  | Felgyő |  | + |
+|  | Mikepércs | 4388 |  | + |
 
-| 150 | Csorna |  | 24 678 | + |
+|  | Sáránd | 2287 |  | + |
 
-| 151 |  | Bősárkány |  | + |
+| Demecser |  | 14912 | 16 817 |  |
 
-| 152 |  | Csorna |  |  |
+|  | Berkesz | 876 |  |  |
 
-| 153 |  | Farád |  |  |
+|  | Demecser | 4304 |  |  |
 
-| 154 | Debrecen |  | 456 166 | + |
+|  | Gégény | 1920 |  |  |
 
-| 155 |  | Debrecen |  | + |
+|  | Kék | 1916 |  |  |
 
-| 156 |  | Ebes |  | + |
+|  | Nyírtass | 1950 |  |  |
 
-| 157 |  | Hajdúsámson |  | + |
+|  | Pátroha | 2881 |  |  |
 
-| 158 |  | Mikepércs |  | + |
+|  | Székely | 1065 |  |  |
 
-| 159 |  | Sáránd |  | + |
+| Dombóvár |  | 23384 | 30 647 | + |
 
-| 160 | Demecser |  | 20 046 | + |
+|  | Attala | 840 |  | + |
 
-| 161 |  | Berkesz |  |  |
+|  | Dombóvár | 19703 |  | + |
 
-| 162 |  | Demecser |  |  |
+|  | Döbrököz | 1938 |  | + |
 
-| 163 |  | Gégény |  | + |
+|  | Kapospula | 903 |  |  |
 
-| 164 |  | Kék |  |  |
+| Dunakeszi |  | 84499 | 89 983 | + |
 
-| 165 |  | Nyírtass |  |  |
+|  | Csomád | 1546 |  |  |
 
-| 166 |  | Pátroha |  |  |
+|  | Dunakeszi | 39446 |  |  |
 
-| 167 |  | Székely |  |  |
+|  | Fót | 18864 |  | + |
 
-| 168 | Dombóvár |  | 26 709 | + |
+|  | Göd | 18379 |  |  |
 
-| 169 |  | Attala |  | + |
+|  | Mogyoród | 6264 |  |  |
 
-| 170 |  | Dombóvár |  | + |
+| Dunaújváros |  | 61814 | 69 242 | + |
 
-| 171 |  | Döbrököz |  | + |
+|  | Baracs | 3527 |  | + |
 
-| 172 |  | Kapospula |  |  |
+|  | Dunaújváros | 48104 |  |  |
 
-| 173 | Dorog |  | 16 773 |  |
+|  | Kisapostag | 1414 |  | + |
 
-| 174 |  | Dorog |  |  |
+|  | Mezőfalva | 4699 |  | + |
 
-| 175 |  | Tokodaltáró |  |  |
+|  | Nagyvenyim | 4070 |  | + |
 
-| 176 | Dunakeszi |  | 89 629 | + |
+| Dunavarsány |  | 22002 | 31 782 | + |
 
-| 177 |  | Csomád |  |  |
+|  | Áporka | 1171 |  |  |
 
-| 178 |  | Dunakeszi |  |  |
+|  | Délegyháza | 3406 |  | + |
 
-| 179 |  | Fót |  | + |
+|  | Dunavarsány | 7363 |  |  |
 
-| 180 |  | Göd |  |  |
+|  | Majosháza | 1570 |  |  |
 
-| 181 |  | Mogyoród |  |  |
+|  | Szigetszentmárton | 2140 |  |  |
 
-| 182 | Dunaújváros |  | 71 408 | + |
+|  | Taksony | 6352 |  |  |
 
-| 183 |  | Baracs |  | + |
+| Écs |  | 18288 | 20 819 | + |
 
-| 184 |  | Dunaújváros |  |  |
+|  | Écs | 1825 |  |  |
 
-| 185 |  | Kisapostag |  | + |
+|  | Győrasszonyfa | 498 |  |  |
 
-| 186 |  | Mezőfalva |  | + |
+|  | Győrság | 1497 |  |  |
 
-| 187 |  | Nagyvenyim |  | + |
+|  | Nyalka | 452 |  |  |
 
-| 188 | Dunavarsány |  | 25 271 | + |
+|  | Nyúl | 4263 |  |  |
 
-| 189 |  | Áporka |  |  |
+|  | Pannonhalma | 3859 |  |  |
 
-| 190 |  | Délegyháza |  | + |
+|  | Pázmándfalu | 968 |  |  |
 
-| 191 |  | Dunavarsány |  |  |
+|  | Pér | 2321 |  |  |
 
-| 192 |  | Majosháza |  |  |
+|  | Pér-Mindszentpuszta | 333 |  |  |
 
-| 193 |  | Szigetszentmárton |  |  |
+|  | Ravazd | 1178 |  |  |
 
-| 194 |  | Taksony |  |  |
+|  | Táp | 712 |  |  |
 
-| 195 | Écs |  | 21 826 | + |
+|  | Tarjánpuszta | 382 |  |  |
 
-| 196 |  | Écs |  |  |
+| Edelény |  | 10101 | 19 282 | + |
 
-| 197 |  | Győrasszonyfa |  |  |
+|  | Edelény | 10101 |  |  |
 
-| 198 |  | Győrság |  |  |
+| Eger |  | 68366 | 82 705 | + |
 
-| 199 |  | Nyalka |  |  |
+|  | Eger | 56530 |  |  |
 
-| 200 |  | Nyúl |  |  |
+|  | Egerbakta | 1449 |  |  |
 
-| 201 |  | Pannonhalma |  |  |
+|  | Egerszalók | 1884 |  |  |
 
-| 202 |  | Pázmándfalu |  |  |
+|  | Egerszólát | 1061 |  |  |
 
-| 203 |  | Pér |  |  |
+|  | Felsőtárkány | 3396 |  |  |
 
-| 204 |  | Pér-Mindszentpuszta |  |  |
+|  | Novaj | 1406 |  |  |
 
-| 205 |  | Ravazd |  |  |
+|  | Ostoros | 2640 |  |  |
 
-| 206 |  | Táp |  |  |
+| Érd |  | 83430 | 101 133 | + |
 
-| 207 |  | Tarjánpuszta |  |  |
+|  | Diósd | 9213 |  |  |
 
-| 208 | Eger |  | 83 375 |  |
+|  | Érd | 65043 |  |  |
 
-| 209 |  | Eger |  |  |
+|  | Tárnok | 9174 |  |  |
 
-| 210 |  | Egerbakta |  |  |
+| Gárdony |  | 23135 | 36 198 | + |
 
-| 211 |  | Egerszalók |  |  |
+|  | Gárdony | 9742 |  |  |
 
-| 212 |  | Egerszólát |  |  |
+|  | Kápolnásnyék | 3552 |  |  |
 
-| 213 |  | Felsőtárkány |  |  |
+|  | Nadap | 536 |  |  |
 
-| 214 |  | Novaj |  |  |
+|  | Pázmánd | 2030 |  |  |
 
-| 215 |  | Ostoros |  |  |
+|  | Sukoró | 1237 |  |  |
 
-| 216 | Érd |  | 92 458 | + |
+|  | Velence | 5241 |  |  |
 
-| 217 |  | Diósd |  |  |
+|  | Vereb | 797 |  | + |
 
-| 218 |  | Érd |  | + |
+| Gödöllő |  | 34396 | 43 752 | + |
 
-| 219 |  | Tárnok |  |  |
+|  | Gödöllő | 34396 |  |  |
 
-| 220 | Esztergom |  | 38 251 | + |
+| Gyömrő |  | 31858 | 34 660 |  |
 
-| 221 |  | Esztergom |  |  |
+|  | Ecser | 3649 |  |  |
 
-| 222 | Fertőendréd |  | 17 393 |  |
+|  | Gyömrő | 16442 |  |  |
 
-| 223 |  | Agyagosszergény |  |  |
+|  | Maglód | 11767 |  |  |
 
-| 224 |  | Fertőboz |  |  |
+| Gyöngyös |  | 42818 | 43 045 | + |
 
-| 225 |  | Fertőd |  |  |
+|  | Gyöngyös | 32640 |  |  |
 
-| 226 |  | Fertőendréd |  |  |
+|  | Gyöngyös (Mátrafüred) | 0 |  |  |
 
-| 227 |  | Fertőhomok |  |  |
+|  | Gyöngyöshalász | 2550 |  |  |
 
-| 228 |  | Fertőszentmiklós |  |  |
+|  | Gyöngyösoroszi | 1506 |  |  |
 
-| 229 |  | Fertőszéplak |  |  |
+|  | Gyöngyössolymos | 3011 |  |  |
 
-| 230 |  | Hegykő |  |  |
+|  | Nagyréde | 3111 |  |  |
 
-| 231 |  | Hidegség |  |  |
+| Győr |  | 160311 | 221 246 | + |
 
-| 232 |  | Petőháza |  |  |
+|  | Abda | 3167 |  |  |
 
-| 233 |  | Sarród |  |  |
+|  | Börcs | 1296 |  |  |
 
-| 234 | Gárdony |  | 37 519 | + |
+|  | Gönyű | 3099 |  | + |
 
-| 235 |  | Gárdony |  |  |
+|  | Győr | 131267 |  |  |
 
-| 236 |  | Kápolnásnyék |  |  |
+|  | Győrújbarát | 6169 |  |  |
 
-| 237 |  | Nadap |  |  |
+|  | Győrújfalu | 1494 |  |  |
 
-| 238 |  | Pázmánd |  |  |
+|  | Ikrény | 1800 |  |  |
 
-| 239 |  | Sukoró |  |  |
+|  | Kisbajcs | 838 |  |  |
 
-| 240 |  | Velence |  |  |
+|  | Koroncó | 2007 |  |  |
 
-| 241 |  | Vereb |  | + |
+|  | Nagybajcs | 909 |  |  |
 
-| 242 | Gödöllő |  | 46 385 | + |
+|  | Nagyszentjános | 1803 |  | + |
 
-| 243 |  | Gödöllő |  | + |
+|  | Rábapatona | 2451 |  |  |
 
-| 244 | Gyomaendrőd |  | 16 846 |  |
+|  | Töltéstava | 2227 |  |  |
 
-| 245 |  | Gyomaendrőd |  |  |
+|  | Vámosszabadi | 1598 |  |  |
 
-| 246 | Gyömrő |  | 31 703 |  |
+|  | Vének | 186 |  |  |
 
-| 247 |  | Ecser |  |  |
+| Hajdúböszörmény |  | 36470 | 57 365 | + |
 
-| 248 |  | Gyömrő |  |  |
+|  | Bocskaikert | 2949 |  |  |
 
-| 249 |  | Maglód |  |  |
+|  | Hajdúböszörmény | 31620 |  | + |
 
-| 250 | Gyöngyös |  | 51 401 | + |
+|  | Hajdúböszörmény-Bodaszőlő | 1092 |  | + |
 
-| 251 |  | Gyöngyös |  |  |
+|  | Hajdúböszörmény-Hajdúvid | 809 |  |  |
 
-| 252 |  | Gyöngyöshalász |  |  |
+| Hajdúhadház |  | 19015 | 22 195 | + |
 
-| 253 |  | Gyöngyösoroszi |  |  |
+|  | Hajdúhadház | 12409 |  |  |
 
-| 254 |  | Gyöngyössolymos |  |  |
+|  | Téglás | 6606 |  |  |
 
-| 255 |  | Nagyréde |  |  |
+| Hajdúnánás |  | 26089 | 26 563 | + |
 
-| 256 | Győr |  | 169 826 | + |
+|  | Hajdúdorog | 8977 |  |  |
 
-| 257 |  | Abda |  |  |
+|  | Hajdúnánás | 17112 |  | + |
 
-| 258 |  | Börcs |  |  |
+| Hajdúszoboszló |  | 23265 | 24 388 | + |
 
-| 259 |  | Gönyű |  | + |
+|  | Hajdúszoboszló | 23265 |  | + |
 
-| 260 |  | Győr |  |  |
+| Hatvan |  | 35659 | 37 289 | + |
 
-| 261 |  | Győrújbarát |  |  |
+|  | Apc | 2593 |  | + |
 
-| 262 |  | Győrújfalu |  |  |
+|  | Ecséd | 3254 |  | + |
 
-| 263 |  | Ikrény |  |  |
+|  | Hatvan | 20332 |  | + |
 
-| 264 |  | Kisbajcs |  |  |
+|  | Lőrinci | 5969 |  |  |
 
-| 265 |  | Koroncó |  |  |
+|  | Szűcsi | 1578 |  | + |
 
-| 266 |  | Nagybajcs |  |  |
+|  | Zagyvaszántó | 1933 |  |  |
 
-| 267 |  | Nagyszentjános |  | + |
+| Hódmezővásárhely |  | 47019 | 88 179 | + |
 
-| 268 |  | Rábapatona |  |  |
+|  | Hódmezővásárhely | 47019 |  | + |
 
-| 269 |  | Töltéstava |  |  |
+| Ibrány |  | 12472 | 15 007 |  |
 
-| 270 |  | Vámosszabadi |  |  |
+|  | Ibrány | 6886 |  |  |
 
-| 271 |  | Vének |  |  |
+|  | Nagyhalász | 5586 |  |  |
 
-| 272 | Hajdúböszörmény |  | 59 023 | + |
+| Jászapáti |  | 16716 | 16 735 |  |
 
-| 273 |  | Bocskaikert |  |  |
+|  | Jászapáti | 9048 |  |  |
 
-| 274 |  | Hajdúböszörmény |  | + |
+|  | Jászkisér | 5260 |  |  |
 
-| 275 |  | Hajdúböszörmény- Bodaszőlő |  | + |
+|  | Jászszentandrás | 2408 |  |  |
 
-| 276 |  | Hajdúböszörmény- Hajdúvid |  |  |
+| Jászberény |  | 30032 | 61 393 | + |
 
-| 277 | Hajdúhadház |  | 22 717 | + |
+|  | Jászberény | 26965 |  | + |
 
-| 278 |  | Hajdúhadház |  | + |
+|  | Jászjákóhalma | 3067 |  |  |
 
-| 279 |  | Téglás |  |  |
+| Kalocsa |  | 28937 | 43 415 | + |
 
-| 280 | Hajdúnánás |  | 27 465 | + |
+|  | Bátya | 2051 |  |  |
 
-| 281 |  | Hajdúdorog |  |  |
+|  | Drágszél | 328 |  |  |
 
-| 282 |  | Hajdúnánás |  | + |
+|  | Dunaszentbenedek | 813 |  | + |
 
-| 283 | Hajdúszoboszló |  | 24 816 | + |
+|  | Foktő | 1620 |  |  |
 
-| 284 |  | Hajdúszoboszló |  | + |
+|  | Géderlak | 988 |  | + |
 
-| 285 | Hatvan |  | 42 714 | + |
+|  | Homokmégy | 1312 |  |  |
 
-| 286 |  | Apc |  | + |
+|  | Kalocsa | 17165 |  | + |
 
-| 287 |  | Ecséd |  | + |
+|  | Miske | 1683 |  |  |
 
-| 288 |  | Hatvan |  |  |
+|  | Öregcsertő | 789 |  |  |
 
-| 289 |  | Lőrinci (Selyp nélkül) |  |  |
+|  | Szakmár | 1139 |  |  |
 
-| 290 |  | Szűcsi |  | + |
+|  | Uszód | 1049 |  | + |
 
-| 291 |  | Zagyvaszántó |  |  |
+| Kaposvár |  | 80085 | 138 719 | + |
 
-| 292 | Hódmezővásárhely |  | 102 683 | + |
+|  | Kaposvár | 67979 |  |  |
 
-| 293 |  | Hódmezővásárhely |  | + |
+|  | Kaposszerdahely | 972 |  | + |
 
-| 294 | Jászapáti |  | 25 685 |  |
+|  | Magyaratád | 843 |  |  |
 
-| 295 |  | Jászapáti |  |  |
+|  | Magyaregres | 662 |  |  |
 
-| 296 |  | Jászkisér |  |  |
+|  | Mernye | 1433 |  |  |
 
-| 297 |  | Jászszentandrás |  |  |
+|  | Orci | 562 |  |  |
 
-| 298 | Jászberény |  | 52 553 | + |
+|  | Patalom | 344 |  |  |
 
-| 299 |  | Jászberény |  | + |
+|  | Sántos | 521 |  | + |
 
-| 300 |  | Jászjákóhalma |  |  |
+|  | Simonfa | 363 |  |  |
 
-| 301 | Kalocsa |  | 39 420 | + |
+|  | Somogyaszaló | 535 |  |  |
 
-| 302 |  | Bátya |  |  |
+|  | Somogyaszaló-Antalmajor | 180 |  |  |
 
-| 303 |  | Drágszél |  |  |
+|  | Somogyjád | 1569 |  |  |
 
-| 304 |  | Dunaszentbenedek |  | + |
+|  | Szentbalázs | 321 |  | + |
 
-| 305 |  | Foktő |  |  |
+|  | Taszár | 1995 |  |  |
 
-| 306 |  | Géderlak |  | + |
+|  | Várda | 497 |  |  |
 
-| 307 |  | Homokmégy |  |  |
+|  | Zimány | 597 |  |  |
 
-| 308 |  | Kalocsa |  | + |
+|  | Zselickislak | 318 |  |  |
 
-| 309 |  | Miske |  |  |
+|  | Zselicszentpál | 394 |  |  |
 
-| 310 |  | Öregcsertő |  |  |
+| Karcag |  | 20298 | 20 338 | + |
 
-| 311 |  | Szakmár |  |  |
+|  | Karcag | 20298 |  |  |
 
-| 312 |  | Uszód |  | + |
+| Kazincbarcika |  | 52246 | 52 934 | + |
 
-| 313 | Kaposvár |  | 113 251 | + |
+|  | Alsótelekes | 145 |  |  |
 
-| 314 |  | Kaposvár |  |  |
+|  | Berente | 1119 |  |  |
 
-| 315 |  | Kaposszerdahely |  | + |
+|  | Dövény | 289 |  |  |
 
-| 316 |  | Magyaratád |  |  |
+|  | Égerszög | 45 |  |  |
 
-| 317 |  | Magyaregres |  |  |
+|  | Felsőkelecsény | 371 |  |  |
 
-| 318 |  | Mernye |  |  |
+|  | Felsőnyárád | 1017 |  |  |
 
-| 319 |  | Orci |  |  |
+|  | Felsőtelekes | 697 |  |  |
 
-| 320 |  | Patalom |  |  |
+|  | Izsófalva | 1732 |  |  |
 
-| 321 |  | Sántos |  |  |
+|  | Jákfalva | 519 |  |  |
 
-| 322 |  | Simonfa |  |  |
+|  | Kánó | 171 |  |  |
 
-| 323 |  | Somogyaszaló |  |  |
+|  | Kazincbarcika | 28909 |  |  |
 
-| 324 |  | Somogyjád |  |  |
+|  | Kurityán | 1657 |  |  |
 
-| 325 |  | Szentbalázs |  |  |
+|  | Martonyi | 392 |  |  |
 
-| 326 |  | Taszár |  |  |
+|  | Meszes | 153 |  |  |
 
-| 327 |  | Várda |  |  |
+|  | Múcsony | 3165 |  |  |
 
-| 328 |  | Zimány |  |  |
+|  | Ormosbánya | 1673 |  |  |
 
-| 329 |  | Zselickislak |  |  |
+|  | Rudabánya | 2511 |  |  |
 
-| 330 |  | Zselicszentpál |  |  |
+|  | Sajóivánka | 613 |  |  |
 
-| 331 | Kapuvár |  | 32 163 | + |
+|  | Szalonna | 1027 |  |  |
 
-| 332 |  | Babót |  |  |
+|  | Szendrő | 4119 |  |  |
 
-| 333 |  | Himod |  |  |
+|  | Szőlősardó | 103 |  |  |
 
-| 334 |  | Hövej |  |  |
+|  | Szuhogy | 1223 |  |  |
 
-| 335 |  | Kapuvár |  |  |
+|  | Teresztenye | 21 |  |  |
 
-| 336 |  | Osli |  |  |
+|  | Zubogy | 575 |  |  |
 
-| 337 |  | Szárföld |  |  |
+| Kecskemét |  | 129636 | 236 990 | + |
 
-| 338 |  | Veszkény |  |  |
+|  | Ballószög | 3399 |  |  |
 
-| 339 |  | Vitnyéd |  |  |
+|  | Helvécia | 4471 |  |  |
 
-| 340 | Karcag |  | 25 088 | + |
+|  | Kecskemét | 113275 |  | + |
 
-| 341 |  | Karcag |  | + |
+|  | Kerekegyháza | 6327 |  |  |
 
-| 342 | Kazincbarcika |  | 55 304 |  |
+|  | Városföld | 2164 |  | + |
 
-| 343 |  | Alsótelekes |  |  |
+| Kiskőrös |  | 14269 | 19 592 | + |
 
-| 344 |  | Berente |  |  |
+|  | Kiskőrös | 14269 |  | + |
 
-| 345 |  | Dövény |  |  |
+| Kiskunfélegyháza |  | 30305 | 42 566 | + |
 
-| 346 |  | Égerszög |  |  |
+|  | Kiskunfélegyháza | 30305 |  | + |
 
-| 347 |  | Felsőkelecsény |  |  |
+| Kiskunhalas |  | 28752 | 44 746 | + |
 
-| 348 |  | Felsőnyárád |  |  |
+|  | Kiskunhalas | 28752 |  | + |
 
-| 349 |  | Felsőtelekes |  |  |
+| Kisvárda |  | 17826 | 26 133 | + |
 
-| 350 |  | Izsófalva |  |  |
+|  | Kisvárda | 17826 |  | + |
 
-| 351 |  | Jákfalva |  |  |
+| Komló |  | 28961 | 33 294 | + |
 
-| 352 |  | Kánó |  |  |
+|  | Bodolyabér | 225 |  |  |
 
-| 353 |  | Kazincbarcika |  |  |
+|  | Komló | 25299 |  | + |
 
-| 354 |  | Kurityán |  |  |
+|  | Liget | 422 |  |  |
 
-| 355 |  | Martonyi |  |  |
+|  | Magyarhertelend | 635 |  |  |
 
-| 356 |  | Meszes |  |  |
+|  | Magyarszék | 1095 |  |  |
 
-| 357 |  | Múcsony |  |  |
+|  | Mánfa | 865 |  |  |
 
-| 358 |  | Ormosbánya |  |  |
+|  | Mecsekpölöske | 420 |  |  |
 
-| 359 |  | Rudabánya |  |  |
+| Köröm |  | 23474 | 25 111 | + |
 
-| 360 |  | Sajóivánka |  |  |
+|  | Berzék | 1098 |  |  |
 
-| 361 |  | Szalonna |  |  |
+|  | Gesztely | 2792 |  |  |
 
-| 362 |  | Szendrő |  |  |
+|  | Hernádkak | 1671 |  |  |
 
-| 363 |  | Szőlősardó |  |  |
+|  | Hernádnémeti | 3453 |  |  |
 
-| 364 |  | Szuhogy |  |  |
+|  | Köröm | 1375 |  |  |
 
-| 365 |  | Teresztenye |  |  |
+|  | Onga | 4800 |  |  |
 
-| 366 |  | Zubogy |  |  |
+|  | Ónod | 2597 |  |  |
 
-| 367 | Kecskemét |  | 234 534 | + |
+|  | Sajóhídvég | 1035 |  |  |
 
-| 368 |  | Ballószög |  | + |
+|  | Sajólád | 3110 |  |  |
 
-| 369 |  | Helvécia |  |  |
+|  | Sajópetri | 1543 |  |  |
 
-| 370 |  | Kecskemét |  |  |
+| Madocsa |  | 14685 | 16 698 |  |
 
-| 371 |  | Kerekegyháza |  |  |
+|  | Bölcske | 2828 |  |  |
 
-| 372 | Kisbér |  | 17 561 | + |
+|  | Dunaföldvár | 8776 |  |  |
 
-| 373 |  | Ászár |  |  |
+|  | Madocsa | 1877 |  |  |
 
-| 374 |  | Bakonysárkány |  | + |
+|  | Paks - Dunakömlőd | 1204 |  |  |
 
-| 375 |  | Kisbér |  |  |
+| Makó |  | 37171 | 50 914 | + |
 
-| 376 |  | Vérteskethely |  | + |
+|  | Apátfalva | 2998 |  | + |
 
-| 377 | Kiskőrös |  | 15 501 | + |
+|  | Földeák | 3061 |  | + |
 
-| 378 |  | Kiskőrös |  | + |
+|  | Kiszombor | 3840 |  | + |
 
-| 379 | Kiskunfélegyháza |  | 39 949 | + |
+|  | Magyarcsanád | 1509 |  | + |
 
-| 380 |  | Kiskunfélegyháza |  | + |
+|  | Makó | 23727 |  | + |
 
-| 381 | Kiskunhalas |  | 42 392 | + |
+|  | Maroslele | 2036 |  | + |
 
-| 382 |  | Kiskunhalas |  | + |
+| Mátészalka |  | 25861 | 32 229 | + |
 
-| 383 | Kisvárda |  | 25 887 | + |
+|  | Mátészalka | 17086 |  |  |
 
-| 384 |  | Kisvárda |  | + |
+|  | Nyírcsaholy | 2119 |  | + |
 
-| 385 | Komló |  | 32 754 |  |
+|  | Nyírmeggyes | 2563 |  | + |
 
-| 386 |  | Bodolyabér |  |  |
+|  | Ópályi | 2836 |  |  |
 
-| 387 |  | Komló |  |  |
+| Mezőkövesd |  | 16607 | 22 456 | + |
 
-| 388 |  | Liget |  |  |
+|  | Mezőkövesd | 16607 |  | + |
 
-| 389 |  | Magyarhertelend |  |  |
+| Mezőtúr |  | 17620 | 18 677 | + |
 
-| 390 |  | Magyarszék |  |  |
+|  | Mezőtúr | 17620 |  |  |
 
-| 391 |  | Mánfa |  |  |
+| Miskolc |  | 200337 | 218 487 |  |
 
-| 392 |  | Mecsekpölöske |  |  |
+|  | Alsózsolca | 5977 |  |  |
 
-| 393 | Körmend |  | 17 508 | + |
+|  | Arnót | 2583 |  |  |
 
-| 394 |  | Körmend |  | + |
+|  | Bükkszentkereszt | 1188 |  |  |
 
-| 395 | Köröm |  | 24 090 | + |
+|  | Felsőzsolca | 6869 |  |  |
 
-| 396 |  | Berzék |  |  |
+|  | Kistokaj | 2109 |  |  |
 
-| 397 |  | Gesztely |  |  |
+|  | Mályi | 4126 |  |  |
 
-| 398 |  | Hernádkak |  |  |
+|  | Miskolc | 168075 |  |  |
 
-| 399 |  | Hernádnémeti |  |  |
+|  | Nyékládháza | 4991 |  |  |
 
-| 400 |  | Köröm |  |  |
+|  | Szirmabesenyő | 4419 |  |  |
 
-| 401 |  | Onga |  |  |
+| Mohács |  | 21393 | 25 014 |  |
 
-| 402 |  | Ónod |  |  |
+|  | Lánycsók | 2509 |  |  |
 
-| 403 |  | Sajóhidvég |  |  |
+|  | Mohács | 18884 |  |  |
 
-| 404 |  | Sajólád |  |  |
+| Monor |  | 31003 | 31 206 | + |
 
-| 405 |  | Sajópetri |  |  |
+|  | Csévharaszt | 1936 |  |  |
 
-| 406 | Kunsziget |  | 19 040 |  |
+|  | Gomba | 2962 |  |  |
 
-| 407 |  | Dunaszeg |  |  |
+|  | Monor | 18465 |  |  |
 
-| 408 |  | Dunaszentpál |  |  |
+|  | Monorierdő | 3582 |  |  |
 
-| 409 |  | Győrladamér |  |  |
+|  | Péteri | 2208 |  |  |
 
-| 410 |  | Győrzámoly |  |  |
+|  | Vasad | 1850 |  |  |
 
-| 411 |  | Kunsziget |  |  |
+| Mosonmagyaróvár |  | 38942 | 81 917 | + |
 
-| 412 |  | Lébény |  |  |
+|  | Halászi | 2939 |  |  |
 
-| 413 |  | Mecsér |  |  |
+|  | Levél | 1798 |  |  |
 
-| 414 |  | Mosonszentmiklós |  |  |
+|  | Máriakálnok | 1712 |  |  |
 
-| 415 |  | Öttevény |  |  |
+|  | Mosonmagyaróvár | 32493 |  |  |
 
-| 416 | Madocsa |  | 15 944 |  |
+| Nagyatád |  | 18916 | 23 706 | + |
 
-| 417 |  | Bölcske |  |  |
+|  | Bakháza | 184 |  | + |
 
-| 418 |  | Dunaföldvár |  |  |
+|  | Görgeteg | 1167 |  | + |
 
-| 419 |  | Madocsa |  |  |
+|  | Háromfa | 757 |  | + |
 
-| 420 |  | Paks - Dunakömlőd |  |  |
+|  | Kutas | 1488 |  | + |
 
-| 421 | Makó |  | 55 571 | + |
+|  | Lábod | 1995 |  | + |
 
-| 422 |  | Apátfalva |  | + |
+|  | Nagyatád | 10887 |  | + |
 
-| 423 |  | Földeák |  | + |
+|  | Ötvöskónyi | 860 |  | + |
 
-| 424 |  | Kiszombor |  |  |
+|  | Rinyaszentkirály | 387 |  | + |
 
-| 425 |  | Magyarcsanád |  | + |
+|  | Tarany | 1191 |  | + |
 
-| 426 |  | Makó |  | + |
+| Nagykanizsa |  | 60875 | 70 444 | + |
 
-| 427 |  | Maroslele |  | + |
+|  | Bocska | 371 |  | + |
 
-| 428 | Mátészalka |  | 37 942 | + |
+|  | Eszteregnye | 694 |  | + |
 
-| 429 |  | Mátészalka |  |  |
+|  | Fityeház | 654 |  | + |
 
-| 430 |  | Nyírcsaholy |  | + |
+|  | Fűzvölgy | 140 |  | + |
 
-| 431 |  | Nyírmeggyes |  | + |
+|  | Homokkomárom | 208 |  | + |
 
-| 432 |  | Ópályi |  |  |
+|  | Hosszúvölgy | 160 |  | + |
 
-| 433 | Mezőkovácsháza |  | 18 757 | + |
+|  | Iharos | 453 |  |  |
 
-| 434 |  | Mezőkovácsháza |  | + |
+|  | Iharosberény | 1201 |  |  |
 
-| 435 |  | Végegyháza |  | + |
+|  | Inke | 1259 |  |  |
 
-| 436 | Mezőkövesd |  | 21 840 | + |
+|  | Magyarszentmiklós | 270 |  | + |
 
-| 437 |  | Mezőkövesd |  | + |
+|  | Magyarszerdahely | 507 |  | + |
 
-| 438 | Mezőtúr |  | 21 944 | + |
+|  | Nagykanizsa | 49850 |  | + |
 
-| 439 |  | Mezőtúr |  |  |
+|  | Nagyrécse | 1113 |  |  |
 
-| 440 | Miskolc |  | 279 430 | + |
+|  | Pogányszentpéter | 498 |  |  |
 
-| 441 |  | Alsózsolca |  |  |
+|  | Rigyác | 426 |  | + |
 
-| 442 |  | Arnót |  |  |
+|  | Semjénháza | 616 |  | + |
 
-| 443 |  | Bükkszentkereszt |  |  |
+|  | Szepetnek | 1640 |  | + |
 
-| 444 |  | Felsőzsolca |  |  |
+|  | Zalaszentbalázs | 815 |  | + |
 
-| 445 |  | Kistokaj |  |  |
+| Nagykőrös |  | 24691 | 48 644 | + |
 
-| 446 |  | Mályi |  |  |
+|  | Nagykőrös | 24691 |  | + |
 
-| 447 |  | Miskolc |  | + |
+| Nyírbátor |  | 16147 | 19 764 | + |
 
-| 448 |  | Nyékládháza |  |  |
+|  | Nyírbátor | 12150 |  |  |
 
-| 449 |  | Szirmabesenyő |  |  |
+|  | Nyírgyulaj | 1981 |  | + |
 
-| 450 | Mohács |  | 22 933 |  |
+|  | Nyírvasvári | 2016 |  | + |
 
-| 451 |  | Lánycsók |  |  |
+| Nyíregyháza |  | 127873 | 239 491 | + |
 
-| 452 |  | Mohács |  |  |
+|  | Kálmánháza | 1988 |  |  |
 
-| 453 | Monor |  | 32 301 | + |
+|  | Kótaj | 4536 |  |  |
 
-| 454 |  | Csévharaszt |  |  |
+|  | Nyíregyháza | 117852 |  | + |
 
-| 455 |  | Gomba |  |  |
+|  | Nyírpazony | 3497 |  |  |
 
-| 456 |  | Monor |  |  |
+| Ócsa |  | 16924 | 16 924 |  |
 
-| 457 |  | Monorierdő |  |  |
+|  | Felsőpakony | 3403 |  |  |
 
-| 458 |  | Péteri |  |  |
+|  | Inárcs | 4448 |  |  |
 
-| 459 |  | Vasad |  |  |
+|  | Ócsa | 9073 |  |  |
 
-| 460 | Mosonmagyaróvár |  | 77 778 | + |
+| Orosháza |  | 29342 | 55 246 | + |
 
-| 461 |  | Halászi |  |  |
+|  | Orosháza | 29342 |  | + |
 
-| 462 |  | Levél |  |  |
+| Ózd |  | 36134 | 41 973 | + |
 
-| 463 |  | Máriakálnok |  |  |
+|  | Farkaslyuk | 1739 |  | + |
 
-| 464 |  | Mosonmagyaróvár |  |  |
+|  | Ózd | 34395 |  | + |
 
-| 465 | Nagyatád |  | 47 994 | + |
+| Paks |  | 19625 | 23 412 | + |
 
-| 466 |  | Bakháza |  | + |
+|  | Paks | 19625 |  |  |
 
-| 467 |  | Görgeteg |  | + |
+| Pécel |  | 15338 | 15 961 | + |
 
-| 468 |  | Háromfa |  | + |
+|  | Pécel | 15338 |  | + |
 
-| 469 |  | Kutas |  | + |
+| Pécs |  | 174373 | 242 926 | + |
 
-| 470 |  | Lábod |  | + |
+|  | Bakonya | 383 |  |  |
 
-| 471 |  | Nagyatád |  | + |
+|  | Boda | 432 |  |  |
 
-| 472 |  | Ötvöskónyi |  | + |
+|  | Bogád | 1080 |  | + |
 
-| 473 |  | Rinyaszentkirály |  | + |
+|  | Cserkút | 552 |  |  |
 
-| 474 |  | Tarany |  | + |
+|  | Gyód | 671 |  |  |
 
-| 475 | Nagykanizsa |  | 103 977 | + |
+|  | Keszü | 1301 |  |  |
 
-| 476 |  | Bocska |  | + |
+|  | Kozármisleny | 6061 |  |  |
 
-| 477 |  | Eszteregnye |  | + |
+|  | Kővágószőlős | 1279 |  |  |
 
-| 478 |  | Fityeház |  | + |
+|  | Kővágótöttös | 322 |  |  |
 
-| 479 |  | Fűzvölgy |  | + |
+|  | Nagykozár | 1904 |  | + |
 
-| 480 |  | Homokkomárom |  | + |
+|  | Pécs | 157721 |  |  |
 
-| 481 |  | Hosszúvölgy |  | + |
+|  | Pellérd | 2198 |  |  |
 
-| 482 |  | Iharos |  |  |
+|  | Romonya | 469 |  | + |
 
-| 483 |  | Iharosberény |  |  |
+| Pilisvörösvár |  | 13709 | 27 575 | + |
 
-| 484 |  | Inke |  |  |
+|  | Pilisvörösvár | 13709 |  | + |
 
-| 485 |  | Liszó |  | + |
+| Püspökladány |  | 14798 | 16 264 | + |
 
-| 486 |  | Magyarszentmiklós |  | + |
+|  | Püspökladány | 14798 |  | + |
 
-| 487 |  | Magyarszerdahely |  | + |
+| Ráckeve |  | 19886 | 25 833 | + |
 
-| 488 |  | Nagykanizsa |  | + |
+|  | Apaj | 1228 |  |  |
 
-| 489 |  | Nagyrécse |  |  |
+|  | Dömsöd | 5732 |  |  |
 
-| 490 |  | Pogányszentpéter |  |  |
+|  | Lórév | 320 |  |  |
 
-| 491 |  | Rigyác |  | + |
+|  | Makád | 1232 |  |  |
 
-| 492 |  | Semjénháza |  | + |
+|  | Ráckeve | 10016 |  | + |
 
-| 493 |  | Surd |  | + |
+|  | Szigetbecse | 1358 |  |  |
 
-| 494 |  | Szepetnek |  | + |
+| Sajóbábony |  | 2813 | 33 040 |  |
 
-| 495 |  | Zalaszentbalázs |  | + |
+|  | Sajóbábony | 2813 |  |  |
 
-| 496 | Nagykőrös |  | 55 319 | + |
+| Sajószentpéter |  | 17161 | 17 790 |  |
 
-| 497 |  | Nagykőrös |  | + |
+|  | Alacska | 755 |  |  |
 
-| 498 | Nyírbátor |  | 25 240 | + |
+|  | Kondó | 607 |  |  |
 
-| 499 |  | Nyírbátor |  |  |
+|  | Parasznya | 1196 |  |  |
 
-| 500 |  | Nyírgyulaj |  | + |
+|  | Radostyán | 597 |  |  |
 
-| 501 |  | Nyírvasvári |  | + |
+|  | Sajókápolna | 411 |  |  |
 
-| 502 | Nyíregyháza |  | 244 351 | + |
+|  | Sajólászlófalva | 426 |  |  |
 
-| 503 |  | Kálmánháza |  |  |
+|  | Sajószentpéter | 12084 |  |  |
 
-| 504 |  | Kótaj |  |  |
+|  | Varbó | 1085 |  |  |
 
-| 505 |  | Nyíregyháza |  | + |
+| Salgótarján |  | 43652 | 46 815 |  |
 
-| 506 |  | Nyírpazony |  |  |
+|  | Kazár | 1965 |  | + |
 
-| 507 | Ócsa |  | 16 944 |  |
+|  | Mátraszele | 1024 |  | + |
 
-| 508 |  | Felsőpakony |  |  |
+|  | Salgótarján | 37166 |  |  |
 
-| 509 |  | Inárcs |  |  |
+|  | Somoskőújfalu | 2186 |  |  |
 
-| 510 |  | Ócsa |  |  |
+|  | Vizslás | 1311 |  | + |
 
-| 511 | Orosháza |  | 65 541 | + |
+| Sárbogárd |  | 12549 | 15 184 |  |
 
-| 512 |  | Orosháza |  | + |
+|  | Sárbogárd | 12549 |  |  |
 
-| 513 | Oroszlány |  | 33 094 |  |
+| Sárospatak |  | 21008 | 24 809 | + |
 
-| 514 |  | Kecskéd |  |  |
+|  | Bodrogolaszi | 920 |  |  |
 
-| 515 |  | Oroszlány |  |  |
+|  | Erdőhorváti | 561 |  |  |
 
-| 516 | Ózd |  | 37 939 | + |
+|  | Háromhuta | 132 |  |  |
 
-| 517 |  | Farkaslyuk |  | + |
+|  | Hercegkút | 631 |  |  |
 
-| 518 |  | Ózd |  | + |
+|  | Komlóska | 245 |  |  |
 
-| 519 | Paks |  | 22 643 | + |
+|  | Makkoshotyka | 868 |  |  |
 
-| 520 |  | Paks |  |  |
+|  | Olaszliszka | 1660 |  |  |
 
-| 521 | Pécel |  | 15 925 | + |
+|  | Sárazsadány | 250 |  |  |
 
-| 522 |  | Pécel |  | + |
+|  | Sárospatak | 12920 |  |  |
 
-| 523 | Pécs |  | 257 801 | + |
+|  | Sátoraljaújhely-Károlyfalva | 281 |  |  |
 
-| 524 |  | Bakonya |  |  |
+|  | Tolcsva | 1681 |  |  |
 
-| 525 |  | Boda |  |  |
+|  | Vámosújfalu | 859 |  |  |
 
-| 526 |  | Bogád |  | + |
+| Sárvár |  | 16447 | 33 323 | + |
 
-| 527 |  | Cserkút |  |  |
+|  | Rábapaty | 1730 |  |  |
 
-| 528 |  | Gyód |  |  |
+|  | Sárvár | 14717 |  | + |
 
-| 529 |  | Keszü |  |  |
+| Sátoraljaújhely |  | 17079 | 22 723 | + |
 
-| 530 |  | Kozármisleny |  |  |
+|  | Alsóregmec | 190 |  |  |
 
-| 531 |  | Kővágószőlős |  |  |
+|  | Mikóháza | 572 |  |  |
 
-| 532 |  | Kővágótőttős |  |  |
+|  | Sátoraljaújhely | 15619 |  |  |
 
-| 533 |  | Nagykozár |  | + |
+|  | Sátoraljaújhely-Rudabányácska | 254 |  |  |
 
-| 534 |  | Pécs |  |  |
+|  | Sátoraljaújhely-Széphalom | 444 |  |  |
 
-| 535 |  | Pellérd |  |  |
+| Siófok |  | 37689 | 79 088 | + |
 
-| 536 |  | Romonya |  | + |
+|  | Balatonendréd | 1356 |  | + |
 
-| 537 | Pilisvörösvár |  | 18 586 | + |
+|  | Balatonföldvár | 2041 |  |  |
 
-| 538 |  | Pilisvörösvár |  | + |
+|  | Balatonszabadi | 2983 |  |  |
 
-| 539 | Püspökladány |  | 16 561 | + |
+|  | Balatonszárszó | 1895 |  |  |
 
-| 540 |  | Püspökladány |  | + |
+|  | Balatonvilágos ( I. szvrégióhoz) | 89 |  |  |
 
-| 541 | Ráckeve |  | 26 759 | + |
+|  | Kőröshegy | 1611 |  |  |
 
-| 542 |  | Apaj |  |  |
+|  | Siófok | 24347 |  |  |
 
-| 543 |  | Dömsöd |  |  |
+|  | Siójut | 607 |  |  |
 
-| 544 |  | Lórév |  |  |
+|  | Szántód | 378 |  |  |
 
-| 545 |  | Makád |  |  |
+|  | Zamárdi | 2382 |  |  |
 
-| 546 |  | Ráckeve |  | + |
+| Sülysáp |  | 25979 | 25 979 | + |
 
-| 547 |  | Szigetbecse |  |  |
+|  | Kóka | 4455 |  | + |
 
-| 548 | Sajószentpéter |  | 17 715 | + |
+|  | Mende | 4224 |  | + |
 
-| 549 |  | Alacska |  |  |
+|  | Sülysáp | 8244 |  | + |
 
-| 550 |  | Kondó |  |  |
+|  | Tápiószecső | 6383 |  | + |
 
-| 551 |  | Parasznya |  |  |
+|  | Úri | 2673 |  | + |
 
-| 552 |  | Radostyán |  |  |
+| Szarvas |  | 17181 | 20 592 |  |
 
-| 553 |  | Sajókápolna |  |  |
+|  | Szarvas | 17181 |  |  |
 
-| 554 |  | Sajólászlófalva |  |  |
+| Százhalombatta |  | 18615 | 22 778 | + |
 
-| 555 |  | Sajószentpéter |  | + |
+|  | Százhalombatta | 18615 |  |  |
 
-| 556 |  | Varbó |  |  |
+| Szécsény |  | 20555 | 26 646 |  |
 
-| 557 | Salgótarján |  | 48 420 |  |
+|  | Endrefalva | 1313 |  |  |
 
-| 558 |  | Kazár |  |  |
+|  | Hollókő | 360 |  |  |
 
-| 559 |  | Mátraszele |  |  |
+|  | Karancsság | 1190 |  |  |
 
-| 560 |  | Salgótarján |  |  |
+|  | Ludányhalászi | 1591 |  |  |
 
-| 561 |  | Somoskőújfalu |  |  |
+|  | Magyargéc | 858 |  |  |
 
-| 562 |  | Vizslás |  |  |
+|  | Nagylóc | 1573 |  |  |
 
-| 563 | Sárbogárd |  | 15 609 |  |
+|  | Nógrádmegyer | 1697 |  |  |
 
-| 564 |  | Sárbogárd |  |  |
+|  | Nógrádsipek | 672 |  |  |
 
-| 565 | Sárospatak |  | 21 703 | + |
+|  | Nógrádszakál | 593 |  |  |
 
-| 566 |  | Bodrogolaszi |  |  |
+|  | Piliny | 588 |  |  |
 
-| 567 |  | Erdőhorváti |  |  |
+|  | Rimóc | 1774 |  |  |
 
-| 568 |  | Háromhuta |  |  |
+|  | Szalmatercs | 490 |  |  |
 
-| 569 |  | Hercegkút |  |  |
+|  | Szécsény | 5765 |  |  |
 
-| 570 |  | Komlóska |  |  |
+|  | Szécsényfelfalu | 451 |  |  |
 
-| 571 |  | Makkoshotyka |  |  |
+|  | Varsány | 1640 |  |  |
 
-| 572 |  | Olaszliszka |  | + |
+| Szeged |  | 178947 | 313 484 | + |
 
-| 573 |  | Sárazsadány |  | + |
+|  | Deszk | 3665 |  |  |
 
-| 574 |  | Sárospatak |  | + |
+|  | Kübekháza | 1535 |  |  |
 
-| 575 |  | Tolcsva |  |  |
+|  | Szeged | 170285 |  | + |
 
-| 576 |  | Vámosújfalu |  |  |
+|  | Tiszasziget | 1759 |  |  |
 
-| 577 | Sárvár |  | 31 209 | + |
+|  | Újszentiván | 1703 |  |  |
 
-| 578 |  | Rábapaty |  | + |
+| Székesfehérvár |  | 120522 | 235 919 | + |
 
-| 579 |  | Sárvár |  | + |
+|  | Jenő | 1328 |  |  |
 
-| 580 | Sátoraljaújhely |  | 21 713 | + |
+|  | Nádasdladány | 1790 |  |  |
 
-| 581 |  | Alsóregmec |  |  |
+|  | Pákozd | 3176 |  | + |
 
-| 582 |  | Mikóháza |  |  |
+|  | Pátka | 1668 |  | + |
 
-| 583 |  | Sátoraljaújhely |  |  |
+|  | Sárkeszi | 599 |  |  |
 
-| 584 | Siófok |  | 78 407 | + |
+|  | Sárszentmihály | 3038 |  |  |
 
-| 585 |  | Balatonendréd |  | + |
+|  | Seregélyes | 4621 |  | + |
 
-| 586 |  | Balatonföldvár |  |  |
+|  | Székesfehérvár | 101943 |  | + |
 
-| 587 |  | Balatonszabadi |  |  |
+|  | Úrhida | 2359 |  |  |
 
-| 588 |  | Balatonszárszó |  |  |
+| Szekszárd |  | 33720 | 55 798 | + |
 
-| 589 |  | Balatonvilágos (I. szvrégióhoz) |  |  |
+|  | Szekszárd | 33720 |  | + |
 
-| 590 |  | Kőröshegy |  |  |
+| Szentendre |  | 63741 | 73 095 | + |
 
-| 591 |  | Siófok |  | + |
+|  | Csobánka | 3175 |  | + |
 
-| 592 |  | Siójut |  |  |
+|  | Dunabogdány | 3199 |  | + |
 
-| 593 |  | Szántód |  |  |
+|  | Kisoroszi | 958 |  | + |
 
-| 594 |  | Zamárdi |  |  |
+|  | Leányfalu | 3637 |  | + |
 
-| 595 | Sopron |  | 171 235 | + |
+|  | Pócsmegyer | 1928 |  | + |
 
-| 596 |  | Ágfalva |  |  |
+|  | Pomáz | 17066 |  | + |
 
-| 597 |  | Fertőrákos |  |  |
+|  | Szentendre | 25963 |  | + |
 
-| 598 |  | Harka |  |  |
+|  | Szigetmonostor | 2248 |  | + |
 
-| 599 |  | Kópháza |  |  |
+|  | Tahitótfalu | 5567 |  | + |
 
-| 600 |  | Sopron |  |  |
+| Szentes |  | 28780 | 84 178 | + |
 
-| 601 |  | Sopron (Sopronkőhida) |  |  |
+|  | Szentes | 28780 |  | + |
 
-| 602 | Sülysáp |  | 26 260 | + |
+| Szentgotthárd |  | 13403 | 15 942 |  |
 
-| 603 |  | Kóka |  | + |
+|  | Alsószölnök | 373 |  |  |
 
-| 604 |  | Mende |  | + |
+|  | Csörötnek | 828 |  |  |
 
-| 605 |  | Sülysáp |  | + |
+|  | Gasztony | 436 |  |  |
 
-| 606 |  | Tápiószecső |  | + |
+|  | Magyarlak | 732 |  |  |
 
-| 607 |  | Úri |  | + |
+|  | Rábagyarmat | 793 |  |  |
 
-| 608 | Szarvas |  | 20 982 | + |
+|  | Rátót | 288 |  |  |
 
-| 609 |  | Szarvas |  | + |
+|  | Rönök | 427 |  |  |
 
-| 610 | Százhalombatta |  | 20 327 | + |
+|  | Szakonyfalu | 352 |  |  |
 
-| 611 |  | Százhalombatta |  |  |
+|  | Szentgotthárd | 8839 |  |  |
 
-| 612 | Szécsény |  | 24 076 | + |
+|  | Vasszentmihály | 335 |  |  |
 
-| 613 |  | Endrefalva |  |  |
+| Szerencs |  | 18616 | 21 920 |  |
 
-| 614 |  | Hollókő |  |  |
+|  | Bekecs | 2410 |  |  |
 
-| 615 |  | Karancsság |  |  |
+|  | Legyesbénye | 1527 |  |  |
 
-| 616 |  | Ludányhalászi |  |  |
+|  | Mád | 2130 |  |  |
 
-| 617 |  | Magyargéc |  |  |
+|  | Mezőzombor | 2434 |  |  |
 
-| 618 |  | Nagylóc |  |  |
+|  | Rátka | 942 |  |  |
 
-| 619 |  | Nógrádmegyer |  |  |
+|  | Szerencs | 9173 |  |  |
 
-| 620 |  | Nógrádsipek |  |  |
+| Szigetszentmiklós |  | 34331 | 44 273 | + |
 
-| 621 |  | Nógrádszakál |  |  |
+|  | Szigetszentmiklós | 34331 |  | + |
 
-| 622 |  | Piliny |  |  |
+| Szolnok |  | 114216 | 114 554 | + |
 
-| 623 |  | Rimóc |  |  |
+|  | Besenyszög | 3411 |  |  |
 
-| 624 |  | Szalmatercs |  |  |
+|  | Jászalsószentgyörgy | 3471 |  |  |
 
-| 625 |  | Szécsény |  |  |
+|  | Rákóczifalva | 5366 |  |  |
 
-| 626 |  | Szécsényfelfalu |  |  |
+|  | Rákócziújfalu | 1984 |  |  |
 
-| 627 |  | Varsány |  |  |
+|  | Szajol | 3795 |  |  |
 
-| 628 | Szeged |  | 333 782 | + |
+|  | Szászberek | 983 |  |  |
 
-| 629 |  | Deszk |  |  |
+|  | Szolnok | 74544 |  |  |
 
-| 630 |  | Kübekháza |  |  |
+|  | Tiszajenő | 1632 |  |  |
 
-| 631 |  | Szeged |  | + |
+|  | Tiszapüspöki | 2052 |  | + |
 
-| 632 |  | Tiszasziget |  |  |
+|  | Tiszavárkony | 1535 |  |  |
 
-| 633 |  | Újszentiván |  |  |
+|  | Tiszavárkony-Szőlő | 275 |  |  |
 
-| 634 | Székesfehérvár |  | 232 181 | + |
+|  | Tószeg | 4429 |  |  |
 
-| 635 |  | Jenő |  |  |
+|  | Újszász | 6424 |  |  |
 
-| 636 |  | Nádasdladány |  |  |
+|  | Vezseny | 719 |  |  |
 
-| 637 |  | Pákozd |  | + |
+|  | Zagyvarékas | 3596 |  |  |
 
-| 638 |  | Pátka |  | + |
+| Szombathely |  | 120670 | 174 401 |  |
 
-| 639 |  | Sárkeszi |  |  |
+|  | Balogunyom | 1212 |  |  |
 
-| 640 |  | Sárszentmihály |  |  |
+|  | Bozsok | 326 |  |  |
 
-| 641 |  | Seregélyes |  | + |
+|  | Bucsu | 593 |  |  |
 
-| 642 |  | Székesfehérvár |  | + |
+|  | Cák | 294 |  |  |
 
-| 643 |  | Úrhida |  |  |
+|  | Dozmat | 231 |  |  |
 
-| 644 | Szekszárd |  | 55 964 | + |
+|  | Gencsapáti | 2867 |  |  |
 
-| 645 |  | Szekszárd |  | + |
+|  | Gyöngyösfalu | 1116 |  |  |
 
-| 646 | Szentendre |  | 77 819 | + |
+|  | Kisunyom | 417 |  |  |
 
-| 647 |  | Csobánka |  |  |
+|  | Kőszeg | 12077 |  |  |
 
-| 648 |  | Dunabogdány |  |  |
+|  | Kőszegdoroszló | 246 |  |  |
 
-| 649 |  | Kisoroszi |  |  |
+|  | Kőszegpaty | 205 |  |  |
 
-| 650 |  | Leányfalu |  |  |
+|  | Kőszegszerdahely | 493 |  |  |
 
-| 651 |  | Pócsmegyer |  |  |
+|  | Lukácsháza | 1047 |  |  |
 
-| 652 |  | Pomáz |  | + |
+|  | Nárai | 1276 |  |  |
 
-| 653 |  | Szentendre |  | + |
+|  | Nemesbőd | 629 |  |  |
 
-| 654 |  | Szigetmonostor |  | + |
+|  | Nemescsó | 304 |  |  |
 
-| 655 |  | Tahitótfalu |  |  |
+|  | Perenye | 688 |  |  |
 
-| 656 | Szentes |  | 77 946 |  |
+|  | Pusztacsó | 155 |  |  |
 
-| 657 |  | Szentes |  |  |
+|  | Salköveskút | 516 |  |  |
 
-| 658 | Szentgotthárd |  | 16 871 |  |
+|  | Sé | 1392 |  |  |
 
-| 659 |  | Alsószölnök |  |  |
+|  | Sorokpolány | 855 |  |  |
 
-| 660 |  | Csörötnek |  |  |
+|  | Söpte | 820 |  |  |
 
-| 661 |  | Gasztony |  |  |
+|  | Szombathely | 79590 |  |  |
 
-| 662 |  | Magyarlak |  |  |
+|  | Tanakajd | 768 |  |  |
 
-| 663 |  | Rábagyarmat |  |  |
+|  | Táplánszentkereszt | 2621 |  |  |
 
-| 664 |  | Rátót |  |  |
+|  | Torony | 1947 |  |  |
 
-| 665 |  | Rönök |  |  |
+|  | Vasasszonyfa | 368 |  |  |
 
-| 666 |  | Szakonyfalu |  |  |
+|  | Vassurány | 791 |  |  |
 
-| 667 |  | Szentgotthárd |  |  |
+|  | Vasszécseny | 1423 |  |  |
 
-| 668 |  | Vasszentmihály |  |  |
+|  | Velem | 333 |  |  |
 
-| 669 | Szerencs |  | 19 303 | + |
+|  | Vép | 3349 |  |  |
 
-| 670 |  | Bekecs |  | + |
+| Tápiószele |  | 16437 | 16 113 | + |
 
-| 671 |  | Legyesbénye |  | + |
+|  | Farmos | 3654 |  |  |
 
-| 672 |  | Mád |  |  |
+|  | Tápiógyörgye | 3602 |  | + |
 
-| 673 |  | Mezőzombor |  | + |
+|  | Tápiószele | 6153 |  | + |
 
-| 674 |  | Rátka |  | + |
+|  | Tápiószentmárton-Göbölyjárás | 324 |  |  |
 
-| 675 |  | Szerencs |  | + |
+|  | Újszilvás | 2704 |  | + |
 
-| 676 | Szigetszentmiklós |  | 33 248 | + |
+| Tápiószentmárton |  | 15432 | 16 616 | + |
 
-| 677 |  | Szigetszentmiklós |  |  |
+|  | Bénye | 1249 |  | + |
 
-| 678 | Szolnok |  | 118 145 | + |
+|  | Káva | 632 |  | + |
 
-| 679 |  | Besenyszög |  | + |
+|  | Pánd | 2076 |  | + |
 
-| 680 |  | Jászalsószentgyörgy |  |  |
+|  | Tápióbicske | 3465 |  | + |
 
-| 681 |  | Rákóczifalva |  |  |
+|  | Tápióság | 2628 |  | + |
 
-| 682 |  | Rákócziújfalu |  |  |
+|  | Tápiószentmárton | 5382 |  | + |
 
-| 683 |  | Szajol |  |  |
+| Tata |  | 27873 | 34 930 | + |
 
-| 684 |  | Szászberek |  |  |
+|  | Baj | 2847 |  |  |
 
-| 685 |  | Szolnok |  |  |
+|  | Tata | 25026 |  |  |
 
-| 686 |  | Tiszajenő |  |  |
+| Tatabánya |  | 81943 | 118 258 | + |
 
-| 687 |  | Tiszapüspöki |  | + |
+|  | Környe | 4436 |  |  |
 
-| 688 |  | Tiszavárkony |  |  |
+|  | Szárliget | 2273 |  |  |
 
-| 689 |  | Tószeg |  |  |
+|  | Tatabánya | 70164 |  |  |
 
-| 690 |  | Újszász |  |  |
+|  | Várgesztes | 557 |  |  |
 
-| 691 |  | Vezseny |  |  |
+|  | Vértessomló | 1335 |  |  |
 
-| 692 |  | Zagyvarékas |  |  |
+|  | Vértesszőlős | 3178 |  |  |
 
-| 693 | Szombathely |  | 162 693 | + |
+| Tét |  | 13838 | 15 355 | + |
 
-| 694 |  | Balogunyom |  |  |
+|  | Felpéc | 854 |  |  |
 
-| 695 |  | Bozsok |  |  |
+|  | Gyömöre | 1245 |  |  |
 
-| 696 |  | Bucsu |  |  |
+|  | Győrszemere | 3178 |  | + |
 
-| 697 |  | Cák |  |  |
+|  | Kajárpéc | 1243 |  |  |
 
-| 698 |  | Dozmat |  |  |
+|  | Sokorópátka | 1057 |  |  |
 
-| 699 |  | Gencsapáti |  |  |
+|  | Szerecseny | 797 |  |  |
 
-| 700 |  | Gyöngyösfalu |  |  |
+|  | Tényő | 1531 |  | + |
 
-| 701 |  | Kisunyom |  |  |
+|  | Tét | 3933 |  |  |
 
-| 702 |  | Kőszeg |  |  |
+| Tiszaföldvár |  | 11323 | 17 721 | + |
 
-| 703 |  | Kőszegdoroszló |  |  |
+|  | Tiszaföldvár | 11323 |  | + |
 
-| 704 |  | Kőszegpaty |  |  |
+| Tiszaújváros |  | 20946 | 22 168 | + |
 
-| 705 |  | Kőszegszerdahely |  |  |
+|  | Nagycsécs | 802 |  |  |
 
-| 706 |  | Lukácsháza |  |  |
+|  | Sajóörös | 1337 |  |  |
 
-| 707 |  | Nárai |  |  |
+|  | Sajószöged | 2297 |  |  |
 
-| 708 |  | Nemesbőd |  |  |
+|  | Tiszaújváros | 16510 |  |  |
 
-| 709 |  | Nemescsó |  |  |
+| Tokaj |  | 13501 | 15 069 |  |
 
-| 710 |  | Perenye |  |  |
+|  | Bodrogkeresztúr | 1122 |  |  |
 
-| 711 |  | Pusztacsó |  |  |
+|  | Bodrogkisfalud | 862 |  |  |
 
-| 712 |  | Salköveskút |  |  |
+|  | Csobaj | 721 |  |  |
 
-| 713 |  | Sé |  |  |
+|  | Erdőbénye | 1037 |  |  |
 
-| 714 |  | Sorokpolány |  |  |
+|  | Szegi | 311 |  |  |
 
-| 715 |  | Söpte |  |  |
+|  | Szegilong | 200 |  |  |
 
-| 716 |  | Szombathely |  |  |
+|  | Taktabáj | 579 |  |  |
 
-| 717 |  | Tanakajd |  |  |
+|  | Tarcal | 2885 |  |  |
 
-| 718 |  | Táplánszentkereszt |  |  |
+|  | Tiszaladány | 672 |  |  |
 
-| 719 |  | Torony |  |  |
+|  | Tiszatardos | 226 |  |  |
 
-| 720 |  | Vasasszonyfa |  |  |
+|  | Tokaj | 4886 |  |  |
 
-| 721 |  | Vassurány |  |  |
+| Tolna |  | 22422 | 23 349 | + |
 
-| 722 |  | Vasszécseny |  |  |
+|  | Bogyiszló | 2211 |  |  |
 
-| 723 |  | Velem |  |  |
+|  | Dombori | 140 |  |  |
 
-| 724 |  | Vép |  |  |
+|  | Dunaszentgyörgy | 2534 |  |  |
 
-| 725 | Tápiószele |  | 16 749 | + |
+|  | Fácánkert | 630 |  |  |
 
-| 726 |  | Farmos |  |  |
+|  | Fadd | 4263 |  |  |
 
-| 727 |  | Tápiógyörgye |  | + |
+|  | Gerjen | 1205 |  |  |
 
-| 728 |  | Tápiószele |  | + |
+|  | Tolna | 11439 |  | + |
 
-| 729 |  | Tápiószentmárton- Göbölyjárás |  |  |
+| Tököl |  | 41012 | 44 681 | + |
 
-| 730 |  | Újszilvás |  | + |
+|  | Halásztelek | 9080 |  |  |
 
-| 731 | Tápiószentmárton |  |  | + |
+|  | Szigetcsép | 2320 |  |  |
 
-| 732 |  | Bénye |  | + |
+|  | Szigethalom | 17221 |  |  |
 
-| 733 |  | Káva |  | + |
+|  | Szigetújfalu | 2039 |  |  |
 
-| 734 |  | Pánd |  | + |
+|  | Tököl | 10352 |  |  |
 
-| 735 |  | Tápióbicske |  | + |
+| Törökbálint |  | 13542 | 27 319 |  |
 
-| 736 |  | Tápióság |  | + |
+|  | Törökbálint | 13542 |  |  |
 
-| 737 |  | Tápiószentmárton |  | + |
+| Törökszentmiklós |  | 21185 | 21 819 | + |
 
-| 738 | Tata |  | 37 685 | + |
+|  | Törökszentmiklós | 21185 |  | + |
 
-| 739 |  | Baj |  |  |
+| Vác |  | 75329 | 108 090 | + |
 
-| 740 |  | Tata |  |  |
+|  | Csörög | 2267 |  | + |
 
-| 741 | Tatabánya |  | 160 741 | + |
+|  | Dömös | 1159 |  |  |
 
-| 742 |  | Környe |  |  |
+|  | Kismaros | 2063 |  |  |
 
-| 743 |  | Szárliget |  |  |
+|  | Kosd | 2556 |  | + |
 
-| 744 |  | Tatabánya |  |  |
+|  | Nagymaros | 4751 |  |  |
 
-| 745 |  | Várgesztes |  |  |
+|  | Őrbottyán | 7372 |  |  |
 
-| 746 |  | Vértessomló |  |  |
+|  | Pilismarót | 2091 |  |  |
 
-| 747 |  | Vértesszőlős |  |  |
+|  | Szendehely | 1552 |  |  |
 
-| 748 | Tét |  | 16 286 | + |
+|  | Szokolya | 1792 |  |  |
 
-| 749 |  | Felpéc |  |  |
+|  | Sződliget | 4595 |  |  |
 
-| 750 |  | Gyömöre |  |  |
+|  | Vác | 34513 |  |  |
 
-| 751 |  | Győrszemere |  | + |
+|  | Vácduka | 1382 |  | + |
 
-| 752 |  | Kajárpéc |  |  |
+|  | Váchartyán | 1848 |  | + |
 
-| 753 |  | Sokorópátka |  |  |
+|  | Vácrátót | 1849 |  |  |
 
-| 754 |  | Szerecseny |  |  |
+|  | Verőce | 3680 |  |  |
 
-| 755 |  | Tényő |  | + |
+|  | Visegrád | 1859 |  | + |
 
-| 756 |  | Tét |  |  |
+| Vásárosnamény |  | 15003 | 15 279 |  |
 
-| 757 | Tiszafüred |  | 16 923 | + |
+|  | Gemzse | 853 |  |  |
 
-| 758 |  | Tiszafüred |  |  |
+|  | Gyüre | 1207 |  |  |
 
-| 759 |  | Tiszaszőlős |  | + |
+|  | Ilk | 1215 |  |  |
 
-| 760 | Tiszaújváros |  | 21 857 | + |
+|  | Kisvarsány | 980 |  |  |
 
-| 761 |  | Nagycsécs |  | + |
+|  | Nagyvarsány | 1448 |  |  |
 
-| 762 |  | Sajóörös |  | + |
+|  | Olcsva | 593 |  |  |
 
-| 763 |  | Sajószöged |  |  |
+|  | Vásárosnamény | 8707 |  |  |
 
-| 764 |  | Tiszaújváros |  |  |
+| Veresegyház |  | 28708 | 34 848 | + |
 
-| 765 | Tokaj |  | 16 341 | + |
+|  | Erdőkertes | 7650 |  | + |
 
-| 766 |  | Bodrogkeresztúr |  |  |
+|  | Szada | 4519 |  | + |
 
-| 767 |  | Bodrogkisfalud |  |  |
+|  | Veresegyház | 16539 |  | + |
 
-| 768 |  | Csobaj |  | + |
+| Összesen: |  | 6335406 | 8 839 198 |  |
 
-| 769 |  | Erdőbénye |  | + |
-
-| 770 |  | Szegi |  |  |
-
-| 771 |  | Szegilong |  | + |
-
-| 772 |  | Taktabáj |  | + |
-
-| 773 |  | Tarcal |  | + |
-
-| 774 |  | Tiszaladány |  | + |
-
-| 775 |  | Tiszatardos |  | + |
-
-| 776 |  | Tokaj |  | + |
-
-| 777 | Tolna |  | 23 289 | + |
-
-| 778 |  | Bogyiszló |  |  |
-
-| 779 |  | Dunaszentgyörgy |  |  |
-
-| 780 |  | Fácánkert |  |  |
-
-| 781 |  | Fadd |  |  |
-
-| 782 |  | Gerjen |  |  |
-
-| 783 |  | Tolna |  |  |
-
-| 784 | Tököl |  | 50 082 | + |
-
-| 785 |  | Halásztelek |  |  |
-
-| 786 |  | Szigetcsép |  |  |
-
-| 787 |  | Szigethalom |  |  |
-
-| 788 |  | Szigetújfalu |  |  |
-
-| 789 |  | Tököl |  |  |
-
-| 790 | Törökbálint |  | 23 697 |  |
-
-| 791 |  | Törökbálint |  |  |
-
-| 792 | Törökszentmiklós |  | 24 290 | + |
-
-| 793 |  | Törökszentmiklós |  | + |
-
-| 794 | Vác |  | 108 094 | + |
-
-| 795 |  | Csörög |  | + |
-
-| 796 |  | Dömös |  |  |
-
-| 797 |  | Kismaros |  |  |
-
-| 798 |  | Kosd |  | + |
-
-| 799 |  | Nagymaros |  | + |
-
-| 800 |  | Őrbottyán |  |  |
-
-| 801 |  | Pilismarót |  |  |
-
-| 802 |  | Szendehely |  |  |
-
-| 803 |  | Szokolya |  |  |
-
-| 804 |  | Sződliget |  |  |
-
-| 805 |  | Vác |  |  |
-
-| 806 |  | Vácduka |  | + |
-
-| 807 |  | Váchartyán |  | + |
-
-| 808 |  | Vácrátót |  | + |
-
-| 809 |  | Verőce |  |  |
-
-| 810 |  | Visegrád |  | + |
-
-| 811 | Vásárosnamény |  | 16 552 |  |
-
-| 812 |  | Gemzse |  |  |
-
-| 813 |  | Gyüre |  |  |
-
-| 814 |  | Ilk |  |  |
-
-| 815 |  | Kisvarsány |  |  |
-
-| 816 |  | Nagyvarsány |  |  |
-
-| 817 |  | Olcsva |  |  |
-
-| 818 |  | Vásárosnamény |  |  |
-
-| 819 | Veresegyház |  | 33 186 | + |
-
-| 820 |  | Erdőkertes |  | + |
-
-| 821 |  | Szada |  | + |
-
-| 822 |  | Veresegyház |  | + |
-
-| 823 | Összesen: |  | 10 189 195 |  |
-
-|  | 3. táblázat: Agglomerációk 10 000–15 000 LE közötti szennyvízterheléssel, normál területen |
+| 3. táblázat: Agglomerációk 10 000-15 000 LE közötti szennyvízterheléssel, normál területen |
 
 | Kiépítési határidő: 2015. december 31. |
 
-| A | B | C | D |
+| Az agglomeráció központi települése | Az agglomeráció települései | Lakos szám | Az agglomeráció szennyvízterhelése (LE) | Van-e fejlesztés? |
 
-| Az agglomeráció központi települése | Az agglomeráció települései | Az agglomeráció szennyvízterhelése (LE) | Fejlesztéssel érintett |
+| Aba |  | 11 683 | 13 722 | + |
 
-| 1 | Aba |  | 13 831 | + |
+|  | Aba | 4 674 |  | + |
 
-| 2 |  | Aba |  | + |
+|  | Káloz | 2 385 |  |  |
 
-| 3 |  | Káloz |  | + |
+|  | Sárkeresztúr | 2 584 |  | + |
 
-| 4 |  | Sárkeresztúr |  | + |
+|  | Soponya | 2 040 |  | + |
 
-| 5 |  | Soponya |  | + |
+| Abádszalók |  | 11 616 | 14 825 | + |
 
-| 6 | Abádszalók |  | 14 997 | + |
+|  | Abádszalók | 4 034 |  | + |
 
-| 7 |  | Abádszalók |  | + |
+|  | Kunhegyes | 7 582 |  |  |
 
-| 8 |  | Kunhegyes |  |  |
+| Ács |  | 7 005 | 10 846 | + |
 
-| 9 | Albertirsa |  | 14 334 | + |
+|  | Ács | 7 005 |  |  |
 
-| 10 |  | Albertirsa |  | + |
+| Adács |  | 8 612 | 10 719 |  |
 
-| 11 | Bábolna |  | 10 653 | + |
+|  | Adács | 2 718 |  |  |
 
-| 12 |  | Bábolna |  |  |
+|  | Atkár | 1 730 |  |  |
 
-| 13 | Boldva |  | 11 734 | + |
+|  | Csány | 2 230 |  |  |
 
-| 14 |  | Boldva |  |  |
+|  | Vámosgyörk | 1 934 |  |  |
 
-| 15 |  | Borsodszirák |  |  |
+| Bátaszék |  | 10 330 | 14 944 | + |
 
-| 16 |  | Damak |  |  |
+|  | Alsónána | 687 |  |  |
 
-| 17 |  | Hangács |  |  |
+|  | Báta | 1 709 |  | + |
 
-| 18 |  | Nyomár |  |  |
+|  | Bátaapáti | 401 |  |  |
 
-| 19 |  | Sajóecseg |  | + |
+|  | Bátaszék | 6 466 |  |  |
 
-| 20 |  | Sajókeresztúr |  | + |
+|  | Kismórágy | 131 |  |  |
 
-| 21 |  | Sajópálfalva |  |  |
+|  | Mórágy | 589 |  |  |
 
-| 22 |  | Sajósenye |  |  |
+|  | Mőcsény | 347 |  |  |
 
-| 23 |  | Sajóvámos |  |  |
+| Boldva |  | 10 949 | 11 029 | + |
 
-| 24 |  | Ziliz |  |  |
+|  | Boldva | 2 312 |  |  |
 
-| 25 | Bük |  | 11 098 | + |
+|  | Borsodszirák | 1 185 |  |  |
 
-| 26 |  | Bük |  |  |
+|  | Damak | 239 |  |  |
 
-| 27 | Celldömölk |  | 14 237 | + |
+|  | Hangács | 577 |  |  |
 
-| 28 |  | Celldömölk |  | + |
+|  | Nyomár | 342 |  |  |
 
-| 29 | Csömör |  | 11 161 | + |
+|  | Sajóecseg | 1 015 |  | + |
 
-| 30 |  | Csömör |  | + |
+|  | Sajókeresztúr | 1 505 |  | + |
 
-| 31 | Csurgó |  | 14 829 | + |
+|  | Sajópálfalva | 750 |  |  |
 
-| 32 |  | Berzence |  |  |
+|  | Sajósenye | 453 |  |  |
 
-| 33 |  | Csurgó |  |  |
+|  | Sajóvámos | 2 213 |  |  |
 
-| 34 |  | Csurgónagymarton |  |  |
+|  | Ziliz | 358 |  |  |
 
-| 35 |  | Gyékényes |  |  |
+| Bük |  | 3 442 | 12 586 |  |
 
-| 36 |  | Porrog |  | + |
+|  | Bük | 3 442 |  |  |
 
-| 37 |  | Porrogszentkirály |  | + |
+| Celldömölk |  | 10 823 | 10 823 | + |
 
-| 38 |  | Somogyudvarhely |  |  |
+|  | Celldömölk | 10 823 |  | + |
 
-| 39 |  | Szenta |  | + |
+| Csömör |  | 9 192 | 11 511 |  |
 
-| 40 |  | Zákány |  |  |
+|  | Csömör | 9 192 |  |  |
 
-| 41 |  | Zákányfalu |  |  |
+| Csurgó |  | 12 485 | 13 830 | + |
 
-| 42 | Edelény |  | 13 952 | + |
+|  | Berzence | 2 508 |  |  |
 
-| 43 |  | Edelény |  |  |
+|  | Csurgó | 5 248 |  |  |
 
-| 44 | Emőd |  | 11 548 | + |
+|  | Csurgónagymarton | 174 |  |  |
 
-| 45 |  | Bükkaranyos |  |  |
+|  | Gyékényes | 949 |  |  |
 
-| 46 |  | Emőd |  |  |
+|  | Porrog | 238 |  | + |
 
-| 47 |  | Harsány |  |  |
+|  | Porrogszentkirály | 315 |  | + |
 
-| 48 |  | Kisgyőr |  |  |
+|  | Somogyudvarhely | 1 066 |  |  |
 
-| 49 | Fehérgyarmat |  | 13 575 | + |
+|  | Szenta | 380 |  | + |
 
-| 50 |  | Fehérgyarmat |  |  |
+|  | Zákány | 970 |  |  |
 
-| 51 |  | Kérsemjén |  |  |
+|  | Zákányfalu | 637 |  |  |
 
-| 52 |  | Nábrád |  |  |
+| Emőd |  | 10 133 | 11 232 | + |
 
-| 53 |  | Panyola |  |  |
+|  | Bükkaranyos | 1 465 |  |  |
 
-| 54 | Forráskút |  | 13 084 | + |
+|  | Emőd | 4 983 |  |  |
 
-| 55 |  | Bordány |  | + |
+|  | Harsány | 2 019 |  |  |
 
-| 56 |  | Forráskút |  | + |
+|  | Kisgyőr | 1 666 |  |  |
 
-| 57 |  | Üllés |  | + |
+| Encs |  | 10 837 | 10 899 |  |
 
-| 58 |  | Zsombó |  | + |
+|  | Encs | 6 197 |  |  |
 
-| 59 | Füzesabony |  | 12 165 | + |
+|  | Gibárt | 380 |  |  |
 
-| 60 |  | Besenyőtelek |  |  |
+|  | Méra | 1 754 |  |  |
 
-| 61 |  | Dormánd |  |  |
+| Fehérgyarmat |  | 9 614 | 13 381 | + |
 
-| 62 |  | Füzesabony |  |  |
+|  | Fehérgyarmat | 7 873 |  |  |
 
-| 63 | Hédervár |  | 10 172 |  |
+|  | Kérsemjén | 289 |  |  |
 
-| 64 |  | Ásványráró |  |  |
+|  | Nábrád | 872 |  |  |
 
-| 65 |  | Darnózseli |  |  |
+|  | Panyola | 580 |  |  |
 
-| 66 |  | Dunaremete |  |  |
+| Forráskút |  | 12 313 | 14 990 | + |
 
-| 67 |  | Hédervár |  |  |
+|  | Bordány | 3 277 |  | + |
 
-| 68 |  | Károlyháza |  |  |
+|  | Forráskút | 2 356 |  | + |
 
-| 69 |  | Kimle |  |  |
+|  | Üllés | 3 148 |  | + |
 
-| 70 |  | Kisbodak |  |  |
+|  | Zsombó | 3 532 |  | + |
 
-| 71 |  | Lipót |  |  |
+| Füzesabony |  | 11 472 | 11 477 | + |
 
-| 72 |  | Püski |  |  |
+|  | Besenyőtelek | 2 611 |  |  |
 
-| 73 | Heves |  | 14 546 | + |
+|  | Dormánd | 1 048 |  |  |
 
-| 74 |  | Heves |  |  |
+|  | Füzesabony | 7 813 |  |  |
 
-| 75 | Hosszúpályi |  | 10 151 | + |
+| Gyomaendrőd |  | 13 894 | 14 562 |  |
 
-| 76 |  | Hajdúbagos |  | + |
+|  | Gyomaendrőd | 13 894 |  |  |
 
-| 77 |  | Hosszúpályi |  | + |
+| Heves |  | 10 533 | 13 653 |  |
 
-| 78 |  | Monostorpályi |  | + |
+|  | Heves | 10 533 |  |  |
 
-| 79 | Ibrány |  | 14 724 |  |
+| Hosszúpályi |  | 9 958 | 10 576 | + |
 
-| 80 |  | Ibrány |  |  |
+|  | Hajdúbagos | 1 986 |  | + |
 
-| 81 |  | Nagyhalász |  |  |
+|  | Hosszúpályi | 5 848 |  | + |
 
-| 82 | Isaszeg |  | 11 692 | + |
+|  | Monostorpályi | 2 124 |  | + |
 
-| 83 |  | Isaszeg |  |  |
+| Isaszeg |  | 11 386 | 14 112 | + |
 
-| 84 | Izsák |  | 11 370 | + |
+|  | Isaszeg | 11 386 |  | + |
 
-| 85 |  | Ágasegyháza |  |  |
+| Izsák |  | 11 122 | 11 192 | + |
 
-| 86 |  | Izsák |  | + |
+|  | Ágasegyháza | 1 936 |  |  |
 
-| 87 |  | Orgovány |  |  |
+|  | Izsák | 5 930 |  |  |
 
-| 88 | Jánossomorja |  | 10 449 |  |
+|  | Orgovány | 3 256 |  |  |
 
-| 89 |  | Jánossomorja |  |  |
+| Jászfényszaru |  | 7 262 | 11 103 | + |
 
-| 90 |  | Mosonszolnok |  |  |
+|  | Jászfényszaru | 5 667 |  |  |
 
-| 91 |  | Újrónafő |  |  |
+|  | Pusztamonostor | 1 595 |  | + |
 
-| 92 |  | Várbalog |  |  |
+| Kisbér |  | 8 830 | 10 879 | + |
 
-| 93 | Kaba |  | 10 211 | + |
+|  | Ászár | 1 983 |  |  |
 
-| 94 |  | Báránd |  | + |
+|  | Bakonysárkány | 943 |  | + |
 
-| 95 |  | Kaba |  | + |
+|  | Kisbér | 5 323 |  |  |
 
-| 96 |  | Tetétlen |  | + |
+|  | Vérteskethely | 581 |  | + |
 
-| 97 | Kisköre |  | 11 306 | + |
+| Kisköre |  | 9 168 | 10 953 | + |
 
-| 98 |  | Kisköre |  |  |
+|  | Kisköre | 2 721 |  |  |
 
-| 99 |  | Poroszló |  |  |
+|  | Poroszló | 2 707 |  |  |
 
-| 100 |  | Sarud |  |  |
+|  | Sarud | 1 175 |  |  |
 
-| 101 |  | Tiszanána |  |  |
+|  | Tiszanána | 2 317 |  |  |
 
-| 102 |  | Újlőrincfalva |  |  |
+|  | Újlőrincfalva | 248 |  |  |
 
-| 103 | Kiskunlacháza |  | 10 238 | + |
+| Kiskunmajsa |  | 11 767 | 12 027 | + |
 
-| 104 |  | Kiskunlacháza |  | + |
+|  | Kiskunmajsa | 11 767 |  | + |
 
-| 105 | Kiskunmajsa |  | 13 363 | + |
+| Kistelek |  | 7 100 | 10 965 | + |
 
-| 106 |  | Kiskunmajsa |  | + |
+|  | Kistelek | 7 100 |  | + |
 
-| 107 | Kistelek |  | 11 055 | + |
+| Kisújszállás |  | 11 500 | 11 574 |  |
 
-| 108 |  | Kistelek |  | + |
+|  | Kisújszállás | 11 500 |  |  |
 
-| 109 | Kisújszállás |  | 11 930 | + |
+| Kunszentmárton |  | 8 496 | 11 705 | + |
 
-| 110 |  | Kisújszállás |  |  |
+|  | Kunszentmárton | 8 496 |  | + |
 
-| 111 | Kunszentmárton |  | 11 363 | + |
+| Lajosmizse |  | 11 149 | 14 555 | + |
 
-| 112 |  | Kunszentmárton |  |  |
+|  | Lajosmizse | 11 149 |  | + |
 
-| 113 | Lajosmizse |  | 13 599 | + |
+| Lenti |  | 9 986 | 12 719 |  |
 
-| 114 |  | Lajosmizse |  | + |
+|  | Csesztreg | 783 |  |  |
 
-| 115 | Lenti |  | 14 300 |  |
+|  | Iklódbördőce | 305 |  |  |
 
-| 116 |  | Csesztreg |  |  |
+|  | Kerkabarabás | 272 |  |  |
 
-| 117 |  | Iklódbördőce |  |  |
+|  | Lenti | 7 992 |  |  |
 
-| 118 |  | Kerkabarabás |  |  |
+|  | Zalabaksa | 634 |  |  |
 
-| 119 |  | Lenti |  |  |
+| Mezőberény |  | 11 121 | 12 009 | + |
 
-| 120 |  | Zalabaksa |  |  |
+|  | Mezőberény | 11 121 |  | + |
 
-| 121 | Mezőberény |  | 11 835 | + |
+| Mórahalom |  | 8 848 | 11 822 | + |
 
-| 122 |  | Mezőberény |  | + |
+|  | Mórahalom | 6 090 |  | + |
 
-| 123 | Mórahalom |  | 13 935 | + |
+|  | Zákányszék | 2 758 |  | + |
 
-| 124 |  | Mórahalom |  | + |
+| Nádudvar |  | 8 813 | 10 266 | + |
 
-| 125 |  | Zákányszék |  | + |
+|  | Nádudvar | 8 813 |  | + |
 
-| 126 | Nádudvar |  | 10 993 | + |
+| Nagyecsed |  | 7 768 | 10 164 | + |
 
-| 127 |  | Nádudvar |  | + |
+|  | Fábiánháza | 1 648 |  | + |
 
-| 128 | Nagykálló |  | 12 082 | + |
+|  | Nagyecsed | 6 120 |  | + |
 
-| 129 |  | Biri |  |  |
+| Nagykálló |  | 11 294 | 11 953 | + |
 
-| 130 |  | Nagykálló |  |  |
+|  | Biri | 1 298 |  |  |
 
-| 131 | Nagykáta |  | 13 036 | + |
+|  | Nagykálló | 9 996 |  |  |
 
-| 132 |  | Nagykáta |  |  |
+| Nagykáta |  | 12 584 | 12 947 | + |
 
-| 133 | Pásztó |  | 11 349 | + |
+|  | Nagykáta | 12 584 |  |  |
 
-| 134 |  | Pásztó |  | + |
+| Pásztó |  | 10 465 | 13 439 | + |
 
-| 135 | Pilis |  | 11 492 |  |
+|  | Pásztó-Mátrakeresztes | 839 |  | + |
 
-| 136 |  | Pilis |  |  |
+|  | Pásztó | 9 626 |  |  |
 
-| 137 | Ráckeresztúr |  | 12 361 | + |
+| Páty |  | 7 090 | 11 093 | + |
 
-| 138 |  | Gyúró |  |  |
+|  | Páty | 7 090 |  |  |
 
-| 139 |  | Martonvásár |  |  |
+| Pilis |  | 11 410 | 11 556 |  |
 
-| 140 |  | Ráckeresztúr |  |  |
+|  | Pilis | 11 410 |  |  |
 
-| 141 |  | Tordas |  |  |
+| Ráckeresztúr |  | 12 368 | 14 843 | + |
 
-| 142 | Sarkad |  | 11 885 | + |
+|  | Gyúró | 1 250 |  |  |
 
-| 143 |  | Sarkad |  | + |
+|  | Martonvásár | 5 740 |  | + |
 
-| 144 | Siklós |  | 11 238 | + |
+|  | Ráckeresztúr | 3 288 |  |  |
 
-| 145 |  | Siklós |  |  |
+|  | Tordas | 2 090 |  |  |
 
-| 146 | Solt |  | 12 485 | + |
+| Sarkad |  | 10 129 | 13 436 | + |
 
-| 147 |  | Dunatetétlen |  |  |
+|  | Sarkad | 10 129 |  | + |
 
-| 148 |  | Solt |  |  |
+| Siklós |  | 9 732 | 10 639 | + |
 
-| 149 | Soltvadkert |  | 14 748 | + |
+|  | Siklós | 9 732 |  | + |
 
-| 150 |  | Soltvadkert |  |  |
+| Solt |  | 6 902 | 10 673 | + |
 
-| 151 | Solymár |  | 14 514 | + |
+|  | Dunatetétlen | 543 |  |  |
 
-| 152 |  | Pilisszentiván |  |  |
+|  | Solt | 6 359 |  |  |
 
-| 153 |  | Solymár |  | + |
+| Soltvadkert |  | 7 482 | 14 885 | + |
 
-| 154 | Sümeg |  | 12 984 | + |
+|  | Soltvadkert | 7 482 |  |  |
 
-| 155 |  | Bazsi |  |  |
+| Sümeg |  | 9 508 | 12 899 | + |
 
-| 156 |  | Dabronc |  | + |
+|  | Bazsi | 385 |  |  |
 
-| 157 |  | Gógánfa |  | + |
+|  | Dabronc | 419 |  | + |
 
-| 158 |  | Hetyefő |  | + |
+|  | Gógánfa | 761 |  | + |
 
-| 159 |  | Sümeg |  |  |
+|  | Hetyefő | 92 |  | + |
 
-| 160 |  | Sümegprága |  |  |
+|  | Sümeg | 6 226 |  | + |
 
-| 161 |  | Ukk |  | + |
+|  | Sümegprága | 618 |  |  |
 
-| 162 |  | Zalaerdőd |  | + |
+|  | Ukk | 313 |  | + |
 
-| 163 |  | Zalagyömörő |  | + |
+|  | Zalaerdőd | 266 |  | + |
 
-| 164 | Szatymaz |  | 12 890 | + |
+|  | Zalagyömörő | 428 |  | + |
 
-| 165 |  | Sándorfalva |  | + |
+| Szatymaz |  | 12 649 | 12 884 | + |
 
-| 166 |  | Szatymaz |  | + |
+|  | Sándorfalva | 7 983 |  | + |
 
-| 167 | Szentlőrinckáta |  | 12 293 | + |
+|  | Szatymaz | 4 666 |  | + |
 
-| 168 |  | Jászfelsőszentgyörgy |  | + |
+| Szentlőrinckáta |  | 12 189 | 12 189 | + |
 
-| 169 |  | Szentlőrinckáta |  | + |
+|  | Jászfelsőszentgyörgy | 1 964 |  | + |
 
-| 170 |  | Szentmártonkáta |  | + |
+|  | Szentlőrinckáta | 1 919 |  | + |
 
-| 171 |  | Tóalmás |  | + |
+|  | Szentmártonkáta | 4 937 |  | + |
 
-| 172 | Szigetvár |  | 14 335 |  |
+|  | Tóalmás | 3 369 |  | + |
 
-| 173 |  | Csertő |  |  |
+| Szigetvár |  | 13 241 | 14 112 |  |
 
-| 174 |  | Szentegát |  |  |
+|  | Csertő | 397 |  |  |
 
-| 175 |  | Szigetvár |  |  |
+|  | Szentegát | 420 |  |  |
 
-| 176 | Tát |  | 11 973 |  |
+|  | Szigetvár | 10 868 |  |  |
 
-| 177 |  | Tát |  |  |
+| Szikszó |  | 7 297 | 11 446 |  |
 
-| 178 |  | Tokod |  |  |
+|  | Aszaló | 1 902 |  |  |
 
-| 179 | Tiszaföldvár |  | 14 976 | + |
+|  | Szikszó | 5 395 |  |  |
 
-| 180 |  | Tiszaföldvár |  | + |
+| Tát |  | 9 558 | 10 258 |  |
 
-| 181 | Tiszakécske |  | 14 269 | + |
+|  | Tát | 5 343 |  |  |
 
-| 182 |  | Tiszakécske |  | + |
+|  | Tokod | 4 215 |  |  |
 
-| 183 | Tiszavasvári |  | 14 113 |  |
+| Tiszafüred |  | 12 739 | 14 487 | + |
 
-| 184 |  | Szorgalmatos |  |  |
+|  | Tiszafüred | 10 805 |  |  |
 
-| 185 |  | Tiszavasvári |  |  |
+|  | Tiszaszőlős | 1 934 |  | + |
 
-| 186 | Tura |  | 10 708 |  |
+| Tiszakécske |  | 11 294 | 14 723 | + |
 
-| 187 |  | Galgahévíz |  |  |
+|  | Tiszakécske | 11 294 |  | + |
 
-| 188 |  | Tura |  |  |
+| Tiszalök |  | 8 179 | 12 395 | + |
 
-| 189 | Túrkeve |  | 10 393 | + |
+|  | Tiszaeszlár | 2 612 |  | + |
 
-| 190 |  | Túrkeve |  |  |
+|  | Tiszalök | 5 567 |  | + |
 
-| 191 | Újfehértó |  | 14 085 | + |
+| Tiszavasvári |  | 13 744 | 14 055 |  |
 
-| 192 |  | Újfehértó |  | + |
+|  | Szorgalmatos | 1 125 |  |  |
 
-| 193 | Összesen: |  | 676 639 |  |
+|  | Tiszavasvári | 12 619 |  |  |
 
-|  | 4. táblázat: Agglomerációk 2000–10 000 LE közötti szennyvízterheléssel, szennyvízbefogadásra érzékeny vizek vízgyűjtőin |
+| Tura |  | 10 354 | 10 789 |  |
+
+|  | Galgahévíz | 2 520 |  |  |
+
+|  | Tura | 7 834 |  |  |
+
+| Újfehértó |  | 13 116 | 14 512 | + |
+
+|  | Újfehértó | 13 116 |  |  |
+
+| Villány |  | 3 693 | 11 372 |  |
+
+|  | Ivánbattyán | 124 |  |  |
+
+|  | Kisjakabfalva | 124 |  |  |
+
+|  | Márok | 434 |  |  |
+
+|  | Palkonya | 283 |  |  |
+
+|  | Villány | 2 453 |  |  |
+
+|  | Villánykövesd | 275 |  |  |
+
+| Összesen: |  | 566 224 | 693 235 |  |
+
+| 4. táblázat: Agglomerációk 2 000-10 000 LE közötti szennyvízterheléssel, szennyvízbefogadásra érzékeny vizek vízgyűjtőin |
 
 | Kiépítési határidő: 2015. december 31. |
 
-| A | B | C | D |
+| Az agglomeráció központi települése | Az agglomeráció települései | Lakos szám | Az agglomeráció szennyvízterhelése (LE) | Van-e fejlesztés? |
 
-| Az agglomeráció központi települése | Az agglomeráció települései | Az agglomeráció szennyvízterhelése (LE) | Fejlesztéssel érintett |
+| Hegyesd |  | 2 545 | 2 621 |  |
 
-| 1 | Hegyesd |  | 2 757 | + |
+|  | Hegyesd | 151 |  |  |
 
-| 2 |  | Hegyesd |  |  |
+|  | Kapolcs | 407 |  |  |
 
-| 3 |  | Kapolcs |  |  |
+|  | Monostorapáti | 1 090 |  |  |
 
-| 4 |  | Monostorapáti |  |  |
+|  | Taliándörögd | 704 |  |  |
 
-| 5 |  | Taliándörögd |  |  |
+|  | Vigántpetend | 193 |  |  |
 
-| 6 |  | Vigántpetend |  |  |
+| Kehidakustány |  | 2 256 | 2 293 | + |
 
-| 7 | Kehidakustány |  | 9 967 | + |
+|  | Kehidakustány | 1 044 |  |  |
 
-| 8 |  | Kehidakustány |  |  |
+|  | Vindornyaszőlős | 372 |  |  |
 
-| 9 |  | Vindornyaszőlős |  |  |
+|  | Zalaszentlászló | 840 |  |  |
 
-| 10 |  | Zalaszentlászló |  |  |
+| Lovasberény |  | 2 663 | 2 700 | + |
 
-| 11 | Lovasberény |  | 2 733 | + |
+|  | Lovasberény | 2 663 |  | + |
 
-| 12 |  | Lovasberény |  | + |
+| Nagyvázsony |  | 4 301 | 5 151 |  |
 
-| 13 | Nagyvázsony |  | 5 039 |  |
+|  | Barnag | 112 |  |  |
 
-| 14 |  | Barnag |  |  |
+|  | Hidegkút | 442 |  |  |
 
-| 15 |  | Hidegkút |  |  |
+|  | Mencshely | 255 |  |  |
 
-| 16 |  | Mencshely |  |  |
+|  | Nagyvázsony | 1 780 |  |  |
 
-| 17 |  | Nagyvázsony |  |  |
+|  | Pula | 195 |  |  |
 
-| 18 |  | Pula |  |  |
+|  | Tótvázsony | 1 211 |  |  |
 
-| 19 |  | Tótvázsony |  |  |
+|  | Vöröstó | 102 |  |  |
 
-| 20 |  | Vöröstó |  |  |
+| Őriszentpéter |  | 2 303 | 2 395 |  |
 
-| 21 | Őriszentpéter |  | 2 373 |  |
+|  | Kisrákos | 206 |  |  |
 
-| 22 |  | Kisrákos |  |  |
+|  | Nagyrákos | 282 |  |  |
 
-| 23 |  | Nagyrákos |  |  |
+|  | Őriszentpéter | 1 160 |  |  |
 
-| 24 |  | Őriszentpéter |  |  |
+|  | Pankasz | 413 |  |  |
 
-| 25 |  | Pankasz |  |  |
+| Révfülöp* |  | 3 049 | 8 842 | + |
 
-| 26 |  | Viszák |  |  |
+|  | Balatonszepezd | 406 |  |  |
 
-| 27 | Várvölgy |  | 2 175 | + |
+|  | Kővágóörs | 808 |  |  |
 
-| 28 |  | Várvölgy |  |  |
+|  | Révfülöp | 1 081 |  | + |
 
-| 29 |  | Vindornyalak |  |  |
+|  | Zánka | 754 |  |  |
 
-| 30 |  | Zalaszántó |  |  |
+|  | Viszák | 242 |  |  |
 
-| 31 | Zalakomár |  | 4 414 |  |
+| Sopron - Balf |  | 984 | 2 122 |  |
 
-| 32 |  | Balatonmagyaród |  |  |
+|  | Sopron - Balf | 984 |  | + |
 
-| 33 |  | Nemesvid |  |  |
+| Várvölgy |  | 2 149 | 2 151 |  |
 
-| 34 |  | Somogysimonyi |  |  |
+|  | Várvölgy | 1 060 |  |  |
 
-| 35 |  | Zalakomár |  |  |
+|  | Vindornyalak | 86 |  |  |
 
-| 36 | Zalalövő |  | 3 997 | + |
+|  | Zalaszántó | 1 003 |  |  |
 
-| 37 |  | Csöde |  |  |
+| Zalaapáti |  | 1 984 | 2 006 |  |
 
-| 38 |  | Felsőjánosfa |  |  |
+|  | Bókaháza | 314 |  |  |
 
-| 39 |  | Szőce |  |  |
+|  | Zalaapáti | 1 670 |  |  |
 
-| 40 |  | Zalalövő |  |  |
+| Zalakomár |  | 4 306 | 4 313 |  |
 
-| 41 | Zámoly |  | 3 124 | + |
+|  | Balatonmagyaród | 470 |  |  |
 
-| 42 |  | Gánt |  |  |
+|  | Nemesvid | 703 |  |  |
 
-| 43 |  | Zámoly |  |  |
+|  | Somogysimonyi | 94 |  |  |
 
-| 44 | Összesen: |  | 36 579 |  |
+|  | Zalakomár | 3 039 |  |  |
 
-[^15]: A 2. melléklet a 286/2010. (XII. 16.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+| Zalalövő |  | 3 621 | 3 703 | + |
+
+|  | Csöde | 79 |  |  |
+
+|  | Felsőjánosfa | 178 |  |  |
+
+|  | Szőce | 360 |  |  |
+
+|  | Zalalövő | 3 004 |  |  |
+
+| Zalaszentgrót* |  | 9 061 | 9 261 |  |
+
+|  | Batyk | 387 |  |  |
+
+|  | Pakod | 944 |  |  |
+
+|  | Zalabér | 728 |  |  |
+
+|  | Zalaszentgrót | 6 618 |  |  |
+
+|  | Zalavég | 384 |  |  |
+
+| Zámoly |  | 3 104 | 3 110 | + |
+
+|  | Gánt | 854 |  |  |
+
+|  | Zámoly | 2 250 |  |  |
+
+| Összesen: |  |  | 50 668 |  |
+
+| 5. táblázat: Agglomerációk 2 000-10 000 LE közötti szennyvízterheléssel, normál területen |
+
+| Kiépítési határidő: 2015. december 31. |
+
+[^15]: A 2. melléklet a 233/2012. (VIII. 28.) Korm. rendelet 1. § b) pontjával megállapított szöveg.
