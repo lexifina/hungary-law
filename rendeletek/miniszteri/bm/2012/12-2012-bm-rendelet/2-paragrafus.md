@@ -18,11 +18,11 @@ bf) a végrehajtási eljárás elkerülése végett, megállapodás alapján a G
 
 bg)[^5] a megyei önkormányzat által 2011. december 31-éig európai uniós pályázat nyomán megkötött támogatási szerződésben vállalt önereje más jogszabály alapján nem biztosított részére vonatkozó kötelezettségének 2012. évre számított összege, ha az európai uniós fejlesztést a 2012. évben megyei jogú város vagy megyei önkormányzat valósítja meg,
 
-bh)[^6] a megyei önkormányzatok 2011. december 31. előtt megkötött szerződéseiből eredő fizetési kötelezettségek;
+bh)[^6] a megyei önkormányzatok 2011. december 31. előtt megkötött szerződéseinek bármely okból történő megszűnéséből eredő, az átvett intézményt vagy fenntartóját terhelő fizetési kötelezettségek;
 
 c) megyei önkormányzattól átvett intézmény: a 2011. december 31-éig megyei önkormányzat fenntartásában működő költségvetési szerv.
 
 [^3]: A 2. § a) pontja a 30/2012. (VI. 21.) BM rendelet 2. §-ával megállapított szöveg.
 [^4]: A 2. § b) pont bb) alpontja a 30/2012. (VI. 21.) BM rendelet 3. §-ával megállapított szöveg.
 [^5]: A 2. § b) pont bg) alpontját a 30/2012. (VI. 21.) BM rendelet 4. §-a iktatta be.
-[^6]: A 2. § b) pont bh) alpontját a 30/2012. (VI. 21.) BM rendelet 5. §-a iktatta be.
+[^6]: A 2. § b) pont bh) alpontját a 30/2012. (VI. 21.) BM rendelet 5. §-a iktatta be, szövege a 45/2012. (IX. 4.) BM rendelet 1. §-ával megállapított szöveg.
