@@ -340,42 +340,6 @@
 
 ## = Myxomatosis
 
-4. melléklet a 87/2012. (VIII. 27.) VM rendelethez
+4. melléklet a 87/2012. (VIII. 27.) VM rendelethez[^10]
 
-Az 59/2008. (IV. 29.) FVM rendelet 5. számú melléklet 5.1. pont C) alpontja helyébe a következő rendelkezés lép:
-
-„C) Irányszámok egyes állattartótelepek trágyatároló kapacitásának méretezéséhez
-
-| Egyéb állatok | Trágyatermelés [kg/állatkategória/hét](2) | Megjegyzés |
-
-| Állatkategória | Testtömeg | Trágyatípus |
-
-| Almos trágya | Hígtrágya |
-
-| 1000 tojótyúk | ~ 2,2 kg/állat | – | 805(1) | Ketreces tartás, csak ürülék (21% SZA) |
-
-| 1000 brojler | ~ 2 kg/állat | 218 | – | Mélyalmos tartásnál, a kitermelt trágyamennyiség alapján |
-
-| 1000 pulykabak | ~ 14 kg/állat | 790 | – | Mélyalmos tartásnál, a kitermelt trágyamennyiség alapján |
-
-| 1000 pulykatojó | ~ 5 kg/állat | 330 | – | Mélyalmos tartásnál, a kitermelt trágyamennyiség alapján |
-
-| 1000 kacsa | ~ 3,5 kg/állat | 1200 | – | Mélyalmos tartásnál, a kitermelt trágyamennyiség alapján |
-
-| 1000 liba | ~ 5 kg/állat | 1500 | – | Mélyalmos tartásnál, a kitermelt trágyamennyiség alapján |
-
-| Juh (vegyes korcsoport) | 50 kg-os anyajuh | 30 |  | Anyajuhra vetítve (anyajuh + szaporulat) mélyalmos tartásnál |
-
-| Juh (vegyes korcsoport) | 70 kg-os anyajuh | 42 |  | Anyajuhra vetítve (anyajuh + szaporulat) mélyalmos tartásnál |
-
-| Kecske (vegyes korcsoport) | 50 kg-os anyakecske | 30 |  | Anyakecskére vetítve (anyakecske + szaporulat) mélyalmos tartásnál |
-
-| Kecske (vegyes korcsoport) | 80 kg-os anyakecske | 50 |  | Anyakecskére vetítve (anyakecske + szaporulat) mélyalmos tartásnál |
-
-| Anyanyúl + szaporulata | 4 kg |  | 8,4 | Ketreces tartás, trágyagyűjtő aknával |
-
-| Ló | 600 kg | 94 |  | Almozott tartás |
-
-(1) Trágyaszárításos technológia esetén a trágyamennyiséget a szárazanyag-növekedés arányában korrigálni szükséges (pl. 40% SZA esetén a trágyatermelés értéke 402 kg/1000 állat/hét).
-
-(2) A táblázatban szereplő adatokat az életkor és testtömeg figyelembevételével korrigálni szükséges.”
+[^10]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

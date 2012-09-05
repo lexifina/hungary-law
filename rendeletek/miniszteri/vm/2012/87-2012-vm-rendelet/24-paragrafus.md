@@ -1,11 +1,9 @@
-## lép.
+## 21–23. §[^7]
 
-24. § (1) Hatályát veszti az Állategészségügyi Szabályzat kiadásáról szóló 41/1997. (V. 28.) FM rendelet
+24. § (1)[^8]
 
-a) 1. számú melléklet 53–60. §-a,
+(2)[^9]
 
-b) 1. számú melléklet 69–87. §-a, valamint
-
-c) 1. számú melléklet 8/a., 8/b., 8/c., 9. és 14. számú függeléke.
-
-(2) Hatályát veszti a 116/2003. (XI. 18.) FVM rendelet 20. § (2) bekezdés g) pontja.
+[^7]: A 21–23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 24. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 24. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 19. § A 116/2003. (XI. 18.) FVM rendelet 20. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 19. §[^5]
 
-## „(3) A szállítólevél adatainak valódiságát a kiszállító és a beérkeztető tenyészet ENAR-felelőse aláírásával igazolja. A szállítólevélen fel kell tüntetni az élő-állat szállítás állategészségügyi bizonyítványának sorszámát, a kiállítás dátumát, az állatorvos bélyegzőszámát.”
+[^5]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
