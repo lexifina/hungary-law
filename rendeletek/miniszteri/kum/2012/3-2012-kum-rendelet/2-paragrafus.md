@@ -1,0 +1,1 @@
+## 1. § A Külügyminisztériummal kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők, valamint a központi költségvetési szerveknél foglalkoztatott munkavállalók alapellátmányának az egyes állomáshelyekre érvényes bruttó havi összegét és pénznemét az 1. melléklet tartalmazza.

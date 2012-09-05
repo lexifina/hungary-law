@@ -1,0 +1,1 @@
+A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. §-ában, valamint a munka törvénykönyvéről szóló 2012. évi I. törvény 298. § (6) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:

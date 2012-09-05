@@ -1,0 +1,3 @@
+5. § (1) A havi ellátmány kifizetése a kormánytisztviselő és kormányzati ügykezelő, illetve a munkavállaló által a fogadó országban nyitott bankszámlára való átutalással történik. Azokon az állomáshelyeken, ahol a fogadó ország gazdasága, pénzügyi rendszere fejletlen, vagy – akár átmenetileg – működése súlyos zavarokkal küzd, és ennek következtében bankrendszerének működése nem megbízható, a havi ellátmány kifizetése készpénzben is történhet.
+
+(2) Az ideiglenes külföldi kiküldetés napidíjának kifizetése készpénzben, illetőleg a kormánytisztviselő és kormányzati ügykezelő, valamint a munkavállaló által megjelölt bankszámlára való átutalással történik.
