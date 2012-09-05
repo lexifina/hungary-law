@@ -1,6 +1,6 @@
 ## Hatóanyag közösségi jegyzékbe történő felvételének kezdeményezése
 
-10. § (1)[^30] A tudományos és technikai ismeretek mindenkori állására figyelemmel hatóanyag legfeljebb 10 éves kezdeti időszakra vehető fel a közösségi jegyzékbe. A felvétel Magyarországon történő kezdeményezésének feltétele, hogy
+10. § (1)[^32] A tudományos és technikai ismeretek mindenkori állására figyelemmel hatóanyag legfeljebb 10 éves kezdeti időszakra vehető fel a közösségi jegyzékbe. A felvétel Magyarországon történő kezdeményezésének feltétele, hogy
 
 a) a hatóanyagot tartalmazó biocid termékek, vagy
 
@@ -66,4 +66,4 @@ d) a közösségi jegyzékbe történő felvétel alapjaként szolgált vagy szo
 
 (8) A (6)–(7) bekezdések szerinti elutasítás vagy a törlés kezdeményezésének mérlegelése során az eljáró hatóságnak egy vagy több alternatív hatóanyag értékelését is el kell végeznie annak bizonyítására, hogy az alternatív hatóanyag a célszervezettel szemben hatékonyan használható anélkül, hogy az gazdasági és gyakorlati hátrányt jelentene a felhasználónak és fokozott kockázatot az egészségre és környezetre.
 
-[^30]: A 10. § (1) bekezdés nyitó szövegrésze a 15/2012. (III. 12.) NEFMI rendelet 10. §-a szerint módosított szöveg.
+[^32]: A 10. § (1) bekezdés nyitó szövegrésze a 15/2012. (III. 12.) NEFMI rendelet 10. §-a szerint módosított szöveg.

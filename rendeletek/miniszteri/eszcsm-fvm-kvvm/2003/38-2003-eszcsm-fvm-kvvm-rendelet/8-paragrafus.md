@@ -63,7 +63,7 @@ i)[^17] biztonsági adatlap a vegyi anyagok regisztrálásáról, értékelésé
 [^15]: A 8. § (2) bekezdésének b) pontja a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 10. § (8) bekezdése c) pontjának cb) alpontja szerint módosított szöveg.
 [^16]: A 8. § (3) bekezdés nyitó szövegrésze a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 17. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^17]: A 8. § (3) bekezdésének i) pontja a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^18]: A 8. § (4) bekezdése a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^18]: A 8. § (4) bekezdése a 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet 2. § (3) bekezdésével megállapított szöveg.[A 21/2012. (IX. 4.) EMMI rendelet 1. § (4) bekezdés b) pontjával elrendelt módosítás, amely szerint az „az MgSzH” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]
 [^19]: A 8. § (8) bekezdését a 17/2010. (IV. 16.) EüM–FVM–KvVM együttes rendelet 17. § (1) bekezdés c) pontja hatályon kívül helyezte.
 [^20]: A 8. § (9) bekezdése a 22/2006. (V. 17.) EüM–FVM–KvVM együttes rendelet 7. § (2) bekezdésének c) pontja szerint módosított szöveg.
 [^21]: Lásd a 3/2006. (I. 26.) EüM rendeletet.
