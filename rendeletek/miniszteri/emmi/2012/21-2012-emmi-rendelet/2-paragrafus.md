@@ -1,5 +1,0 @@
-2. § (1) Az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESZCSM rendelet (a továbbiakban: R2.) 16. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Ez a rendelet az in vitro diagnosztikai orvostechnikai eszközökről szóló 1998. október 27-i 98/79/EK európai parlamenti és tanácsi irányelvnek, valamint az azt módosító 2011/100/EU irányelvnek, továbbá a 2004/23/EK európai parlamenti és tanácsi irányelvnek az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára vonatkozó egyes technikai követelmények vonatkozásában történő végrehajtásáról szóló 2006. február 8-i 2006/17/EK bizottsági irányelv IV. számú melléklete 1.3.8–1.3.10. pontjának, valamint az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK tanácsi irányelv módosításáról szóló 2007. szeptember 5-i 2007/47/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
-
-(2) Az R2. 2. számú melléklete a 3. melléklet szerint módosul.
