@@ -1,0 +1,1 @@
+## 2. § Az engedély iránti kérelmet a miniszter elutasítja, ha a címernek vagy elkülöníthető elemeinek védjegy vagy formatervezési minta részeként való használata megtévesztő módon az államiság vagy a hivatalosság látszatát kelti.
