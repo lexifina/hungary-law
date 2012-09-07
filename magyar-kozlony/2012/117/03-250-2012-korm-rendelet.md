@@ -1,0 +1,132 @@
+# A Kormány 250/2012. (IX. 7.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 117. szám, 2012. szeptember 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/cd849557fb22e41d65a7aca297b91d36eb257af7/dokumentumok/f9a5c49ee0cd01f11ea9884f813b30b8018db47b/letoltes)
+
+---
+
+A Kormány 250/2012. (IX. 7.) Korm. rendelete
+a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló
+102/2011. (VI. 29.) Korm. rendelet módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet
+(a továbbiakban: R.) 2. § f) pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„f) önálló személygépkocsi használó: az a súlyos mozgáskorlátozott, illetve egyéb fogyatékossággal élő személy, aki
+gépkocsi vezetésére jogosító érvényes vezetői engedéllyel rendelkezik, továbbá az a súlyos mozgáskorlátozott
+személy, aki
+fa) a 4. § (1) bekezdés c) pontja esetében három- vagy négykerekű segédmotoros kerékpár vezetésére jogosító
+érvényes vezetői engedéllyel rendelkezik, vagy
+fb) az 5. § (1) bekezdés a) pontja szerinti esetben gépjárművezetői alkalmasságát az átalakítás előírásával
+a rehabilitációs szakigazgatási szerv, a Nemzeti Rehabilitációs és Szociális Hivatal (a továbbiakban együtt: szakértői
+szerv) vagy jogelődje megállapította,
+és nem áll járművezetéstől eltiltó jogerős bírói ítélet vagy szabálysértési határozat hatálya alatt;”
+(2) Az R. 2. §-a a következő h) ponttal egészül ki:
+(E rendelet alkalmazásában)
+„h) egyéb fogyatékossággal élő személy: az a személy, aki
+ha) fogyatékossági támogatásra a Fot. 23. § (1) bekezdés a)–d) vagy h) pontja alapján jogosult, vagy vakok személyi
+járadékában részesül, vagy a Fot. 23. § (1) bekezdés f) vagy g) pontja alapján halmozottan fogyatékosnak minősül,
+kivéve, ha egyik fogyatékossága mozgásszervi fogyatékosság,
+hb) a 18. életévét nem töltötte be, és magasabb összegű családi pótlékra az Mr. 1. számú mellékletének K), M) vagy
+N)1. pontja alapján jogosult, vagy az Mr. 1. számú mellékletének P) pontjában meghatározott többszörös és összetett
+betegségben szenved és többszörös és összetett betegségei közül legalább az egyik az Mr. 1. számú mellékletének K),
+M) vagy N)1. pontja szerinti betegség, illetve fogyatékosság.”
+2. § Az R. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A személygépkocsi szerzési támogatás (a továbbiakban: szerzési támogatás)
+a) súlyos mozgáskorlátozott, illetve egyéb fogyatékossággal élő személy esetén a közúti járművek műszaki
+megvizsgálásáról szóló rendelet értelmében új járműnek minősülő személygépkocsi, vagy
+b) súlyos mozgáskorlátozott, illetve egyéb fogyatékossággal élő személy esetén újnak nem minősülő, de legfeljebb öt
+éve forgalomba helyezett személygépkocsi, vagy
+c) súlyos mozgáskorlátozott személy esetén segédmotoros kerékpárnak minősülő, három- vagy négykerekű jármű,
+kivéve a quad, vagy
+d) súlyos mozgáskorlátozott személy esetén járműnek nem minősülő, sík úton önerejéből 10 km/óra sebességnél
+gyorsabban haladni nem képes gépi meghajtású kerekesszék
+szerzésére felhasználható, a vételár megtérítéséhez nyújtott hozzájárulás.”
+
+3. § Az R. 6. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) A 4. § (1) bekezdés a) és b) pontja szerinti szerzési támogatásra az egyéb fogyatékossággal élő személy jogosult,
+ha
+a) a kérelem benyújtását megelőző hét éven belül ő maga vagy rá tekintettel más személy nem részesült a kérelem
+szerinti közlekedési kedvezményben, és
+b) a keretszámra és a (3) bekezdésben foglaltakra tekintettel a szerzési támogatás számára megállapítható, és
+c) önálló személygépkocsi használó vagy szállítást végző személy szállítja.”
+4. § (1) Az R. 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A közlekedési kedvezmény iránti kérelmet a lakóhely szerint illetékes megyei, fővárosi kormányhivatal szociális és
+gyámhivatalánál (a továbbiakban: hivatal) minden év március 31-éig és szeptember 30-áig lehet benyújtani.”
+(2) Az R. 7. § (3) bekezdése helyébe a következő rendelkezés lép
+„(3) A kérelemhez mellékelni kell
+a) a súlyos mozgáskorlátozottság, illetve egyéb fogyatékosság tényét igazoló,
+aa) a Fot. szerinti fogyatékossági támogatás megállapításáról szóló hatósági határozat, vagy a megállapítás alapjául
+szolgáló hatályos szakhatósági állásfoglalás, szakvélemény másolatát, vagy
+ab) az Mr. 3. számú mellékletében meghatározott, hatályos igazolás másolatát, vagy
+ac) a szakértői szerv által a közlekedőképesség minősítéséről kiadott, a 2. § a) pont ac) alpontjában meghatározott
+állapotot igazoló hatályos szakvélemény másolatát, vagy
+ad) a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi
+dokumentációt és egyéb iratokat, ha az aa)–ac) alpont szerinti iratok nem állnak rendelkezésre, vagy
+ae) a vakok személyi járadékának megállapításáról szóló hatósági határozat vagy a vakok személyi járadékát
+kérelmező csökkentlátó nyilvántartó lap másolatát, és
+b) az önálló személygépkocsi használó vagy a szállítást végző személy érvényes vezetői engedélyének, az 5. §
+(1) bekezdés a) pontja szerinti esetben a gépjárművezetői alkalmasságot tanúsító szakvéleménynek a fénymásolatát,
+valamint nyilatkozatát arra nézve, hogy nem áll a járművezetéstől eltiltó jogerős bírói ítélet vagy szabálysértési
+határozat hatálya alatt, és
+c) a szállítást végző személy írásbeli nyilatkozatát, továbbá a 2. § g) pont ga)–gb) alpontja esetén a hozzátartozói
+kapcsolatot, a 2. § g) pont gb) alpontja esetén a közös háztartásban élést igazoló dokumentum fénymásolatát, a 2. §
+g) pont gc) alpontja esetén az önkéntes szerződés fénymásolatát, és
+d) a 6. § (3) bekezdés
+da) a) pontja szerinti esetben a kereső tevékenység folytatását igazoló dokumentumokat,
+db) b) pontja szerinti esetben a tanulói, képzési jogviszony fennállását igazoló dokumentumokat,
+dc) c) pontja szerinti esetben a kérelmező nyilatkozatát a gyermek egyedülállóként nevelésének tényéről,
+dd) d) pontja szerinti esetben a szakértői szervnek vagy jogelődjének a hadigondozásról szóló törvény szerinti
+hadieredetű fogyatkozás fennállását igazoló szakvéleményét, és
+e) a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő és a szállítást végző személy nyilatkozatát arról,
+hogy a 6. § (1) bekezdés a) pontja, (1a) bekezdés a) pontja és (2) bekezdése szerint nem részesült ő maga vagy más
+személy rá tekintettel közlekedési kedvezményben, és
+f) a 4. § (1) bekezdés a)–b) pontja szerinti esetben a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő
+személy nyilatkozatát arról, hogy a 9. § (1) bekezdés a) pontja szerinti szerződés megkötését vállalja.”
+5. § (1) Az R. 8. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) A keretszámról a miniszter minden év május 15-éig tájékoztatja a hivatalokat.
+(2) A hivatal
+a) a tárgyév március 31-éig benyújtott kérelmek esetén a tárgyév június 15-éig,
+b) a tárgyév szeptember 30-áig benyújtott kérelmek esetén a tárgyév december 15-éig
+a 6. § (1) bekezdés b) pontja és a 6. § (1a) bekezdés b) pontja szerinti kérdésben az általa létrehozott bizottság
+véleményének kikérésével dönt a jogosultságokról. A hivatal a tárgyév március 31-éig benyújtott kérelmekről történő
+döntése során legfeljebb a keretszám 50%-ának megfelelő támogatás felhasználásáról határozhat. A támogatást nem
+eredményező azon kérelmekről, amelyek esetében az elutasítás indoka a keretszám kimerülése, a hivatal tárgyéven
+belül – a szeptember 30-áig benyújtott kérelmekkel egyidejűleg – ismételt benyújtás nélkül határoz.”
+
+(2) Az R. 8. §-a a következő (2b) bekezdéssel egészül ki:
+„(2b) A közlekedési kedvezményben nem részesített kérelmezők között a hivatal sorrendet állít fel, és abban az
+esetben, ha a támogatás felhasználására előírt határidő lejár, vagy a jogosult a megállapított támogatásról lemond, az
+új jogosultakat ennek a sorrendnek megfelelően jelöli ki.”
+6. § Az R. 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A támogatás felhasználása során a kölcsönszerződést a súlyos mozgáskorlátozott, illetve egyéb fogyatékossággal
+élő személlyel kell megkötni, az utalványt pedig a súlyos mozgáskorlátozott személy nevére kell kiállítani
+(a továbbiakban együtt: szerzési támogatás jogosultja).”
+7. § Az R. a következő 14/B. §-sal egészül ki:
+„14/B. § (1) A 2012. május 15-éig benyújtott közlekedési kedvezmény iránti kérelmekről a hivatal 2012. szeptember
+15-éig dönt.
+(2) E rendeletnek a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm.
+rendelet módosításáról szóló 250/2012. (IX. 7.) Korm. rendelettel (a továbbiakban: Mkmr2.) megállapított 2. § f) és
+h) pontját, 4. § (1) bekezdését, 6. § (1a) bekezdését, 7. § (3) bekezdését, 9. § (2) bekezdését és az Mkmr2. 9. § a)–h)
+pontjával megállapított rendelkezéseit az Mkmr2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+8. § Hatályát veszti az R. 13. § (6) bekezdésében a „2. § f) pont fc) alpontja, a” szövegrész.
+9. § Az R.
+a) 2. § g) pontjának nyitó szövegrészében és gc) alpontjában, 4. § (4) bekezdésében, 6. § (4) bekezdésében a „súlyos
+mozgáskorlátozott személy” szövegrész helyébe a „súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal
+élő személy” szöveg,
+b) 2. § g) pont gb) alpontjában a „súlyos mozgáskorlátozott személlyel” szövegrész helyébe a „súlyos
+mozgáskorlátozott, illetve egyéb fogyatékossággal élő személlyel” szöveg,
+c) 3. §-ában a „szociális és gyámhivatalt” szövegrész helyébe a „megyei, fővárosi kormányhivatal szociális és
+gyámhivatalát” szöveg,
+d) 6. § (2) bekezdéséneknyitó szövegrészébena „pontja”szövegrészhelyébe a „pontja és az (1a) bekezdés a) pontja”
+szöveg,
+e) 6. § (3) bekezdés nyitó szövegrészében a „súlyos mozgáskorlátozott személyt” szövegrész helyébe a „súlyos
+mozgáskorlátozott, illetve egyéb fogyatékossággal élő személyt” szöveg,
+f) 6. § (3) bekezdés d) pontjában a „súlyos mozgáskorlátozottá” szövegrész helyébe a „súlyos mozgáskorlátozottá,
+illetve egyéb fogyatékossággal élő személlyé” szöveg,
+g) 8. § (2a) bekezdésében a „(2)” szövegrész helyébe a „(2b)” szöveg,
+h) 10. § (3) bekezdésében a „hat hónapon” szövegrész helyébe a „három hónapon” szöveg
+lép.
+10. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök
