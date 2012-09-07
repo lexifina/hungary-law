@@ -2,7 +2,7 @@
 
 ## 2. visszavonja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének jóváhagyásáról szóló 1010/2011. (I. 19.) Korm. határozat 1. mellékletének a KEOP 1., 2., 3., 5., 6., 7., 8. prioritásokra vonatkozó részeit.
 
-1. melléklet az 1175/2012. (VI. 1.) Korm. határozathoz
+1. melléklet az 1175/2012. (VI. 1.) Korm. határozathoz[^2]
 
 A Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve
 
@@ -452,49 +452,7 @@ II. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
 | 3.0.0 | Prioritás | 25,15 | 0,25 | 0,00 |  |  |  |
 
-KEOP 5. prioritás: Hatékony energia-felhasználás
-
-I. A Prioritás bemutatása
-
-1. Prioritás tartalma
-
-|  | Prioritás rövid tartalma (max. 500 karakter) |
-
-|  | A prioritás célja az épületek (különös tekintettel a központi és helyi költségvetési szervek épületeire és az egyéb középületekre, valamint a vállalkozások üzemi és irodaépületeire), továbbá a távhőszolgáltatók és -termelők energia-takarékosság növelésére, az energia-hatékonyság javítására irányuló beruházásainak elősegítése, támogatása. A prioritás elsősorban kis-közepes méretű projekteket támogat, 10–75% közötti arányban. |
-
-2. A prioritás ütemezése – kiírások kerete
-
-|  | Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |
-
-|  | 2011 | 2012 | 2013 | Összesen |
-
-|  | 0,00 | 0,00 | 0,00 | 0,00 |
-
-Tartalék: Mrd Ft
-
-ESZA tervezett aránya a prioritás keretéből: %
-
-3. A prioritás ütemezése – kötelezettségvállalás (IH döntés)
-
-|  | Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |
-
-|  | 2007–2011 | 2012 | 2013 | 2014–2015 | Összesen* |
-
-|  | 49,96 | 2,87 | 0,00 | 0,00 | 52,83 |
-
-*Az 1010/2011 (I. 19.) Korm. határozat az 5. prioritás vonatkozásában 59,22 Mrd Ft kötelezettségvállalás megtételére adott felhatalmazást. Tekintettel arra, hogy az abban jelzett átcsoportosításra vonatkozó módosítás az Operatív Programban nem történt meg, ezért jelen Korm. határozattal a 7. prioritásra visszacsoportosításra kerül 16 Mrd Ft. Ugyanakkor a 1010/2011 (I. 19.) Korm. határozat felhatalmazása alapján időközben a 43,22 Mrd Ft-on (5. prioritás átcsoportosítás nélküli kerete) felül további 9,61 Mrd Ft kötelezettségvállalás történt, így a kötelezettségvállalás jelenlegi mértéke 52,83 Mrd Ft.
-
-II. A támogatási konstrukciók összefoglaló adatai (2011–2013)
-
-| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek meghirdethető kerete KMR+KONV (Mrd Ft) | A konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |
-
-| 2011 | 2012 | 2013 |
-
-| 5.4.0 | Távhő-szektor energetikai korszerűsítése | 0 | 0 | 0 | távhőellátás energiahatékonysági korszerűsítése | NFM |  |
-
-| Többlet- kötelezettség- vállalás esetén tartalék konstrukciók |  |  |  |  |  |  |  |
-
-| 5.0.0 | Prioritás | 0,00 | 0,00 | 0,00 |  |  |  |
+KEOP 5. prioritás
 
 KEOP 6. prioritás: Fenntartható életmód és fogyasztás
 
@@ -624,46 +582,6 @@ II. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
 | 7.0.0 | Prioritás | 10,90 | 12,15 | 0,00 |  |  |  |
 
-KEOP 8. prioritás: Technikai segítségnyújtás
+KEOP 8. prioritás
 
-I. A Prioritás bemutatása
-
-1. Prioritás tartalma
-
-|  | Prioritás rövid tartalma (max. 500 karakter) |
-
-|  | A prioritás célja az OP eredményes és hatékony megvalósítása. A Technikai Segítségnyújtás keret egyrészt a OP közreműködő szervezeteinek – az OP-val kapcsolatos tevékenységeinek – finanszírozására szolgál. Másrészt ebből a keretből kerülnek finanszírozásra a specifikusan az OP megvalósulásához köthető egyéb tevékenységek (pl. a monitoring bizottságok működtetése, értékelő, elemző tanulmányok, fordítás költsége). |
-
-2. A prioritás ütemezése – kiírások kerete
-
-|  | Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |
-
-|  | 2011 | 2012 | 2013 | Összesen |
-
-|  | 3,02 | 0,932 | 0,00 | 3,95 |
-
-Tartalék: 4,90 Mrd Ft
-
-ESZA tervezett aránya a prioritás keretéből: 0%
-
-3. A prioritás ütemezése – kötelezettségvállalás (IH döntés)
-
-|  | Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |
-
-|  | 2007–2011 | 2012 | 2013 | 2014–2015 | Összesen |
-
-|  | 21,17 | 0,93 | 0,00 | 0,00 | 22,10 |
-
-II. A támogatási konstrukciók összefoglaló adatai (2011–2013)
-
-| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek meghirdethető kerete KMR+KONV (Mrd Ft) | A konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |
-
-|  |  | 2011 | 2012 | 2013 |  |  |  |
-
-| 8.1.1 | Az OP technikai-adminisztratív lebonyolítása (Közreműködő Szervezet finanszírozása) | 3,02 | 0,20 | 0,00 | Az OP technikai-adminisztratív lebonyolítása (Közreműködő Szervezet finanszírozása) | NFM | – |
-
-| 8.1.2 | Az OP lebonyolításával kapcsolatos specifikus feladatok ellátása | 0,002 | 0,732 | 0,000 | Az OP lebonyolításával kapcsolatos specifikus feladatok ellátása | NFM | – |
-
-| Többlet- kötelezettség- vállalás esetén tartalék konstrukciók |  |  |  |  |  |  |  |
-
-| 8.0.0 | Prioritás | 3,02 | 0,93 | 0,00 |  |  |  |
+[^2]: Az 1. melléklet az 1331/2012. (IX. 7.) Korm. határozat 6. pont b) alpontja szerint módosított szöveg.
