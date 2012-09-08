@@ -1,0 +1,9 @@
+# 249/2012. (VIII. 31.) Korm. rendelet
+
+a közszolgálati tisztviselők részére adható juttatásokról és egyes illetménypótlékokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-249-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-09-08 | 2012-249-20-22.1 | 249/2012. (VIII. 31.) Korm. rendelet |
