@@ -1,20 +1,18 @@
-6. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^90]
+6. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^65]
 
 ## Az üzemeltetési engedély iránti kérelem adattartalma
 
 A közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl a kérelem a következő adatokat tartalmazza:
 
-1. A hálózat (vezeték) megnevezése,
+1. A hálózat (vezeték) megnevezése.
 
-2. A hálózat (vezeték) rendeltetése,
+2. A hálózat (vezeték) rendeltetése.
 
-3. A Magyar Energia Hivatal engedélyének száma, kelte (amennyiben a VET 74. §-a szerinti engedély kiadására sor került),
+3. Az építési vagy vezetékjogi engedély száma, kelte.
 
-4. Az építési vagy vezetékjogi engedély száma, kelte,
+4. A beruházás adatai: az üzemeltető megnevezése és címe.
 
-5. A beruházás adatai: a beruházó megnevezése és címe,
-
-6. A kivitelezés adatai:
+5. A kivitelezés adatai:
 
 a) kivitelező megnevezése,
 
@@ -22,10 +20,10 @@ b) kivitelező címe,
 
 c) kivitelezés kezdési időpontja,
 
-d) kivitelezés tervezett befejezési időpontja,
+d) kivitelezés befejezési időpontja.
 
-7. Az üzembentartó megnevezése és címe,
+6. Az üzembentartó megnevezése és címe.
 
-8. Üzembe helyezési eljárás ideje.
+7. Üzembe helyezési eljárás ideje.
 
-[^90]: A 6. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 606. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^65]: A 6. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § e) pontjával megállapított szöveg.

@@ -1,6 +1,6 @@
-1. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^59]
+1. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^60]
 
-## A vezetékjog engedélyezése és az építési engedély iránti kérelem adattartalma
+## A vezetékjog engedélyezése és a vezeték építési engedély iránti kérelem adattartalma
 
 A közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl a kérelem a következő adatokat tartalmazza:
 
@@ -14,7 +14,7 @@ A közigazgatási hatósági eljárás általános szabályairól szóló törv�
 
 5. A beruházás adatai:
 
-a) beruházó megnevezése,
+a) engedélyes/építtető megnevezése és elérhetősége (például telefon, telefax, e-mail),
 
 b) beruházás célja, rendeltetése,
 
@@ -22,9 +22,9 @@ c) beruházás érték előirányzata.
 
 6. A tervező megnevezése, címe, tervezési jogosultságának megjelölése.
 
-7. A kivitelezés adatai:
+7. A kivitelezés adatai (ha már ismert):
 
-a) kivitelező megnevezése,
+a) kivitelező megnevezése és elérhetősége (például telefon, telefax, e-mail),
 
 b) kivitelező címe,
 
@@ -32,13 +32,13 @@ c) kivitelezés kezdési időpontja,
 
 d) kivitelezés tervezett befejezési időpontja.
 
-8. Az üzembentartó megnevezése és címe.
+8. Az üzembentartó megnevezése, elérhetősége (például telefon, telefax, e-mail) és címe.
 
 9. A létesítendő hálózat (vezeték) adatai:
 
 a) üzemi feszültség,
 
-b) nyomvonalhossz belterületen,
+b) nyomvonalhossz belterületen (és zártkertben),
 
 c) nyomvonalhossz külterületen,
 
@@ -50,7 +50,7 @@ e) átalakító és kapcsoló berendezés típusa.
 
 a) üzemi feszültség,
 
-b) nyomvonalhossz belterületen,
+b) nyomvonalhossz belterületen (és zártkertben),
 
 c) nyomvonalhossz külterületen,
 
@@ -62,6 +62,8 @@ e) átalakító és kapcsoló berendezés típusa.
 
 12. Helyszíni szemle ideje (abban az esetben, ha a helyszíni szemlét a kérelmező vagy megbízása alapján a tervező megszervezte).
 
-13. A kérelmező nyilatkozata arról, hogy a hálózat (vezeték) megépítése az érintett ingatlanok rendeltetésszerű használatát lényegesen nem akadályozza.
+13. A kérelmező nyilatkozata arról, hogy a hálózat (vezeték) megépítése a közcélú hálózat szükséges fejlesztése érdekében indokolt, és az az érintett ingatlanok rendeltetésszerű használatát lényegesen nem akadályozza.
 
-[^59]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 606. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+14. Termőföld esetében a termőföld más célú hasznosításának engedélyezéséről szóló hatósági határozat.
+
+[^60]: Az 1. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § a) pontjával megállapított szöveg.

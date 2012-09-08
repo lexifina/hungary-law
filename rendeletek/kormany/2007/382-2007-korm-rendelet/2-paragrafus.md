@@ -10,4 +10,8 @@
 
 5. Tartószerkezeten elhelyezett átalakító vagy kapcsoló berendezés: a föld feletti vezeték tartószerkezetén (oszlopán) elhelyezett átalakító vagy kapcsoló berendezés.
 
+6.[^2] Biztonsági övezet: a biztonsági övezetről szóló miniszteri rendeletben megállapított hatásterület, amelyre a tervezett vagy létesült villamosmű, termelői vezeték, magánvezeték vagy közvetlen vezeték számottevő hatást gyakorol.
+
 (2) Az (1) bekezdésben nem szereplő e rendeletben használt fogalmakat a VET, valamint a végrehajtására kiadott jogszabályok rendelkezései szerint kell értelmezni.
+
+[^2]: A 2. § (1) bekezdés 6. pontját a 245/2012. (VIII. 31.) Korm. rendelet 3. §-a iktatta be.
