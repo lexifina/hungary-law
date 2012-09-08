@@ -8,10 +8,12 @@ belügyminiszter
 
 Határidő: 2013. december 31.
 
-3. A Kormány felkéri a nemzeti fejlesztési minisztert, a nemzeti erőforrás minisztert, vizsgálja meg, hogy a büntetés-végrehajtási egészségügyi létesítmény megvalósításának forrásául szolgálhatnak-e és milyen módon a Budapest XII., Budakeszi út 48/b. (volt BM Szanatórium, hrsz.: 10503/4, 10875/4) és a Budapest VII., Városligeti fasor 9–11. (volt BM Központi Kórház, hrsz.: 33505) szám alatti, állami tulajdonban lévő, volt egészségügyi célú ingatlanok.
+3.[^2] A Kormány felhívja a nemzeti fejlesztési minisztert, valamint az emberi erőforrások miniszterét, vizsgálja meg, hogy a büntetés-végrehajtási egészségügyi létesítmény megvalósításának forrásául szolgálhat-e és milyen módon a Budapest XII., Budakeszi út 48/b. (volt BM Szanatórium, hrsz.: 10503/4, 10875/4) szám alatti, állami tulajdonban lévő, volt egészségügyi célú ingatlan.
 
 Felelős: nemzeti fejlesztési miniszter
 
-nemzeti erőforrás miniszter
+emberi erőforrások minisztere
 
 Határidő: 2012. december 31.
+
+[^2]: A 3. pont az 1329/2012. (IX. 7.) Korm. határozat 1. pontjával megállapított szöveg.
