@@ -1,0 +1,1 @@
+## „(2b) A közlekedési kedvezményben nem részesített kérelmezők között a hivatal sorrendet állít fel, és abban az esetben, ha a támogatás felhasználására előírt határidő lejár, vagy a jogosult a megállapított támogatásról lemond, az új jogosultakat ennek a sorrendnek megfelelően jelöli ki.”
