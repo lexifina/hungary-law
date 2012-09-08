@@ -1,5 +1,3 @@
-## 16. § Az Elnök másodfokú eljárásáért – amennyiben a fellebbezési eljárás tárgyának értéke pénzben megállapítható – a fellebbezéssel érintett vagy vitatott összeg minden megkezdett 10 000 forintja után 400 Ft, de legalább 5000 Ft, legfeljebb 500 000 Ft összegű díj fizetendő. Ha a fellebbezési eljárás tárgyának értéke pénzben nem állapítható meg, a fellebbezés díja 5000 Ft.
-
 ## A Médiatanács egyes eljárásaiért fizetendő díjak
 
 17. § (1) A Médiatanácsnak a médiaszolgáltató műsorszámának kategóriába sorolása érdekében indult eljárásáért fizetendő díj összege 20 000 Ft.

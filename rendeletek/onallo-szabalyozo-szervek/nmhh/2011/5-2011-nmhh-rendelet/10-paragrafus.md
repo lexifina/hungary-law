@@ -16,6 +16,8 @@ f) az Mttv. 49. § (8) bekezdése szerinti adatszolgáltatási eljárás díja 3
 
 g) az egyszerűsített rádióengedélyezési eljárás díja 0 Ft,
 
-h) a rádióberendezés megfelelőségének vizsgálatára irányuló eljárás díja 5000 Ft,
+h)[^5] a nem harmonizált frekvenciahasználatú rádióalkalmazás rádióberendezésének belföldi forgalomba hozatali szándéka bejelentésének díja 0 Ft.
 
 i) rádióamatőr engedély kiadása iránti eljárás díja 0 Ft.
+
+[^5]: A 10. § h) pontja a 12/2012. (VIII. 9.) NMHH rendelet 5. §-ával megállapított szöveg.
