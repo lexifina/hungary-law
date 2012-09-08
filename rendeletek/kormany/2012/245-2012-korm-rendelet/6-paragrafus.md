@@ -1,0 +1,3 @@
+## 5. § Az R2. 6. §-a helyébe a következő rendelkezés lép:
+
+## „6. § Az első és másodfokú villamosenergia-ipari építésügyi engedélyezési eljárásban – a 37. § (1) bekezdés f) és g) pontjában foglalt kivételekkel – a 4. számú melléklet 1. pontjában meghatározott feltételek fennállása esetén és szakkérdésben a 4. számú melléklet 1. pontjában meghatározott hatóságok szakhatóságként járnak el. A villamosenergia-ipari építésügyi engedélyezési eljárásokban érintettségüktől függően a 4. számú melléklet 2. pontjában meghatározott közművek, kezelők és üzemeltetők hozzájárulásukról nyilatkoznak. Az eljárásban hozott határozatot az illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal is közölni kell.”
