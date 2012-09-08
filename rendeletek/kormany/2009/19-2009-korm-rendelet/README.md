@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-2
 | 2012-01-01 | 2009-19-20-22.15 | 378/2011. (XII. 31.) Korm. rendelet |
 | 2012-03-31 | 2009-19-20-22.16 | 53/2012. (III. 28.) Korm. rendelet |
 | 2012-07-01 | 2009-19-20-22.17 | 95/2012. (V. 15.) Korm. rendelet |
+| 2012-09-08 | 2009-19-20-22.18 | 245/2012. (VIII. 31.) Korm. rendelet |
