@@ -10,6 +10,6 @@ b) behozatalával és kivitelével kapcsolatos eljárásában – annak elbírá
 
 (2) A Kormány a gyógyszertárnak a kábítószer-prekurzorokkal kapcsolatos egyes hatósági eljárási szabályok, valamint a hatósági feladat- és hatáskörök megállapításáról szóló 159/2005. (VIII. 16.) Korm. rendelet 3. § (2) bekezdésében meghatározott hivatalos feladatai körébe nem sorolható, kábítószer-prekurzorral kapcsolatos tevékenységére vonatkozó kérelem elbírálására irányuló eljárásban – a kábítószer-prekurzor tárolása és felhasználása dokumentációjának vizsgálata kérdésben – a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét szakhatóságként jelöli ki.
 
-(3)[^9]
+(3)[^12]
 
-[^9]: A 20. § (3) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 97. § s) pontja hatályon kívül helyezte.
+[^12]: A 20. § (3) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 97. § s) pontja hatályon kívül helyezte.

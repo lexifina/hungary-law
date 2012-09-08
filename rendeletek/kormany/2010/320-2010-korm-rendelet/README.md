@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-320-20-
 | 2012-03-15 | 2010-320-20-22.9 | 23/2012. (II. 29.) Korm. rendelet |
 | 2012-07-01 | 2010-320-20-22.10 | 137/2012. (VI. 29.) Korm. rendelet |
 | 2012-07-27 | 2010-320-20-22.11 | 158/2011. (VIII. 11.) Korm. rendelet |
+| 2012-09-08 | 2010-320-20-22.12 | 245/2012. (VIII. 31.) Korm. rendelet |

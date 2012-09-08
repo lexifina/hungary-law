@@ -28,9 +28,9 @@ k) a villamosmű kivételével a megújuló energiahordozót előállító vagy 
 
 l) a helyhez kötött motorbenzin-tároló tartályokra, a motorbenzint szállító tartálykocsikra, valamint a pisztolygáz gőzvisszavezető rendszerekre vonatkozó, jogszabályban előírt követelmények betartásának ellenőrzésével kapcsolatos hatósági eljárásokban,
 
-m)[^3] a gázcsatlakozóvezeték- és a felhasználóiberendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenységgel kapcsolatos engedélyezési feladatok tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti eljárásokban.
+m)[^5] a gázcsatlakozóvezeték- és a felhasználóiberendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenységgel kapcsolatos engedélyezési feladatok tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti eljárásokban.
 
-n)[^4]
+n)[^6]
 
 (3) A Kormány műszaki biztonsági hatóságként országos illetékességgel – az alábbi ügyfajták tekintetében – első fokon a Hivatal műszaki felügyeleti hatóságát, másodfokon a Hivatal központi szervét jelöli ki:
 
@@ -46,7 +46,7 @@ e) a külföldi bizonyítványok és oklevelek elismeréséről szóló külön 
 
 f) a földgázellátásban műszaki biztonsági szempontból jelentős munkakörök esetén szükséges továbbképzés felkészítő tanfolyamának és a továbbképzés képzési programjának jóváhagyásával,
 
-g)[^5]
+g)[^7]
 
 h) a gázpalackokkal kapcsolatos rendkívüli események kivizsgálásával,
 
@@ -56,6 +56,6 @@ i) az iparügyekért felelős miniszter kormányzati feladatkörébe tartozó te
 
 (4) A Kormány a (3) bekezdés d) pontjában megjelölt tevékenység vonatkozásában a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a Hivatal műszaki felügyeleti hatóságát, másodfokon a Hivatal központi szervét jelöli ki.
 
-[^3]: A 12. § (2) bekezdés m) pontja a 111/2011. (VII. 4.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^4]: A 12. § (2) bekezdés n) pontját a 111/2011. (VII. 4.) Korm. rendelet 19. § (4) bekezdése hatályon kívül helyezte.
-[^5]: A 12. § (3) bekezdés g) pontját a 219/2011. (X. 20.) Korm. rendelet 53. § b) pontja hatályon kívül helyezte.
+[^5]: A 12. § (2) bekezdés m) pontja a 111/2011. (VII. 4.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^6]: A 12. § (2) bekezdés n) pontját a 111/2011. (VII. 4.) Korm. rendelet 19. § (4) bekezdése hatályon kívül helyezte.
+[^7]: A 12. § (3) bekezdés g) pontját a 219/2011. (X. 20.) Korm. rendelet 53. § b) pontja hatályon kívül helyezte.
