@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-249-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-09-08 | 2012-249-20-22.1 | 249/2012. (VIII. 31.) Korm. rendelet |
+| 2012-09-09 | 2012-249-20-22.2 | 2012: CXXX. törvény |
