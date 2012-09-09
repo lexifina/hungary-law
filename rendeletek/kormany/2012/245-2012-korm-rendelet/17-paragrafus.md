@@ -1,3 +1,0 @@
-## 16. § A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet (a továbbiakban: R4.) 7. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A (3) bekezdés a)–d) és f) pontja szerinti eljárásban a Hivatal kereskedelmi és piacfelügyeleti hatósága, a (3) bekezdés e) pontja és a (4) bekezdés a) és b) pontja szerinti eljárásban a nemesfémvizsgáló és -hitelesítő hatóság folytatja le országos illetékességgel az elsőfokú eljárást, másodfokon – ha jogszabály másként nem rendelkezik – a Hivatal központi szerve jár el.”

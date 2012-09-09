@@ -1,1 +1,0 @@
-## 14. § A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet (a továbbiakban: R3.) 1. számú melléklete a 8. melléklet szerint módosul.
