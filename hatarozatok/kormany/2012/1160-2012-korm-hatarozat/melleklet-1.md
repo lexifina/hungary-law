@@ -1,12 +1,12 @@
-## 1. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a Művészetek Palotája Közhasznú Nonprofit Kft. tőkepótlásához 350,6 millió forint 1. melléklet szerinti átcsoportosítását rendeli el elszámolási és visszatérítési kötelezettséggel a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 28. Gazdasági társaságok által ellátott feladatok támogatása alcím, 2. Gazdasági társaságok által ellátott kulturális feladatok támogatása jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 3. Rendkívüli kormányzati intézkedések cím terhére.
+## 1.[^2] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a Művészetek Palotája Közhasznú Nonprofit Kft. tőkepótlásához 350,6 millió forint 1. melléklet szerinti átcsoportosítását rendeli el elszámolási és visszatérítési kötelezettséggel a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 28. Gazdasági társaságok által ellátott feladatok támogatása alcím, 2. Gazdasági társaságok által ellátott kulturális feladatok támogatása jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 3. Rendkívüli kormányzati intézkedések cím terhére.
 
 ## Felelős: nemzetgazdasági miniszter
 
 ## Határidő: átcsoportosításra azonnal
 
-## elszámolásra és a visszatérítési kötelezettség teljesítésére: 2012. június 30.
+## elszámolásra és a visszatérítési kötelezettség teljesítésére: 2012. október 15.
 
-## 2.[^1]
+## 2.[^3]
 
 1. melléklet az 1160/2012. (V. 18.) Korm. határozathoz
 
@@ -80,4 +80,5 @@ Költségvetési év: 2012.
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont az 1353/2012. (IX. 11.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
