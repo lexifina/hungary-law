@@ -1,0 +1,172 @@
+# A Kormány 253/2012. (IX. 11.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 118. szám, 2012. szeptember 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/b4599f22456685a2c2324fc534be4308cb6a24e6/dokumentumok/e1cae25865526f726febf4619b90e27126c148cd/letoltes)
+
+---
+
+A Kormány 253/2012. (IX. 11.) Korm. rendelete
+a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet (a továbbiakban: R.) 21. és 21/A. §-a helyébe
+a következő rendelkezések lépnek:
+„21. § (1) A kedvezmény, adó-visszatérítési támogatás igénybevételével
+a) épített vagy bővített lakásra a használatbavételi engedély megadását, vagy
+b) vásárolt lakásra az adásvételi szerződés megkötését
+követő 10 évig terjedő időszakra– a 24. § (6) bekezdésébenfoglaltak figyelembevételével– az államjavárajelzálogjog,
+valamint annak biztosítására elidegenítési és terhelési tilalom kerül bejegyzésre. Az állam javára szóló jelzálogjog,
+valamint az elidegenítési és terhelési tilalom bejegyeztetését a támogatást folyósító hitelintézet kérelmezi.
+(2) Az (1) bekezdésben foglaltakat alkalmazni kell a fiatalok otthonteremtési támogatása esetén is azzal, hogy
+a jelzálogjog, valamint elidegenítési és terhelési tilalom időtartama 5 év.
+(3) Ha az (1) vagy (2) bekezdés szerinti időszakon belül a kedvezmény, az adó-visszatérítési támogatás vagy a fiatalok
+otthonteremtési támogatása igénybevételével épített, vásárolt vagy bővített
+a) lakást lebontják – kivéve, ha a bontás természeti katasztrófa miatt vált szükségessé –,
+b) lakást elidegenítik,
+c) lakás nem a támogatott személy és a vele együttköltözők lakóhelyéül szolgál,
+d) lakás használatát harmadik személynek átengedik, vagy
+e) lakást a lakáscéltól eltérően hasznosítják,
+a támogatott személy köteles ennek tényét a (4) bekezdésben foglaltak szerint bejelenteni és a támogatás folyósított
+összegét a 21/B. § (1) bekezdésében foglaltak szerint visszafizetni. A visszafizetési kötelezettség érvényesítése iránt
+a Kincstár intézkedik.
+(4) A támogatott személy
+a) a lakás elidegenítését az erre vonatkozó szerződés megkötésétől,
+b) a bontást és a lakáscéltól eltérő hasznosítást az arra vonatkozó engedély kiadásától,
+c) annak tényét, hogy a lakás nem saját maga és a vele együttköltözők lakóhelyéül szolgál a személyi adat- és
+lakcímnyilvántartó hatóságnál történt lakcímbejelentéstől, vagy
+d) a lakás használatának átengedését az arra vonatkozó szerződés megkötésétől vagy annak hiányában annak
+megkezdésétől
+számított 30 napon belül köteles a Kincstárnak a támogatással érintett ingatlan fekvésének helye szerint illetékes
+területi szervének bejelenteni az ezekre vonatkozó iratok egyidejű csatolásával.Ha a szerződés létrejöttéhez harmadik
+személy beleegyezése szükséges, a bejelentési határidő 45 nap. Ha a szerződés érvényességéhez hatósági jóváhagyás
+vagyhatóságinyilvántartásbatörténőbejegyzésszükséges,abejelentésihatáridőennekmegtörténtét követő30nap.
+(5) A Kincstárnak a támogatással érintett ingatlan fekvésének helye szerint illetékes területi szerve a (4) bekezdés
+szerinti bejelentést követően, ha a lakás tulajdonosa a 21/A. § (1) bekezdése szerinti felfüggesztést nem kérte, kötelezi
+a lakás tulajdonosát a támogatás visszafizetésére.
+(6) Ha a lakás tulajdonosa a (4) bekezdésben foglalt bejelentési kötelezettségének nem vagy nem a bejelentési
+határidőben tesz eleget, a visszafizetési kötelezettség a bontás, a lakáscéltól eltérő hasznosítás megkezdésének,
+a lakáshasználat átengedésének vagy a lakás elidegenítésére vonatkozó szerződés megkötésének napjától számítva
+a Ptk. 301. § (1) bekezdése szerinti késedelmi kamattal növelten terheli.
+(7) Házasság felbontása esetén, ha a volt házasfelek közös lakásukat idegenítik el, őket az igénybevett a kedvezmény,
+az adó-visszatérítési támogatás vagy a fiatalok otthonteremtési támogatása visszafizetési kötelezettsége
+
+az elidegenítésből származó bevétel bírósági határozat szerinti vagy a közöttük létrejött házassági vagyonmegosztási
+szerződésben rögzített arányban terheli.
+(8) Ha a támogatott személy lakásának egy részét elidegeníti, a kedvezmény, az adó-visszatérítési támogatás, vagy
+a fiatalok otthonteremtési támogatása összegének csak az elidegenítésre kerülő tulajdoni hányadra jutó arányos
+részét kell visszafizetni.
+(9) Ha az eladó a korábbi lakás elidegenítéséből származó – a 21/B. § (3) bekezdése szerinti összeggel csökkentett –
+bevételnek csak egy részét fordította az újabb lakás megszerzésére, a támogatásnak az eladási és a vételár
+különbözetével arányos részét kell visszafizetnie.
+21/A. § (1) Ha a lakás tulajdonosa a lakásigényét a lakás cseréjével, vagy a lakás elidegenítését követően másik lakás
+építése vagy vásárlása útján elégíti ki, a kedvezmény, adó-visszatérítési támogatás, vagy a fiatalok otthonteremtési
+támogatása visszafizetésével kapcsolatos kötelezettségét építési szándék esetében 3, vásárlási szándék esetében
+1 évig a tulajdonos– a 21. § (4) bekezdéseszerinti bejelentésmegtételét követőlegfeljebb60 naponbelülbenyújtott –
+kérelme alapján a Kincstárnak a támogatással érintett ingatlan fekvésének helye szerint illetékes területi szerve
+felfüggeszti.
+(2) Az (1) bekezdés szerinti felfüggesztés feltétele, hogy a támogatott személy az igénybevett támogatás összegét
+a „10032000-01501315 Kincstár lakáscélú kedvezmények letéti számlára” befizesse.
+(3) Az (1) bekezdés szerinti felfüggesztés időtartamát az igénybevett támogatás összegének kincstári letéti számlára
+érkezésének napjától kell számítani.
+(4) A felfüggesztés időtartama egy alkalommal legfeljebb 1 évvel meghosszabbítható, ha ezt a támogatott személy
+az (1) bekezdés szerinti határidő lejárta előtt legfeljebb 30 nappal kérelmezi.
+(5) A felfüggesztés időtartama alatt a lakás tulajdonosának kérelmére, amennyiben a másik lakás megszerzése még
+nem történt meg, a kedvezmény, adó-visszatérítési támogatás igénybevételével épített, vásárolt, bővített, vagy
+a fiatalok otthonteremtési támogatásával vásárolt lakást a Kincstárnak a támogatással érintett ingatlan fekvésének
+helye szerint illetékes területi szerve tehermentesíti.
+(6) A másik lakás megszerzésének hitelt érdemlő igazolása esetén a felfüggesztés megszüntetéséről a Kincstár
+határozatban dönt, megállapítja a kincstári letéti számláról a támogatott személynek kifizethető összeget és
+intézkedik a terhek másik lakásra történő bejegyeztetése iránt. A Kincstár a felfüggesztés megszüntetéséről szóló
+határozatának jogerőre emelkedésétől számított 15 napon belül átutalja a jogosultnak a határozatában megállapított
+összeget a jogosult határozatban megjelölt bankszámlájára.
+(7) A támogatott személy akkor is köteles az (1) bekezdésben foglalt másik lakás építésére vagy vásárlására irányuló
+kötelezettségnek eleget tenni, amennyiben a felfüggesztés időtartama alatt a 21. § (1) vagy (2) bekezdése szerinti
+elidegenítési tilalomra irányadó időtartam lejár.
+(8) Ha a támogatott személy a másik lakás megszerzését a felfüggesztés időtartama alatt nem igazolja, vagy kisebb
+értékű lakás megszerzését igazolja, a kincstári letéti számlán elhelyezett összeg, illetve annak az eladási és a vételár
+különbözetével arányos része visszafizetett támogatásnak minősül, amelynek központi költségvetés javára történő
+átvezetéséről a Kincstár intézkedik.
+(9) Ha a támogatott személy az (1) vagy (4) bekezdés szerinti határidő lejártáig
+a) az újabb lakás megszerzését hitelt érdemlően igazolja
+aa) adásvételi vagy csereszerződés bemutatásával vagy
+ab) építés esetében a használatbavételi engedély bemutatásával
+és
+b) a korábbi lakás elidegenítéséből származó teljes bevételt – csökkentve a 21/B. § (3) bekezdése szerinti összeggel –
+szerződéssel és értékbecsléssel, építés esetén pedig számlával igazoltan az új lakás megszerzésére fordította,
+a 21. § (3) bekezdése szerinti kötelezettség az eredeti határidő lejártáig terheli.
+(10) A (9) bekezdés a) pont aa) alpontja szerinti esetben a tulajdonjog megszerzését a Kincstár a számítógépes
+ingatlan-nyilvántartási adatbázishoz közvetlen hozzáférést biztosító TAKARNET rendszerből, az elektronikus
+dokumentumként szolgáltatott hiteles tulajdoni lap másolat lekérdezésével ellenőrzi.
+(11) A (9) bekezdés esetében a kedvezmény, az adó-visszatérítési támogatás, a megelőlegező kölcsön időszaka alatt
+az állam által fizetett ellenszolgáltatások és a fiatalok otthonteremtési támogatása visszafizetését biztosító
+jelzálogjognak az ingatlan-nyilvántartásban az újabb lakásra való átjegyzése iránt a Kincstárnak a támogatással
+érintett ingatlan fekvésének helye szerint illetékes területi szerve intézkedik. A megelőlegező kölcsönt biztosító
+jelzálogjog újabb ingatlanra történő átjegyezhetőségéről a hitelintézet dönt és intézkedik.”
+
+2. § Az R. a következő 21/B. és 21/C. §-sal egészül ki:
+„21/B. § (1) A 21. § (3) és (6)–(9) bekezdésében foglalt visszafizetési kötelezettséget a „10032000-01034080
+Lakástámogatások visszafizetése bevételi számla” kincstári számlára kell teljesíteni.
+(2) Az (1) bekezdés szerinti visszafizetési kötelezettség teljesítését követően a Kincstárnak a támogatással érintett
+ingatlan fekvésének helye szerint illetékes területi szerve határozatban dönt
+a) – a 21. § (3) és (6) bekezdése esetén – a támogatás visszafizetését biztosító jelzálogjognak
+az ingatlan-nyilvántartásból történő törléséről,
+b) – a 21. § (7) és (8) bekezdése esetén – a teljes támogatási összeg visszafizetését biztosító jelzálogjognak, valamint
+elidegenítési és terhelési tilalomnak a törléséről, továbbá a visszafizetési kötelezettség alá nem eső támogatási
+összegnek megfelelő az államot megillető jelzálogjognak, illetve az azt biztosító elidegenítési és terhelési tilalomnak
+támogatott lakásra történő bejegyezéséről, vagy
+c) – a 21. § (9) bekezdése esetén – a visszafizetési kötelezettség alá nem eső támogatási hányadra jutó jelzálogjognak,
+továbbáannakbiztosításáraazelidegenítésiésterhelésitilalomnakazújabbingatlanraazállamjavárabejegyezéséről.
+(3) A korábbi lakás elidegenítéséből származó bevétel csökkenthető
+a) a lakás átruházásából származó jövedelem után az állami adóhatóság által igazoltan megfizetett személyi
+jövedelemadó összegével,
+b) azzal az összeggel, melyet az adós az elidegenítésből származó bevételből az értékesített lakás építését, vásárlását
+vagy bővítését szolgáló lakáscélú hitelintézeti kölcsön egyösszegű előtörlesztésére és annak díjára fordított,
+de legfeljebb akkora összeggel, hogy az ily módon csökkentett bevétel összege elérje az igénybevett kedvezmény,
+adó-visszatérítési támogatás, fiatalok otthonteremtési támogatása együttes összegének kétszeresét.
+21/C. § (1) A nem magyar állampolgár támogatott személy részére a közvetlen támogatások és a kamattámogatás
+a három hónapot meghaladó tartózkodási jogosultság fennállásának időtartama alatt nyújtható, ha Magyarország
+területén bejelentett lakóhellyel rendelkezik. A tartózkodási jogosultság fennállását évente január 31-éig kell
+a hitelintézet felé igazolni. A közvetlen támogatást vagy kamattámogatást igénybe vevő nem magyar állampolgár
+tartózkodási jogosultságában bekövetkezett változást 8 napon belül köteles a támogatást folyósító hitelintézetnek
+bejelenteni.
+(2) Amennyiben építés esetén a használatbavételi engedély megadását, vásárlás esetén az adásvételi szerződés
+megkötését követő 10 éven belül a nem magyar állampolgár támogatott személy tartózkodási jogosultsága
+megszűnik, és 30 napon belül nem kap a 18. § (2) bekezdés f) pontja szerinti tartózkodási jogosultságot igazoló
+okmányt, vagy a 18. § (2) bekezdés g)–h) pontja szerinti tartózkodásra jogosító engedélyt, vagy nem szerez a 18. §
+(2) bekezdés i)–k) pontja szerinti jogállást az igénybe vett kedvezmény, adó-visszatérítési támogatás vagy fiatalok
+otthonteremtési támogatása összegének – a 10 évből még fennmaradó időtartamhoz viszonyított – arányos részét
+köteles visszafizetni. A 10 évből még fennmaradó időtartamot a tartózkodási jogosultság megszűnését követő
+30 napos határidő lejártától kell számítani.
+(3) Ha a (2) bekezdés alapján a kedvezmény, az adó-visszatérítési támogatás vagy a fiatalok otthonteremtési
+támogatása visszafizetésére kötelezett személy a 10 évből még fennmaradó időtartamon belül ismét a 18. §
+(2) bekezdés f) pontja szerinti tartózkodási jogosultságot igazoló okmányt, a 18. § (2) bekezdés g)–h) pontja szerinti
+tartózkodásra jogosító engedélyt kap, vagy a 18. § (2) bekezdés i)–k) pontja szerinti jogállást szerez és bejelentett
+lakóhellyel rendelkezik, a kedvezménynek, az adó-visszatérítési támogatásnak vagy a fiatalok otthonteremtési
+támogatásának a tartózkodási jogosultság megszűnését követő 30 napig, de legkésőbb a 10 év lejártáig terjedő
+időtartammal arányos részére ismét jogosulttá válik.
+(4) Amennyiben a nem magyar állampolgár támogatott személy tartózkodási jogosultsága megszűnik, és 30 napon
+belül nem kap a (2) bekezdés szerinti tartózkodást igazoló vagy arra jogosító okmányt, engedélyt vagy jogállást,
+a 30 napos határidő lejártát követően az újabb tartózkodásra jogosító okmány, engedély kiadásáig vagy jogállás
+megszerzéséig az állam 12. §-ban, valamint a 13. §-ban meghatározott hitelek törlesztésének megfizetéséhez nem
+nyújt támogatást.
+(5) Ha a megelőlegező kölcsön adós nem magyar állampolgár támogatott személy tartózkodási jogosultsága
+megszűnik, és 30 napon belül nem kap a 18. § (2) bekezdés f) pontja szerinti tartózkodási jogosultságot igazoló
+okmányt, vagy a 18. § (2) bekezdés g)–h) pontja szerinti tartózkodásra jogosító engedélyt, vagy a 18. § (2) bekezdés
+i)–k) pontja szerinti jogállást, valamint a gyermekvállalását nem vagy csak részben teljesítette, köteles tartózkodási
+jogosultsága megszűnését követő 30 napon belül a megelőlegező kölcsönnek a meg nem született gyermekre eső
+részét a folyósító hitelintézet részére visszafizetni, vagy azt a hitelintézettel kötött megállapodás szerint piaci
+kamatozású kölcsönként törleszteni. Ha a gyermekvállalást a tartózkodási jogosultság megszűnése előtt, vagy ezt
+
+követő 30 napon belül teljesíti, a visszafizetésre a (2) bekezdésben foglalt rendelkezéseket az 5/A. § (2) bekezdésében
+foglaltak figyelembevételével kell megfelelően alkalmazni.”
+3. § Az R. a következő 48. §-sal egészül ki:
+„48. § E rendeletnek a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet módosításáról szóló
+253/2012. (IX. 11.) Korm. rendelet (a továbbiakban: Módr2.)
+a) 1. §-ával megállapított 21. és 21/A. §-át, valamint 2. §-ával megállapított 21/B. §-át a Módr2. hatálybalépését
+követően benyújtott felfüggesztés iránti kérelmek,
+b) 2. §-ával megállapított 21/C. §-át a Módr2. hatálybalépését követően megszűnt tartózkodási jogosultság
+esetén kell alkalmazni.”
+4. § Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+5. § Az R. 24. § (6) bekezdésében a „21. § (1) bekezdésében” szövegrész helyébe a „21. § (1) vagy (2) bekezdésében”
+szöveg lép.
+Orbán Viktor s. k.,
+miniszterelnök
