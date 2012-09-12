@@ -16,7 +16,7 @@
 
 ## Határidő: 2012. október 31.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1160/2012. (V. 18.) Korm. határozat 1. pontjában a „2012. június 30.” szövegrész helyébe a „2012. október 15.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1353/2012. (IX. 11.) Korm. határozathoz
 
@@ -117,3 +117,5 @@ Költségvetési év: 2012.
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
