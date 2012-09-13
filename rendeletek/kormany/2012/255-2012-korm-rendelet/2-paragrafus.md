@@ -1,0 +1,1 @@
+## 1. § A Kormány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján a Kapuvári Hús Húsipari Zártkörűen Működő Részvénytársaságot (székhely: 9330 Kapuvár, Cseresznye sor 21., Cg. 08-10-001786) stratégiailag kiemelt jelentőségű gazdálkodó szervezetnek minősíti.
