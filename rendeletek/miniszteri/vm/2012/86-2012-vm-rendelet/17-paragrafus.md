@@ -1,3 +1,1 @@
-## 16. §[^1]
-
-[^1]: A 16. § a 15. § (2) bekezdése alapján 2012. szeptember 14-én lép hatályba.
+## 16. § A környezetvédelmi, természetvédelmi, valamint a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló 33/2005. (XII. 27.) KvVM rendelet 1. melléklete e rendelet 6. melléklete szerint módosul.
