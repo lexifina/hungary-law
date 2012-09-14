@@ -1,0 +1,18 @@
+# A Kormány 1362/2012. (IX. 14.) Korm. határozata
+
+Magyar Közlöny 2012. évi 120. szám, 2012. szeptember 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/894259f699b1562c128342cfa793799df9c4095d/dokumentumok/9486c62c57d881dbd4c44a9a6da1b627b09b42b8/letoltes)
+
+---
+
+A Kormány 1362/2012. (IX. 14.) Korm. határozata
+az Európa Tanács 024. számú egyezményéhez fűzött harmadik és negyedik jegyzőkönyv
+szövegének végleges megállapítására adott felhatalmazásról
+A Kormány
+1. egyetért az Európa Tanács 024. számú egyezményéhez fűzött harmadik és negyedik jegyzőkönyv (a továbbiakban:
+Jegyzőkönyvek) bemutatott szövegével;
+2. felhatalmazza a közigazgatási és igazságügyi minisztert, vagy az általa kijelölt személyt a Jegyzőkönyvek bemutatott
+szövegének – a megerősítés fenntartásával történő – végleges megállapítására;
+3. felhívjaakülügyminisztert,hogy aJegyzőkönyvekszövegénekvéglegesmegállapításáhozszükségesmeghatalmazási
+okiratot adja ki.
+Orbán Viktor s. k.,
+miniszterelnök

@@ -1,0 +1,151 @@
+# A Kormány 257/2012. (IX. 14.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 120. szám, 2012. szeptember 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/894259f699b1562c128342cfa793799df9c4095d/dokumentumok/9486c62c57d881dbd4c44a9a6da1b627b09b42b8/letoltes)
+
+---
+
+A Kormány 257/2012. (IX. 14.) Korm. rendelete
+a nagyberuházásokkal összefüggő régészeti feltárások szabályairól
+A Kormány a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés h) pontjában kapott felhatalmazás
+alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) E rendelet hatálya a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 7. §
+31. pontjában meghatározott nagyberuházás (a továbbiakban: nagyberuházás) során végzett régészeti feltárásokra
+terjed ki.
+(2) E rendelet végrehajtása során az egyes tevékenységeket és azok finanszírozását a Kötv. 23/B–23/E. §-aiban
+meghatározott idő- és költségkorlátok megtartásával kell megtervezni és végrehajtani.
+(3) Az e rendeletben nem szabályozott kérdésekben a régészeti lelőhelyek feltárásának, illetve a régészeti lelőhely, lelet
+megtalálója anyagi elismerésének részletes szabályairól szóló 5/2010. (VIII. 18.) NEFMI rendelet (a továbbiakban: R.)
+rendelkezéseit kell alkalmazni.
+2. § (1) A nagyberuházás egészére egyetlen, az elvégzendő régészeti feladatellátás formájának, idő-és költségvonzatainak
+meghatározásához hozzájáruló, a lelőhely állapotában maradandó változással nem járó műszeres lelőhely-, illetve
+leletfelderítés és terepbejárás vagy próbafeltárás alkalmazásával készült előzetes régészeti dokumentációt kell
+készíteni.
+(2) Az előzetes régészeti dokumentációt – kormányrendelet eltérő rendelkezésének hiányában – a földmunkával járó
+bármilyen tevékenység engedélyezésére irányuló azon első hatósági eljárás megindítására irányuló kérelemhez kell
+mellékelni, amelyben a kulturális örökségvédelmi hatóság (a továbbiakban: hatóság) eljáró hatóságként vagy
+szakhatóságként jár el.
+(3) Az előzetes régészeti dokumentációt a beruházóval vagy a beruházásokkal kapcsolatos feladatokat ellátó
+költségvetési szervvel (a továbbiakban együtt: beruházó) kötött írásbeli szerződés alapján az illetékes múzeum
+a Magyar Nemzeti Múzeummal együttműködésben készíti el oly módon, hogy a szakmai koordinációs, valamint
+– a Kulturális Örökségvédelmi Hivatal közhiteles nyilvántartásának adatain alapuló – központi adatnyilvántartó és
+adatszolgáltató tevékenységet a Magyar Nemzeti Múzeum, a helyszíni munkát az illetékes múzeum végzi.
+(4) Az előzetesrégészeti dokumentáció elkészítésénekköltségeit a beruházó viseli,kivéve, ha e költségeketa Kötv. 20/A. §
+(3) bekezdése alapján a központi költségvetés fedezi. Az előzetes régészeti dokumentáció elkészítésének díja az
+illetékes múzeumot és a Magyar Nemzeti Múzeumot az elvégzett munka arányában illeti meg.
+(5) Amennyiben az előzetes régészeti dokumentáció alapján a feltárást végző intézmény megállapítja a Kötv. 23/E. §
+(2) bekezdésében meghatározott körülmények fennállását, a beruházóval történt egyeztetés alapján kérelmet nyújt
+be a hatósághoz a Kötv. 23/E. § (1) bekezdésében meghatározott összeg magasabb értékben történő megállapítása
+iránt.
+3. § (1) A feltárást végző intézmény – ha a beruházó az előzetes régészeti dokumentáció addig elkészült tartalma alapján a
+beruházás tervezett megvalósítása mellett dönt – az előzetes régészeti dokumentáció záródokumentumaként
+elkészíti a feltárási projekttervet a Kötv. 23/E. § (1) és (3) bekezdésében meghatározott költségkorlátra vagy – a 2. §
+(5) bekezdése esetén – a Kormány döntésének megfelelően.
+(2) A feltárási projektterv tartalmazza azon régészeti lelőhelyek, lelőhelyrészek meghatározását, amelyeken a feltárást
+végző intézmény – ha az előzetes régészeti dokumentáció készítése során nem készült – próbafeltárást, megelőző
+feltárást vagy elfedést javasol. A feltárási projektterv elkészítése során figyelemmel kell lenni a hatóság által előírt
+régészeti megfigyelés eredményeként felmerülő megelőző feltárás költségére is.
+(3) A projekttervet a feltárást végző intézmény a beruházó részére megküldi. A beruházó a projekttervet véleményezheti,
+módosítását, kiegészítését javasolhatja. A beruházó és a feltárást végző intézmény a feltárásra vonatkozó szerződést a
+feltárási projektterv adataira figyelemmel köti meg.
+
+(4) A szerződésnek tartalmaznia kell a szükség szerinti próbafeltárásra, illetve a megelőző feltárásra vagy – szükség
+esetén – az elfedésre, továbbá az előre nem látható körülmények kezelésére vonatkozó rendelkezéseket is.
+(5) A szerződésben a feltárásra, illetve elfedésre, valamint a hatósági eljárás megindítására irányuló kérelem benyújtására
+meghatározott határidők késedelmes teljesítése esetére a feltárást végző intézményt terhelő kötbért kell kikötni.
+A kötbér mértéke – ha a felek magasabb összegben nem állapodnak meg – a Kötv. 23/E. §-a szerint megállapított
+költség után, ennek a késedelem időtartamára számított napi egy százaléka, legfeljebb azonban húsz százalék.
+4. § (1) Ha az előzetes régészeti dokumentációt követően próbafeltárásra van szükség, a feltárást végző intézmény
+a próbafeltárásra vonatkozó szerződés megkötését követően haladéktalanul megteszi a Kötv. 23/C. § (1) bekezdése
+szerinti bejelentést a hatóságnál a hatóság által rendszeresített formanyomtatványon.
+(2) A bejelentéshez mellékelni kell:
+a) a próbafeltárásra vonatkozó szerződést,
+b) az előzetes régészeti dokumentációt és az annak részét képező feltárási projekttervet,
+c) a Nemzeti Infrastruktúra Fejlesztő Zrt. kivételével a beruházó arra vonatkozó nyilatkozatát és annak igazolását,
+hogy a beruházás nagyberuházásnak minősül,
+d) a beruházás teljes bekerülési költségének összegéről szóló nyilatkozatot.
+(3) A próbafeltárás a bejelentés megtételét követően kezdhető meg, ha jogszabály alapján egyéb engedélyre nincs
+szükség.
+(4) A hatóság a bejelentéssel összefüggésben a következő szempontokat vizsgálja:
+a) a bejelentő a Kötv. 20. § (2) bekezdése alapján jogosult régészeti feltárást végezni;
+b) a bejelentő jogosult a Kötv. 22. § (3) bekezdése szerinti szerződéskötésre;
+c) a szerződés megfelel az R. követelményeinek;
+d) a beruházás a Kötv. 7. § 31. pontja szerinti nagyberuházásnak minősül.
+(5) Ha a hatóság a (4) bekezdés szerinti vizsgálat alapján az előírt feltételek bármelyikének hiányát állapítja meg,
+a próbafeltárás folytatását megtiltja, egyébként a bejelentést tudomásul veszi, és erről a feltárást végző intézményt és
+a beruházót értesíti.
+5. § A próbafeltárás eredményei alapján a feltárást végző intézmény a feltárási projekttervet szükség esetén módosítja,
+javaslatot téve a rendelkezésre álló összegből a további régészeti feladatellátásra, illetve – a Kötv. 23/E. §
+(2) bekezdésében foglalt esetben – a Kormány döntésének kezdeményezésére, kivéve, ha arra a 2. § (5) bekezdése
+alapján már sor került.
+6. § (1) Ha a próbafeltárás eredményei alapján a feltárást végző intézmény szakmai álláspontja szerint a feltárási projektterv
+szerinti további régészeti feladatellátásra a Kötv. 23/E. § (1) bekezdésében meghatározott összeg elegendő fedezetet
+nyújt, a feltárást végző intézmény a Kötv. 23/C. § (2) bekezdése alapján kérelmet nyújt be a további régészeti
+feladatellátás engedélyezése iránt. A megelőző feltárásra vonatkozó szerződést a kérelemhez csatolni kell.
+(2) A hatóság a megelőző feltárást engedélyezi, ha a megelőző feltárásra vonatkozó szerződés tartalma megfelel a Kötv.
+23/D–23/E. §-aiban foglaltaknak.
+7. § (1) Ha a próbafeltárás eredményei alapján a feltárást végző intézmény szakmai álláspontja szerint a feltárási projektterv
+szerinti további régészeti feladatellátásra a Kötv. 23/E. § (1) bekezdésében meghatározott költségkorlát nem nyújt
+fedezetet, a feltárást végző intézmény a beruházás tanulmányterve, engedélyezési terve, ajánlati (tender) terve vagy
+kiviteli terve alapján kérelmet nyújt be a további régészeti feladatellátás engedélyezése és a Kötv. 23/E. §
+(1) bekezdésében meghatározott összeg magasabb értékben történő megállapítása iránt.
+(2) Ha a hatóság az (1) bekezdés szerinti szakmai állásponttól eltérően megállapítja, hogy a további régészeti
+feladatellátásra a feltárási projekttervtől eltérő módon a Kötv. 23/E. § (1) bekezdésében meghatározott összeg
+elegendő fedezetet nyújt, a hatóság – feltételek kikötése mellett – a feltárási projekttervtől eltérően engedélyezi
+a további régészeti feladatellátást. A hatóság a döntésében meghatározza különösen
+a) azokat a régészeti lelőhelyeket, lelőhelyrészeket, ahol sem elfedést, sem feltárást nem kell alkalmazni,
+b) azokat a régészeti lelőhelyeket, lelőhelyrészeket, amelyek feltárása a Kötv. 23/D. § (1) bekezdésében és 23/E. §
+(1) bekezdésében meghatározott rendelkezésekre tekintettel nem lehetséges, és ezért a kivitelezés előtt azok
+elfedése indokolt,
+c) a megelőző feltárás során feltárandó régészeti lelőhelyeket vagy lelőhelyrészeket.
+
+(3) Ha a hatóság megállapítja, hogy a további régészeti feladatellátásra a Kötv. 23/E. § (1) bekezdésében meghatározott
+összeg nem nyújt elegendő fedezetet, – az Ásatási Bizottság véleményét kikérve – javaslatot tesz a kultúráért felelős
+miniszter részére a Kormány döntésének kezdeményezésére, és felfüggeszti az eljárást.
+(4) A Kormány soron kívül hozza meg a Kötv. 23/E. § (2) bekezdésében meghatározott döntést.
+(5) A hatóság a további régészeti feladatellátás meghatározásáról szóló döntésében a (3) bekezdés szerinti
+kormánydöntésnek megfelelően meghatározza
+a) azokat a régészeti lelőhelyeket, lelőhelyrészeket, ahol sem elfedést, sem feltárást nem kell alkalmazni,
+b) azokat a régészeti lelőhelyeket, lelőhelyrészeket, amelyek feltárása a Kötv. 23/D. § (1) bekezdésében és 23/E. §
+(1) bekezdésében meghatározott rendelkezésekre tekintettel nem lehetséges, és ezért a kivitelezés előtt azok
+elfedése indokolt,
+c) a megelőző feltárás során feltárandó régészeti lelőhelyeket vagy lelőhelyrészeket.
+8. § Ha a kivitelezés során eltávolítandó talajréteg alsó síkja és a régészeti objektumok jelentkezésének felső síkja között
+a megelőző feltárásra nem kerülő régészeti lelőhely, lelőhelyrész vagy régészeti emlék megóvását biztosító
+magasságú és konzisztenciájú intakt földréteg
+a) marad, elfedést nem kell alkalmazni,
+b) nem marad, és a beruházó nyilatkozata alapján a megelőző feltárásra nem kerülő régészeti lelőhely, lelőhelyrész
+vagy régészeti emlék megóvását biztosító intézkedések a beruházás műszaki tervének megvalósítását nem
+akadályozzák, elfedést kell alkalmazni,
+c) nem marad, és a beruházó nyilatkozata alapján a megelőző feltárásra nem kerülő régészeti lelőhely, lelőhelyrész
+vagy régészeti emlék megóvását biztosító intézkedések a beruházás műszaki tervének megvalósítását
+akadályozzák, elfedés nem alkalmazható.
+9. § Az elfedés előtt régészeti megfigyelés mellett a beruházás kiviteli terve szerinti mélységben szükséges elvégezni
+a termőréteg letermelését (humuszolást). Az előkerülő régészeti jelenségeket dokumentálni kell foltrajz, foltfotó,
+összesítő rajz és geodéziai bemérés készítésével.
+10. § (1) A területátadás során az állapotrögzítő jegyzőkönyv tartalmazza:
+a) a régészeti lelőhely feltárt részének méretét és elhelyezkedését,
+b) a régészeti lelőhely ismert, de fel nem tárt, elfedett részének méretét és elhelyezkedését,
+c) a feltárástvégzőintézmény nyilatkozatáta régészetilelőhelyállapotárólésaz alkalmazottelfedésitechnológiáról,
+valamint
+d) az a) és b) pontban meghatározottak ábrázolását Egységes Országos Vetületi Rendszerben készült digitális
+térképen.
+(2) Az állapotrögzítő jegyzőkönyv az R. szerinti feltárási dokumentáció részét képezi.
+11. § A beruházás teljes területén mind az előkészítő munkálatok, mind a kivitelezés tekintetében a hatóság régészeti
+megfigyelést írhat elő.
+12. § A régészeti feltárást a hatóság, valamint a nagyberuházás engedélyezésére hatáskörrel rendelkező hatóság hatósági
+ellenőrzéskeretébenellenőrzi.EnnekkeretébenellenőrzikülönösenazR. szerintifeltárásinaplóbanrögzített régészeti
+feltárásra alkalmas és alkalmatlan napokat, a feltárásra alkalmatlanság indokoltságát, és vita esetén dönt.
+13. § A Magyar Nemzeti Múzeum a feltárási jogosultsággal rendelkező intézményekkel és szakmai szervezetekkel
+egyeztetve, a kultúráért felelős miniszter egyetértésével megállapítja, és minden év március 15-ig a honlapján
+nyilvánosságra hozza a nagyberuházáshoz kapcsolódó feltárás idő- és költségkorlátjára tekintettel a próbafeltárás és
+a megelőző feltárás tervezési szempontjait, a próbafeltárás eredményei alapján a további régészeti feladatellátásra
+vonatkozó szakmai javaslat kidolgozásának szempontjait, továbbá az elfedés régészeti feltételeit, szabályait és
+költségkalkulációjának szempontjait.
+
+14. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+(2) E rendelet rendelkezéseit a folyamatban lévő régészeti feltárások és az azokkal összefüggő hatósági eljárások során is
+alkalmazni kell.
+(3) A Magyar Nemzeti Múzeum a 13. §-ban meghatározottakat első alkalommal e rendelet hatálybalépését követő
+30 napon belül hozza nyilvánosságra.
+Orbán Viktor s. k.,
+miniszterelnök
