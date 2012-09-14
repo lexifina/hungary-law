@@ -6,7 +6,7 @@ b) tervdokumentációt, tervezői költségvetést;
 
 c) jogerős építésügyi hatósági engedély vagy bejelentés vagy jogerős vízjogi létesítési vagy jogerős közlekedés hatósági engedélyt, amennyiben nem engedélyköteles a beruházás az illetékes hatóság erre vonatkozó nyilatkozatát;
 
-d) minden elszámolni kívánt kiadáshoz legalább két – egy elfogadott és egy vagy több el nem fogadott – árajánlatot;
+d)[^25] minden elszámolni kívánt kiadáshoz legalább két – egy elfogadott és egy vagy több el nem fogadott – független árajánlatot;
 
 e) kettős könyvvitelt vezető vállalkozások esetében az utolsó két lezárt üzleti évre vonatkozó számviteli beszámolót, kettős könyvvitelt nem vezetők esetében az utolsó két év adóbevallását, egy lezárt üzleti évvel rendelkezők esetében a lezárt évre vonatkozó éves beszámolót vagy adóbevallást;
 
@@ -20,4 +20,31 @@ i) a fennállást igazoló okiratban meghatározott képviselőtől eltérő ké
 
 (2) Az (1) bekezdés b)–c) pontjában feltüntetett dokumentumokra vonatkozóan hiánypótlásnak nincs helye.
 
-(3) Amennyiben az ügyfél a támogatási kérelemben a drágább árajánlatot szerepelteti elszámolható költségként, úgy azt köteles megindokolni. Az árajánlatok nem származhatnak az ügyfél saját vagy kapcsolt vállalkozásától vagy olyan vállalkozástól, amelyben az ügyfél tulajdoni hányaddal rendelkezik, vagy olyan vállalkozástól, amelyben valamely természetes vagy jogi személy úgy rendelkezik tulajdoni hányaddal, hogy közben a támogatási kérelmet benyújtó társaságban is, ugyanez a feltétel vonatkozik a kivitelezőkre és a beszállítókra. Az építmények elszámolható költségeit a támogatási kérelemben az elfogadott kivitelezői árajánlat alapján kell meghatározni. Amennyiben az előbbiekben leírt tulajdonosi átfedés tapasztalható, úgy az érintett dokumentumra vonatkozó hiánypótlásnak nincs helye.
+(3)[^26] Amennyiben az ügyfél a támogatási kérelemben a magasabb összegű árajánlatot választja, úgy a választását köteles megindokolni.
+
+(4)[^27] Az építmények elszámolható költségeit a támogatási kérelemben az elfogadott kivitelezői árajánlat alapján kell meghatározni.
+
+(5)[^28] Az árajánlatok nem származhatnak
+
+a) az ügyfél saját vagy kapcsolt vállalkozásától;
+
+b) olyan vállalkozástól, amelyben az ügyfél tulajdoni hányaddal rendelkezik;
+
+c) olyan vállalkozástól, amelyben a támogatási kérelmet benyújtó társaságban is tulajdoni hányaddal bíró természetes vagy jogi személy tulajdoni hányaddal rendelkezik;
+
+d) olyan vállalkozástól, amelyben a támogatási kérelmet benyújtó társaság bármely tagja tisztségviselő;
+
+e) olyan vállalkozástól, amelynek bármely tagja tisztségviselő a támogatási kérelmet benyújtó társaságban; továbbá
+
+f) olyan vállalkozástól, amellyel az a)–e) pont szerinti feltétel harmadik társaságon keresztül valósul meg.
+
+(6)[^29] Amennyiben az (5) bekezdésben leírt tulajdonosi átfedés bármelyike fennáll, úgy az érintett dokumentumra vonatkozóan hiánypótlásnak nincs helye.
+
+(7)[^30] Az ugyanarra a beruházási elemre vonatkozó elfogadott és elutasított árajánlatok nem származhatnak olyan vállalkozásoktól, amelyek az (5) bekezdésben felsorolt bármely módon kapcsolatban állnak egymással.
+
+[^25]: A 19. § (1) bekezdés d) pontja a 97/2012. (IX. 13.) VM rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^26]: A 19. § (3) bekezdése a 97/2012. (IX. 13.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^27]: A 19. § (4) bekezdését a 97/2012. (IX. 13.) VM rendelet 7. § (2) bekezdése iktatta be.
+[^28]: A 19. § (5) bekezdését a 97/2012. (IX. 13.) VM rendelet 7. § (2) bekezdése iktatta be.
+[^29]: A 19. § (6) bekezdését a 97/2012. (IX. 13.) VM rendelet 7. § (2) bekezdése iktatta be.
+[^30]: A 19. § (7) bekezdését a 97/2012. (IX. 13.) VM rendelet 7. § (2) bekezdése iktatta be.

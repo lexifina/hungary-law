@@ -4,7 +4,7 @@
 
 ## 21. A támogatás célja
 
-30. §[^14] (1) A támogatás célja:
+30. §[^43] (1) A támogatás célja:
 
 a) a természetesvízi halászat hagyományainak megőrzése;
 
@@ -24,4 +24,4 @@ a) 1. alintézkedés: a természetesvízi halszállítást érintő beruházáso
 
 b) 2. alintézkedés: a természetesvízi halászat eszközrendszerének modernizálása, a kifogott hal tárolását szolgáló berendezések fejlesztését célzó beruházások.
 
-[^14]: A 30. § a 86/2011. (IX. 1.) VM rendelet 4. §-ával megállapított szöveg.
+[^43]: A 30. § a 86/2011. (IX. 1.) VM rendelet 4. §-ával megállapított szöveg.

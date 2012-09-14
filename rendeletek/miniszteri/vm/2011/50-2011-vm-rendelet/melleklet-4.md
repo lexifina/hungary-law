@@ -8,15 +8,27 @@
 
 | 1. Szakmai szempontok |
 
-| 1.1. A művelet műszaki tartalma |  | max.: 6 |
+| 1.1. A művelet műszaki tartalma |  | max.: 5 |
 
-| 1.1.1. | Az alkalmazott műszaki megoldásoknak köszönhetően a projekt eredménye hosszú távon fenntartható, az alkalmazott műszaki megoldások újszerűek | 6 |
+| 1.1.1. | Az alkalmazott műszaki megoldások közül extenzív-intenzív kombinált, vagy recirkulációs rendszert valósít meg. | 5 |
 
-| 1.1.2. | A halászati ágazatban általános műszaki megoldásokat alkalmaz | 3 |
+| 1.1.2. | A megvalósítandó beruházás a halászati ágazatban általános műszaki megoldásokat valósít meg és a várt pénzügyi tervvel összhangban van. | 3 |
 
-| 1.2. Alkalmazott termelési technológia |  | max.: 5 |
+| 1.2. Alkalmazott termelési technológia |  | max.: 10 |
 
-| 1.2.1. | A művelet megvalósulásával új termeléstechnológia kerül bevezetésre | 5 |
+| 1.2.1. | A művelet megvalósulásával olyan termeléstechnológia kerül bevezetésre, amelynek eredményeként a projektterv alapján megítélhetően: Csökken a termelés fajlagos víz felhasználása, vagy víztakarékos termelő rendszer létesül, | 10 |
+
+| Közvetlenül csökkenti vagy megelőzi a védett állatok kártételét, |
+
+| Megakadályozza a termelt, nem őshonos fajok szökését, |
+
+| Új halivadék előállítási technológia bevezetéséhez szükséges, |
+
+| Maximális pontszám legalább 3 technológiai cél teljesítésekor adható |
+
+| 1.2.2. | A fenti felsorolásból 2 technológiai célkitűzést valósít meg. | 8 |
+
+| 1.2.3. | A fenti felsorolásból 1 technológiai célkitűzést valósít meg. | 5 |
 
 | 1.3. Termelési struktúra |  | max.: 5 |
 
@@ -24,39 +36,39 @@
 
 | 1.3.2. | Intenzív üzemi haltermelő beruházás megvalósulásával új, az ügyfél korábbi tevékenysége során nem termelt halfaj kerül termelésbe vonásra | 5 |
 
-| 1.3.3. | A művelet megvalósulásával nem kerül új halfaj termelésbe, azonban a termelés struktúrája, a termelés vertikálisan szélesedik | 3 |
+| 1.3.3. | A művelet megvalósulásával nem kerül új halfaj termelésbe, azonban a termelés struktúrája, a termelés vertikálisan szélesedik | 2 |
 
-| 1.4. Komplexitás |  | max.: 6 |
+| 1.4. Komplexitás |  | max.: 8 |
 
 | 1.4.1. | A művelet megvalósulásával a támogatási rendeletben megfogalmazott célkitűzések közül 1–3 valósul meg | 2 |
 
-| 1.4.2. | A művelet megvalósulásával a támogatási rendeletben megfogalmazott célkitűzések közül 4–5 valósul meg | 4 |
+| 1.4.2. | A művelet megvalósulásával a támogatási rendeletben megfogalmazott célkitűzések közül 4–5 valósul meg | 5 |
 
-| 1.4.3. | A művelet megvalósulásával a támogatási rendeletben megfogalmazott célkitűzések közül 6–7 valósul meg | 6 |
+| 1.4.3. | A művelet megvalósulásával a támogatási rendeletben megfogalmazott célkitűzések közül 6–7 valósul meg | 8 |
 
 | 1.5. Termelés volumene |  | max.: 3 |
 
 | 1.5.1. | A művelet megvalósulásával az ágazati átlagon felüli, de reálisan megvalósítható a tervezett termelés | 3 |
 
-| 1.5.2. | A művelet megvalósulásával az ágazati átlagos szintet éri el a tervezett termelés | 2 |
+| 1.5.2. | A művelet megvalósulásával az ágazati átlagos szintet éri el a tervezett termelés | 1 |
 
-| 1.6. Összesen |  | max.: 25 |
+| 1.6. Összesen |  | max.: 31 |
 
 | 2. Horizontális szempontok |
 
-| 2.1. Környezetvédelem |  | max.: 10 |
+| 2.1. Környezetvédelem |  | max.: 8 |
 
-| 2.1.1. | A művelet megvalósulásával közvetlenül csökken a környezetterhelés, a művelet egy része, vagy egésze erre a célra irányul | 10 |
+| 2.1.1. | A művelet megvalósulásával közvetlenül csökken a környezetterhelés, a művelet egy része, vagy egésze erre a célra irányul | 8 |
 
-| 2.1.2. | A művelet megvalósulásával csak közvetett úton csökken a környezetterhelés | 6 |
+| 2.1.2. | A művelet megvalósulásával csak közvetett úton csökken a környezetterhelés | 5 |
 
-| 2.2. Foglalkoztatás |  | max.: 10 |
+| 2.2. Foglalkoztatás |  | max.: 6 |
 
-| 2.2.1. | A művelet megvalósulásával legalább 3 új, teljes munkaidős munkahely jön létre | 10 |
+| 2.2.1. | A művelet megvalósulásával legalább 3 új, teljes munkaidős munkahely jön létre | 6 |
 
-| 2.2.2. | A művelet megvalósulásával 1, vagy két új, teljes munkaidős munkahely jön létre | 8 |
+| 2.2.2. | A művelet megvalósulásával 1–2 új, teljes munkaidős munkahely jön létre | 5 |
 
-| 2.2.3. | Csak teljes munkaidős munkahelymegőrzés történik | 5 |
+| 2.2.3. | Csak teljes munkaidős munkahelymegőrzés történik | 3 |
 
 | 2.3. Munkakörülményekre gyakorolt hatás |  | max.: 5 |
 
@@ -64,29 +76,37 @@
 
 | 2.3.2. | Csak közvetett úton javulnak a munkavégzés körülményei, feltételei | 3 |
 
-| 2.4. Esélyegyenlőség |  | max.: 5 |
+| 2.4. Esélyegyenlőség |  | max.: 3 |
 
-| 2.4.1. | A teljes munkaidős foglalkoztatottak legalább 50%-a nő, és a cég vezetője nő | 5 |
+| 2.4.1. | A teljes munkaidős foglalkoztatottak legalább 50%-a nő, és a cég vezetője nő | 3 |
 
-| 2.4.2. | A teljes munkaidős foglalkoztatottak legalább 50%-a nő | 4 |
+| 2.4.2. | A teljes munkaidős foglalkoztatottak legalább 50%-a nő | 2 |
 
-| 2.4.3. | A női teljes munkaidős foglalkoztatottak aránya 20 és 50% között van | 3 |
+| 2.4.3. | A női teljes munkaidős foglalkoztatottak aránya 20 és 50% között van | 1 |
 
-| 2.5. Összesen |  | max.: 30 |
+| 2.5. Forráskomplexitás |  | max.: 6 |
+
+| 2.5.1. | A konvergencia területen megvalósuló beruházáshoz 50–55% támogatást igényel a kérelmező | 2 |
+
+| 2.5.2. | A konvergencia területen megvalósuló beruházáshoz 41–49% támogatást igényel a kérelmező | 4 |
+
+| 2.5.3. | A konvergencia területen megvalósuló beruházáshoz 41%-nál kevesebb támogatást igényel a kérelmező | 6 |
+
+| 2.6. Összesen |  | max.: 28 |
 
 | 3. Vállalkozás-/cégértékelés |
 
-| 3.1. A vállalkozás mérete |  | max.: 8 |
+| 3.1. A vállalkozás mérete |  | max.: 4 |
 
-| 3.1.1. | Az ügyfél a támogatási kérelem benyújtásakor mikro vállalkozásnak minősül | 8 |
+| 3.1.1. | Az ügyfél a támogatási kérelem benyújtásakor mikro vállalkozásnak minősül | 4 |
 
-| 3.1.2. | Az ügyfél a támogatási kérelem benyújtásakor kisvállalkozásnak minősül | 4 |
+| 3.1.2. | Az ügyfél a támogatási kérelem benyújtásakor kisvállalkozásnak minősül | 2 |
 
 | 3.2. Értékesítés |  | max.: 3 |
 
-| 3.2.1. | A megtermelt hal legalább 50%-a feldolgozva kerül értékesítésre | 3 |
+| 3.2.1. | A megtermelt hal legalább 50%-a legalább tisztítva kerül értékesítésre, vagy a beruházás célja közvetlenül a termelői halértékesítés kialakítása. | 3 |
 
-| 3.2.2. | A megtermelt hal 30–50%-a feldolgozva kerül értékesítésre | 2 |
+| 3.2.2. | A megtermelt hal 30–50%-a legalább tisztítva kerül értékesítésre | 2 |
 
 | 3.3. Alkalmazott minőségbiztosítás |  | max.: 4 |
 
@@ -96,7 +116,7 @@
 
 | 3.4. Ágazati szerveződés (az alábbi két pont együttes teljesülése esetén érhető el a maximális pont) |  | max.: 2 |
 
-| 3.4.1. | Az ügyfél a kérelem benyújtásakor halászati termelői szervezet, halászati termelői csoport, vagy halászati ágazati érdek képviseleti szervezet tagja | 2 |
+| 3.4.1. | Az ügyfél a kérelem benyújtásakor halászati termelői szervezet, halászati termelői csoport, vagy halászati ágazati érdekképviseleti szervezet tagja | 2 |
 
 | 3.5. Árbevétel arány |  | max.: 3 |
 
@@ -104,7 +124,7 @@
 
 | 3.5.2. | Az összes árbevétel 50–80%-ig a haltermelési vagy halfeldolgozási tevékenységből, vagy a két tevékenységből együttesen származik, a kérelem benyújtását megelőző lezárt üzleti évben | 1 |
 
-| 3.6. Összesen |  | max.: 20 |
+| 3.6. Összesen |  | max.: 16 |
 
 | 4. Pénzügyi értékelés |
 
@@ -126,9 +146,9 @@
 
 | 4.1.2. | Üzleti terv alapján: | max.: 15 |
 
-| 4.1.2.1. | Beruházás átlagos hatékonysága (= 5 év átlagos nettó árbevétele/ Beruházás összege) | 40% fölött van. | 8 |
+| 4.1.2.1. | Beruházás átlagos hatékonysága (= 5 év átlagos nettó árbevétele/ Beruházás összege) | 60% fölött van. | 8 |
 
-| 4.1.2.2. | 20% fölött van | 5 |
+| 4.1.2.2. |  | 40% fölött van | 5 |
 
 | 4.1.2.3. | Tervezett beruházás elszámolható költségeinek realitása | A beruházás feltüntetett összköltsége a normaértékek alapján elfogadható, vagy maximum 5%-kal kerül csökkentésre | 7 |
 
@@ -150,7 +170,9 @@
 
 | 4.3. Amennyiben a támogatási kérelmet benyújtó mindkét utolsó lezárt évben veszteséges volt üzemi/üzleti eredmény szintjén (egyéni vállalkozóknál, mezőgazdasági őstermelőknél adózás előtti eredmény szintjén, egy lezárt üzleti évvel rendelkezők esetében a lezárt évre vonatkozóan), úgy a pénzügyi szempontokra adható pontszám 0. |
 
-| 5. | Mindösszesen: | max.: 100 |
+| 4.4. | Összesen | max: 25 |
+
+| 5. | Mindösszesen | max.: 100 |
 
 ## Kiválasztási kritériumok
 
@@ -234,15 +256,15 @@
 
 | 1. Szakmai szempontok |
 
-| 1.1. A művelet műszaki tartalma |  | max.: 6 |
+| 1.1. A művelet műszaki tartalma |  | max.: 3 |
 
-| 1.1.1. | Az alkalmazott műszaki megoldásoknak köszönhetően a projekt eredménye hosszú távon fenntartható, az alkalmazott műszaki megoldások újszerűek | 6 |
+| 1.1.1. | Az alkalmazott műszaki megoldásoknak köszönhetően a projekt eredménye hosszútávon fenntartható, az alkalmazott műszaki megoldások újszerűek | 3 |
 
-| 1.1.2. | A halászati ágazatban általános műszaki megoldásokat alkalmaz | 3 |
+| 1.1.2. | A halfeldolgozásban általános műszaki megoldásokat alkalmaz | 1 |
 
-| 1.2. Alkalmazott termelési technológia |  | max.: 3 |
+| 1.2. Alkalmazott termelési technológia |  | max.: 5 |
 
-| 1.2.1. | A művelet megvalósulásával új technológia kerül bevezetésre | 3 |
+| 1.2.1. | A művelet megvalósulásával új technológia kerül bevezetésre | 5 |
 
 | 1.3. Termelési struktúra |  | max.: 5 |
 
@@ -256,69 +278,75 @@
 
 | 1.4.2. | A művelet megvalósulásával a hozzáadott értéket növeli, de új terméket a piac szempontjából nem állít elő | 3 |
 
-| 1.5. Komplexitás |  | max.: 5 |
+| 1.5. Komplexitás |  | max.: 6 |
 
 | 1.5.1. | A művelet megvalósulásával a támogatási rendeletben megfogalmazott célkitűzések közül 1–3 valósul meg | 2 |
 
 | 1.5.2. | A művelet megvalósulásával a támogatási rendeletben megfogalmazott célkitűzések közül 4–5 valósul meg | 4 |
 
-| 1.5.3. | A művelet megvalósulásával a támogatási rendeletben megfogalmazott célkitűzések közül 6–7 valósul meg | 5 |
+| 1.5.3. | A művelet megvalósulásával a támogatási rendeletben megfogalmazott célkitűzések közül 6–7 valósul meg | 6 |
 
 | 1.6. Összesen |  | max.: 25 |
 
 | 2. Horizontális szempontok |
 
-| 2.1. Környezetvédelem |  | max.: 10 |
+| 2.1. Környezetvédelem |  | max.: 7 |
 
-| 2.1.1. | A művelet megvalósulásával közvetlenül csökken a környezetterhelés, a művelet egy része vagy egésze erre a célra irányul | 10 |
+| 2.1.1. | A művelet megvalósulásával közvetlenül csökken a környezetterhelés, a művelet egy része vagy egésze erre a célra irányul | 7 |
 
-| 2.1.2. | A művelet megvalósulásával csak közvetett úton csökken a környezetterhelés | 6 |
+| 2.1.2. | A művelet megvalósulásával csak közvetett úton csökken a környezetterhelés | 5 |
 
-| 2.2. Foglalkoztatás |  | max.: 10 |
+| 2.2. Foglalkoztatás |  | max.:5 |
 
-| 2.2.1. | A művelet megvalósulásával legalább 3 új munkahely jön létre | 10 |
+| 2.2.1. | A művelet megvalósulásával legalább 3 új munkahely jön létre | 5 |
 
-| 2.2.2. | A művelet megvalósulásával egy vagy két új munkahely jön létre | 8 |
+| 2.2.2. | A művelet megvalósulásával egy vagy két új munkahely jön létre | 3 |
 
-| 2.2.3. | Csak munkahelymegőrzés történik | 5 |
+| 2.2.3. | Csak munkahelymegőrzés történik | 1 |
 
-| 2.3. Munkakörülményekre gyakorolt hatás |  | max.: 5 |
+| 2.3. Munkakörülményekre gyakorolt hatás |  | max.: 4 |
 
-| 2.3.1. | A művelet megvalósulásával közvetlenül javulnak a munkavégzés körülményei, feltételei, a művelet egy része vagy egésze erre irányul | 5 |
+| 2.3.1. | A művelet megvalósulásával közvetlenül javulnak a munkavégzés körülményei, feltételei, a művelet egy része vagy egésze erre irányul | 4 |
 
-| 2.3.2. | Csak közvetett úton javulnak a munkavégzés körülményei, feltételei | 3 |
+| 2.3.2. | Csak közvetett úton javulnak a munkavégzés körülményei, feltételei | 4 |
 
-| 2.4. Esélyegyenlőség |  | max.: 5 |
+| 2.4. Esélyegyenlőség |  | max.: 3 |
 
-| 2.4.1. | A teljes munkaidős foglalkoztatottak legalább 50%-a nő, és a cég vezetője nő | 5 |
+| 2.4.1. | A teljes munkaidős foglalkoztatottak legalább 50%-a nő, és a cég vezetője nő | 3 |
 
-| 2.4.2. | A teljes munkaidős foglalkoztatottak legalább 50%-a nő | 4 |
+| 2.4.2. | A teljes munkaidős foglalkoztatottak legalább 50%-a nő | 2 |
 
-| 2.4.3. | A női teljes munkaidős foglalkoztatottak aránya 20 és 50% között van | 3 |
+| 2.4.3. | A női teljes munkaidős foglalkoztatottak aránya 20 és 50% között van | 1 |
 
-| 2.5. Összesen |  | max.: 30 |
+| 2.5. Forráskomplexitás |  | max.: 6 |
+
+| 2.5.1. | A konvergencia területen megvalósuló beruházáshoz 50–55% támogatást igényel a kérelmező | 2 |
+
+| 2.5.2. | A konvergencia területen megvalósuló beruházáshoz 41–49% támogatást igényel a kérelmező | 4 |
+
+| 2.5.3. | A konvergencia területen megvalósuló beruházáshoz 41%-nál kevesebb támogatást igényel a kérelmező | 6 |
+
+| 2.6. Összesen |  | max.: 25 |
 
 | 3. Vállalkozás-/cégértékelés |
 
-| 3.1. A vállalkozás mérete |  | max.: 8 |
+| 3.1. A vállalkozás mérete |  | max.: 4 |
 
-| 3.1.1. | Az ügyfél a támogatási kérelem benyújtásakor mikro vállalkozásnak minősül | 8 |
+| 3.1.1. | Az ügyfél a támogatási kérelem benyújtásakor mikro vállalkozásnak minősül | 4 |
 
-| 3.1.2. | Az ügyfél a támogatási kérelem benyújtásakor kisvállalkozásnak minősül | 4 |
+| 3.1.2. | Az ügyfél a támogatási kérelem benyújtásakor kisvállalkozásnak minősül | 2 |
 
-| 3.2. Értékesítés |  | max.: 3 |
+| 3.2. Értékesítés |  | max.: 12 |
 
-| 3.2.1. | Az éves feldolgozott halmennyiség legalább 50%-a saját termelésből származott a kérelem benyújtását megelőző lezárt üzleti évben | 3 |
+| 3.2.1. | Az éves feldolgozott halmennyiség legalább 50%-a saját termelésből származott a kérelem benyújtását megelőző lezárt üzleti évben | 12 |
 
-| 3.2.2. | Az éves feldolgozott halmennyiség 30–50%-ig saját termelésből származott a kérelem benyújtását megelőző lezárt üzleti évben | 2 |
+| 3.2.2. | Az éves feldolgozott halmennyiség 30–50%-ig saját termelésből származott a kérelem benyújtását megelőző lezárt üzleti évben | 7 |
 
 | 3.3. Alkalmazott minőségbiztosítás |  | max.: 4 |
 
-| 3.3.1. | Az ügyfél a HACCP-n felül rendelkezik más minőségbiztosítási, vagy nyomonkövetési rendszerrel | 4 |
+| 3.3.1. | Az ügyfél a HACCP-n felül rendelkezik más minőségbiztosítási, tanúsítási vagy nyomonkövetési rendszerrel | 4 |
 
-| 3.3.2. | Az ügyfél csak HACCP minőségbiztosítási rendszerrel rendelkezik | 2 |
-
-| 3.4. Ágazati szerveződés (az alábbi két pont együttes teljesülése esetén érhető el a maximális pont) |  | max.: 2 |
+| 3.4. Ágazati szerveződés |  | max.: 2 |
 
 | 3.4.1. | Az ügyfél a kérelem benyújtásakor halászati termelői szervezet, halászati termelői csoport vagy halászati ágazati érdekképviseleti szervezet tagja | 2 |
 
@@ -328,7 +356,7 @@
 
 | 3.5.2. | Az összes árbevétel 50–80%-ig a haltermelési vagy halfeldolgozási tevékenységből, vagy a két tevékenységből együttesen származik, a kérelem benyújtását megelőző lezárt üzleti évben | 1 |
 
-| 3.6. Összesen |  | max.: 20 |
+| 3.6. Összesen |  | max.: 25 |
 
 | 4. Pénzügyi értékelés |
 
@@ -350,9 +378,9 @@
 
 | 4.1.3. | Üzleti terv alapján: | max.: 15 |
 
-| 4.1.3.1. | Beruházás átlagos hatékonysága (= 5 év átlagos nettó árbevétele/ Beruházás összege) | 40% fölött van | 8 |
+| 4.1.3.1. | Beruházás átlagos hatékonysága (= 5 év átlagos nettó árbevétele/ Beruházás összege) | 60% fölött van | 8 |
 
-| 4.1.3.2. | 20% fölött van | 5 |
+| 4.1.3.2. | 40% fölött van | 5 |
 
 | 4.1.3.3. | Tervezett beruházás elszámolható költségeinek realitása | A beruházás feltüntetett összköltsége a normaértékek alapján elfogadható, vagy maximum 5%-kal kerül csökkentésre | 7 |
 
@@ -368,9 +396,9 @@
 
 | 4.2.1.2. | A beruházás feltüntetett összköltsége a normaértékek alapján 6% és 10% között kerül csökkentésre | 5 |
 
-| 4.2.1.3. | Beruházás átlagos hatékonysága (= 5 év átlagos nettó árbevétele/ Beruházás összege) | 40% fölött | 10 |
+| 4.2.1.3. | Beruházás átlagos hatékonysága (= 5 év átlagos nettó árbevétele/ Beruházás összege) | 60% fölött | 10 |
 
-| 4.2.1.4. | 20% felett | 5 |
+| 4.2.1.4. | 40% felett | 5 |
 
 | 4.3. Amennyiben a támogatási kérelmet benyújtó mindkét utolsó lezárt évben veszteséges volt üzemi/üzleti eredmény szintjén (egyéni vállalkozóknál, mezőgazdasági őstermelőknél adózás előtti eredmény szintjén, egy lezárt üzleti évvel rendelkezők esetében a lezárt évre vonatkozóan), úgy a pénzügyi szempontokra adható pontszám 0. |
 

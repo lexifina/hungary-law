@@ -22,7 +22,7 @@
 
 10. halászati ágazat: az EHA rendelet 3. cikk a) pontja szerinti ágazat;
 
-11. halászati árbevétel: a halászati, a haltermelési és a halfeldolgozási tevékenységből származó nettó árbevétel; családi gazdálkodók esetében a családi gazdaságot vezető, valamint a családi gazdaság tagjainak összes halászati árbevétele;
+11.[^1] halászati árbevétel: a halászati, a haltermelési és a halfeldolgozási tevékenységből származó nettó árbevétel, beleértve a területi engedélyek bevételét is; családi gazdálkodók esetében a családi gazdaságot vezető, valamint a családi gazdaság tagjainak összes halászati árbevétele; természetes személy, továbbá az általános forgalmi adóról szóló törvény alapján alanyi adómentességet választó adóalany kérelmező esetében a halászati tevékenységből származó árbevétel;
 
 12. halászati tevékenység: a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: 1893/2006/EK európai parlamenti és tanácsi rendelet) meghatározott 0312 (Édesvízi halászat) szakágazatba tartozó tevékenység;
 
@@ -30,9 +30,9 @@
 
 14. halgazdálkodási beruházás: az adózás rendjéről szóló törvénynek megfelelően bejelentett, az 1893/2006/EK európai parlamenti és tanácsi rendelet rendeletben meghatározott 0312 (Édesvízi halászat), 0322 (Édesvízi halgazdálkodás), 1020 (Halfeldolgozás, -tartósítás) szakágazati tevékenységekhez kapcsolódó beruházások, valamint a 1085 (Készétel gyártása) szakágazati tevékenységeken belül a fagyasztott halétel gyártásához, a 1089 (M.n.s. egyéb élelmiszer gyártása) szakágazati tevékenységek közül a hal levét és kivonatát tartalmazó készítmények gyártásához kapcsolódó beruházás;
 
-15. halgazdaság: az a termelési egység, amelyben haltermelési tevékenységet folytatnak;
+15.[^2] halgazdaság: a halászatról és a horgászatról szóló törvényben meghatározott halastó egységekből álló tógazdaság, vagy intenzív haltermelő üzem, amely a haltermelési tevékenységre feljogosító valamennyi hatósági engedéllyel rendelkezik;
 
-16. halszállító gépjármű: az a közúti forgalomra alkalmas, első üzembe helyezésű gépjármű, amelyben a szállítható személyek száma legfeljebb 3 fő, és amely a saját termelésű hal akvakultúra esetében élve, illetve – akvakultúrán belül – intenzív rendszerek esetében élve, hűtve vagy fagyasztva történő szállítására van kialakítva, valamint az előállított hal halfeldolgozáshoz és értékesítéshez nyújtandó támogatások esetében a saját feldolgozású hal hűtve vagy fagyasztva történő szállítására alkalmas;
+16.[^3] halszállító gépjármű: az a közúti forgalomban való részvételre alkalmas, speciális felépítményű, első üzembe helyezésű gépjármű, amelyben a szállítható személyek száma legfeljebb 3 fő, és amely a hal élve, vagy hűtve, vagy fagyasztva történő szállítására alkalmas, a hűtött illetve fagyasztott szállítás esetén beleértve a haltermékeket is;
 
 17. haltermelési tevékenység: az 1893/2006/EK európai parlamenti és tanácsi rendeletben meghatározott 0322 (Édesvízi halgazdálkodás) szakágazatba tartozó tevékenység;
 
@@ -42,6 +42,8 @@
 
 20. intézkedés: az EHA rendelet 3. cikk j) pontja szerinti műveletek együttese;
 
+20a.[^4] kapcsolt vállalkozás: az adózás rendjéről szóló törvény szerinti kapcsolt vállalkozás;
+
 21. kedvezőtlen adottságú területek: az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások esetében a kedvezőtlen adottságú területek és az azokhoz tartozó települések megállapításáról szóló 24/2007. (IV. 17.) FVM rendeletben meghatározott területek;
 
 22. kedvezményezett: az EHA rendelet 3. cikk l) pontja szerinti természetes vagy jogi személy;
@@ -50,9 +52,9 @@
 
 24. konvergencia terület: az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló, 2006. július 11-i 1083/2006/EK tanácsi rendeletben meghatározott konvergencia cél elérésére kijelölt, legkevésbé fejlett régiók; Magyarországon a Közép-Magyarországi Régió kivételével minden régió területe;
 
-25. környezetterhelést csökkentő beruházások: olyan beruházások, amelyek a halászati tevékenység, a haltermelés és a halfeldolgozás során, illetve a haltermeléshez kapcsolódó telepi infrastruktúra által a környezetbe kibocsátott szennyeződéseket csökkentik;
+25.[^5] környezetterhelést csökkentő beruházások: olyan beruházások, amelyek a halászati tevékenység, a haltermelés és a halfeldolgozás során, illetve a haltermeléshez kapcsolódó telepi infrastruktúra által a környezetbe kibocsátott szennyeződéseket közvetlenül csökkentik;
 
-26. közvetlen halértékesítési lehetőség: a telephelyen megvalósított halértékesítő hely és a hozzá tartozó infrastruktúra, amelyen keresztül a saját termelésű hal élve értékesíthető, kivéve a horgásztatással való értékesítés infrastruktúráját;
+26.[^6] termelői halértékesítés: a telephelyen megvalósított halértékesítő hely és a hozzá tartozó infrastruktúra, beleértve a haltisztítást, darabolást és a csomagolást;
 
 27. lánctalpas kotrógép: speciális, legalább 700 mm szélességű lánctalppal rendelkező, 9–21 m hosszú gémkinyúlású, 20–30 t súlyhatár közötti hidraulikus forgó kotró tókarbantartó mocsárjáró gép, amelynek talajnyomása lehetővé teszi a mély, iszapos talajon történő munkavégzést;
 
@@ -89,3 +91,10 @@ b) intenzív üzemi haltermelés esetén a szivárványos pisztráng (Oncorchynu
 41. tevékenység: a művelet azon részei, amelyeket a támogatási határozatban külön tételazonosító soron tartanak nyilván.
 
 (2) Az (1) bekezdésben nem szereplő fogalmakra a Tv. 9. §-a és az EHA rendelet 3. cikke az irányadó.
+
+[^1]: A 2. § (1) bekezdés 11. pontja a 97/2012. (IX. 13.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdés 15. pontja a 97/2012. (IX. 13.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés 16. pontja a 97/2012. (IX. 13.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdés 20a. pontját a 97/2012. (IX. 13.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^5]: A 2. § (1) bekezdés 25. pontja a 97/2012. (IX. 13.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdés 26. pontja a 97/2012. (IX. 13.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.

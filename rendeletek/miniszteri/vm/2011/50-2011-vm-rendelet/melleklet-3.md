@@ -16,15 +16,13 @@
 
 ## 2. Halászat gépei, eszközei:
 
-## a) lánctalpas kotrógép;
+## a) halszákoló és halrakodó gépek;
 
-## b) halszákoló gépek;
+## b) halszivattyúk, halszállító szalagok;
 
-## c) halszivattyúk;
+## c) halválogató asztalok, halválogató gépek;
 
-## d) halválogató asztalok, halválogató gépek;
-
-## e) halaskosarak.
+## d) halaskosarak.
 
 ## 3. Halszállítás eszközei:
 
@@ -38,7 +36,7 @@
 
 ## a) halkeltető edények, illetve berendezés;
 
-## b) lárvanevelő vályúk, lárvanevelő kádak;
+## b) halnevelő vályúk és kádak;
 
 ## c) vízszűrő és vízforgató eszközök, berendezések;
 
@@ -58,10 +56,18 @@
 
 ## c) tólevegőztető berendezések;
 
-## d) úszó szervestrágyaszóró hajók;
+## d) úszó szervestrágyaszórók;
 
 ## e) úszó hínárkasza;
 
-## f) ózonos sterilizáló.
+## f) ózonos sterilizáló;
 
-3. melléklet az 50/2011. (VI. 6.) VM rendelethez
+## g) halmérlegek;
+
+## h) vagyonvédelmi eszközök és berendezések;
+
+## i) lánctalpas kotrógép.
+
+3. melléklet az 50/2011. (VI. 6.) VM rendelethez[^60]
+
+[^60]: A 3. melléklet a 97/2012. (IX. 13.) VM rendelet 16. § (2) bekezdésével megállapított szöveg.

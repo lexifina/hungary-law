@@ -20,22 +20,21 @@ amennyiben haltermelési tevékenységet folytat, vagy az igényelt termelő ber
 
 (5) Halszállító gépjármű beszerzésére termelő beruházási támogatásra vonatkozó kérelmet benyújtani csak termelői infrastruktúrát érintő beruházással együtt lehetséges; a támogatott gépjármű nettó bekerülési értéke nem lehet több mint a termelői infrastruktúra beruházás nettó értékének 50%-a. A támogatandó gépjármű kötelező felszerelései, valamint az opcionálisan választható biztonsági felszerelések, berendezések támogathatóak, kényelmi felszerelések, berendezések közül csak a klímaberendezés támogatható.
 
-(6) Mezőgazdasági vontatók beszerzésére az (5) bekezdés feltételei alkalmazandóak.
+(6)[^38]
 
 (7) Induló vállalkozások esetén a haltermelő telep irányítójának megfelelő szakmai képesítéssel (szakirányú felsőfokú végzettség, vagy a 31 6272 01 Halász, vagy a 31 624 01 0000 00 00 Halász, haltenyésztő OKJ szerinti szakképesítés, vagy az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendelet hatálybalépését megelőzően megszerzett, a fenti szakképesítésekkel egyenértékű szakképesítés), vagy 3 éves halászati szakmai tapasztalattal kell rendelkeznie.
 
-(8) Erőgépek legfeljebb 125 kW teljesítményig, talajművelő eszközök közül a tárcsák és boronák támogathatók, legfeljebb 80 kW vonóerő igényig.
+(8)[^39]
 
 (9) Amennyiben az ügyfél új, a területileg illetékes természetvédelmi hatóság által igazoltan a természetes növény- és állatvilágra veszélyt nem jelentő ún. termelésbe vont új halfajt kíván bevonni a termelésébe a termelő beruházási támogatás által, abban az esetben adható a rendelet 3. melléklet Akvakultúra 2.1. értékelő táblázat 1.3. „Termelési struktúra” szempontjára pont, amennyiben csatolásra kerül az 1. melléklet 1.3.2. pontjában foglalt dokumentum.
 
-(10) Amennyiben az ügyfél kedvezőtlen adottságú területen kíván beruházást megvalósítani, úgy a 3. melléklet Akvakultúra 2.1. Kiválasztási kritériumok Horizontális szempontok környezetvédelemmel kapcsolatos részénél a támogatási kérelem értékelése során a maximális 10 pontot kell megállapítani.
+(10)[^40] Amennyiben az ügyfél MEPAR blokkazonosító szerint igazoltan kedvezőtlen adottságú területen kíván beruházást megvalósítani, a 3. melléklet Akvakultúra 2.1. Kiválasztási kritériumok Horizontális szempontok környezetvédelemmel kapcsolatos részénél a támogatási kérelem értékelése során a maximális 8 pontot kell megállapítani.
 
-(11) Lánctalpas kotrógép beszerzésére termelő beruházási támogatást
-
-a) a legalább 200 hektár összes üzemelő halastó területtel rendelkező ügyfél,
-
-b) a HOP 2007–2013-as időszakában egy alkalommal
-
-nyújthat be.
+(11)[^41] Lánctalpas kotrógép beszerzésére beruházási támogatást a legalább 200 hektár összes üzemelő halastó területtel rendelkező ügyfél a HOP 2007–2013. évi programozási időszakában egy alkalommal nyújthat be.
 
 (12) A tavak folyamatos karbantartását biztosító lánctalpas kotrógép a termelő infrastruktúra részének tekintendő.
+
+[^38]: A 28. § (6) bekezdését a 97/2012. (IX. 13.) VM rendelet 17. § (2) bekezdése hatályon kívül helyezte.
+[^39]: A 28. § (8) bekezdését a 97/2012. (IX. 13.) VM rendelet 17. § (2) bekezdése hatályon kívül helyezte.
+[^40]: A 28. § (10) bekezdése a 97/2012. (IX. 13.) VM rendelet 11. §-ával megállapított szöveg.
+[^41]: A 28. § (11) bekezdése a 97/2012. (IX. 13.) VM rendelet 11. §-ával megállapított szöveg.

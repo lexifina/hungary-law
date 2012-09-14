@@ -1,7 +1,7 @@
-## 41/A. §[^22] E rendeletnek az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 59/2012. (VI. 28.) VM rendelettel (a továbbiakban: 3. módosító rendelet) megállapított 10. § (6) bekezdését a 3. módosító rendelet hatálybalépésekor[^23] folyamatban lévő ügyekben is alkalmazni kell.
+## 41/B. §[^54] E rendeletnek az Európai Halászati Alap társfinanszírozásában megvalósuló Halászati Operatív Program 2. prioritási tengelye szerinti beruházási támogatások feltételeiről szóló 50/2011. (VI. 6.) VM rendelet módosításáról szóló 97/2012. (IX. 13.) VM rendelettel (a továbbiakban: 4. módosító rendelet) megállapított 9. §-át, a 10. § (2) bekezdését a 4. módosító rendelet hatálybalépésekor[^55] folyamatban lévő ügyekben is alkalmazni kell.
 
-## 27. [^24] Átmeneti rendelkezés
+## 27. [^56] Átmeneti rendelkezés
 
-[^22]: A 41/A. §-t az 59/2012. (VI. 28.) VM rendelet 7. §-a iktatta be.
-[^23]: A hatálybalépés időpontja 2012. június 29.
-[^24]: A 27. alcímet (42. §) a 20/2012. (III. 7.) VM rendelet 5. §-a iktatta be.
+[^54]: A 41/B. §-t a 97/2012. (IX. 13.) VM rendelet 14. §-a iktatta be.
+[^55]: A hatálybalépés időpontja 2012. szeptember 14.
+[^56]: A 27. alcímet (42. §) a 20/2012. (III. 7.) VM rendelet 5. §-a iktatta be.

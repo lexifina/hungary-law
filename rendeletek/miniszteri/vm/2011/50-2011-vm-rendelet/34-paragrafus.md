@@ -10,6 +10,8 @@ b) 750 alkalmazottnál kevesebbet foglalkoztat, vagy 200 millió euró árbevét
 
 (2) A támogatási kérelemnek halfeldolgozási tevékenységre kell irányulnia, és ezen tevékenységeket kell folytatni a kötelező üzemeltetési idő végéig.
 
+(2a)[^46] Egy támogatási kérelemben legfeljebb 60 millió forint támogatás igényelhető.
+
 (3) Az ügyfélnek – legkésőbb a művelet befejezéséig – rendelkeznie kell a működéséhez szükséges, a szabályszerű működésre vonatkozó hatósági engedélyekkel vagy igazolással.
 
 (4) Építési telek vásárlás támogatásának feltételei:
@@ -23,3 +25,5 @@ b) csak az a földterület támogatható, amelyen kizárólag a feldolgozói kap
 (6) A közösségi jog szerinti szabványokkal kapcsolatos beruházások csak addig támogathatóak, amíg nem válnak kötelező érvényűvé a vállalkozások számára.
 
 (7) Csak azok a halfeldolgozók támogathatóak, amelyek esetében a támogatott fejlesztés befejezését követő első lezárt üzleti évtől kezdődően, a kötelező üzemeltetési idő végéig, a bruttó feldolgozott hal mennyiségének legalább 60%-a édesvízi hal.
+
+[^46]: A 34. § (2a) bekezdését a 97/2012. (IX. 13.) VM rendelet 13. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 (2) Az egy támogatási kérelem benyújtásával igénybe vehető támogatás legmagasabb összege
 
-a) konvergencia területek esetében természetes vízi halászat című intézkedés keretében 40 millió forint, más intézkedés keretében 200 millió forint;
+a)[^7] konvergencia területek esetében természetes vízi halászat című intézkedés keretében 20 millió forint, az akvakultúrába történő termelő beruházásokra vonatkozó intézkedés keretében 150 millió forint és a halfeldolgozáshoz és értékesítéshez nyújtandó támogatások intézkedés keretében 60 millió forint;
 
 b) nem konvergencia területek esetében 60 millió forint, azzal, hogy természetes vízi halászat című intézkedéshez nem vehető igénybe támogatás.
 
@@ -20,6 +20,8 @@ b) egy lezárt üzleti évvel rendelkező vállalkozások esetében a lezárt é
 
 c) induló vállalkozások esetében a támogatott beruházás aktiválását követő első két üzleti év tervezett halászati árbevétel átlagának háromszorosa,
 
+d)[^8] a legalább egy lezárt üzleti évvel rendelkező vállalkozások esetében választható az igényelt támogatás összegének meghatározásakor, a támogatott beruházás aktiválását követő első két üzleti év tervezett halászati árbevétel átlagának háromszorosa,
+
 de legfeljebb a (2) bekezdésben foglalt összeg. Kettős könyvvitelt nem vezetők esetében a nettó árbevétel alatt az adóalapba beszámító bevétel értendő.
 
 (4) Az igényelhető támogatás mértéke:
@@ -31,3 +33,6 @@ b) az elszámolható kiadások legfeljebb 40%-a, amennyiben a beruházással ér
 c) a maximális támogatás-intenzitásnál kisebb mértékű támogatási igény esetén a hozzájárulás mértéke csak egész szám lehet.
 
 (5) Egy támogatási kérelem azonos intézkedésen belül több tevékenységre is irányulhat.
+
+[^7]: A 3. § (2) bekezdés a) pontja a 97/2012. (IX. 13.) VM rendelet 15. § (1) bekezdése szerint módosított szöveg.
+[^8]: A 3. § (3) bekezdés d) pontját a 97/2012. (IX. 13.) VM rendelet 2. §-a iktatta be.
