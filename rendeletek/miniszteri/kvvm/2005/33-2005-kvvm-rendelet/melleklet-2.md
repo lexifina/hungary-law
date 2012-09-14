@@ -504,6 +504,8 @@
 
 | 57. |  | A környezetvédelmi, természetvédelmi, tájvédelmi és vízgazdálkodási szakértői névjegyzékbe történő bejegyzés | 10 000 |
 
+| 58. |  | A természetes környezet megőrzésére szánt takarmánynövény-vetőmagkeverékek kereskedelmi célú begyűjtésére vonatkozó engedélyezési eljárás. [86/2012. (VIII. 15.) VM rendelet a természetes környezet megőrzésére szánt takarmánynövény-vetőmagkeverékek kereskedelmi célú begyűjtéséről és forgalmazásáról] | 10000 |
+
 ## 1. Az elvi vízjogi engedély esetében az igazgatási szolgáltatási díjat műszaki megoldásonként kell megfizetni.
 
 ## 2. A vízvezetési szolgalom, vízhasználati szolgalom esetében az igazgatási szolgáltatási díjat a vízjogi eljárás díjához hozzászámítva kell megfizetni.
