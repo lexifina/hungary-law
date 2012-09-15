@@ -8,7 +8,7 @@ c) a 3,5 tonna megengedett össztömeget meghaladó buszok tengelyszámtól és 
 
 d) az elektronikus díjszedési rendszer bevezetésekor a J2, J3 és J4 kategóriájú tehergépjárművek fizessenek útdíjat a megtett úttal arányosan, a díjszedési rendszerbe integrált díjellenőrzési rendszer fokozatosan kiépülő funkcionalitása mellett;
 
-e) a D1 és B2 díjkategóriák vonatkozásában továbbra is érvényben marad az időtartamhoz kötött gyorsforgalmi út használati díjfizetési rendszer, legkorábban az elektronikus díjszedés bevezetését követő fél év múlva a megtett úttal arányos díjszedési rendszerhez történő önkéntes csatlakozás lehetőségével;
+e)[^1] a D1 és B2 díjkategóriák vonatkozásában továbbra is érvényben marad az időtartamhoz kötött gyorsforgalmi út használati díjfizetési rendszer;
 
 f) induláskor a gyorsforgalmi utakon és az országos közúthálózat külterületi főúti szakaszain kell a J2, J3 és J4 kategóriájú tehergépjárműveknek megtett úttal arányos rendszerben díjat fizetni;
 
@@ -18,7 +18,7 @@ h) a J2 és J3 díjszintjének az Eurovignetta irányelv szerinti költségokoz�
 
 i) a környezetvédelmi alkategóriák J2 és J3 díjkategóriákban ±15, a J4 díjkategóriában ±20% díjeltérítéssel indulnak, a későbbiekben a hazai járműállomány összetételének függvényében félévente módosítva 6–10 év alatt éri el az Eurovignetta irányelv szerinti maximális 100%-os díjeltérítési értéket;
 
-j) a díjszintek minden év január 1-jén és július 1-jén reálértékben is emelkednek;
+j)[^2]
 
 k) az elektronikus díjszedés bevezetését követő fél év múlva a maximális 13%-os mértékkel elindul egy gyakori használói kedvezményrendszer;
 
@@ -38,13 +38,7 @@ nemzetgazdasági miniszter
 
 Határidő: azonnal
 
-ab) a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy haladéktalanul intézkedjenek a megtett úttal arányos elektronikus díjszedési rendszer beszerzéséhez, valamint a díjszedési szolgáltatás finanszírozásához 10 évre szükséges, nettó jelenértéken számított 214,5 milliárd forint forrás, illetve kötelezettségvállalás biztosításáról, továbbá a megtett úttal arányos elektronikus díjszedési rendszer működtetésével beszedett díjaknak a kijelölt közútkezelő társaság bevételeiként a közúthálózat fenntartásának és fejlesztésének a finanszírozására történő felhasználásról;
-
-Felelős: nemzeti fejlesztési miniszter
-
-nemzetgazdasági miniszter
-
-Határidő: 2012. május 30.
+ab)[^3]
 
 b) felhívja a nemzeti fejlesztési minisztert, hogy haladéktalanul gondoskodjon
 
@@ -68,11 +62,11 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2012. június 30.
 
-e) felhívja a nemzeti fejlesztési minisztert, hogy intézkedjen az országos közutak használatáért fizetendő, megtett távolsággal arányos útdíjak beszedésére alkalmas, az ellenőrzést is magában foglaló integrált elektronikus díjszedési rendszer kiépítéséhez szükséges eszközök beszerzésével és azok működtetésével és a tanácsadással kapcsolatos közbeszerzési gyorsított eljárás (eljárások) megindításáról;
+e)[^4] felhívja a nemzeti fejlesztési minisztert, hogy intézkedjen az országos közutak használatáért fizetendő, megtett távolsággal arányos útdíjak beszedésére alkalmas, az ellenőrzést is magában foglaló integrált elektronikus díjszedési rendszer kiépítéséhez szükséges eszközöknek az éles üzem indulásától számított egy évig tartó bevezetés támogatással és ezt követően a szerződés megszűnéséig tartó infrastruktúra-támogatással együttesen történő beszerzésével kapcsolatos közbeszerzési eljárásnak a Magyar Állam javára eljárva történő, az Állami Autópálya Kezelő Zrt. mint ajánlatkérő általi megindításáról és ez alapján a közbeszerzési eljárás keretében a szerződés megkötéséről;
 
 Felelős: nemzeti fejlesztési miniszter
 
-Határidő: 2012. május 30.
+Határidő: azonnal
 
 f) felhívja a nemzeti fejlesztési minisztert, hogy készítse elő – az elektronikus díjfizetési rendszer bevezetésével egyidejűleg – Magyarország csatlakozását az európai elektronikus útdíjszedési szolgáltatáshoz (EETS) az Európai Parlament és Tanács 2004/52/EK irányelve szerint, továbbá készítse elő az ezzel kapcsolatos jogszabály-tervezeteket, illetve állítsa fel az EETS-szolgáltatók és a hazai díjszedő közötti vitás esetekben közvetítő Elektronikus Díjszedési Egyeztető Bizottságot;
 
@@ -88,6 +82,18 @@ nemzetgazdasági miniszter
 
 Határidő: 2012. június 30.
 
+h)[^5] felhívja a nemzeti fejlesztési minisztert, hogy intézkedjen annak érdekében, hogy az e) pont szerinti közbeszerzés keretében beszerzésre kerülő eszközök a Magyar Állam tulajdonába, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdésében foglaltak alapján az Állami Autópálya Kezelő Zrt. tulajdonosi joggyakorlásába kerüljenek legalább a közbeszerzési eljárás eredményeként megkötésre kerülő szerződés időbeli hatályának időtartamára;
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: azonnal (a Magyar Államot megillető tulajdonosi jogok és kötelezettségek gyakorlójának kijelölésére vonatkozó rendelet kiadására)
+
+i)[^6] felhívja a nemzeti fejlesztési minisztert, hogy a megtett úttal arányos díjszedési rendszer megvalósítása során gondoskodjon az európai uniós forrásokból történő finanszírozásba történő utólagos bevonás lehetőségéről.
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: folyamatosan
+
 4. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy a nemzetgazdasági miniszterrel együtt tegyen javaslatot a közúti infrastruktúra finanszírozásának átfogó programjára.
 
 Felelős: nemzeti fejlesztési miniszter
@@ -95,3 +101,10 @@ Felelős: nemzeti fejlesztési miniszter
 nemzetgazdasági miniszter
 
 Határidő: folyamatosan
+
+[^1]: Az 1. pont e) alpontja az 1361/2012. (IX. 14.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 1. pont j) alpontját az 1361/2012. (IX. 14.) Korm. határozat 11. pontja visszavonta.
+[^3]: A 3. pont a) alpont ab) alpontját az 1361/2012. (IX. 14.) Korm. határozat 11. pontja visszavonta.
+[^4]: A 3. pont e) alpontja az 1361/2012. (IX. 14.) Korm. határozat 2. pont a) alpontjával megállapított szöveg.
+[^5]: A 3. pont h) alpontját az 1361/2012. (IX. 14.) Korm. határozat 2. pont b) alpontja iktatta be.
+[^6]: A 3. pont i) alpontját az 1361/2012. (IX. 14.) Korm. határozat 2. pont c) alpontja iktatta be.
