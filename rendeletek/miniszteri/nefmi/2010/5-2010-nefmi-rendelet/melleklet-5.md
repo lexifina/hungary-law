@@ -2,7 +2,7 @@
 
 ## 1. Bejelentő neve
 
-## 2.[^29] Feltárást engedélyező határozat száma
+## 2.[^44] Feltárást engedélyező határozat száma
 
 ## 3. Feltárási munkák lelőhelye
 
@@ -52,4 +52,4 @@ Lelőhely-bejelentő adatlap adattartalma
 
 12. A bejelentés kelte
 
-[^29]: A 4. melléklet 2. pontja a 16/2012. (III. 20.) NEFMI rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^44]: A 4. melléklet 2. pontja a 16/2012. (III. 20.) NEFMI rendelet 2. § (2) bekezdésével megállapított szöveg.

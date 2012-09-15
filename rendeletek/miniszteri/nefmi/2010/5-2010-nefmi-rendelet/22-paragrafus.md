@@ -1,5 +1,3 @@
-22. § (1) A feltárási engedély iránti kérelemhez csatolni kell a beruházó arra vonatkozó nyilatkozatát, hogy a beruházás nagyberuházásnak minősül, és az előzetes dokumentációt.
+## 21. §[^31] A kisajátításról szóló törvény szerinti közérdekű cél megvalósítása esetén a nagyberuházásokra vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(2)[^19] A hatóság az engedély iránti kérelmet az annak beérkezését követő naptól számított tizenöt napon belül bírálja el.
-
-[^19]: A 22. § (2) bekezdése a 6/2011. (III. 8.) NEFMI rendelet 9. § k) pontja szerint módosított szöveg. E módosító rendelet 10. § (4) bekezdése alapján a 2011. március 9-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^31]: A 21. §-t megelőző alcímet a 26/2012. (IX. 14.) EMMI rendelet 11. § c) pontja hatályon kívül helyezte. A 21. § a 26/2012. (IX. 14.) EMMI rendelet 8. §-ával megállapított szöveg.

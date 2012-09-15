@@ -24,6 +24,6 @@ h) az előkerült leletek összefoglaló ismertetését és a feldolgozástól v
 
 (4) A feltárás vezetője a jelentésben javaslatot tehet a feltárás folytatására, illetve a feltárt terület védetté nyilvánítására vagy a védettség feloldására.
 
-(5)[^7] A jelentés egy példányát abban az intézményben kell elhelyezni, amelyik a feltárási engedélyt kapta. A jelentés további egy-egy példányát a feltárás befejezését követő harminc napon belül meg kell küldeni a szakigazgatási szervnek, a Hivatal Nyilvántartási Irodájának, a Magyar Nemzeti Múzeumnak, valamint – amennyiben a feltárást egyéb feltárási jogosultsággal rendelkező intézmény végezte – az illetékes múzeumnak.
+(5)[^13] A jelentés egy példányát abban az intézményben kell elhelyezni, amelyik a feltárási engedélyt kapta. A jelentés további egy-egy példányát a feltárás befejezését követő harminc napon belül meg kell küldeni a szakigazgatási szervnek, a Hivatal Nyilvántartási Irodájának, a Magyar Nemzeti Múzeumnak, valamint – amennyiben a feltárást egyéb feltárási jogosultsággal rendelkező intézmény végezte – az illetékes múzeumnak.
 
-[^7]: A 9. § (5) bekezdése a 6/2011. (III. 8.) NEFMI rendelet 9. § b) pontja, a 16/2012. (III. 20.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^13]: A 9. § (5) bekezdése a 6/2011. (III. 8.) NEFMI rendelet 9. § b) pontja, a 16/2012. (III. 20.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.

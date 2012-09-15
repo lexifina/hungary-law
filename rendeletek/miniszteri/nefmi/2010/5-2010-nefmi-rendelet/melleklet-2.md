@@ -66,7 +66,7 @@
 
 ## 6.8. Nagyberuházás esetén a beruházó arra vonatkozó nyilatkozata, hogy a beruházás nagyberuházásnak minősül
 
-## 6.9. Nagyberuházás esetén az előzetes dokumentáció
+## 6.9.[^43] Nagyberuházás esetén az előzetes régészeti dokumentáció
 
 ## 7. Nyilatkozatok
 
@@ -75,3 +75,5 @@
 ## 7.2. Illetékmentességről szóló nyilatkozat
 
 2. melléklet az 5/2010. (VIII.18.) NEFMI rendelethez
+
+[^43]: Az 1. melléklet 6.9. pontja a 26/2012. (IX. 14.) EMMI rendelet 10. § e) pontja szerint módosított szöveg.

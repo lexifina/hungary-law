@@ -1,8 +1,8 @@
-3. § (1)[^1] A feltárási engedély iránti kérelmet a kulturális örökségvédelmi szakigazgatási szervhez (a továbbiakban: szakigazgatási szerv) kell benyújtani.
+3. § (1)[^4] A feltárási engedély iránti kérelmet a kulturális örökségvédelmi szakigazgatási szervhez (a továbbiakban: szakigazgatási szerv) kell benyújtani.
 
 (2) A kérelemhez csatolni kell:
 
-a) a feltárni tervezett ingatlanok azonosítására alkalmas és a terület helyszínét, pontos kiterjedését egyértelműen, valamint értelmezhető léptékben ábrázoló térképet,
+a)[^5] a feltárni tervezett ingatlanok azonosítására alkalmas és a terület helyszínét, pontos kiterjedését, továbbá a feltárandó terület nagyságát egyértelműen, valamint értelmezhető léptékben ábrázoló térképet,
 
 b) a régészeti feltárásból adódó munkanemek felsorolását és a feltárás e munkanemek szerint bontott költségkalkulációját, amely tartalmazza a munkanemekhez kapcsolódó személyi és járulékos költségeket, továbbá az intézmény működési költségének feltárásra eső hányadát, amely 15%,
 
@@ -26,4 +26,5 @@ e) a régészeti utómunka (különösen dokumentáció, restaurálás, tudomán
 
 f) a régészeti leletek muzeális intézménybe történő befogadása (különösen gyűjteményi nyilvántartásba vétel, ideiglenes és végleges raktári elhelyezés, megőrzés, bemutatás).
 
-[^1]: A 3. § (1) bekezdése a 16/2012. (III. 20.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdése a 16/2012. (III. 20.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdés a) pontja a 26/2012. (IX. 14.) EMMI rendelet 2. §-ával megállapított szöveg.

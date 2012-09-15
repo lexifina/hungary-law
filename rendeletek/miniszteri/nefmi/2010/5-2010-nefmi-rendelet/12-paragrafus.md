@@ -4,4 +4,6 @@
 
 (3) Amennyiben a feltárást nem a (2) bekezdés szerinti muzeális intézmény végezte, a feltárások anyaga a teljes tudományos feldolgozásig, legfeljebb azonban a feltárás befejezésétől számított öt évig az engedélyes őrzésében maradhat. Ezt követően az engedélyes a restaurált és tudományosan feldolgozott leletanyagot – alapleltárba vételre előkészítve – köteles átadni a feltárási engedélyben a leletanyag befogadójaként megjelölt muzeális intézménynek.
 
-(4) A leletanyag befogadásáért a befogadó muzeális intézményt illeti meg a leletelhelyezés költségeinek ellenértéke, amelynek összege a feltárási költségvetés nettó keretösszegének 10%-a.
+(4)[^18] A leletanyag befogadásáért a befogadó muzeális intézményt illeti meg a leletelhelyezés költségeinek ellenértéke.
+
+[^18]: A 12. § (4) bekezdése a 26/2012. (IX. 14.) EMMI rendelet 5. §-ával megállapított szöveg.

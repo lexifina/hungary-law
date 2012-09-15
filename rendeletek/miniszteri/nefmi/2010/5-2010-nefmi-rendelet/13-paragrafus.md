@@ -8,6 +8,6 @@
 
 (5) A lelőhely-bejelentő adatlap formanyomtatvány adattartalmát e rendelet 5. melléklete tartalmazza.
 
-(6)[^12] A formanyomtatványokat a Hivatal rendszeresíti és honlapján közzéteszi.
+(6)[^19] A formanyomtatványokat a Hivatal rendszeresíti és honlapján közzéteszi.
 
-[^12]: A 13. § (6) bekezdése a 16/2012. (III. 20.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 13. § (6) bekezdése a 16/2012. (III. 20.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
