@@ -1,4 +1,4 @@
-1. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^37]
+1. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^38]
 
 1. A rendszerbevételi eljárás során adható többletpontok
 
@@ -48,4 +48,4 @@
 
 adatok feldolgozása tudományos tevékenységben stb.) 2 pont
 
-[^37]: Az 1. melléklet a 20/2011. (V. 10.) NEFMI rendelet 15. § f) pontja szerint módosított szöveg.
+[^38]: Az 1. melléklet a 20/2011. (V. 10.) NEFMI rendelet 15. § f) pontja szerint módosított szöveg.

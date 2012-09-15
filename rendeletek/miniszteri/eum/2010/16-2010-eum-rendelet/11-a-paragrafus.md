@@ -1,4 +1,4 @@
-11/A. §[^18] (1) A jelölt a szakképzés törzsképzési programjának teljesítését tutor irányítása alatt végzi. A tutor a képzési program teljesítése során szakmai iránymutatást ad és folyamatos szakmai segítséget nyújt a jelöltnek.
+11/A. §[^19] (1) A jelölt a szakképzés törzsképzési programjának teljesítését tutor irányítása alatt végzi. A tutor a képzési program teljesítése során szakmai iránymutatást ad és folyamatos szakmai segítséget nyújt a jelöltnek.
 
 (2) A tutor a tevékenységét mentor irányítása alatt látja el. A mentor segíti a tutort az (1) bekezdés szerinti feladatai ellátásában.
 
@@ -12,4 +12,4 @@
 
 (7) A tutori-mentori tevékenység ellátásáért a Kr. 4. § (1) bekezdés a) pontja szerinti, a szakképzés normatív költségéből járó támogatás kétharmad része a tutort, egyharmad része a mentort illeti meg.
 
-[^18]: A 11/A. §-t a 20/2011. (V. 10.) NEFMI rendelet 11. §-a iktatta be.
+[^19]: A 11/A. §-t a 20/2011. (V. 10.) NEFMI rendelet 11. §-a iktatta be.
