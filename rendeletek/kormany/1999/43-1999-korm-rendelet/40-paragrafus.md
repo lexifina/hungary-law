@@ -40,7 +40,7 @@ b) a 22 mozgásszervi rehabilitáció és a 09 neurológia szakmákban nappali k
 
 a) az R.-ben önálló elszámolási tételként meghatározott nappali, illetve kúraszerű ellátásokat a hozzárendelt pontértékkel,
 
-b)[^401] a 0100 általános belgyógyászat, a 0101 angiológia, phlebológia, lymphológia, a 0103 endokrinológia, anyagcsere és diabetológia, a 0900 általános neurológia, az 1400 reumatológia és fizioterápia, az 1401 reumatológia, az 1402 fizioterápia (orvosi szakképesítéssel), 1800 pszichiátria, a 2201 mozgásszervi rehabilitáció, az 5700 általános fizioterápia-gyógytorna, az 5711 gyógytorna, az 5712 gyógymasszázs, az 5722 fizioterápia (asszisztensi tevékenységként) szakmákban teljesített járóbeteg ellátásokat a hozzárendelt pontértékkel,
+b)[^401] a 0100 belgyógyászat, a 0101 angiológia, phlebológia, lymphológia, a 0103 endokrinológia, anyagcsere és diabetológia, a 0500 csecsemő- és gyermekgyógyászat, a 0900 neurológia, az 1400 reumatológia és fizioterápia, az 1400 reumatológia, az 1402 fizioterápia, az 1800 pszichiátria, a 2201 mozgásszervi rehabilitáció, az 5700 fizioterápia-gyógytorna, az 5711 gyógytorna, az 5712 gyógymasszázs (gyógymasszőri végzettséghez kötött), az 5722 fizikoterápia/fizioterápia (asszisztensi tevékenységként) szakmákban teljesített járóbeteg ellátásokat a hozzárendelt pontértékkel,
 
 c) az R.-ben önálló elszámolási tételként meghatározott rehabilitációs ellátási program szerinti nappali ellátásokat a hozzárendelt súlyszámmal
 
@@ -64,6 +64,6 @@ lehet elszámolni, amennyiben az ellátás megfelel a 4. § (3) bekezdésében �
 [^398]: A 40. § (12) bekezdését a 329/2005. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be. A 40. § (12) bekezdésének számozását (13) bekezdésre változtatta a 266/2007. (X. 10.) Korm. rendelet 4. § (3) bekezdése.
 [^399]: A 40. § (13) bekezdését a 329/2005. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be. A 40. § (13) bekezdésének számozását (14) bekezdésre változtatta a 266/2007. (X. 10.) Korm. rendelet 4. § (3) bekezdése.
 [^400]: A 40. § (15) bekezdését a 166/2010. (V. 11.) Korm. rendelet 5. §-a iktatta be, szövege a 227/2011. (X. 28.) Korm. rendelet – 325/2011. (XII. 28.) Korm. rendelet 26. § (2) bekezdése szerint módosított – 5. § (4) bekezdésével megállapított szöveg. A 40. § (15) bekezdés nyitó szövegrésze a 137/2012. (VI. 29.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.
-[^401]: A 40. § (15) bekezdés b) pontja a 137/2012. (VI. 29.) Korm. rendelet 20. § f) pontja szerint módosított szöveg.
+[^401]: A 40. § (15) bekezdés b) pontja a 259/2012. (IX. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^402]: A 40. § (16) bekezdését a 227/2011. (X. 28.) Korm. rendelet 5. § (5) bekezdése iktatta be.
 [^403]: A 40. § (17) bekezdését a 227/2011. (X. 28.) Korm. rendelet 5. § (6) bekezdése iktatta be.

@@ -6,7 +6,7 @@ b) az Eftv. alapján történt többletkapacitás befogadás esetén, kivéve a 
 
 c)[^244] az egészségügyi államigazgatási szerv által megállapított feladatváltozás esetén,
 
-d)[^245] az ellátási terület Eftv. alapján történő módosításával, kivéve, ha a felek az Eftv. 5/B. § (1) bekezdése szerinti megállapodásukban úgy rendelkeznek, hogy a TVK ne kerüljön módosításra, illetve ha az a b) pont alapján az ellátási területet átvevő fél számára már megállapításra vagy elvonásra került,
+d)[^245] az ellátási terület Eftv. alapján történő módosításával, kivéve, ha a felek az Eftv. 5/B. § (2) bekezdés a) pontja szerinti közös kérelmükben úgy rendelkeznek, hogy a TVK ne kerüljön módosításra, illetve ha az a b) pont alapján az ellátási területet átvevő fél számára már megállapításra vagy elvonásra került,
 
 e) a finanszírozásra vonatkozó szabályok változásának teljesítményre gyakorolt hatásával, kivéve, ha jogszabály másként rendelkezik,
 
@@ -40,7 +40,7 @@ i)[^249]
 [^242]: A 27/A. § (1) bekezdése a 232/2009. (X. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg, e módosító rendelet 6. § (3) bekezdése alapján első alkalommal a 2009. november 1-jét követő teljesítmények elszámolására kell alkalmazni.
 [^243]: A 27/A. § (1) bekezdés a) pontja a 365/2010. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^244]: A 27/A. § (1) bekezdés c) pontja a 365/2010. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^245]: A 27/A. § (1) bekezdés d) pontja a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^245]: A 27/A. § (1) bekezdés d) pontja a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés e) pontja, a 259/2012. (IX. 14.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^246]: A 27/A. § (1) bekezdés f) pontját a 365/2010. (XII. 30.) Korm. rendelet 19. § (1) bekezdés b) pontja hatályon kívül helyezte.
 [^247]: A 27/A. § (1) bekezdés g) pontja a 365/2010. (XII. 30.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^248]: A 27/A. § (1) bekezdés h) pontja a 360/2009. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.

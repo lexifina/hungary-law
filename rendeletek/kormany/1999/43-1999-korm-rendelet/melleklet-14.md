@@ -1,4 +1,4 @@
-14. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^485]
+14. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^487]
 
 „ADATLAP kórházi (osztályos) ápolási esetről
 
@@ -526,56 +526,4 @@ D. magyar biztosított részére egyedi méltányossági engedéllyel biztosíto
 
 E. magyar biztosított részére egyedi méltányossági engedély alapján, nem indikáción túli gyógyszer alkalmazása
 
-F. tételesen finanszírozott gyógyszeres kezelés
-
-Kód
-
-A műtét vagy beavatkozás OENO kódja
-
-Oldaliság (L)
-
-S. bal oldali beavatkozás
-
-D. jobb oldali beavatkozás
-
-U. mindkét oldalon végzett beavatkozás
-
-N. az oldaliság nem értelmezhető
-
-db
-
-Az elvégzett beavatkozás darabszáma
-
-Az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató közreműködésével született újszülött szűrésére vonatkozó OENO kódok esetén nem kell kitölteni a 27. rovatban a Sebgyógyulás (S), a Nosocomiális fertőzés (F), a beavatkozás minősítése az ellátásban elfoglalt helye szerint (M) rovatokat.
-
-29. Újszülött súlya
-
-Újszülött testsúlya felvételkor grammban, újszülött esetén kitöltése kötelező
-
-30. Baleset minősítése
-
-00. nem baleset, nem foglalkozási betegség
-
-11. munkahelyi baleset munkahely területén és/vagy munkavégzés közben
-
-16. ellátást nyújtó egészségügyi intézményben történt baleset
-
-20. foglalkozási megbetegedés miatti egészségügyi ellátás
-
-21. közúti baleset KRESZ hatálya alá tartozó gépjárművel
-
-22. közúti baleset tömegközlekedési eszközön
-
-31. háztartási baleset
-
-32. sportbaleset
-
-34. állat okozta baleset
-
-40. közterületen történt baleset
-
-41. baleset feltételezhető, de a körülményei nem ismertek
-
-42. idegenkezűség következtében létrejött baleset
-
-[^485]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^487]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a szerint módosított szöveg.
