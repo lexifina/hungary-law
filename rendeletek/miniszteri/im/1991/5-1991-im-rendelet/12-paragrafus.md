@@ -1,5 +1,5 @@
-12. § (1) A vizsgabizottság a részvizsga letételéről ideiglenes bizonyítványt, a jogi szakvizsga letételéről oklevelet ad ki (1. és 2. melléklet). Az oklevélen a jogi szakvizsga eredményét a 10. § szerinti értékelésnek megfelelően fel kell tüntetni.
+12. §[^26] (1) A vizsgabizottság a sikeres részvizsgáról az 1. melléklet szerinti tanúsítványt állít ki. A jogi szakvizsgáról az utolsó sikeres részvizsga letételének napjától számított 30 napon belül a miniszter a 2. melléklet szerinti bizonyítványt állít ki. A bizonyítványon a jogi szakvizsga eredményét a 10. § szerinti értékelésnek megfelelően kell feltüntetni.
 
-(2)[^20] Az elveszett vagy megsemmisült oklevél vagy ideiglenes bizonyítvány pótlására a Szakvizsga Bizottság titkára tanúsítványt állít ki. A tanúsítvány kiállításának díja 6000 Ft.
+(2) Az elveszett vagy megsemmisült tanúsítvány vagy bizonyítvány pótlására a miniszter az erre irányuló kérelem beérkezésétől számított 15 munkanapon belül igazolást állít ki. Az igazolás kiállításának díja 10 000 Ft.
 
-[^20]: A 12. § (2) bekezdésének második mondata a 7/2003. (IV. 11.) IM rendelet 4. §-ával megállapított szöveg.
+[^26]: A 12. § a 42/2012. (IX. 14.) KIM rendelet 11. §-ával megállapított szöveg.

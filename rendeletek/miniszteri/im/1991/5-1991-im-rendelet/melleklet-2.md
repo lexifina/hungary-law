@@ -1,25 +1,45 @@
-## Ideiglenes bizonyítvány
+## Jogi Szakvizsga Bizottság
 
-## A Jogi Szakvizsga Bizottság bizonyítja, hogy ............, aki ........, ...... év ........ hó .... napján született, a jogi szakvizsga ........... részének tárgyaiból a mai napon a vizsgát letette.
+## Ügyszám: ..................................................
 
-## Ennek az ideiglenes bizonyítványnak képesítő hatálya nincs és csak arra a célra szolgál, hogy a jelölt a vizsgája másik részére jelentkezés alkalmával a vizsga ............ részének letételét igazolja.
+## TANÚSÍTVÁNY
 
-## Budapest, 20.... év ..... hó .... napján
+## A Jogi Szakvizsga Bizottság vizsgabizottsága tanúsítja, hogy
 
-## ..................
+## ....................................................................................................
 
-## a bizottság elnöke
+## aki ........................................................, .................... év ...................................................... hó ................... napján született, a jogi szakvizsga ........................................................................ részének vizsgatárgyaiból (................................................... vizsgatárgyból ............................……….. eredménnyel; .............................................................................…… vizsgatárgyból .................................. eredménnyel; .................................................................................. vizsgatárgyból ..................................... eredménnyel) a vizsgát letette.
+
+## ........................................, .................... év ........................................ hó .................... nap
+
+## ............................................................
+
+## a vizsgabizottság elnöke
+
+## ............................................................ ............................................................
+
+## a vizsgabizottság tagja a vizsgabizottság tagja
 
 ## P. H.
 
-## .................
+2. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^48]
 
-## a bizottság tagja
+| BIZONYÍTVÁNY | Közigazgatási és Igazságügyi Miniszter |
 
-## .................
+| Ügyszám: ………………… |
 
-## a bizottság tagja
+| ………………………………………………… |
 
-2. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^38]
+| aki …………................................, ............. év ........................................... hó ......... napján született, |
 
-[^38]: A 2. számú melléklet a 14/2000. (VIII. 29.) IM rendelet 4. §-ának (2) bekezdésével, illetve 2. számú mellékletével megállapított szöveg.
+| a jogi szakvizsgát |
+
+| …………….. eredménnyel letette. |
+
+| …………, ……… év ………………….. hó …… nap |
+
+| ………………………………. |
+
+| Közigazgatási és Igazságügyi Miniszter P. H. |
+
+[^48]: A 2. számú melléklet a 42/2012. (IX. 14.) KIM rendelet 16. §-ával megállapított szöveg.

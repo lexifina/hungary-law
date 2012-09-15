@@ -1,16 +1,17 @@
-10. § (1)[^17] Az írásbeli és a szóbeli vizsga értékelése: jeles (5), jó (4), közepes (3), elégséges (2), elégtelen (1) érdemjeggyel történik. Az írásbeli vizsgát egy érdemjeggyel, a szóbeli vizsgát vizsgatárgyanként egy-egy érdemjeggyel kell értékelni.
+10. §[^23] (1) A részvizsga vizsgatárgyainak értékelése: jeles (5), jó (4), közepes (3), elégséges (2), elégtelen (1) érdemjeggyel történik. A részvizsgát vizsgatárgyanként – az írásbeli vizsgát is ideértve – egy érdemjeggyel kell értékelni.
 
-(2)[^18] Mindhárom részvizsga letétele után az írásbeli vizsga és a szóbeli vizsgák érdemjegyeit – a nem megfelelő érdemjegyek figyelmen kívül hagyásával – össze kell adni. Az írásbeli vizsgára adott érdemjegyet kétszeresen kell számításba venni. A jogi szakvizsgán elérhető eredmények az érdemjegyek összesítése alapján
+(2) A jogi szakvizsga eredményét a részvizsgákon teljesített vizsgatárgyak érdemjegyeinek átlaga alapján kell kiszámítani. Mindhárom részvizsga sikeres letétele után a vizsgatárgyak érdemjegyeit össze kell adni, és azt osztani a vizsgák számával úgy, hogy a sikertelen részvizsgát egy elégtelen érdemjegyként kell számításba venni.
 
-– kitűnő, ha az érdemjegyek összege 55,
+(3) A jogi szakvizsgán elérhető eredmény
 
-– jeles, ha az érdemjegyek összege 50–54 között van,
+a) kitűnő, ha a jelölt minden vizsgatárgyból jeles (5) érdemjegyet ért el,
 
-– jó, ha az érdemjegyek összege 39–49 között van,
+b) jeles, ha az érdemjegyek átlaga legalább 4,50,
 
-– közepes, ha az érdemjegyek összege 28–38 között van,
+c) jó, ha az érdemjegyek átlaga 4,00-4,49 között van,
 
-– megfelelő, ha az érdemjegyek összege 18–27 között van.
+d) közepes, ha az érdemjegyek átlaga 3,00- 3,99 között van,
 
-[^17]: A 10. § (1) bekezdésének első mondata a 7/2003. (IV. 11.) IM rendelet 3. §-ával megállapított szöveg.
-[^18]: A 10. § (2) bekezdése a 17/2001. (XI. 23.) IM rendelet 4. §-ával megállapított szöveg.
+e) elégséges, ha az érdemjegyek átlaga 2,99 vagy az alatt van.
+
+[^23]: A 10. § a 42/2012. (IX. 14.) KIM rendelet 9. §-ával megállapított szöveg.
