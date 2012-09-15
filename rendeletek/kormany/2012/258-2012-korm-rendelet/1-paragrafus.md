@@ -1,0 +1,35 @@
+1. § (1) A kultúrát és a kulturális örökség megőrzését előmozdító állami támogatásokról szóló 28/2008. (II. 15.) Korm. rendelet (a továbbiakban: Korm.r.) 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A támogatás forrása Magyarország központi költségvetése.”
+
+(2) A Korm.r. 4. § i) pontja helyébe a következő rendelkezés lép:
+
+[A Magyar Köztársaság költségvetéséből központi költségvetési támogatást (a továbbiakban: támogatás) az alkotóművészeti, az előadóművészeti, a múzeumi, a könyvtári, a levéltári, a közművelődési és az örökségvédelmi-műemlékvédelmi tevékenységek tekintetében a következő célokra lehet nyújtani:]
+
+## „i) a nemzetiségek kultúrájának támogatására.”
+
+(3) A Korm.r. 5. §-a helyébe a következő rendelkezés lép:
+
+## „5. § A támogatás éves keretösszegét a Magyarország központi költségvetéséről szóló törvény határozza meg.”
+
+(4) A Korm.r. 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A támogatást nyújtó szerv – a kultúráért felelős miniszter kivételével – a támogatás odaítélése előtt 30 nappal regisztrálja magát – a tervezett támogatási összeg megjelölésével – az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 1. § (3) bekezdése szerinti, az állami támogatások versenyszempontú ellenőrzéséért felelős szervezetnél.”
+
+(5) A Korm.r. 7. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A támogatás pályázaton kívüli odaítéléséről – jogszabály eltérő rendelkezése hiányában – a támogatást nyújtó szerv vezetője dönt.”
+
+(6) A Korm.r. 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) E rendelet alapján 2018. szeptember 1. napjáig nyújtható támogatás.”
+
+(7) A Korm.r. 9. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) E rendeletnek a kultúrát és a kulturális örökség megőrzését előmozdító állami támogatásokról szóló 28/2008. (II. 15.) Korm. rendelet módosításáról szóló 258/2012. (IX. 14.) Korm. rendelettel (a továbbiakban: R.) megállapított rendelkezéseit az R. hatálybalépésekor folyamatban levő támogatási kérelmek esetében is alkalmazni kell.”
+
+(8) A Korm.r. a következő 10. §-sal egészül ki:
+
+## „10. § E rendelet az Európai Bizottság SA.34770 (2012/N-2). számú határozatával jóváhagyott kulturális célú állami támogatást tartalmaz.”
+
+(9) A Korm.r. 4. § nyitó szövegrészében az „A Magyar Köztársaság költségvetéséből központi költségvetési” szövegrész helyébe a „Magyarország központi költségvetéséből” szöveg lép.
