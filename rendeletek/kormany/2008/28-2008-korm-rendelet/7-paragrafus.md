@@ -1,6 +1,6 @@
 ## 6. § Támogatást természetes és jogi személyek, jogi személyiség nélküli gazdasági társaságok, valamint egyéni vállalkozások igényelhetnek.
 
-7. § (1) A pályázattal elnyerhető támogatásra a XX. Oktatási és Kulturális Minisztérium költségvetési fejezethez tartozó fejezeti kezelésű előirányzatok pályázat útján történő felhasználásának szabályairól szóló 28/2007. (VI. 15.) OKM rendelet szabályait kell alkalmazni.
+7. § (1)[^6] A támogatást nyújtó szerv – a kultúráért felelős miniszter kivételével – a támogatás odaítélése előtt 30 nappal regisztrálja magát – a tervezett támogatási összeg megjelölésével – az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 1. § (3) bekezdése szerinti, az állami támogatások versenyszempontú ellenőrzéséért felelős szervezetnél.
 
 (2) Pályázaton kívüli visszatérítendő, illetőleg vissza nem térítendő támogatás csak akkor nyújtható, ha
 
@@ -14,6 +14,7 @@ d) a támogatandó cél másképp nem érhető el vagy az időmúlás következt
 
 (3) A pályázaton kívüli támogatás iránti kérelmet megfelelő dokumentumokkal és adatokkal alá kell támasztani és meg kell jelölni a támogatási igény nagyságát.
 
-(4)[^2] A támogatás pályázaton kívüli odaítéléséről a kultúráért felelős miniszter dönt.
+(4)[^7] A támogatás pályázaton kívüli odaítéléséről – jogszabály eltérő rendelkezése hiányában – a támogatást nyújtó szerv vezetője dönt.
 
-[^2]: A 7. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 614. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 7. § (1) bekezdése a 258/2012. (IX. 14.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^7]: A 7. § (4) bekezdése a 258/2012. (IX. 14.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
