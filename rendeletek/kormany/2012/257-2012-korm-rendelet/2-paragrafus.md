@@ -1,0 +1,9 @@
+2. § (1) A nagyberuházás egészére egyetlen, az elvégzendő régészeti feladatellátás formájának, idő-és költségvonzatainak meghatározásához hozzájáruló, a lelőhely állapotában maradandó változással nem járó műszeres lelőhely-, illetve leletfelderítés és terepbejárás vagy próbafeltárás alkalmazásával készült előzetes régészeti dokumentációt kell készíteni.
+
+(2) Az előzetes régészeti dokumentációt – kormányrendelet eltérő rendelkezésének hiányában – a földmunkával járó bármilyen tevékenység engedélyezésére irányuló azon első hatósági eljárás megindítására irányuló kérelemhez kell mellékelni, amelyben a kulturális örökségvédelmi hatóság (a továbbiakban: hatóság) eljáró hatóságként vagy szakhatóságként jár el.
+
+(3) Az előzetes régészeti dokumentációt a beruházóval vagy a beruházásokkal kapcsolatos feladatokat ellátó költségvetési szervvel (a továbbiakban együtt: beruházó) kötött írásbeli szerződés alapján az illetékes múzeum a Magyar Nemzeti Múzeummal együttműködésben készíti el oly módon, hogy a szakmai koordinációs, valamint – a Kulturális Örökségvédelmi Hivatal közhiteles nyilvántartásának adatain alapuló – központi adatnyilvántartó és adatszolgáltató tevékenységet a Magyar Nemzeti Múzeum, a helyszíni munkát az illetékes múzeum végzi.
+
+(4) Az előzetes régészeti dokumentáció elkészítésének költségeit a beruházó viseli, kivéve, ha e költségeket a Kötv. 20/A. § (3) bekezdése alapján a központi költségvetés fedezi. Az előzetes régészeti dokumentáció elkészítésének díja az illetékes múzeumot és a Magyar Nemzeti Múzeumot az elvégzett munka arányában illeti meg.
+
+(5) Amennyiben az előzetes régészeti dokumentáció alapján a feltárást végző intézmény megállapítja a Kötv. 23/E. § (2) bekezdésében meghatározott körülmények fennállását, a beruházóval történt egyeztetés alapján kérelmet nyújt be a hatósághoz a Kötv. 23/E. § (1) bekezdésében meghatározott összeg magasabb értékben történő megállapítása iránt.
