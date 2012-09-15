@@ -1,0 +1,323 @@
+## 17. § Ez a rendelet a szakmai képesítések elismeréséről szóló 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv 25. cikkének, 28. cikkének, 35. cikkének és V. melléklete 5.1.2., 5.1.3., 5.1.4. és 5.3.3. pontjának való megfelelést szolgálja.
+
+1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez
+
+1. Szakorvosi alap szakképesítések
+
+|  | A | B | C | D |
+
+| 1. | Szakképzés megnevezése | Képzési idő | Törzsképzési idő | Szak- gyakorlati idő |
+
+| 2. | 1. Aneszteziológia és intenzív terápia | 60 hó | 24 hó | 36 hó |
+
+| 3. | 2. Arc-, állcsont- és szájsebészet | 70 hó | 24 hó | 46 hó |
+
+| 4. | 3. Belgyógyászat | 60 hó | 24 hó | 36 hó |
+
+| 5. | 4. Bőrgyógyászat | 60 hó | 24 hó | 36 hó |
+
+| 6. | 5. Csecsemő- és gyermekgyógyászat | 60 hó | 24 hó | 36 hó |
+
+| 7. | 6. Érsebészet | 72 hó | 24 hó | 48 hó |
+
+| 8. | 7. Fizikális medicina és rehabilitációs orvoslás | 60 hó | 24 hó | 36 hó |
+
+| 9. | 8. Foglalkozás-orvostan | 48 hó | 24 hó | 24 hó |
+
+| 10. | 9. Fül-orr-gégegyógyászat | 60 hó | 24 hó | 36 hó |
+
+| 11. | 10. Gasztroenterológia | 60 hó | 24 hó | 36 hó |
+
+| 12. | 11. Geriátria | 60 hó | 24 hó | 36 hó |
+
+| 13. | 12. Gyermek- és ifjúságpszichiátria | 60 hó | 24 hó | 36 hó |
+
+| 14. | 13. Gyermeksebészet | 72 hó | 24 hó | 48 hó |
+
+| 15. | 14. Háziorvostan | 36 hó | 28 hó | 8 hó |
+
+| 16. | 15. Hematológia | 60 hó | 24 hó | 36 hó |
+
+| 17. | 16. Honvéd-, katasztrófa- és rendvédelem orvostan | 60 hó | 24 hó | 36 hó |
+
+| 18. | 17. Idegsebészet | 72 hó | 24 hó | 48 hó |
+
+| 19. | 18. Igazságügyi orvostan | 60 hó | 24 hó | 36 hó |
+
+| 20. | 19. Infektológia | 60 hó | 24 hó | 36 hó |
+
+| 21. | 20. Kardiológia | 60 hó | 24 hó | 36 hó |
+
+| 22. | 21. Klinikai genetika | 48 hó | 24 hó | 24 hó |
+
+| 23. | 22. Klinikai onkológia | 60 hó | 24 hó | 36 hó |
+
+| 24. | 23. Megelőző orvostan és népegészségtan | 48 hó | 24 hó | 24 hó |
+
+| 25. | 24. Mellkassebészet | 72 hó | 24 hó | 48 hó |
+
+| 26. | 25. Nefrológia | 72 hó | 24 hó | 48 hó |
+
+| 27. | 26. Neurológia | 60 hó | 24 hó | 36 hó |
+
+| 28. | 27. Nukleáris medicina | 60 hó | 24 hó | 36 hó |
+
+| 29. | 28. Ortopédia és traumatológia | 72 hó | 24 hó | 48 hó |
+
+| 30. | 29. Orvosi laboratóriumi diagnosztika | 60 hó | 24 hó | 36 hó |
+
+| 31. | 30. Orvosi mikrobiológia | 60 hó | 24 hó | 36 hó |
+
+| 32. | 31. Oxyológia és sürgősségi orvostan | 60 hó | 24 hó | 36 hó |
+
+| 33. | 32. Patológia | 60 hó | 24 hó | 36 hó |
+
+| 34. | 33. Plasztikai és égés-sebészet | 72 hó | 24 hó | 48 hó |
+
+| 35. | 34. Pszichiátria | 60 hó | 24 hó | 36 hó |
+
+| 36. | 35. Radiológia | 60 hó | 24 hó | 36 hó |
+
+| 37. | 36. Repülőorvostan | 48 hó | 24 hó | 24 hó |
+
+| 38. | 37. Reumatológia | 60 hó | 24 hó | 36 hó |
+
+| 39. | 38. Sebészet | 72 hó | 24 hó | 48 hó |
+
+| 40. | 39. Sugárterápia | 60 hó | 24 hó | 36 hó |
+
+| 41. | 40. Szemészet | 56 hó | 24 hó | 32 hó |
+
+| 42. | 41. Szívsebészet | 72 hó | 24 hó | 48 hó |
+
+| 43. | 42. Szülészet-nőgyógyászat | 60 hó | 24 hó | 36 hó |
+
+| 44. | 43. Transzfuziológia | 48 hó | 24 hó | 24 hó |
+
+| 45. | 44. Tüdőgyógyászat | 60 hó | 24 hó | 36 hó |
+
+| 46. | 45. Urológia | 60 hó | 24 hó | 36 hó |
+
+2. Szakorvosi ráépített szakképesítések
+
+|  | A | B | C |
+
+| 1. | Szakképzés megnevezése | Bemeneti szakképesítés | Képzési idő |
+
+| 2. | 1. Addiktológia | gyermek- és ifjúságpszichiátria, pszichiátria | (60) +25 hó |
+
+| 3. | aneszteziológia és intenzív terápia, belgyógyászat, csecsemő- és gyermekgyógyászat, háziorvostan, neurológia, oxyológia és sürgősségi orvostan, tüdőgyógyászat | (36-60) + 25 hó |
+
+| 4. | 2. Allergológia és klinikai immunológia | belgyógyászat, bőrgyógyászat, csecsemő- és gyermekgyógyászat, fül-orr-gégegyógyászat, infektológia, neurológia, reumatológia, sebészet, szemészet, szülészet-nőgyógyászat, transzfuziológia, tüdőgyógyászat | (48-72) +24 hó |
+
+| 5. | 3. Andrológia | urológia | (60) +24 hó |
+
+| 6. | belgyógyászat, bőrgyógyászat, csecsemő- és gyermekgyógyászat, szülészet-nőgyógyászat | (60) +48 hó |
+
+| 7. | 4. Csecsemő- és gyermek fül-orr-gégegyógyászat | fül-orr-gégegyógyászat | (60) +24 hó |
+
+| 8. | 5. Csecsemő- és gyermekgyógyászati intenzív terápia | aneszteziológia és intenzív terápia, csecsemő- és gyermekgyógyászat | (60) +24 hó |
+
+| 9. | 6. Csecsemő- és gyermek-kardiológia | csecsemő- és gyermekgyógyászat | (60) +36 hó |
+
+| 10. | 7. Diagnosztikus cytológia | patológia | (60) +24 hó |
+
+| 11. | 8. Egészségbiztosítás | bármely alap szakképesítés | (36-72) +24 hó |
+
+| 12. | 9. Endokrinológia és anyagcsere-betegségek | belgyógyászat | (60) +24 hó |
+
+| 13. | csecsemő- és gyermekgyógyászat | (60) +24 hó |
+
+| 14. | szülészet-nőgyógyászat | (60) +24 hó |
+
+| 15. | 10. Gyermek gasztroenterológia | csecsemő- és gyermekgyógyászat | (60) +24 hó |
+
+| 16. | 11. Gyermek hemato-onkológia | csecsemő- és gyermekgyógyászat | (60) +36 hó |
+
+| 17. | 12. Gyermek-neurológia | csecsemő- és gyermekgyógyászat | (60) +42 hó |
+
+| 18. | neurológia | (60) +24 hó |
+
+| 19. | 13. Gyermek-nőgyógyászat | szülészet-nőgyógyászat | (60) +36 hó |
+
+| 20. | 14. Gyermek-radiológia | radiológia | (60) +24 hó |
+
+| 21. | csecsemő- és gyermekgyógyászat | (60) +30 hó |
+
+| 22. | 15. Gyermek-tüdőgyógyászat | csecsemő- és gyermekgyógyászat | (60) +25 hó |
+
+| 23. | 16. Igazságügyi pszichiátria | pszichiátria | (60) +36 hó |
+
+| 24. | gyermek- és ifjúság-pszichiátria | (60) +36 hó |
+
+| 25. | 17. Intenzív terápia | belgyógyászat, kardiológia, neurológia, tüdőgyógyászat | (60) +24 hó |
+
+| 26. | 18. Iskola-egészségtan és ifjúságvédelem | belgyógyászat, foglalkozás-orvostan | (48-60) +33 hó |
+
+| 27. | csecsemő- és gyermekgyógyászat, háziorvostan | (36-60) +24 hó |
+
+| 28. | 19. Kézsebészet | gyermeksebészet, ortopédia és traumatológia (ortopédia, traumatológia), sebészet | (72) +24 hó |
+
+| 29. | 20. Klinikai farmakológia | bármely alap szakképesítés | (36-72) +25 hó |
+
+| 30. | 21. Klinikai neurofiziológia | aneszteziológia és intenzív terápia, csecsemő- és gyermekgyógyászat, gyermek- és ifjúság-pszichiátria, idegsebészet, neurológia, pszichiátria | (60-72) +24 hó |
+
+| 31. | 22. Laboratóriumi hematológia és immunológia | orvosi laboratóriumi diagnosztika | (60) +24 hó |
+
+| 32. | transzfuziológia | (48) +24 hó |
+
+| 33. | 23. Molekuláris genetikai diagnosztika | igazságügyi orvostan, klinikai genetika, orvosi laboratóriumi diagnosztika, orvosi mikrobiológia, patológia | (60) +24 hó |
+
+| 34. | 24. Munkahigiéné | foglalkozás orvostan, megelőző orvostan és népegészségtan | (48) +24 hó |
+
+| 35. | 25. Neonatológia | csecsemő- és gyermekgyógyászat | (60) +24 hó |
+
+| 36. | 26. Neuroradiológia | radiológia | (60) +24 hó |
+
+| 37. | 27. Nőgyógyászati onkológia | szülészet-nőgyógyászat | (60) +36 hó |
+
+| 38. | 28. Orvosi rehabilitáció | Mozgásszervi területen: bármely alap szakképesítés | (36-72) +24 hó |
+
+| 39. | Kardiológia területen: kardiológia | (60) +25 hó |
+
+| 40. | Gyermekgyógyászat területen: csecsemő- és gyermekgyógyászat | (60) +25 hó |
+
+| 41. | Pszichiátria területen: gyermek- és ifjúságpszichiátria, pszichiátria | (60) +24 hó |
+
+| 42. | Pulmonológia területen: tüdőgyógyászat | (60) +25 hó |
+
+| 43. | 29. Pszichoterápia | gyermek- és ifjúság-pszichiátria, pszichiátria | (60) +24 hó |
+
+| 44. | bármely alap szakképesítés | (36-72) +36 hó |
+
+| 45. | 30. Sportorvostan | bármely alap szakképesítés | (36-72) +24 hó |
+
+| 46. | 31. Trópusi betegségek | belgyógyászat, infektológia | (60) +24 hó |
+
+3. Szakfogorvosi szakképesítések
+
+|  | A | B | C | D |
+
+| 1. | Szakképzés megnevezése | Képzési idő | Törzsképzés | Szakgyakorlati idő |
+
+| 2. | 1. Dento-alveoláris sebészet | 36 hó | 26 hó | 10 hó |
+
+| 3. | 2. Fogszabályozás | 36 hó | 26 hó | 10 hó |
+
+| 4. | 3. Gyermekfogászat | 36 hó | 26 hó | 10 hó |
+
+| 5. | 4. Konzerváló fogászat és fogpótlástan | 36 hó | 26 hó | 10 hó |
+
+| 6. | 5. Parodontológia | 36 hó | 26 hó | 10 hó |
+
+4. Szakgyógyszerészi alap szakképesítések
+
+|  | A | B | C | D | E |
+
+| 1. | Szakirányok | Szakképesítés megnevezése | Képzési idő | Törzs-képzés | Szak. gyak. |
+
+| 2. | 1. Gyógyszer-ellátási szak-gyógyszerészet | 1.1. Gyógyszertár üzemeltetés, vezetés | 36 hó | 12 hó | 24 hó |
+
+| 3. | 1.2. Gyógyszerészi gondozás | 36 hó | 12 hó | 24 hó |
+
+| 4. | 1.3. Gyógyszerkészítés | 36 hó | 12 hó | 24 hó |
+
+| 5. | 1.4. Gyógyszertári minőségbiztosítás | 36 hó | 12 hó | 24 hó |
+
+| 6. | 1.5. Fitoterápia | 36 hó | 12 hó | 24 hó |
+
+| 7. | 1.6. Gyógyszerügyi szakigazgatás | 36 hó | 12 hó | 24 hó |
+
+| 8. | 1.7. Farmakológia, farmakoterápia | 36 hó | 12 hó | 24 hó |
+
+| 9. | 2. Kórházi-klinikai szak-gyógyszerészet | 2.1. Kórházi-klinikai szakgyógyszerészet | 36 hó | 12 hó | 24 hó |
+
+| 10. | 2.2. Klinikai laboratóriumi gyógyszerészet | 58 hó | 24 hó | 34 hó |
+
+| 11. | 2.3. Klinikai mikrobiológiai laboratóriumi gyógyszerészet | 60 hó | 24 hó | 36 hó |
+
+| 12. | 3. Ipari szak-gyógyszerészet | 3.1. Gyógyszertechnológia | 36 hó | 12 hó | 24 hó |
+
+| 13. | 3.2. Gyógyszerellenőrzés | 36 hó | 12 hó | 24 hó |
+
+| 14. | 3.3. Minőségbiztosítás | 36 hó | 12 hó | 24 hó |
+
+| 15. | 3.4. Nem klinikai és klinikai gyógyszerkutatás, farmakológia | 36 hó | 12 hó | 24 hó |
+
+| 16. | 3.5. Gyógyszer-engedélyezés | 36 hó | 12 hó | 24 hó |
+
+| 17. | 3.6. Farmakovigilancia | 36 hó | 12 hó | 24 hó |
+
+| 18. | 3.7. Hatóanyagkutatás és gyógyszerkémia | 36 hó | 12 hó | 24 hó |
+
+| 19. | 3.8. Növényi alapú szerek fejlesztése és előállítása, farmakognózia | 36 hó | 12 hó | 24 hó |
+
+| 20. | 3.9. Biológiai gyógyszerek fejlesztése és előállítása, gyógyszer-biotechnológia | 36 hó | 12 hó | 24 hó |
+
+| 21. | 3.10. Radiogyógyszerészet | 36 hó | 12 hó | 24 hó |
+
+5. Szakgyógyszerészi ráépített szakképesítések
+
+|  | A | B | C |
+
+| 1. | Szakképzés megnevezése | Bemeneti szakképesítés | Képzési idő |
+
+| 2. | 1. Onkológiai gyógyszerészet | Kórházi-klinikai gyógyszerészet | (36 hó) +24 hó |
+
+| 3. | 2. Infektológiai gyógyszerészet | Kórházi-klinikai gyógyszerészet | (36 hó) +24 hó |
+
+| 4. | 3. Pediátriai gyógyszerészet | Kórházi-klinikai gyógyszerészet | (36 hó) +24 hó |
+
+| 5. | 4. Gyógyszer-információ és terápiás tanácsadás | Kórházi-klinikai gyógyszerészet | (36 hó) +24 hó |
+
+| 6. | 5. Parenterális gyógyszerelés | Kórházi-klinikai gyógyszerészet | (36 hó) +24 hó |
+
+| 7. | 6. Toxikológia | Kórházi-klinikai gyógyszerészet, Klinikai laboratóriumi gyógyszerészet | (36-58 hó) +24 hó |
+
+| 8. | 7. Klinikai radiogyógyszerészet | Kórházi-klinikai gyógyszerészet | (36 hó) +24 hó |
+
+6. Szakpszichológusi alap szakképesítések
+
+|  | A | B | C |
+
+| 1. | Szakképzés megnevezése | Bemeneti szakképesítés | Képzési idő |
+
+| 2. | 1. Felnőtt klinikai és mentálhigiéniai szakpszichológia | - egységes osztatlan képzésben szerzett pszichológusi oklevél, - pszichológia MA, - egészségpszichológia MSc | 48 hó |
+
+| 3. | 2. Gyermek- és ifjúsági klinikai és mentálhigiéniai szakpszichológia | - egységes osztatlan képzésben szerzett pszichológusi oklevél, - pszichológia MA, - egészségpszichológia MSc | 48 hó |
+
+| 4. | 3. Neuropszichológiai szakpszichológia | - egységes osztatlan képzésben szerzett pszichológusi oklevél, - pszichológia MA, - egészségpszichológia MSc | 48 hó |
+
+| 5. | 4. Alkalmazott egészségpszichológiai szakpszichológia | - egységes osztatlan képzésben szerzett pszichológusi oklevél, - pszichológia MA | 36 hó |
+
+7. Szakpszichológusi ráépített szakképesítések
+
+|  | A | B | C |
+
+| 1. | Szakképzés megnevezése | Bemeneti szakképesítés | Képzési idő |
+
+| 2. | 1. Klinikai addiktológiai szakpszichológia | felnőtt klinikai és mentálhigiéniai szakpszichológia, gyermek- és ifjúsági klinikai és mentálhigiéniai szakpszichológia | 24 hó |
+
+| 3. | neuropszichológiai szakpszichológia, alkalmazott egészségpszichológiai szakpszichológia | 36 hó |
+
+| 4. | 2. Pszichoterápia | felnőtt klinikai és mentálhigiéniai szakpszichológia, gyermek- és ifjúsági klinikai és mentálhigiéniai szakpszichológia | 24 hó |
+
+| 5. | neuropszichológiai szakpszichológia, alkalmazott egészségpszichológiai szakpszichológia | 36 hó |
+
+8. Egyéb egészségügyi felsőfokú szakirányú szakképesítések
+
+|  | A | B | C |
+
+| 1. | Szakképzés megnevezése | Bemeneti szakképesítés | Képzési idő |
+
+| 2. | 1. Alap szakképesítések |
+
+| 3. | 1.1. Klinikai biokémia | Kémia, biológia, laboratóriumi diagnosztika (egyetemi végzettség vagy MSc) | 48 hó |
+
+| 4. | 1.2. Klinikai mikrobiológia | Biológia (egyetemi végzettség vagy MSc) | 48 hó |
+
+| 5. | 1.3. Klinikai sugárfizika | Fizikus, fizikatanár, villamosmérnök, egészségügyi mérnök (egyetemi végzettség vagy MSc) | 48 hó |
+
+| 6. | 2. Ráépített szakképesítések |
+
+| 7. | 2.1. Molekuláris biológiai diagnosztika | klinikai mikrobiológia, klinikai biokémia | 24 hó |
