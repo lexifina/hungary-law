@@ -1,7 +1,9 @@
-5. § (1)[^3]
+5. § (1)[^6]
 
-(2) A Kr. 8/A. számú melléklete a 2. melléklet szerint módosul.
+(2)[^7]
 
-(3) A Kr. 28. számú melléklete a 3. melléklet szerint módosul.
+(3)[^8]
 
-[^3]: Az 5. § (1) bekezdése a 7. § (2) bekezdése alapján 2012. október 2-án lép hatályba.
+[^6]: Az 5. § (1) bekezdése a 7. § (2) bekezdése alapján 2012. október 2-án lép hatályba.
+[^7]: Az 5. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 5. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
