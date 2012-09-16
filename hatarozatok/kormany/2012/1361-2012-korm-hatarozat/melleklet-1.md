@@ -1,40 +1,4 @@
-## 1. A megtett úttal arányos elektronikus díjszedési rendszer bevezetéséről szóló 1138/2012. (V. 3.) Korm. határozat 1. pont e) alpontja helyébe a következő rendelkezés lép:
-
-## (A Kormány a megtett úttal arányos elektronikus díjszedési rendszer bevezetése érdekében egyetért azzal, hogy a külön jogszabályban meghatározott, díjszedéssel érintett országos közutak használatáért fizetendő útdíjak mértékét a megtett távolsággal arányosan kell megállapítani arra figyelemmel, hogy)
-
-## „e) a D1 és B2 díjkategóriák vonatkozásában továbbra is érvényben marad az időtartamhoz kötött gyorsforgalmi út használati díjfizetési rendszer;”
-
-## 2. A megtett úttal arányos elektronikus díjszedési rendszer bevezetéséről szóló 1138/2012. (V. 3.) Korm. határozat
-
-## a) 3. pont e) alpontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „e) felhívja a nemzeti fejlesztési minisztert, hogy intézkedjen az országos közutak használatáért fizetendő, megtett távolsággal arányos útdíjak beszedésére alkalmas, az ellenőrzést is magában foglaló integrált elektronikus díjszedési rendszer kiépítéséhez szükséges eszközöknek az éles üzem indulásától számított egy évig tartó bevezetés támogatással és ezt követően a szerződés megszűnéséig tartó infrastruktúra-támogatással együttesen történő beszerzésével kapcsolatos közbeszerzési eljárásnak a Magyar Állam javára eljárva történő, az Állami Autópálya Kezelő Zrt. mint ajánlatkérő általi megindításáról és ez alapján a közbeszerzési eljárás keretében a szerződés megkötéséről;
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: azonnal”
-
-## b) 3. pontja a következő h) alponttal egészül ki:
-
-## (A Kormány)
-
-## „h) felhívja a nemzeti fejlesztési minisztert, hogy intézkedjen annak érdekében, hogy az e) pont szerinti közbeszerzés keretében beszerzésre kerülő eszközök a Magyar Állam tulajdonába, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdésében foglaltak alapján az Állami Autópálya Kezelő Zrt. tulajdonosi joggyakorlásába kerüljenek legalább a közbeszerzési eljárás eredményeként megkötésre kerülő szerződés időbeli hatályának időtartamára;
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: azonnal (a Magyar Államot megillető tulajdonosi jogok és kötelezettségek gyakorlójának kijelölésére vonatkozó rendelet kiadására)”
-
-## c) 3. pontja a következő i) alponttal egészül ki:
-
-## (A Kormány)
-
-## „i) felhívja a nemzeti fejlesztési minisztert, hogy a megtett úttal arányos díjszedési rendszer megvalósítása során gondoskodjon az európai uniós forrásokból történő finanszírozásba történő utólagos bevonás lehetőségéről.
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: folyamatosan”
+## 1–2.[^1]
 
 ## 3. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy a hálózati kiterjesztésre, a települési és az országos tranzitforgalom kezelésére vonatkozó díjpolitikai javaslatoknak (amelyek értelmében az M0 és az azon belüli gyorsforgalmi szakaszok, valamint az M31 kivételével a teljes gyorsforgalmi hálózat díjköteles a 3,5 tonna feletti tehergépjármű kategória számára) a díjszedési rendszer beszerzésének ajánlati dokumentációjába történő beépítése érdekében járjon el.
 
@@ -82,9 +46,7 @@
 
 ## Határidő: 2012. október 12.
 
-## 10. A Kormány visszavonja a Magyar Fejlesztési Bank tőkehelyzetének rendezéséről szóló 1398/2011. (XI. 18.) Korm. határozat módosításáról szóló 1117/2012. (IV. 21.) Korm. határozatot.
-
-## 11. A Kormány visszavonja a megtett úttal arányos elektronikus díjszedési rendszer bevezetéséről szóló 1138/2012. (V. 3.) Korm. határozat 1. pont j) alpontját és 3. pont a) alpont ab) alpontját.
+## 10–11.[^2]
 
 ## 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -103,3 +65,6 @@
 | J4 | gyorsforgalmi | 85,34 |
 
 | főutak | 53,23 |
+
+[^1]: Az 1–2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 10–11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
