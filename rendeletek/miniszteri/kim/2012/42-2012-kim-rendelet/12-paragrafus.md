@@ -1,5 +1,3 @@
-## 11. § Az R. 12. §-a helyébe a következő rendelkezés lép:
+## 5–11. §[^5]
 
-## „12. § (1) A vizsgabizottság a sikeres részvizsgáról az 1. melléklet szerinti tanúsítványt állít ki. A jogi szakvizsgáról az utolsó sikeres részvizsga letételének napjától számított 30 napon belül a miniszter a 2. melléklet szerinti bizonyítványt állít ki. A bizonyítványon a jogi szakvizsga eredményét a 10. § szerinti értékelésnek megfelelően kell feltüntetni.
-
-## (2) Az elveszett vagy megsemmisült tanúsítvány vagy bizonyítvány pótlására a miniszter az erre irányuló kérelem beérkezésétől számított 15 munkanapon belül igazolást állít ki. Az igazolás kiállításának díja 10 000 Ft.”
+[^5]: A 5–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

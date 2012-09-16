@@ -1,5 +1,0 @@
-## „(2) A jelölt az írásbeli vizsga kezdetekor a vizsgafeladatok közül egyet húz, amelynek kidolgozására négy óra időtartam áll rendelkezésére. A vizsgán segédanyagként olyan papír alapú jogszabályszöveg használható, amely kizárólag a normaszöveget tartalmazza. A feladat kidolgozása során a vizsgabiztos által rendelkezésre bocsátott, bélyegzővel ellátott papír használható, amelyen a jelöltnek nevét fel kell tüntetnie. Az írásbeli vizsga alatt a helyiséget csak a vizsgaszabályzatban meghatározott esetekben és módon lehet elhagyni. A helyiség vizsgaszabályzatban foglaltaktól eltérő elhagyása esetén a vizsga érvénytelen. Érvénytelen vizsga esetén pótvizsgának van helye.
-
-## (3) Az írásbeli vizsgán a rendfenntartás a miniszter által kijelölt vizsgabiztos feladata. A jelölt a vizsgafeladat megoldását – aláírásával ellátva – a vizsgafeladattal együtt a vizsgabiztosnak adja át.
-
-## (4) Ha a jelölt az írásbeli vizsgára vonatkozó szabályokat megszegi a vizsgabiztos a jelölt vizsgáját felfüggeszti, és erről jegyzőkönyvet készít. Felfüggesztett vizsga esetén pótvizsgának van helye. ”
