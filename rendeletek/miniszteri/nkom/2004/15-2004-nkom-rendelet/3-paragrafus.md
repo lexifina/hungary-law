@@ -2,10 +2,12 @@
 
 (2) Az (1) bekezdésben megjelölt területen a középső paleolitikum idejéből származó település, kovabánya és kőfeldolgozó műhely maradványai és leletei találhatók, amelyek magyarországi és európai viszonylatban egyaránt kiemelkedő jelentőséggel bírnak. A régészeti védelem célja a föld felszíne alatt rejlő régészeti emlékek megőrzése, az Európa-hírű lelőhely kutathatóságának és bemutathatóságának biztosítása.
 
-(3) Régészeti védőövezetté nyilvánítom a Miskolc I. kerület 11646, 11647, 11648, 8864/14 és 13003 hrsz. alatt nyilvántartott kivett, beépítetlen terület művelési ágú ingatlanokat. A védőövezetté nyilvánítás célja az Európa-hírű régészeti lelőhely közvetlen környezete természetes állapotában való tájképi értékeinek megőrzése.
+(3)[^1]
 
 (4) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, továbbá tereprendezéshez.
 
 (5) Az örökségvédelmi bírság megállapításának szempontjából a kiemelten védett régészeti lelőhelyet az I. kategóriába sorolom.
 
 (6) Az (1) bekezdésben megjelölt ingatlanok esetében a Magyar Államot elővásárlási jog illeti meg.
+
+[^1]: A 3. § (3) bekezdését a 25/2012. (IX. 14.) EMMI rendelet 13. § (2) bekezdése hatályon kívül helyezte.
