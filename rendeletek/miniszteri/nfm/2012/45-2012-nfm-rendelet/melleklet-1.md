@@ -1,3 +1,5 @@
-## 10. § A közlekedésért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelöléséről szóló 60/2011. (XI. 25.) NFM rendelet 2. melléklete a 3. melléklet szerint módosul.
+## 10. §[^1]
 
 1. melléklet a 45/2012. (VIII. 2.) NFM rendelethez
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
