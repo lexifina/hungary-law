@@ -1,0 +1,7 @@
+A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 15. § (1) bekezdésében kapott felhatalmazás alapján,
+
+az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § j) pontjában meghatározott feladatkörömben eljárva,
+
+az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § s) és u) pontjában meghatározott feladatkörében eljáró belügyminiszterrel és az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § l) pontjában meghatározott feladatkörében eljáró vidékfejlesztési miniszterrel egyetértésben
+
+a következőket rendelem el:
