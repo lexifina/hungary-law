@@ -1,0 +1,71 @@
+## A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében az EU Duna Régió Stratégiáért Felelős Kormánybiztos Titkársága működésének szakmai feladatainak 2012. január 1. napjától 2012. december 31. napjáig történő ellátásához szükséges költségvetési előirányzatok biztosítása érdekében 13 410 ezer forint 1. melléklet szerinti átcsoportosítását rendeli el a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet 1. Közigazgatási és Igazságügyi Minisztérium igazgatása cím 1. Működési költségvetés előirányzat-csoport 3. Dologi kiadások kiemelt előirányzat terhére a Kvtv. XVIII. Külügyminisztérium fejezet 1. Külügyminisztérium központi igazgatása cím 1. Működési költségvetés előirányzat-csoport 3. Dologi kiadások kiemelt előirányzat javára.
+
+## Felelős: közigazgatási és igazságügyi miniszter külügyminiszter
+
+## nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+1. melléklet az 1376/2012. (IX. 17.) Korm. határozathoz
+
+| X. Közigazgatási és Igazságügyi Minisztérium XVIII. Külügyminisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2012. |
+
+| ezer forintban |
+
+| ÁHT egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 000505 |  | 1 |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | -13 410 |  |  |  |
+
+|  | XVIII. |  |  |  |  |  |  | Külügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004107 |  | 1 |  |  |  |  |  |  | Külügyminisztérium központi igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 13 410 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| ezer forintban |
+
+| ÁHT egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| ezer forintban |
+
+| ÁHT egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 000505 |  | 1 |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium igazgatása |  |  |  |  |  |  |  |  |  | -13 410 |  |  |  |
+
+|  | XVIII. |  |  |  |  |  |  | Külügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004107 |  | 1 |  |  |  |  |  |  | Külügyminisztérium központi igazgatása |  |  |  |  |  |  |  |  |  |  |  | 13 410 |  |  |  |
+
+|  | Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki |  |  |  |  | A támogatás folyósítása/zárolása (módosítása +/-) |  |  | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnali |  |  |  | 13 410 |  |  |  |  |  |  |  |  |  |  | 13 410 |  |
+
+| Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
