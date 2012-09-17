@@ -6,6 +6,6 @@
 
 (4) Az (1) bekezdésben meghatározott műemléki ingatlanra vonatkozóan a Magyar Államot elővásárlási jog illeti meg.
 
-(5)[^5] A védetté nyilvánítás célja az 1856-ban épült klasszicista evangélikus parókia építészeti értékeinek, településképben betöltött jelentős szerepének megőrzése.
+(5)[^7] A védetté nyilvánítás célja az 1856-ban épült klasszicista evangélikus parókia építészeti értékeinek, településképben betöltött jelentős szerepének megőrzése.
 
-[^5]: A 37. § (5) bekezdése a 32/2005. (XII. 22.) NKÖM rendelet 47. § (3) bekezdésének d) pontja szerint módosított szöveg.
+[^7]: A 37. § (5) bekezdése a 32/2005. (XII. 22.) NKÖM rendelet 47. § (3) bekezdésének d) pontja szerint módosított szöveg.
