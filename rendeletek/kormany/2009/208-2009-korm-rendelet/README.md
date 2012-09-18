@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-208-20-
 | 2011-01-01 | 2009-208-20-22.2 | 289/2010. (XII. 23.) Korm. rendelet |
 | 2011-10-02 | 2009-208-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-01-01 | 2009-208-20-22.4 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2012-09-18 | 2009-208-20-22.5 | 351/2010. (XII. 30.) Korm. rendelet |
