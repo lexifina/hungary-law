@@ -12,7 +12,7 @@ d) a Földmérési és Távérzékelési Intézetet,
 
 e) az Állami Ménesgazdaságot,
 
-f)[^397] a VM Vidékfejlesztési, Képzési és Szaktanácsadási Intézetét,
+f)[^397] a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézetet,
 
 g) a Magyar Mezőgazdasági Múzeumot,
 
@@ -61,7 +61,7 @@ c) a külügyminiszterrel egyetértésben a külképviseleti hálózatban dolgoz
 [^394]: A 112. §-t a 282/2011. (XII. 21.) Korm. rendelet 45. §-a hatályon kívül helyezte.
 [^395]: A 113. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^396]: A 113. § (1) bekezdés b) pontja a 23/2012. (II. 29.) Korm. rendelet 57. §-a szerint módosított szöveg.
-[^397]: A 113. § (1) bekezdés f) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^397]: A 113. § (1) bekezdés f) pontja a 264/2012. (IX. 17.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^398]: A 113. § (1) bekezdés k) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^399]: A 113. § (1) bekezdés p) pontját a 23/2012. (II. 29.) Korm. rendelet 64. § (3) bekezdés c) pontja hatályon kívül helyezte.
 [^400]: A 113. § (1) bekezdés t) pontja a 300/2011. (XII. 22.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
