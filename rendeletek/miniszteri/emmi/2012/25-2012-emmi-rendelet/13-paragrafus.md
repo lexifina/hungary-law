@@ -2,4 +2,6 @@
 
 13. § (1) Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
 
-(2) Hatályát veszti az egyes régészeti lelőhelyek védetté nyilvánításáról, illetve régészeti védettség megszüntetéséről szóló 15/2004. (VII. 27.) NKÖM rendelet 3. § (3) bekezdése.
+(2)[^1]
+
+[^1]: A 13. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
