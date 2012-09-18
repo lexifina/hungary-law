@@ -1,6 +1,6 @@
 ## 8. Ellenőrzés
 
-15. §[^25] (1) A fővárosi és megyei kormányhivatal a Khtv. 16. § (4) bekezdésében meghatározott ellenőrzési jogkörében ellátott ellenőrzési feladat- és hatáskörében
+15. §[^26] (1) A fővárosi és megyei kormányhivatal a Khtv. 16. § (4) bekezdésében meghatározott ellenőrzési jogkörében ellátott ellenőrzési feladat- és hatáskörében
 
 a) ellenőrzi a központi államigazgatási szervek területi szervei vezetőinek a kormánytisztviselői és a közalkalmazotti jogviszonnyal kapcsolatos munkáltatói intézkedései törvényességét, illetve külön jogszabályban meghatározottak szerint kormányzati szolgálati ellenőrzést végez,
 
@@ -20,4 +20,4 @@ f) gondoskodik a gazdaságos, egymást kiegészítő ellenőrzési módok kialak
 
 (4) A közigazgatás-szervezésért felelős miniszter gondoskodik az ellenőrzések tervezésének és végrehajtásának egységes rendjéről.
 
-[^25]: A 15. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^26]: A 15. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
