@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-258-20-
 | 2012-07-27 | 2011-258-20-22.13 | 174/2012. (VII. 26.) Korm. rendelet |
 | 2012-09-01 | 2011-258-20-22.14 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-09-02 | 2011-258-20-22.15 | 2010: CXXX. törvény |
+| 2012-09-18 | 2011-258-20-22.16 | 262/2012. (IX. 17.) Korm. rendelet |
