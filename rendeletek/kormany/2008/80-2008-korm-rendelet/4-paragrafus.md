@@ -6,7 +6,7 @@
 
 (3)[^5]
 
-(4)[^6] A Kormány az agrárgazdaság és agrár-vidékfejlesztési szakterületeken a szaktanácsadók tevékenységét engedélyező szervként és e tevékenység tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a Földművelésügyi és Vidékfejlesztési Minisztérium Vidékfejlesztési, Képzési és Szaktanácsadási Intézetet jelöli ki.
+(4)[^6] A Kormány az agrárgazdaság és agrár-vidékfejlesztési szakterületeken a szaktanácsadók tevékenységét engedélyező szervként és e tevékenység tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézetet jelöli ki.
 
 (5)[^7]
 
@@ -18,7 +18,7 @@
 
 [^4]: A 3. § a 23/2012. (II. 29.) Korm. rendelet 32. §-a szerint módosított szöveg.
 [^5]: A 4. § (3) bekezdése hatályát vesztette e rendelet 4. § (8) bekezdése alapján.
-[^6]: A 4. § (4) bekezdése a 99/2008. (IV. 29.) Korm. rendelet 2. § (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 619. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 4. § (4) bekezdése a 99/2008. (IV. 29.) Korm. rendelet 2. § (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 619. §-a, a 264/2012. (IX. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^7]: A 4. § (5) bekezdése hatályát vesztette e rendelet 4. § (8) bekezdése alapján.
 [^8]: A 4. § (7) bekezdése hatályát vesztette e rendelet 4. § (8) bekezdése alapján.
 [^9]: A 4. § (8) bekezdése a 99/2008. (IV. 29.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
