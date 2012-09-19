@@ -12,6 +12,10 @@ a) az egyéb, nem vagy nem kizárólag állami forrásból megvalósuló, átfog
 
 b) a „Sikeres Magyarországért Önkormányzati Infrastruktúrafejlesztési Hitelprogram – Beruházás a 21. század iskolájába” elnevezésű pályázat nyerteseinek fizetendő kamattámogatásokhoz és a pályázattal kapcsolatos kiegészítő költségekhez;
 
-c) sportszervezet által fenntartott állami, önkormányzati és egyéb tulajdonú sport célú ingatlanok működtetéséhez.
+c) sportszervezet által fenntartott állami, önkormányzati és egyéb tulajdonú sport célú ingatlanok működtetéséhez,
+
+d)[^3] sportszervezet részére az általa használt állami, önkormányzati tulajdonú sportcélú ingatlanok használatával összefüggő létesítményhasználati és közüzemi költségekhez, létesítmény- és helyszínbérleti díjakhoz, továbbá a használattal összefüggő, korábbi években felmerült létesítményhasználati és közüzemi költségekhez, létesítmény- és helyszínbérleti díjakhoz, amelyek kiegyenlítésére a sportszervezet részletfizetési kedvezményt kapott.
 
 (5) A „Sportlétesítmények fejlesztése és fenntartása” előirányzat terhére elő- és utófinanszírozással egyaránt nyújtható költségvetési támogatás, egyedi döntés alapján, a költségvetési támogatás egy összegben történő kifizetésével. A „Sportlétesítmények fejlesztése és fenntartása” előirányzat terhére biztosított költségvetési támogatás kedvezményezettje helyi önkormányzat, civil szervezet, gazdasági társaság és központi költségvetési szerv lehet.
+
+[^3]: Az 59. § (4) bekezdés d) pontját a 28/2012. (IX. 18.) EMMI rendelet 2. §-a iktatta be.

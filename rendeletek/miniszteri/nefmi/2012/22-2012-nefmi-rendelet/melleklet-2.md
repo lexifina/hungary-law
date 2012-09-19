@@ -1,61 +1,113 @@
 ## Összesített elszámolási táblázat
 
-| A. | B. |
+|  | A | B | C | D |
 
-| 1. Szervezet neve: |  |
+| 1. | Kedvezményezett neve: |  | Elszámolást ellenőrizte* |  |
 
-| 2. Támogatási szerződés iktatási száma: |  |
+| 2. | Az elszámolás összeállítójának neve, telefonszáma, e-mail címe: |  | Dátum* | . |
 
-| 3. Feladat megnevezése: |  |
+| 3. | Szerződés összege: |  | Aláírás* |  |
 
-| 4. Szerződés szerinti támogatási összeg: |  |
+| 4. | Elszámolandó támogatás összege: |  |  |  |
 
-| 5. Korábban elszámolt összeg: |  |
+|  | A | B | C | D | E | F | G | H | I |
 
-| 6. Az elszámolás módja |  |
+| 1. | Szerződéshez mellékletként csatolt KÖLTSÉGTERV fő sorai | csatolt számla sorszáma | Számla / bizonylat adatai | A számlán szereplő összegből a támogatás terhére elszámolt összeg | Támogató tölti ki! | A költségterv egyes fő soraiban igényelt támogatás | Előző részletek elszámolásában elfogadott összeg | Támogatásra elszámolt − összesen | Eltérés összege/ %-a |
 
-| (az ÁFA-levonási nyilatkozatnak megfelelően, aláhúzandó) | Bruttó Nettó |
+| CA Számla sorszáma | CB Teljesítés dátuma | CC A bizonylatot kiállító (Szállító) neve | CD Termék /szolgáltatás megnevezése | CE Számla összege** (Ft) |
 
-| A. Sorszám | B. Bizonylatszám | C. Számla kibocsátója | D. Megnevezés/ felhasználás | E. Teljesítés időpontja | F. Számla értéke | G. Elszámolt érték |
+| 2. | Bérköltség, egyéb személyi jellegű kifizetések | 2.1 |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1. |  |  |  |  |  |  |
+| 2.2 |  |  |  |  |  |  |  |
 
-| 2. |  |  |  |  |  |  |
+| 2.3 |  |  |  |  |  |  |  |
 
-| 3. |  |  |  |  |  |  |
+| 2.4 |  |  |  |  |  |  |  |
 
-| 4. |  |  |  |  |  |  |
+| 3. | Munkaadókat terhelő járulékok | 3.1 |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5. |  |  |  |  |  |  |
+| 3.2 |  |  |  |  |  |  |  |
 
-| 6. |  |  |  |  |  |  |
+| 3.3 |  |  |  |  |  |  |  |
 
-| 7. |  |  |  |  |  |  |
+| 3.4 |  |  |  |  |  |  |  |
 
-| 8. |  |  |  |  |  |  |
+| 4. | Anyagköltség, készletbeszerzés | 4.1 |  |  |  |  |  |  |  |  |  |  |  |
 
-| 9. |  |  |  |  |  |  |
+| 4.2 |  |  |  |  |  |  |  |
 
-| 10. |  |  |  |  |  |  |
+| 4.3 |  |  |  |  |  |  |  |
 
-|  |  |  | ÖSSZESEN: |  |  |  |
+| 4.4 |  |  |  |  |  |  |  |
 
-## Büntetőjogi felelősségem tudatában kijelentem, hogy az alább felsorolt számlák hitelesek és csak a Nemzeti Erőforrás Minisztérium/MOB1 felé, a ....................................... iktatószámú szerződéssel kapcsolatban lettek elszámolva.
+| 5. | Szellemi tevékenység költségei, szakértői, előadói díjak | 5.1 |  |  |  |  |  |  |  |  |  |  |  |
 
-## Igazolom, hogy az összesített elszámolásban foglaltak a hatályos pénzügyi és számviteli előírások szerint kerültek felhasználásra, kifizetésre és könyvelésre.
+| 5.2 |  |  |  |  |  |  |  |
 
-## Igazolom, hogy az összesített elszámolásban feltüntetett költségek kifizetése előtt azok jogosságáról és összegszerűségéről – ellenszolgáltatás teljesítését követően esedékes kifizetés előtt ezen felül az ellenszolgáltatás teljesítéséről is – előzetesen meggyőződtem.
+| 5.3 |  |  |  |  |  |  |  |
 
-## Az elszámolás kelte: .......................................................
+| 5.4 |  |  |  |  |  |  |  |
 
-## P. H.
+| 6. | Bérleti díjak | 6.1 |  |  |  |  |  |  |  |  |  |  |  |
 
-## ...................................................................................
+| 6.2 |  |  |  |  |  |  |  |
 
-## a képviseletre jogosult személy aláírása
+| 6.3 |  |  |  |  |  |  |  |
 
-## ____________
+| 6.4 |  |  |  |  |  |  |  |
 
-## 1 A megfelelő támogatót aláhúzással kell jelölni.
+| 7. | Rezsi jellegű kiadások | 7.1 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 7.2 |  |  |  |  |  |  |  |
+
+| 7.3 |  |  |  |  |  |  |  |
+
+| 7.4 |  |  |  |  |  |  |  |
+
+| 8. | Szállítási, utazási költségek | 8.1 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 8.2 |  |  |  |  |  |  |  |
+
+| 8.3 |  |  |  |  |  |  |  |
+
+| 8.4 |  |  |  |  |  |  |  |
+
+| 9. | Egyéb szolgáltatások vásárlása | 9.1 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 9.2 |  |  |  |  |  |  |  |
+
+| 9.3 |  |  |  |  |  |  |  |
+
+| 9.4 |  |  |  |  |  |  |  |
+
+| 10. | Egyéb dologi kiadások | 10.1 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 10.2 |  |  |  |  |  |  |  |
+
+| 10.3 |  |  |  |  |  |  |  |
+
+| 10.4 |  |  |  |  |  |  |  |
+
+| 11. | Beruházás | 11.1 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 11.2 |  |  |  |  |  |  |  |
+
+| 11.3 |  |  |  |  |  |  |  |
+
+| 11.4 |  |  |  |  |  |  |  |
+
+| 12. | Felújítás | 12.1 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 12.2 |  |  |  |  |  |  |  |
+
+| 12.3 |  |  |  |  |  |  |  |
+
+| 12.4 |  |  |  |  |  |  |  |
+
+| 13. | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | * Támogató tölti ki! **Áfa-visszaigénylés esetén a "Számla összege" oszlopban az Áfa nélküli (nettó) összeget kell szerepeltetni. |  |  |  |  |  |  |
+
+|  | Büntetőjogi felelősségem tudatában kijelentem, hogy a fent felsorolt számlák hitelesek és csak az Emberi Erőforrások Minisztériuma/MOB1 felé, a ....................................... iktatószámú szerződéssel kapcsolatban lettek elszámolva. Kijelentem, hogy a támogatásként elszámolt fenti összeg a támogatási szerződésben foglaltaknak megfelelően került felhasználásra. Kijelentem, hogy a csatolt bizonylatok másolatai az eredetivel mindenben megegyeznek. Igazolom, hogy az összesített elszámolásban foglaltak a hatályos pénzügyi és számviteli előírások szerint kerültek felhasználásra, kifizetésre és könyvelésre. Igazolom, hogy az összesített elszámolásban feltüntetett költségek kifizetése előtt azok jogosságáról és összegszerűségéről – ellenszolgáltatás teljesítését követően esedékes kifizetés előtt ezen felül az ellenszolgáltatás teljesítéséről is – előzetesen meggyőződtem. Ha a támogatás felhasználása során közbeszerzési eljárás lefolytatására sor került, az elszámoláshoz mellékelni kell az ellenőrzéshez (az eljárás beazonosításához) szükséges valamennyi adatot. Az elszámolás kelte: ....................................................... P. H. ................................................................................... a képviseletre jogosult személy aláírása |
 
 2. melléklet a 22/2012. (IV. 11.) NEFMI rendelethez
