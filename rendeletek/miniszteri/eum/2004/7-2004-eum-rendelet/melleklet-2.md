@@ -6,13 +6,13 @@
 
 ## – vérnyomásmérő,
 
-## –[^21] sorozatgyártású optikai termékek a kontaktlencse kivételével,
+## –[^22] sorozatgyártású optikai termékek a kontaktlencse kivételével,
 
 ## – sorozatgyártású lúdtalpbetét,
 
-## –[^22] vizeletfelszívó és defekálási segédeszközök.
+## –[^23] vizeletfelszívó és defekálási segédeszközök.
 
 2. számú melléklet a 7/2004. (XI. 23.) EüM rendelethez
 
-[^21]: Az 1. számú melléklet negyedik francia bekezdése a 25/2005. (VI. 29.) EüM rendelet 5. §-a (1) bekezdésének a) pontjával megállapított szöveg.
-[^22]: Az 1. számú melléklet hatodik francia bekezdését a 8/2008. (III. 4.) EüM rendelet 16. §-a iktatta be. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően benyújtott gyógyászati segédeszköz vények esetében kell alkalmazni.
+[^22]: Az 1. számú melléklet negyedik francia bekezdése a 25/2005. (VI. 29.) EüM rendelet 5. §-a (1) bekezdésének a) pontjával megállapított szöveg.
+[^23]: Az 1. számú melléklet hatodik francia bekezdését a 8/2008. (III. 4.) EüM rendelet 16. §-a iktatta be. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően benyújtott gyógyászati segédeszköz vények esetében kell alkalmazni.
