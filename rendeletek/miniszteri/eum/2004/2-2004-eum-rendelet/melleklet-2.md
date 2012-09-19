@@ -1,4 +1,4 @@
-2. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez[^24]
+2. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez[^25]
 
 I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi szakmák és kódjaik jegyzéke
 
@@ -620,4 +620,4 @@ h) 8-as kódot kell alkalmazni, amennyiben a működési engedély az adott egé
 
 II. A működési engedélyek kiadásának alapjául szolgáló ellátási formák jegyzéke
 
-[^24]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított szöveg.
+[^25]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított szöveg.
