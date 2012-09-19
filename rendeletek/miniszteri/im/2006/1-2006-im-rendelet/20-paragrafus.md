@@ -6,9 +6,9 @@
 
 (4) A (2) és (3) bekezdés szerint kell eljárni akkor is, ha a területi áldozatsegítő szolgálat a visszatérítendő összeg megfizetésére részletfizetést vagy halasztást engedélyezett.
 
-(5)[^36] Az e rendelet szerinti beazonosíthatatlan befizetést a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálata a befizetés beazonosításáig, de legfeljebb 5 évig függő tételként kezeli, majd jóváírja az áldozatsegítés célelőirányzata javára.
+(5)[^36] Az e rendelet szerinti beazonosíthatatlan befizetést a Közigazgatási és Igazságügyi Hivatal a befizetés beazonosításáig, de legfeljebb 5 évig függő tételként kezeli, majd jóváírja az áldozatsegítés célelőirányzata javára.
 
 [^33]: A 20. § (1) bekezdése a 48/2009. (IX. 28.) IRM rendelet 30. § (4) bekezdés f) pontja, a 13/2010. (XII. 28.) BM rendelet 2. § (7) bekezdése szerint módosított szöveg.
 [^34]: A 20. § (2) bekezdése a 48/2009. (IX. 28.) IRM rendelet 9. § (7) bekezdésével megállapított szöveg. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^35]: A 20. § (3) bekezdése a 48/2009. (IX. 28.) IRM rendelet 30. § (4) bekezdés g) pontja szerint módosított szöveg. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^36]: A 20. § (5) bekezdése a 23/2011. (VII. 21.) BM rendelet 2. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^36]: A 20. § (5) bekezdése a 43/2012. (IX. 18.) KIM rendelet 9. §-a szerint módosított szöveg.
