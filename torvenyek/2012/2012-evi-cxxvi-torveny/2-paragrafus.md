@@ -1,12 +1,18 @@
 2. § E törvény alkalmazásában
 
-a) gazda: Magyarország területén lakóhellyel, tartózkodási hellyel, illetve székhellyel vagy telephellyel rendelkező agrárgazdasági tevékenységet folytató természetes személy, ide értve az egyéni vállalkozót is;
+a) gazda: Magyarország területén lakóhellyel, tartózkodási hellyel, illetve székhellyel vagy telephellyel rendelkező agrárgazdasági tevékenységet folytató őstermelő vagy egyéni vállalkozó;
 
-b) gazdálkodó szervezet: Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező agrárgazdasági tevékenységet főtevékenységként folytató jogi személy vagy jogi személyiség nélküli gazdasági társaság, egyéb állami gazdálkodó szerv, egyéni cég, szövetkezet, egyesülés, egyes jogi személyek vállalata, leányvállalat, erdő-birtokossági társulat, európai szövetkezet, európai részvénytársaság;
+b) gazdálkodó szervezet: Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező
+
+ba) élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott és agrárgazdasági tevékenységet folytató,
+
+bb) a ba) pont szerinti feltételek hiányában agrárgazdasági tevékenységet főtevékenységként folytató
+
+jogi személy vagy jogi személyiség nélküli gazdasági társaság, egyéb állami gazdálkodó szerv, egyéni cég, szövetkezet, egyesülés, egyes jogi személyek vállalata, leányvállalat, erdőbirtokossági társulat, európai szövetkezet, európai részvénytársaság;
 
 c) agrárkamara tagja: a kamarai tagjegyzékbe bejegyzett gazda, gazdálkodó szervezet;
 
-d) agrárgazdasági tevékenység: az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek, a mezőgazdasági termelés, a mezőgazdasági termékek feldolgozása, a szőlő termelése, feldolgozása, az erdőgazdálkodás, a halgazdálkodás, a vadgazdálkodás, az élelmiszer feldolgozása, valamint az ezekhez kapcsolódó, közvetlen ipari, kereskedelmi, szolgáltató tevékenységek;
+d) agrárgazdasági tevékenység: az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek, a mezőgazdasági termelés, a mezőgazdasági termékek feldolgozása, a szőlő termelése, feldolgozása, az erdőgazdálkodás, a halgazdálkodás, a vadgazdálkodás, az élelmiszer feldolgozása, valamint az ezekhez kapcsolódó, közvetlen ipari, kereskedelmi, szolgáltató tevékenységek, amelyekre vonatkozóan közigazgatási szerv nyilvántartási kötelezettsége kiterjed;
 
 e) gazdasági kamara: a kereskedelmi és iparkamara és az agrárkamara;
 

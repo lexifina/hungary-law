@@ -16,4 +16,4 @@ d) a mikro-, kis-, és középvállalkozásokért, valamint az általános agrá
 
 (4) Az alapszabály az alelnököket felhatalmazhatja az agrárkamara általános vagy meghatározott ügyekben történő képviseletére.
 
-(5) Az elnök és az alelnökök az agrárkamarával munkaviszonyban álló választott tisztségviselők, akik feladatuk elvégzése során a törvényeknek, valamint az agrárkamara alapszabályának és más önkormányzati szabályzatának alávetve az agrárkamara érdekében járnak el. A munkáltatói jogokat a jogviszony létesítése és megszüntetése tekintetében az országos küldöttgyűlés, egyebekben az elnökség gyakorolja.
+(5) Az elnök és az alelnökök feladatukat csak személyesen láthatják el, feladatuk elvégzése során a törvényeknek, valamint az agrárkamara alapszabályának és más önkormányzati szabályzatának alávetve az agrárkamara érdekében járnak el. Az elnök és az alelnökök alkalmazásával összefüggésben a jogviszony létesítése és megszüntetése tekintetében az országos küldöttgyűlés, egyebekben az elnökség határoz.

@@ -20,7 +20,7 @@ ca) jogutód nélkül megszűnik,
 
 cb) az agrárgazdasági tevékenység körébe tartozó főtevékenységét megszünteti.
 
-(2) Az (1) bekezdés b) pont bb) alpontja, valamint c) pont cb) alpontja szerinti esetben az agrárkamarai tagság az agrárkamarához történt bejelentésben megjelölt időpontban szűnik meg.
+(2) Az (1) bekezdés b) pont bb) alpontja, valamint c) pont cb) alpontja szerinti esetben az agrárkamarai tagság az agrárkamarához történt bejelentésben megjelölt időpontban szűnik meg, amely időpont nem lehet korábbi az agrárgazdasági tevékenység körébe tartozó tevékenység megszüntetésénél.
 
 (3) Az agrárkamarai tagsági viszony megszűnésével a volt kamarai tagot a kamara törli a tagokról vezetett nyilvántartásból.
 

@@ -4,9 +4,9 @@
 
 41. § (1) Az agrárkamara a közfeladatai ellátásával, illetve működésével járó költségeket a következő bevételekből fedezi:
 
-a) tagdíjakból;
+a) tagdíjból;
 
-b) kamarai hozzájárulásból;
+b)
 
 c) az agrárkamara szolgáltatásaiért fizetett díjakból;
 

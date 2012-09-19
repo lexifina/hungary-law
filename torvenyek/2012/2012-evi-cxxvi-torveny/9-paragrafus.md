@@ -8,7 +8,7 @@ b) küldöttnek vagy a testületi szervek tagjának válasszák,
 
 c) a küldöttgyűlésben vagy a testületi szervekben tisztséget viseljen,
 
-d) az agrárkamara tisztségviselőitől tájékoztatást kérjen,
+d) az agrárkamara tisztségviselőitől a feladatkörükbe tartozó kérdésben tájékoztatást kérjen,
 
 e) bármely agrárkamarai ügyben véleményt nyilvánítson és javaslatot tegyen,
 

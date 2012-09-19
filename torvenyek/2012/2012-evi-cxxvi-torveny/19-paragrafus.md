@@ -20,7 +20,7 @@ g) az éves saját bevételt meghaladó kölcsön felvételéről való döntés
 
 h) az agrárkamara éves költségvetésének meghatározásáról, az éves beszámoló és mérleg elfogadásáról való döntéshozatal;
 
-i) a kamarai tagdíj és a kamarai hozzájárulás mértékéről és megfizetésének módjáról való döntéshozatal;
+i) a kamarai tagdíj mértékéről és megfizetésének módjáról való döntéshozatal;
 
 j) az agrárkamara elnökének, alelnökeinek, az elnökség, valamint az ellenőrző és az etikai bizottság tagjainak megválasztása és visszahívása.
 

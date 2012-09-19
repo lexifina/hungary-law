@@ -4,9 +4,9 @@
 
 ## A kamarai tagsági viszony keletkezése
 
-5. § (1) Az agrárkamara létrejöttének napján e törvény erejénél fogva az agrárkamara tagjává válnak az ezen időpontban agrárgazdasági tevékenységet folytató személyek.
+5. § (1)
 
-(2) Az (1) bekezdésben foglalt időpontot követően kamarai tagság e törvény alapján:
+(2) Kamarai tagság e törvény alapján:
 
 a) őstermelő esetében az őstermelői igazolvány kiállításával;
 
@@ -15,6 +15,12 @@ b) egyéni vállalkozó esetén bármely agrárgazdasági tevékenység végzés
 c) bármely agrárgazdasági tevékenységet főtevékenységként folytató, egyéni vállalkozónak nem minősülő gazdálkodó szervezet esetében a cégbírósági bejegyzéssel
 
 keletkezik.
+
+(2a) Közös őstermelői igazolvány kiváltása esetén az agrárkamara tagjaként azt a gazdát kell nyilvántartásba venni, akinek a nevére a közös őstermelői igazolványt kiállították.
+
+(2b) Amennyiben a gazda egyidejűleg őstermelőként és egyéni vállalkozóként is folytat agrárgazdasági tevékenységet, agrárkamarai tagsági viszonyát az általa tett nyilatkozat alapján csak az egyik jogviszonya alapulvételével kell megállapítani.
+
+(2c) Amennyiben az egyéni vállalkozó agrárgazdasági tevékenységét szünetelteti, agrárkamarai tagsági viszonya az agrárgazdasági tevékenysége folytatása napján keletkezik.
 
 (3) Ha a (2) bekezdés c) pontja hatálya alá tartozó gazdálkodó szervezet az agrárgazdasági tevékenység körébe tartozó tevékenységét a cégbejegyzést megelőzően megkezdi, a cégbejegyzés kérelmezésével egyidejűleg köteles az agrárkamaránál bejelentkezni. Ebben az esetben az agrárkamara ideiglenesen nyilvántartásba veszi az érintett gazdálkodó szervezetet, amelyet az agrárkamarai tag jogai illetnek meg és kötelezettségei terhelnek.
 
@@ -33,3 +39,13 @@ c) a Magyar Vadászkamarának vagy más vadászati szakmai szervezet országos v
 d) valamelyik hegyközségnek,
 
 és e tagságával összefüggő tevékenységén kívül más agrárgazdasági tevékenységet nem folytat.
+
+(7) Amennyiben
+
+a) a (6) bekezdés szerint érintett személy,
+
+b) az agrárgazdaság fejlesztéséről szóló törvény szerint nyilvántartásba vett szaktanácsadási szolgáltatást nyújtó szaktanácsadó,
+
+c) az elismert LEADER Helyi Akciócsoport tagja,
+
+az alapszabályban meghatározottak szerint önkéntesen vállal agrárkamarai tagságot, ugyanazok a jogok illetik, illetve kötelezettségek terhelik, mint akiknek agrárkamarai tagsági viszonya a törvény alapján keletkezett.

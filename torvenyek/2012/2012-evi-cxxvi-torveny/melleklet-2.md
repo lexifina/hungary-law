@@ -683,3 +683,35 @@ Zöldterület-kezelés
 |
 
 Növény-, állatkert, természetvédelmi terület működtetése
+
+|
+
+4631
+
+|
+
+Zöldség-gyümölcs nagykereskedelem
+
+|
+
+4632
+
+|
+
+Hús, húskészítmény nagykereskedelem
+
+|
+
+4633
+
+|
+
+Tejtermék, tojás, zsiradék nagykereskedelem
+
+|
+
+4635
+
+|
+
+Dohányáru nagykereskedelem
