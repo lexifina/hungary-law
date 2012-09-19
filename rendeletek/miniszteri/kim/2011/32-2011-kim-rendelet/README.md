@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-32-20-2
 | --- | --- | --- |
 | 2011-11-19 | 2011-32-20-2T.1 | 32/2011. (XI. 18.) KIM rendelet |
 | 2012-02-28 | 2011-32-20-2T.2 | 9/2012. (II. 27.) KIM rendelet |
+| 2012-09-19 | 2011-32-20-2T.3 | 43/2012. (IX. 18.) KIM rendelet |

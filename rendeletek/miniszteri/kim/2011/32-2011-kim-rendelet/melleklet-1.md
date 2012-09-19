@@ -1,6 +1,6 @@
 ## 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 32/2011. (XI. 18.) KIM rendelethez[^4]
+1. melléklet a 32/2011. (XI. 18.) KIM rendelethez[^5]
 
 A gyermekmeghallgató szobák nagyságával, felszereltségével és berendezésével összefüggő szakmai követelmények
 
@@ -18,4 +18,4 @@ A gyermekmeghallgató szobák nagyságával, felszereltségével és berendezés
 
 7. Az 1. § (1) és (2) bekezdése szerinti követelményeknek való megfelelést berendezési tárgyak, bútorok, függöny, valamint játszósarok kialakításával kell biztosítani.
 
-[^4]: Az 1. mellékletet a 9/2012. (II. 27.) KIM rendelet 4. §-a iktatta be.
+[^5]: Az 1. mellékletet a 9/2012. (II. 27.) KIM rendelet 4. §-a iktatta be.
