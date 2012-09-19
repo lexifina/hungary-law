@@ -1,6 +1,6 @@
-## 16. §[^9]
+## 16. §[^12]
 
-17. §[^10]
+17. §[^13]
 
-[^9]: A 16. § a (2) bekezdése alapján hatályát vesztette.
-[^10]: A 17. §-t a 16. § (1) bekezdése hatályon kívül helyezte.
+[^12]: A 16. § a (2) bekezdése alapján hatályát vesztette.
+[^13]: A 17. §-t a 16. § (1) bekezdése hatályon kívül helyezte.

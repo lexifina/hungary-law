@@ -1,4 +1,4 @@
-9/A. §[^5] (1) Az EFSZSZB 14 tagból és egy elnökből áll. Az EFSZSZB tagjait a miniszter úgy bízza meg, hogy abban,
+9/A. §[^8] (1) Az EFSZSZB 14 tagból és egy elnökből áll. Az EFSZSZB tagjait a miniszter úgy bízza meg, hogy abban,
 
 a) a Magyar Kórházszövetséget 1 tag,
 
@@ -32,4 +32,4 @@ k) az egészségügyi felsőfokú szakirányú szakképzés költségvetési for
 
 (5) Az EFSZSZB szükség szerint, de legalább évente nyolc alkalommal ülésezik.
 
-[^5]: A 9/A. §-t a 20/2011. (V. 10.) NEFMI rendelet 3. §-a iktatta be.
+[^8]: A 9/A. §-t a 20/2011. (V. 10.) NEFMI rendelet 3. §-a iktatta be.

@@ -16,7 +16,7 @@ b) Egészségügyi Minősítő Bizottság (a továbbiakban: EMB),
 
 c) Egészségügyi Szakképzési és Továbbképzési Bizottság (a továbbiakban: ESZTB),
 
-d)[^1] Egészségügyi Felsőfokú Szakirányú Szakképzési Bizottság (a továbbiakban: EFSZSZB).
+d)[^2] Egészségügyi Felsőfokú Szakirányú Szakképzési Bizottság (a továbbiakban: EFSZSZB).
 
 (3) Az ESZTT a feladat- és hatásköreit
 
@@ -28,4 +28,4 @@ b) az albizottságok
 
 (4) A Tanács, az albizottságok és a munkabizottságok működési rendjét az ESZTT ügyrendje (a továbbiakban: ESZTT ügyrendje) határozza meg, amelyet az egészségügyért felelős miniszter (a továbbiakban: miniszter) hagy jóvá.
 
-[^1]: Az 1. § (2) bekezdés d) pontját a 20/2011. (V. 10.) NEFMI rendelet 2. §-a iktatta be.
+[^2]: Az 1. § (2) bekezdés d) pontját a 20/2011. (V. 10.) NEFMI rendelet 2. §-a iktatta be.
