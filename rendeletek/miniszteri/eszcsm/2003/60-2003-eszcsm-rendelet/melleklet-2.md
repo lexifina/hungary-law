@@ -56,7 +56,7 @@
 
 ## s) a vér- és vérkészítményeket (beleértve a szállítást is).
 
-## 2.2. A járóbeteg-ellátást nyújtó egészségügyi szolgáltató a betegellátás folyamatossága érdekében az engedélyezett szakmák mindegyike számára saját szervezeti egységének működtetésével vagy működési engedéllyel rendelkező közreműködő egészségügyi szolgáltató bevonásával, vagy szerződés útján [kivéve: e), k), m) pont] biztosítja
+## 2.2. A járóbeteg-ellátást nyújtó egészségügyi szolgáltató a betegellátás folyamatossága érdekében az engedélyezett szakmák mindegyike számára saját szervezeti egységének működtetésével vagy működési engedéllyel rendelkező közreműködő egészségügyi szolgáltató bevonásával, vagy szerződés útján [kivéve: e), k) pont] biztosítja
 
 ## a) az asszisztenciát/ápolást,
 
@@ -152,7 +152,7 @@
 
 ## A heveny tünetek vagy sürgősségi ellátást igénylő kórkép miatt előre nem tervezett felvételre jelentkező vagy előzetes szakorvosi vizsgálat nélkül jelentkező, vagy beszállított beteg fogadására az aktív fekvőbeteg-ellátásra engedéllyel rendelkező egészségügyi szolgáltató
 
-## a) sürgősségi betegellátó osztályt köteles kialakítani a 2. mellékletben meghatározott „sürgősségi betegellátó egységben szervezett szakellátás” minimumfeltételei alapján,
+## a) sürgősségi betegellátó osztályt köteles kialakítani a 2. mellékletben meghatározott “sürgősségi betegellátó egységben szervezett szakellátás” minimumfeltételei alapján,
 
 ## b) az a) pontban meghatározott feltételekkel nem rendelkező szolgáltató beteg-fogadóhelyet köteles kialakítani az alábbi feltételek alapján:
 
@@ -186,33 +186,33 @@
 
 ## 6. A műtő egység általános minimumfeltételei
 
-## Az aneszteziológiai munkahely minimumfeltételei az 1501 szakmakód alatt
+## Az aneszteziológiai munkahely minimumfeltételei az 1501 szakmakód alatt találhatók
 
-|  | Kisműtő egység | Osztályos műtő egység | Központi Műtő Egység (önálló szervezeti egység) |
+|  | Kiemelt kezelő | Osztályos műtő egység | Központi Műtő Egység (önálló szervezeti egység) |
 
 | Személyi feltételek: |  |  |  |
 
 | Vezető műtős szakasszisztens | - | 1 fő | 1 fő |
 
-| Műtős szakasszisztens | 1/műtőasztal | 2/műtőasztal | 2/műtőasztal |
+| Műtős szakasszisztens |  | 2/műtőasztal | 2/műtőasztal |
 
-| Műtőssegéd | 1/műtőasztal | 2/műtőasztal | 2/műtőasztal |
+| Műtőssegéd |  | 2/műtőasztal | 2/műtőasztal |
 
 | Szakmai helyiségek: |  |
 
-| Személyzeti zsilip | 1 | 1 | 1 |
+| Személyzeti zsilip |  | 1 | 1 |
 
-| Betegzsilip/betegtartózkodó | 1 | 1 | 1 |
+| Betegzsilip/betegtartózkodó |  | 1 | 1 |
 
-| Betegelőkészítő2 | 1 | 1/műtőterem | 1/műtőterem |
+| Betegelőkészítő2 |  | 1/műtőterem | 1/műtőterem |
 
-| Orvosi csaptelep hideg-meleg vízzel | 1 | 1 | 1 |
+| Orvosi csaptelep hideg-meleg vízzel |  | 1 | 1 |
 
-| Kéz érintése nélkül működtethető (könyökkel, lábbal, szenzoros, stb.) szeradagoló | 2 | 2 | 2 |
+| Kéz érintése nélkül működtethető (könyökkel, lábbal, szenzoros, stb.) szeradagoló |  | 2 | 2 |
 
-| Falra szerelt papírtörölköző tartó | 1 | 1 | 1 |
+| Falra szerelt papírtörölköző tartó |  | 1 | 1 |
 
-| Bemosakodó2 | 1/műtőterem | 1 db legalább 2 műtőteremhez | 1 db legalább 2 műtőteremhez |
+| Bemosakodó2 |  | 1 db legalább 2 műtőteremhez | 1 db legalább 2 műtőteremhez |
 
 | Orvosi csaptelep hideg-meleg vízzel | 2 | 2 | 2 |
 
@@ -220,9 +220,11 @@
 
 | Falra szerelt papírtörölköző tartó | 1 | 1 | 1 |
 
-| Műtőterem1 | 1 | 1 | 2 |
+| Műtőterem1 |  | 1 | 2 |
 
-| Ébredő/megfigyelő helyiség | 1 | 1 | 1 központi |
+| Kiemelt kezelő | 1 |  |  |
+
+| Ébredő/megfigyelő helyiség |  | 1 | 1 központi |
 
 | Sterilanyag raktár | elkülönített szekrény | 1 | 1 |
 
@@ -234,11 +236,11 @@
 
 | Szennyes anyag-eszköz előkészítő | 1 | 1 | 1 |
 
-| Szennyes-, és szemét tároló | 1 | 1 | 1 |
+| Szennyes- és szemét tároló | 1 | 1 | 1 |
 
 | Személyi tartózkodó | - | 1 | 1 |
 
-| Mosdók | 1 | 1 | 1 |
+| Mosdók |  | 1 | 1 |
 
 | Adminisztrációs helyiség | - | - | 1 |
 
@@ -246,9 +248,9 @@
 
 ## 1 A műtőteremnek a bemosakodó helyiséggel és a beteg-előkészítővel közvetlen kapcsolatban kell lennie.
 
-## 2 A helyiségek a „zöld zóna” tisztafolyosójáról kell, hogy nyíljanak.
+## 2 A helyiségek a “zöld zóna” tisztafolyosójáról kell, hogy nyíljanak.
 
-## 6.1. A műtőterem általános minimumfeltételei
+## 6.1. A műtőterem/kiemelt kezelő általános minimumfeltételei
 
 | Tárgyi feltételek: |  |
 
@@ -260,23 +262,23 @@
 
 | Mobil műtőlámpa | X |
 
-| Központi vagy egyedi gázellátó | X |
+| Központi vagy egyedi gázellátó | X* |
 
-| Nagysebészeti altatógép, lélegeztetővel, monitorral | X |
+| Nagysebészeti altatógép, lélegeztetővel, monitorral | X* |
 
-| Műtéti észlelő EKG rendszer + monitor | X |
+| Műtéti észlelő EKG rendszer + monitor | X* |
 
-| Infúziós pumpa + állvány | X |
+| Infúziós pumpa + állvány | X* |
 
-| Mobil röntgen és/vagy tv képerősítő rendszer | EL |
+| Mobil röntgen és/vagy tv képerősítő rendszer | EL* |
 
-| Nagyfrekvenciájú vágó- és elektrocoaguláló készülék | X |
+| Nagyfrekvenciájú vágó- és elektrocoaguláló készülék | X* |
 
 | Műszerasztal gördíthető (fékezhető) | X |
 
 | Műszerelőasztal, Sonnenburg (fékezhető) | X |
 
-| Operatőri szék (karos, állítható) | X |
+| Operatőri szék (karos, állítható) | X* |
 
 | Műszerasztal fix | X |
 
@@ -286,25 +288,29 @@
 
 | Sterildoboz tároló és állvány | X |
 
-| Röntgenfilmnéző szekrény vagy digitális röntgenarchívumhoz csatlakozó nagy monitor | X |
+| Röntgenfilmnéző szekrény vagy digitális röntgenarchívumhoz csatlakozó nagy monitor | X* |
 
-| Vérkészítmény tárolására alkalmas hűtő | X |
+| Vérkészítmény tárolására alkalmas hűtő | X* |
 
 | Gyógyszer tárolására alkalmas hűtő | X |
 
-| Vérkészítmény melegítő készülék | X |
+| Vérkészítmény melegítő készülék | X* |
 
-| Sugárvédő ólomgumikötények, egyéb védőeszközök | X |
+| Sugárvédő ólomgumikötények, egyéb védőeszközök | X* |
 
-| Defibrillátor (mobil) műtőtraktusonként | X |
+| Defibrillátor (mobil) műtőtraktusonként | X* |
 
-| Központi szívó | X |
+| Központi szívó | X* |
 
-| Izoláló állvány | X |
+| Izoláló állvány | X* |
 
-| Ledobó állvány | X |
+| Ledobó állvány | X* |
 
-| Tolókocsi | X |
+| Tolókocsi | X* |
+
+## Megjegyzés:
+
+## *kiemelt kezelő esetén nem szükséges
 
 ## 6.2. Ébredő-megfigyelő helyiség minimumfeltételei
 
@@ -712,9 +718,13 @@
 
 ## 10. Sterilanyag-ellátás minimumfeltételei
 
-## A sterilanyag-ellátás közreműködő szolgáltató útján történő biztosítása csak akkor lehetséges, ha a közreműködő szolgáltatónál az e rendelet szerinti minimumfeltételek legalább az azonos ellátási szintnek megfelelően biztosítottak és a sterilizálás folyamata tanúsított minőségügyi rendszerrel felügyelt.
+## A sterilanyag-ellátás közreműködő szolgáltató útján történő biztosítása csak akkor lehetséges, ha a közreműködő szolgáltatónál az e rendelet szerinti minimumfeltételek legalább az azonos ellátási szintnek megfelelően biztosítottak és a sterilizálás folyamata minőségügyi rendszerrel felügyelt.
 
-## 2K10134_7
+## A sterilanyag-eszköz előállítás az egészségügyi szolgáltatás nyújtása során sterilen alkalmazandó orvostechnikai eszközök biztosítása, ideértve a vonatkozó honosított harmonizált szabványok és irányelvek alapján, a felhasználás helyén végzett sterilanyag-eszköz előállítást is. A felhasználás helye lehet bármely közvetlen betegellátást nyújtó szervezeti egység.
+
+## A Központi Sterilizáló Egység az egészségügyi szolgáltató teljes körűen sterilanyag-eszköz előállítást, ellátást végző önálló szervezeti egysége, ahol minőségügyi rendszer alkalmazásával felügyelten a teljes újrafelhasználhatóvá tételi ciklus – a szennyanyag átvételétől a sterilanyag kiadásig – végbemegy.
+
+## 2K20337M_7
 
 |  | Kategóriák |
 
@@ -738,7 +748,7 @@
 
 | 1. Szakmai helyiségek19 | rendelő* | rendelőintézet | gyógyintézet | KSE |
 
-| 1.1. „Szennyes oldali” anyagátvevő | - | - | 1 | 1 |
+| 1.1. “Szennyes oldali” anyagátvevő | - | - | 1 | 1 |
 
 | 1.2. Előkészítő helyiségek |  |
 
@@ -858,7 +868,7 @@
 
 ## 3 Amennyiben a sterilizáló berendezés falba épített, kétoldali átadós rendszerű, úgy a csomagoló helyiség sterilanyag raktárral közös fala előtti tér annak tekinthető.
 
-## 4Az Országos Epidemiológiai Központ által kiadott, érvényben lévő Tájékoztató „a sterilizálásról” című kiadvány szerint.
+## 4Az Országos Epidemiológiai Központ által kiadott, érvényben lévő Tájékoztató “a sterilizálásról” című kiadvány szerint.
 
 ## 5Egy helyiségben, térben elkülönítve megoldható.
 
@@ -902,7 +912,7 @@
 
 ## X: szükséges
 
-2. melléklet a 60/2003. (X. 20.) ESZCSM rendelethez[^41]
+2. melléklet a 60/2003. (X. 20.) ESZCSM rendelethez[^47]
 
 A TEVÉKENYSÉGEK VÉGZÉSÉHEZ SZÜKSÉGES MINIMUMFELTÉTELEK
 
@@ -1258,7 +1268,7 @@ Az otthonlélegeztetés központjait ott kell kialakítani, ahol a tartós léle
 
 | Aneszteziológiai és/vagy intenzív terápiás szakorvos | 1 |
 
-| A szakdolgozói létszám a 3. mellékletben az ITO I. szintre meghatározottak szerint (ápoló, dietetikus, gyógytornász) |  |
+| A szakdolgozói létszám a 3. mellékletben az intermedier care-re meghatározottak szerint (ápoló, dietetikus, gyógytornász) |  |
 
 | Tárgyi feltételek: az osztály általános feltételei + |  |
 
@@ -1334,7 +1344,7 @@ Malignus folyamat miatti műtétek csak megfelelő diagnosztikus háttérrel, ko
 
 A 24 óránál hosszabb idejű bent tartózkodást igénylő összes sebészeti műtét elvégzésére alkalmas osztály, mely a személyi és tárgyi feltételeknek megfelel.
 
-15 ágynál kisebb ágyszámmal is működtethető.
+15 ágynál kisebb ágyszámmal is működtethető .
 
 Minimum ágyszám: 7
 
@@ -1932,7 +1942,7 @@ Szakambulancia minimumfeltételei megegyeznek az adott szintű fekvőbeteg ellá
 
 Szakrendelés/Szakambulancia
 
-Alapszintű járóbeteg/ambulancia kategóriájú haematológiai ellátás, amelyet valamennyi belgyógyászati fekvő, vagy járóbeteg ellátó intézménynek biztosítania kell. Döntően „rutin vérkép, véralvadás vizsgálatok”, az egyszerűbb haematológiai betegségek járóbetegkénti gondozása, egyszerűbb belgyógyászati szövődmények fekvőbeteg ellátása, melyet az adott ellátást nyújtó valamennyi egészségügyi szolgáltatónál biztosítani kell.
+Alapszintű járóbeteg/ambulancia kategóriájú haematológiai ellátás, amelyet valamennyi belgyógyászati fekvő, vagy járóbeteg ellátó intézménynek biztosítania kell. Döntően “rutin vérkép, véralvadás vizsgálatok”, az egyszerűbb haematológiai betegségek járóbetegkénti gondozása, egyszerűbb belgyógyászati szövődmények fekvőbeteg ellátása, melyet az adott ellátást nyújtó valamennyi egészségügyi szolgáltatónál biztosítani kell.
 
 Fekvőbeteg szakellátás
 
@@ -2852,7 +2862,7 @@ Minimum ágyszám: 15
 
 |  | Progresszivitási szint |
 
-|  | I. Szakrendelés | II. Szakmbulancia |
+|  | I. Szakrendelés | II. Szakambulancia |
 
 | Személyi feltételek: |  |  |
 
@@ -2862,7 +2872,7 @@ Minimum ágyszám: 15
 
 | Endoszkópos asszisztens | 1 | 1 |
 
-| Általános szakasszisztens | 1 | 1 |
+| Általános szakasszisztens | 1* | 1 |
 
 | Endoszkópos vizsgálóegység: a rendelő általános feltételei + | 1 | EL |
 
@@ -2898,9 +2908,9 @@ Minimum ágyszám: 15
 
 | Haemo-clip rögzítő |  | 1 |
 
-| Idegentestfogó | 1 | 2 |
+| Idegentestfogó | 1* | 2 |
 
-| Citológiás kefe | - | 1 |
+| Citológiás kefe |  | 1 |
 
 | Gastrofiberoscop és/vagy videogastroscop | 1 | 1 |
 
@@ -2912,7 +2922,7 @@ Minimum ágyszám: 15
 
 | Videomagnó vagy egyéb képrögzítő rendszer | 1 | 1 |
 
-| UH tisztító | 1 | 1 |
+| UH tisztító | 1* | 1 |
 
 | Mobil szívó | 1 | 1 |
 
@@ -2929,8 +2939,6 @@ Minimum ágyszám: 15
 | Intenzív osztály |  | EL |
 
 | Aneszteziológiai osztály |  | EL |
-
-| Gasztroenterológiai ultrahang diagnosztika | Szakmakód: | 5305 |
 
 Lásd. ULTRHANG DIAGNOSZTIKA főcsoport 5305 szakmakód alatt
 
@@ -3130,11 +3138,11 @@ Minimum ágyszám: 10
 
 | Ambulancia, vizsgálóhelyiség | 1-1 | 1-1 |
 
-| Változtatható magasságú vizsgáló ágy | 1 | 1 |
+| Változtatható fejtámla magasságú vizsgáló ágy | 1 | 1 |
 
-| Változtatható magasságú ágy | minden beteg számára | minden beteg számára |
+| Változtatható fejtámla magasságú ágy | minden beteg számára | minden beteg számára |
 
-| Vibrációs- pneumatikus antidecubitus matrac | 1 | 1 |
+| Antidecubitus matrac | 1 | 1 |
 
 | Szilikonos antidecubitus matrac | 5 | 5 |
 
@@ -3472,9 +3480,7 @@ Szatellit dialízis ellátó hely:
 
 1 nephrológus szakorvos, HD, esetleg PD modalitás.
 
-II. szint
-
-Dialízis központ:
+II. szintDialízis központ:
 
 2 nephrológus szakorvos, HD és PD modalitás, fekvőbeteg-szakellátás.
 
@@ -3664,7 +3670,7 @@ Ezen kategórián belül a progresszivitás legfelsőbb fokát az egyetemi oktat
 
 Minimum ágyszám: 15
 
-2K12288M_56
+2K20337N_56
 
 | Bőrgyógyászati osztály minimumfeltételei |
 
@@ -3956,19 +3962,7 @@ A fentieken kívül olyan specialitásokat, szubdiszciplinákat képes biztosít
 
 | Gyermeksebészet |  |  | EL |
 
-| Csecsemő- és gyermekgyógyászat járóbeteg szakrendelés minimumfeltételei |
-
-| Személyi feltételek: |  |
-
-| Csecsemő- és gyermekgyógyász szakorvos | 1 |
-
-| Cecsemő- és gyermekgyógyász szakorvosi gyakorlattal és az érintett szubdiszciplinából ráépített szakvizsgával rendelkező szakorvos | 1 |
-
-| Általános asszisztens/szakasszisztens/csecsemő- és gyermek ápoló | 1 |
-
-| Tárgyi feltételek: |  |
-
-| A rendelő általános feltételei | X |
+Csecsemő- és gyermekgyógyászat nappali ellátás minimumfeltételei
 
 Összevont csecsemő- és gyermekosztályokon speciális ellátásként végezhető szubspecialitások
 
@@ -4064,4 +4058,4 @@ A legmagasabb szintű, a szakmai minimum feltételek által meghatározott kis s
 
 A III.-as szintnek megfelelő tevékenységeken kívül őssejt-transzplantáció végzése önállóan vagy intézményen belüli kooperációval.
 
-[^41]: A 2. melléklet az 1/2012. (V. 31.) EMMI rendelet 9. § (2) bekezdésével megállapított, a 6/2012. (VI. 28.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^47]: A 2. melléklet az 1/2012. (V. 31.) EMMI rendelet 9. § (2) bekezdésével megállapított, a 6/2012. (VI. 28.) EMMI rendelet 1. §-a, a 27/2012. (IX. 18.) EMMI rendelet 9. § (2) bekezdése szerint módosított szöveg.
