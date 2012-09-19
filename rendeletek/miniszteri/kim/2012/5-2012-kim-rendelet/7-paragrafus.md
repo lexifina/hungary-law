@@ -1,5 +1,3 @@
-## 6. § A támogatott civil szervezet a támogatás felhasználásáról és a támogatási szerződés teljesítéséről szakmai beszámolót és pénzügyi elszámolást (továbbiakban együtt: elszámolás) köteles a szerződésben megjelölt határidőben és módon benyújtani. Az elszámolási határidőt úgy kell megállapítani, hogy az elszámolásra a támogatási időszak lezárását követő harminc napon belül, de legkésőbb az 1. melléklet szerinti napot követő harmincadik napig sor kerüljön.
-
 7. § (1) Az Alapkezelő az elszámolást a kézhezvételt követő negyvenöt napon belül megvizsgálja. Szabályszerű elszámolás esetén a kézhezvételt követő hatvan napon belül értesíti az elszámolás benyújtóját az elszámolás elfogadásáról. A döntéshozó részére az el nem fogadott elszámolással kapcsolatos előterjesztés az elszámolás kézhezvételét követő hatvan napon belül kerül megküldésre.
 
 (2) A döntéshozó az (1) bekezdés szerinti előterjesztés kézhezvételétől számított tizenöt napon belül dönt a szakmai beszámoló

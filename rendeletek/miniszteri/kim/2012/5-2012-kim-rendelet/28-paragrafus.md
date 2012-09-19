@@ -1,4 +1,4 @@
-## 27. § A Civil tv. 64. §-a szerinti alapkezelő a Wekerle Sándor Alapkezelő.
+## 27. §[^2] A Civil tv. 64. §-a szerinti alapkezelő az Emberi Erőforrás Támogatáskezelő.
 
 28. § (1) Az Alapkezelő feladata különösen:
 
@@ -33,3 +33,5 @@ n) testületei tagok költségátalánya és költségtérítése adminisztráci
 o) az Alap pályázati kiírásaival, testületek működésével kapcsolatos tájékoztatás, információ szolgáltatás, valamint az Alap kezelésével összefüggő egyéb feladatok ellátása.
 
 (2) Az Alapkezelő feladata, hogy folyamatosan biztosítsa az Alappal kapcsolatos nyilvántartások és a hivatalos honlap adatainak koherenciáját.
+
+[^2]: A 27. § a 28/2012. (IX. 18.) EMMI rendelet 5. §-a szerint módosított szöveg.
