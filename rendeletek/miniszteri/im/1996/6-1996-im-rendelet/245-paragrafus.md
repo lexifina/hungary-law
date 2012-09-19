@@ -1,8 +1,8 @@
 245. § (1) Az előzetesen letartóztatott által a büntetőeljáráshoz kapcsolódóan írt, vagy a részére érkezett leveleket és iratokat a címzettnek az intézet küldi el, illetve kézbesíti.
 
-(2)[^228] Az előzetesen letartóztatottat – kérelmére, a rendelkezési jogkör gyakorlójának intézkedése alapján – az intézet irattanulmányozásra előállítja. Az intézetben történő irattanulmányozásra felügyelet mellett kerül sor.
+(2)[^229] Az előzetesen letartóztatottat – kérelmére, a rendelkezési jogkör gyakorlójának intézkedése alapján – az intézet irattanulmányozásra előállítja. Az intézetben történő irattanulmányozásra felügyelet mellett kerül sor.
 
-(3)[^229]
+(3)[^230]
 
-[^228]: A 245. § (2) bekezdése a 18/2002. (XI. 30.) IM rendelet 65. §-ával megállapított szöveg.
-[^229]: A 245. § (3) bekezdését a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^229]: A 245. § (2) bekezdése a 18/2002. (XI. 30.) IM rendelet 65. §-ával megállapított szöveg.
+[^230]: A 245. § (3) bekezdését a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.

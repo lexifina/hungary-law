@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-6-20-06
 | 2010-11-24 | 1996-6-20-06.20 | 12/2010. (XI. 9.) KIM rendelet |
 | 2011-01-01 | 1996-6-20-06.21 | 10/2005. (VI. 16.) IM rendelet |
 | 2012-01-01 | 1996-6-20-06.22 | 41/2011. (XII. 30.) KIM rendelet |
+| 2012-09-19 | 1996-6-20-06.23 | 43/2012. (IX. 18.) KIM rendelet |

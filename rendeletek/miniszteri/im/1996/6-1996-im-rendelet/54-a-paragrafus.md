@@ -1,3 +1,3 @@
-## 54. §[^74]
+## 54. §[^75]
 
-[^74]: Az 54. §-t és az azt megelőző alcímet a 44/2007. (IX. 19.) IRM rendelet 13. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^75]: Az 54. §-t és az azt megelőző alcímet a 44/2007. (IX. 19.) IRM rendelet 13. § (2) bekezdésének a) pontja hatályon kívül helyezte.

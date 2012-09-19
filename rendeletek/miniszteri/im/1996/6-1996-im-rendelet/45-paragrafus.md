@@ -4,13 +4,13 @@
 
 a) biztonsági elkülönítés;
 
-b)[^57] különleges biztonságú zárkába, illetve körletre helyezés;
+b)[^58] különleges biztonságú zárkába, illetve körletre helyezés;
 
 c) a mozgást korlátozó eszközök alkalmazása;
 
 d) a személymotozás;
 
-e)[^58] a biztonsági ellenőrzés, a biztonsági vizsgálat és a biztonsági szemle;
+e)[^59] a biztonsági ellenőrzés, a biztonsági vizsgálat és a biztonsági szemle;
 
 f) az ajtók zárva tartásának elrendelése;
 
@@ -18,5 +18,5 @@ g) az egyes jogok gyakorlásának a Bv.tvr.-ben meghatározott felfüggesztése.
 
 (2) Indokolt esetben több biztonsági intézkedés együtt is alkalmazható.
 
-[^57]: A 45. § (1) bekezdésének b) pontja a 18/2002. (XI. 30.) IM rendelet 13. §-ának (1) bekezdésével megállapított szöveg.
-[^58]: A 45. § (1) bekezdésének e) pontja a 18/2002. (XI. 30.) IM rendelet 13. §-ának (2) bekezdésével megállapított szöveg.
+[^58]: A 45. § (1) bekezdésének b) pontja a 18/2002. (XI. 30.) IM rendelet 13. §-ának (1) bekezdésével megállapított szöveg.
+[^59]: A 45. § (1) bekezdésének e) pontja a 18/2002. (XI. 30.) IM rendelet 13. §-ának (2) bekezdésével megállapított szöveg.

@@ -1,8 +1,8 @@
 ## Különleges biztonságú zárkába,
 
-## illetve körletre helyezés[^60]
+## illetve körletre helyezés[^61]
 
-47. §[^61] (1) A IV. biztonsági csoportba sorolt elítélt különleges biztonságú zárkába, illetve körletre helyezhető.
+47. §[^62] (1) A IV. biztonsági csoportba sorolt elítélt különleges biztonságú zárkába, illetve körletre helyezhető.
 
 (2) Különleges biztonságú zárkába, illetve körletre helyezhető az elítélt akkor is, ha életének vagy testi épségének a védelme más módon nem biztosítható.
 
@@ -24,7 +24,7 @@ g) magánál tartható tárgyainak köre és mennyisége korlátozható.
 
 (4) A különleges biztonságú zárkában, illetve körleten elhelyezett elítéltre vonatkozó végrehajtási szabályokat a házirend tartalmazza.
 
-(5)–(6)[^62]
+(5)–(6)[^63]
 
 (7) A különleges biztonságú zárkába, illetve körletre helyezést az elrendelő haladéktalanul megszünteti, ha annak indokai már nem állnak fenn.
 
@@ -34,6 +34,6 @@ a) különleges biztonságú zárka: olyan sajátos szabályok alapján működt
 
 b) különleges biztonságú körlet: az országos parancsnok intézkedésében kijelölt intézetnek az e célra kialakított, különleges biztonságú zárkákból és a hozzájuk tartozó helyiségekből álló, elkülönített része, ahová az (1) és (2) bekezdésben meghatározott elítélt végrehajtási fokozattól függetlenül helyezhető el.
 
-[^60]: A 47. § előtti alcím a 18/2002. (XI. 30.) IM rendelet 15. §-ával megállapított szöveg.
-[^61]: A 47. § a 18/2002. (XI. 30.) IM rendelet 15. §-ával megállapított szöveg.
-[^62]: A 47. § (5)–(6) bekezdését a 2011: CL. törvény 91. §-a hatályon kívül helyezte.
+[^61]: A 47. § előtti alcím a 18/2002. (XI. 30.) IM rendelet 15. §-ával megállapított szöveg.
+[^62]: A 47. § a 18/2002. (XI. 30.) IM rendelet 15. §-ával megállapított szöveg.
+[^63]: A 47. § (5)–(6) bekezdését a 2011: CL. törvény 91. §-a hatályon kívül helyezte.

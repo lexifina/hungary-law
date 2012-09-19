@@ -1,4 +1,4 @@
-## 188/A. §[^166]
+## 188/A. §[^167]
 
 ## Előállítás egyéb bírósági ügyekben, illetve a közjegyzői eljárásban
 
@@ -10,4 +10,4 @@ b) az apaság és a származás megállapítása iránti perben személyes megje
 
 c) gondnokság alá helyezés iránti perben alperesként
 
-[^166]: A 188/A. §-t a 18/2002. (XI. 30.) IM rendelet 50. §-a iktatta be, a 11/2010. (III. 31.) IRM rendelet 43. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^167]: A 188/A. §-t a 18/2002. (XI. 30.) IM rendelet 50. §-a iktatta be, a 11/2010. (III. 31.) IRM rendelet 43. § (2) bekezdés a) pontja hatályon kívül helyezte.

@@ -1,8 +1,8 @@
 ## 206. § A nyomozásra kiadott elítélt szabadulásának az esedékessége előtt az intézet értesíti a kikérő szervet, hogy a megadott határidőre gondoskodjék az elítélt visszaszállításáról.
 
-## Az engedélyezett ideiglenes intézetelhagyásról vissza nem térő, valamint az intézetből megszökött, illetve engedély nélkül eltávozott elítéltekre vonatkozó eljárás[^191]
+## Az engedélyezett ideiglenes intézetelhagyásról vissza nem térő, valamint az intézetből megszökött, illetve engedély nélkül eltávozott elítéltekre vonatkozó eljárás[^192]
 
-206/A. §[^192] (1)[^193] Ha az elítélt részére az intézet ideiglenes elhagyását – büntetés-félbeszakítást [Bv. tvr. 22. § (2) bek.], rövidtartamú eltávozást [Bv. tvr. 41. § (3) bek.], kimaradást [Bv. tvr. 41/A. §], eltávozást [Bv. tvr. 28/A. § (3) bek. a) pont, 29. § (2) bek.], hozzátartozó temetésén való részvétel, illetve súlyos beteg hozzátartozó meglátogatása céljából felügyelet nélküli eltávozást [Bv. tvr. 22. § (3) bek.] (a továbbiakban együtt: ideiglenes intézetelhagyás) – engedélyezik, az arra való felkészítés során tájékoztatni kell arról, hogy a visszatérés elmulasztása esetén a Btk. 245. §-ának (2) bekezdése alapján fogolyszökés vétsége miatt büntethető.
+206/A. §[^193] (1)[^194] Ha az elítélt részére az intézet ideiglenes elhagyását – büntetés-félbeszakítást [Bv. tvr. 22. § (2) bek.], rövidtartamú eltávozást [Bv. tvr. 41. § (3) bek.], kimaradást [Bv. tvr. 41/A. §], eltávozást [Bv. tvr. 28/A. § (3) bek. a) pont, 29. § (2) bek.], hozzátartozó temetésén való részvétel, illetve súlyos beteg hozzátartozó meglátogatása céljából felügyelet nélküli eltávozást [Bv. tvr. 22. § (3) bek.] (a továbbiakban együtt: ideiglenes intézetelhagyás) – engedélyezik, az arra való felkészítés során tájékoztatni kell arról, hogy a visszatérés elmulasztása esetén a Btk. 245. §-ának (2) bekezdése alapján fogolyszökés vétsége miatt büntethető.
 
 (2) Amennyiben az ideiglenes intézetelhagyásról az elítélt az előírt jelentkezési határidőre nem tér vissza, a parancsnok haladéktalanul
 
@@ -16,6 +16,6 @@ c) fogolyszökés vétségének alapos gyanúja miatt feljelentést tesz az int�
 
 (4) Ha az elővezetés, az elfogatóparancs kibocsátása iránti intézkedés és a feljelentés megtételét követően az elítéltet az intézet befogadja, erről haladéktalanul értesíti a (2) és a (3) bekezdésben meghatározott szerveket.
 
-[^191]: A 206/A. § előtti alcímet a 18/2002. (XI. 30.) IM rendelet 54. §-a iktatta a szövegbe.
-[^192]: A 206/A. §-t a 18/2002. (XI. 30.) IM rendelet 54. §-a iktatta a szövegbe, e módosító rendelet 67. §-ának (2) bekezdése alapján 2003. január 1. napján szabadságvesztést töltő elítélt esetében a büntetés-félbeszakítás nem jogerős összbüntetés kapcsán előjegyzett napját törölni kell.
-[^193]: A 206/A. § (1) bekezdése a 24/2003. (VII. 1.) IM rendelet 27. §-a szerint módosított szöveg.
+[^192]: A 206/A. § előtti alcímet a 18/2002. (XI. 30.) IM rendelet 54. §-a iktatta a szövegbe.
+[^193]: A 206/A. §-t a 18/2002. (XI. 30.) IM rendelet 54. §-a iktatta a szövegbe, e módosító rendelet 67. §-ának (2) bekezdése alapján 2003. január 1. napján szabadságvesztést töltő elítélt esetében a büntetés-félbeszakítás nem jogerős összbüntetés kapcsán előjegyzett napját törölni kell.
+[^194]: A 206/A. § (1) bekezdése a 24/2003. (VII. 1.) IM rendelet 27. §-a szerint módosított szöveg.

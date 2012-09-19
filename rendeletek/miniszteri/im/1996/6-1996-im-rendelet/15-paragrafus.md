@@ -6,6 +6,6 @@ a) az intézet illetékességi területén – mint más intézetből jogellenes
 
 b) valamely hatósághoz történő előállítás, illetve gyógykezelés céljából, vagy a végrehajtás körében felmerült egyéb okból más intézet adta át, illetve az engedélyezett távollét után más intézetben jelentkezik, mint ahonnan elbocsátották.
 
-(2)[^13] A megőrzésre befogadott elítéltet a megőrzés okának megszűnését követően az intézetek közötti legközelebbi heti rendszeres szállítással a végrehajtásra kijelölt intézetbe kell szállítani.
+(2)[^14] A megőrzésre befogadott elítéltet a megőrzés okának megszűnését követően az intézetek közötti legközelebbi heti rendszeres szállítással a végrehajtásra kijelölt intézetbe kell szállítani.
 
-[^13]: A 15. § (2) bekezdése a 24/2003. (VII. 1.) IM rendelet 1. §-ával megállapított szöveg.
+[^14]: A 15. § (2) bekezdése a 24/2003. (VII. 1.) IM rendelet 1. §-ával megállapított szöveg.
