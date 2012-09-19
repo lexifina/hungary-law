@@ -2,6 +2,6 @@
 
 13. § (1) E rendelet a kihirdetését követő hónap első napján lép hatályba.
 
-(2)[^1]
+(2)[^2]
 
-[^1]: A 13. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 13. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
