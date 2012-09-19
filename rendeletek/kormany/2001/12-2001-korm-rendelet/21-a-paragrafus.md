@@ -1,14 +1,35 @@
-## de legfeljebb akkora összeggel, hogy az így csökkentett bevétel összege elérje az igénybevett közvetlen támogatások együttes összegének kétszeresét.
+21/A. §[^165] (1) Ha a lakás tulajdonosa a lakásigényét a lakás cseréjével, vagy a lakás elidegenítését követően másik lakás építése vagy vásárlása útján elégíti ki, a kedvezmény, adó-visszatérítési támogatás, vagy a fiatalok otthonteremtési támogatása visszafizetésével kapcsolatos kötelezettségét építési szándék esetében 3, vásárlási szándék esetében 1 évig a tulajdonos – a 21. § (4) bekezdése szerinti bejelentés megtételét követő legfeljebb 60 napon belül benyújtott – kérelme alapján a Kincstárnak a támogatással érintett ingatlan fekvésének helye szerint illetékes területi szerve felfüggeszti.
 
-21/A. §[^175] (1)[^176] A nem magyar állampolgár támogatott személy részére a közvetlen támogatások és a kamattámogatás a három hónapot meghaladó tartózkodási jog fennállásának időtartama alatt nyújtható, ha a Magyarország területén bejelentett lakóhellyel (szálláshellyel) rendelkezik. A tartózkodási jog fennállását évente január 31-éig kell a hitelintézet felé igazolni. A közvetlen támogatást, kamattámogatást igénybe vevő nem magyar állampolgár tartózkodási jogában bekövetkezett változást 8 napon belül köteles a támogatást folyósító hitelintézetnek bejelenteni.
+(2) Az (1) bekezdés szerinti felfüggesztés feltétele, hogy a támogatott személy az igénybevett támogatás összegét a „10032000-01501315 Kincstár lakáscélú kedvezmények letéti számlára” befizesse.
 
-(2) Amennyiben építés esetén a használatbavételi engedély megadását, vásárlás esetén az adásvételi szerződés megkötését követő 10 éven belül a nem magyar állampolgár támogatott személy tartózkodási joga megszűnik, és 2 hónapon belül nem kap a 18. § (2) bekezdés f) pontja szerinti tartózkodási jogot igazoló okmányt, vagy a 18. § (2) bekezdés g)–h) ponja szerinti tartózkodásra jogosító engedélyt, vagy nem szerez a 18. § (2) bekezdés i)–k) ponja szerinti jogállást az igénybe vett közvetlen támogatás összegének – a 10 évből még fennmaradó időtartamhoz viszonyított – arányos részét köteles visszafizetni. A 10 évből még fennmaradó időtartamot a tartózkodási jog megszűnését követő 2 hónapos határidő lejártától kell számítani.
+(3) Az (1) bekezdés szerinti felfüggesztés időtartamát az igénybevett támogatás összegének kincstári letéti számlára érkezésének napjától kell számítani.
 
-(3) Ha a (2) bekezdés alapján a közvetlen támogatás visszafizetésre kötelezett személy a 10 évből még fennmaradó időtartamon belül ismét a 18. § (2) bekezdés f) pontja szerinti tartózkodási jogot igazoló okmányt, vagy a 18. § (2) bekezdés g)–h) pontja szerinti tartózkodásra jogosító engedélyt kap, vagy a 18. § (2) bekezdés i)–k) pontja szerinti jogállást szerez, és bejelentett lakóhellyel (szálláshellyel) rendelkezik a közvetlen támogatásnak a tartózkodási jog megszűnését követő 2 hónapig, de legkésőbb a 10 év lejártáig terjedő időtartammal arányos részére ismét jogosulttá válik.
+(4) A felfüggesztés időtartama egy alkalommal legfeljebb 1 évvel meghosszabbítható, ha ezt a támogatott személy az (1) bekezdés szerinti határidő lejárta előtt legfeljebb 30 nappal kérelmezi.
 
-(4) Amennyiben a nem magyar állampolgár támogatott személy tartózkodási joga megszűnik, és 2 hónapon belül nem kap a (2) bekezdés szerinti tartózkodást igazoló vagy arra jogosító okmányt, engedélyt vagy jogállást, a 2 hónapos határidő lejártát követően az újabb tartózkodásra jogosító okmány, engedély kiadásáig vagy jogállás megszerzéséig az állam 12. §-ban, valamint a 13. §-ban meghatározott hitelek törlesztésének megfizetéséhez nem nyújt támogatást.
+(5) A felfüggesztés időtartama alatt a lakás tulajdonosának kérelmére, amennyiben a másik lakás megszerzése még nem történt meg, a kedvezmény, adó-visszatérítési támogatás igénybevételével épített, vásárolt, bővített, vagy a fiatalok otthonteremtési támogatásával vásárolt lakást a Kincstárnak a támogatással érintett ingatlan fekvésének helye szerint illetékes területi szerve tehermentesíti.
 
-(5) Ha a megelőlegező kölcsön adós nem magyar állampolgár támogatott személy tartózkodási joga megszűnik, és 2 hónapon belül nem kap a 18. § (2) bekezdés f) pontja szerinti tartózkodási jogot igazoló okmányt, vagy a 18. § (2) bekezdés g)–h) pontja szerinti tartózkodásra jogosító engedélyt, vagy a 18. § (2) bekezdés i)–k) pontja szerinti jogállást, valamint a gyermekvállalását nem vagy csak részben teljesítette, köteles tartózkodási joga megszűnését követő 2 hónapon belül a megelőlegező kölcsönnek a meg nem született gyermekre eső részét a folyósító hitelintézet részére visszafizetni, vagy azt a hitelintézettel kötött megállapodás szerint piaci kamatozású kölcsönként törleszteni. Ha a gyermekvállalást a tartózkodási jog megszűnése előtt, vagy ezt követő 2 hónapon belül teljesíti, a visszafizetésre a (2) bekezdésben foglalt rendelkezéseket az 5/A. § (2) bekezdésében foglaltak figyelembevételével kell megfelelően alkalmazni.
+(6) A másik lakás megszerzésének hitelt érdemlő igazolása esetén a felfüggesztés megszüntetéséről a Kincstár határozatban dönt, megállapítja a kincstári letéti számláról a támogatott személynek kifizethető összeget és intézkedik a terhek másik lakásra történő bejegyeztetése iránt. A Kincstár a felfüggesztés megszüntetéséről szóló határozatának jogerőre emelkedésétől számított 15 napon belül átutalja a jogosultnak a határozatában megállapított összeget a jogosult határozatban megjelölt bankszámlájára.
 
-[^175]: A 21/A. §-t a 251/2004. (VIII. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 391/2007. (XII. 23.) Korm. rendelet 16. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 32. § (4) bekezdése alapján rendelkezéseit a 2008. február 1-jét követően benyújtott kérelmekre kell alkalmazni.
-[^176]: A 21/A. § (1) bekezdése a 144/2012. (VII. 3.) Korm. rendelet 3. §-a szerint módosított szöveg.
+(7) A támogatott személy akkor is köteles az (1) bekezdésben foglalt másik lakás építésére vagy vásárlására irányuló kötelezettségnek eleget tenni, amennyiben a felfüggesztés időtartama alatt a 21. § (1) vagy (2) bekezdése szerinti elidegenítési tilalomra irányadó időtartam lejár.
+
+(8) Ha a támogatott személy a másik lakás megszerzését a felfüggesztés időtartama alatt nem igazolja, vagy kisebb értékű lakás megszerzését igazolja, a kincstári letéti számlán elhelyezett összeg, illetve annak az eladási és a vételár különbözetével arányos része visszafizetett támogatásnak minősül, amelynek központi költségvetés javára történő átvezetéséről a Kincstár intézkedik.
+
+(9) Ha a támogatott személy az (1) vagy (4) bekezdés szerinti határidő lejártáig
+
+a) az újabb lakás megszerzését hitelt érdemlően igazolja
+
+aa) adásvételi vagy csereszerződés bemutatásával vagy
+
+ab) építés esetében a használatbavételi engedély bemutatásával
+
+és
+
+b) a korábbi lakás elidegenítéséből származó teljes bevételt – csökkentve a 21/B. § (3) bekezdése szerinti összeggel – szerződéssel és értékbecsléssel, építés esetén pedig számlával igazoltan az új lakás megszerzésére fordította,
+
+## a 21. § (3) bekezdése szerinti kötelezettség az eredeti határidő lejártáig terheli.
+
+(10) A (9) bekezdés a) pont aa) alpontja szerinti esetben a tulajdonjog megszerzését a Kincstár a számítógépes ingatlan-nyilvántartási adatbázishoz közvetlen hozzáférést biztosító TAKARNET rendszerből, az elektronikus dokumentumként szolgáltatott hiteles tulajdoni lap másolat lekérdezésével ellenőrzi.
+
+(11) A (9) bekezdés esetében a kedvezmény, az adó-visszatérítési támogatás, a megelőlegező kölcsön időszaka alatt az állam által fizetett ellenszolgáltatások és a fiatalok otthonteremtési támogatása visszafizetését biztosító jelzálogjognak az ingatlan-nyilvántartásban az újabb lakásra való átjegyzése iránt a Kincstárnak a támogatással érintett ingatlan fekvésének helye szerint illetékes területi szerve intézkedik. A megelőlegező kölcsönt biztosító jelzálogjog újabb ingatlanra történő átjegyezhetőségéről a hitelintézet dönt és intézkedik.
+
+[^165]: A 21/A. §-t a 251/2004. (VIII. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 253/2012. (IX. 11.) Korm. rendelet 1. §-ával megállapított szöveg.

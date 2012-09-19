@@ -1,6 +1,6 @@
-## 2.[^210] Lakóépületek energiatakarékos korszerűsítése, felújítása
+## 2.[^201] Lakóépületek energiatakarékos korszerűsítése, felújítása
 
-28. §[^211] (1) A panel, a közép-, és nagyblokk, az alagútzsalu, az öntött, a vasbeton vázas és az egyéb előre gyártott technológia felhasználásával épült lakóépület energiatakarékos korszerűsítésére, felújítására a Lakóépületek és környezetük felújításának támogatása előirányzatból a következő célokra nyújtható támogatás:
+28. §[^202] (1) A panel, a közép-, és nagyblokk, az alagútzsalu, az öntött, a vasbeton vázas és az egyéb előre gyártott technológia felhasználásával épült lakóépület energiatakarékos korszerűsítésére, felújítására a Lakóépületek és környezetük felújításának támogatása előirányzatból a következő célokra nyújtható támogatás:
 
 a) nyílászárók energiatakarékos felújítása, vagy cseréje,
 
@@ -12,7 +12,7 @@ d) felvonó-berendezés korszerűsítése, felújítása,
 
 e) a megújuló energiafelhasználás növelése, a hagyományos energiahordozók megújuló energiaforrásokkal való helyettesítésére irányuló beruházások az energiatermelésre, a tárolásra, az energia szállítására és a hálózatba való esetleges visszatáplálására.
 
-(2)[^212] A távhővel ellátott lakóépületek hőfogyasztása szabályozási lehetőségének megteremtésére (a továbbiakban: ÖKO-Program) a Lakóépületek és környezetük felújításának támogatása előirányzatból a következő célokra nyújtható támogatás:
+(2)[^203] A távhővel ellátott lakóépületek hőfogyasztása szabályozási lehetőségének megteremtésére (a továbbiakban: ÖKO-Program) a Lakóépületek és környezetük felújításának támogatása előirányzatból a következő célokra nyújtható támogatás:
 
 a) a hőleadók egyedi szabályozásához szükséges berendezések (termosztatikus szelepek) lakásonkénti beszerelése,
 
@@ -24,6 +24,6 @@ c) az épület közös tulajdonát képező fűtési rendszernek az átalakítá
 
 2. az egycsöves fűtési rendszer átalakítása a hőleadók elé beépített átkötő szakaszokkal, vagy az egycsöves fűtési rendszer helyett új, kétcsöves fűtési rendszer kialakítása.
 
-[^210]: A 28. §-a előtti cím a 207/2001. (X. 30.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított szöveg.
-[^211]: A 28. § a 391/2007. (XII. 23.) Korm. rendelet 18. §-ával megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján rendelkezéseit a 2007. december 23-át követően benyújtott kérelmekre kell alkalmazni.
-[^212]: A 28. § (2) bekezdés bevezető szövegrésze a 244/2008. (X. 8.) Korm. rendelet 1. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 4. § (2)–(7) bekezdését.
+[^201]: A 28. §-a előtti cím a 207/2001. (X. 30.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított szöveg.
+[^202]: A 28. § a 391/2007. (XII. 23.) Korm. rendelet 18. §-ával megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján rendelkezéseit a 2007. december 23-át követően benyújtott kérelmekre kell alkalmazni.
+[^203]: A 28. § (2) bekezdés bevezető szövegrésze a 244/2008. (X. 8.) Korm. rendelet 1. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 4. § (2)–(7) bekezdését.
