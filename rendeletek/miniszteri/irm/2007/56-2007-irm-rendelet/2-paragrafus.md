@@ -12,9 +12,9 @@
 
 5. per: polgári peres és nemperes eljárás;
 
-6.[^1] jogi segítségnyújtó szolgálat: a fővárosi, megyei igazságügyi szolgálat és a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálatának jogi segítségnyújtási feladatokat ellátó szervezeti egysége;
+6.[^1] jogi segítségnyújtó szolgálat: a fővárosi, megyei igazságügyi szolgálat és a Közigazgatási és Igazságügyi Hivatal jogi segítségnyújtási feladatokat ellátó szervezeti egysége;
 
-7.[^2] központi hivatal: a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálata;
+7.[^2] központi hivatal: a Közigazgatási és Igazságügyi Hivatal;
 
 8.[^3] területi hivatal: a fővárosi, megyei igazságügyi szolgálat;
 
@@ -40,8 +40,8 @@
 
 19.[^6] értesítés: a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) 87. § (2) bekezdésében foglalt adatokat, büntetőügyben nyújtott támogatás esetében a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 340. § (3) bekezdésében megjelölt adatokat tartalmazó irat, vagy a jogerős bírósági határozatnak a hivatkozott adatokat tartalmazó másolata.
 
-[^1]: A 2. § 6. pontja a 30/2010. (XII. 31.) KIM rendelet 24. §-ával megállapított szöveg.
-[^2]: A 2. § 7. pontja a 30/2010. (XII. 31.) KIM rendelet 24. §-ával megállapított szöveg.
+[^1]: A 2. § 6. pontja a 30/2010. (XII. 31.) KIM rendelet 24. §-ával megállapított, a 43/2012. (IX. 18.) KIM rendelet 8. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 7. pontja a 30/2010. (XII. 31.) KIM rendelet 24. §-ával megállapított, a 43/2012. (IX. 18.) KIM rendelet 8. § b) pontja szerint módosított szöveg.
 [^3]: A 2. § 8. pontja a 30/2010. (XII. 31.) KIM rendelet 24. §-ával megállapított szöveg.
 [^4]: A 2. § 9. pontja a 26/2011. (VIII. 31.) KIM rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § 15. pontja a 48/2009. (IX. 28.) IRM rendelet 34. § (5) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
