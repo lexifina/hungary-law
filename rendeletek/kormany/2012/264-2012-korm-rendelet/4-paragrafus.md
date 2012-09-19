@@ -1,1 +1,0 @@
-## 3. § Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 113. § (1) bekezdés f) pontjában a „VM Vidékfejlesztési, Képzési és Szaktanácsadási Intézetét” szövegrész helyébe a „Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézetet” szöveg lép.
