@@ -1,0 +1,1 @@
+## „d) amennyiben egy szakterületen legalább 5 napon keresztül napi 6 órában biztosítja a 4. § (1) bekezdése szerinti feltételeket – azzal, hogy csak a beteg nappali elhelyezésére szolgáló helyiség biztosítása szükséges –, a nappali kórház elnevezés használatára jogosult.”
