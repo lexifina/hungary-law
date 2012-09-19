@@ -1,4 +1,4 @@
-10. § (1) Az EKI a tartalék készletek alakulásáról a tárgyévet követő év március 1-jéig összefoglaló jelentést készít és azt (a minisztériumnak) megküldi.
+10. § (1)[^20] Az EKI a tartalék készletek alakulásáról a tárgyévet követő év március 1-jéig összefoglaló jelentést készít és azt a minisztériumnak megküldi.
 
 (2) A jelentés tartalmazza:
 
@@ -9,3 +9,5 @@ b) a készlet mennyiségében, összetételében és értékében bekövetkezett
 c) a készletek fejlesztésére vonatkozó javaslatokat.
 
 (3) A minisztérium a védelmi célú tartalékok összetételéről mennyiségben és értékben – a tárgyévet követő március 15-éig – adatot szolgáltat a gazdaságmozgósítási tevékenységet koordináló miniszter részére.
+
+[^20]: A 10. § (1) bekezdése a 27/2012. (IX. 18.) EMMI rendelet 5. § b) pontja szerint módosított szöveg.
