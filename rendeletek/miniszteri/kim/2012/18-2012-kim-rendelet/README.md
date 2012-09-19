@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-18-20-2
 | 2012-03-24 | 2012-18-20-2T.2 | 2010: CXXX. törvény |
 | 2012-07-31 | 2012-18-20-2T.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-08-01 | 2012-18-20-2T.4 | 2010: CXXX. törvény |
+| 2012-09-19 | 2012-18-20-2T.5 | 43/2012. (IX. 18.) KIM rendelet |
