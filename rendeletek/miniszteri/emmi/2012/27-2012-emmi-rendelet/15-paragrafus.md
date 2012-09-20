@@ -1,1 +1,0 @@
-## 14. § Az egészségügyi ellátás folyamatos működtetésének egyes szervezési kérdéseiről szóló 47/2004. (V. 11.) ESZCSM rendelet 19. § (9) bekezdés d) pontjában a „harmadik” szövegrész helyébe a „második” szöveg lép.
