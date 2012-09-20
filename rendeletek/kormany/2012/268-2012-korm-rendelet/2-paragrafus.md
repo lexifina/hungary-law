@@ -1,0 +1,1 @@
+## 1. § A Kormány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján a MAL Magyar Alumínium Termelő és Kereskedelmi Zártkörűen Működő Részvénytársaságot stratégiailag kiemelt jelentőségű gazdálkodó szervezetnek minősíti.
