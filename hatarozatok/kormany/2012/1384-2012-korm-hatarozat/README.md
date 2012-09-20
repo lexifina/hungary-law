@@ -1,0 +1,9 @@
+# 1384/2012. (IX. 20.) Korm. határozat
+
+a KEOP-1.3.0/2F/09-2010-0032. számú ivóvízminőség-javító beruházás saját hatáskörben történő megvalósításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1384-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-09-20 | 2012-1384-30-22.1 | 1384/2012. (IX. 20.) Korm. határozat |
