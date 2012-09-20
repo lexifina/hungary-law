@@ -1,3 +1,0 @@
-12. § A Tv. 28. §-a helyébe a következő rendelkezés lép:
-
-„28. § Az agrárkamara országos, megyei ügyfélszolgálati rendszert működtet. Az agrárkamara az ügyfélszolgálaton keresztül teljesíti a 14. és 16. §-ban előírt igazgatási és szolgáltatási jellegű feladatait. Az ügyfélszolgálat működési területének kijelölését, működési rendjét az elnökség által elfogadott szervezeti és működési szabályzat tartalmazza, melyet a főigazgató köteles előterjeszteni.”
