@@ -4,7 +4,7 @@
 
 |  | Létesítmény | Létesítmény azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 1. | Kiemelt nagyberuházásként motorverseny-pálya és ahhoz kapcsolódó egyéb sport, szálláshely, szolgáltató és logisztikai kiszolgáló bázis és létesítményei. | Az M7-es autópálya, Sávoly község északi közigazgatási határa által lehatárolt terület Marótvölgyi-csatorna és Szőkedencs község déli közigazgatási határa által lehatárolt terület. | általános építésügyi hatósági engedélyek | Marcali Város jegyzője | Somogy Megyei Kormányhivatal |
+| 1. | Kiemelt nagyberuházásként motorverseny-pálya és ahhoz kapcsolódó egyéb sport, szálláshely, szolgáltató és logisztikai kiszolgáló bázis és létesítményei. | Az M7-es autópálya, Sávoly község északi közigazgatási határa által lehatárolt terület Marótvölgyi-csatorna és Szőkedencs község déli közigazgatási határa által lehatárolt terület. | általános építésügyi hatósági engedélyek | Somogy Megyei Kormányhivatal | építésügyért felelős miniszter |
 
 | 2. | környezetvédelmi hatósági engedélyezések | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
