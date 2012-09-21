@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-156-20-
 | 2012-03-15 | 2011-156-20-22.4 | 265/2011. (XII. 13.) Korm. rendelet |
 | 2012-03-29 | 2011-156-20-22.5 | 49/2012. (III. 28.) Korm. rendelet |
 | 2012-08-01 | 2011-156-20-22.6 | 265/2011. (XII. 13.) Korm. rendelet |
+| 2012-09-21 | 2011-156-20-22.7 | 266/2012. (IX. 18.) KIM rendelet |
