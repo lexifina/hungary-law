@@ -1,3 +1,1 @@
-## 22. §[^2]
-
-[^2]: A 22. § a 15. § (2) bekezdése alapján 2012. szeptember 21-én lép hatályba.
+## „(5) A díj az igazgatási szolgáltatást nyújtó engedélyező hatóság bevétele. A (3) bekezdés a) pontjában foglalt díj 46%-a a GYEMSZI, 54%-a az ETT TUKEB bevétele. A módosítás díja az eljáró engedélyező hatóságok között egyenlő arányban oszlik meg.”

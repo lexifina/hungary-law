@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-15-20-5
 | --- | --- | --- |
 | 2012-08-23 | 2012-15-20-5H.1 | 15/2012. (VIII. 22.) EMMI rendelet |
 | 2012-08-24 | 2012-15-20-5H.2 | 2010: CXXX. törvény |
+| 2012-09-21 | 2012-15-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
