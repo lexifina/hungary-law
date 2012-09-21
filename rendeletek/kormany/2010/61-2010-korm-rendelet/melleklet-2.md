@@ -6,7 +6,7 @@
 
 | 2. | Kiemelt nagyberuházásként a kabai „EM Bioetanol Kft. Bioetanol-Biogáz- Kiserőmű” projekthez kapcsolódó építmények, létesítmények. | Kaba közigazgatási területén lévő külterületi 0513/3 ingatlan- nyilvántartási helyrajzi számú terület | a Magyar Kereskedelmi Engedélyezési Hivatalról szóló kormányrendelet szerint a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai | Hajdú-Bihar Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 3. |  |  | építésügyi hatósági eljárások (a telekalakítási eljárás kivételével) | Kaba város jegyzője | Hajdú-Bihar Megyei Kormányhivatal |
+| 3. |  |  | építésügyi hatósági eljárások (a telekalakítási eljárás kivételével) | Hajdú-Bihar Megyei Kormányhivatal | építésügyért felelős miniszter |
 
 | 4. |  |  | környezetvédelmi hatósági eljárások | Tiszántúli Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség |
 
