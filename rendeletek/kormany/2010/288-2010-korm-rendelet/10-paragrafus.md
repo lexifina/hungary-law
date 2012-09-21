@@ -1,4 +1,4 @@
-10. §[^19] (1) A kormánymegbízott minden évben – a (2) bekezdésben meghatározott szervek bevonásával – az előző évi tevékenységéről szóló összegző beszámolót készít.
+10. §[^20] (1) A kormánymegbízott minden évben – a (2) bekezdésben meghatározott szervek bevonásával – az előző évi tevékenységéről szóló összegző beszámolót készít.
 
 (2) A beszámolási kötelezettség kiterjed a fővárosi és megyei kormányhivatal illetékességi területén működő, illetve székhellyel rendelkező központi államigazgatási szerv bármely jogállású területi szervére, továbbá az államigazgatási feladatot ellátó más szervre és személyre, valamint a polgármesterre és jegyzőre az általuk ellátott államigazgatási feladatokat érintően.
 
@@ -24,4 +24,4 @@ h) egyéb, a Kormány által meghatározott szempontokat, valamint
 
 i) a d)–e) pontban meghatározott szerveknél a közérdekű kérelmekkel, panaszokkal és bejelentésekkel kapcsolatos ügyek intézésének helyzetét.
 
-[^19]: A 10. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^20]: A 10. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.

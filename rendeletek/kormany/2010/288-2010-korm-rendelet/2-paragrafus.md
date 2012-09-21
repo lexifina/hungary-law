@@ -28,7 +28,7 @@
 
 13. a fogyasztóvédelmi felügyelőség a fogyasztóvédelmi feladatok ellátására,
 
-14. a kulturális örökségvédelmi iroda a kulturális örökségvédelmi feladatok ellátására,
+14.[^4] a műemlékvédelmi és régészeti örökségvédelmi szakigazgatási szerve az örökségvédelmi feladatok ellátására,
 
 15. a népegészségügyi szakigazgatási szerv a népegészségügyi feladatok ellátására,
 
@@ -36,11 +36,12 @@
 
 17. a közlekedési felügyelőség a közlekedési hatósági feladatok ellátására,
 
-18.[^4] a rehabilitációs szakigazgatási szerv a megváltozott munkaképességű személyek ellátásaival, a rehabilitációval és a hatáskörébe tartozó más ellátásokkal kapcsolatos feladatok ellátására.
+18.[^5] a rehabilitációs szakigazgatási szerv a megváltozott munkaképességű személyek ellátásaival, a rehabilitációval és a hatáskörébe tartozó más ellátásokkal kapcsolatos feladatok ellátására.
 
 (2) Kormányrendelet más területi államigazgatási szervet is a fővárosi és megyei kormányhivatal szakigazgatási szerveként határozhat meg.
 
 (3) Amennyiben kormányrendelet eltérően nem rendelkezik, a szakigazgatási szerv illetékessége megegyezik a fővárosi és megyei kormányhivatal illetékességével.
 
 [^3]: A 2. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
-[^4]: A 2. § (1) bekezdés 18. pontját a 95/2012. (V. 15.) Korm. rendelet 42. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 23. §-át.
+[^4]: A 2. § (1) bekezdés 14. pontja a 266/2012. (IX. 18.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^5]: A 2. § (1) bekezdés 18. pontját a 95/2012. (V. 15.) Korm. rendelet 42. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 23. §-át.
