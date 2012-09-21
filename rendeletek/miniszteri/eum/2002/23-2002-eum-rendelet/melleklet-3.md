@@ -10,7 +10,7 @@
 
 | 4. Vizsgálati helyszín(ek) Dátum: .................................................. ................................................ megbízó aláírása |
 
-3. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^71]
+3. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^74]
 
 Az engedélyezési eljárásban közreműködő szervezetek és bankszámlaszámuk
 
@@ -40,4 +40,4 @@ Az engedélyezési eljárásban közreműködő szervezetek és bankszámlaszám
 
 | 12. Gyógyszerrel végzett beavatkozással nem járó vizsgálatok az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló kormányrendeletben meghatározott esetekben | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (GYEMSZI) | 10032000-01490576- 00000000 |
 
-[^71]: A 3. számú mellékletet az 1/2007. (I. 24.) EüM rendelet 2. § b) pontja iktatta be, szövege a 34/2009. (X. 20.) EüM rendelet 3. § (4) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 28. § (2) bekezdése, a 15/2012. (VIII. 22.) EMMI rendelet 24. § (2) bekezdése szerint módosított szöveg.
+[^74]: A 3. számú mellékletet az 1/2007. (I. 24.) EüM rendelet 2. § b) pontja iktatta be, szövege a 34/2009. (X. 20.) EüM rendelet 3. § (4) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 28. § (2) bekezdése, a 15/2012. (VIII. 22.) EMMI rendelet 24. § (2) bekezdése szerint módosított szöveg.
