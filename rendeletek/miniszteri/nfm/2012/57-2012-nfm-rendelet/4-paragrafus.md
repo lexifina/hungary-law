@@ -1,0 +1,3 @@
+## 3. § Az AC jogcímcsoport pályázati forrásának kezelő szerve az MT Zrt. A pályázati forrás felhasználására nyitott alszámla felett az MT Zrt. rendelkezik, ellátja a pályázat kiírásával, a támogatási szerződés megkötésével, módosításával, a támogatási szerződéstől történő elállással vagy a támogatói szerződés felmondásával, a kötelezettségvállalás pénzügyi ellenjegyzésével, a kedvezményezett beszámoltatásával, a költségvetési támogatás felhasználásának ellenőrzésével, a teljesítés igazolásával, a jogosulatlanul igénybe vett költségvetési támogatás visszakövetelésével, az érvényesítéssel, az utalványozással, a könyvvezetéssel és a beszámoló előkészítésével kapcsolatos feladatokat.
+
+## 4. A pályázati úton nyújtható támogatás célja
