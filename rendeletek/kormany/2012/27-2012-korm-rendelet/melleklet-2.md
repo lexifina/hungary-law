@@ -6,7 +6,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Az Erkel Színház előadás tartására alkalmas állapotra történő felújítása | Budapest 34704 hrsz. | építésügyi hatósági engedélyezési eljárások | Budapest Főváros VIII. Kerület Józsefvárosi Önkormányzat jegyzője | Budapest Főváros Kormányhivatala |
+| 2. | Az Erkel Színház előadás tartására alkalmas állapotra történő felújítása | Budapest 34704 hrsz. | építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala | építésügyért felelős miniszter |
 
 | 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
