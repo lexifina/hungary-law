@@ -6,7 +6,7 @@
 
 | 2. | Kiemelt nagyberuházásként a dunaalmási „DUNA-ETANOL Zrt. Bioetanol-Biogáz- Kiserőmű” projekthez kapcsolódó építmények, létesítmények. | Dunaalmás közigazgatási területén lévő külterületi 0634, 0633/26, 0661/3 ingatlan- nyilvántartási helyrajzi számú területek | Magyar Kereskedelmi Engedélyezési Hivatalról szóló kormányrendelet szerint a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai | Fejér Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 3. |  |  | építésügyi hatósági eljárások (a telekalakítási eljárás kivételével) | Tata város jegyzője | Komárom-Esztergom Megyei Kormányhivatal |
+| 3. |  |  | építésügyi hatósági eljárások (a telekalakítási eljárás kivételével) | Komárom-Esztergom Megyei Kormányhivatal | építésügyért felelős miniszter |
 
 | 4. |  |  | környezetvédelmi hatósági eljárások | Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
