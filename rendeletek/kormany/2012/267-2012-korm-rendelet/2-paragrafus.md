@@ -1,0 +1,5 @@
+2. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 3. § (3) és (4) bekezdésének alkalmazása szempontjából a beruházás kiemelt társadalmi cél érdekében megvalósuló beruházásnak minősül.
+
+(2) Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére az 1. § (1) bekezdése szerinti hatósági ügyekben a szakhatóság – a hatóság határozatának jogerőre emelkedéséig felhasználható – előzetes szakhatósági állásfoglalást ad ki azzal, hogy a kérelemhez benyújtott előzetes szakhatósági hozzájárulást a hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 44. § (8) bekezdése szerint használja fel.
+
+(3) A tervező az engedélyezési tervdokumentáció tervezése során az érintett szakhatóságokkal egyeztetni köteles, ennek megtörténtéről és tartalmáról az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló 193/2009. (IX. 15.) Korm. rendelet 19. §-a szerinti tervezői nyilatkozatot kiegészítve, külön nyilatkozik.
