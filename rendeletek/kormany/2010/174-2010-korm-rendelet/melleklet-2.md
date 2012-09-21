@@ -6,7 +6,7 @@
 
 | 2 | A Nabucco földgázszállító vezeték és telepített létesítményei, épített építményei, valamint azok biztonsági övezete által lehatárolt területeken megvalósuló beruházás építményei. A térbeli rend szempontjából meghatározó települések az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 1/10. számú melléklete szerint: (Románia) - országhatár - Nagylak - Hódmezővásárhely - Kecskemét - Adony - Székesfehérvár - Mór - Tét - Rajka - országhatár - (Ausztria). | bányahatósági építési engedélyek | Szolnoki Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 3 |  | a telekalakítási eljárás kivételével az építésügyi hatósági engedélyek | települési önkormányzat jegyzője | fővárosi és megyei kormányhivatal |
+| 3 |  | a telekalakítási eljárás kivételével az építésügyi hatósági engedélyek | a területileg illetékes fővárosi és megyei kormányhivatal | építésügyért felelős miniszter |
 
 | 4 |  | környezetvédelmi hatósági engedélyek | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
