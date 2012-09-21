@@ -1,7 +1,0 @@
-8. § (1) A Hivatal létrehozza és működteti a régészeti lelőhelyek, a régészeti védőövezetek, a műemléki területek és a műemlékek nyilvános adatbázisát, amely tartalmazza az azonosításukhoz szükséges és a védettségükre vonatkozó adatokat, és biztosítja az adatok közötti keresés lehetőségét. Az adatok változását a Hivatal haladéktalanul átvezeti az adatbázisban. E rendelkezés alkalmazásában azonosításhoz szükséges adat annak a földrészletnek a helyrajzi száma is, amelyen régészeti lelőhely, régészeti védőövezet, műemléki terület vagy műemlék található.
-
-(2) A Hivatal az (1) bekezdés szerinti adatbázis adott eljárástípusban releváns adatait – azonosító adatként a megye, a település elnevezését, helyrajzi számot és a védettség jellegét feltüntetve, vagy EOV vetületű vektoros térképfedvényt alkalmazva – kérésre átadja azon hatóságoknak, amelyek eljárásában kormányrendelet rendelkezése alapján a szakigazgatási szerv vagy a Hivatal szakhatóságként vesz részt. A Hivatal a frissített adatbázist havonta elektronikus úton átadja az érintett hatóságoknak.
-
-(3)[^8] A Nemzeti Földalap vagyonnyilvántartásának vezetéséhez szükséges feladatok ellátása érdekében a Hivatal havonta elektronikus úton átadja a Nemzeti Földalapkezelő Szervezet részére a régészeti lelőhelyek és a régészeti védőövezetek azonosító adatait tartalmazó havonként aktualizált adatbázist.
-
-[^8]: A 8. § (3) bekezdését a 11/2011. (II. 22.) Korm. rendelet 10. §-a iktatta be.
