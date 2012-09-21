@@ -10,6 +10,8 @@ d) az új média kérdések szabályozásáról,
 
 e) a kultúra finanszírozásáról és
 
-f) a kulturális örökségvédelemről
+f)[^177]
 
 szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki.
+
+[^177]: Az 50. § f) pontját a 266/2012. (IX. 18.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.

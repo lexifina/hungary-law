@@ -52,7 +52,9 @@ v)[^103] – a 40. § (4a) bekezdése szerinti eljárásokban – állampolgárs
 
 w)[^104] közfoglalkoztatásért,
 
-x)[^105] vízügyi igazgatási szervek irányításáért
+x)[^105] vízügyi igazgatási szervek irányításáért,
+
+y)[^106] örökségvédelemért
 
 felelős tagja.
 
@@ -62,3 +64,4 @@ felelős tagja.
 [^103]: A 37. § v) pontját a 267/2010. (XII. 3.) Korm. rendelet 13. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^104]: A 37. § w) pontját a 90/2011. (VI. 14.) Korm. rendelet 1. §-a iktatta be.
 [^105]: A 37. § x) pontját a 300/2011. (XII. 22.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^106]: A 37. § y) pontját a 266/2012. (IX. 18.) Korm. rendelet 23. § (1) bekezdése iktatta be.

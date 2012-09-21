@@ -1,14 +1,14 @@
-## 52. §[^178] A miniszter
+## 52. §[^182] A miniszter
 
 a) ellátja a nemzeti és egyetemes kulturális örökség megóvásával, tudományos feltárásával és közkinccsé tételével, az új média létrehozásával kapcsolatos feladatokat,
 
-b) a kulturális örökségvédelemmel, közművelődési, közgyűjteményi tevékenységgel, a művészeti alkotó munka és előadói tevékenység állami támogatásával kapcsolatos feladatokat,
+b)[^183] ellátja a közművelődési, közgyűjteményi tevékenységgel, a művészeti alkotó munka és előadói tevékenység állami támogatásával kapcsolatos feladatokat,
 
-c)[^179] a közigazgatási és igazságügyi miniszterrel és a miniszterelnök általános helyettesével együttműködve gondoskodik a külhoni magyar közösségek kulturális és anyanyelvi identitását erősítő és fejlesztő programok és fejlesztések megszervezéséről,
+c)[^184] a közigazgatási és igazságügyi miniszterrel és a miniszterelnök általános helyettesével együttműködve gondoskodik a külhoni magyar közösségek kulturális és anyanyelvi identitását erősítő és fejlesztő programok és fejlesztések megszervezéséről,
 
 d) ellátja a művészeti, muzeális, a könyvtári, a levéltári, a közművelődési, a kulturális örökség, valamint kulturális diplomácia elemeivel kapcsolatos tevékenység ágazati irányítását,
 
-e) meghatározza a kulturális örökségvédelem országos céljait, feladatait és követelményrendszerét,
+e)[^185]
 
 f) a közigazgatási és igazságügyi miniszterrel együttműködve segítséget nyújt a magyar kulturális örökség külföldön található emlékeinek és értékeinek feltárásában, megőrzésében,
 
@@ -16,7 +16,7 @@ g) a kulturális területen ellátja az ösztöndíjasok külföldre küldésév
 
 h) szabályozza a közreműködő intézményrendszer működését, vezetői tekintetében gyakorolja a munkáltatói jogkört, továbbá a törvényben előírt egyetértési, javaslattételi, véleményezési, illetőleg előterjesztői jogköröket, gondoskodik a feladatellátás minőségbiztosításáról, ellenőrzi az intézmények gazdálkodását, az állam által rendelkezésre bocsátott eszközök felhasználásának jogszerűségét, szabályszerűségét és javaslatot tesz a szükséges intézkedésekre,
 
-i) gondoskodik a kulturális örökségi értékek számbavételéről, nyilvántartásáról és a kulturális örökség védelmét szolgáló tudományos feladatok ellátásáról,
+i)[^186] hatáskörébe tartozóan gondoskodik a kulturális javak számbavételéről, nyilvántartásáról és a tudományos feladatok ellátásáról,
 
 j) ellátja a könyvtári tevékenység és a nyilvános könyvtárak ágazati irányítását, a nyilvános könyvtári ellátás érdekében az országos dokumentum-ellátási rendszer működtetését,
 
@@ -26,9 +26,9 @@ l) gondoskodik a magyar nyelv és kultúra megőrzése, terjesztése és megisme
 
 m) rendelkezési jogot gyakorol a Nemzeti Kulturális Alap felett,
 
-n) dönt a műemléki értékek, illetve régészeti lelőhelyek védetté nyilvánításáról, illetőleg annak megszüntetéséről,
+n)[^187]
 
-o)[^180] ellátja – a külügyminiszterrel, a miniszterelnök általános helyettesével és a közigazgatási és igazságügyi miniszterrel együttműködve – a külföldi magyar kulturális intézetek szakmai irányítását és felügyeletét, Magyarország kulturális diplomáciai céljainak kidolgozását, végrehajtását,
+o)[^188] ellátja – a külügyminiszterrel, a miniszterelnök általános helyettesével és a közigazgatási és igazságügyi miniszterrel együttműködve – a külföldi magyar kulturális intézetek szakmai irányítását és felügyeletét, Magyarország kulturális diplomáciai céljainak kidolgozását, végrehajtását,
 
 p) kulturális örökséggel kapcsolatos feladatainak megvalósítása érdekében kapcsolatot tart más államok kormányzati szerveivel,
 
@@ -38,8 +38,13 @@ r) felelős az európai integrációból eredő kulturális feladatok végrehajt
 
 s) előmozdítja a magyar történeti, művészeti és művelődéstörténeti értékek külföldi megismertetését és
 
-t) irányítja a Kulturális Örökségvédelmi Hivatalt.
+t)[^189]
 
-[^178]: Az 52. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (21) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^179]: Az 52. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (33) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^180]: Az 52. § o) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (33) bekezdés b) pontja, a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^182]: Az 52. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (21) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^183]: Az 52. § b) pontja a 266/2012. (IX. 18.) Korm. rendelet 23. § (5) bekezdésével megállapított szöveg.
+[^184]: Az 52. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (33) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^185]: Az 52. § e) pontját a 266/2012. (IX. 18.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.
+[^186]: Az 52. § i) pontja a 266/2012. (IX. 18.) Korm. rendelet 23. § (6) bekezdésével megállapított szöveg.
+[^187]: Az 52. § n) pontját a 266/2012. (IX. 18.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.
+[^188]: Az 52. § o) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (33) bekezdés b) pontja, a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^189]: Az 52. § t) pontját a 266/2012. (IX. 18.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.
