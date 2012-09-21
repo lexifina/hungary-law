@@ -18,9 +18,9 @@ b) a jármű tulajdonosa a jármű forgalomba helyezését a közlekedési igazg
 
 a) szokásos tartózkodási helye nem Magyarország területén van,
 
-b) a járművet egy napnál rövidebb ideig használja Magyarország területén és a használathoz az üzembentartó a jármű birtokba adása időpontjának megjelölésével írásban hozzájárult,
+b) a járművet – hat hónapon belül összességében – 30 nap időtartamot meg nem haladóan használja Magyarország területén és a használathoz az üzemben tartó a jármű birtokba adása időpontjának, továbbá a használati jogosultság időtartamának megjelölését is tartalmazó okiratba foglalt nyilatkozatával hozzájárult, vagy
 
-c) a járművet Magyarország területén kívüli rendszeres munkavégzés érdekében használja.
+c) a belföldön használt járművet a külföldi üzemben tartójától rendszeres munkavégzéséhez kapta használatra.
 
 (4a) Az (1) bekezdésben foglaltakat nem kell alkalmazni a következő feltételek fennállásának ideje alatt és az azt követő 30 napig, ha a járművezető vagy az üzemben tartó
 
@@ -33,3 +33,5 @@ b) az Európai Unió intézményeinél – vagy olyan nemzetközi szervezetnél,
 (5) A (2) és (4) bekezdésben meghatározott feltételek fennállását az ellenőrzés során a jármű üzemben tartója, valamint a jármű vezetője magyar nyelvű, vagy magyar nyelvű hiteles fordítással vagy hiteles fordításnak nem minősülő egyszerű fordítással is ellátott közokirattal vagy teljes bizonyító erejű magánokirattal köteles igazolni.
 
 (6) Az ellenőrző hatóság az (1) bekezdésben meghatározottak megsértéséről a jármű hatósági engedélyében feltüntetett, a jármű tulajdonosára és az üzemben tartójára vonatkozó adatok, valamint a jármű azonosító- és műszaki adatainak továbbításával értesíti az állami adóhatóságot is.
+
+(7) Az ellenőrző hatóság a külföldi rendszámmal ellátott gépjármű közúti ellenőrzése során a közigazgatási bírságnyilvántartásban rögzíti a 21/D. § (1) bekezdés j) pontjában meghatározott adatokat, ha a jármű használata a (4) bekezdés b) pontjában meghatározottak alapján történik.
