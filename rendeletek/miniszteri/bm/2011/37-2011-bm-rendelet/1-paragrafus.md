@@ -8,8 +8,15 @@ b) a Büntetés-végrehajtás Országos Parancsnokságán, a büntetés-végreha
 
 c) a Bevándorlási és Állampolgársági Hivatal befogadó állomásain (a továbbiakban: BÁHBÁ),
 
-d) a Nemzetközi Oktatási és Polgári Válságkezelési Központnál (a továbbiakban: NOPVK),
+d)[^1] a Belügyminisztérium Nemzetközi Oktatási Központnál (a továbbiakban: BM NOK),
 
-e) a Belügyminisztérium Rendészeti Vezetőképző és Kutatóintézetnél (a továbbiakban: RVKI),
+e)[^2] a Belügyminisztérium Oktatási, Képzési és Tudományszervezési Főigazgatóságon (a továbbiakban: BM OKTF),
 
-f) az Országos Katasztrófavédelmi Főigazgatóságon és alárendelt szerveinél, a hivatásos önkormányzati tűzoltóságokon (a továbbiakban együtt: katasztrófavédelmi szerv)
+f)[^3] a hivatásos katasztrófavédelmi szerveknél (a továbbiakban: hivatásos katasztrófavédelmi szervek),
+
+g)[^4] az Országos Vízügyi Főigazgatóságon és a vízügyi igazgatóságokon (a továbbiakban együtt: vízügyi igazgatási szervek)
+
+[^1]: Az 1. § d) pontja a 46/2012. (IX. 20.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § e) pontja a 46/2012. (IX. 20.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § f) pontja a 46/2012. (IX. 20.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § g) pontját a 46/2012. (IX. 20.) BM rendelet 1. § (2) bekezdése iktatta be.

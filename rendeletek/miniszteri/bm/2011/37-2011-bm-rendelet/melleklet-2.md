@@ -1,4 +1,4 @@
-## A) A rendőrségnél, a BÁHBÁ-nál, a NOPVK-nál, az RVKI-nál, a katasztrófavédelmi szervnél a közalkalmazottak által ellátható egyes vezetői beosztások, munkakörök megnevezése, fizetési osztálya, valamint a vezetői pótlék mértéke, pályázat alóli mentessége
+## A) A rendőrségnél, a BÁHBÁ-nál, a BM NOK-nál, a BM OKTF-nél, a hivatásos katasztrófavédelmi szerveknél a közalkalmazottak által ellátható egyes vezetői beosztások, munkakörök megnevezése, fizetési osztálya, valamint a vezetői pótlék mértéke, pályázat alóli mentessége
 
 |  | A magasabb vezetői, vezetői beosztások, munkakörök megnevezése | Fizetési osztályok | Vezetői pótlék |
 
@@ -144,7 +144,7 @@
 
 | 70. | Ügyviteli munkakörök |
 
-| 71. | A rendőrségnél, a NOPVK-nál, az RVKI-nál, a BÁHBÁ-nál, a katasztrófavédelmi szervnél az ügyviteli munkakörök nem kötelezettek pályáztatásra |
+| 71. | A rendőrségnél, a BM NOK-nál, a BM OKTF-nél, a BÁHBÁ-nál, a hivatásos katasztrófavédelmi szerveknél az ügyviteli munkakörök nem kötelezettek pályáztatásra. |
 
 | 72. | Adatrögzítő | * | * | * |  |  |  |  |  |  |  |  |
 
@@ -188,7 +188,7 @@
 
 | 92. | Fizikai munkakörök |  |  |  |  |  |  |  |  |  |  |  |
 
-| 93. | A rendőrségnél, a NOPVK-nál, a BÁHBÁ-nál, az RVKI-nál, a katasztrófavédelmi szervnél a fizikai munkakörök nem kötelezettek pályáztatásra |
+| 93. | A rendőrségnél, a BM NOK-nál, a BM OKTF-nél, a BÁHBÁ-nál, a hivatásos katasztrófavédelmi szerveknél a fizikai munkakörök nem kötelezettek pályáztatásra. |
 
 | 94. | Autófényező |  | * | * | * |  |  |  |  |  |  |  |
 
@@ -479,123 +479,3 @@
 ## 6. Ha a rendelet nem tartalmazza a munkáltató által alkalmazni kívánt munkakörre vonatkozóan a megfelelő munkaköri megnevezést, akkor a munkakör ellátására alkalmazni kívánt közalkalmazottat a hasonló munkaköri feladatokat igénylő, a rendeletben szereplő munkakörbe kell besorolni.
 
 2. melléklet a 37/2011. (X. 28.) BM rendelethez
-
-A büntetés-végrehajtási szervnél közalkalmazottak által ellátható egyes magasabb vezetői, vezetői beosztások, munkakörök megnevezése, fizetési osztálya, további büntetés-végrehajtási képesítési követelménye, pályázat alóli mentessége
-
-|  | Magasabb vezetői beosztások, vezetői beosztások, munkakörök megnevezése | Fizetési osztály | Vezetői pótlék | További büntetés-végrehajtási képesítési követelmény |
-
-| alap- fokú | közép- fokú | felső- fokú |
-
-|  | A | B | C | D | E | F | G | H | I | J |
-
-| 1. | Magasabb vezetői beosztások |
-
-| 2. | Főigazgató |  |  |  |  |  | * | * | * | * |  | 300% |  |  | * |
-
-| 3. | Főigazgató- helyettes |  |  |  |  |  | * | * | * | * |  | 250% |  |  | * |
-
-| 4. | Igazgató |  |  |  |  |  | * | * | * | * |  | 300% |  |  | * |
-
-| 5. | Igazgató-helyettes |  |  |  |  |  | * | * | * | * |  | 250% |  |  | * |
-
-| 6. | Főosztályvezető |  |  |  |  |  | * | * | * | * |  | 300% |  |  | * |
-
-| 7. | Főosztályvezető- helyettes |  |  |  |  |  | * | * | * | * |  | 250% |  |  | * |
-
-| 8. | Vezetői beosztás |
-
-| 9. | Osztályvezető * |  |  |  |  |  | * | * | * | * |  | 200% |  |  | * |
-
-| 10. | Osztályvezető (lelkész) |  |  |  |  |  | * | * | * | * |  | 200% |  |  | * |
-
-| 11. | Beosztotti munkakörök |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 12. | Csoportvezető* |  |  |  |  |  | * | * | * |  |  |  |  |  | * |
-
-| 13. | Könyvelő |  | * | * | * | * | * |  |  |  |  |  |  |  |  |
-
-| 14. | Pályáztatásra nem kötelezett munkakörök |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 15. | Belső ellenőr |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
-
-| 16. | Beszerző |  | * | * |  |  |  |  |  |  |  |  |  |  |  |
-
-| 17. | Büfés |  | * |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 18. | Energetikai vezető |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
-
-| 19. | Ellenőr |  |  |  |  |  | * | * | * |  |  |  |  |  | * |
-
-| 20. | Előadó |  |  | * | * |  |  |  |  |  |  |  |  | * |  |
-
-| 21. | Előadó (gyors- és gépíró) |  |  | * | * |  |  |  |  |  |  |  |  |  |  |
-
-| 22. | Felszolgáló |  | * | * | * |  |  |  |  |  |  |  |  |  |  |
-
-| 23. | Fotóriporter |  |  | * | * |  |  |  |  |  |  |  | * |  |  |
-
-| 24. | Főelőadó |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
-
-| 25. | Főkönyvelő |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
-
-| 26. | Főreferens |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
-
-| 27. | Referens |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
-
-| 28. | Főszakács |  |  | * | * |  |  |  |  |  |  |  |  |  |  |
-
-| 29. | Főtanár |  |  |  |  |  | * | * | * | * | * |  |  |  | * |
-
-| 30. | Garázsmester |  | * | * | * |  |  |  |  |  |  |  | * |  |  |
-
-| 31. | Gondnok |  | * | * | * |  |  |  |  |  |  |  |  |  |  |
-
-| 32. | Gépjárműműhely- vezető |  |  | * | * | * |  |  |  |  |  |  | * |  |  |
-
-| 33. | Gépjárműszerelő |  | * | * | * | * |  |  |  |  |  |  | * |  |  |
-
-| 34. | Jogtanácsos |  |  |  |  |  |  |  |  | * | * |  |  |  | * |
-
-| 35. | Kazánházvezető |  |  | * | * |  |  |  |  |  |  |  | * |  |  |
-
-| 36. | Kazánkezelő |  | * |  |  |  |  |  |  |  |  |  | * |  |  |
-
-| 37. | Konyhalány | * |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 38. | Környezetvédelmi vezető |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
-
-| 39. | Lelkész |  |  |  |  |  | * | * | * | * | * |  |  |  | * |
-
-| 40. | Munkavédelmi vezető |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
-
-| 41. | Műszerész |  |  | * | * |  |  |  |  |  |  |  | * |  |  |
-
-| 42. | Oktatásszervező |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
-
-| 43. | Osztályvezető- helyettes * |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
-
-| 44. | Szakmunkás |  | * | * | * |  |  |  |  |  |  |  | * |  |  |
-
-| 45. | Szakács |  | * | * | * |  |  |  |  |  |  |  | * |  |  |
-
-| 46. | Szerkesztő, olvasószerkesztő |  |  |  |  |  | * | * |  |  |  |  |  |  | * |
-
-| 47. | Takarító | * |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 48. | Tanár |  |  |  |  |  | * | * | * |  |  |  |  |  | * |
-
-| 49. | Tanfolyamszervező |  |  |  |  |  | * | * | * |  |  |  |  |  | * |
-
-| 50. | Technikus |  |  | * | * | * |  |  |  |  |  |  | * |  |  |
-
-| 51. | Telefonközpont- kezelő | * | * | * |  |  |  |  |  |  |  |  |  |  |  |
-
-| 52. | Tűzvédelmi vezető |  |  |  |  |  | * | * | * | * |  |  |  |  | * |
-
-| 53. | Újságíró |  |  |  |  | * | * | * |  |  |  |  |  |  | * |
-
-| 54. | Ügykezelő |  |  | * | * |  |  |  |  |  |  |  |  |  |  |
-
-| 55. | Vezető technikus |  |  |  | * | * |  |  |  |  |  |  | * |  |  |
-
-* Azon munkakörök, melyek nem tartoznak az igazságügyi és rendészeti miniszter felügyelete, irányítása alá tartozó fegyveres szerveknél rendszeresített hivatásos beosztásokról és a betöltésükhöz szükséges követelményekről szóló 19/2008. (IX. 18.) IRM rendeletben meghatározott szolgálati tevékenységek közé.
