@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-173-20-
 | 2011-08-26 | 2010-173-20-22.3 | 351/2010. (XII. 30.) korm. rendelet |
 | 2012-01-01 | 2010-173-20-22.4 | 282/2011. (XII. 21.) Korm. rendelet |
 | 2012-03-15 | 2010-173-20-22.5 | 351/2010. (XII. 30.) korm. rendelet |
+| 2012-09-21 | 2010-173-20-22.6 | 351/2010. (XII. 30.) korm. rendelet |

@@ -42,7 +42,7 @@
 
 | 20 |  | beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése a) Túrony szakaszoló állomáson, b) Drávaszerdahely szakaszoló és mérő-állomáson | Siklós Város Önkormányzat Hivatásos Önkormányzati Tűzoltóság | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 21 |  | építésügyi hatósági engedélyezési eljárások a) Báta kompresszorállomás épület, b) Drávaszerdahely mérőállomás | a) Bátaszék Város Önkormányzat jegyzője, b) Siklós Város Önkormányzat jegyzője | fővárosi és megyei kormányhivatal |
+| 21 |  | építésügyi hatósági engedélyezési eljárások a) Báta kompresszorállomás épület, b) Drávaszerdahely mérőállomás | a) Tolna Megyei Kormányhivatal, b) Baranya Megyei Kormányhivatal | építésügyért felelős miniszter |
 
 | 22 |  | Báta kompresszorállomás bekötőút vonatkozásában útügyi hatósági engedélyezési eljárások | Tolna Megyei Kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
