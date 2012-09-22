@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-119-00-00
 | 2012-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-119-00-00.5 |
 | 2012-09-02 | 2010. évi CXXX. törvény | 2012-119-00-00.6 |
 | 2012-09-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-119-00-00.7 |
+| 2012-09-22 | 2010. évi CXXX. törvény | 2012-119-00-00.8 |
