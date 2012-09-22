@@ -28,9 +28,9 @@ Az OAH hatósági eljárásaiban közreműködő szakhatóságok
 
 | 4.1. | A nukleáris létesítmény esetében minden olyan eljárásban, amelynek eredményeként a fizikai védelem funkciói megváltozhatnak. | Annak elbírálása, hogy a nukleáris létesítmények, nukleáris és más radioaktív anyagok, valamint a radioaktív hulladékok fizikai védelme rendészeti és személyi követelményei teljesülnek-e. | a) telephely engedély, b) létesítési engedély, c) üzembe helyezési engedély, d) üzemeltetési engedély, e) végleges leállítási engedély, f) leszerelési engedély | Országos Rendőr- főkapitányság |
 
-| 4.2. | Az atomenergiáról szóló törvény szerinti Időszakos Biztonsági Jelentés. | Annak elbírálása, hogy a nukleáris létesítmények, nukleáris és más radioaktív anyagok, valamint a radioaktív hulladékok fizikai védelme rendészeti és személyi követelményei teljesülnek-e. | Időszakos Biztonsági Jelentés felülvizsgálata és a feltárt eltérések jóváhagyása | Országos Rendőr- főkapitányság |
+| 4.2. |  |  |  |  |
 
-| 4.3. | A nukleáris létesítményekkel összefüggő építmények és épületszerkezetek hatósági engedélyezésére irányuló eljárásban. | Annak elbírálása, hogy a nukleáris létesítmények, nukleáris és más radioaktív anyagok, valamint a radioaktív hulladékok fizikai védelme rendészeti és személyi követelményei teljesülnek-e. | a) építési (bontási) engedély, b) használatba- vételi engedély | Országos Rendőr- főkapitányság |
+| 4.3. |  |  |  |  |
 
 | 4.4. | A radioaktív hulladékoknak és kiégett fűtőelemeknek a Magyarország országhatárán át történő szállításának engedélyezésére irányuló eljárásában. | Annak elbírálása, hogy a nukleáris létesítmények, nukleáris és más radioaktív anyagok, valamint a radioaktív hulladékok fizikai védelme rendészeti és személyi követelményei teljesülnek-e. | szállítás engedélyezése | Országos Rendőr- főkapitányság |
 
@@ -49,4 +49,4 @@ Az OAH hatósági eljárásaiban közreműködő szakhatóságok
 | 6.4. | Ha a nukleáris létesítmény telepítése, létesítése termőföldön valósul meg. | Termőföld mennyiségi védelme követelményeinek kérdésében. | létesítési engedély | földügyért felelős miniszter |
 
 [^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet a 190/2011. (IX. 19.) Korm. rendelet 43. §-a, a 246/2011. (XI. 24.) Korm. rendelet 11. §-a, a 304/2011. (XII. 23.) Korm. rendelet 45. §-a, a 74/2012. (IV. 13.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 190/2011. (IX. 19.) Korm. rendelet 43. §-a, a 246/2011. (XI. 24.) Korm. rendelet 11. §-a, a 304/2011. (XII. 23.) Korm. rendelet 45. §-a, a 74/2012. (IV. 13.) Korm. rendelet 7. §-a, a 265/2012. (IX. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.

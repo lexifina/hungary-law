@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-112-20-
 | 2011-12-24 | 2011-112-20-22.4 | 190/2011. (IX. 19.) Korm. rendelet |
 | 2012-01-01 | 2011-112-20-22.5 | 190/2011. (IX. 19.) Korm. rendelet |
 | 2012-04-15 | 2011-112-20-22.6 | 190/2011. (IX. 19.) Korm. rendelet |
+| 2012-09-22 | 2011-112-20-22.7 | 190/2011. (IX. 19.) Korm. rendelet |
