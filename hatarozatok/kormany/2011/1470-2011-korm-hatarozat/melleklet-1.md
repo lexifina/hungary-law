@@ -8,9 +8,9 @@
 
 ## 5. Ez a határozat 2012. január 1-én lép hatályba.
 
-## 6.[^1]
+## 6.[^2]
 
-1. melléklet az 1470/2011. (XII. 23.) Korm. határozathoz
+1. melléklet az 1470/2011. (XII. 23.) Korm. határozathoz[^3]
 
 A 2012. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
@@ -214,6 +214,12 @@ A 2012. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 41. | Z256/12 | OSZTRÁK-MAGYAR instruktori felkészitések 2012 | NKE | Eu-tagállam | I-IV. n. é. | 20 |
 
+| 42 | F119/12 | SAFETY FUEL 2012 többnemzeti logisztikai szakgyakorlat | MH ÖHP | Magyarország | okt. 01–18. | 150 |
+
+| 43 | B124/12 | PUMA 2012 különleges műveleti gyakorlat | MH ÖHP | Magyarország/Lengyelország | III-IV. né. | 10 |
+
+| 44 | C239/12 | MI-17 AAT Pre-Deployment Training 2012 (Felkészítő Kiképzés) | MH ÖHP | Magyarország/Horvátország | III-IV. né. | 10 |
+
 3. Magyar fegyveres erők részvétele nélkül tervezett, külföldi fegyveres erők esetleges átvonulásával járó NATO gyakorlatok és kiképzési rendezvények
 
 | A gyakorlat megnevezése | A gyakorlat tervezett helye | A gyakorlat tervezett időpontja |
@@ -256,4 +262,5 @@ A 2012. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 8. | A Pápán települő NATO Stratégiai Légiszállítási tevékenységgel kapcsolatos csapatmozgások | 2012. I-IV. n. é. | egyidejűleg legfeljebb 1000 fő |
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1397/2012. (IX. 21.) Korm. határozat 1. ponja szerint módosított szöveg.

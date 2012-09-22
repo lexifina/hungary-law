@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1470-30
 | --- | --- | --- |
 | 2012-01-01 | 2011-1470-30-22.1 | 1470/2011. (XII. 23.) Korm. határozat |
 | 2012-01-02 | 2011-1470-30-22.2 | 2010: CXXX. törvény |
+| 2012-09-22 | 2011-1470-30-22.3 | 1640/2012. (XII. 19.) Korm. határozat |
