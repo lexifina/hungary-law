@@ -44,7 +44,7 @@ r) Kérdésként vetődik fel, hogy a konkurens Wizz Air igazgatósági tagsága
 
 3. A Bizottság működésének kezdetén maga határozza meg eljárási rendjét és vizsgálati módszereit, az 50/2003. (XI. 5.) AB határozatban foglaltak figyelembevételével.
 
-4. A Bizottság munkájáról jelentést készít, amelyet a megbízatásának kezdetétől számított 180 napon belül benyújt az Országgyűlésnek. A jelentésnek tartalmaznia kell:
+4.[^2] A Bizottság munkájáról jelentést készít, amelyet 2012. december 31-ig benyújt az Országgyűlésnek. A jelentésnek tartalmaznia kell:
 
 a) a Bizottság feladatát,
 
@@ -83,3 +83,5 @@ f) javaslatot az esetlegesen szükséges intézkedésekre.
 11. A Bizottság feladatának ellátásához szakértőket vehet igénybe. Működésének költségeit az Országgyűlés költségvetéséből kell fedezni.
 
 12. E határozat a közzététele napján lép hatályba.
+
+[^2]: A 4. pont a 62/2012. (IX. 24.) OGY határozat 1. pontja szerint módosított szöveg.
