@@ -1,8 +1,9 @@
-141. § (1) A Hjt. hatálybalépése előtt megkötött szerződések esetében, amennyiben azok hosszabbítására a törvény hatálybalépése után kerül sor, a Hjt. és e rendelet előírásait kell alkalmazni.
+141. § (1)[^286]
 
-(2)–(4)[^192]
+(2)–(4)[^287]
 
-(5)[^193] A polgári felsőoktatási intézményben honvédségi ösztöndíjasként végzett hallgatók hivatásos állományba vételéhez, amennyiben ösztöndíj szerződésük a Hjt. hatálybalépése előtt került megkötésre a 10. § (1) bekezdésében meghatározott katonai, szakmai gyakorlat megléte nem szükséges.
+(5)[^288]
 
-[^192]: A 141. § (2)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 104. pontja hatályon kívül helyezte.
-[^193]: A 141. § (5) bekezdését a 39/2002. (VI. 25.) HM rendelet 1. §-a iktatta a szövegbe.
+[^286]: A 141. § (1) bekezdését a 20/2012. (IX. 17.) HM rendelet 40. § (4) bekezdés c) pontja hatályon kívül helyezte.
+[^287]: A 141. § (2)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 104. pontja hatályon kívül helyezte.
+[^288]: A 141. § (5) bekezdését a 39/2002. (VI. 25.) HM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 20/2012. (IX. 17.) HM rendelet 40. § (4) bekezdés c) pontja.

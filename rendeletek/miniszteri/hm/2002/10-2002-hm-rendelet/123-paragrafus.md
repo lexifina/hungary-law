@@ -4,33 +4,33 @@
 
 123. § (1) A Honvédség központi személyügyi szerve:
 
-a)[^136] tervezi, szervezi és irányítja a személyi állomány biztosításával kapcsolatos tevékenységet, a hatáskörébe utalt személyügyi szakfeladatokat, az ehhez kapcsolódó döntések előkészítését, végrehajtását,
+a)[^185] tervezi, szervezi és irányítja a személyi állomány biztosításával kapcsolatos tevékenységet, a hatáskörébe utalt személyügyi szakfeladatokat, az ehhez kapcsolódó döntések előkészítését, végrehajtását,
 
 b) tervezi és irányítja az e rendeletben meghatározott előmeneteli rendszert, biztosítja és végzi az ahhoz kapcsolódó feladatok végrehajtását,
 
 c) elemzi és ellenőrzi a személyügyi igazgatásra vonatkozó jogszabályok betartását és érvényesülését, szükség esetén kezdeményezi a szükséges módosításokat,
 
-d)[^137] tervezi és irányítja a személyi állomány beiskolázásával kapcsolatos személyügyi feladatok végrehajtását,
+d)[^186] tervezi és irányítja a személyi állomány beiskolázásával kapcsolatos személyügyi feladatok végrehajtását, összeállítja a Honvédség név szerinti Éves Beiskolázási Terveit,
 
-e)[^138] vezeti a HVKF közvetlen alárendeltségébe tartozó vezetők személyi anyaggyűjtőjét,
+e)[^187] vezeti a hatáskörébe utalt vezetők személyi anyaggyűjtőjét,
 
-f)[^139] végzi a hatáskörébe utalt személyi állománnyal összefüggő alapszintű személyügyi feladatokat, illetve a középszintű irányító szervről, valamint a más magasabb szintű parancsnokság jogállású szervezet(ek)ről az összesített személyügyi nyilvántartást, irányítja az összesített és a központi személyügyi nyilvántartás szakfeladatait,
+f)[^188] végzi a hatáskörébe utalt személyügyi nyilvántartással kapcsolatos feladatokat,
 
 g) adatokat szolgáltat, tájékoztatást ad a Honvédség tervező, gazdálkodó és központi pénzügyi szervei részére,
 
-h)[^140] előterjeszti a HVKF részére a Honvédségre vonatkozó nemzetbiztonsági ellenőrzésekkel kapcsolatos felterjesztéseket,
+h)[^189] gyakorolja a hatáskörébe utalt személyi állománnyal összefüggő kiadmányozási jogokat.
 
-i)[^141] tiszti és tiszthelyettesi beosztásokba történő kinevezéseknél ellenőrzi a Hjt. 78. § (4) bekezdésében foglalt feltételeknek való megfelelést.
+i)[^190] tiszti és altiszti beosztásokba történő kinevezéseknél ellenőrzi a Hjt. 78. § (4) bekezdésében foglalt feltételeknek való megfelelést.
 
 (2) A Honvédség szervezeteinek személyügyi szervei:
 
-a)[^142] szervezik és végzik az állomány utánpótlásával, előmenetelével, beiskolázásával kapcsolatos szaktevékenységet,
+a)[^191] szervezik és végzik az állomány utánpótlásával, előmenetelével, beiskolázásával kapcsolatos szaktevékenységet,
 
 b) előkészítik a személyügyi vonatkozású döntéseket,
 
 c) tervezik és szervezik az állomány tagjainak teljesítményértékelését, vezetői értékelését és minősítését,
 
-d)[^143] hatáskörükbe tartozóan tervezik és szervezik az előmeneteli rendszer működését,
+d)[^192] hatáskörükbe tartozóan tervezik és szervezik az előmeneteli rendszer működését,
 
 e) vezetik az állomány személyügyi alapnyilvántartását,
 
@@ -42,17 +42,20 @@ h) biztosítják a személyügyi munkára vonatkozó jogszabályok és egyéb re
 
 i) az állományra, illetve annak egyes tagjaira vonatkozó döntésekről adatokat szolgáltatnak, tájékoztatást adnak a lakásgazdálkodási, illetve pénzügyi szervek felé,
 
-j)[^144] vezetik a hatáskörükbe utalt vezetők személyi anyaggyűjtőjét.
+j)[^193] vezetik a hatáskörükbe utalt vezetők személyi anyaggyűjtőjét,
 
-(3)[^145] Az állománytáblák (munkaköri jegyzékek) kiadását, módosítását tartalmazó javaslatok kialakításakor az érintett szervezet személyügyi vezetője javaslattételi, véleményezési jogkörrel vesz részt.
+k)[^194] gyakorolják a hatáskörükbe utalt személyi állománnyal összefüggő kiadmányozási jogokat.
 
-[^136]: A 123. § (1) bekezdésének a) pontja a 4/2006. (II. 7.) HM rendelet 45. § (1) bekezdésével megállapított szöveg. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
-[^137]: A 123. § (1) bekezdésének d) pontja a 4/2006. (II. 7.) HM rendelet 45. § (2) bekezdésével megállapított szöveg. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
-[^138]: A 123. § (1) bekezdésének e) pontja a 28/2007. (VII. 9.) HM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^139]: A 123. § (1) bekezdésének f) pontja a 28/2007. (VII. 9.) HM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^140]: A 123. § (1) bekezdésének h) pontját a 4/2006. (II. 7.) HM rendelet 45. § (3) bekezdése iktatta be. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
-[^141]: A 123. § (1) bekezdésének i) pontját a 4/2006. (II. 7.) HM rendelet 45. § (3) bekezdése iktatta be. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
-[^142]: A 123. § (2) bekezdésének a) pontja a 4/2006. (II. 7.) HM rendelet 45. § (4) bekezdésével megállapított szöveg. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
-[^143]: A 123. § (2) bekezdésének d) pontja a 4/2006. (II. 7.) HM rendelet 45. § (5) bekezdésével megállapított szöveg. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
-[^144]: A 123. § (2) bekezdésének j) pontját a 28/2007. (VII. 9.) HM rendelet 11. § (2) bekezdése iktatta be.
-[^145]: A 123. § (3) bekezdését az 1/2008. (I. 30.) HM rendelet 7. §-a iktatta be.
+(3)[^195] Az állománytáblák (munkaköri jegyzékek) kiadását, módosítását tartalmazó javaslatok kialakításakor az érintett szervezet személyügyi vezetője javaslattételi, véleményezési jogkörrel vesz részt.
+
+[^185]: A 123. § (1) bekezdésének a) pontja a 4/2006. (II. 7.) HM rendelet 45. § (1) bekezdésével megállapított szöveg. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
+[^186]: A 123. § (1) bekezdés d) pontja a 20/2012. (IX. 17.) HM rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^187]: A 123. § (1) bekezdés e) pontja a 20/2012. (IX. 17.) HM rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^188]: A 123. § (1) bekezdés f) pontja a 20/2012. (IX. 17.) HM rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^189]: A 123. § (1) bekezdésének h) pontját a 4/2006. (II. 7.) HM rendelet 45. § (3) bekezdése iktatta be, szövege a 20/2012. (IX. 17.) HM rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^190]: A 123. § (1) bekezdés i) pontját a 4/2006. (II. 7.) HM rendelet 45. § (3) bekezdése iktatta be, szövege a 20/2012. (IX. 17.) HM rendelet 39. § (1) bekezdés p) pontja szerint módosított szöveg.
+[^191]: A 123. § (2) bekezdésének a) pontja a 4/2006. (II. 7.) HM rendelet 45. § (4) bekezdésével megállapított szöveg. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
+[^192]: A 123. § (2) bekezdésének d) pontja a 4/2006. (II. 7.) HM rendelet 45. § (5) bekezdésével megállapított szöveg. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
+[^193]: A 123. § (2) bekezdésének j) pontját a 28/2007. (VII. 9.) HM rendelet 11. § (2) bekezdése iktatta be.
+[^194]: A 123. § (2) bekezdés k) pontját a 20/2012. (IX. 17.) HM rendelet 26. § (3) bekezdése iktatta be.
+[^195]: A 123. § (3) bekezdését az 1/2008. (I. 30.) HM rendelet 7. §-a iktatta be.

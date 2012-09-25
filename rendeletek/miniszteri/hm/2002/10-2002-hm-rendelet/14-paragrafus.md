@@ -1,20 +1,9 @@
-## 13. §[^19] A polgári oktatási intézményben tanuló honvédségi ösztöndíjas hallgatókkal az állománybavételi eljárást a katonai oktatási intézmény vagy a Honvédség központi személyügyi szerve folytatja le.
+14. §[^17] (1) Az önkéntes tartalékos katona indokolt kérelmére a Honvédség által előre tervezett tényleges szolgálatteljesítésre történő behívás átütemezhető. A kérelem a Hjt. 47/B. §-a szerinti behívóparancs közlésétől számított 8 napon belül írásban nyújtható be az állományilletékes parancsnok részére. A kérelem benyújtásának a behívóparancs teljesítésére nincs halasztó hatálya.
 
-14. § (1) Az állományba vétel időpontját úgy kell megtervezni, hogy a katonai képzettséggel nem rendelkező jelentkezők tervezett beosztásuk elfoglalása előtt alapkiképzésen részt vehessenek.
+(2) Az átütemezésről az állományilletékes parancsnok a kérelem beérkezését követően haladéktalanul, legfeljebb 3 napon belül dönt. Az átütemezési kérelmet csak kiemelten fontos szolgálati érdekre történő hivatkozással lehet elutasítani, amennyiben a tervezett katonai feladat végrehajtása az érintett önkéntes tartalékos katona nélkül nem lehetséges, vagy aránytalan nehézségekkel járna.
 
-(2) Amennyiben a jelentkező tervezett beosztásában a külön jogszabályban meghatározott nemzetbiztonsági követelményeknek való megfelelés ellenőrzése van előírva, az ellenőrzést a szolgálati viszony létesítése előtt kell végrehajtani.
+(3) Amennyiben az állományilletékes parancsnok a behívás átütemezését nem engedélyezi, a kérelem elutasításáról haladéktalanul értesíti az önkéntes tartalékos katonát és annak munkáltatóját. Az engedély megadása esetén a kiküldött behívóparancsot haladéktalanul határozatban vissza kell vonni, melyben egyúttal tájékoztatni kell az önkéntes tartalékos katonát a felkészítés vagy tényleges szolgálatteljesítés új időpontjáról. A kiküldött behívóparancs visszavonására a központi személyügyi nyilvántartást vezető szerv parancsnoka intézkedik, az állományilletékes parancsnoknak a döntéséről szóló értesítése alapján.
 
-(3) Az alapkiképzés tartama alatt a legénységi állomány tagja rendfokozat nélküli katonaként teljesít szolgálatot.
+(4) Annak érdekében, hogy az önkéntes tartalékos katona a kérelme elbírálásáról a szolgálat megkezdése előtt megfelelő időben értesülhessen, az állományilletékes parancsnok döntéséről az önkéntes tartalékos katonát a személyügyi szerv rövid úton is tájékoztatja. A tájékoztatás megtörténtéről feljegyzést kell készíteni. A tájékoztatás megtörténte a Honvédséget a (3) bekezdés szerinti kötelezettség teljesítése alól nem mentesíti.
 
-(4) A szolgálati viszony létesítése legalább a Honvédség állományában korábban szerzett katonai rendfokozattal történik. A más fegyveres vagy rendvédelmi szerv állományában szerzett rendfokozat figyelembe vehető.
-
-(5)[^20]
-
-(6)[^21] A katonai szervezetek állománytáblájában a beosztáshoz rendszeresített rendfokozattól az önkéntes tartalékos rendfokozata a szerződés megkötésekor – a rendfokozati állománycsoporton belül – egy rendfokozattal eltérhet.
-
-(7)[^22] A beosztáshoz rendszeresített rendfokozat elérésénél a Hjt. 84. § (2) bekezdésében meghatározottakat kell figyelembe venni. A várakozási idő kezdetét az önkéntes tartalékos jogviszony létesítésétől kell számolni.
-
-[^19]: A 13. § a 14/2011. (X. 28.) HM rendelet 12. §-ával megállapított szöveg.
-[^20]: A 14. § (5) bekezdését a 4/2006. (II. 7.) HM rendelet 67. § (1) bekezdésének a) pontja hatályon kívül helyezte.
-[^21]: A 14. § (6) bekezdését a 4/2006. (II. 7.) HM rendelet 7. §-a iktatta be.
-[^22]: A 14. § (7) bekezdését a 4/2006. (II. 7.) HM rendelet 7. §-a iktatta be.
+[^17]: A 14. § a 20/2012. (IX. 17.) HM rendelet 7. §-ával megállapított szöveg.

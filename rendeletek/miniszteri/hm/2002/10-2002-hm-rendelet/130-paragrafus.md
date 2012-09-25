@@ -2,15 +2,18 @@
 
 a) a Honvédség minden önálló állománytáblával vagy munkaköri jegyzékkel rendelkező szervezeti egységénél az állományba tartozó, valamint meghatározott szolgálati feladat teljesítésére odavezényelt állományról,
 
-b)[^156] a Honvédség központi személyügyi szervénél a Hjt. 46. § (3) bekezdésének d)–f), h), l) pontokban meghatározottak kivételével, a Hjt. 48. §-a (1) bekezdésének a), valamint h)–j) pontjaiban meghatározott rendelkezési állományba tartozókról,
+b)[^232] a központi személyügyi nyilvántartást vezető szervnél a Hjt. 46. § (3) bekezdés d) pontjában meghatározottak kivételével, a Hjt. 48. § (1) bekezdés a), d), i), m), o) és t) pontjaiban meghatározott rendelkezési állományba tartozókról, valamint a HM hivatásos és szerződéses állományáról.
 
-c)[^157] a lakóhely szerint illetékes hadkiegészítő parancsnokságokon a hivatásos állományból nyugállományba helyezett, továbbá a szolgálati kötelmekkel összefüggő baleset, betegség (haláleset) miatt kivált katonákról, valamint – a törvényben meghatározott esetben és körben – ezek hozzátartozóiról,
+c)[^233]
 
-d)[^158] a hadkiegészítő parancsnokság a szociális és kegyeleti gondoskodás körébe tartozókról érdekvédelmi gyűjtőt vezet. Az e pont hatálya alá tartozó tábornokokról a hadkiegészítő parancsnokságokon csak személyi adatlap másolatot kell kezelni.
+d)[^234]
 
-(2)[^159] A személyügyi alapnyilvántartás vezetésére kötelezett szervezeti egység vezetési szinteknek megfelelően (kötelékben lévő század, zászlóalj) kezeli a személyügyi igazgatási feladatok végrehajtása során az állomány tagjára vonatkozóan keletkezett – a 134. § (1) bekezdés a) pontjában felsorolt – iratokat. Az állomány tagja által rendelkezésére bocsátott hiteles okmányok alapján gondoskodik az adatok karbantartásáról.
+(2)[^235] A személyügyi alapnyilvántartás vezetésére kötelezett szervezeti egység vezetési szinteknek megfelelően (kötelékben lévő század, zászlóalj) kezeli a személyügyi igazgatási feladatok végrehajtása során az állomány tagjára vonatkozóan keletkezett – a 134. § (1) bekezdés a) pontjában felsorolt – iratokat. Az állomány tagja által rendelkezésére bocsátott hiteles okmányok alapján gondoskodik az adatok karbantartásáról.
 
-[^156]: A 130. § (1) bekezdésének b) pontja a 4/2006. (II. 7.) HM rendelet 53. § (1) bekezdésével megállapított szöveg. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
-[^157]: A 130. § (1) bekezdésének c) pontja a 4/2006. (II. 7.) HM rendelet 53. § (1) bekezdésével megállapított szöveg.
-[^158]: A 130. § (1) bekezdésének d) pontját a 4/2006. (II. 7.) HM rendelet 53. § (2) bekezdése iktatta be.
-[^159]: A 130. § (2) bekezdése a 4/2006. (II. 7.) HM rendelet 53. § (3) bekezdésével megállapított szöveg.
+(3)[^236] A címzetes önkéntes tartalékosok nyilvántartását a Honvédség központi személyügyi szerve vezeti.
+
+[^232]: A 130. § (1) bekezdés b) pontja a 20/2012. (IX. 17.) HM rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^233]: A 130. § (1) bekezdés c) pontját a 20/2012. (IX. 17.) HM rendelet 40. § (3) bekezdés p) pontja hatályon kívül helyezte.
+[^234]: A 130. § (1) bekezdésének d) pontját a 4/2006. (II. 7.) HM rendelet 53. § (2) bekezdése iktatta be, hatályon kívül helyezte a 20/2012. (IX. 17.) HM rendelet 40. § (3) bekezdés p) pontja.
+[^235]: A 130. § (2) bekezdése a 4/2006. (II. 7.) HM rendelet 53. § (3) bekezdésével megállapított szöveg.
+[^236]: A 130. § (3) bekezdését a 20/2012. (IX. 17.) HM rendelet 29. § (2) bekezdése iktatta be.

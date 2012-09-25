@@ -1,9 +1,10 @@
+## 120/B. §[^183] A 118–120/A. §-t a honvéd tisztjelöltekre és a honvéd altiszt-jelöltekre is megfelelően alkalmazni kell azzal, hogy a HVKF döntési lapon rögzített döntésének megfelelően a Honvédség központi személyügyi szervének vezetője köti meg az ösztöndíjszerződést.
+
 ## A személyügyi igazgatás irányítása és ellenőrzése
 
-121. § (1) A személyügyi igazgatás feladatait a személyügyi szervek a hatályos jogszabályok, belső rendelkezések alapján a miniszter által kiadott humánpolitikai irányelvek figyelembevételével végzik.
-
-(2)[^135] A Honvédelmi Minisztérium hivatali szervezetének vezetője szakmai felettesként ellátja a személyügyi igazgatás és a humánpolitikai intézményrendszer szakirányítását.
+121. § (1)–(2)[^184]
 
 (3) A személyügyi igazgatás körébe tartozó feladatok végrehajtásának megszervezését, közvetlen szakmai irányítását a Honvédség központi személyügyi szerve végzi.
 
-[^135]: A 121. § (2) bekezdése a 28/2007. (VII. 9.) HM rendelet 10. §-ával megállapított szöveg.
+[^183]: A 120/B. §-t a 20/2012. (IX. 17.) HM rendelet 25. §-a iktatta be.
+[^184]: A 121. § (1)–(2) bekezdését a 20/2012. (IX. 17.) HM rendelet 40. § (3) bekezdés f) pontja hatályon kívül helyezte.

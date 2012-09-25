@@ -1,4 +1,4 @@
-## 41. § A más szerv vezetője az állomány tagjának fegyelemsértése vagy bűncselekménye, illetve azok elkövetésének alapos gyanúja esetén javaslatot tehet a vezénylés elrendelésére jogosult munkáltatói jogkört gyakorló elöljárónak a vezényelt fegyelmi vétségének kivizsgálására, a felelősségre vonására, illetve a büntetőeljárás megindítására.
+## 41. §[^48] A más szerv vezetője az állomány tagjának fegyelemsértése, méltatlansága vagy bűncselekménye, illetve azok elkövetésének alapos gyanúja esetén javaslatot tehet a vezénylés elrendelésére jogosult munkáltatói jogkört gyakorló elöljárónak a vezényelt fegyelmi vétségének, méltatlanságának kivizsgálására, a felelősségre vonására, illetve a büntetőeljárás megindítására.
 
 42. § (1) A vezénylés munkáltatói jogát gyakorló parancsnok (vezető) a más szerv vezetőjével történt egyeztetést követő megállapodás alapján megszünteti a vezénylést, ha
 
@@ -22,6 +22,7 @@ c) a vezényelt a beosztásával járó kötelezettségeit bizonyítottan nem te
 
 (4) A vezénylést az elrendelésre jogosult elöljáró parancsával kell megszüntetni.
 
-(5)[^44] A vezénylés megszüntetése esetén – kivéve az (1) bekezdés b) pontja és a (2) bekezdés c) pontja alapján történő megszüntetést – az állomány tagját a viselt rendfokozatának megfelelő szintű szolgálati beosztásba kell helyezni. Betölthető szolgálati beosztás hiányában a Hjt. 48. §-a (1) bekezdésének j) pontja szerint rendelkezési állományba, vagy ha arra jogosultságot szerzett, szolgálati nyugállományba lehet helyezni.
+(5)[^49]
 
-[^44]: A 42. § (5) bekezdése a 4/2006. (II. 7.) HM rendelet – a Magyar Közlöny 2006. évi 34. számában megjelent helyesítésnek megfelelő – 14. §-ával megállapított szöveg.
+[^48]: A 41. § a 20/2012. (IX. 17.) HM rendelet 39. § (1) bekezdés d)–e) pontja szerint módosított szöveg.
+[^49]: A 42. § (5) bekezdését a 20/2012. (IX. 17.) HM rendelet 40. § (1) bekezdés p) pontja hatályon kívül helyezte.

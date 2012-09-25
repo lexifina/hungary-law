@@ -2,6 +2,9 @@
 
 (2) Ha a pályázat eredménytelen volt, új pályázatot lehet kiírni.
 
-(3) A pályázat elbírálására jogosult munkáltatói jogkört gyakorló elöljáró által vezetett szervezet személyügyi szerve köteles a döntést követő 30 napon belül minden pályázót pályázata eredményéről értesíteni.
+(3)[^36]
 
-(4) A bizottság üléséről készült jegyzőkönyvet a (3) bekezdésben meghatározott személyügyi szerv 5 évig köteles megőrizni.
+(4)[^37] A bizottság üléséről készült jegyzőkönyvet a pályázatot kiíró személyügyi szerv 5 évig köteles megőrizni.
+
+[^36]: A 29. § (3) bekezdését a 20/2012. (IX. 17.) HM rendelet 40. § (1) bekezdés l) pontja hatályon kívül helyezte.
+[^37]: A 29. § (4) bekezdése a 20/2012. (IX. 17.) HM rendelet 39. § (1) bekezdés b) pontja szerint módosított szöveg.

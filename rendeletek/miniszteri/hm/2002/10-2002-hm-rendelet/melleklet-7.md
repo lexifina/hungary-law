@@ -56,56 +56,9 @@
 
 | Katonai törzskultúrában való jártasság | Az érvényes szabályzók kiemelkedően magas szintű alkalmazása szóban és írásban, az informatikai eszközök alkalmazásában egyaránt. |  |  |  |  |  | Az érvényes szabályzók kirívóan alacsony szintű alkalmazása szóban és írásban, az informatikai eszközök alkalmazásában egyaránt. |
 
-7. számú melléklet a 10/2002. (III. 5.) HM rendelethez
+7. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^319]
 
-## ELŐMENETEL TERVEZÉSI LAP
+7. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^320]
 
-| .................................................. alakulat (szervezet) |  |
-
-|  | Alkalmazott azonosító szám: |  |  |  |  |  |  |
-
-|  | Kat. ig. jegy száma: |  |  |  |  |  |  |  |  |  |  |  |
-
-## ELŐMENETEL TERVEZÉSI LAP
-
-| 1. | Név: Sz. év: a. n.: | Rf./év/hó/nap: | Rendsz. rf.: |
-
-| 2. | Beosztása: | Heő.: |
-
-| 3. | Munkakör azonosító kód: |  |  |  |  |  |  |  |  |  |  |  |
-
-| 4. | Szakképzettségei: | 5. | Tanfolyami végzettségei: |
-
-| 6. | Nyelvismeret: |
-
-| 7. | Előző beosztásai: | Munkakör azonosító kód: |
-
-## 8. Kiegészítő információk a beosztás megtervezéséhez:
-
-## 9. Kinevezési javaslat:
-
-| Előmeneteli rangsor: | Pontszám: | Korrigált pontszám: |
-
-| Beosztás: | Heő.: |
-
-## 10. Ismertetés:
-
-| Tudomásul vettem: | Nem fogadom el: |
-
-| ...... év ............... hó ....... nap | ...... év ............... hó ........ nap |
-
-| ......................................... |  | ........................................... |  |
-
-| aláírás |  | aláírás |  |
-
-## 11. Személyügyi záradék:
-
-## ............ év .................... hó ....... nap
-
-|  | .................................................... |
-
-|  | személyügyi vezető |
-
-7. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^216]
-
-[^216]: Az újabb 7. számú mellékletet a 30/2003. (IX. 11.) HM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 4/2006. (II. 7.) HM rendelet 67. § (1) bekezdésének a) pontja.
+[^319]: A 7. számú mellékletet a 20/2012. (IX. 17.) HM rendelet 40. § (4) bekezdés f) pontja hatályon kívül helyezte.
+[^320]: Az újabb 7. számú mellékletet a 30/2003. (IX. 11.) HM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 4/2006. (II. 7.) HM rendelet 67. § (1) bekezdésének a) pontja.

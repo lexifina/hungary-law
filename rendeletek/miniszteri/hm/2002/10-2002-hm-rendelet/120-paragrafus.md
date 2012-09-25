@@ -1,14 +1,17 @@
-120. §[^133] (1) A munkáltatói jogkörben hozott döntésekről a munkáltatói jogkört gyakorló elöljáró (vezető) által vezetett szervezet személyügyi szerve egyéni vagy összesítő parancsot készít, melyet a munkáltatói jogkör gyakorlója ír alá.
+120. §[^181] (1) Amennyiben a munkáltatói jogkör gyakorlója a Hjt. 7/A. §-ának alkalmazásával hozza meg a hatáskörébe tartozó munkáltatói döntést, a döntési lapot a munkáltatói jogkör gyakorlójának személyügyi szerve készíti elő. A döntési lap mellékletét képezi a döntést megalapozó személyi javaslati lap. Amennyiben a személyügyi eljárás az állomány tagja kérelmére indul, azt a személyi javaslathoz csatolni kell.
 
-(2)[^134] A fegyelmi jogkörben, valamint az önkéntes tartalékos kivételével a jogviszony létesítését megszüntetését, illetve a Hjt. 50. § (2) bekezdés a) és d)–e) pontjait érintően hozott döntésekről egyéni parancs vagy határozat készül.
+(2) A döntési lapot egy eredeti példányban kell elkészíteni, és nyilvántartási számmal kell ellátni. A döntési lapnak tartalmaznia kell
 
-(3) Az (1) bekezdésben meghatározott összesítő parancs alapján elkészített egyéni parancs kivonatot a munkáltatói jogkört gyakorló elöljáró (vezető) által vezetett szervezet személyügyi szervezetének vezetője vagy az általa meghatározott személy hitelesíti.
+a) az állomány tagjának nevét, rendfokozatát, személyügyi törzsszámát,
 
-(4) A parancs tartalmazza a munkáltatói jogkör gyakorlójának döntéseit, valamint a jogszabályból eredő egyéb követelményeket, illetve következményeket.
+b) a személyügyi eljárás tárgyát,
 
-(5) Az (1)–(2) bekezdések szerinti parancsból kivonat csak a döntésben érintett szervezet részére készül, ettől eltérően a Honvédség központi személyügyi szerv vezetője intézkedhet.
+c) a munkáltatói döntés hatálybalépésének időpontját, illetve időtartamát,
 
-(6) A parancsot vagy kivonatát a címzett részére a Honvédség központi személyügyi szerv vezetőjének szakutasításában meghatározott módon kell kézbesíteni.
+d) azokat a jogszabályhelyeket, amelyek a munkáltatói döntést megalapozzák, valamint
 
-[^133]: A 120. § a 4/2006. (II. 7.) HM rendelet 43. §-ával megállapított szöveg. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
-[^134]: A 120. § (2) bekezdése az 1/2008. (I. 30.) HM rendelet 6. §-ával megállapított, a 3/2012. (III. 6.) HM rendelet 25. §-a szerint módosított szöveg.
+e) a munkáltatói jogkör gyakorlójának döntésére vonatkozó alternatívákat.
+
+(3) A döntési lapot szolgálati úton fel kell terjeszteni a munkáltatói jogkör gyakorlójának. A munkáltatói jogkör gyakorlója döntését a döntési lapon rögzíti.
+
+[^181]: A 120. § a 20/2012. (IX. 17.) HM rendelet 24. §-ával megállapított szöveg.

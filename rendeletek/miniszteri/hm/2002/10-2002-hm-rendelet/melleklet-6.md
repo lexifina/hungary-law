@@ -4,7 +4,7 @@
 
 | a szervezet megnevezése |  |
 
-|  | Alkalmazott azonosító szám: |  |  |  |  |  |  |
+|  | Személyügyi törzsszám: |  |  |  |  |  |  |
 
 |  | Kat. ig. jegy száma: |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -226,11 +226,11 @@
 
 ## (Az I., II/1., 2., 3., 4., 5., 6., 7., 8., 9. pontok.)
 
-## 2.[^214] A minősítés tartalma: Az értékelő tölti ki. A minősítési időszak alatt végzett tevékenység megítélése.
+## 2.[^317] A minősítés tartalma: Az értékelő tölti ki. A minősítési időszak alatt végzett tevékenység megítélése.
 
 ## Az értékelés tartalma és szempontjai (III/1. pont): Értékelt területenként a megfelelő értékelési csoportba jól látható jelet (X vagy +) kell írni. A skála szélső értékei: 7 – Kiváló, 1 – Nem megfelelő.
 
-## A tiszti, zászlósi, tiszthelyettesi értékelőlap 16 kötelező és 9 választható szempontot tartalmaz. Az értékelt által betöltött beosztás jellegétől függően a válaszható szempontok közül kell kiválasztani további 4-et, így összesen 20 szempont alapján készül az értékelés.
+## A tiszti, zászlósi, altiszti értékelőlap 16 kötelező és 9 választható szempontot tartalmaz. Az értékelt által betöltött beosztás jellegétől függően a válaszható szempontok közül kell kiválasztani további 4-et, így összesen 20 szempont alapján készül az értékelés.
 
 ## Értékelési csoportonként maximális (7-es) pontszámot csak a következő megoszlásban lehet adni:
 
@@ -270,7 +270,7 @@
 
 ## 11. Súlyozott értékelés, rangsorolás (XII. fejezet): Az Előmeneteli Bizottság tölti ki az adott évre meghatározott irányelvek alapján. Az értékelt a saját minősítéséről hiteles másolatot kérhet a személyügyi szervtől.
 
-6. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^215]
+6. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^318]
 
-[^214]: Az 5. számú melléklet Kitöltési Útmutatójának 2. pontja a 31/2003. (X. 16.) HM rendelet 8. § (2) bekezdése szerint módosított szöveg.
-[^215]: A 6. számú melléklet a 31/2003. (X. 16.) HM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^317]: Az 5. számú melléklet Kitöltési Útmutatójának 2. pontja a 31/2003. (X. 16.) HM rendelet 8. § (2) bekezdése, a 20/2012. (IX. 17.) HM rendelet 39. § (1) bekezdés p) pontja szerint módosított szöveg.
+[^318]: A 6. számú melléklet a 31/2003. (X. 16.) HM rendelet 7. § (2) bekezdésével megállapított szöveg.

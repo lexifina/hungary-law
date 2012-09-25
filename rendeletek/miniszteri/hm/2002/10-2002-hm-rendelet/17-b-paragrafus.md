@@ -1,17 +1,3 @@
-## 17/B. §[^34] 2012. június 30-ig az önkéntes műveleti és az önkéntes védelmi tartalékos szolgálati viszony létesítése során a III. Fejezet rendelkezéseit a következő eltérésekkel kell alkalmazni:
+## 17/A. §[^25]
 
-a) az önkéntes tartalékos szerződés megkötésére a Honvédség képviseletében az állományilletékes parancsnok jogosult;
-
-b) az állományilletékes parancsnok az önkéntes tartalékos szerződés megkötéséről a rendelkezésre álló iratok alapján dönt;
-
-c) a 12. § (3) és (4) bekezdése, a 14. § (4) és (6) bekezdése nem alkalmazható;
-
-d) a tiszti, altiszti állományba vétel érdekében az önkéntes tartalékos szerződést kell a HVKF részére felterjeszteni;
-
-e) a felterjesztett önkéntes tartalékos szerződés alapján a tiszti, altiszti állományba vételről a HVKF dönt;
-
-f) tiszti, altiszti állományba vétel esetén az állományba vétel időpontja megegyezik a szerződés megkötésének napjával; továbbá
-
-g) amennyiben tiszti, altiszti állományba vételre nem kerül sor, az önkéntes tartalékos szerződést azonnali hatállyal meg kell szüntetni.
-
-[^34]: A 17/B. §-t a 3/2012. (III. 6.) HM rendelet 24. §-a iktatta be.
+[^25]: A 17/A. §-t a 14/2011. (X. 28.) HM rendelet 14. §-a iktatta be, hatályon kívül helyezte a 20/2012. (IX. 17.) HM rendelet 40. § (1) bekezdés g) pontja.

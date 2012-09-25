@@ -1,4 +1,4 @@
-112. § (1) A kinevezéssel kapcsolatos személyügyi eljárást a szolgálati hely szerinti katonai szervezetnél kell lefolytatni.
+112. § (1)[^161] A kinevezéssel kapcsolatos személyügyi eljárást a tervezett beosztás szolgálati helye szerinti katonai szervezetnél kell lefolytatni.
 
 (2) A személyügyi eljárás során az állomány tagjával közölni kell:
 
@@ -8,20 +8,24 @@ b) tervezett beosztásának konkrét megnevezését,
 
 c) kinevezésének várható időpontját,
 
-d) át- vagy továbbképzési kötelezettségét,
+d)[^162]
 
 e) a tervezett beosztás ellátásával kapcsolatos juttatásokat, járandóságokat, azok biztosításának rendjét, valamint az egyéb körülményeket.
 
-(3) Az állomány tagja a személyével kapcsolatos elgondolás ismertetését és tervezett előmenetelének elfogadását az előmenetel tervezési lapon aláírásával igazolja.
+(3)[^163] Az állomány tagja a személyével kapcsolatos elgondolás ismertetéséről és tervezett beosztás elfogadásáról a személyi javaslati lap aláírásával írásban nyilatkozik.
 
-(4) A kinevezési javaslat elfogadását követően – amennyiben a kinevezés helyőrségváltással jár – az új szolgálati beosztás ellátásával kapcsolatos juttatások, ellátások és jogosultságok biztosításának módját az előmenetel tervezési lapon rögzíteni kell.
+(4)[^164]
 
-(5)[^121] Ha az állomány tagja a tervezett beosztást az 51. §-ban meghatározott különös méltánylást érdemlő egyéni érdekből nem fogadja el, annak indokát a személyi beszélgetés jegyzőkönyvében részletesen rögzíteni kell.
+(5)[^165] Ha az állomány tagja a tervezett beosztást az 51. §-ban meghatározott különös méltánylást érdemlő egyéni érdekből nem fogadja el, annak részletes indokáról írásban nyilatkozik.
 
-(6)[^122] Ha a szolgálati viszony módosításával kapcsolatos munkáltatói jogkört nem az állományilletékes parancsnok gyakorolja, a hatáskörében végrehajtott személyi eljárásról készült személyi beszélgetés jegyzőkönyvét, valamint az előmenetel tervezési lapot a szükséges személyügyi okmányokkal együtt április 30-ig megküldi az illetékes munkáltatói jogkört gyakorló részére.
+(6)[^166]
 
-(7)[^123] A munkáltatói jogkör gyakorlója a szakirányreferensek, illetve a kamarai jogkört gyakorló szakmai véleményét a személyi javaslatok beérkezését követően írásban megkérheti.
+(7)[^167]
 
-[^121]: A 112. § (5) bekezdése a 4/2006. (II. 7.) HM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^122]: A 112. § (6) bekezdése a 4/2006. (II. 7.) HM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^123]: A 112. § (7) bekezdését a 4/2006. (II. 7.) HM rendelet 38. § (2) bekezdése iktatta be.
+[^161]: A 112. § (1) bekezdése a 20/2012. (IX. 17.) HM rendelet 39. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^162]: A 112. § (2) bekezdés d) pontját a 20/2012. (IX. 17.) HM rendelet 40. § (2) bekezdés y) pontja hatályon kívül helyezte.
+[^163]: A 112. § (3) bekezdése a 20/2012. (IX. 17.) HM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^164]: A 112. § (4) bekezdését a 20/2012. (IX. 17.) HM rendelet 40. § (2) bekezdés z) pontja hatályon kívül helyezte.
+[^165]: A 112. § (5) bekezdése a 20/2012. (IX. 17.) HM rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^166]: A 112. § (6) bekezdését a 20/2012. (IX. 17.) HM rendelet 40. § (2) bekezdés z) pontja hatályon kívül helyezte.
+[^167]: A 112. § (7) bekezdését a 4/2006. (II. 7.) HM rendelet 38. § (2) bekezdése iktatta be, haátlyon kívül helyezte a 20/2012. (IX. 17.) HM rendelet 40. § (2) bekezdés z) pontja.

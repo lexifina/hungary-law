@@ -1,61 +1,59 @@
-## SZEMÉLYI JAVASLATI LAP
+## ALAKULAT (SZERVEZET) Döntési lap száma:
 
-| .................................................. alakulat (szervezet) |  |
+## ________________________ .....................................................
 
-|  | Alkalmazott azonosító szám: |  |  |  |  |  |  |
+|  | SZTSZ: |  |  |  |  |  |  |  |  |
 
-|  | Kat. ig. jegy száma: |  |  |  |  |  |  |  |  |  |  |  |
+## Személyi Javaslati Lap
 
-## SZEMÉLYI JAVASLATI LAP
+## (javaslat tárgya)
 
-| 1. | Név: Sz. év: a. n.: | Rf./év/hó/nap: | Rendsz. rf.: |
+| 1. | Név: a.n.: szül. idő: | Rf./év/hó/nap: | Jogviszony: |
 
-| 2. | Beosztása: | Heő.: |
+| 2. | Beosztása: |  | Helyőrség: |
 
-| 3. | Munkakör azonosító kód: |  |  |  |  |  |  |  |  |  |  |  |
+| 3. | MAK: |  |  |  |  |  |  |  |  |  |  |  | Rendsz. rf.: | Előmeneteli rend: |
 
-| 4. | Szakképzettségei: | 5. | Tanfolyami végzettségei: |
+| 4. | Kiegészítő információk: |
 
-| 6. | Nyelvismeret: |
+| 5. | A javaslat és indoklása: |
 
-## 7. A javaslat tárgya:
+| 6. | A javaslattevő beosztása: |
 
-## 8. A javaslat indoklása:
+| 7. | A javaslattétel időpontja: | A javaslattevő aláírása: |
 
-## 9. A javaslathoz kapcsolódó előzmények kiegészítő információk:
+| 8. | Az érintett személy nyilatkozata: |
 
-## .......... év ........................... hó ....... nap
-
-|  | ................................................................ |
-
-|  | állományilletékes parancsnok |
+| 9. | A nyilatkozattétel időpontja: | Az érintett személy aláírása: |
 
 ## 10. Szolgálati elöljáró javaslata:
 
-## ........ év ................................. hó ....... nap
+## 20. ……………….. hó ……. nap
 
-|  | ................................................................ |
+## ……………………………………….
 
-|  | aláírás |
+## aláírás
 
 ## 11. Szolgálati elöljáró javaslata:
 
-## ........ év ................................. hó ....... nap
+## 20. ……………….. hó ……. nap
 
-|  | ................................................................ |
+## ……………………………………….
 
-|  | aláírás |
+## aláírás
 
 ## 12. Döntés:
 
-## ........ év ................................. hó ....... nap
+## 20. ……………….. hó ……. nap
 
-|  | ................................................................ |
+## ……………………………………….
 
-|  | aláírás |
+## aláírás
 
 ## 13. Csatolva:
 
-3. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^211]
+## Ügyintéző neve/rendfokozata/ elérhetősége:
 
-[^211]: A 3. számú melléklet a 31/2003. (X. 16.) HM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján az illetékes személyügyi vezetőnek a 2003. október 19. előtt elkészített teljesítményértékeléseket a 2003/2004. évi előmenetelnél úgy kell figyelembe vennie, hogy a legénységi állomány tekintetében figyelmen kívül kell hagyni az értékelés eredményéből a 6–9., a 12. és a 14. szempontok pontszámait. Valamennyi teljesítményértékelést ki kell egészíteni a megszerezhető többletpontokkal. A módosításról jegyzőkönyvet kell felvenni, amelyet az állomány tagjával történt ismertetés után a teljesítményértékelési laphoz csatolni kell.
+3. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^311]
+
+[^311]: A 3. számú melléklet a 31/2003. (X. 16.) HM rendelet 7. § (2) bekezdésével megállapított, a 20/2012. (IX. 17.) HM rendelet 39. § (1) bekezdés p) pontja, (3) bekezdés l) pontja szerint módosított szöveg.

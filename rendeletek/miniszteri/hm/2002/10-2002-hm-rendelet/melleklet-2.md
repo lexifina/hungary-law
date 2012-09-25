@@ -1,187 +1,197 @@
 ## Táblázat az egyes munkáltatói jogkörök gyakorlásának rendjéről
 
-| Fsz. | A hatáskör területe | A munkáltatói jogkör megnevezése | A munkáltatói jogkör gyakorlója |
+|  | A | B | C | D | E | F |
 
-| Közigaz- gatási államtitkár | HM HVKF | Országos parancs- nok | Közép- szintű és más magasabb szintű pk.-ság vezetője | Áll. ill. pk. |
+| 1. | A hatáskör területe | A munkáltatói jogkör megnevezése | HVKF | KNBSZ főigazgatója | Középirányító parancsnok | Állományilletékes parancsnok |
 
-| 1. | Szolgálati viszony létesítése, állományba vétel, visszavétel, szolgálati viszony megszüntetése | 1.1. Szolgálati viszony létesítése – tiszt, zászlós, tiszthelyettes |  | X |  |  |  |
+| 2. | 1. Szolgálati viszony létesítése, állományba vétel, visszavétel, szolgálati viszony megszüntetése | 1.1. Szolgálati viszony létesítése |  |
 
-| – tisztes |  |  |  |  | X |
+| 3. | – főtiszt, tiszt, zászlós, altiszt, honvéd tisztjelölt, honvéd altiszt-jelölt | X |  |  |  |
 
-| 1.2. Szolgálati viszony megszüntetése |  |  |  |  |  |
+| 4. | – tisztes |  |  |  | X |
 
-| – tiszt, zászlós, tiszthelyettes |  | X |  |  |  |
+| 5. | 1.2. Szolgálati viszony megszüntetése |  |  |  |  |
 
-| – tisztes |  |  |  |  | X |
+| 6. | – főtiszt, tiszt, zászlós, altiszt, honvéd tisztjelölt, honvéd altiszt-jelölt | X |  |  |  |
 
-| 1.3. Hivatásos állományba való visszavétel |  |  |  |  |  |
+| 7. | – tisztes |  |  |  | X |
 
-| – tiszt, zászlós, tiszthelyettes |  | X |  |  |  |
+| 8. | 1.3. Hivatásos állományba való visszavétel |  |
 
-| 2. | Rendfokozatra vonatkozó döntések | 2.1. Első rendfokozatba való kinevezés |  |  |  |  |  |
+| 9. | – főtiszt, tiszt, zászlós, altiszt | X |  |  |  |
 
-| – tiszt, zászlós, tiszthelyettes |  | X |  |  |  |
+| 10. | 2. Rendfokozatra vonatkozó döntések | 2.1. Első rendfokozatba való kinevezés |  |
 
-| – tisztes |  |  |  |  | X |
+| 11. | – főtiszt, tiszt, zászlós, altiszt | X |  |  |  |
 
-| 2.2. Előléptetés magasabb rendfokozatba |  |  |  |  |  |
+| 12. | – tisztes |  |  |  | X |
 
-| – alezredessé, főtörzszászlóssá | X | X | X |  |  |
+| 13. | 2.2. Előléptetés magasabb rendfokozatba |  |
 
-| – őrnaggyá, | X | X | X | X |  |
+| 14. | – alezredessé, – főtörzszászlóssá | X | X |  |  |
 
-| – századossá, főhadnaggyá, törzs- őrmester-törzszászlóssá, tisztessé |  |  |  |  | X |
+| 15. | – őrnaggyá | X | X | X |  |
 
-| 3. | Rendfokozatot és szolgálati viszonyt érintő fegyelmi döntések | 3.1. Minimális várakozási idő meghosszabbítás |  |  |  |  |  |
+| 16. | – századossá – főhadnaggyá – törzszászlóssá – törzsőrmesterré, tisztessé |  |  |  | X |
 
-| – tiszt | X | X | X | X |  |
+| 17. | 3. Rendfokozatot és szolgálati viszonyt érintő fegyelmi döntések | 3.1. Minimális várakozási idő meghosszabbítás |  |
 
-| – zászlós, tiszthelyettes, tisztes |  |  |  |  | X |
+| 18. | – főtiszt, tiszt, zászlós, altiszt, tisztes |  |  |  | X |
 
-| 3.2. Lefokozás |  |  |  |  |  |
+| 19. | 3.2. Lefokozás |  |
 
-| – alez.-hdgy., zászlós, tiszthelyettes |  | X |  |  |  |
+| 20. | – alez.-hdgy., zászlós, altiszt | X |  |  |  |
 
-| – tisztes |  |  |  |  | X |
+| 21. | – tisztes |  |  |  | X |
 
-| 3.3. Szolgálati viszony megszüntetése |  |  |  |  |  |
+| 22. | 3.3. Szolgálati viszony megszüntetése |  |
 
-| – alez.-hdgy., zászlós, tiszthelyettes |  | X |  |  |  |
+| 23. | – alez.-hdgy., zászlós, altiszt, honvéd tisztjelölt, honvéd altiszt-jelölt | X |  |  |  |
 
-| – tisztes |  |  |  |  | X |
+| 24. | – tisztes |  |  |  | X |
 
-| 3.4. Illetménycsökkentés |  |  |  |  |  |
+| 25. | 3.4. Illetménycsökkentés |  |
 
-| – tiszt | X | X | X | X |  |
+| 26. | – főtiszt, tiszt, zászlós, altiszt, tisztes, honvéd tisztjelölt, honvéd altiszt-jelölt |  |  |  | X |
 
-| – zászlós, tiszthelyettes, tisztes |  |  |  |  | X |
+| 27. | 4. Szolgálati beosztásra vonatkozó döntések | 4.1. Szolgálati beosztásból felfüggesztés, illetmény-visszatartás |  |
 
-| 4. | Szolgálati beosztásra vonatkozó döntések | 4.1. Szolgálati beosztásból felfüggesztés, illetményvisszatartás |  |  |  |  |  |
+| 28. | – alez.-hdgy. | X | X | X |  |
 
-| – alez.-hdgy., zászlós | X | X | X | X |  |
+| 29. | – zászlós, altiszt, tisztes |  |  |  | X |
 
-| – tiszthelyettes, tisztes |  |  |  |  | X |
+| 30. | 4.2. Magasabb beosztásba kinevezés |  |
 
-| 4.2. Magasabb beosztásba kinevezés |  |  |  |  |  |
+| 31. | – alezredesi, főtörzszászlósi rendfokozattal rendszeresített beosztásba | X | X |  |  |
 
-| – alezredesi, főtörzszászlósi rend- fokozattal rendszeresített beosztásba | X | X | X |  |  |
+| 32. | – őrnagyi rendfokozattal rendszeresített beosztásba | X | X | X |  |
 
-| – őrnagyi rendfokozattal rendsze- resített beosztásba | X | X | X | X |  |
+| 33. | – szds.-hdgy., tzls.-őrm., tisztesi rendfokozattal rendszeresített beosztásba |  |  |  | X |
 
-| – szds.-hdgy., tzls.-őrm., tisztesi rendfokozattal rendszeresített beosztásba |  |  |  |  | X |
+| 34. | – katonai attaséhelyettes |  | X |  |  |
 
-| – katonai attaséhelyettes |  |  | X |  |  |
+| 35. | 5. Vezénylés külföldi szolgálatra | 5.1. A Hjt. 2. § (32) bekezdés a) pontja szerinti esetben |  |
 
-| 4.3. |  |  |  |  |  |
+| 36. | – zászlós, altiszt, tisztes | X |  |  |  |
 
-| 5. | Vezénylés külföldi szolgálatra | 5.1. A Hjt. 2. § (32) bekezdés a) pontja szerinti esetben |  |  |  |  |  |
+| 37. | 5.2. A Hjt. 2. § (32) bekezdés b) és f), g) pontja szerinti esetben, 1 évet meg nem haladó időtartamra |  |
 
-| – zászlós, tiszthelyettes, tisztes |  | X |  |  |  |
+| 38. | – főtiszt, tiszt, zászlós, altiszt, tisztes | X | X | X |  |
 
-| 5.2. A Hjt. 2. § (32) bekezdés b), és f), g) pontja szerinti esetben, 1 évet meg nem haladó időtartamra |  |  |  |  |  |
+| 39. | 5.3. A Hjt. 2. § (32) bekezdés c)–e) és k) pontja szerinti esetben, 1 évet meg nem haladó időtartamra |  |
 
-| – tiszt, zászlós, tiszthelyettes, tisztes | X | X | X |  |  |
+| 40. | – főtiszt, tiszt, zászlós, altiszt, tisztes | X | X | X |  |
 
-| 5.3. A Hjt. 2. § (32) bekezdés c)–e) pontja szerinti esetben, 1 évet meg nem haladó időtartamra |  |  |  |  |  |
+| 41. | 5.4. A Hjt. 2. § (32) bekezdés c)–e) és k) pontja szerinti esetben, 1 évet meghaladó időtartamra |  |
 
-| – tiszt, zászlós, tiszthelyettes, |  |  |  |  |  |
+| 42. | – főtiszt, tiszt, zászlós, altiszt, tisztes | X |  |  |  |
 
-| tisztes | X | X | X | X |  |
+| 43. | 5.5. A Hjt. 2. § (32) bekezdés h) pontja szerinti esetben, 1 évet meg nem haladó időtartamra |  |
 
-| 5.4. A Hjt. 2. § (32) bekezdés c)–e) pontja szerinti esetben, 1 évet meghaladó időtartamra |  |  |  |  |  |
+| 44. | – tábornok (90 napig) | X | X |  |  |
 
-| – tiszt, zászlós, tiszthelyettes, tisztes |  | X |  |  |  |
+| 45. | – főtiszt, tiszt, zászlós, altiszt, tisztes, |  |  |  | X |
 
-| 5.5. A Hjt. 2. § (32) bekezdés h) pontja szerinti esetben, 1 évet meg nem haladó időtartamra |  |  |  |  |  |
+| 46. | 5.6. A Hjt. 2. § (32) bekezdés h) pontja szerinti esetben, 1 évet meghaladó időtartamra |  |
 
-| – tábornok (90 napig) | X | X | X |  |  |
+| 47. | – főtiszt, tiszt, zászlós, altiszt, tisztes, | X |  |  |  |
 
-| – tiszt, zászlós, tiszthelyettes, tisztes | X | X | X | X |  |
+| 48. | 5.7. A Hjt. 2. § (32) bekezdés k) pontja szerinti esetben |  |
 
-| 5.6. A Hjt. 2. § (32) bekezdés h) pontja szerinti esetben, 1 évet meghaladó időtartamra |  |  |  |  |  |
+| 49. | – tábornok | X |  |  |  |
 
-| – tiszt, zászlós, tiszthelyettes, tisztes |  | X |  |  |  |
+| 50. | 6. Egyéb döntések | 6.1. Más szervhez történő vezénylés, vezénylés megszüntetése |  |
 
-| 6. | Egyéb döntések | 6.1. Más szervhez történő vezénylés, vezénylés megszüntetése |  |  |  |  |  |
+| 51. | – alez.-hdgy., zászlós, altiszt, tisztes | X | X |  |  |
 
-| – alez.-hdgy., zászlós, tiszthelyettes, tisztes | X | X | X |  |  |
+| 52. | 6.2. Áthelyezés más közszolgálati jogviszonyba |  |
 
-| 6.2. Áthelyezés más közszolgálati jogviszonyba |  |  |  |  |  |
+| 53. | – főtiszt, tiszt, zászlós, altiszt | X |  |  |  |
 
-| – tiszt, zászlós, tiszthelyettes |  | X |  |  |  |
+| 54. | – tisztes |  |  |  | X |
 
-| – tisztes |  |  |  |  | X |
+| 55. | 6.3. Egyenruha viselési jog engedélyezése és megvonása (nyugállományúak) |  |
 
-| 6.3. Egyenruha viselési jog engedélyezése és megvonása (nyugállományúak) |  |  |  |  |  |
+| 56. | – főtiszt, tiszt, zászlós, altiszt, | X |  |  |  |
 
-| – tiszt |  | X | X |  |  |
+| 57. | 6.4. Illetmény nélküli szabadság engedélyezése |  |
 
-| – zászlós, tiszthelyettes, |  |  | X | X |  |
+| 58. | – főtiszt, tiszt, zászlós, altiszt, tisztes |  |  |  | X |
 
-| 6.4. Illetmény nélküli szabadság engedélyezése |  |  |  |  |  |
+| 59. | 6.5. A Magyar Honvédség halottjává nyilvánítás | X |  |  |  |
 
-| – tiszt | X | X | X | X |  |
+| 60. | 6.6. Rendelkezési állományba helyezés |  |
 
-| – zászlós, tiszthelyettes, tisztes |  |  |  |  | X |
+| 61. | – főtiszt, tiszt, zászlós, altiszt, tisztes | X |  |  |  |
 
-| 6.5. A Magyar Honvédség halottjává nyilvánítás |  | X |  |  |  |
+| 62. | 6.7. Azonos vagy alacsonyabb beosztásba áthelyezés |  |
 
-| 6.6. Rendelkezési állományba |  |  |  |  |  |
+| 63. | – ezds, alez, ftzls | X | X |  |  |
 
-| helyezés |  |  |  |  |  |
+| 64. | – őrgy. | X | X | X |  |
 
-| – tiszt, zászlós, tiszthelyettes, tisztes |  | X |  |  |  |
+| 65. | – tiszt, zászlós, altiszt, tisztes, honvéd tisztjelölt, honvéd altiszt-jelölt |  |  |  | X |
 
-| 6.7. Azonos vagy alacsonyabb beosztásba áthelyezés |  |  |  |  |  |
+| 66. | 6.8. Szolgálati viszony szüneteltetése (Hjt. 54. §) |  |
 
-| – ezds.-alez., ftzls. | X | X | X |  |  |
+| 67. | – főtiszt, tiszt, zászlós, altiszt, tisztes | X |  |  |  |
 
-| – őrnagy | X | X | X | X |  |
+| 68. | 6.9. Szolgálati idő kezdőnapok megállapítása, módosítása |  |
 
-| – szds.-hdgy., tzls.-őrm., tisztes |  |  |  |  | X |
+| 69. | – tábornok | X |  |  |  |
 
-| 6.8. Szolgálati viszony szüneteltetése (Hjt. 54. §) |  |  |  |  |  |
+| 70. | – főtiszt, tiszt, zászlós, altiszt, tisztes |  |  |  | X |
 
-| – tiszt, zászlós, tiszthelyettes, tisztes |  | X |  |  |  |
+| 71. | 6.10. Megbízás más beosztás ellátásával |  |
 
-| 6.9. Szolgálati idő kezdőnapok megállapítása, módosítása (szolgálati nyugdíjjogosultságot nem érintő idők esetén) |  |  |  |  |  |
+| 72. | – ezredes | X | X | X |  |
 
-| – tiszt, zászlós, tiszthelyettes, tisztes |  |  |  |  | X |
+| 73. | – alez.-hdgy., zászlós, altiszt, tisztes |  |  |  | X |
 
-| 6.10. Megbízás |  |  |  |  |  |
+| 74. | 6.11. Megbízás szolgálati beosztáshoz nem tartozó feladatkör ellátásával |  |
 
-| – ezredes | X | X | X |  |  |
+| 75. | – főtiszt, tiszt, zászlós, altiszt, tisztes |  |  |  | X |
 
-| – alezredes-őrnagy, ftzls. | X | X | X | X |  |
+| 76. | 6.12. Hazai vezénylés, vezénylés megszüntetése |  |
 
-| – szds.-hdgy., tzls.-őrm., tisztes |  |  |  |  | X |
+| 77. | – ezredes | X | X |  |  |
 
-| 6.11. Hazai vezénylés, vezénylés megszüntetése |  |  |  |  |  |
+| 78. | – alez.-hdgy., zászlós, altiszt, tisztes, honvéd tisztjelölt, honvéd altiszt-jelölt |  |  |  | X |
 
-| – ezredes | X | X | X |  |  |
+| 79. | 6.13. Szerződéses jogviszony meghosszabbítása |  |
 
-| – alezredes-őrnagy, ftzls. | X | X | X | X |  |
+| 80. | – ezds. | X | X |  |  |
 
-| – szds.-hdgy., tzls.-őrm., tisztes |  |  |  |  | X |
+| 81. | – alez.-hdgy., zászlós, altiszt, tisztes |  |  |  | X |
 
-|  |  | 6. 12. Szerződéses jogviszony meghosszabbítása |  |  |  |  |  |
+| 82. | 6.14. Rész-szolgálatteljesítés engedélyezése |  |
 
-|  |  | – ezds., alez., ftzls. | X | X | X |  |  |
+| 83. | – főtiszt, tiszt, zászlós, altiszt, tisztes | X |  |  |  |
 
-|  |  | – őrnagy | X | X | X | X |  |
+| 84. | 7. Hazai képzésre történő vezénylés | 7.1. Hazai BsC, MsC |  |
 
-|  |  | – szds-tisztes |  |  |  |  | X |
+| 85. | – tábornok | X |  |  |  |
 
-|  |  | 6.13. Rész-szolgálatteljesítés engedélyezése |  |  |  |  |  |
+| 86. | – főtiszt, tiszt, zászlós, altiszt, tisztes | X | X | X |  |
 
-|  |  | – tiszt, zászlós, tiszthelyettes, tisztes | X | X |  |  |  |
+| 87. | 7.2. Katonai felsővezetői tanfolyam, Felsőfokú vezetőképző tanfolyam |  |
 
-| 7. | Hazai beiskolázás | 7.1. Hazai képzés |  |  |  |  |  |
+| 88. | – tábornok, ezredes, alezredes | X |  |  |  |
 
-| – tábornok (90 napig), | X | X | X |  |  |
+| 89. | 7.3. Szakmai tanfolyamok |  |
 
-| – ezredes-őrnagy, ftzls. | X | X | X | X |  |
+| 90. | – tábornok | X | X |  |  |
 
-| – szds.-hdgy., tzls.-őrm., tisztes |  |  |  |  | X |
+| 91. | – ezredes | X | X | X |  |
 
-2. számú melléklet a 10/2002. (III. 5.) HM rendelethez
+| 92. | – alez.-hdgy. zászlós, altiszt, tisztes, |  |  |  | X |
+
+| 93. | 8. Honvéd tisztjelöltek, altiszt-jelöltek tanulmányaival kapcsolatos döntések | 8.1. Szakváltás, szakirányváltás, párhuzamos képzés, év/félév halasztás | X |  |  |  |
+
+| 94. | 8.2. Külföldi tanulmányok | X |  |  |  |
+
+| 95. | 8.3. Tisztjelölti, és altiszt-jelölti szolgálati viszony szüneteltesése | X |  |  |  |
+
+2. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^310]
+
+[^310]: A 2. számú melléklet a 20/2012. (IX. 17.) HM rendelet 37. § (2) bekezdésével megállapított szöveg.

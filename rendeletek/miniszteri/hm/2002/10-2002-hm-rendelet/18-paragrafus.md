@@ -1,13 +1,18 @@
+## 17/B. §[^26]
+
 ## A pályázati rendszer
 
 ## (Hjt. 49. §-ához)
 
-18. § (1) Az állomány tagja számára a kiszámítható és tervszerű előmenetel biztosítása érdekében – a kiválasztáson alapuló általános előmeneteli renden túl – pályázat alkalmazásával is lehetőséget kell adni az előmenetelre.
+18. § (1)[^27] A Hjt. 49. § (1) bekezdése szerinti pályázatot – a (2) bekezdés kivételével – a munkáltatói jogkör gyakorlójának személyügyi szerve írja ki.
 
-(2) Az (1) bekezdés szerinti pályázat lehetővé teszi a különböző szintű katonai szervezetek, fegyvernemek, illetve eltérő szakirányú elsősorban azonos szintű beosztások közötti átjárhatóságot is.
+(2)[^28] A KNBSZ állománya tekintetében a KNBSZ személyügyi szerve jogosult a pályázat kiírására.
 
 (3) Szolgálati beosztásra pályázatot nyíltan vagy az állomány tagjai számára zárt formában lehet kiírni.
 
-(4)[^35] Azon beosztásokra, amelyek évente az előmenetel szabályai figyelembevételével nem kerültek betöltésre, a Honvédség központi személyügyi szerv vezetője pályázatot ír ki.
+(4)[^29]
 
-[^35]: A 18. § (4) bekezdését a 4/2006. (II. 7.) HM rendelet 10. §-a iktatta be. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
+[^26]: A 17/B. §-t a 3/2012. (III. 6.) HM rendelet 24. §-a iktatta be, hatályon kívül helyezte a 20/2012. (IX. 17.) HM rendelet 40. § (1) bekezdés g) pontja.
+[^27]: A 18. § (1) bekezdése a 20/2012. (IX. 17.) HM rendelet 8. §-ával megállapított szöveg.
+[^28]: A 18. § (2) bekezdése a 20/2012. (IX. 17.) HM rendelet 8. §-ával megállapított szöveg.
+[^29]: A 18. § (4) bekezdését a 4/2006. (II. 7.) HM rendelet 10. §-a iktatta be, hatályon kívül helyezte a 20/2012. (IX. 17.) HM rendelet 40. § (1) bekezdés h) pontja.

@@ -4,7 +4,7 @@
 
 | a szervezet megnevezése |  |
 
-|  | Alkalmazott azonosító szám: |  |  |  |  |  |  |
+|  | Személyügyi törzsszám: |  |  |  |  |  |  |
 
 |  | Kat. ig. jegy száma: |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -178,11 +178,11 @@
 
 | a szervezet megnevezése |  |
 
-|  | Alkalmazott azonosító szám: |  |  |  |  |  |  |
+|  | Személyügyi törzsszám: |  |  |  |  |  |  |
 
 |  | Kat. ig. jegy száma: |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | ÉVES TELJESÍTMÉNYÉRTÉKELŐ LAP TISZTI, ZÁSZLÓSI, TISZTHELYETTESI ÁLLOMÁNY(.......................-tól .......................-ig) (Bizalmas személyi okmány) | Összesített pont: |
+|  | ÉVES TELJESÍTMÉNYÉRTÉKELŐ LAP TISZTI, ZÁSZLÓSI, ALTISZTI ÁLLOMÁNY(.......................-tól .......................-ig) (Bizalmas személyi okmány) | Összesített pont: |
 
 ## 1. Személyi és szolgálati adatok:
 
@@ -412,7 +412,7 @@
 
 ## a) A legénységi teljesítményértékelő lapon 14 szempontot kell értékelni.
 
-## b)[^212] A tiszti, zászlósi, tiszthelyettesi értékelőlap 16 kötelező és 9 választható szempontot tartalmaz. Az értékelt által betöltött beosztás jellegétől függően a választható szempontok közül kell kiválasztani további 4-et, így összesen 20 szempont alapján készül az értékelés.
+## b)[^312] A tiszti, zászlósi, altiszti értékelőlap 16 kötelező és 9 választható szempontot tartalmaz. Az értékelt által betöltött beosztás jellegétől függően a választható szempontok közül kell kiválasztani további 4-et, így összesen 20 szempont alapján készül az értékelés.
 
 ## Értékelési csoportonként maximális (7-es) pontszámot csak a következő megoszlásban lehet adni:
 
@@ -436,7 +436,7 @@
 
 ## – kiemelkedő helytállás: az értékeltnek az év folyamán katasztrófaelhárítási feladatokban való részvétel, hazai és/vagy külföldi gyakorlatok során tanúsított kiemelkedő helytállása, munkavégzése elismerésére 1 pont adható.
 
-## 7. Szöveges értékelés (11. pont): Az értékelő elöljáró szöveges kiegészítése az értékelt személy teljesítményéről, felkészültségéről, jellemzőiről, képességeiről, tulajdonságairól. Tisztek, zászlósok, tiszthelyettesek esetében a szöveges értékelést értékelési területenként kell rögzíteni. Az értékelt számára további fejlődése érdekében megszabott feladatok, elvárt változások rövid rögzítése.
+## 7.[^313] Szöveges értékelés (11. pont): Az értékelő elöljáró szöveges kiegészítése az értékelt személy teljesítményéről, felkészültségéről, jellemzőiről, képességeiről, tulajdonságairól. Tisztek, zászlósok, altisztek esetében a szöveges értékelést értékelési területenként kell rögzíteni. Az értékelt számára további fejlődése érdekében megszabott feladatok, elvárt változások rövid rögzítése.
 
 ## A teljesítményértékelés ismertetése: A teljesítményértékelést az értékelő elöljárónak személyesen kell ismertetni az értékelttel. A szóbeli értékelés során meg kell vitatni az értékelt erősségeit, gyenge oldalait, milyen változásokat vár el a vezető, milyen a munkahely szervezettsége, a munkakörülmények, mi okoz gondot, zavart a munkavégzés során, mit javasol az értékelt a körülmények változtatása érdekében, saját fejlődése érdekében, milyen feladatot, beosztást vállalna szívesen, ha váltania kell.
 
@@ -444,10 +444,13 @@
 
 ## 9. A személyügyi (humán) vezető véleménye (13. pont): A személyügyi vezető az értékelés áttanulmányozása után javaslatot tesz az értékelés jóváhagyására, vagy az értékelés belső ellentmondásai, következetlenségei, pontatlan, nem helytálló értékelések alapján javaslatot tesz az értékelés független értékelő (az elöljáró által kijelölt személy) bevonásával történő áttekintésére. (A megfelelő rovatba beírt X vagy + jellel.)
 
-## 10. Az értékelő elöljárójának döntése (14. pont): Az értékelő elöljáró az értékelés áttanulmányozása és a humán vezető javaslata alapján dönt az értékelés jóváhagyásáról vagy soron kívüli minősítésről, alkalmasságvizsgálat elrendeléséről. Akinek előmenetele csak az éves teljesítményértékelések alapján történik, és adott évben előmenetelre tervezhető, továbbá az értékelés során ,,Előmenetelre tervezhető'' értékelést kapott, úgy anyaga felterjesztésre kerül az illetékes Előmeneteli Bizottsághoz. Ha az összesített pontszám nem érte el tisztesek esetében a 29 pontot, tisztek, zászlósok és tiszthelyettesek esetében a 41 pontot, az elöljáró kezdeményezi az értékelt minősítését vagy alkalmassági vizsgálatát. (Azok esetében, akik minősítésre kötelezettek a minősítést, akik nem kötelezettek minősítésre azok esetében az alkalmassági vizsgálatot.) Döntését szövegesen kell indokolnia.
+## 10.[^314] Az értékelő elöljárójának döntése (14. pont): Az értékelő elöljáró az értékelés áttanulmányozása és a humán vezető javaslata alapján dönt az értékelés jóváhagyásáról vagy soron kívüli minősítésről, alkalmasságvizsgálat elrendeléséről. Akinek előmenetele csak az éves teljesítményértékelések alapján történik, és adott évben előmenetelre tervezhető, továbbá az értékelés során ,,Előmenetelre tervezhető'' értékelést kapott, úgy anyaga felterjesztésre kerül az illetékes Előmeneteli Bizottsághoz. Ha az összesített pontszám nem érte el tisztesek esetében a 29 pontot, tisztek, zászlósok és altisztek esetében a 41 pontot, az elöljáró kezdeményezi az értékelt minősítését vagy alkalmassági vizsgálatát. (Azok esetében, akik minősítésre kötelezettek a minősítést, akik nem kötelezettek minősítésre azok esetében az alkalmassági vizsgálatot.) Döntését szövegesen kell indokolnia.
 
 ## 11. Súlyozott értékelés, rangsorolás (15. pont): Az Előmeneteli Bizottság tölti ki az adott évre meghatározott irányelvek alapján. Az értékelt a saját éves teljesítményértékeléséről hiteles másolatot kérhet a személyügyi szervtől.
 
-4. számú melléklet a 10/2002. (III. 5.) HM rendelethez
+4. számú melléklet a 10/2002. (III. 5.) HM rendelethez[^315]
 
-[^212]: A 3. számú melléklet Kitöltési Útmutatójának 3. b) pontja a 31/2003. (X. 16.) HM rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^312]: A 3. számú melléklet Kitöltési Útmutatójának 3. b) pontja a 31/2003. (X. 16.) HM rendelet 8. § (2) bekezdése, a 20/2012. (IX. 17.) HM rendelet 39. § (1) bekezdés p) pontja szerint módosított szöveg.
+[^313]: A 3. számú melléklet Kitöltési útmutató 7. pontja a 20/2012. (IX. 17.) HM rendelet 39. § (3) bekezdés m) pontja szerint módosított szöveg.
+[^314]: A 3. számú melléklet Kitöltési útmutató 10. pontja a 20/2012. (IX. 17.) HM rendelet 39. § (3) bekezdés m) pontja szerint módosított szöveg.
+[^315]: A 4. számú melléklet a 20/2012. (IX. 17.) HM rendelet 39. § (3) bekezdés l) pontja szerint módosított szöveg.

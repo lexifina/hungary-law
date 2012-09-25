@@ -1,9 +1,9 @@
-113. § (1) Az illetékes személyügyi szerv vezetője az előmeneteli eljárásról folyamatosan tájékoztatja a kinevezési jogkört gyakorló elöljárót.
+113. § (1)[^168]
 
-(2)–(3)[^124]
+(2)–(3)[^169]
 
-(4) Az illetékes személyügyi szervek a jóváhagyott kinevezési jegyzék alapján tájékoztatják az állományilletékes parancsnokokat a kinevezésekre vonatkozó döntésről, amely után az állományilletékes parancsnokok megteszik a szükséges intézkedéseket a megfelelő élet- és munkakörülmények biztosítása céljából.
+(4)–(5)[^170]
 
-(5) A kinevezésre vonatkozó személyügyi parancsokat az állomány tagjaival évente július 31-éig ismertetni kell. Amennyiben a kinevezés nem szeptember 1-jei hatállyal történik, akkor is biztosítani kell, hogy az állomány tagjára vonatkozó intézkedés az abban megjelölt hatály előtt 30 nappal kihirdetésre kerüljön.
-
-[^124]: A 113. § (2)–(3) bekezdését a 4/2006. (II. 7.) HM rendelet 67. § (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^168]: A 113. § (1) bekezdését a 20/2012. (IX. 17.) HM rendelet 40. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^169]: A 113. § (2)–(3) bekezdését a 4/2006. (II. 7.) HM rendelet 67. § (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^170]: A 113. § (4)–(5) bekezdését a 20/2012. (IX. 17.) HM rendelet 40. § (3) bekezdés a) pontja hatályon kívül helyezte.

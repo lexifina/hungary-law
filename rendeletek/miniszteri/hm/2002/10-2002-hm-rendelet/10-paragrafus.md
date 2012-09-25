@@ -1,23 +1,25 @@
-10. § (1) Az egyéb feltételek megléte esetén hivatásos állományba felvehető
+10. §[^8] (1) Az állományba vétel hivatásos, szerződéses vagy önkéntes tartalékos szolgálati viszony létesítésével történhet.
 
-a)[^8] tisztnek: aki katonai, vagy rendvédelmi felsőoktatási intézmény ösztöndíjas hallgatójaként, honvéd tisztjelöltjeként hazai vagy külföldi oktatási intézményben felsőfokú végzettséget igazoló oklevelet szerzett, vagy felsőfokú iskolai végzettséggel és legalább kettő év katonai, szakmai gyakorlattal rendelkezik,
+(2) Az előírt jogszabályi feltételeknek való megfelelés esetén hivatásos állományba csak az vehető fel
 
-b)[^9] tiszthelyettesnek: aki katonai, illetőleg rendvédelmi szakképző iskola nappali képzésén végzett, vagy legalább középiskolai végzettséggel és legalább kettő év katonai, szakmai gyakorlattal rendelkezik.
+a) tisztnek,
 
-(2)[^10] Az egyéb feltételek megléte esetén szerződéses állományba felvehető
+aa) aki honvédtiszti alapképzésben felsőfokú végzettséget igazoló oklevelet szerzett, vagy
 
-a) tisztnek: aki az állami, államilag elismert vagy külföldi felsőoktatási intézményben felsőfokú végzettséget igazoló oklevelet szerzett,
+ab) aki polgári felsőfokú végzettséget igazoló oklevéllel és legalább 5 év katonai szakmai gyakorlattal rendelkezik,
 
-b) tiszthelyettesnek: aki katonai, illetőleg rendvédelmi szakképző iskolát végzett, vagy legalább középiskolai – külön jogszabályban meghatározott esetekben szakiskolai – végzettséggel rendelkezik,
+b) altisztnek,
 
-c) szerződéses legénységi állományba: aki legalább általános iskolai végzettséggel rendelkezik.
+ba) aki katonai szakképzésben szakképzettséget szerzett,
 
-(3)[^11] Az egyéb feltételek megléte esetén önkéntes tartalékos állományba felvehető, aki a tervezett beosztásához előírt szintű végzettséggel rendelkezik. Az önkéntes tartalékos katonák által betölthető beosztásokat a HM Honvéd Vezérkar főnöke (a továbbiakban: HVKF) által jóváhagyott állománytáblák tartalmazzák.
+bb) aki tanfolyamrendszerű altisztképzésben katonai képzettséget szerzett,
 
-(4)[^12]
+bc) aki középiskolai végzettséggel és legalább 5 év katonai szakmai gyakorlattal rendelkezik, vagy
 
-[^8]: A 10. § (1) bekezdés a) pontja a 14/2011. (X. 28.) HM rendelet 10. §-ával megállapított szöveg.
-[^9]: A 10. § (1) bekezdés b) pontja a 4/2011. (VI. 7.) HM rendelet 15. § a) pontja szerint módosított szöveg.
-[^10]: A 10. § (2) bekezdése a 31/2003. (X. 16.) HM rendelet 1. §-ával megállapított szöveg.
-[^11]: A 10. § (3) bekezdését a 31/2003. (X. 16.) HM rendelet 8. § (1) bekezdése hatályon kívül helyezte, újonnan a 4/2006. (II. 7.) HM rendelet 4. §-a iktatta be.
-[^12]: A 10. § (4) bekezdését a 31/2003. (X. 16.) HM rendelet 8. § (1) bekezdése hatályon kívül helyezte.
+bd) akinek a honvéd tisztjelölti szolgálati viszonya a Hjt. 229/E. § (1) bekezdése alapján közös megegyezéssel megszüntetésre kerül, feltéve, hogy képzettsége, felkészültsége alapján a Honvédség katonai szervezeténél rendszeresített szolgálati beosztásba kinevezhető.
+
+(3) A (2) bekezdést nem kell alkalmazni akkor, ha a Hjt., vagy más jogállási törvény alapján a szolgálati viszony létesítésének és fenntartásának feltétele a hivatásos állományba vétel.
+
+(4) Az előírt jogszabályi feltételek megléte esetén önkéntes tartalékos állományba az vehető, aki a tervezett beosztásához előírt szintű végzettséggel rendelkezik. Az önkéntes tartalékos katonák által betölthető beosztásokat a HVKF által jóváhagyott állománytáblák tartalmazzák.
+
+[^8]: A 10. § a 20/2012. (IX. 17.) HM rendelet 4. §-ával megállapított szöveg.

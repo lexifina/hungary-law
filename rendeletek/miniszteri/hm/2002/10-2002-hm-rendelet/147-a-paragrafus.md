@@ -10,9 +10,7 @@
 
 ## – VII–X. besorolási kategóriában hadtestparancsnoki pótszabadság.
 
-147/A. §[^203] (1) A Hjt. 98. § (3) bekezdésében meghatározott nyilatkozathoz csatolni kell a munkaviszonyban álló szülő munkáltatójának igazolását arról, hogy a másik szülő a kedvezményt nem veszi igénybe.
-
-(2) Ha valamelyik szülő gyermekét tartósan otthon gondozza, azt e § alkalmazásában úgy kell tekinteni, hogy az otthon tartózkodó szülő gyermekei nevelésében nagyobb szerepet vállal.
+147/A. §[^300] (1)–(2)[^301]
 
 (3) A Hjt. 124. § (2) bekezdésében meghatározott költségtérítést az állomány tagjának az állományilletékes parancsnokhoz benyújtott kérelemmel kell igényelnie:
 
@@ -28,7 +26,8 @@ d) a munkába járási költségtérítés megállapításához szükséges adat
 
 (5) Az önkéntes tartalékost tényleges szolgálatának teljes időszakára megilleti az utazási költségtérítés.
 
-(6)[^204]
+(6)[^302]
 
-[^203]: A 147/A. §-t a 4/2006. (II. 7.) HM rendelet 65. § (1) bekezdése iktatta be. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
-[^204]: A 147/A. § (6) bekezdését a 15/2008. (VI. 20.) HM rendelet 19. § (1) bekezdés h) pontja hatályon kívül helyezte.
+[^300]: A 147/A. §-t a 4/2006. (II. 7.) HM rendelet 65. § (1) bekezdése iktatta be. E módosító rendelet 66. § (1) bekezdése alapján 2006. február 12-étől kezdődően legkésőbb 2006. szeptember 1-jéig felül kell vizsgálni a személyügyi (humán) szervek felépítését és létszámát, és a szükséges szervezeti módosításokat úgy kell megtenni, hogy a törvényben és végrehajtási rendeleteiben meghatározott személyügyi feladatok végrehajtása biztosított legyen.
+[^301]: A 147/A. § (1)–(2) bekezdését a 20/2012. (IX. 17.) HM rendelet 40. § (4) bekezdés e) pontja hatályon kívül helyezte.
+[^302]: A 147/A. § (6) bekezdését a 15/2008. (VI. 20.) HM rendelet 19. § (1) bekezdés h) pontja hatályon kívül helyezte.
