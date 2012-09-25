@@ -23,3 +23,5 @@
 (12) A Mód. törvénnyel megállapított 141. § (5) bekezdését a hatálybalépését követően indult ügyekben kell alkalmazni.
 
 (13) A Mód. törvénnyel megállapított 155/A. §-t a hatálybalépésekor folyamatban lévő, vagy ezt követően indított végrehajtási eljárásokban kell alkalmazni.
+
+(15) E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény, valamint a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény módosításáról szóló 2012. évi CXXXV. törvénnyel megállapított 24/C. § (13) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.

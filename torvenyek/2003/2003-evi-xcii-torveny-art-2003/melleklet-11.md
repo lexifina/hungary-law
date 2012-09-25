@@ -31,13 +31,3 @@ Valtion varalllisuusvero/den statliga förmögenhetsskatten, Kiinteistövero/fas
 11. a Holland Királyság esetében: Inkomstenbelasting, Vennootschapsbelasting, Vermogensbelasting;
 
 12. Írország esetében: Income tax, Corporation tax, Capital gains tax, Wealth tax;
-
-13. a Lengyel Köztársaság esetében: Podatek dochodowy od osób prawnych, Podatek dochodowy od osób fizycznych, Podatek od czynności cywilnopranych;
-
-14. a Lett Köztársaság esetében: Iedzīvotāju ienākuma nodoklis, Nekustamā īpašuma nodoklis, Uzņēmumu ienākuma nodoklis;
-
-15. a Litván Köztársaság esetében: Gyventojų pajamų mokestis, Pelno mokestis, Įmonių ir organizacijų nekilnojamojo turto mokestis, Žemės mokestis, Mokestis už valstybinius gamtos išteklius, Mokestis už aplinkos teršimą, Naftos ir dujų išteklių mokestis, Paveldimo turto mokestis;
-
-16. a Luxemburgi Nagyhercegség esetében: Impôt sur le revenu des personnes physiques, Impôt sur le revenu des collectivités, Impôt commercial communal, Impôt sur la fortune, Impôt foncier;
-
-17. a Máltai Köztársaság esetében: taxxa fuq l-income;
