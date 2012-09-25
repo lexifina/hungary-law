@@ -1,1 +1,0 @@
-1. § Az Országgyűlés a Washingtonban, 1973. március 3. napján elfogadott, a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelméről szóló, a 2003. évi XXXII. törvénnyel kihirdetett egyezmény módosított I., II. és III. Függelékét e törvénnyel hirdeti ki.
