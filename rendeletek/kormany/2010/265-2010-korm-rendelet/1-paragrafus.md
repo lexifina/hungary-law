@@ -4,4 +4,6 @@
 
 (3) A Hivatal önállóan működő és gazdálkodó költségvetési szerv. A Hivatal székhelye Budapest.
 
-(4) A Hivatal központi szervből, illetve belföldi területi szervekből áll. A területi szervet igazgató vezeti.
+(4)[^1] A Hivatal központi szervből, illetve belföldi területi szervekből áll. A területi szervet régióvezető vezeti.
+
+[^1]: Az 1. § (4) bekezdése a 263/2012. (IX. 17.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.

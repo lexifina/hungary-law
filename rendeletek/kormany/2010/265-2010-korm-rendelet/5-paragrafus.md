@@ -32,7 +32,9 @@ o) feladatkörét érintően együttműködik hazai és határon túli civil sze
 
 p) végrehajtja a miniszter által meghatározott egyéb feladatokat.
 
-q)[^1] az önkéntesen regisztrált határon túli magyar vállalkozások számára gazdaságinformációs rendszert működtet.
+q)[^5] az önkéntesen regisztrált határon túli magyar vállalkozások számára gazdaságinformációs rendszert működtet.
+
+r)[^6] ellátja a Magyarország NATO Repülőgép-fedélzeti Korai Előrejelző és Ellenőrző Program Kezelő Szervezetéhez (NAPMO) történt csatlakozása kapcsán felmerülő, az AS9100 repülőgép-ipari minőségbiztosítási rendszer kis- és középvállalkozások körében történő kiépítését szolgáló projekt pénzügyi lebonyolítását.
 
 (2) A Hivatal a kereskedelem-fejlesztési tevékenysége körében
 
@@ -76,4 +78,5 @@ h) felkészíti a helyi önkormányzatokat a befektetők fogadására;
 
 i) utógondozza a már betelepült befektetők működési körülményeit és közreműködik a magyar hozzáadott érték-hányad növelésében.
 
-[^1]: Az 5. § (1) bekezdés q) pontját a 78/2012. (XI. 19.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 5. § (1) bekezdés q) pontját a 78/2012. (XI. 19.) Korm. rendelet 1. §-a iktatta be.
+[^6]: Az 5. § (1) bekezdés r) pontját a 263/2012. (IX. 17.) Korm. rendelet 2. §-a iktatta be.
