@@ -1,0 +1,3 @@
+## 1. § A hivatásos és szerződéses katonai szolgálat létesítéséről, módosításáról, megszüntetéséről, tartalmáról, valamint az integrált személyügyi igazgatás és egységes nyilvántartás rendjéről szóló 10/2002. (III. 5.) HM rendelet (a továbbiakban: R.) 2. §-a helyébe a következő rendelkezés lép:
+
+## „2. § A szakszervezeti tisztségviselők részére a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 37. § (1) bekezdése által biztosított szolgálatteljesítési idő-kedvezmény mértékét az állományilletékes parancsnok állapítja meg.”
