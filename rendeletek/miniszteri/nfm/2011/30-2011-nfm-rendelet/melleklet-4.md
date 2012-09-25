@@ -4,13 +4,13 @@
 
 | Minimum | Maximum |
 
-| Észtertartalom | % (m/m) | 96,5 |  |
+| FAME-tartalom | % (m/m) | 96,5 |  |
 
 | Sűrűség 15 °C-on | kg/m3 | 860 | 900 |
 
 | Kinematikai viszkozitás 40 °C-on | mm2/s | 3,50 | 5,00 |
 
-| Lobbanáspont | °C | 120 | - |
+| Lobbanáspont | °C | 101 | - |
 
 | Kéntartalom | mg/kg | – | 10,0 |
 
@@ -52,48 +52,46 @@
 
 | II. főcsoport fémei (Ca+Mg) | mg/kg |  | 5,0 |
 
-| Foszfortartalom | mg/kg |  | 10,0 |
+| Foszfortartalom | mg/kg |  | 4,0 |
 
-4. melléklet a 30/2011. (VI. 28.) NFM rendelethez
+4. melléklet a 30/2011. (VI. 28.) NFM rendelethez[^12]
 
 A forgalmazott E85 minőségi követelményei
 
-| Jellemző | Egység | Határértékek |
+|  | A | B | C | D |
 
-| Minimum | Maximum |
+| 1. | Jellemző | Mértékegység | Határértékek |
 
-| Kísérleti oktánszám |  | 95,0 | – |
+| 2. | Minimum | Maximum |
 
-| Motoroktánszám |  | 85,0 | – |
+| 3. | Sűrűség 15 °C-on | kg/m3 | 760,0 | 800,0 |
 
-| Gőznyomás (nyári időszakban) | kPa | – | 60 |
+| 4. | Oxidációs stabilitás | perc | 360 | – |
 
-| Desztilláció |  |  |  |
+| 5. | Gyantatartalom (oldószerrel mosott) | mg/100ml | – | 5 |
 
-| Végforráspont | °C | – | 210 |
+| 6. | Rézkorrózió (3 óra 50 °C-on) | fokozat | 1. osztály |
 
-| Desztillációs maradék | % (V/V) | – | 2 |
+| 7. | Savasság (ecetsavban kifejezve) | % (m/m) | – | 0,005 |
 
-| Kéntartalom | mg/kg | – | 10 |
+| 8. | Elektromos vezetőképesség | µS/cm |  | 1,5 |
 
-| Oxidációs stabilitás | perc | 360 | – |
+| 9. | Metanol tartalom | % (V/V) | – | 1,0 |
 
-| Gyantatartalom (oldószerrel mosott) | mg/100 ml | – | 5 |
+| 10. | Nagyobb szénatomszámú (C3–C5) alkoholok | % (V/V) | – | 6,0 |
 
-| Nagyobb szénatomszámú (C3-C8) alkoholok | % (V/V) | – | 2,0 |
+| 11. | Éterek (5 vagy nagyobb szénatomszámúak) | % (V/V) | – | 11,0 |
 
-| Metanol | % (V/V) | – | 1,0 |
+| 12. | Víztartalom | % (m/m) | – | 0,400 |
 
-| Éterek (5 vagy nagyobb szénatomszámúak) | % (V/V) | – | 5,2 |
+| 13. | Szervetlen klorid-tartalom | mg/kg | – | 1,2 |
 
-| Víztartalom | % (V/V) | – | 0,3 |
+| 14. | Réztartalom | mg/kg |  | 0,10 |
 
-| Rézkorrózió (3 óra 50 °C-on) | fokozat | 1. osztály | – |
+| 15. | Foszfortartalom | mg/l |  | 0,15 |
 
-| pHe |  | 6,5 | 9,0 |
+| 16. | Kéntartalom | mg/kg |  | 10,0 |
 
-| Savasság (ecetsavban kifejezve) | % (m/m) | – | 0,005 |
+| 17. | Szulfáttartalom | mg/kg |  | 4,0 |
 
-| Szervetlen klorid-tartalom | mg/l | – | 1 |
-
-| Foszfor | mg/l | nem mutatható ki | nem mutatható ki |
+[^12]: A 4. melléklet az 54/2012. (IX. 17.) NFM rendelet 5. § (4) bekezdésével megállapított szöveg.

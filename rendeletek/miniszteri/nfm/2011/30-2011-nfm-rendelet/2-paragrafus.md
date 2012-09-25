@@ -18,6 +18,11 @@ b) az Európai Unió más tagállamában szabad forgalomba bocsátott motorhajt�
 
 6. motorhajtóanyag: a motorbenzin, a dízelgázolaj, a biodízel, az E85;
 
-7. dízelgázolaj: minden olyan ásványolajtermék, amelynek rendeltetése kompressziós gyújtású belső égésű motorok működtetése (vámtarifaszám: 2710 19 41), beleértve a nem közúti mozgó gépekben és belvízi hajókban, valamint a mezőgazdasági és erdészeti traktorokban és a kedvtelési célú vízi járművekben történő felhasználásra szánt gázolajat is.
+7.[^1] dízelgázolaj: minden olyan ásványolajtermék, amelynek rendeltetése kompressziós gyújtású belső égésű motorok működtetése [vámtarifaszám: 2710 19 43 (biodízel-tartalom nélkül), illetve 2710 20 11 (biodízel-tartalommal)], beleértve a nem közúti mozgó gépekben és belvízi hajókban, valamint a mezőgazdasági és erdészeti traktorokban és a kedvtelési célú vízi járművekben történő felhasználásra szánt gázolajat is;
+
+8.[^2] kiskereskedelmi üzemanyag-forgalmazó: az a gazdálkodó szervezet, amely üzemanyagot, E85-öt üzemanyagtöltő-állomáson fogyasztónak kiszolgál.
 
 (2) A motorbenzin, az üzemanyag, valamint a bioüzemanyag fogalmát a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvényben, az E85 fogalmát a Jöt.-ben, továbbá a biodízel fogalmát a fenntartható bioüzemanyag-termelés követelményeiről és igazolásáról szóló 343/2010. (XII. 28.) Korm. rendeletben meghatározottak szerint kell értelmezni.
+
+[^1]: A 2. § (1) bekezdés 7. pontja az 54/2012. (IX. 17.) NFM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 8. pontját az 54/2012. (IX. 17.) NFM rendelet 2. §-a iktatta be.
