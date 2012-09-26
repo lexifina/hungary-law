@@ -1,3 +1,0 @@
-## 33. § Az R. 137. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) Amennyiben a hivatásos állomány tagja kéri a szolgálaton kívüliek közé történő felvételét, a személyi anyaggyűjtőt a központi személyügyi nyilvántartást vezető szerv részére kell megküldeni. A szolgálaton kívüliek állományából történő kikerülés esetén – a hivatásos állományba történő visszavétel kivételével – a személyi anyaggyűjtőben tárolt okmányokat a Honvédség központi irattározásra kijelölt szerve részére kell megküldeni. Ha az érintett hivatásos állományba visszavételre kerül, a személyi anyaggyűjtőben tárolt okmányokat az állományilletékes szerv részére kell megküldeni.”

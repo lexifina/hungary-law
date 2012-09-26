@@ -1,5 +1,0 @@
-## 34. § Az R. 138. §-a helyébe a következő rendelkezés lép:
-
-## „138. § (1) A nyugállomány tagja és a szolgálati járandóságban részesülő (a továbbiakban: nyugállományba helyezett) a személyi és családi körülményeiben bekövetkezett változást írásban bejelenti a központi személyügyi nyilvántartást vezető szerv részére. A bejelentés elmulasztása a központi személyügyi nyilvántartást vezető szervet nem mentesíti a változás átvezetésének és továbbjelentésének kötelezettsége alól, ha az más forrásból hitelt érdemlő módon tudomására jut. Ebben az esetben az információ forrását is rögzíteni kell.
-
-## (2) A központi személyügyi nyilvántartást vezető szerv az alapnyilvántartásában szereplő katona személyi anyaggyűjtőjét elhalálozásig kezeli, azt követően a Honvédség központi irattározásra kijelölt szervének megküldi. A visszamaradt, szociális gondoskodási körbe tartozó közvetlen hozzátartozó adatait – az érdekvédelmi gyűjtőbe helyezve – az érintett elhalálozásáig kezeli. Ezt követően szintén megküldi a Honvédség központi irattározásra kijelölt szervének.”
