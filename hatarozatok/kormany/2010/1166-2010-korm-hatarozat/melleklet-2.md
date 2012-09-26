@@ -2,13 +2,13 @@
 
 | 1. | Miniszterelnökség | 275 |
 
-| 2. | Közigazgatási és Igazságügyi Minisztérium | 860 |
+| 2. | Közigazgatási és Igazságügyi Minisztérium | 865 |
 
-| 3. | Belügyminisztérium | 355 |
+| 3. | Belügyminisztérium | 354 |
 
 | 4. | Honvédelmi Minisztérium | 511 |
 
-| 5. | Külügyminisztérium | 630 |
+| 5. | Külügyminisztérium | 632 |
 
 | 6. | Nemzetgazdasági Minisztérium | 793 |
 
@@ -18,7 +18,7 @@
 
 | 9. | Vidékfejlesztési Minisztérium | 598 |
 
-| 10. | ÖSSZESEN: | 5572 |
+| 10. | ÖSSZESEN: | 5578 |
 
 2. számú melléklet az 1166/2010. (VIII. 4.) Korm. határozathoz[^2]
 
@@ -38,15 +38,15 @@
 
 | 6. | Egyenlő Bánásmód Hatóság | 20 |
 
-| 7. | Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálata | 109 |
+| 7. |  |  |
 
-| 8. | ECOSTAT Kormányzati Hatásvizsgálati Központ | 17 |
+| 8. |  |  |
 
 | 9. | Közpolitikai Kutatások Intézete | 35 |
 
-| 10. | Nemzeti Közigazgatási Intézet | 91 |
+| 10. |  |  |
 
-| 11. | Wekerle Sándor Alapkezelő | 346 |
+| 11. | Közigazgatási és Igazságügyi Hivatal | 244 |
 
 | 12. | Nemzeti Államigazgatási Központ | 318 |
 
@@ -198,7 +198,7 @@
 
 | 81. | Magyar Bányászati és Földtani Hivatal | 180 |
 
-| 82. | Nemzeti Közlekedési Hatóság | 477 |
+| 82. | Nemzeti Közlekedési Hatóság | 502 |
 
 | Külügyminisztérium |
 
@@ -218,6 +218,8 @@
 
 | 89. | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet | 576 |
 
+| 89/1. | Emberi Erőforrás Támogatáskezelő | 210 |
+
 | Nyugdíjbiztosítási Alap |
 
 | 90. | Országos Nyugdíjbiztosítási Főigazgatóság | 351 |
@@ -228,6 +230,6 @@
 
 | 92. | Országos Egészségbiztosítási Pénztár | 1594 |
 
-| 93. | ÖSSZESEN: | 70 800 |
+| 93. | ÖSSZESEN: | 70 716 |
 
-[^2]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított, az 1258/2012. (VII. 26.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított, az 1258/2012. (VII. 26.) Korm. határozat 1. pontja, az 1399/2012. (IX. 25.) Korm. határozat 2. pontja szerint módosított szöveg.

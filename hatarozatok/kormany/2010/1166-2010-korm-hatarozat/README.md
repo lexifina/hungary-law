@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-1166-30
 | 2011-06-30 | 2010-1166-30-22.9 | 1223/2011. (VI. 29.) Korm. határozat |
 | 2012-06-27 | 2010-1166-30-22.10 | 1206/2012. (VI. 26.) Korm. határozat |
 | 2012-07-27 | 2010-1166-30-22.11 | 1223/2011. (VI. 29.) Korm. határozat |
+| 2012-09-26 | 2010-1166-30-22.12 | 1206/2012. (VI. 26.) Korm. határozat |
