@@ -1,5 +1,0 @@
-## Támogatási kategória
-
-5. § (1) A rendelet alapján beruházási támogatás nyújtható, amelyre jelen rendeletben, illetve a Korm. rendeletben, valamint a 2007–2013 közötti időszakra vonatkozó nemzeti regionális támogatásról szóló 2006/C 54/08 számú iránymutatásban (a továbbiakban: iránymutatás), illetve a Szerződés 87. és 88. cikkének a nemzeti regionális beruházási támogatásokra való alkalmazásáról szóló 1628/2006/EK bizottsági rendeletben (HL L sorozat 302/29. 2006. 11. 1.) foglaltak az irányadók.
-
-(2) A beruházással kapcsolatos előkészítő tanulmány és tanácsadás címen nyújtott támogatás az Európai Közösséget létrehozó Szerződés 87. és 88. cikkének a kis- és középvállalkozásoknak nyújtott támogatásokra való alkalmazásáról szóló, az 1976/2006/EK bizottsági rendelettel módosított 2001. január 12-i 70/2001/EK bizottsági rendelet – HL L sorozat 10/33 2001. 01. 13. – (a továbbiakban: 70/2001/EK bizottsági rendelet) hatálya alá tartozó tanácsadáshoz kapcsolódó támogatásnak minősül. E támogatási program keretében támogatást a 70/2001/EK bizottsági rendelet szabályai alapján 2008. június 30-ig lehet odaítélni.

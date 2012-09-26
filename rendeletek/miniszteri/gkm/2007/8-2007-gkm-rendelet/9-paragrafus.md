@@ -1,1 +1,0 @@
-## A támogatásban részesíthetők köre
