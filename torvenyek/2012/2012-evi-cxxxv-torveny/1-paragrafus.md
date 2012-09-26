@@ -1,7 +1,0 @@
-1. § (1) Az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 24/C. §-a a következő új (13) bekezdéssel egészül ki:
-
-„(13) Ha az adózó vezető tisztségviselője vagy tagja olyan gazdasági társaság, vagy olyan gazdasági társaság jelenlegi vagy volt vezető tisztségviselője, illetve tagja, amelyben a Magyar Állam, vagy az államot megillető tulajdonosi jogokat gyakorló szervezet közvetlenül, vagy közvetett módon 50 százalékot meghaladó mértékű szavazati joggal, vagy minősített többségű befolyással rendelkezik, az érintett személy az adószám megállapítását megtagadó határozat, vagy az állami adóhatóság Art. 24/D. § (2) bekezdése szerinti felszólításának kézbesítését követő 8 napos jogvesztő határidőn belül az adóregisztrációs eljárás megszüntetése érdekében kérelmet nyújthat be az állami adóhatósághoz. A kérelem alapján az állami adóhatóság az adószám megállapítását megtagadó határozatot visszavonja, és az adószámot megállapítja, illetve az adóregisztrációs eljárást megszünteti.”
-
-(2) Az Art. 192. §-a a következő új (15) bekezdéssel egészül ki:
-
-„(15) E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény, valamint a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény módosításáról szóló 2012. évi CXXXV. törvénnyel megállapított 24/C. § (13) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
