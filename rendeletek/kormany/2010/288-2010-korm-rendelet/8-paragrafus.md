@@ -1,6 +1,6 @@
 ## 5. A kormánymegbízott feladatai
 
-## 8. §[^17] A kormánymegbízott
+## 8. §[^20] A kormánymegbízott
 
 a) vezeti a fővárosi és megyei kormányhivatalt, gyakorolja annak feladat- és hatásköreit, ellátja a költségvetési szerv vezetőjének hatáskörébe utalt feladatokat,
 
@@ -10,4 +10,4 @@ c) elkészíti és a közigazgatás-szervezésért felelős miniszter részére 
 
 d) gondoskodik a jogszabályban előírt belső szabályzatok elkészítéséről.
 
-[^17]: A 8. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^20]: A 8. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.

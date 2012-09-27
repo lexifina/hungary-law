@@ -1,4 +1,4 @@
-10. §[^20] (1) A kormánymegbízott minden évben – a (2) bekezdésben meghatározott szervek bevonásával – az előző évi tevékenységéről szóló összegző beszámolót készít.
+10. §[^23] (1) A kormánymegbízott minden évben – a (2) bekezdésben meghatározott szervek bevonásával – az előző évi tevékenységéről szóló összegző beszámolót készít.
 
 (2) A beszámolási kötelezettség kiterjed a fővárosi és megyei kormányhivatal illetékességi területén működő, illetve székhellyel rendelkező központi államigazgatási szerv bármely jogállású területi szervére, továbbá az államigazgatási feladatot ellátó más szervre és személyre, valamint a polgármesterre és jegyzőre az általuk ellátott államigazgatási feladatokat érintően.
 
@@ -18,10 +18,11 @@ e) a fővárosi és megyei kormányhivatal egyéb tevékenységeit, különös t
 
 f) a (2) bekezdésben meghatározott államigazgatási szervek működésének, tevékenységének tapasztalatait,
 
-g) a szakigazgatási szervek tevékenységét,
+g)[^24] a szakigazgatási szervek tevékenységét, különös tekintettel az összevont ellenőrzésekről szóló éves ellenőrzési tervben foglaltak teljesítésének tapasztalatait,
 
 h) egyéb, a Kormány által meghatározott szempontokat, valamint
 
 i) a d)–e) pontban meghatározott szerveknél a közérdekű kérelmekkel, panaszokkal és bejelentésekkel kapcsolatos ügyek intézésének helyzetét.
 
-[^20]: A 10. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^23]: A 10. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^24]: A 10. § (4) bekezdés g) pontja a 231/2012. (VIII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
