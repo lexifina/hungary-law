@@ -22,5 +22,5 @@ h) ha az adatszolgáltatás benyújtásakor ismert, az ügylet típusát, futami
 
 (3) Az (1) bekezdés szerinti adatszolgáltatás nem minősül hozzájárulás iránti kérelemnek. E kérelmét az önkormányzat az 5. § (1) bekezdése alapján nyújtja be.
 
-[^2]: A 3. § (1) bekezdése az 56/2012. (III. 30.) Korm. rendelet 28. §-a szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdése a 271/2012. (IX. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 3. § (2) bekezdés g) pontja az 56/2012. (III. 30.) Korm. rendelet 21. §-ával megállapított szöveg.
