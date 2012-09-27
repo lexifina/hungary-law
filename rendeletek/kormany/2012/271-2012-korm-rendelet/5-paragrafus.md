@@ -1,0 +1,3 @@
+## 4. § A Rendelet 6. §-a a következő (2a) bekezdéssel egészül ki:
+
+## „(2a) Az Igazgatóság az önkormányzat pénzügyi helyzetéről, eladósodottságáról, vagyonáról, bevételeiről – ezen belül különösen a bevezetett helyi adók típusáról, mértékéről, a törvényi felső mértéktől való eltéréséről, az alkalmazott kedvezményekről, mentességekről, valamint az adóhátralékokról –, kiadásairól értékelést készít, és azt – legkésőbb a (2) bekezdés szerinti kincstári véleményezés lezárását követő 8. napon – megküldi a minisztereknek. Az Igazgatóság a kérelemben szereplő ügylet alátámasztásához és az értékelés elkészítéséhez további információkat kérhet az önkormányzattól. A kért információt az önkormányzatnak 3 munkanapon belül meg kell küldenie az Igazgatóság részére.”
