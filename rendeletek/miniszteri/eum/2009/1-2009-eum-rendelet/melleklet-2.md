@@ -386,6 +386,10 @@
 
 | XII. 3. | Orvostudományi kutatás engedélyezése, az engedély módosítása a Regionális Kutatásetikai Bizottságok (RKEB) véleménye alapján | 114 000 Ft (ebből az RKEB díja: 15 300 Ft) |
 
+| XIII. | A nemdohányzók védelmével kapcsolatos igazgatási szolgáltatások |  |
+
+| XIII.1. | Zárt légterű dohányzóhely kijelölésének engedélyezése a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény (a továbbiakban: Nvt.) 2. § (9) bekezdése alapján, az Nvt. 2. § (5) bekezdés d) és e) pontja szerinti esetekben a munkavállalók részére | 40 000 Ft |
+
 2. melléklet az 1/2009. (I. 30.) EüM rendelethez[^9]
 
 | Intézet | Bankszámlaszám |
