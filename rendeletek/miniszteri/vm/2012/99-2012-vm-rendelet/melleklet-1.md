@@ -1,0 +1,3 @@
+## 14. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 63. cikk b) pontja és 65. cikk végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+1. melléklet a 99/2012. (IX. 25.) VM rendelethez
