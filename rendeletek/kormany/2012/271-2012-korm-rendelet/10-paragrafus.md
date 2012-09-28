@@ -1,1 +1,0 @@
-## 9. § A Rendelet 5. § (2) bekezdésében az „elektronikus rendszeren keresztül kell az Igazgatósághoz benyújtani” szövegrész helyébe az „elektronikus rendszeren keresztül kell benyújtani az Igazgatóságnak címezve” szöveg lép.

@@ -1,3 +1,0 @@
-## 1. § Az adósságot keletkeztető ügyletekhez történő hozzájárulás részletes szabályairól szóló 353/2011. (XII. 30.) Korm. rendelet (a továbbiakban: Rendelet) 3. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A tárgyévben várható fejlesztési célú, kormányzati hozzájáruláshoz kötött ügyletekről az önkormányzat a költségvetési rendeletének, határozatának elfogadását követően, de legkésőbb március 15-éig a kincstár által üzemeltetett elektronikus rendszerben szereplő adatlapon – e rendszeren keresztül – adatot szolgáltat a kincstár önkormányzat székhelye szerint illetékes területi szervének (a továbbiakban: Igazgatóság).”
