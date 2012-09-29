@@ -1,0 +1,3 @@
+4. § (1) Az esélyegyenlőségi támogatás az oktatásért felelős miniszter által kiadott óvodai, iskolai integrációs pedagógiai programban meghatározott tevékenységekre, feladatok ellátására és az ott meghatározott célok megvalósítására a 10. melléklet szerinti mértékben használható fel az EMMI rendelet 171–173. §-ában foglalt követelményeknek megfelelően.
+
+(2) Az esélyegyenlőségi támogatás nem fordítható olyan tevékenység finanszírozására, amelynek pénzügyi fedezetét a 2012. évben az integrációs rendszerben részt vevő nevelési-oktatási intézményekben, tagintézményekben dolgozó pedagógusok kiegészítő illetményére fordítható támogatás biztosítja.

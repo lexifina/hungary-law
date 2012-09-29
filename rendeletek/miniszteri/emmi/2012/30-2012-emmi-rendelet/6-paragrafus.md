@@ -1,0 +1,7 @@
+6. § (1) A Lebonyolító a köznevelési feladatot ellátó nem állami intézmény fenntartója, valamint a központi költségvetési szervként működő felsőoktatási intézmény által benyújtott támogatási kérelmet megvizsgálja. Ha a benyújtott támogatási kérelem nem felel meg az 5. §-ban meghatározott feltételeknek a Lebonyolító a támogatási kérelem beérkezésétől számított nyolc napon belül, öt napos határidővel hiánypótlásra hívja fel a köznevelési feladatot ellátó nem állami intézmény fenntartóját vagy a központi költségvetési szervként működő felsőoktatási intézményt. Ha a köznevelési feladatot ellátó nem állami intézmény fenntartója vagy a központi költségvetési szervként működő felsőoktatási intézmény a felhívásnak nem tesz eleget, vagy nem megfelelően teljesíti azt, a Lebonyolító a támogatási kérelmet nem továbbítja a miniszternek, és erről hét napon belül értesíti a köznevelési feladatot ellátó nem állami intézmény fenntartóját vagy a központi költségvetési szervként működő felsőoktatási intézményt.
+
+(2) A feldolgozott támogatási kérelmek alapján intézmény- és programtípusok, valamint tanulói létszám szerinti bontásban elkészített összesítő jelentést
+
+a) a köznevelési feladatot ellátó nem állami intézmény fenntartója, valamint a központi költségvetési szervként működő felsőoktatási intézmény által benyújtott támogatási kérelem esetén a Lebonyolító,
+
+b) önkormányzati fenntartó által benyújtott támogatási kérelem esetén a Kincstár elektronikus és nyomtatott formában a 11. melléklet szerinti bontásban 2012. november 7-éig küldi meg a miniszternek.
