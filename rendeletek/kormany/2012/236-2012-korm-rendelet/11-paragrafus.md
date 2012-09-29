@@ -8,5 +8,5 @@
 
 [^18]: A 10. § a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
 [^19]: A 11. § (1) bekezdése a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^20]: [Mivel a 20. § (2) bekezdése nem hajtható végre, ezért nem lép hatályba.]
-[^21]: [Mivel a 20. § (2) bekezdése nem hajtható végre, ezért nem lép hatályba.]
+[^20]: A 11. § (2) bekezdése a 20. § (2) bekezdése alapján 2012. szeptember 30-án lép hatályba.
+[^21]: A 11. § (3) bekezdése a 20. § (2) bekezdése alapján 2012. szeptember 30-án lép hatályba.

@@ -1,3 +1,3 @@
 ## 16. §[^27]
 
-[^27]: [Mivel a 20. § (2) bekezdése nem hajtható végre, ezért nem lép hatályba.]
+[^27]: A 16. § a 20. § (2) bekezdése alapján 2012. szeptember 30-án lép hatályba.

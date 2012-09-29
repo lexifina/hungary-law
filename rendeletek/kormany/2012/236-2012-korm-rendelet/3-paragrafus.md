@@ -1,3 +1,3 @@
 ## 2. §[^2]
 
-[^2]: [Mivel a 20. § (2) bekezdése nem hajtható végre, ezért nem lép hatályba.]
+[^2]: A 2. § a 20. § (2) bekezdése alapján 2012. szeptember 30-án lép hatályba.
