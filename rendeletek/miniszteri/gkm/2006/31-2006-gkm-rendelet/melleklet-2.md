@@ -1,6 +1,6 @@
-## A Magyarország fegyver- és lőszervizsgálati próbajeleivel egyenértékűnek elismert külföldi próbajelek[^11]
+## A Magyarország fegyver- és lőszervizsgálati próbajeleivel egyenértékűnek elismert külföldi próbajelek[^12]
 
-2. melléklet a 31/2006. (VI. 1.) GKM rendelethez[^12]
+2. melléklet a 31/2006. (VI. 1.) GKM rendelethez[^13]
 
 ## Hátultöltő új fegyverek lőpróbát megelőző egyedi vizsgálata
 
@@ -204,5 +204,5 @@ Ezen kaliberjelek felsorolása és a megengedett értékek a 22. mellékletben t
 
 A zárolási hézagot a töltényűrbe helyezett megfelelően kialakított idomszerrel, sima billenő-csövű fegyvereknél a hézagot hézagmérővel kell vizsgálni.
 
-[^11]: Az 1. melléklet címe a 12/2012. (VI. 25.) NGM rendelet 3. § e) pontja szerint módosított szöveg.
-[^12]: A 2. melléklet a 12/2012. (VI. 25.) NGM rendelet 3. § f) pontja szerint módosított szöveg.
+[^12]: Az 1. melléklet címe a 12/2012. (VI. 25.) NGM rendelet 3. § e) pontja szerint módosított szöveg.
+[^13]: A 2. melléklet a 12/2012. (VI. 25.) NGM rendelet 3. § f) pontja szerint módosított szöveg.
