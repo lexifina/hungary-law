@@ -1,6 +1,6 @@
 ## Termelői szervezetek társulása
 
-6. §[^1] (1) A termelői szervezet – a tanácsi rendelet 125c. cikke alapján – más termelői szervezettel történő társulással új szervezetet hozhat létre.
+6. §[^2] (1) A termelői szervezet – a tanácsi rendelet 125c. cikke alapján – más termelői szervezettel történő társulással új szervezetet hozhat létre.
 
 (2) A termelői szervezetek társulásának – a bizottsági rendelet 36. cikkének (1) bekezdésében foglaltaknak megfelelően – a termelői szervezeteken kívül tagja lehet:
 
@@ -14,4 +14,4 @@ c) az a) és b) pont alá nem tartozó jogi személyiséggel rendelkező gazdas�
 
 (4) Nem termelői szervezetek részvétele esetén biztosítani kell minden termelői szervezet tag képviseletét a szervezet irányításában, valamint azt, hogy a termelői szervezetek társulása a termelői szervezetek kezdeményezésére jöjjön létre.
 
-[^1]: A 6. § a 109/2009. (VIII. 14.) FVM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 6. § a 109/2009. (VIII. 14.) FVM rendelet 1. §-ával megállapított szöveg.

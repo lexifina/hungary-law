@@ -1827,29 +1827,3 @@ Dátum:
 |  | Összesen bevétel adott évre vonatkozóan (eFt) |  |  |  |  |  |  |
 
 | Amennyiben szükséges az egyes intézkedések további pénzügyi részletezése évenkénti bontásban. |
-
-8. NYILATKOZATOK ÉS CÉGSZERŰ ALÁÍRÁS
-
-Alulírott, a termelői szervezet nevében kijelenti az alábbiakat:
-
-– Hogy a termelői szervezet vezetősége és tagsága nevében egyetért a benyújtott tervvel.
-
-– Hogy figyelembe vette az 1234/2007EK Rendelet, valamint az esetleges módosító rendeletek tartalmát és ezeknek eleget tesz.
-
-– Vállalja, hogy kötelezi magát alávetni minden a támogatások törvényes felhasználásával kapcsolatos tagállami és uniós ellenőrzésnek.
-
-– Kijelenti, hogy a szervezet és annak tagjai nem részesült és nem fog részesülni sem közvetlenül, sem közvetve más közösségi vagy nemzeti finanszírozásban az e rendelet értelmében támogatásra jogosító tevékenységek tekintetében
-
-– Kijelenti, hogy közvetve vagy közvetlenül nem vett és nem vesz igénybe támogatást az Agrár-vidékfejlesztési Operatív Program, illetve az Új Magyarország Vidékfejlesztési Program keretében finanszírozott intézkedésekből a Működési Programban szereplő beruházások megvalósításához.
-
-– Kijelenti, hogy képes elősegíteni az 1234/2007/EK tanácsi rendelet szerinti környezetbarát eljárások alkalmazását, biztosítani a tagok által megtermelt áru tárolását, csomagolását és értékesítését, továbbá tevékenységük megfelelő kereskedelmi és költségvetési ügyvitelét.
-
-– Hogy a nyomtatványt a valóságnak megfelelően töltötte ki.
-
-Elnök neve és aláírása:
-
-| ................................................................ | ................................................................ |
-
-Hely és dátum: ...........................................................................................................
-
-P. H.
