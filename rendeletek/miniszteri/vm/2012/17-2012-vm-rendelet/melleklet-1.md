@@ -1,4 +1,4 @@
-## 27–28. §[^1]
+## 28. §[^3]
 
 1. melléklet a 17/2012. (II. 29.) VM rendelethez
 
@@ -84,4 +84,4 @@
 
 | 2 | Szarvasmarha | magyartarka szarvasmarha |
 
-[^1]: A 27–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

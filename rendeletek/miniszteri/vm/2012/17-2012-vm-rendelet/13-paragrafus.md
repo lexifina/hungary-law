@@ -1,6 +1,6 @@
 ## 6. A támogatási kérelem benyújtása
 
-13. § (1) A támogatási kérelmeket 2012. április 1. és április 30. között lehet benyújtani az MVH-hoz, az MVH honlapján közleményben közzétett nyomtatványon. A nyomtatványnak legalább a következő adatokat kell tartalmaznia
+13. § (1)[^1] A támogatási kérelmeket 2012. április 1. és október 10. között lehet benyújtani az MVH-hoz, az MVH honlapján közleményben közzétett nyomtatványon. A nyomtatványnak legalább a következő adatokat kell tartalmaznia
 
 a) ügyfél-azonosítási adatok, valamint a kapcsolattartó adatai;
 
@@ -51,3 +51,5 @@ b) a (2) bekezdésben szereplő állásfoglalás, és
 c) a támogatási kérelem pontozásához szükséges dokumentumok
 
 tekintetében hiánypótlásra nincs lehetőség.
+
+[^1]: A 13. § (1) bekezdése a 101/2012. (IX. 28.) VM rendelet 1. §-ával megállapított szöveg.
