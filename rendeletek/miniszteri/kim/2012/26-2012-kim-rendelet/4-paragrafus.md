@@ -1,4 +1,4 @@
-4. § (1) A kiegészítő támogatás és a kiegészítő illetmény igénylésének lebonyolításában a Magyar Államkincstár, valamint a Wekerle Sándor Alapkezelő (a továbbiakban: Alapkezelő) vesznek részt.
+4. § (1)[^4] A kiegészítő támogatás és a kiegészítő illetmény igénylésének lebonyolításában a Magyar Államkincstár, valamint az Emberi Erőforrás Támogatáskezelő (a továbbiakban: Alapkezelő) vesznek részt.
 
 (2) A kiegészítő támogatás folyósításának feltétele az 1. melléklet, a 2. melléklet és a 3. melléklet, a kiegészítő illetmény esetén az 1. melléklet és a 4. melléklet szerinti adatlapok benyújtása.
 
@@ -13,3 +13,5 @@ a) a fenntartó KSH-kódja, megnevezése és a támogatási összeg feltünteté
 b) az Alapkezelő részére 2012. július 6-áig továbbítja.
 
 (6) A kiegészítő támogatás és a kiegészítő illetmény összegét az Alapkezelő közli az önkormányzati fenntartóval.
+
+[^4]: A 4. § (1) bekezdése a 30/2012. (IX. 28.) EMMI rendelet 22. §-a szerint módosított szöveg.
