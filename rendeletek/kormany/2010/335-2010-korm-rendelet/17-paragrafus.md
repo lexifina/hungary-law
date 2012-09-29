@@ -1,8 +1,8 @@
 ## 16. § A közigazgatási személyzetpolitikáért felelős miniszter a külön törvényben meghatározott lekérdezést a vezetői információs modulon keresztül végzi.
 
-## A Hivatal feladatai[^7]
+## A Hivatal feladatai[^8]
 
-17. § (1)[^8] A Hivatal:
+17. § (1)[^9] A Hivatal:
 
 a) a felhasználók részére működteti a 6. § (2) bekezdése szerinti ügyfélszolgálatot (a továbbiakban ügyfélszolgálat);
 
@@ -12,7 +12,7 @@ c) a felhasználók tájékoztatása érdekében működteti a KSzSzR portált;
 
 d) előkészíti a Működési Szabályzatot és szükség esetén javaslatot tesz a módosítására.
 
-(2)[^9] A Hivatal az ügyfélszolgálat segítségével:
+(2)[^10] A Hivatal az ügyfélszolgálat segítségével:
 
 a) a felhasználók részére tájékoztatást nyújt a KSzSzR működésével kapcsolatos kérdésekben;
 
@@ -26,13 +26,13 @@ e) tájékoztatókat készít, oktatásokat szervez a felhasználók számára a
 
 f) segítséget nyújt a munkáltatók és a közigazgatási személyzetpolitikáért felelős miniszter számára a vezetői információs igények kielégítésével kapcsolatos feladataik ellátásához.
 
-(3)[^10] A Hivatal a KSzSzR fejlesztése tekintetében:
+(3)[^11] A Hivatal a KSzSzR fejlesztése tekintetében:
 
 a) összegyűjti a fejlesztési igényeket és javaslatával együtt döntésre felterjeszti a közigazgatási személyzetpolitikáért felelős minisztérium közigazgatási államtitkárának;
 
 b) elvégzi a KSzSzR-ben végrehajtásra kerülő módosításokból, fejlesztésekből adódó tesztelési feladatokat.
 
-[^7]: A 17. §-t megelőző alcím szövege a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^8]: A 17. § (1) bekezdés nyitó szövegrésze a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^9]: A 17. § (2) bekezdés nyitó szövegrésze a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^10]: A 17. § (3) bekezdés nyitó szövegrésze a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^8]: A 17. §-t megelőző alcím szövege a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^9]: A 17. § (1) bekezdés nyitó szövegrésze a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^10]: A 17. § (2) bekezdés nyitó szövegrésze a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^11]: A 17. § (3) bekezdés nyitó szövegrésze a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés d) pontja szerint módosított szöveg.
