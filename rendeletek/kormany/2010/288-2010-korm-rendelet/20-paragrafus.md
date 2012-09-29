@@ -2,17 +2,17 @@
 
 20. §[^36] (1) A fővárosi és megyei kormányhivatal a kormánytisztviselők és köztisztviselők képzése, továbbképzése körében
 
-a) éves terv alapján szervezi a fővárosban, megyében az államigazgatási feladatokat ellátó helyi önkormányzati szervek köztisztviselőinek képzését, továbbképzését, továbbá részt vesz a területi államigazgatási szervek kormánytisztviselőinek képzése, továbbképzése szervezésében,
+a)[^37] éves terv alapján szervezi a fővárosban, megyében az államigazgatási feladatokat ellátó helyi önkormányzati szervek köztisztviselőinek képzését, továbbképzését,
 
-b) oktatási-módszertani központként közreműködik a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszternek a köztisztviselők és kormánytisztviselők képzésével, továbbképzésével, valamint a szakember-utánpótlás megszervezésével kapcsolatos feladatainak ellátásában; a Kormány középtávú továbbképzési tervében meghatározott módszertani feladatok végrehajtásában,
+b)[^38]
 
-c) gondoskodik a közigazgatási versenyvizsgák, szakvizsgák, anyakönyvi szakvizsgák, állampolgársági vizsgák, továbbá külön jogszabály által meghatározott egyéb vizsgák, valamint az ezek előkészítésére szolgáló tanfolyamok megszervezéséről és lebonyolításáról,
+c)[^39] gondoskodik, szakvizsgák, anyakönyvi szakvizsgák, állampolgársági vizsgák, továbbá külön jogszabály által meghatározott egyéb vizsgák, valamint az ezek előkészítésére szolgáló tanfolyamok megszervezéséről és lebonyolításáról,
 
 d) előmozdítja az ágazati, szakmai alapképzés rendszerességét, kezdeményezheti az ágazati képzéseket a központi államigazgatási szervek területi szervei vezetőinél, a szakmai irányító szerv vezetőjénél, illetve a feladatkörében érintett miniszternél,
 
-e)[^37] közreműködik a helyi önkormányzatok, valamint a nemzetiségi önkormányzatok tisztségviselőinek, képviselőinek képzésében,
+e)[^40] közreműködik a helyi önkormányzatok, valamint a nemzetiségi önkormányzatok tisztségviselőinek, képviselőinek képzésében,
 
-f) összehangolja a központi államigazgatási szervek területi szervei feladatkörébe tartozó, kormánytisztviselőket és köztisztviselőket érintő képzési, továbbképzési feladatok ellátását,
+f)[^41]
 
 g) elemzi a képzés, továbbképzés színvonalát és eredményességét, kezdeményezi az érintett szerveknél a szükséges intézkedéseket,
 
@@ -21,4 +21,8 @@ h) összehangolja, és az erre biztosított költségvetési kereteknek megfelel
 (2) A fővárosi és megyei kormányhivatal összehangolja a közigazgatási szervek által az ügyfelek számára nyújtott elektronikus ügyintézést támogató képzéseket, továbbképzéseket, biztosítja azok megfelelő nyilvánosságát, terjeszti az elektronikus ügyintézés módszereit.
 
 [^36]: A 20. § a 39. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
-[^37]: A 20. § (1) bekezdés e) pontja a 87/2012. (IV. 26.) Korm. rendelet 4. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^37]: A 20. § (1) bekezdés a) pontja a 273/2012. (IX. 28.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^38]: A 20. § (1) bekezdés b) pontját a 273/2012. (IX. 28.) Korm. rendelet 33. §-a hatályon kívül helyezte.
+[^39]: A 20. § (1) bekezdés c) pontja a 273/2012. (IX. 28.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^40]: A 20. § (1) bekezdés e) pontja a 87/2012. (IV. 26.) Korm. rendelet 4. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^41]: A 20. § (1) bekezdés f) pontját a 273/2012. (IX. 28.) Korm. rendelet 33. §-a hatályon kívül helyezte.

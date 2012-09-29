@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-288-20-
 | 2012-09-18 | 2010-288-20-22.13 | 261/2012. (IX. 17.) Korm. rendelet |
 | 2012-09-21 | 2010-288-20-22.14 | 266/2012. (IX. 18.) Korm. rendelet |
 | 2012-09-27 | 2010-288-20-22.15 | 231/2012. (VIII. 28.) Korm. rendelet |
+| 2012-09-29 | 2010-288-20-22.16 | 273/2012. (IX. 28.) Korm. rendelet |
