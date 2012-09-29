@@ -18,10 +18,12 @@ f) módszertanilag kialakítja az új közigazgatási vizsgarendszert, és ellá
 
 g) módszertanilag kialakítja a vezetői képességek fejlesztését és ellátja a minőségirányítási feladatokat,
 
-h) a Nemzeti Közszolgálati Egyetem közreműködésével működteti a közigazgatásban a tudásmenedzsmentre épülő, kompetencia- és munkaköralapú továbbképzési-, vizsga-, és vezetőképzési rendszert,
+h)[^1] a Nemzeti Közszolgálati Egyetem közreműködésével működteti a kompetencia és munkaköralapú közszolgálati továbbképzés tervezési, beiskolázási és módszertani feladatait,
 
 i) javaslatot tesz a munkakör alapú rendszerre (MAR) és támogatja annak működtetését,
 
 j) javaslatot tesz az objektív teljesítménymenedzsment és teljesítményértékelési rendszerre és támogatja annak működtetését,
 
 k) javaslatot tesz a közszolgálati életpályát támogató belső karrier- és tehetségmenedzsmentre, és módszertani támogatást nyújt a közigazgatási szervek számára.
+
+[^1]: A 10. § h) pontja a 273/2012. (IX. 28.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
