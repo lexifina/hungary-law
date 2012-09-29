@@ -14,7 +14,7 @@
 
 (8) A felhasználás abban az esetben tekinthető – a közcélú tevékenység szempontjából – megfelelőnek, amennyiben a költségvetési támogatást
 
-a) a 4. § (1) bekezdés a) pont aa)–ac) pontja szerinti kedvezményezett az alapító okiratában, alapszabályában alaptevékenységként meghatározott – a Civil tv. szerinti – közhasznú tevékenység megvalósítására fordítja,
+a) a 4. § (1) bekezdés a) pont aa)–ad) alpontja szerinti kedvezményezett az alapcél szerinti közhasznú tevékenysége megvalósítására fordítja,
 
 b) a 4. § (1) bekezdés b)–g) pontja szerinti kedvezményezett a létesítő okiratában és a rá vonatkozó külön jogszabályokban alaptevékenységként meghatározott közcélú, közérdekű, közhasznú tevékenység megvalósítására fordítja.
 

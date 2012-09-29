@@ -2,15 +2,17 @@
 
 4. § (1) E törvény alkalmazásában kedvezményezett
 
-a) azon
+a) a magánszemély rendelkező nyilatkozata évének első napja előtt legalább
 
-aa) az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Civil. tv.) szerinti egyesület (kivéve a pártot, biztosító egyesületet, munkaadói és munkavállalói érdek-képviseleti szervezetet), amelyet a bíróság a magánszemély rendelkező nyilatkozata évének első napja előtt legalább két évvel, és
+aa) két évvel korábban bíróság által nyilvántartásba vett – az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény (a továbbiakban: Civil tv.) szerinti – egyesület (kivéve a pártot, biztosító egyesületet, munkaadói és munkavállalói érdek-képviseleti szervezetet),
 
-ab) alapítvány, amelyet a bíróság a magánszemély rendelkező nyilatkozata évének első napja előtt legalább két évvel, továbbá
+ab) két évvel korábban bíróság által nyilvántartásba vett – a polgári törvénykönyvről szóló törvény szerinti – alapítvány,
 
-ac) közhasznú alapítvány, egyesület és közalapítvány, amelyet a bíróság a rendelkező nyilatkozat évének első napja előtt legalább egy évvel – vagy ez idő letelte előtt, amennyiben az aa)–ab) pontban foglalt feltételeknek egyébként megfelel –, közhasznú szervezetként
+ac) egy évvel korábban bíróság által nyilvántartásba vett olyan közhasznú alapítvány vagy közhasznú egyesület, amely tevékenységét állami szervvel vagy helyi önkormányzattal a rendelkező nyilatkozat évének első napja előtt legalább egy évvel kötött szerződés alapján végzi, valamint
 
-jogerősen nyilvántartásba vett, és az alapszabálya, illetőleg az alapító okirata szerint a rendelkező nyilatkozat(ok) évét megelőző év első napja óta megszakítás nélkül – törvény szerinti – közhasznú tevékenységgel ténylegesen foglalkozik;
+ad) egy évvel korábban bíróság által nyilvántartásba vett közalapítvány,
+
+ha az alapcél szerinti közhasznú tevékenységét a magánszemély rendelkező nyilatkozata évét megelőző év első napja óta megszakítás nélkül végzi;
 
 b) a Magyar Tudományos Akadémia;
 
@@ -48,11 +50,13 @@ c) alapszabálya, alapító okirata szerint megfelel a Civil tv. 34. § (1) beke
 
 d) nyilatkozik arról, hogy a rendelkező nyilatkozat évének augusztus 1. napja és az általa tett nyilatkozat időpontja között nem volt olyan lejárt esedékességű köztartozása, amelyre fizetési halasztást vagy részletfizetési kedvezményt nem kapott, és
 
-e) nyilatkozik arról, hogy az alapszabálya, alapító okirata szerinti közhasznú tevékenységét a rendelkező nyilatkozat évét megelőző év első napja óta megszakítás nélkül ténylegesen folytatja;
+e) nyilatkozik arról, hogy az alapcél szerinti közhasznú tevékenységét a rendelkező nyilatkozat évét megelőző év első napja óta megszakítás nélkül ténylegesen folytatja;
 
-f) az (1) bekezdés a) pont ac) pontjában meghatározott közhasznú alapítvány, egyesület a szerződés másolatának az adóhatósághoz történő becsatolásával igazolja, hogy tevékenységét állami szervvel vagy önkormányzattal a rendelkező nyilatkozat évének első napja előtt legalább egy évvel kötött szerződés alapján végzi;
+f)
 
 g)
+
+(2a) Az (1) bekezdés a) pont ac) alpontja szerinti kedvezményezett az állami szervvel vagy helyi önkormányzattal kötött szerződése másolatának az adóhatósághoz történő becsatolásával igazolja, hogy közhasznú tevékenységét közfeladat-ellátási kötelezettség mellett végzi.
 
 (3) Ha az (1) bekezdés szerinti kedvezményezett a (2) bekezdés d) pontjában meghatározott feltételt, és az (5) bekezdésben megjelölt határidőt nem teljesíti, kivételes méltányosságot érdemlő esetben az adóhatóság eltekinthet e feltételek meglététől. Kivételes méltányosságot érdemel különösen, ha a rendelkezett összeg átutalásának meghiúsulása a kedvezményezett alapvető céljának elérését súlyosan veszélyezteti. A kivételes méltányosság gyakorlása esetén a 6. § (1) bekezdése szerinti átutalást – legkésőbb a rendelkező nyilatkozat éve utolsó napját követő egy éven belül – az adóhatóság akkor teljesítheti, ha ezt megelőzően a kedvezményezett a köztartozását rendezi.
 
