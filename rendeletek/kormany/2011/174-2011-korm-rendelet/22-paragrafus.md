@@ -1,12 +1,12 @@
 ## 21. Az ügykezelői alapvizsga díja
 
-22. § (1)[^31] Az ügykezelői alapvizsga díja a mindenkori illetményalap 70%-a, amelyet a munkáltatónak a vizsgára jelentkezők számának alapulvételével a vizsgaszervező Magyar Államkincstárnál vezetett számlájára kell befizetnie, a vizsgaszervező által kiállított számla alapján. Az ügykezelői alapvizsga díja magában foglalja a vizsgázónak a tananyagokhoz és egyéb oktatási segédanyagokhoz biztosított hozzáférést, valamint a felkészítő tanfolyamon és a vizsgán való egyszeri részvételt.
+22. § (1)[^43] Az ügykezelői alapvizsga díja a mindenkori illetményalap 70%-a, amelyet a munkáltatónak a vizsgára jelentkezők számának alapulvételével a vizsgaszervező Magyar Államkincstárnál vezetett számlájára kell befizetnie, a vizsgaszervező által kiállított számla alapján. Az ügykezelői alapvizsga díja magában foglalja a vizsgázónak a tananyagokhoz és egyéb oktatási segédanyagokhoz biztosított hozzáférést, valamint a felkészítő tanfolyamon és a vizsgán való egyszeri részvételt.
 
 (2) Az ügykezelői alapvizsga díja a munkáltatót terheli.
 
-(3)[^32] Az ügykezelői alapvizsga díjának 12,5%-a a tananyag fejlesztéséhez szükséges költségeket tartalmazza, melyet a vizsgaszervező elkülönítetten köteles kezelni.
+(3)[^44] Az ügykezelői alapvizsga díjának 12,5%-a a tananyag fejlesztéséhez szükséges költségeket tartalmazza, melyet a vizsgaszervező elkülönítetten köteles kezelni.
 
-(4)[^33] A vizsgaszervező a (3) bekezdésben meghatározott összeget a vizsgára jelentkezők számának alapulvételével minden év július 15-ig (I. félév) és január 15-ig (II. félév) átutalja az NKE-nek.
+(4)[^45] A vizsgaszervező a (3) bekezdésben meghatározott összeget a vizsgára jelentkezők számának alapulvételével minden év július 15-ig (I. félév) és január 15-ig (II. félév) átutalja az NKE-nek.
 
 (5) A vizsga elhalasztása esetén halasztási díjat kell fizetni. A halasztás díja megegyezik a köztisztviselői illetményalap 10 %-ával. A halasztási díj a munkáltatót terheli, aki – döntésétől függően – átháríthatja azt a vizsgázóra.
 
@@ -16,6 +16,6 @@
 
 (8) Az (5)–(7) bekezdések esetén a vizsgaszervező dönt – a vizsgázó kérését figyelembe véve – az újabb vizsgaidőpontról.
 
-[^31]: A 22. § (1) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés g) pontja és (18) bekezdés c) pontja szerint módosított szöveg.
-[^32]: A 22. § (3) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (15) bekezdésével megállapított szöveg.
-[^33]: A 22. § (4) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés c) pontja szerint módosított szöveg.
+[^43]: A 22. § (1) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés g) pontja és (18) bekezdés c) pontja szerint módosított szöveg.
+[^44]: A 22. § (3) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (15) bekezdésével megállapított szöveg.
+[^45]: A 22. § (4) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés c) pontja szerint módosított szöveg.

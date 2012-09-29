@@ -1,10 +1,10 @@
 ## 11. A közigazgatási alapvizsga díja
 
-12. § (1)[^15] A közigazgatási alapvizsga díja a mindenkori illetményalappal megegyező összeg, melyet a munkáltatónak a vizsgaszervező Magyar Államkincstárnál vezetett számlájára kell befizetnie. A közigazgatási alapvizsga díja magában foglalja a vizsgázónak a tananyagokhoz és egyéb oktatási segédanyagokhoz biztosított hozzáférést, valamint a felkészítő konzultáción és a vizsgán való egyszeri részvételt.
+12. § (1)[^27] A közigazgatási alapvizsga díja a mindenkori illetményalappal megegyező összeg, melyet a munkáltatónak a vizsgaszervező Magyar Államkincstárnál vezetett számlájára kell befizetnie. A közigazgatási alapvizsga díja magában foglalja a vizsgázónak a tananyagokhoz és egyéb oktatási segédanyagokhoz biztosított hozzáférést, valamint a felkészítő konzultáción és a vizsgán való egyszeri részvételt.
 
-(2)[^16] A közigazgatási alapvizsga díjának 10%-a az informatikai rendszer fenntartásához és működtetéséhez és a minőségirányítási rendszer működtetéséhez és fenntartásához, 10%-a a tananyag fejlesztéséhez, hatályosításához szükséges költségeket tartalmazza.
+(2)[^28] A közigazgatási alapvizsga díjának 10%-a az informatikai rendszer fenntartásához és működtetéséhez és a minőségirányítási rendszer működtetéséhez és fenntartásához, 10%-a a tananyag fejlesztéséhez, hatályosításához szükséges költségeket tartalmazza.
 
-(3)[^17] A vizsgaszervező a (2) bekezdésben meghatározott összeget a vizsgára jelentkezők számának alapul vételével minden év július 15-ig (I. félév) és január 15-ig (II. félév) átutalja NKE-nek, melyet elkülönítetten köteles kezelni. Az informatikai rendszer fenntartásához és működtetéséhez elkülönített összeget az NKE minden év július 15-ig (I. félév) és január 15-ig (II. félév) átutalja a Közigazgatási és Igazságügyi Hivatalnak.
+(3)[^29] A vizsgaszervező a (2) bekezdésben meghatározott összeget a vizsgára jelentkezők számának alapul vételével minden év július 15-ig (I. félév) és január 15-ig (II. félév) átutalja NKE-nek, melyet elkülönítetten köteles kezelni.
 
 (4) A közigazgatási alapvizsga díja a munkáltatót terheli.
 
@@ -18,6 +18,6 @@
 
 (9) A (8) bekezdésben foglaltaktól eltérően a vizsgázó első alkalommal díjmentesen elhalaszthatja a vizsgát, feltéve, hogy a halasztásra a vizsgázó önhibáján kívüli okból kerül sor. Önhibáján kívüli oknak minősül különösen a vizsgázó betegsége miatti keresőképtelensége.
 
-[^15]: A 12. § (1) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
-[^16]: A 12. § (2) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
-[^17]: A 12. § (3) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^27]: A 12. § (1) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^28]: A 12. § (2) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^29]: A 12. § (3) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (8) bekezdésével megállapított, a 273/2012. (IX. 28.) Korm. rendelet 31. § (6) bekezdés b) pontja szerint módosított szöveg.

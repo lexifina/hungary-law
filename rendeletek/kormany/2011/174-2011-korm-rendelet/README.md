@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-174-20-
 | 2011-09-02 | 2011-174-20-22.18 | 2010: CXXX. törvény |
 | 2012-01-01 | 2011-174-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-08-16 | 2011-174-20-22.3 | 178/2012. (VII. 26.) Korm. rendelet |
+| 2012-09-29 | 2011-174-20-22.4 | 273/2012. (IX. 28.) Korm. rendelet |

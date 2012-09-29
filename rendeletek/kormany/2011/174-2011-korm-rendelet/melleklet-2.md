@@ -1,4 +1,4 @@
-## 2. függelék[^41]
+## 2. függelék[^53]
 
 ## Szám:
 
@@ -26,7 +26,7 @@
 
 ## vizsgaszervező vezetője
 
-## 3. függelék[^42]
+## 3. függelék[^54]
 
 2. melléklet a 174/2011. (VIII. 31.) Korm. rendelethez
 
@@ -57,6 +57,8 @@ megfelelt, ha az átlag 2,50–2,00
 8. Az ügykezelői alapvizsga díjából a vizsgáztató bizottság elnökét és tagjait, valamint a vizsgabiztost tiszteletdíj illeti meg. A vizsga díjából a vizsgáztató bizottság elnökét 4%, tagjait 2,5–2,5%, a vizsgabiztost 1,5% illeti meg, amely magában foglalja a munkáltató által fizetendő járulékokat is.
 
 9. A jelentkezési lap, a jegyzőkönyv, a bizonyítvány és a vizsganyilvántartó-könyv mintáját a függelékek tartalmazzák.
+
+10.[^55] A vizsgaszervező az NKE által rendelkezésére bocsátott írásbeli feladatokat – zárt borítékban – a vizsgaelnök rendelkezésére bocsátja a hozzájuk tartozó helyes megoldással együtt.
 
 ## 2. függelék
 
@@ -102,11 +104,13 @@ P. H.
 
 vizsgáztató bizottság elnöke
 
+3. függelék[^56]
+
 3. függelék
 
 Szám:
 
-(a Magyar Köztársaság címere többszínnyomással)
+(a Magyarország címere többszínnyomással)
 
 BIZONYÍTVÁNY
 
@@ -116,25 +120,21 @@ Születési hely, idő:
 
 Anyja születési család és utóneve:
 
-......................................................... vizsgáztató bizottság előtt a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 68. § (1) bekezdése alapján ......................... minősítéssel
+...................................................(vizsgaszervező neve)............................................................. , mint vizsgaszervező előtt a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény alapján .............................................. minősítéssel
 
 ÜGYKEZELŐI ALAPVIZSGÁT
 
 tett.
 
-Kelt: ...................................., .............. év ..................... hónap ......... nap
+Kelt: ...................., ............ év ................. hó ....... nap
 
 P. H.
 
-| ....................................................... | ....................................................... |
+| ................................................................. ................................................................. vizsgáztató bizottság tagja vizsgáztató bizottság tagja |
 
-| vizsgáztató bizottság tagja | vizsgáztató bizottság tagja |
+| ............................................................... vizsgáztató bizottság elnöke |
 
-...........................................................................
-
-vizsgáztató bizottság elnöke
-
-4. függelék[^43]
+4. függelék[^57]
 
 VIZSGANYILVÁNTARTÓ-KÖNYV
 
@@ -142,6 +142,8 @@ Az ügykezelői alapvizsgáról
 
 | Sorszám | Dátum | Vizsgázó családi és utóneve, (Születési családi és utóneve) születési helye, ideje anyja születési családi és utóneve | Munkáltató megnevezése | Bizonyítvány minősítése | Vizsgabizottság tagjainak megnevezése |
 
-[^41]: Az 1. melléklet 2. függeléke a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés i) pontja szerint módosított szöveg.
-[^42]: Az 1. melléklet 3. függelékét a 28. § (9) bekezdése hatályon kívül helyezte.
-[^43]: A 2. melléklet 4. függeléke a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés j) pontja szerint módosított szöveg.
+[^53]: Az 1. melléklet 2. függeléke a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés i) pontja szerint módosított szöveg.
+[^54]: Az 1. melléklet 3. függelékét a 28. § (9) bekezdése hatályon kívül helyezte.
+[^55]: A 2. melléklet 10. pontját a 273/2012. (IX. 28.) Korm. rendelet 31. § (4) bekezdése iktatta be.
+[^56]: A 2. melléklet 3. függeléke a 273/2012. (IX. 28.) Korm. rendelet 31. § (4) bekezdésével megállapított szöveg.
+[^57]: A 2. melléklet 4. függeléke a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés j) pontja szerint módosított szöveg.
