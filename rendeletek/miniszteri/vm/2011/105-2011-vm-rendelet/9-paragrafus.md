@@ -1,4 +1,4 @@
-## 8. §[^1]
+## 8. §[^13]
 
 ## Az Európai Unió jogának való megfelelés
 
@@ -10,4 +10,4 @@ b) az 1234/2007/EK tanácsi rendeletnek a gyümölcs- és zöldség-, valamint a
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

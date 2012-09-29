@@ -24,4 +24,6 @@
 
 ## 8. Keltezés, a kérelmező (cégszerű) aláírása.
 
-4. melléklet a 105/2011. (XI. 10.) VM rendelethez
+4. melléklet a 105/2011. (XI. 10.) VM rendelethez[^16]
+
+[^16]: A 4. mellékletet a 98/2012. (IX. 21.) VM rendelet 4. § b) pontja hatályon kívül helyezte.

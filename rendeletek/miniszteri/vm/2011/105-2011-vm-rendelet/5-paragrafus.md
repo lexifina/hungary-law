@@ -1,9 +1,18 @@
-5. § (1) A kiegészítő nemzeti támogatás igénybevétele érdekében a működési program módosítása iránti kérelmet, valamint bejelentést az R. 15. § (6) vagy (8) bekezdésének megfelelően egy adott társulás tagjai által ugyanazon időpontban kell a Vidékfejlesztési Minisztériumhoz benyújtani. A kérelemmel együtt kell benyújtani a 3. § (2) bekezdésében és a 4. §-ban meghatározottak fennállását igazoló, az 1. mellékletben felsorolt dokumentumokat és a 2. mellékletben szereplő kitöltött táblázatot, valamint az 5. melléklet szerinti, a 2010. évre kitöltött táblázatokat.
+## 4. §[^3]
 
-(2) A 4. § (3) bekezdésében meghatározott mértékű, a 2011. évi működési alapot kiegészítő többlettámogatási összeg a működési program azon intézkedéseire hagyható jóvá, amelyek kapcsolódnak azon termelői szervezetek társulása elismeréséhez, amelynek a termelői szervezet tagja.
+5. § (1)[^4] A kiegészítő nemzeti támogatás igénybevétele érdekében a működési program módosítása iránti kérelmet, valamint bejelentést az R. 15. § (6) vagy (8) bekezdésének megfelelően kell a Vidékfejlesztési Minisztériumhoz benyújtani. A kérelemmel együtt kell benyújtani a 2. mellékletben szereplő kitöltött táblázatot, valamint az 5. melléklet szerinti, a 2011. évre kitöltött táblázatokat.
 
-(3) Az R. 15. § (8) bekezdésétől eltérően nem szükséges a miniszter jóváhagyása abban az esetben, ha a termelői szervezetek társulása elismeréséhez kapcsolódó intézkedésekre eredetileg jóváhagyott költségvetés, illetve a működési alap mértéke legfeljebb az e rendelet alapján jogosult kiegészítő nemzeti támogatás mértékével növekszik. A jogosult kiegészítő nemzeti támogatás mértékét a bizottsági rendelet 66. cikk (4) bekezdésében foglalt tájékoztatás alapján a miniszter végzésben állapítja meg.
+(2)[^5]
 
-(4) A kiegészítő nemzeti támogatás legfeljebb a termelői szervezeteknek nyújtott nemzeti pénzügyi támogatásról szóló bizottsági határozat szerint kifizethető támogatási összegig hagyható jóvá a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 32. § (1) bekezdés b) pontjára figyelemmel.
+(3)[^6] Az R. 15. § (6) bekezdésétől eltérően nem szükséges a miniszter jóváhagyása abban az esetben, ha a termelői szervezetek társulása elismeréséhez kapcsolódó intézkedésekre eredetileg jóváhagyott költségvetés, illetve a működési alap mértéke legfeljebb az e rendelet alapján jogosult kiegészítő nemzeti támogatás mértékével növekszik.
 
-(5) A 3. § (2) bekezdésében meghatározott mértékű, a 2011. évi működési alapot kiegészítő alaptámogatási összeg húsz százalékát az intézkedések megvalósításához szükséges szaktanácsadási, kutatási, oktatási tevékenységek végrehajtásához kell felhasználni.
+(4)[^7]
+
+(5)[^8] A 3. § (2) bekezdésében meghatározott összegű, a 2012. évi működési alapot kiegészítő támogatási összeg tíz százalékát az intézkedések megvalósításához szükséges szaktanácsadási, kutatási, oktatási tevékenységek végrehajtásához kell felhasználni.
+
+[^3]: A 4. §-t a 98/2012. (IX. 21.) VM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^4]: Az 5. § (1) bekezdése a 98/2012. (IX. 21.) VM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^5]: Az 5. § (2) bekezdését a 98/2012. (IX. 21.) VM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^6]: Az 5. § (3) bekezdése a 98/2012. (IX. 21.) VM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (4) bekezdését a 98/2012. (IX. 21.) VM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^8]: Az 5. § (5) bekezdése a 98/2012. (IX. 21.) VM rendelet 3. § (5) bekezdésével megállapított szöveg.
