@@ -8,7 +8,7 @@ b) érvényesüljenek az oktatással kapcsolatos, az OKV elnöksége által megh
 
 (3) A bizottságok felkérésének előkészítésével, működésével, a szakvizsgák, valamint a szakvizsgára felkészítő tanfolyam szervezésével, lebonyolításával, nyilvántartásával kapcsolatos feladatokat a szakvizsgaszervezők látják el.
 
-(4)[^16] A Közigazgatási és Igazságügyi Hivatal a szakvizsgák szervezéséhez, a bizottságok munkájához, a vizsgakövetelmények egységes érvényesítéséhez módszertani útmutatást ad, továbbá módszertani felkészítőt szervez a szakvizsgaszervezők és a vizsgabiztosok részére.
+(4)[^16] Az NKE a szakvizsgák szervezéséhez, a bizottságok munkájához, a vizsgakövetelmények egységes érvényesítéséhez módszertani útmutatást ad, továbbá módszertani felkészítőt szervez a szakvizsgaszervezők és a vizsgabiztosok részére.
 
 (5)[^17]
 
@@ -19,7 +19,7 @@ b) érvényesüljenek az oktatással kapcsolatos, az OKV elnöksége által megh
 [^13]: A 4. § a 252/2008. (X. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^14]: A 4. § (1) bekezdés nyitó szövegrésze a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 46. pontja, a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés e) pontja szerint módosított szöveg.
 [^15]: A 4. § (2) bekezdése a 153/2010. (V. 4.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^16]: A 4. § (4) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^16]: A 4. § (4) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 14. § (2) bekezdésével megállapított, a 273/2012. (IX. 20.) Korm. rendelet 28. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^17]: A 4. § (5) bekezdését a 153/2010. (V. 4.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
 [^18]: A 4. § (6) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés b) és f) pontja szerint módosított szöveg.
 [^19]: A 4. § (7) bekezdése a 153/2010. (V. 4.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-35-20-2
 | 2010-06-30 | 1998-35-20-22.11 | 103/2010. (IV. 7.) Korm. rendelet |
 | 2011-07-26 | 1998-35-20-22.12 | 126/2011. (VII. 18.) Korm. rendelet |
 | 2012-08-16 | 1998-35-20-22.13 | 178/2012. (VII. 26.) Korm. rendelet |
+| 2012-09-29 | 1998-35-20-22.14 | 273/2012. (IX. 28.) Korm. rendelet |
