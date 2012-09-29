@@ -74,7 +74,19 @@ d) amelynek a közterülettel vagy magánúttal közös határvonala legalább 3
 
 32. Épület legmagasabb pontja: az épületnek a terepcsatlakozáshoz, lejtős terepen a lejtőoldali alacsonyabb terepcsatlakozáshoz, valamely magas ponthoz, vagy valamely síkhoz viszonyított, helyi építési szabályzat által megállapított legfelső pontja. Ennek meghatározásánál a tető azon díszítő elemei, amelyek huzamos tartózkodásra szolgáló helyiséget nem tartalmaznak – kupola, saroktorony – valamint a tetőfelépítmények és az épület tetőzetén elhelyezett antenna, kémény és szellőző valamint tartozékaik figyelmen kívül hagyandók.
 
-33. Épületmagasság („Ém”): az épület valamennyi, külső és belső, sík vagy kiterített íves homlokzati felülete összegének (F) valamennyi, e felületek vízszintesen mért hosszának összegével (L) való osztásából (F/L) eredő érték.
+33.[^303] Építménymagasság („H”): az építmény valamennyi, a telek beépítettsége meghatározásánál figyelembe veendő építmény kontúrvonalára állított függőleges felületre vetített homlokzati vetületi-felület összegének (F) valamennyi, e vetületi-felület vízszintesen mért hosszának összegével (L) való osztásából (F/L) eredő érték.
+
+Az építménymagasság megállapítása során:
+
+a) az egyes homlokzati vetületi-felületeket az adott felületi síknak és a legfelső teljes építményszint záró szerkezetének felső síkjának metszésvonala vagy érintővonala és a síknak a rendezett tereppel való metszésvonala közötti magassággal kell megállapítani, legfeljebb 6,0 m magasságú két oromfal kivételével, amelyek nem az építmény hosszoldalán állnak,
+
+b) az egyes homlokzatfelületekhez hozzá kell számítani – a kémény, a tetőszerelvények, a 0,5 m2-t meg nem haladó felületű padlásvilágító ablak és az 1,0 m2-t meg nem haladó felületű reklámhordozók kivételével – mindazoknak az építményrészeknek (attikafal, torony, kupola, tető, tetőrész vagy egyéb építményrész) a felületét, amelyek az a) pont szerinti metszésvonalra vagy érintővonalra az építmény irányában emelkedő 45° alatt vont sík fölé emelkednek, ezen építményrészeknek az illető homlokzat felületi síkjára ugyancsak 45° alatt vont – az előzővel párhuzamos – síkkal történő vetítéssel meghatározott magasságával,
+
+c) a négy oldalról körülhatárolt légakna, légudvar, belső udvar homlokzatfelületeit, valamint a loggiák belső oldalfelületeit és azok vízszintesen mért hosszait figyelmen kívül kell hagyni,
+
+d) az egy telken álló több épület magasságát külön-külön kell figyelembe venni.
+
+Az épület egy homlokzatának magasságát a hozzá tartozó F/L érték alapján kell megállapítani.
 
 34. Építményszint: az építmény mindazon használati szintje, amelyen helyiség van. Nem építményszint a padlás, valamint az a tetőszint, amelyen a felvonógépházon vagy a lépcsőház felső szintjén kívül más helyiség nincs.
 
@@ -327,3 +339,4 @@ b) az épülethez tartozó előlépcső, tornác, előtető, valamint a terepcsa
 137. Villamos kezelőhelyiség: villamos berendezés (transzformátor-, főkapcsoló és akkumulátor) elhelyezésére szolgáló helyiség.
 
 [^302]: Az 1. számú melléklet a 211/2012. (VII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^303]: Az 1. számú melléklet 33. pontja a 275/2012. (IX. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.

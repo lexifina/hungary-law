@@ -1,4 +1,4 @@
-2. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^303]
+2. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^304]
 
 A TELEPÜLÉSRENDEZÉSI ESZKÖZÖK JELKULCSA
 
@@ -294,56 +294,4 @@ I. TELEPÜLÉSSZERKEZETI TERVLAP*
 
 | - hajóállomás (hajó-, kompkikötő) |  |  |
 
-0M30209M_6
-
-| - teherkikötő |  |  |
-
-| - jachtkikötő |  |  |
-
-| 5.4. LÉGI KÖZLEKEDÉS |  |  |
-
-| - repülőtér |  |  |
-
-| - helikopterállomás |  |  |
-
-| 6. KÖZMŰVEK, HÍRADÁS |  |  |
-
-| 6. 1. VÍZIKÖZMŰVEK |  |  |
-
-| - vízmű |  |  |
-
-| - víztározó (pl. víztorony, medence) |  |  |
-
-| - vízműkutak |  |  |
-
-| - felszíni vízkivételi mű |  |  |
-
-| - tűzivíz tározó |  |  |
-
-| - ivóvíz-gerincvezeték |  | ––– V ––– |
-
-| - iparivíz-gerincvezeték |  | ––– IV ––– |
-
-| 6. 2. SZENNYVÍZKÖZMŰVEK |  |  |
-
-| - szennyvíz főgyüjtő csatorna (gravitációs) |  |  |
-
-| - szennyvíz főgyüjtő csatorna (nyomó-, vákumos) |  |  |
-
-| - szennyvízátemelő |  |  |
-
-| - szennyvíztisztítómű |  |  |
-
-| - előkezelt szennyvíztisztítómű |  |  |
-
-| -szennyvíziszap lerakóhely ill. szippantott szennyvíz ürítőhelye |  |  |
-
-| - komposztáló telep |  |  |
-
-| 6.3. CSAPADÉKVÍZ KÖZMŰVEK |  |  |
-
-| - csapadékvíz tározó |  |  |
-
-| - csapadékvízelvezető főárok |  |  |
-
-[^303]: A 2. számú melléklet a 36/2002. (III. 7.) Korm. rendelet 17. §-ával megállapított, valamint a 219/2004. (VII. 21.) Korm. rendelet 44. §-a, a 182/2008. (VII. 14.) Korm. rendelet 51. § (2) bekezdése, 52. § (6) bekezdése és 52. § (7) bekezdésének w) pontja, a 306/2010. (XII. 23.) Korm. rendelet 45. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 38–42. §-át.
+[^304]: A 2. számú melléklet a 36/2002. (III. 7.) Korm. rendelet 17. §-ával megállapított, valamint a 219/2004. (VII. 21.) Korm. rendelet 44. §-a, a 182/2008. (VII. 14.) Korm. rendelet 51. § (2) bekezdése, 52. § (6) bekezdése és 52. § (7) bekezdésének w) pontja, a 306/2010. (XII. 23.) Korm. rendelet 45. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 38–42. §-át.
