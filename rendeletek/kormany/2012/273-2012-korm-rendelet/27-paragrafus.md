@@ -1,0 +1,1 @@
+## 26. § Az első továbbképzési időszak 2014. január 1-jével indul és 2017. december 31-ig tart. A továbbképzési időszakban előírt tanulmányi pontokat időarányosan teljesítik azok a kormánytisztviselők, köztisztviselők, akiknek a továbbképzési időszak alatt keletkezik továbbképzési kötelezettségűk.
