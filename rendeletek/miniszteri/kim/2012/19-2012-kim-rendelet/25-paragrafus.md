@@ -18,7 +18,7 @@ e) a miniszter személyéhez kötődő egyéb szakmai rendezvényekre és az ehh
 
 f) az Új Nemzedék Jövőjéért Programhoz, a Kormány ifjúságpolitikai keretprogramjához kapcsolódó rendezvények és kommunikációs feladatok támogatására,
 
-g) a Magyarország Alaptörvényével kapcsolatos költségek finanszírozására,
+g)[^7] Magyarország Alaptörvényének terjesztésével, valamint a tudatos nemzeti közgondolkodás megalapozása és ehhez kapcsolódva a magyar kulturális értékek megőrzése és fejlesztése ügyével összefüggő feladatokkal megbízott miniszterelnöki megbízott tevékenységével összefüggő költségek finanszírozására,
 
 h) a központi forrásokból nem finanszírozott fejezeti feladatokhoz szükséges kiadások teljesítésére,
 
@@ -29,3 +29,5 @@ j) a miniszter által adott kitüntetések, díjak és egyéb elismerések, vala
 (2) Az előirányzaton kerül elszámolásra a fejezeti tartalék közvetlen fejezeti kifizetéssel történő felhasználása is.
 
 (3) Az előirányzat felhasználása egyrészt közvetlen fejezeti kifizetéssel, a feladat ellátásával megbízott természetes vagy államháztartáson kívüli vagy belüli jogi személlyel kötött szerződés alapján, másrészt egyedi döntés alapján költségvetési támogatás nyújtásával gazdasági társaságok, önkormányzatok részére támogatási szerződéssel, továbbá a kitüntetésben, díjazásban, valamint ösztöndíjban részesülő kedvezményezett esetében a kifizetés érdekében történő előirányzat-átcsoportosítással valósul meg.
+
+[^7]: A 25. § (1) bekezdés g) pontja a 44/2012. (IX. 28.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.

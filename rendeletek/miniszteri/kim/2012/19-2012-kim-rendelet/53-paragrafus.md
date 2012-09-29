@@ -1,5 +1,5 @@
 ## 52. §
 
-## 40.[^19]
+## 40.[^21]
 
-[^19]: A 40. alcímet a 41/2012. (VIII. 31.) KIM rendelet 3. §-a hatályon kívül helyezte.
+[^21]: A 40. alcímet a 41/2012. (VIII. 31.) KIM rendelet 3. §-a hatályon kívül helyezte.

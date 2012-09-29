@@ -1,5 +1,5 @@
 ## 41. §
 
-## 29.[^8]
+## 29.[^10]
 
-[^8]: A 29. alcímet a 41/2012. (VIII. 31.) KIM rendelet 3. §-a hatályon kívül helyezte.
+[^10]: A 29. alcímet a 41/2012. (VIII. 31.) KIM rendelet 3. §-a hatályon kívül helyezte.

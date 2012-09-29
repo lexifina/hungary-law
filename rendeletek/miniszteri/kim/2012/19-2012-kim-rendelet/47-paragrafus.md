@@ -1,5 +1,5 @@
 ## 46. §
 
-## 34.[^13]
+## 34.[^15]
 
-[^13]: A 34. alcímet a 41/2012. (VIII. 31.) KIM rendelet 3. §-a hatályon kívül helyezte.
+[^15]: A 34. alcímet a 41/2012. (VIII. 31.) KIM rendelet 3. §-a hatályon kívül helyezte.
