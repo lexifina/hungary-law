@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-98-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-09-29 | 2012-98-20-2Y.1 | 98/2012. (IX. 21.) VM rendelet |
+| 2012-09-30 | 2012-98-20-2Y.2 | 2010: CXXX. törvény |
