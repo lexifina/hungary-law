@@ -22,9 +22,9 @@ d) a területnek a kérelemben megjelölt fajokra vonatkozó, talajvizsgálaton 
 
 (4) Az MgSzH a törzsültetvény létesítésének engedélyezéséről, vagy annak elutasításáról határozatot hoz.
 
-(5)[^18] A szaporítás célját szolgáló központi (prebázis) törzsültetvényekben a fajtafenntartó vagy megbízottja, az üzemi (bázis) törzsültetvényben az ültetvény fenntartója szükség esetén köteles negatív szelekciót végezni és az ültetvényt minősítésre, szemlére előkészíteni.
+(5)[^18]
 
 (6)[^19] A szaporítás célját szolgáló központi (prebázis) és bázis törzsültetvényekben a fajtafenntartó vagy megbízottja, az üzemi (certifikált) törzsültetvényben az ültetvény fenntartója szükség esetén köteles negatív szelekciót végezni és az ültetvényt minősítésre, szemlére előkészíteni.
 
-[^18]: A 18. § (5) bekezdése a 72/2010. (V. 13.) FVM rendelet 51. §-a alapján hatályát vesztette 2012. szeptember 30. napjával.
+[^18]: A 18. § (5) bekezdését a 72/2010. (V. 13.) FVM rendelet 51. § d) pontja hatályon kívül helyezte.
 [^19]: A 18. § (6) bekezdése a 72/2010. (V. 13.) FVM rendelet 49. § (2) bekezdése alapján 2012. szeptember 30. napjával lép hatályba.
