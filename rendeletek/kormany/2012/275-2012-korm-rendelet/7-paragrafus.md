@@ -1,3 +1,3 @@
-## 6. §[^2]
+## 6. §[^3]
 
-[^2]: A 6. § a 9. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^3]: A 6. § a 9. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
