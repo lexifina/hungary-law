@@ -1,4 +1,4 @@
-## Az állami elismerésre, illetve Szállítói Fajtajegyzékre vételre kötelezett növényfajok jegyzéke
+## Az állami elismerésre kötelelezett növényfajok jegyzéke
 
 ## I. Állami elismerésre kötelezett növényfajok
 
@@ -274,7 +274,7 @@
 
 | 1. Vifis L. | szőlő |
 
-## II. Szállítói Fajtajegyzékre vételre kötelezett növényfajok
+## D) Gyümölcs
 
 | Gyümölcs |  |
 

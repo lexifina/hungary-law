@@ -6,10 +6,10 @@ b) a termesztés, feldolgozás, illetve felhasználás során gazdasági jelent�
 
 (2) A DUS-vizsgálatok időtartama legalább két értékelhető termőév, illetve egy termelési ciklus. A bejelentett szántóföldi és zöldség fajtajelöltek megkülönböztethetőségének, egyöntetűségének (egyneműségének) és állandóságának vizsgálatát a bejelentést követő termesztési időszakban, szőlő és gyümölcs esetén a termőre fordulást követően kell megkezdeni.
 
-(3)[^33] A gazdasági értékvizsgálat időtartamát az 5. számú melléklet tartalmazza. A gazdasági értékvizsgálat a bejelentést követő termesztési időszakban kezdődik. Ha a gazdasági értékvizsgálat az 5. számú melléklet szerinti időtartamnál korábban lezárható, az MgSzH a fajta állami elismerésére előterjesztést készíthet.
+(3)[^34] A gazdasági értékvizsgálat időtartamát az 5. számú melléklet tartalmazza. A gazdasági értékvizsgálat a bejelentést követő termesztési időszakban kezdődik. Ha a gazdasági értékvizsgálat az 5. számú melléklet szerinti időtartamnál korábban lezárható, az MgSzH a fajta állami elismerésére előterjesztést készíthet.
 
 (4) Géntechnológiával módosított növényfajta kísérleti vizsgálata csak kibocsátási engedéllyel és a külön jogszabályokban foglaltak figyelembevételével kezdhető meg.
 
 (5) A fajta vizsgálata során a kísérletek a Fajtaminősítő Bizottság által meghatározott és közzétett módon megtekinthetők.
 
-[^33]: A 10. § (3) bekezdése a 42/2011. (V. 26.) VM rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^34]: A 10. § (3) bekezdése a 42/2011. (V. 26.) VM rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.

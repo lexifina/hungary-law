@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-40-20-8
 | 2011-01-14 | 2004-40-20-82.12 | 183/2009. (XII. 30.) FVM rendelet |
 | 2011-05-29 | 2004-40-20-82.13 | 42/2011. (V. 26.) VM rendelet |
 | 2012-01-21 | 2004-40-20-82.14 | 70/2006. (IX. 27.) FVM rendelet |
+| 2012-09-30 | 2004-40-20-82.15 | 68/2010. (V. 12.) FVM rendelet |
