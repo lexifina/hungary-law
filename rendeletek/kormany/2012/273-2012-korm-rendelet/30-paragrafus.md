@@ -1,1 +1,3 @@
-## 29. § A felszámolók névjegyzékéről szóló 114/2006. (V. 12.) Korm. rendelet 4. § (1) bekezdésében a „Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálatát” szövegrész helyébe a „Közigazgatási és Igazságügyi Hivatalt” szöveg lép.
+30. §[^11]
+
+[^11]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

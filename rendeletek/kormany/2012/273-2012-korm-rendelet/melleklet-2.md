@@ -1,5 +1,3 @@
-## Az R1. 1. számú melléklet 11. pontja helyébe a következő rendelkezés lép:
+2. melléklet a 273/2012. (IX. 28.) Korm. rendelethez[^19]
 
-## „11. A bizottság munkáját a vizsga rendjéért, szabályosságáért felelős elnök vezeti, s a szakvizsgaszervező által megbízott vizsgabiztos segíti. A háromtagú vizsgabizottságnak jelen kell lennie a vizsgák írásbeli vizsgarészén is, s a vizsgarészt követően helyben azonnal ki kell javítaniuk és minősíteniük az írásbeli dolgozatokat. Vizsgabiztos a szakvizsgaszervező által megbízott, legalább középfokú iskolai végzettségű személy lehet. Feladatai: 1. gondoskodik a vizsga lebonyolításához szükséges technikai feltételekről; 2. az írásbeli vizsgához szükséges feladatokat és segédleteket a jelöltek rendelkezésére bocsátja; 3. az írásbeli vizsgán felügyelőként segíti a bizottságot a rend fenntartásában, a visszaélések megakadályozásában; 4. gondoskodik a vizsgajegyzőkönyvek (2. függelék) és bizonyítványok (2. számú melléklet) kitöltéséről, ellenőrzi adataik pontosságát és valódiságát; 5. vezeti a vizsganyilvántartó könyvet (3. függelék). A vizsgabiztosok felkészítéséről az NKE gondoskodik.”
-
-2. melléklet a 273/2012. (IX. 28.) Korm. rendelethez
+[^19]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
