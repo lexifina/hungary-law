@@ -1,5 +1,3 @@
-## 19. §[^13]
-
 ## 15. Záró és átmeneti rendelkezések
 
 20. § (1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – a kihirdetést követő napon lép hatályba.
@@ -22,7 +20,6 @@ b) az egyetemes szolgáltatásról, valamint az elektronikus hírközlő hálóz
 
 való megfelelést szolgálja.
 
-[^13]: A 19. § a 20. § (2) bekezdése alapján 2012. szeptember 30-án lép hatályba.
 [^14]: A 20. § (2) bekezdése a 7/2012. (I. 26.) NMHH rendelet 36. § (2) bekezdésével megállapított szöveg.
 [^15]: A 20. § (4a) bekezdését a 13/2012. (IX. 28.) NMHH rendelet 3. § (1) bekezdése iktatta be.
 [^16]: A 20. § (4b) bekezdését a 13/2012. (IX. 28.) NMHH rendelet 3. § (2) bekezdése iktatta be.
