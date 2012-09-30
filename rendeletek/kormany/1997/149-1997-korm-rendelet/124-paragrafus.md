@@ -6,15 +6,15 @@ b) a középfokú, felsőfokú tanulói, hallgatói jogviszonyról a képző int
 
 c) a szociális bentlakásos intézménybe történő elhelyezéséről szóló határozatot vagy a szociális bentlakásos intézmény értesítését a felvétel várható időpontjáról,
 
-d)[^609]
+d)[^559]
 
-e)[^610] a fiatal felnőtt nagykorúvá válásának időpontjában a rendelkezésére bocsátott készpénz vagyon összegéről szóló igazolást,
+e)[^560] a fiatal felnőtt nagykorúvá válásának időpontjában a rendelkezésére bocsátott készpénz vagyon összegéről szóló igazolást,
 
-f)[^611] a fiatal felnőtt és a közeli hozzátartozó nyilatkozatát arról, hogy lakhatása saját vagy közeli hozzátartozójának lakókörnyezetében nem megoldható,
+f)[^561] a fiatal felnőtt és a közeli hozzátartozó nyilatkozatát arról, hogy lakhatása saját vagy közeli hozzátartozójának lakókörnyezetében nem megoldható,
 
-g)[^612] a környezettanulmányt.
+g)[^562] a környezettanulmányt.
 
-[^609]: A 124. § d) pontját a 28/2005. (II. 15.) Korm. rendelet 7. §-a (2) bekezdésének f) pontja hatályon kívül helyezte.
-[^610]: A 124. § e) pontját a 14/2003. (II. 12.) Korm. rendelet 78. §-a iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^611]: A 124. § f) pontját a 14/2003. (II. 12.) Korm. rendelet 78. §-a iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^612]: A 124. § g) pontját a 14/2003. (II. 12.) Korm. rendelet 78. §-a iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^559]: A 124. § d) pontját a 28/2005. (II. 15.) Korm. rendelet 7. §-a (2) bekezdésének f) pontja hatályon kívül helyezte.
+[^560]: A 124. § e) pontját a 14/2003. (II. 12.) Korm. rendelet 78. §-a iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^561]: A 124. § f) pontját a 14/2003. (II. 12.) Korm. rendelet 78. §-a iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^562]: A 124. § g) pontját a 14/2003. (II. 12.) Korm. rendelet 78. §-a iktatta a szövegbe. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.

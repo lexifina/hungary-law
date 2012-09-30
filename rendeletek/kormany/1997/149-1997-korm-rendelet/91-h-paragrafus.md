@@ -1,12 +1,17 @@
-91/H. §[^431] (1) Az iskoláztatási támogatás természetbeni formában történő nyújtására, akár az iskoláztatási támogatás felfüggesztésével egyidejűleg, akár azt követően kerül rá sor, a 91/B. § (7) bekezdését kell alkalmazni.
+91/H. §[^431] (1) A jegyző az iskoláztatási támogatás szüneteltetése szükségességének felülvizsgálata során tájékoztatást kér a nevelési-oktatási intézmény igazgatójától arról, hogy
 
-(2) Az iskoláztatási támogatás természetbeni formájának meghatározásánál figyelemmel kell lenni a család jövedelmi és vagyoni helyzetére, a gyermek tényleges szükségleteire, a szülő vagy más törvényes képviselő, a korlátozottan cselekvőképes gyermek, a gyermekjóléti szolgálat és a közoktatási intézmény véleményére, továbbá a családnak járó szociális és gyermekvédelmi ellátásokra, támogatásokra, valamint azok céljára. A felfüggesztett iskoláztatási támogatás nem fordítható a család számára egyéb jogcímen nyújtható szociális és gyermekvédelmi ellátások, támogatások kiváltására.
+a) a felülvizsgálattal érintett időszakban a gyermek (fiatal felnőtt) hány kötelező tanórai foglalkozást mulasztott igazolatlanul és
 
-(3) Az iskoláztatási támogatás természetbeni formában történő nyújtását a jegyző által kirendelt eseti gondnok biztosítja.
+b) a nevelési-oktatási intézmény milyen intézkedésekkel segítette elő a védelembe vett gyermek iskolalátogatási kötelezettségének teljesítését.
 
-(4) Az eseti gondnok személyére és díjazására a 91/A. § (6) és (7) bekezdésében foglaltakat kell alkalmazni, azzal, hogy az óvodai gyermek- és ifjúságvédelmi felelős eseti gondnoknak nem rendelhető ki.
+(2) Az első felülvizsgálattal érintett időszak kezdő napja
 
-(5)[^432] Az eseti gondnok elszámolására és felmentésére a 91/D. § (8)–(10) bekezdését kell alkalmazni.
+a) a szüneteltetést elrendelő döntés jogerőre emelkedését követő hónap első napja vagy
 
-[^431]: A 91/H. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be. [A 91/H. §-nak a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével 2012. szeptember 1. napjával elrendelt módosítása – mivel a módosító rendelet 2012. szeptember 2-án lépett hatályba – nem vezethető át.]
-[^432]: A 91/H. § (5) bekezdése a 21/2012. (II. 29.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+b) a tárgyév szeptember 1-je, ha a szüneteltetést elrendelő döntés jogerőre emelkedésének hónapja a tárgyév májusa, júniusa vagy júliusa.
+
+(3) A Gyvt. 68/A. § (2) bekezdése b) pontjának alkalmazásában az utolsó felülvizsgálattól számított egy hónapot az utolsó felülvizsgálattal érintett időszak utolsó napját követő naptól kell számítani.
+
+(4) A jegyző a felülvizsgálati eljárás során hozott határozatáról – védelembe vett gyermek esetén – tájékoztatja a kirendelt családgondozót.
+
+[^431]: A 91/H. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

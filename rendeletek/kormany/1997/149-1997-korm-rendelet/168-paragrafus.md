@@ -2,6 +2,6 @@
 
 (2) A magyar állampolgárságú gyermek vagy cselekvőképtelen személy érdekeinek védelmében, – különösen, ha gyám- vagy gondnokrendelés szükséges – a konzuli tisztviselői a fogadó állam jogszabályai által megszabott keretek között a kétoldalú nemzetközi szerződés és a nemzetközi jog egyéb normáinak figyelembevételével jár el.
 
-(3)[^758] Ha a magyar állampolgárságú gyermek vagy cselekvőképtelen személy részére gyám vagy gondnok kirendelésének szükségessége felmerül, a konzuli tisztviselő – az erről való tudomásszerzést követően – soron kívül értesíti a Külügyminisztérium útján a Minisztériumot. Ugyanígy kell eljárni abban az esetben is, ha a gyám vagy a gondnok, illetve más törvényes képviselő kirendelése már megtörtént.
+(3)[^708] Ha a magyar állampolgárságú gyermek vagy cselekvőképtelen személy részére gyám vagy gondnok kirendelésének szükségessége felmerül, a konzuli tisztviselő – az erről való tudomásszerzést követően – soron kívül értesíti a Külügyminisztérium útján a Minisztériumot. Ugyanígy kell eljárni abban az esetben is, ha a gyám vagy a gondnok, illetve más törvényes képviselő kirendelése már megtörtént.
 
-[^758]: A 168. § (3) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 78. § (6) bekezdésének 23. pontja szerint módosított szöveg.
+[^708]: A 168. § (3) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 78. § (6) bekezdésének 23. pontja szerint módosított szöveg.
