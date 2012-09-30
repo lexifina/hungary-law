@@ -1,3 +1,3 @@
-## 12. §[^22]
+## 12. §[^16]
 
-[^22]: A 12. § a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^16]: A 12. § a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
