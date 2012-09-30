@@ -48,7 +48,7 @@ v)[^411] a környezetvédelmi és vízügyi igazgatóságokat,
 
 w) a nemzeti park igazgatóságokat,
 
-x)[^412] az Agrármarketing Centrumot.
+x)[^412]
 
 (2)[^413] A miniszter felügyeli
 
@@ -67,6 +67,6 @@ c) a külügyminiszterrel egyetértésben a külképviseleti hálózatban dolgoz
 [^409]: A 113. § (1) bekezdés t) pontja a 300/2011. (XII. 22.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
 [^410]: A 113. § (1) bekezdés u) pontját a 219/2010. (VII. 27.) Korm. rendelet 13. § (7) bekezdése hatályon kívül helyezte, újonnan a 267/2010. (XII. 3.) Korm. rendelet 35. § (1) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 47. §-át.
 [^411]: A 113. § (1) bekezdés v) pontját a 300/2011. (XII. 22.) Korm. rendelet 30. § b) pontja hatályon kívül helyezte.
-[^412]: A 113. § (1) bekezdés x) pontját a 267/2010. (XII. 3.) Korm. rendelet 35. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^412]: A 113. § (1) bekezdés x) pontját a 267/2010. (XII. 3.) Korm. rendelet 35. § (2) bekezdése iktatta be, hatályon kívül helyezte a 103/2012. (V. 25.) Korm. rendelet 8. §-a.
 [^413]: A 113. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (69) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^414]: A 113. § (2) bekezdés a) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (45) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
