@@ -10,8 +10,9 @@ d) arra a természetes személyre, jogi személyre és jogi személyiség nélk�
 
 da) a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.2. konstrukció keretében megvalósításra kerülő kiemelt projektben (a továbbiakban: 1.1.2. Program), továbbá
 
-db) a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.1. konstrukció keretében megvalósításra kerülő kiemelt projektben (a továbbiakban: 1.1.1. Program)
+db)[^4] a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.1./08/1 konstrukció keretében megvalósításra kerülő kiemelt projektben (a továbbiakban: 1.1.1. /08/1 Program)
 
 [^1]: Az 1. § a) pontja a 351/2010. (XII. 30.) Korm. rendelet 244. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § b) pontja a 324/2011. (XII. 28.) Korm. rendelet 16. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^3]: Az 1. § c) pontja a 351/2010. (XII. 30.) Korm. rendelet 244. § c) pontja szerint módosított szöveg.
+[^4]: Az 1. § d) pont db) alpontja a 272/2012. (IX. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
