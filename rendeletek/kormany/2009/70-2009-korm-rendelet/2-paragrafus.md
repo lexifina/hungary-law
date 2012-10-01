@@ -2,11 +2,11 @@
 
 2. § (1) A munkaügyi központ támogatást nyújt a munkaadó kérelmére, ha a munkaadó a pályakezdő álláskereső munkaviszony keretében történő foglalkoztatását napi legalább négyórás munkaidőben, és – (6) bekezdésben foglaltak figyelembevételével – legalább 365 napi időtartamra, az 1. § b) pontja szerinti munkahelyen vállalja.
 
-(2) Az (1) bekezdésben meghatározott támogatás olyan pályakezdő álláskereső munkatapasztalat-szerzéséhez nyújtható, aki az álláskeresőként történő nyilvántartásba vételétől számított legalább 90 napig a munkaügyi központtal együttműködött.
+(2)[^5]
 
 (3) A támogatást a foglalkoztatás időtartamára, legfeljebb azonban 365 napra a pályakezdő foglalkoztatásával kapcsolatban felmerülő bérköltség 50 és 100%-a közötti mértékben lehet megállapítani. A támogatás összege – a bérköltség 100 százalékának megfelelő támogatása esetén – havonta nem haladhatja meg
 
-a)[^5] az alapszintű szakképesítéssel rendelkező pályakezdő esetében, a kötelező legkisebb munkabér és a szociális hozzájárulási adó összegét,
+a)[^6] az alapszintű szakképesítéssel rendelkező pályakezdő esetében, a kötelező legkisebb munkabér és a szociális hozzájárulási adó összegét,
 
 b) a középszintű vagy középfokú szakképesítéssel, illetve szakképesítést nyújtó középfokú iskolai végzettséggel rendelkező pályakezdő esetében, a kötelező legkisebb munkabér másfélszeresét,
 
@@ -18,4 +18,5 @@ c) az emelt szintű vagy felsőfokú szakképesítéssel, illetve felsőfokú is
 
 (6) Ha a pályakezdő támogatott munkaviszonya 365 napnál rövidebb idő után megszűnik, újbóli foglalkoztatása esetén a 365 napból fennmaradó időtartamra nyújtható támogatás.
 
-[^5]: A 2. § (3) bekezdés a) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdését a 272/2012. (IX. 28.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
+[^6]: A 2. § (3) bekezdés a) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés d) pontja szerint módosított szöveg.
