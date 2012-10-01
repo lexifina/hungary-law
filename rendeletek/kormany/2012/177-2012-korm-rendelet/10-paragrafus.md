@@ -12,13 +12,13 @@ c) biztosítja a vonatkozó jogszabályban meghatározott pályázati és kivál
 
 d) fejleszti és működteti a közigazgatási szervek munkaerő-utánpótlási igényei alapján a gyakornoki és utánpótlásprogramokat,
 
-e) módszertanilag kialakítja és fenntartja az új közigazgatási életpályát támogató továbbképzési rendszert és ellátja a minőségirányítási feladatokat,
+e)[^1]
 
-f) módszertanilag kialakítja az új közigazgatási vizsgarendszert, és ellátja a minőségirányítási feladatokat,
+f)[^2]
 
-g) módszertanilag kialakítja a vezetői képességek fejlesztését és ellátja a minőségirányítási feladatokat,
+g)[^3]
 
-h)[^1] a Nemzeti Közszolgálati Egyetem közreműködésével működteti a kompetencia és munkaköralapú közszolgálati továbbképzés tervezési, beiskolázási és módszertani feladatait,
+h)[^4] a Nemzeti Közszolgálati Egyetem közreműködésével működteti a kompetencia és munkaköralapú közszolgálati továbbképzés tervezési, beiskolázási és módszertani feladatait,
 
 i) javaslatot tesz a munkakör alapú rendszerre (MAR) és támogatja annak működtetését,
 
@@ -26,4 +26,7 @@ j) javaslatot tesz az objektív teljesítménymenedzsment és teljesítményért
 
 k) javaslatot tesz a közszolgálati életpályát támogató belső karrier- és tehetségmenedzsmentre, és módszertani támogatást nyújt a közigazgatási szervek számára.
 
-[^1]: A 10. § h) pontja a 273/2012. (IX. 28.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^1]: A 10. § e) pontját a 273/2012. (IX. 28.) Korm. rendelet 32. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 32. § (3) bekezdését.
+[^2]: A 10. § f) pontját a 273/2012. (IX. 28.) Korm. rendelet 32. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 32. § (3) bekezdését.
+[^3]: A 10. § g) pontját a 273/2012. (IX. 28.) Korm. rendelet 32. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 32. § (3) bekezdését.
+[^4]: A 10. § h) pontja a 273/2012. (IX. 28.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
