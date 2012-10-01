@@ -1,0 +1,3 @@
+6. § A Fétám. 7. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A szülő vagy a szülő egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek bármikor jogosult a Start-számlán nyilvántartott követelésre vonatkozóan a számlavezető által felajánlott megtakarítási, befektetési lehetőségek között a Start-számla állományát vagy annak egyes elemeit átcsoportosítani, vagy magát a befektetés, megtakarítás teljes állományát a kiutalónál nyitott Start-számlára áthelyezni. Az áthelyezést megelőzően a befektetési jegyet értékesíteni kell, bankbetét esetén a lekötést meg kell szüntetni, és a Start-számla követelést pénzeszköz és állampapír formájában kell a kiutalónál nyitott Start-számlára áthelyezni.”
