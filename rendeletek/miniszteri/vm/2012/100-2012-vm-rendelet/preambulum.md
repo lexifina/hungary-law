@@ -1,0 +1,9 @@
+A természet védelméről szóló 1996. évi LIII. törvény 85. § (2) bekezdés 5., 7., 16. és 29. pontjában kapott felhatalmazás alapján,
+
+az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § l) pontjában meghatározott feladatkörömben eljárva,
+
+a 8. § tekintetében az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (2) bekezdés 8. pontjában kapott felhatalmazás alapján,
+
+az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § c) pontjában meghatározott feladatkörömben eljárva
+
+a következőket rendelem el:
