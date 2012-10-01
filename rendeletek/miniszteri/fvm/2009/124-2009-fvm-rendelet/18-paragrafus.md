@@ -48,6 +48,6 @@ n) a földön fekvő holtfát darabolni nem lehet.
 
 (4) A célprogram időtartama 7 év.
 
-(5)[^20] A támogatás éves mértéke hektáronként 224 eurónak megfelelő forintösszeg.
+(5)[^34] A támogatás éves mértéke hektáronként 224 eurónak megfelelő forintösszeg.
 
-[^20]: A 18. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 20. §-ával megállapított szöveg.
+[^34]: A 18. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 20. §-ával megállapított szöveg.

@@ -4,7 +4,7 @@
 
 a) az erdőfelújítás és a pótlás során az erdészeti szaporítóanyagokról szóló 110/2003. (X. 21.) FVM rendelet szerinti, az adott erdőterületet is magába foglaló származási körzetekből származó szaporítóanyagot alkalmazni,
 
-b) a vágástéri hulladék kivételével a támogatási időszak alatt folyamatosan gondoskodni a támogatott területen található hulladék eltávolításáról,
+b)[^6] a termelési apadék kivételével a támogatási időszak alatt folyamatosan gondoskodni a támogatott területen található hulladék eltávolításáról,
 
 c) a támogatott területet a terepen jól láthatóan, állandósított jelekkel lehatárolni, és a jelölést a támogatási időszak alatt fenntartani,
 
@@ -36,7 +36,7 @@ feltüntetésével, az Irányító Hatóság által meghatározott formátumon r
 
 g) a támogatott teljes területen az egyes célprogramokhoz kapcsolódó támogatás igénybevételének részletes szabályai szerinti előírásokat a támogatási időszak teljes időtartama alatt betartani,
 
-h)[^4] a vegyszeres védekezés végrehajtása esetén az erdészeti hatóságnak a támogatott terület elhelyezkedése szerint illetékes szervét a tervezett védekezés megkezdése előtt legalább 15 nappal írásban értesíteni a beavatkozás tervezett helyének és időpontjának megjelölésével.
+h)[^7] a vegyszeres védekezés végrehajtása esetén az erdészeti hatóságnak a támogatott terület elhelyezkedése szerint illetékes szervét a tervezett védekezés megkezdése előtt legalább 15 nappal írásban értesíteni a beavatkozás tervezett helyének és időpontjának megjelölésével.
 
 (2) A célprogramok végrehajtása során vegyszer használata csak az alábbi esetekben és feltételekkel engedélyezett:
 
@@ -56,4 +56,5 @@ a) a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők rész�
 
 b) az egységes területalapú támogatások és egyes vidékfejlesztési támogatások igényléséhez teljesítendő „Helyes Mezőgazdasági és Környezeti Állapot” fenntartásához szükséges feltételrendszer, valamint az állatok állategységre való átváltási arányának meghatározásáról szóló 50/2008. (IV. 24.) FVM rendelet 1. számú mellékletében meghatározott előírásokat.
 
-[^4]: A 6. § (1) bekezdés h) pontja a 21/2010. (III. 16.) FVM rendelet 15. §-a szerint módosított szöveg.
+[^6]: A 6. § (1) bekezdés b) pontja a 104/2012. (X. 1.) VM rendelet 3. §-ával megállapított szöveg.
+[^7]: A 6. § (1) bekezdés h) pontja a 21/2010. (III. 16.) FVM rendelet 15. §-a szerint módosított szöveg.

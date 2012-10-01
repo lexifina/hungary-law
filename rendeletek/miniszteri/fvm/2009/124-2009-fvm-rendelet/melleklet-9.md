@@ -1,5 +1,3 @@
-## AZ EGYES FAÁLLOMÁNYTÍPUS-CSOPORTOK ELVÁRT JELLEMZŐI AZ ERDŐ-KÖRNYEZETVÉDELMI CÉLPROGRAMOK ÉRTÉKELÉSE SZEMPONTJÁBÓL
-
 | Faállománytípus- csoport | Főfafaj | Mesterséges erdősítés | Természetes felújítás |
 
 | Első kiviteli minimális tőszám hektáronként főfafajból | Főfafaj/ célállományba tartozó összes fafaj minimális tőszáma a célprogram befejezésekor* | Főfafaj/ célállományba tartozó összes fafaj egymáshoz mért maximális távolsága a célprogram** befejezésekor | Főfafaj minimális tőszáma a célprogram befejezésekor* | Átlagos záródás/borítás% a célprogram befejezésekor |
@@ -48,9 +46,9 @@
 
 ## – Az V–VI. fatermési osztályba sorolt erdőrészletekben végzett erdősítések sikeresnek minősülnek a program befejezésének évében, ha azok a táblázatban megadott tőszám és borítottsági elvárásoknak átlagosan 50%-ban (erdőssztyepp erdőkben 30%-ban) megfelelnek. Az ilyen kedvezőtlen termőhelyi viszonyú erdősítésekben ugyancsak elfogadható még, ha abban legfeljebb 0,5 ha-os, egymással nem érintkező üres foltok találhatóak, amelyek összes területe azonban nem haladja meg az erdőrészlet területének 20%-át.
 
-9. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^37]
+9. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^55]
 
-## Az egyes előírásoknak való meg nem felelés esetén, a meg nem felelés súlyosságának, mértékének, valamint folytonosságának alapján meghatározott jogkövetkezmények
+Az egyes előírásoknak való meg nem felelés esetén, a meg nem felelés súlyosságának, mértékének, valamint folytonosságának alapján meghatározott jogkövetkezmények
 
 1. táblázat
 
@@ -136,7 +134,7 @@
 
 | 40. | 16. § (3) bekezdés j) pont | Fakitermelés tervezése esetén a kitermelésre szánt egyedeket azok törzsén jól láthatóan meg kell jelölni, a jelölés időpontját a munkanaplóban rögzíteni kell. | A munkanaplóba történő bejegyzés nem, illetve nem teljeskörűen történt meg. | közepes | erdőrészlet | rövidtávú | E-10% |
 
-| 41. | 16. § (3) bekezdés k) pont | A támogatási időszak ötödik évében, valamint az utolsó kifizetési kérelem benyújtására nyitva álló időszak végén a támogatási időszak alatt nyitott vagy bővített lékekben az e rendelet 1. melléklete szerinti, az állománytípusra jellemző fafajokból álló újulat nélküli összes terület nagysága nem haladhatja meg a lékek összterületének 10%-át | Az erdőrészlet területén található, a program ideje alatt nyitott valamely lékben az újulat nélküli terület meghaladja a 10%-ot, de nem éri el a 15%-ot. | enyhe | erdőrészlet szintű | rövidtávú | E-10% |
+| 41. | 16. § (3) bekezdés k) pont | A támogatási időszak ötödik évében, valamint az utolsó kifizetési kérelem benyújtására nyitva álló időszak végén a támogatási időszak alatt nyitott vagy bővített lékekben – az (1) bekezdés c) pont szerint jogosult erdőrészletek esetében is – az 1. melléklet szerinti faállománytípusra jellemző fafajokból álló újulat nélküli összes terület nagysága nem haladhatja meg a lékek összterületének 10%-át. | Az erdőrészlet területén található, a program ideje alatt nyitott valamely lékben az újulat nélküli terület meghaladja a 10%-ot, de nem éri el a 15%-ot. | enyhe | erdőrészlet szintű | rövidtávú | E-10% |
 
 | 42. |  | Az erdőrészlet területén található, a program ideje alatt nyitott valamely lékben az újulat nélküli terület 15 és 20% közé esik. | közepes | erdőrészlet szintű | rövidtávú | E-30% |
 
@@ -161,6 +159,18 @@
 | 52. | A program ideje alatt nyitott lékek 30%-át meghaladó területen a csúcshajtás lerágásával okozott ismétlődő vadkárosítás nagyobb, mint 30%. | súlyos | erdőrészlet szintű | maradandó | E-Kizár |
 
 | 53. | 16. § (3) bekezdés p) pont | Az e rendelet 4. melléklete szerinti tartalommal, az aktuális természetbeni állapot alapján elkészített és az erdészeti hatóság által véleményezett törzslapokat az első és az utolsó kifizetési kérelem benyújtásáig el kell végezni. | Az ügyfél az ellenőrzés során a törzslapokat nem tudja bemutatni | közepes | erdőrészlet szintű | rövidtávú | E-30% |
+
+| 53/A | 16. § (3) bekezdés q) pont | Az első kifizetési kérelem benyújtását követően 5 m3/ha mennyiségű, az egyes törzsek legvastagabb részén 20 cm átmérőt meghaladó méretű, lábon álló vagy fekvő holtfa jelenlétét kell biztosítani úgy, hogy a földön fekvő holtfát darabolni nem lehet. | A 2011. évben benyújtott támogatási kérelmek alapján hozott támogatási határozathoz kapcsolódóan benyújtott első kifizetési kérelem benyújtását követően a holtfa mennyisége nem éri el az előírt minimális mértéket. | enyhe | erdőrészlet szintű | hosszú távú | A kötele- zettség- szegés megszün- tetéséig a támoga- tási összeg hektáron- kénti éves mértéke legfeljebb 164 eurónak megfelelő forint- összeg lehet. |
+
+| A 2012. évtől benyújtott támogatási kérelmek alapján hozott támogatási határozathoz kapcsolódóan benyújtott első kifizetési kérelem benyújtását követően a holtfa mennyisége nem éri el az előírt minimális mértéket. | közepes | erdőrészlet szintű | rövid távú | E-30% |
+
+| Ha a program időszakában az adott erdőrészlet vonatkozásában a fenti szankció ismételt kiszabására lenne szükséges, akkor az itt meghatározott szigorúbb szankciót kell alkalmazni. | súlyos | erdőrészlet szintű | hosszú távú | E-100% |
+
+| A visszahagyott holtfák törzsei azok legvastagabb részén nem haladják meg a 20 cm-t. | súlyos | erdőrészlet szintű | maradandó | E-100% |
+
+| Holtfa darabolás történt | közepes | erdőrészlet szintű | hosszútávú | E-30% |
+
+| 53/B | 16. § (3) bekezdés r) pont | Ha a holtfa biztosítása fakitermeléssel történik, a kitermelt fák tőrészei nem lehetnek 10 méternél közelebb egymáshoz. | A holtfa biztosítása céljából kitermelt valamely egyed tőrésze a megadott határértéknél kisebb távolságra van egy másik tőrésztől. | közepes | Erdőrészlet szintű | maradandó | E-30% |
 
 | 54. | Erdőállományok kézimunka-igényes ápolása |
 
@@ -388,4 +398,4 @@
 
 | 11. | C-Kizár: | Az adott célprogramban a teljes terület támogatási jogosultsága megszűnik. Az adott évben jogosulatlanul felvett támogatást a jogosulatlanul igénybevett támogatásokra vonatkozó szabályok szerint vissza kell fizetni. |
 
-[^37]: A 9. melléklet a 44/2012. (V. 3.) VM rendelet 29. §-ával megállapított szöveg.
+[^55]: A 9. melléklet a 44/2012. (V. 3.) VM rendelet 29. §-ával megállapított, a 104/2012. (X. 1.) VM rendelet 10. § (3) bekezdése szerint módosított szöveg.

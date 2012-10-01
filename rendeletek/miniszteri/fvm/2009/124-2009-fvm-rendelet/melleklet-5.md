@@ -114,13 +114,15 @@
 
 5. melléklet a 124/2009. (IX. 24.) FVM rendelethez
 
-## * ÁLLAPOTFELVÉTEL         SZÁLALÁSI TERV         VÉGREHAJTÁS
+* ÁLLAPOTFELVÉTEL         SZÁLALÁSI TERV         VÉGREHAJTÁS
 
 ............. év
 
 (megfelelő aláhúzandó)
 
 Helység, ..................................... tag: .................................... részlet: ...................................., terület: ......... ha
+
+## 9M37172_0
 
 | Vastagsági csoportok | Átlag mag. | Fatömeg összesen | A szálalásra tervezett fafajok |
 
@@ -138,27 +140,27 @@ Helység, ..................................... tag: .....................
 
 | Összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Szöveges indoklás:
+## Szöveges indoklás:
 
-Dátum:
+## Dátum:
 
 | ..................................................... | ................................................................. |
 
 | gazdálkodó | erdészeti hatóság |
 
-Szálaló erdőrészletek műszaki átvételi jegyzőkönyve
+## Szálaló erdőrészletek műszaki átvételi jegyzőkönyve
 
-Év: .........
+## Év: .........
 
-Igazgatóság .................................................
+## Igazgatóság .................................................
 
-Erdőfelügyelő: .................................................
+## Erdőfelügyelő: .................................................
 
-Erdőgazdálkodó kódja, neve, címe:
+## Erdőgazdálkodó kódja, neve, címe:
 
-Helység, ..................................... tag: .................................... részlet: ...................................., terület: ......... ha
+## Helység, ..................................... tag: .................................... részlet: ...................................., terület: ......... ha
 
-Els. rend: ....................................  Eng. faáll. típ.: ..................................................................
+## Els. rend: ....................................  Eng. faáll. típ.: ..................................................................
 
 1. A termőhelynek megfelelő állománytípusra jellemző újulat megtelepedésének üteme:
 
@@ -180,7 +182,7 @@ Szükséges beavatkozás: ........ (mesterséges erdősítés, intenzív áp
 
 | Minősége: | ⬜ Megfelelő | ⬜ Nem megfelelő | ⬜ Beavatkozást igényel |
 
-Szükséges beavatkozás: .......... (a fakitermelés szüneteltetése, elegyarány-szabályozás, egészségügyi termelés stb.)
+## Szükséges beavatkozás: .......... (a fakitermelés szüneteltetése, elegyarány-szabályozás, egészségügyi termelés stb.)
 
 4. A legutóbbi fakitermelés mértéke meghaladta a 10 évi folyónövedék mértékét?
 

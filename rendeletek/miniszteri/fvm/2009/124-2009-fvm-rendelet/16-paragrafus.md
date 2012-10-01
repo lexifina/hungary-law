@@ -6,7 +6,9 @@
 
 a) az erdőrészlet az Adattárban átalakító vagy szálaló üzemmódban szerepel,
 
-b) átalakító üzemmódban az erdőrészletre tisztítás, törzskiválasztó gyérítés, növedékfokozó gyérítés, készletgondozó használat vagy szálalóvágás előírás szerepel.
+b) átalakító üzemmódban az erdőrészletre tisztítás, törzskiválasztó gyérítés, növedékfokozó gyérítés, készletgondozó használat vagy szálalóvágás előírás szerepel,
+
+c)[^21] az erdőrészlet faállománya a 2. mellékletben felsoroltak, valamint az erdőtörvény végrehajtásáról szóló 153/2009. (XI. 13.) FVM rendelet 5. melléklet szerint 21., 24., 30.–31.,38.–39., 43., 55., kódszámú faállomány típusokba tartozik.
 
 (2) A legkisebb támogatható terület 2 ha, támogatás csak teljes erdőrészletre adható.
 
@@ -14,9 +16,9 @@ b) átalakító üzemmódban az erdőrészletre tisztítás, törzskiválasztó 
 
 a) az erdészeti hatóság által engedélyezett fahasználatot – annak során hektáronként legalább 1 lék nyitását vagy meglévő lék bővítését – az első kifizetési kérelem benyújtásáig el kell végezni,
 
-b)[^16] az átalakító üzemmódban a nevelővágások, így a tisztítás és a törzskiválasztó gyérítés során a támogatási időszak alatt az erdőrészlet területének legfeljebb 5%-án nyitható vagy bővíthető lék, ahol az egyes lékek mérete nem haladhatja meg a 250 m2-t,
+b)[^22] az átalakító üzemmódban a nevelővágások, így a tisztítás és a törzskiválasztó gyérítés során a támogatási időszak alatt az erdőrészlet területének legfeljebb 5%-án nyitható vagy bővíthető lék, ahol az egyes lékek mérete nem haladhatja meg a 250 m2-t,
 
-c)[^17] az átalakító üzemmódban a támogatási időszak alatt növedékfokozó gyérítés és a készletgondozó használat során az erdőrészlet területének legfeljebb 10%-án, szálalóvágás során legfeljebb 20%-án nyitható vagy bővíthető lék, ahol az egyes lékek mérete nem haladhatja meg az 500 m2-t,
+c)[^23] az átalakító üzemmódban a támogatási időszak alatt növedékfokozó gyérítés és a készletgondozó használat során az erdőrészlet területének legfeljebb 10%-án, szálalóvágás során legfeljebb 20%-án nyitható vagy bővíthető lék, ahol az egyes lékek mérete nem haladhatja meg az 500 m2-t,
 
 d) az átalakító üzemmódú erdőrészletben a támogatási időszak alatt legfeljebb kétszer lehet csoportos szerkezet kialakulását elősegítő módon nevelővágást végezni,
 
@@ -32,7 +34,7 @@ i) a támogatási időszakot megelőzően, illetve a támogatási időszak alatt
 
 j) fakitermelés tervezése esetén a kitermelésre szánt egyedeket azok törzsén jól láthatóan meg kell jelölni, a jelölés időpontját a munkanaplóban rögzíteni kell,
 
-k) a támogatási időszak ötödik évében, valamint az utolsó kifizetési kérelem benyújtására nyitva álló időszak végén a támogatási időszak alatt nyitott vagy bővített lékekben az 1. melléklet szerinti, az állománytípusra jellemző fafajokból álló újulat nélküli összes terület nagysága nem haladhatja meg a lékek összterületének 10%-át,
+k)[^24] a támogatási időszak ötödik évében, valamint az utolsó kifizetési kérelem benyújtására nyitva álló időszak végén a támogatási időszak alatt nyitott vagy bővített lékekben – az (1) bekezdés c) pont szerint jogosult erdőrészletek esetében is – az 1. melléklet szerinti faállománytípusra jellemző fafajokból álló újulat nélküli összes terület nagysága nem haladhatja meg a lékek összterületének 10%-át,
 
 l) a lékben található újulati szint elegyességének az utolsó kifizetési kérelem benyújtására nyitva álló időszak végén a 2. mellékletben meghatározott mellékfafajok tekintetében az ott megjelölt mértéket el kell érni,
 
@@ -42,12 +44,23 @@ n) a lékben található újulat szabad fejlődését kézi ápolással a 6. mel
 
 o) a támogatási időszak alatt a lékekben lévő újulati szintben, a lékek együttes területének 30%-át meghaladó területen a célállománytípus 2. melléklet szerinti fafajain a csúcshajtás lerágásával okozott vadkárosítás nem haladhatja meg az összes vadkárosítás 30%-át,
 
-p) a 4. melléklet szerinti tartalommal, az aktuális természetbeni állapot alapján az erdészeti hatóság által véleményezett törzslapokat az első és az utolsó kifizetési kérelem benyújtásáig el kell készíteni.
+p) a 4. melléklet szerinti tartalommal, az aktuális természetbeni állapot alapján az erdészeti hatóság által véleményezett törzslapokat az első és az utolsó kifizetési kérelem benyújtásáig el kell készíteni,
+
+q)[^25] az első kifizetési kérelem benyújtását követően 5 m3/ha mennyiségű, az egyes törzsek legvastagabb részén 20 cm átmérőt meghaladó méretű, lábon álló vagy fekvő holtfa jelenlétét kell biztosítani úgy, hogy a földön fekvő holtfát darabolni nem lehet;
+
+r)[^26] ha a holtfa biztosítása fakitermeléssel történik, a kitermelt fák tőrészei nem lehetnek 10 méternél közelebb egymáshoz.
 
 (4) A célprogram időtartama 10 év.
 
-(5)[^18] A támogatás éves mértéke hektáronként 230 eurónak megfelelő forintösszeg.
+(5)[^27] A támogatás éves mértéke hektáronként 230 eurónak megfelelő forintösszeg.
 
-[^16]: A 16. § (3) bekezdés b) pontja a 44/2012. (V. 3.) VM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^17]: A 16. § (3) bekezdés c) pontja a 44/2012. (V. 3.) VM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^18]: A 16. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 18. § (2) bekezdésével megállapított szöveg.
+(6)[^28] Ha a kérelmező az adott erdőrészlet vonatkozásában a 3. § e) pontjának ea) alpontja szerinti célprogramra is rendelkezik jóváhagyó, illetve részben jóváhagyó támogatási határozattal, összesen 10 m3/ha mennyiségű holtfa jelenlétét kell biztosítania.
+
+[^21]: A 16. § (1) bekezdés c) pontját a 104/2012. (X. 1.) VM rendelet 6. § (1) bekezdése iktatta be.
+[^22]: A 16. § (3) bekezdés b) pontja a 44/2012. (V. 3.) VM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^23]: A 16. § (3) bekezdés c) pontja a 44/2012. (V. 3.) VM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^24]: A 16. § (3) bekezdés k) pontja a 104/2012. (X. 1.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^25]: A 16. § (3) bekezdés q) pontját a 104/2012. (X. 1.) VM rendelet 6. § (3) bekezdése iktatta be.
+[^26]: A 16. § (3) bekezdés r) pontját a 104/2012. (X. 1.) VM rendelet 6. § (3) bekezdése iktatta be.
+[^27]: A 16. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^28]: A 16. § (6) bekezdését a 104/2012. (X. 1.) VM rendelet 7. §-a iktatta be.

@@ -1,4 +1,4 @@
-## Természetszerű (őshonos fafajú) célállománytípusok*
+## Természetszerű (őshonos fafajú) faállománytípusok*
 
 | Ssz. | Rövidítés | Megnevezés | Főfafaj(ok) | Elegyfafajok | Cserjefajok |
 
@@ -8,7 +8,7 @@
 
 | 001 | B | Bükkös | B>=70% | KTT, GY, HJ, KJ, MJ, NH, KH, EH, HSZ, MK, CSNY, MBE, RNY, KFÜ, NYI | CSGG, FÜBD, MO, VAK, VGY Cserjeborítás: 5–20% |
 
-| 002 | B-KTT | Kocsánytalan tölgyes-bükkös | B 50–70%; KTT 20–30% | GY, HJ, KJ, MJ, NH, KH, EH, HSZ, MK, CSNY, MBE, RNY, KFÜ, NYI | CSGG, FÜBD, MO, VAK, VGY Cserjeborítás: 5–20% |
+| 002 | B-KTT | Kocsánytalan tölgyes-bükkös | B 50–70%; KTT 20–30% | GY, HJ, KJ, MJ, NH, KH, EH, HSZ, MK, CSNY, MBE, RNY, KFÜ, NYI | CSGG, FÜBD, MO, VAK, VGY Cserjeborítás: 5–20% |
 
 | 003 | B-GY-KTT | Gyertyános-kocsánytalan tölgyes-bükkös | B 50-60%; KTT 20–30%; GY 10–20% | HJ, KJ, MJ, NH, KH, EH, HSZ, MK, CSNY, MBE, RNY, KFÜ, NYI | CSGG, FÜBD, MO, VAK, VGY Cserjeborítás: 5–20% |
 
@@ -20,7 +20,7 @@
 
 | 007 | B-F | Fenyő elegyes-bükkös | B 50–70%; F 20–30% (F = LF és/vagy JF és/vagy EF) | KTT, GY, HJ, KJ, MJ, NH, KH, HSZ, MK, CSNY, MBE, RNY, KFÜ, NYI | FÜBD, MO, VAK Cserjeborítás: 0–10% |
 
-## * Az Erdőrendezési szabályzatról szóló 88/2000. (XI. 10.) FVM rendelet alapján kiadott Erdőtervezési útmutató kódjegyzéke alapján.
+## * Az erdőtörvény végrehajtásáról szóló 153/2009. (XI. 13.) FVM rendelet 5. melléklet kódjegyzéke alapján.
 
 ## GYERTYÁNOS-KOCSÁNYTALAN TÖLGYESEK
 
@@ -75,6 +75,8 @@
 | 028 | KST-MÉ | Mézgás égeres-kocsányos tölgyes | KST 50–70%; MÉ 20–30% | GY, MJ, TJ, MSZ, VSZ, ZSM, AL, FRNY, RNY | CSGG, CSKR, EGG, KBG, KBN, MO, RFÜ, VBN, VGY Cserjeborítás: 20–50% |
 
 | 029 | KST-K | Kőrises-kocsányos tölgyes | KST 50–70%; K 20–30% = MAK, MK | B, GY, MJ, TJ, HSZ, MSZ, VSZ, ZSM, AL, FRNY, RNY | CSGG, CSKR, EGG, KBG, KBN, MO, MOHO, VBN, VGY Cserjeborítás: 20–50% |
+
+| 030 | KST-EL | Egyéb lomb elegyes-kocsányos tölgyes | KST 50–70%; EL 20–30% | B, CS, MOT, GY, HJ, KJ, MJ, TJ, MSZ, CSNY, AL, KT, FRNY, RNY, KH, EH, NYI, VSZ, MK, MAK | CSKR, CSM, EGG, FA, KÖK, MO, OBG, SBO, VBN, VGY Cserjeborítás: 30–100% CSGG, KBG, KBN, MOHO Cserjeborítás: 20–50% |
 
 ## CSERESEK
 
@@ -158,76 +160,22 @@
 
 | 079 | NYI | Nyíres | NYI>=70% | FRNY, RNY, BO, MBE, KFÜ, EF | Sík vidéken: EGG, FA, SBO, KÖK, VBN, MO Cserjeborítás: 0–50% Hegy- és dombvidéken: CSGG, MO, KBN Cserjeborítás: 0–30% |
 
-## Alkalmazott fogalmak
+## Alkalmazott fogalmak:
 
-## Főfafaj – Az adott célállománytípus jellemző és névadó őshonos fafajai.
+## Főfafaj: Az adott faállománytípus jellemző és névadó őshonos fafajai.
 
-## Elegyfafaj – A főfaj(ok) növekedését nem akadályozó, a természetszerű faállománytípusra jellemző őshonos fafaj. Ökológiai értéke nem kisebb, mint a főfafajé.
+## Elegyfafaj: A főfaj(ok) növekedését nem akadályozó, a természetszerű faállománytípusra jellemző őshonos fafaj. Ökológiai értéke nem kisebb, mint a főfafajé.
 
-## Cserjefaj – Az adott természetszerű faállománytípusra jellemző őshonos cserjefaj. Nem kerültek be a táblázatba a liánok, epifitonok, törpecserjék, rózsafajok (Rosa spp.), szedrek és málna (Rubus spp.), ártéri bokorfűz fajok, továbbá a védett cserjefajok.
+## Cserjefaj: Az adott természetszerű faállománytípusra jellemző őshonos cserjefaj. Nem kerültek be a táblázatba a liánok, epifitonok, törpecserjék, rózsafajok (Rosa spp.), szedrek és málna (Rubus spp.), ártéri bokorfűz fajok, továbbá a védett cserjefajok.
 
 ## Megjegyzések
 
-## – Néhány célállománytípus (pl. kocsánytalan tölgyes, kocsányos tölgyes, kőrises, hazai nyáras, mézgás égeres) sokféle termőhelyi szituációban jelenhet meg, ezért itt megbontás alkalmazandó.
+## – Néhány faállománytípus (pl. kocsánytalan tölgyes, kocsányos tölgyes, kőrises, hazai nyáras, mézgás égeres) sokféle termőhelyi szituációban jelenhet meg, ezért itt megbontás alkalmazandó.
 
-## – Más célállománytípusok (pl. juharos, hársas, tölgyes-kőrises) csak bizonyos termőhelyi szituációban fogadhatók el természetszerű célállománytípusoknak, más termőhelyeken konszociációk, azaz nem erdősítési célállománytípusok.
+## – Más faállománytípusok (pl. juharos, hársas, tölgyes-kőrises) csak bizonyos termőhelyi szituációban fogadhatók el természetszerű faállománytípusoknak, más termőhelyeken konszociációk, azaz nem lehetnek az erdősítésekben alkalmazott faállománytípusok.
 
-3. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^36]
+3. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^54]
 
-## Támogatási kérelmek részletes pontozási rendszere
+Támogatási kérelmek részletes pontozási rendszere
 
-| Értékelési szempont megnevezése | Pontszám |
-
-| Horizontális szempontok |
-
-| Elmaradott és munkanélküliséggel sújtott terület [240/2006. (XI. 30.) Korm. rendelet alapján] | Társadalmi-gazdasági és infrastrukturális szempontból elmaradott település községhatárában tervezett erdőrészlet | 7 |
-
-| Elmaradott és munkanélküliséggel sújtott terület [240/2006. (XI. 30.) Korm. rendelet alapján] | Az országos átlagot legalább 1,75-szörösen meghaladó munkanélküliségű település községhatárában elhelyezkedő erdőrészlet | 7 |
-
-| Térségi fenntarthatóság vizsgálata (helybenlakás) | A kérelmezett terület a lakhely, illetve székhely szerinti községhatárban található | 6 |
-
-| A kérelmezett terület a lakhely, illetve székhely szerinti településsel szomszédos községhatárban található | 4 |
-
-| Erdősültség vizsgálata | 10% alatti erdősültséggel rendelkező községhatárban helyezkedik el | 6 |
-
-| 10–20% közötti erdősültséggel rendelkező községhatárban helyezkedik el | 3 |
-
-| 20% feletti erdősültséggel rendelkező községhatárban helyezkedik el | 2 |
-
-| Kiemelt területen tervezett beruházás | Balaton Kiemelt Üdülőkörzet (2000. évi CXII. törvény) | 4 |
-
-| Velencei-tó–Vértes Kiemelt Üdülőkörzet [1117/2003. (XI. 28.) Korm. határozat] | 4 |
-
-| Budapesti Agglomeráció (2005. évi LXIV. törvény) | 4 |
-
-| Horizontális szempontok összesen: | 30 |
-
-| Szakmai szempontok |
-
-| Kérelmezett terület mérete 5,00 ha felett | 8 |
-
-| Jelenlegi/tervezett faállomány: az e rendelet 1. melléklete alapján kiemelten támogatható | 12 |
-
-| Elegyességének vizsgálata | Az elegyesség mértéke >30% | 10 |
-
-| Az elegyesség mértéke 20–30% | 7 |
-
-| Az elegyesség mértéke 10–19,9% | 4 |
-
-| Erdőrészleten található jelenlegi faállomány tájhonosságának vizsgálata | 100–70%-ban tájhonos fafajokból álló állomány | 10 |
-
-| 69,9–50%-ban tájhonos fafajokból álló állomány | 7 |
-
-| Kevesebb mint 50%-ban tájhonos fafajokból álló állomány | 3 |
-
-| Az Adattárban védett vagy Natura 2000 területként nyilvántartott terület | 10 |
-
-| Szakmai szempontok összesen | 50 |
-
-| Az egyes célprogramokban jelentkező speciális szempontok (lásd a táblázat alatt részletezve) | 20 |
-
-| Összesen: | 100 pont |
-
-Speciális szakmai pontozási szempontok:
-
-[^36]: A 3. melléklet a 139/2009. (X. 22.) FVM rendelet 15. § (5) bekezdése szerint módosított szöveg.
+[^54]: A 3. melléklet a 139/2009. (X. 22.) FVM rendelet 15. § (5) bekezdése szerint módosított szöveg.

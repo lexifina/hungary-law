@@ -34,7 +34,7 @@
 
 16. lék: olyan felújítási kötelezettséggel nem rendelkező terület, ahol az idős fák kivágása után a záródáshiányt mindaddig folyamatosan fenntartják, amíg az újulat a külön jogszabályban meghatározottak szerint az erdősítés befejezésére meghatározott feltételeknek meg nem felel,
 
-17. lék területe: a léket határoló koronapalástok vetülete által körbezárt terület,
+17.[^1] lék területe: olyan a léket határoló koronapalástok vetülete által körbezárt terület, amely az erdőrészlet határán belül helyezkedik el,
 
 18. mikroélőhely: olyan álló vagy fekvő holt fákat, facsoportokat tartalmazó élőhelyek, amelyek környezetüktől eltérő adottságaik miatt a többnyire homogén erdőállományokból rendszerint hiányzó, a holt fához kötődő élőlényeknek, élőlénycsoportoknak adnak otthont, így az élőhely mozaikosságát gazdagítva biztosítják a biológiai sokféleség fenntartását, növelését,
 
@@ -54,9 +54,9 @@
 
 26. támogatási időszak: az első kifizetési kérelem benyújtásától az egyes célprogramok időtartama által meghatározott év végéig terjedő időszak,
 
-27. támogatott terület: a jóváhagyó, illetve részben jóváhagyó támogatási határozat szerinti erdőrészlet vagy erdőrészletek teljes területe, amelyen a támogatott tevékenység megvalósul,
+27.[^2] támogatott terület: a jóváhagyó, illetve részben jóváhagyó támogatási határozat szerinti erdőrészlet vagy erdőrészletek teljes vagy rész területe, amelyen a támogatott tevékenység megvalósul;
 
-28.[^1] területhatár állandósítás: olyan tevékenység, amely során a faállománnyal borított terület esetében a terület megközelítését szolgáló úthoz legközelebb eső határpontot határkaróval, majd a határ további pontjait az összelátást biztosítva a határon lévő fákon fehér színű festéssel jelölik meg azzal a megkötéssel, hogy ha a terület határán a támogatási időszak alatt jelölésre alkalmas fák nincsenek, a terület határvonalainak töréspontjaira jól látható határkarókat kell elhelyezni,
+28.[^3] területhatár állandósítás: olyan tevékenység, amely során a faállománnyal borított terület esetében a terület megközelítését szolgáló úthoz legközelebb eső határpontot határkaróval, majd a határ további pontjait az összelátást biztosítva a határon lévő fákon fehér színű festéssel jelölik meg azzal a megkötéssel, hogy ha a terület határán a támogatási időszak alatt jelölésre alkalmas fák nincsenek, a terület határvonalainak töréspontjaira jól látható határkarókat kell elhelyezni,
 
 29. visszatérési idő: egymást követő, léknyitást vagy a lék területének a bővítését eredményező erdőgazdálkodási tevékenység között eltelt idő,
 
@@ -64,4 +64,6 @@
 
 31. záródás: olyan területviszonyszám, amely megmutatja, hogy az erdőrészlet felső lombkoronaszintjében található fák koronavetülete hány százalékban borítja a részlet teljes területét.
 
-[^1]: A 2. § 28. pontja a 44/2012. (V. 3.) VM rendelet 13. §-ával megállapított szöveg.
+[^1]: A 2. § 17. pontja a 104/2012. (X. 1.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 27. pontja a 104/2012. (X. 1.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § 28. pontja a 44/2012. (V. 3.) VM rendelet 13. §-ával megállapított szöveg.

@@ -10,7 +10,7 @@
 
 a) minimum 30%-ban tájhonos fafajokból áll,
 
-b)[^13] felső koronaszintjében maximum 20% elegyarányban lehet jelen agresszíven terjedő, idegenhonos fafaj,
+b)[^18] felső koronaszintjében maximum 20% elegyarányban lehet jelen agresszíven terjedő, idegenhonos fafaj,
 
 c) minimum 5% elegyarányban agresszíven terjedő, idegenhonos fafajokat tartalmaz,
 
@@ -28,12 +28,12 @@ g) záródása ártéren kívüli területen több mint 60%, ártéren fekvő te
 
 a) a támogatási időszak alatt az erdőrészletben egy évesnél idősebb, agresszíven terjedő, idegenhonos fa- és cserjefaj egyede nem maradhat,
 
-b)[^14] a fahasználatok során a záródás ártéren kívüli területen nem csökkenhet 50% alá, ártéren fekvő területen 70% alá.
+b)[^19] a fahasználatok során a záródás ártéren kívüli területen nem csökkenhet 50% alá, ártéren fekvő területen 70% alá.
 
 (4) A célprogram időtartama 7 év.
 
-(5)[^15] A támogatás éves mértéke hektáronként 274 eurónak megfelelő forintösszeg.
+(5)[^20] A támogatás éves mértéke hektáronként 274 eurónak megfelelő forintösszeg.
 
-[^13]: A 15. § (1) bekezdés b) pontja a 44/2012. (V. 3.) VM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^14]: A 15. § (3) bekezdés b) pontja a 44/2012. (V. 3.) VM rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^15]: A 15. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^18]: A 15. § (1) bekezdés b) pontja a 44/2012. (V. 3.) VM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^19]: A 15. § (3) bekezdés b) pontja a 44/2012. (V. 3.) VM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^20]: A 15. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 17. § (3) bekezdésével megállapított szöveg.
