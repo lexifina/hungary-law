@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-288-20-
 | 2012-01-01 | 2009-288-20-22.9 | 243/2011. (XI. 22.) Korm. rendelet |
 | 2012-04-27 | 2009-288-20-22.10 | 243/2011. (XI. 22.) Korm. rendelet |
 | 2012-07-27 | 2009-288-20-22.11 | 243/2011. (XI. 22.) Korm. rendelet |
+| 2012-10-01 | 2009-288-20-22.12 | 279/2012. (IX. 28.) Korm. rendelet |

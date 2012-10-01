@@ -62,6 +62,6 @@
 
 | 1741 | Beépített tűzvédelmi berendezések | (1) Adott évben használatba vett tűzoltó/tűzjelző berendezések megoszlása (2) Befogadó intézmény tűzveszélyességi osztálya, rendeltetési kategóriája, tűzoltósággal való kapcsolat típusa (3) Védelem foka, berendezés fajtája, tűzjelző típusa, vezérlő funkciója (4) Oltórendszer vezérlése, oltóanyag mennyisége, típusa (5) Jelzésadók, szórófejek, fúvókák adatai, jelzésadók száma (6) Kiegészítő berendezésekre vonatkozó információk |
 
-3. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^13]
+3. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^14]
 
-[^13]: A 3. melléklet a 243/2011. (XI. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 314/2011. (XII. 23.) Korm. rendelet 18. § a)–b) pontja, a 87/2012. (IV. 26.) Korm. rendelet 3. §-a, a 174/2012. (VII. 26.) Korm. rendelet 66. § (4) bekezdése szerint módosított szöveg.
+[^14]: A 3. melléklet a 243/2011. (XI. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 314/2011. (XII. 23.) Korm. rendelet 18. § a)–b) pontja, a 87/2012. (IV. 26.) Korm. rendelet 3. §-a, a 174/2012. (VII. 26.) Korm. rendelet 66. § (4) bekezdése szerint módosított szöveg.
