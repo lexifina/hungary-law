@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-39-20-2
 | 2011-01-01 | 1998-39-20-22.15 | 225/2005. (X. 13.) Korm. rendelet |
 | 2011-03-23 | 1998-39-20-22.16 | 37/2011. (III. 22.) Korm. rendelet |
 | 2012-01-01 | 1998-39-20-22.17 | 324/2011. (XII. 28.) Korm. rendelet |
+| 2012-10-01 | 1998-39-20-22.18 | 272/2012. (IX. 28.) Korm. rendelet |
