@@ -22,15 +22,15 @@ b) a gyámhivatal által a naptári évet követő év február 15-éig megküld
 
 (2) Start-számla követelés kezelésére bankbetét vagy a tőkepiacról szóló törvény szerint nyilvánosan forgalomba hozott állampapír, tőke- vagy hozamgarantált befektetési jegy választható.
 
-(3) Az 5. § (3) bekezdése alapján tett választásától függetlenül a szülő vagy a szülő egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek bármikor jogosult a Start-számlán nyilvántartott követelésre vonatkozóan a (2) bekezdés szerinti megtakarítási, illetőleg befektetési lehetőségek között a Start-számla állományát vagy annak egyes elemeit átcsoportosítani, illetve magát a teljes állományt más számlavezetőnél nyitott Start-számlára áthelyezni. Amennyiben az áthelyezés betétgyűjtésre nem jogosult számlavezetőnél megnyitott Start-számlára történik, dönteni kell arról, hogy az áthelyezéssel felmondott bankbetét összege milyen más, a (2) bekezdés szerinti befektetési formába kerüljön. Az áthelyezés történhet a 3. § (6) bekezdése szerint a kincstárban nyitott letéti Start-számlára is.
+(3) A szülő vagy a szülő egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek bármikor jogosult a Start-számlán nyilvántartott követelésre vonatkozóan a számlavezető által felajánlott megtakarítási, befektetési lehetőségek között a Start-számla állományát vagy annak egyes elemeit átcsoportosítani, vagy magát a befektetés, megtakarítás teljes állományát a kiutalónál nyitott Start-számlára áthelyezni. Az áthelyezést megelőzően a befektetési jegyet értékesíteni kell, bankbetét esetén a lekötést meg kell szüntetni, és a Start-számla követelést pénzeszköz és állampapír formájában kell a kiutalónál nyitott Start-számlára áthelyezni.
 
 (4) A Start-számlával rendelkező gyermek javára átutalt, befizetett összegeket, fizetett késedelmi kamatokat, továbbá a (2) bekezdés szerinti választás alapján elért kamatokat, hozamokat – a (7) bekezdésben meghatározott díj fedezetének visszatartásával – a számlavezető a gyermek javára haladéktalanul a Start-számla megállapodásban meghatározott befektetési formába fekteti mindaddig, amíg a szülő vagy a gyermek a (3) bekezdésében foglalt jogosultságával nem él.
 
 (5) A (3) bekezdés alapján történő áthelyezés esetén
 
-a) a választott új számlavezető az áthelyezés kezdeményezőjének az új Start-számla megnyitására vonatkozó szándéknyilatkozata és a befektetési lehetőség kiválasztása alapján az áthelyezéshez szükséges adatokat tartalmazó ígérvényt ad;
+a) az új számlavezető az áthelyezés kezdeményezőjének az új Start-számla megnyitására vonatkozó szándéknyilatkozata és a befektetési lehetőség kiválasztása alapján az áthelyezéshez szükséges adatokat tartalmazó ígérvényt ad;
 
-b) a korábbi számlavezető az ígérvény alapján a nála vezetett Start-számlát megszünteti, és annak állományát haladéktalanul – felróható késedelem esetén napi 3,5 ezrelék késedelmi kamattal növelten – a választott új számlavezetőhöz áthelyezi;
+b) a korábbi számlavezető az ígérvény alapján a nála vezetett Start-számlát megszünteti, és annak állományát haladéktalanul – felróható késedelem esetén napi 3,5 ezrelék késedelmi kamattal növelten – az új számlavezetőhöz áthelyezi;
 
 c) az új számlavezető – a befektetésre vonatkozó választást is figyelembe véve – a Start-számlát haladéktalanul megnyitja és erről a kiutalót tájékoztatja.
 

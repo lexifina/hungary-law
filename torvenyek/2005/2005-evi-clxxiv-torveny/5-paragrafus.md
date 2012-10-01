@@ -8,7 +8,7 @@ b) az állami adóhatóság az a) pont szerinti adatszolgáltatást követő öt
 
 (2) A kiutaló
 
-a) tájékoztatóban teszi közzé a számlavezetők számára a Start-számla vezetés vállalására vonatkozó mintaszerződést,
+a)
 
 b) az (1) bekezdés b) pontja szerint kapott adatok alapján 8 munkanapon belül kincstári letéti Start-számlát nyit, amelyen az első utalási összeget a gyermek születésének napjától, valamint a gyermek jogosultsága esetén – ha Start-számlával nem rendelkezik – a második utalási összeget a hetedik életéve betöltésétől, és a harmadik utalási összeget a tizennegyedik életéve betöltésétől nyilvántartja mindaddig, amíg a szülő, vagy a szülő egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek azt Start-számlára nem helyezi, vagy ameddig a (7) bekezdés szerinti jogosultsággal a jogosult nem él,
 
@@ -28,29 +28,29 @@ ha) a számlavezetők adatairól,
 
 hb) a megnyitott Start-számlák adatairól, valamint az azokban bekövetkezett változásokról.
 
-(3) A kincstári letéti Start-számlán nyilvántartott követelés Start-számla megnyitásával és a befektetési lehetőség kiválasztásával helyezhető át a választott számlavezetőhöz.
+(3)
 
 (4) A számlavezető
 
 a) tájékoztatót tesz közzé, amely tartalmazza különösen, hogy a Start-számla vezetésére vonatkozó megállapodás megkötéséhez szükséges
 
-aa) a szülő által annak igazolása, hogy a családi pótlékot a nevére folyósítják, vagy
+aa) a szülő nyilatkozata arról, hogy a családi pótlékra jogosult, vagy
 
-ab) ha a megállapodást – 16. életévének betöltését követően – a gyermek köti meg, az aa) pont szerinti igazolással rendelkező szülő egyetértő nyilatkozata,
+ab) a hozzátartozó nyilatkozata a gyermekkel fennálló hozzátartozói kapcsolatáról és a szülő családi pótlékra való jogosultságának fennállásáról, vagy
 
-ac) a gyermek adóazonosító jelének közlése az adóigazolvány bemutatásával, amely az állami adóhatóságtól az (1) bekezdés szerint kapott értesítésnek megfelelően szerezhető be, vagy
+ac) ha a megállapodást – 16. életévének betöltését követően – a gyermek köti meg, a szülő egyetértő nyilatkozata,
 
-ad) felhatalmazás a kiutaló részére a gyermek adóazonosító jelének az (5) bekezdés szerinti kiutalással egyidejűleg történő megküldésére a számlavezetőhöz,
+ad) a 2006. január 1-jét megelőzően született gyermek adóazonosító jelének közlése az adóigazolvány bemutatásával,
 
-ae) felhatalmazás a számlavezető részére a 3. § (3) bekezdése szerinti adatkezeléshez, illetőleg az állami támogatás igényléséhez,
+ae) felhatalmazás a számlavezető részére a 3. § (3) bekezdése szerinti adatkezeléshez és az állami támogatás igényléséhez,
 
-af) a Start-számlára a 6. § (1) bekezdésének a) pontja alapján történő befizetéshez a befizető felhatalmazása a számlavezető részére, hogy a befizetett összeg esetleges visszautalásához a befizető nevét és levelezési címét vagy folyószámlaszámát nyilvántartsa,
+af) a Start-számlára a 6. § (1) bekezdés a) pontja alapján történő befizetéshez a befizető felhatalmazása a számlavezető részére, hogy a befizetett összeg esetleges visszautalásához a befizető nevét és levelezési címét vagy folyószámlaszámát nyilvántartsa,
 
-ag) a szülő, illetőleg – a szülő egyetértő nyilatkozatával 16. életévének betöltését követően – a gyermek nyilatkozata, hogy kötelezettséget vállal a saját és a gyermek személyes adataiban bekövetkező változások közlésére;
+ag) a szülő vagy – a szülő egyetértő nyilatkozatával 16. életévének betöltését követően – a gyermek nyilatkozata, hogy kötelezettséget vállal a saját és a gyermek személyes adataiban bekövetkező változások közlésére azzal, hogy a hozzátartozó által nyitott számla esetén a szülő vagy – a szülő egyetértésével – a 16. életévét betöltött gyermek a nyilatkozatot a számla feletti rendelkezést megelőzően bármikor pótolhatja;
 
 b) a Start-számla megnyitását megelőzően, de legkésőbb a Start-számla vezetésére vonatkozó megállapodás aláírásakor írásban adott tájékoztatás keretében – a tudomásulvétel igazolásával – ismerteti a befektetési lehetőségeket, a Start-számlával kapcsolatos tudnivalókat, ideértve különösen
 
-ba) a Start-számla megnyitásának (áthelyezésének) feltételeit,
+ba) a Start-számla megnyitásának feltételeit,
 
 bb) a kincstári letéti Start-számlán nyilvántartott követelésnek a (3) bekezdés szerinti áthelyezéséhez a befektetési forma kiválasztásának szükségességét;
 
@@ -60,21 +60,23 @@ d) a kiutalóval kötött szerződésben szabályozott módon a Start-számla me
 
 e) nyilvántartja
 
-ea) a (4) bekezdés af) pontja szerinti adatokat,
+ea) az a) pont af) alpont szerinti adatokat,
 
 eb) a települési önkormányzat(ok) befizetéseit,
 
 ec) az ea) pontban foglalt rendelkezéstől függetlenül is, a 6. § (5) bekezdésének rendelkezése alapján a szülő, illetőleg a gyermek lakóhelyét, levelezési címét.
 
-(5) A kincstári letéti Start-számlán nyilvántartott összeget a kiutaló az értesítés kézhezvételétől számított 8 munkanapon belül utalja a számlavezetőhöz.
+(5) A kincstári letéti Start-számlán nyilvántartott összeget a kiutaló a Start-számlára annak megnyitásától számított 8 munkanapon belül vezeti át.
 
 (6) Ha a gyermek Start-számlával rendelkezik, a második és a harmadik utalási összeget a kiutaló a gyermek jogosultsága esetén annak igazolásától számított 8 munkanapon belül – felróható késedelem esetén az utalás összege után napi 3,5 ezrelék késedelmi kamattal növelten – utalja a számlavezetőhöz.
 
-(7) Az életkezdési támogatás kifizetését Start-számlán vagy ennek hiányában a kincstári letéti Start-számlán nyilvántartott követelés alapján
+(7) A Start-számlán vagy ennek hiányában a kincstári letéti Start-számlán nyilvántartott követelés kifizetését – a számla megszüntetésével –
 
-a) a fiatal felnőtt 18. életévének betöltése napjától,
+a) a fiatal felnőtt 18. életévének betöltése napjától, de legkorábban a Start-számla megnyitását követő harmadik év elteltétől,
 
-b) a gyermek, illetőleg a fiatal felnőtt halála esetén az örökös az öröklési bizonyítvány, vagy a hagyatéki határozat jogerőre emelkedését követően kérheti.
+b) a gyermek vagy a fiatal felnőtt halála esetén az örökös az öröklési bizonyítvány vagy a hagyatéki határozat jogerőre emelkedését követően
+
+kérheti.
 
 (8) A fiatal felnőtt az életkezdési támogatást a következő célokra fordíthatja:
 

@@ -2,11 +2,11 @@
 
 6. § (1) A Start-számla követelés – utoljára a gyermek 18. életéve betöltésének napjáig – kiegészíthető
 
-a) természetes személy által történő befizetéssel évenként több ilyen befizető esetén is legfeljebb együttesen évi 120 ezer forint összeggel;
+a) természetes személy által történő befizetéssel;
 
-b) az a) pont szerinti befizetéstől függetlenül települési önkormányzat által a rendeletében meghatározott feltételekkel történő befizetéssel
+b) települési önkormányzat által a rendeletében meghatározott feltételekkel történő befizetéssel
 
-azzal, hogy az a) pont szerinti összeget meghaladó, valamint a gyermek külföldi letelepedésének időszakában történő befizetés Start-számlán nem írható jóvá, azt a számlavezető a befizetőnek visszautalja, továbbá azzal, hogy az önkormányzati rendelet az életkezdési támogatás felhasználására vonatkozó korlátozást csak az önkormányzat által befizetett összeg(ek) mértékéig tartalmazhat.
+azzal, hogy a gyermek külföldi letelepedésének időszakában történő befizetés Start-számlán nem írható jóvá, azt a számlavezető a befizetőnek visszajuttatja, továbbá azzal, hogy az önkormányzati rendelet az életkezdési támogatás felhasználására vonatkozó korlátozást csak az önkormányzat által befizetett összeg(ek) mértékéig tartalmazhat.
 
 (2) Állami támogatás illeti meg
 

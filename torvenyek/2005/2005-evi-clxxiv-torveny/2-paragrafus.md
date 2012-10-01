@@ -14,8 +14,14 @@
 
 6. kincstári letéti Start-számla: a kiutaló által a gyermek nevén vezetett nyilvántartási számla;
 
-7. számlavezető: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott hitelintézet, valamint a tőkepiacról szóló törvényben meghatározott befektetési szolgáltató, amely a kincstárral Start-számla vezetés vállalására szerződést kötött;
+7. számlavezető:
 
-8. szülő: a gyermeknek az a családi pótlékra jogosult szülője vagy más törvényes képviselője, akinek a családi pótlékot folyósítják;
+a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott hitelintézet, valamint a tőkepiacról szóló törvényben meghatározott befektetési szolgáltató, amely a kincstárral Start-számla vezetés vállalására szerződést kötött, valamint a kincstár;
 
-9. utalási összeg: a kiutaló által a gyermek javára a Start-számlát vezető számlevezetőhöz e törvény alapján utalt összeg.
+b) a személyi jövedelemadóról szóló 1995. évi CXVII. törvény és a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény módosításáról szóló 2012. évi XCVII. törvény hatálybalépését követően nyitott számla esetében a kincstár;
+
+8. szülő: a gyermeknek családi pótlékra jogosult szülője vagy családi pótlékra jogosult más törvényes képviselője;
+
+9. utalási összeg: a kiutaló által a gyermek javára a Start-számlát vezető számlevezetőhöz e törvény alapján utalt összeg;
+
+10. hozzátartozó: a gyermek a Polgári Törvénykönyvről szóló törvény szerinti – szülőnek nem minősülő – hozzátartozója és az egyenes ágbeli rokon testvére.
