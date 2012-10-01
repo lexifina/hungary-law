@@ -1,0 +1,1 @@
+161/I. § A 20/A. §-nak az egyes szociális tárgyú és egyéb kapcsolódó törvények módosításáról szóló 2012. évi CXVIII. törvénnyel megállapított rendelkezéseit a 2012. október 1-jét megelőzően megállapított rendszeres gyermekvédelmi kedvezményre való jogosultság esetében a határozat módosítása nélkül kell alkalmazni.

@@ -4,7 +4,7 @@
 
 a) a 148. § (5) bekezdésének a) és b) pontjában meghatározott gyermekétkeztetés normatív kedvezményének,
 
-b) a 20/A. §-ban meghatározott pénzbeli támogatásnak,
+b) a 20/A. §-ban meghatározott természetbeni támogatásnak,
 
 c) a külön jogszabályban meghatározott egyéb kedvezményeknek
 
