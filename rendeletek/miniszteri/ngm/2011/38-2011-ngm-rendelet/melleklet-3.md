@@ -326,7 +326,7 @@
 
 ## VI. Radioaktivitás
 
-## A játékoknak meg kell felelniük az Európai Atomenergia-közösség létrehozásáról szóló szerződés III. fejezete alapján elfogadott vonatkozó rendelkezéseknek.
+## A játék nem tartalmazhat olyan mennyiségben radioaktív elemeket vagy anyagokat, amelynek következtében a sugárzása a háttérsugárzást meghaladja.
 
 ## A. függelék
 
