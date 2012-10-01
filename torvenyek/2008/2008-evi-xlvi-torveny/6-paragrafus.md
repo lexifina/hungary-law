@@ -7,3 +7,5 @@
 (4) E törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban foglalt kivételekkel tilos az állat tartása során – különösen az állat szaporodási vagy termelési eredményeinek növelésére – hormontartalmú, -hatású vagy más olyan anyagot felhasználni, amely az ember vagy az állat egészségére káros.
 
 (5) Állat tartását csak állat-egészségügyi, közegészségügyi, állatjóléti, környezetvédelmi, illetve természetvédelmi indokkal lehet korlátozni.
+
+(6) Mezőgazdasági haszonállat tartása önkormányzati rendeletben nem korlátozható.
