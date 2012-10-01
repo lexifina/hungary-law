@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-14-20-2
 | 2012-07-01 | 2011-14-20-2C.12 | 3/2012. (I. 12.) MNB rendelet |
 | 2012-07-14 | 2011-14-20-2C.13 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-07-15 | 2011-14-20-2C.14 | 2010: CXXX. törvény |
+| 2012-10-01 | 2011-14-20-2C.15 | Nemzeti Jogszabálytár (egységes szerkezet) |
