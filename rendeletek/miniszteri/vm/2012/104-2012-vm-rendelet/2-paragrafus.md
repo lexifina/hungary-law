@@ -1,0 +1,1 @@
+## „27. támogatott terület: a jóváhagyó, illetve részben jóváhagyó támogatási határozat szerinti erdőrészlet vagy erdőrészletek teljes vagy rész területe, amelyen a támogatott tevékenység megvalósul;”
