@@ -1,3 +1,0 @@
-9. § (1) A miniszter a támogatási szerződések egy-egy eredeti példányát, valamint a támogatásban részesített pályázók nevét, KSH azonosító kódját és a részükre jóváhagyott támogatási összegek jegyzékét legkésőbb 2011. december 5-ig utalványozás céljából elektronikus levélben és papír alapon is megküldi a helyi önkormányzatokért felelős miniszternek.
-
-(2) A megítélt támogatást a kincstári finanszírozás általános szabályai szerint a helyi önkormányzatokért felelős miniszter által vezetett minisztérium utalványozása alapján a Kincstár legkésőbb 2011. december 8-ig folyósítja a pályázók költségvetési elszámolási számlájára.
