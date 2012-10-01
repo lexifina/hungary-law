@@ -1,17 +1,12 @@
-## 17. §[^20]
+## 17. §[^25]
 
-18. § (1) Hatályát veszti a Cstr.
+18. § (1)[^26]
 
-a) 4. § (1) bekezdésében a „ , valamint a jogosultnak való folyósítása tekintetében felfüggesztett iskoláztatási támogatást” szövegrész,
+(2)[^27]
 
-b) 4. § (2) bekezdésében az „és a jogosultnak való folyósítása tekintetében felfüggesztett iskoláztatási támogatást” szövegrész,
+(3)[^28]
 
-c) 28. § (1a) bekezdése.
-
-(2)[^21]
-
-(3)[^22]
-
-[^20]: A 17. § a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
-[^21]: A 18. § (2) bekezdése a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^22]: A 18. § (3) bekezdése a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
+[^25]: A 17. § a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
+[^26]: A 18. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 18. § (2) bekezdése a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^28]: A 18. § (3) bekezdése a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.

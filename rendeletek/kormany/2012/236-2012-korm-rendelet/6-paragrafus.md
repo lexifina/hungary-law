@@ -1,16 +1,7 @@
-## 5. §[^3]
+## 5. § A Gyer. 4. számú melléklete helyébe az 1. melléklet lép.
 
-6. § (1) Hatályát veszti a Gyer.
+6. § (1)[^4]
 
-a) 91/K. és 91/L. §-a,
+(2) Hatályát veszti a Gyer. 66/A. § (4) bekezdésében és 68/F. § (1) bekezdésében a „pénzbeli” szövegrész.
 
-b) 91/M–91/O. §-a és a 91/M. §-t megelőző alcím,
-
-c) 91/P–91/R. §-a és a 91/P. §-t megelőző alcím,
-
-d) 91/S–91/U. §-a és a 91/S. §-t megelőző alcím.”
-
-(2)[^4]
-
-[^3]: Az 5. § a 20. § (3) bekezdése alapján 2012. október 1-jén lép hatályba.
-[^4]: A 6. § (2) bekezdése a 20. § (3) bekezdése alapján 2012. október 1-jén lép hatályba.
+[^4]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

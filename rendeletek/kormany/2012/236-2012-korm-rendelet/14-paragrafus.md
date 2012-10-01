@@ -1,9 +1,9 @@
-## 13. §[^17]
+## 13. §[^20]
 
-14. § (1)[^18]
+14. § (1)[^21]
 
-(2)[^19]
+(2)[^22]
 
-[^17]: A 13. § a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^18]: A 14. § (1) bekezdése a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^19]: A 14. § (2) bekezdése a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
+[^20]: A 13. § a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^21]: A 14. § (1) bekezdése a 20. § (4) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^22]: A 14. § (2) bekezdése a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
