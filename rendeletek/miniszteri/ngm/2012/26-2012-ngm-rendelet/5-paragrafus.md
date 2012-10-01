@@ -1,3 +1,1 @@
-## 4. §[^2]
-
-[^2]: A 4. § a 7. § (3) bekezdése alapján 2012. október 1-jén lép hatályba.
+## 4. § Az R. 2. melléklete a 2. melléklet szerint módosul.
