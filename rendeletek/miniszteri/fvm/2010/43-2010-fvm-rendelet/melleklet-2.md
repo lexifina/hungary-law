@@ -104,11 +104,11 @@
 
 2. melléklet a 43/2010. (IV. 23.) FVM rendelethez
 
-## Növényvédelmi gépek típusminősítési eljárása és felülvizsgálata[^30]
+## Növényvédelmi gépek típusminősítési eljárása és felülvizsgálata[^31]
 
 ## Növényvédelmi gépek típusminősítési eljárásának követelményei
 
-## 1.[^31]
+## 1.[^32]
 
 ## 2. A 32. § (1) bekezdésében foglalt rendelkezésekre figyelemmel, az 5 dm3-nél nagyobb tartállyal rendelkező növényvédelmi gépek csak típusminősítés után hozhatók forgalomba. A típusminősítési eljárást a növényvédelmi gép gyártója, forgalmazója által szolgáltatott adatok alapján, vagy vizsgálat alapján kell lefolytatni.
 
@@ -128,9 +128,9 @@
 
 ## 10. A forgalomba hozatali engedély hatályosságát igazoló, 6. függelék szerinti matricát a növényvédelmi gépen feltűnő helyen kell elhelyezni.
 
-## Növényvédelmi gépek felülvizsgálata[^32]
+## Növényvédelmi gépek felülvizsgálata[^33]
 
-## 1.[^33] A felülvizsgálatot az Intézet tanúsítványával rendelkező állomások végezhetik. A felülvizsgálatra kerülő növényvédelmi gépekkel szemben támasztott követelményeket, az ellenőrzési és vizsgálati módszereket, a felülvizsgálatok során alkalmazandó mérőeszközök és vizsgálóberendezések jellemzőit, továbbá a felülvizsgálatról készítendő jegyzőkönyv mintáját a 9. függelék tartalmazza.
+## 1.[^34] A felülvizsgálatot az Intézet tanúsítványával rendelkező állomások végezhetik. A felülvizsgálatra kerülő növényvédelmi gépekkel szemben támasztott követelményeket, az ellenőrzési és vizsgálati módszereket, a felülvizsgálatok során alkalmazandó mérőeszközök és vizsgálóberendezések jellemzőit, továbbá a felülvizsgálatról készítendő jegyzőkönyv mintáját a 9. függelék tartalmazza.
 
 ## 2. Az állomás működése akkor tanúsítható, ha
 
@@ -140,11 +140,11 @@
 
 ## c) a 9. függelék szerinti mérőberendezésekkel és eszközökkel rendelkezik.
 
-## 3.[^34] A növényvédelmi gépek felülvizsgálatára szóló jogosultság megszerzéséhez a 7. függelék szerinti pályázati űrlapot kell benyújtani az Intézethez, amely a kérelem alapján kiadja a 8. függelékben foglalt tanúsítványt meghatározott díj befizetését követően.
+## 3.[^35] A növényvédelmi gépek felülvizsgálatára szóló jogosultság megszerzéséhez a 7. függelék szerinti pályázati űrlapot kell benyújtani az Intézethez, amely a kérelem alapján kiadja a 8. függelékben foglalt tanúsítványt meghatározott díj befizetését követően.
 
-## 4.[^35] Felülvizsgálatra a növényvédelmi gép tulajdonosának a növényvédelmi gép működési engedélyének lejártát megelőzően kell jelentkeznie. A jelentkezést az állomás címére kell beküldeni, amely értesíti a növényvédelmi gép tulajdonosát a felülvizsgálat időpontjáról. A felülvizsgálat elvégzéséig a növényvédelmi gép rendeltetés szerint használható.
+## 4.[^36] Felülvizsgálatra a növényvédelmi gép tulajdonosának a növényvédelmi gép működési engedélyének lejártát megelőzően kell jelentkeznie. A jelentkezést az állomás címére kell beküldeni, amely értesíti a növényvédelmi gép tulajdonosát a felülvizsgálat időpontjáról. A felülvizsgálat elvégzéséig a növényvédelmi gép rendeltetés szerint használható.
 
-## 5.[^36] Ha a felülvizsgálat eredménye megfelelő, az állomás kiadja a 10. függelék szerinti, a növényvédelmi gép működési engedélyét igazoló matricát. Ha a növényvédelmi gép állapota a felülvizsgálat eredménye alapján nem megfelelő, a növényvédelmi gép működési engedélyt nem kaphat.
+## 5.[^37] Ha a felülvizsgálat eredménye megfelelő, az állomás kiadja a 10. függelék szerinti, a növényvédelmi gép működési engedélyét igazoló matricát. Ha a növényvédelmi gép állapota a felülvizsgálat eredménye alapján nem megfelelő, a növényvédelmi gép működési engedélyt nem kaphat.
 
 ## 1. függelék
 
@@ -400,10 +400,10 @@ A gépnek könnyen és alaposan tisztíthatónak kell lennie.
 
 A gyorsan kopó alkatrészeknek hozzáférhetőeknek és cserélhetőeknek kell lennie. A gépen meg kell adni a típusjelzést és a típusbesorolást, valamint a gyártás évét.
 
-[^30]: A 3. melléklet címe a 46/2012. (V. 8.) VM rendelet 4. § b) pontja szerint módosított szöveg.
-[^31]: A 3. melléklet 1. pontját a 46/2012. (V. 8.) VM rendelet 6. §-a hatályon kívül helyezte.
-[^32]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcíme a 46/2012. (V. 8.) VM rendelet 4. § c) pontja szerint módosított szöveg.
-[^33]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 1. pontja a 46/2012. (V. 8.) VM rendelet d) pontja szerint módosított szöveg.
-[^34]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 3. pontja a 46/2012. (V. 8.) VM rendelet e) pontja szerint módosított szöveg.
-[^35]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 4. pontja a 46/2012. (V. 8.) VM rendelet f) pontja szerint módosított szöveg.
-[^36]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 5. pontja a 46/2012. (V. 8.) VM rendelet f) pontja szerint módosított szöveg.
+[^31]: A 3. melléklet címe a 46/2012. (V. 8.) VM rendelet 4. § b) pontja szerint módosított szöveg.
+[^32]: A 3. melléklet 1. pontját a 46/2012. (V. 8.) VM rendelet 6. §-a hatályon kívül helyezte.
+[^33]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcíme a 46/2012. (V. 8.) VM rendelet 4. § c) pontja szerint módosított szöveg.
+[^34]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 1. pontja a 46/2012. (V. 8.) VM rendelet d) pontja szerint módosított szöveg.
+[^35]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 3. pontja a 46/2012. (V. 8.) VM rendelet e) pontja szerint módosított szöveg.
+[^36]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 4. pontja a 46/2012. (V. 8.) VM rendelet f) pontja szerint módosított szöveg.
+[^37]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 5. pontja a 46/2012. (V. 8.) VM rendelet f) pontja szerint módosított szöveg.

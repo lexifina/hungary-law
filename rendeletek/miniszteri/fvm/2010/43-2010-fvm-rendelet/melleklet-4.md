@@ -884,7 +884,7 @@
 
 ## A forgalomba hozatali engedély hatályosságát igazoló matrica mintája
 
-## 7. függelék[^37]
+## 7. függelék[^38]
 
 ## Pályázati űrlap mintája növényvédelmi gépek felülvizsgálatára szóló jogosultság megszerzéséhez
 
@@ -922,7 +922,7 @@
 
 ## aláírás
 
-## 8. függelék[^38]
+## 8. függelék[^39]
 
 ## Növényvédelmi gépek felülvizsgálatára jogosító tanúsítvány mintája
 
@@ -940,7 +940,7 @@
 
 ## aláírás
 
-## 9. függelék[^39]
+## 9. függelék[^40]
 
 ## Növényvédelmi gépek időszakos felülvizsgálata
 
@@ -1790,7 +1790,7 @@
 
 | a ha alkalmazható |
 
-## 10. függelék[^40]
+## 10. függelék[^41]
 
 ## Növényvédelmi gépek működési engedélyének igazolására szolgáló matrica mintája
 
@@ -1798,7 +1798,7 @@
 
 4. melléklet a 43/2010. (IV. 23.) FVM rendelethez
 
-[^37]: A 3. melléklet 7. függeléke a 46/2012. (V. 8.) VM rendelet e) pontja szerint módosított szöveg.
-[^38]: A 3. melléklet 8. függeléke a 46/2012. (V. 8.) VM rendelet c), g) és h) pontja szerint módosított szöveg.
-[^39]: A 3. melléklet 9. függeléke a 46/2012. (V. 8.) VM rendelet c) pontja szerint módosított szöveg.
-[^40]: A 3. melléklet 10. függeléke a 46/2012. (V. 8.) VM rendelet c) és i) pontja szerint módosított szöveg.
+[^38]: A 3. melléklet 7. függeléke a 46/2012. (V. 8.) VM rendelet e) pontja szerint módosított szöveg.
+[^39]: A 3. melléklet 8. függeléke a 46/2012. (V. 8.) VM rendelet c), g) és h) pontja szerint módosított szöveg.
+[^40]: A 3. melléklet 9. függeléke a 46/2012. (V. 8.) VM rendelet c) pontja szerint módosított szöveg.
+[^41]: A 3. melléklet 10. függeléke a 46/2012. (V. 8.) VM rendelet c) és i) pontja szerint módosított szöveg.
