@@ -52,6 +52,6 @@
 
 ## az óvodáztatási támogatást igénylő aláírása
 
-12. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^751]
+12. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^747]
 
-[^751]: A 12. számú mellékletet a 275/2008. (XI. 21.) Korm. rendelet 18. §-a iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^747]: A 12. számú mellékletet a 275/2008. (XI. 21.) Korm. rendelet 18. §-a iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.

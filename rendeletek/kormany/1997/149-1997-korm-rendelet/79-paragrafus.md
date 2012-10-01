@@ -4,7 +4,7 @@
 
 a) jóváhagyja az otthonteremtési támogatás iránti kérelemben megjelölt célt és a pénzfelhasználási tervet,
 
-b)[^350] rendelkezik az otthonteremtési támogatás összegéről és az igénybevétel módjáról, szükség esetén az otthonteremtési támogatás részletekben történő kifizetéséről [Gyvt. 26. § (2) bek.],
+b)[^346] rendelkezik az otthonteremtési támogatás összegéről és az igénybevétel módjáról, szükség esetén az otthonteremtési támogatás részletekben történő kifizetéséről [Gyvt. 26. § (2) bek.],
 
 c) kötelezi a támogatást igénybe vevő fiatal felnőttet és az utógondozót az együttműködésre,
 
@@ -16,4 +16,4 @@ f) figyelmezteti az otthonteremtési támogatásban részesített fiatal felnőt
 
 g) szükség szerint rendelkezik az elidegenítési tilalom bejegyzéséről.
 
-[^350]: A 79. § b) pontja a 173/2009. (VIII. 29.) Korm. rendelet 28. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^346]: A 79. § b) pontja a 173/2009. (VIII. 29.) Korm. rendelet 28. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

@@ -1,42 +1,32 @@
-## Adatlap
+## Adatlap a Gyvt. 20/A. § szerinti természetbeni támogatás igényléséhez
 
-## a pénzbeli támogatás igényléséhez
+## ........ év ....... tárgyhónap
 
-## ........ év ....... tárgyhónap
+## 1. Megye megnevezése:
 
-## 1. Megye megnevezése:
+## 2. Önkormányzat neve:
 
-## 2. Önkormányzat neve:
-
-## 3. KSH azonosító kódja:
+## 3. KSH azonosító kódja:
 
 ## (2 számjegyű megyekód + 5 számjegyű településazonosító)
 
-## 4. A tárgyhónapban pénzbeli támogatásban részesülő
+## 4. A tárgyhónapban természetbeni támogatásban részesülő
 
-## a) kiskorú gyermekek száma: ............. fő
+## a) kiskorú gyermekek száma: ............. fő
 
-## b) nagykorúak száma: ............... fő
+## b) nagykorúak száma: ............... fő
 
-## 5. A tárgyhónapban kifizetendő összes pénzbeli támogatás összege: ............. Ft
+## 5. A tárgyhónapban nyújtandó összes természetbeni támogatás összege: ............. Ft
 
-## 6. A tárgyhónapban történő visszafizetés: .............. Ft
-
-## (A Gyvt. 133. §-a alapján visszafizetett összeg)
-
-## 7. A kifizetés igényelt összege (100%) .................. Ft
-
-## (az 5. pont összegét csökkenteni kell a 6. pont összegével)
-
-## Dátum: ................ év ................ hó ....... nap
+## Dátum: ................ év ................ hó ....... nap
 
 ## P. H.
 
-## ......................................................................
+## ..............................................................
 
 ## jegyző aláírása
 
-5. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^740]
+5. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^736]
 
 ## Adatlap a kiegészítő gyermekvédelmi támogatás címén igénybe vehető előleg igényléséhez
 
@@ -90,4 +80,4 @@ P. H.
 
 a jegyző aláírása
 
-[^740]: Az új 5. számú mellékletet az 57/2006. (III. 21.) Korm. rendelet 15. § (4) bekezdése iktatta be, egyidejűleg az eredeti 5. számú melléklet számozását 7. számú mellékletre változtatva. Alkalmazására lásd e módosító rendelet 16. § (4) bekezdését.
+[^736]: Az új 5. számú mellékletet az 57/2006. (III. 21.) Korm. rendelet 15. § (4) bekezdése iktatta be, egyidejűleg az eredeti 5. számú melléklet számozását 7. számú mellékletre változtatva. Alkalmazására lásd e módosító rendelet 16. § (4) bekezdését.

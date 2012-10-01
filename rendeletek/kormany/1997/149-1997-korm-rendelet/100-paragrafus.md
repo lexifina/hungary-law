@@ -6,9 +6,9 @@ a) feltárja azokat a körülményeket, amelyek a szülőt akadályozzák a gyer
 
 b) feltárja a gyermek személyiségével, neveltségi és egészségi állapotával kapcsolatos körülményeket,
 
-c)[^474] beszerzi a gyermekjóléti szolgálatnál, illetve a gyámügyi hatáskörben eljáró jegyzőnél keletkezett iratokat, valamint felkéri az illetékes jegyzőt a gyermek ingó- és ingatlanvagyonának leltározására,
+c)[^470] beszerzi a gyermekjóléti szolgálatnál, illetve a gyámügyi hatáskörben eljáró jegyzőnél keletkezett iratokat, valamint felkéri az illetékes jegyzőt a gyermek ingó- és ingatlanvagyonának leltározására,
 
-d)[^475] meghallgatja a szülőt a gyermek iskolájának, életpályájának, illetve tartózkodási helyének kijelölésével kapcsolatban és nyilatkoztatja azokról az adatokról, amelyek a gyermek után járó ellátások igénybevételéhez szükségesek,
+d)[^471] meghallgatja a szülőt a gyermek iskolájának, életpályájának, illetve tartózkodási helyének kijelölésével kapcsolatban és nyilatkoztatja azokról az adatokról, amelyek a gyermek után járó ellátások igénybevételéhez szükségesek,
 
 e) javaslatot szerez be a gyermek gondozási helyének meghatározásához,
 
@@ -16,13 +16,13 @@ f) beszerzi a szülő vagy tartásra köteles más személy jövedelmi és vagyo
 
 g) a gyermek tartózkodási helyén környezettanulmányt készít,
 
-h)[^476] beszerzi a gyermek születési anyakönyvi másolatát, és ha szükséges eljár az 54. § (1) bekezdése alapján.
+h)[^472] beszerzi a gyermek születési anyakönyvi másolatát, és ha szükséges eljár az 54. § (1) bekezdése alapján.
 
-i)[^477]
+i)[^473]
 
 (3) A gyámhivatal a (2) bekezdés b) pontjában foglaltak vizsgálata során szükség esetén beszerzi a Gyvt. 132. §-ának (1) bekezdésében meghatározott szerv vagy személy szakvéleményét. A gyámhivatal indokolt esetben a szakértőket közös szakvélemény elkészítésére kérheti fel vagy őket együttesen hallgathatja meg.
 
-[^474]: A 100. § (2) bekezdésének c) pontja a 14/2003. (II. 12.) Korm. rendelet 59. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^475]: A 100. § (2) bekezdésének d) pontja a 14/2003. (II. 12.) Korm. rendelet 59. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^476]: A 100. § (2) bekezdésének h) pontja a 14/2003. (II. 12.) Korm. rendelet 59. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^477]: A 100. § (2) bekezdésének i) pontját a 14/2003. (II. 12.) Korm. rendelet 99. §-a (1) bekezdésének b) pontja hatályon kívül helyezte.
+[^470]: A 100. § (2) bekezdésének c) pontja a 14/2003. (II. 12.) Korm. rendelet 59. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^471]: A 100. § (2) bekezdésének d) pontja a 14/2003. (II. 12.) Korm. rendelet 59. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^472]: A 100. § (2) bekezdésének h) pontja a 14/2003. (II. 12.) Korm. rendelet 59. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^473]: A 100. § (2) bekezdésének i) pontját a 14/2003. (II. 12.) Korm. rendelet 99. §-a (1) bekezdésének b) pontja hatályon kívül helyezte.

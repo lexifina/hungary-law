@@ -1,6 +1,6 @@
 ## kifizeti az óvodáztatási támogatásra jogosult részére.
 
-68/L. §[^307] (1) A települési önkormányzat jegyzője a 68/K. § alapján igényelt előleggel
+68/L. §[^303] (1) A települési önkormányzat jegyzője a 68/K. § alapján igényelt előleggel
 
 a) a tárgyév június 5-ig kifizetett óvodáztatási támogatás esetében a tárgyév június 13-ig,
 
@@ -26,4 +26,4 @@ b) a tárgyév december 5-ig kifizetett óvodáztatási támogatás esetében a 
 
 (4) Ha a tárgyhónapban kifizetett óvodáztatási támogatás összege alacsonyabb, mint a 68/K. § alapján igényelt előleg összege, a települési önkormányzat a különbözetet az államháztartásról szóló 1992. évi XXXVIII. törvényben foglaltak szerint köteles visszafizetni a központi költségvetés felé.
 
-[^307]: A 68/L. §-t a 275/2008. (XI. 21.) Korm. rendelet 8. §-a iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^303]: A 68/L. §-t a 275/2008. (XI. 21.) Korm. rendelet 8. §-a iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.

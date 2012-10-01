@@ -1,12 +1,12 @@
-## Eljárás a tartásdíj külföldön való behajtása tárgyában New Yorkban, az 1956. évi június hó 20. napján kelt egyezmény alapján előterjesztett kérelmek ügyében[^711]
+## Eljárás a tartásdíj külföldön való behajtása tárgyában New Yorkban, az 1956. évi június hó 20. napján kelt egyezmény alapján előterjesztett kérelmek ügyében[^707]
 
-170. §[^712] (1)[^713] Ha a külföldön lakó vagy tartózkodó személy által Magyarországon lakó vagy tartózkodó személy ellen tartásdíjigény érvényesítése iránti eljárás indul, és a külföldön lakó vagy tartózkodó személy olyan államnak a polgára, illetve lakóhelye vagy tartózkodási helye olyan államban van, amellyel a tartásdíj külföldön való behajtása tárgyában New Yorkban, az 1956. évi június hó 20. napján kelt egyezmény kerül alkalmazásra, a kérelmet a miniszterhez, mint kijelölt átvevő hatósághoz (a továbbiakban: átvevő hatóság) kell benyújtani.
+170. §[^708] (1)[^709] Ha a külföldön lakó vagy tartózkodó személy által Magyarországon lakó vagy tartózkodó személy ellen tartásdíjigény érvényesítése iránti eljárás indul, és a külföldön lakó vagy tartózkodó személy olyan államnak a polgára, illetve lakóhelye vagy tartózkodási helye olyan államban van, amellyel a tartásdíj külföldön való behajtása tárgyában New Yorkban, az 1956. évi június hó 20. napján kelt egyezmény kerül alkalmazásra, a kérelmet a miniszterhez, mint kijelölt átvevő hatósághoz (a továbbiakban: átvevő hatóság) kell benyújtani.
 
 (2) Az átvevő hatóság a kérelmet továbbítja az elsőfokú gyámhatósághoz.
 
 (3) Az átvevő hatóság megkeresése alapján az eljárás lefolytatására az a gyámhatóság illetékes, amelynek a területén van annak a személynek a lakóhelye, ennek hiányában tartózkodási helye, aki ellen az igényt érvényesíteni kívánják.
 
-(4)[^714]
+(4)[^710]
 
 (5) A jegyző a külföldön lakó vagy tartózkodó személy tartásdíj iránti igényének érvényesítésével kapcsolatos ügyben a belföldi adós meghallgatásáról soron kívül intézkedik.
 
@@ -18,7 +18,7 @@
 
 (9) A gyámhatóság a tartásdíj iránti igény érvényesítése ügyében folytatott eljárási cselekményeiről jelentést tesz a miniszternek.
 
-[^711]: A 170. §-t megelőző alcímet a 140/2011. (VII. 21.) Korm. rendelet 17. §-a iktatta be.
-[^712]: A 170. § a 173/2009. (VIII. 29.) Korm. rendelet 45. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^713]: A 170. § (1) bekezdése a 140/2011. (VII. 21.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^714]: A 170. § (4) bekezdését a 140/2011. (VII. 21.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^707]: A 170. §-t megelőző alcímet a 140/2011. (VII. 21.) Korm. rendelet 17. §-a iktatta be.
+[^708]: A 170. § a 173/2009. (VIII. 29.) Korm. rendelet 45. §-ával megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^709]: A 170. § (1) bekezdése a 140/2011. (VII. 21.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^710]: A 170. § (4) bekezdését a 140/2011. (VII. 21.) Korm. rendelet 20. §-a hatályon kívül helyezte.

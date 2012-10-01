@@ -1,37 +1,92 @@
-## Pénzbeli támogatás[^268]
+## Természetbeni támogatás[^268]
 
-68. §[^269] (1)[^270] A Gyvt. 20/A. §-ában meghatározott pénzbeli támogatás folyósításáról nem kell döntést hozni.
+68. §[^269] (1) A Gyvt. 20/A. §-ában meghatározott természetbeni támogatás (a továbbiakban: támogatás) nyújtásáról nem kell döntést hozni.
 
-(2)[^271] A települési önkormányzat jegyzője a 4. számú melléklet szerinti adatlapon
+(2) A jegyző a 4. számú melléklet szerinti adatlapon
 
-a) a tárgyév augusztus hónapjában esedékes pénzbeli támogatás folyósításához a tárgyév augusztus 10-éig,
+a) a tárgyév augusztus hónapjára tekintettel járó támogatás nyújtásához tárgyév augusztus 7-éig,
 
-b) a tárgyév november hónapjában esedékes pénzbeli támogatás folyósításához a tárgyév november 10-éig
+b) a tárgyév november hónapjára tekintettel járó támogatás nyújtásához tárgyév november 7-éig
 
-## értesíti a Magyar Államkincstár területi szervét (a továbbiakban: Igazgatóság) a Gyvt. 20/A. §-a alapján megállapított pénzbeli támogatás összegéről.
+## értesíti a Magyar Államkincstár területi szervét (a továbbiakban: Igazgatóság) a Gyvt. 20/A. §-a alapján megállapított támogatás összegéről.
 
-(3)[^272] Az Igazgatóság a beérkezett adatokat feldolgozza, és a Magyar Államkincstár az összesített adatokat
+(3) Az Igazgatóság a beérkezett adatokat feldolgozza, és a Magyar Államkincstár az összesített adatokat
 
-a) a tárgyév augusztus hónapjában esedékes pénzbeli támogatás folyósításához a tárgyév augusztus 18-áig,
+a) a tárgyév augusztus hónapjára tekintettel járó támogatás nyújtásához tárgyév augusztus 13-áig,
 
-b) a tárgyév november hónapjában esedékes pénzbeli támogatás folyósításához a tárgyév november 18-áig
+b) a tárgyév november hónapjára tekintettel járó támogatás nyújtásához tárgyév november 13-áig
 
 ## megyénként, önkormányzatonkénti bontásban – számítógépes hálózaton – megküldi a miniszter által vezetett Minisztériumnak (a továbbiakban: Minisztérium).
 
-(4)[^273] A Minisztérium
+(4) Az Igazgatóság a (2) bekezdés szerinti adatokat – településsoros bontásban –, a (3) bekezdésben meghatározott határidőig továbbítja a Nemzeti Üdülési Szolgálat Korlátolt Felelősségű Társaság (a továbbiakban: Üdülési Szolgálat) részére az Erzsébet-utalványok előállítása érdekében.
 
-a) a tárgyév augusztus hónapjában esedékes pénzbeli támogatás folyósításához a tárgyév augusztus 21-éig,
+(5) A Minisztérium
 
-b) a tárgyév november hónapjában esedékes pénzbeli támogatás folyósításához a tárgyév november 21-éig
+a) a tárgyév augusztus hónapjára tekintettel járó támogatás nyújtásához tárgyév augusztus 17-éig,
 
-## rendelkezik a Magyar Államkincstár felé a 4. számú melléklet szerint igényelt támogatásoknak a települési önkormányzatok részére történő átutalásáról.
+b) a tárgyév november hónapjára tekintettel járó támogatás nyújtásához tárgyév november 17-éig
 
-(5)[^274] A települési önkormányzat által a (2) bekezdésben meghatározott határidőn túl legfeljebb harminc nappal benyújtott igény teljesítéséről a miniszter dönt. E határidő elmulasztása jogvesztő.
+## rendelkezik a Magyar Államkincstár felé a 4. számú melléklet szerint igényelt támogatási összegnek az Üdülési Szolgálat részére történő átutalásáról.
 
-[^268]: A 68. §-t megelőző alcím az 57/2006. (III. 21.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^269]: A 68. § az 57/2006. (III. 21.) Korm. rendelet 6. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 16. §-ának (4) bekezdését.
-[^270]: A 68. § (1) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 38. pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^271]: A 68. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^272]: A 68. § (3) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^273]: A 68. § (4) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^274]: A 68. § (5) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+(6) A Magyar Államkincstár a Minisztérium (5) bekezdés szerinti rendelkezése alapján
+
+a) a tárgyév augusztus hónapjára tekintettel járó támogatás nyújtásához tárgyév augusztus 21-éig,
+
+b) a tárgyév november hónapjára tekintettel járó támogatás nyújtásához tárgyév november 21-éig
+
+intézkedik a 4. számú melléklet szerint igényelt támogatási összegnek az Üdülési Szolgálat részére történő átutalásáról.
+
+(7) Az Üdülési Szolgálat
+
+a) a tárgyév augusztus hónapjára tekintettel járó támogatás nyújtásához tárgyév augusztus 24-éig,
+
+b) a tárgyév november hónapjára tekintettel járó támogatás nyújtásához tárgyév november 24-éig
+
+eljuttatja a települési önkormányzatok részére az Erzsébet-utalványokat.
+
+(8) Az Erzsébet-utalvány jogosultak részére történő haladéktalan kézbesítéséről – igazolható módon – a jegyző postai úton, személyes átadás vagy hatósági kézbesítő útján gondoskodik.
+
+(9) Az Üdülési Szolgálat, illetve a települési önkormányzat az Erzsébet-utalvány jogosultak részére történő közvetlen kézbesítéséről harmadik féllel kötött megállapodás alapján is gondoskodhat.
+
+(10) A jegyző
+
+a) a tárgyév augusztus hónapjára tekintettel járó támogatás nyújtásához tárgyév szeptember 7-éig,
+
+b) a tárgyév november hónapjára tekintettel járó támogatás nyújtásához tárgyév december 7-éig
+
+pótigényt nyújthat be azzal, hogy pótigény különösen azon jogosult tekintetében nyújtható be, akinek a Gyvt. 20/A. § (1) bekezdésében meghatározott időpontban fennálló jogosultságát jogerősen a (2) bekezdés szerinti időpontot követően állapították meg, illetve akinek tekintetében a természetbeni támogatás nyújtására a jegyző a (2) bekezdés szerinti időpontot követően vált illetékessé.
+
+(11) A pótigény benyújtására nyitva álló határidő elmulasztása az igénylés tekintetében jogvesztő azzal, hogy ez a jegyzőnek a természetbeni támogatás nyújtására előírt kötelezettségét nem érinti.
+
+(12) A pótigény teljesítésére irányadó határidők a (3)–(7) bekezdésben meghatározott hónapot követő hónap azonos napján járnak le.
+
+(13) Az Üdülési Szolgálat az Erzsébet-utalványt térítésmentesen – az utalvány ellenértékének a Magyar Államkincstár részére történő visszatérítése mellett – visszaváltja, ha az utalványt nem lehet kézbesíteni, mert
+
+a) a jogosultságot a kézbesítést megelőzően – a Gyvt. 20/A. § (1) bekezdése szerinti időpontra visszamenőlegesen – meg kellett szüntetni,
+
+b) a jegyző illetékessége az igénylést követően megszűnt, vagy
+
+c) a jogosult az Erzsébet-utalványt annak a települési önkormányzathoz történő megérkezését vagy – a (9) bekezdés szerinti megállapodás alapján közvetlenül kézbesített utalvány esetében – a kézbesítés megkísérlését követő két hónapon belül nem vette át.
+
+(14) A jegyző a (13) bekezdés szerint visszaváltással érintett Erzsébet-utalványt – ideértve a (9) bekezdés szerinti megállapodás alapján megkísérelt közvetlen kézbesítés meghiúsulását követően a települési önkormányzatnál letétbe helyezett utalványt is –
+
+a) a tárgyév augusztus hónapjára tekintettel járó támogatás esetén tárgyév december 10-éig,
+
+b) a tárgyév november hónapjára tekintettel járó támogatás esetén tárgyévet követő év március 15-éig
+
+az Üdülési Szolgálat részére – igazolható módon – eljuttatja és erről írásban visszaváltási adatközlést teljesít.
+
+(15) A visszaváltási adatközlés keretében a jegyző megjelöli az Erzsébet-utalványok tömb szerinti darabszámát, és az érintett tömb(ök) sorszámát. A visszaváltott utalványok ellenértékéről a jegyző az Igazgatóságot a visszaváltási adatközlés teljesítésével egyidejűleg elektronikus úton is tájékoztatja.
+
+(16) Az Üdülési Szolgálat a (13) bekezdés szerint átvett Erzsébet-utalványok ellenértékét a Magyar Államkincstár részére
+
+a) a (14) bekezdés a) pontja szerinti esetben tárgyév december 20-áig,
+
+b) a (14) bekezdés b) pontja szerinti esetben a tárgyévet követő év március 31-éig
+
+## visszatéríti.
+
+(17) A Magyar Államkincstár a (16) bekezdés szerinti határidők lejártát követő 10 munkanapon belül tájékoztatja a Minisztériumot a visszaváltott utalványok ellenértékéről.
+
+[^268]: A 68. §-t megelőző alcím a 236/2012. (VIII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^269]: A 68. § a 236/2012. (VIII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

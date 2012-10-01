@@ -1,4 +1,4 @@
-91/H. §[^431] (1) A jegyző az iskoláztatási támogatás szüneteltetése szükségességének felülvizsgálata során tájékoztatást kér a nevelési-oktatási intézmény igazgatójától arról, hogy
+91/H. §[^427] (1) A jegyző az iskoláztatási támogatás szüneteltetése szükségességének felülvizsgálata során tájékoztatást kér a nevelési-oktatási intézmény igazgatójától arról, hogy
 
 a) a felülvizsgálattal érintett időszakban a gyermek (fiatal felnőtt) hány kötelező tanórai foglalkozást mulasztott igazolatlanul és
 
@@ -14,4 +14,4 @@ b) a tárgyév szeptember 1-je, ha a szüneteltetést elrendelő döntés joger�
 
 (4) A jegyző a felülvizsgálati eljárás során hozott határozatáról – védelembe vett gyermek esetén – tájékoztatja a kirendelt családgondozót.
 
-[^431]: A 91/H. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^427]: A 91/H. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

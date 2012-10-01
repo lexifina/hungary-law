@@ -1,6 +1,6 @@
-10. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^745]
+10. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^741]
 
-## Tartalmi követelmények a települési önkormányzat és a megyei fenntartó számára, a Gyvt. 96. §-ának (6) bekezdésében előírt átfogó értékelés elkészítéséhez[^746]
+## Tartalmi követelmények a települési önkormányzat és a megyei fenntartó számára, a Gyvt. 96. §-ának (6) bekezdésében előírt átfogó értékelés elkészítéséhez[^742]
 
 I. A települési önkormányzat által készítendő átfogó értékelés tartalmi követelményei:
 
@@ -14,7 +14,7 @@ I. A települési önkormányzat által készítendő átfogó értékelés tart
 
 – gyermekétkeztetés megoldásának módjai, kedvezményben részesülőkre vonatkozó statisztikai adatok.
 
-3.[^747] Az önkormányzat által biztosított személyes gondoskodást nyújtó ellátások bemutatása:
+3.[^743] Az önkormányzat által biztosított személyes gondoskodást nyújtó ellátások bemutatása:
 
 – gyermekjóléti szolgáltatás biztosításának módja, működésének tapasztalata (alapellátásban részesülők száma, gyermekek veszélyeztetettségének okai, válsághelyzetben levő várandós anyák gondozása, családjából kiemelt gyermek szüleinek gondozása, jelzőrendszer tagjaival való együttműködés tapasztalatai),
 
@@ -36,9 +36,9 @@ I. A települési önkormányzat által készítendő átfogó értékelés tart
 
 9. A települési önkormányzat és a civil szervezetek közötti együttműködés keretében milyen feladatok, szolgáltatások ellátásában vesznek részt civil szervezetek (alapellátás, szakellátás, szabadidős programok, drogprevenció stb.).
 
-II. A megyei fenntartó által készítendő átfogó értékelés tartalmi követelményei[^748]
+II. A megyei fenntartó által készítendő átfogó értékelés tartalmi követelményei[^744]
 
-1.[^749] A megyei fenntartó által fenntartott, szakellátást (esetleg alapellátást) nyújtó intézményhálózat bemutatása, különös tekintettel a Gyvt.-ben előírtak teljesítésére.
+1.[^745] A megyei fenntartó által fenntartott, szakellátást (esetleg alapellátást) nyújtó intézményhálózat bemutatása, különös tekintettel a Gyvt.-ben előírtak teljesítésére.
 
 2. Ellátásban részesülők száma, korcsoportok szerinti megoszlása, tendenciák.
 
@@ -48,8 +48,8 @@ II. A megyei fenntartó által készítendő átfogó értékelés tartalmi köv
 
 5. Jövőre vonatkozó célok, javaslatok, elképzelések (milyen típusú intézmények kialakítására, átalakítására, fejlesztésére lenne szükség a gyermekek szükségletei alapján, milyen területeken tervezik bevonni a civil szervezeteket a szakellátás feladatainak ellátásába).
 
-[^745]: A 8. számú mellékletet a 203/2003. (XII. 10.) Korm. rendelet 15. § (2) bekezdése iktatta be, szövege a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított szöveg. Az eredeti 8. számú melléklet számozását az 57/2006. (III. 21.) Korm. rendelet 15. § (4) bekezdése 10. mellékletre változtatta.
-[^746]: A 10. melléklet címe a 258/2011. (XII. 7.) Korm. rendelet 44. § (6) bekezdése szerint módosított szöveg.
-[^747]: A 10. számú melléklet I/3. pontja a 360/2010. (XII. 30.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
-[^748]: A 10. melléklet II. rész címe a 258/2011. (XII. 7.) Korm. rendelet 44. § (6) bekezdése szerint módosított szöveg.
-[^749]: A 10. melléklet II. rész 1. pontja a 258/2011. (XII. 7.) Korm. rendelet 44. § (6) bekezdése szerint módosított szöveg.
+[^741]: A 8. számú mellékletet a 203/2003. (XII. 10.) Korm. rendelet 15. § (2) bekezdése iktatta be, szövege a 315/2005. (XII. 25.) Korm. rendelet 77. §-ával megállapított szöveg. Az eredeti 8. számú melléklet számozását az 57/2006. (III. 21.) Korm. rendelet 15. § (4) bekezdése 10. mellékletre változtatta.
+[^742]: A 10. melléklet címe a 258/2011. (XII. 7.) Korm. rendelet 44. § (6) bekezdése szerint módosított szöveg.
+[^743]: A 10. számú melléklet I/3. pontja a 360/2010. (XII. 30.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
+[^744]: A 10. melléklet II. rész címe a 258/2011. (XII. 7.) Korm. rendelet 44. § (6) bekezdése szerint módosított szöveg.
+[^745]: A 10. melléklet II. rész 1. pontja a 258/2011. (XII. 7.) Korm. rendelet 44. § (6) bekezdése szerint módosított szöveg.
