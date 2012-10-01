@@ -4,7 +4,7 @@
 
 (2) Azokra az állami vezetőkre, akiknek megbízatása e törvény hatálybalépését megelőzően szűnt meg, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény rendelkezéseit kell alkalmazni a 12/A. § kivételével.
 
-(3)
+(3) A 13. § (3a) bekezdését a hatálybalépése előtt megállapított hozzátartozói nyugellátásra is alkalmazni kell az 1990. május 23-át követően miniszterelnöki tisztséget betöltött személy hozzátartozója esetében.
 
 (4) Az e törvény hatálybalépését megelőzően a központi államigazgatási szervek, valamint területi és helyi szerveik, továbbá a minisztérium főosztályának vezetésére adott vezetői megbízásokra a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 31. § (10)–(17) bekezdésének e törvény hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
 

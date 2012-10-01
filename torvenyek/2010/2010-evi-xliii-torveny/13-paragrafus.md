@@ -10,6 +10,8 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 (3) A miniszterelnök halála esetén házastársát, ennek hiányában élettársát (a továbbiakban együtt: özvegy) – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a miniszterelnök hathavi illetményének megfelelő összegű juttatás illeti meg. A miniszter és az államtitkár halála esetén a (2) és (4) bekezdés szerinti juttatás a miniszter és az államtitkár özvegyét – özvegy hiányában a miniszter és az államtitkár örökösét, több örökös esetén örököseit – illeti meg.
 
+(3a) A miniszterelnök halála esetén a rá tekintettel járó hozzátartozói nyugellátás megállapítása szempontjából a mindenkori miniszterelnöki illetmény havi összegét kell a miniszterelnök öregségi nyugdíjaként figyelembe venni.
+
 (4) Ha a politikai vezető megbízatása a (2) bekezdésben meghatározott okokból
 
 a) miniszterelnök esetében két évnél,
