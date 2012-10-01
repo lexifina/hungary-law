@@ -658,7 +658,7 @@ Elnök: dr. Molnár Zsolt (MSZP)[^95]
 
 Alelnök:
 
-Gulyás Gergely (Fidesz)[^96]
+Németh Szilárd István (Fidesz)[^96]
 
 Tagok:
 
@@ -670,7 +670,7 @@ dr. Kocsis Máté (Fidesz)[^98]
 
 Meggyes Tamás (Fidesz)[^99]
 
-Németh Szilárd István (Fidesz)[^100]
+Gulyás Gergely (Fidesz)[^100]
 
 Móring József Attila (KDNP)[^101]
 
@@ -1073,11 +1073,11 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^93]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^94]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával elrendelt – Nemzetbiztonsági bizottságra vonatkozó – módosítás nem vezethető át.
 [^95]: A 86/2011. (XI. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^96]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
+[^96]: A 64/2012. (X. 4.) OGY határozat 1. pontjával megállapított szöveg.
 [^97]: A 82/2010. (IX. 15.) OGY határozat 1. pontjával megállapított szöveg.
 [^98]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^99]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^100]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
+[^100]: A 64/2012. (X. 4.) OGY határozat 1. pontjával megállapított szöveg.
 [^101]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^102]: A 28/2010. (VI. 2.) OGY határozat 1. pontjával megállapított szöveg.
 [^103]: A 123/2010. (XII. 14.) OGY határozat 1. pontjával megállapított szöveg.
