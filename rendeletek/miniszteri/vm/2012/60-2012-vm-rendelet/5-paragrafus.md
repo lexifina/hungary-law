@@ -1,6 +1,6 @@
 ## 5. A támogatási kérelem benyújtása
 
-5. § (1) A támogatási kérelmet 2012. szeptember 1–30. között lehet benyújtani az MVH által rendszeresített formanyomtatványon elektronikus úton, ügyfélkapun keresztül az MVH-hoz.
+5. § (1)[^1] A támogatási kérelmet 2012. szeptember 1-je és október 8-a 16 óra 30 perc között lehet benyújtani az MVH által rendszeresített formanyomtatványon elektronikus úton, ügyfélkapun keresztül az MVH-hoz.
 
 (2) Az elektronikus formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresítenie:
 
@@ -27,3 +27,5 @@ g) az ügyfél hozzájárulása ahhoz, hogy a támogatási eljárás lebonyolít
 (6) Az MVH a támogatási kérelem benyújtására nyitva álló időszak után, a feldolgozást követően elektronikus formában átadja a beérkezett támogatási kérelmek adatait a NAKVI részére.
 
 (7) A támogatási kérelem benyújtási időszakot követően hiánypótlásnak helye nincs.
+
+[^1]: Az 5. § (1) bekezdése a 104/2012. (X. 1.) VM rendelet 12. §-ával megállapított szöveg.
