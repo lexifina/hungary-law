@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-50-00-00
 | 2012-03-15 | 2011. évi CLXXX. törvény | 2009-50-00-00.13 |
 | 2012-04-28 | 2012. évi XXXVIII. törvény | 2009-50-00-00.14 |
 | 2012-07-24 | 2012. évi CXVII. törvény | 2009-50-00-00.15 |
+| 2012-10-01 | 2012. évi CXVII. törvény | 2009-50-00-00.16 |
