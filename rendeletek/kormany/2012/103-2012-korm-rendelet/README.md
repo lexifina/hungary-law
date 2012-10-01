@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-103-20-
 | 2012-07-02 | 2012-103-20-22.2 | 2010: CXXX. törvény |
 | 2012-07-28 | 2012-103-20-22.3 | 210/2012. (VII. 27.) Korm. rendelet |
 | 2012-09-30 | 2012-103-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2012-10-01 | 2012-103-20-22.5 | 118/2016. (VI. 6.) Korm. rendelet |
