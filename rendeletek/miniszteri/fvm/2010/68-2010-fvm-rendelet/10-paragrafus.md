@@ -1,1 +1,0 @@
-## 9. § A 2010. január 1-je előtt állami elismerésben részesített új szőlőfajtáknak az állami elismerés idején meglévő vírustesztelt klónjai kérelemre egyszerűsített eljárás alapján Nemzeti Fajtajegyzékre vehetők. A kérelem benyújtásának határideje 2010. december 31. A klónok elfogadásáról az MgSzH Központ a rendelkezésre álló prebázis törzsültetvények vizsgálata alapján dönt.
