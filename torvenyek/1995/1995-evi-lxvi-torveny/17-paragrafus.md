@@ -1,6 +1,28 @@
-17. § (1) A Magyar Országos Levéltár központi általános levéltár. Illetékességi körébe tartozik a köztársasági elnöknek és hivatalának, az Országgyűlésnek és hivatalának, továbbá az Alapvető Jogok Biztosa Hivatalának, az Alkotmánybíróságnak, a miniszterelnöknek, a 19. § (2) bekezdésében meghatározott kivétellel a központi államigazgatási szerveknek, valamint – a központi államigazgatási szervek területi szervei, a rendőrség, a hivatásos katasztrófavédelmi szerv és a büntetés-végrehajtási szervezet kivételével – a központi államigazgatási szervek közvetlen felügyelete és irányítása alatt működő egyéb állami szerveknek, a Kúriának, a Legfőbb Ügyészségnek, az Állami Számvevőszéknek, a Magyar Nemzeti Banknak, valamint mindezen szervek jogelődeinek levéltári anyaga, továbbá minden, levéltárral nem rendelkező országos köztestület és közalapítvány levéltári anyaga.
+17. § (1) A Magyar Nemzeti Levéltár központi általános levéltár, amely megyei szervezeti egységekkel (tagintézményekkel) rendelkezik. A tagintézmény
 
-(2) A Magyar Országos Levéltár a 13. §-ban meghatározott feladatokon kívül
+a) megyei szinten ellátja a Magyar Nemzeti Levéltár feladatait,
+
+b) a Magyar Nemzeti Levéltár költségvetésén belül az egyes tagintézmények szakmai feladatainak figyelembevételével meghatározott éves elkülönített költségvetési kerettel működik,
+
+c) vezetőjét (igazgatóját) a Magyar Nemzeti Levéltár főigazgatója nevezi ki a kultúráért felelős miniszter egyetértésével.
+
+(1a) A Magyar Nemzeti Levéltár illetékességébe tartozik – a 18. § (2) bekezdésében és 19. § (2) bekezdésében meghatározott kivétellel –
+
+a) a köztársasági elnök és Hivatala, az Országgyűlés és Hivatala, az Alapvető Jogok Biztosának Hivatala, az Alkotmánybíróság és Hivatala, a Kúria, a Legfőbb Ügyészség, az Állami Számvevőszék, a Magyar Nemzeti Bank,
+
+b) a miniszterelnök és a központi államigazgatási szerv,
+
+c) a központi államigazgatási szerv területi szervei és a rendvédelmi szerv,
+
+d) a levéltárral nem rendelkező országos köztestület és közalapítvány,
+
+e) a helyi önkormányzat és a nemzetiségi önkormányzat testülete, hivatala és intézménye, továbbá
+
+f) az a)–e) pontban meghatározott szervek jogelőd szervei
+
+levéltári anyaga, valamint minden olyan levéltári anyag, amely nem tartozik más levéltár illetékességi körébe.
+
+(2) A Magyar Nemzeti Levéltár a 13. §-ban meghatározott feladatokon kívül
 
 a) a külön jogszabályban meghatározott szakmai követelmények érvényesítése érdekében módszertani ajánlásokat és egyéb segédanyagokat dolgoz ki, s azokat a kultúráért felelős miniszter egyetértésével közzéteszi.
 

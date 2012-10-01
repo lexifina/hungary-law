@@ -10,23 +10,23 @@ b) rendelkezzék a levéltári anyag rendszeres átvételét biztosító, zárt,
 
 (3) A közlevéltár vezetőjét pályázat útján
 
-a) a Magyar Országos Levéltár esetében a kultúráért felelős miniszter,
+a) a Magyar Nemzeti Levéltár esetében a kultúráért felelős miniszter,
 
-b) a megyei levéltárak esetében a kultúráért felelős miniszter egyetértésével a fenntartó,
+b) a Budapest Főváros Önkormányzata által fenntartott levéltár esetében a kultúráért felelős miniszter egyetértésével a fenntartó,
 
-c) az állami szaklevéltárak, a települési önkormányzatok, a köztestületek, a közalapítványok, és az egyéb közfeladatot ellátó szervek levéltárai esetében a kultúráért felelős miniszter véleményének kikérésével a fenntartó
+c) az állami szaklevéltár, a települési önkormányzat, a köztestület, a közalapítvány és az egyéb közfeladatot ellátó szerv levéltára esetében a kultúráért felelős miniszter véleményének kikérésével a fenntartó
 
-nevezi ki, illetve menti fel.
+nevezi ki és menti fel.
 
-(4) A megyei levéltár alapító okiratának, szervezeti és működési szabályzatának elfogadásához és módosításához a kultúráért felelős miniszter előzetes egyetértése szükséges.
+(4) A Budapest Főváros Önkormányzata által fenntartott levéltár alapító okiratának, szervezeti és működési szabályzatának elfogadásához és módosításához a kultúráért felelős miniszter előzetes egyetértése szükséges.
 
-(5) A megyei levéltárak
+(5) A Budapest Főváros Önkormányzata által fenntartott levéltár
 
-a) stratégiai terve, éves szakmai feladatainak meghatározása ,
+a) stratégiai terve, éves szakmai feladatainak meghatározása,
 
 b) munkatervének, beszámolójának elfogadása,
 
-c) költségvetésének feladatalapú tervezése,
+c) költségvetésének feladatalapú tervezése, és
 
 d) fejlesztési és beruházási feladatainak meghatározása
 

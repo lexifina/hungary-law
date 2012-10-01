@@ -4,9 +4,9 @@
 
 a) a kutatás — a kérelmező költségére — anonimizált másolattal is megvalósítható, vagy
 
-b) a kutatáshoz az érintett, illetőleg annak halálát követően bármely örököse vagy hozzátartozója a kutató kérésére hozzájárult, vagy
+b) a kutatáshoz az érintett, vagy annak halálát követően bármely örököse vagy hozzátartozója a kutató kérésére hozzájárult, vagy
 
-c) a kutatásra tudományos célból van szükség — feltéve, hogy a 22. §-a (1) bekezdésében meghatározott harminc, illetőleg tizenöt év már eltelt — és a kutató a (3) és (4) bekezdésben meghatározott követelményeknek eleget tesz.
+c) a kutatásra tudományos célból van szükség — feltéve, hogy a 22. § (1) bekezdésében meghatározott harminc, illetve tizenöt év már eltelt — és a kutató a (3) és (4) bekezdésben meghatározott követelményeknek eleget tesz.
 
 (3) A közlevéltár a (2) bekezdés c) pontja szerinti tudományos célú kutatást akkor köteles engedélyezni, ha a kutató csatolja a tudományos kutatást rendeltetésszerűen végző, közfeladatot ellátó szervnek — a kutató részletes kutatási terve alapján megadott — támogató állásfoglalását.
 

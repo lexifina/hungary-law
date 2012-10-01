@@ -4,7 +4,7 @@
 
 (2) A nem selejtezhető köziratok átadásának-átvételének időpontjáról az átadó szerv és az illetékes közlevéltár közösen állapodik meg.
 
-(3) Az (1) bekezdésben meghatározott átadás-átvételi határidő abban az esetben, ha a közfeladatot ellátó szervnek a nem selejtezhető iratokra ügyviteli szempontból még rendszeresen szüksége van, illetőleg akkor, ha az illetékes közlevéltár az iratok átvételéhez szükséges raktári férőhellyel nem rendelkezik, további öt évre külön engedély nélkül meghosszabbítható. Az átadási-átvételi határidő öt éven túli meghosszabbítását egy alkalommal, legfeljebb tíz év időtartamra a kultúráért felelős miniszter engedélyezi. Ennél hosszabb irattári őrzési időt csak jogszabály állapíthat meg.
+(3) Az (1) bekezdésben meghatározott átadás-átvételi határidő abban az esetben, ha a közfeladatot ellátó szervnek a nem selejtezhető iratokra ügyviteli szempontból még rendszeresen szüksége van, vagy akkor, ha az illetékes közlevéltár az iratok átvételéhez szükséges raktári férőhellyel nem rendelkezik, további öt évre külön engedély nélkül meghosszabbítható. Az átadási-átvételi határidő öt éven túli meghosszabbítását egy alkalommal, legfeljebb tíz év időtartamra a kultúráért felelős miniszter engedélyezi. Ennél hosszabb irattári őrzési időt csak jogszabály állapíthat meg.
 
 (4) A közlevéltár tizenöt éven belül keletkezett közirat átvételére csak jogszabály alapján kötelezhető.
 

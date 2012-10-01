@@ -1,4 +1,4 @@
-35/A. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a közfeladatot ellátó szervek iratkezelésének általános követelményeit, valamint a központi államigazgatási szervek, az önkormányzati hivatalok és az önkormányzati társulások iratkezelési szabályzatai végrehajtásának ellenőrzési rendjét.
+35/A. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a közfeladatot ellátó szervek iratkezelésének általános követelményeit, valamint a központi államigazgatási szervek, az önkormányzati hivatal és az önkormányzati társulások iratkezelési szabályzatai végrehajtásának ellenőrzési rendjét.
 
 (2) Felhatalmazást kap a köziratok kezelésének szakmai irányításáért felelős miniszter, hogy az e-közigazgatásért felelős miniszter, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter, valamint a kultúráért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a közfeladatot ellátó szerveknél alkalmazható iratkezelési szoftverekkel szemben és az elektronikus iratok levéltárba adásával, tárolásával kapcsolatban támasztott követelményeket.
 

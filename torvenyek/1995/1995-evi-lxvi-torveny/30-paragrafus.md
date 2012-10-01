@@ -8,7 +8,7 @@
 
 (2) A nyilvános magánlevéltár
 
-a) levéltári anyagának jegyzékét — nyilvántartás céljából — a Magyar Országos Levéltárnak átadja;
+a) levéltári anyagának jegyzékét — nyilvántartás céljából — a Magyar Nemzeti Levéltárnak átadja;
 
 b) levéltári anyagának nyilvántartásával, szakszerű, biztonságos őrzésével, feldolgozásával és használatának biztosításával összefüggő feladatait a nyilvános magánlevéltárak részére előírt szakmai követelmények szerint látja el;
 

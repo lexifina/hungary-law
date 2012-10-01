@@ -4,4 +4,4 @@
 
 (3) Ha a megszűnő szerv feladatköre több szerv között oszlik meg, vagy valamely szerv egyes feladatait egy másik szerv veszi át, az irattári anyagot csak irattári tételenként szabad megosztani. Az egyes ügyiratokra vonatkozó igényt másolat készítésével vagy kölcsönzéssel kell teljesíteni. Az irattári anyag irattári tételenkénti megosztását az illetékes közlevéltár egyetértésével kell elvégezni.
 
-(4) Ha a közfeladatot ellátó szerv jogutód nélkül szűnik meg, irattári anyagának maradandó értékű részét az illetékes közlevéltárban kell elhelyezni. Az irattári anyag többi részének meghatározott ideig történő további őrzéséhez, kezeléséhez, illetőleg selejtezéséhez szükséges költségek biztosításáról a megszüntetésről intézkedő szerv gondoskodik.
+(4) Ha a közfeladatot ellátó szerv jogutód nélkül szűnik meg, irattári anyagának maradandó értékű részét az illetékes közlevéltárban kell elhelyezni. Az irattári anyag többi részének meghatározott ideig történő további őrzéséhez, kezeléséhez és selejtezéséhez szükséges költségek biztosításáról a megszüntetésről intézkedő szerv gondoskodik.
