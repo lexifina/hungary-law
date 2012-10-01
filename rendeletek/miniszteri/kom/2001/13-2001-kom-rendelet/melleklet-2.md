@@ -1,1273 +1,1831 @@
-## Védett növények
+## FOKOZOTTAN VÉDETT ÉS VÉDETT NÖVÉNYEK
 
-| Magyar név | Tudományos név | Értéke (Ft) |
+## 2K20905_0
 
-| MOHÁK |
+|  | A | B | C | D | E |
 
-| Algarvei hasadtfogúmoha | Fissidens algarvicus | 5 000 |
+|  | Rendszertani kategória | Fokozottan védett faj tudományos neve | Védett faj tudományos neve | Magyar elnevezés | Természetvédelmi érték (Ft) |
 
-| Alhavasi szőrössüvegűmoha | Orthotrichum rogeri | 5 000 |
+| 1. | BRYOPHYTA |  |  | MOHÁK |  |
 
-| Arnoldi-hasadtfogúmoha | Fissidens arnoldii | 5 000 |
+| 2. | Amblystegiaceae |  |  | tollmohafélék |  |
 
-| Berzedt tőzegmoha | Sphagnum squarrosum | 5 000 |
+| 3. |  |  | Amblystegium saxatile | sziklai karcsútokúmoha | 5 000 |
 
-| Bókoló trágyamoha | Desmatodon cernuus | 5 000 |
+| 4. |  |  | Calliergon giganteum | óriásmoha | 5 000 |
 
-| Csavart tőzegmoha | Sphagnum contortum | 5 000 |
+| 5. |  |  | Calliergon stramineum | gyökerecskés-levélcsúcsú moha | 5 000 |
 
-| Csillagos szőrössüvegűmoha | Orthotrichum stellatum | 5 000 |
+| 6. |  |  | Campylium elodes | mocsári aranymoha | 5 000 |
 
-| Csónakos tőzegmoha | Sphagnum palustre | 5 000 |
+| 7. |  |  | Drepanocladus cossonii | körkörös sarlósmoha | 5 000 |
 
-| Csoportos paránymoha | Ephemerum cohaerens | 5 000 |
+| 8. |  |  | Drepanocladus exannulatus | gyűrűtlen sarlósmoha | 5 000 |
 
-| Csőrös farkaslábmoha | Anomodon rostratus | 5 000 |
+| 9. |  |  | Drepanocladus lycopodioides | korpafűszerű sarlósmoha | 10 000 |
 
-| Ernyőmohaszerű görbefogúmoha | Anacamptodon splachnoides | 5 000 |
+| 10. |  |  | Drepanocladus sendtneri | Sendtner-sarlósmoha | 5 000 |
 
-| Fehérlő vánkosmoha | Leucobryum glaucum | 5 000 |
+| 11. |  |  | Hamatocaulis vernicosus (syn.: Campylium vernicosus) | karcsú pásztorbotmoha (karcsú aranymoha) | 5 000 |
 
-| Felálló hegyesmájmoha | Lophozia ascendens | 5 000 |
+| 12. |  |  | Scorpidium scorpioides | skorpiómoha | 10 000 |
 
-| Felállótokú aloémoha | Aloina bifrons | 5 000 |
+| 13. | Aytoniaceae |  |  | nagytelepes-májmohafélék |  |
 
-| Félgömbfejű tőzegmoha | Sphagnum capillifolium | 5 000 |
+| 14. |  |  | Asterella saccata | zsákos zacskósmoha | 5 000 |
 
-| Frost-úszómájmoha | Riccia frostii | 5 000 |
+| 15. |  |  | Mannia triandra | sziklai illatosmoha | 5 000 |
 
-| Fülecskés tőzegmoha | Sphagnum auriculatum | 5 000 |
+| 16. | Brachytheciaceae |  |  | pintycsőrű-mohafélék |  |
 
-| Geheeb-pintycsőrűmoha | Brachytecium geheebii | 5 000 |
+| 17. |  |  | Brachytecium geheebii | Geheeb-pintycsőrűmoha | 5 000 |
 
-| Girgensohn-tőzegmoha | Sphagnum girgensohnii | 5 000 |
+| 18. |  |  | Brachytecium oxycladum | hegyeságú pintycsőrűmoha | 5 000 |
 
-| Gömbös körtikemoha | Physcomitrium sphaericum | 5 000 |
+| 19. |  |  | Rhynchostegiella jacquinii | mattzöld kiscsőrűmoha | 5 000 |
 
-| Gyökerecskés-levélcsúcsú moha | Calliergon stramineum | 5 000 |
+| 20. |  |  | Rhynchostegium rotundifolium | kereklevelű hosszúcsőrűmoha | 5 000 |
 
-| Gyűrűtlen sarlósmoha | Drepanocladus exannulatus | 5 000 |
+| 21. | Bryaceae |  |  | körtemohafélék |  |
 
-| Halványbarna tőzegmoha | Sphagnum subnitens | 5 000 |
+| 22. |  |  | Bryum neodamense | kanalaslevelű körtemoha | 5 000 |
 
-| Halványzöld szőrössüvegűmoha | Orthotrichum scanicum | 5 000 |
+| 23. |  |  | Bryum stirtonii | keskenyfogú körtemoha | 5 000 |
 
-| Háromélű moha | Meesia triquetra | 5 000 |
+| 24. |  |  | Bryum versicolor | tarka körtemoha | 5 000 |
 
-| Hasastokú párnácskamoha | Grimmia plagiopodia | 5 000 |
+| 25. |  |  | Bryum warneum | ostoros körtemoha | 5 000 |
 
-| Hegyeságú pintycsőrűmoha | Brachytecium oxycladum | 5 000 |
+| 26. | Buxbaumiaceae |  |  | koboldmohafélék |  |
 
-| Hólyagos kerekesféreglakta-májmoha | Frullania inflata | 5 000 |
+| 27. |  |  | Buxbaumia viridis | zöld koboldmoha | 5 000 |
 
-| Hübener-úszómájmoha | Riccia huebeneriana | 5 000 |
+| 28. | Cephaloziaceae |  |  | lapos-májmohácskafélék |  |
 
-| Jungermann-moha | Jungermannia subulata | 5 000 |
+| 29. |  |  | Cephalozia lacinulata | lapos májmohácska | 5 000 |
 
-| Kanalaslevelű körtemoha | Bryum neodamense | 5 000 |
+| 30. | Dicranaceae |  |  | seprőmohafélék |  |
 
-| Karcsú aranymoha | Campylium vernicosus | 5 000 |
+| 31. |  |  | Dicranella humilis | kis seprőcskemoha | 5 000 |
 
-| Karcsú tőzegmoha | Sphagnum recurvum | 5 000 |
+| 32. |  |  | Dicranum viride | zöld seprőmoha | 5 000 |
 
-| Kereklevelű hosszúcsőrűmoha | Rhynchostegium rotundifolium | 5 000 |
+| 33. |  |  | Leucobryum glaucum | fehérlő vánkosmoha | 5 000 |
 
-| Keskenyfogú körtemoha | Bryum stirtonii | 5 000 |
+| 34. | Ephemeraceae |  |  | paránymohafélék |  |
 
-| Keskenylevelű tőzegmoha | Sphagnum cuspidatum | 5 000 |
+| 35. |  |  | Ephemerum cohaerens | csoportos paránymoha | 5 000 |
 
-| Kis hasadtfogúmoha | Fissidens exiguus | 5 000 |
+| 36. |  |  | Ephemerum recurvifolium | sarlóslevelű paránymoha | 5 000 |
 
-| Kis seprőcskemoha | Dicranella humilis | 5 000 |
+| 37. | Fabroniaceae |  |  | apró-fogaslevelűmohafélék |  |
 
-| Kiscsőrű gyöngymoha | Weisia rostellata | 5 000 |
+| 38. |  |  | Anacamptodon splachnoides | ernyőmohaszerű görbefogúmoha | 5 000 |
 
-| Korpafűszerű sarlósmoha | Drepanocladus lycopodioides | 10 000 |
+| 39. | Fissidentaceae |  |  | hasadtfogúmoha-félék |  |
 
-| Körkörös sarlósmoha | Drepanocladus revolvens | 5 000 |
+| 40. |  |  | Fissidens algarvicus | Algarvei hasadtfogúmoha | 5 000 |
 
-| Lágy tőzegmoha | Sphagnum platyphyllum | 5 000 |
+| 41. |  |  | Fissidens arnoldii | Arnoldi-hasadtfogúmoha | 5 000 |
 
-| Láperdei tőzegmoha | Sphagnum teres | 5 000 |
+| 42. |  |  | Fissidens exiguus | kis hasadtfogúmoha | 5 000 |
 
-| Lapos májmoha | Cephalozia lacinulata | 5 000 |
+| 43. | Frullaniaceae |  |  | kerekesféreglakta-májmohafélék |  |
 
-| Lemezes szárnyaserűmoha | Pterygoneurum lamellatum | 5 000 |
+| 44. |  |  | Frullania inflata | hólyagos kerekesféreglakta-májmoha | 5 000 |
 
-| Magellán-tőzegmoha | Sphagnum magellanicum | 5 000 |
+| 45. | Funariaceae |  |  | higrométermoha-félék |  |
 
-| Mattzöld kiscsőrűmoha | Rhynchostegiella jacquinii | 5 000 |
+| 46. |  |  | Enthostodon hungaricus | sóspusztai magyarmoha | 10 000 |
 
-| Mocsári aranymoha | Campylium elodes | 5 000 |
+| 47. |  |  | Physcomitrium sphaericum | gömbös körtikemoha | 5 000 |
 
-| Négysarkú piramismoha | Pyramidula tetragona | 5 000 |
+| 48. |  |  | Pyramidula tetragona | négysarkú piramismoha | 5 000 |
 
-| Óriásmoha | Calliergon giganteum | 5 000 |
+| 49. | Grimmiaceae |  |  | őszmohafélék |  |
 
-| Óriás-tőzegmoha | Sphagnum russowi | 5 000 |
+| 50. |  |  | Grimmia plagiopodia | hasastokú őszmoha (hasastokú párnácskamoha) | 5 000 |
 
-| Ostoros körtemoha | Bryum warneum | 5 000 |
+| 51. |  |  | Grimmia teretinervis | vastagerű őszmoha (vastagerű párnácskamoha) | 5 000 |
 
-| Ötlevélsoros tőzegmoha | Sphagnum quinquefarium | 5 000 |
+| 52. | Hypnaceae |  |  | ciprusmohafélék |  |
 
-| Pirostokfedős párnácskamoha | Grimmia sessitana | 5 000 |
+| 53. |  |  | Taxiphyllum densifolium | sűrűleveles kaukázusimoha | 5 000 |
 
-| Rojtos tőzegmoha | Sphagnum fimbriatum | 5 000 |
+| 54. | Jungermanniaceae |  |  | jungermannia-levelesmájmohafélék |  |
 
-| Sárgásbarna tőzegmoha | Sphagnum centrale | 5 000 |
+| 55. |  |  | Jungermannia subulata | Jungermann-moha | 5 000 |
 
-| Sarlóslevelű paránymoha | Ephemerum recurvifolium | 5 000 |
+| 56. |  |  | Lophozia ascendens | felálló hegyesmájmoha | 5 000 |
 
-| Sendtner-sarlósmoha | Drepanocladus sendtneri | 5 000 |
+| 57. | Meesiaceae |  |  | háromélűmoha-félék |  |
 
-| Skorpiómoha | Scorpidium scorpioides | 10 000 |
+| 58. |  |  | Meesia triquetra | háromélű moha | 5 000 |
 
-| Sóspusztai magyarmoha | Enthostodon hungaricus | 5 000 |
+| 59. | Neckeraceae |  |  | függönymohafélék |  |
 
-| Sűrűleveles kaukázusimoha | Taxiphyllum densifolium | 5 000 |
+| 60. |  |  | Neckera pennata | tollas függönymoha | 5 000 |
 
-| Sziklai görbeszárúmoha | Campylostelium saxicola | 5 000 |
+| 61. | Orthotrichaceae |  |  | szőrössüvegű-mohafélék |  |
 
-| Sziklai illatosmoha | Mannia triandra | 5 000 |
+| 62. |  |  | Orthotrichum rogeri | alhavasi szőrössüvegűmoha | 5 000 |
 
-| Sziklai karcsútokúmoha | Amblystegium saxatile | 5 000 |
+| 63. |  |  | Orthotrichum scanicum | halványzöld szőrössüvegűmoha | 5 000 |
 
-| Szőrszerű pintycsőrűmoha | Brachydontium trichodes | 5 000 |
+| 64. |  |  | Orthotrichum stellatum | csillagos szőrössüvegűmoha | 5 000 |
 
-| Szürke ikresmoha | Didymodon glaucus | 5 000 |
+| 65. | Pottiaceae |  |  | potmohafélék |  |
 
-| Tarka körtemoha | Bryum versicolor | 5 000 |
+| 66. |  |  | Desmatodon cernuus | bókoló trágyamoha | 5 000 |
 
-| Tollas függönymoha | Neckera pennata | 5 000 |
+| 67. |  |  | Didymodon glaucus | szürke ikresmoha | 5 000 |
 
-| Tompalevelű tőzegmoha | Sphagnum obtusum | 5 000 |
+| 68. |  |  | Hilpertia velenovskyi | Velenovsky-löszmoha | 5 000 |
 
-| Tömöttágú tőzegmoha | Sphagnum compactum | 5 000 |
+| 69. |  |  | Phascum floekeanum | vörösbarna rügymoha | 10 000 |
 
-| Törpelöszmoha | Tortula brevissima | 5 000 |
+| 70. |  |  | Pterygoneurum lamellatum | lemezes szárnyaserűmoha | 5 000 |
 
-| Vastagerű párnácskamoha | Grimmia teretinervis | 5 000 |
+| 71. |  |  | Tortula brevissima | törpelöszmoha | 5 000 |
 
-| Velenovsky-löszmoha | Hilpertia velenovskyi | 5 000 |
+| 72. |  |  | Weisia rostellata | kiscsőrű gyöngymoha | 5 000 |
 
-| Vörösbarna rügymoha | Phascum floekeanum | 5 000 |
+| 73. | Ptychomitriaceae |  |  | szürkésmohafélék |  |
 
-| Warnstorf-tőzegmoha | Sphagnum warnstorfi | 5 000 |
+| 74. |  |  | Campylostelium saxicola | sziklai görbeszárúmoha | 5 000 |
 
-| Zászlós tőzegmoha | Sphagnum subsecundum | 5 000 |
+| 75. | Ricciaceae |  |  | fillérmohafélék |  |
 
-| Zöld koboldmoha | Buxbaumia viridis | 5 000 |
+| 76. |  |  | Riccia frostii | Frost-májmoha | 5 000 |
 
-| Zöld seprőmoha | Dicranum viride | 5 000 |
+| 77. |  |  | Riccia huebeneriana | Hübener-májmoha | 5 000 |
 
-| Zsákos zacskósmoha | Asterella saccata | 5 000 |
+| 78. | Seligeriaceae |  |  | sörtemohafélék |  |
 
-| HARASZTOK |
+| 79. |  |  | Brachydontium trichodes | szőrszerű pintycsőrfogúmoha | 5 000 |
 
-| Ágas holdruta | Botrychium matricariifolium | 10 000 |
+| 80. | Sphagnaceae |  |  | tőzegmohafélék |  |
 
-| Bordapáfrány | Blechnum spicant | 10 000 |
+| 81. |  |  | Sphagnum auriculatum | fülecskés tőzegmoha | 5 000 |
 
-| Buglyospáfrány | Phegopteris connectilis | 5 000 |
+| 82. |  |  | Sphagnum capillifolium | félgömbfejű tőzegmoha | 5 000 |
 
-| Dárdás vesepáfrány | Polystichum lonchitis | 5 000 |
+| 83. |  |  | Sphagnum centrale | sárgásbarna tőzegmoha | 5 000 |
 
-| Díszes vesepáfrány | Polystichum setiferum | 5 000 |
+| 84. |  |  | Sphagnum compactum | tömöttágú tőzegmoha | 5 000 |
 
-| Erdei zsurló | Equisetum sylvaticum | 5 000 |
+| 85. |  |  | Sphagnum contortum | csavart tőzegmoha | 5 000 |
 
-| Északi szirtipáfrány | Woodsia ilvensis | 10 000 |
+| 86. |  |  | Sphagnum cuspidatum | keskenylevelű tőzegmoha | 5 000 |
 
-| Fekete fodorka | Asplenium adiantum-nigrum | 5 000 |
+| 87. |  |  | Sphagnum fimbriatum | rojtos tőzegmoha | 5 000 |
 
-| Forrásfodorka | Asplenium fontanum | 10 000 |
+| 88. |  |  | Sphagnum girgensohnii | Girgensohn-tőzegmoha | 5 000 |
 
-| Gímpáfrány | Asplenium scolopendrium | 2 000 |
+| 89. |  |  | Sphagnum magellanicum | Magellan-tőzegmoha | 5 000 |
 
-| Havasi szirtipáfrány | Woodsia alpina | 10 000 |
+| 90. |  |  | Sphagnum obtusum | tompalevelű tőzegmoha | 5 000 |
 
-| Hegyi csipkeharaszt | Selaginella helvetica | 2 000 |
+| 91. |  |  | Sphagnum palustre | csónakos tőzegmoha | 5 000 |
 
-| Hegyi pajzsika | Dryopteris expansa | 5 000 |
+| 92. |  |  | Sphagnum platyphyllum | lágy tőzegmoha | 5 000 |
 
-| Hegyipáfrány | Oreopteris limbosperma | 10 000 |
+| 93. |  |  | Sphagnum quinquefarium | ötlevélsoros tőzegmoha | 5 000 |
 
-| Issler-laposkorpafű | Lycopodium issleri | 10 000 |
+| 94. |  |  | Sphagnum recurvum | karcsú tőzegmoha | 5 000 |
 
-| Kapcsos korpafű | Lycopodium clavatum | 10 000 |
+| 95. |  |  | Sphagnum russowi | óriás-tőzegmoha | 5 000 |
 
-| Karéjos vesepáfrány | Polystichum aculeatum | 5 000 |
+| 96. |  |  | Sphagnum squarrosum | berzedt tőzegmoha | 5 000 |
 
-| Kígyónyelv | Ophioglossum vulgatum | 2 000 |
+| 97. |  |  | Sphagnum subnitens | halványbarna tőzegmoha | 5 000 |
 
-| Kígyózó korpafű | Lycopodium annotinum | 10 000 |
+| 98. |  |  | Sphagnum subsecundum | zászlós tőzegmoha | 5 000 |
 
-| Kis holdruta | Botrychium lunaria | 10 000 |
+| 99. |  |  | Sphagnum teres | láperdei tőzegmoha | 5 000 |
 
-| Közönséges hármaslevelű-páfrány (Tölgyespáfrány) | Gymnocarpium dryopteris | 5 000 |
+| 100. |  |  | Sphagnum warnstorfi | Warnstorf-tőzegmoha | 5 000 |
 
-| Közönséges laposkorpafű | Lycopodium complanatum | 10 000 |
+| 101. | Thuidiaceae |  |  | tujamohafélék |  |
 
-| Magyar pikkelypáfrány | Asplenium javorkeanum | 10 000 |
+| 102. |  |  | Anomodon rostratus | csőrös farkaslábmoha | 5 000 |
 
-| Mételyfű | Marsilea quadrifolia | 10 000 |
+| 103. | PTERIDOPHYTA |  |  | HARASZTOK |  |
 
-| Mirigyes fodorka | Asplenium lepidum | 5 000 |
+| 104. | Aspleniaceae |  |  | fodorkafélék |  |
 
-| Mirigyes hármaslevelűpáfrány | Gymnacarpium robertianum | 5 000 |
+| 105. |  |  | Asplenium adiantum-nigrum | fekete fodorka | 5 000 |
 
-| Nyugati pikkelypáfrány | Asplenium ceterach | 10 000 |
+| 106. |  |  | Asplenium ceterach | nyugati pikkelypáfrány | 10 000 |
 
-| Pelyvás pajzsika | Dryopteris affinis | 10 000 |
+| 107. |  |  | Asplenium fontanum | forrásfodorka | 50 000 |
 
-| Részegkorpafű | Huperzia selago | 10 000 |
+| 108. |  |  | Asplenium javorkeanum | magyar pikkelypáfrány | 10 000 |
 
-| Rucaöröm | Salvinia natans | 2 000 |
+| 109. |  |  | Asplenium lepidum | mirigyes fodorka | 10 000 |
 
-| Sokcimpájú holdruta | Botrychium multifidum | 10 000 |
+| 110. |  |  | Aspleniumscolopendrium(syn.:Phyllitisscolopendrium) | gímpáfrány (gímnyelvű fodorka) | 5 000 |
 
-| Struccpáfrány | Matteuccia struthiopteris | 10 000 |
+| 111. |  |  | Asplenium viride | zöld fodorka | 5 000 |
 
-| Szálkás pajzsika | Dryopteris carthusiana | 5 000 |
+| 112. | Blechnaceae |  |  | bordapáfrányfélék |  |
 
-| Széles pajzsika | Dryopteris dilatata | 5 000 |
+| 113. |  |  | Blechnum spicant | erdei bordapáfrány | 10 000 |
 
-| Szőrös vesepáfrány | Polystichum braunii | 5 000 |
+| 114. | Dryopteridaceae |  |  | pajzsikafélék |  |
 
-| Tarajos pajzsika | Dryopteris cristata | 10 000 |
+| 115. |  |  | Dryopteris affinis | pelyvás pajzsika | 10 000 |
 
-| Tarka zsurló | Equisetum variegatum | 5 000 |
+| 116. |  |  | Dryopteris carthusiana | szálkás pajzsika | 5 000 |
 
-| Télipáfrány | Anogramma leptophylla | 10 000 |
+| 117. |  | Dryopteris cristata |  | tarajos pajzsika | 100 000 |
 
-| Téli zsurló | Equisetum hyemale | 5 000 |
+| 118. |  |  | Dryopteris dilatata | széles pajzsika | 5 000 |
 
-| Tölcséres laposkorpafű | Lycopodium tristachyum | 10 000 |
+| 119. |  |  | Dryopteris expansa | hegyi pajzsika | 5 000 |
 
-| Tőzegpáfrány | Thelypteris palustris | 5 000 |
+| 120. |  |  | Gymnocarpium robertianum | mirigyes tölgyespáfrány (mirigyes hármaslevelű-páfrány) | 5 000 |
 
-| Virginiai holdruta | Botrychium virginianum | 10 000 |
+| 121. |  |  | Gymnocarpium dryopteris | közönséges tölgyespáfrány (közönséges hármaslevelű-páfrány) | 5 000 |
 
-| Zöld fodorka | Asplenium viride | 5 000 |
+| 122. |  |  | Matteuccia struthiopteris | struccpáfrány(európai struccpáfrány) | 50 000 |
 
-| ZÁRVATERMŐK |
+| 123. |  |  | Polystichum aculeatum | karéjos vesepáfrány | 5 000 |
 
-| Adriai varjúháj | Sedum acre subsp. neglectum | 2 000 |
+| 124. |  |  | Polystichum braunii | szőrös vesepáfrány | 10 000 |
 
-| Agárkosbor | Orchis morio | 10 000 |
+| 125. |  |  | Polystichum lonchitis | dárdás vesepáfrány | 10 000 |
 
-| Aldrovanda | Aldrovanda vesiculosa | 10 000 |
+| 126. |  |  | Polystichum setiferum | díszes vesepáfrány | 5 000 |
 
-| Apró füzény | Lythrum tribracteatum | 10 000 |
+| 127. |  |  | Woodsia alpina | havasi szirtipáfrány | 10 000 |
 
-| Apró nőszirom | Iris pumila | 5 000 |
+| 128. |  | Woodsia ilvensis |  | hegyi szirtipáfrány (északi szirtipárfány) | 100 000 |
 
-| Apró szádor | Orobanche nana | 10 000 |
+| 129. | Equisetaceae |  |  | zsurlófélék |  |
 
-| Aranyos baraboly | Chaerophyllum aureum | 5 000 |
+| 130. |  |  | Equisetum hyemale | téli zsurló | 5 000 |
 
-| Árlevelű len | Linum tenuifolium | 5 000 |
+| 131. |  |  | Equisetum sylvaticum | erdei zsurló | 10 000 |
 
-| Árnika (kivéve gyógyászati célra feldolgozott származéka) | Arnica montana | 10 000 |
+| 132. |  |  | Equisetum variegatum | tarka zsurló | 5 000 |
 
-| Árnyéki sás | Carex umbrosa | 5 000 |
+| 133. | Lycopodiaceae |  |  | korpafűfélék |  |
 
-| Árokvirág | Samolus valerandi | 2 000 |
+| 134. |  |  | Diphasium complanatum (syn.: Diphasiastrum complanatum, Lycopodium complanatum) | közönséges laposkorpafű | 10 000 |
 
-| Avarvirág | Goodyera repens | 10 000 |
+| 135. |  |  | Diphasium issleri (syn.: Diphasiastrum issleri, Lycopodium issleri) | Issler-laposkorpafű | 10 000 |
 
-| Babérboroszlán | Daphne laureola | 10 000 |
+| 136. |  |  | Huperzia selago | györgyfű (részegkorpafű) | 10 000 |
 
-| Babérfűz | Salix pentandra | 10 000 |
+| 137. |  |  | Lycopodium annotinum | kígyózó korpafű | 10 000 |
 
-| Bagolyfű | Glaux maritima | 5 000 |
+| 138. |  |  | Lycopodium clavatum | kapcsos korpafű | 10 000 |
 
-| Bajuszvirág | Epipogium aphyllum | 10 000 |
+| 139. | Marsileaceae |  |  | mételyfűfélék |  |
 
-| Bakszarvú lepkeszeg | Trigonella gladiata | 10 000 |
+| 140. |  |  | Marsilea quadrifolia | mételyfű(négylevelűmételyfű) | 10 000 |
 
-| Balatoni galaj | Galium austriacum | 2 000 |
+| 141. | Ophioglossaceae |  |  | kígyónyelvfélék |  |
 
-| Balkáni csillagvirág | Prospero paratheticum | 5 000 |
+| 142. |  |  | Botrychium lunaria | kis holdruta | 10 000 |
 
-| Balti szegfű | Dianthus arenarius subsp. borussicus | 5 000 |
+| 143. |  | Botrychium matricariifolium |  | ágas holdruta | 100 000 |
 
-| Bánsági sás | Carex buekii | 2 000 |
+| 144. |  | Botrychium multifidum |  | sokcimpájú holdruta | 100 000 |
 
-| Baranyai peremizs | Inula spiraeifolia | 10 000 |
+| 145. |  | Botrychium virginianum |  | virginiai holdruta | 100 000 |
 
-| Báránypirosító | Alkanna tinctoria | 5 000 |
+| 146. |  |  | Ophioglossum vulgatum | kígyónyelv (közönségeskígyónyelv) | 5 000 |
 
-| Barázdás csűdfű | Astragalus sulcatus | 10 000 |
+| 147. | Osmundaceae |  |  | királyharasztfélék |  |
 
-| Bársonyos görvélyfű | Scrophularia scopolii | 2 000 |
+| 148. |  | Osmunda regalis |  | királyharaszt (óriáskirályharaszt) | 250 000 |
 
-| Bársonyos kakukkszegfű | Lychnis coronaria | 5 000 |
+| 149. | Pteridaceae |  |  | szalagpáfrányfélék |  |
 
-| Békakonty | Listera ovata | 5 000 |
+| 150. |  |  | Anogramma leptophylla | tavaszi kérészpáfrány (télipáfrány) | 10 000 |
 
-| Békaliliom | Hottonia palustris | 5 000 |
+| 151. |  | Notholaena marantae |  | cselling(délicselling) | 250 000 |
 
-| Bérci ribiszke | Ribes petraeum | 10 000 |
+| 152. | Salviniaceae |  |  | rucaörömfélék |  |
 
-| Berki boglárka | Ranunculus nemorosus | 5 000 |
+| 153. |  |  | Salvinia natans | rucaöröm(vízirucaöröm) | 5 000 |
 
-| Berki lizinka | Lysimachia nemorum | 10 000 |
+| 154. | Selaginellaceae |  |  | csipkeharasztfélék |  |
 
-| Bíboros kosbor | Orchis purpurea | 10 000 |
+| 155. |  |  | Selaginella helvetica | hegyi csipkeharaszt | 5 000 |
 
-| Bieberstein-gyújtoványfű | Linaria biebersteinii | 10 000 |
+| 156. | Thelypteridaceae |  |  | tőzegpáfrányfélék |  |
 
-| Bodzalevelű macskagyökér | Valeriana officinalis subsp. sambucifolia | 10 000 |
+| 157. |  |  | Oreopteris limbosperma | tölcséres hegyipáfrány | 10 000 |
 
-| Bodzaszagú ujjaskosbor | Dactylorhiza sambucina | 10 000 |
+| 158. |  |  | Phegopteris connectilis | bükkös buglyospáfrány | 5 000 |
 
-| Bókoló gyömbérgyökér | Geum rivale | 5 000 |
+| 159. |  |  | Thelypteris palustris | tőzegpáfrány(mocsáritőzegpáfrány) | 5 000 |
 
-| Bókoló keltike | Corydalis intermedia | 2 000 |
+| 160. | GYMNOSPERMATOPHYTA |  |  | NYITVATERMŐK |  |
 
-| Bokros koronafürt | Hippocrepis emerus | 5 000 |
+| 161. | Ephedraceae |  |  | csikófarkfélék |  |
 
-| Borbás-kerep | Lotus borbasii | 5 000 |
+| 162. |  | Ephedra distachya |  | csikófark (közönségescsikófark) | 100 000 |
 
-| Borbás-nőszőfű | Epipactis atrorubens subsp. borbasii | 10 000 |
+| 163. | ANGIOSPERMATOPHYTA |  |  | ZÁRVATERMŐK |  |
 
-| Borostás sás | Carex strigosa | 2 000 |
+| 164. | Alliaceae |  |  | hagymafélék |  |
 
-| Borostyánszádor | Orobanche hederae | 5 000 |
+| 165. |  |  | Allium carinatum | szarvashagyma | 5 000 |
 
-| Borsóképű lednek | Lathyrus pisiformis | 5 000 |
+| 166. |  |  | Allium moschatum | pézsmahagyma | 5 000 |
 
-| Borzas len | Linum hirsutum | 5 000 |
+| 167. |  |  | Allium paniculatum (syn.: Allium marginatum) | bugás hagyma (vöröses hagyma) | 10 000 |
 
-| Borzas szulák | Convolvulus cantabrica | 2 000 |
+| 168. |  |  | Allium sphaerocephalon | bunkós hagyma | 5 000 |
 
-| Borzas vértő | Onosma visianii | 5 000 |
+| 169. |  |  | Allium suaveolens | illatos hagyma | 10 000 |
 
-| Bozontos árvalányhaj | Stipa dasyphylla | 5 000 |
+| 170. |  |  | Allium victorialis | győzedelmes hagyma (havasi hagyma) | 50 000 |
 
-| Bozontos csukóka | Scutellaria columnae | 2 000 |
+| 171. | Alismataceae |  |  | hídőrfélék |  |
 
-| Budai imola | Centaurea sadleriana | 2 000 |
+| 172. |  | Caldesia parnassifolia |  | szíveslevelű-hídőr (lápiszíveslevelű-hídőr) | 100 000 |
 
-| Budai nyúlfarkfű | Sesleria sadleriana | 2 000 |
+| 173. | Amaryllidaceae |  |  | amarilliszfélék |  |
 
-| Bugás sás | Carex paniculata | 5 000 |
+| 174. |  |  | Leucojum aestivum | nyári tőzike | 10 000 |
 
-| Buglyos boglárka | Ranunculus polyphyllus | 2 000 |
+| 175. |  |  | Leucojum vernum | tavaszi tőzike | 5 000 |
 
-| Buglyos szegfű | Dianthus superbus | 5 000 |
+| 176. |  |  | Narcissus radiiflorus (syn.: Narcissus poeticus subsp. radiiflorus) | csillagos nárcisz | 10 000 |
 
-| Bunkós hagyma | Allium sphaerocephalon | 5 000 |
+| 177. |  |  | Sternbergia colchiciflora | vetővirág(apróvetővirág) | 10 000 |
 
-| Buxbaum-sás | Carex buxbaumii | 5 000 |
+| 178. | Anthericaceae |  |  | homokliliomfélék |  |
 
-| Bükki berkenye | Sorbus x buekkensis | 10 000 |
+| 179. |  |  | Anthericum liliago | fürtös homokliliom | 50 000 |
 
-| Csajkavirág | Oxytropis pilosa | 10 000 |
+| 180. | Apiaceae (Umbelliferae) |  |  | ernyősvirágzatúak |  |
 
-| Cseh tyúktaréj | Gagea bohemica | 5 000 |
+| 181. |  | Angelica palustris |  | réti angyalgyökér | 100 000 |
 
-| Csepplen | Radiola linoides | 2 000 |
+| 182. |  |  | Anthriscus nitidus | havasi turbolya | 5 000 |
 
-| Csermelyaggófű | Tephroseris crispa | 5 000 |
+| 183. |  |  | Apium repens | kúszó zeller | 50 000 |
 
-| Csermelyaszat | Cirsium rivulare | 5 000 |
+| 184. |  |  | Astrantia major | nagy völgycsillag | 5 000 |
 
-| Csermelyciprus | Myricaria germanica | 10 000 |
+| 185. |  |  | Bupleurum longifolium | hosszúlevelű buvákfű | 10 000 |
 
-| Csigásmagvú látonya | Elatine hydropiper | 5 000 |
+| 186. |  |  | Bupleurum pachnospermum | deres buvákfű | 10 000 |
 
-| Csillagos nárcisz | Narcissus poeticus subsp. radiiflorus | 10 000 |
+| 187. |  |  | Chaerophyllum aureum | aranyos baraboly | 5 000 |
 
-| Csillagőszirózsa | Aster amellus | 2 000 |
+| 188. |  |  | Chaerophyllum hirsutum | szőrös baraboly | 5 000 |
 
-| Csilláros sárma | Ornithogalum refractum | 2 000 |
+| 189. |  |  | Cicuta virosa | gyilkos csomorika | 5 000 |
 
-| Csinos árvalányhaj | Stipa pulcherrima | 5 000 |
+| 190. |  |  | Cnidiumdubium | inas gyíkvirág | 10 000 |
 
-| Csinos tárnicska | Gentianella amarella | 5 000 |
+| 191. |  | Ferula sadleriana |  | magyarföldi husáng | 250 000 |
 
-| Csipkés gyöngyvessző | Spiraea crenata | 5 000 |
+| 192. |  |  | Hydrocotyle vulgaris | gázló(lápigázló) | 5 000 |
 
-| Csipkéslevelű palástfű | Alchemilla crinita | 2 000 |
+| 193. |  |  | Peucedanum arenarium | homoki kocsord | 10 000 |
 
-| Csőrös boglárka | Ranunculus psilostachys | 2 000 |
+| 194. |  |  | Peucedanum officinale | sziki kocsord | 5 000 |
 
-| Csőrös nőszőfű | Epipactis leptochila | 10 000 |
+| 195. |  |  | Peucedanum palustre | mocsári kocsord | 5 000 |
 
-| Csőrös sás | Carex rostrata | 2 000 |
+| 196. |  |  | Peucedanum verticillare | magasszárú kocsord | 10 000 |
 
-| Csülleng | Isatis tinctoria | 5 000 |
+| 197. |  |  | Physospermum cornubiense | harangláblevelű dudamag | 50 000 |
 
-| Dalmát csenkesz | Festuca dalmatica | 2 000 |
+| 198. |  |  | Pleurospermum austriacum | osztrák borzamag | 50 000 |
 
-| Debreceni torma | Armoracia macrocarpa | 10 000 |
+| 199. |  | Seseli leucospermum |  | magyar gurgolya | 100 000 |
 
-| Déli berkenye | Sorbus graeca | 2 000 |
+| 200. |  |  | Seseli peucedanoides (syn.: Silaum peucedanoides) | zöldes gurgolya (zöldes kígyókapor) | 10 000 |
 
-| Délvidéki árvalányhaj | Stipa eriocaulis | 5 000 |
+| 201. |  |  | Sium sisarum | keleti békakorsó | 50 000 |
 
-| Deres szádor | Orobanche caesia | 10 000 |
+| 202. |  |  | Torilisucranica | keleti tüskemag | 5 000 |
 
-| Deres varjúháj | Sedum hispanicum | 2 000 |
+| 203. |  |  | Trinia ramosissima | magyar nyúlkapor | 10 000 |
 
-| Dombi ibolya | Viola collina | 2 000 |
+| 204. | Apocynaceae |  |  | meténgfélék |  |
 
-| Dudamag | Physospermum cornubiense | 5 000 |
+| 205. |  |  | Vinca herbacea | pusztai meténg | 5 000 |
 
-| Dunai berkenye (Magyar berkenye) | Sorbus danubialis | 10 000 |
+| 206. | Araceae |  |  | kontyvirágfélék |  |
 
-| Dunai szegfű | Dianthus collinus | 5 000 |
+| 207. |  |  | Acorus calamus 22 | kálmos (orvosikálmos)1 | 5 000 |
 
-| Dunántúli berkenye | Sorbus pannonica | 10 000 |
+| 208. | Asclepiadaceae |  |  | selyemkórófélék |  |
 
-| Dunántúli sás | Carex fritschii | 2 000 |
+| 209. |  | Vincetoxicum pannonicum |  | magyar méreggyilok | 100 000 |
 
-| Duna-vidéki berkenye | Sorbus subdanubialis | 10 000 |
+| 210. | Asphodelaceae |  |  | genyőtefélék |  |
 
-| Egypelyvás csetkáka | Eleocharis uniglumis | 5 000 |
+| 211. |  |  | Asphodelus albus | genyőte(fehérgenyőte,királyné gyertyája) | 10 000 |
 
-| Egyvirágú here | Trifolium ornithopodioides | 5 000 |
+| 212. | Asteraceae (Compositae) |  |  | őszirózsafélék (fészkesvirágzatúak) |  |
 
-| Elbai nőszőfű | Epipactis albensis | 10 000 |
+| 213. |  |  | Achillea crithmifolia | hegyközi cickafark | 5 000 |
 
-| Enyves aszat | Cirsium erisithales | 5 000 |
+| 214. |  | Achillea horanszkyi |  | Horánszky-cickafark | 100 000 |
 
-| Epergyöngyike | Muscari botryoides | 5 000 |
+| 215. |  |  | Achillea ochroleuca | homoki cickafark | 10 000 |
 
-| Éplevelű macskagyökér | Valeriana simplicifolia | 10 000 |
+| 216. |  |  | Achillea ptarmica | kenyérbélcickafark | 5 000 |
 
-| Erdei békaszem | Omphalodes scorpioides | 5 000 |
+| 217. |  | Achillea tuzsonii |  | Tuzson-cickafark | 100 000 |
 
-| Erdei borkóró | Thalictrum aquilegiifolium | 5 000 |
+| 218. |  |  | Arnica montana1 | árnika (hegyi árnika) 1 | 10 000 |
 
-| Erdei ciklámen | Cyclamen purpurascens | 5 000 |
+| 219. |  |  | Aster amellus | csillagőszirózsa | 5 000 |
 
-| Erdei gólyaorr | Geranium sylvaticum | 2 000 |
+| 220. |  |  | Aster sedifolius (incl. Aster sedifolius subsp. canus, Aster sedifolius subsp. sedifolius) | réti őszirózsa (pettyegetett őszirózsa) | 5 000 |
 
-| Erdei holdviola | Lunaria rediviva | 2 000 |
+| 221. |  | Aster oleifolius |  | gyapjas őszirózsa | 250 000 |
 
-| Erdei szellőrózsa | Anemone sylvestris | 2 000 |
+| 222. |  |  | Buphthalmum salicifolium | fűzlevelű ökörszem | 5 000 |
 
-| Erdei ujjaskosbor | Dactylorhiza fuchsii | 10 000 |
+| 223. |  |  | Carduus collinus | magyar bogáncs | 10 000 |
 
-| Erdei varfű | Knautia maxima | 2 000 |
+| 224. |  |  | Carduus crassifolius subsp. glaucus (syn.: Carduus glaucus) | szürke bogáncs | 10 000 |
 
-| Erdei varjúköröm | Phyteuma spicatum | 5 000 |
+| 225. |  |  | Carduus hamulosus | horgas bogáncs | 5 000 |
 
-| Erdélyi csillagvirág | Scilla kladnii | 5 000 |
+| 226. |  |  | Carlina acaulis | szártalan bábakalács | 5 000 |
 
-| Erdélyi lednek | Lathyrus transsylvanicus | 10 000 |
+| 227. |  |  | Carpesium abrotanoides | fürtös gyűrűvirág | 5 000 |
 
-| Erdélyi nyúlfarkfű | Sesleria heufleriana | 2 000 |
+| 228. |  |  | Centaurea arenaria | homoki imola | 10 000 |
 
-| Erdélyi útifű | Plantago schwarzenbergiana | 5 000 |
+| 229. |  |  | Centaurea mollis | szirti imola | 50 000 |
 
-| Érdes csűdfű | Astragalus asper | 5 000 |
+| 230. |  |  | Centaurea pseudophrygia | parókaimola | 5 000 |
 
-| Ernyőskörtike | Chimaphila umbellata | 5 000 |
+| 231. |  |  | Centaurea scabiosa subsp. sadleriana (syn.: Centaurea sadleriana) | budai imola | 5 000 |
 
-| Északi sás | Carex hartmannii | 5 000 |
+| 232. |  |  | Centaurea solstitialis | sáfrányos imola | 5 000 |
 
-| Ezüstaszott | Paronychia cephalotes | 2 000 |
+| 233. |  |  | Centaurea triumfettii | tarka imola | 5 000 |
 
-| Ezüstös útifű | Plantago argentea | 5 000 |
+| 234. |  |  | Cirsiumboujartii | pécsvidéki aszat | 10 000 |
 
-| Fali kövirózsa | Sempervivum tectorum | 2 000 |
+| 235. |  |  | Cirsium brachycephalum | kisfészkű aszat | 5 000 |
 
-| Fanyarka | Amelanchier ovalis | 10 000 |
+| 236. |  |  | Cirsium erisithales | enyves aszat | 5 000 |
 
-| Farkasbogyó | Scopolia carniolica | 5 000 |
+| 237. |  |  | Cirsium furiens | öldöklő aszat | 10 000 |
 
-| Farkasboroszlán | Daphne mezereum | 10 000 |
+| 238. |  |  | Cirsium rivulare | csermelyaszat | 5 000 |
 
-| Farkasölő sisakvirág | Aconitum vulparia | 2 000 |
+| 239. |  |  | Crepis nicaeensis | nizzai zörgőfű | 5 000 |
 
-| Fecsketárnics | Gentiana asclepiadea | 10 000 |
+| 240. |  | Crepis pannonica |  | magyar zörgőfű | 100 000 |
 
-| Fehér acsalapu | Petasites albus | 2 000 |
+| 241. |  |  | Doronicum austriacum | osztrák zergevirág | 50 000 |
 
-| Fehér madársisak | Cephalanthera damasonium | 5 000 |
+| 242. |  |  | Doronicum hungaricum | magyar zergevirág | 50 000 |
 
-| Fehér sáfrány | Crocus albiflorus | 10 000 |
+| 243. |  |  | Doronicum orientale | keleti zergevirág | 50 000 |
 
-| Fehér sás | Carex alba | 2 000 |
+| 244. |  |  | Echinops ruthenicus | kék szamárkenyér | 10 000 |
 
-| Fehér tündérrózsa | Nymphaea alba | 5 000 |
+| 245. |  |  | Helichrysum arenarium | homoki szalmagyopár | 5 000 |
 
-| Fehér zanót | Chamaecytisus albus | 2 000 |
+| 246. |  |  | Hieracium aurantiacum | rezes hölgymál | 10 000 |
 
-| Fehér zászpa | Veratrum album | 2 000 |
+| 247. |  |  | Hieracium bupleuroides | tátrai hölgymál | 10 000 |
 
-| Fehéres csűdfű | Astragalus vesicarius | 5 000 |
+| 248. |  |  | Hieracium kossuthianum | Kossuth-hölgymál | 10 000 |
 
-| Fehérmájvirág | Parnassia palustris | 10 000 |
+| 249. |  |  | Hieracium staticifolium (syn.: Chlorocrepis staticifolia) | keskenylevelű hölgymál | 5 000 |
 
-| Fekete galagonya | Crataegus nigra | 10 000 |
+| 250. |  |  | Inula germanica | hengeresfészkű peremizs | 5 000 |
 
-| Fekete kökörcsin | Pulsatilla pratensis subsp. nigricans | 5 000 |
+| 251. |  |  | Inula helenium 1 | örménygyökér 1 | 5 000 |
 
-| Fekete lonc | Lonicera nigra | 2 000 |
+| 252. |  |  | Inula oculus-christi | selymes peremizs | 5 000 |
 
-| Fekete madárbirs | Cotoneaster niger | 2 000 |
+| 253. |  |  | Inula spiraeifolia | baranyai peremizs | 10 000 |
 
-| Fekete ribiszke (kivéve gyümölcse, gyógyászati és élelmezési célra feldolgozott származéka) | Ribes nigrum | 10 000 |
+| 254. |  |  | Jurinea glycacantha | nagyfészkű hangyabogáncs | 5 000 |
 
-| Fenyérgamandor | Teucrium scorodonia | 2 000 |
+| 255. |  |  | Jurinea mollis | kisfészkű hangyabogáncs | 5 000 |
 
-| Fényes poloskamag | Corispermum nitidum | 2 000 |
+| 256. |  |  | Leontodon incanus | szőke oroszlánfog | 10 000 |
 
-| Fertő-tavi mézpázsit | Puccinellia festuciformis subsp. intermedia | 2 000 |
+| 257. |  |  | Leucanthemella serotina | tiszaparti késeimargitvirág (tisza-parti margitvirág) | 10 000 |
 
-| Fiókás tyúktaréj | Gagea spathacea | 10 000 |
+| 258. |  |  | Ligularia sibirica | szibériai hamuvirág | 10 000 |
 
-| Fogaslevelű bükköny | Vicia narbonensis | 2 000 |
+| 259. |  |  | Petasites albus | fehér acsalapu | 5 000 |
 
-| Foltos ujjaskosbor | Dactylorhiza maculata | 10 000 |
+| 260. |  |  | Scorzonera humilis | alacsony pozdor | 5 000 |
 
-| Fonalas békaszőlő | Potamogeton filiformis | 10 000 |
+| 261. |  |  | Scorzonera purpurea | piros pozdor | 5 000 |
 
-| Forrásfű | Montia fontana | 2 000 |
+| 262. |  |  | Senecio aquaticus | vízi aggófű | 5 000 |
 
-| Földbentermő here | Trifolium subterraneum | 10 000 |
+| 263. |  |  | Senecio paludosus | mocsári aggófű | 10 000 |
 
-| Füles fűz | Salix aurita | 5 000 |
+| 264. |  | Senecio umbrosus |  | nagy aggófű | 100 000 |
 
-| Füles kosbor | Orchis mascula | 10 000 |
+| 265. |  | Serratula lycopifolia |  | fénylő zsoltina | 100 000 |
 
-| Fürtös gyűrűvirág | Carpesium abrotanoides | 2 000 |
+| 266. |  |  | Serratula radiata | sugaras zsoltina | 10 000 |
 
-| Fürtös homokliliom | Anthericum liliago | 10 000 |
+| 267. |  |  | Sonchus palustris | mocsári csorbóka | 5 000 |
 
-| Fürtös kőtörőfű | Saxifraga paniculata | 10 000 |
+| 268. |  |  | Taraxacum serotinum | kései pitypang | 5 000 |
 
-| Fűzlevelű gyöngyvessző | Spiraea salicifolia | 2 000 |
+| 269. |  |  | Telekia speciosa | Teleki-virág (pompásTeleki-virág) | 10 000 |
 
-| Gázló | Hydrocotyle vulgaris | 5 000 |
+| 270. |  |  | Tephroseris aurantiaca | narancsszínű aggóvirág | 50 000 |
 
-| Gérbics | Limodorum abortivum | 10 000 |
+| 271. |  |  | Tephroseris crispa | csermelyaggóvirág | 10 000 |
 
-| Gombos varjúköröm | Phyteuma orbiculare | 5 000 |
+| 272. |  |  | Tephroseris longifolia (syn: Senecio ovirensis) | hosszúlevelű aggóvirág | 50 000 |
 
-| Gömbös kövirózsa | Jovibarba globifera subsp. globifera | 10 000 |
+| 273. |  |  | Tragopogon floccosus | homoki bakszakáll | 5 000 |
 
-| Gömbtermésű sárma | Ornithogalum sphaerocarpum | 2 000 |
+| 274. | Betulaceae |  |  | nyírfafélék |  |
 
-| Gyapjasmagvú sás | Carex lasiocarpa | 2 000 |
+| 275. |  |  | Alnus viridis | havasi éger | 50 000 |
 
-| Gyepes nefelejcs | Myosotis laxa subsp. caespitosa | 5 000 |
+| 276. |  |  | Betula pubescens | molyhos nyír (szőrös nyír) | 50 000 |
 
-| Gyepes sás | Carex caespitosa | 2 000 |
+| 277. | Boraginaceae |  |  | érdeslevelűek |  |
 
-| Gyérvirágú csetkáka | Eleocharis quinqueflora | 5 000 |
+| 278. |  |  | Alkanna tinctoria | báránypirosító (homoki báránypirosító) | 5 000 |
 
-| Gyíkpohár | Blackstonia acuminata | 5 000 |
+| 279. |  |  | Anchusa barrelieri | kék atracél | 10 000 |
 
-| Gyíkvirág | Cnidium dubinum | 2 000 |
+| 280. |  | Anchusa ochroleuca |  | vajszínű atracél | 100 000 |
 
-| Gyilkos csomorika | Cicuta virosa | 5 000 |
+| 281. |  |  | Echium maculatum(syn.: Echium russicum) | piros kígyószisz | 50 000 |
 
-| Gyöngyvirágkörtike | Orthilia secunda | 5 000 |
+| 282. |  |  | Heliotropium supinum | henye kunkor | 5 000 |
 
-| Hagymaszagú tarsóka | Thlaspi alliaceum | 2 000 |
+| 283. |  |  | Myosotis caespitosa (syn.: Myosotis laxa subsp. caespitosa) | gyepes nefelejcs | 5 000 |
 
-| Halvány sáfrány | Crocus vittatus | 10 000 |
+| 284. |  |  | Myosotis stenophylla | sziklai nefelejcs | 50 000 |
 
-| Harangcsillag | Asyneuma canescens | 5 000 |
+| 285. |  |  | Omphalodes scorpioides | erdei békaszem | 5 000 |
 
-| Harangláb | Aquilegia vulgaris | 10 000 |
+| 286. |  |  | Onosma arenaria | homoki vértő | 5 000 |
 
-| Hármaslevelű fogasír | Cardamine waldsteinii | 10 000 |
+| 287. |  | Onosmatornense |  | tornai vértő | 250 000 |
 
-| Hármaslevelű kakukktorma | Cardamine trifolia | 10 000 |
+| 288. |  |  | Onosma visianii | borzas vértő | 5 000 |
 
-| Hármaslevelű macskagyökér | Valeriana tripteris | 5 000 |
+| 289. |  |  | Pulmonaria angustifolia | keskenylevelű tüdőfű | 50 000 |
 
-| Hármaslevelű szellőrózsa | Anemone trifolia | 10 000 |
+| 290. | Brassicaceae (Cruciferae) |  |  | keresztesvirágúak |  |
 
-| Háromporzós látonya | Elatine triandra | 10 000 |
+| 291. |  |  | Aethionema saxatile | sulyoktáska (kövi sulyoktáska) | 5 000 |
 
-| Havasalji rózsa | Rosa pendulina | 10 000 |
+| 292. |  |  | Arabis alpina | havasi ikravirág | 10 000 |
 
-| Havasalji tarsóka | Thlaspi caerulescens | 10 000 |
+| 293. |  | Armoracia macrocarpa |  | debreceni torma | 100 000 |
 
-| Havasi éger | Alnus viridis | 10 000 |
+| 294. |  |  | Aurinia saxatilis | sziklaiternye (szirti sziklaiternye) | 5 000 |
 
-| Havasi hagyma | Allium victorialis | 10 000 |
+| 295. |  |  | Cardamine amara | keserű kakukktorma | 5 000 |
 
-| Havasi ikravirág | Arabis alpina | 10 000 |
+| 296. |  |  | Cardamine glanduligera | ikrás fogasír | 10 000 |
 
-| Havasi iszalag | Clematis alpina | 10 000 |
+| 297. |  |  | Cardamine trifolia | hármaslevelű kakukktorma | 10 000 |
 
-| Havasi palástfű | Alchemilla glabra | 2 000 |
+| 298. |  |  | Cardamine waldsteinii | hármaslevelű fogasír | 10 000 |
 
-| Havasi ribiszke | Ribes alpinum | 10 000 |
+| 299. |  |  | Cardaminopsis petraea | sziklai kövifoszlár | 50 000 |
 
-| Havasi tisztesfű | Stachys alpina | 10 000 |
+| 300. |  |  | Conringia austriaca | keleti nyilasfű | 50 000 |
 
-| Havasi turbolya | Anthriscus nitidus | 2 000 |
+| 301. |  | Crambe tataria |  | tátorján (buglyos tátorján) | 100 000 |
 
-| Havasi varázslófű | Circaea alpina | 2 000 |
+| 302. |  |  | Draba lasiocarpa | kövér daravirág | 10 000 |
 
-| Hazslinszky-berkenye | Sorbus austriaca | 10 000 |
+| 303. |  |  | Erysimum crepidifolium | sziklai repcsény | 5 000 |
 
-| Hegyeskaréjú palástfű | Alchemilla acutiloba | 2 000 |
+| 304. |  |  | Erysimum odoratum | magyar repcsény | 5 000 |
 
-| Hegyi kökörcsin | Pulsatilla montana | 10 000 |
+| 305. |  | Erysimum witmannii subsp. pallidiflorum |  | halványsárga repcsény | 100 000 |
 
-| Hegyi kőtörőfű | Saxifraga adscendens | 5 000 |
+| 306. |  |  | Hesperis matronalis (excl.: Hesperis matronalis subsp.vrabelyiana) | hölgyestike (kivéve a Vrabély-estikét) | 10 000 |
 
-| Hegyi lednek | Lathyrus linifolius | 2 000 |
+| 307. |  | Hesperis matronalis subsp. vrabelyiana |  | Vrabély-estike | 100 000 |
 
-| Hegyi palástfű | Alchemilla glaucescens | 2 000 |
+| 308. |  |  | Hesperis sylvestris | erdei estike | 5 000 |
 
-| Hegyi perje | Poa remota | 5 000 |
+| 309. |  |  | Isatis tinctoria | festő csülleng | 5 000 |
 
-| Hegyi tárnicska | Gentianella austriaca | 10 000 |
+| 310. |  |  | Lunaria annua | kerti holdviola | 5 000 |
 
-| Hegyi tarsóka | Thlaspi montanum | 10 000 |
+| 311. |  |  | Lunaria rediviva | erdei holdviola | 5 000 |
 
-| Hegyközi cickafark | Achillea crithmifolia | 2 000 |
+| 312. |  |  | Nasturtium officinale | vízitorma | 5 000 |
 
-| Hengeres sás | Carex diandra | 2 000 |
+| 313. |  |  | Sisymbrium polymorphum | karcsú zsombor | 50 000 |
 
-| Hengeresfészkű peremizs | Inula germanica | 2 000 |
+| 314. |  |  | Teesdalia nudicaulis | nyugati rejtőke | 10 000 |
 
-| Henye boroszlán | Daphne cneorum | 10 000 |
+| 315. |  |  | Thlaspi alliaceum | hagymaszagú tarsóka | 10 000 |
 
-| Henye kunkor | Heliotropium supinum | 2 000 |
+| 316. |  |  | Thlaspi caerulescens | havasalji tarsóka | 10 000 |
 
-| Henye vasfű | Verbena supina | 2 000 |
+| 317. |  |  | Thlaspi goesingense | osztrák tarsóka | 10 000 |
 
-| Heuffel-zanót | Chamaecytisus heuffelii | 5 000 |
+| 318. |  |  | Thlaspi jankae agg. (incl. Thlaspi hungaricum) | Janka-tarsóka (beleértve a magyar tarsókát) | 10 000 |
 
-| Heverő iszapfű | Lindernia procumbens | 2 000 |
+| 319. |  |  | Thlaspi kovatsii (syn: Thlaspi kovatsii subsp. schudichii) | Schudich-tarsóka | 10 000 |
 
-| Hólyagos here | Trifolium vesiculosum | 2 000 |
+| 320. |  |  | Thlaspi montanum | hegyi tarsóka | 50 000 |
 
-| Homoki árvalányhaj | Stipa borysthenica | 5 000 |
+| 321. | Campanulaceae |  |  | harangvirágfélék |  |
 
-| Homoki bakszakáll | Tragopogon floccosus | 2 000 |
+| 322. |  | Adenophora liliifolia |  | csengettyűvirág (illatos csengettyűvirág) | 250 000 |
 
-| Homoki cickafark | Achillea ochroleuca | 2 000 |
+| 323. |  |  | Asyneuma canescens | harangcsillag | 5 000 |
 
-| Homoki csüdfű | Astragalus varius | 5 000 |
+| 324. |  | Campanula latifolia |  | széleslevelű harangvirág | 100 000 |
 
-| Homoki fátyolvirág | Gypsophila fastigiata | 5 000 |
+| 325. |  | Campanula macrostachya |  | hosszúfüzérű harangvirág | 100 000 |
 
-| Homoki imola | Centaurea arenaria | 10 000 |
+| 326. |  |  | Phyteuma orbiculare | gombos varjúköröm | 5 000 |
 
-| Homoki kocsord | Peucedanum arenarium | 2 000 |
+| 327. |  |  | Phyteuma spicatum | erdei varjúköröm | 5 000 |
 
-| Homoki nőszirom | Iris humilis subsp. arenaria | 10 000 |
+| 328. | Caprifoliaceae |  |  | bodzafélék |  |
 
-| Homoki varjúháj | Sedum hillebrandtii | 2 000 |
+| 329. |  |  | Lonicera caprifolium | jerikói lonc | 5 000 |
 
-| Homoki vértő | Onosma arenaria | 5 000 |
+| 330. |  |  | Lonicera nigra | fekete lonc | 10 000 |
 
-| Homoktövis (kivéve gyümölcse, gyógyászati és élelmezési célra feldolgozott származéka) | Hippopha‰ rhamnoides | 10 000 |
+| 331. | Caryophyllaceae |  |  | szegfűfélék |  |
 
-| Horgas bogáncs | Carduus hamulosus | 2 000 |
+| 332. |  |  | Agrostemma githago | konkoly (vetési konkoly) | 5 000 |
 
-| Hosszúfüzérű harangvirág | Campanula macrostachya | 10 000 |
+| 333. |  |  | Cerastium arvense subsp. matrense (syn.: Cerastium arvense subsp. molle) | mátrai madárhúr | 10 000 |
 
-| Hosszúlevelű aggófű | Tephroseris longifolia | 10 000 |
+| 334. |  |  | Dianthus arenarius(syn.: Dianthus arenarius subsp. borussicus) | balti szegfű | 5 000 |
 
-| Hosszúlevelű árvalányhaj | Stipa tirsa | 5 000 |
+| 335. |  |  | Dianthus collinus | dunai szegfű | 5 000 |
 
-| Hosszúlevelű buvákfű | Bupleurum longifolium | 5 000 |
+| 336. |  |  | Dianthus deltoides | réti szegfű | 5 000 |
 
-| Hosszúlevelű veronika | Pseudolysimachion longifolium | 5 000 |
+| 337. |  | Dianthus diutinus |  | tartós szegfű | 250 000 |
 
-| Hölgyestike | Hesperis matronalis | 2 000 |
+| 338. |  |  | Dianthus giganteiformis | nagy szegfű | 5 000 |
 
-| Hullámoslevelű palástfű | Alchemilla subcrenata | 5 000 |
+| 339. |  | Dianthus plumarius subsp. lumnitzeri (incl. Dianthus plumarius subsp. regis-stephani) |  | Lumnitzer-szegfű (beleértve az István király-szegfüvet) | 100 000 |
 
-| Hússzínű ujjaskosbor | Dactylorhiza incarnata | 10 000 |
+| 340. |  | Dianthus plumarius subsp. praecox |  | korai szegfű | 100 000 |
 
-| Hüvelyes gyapjúsás | Eriophorum vaginatum | 10 000 |
+| 341. |  |  | Dianthus serotinus | kései szegfű | 5 000 |
 
-| Ibolyás nőszőfű | Epipactis purpurata | 10 000 |
+| 342. |  |  | Dianthus superbus | buglyos szegfű | 5 000 |
 
-| Ikrás fogasír | Cardemine glanduligera | 10 000 |
+| 343. |  |  | Gypsophila arenaria (syn.: Gypsophila fastigiata) | homoki fátyolvirág | 5 000 |
 
-| Illatos bibircsvirág | Gymnadenia odoratissima | 5 000 |
+| 344. |  |  | Herniaria incana | szürke porcika | 5 000 |
 
-| Illatos hagyma | Allium suaveolens | 5 000 |
+| 345. |  |  | Lychnis coronaria | bársonyos kakukkszegfű | 10 000 |
 
-| Illatos hunyor | Helleborus odorus | 5 000 |
+| 346. |  |  | Minuartia frutescens (syn.: Minuartia hirsuta) | magyar kőhúr | 5 000 |
 
-| Illír sáfrány | Crocus tommasinianus | 10 000 |
+| 347. |  |  | Moehringia muscosa | mohos csitri | 5 000 |
 
-| Janka-tarsóka | Thlaspi jankae | 5 000 |
+| 348. |  |  | Paronychia cephalotes | ezüstaszott (keskenylevelű ezüstvirág) | 5 000 |
 
-| Jávorka-berkenye | Sorbus javorkae | 10 000 |
+| 349. |  |  | Scleranthus perennis | évelő szikárka | 10 000 |
 
-| Jávorka-fényperje | Koeleria javorkae | 5 000 |
+| 350. |  |  | Silene borysthenica | kisvirágú habszegfű | 10 000 |
 
-| Jerikói lonc | Lonicera caprifolium | 2 000 |
+| 351. |  |  | Silene bupleuroides | termetes habszegfű (gór habszegfű) | 10 000 |
 
-| Kacstalan lednek | Lathyrus nissolia | 2 000 |
+| 352. |  |  | Silene dioica | piros mécsvirág | 5 000 |
 
-| Kakasmandikó | Erythronium dens-canis | 10 000 |
+| 353. |  | Silene flavescens |  | sárgás habszegfű | 100 000 |
 
-| Kálmos (kivéve gyógyászati célra feldolgozott származéka) | Acorus calamus | 2 000 |
+| 354. |  |  | Silene multiflora | sokvirágú habszegfű | 5 000 |
 
-| Karcsú orbáncfű | Hypericum elegans | 5 000 |
+| 355. |  |  | Silene nemoralis | berki habszegfű | 5 000 |
 
-| Karcsú sisakvirág | Aconitum variegatum | 10 000 |
+| 356. |  |  | Stellaria palustris | mocsári csillaghúr | 10 000 |
 
-| Karcsú zsombor | Sisymbrium polymorphum | 2 000 |
+| 357. | Ceratophyllaceae |  |  | tócsagazfélék |  |
 
-| Kardos madársisak | Cephalanthera longifolia | 5 000 |
+| 358. |  |  | Ceratophyllum tanaiticum | Don-vidéki tócsagaz | 50 000 |
 
-| Kárpáti sáfrány | Crocus heuffelianus | 10 000 |
+| 359. | Chenopodiaceae |  |  | libatopfélék |  |
 
-| Kárpáti sisakvirág | Aconitum moldavicum | 10 000 |
+| 360. |  |  | Bassia sedoides | hamvas seprőparéj | 5 000 |
 
-| Kecses palástfű | Alchemilla micans | 2 000 |
+| 361. |  |  | Corispermum canescens | szürke poloskamag | 10 000 |
 
-| Kék atracél | Anchusa barrelieri | 10 000 |
+| 362. |  |  | Corispermum nitidum | fényes poloskamag | 5 000 |
 
-| Kék szamárkenyér | Echinops ruthenicus | 5 000 |
+| 363. |  |  | Krascheninnikovia ceratoides | pamacslaboda | 10 000 |
 
-| Kékes borkóró (Pannon borkóró) | Thalictrum minus subsp. pseudominus | 2 000 |
+| 364. |  |  | Petrosimonia triandra | szikárszik | 5 000 |
 
-| Kékes szádor | Orobanche coerulescens | 2 000 |
+| 365. |  |  | Salsola soda | sziki ballagófű | 5 000 |
 
-| Keleti békakorsó | Sium sisarum | 5 000 |
+| 366. | Colchicaceae |  |  | kikericsfélék |  |
 
-| Keleti gyertyán | Carpinus orientalis | 10 000 |
+| 367. |  | Bulbocodiumvernum(incl.Bulbocodiumversicolor) |  | egyhajúvirág (tavaszi egyhajúvirág) | 250 000 |
 
-| Keleti zergevirág | Doronicum orientale | 10 000 |
+| 368. |  | Colchicum arenarium |  | homoki kikerics | 100 000 |
 
-| Keménytövisű lucerna | Medicago rigidula | 2 000 |
+| 369. |  | Colchicum hungaricum |  | magyar kikerics | 100 000 |
 
-| Kenyérbélcickafark | Achillea ptarmica | 5 000 |
+| 370. | Convallariaceae |  |  | gyöngyvirágfélék |  |
 
-| Kereklevelű harmatfű | Drosera rotundifolia | 10 000 |
+| 371. |  |  | Polygonatum verticillatum | pávafarkú salamonpecsét | 10 000 |
 
-| Kereklevelű körtike | Pyrola rotundifolia | 5 000 |
+| 372. | Convolvulaceae |  |  | szulákfélék |  |
 
-| Kerti berkenye | Sorbus domestica | 2 000 |
+| 373. |  |  | Convolvulus cantabrica | borzas szulák | 5 000 |
 
-| Kerti holdviola | Lunaria annua | 5 000 |
+| 374. | Corylaceae |  |  | mogyorófélék |  |
 
-| Kései pitypang | Taraxacum serotinum | 2 000 |
+| 375. |  |  | Carpinus orientalis | keleti gyertyán | 50 000 |
 
-| Kései szegfű | Dianthus serotinus | 2 000 |
+| 376. | Crassulaceae |  |  | varjúhájfélék |  |
 
-| Keskenylevelű gyapjúsás | Eriophorum angustifolium | 5 000 |
+| 377. |  |  | Jovibarba globifera (incl. Jovibarba globiferasubsp. hirta, Jovibarba globifera subsp. globifera) | sárga-kövirózsa | 5 000 |
 
-| Keskenylevelű hölgymál | Chlorocrepis staticifolia | 2 000 |
+| 378. |  |  | Sedum acre subsp. neglectum | adriai varjúháj | 5 000 |
 
-| Keskenylevelű tüdőfű | Pulmonaria angustifolia | 5 000 |
+| 379. |  |  | Sedum caespitosum | sziki varjúháj | 5 000 |
 
-| Kétlevelű sarkvirág | Platanthera bifolia | 2 000 |
+| 380. |  |  | Sedum hispanicum | deres varjúháj | 5 000 |
 
-| Kígyógyökerű keserűfű | Persicaria bistorta | 5 000 |
+| 381. |  |  | Sedum urvillei subsp. hillebrandtii (syn.: Sedum hillebrandtii) | homoki varjúháj | 5 000 |
 
-| Királyné gyertyája | Asphodelus albus | 10 000 |
+| 382. |  |  | Sempervivum matricum (Sempervivum marmoreum auct. hung.) | mátrai kövirózsa (rózsás kövirózsa) | 10 000 |
 
-| Kis rence | Utricularia minor | 10 000 |
+| 383. |  |  | Sempervivum tectorum 23 | házi kövirózsa (fali kövirózsa) 2 | 5 000 |
 
-| Kisebb körtike | Pyrola minor | 5 000 |
+| 384. | Cyperaceae |  |  | palkafélék |  |
 
-| Kisfészkű aszat | Cirsium brachycephalum | 2 000 |
+| 385. |  |  | Blysmus compressus | lapos kétsoroskáka | 10 000 |
 
-| Kisfészkű hangyabogáncs | Jurinea mollis | 2 000 |
+| 386. |  |  | Carex alba | fehér sás | 5 000 |
 
-| Kiskörtike | Moneses uniflora | 5 000 |
+| 387. |  |  | Carex appropinquata | rostostövű sás | 10 000 |
 
-| Kislevelű nőszőfű | Epipactis microphylla | 5 000 |
+| 388. |  |  | Carex bohemica | palkasás | 5 000 |
 
-| Kispárlófű | Aremonia agrimonioides | 2 000 |
+| 389. |  |  | Carex brevicollis | mérges sás | 5 000 |
 
-| Kisvirágú hunyor | Helleborus dumetorum | 5 000 |
+| 390. |  |  | Carex buekii | bánsági sás | 5 000 |
 
-| Kisvirágú pacsirtafű | Polygala amarella | 5 000 |
+| 391. |  |  | Carex buxbaumii | Buxbaum-sás | 10 000 |
 
-| Kockás kotuliliom (Mocsári kockásliliom) | Fritillaria meleagris | 10 000 |
+| 392. |  |  | Carex canescens | szürkés sás | 10 000 |
 
-| Konkoly | Agrostemma githago | 2 000 |
+| 393. |  |  | Carex cespitosa | gyepes sás | 10 000 |
 
-| Korallgyökér | Corallorhiza trifida | 10 000 |
+| 394. |  |  | Carex davalliana | lápi sás | 10 000 |
 
-| Korcs nőszirom (Fátyolos nőszirom) | Iris spuria | 10 000 |
+| 395. |  |  | Carex depressa subsp. transsilvanica | erdélyi sás | 10 000 |
 
-| Kormos csáté | Schoenus nigricans | 2 000 |
+| 396. |  |  | Carex diandra | hengeres sás | 50 000 |
 
-| Kornistárnics | Gentiana pneumonanthe | 10 000 |
+| 397. |  |  | Carex echinata | töviskés sás | 5 000 |
 
-| Korongos lucerna | Medicago orbicularis | 5 000 |
+| 398. |  |  | Carex fritschii | dunántúli sás | 10 000 |
 
-| Kövér daravirág | Draba lasiocarpa | 10 000 |
+| 399. |  |  | Carex hartmanii | északi sás | 5 000 |
 
-| Kövi pimpó | Potentilla rupestris | 2 000 |
+| 400. |  |  | Carex lasiocarpa | gyapjasmagvú sás | 10 000 |
 
-| Kövi szeder | Rubus saxatilis | 5 000 |
+| 401. |  |  | Carex paniculata | bugás sás | 5 000 |
 
-| Középső körtike | Pyrola media | 5 000 |
+| 402. |  |  | Carex repens | kúszó sás | 10 000 |
 
-| Közönséges palástfű (kivéve gyógyászati célra feldolgozott származéka) | Alchemilla monticola | 2 000 |
+| 403. |  |  | Carex rostrata | csőrös sás | 5 000 |
 
-| Kúszó celler | Apium repens | 10 000 |
+| 404. |  |  | Carex strigosa | borostás sás | 5 000 |
 
-| Kúszó csalán | Utrica kioviensis | 5 000 |
+| 405. |  |  | Carex umbrosa | árnyéki sás | 10 000 |
 
-| Kúszó sás | Carex repens | 5 000 |
+| 406. |  |  | Eleocharis carniolica | sűrű csetkáka | 10 000 |
 
-| Lapp ujjaskosbor | Dactylorhiza lapponica | 10 000 |
+| 407. |  |  | Eleocharis quinqueflora | gyérvirágú csetkáka | 10 000 |
 
-| Lápi ibolya | Viola stagnina | 5 000 |
+| 408. |  |  | Eleocharis uniglumis | egypelyvás csetkáka | 5 000 |
 
-| Lápi nádtippan | Calamagrostis stricta | 2 000 |
+| 409. |  |  | Eriophorum angustifolium | keskenylevelű gyapjúsás | 10 000 |
 
-| Lápi nyúlfarkfű | Sesleria caerulea | 2 000 |
+| 410. |  |  | Eriophorum gracile | vékony gyapjúsás | 10 000 |
 
-| Lápi sás | Carex davalliana | 5 000 |
+| 411. |  |  | Eriophorum latifolium | széleslevelű gyapjúsás | 10 000 |
 
-| Leánykökörcsin | Pulsatilla grandis | 10 000 |
+| 412. |  |  | Eriophorum vaginatum | hüvelyes gyapjúsás | 10 000 |
 
-| Lenlevelű füzény | Lythrum linifolium | 2 000 |
+| 413. |  |  | Rhynchospora alba | fehér tőzegkáka | 5 000 |
 
-| Ligeti csillagvirág | Scilla vindobonensis | 2 000 |
+| 414. |  |  | Schoenus nigricans | kormos csáté | 5 000 |
 
-| Ligeti szőlő | Vitis sylvestris | 10 000 |
+| 415. | Dioscoreaceae |  |  | jamszgyökérfélék |  |
 
-| Lila csenkesz | Festuca amethystina | 5 000 |
+| 416. |  |  | Tamus communis | pirítógyökér (felfutó pirítógyökér) | 5 000 |
 
-| Lisztes berkenye | Sorbus aria | 10 000 |
+| 417. | Dipsacaceae |  |  | mácsonyafélék |  |
 
-| Lisztes, déli és a barkócaberkenye átmeneti kisfajai (minden lisztes levélfonákú berkenye) |  | 10 000 |
+| 418. |  | Knautia arvensis subsp. kitaibelii |  | Kitaibel-varfű | 250 000 |
 
-|  | Andreánszky-berkenye Ádám-berkenye Bakonyi berkenye Balatoni berkenye Bartha-berkenye Boros-berkenye Budai berkenye Csákberényi berkenye Dégen-berkenye Gáyer-berkenye Gerecsei berkenye Kárpáti-berkenye Keller-berkenye Keszthelyi berkenye Kevéserű berkenye Nagylevelű berkenye Rédl-berkenye Rövidkaréjú berkenye Sárgáslevelű berkenye Simonkai-berkenye Vértesi berkenye | Sorbus andreanszkyana Sorbus adamim Sorbus bakonyensis Sorbus balatonica Sorbus barthae Sorbus borosiana Sorbus semiincisa Sorbus pseudovertesensis Sorbus degenii Sorbus gayerana Sorbus gerecseensis Sorbus karpatii Sorbus eugenii-kelleri Sorbus decipientiformis Sorbus pseudosemiincisa Sorbus latissima Sorbus redliana Sorbus pseudobakonyensis Sorbus pseudolatifolia Sorbus simonkaiana Sorbus vertesensis |  |
+| 419. |  |  | Knautia dipsacifolia (syn.: Knautia maxima) | erdei varfű | 10 000 |
 
-| Lónyelvű csodabogyó | Ruscus hypoglossum | 10 000 |
+| 420. |  |  | Scabiosa canescens | szürkés ördögszem | 5 000 |
 
-| Macskahere | Phlomis tuberosa | 5 000 |
+| 421. | Droseraceae |  |  | harmatfűfélék |  |
 
-| Madárfészek | Neottia nidus-avis | 5 000 |
+| 422. |  |  | Aldrovanda vesiculosa | aldrovanda(lápialdrovand) | 50 000 |
 
-| Magas borsó | Pisum elatius | 5 000 |
+| 423. |  |  | Drosera rotundifolia | kereklevelű harmatfű | 10 000 |
 
-| Magas fényperje | Koeleria pyramidata | 2 000 |
+| 424. | Elaeagnaceae |  |  | ezüstfafélék |  |
 
-| Magas istác | Armeria elongata | 10 000 |
+| 425. |  |  | Hippophaë rhamnoides 24 | homoktövis (európai homoktövis) 3 | 10 000 |
 
-| Magas tarackbúza (kivéve energetikai célra termesztett és feldolgozott származéka) | Elymus elongatus | 5 000 |
+| 426. | Elatinaceae |  |  | látonyafélék |  |
 
-| Magasszárú kocsord | Peucedanum verticillare | 5 000 |
+| 427. |  |  | Elatine alsinastrum | pocsolyalátonya | 5 000 |
 
-| Magyar bogáncs | Carduus collinus | 5 000 |
+| 428. |  |  | Elatine hungarica | magyar látonya | 5 000 |
 
-| Magyar kőhúr | Minuartia hirsuta | 5 000 |
+| 429. |  |  | Elatine hydropiper | csigásmagvú látonya | 5 000 |
 
-| Magyar látonya | Elatine hungarica | 2 000 |
+| 430. |  |  | Elatine triandra | háromporzós látonya | 10 000 |
 
-| Magyar lednek | Lathyrus pannonicus | 5 000 |
+| 431. | Ericaceae |  |  | hangafélék |  |
 
-| Magyar nyúlfarkfű | Sesleria heufleriana subsp. hungarica | 2 000 |
+| 432. |  |  | Vaccinium oxycoccos (incl. Vacciniummicrocarpum) 1 | tőzegáfonya 1 | 10 000 |
 
-| Magyar palástfű | Alchemilla hungarica | 2 000 |
+| 433. |  |  | Vacciniumvitis-idaea 3 | vörös áfonya 3 | 10 000 |
 
-| Magyar perje | Poa pannonica subsp. glabra | 5 000 |
+| 434. | Fabaceae (Papilionaceae) |  |  | pillangósvirágúak |  |
 
-| Magyar repcsény | Erysimum odoratum | 5 000 |
+| 435. |  |  | Astragalus asper | érdes csüdfű | 5 000 |
 
-| Magyar zergevirág | Doronicum hungaricum | 10 000 |
+| 436. |  |  | Astragalus contortuplicatus | tekert csüdfű | 50 000 |
 
-| Magyar zörgőfű | Crepis pannonica | 2 000 |
+| 437. |  | Astragalus dasyanthus |  | gyapjas csüdfű | 100 000 |
 
-| Majomkosbor | Orchis simia | 10 000 |
+| 438. |  |  | Astragalus exscapus | szártalan csüdfű | 50 000 |
 
-| Májvirág | Hepatica nobilis | 2 000 |
+| 439. |  |  | Astragalus sulcatus | barázdás csüdfű | 50 000 |
 
-| Martilapuszádor | Orobanche flava | 10 000 |
+| 440. |  |  | Astragalus varius | homoki csüdfű | 50 000 |
 
-| Mátrai madárhúr | Cerastium arvense subsp. molle | 2 000 |
+| 441. |  |  | Astragalus vesicarius subsp. albidus | fehéres csüdfű | 10 000 |
 
-| Méregölő sisakvirág | Aconitum anthora | 2 000 |
+| 442. |  |  | Chamaecytisus albus | fehér törpezanót | 5 000 |
 
-| Mérges sás | Carex brevicollis | 5 000 |
+| 443. |  |  | Chamaecytisus ciliatus (syn.: Chamaecytisus hirsutus subsp. ciliatus) | pillás törpezanót | 5 000 |
 
-| Mocsári aggófű | Senecio paludosus | 10 000 |
+| 444. |  |  | Chamaecytisus heuffelii | Heuffel-törpezanót | 5 000 |
 
-| Mocsári csorbóka | Sonchus palustris | 2 000 |
+| 445. |  |  | Chamaecytisus rochelii | Rochel-törpezanót | 5 000 |
 
-| Mocsári kígyófű | Triglochin palustre | 2 000 |
+| 446. |  |  | Coronilla coronata | sárga koronafürt | 5 000 |
 
-| Mocsári kocsord | Peucedanum palustre | 2 000 |
+| 447. |  |  | Coronilla vaginalis | terpedt koronafürt | 10 000 |
 
-| Mocsári kosbor | Orchis laxiflora subsp. palustris | 10 000 |
+| 448. |  |  | Hippocrepis emerus | bokros koronafürt | 10 000 |
 
-| Mocsári lednek | Lathyrus palustris | 5 000 |
+| 449. |  |  | Lathyrus lacteus (syn.: Lathyrus pannonicus subsp. collinus) | koloncos lednek | 5 000 |
 
-| Mocsári nőszőfű | Epipactis palustris | 5 000 |
+| 450. |  |  | Lathyrus linifolius | hegyi lednek | 5 000 |
 
-| Mohos csitri | Moehringia muscosa | 5 000 |
+| 451. |  |  | Lathyrus nissolia | kacstalan lednek | 5 000 |
 
-| Müller-nőszőfű | Epipactis muelleri | 10 000 |
+| 452. |  | Lathyrus pallescens |  | sápadt lednek | 250 000 |
 
-| Nádi boglárka | Ranunculus lingua | 2 000 |
+| 453. |  |  | Lathyrus palustris | mocsári lednek | 10 000 |
 
-| Nagy gombafű | Androsace maxima | 10 000 |
+| 454. |  |  | Lathyrus pannonicus | magyar lednek | 10 000 |
 
-| Nagy pacsirtafű | Polygala major | 5 000 |
+| 455. |  | Lathyrus pisiformis |  | borsóképű lednek | 250 000 |
 
-| Nagy szegfű | Dianthus giganteiformis | 5 000 |
+| 456. |  |  | Lathyrus transsylvanicus | erdélyi lednek | 10 000 |
 
-| Nagyezerjófű | Dictamnus albus | 5 000 |
+| 457. |  |  | Lathyrus venetus | tarka lednek | 5 000 |
 
-| Nagyfészkű hangyabogáncs | Jurinea glycacantha | 2 000 |
+| 458. |  |  | Lotus borbasii | Borbás-kerep | 5 000 |
 
-| Nagylevelű koronafürt | Securigera elegans | 10 000 |
+| 459. |  |  | Medicago orbicularis | korongos lucerna | 5 000 |
 
-| Nagylevelű madárbirs | Cotoneaster tomentosus | 2 000 |
+| 460. |  |  | Medicago rigidula | keménytövisű lucerna | 5 000 |
 
-| Nagyvirágú fényperje | Koeleria majoriflora | 2 000 |
+| 461. |  |  | Oxytropis pilosa | borzas csajkavirág | 50 000 |
 
-| Nagyvirágú gyíkfű | Prunella grandiflora | 5 000 |
+| 462. |  |  | Pisum elatius | magas borsó | 5 000 |
 
-| Narancsszínű aggófű | Tephroseris aurantiaca | 10 000 |
+| 463. |  |  | Securigera elegans | nagylevelű tarkakoronafürt | 50 000 |
 
-| Norden-nőszőfű | Epipactis nordeniorum | 10 000 |
+| 464. |  |  | Trifolium ornithopodioides | egyvirágú here | 5 000 |
 
-| Nyári füzértekercs | Spiranthes aestivalis | 10 000 |
+| 465. |  |  | Trifolium subterraneum | földbentermő here | 10 000 |
 
-| Nyári tőzike | Leucojum aestivum | 2 000 |
+| 466. |  |  | Trifolium vesiculosum | hólyagos here | 50 000 |
 
-| Nyugati csillagvirág | Scilla drunensis | 2 000 |
+| 467. |  |  | Trigonella gladiata | bakszarvú lepkeszeg | 50 000 |
 
-| Nyúlánk sárma | Ornithogalum pyramidale | 2 000 |
+| 468. |  | Vicia biennis |  | kunsági bükköny | 100 000 |
 
-| Olasz müge | Asperula taurina | 2 000 |
+| 469. |  |  | Vicia narbonensis | fogaslevelű bükköny | 5 000 |
 
-| Osztrák borzamag | Pleurospermum austriacum | 5 000 |
+| 470. |  |  | Vicia oroboides | zalai bükköny | 5 000 |
 
-| Osztrák tarsóka | Thlaspi goesingense | 10 000 |
+| 471. |  |  | Vicia sparsiflora | pilisi bükköny | 5 000 |
 
-| Osztrák zergevirág | Doronicum austriacum | 10 000 |
+| 472. |  |  | Vicia sylvatica | ligeti bükköny | 5 000 |
 
-| Ökörszem | Buphthalmum salicifolium | 5 000 |
+| 473. | Fumariaceae |  |  | füstikefélék |  |
 
-| Öldöklő aszat | Cirsium furiens | 10 000 |
+| 474. |  |  | Corydalis intermedia | bókoló keltike | 5 000 |
 
-| Örménygyökér (kivéve gyógyászati célra feldolgozott származéka) | Inula helenium | 5 000 |
+| 475. | Gentianaceae |  |  | tárnicsfélék |  |
 
-| Őszi csillagvirág | Prospero elisae | 5 000 |
+| 476. |  |  | Blackstonia acuminata | kései gyíkpohár | 5 000 |
 
-| Őszi füzértekercs | Spiranthes spiralis | 10 000 |
+| 477. |  |  | Gentiana asclepiadea | fecsketárnics | 10 000 |
 
-| Palkasás | Carex bohemica | 2 000 |
+| 478. |  |  | Gentiana cruciata | Szent László-tárnics | 10 000 |
 
-| Pamacslaboda | Krascheninnikovia ceratoides | 10 000 |
+| 479. |  |  | Gentiana pneumonanthe | kornistárnics | 10 000 |
 
-| Pannon derescsenkesz | Festuca pallens subsp. pannonica | 10 000 |
+| 480. |  |  | Gentianella amarella | csinos tárnicska | 50 000 |
 
-| Pannon madárbirs | Cotoneaster matrensis | 10 000 |
+| 481. |  |  | Gentianella austriaca | osztrák tárnicska (hegyi tárnicska) | 10 000 |
 
-| Parókás imola | Centaurea pseudophrygia | 5 000 |
+| 482. |  |  | Gentianopsis ciliata | kései prémestárnics | 10 000 |
 
-| Parti fűz | Salix elaeagnos | 2 000 |
+| 483. | Geraniaceae |  |  | gólyaorrfélék |  |
 
-| Pávafarkú salamonpecsét | Polygonatum verticillatum | 10 000 |
+| 484. |  |  | Geranium sylvaticum | erdei gólyaorr | 10 000 |
 
-| Pázsitos nőszirom | Iris graminea | 5 000 |
+| 485. | Globulariaceae |  |  | gubóvirágfélék |  |
 
-| Pettyegetett őszirózsa | Aster sedifolius | 2 000 |
+| 486. |  |  | Globularia cordifolia | szívlevelű gubóvirág | 10 000 |
 
-| Pettyes orbáncfű | Hypericum maculatum | 5 000 |
+| 487. | Grossulariaceae |  |  | ribiszkefélék |  |
 
-| Pécsvidéki aszat | Cirsium boujartii | 2 000 |
+| 488. |  |  | Ribes alpinum | havasi ribiszke | 10 000 |
 
-| Pézsmahagyma | Allium moschatum | 5 000 |
+| 489. |  |  | Ribes nigrum 3 | fekete ribiszke 3 | 10 000 |
 
-| Pilisi bükköny | Vicia sparsiflora | 5 000 |
+| 490. |  |  | Ribes petraeum | bérci ribiszke | 10 000 |
 
-| Pillás zanót | Chamaecytisus hirsutus subsp. ciliatus | 2 000 |
+| 491. | Helleboraceae |  |  | hunyorfélék |  |
 
-| Piritógyökér | Tamus communis | 2 000 |
+| 492. |  |  | Aconitum anthora | méregölő sisakvirág | 5 000 |
 
-| Piros kígyószisz | Echium maculatum | 10 000 |
+| 493. |  |  | Aconitum moldavicum | kárpáti sisakvirág | 50 000 |
 
-| Piros madárbirs | Cotoneaster integerrimus | 2 000 |
+| 494. |  |  | Aconitum variegatum | karcsú sisakvirág | 50 000 |
 
-| Piros madársisak | Cephalanthera rubra | 5 000 |
+| 495. |  |  | Aconitum vulparia | farkasölő sisakvirág | 5 000 |
 
-| Piros mécsvirág | Silene dioica | 2 000 |
+| 496. |  |  | Aquilegia nigricans | feketéllő harangláb | 10 000 |
 
-| Piros pozdor | Scorzonera purpurea | 5 000 |
+| 497. |  |  | Aquilegia vulgaris | közönséges harangláb | 10 000 |
 
-| Pirosló hunyor | Helleborus purpurascens | 5 000 |
+| 498. |  | Cimicifuga europaea |  | büdös poloskavész | 100 000 |
 
-| Pirosló nádtippan | Calamagrostis purpurea | 10 000 |
+| 499. |  |  | Eranthis hyemalis | téltemető (kikeletnyitó téltemető) | 5 000 |
 
-| Pocsolyalátonya | Elatine alsinastrum | 2 000 |
+| 500. |  |  | Helleborus dumetorum | kisvirágú hunyor | 5 000 |
 
-| Pofók árvacsalán | Lamium orvala | 10 000 |
+| 501. |  |  | Helleborus odorus | illatos hunyor | 10 000 |
 
-| Poloskaszagú kosbor | Orchis coriophora | 10 000 |
+| 502. |  |  | Helleborus purpurascens | pirosló hunyor | 10 000 |
 
-| Poloskavész | Cimicifuga europaea | 10 000 |
+| 503. |  |  | Trollius europaeus | zergeboglár (közönséges zergeboglár) | 50 000 |
 
-| Pompás kosbor | Orchis laxiflora subsp. elegans | 10 000 |
+| 504. | Hemerocallidaceae |  |  | sásliliomfélék |  |
 
-| Pontuszi nőszőfű | Epipactis pontica | 10 000 |
+| 505. |  | Hemerocallis lilio-asphodelus |  | sárga sásliliom | 100 000 |
 
-| Posványkakastaréj | Pedicularis palustris | 10 000 |
+| 506. | Hippuridaceae |  |  | vízilófarkfélék |  |
 
-| Prémes tárnics | Gentianopsis ciliata | 10 000 |
+| 507. |  |  | Hippuris vulgaris | közönséges vízilófark | 10 000 |
 
-| Pusztai árvalányhaj | Stipa pennata | 5 000 |
+| 508. | Hyacinthaceae |  |  | jácintfélék |  |
 
-| Pusztai meténg | Vinca herbacea | 2 000 |
+| 509. |  |  | Muscari botryoides | epergyöngyike | 5 000 |
 
-| Rákosi csenkesz | Festuca wagneri | 10 000 |
+| 510. |  |  | Ornithogalum brevistylum (syn.: Ornithogalum pyramidale) | nyúlánk sárma | 5 000 |
 
-| Rejtőke | Teesdalia nudicaulis | 10 000 |
+| 511. |  |  | Ornithogalum pannonicum | üstökös sárma | 5 000 |
 
-| Réti iszalag | Clematis integrifolia | 2 000 |
+| 512. |  |  | Ornithogalum refractum | csilláros sárma | 5 000 |
 
-| Réti kardvirág | Gladiolus imbricatus | 10 000 |
+| 513. |  |  | Ornithogalum sphaerocarpum | gömböstermésű sárma | 5 000 |
 
-| Réti palástfű (kivéve gyógyászati célra feldolgozott származéka) | Alchemilla xanthochlora | 2 000 |
+| 514. |  |  | Scilla autumnalis agg. (incl. Prospero elisae, Prospero paratheticum) | őszi csillagvirágok | 5 000 |
 
-| Réti szegfű | Dianthus deltoides | 5 000 |
+| 515. |  |  | Scilla drunensis | nyugati csillagvirág | 5 000 |
 
-| Rezes hölgymál | Hieracium aurantiacum | 10 000 |
+| 516. |  |  | Scilla kladnii | erdélyi csillagvirág | 10 000 |
 
-| Rostostövű sás | Carex appropinquata | 5 000 |
+| 517. |  |  | Scilla spetana | Speta-csillagvirág | 10 000 |
 
-| Rózsás kövirózsa | Sempervivum marmoreum | 2 000 |
+| 518. |  |  | Scilla vindobonensis | ligeti csillagvirág | 5 000 |
 
-| Sáfrányos imola | Centaurea solstitialis | 5 000 |
+| 519. | Hypericaceae |  |  | orbáncfűfélék |  |
 
-| Sápadt kosbor | Orchis pallens | 10 000 |
+| 520. |  | Hypericum barbatum |  | szakállas orbáncfű | 100 000 |
 
-| Sárga ibolya | Viola biflora | 10 000 |
+| 521. |  |  | Hypericum elegans | karcsú orbáncfű | 10 000 |
 
-| Sárga koronafürt | Coronilla coronata | 5 000 |
+| 522. |  |  | Hypericum maculatum | pettyes orbáncfű | 5 000 |
 
-| Sárga kövirózsa | Jovibarba globifera subsp. hirta | 2 000 |
+| 523. | Iridaceae |  |  | nősziromfélék |  |
 
-| Sárga len | Linum flavum | 5 000 |
+| 524. |  |  | Crocus albiflorus | fehér sáfrány | 50 000 |
 
-| Sárgaliliom | Hemerocallis lilio-asphodelus | 10 000 |
+| 525. |  |  | Crocus heuffelianus | kárpáti sáfrány | 10 000 |
 
-| Schudich-tarsóka | Thlaspi kovatsii | 10 000 |
+| 526. |  |  | Crocus reticulatus | tarka sáfrány | 10 000 |
 
-| Selymes boglárka | Ranunculus illyricus | 2 000 |
+| 527. |  |  | Crocus tommasinianus | illír sáfrány | 50 000 |
 
-| Selymes peremizs | Inula oculus-christi | 2 000 |
+| 528. |  |  | Crocus vittatus | halvány sáfrány | 50 000 |
 
-| Seprőparéj | Bassia sedoides | 2 000 |
+| 529. |  |  | Gladiolus imbricatus | réti kardvirág | 50 000 |
 
-| Soó-berkenye | Sorbus sooi | 10 000 |
+| 530. |  | Gladiolus palustris |  | mocsári kardvirág | 250 000 |
 
-| Sömörös kosbor | Orchis ustulata | 10 000 |
+| 531. |  | Iris aphylla subsp. hungarica |  | magyar nőszirom | 100 000 |
 
-| Speta-csillagvirág | Scilla spetana | 10 000 |
+| 532. |  |  | Iris arenaria (syn.: Iris humilis subsp. arenaria) | homoki nőszirom | 10 000 |
 
-| Steven-boglárka | Ranunculus strigulosus | 5 000 |
+| 533. |  |  | Iris graminea | pázsitos nőszirom | 10 000 |
 
-| Sugaras zsoltina | Serratula radiata | 5 000 |
+| 534. |  |  | Iris pumila | apró nőszirom | 5 000 |
 
-| Sugárkankalin | Primula elatior | 10 000 |
+| 535. |  |  | Iris sibirica | szibériai nőszirom | 10 000 |
 
-| Sulyoktáska | Aethionema saxatile | 5 000 |
+| 536. |  |  | Iris spuria | fátyolos nőszirom (korcs nőszirom) | 10 000 |
 
-| Sulyom | Trapa natans | 2 000 |
+| 537. |  |  | Iris variegata | tarka nőszirom | 5 000 |
 
-| Sűrű csetkáka | Eleocharis carniolica | 2 000 |
+| 538. | Juncaceae |  |  | szittyófélék |  |
 
-| Sűrűlevelű békaszőlő | Groenlandia densa | 2 000 |
+| 539. |  |  | Juncus alpinoarticulatus | havasi szittyó | 10 000 |
 
-| Szagtalan rezeda | Reseda inodora | 2 000 |
+| 540. |  |  | Juncus maritimus | tengeri szittyó | 5 000 |
 
-| Szálkás árvalányhaj | Stipa bromoides | 5 000 |
+| 541. | Juncaginaceae |  |  | kígyófűfélék |  |
 
-| Szalmagyopár | Helichrysum arenarium | 2 000 |
+| 542. |  |  | Triglochin palustre | mocsári kígyófű | 5 000 |
 
-| Szártalan bábakalács | Carlina acaulis | 2 000 |
+| 543. | Lamiaceae (Labiatae) |  |  | ajakosok |  |
 
-| Szártalan csűdfű | Astragalus exscapus | 5 000 |
+| 544. |  |  | Ajuga laxmannii | szennyes ínfű | 50 000 |
 
-| Szártalan kankalin | Primula vulgaris | 2 000 |
+| 545. |  | Dracocephalum austriacum |  | osztrák sárkányfű | 250 000 |
 
-| Szarvas hagyma | Allium carinatum | 2 000 |
+| 546. |  | Dracocephalum ruyschiana |  | északi sárkányfű | 250 000 |
 
-| Széleslevelű gyapjúsás | Eriophorum latifolium | 5 000 |
+| 547. |  |  | Lamium orvala | pofók árvacsalán | 50 000 |
 
-| Széleslevelű nőszőfű | Epipactis helleborine | 5 000 |
+| 548. |  | Micromeria thymifolia |  | illír szirtipereszlény | 100 000 |
 
-| Széleslevelű ujjaskosbor | Dactylorhiza majalis | 10 000 |
+| 549. |  | Nepeta parviflora |  | borzas macskamenta | 250 000 |
 
-| Szent László-tárnics | Gentiana cruciata | 10 000 |
+| 550. |  |  | Phlomis tuberosa | macskahere (gumós macskahere) | 5 000 |
 
-| Szentendrei rózsa | Rosa sancti-andreae | 10 000 |
+| 551. |  |  | Prunella grandiflora | nagyvirágú gyíkfű | 5 000 |
 
-| Szennyes ínfű | Ajuga laxmannii | 10 000 |
+| 552. |  | Salvia nutans |  | kónya zsálya | 250 000 |
 
-| Szibériai nőszirom | Iris sibirica | 10 000 |
+| 553. |  |  | Scutellaria columnae | bozontos csukóka | 5 000 |
 
-| Sziki ballagófű | Salsola soda | 5 000 |
+| 554. |  |  | Stachys alpina | havasi tisztesfű | 10 000 |
 
-| Sziki boglárka | Ranunculus lateriflorus | 2 000 |
+| 555. |  |  | Teucrium scorodonia | fenyérgamandor | 5 000 |
 
-| Sziki kocsord | Peucedanum officinale | 2 000 |
+| 556. | Lentibulariaceae |  |  | rencefélék |  |
 
-| Sziki lórom | Rumex pseudonatronatus | 10 000 |
+| 557. |  | Pinguicula vulgaris |  | lápi hízóka | 100 000 |
 
-| Sziki varjúháj | Sedum caespitosum | 2 000 |
+| 558. |  | Utricularia bremii |  | lápi rence | 100 000 |
 
-| Sziklai benge | Rhamnus saxatilis | 10 000 |
+| 559. |  |  | Utricularia minor | kis rence | 50 000 |
 
-| Sziklai borkóró | Thalictrum foetidum | 5 000 |
+| 560. | Liliaceae |  |  | liliomfélék |  |
 
-| Sziklai gyöngyvessző | Spiraea media | 5 000 |
+| 561. |  |  | Erythronium dens-canis | kakasmandikó (európai kakasmandikó) | 50 000 |
 
-| Sziklai nefelejcs | Myosotis stenophylla | 2 000 |
+| 562. |  |  | Fritillaria meleagris | mocsári kockásliliom (kotuliliom) | 50 000 |
 
-| Sziklai repcsény | Erysimum crepidifolium | 2 000 |
+| 563. |  |  | Gagea bohemica | cseh tyúktaréj | 5 000 |
 
-| Sziklai ternye | Aurinia saxatilis | 5 000 |
+| 564. |  |  | Gagea spathacea | fiókás tyúktaréj | 10 000 |
 
-| Színes békaszőlő | Potamogeton coloratus | 2 000 |
+| 565. |  |  | Gagea szovitsii | pusztai tyúktaréj | 10 000 |
 
-| Szirti búzavirág | Centaurea montana subsp. mollis | 10 000 |
+| 566. |  | Lilium bulbiferum subsp. bulbiferum |  | tüzes liliom | 100 000 |
 
-| Szíveslevelű gubóvirág | Globularia cordifolia | 10 000 |
+| 567. |  |  | Lilium martagon | turbánliliom | 10 000 |
 
-| Szőke oroszlánfog | Leontodon incanus | 10 000 |
+| 568. | Linaceae |  |  | lenfélék |  |
 
-| Szőrös baraboly | Chaerophyllum hirsutum | 5 000 |
+| 569. |  | Linum dolomiticum |  | pilisi len (dolomitlen) | 250 000 |
 
-| Szőrös nyír | Betula pubescens | 10 000 |
+| 570. |  |  | Linum flavum | sárga len | 10 000 |
 
-| Szúnyoglábú bibircsvirág | Gymnadenia conopsea | 5 000 |
+| 571. |  |  | Linum hirsutum | borzas len | 5 000 |
 
-| Szúrós csodabogyó | Ruscus aculeatus | 5 000 |
+| 572. |  |  | Linum tenuifolium | árlevelű len | 5 000 |
 
-| Szürke bogáncs | Carduus glaucus | 10 000 |
+| 573. |  |  | Linum trigynum | francia len | 5 000 |
 
-| Szürke poloskamag | Corispermum canescens | 2 000 |
+| 574. |  |  | Radiola linoides | apró csepplen | 5 000 |
 
-| Szürke veronika | Pseudolysimachion incanum | 10 000 |
+| 575. | Lythraceae |  |  | füzényfélék |  |
 
-| Szürkés ördögszem | Scabiosa canescens | 5 000 |
+| 576. |  |  | Lythrum linifolium | lenlevelű füzény | 5 000 |
 
-| Szürkés sás | Carex canescens | 5 000 |
+| 577. |  |  | Lythrum tribracteatum | apró füzény | 10 000 |
 
-| Tallós-nőszőfű | Epipactis tallosii | 10 000 |
+| 578. | Melanthiaceae |  |  | zászpafélék |  |
 
-| Tarka búzavirág | Centaurea triumfettii subsp. albigera | 5 000 |
+| 579. |  |  | Veratrum album | fehér zászpa | 5 000 |
 
-| Tarka kosbor | Orchis tridentata | 10 000 |
+| 580. | Menyanthaceae |  |  | vidrafűfélék |  |
 
-| Tarka lednek | Lathyrus venetus | 2 000 |
+| 581. |  |  | Menyanthes trifoliata 1 | hármaslevelű vidrafű 1 | 10 000 |
 
-| Tarka nádtippan | Calamagrostis varia | 2 000 |
+| 582. |  |  | Nymphoides peltata | tündérfátyol (vízi tündérfátyol) | 5 000 |
 
-| Tarka nőszirom | Iris variegata | 5 000 |
+| 583. | Nymphaeaceae |  |  | tündérrózsafélék |  |
 
-| Tarka nyúlfarkfű | Sesleria albicans | 2 000 |
+| 584. |  |  | Nymphaea alba | fehér tündérrózsa | 5 000 |
 
-| Tarka sáfrány | Crocus reticulatus | 10 000 |
+| 585. | Onagraceae |  |  | ligetszépefélék |  |
 
-| Tátrai hölgymál | Hieracium bupleuroides | 5 000 |
+| 586. |  |  | Chamaenerion dodonaei | vízparti deréce | 5 000 |
 
-| Tavaszi görvélyfű | Scrophularia vernalis | 2 000 |
+| 587. |  |  | Circaea alpina | havasi varázslófű | 5 000 |
 
-| Tavaszi hérics | Adonis vernalis | 2 000 |
+| 588. |  |  | Epilobium palustre | mocsári füzike | 10 000 |
 
-| Tavaszi tőzike | Leucojum vernum | 2 000 |
+| 589. |  |  | Ludwigia palustris | tóalma (közönségestóalma) | 5 000 |
 
-| Tekert csüdfű | Astragalus contortuplicatus | 10 000 |
+| 590. | Orchidaceae |  |  | kosborfélék |  |
 
-| Teleki-virág | Telekia speciosa | 10 000 |
+| 591. |  |  | Anacamptis coriophora (syn.: Orchis coriophora) | poloskaszagú kosbor (poloskaszagú sisakoskosbor) | 50 000 |
 
-| Téltemető | Eranthis hyemalis | 5 000 |
+| 592. |  |  | Anacamptis morio (syn.: Orchismorio) | agár kosbor (agár sisakoskosbor) | 10 000 |
 
-| Tengerparti szittyó | Juncus maritimus | 2 000 |
+| 593. |  |  | Anacamptis palustris subsp. elegans (syn.: Orchis laxiflora subsp. elegans, Orchis elegans) | pompás kosbor (pompás sisakoskosbor) | 10 000 |
 
-| Termetes habszegfű | Silene bupleuroides | 10 000 |
+| 594. |  |  | Anacamptis palustris subsp. palustris (syn.: Orchis laxiflora subsp. palustris, Orchis palustris) | mocsári kosbor (mocsári sisakoskosbor) | 10 000 |
 
-| Terpedt koronafürt | Coronilla vaginalis | 10 000 |
+| 595. |  |  | Anacamptis pyramidalis | vitézvirág (tornyos sisakoskosbor, tornyos vitézvirág) | 10 000 |
 
-| Tisza-parti margitvirág | Leucanthemella serotina | 2 000 |
+| 596. |  |  | Cephalanthera damasonium | fehér madársisak | 10 000 |
 
-| Tóalma | Ludwigia palustris | 5 000 |
+| 597. |  |  | Cephalanthera longifolia | kardos madársisak | 10 000 |
 
-| Tompalevelű békaszőlő | Potamogeton obtusifolius | 10 000 |
+| 598. |  |  | Cephalanthera rubra | piros madársisak | 10 000 |
 
-| Tornai ternye | Alyssum montanum subsp. brymii | 10 000 |
+| 599. |  |  | Corallorhiza trifida | erdei korallgyökér | 10 000 |
 
-| Tömött zabfű | Avenula compressa | 2 000 |
+| 600. |  | Cypripedium calceolus |  | rigópohár(erdei papucskosbor, Boldogasszony papucsa) | 250 000 |
 
-| Törpemandula | Prunus tenella (Amygdalus nana) | 10 000 |
+| 601. |  |  | Dactylorhiza fuchsii | erdei ujjaskosbor | 10 000 |
 
-| Töviskés sás | Carex echinata | 5 000 |
+| 602. |  |  | Dactylorhiza incarnata (incl. Dactylorhiza incarnatasubsp. incarnata, Dactylorhiza incarnata subsp. haematodes, Dactylorhiza incarnata subsp. serotina, excl. Dactylorhiza incarnata subsp. ochroleuca) | hússzínű ujjaskosbor (beleértve az "incarnata", "haematodes" és "serotina" alfajokat, valamint kivéve a halvány ujjaskosbort) | 10 000 |
 
-| Tőzegáfonya | Vaccinium oxycoccos | 10 000 |
+| 603. |  | Dactylorhiza incarnata subsp. ochroleuca |  | halvány ujjaskosbor | 100 000 |
 
-| Tőzegeper | Potentilla palustris | 10 000 |
+| 604. |  |  | Dactylorhiza lapponica | lappföldi ujjaskosbor | 10 000 |
 
-| Tőzegkáka | Rhynchospora alba | 5 000 |
+| 605. |  |  | Dactylorhizamaculata(incl. Dactylorhiza maculata subsp. transylvanica) | foltos ujjaskosbor | 10 000 |
 
-| Turbánliliom | Lilium martagon | 2 000 |
+| 606. |  |  | Dactylorhiza majalis | széleslevelű ujjaskosbor | 10 000 |
 
-| Tündérfátyol | Nymphoides peltata | 2 000 |
+| 607. |  |  | Dactylorhiza sambucina | bodzaszagú ujjaskosbor | 10 000 |
 
-| Tündérfürt | Aruncus dioicus | 2 000 |
+| 608. |  |  | Dactylorhiza viridis (syn.: Coeloglossum viride) | zöldike (zöldikeujjaskosbor) | 10 000 |
 
-| Üstökös sárma | Ornithogalum pannonicum | 2 000 |
+| 609. |  |  | Epipactis albensis | elbai nőszőfű | 50 000 |
 
-| Vajszínű atracél | Anchusa ochroleuca | 5 000 |
+| 610. |  |  | Epipactis atrorubens (incl. Epipactis atrorubens subsp. borbasii) | vörösbarna nőszőfű (beleértve a Borbás nőszőfüvet is) | 10 000 |
 
-| Vastaggallyú körte (Gyapjas körte) | Pyrus nivalis | 10 000 |
+| 611. |  | Epipactis bugacensis |  | bugaci nőszőfű | 250 000 |
 
-| Vékony gyapjúsás | Eriophorum gracile | 5 000 |
+| 612. |  | Epipactis exilis (syn.: Epipactis gracilis) |  | karcsú nőszőfű | 100 000 |
 
-| Vékonyszárú palástfű | Alchemilla filicaulis | 5 000 |
+| 613. |  |  | Epipactis futakii | Futák-nőszőfű | 50 000 |
 
-| Vetővirág | Sternbergia colchiciflora | 10 000 |
+| 614. |  |  | Epipactis helleborine | széleslevelű nőszőfű | 5 000 |
 
-| Vidrafű (kivéve gyógyászati célra feldolgozott származéka) | Menyanthes trifoliata | 10 000 |
+| 615. |  |  | Epipactis latina | lazioi nőszőfű | 10 000 |
 
-| Vitézkosbor | Orchis militaris | 10 000 |
+| 616. |  |  | Epipactis leptochila | csőrös nőszőfű | 10 000 |
 
-| Vitézvirág | Anacamptis pyramidalis | 10 000 |
+| 617. |  |  | Epipactis mecsekensis | mecseki nőszőfű | 50 000 |
 
-| Vizitorma | Nasturtium officinale | 2 000 |
+| 618. |  |  | Epipactis microphylla | kislevelű nőszőfű | 10 000 |
 
-| Vízi aggófű | Senecio aquaticus | 2 000 |
+| 619. |  |  | Epipactis moravica | morva nőszőfű | 50 000 |
 
-| Vízilófark | Hippuris vulgaris | 2 000 |
+| 620. |  |  | Epipactis muelleri | Müller-nőszőfű | 10 000 |
 
-| Vízparti deréce | Chamaenerion dodonaei | 2 000 |
+| 621. |  |  | Epipactis neglecta | keskenyajkú nőszőfű | 10 000 |
 
-| Völgycsillag | Astrantia major | 2 000 |
+| 622. |  |  | Epipactis nordeniorum | Norden-nőszőfű | 50 000 |
 
-| Vörös áfonya (kivéve gyümölcse, gyógyászati és élelmezési célra feldolgozott származéka) | Vaccinium vitis-idaea | 10 000 |
+| 623. |  |  | Epipactis palustris | mocsári nőszőfű | 10 000 |
 
-| Vörösbarna nőszőfű | Epipactis atrorubens | 10 000 |
+| 624. |  | Epipactis placentina |  | ciklámenlila nőszőfű | 250 000 |
 
-| Vöröses hagyma | Allium marginatum | 10 000 |
+| 625. |  |  | Epipactis pontica | pontuszi nőszőfű | 10 000 |
 
-| Zalai bükköny | Vicia oroboides | 5 000 |
+| 626. |  |  | Epipactis purpurata | ibolyás nőszőfű | 10 000 |
 
-| Zergeboglár | Trollius europaeus | 10 000 |
+| 627. |  |  | Epipactis tallosii | Tallós-nőszőfű | 10 000 |
 
-| Zöldes kígyókapor | Silaum peucedanoides | 5 000 |
+| 628. |  |  | Epipactis voethii | Vöth-nőszőfű | 10 000 |
 
-| Zöldes sarkvirág | Platanthera chlorantha | 5 000 |
+| 629. |  | Epipogium aphyllum |  | levéltelen bajuszvirág | 100 000 |
 
-| Zöldike | Coeloglossum viride | 5 000 |
+| 630. |  |  | Goodyera repens | avarvirág (kúszóavarvirág) | 10 000 |
 
-| Zöldvirágú körtike | Pyrola chlorantha | 5 000 |
+| 631. |  |  | Gymnadenia conopsea | szúnyoglábú bibircsvirág | 10 000 |
 
-2. számú melléklet a 13/2001. (V. 9.) KöM rendelethez[^13]
+| 632. |  |  | Gymnadenia densiflora | sűrűvirágú bibircsvirág | 10 000 |
 
-[^13]: A 2. számú melléklet a 19/2006. (III. 31.) KvVM rendelet 4. § (2) bekezdése, a 18/2008. (VI. 19.) KvVM rendelet 3. § (1)–(2) bekezdése és 4. § (1) bekezdése szerint módosított szöveg.
+| 633. |  |  | Gymnadenia odoratissima | illatos bibircsvirág | 50 000 |
+
+| 634. |  | Hammarbya paludosa |  | tőzegorchidea(fiókástőzegorchidea) | 100 000 |
+
+| 635. |  | Himantoglossum adriaticum |  | adriai sallangvirág | 250 000 |
+
+| 636. |  | Himantoglossum caprinum |  | bíboros sallangvirág | 250 000 |
+
+| 637. |  |  | Limodorum abortivum | gérbics (ibolyásgérbics) | 10 000 |
+
+| 638. |  | Liparis loeselii |  | hagymaburok (lápihagymaburok) | 250 000 |
+
+| 639. |  |  | Neotinea tridentata (syn.: Orchis tridentata) | tarka kosbor (tarka pettyeskosbor) | 10 000 |
+
+| 640. |  |  | Neotineaustulata(syn.:Orchisustulata)(incl. Neotinea ustulata subsp. ustulata, Neotinea ustulata subsp. aestivalis) | sömörös kosbor (sömörös pettyeskosbor) (beleértve a tavaszi és nyári virágzású alfajait) | 10 000 |
+
+| 641. |  |  | Neottia nidus-avis | madárfészek (madárfészek-békakonty) | 5 000 |
+
+| 642. |  |  | Neottia ovata (syn.: Listera ovata) | békakonty (tojásdadbékakonty) | 10 000 |
+
+| 643. |  | Ophrys apifera |  | méhbangó | 250 000 |
+
+| 644. |  | Ophrys bertolonii |  | Bertoloni-bangó | 250 000 |
+
+| 645. |  | Ophrys fuciflora subsp. fuciflora (syn.: Ophrys holoserica) |  | poszméhbangó | 250 000 |
+
+| 646. |  | Ophrys fuciflora subsp. holubyana |  | Holuby-bangó | 250 000 |
+
+| 647. |  | Ophrys insectifera |  | légybangó | 250 000 |
+
+| 648. |  | Ophrys oestrifera (syn.: Ophrys scolopax) |  | szarvas bangó | 250 000 |
+
+| 649. |  | Ophrys sphegodes |  | pókbangó | 100 000 |
+
+| 650. |  |  | Orchis mascula (incl. Orchis mascula subsp. signifera) | füles kosbor | 10 000 |
+
+| 651. |  |  | Orchis militaris | vitézkosbor | 10 000 |
+
+| 652. |  |  | Orchis pallens | sápadt kosbor | 50 000 |
+
+| 653. |  |  | Orchis purpurea | bíboros kosbor | 10 000 |
+
+| 654. |  |  | Orchis simia | majomkosbor | 50 000 |
+
+| 655. |  |  | Platanthera bifolia | kétlevelű sarkvirág | 5 000 |
+
+| 656. |  |  | Platanthera chlorantha | zöldes sarkvirág | 10 000 |
+
+| 657. |  |  | Spiranthes aestivalis | nyári füzértekercs | 10 000 |
+
+| 658. |  |  | Spiranthes spiralis | őszi füzértekercs | 10 000 |
+
+| 659. |  | Traunsteinera globosa |  | gömböskosbor (karcsúgömböskosbor) | 100 000 |
+
+| 660. | Orobanchaceae |  |  | vajvirágfélék (szádorfélék) |  |
+
+| 661. |  |  | Orobanche artemisiae-campestris | üröm-vajvirág (ürömszádor) | 10 000 |
+
+| 662. |  |  | Orobanche bartlingii | Bartling-vajvirág (Bartling-szádor) | 10 000 |
+
+| 663. |  |  | Orobanche caesia | deres vajvirág (deres szádor) | 10 000 |
+
+| 664. |  |  | Orobanche coerulescens | kékes vajvirág (kékes szádor) | 5 000 |
+
+| 665. |  |  | Orobanche flava | martilapu-vajvirág (martilapu-szádor) | 10 000 |
+
+| 666. |  |  | Orobanche hederae | borostyán-vajvirág (borostyán-szádor) | 5 000 |
+
+| 667. |  |  | Orobanche nana | apró vajvirág (apró szádor) | 10 000 |
+
+| 668. |  |  | Orobanche pancicii | varfű-vajvirág (vajfűszádor) | 10 000 |
+
+| 669. | Paeoniaceae |  |  | bazsarózsafélék |  |
+
+| 670. |  | Paeonia officinalis subsp. banatica |  | bánáti bazsarózsa | 250 000 |
+
+| 671. |  | Paeonia tenuifolia |  | keleti bazsarózsa | 250 000 |
+
+| 672. | Parnassiaceae |  |  | tőzegboglárfélék |  |
+
+| 673. |  |  | Parnassia palustris | fehérmájvirág (mocsári tőzegboglár) | 10 000 |
+
+| 674. | Plantaginaceae |  |  | útifűfélék |  |
+
+| 675. |  |  | Plantago argentea | ezüstös útifű | 5 000 |
+
+| 676. |  | Plantago maxima |  | óriás útifű | 250 000 |
+
+| 677. |  |  | Plantago schwarzenbergiana | erdélyi útifű | 10 000 |
+
+| 678. | Plumbaginaceae |  |  | kékgyökérfélék |  |
+
+| 679. |  |  | Armeria elongata | magas istác | 10 000 |
+
+| 680. | Poaceae (Gramineae) |  |  | pázsitfűfélék |  |
+
+| 681. |  |  | Calamagrostis phragmitoides (syn.: Calamagrostis purpurea) | pirosló nádtippan | 10 000 |
+
+| 682. |  |  | Calamagrostis pseudophragmites | parti nádtippan | 10 000 |
+
+| 683. |  |  | Calamagrostis stricta | lápi nádtippan | 10 000 |
+
+| 684. |  |  | Calamagrostis varia | tarka nádtippan | 5 000 |
+
+| 685. |  |  | Elymus elongatus 25 | magas tarackbúza 4 | 5 000 |
+
+| 686. |  |  | Festuca amethystina | lila csenkesz | 10 000 |
+
+| 687. |  |  | Festuca dalmatica | dalmát csenkesz | 5 000 |
+
+| 688. |  |  | Festuca wagneri | rákosi csenkesz | 10 000 |
+
+| 689. |  |  | Helictotrichon compressum (syn.: Avenula compressa) | tömött zabfű | 5 000 |
+
+| 690. |  |  | Koeleria javorkae | Jávorka-fényperje | 10 000 |
+
+| 691. |  |  | Koeleria majoriflora | nagyvirágú fényperje | 5 000 |
+
+| 692. |  |  | Koeleria pyramidata | nyugati fényperje (magas fényperje) | 10 000 |
+
+| 693. |  |  | Poa remota | hegyi perje | 10 000 |
+
+| 694. |  |  | Poa scabra | magyar perje | 5 000 |
+
+| 695. |  |  | Puccinellia peisonis (syn.: Puccinellia festuciformis subsp. intermedia) | fertőtavi mézpázsit | 5 000 |
+
+| 696. |  |  | Scolochloa festucacea | északi mocsáricsenkesz | 50 000 |
+
+| 697. |  |  | Sesleria albicans | tarka nyúlfarkfű | 5 000 |
+
+| 698. |  |  | Sesleria heufleriana | erdélyi nyúlfarkfű | 5 000 |
+
+| 699. |  |  | Sesleria hungarica (syn.: Sesleria heufleriana subsp. hungarica) | magyar nyúlfarkfű | 5 000 |
+
+| 700. |  |  | Sesleria sadleriana | budai nyúlfarkfű | 5 000 |
+
+| 701. |  |  | Sesleria uliginosa (syn.: Sesleria caerulea) | lápi nyúlfarkfű | 5 000 |
+
+| 702. |  |  | Stipa borysthenica | homoki árvalányhaj | 5 000 |
+
+| 703. |  |  | Stipa bromoides | szálkás árvalányhaj | 5 000 |
+
+| 704. |  |  | Stipa dasyphylla | bozontos árvalányhaj | 10 000 |
+
+| 705. |  |  | Stipa eriocaulis | délvidéki árvalányhaj | 5 000 |
+
+| 706. |  |  | Stipa pennata | pusztai árvalányhaj | 5 000 |
+
+| 707. |  |  | Stipa pulcherrima | csinos árvalányhaj | 5 000 |
+
+| 708. |  |  | Stipa tirsa | hosszúlevelű árvalányhaj | 5 000 |
+
+| 709. | Polygalaceae |  |  | pacsirtafűfélék |  |
+
+| 710. |  |  | Polygala amarella | kisvirágú pacsirtafű | 10 000 |
+
+| 711. |  |  | Polygala major | nagy pacsirtafű | 5 000 |
+
+| 712. | Polygonaceae |  |  | keserűfűfélék |  |
+
+| 713. |  |  | Persicaria bistorta | kígyógyökerű keserűfű | 5 000 |
+
+| 714. |  |  | Rumex pseudonatronatus | sziki lórom | 10 000 |
+
+| 715. | Portulacaceae |  |  | porcsinfélék |  |
+
+| 716. |  |  | Montia fontana subsp. chondrosperma | kis forrásfű | 5 000 |
+
+| 717. | Potamogetonaceae |  |  | békaszőlőfélék |  |
+
+| 718. |  |  | Groenlandia densa | sűrűlevelű-békaszőlő | 5 000 |
+
+| 719. |  |  | Potamogeton coloratus | színes békaszőlő | 50 000 |
+
+| 720. |  |  | Potamogeton obtusifolius | tompalevelű békaszőlő | 10 000 |
+
+| 721. | Primulaceae |  |  | kankalinfélék |  |
+
+| 722. |  |  | Androsace maxima | nagy gombafű | 10 000 |
+
+| 723. |  |  | Cyclamen purpurascens | erdei ciklámen | 10 000 |
+
+| 724. |  |  | Glaux maritima | tengerparti bagolyfű | 5 000 |
+
+| 725. |  |  | Hottonia palustris | mocsári békaliliom | 5 000 |
+
+| 726. |  |  | Lysimachia nemorum | berki lizinka | 10 000 |
+
+| 727. |  | Primula auricula |  | cifra kankalin (medvefül kankalin) | 250 000 |
+
+| 728. |  |  | Primula elatior | sudár kankalin (sugárkankalin) | 10 000 |
+
+| 729. |  | Primula farinosa |  | lisztes kankalin | 250 000 |
+
+| 730. |  |  | Primula vulgaris | szártalan kankalin | 5 000 |
+
+| 731. |  |  | Samolus valerandi | sziki árokvirág | 5 000 |
+
+| 732. | Pyrolaceae |  |  | körtikefélék |  |
+
+| 733. |  |  | Chimaphila umbellata | csinos ernyőskörtike | 10 000 |
+
+| 734. |  |  | Moneses uniflora | egyvirágú kiskörtike | 5 000 |
+
+| 735. |  |  | Orthilia secunda | bókoló gyöngyvirágoskörtike | 5 000 |
+
+| 736. |  |  | Pyrola chlorantha | zöldes körtike | 50 000 |
+
+| 737. |  |  | Pyrola media | közepes körtike | 50 000 |
+
+| 738. |  |  | Pyrola minor | kis körtike | 5 000 |
+
+| 739. |  |  | Pyrola rotundifolia | kereklevelű körtike | 5 000 |
+
+| 740. | Ranunculaceae |  |  | boglárkafélék |  |
+
+| 741. |  |  | Adonis vernalis | tavaszi hérics | 5 000 |
+
+| 742. |  | Adonis volgensis |  | volgamenti hérics | 250 000 |
+
+| 743. |  |  | Anemone sylvestris | erdei szellőrózsa | 5 000 |
+
+| 744. |  |  | Anemone trifolia | hármaslevelű szellőrózsa | 50 000 |
+
+| 745. |  |  | Clematis alpina | havasi iszalag | 10 000 |
+
+| 746. |  |  | Clematis integrifolia | réti iszalag | 5 000 |
+
+| 747. |  |  | Hepatica nobilis | nemes májvirág | 5 000 |
+
+| 748. |  | Pulsatilla flavescens (syn.: Pulsatilla pratensis subsp. hungarica) |  | magyar kökörcsin | 100 000 |
+
+| 749. |  |  | Pulsatilla grandis | leánykökörcsin | 10 000 |
+
+| 750. |  |  | Pulsatilla nigricans (syn.: Pulsatilla pratensis subsp. nigricans) | fekete kökörcsin | 10 000 |
+
+| 751. |  | Pulsatilla patens |  | tátogó kökörcsin | 250 000 |
+
+| 752. |  |  | Pulsatilla zimmermannii | hegyi kökörcsin | 50 000 |
+
+| 753. |  |  | Ranunculus fluitans | úszó víziboglárka | 5 000 |
+
+| 754. |  |  | Ranunculus illyricus | selymes boglárka | 5 000 |
+
+| 755. |  |  | Ranunculus lateriflorus | sziki boglárka | 5 000 |
+
+| 756. |  |  | Ranunculus lingua | nádi boglárka | 10 000 |
+
+| 757. |  |  | Ranunculus nemorosus | berki boglárka | 10 000 |
+
+| 758. |  |  | Ranunculus polyphyllus | buglyos boglárka | 5 000 |
+
+| 759. |  |  | Ranunculus psilostachys | csőrös boglárka | 5 000 |
+
+| 760. |  |  | Ranunculus strigulosus | merevszőrű boglárka (Steven-boglárka) | 10 000 |
+
+| 761. |  |  | Thalictrum aquilegiifolium | erdei borkóró | 5 000 |
+
+| 762. |  |  | Thalictrum foetidum | sziklai borkóró | 10 000 |
+
+| 763. |  |  | Thalictrum pseudominus (syn.: Thalictrum minus subsp. pseudominus) | kékes borkóró | 5 000 |
+
+| 764. | Resedaceae |  |  | rezedafélék |  |
+
+| 765. |  |  | Reseda inodora | szagtalan rezeda | 5 000 |
+
+| 766. | Rosaceae |  |  | rózsafélék |  |
+
+| 767. |  |  | Alchemilla acutiloba | hegyeskaréjú palástfű | 5 000 |
+
+| 768. |  |  | Alchemilla crinita | csipkéslevelű palástfű | 5 000 |
+
+| 769. |  |  | Alchemilla filicaulis | vékonyszárú palástfű | 5 000 |
+
+| 770. |  |  | Alchemilla glabra | havasi palástfű | 5 000 |
+
+| 771. |  |  | Alchemilla glaucescens | hegyi palástfű | 10 000 |
+
+| 772. |  |  | Alchemilla hungarica | magyar palástfű | 5 000 |
+
+| 773. |  |  | Alchemilla micans | kecses palástfű | 5 000 |
+
+| 774. |  |  | Alchemillamonticola1 | közönséges palástfű 1 | 5 000 |
+
+| 775. |  |  | Alchemilla subcrenata | hullámoslevelű palástfű | 5 000 |
+
+| 776. |  |  | Alchemillaxanthochlora1 | réti palástfű 1 | 5 000 |
+
+| 777. |  |  | Amelanchier ovalis | közönséges fanyarka | 10 000 |
+
+| 778. |  |  | Amygdalus nana (syn.: Prunus tenella) | törpemandula | 10 000 |
+
+| 779. |  |  | Aremonia agrimonioides | bükkös kispárlófű | 5 000 |
+
+| 780. |  |  | Aruncus dioicus | erdei tündérfürt | 5 000 |
+
+| 781. |  |  | Cotoneaster integerrimus | szirti madárbirs (piros madárbirs) | 10 000 |
+
+| 782. |  |  | Cotoneaster niger (incl. Cotoneaster matrensis) | fekete madárbirs (beleértve a pannon madárbirset) | 10 000 |
+
+| 783. |  |  | Cotoneaster tomentosus | molyhos madárbirs (nagylevelű madárbirs) | 10 000 |
+
+| 784. |  | Crataegus nigra |  | fekete galagonya | 100 000 |
+
+| 785. |  |  | Geum aleppicum | hegyi gyömbérgyökér | 10 000 |
+
+| 786. |  |  | Geum rivale | patakparti gyömbérgyökér (bókoló gyömbérgyökér) | 10 000 |
+
+| 787. |  | Potentilla palustris (syn.: Comarum palustre) |  | tőzegeper (tőzegpimpó) | 100 000 |
+
+| 788. |  |  | Potentilla patula | kiterült pimpó | 10 000 |
+
+| 789. |  |  | Potentilla rupestris | kövi pimpó | 5 000 |
+
+| 790. |  | Pyrus magyarica |  | magyar vadkörte | 250 000 |
+
+| 791. |  |  | Pyrus nivalis | vastaggallyú körte | 10 000 |
+
+| 792. |  |  | Rosa pendulina | havasalji rózsa | 10 000 |
+
+| 793. |  |  | Rosa villosa (incl.: Rosa sancti-andreae) | gyapjas rózsa (beleértve a szentendrei rózsát) | 10 000 |
+
+| 794. |  |  | Rubus saxatilis | kövi szeder | 10 000 |
+
+| 795. |  |  | Sorbus aria | lisztes berkenye | 10 000 |
+
+| 796. |  |  | Sorbus danubialis | dunai berkenye | 10 000 |
+
+| 797. |  |  | Sorbus domestica | házi berkenye (kerti berkenye) | 10 000 |
+
+| 798. |  |  | Sorbus graeca | déli berkenye | 10 000 |
+
+| 799. |  |  | Sorbus hazslinszkyana (Sorbus austriaca sensu lato) | Hazslinszky-berkenye (osztrák berkenye alakkörébe tartozó taxon) | 10 000 |
+
+| 800. |  |  | a lisztes berkenye (Sorbus aria) közelrokon és átmeneti hibridogén eredetű állandósult kisfajai (beleértve az alábbi taxonokat) | a lisztes berkenye (Sorbus aria) közelrokon és átmeneti hibridogén eredetű állandósult kisfajai (beleértve az alábbi taxonokat) | 10 000 |
+
+|  |  |  | Sorbus acutiserratus | kőhányási berkenye |  |
+
+|  |  |  | Sorbus andreanszkyana | Andreánszky-berkenye |  |
+
+|  |  |  | Sorbusadami | Ádám-berkenye |  |
+
+|  |  |  | Sorbusbakonyensis | bakonyi berkenye |  |
+
+|  |  |  | Sorbus balatonica | balatoni berkenye |  |
+
+|  |  |  | Sorbus barabitsii | Barabits-berkenye |  |
+
+|  |  |  | Sorbusbarthae | Bartha-berkenye |  |
+
+|  |  |  | Sorbusbodajkensis | bodajki berkenye |  |
+
+|  |  |  | Sorbus borosiana | Boros-berkenye |  |
+
+|  |  |  | Sorbus budaiana | budai berkenye |  |
+
+|  |  |  | Sorbus buekkensis | bükki berkenye |  |
+
+|  |  |  | Sorbusdecipientiformis | keszthelyi berkenye |  |
+
+|  |  |  | Sorbus degenii | Dégen-berkenye |  |
+
+|  |  |  | Sorbus dracofolius | gánti berkenye |  |
+
+|  |  |  | Sorbuseugenii-kelleri | Keller-berkenye |  |
+
+|  |  |  | Sorbusgayeriana | Gáyer-berkenye |  |
+
+|  |  |  | Sorbusgerecseensis | gerecsei berkenye |  |
+
+|  |  |  | Sorbus huljakii | Hulják-berkenye |  |
+
+|  |  |  | Sorbus javorkae | Jávorka-berkenye |  |
+
+|  |  |  | Sorbuskarpatii | Kárpáti-berkenye |  |
+
+|  |  |  | Sorbuslatissima | nagylevelű berkenye |  |
+
+|  |  |  | Sorbusmajeri | Májer-berkenye |  |
+
+|  |  |  | Sorbussemiincisa | budai berkenye |  |
+
+|  |  |  | Sorbuspannonica | dunántúli berkenye |  |
+
+|  |  |  | Sorbus polgariana | Polgár-berkenye |  |
+
+|  |  |  | Sorbuspseudobakonyensis | rövidkaréjú berkenye |  |
+
+|  |  |  | Sorbuspseudodanubialis | Duna-menti berkenye |  |
+
+|  |  |  | Sorbus pseudolatifolia | széleslevelű berkenye |  |
+
+|  |  |  | Sorbus pseudosemiincisa | kevéserű berkenye |  |
+
+|  |  |  | Sorbus pseudovertensis | csákberényi berkenye |  |
+
+|  |  |  | Sorbus redliana | Rédl-berkenye |  |
+
+|  |  |  | Sorbus simonkaiana | Simonkai-berkenye |  |
+
+|  |  |  | Sorbus sooi | Soó-berkenye |  |
+
+|  |  |  | Sorbus subdanubialis | közép-dunai berkenye (Duna-vidéki berkenye) |  |
+
+|  |  |  | Sorbus thaiszii | Thaisz-berkenye |  |
+
+|  |  |  | Sorbus tobani | Tobán-berkenye |  |
+
+|  |  |  | Sorbus ulmifolia | szillevelű berkenye |  |
+
+|  |  |  | Sorbus vajdae | Vajda-berkenye |  |
+
+|  |  |  | Sorbus vallerubusensis | szedresvölgyi berkenye |  |
+
+|  |  |  | Sorbus vertesensis | vértesi berkenye |  |
+
+|  |  |  | Sorbus veszpremensis | veszprémi berkenye |  |
+
+|  |  |  | Sorbus zolyomii | Zólyomi-berkenye |  |
+
+| 801. |  |  | Spiraea crenata | csipkés gyöngyvessző | 50 000 |
+
+| 802. |  |  | Spiraea media | szirti gyöngyvessző | 10 000 |
+
+| 803. |  |  | Spiraea salicifolia | fűzlevelű gyöngyvessző | 10 000 |
+
+| 804. | Rubiaceae |  |  | galajfélék (buzérfélék) |  |
+
+| 805. |  |  | Asperula taurina | olasz müge | 5 000 |
+
+| 806. |  |  | Galium austriacum | osztrák galaj | 5 000 |
+
+| 807. |  |  | Galium tenuissimum | vékony galaj | 10 000 |
+
+| 808. | Ruscaceae |  |  | csodabogyófélék |  |
+
+| 809. |  |  | Ruscus aculeatus | szúrós csodabogyó | 10 000 |
+
+| 810. |  |  | Ruscus hypoglossum | lónyelvű csodabogyó | 50 000 |
+
+| 811. | Rutaceae |  |  | rutafélék |  |
+
+| 812. |  |  | Dictamnus albus | kőrislevelű nagyezerjófű | 5 000 |
+
+| 813. | Salicaceae |  |  | fűzfafélék |  |
+
+| 814. |  |  | Salixaurita | füles fűz | 50 000 |
+
+| 815. |  |  | Salix elaeagnos | parti fűz | 10 000 |
+
+| 816. |  |  | Salix myrsinifolia | feketéllő fűz | 10 000 |
+
+| 817. |  |  | Salix pentandra | babérfűz | 10 000 |
+
+| 818. | Saxifragaceae |  |  | kőtörőfűfélék |  |
+
+| 819. |  |  | Saxifraga adscendens | hegyi kőtörőfű | 50 000 |
+
+| 820. |  |  | Saxifraga paniculata | fürtös kőtörőfű | 10 000 |
+
+| 821. | Scrophulariaceae |  |  | tátogatófélék |  |
+
+| 822. |  | Digitalis ferruginea |  | rozsdás gyűszűvirág | 100 000 |
+
+| 823. |  | Digitalis lanata |  | gyapjas gyűszűvirág | 100 000 |
+
+| 824. |  |  | Linaria biebersteinii | Bieberstein-gyújtoványfű | 10 000 |
+
+| 825. |  |  | Lindernia procumbens | heverő iszapfű | 5 000 |
+
+| 826. |  |  | Melampyrum bihariense | erdélyi csormolya | 5 000 |
+
+| 827. |  |  | Pedicularis palustris | posvány kakastaréj | 50 000 |
+
+| 828. |  |  | Pseudolysimachion incanum | szürke fürtösveronika | 50 000 |
+
+| 829. |  |  | Pseudolysimachion longifolium | hosszúlevelű fürtösveronika | 5 000 |
+
+| 830. |  | Pseudolysimachion spurium |  | bugás fürtösveronika | 100 000 |
+
+| 831. |  |  | Rhamnus saxatilis | sziklai benge | 10 000 |
+
+| 832. |  |  | Scrophularia scopolii | bársonyos görvélyfű | 5 000 |
+
+| 833. |  |  | Scrophularia vernalis | tavaszi görvélyfű | 5 000 |
+
+| 834. | Solanaceae |  |  | csucsorfélék |  |
+
+| 835. |  |  | Scopolia carniolica | krajnai farkasbogyó | 5 000 |
+
+| 836. | Sparganiaceae |  |  | békabuzogányfélék |  |
+
+| 837. |  | Sparganium natans |  | lápi békabuzogány | 100 000 |
+
+| 838. | Tamaricaceae |  |  | tamariskafélék |  |
+
+| 839. |  |  | Myricaria germanica | német csermelyciprus | 10 000 |
+
+| 840. | Thymelaeaceae |  |  | boroszlánfélék |  |
+
+| 841. |  |  | Daphne cneorum | henye boroszlán | 50 000 |
+
+| 842. |  |  | Daphne laureola | babérboroszlán | 50 000 |
+
+| 843. |  |  | Daphne mezereum | farkasboroszlán | 10 000 |
+
+| 844. | Trapaceae |  |  | sulyomfélék |  |
+
+| 845. |  |  | Trapa natans | sulyom (csemegesulyom) | 5 000 |
+
+| 846. | Urticaceae |  |  | csalánfélék |  |
+
+| 847. |  |  | Urtica kioviensis | kúszó csalán (lápi csalán) | 5 000 |
+
+| 848. | Valerianaceae |  |  | macskagyökérfélék |  |
+
+| 849. |  |  | Valeriana officinalis subsp. sambucifolia | bodzalevelű macskagyökér | 10 000 |
+
+| 850. |  |  | Valeriana simplicifolia | éplevelű macskagyökér | 10 000 |
+
+| 851. |  |  | Valeriana tripteris | hármaslevelű macskagyökér | 5 000 |
+
+| 852. | Verbenaceae |  |  | vasfűfélék |  |
+
+| 853. |  |  | Verbena supina | henye vasfű | 10 000 |
+
+| 854. | Violaceae |  |  | ibolyafélék |  |
+
+| 855. |  |  | Viola biflora | sárga ibolya | 50 000 |
+
+| 856. |  |  | Viola collina | dombi ibolya | 5 000 |
+
+| 857. |  |  | Viola stagnina | lápi ibolya | 10 000 |
+
+| 857. | Vitaceae |  |  | szőlőfélék |  |
+
+| 858. |  |  | Vitissylvestris | ligeti szőlő | 50 000 |
+
+## 22Kivéve gyógyászati célra feldolgozott származéka.
+
+## 23Kivéve sterilis, termőképtelen alak.
+
+## 24Kivéve gyümölcse, gyógyászati és élelmezési célra feldolgozott származéka.
+
+## 25Kivéve energetikai célra termesztett és feldolgozott származéka.
+
+## 1 Kivéve gyógyászati célra feldolgozott származéka.
+
+## 2 Kivéve sterilis, termőképtelen alak.
+
+## 3 Kivéve gyümölcse, gyógyászati és élelmezési célra feldolgozott származéka.
+
+## 4 Kivéve energetikai célra termesztett és feldolgozott származéka.
+
+2. számú melléklet a 13/2001. (V. 9.) KöM rendelethez[^22]
+
+FOKOZOTTAN VÉDETT ÉS VÉDETT ÁLLATOK
+
+[^22]: A 2. számú melléklet a 100/2012. (IX. 28.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.
