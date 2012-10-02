@@ -1,1 +1,0 @@
-## „(3) Az (1) bekezdés a) pontjában meghatározott települések körét – a fővárosi és megyei kormányhivatal közlekedési felügyelősége véleményének meghallgatásával – a fővárosi és megyei kormányhivatal munkaügyi feladatot ellátó szakigazgatási szerve (a továbbiakban: munkaügyi központ) határozza meg.”
