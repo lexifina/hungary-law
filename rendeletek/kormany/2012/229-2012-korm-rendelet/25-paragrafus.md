@@ -14,6 +14,4 @@ c) hány köznevelési intézmény fenntartói jogát adta át, a köznevelési 
 
 (4) A jogutóddal megszűnt vagy átalakult köznevelési intézményről a jogutód köznevelési intézmény, a jogutód nélkül megszűnt köznevelési intézményről a volt fenntartó záró statisztikát készít. A köznevelési intézmény képviselője – fenntartójának egyidejű értesítése mellett – október 15–31. között egy alkalommal kérheti a minisztertől a lezárt statisztikájának módosítását.
 
-(5)[^2]
-
-[^2]: A 25. § (5) bekezdése a 45. § (3) bekezdése alapján 2012. október 2-án lép hatályba.
+(5) A Hivatal a KIR-ben tárolt adatok megadásával segíti a köznevelési intézmény (3) és (4) bekezdésben meghatározott kötelezettségének teljesítését.
