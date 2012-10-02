@@ -1,3 +1,0 @@
-## 1. § A védett és a fokozottan védett növény- és állatfajokról, a fokozottan védett barlangok köréről, valamint az Európai Közösségben természetvédelmi szempontból jelentős növény- és állatfajok közzétételéről szóló 13/2001. (V. 9.) KöM rendelet (a továbbiakban: R.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A védett és fokozottan védett növényfajokat, valamint egyedeik pénzben kifejezett értékét az 1. számú melléklet, a védett és fokozottan védett állatfajokat, valamint egyedeik pénzben kifejezett értékét a 2. számú melléklet szerint állapítom meg. A védett gomba- és zuzmófajokat, valamint egyedeik pénzben kifejezett értékét a 9. számú melléklet szerint állapítom meg.”
