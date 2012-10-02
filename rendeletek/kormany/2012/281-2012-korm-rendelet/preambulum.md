@@ -1,0 +1,1 @@
+A Kormány a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 129. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikkének (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
