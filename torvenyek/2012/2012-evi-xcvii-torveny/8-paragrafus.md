@@ -1,3 +1,0 @@
-8. § A Fétám. a következő 9/A. §-sal egészül ki:
-
-„9/A. § Amennyiben a Start-számla megnyitását a személyi jövedelemadóról szóló 1995. évi CXVII. törvény és a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény módosításáról szóló 2012. évi XCVII. törvény hatálybalépését megelőzően nem a kiutalónál kezdeményezték, az életkezdési támogatásnak a kiutalótól eltérő számlavezetőhöz történő áthelyezésére e törvény 2012. szeptember 30-án hatályos rendelkezéseit kell alkalmazni.”
