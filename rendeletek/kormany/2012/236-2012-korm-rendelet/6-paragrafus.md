@@ -1,7 +1,9 @@
-## 5. § A Gyer. 4. számú melléklete helyébe az 1. melléklet lép.
+## 5. §[^5]
 
-6. § (1)[^4]
+6. § (1)[^6]
 
-(2) Hatályát veszti a Gyer. 66/A. § (4) bekezdésében és 68/F. § (1) bekezdésében a „pénzbeli” szövegrész.
+(2)[^7]
 
-[^4]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

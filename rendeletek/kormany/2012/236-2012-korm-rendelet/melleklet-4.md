@@ -1,3 +1,3 @@
-4. melléklet a 236/2012. (VIII. 30.) Korm. rendelethez[^32]
+4. melléklet a 236/2012. (VIII. 30.) Korm. rendelethez[^36]
 
-[^32]: A 4. melléklet a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
+[^36]: A 4. melléklet a 20. § (5) bekezdése alapján 2013. április 1-jén lép hatályba.
