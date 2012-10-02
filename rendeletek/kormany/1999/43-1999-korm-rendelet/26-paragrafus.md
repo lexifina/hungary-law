@@ -4,17 +4,17 @@
 
 ## Általános szabályok
 
-26. § (1)[^214] A szolgáltató az egészségügyi szakellátási tevékenysége után az E. Alapból akkor jogosult térítésre, ha
+26. § (1)[^212] A szolgáltató az egészségügyi szakellátási tevékenysége után az E. Alapból akkor jogosult térítésre, ha
 
 a) az Eb. tv. rendelkezése szerint térítésmentes, illetve részleges térítéssel ellátást nyújt, és
 
-b)[^215] a 4. § (4) bekezdésében foglalt kivétellel a biztosított TAJ- számát, és a részére nyújtott ellátást a beteg dokumentációjában rögzítette.
+b)[^213] a 4. § (4) bekezdésében foglalt kivétellel a biztosított TAJ- számát, és a részére nyújtott ellátást a beteg dokumentációjában rögzítette.
 
-(2)[^216] A szolgáltató csak olyan teljesítményt jelenthet elszámolásra, amelynek teljesítése az érvényes szakmai szabályok szerint megtörtént, és amelyre az ellátást igénybe vevő egészségének megőrzése, helyreállítása érdekében volt szükség.
+(2)[^214] A szolgáltató csak olyan teljesítményt jelenthet elszámolásra, amelynek teljesítése az érvényes szakmai szabályok szerint megtörtént, és amelyre az ellátást igénybe vevő egészségének megőrzése, helyreállítása érdekében volt szükség.
 
-(3)[^217] Amennyiben a teljesített szolgáltatás jelentésére finanszírozási eljárásrend van érvényben, a szolgáltató a teljesítmény-jelentése során ennek alapján jelentheti a teljesítményét.
+(3)[^215] Amennyiben a teljesített szolgáltatás jelentésére finanszírozási eljárásrend van érvényben, a szolgáltató a teljesítmény-jelentése során ennek alapján jelentheti a teljesítményét.
 
-(4)[^218] A szolgáltató nem számolhatja el a finanszírozó felé a biztosított által ártámogatással igénybe vett gyógyászati ellátást
+(4)[^216] A szolgáltató nem számolhatja el a finanszírozó felé a biztosított által ártámogatással igénybe vett gyógyászati ellátást
 
 a) járóbeteg-szakellátási teljesítményként,
 
@@ -22,17 +22,17 @@ b) otthoni szakápolási teljesítményként,
 
 c) ha azt a biztosított fekvőbeteg-intézményben veszi igénybe, a felvételtől az elbocsátás napjáig.
 
-(4a)[^219] Nem számolható el teljesítmény az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008. (XII. 30.) Korm. rendelet (a továbbiakban: Eftv. vhr.) 5/B. §-a szerinti nyilvántartásban szüneteltetett kapacitásként nyilvántartott kapacitás alapján.
+(4a)[^217] Nem számolható el teljesítmény az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008. (XII. 30.) Korm. rendelet (a továbbiakban: Eftv. vhr.) 5/B. §-a szerinti nyilvántartásban szüneteltetett kapacitásként nyilvántartott kapacitás alapján.
 
-(5)[^220] A teljesítményfinanszírozás során használt szakmai kódrendszerek és finanszírozási paraméterek – az OEP bevonásával történő – folyamatos karbantartásáról, az ehhez szükséges adatok körének meghatározásáról és a változtatások szabályozásáról az egészségügyért felelős miniszter rendeletben gondoskodik.
+(5)[^218] A teljesítményfinanszírozás során használt szakmai kódrendszerek és finanszírozási paraméterek – az OEP bevonásával történő – folyamatos karbantartásáról, az ehhez szükséges adatok körének meghatározásáról és a változtatások szabályozásáról az egészségügyért felelős miniszter rendeletben gondoskodik.
 
-(6)[^221] Az aktív fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató az OEP által biztosított program felhasználásával folyamatosan köteles elektronikus úton (on-line) jelenteni az OEP számára a rendelkezésére álló finanszírozott ágyak státuszát. Az aktív ágy a jelentés szempontjából foglalt, előfoglalt és szabad besorolásúnak minősülhet. Az OEP a szabad ágyakról folyamatosan on-line tájékoztatja az Országos Mentőszolgálat irányító központját a sürgősségi betegelhelyezés zavartalan biztosítása érdekében.
+(6)[^219] Az aktív fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató az OEP által biztosított program felhasználásával folyamatosan köteles elektronikus úton (on-line) jelenteni az OEP számára a rendelkezésére álló finanszírozott ágyak státuszát. Az aktív ágy a jelentés szempontjából foglalt, előfoglalt és szabad besorolásúnak minősülhet. Az OEP a szabad ágyakról folyamatosan on-line tájékoztatja az Országos Mentőszolgálat irányító központját a sürgősségi betegelhelyezés zavartalan biztosítása érdekében.
 
-[^214]: A 26. § eredeti szövegének jelölését (1) bekezdésére változtatta a 102/2003. (VII. 17.) Korm. rendelet 8. §-a.
-[^215]: A 26. § b) pontja a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (5) bekezdése szerint módosított szöveg.
-[^216]: A 26. § (2) bekezdését a 102/2003. (VII. 17.) Korm. rendelet 8. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva.
-[^217]: A 26. § (3) bekezdését újonnan a 283/2008. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
-[^218]: A 26. § (4) bekezdését a 102/2003. (VII. 17.) Korm. rendelet 8. §-a iktatta be, a 264/2003. (XII. 24.) Korm. rendelet 27. §-ának (9) bekezdése alapján a 2004. január havi teljesítmények elszámolásától kezdődően hatályát vesztette. A 26. § (4) bekezdését újonnan az 58/2009. (III. 18.) Korm. rendelet 5. §-a iktatta be, alkalmazására lásd e módosító rendelet 18. § (3)–(5) bekezdését.
-[^219]: A 26. § (4a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 16. §-a iktatta be.
-[^220]: A 26. § (5) bekezdését az 58/2009. (III. 18.) Korm. rendelet 5. §-a iktatta be, szövege a 365/2010. (XII. 30.) Korm. rendelet 18. § 26. pontja szerint módosított szöveg.
-[^221]: A 26. § (6) bekezdését a 291/2009. (XII. 18.) Korm. rendelet 6. §-a iktatta be.
+[^212]: A 26. § eredeti szövegének jelölését (1) bekezdésére változtatta a 102/2003. (VII. 17.) Korm. rendelet 8. §-a.
+[^213]: A 26. § b) pontja a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (5) bekezdése szerint módosított szöveg.
+[^214]: A 26. § (2) bekezdését a 102/2003. (VII. 17.) Korm. rendelet 8. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva.
+[^215]: A 26. § (3) bekezdését újonnan a 283/2008. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^216]: A 26. § (4) bekezdését a 102/2003. (VII. 17.) Korm. rendelet 8. §-a iktatta be, a 264/2003. (XII. 24.) Korm. rendelet 27. §-ának (9) bekezdése alapján a 2004. január havi teljesítmények elszámolásától kezdődően hatályát vesztette. A 26. § (4) bekezdését újonnan az 58/2009. (III. 18.) Korm. rendelet 5. §-a iktatta be, alkalmazására lásd e módosító rendelet 18. § (3)–(5) bekezdését.
+[^217]: A 26. § (4a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 16. §-a iktatta be.
+[^218]: A 26. § (5) bekezdését az 58/2009. (III. 18.) Korm. rendelet 5. §-a iktatta be, szövege a 365/2010. (XII. 30.) Korm. rendelet 18. § 26. pontja szerint módosított szöveg.
+[^219]: A 26. § (6) bekezdését a 291/2009. (XII. 18.) Korm. rendelet 6. §-a iktatta be.

@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2012-07-15 | 1999-43-20-22.101 | 329/2005. (XII. 29.) Korm. rendelet |
 | 2012-07-20 | 1999-43-20-22.102 | 291/2009. (XII. 18.) Korm. rendelet |
 | 2012-09-15 | 1999-43-20-22.103 | 259/2012. (IX. 14.) Korm. rendelet |
+| 2012-10-02 | 1999-43-20-22.104 | 259/2012. (IX. 14.) Korm. rendelet |
