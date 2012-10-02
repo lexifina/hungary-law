@@ -308,7 +308,7 @@
 
 ## Határidő: folyamatosan
 
-## 20. visszavonja a vállalkozói adminisztratív költségek csökkentésére irányuló, Egyszerű Állam című középtávú kormányzati programról szóló 1405/2011. (XI. 25.) Korm. határozatot.
+## 20.[^1]
 
 1. melléklet az 1416/2012. (X. 1.) Korm. határozathoz
 
@@ -559,3 +559,5 @@ Az Egyszerű Állam Programban szereplő intézkedések felelősségi és üteme
 ** A végrehajtás részletes ütemezése megtalálható a Programban, a táblázat a főbb mérföldköveket tartalmazza, legtöbb intézkedéseknél, amelyeknél több határidő is megjelölésre került, ott az első a Kormány által történő elfogadást, míg a második a hatálybalépést jelöli.
 
 *** A melléklet az Egyszerű Állam program keretében az e határozat közzétételét megelőzően végrehajtott intézkedéseket is tartalmazza. A határozat közzétételét megelőző végrehajtási határidők már végrehajtott intézkedéseket jelölnek.
+
+[^1]: A 20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
