@@ -8,7 +8,8 @@
 
 (5)[^2]
 
-(6) A (4) bekezdés 2012. október 1-jén hatályát veszti.
+(6)[^3]
 
 [^1]: A 3. § (4) bekezdése ugyanezen § (6) bekezdése alapján hatályát vesztette.
 [^2]: A 3. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
