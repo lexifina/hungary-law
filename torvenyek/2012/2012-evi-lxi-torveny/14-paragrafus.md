@@ -1,7 +1,7 @@
-14. § Hatályát veszti az Ltv.
+14. §
 
 a)
 
-b) 18. § (1) bekezdése,
+b)
 
 c)
