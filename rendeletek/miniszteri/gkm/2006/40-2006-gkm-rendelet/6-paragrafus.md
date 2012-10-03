@@ -1,4 +1,4 @@
-6. § (1)[^9] A vasútbiztonsági tanúsítvány iránt a Vtv. 6–9. §-a szerinti működési engedéllyel rendelkező vasúti társaságnak a 653/2007/EK bizottsági rendelet III. mellékletében foglalt nyomtatványon kérelmet kell benyújtania a közlekedési hatósághoz. A kérelemben meg kell határozni az igénybe venni kívánt pályahálózatot. A tanúsítvány hatálya a kérelemben megjelölt pályahálózatra terjed ki.
+6. § (1)[^14] A vasútbiztonsági tanúsítvány iránt a Vtv. 6–9. §-a szerinti működési engedéllyel rendelkező vasúti társaságnak a 653/2007/EK bizottsági rendelet III. mellékletében foglalt nyomtatványon kérelmet kell benyújtania a közlekedési hatósághoz. A kérelemben meg kell határozni az igénybe venni kívánt pályahálózatot. A tanúsítvány hatálya a kérelemben megjelölt pályahálózatra terjed ki.
 
 (2) A kérelemhez mellékelni kell:
 
@@ -16,4 +16,4 @@ f) nyilatkozatot arról, hogy a vasúti közlekedés biztonságával kapcsolatos
 
 g) az f) pontban meghatározott munkakörökben dolgozók képzésére és oktatására vonatkozó belső utasítások és szabályzatok jegyzékét.
 
-[^9]: A 6. § (1) bekezdése a 104/2007. (XII. 22.) GKM rendelet 2. §-ával megállapított szöveg.
+[^14]: A 6. § (1) bekezdése a 104/2007. (XII. 22.) GKM rendelet 2. §-ával megállapított szöveg.
