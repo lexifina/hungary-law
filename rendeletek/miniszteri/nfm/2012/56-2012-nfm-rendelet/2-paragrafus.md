@@ -1,0 +1,3 @@
+## 1. § A vasútbiztonsági tanúsítványra, a biztonsági engedélyre, a biztonságirányítási rendszerekre, a biztonsági jelentésre, valamint az egyes hatósági engedélyezési eljárásokra vonatkozó részletes szabályokról szóló 40/2006. (VI. 26.) GKM rendelet (a továbbiakban: R.) 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A biztonságirányítási rendszernek lehetővé kell tennie, hogy a pályavasúti társaság és a vállalkozó vasúti társaság a tevékenységéből, a karbantartásból, az anyagbeszerzésekből, valamint személyek munkavégzésre irányuló egyéb jogviszonyban történő foglalkoztatásából származó összes kockázatot figyelembe vegye.”
