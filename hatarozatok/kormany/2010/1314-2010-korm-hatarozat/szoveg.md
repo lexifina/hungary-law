@@ -1,4 +1,4 @@
-1. A Kormány egyetért azzal, hogy az alábbi kiemelt projektek nevesítésre kerüljenek az EKOP és az ÁROP 2009–2010. évi akcióterveiben, illetve azzal, hogy az Irányító Hatóság a vonatkozó tervezési felhívást és útmutatókat kibocsássa és a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának alapvető szabályairól és felelős intézményeiről szóló 255/2006. (XII. 8.) Korm. rendelet szerinti értékelést elvégezze.
+1.[^2] A Kormány egyetért azzal, hogy az alábbi kiemelt projektek nevesítésre kerüljenek az EKOP és az ÁROP 2009–2010. évi akcióterveiben, illetve azzal, hogy az Irányító Hatóság a vonatkozó tervezési felhívást és útmutatókat kibocsássa és a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának alapvető szabályairól és felelős intézményeiről szóló 255/2006. (XII. 8.) Korm. rendelet szerinti értékelést elvégezze.
 
 | Projektgazda neve | Projekt megnevezése | OP | Támogatás összege (Ft) |
 
@@ -11,12 +11,6 @@
 | KIM | Stratégiai irányítás megújítása a központi közigazgatásban | ÁROP | 480 000 000 |
 
 | Promei | Fejlesztéspolitikai tevékenység irányítási, intézményi és szabályozási rendszerének fejlesztése | ÁROP | 330 400 000 |
-
-| KSZK | A közigazgatási idegen szaknyelvi fejlesztési rendszer létrehozása | ÁROP | 330 000 000 |
-
-| KSZK | Közigazgatási Vezetői Akadémia | ÁROP | 300 000 000 |
-
-| KSZK | Közigazgatási Utánpótlási és Európai Mobilitási Program – Magyar Közigazgatási Ösztöndíj | ÁROP | 851 519 000 |
 
 | PMISZK | A fejlesztéspolitika egységes informatikai támogatása Magyarországon | EKOP | 2 300 000 000 |
 
@@ -45,3 +39,5 @@
 | EKOP–1. prioritás | Tanúsított iratkezelő rendszerek bevezetése | Központi közigazgatási szervek és azok területi szervei | 2,0 |
 
 | EKOP–3. prioritás | A központi régió közigazgatása IT hátterének fejlesztése | Közigazgatási szervek | 3,0 |
+
+[^2]: Az 1. pont az 1421/2012. (X. 4.) Korm. határozat 4. pont a) alpontja alapján módosított szöveg.
