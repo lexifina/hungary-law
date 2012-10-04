@@ -198,7 +198,7 @@
 
 | 3. | Prioritás | 0,00 | 0,38 | 0,00 |  |  |  |
 
-2. melléklet a 1346/2012. (IX. 7.) Korm. határozathoz
+2. melléklet a 1346/2012. (IX. 7.) Korm. határozathoz[^3]
 
 | Konstrukció kódja | Projekt megnevezése | Operatív Program | Támogatást igénylő neve | Kiemelt projekt támogatási összege (KONV+KMR Mrd Ft) | Projekt rövid bemutatása | Támogathatóság feltételei (amennyiben releváns) |
 
@@ -246,14 +246,10 @@
 
 | 2 2 18 | Közigazgatási szolgáltatások használatára való ösztönzés és azokról tájékoztatás | Államreform Operatív Program | KIM | 0,30 | A projekt keretén belül tájékoztatási kampányokra kerül sor a lakosság részére az e-közigazgatási és egyéb közigazgatási szolgáltatásokról, azok működéséről, elérhetőségéről, igénybe vételének feltételeiről, előnyeiről. Emellett megtörténik a közigazgatási szolgáltatások nyújtásában résztvevő ügyintézők továbbképzése |  |
 
-| 2 2 17 | Új közszolgálati életpálya | Államreform Operatív Program | NKI | 1,00 | Az új életpálya révén csökkenhet a fluktuáció, valamint nőhet a közszolgálati pálya iránti érdeklődés és erősödik a különböző életpályák közötti átjárhatóság és kapcsolat. |  |
-
 | 2 2 15 | Roma felzárkózás módszertani támogatása | Államreform Operatív Program | Országos Roma Önkormányzat | 1,00 | A roma kisebbség felzárkózását segítő programok megtervezéséhez és végrehajtásához szükséges ismeretek és készségek elsajátítása a roma kisebbségi önkormányzatok választott képviselői és munkatársai által, a helyi adottságokra épülő programok elkészítése érdekében. |  |
-
-| 2 2 19 | Elektronikus képzési és távoktatási anyagok készítése | Államreform Operatív Program | NKI | 0,70 | A konstrukció keretében elektronikus képzési anyagok készülnek a közigazgatási szerveknél dolgozók kompetenciáinak fejlesztése céljából. Emellett távoktatási rendszer és öntanulási módszer kidolgozásához és bevezetéséhez szükséges képzések és kompetencia-fejlesztés is megtörténik. |  |
-
-| 2 2 20 | Kormányablakok munkatársainak képzése | Államreform Operatív Program | NKI | 1,60 | Kormányablakok munkatársainak képzése elnevezésű kiemelt projekt az országos szinten felálló kormányablaki hálózat munkatársai számára nyújt egységes színvonalú, az ügyfélszolgálati tevékenység ellátásához szükséges ismereteket és kompetenciákat átadó képzést. A projekt Kormányablakok kialakításának első szakaszában lebonyolított hasonló célú képzések tapasztalati költségadatain nyugszik. |  |
 
 | 2 2 22 | Képzés a konvergencia régiókban lévő önkormányzatoknak | Államreform Operatív Program | NKI, NKE | 0,71 | A kiemelt projekt keretében az önkormányzati munkatársak részére valósulhatnak meg az önkormányzati igényekhez igazodó képzések azzal, hogy a képzéseken való részvétel ingyenes az önkormányzatok számára |  |
 
 | 2 2 21 | Tudásalapú közigazgatási előmenetel támogatása | Államreform Operatív Program | NKE | 1,00 | Tudásalapú közigazgatási előmenetel támogatásaelnevezésű kiemelt projekt célja, hogy az Országgyűlés által a 2011. évi XXXVI. törvényben 2012. január 1-i hatállyal megalapított Nemzeti Közszolgálati Egyetem képessé váljon a közszolgálati szakemberek felsőfokú képzésére, továbbá a közszolgálati életpályamodellt támogató továbbképzési rendszer működtetésére. Ez kiterjed mind korszerű tananyagok és oktatási módszerek kialakítására, mind pedig a pályaorientáció, a közszolgálati előmenetel és a közszolgálati pályán maradás céljából szükséges képzések programozási és fejlesztési feladataira. |  |
+
+[^3]: A 2. melléklet az 1421/2012. (X. 4.) Korm. határozat 4. pont b) alpontja alapján módosított szöveg.
