@@ -1,6 +1,6 @@
 ## 1. megállapítja a Közlekedés Operatív Program 2011–2013. közötti időszakra szóló akciótervét az 1. melléklet szerint,
 
-## 2. visszavonja a Közlekedési Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1015/2012. (I. 26.) Korm. határozatot.
+## 2.[^2]
 
 1. melléklet az 1423/2012. (X. 4.) Korm. határozathoz
 
@@ -277,3 +277,5 @@
 | Konstrukció neve | Tartalék támogatási konstrukciók indikatív kerete (Mrd Ft) | A konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |  |
 
 | 2012 | 2013 |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
