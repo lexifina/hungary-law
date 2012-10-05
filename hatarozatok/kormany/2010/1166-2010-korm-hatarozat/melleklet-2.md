@@ -204,7 +204,7 @@
 
 | 83. | Külképviseletek igazgatása | 1197 |
 
-| Nemzeti Erőforrás Minisztérium |
+| Emberi Erőforrások Minisztériuma |
 
 | 84. | Egészségügyi Engedélyezési és Közigazgatási Hivatal | 50 |
 
@@ -220,6 +220,8 @@
 
 | 89/1. | Emberi Erőforrás Támogatáskezelő | 210 |
 
+| 89/2. | Klebelsberg Intézményfenntartó Központ | 218 |
+
 | Nyugdíjbiztosítási Alap |
 
 | 90. | Országos Nyugdíjbiztosítási Főigazgatóság | 351 |
@@ -230,6 +232,6 @@
 
 | 92. | Országos Egészségbiztosítási Pénztár | 1594 |
 
-| 93. | ÖSSZESEN: | 70 716 |
+| 93. | ÖSSZESEN: | 70 934 |
 
-[^2]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított, az 1258/2012. (VII. 26.) Korm. határozat 1. pontja, az 1399/2012. (IX. 25.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított, az 1258/2012. (VII. 26.) Korm. határozat 1. pontja, az 1399/2012. (IX. 25.) Korm. határozat 2. pontja, az 1420/2012. (X. 4.) Korm. határozat 1–3. pontja szerint módosított szöveg.
