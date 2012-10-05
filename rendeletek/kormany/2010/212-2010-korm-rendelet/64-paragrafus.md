@@ -28,9 +28,9 @@ m) ellátja a sportegészségügyi rendszer működtetésével, fejlesztésével
 
 n) ellátja a sportcélú központi költségvetési pénzeszközök elosztásával, felhasználásának ellenőrzésével kapcsolatos, külön jogszabályokban meghatározott feladatokat,
 
-o)[^213] megállapítja a külön jogszabályban meghatározott olimpiai járadék jogosultját, és a járadék mértékét, valamint folyósítja a járadékot,
+o)[^215] megállapítja a külön jogszabályban meghatározott olimpiai járadék jogosultját, és a járadék mértékét, valamint folyósítja a járadékot,
 
-p)[^214] megállapítja a külön jogszabályban meghatározott „Nemzet Sportolója” cím jogosultjának járó járadék mértékét és folyósítja a járadékot,
+p)[^216] megállapítja a külön jogszabályban meghatározott „Nemzet Sportolója” cím jogosultjának járó járadék mértékét és folyósítja a járadékot,
 
 q) javaslatot tesz a Kormány részére a „Nemzet Sportolója” cím elnyerésére,
 
@@ -42,7 +42,7 @@ t) meghatározza az oktatási rendszerben folyó testnevelés feladatainak – i
 
 u) elősegíti a sporttudomány fejlődését, valamint a sport szakmai (oktatási, továbbképzési, kutatási, sporttudományos, sportegészségügyi) hátterének biztosítását.
 
-(2)[^215] A miniszter a sportpolitikáért való felelőssége körében biztosítja az együttműködést
+(2)[^217] A miniszter a sportpolitikáért való felelőssége körében biztosítja az együttműködést
 
 a) a sport nevelő és integráló funkcióit kihasználva, a sport értékeit képviselve a káros szenvedélyek elleni fellépéssel, káros szenvedélyektől mentes életre neveléssel,
 
@@ -54,15 +54,15 @@ d) a sport eszközrendszerén keresztül a társadalom megújításának segít�
 
 összefüggő kormányzati teendők ellátásában.
 
-(3)[^216] A miniszter – a (4)–(5) bekezdésben foglalt kivétellel – ellátja a sportigazgatási szerv feladatait.
+(3)[^218] A miniszter – a (4)–(5) bekezdésben foglalt kivétellel – ellátja a sportigazgatási szerv feladatait.
 
-(4)[^217] A sportról szóló 2004. évi I. törvény 64. § (1) bekezdése szerinti olimpiai központok vagyonkezelése tekintetében a sportigazgatási szerv feladatait a Nemzeti Sportközpontok látja el.
+(4)[^219] A sportról szóló 2004. évi I. törvény 64. § (1) bekezdése szerinti olimpiai központok vagyonkezelése tekintetében a sportigazgatási szerv feladatait a Nemzeti Sportközpontok látja el.
 
-(5)[^218] A sportról szóló 2004. évi I. törvény 51. § (2) bekezdés g) pontja szerinti látvány-csapatsportok támogatásával összefüggő közigazgatási hatósági és szolgáltatási feladatok tekintetében a sportigazgatási szerv feladatait a Nemzeti Sport Intézet látja el.
+(5)[^220] A sportról szóló 2004. évi I. törvény 51. § (2) bekezdés g) pontja szerinti látvány-csapatsportok támogatásával összefüggő közigazgatási hatósági és szolgáltatási feladatok tekintetében a sportigazgatási szerv feladatait a Nemzeti Sport Intézet látja el.
 
-[^213]: A 64. § (1) bekezdés o) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (25) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^214]: A 64. § (1) bekezdés p) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (25) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^215]: A 64. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (41) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^216]: A 64. § (3) bekezdése a 107/2011. (VI. 30.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.
-[^217]: A 64. § (4) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 19. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^218]: A 64. § (5) bekezdését a 107/2011. (VI. 30.) Korm. rendelet 16. § (5) bekezdése iktatta be.
+[^215]: A 64. § (1) bekezdés o) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (25) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^216]: A 64. § (1) bekezdés p) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (25) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^217]: A 64. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (41) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^218]: A 64. § (3) bekezdése a 107/2011. (VI. 30.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^219]: A 64. § (4) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 19. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^220]: A 64. § (5) bekezdését a 107/2011. (VI. 30.) Korm. rendelet 16. § (5) bekezdése iktatta be.

@@ -1,6 +1,6 @@
-15. § (1)[^57] A miniszter az igazságügyért való felelőssége körében felel
+15. § (1)[^58] A miniszter az igazságügyért való felelőssége körében felel
 
-a)[^58] az Alaptörvény előkészítéséért,
+a)[^59] az Alaptörvény előkészítéséért,
 
 b) az alapvető jogok érvényesülését biztosító, a büntetőpolitikai és büntetőjogi, a polgári jogi, a családjogi, az igazságszolgáltatást érintő, a társasági jogi, a szellemi tulajdon és a versenyjog területét szabályozó törvények előkészítéséért és az ezzel kapcsolatos szabályozásért, valamint
 
@@ -8,7 +8,7 @@ c) a Kormány eseti döntése alapján a több miniszter feladatait érintő tö
 
 (2) A miniszter előkészíti különösen
 
-a)[^59] a pártok működéséről és gazdálkodásáról, a gyülekezési jogról, a személyes adatok védelméről, a közérdekű adatok nyilvánosságáról, az egyenlő bánásmódról, a sajtóról, a kérelmezési és panaszjogról,
+a)[^60] a pártok működéséről és gazdálkodásáról, a gyülekezési jogról, a személyes adatok védelméről, a közérdekű adatok nyilvánosságáról, az egyenlő bánásmódról, a sajtóról, a kérelmezési és panaszjogról,
 
 b) az Alkotmánybíróságról, az állampolgári jogok országgyűlési biztosáról, az Állami Számvevőszékről, a kormányzati szervezetrendszerről, a bíróságokról, az ügyészségről, a közjogi tisztségviselők jogállásáról és juttatásairól, a nemzeti hírügynökségről,
 
@@ -44,7 +44,7 @@ q) a pártfogó felügyelői tevékenységről,
 
 r) a lobbitevékenységről,
 
-s)[^60]
+s)[^61]
 
 t) a sztrájkjogról
 
@@ -58,20 +58,20 @@ a) az állampolgársági ügyekért való felelőssége körében a magyar álla
 
 b) az anyakönyvi ügyekért való felelőssége körében az anyakönyvvezetésről, a házasságkötési eljárásról, a névviselésről, a névváltoztatásról szóló,
 
-c)[^61] a személyiadat- és lakcímnyilvántartásért való felelőssége körében a személyi adatok és a lakcím nyilvántartásáról, a személyazonosító igazolványról szóló,
+c)[^62] a személyiadat- és lakcímnyilvántartásért való felelőssége körében a személyi adatok és a lakcím nyilvántartásáról, a személyazonosító igazolványról szóló,
 
 d) a kárpótlásért való felelőssége körében a személyi és vagyoni kárpótlásról szóló,
 
-e)[^62] a közigazgatás-fejlesztésért való felelőssége körében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló,
+e)[^63] a közigazgatás-fejlesztésért való felelőssége körében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló,
 
-f)[^63] az igazságügyért való felelőssége körében a magyar formatervezési díjról és az iparjogvédelmi támogatásokról szóló
+f)[^64] az igazságügyért való felelőssége körében a magyar formatervezési díjról és az iparjogvédelmi támogatásokról szóló
 
 jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeleteket ad ki.
 
-[^57]: A 15. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (9) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^58]: A 15. § (1) bekezdés a) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § d) pontjával megállapított szöveg.
-[^59]: A 15. § (2) bekezdés a) pontja a 94/2012. (V. 11.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^60]: A 15. § (2) bekezdés s) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^61]: A 15. § (5) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (9) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^62]: A 15. § (5) bekezdés e) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (9) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^63]: A 15. § (5) bekezdés f) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (9) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^58]: A 15. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (9) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^59]: A 15. § (1) bekezdés a) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § d) pontjával megállapított szöveg.
+[^60]: A 15. § (2) bekezdés a) pontja a 94/2012. (V. 11.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^61]: A 15. § (2) bekezdés s) pontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^62]: A 15. § (5) bekezdés c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (9) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^63]: A 15. § (5) bekezdés e) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (9) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^64]: A 15. § (5) bekezdés f) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (9) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
