@@ -4,25 +4,7 @@
 
 ## 3. hozzájárul ahhoz, hogy a Nemzeti Fejlesztési Ügynökség Közigazgatási Reform Programok Irányító Hatósága a 2. pont szerinti kiemelt projektek támogatási szerződéseit megkösse, illetve módosításuk iránti intézkedéseket megtegye,
 
-## 4. visszavonja
-
-## a) az Elektronikus közigazgatás operatív program és az Államreform operatív program 2009–2010. évi akciótervének módosításáról (kiemelt projektek nevesítéséről, pályázati konstrukciók törléséről) szóló 1314/2010. (XII. 27.) Korm. határozat 1. pontjában szereplő táblázatnak
-
-## aa) az „A közigazgatási idegen szaknyelvi fejlesztési rendszer létrehozása” című,
-
-## ab) a „Közigazgatási Vezetői Akadémia” című,
-
-## ac) a „Közigazgatási Utánpótlási és Európai Mobilitási Program – Magyar Közigazgatási Ösztöndíj” című,
-
-## b) az Államreform Operatív Program 2011–2013. évekre szóló akciótervének elfogadásáról és kiemelt projektek nevesítéséről szóló 1346/2012. (IX. 7.) Korm. határozat 2. mellékletében szereplő táblázat
-
-## ba) az ÁROP-2.2.17. azonosító számú („Új közszolgálati életpálya” című),
-
-## bb) az ÁROP-2.2.19. azonosító számú („Elektronikus képzési és távoktatási anyagok készítése” című), és
-
-## bc) az ÁROP-2.2.20. azonosító számú („Kormányablakok munkatársainak képzése” című)
-
-## projektre vonatkozó részét.
+## 4.[^1]
 
 1. melléklet az 1421/2012. (X. 4.) Korm. határozathoz
 
@@ -49,3 +31,5 @@
 | 10 | 2.2.19. | Elektronikus képzési és távoktatási anyagok készítése | Állam- reform Operatív Program | 2011–2013. | NKE | 0,70 | A konstrukció keretében elektronikus képzési anyagok készülnek a közigazgatási szerveknél dolgozók kompetenciáinak fejlesztése céljából. Emellett távoktatási rendszer és öntanulási módszer kidolgozásához és bevezetéséhez szükséges képzések és kompetencia-fejlesztés is megtörténik. |
 
 | 11 | 2.2.20. | Kormányablakok munkatársainak képzése | Állam- reform Operatív Program | 2011–2013. | NKE | 1,60 | Kormányablakok munkatársainak képzése elnevezésű kiemelt projekt az országos szinten felálló kormányablaki hálózat munkatársai számára nyújt egységes színvonalú, az ügyfélszolgálati tevékenység ellátásához szükséges ismereteket és kompetenciákat átadó képzést. A projekt Kormányablakok kialakításának első szakaszában lebonyolított hasonló célú képzések tapasztalati költségadatain nyugszik. |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
