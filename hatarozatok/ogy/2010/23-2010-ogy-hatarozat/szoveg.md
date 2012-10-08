@@ -856,7 +856,7 @@ dr. Vadai Ágnes (független)[^128]
 
 Szilágyi György (Jobbik)[^129]
 
-Kukorelly Endre (LMP)
+Lengyel Szilvia (LMP)[^130]
 
 s) Számvevőszéki és költségvetési bizottság (27 fő)
 
@@ -864,13 +864,13 @@ Elnök: dr. Nyikos László (Jobbik)
 
 Alelnök:
 
-dr. Puskás Imre (Fidesz)[^130]
+dr. Puskás Imre (Fidesz)[^131]
 
-Seszták Oszkár (KDNP)[^131]
+Seszták Oszkár (KDNP)[^132]
 
 Tagok:
 
-Kara Ákos (Fidesz)[^132]
+Kara Ákos (Fidesz)[^133]
 
 Babák Mihály (Fidesz)
 
@@ -882,13 +882,13 @@ dr. Bóka István (Fidesz)
 
 dr. Dancsó József (Fidesz)
 
-dr. Pósán László (Fidesz)[^133]
+dr. Pósán László (Fidesz)[^134]
 
 Ékes József (Fidesz)
 
 Herman István Ervin (Fidesz)
 
-Font Sándor (Fidesz)[^134]
+Font Sándor (Fidesz)[^135]
 
 Magyar Anna (Fidesz)
 
@@ -896,23 +896,23 @@ Márton Attila (Fidesz)
 
 dr. Nagy István (Fidesz)
 
-dr. Vitányi István (Fidesz)[^135]
+dr. Vitányi István (Fidesz)[^136]
 
 Szólláth Tibor Zoltán (Fidesz)
 
-Hoffman Pál (KDNP)[^136]
+Hoffman Pál (KDNP)[^137]
 
 Boldvai László (MSZP)
 
 dr. Szekeres Imre (MSZP)
 
-Puch László (MSZP)[^137]
+Puch László (MSZP)[^138]
 
 dr. Veres János (MSZP)
 
-Rozgonyi Ernő (Jobbik)[^138]
+Rozgonyi Ernő (Jobbik)[^139]
 
-Pősze Lajos (független)[^139]
+Pősze Lajos (független)[^140]
 
 Vágó Gábor (LMP)
 
@@ -1107,13 +1107,14 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^127]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
 [^128]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
 [^129]: Az 1/2012. (II. 21.) OGY határozat 1. pontjával megállapított szöveg.
-[^130]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
-[^131]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
-[^132]: A 27/2011. (V. 12.) OGY határozat 1. pontjával megállapított szöveg.
-[^133]: Az 51/2010. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
-[^134]: A 13/2012. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
-[^135]: A 17/2011. (III. 9.) OGY határozat 1. pontjával megállapított szöveg.
-[^136]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
-[^137]: A 89/2011. (XI. 24.) OGY határozat 1. pontjával megállapított szöveg.
-[^138]: A 63/2011. (IX. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^139]: A 127/2010. (XII. 22.) OGY határozat 1. pontjával megállapított szöveg.
+[^130]: A 66/2012. (X. 9.) OGY határozat 1. pontjával megállapított szöveg.
+[^131]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
+[^132]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
+[^133]: A 27/2011. (V. 12.) OGY határozat 1. pontjával megállapított szöveg.
+[^134]: Az 51/2010. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
+[^135]: A 13/2012. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
+[^136]: A 17/2011. (III. 9.) OGY határozat 1. pontjával megállapított szöveg.
+[^137]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
+[^138]: A 89/2011. (XI. 24.) OGY határozat 1. pontjával megállapított szöveg.
+[^139]: A 63/2011. (IX. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^140]: A 127/2010. (XII. 22.) OGY határozat 1. pontjával megállapított szöveg.
