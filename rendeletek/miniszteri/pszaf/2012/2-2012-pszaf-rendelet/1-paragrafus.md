@@ -1,0 +1,7 @@
+1. § (1) A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 5. § (1) bekezdése szerinti hitelintézet, valamint az Európai Unió másik tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező hitelintézet magyarországi fióktelepe (a továbbiakban: fióktelep) (a továbbiakban együtt: adatszolgáltató) az e rendeletben foglaltak szerint adatszolgáltatást készít a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) számára az általuk forgalmazott számlatermékekről (a továbbiakban: adatszolgáltatás), melyet az e rendeletben meghatározott határidőn belül, a Felügyelet Elektronikus Rendszere hitelesített Adatok fogadásához (a továbbiakban: ERA) rendszerének termékbejelentő felületén keresztül küld meg a Felügyelet részére.
+
+(2) A rendelet vonatkozásában számlatermék a fogyasztók részére vezetett, forintban nyilvántartott bankszámla és számlacsomag, valamint a kapcsolódó szolgáltatások.
+
+(3) A hitelintézet a Felügyelet által kiadott tevékenységi engedélyről szóló határozat jogerőre emelkedésének napjától a felügyeleti engedély visszavonásáról szóló határozat jogerőre emelkedésének napjáig köteles az e rendelet szerinti adatszolgáltatás teljesítésére.
+
+(4) A fióktelep működése megkezdésének napjától tevékenysége befejezésének napjáig köteles az e rendelet szerinti adatszolgáltatás teljesítésére.
