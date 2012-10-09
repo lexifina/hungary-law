@@ -2,7 +2,7 @@
 
 ## 2. jóváhagyja az 1. pontban szereplő prioritások vonatkozásában a 2007–2008. közötti időszakra és a 2009–2010. közötti időszakra szóló akciótervek végrehajtása során keletkezett maradványok áttervezését a 2011–2013. közötti időszakra szóló akciótervbe.
 
-## 3. visszavonja a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akciótervének és a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akciótevének módosításáról szóló 1453/2011. (XII. 22.) Korm. határozat 2. pontját, és 2. mellékletét.
+## 3.[^1]
 
 1. melléklet az 1429/2012. (X. 8.) Korm. határozathoz
 
@@ -205,3 +205,5 @@
 | Lakhatási beruházások támogatása a Komplex telepprogramhoz kapcsolódóan | 0,00 | 2,00 | A szegregátumokban élők lakhatási körülményeinek javítása – új szociális bérlakások építésével, illetve a nem szegregált lakókörnyezetben lévő lakások felújításával. | Emberi Erőforrások Miniszter |  |  |
 
 | A közszolgáltatásokhoz való egyenlő esélyű hozzáférés megteremtése: akadálymentesítés | 0,00 | 4,00 | A fogyatékos emberek, továbbá az időskorú, járókerettel, babakocsival közlekedő, nagycsaládos, mozgásukban vagy kommunikációjukban egyéb okból átmenetileg akadályozott személyek életminőségének javítása a közszolgáltatásokhoz való egyenlő esélyű hozzáférés megvalósítása útján. A kormányzati felelősségi körbe tartozó épületek komplex akadálymentesítése, és az abban nyújtott közszolgáltatások egyenlő esélyű hozzáférhetővé tétele. | Emberi Erőforrások Miniszter |  |  |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
