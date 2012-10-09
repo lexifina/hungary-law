@@ -1,8 +1,8 @@
-10/C. §[^79] (1) A szállító-előminősítésért a forgalomba hozó igazgatási szolgáltatási díjat fizet, melynek összege 200 000 forint.
+10/C. §[^83] (1) A szállító-előminősítésért a forgalomba hozó igazgatási szolgáltatási díjat fizet, melynek összege 200 000 forint.
 
 (2) A szállító-előminősítési díj az OEP bevétele. A díj a kérelem visszavonása esetén, a felmerült költségek levonásával visszaigényelhető.
 
-(3)[^80]
+(3)[^84]
 
-[^79]: A 10/C. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.
-[^80]: A 10/C. § (3) bekezdését a 4/2010. (VIII. 12.) NEFMI rendelet 5. § c) pontja hatályon kívül helyezte.
+[^83]: A 10/C. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.
+[^84]: A 10/C. § (3) bekezdését a 4/2010. (VIII. 12.) NEFMI rendelet 5. § c) pontja hatályon kívül helyezte.

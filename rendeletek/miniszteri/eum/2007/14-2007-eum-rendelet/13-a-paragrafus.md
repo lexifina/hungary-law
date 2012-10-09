@@ -1,4 +1,4 @@
-13/A. §[^108] (1) Azon gyógyászati segédeszközök esetében, amelyeknél a 10. számú melléklet feltételként előírja az ellenőrző főorvos ellenjegyzését (a továbbiakban: ellenjegyzéshez kötött eszköz), a 13. §-ban foglaltakon túl a vény érvényességének feltétele, hogy azon szerepeljen a (7) bekezdésben foglaltak szerinti egészségbiztosítói ellenjegyzés (a továbbiakban: ellenjegyzés).
+13/A. §[^114] (1) Azon gyógyászati segédeszközök esetében, amelyeknél a 10. számú melléklet feltételként előírja az ellenőrző főorvos ellenjegyzését (a továbbiakban: ellenjegyzéshez kötött eszköz), a 13. §-ban foglaltakon túl a vény érvényességének feltétele, hogy azon szerepeljen a (7) bekezdésben foglaltak szerinti egészségbiztosítói ellenjegyzés (a továbbiakban: ellenjegyzés).
 
 (2) Az ellenjegyzéshez kötött eszközt rendelő orvos (a továbbiakban: eszközt rendelő orvos) az ellenjegyzés érdekében megküldi az OEP részére
 
@@ -34,4 +34,4 @@ d) az eszköz rendelése a hatályos jogszabályokban előírt feltételeknek me
 
 (10) Az ellenjegyzés elutasítása ellen a beteg, illetve az eszközt rendelő orvos kifogással élhet. A kifogást az ellenjegyzés elutasításának kézhezvételétől számított 15 napon belül lehet benyújtani az OEP-hez. A kifogás tárgyában nem járhat el az OEP-nek ugyanaz a szervezeti egysége és ugyanaz a személy, aki az ellenjegyzés elutasítását eredményező eljárásban eljárt. A kifogást a kézhezvételtől számított 30 napon belül kell elbírálni.
 
-[^108]: A 13/A. §-t a 74/2011. (XII. 29.) NEFMI rendelet 2. §-a iktatta be.
+[^114]: A 13/A. §-t a 74/2011. (XII. 29.) NEFMI rendelet 2. §-a iktatta be.
