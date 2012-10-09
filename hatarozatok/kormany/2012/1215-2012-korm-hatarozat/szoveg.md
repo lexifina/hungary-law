@@ -14,34 +14,6 @@ nemzeti fejlesztési miniszter
 
 Határidő: 2012. június 30.
 
-3. elrendeli a közszféra szervezet kedvezményezettek önerejének finanszírozása érdekében 50 milliárd forint visszatérítendő forrás biztosítását 2012. évre;
+3–4.[^2]
 
-Felelős: nemzetgazdasági miniszter
-
-nemzeti fejlesztési miniszter
-
-Határidő: 2012. augusztus 15.
-
-4. elrendeli a közszféra szervezet kedvezményezettek önerejének finanszírozása érdekében a 3. pont alapján biztosított forrásra vonatkozó szabályok kialakítását az alábbiak szerint:
-
-a) közszféra szervezet kedvezményezett igényelheti,
-
-b) a forrás igénybevételét kamatköltség nem terheli,
-
-c) a támogatás kialakítása a versenyjogi szabályok figyelembevételével történik,
-
-d) előirányzat-felhasználási rendelet és szabályok kialakításával,
-
-e) európai regionális fejlesztési alap és kohéziós alap támogatása esetén alkalmazható,
-
-f) biztosítékként a beruházás (a fejlesztés) célja/tárgya szolgál,
-
-g) nem teljesülés esetén az állam a kockázatvállalás arányában tulajdonjogot nyer az elkészült vagyontárgyra,
-
-h) a forrásról odaítéléséről a nemzeti fejlesztési miniszter dönt,
-
-i) a visszatérítendő forrást az NFÜ kezeli.
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2012. augusztus 31.
+[^2]: A 3–4. pontot az 1433/2012. (X. 9.) Korm. határozat 2. pontja visszavonta.
