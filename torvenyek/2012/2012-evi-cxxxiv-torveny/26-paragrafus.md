@@ -1,0 +1,1 @@
+26. § Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a vámhatóság által lefolytatott eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét, valamint a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.

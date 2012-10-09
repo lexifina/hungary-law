@@ -1,0 +1,3 @@
+19. § (1) A vámhatóság a dohánytermék-kiskereskedelmi tevékenység folytatásának engedélyezése iránti kérelem elbírálásáról, a kérelemnek a vámhatósághoz történt beérkezésétől számított 30 napon belül dönt. E törvény hatálya alá tartozó hatósági engedélyezési, ellenőrzési és bírságolási eljárások megindítása az ügyfél erről szóló értesítésének mellőzésével történik. A határozott időtartamra szóló engedély lejárati időpontja előtt ugyanarra a tevékenységre vonatkozó új engedélykérelem legkorábban az engedély lejárata előtt 100 nappal nyújtható be.
+
+(2) A vámhatóság a törvényben felsorolt feladatai ellátása érdekében jogosult a dohánytermék-kiskereskedelmi tevékenységet folytató személyes adatainak kezelésére és feldolgozására.
