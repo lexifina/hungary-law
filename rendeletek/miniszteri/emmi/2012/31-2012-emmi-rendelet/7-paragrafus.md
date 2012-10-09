@@ -1,0 +1,1 @@
+## „(3a) A 19. számú mellékletben meghatározott eszközcsoportokba tartozó gyógyászati segédeszközöket az orvos az eszköz megnevezése helyett a 10 jegyű ISO kódhoz tartozó eszközcsoport megnevezésével is rendelheti.”
