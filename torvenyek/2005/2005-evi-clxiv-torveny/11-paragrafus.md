@@ -1,1 +1,1 @@
-11. §
+11. § A 6. § (8) bekezdés hatálybalépése előtt kiadott, működési engedéllyel vagy igazolással rendelkező, a 6. § (8) bekezdés hatálya alá tartozó üzletek nyilvántartását a helyi önkormányzat haladéktalanul megküldi a területileg illetékes rendőrkapitányságnak a szakhatósági hozzájárulási eljárás lefolytatására. Amennyiben a rendőrség az üzlet ellenőrzése során vagy hivatalból megállapítja, hogy annak tevékenysége sérti a személy-, vagyon- és közbiztonságot, kezdeményezi a területileg illetékes jegyzőnél az üzlet 24 és 6 óra közötti zárva tartásának elrendelését.

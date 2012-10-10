@@ -48,6 +48,8 @@
 
 23. szálláshely-szolgáltatás: üzletszerű gazdasági tevékenység keretében rendszerint nem huzamos jellegű, éjszakai ott-tartózkodást, pihenést is magában foglaló tartózkodás céljára szálláshely nyújtása és az ezzel közvetlenül összefüggő szolgáltatások nyújtása;
 
+23a. szeszes ital: minden alkohol tartalmú ital, kivéve a gyógynövények gyógyászati jellegű szeszes kivonatát és az ezek felhasználásával készült terméket, továbbá az 1,2%-nál kevesebb alkoholtartalmú üdítőitalokat;
+
 24. tartós szálláshasználati szolgáltatási tevékenység: üzletszerű gazdasági tevékenység keretében éjszakai ott-tartózkodást, pihenést is magában foglaló tartózkodás céljára szolgáló szállás rendszeres időközönként ismétlődő, meghatározott, nem huzamos időtartamra történő használata jogának (üdülési jog) biztosítása;
 
 25. utazásszervezői tevékenység: üzletszerű gazdasági tevékenység keretében személyszállítási, szállás- és egyéb turisztikai szolgáltatások (így különösen étkezés, idegenvezetés, szórakoztató, illetve kulturális program) közül legalább kettőnek az együttesét tartalmazó szolgáltatás (a továbbiakban: utazási szolgáltatás) összeállítása és nyújtása;

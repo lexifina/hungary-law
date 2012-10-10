@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-164-00-00
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2005-164-00-00.11 |
 | 2012-01-01 | 2011. évi CXXXV. törvény | 2005-164-00-00.12 |
 | 2012-08-01 | 2012. évi LXXXIX. törvény | 2005-164-00-00.13 |
+| 2012-10-10 | 2012. évi CXLIII. törvény | 2005-164-00-00.14 |
