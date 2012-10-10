@@ -4,6 +4,6 @@ a) a viszonyítási év utolsó napján fennálló államadósság, illetve a vi
 
 b) az államháztartási, makrogazdasági folyamatok alapján a költségvetési év utolsó napján várható államadósság, illetve a költségvetési év bruttó hazai termék várható adata
 
-olyan irányban tér el a központi költségvetésről szóló törvényben meghatározott adatoktól, hogy az eltérés a költségvetési év utolsó napján számított államadósság-mutató a viszonyítási év utolsó napján fennálló államadósság-mutatóhoz képest a 4. § (1) bekezdése szerinti csökkenést veszélyeztetné.
+olyan irányban tér el a központi költségvetésről szóló törvényben meghatározott adatoktól, amely az államadósság-mutató növekedését eredményezné.
 
 (2) Ha a nemzetgazdaság az Alaptörvény 36. cikk (6) bekezdése szerinti tartós és jelentős visszaesése a költségvetési év során következik be, a központi költségvetésről szóló törvény módosítása a 4. § (1) bekezdése alapján a központi költségvetésről szóló törvényben meghatározott értékek teljesítési kötelezettségének felfüggesztésére irányul.

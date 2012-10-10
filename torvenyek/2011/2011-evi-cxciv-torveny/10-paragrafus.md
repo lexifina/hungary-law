@@ -47,3 +47,11 @@ d) egyéb adósságot keletkeztető ügylet esetén az ügyletet alátámasztó 
 (11) A (3) bekezdés szerint megállapítandó fizetési kötelezettség mértékébe nem számítandó bele a likvid hitelből, az európai uniós vagy nemzetközi szervezettől elnyert támogatás előfinanszírozásának biztosítására szolgáló adósságot keletkeztető ügyletből, a víziközmű-társulattól annak megszűnése miatt átvett hitelből, és az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelből származó fizetési kötelezettségek összege, de beleszámítandó a kezesség-, illetve garanciavállalásból eredő, jogosult által érvényesített fizetési kötelezettségek összege.
 
 (12) Az önkormányzat – az Európai Unió kötelező jogi aktusából következő vagy nemzetközi szervezet felé vállalt kötelezettségből eredő fejlesztést kivéve – nem indíthat új fejlesztést, ha adósságot keletkeztető ügyletéhez kapcsolódó tárgyévi összes fizetési kötelezettsége eléri vagy meghaladja a (3) bekezdés szerinti mértéket.
+
+(13) A megkötött adósságot keletkeztető ügyletekre vonatkozó szerződésmódosításokhoz a Kormány engedélyét kell kérni, ha
+
+a) a szerződésmódosítást követően előálló szerződési feltételek mellett kötött ügylet a szerződésmódosítás időpontjában engedélykötelesnek minősül, és
+
+b) a módosított szerződés az eredetihez képest hosszabb futamidejű, vagy nagyobb ügyletértékű, vagy az önkormányzatot terhelő fizetési kötelezettség az új futamidő lejártáig valamely évben meghaladja az eredeti szerződés szerinti értéket.
+
+(14) A szerződésmódosításra vonatkozó, a (13) bekezdés szerinti ügyletekre a (10) bekezdés szerinti ügyletekre vonatkozó szabályokat kell alkalmazni.

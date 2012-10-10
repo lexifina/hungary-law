@@ -1,6 +1,6 @@
 3. § (1) Adósságot keletkeztető ügylet és annak értéke:
 
-a) hitel, kölcsön felvétele, átvállalása a folyósítás napjától a végtörlesztés napjáig, és annak aktuális tőketartozása,
+a) hitel, kölcsön felvétele, átvállalása a folyósítás, átvállalás napjától a végtörlesztés napjáig, és annak aktuális tőketartozása,
 
 b) a számvitelről szóló törvény (a továbbiakban: Szt.) szerinti hitelviszonyt megtestesítő értékpapír forgalomba hozatala a forgalomba hozatal napjától a beváltás napjáig, kamatozó értékpapír esetén annak névértéke, egyéb értékpapír esetén annak vételára,
 
@@ -12,6 +12,6 @@ e) a visszavásárlási kötelezettség kikötésével megkötött adásvételi 
 
 f) a szerződésben kapott, legalább háromszázhatvanöt nap időtartamú halasztott fizetés, részletfizetés, és a még ki nem fizetett ellenérték,
 
-g) külföldi hitelintézetek által, származékos műveletek különbözeteként az Államadósság Kezelő Központ Zrt.-nél (a továbbiakban: ÁKK Zrt.) elhelyezett fedezeti betétek, és azok összege.
+g) hitelintézetek által, származékos műveletek különbözeteként az Államadósság Kezelő Központ Zrt.-nél (a továbbiakban: ÁKK Zrt.) elhelyezett fedezeti betétek, és azok összege.
 
-(2) Az (1) bekezdés szerinti adósságot keletkeztető ügyletként nem kell figyelembe venni a költségvetési év első hat hónapjában lejáró adósság előző költségvetési évben történő előfinanszírozását, amelynek összege nem haladja meg a költségvetési év első hat hónapja során várható törlesztések összegét. Az előfinanszírozás céljából adósságot keletkeztető ügyletből származó összeget egy elkülönített letéti számlán kell tárolni, és a keletkezés évében azt nem lehet elkölteni.
+(2) Az (1) bekezdés szerinti adósságot keletkeztető ügyletként nem kell figyelembe venni a költségvetési év első hat hónapjában lejáró adósság előző költségvetési évben történő előfinanszírozását, amelynek összege nem haladja meg a költségvetési év első hat hónapja során várható törlesztések összegét.

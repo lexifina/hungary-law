@@ -9,3 +9,5 @@
 (5) Ha a Tanács a költségvetési törvényjavaslat elfogadásához szükséges előzetes hozzájárulását nem adja meg, a költségvetési törvényjavaslat zárószavazását el kell halasztani. A költségvetési törvényjavaslat zárószavazásának elhalasztása esetén a Kormány olyan módosító javaslatot köteles benyújtani a költségvetési törvényjavaslathoz, amelynek eredményeként a költségvetési törvényjavaslat az államadósság-szabálynak megfelel. Ebben az eljárásban más módosító javaslat nem nyújtható be.
 
 (6) Az (1)–(5) bekezdésben foglalt eljárást azzal, hogy az így megismételt eljárásban kizárólag a Kormány jogosult módosító javaslatot benyújtani, mindaddig kell folytatni, amíg a Tanács a költségvetési törvényjavaslat elfogadásához szükséges előzetes hozzájárulását meg nem adja.
+
+(7) A (2)–(6) bekezdést megfelelően kell alkalmazni, ha külön törvény felhatalmazása alapján, a Kormány által benyújtott zárószavazás előtti módosító javaslat a költségvetési egyenleg mértékét és a központi költségvetésről szóló törvény fejezetei bevételi és kiadási főösszegeit érinti.
