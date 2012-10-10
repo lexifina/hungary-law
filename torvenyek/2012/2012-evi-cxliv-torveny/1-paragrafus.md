@@ -1,0 +1,3 @@
+1. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Szjtv.) preambuluma helyébe a következő rendelkezés lép:
+
+„Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával kapcsolatos feladatok meghatározása, a szerencsejátékok szervezése iránt jelentkező igények kielégítése, az engedély nélküli, illetve a jó erkölcsbe ütköző szerencsejátékok megelőzése, a szerencsejáték szervező tevékenység ellenőrzése, a pénznyerő automaták kizárólag játékkaszinókban történő üzemeltethetőségének lehetősége, valamint a szerencsejátékokból származó jövedelmek egy részének közcélra fordítása érdekében a következő törvényt alkotja:”
