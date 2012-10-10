@@ -6,7 +6,7 @@ nemzetgazdasági miniszter
 
 Határidő: azonnal
 
-2. Az uniós támogatású projektek finanszírozási helyzetének megoldásához szükséges feladatokról szóló 1215/2012. (VI. 26.) Korm. határozat 3. és 4. pontját visszavonja.
+2.[^2]
 
 Melléklet az 1433/2012. (X. 9.) Korm. határozathoz
 
@@ -89,3 +89,5 @@ Költségvetési év: 2012.
 | Magyar Államkincstár | 1 példány |  | egyéb AZONNAL | 30 000,0 |  |  |  | 30 000,0 |
 
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
