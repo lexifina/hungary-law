@@ -10,7 +10,7 @@ a) sorsolásos játék,
 
 b) nem sorsolásos játék,
 
-c) pénznyerő automata üzemeltetése,
+c)
 
 d) kaszinójáték,
 
@@ -18,9 +18,7 @@ e) fogadás,
 
 f) kártyajáték,
 
-g) helyhez kötött szerver alapú pénznyerő automata,
-
-h) nem helyhez kötött szerver alapú pénznyerő rendszer.
+g)–h)
 
 1. CÍM
 

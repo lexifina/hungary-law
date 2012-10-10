@@ -12,9 +12,9 @@ c) a játéktervvel,
 
 d) a sorsolásos játékokkal és a fogadásokkal,
 
-e) a pénznyerő automaták, helyhez kötött szerver alapú pénznyerő automaták, nem helyhez kötött szerver alapú pénznyerő rendszerek, játékautomaták, játéktermek, kártyatermek és játékkaszinók üzemeltetésével, a játéktermek szüneteltetésével, valamint
+e) a pénznyerő automaták, a játékautomaták, a kártyatermek és a játékkaszinók üzemeltetésével,
 
-f) a helyhez kötött szerver alapú pénznyerő automatákat és a nem helyhez kötött szerver alapú pénznyerő rendszereket üzemeltető központi szerver, működtetésének személyi, pénzügyi műszaki és informatikai feltételeivel, valamint a központi szerver működtetőjét megillető szolgáltatási díjjal,;
+f)
 
 g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért, illetve az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjakkal,
 
@@ -22,10 +22,10 @@ h) a szerencsejátékra vonatkozó koncessziós eljárással, így különösen 
 
 i) a távszerencsejátékok szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,
 
-kapcsolatos részletes szabályokat jogszabályban határozza meg.
+kapcsolatos részletes szabályokat rendeletben határozza meg.
 
-Felhatalmazást kap az agrárpolitikáért felelős miniszter a ló- és agárversenyzés szabályainak jogszabályban történő megállapítására.
+Felhatalmazást kap az agrárpolitikáért felelős miniszter a ló- és agárversenyzés szabályainak rendeletben történő megállapítására.
 
 (3)
 
-(4) Felhatalmazást kap a miniszter és a kereskedelemért felelős miniszter, hogy rendeletben határozza meg azon vendéglátóipari üzletek körét, amelyben II. kategóriájú játékterem működtetésére engedély adható.
+(4)

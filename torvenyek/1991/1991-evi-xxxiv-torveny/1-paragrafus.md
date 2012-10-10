@@ -1,20 +1,20 @@
 1. § (1) Szerencsejáték minden olyan játék, amelyben a játékos pénz fizetése, vagy vagyoni érték nyújtása fejében, meghatározott feltételek fennállása vagy bekövetkezése esetén pénznyereményre, vagy más vagyoni értékű nyereményre válik jogosulttá. A nyerés vagy a vesztés kizárólag, vagy túlnyomó részt a véletlentől függ.
 
-(2) E törvény alkalmazásában szerencsejátéknak minősül a fogadás, a pénznyerő automata, a helyhez kötött szerver alapú pénznyerő automata és a nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetése is. E törvényt kell alkalmazni – a törvényben külön szabályozott esetekben – a játékautomatára és az ajándéksorsolásra is.
+(2) E törvény alkalmazásában szerencsejátéknak minősül a fogadás is. E törvényt kell alkalmazni – a törvényben külön szabályozott esetekben – a játékautomatára és az ajándéksorsolásra is.
 
 (3) A koncesszióról szóló 1991. évi XVI. tv. (a továbbakban: Ktv) 1. § (1) bekezdésének i) pontjában meghatározott szerencsejátékok szervezésére irányuló tevékenységnek minősül
 
 a) sorsolásos játék szervezése,
 
-b) pénznyerő automaták üzemeltetése,
+b)
 
 c) szerencsejátékok lebonyolítására szervezet (a továbbiakban: játékkaszinó) alapítása, működtetése,
 
 d) kártyaterem üzemeltetése,
 
-e) helyhez kötött szerver alapú pénznyerő automata üzemeltetése,
+e)
 
-f) nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetése,
+f)
 
 g) a lóversenyfogadás és az a)–f) pontok alá nem tartozó, e törvényben meghatározott egyéb, szerencsejáték szervezésére irányuló tevékenység (a továbbiakban együtt: szerencsejáték szervező tevékenység).
 
@@ -30,14 +30,14 @@ b) erről és a szervező által tétfizetés érdekében megjelölt pénzforgal
 
 c)
 
-(5b) A nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetője, és a távszerencsejáték szervezője csak olyan – a magyar hatóságok által közvetlenül és teljes körűen ellenőrizhető – valós idejű fizetési módot alkalmazhat, illetve fogadhat el, amely során a befizető személyazonosságának megállapítása kétséget kizáró módon lehetséges, valamint szolgáltatást csak ilyen módón beazonosított és regisztrált játékosnak nyújthat.
+(5b) A távszerencsejáték szervezője csak olyan – a magyar hatóságok által közvetlenül és teljes körűen ellenőrizhető – valós idejű fizetési módot alkalmazhat, illetve fogadhat el, amely során a befizető személyazonosságának megállapítása kétséget kizáró módon lehetséges, valamint szolgáltatást csak ilyen módón beazonosított és regisztrált játékosnak nyújthat.
 
 (6) Szerencsejátékban – a 16. § szerinti nem folyamatosan szervezett sorsolásos játék kivételével – 18 éven aluli személyek nem vehetnek részt.
 
-(7) A kötelező hitelesítésű szerencsejáték eszközök – kivéve a helyhez kötött szerver alapú pénznyerő automaták és a nem helyhez kötött szerver alapú pénznyerő rendszerek központi szerverét, valamint az azon futó játékszoftverek – típusvizsgálatát és hitelesítését – a mérésügyi és a szerencsejáték eszközökre vonatkozó jogszabályok alapján – a mérésügyi szerv végzi.
+(7) A kötelező hitelesítésű szerencsejáték eszközök típusvizsgálatát és hitelesítését – a mérésügyi és a szerencsejáték eszközökre vonatkozó jogszabályok alapján – a mérésügyi szerv végzi.
 
 (7a)
 
 (7b)
 
-(8) A nyereményre jogosult játékos kérésére a szerencsejáték-szervező köteles a 2 millió forintot, illetve ennek megfelelő valutaösszeget meghaladó nyereményről annak jogcímét és forintértékét tanúsító igazolást adni. A valutaösszeg átváltása tekintetében a nyeremény kifizetésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell alkalmazni. A nyereményigazolásnak tartalmaznia kell a szerencsejáték-szervező és a játékos azonosító adatait, a nyerés és a nyeremény átvételének helyét és időpontját, a szerencsejáték-szervező által a nyereményből levont személyi jövedelemadó összegét, valamint pénznyerő automatából származó nyeremény esetén a pénznyerő automata gyártási számát és a mérésügyi szerv által adott azonosító számát. A nyereményigazolás az állami adóhatóság által rendszeresített és hitelesített bizonylaton, vagy az állami adóhatóság jóváhagyásával – amennyiben a szerencsejáték-szervező a játékos személyes adatai, valamint egyéb, személyhez fűződő jogai védelmét biztosítja – zárt számítástechnikai rendszeren keresztül is kiállítható. A szerencsejáték-szervező köteles valamennyi kérelmet a nyereményigazolás kiállításának általa választott módján egységesen teljesíteni.
+(8) A nyereményre jogosult játékos kérésére a szerencsejáték-szervező köteles a 2 millió forintot, illetve ennek megfelelő valutaösszeget meghaladó nyereményről annak jogcímét és forintértékét tanúsító igazolást adni. A valutaösszeg átváltása tekintetében a nyeremény kifizetésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell alkalmazni. A nyereményigazolásnak tartalmaznia kell a szerencsejáték-szervező és a játékos azonosító adatait, a nyerés és a nyeremény átvételének helyét és időpontját, a szerencsejáték-szervező által a nyereményből levont személyi jövedelemadó összegét. A nyereményigazolás az állami adóhatóság által rendszeresített és hitelesített bizonylaton, vagy az állami adóhatóság jóváhagyásával – amennyiben a szerencsejáték-szervező a játékos személyes adatai, valamint egyéb, személyhez fűződő jogai védelmét biztosítja – zárt számítástechnikai rendszeren keresztül is kiállítható. A szerencsejáték-szervező köteles valamennyi kérelmet a nyereményigazolás kiállításának általa választott módján egységesen teljesíteni.

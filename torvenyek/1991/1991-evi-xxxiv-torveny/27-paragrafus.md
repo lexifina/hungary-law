@@ -18,7 +18,7 @@ b) az a) pontban foglalt kivétellel I. kategóriájú játékkaszinó esetében
 
 (8) A miniszter a játékkaszinónak a játékban érdemi feladatot ellátó alkalmazottai (a továbbiakban: a játékkaszinó alkalmazottai) összetételére, a képesítés feltételeire, az egyes játékok játékszabályaira, a látogatás feltételeire, a játékkaszinó biztonságának, valamint pénzkezelésének ellenőrzésére külön szabályokat állapít meg.
 
-(9) A szerencsejáték-szervezők közül kizárólag – az e törvényben előírtaknak megfelelően – a játékkaszinó üzemeltetésére szóló koncessziós joggal rendelkező szerencsejáték-szervező, illetve koncessziós társaság és állami játékszervező jogosult a kereskedelmi kommunikációjában a kaszinó elnevezést, e fogalom összetételeit, jelzős alakját, továbbá rokon értelmű vagy idegen nyelvű megfelelőjét szerepeltetni. Az állami adóhatóság által elektronikus kaszinóként engedélyezett, I. kategóriába sorolt játéktermet üzemeltető szervező jogosult a kereskedelmi kommunikációjában az „elektronikus kaszinó” elnevezést, „e-kaszinó” rövidítést és jelzős alakját, valamint idegen nyelvű megfelelőjét szerepeltetni. E korlátozás nem vonatkozik a szerencsejáték-szervezők szakmai és érdek-képviseleti szervezeteire.
+(9) A szerencsejáték-szervezők közül kizárólag – az e törvényben előírtaknak megfelelően – a játékkaszinó üzemeltetésére szóló koncessziós joggal rendelkező szerencsejáték-szervező, illetve koncessziós társaság és állami játékszervező jogosult a kereskedelmi kommunikációjában a kaszinó elnevezést, e fogalom összetételeit, jelzős alakját, továbbá rokon értelmű vagy idegen nyelvű megfelelőjét szerepeltetni. E korlátozás nem vonatkozik a szerencsejáték-szervezők szakmai és érdek-képviseleti szervezeteire.
 
 (10)
 

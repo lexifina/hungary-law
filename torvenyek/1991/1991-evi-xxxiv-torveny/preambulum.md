@@ -1,4 +1,4 @@
-Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával kapcsolatos feladatok meghatározása, a szerencsejátékok szervezése iránt jelentkező igények kielégítése, az engedély nélküli, illetőleg a jó erkölcsbe ütköző szerencsejátékok megelőzése, a szerencsejáték szervező tevékenység ellenőrzése, valamint a szerencsejátékokból származó jövedelmek egy részének közcélra fordítása érdekében a következő törvényt alkotja:
+Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával kapcsolatos feladatok meghatározása, a szerencsejátékok szervezése iránt jelentkező igények kielégítése, az engedély nélküli, illetve a jó erkölcsbe ütköző szerencsejátékok megelőzése, a szerencsejáték szervező tevékenység ellenőrzése, a pénznyerő automaták kizárólag játékkaszinókban történő üzemeltethetőségének lehetősége, valamint a szerencsejátékokból származó jövedelmek egy részének közcélra fordítása érdekében a következő törvényt alkotja:
 
 ## ÁLTALÁNOS RENDELKEZÉSEK
 

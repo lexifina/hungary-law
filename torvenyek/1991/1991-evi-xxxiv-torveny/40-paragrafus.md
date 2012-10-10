@@ -2,10 +2,10 @@
 
 (2) A 2011. december 31-én távszerencsejátéknak minősülő szerencsejáték szervezésére engedéllyel rendelkező szervező tevékenységét a részére kiadott engedély érvényességéig a korábbi jogszabályi feltételek és játékterv alapján végezheti.
 
-(3) E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított Szjtv. 26. § (1a) bekezdését, 26. § (22), (23) és (24) bekezdését, 38. § (2) bekezdés f) pontját a 2011. október 31. napját követően indult eljárásokban kell alkalmazni. Az I. kategóriába tartozó játékteremben és a II. kategóriába tartozó játékteremben pénznyerő automata üzemeltetésére 2011. november 1. napja előtt indult eljárásban kiadott engedélyek az Szjtv. 2011. december 31. napján hatályos rendelkezései szerint és az engedélyben foglalt időtartamban, de legfeljebb 2012. december 31. napjáig érvényesek és ezen engedélyek alapján a pénznyerő automaták az engedélyben foglaltak szerint üzemeltethetők.
+(3)
 
 (4) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 33. § (2) bekezdését és 33. § (6) bekezdés a) pont ab) alpontját 2012. január 1-jétől és első alkalommal 2012. január-március tárgynegyedévre kell alkalmazni.
 
 (5) E törvénynek a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 33. § (2) bekezdésének rendelkezéseit 2012. január 1-től és első alkalommal 2012. január–március tárgynegyedévre kell alkalmazni.
 
-(6) E törvénynek az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel megállapított 13/A. § (3), (3a), (3b) és (3c) bekezdéseit az e rendelkezés hatálybalépését követően indult központi szerverüzemeltetés engedélyezése iránti eljárásokban alkalmazni kell.
+(6)

@@ -10,7 +10,7 @@
 
 2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyhónapban befizetett tétek és kifizetett nyeremények különbözete, kivéve, ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező/az engedély birtokosa által felszámított díjak és/vagy azokkal egy tekintet alá eső jutalékok képezik.
 
-2.2. Tárgynegyedévi tiszta játékbevétel: a tárgynegyedévben befizetett tétek és a kifizetett nyeremények – ideértve a jackpot nyereményt is – különbözete.
+2.2. Tárgynegyedévi tiszta játékbevétel: a tárgynegyedévben befizetett tétek és a kifizetett nyeremények különbözete.
 
 3. Bukmékeri rendszerű fogadás: olyan fogadási forma, amelyben a fogadásszervező a fogadási ajánlatában meghatározott fogadási esemény bekövetkezésére, kimenetelére a fogadó játékos részére – nyereményszorzó alapján – pénzösszeget ajánl fel, és azt nyerés esetén a megállapodásban rögzítettek szerint fizeti ki.
 
@@ -50,9 +50,9 @@ b) a 16. §-ban és — a 12. § tekintetében — a 23. §-ban meghatározott t
 
 19. Lóversenyfogadás: agár- és lóversenyre történő totalizatőri és bukmékeri rendszerű fogadás.
 
-20. Jackpot rendszer: olyan rendszer, amely a játékos felé megjeleníti a tétként eljátszott összeg előre meghatározott hányadával növelt halmozott nyereményígéretet, és amennyiben a nyereményígéret az előre meghatározott alsó és felső határok között véletlenszerűen beállított értéket elérte, valamennyi, az adott játékteremben éppen játékban lévő – a rendszer részét képező – pénznyerő automata között véletlenszerű sorsolással nyereményt fizet ki.
+20.
 
-21. Szerencsejáték ügy: a szerencsejáték-szervezés hatósági felügyeletének ellátása során lefolytatott hatósági engedélyezési, nyilvántartásba vételi, ellenőrzési és jogkövetkezmények megállapítására irányuló eljárás, valamint a központi szerver üzemeltetés hatósági felügyeletének ellátása során ellenőrzési és bírság kiszabása iránti eljárás.
+21. Szerencsejáték ügy: a szerencsejáték-szervezés hatósági felügyeletének ellátása során lefolytatott hatósági engedélyezési, nyilvántartásba vételi, ellenőrzési és jogkövetkezmények megállapítására irányuló eljárás.
 
 22. Kártyajáték: kizárólag a jelenlévők részvételével szervezett, kártyával lebonyolított szerencsejáték.
 

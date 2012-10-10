@@ -24,9 +24,9 @@ d) a szerencsejáték-szervező az állammal szembeni kötelezettségét súlyos
 
 e) 5 000 000 forintot meghaladó összegű játékadóra, vagy ismételten nem teljesíti a játékadó bevallásával, vagy megfizetésével kapcsolatos kötelezettségét.
 
-Az eltiltás pénznyerő automaták és kártyaterem üzemeltetése esetén meghatározott játékteremben, illetve kártyateremben folytatott szerencsejáték-szervezői tevékenységre vonatkozóan is alkalmazható.
+(2a) Az eltiltás pénznyerő automaták és kártyaterem üzemeltetése esetén meghatározott játékkaszinóban, illetve kártyateremben folytatott szerencsejáték-szervezői tevékenységre vonatkozóan is alkalmazható.
 
-(3) Az állami adóhatóság a játékkaszinó, az elektronikus kaszinó és a kártyaterem működtetőjével szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén e §-ban meghatározott intézkedést alkalmazhat.
+(3) Az állami adóhatóság a játékkaszinó és a kártyaterem működtetőjével szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén az e §-ban meghatározott intézkedést alkalmazhat.
 
 (4) Ha a szerencsejáték szervező a működését az engedély megadásától számított hat hónapon belül nem kezdi meg, továbbá ha azt engedély nélkül szünetelteti, az engedély visszavonható.
 
