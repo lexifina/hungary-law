@@ -1,0 +1,87 @@
+## 3. § A Megállapodás hiteles szövege és annak hivatalos fordítása a következő:
+
+## Az Orosz Fél által küldött jegyzék hiteles szövege a következő:
+
+| „ |  |  |
+
+## Министерство иностранных дел Российской Федерации свидельствует свое уважeние Посолству Венгрии в Российской Федерации и имеет честь от имени Правительства Российской Федерации предложить внести следующие изменения в Соглашение между Правительством Российской Федерации и Правительством Венгерской Республики о сотрудничестве при создании газопровода для транзита природного газа через территорию Венгерской Республики от 28 февраля 2008 г. (далее - Соглашение 2008 г.)
+
+## а) в абзаце шестом статьи 1 слова «Венгерский Банк Развития» заменить на «Венгерские энергетические системы»;
+
+## б) в абзаце втором статьи 13 слова «Министерство промышленности и энергетики Российской Федерации» заменить на «Министерство энергетики Российской Федерации»;
+
+## в) в абзаце третьем статьи 13 слова «Министерство экономики и транспорта Венгерской Республики» заменить на «Министерство национального развития Венгрии».
+
+## ПОСОЛЬСТВУ ВЕНГРИИ В
+
+## РОССИЙСКОЙ ФЕДЕРАЦИИ
+
+## г. Москва
+
+## С даты получения отвестной ноты Венгерской Стороны на настоящую ноту правопреемником закрытого акционерного общества «Венгерский Банк Развития» в отношении его прав и обязательств, предусмотренных Соглашeнием 2008. г., станoвится закрытое акционерное общество «Венгерские энергетические системы».
+
+## В случае согласия Венгерской Стороны с изложенным в соответствии с пунктом 3 статьи 16 Соглашения 2008 г. настоящая нота и отвестная нота Посольства Венгрии и Российской Федерации составят Соглашение о внесении изменeний в Соглашение между Правительством Российской Федерации и Правительством Венгерской Республики о сотрудничестве при создании газoпровода для транзита природного газа через территорию Венгерской Республики от 28 февраля 2008 г., которое вступает в цилу с даты получения ответной ноты Венгерской Стороны.
+
+## Министерство иностранных дел Российской Федерации пользуется случаем, чтобы возобновить Посольству Венгрии уверения в своем высоком убажении.
+
+## Москва, «7» августа 2012 года”
+
+## Az Orosz Fél által küldött jegyzék hivatalos magyar nyelvű fordítása a következő:
+
+## „No 9180/3ed
+
+## Az Oroszországi Föderáció Külügyminisztériuma tiszteletét fejezi ki Magyarország Oroszországi Föderációban akkreditált Nagykövetségének és az Oroszországi Föderáció Kormánya nevében van szerencséje az Oroszországi Föderáció Kormánya és a Magyar Köztársaság Kormánya között a földgáz Magyar Köztársaság területén történő tranzitszállítását szolgáló gázvezeték megépítésével kapcsolatos együttműködésről szóló, 2008. február 28-án aláírt megállapodásban (a továbbiakban – 2008. évi Megállapodás) a következő módosításokat javasolni:
+
+## a) az 1. Cikk hatodik bekezdésében a „Magyar Fejlesztési Bank” szövegrészt „Magyar Villamos Művek” elnevezésre cserélni;
+
+## b) a 13. Cikk második bekezdésében „az Oroszországi Föderáció Ipari és Energetikai Minisztériuma” szövegrészt „az Oroszországi Föderáció Energetikai Minisztériuma” elnevezésre cserélni;
+
+## c) a 13. Cikk harmadik bekezdésében „a Magyar Köztársaság Gazdasági és Közlekedési Minisztériuma” szövegrészt „Magyarország Nemzeti Fejlesztési Minisztériuma” elnevezésre cserélni.
+
+## A jelen jegyzékre beérkező magyar válaszjegyzék dátumának napjától a „Magyar Fejlesztési Bank” Zrt. jogutódja, a 2008. évi Megállapodásban foglalt jogok és kötelezettségek tekintetében a „Magyar Villamos Művek” Zrt. lesz.
+
+## A Magyar Fél fentiekben megfogalmazottakkal való egyetértése esetén, a 2008. évi Megállapodás 16. Cikk 3. pontjával összhangban, jelen jegyzék és a Magyarország Oroszországi Föderációban akkreditált Nagykövetségének válaszjegyzéke Megállapodást képeznek az Oroszországi Föderáció Kormánya és a Magyar Köztársaság Kormánya között a földgáz Magyar Köztársaság területén történő tranzitszállítását szolgáló gázvezeték megépítésével kapcsolatos együttműködésről szóló, 2008. február 28-án aláírt megállapodás módosításáról, amely a Magyar Fél válaszjegyzékének kézhezvételétől lép életbe.
+
+## A Külügyminisztérium megragadja az alkalmat, hogy ismételten őszinte nagyrabecsüléséről biztosítsa a Nagykövetséget.
+
+## Moszkva, 2012. augusztus „7.”
+
+## Magyarország Nagykövetsége
+
+## az Oroszországi Föderációban
+
+## Moszkva”
+
+## A Magyar Fél az Orosz Fél azonos tartalmú jegyzékére megküldött válaszjegyzékének hiteles magyar és orosz nyelvű szövege a következő:
+
+## „Magyarország Oroszországi Föderációban akkreditált Nagykövetsége tiszteletét fejezi ki az Oroszországi Föderáció Külügyminisztériumának és van szerencséje az Orosz Felet tájékoztatni arról, hogy a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a földgáz Magyar Köztársaság területén történő tranzitszállítását szolgáló gázvezeték megépítésével kapcsolatos együttműködésről szóló, 2008. február 28-án aláírt megállapodásban (a továbbiakban – 2008. évi Megállapodás) az Orosz Fél által 2012. augusztus 7-én kelt No. 9180/3ed sz. jegyzékben javasolt módosításokkal egyetért a következők szerint:
+
+## a) az 1. Cikk hatodik bekezdésében a „Magyar Fejlesztési Bank” szövegrész „Magyar Villamos Művek” elnevezésre módosul;
+
+## b) a 13. Cikk második bekezdésében „a Magyar Köztársaság Gazdasági és Közlekedési Minisztériuma” szövegrész „Magyarország Nemzeti Fejlesztési Minisztériuma” elnevezésre módosul;
+
+## c) a 13. Cikk harmadik bekezdésében „az Oroszországi Föderáció Ipari és Energetikai Minisztériuma” szövegrész „az Oroszországi Föderáció Energetikai Minisztériuma” elnevezésre módosul.
+
+## Jelen jegyzék Orosz Fél általi kézhezvételének időpontjától a „Magyar Fejlesztési Bank” Zrt. jogutódja, a 2008. évi Megállapodásban foglalt jogok és kötelezettségek tekintetében a „Magyar Villamos Művek” Zrt. lesz.
+
+## A Magyar Fél egyetért azzal, hogy a 2008. évi Megállapodás 16. Cikk 3. pontjával összhangban az Oroszországi Föderáció Külügyminisztériumának 2012. augusztus 7-én kelt No. 9180/3ed sz. jegyzéke jelen válaszjegyzékkel Megállapodást képeznek a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a földgáz Magyar Köztársaság területén történő tranzitszállítását szolgáló gázvezeték megépítésével kapcsolatos együttműködésről szóló, 2008. február 28-án aláírt megállapodás módosításáról, amely a Magyar Fél jelen válaszjegyzékének kézhezvételének napján lép hatályba.
+
+## Magyarország Oroszországi Föderációban akkreditált Nagykövetsége megragadja az alkalmat, hogy ismételten tiszteletéről és legmélyebb nagyrabecsüléséről biztosítsa az Oroszországi Föderáció Külügyminisztériumát.”
+
+## „Посольство Венгрии в Российской Федерации свидетельствует свое уважение Министерству иностранных дел Российской Федерации и имеет честь проинформировать Российскую Сторону о том, что Посольство согласно с предложениями, которые были изложены в нотe от 7 авryста 2012 г. для внесения в Соглашение между Правитeсльством Венгерской Республики и Правитeсльством Российской Федерации о сотрудничестве при создании газопровода для транзита природного газа через тeрриторию Венгерской Республики от 28 февраля 2008 года (далее Соглашение 2008 г.) в следующем виде:
+
+## а) в абзаце шестом статьи 1 слова «Венгерский Банк Развития» заменить на «Венгерские энергетические систeмы»;
+
+## 6) в абзаце втором статьи 13 слова «Министсрство экономики и транспорта Венгерской Республики» заменить на «Министeрство национального развития Венгрин»;
+
+## в) в абзаце третьем статьи 13 слова «Министерство промышленности и энергетики Российской Федерации» заменить на «Министeрство энергетики Российской Федерации».
+
+## С даты получения настоящей ноты Российской Стороной правопреемником Закрытого акционерного общества «Венгерский Банк Развития» в отношении его прав и обязательств, предусмотренных Соглашением 2008 г., становится Закрытое акционерное общество «Венгерские энергетические системы».
+
+## Венгерская Сторона выражает согласие с тем, что в соответствии с пунктом 3 статьи 16 Соглашения 2008 г. нота Министерства иностранных дел Российской Федерации от 7 авryста 2012 г. и настоящая ответная нота составят Соглашение о внесении изменений в Соглашение между Правитeльством Венгерской Республики и Правительством Российской Федерации о сотрудничестве при создании газопровода для транзита природного газа через тeрриторию Венгерской Республики от 28 февраля 2008 г., которое вступает в силу с даты получения настоящей ответной ноты Венгерской Стороны.
+
+## Посольство Венгрии в Российской Федерации пользуется случаем, чтобы возобновить Министeрству иностранных дел Российской Федерации уверения в своем высоком уважении.”
+
+4. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet végrehajtásához szükséges intézkedésekről az energiapolitikáért felelős miniszter, valamint a külpolitikáért felelős miniszter gondoskodik.
