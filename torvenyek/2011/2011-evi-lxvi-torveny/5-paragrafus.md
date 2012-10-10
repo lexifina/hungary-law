@@ -37,3 +37,5 @@ c) az egyházak részére, továbbá az általuk fenntartott, illetve működtet
 d) a nemzetbiztonsági szolgálatok speciális működési költségkeret felhasználására vonatkozó adatait.
 
 (12) Törvény az Állami Számvevőszék ellenőrzését szabályszerűségi szempontok vizsgálatára korlátozhatja.
+
+(13) Az Állami Számvevőszék feladatkörében elemzéseket és tanulmányokat készíthet. Az Állami Számvevőszék az elnök 13. § (2) bekezdés l) pontjában foglalt feladataihoz kapcsolódóan elemzéseket és tanulmányokat készít, ezek rendelkezésre bocsátásával segíti a Költségvetési Tanácsot feladatai ellátásában.
