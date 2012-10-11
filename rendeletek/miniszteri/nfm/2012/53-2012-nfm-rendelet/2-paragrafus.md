@@ -1,0 +1,3 @@
+## 1. § A vasúti igazgatási szerv részére fizetendő felügyeleti díj megfizetésének módjáról és feltételeiről szóló 10/2008. (VI. 30.) KHEM rendelet (a továbbiakban: R.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az a vasúti társaság, amely a tárgyévet megelőző évben nem fizetett hálózat-hozzáférési díjat, először arra a negyedévre vonatkozóan fizet felügyeleti díjat, amelyben hálózat-hozzáférési díjfizetési kötelezettsége keletkezett. Ebben az esetben a fizetendő felügyeleti díj kiszámítása a tárgyidőszakban – az (1) bekezdésben meghatározott időpontokat megelőző három hónapban – fizetett hálózat-hozzáférési díj összege alapján történik.”
