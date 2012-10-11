@@ -1,10 +1,8 @@
-## kell megfelelően alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon e rendelet tekintetében díjat kell érteni.
-
 3. § (1) Ez a rendelet 2008. július 1-jén lép hatályba, rendelkezéseit a hatálybalépését követően kezdeményezett eljárásokra kell alkalmazni.
 
-(2)[^1]
+(2)[^3]
 
-Melléklet a 9/2008. (VI. 30.) KHEM rendelethez
+Melléklet a 9/2008. (VI. 30.) KHEM rendelethez[^4]
 
 A vasúti igazgatási szerv eljárásaival összefüggő díjak
 
@@ -50,13 +48,13 @@ A vasúti igazgatási szerv eljárásaival összefüggő díjak
 
 | 5. c) saját célú, árutovábbítási | 38 000 |
 
-| b) 1. működési engedély módosítási díja az engedély kiadásának 50%-a |  |
-
-| (ideértve: ideiglenes működési engedély átminősítése működési engedéllyé, felfüggesztett működési engedély visszaminősítése, tevékenységkezdés határidejének meghosszabbítása, egyesülés esetén elrendelt felülvizsgálat miatt szükséges módosítás) |  |
+| b) működési engedély módosítási díja az engedély kiadásának 50%-a, melyen felül ide kell érteni az ideiglenes működési engedély átminősítése működési engedéllyé, felfüggesztett működési engedély visszaminősítése, egyesülés esetén elrendelt felülvizsgálat miatt szükséges módosítás |  |
 
 | c) 2. működési engedély módosítása a nyílt hozzáférés alóli mentesítés vagy visszavonása tekintetében | 227 000 |
 
 | d) működési engedély 5 évenkénti kötelező felülvizsgálatának díja az engedély kiadásával megegyezik |  |
+
+| e) a turistavasút, a sífelvonó és a saját célú vasúti pályahálózaton végzett vasúti tevékenység bejelentése | 20 000 |
 
 | 2. Jogvitás eljárások a nyílt hozzáférésre jogosult szervezet vagy az integrált vasúti társaság kérelmére |
 
@@ -76,18 +74,19 @@ A vasúti igazgatási szerv eljárásaival összefüggő díjak
 
 | h) a menetvonal igénybevételéért fizetendő hálózat-hozzáférési díj mértékének jogszabálysértő, illetve a Hálózati Üzletszabályzatba ütköző megállapítása miatt indított eljárás | 227 000 |
 
-| 3. Üzletszabályzatok (személyszállítási, árufuvarozási, vontatási) és módosításaik jóváhagyása |
+| 3. Üzletszabályzatok (személyszállítási, árufuvarozási) és módosításaik jóváhagyása |
 
-| a) szabványoldalanként | 3 000 |
+| a) alapdíj 20 szabványoldalig | 69 000 |
 
-| b) minimum díj | 69 000 |
-
-| c) mintaszabályzat alapján készített térségi üzletszabályzat | 15 000 |
-
-| d) mintaszabályzat alapján készített sífelvonó üzletszabályzat | 15 000 |
+| b) további szabványoldalanként | 3 000 |
 
 | 4. Keretmegállapodások jóváhagyása | 2 271 000 |
 
 | 5. Integrált vasúti társaság belső megállapodásának jóváhagyása | 2 271 000 |
 
-[^1]: A 3. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+| 6. Személyszállítási szolgáltatás fő céljának vizsgálata | 51 000 |
+
+| 7. Gazdasági egyensúly veszélyeztetettségének vizsgálata | 358 000 |
+
+[^3]: A 3. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^4]: A melléklet az 52/2012. (IX. 11.) NFM rendelet 2. §-a szerint módosított szöveg.
