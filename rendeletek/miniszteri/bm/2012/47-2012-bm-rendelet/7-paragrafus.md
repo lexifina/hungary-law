@@ -1,0 +1,5 @@
+7. § (1) A rendőrség tagja a Kr.2. 34. §-ában meghatározott ellenőrzés során beléphet a nukleáris létesítmény és a radioaktívhulladék-tároló területére, valamint a nukleáris anyag, radioaktív sugárforrás alkalmazására és tárolására, továbbá a radioaktív hulladék feldolgozására és tárolására szolgáló helyiségbe. Betekinthet a nukleáris és radioaktív anyagok, valamint a radioaktív hulladékok nyilvántartásába, megtekintheti a be- és kiléptetésre vonatkozó belső előírásokat, az őrzés és védelem technikai eszközeit, illetve a személyi feltételek biztosítását.
+
+(2) A kötelezett tájékoztatni köteles a rendőrség ellenőrzést végző tagját az egészséget károsító veszélyekről, illetve szükség esetén köteles biztosítani a megfelelő védőfelszerelést az ellenőrzés végrehajtása érdekében.
+
+(3) Amennyiben az ellenőrzést végző személy szabálytalanságot vagy hiányosságot észlel, a helyszínen kezdeményezi a szabálytalanság, illetve a hiányosság megszüntetését, valamint az észlelt jogszabálysértésről haladéktalanul értesíti az engedélyező szervet.
