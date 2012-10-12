@@ -112,7 +112,7 @@
 
 | év, hó, nap | óra | perc |
 
-## 13. számú függelék[^76]
+## 13. számú függelék[^77]
 
 ## IGAZSÁGÜGYI ÉS RENDÉSZETI MINISZTÉRIUM
 
@@ -586,63 +586,13 @@ Függelék: statisztika
 
 aláírás
 
-17. számú függelék[^77]
+17. számú függelék[^78]
 
 A FEGYVERES BIZTONSÁGI ŐR SZOLGÁLATI IGAZOLVÁNYA
 
-Formai jellemzők:
+| A fegyveres biztonsági őr igazolványának felépítése, megjelenése: Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, zöld színű címsorban sötétzöld felirattal ellátott, holografikus biztonsági elemet tartalmazó, többrétegű műanyag kártyaigazolvány. Az igazolvány előoldalának adattartalma: – FBŐ címer, – a „FEGYVERES BIZTONSÁGI ŐRSÉG” felirat, – arckép, – név, beosztás, – a „SZOLGÁLATBAN FEGYVERVISELÉSRE ÉS INTÉZKEDÉSRE JOGOSULT” felirat. Az igazolvány hátoldalának adattartalma: – a „VISSZAVONÁSIG ÉRVÉNYES!” felirat, – „MUNKÁLTATÓ”, „KÓD”, „P.H.” felirat, aláírás, – „SORSZÁM” felirat (alatta az igazolvány sorszáma), – „RENDŐRHATÓSÁG”, „KÓD”, „P.H” felirat, aláírás, – a „KITÖLTÉS DÁTUMA” felirat. |
 
-Az igazolvány 85,6 X 53,98 mm méretű, fekvő formátumú, kétoldalas kártyaokmány.
-
-Nyomathordozó:
-
-Anyaga több rétegből álló laminált műanyag lap.
-
-Grafika:
-
-Alnyomat:
-
-Az okmány alnyomatrendszerét egy rózsaszín folyamatos vonalrendszer alkotja, mely az előoldalon egy sárga színű relief-védőraszterrel egészül ki.
-
-Ornamentika:
-
-Az igazolvány előoldalának alnyomati grafikája az FBŐ rozettába ágyazott — sárga és vörös színű szolgálati jelvényével, valamint egy a szövegnyomat színével egyező —, mikroírást tartalmazó guilloche-vonalrendszerrel egészül ki.
-
-Az igazolvány jobb felső sarkában egy hologram található, mely változó vonalvastagságú vonalakat és köröket ábrázol, melyek belsejében — különböző szögben elforgatva — MK, illetve H feliratok láthatók.
-
-Adattartalom:
-
-Előoldal:
-
-fekete-fehér fénykép
-
-munkáltató megnevezése
-
-név
-
-beosztás megnevezése
-
-I. FEGYVERES BIZTONSÁGI ŐRSÉG
-
-II. FEGYVERES BIZTONSÁGI ŐRSÉG
-
-SZOLGÁLATBAN FEGYVERVISELÉSRE
-
-ÉS INTÉZKEDÉSRE JOGOSULT
-
-Hátoldal:
-
-Munkáltató kódja aláírása és bélyegzője
-
-Rendőrhatóság kódja aláírása és bélyegzője
-
-Kitöltés dátuma
-
-Sorszám
-
-VISSZAVONÁSIG ÉRVÉNYES!
-
-17/a) függelék[^78]
+17/a) függelék[^79]
 
 18. számú függelék
 
@@ -656,6 +606,6 @@ A pajzs alján aranyszínű téglalap, mely szalagmintában folytatódik. A 22 X
 
 A szolgálati azonosító jelvény fekete bőralátéten rögzített, mely gombolásos kivitelű. A bőralátét 2 mm-rel szélesebb a fémjelvénynél, felül a gombolás céljára lyukasztott és hasított.
 
-[^76]: A melléklet 13. számú függeléke a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 20. pontja szerint módosított szöveg.
-[^77]: A melléklet 17. számú függeléke a 31/1998. (VII. 10.) BM rendelet 2. §-ával, valamint 1. számú függelékével megállapított szöveg.
-[^78]: A 17/a) függeléket a 31/1998. (VII. 10.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése.
+[^77]: A melléklet 13. számú függeléke a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 20. pontja szerint módosított szöveg.
+[^78]: A melléklet 17. számú függeléke az 50/2012. (X. 11.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^79]: A 17/a) függeléket a 31/1998. (VII. 10.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése.
