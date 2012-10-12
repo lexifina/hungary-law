@@ -32,13 +32,13 @@ a)[^20] hatóanyag alapú fix támogatási csoportba tartozó gyógyszerek eset�
 
 aa) preferált referencia ársávba tartozó gyógyszereket, valamint azon hatóanyag alapú fix csoportokban, amelyekben nem történt preferált referencia ársáv képzés, a referenciakészítményeket, valamint a referenciakészítmény napi terápiás költségével megegyező, valamint annál alacsonyabb napi terápiás költségű készítményeket, színkódolás esetén zöld színnel,
 
-ab) preferált referencia ársávba tartozó gyógyszerek esetén a referenciakészítmény napi terápiás költségénél több mint 5%-kal, de kevesebb, mint 10%-kal magasabb napi terápiás költségű gyógyszereket, valamint azon hatóanyag alapú fix csoportok esetén, amelyekben nem történt preferált referencia ársáv képzés, a referenciakészítmény napi terápiás költségénél kevesebb, mint 10%-kal magasabb napi terápiás költségű gyógyszereket, színkódolás esetén sárga színnel,
+ab)[^21] azokban a csoportokban, ahol történt preferált referencia ársáv képzés, a referenciakészítmény napi terápiás költségénél több, mint 10%-kal, de kevesebb, mint 20%-kal magasabb napi terápiás költségű gyógyszereket, valamint azon hatóanyag alapú fix csoportok esetén, amelyekben nem történt preferált referencia ársáv képzés, a referenciakészítmény napi terápiás költségénél kevesebb, mint 20%-kal magasabb napi terápiás költségű gyógyszereket, színkódolás esetén sárga színnel,
 
-ac) a referenciakészítmény napi terápiás költségénél 10%-kal, vagy több mint 10%-kal magasabb napi terápiás költségű készítményeket, színkódolás esetén piros színnel,
+ac)[^22] a referenciakészítmény napi terápiás költségénél 20%-kal, vagy több mint 20%-kal magasabb napi terápiás költségű készítményeket, színkódolás esetén piros színnel,
 
 ad) azon hatóanyag alapú fix csoportokba tartozó gyógyszereket, amelyek ára a preferált referencia ársáv kialakítását követően a preferált referencia ársáv feltételeinek megfelel, de a gyógyszer nem lett preferált, színkódolás esetén fehér színnel;
 
-b)[^21] a terápiás fix támogatási csoportba tartozó gyógyszerek esetén a gyógyszerek napi térítési díja alapján a legalacsonyabb napi térítési díjú terméktől a legmagasabb napi térítési díjú gyógyszerig emelkedő sorrendben kell rendezni a gyógyszereket, egyenlő napi térítési díjú készítményeket nevük betűrendjének növekvő sorrendjében kell rendezni, továbbá a preferált készítményeket megjelölni;
+b)[^23] a terápiás fix támogatási csoportba tartozó gyógyszerek esetén a gyógyszerek napi térítési díja alapján a legalacsonyabb napi térítési díjú terméktől a legmagasabb napi térítési díjú gyógyszerig emelkedő sorrendben kell rendezni a gyógyszereket, egyenlő napi térítési díjú készítményeket nevük betűrendjének növekvő sorrendjében kell rendezni, továbbá a preferált készítményeket megjelölni;
 
 c) „TT” jelzéssel kell ellátni valamennyi gyógyszert, mely törlésre került a gyógyszernyilvántartásból, de a Gyftv. 31. §-ának (2) bekezdése alapján történő delistázására még nem került sor;
 
@@ -62,13 +62,13 @@ ae) hatóanyagának nevét és ATC kódját,
 
 af) közfinanszírozás alapjául elfogadott árát, napi terápiás költségét,
 
-ag)[^22] közfinanszírozás alapjául elfogadott árához nyújtott társadalombiztosítási támogatásának mértékét, összegét, térítési díját támogatási jogcímenként,
+ag)[^24] közfinanszírozás alapjául elfogadott árához nyújtott társadalombiztosítási támogatásának mértékét, összegét, térítési díját támogatási jogcímenként,
 
 ah) a gyógyszerek osztályozására vonatkozó külön jogszabály szerinti speciális jelzést,
 
-ai)[^23] az OGYI által megállapított egyenértékűség e rendelet 2. számú melléklete szerinti kódját,
+ai)[^25] az OGYI által megállapított egyenértékűség e rendelet 2. számú melléklete szerinti kódját,
 
-aj)[^24] költséghatékonysági kategória e rendelet 2. számú melléklete szerinti kódját;
+aj)[^26] költséghatékonysági kategória e rendelet 2. számú melléklete szerinti kódját;
 
 b) jogcímenként „I” karaktert, ha a gyógyszer
 
@@ -90,11 +90,11 @@ cb) „2” jelölést, ha a gyógyszer közgyógyellátási keretre nem számol
 
 d) normatív, emelt és kiemelt támogatási kategóriába tartozó gyógyszer esetén a gyógyszert magába foglaló fix csoport azonosítóját jogcímenként,
 
-e)[^25] hogy az adott gyógyszer egy napi terápiára számolt támogatása a külön jogszabály szerinti célérték alá, vagy fölé esik,
+e)[^27] hogy az adott gyógyszer egy napi terápiára számolt támogatása a külön jogszabály szerinti célérték alá, vagy fölé esik,
 
-f)[^26] emelt és kiemelt támogatási kategóriába tartozó gyógyszer esetén az adott gyógyszerhez tartozó, a külön jogszabályban meghatározott indikációs pont (pontok) szövegét és az indikációs pontban (pontokban) szereplő BNO kódot (kódokat),
+f)[^28] emelt és kiemelt támogatási kategóriába tartozó gyógyszer esetén az adott gyógyszerhez tartozó, a külön jogszabályban meghatározott indikációs pont (pontok) szövegét és az indikációs pontban (pontokban) szereplő BNO kódot (kódokat),
 
-g)[^27] emelt és kiemelt támogatási kategóriába tartozó gyógyszer esetén
+g)[^29] emelt és kiemelt támogatási kategóriába tartozó gyógyszer esetén
 
 ga) a külön jogszabályban meghatározott indikációs pontban szereplő szakvizsga megnevezését,
 
@@ -114,10 +114,12 @@ gc) amennyiben az szakorvosi javaslatra rendelhető, úgy ennek tényét, valami
 [^18]: A 4. § (2) bekezdése a 46/2008. (XII. 3.) EüM rendelet 6. § (3) bekezdése szerint módosított szöveg.
 [^19]: A 4. § (3) bekezdése a 46/2008. (XII. 3.) EüM rendelet 6. § (3) bekezdése szerint módosított szöveg.
 [^20]: A 4. § (4) bekezdés a) pontja a 67/2011. (XII. 13.) NEFMI rendelet 7. §-ával megállapított szöveg.
-[^21]: A 4. § (4) bekezdés b) pontja a 67/2011. (XII. 13.) NEFMI rendelet 7. §-ával megállapított szöveg.
-[^22]: A 4. § (5) bekezdés a) pont ag) alpontja a 46/2008. (XII. 3.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^23]: A 4. § (5) bekezdés a) pont ai) alpontja a 46/2008. (XII. 3.) EüM rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^24]: A 4. § (5) bekezdés a) pont aj) alpontja a 46/2008. (XII. 3.) EüM rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^25]: A 4. § (5) bekezdés e) pontját a 46/2008. (XII. 3.) EüM rendelet 2. § (2) bekezdése iktatta be.
-[^26]: A 4. § (5) bekezdés f) pontját a 46/2008. (XII. 3.) EüM rendelet 2. § (2) bekezdése iktatta be.
-[^27]: A 4. § (5) bekezdés g) pontját a 46/2008. (XII. 3.) EüM rendelet 2. § (2) bekezdése iktatta be.
+[^21]: A 4. § (4) bekezdés a) pont ab) alpontja a 33/2012. (X. 11.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^22]: A 4. § (4) bekezdés a) pont ac) alpontja a 33/2012. (X. 11.) EMMI rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^23]: A 4. § (4) bekezdés b) pontja a 67/2011. (XII. 13.) NEFMI rendelet 7. §-ával megállapított szöveg.
+[^24]: A 4. § (5) bekezdés a) pont ag) alpontja a 46/2008. (XII. 3.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^25]: A 4. § (5) bekezdés a) pont ai) alpontja a 46/2008. (XII. 3.) EüM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^26]: A 4. § (5) bekezdés a) pont aj) alpontja a 46/2008. (XII. 3.) EüM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^27]: A 4. § (5) bekezdés e) pontját a 46/2008. (XII. 3.) EüM rendelet 2. § (2) bekezdése iktatta be.
+[^28]: A 4. § (5) bekezdés f) pontját a 46/2008. (XII. 3.) EüM rendelet 2. § (2) bekezdése iktatta be.
+[^29]: A 4. § (5) bekezdés g) pontját a 46/2008. (XII. 3.) EüM rendelet 2. § (2) bekezdése iktatta be.
