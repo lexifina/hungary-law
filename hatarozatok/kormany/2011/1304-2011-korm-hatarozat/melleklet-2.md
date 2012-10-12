@@ -56,7 +56,7 @@
 
 | 26. | Kismama bérlet kiállításához szükséges igazolás kiállítása | EMMI | 2012. augusztus 31. | x |
 
-| 27. | Utógondozói ellátás elrendelése | EMMI | 2012. augusztus 31. |  |
+| 27. | Utógondozói ellátás elrendelése | EMMI | 2012. december 31. |  |
 
 | 28. | Gondnokrendelés | EMMI | 2012. december 31. |  |
 
@@ -70,11 +70,11 @@
 
 | 32. | Álláskeresési segély folyósítása | NGM | 2012. augusztus 31. |  |
 
-| 33. | START kártya kiállítása | NGM | 2012. augusztus 31. | x |
+| 33. | START kártya kiállítása | NGM | 2012. október 31. | x |
 
-| 34. | START PLUSZ kártya igénylés | NGM | 2012. augusztus 31. | x |
+| 34. | START PLUSZ kártya igénylés | NGM | 2012. október 31. | x |
 
-| 35. | START EXTRA kártya igénylés | NGM | 2012. augusztus 31. | x |
+| 35. | START EXTRA kártya igénylés | NGM | 2012. október 31. | x |
 
 | 36. | Egyéni munkavállalási engedély kiállítása; meghosszabbítása | NGM | 2012. augusztus 31. | x |
 
@@ -84,7 +84,7 @@
 
 |  | Szociális ellátások |  |  |  |
 
-| 39. | Szociális alapszolgáltatások igénybevétele: családsegítés, falu- és tanyagondnoki szolgáltatás, étkeztetés, házi segítségnyújtás, jelzőrendszeres házi segítségnyújtás, támogató szolgáltatás, közösségi ellátások, utcai szociális munka, nappali ellátás | EMMI | 2012. december 31. |  |
+| 39. | Szociális alapszolgáltatások igénybevétele: családsegítés, falu- és tanyagondnoki szolgáltatás, étkeztetés, házi segítségnyújtás, jelzőrendszeres házi segítségnyújtás, támogató szolgáltatás, közösségi ellátások, utcai szociális munka, nappali ellátás) | EMMI | 2012. december 31. |  |
 
 | 40. | Időskorúak járadékának megállapítása és folyósítása | EMMI | 2012. december 31. |  |
 
@@ -114,7 +114,7 @@
 
 | 53. | Nagycsaládos gázár kedvezmény | NFM | 2012. december 31. |  |
 
-| 54. | Igazolás kiállítása tartósan beteg, illetőleg súlyosan fogyatékos gyermekről (családi pótlékhoz) | EMMI | 2012. augusztus 31. |  |
+| 54. | Igazolás kiállítása tartósan beteg, illetőleg súlyosan fogyatékos gyermekről (családi pótlékhoz) | EMMI | 2012. december 31. |  |
 
 | 55. | Csökkent munkaképesség és egészségkárosodás megállapítása | EMMI | 2012. augusztus 31. |  |
 
@@ -126,41 +126,41 @@
 
 |  | Adózás |  |  |  |
 
-| 59. | Személyi jövedelemadó bevallás | NGM | 2012. augusztus 31. | x |
+| 59. | Személyi jövedelemadó bevallás | NGM | 2012. október 31. | x |
 
-| 60. | Helyi adófizetési kötelezettségek teljesítése (építményadó, kommunális adó és ingatlan adó) | NGM | 2012. augusztus 31. |  |
+| 60. | Helyi adófizetési kötelezettségek teljesítése (építményadó, kommunális adó és ingatlan adó) | NGM | 2012. október 31. |  |
 
-| 61. | Adóigazolás kiadása | NGM | 2012. augusztus 31. | x |
+| 61. | Adóigazolás kiadása | NGM | 2012. október 31. | x |
 
-| 62. | Együttes adóigazolás kiadása | NGM | 2012. augusztus 31. | x |
+| 62. | Együttes adóigazolás kiadása | NGM | 2012. október 31. | x |
 
 | 63. | Jövedelemigazolás kiadása biztosítási jogviszony megszűnésekor | NGM | 2012. augusztus 31. | x |
 
-| 64. | Bérek kifizetését havonta tanúsító igazolás kiállítása | NGM | 2012. augusztus 31. |  |
+| 64. | Bérek kifizetését havonta tanúsító igazolás kiállítása | NGM | 2012. október 31. |  |
 
-| 65. | Illetőségigazolás kiadása | NGM | 2012. augusztus 31. | x |
+| 65. | Illetőségigazolás kiadása | NGM | 2012. október 31. | x |
 
-| 66. | Adó-, vám-, illeték- és a társadalombiztosítási kötelezettség teljesítéséről szóló igazolás kiadása | NGM | 2012. augusztus 31. | x |
+| 66. | Adó-, vám-, illeték- és a társadalombiztosítási kötelezettség teljesítéséről szóló igazolás kiadása | NGM | 2012. október 31. | x |
 
-| 67. | Adó- és értékbizonyítvány kiállítása iránt kezdeményezett eljárás | NGM | 2012. augusztus 31. | x |
+| 67. | Adó- és értékbizonyítvány kiállítása iránt kezdeményezett eljárás | KIM, NGM | 2012. október 31. | x |
 
-| 68. | A nyilvántartott adatokban bekövetkezett változások jogszabályi előíráson alapuló, kötelező bejelentése | NGM | 2012. augusztus 31. | x |
+| 68. | A nyilvántartott adatokban bekövetkezett változások jogszabályi előíráson alapuló, kötelező bejelentése | NGM | 2012. október 31. | x |
 
-| 69. | Adóbevallás másolatának kiállítása | NGM | 2012. augusztus 31. | x |
+| 69. | Adóbevallás másolatának kiállítása | NGM | 2012. október 31. | x |
 
-| 70. | Méltányossági eljárás | NGM | 2012. augusztus 31. |  |
+| 70. | Méltányossági eljárás | NGM | 2012. október 31. |  |
 
-| 71. | Fizetési könnyítési eljárás (fizetési halasztás és részletfizetés engedélyezése) | NGM | 2012. augusztus 31. |  |
+| 71. | Fizetési könnyítési eljárás (fizetési halasztás és részletfizetés engedélyezése) | NGM | 2012. október 31. |  |
 
-| 72. | Az ingatlan vagyoni értékű jog átruházásából származó jövedelem után fizetendő személyi jövedelemadó kötelezettségekre irányuló fizetési kedvezményi kérelem | NGM | 2012. augusztus 31. |  |
+| 72. | Az ingatlan vagyoni értékű jog átruházásából származó jövedelem után fizetendő személyi jövedelemadó kötelezettségekre irányuló fizetési kedvezményi kérelem | NGM | 2012. október 31. |  |
 
-| 73. | Ingatlanok forgalmi értékadatainak adatszolgáltatása | NGM | 2012. augusztus 31. | x |
+| 73. | Ingatlanok forgalmi értékadatainak adatszolgáltatása | NGM | 2012. október 31. | x |
 
-| 74. | Visszterhes vagyonátruházási illeték | NGM | 2012. augusztus 31. | x |
+| 74. | Visszterhes vagyonátruházási illeték | NGM | 2012. október 31. | x |
 
-| 75. | Ajándékozási illeték | NGM | 2012. augusztus 31. | x |
+| 75. | Ajándékozási illeték | NGM | 2012. október 31. | x |
 
-| 76. | Öröklési illeték | NGM | 2012. augusztus 31. | x |
+| 76. | Öröklési illeték | NGM | 2012. október 31. | x |
 
 | 77. | Mezőgazdasági őstermelő magánszemély adózása | NGM | 2012. augusztus 31. | x |
 
@@ -182,15 +182,15 @@
 
 |  | Közoktatás, felsőoktatás |  |  |  |
 
-| 85. | Óvodai ellátás | EMMI | 2012. augusztus 31. |  |
+| 85. | Óvodai ellátás | EMMI | 2012. december 31. |  |
 
 | 86. | Nyelvvizsga bizonyítvány kiállítása | EMMI | 2012. augusztus 31. | x |
 
-| 87. | Külföldi oklevelek, bizonyítványok elismerése/honosítása | EMMI | 2012. augusztus 31. | x |
+| 87. | Külföldi oklevelek, bizonyítványok elismerése/ honosítása | EMMI | 2012. október 31. | x |
 
-| 88. | Hazai bizonyítványokról, oklevelekről és hazai szakmai gyakorlatról szóló hatósági bizonyítvány kiállítása | EMMI | 2012. augusztus 31. | x |
+| 88. | Hazai bizonyítványokról, oklevelekről és hazai szakmai gyakorlatról szóló hatósági bizonyítvány kiállítása | EMMI | 2012. október 31. | x |
 
-| 89. | Az európai uniós jog hatály alá tartozó, külföldi képesítést tanúsító okirat elismerése | EMMI | 2012. augusztus 31. | x |
+| 89. | Az európai uniós jog hatály alá tartozó, külföldi képesítést tanúsító okirat elismerése | EMMI | 2012. október 31. | x |
 
 | 90. | Felvételi eljárás általános iskolába, középiskolába | EMMI | 2012. december 31. |  |
 
@@ -198,7 +198,7 @@
 
 | 92. | Határon túli magyar diákok diákkedvezményének bejegyzése | KIM | 2012. augusztus 31. |  |
 
-| 93. | Oktatói kedvezmény bejegyzése | EMMI | 2012. augusztus 31. |  |
+| 93. | Oktatói kedvezmény bejegyzése | KIM | 2012. augusztus 31. |  |
 
 | 94. | Diákhitel folyósítása; lemondása; célzott kamattámogatás folyósítása | NGM | 2012. augusztus 31. |  |
 
@@ -218,29 +218,29 @@
 
 |  | Ingatlannal kapcsolatos ügyek |  |  |  |
 
-| 102. | Telekalakítási, egyesített telekalakítási eljárás | VM | 2012. augusztus 31. |  |
+| 102. | Telekalakítási, egyesített telekalakítási eljárás | VM | 2012. december 31. |  |
 
-| 103. | Hatósági, bírósági megkeresésen, illetve határozaton alapuló ingatlan-nyilvántartási eljárások | VM | 2012. augusztus 31. |  |
+| 103. | Hatósági, bírósági megkeresésen, illetve határozaton alapuló ingatlan-nyilvántartási eljárások | VM | 2012. december 31. |  |
 
-| 104. | Ingatlan-nyilvántartási adatváltozás átvezetése | VM | 2012. augusztus 31. |  |
+| 104. | Ingatlan-nyilvántartási adatváltozás átvezetése | VM | 2012. december 31. |  |
 
-| 105. | Földhasználati nyilvántartási adatváltozás átvezetése | VM | 2012. augusztus 31. |  |
+| 105. | Földhasználati nyilvántartási adatváltozás átvezetése | VM | 2012. december 31. |  |
 
-| 106. | Elvi építési engedély kiállítása | BM | 2012. augusztus 31. |  |
+| 106. | Elvi építési engedély kiállítása | BM | 2012. október 31. |  |
 
-| 107. | Építési engedély kiállítása | BM | 2012. augusztus 31. |  |
+| 107. | Építési engedély kiállítása | BM | 2012. október 31. |  |
 
-| 108. | Bontási engedély kiadása | BM | 2012. augusztus 31. |  |
+| 108. | Bontási engedély kiadása | BM | 2012. október 31. |  |
 
-| 109. | Fennmaradási engedély kiállítása | BM | 2012. augusztus 31. |  |
+| 109. | Fennmaradási engedély kiállítása | BM | 2012. október 31. |  |
 
-| 110. | Használatba vételi engedély kiállítása | BM | 2012. augusztus 31. |  |
+| 110. | Használatba vételi engedély kiállítása | BM | 2012. október 31. |  |
 
 | 111. | Fakivágási kérelem | VM | 2012. augusztus 31. |  |
 
 | 112. | Lakás előtakarékossági számla nyitása | NGM | 2012. augusztus 31. |  |
 
-| 113. | Kérelem lakásszerzési kedvezmény érvényesítésének engedélyezésére | NGM | 2012. augusztus 31. |  |
+| 113. | Kérelem lakásszerzési kedvezmény érvényesítésének engedélyezésére | NGM | törölve |  |
 
 | 114. | Otthonteremtési támogatás megállapítása és folyósítása | EMMI, NGM | 2012. december 31. |  |
 
@@ -256,7 +256,7 @@
 
 | 120. | Lakástámogatással kapcsolatos állami igény átjegyzése | NGM | 2012. augusztus 31. |  |
 
-| 121. | Régészeti feltárással kapcsolatos hatósági eljárások | EMMI | 2012. augusztus 31. |  |
+| 121. | Régészeti feltárással kapcsolatos hatósági eljárások | BM, EMMI | 2012. december 31. |  |
 
 | 122. | Örökségvédelmi hatósági eljárások | EMMI | 2012. augusztus 31. |  |
 
@@ -274,133 +274,133 @@
 
 |  | Közúti közlekedéssel kapcsolatos ügyek |  |  |  |
 
-| 129. | Gépjármű forgalomba helyezése (kiemelten a személygépkocsik magánimportja esetén lefolytatott forgalomba helyezési, illetve járműhonosítási eljárás) | NFM | 2012. augusztus 31. | x |
+| 129. | Gépjármű forgalomba helyezése (kiemelten a személygépkocsik magánimportja esetén lefolytatott forgalomba helyezési, illetve járműhonosítási eljárás) | NFM | 2012. október 31. | x |
 
-| 130. | Gépjármű forgalomból történő kivonása | NFM | 2012. augusztus 31. | x |
+| 130. | Gépjármű forgalomból történő kivonása | NFM | 2012. október 31. | x |
 
-| 131. | Jármű származásellenőrzése | BM | 2012. augusztus 31. |  |
+| 131. | Jármű származásellenőrzése | BM | 2012. december 31. |  |
 
-| 132. | Forgalomba helyezés előtti és időszakos vizsgálat | NFM | 2012. augusztus 31. |  |
+| 132. | Forgalomba helyezés előtti és időszakos vizsgálat | NFM | 2012. október 31. |  |
 
-| 133. | Jármű hatósági engedélyének (forgalmi engedély) kiadása, pótlása és cseréje | NFM | 2012. augusztus 31. | x |
+| 133. | Jármű hatósági engedélyének (forgalmi engedély) kiadása, pótlása és cseréje | NFM | 2012. október 31. | x |
 
-| 134. | Forgalmi engedély bevonása | NFM | 2012. augusztus 31. | x |
+| 134. | Forgalmi engedély bevonása | NFM | 2012. október 31. | x |
 
-| 135. | Jármű hatósági jelzésének (rendszámtábla) kiadása, pótlása és cseréje | NFM | 2012. augusztus 31. | x |
+| 135. | Jármű hatósági jelzésének (rendszámtábla) kiadása, pótlása és cseréje | NFM | 2012. október 31. | x |
 
-| 136. | Járművel kapcsolatos kötelező felelősségbiztosítás hatósági ellenőrzése | NFM | 2012. augusztus 31. |  |
+| 136. | Járművel kapcsolatos kötelező felelősségbiztosítás hatósági ellenőrzése | NFM | 2012. október 31. |  |
 
-| 137. | Jármű műszaki adatainak változása | NFM | 2012. augusztus 31. | x |
+| 137. | Jármű műszaki adatainak változása | NFM | 2012. október 31. | x |
 
-| 138. | Jármű tulajdonosának, üzembetartójának személyében vagy adataiban bekövetkezett változás átvezetése | NFM | 2012. augusztus 31. | x |
+| 138. | Jármű tulajdonosának, üzembetartójának személyében vagy adataiban bekövetkezett változás átvezetése | NFM | 2012. október 31. | x |
 
-| 139. | Kereskedelmi forgalomba kerülő új járművek forgalomba helyezése | NFM | 2012. augusztus 31. | x |
+| 139. | Kereskedelmi forgalomba kerülő új járművek forgalomba helyezése | NFM | 2012. október 31. | x |
 
-| 140. | Törzskönyv kiállítása, pótlása, adataiban beállt változás nyilvántartásba vétele | NFM | 2012. augusztus 31. |  |
+| 140. | Törzskönyv kiállítása, pótlása, adataiban beállt változás nyilvántartásba vétele | NFM | 2012. október 31. |  |
 
-| 141. | Indítási napló kiadása, pótlása és hitelesítése | NFM | 2012. augusztus 31. |  |
+| 141. | Indítási napló kiadása, pótlása és hitelesítése | NFM | 2012. október 31. |  |
 
-| 142. | Vezetői engedély kiadása, cseréje, pótlása, visszavonása | NFM | 2012. augusztus 31. | x |
+| 142. | Vezetői engedély kiadása, cseréje, pótlása, visszavonása | NFM | 2012. október 31. | x |
 
-| 143. | Új kategória megszerzésének bejegyzése a vezetői engedélybe | NFM | 2012. augusztus 31. | x |
+| 143. | Új kategória megszerzésének bejegyzése a vezetői engedélybe | NFM | 2012. október 31. | x |
 
-| 144. | Ideiglenes vezetői engedély kiállítása, cseréje, pótlása | NFM | 2012. augusztus 31. | x |
+| 144. | Ideiglenes vezetői engedély kiállítása, cseréje, pótlása | NFM | 2012. október 31. | x |
 
-| 145. | Nemzetközi gépjármű vezetői engedély kiállítása, cseréje, pótlása | NFM | 2012. augusztus 31. | x |
+| 145. | Nemzetközi gépjármű vezetői engedély kiállítása, cseréje, pótlása | NFM | 2012. október 31. | x |
 
-| 146. | Külföldi hatóság által kiállított vezetői engedély cseréje, honosítása | NFM | 2012. augusztus 31. | x |
+| 146. | Külföldi hatóság által kiállított vezetői engedély cseréje, honosítása | NFM | 2012. október 31. | x |
 
 |  | Okmányok, hatósági igazolások |  |  |  |
 
-| 147. | Anyakönyvi esemény anyakönyvbe történő bejegyzése | KIM | 2012. augusztus 31. | x |
+| 147. | Anyakönyvi esemény anyakönyvbe történő bejegyzése | KIM | 2012. október 31. | x |
 
-| 148. | Magyar állampolgárok külföldön történt anyakönyvi eseményeinek hazai anyakönyvezésére irányuló eljárások | KIM, BM | 2012. augusztus 31. |  |
+| 148. | Magyar állampolgárok külföldön történt anyakönyvi eseményeinek hazai anyakönyvezésére irányuló eljárások | KIM, BM | 2012. október 31. |  |
 
-| 149. | Anyakönyvből történő hatósági bizonyítvány kiállítása | KIM | 2012. augusztus 31. |  |
+| 149. | Anyakönyvből történő hatósági bizonyítvány kiállítása | KIM | 2012. október 31. |  |
 
-| 150. | Hatósági erkölcsi bizonyítvány kérvényezése és kiállítása | BM | 2012. augusztus 31. | x |
+| 150. | Hatósági erkölcsi bizonyítvány kérvényezése és kiállítása | BM | 2012. december 31. | x |
 
-| 151. | Adattovábbítási kérelem alapján kiállított hatósági bizonyítvány kérvényezése és kiállítása | BM | 2012. augusztus 31. |  |
+| 151. | Adattovábbítási kérelem alapján kiállított hatósági bizonyítvány kérvényezése és kiállítása | BM | 2012. december 31. |  |
 
-| 152. | Személyazonosító igazolvány kiadása, cseréje, pótlása | KIM | 2012. augusztus 31. | x |
+| 152. | Személyazonosító igazolvány kiadása, cseréje, pótlása | KIM | 2012. október 31. | x |
 
-| 153. | Személyazonosítót és lakcímet igazoló hatósági igazolvány kiadása (állandó lakhely, tartózkodási hely), cseréje, pótlása | KIM | 2012. augusztus 31. | x |
+| 153. | Személyazonosítót és lakcímet igazoló hatósági igazolvány kiadása (állandó lakhely, tartózkodási hely), cseréje, pótlása | KIM | 2012. október 31. | x |
 
-| 154. | A Magyar Köztársaság területének a külföldi letelepedés szándékával történő elhagyásának bejelentése | KIM | 2012. augusztus 31. |  |
+| 154. | A Magyar Köztársaság területének a külföldi letelepedés szándékával történő elhagyásának bejelentése | KIM | 2012. október 31. |  |
 
-| 155. | A három hónapon túli külföldi tartózkodás bejelentése | KIM | 2012. augusztus 31. |  |
+| 155. | A három hónapon túli külföldi tartózkodás bejelentése | KIM | 2012. október 31. |  |
 
-| 156. | A három hónapon túli külföldi tartózkodásból való visszatérés bejelentése | KIM | 2012. augusztus 31. |  |
+| 156. | A három hónapon túli külföldi tartózkodásból való visszatérés bejelentése | KIM | 2012. október 31. |  |
 
-| 157. | Adóazonosító jelet igazoló hatósági igazolvány (adókártya) kiadása | NGM | 2012. augusztus 31. | x |
+| 157. | Adóazonosító jelet igazoló hatósági igazolvány (adókártya) kiadása | NGM | 2012. október 31. | x |
 
-| 158. | Magánútlevél kiállítása (1 évig, 5 évig, 10 évig), kiállítása iránti kérelem elutasítása, visszavonása | BM | 2012. augusztus 31. | x |
+| 158. | Magánútlevél kiállítása (1 évig, 5 évig, 10 évig), kiállítása iránti kérelem elutasítása, visszavonása | BM | 2012. december 31. | x |
 
-| 159. | Második magánútlevél kiállítása (1 évig, 2 évig), kiállítása iránti kérelem elutasítása, visszavonása | BM | 2012. augusztus 31. | x |
+| 159. | Második magánútlevél kiállítása (1 évig, 2 évig), kiállítása iránti kérelem elutasítása, visszavonása | BM | 2012. december 31. | x |
 
-| 160. | Határátlépési igazolvány kiállítása | BM | 2012. december 31. |  |
+| 160. | Határátlépési igazolvány kiállítása | BM | 2013. május 31. |  |
 
-| 161. | Adatszolgáltatatási kérelem úti okmány kiadásáról, cseréjéről, visszavonásáról, érvényességének, elvesztésének, eltulajdonításának, megsemmisülésének, találásának, megkerülésének tényéről, továbbá arról, hogy az érintett személy rendelkezik-e érvényes úti okmánnyal, az úti okmány birtokosának családi és utónevéről (ideértve a születési családi és utónevet is), az érintett arcképmásáról és saját kezű aláírásáról | BM | 2012. augusztus 31. | x |
+| 161. | Adatszolgáltatatási kérelem úti okmány kiadásáról, cseréjéről, visszavonásáról, érvényességének, elvesztésének, eltulajdonításának, megsemmisülésének, találásának, megkerülésének tényéről, továbbá arról, hogy az érintett személy rendelkezik-e érvényes úti okmánnyal, az úti okmány birtokosának családi és utónevéről (ideértve a születési családi és utónevet is), az érintett arcképmásáról és saját kezű aláírásáról | BM | 2012. december 31. | x |
 
-| 162. | Ideiglenes útlevél kiállítása, leadása | BM | 2012. augusztus 31. | x |
+| 162. | Ideiglenes útlevél kiállítása, leadása | BM | 2012. december 31. | x |
 
-| 163. | Diplomata útlevél kiállítása | BM | 2012. augusztus 31. |  |
+| 163. | Diplomata útlevél kiállítása | BM | 2012. december 31. |  |
 
-| 164. | Külügyi szolgálati útlevél kiállítása | BM | 2012. augusztus 31. |  |
+| 164. | Külügyi szolgálati útlevél kiállítása | BM | 2012. december 31. |  |
 
-| 165. | Szolgálati útlevél kiállítása, kiállítása iránti kérelem elutasítása, visszavonása | BM | 2012. augusztus 31. |  |
+| 165. | Szolgálati útlevél kiállítása, kiállítása iránti kérelem elutasítása, visszavonása | BM | 2012. december 31. |  |
 
-| 166. | Hajós szolgálati útlevél kiállítása, kiállítása iránti kérelem elutasítása, visszavonása | BM | 2012. augusztus 31. |  |
+| 166. | Hajós szolgálati útlevél kiállítása, kiállítása iránti kérelem elutasítása, visszavonása | BM | 2012. december 31. |  |
 
-| 167. | Külföldre utazási korlátozás bejegyzése, törlése | BM | 2012. augusztus 31. |  |
+| 167. | Külföldre utazási korlátozás bejegyzése, törlése | BM | 2012. december 31. |  |
 
-| 168. | A mozgásában korlátozott személy parkolási igazolványának kiadása, meghosszabbítása, visszavonása, cseréje, pótlása, nyilvántartása | NFM | 2012. augusztus 31. |  |
+| 168. | A mozgásában korlátozott személy parkolási igazolványának kiadása, meghosszabbítása, visszavonása, cseréje, pótlása, nyilvántartása | NFM | 2012. október 31. |  |
 
 |  | Nyugdíjjal kapcsolatos ügyek |  |  |  |
 
-| 169. | Szolgálati idő elismerési kérelem | EMMI | 2012. augusztus 31. |  |
+| 169. | Szolgálati idő elismerési kérelem | EMMI | 2012. december 31. |  |
 
-| 170. | Öregségi típusú nyugdíjak iránti igény bejelentése, elbírálása, folyósítása | EMMI | 2012. augusztus 31. |  |
+| 170. | Öregségi típusú nyugdíjak iránti igény bejelentése, elbírálása, folyósítása | EMMI | 2012. december 31. |  |
 
-| 171. | Szülői nyugdíj iránti igény bejelentése, elbírálása, folyósítása | EMMI | 2012. augusztus 31. |  |
+| 171. | Szülői nyugdíj iránti igény bejelentése, elbírálása, folyósítása | EMMI | 2012. december 31. |  |
 
-| 172. | Özvegyi nyugdíj igény bejelentése, elbírálása, megállapítása, folyósítása | EMMI | 2012. augusztus 31. |  |
+| 172. | Özvegyi nyugdíj igény bejelentése, elbírálása, megállapítása, folyósítása | EMMI | 2012. december 31. |  |
 
-| 173. | Árvaellátás iránti igény bejelentése, elbírálása, folyósítása | EMMI | 2012. augusztus 31. |  |
+| 173. | Árvaellátás iránti igény bejelentése, elbírálása, folyósítása | EMMI | 2012. december 31. |  |
 
-| 174. | Igénybejelentés kivándorolt illetőleg külföldön élő vagy tartózkodó személyek részére nyugdíj elbírálásához | EMMI | 2012. augusztus 31. |  |
+| 174. | Igénybejelentés kivándorolt illetőleg külföldön élő vagy tartózkodó személyek részére nyugdíj elbírálásához | EMMI | 2012. december 31. |  |
 
 | 175. | Rehabilitációs járadék iránti igény bejelentése, elbírálása, folyósítása | EMMI | 2012. december 31. |  |
 
-| 176. | Rokkantsági nyugdíj iránti igény bejelentése, elbírálása, folyósítása | EMMI | 2012. augusztus 31. |  |
+| 176. | Rokkantsági nyugdíj iránti igény bejelentése, elbírálása, folyósítása | EMMI | 2012. december 31. |  |
 
-| 177. | Kérelem a saját jogú nyugellátás összegének 0,5 százalékos emeléséhez | EMMI | 2012. augusztus 31. |  |
+| 177. | Kérelem a saját jogú nyugellátás összegének 0,5 százalékos emeléséhez | EMMI | 2012. december 31. |  |
 
-| 178. |  | Igénybejelentés baleseti hozzátartozói ellátások elbírálásához | EMMI | 2012. augusztus 31. |  |
+| 178. | Igénybejelentés baleseti hozzátartozói ellátások elbírálásához | EMMI | 2012. december 31. |  |
 
-| 179. | Igénybejelentés az egyes tartós szabadságkorlátozást elszenvedettek részére (saját jogon) | EMMI | 2012. augusztus 31. |  |
+| 179. | Igénybejelentés az egyes tartós szabadságkorlátozást elszenvedettek részére (saját jogon) | EMMI | 2012. december 31. |  |
 
-| 180. | Igénybejelentés az egyes tartós időtartamú szabadságkorlátozást elszenvedettek részére túlélő házastársként járó juttatáshoz | EMMI | 2012. augusztus 31. |  |
+| 180. | Igénybejelentés az egyes tartós időtartamú szabadságkorlátozást elszenvedettek részére túlélő házastársként járó juttatáshoz | EMMI | 2012. december 31. |  |
 
-| 181. | Kérelem-adatlap nyugellátás méltányossági alapon történő megállapításához; emeléséhez | EMMI | 2012. augusztus 31. |  |
+| 181. | Kérelem-adatlap nyugellátás méltányossági alapon történő megállapításához; emeléséhez | EMMI | 2012. december 31. |  |
 
-| 182. | Egyszeri segély folyósítása (nyugellátásban részesülő személy részére) | EMMI | 2012. augusztus 31. |  |
+| 182. | Egyszeri segély folyósítása (nyugellátásban részesülő személy részére) | EMMI | 2012. december 31. |  |
 
-| 183. | Fizetéskönnyítési, tartozásmérséklési, tartozás elengedési kérelem (A nyugdíjbiztosítási igazgatási szerv visszafizetésre, megtérítésre vonatkozó határozatában előírt fizetési feltételek könnyítésére irányuló kérelem) | EMMI | 2012. augusztus 31. |  |
+| 183. | Fizetéskönnyítési, tartozásmérséklési, tartozás elengedési kérelem (A nyugdíjbiztosítási igazgatási szerv visszafizetésre, megtérítésre vonatkozó határozatában előírt fizetési feltételek könnyítésére irányuló kérelem) | EMMI | 2012. december 31. |  |
 
-| 184. | Adatkérés a nyugdíjbiztosítás által nyilvántartott adatokról | EMMI | 2012. augusztus 31. |  |
+| 184. | Adatkérés a nyugdíjbiztosítás által nyilvántartott adatokról | EMMI | 2012. december 31. |  |
 
-| 185. | Kérelem hatósági bizonyítvány kiadására | EMMI | 2012. augusztus 31. |  |
+| 185. | Kérelem hatósági bizonyítvány kiadására | EMMI | 2012. december 31. |  |
 
-| 186. | Kérelem a Csődtv. 53. § (2), a Ctv. 112. § (2) bekezdése, illetve a Ctv. 1. számú mellékletének V. pont 1/e. alpontja szerinti igazolás kiadásához | EMMI | 2012. augusztus 31. |  |
+| 186. | Kérelem a Csődtv. 53. § (2), a Ctv. 112. § (2) bekezdése, illetve a Ctv. 1. számú mellékletének V. pont 1/e. alpontja szerinti igazolás kiadásához | EMMI | 2012. december 31. |  |
 
-| 187. | Nyilatkozat az elhalálozás hónapjára megillető ellátás kifizetéséhez | EMMI | 2012. augusztus 31. |  |
+| 187. | Nyilatkozat az elhalálozás hónapjára megillető ellátás kifizetéséhez | EMMI | 2012. december 31. |  |
 
-| 188. | Nyilatkozat a jogosult ellátásának belföldi hitelintézet átutalási betétszámlájára (bankszámlájára), vagy EGT tagállam területén élők által megjelölt valamely tagállamban vezetett átutalási betétszámlára történő utalására | EMMI | 2012. augusztus 31. |  |
+| 188. | Nyilatkozat a jogosult ellátásának belföldi hitelintézet átutalási betétszámlájára (bankszámlájára), vagy EGT tagállam területén élők által megjelölt valamely tagállamban vezetett átutalási betétszámlára történő utalására | EMMI | 2012. december 31. |  |
 
-| 189. | Adatokban bekövetkezett változások bejelentése | EMMI | 2012. augusztus 31. |  |
+| 189. | Adatokban bekövetkezett változások bejelentése | EMMI | 2012. december 31. |  |
 
-| 190. | Állapotrosszabbodás bejelentése | EMMI | 2012. augusztus 31. |  |
+| 190. | Állapotrosszabbodás bejelentése | EMMI | 2012. december 31. |  |
 
 |  | Házassági ügyek |  |  |  |
 
@@ -436,7 +436,7 @@
 
 | 205. | Magyarországon forgalombahozatali engedéllyel nem rendelkező készítmények árához nyújtott egészségbiztosítási támogatás | EMMI | 2012. december 31. |  |
 
-| 206. | Rehabilitációs ellátások/szanatóriumi ellátás | EMMI | 2012. december 31. |  |
+| 206. | Rehabilitációs ellátások /szanatóriumi ellátás | EMMI | 2012. december 31. |  |
 
 | 207. | Otthoni szakápolás, hospice | EMMI | 2012. december 31. |  |
 
@@ -460,27 +460,27 @@
 
 |  | Állampolgárság, bevándorlás |  |  |  |
 
-| 216. | Állampolgárság igazolása hivatalos megkeresésre | KIM, BM | 2012. december 31. |  |
+| 216. | Állampolgárság igazolása hivatalos megkeresésre | KIM, BM | 2012. október 31. |  |
 
 | 217. | Tartózkodási engedély kiállítása | BM | 2012. december 31. |  |
 
 | 218. | Nemzeti letelepedési engedély kiállítása | BM | 2012. december 31. |  |
 
-| 219. | Egyszerűsített honosítási, visszahonosítás | KIM | 2012. december 31. |  |
+| 219. | Egyszerűsített honosítási, visszahonosítás | KIM | 2012. október 31. |  |
 
-| 220. | Honosítási, visszahonosítási kérelem | KIM, BM | 2012. december 31. |  |
+| 220. | Honosítási, visszahonosítási kérelem | KIM, BM | 2012. október 31. |  |
 
-| 221. | Honosításhoz, visszahonosításhoz kapcsolt névmódosítási kérelem | KIM, BM | 2012. december 31. |  |
+| 221. | Honosításhoz, visszahonosításhoz kapcsolt névmódosítási kérelem | KIM, BM | 2012. október 31. |  |
 
-| 222. | Magyar állampolgárság megszerzésére irányuló nyilatkozat | KIM, BM | 2012. december 31. |  |
+| 222. | Magyar állampolgárság megszerzésére irányuló nyilatkozat | KIM, BM | 2012. október 31. |  |
 
-| 223. | Magyar állampolgárság visszaszerzésére irányuló nyilatkozat | KIM, BM | 2012. december 31. |  |
+| 223. | Magyar állampolgárság visszaszerzésére irányuló nyilatkozat | KIM, BM | 2012. október 31. |  |
 
-| 224. | Lemondás magyar állampolgárságról | KIM, BM | 2012. december 31. |  |
+| 224. | Lemondás magyar állampolgárságról | KIM, BM | 2012. október 31. |  |
 
-| 225. | Állampolgársági bizonyítvány iránti kérelem | KIM, BM | 2012. december 31. |  |
+| 225. | Állampolgársági bizonyítvány iránti kérelem | KIM, BM | 2012. október 31. |  |
 
-| 226. | Magyar igazolvány/Magyar hozzátartozói igazolvány kiállítása; adatváltozásának átvezetése; pótlása, visszavonása | KIM | 2012. december 31. |  |
+| 226. | Magyar igazolvány / Magyar hozzátartozói igazolvány kiállítása; adatváltozásának átvezetése; pótlása, visszavonása | KIM | 2012. december 31. |  |
 
 | 227. | Pótfüzet kiállítása, cseréje, a magyarigazolvánnyal és magyar hozzátartozói igazolvánnyal igénybe vehető kedvezmények igénybevételére | KIM | 2012. december 31. |  |
 
