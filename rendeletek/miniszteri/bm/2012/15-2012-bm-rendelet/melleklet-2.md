@@ -1,13 +1,3 @@
-## Az igazolvány első oldalának mintája:
+2. melléklet a 15/2012. (IV. 3.) BM rendelethez[^6]
 
-## Az igazolvány hátoldalának mintája:
-
-2. melléklet a 15/2012. (IV. 3.) BM rendelethez
-
-|  | A | B |
-
-|  | Az igazgatási szolgáltatási díjköteles eljárás megnevezése | Igazgatási szolgáltatási díj mértéke (Ft) |
-
-| 1. | első igazolvány kiállítása | 1800 |
-
-| 2. | igazolványcsere | 1100 |
+[^6]: A 2. mellékletet az 50/2012. (X. 11.) BM rendelet 9. § (2) bekezdése hatályon kívül helyezte.

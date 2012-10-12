@@ -20,10 +20,14 @@ g) a Ptv. 23. § szerinti rendezvény lebonyolításával kapcsolatos költsége
 
 h) a Ptv. 15. § (2) bekezdésben meghatározott polgárőr formaruha és a Ptv. 20. § (6) bekezdésében hivatkozott fényvisszaverő mellény beszerzésével kapcsolatos költségeket, és
 
-i) a polgárőr egyesületek és területi polgárőr szövetségek részére nyújtandó a (2) és (3) bekezdésben meghatározott működési támogatások és céltámogatások fedezésével összefüggő pénzösszegeket.
+i) a polgárőr egyesületek és területi polgárőr szövetségek részére nyújtandó a (2) és (3) bekezdésben meghatározott működési támogatások és céltámogatások fedezésével összefüggő pénzösszegeket,
+
+j)[^1] a Ptv. 11. §-ában meghatározott polgárőr igazolvány kiadásával járó költségeket.
 
 (2) A működési támogatás a polgárőr egyesület részére a Ptv. 3. § (1) bekezdés szerinti alapfeladatok vagy területi polgárőr szövetség részére a Ptv. 7. § (5) bekezdése szerinti feladatok ellátásához, valamint az ehhez kapcsolódó működési költségekhez nyújtható.
 
 (3) A céltámogatás a polgárőr egyesület részére a Ptv. 3. § (2) bekezdésében meghatározott kiegészítő feladatok ellátása érdekében, valamint a 4. § (1) bekezdésben meghatározott tevékenységhez nyújtható.
 
 (4) Ha sem a költségvetési támogatás, sem az OPSZ egyéb bevételei nem fedezik az (1) bekezdésben meghatározott valamennyi feladat ellátását, úgy a költségvetési támogatást elsősorban az OPSZ, valamint a polgárőr egyesületek és területi polgárőr szövetségek működési költségeinek, valamint a Ptv. 3. § (1) bekezdés és a Ptv. 7. § (5) bekezdés szerinti alapfeladatok ellátásának biztosítására kell felhasználni.
+
+[^1]: A 2. § (1) bekezdését az 50/2012. (X. 11.) BM rendelet 5. § (1) bekezdése iktatta be.
