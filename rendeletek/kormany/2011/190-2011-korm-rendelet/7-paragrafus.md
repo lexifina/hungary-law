@@ -28,7 +28,7 @@ esetén.
 
 a) III. kategóriába tartozó nukleáris anyag alkalmazása, tárolása,
 
-b)[^5] 2. és 3. kategóriába tartozó radioaktív sugárforrás alkalmazása – kivéve hordozható eszközökben alkalmazott zárt radioaktív sugárforrások vizsgáló laboratóriumon kívül történő alkalmazását –, tárolása és szállítása, valamint
+b)[^6] 2. és 3. kategóriába tartozó radioaktív sugárforrás alkalmazása – kivéve hordozható eszközökben alkalmazott zárt radioaktív sugárforrások vizsgáló laboratóriumon kívül történő alkalmazását –, tárolása és szállítása, valamint
 
 c) 2. és 3. kategóriába tartozó radioaktív hulladék feldolgozása, tárolása és szállítása
 
@@ -36,7 +36,7 @@ c) 2. és 3. kategóriába tartozó radioaktív hulladék feldolgozása, tárol�
 
 (5) D-szintű fizikai védelmet kell biztosítani:
 
-a)[^6] 4–5. kategóriába tartozó radioaktív sugárforrás alkalmazása – kivéve hordozható eszközökben alkalmazott zárt radioaktív sugárforrások vizsgáló laboratóriumon kívül történő alkalmazását –, tárolása és szállítása,
+a)[^7] 4–5. kategóriába tartozó radioaktív sugárforrás alkalmazása – kivéve hordozható eszközökben alkalmazott zárt radioaktív sugárforrások vizsgáló laboratóriumon kívül történő alkalmazását –, tárolása és szállítása,
 
 b) nem kategorizált nukleáris anyagok alkalmazása, tárolása és szállítása, valamint
 
@@ -48,5 +48,5 @@ c) 4. kategóriába tartozó radioaktív hulladék feldolgozása, tárolása és
 
 (7) Feldolgozás és szállítás során a radioaktív hulladékká minősített radioaktív sugárforrás fizikai védelmi szintjére a radioaktív sugárforrás fizikai védelmi szintjére vonatkozó követelményeket kell alkalmazni.
 
-[^5]: A 7. § (4) bekezdés b) pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
-[^6]: A 7. § (5) bekezdés a) pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 2. pontja szerint módosított szöveg.
+[^6]: A 7. § (4) bekezdés b) pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
+[^7]: A 7. § (5) bekezdés a) pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 2. pontja szerint módosított szöveg.

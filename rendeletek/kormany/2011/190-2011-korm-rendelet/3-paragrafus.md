@@ -22,7 +22,7 @@ d) javaslatot tesz a tervezési alapfenyegetettséget meghaladó fenyegetettség
 
 a) Országos Rendőr-főkapitányság;
 
-b) Katonai Biztonsági Hivatal;
+b)[^3] Katonai Nemzetbiztonsági Szolgálat;
 
 c) Alkotmányvédelmi Hivatal; és
 
@@ -31,3 +31,5 @@ d) Terrorelhárítási Központ.
 (3) Az OAH a (2) bekezdés szerinti határozatot megküldi a kötelezettek és az egyeztetésben részt vevő szervek részére.
 
 (4) Az emelt szintű fizikai védelem bevezetését és megszüntetését az OAH-nál a (2) bekezdésben meghatározott szervek is kezdeményezhetik.
+
+[^3]: A 3. § (2) bekezdés b) pontja a 286/2012. (X. 11.) Korm. rendelet 7. §-ával megállapított szöveg.
