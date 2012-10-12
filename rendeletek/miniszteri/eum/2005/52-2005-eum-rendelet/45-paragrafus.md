@@ -32,7 +32,7 @@ h)[^154] az emberi felhasználásra szánt gyógyszerek közösségi kódexérő
 
 (11)[^157] Ez a rendelet az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerkészítmények forgalomba hozatali engedélyére vonatkozó feltételek módosításainak vizsgálatáról szóló 2008. november 24-i 1234/2008/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(12)[^158] Ez a rendelet az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK rendeletnek és a fejlett terápiás gyógyszerkészítményekről szóló 1394/2007/EK rendeletnek az emberi felhasználásra szánt gyógyszerekkel összefüggésben követendő farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 135/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+(12)[^158] Ez a rendelet az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK rendeletnek és a fejlett terápiás gyógyszerkészítményekről szóló 1394/2007/EK rendeletnek az emberi felhasználásra szánt gyógyszerekkel összefüggésben követendő farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 1235/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 [^146]: Az eredeti 39. § számozását 44. §-ra változtatta a 44/2006. (XII. 27.) EüM rendelet 1. §-a.
 [^147]: Az eredeti 40. § számozását 45. §-ra változtatta a 44/2006. (XII. 27.) EüM rendelet 1. §-a.
@@ -46,4 +46,4 @@ h)[^154] az emberi felhasználásra szánt gyógyszerek közösségi kódexérő
 [^155]: A 45. § (9) bekezdését az 53/2008. (XII. 31.) EüM rendelet 1. § (5) bekezdése iktatta be.
 [^156]: A 45. § (10) bekezdését az 53/2008. (XII. 31.) EüM rendelet 1. § (5) bekezdése iktatta be.
 [^157]: A 45. § (11) bekezdését a 20/2010. (IV. 29.) EüM rendelet 1. § (24) bekezdése iktatta be.
-[^158]: A 45. § (12) bekezdését a 15/2012. (VIII. 22.) EMMI rendelet 43. § (2) bekezdése iktatta be.
+[^158]: A 45. § (12) bekezdését a 15/2012. (VIII. 22.) EMMI rendelet 43. § (2) bekezdése iktatta be, szövege a 33/2012. (X. 11.) EMMI rendelet 9. § (4) bekezdése szerint módosított szöveg.
