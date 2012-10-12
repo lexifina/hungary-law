@@ -16,10 +16,10 @@ c)[^11] az Európai Parlament és a Tanács 2010/84/EU irányelve (2010. decembe
 
 (5)[^13] Ez a rendelet a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(6)[^14] Ez a rendelet az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK rendeletnek és a fejlett terápiás gyógyszerkészítményekről szóló 1394/2007/EK rendeletnek az emberi felhasználásra szánt gyógyszerekkel összefüggésben követendő farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 135/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+(6)[^14] Ez a rendelet az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK rendeletnek és a fejlett terápiás gyógyszerkészítményekről szóló 1394/2007/EK rendeletnek az emberi felhasználásra szánt gyógyszerekkel összefüggésben követendő farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 1235/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 [^10]: Az 5. § (3) bekezdése az 53/2008. (XII. 31.) EüM rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^11]: Az 5. § (3) bekezdés c) pontját a 15/2012. (VIII. 22.) EMMI rendelet 30. § (1) bekezdése iktatta be.
 [^12]: Az 5. § (4) bekezdését az 53/2008. (XII. 31.) EüM rendelet 5. § (4) bekezdése iktatta be.
 [^13]: Az 5. § (5) bekezdését az 53/2008. (XII. 31.) EüM rendelet 5. § (4) bekezdése iktatta be.
-[^14]: Az 5. § (6) bekezdését a 15/2012. (VIII. 22.) EMMI rendelet 30. § (2) bekezdése iktatta be.
+[^14]: Az 5. § (6) bekezdését a 15/2012. (VIII. 22.) EMMI rendelet 30. § (2) bekezdése iktatta be, szövege a 33/2012. (X. 11.) EMMI rendelet 9. § (3) bekezdése szerint módosított szöveg.
