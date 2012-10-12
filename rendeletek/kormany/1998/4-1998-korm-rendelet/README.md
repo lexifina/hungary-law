@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-4-20-22
 | 2011-09-09 | 1998-4-20-22.11 | 177/2011. (IX. 1.) Korm. rendelet |
 | 2012-01-01 | 1998-4-20-22.12 | 304/2011. (XII. 23.) Korm. rendelet |
 | 2012-07-01 | 1998-4-20-22.13 | 304/2011. (XII. 23.) Korm. rendelet |
+| 2012-10-12 | 1998-4-20-22.14 | 286/2012. (X. 11.) Korm. rendelet |

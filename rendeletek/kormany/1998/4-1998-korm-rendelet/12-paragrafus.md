@@ -1,8 +1,8 @@
-## 11. §[^38] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+## 11. §[^39] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-## Az Európai Unió jogának való megfelelés[^39]
+## Az Európai Unió jogának való megfelelés[^40]
 
-## 12. §[^40] E rendelet
+## 12. §[^41] E rendelet
 
 a) 1/A. §-a a rugalmas légtérfelhasználásra vonatkozó közös szabályok megállapításáról szóló, 2005. december 23-i 2150/2005/EK bizottsági rendelet 4. cikkének,
 
@@ -10,6 +10,6 @@ b) 10/A. § (1) bekezdése az 549/2004/EK, az 550/2004/EK, az 551/2004/EK és az
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^38]: A 11. § a 118/2008. (V. 8.) Korm. rendelet 1. § 1295. pontja szerint módosított szöveg.
-[^39]: A 12. §-t megelőző alcímet a 177/2011. (IX. 1.) Korm. rendelet 10. §-a iktatta be.
-[^40]: A 12. §-t a 177/2011. (IX. 1.) Korm. rendelet 10. §-a iktatta be.
+[^39]: A 11. § a 118/2008. (V. 8.) Korm. rendelet 1. § 1295. pontja szerint módosított szöveg.
+[^40]: A 12. §-t megelőző alcímet a 177/2011. (IX. 1.) Korm. rendelet 10. §-a iktatta be.
+[^41]: A 12. §-t a 177/2011. (IX. 1.) Korm. rendelet 10. §-a iktatta be.
