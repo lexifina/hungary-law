@@ -548,7 +548,7 @@
 
 | 264. | OKJ szerinti szakképesítések |
 
-| 265. | ao1 | 33 621 02 0100 31 01 Aranykalászos gazda | a hatályos Szakmai és Vizsgakövetelményekben meghatározott maximális képzési időtartam min. 30%-a, amit a VM VKSZI a képzési projektterv felülvizsgálata során ellenőriz |
+| 265. | ao1 | 33 621 02 0100 31 01 Aranykalászos gazda | a hatályos Szakmai és Vizsgakövetelményekben meghatározott maximális képzési időtartam min. 30%-a, amit a NAKVI a képzési projektterv felülvizsgálata során ellenőriz |
 
 | 266. | ao2 | 54 621 02 0100 31 01 Mezőgazdasági vállalkozó |  |  |
 

@@ -2,7 +2,7 @@
 
 8. §[^50] (1)[^51] Az MVH az egyesített támogatási és kifizetési kérelmeket az Eljárási tv. 32. § (1) bekezdés c) pontja szerint az ÚMVP Képző Szervezet és a képzésben részt vevő között létrejött felnőttképzési szerződés megkötésének dátuma szerint kialakított rangsor alapján bírálja el.
 
-(2)[^52] A VM VKSZI által a képzés során végzett ellenőrzések támogatási jogosultságot érintő adatait az MVH a támogatási határozat meghozatala során figyelembe veszi.
+(2)[^52] A NAKVI által a képzés során végzett ellenőrzések támogatási jogosultságot érintő adatait az MVH a támogatási határozat meghozatala során figyelembe veszi.
 
 (3)[^53] Erdőgazdálkodó ügyfél esetében:
 
@@ -16,7 +16,7 @@ b) a támogatási határozatnak tartalmaznia kell, hogy az ügyfél de minimis t
 
 [^50]: A 8. § a 6/2010. (II. 2.) FVM rendelet 6. §-ával megállapított szöveg.
 [^51]: A 8. § (1) bekezdése a 90/2011. (X. 3.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^52]: A 8. § (2) bekezdése a 90/2011. (X.3.) VM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^52]: A 8. § (2) bekezdése a 90/2011. (X.3.) VM rendelet 7. § (2) bekezdése, a 106/2012. (X. 11.) VM rendelet 8. § b) pontja szerint módosított szöveg.
 [^53]: A 8. § (3) bekezdését a 90/2011. (X. 3.) VM rendelet 4. § (2) bekezdése iktatta be.
 [^54]: A 8. § (4) bekezdését a 90/2011. (X. 3.) VM rendelet 4. § (3) bekezdése iktatta be.
 [^55]: A 8. § (5) bekezdését a 90/2011. (X. 3.) VM rendelet 4. § (4) bekezdése iktatta be.

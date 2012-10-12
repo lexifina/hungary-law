@@ -6,9 +6,9 @@
 
 a) ÚMVP Képző Szervezet: az Új Magyarország Vidékfejlesztési Program (a továbbiakban: ÚMVP) által e rendelet alapján támogatott képzéseket megvalósító szervezet;
 
-b)[^1] képzési projekt: az ÚMVP Képző Szervezetnek az 1. számú mellékletben felsorolt képzések szervezésére vonatkozó, a VM Vidékfejlesztési, Képzési és Szaktanácsadási Intézet (a továbbiakban: VM VKSZI) által jóváhagyott, egy naptári évre vonatkozó terve;
+b)[^1] képzési projekt: az ÚMVP Képző Szervezetnek az 1. számú mellékletben felsorolt képzések szervezésére vonatkozó, a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) által jóváhagyott, egy naptári évre vonatkozó terve;
 
-c)[^2] képzési program: az 1. számú mellékletben felsorolt képzések tananyagát, az oktatás tárgyi és személyi feltételeit, a számonkérés módját magában foglaló dokumentum, amelyet a VM VKSZI az ÚMVP Képző Szervezetek rendelkezésére bocsát;
+c)[^2] képzési program: az 1. számú mellékletben felsorolt képzések tananyagát, az oktatás tárgyi és személyi feltételeit, a számonkérés módját magában foglaló dokumentum, amelyet a NAKVI az ÚMVP Képző Szervezetek rendelkezésére bocsát;
 
 d) erdőgazdálkodó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, akit vagy amelyet az erdészeti hatóság külön jogszabály alapján nyilvántartásba vett;
 
@@ -20,8 +20,8 @@ g)[^5] mezőgazdasági termelő: az a természetes személy, jogi személy, jogi
 
 h)[^6] de minimis támogatás: a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet (a továbbiakban: általános „de minimis” rendelet) alapján nyújtott támogatás.
 
-[^1]: A 2. § b) pontja a 90/2011. (X. 3.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § c) pontja a 90/2011. (X. 3.) VM rendelet 7. § (1) bekezdése szerint módosított szöveg.
+[^1]: A 2. § b) pontja a 90/2011. (X. 3.) VM rendelet 1. § (1) bekezdésével megállapított, a 106/2012. (X. 11.) VM rendelet 8. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § c) pontja a 90/2011. (X. 3.) VM rendelet 7. § (1) bekezdése, a 106/2012. (X. 11.) VM rendelet 8. § b) pontja szerint módosított szöveg.
 [^3]: A 2. § e) pontja a 18/2010. (IX. 30.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § f) pontját a 6/2010. (II. 2.) FVM rendelet 1. §-a iktatta be.
 [^5]: A 2. § g) pontját a 18/2010. (IX. 30.) VM rendelet 1. § (2) bekezdése iktatta be.

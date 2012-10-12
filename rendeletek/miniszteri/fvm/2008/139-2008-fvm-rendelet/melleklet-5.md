@@ -1,7 +1,5 @@
 ## Az elszámolható kiadások felső határértéke
 
-## 1M28918_0
-
 |  | A | B | C | D |
 
 | 1. | Megnevezés | Szakképesítést nem adó képzés (b1–b11, an1–an19) | OKJ szerinti képzés (ao1–ao161) és 80 órás Növényvédelmi Tanfolyam (h2) | Mezőgazdasági vontatóvezető képzés (h1) |

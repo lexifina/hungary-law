@@ -1,7 +1,5 @@
 ## Képzési projekt terv
 
-## 8M18908A_0
-
 | Az ÚMVP Képző szervezet neve: |  |
 
 | a 6. § (1) bekezdés c) pontja szerinti regisztrációs száma: |  |
