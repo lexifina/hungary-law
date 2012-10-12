@@ -8,6 +8,10 @@ a) kielégíti a 11. § szerinti alapvető követelményeket, valamint
 
 b) az a) pont szerinti követelmények igazolására lefolytatták a 13. § szerinti, az adott eszközre vonatkozó EK megfelelőség értékelési eljárást.
 
-(3) A gyártónak vagy meghatalmazott képviselőjének már a forgalomba hozatal idején rendelkeznie kell a (2) bekezdés a) és b) pontjának való megfelelést igazoló, e jogszabályban meghatározott tartalmú dokumentumokkal, melyeket a Hivatal piacfelügyeleti eljárása során ellenőrizhet.
+(3)[^17] A gyártónak vagy meghatalmazott képviselőjének már a forgalomba hozatal idején rendelkeznie kell a (2) bekezdés a) és b) pontjának való megfelelést igazoló, e rendeletben meghatározott tartalmú dokumentumokkal.
+
+(4)[^18] Az eszköz forgalomba hozatalával vagy használatba vételével kapcsolatos rendelkezések betartását, valamint a forgalomban lévő vagy használatba adott eszközre vonatkozó előírások teljesülését a Hivatal piacfelügyeleti eljárása során ellenőrizheti.
 
 [^16]: Az 5. § (1) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 31. § e) pontja szerint módosított szöveg.
+[^17]: Az 5. § (3) bekezdése a 33/2012. (X. 11.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^18]: Az 5. § (4) bekezdését a 33/2012. (X. 11.) EMMI rendelet 4. § (2) bekezdése iktatta be.

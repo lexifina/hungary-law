@@ -440,7 +440,7 @@
 
 ## Submission of this report does not, in itself, represent a conclusion by the manufacturer and/or authorized representative or the national competent authority that the content of this report is complete or accurate, that the medical device(s) listed failed in any manner and/or that the medical device(s) caused or contributed to the alleged death or deterioration in the state of the health of any person.
 
-13. melléklet a 4/2009. (III. 17.) EüM rendelethez[^55]
+13. melléklet a 4/2009. (III. 17.) EüM rendelethez[^62]
 
 ## Időszakos felülvizsgálat
 
@@ -498,4 +498,4 @@ II. Egyéb előírások
 
 5. Az első időszakos felülvizsgálat az üzembe helyezést követően, az előírt gyakoriságtól függően 1, 2 vagy 3 év elteltével esedékes. A további felülvizsgálat az előző felülvizsgálat időpontjától számítandó.
 
-[^55]: A 13. melléklet a 10/2011. (III. 30.) NEFMI rendelet 65. § (2) bekezdése szerint módosított szöveg.
+[^62]: A 13. melléklet a 10/2011. (III. 30.) NEFMI rendelet 65. § (2) bekezdése szerint módosított szöveg.
