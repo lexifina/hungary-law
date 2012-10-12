@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-191-00-00
 | 2012-07-26 | 2012. évi CXVIII. törvény | 2011-191-00-00.10 |
 | 2012-08-22 | 2012. évi CXVIII. törvény | 2011-191-00-00.11 |
 | 2012-09-01 | 2012. évi CXVIII. törvény | 2011-191-00-00.12 |
+| 2012-10-12 | 2012. évi CXLII. törvény | 2011-191-00-00.13 |

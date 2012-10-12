@@ -10,7 +10,7 @@ d) átmeneti járadékban
 
 részesülő személy ellátását a Kormány által kijelölt szerv 2012. január 1-jétől rokkantsági ellátásként folyósítja tovább azzal, hogy az ellátás összege megegyezik a 2011. december hónapra járó – az a) és b) pont szerinti esetben a 2012. januári nyugdíjemelés mértékével növelt – ellátás összegével. Az átalakítás nem érinti a soros felülvizsgálati kötelezettséget. A b) és c) pont alkalmazásában az minősül az öregségi nyugdíjkorhatárt 5 éven belül betöltő személynek, aki 2011. december 31-éig az 57. életévét betöltötte.
 
-(1a) Az (1) bekezdés c) és d) pontja szerinti személy ellátása összegének meghatározásakor az özvegyi nyugdíjra tekintettel megállapított csökkentést 2012. szeptember 1-jétől figyelmen kívül kell hagyni. Erről a Kormány által kijelölt folyósító szerv határozatot hoz.
+(1a)
 
 (2) Az (1) bekezdés alapján rokkantsági ellátásban részesülő személy ellátását meg kell szüntetni, ha keresőtevékenységet folytat és a jövedelme 3 egymást követő hónapra vonatkozó havi átlaga meghaladja a minimálbér 150 százalékát. E bekezdés alkalmazása során a 2012. július 1-jétől szerzett jövedelem vehető figyelembe.
 
