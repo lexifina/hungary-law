@@ -2,7 +2,7 @@
 
 ## A polgári nemzetbiztonsági műveleti hálózat esetében az Alkotmányvédelmi Hivatal, az Információs Hivatal és a Nemzetbiztonsági Szakszolgálat.
 
-## A katonai nemzetbiztonsági műveleti hálózat esetében a katonai nemzetbiztonsági szolgálatok.
+## A katonai nemzetbiztonsági műveleti hálózat esetében a Katonai Nemzetbiztonsági Szolgálat.
 
 ## A Magyar Honvédség honvédelmi célú híradó-informatikai hálózata esetén a honvédelmi miniszter.
 
@@ -26,9 +26,9 @@
 
 7. a Magyar Honvédség készenléti tevékenységet ellátó szervezetei és szervezeti egységei;
 
-8. a Katonai Felderítő Hivatal;
+8.[^34] a Katonai Nemzetbiztonsági Szolgálat;
 
-9. a Katonai Biztonsági Hivatal;
+9.[^35]
 
 10. a Honvédelmi Minisztérium Védelmi Hivatala;
 
@@ -52,9 +52,9 @@
 
 20. a Nemzeti Adó- és Vámhivatal;
 
-21.[^29] az Országos Vízügyi Főigazgatóságot, a vízügyi igazgatóságokat, valamint a nemzeti park igazgatóságokat irányító miniszter e feladatot ellátó minisztériumi munkaszervezeti egységének vezetői, veszély- és katasztrófahelyzetben az irányításban közreműködő személyei és szervezeti egységei;
+21.[^36] az Országos Vízügyi Főigazgatóságot, a vízügyi igazgatóságokat, valamint a nemzeti park igazgatóságokat irányító miniszter e feladatot ellátó minisztériumi munkaszervezeti egységének vezetői, veszély- és katasztrófahelyzetben az irányításban közreműködő személyei és szervezeti egységei;
 
-22.[^30] az Országos Vízügyi Főigazgatóság, a vízügyi igazgatóságok, valamint a nemzeti park igazgatóságok;
+22.[^37] az Országos Vízügyi Főigazgatóság, a vízügyi igazgatóságok, valamint a nemzeti park igazgatóságok;
 
 23. az Országos Mentőszolgálatot irányító miniszter e feladatot ellátó minisztériumi munkaszervezeti egységeinek vezetői, veszély- és katasztrófahelyzetben az irányításban közreműködő személyei és szervezeti egységei;
 
@@ -72,5 +72,7 @@
 
 30. a fenti szervek körébe nem tartozó, a 17. § szerint a miniszter jóváhagyásával az EDR-hálózathoz külön megállapodás alapján kapcsolódó, jellemzően készenléti feladatokat ellátó szervezetek, amelyek a közigazgatási szervezetek szolgáltatását kiegészítő feladatokat, illetve közszolgáltatásokat látnak el, vagy kritikus fontosságú infrastruktúrát üzemeltetnek.
 
-[^29]: A 3. melléklet 21. pontja a 300/2011. (XII. 22.) Korm. rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^30]: A 3. melléklet 22. pontja a 300/2011. (XII. 22.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^34]: A 3. melléklet 8. pontja a 286/2012. (X. 11.) Korm. rendelet 5. § (1) bekezdés f) pontjával megállapított szöveg.
+[^35]: A 3. melléklet 9. pontját a 286/2012. (X. 11.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^36]: A 3. melléklet 21. pontja a 300/2011. (XII. 22.) Korm. rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^37]: A 3. melléklet 22. pontja a 300/2011. (XII. 22.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.

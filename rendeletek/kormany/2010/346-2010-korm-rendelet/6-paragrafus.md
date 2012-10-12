@@ -16,7 +16,7 @@ g) a kezelésében lévő, a kormányzati célú hálózatot alkotó eszközök 
 
 h) az informatikai, információ-technológiai és biztonsági előírások betartásáért és betartatásáért;
 
-i) a miniszter hatáskörén kívüli körben a kormányzati célú hálózatot érintő veszélyhelyzeti és minősített időszaki felkészítéséért;
+i)[^3] a miniszter hatáskörén kívüli körben a kormányzati célú hálózatot érintő veszélyhelyzeti és különleges jogrendre történő felkészítéséért;
 
 j) a kormányzati célú hírközlési szolgáltatásra vonatkozó igények kielégítésének összehangolásáért;
 
@@ -28,10 +28,13 @@ l) a minősített adat elektronikus biztonságának, valamint a rejtjeltevékeny
 
 a) megköti a kormányzati célú hálózatok működtetéséhez szükséges szerződéseket;
 
-b) minősített időszakban a nem miniszteri hatáskörbe tartozó ügyekben koordinálja a felhasználók együttműködését, az elektronikus hírközlés veszélyhelyzeti és minősített időszaki felkészítésének rendszeréről, az államigazgatási szervek feladatairól, működésük feltételeinek biztosításáról szóló jogszabályban foglaltak szerint;
+b)[^4] különleges jogrend idején a nem miniszteri hatáskörbe tartozó ügyekben koordinálja a felhasználók együttműködését, az elektronikus hírközlés veszélyhelyzeti és különleges jogrendre történő felkészítésének rendszeréről, az államigazgatási szervek feladatairól, működésük feltételeinek biztosításáról szóló jogszabályban foglaltak szerint;
 
 c) kapcsolatot tart a védelmi igazgatás szervezetével;
 
 d) ellátja a VPN központi menedzser szervezet feladatait, amelynek részeként ellátja a VPN hálózat menedzsment feladatait, és biztosítja a VPN menedzsment központ működését, kialakítja, menedzseli és nyilvántartja a VPN gazda szervezeteket, valamint biztosítja a VPN-ek közötti együttműködést;
 
 e) ellátja a VPN erőforrás-gazdálkodási feladatokat, megvizsgálja és elbírálja a felhasználók VPN-einek erőforrásigényeit, és meghozza az ezzel kapcsolatos döntéseket.
+
+[^3]: A 6. § (1) bekezdés i) pontja a 286/2012. (X. 11.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 6. § (2) bekezdés b) pontja a 286/2012. (X. 11.) Korm. rendelet 5. § (1) bekezdés a) és b) pontja szerint módosított szöveg.

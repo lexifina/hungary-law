@@ -22,4 +22,6 @@ f) a szerződés által lefedett kormányzati célú hálózatok köre.
 
 a) a felhasználók felügyeletét ellátó miniszterekkel egyetértésben meghatározza a felhasználók VPN gazda szervezeteit, és
 
-b) minősített időszakban az elektronikus hírközlés veszélyhelyzeti és minősített időszaki felkészítésének rendszeréről, az államigazgatási szervek feladatairól, működésük feltételeinek biztosításáról szóló jogszabályban foglaltak szerint miniszteri hatáskörbe tartozó ügyekben koordinálja a kormányzati célú hírközlési szolgáltató és a felhasználók együttműködését.
+b)[^2] különleges jogrend idején az elektronikus hírközlés veszélyhelyzeti és különleges jogrendre történő felkészítésének rendszeréről, az államigazgatási szervek feladatairól, működésük feltételeinek biztosításáról szóló jogszabályban foglaltak szerint miniszteri hatáskörbe tartozó ügyekben koordinálja a kormányzati célú hírközlési szolgáltató és a felhasználók együttműködését.
+
+[^2]: Az 5. § (5) bekezdés b) pontja a 286/2012. (X. 11.) Korm. rendelet 5. § (1) bekezdés a) és b) pontja szerint módosított szöveg.
