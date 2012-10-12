@@ -6,7 +6,7 @@ aa) a rendészeti szakközépiskolát eredményesen elvégezte, vagy a modulári
 
 ab) valamely fegyveres szervnél vagy a Magyar Honvédségnél szerződéses szolgálatot teljesít, a szolgálati idejéből legalább egy év eltelt, továbbá a moduláris képzési rendszerben a szakképzést vállalja, vagy
 
-ac) fegyveres szervnél korábban hivatásos szolgálati viszonyban volt, és szolgálati viszonya nem a Hszt. 53. § e), f) és g) pontjában, vagy 56. § (2) bekezdés b) pontjában meghatározott módon szűnt meg, továbbá, ha az adott beosztás ellátásához szükséges rendészeti szakképesítéssel rendelkezik, vagy
+ac)[^2] fegyveres szervnél korábban hivatásos szolgálati viszonyban volt, és nem áll a Hszt. 37/A. § (1) bekezdés g) pontjában szereplő korlátozás hatálya alatt, továbbá, ha az adott beosztás ellátásához szükséges rendészeti szakképesítéssel rendelkezik, vagy
 
 b) a hivatásos katasztrófavédelem és a büntetés-végrehajtás szerveinél meghatározott tiszthelyettesi beosztások betöltésére – az a) pontban felsoroltakon túl – az is kinevezhető, aki legalább szakmunkásképző iskolai végzettséggel rendelkezik,
 
@@ -20,6 +20,9 @@ cc) hazai vagy külföldi felsőoktatási intézményben olyan szakképesítést
 
 cd) valamely fegyveres szervnél szerződéses szolgálatot teljesít és szolgálati idejéből legalább egy év eltelt, továbbá rendelkezik a beosztás betöltéséhez szükséges szakképesítéssel és felsőfokú végzettséggel, vagy
 
-ce) fegyveres szervnél korábban hivatásos szolgálatot teljesített és a tiszti beosztás ellátásához szükséges képesítéssel, szakképzettséggel rendelkezik, és szolgálati viszonya nem a Hszt. 53. § e), f) és g) pontjában, vagy 56. § (2) bekezdés b) pontjában meghatározott módon szűnt meg,
+ce)[^3] fegyveres szervnél korábban hivatásos szolgálatot teljesített és a tiszti beosztás ellátásához szükséges képesítéssel, szakképzettséggel rendelkezik, és nem áll a Hszt. 37/A. § (1) bekezdés g) pontjában szereplő korlátozás hatálya alatt,
 
 d) a miniszter előzetes engedélye alapján próbaidős rendőrként tiszthelyettesi beosztásba nevezhető ki, aki kinevezésével egyidejűleg a rendészeti szakközépiskolákban szervezett képzést megkezdi.
+
+[^2]: A 4. § a) pont ac) alpontja az 50/2012. (X. 11.) BM rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^3]: A 4. § c) pont ce) alpontja az 50/2012. (X. 11.) BM rendelet 7. § (4) bekezdése szerint módosított szöveg.
