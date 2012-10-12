@@ -10,7 +10,7 @@
 
 ## 4.1. megismerte a kérelmező által az Európai Mezőgazdasági Garancia Alapból a borászati gépek, technológiai berendezések beszerzéséhez a 2011. évtől igényelhető támogatásról szóló VM rendelet alapján benyújtandó kérelem tartalmát,
 
-## 4.2. a gép beszerzéséhez hozzájárul, és
+## 4.2.[^36] a gép üzemeltetéséhez hozzájárul, és
 
 ## 4.3. a kérelmező jogosult az ingatlant az üzemeltetési kötelezettség lejártáig használni;
 
@@ -30,10 +30,13 @@
 
 4. a tulajdonos nyilatkozata arról, hogy:
 
-4.1. a gép üzemeltetési helyének megváltoztatásához hozzájárul, és
+4.1.[^37] a gép üzemeltetéséhez hozzájárul, és
 
 4.2. a kérelmező jogosult az ingatlant az üzemeltetési kötelezettség lejártáig használni;
 
 5. keltezés, tulajdonos aláírása;
 
 6. tanúk adatai (név, lakóhely, aláírás).
+
+[^36]: A 3. melléklet 4.2. pontja a 108/2012. (X. 11.) VM rendelet 10. § c) pontja szerint módosított szöveg.
+[^37]: A 4. melléklet 4.1. pontja a 108/2012. (X. 11.) VM rendelet 10. § d) pontja szerint módosított szöveg.

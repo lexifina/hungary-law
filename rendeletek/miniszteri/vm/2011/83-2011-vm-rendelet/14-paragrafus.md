@@ -1,4 +1,4 @@
-## 13. § Hiányosan benyújtott támogatási kérelem esetében az MVH a kérelmezőt egy alkalommal hiánypótlásra szólítja fel.
+## 13. §
 
 ## 8. A támogatás kifizetése
 

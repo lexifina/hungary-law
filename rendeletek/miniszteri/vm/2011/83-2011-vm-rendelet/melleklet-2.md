@@ -24,4 +24,6 @@
 
 | 11. | Bor- és pezsgőtárolók (hordók, tartályok, erjesztőtartályok) | 6314 |
 
-2. melléklet a 83/2011. (VIII. 31.) VM rendelethez
+2. melléklet a 83/2011. (VIII. 31.) VM rendelethez[^35]
+
+[^35]: A 2. melléklet a 108/2012. (X. 11.) VM rendelet 9. §-ával megállapított szöveg.

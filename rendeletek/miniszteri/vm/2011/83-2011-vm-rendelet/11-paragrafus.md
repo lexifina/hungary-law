@@ -1,6 +1,6 @@
 ## 5. A gépcsere bejelentőlap benyújtása
 
-11. § (1) A gépcsere bejelentőlapot az MVH részére kell benyújtani legalább 8 munkanappal a gép tervezett cseréjének megkezdése előtt az MVH által rendszeresített és az MVH honlapján közzétett formanyomtatványon. A formanyomtatványon a kérelmezőnek meg kell adnia
+11. § (1)[^23] A gépcsere előzetes bejelentését az MVH részére kell megtenni a felmerült csereok bekövetkezésétől számított 30 napon belül, postai úton vagy telefax útján az MVH által rendszeresített és az MVH honlapján közzétett nyomtatványon. A nyomtatványon a kérelmező megadja
 
 a) a regisztrációs számát,
 
@@ -8,33 +8,19 @@ b) a támogatási határozat iratazonosítóját,
 
 c) az üzemeltetés helyét,
 
-d) a bejelentés típusát,
+d) a cserélni kívánt gép
 
-e) a cserélni kívánt gép
+da) számlájának sorszámát,
 
-ea) számlájának sorszámát,
+db) gépkatalógus szerinti azonosítóját,
 
-eb) gépkatalógus szerinti azonosítóját,
+dc) gyári számát, vagy egyedi azonosítóját,
 
-ec) gyári számát,
+dd) darabszámát,
 
-ed) darabszámát,
+e) a gép pótlásának határidejét,
 
-f) a beszerzett gép
-
-fa) számlájának sorszámát,
-
-fb) megnevezését,
-
-fc) gépkatalógus szerinti azonosítóját,
-
-fd) gyári számát,
-
-fe) darabszámát,
-
-ff) pótlásának határidejét,
-
-g) a gépcsere indoklását.
+f) a gépcsere okát, indoklását.
 
 (2) Gépcsere esetén az alábbi feltételek teljesülése szükséges
 
@@ -42,13 +28,45 @@ a) az új gép vásárlását kizárólag a jótállás alapján történő cser
 
 b) kizárólag a gép pótlásának időpontjáig 100%-ban kiegyenlített kiadások fogadhatók el a gépcsere igazolására, lízing konstrukcióval érintett számlák nem szolgálhatnak a gépcsere-elszámolás alapjául;
 
-c) az új gép vásárlásához kapcsolódó számla másolatán fel kell tüntetni a tétel vámtarifa számát vagy Kombinált Nómenklatúra-kódját, a regisztrációs számot, valamint azt, hogy a számlát a jelen rendelet szerinti támogatás igénybevétele céljából nyújtják be;
+c)[^24] az új gép vásárlásához kapcsolódó számla vevőpéldányán fel kell tüntetni a tétel vámtarifa számát vagy Kombinált Nómenklatúra-kódját, a regisztrációs számot, valamint azt, hogy a számlát a jelen rendelet szerinti támogatás igénybevétele céljából nyújtják be;
 
-d) a kérelmezőnek rendelkeznie kell az új gép vásárlásához kapcsolódó számla teljesítésének időpontjában kezdődő termékfelelősségi, jótállási és szavatossági jogainak érvényesítéséhez szükséges okiratokkal;
+d)[^25] a kérelmezőnek rendelkeznie kell az új gép vásárlásához kapcsolódó számla teljesítésének időpontjában kezdődő jótállási jogának érvényesítéséhez szükséges okirattal;
 
-e)[^2] az új gép üzemeltetésének helye Magyarország területe.
+e)[^26] az új gép üzemeltetésének helye Magyarország területe.
 
-(3) A gépcsere bejelentőlaphoz csatolni kell
+(3)[^27] Az (1) bekezdés szerinti bejelentéskor a kérelmező a bejelentőlaphoz csatolja
+
+a) jótállás alapján történő cserebejelentés esetén a gyártó vagy forgalmazó által kiállított garanciális cseréről készített dokumentum másolatát;
+
+b) amortizáció esetén a tárgyi eszköz nyilvántartásból történő kivezetést igazoló számviteli kimutatás másolatát;
+
+c) lopás esetén a rendőrségi jegyzőkönyv másolatát;
+
+d) működésképtelenné vagy használhatatlanná válás esetén szakértői véleményt igazoló dokumentum vagy selejtezési jegyzőkönyv másolatát.
+
+(4)[^28] A gépcsere megvalósulását az MVH részére kell bejelenteni legkésőbb 5 nappal a gépcserét követően, kizárólag postai úton, az MVH által rendszeresített és az MVH honlapján közzétett nyomtatványon. A nyomtatványon a kérelmező megadja
+
+a) a regisztrációs számát;
+
+b) a támogatási határozat iratazonosítóját;
+
+c) az üzemeltetés helyét;
+
+d) a beszerzett gép
+
+da) számlájának sorszámát,
+
+db) megnevezését,
+
+dc) gépkatalógus szerinti azonosítóját,
+
+dd) gyári számát vagy egyedi azonosítóját,
+
+de) darabszámát,
+
+df) pótlásának időpontját.
+
+(5)[^29] A (4) bekezdés szerinti bejelentéskor a kérelmező a bejelentőlaphoz csatolja
 
 a) az új gép vásárlásához kapcsolódó
 
@@ -60,26 +78,26 @@ ac) számlák és azok kifizetését igazoló bizonylatok,
 
 ad) szállítólevelek
 
-másolatát,
+másolatát;
 
 b) az új gépre vonatkozó
 
-ba) hiánytalanul kitöltött tárgyi eszköz nyilvántartó lap és főkönyvi kivonat,
+ba) hiánytalanul kitöltött tárgyi eszköz nyilvántartó lap és főkönyvi kivonat, vagy naplófőkönyv, vagy pénztárkönyv, vagy bevétel és költség nyilvántartás,
 
-bb) termékfelelősségi, jótállási és szavatossági jogok érvényesítését igazoló okirat,
+bb) jótállási jog érvényeséséhez szükséges okirat,
 
 bc) gyártási időpontot igazoló dokumentum,
 
-bd) üzembe-helyezési jegyzőkönyv,
+bd) üzembe-helyezési jegyzőkönyv
 
-másolatát,
+másolatát;
 
-c) jótállás alapján történő cserebejelentés esetén a gyártó/forgalmazó által kiállított garanciális cseréről készített dokumentum másolatát,
+c) az angoltól különböző idegen nyelven kiállított bármilyen dokumentum esetében a szakfordítói vagy tolmácsigazolvánnyal rendelkező személy által készített hiteles magyar nyelvű fordítást, valamint a fordítást végző személy szakfordítói vagy tolmácsigazolványának másolatát.
 
-d) amortizáció esetén a készletnyilvántartásból történő kivezetést igazoló számviteli kimutatás másolatát,
-
-e) az eredeti gép ellopása esetén a rendőrségi jegyzőkönyv másolatát,
-
-f) működésképtelenné vagy használhatatlanná válás esetén szakértői véleményt igazoló dokumentum vagy selejtezési jegyzőkönyv másolatát.
-
-[^2]: A 11. § (2) bekezdés e) pontja az 5/2012. (II. 10.) VM rendelet 60. §-a szerint módosított szöveg.
+[^23]: A 11. § (1) bekezdése a 108/2012. (X. 11.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^24]: A 11. § (2) bekezdés c) pontja a 108/2012. (X. 11.) VM rendelet 10. § b) pontja szerint módosított szöveg.
+[^25]: A 11. § (2) bekezdés d) pontja a 108/2012. (X. 11.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^26]: A 11. § (2) bekezdés e) pontja az 5/2012. (II. 10.) VM rendelet 60. §-a szerint módosított szöveg.
+[^27]: A 11. § (3) bekezdése a 108/2012. (X. 11.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^28]: A 11. § (4) bekezdését a 108/2012. (X. 11.) VM rendelet 7. § (4) bekezdése iktatta be.
+[^29]: A 11. § (5) bekezdését a 108/2012. (X. 11.) VM rendelet 7. § (4) bekezdése iktatta be.
