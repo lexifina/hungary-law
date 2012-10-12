@@ -12,9 +12,9 @@ d) amelyeknek gyártásától a támogatási kérelem benyújtásáig 2 évnél 
 
 (2)[^167] A tárgyévre vonatkozó gépkatalógust az IH a VM, valamint az MVH hivatalos honlapján teszi közzé.
 
-(3)[^168] A közzétételt követően a gépkatalógusban nem szereplő gép, illetve technológiai berendezés felvétele céljából az IH által rendszeresített nyomtatványon az MVH Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerében szereplő, regisztrált forgalmazók javaslatot tehetnek a VM–MGI-hez.
+(3)[^168] A közzétételt követően a gépkatalógusban nem szereplő gép, illetve technológiai berendezés felvétele céljából az IH által rendszeresített nyomtatványon az MVH Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerében szereplő, regisztrált forgalmazók javaslatot tehetnek a VM MGI-hez.
 
-(4)[^169] A javaslatot a VM–MGI-hez kell benyújtani, amely azt szakvéleményével együtt 30 napon belül továbbítja az IH-hoz. Ezt követően az IH a javaslatról 30 napon belül dönt.
+(4)[^169] A javaslatot a VM MGI-hez kell benyújtani, amely azt szakvéleményével együtt 30 napon belül továbbítja az IH-hoz. Ezt követően az IH a javaslatról 30 napon belül dönt.
 
 (5) A gépkatalógusba olyan gép, illetve technológiai berendezés vehető fel, amely
 
@@ -47,8 +47,8 @@ c)[^176] az élelmiszeripari gépek és technológiai berendezések katalógusá
 (14)[^179] A (11) bekezdés rendelkezéseinek alkalmazása során az adott kiadási tételazonosítóhoz elszámolni kívánt tételek mennyisége nem térhet el a támogatási határozatban ugyanezen kiadási tételazonosítóhoz jóváhagyott mennyiségtől.
 
 [^167]: A 29. § (2) bekezdése a 124/2011. (XII. 21.) VM rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^168]: A 29. § (3) bekezdése a 124/2011. (XII. 21.) VM rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^169]: A 29. § (4) bekezdése a 124/2011. (XII. 21.) VM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^168]: A 29. § (3) bekezdése a 124/2011. (XII. 21.) VM rendelet 23. § (1) bekezdésével megállapított, a 106/2012. (X. 11.) VM rendelet 4. § d) pontja szerint módosított szöveg.
+[^169]: A 29. § (4) bekezdése a 124/2011. (XII. 21.) VM rendelet 23. § (1) bekezdésével megállapított, a 106/2012. (X. 11.) VM rendelet 4. § d) pontja szerint módosított szöveg.
 [^170]: A 29. § (6) bekezdése az 53/2008. (IV. 24.) FVM rendelet 17. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^171]: A 29. § (7) bekezdése a 124/2011. (XII. 21.) VM rendelet 23. § (2) bekezdésével megállapított szöveg.
 [^172]: A 29. § (8) bekezdése az 51/2009. (IV. 16.) FVM rendelet 18. § (1) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
