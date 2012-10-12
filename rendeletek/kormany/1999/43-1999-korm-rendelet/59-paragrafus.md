@@ -1,6 +1,6 @@
-59. §[^461] (1)[^462] Azon egészségügyi szolgáltató, amelynek legalább egy, a többi telephelyétől eltérő településen lévő telephelyén 2012. június 30-ával a szakmai minimumfeltételek szerinti sürgősségi ellátáshoz szükséges aktív fekvőbeteg-szakellátó tevékenysége vagy szakmája, szakmái megszűnnek, de a megszűnő szakmájában, szakmáiban az adott telephelyen járóbeteg-szakellátási tevékenységet végez és a biztosítottak számára folyamatosan rendelkezésre áll, a nyújtott ellátásért az R.-ben meghatározott fix összegű díjra jogosult a megállapított TVK-ján felül.
+59. §[^461] (1)[^462] Azon egészségügyi szolgáltató, amelynek a székhelyén vagy a telephelyén 2012. június 30-ával a szakmai minimumfeltételek szerinti sürgősségi ellátáshoz szükséges aktív fekvőbeteg-szakellátó tevékenysége vagy szakmája, szakmái megszűntek, de a megszűnő szakmájában, szakmáiban a székhelyén vagy az adott telephelyen járóbeteg-szakellátási tevékenységet végez, és a biztosítottak számára folyamatosan rendelkezésre áll az erre vonatkozó jogerős működési engedély szerint, az R.-ben meghatározott fix összegű díjra jogosult a megállapított TVK-ján felül, feltéve, hogy a szolgáltató a székhely vagy az adott telephely szerinti településen lévő másik telephelyén vagy székhelyén sem végez a megszűnő szakmában, szakmáiban aktív fekvőbeteg-szakellátó tevékenységet.
 
 (2) A 28. számú melléklet B. rész 1. pontjában meghatározott egészségügyi szolgáltatók TVK-ját növelni kell az ott meghatározott TVK mennyiséggel.
 
 [^461]: Az 59. §-t a 137/2012. (VI. 29.) Korm. rendelet 19. §-a iktatta be.
-[^462]: Az 59. § (1) bekezdése a 259/2012. (IX. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^462]: Az 59. § (1) bekezdése a 288/2012. (X. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
