@@ -54,6 +54,6 @@
 
 | 25. | 24 | 62,5 | 62,5 | 62,5 | 62,5 | 62,5 | 62,5 |
 
-4. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^285]
+4. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^286]
 
-[^285]: A 4. számú mellékletet a 333/2011. (XII. 29.) Korm. rendelet 27. § (2) bekezdése iktatta be, hatályon kívül helyezte a 219/2012. (VIII. 13.) Korm. rendelet 8. § b) pontja.
+[^286]: A 4. számú mellékletet a 333/2011. (XII. 29.) Korm. rendelet 27. § (2) bekezdése iktatta be, hatályon kívül helyezte a 219/2012. (VIII. 13.) Korm. rendelet 8. § b) pontja.
