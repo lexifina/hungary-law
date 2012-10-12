@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-13-20-0
 | 2009-10-01 | 1996-13-20-0A.9 | 13/1996. (VI. 28.) BM rendelet |
 | 2010-03-03 | 1996-13-20-0A.10 | 50/2005. (X. 31.) BM rendelet |
 | 2011-01-01 | 1996-13-20-0A.11 | 13/2010. (XII. 28.) BM rendelet |
+| 2012-10-12 | 1996-13-20-0A.12 | 50/2012. (X. 11.) BM rendelet |

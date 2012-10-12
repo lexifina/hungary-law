@@ -1,27 +1,28 @@
-## 4. §[^16] A vízirendészeti feladatokat ellátó rendőri szerveknek hajózási baleset, tűzeset, zátonyra futás, lékesedés, süllyedés vagy más káreset észlelése esetén segítséget kell nyújtani a kár elhárítása, a sérült személyek orvosi ellátása, a veszélyhelyzetben levő személyek mentése, valamint a hajóút felszabadítása érdekében.
+## 4. §[^18] A vízirendészeti feladatokat ellátó rendőri szerveknek vízi közlekedési baleset esetében segítséget kell nyújtani a kár elhárítása, a sérült személyek orvosi ellátása, a veszélyhelyzetben levő személyek mentése, valamint a hajóút felszabadítása érdekében.
 
-5. § (1)[^17] A nemzetközi forgalomban közlekedő hajók ellenőrzését a nemzetközi forgalom számára nyitva álló határátkelőhelyek kikötőiben kell lefolytatni közösen a Vám- és Pénzügyőrséggel.
+5. §[^19] (1) A nemzetközi forgalomban közlekedő hajók ellenőrzését – a (3) bekezdésben foglaltak kivételével – a nemzetközi forgalom számára nyitva álló határátkelőhelyek kikötőiben kell lefolytatni közösen a Nemzeti Adó- és Vámhivatallal.
 
-(2)[^18]
+(2) A nemzetközi forgalomban közlekedő hajók közös ellenőrzésében szükség szerint a hivatásos katasztrófavédelmi szerv is részt vehet.
 
-(3)[^19] Nem kell hajóellenőrzést végrehajtani azokon a géphajókon, amelyek érkezésüket követően a már korábban kiléptetett hajókkal indulnak vissza, és más kereskedelmi tevékenységet nem végeznek. Az üzemanyag és a víz vételezése nem minősül kereskedelmi tevékenységnek.
+(3) A vízirendészeti szervek önállóan vagy a (1) és (2) bekezdésben említett szervekkel közösen a schengeni külső vízi határátkelőhely és a schengeni belső határ között a nemzetközi forgalomban résztvevő, menetben lévő hajókat – haladásának jelentős korlátozása nélkül – két kikötő között, illetve veszteglő hajókat a cél-, illetve indulókikötőben és a veszteglőhelyen is ellenőrizhetik.
 
-(4)[^20] A víziközlekedés rendjéről szóló 39/2003. (VI. 13.) GKM rendelet mellékleteként kiadott Hajózási Szabályzat (a továbbiakban: HSZ) I. része 1.19 cikke alapján az úszólétesítmény ellenőrzését végző rendőr megtiltja az indulást, ha
+(4) Nem kell hajóellenőrzést végrehajtani azokon a géphajókon, amelyek érkezésüket követően a már korábban kiléptetett hajókkal indulnak vissza, és más kereskedelmi tevékenységet nem végeznek. Az üzemanyag és a víz vételezése nem minősül kereskedelmi tevékenységnek.
 
-a)[^21] az nem rendelkezik az üzemképességet igazoló okmánnyal, illetve a hajózásra jogosító nemzeti okmánnyal, vagy ha ezek az okmányok hatálytalanok;
+(5) A víziközlekedés rendjéről szóló 57/2011. (XI. 22.) NFM rendelet mellékleteként kiadott Hajózási Szabályzat (a továbbiakban: HSZ) I. része 1.20 cikk 2. pontja alapján az úszólétesítmény ellenőrzését végző rendőr megtilthatja az indulást, ha:
 
-b) az nem felel meg a HSZ I. része 1.07 cikkében foglalt rendelkezéseknek;
+a) a hajó nem rendelkezik hajóbizonyítvánnyal, illetve nemzeti üzemképességi bizonyítvánnyal, vagy ha ezek az okmányok lejártak;
 
-c) annak személyzete vagy a felszerelése nem felel meg a HSZ I. része 1.08 cikkében foglalt rendelkezéseknek;
+b) a hajó nem felel meg az 1.07 cikkben foglalt rendelkezéseknek;
 
-d) annak vezetője, illetve a személyzet szolgálatban lévő tagjai nem felelnek meg a HSZ I., illetve II. része 1.03 cikkében foglalt alkalmassági, továbbá a szolgálati és a pihenőidőre vonatkozó feltételeknek.
+c) a hajó vagy személyzete nem felel meg az 1.08 cikkben foglalt rendelkezéseknek;
 
-(5)[^22] Az úszólétesítmény elindulásának megtiltása esetén annak üzemképességét igazoló okmányát el kell venni, s azt csak az elindulás megtiltására okot adó körülmény megszűnése után kell visszaadni. Az okmány elvételéről a vízijármű azonosító adatait is tartalmazó átvételi elismervényt kell kiállítani. A rendőrhatóság az elvett okmányt a vízijármű vezetőjének nyilatkozata alapján megküldi a hajózási hatóságnak. Az átvételi elismervény birtokában a legközelebbi kikötőig, vagy az állandó, illetve bérelt veszteglőhelyig lehet közlekedni.
+d) a hajó vezetőjének vagy a személyzet szolgálatban lévő tagjainak munkavégzésre való alkalmassága fáradtságuk vagy bódultságuk miatt csökkent mértékű.
 
-[^16]: A 4. §-ból "a hajó és rakománya biztonságba helyezés" szövegrészt a 28/1997. (IV. 15.) BM rendelet 8. §-a hatályon kívül helyezte.
-[^17]: Az 5. § (1) bekezdése a 8/2008. (IV. 22.) IRM rendelet 2. § (15) bekezdésével megállapított, valamint a 41/2009. (IX. 15.) IRM rendelet 8. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^18]: Az 5. § (2) bekezdését a 8/2008. (IV. 22.) IRM rendelet 3. § 16. pontja hatályon kívül helyezte.
-[^19]: Az 5. § (3) bekezdésének utolsó mondata a 28/1997. (IV. 15.) BM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
-[^20]: Az 5. § (4) bekezdése az 58/2004. (X. 11.) BM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
-[^21]: Az 5. § (4) bekezdésének a) pontja a 41/2009. (IX. 15.) IRM rendelet 8. §-a szerint módosított szöveg. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^22]: Az 5. § (5) bekezdése az 58/2004. (X. 11.) BM rendelet 3. §-ának (2) bekezdésével megállapított, valamint a 41/2009. (IX. 15.) IRM rendelet 8. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+(6) A hajóútban, a kikötőben, illetőleg ezek létesítményeiben, a környezetben, továbbá más úszólétesítményekben okozott kár, továbbá testi sérüléssel vagy halállal járó baleset, valamint a hajózás biztonságának veszélyeztetése esetén, a felelősség tisztázása érdekében az eseményben résztvevő úszólétesítményt a rendőr feltartóztathatja.
+
+(7) Az úszólétesítmény elindulásának megtiltása esetén annak üzemképességét igazoló okmányát el kell venni, amit az elindulás megtiltására okot adó körülmény 48 órán belül történő megszűnése esetén kell visszaadni. Az okmány elvételéről a vízi jármű azonosító adatait is tartalmazó átvételi elismervényt kell kiállítani. A rendőrhatóság az elvett okmányt a vízi jármű vezetőjének nyilatkozata alapján megküldi a hajózási hatóságnak, amennyiben az elindulás megtiltására okot adó körülmény 48 órán belül nem szüntethető meg. Az átvételi elismervény birtokában a legközelebbi kikötőig, vagy az állandó, illetve bérelt veszteglőhelyig lehet közlekedni.
+
+(8) A veszélyes árut szállító külföldi úszólétesítmény csak akkor léptethető be, ha a hivatásos katasztrófavédelmi szerv ellenőrzése során szabálytalanságot nem állapított meg.
+
+[^18]: A 4. § az 50/2012. (X. 11.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^19]: Az 5. § az 50/2012. (X. 11.) BM rendelet 1. § (4) bekezdésével megállapított szöveg.
