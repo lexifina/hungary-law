@@ -1,6 +1,6 @@
 ## Az engedélykérelmek elbírálásakor alkalmazandó egységes magatartási kritériumok
 
-## 1.[^15] Első kritérium: a tagországok nemzetközi kötelezettségeinek és kötelezettségvállalásainak tiszteletben tartása.
+## 1.[^16] Első kritérium: a tagországok nemzetközi kötelezettségeinek és kötelezettségvállalásainak tiszteletben tartása.
 
 ## A kiviteli engedély iránti kérelmet el kell utasítani, ha az engedély megadása összeegyeztethetetlen Magyarországnak:
 
@@ -82,4 +82,4 @@
 
 3. melléklet a 160/2011. (VIII. 18.) Korm. rendelethez
 
-[^15]: A 2. melléklet 1. pontja a 144/2012. (VII. 3.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^16]: A 2. melléklet 1. pontja a 144/2012. (VII. 3.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
