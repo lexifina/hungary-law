@@ -31,6 +31,6 @@ c) a (2) bekezdés d) és e) pontjában meghatározottakról.
 (5)[^7] A nyomozó hatóság, a nemzetbiztonsági szolgálat, illetve az NVSZ köteles megküldeni a Központnak a szervezett bűnözésről készített értékelő jelentések, tájékoztatók másolatának vagy kivonatának egy példányát.
 
 [^4]: A 13. § (2) bekezdésének bevezető szövegrésze a 331/2007. (XII. 13.) Korm. rendelet 3. § 32. pontja szerint módosított szöveg.
-[^5]: A 13. § (3) bekezdés nyitó szövegrésze a 293/2010. (XII. 22.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. § (2)–(4) bekezdését.
+[^5]: A 13. § (3) bekezdés nyitó szövegrésze a 293/2010. (XII. 22.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. § (2)–(4) bekezdését. [A 286/2012. (X. 11.) Korm. rendelet 4. §-ával elrendelt módosítás, amely szerint az „a Katonai Nemzetbiztonsági Hivatal és a Katonai Felderítő Hivatal” szövegrész helyébe az „és a Katonai Nemzetbiztonsági Szolgálat” szöveg lép, nem vezethető át.]
 [^6]: A 13. § (4) bekezdése a 293/2010. (XII. 22.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. § (2)–(4) bekezdését.
 [^7]: A 13. § (5) bekezdése a 293/2010. (XII. 22.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. § (2)–(4) bekezdését.
