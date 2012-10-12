@@ -1,0 +1,1 @@
+## „(4) Az eszköz forgalomba hozatalával vagy használatba vételével kapcsolatos rendelkezések betartását, valamint a forgalomban lévő vagy használatba adott eszközre vonatkozó előírások teljesülését a Hivatal piacfelügyeleti eljárása során ellenőrizheti.”
