@@ -1,1 +1,0 @@
-## „(1a) A 2. melléklet 16. pont b)–e) alpontjában meghatározott díjakat a kérelem benyújtásával egyidejűleg kell a Vasútegészségügyi Szolgáltató Nonprofit Kiemelten Közhasznú Korlátolt Felelősségű Társaság Magyar Államkincstárnál vezetett 10032000-00286325-00000017 számú számlájára befizetni.”
