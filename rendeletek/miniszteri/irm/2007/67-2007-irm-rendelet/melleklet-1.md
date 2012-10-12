@@ -1,4 +1,4 @@
-1. melléklet a 67/2007. (XII. 28.) IRM rendelethez[^6]
+1. melléklet a 67/2007. (XII. 28.) IRM rendelethez[^7]
 
 1. BARANYA MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
@@ -7418,4 +7418,4 @@
 
 21.1.4. Ferihegy–2/B terminál légi határátkelőhely
 
-[^6]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított, a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése, a 23/2011. (VII. 21.) BM rendelet 6. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított, a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése, a 23/2011. (VII. 21.) BM rendelet 6. §-a szerint módosított szöveg.
