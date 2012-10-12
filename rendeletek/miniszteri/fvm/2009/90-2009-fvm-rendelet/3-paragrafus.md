@@ -1,6 +1,6 @@
-3. § (1)[^2] A szaktanácsadói engedély – beleértve a szaktanácsadó asszisztens és az erdészeti technikus szaktanácsadó tevékenységének engedélyezését is – iránti kérelmet az FVM VKSZI által az 1. számú melléklet szerinti adattartalommal rendszeresített, az FVM VKSZI honlapján közzétett formanyomtatványon, postai vagy elektronikus úton, egy példányban kell benyújtani az FVM VKSZI-hez.
+3. § (1)[^6] A szaktanácsadói engedély – beleértve a szaktanácsadó asszisztens és az erdészeti technikus szaktanácsadó tevékenységének engedélyezését is – iránti kérelmet a NAKVI által az 1. számú melléklet szerinti adattartalommal rendszeresített, a NAKVI honlapján közzétett formanyomtatványon, postai vagy elektronikus úton, egy példányban kell benyújtani a NAKVI-hoz.
 
-(2) A szaktanácsadói engedély iránti kérelmet az FVM VKSZI-nek címezve egy példányban kell benyújtani.
+(2)[^7] A szaktanácsadói engedély iránti kérelmet a NAKVI-nak címezve egy példányban kell benyújtani.
 
 (3) A szaktanácsadói engedélyre az a természetes személy nyújthat be kérelmet, aki
 
@@ -28,16 +28,21 @@ c) 10. állatorvoslás, állategészségügy szakterületre állatorvosi végzet
 
 d) 8. növényvédelem szakterületre csak a Magyar Növényvédő Mérnöki és Növényorvosi Kamara tagja kérheti felvételét,
 
-e) 12. munkabiztonság szakterületre szakirányú továbbképzésben, vagy szakosító továbbképzésben munkavédelmi szakon oklevelet szerzett szakember kérheti felvételét, vagy az a más szakterületre már szaktanácsadói engedéllyel rendelkező szaktanácsadó, aki az FVM VKSZI által munkabiztonság témakörben szervezett képzési programon részt vett, és e szakterületből eredményes vizsgát tett,
+e)[^8] 12. munkabiztonság szakterületre szakirányú továbbképzésben, vagy szakosító továbbképzésben munkavédelmi szakon oklevelet szerzett szakember kérheti felvételét, vagy az a más szakterületre már szaktanácsadói engedéllyel rendelkező szaktanácsadó, aki a NAKVI által munkabiztonság témakörben szervezett képzési programon részt vett, és e szakterületből eredményes vizsgát tett,
 
 f) a (3) bekezdés d) pontjában foglaltaktól eltérően, a 13. földügyek szakterületre csak az kérheti felvételét, aki legalább 5 évet a földügyi igazgatásban – igazoltan a megjelölt szakterületen – töltött,
 
-g) 16. biomassza szakterületre az a személy kérheti felvételét, aki a szakterülethez kapcsolódó – oklevéllel tanúsított – egyetemi, vagy főiskolai, vagy ezzel egyenértékű mesterképzésben (MSc), alapképzésben (BSc) vagy továbbképzésben szerzett végzettséggel rendelkezik, vagy az a szaktanácsadó, aki az 1. növénytermesztés, 3. kertészet vagy 4. erdő- és fagazdálkodás szakterület valamelyikére már szaktanácsadói engedéllyel rendelkezik, és az FVM VKSZI által – biomassza témakörben – szervezett képzési programon részt vett, és a szakterületből eredményes vizsgát tett,
+g)[^9] 16. biomassza szakterületre az a személy kérheti felvételét, aki a szakterülethez kapcsolódó – oklevéllel tanúsított – egyetemi, vagy főiskolai, vagy ezzel egyenértékű mesterképzésben (MSc), alapképzésben (BSc) vagy továbbképzésben szerzett végzettséggel rendelkezik, vagy az a szaktanácsadó, aki az 1. növénytermesztés, 3. kertészet vagy 4. erdő- és fagazdálkodás szakterület valamelyikére már szaktanácsadói engedéllyel rendelkezik, és a NAKVI által – biomassza témakörben – szervezett képzési programon részt vett, és a szakterületből eredményes vizsgát tett,
 
-h) 22. támogatási programokhoz kapcsolódó tanácsadás szakterületen belül a 22.1–22.5. szakterületekre csak az kérheti felvételét, aki részt vett az FVM VKSZI által szervezett képzésen, és a választott szakterületből eredményes vizsgát tett.
+h)[^10] 22. támogatási programokhoz kapcsolódó tanácsadás szakterületen belül a 22.1–22.5. szakterületekre csak az kérheti felvételét, aki részt vett a NAKVI által szervezett képzésen, és a választott szakterületből eredményes vizsgát tett.
 
 (5) A 23.1–23.7 szakterületekre vonatkozóan az a szaktanácsadó jogosult szaktanácsot nyújtani, aki az 1–21. szakterület valamelyikére már szaktanácsadói engedéllyel rendelkezik, és a 4. számú melléklet szerint ahhoz kapcsolódó 23.1–23.7. kölcsönös megfeleltetési szakterület ismereteiből eredményes vizsgát tett.
 
-(6) A 6. számú mellékletben nem szereplő felsőfokú végzettség elfogadásáról a képzés szakmai tartalmának vizsgálata alapján az FVM VKSZI dönt.
+(6)[^11] A 6. számú mellékletben nem szereplő felsőfokú végzettség elfogadásáról a képzés szakmai tartalmának vizsgálata alapján a NAKVI dönt.
 
-[^2]: A 3. § (1) bekezdése a 23/2010. (III. 16.) FVM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (1) bekezdése a 23/2010. (III. 16.) FVM rendelet 19. § (1) bekezdésével megállapított, a 106/2012. (X. 11.) VM rendelet 9. § b)–c) pontja szerint módosított szöveg.
+[^7]: A 3. § (2) bekezdése a 106/2012. (X. 11.) VM rendelet 9. § d) pontja szerint módosított szöveg.
+[^8]: A 3. § (4) bekezdés e) pontja a 106/2012. (X. 11.) VM rendelet 9. § b) pontja szerint módosított szöveg.
+[^9]: A 3. § (4) bekezdés g) pontja a 106/2012. (X. 11.) VM rendelet 9. § b) pontja szerint módosított szöveg.
+[^10]: A 3. § (4) bekezdés h) pontja a 106/2012. (X. 11.) VM rendelet 9. § b) pontja szerint módosított szöveg.
+[^11]: A 3. § (6) bekezdése a 106/2012. (X. 11.) VM rendelet 9. § b) pontja szerint módosított szöveg.

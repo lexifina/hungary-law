@@ -1,6 +1,6 @@
 ## 7. § A szaktanácsadó jogosult a Területi Szaktanácsadási Központ szaktanácsadási szolgáltatását igazoló dokumentum aláírására.
 
-8. § (1) Az e rendeletben foglaltaknak a szaktanácsadó által történő betartását az FVM VKSZI ellenőrzi.
+8. § (1)[^18] Az e rendeletben foglaltaknak a szaktanácsadó által történő betartását a NAKVI ellenőrzi.
 
 (2) Vissza kell vonni a szaktanácsadói engedélyt, ha a szaktanácsadó
 
@@ -19,3 +19,5 @@ d) szaktanácsadói tevékenységével összefüggésben szabálysértést vagy 
 (5) A (4) bekezdés szerinti felfüggesztési ok három évnél hosszabb ideig történő fennállása esetén a felfüggesztést a szaktanácsadó kérelmére egy alkalommal újabb három évre meg kell hosszabbítani. A felfüggesztés határidejének lejártával a szaktanácsadó engedélye visszavonásra kerül, amennyiben azt megelőzően nem kérte felfüggesztésének feloldását, vagy meghosszabbítását.
 
 (6) A szaktanácsadó köteles a szaktanácsadói engedélyének felfüggesztését kérelmezni arra az időtartamra vonatkozóan, amíg a munkavégzésre irányuló jogviszonyából származó jövedelmének forrása az agrárgazdaság területén térítésmentes tanácsadási tevékenység folytatásához biztosított közpénzből származik.
+
+[^18]: A 8. § (1) bekezdése a 106/2012. (X. 11.) VM rendelet 9. § b) pontja szerint módosított szöveg.
