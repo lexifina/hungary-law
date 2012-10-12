@@ -16,7 +16,7 @@ f) évente elfogadásra előterjeszti az IH vezetőjének az Elnökség által k
 
 g) javaslatot tesz az IH vezetőjének az MNVH-ba regisztráltak és a résztvevők részére nyújtandó szolgáltatások körére, valamint az MNVH éves költségvetésére,
 
-h) a VM VKSZI vezetőjével egyeztetve kialakítja az Állandó Titkárság szervezeti felépítését és személyi összetételét,
+h)[^5] a NAKVI vezetőjével egyeztetve kialakítja az Állandó Titkárság szervezeti felépítését és személyi összetételét,
 
 i) képviseli az MNVH-t a nemzetközi kapcsolatokban,
 
@@ -29,3 +29,5 @@ k) gondoskodik az MNVH képviseletéről EVH koordinációs bizottságának LEAD
 (3) A Főtitkár gondoskodik az MNVH szakmai munkáját segítő szakértők listájának elkészítéséről és frissítéséről.
 
 (4) A Főtitkárt a miniszter nevezi ki öt évre. A miniszter a Főtitkárt a kinevezésének időtartama alatt bármikor, indokolás nélkül visszahívhatja.
+
+[^5]: A 9. § (1) bekezdése a 106/2012. (X. 11.) VM rendelet 11. § b) pontja szerint módosított szöveg.
