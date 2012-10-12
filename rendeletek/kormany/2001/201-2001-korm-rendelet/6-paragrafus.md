@@ -12,17 +12,15 @@
 
 (5) Amennyiben az (1) és (4) bekezdések szerinti intézkedések a vízjogi engedélyezési kötelezettség alá tartozó vízellátó rendszereket érintik, az intézkedésekről az engedély kiadására illetékes és hatáskörrel rendelkező felügyelőséget is tájékoztatni kell.
 
-(6)[^37] Az üzemeltető a fogyasztókat és a helyi önkormányzato(ka)t, illetve a 178/2002/EK rendelet szerinti ivóvíz élelmiszer-vállalkozásoknál történő felhasználása esetén az élelmiszer-vállalkozást köteles haladéktalanul tájékoztatni a 3. §-ban meghatározott határértékek bármelyikének túllépéséről, illetve szennyezés veszélyével járó rendkívüli eseményről azon eseteket kivéve, ha illetékes népegészségügyi szervnek állásfoglalása szerint a határértékektől való eltérés elhanyagolható. A tájékoztatásnak ki kell terjednie a vízellátás korlátozásáról vagy betiltásáról, az átmeneti vízellátás módjáról és rendjéről, valamint a vízminőség-javításáról hozott intézkedésekre.
+(6)[^37] Az üzemeltető a fogyasztókat és a települési önkormányzato(ka)t, illetve a 178/2002/EK rendelet szerinti ivóvíz élelmiszer-vállalkozásoknál történő felhasználása esetén az élelmiszer-vállalkozást köteles haladéktalanul tájékoztatni a 3. §-ban meghatározott határértékek bármelyikének túllépéséről, illetve szennyezés veszélyével járó rendkívüli eseményről azon eseteket kivéve, ha illetékes népegészségügyi szervnek állásfoglalása szerint a határértékektől való eltérés elhanyagolható. A tájékoztatásnak ki kell terjednie a vízellátás korlátozásáról vagy betiltásáról, az átmeneti vízellátás módjáról és rendjéről, valamint a vízminőség-javításáról hozott intézkedésekre.
 
 (7)[^38] Amennyiben egy településen, vagy – ha meghatározható – településrészen a lakosság által fogyasztott ivóvíz nitrit- vagy nitráttartalma illetékes népegészségügyi szervnek megállapítása szerint meghaladja az 1. számú melléklet B) táblázatában megadott határértéket, mindaddig gondoskodni kell az érintett területen lakó egy évnél fiatalabb csecsemők és a várandós anyák (8) bekezdés szerinti ivóvízellátásáról, amíg illetékes népegészségügyi szerv ezt előírja.
 
-(8) Ha a (4) bekezdés szerint a víz ivásra, főzésre való felhasználását meg kell tiltani, az üzemeltető köteles az érintettek számára ivóvizet biztosítani
+(8)[^39] Ha a (4) bekezdés szerint a víz ivásra, főzésre való felhasználását meg kell tiltani, az üzemeltető köteles az érintettek számára 3 liter/fő/nap ivóvizet biztosítani. Az ivóvizet az érintettek számára – a helyi földrajzi sajátosságokra is figyelemmel – az érintett lakóépületekből megközelíthető helyen, az érintett lakosok számára reálisan elérhető távolságban kell biztosítani.
 
-a) palackos (tasakos stb.) ellátás esetén legalább 3 liter/fő/nap,
+(9)[^40] A (8) bekezdés szerinti vízszolgáltatás költségét a települési önkormányzat viseli, amennyiben az (5) bekezdés szerinti intézkedésre nem az üzemeltető jogellenes magatartása következtében került sor.
 
-b) egyéb (pl. tartálykocsis) ellátás esetében 5 liter/fő/nap mennyiségben, a lakóépülettől számított 300 m-en belül.
-
-(9) A (8) bekezdés szerinti vízszolgáltatás költségét a helyi önkormányzat viseli, amennyiben az (5) bekezdés szerinti intézkedésre nem az üzemeltető jogellenes magatartása következtében került sor.
+(9a)[^41] A (9) bekezdésben foglaltaktól eltérően, amennyiben az arra kötelezett az átmeneti ivóvízellátásról – annak kiszállítással történő biztosításának kiváltása érdekében – átmeneti jelleggel telepített szűrőberendezéssel gondoskodik, az átmeneti ivóvízellátáshoz szükséges berendezések üzemeltetésének önköltségi áron számított kiadásait a víziközmű tulajdonosa viseli. A víziközmű tulajdonosa e kiadásait a fogyasztóra nem háríthatja át.
 
 (10) Ha a vízszolgáltatás – a (4) bekezdésben foglaltakon kívüli okból – az üzemeltető által 6 óra időtartamot meghaladó előre tervezett leállítására kerül sor, az üzemeltető saját költségén – a külön jogszabályban meghatározottak szerint – köteles ivóvizet biztosítani.
 
@@ -35,5 +33,8 @@ b) egyéb (pl. tartálykocsis) ellátás esetében 5 liter/fő/nap mennyiségben
 [^34]: A 6. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 84. § (10) bekezdésével megállapított szöveg.
 [^35]: A 6. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 237. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^36]: A 6. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 84. § (11) bekezdésével megállapított szöveg.
-[^37]: A 6. § (6) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 86. §-a szerint módosított szöveg.
+[^37]: A 6. § (6) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 86. §-a, a 288/2012. (X. 11.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
 [^38]: A 6. § (7) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 86. §-a szerint módosított szöveg.
+[^39]: A 6. § (8) bekezdése a 288/2012. (X. 11.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^40]: A 6. § (9) bekezdése a 288/2012. (X. 11.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^41]: A 6. § (9a) bekezdését a 288/2012. (X. 11.) Korm. rendelet 3. § (2) bekezdése iktatta be.
