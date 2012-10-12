@@ -10,6 +10,8 @@ b) járművel, a biztonságos munkavégzés kivételével;
 
 c) kikötők és veszteglőhelyek területén;
 
-d) folyóvizeken.
+d)[^4] folyóvizeken és azok mellékágain.
 
 (4) A (2) és (3) bekezdésben meghatározott feltételek és tilalmak nem vonatkoznak a folyókon kialakult jégtorlaszok megbontását – jégkár megelőzése vagy elhárítása céljából – végző szakszemélyzet tevékenységére.
+
+[^4]: Az 5. § (3) bekezdés d) pontja az 50/2012. (X. 11.) BM rendelet 3. § (3) bekezdésével megállapított szöveg.

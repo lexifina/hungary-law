@@ -6,7 +6,7 @@ b) hajóutat és hajózási akadályt jelző bóják, nagyhajók, úszó munkag�
 
 c) vízlépcsők és vízi munkák 300 méteres, hidak, vízkivételi művek, egyéb vízi műtárgyak, komp- és révátkelőhelyek 100 méteres körzetében;
 
-d) kikötők, veszteglő- és rakodóhelyek, kijelölt zárt vízisí és vízirobogó (jet ski), valamint egyéb motoros vízi sporteszköz közlekedésére szolgáló pályák, hajóállomások területén;
+d)[^2] kikötők, úszóműves kikötőhelyek, úszóműállások, hajóhidak, veszteglőhelyek, vízisportpályák, vízi repülőterek és hajókiemelő berendezések területén és 100 méteres körzetében;
 
 e) egészségre ártalmas vizekben;
 
@@ -19,3 +19,5 @@ h) éjszaka és korlátozott látási viszonyok között, kivéve ha a vízfelü
 i) ahol azt tiltó tábla jelzi.
 
 (2) A fürdési tilalmat 60 X 30 cm méretű fehér alapú kék hullámzó vízen fekete felsőtestet ábrázoló és átlósan 3 cm széles piros csíkkal áthúzott táblával kell jelölni. A táblán kék mezőben fehér színű nyíllal és a távolság (méter, kilométer) feltüntetésével kell jelölni a tiltott terület hosszát és irányát. A tiltó táblákat a tiltási határon is el kell helyezni.
+
+[^2]: A 2. § (1) bekezdés d) pontja az 50/2012. (X. 11.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
