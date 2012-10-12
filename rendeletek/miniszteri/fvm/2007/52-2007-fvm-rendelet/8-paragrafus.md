@@ -22,7 +22,7 @@ bb) április 1–30.,
 
 bc) október 1–31.
 
-között gyűjti be.
+## között gyűjti be.
 
 (3)[^36] Az ügyfélnek minden naptári évben legfeljebb két kifizetési kérelme támogatható.
 

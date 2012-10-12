@@ -8,7 +8,7 @@ b) az erdőgazdálkodó,
 
 c) a kertészeti termelő
 
-[a továbbiakban az a)–c) pontok együtt: ügyfél], ha a TSzK-val a 3. § szerinti célterületekre szolgáltatói szerződést köt, amelynek teljesítési határideje a naptári évet követő év április 30-nál nem későbbi időpontra köthető ki, illetve módosítható. A naptári éven túli határidő módosítás esetén az ügyfél a következő naptári évre szóló szerződése alapján csak akkor jogosult támogatásra, ha annak hatálybalépése nem korábbi, mint az előző naptári évre szóló szerződés teljesítési határideje.
+## [a továbbiakban az a)–c) pontok együtt: ügyfél], ha a TSzK-val a 3. § szerinti célterületekre szolgáltatói szerződést köt, amelynek teljesítési határideje a naptári évet követő év április 30-nál nem későbbi időpontra köthető ki, illetve módosítható. A naptári éven túli határidő módosítás esetén az ügyfél a következő naptári évre szóló szerződése alapján csak akkor jogosult támogatásra, ha annak hatálybalépése nem korábbi, mint az előző naptári évre szóló szerződés teljesítési határideje.
 
 (2)[^15] Az ügyfél – további jogosultsági feltételként – a szaktanácsadási szolgáltatáshoz kapcsolódó támogatást csak abban az esetben veheti igénybe, ha nem minősül bejegyzett szaktanácsadónak, nem TSzK, és
 

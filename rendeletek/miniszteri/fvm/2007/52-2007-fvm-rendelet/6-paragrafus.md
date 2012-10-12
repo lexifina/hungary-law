@@ -8,7 +8,7 @@ b) május 1-jétől 31-ig,
 
 c) szeptember 8-tól október 8-ig
 
-gyűjti be.
+## gyűjti be.
 
 (2) A TSzK a vele szolgáltatási szerződést kötött ügyfelek támogatási kérelmeit összesítve nyújtja be a TSzK székhelye szerint területileg illetékes Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) kirendeltséghez.
 
@@ -20,7 +20,7 @@ gyűjti be.
 
 (6)[^24] A TSzK az összesített támogatási kérelmeket az (1) bekezdésben megjelölt határidő lejártát követő 15 napon belül benyújtja az MVH részére. A TSzK az összesített támogatási kérelmek MVH részére történő benyújtásáért teljes körű anyagi felelősséggel tartozik.
 
-(7)[^25] A TSzK kvótájának mennyiségét a VM Vidékfejlesztési, Képzési és Szaktanácsadási Intézet (a továbbiakban: VM VKSZI) tartja nyilván, a TSzK-k által elektronikusan megküldött adatok alapján.
+(7)[^25] A TSzK kvótájának mennyiségét a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) tartja nyilván, a TSzK-k által elektronikusan megküldött adatok alapján.
 
 (8)[^26] A szerződésben foglalt szolgáltatásokat a TSzK a szolgáltatási szerződés hatálybalépésének időpontjától megkezdheti, és legkésőbb a szerződés lejártáig köteles teljesíteni.
 
@@ -38,7 +38,7 @@ gyűjti be.
 [^22]: A 6. § (3) bekezdése a 90/2007. (VIII. 23.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^23]: A 6. § (4) bekezdése a 96/2008. (VII. 25.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^24]: A 6. § (6) bekezdése a 168/2009. (XII. 15.) FVM rendelet 3. § (1) bekezdésével megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (15) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^25]: A 6. § (7) bekezdése a 91/2011. (X. 3.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^25]: A 6. § (7) bekezdése a 91/2011. (X. 3.) VM rendelet 4. § (1) bekezdésével megállapított, a 106/2012. (X. 11.) VM rendelet 5. § a) pontja szerint módosított szöveg.
 [^26]: A 6. § (8) bekezdését a 103/2007. (IX. 21.) FVM rendelet 3. §-a iktatta be, szövege a 96/2008. (VII. 25.) FVM rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^27]: A 6. § (9)–(10) bekezdését a 151/2007. (XII. 18.) FVM rendelet 3. §-a iktatta be, hatályon kívül helyezte a 91/2011. (X. 3.) VM rendelet 12. § c) pontja.
 [^28]: A 6. § (11) bekezdését a 96/2008. (VII. 25.) FVM rendelet 4. § (4) bekezdése iktatta be, szövege a 168/2009. (XII. 15.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
