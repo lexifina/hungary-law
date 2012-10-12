@@ -1642,7 +1642,7 @@ e) a gép meghibásodása után a munka csak abban az esetben folytatható, ha a
 
 8.4. Jegyzék azokról a mezőgazdasági és erdészeti gépekről, amelyek kezeléséhez gépkezelői jogosítvány szükséges[^7]
 
-a) Mezőgazdasági gépek
+a)[^8] Mezőgazdasági gépek
 
 | Sz. | A gép megnevezése | VTSZ szám | A jogosítvány megszerzéséhez előírt szakképesítés* | Szakmai végzettség(ek), amely alapján a jogositványt – kérelemre – ki kell adni* |
 
@@ -1666,7 +1666,7 @@ a) Mezőgazdasági gépek
 
 | 8. | Mezőgazdasági rakodógép | 8428.90.71 | Mezőgazdasági gépkezelő (Mező- és erdőgazdasági rakodógép) | 31 6280 10 | Okleveles mezőgazdasági gépészmérnök, Mezőgazdasági gépészmérnök, Okleveles erdőmérnök, Erdőmérnök, Mezőgazdasági gépésztechnikus, Erdészeti gépésztechnikus, Mezőgazdasági gépész, Erdészeti gépész, Növénytermesztő gépész, Állattartó-telepi gépész. |
 
-* A gépkezelői jogosítványt korábban megszerzett – egyenértékű – szakképesítés alapján is ki kell adni. Adott szakképesítés egyenértékűsége tekintetében – vitás esetben – a KSZI köteles állásfoglalást kérni az FVM illetékes szervezeti egységétől.
+* A gépkezelői jogosítványt korábban megszerzett – egyenértékű – szakképesítés alapján is ki kell adni. Adott szakképesítés egyenértékűsége tekintetében – vitás esetben – a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet köteles állásfoglalást kérni a Vidékfejlesztési Minisztériumtól.
 
 [^1]: A melléklet 4.22.4. pontja a 72/2006. (X. 13.) FVM rendelet 1. §-ával megállapított szöveg.
 [^2]: A melléklet 8.1.70. pontját a 72/2006. (X. 13.) FVM rendelet 1. §-a iktatta be.
@@ -1675,3 +1675,4 @@ a) Mezőgazdasági gépek
 [^5]: A Magyar Közlöny 2001. évi 102. számában megjelent helyesbítésnek megfelelő szöveg.
 [^6]: A Magyar Közlöny 2001. évi 102. számában megjelent helyesbítésnek megfelelő szöveg.
 [^7]: A melléklet 8. függelékének 8.4. pontja a 83/2003. (VII. 16.) FVM rendelet 9. §-ának (3) bekezdésével megállapított szöveg.
+[^8]: A melléklet 8. függelékek 8.4. pont a) alpontja a 106/2012. (X. 11.) VM rendelet 2. §-a szerint módosított szöveg.
