@@ -16,7 +16,7 @@
 
 | 23.7 | Helyes Mezőgazdasági és Környezeti Állapot |
 
-3. számú melléklet a 73/2007. (VII. 27.) FVM rendelethez
+3. számú melléklet a 73/2007. (VII. 27.) FVM rendelethez[^9]
 
 Területi szaktanácsadási központként való elismerésre irányuló kérelem
 
@@ -32,7 +32,7 @@ székhelye:
 
 hivatalos képviselője:
 
-Hivatkozva az FVM .......... számú ügyiratában foglalt, TSzK-ként való előzetes nyilvántartásba vételünkről szóló értesítésre, kérem szervezetünk TSzK-ként való elismerését az alábbi adatközlés és nyilatkozatok alapján.
+Hivatkozva az VM .......... számú ügyiratában foglalt, TSzK-ként való előzetes nyilvántartásba vételünkről szóló értesítésre, kérem szervezetünk TSzK-ként való elismerését az alábbi adatközlés és nyilatkozatok alapján.
 
 II.
 
@@ -155,3 +155,5 @@ Kelt:
 | ........................................... | ..................................................... |
 
 | szaktanácsadó aláírása | TSzK képviselőjének aláírása |
+
+[^9]: A 3. számú melléklet a 106/2012. (X. 11.) VM rendelet 6. § (1) bekezdés d) pontja szerint módosított szöveg.

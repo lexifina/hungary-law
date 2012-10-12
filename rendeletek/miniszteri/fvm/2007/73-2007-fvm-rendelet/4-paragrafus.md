@@ -1,6 +1,6 @@
 ## Országos Szaktanácsadási Központ
 
-4. § (1) Az Országos Szaktanácsadási Központ feladatait az FVM Vidékfejlesztési Képzési és Szaktanácsadási Intézet (a továbbiakban: FVM VKSZI) látja el.
+4. § (1)[^2] Az Országos Szaktanácsadási Központ feladatait a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) látja el.
 
 (2) Az Országos Szaktanácsadási Központ a mezőgazdasági szaktanácsadási rendszer hatékony működésének elősegítése érdekében ellátja:
 
@@ -15,3 +15,5 @@ d) az Országos Szaktanácsadási Bizottság titkársági feladatait,
 e) a mezőgazdasági szaktanácsadók munkáját segítő informatikai rendszer működtetését, valamint
 
 f) az Európai Unió tagországainak mezőgazdasági szaktanácsadó szervezeteivel kapcsolatot létesít és tart fenn, a nemzetközi kapcsolatok keretében képviseli a magyar mezőgazdasági szaktanácsadást.
+
+[^2]: A 4. § (1) bekezdése a 106/2012. (X. 11.) VM rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
