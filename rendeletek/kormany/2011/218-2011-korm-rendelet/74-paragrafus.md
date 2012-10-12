@@ -10,12 +10,12 @@
 
 (3) A szerződésben meg kell határozni a szerződési biztosítékot, a szerződés megszűnése esetén keletkező elszámolási és kárrendezési eljárást.
 
-(4)[^11] A Kbt. 131. § (3) bekezdése szerinti, építési beruházások esetében a szerződésben foglalt ellenérték kifizetését szabályozó kormányrendelet előírásai a beszerzési eljárásra nem alkalmazandóak.
+(4)[^21] A Kbt. 131. § (3) bekezdése szerinti, építési beruházások esetében a szerződésben foglalt ellenérték kifizetését szabályozó kormányrendelet előírásai a beszerzési eljárásra nem alkalmazandóak.
 
-(5)[^12] A 7. § (5) bekezdése szerinti beszerzések esetében a 75. § (1) bekezdését és a Kbt. 124. § (6)–(7) bekezdésében foglalt rendelkezéseket nem kell alkalmazni.
+(5)[^22] A 7. § (5) bekezdése szerinti beszerzések esetében a 75. § (1) bekezdését és a Kbt. 124. § (6)–(7) bekezdésében foglalt rendelkezéseket nem kell alkalmazni.
 
-(6)[^13] A szerződés megkötésekor, a kizárólag a jegyzékre felvett nyertes ajánlattevők részvételével létrehozott projekttársaságot jegyzéken szereplőnek kell tekinteni, ha a projekttársaság vezető tisztségviselői és alkalmazottai a projekttársaságot létrehozó gazdasági szereplők vezető tisztségviselőiből és alkalmazottaiból kerültek ki.
+(6)[^23] A szerződés megkötésekor, a kizárólag a jegyzékre felvett nyertes ajánlattevők részvételével létrehozott projekttársaságot jegyzéken szereplőnek kell tekinteni, ha a projekttársaság vezető tisztségviselői és alkalmazottai a projekttársaságot létrehozó gazdasági szereplők vezető tisztségviselőiből és alkalmazottaiból kerültek ki.
 
-[^11]: A 74. § (4) bekezdése a 232/2012. (VIII. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^12]: A 74. § (5) bekezdését a 232/2012. (VIII. 28.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^13]: A 74. § (6) bekezdését a 232/2012. (VIII. 28.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^21]: A 74. § (4) bekezdése a 232/2012. (VIII. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^22]: A 74. § (5) bekezdését a 232/2012. (VIII. 28.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^23]: A 74. § (6) bekezdését a 232/2012. (VIII. 28.) Korm. rendelet 5. § (2) bekezdése iktatta be.
