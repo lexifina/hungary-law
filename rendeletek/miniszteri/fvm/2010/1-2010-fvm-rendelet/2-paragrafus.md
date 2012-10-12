@@ -1,4 +1,4 @@
-2. § (1)[^1] A bejelentőnek a szakértői tevékenység megkezdését a VM Vidékfejlesztési, Képzési és Szaktanácsadási Intézet (a továbbiakban: VM VKSzI) részére kell bejelentenie.
+2. § (1)[^2] A bejelentőnek a szakértői tevékenység megkezdését a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) részére kell bejelentenie.
 
 (2) A bejelentésnek a személyazonosító adatokon kívül tartalmaznia kell:
 
@@ -22,4 +22,4 @@ c) a bejelentő részletes, fényképes szakmai önéletrajzát, publikációs j
 
 d) a 4. § (1) bekezdése szerinti díj befizetését igazoló postai feladóvevényt vagy az átutalás igazolását.
 
-[^1]: A 2. § (1) bekezdése a 148/2011. (XII. 29.) VM rendelet 9. § (1) bekezdésével megállapított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.
+[^2]: A 2. § (1) bekezdése a 148/2011. (XII. 29.) VM rendelet 9. § (1) bekezdésével megállapított, a 106/2012. (X. 11.) VM rendelet 10. § (4) bekezdés a) pontja szerint módosított szöveg.

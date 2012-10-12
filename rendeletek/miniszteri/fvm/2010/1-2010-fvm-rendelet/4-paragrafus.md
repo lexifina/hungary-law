@@ -1,5 +1,7 @@
 4. § (1) A bejelentéshez ötezer forint igazgatási szolgáltatási díjat (a továbbiakban: díjat) kell befizetni. A díj egy fő szakterület és egy részterület díját foglalja magában. Ha a bejelentő a fő szakterületen belül több részterületet jelöl meg, minden további megjelölt részterület után kétezer forint díjat kell megfizetni. Ha a bejelentő több fő szakterület megjelölésével kér nyilvántartásba vételt, a díjat fő szakterületenként külön-külön kell számolni.
 
-(2) Az eljárás megindításakor az illetékekről szóló 1990. évi XCIII. törvényben (a továbbiakban: Itv.) foglaltakon kívül a díjfizetési kötelezettség készpénzátutalással is teljesíthető. A díjfizetési kötelezettséget a Földművelésügyi és Vidékfejlesztési Minisztérium Magyar Államkincstárnál vezetett 10032000-01494549-00000000 előirányzat- felhasználási keretszámlájára kell teljesíteni.
+(2)[^6] Az eljárás megindításakor az illetékekről szóló 1990. évi XCIII. törvényben (a továbbiakban: Itv.) foglaltakon kívül a díjfizetési kötelezettség készpénzátutalással is teljesíthető. A díjfizetési kötelezettséget a NAKVI (1223 Budapest, Park u. 2.) 10032000-01743276-00000000 számú számlájára vagy a NAKVI által megküldött készpénzátutalási megbízással kell teljesíteni.
 
 (3) A díjak megfizetésével kapcsolatban az Itv. 3. § (4) bekezdésében foglaltak, a díjfizetésre kötelezettek megállapítása tekintetében a 31. § (1) bekezdésének első mondatában foglaltak az irányadóak.
+
+[^6]: A 4. § (2) bekezdése a 106/2012. (X. 11.) VM rendelet 10. § (4) bekezdés c) pontja szerint módosított szöveg.
