@@ -22,7 +22,7 @@ f) azon rádiórendszerek esetében, amelyek a frekvenciasávok felhasználási 
 
 g) jogutódlás esetében;
 
-h) a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 65. § (10) bekezdése szerint megkötött ideiglenes hatósági szerződés esetében.
+h)[^3] az Mttv. 65. § (10) bekezdése szerint megkötött ideiglenes hatósági szerződés esetében.
 
 (3) A frekvenciakijelölés során figyelemmel kell lenni a rádiófrekvenciás spektrum hatékony, megfelelő használatára, a káros zavarás elkerülésére, a közegészségügyi, különösen a sugáregészségügyi szempontokra.
 
@@ -33,3 +33,5 @@ h) a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. év
 (6) A Hatóság kérelemre ad ki frekvenciakijelölési határozatot, kivéve a (7) bekezdés szerinti esetekben.
 
 (7) A nemzetközi kötelezettségből eredő vagy a műsorterjesztés és a digitális átállás szabályairól szóló 2007. évi LXXIV. törvény (a továbbiakban: Dtv.) alapján szükséges frekvenciacsere esetén a Hatóság hivatalból indult eljárásban is kiadhat frekvenciakijelölési határozatot.
+
+[^3]: A 3. § (2) bekezdés h) pontja a 14/2012. (IX. 28.) NMHH rendelet 7. §-a szerint módosított szöveg.

@@ -30,7 +30,9 @@ n) a frekvenciadíj megfizetésére kötelezett természetes személy személyaz
 
 o) az üzemeltetés és a szüneteltetés időtartamát, továbbá
 
-p) a rádiórendszer telepítési és sugárzási jellemzőiről, az üzemben tartásához szükséges okmányokról és a rádióforgalmazás ellenőrzéséhez szükséges műszaki, forgalmi adatokról szóló rendszeres, valamint eseti adatszolgáltatás rendjét.
+p) a rádiórendszer telepítési és sugárzási jellemzőiről, az üzemben tartásához szükséges okmányokról és a rádióforgalmazás ellenőrzéséhez szükséges műszaki, forgalmi adatokról szóló rendszeres, valamint eseti adatszolgáltatás rendjét;
+
+q)[^6] analóg lineáris rádiós médiaszolgáltatáshoz kapcsolódó kiegészítő médiaszolgáltatás nyújtása esetében a műsorazonosító kódot.
 
 (2) A műsorszórásra vonatkozó rádióengedély az (1) bekezdésben foglaltakon túl az Eht. 55. § (13) bekezdésében foglaltakat is tartalmazza.
 
@@ -39,3 +41,5 @@ p) a rádiórendszer telepítési és sugárzási jellemzőiről, az üzemben ta
 (4) Keretengedély esetén az engedélyes köteles a 13. § (2) bekezdés d), f)–h) pontjában és a 13. § (3) bekezdésében felsoroltakat, valamint a rádióállomások műszaki jellemzőit a keretengedélyben meghatározottak szerint a Hatóságnak a tervezett üzemben tartás megkezdése előtt harminc nappal bejelenteni.
 
 (5) Az (1) bekezdés a) pontja szerinti adatokban beálló változást annak bekövetkezésétől számított harminc napon belül be kell jelenteni a megváltozott adat egyidejű igazolásával.
+
+[^6]: A 14. § (1) bekezdés q) pontját a 14/2012. (IX. 28.) NMHH rendelet 4. §-a iktatta be.

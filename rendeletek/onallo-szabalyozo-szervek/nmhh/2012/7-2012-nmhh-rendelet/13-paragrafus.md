@@ -28,7 +28,9 @@ l) a frekvenciakijelölésben a rádióengedély megszerzésének feltételekén
 
 m) a frekvenciakijelölésről szóló határozat számát;
 
-n) a kérelmező nyilatkozatát a jogszabályokban foglalt közegészségügyi, különösen sugáregészségügyi előírásoknak és határértékeknek a telepítéskor történő betartásáról.
+n) a kérelmező nyilatkozatát a jogszabályokban foglalt közegészségügyi, különösen sugáregészségügyi előírásoknak és határértékeknek a telepítéskor történő betartásáról;
+
+o)[^5] analóg lineáris rádiós médiaszolgáltatáshoz kapcsolódó kiegészítő médiaszolgáltatás nyújtása esetében a műsorazonosító kód kiadása iránti igényt.
 
 (3) Amennyiben a rádióberendezést, rádiórendszert már meglévő elektronikus hírközlési építmény felhasználásával kívánják kialakítani, a kérelemhez mellékelni kell a kérelmező arra vonatkozó nyilatkozatát, hogy jogosult az elektronikus hírközlési építmény használatára.
 
@@ -49,3 +51,5 @@ b) a kérelmező igazolni tudja, hogy a szakvélemény nem került harminc napon
 c) a rádióengedély – vagy annak módosítása, hosszabbítása – iránti kérelem nem vonatkozik a sugárzási jellemzők megváltoztatására és a rádióengedély kiadása során az OSSKI a sugáregészségügyi szakvéleményt megadta.
 
 (9) A (8) bekezdés szerint szükséges szakvélemény hiányában a Hatóság egyszeri alkalommal – a szakvélemény utólagos pótlásáig – legfeljebb kilencven napig érvényes, meg nem hosszabbítható érvényességi idejű rádióengedélyt adhat.
+
+[^5]: A 13. § (2) bekezdés o) pontját a 14/2012. (IX. 28.) NMHH rendelet 3. §-a iktatta be.

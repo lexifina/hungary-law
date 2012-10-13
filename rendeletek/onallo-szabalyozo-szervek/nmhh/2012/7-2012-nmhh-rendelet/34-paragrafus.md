@@ -14,7 +14,9 @@ e) a rádiórendszerek műszaki felépítését, üzemidejét, telepítésük, �
 
 f) a rádiórendszerek más elektronikus hírközlő hálózattal való csatlakozásának módját, célját; és
 
-g) a lepecsételt rádióberendezés típusát vagy más azonosításra alkalmas megjelölését, az üzemeltető nevét és címét, az őrzés helyét, a pecsételés indokát, a pecsét eltávolításának okát, idejét.
+g) a lepecsételt rádióberendezés típusát vagy más azonosításra alkalmas megjelölését, az üzemeltető nevét és címét, az őrzés helyét, a pecsételés indokát, a pecsét eltávolításának okát, idejét;
+
+h)[^7] az analóg lineáris rádiós médiaszolgáltatások műsorazonosító kódjait.
 
 (2) Keretengedély esetében a Hatóság a 14. § (4) bekezdése szerint bejelentett adatokat nyilvántartásba veszi.
 
@@ -23,3 +25,5 @@ g) a lepecsételt rádióberendezés típusát vagy más azonosításra alkalmas
 (4) A hatósági nyilvántartásban szereplő közérdekű adatokat bárki megismerheti, kivéve, ha nemzetközi megállapodás eltérően rendelkezik.
 
 (5) A nemzetközi megállapodások mellékletei szerinti frekvenciajegyzékek nem hozhatóak nyilvánosságra.
+
+[^7]: A 34. § (1) bekezdés h) pontját a 14/2012. (IX. 28.) NMHH rendelet 5. §-a iktatta be.

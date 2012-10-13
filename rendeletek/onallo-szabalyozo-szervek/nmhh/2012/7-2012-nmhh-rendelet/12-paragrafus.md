@@ -11,3 +11,7 @@ b) minden olyan esetben, amikor a rádiórendszert változatlan műszaki feltét
 (3) Blokkgazdálkodásra jogosító frekvenciakijelölés esetén a Hatóság a rádióengedélyt keretengedélyként adja ki.
 
 (4) A Hatóság a rádiófrekvenciás spektrum hatékony és megfelelő használata, a káros zavarás elkerülése érdekében vagy közegészségügyi, különösen sugáregészségügyi szempontok alapján a sugárzási paramétereket, valamint a rádióberendezés, rádiórendszer üzemben tartását utólag is korlátozhatja vagy megtilthatja.
+
+(5)[^4] Egy rádióműsorhoz csak egy műsorazonosító kód adható ki.
+
+[^4]: A 12. § (5) bekezdését a 14/2012. (IX. 28.) NMHH rendelet 2. §-a iktatta be.
