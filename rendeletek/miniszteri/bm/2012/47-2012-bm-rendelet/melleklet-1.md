@@ -1,4 +1,4 @@
-## 11. § Hatályát veszti az atomenergia alkalmazásával összefüggő rendőrségi feladatokról szóló 47/1997. (VIII. 26.) BM rendelet.
+## 11. §[^1]
 
 1. melléklet a 47/2012. (X. 4.) BM rendelethez
 
@@ -45,3 +45,5 @@ Az atomenergia alkalmazása körében személyek foglalkoztatásához szüksége
 2.3. foglalkoztatni kívánt személy sajátkezű aláírását,
 
 2.4. kérelmet benyújtó szervezet cégszerű aláírása.
+
+[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
