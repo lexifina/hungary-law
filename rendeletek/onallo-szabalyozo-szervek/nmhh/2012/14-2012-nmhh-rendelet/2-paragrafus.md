@@ -1,0 +1,1 @@
+## „7/b. Rádió adatrendszer (RDS): a 87,5–108 MHz-es frekvenciasávban megvalósuló analóg lineáris rádiós médiaszolgáltatásoknál alkalmazott műszaki megoldás, amely lehetővé teszi a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvényben (a továbbiakban: Mttv.) meghatározott kiegészítő és értéknövelő médiaszolgáltatások nyújtását.”
