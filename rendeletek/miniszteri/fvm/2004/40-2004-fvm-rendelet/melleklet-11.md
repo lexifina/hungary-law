@@ -1,6 +1,6 @@
-## Az I. és a II. részben nem szereplő növényfajoknak a nemzeti DUS-vizsgálati irányelvnek kell megfelelniük.
+## Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^102]
+11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^93]
 
 I. RÉSZ
 
@@ -112,4 +112,4 @@ III. RÉSZ
 
 Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS-vizsgálati irányelvnek kell megfelelniük.
 
-[^102]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege az 1/2012. (I. 20.) VM rendelet 3. §-ával megállapított szöveg.
+[^93]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege az 1/2012. (I. 20.) VM rendelet 3. §-ával megállapított szöveg.

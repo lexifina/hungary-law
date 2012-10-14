@@ -6,9 +6,9 @@ a)[^1] a szántóföldi növények – kivéve a külön jogszabály szerinti re
 
 b) a növényfajta-oltalomhoz szükséges DUS-vizsgálatok elvégzésére,
 
-c)[^2] a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) és a Fajtaminősítő Bizottság működésére,
+c)[^2] a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) és a Fajtaminősítő Bizottság működésére,
 
 d) a növényfajták nemesítésével foglalkozó, a fajtafenntartást végző, illetve képviselőként eljáró természetes és jogi személyekre, illetve jogi személyiség nélküli gazdasági társaságokra
 
 [^1]: Az 1. § a) pontja a 42/2011. (V. 26.) VM rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § c) pontja a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének a) pontja, a 42/2011. (V. 26.) VM rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^2]: Az 1. § c) pontja a 105/2012. (X. 11.) VM rendelet 5. § (1) bekezdése szerint módosított szöveg.

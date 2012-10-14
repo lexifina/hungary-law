@@ -10,9 +10,9 @@
 
 4. géntechnológiával módosított növényfajta: fajta, amelynek génállományát génsebészeti beavatkozással olyan módon változtatták meg, ahogyan az természetes úton nem menne végbe,
 
-5.[^5] fajtajelölt: az MgSzH-hoz Nemzeti Fajtajegyzékre vétel céljából, illetve fajtaoltalmi vizsgálatokra bejelentett növényfajta,
+5.[^5] fajtajelölt: a NÉBIH-hez Nemzeti Fajtajegyzékre vétel céljából, illetve fajtaoltalmi vizsgálatokra bejelentett növényfajta,
 
-6.[^6] fajtavizsgálat: a Nemzeti Fajtajegyzékre vételre, illetve növényfajta-oltalom céljára bejelentett fajták – nemzetközileg ajánlott, vagy ennek hiányában az MgSzH által kifejlesztett módszerekkel beállított kísérletekben végzett – hivatalos DUS-vizsgálata és – ahol ez követelmény – gazdasági értékvizsgálata,
+6.[^6] fajtavizsgálat: a Nemzeti Fajtajegyzékre vételre, illetve növényfajta-oltalom céljára bejelentett fajták – nemzetközileg ajánlott, vagy ennek hiányában a NÉBIH által kifejlesztett módszerekkel beállított kísérletekben végzett – hivatalos DUS-vizsgálata és – ahol ez követelmény – gazdasági értékvizsgálata,
 
 7. tartós vetőmagtárolás: az államilag elismert, illetve növényfajta-oltalomban részesített fajták – kijelölt hibridek esetén azok komponensei is – és a referencia és példa fajták nemzetközi szabvány szerint előkészített vetőmagjának középtávú megőrzése, a gyűjtemény fenntartása,
 
@@ -22,6 +22,6 @@
 
 10. harmadik ország: az Európai Unió tagállamain kívüli ország.
 
-[^5]: A 3. § 5. pontja a 42/2011. (V. 26.) VM rendelet 4. § a) pontja szerint módosított szöveg.
-[^6]: A 3. § 6. pontja a 42/2011. (V. 26.) VM rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 3. § 5. pontja a 105/2012. (X. 11.) VM rendelet 5. § (4) bekezdése szerint módosított szöveg.
+[^6]: A 3. § 6. pontja a 105/2012. (X. 11.) VM rendelet 5. § (2) bekezdése szerint módosított szöveg.
 [^7]: A 3. § 8. pontja a 183/2009. (XII. 30.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.

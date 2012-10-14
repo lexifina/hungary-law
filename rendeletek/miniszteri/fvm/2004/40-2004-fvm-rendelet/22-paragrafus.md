@@ -1,6 +1,6 @@
 ## Nemzeti Fajtajegyzék
 
-22. § (1)[^65] Az MgSzH évente közzéteszi az államilag elismert fajtákat tartalmazó Nemzeti Fajtajegyzéket, amelyben fajonkénti felsorolásban közölni kell:
+22. § (1)[^65] A NÉBIH évente közzéteszi az államilag elismert fajtákat tartalmazó Nemzeti Fajtajegyzéket, amelyben fajonkénti felsorolásban közölni kell:
 
 a) a fajta nevét,
 
@@ -34,4 +34,10 @@ e) Erdészeti Növények Nemzeti Fajtajegyzéke.
 
 (5) A (3) bekezdés szerinti nemzeti fajtajegyzékek B. része azon fajok fajtáit tartalmazza, amelyekre nem vonatkozik a törvény szerinti állami elismerési kötelezettség, de korábban állami elismerést kaptak vagy állami elismerésüket fakultatív módon kérelmezték. Ezek a fajták a Közösségi Fajtajegyzékre nem kerülnek fel.
 
-[^65]: A 22. § (1) bekezdés nyitó szövegrésze a 42/2011. (V. 26.) VM rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+(6)[^66] A (3) bekezdés a), b) és c) pontja szerinti nemzeti fajtajegyzékek C. része az elismert tájfajtákat tartalmazza.
+
+(7)[^67] A (3) bekezdés c) pontja szerinti nemzeti fajtajegyzék D. része tartalmazza a 2012. szeptember 30. előtt forgalmazott és hivatalosan elismert leírással rendelkező gyümölcsfajtákat.
+
+[^65]: A 22. § (1) bekezdés nyitó szövegrésze a 105/2012. (X. 11.) VM rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^66]: A 22. § (6) bekezdését a 105/2012. (X. 11.) VM rendelet 1. §-a iktatta be.
+[^67]: A 22. § (7) bekezdését a 105/2012. (X. 11.) VM rendelet 1. §-a iktatta be.
