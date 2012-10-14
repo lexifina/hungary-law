@@ -30,6 +30,8 @@ a) az építési normagyűjteményben (a továbbiakban: ÉNGY) beazonosítható 
 
 b) a Gépkatalógusban szereplő gépek, berendezések esetében a Gépkatalógusban szereplő referenciaárat.
 
-(11) A támogatott beruházással érintett ingatlanon végrehajtott fejlesztés csak abban az esetben támogatható, ha az ingatlan az 1. § 28. pontja szerinti ügyfél kategóriába tartozó jogalany, az állam, a megyei önkormányzat vagy természetes személy tulajdonában van.
+(11)[^1] A támogatott beruházással érintett ingatlanon végrehajtott fejlesztés csak abban az esetben támogatható, ha az ingatlan az 1. § 27. pontja szerinti ügyfél kategóriába tartozó jogalany, az állam, a megyei önkormányzat vagy természetes személy tulajdonában van.
 
 (12) A beruházás helye szerint illetékes LEADER HACS illetékességi területén az egyes célterületek vonatkozásában igényelhető legmagasabb támogatási összeget a 7. melléklet tartalmazza. Azon LEADER HACS illetékességi területén, ahol a 7. melléklet szerint az egyes célterületek esetében az igényelhető támogatás összege 0 forint, támogatási kérelem a célterület tekintetében nem nyújtható be. Amennyiben az ügyfél azon LEADER HACS illetékességi területén megvalósuló fejlesztésre nyújt be támogatási kérelmet, ahol a 7. melléklet értelmében nem igényelhető támogatás, a támogatási kérelem elutasításra kerül.
+
+[^1]: A 3. § (11) bekezdése a 105/2012. (X. 11.) VM rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.

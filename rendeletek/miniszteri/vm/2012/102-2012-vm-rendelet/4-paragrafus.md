@@ -1,6 +1,6 @@
 ## 4. Támogatás igénybevételének feltételei
 
-4. § (1) Támogatásra jogosult az 1. § 28. pontjában meghatározott ügyfél.
+4. § (1)[^2] Támogatásra jogosult az 1. § 27. pontjában meghatározott ügyfél.
 
 (2) Az 6. melléklet szerinti településen működő, valamint székhellyel vagy telephellyel rendelkező ügyfél esetén csak a település külterületén megvalósuló fejlesztés támogatható.
 
@@ -61,3 +61,5 @@ f) az együttműködő partnerek cégszerű aláírását.
 (15) Jelen rendelet alkalmazása során nem kell vizsgálni a Vhr. 7. § (2) bekezdésében meghatározottak szerinti rendezett munkaügyi kapcsolatok feltételeinek fennállását.
 
 (16) Az e rendelet alapján nyújtott támogatások tekintetében a Vhr. 33. § (4) bekezdésében foglaltak nem alkalmazandóak.
+
+[^2]: A 4. § (1) bekezdése a 105/2012. (X. 11.) VM rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
