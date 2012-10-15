@@ -1,15 +1,14 @@
-## 1–8. §[^1]
+## 1–8. §[^2]
 
-9. § (1)[^2]
+9. § (1)[^3]
 
-(2)[^3]
+(2)[^4]
 
-(3)[^4]
+(3)[^5]
 
-(4)[^5]
+(4) Hatályát veszti az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikáról szóló 12/2011. (III. 30.) BM rendelet 13. és 14. §-a.
 
-[^1]: Az 1–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 9. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 9. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 9. § (4) bekezdése a 8. § (2) bekezdése alapján 2012. október 15-én lép hatályba.
+[^2]: Az 1–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 9. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 9. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
