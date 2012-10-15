@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-136-00-00
 | --- | --- | --- |
 | 2012-09-25 | 2012. évi CXXXVI. törvény | 2012-136-00-00.0 (közlönyállapot) |
 | 2012-09-25 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-136-00-00.1 |
+| 2012-10-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-136-00-00.2 |
