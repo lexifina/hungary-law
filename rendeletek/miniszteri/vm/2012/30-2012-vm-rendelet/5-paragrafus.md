@@ -1,6 +1,6 @@
 ## 5. Elszámolható kiadások
 
-5. § (1) A 2. § (1) bekezdésében meghatározott feladatok ellátása érdekében, az adott elszámolási időszakra vonatkozó feladatok ellátásával összefüggően:
+5. § (1)[^1] Amennyiben a LEADER HACS a 2. § (1) bekezdés j) pont szerinti átruházott feladatokat kizárólag önállóan látja el, akkor az adott elszámolási időszakra vonatkozó 2. § (1) bekezdésében meghatározott feladatok ellátásával összefüggően:
 
 a) az 1. és 2. melléklet szerinti, működéshez kötődő dologi jellegű kiadás legfeljebb 80%-ban,
 
@@ -32,9 +32,10 @@ b) eléri a közbeszerzésekről szóló törvényben meghatározott értékhat�
 
 (11) A 4., 5., 6. és 7. melléklet szerinti adattartalmú formanyomtatványokon kérvényezett jóváhagyásról a kérelemnek az IH-hoz postai úton való beérkezését követően 15 napon belül dönt az IH.
 
-(12)[^1] Amennyiben a LEADER HACS címe visszavonásra kerül, akkor a LEADER HACS a címvisszavonást követő hónapban jogosult kifizetési kérelmet benyújtani, amelyben elszámolhatja a címvisszavonást megelőzően (a cím birtokolásának napjáig) felmerült kiadásait. Az irodahelyiség fenntartásához kapcsolódó kiadások elszámolása esetén az általános forgalmi adóról szóló törvény hatálya alá tartozó, folyamatos szolgáltatásról szóló számlán a teljesítés legkésőbbi időpontja a LEADER HACS cím megszűnését követő hónap utolsó napja lehet, amennyiben a gazdasági esemény a LEADER HACS cím megszűnésének hónapjában valósult meg, és ennek megfelelően történt a felmerült kiadás könyvelése is és pénzügyileg igazoltan rendezésre került. A nonprofit formában működő LEADER HACS címmel rendelkező gazdasági társaság címének visszavonása esetén, a legkésőbb 2012. április 30-ig megvalósult, folyamatos teljesítésű szolgáltatásról kibocsátott számla abban az esetben számolható el, ha a teljesítés időpontja legkésőbb 2012. május 31.
+(12)[^2] Amennyiben a LEADER HACS címe visszavonásra kerül, akkor a LEADER HACS a címvisszavonást követő hónapban jogosult kifizetési kérelmet benyújtani, amelyben elszámolhatja a címvisszavonást megelőzően (a cím birtokolásának napjáig) felmerült kiadásait. Az irodahelyiség fenntartásához kapcsolódó kiadások elszámolása esetén az általános forgalmi adóról szóló törvény hatálya alá tartozó, folyamatos szolgáltatásról szóló számlán a teljesítés legkésőbbi időpontja a LEADER HACS cím megszűnését követő hónap utolsó napja lehet, amennyiben a gazdasági esemény a LEADER HACS cím megszűnésének hónapjában valósult meg, és ennek megfelelően történt a felmerült kiadás könyvelése is és pénzügyileg igazoltan rendezésre került. A nonprofit formában működő LEADER HACS címmel rendelkező gazdasági társaság címének visszavonása esetén, a legkésőbb 2012. április 30-ig megvalósult, folyamatos teljesítésű szolgáltatásról kibocsátott számla abban az esetben számolható el, ha a teljesítés időpontja legkésőbb 2012. május 31.
 
-(13)[^2] Azon nonprofit formában működő LEADER HACS címmel rendelkező gazdasági társaság, amelynek LEADER HACS címe 2012. április 30. napjával került visszavonásra, 2012. június 15-ig jogosult a (12) bekezdés szerinti kifizetési kérelmet benyújtani.
+(13)[^3] Azon nonprofit formában működő LEADER HACS címmel rendelkező gazdasági társaság, amelynek LEADER HACS címe 2012. április 30. napjával került visszavonásra, 2012. június 15-ig jogosult a (12) bekezdés szerinti kifizetési kérelmet benyújtani.
 
-[^1]: Az 5. § (12) bekezdése az 52/2012. (VI. 8.) VM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 5. § (13) bekezdését az 52/2012. (VI. 8.) VM rendelet 18. § (2) bekezdése iktatta be.
+[^1]: Az 5. § (1) bekezdése a 110/2012. (X. 15.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 5. § (12) bekezdése az 52/2012. (VI. 8.) VM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 5. § (13) bekezdését az 52/2012. (VI. 8.) VM rendelet 18. § (2) bekezdése iktatta be.
