@@ -4,6 +4,8 @@
 
 (3) A korlátolt felelősségű társaság törzstőkéjének és a részvénytársaság alaptőkéjének veszteség folytán való csökkenése jogkövetkezményeire törvény eltérő szabályokat állapíthat meg.
 
+(4) Mentesül a gazdasági társaság az (1) bekezdés szerinti kötelezettség alól, ha a második év számviteli törvény szerinti beszámolójának elfogadásától számított három hónapon belül, három hónapnál nem régebbi mérlegfordulónapra összeállított közbenső mérleggel igazolni tudja, hogy az (1) bekezdés szerinti intézkedésekre okot adó körülmény már nem áll fenn.
+
 ## V. Fejezet
 
 ## BEFOLYÁSSZERZÉS. ELISMERT VÁLLALATCSOPORT
