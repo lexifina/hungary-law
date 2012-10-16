@@ -23,11 +23,3 @@ I. Az e törvény 57. § (1) bekezdés b) pontjának alkalmazásában a „jöve
 8. a Finn Köztársaság esetében: Valtion tuloverot/de statliga inkomstskatterna, Yhteisöjen tulovero/inkomstskatten för samfund, Kunnallisvero/kommunalskatten, Kirkollisvero/kyrkoskatten, Kansaneläkevakuutusmaksu/folkpensionsförsäkringspremien, Sairausvakuutusmaksu/sjukförsäkringspremien, Korkotulon lähdevero/källskatten på ränteinkomst, Rajoitetusti verovelvollisen lähdevero/källskatten för begränsat skattskyldig,
 
 Valtion varalllisuusvero/den statliga förmögenhetsskatten, Kiinteistövero/fastighetsskatten;
-
-9. a Francia Köztársaság esetében: Impôt sur le revenu, Impôt sur les sociétés, Taxe professionnelle, Taxe foncière sur les propriétés bâties, Taxe foncière sur les propriétés non bâties;
-
-10. a Görög Köztársaság esetében: Φόρος εισοδήματος φυσικών προσώπων , Φόρος εισοδήματος φυμικών προσώπων, Φορος ακινήτου περιοσίας;
-
-11. a Holland Királyság esetében: Inkomstenbelasting, Vennootschapsbelasting, Vermogensbelasting;
-
-12. Írország esetében: Income tax, Corporation tax, Capital gains tax, Wealth tax;
