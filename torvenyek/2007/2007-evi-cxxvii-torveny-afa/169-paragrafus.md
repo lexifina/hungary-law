@@ -34,4 +34,6 @@ m) utazásszervezési szolgáltatás nyújtása esetében jogszabályi hivatkoz�
 
 n) használt ingóság, műalkotás, gyűjteménydarab vagy régiség értékesítése esetében jogszabályi hivatkozás vagy bármely más, de egyértelmű utalás arra, hogy a XVI. fejezet 2. vagy 3. alfejezetében meghatározott különös szabályokat alkalmazták;
 
-o) pénzügyi képviselő alkalmazása esetében a pénzügyi képviselő neve, címe és adószáma.
+o) pénzügyi képviselő alkalmazása esetében a pénzügyi képviselő neve, címe és adószáma;
+
+p) pénzforgalmi elszámolás esetén jogszabályi hivatkozás vagy bármely más egyértelmű utalás arra, hogy a XIII/A. Fejezetben meghatározott különös szabályokat alkalmazták.

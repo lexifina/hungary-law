@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-127-00-00
 | 2012-04-01 | 2011. évi CLXXIV. törvény | 2007-127-00-00.25 |
 | 2012-07-01 | 2012. évi XLIX. törvény | 2007-127-00-00.26 |
 | 2012-07-20 | 2012. évi LXIX. törvény | 2007-127-00-00.27 |
+| 2012-10-16 | 2012. évi CXLVI. törvény | 2007-127-00-00.28 |

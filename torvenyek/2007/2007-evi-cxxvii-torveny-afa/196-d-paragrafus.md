@@ -1,0 +1,1 @@
+196/D. § Az adóalany belföldi nyilvántartásba vételével egyidejűleg is választhatja a tárgy naptári évre a pénzforgalmi elszámolást. Ilyen esetben elegendő a 196/C. § (1) bekezdés b) pontjában említett feltételt időarányosan teljesíteni.
