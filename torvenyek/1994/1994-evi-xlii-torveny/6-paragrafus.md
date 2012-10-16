@@ -11,3 +11,5 @@ b) kormányrendeletben előírt feltételekkel vállalt garanciaügyletek esetle
 (3) Az Eximbanknak az (1) bekezdés b) és a Mehib Rt.-nek a (2) bekezdés szerinti fizetési kötelezettsége teljesítéséhez szükséges forrásokat a központi költségvetés közvetlenül biztosítja.
 
 (4) A 2. § (2) bekezdése szerint nyújtott hitelek kamatának, valamint az e célt szolgáló finanszírozási költségek különbözetének (a továbbiakban: egyenleg) forrását az Eximbank részére a központi költségvetés – kormányrendeletben megállapított feltételek szerint és módon – közvetlenül biztosítja (kamatkiegyenlítési rendszer).
+
+(5) Az (1) és (2) bekezdés alapján fennálló állami kezesség esetén a jogosult az állami készfizető kezességvállaláson túlmenően további biztosíték előírására nem köteles.
