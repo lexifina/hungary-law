@@ -1,10 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (6) bekezdése alapján a Zemplénkő Kelet-magyarországi Építőipari Fővállalkozó és Bányászati Korlátolt Felelősségű Társaság, mint stratégiailag kiemelt jelentőségű gazdálkodó szervezet felszámolási eljárásával kapcsolatos feladatok ellátásának finanszírozására 20,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet I. Országgyűlés fejezet, 20. Pénzügyi Szervezetek Állami Felügyelete cím, 1. Pénzügyi Szervezetek Állami Felügyelete alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 3. Rendkívüli kormányzati intézkedések cím terhére.
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: átcsoportosításra: azonnal
-
-## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2012. november 30.
+## 1.[^1]
 
 ## 2. az Áht. 33. § (1) bekezdésében biztosított jogkörében a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 2. Fejezeti kezelésű előirányzatok cím, 7. Nemzeti Sírkert gondozása alcím megnevezését a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 2. Fejezeti kezelésű előirányzatok cím, 7. Nemzeti Sírkerthez és Emlékhelyekhez kapcsolódó kiadások alcím elnevezésre változtatja;
 
@@ -81,3 +75,5 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pontot az 1451/2012. (X. 16.) Korm. határozat 2. pontja visszavonta.
