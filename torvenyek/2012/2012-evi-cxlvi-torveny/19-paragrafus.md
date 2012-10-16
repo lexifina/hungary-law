@@ -1,0 +1,3 @@
+19. § A Gt. 143. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A (2) bekezdésben megjelölt esetekben – amennyiben a taggyűlés időpontját legfeljebb egy hónappal megelőző mérlegfordulónapra összeállított közbenső mérleg szerint azok fennállnak – a tagoknak határozniuk kell különösen a pótbefizetés előírásáról vagy – ha ennek lehetőségét a társasági szerződés nem tartalmazza – a törzstőke más módon való biztosításáról, illetve a törzstőke leszállításáról, mindezek hiányában a társaságnak más társasággá történő átalakulásáról, illetve jogutód nélküli megszüntetéséről. A határozatokat legkésőbb három hónapon belül végre kell hajtani.”
