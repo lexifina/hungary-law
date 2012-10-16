@@ -1,5 +1,3 @@
-## 75. § Bv. ügyben felvilágosítást a bv. bíró, valamint az irodavezető szóban akkor adhat, ha az a büntetés végrehajtását nem veszélyezteti.
-
 ## X. Fejezet
 
 ## A BÍRÓSÁGI GAZDASÁGI HIVATAL ÜGYVITELE
