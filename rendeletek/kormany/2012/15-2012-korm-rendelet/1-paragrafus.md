@@ -42,6 +42,8 @@ f) a MÁV Magyar Államvasutak Zrt. (a továbbiakban: MÁV).
 
 |  | működtetett vasúti pályahálózathoz: | 5 118,0 millió forint |
 
-| e) | a MÁV által a Vtv. 28. § (1) bekezdésében meghatározott szerződés alapján |  |
+| e)2 | a MÁV által a Vtv. 28. § (1) bekezdésében meghatározott szerződés alapján |  |
 
-|  | működtetett vasúti pályahálózathoz: | 41 882,0 millió forint |
+|  | működtetett vasúti pályahálózathoz: | 66 941,0 millió forint. |
+
+2 Az 1. § (4) bekezdés e) pontja a 291/2012. (X. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
