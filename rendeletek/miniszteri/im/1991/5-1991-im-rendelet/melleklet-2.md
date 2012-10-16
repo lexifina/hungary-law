@@ -22,7 +22,7 @@
 
 ## P. H.
 
-2. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^48]
+2. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^52]
 
 | BIZONYÍTVÁNY | Közigazgatási és Igazságügyi Miniszter |
 
@@ -42,4 +42,4 @@
 
 | Közigazgatási és Igazságügyi Miniszter P. H. |
 
-[^48]: A 2. számú melléklet a 42/2012. (IX. 14.) KIM rendelet 16. §-ával megállapított szöveg.
+[^52]: A 2. számú melléklet a 42/2012. (IX. 14.) KIM rendelet 16. §-ával megállapított szöveg.
