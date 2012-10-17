@@ -1,3 +1,0 @@
-7. § Az Art. 22. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdés szerinti nyilatkozat megváltoztatását – az e)–g) pontok kivételével – a változtatást megelőző adóév utolsó napjáig kell bejelenteni. Ha az adózó az alanyi adómentességre, illetve a pénzforgalmi elszámolás választására jogosító értékhatárt az adóév közben lépte túl, a bejelentést a 23. § (3) bekezdés szerint kell megtenni. Az adózó az (1) bekezdés e) pontja szerinti nyilatkozattétel és annak változásának bejelentése alól mentesül, ha kizárólag az általános forgalmi adóról szóló törvényben meghatározott adómentes termékimportot megalapozó közösségi adómentes termékértékesítést, mint közösségi kereskedelmi kapcsolatot közvetett vámjogi képviselő igénybevételével létesít.”

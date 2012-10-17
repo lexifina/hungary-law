@@ -1,3 +1,0 @@
-21. § A Gt. Hatályba léptető és átmeneti rendelkezések alcíme a következő 336/F. §-sal egészül ki:
-
-„336/F. § Az 51. § (1) bekezdése, a 143. § (2) bekezdés a) pontja, valamint 245. § (1) bekezdés a) és b) pontja alkalmazásában a saját tőke hiányának megállapítása során a 2011-ben, valamint a 2012-ben induló üzleti évről készített számvitelről szóló 2000. évi C. törvény szerinti beszámolóban kimutatott, a külföldi pénzértékre szóló eszközök és kötelezettségek számviteli törvény 60. § (3) bekezdés a) pontja szerint elszámolt összevont árfolyamvesztesége 2014. május 31-éig figyelmen kívül hagyható.”
