@@ -1,4 +1,4 @@
-1. Az Országgyűlés megállapítja, hogy az Állami Számvevőszék törvényi kötelezettségeit teljesítette, elfogadja az intézmény 2007. évi tevékenységéről szóló jelentését, és tudomásul veszi az intézmény gazdálkodásáról készített, független könyvvizsgáló által felülvizsgált és hitelesnek minősített pénzügyi beszámolót.
+1.[^2]
 
 2. Az Országgyűlés megerősíti az Állami Számvevőszék 2006–2010. évi stratégiájában kitűzött célokat, a szervezet
 
@@ -12,6 +12,10 @@ c) fordítson fokozott figyelmet a korrupció tipikus kiváltó okaira, terület
 
 a) felkéri a törvényjavaslatok előkészítőit, hogy az Állami Számvevőszék részére feladatot megállapító előírások tervezetét – a teljesíthetőség érdekében – egyeztessék az intézménnyel,
 
-b) felkéri a Kormányt, hogy az állami vezetők javadalmazásának átláthatóságához szükséges egyes törvénymódosításokról szóló 2008. évi X. törvény rendelkezéseit vizsgálja felül, és a vizsgálat eredményeire figyelemmel nyújtson be javaslatot az állami vezetők vagyongyarapodási vizsgálata szabályozásának módosítására,
+b)[^3]
 
-c) támogatja az Állami Számvevőszék nemzetközi vállalásainak 2009. évi teljesítését.
+c)[^4]
+
+[^2]: Az 1. pontot a 68/2012. (X. 16.) OGY határozat 2. pont a) pontja visszavonja, alkalmazására lásd e visszavonó határozat 6. pontját.
+[^3]: A 3. pont b) alpontját a 68/2012. (X. 16.) OGY határozat 2. pont a) pontja visszavonja, alkalmazására lásd e visszavonó határozat 6. pontját.
+[^4]: A 3. pont c) alpontját a 68/2012. (X. 16.) OGY határozat 2. pont a) pontja visszavonja, alkalmazására lásd e visszavonó határozat 6. pontját.
