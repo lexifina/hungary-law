@@ -1,9 +1,13 @@
-1. Az Országgyűlés elfogadja az Állami Számvevőszék 2000. évi tevékenységéről készített beszámolóját. Megállapítja, hogy a törvényekben meghatározott feladatainak az Állami Számvevőszék eleget tett, elősegítve ezzel az Országgyűlés és bizottságai törvényhozó és ellenőrző munkáját.
+1.[^2]
 
-2. Az Országgyűlés fontosnak tartja, hogy az Állami Számvevőszék a továbbiakban is fokozott figyelmet fordítson az államháztartás korszerűsítését előmozdító ellenőrzésekre. Támogatja az Állami Számvevőszék megváltozott elvárásokhoz jobban igazodó, teljesítmény-ellenőrzések és pénzügyi ellenőrzések irányába elmozduló belső szakosodását.
+2.[^3]
 
-3. Az Országgyűlés egyetért az Állami Számvevőszék működési tapasztalatai alapján időszerűvé vált – 2002. január 1-jével megvalósítani tervezett – szervezeti fejlesztéssel, egyúttal a 2000. évi számvevőszéki beszámolóban előterjesztett változásokat jóváhagyja.
+3.[^4]
 
 4. Az Országgyűlés támogatja a szervezet jelentőségének megfelelő anyagi elismerését.
 
 5. Az Országgyűlés támogatja az Állami Számvevőszéket nemzetközi szakmai szerepvállalásában és biztosítja az ehhez szükséges forrásokat.
+
+[^2]: Az 1. pontot a 68/2012. (X. 16.) OGY határozat 2. pont c) pontja visszavonja, alklamazására lásd e visszavonó határozat 6. pontját.
+[^3]: A 2. pontot a 68/2012. (X. 16.) OGY határozat 2. pont c) pontja visszavonja, alklamazására lásd e visszavonó határozat 6. pontját.
+[^4]: A 3. pontot a 68/2012. (X. 16.) OGY határozat 2. pont c) pontja visszavonja, alklamazására lásd e visszavonó határozat 6. pontját.
