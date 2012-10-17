@@ -6,7 +6,7 @@
 
 ## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2012. november 30.
 
-## 2. a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, valamint a Miniszterelnökség fejezet címrendi módosításáról szóló 1395/2012. (IX. 20.) Korm. határozat 1. pontját visszavonja.
+## 2.[^1]
 
 1. melléklet az 1451/2012. (X. 16.) Korm. határozathoz
 
@@ -93,3 +93,5 @@ Költségvetési év: 2012.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
