@@ -1,3 +1,0 @@
-1. Az Országgyűlés felkéri az Állami Számvevőszéket, hogy az Állami Számvevőszékről szóló 1989. évi XXXVIII. törvény 2. § (6) bekezdésében rögzített feladatának megfelelően törvényességi szempontból vizsgálja meg a Budapest VIII., Köztársaság tér 27. szám alatt található, kincstári vagyon részét képező épület zártkörű értékesítésére vonatkozó, a Kincstári Vagyoni Igazgatóság és a Horizont Zrt. által 2006. szeptember 5-én megkötött szerződést és létrejöttének körülményeit. Vizsgálata terjedjen ki arra is, hogy az elidegenítés okozott-e a Magyar Államnak vagyonvesztést.
-
-2. Ez a határozat a közzétételének napján lép hatályba.
