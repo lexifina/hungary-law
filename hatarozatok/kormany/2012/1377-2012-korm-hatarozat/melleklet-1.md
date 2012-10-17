@@ -1,10 +1,10 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a Fertő tó menti kerékpárút projekt megvalósításához 450,0 millió forint a Velencei tó körüli kerékpárút megvalósításához 150,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet XII. Vidékfejlesztési Minisztérium fejezet 14. Nemzeti park igazgatóságok cím valamint a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium 20. Fejezeti kezelésű előirányzatok cím 32. Közlekedési ágazati programok alcím 10. Velencei tó körüli kerékpárút fejújítása építése jogcímcsoport javára a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet 3. Rendkívüli kormányzati intézkedések cím terhére;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a Fertő tó menti kerékpárút projekt megvalósításához 450,0 millió forint a Velencei tó körüli kerékpárút megvalósításához 150,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet XII. Vidékfejlesztési Minisztérium fejezet 14. Nemzeti park igazgatóságok cím valamint a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium 20. Fejezeti kezelésű előirányzatok cím 32. Közlekedési ágazati programok alcím 10. Velencei tó körüli kerékpárút fejújítása építése jogcímcsoport javára a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet 3. Rendkívüli kormányzati intézkedések cím terhére;
 
 ## Felelős: nemzetgazdasági miniszter
 
 ## Határidő: átcsoportosításra: azonnal
 
-## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2013. június 30.
+## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2013. december 31.
 
 ## 2. felhívja a nemzeti fejlesztési minisztert hogy vizsgálja meg a projektek Regionális Operatív Programok forrásainak terhére történő finanszírozásának és a támogatás uniós forrásba történő utólagos beforgatásának lehetőségét az uniós finanszírozási lehetőségek ismeretében tegye meg a szükséges intézkedéseket és a vizsgálat eredményéről készítsen jelentést a Kormány részére.
 
@@ -89,3 +89,5 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont az 1454/2012. (X. 17.) Korm. határozat 2. pontja szerint módosított szöveg.
