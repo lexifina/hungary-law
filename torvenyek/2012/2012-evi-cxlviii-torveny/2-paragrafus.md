@@ -1,3 +1,0 @@
-2. § Az Eximtv. a következő 26/C. §-sal egészül ki:
-
-„26/C. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény módosításáról szóló 2012. évi CXLVIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 6. § (5) bekezdését a Módtv2. hatálybalépését megelőzően létrejött valamennyi állami kezességre is alkalmazni kell.”
