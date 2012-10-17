@@ -1,1 +1,0 @@
-Az Országgyűlés dr. Hagelmayer Istvánt, az Állami Számvevőszék elnökét érdemei elismerése mellett, eddigi eredményes munkáját megköszönve az 1989. évi XXXVIII. törvény 12. §-a (1) bekezdésének e) pontja és (3) bekezdése alapján – 1996. július 1. napjától – az Állami Számvevőszék elnöki tisztségéből felmenti.
