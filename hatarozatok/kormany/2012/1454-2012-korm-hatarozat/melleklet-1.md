@@ -6,7 +6,7 @@
 
 ## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2013. február 15.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1377/2012. (IX. 17.) Korm. határozat 1. pontjában a „2013. június 30.” szövegrész helyébe a „2013. december 31.” szöveg lép.
+## 2.[^2]
 
 1. melléklet az 1454/2012. (X. 17.) Korm. határozathoz
 
@@ -97,3 +97,5 @@ Költségvetési év: 2012.
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
