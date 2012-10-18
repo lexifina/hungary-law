@@ -22,7 +22,7 @@
 
 | 9. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapesti 1. számú Körzeti Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
 
-| 10. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 10. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Fővárosi Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -38,7 +38,7 @@
 
 | 17. | közegészségügyi szakhatósági engedélyezés | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztiorvosi Hivatal |
 
-2. melléklet a 267/2012. (IX. 20.) Korm. rendelethez
+2. melléklet a 267/2012. (IX. 20.) Korm. rendelethez[^2]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban
 
@@ -66,7 +66,7 @@ közreműködő hatáskörrel rendelkező szakhatóságok
 
 |  | 10. | földművelésügy: termőföldvédelem | Budapesti 1. számú Körzeti Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
 
-|  | 11. | földművelésügy: talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  | 11. | földművelésügy: talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 |  | 12. | egészségügy, sugár-egészségügy | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztiorvosi Hivatal |
 
@@ -74,10 +74,12 @@ közreműködő hatáskörrel rendelkező szakhatóságok
 
 |  | 14. | műszaki biztonság | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-|  | 15. | élelmiszer-egészségügy | Pest Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  | 15. | élelmiszer-egészségügy | Pest Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 |  | 16. | területrendezés | Budapest Főváros Kormányhivatala Építésügyi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
 
 |  | 17. | földtan | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
 |  | 18. | bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+
+[^2]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 67. § b) pontja szerint módosított szöveg.
