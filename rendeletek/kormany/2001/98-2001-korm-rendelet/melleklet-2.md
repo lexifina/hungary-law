@@ -116,7 +116,7 @@
 
 ## 2. A Bizottság feladata
 
-## 2.1.[^54] A D.1. pontban meghatározott dokumentumokon kívül további adatokat kérhet a hulladék termelőjétől, illetve kezelőjétől, ha állásfoglalásának kialakításához további információkat tart szükségesnek. Állati hulladék minősítésekor a H9 veszélyességi jellemző vonatkozásában kikéri a hulladék keletkezésének vagy kezelésének helye szerint MgSzH területi szerve szakvéleményét.
+## 2.1.[^54] A D.1. pontban meghatározott dokumentumokon kívül további adatokat kérhet a hulladék termelőjétől, illetve kezelőjétől, ha állásfoglalásának kialakításához további információkat tart szükségesnek. Állati hulladék minősítésekor a H9 veszélyességi jellemző vonatkozásában kikéri a hulladék keletkezésének vagy kezelésének helye szerint megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága szakvéleményét.
 
 ## 2.2. A minősítést megalapozó vizsgálatok alapján állásfoglalást készít az adott hulladék veszélyességéről vagy veszélytelenségéről.
 
@@ -592,7 +592,7 @@
 
 [^52]: Az 1. számú melléklet A) pontjának 3. alpontja a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^53]: Az 1. számú melléklet B) pontjának 5.5. alpontja a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^54]: Az 1. számú melléklet C) fejezetének 2.1. alpontja a 192/2003. (XI. 26.) Korm. rendelet 7. §-ával megállapított, a 337/2007. (XII. 13.) Korm. rendelet 9. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^54]: Az 1. számú melléklet C) rész 2.1. alpontja a 192/2003. (XI. 26.) Korm. rendelet 7. §-ával megállapított, a 337/2007. (XII. 13.) Korm. rendelet 9. § (2) bekezdésének a) pontja, a 296/2012. (X. 17.) Korm. rendelet 10. §-a szerint módosított szöveg.
 [^55]: Az 1. számú melléklet D) fejezetének 1.1.1. alpontja a 192/2003. (XI. 26.) Korm. rendelet 11. §-ának (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^56]: Az 1. számú melléklet D) pontjának 1.1.5. alpontja a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^57]: Az 1. számú melléklet D) pontjának 1.3. alpontját a 182/2009. (IX. 10.) Korm. rendelet 230. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
