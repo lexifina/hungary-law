@@ -12,7 +12,7 @@
 
 | 5. | Termőföldön megvalósuló légiforgalmi berendezés létesítésének engedélyezése esetén. | Termőföld minőségi védelme. | fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-| 6. | A berendezés típuscseréje, valamint a repülőtér területén történő légiforgalmi berendezés telepítése kivételével a nem ionizáló sugárzó berendezést szolgáló építmény hatósági engedélyezése esetén. | A berendezés sugár-egészségügyi hatásai, kockázatai. | Állami Népegészségügyi és Tisztiorvosi Szolgálat Sugár-egészségügyi Decentruma | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+| 6. | A berendezés típuscseréje, valamint a repülőtér területén történő légiforgalmi berendezés telepítése kivételével a nem ionizáló sugárzó berendezést szolgáló építmény hatósági engedélyezése esetén. | A berendezés sugár-egészségügyi hatásai, kockázatai. | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve Sugár-egészségügyi Decentruma | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
 
 5. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^208]
 
@@ -38,7 +38,7 @@ eljárásban közreműködő szakhatóságok
 
 | 3. | Az eljárás határvizet érint | Annak elbírálása kérdésében, hogy biztosíthatók-e a vámeljárás feltételei. | Nemzeti Adó- és Vámhivatal területileg illetékes megyei vám- és pénzügyőri igazgatósága | Nemzeti Adó- és Vámhivatal területileg illetékes vám- és pénzügyőri regionális főigazgatósága | IGEN | IGEN | IGEN |
 
-| 4. | Minden esetben. | Közegészség- és járványügyekkel kapcsolatosan | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének kistérségi (fővárosi kerületi) intézete | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének kistérségi (fővárosi kerületi) intézete | IGEN | IGEN | IGEN |
+| 4. | Minden esetben. | Közegészség- és járványügyekkel kapcsolatosan | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | IGEN | IGEN | IGEN |
 
 | 5. | Az eljárás honvédelmi vagy katonai célú létesítmény működési vagy védőterületén tervezett hajózási létesítmény engedélyezésére irányul. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter | IGEN | IGEN | IGEN |
 
@@ -98,4 +98,4 @@ engedélyezési eljárásban részt vevő szakhatóságok
 
 | 4. | Ha a hajózási létesítmény régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy külön jogszabályban meghatározott esetekben műemléket érintő módon valósul meg. | Annak elbírálása kérdésében, hogy a hajózási létesítmény a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | kulturális örökségvédelmi szakigazgatási szerv | Kulturális Örökségvédelmi Hivatal | IGEN | IGEN | IGEN |
 
-[^208]: Az 5. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 273/2010. (XII. 9.) Korm. rendelet 114. § (2) bekezdése, a 326/2010. (XII. 27.) Korm. rendelet – a 351/2010. (XII. 30.) Korm. rendelet 290. §-ával megállapított – 13. §-a, a 158/2011. (VIII. 11.) Korm. rendelet 8. § (3) bekezdés b) pontja, a 82/2011. (V. 18.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^208]: Az 5. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 273/2010. (XII. 9.) Korm. rendelet 114. § (2) bekezdése, a 326/2010. (XII. 27.) Korm. rendelet – a 351/2010. (XII. 30.) Korm. rendelet 290. §-ával megállapított – 13. §-a, a 158/2011. (VIII. 11.) Korm. rendelet 8. § (3) bekezdés b) pontja, a 82/2011. (V. 18.) Korm. rendelet 34. §-a, a 296/2012. (X. 17.) Korm. rendelet 22. § h) pontja szerint módosított szöveg.
