@@ -26,13 +26,13 @@
 
 | 11. |  |  | földmérési hatósági eljárások | Győri Körzeti Földhivatal | Győr-Moson- Sopron Megyei Kormányhivatal Földhivatala |
 
-| 12. |  |  | erdészeti hatósági engedélyek | Vas Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 12. |  |  | erdészeti hatósági engedélyek | Vas Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 13. |  |  | hírközlési hatósági engedélyek | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Médiatanácsának elnöke |
 
 | 14. |  |  | bányahatósági engedélyek | Magyar Bányászati és Földtani Hivatal Veszprémi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| 15. |  |  | talajvédelmi hatósági engedélyek | Győr-Moson- Sopron Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Mezőgazdasági Szakigazgatási Hivatal |
+| 15. |  |  | talajvédelmi hatósági engedélyek | Győr-Moson- Sopron Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 16. |  |  | kulturális örökségvédelmi hatósági engedélyek | Győr-Moson- Sopron Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -84,9 +84,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | a) termőföldvédelem | Győri Körzeti Földhivatal | Győr-Moson-Sopron Megyei Kormányhivatal Földhivatala |
 
-| b) talajvédelem | Győr-Moson-Sopron Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| b) talajvédelem | Győr-Moson-Sopron Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| c) erdővédelem | Vas Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| c) erdővédelem | Vas Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 11. | kulturális örökségvédelem | Győr-Moson-Sopron Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -96,8 +96,8 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 14. | műszaki biztonság | Győr-Moson-Sopron Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatóság | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 15. | élelmiszer-egészségügy | Győr-Moson-Sopron Megyei Kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 15. | élelmiszer-egészségügy | Győr-Moson-Sopron Megyei Kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 16. | területrendezés | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
 
-[^6]: A 2. melléklet a 158/2011. (VIII. 11.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet a 158/2011. (VIII. 11.) Korm. rendelet 39. §-a, a 296/2012. (X. 17.) Korm. rendelet 50. § b) pontja szerint módosított szöveg.
