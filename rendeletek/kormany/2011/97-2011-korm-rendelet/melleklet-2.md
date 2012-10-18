@@ -86,9 +86,9 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 10/a | termőföldvédelem | Szegedi Körzeti Földhivatal | Csongrád Megyei Kormányhivatal Földhivatala |
 
-| 10/b | talajvédelem | Csongrád Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Mezőgazdasági Szakigazgatási Hivatal |
+| 10/b | talajvédelem | Csongrád Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 10/c | erdővédelem | Bács-Kiskun Megyei Kormányhivatal Erdészeti Igazgatóság | Mezőgazdasági Szakigazgatási Hivatal |
+| 10/c | erdővédelem | Bács-Kiskun Megyei Kormányhivatal Erdészeti Igazgatóság | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 11. | kulturális örökségvédelem | Csongrád Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -98,10 +98,10 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 14. | műszaki biztonság | Csongrád Megyei Kormányhivatal Szegedi Mérésügyi és Műszaki Biztonsági Hatósága (Szeged) | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 15. | élelmiszer-egészségügy | Csongrád Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 15. | élelmiszer-egészségügy | Csongrád Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
 | 16. | területrendezés | Csongrád Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
 
 | 17. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi és Vízügyi felügyelőség | Országos Környezetvédelmi és Természetvédelmi és Vízügyi Főfelügyelőség |
 
-[^5]: A 2. melléklet a 249/2011. (XII. 1.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^5]: A 2. melléklet a 249/2011. (XII. 1.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 5. §-a, a 296/2012. (X. 17.) Korm. rendelet 52. § c) pontja szerint módosított szöveg.
