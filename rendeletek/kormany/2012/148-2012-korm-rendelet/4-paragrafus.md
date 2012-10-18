@@ -6,8 +6,10 @@
 
 (3) Jelentkezni a jelentkezési felhívásban megjelölt központi elektronikus rendszerben lehet, amit a rendszer visszaigazol.
 
-(4) A kiválasztási eljárás során a jelentkezési felhívásban rendelkezni lehet arról, hogy a képzésre jelentkező közszolgálati tisztviselőnél előnyt jelent, ha:
+(4)[^5] A kiválasztási eljárás során a jelentkezési felhívásban rendelkezni lehet arról, hogy a képzésre jelentkezőnél előnyt jelent, ha:
 
 a) legalább középfokú „C” típusú nyelvvizsgával rendelkezik, vagy
 
 b) a jelentkezésekor ügyfélszolgálati munkakörben foglalkoztatják.
+
+[^5]: A 4. § (4) bekezdés nyitó szövegrésze a 296/2012. (X. 17.) Korm. rendelet 59. § (3) bekezdés c) pontja szerint módosított szöveg.
