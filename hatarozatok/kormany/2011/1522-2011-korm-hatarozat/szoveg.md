@@ -2,6 +2,8 @@ A Kormány a jogalkotásról szóló 2010. évi CXXX. törvény 23. § (1) bekez
 
 1. A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról 2010. évi XLIII. törvény 31. § (1) bekezdésében meghatározott feladatkörében eljárva, Magyarországnak az Oroszországi Föderációval fennálló gazdasági kapcsolatai, továbbá a Kínai Népköztársasággal fennálló gazdasági kapcsolatai elősegítésére és egyéb kétoldalú kapcsolatai összehangolására – 2012. január 1. napjával kezdődően 2 év időtartamra – dr. Matolcsy Györgyöt kormánybiztossá nevezi ki.
 
+1a.[^2] A kormánybiztost akadályoztatása esetén az 1. pontban meghatározott, Magyarországnak a Kínai Népköztársasággal fennálló gazdasági kapcsolatai elősegítésére és egyéb kétoldalú kapcsolatai összehangolására irányuló feladat- és hatáskörében, a 2. pontban meghatározott feladatok ellátásában a Miniszterelnökség külügyi és külgazdasági államtitkára helyettesíti.
+
 2. A kormánybiztos feladatkörében
 
 a) ellátja a Magyar–Orosz Kormányközi Gazdasági Együttműködési Bizottság és a Magyar–Kínai Gazdasági Vegyes Bizottság magyar tagozatának elnöki feladatait,
@@ -36,6 +38,7 @@ h) szükség esetén a feladat- és hatáskörrel rendelkező miniszter, illetve
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
-7.[^1]
+7.[^3]
 
-[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1a. pontot az 1452/2012. (X. 17.) Korm. határozat 1. pontja iktatta be.
+[^3]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

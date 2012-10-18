@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1522-30
 | --- | --- | --- |
 | 2011-12-31 | 2011-1522-30-22.1 | 1522/2011. (XII. 30.) Korm. határozat |
 | 2012-01-01 | 2011-1522-30-22.2 | 2010: CXXX. törvény |
+| 2012-10-18 | 2011-1522-30-22.3 | 1100/2013. (III. 4.) Korm. határozat |
