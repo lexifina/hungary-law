@@ -12,6 +12,6 @@ c) a reprezentációs költség;
 
 d) a földkimérés költségei.
 
-(3)[^3] Szakértői díj a bizottság működési kiadásaként akkor számolható el, ha az illetékes földhivatal, illetve Mezőgazdasági Szakigazgatási Hivatal területi szerve (a továbbiakban: MgSzH területi szerve) nyilatkozatával igazolja, hogy a szükséges adatot vagy információt, illetve ez irányú szakértői munkát nem állt módjában a bizottság rendelkezésére bocsátani.
+(3)[^3] Szakértői díj a bizottság működési kiadásaként akkor számolható el, ha az illetékes földhivatal, illetve megyei kormányhivatal földművelésügyi igazgatósága (a továbbiakban: földművelésügyi igazgatóság) nyilatkozatával igazolja, hogy a szükséges adatot vagy információt, illetve ez irányú szakértői munkát nem állt módjában a bizottság rendelkezésére bocsátani.
 
-[^3]: A 2. § (3) bekezdése a 337/2007. (XII. 13.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (3) bekezdése a 296/2012. (X. 17.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

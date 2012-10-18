@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1994-79-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-12-20 | 1994-79-20-22.3 | 79/1994. (V. 19.) Korm. rendelet |
+| 2012-10-18 | 1994-79-20-22.4 | 296/2012. (X. 17.) Korm. rendelet |
