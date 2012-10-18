@@ -7044,7 +7044,7 @@
 
 ## Zalavég
 
-2. melléklet a 218/2012. (VIII. 13.) Korm. rendelethez
+2. melléklet a 218/2012. (VIII. 13.) Korm. rendelethez[^10]
 
 Megállapodás a járási (fővárosi kerületi) hivatalok kialakításához
 
@@ -7146,9 +7146,9 @@ Az átvételre kerülő államigazgatási feladatok ellátásához szükséges i
 
 A Törvény alapján az átvett feladatokat ellátók, valamint az ezzel összefüggésben funkcionális feladatokat ellátók álláshelyeinek a számát, munkakörökre illetve személyekre lebontva az 5. számú melléklet tartalmazza. Külön rögzíteni szükséges a betöltetlenül átadott státuszok számát. Átadó kötelezettséget vállal továbbá arra, hogy az 5. számú mellékletben szereplő köztisztviselők és munkavállalók személyi anyagát legkésőbb 2012. december 31-ig átadja Átvevőnek.
 
-Az átvételre kerülő köztisztviselők és munkavállalók részére korábban nyújtott munkáltatói kölcsön visszafizetése a köztisztviselők és munkavállalók részéről változatlanul az Átadó javára történik. Amennyiben tanulmányi szerződéssel rendelkező köztisztviselő vagy munkavállaló kerül átvételre, a tanulmányi szerződés tekintetében az Átadó helyébe az Átadó lép.
+Az átvételre kerülő köztisztviselők és munkavállalók részére korábban nyújtott munkáltatói kölcsön visszafizetése a köztisztviselők és munkavállalók részéről változatlanul az Átadó javára történik. Amennyiben tanulmányi szerződéssel rendelkező köztisztviselő vagy munkavállaló kerül átvételre, a tanulmányi szerződés tekintetében az Átadó helyébe az Átvevő lép.
 
-Amennyiben a megállapodás megkötése és a foglalkoztatottaknak a Járási Hivatalba történő átvétele közötti időpontban a foglalkoztatottak személye, vagy a foglalkoztatással összefüggő, e megállapodás 5. számú mellékletében meghatározott tény vagy adat megváltozik, azt Átadó három napon belül köteles írásban közölni Átadóval.
+Amennyiben a megállapodás megkötése és a foglalkoztatottaknak a Járási Hivatalba történő átvétele közötti időpontban a foglalkoztatottak személye, vagy a foglalkoztatással összefüggő, e megállapodás 5. számú mellékletében meghatározott tény vagy adat megváltozik, azt Átadó három napon belül köteles írásban közölni az Átvevővel.
 
 4. Átadó jogai és kötelezettségei
 
@@ -7264,7 +7264,7 @@ Az önkormányzati hivatal rendelkezésére álló, járási hivatal feladataina
 
 Önkormányzati hivataltól a járási hivatalhoz átadásra kerülő létszáma összesen: ........................... fő.
 
-Ebből: szakmai létszám: ........................... fő, funkcionális létszám: ........................... fő.
+Ebből: szakmai létszám: ........................... fő, funkcionális létszám: ........................... fő, üres státusz: ........................... fő.
 
 (Járási hivatalhoz átadott foglalkoztatottak adatai)
 
@@ -7272,7 +7272,7 @@ Ebből: szakmai létszám: ........................... fő, funkcionális létsz
 
 Munkakörhöz kapcsolódó adatok
 
-| Név | Jogviszony jellege: munkajogviszony (köztisztviselő, közalkalmazott, munkavállaló)/ megbízási jogviszony | Beosztás | Besorolás | Munkakör | Időtartam (határozott/ határozatlan) | Folyamatban lévő fegyelmi/ kártérítési ügyek | Alapvizsga köt. időpontja | Szakvizsga köt. időpontja |
+| Név | Jogviszony jellege: munkajogviszony (köztisztviselő, munkavállaló)/ megbízási jogviszony | Beosztás | Besorolás | Munkakör | Időtartam (határozott/ határozatlan) | Folyamatban lévő fegyelmi/ kártérítési ügyek | Alapvizsga köt. időpontja | Szakvizsga köt. időpontja |
 
 | 5/2. számú melléklet |
 
@@ -7413,3 +7413,5 @@ Telekommunikációs eszközök
 Telefonközpont kapacitás
 
 | Telephely címe | Telefon szolgáltatás típusa | Szolgáltatás azonosítója a partner részéről | Saját telefonközpont | Ha saját telefonközpont, annak a típusa | Kiosztott telefonmellékek száma | További működési mód |
+
+[^10]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 66. § (2) bekezdése szerint módosított szöveg.
