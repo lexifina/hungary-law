@@ -24,7 +24,7 @@ az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiz
 
 Határidő: folyamatos
 
-4. egyetért azzal, hogy a 2012. évre a Beruházás továbbtervezésének, további engedélyeztetésének, egyéb előkészítő feladatoknak a fedezete a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 1. melléklet XLIII. Az Állami vagyonnal kapcsolatos bevételek és kiadások fejezet 2. Az Állami vagyonnal kapcsolatos kiadások cím, 1. Felhalmozási jellegű kiadások alcím 1. Ingatlanberuházások, ingatlanvásárlás jogcímcsoport, 3. Stadionfejlesztés jogcím előirányzata, valamint a XX. Emberi Erőforrások Minisztériuma fejezet 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 11. Sportlétesítmények fejlesztése és fenntartása jogcímcsoport, 2. Állami, önkormányzati és egyéb sportlétesítmények fejlesztése jogcím soron lévő összeg terhére biztosítandó költségvetési támogatás;
+4.[^1] egyetért azzal, hogy a 2012. évre a Beruházás továbbtervezésének, további engedélyeztetésének, a beruházás lebonyolító, műszaki ellenőr mérnök tanácsadó tevékenységnek, egyéb előkészítő feladatoknak a fedezete a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 1. melléklet XLIII. Az Állami vagyonnal kapcsolatos bevételek és kiadások fejezet 2. Az Állami vagyonnal kapcsolatos kiadások cím, 1. Felhalmozási jellegű kiadások alcím 1. Ingatlanberuházások, ingatlanvásárlás jogcímcsoport, 3. Stadionfejlesztés jogcím előirányzata, valamint a XX. Emberi Erőforrások Minisztériuma fejezet 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 11. Sportlétesítmények fejlesztése és fenntartása jogcímcsoport, 2. Állami, önkormányzati és egyéb sportlétesítmények fejlesztése jogcím soron lévő összeg terhére biztosítandó költségvetési támogatás;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -39,3 +39,12 @@ Határidő: folyamatos
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: folyamatos
+
+7.[^2] felhívja a nemzeti fejlesztési minisztert, hogy az arra jogosult szervezet útján gondoskodjon a Beruházás megvalósításához szükséges építési beruházási közbeszerzési eljárásnak az 1. pontban meghatározott ütemezéssel összhangban történő lefolytatásáról.
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: 2013. február 1.
+
+[^1]: A 4. pont az 1455/2012. (X. 17.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 7. pontot az 1455/2012. (X. 17.) Korm. határozat 2. pontja iktatta be.
