@@ -188,13 +188,13 @@
 
 | 96. | OKI | Pollenterhelés | 4.9.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 97. | NEFMI | Általános iskolák | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 97. | EMMI | Általános iskolák | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 98. | NEFMI | Óvodák | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 98. | EMMI | Óvodák | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 99. | NEFMI | Szakiskola, középiskola, gimnázium elhelyezkedése | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 99. | EMMI | Szakiskola, középiskola, gimnázium elhelyezkedése | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 100. | NEFMI | Kollégiumok | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 100. | EMMI | Kollégiumok | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 101. | OH | Felsőoktatási intézmények | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -210,15 +210,15 @@
 
 | 107. | NGM | Adatátadás a magán-munkaközvetítési és munkaerő-kölcsönzési tevékenységről | 1.1.4. | évente | megye | június 1. |
 
-| 108. | NEFMI | Ápolást, gondozást nyújtó intézmények (idősek otthona, pszichiátriai betegek otthona, szenvedélybetegek otthona, fogyatékos személyek otthona, hajléktalanok otthona) | 2.4.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 108. | EMMI | Ápolást, gondozást nyújtó intézmények (idősek otthona, pszichiátriai betegek otthona, szenvedélybetegek otthona, fogyatékos személyek otthona, hajléktalanok otthona) | 2.4.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 109. | NEFMI | Bentlakásos és átmeneti elhelyezést nyújtó intézmények idősek, szenvedélybetegek, pszichiátriai betegek, fogyatékosok és hajléktalanok számára | 2.4.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 109. | EMMI | Bentlakásos és átmeneti elhelyezést nyújtó intézmények idősek, szenvedélybetegek, pszichiátriai betegek, fogyatékosok és hajléktalanok számára | 2.4.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 110. | NEFMI | Szociális szolgáltatás (étkeztetést, házi segítségnyújtást, családsegítést szervező központok) | 2.4.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 110. | EMMI | Szociális szolgáltatás (étkeztetést, házi segítségnyújtást, családsegítést szervező központok) | 2.4.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 111. | NEFMI | Falugondnoki és tanyagondnoki szolgáltatás | 2.4.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 111. | EMMI | Falugondnoki és tanyagondnoki szolgáltatás | 2.4.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 112. | NEFMI | Szociális és gyámhivatalok | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 112. | EMMI | Szociális és gyámhivatalok | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 113. | Térségi vasúthálózatok tulajdonosai és üzemeltetői | Magyarország térségi vasúthálózatának analóg vagy digitális, vektoros, szerkeszthető formátumú térképe EOV koordináta rendszerben vasútvonalankénti szelvényezéssel és az állomások (megállóhelyek) megnevezésével és feltüntetésével (keskeny nyomtávú, személy- és áruszállítás céljából üzemeltetett nem nyílt hozzáférésű vasúti pályahálózat pályatengelyét feltüntető szerkeszthető digitális vagy analóg térképi állomány) | 3.1.2. | évente | ország, vasútvonal, vonalszakasz | március 1. |
 
@@ -308,7 +308,7 @@
 
 | 31. | Nemzeti Közlekedési Hatóság | NKH |
 
-| 32. | Nemzeti Erőforrás Minisztérium | NEFMI |
+| 32. | Emberi Erőforrások Minisztériuma | EMMI |
 
 | 33. | Oktatási Hivatal | OH |
 
@@ -330,7 +330,7 @@
 
 | 42. |  |  |
 
-| 43. | Országos Vízügyi Igazgatóság | OVF |
+| 43. | Országos Vízügyi Főigazgatóság | OVF |
 
 | 44. | Nemzeti Környezetügyi Intézet | NeKI |
 
