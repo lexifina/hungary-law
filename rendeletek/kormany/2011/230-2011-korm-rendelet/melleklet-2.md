@@ -12,7 +12,7 @@
 
 | 5. | Külső villamos energia-ellátás kiépítésére vonatkozó engedély | Budapest Főváros Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 6. | Erdő igénybevétele és fakitermelés bejelentése | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+| 6. | Erdő igénybevétele és fakitermelés bejelentése | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 | 7. | Termőföld más célú hasznosítására vonatkozó engedély | illetékes körzeti földhivatal | illetékes megyei (fővárosi) kormányhivatal földhivatala |
 
@@ -32,7 +32,7 @@
 
 | 15. | Útügyi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
-2. melléklet a 230/2011. (XI. 8.) Korm. rendelethez
+2. melléklet a 230/2011. (XI. 8.) Korm. rendelethez[^2]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -50,9 +50,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 5. | Területrendezési előírásokkal való összhang | Pest Megyei Kormányhivatal Építésügyi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
 
-|  | 6. | Termőföld minőségi védelme | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  | 6. | Termőföld minőségi védelme | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-|  | 7. | Fenntartható erdőgazdálkodás és erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  | 7. | Fenntartható erdőgazdálkodás és erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 |  | 8. | Termőföld mennyiségi védelme | illetékes körzeti földhivatal | illetékes megyei (fővárosi) kormányhivatal földhivatala |
 
@@ -78,9 +78,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 7. | Tűzvédelem | Pest Megyei Katasztrófavédelmi Igazgatóság | BM Országos Katasztrófavédelmi Főigazgatóság |
 
-|  | 8. | Termőföld minőségi védelme | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  | 8. | Termőföld minőségi védelme | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-|  | 9. | Fenntartható erdőgazdálkodás és erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  | 9. | Fenntartható erdőgazdálkodás és erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 |  | 10. | Kulturális örökségvédelem | Pest Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
@@ -108,9 +108,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-|  | 2. | Termőföld minőségi védelme | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  | 2. | Termőföld minőségi védelme | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-|  | 3. | Fenntartható erdőgazdálkodás és erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  | 3. | Fenntartható erdőgazdálkodás és erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 |  | 4. | Természetvédelem | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -120,7 +120,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-|  | 2. | Talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  | 2. | Talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 |  | 3. | Természetvédelem és vízügy | Közép- Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -168,7 +168,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-|  | 2. | Talaj- és termőföldvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Mezőgazdasági Szakigazgatási Hivatal |
+|  | 2. | Talaj- és termőföldvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
 |  | 3. | Helyi jelentőségű védett természetvédelmi terület | települési önkormányzat jegyzője | illetékes megyei (fővárosi) kormányhivatal |
 
@@ -199,3 +199,5 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 |  | 2. | Kulturális örökségvédelem | Pest Megyei Kormányhivatal Kulturális Örökségvédelmi Irodája | Kulturális Örökségvédelmi Hivatal |
 
 |  | 3. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+
+[^2]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 54. § a) pontja szerint módosított szöveg.
