@@ -8,7 +8,7 @@ b) az 1. § c) pontjában felsorolt akkreditált szervezetek, az akkreditált st
 
 c) az 1. § e)–h) pontjában felsorolt akkreditált szervezetek, az akkreditált státusz fennállásának időtartama alatt,
 
-d) az 1. § b), d), i) és j) pontjában felsorolt akkreditált szervezetek és természetes személyek, az akkreditált státusz fennállásának időtartama alatt,
+d) az 1. § b), d), i), j) és k) pontjában felsorolt akkreditált szervezetek és természetes személyek, az akkreditált státusz fennállásának időtartama alatt,
 
 e) a törvényességi felügyeletet ellátó miniszter kivételével az akkreditálásban érdekelt, a Kormány által rendeletben meghatározott miniszterek,
 

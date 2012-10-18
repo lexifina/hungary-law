@@ -22,4 +22,4 @@ i) az akkreditálással kapcsolatos hazai és nemzetközi dokumentáció gyűjt�
 
 (2) A Testület ellátja továbbá mindazokat a feladatokat, amelyeket más jogszabály a Testület feladatkörébe utal.
 
-(3) A Testület köteles a 765/2008/EK rendelet 14. cikke szerinti elismert testület által végzett szakértői értékelés során az elismert testülettel, valamint annak szakértőivel együttműködni, az értékeléshez szükséges adatokat, dokumentumokat – beszámolókat, mérlegeket, bizonylatokat, belső szabályzatokat – rendelkezésre bocsátani.
+(3) A Testület köteles a 765/2008/EK európai parlamenti és tanácsi rendelet 14. cikke szerinti elismert testület által végzett szakértői értékelés során az elismert testülettel, valamint annak szakértőivel együttműködni, az értékeléshez szükséges adatokat, dokumentumokat – beszámolókat, mérlegeket, bizonylatokat, belső szabályzatokat – rendelkezésre bocsátani.

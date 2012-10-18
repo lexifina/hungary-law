@@ -12,4 +12,6 @@ d) az akkreditált szervezet vagy természetes személy akkreditált státuszát
 
 e) az akkreditált szervezet jogutód nélkül megszűnik, illetve az akkreditált természetes személy meghal,
 
-f) az akkreditált státusz visszavonását a szervezet vagy természetes személy maga kéri.
+f) az akkreditált státusz visszavonását a szervezet vagy természetes személy maga kéri,
+
+g) az 1. § k) pontja szerinti hitelesítő szervezet a 600/2012/EU bizottsági rendelet 53. cikk (3) bekezdésében meghatározottak szerint járt el,

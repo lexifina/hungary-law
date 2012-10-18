@@ -2,11 +2,13 @@
 
 24. § (1) A Testület kérelem alapján a külföldi akkreditált státuszt elismerheti. Az elismeréssel a saját akkreditálási eljárásával egyenértékűnek minősíti a külföldi akkreditáló szervezet által lefolytatott akkreditálási eljárást és az annak alapján odaítélt akkreditált státuszt.
 
+(1a) A Testület az 1. § k) pontja szerinti hitelesítő szervezetek akkreditálási okiratát a 600/2012/EU bizottsági rendelet 66. cikkében meghatározott módon elfogadja, ha a hitelesítő szervezet szerepel más tagállam akkreditált hitelesítői névjegyzékében. A más tagállamban akkreditált hitelesítő Magyarországon történő hitelesítési tevékenység folytatására irányuló szándékát a Testületnek a hitelesítési tevékenység megkezdését megelőzően legalább 60 nappal bejelenti. A bejelentést a Kormány e törvény végrehajtására kiadott rendeletében meghatározott tartalommal kell benyújtani. A hitelesítő szervezetet a Testület a bejelentést követő 30 napon belül a Kormány e törvény végrehajtására kiadott rendeletében meghatározott adatokkal bejegyzi a nyilvántartásba.
+
 (2) A külföldi akkreditált státusz elismeréséről a Tanács dönt.
 
 (3) A Tanács a külföldi akkreditált státuszt elismeri, ha azt a következő feltételek valamelyikének megfelelő akkreditáló szervezet ítélte oda:
 
-a) az Európai Gazdasági Térségről szóló megállapodásban részes állam nemzeti akkreditáló testülete, amely a 765/2008/EK rendelet 10. cikke szerint szakértői értékelésen megfelelt,
+a) az Európai Gazdasági Térségről szóló megállapodásban részes állam nemzeti akkreditáló testülete, amely a 765/2008/EK európai parlamenti és tanácsi rendelet 10. cikke szerint szakértői értékelésen megfelelt,
 
 b) az Európai Akkreditálási Együttműködés Kölcsönös Elismerési Megállapodásának tagja,
 

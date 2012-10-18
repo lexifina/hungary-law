@@ -26,19 +26,25 @@ d) szervezetek esetében a képviseletükben eljáró személy nevét.
 
 a) az akkreditált szervezetek és természetes személyek nyilvántartási számát,
 
-b) az akkreditált szervezetek (szervezeti egységek) cégnevét és természetes személyek nevét,
+b) az akkreditált szervezetek, szervezeti egységek cégnevét és természetes személyek nevét,
 
-c) az akkreditált szervezetek (szervezeti egységek) székhelyét, telephelyeit és természetes személyek lakóhelyét,
+c) az akkreditált szervezetek, szervezeti egységek székhelyét, telephelyeit és természetes személyek lakóhelyét,
 
 d) az akkreditált tevékenységet és tevékenységi területet,
 
-e) az akkreditált státusz kezdeti és lejárati időpontját.
+e) az akkreditált státusz kezdeti és lejárati időpontját,
 
-(5) A (2) bekezdés c) és d) pontja szerinti nyilvántartások tartalmazzák az akkreditáló bizottság tagjai, a minősítők és a szakértők nevét, végzettségét, képzettségét, szakterületét, szakmai gyakorlatát.
+f) az 1. § k) pontja szerinti hitelesítő szervezet akkreditált státuszának részleges vagy teljes felfüggesztésére, részleges vagy teljes körű visszavonására vonatkozó információkat,
+
+g) az 1. § k) pontja szerinti hitelesítő szervezetek tekintetében azokat a tagállamokat, amelyekben a hitelesítő szervezet hitelesítést végez és
+
+h) az 1. § k) pontja szerinti hitelesítő szervezetek által foglalkoztatott hitelesítő szakértők nevét, lakcímét, nyilvántartási számát, szaktudását, minősítését, jogosultságának korlátozottságára vonatkozó adatokat.
+
+(5) A (2) bekezdés c) és d) pontja szerinti nyilvántartások tartalmazzák az 1. § a)–j) pontja szerinti szervezetek és személyek akkreditálásában részt vevő akkreditáló bizottsági tagok, minősítők és szakértők nevét, végzettségét, képzettségét, szakterületét, szakmai gyakorlatát, az 1. § k) pontja szerinti szervezetek akkreditálásában részt vevő akkreditáló bizottsági tagok, minősítők és szakértők esetében a 600/2012/EU bizottsági rendelet 62. cikke szerinti adatokat.
 
 (6) Az adatszolgáltatás, az adatgyűjtés és az adatkezelés során az adatvédelmi jogszabályok rendelkezéseinek megtartásán túlmenően a Testület tisztségviselői, szerveinek tagjai, valamint az Akkreditálási Irodában dolgozó, a Testülettel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyek a birtokukba jutott, üzleti titoknak minősülő adatot kizárólag a Testület feladatainak ellátása során és érdekében használhatják fel.
 
-(7) A Testület a (3)–(4) bekezdés szerinti nyilvántartási adatok kezelésére a testületi tagság, illetve az akkreditált státusz megszűnését követően 10 évig jogosult. Ezen időtartam lejártát követően nyilvántartásából az adatokat a Testület köteles törölni.
+(7) A Testület a (3)–(5) bekezdés szerinti nyilvántartási adatok kezelésére a testületi tagság, az akkreditált státusz, valamint a Testületnél fennálló munkaviszony vagy munkavégzésre irányuló egyéb jogviszony megszűnését követően 10 évig jogosult. Ezen időtartam lejáratát követően nyilvántartásából az adatokat a Testület visszaállíthatatlanul törli.
 
 (8) Az akkreditáló bizottság tagjainak, valamint az akkreditálási eljárásokban alkalmazott minősítők és szakértők neve közérdekből nyilvános adatnak minősül. A (2) bekezdés szerinti nyilvántartások közérdekű és közérdekből nyilvános adataiba bárki térítés nélkül betekinthet. A Testület ezen nyilvántartásokból vagy azok egy részéből – a szabványok kivételével – kérésre, költségtérítés ellenében másolatot szolgáltat. A Testület tagjai részére a másolat szolgáltatása térítésmentes.
 

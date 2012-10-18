@@ -34,6 +34,8 @@ d) az erőforrásokban és környezetben (székhely, telephelyek),
 
 e) az akkreditált területben.
 
+(5a) Az akkreditált hitelesítő szervezet minden év november 15-éig értesíti az Akkreditálási Irodát a 600/2012/EU bizottsági rendelet 76. cikke (1) bekezdésében foglaltakról. Amennyiben az adatokban változás áll be, a hitelesítő szervezet ezen változásokat az (5) bekezdés szerinti határidőben köteles az Akkreditálási Irodának bejelenteni.
+
 (6) Az akkreditálásra vonatkozó európai és nemzetközi szabványok, továbbá azoknak a nemzetközi szervezeteknek a szabályzatai alapján, amelyeknek a Testület is tagja, a Testület szabályzatában további tény, adat, állapot változását is jelentősnek minősítheti, és erről bejelentést kérhet, amennyiben ez nem ellentétes az információs önrendelkezési jogról és az információszabadságról szóló törvénnyel.
 
 (7) A jelentős változás bejelentésének elmulasztása az akkreditált státusz felfüggesztését eredményezheti.

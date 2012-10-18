@@ -24,4 +24,6 @@ h) ellenőrző szervezetek, a hatóságok kivételével,
 
 i) referenciaanyag-gyártó szervezetek,
 
-j) a környezetvédelmi vezetési és hitelesítési rendszert (a továbbiakban: EMAS) hitelesítő szervezetek és természetes személyek.
+j) a környezetvédelmi vezetési és hitelesítési rendszert (a továbbiakban: EMAS) hitelesítő szervezetek és természetes személyek,
+
+k) az üvegházhatású gázok közösségi kereskedelmi rendszeréről szóló törvény szerinti hitelesítő szervezetek.
