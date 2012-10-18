@@ -1,4 +1,4 @@
-4. §[^5] (1) A NÁK középirányító szervként ellátja a fővárosi és megyei kormányhivatalok egyes funkcionális és irányítási feladatait.
+4. §[^8] (1) A NÁK középirányító szervként ellátja a fővárosi és megyei kormányhivatalok egyes funkcionális és irányítási feladatait.
 
 (2) A NÁK a fővárosi és megyei kormányhivatalok középirányító szerveként az alábbi jogköröket gyakorolja és az alábbi döntés-előkészítő és közreműködői feladatokat látja el,
 
@@ -58,4 +58,4 @@ ea) összesített pernyilvántartást vezet a kormányhivatalok peres eljárása
 
 eb) összesített szerződés-nyilvántartást vezet a kormányhivatalok szerződésállományáról.
 
-[^5]: A 4. § a 79/2012. (IV. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^8]: A 4. § a 79/2012. (IV. 18.) Korm. rendelet 3. §-ával megállapított szöveg.

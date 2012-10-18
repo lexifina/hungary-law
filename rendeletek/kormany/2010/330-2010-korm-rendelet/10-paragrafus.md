@@ -1,4 +1,4 @@
-## 10. §[^13] A NÁK koordinációs és integrációs feladatkörében eljárva
+## 10. §[^17] A NÁK koordinációs és integrációs feladatkörében eljárva
 
 a) szervezi a fővárosi és megyei kormányhivatalok tevékenységéről szóló, egységes módszertan alapján történő beszámoltatást, elvégzi a beszámolók összegzését és értékelését,
 
@@ -10,4 +10,4 @@ d) rendszeres kapcsolatot tart a kormányhivatalok szakmai irányítását ellá
 
 e) elősegíti az intézmények közötti koordináció megvalósulását.
 
-[^13]: A 10. § a 258/2011. (XII. 7.) Korm. rendelet 41. § (5) bekezdésével megállapított szöveg.
+[^17]: A 10. § a 258/2011. (XII. 7.) Korm. rendelet 41. § (5) bekezdésével megállapított szöveg.
