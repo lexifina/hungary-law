@@ -1,4 +1,4 @@
-## 63. §[^60]
+## 63. §[^75]
 
 ## 64. A járási (fővárosi kerületi) hivatalok kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 174/2012. (VII. 26.) Korm. rendelet módosítása
 
@@ -22,4 +22,4 @@
 
 (4) A járási (fővárosi kerületi) hivatalok kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 174/2012. (VII. 26.) Korm. rendelet 42. § (6) bekezdése a következő szöveggel lép hatályba:
 
-[^60]: A 63. § a 68. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^75]: A 63. § a 68. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
