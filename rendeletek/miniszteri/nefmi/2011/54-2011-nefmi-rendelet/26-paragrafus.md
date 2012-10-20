@@ -1,3 +1,0 @@
-## 25. § E rendeletet a hatálybalépését követően igényelt támogatások és meghirdetett pályázatok tekintetében kell alkalmazni.
-
-26. § Hatályát veszti a XX. Oktatási és Kulturális Minisztérium költségvetési fejezethez tartozó fejezeti kezelésű előirányzatok 2010. évi felhasználásának szabályairól szóló 9/2010. (III. 9.). OKM rendelet, a szociális és munkaügyi miniszter irányítása alá tartozó fejezeti kezelésű előirányzatok felhasználásáról szóló 6/2010. (III. 12.) SZMM rendelet, továbbá a XXI. Egészségügyi Minisztérium költségvetési fejezethez tartozó fejezeti kezelésű előirányzatok 2010. évi felhasználásának szabályairól szóló 32/2010. (V. 13.) EüM rendelet.

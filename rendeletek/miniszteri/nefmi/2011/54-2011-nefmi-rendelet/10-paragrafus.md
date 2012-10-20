@@ -1,5 +1,0 @@
-10. § (1) A támogatás felhasználását a minisztérium, valamint a külön jogszabályokban, a pályázati felhívásban, továbbá a támogatási szerződésben meghatározott szervek ellenőrizhetik.
-
-(2) A normatív, továbbá a XX. NEFMI fejezet 20. cím 35., 39., 46., 47. alcímekről nyújtott támogatások kivételével a megkötött támogatások számának minimum 3%-át érintően, de minden 100 millió forint feletti kötelezettségvállalás esetében a támogató – az elszámolás benyújtását követően, de legkésőbb az elszámolás elfogadását követő hat hónapon belül – helyszíni ellenőrzéssel is tájékozódik a támogatás felhasználásáról.
-
-(3) A támogató a beszámoltatás során köteles ellenőrizni, hogy a támogatás felhasználása során a kedvezményezett a közbeszerzésekről szóló 2003. évi CXXIX. törvény előírásait betartotta-e. Az ennek megállapításához szükséges dokumentumokat a kedvezményezett a közbeszerzési eljárás befejezését követően köteles a támogató részére benyújtani. A kedvezményezett számára e kötelezettséget a benyújtandó dokumentumok körének és a benyújtás határidejének meghatározásával a támogatási szerződésben kell előírni.
