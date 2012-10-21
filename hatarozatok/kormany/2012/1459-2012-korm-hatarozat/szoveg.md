@@ -16,6 +16,9 @@ közigazgatási és igazságügyi miniszter
 
 Határidő: 2013. május 31.
 
-3. A Korm. határozat 3.2. pontjában az „a nemzeti erőforrás miniszterrel” szövegrész helyébe az „az emberi erőforrások miniszterével” szöveg, 4. pontjában a „2011. december 31.” szövegrész helyébe a „2013. május 31.” szöveg, 5.2. pontjában az „a nemzeti erőforrás minisztert” szövegrész helyébe az „az emberi erőforrások miniszterét” szöveg, 9.5. pontjában az „a nemzeti erőforrás minisztert” szövegrész helyébe az „az emberi erőforrások miniszterét” szöveg lép.
+3.[^2]
 
-4. Ez a határozat a közzétételét követő napon lép hatályba, ezzel egyidejűleg hatályát veszti a Művészeti és Szabadművelődési Alapítvány megszüntetéséről szóló 1457/2011. (XII. 22.) Korm. határozat.
+4.[^3] Ez a határozat a közzétételét követő napon lép hatályba,
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
