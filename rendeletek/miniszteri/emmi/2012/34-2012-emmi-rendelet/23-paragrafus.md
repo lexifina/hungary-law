@@ -1,1 +1,3 @@
-## 22. § Hatályát veszti a XX. Nemzeti Erőforrás Minisztérium költségvetési fejezethez tartozó fejezeti kezelésű előirányzatok 2011. évi felhasználásának szabályairól szóló 54/2011. (IX. 1.) NEFMI rendelet.
+## 22. §[^2]
+
+[^2]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
