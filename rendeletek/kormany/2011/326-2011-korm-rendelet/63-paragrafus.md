@@ -23,3 +23,7 @@ f) a 44. §-ban felsorolt járművek tulajdonosa (üzemben tartója) részére M
 (4) Az E betűjelű ideiglenes rendszámtáblával a NAV Központi Hivatalát a Hivatal látja el. A NAV Központi Hivatala a rendszámtáblák elosztásáról és kiadásáról nyilvántartást vezet, amelynek adatait heti rendszerességgel a Hivatal részére papíralapú vagy elektronikus adathordozón megküldi. A nyilvántartás tartalmazza a jármű alvázszámát, gyártmányát, típusát, az ideiglenes forgalomban tartási engedély számát, a személyszállítási, teherszállítási, illetve vontatási tilalom elrendelését, valamint a vámeljárást kérő nevét, lakcímét vagy telephelyének címét, valamint a kiadott ideiglenes rendszámot és annak érvényességi idejét.
 
 (5) Az M betűjelű ideiglenes rendszámtáblát az ügyfél kérelme alapján a közlekedési igazgatási hatóság a Hivataltól rendeli meg.
+
+(6)[^7] Az SP betűjelű ideiglenes rendszámtáblát az ügyfél kérelme alapján a közlekedési igazgatási hatóság a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendelet alapján versenycélú járműnek minősített versenyzési célra használható járművekre (a továbbiakban: versenyjármű) a közlekedési hatóság által kiállított Műszaki Adatlap alapján adja ki.
+
+[^7]: A 63. § (6) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 7. § (4) bekezdése iktatta be.
