@@ -2,11 +2,11 @@
 
 38. § (1) Ez a rendelet a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
 
-a)[^19] a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-i 1071/2009/EK európai parlamenti és tanácsi rendelet, valamint az e rendeletet módosító 613/2012/EU bizottsági rendelet,
+a)[^22] a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-i 1071/2009/EK európai parlamenti és tanácsi rendelet, valamint az e rendeletet módosító 613/2012/EU bizottsági rendelet,
 
-b)[^20] a nemzetközi közúti árufuvarozási piachoz való hozzáférés közös szabályairól szóló, 2009. október 21-i 1072/2009/EK európai parlamenti és tanácsi rendelet, valamint az e rendeletet módosító 612/2012/EU bizottsági rendelet,
+b)[^23] a nemzetközi közúti árufuvarozási piachoz való hozzáférés közös szabályairól szóló, 2009. október 21-i 1072/2009/EK európai parlamenti és tanácsi rendelet, valamint az e rendeletet módosító 612/2012/EU bizottsági rendelet,
 
-c)[^21] az autóbusszal végzett személyszállítás nemzetközi piacához való hozzáférés közös szabályairól és az 561/2006/EK rendelet módosításáról szóló, 2009. október 21-i 1073/2009/EK európai parlamenti és tanácsi rendelet, valamint az e rendeletet módosító 611/2012/EU bizottsági rendelet,
+c)[^24] az autóbusszal végzett személyszállítás nemzetközi piacához való hozzáférés közös szabályairól és az 561/2006/EK rendelet módosításáról szóló, 2009. október 21-i 1073/2009/EK európai parlamenti és tanácsi rendelet, valamint az e rendeletet módosító 611/2012/EU bizottsági rendelet,
 
 d) az autóbusszal végzett személyszállítás okmányaira vonatkozóan a 684/92/EGK és a 12/98/EK tanácsi rendelet alkalmazásának részletes szabályairól szóló, 1998. október 2-i 2121/98/EK bizottsági rendelet,
 
@@ -22,6 +22,6 @@ c) az 1999/45/EK, a 2002/83/EK, a 2003/37/EK és a 2003/59/EK európai parlament
 
 d) a közlekedéspolitika területén elfogadott egyes irányelveknek Bulgária és Románia csatlakozására tekintettel történő kiigazításáról szóló, 2006. november 20-i 2006/103/EK tanácsi irányelv.
 
-[^19]: A 38. § (1) bekezdés a) pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (11) bekezdésével megállapított szöveg.
-[^20]: A 38. § (1) bekezdés b) pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (11) bekezdésével megállapított szöveg.
-[^21]: A 38. § (1) bekezdés c) pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (11) bekezdésével megállapított szöveg.
+[^22]: A 38. § (1) bekezdés a) pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (11) bekezdésével megállapított szöveg.
+[^23]: A 38. § (1) bekezdés b) pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (11) bekezdésével megállapított szöveg.
+[^24]: A 38. § (1) bekezdés c) pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (11) bekezdésével megállapított szöveg.

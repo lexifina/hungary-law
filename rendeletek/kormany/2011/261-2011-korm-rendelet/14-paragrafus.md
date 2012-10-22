@@ -18,6 +18,10 @@ e) ha a közúti közlekedési szolgáltatási tevékenységhez használni kív�
 
 másolatát.
 
+(3a)[^11] Amennyiben a kérelmező szerepel a NAV köztartozásmentes adózói adatbázisában és nem igazolja, hogy köztartozásmentes adózó, a közlekedési hatóság ellenőrzi a NAV köztartozásmentes adózói adatbázisában, hogy a kérelmező megfelel-e a 12. § (1) bekezdés b) pontjában foglalt feltételnek.
+
 (4) Más tagállam gazdálkodó szervezete, illetve állampolgára esetén a jó hírnév, a szakmai alkalmasság és a megfelelő pénzügyi helyzet teljesítésének igazolására az adott tagállam illetékes hatósága (szervezete) által erre a célra kiállított dokumentumok másolatát kell a kérelemhez csatolni.
 
 (5) A közlekedési hatóság felhívására a kérelmezőnek be kell mutatnia a (3), illetve a (4) bekezdésében megjelölt – a kérelmező által a kérelemhez másolatban csatolt – okiratok és iratok eredeti példányát.
+
+[^11]: A 14. § (3a) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 6. § (4) bekezdése iktatta be.
