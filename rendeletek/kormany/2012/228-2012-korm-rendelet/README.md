@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-228-20-
 | 2012-08-25 | 2012-228-20-22.2 | 2010: CXXX. törvény |
 | 2012-09-01 | 2012-228-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-09-02 | 2012-228-20-22.4 | 2010: CXXX. törvény |
+| 2012-10-22 | 2012-228-20-22.5 | 2010: CXXX. törvény |

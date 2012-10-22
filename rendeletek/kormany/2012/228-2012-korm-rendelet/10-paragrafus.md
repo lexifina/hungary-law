@@ -1,4 +1,4 @@
-## 9. §[^22]
+## 9. §[^17]
 
 ## 10. Záró rendelkezések
 
@@ -8,7 +8,7 @@
 
 (3) A 2. §, a 6. § (3), (4) és (10) bekezdése, valamint a 7. § (4)–(9) és (15)–(16) bekezdése e rendelet kihirdetését követő 60. napon lép hatályba.
 
-(4)[^23]
+(4)[^18]
 
-[^22]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 10. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 10. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
