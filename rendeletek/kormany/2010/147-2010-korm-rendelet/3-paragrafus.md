@@ -10,7 +10,7 @@ b) a vízgyűjtő-gazdálkodási terveket és az ezekhez kapcsolódó intézked�
 
 c) a határvizeken végzett vízimunkák és megvalósítandó vízilétesítmények esetében a határvizekre vonatkozó nemzetközi egyezményekben és az azok végrehajtására hozott határozatokban foglalt előírásokat, és
 
-d)[^1] a Magyarország által vállalt nemzetközi kötelezettségeket.
+d)[^2] a Magyarország által vállalt nemzetközi kötelezettségeket.
 
 (2) A tervezés során – amennyiben rendelkezésre állnak – mért és ellenőrzött adatokat kell felhasználni.
 
@@ -18,4 +18,4 @@ d)[^1] a Magyarország által vállalt nemzetközi kötelezettségeket.
 
 (4) A vízimunkák, vízilétesítmények tervezése során a környezet védelmének általános szabályairól szóló törvényben meghatározott elérhető legjobb technikát és leghatékonyabb megoldást kell alkalmazni.
 
-[^1]: A 3. § (1) bekezdés d) pontja a 300/2011. (XII. 22.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdés d) pontja a 300/2011. (XII. 22.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.

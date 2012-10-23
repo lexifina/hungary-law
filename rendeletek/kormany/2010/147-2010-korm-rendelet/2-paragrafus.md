@@ -22,6 +22,8 @@
 
 10. egyesített rendszerű szennyvízhálózat: a szennyvizet és csapadékvizet azonos rendszerben összegyűjtő és a szennyvíztisztító telepre vezető szennyvízhálózat,
 
+10a.[^1] egynyári öntözés: egy öntözési idényben, közvetlenül felszíni vízből, ideiglenes szivattyúállással, maximum 120 mm/ha (1200 m3/ha) öntözővíz kijuttatása, legfeljebb 100 ha nagyságú területre,
+
 11. felszín alatti víz energetikai célú kitermelése: felszín alatti vízkészlet vízilétesítménnyel történő igénybevétele fűtés, hűtés vagy elektromos energia hasznosítás céljából, annak hőmérsékletétől függetlenül,
 
 12. felszíni víz vezető-csatorna: egy vagy egyidejűleg több vízgazdálkodási feladat (vízátvezetés, vízpótlás, belvízelvezetés, mezőgazdasági és egyéb vízszolgáltatás) ellátására alkalmas vízilétesítmény,
@@ -81,3 +83,5 @@
 39. vízmosáskötő mű: a vízmosás katlanát a lejtőre merőlegesen elzáró, terméskőből, esetleg fából, rőzséből épített gát, amelynek célja, hogy a benne lerakódó hordalék megakadályozza a vízmosás medrének további mélyülését és növekedését,
 
 40. vízvédelmi terület: a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendeletben meghatározott védőterület, védősáv, valamint a nagyvízi meder.
+
+[^1]: A 2. § 10a. pontját a 290/2012. (X. 15.) Korm. rendelet 2. §-a iktatta be.

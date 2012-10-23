@@ -2,7 +2,7 @@
 
 20. § (1) A környezet védelmének általános szabályairól szóló törvény rendelkezéseinek megfelelően a települési környezetvédelmi program részeként dolgozza ki az önkormányzat a települési szennyvízkezelési programot.
 
-(2)[^2] A települési szennyvízkezelési programot a következő tartalommal kell elkészíteni:
+(2)[^3] A települési szennyvízkezelési programot a következő tartalommal kell elkészíteni:
 
 a) helyzetértékelés:
 
@@ -54,4 +54,4 @@ a) ha a településen a szennyvíz-kibocsátás által okozott szennyezőanyag-k
 
 b) ha a vízjogi engedély hivatalból történő módosítása feltételei fennállnak.
 
-[^2]: A 20. § (2) bekezdése a 209/2011. (X. 12.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^3]: A 20. § (2) bekezdése a 209/2011. (X. 12.) Korm. rendelet 6. §-ával megállapított szöveg.
