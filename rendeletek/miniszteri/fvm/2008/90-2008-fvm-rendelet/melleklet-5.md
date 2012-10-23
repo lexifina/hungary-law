@@ -44,7 +44,7 @@ tartalmazza a talajvédelmi terv megnevezését, készítésének dátumát, ké
 
 – a felhasználásra kerülő anyag akkreditált laboratórium által kiállított vizsgálati jegyzőkönyvét,
 
-– a készítői jogosultságra vonatkozó nyilatkozat, amely tartalmazza a külön jogszabály[^35] szerinti engedélyszámot.
+– a készítői jogosultságra vonatkozó nyilatkozat, amely tartalmazza a külön jogszabály[^38] szerinti engedélyszámot.
 
 5.2. Ellenőrző talajvédelmi tervek részletes tartalmi és szakmai követelményei típusonként
 
@@ -100,7 +100,7 @@ b) hígtrágya vizsgálat:
 
 Tartalmi követelmények:
 
-A tervnek tartalmazni kell a 2. melléklet 2.7. pontjában meghatározott tartalmi követelmények összehasonlítását az ellenőrzés időpontjában fennálló adatokkal, jellemzőkkel, kiemelve az esetlegesen bekövetkezett változásokat, különös tekintettel a hígtrágyát kibocsátó állattartó telepre vonatkozó információkra, a külön jogszabály[^36] szerinti területi érzékenységre.
+A tervnek tartalmazni kell a 2. melléklet 2.7. pontjában meghatározott tartalmi követelmények összehasonlítását az ellenőrzés időpontjában fennálló adatokkal, jellemzőkkel, kiemelve az esetlegesen bekövetkezett változásokat, különös tekintettel a hígtrágyát kibocsátó állattartó telepre vonatkozó információkra, a külön jogszabály[^39] szerinti területi érzékenységre.
 
 Az ellenőrző talajvédelmi tervben ismételten meg kell határozni
 
@@ -114,7 +114,7 @@ Az ellenőrző talajvédelmi tervben ismételten meg kell határozni
 
 – a hígtrágya-kijuttatást korlátozó, vagy az egyes területeket kizáró tényezőket indoklással.
 
-Nitrátérzékeny területen a dózisszámítás és a trágyakijuttatás esetében a külön jogszabályban[^37] meghatározottakat kell érvényesíteni.
+Nitrátérzékeny területen a dózisszámítás és a trágyakijuttatás esetében a külön jogszabályban[^40] meghatározottakat kell érvényesíteni.
 
 Mellékletként csatolni kell:
 
@@ -150,11 +150,11 @@ aa) minden fúrt-mintából vizsgálandó:
 
 ab) minden átlagmintákból vizsgálandó:
 
-– a külön jogszabályban[^38] meghatározott toxikus elem tartalom a 0–25 cm-es talajrétegből (injektálásos technológia alkalmazásánál 0–25, 25–60 cm-es rétegből egyaránt)
+– a külön jogszabályban[^41] meghatározott toxikus elem tartalom a 0–25 cm-es talajrétegből (injektálásos technológia alkalmazásánál 0–25, 25–60 cm-es rétegből egyaránt)
 
 – felvehető tápanyagtartalom a 0–25 cm-es rétegből szedett talajmintákból, injektálási technológia alkalmazásánál 0–25; 25–60 cm-es rétegből egyaránt (P2O5, K2O, Mg, NO3+NO2-nitrogén),
 
-– a külön jogszabályban[^39] meghatározott talajtoxicitás-vizsgálat az átlagminták felső szintjéből
+– a külön jogszabályban[^42] meghatározott talajtoxicitás-vizsgálat az átlagminták felső szintjéből
 
 ac) szakmailag indokolt esetben:
 
@@ -172,7 +172,7 @@ Az ellenőrző talajvédelmi tervben ismételten meg kell határozni
 
 – szennyvíz, szennyvíziszap vizsgálati paramétereinek elemzését,
 
-– talajterhelés meghatározását (kijuttatási technológia), a külön jogszabály[^40] szerinti területi érzékenység megjelölésével,
+– talajterhelés meghatározását (kijuttatási technológia), a külön jogszabály[^43] szerinti területi érzékenység megjelölésével,
 
 – a területen esetleg jelentkező káros folyamatok megállapítását, javaslatot a további káros folyamatok kialakulásának megelőzésére,
 
@@ -180,7 +180,7 @@ Az ellenőrző talajvédelmi tervben ismételten meg kell határozni
 
 – javaslatot a további kijuttatás korlátozására, vagy egyes területeken kizárására, indoklással.
 
-Nitrátérzékeny területen a dózisszámítás és a kijuttatás esetében a külön jogszabályban[^41] meghatározottakat kell érvényesíteni.
+Nitrátérzékeny területen a dózisszámítás és a kijuttatás esetében a külön jogszabályban[^44] meghatározottakat kell érvényesíteni.
 
 Mellékletként csatolni kell:
 
@@ -200,7 +200,7 @@ a hulladék jellegének megfelelően a 2. melléklet 2.7. vagy 2.8. pontjaiban, 
 
 b) a kijuttatásra kerülő hulladék vizsgálata:
 
-a terv elkészítésénél a tápanyagtartalom megállapításán túl a hulladék eredetétől függően, a vizsgálatok körének és a mérgező (toxikus) elemek és káros anyagok (együttesen: szennyező anyagok) határértékeinek meghatározásánál a külön jogszabályban[^42] szereplő paraméterek, határértékek, eljárások az irányadók.
+a terv elkészítésénél a tápanyagtartalom megállapításán túl a hulladék eredetétől függően, a vizsgálatok körének és a mérgező (toxikus) elemek és káros anyagok (együttesen: szennyező anyagok) határértékeinek meghatározásánál a külön jogszabályban[^45] szereplő paraméterek, határértékek, eljárások az irányadók.
 
 Tartalmi követelmények:
 
@@ -212,7 +212,7 @@ A tervnek tartalmazni kell:
 
 – vizsgálati paramétereinek elemzését,
 
-– talajterhelés meghatározását (kijuttatási technológia), a külön jogszabály[^43] szerinti területi érzékenység megjelölését,
+– talajterhelés meghatározását (kijuttatási technológia), a külön jogszabály[^46] szerinti területi érzékenység megjelölését,
 
 – a területen esetleg jelentkező káros folyamatok jelzését, javaslatot azok megelőzésére,
 
@@ -258,7 +258,7 @@ A tervnek tartalmazni kell:
 
 – a vizsgálati paraméterek elemzését,
 
-– a talajterhelés meghatározását (kijuttatási technológia), a külön jogszabály[^44] szerinti területi érzékenység megjelölését,
+– a talajterhelés meghatározását (kijuttatási technológia), a külön jogszabály[^47] szerinti területi érzékenység megjelölését,
 
 – a területen esetleg jelentkező káros folyamatok jelzését, javaslatot a megelőzésére,
 
@@ -276,7 +276,7 @@ Talajmintavétel módja, vizsgálatok köre:
 
 Táblánként, de legalább 25 ha-ként, lehetőleg a veszélyeztetett mélyebb térszíni fekvésű foltban 100 x 100 m-es mintateret kell kijelölni. Talajmintát kell venni fúrásból a 0–25, 25–60, 60–90 cm mélységből.
 
-Legfeljebb 5 ha-ként kialakított mintatereken 20 részmintából a 4. melléklet szerint átlagmintát kell venni növénykultúrától függő mélységig, melyekből a külön jogszabályban[^45] meghatározott paramétereket kell megvizsgálni.
+Legfeljebb 5 ha-ként kialakított mintatereken 20 részmintából a 4. melléklet szerint átlagmintát kell venni növénykultúrától függő mélységig, melyekből a külön jogszabályban[^48] meghatározott paramétereket kell megvizsgálni.
 
 Ha jogszabály másként nem rendelkezik, 2 méteren belül elérhető talajvízszint esetén talajvízmintát kell venni.
 
@@ -294,11 +294,11 @@ aa) fúrás-mintákból:
 
 – vízben oldható összes sótartalom (%),
 
-ab) átlagmintákból: a talaj vizsgálati paramétereit a külön jogszabály[^46] tartalmazza;
+ab) átlagmintákból: a talaj vizsgálati paramétereit a külön jogszabály[^49] tartalmazza;
 
 b) szennyvíziszap komposzt vizsgálata:
 
-a vizsgálati paramétereket a külön jogszabály[^47] tartalmazza.
+a vizsgálati paramétereket a külön jogszabály[^50] tartalmazza.
 
 Tartalmi követelmények:
 
@@ -310,7 +310,7 @@ Az egyszerűsített talajvédelmi tervnek tartalmazni kell a következőket:
 
 – vizsgálati paramétereinek elemzését,
 
-– talajterhelés meghatározását (kijuttatási technológia), a külön jogszabály[^48] szerinti területi érzékenység megjelölését,
+– talajterhelés meghatározását (kijuttatási technológia), a külön jogszabály[^51] szerinti területi érzékenység megjelölését,
 
 – a területen esetleg jelentkező káros folyamatok jelzését, javaslatot a megelőzésére,
 
@@ -382,17 +382,17 @@ Mellékletként csatolni kell:
 
 az öntözés lehetőségére vonatkozó, a kiindulási talajvédelmi tervhez képest megújított kartogramot.
 
-[^35]: 61/1994. (XI. 8.) FM rendelet.
-[^36]: 27/2006. (II. 7.) Korm. rendelet.
-[^37]: 59/2008. (IV. 29.) FVM rendelet.
-[^38]: 50/2001. (IV. 3.) Korm. rendelet.
-[^39]: 50/2001. (IV. 3.) Korm. rendelet.
-[^40]: 27/2006. (II. 7.) Korm. rendelet.
-[^41]: 59/2008. (IV. 29.) FVM rendelet.
-[^42]: 50/2001. (IV. 3.) Korm. rendelet, illetve 10/2000. (VI. 2.) KöM–EüM–FVM–KHVM együttes rendelet.
+[^38]: 61/1994. (XI. 8.) FM rendelet.
+[^39]: 27/2006. (II. 7.) Korm. rendelet.
+[^40]: 59/2008. (IV. 29.) FVM rendelet.
+[^41]: 50/2001. (IV. 3.) Korm. rendelet.
+[^42]: 50/2001. (IV. 3.) Korm. rendelet.
 [^43]: 27/2006. (II. 7.) Korm. rendelet.
-[^44]: 27/2006. (II. 7.) Korm. rendelet.
-[^45]: 50/2001. (IV. 3.) Korm. rendelet.
-[^46]: 50/2001. (IV. 3.) Korm. rendelet.
-[^47]: 50/2001. (IV. 3.) Korm. rendelet.
-[^48]: 27/2006. (II. 7.) Korm. rendelet.
+[^44]: 59/2008. (IV. 29.) FVM rendelet.
+[^45]: 50/2001. (IV. 3.) Korm. rendelet, illetve 10/2000. (VI. 2.) KöM–EüM–FVM–KHVM együttes rendelet.
+[^46]: 27/2006. (II. 7.) Korm. rendelet.
+[^47]: 27/2006. (II. 7.) Korm. rendelet.
+[^48]: 50/2001. (IV. 3.) Korm. rendelet.
+[^49]: 50/2001. (IV. 3.) Korm. rendelet.
+[^50]: 50/2001. (IV. 3.) Korm. rendelet.
+[^51]: 27/2006. (II. 7.) Korm. rendelet.

@@ -1,4 +1,4 @@
-## 6–8. §[^10]
+## 6–8. §[^12]
 
 1. melléklet a 90/2008. (VII. 18.) FVM rendelethez
 
@@ -6,7 +6,7 @@
 
 A talajvédelmi terveket minden esetben a következők szerint kell összeállítani:
 
-1.[^11] Előlap:
+1.[^13] Előlap:
 
 tartalmazza a talajvédelmi terv megnevezését, készítésének dátumát, készítőjének nevét és címét.
 
@@ -54,8 +54,8 @@ minden esetben javaslatot kell tenni
 
 – ahol e rendelet terhelhetőségi számítást, kijuttatási dózis meghatározását írja elő, csatolni kell a felhasználásra kerülő anyag akkreditált laboratórium által kiállított vizsgálati jegyzőkönyvét, illetve termésnövelő anyag felhasználásakor annak megnevezését és a felhasználásra vonatkozó számítás eredményét tartalmazó adatokat,
 
-–[^12] a talajvédelmi szakértői jogosultságra vonatkozó nyilatkozatot.
+–[^14] a talajvédelmi szakértői jogosultságra vonatkozó nyilatkozatot.
 
-[^10]: A 6–8. § az 5. § (2) bekezdése alapján hatályát vesztette.
-[^11]: Az 1. melléklet 1. pontja a 130/2009. (X. 8.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. október 16. napját követően indult ügyekre kell alkalmazni.
-[^12]: Az 1. melléklet 6. pontjának hatodik franciabekezdése a 130/2009. (X. 8.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. október 16. napját követően indult ügyekre kell alkalmazni.
+[^12]: A 6–8. § az 5. § (2) bekezdése alapján hatályát vesztette.
+[^13]: Az 1. melléklet 1. pontja a 130/2009. (X. 8.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. október 16. napját követően indult ügyekre kell alkalmazni.
+[^14]: Az 1. melléklet 6. pontjának hatodik franciabekezdése a 130/2009. (X. 8.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. október 16. napját követően indult ügyekre kell alkalmazni.
