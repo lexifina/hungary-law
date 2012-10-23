@@ -1,6 +1,6 @@
-## 10/A. §[^66] A vízjogi engedély módosítására, visszavonására és a tevékenység szüneteltetésére a vízjogi engedély kiadására vonatkozó szabályok a 11-14. §-ban meghatározott eltérésekkel alkalmazandók.
+## 10/A. §[^68] A vízjogi engedély módosítására, visszavonására és a tevékenység szüneteltetésére a vízjogi engedély kiadására vonatkozó szabályok a 11-14. §-ban meghatározott eltérésekkel alkalmazandók.
 
-11. §[^67] (1) A vízjogi engedély az engedélyes kérelmére módosítható, amennyiben:
+11. §[^69] (1) A vízjogi engedély az engedélyes kérelmére módosítható, amennyiben:
 
 a) az engedélyes a vízilétesítményt át akarja alakítani, vagy az engedélyben meghatározott műszaki megoldástól eltérően kívánja megterveztetni, megépíteni, illetőleg üzemeltetni, továbbá a vízhasználatot az engedélytől eltérő módon (mértékben) kívánja gyakorolni;
 
@@ -12,5 +12,5 @@ c) megváltoztak az engedély alapjául szolgáló körülmények és feltétele
 
 (3) A vízjogi engedélynek az (1) bekezdés alapján történő módosításához az engedélyesnek csatolni kell mindazokat az adatokat, műszaki terveket, szükséges egyéb hatósági engedélyeket, közmű kezelőjének (üzemeltetőjének) hozzájárulását, amelyek az érvényes vízjogi engedélyhez képest a módosítással összefüggő kérelmet megalapozzák.
 
-[^66]: A 10/A. §-t a 123/2012. (VI. 26.) Korm. rendelet 3. §-a iktatta be.
-[^67]: A 11. § a 123/2012. (VI. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^68]: A 10/A. §-t a 123/2012. (VI. 26.) Korm. rendelet 3. §-a iktatta be.
+[^69]: A 11. § a 123/2012. (VI. 26.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -44,6 +44,10 @@ b) az üzemeltetési, fenntartási, helyreállítási, illetve kármegelőzési 
 
 c) az engedély területi és időbeli hatályáról.
 
+(12)[^44] A vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendeletben meghatározott, egynyári öntözésre szóló vízjogi üzemeltetési engedély a mezőgazdasági vízszolgáltató művek üzemeltetéséről szóló miniszteri rendeletben meghatározott, öntözés esetére szolgáló hasznosítási idényt követő hónap végéig hatályos.
+
+(13)[^45] Egynyári öntözésre szóló vízjogi üzemeltetési engedély abban az esetben adható, ha a kérelemben megjelölt, ugyanazon helyrajzi számú területre, illetve ugyanazon helyrajzi számú területen belüli részterületre öt éven belül egynyári öntözésre szóló vízjogi üzemeltetési engedély kiadására nem került sor.
+
 [^35]: Az 5. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 83. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^36]: Az 5. § (3) bekezdésének b) pontja a 10/2000. (II. 2.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^37]: Az 5. § (4) bekezdésének d) pontja a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -53,3 +57,5 @@ c) az engedély területi és időbeli hatályáról.
 [^41]: Az 5. § (9) bekezdését a 10/2000. (II. 2.) Korm. rendelet 4. §-ának (2) bekezdése iktatta be, szövege a 377/2007. (XII. 23.) Korm. rendelet 8. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 85. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^42]: Az 5. § (10) bekezdését a 23/2010. (II. 11.) Korm. rendelet 5. §-a iktatta be, szövege a 289/2010. (XII. 21.) Korm. rendelet 3. § (10) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^43]: Az 5. § (11) bekezdését a 23/2010. (II. 11.) Korm. rendelet 5. §-a iktatta be.
+[^44]: Az 5. § (12) bekezdését a 290/2012. (X. 15.) Korm. rendelet 1. §-a iktatta be.
+[^45]: Az 5. § (13) bekezdését a 290/2012. (X. 15.) Korm. rendelet 1. §-a iktatta be.

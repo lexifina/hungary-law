@@ -6,7 +6,7 @@
 
 (2) Saját célt szolgáló, vízjogi engedélyezési kötelezettség alá tartozó vízilétesítmény megvalósításához és üzemeltetéséhez szükséges vízvezetési szolgalom alapítására a polgári jog szabályai irányadók.
 
-(2a)[^47] Amennyiben a (2) bekezdés szerinti szolgalom alapítására nemzeti vagyonba tartozó vizek medrét érintően kerül sor, úgy a vízvezetési szolgalom a vízjogi létesítési engedély jogerőre emelkedésének napján e rendelet erejénél fogva jön létre, amennyiben a (7) bekezdésben foglaltak teljesülnek. Erről a vízjogi létesítési engedélyben rendelkezni kell.
+(2a)[^49] Amennyiben a (2) bekezdés szerinti szolgalom alapítására nemzeti vagyonba tartozó vizek medrét érintően kerül sor, úgy a vízvezetési szolgalom a vízjogi létesítési engedély jogerőre emelkedésének napján e rendelet erejénél fogva jön létre, amennyiben a (7) bekezdésben foglaltak teljesülnek. Erről a vízjogi létesítési engedélyben rendelkezni kell.
 
 (3) Az (1) és (2) bekezdésben érintett vízvezetési szolgalommal összefüggő, a jogosultat, valamint a tűrésre kötelezettet megillető jogokat és terhelő kötelezettségeket az alapul szolgáló jogviszony határozza meg azzal, hogy a jogosult a vízjogi engedélyben rögzített tevékenységet a szolgalommal érintett ingatlan tulajdonosának (használójának) érdekeit, az ingatlan használati módját figyelembe véve gyakorolhatja.
 
@@ -14,17 +14,17 @@
 
 (5) A szolgalom alapítására irányuló eljárásban meg kell határozni és a határozatban – az ingatlan-nyilvántartási adatokra is figyelemmel – rögzíteni kell, különösen:
 
-a)[^48] a vízilétesítmény elhelyezésével és üzemeltetésével összefüggő használati korlátozások tartalmát, ideértve az ingatlannak a korlátozással érintett részét a körzeti földhivatal által érvényes záradékkal ellátott változási vázrajzra történő utalással;
+a)[^50] a vízilétesítmény elhelyezésével és üzemeltetésével összefüggő használati korlátozások tartalmát, ideértve az ingatlannak a korlátozással érintett részét a körzeti földhivatal által érvényes záradékkal ellátott változási vázrajzra történő utalással;
 
 b) a jogosultat (vízjogi engedélyest) és az ingatlan tulajdonosát érintő, a létesítéssel és a használattal összefüggő egyéb jogokat és kötelezettségeket.
 
 (6) Az építtető (vízjogi engedélyes) és a létesítmény elhelyezésével érintett ingatlan tulajdonosa között létrejött megállapodáson alapuló vízvezetési szolgalom esetén a felek szerződésének az (5) bekezdés a) és b) pontjában megjelölt adatokat is tartalmaznia kell. A megállapodás (szerződés) a vízügyi hatóság jóváhagyásával jön létre. Erről a vízjogi létesítési engedélyben rendelkezni kell.
 
-(7)[^49] Nemzeti vagyonba tartozó vizek medrét érintő saját célú vízvezetési szolgalom létesítése esetén az építtető (vízjogi engedélyes) és a létesítmény elhelyezésével érintett ingatlan tulajdonosa között létrejött megállapodásban a feleknek rendelkezniük kell az (5) bekezdés a) és b) pontjában megjelölt adatokról, valamint a szolgalmi jog ellenértékéről. A megállapodás (szerződés) érvényességéhez a felügyelőség jóváhagyása szükséges. Erről a vízjogi létesítési engedélyben rendelkezni kell.
+(7)[^51] Nemzeti vagyonba tartozó vizek medrét érintő saját célú vízvezetési szolgalom létesítése esetén az építtető (vízjogi engedélyes) és a létesítmény elhelyezésével érintett ingatlan tulajdonosa között létrejött megállapodásban a feleknek rendelkezniük kell az (5) bekezdés a) és b) pontjában megjelölt adatokról, valamint a szolgalmi jog ellenértékéről. A megállapodás (szerződés) érvényességéhez a felügyelőség jóváhagyása szükséges. Erről a vízjogi létesítési engedélyben rendelkezni kell.
 
-(8)[^50] Nemzeti vagyonba tartozó vizek medrét érintő saját célú vízvezetési szolgalom az üzemeltetési engedély bármely okból történő megszűnésének időpontjáig áll fenn.
+(8)[^52] Nemzeti vagyonba tartozó vizek medrét érintő saját célú vízvezetési szolgalom az üzemeltetési engedély bármely okból történő megszűnésének időpontjáig áll fenn.
 
-[^47]: A 6. § (2a) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^48]: A 6. § (5) bekezdés a) pontja a 242/2012. (VIII. 31.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^49]: A 6. § (7) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
-[^50]: A 6. § (8) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^49]: A 6. § (2a) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^50]: A 6. § (5) bekezdés a) pontja a 242/2012. (VIII. 31.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^51]: A 6. § (7) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^52]: A 6. § (8) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.

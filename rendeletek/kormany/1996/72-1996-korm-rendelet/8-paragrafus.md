@@ -4,15 +4,15 @@
 
 (3) A vízjogi engedély módosítása során a vízvezetési szolgalom változatlan fenntartásának feltételeit is vizsgálni kell a szolgalom alapítására irányadó rendelkezések megfelelő alkalmazásával.
 
-(4)[^51] A vízvezetési, valamint vízhasználati szolgalmi jogot – külön jogszabály szerint – az ingatlan-nyilvántartásba be kell jegyezni.
+(4)[^53] A vízvezetési, valamint vízhasználati szolgalmi jogot – külön jogszabály szerint – az ingatlan-nyilvántartásba be kell jegyezni.
 
-(4a)[^52] A vízügyi hatóság a 6. § (1) és (2a) bekezdése szerinti jogerős vízjogi létesítési engedéllyel, valamint a szolgalmi jogi megállapodással megkeresi a földhivatalt a szolgalmi jog ingatlan-nyilvántartásba történő bejegyzése iránt.
+(4a)[^54] A vízügyi hatóság a 6. § (1) és (2a) bekezdése szerinti jogerős vízjogi létesítési engedéllyel, valamint a szolgalmi jogi megállapodással megkeresi a földhivatalt a szolgalmi jog ingatlan-nyilvántartásba történő bejegyzése iránt.
 
-(4b)[^53] Az ingatlan-nyilvántartásba bejegyzett szolgalmi jogot annak megszűnését követően a vízügyi hatóság által kiadott hatósági bizonyítvány becsatolásával a szolgalommal terhelt ingatlan tulajdonosának egyoldalú kérelmére a földhivatal törli az ingatlan-nyilvántartásból.
+(4b)[^55] Az ingatlan-nyilvántartásba bejegyzett szolgalmi jogot annak megszűnését követően a vízügyi hatóság által kiadott hatósági bizonyítvány becsatolásával a szolgalommal terhelt ingatlan tulajdonosának egyoldalú kérelmére a földhivatal törli az ingatlan-nyilvántartásból.
 
-(5)[^54] Vízvezetési szolgalom alapításával kapcsolatos kártalanítási igény (Vgtv. 21. §) elbírálására, továbbá a vízhasználati szolgalommal összefüggő költségviselésre e rendeletnek a kártalanításra és költségmegosztásra vonatkozó szabályai irányadók.
+(5)[^56] Vízvezetési szolgalom alapításával kapcsolatos kártalanítási igény (Vgtv. 21. §) elbírálására, továbbá a vízhasználati szolgalommal összefüggő költségviselésre e rendeletnek a kártalanításra és költségmegosztásra vonatkozó szabályai irányadók.
 
-[^51]: A 8. § (4) bekezdését a 10/2000. (II. 2.) Korm. rendelet 5. §-a iktatta a szövegbe.
-[^52]: A 8. § (4a) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be.
-[^53]: A 8. § (4b) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be.
-[^54]: A 8. § (5) bekezdését a 10/2000. (II. 2.) Korm. rendelet 5. §-a iktatta a szövegbe.
+[^53]: A 8. § (4) bekezdését a 10/2000. (II. 2.) Korm. rendelet 5. §-a iktatta a szövegbe.
+[^54]: A 8. § (4a) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^55]: A 8. § (4b) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^56]: A 8. § (5) bekezdését a 10/2000. (II. 2.) Korm. rendelet 5. §-a iktatta a szövegbe.
