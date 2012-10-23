@@ -434,7 +434,21 @@
 
 ## 5. az öntözőtelep műtárgyainak általános terve;
 
-## 6. a talajtani szakvélemény.
+## 6.[^37] a talajvédelmi terv.
+
+## IV/A.[^38] A vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendeletben meghatározott egynyári öntözés esetén:
+
+## 1. műszaki leírás:
+
+## a) a vízkivétel helye: az öntöző- vagy belvízcsatorna és az annak vizét szolgáltató megnevezése, szelvényszáma vagy a vizet adó vízfolyás megnevezése és szelvényszáma vagy pedig a vizet adó tó, holtág, illetőleg tározó megnevezése,
+
+## b) az öntözendő terület településnevének és helyrajzi számának megadása, illetve adott helyrajzi számú területen belüli öntözni kívánt részterület esetén annak pontos lehatárolása,
+
+## c) az öntözés módja és megvalósítása, valamint az öntözendő terület nagysága, növénykultúrája,
+
+## d) a felhasználandó öntözővíz mennyisége (l/s, m3/év), valamint csúcsmennyisége (l/s) és az üzemelés napi leghosszabb időtartama;
+
+## 2. az egyszerűsített talajvédelmi terv.
 
 ## V. Halastavak és víztározók esetén
 
@@ -756,7 +770,7 @@
 
 ## 6. Pontszerű létesítmények (így például kutak, szikkasztók, zárt gyűjtők, közműpótló létesítmények) esetében a létesítmény részlettervét, a vízgazdálkodási és a létesítményre vonatkozó műszaki paraméterek feltüntetésével.
 
-3. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^37]
+3. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^39]
 
 Szennyezőforrások ismertetése a tervdokumentációban
 
@@ -856,4 +870,6 @@ A műszaki-hidrológiai dokumentációk alapján értékelve a vízzáró képz�
 
 [^35]: A 2. számú melléklet III/A. pontját a 39/2001. (XI. 23.) KöViM rendelet 1. §-a iktatta a szövegbe.
 [^36]: A 2. számú melléklet III/A. pontjának 1.g) alpontja a 21/2002. (IV. 25.) KöViM rendelet 14. §-a (7) bekezdésének b) pontjával megállapított szöveg.
-[^37]: Az újabb 3. számú melléklet a 123/1997. (VII. 18.) Korm. rendelet 6. számú melléklete alapján került beiktatásra.
+[^37]: A 2. számú melléklet IV. pont 6. alpontja a 109/2012. (X. 15.) VM rendelet 1. §-ával megállapított szöveg.
+[^38]: A 2. számú melléklet IV/A. pontját a 109/2012. (X. 15.) VM rendelet 1. §-a iktatta be.
+[^39]: Az újabb 3. számú melléklet a 123/1997. (VII. 18.) Korm. rendelet 6. számú melléklete alapján került beiktatásra.
