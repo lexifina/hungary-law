@@ -1,1 +1,0 @@
-## 1. § A vízjogi engedélyezési eljáráshoz szükséges kérelemről és mellékleteiről szóló 18/1996. (VI. 13.) KHVM rendelet (a továbbiakban: KHVM rendelet) 2. számú melléklete az 1. melléklet szerint módosul.
