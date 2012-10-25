@@ -20,6 +20,6 @@
 
 | Nyugat-Dunántúli Regionális Egészségbiztosítási Pénztár, Szombathely | 10047004-01743908-00000000 |
 
-4. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^24]
+4. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^25]
 
-[^24]: A 4. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 20. pontja hatályon kívül helyezte.
+[^25]: A 4. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 20. pontja hatályon kívül helyezte.

@@ -1,50 +1,46 @@
-| I. | Kábítószerekkel, illetve pszichotróp anyagokkal kapcsolatos igazgatási szolgáltatások |  |
+| I. | Kábítószerekkel és pszichotróp anyagokkal, illetve új pszichoaktív anyagokkal kapcsolatos igazgatási szolgáltatások |  |
 
-| I.1. | Tevékenységi engedély első kiadása, felújítása |  |
+| I.1. | Gyógyászati tevékenységi engedély első kiadása, felújítása | 300 000 Ft |
 
-| I.1.1. | Kábítószerekre | 300 000 |
+| I.2. | Gyógyászati tevékenységi engedély módosítása | 60 000 Ft |
 
-| I.1.2. | Pszichotróp anyagokra | 300 000 |
+| I.3. | Nem gyógyászati célú tevékenységi engedély első kiadása, megújítása, módosítása | 12 000 Ft |
 
-| I.1.3. | Kábítószerekre és pszichotróp anyagokra | 450 000 |
+| I.4. | Ipari mák éves termesztetési engedély kiadása | 60 000 Ft |
 
-| I.2. | Tevékenységi engedély módosítása | 60 000 |
+| I.5. | Eseti kutatási engedély kiadása | 12 000 Ft |
 
-| I.3. | Ipari mák éves termesztési engedély kiadása | 100 000 |
+| I.6. | Eseti export-import engedély kiadása szállítmányonként | 60 000 Ft |
 
-| I.4. | Eseti tudományos kutatási engedély kiadása | 10 000 |
+| I.7. | Ipari vagy étkezési mákszalma, díszítőmák, kannabisznövény, valamint ipari mák és magas THC tartalmú kender vetőmagja, továbbá biológiai minták, standardok, továbbá új pszichoaktív anyagok eseti export-import engedélyének kiadása szállítmányonként | 12 000 Ft |
 
-| I.5. | Eseti export-import engedély kiadása szállítmányonként | 60 000 |
+| I.8. | Becslésmódosítási kérelem, tételenként | 60 000 Ft |
 
-| I.6. | Ipari vagy étkezési mákszalma és díszítőmák, valamint mák- és kannabisznövény minden részére eseti export-import engedély kiadása szállítmányonként | 10 000 |
+| I.9. | Mákmag tisztító, mák- vagy kannabisznövényt exportáló vagy importáló, mákszalmát tároló, továbbá kábítószerek és pszichotróp anyagok, illetve új pszichoaktív anyagok szállítmányozását végző gazdálkodó szervezetek nyilvántartásba vétele során hatósági bizonyítvány kiadása | 12 000 Ft |
 
-| I.7. | Becslésmódosítási kérelem, tételenként | 50 000 |
+| I.10. | Megsemmisíttetési engedély kiadása | 12 000 Ft |
 
-| I.8. | Mákmag tisztító, mák- vagy kannabisznövényt exportáló vagy importáló gazdálkodó szervezetek nyilvántartásba vétele | 10 000 |
+| II. | Az orvostechnikai eszközök nyilvántartásba vételével és megfelelőségértékelési eljárásaival, azokkal kapcsolatos szakvélemények kialakításával kapcsolatos igazgatási szolgáltatások |  |
 
-| I.9. | Megsemmisítési engedély kiadása | 10 000 |
+| II.1. | Orvostechnikai eszközök és az in vitro diagnosztikai orvostechnikai eszközök közül a készülék, berendezés, gép, rendszer nyilvántartásba vétele | 71 900 Ft/regisztráció |
 
-| II. | Az orvostechnikai eszközök nyilvántartásba vételével és megfelelőségértékelési eljárásaival, azokkal kapcsolatos szakvélemények kialakításával, az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyási eljárásával kapcsolatos igazgatási szolgáltatások |  |
+| II.2. | Rendelésre készített gyógyászati segédeszközök gyártóinak nyilvántartásba vétele, ha azt a gyártó a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 10/D. §-a szerinti vizsgálattal egyidőben kéri | 6 000 Ft/regisztráció |
 
-| II.1. | Az Egészségügyi Engedélyezési és Közigazgatási Hivatal által történő nyilvántartásba vétel (kivéve IVD reagensek, -származékok, egyéb anyagok) | 71 900 Ft/regisztráció |
+| II.3. | Megfelelőségértékelő szervezetek kijelölése, felülvizsgálat végzésére jogosult szervezetek kijelölése | 124 000 Ft/eset |
 
-| II.2. | Rendelésre készített gyógyászati segédeszközök gyártóinak nyilvántartásba vétele a II. 4. pont alapján | 6 000 Ft/regisztráció |
-
-| II.3. | Vizsgáló, ellenőrző és tanúsító szervezetek kijelölése és ellenőrzése | 124 000 Ft/eset |
-
-| II.4. | A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 16. számú mellékletében és az orvostechnikai eszközökről szóló 16/2006. (III. 27.) EüM rendelet 8. számú mellékletében meghatározott követelmények teljesítésének vizsgálata |  |
+| II.4. | A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 10/D. §-a szerinti vizsgálat |  |
 
 | 1–5 fős telephely esetén 6–10 fős telephely esetén 10 fő feletti telephely esetén | 140 000 Ft 205 000 Ft 377 000 Ft |
 
-| II.5. | A II.1–II.4. és II.6. pontok szerinti dokumentumokban adatváltozások (név, cím, termék megnevezése stb.) átvezetése adatfajtánként | 5 500 Ft |
+| II.5. | A nyilvántartásban, valamint a határozatban szereplő adatokban bekövetkező változások átvezetése | 16 000 Ft |
 
-| II.6. | Az in vitro diagnosztikai reagensek, -származékok stb. EEKH által történő nyilvántartásba vétele eszközcsoportonként | 5 900 Ft |
+| II.6. | Az in vitro diagnosztikai orvostechnikai eszközök közül a reagensek, reagens származékok, kalibráló és kontrol anyagok, reagens készletek nyilvántartásba vétele eszközcsoportonként | 17 000 Ft |
 
-| II.7. | Határozat kiállítása hazai gyártású orvostechnikai eszköz EU-n kívül történő forgalmazásához (angol nyelven) | 5 200 Ft |
+| II.7. | Igazolás kiállítása hazai gyártású orvostechnikai eszköz EU-n kívül történő forgalmazásához (angol nyelven) | 24 000 Ft |
 
-| II.8. | Szakvélemény kiállítása az orvostechnikai eszközökről szóló 16/2006. (III. 27.) EüM rendelet követelményeinek való megfelelés tekintetében | 40 000 Ft |
+| II.8. | Szakvélemény kiállítása az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet követelményeinek való megfelelés tekintetében | 40 000 Ft |
 
-| II.9. | Egyszer használatos eszközök újrafelhasználhatóvá tételével kapcsolatos jóváhagyás és regisztráció | 245 000 Ft eszköz- csoportonként |
+| II.9. |  |  |
 
 | II.10. | Eseti használatba vételi engedély kiállítása | 60 600 Ft |
 
@@ -60,6 +56,6 @@
 
 | V. | Gyógyszerrendeléshez szükséges számítógépes program minősítése | 252 100 Ft |
 
-2. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^22]
+2. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^23]
 
-[^22]: A 2. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 20. pontja hatályon kívül helyezte.
+[^23]: A 2. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 20. pontja hatályon kívül helyezte.
