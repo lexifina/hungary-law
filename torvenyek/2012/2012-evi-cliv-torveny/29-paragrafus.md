@@ -1,0 +1,3 @@
+29. § A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény a következő 15/A. §-sal egészül ki:
+
+„15/A. § Az egészségügy többletforráshoz juttatása érdekében szükséges törvénymódosításokról, valamint egyéb törvények módosításáról szóló 2012. évi CLIV. törvény (a továbbiakban: Módtv.) 28. §-ával megállapított 13. § (3a) bekezdését az egészségügyi szolgáltató gazdasági társaságok állami tulajdonba vétele tárgyában a Módtv. 28. §-ának hatálybalépése előtt meghozott kormánydöntések végrehajtása tekintetében is alkalmazni kell.”
