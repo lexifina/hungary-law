@@ -12,6 +12,12 @@ tekintetében.
 
 (3) E törvény alapján a tulajdonosi joggyakorló jogosult a tulajdonosi joggyakorlás körébe tartozó, az állami egészségügyi feladatellátáshoz szükségtelenné vált vagyonelemek értékesítésére az állami vagyonról szóló törvény rendelkezései szerint.
 
+(3a) A GYEMSZI jogosult
+
+a) a Kormány által meghatározott egészségügyi szolgáltató gazdasági társaság állami tulajdonba kerülése céljából az állam nevében eljárni, és
+
+b) az a) pont alapján állami tulajdonba kerülő gazdasági társaság tekintetében az állam tulajdonosi jogainak és kötelezettségeinek gyakorlására.
+
 (4) Azon átvett gazdasági társasági formában működő fekvőbeteg-szakellátó intézményekre, amelyekben a magyar állam többségi befolyással rendelkezik, az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 111. § (13) és (14) bekezdését a következő eltérésekkel kell alkalmazni:
 
 a) az Áht. 111. § (13) bekezdésében előírt kötelezettségek határideje – a b) pontban meghatározott kivétellel – 2012. július 31-e,

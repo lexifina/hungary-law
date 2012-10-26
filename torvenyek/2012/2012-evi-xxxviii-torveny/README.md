@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-38-00-00
 | 2012-04-29 | 2010. évi CXXX. törvény | 2012-38-00-00.2 |
 | 2012-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-38-00-00.3 |
 | 2012-07-02 | 2010. évi CXXX. törvény | 2012-38-00-00.4 |
+| 2012-10-26 | 2012. évi CLIV. törvény | 2012-38-00-00.5 |
