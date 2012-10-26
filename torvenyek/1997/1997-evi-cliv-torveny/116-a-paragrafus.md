@@ -18,6 +18,8 @@ d) a szakképzés gyakorlati részének teljesítésére vonatkozó adatokat,
 
 e) a munkáltató nevét, címét, adószámát és bankszámla számát.
 
+(5a) A 150. § (4) bekezdésében meghatározott feladat végrehajtásában – jogszabályban történő kijelölés esetén – az egészségügyi államigazgatási szerv részt vehet. A kijelölés alapján eljáró egészségügyi államigazgatási szerv a költségvetésében e célra rendelkezésre álló előirányzat terhére támogatást nyújt.
+
 (6) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának a feltétele a munkáltató egészségügyi szolgáltatók és az egészségügyi felsőoktatási intézmények által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás a szakorvosjelöltnek az (5) bekezdés d) pontja szerinti adatairól.
 
 (7) Az

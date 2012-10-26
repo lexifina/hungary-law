@@ -22,7 +22,9 @@ a) az egészségügyi szolgáltatás nyújtásához szükséges szakmai feltéte
 
 b) az egészségügyi intézmény működőképességét és szükség szerinti fejlesztését.
 
-(3) Az állam tulajdonában és fenntartásában levő egészségügyi intézmények esetében egyes fenntartói jogok, valamint az államháztartási törvényben felsorolt, az egyes költségvetési szervekre vonatkozó irányítói hatáskörök a fenntartóként kormányrendeletben kijelölt szervezet részére jogszabályban meghatározottak szerint átadhatóak.
+(2a) A fenntartó, valamint a (3) bekezdés szerint egyes fenntartói jogkörök gyakorlására rendeletben kijelölt szervezet a (2) bekezdésben meghatározott cél érdekében az általa fenntartott egészségügyi intézmény részére támogatást – ideértve az államháztartásról szóló törvény szerinti költségvetési támogatást –, adományt nyújthat, valamint más ellenérték nélküli kötelezettséget vállalhat, kifizetést teljesíthet.
+
+(3) Az állam tulajdonában és fenntartásában levő egészségügyi intézmények esetében egyes fenntartói jogok, valamint az államháztartásról szóló törvényben felsorolt, az egyes költségvetési szervekre vonatkozó irányítói hatáskörök a fenntartói jogok gyakorlására rendeletben kijelölt szervezet részére jogszabályban meghatározottak szerint átadhatóak.
 
 (4) Az állam tulajdonában és fenntartásában lévő fekvő- és járóbeteg-szakellátást nyújtó egészségügyi szolgáltatók esetében – azon egészségügyi szolgáltatók kivételével, amelyek nem az egészségügyért felelős miniszter irányítása alá tartoznak vagy fenntartásában vannak – az (1) bekezdésben foglalt jogkörök közül a miniszter kizárólagos irányítási jogkörébe tartozik az egyes fenntartói jogokat gyakorló szervezet javaslatára
 

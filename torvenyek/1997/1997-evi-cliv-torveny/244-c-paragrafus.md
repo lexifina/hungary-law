@@ -1,0 +1,1 @@
+244/C. § E törvény az egészségügy többletforráshoz juttatása érdekében szükséges törvénymódosításokról, valamint egyéb törvények módosításáról szóló 2012. évi CLIV. törvénnyel (a továbbiakban: Módtv2.) megállapított 155. § (2a) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő eljárás és benyújtott kérelem tekintetében is alkalmazni kell.

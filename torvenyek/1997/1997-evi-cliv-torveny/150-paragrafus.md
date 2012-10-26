@@ -23,3 +23,5 @@ i) meghatározza az egészségügyi rendszer teljesítményértékelésére vona
 (2) A miniszter ágazati irányító jogköre kiterjed minden egészségügyi tevékenységre, illetőleg – jogállásától függetlenül – minden egészségügyi szolgáltatóra.
 
 (3) A miniszter tevékenységét az Egészségügyi Tudományos Tanács (a továbbiakban ETT), a szakmai kollégiumok, valamint az (1) bekezdés g) pontja szerinti országos intézetek segítik.
+
+(4) A miniszter az egészségügyi felsőfokú szakirányú szakképzésért való feladatkörében az egészségügyi felsőfokú szakirányú szakképzésben résztvevőkre tekintettel támogatást nyújthat.
