@@ -1,0 +1,5 @@
+2. § (1) Az ovális alakú emlékérme 925 ezrelék ezüstből készült, súlya 12,5 gramm, átmérője 30x25 mm, széle sima.
+
+(2) Az emlékérme előlapjának szélén, alsó köriratban a „MAGYARORSZÁG” felirat olvasható. A középmezőben két – előtérben egy egész, háttérben egy félbevágott – paradicsompaprika ábrázolása látható. A paradicsompaprikák ábrázolásától jobbra, három egymás alatti vízszintes sorban a „3000” értékjelzés, a „FORINT” felirat, valamint a „BP.” verdejel és a „2012” verési évszám olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapjának szélén, alsó köriratban a „SZENT-GYÖRGYI ALBERT • 1937 NOBEL-DÍJ” felirat olvasható. A középmezőben Szent-Györgyi Albert portréja látható. A portrétól jobbra, négy egymás alatti vízszintes sorban a „„LÁTNI, AMIT”, a „MINDENKI LÁT”, az „ÉS GONDOLNI,”, az „AMIT MÉG SENKI” és a „NEM GONDOLT.”” felirat olvasható. A portrétól jobbra, lent Vékony Fanni tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
