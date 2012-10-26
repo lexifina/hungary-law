@@ -44,11 +44,15 @@
 
 (23) A 76. § (1) bekezdés szerint a működtető tulajdonát azok a taneszközök képezik, amelyeket a 2013. január 1-jei leltár tartalmaz.
 
-(24) 2012. évben szeptember 30-ig szándékát nyilvánítja az állami intézményfenntartó központnak és 2012. október 30-ig dönt a települési önkormányzat arról, hogy a rendelkezésére álló saját és átengedett bevételek terhére a következő naptári évben kezdődő tanévtől
+(24) A 74. § (4)–(6) bekezdését 2013. január 1-jétől kell alkalmazni azzal, hogy
 
-a) 3000 főt meg nem haladó lakosságszámú település esetén a működtetést az államtól képes átvállalni,
+a) a települési önkormányzat – a 76. § (4) bekezdésében foglaltaktól eltérően – első alkalommal 2012. november 15-ig nyújthatja be
 
-b) 3000 fő lakosságszám feletti település esetén a működtetést nem képes vállalni.
+aa) a 74. § (5) bekezdése szerinti kérelmet, amennyiben 2013. január 1-jétől a működtetést az államtól képes átvállalni, vagy
+
+ab) a 74. (4) bekezdése szerinti kérelmet, amennyiben 2013. január 1-jétől a működtetést nem képes vállalni,
+
+b) a 74. § (4) és (5) bekezdése alkalmazásában a települési önkormányzat saját tulajdonában álló vagyonnak minősül az a vagyon is, amely a települési önkormányzat illetékességi területén van és 2012. szeptember 30-án intézményi társulás vagy többcélú kistérségi társulás tulajdonában volt.
 
 (25) A 44. § (6) bekezdés szerinti elektronikus kapcsolat létrejöttéig, de legkésőbb 2012. december 31-ig a köznevelési intézmény vezetője köteles a gyermek, tanuló, az óraadó és az alkalmazott személyes adatainak megváltozását a KIR adatkezelőjének – a tudomásszerzéstől számított öt napon belül – bejelenteni.
 

@@ -92,7 +92,7 @@ m) az érettségiben részt vevő pedagógusok díjazásával kapcsolatos kérd�
 
 n) az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szerv kijelölését, a települési önkormányzati fenntartású köznevelési intézmények fenntartói joga állam általi átvételének, az állami fenntartással összefüggő adatváltozások KIR-ben történő átvezetésének részletes szabályait,
 
-o) az állami köznevelési intézmény feladatait szolgáló ingatlan működtetési kötelezettsége alóli mentesülés, továbbá annak vállalása részletes szabályait, a 74. § (6) bekezdése szerinti adatszolgáltatás tartalmát és a működtetési képesség hiányának vizsgálata során figyelembe vételre kerülő szempontokat, valamint a vizsgálathoz kapcsolódó eljárás részletes szabályait,
+o) a 74. § (4) bekezdés szerinti mentesülés iránti kérelem és a 74. § (5) bekezdés szerinti vállalásra vonatkozó kérelem benyújtásának és elbírálásának szabályait,
 
 p) a térítésmentes, a térítési díj, valamint tandíj ellenében igénybe vehető szolgáltatások körét,
 
