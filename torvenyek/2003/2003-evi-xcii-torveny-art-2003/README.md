@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-92-00-00
 | 2012-09-01 | 2011. évi CLXXX. törvény | 2003-92-00-00.92 |
 | 2012-09-25 | 2012. évi CXXXV. törvény | 2003-92-00-00.93 |
 | 2012-10-16 | 2012. évi CXLVI. törvény | 2003-92-00-00.94 |
+| 2012-10-26 | 2012. évi CLIV. törvény | 2003-92-00-00.95 |
