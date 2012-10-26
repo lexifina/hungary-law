@@ -7,11 +7,3 @@
 (3) A 2. §, a 4. §–7. §, a 9. §–15. §, 16. § és az 1. melléklet 2013. január 1-jén lép hatályba.
 
 (4) A 3. § 2013. május 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
