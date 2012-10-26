@@ -1,0 +1,33 @@
+# A Kormány 1466/2012. (X. 26.) Korm. határozata
+
+Magyar Közlöny 2012. évi 141. szám, 2012. október 26. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/7701259c0b749e46b9f3172407251d38e1461e32/dokumentumok/179718b789ba75365cf874468c0a4ad39e251c6e/letoltes)
+
+---
+
+A Kormány 1466/2012. (X. 26.) Korm. határozata
+Miskolc Hosszú távú Közlekedésfejlesztési Koncepciója megvalósítását célzó, a Közlekedés
+Operatív Program keretében finanszírozott, illetve finanszírozni tervezett, Miskolc Megyei Jogú
+Várost érintő egyes projektekről
+A Kormány
+1. jóváhagyja a KÖZOP-5.5.0-09-2010-0026 azonosító számú, a „Városi és elővárosi kötöttpályás közösségi közlekedési
+rendszerek fejlesztése Miskolcon és térségében” című projekt műszaki tartalmának bővítését és támogatásának
+növelését bruttó 392 000 000 forinttal,
+Felelős: nemzeti fejlesztési miniszter
+Határidő: azonnal
+2. egyetért azzal, hogy a Közlekedés Operatív Program keretében Miskolc Megyei Jogú Város Önkormányzata a „Miskolc
+belvárosának tehermentesítését célzó közúti fejlesztések előkészítése” című projektjavaslatának megvalósítása
+érdekében bruttó 374 000 000 forint támogatásban részesüljön és felhívja a nemzeti fejlesztési minisztert, hogy
+gondoskodjon a miniszteri támogató levél kiadásáról,
+3. jóváhagyja a Nemzeti Infrastruktúra Fejlesztő Zrt „3. számú főút elkerülő szakaszának előkészítése és az I. ütem
+(„Y-híd”) kivitelezése” című, egymilliárd forintot meghaladó támogatási igényű projektjavaslatának finanszírozását
+KÖZOP terhére, bruttó 5 650 000 000 forint támogatási összeggel és felhívja a nemzeti fejlesztési minisztert, hogy
+gondoskodjon a miniszteri támogató levél kiadásáról és a benyújtáshoz kapcsolódó feladatok elvégzéséről,
+Felelős: nemzeti fejlesztési miniszter
+Határidő: 2012. október 31.
+4. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy az 1–3. pontokban meghatározott beruházások
+nemzetgazdasági szempontból kiemelt jelentőségű beruházássá nyilvánításához szükséges jogszabály-tervezeteket
+készítse elő és terjessze a Nemzeti Fejlesztési Kormánybizottság elé.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: 2012. október 31.
+Orbán Viktor s. k.,
+miniszterelnök
