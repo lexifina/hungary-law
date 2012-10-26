@@ -12,4 +12,4 @@ b) teljes összegben csökken, amennyiben az árcsökkentés mértéke eléri va
 
 (3)
 
-(4) A gyógyszer forgalomba hozatali engedélyének jogosultja a 36. § (1) bekezdésében meghatározott fizetési kötelezettségének alapját csökkenti a tárgyidőszakra vonatkozó támogatásvolumen-szerződés alapján teljesített befizetés összegével.
+(4) A gyógyszer forgalomba hozatali engedélyének jogosultja a 36. § (1) és 40/A. § (1) bekezdésében meghatározott fizetési kötelezettségének alapját csökkenti a tárgyidőszakra vonatkozó támogatásvolumen-szerződés alapján teljesített befizetés összegével.
