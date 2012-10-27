@@ -10,13 +10,7 @@
 
 ## Határidő: 2012. október 31.
 
-## 4. visszavonja
-
-## a) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akciótervének és a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akciótevének módosításáról szóló 1453/2011. (XII. 22.) Korm. határozatot, és
-
-## b) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterv 1. és 2. prioritásainak megállapításáról szóló 1235/2012. (VII. 12.) Korm. határozat 1. mellékletének a Társadalmi Megújulás Operatív Program 2011–2013. közötti időszakra szóló akcióterv 2. prioritására
-
-## vonatkozó részeit.
+## 4.[^1]
 
 1. melléklet az 1469/2012. (X. 26.) Korm. határozathoz
 
@@ -509,3 +503,5 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 | 2012 | 2013 |
 
 | - | - | - | - | - | - |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
