@@ -32,6 +32,6 @@
 
 ## p) a Monitoring és Lakossági Riasztó Rendszer (MoLaRi) végpontjai közötti adatátviteli hálózat.
 
-2. melléklet a 346/2010. (XII. 28.) Korm. rendelethez[^33]
+2. melléklet a 346/2010. (XII. 28.) Korm. rendelethez[^41]
 
-[^33]: A 2. melléklet a 286/2012. (X. 11.) Korm. rendelet 5. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^41]: A 2. melléklet a 286/2012. (X. 11.) Korm. rendelet 5. § (1) bekezdés e) pontja szerint módosított szöveg.
