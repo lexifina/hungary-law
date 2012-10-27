@@ -50,6 +50,8 @@
 
 ## Határidő: 2012. december 31.
 
-## 4. visszavonja az ELI (Extreme Light Infrastructure) integrált európai kutatási nagyberendezés magyarországi megvalósítása érdekében szükséges intézkedésekről és feladatokról szóló 1209/2011. (VI. 28.) Korm. határozatot.
+## 4.[^1]
 
 1. melléklet az 1461/2012. (X. 26.) Korm. határozathoz
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1461-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-10-26 | 2012-1461-30-22.1 | 1461/2012. (X. 26.) Korm. határozat |
+| 2012-10-27 | 2012-1461-30-22.2 | 2010: CXXX. törvény |
