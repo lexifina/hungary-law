@@ -1,1 +1,0 @@
-24. § Az Eütv. 155. § (3) bekezdésében az „a fenntartóként kormányrendeletben kijelölt szervezet” szövegrész helyébe az „a fenntartói jogok gyakorlására rendeletben kijelölt szervezet” szöveg, az „államháztartási törvényben” szövegrész helyébe az „államháztartásról szóló törvényben” szöveg lép.
