@@ -1,5 +1,5 @@
-## 57. §[^5]
+## 57. §[^4]
 
 1. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez
 
-[^5]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

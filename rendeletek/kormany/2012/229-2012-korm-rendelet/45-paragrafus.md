@@ -1,4 +1,4 @@
-## 39–44. §
+## 44. § E rendelet alkalmazásában a lakosságszám meghatározása során a 39. § (1) bekezdése és 43. § (1) bekezdése szerinti kérelem benyújtása évének első napján fennálló, a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala által kezelt adatokat kell figyelembe venni.
 
 ## VI. Fejezet
 
