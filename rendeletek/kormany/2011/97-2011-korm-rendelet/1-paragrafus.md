@@ -16,4 +16,9 @@ a) a külön jogszabályban meghatározott építészet-műszaki tervpályázati
 
 b) az általános építésügyi hatósági eljárást megelőző tervtanácsi véleményezési
 
+## eljárást nem kell lefolytatni.
+
+(8)[^2] Az (1) és (2) bekezdés szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
+
 [^1]: Az 1. § (7) bekezdése a 249/2011. (XII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (8) bekezdését a 299/2012. (X. 26.) Korm. rendelet 1. §-a iktatta be.

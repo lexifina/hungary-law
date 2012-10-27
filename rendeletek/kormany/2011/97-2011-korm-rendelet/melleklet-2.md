@@ -12,7 +12,7 @@
 
 | 4. | Környezet-egészségügyi szakkérdésekre, így különösen az egészségkárosító kockázatok és esetleges hatások felmérésére, a veszélyes készítményekkel végzett tevékenység vizsgálatára, a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények érvényesítésére kiterjedően. | Csongrád Megyei Kormányhivatal Szegedi, Kisteleki, Mórahalomi Kistérségi Népegészségügyi Intézete | Csongrád Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
 
-| 5. | Útügyi hatósági engedélyek gyorsforgalmi utak és 30 méter szabad nyílást meghaladó közúti hidak esetében | Csongrád Megyei Kormányhivatal Közlekedési Felügyelőség | Nemzeti Közlekedési Hatóság Központ |
+| 5. | Útügyi hatósági engedélyek | Csongrád Megyei Kormányhivatal Közlekedési Felügyelőség | Nemzeti Közlekedési Hatóság Központ |
 
 | 6. | Vízjogi engedélyek | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
@@ -46,7 +46,7 @@
 
 | 21. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Csongrád Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 97/2011. (VI. 29.) Korm. rendelethez[^5]
+2. melléklet a 97/2011. (VI. 29.) Korm. rendelethez[^8]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -104,4 +104,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 17. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi, természetvédelmi és vízügyi felügyelőség részére adandó jelentések rendszerének a meghatározása | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi és Vízügyi felügyelőség | Országos Környezetvédelmi és Természetvédelmi és Vízügyi Főfelügyelőség |
 
-[^5]: A 2. melléklet a 249/2011. (XII. 1.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 5. §-a, a 296/2012. (X. 17.) Korm. rendelet 52. § c) pontja szerint módosított szöveg.
+[^8]: A 2. melléklet a 249/2011. (XII. 1.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 5. §-a, a 296/2012. (X. 17.) Korm. rendelet 52. § c) pontja szerint módosított szöveg.
