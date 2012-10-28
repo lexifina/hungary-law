@@ -8,7 +8,13 @@
 
 (4) A kárnyilvántartás tartalmazza az üzemben tartó, a gépjármű, a szerződés és a káresemény alább felsorolt adatait:
 
-a) a szerződő üzemben tartó, illetve a 36. § (8) bekezdésének a), b) és e) pontjában meghatározott üzemben tartó nevét (jogi személy vagy jogi személyiséggel nem rendelkező szervezet megnevezését, továbbá cégjegyzékszámát, illetve nyilvántartási számát), születési helyét, születési idejét, anyja nevét és lakcímét (székhelyét, telephelyét);
+a) a szerződő üzemben tartó, és a 36. § (8) bekezdés a), b) és e) pontjában meghatározott üzemben tartó
+
+aa) nevét, születési helyét, születési idejét, anyja nevét és lakcímét,
+
+ab) jogi személy és jogi személyiséggel nem rendelkező szervezet esetén annak megnevezését, továbbá cégjegyzékszámát vagy nyilvántartási számát, székhelyét, telephelyét, továbbá
+
+ac) 52. § (6) bekezdése szerint képzett kártörténeti rendszer azonosító számát;
 
 b) a gépjármű hatósági jelzését (rendszámát) és alvázszámát, típusát, kategóriáját;
 
