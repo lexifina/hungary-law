@@ -22,7 +22,9 @@ j) árutőzsdei szolgáltatónál,
 
 k) központi értéktárnál, vagy
 
-l) központi szerződő félnél
+l) központi szerződő félnél,
+
+m) biztosítónál vagy nyugdíjpénztárnál,
 
 tisztségviselőként, köztisztviselőként, kormánytisztviselőként, vagy alkalmazottként befektetési vagy pénzügyi szakterületen eltöltött idő.
 

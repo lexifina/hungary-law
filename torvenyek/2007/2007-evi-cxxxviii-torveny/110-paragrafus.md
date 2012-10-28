@@ -32,4 +32,4 @@ d) megakadályozza, hogy az a személy, aki a befektetési szolgáltatási tevé
 
 e) megakadályozza, hogy a befektetési szolgáltatási tevékenység vagy kiegészítő szolgáltatás keretében feladatot ellátó alkalmazott párhuzamosan ellátandó vagy egymásra épülő feladatai ellátása során esetleg kialakuló érdekkonfliktus ellenőrzése akadályokba ütközzön.
 
-(6) A befektetési vállalkozás folyamatos nyilvántartást vezet az általa végzett azon befektetési szolgáltatásokról, illetve kiegészítő szolgáltatások nyújtásáról, amelyekkel kapcsolatban a (2) bekezdés a) pontjában meghatározott körülmények felmerülhetnek.
+(6) A befektetési vállalkozás folyamatos nyilvántartást vezet az általa végzett azon befektetési szolgáltatásokról, illetve kiegészítő szolgáltatások nyújtásáról, amelyekkel kapcsolatban a (3) bekezdés a) pontjában meghatározott körülmények felmerülhetnek.
