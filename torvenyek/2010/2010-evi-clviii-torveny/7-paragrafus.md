@@ -4,13 +4,13 @@ a) engedélykérelmek és más beadványok elbírálása,
 
 b) a 4. § szerinti törvényekben meghatározott – a Felügyelet feladatkörébe utalt – nyilvántartások vezetése,
 
-c) a 4. §-ban meghatározott szervezetek és személyek információszolgáltatási rendszerének és adatszolgáltatásának ellenőrzése,
+c) a 4. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek információszolgáltatási rendszerének és adatszolgáltatásának ellenőrzése,
 
-d) a 4. §-ban meghatározott szervezetek és személyek működésére és tevékenységére vonatkozó, a feladatkörébe tartozó jogszabályi rendelkezések betartásának, továbbá a Felügyelet által hozott határozatok végrehajtásának ellenőrzése, illetve folyamatos vizsgálata,
+d) a 4. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek működésére és tevékenységére vonatkozó, a feladatkörébe tartozó jogszabályi rendelkezések betartásának, továbbá a Felügyelet által hozott határozatok végrehajtásának ellenőrzése, illetve folyamatos vizsgálata,
 
 e) ha törvény eltérően nem rendelkezik, eljárás a d) pontban foglaltak megsértése esetén, és ennek során intézkedések alkalmazása, kivételes intézkedések alkalmazása, bírság kiszabása,
 
-f) a 4. §-ban meghatározott szervezetektől és személyektől származó információk és adatok, továbbá a hivatalosan ismert és a köztudomású tények alapján a pénzügyi piacok folyamatos felügyelete,
+f) a 4. §-ban meghatározott törvények hatálya alá tartozó személyektől és szervezetektől származó információk és adatok, továbbá a hivatalosan ismert és a köztudomású tények alapján a pénzügyi piacok folyamatos felügyelete,
 
 g) az Országos Betétbiztosítási Alap igazgatótanácsa működésének, döntései előkészítésének és végrehajtásának segítése,
 

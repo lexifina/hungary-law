@@ -18,6 +18,8 @@ c) az egyes pénzügyi szervezeteket, illetve a pénzügyi szervezetek egyes sze
 
 d) együttműködés a Magyar Nemzeti Bankkal (a továbbiakban: MNB) a rendszerszintű kockázatok kialakulásának megelőzésében, a már kialakult rendszerszintű kockázatok csökkentésében vagy megszüntetésében,
 
-e) a pénzügyi szervezetek által nyújtott szolgáltatásokat igénybevevők érdekeinek védelme, a pénzügyi közvetítőrendszerrel szembeni közbizalom erősítése.
+e) a pénzügyi szervezetek által nyújtott szolgáltatásokat igénybevevők érdekeinek védelme, a pénzügyi közvetítőrendszerrel szembeni közbizalom erősítése,
+
+f) a fogyasztó és a 4. §-ban meghatározott törvények hatálya alá tartozó szervezetek vagy személyek között létrejött szerződés megkötésével és teljesítésével kapcsolatos vitás ügy bírósági eljáráson kívüli – a Pénzügyi Békéltető Testület útján történő – rendezése.
 
 (4) A Felügyelet fejezeti jogosítványokkal felhatalmazott költségvetési szerv, amelynek költségvetése az Országgyűlés költségvetési fejezetén belül önálló címet képez. A Felügyelet költségvetésének kiadási és bevételi főösszegei kizárólag az Országgyűlés által csökkenthetők.

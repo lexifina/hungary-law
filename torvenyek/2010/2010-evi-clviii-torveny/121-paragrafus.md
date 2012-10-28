@@ -1,10 +1,10 @@
-121. § (1) E törvény 5. §-ának (1) bekezdése, a 70. §-a, 71. § (1) bekezdés a)–c) pontja és a 73. §-a a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet 4. cikke (1) és (6) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg a Felügyelet feladatkörében és eljárásában.
+121. § (1) E törvény 5. § (1) bekezdése, a 70. §-a, 71. § (1) bekezdés a)–c) pontja és a 73. §-a a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet 4. cikk (1) és (6) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg a Felügyelet feladatkörében és eljárásában.
 
-(2) E törvény 5. §-ának (2) bekezdése a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló, 2006. december 22-i 2007/76/EK bizottsági határozat, valamint az azt módosító 2008. március 17-i 2008/282/EK bizottsági határozat végrehajtásához szükséges rendelkezést állapít meg a Felügyelet feladatkörében és eljárásában.
+(2) E törvény 5. § (2) bekezdése a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló, 2006. december 22-i 2007/76/EK bizottsági határozat, valamint az azt módosító 2008. március 17-i 2008/282/EK bizottsági határozat végrehajtásához szükséges rendelkezést állapít meg a Felügyelet feladatkörében és eljárásában.
 
 (3) A 6. §
 
-a) (1) bekezdése a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i 1781/2006/EK európai parlamenti és tanácsi rendelet 15. cikke (3) bekezdésének,
+a) (1) bekezdése a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i 1781/2006/EK európai parlamenti és tanácsi rendelet 15. cikk (3) bekezdésének,
 
 b) (2) bekezdése a 2004/39/EK európai parlamenti és tanácsi rendeletnek a befektetési vállalkozások nyilvántartás-vezetési kötelezettségei, az ügyletek bejelentése, a piac átláthatósága, a pénzügyi eszközök piaci bevezetése, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról szóló, 2006. augusztus 10-i 1287/2006/EK bizottsági rendelet,
 

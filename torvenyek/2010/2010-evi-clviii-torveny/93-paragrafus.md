@@ -1,4 +1,4 @@
-93. § (1) A kérelem, illetve a válaszirat az eljárás során szabadon módosítható vagy kiegészíthető, kivéve, ha a tanács ennek lehetőségét az ezzel okozott késedelemre tekintettel kizárja vagy a 4. §-ban meghatározott szervezet vagy személy az alávetésre hivatkozva a kérelem módosítása, illetőleg kiegészítése ellen tiltakozik.
+93. § (1) A kérelem, illetve a válaszirat az eljárás során szabadon módosítható vagy kiegészíthető, kivéve, ha a tanács ennek lehetőségét az ezzel okozott késedelemre tekintettel kizárja vagy a 4. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet az alávetésre hivatkozva a kérelem módosítása, vagy kiegészítése ellen tiltakozik.
 
 (2) Ha a meghallgatáson bármelyik fél szabályszerű értesítés ellenére nem jelenik meg, vagy nem terjeszti elő bizonyítékait, a tanács lefolytatja az eljárást, és a rendelkezésre álló adatok alapján dönt.
 

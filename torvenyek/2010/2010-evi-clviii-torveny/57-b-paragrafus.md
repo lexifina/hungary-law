@@ -1,0 +1,3 @@
+57/B. § (1) A Felügyelet az 57/A. § (4) bekezdése alapján megtett észrevétel kézhezvételétől vagy a határidő eredménytelen elteltétől számított hatvan napon belül hoz döntést. Ez a határidő indokolt esetben, egy alkalommal, legfeljebb harminc nappal meghosszabbítható. A Felügyelet a vizsgálatot lezáró döntését a vizsgálati jelentésben foglalt megállapítások, valamint a rendelkezésre álló egyéb bizonyítékok, hivatalosan ismert és köztudomású tények alapján hozza meg.
+
+(2) Az 57. § szerinti értesítés mellőzését – kivéve a rendszeres adatszolgáltatásból származó adatok ellenőrzésén alapuló eljárást – és az 57/A. § (4) bekezdésében meghatározott határidőnél rövidebb határidő előírását a Felügyelet az (1) bekezdés szerinti döntésében megindokolja.

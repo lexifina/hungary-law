@@ -4,7 +4,7 @@
 
 (2) Az engedély nélküli vagy bejelentés hiányában végzett tevékenység, a bennfentes kereskedelem, illetve piacbefolyásolás megállapítására, valamint a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok ellenőrzésére irányuló eljárásban, valamint a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése során az ügyintézési határidő az eljárás hivatalból történő megindításának napjától számított hat hónap. Az ügyintézési határidő indokolt esetben, egy alkalommal, legfeljebb három hónappal meghosszabbítható.
 
-(3) A Felügyelet – az ok és a cél megjelölésével megküldött – felhívására a 4. §-ban meghatározott szervezetek és személyek kötelesek az általuk kezelt, a piacfelügyeleti eljárás ügyfelére vonatkozó és az üggyel kapcsolatos
+(3) A Felügyelet – az ok és a cél megjelölésével megküldött – felhívására a 4. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet kötelesek az általuk kezelt, a piacfelügyeleti eljárás ügyfelére vonatkozó és az üggyel kapcsolatos
 
 a) iratot, elektronikus módon rögzített adatot, jelet, rögzített telefonbeszélgetést bemutatni,
 
@@ -18,7 +18,7 @@ c) azon személyes adatot átadni, amelyet külön törvény alapján a Felügye
 
 a) ha az ellenőrzés alapján a Felügyelet határozatot nem hozott, illetve büntetőeljárást nem kezdeményezett, akkor legfeljebb az ellenőrzés lezárásáig,
 
-b) az ellenőrzést lezáró, de intézkedést nem tartalmazó határozat jogerőre emelkedéséig, intézkedést elrendelő határozat végrehajtásáig, illetőleg a végrehajthatóság elévüléséig,
+b) az ellenőrzést lezáró, de intézkedést nem tartalmazó határozat jogerőre emelkedéséig, intézkedést elrendelő határozat végrehajtásáig, vagy a végrehajthatóság elévüléséig,
 
 c) ha a Felügyelet döntésének bírósági felülvizsgálatát kérték vagy a Felügyelet büntetőeljárást kezdeményez, akkor – ha rendkívüli jogorvoslattal nem éltek – a bírósági eljárás jogerős befejezéséig
 

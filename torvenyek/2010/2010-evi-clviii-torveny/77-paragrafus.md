@@ -4,7 +4,7 @@ a) megtiltja a tevékenység végzését,
 
 b) büntetőeljárást kezdeményez az illetékes nyomozó hatóságnál, ha megítélése szerint a tevékenység a Büntető Törvénykönyvről szóló törvény alapján bűncselekménynek minősül,
 
-c) hatósági intézkedést, kivételes intézkedést alkalmaz, illetőleg
+c) hatósági intézkedést, kivételes intézkedést alkalmaz, illetve
 
 d) piacfelügyeleti bírságot szab ki.
 
@@ -12,7 +12,7 @@ d) piacfelügyeleti bírságot szab ki.
 
 a) megtiltja a tevékenység végzését,
 
-b) hatósági intézkedést, kivételes intézkedést alkalmaz, illetőleg
+b) hatósági intézkedést, kivételes intézkedést alkalmaz, illetve
 
 c) piacfelügyeleti bírságot szab ki.
 

@@ -2,9 +2,9 @@
 
 27. § (1) A Felügyelettel nem létesíthető közszolgálati jogviszony, ha a köztisztviselő ezáltal a Felügyelettel közszolgálati jogviszonyban álló közeli hozzátartozójával irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülhetne.
 
-(2) A Felügyelet köztisztviselője nem létesíthet tagsági viszonyt, munkaviszonyt vagy munkavégzéssel járó egyéb jogviszonyt, vezető tisztségviselői jogviszonyt vagy felügyelőbizottsági tagsági jogviszonyt a 4. §-ban meghatározott szervezettel, kivéve a Hpt. 110. §-a (2) bekezdésének c) pontjában meghatározottak szerint az Országos Betétbiztosítási Alappal és a Tpt. 223. §-a (2) bekezdésének c) pontja szerint a Befektető-védelmi Alappal.
+(2) A Felügyelet köztisztviselője nem létesíthet tagsági viszonyt, munkaviszonyt vagy munkavégzéssel járó egyéb jogviszonyt, vezető tisztségviselői jogviszonyt vagy felügyelőbizottsági tagsági jogviszonyt a 4. §-ban meghatározott törvények hatálya alá tartozó szervezettel, kivéve a Hpt. 110. § (2) bekezdés c) pontjában meghatározottak szerint az Országos Betétbiztosítási Alappal és a Tpt. 223. § (2) bekezdés c) pontja szerint a Befektető-védelmi Alappal.
 
-(3) Nem jelenti a (2) bekezdés szerinti tilalom sérelmét, ha a köztisztviselő önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, szövetkezeti hitelintézet, illetőleg biztosító egyesület tagja. A Felügyelet köztisztviselője megbízható a 4. §-ban meghatározott szervezetek felszámolását végző, Felügyelet által létrehozott nonprofit gazdasági társaság felügyelőbizottsági tagságával.
+(3) Nem jelenti a (2) bekezdés szerinti tilalom sérelmét, ha a köztisztviselő önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, szövetkezeti hitelintézet, vagy biztosító egyesület tagja. A Felügyelet köztisztviselője megbízható a 4. §-ban meghatározott törvények hatálya alá tartozó szervezetek felszámolását végző, Felügyelet által létrehozott nonprofit gazdasági társaság felügyelőbizottsági tagságával.
 
 (4) A Felügyelet köztisztviselője öröklés kivételével:
 

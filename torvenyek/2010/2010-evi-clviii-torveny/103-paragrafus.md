@@ -1,1 +1,1 @@
-103. § Ha a 4. §-ban meghatározott szervezet vagy személy megsérti a pénzügyi fogyasztói jogvita rendezésére vonatkozó rendelkezéseket, vele szemben a Felügyelet e törvény szerinti intézkedést alkalmazhat.
+103. § Ha a 4. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet megsérti a pénzügyi fogyasztói jogvita rendezésére vonatkozó rendelkezéseket, vele szemben a Felügyelet e törvény szerinti intézkedést alkalmazhat.

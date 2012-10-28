@@ -30,17 +30,17 @@ f) harmadik országban bejegyzett viszontbiztosító által Magyarországon beje
 
 g) pénzügyi holding társaság összevont alapú felügyelet alá tartozását, illetve annak megszűnését,
 
-h) a Hpt. 32/A. §-ának (5) bekezdése szerinti határozatot,
+h) a Hpt. 32/A. § (5) bekezdése szerinti határozatot,
 
-i) összevont alapú felügyelet során – a Hpt. 96/B. §-ának (3)–(5) bekezdése tekintetében – alkalmazott eljárásokat,
+i) összevont alapú felügyelet során – a Hpt. 96/B. § (3)–(5) bekezdése tekintetében – alkalmazott eljárásokat,
 
-j) a Tpt. 181/J. §-ának (5) bekezdése szerinti megállapodást, ha a megállapodás eredményeként a Felügyelet látja el az összevont alapú felügyeletet,
+j) a Tpt. 181/J. § (5) bekezdése szerinti megállapodást, ha a megállapodás eredményeként a Felügyelet látja el az összevont alapú felügyeletet,
 
 k) valamely csoportnak pénzügyi konglomerátummá történő minősítését és koordinátor kijelölését,
 
 l) a Magyarország területén bejegyzett biztosító vagy viszontbiztosító harmadik országban történő letelepedése vagy tevékenysége akadályba ütközésének tényét,
 
-m) a Hpt. 168/A. §-ának (3) bekezdése, a Tpt. 404. §-ának (2) bekezdése és a Bszt. 177. §-ának (2) bekezdése szerinti intézkedését,
+m) a Hpt. 168/A. § (3) bekezdése, a Tpt. 404. § (2) bekezdése és a Bszt. 177. § (2) bekezdése szerinti intézkedését,
 
 n) a hatáskörök átruházása tekintetében megkötött megállapodásait, beleértve az ilyen átruházást szabályozó pontos feltételeket is,
 
@@ -64,7 +64,7 @@ ac) a befektetési szolgáltatási tevékenység végzésére jogosító engedé
 
 ad) a Magyarországon székhellyel rendelkező szabályozott piacokról, amelynek jegyzékét megküldi, illetve a jegyzék változásáról,
 
-ae) azokról a bíróságon kívüli panasztételi és jogorvoslati eljárásokról, amelyek a 4. §-ban meghatározott személyek és szervezetek rendelkezésére állnak,
+ae) azokról a bíróságon kívüli panasztételi és jogorvoslati eljárásokról, amelyek a 4. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek rendelkezésére állnak,
 
 af) azokról a kötvényekről, jelzálog-levelekről, továbbá ezek kibocsátóiról, amelyek megfelelnek a 2009/65/EK irányelv 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést, valamint
 

@@ -4,7 +4,7 @@ a) kiadja a Felügyelet szervezeti és működési szabályzatát és egyéb sza
 
 b) irányítja a Felügyelet munkaszervezetét, meghatározza a Felügyelet létszámkeretét, és a kiadmányozás rendjét,
 
-c) a Felügyelet jogalkalmazási gyakorlatának alapjait ismertető, a 4. §-ban meghatározott szervezetekre és személyekre nézve kötelező erővel nem rendelkező felügyeleti ajánlást ad ki,
+c) a Felügyelet jogalkalmazási gyakorlatának alapjait ismertető, a 4. §-ban meghatározott törvények hatálya alá tartozó személyekre és szervezetekre nézve kötelező erővel nem rendelkező felügyeleti ajánlást ad ki,
 
 d) kialakítja a Pénzügyi Békéltető Testület szervezeti kereteit, meghatározza stratégiai feladatait, jóváhagyja szabályzatait, így különösen a működési rendre vonatkozó szabályzatot, elfogadja éves összefoglaló tájékoztatóját,
 

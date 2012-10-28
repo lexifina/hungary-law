@@ -1,8 +1,8 @@
 ## A felügyeleti biztos
 
-48. § (1) A 4. § a), c), f), h), i), k), l) és n) pontjaiban felsorolt törvényekben meghatározott felügyeleti biztos kirendelésére az e §-ban és a 49. §-ban foglalt szabályokat kell alkalmazni.
+48. § (1) A 4. § a), c), f), h), i), k), l) és n) pontjában meghatározott törvényekben meghatározott felügyeleti biztos kirendelésére az e §-ban és a 49. §-ban foglalt szabályokat kell alkalmazni.
 
-(2) Felügyeleti biztosként kizárólag a 4. §-ban meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki, amely a tevékenységének végzése során a 4. §-ban felsorolt szervezetek és személyek által nyújtott szolgáltatásokat igénybevevők, illetve a fogyasztók érdekeit védve jár el.
+(2) Felügyeleti biztosként kizárólag a 4. §-ban meghatározott törvények hatálya alá tartozó szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki, amely a tevékenységének végzése során a 4. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek által nyújtott szolgáltatásokat igénybevevők, illetve a fogyasztók érdekeit védve jár el.
 
 (3) A Felügyelet által létrehozott nonprofit gazdasági társaság azt a vele munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban álló személyt (a továbbiakban: kijelölt felügyeleti biztos) jelöli ki a felügyeleti biztos feladatainak ellátására, aki
 
@@ -30,11 +30,11 @@ bh) a 4. § n) pontjában foglalt törvényben meghatározott viszontbiztosító
 
 szerzett vezetői gyakorlattal rendelkezik.
 
-(4) A (3) bekezdés b) pontjának alkalmazásában szakirányú felsőfokú iskolai végzettségűnek minősül, aki közgazdasági, jogi, pénzügyi és számviteli vagy külkereskedelmi végzettséget igazoló egyetemi diplomával, főiskolai oklevéllel, illetőleg könyvvizsgálói vagy olyan felsőfokú, illetőleg posztgraduális képesítéssel rendelkezik, amely szükséges ahhoz, hogy a 4. § a), c), f), h), i), k), l) és n) pontjaiban felsorolt törvények által szabályozott szervezetekben ügyvezetőnek, illetve vezető állású személynek legyen kinevezhető, megválasztható.
+(4) A (3) bekezdés b) pontjának alkalmazásában szakirányú felsőfokú iskolai végzettségűnek minősül, aki közgazdasági, jogi, pénzügyi és számviteli vagy külkereskedelmi végzettséget igazoló egyetemi diplomával, főiskolai oklevéllel, könyvvizsgálói vagy olyan felsőfokú képesítéssel (ideértve a posztgraduális képesítést is) rendelkezik, amely szükséges ahhoz, hogy a 4. § a), c), f), h), i), k), l) és n) pontjában meghatározott törvények által szabályozott szervezetekben ügyvezetőnek, illetve vezető állású személynek legyen kinevezhető, megválasztható.
 
 (5) Felügyeleti biztosnak nem lehet kijelölni azt, illetve e minőségében nem járhat el az,
 
-a) aki saját maga vagy közeli hozzátartozója a 4. § a), c), f), h), i), k), l) és n) pontjaiban felsorolt törvények által szabályozott, felügyeleti biztosi tevékenységgel érintett szervezetekben a kijelölés időpontjában vagy a kijelölést követően érdekeltséggel rendelkezik, így különösen, ha tulajdonosi, kötelmi jogviszonyban áll a szervezettel, vagy attól bármilyen formában bevételre vagy díjazásra tesz szert vagy tart igényt,
+a) aki saját maga vagy közeli hozzátartozója a 4. § a), c), f), h), i), k), l) és n) pontjában meghatározott törvények által szabályozott, felügyeleti biztosi tevékenységgel érintett szervezetekben a kijelölés időpontjában vagy a kijelölést követően érdekeltséggel rendelkezik, így különösen, ha tulajdonosi, kötelmi jogviszonyban áll a szervezettel, vagy attól bármilyen formában bevételre vagy díjazásra tesz szert vagy tart igényt,
 
 b) akitől a felügyeleti biztos feladatainak részrehajlásmentes megítélése és tárgyilagos elintézése egyéb okból nem várható el (elfogultság).
 

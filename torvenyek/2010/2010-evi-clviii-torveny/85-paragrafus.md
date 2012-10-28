@@ -4,7 +4,7 @@
 
 a) a fogyasztó nevét, lakóhelyét vagy tartózkodási helyét,
 
-b) a fogyasztói jogvitával érintett 4. §-ban meghatározott szervezet vagy személy nevét, székhelyét,
+b) a fogyasztói jogvitával érintett 4. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet nevét, székhelyét,
 
 c) a fogyasztó álláspontjának rövid leírását, az azt alátámasztó tényeket és azok bizonyítékait,
 
@@ -16,7 +16,7 @@ f) a fogyasztó nyilatkozatát arra nézve, hogy az ügyben közvetítői eljár
 
 g) a döntésre irányuló indítványt.
 
-(3) A kérelemhez csatolni kell azt az okiratot, illetve annak másolatát (kivonatát), amelynek tartalmára a fogyasztó bizonyítékként hivatkozik, így különösen a 4. §-ban meghatározott szervezet vagy személy írásbeli nyilatkozatát a panasz elutasításáról, ennek hiányában a fogyasztó rendelkezésére álló egyéb írásos bizonyítékot az egyeztetés megkísérléséről.
+(3) A kérelemhez csatolni kell azt az okiratot, illetve annak másolatát (kivonatát), amelynek tartalmára a fogyasztó bizonyítékként hivatkozik, így különösen a 4. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet írásbeli nyilatkozatát a panasz elutasításáról, ennek hiányában a fogyasztó rendelkezésére álló egyéb írásos bizonyítékot az egyeztetés megkísérléséről.
 
 (4) A kérelemhez csatolni kell a képviselő meghatalmazását, ha a fogyasztó meghatalmazott útján jár el.
 

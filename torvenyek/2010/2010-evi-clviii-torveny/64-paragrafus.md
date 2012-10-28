@@ -2,7 +2,7 @@
 
 64. § (1) A Felügyelet kérelemre vagy hivatalból indított eljárás keretében ellenőrzi
 
-a) a 4. §-ban meghatározott szervezet vagy személy által nyújtott szolgáltatást igénybe vevő fogyasztóval szemben tanúsítandó magatartásra vonatkozó kötelezettséget megállapító, a 4. §-ban felsorolt törvényekben vagy az azok végrehajtására kiadott jogszabályban előírt rendelkezések, valamint
+a) a 4. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet által nyújtott szolgáltatást igénybe vevő fogyasztóval szemben tanúsítandó magatartásra vonatkozó kötelezettséget megállapító, a 4. §-ban meghatározott törvényekben vagy az azok végrehajtására kiadott jogszabályban előírt rendelkezések, valamint
 
 b) az alábbi törvényekben meghatározottak szerint
 
@@ -18,10 +18,10 @@ betartását, és – ide nem értve a szerződés létrejöttének, érvényess
 
 (2) E törvény alkalmazásában fogyasztó az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy.
 
-(3) A fogyasztóvédelmi eljárást a fogyasztó kizárólag azt követően kezdeményezheti, miután a 4. §-ban meghatározott személynél vagy szervezetnél, e szervezet által meghatározott és közzétett elérhetőségein keresztül (személyesen, telefonon, postai úton, telefaxon, az erre a célra üzemeltetett informatikai rendszeren keresztül) azonosítására alkalmas tartalommal, szóban vagy írásban a szervezet szolgáltatásával vagy eljárásával kapcsolatos panaszát már korábban előterjesztette, azonban
+(3) A fogyasztóvédelmi eljárást a fogyasztó kizárólag azt követően kezdeményezheti, miután a 4. §-ban meghatározott törvények hatálya alá tartozó személynél vagy szervezetnél, e szervezet által meghatározott és közzétett elérhetőségein keresztül (személyesen, telefonon, postai úton, telefaxon, az erre a célra üzemeltetett informatikai rendszeren keresztül) azonosítására alkalmas tartalommal, szóban vagy írásban a szervezet szolgáltatásával vagy eljárásával kapcsolatos panaszát már korábban előterjesztette, azonban
 
 a) a panaszára nem kapott választ,
 
-b) a panasz kivizsgálása nem a 4. §-ban meghatározott jogszabályokban előírtak szerint történt,
+b) a panasz kivizsgálása nem a 4. §-ban meghatározott törvények hatálya alá tartozó törvényekben előírtak szerint történt,
 
-c) a 4. §-ban meghatározott szervezet válaszából egyéb, az (1) bekezdésben meghatározott jogszabályokban előírt fogyasztói jogot sértő körülményt vélelmez.
+c) a 4. §-ban meghatározott törvények hatálya alá tartozó szervezet válaszából egyéb, az (1) bekezdésben meghatározott jogszabályokban előírt fogyasztói jogot sértő körülményt vélelmez.

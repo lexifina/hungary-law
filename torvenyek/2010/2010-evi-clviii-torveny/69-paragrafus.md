@@ -1,6 +1,6 @@
 69. § (1) Próbaügyletkötés keretében ellenőrizhető egy alkalommal megköthető ügylet vagy hosszabb ügyletkötési folyamat is, de az legfeljebb a próbaügylet tárgyára vonatkozó szerződés aláírásáig tarthat.
 
-(2) A Felügyelet a próbaügyletkötéshez közreműködő személyt vehet igénybe. A közreműködő személy részére a Felügyelet megbízólevelet állít ki, amely tartalmazza a közreműködő személy nevét, továbbá azt, hogy mely 4. §-ban meghatározott szervezetnél vagy személynél milyen típusú ellenőrzésben vehet részt.
+(2) A Felügyelet a próbaügyletkötéshez közreműködő személyt vehet igénybe. A közreműködő személy részére a Felügyelet megbízólevelet állít ki, amely tartalmazza a közreműködő személy nevét, továbbá azt, hogy mely 4. §-ban meghatározott törvények hatálya alá tartozó személynél vagy szervezetnél milyen típusú ellenőrzésben vehet részt.
 
 (3) A közreműködő személyre alkalmazni kell az ügyintézőre vonatkozó kizárási szabályokat, valamint a Felügyelet köztisztviselőjére vonatkozó összeférhetetlenségi szabályokat.
 

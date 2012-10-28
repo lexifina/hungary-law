@@ -1,4 +1,4 @@
-71. § (1) Ha a Felügyelet megállapítja a fogyasztóvédelmi rendelkezések vagy a fogyasztóvédelmi ellenőrzés során hozott határozatának megsértését, a 61. § (4) bekezdés a), c) és e)-i) pontjában felsoroltak figyelembevételével és az arányosság követelményének szem előtt tartásával az alábbi jogkövetkezményeket alkalmazza:
+71. § (1) Ha a Felügyelet megállapítja a fogyasztóvédelmi rendelkezések vagy a fogyasztóvédelmi ellenőrzés során hozott határozatának megsértését, a 61. § (4) bekezdés a), c) és e)-i) pontjában foglaltak figyelembevételével és az arányosság követelményének szem előtt tartásával az alábbi jogkövetkezményeket alkalmazza:
 
 a) a szükséges intézkedések és a jogszabályok betartására, a feltárt hiányosságok megszüntetésére hív fel,
 
