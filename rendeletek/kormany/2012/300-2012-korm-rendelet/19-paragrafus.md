@@ -1,4 +1,4 @@
-## 7–18. §[^1]
+## 7–18. §[^3]
 
 ## 4. Záró rendelkezés
 
@@ -6,4 +6,4 @@
 
 (2) A 7–18. § 2012. november 1-jén lép hatályba.
 
-[^1]: A 7–18. § a 19. § (2) bekezdése alapján 2012. november 1-jén lép hatályba.
+[^3]: A 7–18. § a 19. § (2) bekezdése alapján 2012. november 1-jén lép hatályba.
