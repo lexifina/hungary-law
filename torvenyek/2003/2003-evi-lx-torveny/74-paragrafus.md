@@ -4,7 +4,7 @@
 
 a) a független biztosításközvetítői tevékenységet irányító személyében, a vezető szaktanácsadó személyében történt változást, továbbá a felelősségbiztosítási szerződés megszűnését,
 
-b) a székhely vagy telephely címének megváltozását.
+b) a székhely címének megváltozását.
 
 (3) A független biztosításközvetítő az (1) bekezdésben foglaltakon túl köteles a Felügyeletnek 30 napon belül bejelenteni a törzstőke (alaptőke) felemelését vagy leszállítását.
 

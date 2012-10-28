@@ -66,4 +66,4 @@ van összefüggésben.
 
 (7) A biztosítási titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha a biztosító, biztosításközvetítő és a biztosítási szaktanácsadó az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget.
 
-(8)
+(8) Nem jelenti a biztosítási titok és az üzleti titok sérelmét a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti ellenőrzési eljárás során az összevont alapú felügyelet esetében a csoportvizsgálati jelentésnek a pénzügyi csoport irányító tagja részére történő átadása.

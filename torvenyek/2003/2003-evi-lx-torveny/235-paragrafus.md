@@ -14,7 +14,7 @@ f) a biztosítástechnikai tartalékok tartalmát, képzésének és felhasznál
 
 g) a befektetési egységhez kötött életbiztosítások esetén az ügyfeleknek szóló adatszolgáltatás formáját és tartalmát,
 
-h) az igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat,
+h)
 
 i) a biztosító kötelező gépjármű-felelősségbiztosítási terméke eredményelszámolásának szabályait,
 
