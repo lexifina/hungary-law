@@ -2,11 +2,11 @@
 
 153. § (1) Hatályát veszti
 
-a) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban Öpt.) 18/A. §-a;
+a)
 
 b) a Bit. 74. § (2) bekezdés b) pontjában a „vagy telephely” szövegrész;
 
-c) az Fnyt. 34. § (8) bekezdése, 56. § (3) bekezdésének d) pontja és a 86. § b) pontja;
+c)
 
 d) a viszontbiztosítókról szóló 2007. évi CLIX. törvény 155. § (2) bekezdés e) pontja.
 
