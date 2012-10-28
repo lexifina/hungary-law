@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-75-00-00
 | 2012-04-01 | 2012. évi XVI. törvény | 2011-75-00-00.11 |
 | 2012-06-20 | 2012. évi LXIX. törvény | 2011-75-00-00.12 |
 | 2012-07-07 | 2012. évi XCVIII. törvény | 2011-75-00-00.13 |
+| 2012-10-28 | 2012. évi CLI. törvény | 2011-75-00-00.14 |

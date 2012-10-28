@@ -2,9 +2,9 @@
 
 2. § (1) Ha a pénzügyi intézmény a kezességvállalás iránt igényt jelentett be, a Magyar Állam az (1a) bekezdésben meghatározott eltéréssel
 
-a) készfizető kezesként felel – a mentesített követelésrész kivételével – a gyűjtőszámlahitelből eredő tartozások 100%-áért, ha a pénzügyi intézmény a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést az 1. § (2) bekezdésében meghatározott időszakban a 2. § (3) bekezdés a) pontjában meghatározott okból felmondta,
+a) készfizető kezesként felel – a mentesített követelésrész kivételével – a gyűjtőszámlahitelből eredő tartozások 100%-áért, ha a pénzügyi intézmény a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a rögzített árfolyam alkalmazási időszakának a 2. § (3) bekezdés a) pontjában meghatározott okból történő megszűnésével összefüggésben, a hivatkozott pontban írtaknak megfelelően felmondta,
 
-b) egyszerű kezesként felel a gyűjtőszámlahitelből eredő, legfeljebb a rögzített árfolyam alkalmazási időszaka záró időpontjában fennálló tartozások 25%-áért a rögzített árfolyam alkalmazási időszaka záró időpontját követően.
+b) egyszerű kezesként felel a gyűjtőszámlahitelből eredő, legfeljebb a rögzített árfolyam alkalmazási időszaka záró időpontjában fennálló tartozások 25%-áért a 2. § (3) bekezdés b) pontja szerinti esetekben.
 
 (1a) Ha a gyűjtőszámlahitelhez a 4. § (4a) bekezdése szerinti állami kezességvállalás kapcsolódik, az (1) bekezdés alapján vállalt kezesség kizárólag a 4. § (4a) bekezdés alapján vállalt kezességgel nem fedezett gyűjtőszámlahitelből eredő tartozások tekintetében érvényesíthető.
 
@@ -12,9 +12,15 @@ b) egyszerű kezesként felel a gyűjtőszámlahitelből eredő, legfeljebb a r�
 
 (3) A kezesség érvényesítésére a pénzügyi intézmény akkor jogosult, ha
 
-a) a készfizető kezesség esetén a rögzített árfolyam alkalmazási időszaka alatt a pénzügyi intézmény a hiteladós 90 napot meghaladó fizetési késedelme vagy a fedezeti ingatlannal szemben megindított végrehajtás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést felmondta,
+a) a készfizető kezesség esetén
 
-b) az egyszerű kezesség esetén a rögzített árfolyam alkalmazási időszaka záró időpontját követően a pénzügyi intézmény a hiteladós 90 napot meghaladó fizetési késedelme vagy a fedezeti ingatlannal szemben megindított végrehajtás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést felmondta és a követelés nem térült meg bírósági végrehajtás útján vagy a zálogtárgy bírósági végrehajtáson kívüli értékesítésével, és ezen eljárások a követelés behajthatatlansága miatt fejeződtek be, vagy kerültek felfüggesztésre.
+aa) a rögzített árfolyam alkalmazási időszakának a hiteladós rögzített árfolyam alkalmazási időszaka alatt beállott 90 napot meghaladó fizetési késedelme miatti megszűnését követő 60 napon belül, vagy
+
+ab) a fedezeti ingatlannal szemben a rögzített árfolyam alkalmazási időszaka alatt megindított végrehajtás miatt, a rögzített árfolyam alkalmazási időszaka alatt
+
+a pénzügyi intézmény a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést felmondta;
+
+b) az egyszerű kezesség esetén a pénzügyi intézmény a hiteladós rögzített árfolyam alkalmazási időszaka záró időpontját követően beállott 90 napot meghaladó fizetési késedelme vagy a fedezeti ingatlannal szemben ezen időpontot követően megindított végrehajtás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést felmondta és a követelés nem térült meg bírósági végrehajtás útján vagy a zálogtárgy bírósági végrehajtáson kívüli értékesítésével, és ezen eljárások a követelés behajthatatlansága miatt fejeződtek be, vagy kerültek felfüggesztésre.
 
 (4) A pénzügyi intézmény a kezesség érvényesítését a jogosultsága megnyílásától számított 180 napon belül kezdeményezheti az állami adóhatóságnál.
 

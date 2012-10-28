@@ -2,7 +2,7 @@
 
 11. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
-a) a gyűjtőszámlahitelre vonatkozó állami kezesség mértékét, számításának és megfizetésének módját, valamint érvényesítésének eljárási szabályait,
+a) a gyűjtőszámlahitelre vonatkozó állami kezességvállalásért fizetendő kezességvállalási díj mértékét, számításának és megfizetésének módját, valamint az állami kezesség érvényesítésének eljárási szabályait,
 
 b) a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés esetén az aránytalanul magas havi törlesztési teher mértékét,
 
