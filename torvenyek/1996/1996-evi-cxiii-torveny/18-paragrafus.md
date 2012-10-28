@@ -16,7 +16,7 @@ f) a szerződés módosításának, különösen a szerződéses összeg felemel
 
 g) a szerződés felmondásának esetei és jogkövetkezményei,
 
-h) a betételhelyezés szüneteltetésének feltételei és maximális időtartama, valamint a betét átruházásának feltételei,
+h) a betét átruházásának feltételei,
 
 i) az áthidaló kölcsön igénybevételének lehetőségei,
 
