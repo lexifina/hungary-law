@@ -8,4 +8,4 @@ c) az állammal kötött külön megállapodásban foglalt megbízás alapján a
 
 d) a betétes magyar nyelvű tájékoztatása, illetőleg magyarországi székhelyű hitelintézet külföldön létrehozott fióktelepe esetén annak az országnak a nyelvén történő tájékoztatása, amelyben a fióktelepet létrehozták.
 
-(2) Az Alap a betétestől és más hitelezőtől kapott megbízás alapján ellátja a képviseletet az (1) bekezdésben meghatározott feladatkörében egyezségi tárgyaláson, illetve a felszámolási eljárás során.
+(2) Az Alap az államtól kapott megbízás alapján ellátja a képviseletet az (1) bekezdésben meghatározott feladatkörében egyezségi tárgyaláson, illetve felszámolási eljárás során.

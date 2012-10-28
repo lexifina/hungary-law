@@ -44,4 +44,8 @@ r) Felügyelet által a 96/C. § (15) bekezdése szerinti válsághelyzetben az 
 
 s) a pénzügyi intézmény ügyfele által nyilvánosságra hozott állítással összefüggésben a pénzügyi intézmény részéről a közte és ügyfele közötti jogviszonyra vonatkozó, a nyilvánosság előtti válaszadáshoz szükséges mértékben történő adatközlés.
 
+t) az MNB által alapvető feladatai ellátása érdekében a jegybanki információs rendszerben rendelkezésre álló adatoknak egyedi azonosításra alkalmas módon való átadása a Központi Bankok Európai Rendszere és annak tagjai számára, azok kérelme alapján, az Európai Unió működéséről szóló szerződésből eredő vagy központi banki feladataik teljesítéséhez szükséges mértékben,
+
+u) a pénzforgalmi szolgáltatás nyújtása és a fizetési műveletek feldolgozása, elszámolása és teljesítése keretében a fizetési megbízás teljesítése céljából pénzügyi intézmény és pénzügyi intézménynek nem minősülő pénzforgalmi szolgáltató által a fizetési műveletek feldolgozásában, elszámolásában és teljesítésében közreműködő pénzügyi intézmények és pénzügyi intézménynek nem minősülő pénzforgalmi szolgáltatók részére történő adattovábbítás.
+
 (2)–(10)

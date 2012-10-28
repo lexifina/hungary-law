@@ -58,7 +58,7 @@ l) a deviza nyitott pozícióra,
 
 m) a tőkemegfelelési és tőkeszükségleti követelményeknek konszolidált módon való megfelelésre,
 
-n) az igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére,
+n)
 
 o)
 

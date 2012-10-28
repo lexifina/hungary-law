@@ -10,7 +10,7 @@ c) a pénzügyi intézmény érdeke ezt az ügyféllel szemben fennálló követ
 
 a) a feladatkörében eljáró Országos Betétbiztosítási Alappal, Magyar Nemzeti Bankkal, Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Felügyelettel, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az Áht. 63. §-ában meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 
-b) a hagyatéki ügyben eljáró közjegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
+b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 
 c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, illetve végelszámolóval,
 
@@ -35,6 +35,8 @@ l) a pénzügyi közvetítőrendszer stabilitásáról szóló törvény szerint
 m) lakáscélú támogatások igénybevételének és felhasználásának jogszerűsége céljából feladatkörében ellenőrzést végző kincstárral,
 
 n) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal
+
+o) a Magyar Könyvvizsgálói Kamara által a pénzügyi intézménynél működő vagy volt könyvvizsgálója ellen indított fegyelmi eljárás keretében a Magyar Könyvvizsgálói Kamarával
 
 szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresése esetén.
 

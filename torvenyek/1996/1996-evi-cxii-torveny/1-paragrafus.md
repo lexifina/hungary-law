@@ -4,7 +4,7 @@
 
 1. § (1) Ha nemzetközi szerződés másként nem rendelkezik, e törvény rendelkezéseit kell alkalmazni:
 
-a) Magyarország területén végzett, e törvényben meghatározott pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási és bankképviseleti tevékenységre, valamint betétbiztosításra,
+a) Magyarország területén végzett, e törvényben meghatározott pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási és bankképviseleti tevékenységre, önkéntes intézményvédelemre, valamint betétbiztosításra,
 
 b) Magyarország területén székhellyel rendelkező hitelintézet által külföldön alapított hitelintézet, pénzügyi vállalkozás e törvényben meghatározott pénzügyi szolgáltatási, illetve kiegészítő pénzügyi szolgáltatási és bankképviseleti tevékenységének c) pont szerinti felügyeletére,
 

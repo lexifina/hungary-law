@@ -189,21 +189,3 @@ d) a kölcsönszerződés, illetve az értékpapírban foglalt jogok semminemű 
 e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – az eredeti lejárat vagy a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
 
 f) az alárendelt kölcsöntőkével kapcsolatosan kizárt a kölcsöntőkét nyújtó bármiféle beszámítási joga a kölcsönfelvevővel szemben.
-
-20. Az alárendelt kölcsöntőke összegének a szavatoló tőkébe történő beszámítását a visszafizetési időpontot megelőző 5 év során – fokozatosan, évente 20%-kal egyenlő arányban – csökkenteni kell.
-
-21. A részvénnyé átváltoztatható kötvény akkor számítható be a járulékos tőkébe, ha kielégíti az alárendelt kölcsöntőkére, az alapvető kölcsöntőkére vagy a járulékos kölcsöntőkére vonatkozó feltételeket. Egyéb esetben a részvénnyé átváltoztatható kötvény nem minősül szavatoló tőkeelemnek.
-
-22. A szavatoló tőke számítása során a járulékos és alárendelt kölcsöntőkéből le kell vonni a hitelintézet által visszavásárolt, saját kibocsátású, járulékos vagy alárendelt kölcsöntőkének minősülő, mérlegben az eszközök között kimutatott értékpapírok könyv szerinti értékét.
-
-23. A járulékos tőke számításakor nem vehető figyelembe a bekerülési értéken értékelt pénzügyi instrumentum cash-flow fedezeti ügyletének valós értékeléséből származó értékelési tartalék.
-
-24. A járulékos tőke szavatoló tőkébe történő beszámíthatóságánál az alábbi korlátozásokat kell érvényesíteni:
-
-a) a figyelembe vehető járulékos tőke összege nem haladhatja meg az alapvető tőke összegének 100%-át,
-
-b) a járulékos tőkeként figyelembe vehető lejárattal rendelkező alapvető, járulékos és alárendelt kölcsöntőke, valamint a járulékos tőkeként figyelembe vehető lejárattal rendelkező részvények és részjegyek összegének az aránya nem haladhatja meg az alapvető tőke 50%-át.
-
-25. A 24. pont szerinti korlátozások figyelembevételével meghatározott szavatoló tőke alapvető tőkéjéből és járulékos tőkéjéből 50–50%-os arányban kell levonni:
-
-a) a más pénzügyi intézményben, befektetési vállalkozásban, biztosítóban, valamint viszontbiztosítóban lévő részesedések könyv szerinti értékét – ha a felsoroltaknál a hitelintézet minősített befolyással rendelkezik –, valamint az előzőekben felsorolt vállalkozások részére nyújtott alárendelt kölcsöntőke, alapvető kölcsöntőke és járulékos kölcsöntőke könyv szerinti értékét,

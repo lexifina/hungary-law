@@ -46,7 +46,7 @@ i) a kérelmező teljes bizonyító erejű magánokiratban foglalt nyilatkozatá
 
 (6) A pénzügyi holding társaság engedély iránti kérelméhez mellékelni kell
 
-a) az (1) bekezdés a) és c)–e) pontjában foglaltakat,
+a) az (1) bekezdés a) és c)–e) pontjában, valamint a (2) bekezdésben foglaltakat,
 
 b) a középtávú – az első három évre vonatkozó – üzleti tervet,
 

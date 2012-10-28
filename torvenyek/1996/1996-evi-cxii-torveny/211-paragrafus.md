@@ -2,4 +2,4 @@
 
 (2) Ha az Alapban tagsággal rendelkező hitelintézet a 14. § (1) bekezdésének h) pontja alapján más jogi személy útján végez betétügyletet, a jogi személynek közölnie kell azt is, hogy mely hitelintézet megbízásából történik a betét elfogadása.
 
-(3) Az értékpapírszerű formában kiállított betétokiraton feltűnően fel kell tüntetni, hogy az alapjául szolgáló szerződés takarékbetét szerződés.
+(3) Az értékpapírszerű formában kiállított betétokiraton feltűnően fel kell tüntetni, hogy az alapjául szolgáló szerződés betétszerződés vagy takarékbetét szerződés.

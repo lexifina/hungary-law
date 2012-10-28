@@ -1,0 +1,1 @@
+69/F. § Az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet magyarországi fióktelepe a hitelintézet székhelye szerinti állam javadalmazási politikára vonatkozó joga szerinti szabályokat alkalmazza.
