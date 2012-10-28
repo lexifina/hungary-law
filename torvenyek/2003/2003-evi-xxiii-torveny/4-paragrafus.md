@@ -1,6 +1,6 @@
 ## AZ ELSZÁMOLÁSI NETTÓSÍTÁS ÉS A TRANSZFER MEGBÍZÁSOK JOGI HATÁLYA
 
-4. § (1) A 3. § (1) bekezdésének a) pontjában meghatározott időponttól kezdődően a transzfer megbízás teljesítése és az elszámolási nettósítás a rendszer résztvevője elleni fizetést korlátozó eljárás megindításától függetlenül végrehajtható és megtámadhatatlan.
+4. § (1) A 3. § (1) bekezdés a) pontjában meghatározott időponttól kezdődően a fizetést korlátozó eljárás hatálya alatt álló résztvevő által benyújtott transzfer megbízás teljesítése és az elszámolási nettósítás a rendszer résztvevője elleni fizetést korlátozó eljárás megindításától függetlenül végrehajtható és megtámadhatatlan.
 
 (2) Az (1) bekezdés megfelelően alkalmazandó a kapcsolódó rendszer résztvevője, valamint a kapcsolódó rendszer résztvevőnek nem minősülő rendszerüzemeltetője ellen indított fizetést korlátozó eljárás megindításakor.
 
