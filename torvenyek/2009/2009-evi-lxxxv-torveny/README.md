@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-85-00-00
 | 2011-04-30 | 2010. évi CLIX. törvény | 2009-85-00-00.8 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2009-85-00-00.9 |
 | 2012-07-01 | 2012. évi LXXXV. törvény | 2009-85-00-00.10 |
+| 2012-10-28 | 2012. évi CLI. törvény | 2009-85-00-00.11 |
