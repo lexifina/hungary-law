@@ -4,15 +4,15 @@ a) a kibocsátó korábban már forgalomba hozott részvényekkel azonos fajtáj
 
 b) az értékpapírt részvénytársaságban történő, nyilvános vételi ajánlat keretében történő befolyásszerzéssel kapcsolatban ellenértékként ajánlják fel és az értékpapírra vonatkozóan fennállnak a (2) bekezdésben meghatározott feltételek;
 
-c) az értékpapírt a társaságok egyesülésével kapcsolatosan ellenértékként ajánlják fel és az értékpapírra vonatkozóan fennállnak a (2) bekezdésben meghatározott feltételek;
+c) az értékpapírt a társaságok egyesülésével vagy szétválásával kapcsolatosan ellenértékként ajánlják fel és az értékpapírra vonatkozóan fennállnak a (2) bekezdésben meghatározott feltételek;
 
-d) a részvénytársaság a részvényeseinek ingyenesen juttat az alaptőkén felüli vagyon terhére részvényeket vagy osztalékként ezekkel azonos fajtájú, illetve azonos osztályba tartozó részvényeket juttat, mint amelyre tekintettel az osztalékfizetés történik;
+d) a részvénytársaság a részvényeseinek osztalékként olyan azonos fajtájú, illetve azonos osztályba tartozó részvényeket juttat, mint amelyre tekintettel az osztalékfizetés történik;
 
-e) az értékpapírt a kibocsátó, illetőleg annak kapcsolt vállalkozása bármelyikük munkavállalójának, vezető tisztségviselőjének, felügyelő bizottsági tagjának, illetve volt munkavállalójának, vezető tisztségviselőjének és felügyelő bizottsági tagjának értékesíti, illetőleg juttatja, ha
+e) az értékpapírt a kibocsátó, annak kapcsolt vállalkozása bármelyikük munkavállalójának, vezető tisztségviselőjének, felügyelőbizottsági tagjának, illetve volt munkavállalójának, vezető tisztségviselőjének és felügyelőbizottsági tagjának értékesíti, juttatja, ha
 
-ea) a kibocsátó valamely értékpapírja szabályozott piacra már be van vezetve, és
+ea) a kibocsátó létesítő okirat szerinti székhelye az Európai Unió területén található, és az értékpapírok számára és jellegére, valamint az értékesítés, juttatás indokaira és részleteire vonatkozó információk rendelkezésre állnak, vagy
 
-eb) az értékpapírok számára és jellegére, valamint az értékesítés, illetőleg juttatás indokaira és részleteire vonatkozó információk rendelkezésre állnak.
+eb) a harmadik országban székhellyel rendelkező kibocsátó valamely értékpapírja szabályozott piacra, Bszt.-ben meghatározott elismert tőzsdére már be van vezetve és az értékpapírok számára és jellegére, valamint az értékesítés, juttatás indokaira és részleteire vonatkozó információk rendelkezésre állnak.
 
 (2) Az (1) bekezdés b)–c) pontjában foglalt esetben akkor nincs szükség tájékoztató és hirdetmény közzétételére, ha a felajánlott értékpapírra, illetve annak kibocsátójára vonatkozóan a Felügyelet által a tájékoztatóban foglalt információkkal egyenértékűnek elfogadott információkat tartalmazó dokumentum az érintett befektetők rendelkezésére áll.
 
@@ -26,7 +26,7 @@ b) a részvény a korábban ugyanazon szabályozott piacra bevezetett, azonos fa
 
 c) az értékpapírt részvénytársaságban, nyilvános vételi ajánlat keretében történő befolyásszerzéssel kapcsolatban ellenértékként ajánlják fel, és az értékpapírra vonatkozóan fennállnak az (5) bekezdésben meghatározott feltételek;
 
-d) az értékpapírt a társaságok egyesülésével kapcsolatosan ellenértékként ajánlják fel, és az értékpapírra vonatkozóan fennállnak az (5) bekezdésben meghatározott feltételek;
+d) az értékpapírt a társaságok egyesülésével vagy szétválásával kapcsolatosan ellenértékként ajánlják fel, és az értékpapírra vonatkozóan fennállnak az (5) bekezdésben meghatározott feltételek;
 
 e) a részvénytársaság a részvényeseinek ingyenesen juttat az alaptőkén felüli vagyon terhére részvényeket, vagy osztalékként azzal a részvénnyel azonos fajtájú, illetve azonos osztályba tartozó részvényeket juttat, amelyre tekintettel az osztalékfizetés történik, ha ezeket a részvényeket korábban ugyanazon szabályozott piacra már bevezették;
 

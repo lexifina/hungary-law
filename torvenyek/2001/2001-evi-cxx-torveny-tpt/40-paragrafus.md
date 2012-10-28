@@ -2,6 +2,6 @@
 
 (2) Ha a Felügyelet a 27. § (5) bekezdése alapján valamely információnak a tájékoztatóból való elhagyását engedélyezte, ennek tényét, valamint indokát is megjelöli a hatósági bizonyítványban.
 
-(3) A Felügyelet a hatósági bizonyítványt a kérelem kézhezvételét követő három munkanapon belül, illetőleg ha a kérelmet a tájékoztató közzétételének engedélyezésére vonatkozó kérelemmel egyidejűleg nyújtották be, a tájékoztató közzétételének engedélyezését követő munkanapon küldi meg a másik tagállam hatáskörrel rendelkező felügyeleti hatóságának.
+(3) A Felügyelet a hatósági bizonyítványt a kérelem kézhezvételét követő három munkanapon belül, vagy ha a kérelmet a tájékoztató közzétételének engedélyezésére vonatkozó kérelemmel egyidejűleg nyújtották be, a tájékoztató közzétételének engedélyezését követő munkanapon küldi meg a másik tagállam hatáskörrel rendelkező felügyeleti hatóságának a kérelmező egyidejű értesítése mellett.
 
 (4) Az (1)–(3) bekezdésben foglaltakat kell alkalmazni a tájékoztató minden kiegészítésére is.

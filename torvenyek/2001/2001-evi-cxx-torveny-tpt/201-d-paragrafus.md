@@ -1,4 +1,4 @@
-201/D. § (1) A bennfentes kereskedelemhez kapcsolódó hatósági ellenőrzés elősegítése érdekében a kibocsátó, illetve a javára vagy nevében eljáró személy a munkaviszony vagy egyéb jogviszony alapján részére tevékenységet végző és bennfentes információhoz hozzáférő személyekről nyilvántartást vezet, amelyet a Felügyelet kérésére, a 378. § i) pontjában foglalt feladatának ellátása érdekében a nyilvántartást vezető személy köteles átadni.
+201/D. § (1) A bennfentes kereskedelemhez kapcsolódó hatósági ellenőrzés elősegítése érdekében a kibocsátó, illetve a javára vagy nevében eljáró személy a munkaviszony vagy egyéb jogviszony alapján részére tevékenységet végző és bennfentes információhoz hozzáférő személyekről nyilvántartást vezet, amelyet a Felügyelet kérésére, a nyilvántartást vezető személy köteles átadni.
 
 (2) Amennyiben az (1) bekezdésben meghatározott nyilvántartás vezetésére kötelezett személy más javára vagy nevében eljárva több kibocsátóra vonatkozóan fér hozzá bennfentes információhoz, a nyilvántartást kibocsátónként elkülönítve köteles vezetni.
 

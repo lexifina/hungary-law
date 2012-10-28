@@ -10,7 +10,7 @@ b) éves jelentés,
 
 c) nyilvánosan forgalomba hozott részvény kibocsátója időközi vezetőségi beszámoló formájában teljesíti.
 
-(3) Nem köteles féléves jelentést készíteni a helyi önkormányzat, továbbá az olyan, kizárólag hitelviszonyt megtestesítő értékpapírokat nyilvánosan forgalomba hozó kibocsátó, amely értékpapírjainak névértéke legalább ötvenezer euró, illetve a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán számítva ennek megfelelő összeg.
+(3) Nem köteles féléves jelentést készíteni a helyi önkormányzat, továbbá az olyan, kizárólag hitelviszonyt megtestesítő értékpapírokat nyilvánosan forgalomba hozó kibocsátó, amely értékpapírjainak névértéke legalább százezer euró, illetve a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán számítva ennek megfelelő összeg.
 
 (4) A kibocsátónak az egyes pénzügyi évek végét követő legkésőbb négy hónapon belül közzé kell tennie az éves jelentését. A helyi önkormányzatnak az éves jelentést a jogszabályban előírt határidőben kell nyilvánosságra hoznia.
 

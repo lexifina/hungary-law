@@ -4,21 +4,23 @@
 
 (3) A tájékoztató teljes szövegét az (1)–(2) bekezdésben meghatározott időpontban
 
-a) közzé kell tenni a (4) bekezdésben meghatározott helyen, vagy
+a) közzé kell tenni a kibocsátó és – ha van – a forgalmazó, valamint a Felügyelet honlapján, ha a Felügyelet nyújt ilyen szolgáltatást,
 
-b) valamennyi forgalomba hozatali helyen, valamint a kibocsátó székhelyén vagy a szabályozott piac kijelölt helyiségében ingyenesen a nyilvánosság számára elvitelre is rendelkezésre kell bocsátani.
+b) valamennyi forgalomba hozatali helyen, valamint a kibocsátó székhelyén vagy a szabályozott piac kijelölt helyiségében ingyenesen a nyilvánosság számára elvitelre is rendelkezésre kell bocsátani, és
 
-(4) A közzététel helye:
+c) a Felügyeletnek elektronikus úton be kell jelenteni a 391. § (1) bekezdés l)–s) pontjaiban meghatározott – a tájékoztató tartalmával megegyező – adatokat.
 
-a) legalább egy országos terjesztésű napilap, vagy
+(4) A (3) bekezdésen kívüli esetekben a közzététel helye:
 
-b) a kibocsátó és – ha van – a forgalmazó honlapja, vagy
+a) legalább egy országos terjesztésű napilap,
 
-c) annak a szabályozott piacnak a honlapja, amelyen az értékpapírral kereskednek, vagy
+b) a kibocsátó és – ha van – a forgalmazó honlapja,
+
+c) annak a szabályozott piacnak a honlapja, amelyen az értékpapírral kereskednek vagy
 
 d) a Felügyelet honlapja, ha a Felügyelet nyújt ilyen szolgáltatást az e törvény szerinti közzétételi kötelezettség teljesítése céljából.
 
-(5) Ha a kibocsátó a tájékoztatót a (3) bekezdés b) pontja, vagy a (4) bekezdés a) pontja szerint teszi közzé, a Felügyelet kötelezheti a kibocsátót, hogy a tájékoztatót a (4) bekezdés b) pontja szerint honlapján is közzétegye.
+(5)
 
 (6) A (4) bekezdés a) pontja szerinti közzététel esetén a tájékoztatót minden olyan tagállamban, ahol az értékpapírt nyilvánosan forgalomba hozzák, vagy szabályozott piacra be kívánják vezetni, legalább egy, széles körben terjesztett napilapban meg kell jelentetni.
 

@@ -30,21 +30,19 @@ m) a kibocsátó alapításának időpontja;
 
 n) a kibocsátó jegyzett tőkéjének nagysága;
 
-o) a kibocsátó vezető állású személyeinek neve, a kibocsátóban fennálló részesedésük (ideértve a részesedés megszerzésére vonatkozó opciót és egyéb jogokat is) mértéke;
+o) a kibocsátó vezető állású személyeinek természetes személyazonosító adatai, lakcíme, a kibocsátóban fennálló részesedésük (ideértve a részesedés megszerzésére vonatkozó opciót és egyéb jogokat is) mértéke;
 
-p) a kibocsátó tulajdonosainak neve (cégneve), lakcíme (székhelye), más társaságban lévő részesedése;
+p) a kibocsátó tulajdonosainak természetes személyazonosító adatai (cégneve), lakcíme (székhelye), más társaságban lévő részesedése;
 
 q) a forgalomba hozatal adatai;
 
-r) a bennfentes személyek azonosító adatai;
+r) a bennfentes személyek természetes személyazonosító adatai, lakcíme;
 
-s) a nyilvánosan működő részvénytársaság tulajdonosainak a 67. §-ban szabályozott, a befolyásszerzéshez kapcsolódó bejelentési kötelezettség alapján tudomására jutott adatai;
+s) a kibocsátó könyvvizsgálójának természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
 
 t)
 
-u) a minősített befektetőnek minősített természetes személy személyazonosító adatai;
-
-v) a minősített befektetőnek minősített kis- és középvállalkozás neve, székhelye;
+u)–v)
 
 x) az engedélyezett tájékoztató;
 

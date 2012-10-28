@@ -224,21 +224,11 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 91. másodlagos értékpapír: letétkezelő által a másodlagos értékpapír tulajdonosa (végső jogosult) részére kibocsátott, az elsődleges értékpapírra vonatkozó rendelkezési jogot, illetőleg az értékpapír által megtestesített jogok gyakorlását biztosító, sorozatban kibocsátott, névre szóló, átruházható értékpapír,
 
-92. minősített befektető:
-
-a) a pénzügyi piacokon működő, a székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága által engedélyezett vagy szabályozott jogi személy, ideértve a hitelintézetet, a pénzügyi vállalkozást, befektetési vállalkozást, biztosítót, kollektív befektetési formát, befektetési alapkezelőt, önkéntes kölcsönös biztosító pénztárat, magánnyugdíjpénztárat, árutőzsdei szolgáltatót, valamint minden olyan jogi személyt, amelynek kizárólagos tevékenysége értékpapírokba vagy egyéb pénzügyi eszközökbe történő befektetés,
-
-b) nemzeti és regionális kormányok, központi bankok, nemzetközi és nemzetek feletti pénzügyi szervezetek,
-
-c) kis- és középvállalkozásnak nem minősülő vállalkozás,
-
-d) olyan természetes személy, akit a Felügyelet, illetőleg a lakóhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága saját kérésére annak minősített, feltéve, hogy szerepel a lakóhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága által vezetett nyilvántartásban,
-
-e) olyan kis- és középvállalkozás, amelyet a Felügyelet, illetőleg a székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága saját kérésére annak minősített, feltéve, hogy szerepel a székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága által vezetett nyilvántartásban,
+92. minősített befektető: a Bszt. 48–51. §-a szerint szakmai ügyfélnek vagy elfogadható partnernek tekintett befektető;
 
 93.
 
-94. nyilvános ajánlattétel: értékpapírra vonatkozó, egyedileg előre meg nem határozott befektetők részére közzétett értékesítési ajánlat, amely elegendő információt ad az ajánlat feltételeiről és az értékpapírról ahhoz, hogy lehetővé tegye a befektetőnek az értékpapír megvásárlására vonatkozó döntés meghozatalát,
+94. nyilvános ajánlattétel, nyilvános értékesítésre történő felajánlás: értékpapírra vonatkozó, egyedileg előre meg nem határozott befektetők részére közzétett értékesítési ajánlat, amely elegendő információt ad az ajánlat feltételeiről és az értékpapírról ahhoz, hogy lehetővé tegye a befektetőnek az értékpapír megvásárlására vonatkozó döntés meghozatalát,
 
 95. nyilvános forgalomba hozatal: az értékpapír nem zártkörű forgalomba hozatala,
 
@@ -280,7 +270,7 @@ e) olyan kis- és középvállalkozás, amelyet a Felügyelet, illetőleg a szé
 
 114. szabályozott piac: az Európai Unió tagállamának tőzsdéje és minden más olyan piaca, amely megfelel a következő feltételeknek:
 
-a) a Bszt.-ben meghatározott piacműködtető által működtetett és/vagy irányított multilaterális rendszer,
+a) piacműködtető által működtetett, illetve irányított multilaterális rendszer,
 
 b) megkülönböztetésmentesen, szabályaival összhangban összehozza több harmadik fél pénzügyi eszközökben lévő vételi és eladási szándékát, vagy elősegíti ezt oly módon, hogy az szerződést eredményez a szabályai alapján kereskedésre bevezetett pénzügyi eszköz tekintetében,
 
@@ -358,7 +348,9 @@ a) valamennyi szabályozott piacon (kivezetés),
 
 b) az adott szabályozott piacon, feltéve hogy a részvényt más szabályozott piacon forgalmazzák (átvezetés),
 
-140. székhely szerinti tagállam: szabályozott piac esetében az a tagállam, amelyben a szabályozott piac létesítő okirat szerinti székhelye található, vagy ha a nemzeti jog szerint nem rendelkezik létesítő okirat szerinti székhellyel, az a tagállam, amelyben a központi irodája található.
+140. székhely szerinti tagállam: szabályozott piac esetében az a tagállam, amelyben a szabályozott piac létesítő okirat szerinti székhelye található, vagy ha a nemzeti jog szerint nem rendelkezik létesítő okirat szerinti székhellyel, az a tagállam, amelyben a központi irodája található,
+
+141. kiemelt információ: a kibocsátó, az értékpapírban foglalt kötelezettség teljesítéséért kezességet (garanciát) vállaló személy, a felajánlott, illetve a szabályozott piacra bevezetett értékpapír lényeges jellemzőit és kockázatait rendszerezett formában tartalmazó azon információk összessége, amelynek célja, hogy elősegítse a befektető értékpapírra vonatkozó befektetési döntésének meghozatalát.
 
 (2) E törvény alkalmazásában
 

@@ -38,7 +38,7 @@ j) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó be
 
 k) a befektetési vállalkozás anyavállalatának – ha az vegyes tevékenységű holding társaság, illetőleg vegyes pénzügyi holding társaság – azon adatait, amelyek a befektetési vállalkozás felügyelete érdekében szükségesek;
 
-l) a minősített befektetőnek nyilvánított természetes személy természetes személyazonosító adatait;
+l)
 
 m) a piacfelügyeleti eljárás során az eljárás alá vont ügyfélre vonatkozó, az elektronikus hírközlésről szóló törvényben meghatározott előfizetői állomás számával vagy egyéb azonosítójával, a hívó és hívott előfizetői számokkal, valamint a hívás és egyéb szolgáltatás dátumával kapcsolatos személyes adatot (családi és utónév, születési név, lakóhely, tartózkodási hely), ha a Felügyelet valószínűsíti, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges. Az adat megismeréséhez az ügyész előzetes jóváhagyása szükséges. A jóváhagyást az ügyész abban az esetben tagadja meg, ha a Felügyelet nem valószínűsíti, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges vagy az adatkezelés egyéb törvényi feltételei nem állnak fenn.
 

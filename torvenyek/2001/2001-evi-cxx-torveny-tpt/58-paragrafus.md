@@ -10,6 +10,6 @@ b) a kibocsátó választásától függően vagy a fogadó tagállamok felügye
 
 (4) A 61. § szerinti információ egy, a nemzetközi pénzügyi piacokon általában használt nyelven is bejelenthető, illetve közzétehető.
 
-(5) Az egy vagy több tagállamban nyilvánosan forgalomba hozott, ötvenezer euró, illetve a kibocsátás napján az annak megfelelő névértékű hitelviszonyt megtestesítő értékpapírokra vonatkozó szabályozott információkat vagy a Felügyelet és a fogadó tagállam felügyeleti hatóságai által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell közzétenni a kibocsátó választása alapján.
+(5) Az egy vagy több tagállamban nyilvánosan forgalomba hozott, százezer euró, illetve a kibocsátás napján az annak megfelelő névértékű hitelviszonyt megtestesítő értékpapírokra vonatkozó szabályozott információkat vagy a Felügyelet és a fogadó tagállam felügyeleti hatóságai által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell közzétenni a kibocsátó választása alapján.
 
 (6) Ha a szabályozott információk tartalmával kapcsolatban bíróság vagy választottbíróság előtt keresetindításra kerül sor, a fordítás költségeinek viselésére az adott tagállam jogszabályai alapján kerül sor.

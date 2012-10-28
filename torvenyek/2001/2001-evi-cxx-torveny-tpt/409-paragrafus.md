@@ -1,1 +1,1 @@
-409–411. §
+409. § A 14. § (1) bekezdés c)–d) pontjában, a 21. § (2) bekezdés c) pont ca) alpontjában, a 26. § (5) bekezdésében, a 45. § (2) bekezdés b) pontjában és az 54. § (3) bekezdésében előírt rendelkezéseknek való megfelelést 2013. január 1-től kell biztosítani.

@@ -2,4 +2,8 @@
 
 (2) A tájékoztatót az (1) bekezdés szerint felelős valamennyi személy köteles külön aláírt felelősségvállaló nyilatkozattal ellátni. A nyilatkozatnak tartalmaznia kell azt, hogy a tájékoztató a valóságnak megfelelő adatokat és állításokat tartalmazza, illetve nem hallgat el olyan tényeket és információkat, amelyek az értékpapír, valamint a kibocsátó és az értékpapírban foglalt kötelezettségért kezességet (garanciát) vállaló személy helyzetének megítélése szempontjából jelentőséggel bírnak.
 
-(3) Felelősség nem állapítható meg kizárólag az összefoglaló alapján – ideértve annak bármely nyelvre lefordított változatát is – kivéve, ha az összefoglaló félrevezető, pontatlan vagy a tájékoztatóban foglalt információnak nem megfelelő információt tartalmaz.
+(3) Felelősség nem állapítható meg kizárólag az összefoglaló alapján – ideértve annak bármely nyelvre lefordított változatát is – kivéve, ha
+
+a) az összefoglaló félrevezető, pontatlan vagy a tájékoztatóban foglalt információnak nem megfelelő információt tartalmaz, vagy
+
+b) az összefoglaló nem tartalmazza a 27. § (1a) bekezdés szerinti kiemelt információt.

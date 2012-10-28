@@ -44,7 +44,7 @@ közül a legmagasabb összeg.
 
 (5) Saját tőkeként
 
-a) a legutolsó, könyvvizsgáló által hitelesített éves beszámolóban, vagy
+a) a legutolsó, közgyűlés által jóváhagyott, könyvvizsgáló által hitelesített éves beszámolóban, vagy
 
 b) ha a céltársaság nem készített még könyvvizsgáló által hitelesített éves beszámolót, akkor a Felügyelet részére benyújtott éves vagy féléves gyorsjelentésben
 

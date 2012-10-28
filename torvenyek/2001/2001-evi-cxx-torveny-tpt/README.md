@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-120-00-00
 | 2012-01-01 | 2011. évi CXCIII. törvény | 2001-120-00-00.41 |
 | 2012-03-01 | 2011. évi CXCVII. törvény | 2001-120-00-00.42 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 2001-120-00-00.43 |
+| 2012-10-28 | 2012. évi CLI. törvény | 2001-120-00-00.44 |

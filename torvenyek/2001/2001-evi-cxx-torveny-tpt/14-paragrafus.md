@@ -2,13 +2,13 @@
 
 a) az értékpapírt kizárólag minősített befektetők részére ajánlják fel;
 
-b) az értékpapírt minősített befektetőnek nem minősülő, tagállamonként száznál kevesebb személy részére ajánlják fel;
+b) az értékpapírt minősített befektetőnek nem minősülő, tagállamonként százötvennél kevesebb személy részére ajánlják fel;
 
-c) az értékpapírt kizárólag olyan befektetők részére ajánlják fel, akik egyenként legalább ötvenezer euró vagy annak megfelelő értékben vásárolnak a felajánlott értékpapírokból;
+c) az értékpapírt kizárólag olyan befektetők részére ajánlják fel, akik egyenként legalább százezer euró vagy annak megfelelő értékben vásárolnak a felajánlott értékpapírokból;
 
-d) az értékpapír névértéke legalább ötvenezer euró vagy annak megfelelő összeg; vagy
+d) az értékpapír névértéke legalább százezer euró vagy annak megfelelő összeg; vagy
 
-e) az összes forgalomba hozott értékpapír kibocsátási értéke az ajánlattételtől számított tizenkét hónapon belül nem haladja meg a százezer eurót vagy az annak megfelelő összeget;
+e) az összes forgalomba hozott értékpapír uniós szinten számított kibocsátási értéke az ajánlattételtől számított tizenkét hónapon belül nem haladja meg a százezer eurót vagy az annak megfelelő összeget;
 
 f) a részvénytársaság szövetkezet átalakulásával jön létre és a részvényeket kizárólag az átalakuló szövetkezet tagjainak, üzletrész tulajdonosainak ajánlják fel.
 
@@ -18,7 +18,7 @@ a) a kibocsátó korábban már kibocsátott részvényekkel azonos fajtájú, i
 
 b) az értékpapírt részvénytársaságban, nyilvános vételi ajánlat keretében történő befolyásszerzéssel kapcsolatban ellenértékként ajánlják fel;
 
-c) az értékpapírt a társaságok egyesülésével kapcsolatosan ellenértékként ajánlják fel;
+c) az értékpapírt a társaságok egyesülésével vagy szétválásával kapcsolatosan ellenértékként ajánlják fel;
 
 d) a részvénytársaság a részvényeseinek ingyenesen juttat az alaptőkén felüli vagyon terhére részvényeket vagy osztalékként ezekkel azonos fajtájú, illetve azonos osztályba tartozó részvényeket juttat, mint amelyre tekintettel az osztalékfizetés történik;
 
