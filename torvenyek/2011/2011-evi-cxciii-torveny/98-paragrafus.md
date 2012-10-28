@@ -30,4 +30,4 @@ h) az ÁÉKBV által folytatott forgalmazás megszüntetésének feltételei;
 
 i) az 584/2010/EU bizottsági rendelet 1. cikkében említett bejelentő levélben feltüntetendő információk részletes tartalma;
 
-j) a 97. § (5) bekezdésében megjelölt e-mail cím.
+j) a (4) bekezdésben meghatározott bejelentési kötelezettség teljesítésére szolgáló e-mail cím.

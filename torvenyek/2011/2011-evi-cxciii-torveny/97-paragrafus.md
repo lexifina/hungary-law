@@ -6,4 +6,4 @@
 
 (4) ÁÉKBV a (1) bekezdés szerint a bejelentéshez mellékelt dokumentumokat köteles naprakészen tartani és azok módosulásáról, illetve elektronikus elérési módjáról, a (3) bekezdésben meghatározott nyelven haladéktalanul tájékoztatja a fogadó tagállam hatáskörrel rendelkező felügyeleti hatóságát. A forgalmazással kapcsolatos rendelkezések vagy a forgalmazni kívánt részvényosztályok változása esetén az ÁÉKBV a változások hatálybalépése előtt 10 nappal köteles értesíteni a fogadó tagállam hatáskörrel rendelkező felügyeleti hatóságát.
 
-(5) A Felügyelet az 584/2010/EU bizottsági rendelet 3. cikkével összhangban kijelöl egy e-mail címet az (1)–(4) bekezdésekben meghatározott dokumentumok bejelentésének céljára.
+(5)

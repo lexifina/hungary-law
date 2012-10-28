@@ -18,4 +18,4 @@ b) magyarországi székhelyű átvevő ÁÉKBV esetén a beolvadó ÁÉKBV szék
 
 engedélyezte a tervezett egyesülést.
 
-(4) A tájékoztatást a 73. § (1) bekezdésében említett pótdíjfizetés nélküli visszavásárlási, visszaváltási vagy átváltási kérelmek benyújtására vonatkozó határidő lejárati napja előtt legalább 30 nappal megelőzően meg kell adni.
+(4) A tájékoztatást a 73. § (1) bekezdésében említett térítésmentes visszavásárlási, visszaváltási vagy átváltási kérelmek benyújtására vonatkozó határidő lejárati napja előtt legalább 30 nappal megelőzően meg kell adni.

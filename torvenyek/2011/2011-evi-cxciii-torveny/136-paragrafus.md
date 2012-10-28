@@ -24,7 +24,7 @@ j) a cégjegyzékben nyilvántartott adatainak változását, a cégbírósági 
 
 k) ha vele szemben törvényességi felügyeleti eljárás indult, a tudomására jutástól számított 5 napon belül, és
 
-l) az általa kezelt befektetési alap 132. § (1) bekezdésének b) pontja szerinti adataiban bekövetkezett változást a változás hatálybalépését követő 2 munkanapon belül.
+l) az általa kezelt befektetési alap 132. § (1) bekezdés b) pontja szerinti adataiban bekövetkezett változást a változás hatálybalépését követő 5 munkanapon belül, a változás hatálybalépése napjának megjelölésével.
 
 (2) A befektetési alapkezelő köteles a Felügyeletnek való megküldéssel egyidejűleg honlapján közzétenni az (1) bekezdés a), c), e), f), g), i), j) és k) pontjában foglalt változásokat.
 

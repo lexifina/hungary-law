@@ -8,6 +8,6 @@
 
 (4) A Felügyelet 20 munkanapon belül dönt arról, hogy jóváhagyja-e a gyűjtő-ÁÉKBV részére a cél-ÁÉKBV-be történő befektetést.
 
-(5) Engedélyezésre irányuló kérelem esetében a Felügyelet a kérelem beérkezésétől számított 10 munkanapon belül kérhet hiánypótlást, amennyiben a kérelem nem felel meg a jogszabályoknak, vagy a befektetőknek szóló információ egyértelműbbé tételét szükségesnek tartja.
+(5) Engedélyezésre irányuló kérelem, illetve megszűnéssel kapcsolatos hatósági eljárás esetében a Felügyelet a kérelem beérkezésétől számított 10 munkanapon belül kérhet hiánypótlást, amennyiben a kérelem nem felel meg a jogszabályoknak, vagy a befektetőknek szóló információ egyértelműbbé tételét szükségesnek tartja.
 
 (6) A kérelmező a kérelmét a befektetési alapok létrehozásával, működésével, megszűnésével kapcsolatos nyilvántartásba vételi, engedélyezési, illetve törlési eljárások, valamint az ingatlanértékelő megbízásának a befektetési alapok befektetési és hitelfelvételi szabályok szerinti engedélyezésére vonatkozó eljárás során köteles az e célra rendszeresített elektronikus űrlapon benyújtani.

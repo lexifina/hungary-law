@@ -1,6 +1,6 @@
 ## 18. A kezelési szabályzat
 
-52. § (1) A befektetési alap kezelésének szabályait – nyilvános befektetési alap esetén a Felügyelet által jóváhagyott, zártkörű befektetési alap esetén a Felügyelet részére benyújtott – kezelési szabályzatba kell foglalni. A kezelési szabályzatnak tartalmaznia kell minden olyan információt, amely lehetővé teszi a befektetési alap működésének, befektetési elveinek és kezelésének megítélését. A kezelési szabályzat tartalmának kötelező elemeit a 3. melléklet határozza meg.
+52. § (1) A befektetési alap kezelésének szabályait – nyilvános befektetési alap esetén a Felügyelet által jóváhagyott, zártkörű befektetési alap esetén a Felügyelet részére benyújtott – kezelési szabályzatba kell foglalni. A kezelési szabályzatnak tartalmaznia kell minden olyan információt, amely lehetővé teszi a befektetési alap működésének, befektetési elveinek és kezelésének megítélését. A kezelési szabályzatot nyilvános befektetési alap esetében a 3. melléklet I. Fejezetébe, zártkörű befektetési alap esetében a 3. melléklet II. Fejezetébe foglalt minta szerinti formában és tartalommal kell elkészíteni.
 
 (2) A befektető a befektetési jegyek vásárlásakor nyilatkozik arról, hogy ismeri a kezelési szabályzatban foglalt feltételeket, különös tekintettel a befektetési jegyhez fűződő kockázatokra, valamint arról, hogy a befektetés a kockázatviselő képességének megfelel.
 

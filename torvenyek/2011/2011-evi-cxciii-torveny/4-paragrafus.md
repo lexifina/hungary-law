@@ -48,7 +48,7 @@ c) kollektív befektetési értékpapírok letéti őrzése, letétkezelése és
 
 d) értékpapír-kölcsönzés.
 
-(4) A befektetési alapkezelő a (2) bekezdés a) pontjában meghatározott tevékenység végzésére köteles. A befektetési alapkezelő a (3) bekezdésben meghatározott tevékenységek végzésére önállóan, a (2) bekezdésben meghatározott tevékenységek végzésére vonatkozó engedély nélkül nem kaphat engedélyt, míg a (3) bekezdés b) és c) pontjában meghatározott tevékenység végzésére vonatkozó engedélyt kizárólag a (3) bekezdés a) pontjában meghatározott tevékenység végzésére jogosító engedély birtokában kaphat. A (2) bekezdés c) pontjában foglalt tevékenység végzése esetén a befektetési alapkezelő akkor vehet fel közvetlenül a befektetőktől kollektív befektetési értékpapírokra szóló vételi és eladási megbízásokat, ha rendelkezik a (3) bekezdés c) pontjában foglalt tevékenységre szóló engedéllyel.
+(4) A befektetési alapkezelő a (2) bekezdés a) pontjában meghatározott tevékenység végzésére köteles. A befektetési alapkezelő a (3) bekezdésben meghatározott tevékenységek végzésére önállóan, a (2) bekezdésben meghatározott tevékenységek végzésére vonatkozó engedély nélkül nem kaphat engedélyt, míg a (3) bekezdés b) és c) pontjában meghatározott tevékenység végzésére vonatkozó engedélyt kizárólag a (3) bekezdés a) pontjában meghatározott tevékenység végzésére jogosító engedély birtokában kaphat.
 
 (5) A befektetési alapkezelő a (2) bekezdésben meghatározott kollektív portfóliókezelési tevékenységet – kiszervezés útján vagy határon átnyúló szolgáltatás keretén belül – belföldi és külföldi befektetési alapkezelő részére is végezheti. A határon átnyúló szolgáltatás végzését a Felügyeletnek be kell jelenteni.
 

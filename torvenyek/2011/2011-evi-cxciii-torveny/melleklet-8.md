@@ -14,7 +14,7 @@ A panaszkezelés menete
 
 6. A befektetési alapkezelő az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő 30 napon belül megküldi a panaszosnak.
 
-7. A panasz elutasítása esetén a befektetési alapkezelő válaszában tájékoztatja a panaszost arról, hogy panaszával – annak jellege szerint – a Felügyelet vagy a békéltető testület eljárását kezdeményezheti, továbbá meg kell adni a Felügyelet és a békéltető testület levelezési címét.
+7. A panasz elutasítása esetén a befektetési alapkezelő válaszában tájékoztatja a panaszost arról, hogy panaszával – annak jellege szerint – a Felügyelet vagy a pénzügyi békéltető testület eljárását kezdeményezheti, továbbá meg kell adni a Felügyelet és a pénzügyi békéltető testület levelezési címét.
 
 8. A befektetési alapkezelő a panaszt és az arra adott választ a szabályzatában meghatározott ideig, legalább azonban 3 évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 

@@ -10,12 +10,14 @@ b) könyvvizsgálójának igazolását arról, hogy a befektetési alapkezelő i
 
 a) 2012. július 1. napjáig köteles benyújtani a Felügyelethez az ÁÉKBV kezelési szabályzatának, tájékoztatójának az e törvénynek való megfelelést biztosító, a befektetési alapkezelő által elhatározott módosítását, valamint a 105. § szerinti kiemelt befektetői információt;
 
-b) 2012. október 31. napjáig köteles benyújtani a Felügyelethez
+b) 2012. december 31. napjáig köteles benyújtani a Felügyelethez
 
 ba) a befektetési alap kezelési szabályzatának és – nyilvános befektetési alap esetében – tájékoztatójának az e törvénynek való megfelelést biztosító, a befektetési alapkezelő által elhatározott módosítását;
 
 bb) nyilvános, nyíltvégű alap esetében a befektetési alapra vonatkozó, 105. § szerinti kiemelt befektetői információt;
 
-c) köteles gondoskodni arról, hogy a befektetési alap a ba) pont szerint módosított kezelési szabályzat hatálybalépése napján, de legkésőbb 2012. december 31. napján befektetései és működése tekintetében is megfeleljen az e törvényben és a befektetési alapok befektetési és hitelfelvételi szabályairól szóló kormányrendeletben foglalt rendelkezéseknek.
+c) köteles gondoskodni arról, hogy a befektetési alap a ba) pont szerint módosított kezelési szabályzat hatályba lépése napján befektetései és működése tekintetében is megfeleljen az e törvényben és a befektetési alapok befektetési és hitelfelvételi szabályairól szóló kormányrendeletben foglalt rendelkezéseknek.
 
 (3) A (2) bekezdésben megállapított rendelkezés 2012. június 1-jével alkalmazandó.
+
+(4) A befektetési alapkezelő köteles gondoskodni arról, hogy az általa kezelt befektetési alap kezelési szabályzata és – nyilvános befektetési alap esetében – tájékoztatója az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvény hatálybalépését követően elhatározott első módosítása során, de legkésőbb 2013. december 31. napjáig megfeleljen az e törvény 3., illetve 5. mellékletének.

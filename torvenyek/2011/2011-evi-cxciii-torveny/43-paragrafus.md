@@ -2,7 +2,7 @@
 
 ## LETÉTKEZELŐKRE VONATKOZÓ SZABÁLYOK
 
-43. § (1) A befektetési alapkezelő az általa kezelt befektetési alap letétkezelésével a 3. § 46. pont a) alpontja szerinti, a 3. § 1. pont b) alpont szerinti ÁÉKBV letétkezelésével az adott ÁÉKBV székhely országában székhellyel rendelkező 3. § 46. pont b) alpont szerinti letétkezelőt köteles megbízni. A letétkezelési szerződés hatálybalépéséhez a Felügyelet jóváhagyása szükséges.
+43. § (1) A befektetési alapkezelő az általa kezelt befektetési alap letétkezelésével a 3. § 46. pont a) alpontja szerinti, a 3. § 1. pont b) alpont szerinti ÁÉKBV letétkezelésével az adott ÁÉKBV székhely országában székhellyel rendelkező 3. § 46. pont b) alpont szerinti letétkezelőt köteles megbízni. A letétkezelési szerződés és annak módosítása hatálybalépéséhez a Felügyelet jóváhagyása szükséges.
 
 (2) Amennyiben egy magyarországi székhelyű ÁÉKBV-t kezelő befektetési alapkezelő székhelye más EGT-államban van, vagy más EGT-államban székhellyel rendelkező ÁÉKBV-t magyarországi székhelyű ÁÉKBV-alapkezelő kezel, a letétkezelő írásbeli megállapodást köt az ÁÉKBV-alapkezelővel a funkcióinak ellátásához szükséges információáramlás szabályozásáról. A letétkezelő és az ÁÉKBV-alapkezelő közötti megállapodás részletszabályait a 9. melléklet tartalmazza.
 

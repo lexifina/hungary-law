@@ -22,11 +22,11 @@ d) igazolja, hogy vele szemben a (10) bekezdésében meghatározott kizáró oko
 
 (8) A (2) és (5)–(7) bekezdés esetében
 
-a) a befektetési alapkezelőnél, kollektív befektetési formánál, befektetési vállalkozásnál, hitelintézetnél, biztosítónál, nyugdíjpénztárnál befektetésekkel, illetve hitelintézetnél letétkezeléssel foglalkozó területen,
+a) a befektetési alapkezelőnél, kollektív befektetési formánál, befektetési vállalkozásnál, hitelintézetnél, biztosítónál, nyugdíjpénztárnál
 
 b) az MNB-nél, a Felügyeletnél, a minisztériumban, szabályozott piacnál, tőzsdénél, a központi értéktárnál, az elszámolóháznál, központi szerződő félnél, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál,
 
-c) ingatlanalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében, ingatlanforgalmazónál, valamint
+c) ingatlanalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében ingatlanforgalmazónál, ingatlanalapot kezelő alapkezelőnél, valamint
 
 d) az a)–c) pontban felsoroltak külföldi megfelelőinél
 

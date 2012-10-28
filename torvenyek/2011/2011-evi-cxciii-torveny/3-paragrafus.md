@@ -50,9 +50,9 @@ b) olyan nyilvános nyílt végű kollektív befektetési forma, amely az ÁÉKB
 
 23. érintett személy:
 
-a) a befektetési alapkezelő vezető állású személye, tulajdonosa, alkalmazottja,
+a) a befektetési alapkezelő ügyvezetője, tulajdonosa,
 
-b) bármely olyan természetes személy, aki tevékenységét a befektetési alapkezelő érdekeinek megfelelően végzi, és aki részt vesz a befektetési alapkezelő által végzett befektetési alapkezelésben, vagy
+b) a befektetési alapkezelő olyan alkalmazottja, illetve bármely olyan természetes személy, aki tevékenységét a befektetési alapkezelő érdekeinek megfelelően végzi, és aki részt vesz a befektetési alapkezelő által végzett befektetési alapkezelésben, vagy
 
 c) bármely olyan természetes személy, aki harmadik fél részére szóló, befektetési alapkezelő által nyújtandó befektetési alapkezelési szolgáltatásra vonatkozó kiszervezésre irányuló szerződés alapján közvetlenül részt vesz a befektetési alapkezelés szolgáltatásának nyújtásában;
 
@@ -164,4 +164,4 @@ b) két vagy több személy között fennálló kapcsolat, amennyiben ezen szem�
 
 68. ügyvezető: a befektetési alapkezelő vezetésére kinevezett első számú vezető, valamint e vezető valamennyi helyettese;
 
-69. vezető állású személy: az ügyvezető, az igazgatóság tagja és a felügyelőbizottság elnöke, tagja, az igazgatótanács tagja, a fióktelep vezetésére kinevezett személy és annak közvetlen helyettese, valamint minden olyan személy, akit a létesítő okirat vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg.
+69. vezető állású személy: az ügyvezető, az igazgatóság elnöke, tagja és a felügyelőbizottság elnöke, tagja, a fióktelep vezetésére kinevezett személy és annak közvetlen helyettese, valamint minden olyan személy, akit a létesítő okirat vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg.

@@ -14,4 +14,4 @@
 
 (7) Az eszközök elkülönítéséről, az elkülönítés részben vagy egészben történő megszüntetéséről, illetve az ezzel kapcsolatos döntés indokáról a befektetési alapkezelő a rendkívüli tájékoztatás szabályai szerint tájékoztatja a befektetőket és a Felügyeletet. A befektetési alap éves, féléves jelentésében részletes tájékoztatást kell adni az elkülönített eszközök összetételéről.
 
-(8) A befektetési alap befektetési jegyeinek forgalmazását az elkülönítésről szóló döntés közzétételével egy időben, az elkülönítés végrehajtásáig fel kell függeszteni.
+(8) A befektetési alapkezelő a befektetési alap befektetési jegyeinek forgalmazását az elkülönítésről szóló döntés közzétételével egy időben, az elkülönítés végrehajtásáig felfüggeszti.
