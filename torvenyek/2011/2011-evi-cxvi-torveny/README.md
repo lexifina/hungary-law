@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-116-00-00
 | 2011-09-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-116-00-00.1 |
 | 2011-09-23 | 2010. évi CXXX. törvény | 2011-116-00-00.2 |
 | 2012-10-28 | 2012. évi CLI. törvény | 2011-116-00-00.3 |
+| 2012-10-29 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-116-00-00.4 |
