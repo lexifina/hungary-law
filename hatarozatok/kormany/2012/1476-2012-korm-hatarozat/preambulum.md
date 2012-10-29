@@ -1,0 +1,1 @@
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 3. Rendkívüli kormányzati intézkedések cím terhére

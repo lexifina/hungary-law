@@ -1,0 +1,119 @@
+## a) a Hajdúdorogi Görögkatolikus Egyházmegye támogatására 400,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 2. Egyházi hit- és egyéb oktatási tevékenység támogatása jogcímcsoport, 2. Egyházi oktatási programok támogatása (Templom és Iskola) jogcím javára, valamint
+
+## b) a Kalocsa Nagyboldogasszony Főszékesegyház felújítási munkálatainak befejezéséhez 150,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 7. Egyházi épített örökség védelme és egyéb beruházások jogcímcsoport javára.
+
+## Felelős: átcsoportosításért: nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+## Felelős: elszámolásért és a visszafizetési kötelezettség teljesítéséért: emberi erőforrások minisztere
+
+## Határidő: 2013. április 30.
+
+1. melléklet az 1476/2012. (X. 29.) Korm. határozathoz
+
+XX. Emberi Erőforrások Minisztériuma
+
+XI. Miniszterelnökség
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+
+a Kormány hatáskörében
+
+Költségvetési év: 2012.
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
+
+| ÁHT | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. |  | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. | K I A D Á S O K |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+|  | XX. |  |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 55 |  |  |  |  |  |  | Egyházi célú központi költségvetési hozzájárulások |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  | 2 |  |  |  |  |  |  | Egyházi hit- és egyéb oktatási tevékenység támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 298157 |  |  |  |  | 2 |  |  |  |  |  |  | Egyházi oktatási programok támogatása (Templom és Iskola) |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 90,0 |  |  |  |
+
+|  |  |  |  |  |  | 2 |  |  |  |  |  |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Egyéb intézményi felhalmozási kiadások |  |  |  |  |  |  |  |  | 310,0 |  |  |  |
+
+| 263212 |  |  |  | 7 |  |  |  |  |  |  | Egyházi épített örökség védelme és egyéb beruházások |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 2 |  |  |  |  |  |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Egyéb intézményi felhalmozási kiadások |  |  |  |  |  |  |  |  | 150,0 |  |  |  |
+
+|  | XI. |  |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 297102 |  | 3 |  |  |  |  |  |  | Rendkívüli kormányzati intézkedések |  |  |  |  |  |  |  |  |  |  |  | -550,0 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
+
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. |  | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. | B E V É T E L |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
+
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. |  | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. | T Á M O G A T Á S |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+|  | XX. |  |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 55 |  |  |  |  |  |  | Egyházi célú központi költségvetési hozzájárulások |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  | 2 |  |  |  |  |  |  | Egyházi hit- és egyéb oktatási tevékenység támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 298157 |  |  |  |  | 2 |  |  |  |  |  |  | Egyházi oktatási programok támogatása (Templom és Iskola) |  |  |  |  |  |  |  |  | 400,0 |  |  |  |
+
+| 263212 |  |  |  | 7 |  |  |  |  |  |  | Egyházi épített örökség védelme és egyéb beruházások |  |  |  |  |  |  |  |  | 150,0 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnal |  |  | 550,0 |  |  |  |  |  |  |  |  |  |  |  | 550,0 |
+
+| Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
