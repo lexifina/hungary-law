@@ -1,3 +1,0 @@
-121. § A Batv. 52. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A befektetési alap kezelésének szabályait – nyilvános befektetési alap esetén a Felügyelet által jóváhagyott, zártkörű befektetési alap esetén a Felügyelet részére benyújtott – kezelési szabályzatba kell foglalni. A kezelési szabályzatnak tartalmaznia kell minden olyan információt, amely lehetővé teszi a befektetési alap működésének, befektetési elveinek és kezelésének megítélését. A kezelési szabályzatot nyilvános befektetési alap esetében a 3. melléklet I. Fejezetébe, zártkörű befektetési alap esetében a 3. melléklet II. Fejezetébe foglalt minta szerinti formában és tartalommal kell elkészíteni.”

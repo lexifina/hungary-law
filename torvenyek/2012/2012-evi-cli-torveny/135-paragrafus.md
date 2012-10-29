@@ -1,7 +1,0 @@
-135. § A Batv. 147. §-a helyébe a következő rendelkezés lép:
-
-„147. § (1) A befektetési alapkezelő köteles az általa kezelt befektetési alap könyvvizsgálójával – az éves jelentés könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves jelentéssel kapcsolatban készített jelentést a Felügyelet számára megküldeni.
-
-(2) A Felügyelet jogosult a könyvvizsgáló 145. § (2) bekezdés b) pont szerinti tájékoztatása alapján – az éves jelentés jóváhagyása előtt – a befektetési alap befektetési alapkezelőjénél kezdeményezni, hogy a helytelen adatokat tartalmazó jelentést helyesbítsék, és gondoskodjanak a helyesbített adatok könyvvizsgálóval történő felülvizsgálatáról.
-
-(3) Ha az éves jelentés jóváhagyását követően jutott a Felügyelet tudomására, hogy az éves jelentés lényeges hibát tartalmaz, a Felügyelet kötelezheti a befektetési alapot kezelő befektetési alapkezelőt az adatok módosítására és könyvvizsgálóval való felülvizsgálatára az Szt.-ben foglalt, önellenőrzésre vonatkozó szabályok figyelembevételével. A módosított, könyvvizsgáló által felülvizsgált adatokat a befektetési alapkezelő köteles a Felügyeletnek bemutatni.”
