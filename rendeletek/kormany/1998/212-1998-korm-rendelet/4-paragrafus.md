@@ -1,6 +1,6 @@
 ## Bejelentési és adatszolgáltatási kötelezettség
 
-4. § (1)[^6] Az ellenőrzött tevékenységet folytató szervezet köteles nyilvántartásba vételi bejelentést a Hivatalnak benyújtani, engedélyköteles tevékenység végzéséhez szükséges engedélyt beszerezni, valamint a rendeletben foglaltak szerint az ellenőrzött tevékenységről nyilatkozatot tenni.
+4. § (1)[^7] A szervezet köteles a Hivatalnak bejelenteni, ha a 6. §-ban meghatározott tevékenységet végez vagy kíván végezni. A bejelentés alapján a Hivatal a szervezetet nyilvántartásba veszi.
 
 (2) A nyilvántartásba vételi bejelentésnek tartalmaznia kell:
 
@@ -8,11 +8,16 @@ a) a szervezet megnevezését, székhelyét;
 
 b) az ellenőrzött tevékenységet folytató létesítmények megnevezését, székhelyét;
 
-c) a kapcsolattartásért felelős személy nevét.
+c)[^8] a szervezet részéről kötelezettségvállalásra jogosult személy nevét;
 
-(3) A (2) bekezdésben meghatározott adatokban bekövetkezett változásokat 30 napon belül be kell jelenteni.
+d)[^9] a Hivatallal való kapcsolattartásra felhatalmazott személy nevét és elérhetőségét.
 
-(4)[^7] A Hivatal a létesítményeket azonosító kóddal látja el, amelyről a szervezetet értesíti.
+(3)[^10] A (2) bekezdésben meghatározott adatokban bekövetkezett változásokat 8 napon belül be kell jelenteni.
 
-[^6]: A 4. § (1) bekezdése a 298/2005. (XII. 23.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
-[^7]: A 4. § (4) bekezdése a 298/2005. (XII. 23.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+(4)[^11] A Hivatal a létesítményeket azonosító kóddal látja el, amelyről a szervezetet értesíti.
+
+[^7]: A 4. § (1) bekezdése a 280/2012. (IX. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^8]: A 4. § (2) bekezdés c) pontja a 280/2012. (IX. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^9]: A 4. § (2) bekezdés d) pontját a 280/2012. (IX. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^10]: A 4. § (3) bekezdése a 280/2012. (IX. 28.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^11]: A 4. § (4) bekezdése a 298/2005. (XII. 23.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.

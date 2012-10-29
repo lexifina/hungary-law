@@ -1,7 +1,12 @@
-## Engedélyköteles tevékenység
+## Engedélyezés[^12]
 
-5. § (1)[^8] Az 1. listás vegyületek gyártásához a Hivatal engedélye szükséges. Az engedély iránti kérelmet a tevékenység megkezdése előtt 200 nappal korábban kell benyújtani.
+5. § (1)[^13] Az 1. listás vegyületek gyártásához a Hivatal engedélye szükséges. Az engedély iránti kérelmet a tevékenység megkezdése előtt 200 nappal korábban kell benyújtani.
 
-(2) Az engedély iránti kérelemnek tartalmaznia kell a létesítményt azonosító adatokon kívül az üzem részletes műszaki leírását, beleértve a berendezések jegyzékét és a részletes folyamatábrákat.
+(2)[^14] Az engedély iránti kérelemnek tartalmaznia kell a létesítményt azonosító adatokon kívül a gyártani tervezett mennyiséget, az üzem részletes műszaki leírását, beleértve a berendezések jegyzékét és a részletes folyamatábrákat, a technológiai leírásokat, a tervezett gyártáshoz szükséges prekurzor nevét és mennyiségét, valamint a gyártani tervezett 1. listás vegyület felhasználásának célját.
 
-[^8]: Az 5. § (1) bekezdése a 298/2005. (XII. 23.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+(3)[^15] A Hivatal az 1. listás vegyület gyártására kiadott engedélyben jóváhagyja, előírja a tevékenység végzésének Egyezményben rögzített feltételeit.
+
+[^12]: Az 5. §-t megelőző alcím a 280/2012. (IX. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^13]: Az 5. § (1) bekezdése a 298/2005. (XII. 23.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^14]: Az 5. § (2) bekezdése a 280/2012. (IX. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^15]: Az 5. § (3) bekezdését a 280/2012. (IX. 28.) Korm. rendelet 4. §-a iktatta be.
