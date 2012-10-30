@@ -1,5 +1,0 @@
-## „5/A. § (1) A Hivatal az engedélykérelmeket az Egyezmény szerint vállalt nemzetközi kötelezettségek figyelembevételével bírálja el.
-
-## (2) A Hivatal az engedélykérelmet elutasítja, ha a kérelmezett tevékenység ellentétes az Egyezmény céljaival.
-
-## (3) A Hivatal a hatályos engedélyt visszavonja, ha a szervezet a tevékenységét nem az Egyezményben, valamint az engedélyben előírt feltételeknek megfelelően végzi.”
