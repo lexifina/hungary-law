@@ -60,7 +60,7 @@
 
 ## 8.10. Mikroklíma biztosítása esetén a 9. § (3) bekezdésében előírt dokumentumok.
 
-2. számú melléklet a 140/2007. (XI. 28.) FVM rendelethez[^28]
+2. számú melléklet a 140/2007. (XI. 28.) FVM rendelethez[^30]
 
 A takarmányozáshoz használt itatóvizet ivóvíz minőségűnek kell tekinteni, ha az igénylő a támogatási kérelemhez csatolja:
 
@@ -74,4 +74,4 @@ valamint az igénylő nyilatkozatát arról, hogy a víznyerőhely megfelelően 
 
 b) a vízszolgáltató írásos nyilatkozatát arról, hogy az általa szolgáltatott víz ivóvíz minőségű, ha a telepen az állatok vízellátása vezetékes vízhálózatról történik.
 
-[^28]: A 2. számú mellékletet a 80/2008. (VI. 24.) FVM rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet az 56/2009. (IV. 29.) FVM rendelet 3. §-ával megállapított szöveg.
+[^30]: A 2. számú mellékletet a 80/2008. (VI. 24.) FVM rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet az 56/2009. (IV. 29.) FVM rendelet 3. §-ával megállapított szöveg.

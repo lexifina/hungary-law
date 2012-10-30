@@ -32,10 +32,13 @@ g) a megfelelő mikroklíma
 
 (6) E rendelet alapján támogatás adott támogatási évben legfeljebb hatmilliárd forint összegig igényelhető.
 
-(7)[^3] Amennyiben az adott támogatási évben a támogatható igény a (6) bekezdés szerinti összeget meghaladja, úgy a támogatás összege az érintett negyedévre vonatkozóan benyújtott kérelmek között a túllépés mértékével arányosan csökken.
+(6a)[^3] A (6) bekezdéstől eltérően a 2012. évi támogatási évben legfeljebb 7,2 milliárd forint összegig nyújtható támogatás.
+
+(7)[^4] Amennyiben az adott támogatási évben a támogatható igény a (6), illetve (6a) bekezdés szerinti összeget meghaladja, úgy a támogatás összege az érintett negyedévre vonatkozóan benyújtott kérelmek között a túllépés mértékével arányosan csökken.
 
 (8) A támogatás folyósítását a Földművelésügyi és Vidékfejlesztési Minisztérium fejezeti kezelésű, 10032000-01220191-51200002 számú Folyó kiadások és jövedelemtámogatások előirányzat-felhasználási keretszámláról kell teljesíteni.
 
 [^1]: Az 1. § (3) bekezdésének záró szövegrésze a 80/2008. (VI. 24.) FVM rendelet 5. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2008. január 1-je utáni időszakra vonatkozóan benyújtott támogatási kérelmekre kell alkalmazni.
 [^2]: Az 1. § (5) bekezdésében az „a 2007-es támogatási évben e rendelet hatálybalépése és 2007. december 31. között, az ezt követő támogatási években” szövegrész e rendelet 10. § (2) bekezdése alapján hatályát vesztette 2008. január 1. napján.
-[^3]: Az 1. § (7) bekezdése az 56/2009. (IV. 29.) FVM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (6a) bekezdését a 111/2012. (X. 29.) VM rendelet 5. § (1) bekezdése iktatta be.
+[^4]: Az 1. § (7) bekezdése a 111/2012. (X. 29.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.
