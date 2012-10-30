@@ -12,11 +12,11 @@ d) aki a fegyelmi eljárás során mást bűncselekmény, szabálysértés vagy 
 
 (3) Ha az eljárás alá vont a meghallgatáson szabályszerű értesítés ellenére nem jelent meg és írásos védekezését sem terjesztette elő vagy nem kívánt az ügy érdemére nyilatkozni, a vizsgáló írásban, illetve a jegyzőkönyvben tájékoztatja, hogy az ügyét a védekezése előterjesztése hiányában a rendelkezésre álló adatok alapján fogják elbírálni.
 
-(4)[^15] A tanút és jogi képviselőjét a tanú meghallgatása előtt tájékoztatni kell arról, hogy
+(4)[^18] A tanút és jogi képviselőjét a tanú meghallgatása előtt tájékoztatni kell arról, hogy
 
 a) milyen ügyben kívánják meghallgatni,
 
-b)[^16] nem terheli tanúzási kötelezettség, ha nem fegyveres szerv állományába tartozik,
+b)[^19] nem terheli tanúzási kötelezettség, ha nem fegyveres szerv állományába tartozik,
 
 c) nem köteles olyan nyilatkozatot tenni, amellyel önmagát vagy hozzátartozóját bűncselekmény, szabálysértés vagy fegyelemsértés elkövetésével vádolná,
 
@@ -24,11 +24,11 @@ d) aki a fegyelmi eljárás során mást bűncselekmény, szabálysértés vagy 
 
 e) a fegyelmi ügyben elkövetett hamis tanúzást a törvény büntetni rendeli,
 
-f)[^17] a tanú vagy jogi képviselője kérheti a tanú személyi adatainak zártan történő kezelését.
+f)[^20] a tanú vagy jogi képviselője kérheti a tanú személyi adatainak zártan történő kezelését.
 
 (5) A tanútól csak olyan személyes adat közlése kérhető, amely a személye azonosításához, illetve elérhetőségéhez feltétlen szükséges.
 
-(6) A Szabályzat alkalmazásában hozzátartozó: az egyeneságbeli rokon és ennek házastársa, az örökbefogadó és nevelőszülő, az örökbefogadott és a nevelt gyermek, a testvér, a házastárs, az élettárs és a jegyes, a házastárs egyeneságbeli rokona és testvére, a testvér házastársa.
+(6)[^21] E rendelet alkalmazásában hozzátartozó: az egyeneságbeli rokon és ennek házastársa, az örökbefogadó és nevelőszülő, az örökbefogadott és a nevelt gyermek, a testvér, a házastárs, az élettárs és a jegyes, a házastárs egyeneságbeli rokona és testvére, a testvér házastársa.
 
 (7) Ha a tanú adatainak zártan kezelését kérte, a – nevén kívüli – személyes adatait a fegyelmi iratokhoz csatolt zárt borítékban kell kezelni és az eljárás jogerős befejezésekor meg kell semmisíteni. A zártan kezelt adatokat csak az ügyben eljáró vizsgáló, fegyelmi jogkör gyakorlója, a panaszt elbíráló elöljáró és kivizsgálásában résztvevő személy, valamint jogvita esetén a bíróság jogosult megismerni.
 
@@ -48,7 +48,7 @@ f) az eljárás alá vont adatait [születési évét és helyét, anyja leányk
 
 g) a tanú adatait (nevét, születési évét és helyét, anyja leánykori nevét, lakcímét, tartózkodási helyét – ha a szerv állományába tartozik lakcím helyett a munkakörét, szolgálati beosztását),
 
-h)[^18] a tanú vagy jogi képviselője nyilatkozatát a tanú adatainak zártan történő kezeléséről,
+h)[^22] a tanú vagy jogi képviselője nyilatkozatát a tanú adatainak zártan történő kezeléséről,
 
 i) a meghallgatott tájékoztatását a vizsgálat tárgyáról,
 
@@ -74,7 +74,8 @@ p) záradékot és a jelenlevők aláírásait.
 
 (12) Ha a tanú és az eljárás alá vont nyilatkozata között olyan lényeges ellentmondás van, amely az ügy érdemi elbírálását befolyásolhatja, meg kell kísérelni az ellentmondást szembesítéssel feloldani. Nincs helye szembesítésnek, ha a tanú vagy az eljárás alá vont a szembesítést nem vállalja. Szembesítéskor a vizsgáló által feltett kérdésekre adott válaszokat szó szerint kell lejegyezni és a nyilatkozatokat külön-külön aláíratni.
 
-[^15]: A 20. § (4) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^16]: A 20. § (4) bekezdésének b) pontja a 12/2006. (VIII. 3.) IRM rendelet 1. §-ával megállapított szöveg.
-[^17]: A 20. § (4) bekezdés f) pontja a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^18]: A 20. § (8) bekezdés h) pontja a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^18]: A 20. § (4) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 20. § (4) bekezdésének b) pontja a 12/2006. (VIII. 3.) IRM rendelet 1. §-ával megállapított szöveg.
+[^20]: A 20. § (4) bekezdés f) pontja a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^21]: A 20. § (6) bekezdése az 54/2012. (X. 29.) BM rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^22]: A 20. § (8) bekezdés h) pontja a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 2. § (2) bekezdésével megállapított szöveg.

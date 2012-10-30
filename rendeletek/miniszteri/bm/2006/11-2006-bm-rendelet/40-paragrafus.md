@@ -1,3 +1,5 @@
+## 39. §[^37]
+
 ## II. RÉSZ
 
 ## ELJÁRÁS A SZOLGÁLATTAL NEM ÖSSZEFÜGGŐ BŰNCSELEKMÉNY ESETÉN
@@ -9,3 +11,5 @@
 (3) A hivatásos állományút a beosztásából az (1) bekezdésben meghatározott feltételek fennállása esetén a nyomozás tartamára fel lehet függeszteni, ha azt a nyomozó hatóság a büntetőeljárás érdekeire tekintettel írásban kezdeményezte az állományilletékes parancsnoknál. Az állományilletékes parancsnok, ha a felfüggesztésből két hónap letelt, a felfüggesztést kezdeményező nyomozó hatóságot írásban a felfüggesztés indokoltságának felülvizsgálatára kéri fel. Ha a beosztásból felfüggesztés a hat hónapot meghaladja, a fenntartás indokoltságáról az állományilletékes parancsnok írásban kikéri a nyomozó hatóság felettes szerve vezetőjének a véleményét.
 
 (4) A (2) bekezdésben meghatározott beosztásból felfüggesztéssel szemben a felfüggesztett a 17. § (7) bekezdése szerint élhet panasszal.
+
+[^37]: A 39. §-t az 54/2012. (X. 29.) BM rendelet 8. § (2) bekezdés f) pontja hatályon kívül helyezte.

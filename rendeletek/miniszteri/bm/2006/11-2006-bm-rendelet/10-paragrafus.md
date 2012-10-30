@@ -7,3 +7,7 @@
 (3) A kiterjesztés, illetve az egyesítés mellőzhető, ha az utóbb tudomásra jutott fegyelemsértés kivizsgálása a már elrendelt fegyelmi eljárásban folyó vizsgálat határidejében – a meghosszabbítás lehetőségét is figyelembe véve – nem biztosítható vagy a fegyelmi eljárást felfüggesztették, illetve az újabb tudomásra jutott ügyben az eljárás felfüggesztése indokolt, és emiatt az ügyek egy eljárásban való elbírálása a Hszt. 120. §-ának (1) bekezdésében meghatározott célok érvényesülését akadályozná.
 
 (4) Nincs helye a fegyelmi eljárás kiterjesztésének vagy egyesítésének, ha a még el nem bírált ügy szabálysértés vagy a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 485/A. §-a szerint fegyelmi elbírálásra utalt katonai vétség.
+
+(5)[^11] Az ügyeket el lehet különíteni, ha a különböző tényállást megvalósító fegyelemsértések önállóan elbírálhatók és együttes elbírálásuk a felelősségrevonást jelentősen késleltetné.
+
+[^11]: A 10. § (5) bekezdését az 54/2012. (X. 29.) BM rendelet 5. §-a iktatta be.

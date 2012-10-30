@@ -6,4 +6,9 @@
 
 (4) Az összeférhetetlenség elbírálásáig, illetve az új vizsgáló személyének kijelöléséig a vizsgáló eljárási cselekményt halaszthatatlan esetben és csak a fegyelmi jogkör gyakorlójának előzetes jóváhagyásával végezhet.
 
-(5) Ha a hivatásos önkormányzati tűzoltóság állományában az (1) bekezdésben meghatározott feltételek hiányában vagy összeférhetetlenség miatt nincs megfelelő személy vagy az ügy bonyolultsága, terjedelme azt szükségessé teszi, a parancsnok kezdeményezésére a területileg illetékes katasztrófavédelmi igazgató vagy másik hivatásos önkormányzati tűzoltóság parancsnoka jelöli ki saját állományából a vizsgáló személyét.
+(5)[^12]
+
+(6)[^13] A büntetés-végrehajtási szervezetnél az (1) bekezdésben meghatározott egyéb kizáró okok hiányában, az eljárás alá vont szolgálati elöljárója is lehet vizsgáló, amennyiben csatolt munkakörben, országos parancsnoki megbízás alapján folyamatosan lát el fegyelmi-, nyomozótiszti feladatokat.
+
+[^12]: A 14. § (5) bekezdését az 54/2012. (X. 29.) BM rendelet 8. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^13]: A 14. § (6) bekezdését az 54/2012. (X. 29.) BM rendelet 6. §-a iktatta be.
