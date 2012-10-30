@@ -12,13 +12,13 @@ c) biztosítja a vonatkozó jogszabályban meghatározott pályázati és kivál
 
 d) fejleszti és működteti a közigazgatási szervek munkaerő-utánpótlási igényei alapján a gyakornoki és utánpótlásprogramokat,
 
-e)[^1]
+e)[^2]
 
-f)[^2]
+f)[^3]
 
-g)[^3]
+g)[^4]
 
-h)[^4] a Nemzeti Közszolgálati Egyetem közreműködésével működteti a kompetencia és munkaköralapú közszolgálati továbbképzés tervezési, beiskolázási és módszertani feladatait,
+h)[^5] a Nemzeti Közszolgálati Egyetem közreműködésével működteti a kompetencia és munkaköralapú közszolgálati továbbképzés tervezési, beiskolázási és módszertani feladatait,
 
 i) javaslatot tesz a munkakör alapú rendszerre (MAR) és támogatja annak működtetését,
 
@@ -26,7 +26,7 @@ j) javaslatot tesz az objektív teljesítménymenedzsment és teljesítményért
 
 k) javaslatot tesz a közszolgálati életpályát támogató belső karrier- és tehetségmenedzsmentre, és módszertani támogatást nyújt a közigazgatási szervek számára.
 
-[^1]: A 10. § e) pontját a 273/2012. (IX. 28.) Korm. rendelet 32. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 32. § (3) bekezdését.
-[^2]: A 10. § f) pontját a 273/2012. (IX. 28.) Korm. rendelet 32. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 32. § (3) bekezdését.
-[^3]: A 10. § g) pontját a 273/2012. (IX. 28.) Korm. rendelet 32. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 32. § (3) bekezdését.
-[^4]: A 10. § h) pontja a 273/2012. (IX. 28.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^2]: A 10. § e) pontját a 273/2012. (IX. 28.) Korm. rendelet 32. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 32. § (3) bekezdését.
+[^3]: A 10. § f) pontját a 273/2012. (IX. 28.) Korm. rendelet 32. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 32. § (3) bekezdését.
+[^4]: A 10. § g) pontját a 273/2012. (IX. 28.) Korm. rendelet 32. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 32. § (3) bekezdését.
+[^5]: A 10. § h) pontja a 273/2012. (IX. 28.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
