@@ -1,4 +1,3 @@
-## 9/A. §[^29] E rendeletnek az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet módosításáról szóló 77/2012. (VII. 27.) VM rendelettel (a továbbiakban: 77/2012. (VII. 27.) VM rendelet) megállapított 6. § (1) és (1a) bekezdését a 77/2012. (VII. 27.) VM rendelet hatálybalépésekor[^30] folyamatban lévő eljárásokban is alkalmazni kell.
+## 9/B. §[^31] E rendeletnek az egyes állattenyésztési támogatások 2012. évre vonatkozó keretösszegének módosításáról szóló 111/2012. (X. 29.) VM rendelettel [a továbbiakban: 111/2012. (X. 29.) VM rendelet] megállapított 6. § (1a), (3) és (3a) bekezdését a 111/2012. (X. 29.) VM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^29]: A 9/A. §-t a 77/2012. (VII. 27.) VM rendelet 6. §-a iktatta be.
-[^30]: A hatálybalépés időpontja 2012. július 28.
+[^31]: A 9/B. §-t a 111/2012. (X. 29.) VM rendelet 10. §-a iktatta be.
