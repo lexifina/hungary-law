@@ -4,7 +4,7 @@
 
 ## 84. § A nemzeti fejlesztési miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
 
-a)[^316] fejlesztéspolitikáért,
+a)[^317] fejlesztéspolitikáért,
 
 b) területfejlesztésért,
 
@@ -16,7 +16,7 @@ e) közlekedésért,
 
 f) energiapolitikáért,
 
-g)[^317] bányászati ügyekért,
+g)[^318] bányászati ügyekért,
 
 h) postaügyért,
 
@@ -30,13 +30,13 @@ l) elektronikus hírközlésért,
 
 m) űrkutatásért,
 
-n)[^318] fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért,
+n)[^319] fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért,
 
-o)[^319] víziközmű-szolgáltatásért
+o)[^320] víziközmű-szolgáltatásért
 
 felelős tagja.
 
-[^316]: A 84. § a) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (36) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^317]: A 84. § g) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (53) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^318]: A 84. § n) pontját a 267/2010. (XII. 3.) Korm. rendelet 27. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^319]: A 84. § o) pontját a 118/2012. (VI. 26.) Korm. rendelet 6. §-a iktatta be.
+[^317]: A 84. § a) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (36) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^318]: A 84. § g) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (53) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^319]: A 84. § n) pontját a 267/2010. (XII. 3.) Korm. rendelet 27. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^320]: A 84. § o) pontját a 118/2012. (VI. 26.) Korm. rendelet 6. §-a iktatta be.

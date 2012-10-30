@@ -1,4 +1,4 @@
-## 71/B. §[^244] A miniszter a társadalmi felzárkózásért való felelőssége körében
+## 71/B. §[^245] A miniszter a társadalmi felzárkózásért való felelőssége körében
 
 a) egyetértési jogot gyakorol az egyes kormányzati szervek társadalmi felzárkózást érintő szakpolitikái kapcsán,
 
@@ -22,4 +22,4 @@ j) részt vesz a társadalmi felzárkózást érintő programok, a foglalkoztat�
 
 k) részt vesz a roma- és társadalmi felzárkózási szakterülettel foglalkozó országos, valamint területi egyeztető fórumok és tanácsok munkájában.
 
-[^244]: A 71/B. §-t a 94/2012. (V. 11.) Korm. rendelet 4. §-a iktatta be.
+[^245]: A 71/B. §-t a 94/2012. (V. 11.) Korm. rendelet 4. §-a iktatta be.
