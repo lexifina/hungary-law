@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-139-20-
 | 2011-07-17 | 2007-139-20-82.7 | 68/2011. (VII. 14.) VM rendelet |
 | 2012-01-01 | 2007-139-20-82.8 | 81/2008. (VI. 24.) FVM rendelet |
 | 2012-07-31 | 2007-139-20-82.9 | 80/2012. (VII. 30.) VM rendelet |
+| 2012-10-30 | 2007-139-20-82.10 | 111/2012. (X. 29.) VM rendelet |

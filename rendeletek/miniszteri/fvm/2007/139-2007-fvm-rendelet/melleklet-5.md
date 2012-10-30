@@ -30,22 +30,6 @@
 
 | 6. | Összesen: |  | 4000,00 |
 
-5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^60]
+5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^63]
 
-A baromfi ágazatban igénybe vehető állatjóléti támogatások – Szakmai ellenőrzési Lap adattartalma
-
-1. Ügyfél azonosítási információ
-
-2. A támogatott állomány azonosítási információ
-
-3. Napos vagy előnevelt baromfi beszerzésére, vágására, vágóhídra történő szállítására (átminősítésére) vonatkozó információk
-
-4. A támogatási igényre vonatkozó adatok
-
-5. A kérelmező aláírása
-
-6. A Baromfi Termék Tanács igazolása
-
-7. Csatolandó mellékletek
-
-[^60]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^63]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
