@@ -1,0 +1,9 @@
+# 31/2012. (X. 16.) NGM rendelet
+
+a munkaügyi ellenőrzés során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94. § (2) bekezdés b) pontjának alkalmazásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-31-20-2X
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-10-31 | 2012-31-20-2X.1 | 31/2012. (X. 16.) NGM rendelet |
