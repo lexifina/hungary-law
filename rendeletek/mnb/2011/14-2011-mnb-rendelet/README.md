@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-14-20-2
 | 2012-10-01 | 2011-14-20-2C.15 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-10-02 | 2011-14-20-2C.16 | 2010: CXXX. törvény |
 | 2012-10-26 | 2011-14-20-2C.17 | 3/2012. (I. 12.) MNB rendelet |
+| 2012-10-31 | 2011-14-20-2C.18 | 20/2012. (X. 15.) MNB rendelet |
