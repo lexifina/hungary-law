@@ -1,3 +1,0 @@
-## 9. §[^2] Az oktatási és kulturális miniszter hatáskörébe tartozó szakképesítések megszerzésére irányuló szakmai vizsga szervezésére feljogosított intézményekről szóló 30/2008. (XI. 24.) OKM rendelet 2. számú mellékletének B) fejezetében az 54 211 09 0010 54 01 Alkalmazott grafikus, az 54 211 09 0010 54 02 Képgrafikus, az 54 211 07 0000 00 00 Divat- és stílustervező, továbbá az 52 214 01 0000 00 00 Lakberendező szakképesítések tekintetében a vizsgaszervezési jogot elnyert intézmények és régiók a 10. számú melléklet szerint módosulnak.
-
-[^2]: A 9. § a 10. § (4) bekezdése alapján hatályát veszti 2012. október 31. napjával.
