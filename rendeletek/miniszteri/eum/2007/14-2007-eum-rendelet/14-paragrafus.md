@@ -42,6 +42,8 @@ a)[^124] a sorozatgyártású és adaptív gyógyászati segédeszköz esetében
 
 b)[^125] az egyedi méretvétel alapján készült gyógyászati segédeszköz esetében a beteg számára az eszközhöz nyújtott támogatásra vonatkozó feltételeket az eszköz megrendelésekor érvényes, a Gtv. 33. § (3) bekezdése szerinti közleményben foglaltak szerint
 
+kell alkalmazni.
+
 [^116]: A 14. § (2) bekezdés b) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 18. pontja szerint módosított szöveg.
 [^117]: A 14. § (7) bekezdése a 20/2010. (XII. 28.) NEFMI rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^118]: A 14. § (8) bekezdése az 56/2008. (XII. 31.) EüM rendelet 12. § (1) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.

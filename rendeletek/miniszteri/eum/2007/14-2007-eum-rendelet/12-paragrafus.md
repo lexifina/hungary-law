@@ -22,7 +22,7 @@ a) az Ebtv. 30. § (3a) bekezdése alapján szerződést kötött gyártó vagy 
 
 b) az Ebtv. 30. § (2) bekezdése alapján szerződést kötött és a gyártó meghatalmazásával rendelkező egészségügyi szolgáltató
 
-## végezheti.
+végezheti.
 
 (8) A (6) bekezdés a) és b) pontja szerinti rendelés esetén az orvosi dokumentációban fel kell tüntetni a rendelés indokát.
 

@@ -1,5 +1,3 @@
-## értelemszerűen kell a fentiek figyelembevételével alkalmazni.
-
 10/A. §[^81] (1) A szállító-előminősítés – az egyedi méretvétel alapján egyedileg készített eszközök gyártóinak kivételével – a forgalomba hozó szállító-előminősítési kérelmére indul. A kérelmet az OEP által erre a célra rendszeresített nyomtatványon vagy elektronikus űrlapon kell benyújtani. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottakon túl a kérelem tartalmazza a kapcsolattartó nevét és elérhetőségét, valamint a cégszerű aláírást.
 
 (2) Az (1) bekezdés szerinti szállító-előminősítési kérelemhez a forgalomba hozónak csatolnia kell
