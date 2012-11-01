@@ -26,9 +26,12 @@
 
 (13)[^17] Az EU Kék Kártya iránti kérelmet az e rendelet 32. mellékletében meghatározott formanyomtatványon kell benyújtani.
 
+(14)[^18] Az ideiglenes tartózkodási engedély iránti kérelmet az e rendelet 33. mellékletében meghatározott formanyomtatványon kell benyújtani.
+
 [^12]: A 17. § a 12/2010. (XII. 23.) BM rendelet 7. §-ával megállapított szöveg.
 [^13]: A 18. § (2) bekezdése a 68/2011. (XII. 30.) BM rendelet 24. § a) pontja szerint módosított szöveg.
 [^14]: A 18. § (10) bekezdését a 12/2010. (XII. 23.) BM rendelet 8. §-a iktatta be.
 [^15]: A 18. § (11) bekezdését a 12/2010. (XII. 23.) BM rendelet 8. §-a iktatta be.
 [^16]: A 18. § (12) bekezdését a 12/2010. (XII. 23.) BM rendelet 8. §-a iktatta be.
 [^17]: A 18. § (13) bekezdését a 27/2011. (VIII. 24.) BM rendelet 2. §-a iktatta be.
+[^18]: A 18. § (14) bekezdését a 36/2012. (VII. 19.) BM rendelet 1. § (1) bekezdése iktatta be.

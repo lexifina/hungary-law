@@ -258,6 +258,6 @@
 
 | Az elutasítás indoka (röviden): |
 
-17. melléklet a 25/2007. (V. 31.) IRM rendelethez[^54]
+17. melléklet a 25/2007. (V. 31.) IRM rendelethez[^55]
 
-[^54]: A 17. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (13) bekezdésével megállapított, a 68/2011. (XII. 30.) BM rendelet 24. § b) pontja szerint módosított szöveg.
+[^55]: A 17. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (13) bekezdésével megállapított, a 68/2011. (XII. 30.) BM rendelet 24. § b) pontja szerint módosított szöveg.

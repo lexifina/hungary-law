@@ -1,4 +1,4 @@
-20. melléklet a 25/2007. (V. 31.) IRM rendelethez[^56]
+20. melléklet a 25/2007. (V. 31.) IRM rendelethez[^57]
 
 Letelepedési kérelem
 
@@ -792,4 +792,4 @@ Letelepedési kérelem
 
 |  | (a kérelmező aláírása) |
 
-[^56]: A 20. melléklet a 26/2012. (V. 16.) BM rendelet 1. §-ával megállapított szöveg.
+[^57]: A 20. melléklet a 26/2012. (V. 16.) BM rendelet 1. §-ával megállapított szöveg.
