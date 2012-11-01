@@ -22,7 +22,7 @@ h) földügyért,
 
 i) vadgazdálkodásért,
 
-j)[^371] halgazdálkodásért,
+j)[^373] halgazdálkodásért,
 
 k) környezetvédelemért,
 
@@ -32,4 +32,4 @@ m) vízgazdálkodásért
 
 felelős tagja.
 
-[^371]: A 94. § j) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (59) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^373]: A 94. § j) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (59) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

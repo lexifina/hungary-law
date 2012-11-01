@@ -1,4 +1,4 @@
-## 10/B. §[^48] A Miniszterelnökségen működő külügyi és külgazdasági ügyekért felelős államtitkár
+## 10/B. §[^49] A Miniszterelnökségen működő külügyi és külgazdasági ügyekért felelős államtitkár
 
 a) kialakítja a miniszterelnök külügyi és külgazdasági stratégiáját, irányítja azok végrehajtását,
 
@@ -28,4 +28,4 @@ m) figyelemmel kíséri a gazdasági vegyesbizottságok munkáját és szükség
 
 n) a külgazdasági feladatok tekintetében együttműködik a nemzetgazdasági miniszterrel, a nemzeti fejlesztési miniszterrel és a Nemzeti Külgazdasági Hivatal vezetőjével.
 
-[^48]: A 10/B. §-t a 118/2012. (VI. 26.) Korm. rendelet 5. §-a iktatta be.
+[^49]: A 10/B. §-t a 118/2012. (VI. 26.) Korm. rendelet 5. §-a iktatta be.
