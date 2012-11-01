@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-112-00-00
 | 2012-06-27 | 2012. évi LXXVI. törvény | 1996-112-00-00.82 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 1996-112-00-00.83 |
 | 2012-10-28 | 2012. évi CLI. törvény | 1996-112-00-00.84 |
+| 2012-11-01 | 2012. évi CLI. törvény | 1996-112-00-00.85 |
