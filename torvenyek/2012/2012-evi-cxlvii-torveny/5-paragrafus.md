@@ -1,0 +1,29 @@
+5. § (1) A kisadózó vállalkozások tételes adója szerinti adóalanyiság megszűnik
+
+a) a bejelentés hónapjának utolsó napjával, ha az adóalany bejelenti, hogy adókötelezettségeit a jövőben nem e törvény szabályai szerint teljesíti;
+
+b) a vállalkozási forma megváltozása esetén a változás bekövetkezését megelőző nappal, ha a változás következtében a vállalkozás nem a 3. §-ban felsorolt formában működik tovább;
+
+c) a kisadózó egyéni vállalkozói jogállásának megszűnése napjával;
+
+d) a kisadózó vállalkozásnak minősülő egyéni cég, betéti társaság vagy közkereseti társaság jogutód nélküli megszűnésének napjával;
+
+e) a gazdasági társaság bejelentett kisadózó tagjának halálát követő nappal, ha a kisadózó vállalkozás tevékenységében más bejelentett kisadózó nem működik közre, és 90 napon belül más kisadózó nem kerül bejelentésre;
+
+f) a gazdasági társaság bejelentett kisadózó tagjának a gazdasági társaságból való kilépését követő nappal, ha a kisadózó vállalkozás tevékenységében más bejelentett kisadózó nem működik közre, és ezen időpontig más kisadózó nem kerül bejelentésre;
+
+g) a tagsági jogviszony keletkezésének napjával, ha a betéti társaság vagy közkereseti társaság kisadózó vállalkozásnak nem magánszemély tagja lesz;
+
+h) a mulasztási bírságot megállapító határozat jogerőre emelkedésének napjával, ha az adóalanyiság időszakában elkövetett jogsértés miatt a kisadózó vállalkozás terhére az adó- vagy vámhatóság számla- vagy nyugtaadás elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért mulasztási bírságot, jövedéki bírságot állapít meg;
+
+i) az adószám alkalmazását felfüggesztő határozat jogerőre emelkedésének napjával, ha a kisadózó vállalkozás adószámának alkalmazását az adóhatóság az adóalanyiság ideje alatt jogerősen felfüggeszti;
+
+j) a naptári negyedév utolsó napjával, ha a kisadózó vállalkozás állami adóhatóságnál nyilvántartott, végrehajtható adótartozása a naptári negyedév utolsó napján meghaladja a 100 ezer forintot;
+
+k) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal;
+
+l) a 4. § (4) bekezdése szerinti tevékenység folytatása esetén a tevékenység megkezdését megelőző nappal;
+
+m) az átalakulást megelőző nappal, ha az átalakulás következtében a vállalkozás nem felel meg a 3. §-ban foglalt feltételeknek.
+
+(2) Az adóalanyiság megszűnéséről – az (1) bekezdés a)–d) pontjában meghatározott okok kivételével – az adóhatóság határozattal értesíti az adózót.

@@ -1,0 +1,1 @@
+Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozott gazdasági növekedés záloga és egyben a társadalmi jólét forrása egyfelől az értékteremtő munka, másfelől a vállalkozások, kiemelten a kis- és közepes vállalkozások adózási feltételeinek javítása, a következő törvényt alkotja:
