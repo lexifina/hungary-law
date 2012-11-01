@@ -1398,7 +1398,7 @@
 
 ## 1.8.1. A munkakörök kategorizálása a nukleáris biztonság szempontjából
 
-## 1.8.1.0100. Az adott nukleáris létesítményre jellemző sajátosságok figyelembevételével a tervező meghatározza a biztonság szempontjából fontos munkakörök és atomerőművek esetében ezen belül a biztonság szempontjából kiemelten fontos munkakörök listáját, és a listát szerepeltetni kell a nukleáris létesítmény Előzetes Biztonsági Jelentésében és Végleges Biztonsági Jelentésében. A listákat a nukleáris biztonsági hatóság a létesítési engedélyben hagyja jóvá, majd időszakosan, de legalább az időszakos biztonsági felülvizsgálat keretében felülvizsgálja, és szükség szerint aktualizálja.
+## 1.8.1.0100.[^34] Az adott nukleáris létesítményre jellemző sajátosságok figyelembevételével a tervező meghatározza a biztonság szempontjából fontos munkakörök és ezen belül a biztonság szempontjából meghatározó munkakörök listáját, amelyet szerepeltetni kell a nukleáris létesítmény Előzetes Biztonsági Jelentésében és Végleges Biztonsági Jelentésében. A listákat a nukleáris biztonsági hatóság a létesítési engedélyben hagyja jóvá, majd időszakosan, de legalább az időszakos biztonsági felülvizsgálat keretében felülvizsgálja, és szükség szerint aktualizálja.
 
 ## 1.8.2. Jogosítvány megszerzése és megújítása
 
@@ -1450,7 +1450,7 @@
 
 ## 1.8.2.1100. Érvénytelen jogosítvány esetén a megújítás feltételeit a nukleáris biztonsági hatóság esetileg határozza meg.
 
-## 1.8.2.1200. Több hasonló blokkal üzemelő atomerőmű esetében, amennyiben a nukleáris létesítmény rendelkezik az atomerőművi blokkok közötti különbségeket is oktató képzési programmal és a másik atomerőművi blokkon történő munkavégzés feltételeinek a nukleáris biztonsági hatóság által elfogadott szabályozásával, akkor az adott munkakör betöltését biztosító jogosítvány az atomerőmű minden blokkjára kiterjedő érvényességgel is kiadható.
+## 1.8.2.1200.[^35] Több hasonló blokkal üzemelő atomerőmű esetében, amennyiben a nukleáris létesítmény rendelkezik az atomerőművi blokkok közötti különbségeket is oktató képzési programmal, blokkszimulátorral és a másik atomerőművi blokkon történő munkavégzés feltételeinek a nukleáris biztonsági hatóság által elfogadott szabályozásával, akkor az adott munkakör betöltését biztosító jogosítvány az atomerőmű minden blokkjára kiterjedő érvényességgel is kiadható.
 
 ## 1.9. NYOMÁSTARTÓ BERENDEZÉSEK ÉS CSŐVEZETÉKEK NUKLEÁRIS BIZTONSÁGI HATÓSÁGI FELÜGYELETÉNEK ELŐÍRÁSAI
 
@@ -1529,3 +1529,6 @@
 ## 1.9.1.2100. Nukleáris biztonsági hatósági engedélyezési eljárás alá tartozó nyomástartó berendezéseknél és csővezetékeknél műszakilag indokolt egyedi esetekben, azonos biztonsági követelmények betartása mellett kérelmezhető az időszakos vizsgálat előírt módszerének más ellenőrzési módszerrel történő helyettesítése. A kérelemről a nukleáris biztonsági hatóság a 18. § (2) bekezdése szerinti eljárásban hozza meg döntését.
 
 2. melléklet a 118/2011. (VII. 11.) Korm. rendelethez
+
+[^34]: Az 1. melléklet 1.8.1.0100. pontja a 265/2012. (IX. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^35]: Az 1. melléklet 1.8.2.1200. pontja a 265/2012. (IX. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

@@ -1998,7 +1998,7 @@ TARTALOMJEGYZÉK
 
 4.1.1.0100. A jelen szabályzat célja az atomerőművek, azok nukleáris biztonság szempontjából fontos rendszerei és rendszerelemei üzembe helyezésének, üzemeltetésének, állapotfenntartásának, átalakításának és felülvizsgálatának végrehajtására, valamint a baleset-elhárítási tevékenységre, továbbá az e tevékenységeket végzőkre vonatkozó nukleáris biztonsági követelményeknek a meghatározása.
 
-4.1.1.0200.[^35] A jelen szabályzat követelményeit alkalmazni kell Magyarország területén működő valamennyi atomerőműre.
+4.1.1.0200.[^37] A jelen szabályzat követelményeit alkalmazni kell Magyarország területén működő valamennyi atomerőműre.
 
 4.2. ÜZEMELTETÉSI FELTÉTELEK ÉS KORLÁTOK
 
@@ -2008,7 +2008,7 @@ TARTALOMJEGYZÉK
 
 4.2.0.0300. Az üzemeltetési feltételeket és korlátokat naprakész állapotban kell tartani, és felül kell vizsgálni a megszerzett tapasztalatok, a tudomány és technika fejlődésének tükrében, és minden olyan esetben, ha ezt az atomerőművi átalakítások vagy a biztonsági elemzések változása indokolja, és szükség esetén módosítani kell.
 
-4.2.0.0400.[^36] Az üzemeltetési feltételek és korlátok átalakításának folyamatát meg kell határozni. A változtatásokat biztonsági elemzéssel vagy független biztonsági felülvizsgálattal igazolni kell.
+4.2.0.0400.[^38] Az üzemeltetési feltételek és korlátok átalakításának folyamatát meg kell határozni. A változtatásokat biztonsági elemzéssel vagy független biztonsági felülvizsgálattal igazolni kell.
 
 4.2.0.0500. Az üzemeltetési feltételeket és korlátokat tartalmazó dokumentum azonnali hozzáférhetőségét a vezénylőtermi személyzet számára biztosítani kell.
 
@@ -2030,7 +2030,7 @@ TARTALOMJEGYZÉK
 
 4.2.0.1400. Az üzemeltetési feltételek és korlátok megsértését ki kell vizsgálni, és javító intézkedést kell hozni a nemmegfelelőség ismételt előfordulásának megelőzése érdekében.
 
-4.2.0.1500.[^37] Amennyiben az üzemeltetési feltételektől és korlátoktól való eltérést megszüntetni hivatott intézkedés nem az előírtaknak megfelelő, beleértve azokat az eseteket is, amikor az intézkedések végrehajtását nem sikerül befejezni az Üzemeltetési Feltételeket és Korlátokat tartalmazó dokumentumban meghatározott leállási idő alatt, akkor az atomerőművi blokkot úgy kell kezelni, mintha az nem az üzemeltetési feltételeknek és korlátoknak megfelelően üzemelne.
+4.2.0.1500.[^39] Amennyiben az üzemeltetési feltételektől és korlátoktól való eltérést megszüntetni hivatott intézkedés nem az előírtaknak megfelelő, beleértve azokat az eseteket is, amikor az intézkedések végrehajtását nem sikerül befejezni az Üzemeltetési Feltételeket és Korlátokat tartalmazó dokumentumban meghatározott leállási idő alatt, akkor az atomerőművi blokkot úgy kell kezelni, mintha az nem az üzemeltetési feltételeknek és korlátoknak megfelelően üzemelne.
 
 4.3. ÜZEMBE HELYEZÉS
 
@@ -2098,7 +2098,7 @@ g) a munkaprogramban előírt és a gyakorlati végrehajtás közben tapasztalt 
 
 4.4.0.0100. Az engedélyes felső vezetősége biztosítja az atomerőmű biztonságos, az összes vonatkozó jogszabályi és hatósági követelményt kielégítő működését.
 
-4.4.0.0200.[^38] A szervezet kialakításának legfőbb szempontja az atomerőmű biztonságos üzemeltetése a tervezési alapba tartozó valamennyi üzemállapotban, a biztonságos üzemeltetéshez szükséges funkciók meglétének és megfelelő működtetésének, valamint a veszélyhelyzetek megfelelő elhárítására való alkalmasság biztosítása. A szervezeti felépítés e szempontoknak megfelelő alkalmasságát igazolni és dokumentálni kell a nukleáris létesítmény üzembe helyezésének és minden szervezeti átalakításának megkezdése előtt. A szervezeti felépítés kialakításakor, fejlesztésekor és működtetésekor biztosítani kell az alábbi funkciók szétválasztását:
+4.4.0.0200.[^40] A szervezet kialakításának legfőbb szempontja az atomerőmű biztonságos üzemeltetése a tervezési alapba tartozó valamennyi üzemállapotban, a biztonságos üzemeltetéshez szükséges funkciók meglétének és megfelelő működtetésének, valamint a veszélyhelyzetek megfelelő elhárítására való alkalmasság biztosítása. A szervezeti felépítés e szempontoknak megfelelő alkalmasságát igazolni és dokumentálni kell a nukleáris létesítmény üzembe helyezésének és minden szervezeti átalakításának megkezdése előtt. A szervezeti felépítés kialakításakor, fejlesztésekor és működtetésekor biztosítani kell az alábbi funkciók szétválasztását:
 
 a) irányítási, tervezési funkciók,
 
@@ -2150,7 +2150,7 @@ f) az üzemeltetés felügyeletét az üzemeltetéstől független szervezeti eg
 
 4.4.1.0500. Figyelembe kell venni az emberi kapcsolatokat, elsősorban a függőségi viszonyokat, az együttműködés és kommunikáció hatását az üzemeltető személyzet összetételének megállapításakor.
 
-4.4.1.0600.[^39] Az üzemeltető személyzetnek mindenkor meg kell felelnie létszámmal, iskolai végzettséggel, szakképzettséggel, jártassággal, a nukleáris biztonság iránti elkötelezettséggel, egészségi állapottal, fizikai és pszichológiai alkalmassággal kapcsolatos, az adott feladatra írásban rögzített követelményeknek. A fentieknek biztosítaniuk kell, hogy az üzemeltető személyzet tervezési üzemzavar, tervezésen túli üzemzavar és baleset esetén is képes legyen feladatainak ellátására. A követelményeknek való megfelelést dokumentálni kell.
+4.4.1.0600.[^41] Az üzemeltető személyzetnek mindenkor meg kell felelnie létszámmal, iskolai végzettséggel, szakképzettséggel, jártassággal, a nukleáris biztonság iránti elkötelezettséggel, egészségi állapottal, fizikai és pszichológiai alkalmassággal kapcsolatos, az adott feladatra írásban rögzített követelményeknek. A fentieknek biztosítaniuk kell, hogy az üzemeltető személyzet tervezési üzemzavar, tervezésen túli üzemzavar és baleset esetén is képes legyen feladatainak ellátására. A követelményeknek való megfelelést dokumentálni kell.
 
 4.4.1.0700. A nukleáris biztonság szempontjából fontos munkakört betöltő munkavállalók fizikai és pszichológiai alkalmasságát orvosi vizsgálaton kell megállapítani. Az orvosi vizsgálatokat időszakonként meg kell ismételni.
 
@@ -2172,13 +2172,13 @@ f) az üzemeltetés felügyeletét az üzemeltetéstől független szervezeti eg
 
 4.4.1.1600. A karbantartó és a műszaki háttér személyzetnek képzést kell kapniuk a tőlük megkövetelt, a nukleáris biztonság szempontjából kritikus tevékenységekre.
 
-4.4.1.1700.[^40] A képzési programban kiemelt figyelmet kell fordítani a tervezési üzemzavarok, tervezésen túli üzemzavarok és balesetek során foganatosítandó intézkedésekre. A képzési programban szerepelnie kell a következőknek:
+4.4.1.1700.[^42] A képzési programban kiemelt figyelmet kell fordítani a tervezési üzemzavarok, tervezésen túli üzemzavarok és balesetek során foganatosítandó intézkedésekre. A képzési programban szerepelnie kell a következőknek:
 
 a) az üzemi földrengést követően végrehajtandó ellenőrzések, valamint a biztonsági földrengés esetére vonatkozó intézkedési terv oktatása, továbbá az intézkedési terv végrehajtásának időszakos gyakoroltatása, és
 
 b) az üzemzavar-elhárítási utasításokról a súlyos baleset kezelésére vonatkozó útmutatókra történő áttérésnek és a súlyos baleseti helyzet kezelésének gyakorlása.
 
-4.4.1.1800. A biztonság szempontjából meghatározó munkakörökre nézve
+4.4.1.1800.[^43] A biztonság szempontjából fontos munkakörökre nézve
 
 a) megfelelő egyedi képzési programokat kell kifejleszteni a képzési igények folyamatos felmérése alapján;
 
@@ -2206,11 +2206,11 @@ e) értékelés: a korábbi összes fázis adatainak feldolgozása a képzési p
 
 4.4.1.2100. A képzési programnak ki kell terjednie a vezetőségre, az üzemeltető személyzetre, valamint a képzést végző oktatókra, instruktorokra, akiknek ismernie és értenie kell a hatósági követelményeket is, hogy megfelelő intézkedésekkel időben teljesítsék az előírásokat.
 
-4.4.1.2200. A nukleáris biztonság szempontjából meghatározó munkaköröket betöltők képzéséről, az ismeretek számonkérésének eredményeiről, a munkakörök betöltéséhez szükséges vizsgákról az engedélyesnek személyre szóló nyilvántartást kell létrehoznia és azt naprakész állapotban tartania.
+4.4.1.2200.[^44] A nukleáris biztonság szempontjából fontos munkaköröket betöltők képzéséről, az ismeretek számonkérésének eredményeiről, a munkakörök betöltéséhez szükséges vizsgákról az engedélyesnek személyre szóló nyilvántartást kell létrehoznia és azt naprakész állapotban tartania.
 
-4.4.1.2300. A biztonság szempontjából kiemelten fontos üzemviteli és karbantartói munkaköröket betöltő személyzetnek a munkakör betöltéséhez az 1. melléklet 1.7. pontjában meghatározott érvényes jogosítvánnyal kell rendelkeznie. Az engedélyesnek ki kell dolgoznia e jogosítvány megszerzésének és megújításának eljárását. Dokumentált kritériumokat kell alkalmazni annak megítélésére, hogy az adott munkavállaló szaktudása és alkalmassága alapján a jogosítvány kiadható-e.
+4.4.1.2300.[^45] A biztonság szempontjából meghatározó munkaköröket betöltő személyzetnek a munkakör betöltéséhez az 1. melléklet 1.8. pontjában meghatározott érvényes jogosítvánnyal kell rendelkeznie. Az engedélyesnek ki kell dolgoznia e jogosítvány megszerzésének és megújításának eljárását. Dokumentált kritériumokat kell alkalmazni annak megítélésére, hogy az adott munkavállaló szaktudása és alkalmassága alapján a jogosítvány kiadható-e.
 
-4.4.1.2400.[^41] Az üzemeltető személyzetnek rendelkeznie kell nukleáris biztonsági, sugárvédelmi, tűzvédelmi, telephelyi baleset-elhárítási és ipari biztonsági alapismeretekkel.
+4.4.1.2400.[^46] Az üzemeltető személyzetnek rendelkeznie kell nukleáris biztonsági, sugárvédelmi, tűzvédelmi, telephelyi baleset-elhárítási és ipari biztonsági alapismeretekkel.
 
 4.4.2. Biztonsági kultúra
 
@@ -2224,7 +2224,7 @@ e) értékelés: a korábbi összes fázis adatainak feldolgozása a képzési p
 
 4.5.1.0100. A blokkvezénylőt és a tartalékvezénylőt a mindenkori műszaki fejlettségnek megfelelő, az ergonómiai igényeket is figyelembe vevő szinten kell tartani a nukleáris létesítmény teljes élettartama alatt.
 
-4.5.1.0200.[^42] Elégséges, működőképes kijelző és archiváló, valamint beavatkozó eszköznek kell az üzemviteli személyzet rendelkezésére állnia a blokkvezénylőben normál üzemi állapotra, a tervezési üzemzavari helyzetekre, valamint – amilyen mértékben ésszerűen lehetséges – a tervezésen túli üzemzavari helyzetekre és baleseti helyzetekre is a következő célokkal:
+4.5.1.0200.[^47] Elégséges, működőképes kijelző és archiváló, valamint beavatkozó eszköznek kell az üzemviteli személyzet rendelkezésére állnia a blokkvezénylőben normál üzemi állapotra, a tervezési üzemzavari helyzetekre, valamint – amilyen mértékben ésszerűen lehetséges – a tervezésen túli üzemzavari helyzetekre és baleseti helyzetekre is a következő célokkal:
 
 a) az atomerőművi blokk és rendszerei, rendszerelemei állapotának megfelelő nyomon követhetősége,
 
@@ -2252,7 +2252,7 @@ d) teljes kép kialakíthatósága az atomerőmű folyamatairól, különösen a
 
 4.5.2.0100. A végrehajtási utasításokban és az eljárásrendekben szabályozni kell a paraméterek dokumentálásának rendjét arra az esetre, ha az üzemviteli és környezeti paraméterek eltérnek a megengedett korlátozásoktól. Az eljárásrendekben meg kell határozni az eltérések esetén elvégzendő hatáselemzések, értékelések készítésének, a szükséges javító intézkedések meghatározásának szervezeti és adminisztratív kereteit.
 
-4.5.2.0200.[^43] Az üzemeltetés operatív dokumentumaival összefüggő változtatások, az ideiglenes módosítások, a normál üzemvitel kereteit meghaladó műveletek, vizsgálatok, kísérletek, vagy műszaki szükségességből elrendelt ideiglenes üzemviteli utasítások kidolgozásának folyamatát szabályozni kell. E dokumentumok jóváhagyási folyamatába az üzemviteltől független, a nukleáris biztonságért felelős szervezeti egységet is be kell vonni.
+4.5.2.0200.[^48] Az üzemeltetés operatív dokumentumaival összefüggő változtatások, az ideiglenes módosítások, a normál üzemvitel kereteit meghaladó műveletek, vizsgálatok, kísérletek, vagy műszaki szükségességből elrendelt ideiglenes üzemviteli utasítások kidolgozásának folyamatát szabályozni kell. E dokumentumok jóváhagyási folyamatába az üzemviteltől független, a nukleáris biztonságért felelős szervezeti egységet is be kell vonni.
 
 4.5.2.0300. A normál üzemvitel kereteit meghaladó műveletek, vizsgálatok, kísérletek, vagy műszaki szükségességből elrendelt ideiglenes módosítások végrehajtását biztosító tevékenységeket csak a szabályozás szerint kidolgozott és jóváhagyott dokumentumok birtokában szabad megkezdeni.
 
@@ -2282,7 +2282,7 @@ d) teljes kép kialakíthatósága az atomerőmű folyamatairól, különösen a
 
 4.5.3.0400. A tervezési üzemzavarokra vonatkozó üzemzavar-elhárítási utasítások állapotorientált utasítások, vagy állapotorientált és eseményorientált utasítások kombinációinak kell lenniük. A tervezésen túli üzemzavarokra vonatkozó utasítás csak állapotorientált lehet.
 
-4.5.3.0500.[^44] A súlyos baleset kezelésére vonatkozó útmutatókat szisztematikus módon, atomerőmű-specifikus megközelítést alkalmazva kell kidolgozni. A súlyos baleset kezelésére vonatkozó útmutatóknak olyan stratégiákat kell tartalmazniuk, amelyekkel a súlyos balesetek elemzéseiben azonosított eseménysorokat lehet kezelni. Az elemzések az atomerőmű súlyos balesetekkel szembeni sérülékenységének azonosítását, az atomerőmű képességeinek értékelését és a balesetkezelési intézkedések kifejlesztését célozzák.
+4.5.3.0500.[^49] A súlyos baleset kezelésére vonatkozó útmutatókat szisztematikus módon, atomerőmű-specifikus megközelítést alkalmazva kell kidolgozni. A súlyos baleset kezelésére vonatkozó útmutatóknak olyan stratégiákat kell tartalmazniuk, amelyekkel a súlyos balesetek elemzéseiben azonosított eseménysorokat lehet kezelni. Az elemzések az atomerőmű súlyos balesetekkel szembeni sérülékenységének azonosítását, az atomerőmű képességeinek értékelését és a balesetkezelési intézkedések kifejlesztését célozzák.
 
 4.5.3.0600. Az üzemzavar-elhárítási utasításokat és a súlyos baleset kezelésére vonatkozó útmutatókat a lehetőségek szerint olyan formában kell verifikálni és validálni, amilyen formában alkalmazni fogják azokat, annak érdekében, hogy az atomerőmű számára biztosítsák a dokumentumok adminisztratív és műszaki helyességét, valamint kompatibilitásukat azzal a környezettel, amelyben alkalmazni fogják őket.
 
@@ -2300,7 +2300,7 @@ d) teljes kép kialakíthatósága az atomerőmű folyamatairól, különösen a
 
 4.6. A RENDSZEREK ÉS RENDSZERELEMEK MŰSZAKI ÁLLAPOTÁNAK FENNTARTÁSA
 
-4.6.0.0100.[^45] Az engedélyes az üzemeltetési engedély kiadásának alapjául szolgáló előírásoknak megfelelően igazolja az elvárt biztonsági funkciók ellátásának képességét – ezen belül az elvárt teljesítményparaméterek szerinti teljesítőképességet – az alábbiak közül egy vagy több módszer összehangolt alkalmazásával:
+4.6.0.0100.[^50] Az engedélyes az üzemeltetési engedély kiadásának alapjául szolgáló előírásoknak megfelelően igazolja az elvárt biztonsági funkciók ellátásának képességét – ezen belül az elvárt teljesítményparaméterek szerinti teljesítőképességet – az alábbiak közül egy vagy több módszer összehangolt alkalmazásával:
 
 a) biztonsági elemzések,
 
@@ -2310,7 +2310,7 @@ c) öregedéskezelési programok működtetése,
 
 d) a karbantartás hatékonyságának monitorozása.
 
-4.6.0.0200.[^46] Az engedélyes dönt, hogy a 4.6.0.0100. pontban meghatározott igazolási módszerek közül melyiket alkalmazza, azzal a megkötéssel, hogy
+4.6.0.0200.[^51] Az engedélyes dönt, hogy a 4.6.0.0100. pontban meghatározott igazolási módszerek közül melyiket alkalmazza, azzal a megkötéssel, hogy
 
 a) a biztonsági funkció teljesítése során barátságtalan környezetben üzemelő villamos és irányítástechnikai rendszerelemek esetén környezetállósági minősítést végez,
 
@@ -2480,9 +2480,9 @@ Az időszakos ellenőrzési program tárgya és terjedelme
 
 A program készítése és felülvizsgálata
 
-4.6.4.0400.[^47] Az időszakos ellenőrzési programot a karbantartási, próba- és felügyeleti program kidolgozásával megegyező módon kell készíteni és felülvizsgálni.
+4.6.4.0400.[^52] Az időszakos ellenőrzési programot a karbantartási, próba- és felügyeleti program kidolgozásával megegyező módon kell készíteni és felülvizsgálni.
 
-4.6.4.0500.[^48] Az atomerőművek időszakos roncsolásmentes vizsgálatainak terjedelmét, időbeli ütemezését, kritériumait és a végrehajtásuk módszerét az engedélyes határozza meg és azt a nukleáris biztonsági hatóság a 18. § (4) bekezdése szerint jóváhagyja. Az időszakos roncsolásmentes vizsgálatok ciklusidejét konzervatív feltételezésekkel úgy kell megállapítani, hogy az tegye lehetővé még a legjobban igénybe vett rendszerelemek esetén is a károsodás észlelését a meghibásodást megelőzően.
+4.6.4.0500.[^53] Az atomerőművek időszakos roncsolásmentes vizsgálatainak terjedelmét, időbeli ütemezését, kritériumait és a végrehajtásuk módszerét az engedélyes határozza meg és azt a nukleáris biztonsági hatóság a 18. § (4) bekezdése szerint jóváhagyja. Az időszakos roncsolásmentes vizsgálatok ciklusidejét konzervatív feltételezésekkel úgy kell megállapítani, hogy az tegye lehetővé még a legjobban igénybe vett rendszerelemek esetén is a károsodás észlelését a meghibásodást megelőzően.
 
 4.6.4.0600. Az időszakos ellenőrzési programban előírt vizsgálatokat az adott terjedelemben a ciklusidőn belül legalább egyszer végre kell hajtani. Az engedélyes évente elkészíti és benyújtja a nukleáris biztonsági hatóságnak az adott évben elvégzendő vizsgálatok programját.
 
@@ -2506,17 +2506,20 @@ A program megvalósítása
 
 4.6.4.1500. Amennyiben egy vizsgálat során az elfogadási kritériumot meghaladó méretű hibát találnak, akkor az azonos funkciójú és kialakítású rendszerelemeken további vizsgálatokkal kell feltárni az esetleg előforduló hibákat. A további vizsgálatok terjedelmét a hiba természetének és biztonsági következményeinek figyelembevételével kell meghatározni.
 
-[^35]: A 4. melléklet 4.1.1.0200. pontja a 304/2011. (XII. 23.) Korm. rendelet 46. §-a szerint módosított szöveg.
-[^36]: A 4. melléklet 4.2.0.0400. pontja a 37/2012. (III. 9.) Korm. rendelet 12. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^37]: A 4. melléklet 4.2.0.1500. pontja a 37/2012. (III. 9.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg. [E módosító rendelet 11. § 19. pontjával elrendelt módosítás, amely szerint a „nem sikerül a megengedhető leállási idő alatt befejezni” szövegrész helyébe a „nem sikerül befejezni az Üzemeltetési Feltételek és Korlátok dokumentumban meghatározott leállási idő alatt”, valamint a „mintha nem az” szövegrész helyébe a „mintha az nem az” szöveg lép, nem vezethető át.]
-[^38]: A 4. melléklet 4.4.0.0200. pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 20. pontja szerint módosított szöveg.
-[^39]: A 4. melléklet 4.4.1.0600. pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 8. és 21. pontja szerint módosított szöveg.
-[^40]: A 4. melléklet 4.4.1.1700. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 11. § 22. pontja szerint módosított szöveg.
-[^41]: A 4. melléklet 4.4.1.2400. pontját a 37/2012. (III. 9.) Korm. rendelet 10. § (3) bekezdése iktatta be.
-[^42]: A 4. melléklet 4.5.1.0200. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 11. § 23. pontja szerint módosított szöveg.
-[^43]: A 4. melléklet 4.5.2.0200. pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 24. pontja szerint módosított szöveg.
-[^44]: A 4. melléklet 4.5.3.0500. pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 25. pontja szerint módosított szöveg.
-[^45]: A 4. melléklet 4.6.0.0100. pontja a 37/2012. (III. 9.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^46]: A 4. melléklet 4.6.0.0200. pontját a 37/2012. (III. 9.) Korm. rendelet 10. § (3) bekezdése iktatta be.
-[^47]: A 4. melléklet 4.6.4.0400. pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 26. pontja szerint módosított szöveg.
-[^48]: A 4. melléklet 4.6.4.0500. pontja a 37/2012. (III. 9.) Korm. rendelet 10. § (3) bekezdésével megállapított, a 11. § 27. pontja szerint módosított szöveg.
+[^37]: A 4. melléklet 4.1.1.0200. pontja a 304/2011. (XII. 23.) Korm. rendelet 46. §-a szerint módosított szöveg.
+[^38]: A 4. melléklet 4.2.0.0400. pontja a 37/2012. (III. 9.) Korm. rendelet 12. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^39]: A 4. melléklet 4.2.0.1500. pontja a 37/2012. (III. 9.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg. [E módosító rendelet 11. § 19. pontjával elrendelt módosítás, amely szerint a „nem sikerül a megengedhető leállási idő alatt befejezni” szövegrész helyébe a „nem sikerül befejezni az Üzemeltetési Feltételek és Korlátok dokumentumban meghatározott leállási idő alatt”, valamint a „mintha nem az” szövegrész helyébe a „mintha az nem az” szöveg lép, nem vezethető át.]
+[^40]: A 4. melléklet 4.4.0.0200. pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 20. pontja szerint módosított szöveg.
+[^41]: A 4. melléklet 4.4.1.0600. pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 8. és 21. pontja szerint módosított szöveg.
+[^42]: A 4. melléklet 4.4.1.1700. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 11. § 22. pontja szerint módosított szöveg.
+[^43]: A 4. melléklet 4.4.1.1800. pontja a 265/2012. (IX. 17.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^44]: A 4. melléklet 4.4.1.2200. pontja a 265/2012. (IX. 17.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^45]: A 4. melléklet 4.4.1.2300. pontja a 265/2012. (IX. 17.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^46]: A 4. melléklet 4.4.1.2400. pontját a 37/2012. (III. 9.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^47]: A 4. melléklet 4.5.1.0200. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 11. § 23. pontja szerint módosított szöveg.
+[^48]: A 4. melléklet 4.5.2.0200. pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 24. pontja szerint módosított szöveg.
+[^49]: A 4. melléklet 4.5.3.0500. pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 25. pontja szerint módosított szöveg.
+[^50]: A 4. melléklet 4.6.0.0100. pontja a 37/2012. (III. 9.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^51]: A 4. melléklet 4.6.0.0200. pontját a 37/2012. (III. 9.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^52]: A 4. melléklet 4.6.4.0400. pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 26. pontja szerint módosított szöveg.
+[^53]: A 4. melléklet 4.6.4.0500. pontja a 37/2012. (III. 9.) Korm. rendelet 10. § (3) bekezdésével megállapított, a 11. § 27. pontja szerint módosított szöveg.
