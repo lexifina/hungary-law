@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-38-20-0
 | 2012-03-20 | 2003-38-20-0M.21 | 15/2012. (III. 12.) NEFMI rendelet |
 | 2012-08-01 | 2003-38-20-0M.22 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-09-05 | 2003-38-20-0M.23 | 21/2012. (IX. 4.) EMMI rendelet |
+| 2012-11-01 | 2003-38-20-0M.24 | Nemzeti Jogszabálytár (egységes szerkezet) |
