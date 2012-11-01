@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-35-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-10-31 | 2012-35-20-5H.1 | 35/2012. (X. 31.) EMMI rendelet |
+| 2012-11-01 | 2012-35-20-5H.2 | 2010: CXXX. törvény |
