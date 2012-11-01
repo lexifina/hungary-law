@@ -6,7 +6,5 @@ a) RFX-csoportok megképzésére vagy újraképzésére, illetve
 
 b) FFX-csoportok megképzésére vagy újraképzésére
 
-irányulhat.
-
 [^68]: A 9. § a 34/2010. (V. 14.) EüM rendelet 8. §-ával megállapított szöveg.
 [^69]: A 9. § (2) bekezdése a 31/2012. (X. 8.) EMMI rendelet 3. §-ával megállapított szöveg.

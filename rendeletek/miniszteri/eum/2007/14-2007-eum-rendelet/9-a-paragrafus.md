@@ -1,3 +1,5 @@
+## irányulhat.
+
 9/A. §[^70] (1) A fixesítési eljárást az OEP minden naptári félév negyedik hónapjának 1. napján indítja meg. A fixesítési eljárás megindításáról az OEP értesíti az eljárás által érintett gyógyászati segédeszközök forgalomba hozóit, valamint honlapján értesítést tesz közzé, megjelölve, hogy az eljárás mely támogatási csoportokat érinti. Az OEP emellett honlapján közzéteszi a referenciaeszközöket, azok érvényes közfinanszírozás alapjául szolgáló árát, közfinanszírozás alapjául szolgáló kölcsönzési napidíját (a továbbiakban együtt: referenciaár), valamint az adott támogatási csoportba tartozó eszközök érvényes közfinanszírozás alapjául szolgáló árát, közfinanszírozás alapjául szolgáló kölcsönzési napidíját és támogatási összegét.
 
 (2)[^71] Az OEP az FFX-csoportokat – a Korm. rendelet 7/A–7/C. §-ában foglaltak figyelembevételével, a 21. számú mellékletben meghatározott csoportok kivételével – kötelezően megképzi azokban a funkcionális csoportokban,

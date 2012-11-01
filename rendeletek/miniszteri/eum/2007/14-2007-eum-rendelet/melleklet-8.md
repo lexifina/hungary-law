@@ -1,3 +1,5 @@
+## Egy kérelemben beadható eszközök és azok tartozékai
+
 |  | 1. 1. sorszámú csoport |  |
 
 |  | A | B |
@@ -156,8 +158,6 @@
 
 | 7 | 21 45 30 | Hallásjavító készülékek tartozékai és a hallásjavítás egyéb eszközei |
 
-8. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^148]
+8. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^152]
 
-Tartós, vagy nem tartós használatra, illetve ruházati jellegű tartós használatra szánt gyógyászati segédeszközök
-
-[^148]: A 8. számú melléklet a 8/2008. (III. 4.) EüM rendelet 13. §-a, és a 74/2011. (XII. 29.) NEFMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^152]: A 8. számú melléklet a 8/2008. (III. 4.) EüM rendelet 13. §-a, és a 74/2011. (XII. 29.) NEFMI rendelet 4. § (1) bekezdésével megállapított szöveg.
