@@ -4,24 +4,28 @@
 
 (3) A jogi szakvizsga egységes, bármely jogterületen és jogi munkakörben önálló jogi munka végzésére jogosít.
 
-(4) A jogi szakvizsgát az igazságügyért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) szervezésében a Jogi Szakvizsga Bizottság (a továbbiakban: Szakvizsga Bizottság) tagjaiból kijelölt vizsgabizottság előtt kell letenni.
+(4)[^2] A jogi szakvizsgát az igazságügyért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) szervezésében a jogi szakvizsga vizsgáztatóiból esetenként kijelölt vizsgabizottság előtt kell letenni.
 
-(5) Az igazságügyért felelős miniszter (a továbbiakban: miniszter) a Szakvizsga Bizottság tagjait az elméleti és a gyakorlati jogászok közül – az elnökét, elnökhelyettesét és titkárát a Szakvizsga Bizottság tagjai közül – 5 évre nevezi ki. A Szakvizsga Bizottság tagjává csak olyan büntetlen előéletű személy nevezhető ki, aki jogi szakvizsgával és jogi diplomához kötött legalább 10 éves szakmai tapasztalattal rendelkezik.
+(5)[^3] Az igazságügyért felelős miniszter (a továbbiakban: miniszter) a jogi szakvizsga vizsgáztatóit (a továbbiakban: vizsgáztató) az elméleti és a gyakorlati jogászok közül 5 évre nevezi ki. Vizsgáztatóvá csak olyan büntetlen előéletű személy nevezhető ki, aki jogi szakvizsgával és jogi diplomához kötött legalább 10 éves szakmai tapasztalattal rendelkezik.
 
-(6) A szakvizsga bizottsági tagságot a miniszter megszüntetheti, ha a Szakvizsga Bizottság tagja
+(6)[^4] A vizsgáztató kinevezését a miniszter visszavonhatja, ha a vizsgáztató
 
 a) ismétlődően vagy súlyosan megszegi a vizsgáztatás rendjére vonatkozó e rendeletben és a vizsgaszabályzatokban foglalt előírásokat vagy
 
-b) olyan magatartást tanúsít, amely méltatlan a Szakvizsga Bizottságban betöltött tagságához.
+b) olyan magatartást tanúsít, amely méltatlan a vizsgáztatói tisztséghez.
 
-(7) A szakvizsga bizottsági tagság megszűnik
+(7)[^5] A vizsgáztatói kinevezés megszűnik
 
-a) a szakvizsga bizottsági tagságról történő lemondással,
+a) a vizsgáztatói tisztségről való lemondással,
 
-b) a szakvizsga bizottsági tagság miniszter általi megszüntetésével,
+b) a vizsgáztatói tisztség miniszter általi visszavonásával,
 
-c) a kinevezés időtartamának lejártával,
+c) a vizsgáztatói kinevezés időtartamának lejártával,
 
-d) a tag halálával.
+d) a vizsgáztató halálával.
 
 [^1]: Az 1. § a 42/2012. (IX. 14.) KIM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (4) bekezdése a 42/2012. (IX. 14.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (5) bekezdése a 42/2012. (IX. 14.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (6) bekezdése a 42/2012. (IX. 14.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (7) bekezdése a 42/2012. (IX. 14.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.

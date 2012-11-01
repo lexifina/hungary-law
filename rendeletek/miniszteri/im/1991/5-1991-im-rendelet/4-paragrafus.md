@@ -1,23 +1,35 @@
 ## tanúsítja.
 
-4. §[^10] (1) A jogi szakvizsgára az igazságügyért felelős miniszternél kell jelentkezni.
+4. §[^14] (1) A jogi szakvizsgára a miniszternél írásbeli kérelemmel vagy a minisztérium erre a célra kialakított informatikai felületén (a továbbiakban: elektronikus úton történő jelentkezés) kell jelentkezni.
 
-(2) A jelentkezésben a jelöltnek fel kell tüntetnie
+(2) Az első részvizsgára jelentkezésnél a jelöltnek meg kell adnia
 
-a) a személyazonosító adatait és értesítési címét,
+a) nevét, születési nevét, lakcímét, születési helyét idejét, anyja nevét (e rendeletben a továbbiakban együtt: személyazonosító adatait), e-mail címét, telefonszámát,
 
-b) a jogi végzettségét igazoló doktori oklevél megszerzésének helyét, keltét, az oklevél sorszámát, valamint a 2007. március 1-jét követően megszerzett végzettség esetében a hozzájárulást ahhoz, hogy ezeket az adatokat a minisztérium a felsőoktatási információs rendszerben kezelt adatok beszerzésével ellenőrizze,
+b) a jogi végzettségét igazoló doktori oklevél megszerzésének helyét, keltét, az oklevél sorszámát,
 
-c) a joggyakorlat és az abba beszámítható működés teljesítésére vonatkozó adatokat, és
+c) a joggyakorlat teljesítésére és az abba e rendelet szerint beszámítható időtartamra vonatkozó adatokat,
 
-d) az e rendeletben foglaltak szerint választott vizsgaidőpontot.
+d) a választott részvizsga megjelölését,
 
-(3) Az első vizsgára jelentkezéskor meg kell jelölni azt is, hogy elsőként a vizsga melyik részéből (a továbbiakban: részvizsga) kíván a jelölt vizsgát tenni, illetve, hogy a részvizsga tárgyai közül melyikből tesz írásbeli vizsgát.
+e) a választott vizsgatárgy megjelölését, amelyből a jelölt írásbeli vizsgát tesz,
 
-(4) Legkésőbb az első vizsga napjáig a joggyakorlatot és az abba beszámítható működés teljesítését igazoló okiratot be kell nyújtani, valamint a jogi végzettséget igazoló doktori oklevelet be kell mutatni.
+f) az e rendeletben foglaltak szerint választott vizsgaidőpontot.
 
-(5) A vizsgára legkorábban a választott vizsgaidőpontot 30 nappal megelőzően lehet jelentkezni. A jelentkezésben csak az annak időpontjától számított négy hónapon belüli vizsgaidőpontot lehet megjelölni. A négy hónapos időtartam számítása során figyelmen kívül kell hagyni azon időszakokat, amelyekre vizsga nem tűzhető ki.
+(3) A jelöltnek az első jelentkezéskor a joggyakorlat teljesítését igazoló okiratokat, a jogi végzettséget igazoló doktori oklevél közjegyző által hitelesített másolatát és a vizsgadíj befizetéséről kiállított igazolás másolatát a jelentkezéssel egyidejűleg, míg elektronikus úton történő jelentkezés esetében a jelentkezéstől számított 3 munkanapon belül kell benyújtania vagy postai úton megküldeni a minisztérium részére.
 
-(6) A jelentkezésről a Szakvizsga Bizottság titkára a jelölt joggyakorlati idejére, a jogi szakvizsga díjának befizetésére, valamint a kért vizsgaidőpontra jelentkezők számára vonatkozó, rendelkezésére álló adatok alapján dönt. A jelentkezés elutasítása ellen nyolc napon belül felülvizsgálatra irányuló kérelemnek van helye; a kérelemről a Szakvizsga Bizottság elnöke harminc nap alatt dönt.
+(4) Az első részvizsga letételét követő jelentkezésben a (2) bekezdés a), d) és f) pontjában foglaltakat, valamint az előző részvizsgáról kiállított tanúsítvány ügyszámát és keltét kell feltüntetni. A vizsgadíj befizetéséről kiállított igazolás másolatát a jelentkezéssel egyidejűleg, míg elektronikus úton történő jelentkezés esetében a jelentkezéstől számított 3 munkanapon belül kell benyújtani vagy postai úton megküldeni a minisztérium részére.
 
-[^10]: A 4. § a 31/2010. (XII. 31.) KIM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a 2011. január 1-je előtt benyújtott kérelmek alapján indult, részvizsgára bocsátás iránti eljárásokban is alkalmazni kell.
+(5) A jelölt a jelentkezéstől számított 30 napon túli és négy hónapon belüli vizsgaidőpontra jelentkezhet. A négy hónapos időtartam számítása során figyelmen kívül kell hagyni azon időszakokat, amelyekre vizsga nem tűzhető ki.
+
+(6) A jelentkezés akkor kerül elfogadásra, ha a jelölt eleget tesz a (2)–(5) bekezdésben foglalt követelményeknek. Az elfogadott jelentkezésről vagy annak elutasításáról az elutasítás okának megjelölésével a jelölt a jelentkezést követő 15 napon belül postai vagy elektronikus úton kap értesítést.
+
+(7) A jelentkezés elutasításával szemben a jelölt a (6) bekezdés szerinti értesítéstől számított 5 napon belül kifogással élhet. A kifogást a miniszter bírálja el annak megérkezésétől számított 15 napon belül. A miniszter a kifogásnak akkor ad helyt, ha a jelentkezés a (6) bekezdésben foglaltaknak megfelel.
+
+(8) A jelentkezés elutasítása esetén a már befizetett vizsgadíjat – 5 000 Ft adminisztrációs költség levonásával – és a jelölt által megküldött iratokat a (7) bekezdés szerinti kifogás benyújtására nyitva álló határidő eredménytelen elteltét követő 45 napon belül vissza kell utalni. A határidőben benyújtott kifogás elutasítása esetén a visszautalásra nyitva álló határidőt a kifogás elutasításáról szóló döntés meghozatalától kell számítani.
+
+(9) A jelentkezés elfogadása esetén a miniszter a vizsgát a jelentkezők számának függvényében a jelentkező által megjelölt időpontra, vagy az ahhoz képest legkorábbi időpontra tűzi ki és erről a jelöltet a jelentkezést követő 15 napon belül postai vagy elektronikus úton értesíti.
+
+(10) A jelentkezés során – ideértve a vizsgaidőpont kitűzését is – hiánypótlásnak, valamint méltányosságnak a 13. § (3) bekezdésében foglaltak kivételével nincs helye.
+
+[^14]: A 4. § a 42/2012. (IX. 14.) KIM rendelet 4. §-ával megállapított szöveg.
