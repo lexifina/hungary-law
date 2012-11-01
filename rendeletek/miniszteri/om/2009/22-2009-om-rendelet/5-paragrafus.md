@@ -1,4 +1,4 @@
-5. § (1) A termék tűzvédelmi megfelelőségéről a tanúsító szervezet tanúsítványt ad ki.
+5. § (1)[^5] A termék, vagy a technológiai rendszer tűzvédelmi megfelelőségéről a tanúsító szervezet tanúsítványt állít ki.
 
 (2) A tanúsítványnak az alábbiakat kell tartalmaznia:
 
@@ -10,13 +10,13 @@ c) a tanúsító szervezet kijelölésére való utalást;
 
 d) a tanúsítást megrendelő nevét, címét;
 
-e) a tanúsított termék technológia megnevezését;
+e)[^6] a tanúsított termék, vagy technológiai rendszer megnevezését;
 
 f) a tanúsított termék típusát, azonosító jelét vagy jelzetét;
 
 g) a gyártó nevét, címét;
 
-h) a vizsgálat során figyelembe vett jogszabály, szabvány, műszaki követelmények előírásait;
+h)[^7] a vizsgálat során figyelembe vett tűzvédelmi biztonságossági követelményre történő hivatkozás(oka)t;
 
 i) a vizsgálatot végző laboratórium(ok) nevét, címét;
 
@@ -26,8 +26,13 @@ k) az ellenőrzések gyakoriságát;
 
 l) a műszaki dokumentáció azonosító jelét;
 
-m) a termék biztonságos alkalmazásának feltételeit;
+m)[^8] a termék, vagy technológiai rendszer biztonságos alkalmazásának feltételeit;
 
 n) a tanúsítvány kiadásának napját, érvényességének határidejét;
 
 o) a tanúsító szervezet aláírásra jogosult képviselőjének nevét, beosztását.
+
+[^5]: Az 5. § (1) bekezdése az 51/2012. (X. 11.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (2) bekezdés e) pontja az 51/2012. (X. 11.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (2) bekezdés h) pontja az 51/2012. (X. 11.) BM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (2) bekezdés m) pontja az 51/2012. (X. 11.) BM rendelet 3. § (4) bekezdésével megállapított szöveg.

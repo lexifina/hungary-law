@@ -1,6 +1,6 @@
 4. § (1) A hazai vizsgálat és tanúsítás elvégzésére vonatkozó megrendelésnek tartalmaznia kell
 
-a) a termék, technológia megnevezését;
+a)[^4] a termék, vagy technológiai rendszer megnevezését;
 
 b) a termék típusát, azonosító jelét vagy jelzetét;
 
@@ -15,3 +15,5 @@ e) a megrendelő képviseletére felhatalmazott személy(ek) nevét.
 (3) A tanúsító szervezet szükség esetén kiegészítő műszaki dokumentációt és az elbíráláshoz szükséges vizsgálati jegyzőkönyvet is kérhet.
 
 (4) A tanúsító szervezet a rendelkezésére bocsátott dokumentációt köteles üzleti titokként kezelni.
+
+[^4]: A 4. § (1) bekezdés a) pontja az 51/2012. (X. 11.) BM rendelet 6. § (2) bekezdésével megállapított szöveg.
