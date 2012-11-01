@@ -1,1 +1,9 @@
-## 1. § Hatályát veszti az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet 1. melléklet 4.2. és 4.3. pontja.
+## 1. §[^2]
+
+2. § (1) A nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló 118/2011. (VII. 11.) Korm. rendelet (a továbbiakban: NBSZ rendelet) 1. melléklete az 1. melléklet szerint módosul.
+
+(2) Az NBSZ rendelet 4. melléklete a 2. melléklet szerint módosul.
+
+(3) Az NBSZ rendelet 10. melléklete a 3. melléklet szerint módosul.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
