@@ -14,7 +14,7 @@ f) a 4. §-ban meghatározott törvények hatálya alá tartozó személyektől 
 
 g) az Országos Betétbiztosítási Alap igazgatótanácsa működésének, döntései előkészítésének és végrehajtásának segítése,
 
-h) bennfentes kereskedelem, piacbefolyásolás, engedély vagy bejelentés nélküli tevékenység végzésének gyanúja és a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése esetén piacfelügyeleti eljárás indítása,
+h) bennfentes kereskedelem, piacbefolyásolás, engedély vagy bejelentés nélküli tevékenység végzésének gyanúja esetén, a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése esetén, valamint a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése esetén piacfelügyeleti eljárás indítása,
 
 i) külföldi pénzügyi hatóságokkal, különösen az Európai Gazdasági Térség államaiban pénzügyi felügyeleti hatóságokkal való együttműködés,
 
