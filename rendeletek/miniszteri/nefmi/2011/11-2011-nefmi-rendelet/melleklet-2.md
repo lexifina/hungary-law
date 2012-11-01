@@ -20,7 +20,87 @@
 
 ## 1.5. Célérték:
 
-## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
+|  |  | A | B |
+
+|  | 1 | PRAXISTÍPUSOK: Felnőtt-Vegyes | INFLUENZA ELLENI VÉDŐOLTÁS INDIKÁTORÁNAK CÉLÉRTÉKEI (%) |
+
+|  | 2 | Baranya | Nem város | 41,9 |
+
+|  | 3 | Város | 37,6 |
+
+|  | 4 | Bács-Kiskun | Nem város | 38,1 |
+
+|  | 5 | Város | 34,8 |
+
+|  | 6 | Békés | Nem város | 37,7 |
+
+|  | 7 | Város | 30,2 |
+
+|  | 8 | Borsod-Abaúj-Zemplén | Nem város | 33,0 |
+
+|  | 9 | Város | 34,9 |
+
+|  | 10 | Csongrád | Nem város | 33,3 |
+
+|  | 11 | Város | 30,4 |
+
+|  | 12 | Fejér | Nem város | 36,9 |
+
+|  | 13 | Város | 35,8 |
+
+|  | 14 | Győr-Moson-Sopron | Nem város | 34,7 |
+
+|  | 15 | Város | 30,5 |
+
+|  | 16 | Hajdú-Bihar | Nem város | 33,7 |
+
+|  | 17 | Város | 29,1 |
+
+|  | 18 | Heves | Nem város | 36,8 |
+
+|  | 19 | Város | 34,3 |
+
+|  | 20 | Komárom-Esztergom | Nem város | 40,1 |
+
+|  | 21 | Város | 35,6 |
+
+|  | 22 | Nógrád | Nem város | 37,4 |
+
+|  | 23 | Város | 36,1 |
+
+|  | 24 | Pest megye | Nem város | 32,9 |
+
+|  | 25 | Város | 34,1 |
+
+|  | 26 | Somogy | Nem város | 47,9 |
+
+|  | 27 | Város | 42,5 |
+
+|  | 28 | Szabolcs-Szatmár-Bereg | Nem város | 37,3 |
+
+|  | 29 | Város | 33,0 |
+
+|  | 30 | Jász-Nagykun-Szolnok | Nem város | 32,4 |
+
+|  | 31 | Város | 33,4 |
+
+|  | 32 | Tolna | Nem város | 43,9 |
+
+|  | 33 | Város | 40,8 |
+
+|  | 34 | Vas | Nem város | 32,9 |
+
+|  | 35 | Város | 37,7 |
+
+|  | 36 | Veszprém | Nem város | 43,7 |
+
+|  | 37 | Város | 38,9 |
+
+|  | 38 | Zala | Nem város | 40,5 |
+
+|  | 39 | Város | 37,4 |
+
+|  | 40 | Budapest |  | 33,8 |
 
 ## 1.6. Pontszám: 1
 
@@ -46,85 +126,85 @@
 
 |  |  | A | B |
 
-|  | 1 | PRAXISTÍPUSOK: Felnőtt – Vegyes | MAMMOGRÁFIÁS ÁTSZŰRTSÉG INDIKÁTORÁNAK CÉLÉRTÉKEI (%) |
+|  | 1 | PRAXISTÍPUS: Felnőtt-Vegyes | MAMMOGRÁFIÁS ÁTSZŰRTSÉG INDIKÁTORÁNAK CÉLÉRTÉKEI (%) |
 
-|  | 2 | Baranya megye | Nem város | 47,7 |
+|  | 2 | Baranya | Nem város | 45,0 |
 
-|  | 3 | Város | 53,0 |
+|  | 3 | Város | 49,5 |
 
-|  | 4 | Bács-Kiskun megye | Nem város | 57,2 |
+|  | 4 | Bács-Kiskun | Nem város | 57,9 |
 
-|  | 5 | Város | 60,0 |
+|  | 5 | Város | 61,0 |
 
-|  | 6 | Békés megye | Nem város | 54,1 |
+|  | 6 | Békés | Nem város | 52,4 |
 
-|  | 7 | Város | 56,9 |
+|  | 7 | Város | 54,8 |
 
-|  | 8 | Borsod-Abaúj-Zemplén megye | Nem város | 56,7 |
+|  | 8 | Borsod-Abaúj-Zemplén | Nem város | 51,4 |
 
-|  | 9 | Város | 59,4 |
+|  | 9 | Város | 55,8 |
 
-|  | 10 | Csongrád megye | Nem város | 62,1 |
+|  | 10 | Csongrád | Nem város | 56,6 |
 
-|  | 11 | Város | 65,4 |
+|  | 11 | Város | 61,0 |
 
-|  | 12 | Fejér megye | Nem város | 58,1 |
+|  | 12 | Fejér | Nem város | 56,4 |
 
-|  | 13 | Város | 58,3 |
+|  | 13 | Város | 55,8 |
 
-|  | 14 | Győr-Moson-Sopron megye | Nem város | 64,7 |
+|  | 14 | Győr-Moson-Sopron | Nem város | 63,4 |
 
-|  | 15 | Város | 64,7 |
+|  | 15 | Város | 60,5 |
 
-|  | 16 | Hajdú-Bihar megye | Nem város | 58,1 |
+|  | 16 | Hajdú-Bihar | Nem város | 57,9 |
 
-|  | 17 | Város | 65,7 |
+|  | 17 | Város | 62,7 |
 
-|  | 18 | Heves megye | Nem város | 55,8 |
+|  | 18 | Heves | Nem város | 56,0 |
 
-|  | 19 | Város | 53,7 |
+|  | 19 | Város | 60,1 |
 
-|  | 20 | Komárom-Esztergom megye | Nem város | 61,7 |
+|  | 20 | Komárom-Esztergom | Nem város | 59,6 |
 
-|  | 21 | Város | 56,2 |
+|  | 21 | Város | 55,9 |
 
-|  | 22 | Nógrád megye | Nem város | 51,5 |
+|  | 22 | Nógrád | Nem város | 51,5 |
 
-|  | 23 | Város | 52,7 |
+|  | 23 | Város | 50,9 |
 
-|  | 24 | Pest megye | Nem város | 47,3 |
+|  | 24 | Pest megye | Nem város | 49,9 |
 
-|  | 25 | Város | 46,4 |
+|  | 25 | Város | 49,3 |
 
-|  | 26 | Somogy megye | Nem város | 43,4 |
+|  | 26 | Somogy | Nem város | 41,7 |
 
-|  | 27 | Város | 44,5 |
+|  | 27 | Város | 40,5 |
 
-|  | 28 | Szabolcs-Szatmár-Bereg megye | Nem város | 67,7 |
+|  | 28 | Szabolcs-Szatmár-Bereg | Nem város | 62,2 |
 
-|  | 29 | Város | 66,9 |
+|  | 29 | Város | 65,6 |
 
-|  | 30 | Szolnok megye | Nem város | 53,2 |
+|  | 30 | Jász-Nagykun-Szolnok | Nem város | 57,8 |
 
-|  | 31 | Város | 62,9 |
+|  | 31 | Város | 61,7 |
 
-|  | 32 | Tolna megye | Nem város | 60,5 |
+|  | 32 | Tolna | Nem város | 59,2 |
 
-|  | 33 | Város | 66,5 |
+|  | 33 | Város | 62,3 |
 
-|  | 34 | Vas megye | Nem város | 62,9 |
+|  | 34 | Vas | Nem város | 62,8 |
 
-|  | 35 | Város | 58,7 |
+|  | 35 | Város | 56,5 |
 
-|  | 36 | Veszprém megye | Nem város | 58,7 |
+|  | 36 | Veszprém | Nem város | 57,6 |
 
-|  | 37 | Város | 59,6 |
+|  | 37 | Város | 57,2 |
 
-|  | 38 | Zala megye | Nem város | 60,0 |
+|  | 38 | Zala | Nem város | 59,0 |
 
-|  | 39 | Város | 58,4 |
+|  | 39 | Város | 57,0 |
 
-|  | 40 | Budapest |  | 53,5 |
+|  | 40 | Budapest |  | 52,3 |
 
 ## 2.6. Pontszám: 1
 
@@ -148,7 +228,87 @@
 
 ## 3.5. Célérték:
 
-## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
+|  |  | A | B |
+
+|  | 1 | PRAXISTÍPUS: Felnőtt-Vegyes | MAGAS VÉRNYOMÁS A 40–54 ÉVES KOROSZTÁLYBAN INDIKÁTORÁNAK CÉLÉRTÉKEI (%) |
+
+|  | 2 | Baranya | Nem város | 30,5 |
+
+|  | 3 | Város | 26,4 |
+
+|  | 4 | Bács-Kiskun | Nem város | 28,9 |
+
+|  | 5 | Város | 25,8 |
+
+|  | 6 | Békés | Nem város | 28,4 |
+
+|  | 7 | Város | 25,3 |
+
+|  | 8 | Borsod-Abaúj-Zemplén | Nem város | 29,1 |
+
+|  | 9 | Város | 27,0 |
+
+|  | 10 | Csongrád | Nem város | 28,1 |
+
+|  | 11 | Város | 24,2 |
+
+|  | 12 | Fejér | Nem város | 28,2 |
+
+|  | 13 | Város | 24,5 |
+
+|  | 14 | Győr-Moson-Sopron | Nem város | 28,1 |
+
+|  | 15 | Város | 24,2 |
+
+|  | 16 | Hajdú-Bihar | Nem város | 27,0 |
+
+|  | 17 | Város | 24,1 |
+
+|  | 18 | Heves | Nem város | 29,0 |
+
+|  | 19 | Város | 25,7 |
+
+|  | 20 | Komárom-Esztergom | Nem város | 27,1 |
+
+|  | 21 | Város | 23,9 |
+
+|  | 22 | Nógrád | Nem város | 27,3 |
+
+|  | 23 | Város | 24,6 |
+
+|  | 24 | Pest megye | Nem város | 24,6 |
+
+|  | 25 | Város | 22,8 |
+
+|  | 26 | Somogy | Nem város | 30,2 |
+
+|  | 27 | Város | 27,6 |
+
+|  | 28 | Szabolcs-Szatmár-Bereg | Nem város | 29,8 |
+
+|  | 29 | Város | 26,6 |
+
+|  | 30 | Jász-Nagykun-Szolnok | Nem város | 28,3 |
+
+|  | 31 | Város | 25,4 |
+
+|  | 32 | Tolna | Nem város | 31,1 |
+
+|  | 33 | Város | 27,6 |
+
+|  | 34 | Vas | Nem város | 29,8 |
+
+|  | 35 | Város | 24,9 |
+
+|  | 36 | Veszprém | Nem város | 27,4 |
+
+|  | 37 | Város | 25,7 |
+
+|  | 38 | Zala | Nem város | 29,4 |
+
+|  | 39 | Város | 26,0 |
+
+|  | 40 | Budapest |  | 19,9 |
 
 ## 3.6. Pontszám: 1
 
@@ -172,7 +332,87 @@
 
 ## 4.5. Célérték:
 
-## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
+|  |  | A | B |
+
+|  | 1 | PRAXISTÍPUS: Felnőtt-Vegyes | MAGAS VÉRNYOMÁS AZ 55–69 ÉVES KOROSZTÁLYBAN INDIKÁTORÁNAK CÉLÉRTÉKEI (%) |
+
+|  | 2 | Baranya | Nem város | 60,1 |
+
+|  | 3 | Város | 60,3 |
+
+|  | 4 | Bács-Kiskun | Nem város | 60,8 |
+
+|  | 5 | Város | 57,8 |
+
+|  | 6 | Békés | Nem város | 57,6 |
+
+|  | 7 | Város | 56,7 |
+
+|  | 8 | Borsod-Abaúj-Zemplén | Nem város | 57,9 |
+
+|  | 9 | Város | 58,2 |
+
+|  | 10 | Csongrád | Nem város | 59,5 |
+
+|  | 11 | Város | 57,8 |
+
+|  | 12 | Fejér | Nem város | 59,5 |
+
+|  | 13 | Város | 57,8 |
+
+|  | 14 | Győr-Moson-Sopron | Nem város | 60,5 |
+
+|  | 15 | Város | 57,9 |
+
+|  | 16 | Hajdú-Bihar | Nem város | 56,4 |
+
+|  | 17 | Város | 56,3 |
+
+|  | 18 | Heves | Nem város | 59,4 |
+
+|  | 19 | Város | 57,0 |
+
+|  | 20 | Komárom-Esztergom | Nem város | 58,6 |
+
+|  | 21 | Város | 57,3 |
+
+|  | 22 | Nógrád | Nem város | 55,7 |
+
+|  | 23 | Város | 55,8 |
+
+|  | 24 | Pest megye | Nem város | 56,4 |
+
+|  | 25 | Város | 55,7 |
+
+|  | 26 | Somogy | Nem város | 61,4 |
+
+|  | 27 | Város | 61,0 |
+
+|  | 28 | Szabolcs-Szatmár-Bereg | Nem város | 60,0 |
+
+|  | 29 | Város | 57,4 |
+
+|  | 30 | Jász-Nagykun-Szolnok | Nem város | 56,2 |
+
+|  | 31 | Város | 55,8 |
+
+|  | 32 | Tolna | Nem város | 62,3 |
+
+|  | 33 | Város | 60,6 |
+
+|  | 34 | Vas | Nem város | 61,5 |
+
+|  | 35 | Város | 59,2 |
+
+|  | 36 | Veszprém | Nem város | 60,0 |
+
+|  | 37 | Város | 58,5 |
+
+|  | 38 | Zala | Nem város | 60,5 |
+
+|  | 39 | Város | 58,1 |
+
+|  | 40 | Budapest |  | 53,9 |
 
 ## 4.6. Pontszám: 1
 
@@ -196,7 +436,87 @@
 
 ## 5.5. Célérték:
 
-## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
+|  |  | A | B |
+
+|  | 1 | PRAXISTÍPUS: Felnőtt-Vegyes | SZÉRUM KREATININ VIZSGÁLAT INDIKÁTORÁNAK CÉLÉRTÉKEI (%) |
+
+|  | 2 | Baranya | Nem város | 63,0 |
+
+|  | 3 | Város | 76,5 |
+
+|  | 4 | Bács-Kiskun | Nem város | 66,3 |
+
+|  | 5 | Város | 72,4 |
+
+|  | 6 | Békés | Nem város | 62,3 |
+
+|  | 7 | Város | 70,1 |
+
+|  | 8 | Borsod-Abaúj-Zemplén | Nem város | 62,9 |
+
+|  | 9 | Város | 73,6 |
+
+|  | 10 | Csongrád | Nem város | 66,2 |
+
+|  | 11 | Város | 72,1 |
+
+|  | 12 | Fejér | Nem város | 62,2 |
+
+|  | 13 | Város | 71,0 |
+
+|  | 14 | Győr-Moson-Sopron | Nem város | 66,1 |
+
+|  | 15 | Város | 73,3 |
+
+|  | 16 | Hajdú-Bihar | Nem város | 66,2 |
+
+|  | 17 | Város | 72,1 |
+
+|  | 18 | Heves | Nem város | 64,7 |
+
+|  | 19 | Város | 74,0 |
+
+|  | 20 | Komárom-Esztergom | Nem város | 66,4 |
+
+|  | 21 | Város | 66,7 |
+
+|  | 22 | Nógrád | Nem város | 56,5 |
+
+|  | 23 | Város | 66,9 |
+
+|  | 24 | Pest megye | Nem város | 67,6 |
+
+|  | 25 | Város | 72,2 |
+
+|  | 26 | Somogy | Nem város | 59,2 |
+
+|  | 27 | Város | 72,6 |
+
+|  | 28 | Szabolcs-Szatmár-Bereg | Nem város | 66,0 |
+
+|  | 29 | Város | 70,6 |
+
+|  | 30 | Jász-Nagykun-Szolnok | Nem város | 61,8 |
+
+|  | 31 | Város | 69,6 |
+
+|  | 32 | Tolna | Nem város | 69,7 |
+
+|  | 33 | Város | 72,9 |
+
+|  | 34 | Vas | Nem város | 64,8 |
+
+|  | 35 | Város | 73,0 |
+
+|  | 36 | Veszprém | Nem város | 66,9 |
+
+|  | 37 | Város | 68,9 |
+
+|  | 38 | Zala | Nem város | 61,2 |
+
+|  | 39 | Város | 71,0 |
+
+|  | 40 | Budapest |  | 75,4 |
 
 ## 5.6. Pontszám: 1
 
@@ -220,7 +540,87 @@
 
 ## 6.5. Célérték:
 
-## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
+|  |  | A | B |
+
+|  | 1 | PRAXISTÍPUS: Felnőtt-Vegyes | LIPIDANYAGCSERE VIZSGÁLAT INDIKÁTORÁNAK CÉLÉRTÉKEI (%) |
+
+|  | 2 | Baranya | Nem város | 57,0 |
+
+|  | 3 | Város | 71,5 |
+
+|  | 4 | Bács-Kiskun | Nem város | 59,2 |
+
+|  | 5 | Város | 67,0 |
+
+|  | 6 | Békés | Nem város | 56,4 |
+
+|  | 7 | Város | 65,2 |
+
+|  | 8 | Borsod-Abaúj-Zemplén | Nem város | 57,7 |
+
+|  | 9 | Város | 68,4 |
+
+|  | 10 | Csongrád | Nem város | 61,4 |
+
+|  | 11 | Város | 67,8 |
+
+|  | 12 | Fejér | Nem város | 57,2 |
+
+|  | 13 | Város | 66,3 |
+
+|  | 14 | Győr-Moson-Sopron | Nem város | 59,5 |
+
+|  | 15 | Város | 67,5 |
+
+|  | 16 | Hajdú-Bihar | Nem város | 57,7 |
+
+|  | 17 | Város | 66,9 |
+
+|  | 18 | Heves | Nem város | 57,2 |
+
+|  | 19 | Város | 69,3 |
+
+|  | 20 | Komárom-Esztergom | Nem város | 59,8 |
+
+|  | 21 | Város | 61,1 |
+
+|  | 22 | Nógrád | Nem város | 51,8 |
+
+|  | 23 | Város | 62,0 |
+
+|  | 24 | Pest megye | Nem város | 63,3 |
+
+|  | 25 | Város | 69,1 |
+
+|  | 26 | Somogy | Nem város | 54,8 |
+
+|  | 27 | Város | 70,3 |
+
+|  | 28 | Szabolcs-Szatmár-Bereg | Nem város | 59,8 |
+
+|  | 29 | Város | 64,6 |
+
+|  | 30 | Jász-Nagykun-Szolnok | Nem város | 58,5 |
+
+|  | 31 | Város | 66,4 |
+
+|  | 32 | Tolna | Nem város | 65,2 |
+
+|  | 33 | Város | 67,8 |
+
+|  | 34 | Vas | Nem város | 58,4 |
+
+|  | 35 | Város | 68,7 |
+
+|  | 36 | Veszprém | Nem város | 61,8 |
+
+|  | 37 | Város | 63,8 |
+
+|  | 38 | Zala | Nem város | 56,5 |
+
+|  | 39 | Város | 65,6 |
+
+|  | 40 | Budapest |  | 72,0 |
 
 ## 6.6. Pontszám: 1
 
@@ -270,85 +670,85 @@
 
 |  |  | A | B |
 
-|  | 1 | PRAXISTÍPUSOK: Felnőtt – Vegyes | DIABÉTESZ GONDOZÁS 1. INDIKÁTORÁNAK CÉLÉRTÉKEI (%) |
+|  | 1 | PRAXISTÍPUS: Felnőtt-Vegyes | DIABÉTESZ GONDOZÁS 1. INDIKÁTORÁNAK CÉLÉRTÉKEI (%) |
 
-|  | 2 | Baranya megye | Nem város | 70,5 |
+|  | 2 | Baranya | Nem város | 75,9 |
 
-|  | 3 | Város | 82,3 |
+|  | 3 | Város | 84,9 |
 
-|  | 4 | Bács-Kiskun megye | Nem város | 71,7 |
+|  | 4 | Bács-Kiskun | Nem város | 75,0 |
 
-|  | 5 | Város | 77,6 |
+|  | 5 | Város | 80,7 |
 
-|  | 6 | Békés megye | Nem város | 75,0 |
+|  | 6 | Békés | Nem város | 78,0 |
 
-|  | 7 | Város | 80,3 |
+|  | 7 | Város | 81,7 |
 
-|  | 8 | Borsod-Abaúj-Zemplén megye | Nem város | 68,5 |
+|  | 8 | Borsod-Abaúj-Zemplén | Nem város | 75,8 |
 
-|  | 9 | Város | 79,3 |
+|  | 9 | Város | 83,1 |
 
-|  | 10 | Csongrád megye | Nem város | 73,2 |
+|  | 10 | Csongrád | Nem város | 79,4 |
 
-|  | 11 | Város | 78,2 |
+|  | 11 | Város | 81,6 |
 
-|  | 12 | Fejér megye | Nem város | 71,6 |
+|  | 12 | Fejér | Nem város | 75,2 |
 
-|  | 13 | Város | 75,6 |
+|  | 13 | Város | 80,5 |
 
-|  | 14 | Győr-Moson-Sopron megye | Nem város | 72,1 |
+|  | 14 | Győr-Moson-Sopron | Nem város | 77,8 |
 
-|  | 15 | Város | 79,7 |
+|  | 15 | Város | 83,6 |
 
-|  | 16 | Hajdú-Bihar megye | Nem város | 70,4 |
+|  | 16 | Hajdú-Bihar | Nem város | 75,7 |
 
-|  | 17 | Város | 81,9 |
+|  | 17 | Város | 82,9 |
 
-|  | 18 | Heves megye | Nem város | 63,9 |
+|  | 18 | Heves | Nem város | 70,8 |
 
-|  | 19 | Város | 76,5 |
+|  | 19 | Város | 78,9 |
 
-|  | 20 | Komárom-Esztergom megye | Nem város | 70,7 |
+|  | 20 | Komárom-Esztergom | Nem város | 74,6 |
 
-|  | 21 | Város | 70,1 |
+|  | 21 | Város | 71,8 |
 
-|  | 22 | Nógrád megye | Nem város | 63,0 |
+|  | 22 | Nógrád | Nem város | 64,9 |
 
-|  | 23 | Város | 74,0 |
+|  | 23 | Város | 76,1 |
 
-|  | 24 | Pest megye | Nem város | 69,2 |
+|  | 24 | Pest megye | Nem város | 74,8 |
 
-|  | 25 | Város | 75,7 |
+|  | 25 | Város | 79,2 |
 
-|  | 26 | Somogy megye | Nem város | 67,8 |
+|  | 26 | Somogy | Nem város | 73,7 |
 
-|  | 27 | Város | 83,7 |
+|  | 27 | Város | 83,5 |
 
-|  | 28 | Szabolcs-Szatmár-Bereg megye | Nem város | 75,6 |
+|  | 28 | Szabolcs-Szatmár-Bereg | Nem város | 78,5 |
 
-|  | 29 | Város | 82,6 |
+|  | 29 | Város | 83,9 |
 
-|  | 30 | Szolnok megye | Nem város | 69,7 |
+|  | 30 | Jász-Nagykun-Szolnok | Nem város | 75,7 |
 
-|  | 31 | Város | 75,1 |
+|  | 31 | Város | 78,5 |
 
-|  | 32 | Tolna megye | Nem város | 78,9 |
+|  | 32 | Tolna | Nem város | 82,1 |
 
-|  | 33 | Város | 83,3 |
+|  | 33 | Város | 84,6 |
 
-|  | 34 | Vas megye | Nem város | 71,5 |
+|  | 34 | Vas | Nem város | 78,2 |
 
-|  | 35 | Város | 83,2 |
+|  | 35 | Város | 85,1 |
 
-|  | 36 | Veszprém megye | Nem város | 74,9 |
+|  | 36 | Veszprém | Nem város | 78,0 |
 
-|  | 37 | Város | 79,2 |
+|  | 37 | Város | 80,5 |
 
-|  | 38 | Zala megye | Nem város | 73,1 |
+|  | 38 | Zala | Nem város | 75,5 |
 
-|  | 39 | Város | 81,6 |
+|  | 39 | Város | 82,4 |
 
-|  | 40 | Budapest |  | 79,5 |
+|  | 40 | Budapest |  | 82,3 |
 
 ## 8.6. Pontszám: 1
 
@@ -374,85 +774,85 @@
 
 |  |  | A | B |
 
-|  | 1 | PRAXISTÍPUSOK: Felnőtt – Vegyes | DIABÉTESZ GONDOZÁS 2. INDIKÁTORÁNAK CÉLÉRTÉKEI (%) |
+|  | 1 | PRAXISTÍPUS: Felnőtt-Vegyes | DIABÉTESZ GONDOZÁS 2. INDIKÁTORÁNAK CÉLÉRTÉKEI (%) |
 
-|  | 2 | Baranya megye | Nem város | 43,5 |
+|  | 2 | Baranya | Nem város | 48,6 |
 
-|  | 3 | Város | 45,6 |
+|  | 3 | Város | 49,4 |
 
-|  | 4 | Bács-Kiskun megye | Nem város | 40,9 |
+|  | 4 | Bács-Kiskun | Nem város | 40,9 |
 
-|  | 5 | Város | 47,0 |
+|  | 5 | Város | 48,5 |
 
-|  | 6 | Békés megye | Nem város | 43,7 |
+|  | 6 | Békés | Nem város | 42,2 |
 
-|  | 7 | Város | 44,5 |
+|  | 7 | Város | 45,5 |
 
-|  | 8 | Borsod-Abaúj-Zemplén megye | Nem város | 41,9 |
+|  | 8 | Borsod-Abaúj-Zemplén | Nem város | 46,4 |
 
-|  | 9 | Város | 49,2 |
+|  | 9 | Város | 52,6 |
 
-|  | 10 | Csongrád megye | Nem város | 48,5 |
+|  | 10 | Csongrád | Nem város | 47,8 |
 
-|  | 11 | Város | 47,1 |
+|  | 11 | Város | 48,5 |
 
-|  | 12 | Fejér megye | Nem város | 41,6 |
+|  | 12 | Fejér | Nem város | 42,5 |
 
-|  | 13 | Város | 41,4 |
+|  | 13 | Város | 45,7 |
 
-|  | 14 | Győr-Moson-Sopron megye | Nem város | 34,8 |
+|  | 14 | Győr-Moson-Sopron | Nem város | 35,8 |
 
-|  | 15 | Város | 37,3 |
+|  | 15 | Város | 38,9 |
 
-|  | 16 | Hajdú-Bihar megye | Nem város | 44,0 |
+|  | 16 | Hajdú-Bihar | Nem város | 45,7 |
 
-|  | 17 | Város | 48,4 |
+|  | 17 | Város | 49,2 |
 
-|  | 18 | Heves megye | Nem város | 33,8 |
+|  | 18 | Heves | Nem város | 36,6 |
 
-|  | 19 | Város | 35,9 |
+|  | 19 | Város | 40,1 |
 
-|  | 20 | Komárom-Esztergom megye | Nem város | 43,4 |
+|  | 20 | Komárom-Esztergom | Nem város | 45,0 |
 
-|  | 21 | Város | 41,4 |
+|  | 21 | Város | 43,6 |
 
-|  | 22 | Nógrád megye | Nem város | 34,0 |
+|  | 22 | Nógrád | Nem város | 34,7 |
 
-|  | 23 | Város | 36,6 |
+|  | 23 | Város | 39,7 |
 
-|  | 24 | Pest megye | Nem város | 40,9 |
+|  | 24 | Pest megye | Nem város | 42,8 |
 
-|  | 25 | Város | 45,7 |
+|  | 25 | Város | 48,0 |
 
-|  | 26 | Somogy megye | Nem város | 35,3 |
+|  | 26 | Somogy | Nem város | 38,7 |
 
-|  | 27 | Város | 41,2 |
+|  | 27 | Város | 42,3 |
 
-|  | 28 | Szabolcs-Szatmár-Bereg megye | Nem város | 42,5 |
+|  | 28 | Szabolcs-Szatmár-Bereg | Nem város | 43,8 |
 
-|  | 29 | Város | 43,6 |
+|  | 29 | Város | 44,7 |
 
-|  | 30 | Szolnok megye | Nem város | 38,9 |
+|  | 30 | Jász-Nagykun-Szolnok | Nem város | 41,4 |
 
-|  | 31 | Város | 39,0 |
+|  | 31 | Város | 40,5 |
 
-|  | 32 | Tolna megye | Nem város | 38,5 |
+|  | 32 | Tolna | Nem város | 39,0 |
 
-|  | 33 | Város | 39,0 |
+|  | 33 | Város | 38,8 |
 
-|  | 34 | Vas megye | Nem város | 38,4 |
+|  | 34 | Vas | Nem város | 38,3 |
 
-|  | 35 | Város | 46,8 |
+|  | 35 | Város | 43,6 |
 
-|  | 36 | Veszprém megye | Nem város | 47,6 |
+|  | 36 | Veszprém | Nem város | 49,1 |
 
-|  | 37 | Város | 47,8 |
+|  | 37 | Város | 48,9 |
 
-|  | 38 | Zala megye | Nem város | 36,2 |
+|  | 38 | Zala | Nem város | 37,9 |
 
-|  | 39 | Város | 42,0 |
+|  | 39 | Város | 43,1 |
 
-|  | 40 | Budapest |  | 49,8 |
+|  | 40 | Budapest |  | 51,2 |
 
 ## 9.6. Pontszám: 1
 
@@ -476,7 +876,87 @@
 
 ## 10.5. Célérték:
 
-## Azok a praxisok részesülnek pontozásban, amelyek nem haladják meg az indikátor havi szinten megállapított alsó kvartilisének felső határát.
+|  |  | A | B |
+
+|  | 1 | PRAXISTÍPUS: Felnőtt-Vegyes | BEUTALÁSI GYAKORLAT INDIKÁTORÁNAK CÉLÉRTÉKEI (%) |
+
+|  | 2 | Baranya | Nem város | 2,6 |
+
+|  | 3 | Város | 3,0 |
+
+|  | 4 | Bács-Kiskun | Nem város | 2,0 |
+
+|  | 5 | Város | 2,4 |
+
+|  | 6 | Békés | Nem város | 2,1 |
+
+|  | 7 | Város | 2,3 |
+
+|  | 8 | Borsod-Abaúj-Zemplén | Nem város | 2,3 |
+
+|  | 9 | Város | 3,2 |
+
+|  | 10 | Csongrád | Nem város | 1,7 |
+
+|  | 11 | Város | 2,4 |
+
+|  | 12 | Fejér | Nem város | 1,8 |
+
+|  | 13 | Város | 2,0 |
+
+|  | 14 | Győr-Moson-Sopron | Nem város | 1,4 |
+
+|  | 15 | Város | 1,6 |
+
+|  | 16 | Hajdú-Bihar | Nem város | 2,2 |
+
+|  | 17 | Város | 2,6 |
+
+|  | 18 | Heves | Nem város | 2,2 |
+
+|  | 19 | Város | 2,8 |
+
+|  | 20 | Komárom-Esztergom | Nem város | 1,9 |
+
+|  | 21 | Város | 2,0 |
+
+|  | 22 | Nógrád | Nem város | 1,7 |
+
+|  | 23 | Város | 2,5 |
+
+|  | 24 | Pest megye | Nem város | 1,9 |
+
+|  | 25 | Város | 2,1 |
+
+|  | 26 | Somogy | Nem város | 2,3 |
+
+|  | 27 | Város | 2,7 |
+
+|  | 28 | Szabolcs-Szatmár-Bereg | Nem város | 2,1 |
+
+|  | 29 | Város | 2,4 |
+
+|  | 30 | Jász-Nagykun-Szolnok | Nem város | 1,8 |
+
+|  | 31 | Város | 2,1 |
+
+|  | 32 | Tolna | Nem város | 2,6 |
+
+|  | 33 | Város | 2,4 |
+
+|  | 34 | Vas | Nem város | 1,7 |
+
+|  | 35 | Város | 2,0 |
+
+|  | 36 | Veszprém | Nem város | 1,1 |
+
+|  | 37 | Város | 1,6 |
+
+|  | 38 | Zala | Nem város | 2,0 |
+
+|  | 39 | Város | 2,5 |
+
+|  | 40 | Budapest |  | 2,3 |
 
 ## 10.6. Pontszám: 1
 
@@ -500,7 +980,87 @@
 
 ## 11.5. Célérték:
 
-## Azok a praxisok részesülnek pontozásban, amelyek nem haladják meg az indikátor havi szinten megállapított alsó kvartilisének felső határát.
+|  |  | A | B |
+
+|  | 1 | PRAXISTÍPUS: Felnőtt-Vegyes | ANTIBIOTIKUMOS KEZELÉS INDIKÁTORÁNAK CÉLÉRTÉKEI (%) |
+
+|  | 2 | Baranya | Nem város | 2,4 |
+
+|  | 3 | Város | 2,2 |
+
+|  | 4 | Bács-Kiskun | Nem város | 2,5 |
+
+|  | 5 | Város | 2,8 |
+
+|  | 6 | Békés | Nem város | 2,5 |
+
+|  | 7 | Város | 2,5 |
+
+|  | 8 | Borsod-Abaúj-Zemplén | Nem város | 2,3 |
+
+|  | 9 | Város | 3,0 |
+
+|  | 10 | Csongrád | Nem város | 2,8 |
+
+|  | 11 | Város | 2,4 |
+
+|  | 12 | Fejér | Nem város | 2,0 |
+
+|  | 13 | Város | 2,1 |
+
+|  | 14 | Győr-Moson-Sopron | Nem város | 1,6 |
+
+|  | 15 | Város | 1,7 |
+
+|  | 16 | Hajdú-Bihar | Nem város | 2,2 |
+
+|  | 17 | Város | 2,5 |
+
+|  | 18 | Heves | Nem város | 2,3 |
+
+|  | 19 | Város | 2,5 |
+
+|  | 20 | Komárom-Esztergom | Nem város | 1,7 |
+
+|  | 21 | Város | 2,1 |
+
+|  | 22 | Nógrád | Nem város | 2,0 |
+
+|  | 23 | Város | 2,1 |
+
+|  | 24 | Pest megye | Nem város | 1,9 |
+
+|  | 25 | Város | 1,8 |
+
+|  | 26 | Somogy | Nem város | 2,1 |
+
+|  | 27 | Város | 2,0 |
+
+|  | 28 | Szabolcs-Szatmár-Bereg | Nem város | 3,3 |
+
+|  | 29 | Város | 3,2 |
+
+|  | 30 | Jász-Nagykun-Szolnok | Nem város | 1,6 |
+
+|  | 31 | Város | 2,6 |
+
+|  | 32 | Tolna | Nem város | 1,6 |
+
+|  | 33 | Város | 2,2 |
+
+|  | 34 | Vas | Nem város | 1,7 |
+
+|  | 35 | Város | 1,6 |
+
+|  | 36 | Veszprém | Nem város | 1,7 |
+
+|  | 37 | Város | 1,9 |
+
+|  | 38 | Zala | Nem város | 1,9 |
+
+|  | 39 | Város | 2,2 |
+
+|  | 40 | Budapest |  | 1,5 |
 
 ## 11.6. Pontszám: 1
 
@@ -532,7 +1092,7 @@
 
 ## 2.6. Pontszám: 1,875
 
-## 3. Vaspótló kezelés a 10–18 éves lányok között (HSZV10–18%) [3. § (2) bekezdés b) pontja]
+## 3. Vaspótló kezelés a 10–18 éves lányok között (HSZV10–18%) [3. § (2) bekezdés c) pontja]
 
 ## 3.1. Célcsoport: A házi gyermekorvosi szolgáltatóhoz bejelentkezett 10–18 év közötti lányok
 
@@ -552,7 +1112,49 @@
 
 ## 3.5. Célérték:
 
-## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
+|  |  | A | B |
+
+|  | 1 | PRAXISTÍPUS: Gyermek | VASPÓTLÓ KEZELÉS INDIKÁTORÁNAK CÉLÉRTÉKEI (%) |
+
+|  | 2 | Baranya | Város – Nem város | 5,5 |
+
+|  | 3 | Bács-Kiskun | Város – Nem város | 5,4 |
+
+|  | 4 | Békés | Város – Nem város | 5,1 |
+
+|  | 5 | Borsod-Abaúj-Zemplén | Város – Nem város | 8,6 |
+
+|  | 6 | Csongrád | Város – Nem város | 4,9 |
+
+|  | 7 | Fejér | Város – Nem város | 3,4 |
+
+|  | 8 | Győr-Moson-Sopron | Város – Nem város | 4,6 |
+
+|  | 9 | Hajdú-Bihar | Város – Nem város | 4,7 |
+
+|  | 10 | Heves | Város – Nem város | 4,7 |
+
+|  | 11 | Komárom-Esztergom | Város – Nem város | 5,1 |
+
+|  | 12 | Nógrád | Város – Nem város | 4,6 |
+
+|  | 13 | Pest megye | Város – Nem város | 4,1 |
+
+|  | 14 | Somogy | Város – Nem város | 4,5 |
+
+|  | 15 | Szabolcs-Szatmár-Bereg | Város – Nem város | 5,0 |
+
+|  | 16 | Jász-Nagykun-Szolnok | Város – Nem város | 4,4 |
+
+|  | 17 | Tolna | Város – Nem város | 5,5 |
+
+|  | 18 | Vas | Város – Nem város | 6,7 |
+
+|  | 19 | Veszprém | Város – Nem város | 3,8 |
+
+|  | 20 | Zala | Város – Nem város | 4,4 |
+
+|  | 21 | Budapest |  | 4,9 |
 
 ## 3.6. Pontszám: 1,875
 
@@ -576,7 +1178,49 @@
 
 ## 4.5. Célérték:
 
-## Azok a praxisok részesülnek pontozásban, amelyek nem haladják meg az indikátor havi szinten megállapított alsó kvartilisének felső határát.
+|  |  | A | B |
+
+|  | 1 | PRAXISTÍPUS: Gyermek | BEUTALÁSI GYAKORLAT INDIKÁTORÁNAK CÉLÉRTÉKEI (%) |
+
+|  | 2 | Baranya | Város – Nem város | 1,5 |
+
+|  | 3 | Bács-Kiskun | Város – Nem város | 0,8 |
+
+|  | 4 | Békés | Város – Nem város | 1,2 |
+
+|  | 5 | Borsod-Abaúj-Zemplén | Város – Nem város | 1,3 |
+
+|  | 6 | Csongrád | Város – Nem város | 1,1 |
+
+|  | 7 | Fejér | Város – Nem város | 1,2 |
+
+|  | 8 | Győr-Moson-Sopron | Város – Nem város | 0,9 |
+
+|  | 9 | Hajdú-Bihar | Város – Nem város | 1,5 |
+
+|  | 10 | Heves | Város – Nem város | 1,1 |
+
+|  | 11 | Komárom-Esztergom | Város – Nem város | 0,9 |
+
+|  | 12 | Nógrád | Város – Nem város | 1,2 |
+
+|  | 13 | Pest megye | Város – Nem város | 1,2 |
+
+|  | 14 | Somogy | Város – Nem város | 1,3 |
+
+|  | 15 | Szabolcs-Szatmár-Bereg | Város – Nem város | 1,1 |
+
+|  | 16 | Jász-Nagykun-Szolnok | Város – Nem város | 1,1 |
+
+|  | 17 | Tolna | Város – Nem város | 2,3 |
+
+|  | 18 | Vas | Város – Nem város | 1,0 |
+
+|  | 19 | Veszprém | Város – Nem város | 0,9 |
+
+|  | 20 | Zala | Város – Nem város | 1,3 |
+
+|  | 21 | Budapest |  | 1,5 |
 
 ## 4.6. Pontszám: 1,875
 
@@ -628,55 +1272,55 @@
 
 |  | 1 | PRAXISTÍPUS: Gyermek | ANTIBIOTIKUMOS KEZELÉS INDIKÁTORÁNAK CÉLÉRTÉKEI (%) |
 
-|  | 2 | Baranya megye | Város – Nem város | 5,6 |
+|  | 2 | Baranya | Város – Nem város | 5,5 |
 
-|  | 3 | Bács-Kiskun megye | Város – Nem város | 8,5 |
+|  | 3 | Bács-Kiskun | Város – Nem város | 7,9 |
 
-|  | 4 | Békés megye | Város – Nem város | 6,7 |
+|  | 4 | Békés | Város – Nem város | 6,5 |
 
-|  | 5 | Borsod-Abaúj-Zemplén megye | Város – Nem város | 8,2 |
+|  | 5 | Borsod-Abaúj-Zemplén | Város – Nem város | 8,2 |
 
-|  | 6 | Csongrád megye | Város – Nem város | 5,3 |
+|  | 6 | Csongrád | Város – Nem város | 5,4 |
 
-|  | 7 | Fejér megye | Város – Nem város | 5,3 |
+|  | 7 | Fejér | Város – Nem város | 5,5 |
 
-|  | 8 | Győr-Moson-Sopron megye | Város – Nem város | 5,5 |
+|  | 8 | Győr-Moson-Sopron | Város – Nem város | 5,0 |
 
-|  | 9 | Hajdú-Bihar megye | Város – Nem város | 6,2 |
+|  | 9 | Hajdú-Bihar | Város – Nem város | 6,5 |
 
-|  | 10 | Heves megye | Város – Nem város | 8,3 |
+|  | 10 | Heves | Város – Nem város | 7,5 |
 
-|  | 11 | Komárom-Esztergom megye | Város – Nem város | 5,6 |
+|  | 11 | Komárom-Esztergom | Város – Nem város | 5,9 |
 
-|  | 12 | Nógrád megye | Város – Nem város | 6,6 |
+|  | 12 | Nógrád | Város – Nem város | 7,6 |
 
 |  | 13 | Pest megye | Város – Nem város | 4,0 |
 
-|  | 14 | Somogy megye | Város – Nem város | 6,7 |
+|  | 14 | Somogy | Város – Nem város | 6,5 |
 
-|  | 15 | Szabolcs-Szatmár-Bereg megye | Város – Nem város | 8,2 |
+|  | 15 | Szabolcs-Szatmár-Bereg | Város – Nem város | 8,3 |
 
-|  | 16 | Szolnok megye | Város – Nem város | 4,8 |
+|  | 16 | Jász-Nagykun-Szolnok | Város – Nem város | 4,8 |
 
-|  | 17 | Tolna megye | Város – Nem város | 5,9 |
+|  | 17 | Tolna | Város – Nem város | 6,3 |
 
-|  | 18 | Vas megye | Város – Nem város | 4,4 |
+|  | 18 | Vas | Város – Nem város | 4,2 |
 
-|  | 19 | Veszprém megye | Város – Nem város | 4,0 |
+|  | 19 | Veszprém | Város – Nem város | 4,3 |
 
-|  | 20 | Zala megye | Város – Nem város | 6,2 |
+|  | 20 | Zala | Város – Nem város | 6,0 |
 
-|  | 21 | Budapest |  | 2,8 |
+|  | 21 | Budapest |  | 2,9 |
 
 ## 6.6. Pontszám: 1,875
 
-## 7.  Colecalciferol belsőleges oldatos csepp adása (HSZCI%) [3. § (2) bekezdés g) pontja]
+## 7. Colecalciferol belsőleges oldatos csepp adása (HSZCI%) [3. § (2) bekezdés g) pontja]
 
-## 7.1.  Célcsoport: A házi gyermekorvosi szolgálathoz bejelentkezett 3 éves kor alatti gyermekek
+## 7.1. Célcsoport: A házi gyermekorvosi szolgálathoz bejelentkezett 3 éves kor alatti gyermekek
 
-## 7.2.  Jelentése: A háziorvosi szolgálathoz bejelentkezett 3 éves kor alatti gyermekek közül Colecalciferol belsőleges oldatos csepp gyógyszerformájú készítmény kezelésben részesültek aránya. Azt a gyermeket tekintjük megfelelően ellátottnak, akinek a részére a megelőző 12 hónapban legalább 1 alkalommal váltottak ki Colecalciferol belsőleges oldatos csepp gyógyszerformájú készítményt a patikában (ATC: A11CC05).
+## 7.2. Jelentése: A háziorvosi szolgálathoz bejelentkezett 3 éves kor alatti gyermekek közül Colecalciferol belsőleges oldatos csepp gyógyszerformájú készítmény kezelésben részesültek aránya. Azt a gyermeket tekintjük megfelelően ellátottnak, akinek a részére a megelőző 12 hónapban legalább 1 alkalommal váltottak ki Colecalciferol belsőleges oldatos csepp gyógyszerformájú készítményt a patikában (ATC: A11CC05).
 
-## 7.3.  Számítás:
+## 7.3. Számítás:
 
 ## HSZCI% = HSZCI / BB1 * 100
 
@@ -686,21 +1330,21 @@
 
 ## BB1: összes 3 éves kor alatti bejelentkezett biztosított
 
-## 7.4.  Adatforrás: gyógyszer vényforgalmi adatok
+## 7.4. Adatforrás: gyógyszer vényforgalmi adatok
 
-## 7.5.  Célérték:
+## 7.5. Célérték:
 
 ## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
 
-## 7.6.  Pontszám: 1,875
+## 7.6. Pontszám: 1,875
 
-## 8.  Szűrővizsgálatok végzése (HSZSZ%) [3. § (2) bekezdés h) pontja]
+## 8. Szűrővizsgálatok végzése (HSZSZ%) [3. § (2) bekezdés h) pontja]
 
-## 8.1.  Célcsoport: A házi gyermekorvosi szolgálathoz bejelentkezett 6 éves kor alatti gyermekek
+## 8.1. Célcsoport: A házi gyermekorvosi szolgálathoz bejelentkezett 6 éves kor alatti gyermekek
 
-## 8.2.  Jelentése: A háziorvosi szolgálathoz bejelentkezett 6 éves kor alatti gyermekek közül azok aránya, akiknél – a kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló miniszteri rendelet által elrendelt – szűrési tevékenységek közül legalább 1 megtörtént a megelőző 12 hónapban.
+## 8.2. Jelentése: A háziorvosi szolgálathoz bejelentkezett 6 éves kor alatti gyermekek közül azok aránya, akiknél – a kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló miniszteri rendelet által elrendelt – szűrési tevékenységek közül legalább 1 megtörtént a megelőző 12 hónapban.
 
-## 8.3.  Számítás:
+## 8.3. Számítás:
 
 ## HSZSZ% = HSZSZ/BB*100
 
@@ -710,21 +1354,21 @@
 
 ## BB: 6 éves kor alatti biztosítottak száma
 
-## 8.4.  Adatforrás: házi gyermekorvosi tételes jelentés betegforgalmi adatai (B_300-as jelentés, B_308 Szűrés adatsorok)
+## 8.4. Adatforrás: házi gyermekorvosi tételes jelentés betegforgalmi adatai (B_300-as jelentés, B_308 Szűrés adatsorok)
 
-## 8.5.  Célérték:
+## 8.5. Célérték:
 
 ## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
 
-## 8.6.  Pontszám: 1,875
+## 8.6. Pontszám: 1,875
 
-## 9.  Kizárólag anyatejes táplálásban részesült csecsemők aránya (HSZSZCS%) [3. § (2) bekezdés i) pontja]
+## 9. Kizárólag anyatejes táplálásban részesült csecsemők aránya (HSZSZCS%) [3. § (2) bekezdés i) pontja]
 
-## 9.1.  Célcsoport: A házi gyermekorvosi szolgálathoz bejelentkezett 6 hónapos kor alatti gyermekek
+## 9.1. Célcsoport: A házi gyermekorvosi szolgálathoz bejelentkezett 6 hónapos kor alatti gyermekek
 
-## 9.2.  Jelentése: A háziorvosi szolgálathoz bejelentkezett 6 hónapos kor alatti gyermekek közül azok aránya, akiknél a megelőző 6 hónapban maximum 1 V06C, vagy V06D ATC kódot tartalmazó anyatej helyettesítő és/vagy hipoallergén speciális gyógyászati célra szánt tápszer vény került kiváltásra.
+## 9.2. Jelentése: A háziorvosi szolgálathoz bejelentkezett 6 hónapos kor alatti gyermekek közül azok aránya, akiknél a megelőző 6 hónapban maximum 1 V06C, vagy V06D ATC kódot tartalmazó anyatej helyettesítő és/vagy hipoallergén speciális gyógyászati célra szánt tápszer vény került kiváltásra.
 
-## 9.3.  Számítás:
+## 9.3. Számítás:
 
 ## HSZSZCS% = HSZSZCS/BB*100
 
@@ -734,13 +1378,13 @@
 
 ## BB: 6 hónapos kor alatti biztosítottak száma
 
-## 9.4.  Adatforrás: gyógyszer vényforgalmi adatok
+## 9.4. Adatforrás: gyógyszer vényforgalmi adatok
 
-## 9.5.  Célérték:
+## 9.5. Célérték:
 
 ## Azok a praxisok részesülnek pontozásban, amelyek elérik az indikátor havi szinten megállapított felső kvartilisének alsó határát.
 
-## 9.6.  Pontszám: 1,875
+## 9.6. Pontszám: 1,875
 
 2. melléklet a 11/2011. (III. 30.) NEFMI rendelethez[^13]
 
@@ -776,7 +1420,7 @@ II.
 
 1.1.8. esomeprazol
 
-1.2. CÉLÉRTÉK: 27,22 Ft
+1.2. CÉLÉRTÉK: 21,67 Ft
 
 1.3. DOT korlát: 2000/negyedév
 
@@ -792,7 +1436,7 @@ II.
 
 2.1.4. glimepirid
 
-2.2. CÉLÉRTÉK: 15,59 Ft
+2.2. CÉLÉRTÉK: 14,92 Ft
 
 2.3. DOT korlát: 2000/negyedév
 
@@ -862,7 +1506,7 @@ II.
 
 3.1.31. telmisartan és amlodipin
 
-3.2. CÉLÉRTÉK: 22,22 Ft
+3.2. CÉLÉRTÉK: 19,20 Ft
 
 3.3. DOT korlát: 2000/negyedév
 
@@ -890,8 +1534,8 @@ II.
 
 4.1.10. atorvastatin és amlodipin
 
-4.2. CÉLÉRTÉK: 45,14 Ft
+4.2. CÉLÉRTÉK: 37,11 Ft
 
 4.3. DOT korlát: 2000/negyedév
 
-[^13]: A 2. melléklet a 2/2012. (I. 3.) NEFMI rendelet 24. §-a, a 10/2012. (VII. 19.) EMMI rendelet 27. §-a szerint módosított szöveg.
+[^13]: A 2. melléklet a 2/2012. (I. 3.) NEFMI rendelet 24. §-a, a 10/2012. (VII. 19.) EMMI rendelet 27. §-a, a 35/2012. (X. 31.) EMMI rendelet 2. §-a szerint módosított szöveg.
