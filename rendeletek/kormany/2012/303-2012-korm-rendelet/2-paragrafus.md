@@ -1,0 +1,3 @@
+## 1. § A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény végrehajtásáról szóló 145/1999. (X. 1.) Korm. rendelet (a továbbiakban: Vhr.) 48. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) Temető területén kívül, fekvőbeteg-ellátást nyújtó egészségügyi intézmény, szanatórium, szociális ellátó intézmény, lakó- és szállásépület, üdülő, oktatási, nevelési és kulturális intézmény, vendéglátóhely, vendéglátóüzlet ingatlanától számított 1000 méteres távolságon belül hamvasztóüzem nem üzemeltethető. Temető területén belül hamvasztóüzem akkor üzemeltethető, ha a temető bármely kerítésétől számítva minden irányba legalább 200 méteres védőtávolság biztosítható.”
