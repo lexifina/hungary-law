@@ -26,7 +26,7 @@ l) kapcsolatot tart a megye (főváros), a kistérség gazdasági életében ré
 
 m) ellátja a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek végrehajtásával összefüggő feladatokat,
 
-n) ellátja a Karrier Híd Programhoz kapcsolódó adókedvezmény igénybevételéhez szükséges hatósági bizonyítvány kiadásával összefüggő feladatokat.
+n)[^3]
 
 (2) A kirendeltség közfoglalkoztatási feladatai ellátása során:
 
@@ -37,3 +37,5 @@ b) ellátja a közfoglalkoztatási támogatási eljárással kapcsolatos hatós�
 c) szervezi a közfoglalkoztatást,
 
 d) kapcsolatot tart a közfoglalkoztatókkal.
+
+[^3]: A 9. § (1) bekezdés n) pontját a 27. § (3) bekezdése hatályon kívül helyezte.
