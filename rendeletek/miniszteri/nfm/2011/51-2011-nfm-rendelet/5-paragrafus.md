@@ -1,6 +1,6 @@
 ## 4. A támogatás kifizetése
 
-5. § (1)[^4] A rendszerirányító az igénylési határnapot követő ötödik munkanapig gondoskodik az igénylő számára az igénylési vagy a késedelmi igénylési határnapig a 4. § (2) bekezdése szerinti iratokkal igazolt tárgyhavi vagy késedelmi támogatási igénybejelentésben megjelölt támogatási összeg (a továbbiakban együtt: igazolt támogatási igények) kifizetéséről a Vet. 147. § (1) bekezdés c) pontjában meghatározott célra létrehozott pénzforgalmi számla (a továbbiakban: elkülönített számla) terhére a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet szerint.
+5. § (1)[^8] A rendszerirányító az igénylési határnapot követő ötödik munkanapig gondoskodik az igénylő számára az igénylési vagy a késedelmi igénylési határnapig a 4. § (2) bekezdése vagy (7) bekezdése szerinti iratokkal igazolt tárgyhavi, késedelmi vagy önellenőrzés keretében javított támogatási igénybejelentésben megjelölt támogatási összeg (a továbbiakban együtt: igazolt támogatási igények) kifizetéséről a Vet. 147. § (1) bekezdés c) pontjában meghatározott célra létrehozott pénzforgalmi számla (a továbbiakban: elkülönített számla) terhére a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet szerint.
 
 (2) A rendszerirányító a tárgyhó során az (1) bekezdéstől eltérő időpontban kifizetést kizárólag a Hivatal ellenőrzése során hozott döntése alapján teljesíthet.
 
@@ -8,19 +8,19 @@
 
 (4) A rendszerirányító – az ellenőrzés keretében történő elszámolás, valamint az igénybejelentések kifizetésének mindenkori biztosíthatósága érdekében – az elkülönített számlán az igénylési határnapon a keretösszegen felüli pénzösszegből tartalékot (a továbbiakban: tartalék) képez.
 
-(5)[^5] A rendszerirányító a kifizetést részben teljesíti (a továbbiakban: részbeni kifizetés), ha a keretösszeg nem fedezi az igazolt támogatási igények összegét. Részbeni kifizetés esetében az igazolt támogatási igényeket a rendszerirányító a keretösszeg és az igazolt támogatási igények összege arányában teljesíti.
+(5)[^9] A rendszerirányító a kifizetést részben teljesíti (a továbbiakban: részbeni kifizetés), ha a keretösszeg nem fedezi az igazolt támogatási igények összegét. Részbeni kifizetés esetében az igazolt támogatási igényeket a rendszerirányító a keretösszeg és az igazolt támogatási igények összege arányában teljesíti.
 
-(6)[^6] Ha a keretösszeg a részbeni kifizetések miatt elmaradt támogatási összegek és az adott havi igazolt támogatási igények kifizetésére nem nyújt fedezetet, a rendszerirányító a részbeni kifizetések miatt elmaradt támogatási összegeket teljes mértékben kifizeti. Az adott havi támogatási igények kifizetését a részbeni kifizetés miatt elmaradt támogatási összegekkel csökkentett keretösszeg és az adott havi igazolt támogatási igények összege arányában teljesíti.
+(6)[^10] Ha a keretösszeg a részbeni kifizetések miatt elmaradt támogatási összegek és az adott havi igazolt támogatási igények kifizetésére nem nyújt fedezetet, a rendszerirányító a részbeni kifizetések miatt elmaradt támogatási összegeket teljes mértékben kifizeti. Az adott havi támogatási igények kifizetését a részbeni kifizetés miatt elmaradt támogatási összegekkel csökkentett keretösszeg és az adott havi igazolt támogatási igények összege arányában teljesíti.
 
 (7) A tartalék terhére – az elkülönített számlán rendelkezésre álló pénzösszeg erejéig – a rendszerirányító kifizetést kizárólag akkor teljesíthet, ha
 
 a) a Hivatal ellenőrzése során megállapítja, hogy a távhőszolgáltató önhibáján kívül kevesebb támogatásban részesült, mint amelyre jogosult lett volna, vagy
 
-b)[^7] a részbeni kifizetésre az (5) vagy (6) bekezdés szerint alkalmazott arány nem haladja meg a tárgyhónapban a hetvenöt százalékot.
+b)[^11] a részbeni kifizetésre az (5) vagy (6) bekezdés szerint alkalmazott arány nem haladja meg a tárgyhónapban a hetvenöt százalékot.
 
 (8) A (7) bekezdés b) pontja szerinti esetben a tartalék kizárólag a tárgyhavi támogatási igények hetvenöt százalékáig történő kifizetése teljesítéséig szabadítható fel.
 
-[^4]: Az 5. § (1) bekezdése a 66/2011. (XI. 30.) NFM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 5. § (5) bekezdése a 66/2011. (XI. 30.) NFM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^6]: Az 5. § (6) bekezdése a 66/2011. (XI. 30.) NFM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^7]: Az 5. § (7) bekezdés b) pontja a 66/2011. (XI. 30.) NFM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^8]: Az 5. § (1) bekezdése a 66/2011. (XI. 30.) NFM rendelet 8. § (1) bekezdésével megállapított, az 59/2012. (X. 31.) NFM rendelet 13. § (2) bekezdése szerint módosított szöveg.
+[^9]: Az 5. § (5) bekezdése a 66/2011. (XI. 30.) NFM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (6) bekezdése a 66/2011. (XI. 30.) NFM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (7) bekezdés b) pontja a 66/2011. (XI. 30.) NFM rendelet 11. § (2) bekezdése szerint módosított szöveg.
