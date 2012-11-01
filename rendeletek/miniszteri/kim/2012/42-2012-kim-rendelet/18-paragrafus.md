@@ -1,14 +1,13 @@
-## 16–17. §[^10]
+## 16–17. §[^7]
 
 ## 18. § Hatályát veszti az R.
 
-a)–b)[^11]
+a)–b)[^8]
 
-c)[^12]
+c) 15. § (1) bekezdése,
 
-d)[^13]
+d)[^9]
 
-[^10]: A 16–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 18. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 18. § c) pontja a 19. § (2) bekezdése alapján 2012. november 1-jén lép hatályba.
-[^13]: A 18. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 16–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 18. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 18. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

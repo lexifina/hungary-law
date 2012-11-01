@@ -1,9 +1,8 @@
-## 14. §[^7]
+## 14. §[^5]
 
-15. § (1)[^8]
+15. § (1)[^6]
 
-(2)[^9]
+(2) Az R. 1. melléklete helyébe a 2. melléklet lép.
 
-[^7]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 15. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 15. § (2) bekezdése a 19. § (2) bekezdése alapján 2012. november 1-jén lép hatályba.
+[^5]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 15. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

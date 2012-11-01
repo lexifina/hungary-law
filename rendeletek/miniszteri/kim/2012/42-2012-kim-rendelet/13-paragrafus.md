@@ -1,0 +1,1 @@
+## „(6) Ha a jelölt a távolmaradását a (3) bekezdésben megjelölt időpontig kimenti, de újabb vizsgaidőpontra nem jelentkezik, kérelmére a vizsgadíjat – a halasztási eljárásért befizetett díj levonásával – vissza kell utalni.”
