@@ -1,4 +1,4 @@
-## 4. §[^12] A végfelhasználó a távhőszolgáltató részére a távhőszolgáltatásért a távhőszolgáltató által 2011. március 31-én alkalmazott, általános forgalmi adót nem tartalmazó díjnál 4,2 százalékkal magasabb mértékű – legmagasabb hatósági árnak minősülő – díjat köteles fizetni.
+## 4. §[^6] A Magyar Energia Hivatal (a továbbiakban: Hivatal) a Tszt. szerinti árelőkészítést a 2. melléklet szerinti módszertan alapján végzi.
 
 5. § (1) Az 1. mellékletben meghatározott értékesítő, valamint a távhőszolgáltató tárgyévi auditált éves beszámolójában szereplő, a Tszt. hatálya alá tartozó tevékenységéből származó adózás előtti eredménye nem haladhatja meg az ármegállapítás során figyelembe vett könyv szerinti bruttó eszközérték és a nyereségtényező szorzatának mértékét (a továbbiakban: nyereségkorlát).
 
@@ -14,10 +14,11 @@ c) a távhőszolgáltató esetében 2,0%.
 
 (4) Ha a Hivatal az ellenőrzés során megállapítja, hogy
 
-a) a távhőtermelő nyeresége meghaladta a nyereségkorlátot, a távhőtermelőt kötelezi arra, hogy a nyereségkorláton felüli nyereségtöbblet összegét a tőle vásárló távhőszolgáltató részére adja át,
+a)[^7] az értékesítő nyeresége meghaladta a nyereségkorlátot, az értékesítőt kötelezi arra, hogy a nyereségkorláton felüli nyereségtöbblet összegét a tőle vásárló távhőszolgáltató részére adja át,
 
 b) a távhőszolgáltató nyeresége meghaladta a nyereségkorlátot és a távhőszolgáltató az ellenőrzéssel érintett időszakban távhőszolgáltatási támogatásban részesült, a távhőszolgáltatót kötelezi arra, hogy a nyereségkorláton felüli nyereségtöbblet összegét a Vet. 147. § (1) bekezdés c) pontjában meghatározott célra létrehozott számla javára, a kapott távhőszolgáltatási támogatás erejéig fizesse be, továbbá az ezen felüli összeget a végfelhasználónak adja át,
 
 c) a távhőszolgáltató nyeresége meghaladta a nyereségkorlátot és a távhőszolgáltató az ellenőrzéssel érintett időszakban távhőszolgáltatási támogatásban nem részesült, a távhőszolgáltatót kötelezi arra, hogy a nyereségtöbblet teljes összegét a végfelhasználónak adja át.
 
-[^12]: A 4. §-a a 83/2011. (XII. 29.) NFM rendelet 20. §-ával megállapított szöveg.
+[^6]: A 4. § az 59/2012. (X. 31.) NFM rendelet 2. §-ával megállapított szöveg.
+[^7]: Az 5. § (4) bekezdés a) pontja az 59/2012. (X. 31.) NFM rendelet 3. § (2) bekezdésével megállapított szöveg.
