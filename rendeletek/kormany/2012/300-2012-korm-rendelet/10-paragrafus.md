@@ -1,0 +1,5 @@
+## 9. § Az R2. 3. és 4. §-a helyébe a következő rendelkezés lép:
+
+## „3. § A 2. mellékletben meghatározott költségvetési szervek, és a miniszternek a 12/A. § b) pontja alapján kiadott rendeletében meghatározott szervezetek számára a központi költségvetési forrásból finanszírozott, az ezen szervek és szervezetek működéséhez szükséges központosított informatikai és elektronikus hírközlési szolgáltatásokat kizárólag a központi szolgáltató nyújthatja, és e szervek és szervezetek kötelesek e szolgáltatásokat a központi szolgáltatótól igénybe venni.
+
+## 4. § A központi szolgáltató feladatát a 2. melléklet 1., valamint 2.1. pontjában meghatározott költségvetési szervek esetében a miniszterrel kötött közszolgáltatási szerződés alapján látja el, amelyben a felek rögzítik az elvárt szolgáltatások körét és a szolgáltatások elvárt szintjét, valamint az általános informatikai biztonsági követelményeket (a továbbiakban: központi szolgáltatási megállapodás). A központi szolgáltatási megállapodásban foglalt szolgáltatások ellátásának fedezetét a miniszter biztosítja.”
