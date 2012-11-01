@@ -1,1 +1,3 @@
-## 8. § A központi szolgáltató az 1. mellékletben felsorolt szolgáltatásokat – erre irányuló megállapodás alapján – a 3. §-ban meghatározott szervek körén kívül más központi államigazgatási szerv részére is nyújthatja.
+## 8. §[^7]
+
+[^7]: A 8. §-t a 300/2012. (X. 26.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.

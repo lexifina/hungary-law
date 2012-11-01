@@ -48,7 +48,7 @@
 
 ## 2.9. Központi tárolóhely, nyomtatási várakozási sorok és központi levelezési szolgáltatások üzemeltetése
 
-## 2.10. Dobozos és egyedi fejlesztésű alkalmazások üzemeltetése
+## 2.10.[^15] Dobozos és egyedi fejlesztésű alkalmazásoknak a központi vagy egyedi szolgáltatási megállapodás szerint történő üzemeltetése.
 
 ## 2.11. Egyéb alapvető informatikai és elektronikus hírközlő eszköz üzemeltetése, karbantartása
 
@@ -134,9 +134,9 @@
 
 ## 3. Egyedileg igényelt perifériákkal való ellátás (szkenner, nyomtató) raktári készletből
 
-2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^3]
+2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^16]
 
-A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő költségvetési szervek és 100%-os állami tulajdonú gazdasági társaságok
+A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő költségvetési szervek[^17]
 
 1. A Miniszterelnökség és a következő minisztériumok:
 
@@ -144,7 +144,7 @@ a) Belügyminisztérium,
 
 b) Közigazgatási és Igazságügyi Minisztérium,
 
-c) Nemzeti Erőforrás Minisztérium,
+c)[^18] Emberi Erőforrások Minisztériuma,
 
 d) Nemzeti Fejlesztési Minisztérium,
 
@@ -154,35 +154,21 @@ f) Vidékfejlesztési Minisztérium.
 
 2.1. A központi szolgáltatási megállapodás alapján igénybevételre kötelezett egyéb költségvetési szervek:
 
-a)[^4]
+a)[^19]
 
-b) Egyenlő Bánásmód Hatóság,
+b)[^20]
 
 c) Közbeszerzési és Ellátási Főigazgatóság,
 
-d)[^5]
+d)[^21]
 
-2.2. Egyedi szolgáltatási megállapodás és közvetlen finanszírozás útján igénybevételre kötelezett egyéb költségvetési szervek és 100%-os állami tulajdonú gazdasági társaságok:
+2.2.[^22]
 
-a) Nemzeti Fejlesztési Ügynökség,
-
-b) Magyar Nemzeti Digitális Archívum és Filmintézet,
-
-c) NT Nemzetközi Technológiai Nonprofit Közhasznú Kft.,
-
-d) Nemzeti Eszközkezelő Zrt.,
-
-e)[^6] Közigazgatási és Igazságügyi Hivatal,
-
-f) Nemzeti Államigazgatási Központ,
-
-g) Nemzetgazdasági Tervezési Hivatal,
-
-h) Bethlen Gábor Alapkezelő Zrt.,
-
-i) Közpolitikai Kutatások Intézete.
-
-[^3]: A 2. melléklet a 72/2012. (IV. 12.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. melléklet 2.1. pont a) pontját a 178/2012. (VII. 26.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
-[^5]: A 2. melléklet 2.1. pont d) pontját a 178/2012. (VII. 26.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
-[^6]: A 2. melléklet 2.2. pont e) alpontja a 178/2012. (VII. 26.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^15]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^16]: A 2. melléklet a 72/2012. (IV. 12.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^17]: A 2. melléklet címe a 300/2012. (X. 26.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^18]: A 2. melléklet 1. pont c) alpontja a 300/2012. (X. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^19]: A 2. melléklet 2.1. pont a) pontját a 178/2012. (VII. 26.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^20]: A 2. melléklet 2.1. pont b) alpontját a 300/2012. (X. 26.) Korm. rendelet 18. § c) pontja hatályon kívül helyezte.
+[^21]: A 2. melléklet 2.1. pont d) pontját a 178/2012. (VII. 26.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^22]: A 2. melléklet 2.2. pontját a 300/2012. (X. 26.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.
