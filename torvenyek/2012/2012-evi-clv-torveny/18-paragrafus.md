@@ -1,0 +1,1 @@
+18. § Az Országgyűlés tudomásul veszi, hogy a Magyar Köztársaság 2010. évi költségvetésének végrehajtásáról szóló 2011. évi CXXXIII. törvény 10. §-ában és 12. §-ában előírt megtérítési, visszautalási kötelezettségek teljesítése megtörtént.

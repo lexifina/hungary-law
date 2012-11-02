@@ -1,0 +1,1 @@
+7. § Az Országgyűlés jóváhagyja, hogy az államháztartásért felelős miniszter a Kincstári Egységes Számla (a továbbiakban: KESZ) folyamatos likviditása és a társadalombiztosítás pénzügyi alapjaiból teljesített kiadásokhoz vállalt állami garancia fedezetének megteremtése érdekében 279 340,2 millió forinttal csökkentette a kincstárjegyek állományát.
