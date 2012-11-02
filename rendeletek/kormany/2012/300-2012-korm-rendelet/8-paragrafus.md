@@ -1,3 +1,0 @@
-## 7. § A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet (a továbbiakban: R2.) 1. §-a helyébe a következő rendelkezés lép:
-
-## „1. § Ez a rendelet a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter (a továbbiakban: miniszter) által a Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: központi szolgáltató) útján nyújtott központosított informatikai és elektronikus hírközlési szolgáltatások körét, az ezen szolgáltatások igénybe vételére kötelezett szervek körét, továbbá azoknak az informatikai rendszereknek a körét határozza meg, amelyek üzemeltetéséről vagy fejlesztéséről a központi szolgáltató gondoskodik.”
