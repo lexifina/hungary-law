@@ -1,3 +1,3 @@
-## 210/A. §[^201] A fiatalkorú elítéltek részére – amennyiben annak feltételei biztosítottak – naponta lehetővé kell tenni a meleg vizes fürdést (zuhanyozást).
+## 210/B. §[^202] A tizenhatodik életévét be nem töltött fiatalkorú az 1. számú melléklet 4. pontjában szereplő terméket nem tarthat magánál. E rendelkezés megszegése nem alapoz meg fegyelmi vétséget, de a fogvatartottal szemben biztonsági intézkedés alkalmazható.
 
-[^201]: A 210/A. §-t a 18/2002. (XI. 30.) IM rendelet 57. §-a iktatta a szövegbe.
+[^202]: A 210/B. §-t a 46/2012. (X. 25.) KIM rendelet 1. § (2) bekezdése iktatta be.
