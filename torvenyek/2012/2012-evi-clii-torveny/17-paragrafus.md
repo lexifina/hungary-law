@@ -1,0 +1,19 @@
+17. § A Kultv. 64. §-a helyébe a következő rendelkezés lép:
+
+„64. § (1) A települési könyvtári ellátás biztosítása a települési önkormányzatok kötelező feladata.
+
+(2) Az (1) bekezdésben meghatározott feladatot a községi és a városi önkormányzat
+
+a) nyilvános könyvtár fenntartásával vagy
+
+b) a megyei könyvtár szolgáltatásainak igénybevételével teljesíti.
+
+(3) A (2) bekezdés b) pontja esetén a települési önkormányzat megállapodást köt a megyei könyvtárral, és az igénybe vett szolgáltatások fogadására alkalmas könyvtári, információs és közösségi hely elnevezésű könyvtári szolgáltató helyet működtet.
+
+(4) A fővárosban az (1) bekezdésben meghatározott feladatot Budapest Főváros Önkormányzata a kerületek könyvtári ellátását is biztosító nyilvános könyvtár fenntartásával teljesíti.
+
+(5) A megyei könyvtár és a Budapest Főváros Önkormányzata által fenntartott könyvtár nyilvános könyvtár, amely gazdálkodási besorolása szerint önállóan működő és gazdálkodó költségvetési szerv.
+
+(6) A megyeszékhely megyei jogú város – Pest megyében Szentendre Város Önkormányzata – az (1) bekezdésben foglalt feladatait megyei könyvtár fenntartásával biztosítja.
+
+(7) A megyei könyvtár vagyonkezelője a tevékenységét biztosító vagyonnak.”
