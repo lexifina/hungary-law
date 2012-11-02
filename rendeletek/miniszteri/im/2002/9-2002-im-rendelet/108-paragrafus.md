@@ -1,4 +1,4 @@
-108. §[^214] (1) Ha az elítélt a szabadságvesztés végrehajtására annak megkezdése előtt kegyelemben részesült, a bv. előadó II. jelzésű foglalkozásról eltiltásról, járművezetéstől eltiltásról, kiutasításról vagy mellékbüntetésről kiállított értesítőlapon a kegyelem tényét a kegyelmi elhatározás megjelölésével és a büntetés lejártának napjával feltünteti, és a foglalkozásról eltiltásról, járművezetéstől eltiltásról, kiutasításról vagy mellékbüntetésről kiállított értesítőlapot a 95. § (2) bekezdésében meghatározott, valamennyi érintett hatóságnak megküldi.
+108. §[^223] (1) Ha az elítélt a szabadságvesztés végrehajtására annak megkezdése előtt kegyelemben részesült, a bv. előadó II. jelzésű foglalkozásról eltiltásról, járművezetéstől eltiltásról, kiutasításról vagy mellékbüntetésről kiállított értesítőlapon a kegyelem tényét a kegyelmi elhatározás megjelölésével és a büntetés lejártának napjával feltünteti, és a foglalkozásról eltiltásról, járművezetéstől eltiltásról, kiutasításról vagy mellékbüntetésről kiállított értesítőlapot a 95. § (2) bekezdésében meghatározott, valamennyi érintett hatóságnak megküldi.
 
 (2) Ha a kegyelem a szabadságvesztés mellett más büntetést is érint, a bv. előadó a kegyelemmel érintett, II. jelzésű értesítőlapra ezt is feljegyzi.
 
@@ -10,4 +10,4 @@ b) ha más büntetés elengedésére nem került sor, de a szabadságvesztést k
 
 (4) Ha a bíróság arról értesíti a bv. csoportot, hogy a kegyelem a hatályát vesztette, a bv. előadó ennek feltüntetésével az irattárba helyezett értesítőlapot az általános szabályok szerint megküldi az érintett hatóságnak, szervnek.
 
-[^214]: A 108. § a 11/2010. (III. 31.) IRM rendelet 21. §-ával megállapított szöveg.
+[^223]: A 108. § a 11/2010. (III. 31.) IRM rendelet 21. §-ával megállapított szöveg.

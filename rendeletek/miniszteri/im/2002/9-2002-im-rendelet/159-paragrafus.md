@@ -1,6 +1,6 @@
-159. §[^313]
+159. §[^322]
 
-Melléklet a 9/2002. (IV. 9.) IM rendelet[^314]
+Melléklet a 9/2002. (IV. 9.) IM rendelet[^323]
 
 „................................................. Bíróság/Törvényszék/Ítélőtábla/Kúria
 
@@ -2274,5 +2274,5 @@ Nyilvántartólap közérdekű munkára ítéltről
 
 | 351. | A pártfogó felügyelet alá helyezettek ügykönyve. |  |
 
-[^313]: A 159. §-t és az azt megelőző alcímet a 23/2003. (VI. 26.) IM rendelet 64. § (1) bekezdésének d) pontja hatályon kívül helyezte.
-[^314]: A mellékletet a 23/2003. (VI. 26.) IM rendelet 63. §-a iktatta be, szövege a 11/2010. (III. 31.) IRM rendelet 28. §-ával megállapított, a 41/2011. (XII. 30.) KIM rendelet 29. §-a szerint módosított szöveg.
+[^322]: A 159. §-t és az azt megelőző alcímet a 23/2003. (VI. 26.) IM rendelet 64. § (1) bekezdésének d) pontja hatályon kívül helyezte.
+[^323]: A mellékletet a 23/2003. (VI. 26.) IM rendelet 63. §-a iktatta be, szövege a 11/2010. (III. 31.) IRM rendelet 28. §-ával megállapított, a 41/2011. (XII. 30.) KIM rendelet 29. §-a szerint módosított szöveg.

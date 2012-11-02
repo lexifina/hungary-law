@@ -1,5 +1,5 @@
-## 118–119. §[^232]
+## 118–119. §[^241]
 
 ## A megyei bíróságon másodfokon és a Legfelsőbb Bíróság előtt jogerőre emelkedett határozattal elrendelt pártfogó felügyelet
 
-[^232]: A 118–119. §-t a 23/2003. (VI. 26.) IM rendelet 64. § (1) bekezdésének d) pontja hatályon kívül helyezte.
+[^241]: A 118–119. §-t a 23/2003. (VI. 26.) IM rendelet 64. § (1) bekezdésének d) pontja hatályon kívül helyezte.

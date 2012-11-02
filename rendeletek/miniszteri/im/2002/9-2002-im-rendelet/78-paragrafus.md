@@ -4,10 +4,12 @@
 
 (3) Ha a felnőtt korú elítélt a pénzbüntetést a felhívásban megjelölt határidőben nem fizette meg, halasztás vagy részletfizetés engedélyezése esetén a befizetésre meghatározott határnapot, illetőleg részlet befizetését elmulasztotta, a BGH az első fokú bíróságot megkeresi a pénzbüntetés, illetőleg a pénzbüntetés meg nem fizetett része szabadságvesztésre átváltoztatása iránt. Ha annak feltételei fennállnak, és nincs a büntetés végrehajtását kizáró ok, az első fokú bíróság haladéktalanul dönt a meg nem fizetett pénzbüntetésnek szabadságvesztésre átváltoztatásáról.
 
-(4)[^153]
+(4)[^156]
 
-(5) A bíróság a pénzbüntetést helyettesítő szabadságvesztésről értesítőlapot állít ki, és azt az átváltoztató végzéssel a bv. csoportnak, az átváltoztató végzés egy kiadmányát a BGH-nak küldi meg, illetve adja át.
+(5)[^157] A bíróság a pénzbüntetést helyettesítő közérdekű munkáról, illetve szabadságvesztésről értesítőlapot állít ki, és azt az átváltoztató végzéssel a bv. csoportnak, az átváltoztató végzés egy kiadmányát a BGH-nak küldi meg, illetve adja át.
 
-(6) A szabadságvesztésről kiállított értesítőlapon fel kell tüntetni, hogy a szabadságvesztés a BGH által milyen tételszám alatt előírt pénzbüntetést helyettesít.
+(6)[^158] A közérdekű munkáról, illetve szabadságvesztésről kiállított értesítőlapon fel kell tüntetni, hogy a közérdekű munka, illetve a szabadságvesztés a BGH által milyen tételszám alatt előírt pénzbüntetést helyettesít.
 
-[^153]: A 78. § (4) bekezdését a 11/2006. (VII. 25.) IRM rendelet 34. § (3) bekezdése hatályon kívül helyezte.
+[^156]: A 78. § (4) bekezdését a 11/2006. (VII. 25.) IRM rendelet 34. § (3) bekezdése hatályon kívül helyezte.
+[^157]: A 78. § (5) bekezdése a 46/2012. (X. 25.) KIM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^158]: A 78. § (6) bekezdése a 46/2012. (X. 25.) KIM rendelet 4. § (3) bekezdésével megállapított szöveg.

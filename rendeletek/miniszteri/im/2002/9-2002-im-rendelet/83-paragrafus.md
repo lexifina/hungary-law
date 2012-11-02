@@ -4,12 +4,12 @@
 
 (2) Ha a büntetőeljárás során a terhelt akár ingó, akár ingatlan vagyonának zár alá vételét rendelték el, az (1) bekezdésben meghatározott adatokon kívül az egységes értesítőlapon a zár alá vételt elrendelő hatóság megnevezését, határozatának számát és keltét is fel kell tüntetni. Ha a zár alá vételt nem foganatosították, az egységes értesítőlapon erre a körülményre utalni kell.
 
-(3)[^157] A BGH a vagyonelkobzás előírása után az egységes értesítőlap hiteles másolata két példányának egyidejű megküldésével a vagyonelkobzás foganatosítása végett a törvényszéki bírósági végrehajtói irodát keresi meg. Az egységes értesítőlap eredeti példányát a BGH iratainál kell elhelyezni.
+(3)[^166] A BGH a vagyonelkobzás előírása után az egységes értesítőlap hiteles másolata két példányának egyidejű megküldésével a vagyonelkobzás foganatosítása végett a törvényszéki bírósági végrehajtói irodát keresi meg. Az egységes értesítőlap eredeti példányát a BGH iratainál kell elhelyezni.
 
-(4)[^158] A BGH a behajtás iránti intézkedést követően az iratokat határidős nyilvántartásba helyezi. A BGH a vagyonelkobzást a törvényszéki bírósági végrehajtói iroda által az eljárás befejezéséről küldött értesítés alapján törli a nyilvántartásból, ha a meghatározott vagyontárgyra vagy a meghatározott pénzösszegre vezetett végrehajtás eredményes volt.
+(4)[^167] A BGH a behajtás iránti intézkedést követően az iratokat határidős nyilvántartásba helyezi. A BGH a vagyonelkobzást a törvényszéki bírósági végrehajtói iroda által az eljárás befejezéséről küldött értesítés alapján törli a nyilvántartásból, ha a meghatározott vagyontárgyra vagy a meghatározott pénzösszegre vezetett végrehajtás eredményes volt.
 
-(5)[^159] A BGH a vagyonelkobzást, a törvényszéki bírósági végrehajtói irodának az eljárás befejezéséről küldött értesítése alapján, ha a vagyonelkobzást a bíróság a terhelt egész vagyonára rendelte el, vagy a meghatározott vagyontárgyra vezetett végrehajtás nem járt eredménnyel, továbbra is nyilvántartásban tartja.
+(5)[^168] A BGH a vagyonelkobzást, a törvényszéki bírósági végrehajtói irodának az eljárás befejezéséről küldött értesítése alapján, ha a vagyonelkobzást a bíróság a terhelt egész vagyonára rendelte el, vagy a meghatározott vagyontárgyra vezetett végrehajtás nem járt eredménnyel, továbbra is nyilvántartásban tartja.
 
-[^157]: A 83. § (1) bekezdése a 41/2011. (XII. 30.) KIM rendelet 28. § c) pontja szerint módosított szöveg.
-[^158]: A 83. § (4) bekezdése a 41/2011. (XII. 30.) KIM rendelet 28. § b) pontja szerint módosított szöveg.
-[^159]: A 83. § (5) bekezdése a 41/2011. (XII. 30.) KIM rendelet 28. § d) pontja szerint módosított szöveg.
+[^166]: A 83. § (1) bekezdése a 41/2011. (XII. 30.) KIM rendelet 28. § c) pontja szerint módosított szöveg.
+[^167]: A 83. § (4) bekezdése a 41/2011. (XII. 30.) KIM rendelet 28. § b) pontja szerint módosított szöveg.
+[^168]: A 83. § (5) bekezdése a 41/2011. (XII. 30.) KIM rendelet 28. § d) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 93/P. §[^206] Ha a bíróság a végleges hatállyal kiutasított elítéltet a Be. 565. §-a szerinti eljárásban mentesíti, erről a területi idegenrendészeti hatóságot határozatának jogerős kiadmányával értesíti.
+## 93/P. §[^215] Ha a bíróság a végleges hatállyal kiutasított elítéltet a Be. 565. §-a szerinti eljárásban mentesíti, erről a területi idegenrendészeti hatóságot határozatának jogerős kiadmányával értesíti.
 
-## V. Fejezet[^207]
+## V. Fejezet[^216]
 
 ## A MELLÉKBÜNTETÉSEK VÉGREHAJTÁSA
 
@@ -16,5 +16,5 @@ b) a kitiltást olyan részben felfüggesztett szabadságvesztés mellett alkalm
 
 c) a kitiltást felfüggesztett szabadságvesztés mellett alkalmazta.
 
-[^206]: A 93/P. §-t a 11/2010. (III. 31.) IRM rendelet 18. §-a iktatta be.
-[^207]: Az V. Fejezet (94–99. §) a 11/2010. (III. 31.) IRM rendelet 19. §-ával megállapított szöveg.
+[^215]: A 93/P. §-t a 11/2010. (III. 31.) IRM rendelet 18. §-a iktatta be.
+[^216]: Az V. Fejezet (94–99. §) a 11/2010. (III. 31.) IRM rendelet 19. §-ával megállapított szöveg.
