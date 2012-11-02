@@ -1,3 +1,0 @@
-19. § A Kultv. 67. §-a helyébe a következő rendelkezés lép:
-
-„67. § A tizentötezer fő feletti lakosságszámú városokban elsősorban önálló intézményben kell a nyilvános könyvtári ellátást biztosítani. A nyilvános könyvtári ellátást biztosító intézmények összevonása más intézménnyel csak szakmai vagy jelentős gazdálkodási előnyök esetében indokolt. A nyilvános könyvtárak átszervezésével kapcsolatos intézkedésekhez a miniszter véleményét előzetesen ki kell kérni.”
