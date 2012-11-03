@@ -1,47 +1,39 @@
 8. § (1) Ha e rendelet eltérően nem rendelkezik, fogyasztóvédelmi hatóságként a Kormány a területileg illetékes felügyelőséget jelöli ki.
 
-(2)[^18] A Kormány
+(2)[^19] A Kormány
 
-a) az Fgytv. 39. § (1) bekezdésében, 43/A. § (1) bekezdésének d) pontjában, valamint (3) bekezdésében, továbbá 50. §-ában,
+a) az Fgytv. 38. § (1)–(3) és (7)–(8) bekezdésében, 43/A. § (1) bekezdés d) pontjában, valamint (3) bekezdésében, 45/B. §-ában, továbbá 48. § (3) bekezdésében,
 
-b) az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 16. § k) pontjában,
+b) az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 21. § (4)–(5) bekezdésében,
 
-c)[^19] a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 76. § (4) bekezdésében,
+c) a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 56/A. § (5) bekezdésében, 72. § (3) bekezdésében, valamint 163. § (2) bekezdésében,
 
-d) a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 72. § (3) bekezdésében, valamint 163. § (2) bekezdésében,
+d) a földgázellátásról szóló 2008. évi XL. törvény 63/A. § (3) bekezdésében és 113. § (2) bekezdésében,
 
-e)[^20] a földgázellátásról szóló 2008. évi XL. törvény 113. § (2) bekezdésében,
+e) a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény 12. § (3) bekezdésében,
 
-f) a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény 12. § (3) bekezdésében
+f) a pálinkáról, a törkölypálinkáról és a Pálinka Nemzeti Tanácsról szóló 2008. évi LXXIII. törvény 12. § o) pontjában,
 
-## fogyasztóvédelmi hatóságként az NFH-t jelöli ki.
+g) a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 111. § (2) bekezdés m) pontjában
 
-(3)[^21] A Kormány
+foglaltak tekintetében fogyasztóvédelmi hatóságként az NFH-t jelöli ki.
 
-a) az Fgytv. 17. § (5) bekezdésében, 43/A. § (1) bekezdésének a)–c) és e)–k) pontjában, valamint (2) és (4) bekezdésében, 47. § (6) és (7) bekezdésében, továbbá 48. § (3) bekezdésében,
+(3)[^20] A Kormány
 
-b) a gazdasági kamarákról szóló 1999. évi CXXI. törvény 10. § (1) bekezdésének f) pontjában,
+a) az Fgytv. 17. § (5) bekezdésében, 43/A. § (1) bekezdés a)–c) és e)–k) pontjában, valamint (2) és (4) bekezdésében, továbbá 47. § (6) és (7) bekezdésében,
 
-c)[^22]
+b) a gazdasági kamarákról szóló 1999. évi CXXI. törvény 10. § (1) bekezdés f) pontjában,
 
-d) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 10. számú melléklete A) pontjának 11. alpontjában,
+c) az Eht. 21. § (1)–(3) bekezdésében,
 
-e) az Eht. 21. §-ának (1)–(5) bekezdésében, valamint 42. § (2) bekezdésének c) pontjában,
+d) a távhőszolgáltatásról szóló 2005. évi XVIII. törvény 3. § v) pontjában, 4. § (1) bekezdés b) pontjában, 7. § (1) bekezdés a) pontjában, 9. §-ában, 10. § a) pontjában, 11. § (1) bekezdésében, valamint 18. § e) pontjában,
 
-f) a távhőszolgáltatásról szóló 2005. évi XVIII. törvény 4. § (1) bekezdésének b) pontjában, 6. § (2) bekezdésének b) pontjában, 9. §-ában, 10. § a) pontjában, 11. § (1) bekezdésében, valamint 18. § e) pontjában,
+e) a Vet. 163. § (1) bekezdésében és (3) bekezdés b) pontjában
 
-g)[^23]
+foglaltak tekintetében fogyasztóvédelmi hatóságként az NFH-t és a felügyelőségeket jelöli ki.
 
-h) a Vet. 163. §-át megelőző alcímben, 163. § (1) bekezdésében és (3) bekezdésének b) pontjában
+(4)[^21] A közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény 16. §-a (6) bekezdésének g) pontja szerinti esetben a vámtitokról az eljárásra illetékes felügyelőséget az NFH útján kell tájékoztatni.
 
-## fogyasztóvédelmi hatóságként az NFH-t és a felügyelőségeket jelöli ki.
-
-(4)[^24] A közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény 16. §-a (6) bekezdésének g) pontja szerinti esetben a vámtitokról az eljárásra illetékes felügyelőséget az NFH útján kell tájékoztatni.
-
-[^18]: A 8. § (2) bekezdése a 214/2008. (VIII. 29.) Korm. rendelet 2. §-ával megállapított szöveg. A 8. § (2) bekezdés záró szövegrésze a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^19]: A 8. § (2) bekezdés c) pontja a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés i) pontja szerint módosított szöveg.
-[^20]: A 8. § (2) bekezdésének e) pontja a 214/2008. (VIII. 29.) Korm. rendelet 4. § (2) bekezdése alapján 2009. július 1-jén lépett hatályba.
-[^21]: A 8. § (3) bekezdése a 214/2008. (VIII. 29.) Korm. rendelet 2. §-ával megállapított szöveg. A 8. § (3) bekezdés záró szövegrésze a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^22]: A 8. § (3) bekezdés c) pontját a 214/2008. (VIII. 30.) Korm. rendelet – 340/2008. (XII. 30.) Korm. rendelet 23. §-ával beiktatott – 5. § (3) bekezdése hatályon kívül helyezte.
-[^23]: A 8. § (3) bekezdés g) pontját a 341/2008. (XII. 30.) Korm. rendelet 21. § (3) bekezdés c) pontja hatályon kívül helyezte.
-[^24]: A 8. § (4) bekezdése a 214/2008. (VIII. 29.) Korm. rendelet 6. § (2) bekezdés b) pontja, a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^19]: A 8. § (2) bekezdése a 306/2012. (X. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^20]: A 8. § (3) bekezdése a 306/2012. (X. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^21]: A 8. § (4) bekezdése a 214/2008. (VIII. 29.) Korm. rendelet 6. § (2) bekezdés b) pontja, a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
