@@ -1,3 +1,5 @@
 3. § (1) Ez a rendelet a kihirdetését követő ötödik napon lép hatályba.
 
-(2) Hatályát veszti a fogyasztóvédelmi hatóság által kiszabott egyes bírságok felhasználásáról szóló 339/2010. (XII. 28.) Korm. rendelet.
+(2)[^1]
+
+[^1]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
