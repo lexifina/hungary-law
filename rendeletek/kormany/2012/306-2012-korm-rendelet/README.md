@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-306-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-11-03 | 2012-306-20-22.1 | 306/2012. (X. 29.) Korm. rendelet |
+| 2012-11-04 | 2012-306-20-22.2 | 2010: CXXX. törvény |
