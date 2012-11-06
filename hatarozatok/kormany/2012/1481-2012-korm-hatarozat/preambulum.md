@@ -1,0 +1,1 @@
+A Kormány – annak érdekében, hogy egyes, az állam működése szempontjából kiemelt fontosságú informatikai rendszerek működtetése, illetve folyamatos fejlesztése a jelenleginél költséghatékonyabb, ugyanakkor magasabb biztonsági szintű legyen –
