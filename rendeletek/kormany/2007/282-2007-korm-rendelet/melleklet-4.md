@@ -114,9 +114,9 @@ Szakvélemény adására feljogosított szervek
 
 |  | b) mozgókép-terjesztés, állagvédelem | Magyar Nemzeti Filmarchívum |
 
-|  | 4. Műemlékvédelemmel összefüggő szakkérdések | Kulturális Örökségvédelmi Hivatal Budapesti Műszaki és Gazdaságtudományi Egyetem |
+|  | 4. Műemlékvédelemmel összefüggő szakkérdések | Budapest Főváros Kormányhivatala műemlékvédelmi és régészeti örökségvédelmi szakigazgatási neve, Forster Gyula Nemzeti Örökséggazdálkodási Szolgáltatási Központ Budapesti Műszaki és Gazdaságtudományi Egyetem |
 
-|  | 5. Régészeti lelőhelyekkel összefüggő szakkérdések | Kulturális Örökségvédelmi Hivatal Magyar Nemzeti Múzeum |
+|  | 5. Régészeti lelőhelyekkel összefüggő szakkérdések | Budapest Főváros Kormányhivatala műemlékvédelmi és régészeti örökségvédelmi szakigazgatási neve, Forster Gyula Nemzeti Örökséggazdálkodási Szolgáltatási Központ Magyar Nemzeti Múzeum |
 
 | 6. | Foglalkozási megbetegedés vizsgálata, foglalkozási eredet véleményezése | Nemzeti Munkaügyi Hivatal Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
@@ -128,4 +128,4 @@ Szakvélemény adására feljogosított szervek
 
 |  |  | Környezetvédelmi és Vízgazdálkodási Tudományos Kutató Intézet Közhasznú Társaság (VITUKI Kht.) |
 
-[^9]: A 4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 123. §-a, a 250/2011. (XII. 1.) Korm. rendelet 1. §-a, a 259/2011. (XII. 7.) Korm. rendelet 19. §-a, a 300/2011. (XII. 22.) Korm. rendelet 15. §-a, a 324/2011. (XII. 28.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^9]: A 4. számú melléklet a 273/2010. (XII. 9.) Korm. rendelet 123. §-a, a 250/2011. (XII. 1.) Korm. rendelet 1. §-a, a 259/2011. (XII. 7.) Korm. rendelet 19. §-a, a 300/2011. (XII. 22.) Korm. rendelet 15. §-a, a 324/2011. (XII. 28.) Korm. rendelet 13. §-a, a 310/2012. (XI. 6.) Korm. rendelet 17. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 11. §-a szerint a folyamatban lévő ügyekben is alkalmazni kell.
