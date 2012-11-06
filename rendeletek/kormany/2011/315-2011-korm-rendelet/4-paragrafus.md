@@ -8,13 +8,13 @@ c) az illetékességgel rendelkező és feladatkörükben a kiemelkedő egyeteme
 
 ca) központi államigazgatási szerv területi szerve, valamint
 
-cb) fővárosi és megyei kormányhivatal szakigazgatási szerve, továbbá
+cb)[^5] fővárosi és megyei kormányhivatal, továbbá
 
 d) a világörökségi területen működő világörökségi gondnokság,
 
 e) amennyiben a helyszín egy vagy több eleme a Magyar Állam tulajdonában van, és nem tartozik a Nemzeti Földalapról szóló törvény hatálya alá, a Magyar Nemzeti Vagyonkezelő Zrt.
 
-## részére, és közzéteszi azt az elektronikus kormányzati portálon.
+részére, és közzéteszi azt az elektronikus kormányzati portálon.
 
 (2) A kezelési terv tervezetéről – annak kézhezvételét követő 15 napon belül – jogosultak írásban véleményt nyilvánítani az (1) bekezdésben meghatározott szervek és személyek.
 
@@ -28,7 +28,7 @@ a) a kezelési terv készítőjét,
 
 b) a világörökségi testület elnökét,
 
-c) a kulturális örökségvédelmi feladatokat ellátó központi hivatal elnökét,
+c)[^6] a Központ elnökét,
 
 d) amennyiben táj- és természetvédelmet, ökoturizmust és környezeti nevelést érintően vitás kérdés maradt fenn, a működési területével érintett nemzeti park igazgatóját, valamint
 
@@ -39,3 +39,6 @@ e) az (1) bekezdésben meghatározott személyeket, szervek képviselőjét.
 (7) Amennyiben a tárgyaláson vitás kérdés marad fenn, arról a miniszter dönt. Az egyeztetés a miniszter döntésével zárul.
 
 (8) A kezelési terv készítője az egyeztetés eredményének, a miniszter (7) bekezdés szerinti döntésének, továbbá 5. § (6) bekezdése szerinti javaslatának figyelembevételével módosított kezelési tervet az egyeztetés, valamint az egyeztető tárgyalás lezárását követő 15 napon belül megküldi a miniszternek.
+
+[^5]: A 4. § (1) bekezdés c) pont cb) alpontja a 310/2012. (XI. 6.) Korm. rendelet 19. § (4) bekezdés b) pontja szerint módosított szöveg, e módosító rendelet 11. §-a alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^6]: A 4. § (5) bekezdés c) pontja a 310/2012. (XI. 6.) Korm. rendelet 19. § (4) bekezdés c) pontja szerint módosított szöveg, e módosító rendelet 11. §-a alapján a folyamatban lévő ügyekben is alkalmazni kell.

@@ -1,5 +1,7 @@
 2. § (1) A miniszter a megalapozó dokumentáció és a kezelési terv elkészítésére jogi személlyel vagy jogi személyiséggel nem rendelkező gazdasági társasággal (a továbbiakban együtt: a kezelési terv készítője) köthet vállalkozási szerződést.
 
+(1a)[^3] A miniszter és a kezelési terv készítője közötti kapcsolattartás a Központon keresztül történik.
+
 (2) A megalapozó dokumentáció és a kezelési terv elkészítésére a kezelési terv készítőjével akkor köthető vállalkozási szerződés, ha annak tagja vagy vele munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban álló más személy megfelel a (3) bekezdésben meghatározott feltételeknek, és ez a tag, személy részt vesz a megalapozó dokumentáció és a kezelési terv elkészítésében.
 
 (3) A (2) bekezdés szerinti tagnak vagy személynek rendelkeznie kell legalább 5 év szakmai gyakorlattal és az alábbiak közül az adott világörökségi helyszín kiemelkedő egyetemes értékének megőrzése szempontjából megfelelő szakképzettséggel:
@@ -38,7 +40,7 @@ n) az a)–m) pontokban meghatározott szakképzettséggel egyenértékű szakir
 
 (6) A kezelési terv készítője a megalapozó dokumentáció és a kezelési terv elkészítésébe bevonja
 
-a) a kulturális örökségvédelmi feladatokat ellátó központi hivatalt,
+a)[^4] az illetékes fővárosi és megyei kormányhivatalt,
 
 b) táj- és természetvédelmet, ökoturizmust és környezeti nevelést érintő kérdésekben a működési területével érintett nemzeti park igazgatóságot,
 
@@ -55,3 +57,6 @@ g) az illetékes önkormányzati és állami főépítészeket.
 (7) Az (6) bekezdésben meghatározott szervek és személyek együttműködnek a kezelési terv készítőjével.
 
 (8) A megalapozó dokumentáció és a kezelési terv elkészítése során a kezelési terv készítője együttműködik a világörökségi területen működő, világörökségi gondnoksággal.
+
+[^3]: A 2. § (1a) bekezdését a 310/2012. (XI. 6.) Korm. rendelet 19. § (2) bekezdése iktatta be, e módosító rendelet 11. §-a alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^4]: A 2. § (6) bekezdés a) pontja a 310/2012. (XI. 6.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján a folyamatban lévő ügyekben is alkalmazni kell.
