@@ -32,4 +32,6 @@ d) vagyonkezelői jog,
 
 e) jelzálogjog
 
+jogosultjait.
+
 [^78]: A 45. § (1) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 21. §-ával megállapított szöveg.

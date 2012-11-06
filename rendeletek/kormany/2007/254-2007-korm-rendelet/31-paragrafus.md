@@ -1,0 +1,3 @@
+31. §[^67]
+
+[^67]: A 31. §-t a 262/2010. (XI. 17.) Korm. rendelet 54. § b) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.
