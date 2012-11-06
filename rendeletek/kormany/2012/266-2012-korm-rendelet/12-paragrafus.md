@@ -8,7 +8,7 @@ b) szakhatósági állásfoglalás kiadása, amennyiben az ügy védetté nyilv�
 
 c) védetté nyilvánított régészeti lelőhelyet érintő településrendezési eszközök véleményezése
 
-## esetén.
+esetén.
 
 (3) A miniszter által vezetett minisztérium szakértő testületként működteti a Műemléki Tanácsadó Testületet, amely a műemlékekkel kapcsolatos hatósági, szakhatósági, illetve egyéb szakmai döntések előkészítésében segíti az Iroda és a fővárosi és megyei kormányhivatal munkáját.
 

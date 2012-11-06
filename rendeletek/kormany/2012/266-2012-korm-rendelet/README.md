@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-266-20-
 | --- | --- | --- |
 | 2012-09-21 | 2012-266-20-22.1 | 266/2012. (IX. 18.) Korm. rendelet |
 | 2012-09-22 | 2012-266-20-22.2 | 2010: CXXX. törvény |
+| 2012-11-06 | 2012-266-20-22.3 | 310/2012. (XI. 6.) Korm. rendelet |

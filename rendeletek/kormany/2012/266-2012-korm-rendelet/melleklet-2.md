@@ -156,6 +156,6 @@
 
 ## 8.2. a történetileg igazoltan összetartozó ingatlanok, ingatlanrészek újra-egyesítésétől eltekintve műemléki ingatlannak más (védett vagy nem védett) ingatlannal történő összevonásához, egyesítéséhez (illetve ezt eredményező telek-határrendezéshez, korrekcióhoz) hozzájárulás kivételesen, abban az esetben adható, ha az az örökségvédelem érdekét is szolgálja.
 
-2. melléklet a 266/2012. (IX. 18.) Korm. rendelethez[^2]
+2. melléklet a 266/2012. (IX. 18.) Korm. rendelethez[^31]
 
-[^2]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

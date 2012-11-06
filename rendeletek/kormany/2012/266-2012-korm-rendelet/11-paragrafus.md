@@ -14,7 +14,7 @@ bd) Natura 2000 területen
 
 végzik – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, valamint a tájvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget
 
-## szakhatóságként jelöli ki.
+szakhatóságként jelöli ki.
 
 (2) A Kormány a fővárosi és megyei kormányhivatalnak és az Irodának a 7. § (1) bekezdés 12. pont a) alpontjában, valamint a 7. § (1) bekezdés 15. pontjában meghatározott tevékenység engedélyezése iránti eljárásában – abban a kérdésben, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, valamint a tájvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
 

@@ -20,4 +20,6 @@
 
 (10) A Kulturális Örökségvédelmi Hivatal elnevezése Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központra változik, és ellátja az e rendeletben a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központnak meghatározott feladatait.
 
-(11) Ahol jogszabály Kulturális Örökségvédelmi Hivatalt említ, azon Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központot kell érteni e rendeletben meghatározott, e rendelet hatálybalépését megelőzően a Kulturális Örökségvédelmi Hivatal által ellátott feladat- és hatáskörök tekintetében.
+(11)[^25] Ahol jogszabály Kulturális Örökségvédelmi Hivatalt említ, azon a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ Műtárgyfelügyeleti Irodáját kell érteni e rendeletben meghatározott, e rendelet hatálybalépését megelőzően a Kulturális Örökségvédelmi Hivatal Műtárgyfelügyeleti Irodája által ellátott feladat- és hatáskörök tekintetében.
+
+[^25]: A 19. § (11) bekezdése a 310/2012. (XI. 6.) Korm. rendelet 20. § (4) bekezdésével megállapított szöveg. E módosító rendelet 11. § alapján a folyamatban levő ügyekben is alkalmazni kell.

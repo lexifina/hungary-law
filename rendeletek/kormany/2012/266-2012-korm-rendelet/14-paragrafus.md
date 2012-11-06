@@ -1,5 +1,3 @@
-## 13. § A Központ szakértő testületként működteti a Kulturális Javak Bizottságát, amely a kulturális javakkal kapcsolatos hatósági, illetve egyéb szakmai döntések előkészítésében segíti a Központ munkáját.
-
 14. § (1) A fővárosi és megyei kormányhivatal köteles tudományos adatszolgáltatást kérni az Irodától az alábbi tevékenységekre kiterjedő tervek engedélyezésére irányuló örökségvédelmi eljárás, illetve szakhatósági közreműködés, továbbá véleményezés esetén:
 
 a) az épület egészére, helyiségeinek, homlokzatainak, szerkezeteinek, vagy alkotórészeinek jelentős részére kiterjedő beavatkozás esetén;

@@ -1,4 +1,4 @@
-7. § (1) A Kormány a Kötv.-ben meghatározott alábbi kulturális örökségvédelmi feladatok ellátására első fokú kulturális örökségvédelmi hatóságként a fővárosi és megyei kormányhivatalt jelöli ki:
+7. § (1)[^10] A Kormány a Kötv.-ben meghatározott alábbi kulturális örökségvédelmi feladatok ellátására első fokú régészeti és műemlékvédelmi kulturális örökségvédelmi hatóságként a fővárosi és megyei kormányhivatalt jelöli ki:
 
 1. a Kötv. 17. §-a szerinti, régészeti lelőhely ideiglenes védelmével kapcsolatos hatósági feladatok;
 
@@ -10,7 +10,7 @@
 
 5. a Kötv. 31. §-a szerinti, műemléki érték ideiglenes védelmével kapcsolatos hatósági feladatok;
 
-6. a Kötv. 44. §-a szerinti hatósági jóváhagyás;
+6.[^11]
 
 7. a kulturális javak kivételével a Kötv. 67. § (1)–(2) bekezdése szerinti hatósági kötelezés;
 
@@ -68,7 +68,7 @@ b) a műemlék tartozékát (alkotórészét) képező műemlékként védett k�
 
 17. a Kötv. 63. § (3) bekezdése alapján a műemlék funkciójának, használati módjának megváltoztatására irányuló, építésügyi hatósági vagy más hatósági engedélyhez nem kötött tevékenység engedélyezése;
 
-18. a Kötv. 63. § (3) bekezdése alapján a műemlékekkel és a védetté nyilvánított kulturális javakkal kapcsolatos, építésügyi hatósági vagy más hatósági engedélyhez nem kötött megóvási (konzerválási), restaurálási vagy átalakítási munkák engedélyezése;
+18.[^12] a Kötv. 63. § (3) bekezdése alapján a műemlékekkel kapcsolatos, építésügyi hatósági vagy más hatósági engedélyhez nem kötött megóvási (konzerválási), restaurálási vagy átalakítási munkák engedélyezése;
 
 19. a Kötv. 63. § (3) bekezdése alapján a műemlék jellegét és megjelenését befolyásoló fényforrás építésügyi hatósági vagy más hatósági engedélyhez nem kötött elhelyezésének, illetve üzemeltetésének engedélyezése.
 
@@ -76,10 +76,15 @@ b) a műemlék tartozékát (alkotórészét) képező műemlékként védett k�
 
 a) a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvény 27. §-ában és 28. §-ában foglalt feladatok ellátására,
 
-b) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 45/A. § -ában foglalt hatósági feladatok ellátására
+b)[^13]
 
 a fővárosi és megyei kormányhivatalt jelöli ki.
 
 (3) A fővárosi és megyei kormányhivatal illetékességét valamely ügyben a kulturális örökségi elem fekvése, illetve őrzési (feltalálási helye) határozza meg.
 
 (4) A hatáskörébe tartozó ügyben mind az Iroda, mind a fővárosi és megyei kormányhivatal jogosult előzetes nyilatkozatot kiadni.
+
+[^10]: A 7. § (1) bekezdés nyitó szövegrésze a 310/2012. (XI. 6.) Korm. rendelet 20. § (5) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 11. § alapján a folyamatban levő ügyekben is alkalmazni kell.
+[^11]: A 7. § (1) bekezdés 6. pontját a 310/2012. (XI. 6.) Korm. rendelet 20. § (6) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
+[^12]: A 7. § (1) bekezdés 18. pontja a 310/2012. (XI. 6.) Korm. rendelet 20. § (6) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
+[^13]: A 7. § (2) bekezdés b) pontját a 310/2012. (XI. 6.) Korm. rendelet 20. § (6) bekezdés e) pontja hatályon kívül helyezte. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
