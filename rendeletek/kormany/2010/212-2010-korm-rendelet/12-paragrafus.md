@@ -42,6 +42,8 @@ s)–t)[^54]
 
 u)[^55] áldozatsegítésért
 
+felelős tagja.
+
 [^50]: A 12. § a 267/2010. (XII. 3.) Korm. rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^51]: A 12. § b) pontja a 174/2012. (VII. 26.) Korm. rendelet 74. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^52]: A 12. § h)–i) pontját a 94/2012. (V. 11.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.

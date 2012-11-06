@@ -2,18 +2,18 @@
 
 a) előkészíti különösen az állami vagyonról, az állami vagyonnal való gazdálkodásról szóló, valamint a közbeszerzésekre vonatkozó jogszabályokat, továbbá e tárgykörökben törvény vagy kormányrendelet felhatalmazása alapján miniszteri rendeleteket ad ki,
 
-b)[^345] vizsgálja és ellenőrzi a privatizációs, koncessziós, PPP és egyéb állami vagyont érintő gazdálkodó szervezetekkel kötött és megkötendő szerződéseket,
+b)[^356] vizsgálja és ellenőrzi a privatizációs, koncessziós, PPP és egyéb állami vagyont érintő gazdálkodó szervezetekkel kötött és megkötendő szerződéseket,
 
 c) alakítja és végrehajtja a Kormány vagyongazdálkodási és közbeszerzési politikáját,
 
 d) irányítja és koordinálja az állami szervek, a központi közigazgatási szervek és az egyéb jogi személyek közbeszerzéseit,
 
-e)[^346] irányítja a Központi Szolgáltatási Főigazgatóság tevékenységét,
+e)[^357] irányítja a Központi Szolgáltatási Főigazgatóság tevékenységét,
 
 f) gondoskodik a sportlétesítményekkel (sportingatlanokkal) kapcsolatos fejlesztési, rekonstrukciós programokról, valamint az üzemeltetési, működtetési feladatokról,
 
-g)[^347] gondoskodik a PPP beruházás keretében megvalósult és folyamatban lévő oktatási, kulturális, infrastrukturális és sportlétesítményekkel összefüggő fejlesztési feladatokról, továbbá e PPP szerződésekben meghatározott, a Magyar Államot érintő jogokból és kötelezettségekből fakadó feladatokról, valamint e PPP projektek és szerződések kezeléséről, e feladata körében együttműködik a fejlesztések tartalmáért szakmailag felelős miniszterrel.
+g)[^358] gondoskodik a PPP beruházás keretében megvalósult és folyamatban lévő oktatási, kulturális, infrastrukturális és sportlétesítményekkel összefüggő fejlesztési feladatokról, továbbá e PPP szerződésekben meghatározott, a Magyar Államot érintő jogokból és kötelezettségekből fakadó feladatokról, valamint e PPP projektek és szerződések kezeléséről, e feladata körében együttműködik a fejlesztések tartalmáért szakmailag felelős miniszterrel.
 
-[^345]: A 87. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (56) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^346]: A 87. § e) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (56) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^347]: A 87. § g) pontját a 267/2010. (XII. 3.) Korm. rendelet 28. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^356]: A 87. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (56) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^357]: A 87. § e) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (56) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^358]: A 87. § g) pontját a 267/2010. (XII. 3.) Korm. rendelet 28. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.

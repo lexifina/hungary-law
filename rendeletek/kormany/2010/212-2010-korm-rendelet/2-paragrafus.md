@@ -14,7 +14,7 @@ c) e-közigazgatásért és
 
 d) közigazgatás-fejlesztésért
 
-## felelős tagja.
+felelős tagja.
 
 (2) A miniszter a kormányzati tevékenység összehangolásáért való felelőssége körében előkészíti különösen
 

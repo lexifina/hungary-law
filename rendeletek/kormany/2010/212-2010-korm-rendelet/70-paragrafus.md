@@ -1,4 +1,4 @@
-## 70. §[^239] A miniszter a gyermek- és ifjúságpolitikáért való felelőssége körében
+## 70. §[^250] A miniszter a gyermek- és ifjúságpolitikáért való felelőssége körében
 
 a) figyelemmel kíséri a gyermeki jogok érvényesülését, ennek érdekében kidolgozza és működteti az ezt vizsgáló utókövetés és értékelés rendszerét,
 
@@ -18,4 +18,4 @@ h) a Kormány nevében ellátja a Gyermek jogairól szóló, New Yorkban, 1989. 
 
 i) meghatározza a gyermek- és ifjúságpolitikához tartozó területek szakmai felügyeleti rendszerét és az e területekhez tartozó tevékenységek gyakorlásához szükséges képesítési rendszert és követelményeket.
 
-[^239]: A 70. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (45) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^250]: A 70. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (45) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.

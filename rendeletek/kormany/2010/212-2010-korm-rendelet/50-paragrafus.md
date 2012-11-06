@@ -10,8 +10,8 @@ d) az új média kérdések szabályozásáról,
 
 e) a kultúra finanszírozásáról és
 
-f)[^181]
+f)[^186] a kulturális javakról
 
 szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki.
 
-[^181]: Az 50. § f) pontját a 266/2012. (IX. 18.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.
+[^186]: Az 50. § f) pontját a 266/2012. (IX. 18.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte, újonnan a 310/2012. (XI. 6.) Korm. rendelet 18. § (3) bekezdése iktatta be. Ez utóbbi módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
