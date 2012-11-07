@@ -1,0 +1,1 @@
+A Kormány a nemzetközi vasúti forgalom interoperabilitásának biztosítását, a közlekedés biztonságának növelését – valamint az Európai Unió nemzetközi tranzitra vonatkozó szabványainak teljesítését, a közlekedési módok arányának javítását, a hatékonyság növelését és a környezeti ártalmak csökkentését – szolgáló GSM-R rendszer megvalósítása érdekében
