@@ -2,7 +2,7 @@
 
 ## 129. §
 
-(1)[^277] A Kormány vagy a képviselők legalább egyötödének írásbeli indítványára – az indítványban megjelölt átfogó politikai témakörben – az Országgyűlés vitát tart. Ilyen indítványt kizárólag a rendes ülésszakon lehet benyújtani és tárgyalni. Minden képviselő ülésszakonként legfeljebb két politikai vita tartására irányuló indítványt támogathat.
+(1)[^279] A Kormány vagy a képviselők legalább egyötödének írásbeli indítványára – az indítványban megjelölt átfogó politikai témakörben – az Országgyűlés vitát tart. Ilyen indítványt kizárólag a rendes ülésszakon lehet benyújtani és tárgyalni. Minden képviselő ülésszakonként legfeljebb két politikai vita tartására irányuló indítványt támogathat.
 
 (2) A politikai vitát az Országgyűlés az indítvány benyújtásától számított tizennégy napon túl és huszonnyolc napon belül tartja meg.
 
@@ -14,4 +14,4 @@
 
 (3) A mentelmi jog felfüggesztése tárgyában hozott döntéshez a jelen lévő képviselők kétharmadának szavazata szükséges.
 
-[^277]: A 129. § (1) bekezdése a 71/1997. (VII. 17.) OGY határozat 44. §-ával megállapított szöveg.
+[^279]: A 129. § (1) bekezdése a 71/1997. (VII. 17.) OGY határozat 44. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-## Az összeférhetetlenségi ügyek intézése[^286]
+## Az összeférhetetlenségi ügyek intézése[^288]
 
-## 131/A. §[^287]
+## 131/A. §[^289]
 
 (1) Az országgyűlési képviselők összeférhetetlenségi ügyeinek intézése során az általános házszabályi rendelkezéseket a 131/A–131/D. §-okban foglalt eltérésekkel kell alkalmazni.
 
@@ -34,5 +34,5 @@ haladéktalanul átadja megvizsgálásra a Mentelmi bizottságnak, és erről �
 
 (11) Azokban az esetekben, amelyekben törvény szerint az összeférhetetlenséget nem lehet kimondani, a határozati javaslat csak az összeférhetetlenség megállapítására irányulhat. Az eljárásra a 131/B. § (1)–(4) bekezdéseit, valamint a 131/C. §-t kell megfelelően alkalmazni.
 
-[^286]: Az alcímet a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta a szövegbe.
-[^287]: A 131/A. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta be, szövege a 36/2012. (IV. 19.) OGY határozat 55. §-ával megállapított szöveg, alkalmazására lásd ez utóbbi módosító határozat 75. § (4) bekezdését.
+[^288]: Az alcímet a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta a szövegbe.
+[^289]: A 131/A. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta be, szövege a 36/2012. (IV. 19.) OGY határozat 55. §-ával megállapított szöveg, alkalmazására lásd ez utóbbi módosító határozat 75. § (4) bekezdését.

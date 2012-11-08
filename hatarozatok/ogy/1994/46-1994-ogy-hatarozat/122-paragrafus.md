@@ -1,8 +1,8 @@
-## 121/C. §[^256]
+## 121/D. §[^258]
 
-## A központi költségvetésről szóló törvényjavaslat és a 120. § (1) bekezdés b) pontja szerinti törvényjavaslat zárószavazását kizárólag a Költségvetési Tanács előzetes hozzájárulásának megadására előírt határidő elteltét követő ülés napirendjére lehet felvenni.
+## A Gst. 25/A. § (7) bekezdésben meghatározott zárószavazás előtti módosító javaslat benyújtása esetén a 121/B. § és 121/C.§-t megfelelően kell alkalmazni.
 
-## Az Országgyűlés feladat- és hatáskörébe tartozó nemzetközi szerződésekre vonatkozó eljárás[^257]
+## Az Országgyűlés feladat- és hatáskörébe tartozó nemzetközi szerződésekre vonatkozó eljárás[^259]
 
-[^256]: A 121/C. §-t a 36/2012. (IV. 19.) OGY határozat 49. §-a iktatta be, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
-[^257]: A 122. §-t megelőző alcím a 36/2012. (IV. 19.) OGY határozat 50. § (1) bekezdésével megállapított szöveg.
+[^258]: A 121/D. §-t a 73/2012. (XI. 7.) OGY határozat 2. §-a iktatta be.
+[^259]: A 122. §-t megelőző alcím a 36/2012. (IV. 19.) OGY határozat 50. § (1) bekezdésével megállapított szöveg.

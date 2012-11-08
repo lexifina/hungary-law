@@ -1,6 +1,6 @@
 ## Az Országgyűlés és a Kormány közötti egyeztetési eljárás
 
-## 134/B. §[^302]
+## 134/B. §[^304]
 
 (1) Az európai uniós tervezetek országgyűlési tárgyalása az állandó bizottságok feladata. A Kormány álláspontjavaslatával kapcsolatos állásfoglalás kialakítása az európai uniós ügyekkel foglalkozó bizottság hatáskörébe tartozik.
 
@@ -24,4 +24,4 @@
 
 (11) Az európai uniós tervezetre vonatkozó egyeztetési eljárás lezárására irányuló országgyűlési döntést az európai uniós ügyekkel foglalkozó bizottság hozza meg.
 
-[^302]: A 134/B. § a 36/2012. (IV. 19.) OGY határozat 60. §-ával megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^304]: A 134/B. § a 36/2012. (IV. 19.) OGY határozat 60. §-ával megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.

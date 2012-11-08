@@ -2,7 +2,7 @@
 
 ## 121/A. §[^254]
 
-(1) A központi költségvetésről szóló törvényjavaslat tárgyalása során a központi költségvetés egyenlegére és a központi költségvetésről szóló törvényjavaslat költségvetési fejezeteinek bevételi és kiadási főösszegére kizárólag a Költségvetési bizottság nyújthat be módosító javaslatot.
+(1)[^255] A központi költségvetésről szóló törvényjavaslat tárgyalása során a központi költségvetés egyenlegére és a központi költségvetésről szóló törvényjavaslat költségvetési fejezeteinek bevételi és kiadási főösszegére – a Gst. 25/A. § (1), (5) vagy (7) bekezdése szerinti, a Kormány által benyújtott zárószavazás előtti módosító javaslat kivételével – kizárólag a Költségvetési bizottság nyújthat be módosító javaslatot.
 
 (2) A Költségvetési bizottság a részletes vitát előkészítő ajánlásának és kiegészítő ajánlásának I. részében azokat a módosító javaslatokat és bizottsági állásfoglalásokat teszi közzé, amelyek a központi költségvetés egyenlegét és a központi költségvetésről szóló törvényjavaslat költségvetési fejezeteinek bevételi és kiadási főösszegét érintik. Az ezen összegeket nem érintő módosító javaslatokat – azok szövegszerű ismertetése nélkül – az ajánlások II. részében kell feltüntetni.
 
@@ -15,3 +15,4 @@
 (6) A központi költségvetésről szóló törvényjavaslat költségvetési fejezeteinek bevételi előirányzataival és kiadási előirányzataival és az azok közötti előirányzat-átcsoportosítással kapcsolatosan elfogadott módosító javaslatok számszaki átvezetését az egységes javaslat tartalmazza.
 
 [^254]: A 121/A. §-t a 36/2012. (IV. 19.) OGY határozat 49. §-a iktatta be, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^255]: A 121/A. § (1) bekezdése a 73/2012. (XI. 7.) OGY határozat 1. §-ával megállapított szöveg.
