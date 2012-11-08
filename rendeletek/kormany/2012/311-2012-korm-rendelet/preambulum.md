@@ -1,0 +1,1 @@
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a 34. § tekintetében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 3. pont a) alpontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében megállapított feladatkörében eljárva, a következőket rendeli el:
