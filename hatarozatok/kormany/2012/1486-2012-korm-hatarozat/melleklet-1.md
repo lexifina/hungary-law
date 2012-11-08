@@ -38,10 +38,12 @@
 
 ## a c) pont tekintetében: folyamatos
 
-## 7. visszavonja a GSM-R rendszer kialakításával összefüggő egyes feladatokról szóló 1243/2010. (XI. 17.) Korm. határozatot.
+## 7.[^1]
 
 1. melléklet az 1486/2012. (XI. 7.) Korm. határozathoz
 
 | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Projekt támogatási összege (Ft) | Támogatás intenzitása | Projekt rövid bemutatása | Támogathatóság feltételei |
 
 | KÖZOP-2.5.0-09-11-2012-0014 | GSM-R rendszer beszerzése és kapcsolódó szolgáltatások | Nemzeti Infokommunikációs Szolgáltató Zrt. | 22 575 175 900 | 100% | A GSM-R projekt első fázisában mintegy 935 km hosszon kerül fejlesztésre a hazai vasúthálózat. A GSM-R rendszer egységes európai szabványokon alapuló, a vasúti forgalom biztosításához szükséges vezeték nélküli kommunikációt biztosító rendszer. Alapinfrastruktúrája az európai vonatbefolyásoló rendszernek (ETCS L2). | – A Projektgazdának a projekt megvalósítása során egyeztetnie kell az érintett szervezetekkel (különösen NIF Zrt., GYSEV Zrt, MÁV Zrt.) a kettős finanszírozás és a más uniós forrásból megvalósuló projektek fenntartási időszakának megsértése elkerülése érdekében; – a Projektgazda a beszerzési stratégiát és konstrukciót egyeztesse az Irányító Hatósággal és a Közreműködő Szervezettel, és a közbeszerzési kiírások előkészítése, a vállalkozói szerződések megkötése során olyan körültekintéssel járjon el (elállási feltételek), hogy a GSM-R rendszer tervezett megvalósításának módosítása, csökkenése esetén a vállalkozó fél ne léphessen fel többlet kiadást jelentő (kötbér, kártérítés) igénnyel. – a vállalkozók kiválasztása az összességében legelőnyösebb ajánlat szempontja alapján történjen; – a projektmenedzsment-költségek megfelelő lehatárolására, annak elszámolhatóságához, a Közreműködő Szervezettel egyeztetett önköltség-számítási szabályzat összeállítása és Közreműködő Szervezet általi elfogadása szükséges; – a támogatói döntés meghozatalának napjától számított 30 napon belül történjen meg a támogatási szerződés aláírása, illetve a támogatási szerződés hatálybalépését követő további 30 napon belül nyújtsa be a kedvezményezett az első közbeszerzés dokumentációját a Közreműködő Szervezet részére. |
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
