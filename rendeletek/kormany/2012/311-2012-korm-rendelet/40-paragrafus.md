@@ -1,5 +1,3 @@
-## 40. § Hatályát veszti
+40. §[^3]
 
-a) az ikerintézményi (Twinning) program fejlesztési tevékenységének ellátásáról szóló 73/2006. (IV. 3.) Korm. rendelet,
-
-b) az ikerintézményi program és projektjei lebonyolításának részletes szabályairól szóló 10/2008. (II. 26.) ÖTM rendelet.
+[^3]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
