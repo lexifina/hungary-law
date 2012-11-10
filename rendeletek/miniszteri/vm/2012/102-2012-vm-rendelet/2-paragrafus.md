@@ -2,7 +2,7 @@
 
 2. § (1) Támogatás vehető igénybe:
 
-a) helyi vagy országos védelem alatt nem álló, a település megjelenésében szereppel bíró alábbi épületek, épületrészek külső és az épület rendszeres látogathatóságának biztosítása esetén belső felújítására, korszerűsítésére, bővítésére, átalakítására, új épületrész kialakítására az alábbi épületekhez kapcsolódóan (a továbbiakban: 1. célterület):
+a)[^4] helyi vagy országos védelem alatt nem álló, a település megjelenésében szereppel bíró alábbi építmények, épületek, épületrészek külső és az épület rendszeres látogathatóságának biztosítása esetén belső felújítására, korszerűsítésére, bővítésére, átalakítására, új épületrész kialakítására az alábbi épületekhez kapcsolódóan (a továbbiakban: 1. célterület):
 
 aa) települési szilárd burkolatú útvonalak mentén fekvő épületek,
 
@@ -70,7 +70,7 @@ d) vár és várrom bemutathatóvá tételére, rekonstrukciójára;
 
 e) önkormányzati bérlakás felújítására, korszerűsítésére;
 
-f) kizárólag gazdasági funkciót ellátó épületek, épületrészek belső részének felújítására, korszerűsítésére, bővítésére, amely alól kivételt képez a 3. célterület.
+f)[^5] kizárólag gazdasági funkciót ellátó épületek, épületrészek belső részének felújítására, korszerűsítésére, bővítésére.
 
 (6) Az 1. célterülethez kapcsolódóan az épület, építmény felújításának, bővítésének, átalakításának keretében legfeljebb bruttó 15%-os alapterület növekedés támogatható, amennyiben az az épület, építmény korszerűsítéséhez, funkciójának betöltéséhez kapcsolódóan szükséges.
 
@@ -109,3 +109,6 @@ b) Natura 2000 területen megvalósítandó fejlesztés.
 (12) A 4. célterület alapján nem vehető igénybe támogatás önkormányzatok által a helyi önkormányzatokról szóló törvényben meghatározott kötelezően ellátandó feladatok ellátását szolgáló épülettel azonos helyrajzi számon elhelyezkedő játszóterek felújítására, kialakítására, amit a támogatási kérelem benyújtásának időpontjában kell vizsgálni.
 
 (13) Ha az (1) bekezdés a) pontjában foglalt fejlesztések közvetlenül csak egy épületrészt érintenek, akkor az érintett kiadásokat alapterület-arányosan meg kell osztani, és az elszámolható kiadások között csak az e rendelet alapján támogatható épületrészre arányosan jutó kiadások szerepelhetnek.
+
+[^4]: A 2. § (1) bekezdés a) pont nyitó szövegrésze a 113/2012. (XI. 9.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (5) bekezdés f) pontja a 113/2012. (XI. 9.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
