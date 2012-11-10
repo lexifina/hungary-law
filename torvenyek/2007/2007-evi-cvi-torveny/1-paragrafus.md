@@ -12,7 +12,11 @@ b) az a) pont hatálya alá nem tartozó mindazon vagyon, amely vonatkozásában
 
 c) az állam tulajdonában lévő tagsági jogviszonyt megtestesítő értékpapír, illetve az államot megillető egyéb társasági részesedés,
 
-d) az államot megillető olyan immateriális, vagyoni értékkel rendelkező jogosultság, amelyet jogszabály vagyoni értékű jogként nevesít.
+d) az államot megillető olyan immateriális, vagyoni értékkel rendelkező jogosultság, amelyet jogszabály vagyoni értékű jogként nevesít,
+
+e) az állam tulajdonában lévő pénzügyi eszközök.
+
+(2a) A (2) bekezdés e) pontja szerinti pénzügyi eszközökre e törvény hatálya kizárólag a 35. § (2a) bekezdés tekintetében terjed ki.
 
 (3) Külön törvény rendelkezik:
 

@@ -30,6 +30,8 @@ m) külön jogszabályban meghatározott, a védelem terén alapvető biztonság
 
 n) ha társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közérdekű cél érdekében az adott ügylet megvalósítása kiemelten indokolt, és a Kormány erre figyelemmel nyilvános határozatban döntött a versenyeztetés mellőzéséről.
 
+(2a) Az állam tulajdonában álló pénzügyi eszköznek pénzügyi eszközre történő cseréje esetén a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (1) bekezdése szerinti versenyeztetési kötelezettségre vonatkozó rendelkezést nem kell alkalmazni.
+
 (3) A pályázat nyilvános vagy zártkörű lehet.
 
 (4) Nyilvános a pályázat, ha
