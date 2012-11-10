@@ -1,6 +1,6 @@
 ## Támogatásból történő kizárás
 
-## 9. §[^33] Nem igényelhető támogatás az olyan ültetvényre,
+## 9. §[^34] Nem igényelhető támogatás az olyan ültetvényre,
 
 a) amelynek telepítését a 2010/2011 borpiaci évet megelőzően kezdték meg,
 
@@ -22,4 +22,4 @@ i) amely nem felel meg a Borvidéki tervnek,
 
 j) amelyet nem az e rendelet előírási szerint készítettek el.
 
-[^33]: A 9. § a 85/2011. (IX. 1.) VM rendelet 7. §-ával megállapított szöveg.
+[^34]: A 9. § a 85/2011. (IX. 1.) VM rendelet 7. §-ával megállapított szöveg.

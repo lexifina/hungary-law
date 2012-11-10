@@ -1,6 +1,10 @@
-## Egyéni tervet fenntartó nyilatkozat
+## Megerősítő nyilatkozat
 
-## Alulírott ............................................................................................................................ (név), .......................................... (MVH regisztrációs szám) nyilatkozom, hogy az MVH által ……………….. iktatószámon jogerősen, kizárólag a 161/2008. (XII. 18.) FVM rendelet 9/A. § (1)–(4) bekezdése alapján keretkimerülés miatt elutasított Egyéni tervemet az abban foglaltak változatlanul hagyása mellett fenntartom, a tevékenységet, tevékenységeket az abban megjelöltek szerint hajtottam/hajtom végre. Tudomásul veszem, hogy amennyiben az MVH döntésével kapcsolatosan bírósági felülvizsgálatra irányuló kérelmet nyújtottam be, úgy nem vagyok jogosult fenntartó nyilatkozatot benyújtani.
+## Alulírott ..................................................................................................................................(név), .............................................. (MVH regisztrációs szám) büntetőjogi felelősségem tudatában nyilatkozom, hogy az MVH által kizárólag a 161/2008. (XII. 18.) FVM rendelet 22/B. § (1) és (3) bekezdése alapján a 161/2008. (XII. 18.) FVM rendelet 22/A. § (1) bekezdésében meghatározott kiegészítő támogatási keretösszeg keretkimerülése miatt végzéssel elutasított Egyéni tervemben foglalttevékenységet/tevékenységeket az Egyéni tervemben megjelöltek szerint, a 161/2008. (XII. 18.) FVM rendelet előírásaival összhangban végrehajtottam és annak alapján az alábbi összefüggő területek tekintetében támogatási igényemet megerősítem:
+
+| Helység | Helyrajzi szám |
+
+## Tudomásul veszem, hogy amennyiben az MVH döntésének bírósági felülvizsgálata van folyamatban, úgy nem vagyok jogosult megerősítő nyilatkozatot benyújtani.
 
 ## Kelt: ....................................... (helység, dátum)
 
@@ -8,34 +12,12 @@
 
 ## aláírás
 
-## Figyelem! Fenntartó nyilatkozat megtételére kizárólag az a termelő jogosult, akinek a 2011. október 1. és december 15. közötti időszakban benyújtott Egyéni terve 2011. november 24-ét követően érkezett be a Mezőgazdasági és Vidékfejlesztési Hivatalhoz, és az Egyéni tervet
+## Figyelem! Megerősítő nyilatkozat megtételére kizárólag az a termelő jogosult, aki a 2011. október 1. és december 15. közötti időszakban benyújtott Egyéni tervéhez a 2012. március 31. és április 20. közötti időszakban fenntartó vagy részben fenntartó nyilatkozatot nyújtott be a MVH-hoz, és akinek az Egyéni tervét
 
-## – az MVH a támogatási keret kimerülésére való tekintettel érdemi vizsgálat nélkül utasította el, valamint
+## - az MVH a kiegészítő támogatási keret kimerülésére való tekintettel érdemi vizsgálat nélkül két alkalommal is elutasította, valamint
 
-## – az érdemi vizsgálat nélküli elutasító végzés bírósági felülvizsgálata nincs folyamatban.
+## - az érdemi vizsgálat nélküli elutasító végzés bírósági felülvizsgálata nincs folyamatban.
 
-8. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^72]
+8. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^74]
 
-Egyéni tervet részben fenntartó nyilatkozat
-
-Alulírott ............................................................................................................................ (név), ......................................... (MVH regisztrációs szám) nyilatkozom, hogy az MVH által ……………….. iktatószámon jogerősen, kizárólag a 161/2008. (XII. 18.) FVM rendelet 9/A. § (1)–(4) bekezdése alapján keretkimerülés miatt elutasított Egyéni tervemet az abban foglaltak változatlanul hagyása mellett
-
-az alábbi összefüggő terület, területek tekintetében fenntartom, a tevékenységet, tevékenységeket az abban megjelöltek szerint hajtottam/hajtom végre:
-
-| helység | helyrajzi szám |
-
-Tudomásul veszem, hogy amennyiben az MVH döntésével kapcsolatosan bírósági felülvizsgálatra irányuló kérelmet nyújtottam be, úgy nem vagyok jogosult részben fenntartó nyilatkozatot benyújtani.
-
-Kelt: ....................................... (helység, dátum)
-
-.....................................
-
-aláírás
-
-Figyelem! Fenntartó nyilatkozat megtételére kizárólag az a termelő jogosult, akinek a 2011. október 1. és december 15. közötti időszakban benyújtott Egyéni terve 2011. november 24-ét követően érkezett be a Mezőgazdasági és Vidékfejlesztési Hivatalhoz, és az Egyéni tervet
-
-– az MVH a támogatási keret kimerülésére való tekintettel érdemi vizsgálat nélkül utasította el, valamint
-
-– az érdemi vizsgálat nélküli elutasító végzés bírósági felülvizsgálata nincs folyamatban.
-
-[^72]: A 8. számú mellékletet a 31/2012. (III. 30.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^74]: A 8. számú mellékletet a 31/2012. (III. 30.) VM rendelet 8. § (2) bekezdése iktatta be, hatályon kívül helyezte a 113/2012. (XI. 9.) VM rendelet 4. § (1) bekezdés c) pontja.

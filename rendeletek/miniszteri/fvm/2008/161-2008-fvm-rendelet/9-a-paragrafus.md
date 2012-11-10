@@ -1,6 +1,6 @@
-## Az Egyéni terv elfogadása, módosítása és elutasítása[^34]
+## Az Egyéni terv elfogadása, módosítása és elutasítása[^35]
 
-9/A. §[^35] (1) Az MVH az Egyéni terveket beérkezési sorrendben 2012. március 31-ig bírálja el.
+9/A. §[^36] (1) Az MVH az Egyéni terveket beérkezési sorrendben 2012. március 31-ig bírálja el.
 
 (2) Az MVH a 4. § (2) bekezdése szerinti keretösszeg erejéig hagyja jóvá az Egyéni terveket.
 
@@ -12,5 +12,5 @@
 
 (6) Az eljárás az ügyfél kérelmére nem függeszthető fel, továbbá a hiánypótlás teljesítésére rendelkezésre álló határidő nem hosszabbítható meg.
 
-[^34]: A 9/A. §-t megelőző alcímet a 85/2011. (IX. 1.) VM rendelet 8. § (1) bekezdése iktatta be.
-[^35]: A 9/A. §-t a 85/2011. (IX. 1.) VM rendelet 8. § (1) bekezdése iktatta be.
+[^35]: A 9/A. §-t megelőző alcímet a 85/2011. (IX. 1.) VM rendelet 8. § (1) bekezdése iktatta be.
+[^36]: A 9/A. §-t a 85/2011. (IX. 1.) VM rendelet 8. § (1) bekezdése iktatta be.

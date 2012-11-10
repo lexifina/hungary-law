@@ -1,5 +1,6 @@
-22/A. §[^58] (1) Az adott borpiaci évre, évekre vonatkozóan e rendelet alapján kifizethető kiegészítő támogatási keretösszegről a miniszter tájékoztatja az MVH-t, amelyről az MVH közleményt tesz közzé.
+22/A. §[^59] (1) Az adott borpiaci évre, évekre vonatkozóan e rendelet alapján kifizethető kiegészítő támogatási keretösszegről a miniszter tájékoztatja az MVH-t, amelyről az MVH közleményt tesz közzé.
 
-(2) Azon kérelmező, akinek a 7. § szerinti Egyéni tervét az MVH – a 4. § (2) bekezdésében foglaltak szerinti támogatási keretösszeg kimerülése miatt, a 9/A. § (1)–(4) bekezdése alapján – végzésével érdemi vizsgálat nélkül elutasította és annak bírósági felülvizsgálata nincs folyamatban, az Egyéni tervére vonatkozóan a 7. számú melléklet szerint fenntartó, vagy a 8. számú melléklet szerint részben fenntartó nyilatkozatot nyújthat be a 2012. március 31. és április 20. közötti időszakban az MVH részére.
+(2)[^60] Azon kérelmező, akinek Egyéni tervét kizárólag a 22/A. § (1) bekezdésében meghatározott kiegészítő támogatási keretösszeg kimerülése miatt az MVH végzéssel érdemi vizsgálat nélkül elutasította, és annak bírósági felülvizsgálata nincs folyamatban, az Egyéni tervben megjelöltek szerint végrehajtott tevékenységre vonatkozóan támogatási igényt megerősítő nyilatkozatot nyújthat be az MVH részére a 7. számú melléklet szerint 2012. november 15. és 2012. december 15. között.
 
-[^58]: A 22/A. §-t a 31/2012. (III. 30.) VM rendelet 4. §-a iktatta be.
+[^59]: A 22/A. §-t a 31/2012. (III. 30.) VM rendelet 4. §-a iktatta be.
+[^60]: A 22/A. § (2) bekezdése a 113/2012. (XI. 9.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.

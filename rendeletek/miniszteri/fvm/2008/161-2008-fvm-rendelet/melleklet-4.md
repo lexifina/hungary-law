@@ -66,6 +66,6 @@
 
 | elnök | titkár |
 
-4. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^68]
+4. számú melléklet a 161/2008. (XII. 18.) FVM rendelethez[^70]
 
-[^68]: A 4. számú melléklet a 13/2011. (II. 18.) VM rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^70]: A 4. számú melléklet a 13/2011. (II. 18.) VM rendelet 17. § (3) bekezdésével megállapított szöveg.
