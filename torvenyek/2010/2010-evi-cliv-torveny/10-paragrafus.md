@@ -7,3 +7,5 @@ a) az Alap vagyonának összetételét, értékét,
 b) a központi költségvetés javára teljesített befizetések összegét,
 
 c) az államadósság csökkentésére fordított összeget.
+
+d) a 2. § (6a) bekezdése szerinti bevétel összegének államadósság-csökkentési műveletekre való felhasználását.

@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-154-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 2010-154-00-00.5 |
 | 2012-06-05 | 2012. évi LXIV. törvény | 2010-154-00-00.6 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 2010-154-00-00.7 |
+| 2012-11-10 | 2012. évi CLVIII. törvény | 2010-154-00-00.8 |
