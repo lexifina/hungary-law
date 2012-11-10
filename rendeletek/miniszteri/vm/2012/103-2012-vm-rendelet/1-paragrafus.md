@@ -36,16 +36,19 @@
 
 17. LEADER HACS illetékességi területe: a LEADER HACS előzetes elismeréséről vagy a LEADER HACS elismeréséről szóló határozatában meghatározott terület, amelynek vonatkozásában a LEADER HACS Helyi Vidékfejlesztési Stratégiát (a továbbiakban: HVS) fogalmaz meg;
 
-18. nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő társadalmi szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
+18.[^1] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
 
 19. országos védelem alatt álló építmény: a kulturális örökség védelméről szóló törvény szerint meghatározott kulturális örökség;
 
 20. önkormányzati bérlakás: helyi önkormányzat tulajdonában lévő lakás, szükséglakás, szolgálati lakás;
 
-21. ügyfél: az 5. vagy 6. melléklet szerinti településen működő települési önkormányzat, települési kisebbségi önkormányzat, önkormányzati társulás, amelynek a fejlesztéssel érintett település a tagja, továbbá székhellyel vagy telephellyel rendelkező nonprofit szervezet, valamint egyház, aki beruházást valósít meg az 5. melléklet szerinti településen, vagy az 6. melléklet szerinti település külterületén;
+21.[^2] ügyfél: az 5. vagy 6. melléklet szerinti településen működő települési önkormányzat, települési nemzetiségi önkormányzat, önkormányzati társulás, amelynek a fejlesztéssel érintett település a tagja, továbbá székhellyel vagy telephellyel rendelkező nonprofit szervezet, valamint egyház, aki beruházást valósít meg az 5. melléklet szerinti településen, vagy az 6. melléklet szerinti település külterületén;
 
 22. tematikus útvonal: egy közös témához kapcsolódó, különböző helyszínen található látványosságok, turisztikai szolgáltatások, programok összekapcsolását biztosító útvonal;
 
 23. restaurálás: a Kulturális Örökségvédelmi Hivatal eljárásaira vonatkozó szabályokról szóló 10/2006. (V. 9.) NKÖM rendelet 3. § g) pontja szerint meghatározott fogalom, valamint a helyi védettség alatt lévő épületeken, építményeken és azok tartozékaként védett képző- és iparművészeti alkotásokon és kulturális javakon végzett művészeti alkotó tevékenység, amelynek célja a tárgy vagy tárgyegyüttes konzerválása vagy esztétikai helyreállítása;
 
 24. zöldfelület: az OTÉK 1. számú melléklet 113. pontja szerint telek zöldfelületeként meghatározott fogalom.
+
+[^1]: Az 1. § 18. pontja a 113/2012. (XI. 9.) VM rendelet 3. § (3) bekezdése a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 21. pontja a 113/2012. (XI. 9.) VM rendelet 3. § (3) bekezdése b) pontja szerint módosított szöveg.

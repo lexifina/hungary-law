@@ -1,6 +1,6 @@
 ## 11. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 52. cikk b) pontja iii. alpontjának végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 103/2012. (X. 1.) VM rendelethez
+1. melléklet a 103/2012. (X. 1.) VM rendelethez[^4]
 
 Értékelési szempontok
 
@@ -2926,7 +2926,7 @@
 
 | 89. | Amennyiben a támogatási kérelem legalább egy szemponthoz illeszkedik |  | 30 pont |
 
-| 90. | Amennyiben a támogatási kérelem nem illeszkedik valamennyi szemponthoz |  | 0 pont |
+| 90. | Amennyiben a támogatási kérelem nem illeszkedik egyik szemponthoz sem |  | 0 pont |
 
 | 91. | 21. A fejlesztésre helyi vállalkozók bevonásával kerül sor: | Vállalkozói vagy megbízási előszerződés |  |
 
@@ -4211,3 +4211,5 @@
 1.43. Innovatív Dél-Zala Vidékfejlesztési Egyesület
 
 Értékelési szempontok
+
+[^4]: Az 1. melléklet a 113/2012. (XI. 9.) VM rendelet 3. § (1) bekezdése és (3) bekezdés d) pontja szerint módosított szöveg.
