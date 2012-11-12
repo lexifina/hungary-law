@@ -386,7 +386,7 @@ Volner János (Jobbik)[^50]
 
 Schön Péter (Jobbik)
 
-dr. Lenhardt Balázs (Jobbik)[^51]
+dr. Lenhardt Balázs (független)[^51]
 
 Scheiring Gábor (LMP)
 
@@ -434,7 +434,7 @@ dr. Dorosz Dávid (LMP)[^65]
 
 Mirkóczki Ádám (Jobbik)[^66]
 
-Korondi Miklós (Jobbik)[^67]
+Rubi Gergely (Jobbik)[^67]
 
 Jámbor Nándor (Jobbik)[^68]
 
@@ -648,7 +648,7 @@ Magyar Zoltán (Jobbik)
 
 Varga Géza (Jobbik)
 
-Z. Kárpát Dániel (Jobbik)[^93]
+Korondi Miklós (Jobbik)[^93]
 
 Szabó Rebeka (LMP)
 
@@ -1028,7 +1028,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^48]: A 26/2010. (V. 25.) OGY határozat 1. pontjával megállapított szöveg.
 [^49]: A 89/2011. (XI. 24.) OGY határozat 1. pontjával megállapított szöveg.
 [^50]: Az 59/2012. (IX. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^51]: A 63/2011. (IX. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^51]: A 78/2012. (XI. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^52]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^53]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^54]: A 82/2010. (IX. 15.) OGY határozat 1. pontjával megállapított szöveg.
@@ -1044,7 +1044,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^64]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^65]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^66]: Az 59/2012. (IX. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^67]: A 123/2010. (XII. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^67]: A 79/2012. (XI. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^68]: A 97/2011. (XII. 31.) OGY határozat 1. pontjával megállapított szöveg.
 [^69]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^70]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
@@ -1070,7 +1070,7 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^90]: A 9/2012. (II. 29.) OGY határozat 1. pontjával megállapított szöveg.
 [^91]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
 [^92]: A 28/2010. (VI. 2.) OGY határozat 1. pontjával megállapított szöveg.
-[^93]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^93]: A 79/2012. (XI. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^94]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával elrendelt – Nemzetbiztonsági bizottságra vonatkozó – módosítás nem vezethető át.
 [^95]: A 86/2011. (XI. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^96]: A 64/2012. (X. 4.) OGY határozat 1. pontjával megállapított szöveg.
