@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 1.2. az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 23. § (4) bekezdése szerint a Kvtv. 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet, 5. Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatal cím, valamint a 20. Fejezeti kezelésű előirányzatok cím, 2. Célelőirányzatok alcím, 1. KIM felügyelete alá tartozó szervezetek és szakmai programok támogatása jogcímcsoport javára az 1. pont alapján átcsoportosított összeg tekintetében elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséget állapít meg; az 1. pont szerinti költségvetési forrás jogszerű felhasználását a Kormányzati Ellenőrzési Hivatal ellenőrzi.
+## 1.2.[^1] az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 23. § (4) bekezdése szerint a Kvtv. 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet, 5. Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatal cím, valamint a 20. Fejezeti kezelésű előirányzatok cím, 2. Célelőirányzatok alcím, 1. KIM felügyelete alá tartozó szervezetek és szakmai programok támogatása jogcímcsoport javára az 1. pont alapján átcsoportosított összeg tekintetében elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséget állapít meg; az 1. pont szerinti költségvetési forrás jogszerű felhasználását a Kormányzati Ellenőrzési Hivatal ellenőrzi.
 
 ## Felelős: közigazgatási és igazságügyi miniszter
 
@@ -14,9 +14,9 @@
 
 ## a Kormányzati Ellenőrzési Hivatal elnöke
 
-## Határidő: 2012. október 31.
+## Határidő: 2012. december 31.
 
-## 2.[^1]
+## 2.[^2]
 
 1. melléklet az 1353/2012. (IX. 11.) Korm. határozathoz
 
@@ -118,4 +118,5 @@ Költségvetési év: 2012.
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.2. alpontja az 1500/2012. (XI. 13.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
