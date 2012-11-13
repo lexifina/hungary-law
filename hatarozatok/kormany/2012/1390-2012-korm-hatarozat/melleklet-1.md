@@ -4,7 +4,7 @@
 
 ## Határidő: átcsoportosításra: azonnal
 
-## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2012. október 15.
+## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2012. december 31.[^2]
 
 1. melléklet az 1390/2012. (IX. 20.) Korm. határozathoz
 
@@ -75,3 +75,5 @@
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^2]: A határozat az 1500/2012. (XI. 13.) Korm. határozat 5. pontja szerint módosított szöveg.
