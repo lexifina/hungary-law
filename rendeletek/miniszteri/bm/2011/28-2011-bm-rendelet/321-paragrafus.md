@@ -14,4 +14,6 @@ d) az „A” és „B” tűzveszélyességi osztályú tűzszakaszok.
 
 (4) Jogszabály a 319. §-ban és a 320. §-ban foglaltaktól eltérő követelményeket is megállapíthat.
 
-(5) Ha a tűzállósági fokozat az előzőek alapján nem állapítható meg, azt az OKF határozza meg.
+(5)[^79]
+
+[^79]: A 321. § (5) bekezdését az 55/2012. (X. 29.) BM rendelet 58. § (1) bekezdés j) pontja hatályon kívül helyezte.

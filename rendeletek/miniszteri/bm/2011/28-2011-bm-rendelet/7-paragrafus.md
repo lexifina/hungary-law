@@ -58,9 +58,11 @@ d) egybefüggő teret képező helyiségeket és legfeljebb az épület, tűzsza
 
 24. Padlásfödém: tetőtérrel kialakított épület legfelső használati szintje és a beépítés nélküli tetőtér (padlás) közötti teherhordó, térelhatároló szerkezet.
 
-25. Ponyvaszerkezetű építmény: Olyan állandó jellegű, legalább 9 hónapig fennálló alapozással rendelkező, szerkezetileg önálló közösségi építmény, amely a környező külső tértől csak húzófeszültségre igénybe vehető külső térelhatároló szerkezettel egészben elválasztott teret alkot és ezzel a használat feltételeit biztosítja.
+25.[^7] Ponyvaszerkezetű építmény: olyan állandó jellegű, legalább 9 hónapig fennálló, alapozással rendelkező közösségi építmény, amely a környező külső tértől csak húzófeszültségre igénybe vehető külső térelhatároló szerkezettel egészben elválasztott teret alkot és ezzel a használat feltételeit biztosítja.
 
 26. Szabadtér: helyiségnek nem minősülő térség – beleértve a nyitott fedett tereket –, ahol termelést, raktározást vagy ezekhez kapcsolódó tevékenységet végeznek.
+
+26/a.[^8] Szabadtéri rendezvény: 5000 m2-nél nagyobb, épületen kívüli területen megtartott szervezett esemény, ide nem értve a családi eseményekkel kapcsolatos rendezvényeket, valamint a létesítmény működési engedélyével összefüggő rendezvényeket.
 
 27. Szállásépület: kizárólag vagy részben, egy időben legalább 20 ember elhelyezését biztosító, bérbe vételre felkínált bútorozott szobákat vagy lakásokat tartalmazó létesítmény.
 
@@ -87,3 +89,6 @@ d) egybefüggő teret képező helyiségeket és legfeljebb az épület, tűzsza
 37. Zártfolyosó: olyan közlekedő helyiség, amelynek minden oldalát elsődleges épületszerkezetek határolják.
 
 38. Zárt gépjárműtároló: gépjárművek elhelyezésére szolgáló épület, amely nem elégíti ki a nyitott gépjárműtárolóra leírt feltételeket.
+
+[^7]: A 7. § 25. pontja az 55/2012. (X. 29.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^8]: A 7. § 26/a. pontját az 55/2012. (X. 29.) BM rendelet 3. § (2) bekezdése iktatta be.

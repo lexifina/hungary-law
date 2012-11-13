@@ -18,6 +18,8 @@ h) az ellenőrzést, karbantartást végző(k) neve, aláírása.
 
 (2) A naplót az utolsó bejegyzéstől számított legalább öt évig meg kell őrizni.
 
-(3) Az oltóberendezés előrelátható üzemen kívül helyezését (és ismételt üzembe helyezését) 8 nappal előbb, előre nem látott 30 percet meghaladó kikapcsolását pedig azonnal be kell jelenteni az illetékes tűzoltóságnak.
+(3)[^55]
 
 (4) A kezelést csak az oltóberendezés működésére kioktatott személyek végezhetik. A berendezés kezelési utasítását és az üzemeltetési naplót meg kell őrizni, és a hatóság részére ellenőrzéskor be kell mutatni.
+
+[^55]: A 149. § (3) bekezdését az 55/2012. (X. 29.) BM rendelet 58. § (1) bekezdés f) pontja hatályon kívül helyezte.

@@ -14,6 +14,12 @@ a) LPS I és LPS II osztály esetén legalább háromévenként,
 
 b) egyéb esetben legalább hatévenként, tűzvédelmi szempontból felül kell vizsgáltatni, és a tapasztalt hiányosságokat a minősítő iratban meghatározott határnapig meg kell szüntetni, melyek tényét hitelt érdemlő módon igazolni kell.
 
-(3) Az e jogszabály szerint létesített villámvédelmi berendezés esetében a felülvizsgálatok vezetésére és abban érdemi munka folytatására csak olyan személy jogosult, aki a jogszabályban meghatározott „villámvédelem időszakos felülvizsgálója” szakképesítéssel rendelkezik, és a vonatkozó műszaki követelményen anyagából az MEE-vel és az OKF-fel egyeztetett, MMK-nál akkreditált villámvédelmi tanfolyami képzésben részesült és eredményes vizsgát tett, vagy a vonatkozó műszaki követelményt tananyagi szinten oktató OKJ-s képzésben részesült.
+(3)[^64] Az e rendelet szerint létesített villámvédelmi berendezés esetében a felülvizsgálatok vezetésére és abban érdemi munka folytatására csak olyan személy jogosult, aki a vonatkozó műszaki követelményt tananyagi szinten oktató OKJ-s „villámvédelmi felülvizsgáló” képesítést szerzett, vagy a vonatkozó műszaki követelmények anyagából akkreditált, az OKF által elfogadott villámvédelmi tanfolyami képzésben részesült, és eredményes vizsgát tett.
 
-(4) Részleges vagy rendkívüli felülvizsgálat végzésére jogosult az MMK névjegyzékében szereplő villamosmérnöki végzettségű, a villámvédelem területén „kiemelkedően gyakorlott” szakértő is.
+(4)[^65] Felülvizsgálat végzésére jogosult az MMK névjegyzékében szereplő villamosmérnöki végzettségű, a villámvédelem területén „kiemelkedően gyakorlott” szakértő is.
+
+(5)[^66] A tűzvédelmi felülvizsgálat szempontjából a naptári napot kell figyelembe venni.
+
+[^64]: A 226. § (3) bekezdése az 55/2012. (X. 29.) BM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^65]: A 226. § (4) bekezdése az 55/2012. (X. 29.) BM rendelet 57. § s) pontja szerint módosított szöveg.
+[^66]: A 226. § (5) bekezdését az 55/2012. (X. 29.) BM rendelet 22. § (2) bekezdése iktatta be.

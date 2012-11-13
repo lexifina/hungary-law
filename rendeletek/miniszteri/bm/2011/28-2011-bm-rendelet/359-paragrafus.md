@@ -6,4 +6,6 @@
 
 (3) A IV. és V. tűzállósági fokozatú épületekben a tűzszakaszok részben vagy egészben egymás felett nem helyezhetők el.
 
-(4) Egy építési telken belül a szomszédos épületek között nem kell tűztávolságot tartani és tűzfalat, tűzgátló épületszerkezetet alkalmazni, ha az épületek a tűzállósági fokozatuk, és tűzveszélyességi osztályba sorolásuk alapján a vonatkozó követelményeknek megfelelően egy tűzszakaszban is elhelyezhetők. Ebben az esetben a tűzszakasz területe az érintett épületek alapterületének összege.
+(4)[^86]
+
+[^86]: A 359. § (4) bekezdését az 55/2012. (X. 29.) BM rendelet 58. § (1) bekezdés l) pontja hatályon kívül helyezte.

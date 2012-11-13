@@ -1,7 +1,7 @@
 ## 89. Konténerkutak, speciális előírások
 
-272. § (1) Az I–II. tűzveszélyességi fokozatú folyadékot kiszolgáló konténerkút tartálya duplafalú kialakítású legyen.
+272. §[^75] (1) Az I–II. tűzveszélyességi fokozatú folyadékot kiszolgáló konténerkút tűz- vagy robbanásveszélyes készüléknek, gépnek, berendezésnek minősül.
 
-(2) A berendezés tűz- vagy robbanásveszélyes készüléknek, gépnek, berendezésnek minősül.
+(2) Az I–II. tűzveszélyességi fokozatú folyadékot kiszolgáló – időjárás ellen védő tetővel kialakított – nyitott konténerkút területén tűzoltó berendezés kiépítése nem kötelező.
 
-(3) A 269. § (1) bekezdésének megfelelően kialakított, osztott terű tartállyal rendelkező konténerkutak belső terében a beépített tűzjelző- és oltóberendezést az I–II. tűzveszélyességi fokozatú folyadékot kiszolgáló konténerkutakról szóló előírások szerint, e rendelet 7. mellékletének megfelelően kell létesíteni.
+[^75]: A 272. § az 55/2012. (X. 29.) BM rendelet 28. §-ával megállapított szöveg.

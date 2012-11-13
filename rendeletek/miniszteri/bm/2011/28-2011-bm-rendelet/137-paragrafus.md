@@ -8,7 +8,7 @@ b) amennyiben az engedélyezett vagy elfogadott terv szerinti megvalósítás ne
 
 c) műemlék és műemléki környezet esetén a kormányhivatal kulturális örökségvédelmi irodájának bevonásával történik.
 
-(3) Ha a létesítést jogszabály vagy a tűzvédelmi hatóság írja elő, az egyeztetést minden esetben a tűzvédelmi hatóság bevonásával kell megtartani.
+(3)[^45]
 
 (4) Az egyeztetésről jegyzőkönyvet vagy emlékeztetőt kell készíteni, amely tartalmazza
 
@@ -27,3 +27,5 @@ f) az egyeztetésen jelenlévők aláírását.
 (5) A tűzvédelmi berendezés működési feltételeit befolyásoló kérdésekben a tervező rendelkezésére bocsátott adatszolgáltatást írásba kell foglalni,
 
 (6) Az adatszolgáltatás módosítását az adatok módosulásának a követelményekre gyakorolt hatását mérlegelve valamennyi érdekelt féllel ismertetni kell.
+
+[^45]: A 137. § (3) bekezdését az 55/2012. (X. 29.) BM rendelet 58. § (1) bekezdés d) pontja hatályon kívül helyezte.

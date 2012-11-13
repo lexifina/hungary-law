@@ -8,7 +8,7 @@ a) hetente szemrevételezéssel ellenőrzi az oltóanyag mennyiségét, az üzem
 
 b) havonta szemrevételezéssel megvizsgálja a fúvókák, a csővezeték és az oltóközpont állapotát, és ellenőrzi az oltóberendezéssel kapcsolatba kerülő munkavállalók képzettségét,
 
-c) az oltóberendezés csővezetékeit és a szerelvényeit tisztán kell tartja, a rájuk rakódó szennyeződéseket el távolítja, és
+c)[^54] az oltóberendezés csővezetékeit és szerelvényeit tisztán tartja, a rájuk rakódó szennyeződéseket eltávolítja, és
 
 d) az oltóanyag-kiömlő nyílása és a védendő anyag között az oltóanyag bejuttatása érdekében megfelelő távolságot szabadon hagyja.
 
@@ -39,3 +39,5 @@ bb) tartalék áramforrás ellenőrzésére.
 (4) Az ellenőrzést a személyzet nélkül üzemelő létesítményekben nem szükséges elvégezni, ha a távfelügyelet a (2) és (3) bekezdésben meghatározott paramétereket kontrollálni képes.
 
 (5) Az esetleges hibákat haladéktalanul ki kell javítani.
+
+[^54]: A 148. § (2) bekezdés c) pontja az 55/2012. (X. 29.) BM rendelet 18. §-ával megállapított szöveg.

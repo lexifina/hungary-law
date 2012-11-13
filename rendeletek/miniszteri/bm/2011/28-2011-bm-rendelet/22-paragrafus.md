@@ -1,6 +1,6 @@
-22. § (1) A karbantartó szervezetnek a javító műhelyében rendelkeznie kell a tevékenység végzéséhez szükséges valamennyi általános és speciális felszereléssel, műszaki útmutatással, technológiát tartalmazó leírással.
+22. § (1)[^24] A karbantartó szervezetnek a karbantartó műhelyében rendelkeznie kell a tevékenység végzéséhez szükséges valamennyi általános és speciális felszereléssel, műszaki útmutatással, technológiát tartalmazó leírással.
 
-(2) A javító műhely helyiségeinek száma, alapterülete és kialakítása tegye lehetővé a különböző munkafázisok elvégzését, a munkaegészségügyi szabályok betartását. Az oltópor tárolása, átfejtés és a nyomáspróba ugyanabban a helyiségben nem végezhető.
+(2)[^25] A karbantartó műhely helyiségeinek száma, alapterülete és kialakítása tegye lehetővé a különböző munkafázisok elvégzését, a munkaegészségügyi szabályok betartását. Az oltópor tárolása, átfejtése és a vizes technológiát igénylő műveletek ugyanabban a helyiségben nem végezhetők.
 
 (3) A karbantartó szervezet által használt mérő- és ellenőrző eszközöknek, felszereléseknek a mérések műszaki igényeinek és a joghatású mérésre vonatkozó jogszabályoknak kell megfelelniük. A karbantartó szervezet rendelkezik
 
@@ -34,4 +34,8 @@ n) befogó-rögzítő szerkezettel és
 
 o) azonosítható lenyomatú plombafogóval.
 
-(4) A karbantartó szervezet a tűzoltó készülék karbantartó tevékenységre vonatkozóan minőségirányítási rendszert vezet be és alkalmaz, és a minőségirányítási rendszer működését legkésőbb a bejelentéstől számított egy éven belül – bármely nemzeti rendszerben akkreditált tanúsítótól származó – tanúsítvánnyal igazolja.
+(4)[^26]
+
+[^24]: A 22. § (1) bekezdése az 55/2012. (X. 29.) BM rendelet 57. § e) pontja szerint módosított szöveg.
+[^25]: A 22. § (2) bekezdése az 55/2012. (X. 29.) BM rendelet 9. §-ával megállapított szöveg.
+[^26]: A 22. § (4) bekezdését az 55/2012. (X. 29.) BM rendelet 58. § (1) bekezdés c) pontja hatályon kívül helyezte.

@@ -20,10 +20,12 @@ g) szekrény nélküli kiépítés esetén a szabad megközelíthetőséget, az 
 
 h) a csővezeték légteleníthetőségét.
 
-(3) A felülvizsgálatot végző személy a tapasztalt hiányosságok esetén intézkedik az üzemszerű állapot visszaállítására.
+(3)[^33] A felülvizsgálatot végző személy a tapasztalt hiányosságok esetén írásban értesíti a tűzoltó vízforrás üzemben tartásáért felelős szervezetet, vagy a hiányosságot azonnal megszünteti.
 
 (4) A tűzcsapszekrényből az oda nem illő tárgyakat a felülvizsgálatot végző személy eltávolítja.
 
 (5) A teljes száraz tűzivíz-vezeték rendszer nyomáspróbája 5 évenként vízzel történik, a próbanyomás értéke – a betápláló csonknál mérve – 1,5 MPa, a nyomáspróba alatt az elzáró szerelvényeknél minimális csepegés megengedett.
 
 (6) Talajszint alatti, és nehezen megközelíthető területek védelmére kialakított száraz tűzivíz-vezeték rendszer féléves felülvizsgálata során a felülvizsgálatot végző személy az általános feladatokon felül ellenőrzi a tűzvédelmi hatóság által előírt csatlakozási lehetőségek meglétét, megfelelőségét.
+
+[^33]: A 37. § (3) bekezdése az 55/2012. (X. 29.) BM rendelet 12. §-ával megállapított szöveg.

@@ -16,6 +16,8 @@ d) a cseretelep helyiség minden megkezdett 20 m2 alapterülete után legalább 
 
 (3) Ha az irodahelyiség a cseretelep épületével egybeépült, a tárolótér légterétől legalább A2 REI 90 minősítésű fallal legyen elválasztva.
 
-(4) A cseretelep veszélyességi övezete az „1” és „2” kategóriájú tárolóhely esetén 3 méter, a többi kategóriánál 5 méter.
+(4)[^77] A cseretelep veszélyességi övezete az „1” és „2” kategóriájú tárolóhely esetén 3 méter, a többi kategóriánál 5 méter. A veszélyességi övezeten belül a technológiához közvetlenül nem kapcsolódó tevékenység vagy a technológiához közvetlenül nem kapcsolódó tárolás nem végezhető. A veszélyességi övezet mérete csökkenthető, amennyiben a tároló méreteit minden irányban legalább 0,5 méterrel meghaladó, A1 tűzvédelmi osztályú, EI 90 tűzállósági teljesítmény jellemzőjű védőfal kerül kiépítésre.
 
 (5) A cseretelep gépjárművel – rakodás céljából – csak akkor közelíthető meg, ha a gépjármű összsúlyának és tengelynyomásának megfelelő út épült. Ilyen út hiányában a palackok beszállítása a cseretelepre kézi erővel vagy más eszközzel történjen.
+
+[^77]: A 286. § (4) bekezdése az 55/2012. (X. 29.) BM rendelet 29. §-ával megállapított szöveg.

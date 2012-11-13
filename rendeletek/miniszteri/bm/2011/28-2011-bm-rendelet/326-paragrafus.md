@@ -8,4 +8,6 @@ b) az életvédelmi létesítményekre (óvóhelyek),
 
 c) a robbanóanyagok, pirotechnikai termékek előállítására, felhasználására és tárolására szolgáló épületekre.
 
-(2) Az (1) bekezdésben felsorolt építmények esetében, melyekre nincs tűzvédelmi előírás, a vonatkozó követelményeket – ha jogszabály másként nem rendelkezik – az OKF határozza meg.
+(2)[^80] Az (1) bekezdés b)–c) pontjában felsorolt építmények esetében, melyekre nincs tűzvédelmi előírás, a vonatkozó követelményeket – ha jogszabály másként nem rendelkezik – az OKF határozza meg.
+
+[^80]: A 326. § (2) bekezdése az 55/2012. (X. 29.) BM rendelet 57. § v) pontja szerint módosított szöveg.

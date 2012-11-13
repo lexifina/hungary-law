@@ -1,4 +1,4 @@
-## 365. § Középmagas és magas épületben csak a rendeltetésszerű használathoz szükséges, „A” és „B” tűzveszélyességi osztályba sorolt helyiség alakítható ki. Ezeket tűzgátló szerkezetekkel kell körülhatárolni és úgy kell elhelyezni, hogy a szükséges hasadó-nyíló felület hatékony működése biztosított legyen.
+## 365. §[^87]
 
 ## 124. Szigetelésekkel kapcsolatos követelmények
 
@@ -19,3 +19,5 @@ a) I–II. tűzállósági fokozatú építmények esetében a hőszigetelés A1
 b) III–V. tűzállósági fokozatú építmények esetén a hőszigetelés és a vízszigetelés anyaga A1, A2, B, C, D vagy E osztályú is lehet, azonban a tetőszigetelési rendszer Broof(t1) kategóriájú legyen.
 
 (5) Nincs tűzvédelmi osztály követelmény azon padlószerkezetekben lévő hő- és hangszigetelésekre, melyek legalább 30 mm vastag A1 vagy A2 tűzvédelmi osztályú anyaggal borítottak.
+
+[^87]: A 365. §-t az 55/2012. (X. 29.) BM rendelet 58. § (1) bekezdés m) pontja hatályon kívül helyezte.

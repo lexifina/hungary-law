@@ -2,7 +2,7 @@
 
 2. § (1) E rendelet alkalmazásában:
 
-a) tűzoltóságok beavatkozásával kapcsolatos követelménynek számítanak az alábbiak: 428. §, 436. § (5) bekezdés – 444. § (1) bekezdés, 445. § (4) és (6) bekezdés, 446. § (2) bekezdés, 447–450. §,
+a)[^2] tűzoltóságok beavatkozásával kapcsolatos követelmények a 428. §-ban, 431. § (4) bekezdésében, 436. § (5) bekezdésében, 437–443. §-ban, 444. § (1) bekezdésében, 445. § (4) és (6) bekezdésében, 446. § (2) bekezdésében, 447–462. §-ban, 463. § (1) és (4) bekezdésében foglaltak,
 
 b) tűzvédelmi használati előírásnak számítanak az alábbiak: 558–629. §,
 
@@ -27,3 +27,5 @@ c) az érintett tűzvédelmi műszaki követelmény, tűzvédelmi szabály vagy 
 d) a tűzvédelmi műszaki követelménytől, tűzvédelmi szabálytól vagy szabványtól való eltérés indokát;
 
 e) a kérelemhez mellékelni kell a tervezett eltérő megoldás olyan részletességű műszaki dokumentációját, amely bizonyítja, hogy az eltérő megoldás a rendelettel megállapított tűzvédelmi műszaki követelményben, tűzvédelmi szabályban vagy szabványban foglalt előírásokkal legalább egyenértékű biztonságot nyújt.
+
+[^2]: A 2. § a) pontja az 55/2012. (X. 29.) BM rendelet 1. §-ával megállapított szöveg.

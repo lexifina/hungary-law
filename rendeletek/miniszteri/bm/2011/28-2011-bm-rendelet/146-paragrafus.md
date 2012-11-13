@@ -1,4 +1,4 @@
-146. § (1) A beépített oltóberendezés üzembe helyezésére csak a kivitelezésért felelős műszaki vezető jogosult. aki az üzembe helyezést az üzemeltetési naplóba kell bejegyezni.
+146. § (1)[^53] A beépített oltóberendezés üzembe helyezésére csak a kivitelezésért felelős műszaki vezető jogosult. aki az üzembe helyezés tényét az üzemeltetési naplóba kell bejegyezni.
 
 (2) Az üzembe helyezéskor az oltóberendezés legyen üzemkész és ellenőrzött állapotban, és álljon rendelkezésre
 
@@ -25,3 +25,5 @@ d) a kezelőszemélyzet oktatását,
 e) a berendezés helyszíni nyomáspróbáját, és
 
 f) szükség esetén a megvalósulási tervet.
+
+[^53]: A 146. § (1) bekezdése az 55/2012. (X. 29.) BM rendelet 57. § o) pontja szerint módosított szöveg.

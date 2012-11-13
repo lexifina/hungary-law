@@ -6,6 +6,8 @@
 
 (3) A magasnyomású lapostömlők tömegére és a hajlítási sugárra nincs korlátozás azoknál a tömlőknél, amelyek üzemi nyomása magasabb, mint 2,0 MPa.
 
-(4) A 38 mm névleges belső átmérőjű, és min. 4,0 MPa megengedett üzemi nyomású lapostömlő jele: 38-H. A tömlőt 38-H jelű tömlő kapoccsal kell szerelni.
+(4)[^40] A 38 mm névleges belső átmérőjű, és min. 4,0 MPa megengedett üzemi nyomású lapostömlő jele: 38-H. A tömlőt 38-H jelű tömlőkapoccsal kell szerelni.
 
 (5) Az (1)–(4) bekezdés előírásaitól eltérő paraméterű magasnyomású lapos tömlő forgalomba hozatalát a hatályos jogszabálynak megfelelően engedélyeztetni kell.
+
+[^40]: A 97. § (4) bekezdése az 55/2012. (X. 29.) BM rendelet 57. § j) pontja szerint módosított szöveg.

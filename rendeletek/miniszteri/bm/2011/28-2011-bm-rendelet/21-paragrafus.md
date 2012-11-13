@@ -8,7 +8,7 @@
 
 (4) A karbantartást igazoló címke tartalmazza
 
-a) a „FELÜLVIZSGÁLVA” szót,
+a)[^19] a „KARBANTARTVA” szót,
 
 b) a karbantartó szervezet nevét és címét,
 
@@ -16,9 +16,9 @@ c) a karbantartó személy aláírását, vagy az aláírással egyenértékű a
 
 d) a karbantartás jellegét (alap-/közép-/teljes körű karbantartás, újratöltés),
 
-e) a karbantartás dátumát (év, hónap), és
+e)[^20] a karbantartás dátumát (év, hónap, nap), és
 
-f) a következő karbantartás esedékességét időponttal megadva (év, hónap), amelyet angolul és németül is meg kell adni.
+f)[^21] a következő karbantartás esedékességét időponttal megadva (év, hónap, nap).
 
 (5) A karbantartást igazoló címke
 
@@ -28,8 +28,14 @@ b) közérthető nyelvezetű,
 
 c) segédeszköz nélkül olvasható, (a betűméret minimum 3 mm)
 
-d) nem zavaró logóval, emblémával kiegészíthető, és
+d)[^22] logóval, emblémával, és a 21. § (4) bekezdés f) pontjában megadott adatok angol vagy német nyelvű feliratával kiegészíthető, és
 
-e) olyan anyagú, melynek élettartama a felülvizsgálat érvényességi idejével arányos.
+e)[^23] olyan anyagú, melynek élettartama a karbantartás érvényességi idejével arányos.
 
 (6) A vonatkozó műszaki követelménynek nem megfelelő tűzoltó készülékek esetében a nyomáspróba adatait (év, hónap, a nyomáspróbát végző jele) a tűzoltó készülék tartályán és hajtóanyag palackján maradandóan és jól látható módon, a tartályon adattáblával, a hajtóanyag palackon beütéssel kell feltüntetni.
+
+[^19]: A 21. § (4) bekezdés a) pontja az 55/2012. (X. 29.) BM rendelet 57. § c) pontja szerint módosított szöveg.
+[^20]: A 21. § (4) bekezdés e) pontja az 55/2012. (X. 29.) BM rendelet 57. § c) pontja szerint módosított szöveg.
+[^21]: A 21. § (4) bekezdés f) pontja az 55/2012. (X. 29.) BM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^22]: A 21. § (5) bekezdés d) pontja az 55/2012. (X. 29.) BM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^23]: A 21. § (5) bekezdés e) pontja az 55/2012. (X. 29.) BM rendelet 57. § d) pontja szerint módosított szöveg.

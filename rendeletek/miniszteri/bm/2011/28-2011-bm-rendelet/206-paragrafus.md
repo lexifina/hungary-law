@@ -1,6 +1,6 @@
-## 60. Ellenőrzés felülvizsgálat, karbantartás
+## 60.[^60] Ellenőrzés, felülvizsgálat, karbantartás
 
-206. § (1) Az üzembentartó által a beépített tűzjelző berendezés központja (távkijelző, távkezelő egység) felügyeletével és kezelésével megbízott személy a berendezés működésének vizsgálata kapcsán naponta ellenőrzi, hogy
+206. § (1)[^61] Az üzembentartó által a beépített tűzjelző berendezés központja (távkijelző, távkezelő egység) felügyeletével és kezelésével megbízott személy vagy szolgáltató a berendezés működésének vizsgálata kapcsán naponta ellenőrzi, hogy
 
 a) ha a rendszer nincs nyugalmi helyzetben, akkor a kijelzett hibát az üzemeltetési naplóba bejegyezték-e, és, ha a hiba szakképzett beavatkozást igényel (nem a hálózat időleges kimaradásáról van szó), értesítették-e a karbantartót,
 
@@ -45,3 +45,6 @@ d) a rendszer változtatása esetén,
 e) hosszú üzemszünet után, vagy
 
 f) új karbantartóval kötött szerződés után.
+
+[^60]: A 60. alcím az 55/2012. (X. 29.) BM rendelet 57. § q) pontjával megállapított szöveg.
+[^61]: A 206. § (1) bekezdés nyitó szövegrésze az 55/2012. (X. 29.) BM rendelet 57. § r) pontja szerint módosított szöveg.

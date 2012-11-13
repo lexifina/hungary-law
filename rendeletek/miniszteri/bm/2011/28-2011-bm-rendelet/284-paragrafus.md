@@ -6,4 +6,6 @@
 
 (2) A 100 000 kg feletti PB-gáz tárolására alkalmas cseretelepek tűzvédelmi követelményeit az OKF határozza meg.
 
-(3) A cseretelep használati előírásait a 630–633.§ tartalmazza.
+(3)[^76] A cseretelep használati előírásait a 626–629.§ tartalmazza.
+
+[^76]: A 284. § (3) bekezdése az 55/2012. (X. 29.) BM rendelet 57. § u) pontja szerint módosított szöveg.

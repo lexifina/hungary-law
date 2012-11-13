@@ -50,13 +50,13 @@
 
 21. Közvetlen tűz- vagy robbanásveszély: az égés feltételei közül egy kivételével mindegyik adott, és várható, hogy a hiányzó égési feltétel bármelyik pillanatban létrejöhet, ezáltal nem kívánt tűz vagy robbanás következhet be.
 
-22. Menekülési útvonal: a veszélyeztetett tűzszakasz elhagyásának útvonala (kiürítés második szakasza).
+22.[^3] Menekülési útvonal: a veszélyeztetett tűzszakasz elhagyásának útvonala, a kiürítés második szakasza.
 
 23. Mértékadó tűzállósági határérték-követelmény: az egyes épületszerkezetekre a tűzterhelés alapján számító módszerrel meghatározott tűzállósági határérték.
 
 24. Mértékadó tűzszakasz: létesítményben a legtöbb oltóvizet igénylő tűzszakasz alapterülete.
 
-25. Mozgásukban és/vagy cselekvőképességükben korlátozott személyek elhelyezésére szolgáló épület: olyan épület, amely rendeltetését tekintve kifejezetten erre a célra szolgál (pl. óvoda, bölcsőde, szociális otthon). A csak járóbetegek ellátását szolgáló épületek nem tartoznak ide.
+25.[^4] Mozgásukban és/vagy cselekvőképességükben korlátozott személyek elhelyezésére szolgáló épület: olyan épület, amely rendeltetését tekintve kifejezetten erre a célra szolgál (pl. óvoda, bölcsőde, szociális otthon). A csak járóbetegek ellátását szolgáló épületek, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti családi napközik nem tartoznak ide.
 
 26. Mozgásukban korlátozott személyek: akik fizikai állapotuk miatt, vagy valamennyi környezeti hatás érzékelésére való képtelenségük (vakok és gyengénlátók) miatt veszélyhelyzet esetén a szükséges cselekvést megfelelően gyorsan nem tudják végrehajtani.
 
@@ -92,9 +92,9 @@
 
 41. Tűzfal: A vonatkozó műszaki követelménynek megfelelő tűzállósági határértékű, A1 tűzvédelmi osztályú térelhatároló (vagy teherhordó és térelhatároló) folytonos függőleges falszerkezet, amelyet úgy kell kialakítani, hogy az általa elválasztott tűzszakaszok vagy építmények egyikének állékonyság-vesztése, illetve az ebből adódó oldalirányú erőhatás esetén is megőrizze tűzterjedést gátló képességeit (stabilitását, integritását, hőszigetelését).
 
-42. Tűzoltási felvonulási terület: e rendeletben meghatározott az építmények tűzoltására, mentésre szolgáló a homlokzat előtt létesített, megfelelő teherbírású, szilárd burkolatú, legalább két nyomvonal szélességű terület (út) – amelynek méretét a tűzvédelmi szakhatóság állapítja meg –, s amely a tűzoltás technikai eszközeinek (emelőkosaras gépjármű, gépezetes létra, gépjárműfecskendő), és a tűzoltóegységek a rendeltetésszerű működésének feltételeit biztosítja.
+42.[^5] Tűzoltási felvonulási terület: e rendeletben meghatározott az építmények tűzoltására, mentésre szolgáló a homlokzat előtt létesített, megfelelő teherbírású, szilárd burkolatú, terület (út) – amelynek méretét a tűzvédelmi szakhatóság állapítja meg –, s amely a tűzoltás technikai eszközeinek (emelőkosaras gépjármű, gépezetes létra, gépjárműfecskendő), és a tűzoltóegységek a rendeltetésszerű működésének feltételeit biztosítja.
 
-43. Tűzoltási felvonulási út: a tűzoltási felvonulási terület megközelítésére szolgáló megfelelő teherbírású, szilárd burkolatú, legalább két nyomvonal szélességű, a tűzoltógépjárművek közlekedésére alkalmas út.
+43.[^6] Tűzoltási felvonulási út: a tűzoltási felvonulási terület megközelítésére szolgáló megfelelő teherbírású, szilárd burkolatú, a tűzoltógépjárművek közlekedésére alkalmas út.
 
 44. Tűzoltósági beavatkozási központ: olyan helyiség, amelyből a tűzoltói beavatkozáshoz szükséges és azt elősegítő tűzvédelmi berendezések vezérelhetők, az épület-felügyeleti rendszereken keresztül a tűzvédelmi berendezések üzemállapota lekövethető.
 
@@ -125,3 +125,8 @@
 57. Vonatkozó műszaki követelmény: hazai és Európai Uniós szabványok és normák összessége.
 
 58. Zárt rendszer: amelyben a veszélyes anyag közvetlen környezetétől elhatárolva van jelen úgy, hogy üzemszerű körülmények között hatásai nem veszélyeztetik környezetét.
+
+[^3]: A 6. § 22. pontja az 55/2012. (X. 29.) BM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 6. § 25. pontja az 55/2012. (X. 29.) BM rendelet 57. § a) pontja szerint módosított szöveg.
+[^5]: A 6. § 42. pontja az 55/2012. (X. 29.) BM rendelet 58. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 6. § 42. pontja az 55/2012. (X. 29.) BM rendelet 58. § (1) bekezdés a) pontja szerint módosított szöveg.
