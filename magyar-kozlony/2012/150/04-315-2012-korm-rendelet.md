@@ -1,0 +1,2347 @@
+# A Kormány 315/2012. (XI. 13.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 150. szám, 2012. november 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/bc7db6c1880e307f0d22fdda7a6944c1c29b1dd9/dokumentumok/59055837e02ac3dc8d277ac40ff7dec838f8bab6/letoltes)
+
+---
+
+A Kormány 315/2012. (XI. 13.) Korm. rendelete
+a nemzeti köznevelésről szóló törvény végrehajtásáról rendelkező 229/2012. (VIII. 28.)
+Korm. rendelet módosításáról
+A Kormány a nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdés n) és p) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § A nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet (a továbbiakban: R.)
+35. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Ha a 34. § (1) bekezdés e) pontja szerinti esetben a középszintű érettségi vizsgára jelentkező a vizsgaszervező
+nevelési-oktatási intézménybe nyújtja be a jelentkezési lapját, a (4) bekezdésben meghatározottakat azzal
+az eltéréssel kell alkalmazni, hogy a középszintű vizsga térítési díj összegét a jelentkező a vizsgaszervező
+nevelési-oktatási intézmény számára fizeti meg.”
+2. § Az R. V. Fejezetének címe helyébe a következő szöveg lép:
+„V. FEJEZET
+A KÖZNEVELÉSI INTÉZMÉNY MŰKÖDTETÉSÉNEK VÁLLALÁSÁRA VONATKOZÓ KÉRELEM ÉS A MŰKÖDTETÉSI
+KÖTELEZETTSÉG ALÓLI MENTESÜLÉS IRÁNTI KÉRELEM BENYÚJTÁSÁNAK ÉS ELBÍRÁLÁSÁNAK SZABÁLYAI”
+3. § Az R. 39. § helyébe a következő rendelkezés lép:
+„39. § (1) A települési önkormányzat a köznevelési intézmény feladatait szolgáló ingatlan Nkt. 74. § (4) bekezdése
+szerinti működtetési kötelezettsége alóli mentesülésre vagy az Nkt. 74. § (5) bekezdése szerinti működtetés vállalására
+vonatkozó kérelmét az erre a célra létrehozott honlapon történő kitöltésével és a lezárt rögzítés alapján nyomtatott
+adatlap egy eredeti és egy hitelesített másolati példányban a kincstár települési önkormányzat székhelye szerint
+illetékes területi szerve (a továbbiakban: Igazgatóság) részére postai úton történő megküldésével nyújthatja be.
+(2) Az (1) bekezdés szerinti kérelemhez a települési önkormányzat csatolja
+a) az 1–3. melléklet szerinti – a miniszter által az államháztartásért felelős miniszterrel és a helyi önkormányzatokért
+felelős miniszterrel közösen kiadott és közzétett útmutatónak megfelelően kitöltött – adatlapokat, és
+b) a mentesülési szándékot alátámasztó 4. melléklet szerinti nyilatkozatot, vagy a működtetés vállalásának szándékát
+alátámasztó 6. melléklet szerinti nyilatkozatot és a 7. melléklet szerinti jegyzőkönyvi kivonatot.
+(3) A települési önkormányzat által önállóan vagy intézményi társulás székhelyeként fenntartott köznevelési
+intézményhez tartozó, a települési önkormányzat tulajdonában álló ingatlanok adatait az (1) bekezdés szerinti
+kérelemben összevontan kell megadni. A települési önkormányzat tulajdonában lévő azon ingatlanról, amely másik
+települési önkormányzat,másik települési önkormányzatszékhelyénműködő intézményi társulás, többcélú kistérségi
+társulás vagy megyei intézményfenntartó központ fenntartásában van, önállóan szolgáltat adatot.”
+4. § (1) Az R. 41. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+[A 39. § (1) bekezdése szerinti kérelem alapján a miniszter, a helyi önkormányzatokért felelős miniszter és az
+államháztartásért felelős miniszter – a miniszter által létrehozott és működtetett tárcaközi bizottság javaslata alapján –
+a 39. § (1) bekezdése szerinti kérelem miniszterhez történő megküldésétől számított 10 napon belül együttesen]
+„b) meghatározza a települési önkormányzat hozzájárulási kötelezettségének mértékét, ha a működtetési képesség
+hiánya nem vagy csak részben állapítható meg, vagy”
+(2) Az R. 41. § (1) bekezdése a következő c) ponttal egészül ki:
+[A 39. § (1) bekezdése szerinti kérelem alapján a miniszter, a helyi önkormányzatokért felelős miniszter és
+az államháztartásért felelős miniszter – a miniszter által létrehozott és működtetett tárcaközi bizottság javaslata alapján –
+a 39. § (1) bekezdése szerinti kérelem miniszterhez történő megküldésétől számított 10 napon belül együttesen]
+„c) helyt ad a települési önkormányzat Nkt. 74. § (5) bekezdése szerinti működtetés vállalására vonatkozó kérelmének,
+vagy azt elutasítja.”
+
+5. § Az R. 42. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az Nkt. 74. § (4) bekezdése szerinti települési önkormányzat a 41. § (1) bekezdés b) pontja szerinti döntés esetén
+az erről szóló értesítés kézhezvételétől számított 9 napon belül az 5. mellékletnek megfelelő adatlapnak az erre a célra
+létrehozotthonlapontörténőkitöltésévelésa lezártrögzítésalapjánnyomtatott adatlapegy eredeti ésegy hitelesített
+másolati példányban az Igazgatóság részére postai úton történő megküldésével tájékoztatja a minisztert
+a hozzájárulás feltételei vállalásáról hozott döntéséről.”
+6. § (1) Az R. 3/b. melléklete helyébe a 1. melléklet lép.
+(2) Az R. 3/c. melléklete helyébe a 2. melléklet lép.
+(3) Az R. 5. melléklete helyébe a 3. melléklet lép.
+7. § Az R.
+a) 35. § (1) bekezdés b) pontjában a „34. § (1) bekezdés c) pontjában” szövegrész helyébe a „34. § (1) bekezdés b) és
+c) pontjában” szöveg,
+b) 36. § (1) bekezdés a) pontjában a „huszonegyedik” szövegrész helyébe a „huszonkettedik” szöveg,
+c) 36. § (3) bekezdésében a „34. § (6) bekezdésére” szövegrész helyébe a „35. § (6) bekezdésére” szöveg,
+d) 47. § (1) bekezdésében a „4. § (1) és (4) bekezdése” szövegrész helyébe a „4. § (1) bekezdése” szöveg,
+e) 48. § (1) bekezdésében az „október 31-éig” szövegrész helyébe a „november 30-áig” szöveg,
+f) 1. melléklete szerinti táblázat fejrovatában a „2012. évi várható előirányzat” szövegrész helyébe a „2012. évi
+várható előirányzat (prognosztizált 2012. év végi teljesítési adat)” szöveg,
+g) 1. melléklet 27.c sorában a „29. sorból” szövegrész helyébe a „27. sorból” szöveg,
+h) 1. melléklet 45.a és 45.b sorában a „25. sorból” szövegrész helyébe a „45. sorból” szöveg,
+i) 1. mellékletében a „mentesülési kérelem” szövegrész helyébe a „mentesülési vagy a működtetés vállalására
+vonatkozó kérelem” szöveg,
+j) 3/a. melléklet 1. pontjában a „Közoktatási Információs rendszer” szövegrész helyébe a „köznevelés információs
+rendszer” szöveg,
+k) 3/a. melléklet 1. és 2. pontjában az „önkormányzati társulás fenntartásában” szövegrész helyébe
+az „önkormányzati társulás, valamint megyei intézményfenntartó központ fenntartásában” szöveg,
+l) 4. mellékletében a „97. § (24) bekezdés b) pontja” szövegrész helyébe a „97. § (24) bekezdés a) pont ab) alpontja”
+szöveg,
+m) 6. és 7. mellékletében a „97. § (24) bekezdés a) pontja” szövegrész helyébe a „97. § (24) bekezdés a) pont
+aa) alpontja” szöveg
+lép.
+8. § (1) Hatályát veszti az R.
+a) 41. § (1) bekezdés a) pontjában a „vagy” szövegrész,
+b) 44. §-ában az „és 43. § (1) bekezdése” szövegrész.
+(2) Hatályát veszti az R. 43. §-a.
+9. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök
+
+1. melléklet a 315/2012. (XI. 13.) Korm. rendelethez
+„3/b. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez
+Ebr azonosító
+Önkormányzat
+Önkormányzat által önállóan vagy intézményi társulás székhelyeként fenntartott köznevelési intézményekhez tartozó, az önkormányzat tulajdonában álló
+épületek összevont adatai
+ezer Ft
+2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem
+a pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+1 F04a Iskolai előkészítés
+és alapfokú oktatás
+2 852011 Általános iskolai
+tanulók nappali
+rendszerű
+nevelése, oktatása
+(1-4. évfolyam)
+3 852012 Sajátos nevelési
+igényű általános
+iskolai tanulók
+nappali rendszerű
+nevelése, oktatása
+(1-4 évfolyam)
+
+2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem
+a pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+4 852013 Nemzetiségi
+tanulók nappali
+rendszerű
+általános iskolai
+nevelése, oktatása
+(1–4 évfolyam)
+5 852014 Általános iskolai
+felnőttoktatás
+(1–4. évfolyam)
+6 852021 Általános iskolai
+tanulók nappali
+rendszerű
+nevelése, oktatása
+(5–8. évfolyam)
+7 852022 Sajátos nevelési
+igényű általános
+iskolai tanulók
+nappali rendszerű
+nevelése, oktatása
+(5–8. évfolyam)
+8 852023 Nemzetiségi
+tanulók nappali
+rendszerű
+általános iskolai
+nevelése, oktatása
+(5–8. évfolyam)
+
+2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem
+a pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+9 852024 Általános iskolai
+felnőttoktatás
+(5–8. évfolyam)
+10 852031 Alapfokú
+művészetoktatás
+zeneművészeti
+ágban
+11 852032 Alapfokú
+művészetoktatás
+képző- és
+iparművészeti,
+táncművészeti,
+szín- és
+bábművészeti
+ágban
+12 F04b Középfokú oktatás
+13 853111 Nappali rendszerű
+gimnáziumi
+oktatás (9–12/13.
+évfolyam)
+14 853112 Sajátos nevelési
+igényű tanulók
+nappali rendszerű
+gimnáziumi
+oktatása (9–12/13.
+évfolyam)
+
+2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem
+a pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+15 853113 Nemzetiségi
+tanulók nappali
+rendszerű
+gimnáziumi
+oktatása (9–12/13.
+évfolyam)
+16 853114 Gimnáziumi
+felnőttoktatás
+(9–12/13.
+évfolyam)
+17 853121 Nappali rendszerű
+szakközépiskolai
+oktatás (9–12/13.
+évfolyam)
+18 853122 Sajátos nevelési
+igényű tanulók
+nappali rendszerű
+szakközépiskolai
+oktatása (9–12/13.
+évfolyam)
+19 853123 Nemzetiségi
+tanulók nappali
+rendszerű
+szakközépiskolai
+oktatása (9–12/13.
+évfolyam)
+
+2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem
+a pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+20 853124 Szakközépiskolai
+felnőttoktatás
+(9–12/13.
+évfolyam)
+21 F04d Egyéb oktatás
+22 479901 Tankönyvforgal-
+mazás
+költségvetési
+szervnél
+23 559011 Kollégiumi
+szálláshelynyújtás
+közoktatásban
+tanulók számára
+24 559015 Közoktatásban
+tanulók lakhatási
+támogatása
+25 855911 Általános iskolai
+napközi otthoni
+nevelés
+26 855912 Sajátos nevelési
+igényű tanulók
+napközi otthoni
+nevelése
+27 855913 Nemzetiségi
+tanulók napközi
+otthoni nevelése
+
+2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem
+a pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+28 855914 Általános iskolai
+tanulószobai
+nevelés
+29 855915 Sajátos nevelési
+igényű tanulók
+általános iskolai
+tanulószobai
+nevelése
+30 855916 Nemzetiségi
+tanulók általános
+iskolai
+tanulószobai
+nevelése
+31 855917 Középiskolai,
+szakiskolai
+tanulószobai
+nevelés
+32 855918 Sajátos nevelési
+igényű
+középiskolai,
+szakiskolai tanulók
+tanulószobai
+nevelése
+
+2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem
+a pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+33 855921 Nappali rendszerű
+iskolai oktatásban
+részt vevő tanulók
+kollégiumi,
+externátusi
+nevelése
+34 855922 Nappali rendszerű
+iskolai oktatásban
+részt vevő sajátos
+nevelési igényű
+tanulók kollégiumi,
+externátusi
+nevelése
+35 855923 Nappali rendszerű
+iskolai oktatásban
+részt vevő
+nemzetiségi
+tanulók kollégiumi,
+externátusi
+nevelése
+36 856011 Pedagógiai
+szakszolgáltató
+tevékenység
+37 856012 Korai fejlesztés,
+gondozás
+
+2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem
+a pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+38 856013 Fejlesztő
+felkészítés
+39 856020 Pedagógiai
+szakmai
+szolgáltatások
+Összesen:
+
+ezer Ft
+2013. évi prognosztizált előirányzat oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem
+a pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+1 F04a Iskolai előkészítés
+és alapfokú oktatás
+2 852011 Általános iskolai
+tanulók nappali
+rendszerű
+nevelése, oktatása
+(1–4. évfolyam)
+3 852012 Sajátos nevelési
+igényű általános
+iskolai tanulók
+nappali rendszerű
+nevelése, oktatása
+(1–4 évfolyam)
+4 852013 Nemzetiségi
+tanulók nappali
+rendszerű
+általános iskolai
+nevelése, oktatása
+(1–4 évfolyam)
+5 852014 Általános iskolai
+felnőttoktatás
+(1–4. évfolyam)
+
+2013. évi prognosztizált előirányzat oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem
+a pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+6 852021 Általános iskolai
+tanulók nappali
+rendszerű
+nevelése, oktatása
+(5–8. évfolyam)
+7 852022 Sajátos nevelési
+igényű általános
+iskolai tanulók
+nappali rendszerű
+nevelése, oktatása
+(5–8. évfolyam)
+8 852023 Nemzetiségi
+tanulók nappali
+rendszerű
+általános iskolai
+nevelése, oktatása
+(5–8. évfolyam)
+9 852024 Általános iskolai
+felnőttoktatás
+(5–8. évfolyam)
+10 852031 Alapfokú
+művészetoktatás
+zeneművészeti
+ágban
+
+2013. évi prognosztizált előirányzat oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem
+a pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+11 852032 Alapfokú
+művészetoktatás
+képző- és
+iparművészeti,
+táncművészeti,
+szín- és
+bábművészeti
+ágban
+12 F04b Középfokú oktatás
+13 853111 Nappali rendszerű
+gimnáziumi
+oktatás (9–12/13.
+évfolyam)
+14 853112 Sajátos nevelési
+igényű tanulók
+nappali rendszerű
+gimnáziumi
+oktatása (9–12/13.
+évfolyam)
+15 853113 Nemzetiségi
+tanulók nappali
+rendszerű
+gimnáziumi
+oktatása (9–12/13.
+évfolyam)
+
+2013. évi prognosztizált előirányzat oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem
+a pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+16 853114 Gimnáziumi
+felnőttoktatás
+(9–12/13.
+évfolyam)
+17 853121 Nappali rendszerű
+szakközépiskolai
+oktatás (9–12/13.
+évfolyam)
+18 853122 Sajátos nevelési
+igényű tanulók
+nappali rendszerű
+szakközépiskolai
+oktatása (9–12/13.
+évfolyam)
+19 853123 Nemzetiségi
+tanulók nappali
+rendszerű
+szakközépiskolai
+oktatása (9–12/13.
+évfolyam)
+20 853124 Szakközépiskolai
+felnőttoktatás
+(9–12/13.
+évfolyam)
+21 F04d Egyéb oktatás
+
+2013. évi prognosztizált előirányzat oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem
+a pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+22 479901 Tankönyvforgal-
+mazás
+költségvetési
+szervnél
+23 559011 Kollégiumi
+szálláshelynyújtás
+közoktatásban
+tanulók számára
+24 559015 Közoktatásban
+tanulók lakhatási
+támogatása
+25 855911 Általános iskolai
+napközi otthoni
+nevelés
+26 855912 Sajátos nevelési
+igényű tanulók
+napközi otthoni
+nevelése
+27 855913 Nemzetiségi
+tanulók napközi
+otthoni nevelése
+28 855914 Általános iskolai
+tanulószobai
+nevelés
+
+2013. évi prognosztizált előirányzat oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem
+a pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+29 855915 Sajátos nevelési
+igényű tanulók
+általános iskolai
+tanulószobai
+nevelése
+30 855916 Nemzetiségi
+tanulók általános
+iskolai
+tanulószobai
+nevelése
+31 855917 Középiskolai,
+szakiskolai
+tanulószobai
+nevelés
+32 855918 Sajátos nevelési
+igényű
+középiskolai,
+szakiskolai tanulók
+tanulószobai
+nevelése
+33 855921 Nappali rendszerű
+iskolai oktatásban
+részt vevő tanulók
+kollégiumi,
+externátusi
+nevelése,
+
+2013. évi prognosztizált előirányzat oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem
+a pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+34 855922 Nappali rendszerű
+iskolai oktatásban
+részt vevő sajátos
+nevelési igényű
+tanulók kollégiumi,
+externátusi
+nevelése
+35 855923 Nappali rendszerű
+iskolai oktatásban
+részt vevő
+nemzetiségi
+tanulók kollégiumi,
+externátusi
+nevelése
+36 856011 Pedagógiai
+szakszolgáltató
+tevékenység
+
+2013. évi prognosztizált előirányzat oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem
+a pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+37 856012 Korai fejlesztés,
+gondozás
+38 856013 Fejlesztő
+felkészítés
+39 856020 Pedagógiai
+szakmai
+szolgáltatások
+Összesen:
+………………………………. P. H. ……………………………………
+(fő)jegyző polgármester”
+
+2. melléklet a 315/2012. (XI. 13.) Korm. rendelethez
+„3/ c. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez
+Ebr azonosító
+Önkormányzat
+Az önkormányzat tulajdonában lévő azon épületek adatai, amely jelenleg másik önkormányzat, másik önkormányzati székhelyű intézményi társulás,
+többcélú kistérségi társulás vagy megyei intézményfenntartó központ fenntartásában van
+ezer Ft
+2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem a
+pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+1 F04a Iskolai előkészítés
+és alapfokú oktatás
+2 852011 Általános iskolai
+tanulók nappali
+rendszerű
+nevelése, oktatása
+(1–4. évfolyam)
+3 852012 Sajátos nevelési
+igényű általános
+iskolai tanulók
+nappali rendszerű
+nevelése, oktatása
+(1–4 évfolyam)
+
+2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem a
+pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+4 852013 Nemzetiségi
+tanulók nappali
+rendszerű
+általános iskolai
+nevelése, oktatása
+(1–4 évfolyam)
+5 852014 Általános iskolai
+felnőttoktatás
+(1–4. évfolyam)
+6 852021 Általános iskolai
+tanulók nappali
+rendszerű
+nevelése, oktatása
+(5–8. évfolyam)
+7 852022 Sajátos nevelési
+igényű általános
+iskolai tanulók
+nappali rendszerű
+nevelése, oktatása
+(5–8. évfolyam)
+8 852023 Nemzetiségi
+tanulók nappali
+rendszerű
+általános iskolai
+nevelése, oktatása
+(5–8. évfolyam)
+
+2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem a
+pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+9 852024 Általános iskolai
+felnőttoktatás
+(5–8. évfolyam)
+10 852031 Alapfokú
+művészetoktatás
+zeneművészeti
+ágban
+11 852032 Alapfokú
+művészetoktatás
+képző- és
+iparművészeti,
+táncművészeti,
+szín- és
+bábművészeti
+ágban
+12 F04b Középfokú oktatás
+13 853111 Nappali rendszerű
+gimnáziumi
+oktatás (9–12/13.
+évfolyam)
+14 853112 Sajátos nevelési
+igényű tanulók
+nappali rendszerű
+gimnáziumi
+oktatása (9–12/13.
+évfolyam)
+
+2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem a
+pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+15 853113 Nemzetiségi
+tanulók nappali
+rendszerű
+gimnáziumi
+oktatása (9–12/13.
+évfolyam)
+16 853114 Gimnáziumi
+felnőttoktatás
+(9–12/13.
+évfolyam)
+17 853121 Nappali rendszerű
+szakközépiskolai
+oktatás (9–12/13.
+évfolyam)
+18 853122 Sajátos nevelési
+igényű tanulók
+nappali rendszerű
+szakközépiskolai
+oktatása (9–12/13.
+évfolyam)
+19 853123 Nemzetiségi
+tanulók nappali
+rendszerű
+szakközépiskolai
+oktatása (9–12/13.
+évfolyam)
+
+2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem a
+pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+20 853124 Szakközépiskolai
+felnőttoktatás
+(9–12/13.
+évfolyam)
+21 F04d Egyéb oktatás
+22 479901 Tankönyvforgal-
+mazás
+költségvetési
+szervnél
+23 559011 Kollégiumi
+szálláshelynyújtás
+közoktatásban
+tanulók számára
+24 559015 Közoktatásban
+tanulók lakhatási
+támogatása
+25 855911 Általános iskolai
+napközi otthoni
+nevelés
+26 855912 Sajátos nevelési
+igényű tanulók
+napközi otthoni
+nevelése
+27 855913 Nemzetiségi
+tanulók napközi
+otthoni nevelése
+
+2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem a
+pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+28 855914 Általános iskolai
+tanulószobai
+nevelés
+29 855915 Sajátos nevelési
+igényű tanulók
+általános iskolai
+tanulószobai
+nevelése
+30 855916 Nemzetiségi
+tanulók általános
+iskolai
+tanulószobai
+nevelése
+31 855917 Középiskolai,
+szakiskolai
+tanulószobai
+nevelés
+32 855918 Sajátos nevelési
+igényű
+középiskolai,
+szakiskolai tanulók
+tanulószobai
+nevelése
+
+2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem a
+pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+33 855921 Nappali rendszerű
+iskolai oktatásban
+részt vevő tanulók
+kollégiumi,
+externátusi
+nevelése
+34 855922 Nappali rendszerű
+iskolai oktatásban
+részt vevő sajátos
+nevelési igényű
+tanulók kollégiumi,
+externátusi
+nevelése
+35 855923 Nappali rendszerű
+iskolai oktatásban
+részt vevő
+nemzetiségi
+tanulók kollégiumi,
+externátusi
+nevelése
+36 856011 Pedagógiai
+szakszolgáltató
+tevékenység
+
+2012. évi féléves beszámoló szerinti teljesítési adatok oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem a
+pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+37 856012 Korai fejlesztés,
+gondozás
+38 856013 Fejlesztő
+felkészítés
+39 856020 Pedagógiai
+szakmai
+szolgáltatások
+Összesen:
+
+ezer Ft
+2013. évi prognosztizált előirányzat oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem a
+pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+1 F04a Iskolai előkészítés
+és alapfokú oktatás
+2 852011 Általános iskolai
+tanulók nappali
+rendszerű
+nevelése, oktatása
+(1–4. évfolyam)
+3 852012 Sajátos nevelési
+igényű általános
+iskolai tanulók
+nappali rendszerű
+nevelése, oktatása
+(1–4 évfolyam)
+4 852013 Nemzetiségi
+tanulók nappali
+rendszerű
+általános iskolai
+nevelése, oktatása
+(1–4 évfolyam)
+5 852014 Általános iskolai
+felnőttoktatás
+(1–4. évfolyam)
+
+2013. évi prognosztizált előirányzat oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem a
+pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+6 852021 Általános iskolai
+tanulók nappali
+rendszerű
+nevelése, oktatása
+(5–8. évfolyam)
+7 852022 Sajátos nevelési
+igényű általános
+iskolai tanulók
+nappali rendszerű
+nevelése, oktatása
+(5–8. évfolyam)
+8 852023 Nemzetiségi
+tanulók nappali
+rendszerű
+általános iskolai
+nevelése, oktatása
+(5–8. évfolyam)
+9 852024 Általános iskolai
+felnőttoktatás
+(5–8. évfolyam)
+10 852031 Alapfokú
+művészetoktatás
+zeneművészeti
+ágban
+
+2013. évi prognosztizált előirányzat oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem a
+pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+11 852032 Alapfokú
+művészetoktatás
+képző- és
+iparművészeti,
+táncművészeti,
+szín- és
+bábművészeti
+ágban
+12 F04b Középfokú oktatás
+13 853111 Nappali rendszerű
+gimnáziumi
+oktatás (9–12/13.
+évfolyam)
+14 853112 Sajátos nevelési
+igényű tanulók
+nappali rendszerű
+gimnáziumi
+oktatása (9–12/13.
+évfolyam)
+15 853113 Nemzetiségi
+tanulók nappali
+rendszerű
+gimnáziumi
+oktatása (9–12/13.
+évfolyam)
+
+2013. évi prognosztizált előirányzat oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem a
+pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+16 853114 Gimnáziumi
+felnőttoktatás
+(9–12/13.
+évfolyam)
+17 853121 Nappali rendszerű
+szakközépiskolai
+oktatás (9–12/13.
+évfolyam)
+18 853122 Sajátos nevelési
+igényű tanulók
+nappali rendszerű
+szakközépiskolai
+oktatása (9–12/13.
+évfolyam)
+19 853123 Nemzetiségi
+tanulók nappali
+rendszerű
+szakközépiskolai
+oktatása (9–12/13.
+évfolyam)
+20 853124 Szakközépiskolai
+felnőttoktatás
+(9–12/13.
+évfolyam)
+21 F04d Egyéb oktatás
+
+2013. évi prognosztizált előirányzat oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem a
+pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+22 479901 Tankönyvforgal-
+mazás
+költségvetési
+szervnél
+23 559011 Kollégiumi
+szálláshelynyújtás
+közoktatásban
+tanulók számára
+24 559015 Közoktatásban
+tanulók lakhatási
+támogatása
+25 855911 Általános iskolai
+napközi otthoni
+nevelés
+26 855912 Sajátos nevelési
+igényű tanulók
+napközi otthoni
+nevelése
+27 855913 Nemzetiségi
+tanulók napközi
+otthoni nevelése
+28 855914 Általános iskolai
+tanulószobai
+nevelés
+
+2013. évi prognosztizált előirányzat oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem a
+pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+29 855915 Sajátos nevelési
+igényű tanulók
+általános iskolai
+tanulószobai
+nevelése
+30 855916 Nemzetiségi
+tanulók általános
+iskolai
+tanulószobai
+nevelése
+31 855917 Középiskolai,
+szakiskolai
+tanulószobai
+nevelés
+32 855918 Sajátos nevelési
+igényű
+középiskolai,
+szakiskolai tanulók
+tanulószobai
+nevelése
+33 855921 Nappali rendszerű
+iskolai oktatásban
+részt vevő tanulók
+kollégiumi,
+externátusi
+nevelése
+
+2013. évi prognosztizált előirányzat oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem a
+pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+34 855922 Nappali rendszerű
+iskolai oktatásban
+részt vevő sajátos
+nevelési igényű
+tanulók kollégiumi,
+externátusi
+nevelése
+35 855923 Nappali rendszerű
+iskolai oktatásban
+részt vevő
+nemzetiségi
+tanulók kollégiumi,
+externátusi
+nevelése
+
+2013. évi prognosztizált előirányzat oktatási szakfeladatonként
+No. Megnevezés (űrlap/sor)
+MŰKÖDÉSI KIADÁSOK
+FELÚJÍTÁSI KIADÁSOK MŰKÖDÉSI BEVÉTELEK FELÚJÍTÁSI BEVÉTELEK
+Nem pedagógus
+munkakörben, és nem a
+pedagógusok
+nevelő-oktató munkáját
+közvetlenül segítő
+munkakörben
+foglalkoztatottak
+személyi juttatásai
+(munkaadókat terhelő
+járulékokkal) összesen
+Dologi kiadások (áfa-val)
++ egyéb folyó kiadások
++ irányító szerv alá
+tartozó költségvetési
+szervnek folyósított
+támogatás +
+támogatásértékű
+működési kiadás
+összesen + előző évi
+működési célú
+előirányzat-,
+pénz-maradvány átadás
+összesen
+Társadalom-,
+szociál-politikai és
+egyéb juttatás,
+támogatás + ellátottak
+pénzbeli juttatásai
+Működési célú
+pénzeszköz-átadások
+állam-háztartáson
+kívülre összesen +
+támogatási kölcsönök
+nyújtása, törlesztése
+összesen
+21-4 + 21-5 sorokból
+21-6 + 21-7 + 21-9 +
+21-21 + 21-29
+21-46 + 21-48 21-45 + 21-126 21-50 + 21-77 + 21-116
+22-3 + 22-7 + 22-19 +
+22-27 + 22-41 + 22-109
++ 22-112
+22-66 + 22-101
+36 856011 Pedagógiai
+szakszolgáltató
+tevékenység
+37 856012 Korai fejlesztés,
+gondozás
+38 856013 Fejlesztő
+felkészítés
+39 856020 Pedagógiai
+szakmai
+szolgáltatások
+Összesen:
+………………………………. P.H ……………………………………
+(fő)jegyző polgármester”
+
+3. melléklet a 315/2012. (XI. 13.) Korm. rendelethez
+„5. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez
+Ebr azonosító:
+Önkormányzat
+neve:
+Jegyzőkönyvi kivonat
+……… Képviselő-testület (Közgyűlés)
+2012. évi ……-i ülésének jegyzőkönyvéből
+…… /2012. ( . .) határozata
+A nemzeti köznevelésről szóló 2011. évi CXC. törvény (Nkt.) 97. § (24) bekezdés ab) pontja alapján meghozott döntésről
+….Város/Község Képviselő-testülete/Közgyűlése az Nkt. 74. § (4) bekezdésében foglaltak alapján az önkormányzat
+rendelkezésére álló saját és átengedett bevételek terhére a saját tulajdonában álló – az állami intézményfenntartó
+központ által 2013. január 1-jétől fenntartott köznevelési intézmény feladatainak ellátását szolgáló – ingó és ingatlan
+vagyon működtetéséhez megállapított hozzájárulás megfizetését vállalja.
+Kelt:
+P. H.
+………………………….. …………………………..
+(fő)jegyző polgármester”

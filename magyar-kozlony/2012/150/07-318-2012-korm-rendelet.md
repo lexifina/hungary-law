@@ -1,0 +1,265 @@
+# A Kormány 318/2012. (XI. 13.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 150. szám, 2012. november 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/bc7db6c1880e307f0d22fdda7a6944c1c29b1dd9/dokumentumok/59055837e02ac3dc8d277ac40ff7dec838f8bab6/letoltes)
+
+---
+
+A Kormány 318/2012. (XI. 13.) Korm. rendelete
+a fenntartható bioüzemanyag-termelés követelményeiről és igazolásáról szóló
+343/2010. (XII. 28.) Korm. rendelet módosításáról
+A Kormány a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia
+üvegházhatásúgázkibocsátásánakcsökkentésérőlszóló2010. éviCXVII. törvény13. § (1) bekezdésc)–f), h)–l) ésn) pontjábankapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A fenntartható bioüzemanyag-termelés követelményeiről és igazolásáról szóló 343/2010. (XII. 28.) Korm. rendelet
+(a továbbiakban: R.) 1. § (1) bekezdése a következő 3a. ponttal egészül ki:
+(E rendelet alkalmazásában:)
+„3a. bérfeldolgozás: a mezőgazdasági igazgatási szerv nyilvántartásában szereplő biomassza feldolgozó által más
+gazdálkodó szervezet tulajdonában álló biomassza vagy köztes termék – fizikai vagy kémiai eljárás útján –
+bioüzemanyaggá vagy köztes termékké történő feldolgozása;”
+(2) Az R. 1. § (1) bekezdése a következő 18a. ponttal egészül ki:
+(E rendelet alkalmazásában:)
+„18a. termesztett biomassza: a mezőgazdasággal és erdőgazdálkodással kapcsolatos tevékenység keretében
+a termőföldről szóló törvény szerinti termőföldön vagy mező-, erdőgazdasági művelés alatt álló belterületi földön
+előállított biomassza;”
+2. § (1) Az R. 3. § (4) és (5) bekezdése helyébe a következő rendelkezés lép:
+„(4) A biomassza (1) bekezdésben foglalt feltételeknek való megfeleléséről a biomassza termelő a betakarítást vagy
+a területről történő begyűjtést követő év július 31-ig, kukorica esetében október 31-ig állíthat ki biomassza igazolást.
+Ugyanarra a biomassza mennyiségre – a (9) bekezdés szerinti kivétellel – egy biomassza igazolás állítható ki.
+(5) A biomassza termelő biomassza igazolást az általa megtermelt vagy begyűjtött, illetve tevékenységéből származó
+vagy tevékenysége során keletkezett és a tulajdonában lévő biomassza mennyiségre állíthat ki.”
+(2) Az R. 3. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) A biomassza termelője a biomassza igazoláshoz azonosító számot (a továbbiakban: biomassza igazolás sorszám)
+köteles hozzárendelni.Egy biomasszaigazolás sorszámhozkizárólag egy biomasszaigazolás rendelhető, valamint egy
+biomassza igazolás csak egy biomassza igazolás sorszámon állítható ki. A biomassza igazolás sorszámnak sorrendben
+a következő adatokat kell tartalmaznia:
+a) biomassza termelőjének regisztrációs száma vagy nem termesztett biomassza esetében az igazolás kiállítójának
+adószáma vagy adóazonosító jele;
+b) igazolásonként 1-gyel növekvő sorszám, ami naptári évenként 1-es sorszámmal kezdődik;
+c) a kiadás évszáma.”
+
+3. § (1) Az R. 4. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+[A bioüzemanyag üvegházhatású gázkibocsátási nyilvántartásba (a továbbiakban: BÜHG nyilvántartás) bejegyzett]
+„b) biomassza feldolgozó az általa értékesített vagy bérfeldolgozás keretében feldolgozott és fenntarthatóan
+megtermeltnek minősülő biomasszából előállított köztes termékre vagy fenntarthatóan előállítottnak minősülő
+bioüzemanyagra,”
+(fenntarthatósági igazolást állíthat ki.)
+(2) Az R. 4. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A fenntarthatósági igazolás kiállítója az igazoláshoz azonosító számot (a továbbiakban: igazolás azonosítószám)
+köteles hozzárendelni. Egy igazolás azonosítószámhoz kizárólag egy fenntarthatósági igazolás rendelhető, valamint
+egy fenntarthatósági igazolás csak egy igazolás azonosítószámon állítható ki. Az igazolás azonosítószámnak
+sorrendben a következő adatokat kell tartalmaznia:
+a) a biomassza kereskedő esetében a „BK”, biomassza feldolgozó esetében a „BF”, az üzemanyag-forgalmazó
+esetében pedig az „ÜF” betűkód;
+b) fenntarthatósági igazolás kiállítójának regisztrációs száma;
+c) igazolásonként 1-gyel növekvő sorszám, ami naptári évenként 1-es sorszámmal kezdődik;
+d) a kiadás évszáma.”
+(3) Az R. 4. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) A fenntarthatósági igazolás kiállítója az (1) bekezdés szerinti termékek tulajdonjog átruházásának teljes vagy
+részleges meghiúsulása esetén a már kiállított igazolást köteles visszavonni és annak tényét a visszavonást követő
+10 napon belül a mezőgazdasági igazgatási szerv honlapján közzétett, erre a célra rendszeresített nyomtatványon
+a mezőgazdasági igazgatási szervnek bejelenteni. A termék tulajdonjog átruházásának meghiúsulása különösen,
+ha a termék megvásárlójának személyében változás áll be.”
+4. § (1) Az R. 5. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) Több üzemanyag- vagy bioüzemanyag-típust tartalmazó üzemanyag esetében az üzemanyag teljes
+mennyiségére vonatkozóenergiatartalmat az üzemanyagban legnagyobb térfogatarányt képviselőüzemanyag-típus
+1. mellékletben meghatározott energiatartalmának figyelembevételével kell meghatározni.”
+(2) Az R. 5. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A kötelező bioüzemanyag-részarány számításánál a motorbenzin és a dízelgázolaj esetében egyaránt az
+energiatartalomban kifejezett forgalomba hozott mennyiség 4,9%-át kell figyelembe venni a 2014. január 1. és
+2015. december 31. közötti időszakban.”
+5. § Az R. 6. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A Büat. 6. § (2) bekezdése szerinti jelentést a 4. melléklet szerinti adattartalommal kell elkészíteni és a Nemzeti
+Adó- és Vámhivatal internetes honlapján közzétett elektronikus formanyomtatványon kell benyújtani.”
+6. § (1) Az R. 7. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A biomassza kereskedő és feldolgozó a 9. § szerinti adatszolgáltatásban szereplő adatokról köteles nyilvántartást vezetni,
+amely tartalmazza:)
+„b) avásárolt,feldolgozottbiomasszamennyiségrevonatkozóbiomasszaigazolástvagyfenntarthatóságiigazolást,”
+(2) Az R. 7. § (4) bekezdés e) pontja helyébe a következő rendelkezés lép:
+(A nyilvántartás adatait számításokkal, bizonylatokkal és hitelesített mérőeszközök alkalmazásával nyert adatokkal kell
+igazolni, az alábbiak szerint:)
+„e) az értékesített biomassza, nem termesztett biomassza, köztes termék, bioüzemanyag és üzemanyag mennyiségét
+szerződésekkel, számlákkal, kitárolási, szállítási okmányokkal,”
+7. § (1) Az R. 8. § (3) bekezdés 1. és 2. pontja helyébe a következő rendelkezés lép:
+(A kérelemnek tartalmaznia kell, valamint ahhoz csatolni kell:)
+„1. természetes személy esetében a természetes személyazonosító adatait, a lakcímét, jogi személy, jogi személyiség
+nélküli gazdasági társaság és egyéni cég esetében a cég nevét, székhelyét, cégjegyzék számát és az adószámát,
+2. egyéni vállalkozó esetében nevét, lakcímét, adószámát, valamint az egyéni vállalkozói igazolvány kiállítóját és
+számát, ennek hiányában az egyéni vállalkozói nyilvántartási számát,”
+
+(2) Az R. 8. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Biomassza kereskedő, biomassza feldolgozó, üzemanyag-forgalmazó BÜHG nyilvántartásba ismételten nem
+vehető vagy BÜHG nyilvántartásba vétele nem hosszabbítható meg, amíg a 9. § (1) bekezdése és a 9. § (2) bekezdése
+szerinti adatszolgáltatási kötelezettségét nem teljesíti.”
+(3) Az R. 8. § (9) bekezdése helyébe a következő rendelkezés lép:
+„(9) A mezőgazdasági igazgatási szerv honlapján közzéteszi:
+a) a BÜHG nyilvántartásban szereplő ügyfél regisztrációs számát;
+b) a nyilvántartásba vett természetes személy vagy egyéni vállalkozó nevét, amennyiben ehhez az ügyfél
+a (2) bekezdés szerinti formanyomtatványon hozzájárult;
+c) a nyilvántartásba vétel kezdő és lejárati időpontját; és
+d) az arra vonatkozó adatot, hogy az ügyfelet biomassza kereskedőként, biomassza feldolgozóként vagy
+üzemanyag-forgalmazóként tartja nyilván.”
+8. § Az R. 9. §-a helyébe a következő rendelkezés lép:
+„9. § (1) A biomassza kereskedő, a biomassza feldolgozó, valamint az üzemanyag-forgalmazó a fenntarthatóság
+igazolására nyilvántartása alapján köteles félévente a tárgyidőszakot követő hónap 15. napjáig adatot szolgáltatni
+a mezőgazdasági igazgatási szerv részére.
+(2) A biomassza kereskedő, a biomassza feldolgozó, valamint az üzemanyag-forgalmazó az adatszolgáltatást köteles
+a mezőgazdasági igazgatási szerv honlapján elektronikusan közzétett, az 5. melléklet szerinti adattartalmú
+nyomtatványon elvégezni.
+(3) Ha a biomassza kereskedő, a biomassza feldolgozó vagy az üzemanyag-forgalmazó adatszolgáltatási
+kötelezettségének az (1) bekezdésben meghatározott határidőig nem tesz eleget, a mezőgazdasági igazgatási szerv
+törli a BÜHG nyilvántartásból.
+(4) Ha az adatszolgáltatás nem felel meg a (2) bekezdés szerinti követelményeknek, a mezőgazdasági igazgatási szerv
+megfelelő határidő tűzésével a biomassza kereskedőt, a biomassza feldolgozót vagy az üzemanyag-forgalmazót
+hiánypótlásra kötelezi.
+(5) A (4) bekezdés szerinti felhívásban előírt határidő eredménytelen leteltét követően a mezőgazdasági igazgatási
+szervabiomasszakereskedőt,biomasszafeldolgozótvagyazüzemanyag-forgalmazóttörliaBÜHGnyilvántartásból.”
+9. § Az R. 11. §-a helyébe a következő rendelkezés lép:
+„11. § A fenntarthatósági követelmények teljesítése igazolható:
+a) biomassza igazolással, fenntarthatósági igazolással vagy fenntarthatósági bizonyítvánnyal,
+b) a 2009/28/EK európai parlamenti és tanácsi irányelv 17–19. cikkének átültetését szolgáló más tagállami jogszabály
+feltételeinek megfelelően kiállított okmánnyal,
+c) a 2009/28/EK európai parlamenti és tanácsi irányelv 18. cikk (4) bekezdése alapján hozott bizottsági határozattal
+elismert önkéntes nemzeti vagy nemzetközi rendszer előírásaival összhangban kiállított okmánnyal vagy
+d) a 2009/28/EK európai parlamenti és tanácsi irányelv 18. cikk (4) bekezdése szerint az Európai Bizottság részéről
+harmadik országgal kötött nemzetközi megállapodással összhangban kiállított okmánnyal.”
+10. § Az R. 12. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A BÜHG nyilvántartásból való törlés tényét a mezőgazdasági igazgatási szerv honlapján közzéteszi.”
+11. § (1) Az R. 13. § (1) bekezdése a következő 5. ponttal egészül ki:
+[A Büat. 3. § (2) bekezdése szerint kiszabható bírság]
+„5. valótlan tartalmú igazolás kiállítása esetén az igazoláson szereplő mennyiség tonnájaként ezerötszáz forint.”
+(2) Az R. 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Ha a valótlan tartalmú igazolás más valótlan tartalmú igazolás alapján, azonban az e rendeletben foglaltak szerint
+került kiállításra, az (1) bekezdés 5. pontja szerinti bírság igazolásonként ezer forint.”
+(3) Az R. 13. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
+„(3a) A 8. § (6) bekezdése szerinti adat-bejelentési kötelezettség megsértése esetén a bírság mértéke a változással
+érintett adatonként tízezer forint, de összesen legfeljebb százezer forint.
+(3b) A 3. § (9) bekezdésében vagy 4. § (8) bekezdésében foglalt bejelentési kötelezettség megsértése esetén a bírság
+mértéke az érintett igazolásonként tizenötezer forint.”
+
+12. § (1) Az R. 2. melléklete helyébe az 1. melléklet lép.
+(2) Az R. 3. melléklete helyébe a 2. melléklet lép.
+(3) Az R. 5. melléklete a 3. melléklet szerint módosul.
+13. § Az R. 4. § (1) bekezdésében a „fenntarthatósági igazolást állíthat ki” szövegrész helyébe az „a termék birtokba adását
+követő 30 napon belül fenntarthatósági igazolást állíthat ki” szöveg lép.
+14. § (1) Hatályát veszti az R. 1. § (1) bekezdés 19. pontja.
+(2) Hatályát veszti az R. 13. § (1) bekezdés 3. pontjában a „valótlan tartalommal vagy” szövegrész.
+15. § Ez a rendelet a kihirdetését követő hónap első napján lép hatályba.
+16. § Ez a rendelet
+a) a megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv
+módosításáról és azt követő hatályon kívül helyezéséről szóló, 2009. április 23-i 2009/28/EK európai parlamenti és
+tanácsi irányelv 17. cikk (1) bekezdésének, valamint
+b) a benzinre, a dízelolajra és a gázolajra vonatkozó követelmények, illetőleg az üvegházhatású kibocsátott gázok
+mennyiségének nyomon követését és mérséklését célzó mechanizmus bevezetése tekintetében a 98/70/EK
+irányelv módosításáról, a belvízi hajókban felhasznált tüzelőanyagokra vonatkozó követelmények tekintetében
+az 1999/32/EK irányelv módosításáról, valamint a 93/12/EGK irányelv hatályon kívül helyezéséről szóló, 2009.
+április 23-i 2009/30/EK európai parlamenti és tanácsi irányelv 1. cikk 5. pontjának és 1. cikk 6. pontjának
+való megfelelést szolgálja.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet a 318/2012. (XI. 13.) Korm. rendelethez
+„2. melléklet a 343/2010. (XII. 28.) Korm. rendelethez
+A biomassza igazolás adattartalma
+I. Termesztett biomassza esetében a biomassza igazolás tartalmazza a következő adatokat:
+1. biomassza igazolás sorszáma;
+2. az igazolás kiállítójának adatai, regisztrációs száma;
+3. a biomassza megvásárlójának neve, címe, devizabelföldi vásárló esetében regisztrációs száma;
+4. a biomassza megnevezése és KN-kódja;
+5. a biomassza mennyisége tonnában kifejezve;
+6. az igazolásban szereplő biomassza mennyiség termelésével érintett termőterület összesített nagysága hektárban két
+tizedes jegyig kifejezve;
+7. az igazolásban szereplő biomassza mennyiség betakarításának éve;
+8. nyilatkozat arról, hogy a kibocsátási komponensek megállapítása alapértelmezett vagy tényleges értéken történt;
+9. nyilatkozat arról, hogy a degradációs bónuszt és a talajbanlévő kötött szénneka jobbmezőgazdaságigazdálkodásnak
+köszönhető felhalmozódása miatti kibocsátás-csökkentést leíró tényezőt figyelembe vették-e az ÜHG kibocsátás
+kiszámításakor;
+10. ha a szállításra vonatkozó kibocsátási komponens megállapítása nem alapértelmezett értéken történik, akkor az egy
+tonna terményre vetített, a beszállítás, szárítás és tisztítás során keletkező ÜHG kibocsátás mértéke;
+11. ha a termesztésre, termőterület váltásra vonatkozó kibocsátási komponensek megállapítása nem alapértelmezett
+értéken történt, akkor az egy tonna terménymennyiségre vetített, a termesztéséből eredő közvetlen és a termesztés
+során a talaj kötöttszén-készletváltozásából eredő ÜHG kibocsátás mértéke;
+
+12. az igazolásban szereplő biomassza mennyiség megtermelésével érintett termőterület MePAR szerinti blokk- és
+parcella azonosítója (a továbbiakban: termőterületre vonatkozó adatok).
+II. Nem termesztett biomassza esetében a biomassza igazolás tartalmazza a következő adatokat:
+1. biomassza igazolás sorszáma;
+2. az igazolás kiállítójának neve, székhelye vagy lakcíme, az igazolás kiállítójának adószáma vagy adóazonosító jele;
+3. a biomassza megvásárlójának neve, lakcíme vagy székhelye, devizabelföldi vásárló esetében regisztrációs száma;
+4. a biomassza megnevezése és KN-kódja;
+5. a biomassza mennyisége tonnában kifejezve;
+6. a biomassza forrására vagy a begyűjtés helyére vonatkozó adatok.”
+2. melléklet a 318/2012. (XI. 13.) Korm. rendelethez
+„3. melléklet a 343/2010. (XII. 28.) Korm. rendelethez
+A fenntarthatósági igazolás adattartalma
+1. A termesztett biomasszára vonatkozó fenntarthatósági igazolás tartalmazza a következő adatokat:
+a) az igazolás kiállítójának adatai, regisztrációs száma;
+b) a biomassza megvásárlójának neve, címe, devizabelföldi vásárló esetében regisztrációs száma;
+c) a biomassza megnevezése és KN-kódja;
+d) a biomassza betakarításának éve;
+e) a biomassza mennyisége tonnában kifejezve;
+f) az igazolásban szereplő biomassza mennyiséghez tartozó kibocsátási komponensek értéke;
+g) az igazolás azonosítószáma;
+h) nyilatkozat arról, hogy a degradációs bónuszt és a talajban lévő kötött szénnek a jobb mezőgazdasági
+gazdálkodásnak köszönhető felhalmozódása miatti kibocsátás-csökkentést leíró tényezőt figyelembe vették-e az
+ÜHG kibocsátás kiszámításakor;
+i) a termék birtokba adásának dátuma.
+2. A nem termesztett biomasszára vonatkozó fenntarthatósági igazolás tartalmazza a következő adatokat:
+a) az igazolás kiállítójának adatai, adószáma, adóazonosító jele;
+b) a biomassza megvásárlójának neve, címe, devizabelföldi vásárló esetében regisztrációs száma;
+c) a biomassza megnevezése és KN-kódja;
+d) a biomassza mennyisége tonnában kifejezve;
+e) az igazolás azonosítószáma;
+f) a termék birtokba adásának dátuma.
+3. A köztes termékre vonatkozó fenntarthatósági igazolás tartalmazza a következő adatokat:
+a) az igazolás kiállítójának adatai, regisztrációs száma;
+b) a köztes termék megvásárlójának neve, címe, devizabelföldi vásárló esetében regisztrációs száma;
+c) a köztes termék megnevezése és KN-kódja;
+d) a köztes termék mennyisége tonnában kifejezve;
+e) nyilatkozat arról, hogy a köztes termék hulladékból, erdészeti és mezőgazdasági maradékanyagokból, nem
+élelmezési célú cellulóztartalmú anyagokból vagy lignocellulóz-tartalmú anyagokból került-e előállításra;
+f) az igazolásban szereplő köztes termék mennyiségre vonatkozó kibocsátási komponensek értéke, valamint
+a szállításra vonatkozó kibocsátási komponens értéke vagy arra vonatkozó nyilatkozat, hogy a köztes termék
+alapértelmezett kibocsátási értéken kerül továbbfelhasználásra;
+g) az igazolás azonosítószám;
+h) nyilatkozat arról, hogy a degradációs bónuszt és a talajban lévő kötött szénnek a jobb mezőgazdasági
+gazdálkodásnak köszönhető felhalmozódása miatti kibocsátás-csökkentést leíró tényezőt figyelembe vették-e az
+ÜHG kibocsátás kiszámításakor;
+i) a termék birtokba adásának dátuma.
+
+4. A bioüzemanyagra vonatkozó fenntarthatósági igazolás tartalmazza a következő adatokat:
+a) az igazolás kiállítójának adatai, regisztrációs száma;
+b) a bioüzemanyag megvásárlójának, más üzemanyag-forgalmazóhoz történő áttárolás esetében átvevőjének
+neve, címe, devizabelföldi vásárló, átvevő esetében regisztrációs száma;
+c) a bioüzemanyag megnevezése és KN-kódja;
+d) a bioüzemanyag literben kifejezett mennyisége +15 °C-ra átszámított térfogaton;
+e) nyilatkozat arról, hogy a bioüzemanyag hulladékból, erdészeti és mezőgazdasági maradékanyagokból, nem
+élelmezési célú cellulóztartalmú anyagokból vagy lignocellulóz-tartalmú anyagokból került-e előállításra;
+f) az igazolásban szereplő bioüzemanyag-mennyiséghez tartozó energiaegységre számított üvegházhatású
+gázkibocsátás;
+g) az igazolás azonosítószám;
+h) nyilatkozat arról, hogy a degradációs bónuszt és a talajban lévő kötött szénnek a jobb mezőgazdasági
+gazdálkodásnak köszönhető felhalmozódása miatti kibocsátás csökkentést leíró tényezőt figyelembe vették-e az
+ÜHG kibocsátás kiszámításakor.”
+3. melléklet a 318/2012. (XI. 13.) Korm. rendelethez
+1. Az R. 5. melléklet I. pont 2. alpont c)–e) alpontja helyébe a következő rendelkezés lép:
+(2. az adatszolgáltatással érintett időszakban kiállított összes fenntarthatósági igazolásra, fenntarthatósági
+igazolásonként:)
+„c) az igazolás kiállításának alapját képező biomassza igazolások adatai a termőterületre vonatkozó adatok
+kivételével, a biomassza igazolás kiállításának dátuma;
+d) az igazoláskiállításánakalapjátképezőfenntarthatóságiigazolásokadatai, a fenntarthatóságiigazoláskiállításának
+dátuma;
+e) az igazolás kiállításának alapját képező külföldről származó biomassza esetében a beszállító megnevezése,
+székhelye, a „Nemzetközi Közúti Árufuvarozási Szerződésről” szóló, Genfben, az 1956. évi május hó 19. napján kelt
+Egyezmény kihirdetéséről szóló 1971. évi 3. törvényerejű rendelet szerinti CMR fuvarlevél adatai, a biomassza
+mennyisége tonnában kifejezve, a kibocsátási komponensek értékei.”
+2. Az R. 5. melléklet II. pont 2. alpont c)–e) alpontja helyébe a következő rendelkezés lép:
+(2. az adatszolgáltatással érintett időszakban kiállított összes fenntarthatósági igazolásra, fenntarthatósági
+igazolásonként:)
+„c) a gyártáshoz felhasznált biomassza vonatkozásában az igazolás kiállításának alapját képező biomassza igazolások
+adatai a termőterületre vonatkozó adatok kivételével, az igazolás kiállításának dátuma;
+d) a gyártáshoz felhasznált biomassza vonatkozásában az igazolás kiállításának alapját képező biomassza, köztes
+termék fenntarthatósági igazolások adatai, a fenntarthatósági igazolás kiállításának dátuma;
+e) a gyártáshoz felhasznált az igazolás kiállításának alapját képező harmadik országból származó biomassza, köztes
+termék esetében a beszállító megnevezése, székhelye, a „Nemzetközi Közúti Árufuvarozási Szerződésről” szóló,
+Genfben, az 1956. évi május hó 19. napján kelt Egyezmény kihirdetéséről szóló 1971. évi 3. törvényerejű rendelet
+szerinti CMR fuvarlevél adatai, a biomassza,köztes termék megnevezéseés KN-kódja, mennyisége tonnábankifejezve,
+a kibocsátási komponensek értékei.”
