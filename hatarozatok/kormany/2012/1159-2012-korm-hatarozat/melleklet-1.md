@@ -4,7 +4,7 @@
 
 ## Határidő: átcsoportosításra azonnal
 
-## elszámolásra és a visszafizetési kötelezettség teljesítésére 2012. július 31.
+## elszámolásra és a visszafizetési kötelezettség teljesítésére 2012. december 31.[^2]
 
 1. melléklet az 1159/2012. (V. 18.) Korm. határozathoz
 
@@ -77,3 +77,5 @@ Költségvetési év: 2012.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^2]: A határozat az 1500/2012. (XI. 13.) Korm. határozat 3. pontja szerint módosított szöveg.
