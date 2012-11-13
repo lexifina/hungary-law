@@ -4,7 +4,7 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: átcsoportosításra azonnal
 
-elszámolásra és a visszafizetési kötelezettség teljesítésére: 2012. október 15.
+elszámolásra és a visszafizetési kötelezettség teljesítésére: 2012. december 31.[^2]
 
 Melléklet az 1103/2011. (IV. 5.) Korm. határozathoz
 
@@ -91,3 +91,5 @@ Költségvetési év: 2012.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^2]: A határozat az 1500/2012. (XI. 13.) Korm. határozat 2. pontja szerint módosított szöveg.
