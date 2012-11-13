@@ -4,9 +4,9 @@
 
 ## Határidő: átcsoportosításra: azonnal
 
-## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2012. november 30.
+## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2013. június 30.[^2]
 
-## 2.[^1]
+## 2.[^3]
 
 1. melléklet az 1451/2012. (X. 16.) Korm. határozathoz
 
@@ -94,4 +94,5 @@ Költségvetési év: 2012.
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A határozat az 1500/2012. (XI. 13.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
