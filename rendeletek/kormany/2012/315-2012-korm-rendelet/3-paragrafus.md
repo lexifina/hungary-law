@@ -1,0 +1,5 @@
+## 2. § Az R. V. Fejezetének címe helyébe a következő szöveg lép:
+
+## „V. FEJEZET
+
+## A KÖZNEVELÉSI INTÉZMÉNY MŰKÖDTETÉSÉNEK VÁLLALÁSÁRA VONATKOZÓ KÉRELEM ÉS A MŰKÖDTETÉSI KÖTELEZETTSÉG ALÓLI MENTESÜLÉS IRÁNTI KÉRELEM BENYÚJTÁSÁNAK ÉS ELBÍRÁLÁSÁNAK SZABÁLYAI”
