@@ -1,0 +1,48 @@
+# A Kormány 320/2012. (XI. 14.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 151. szám, 2012. november 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/f30ad41f137e2cb390bd2919b21986243ceec237/dokumentumok/badd3b0c7383d34174c8d2832da4a2918e4440e3/letoltes)
+
+---
+
+A Kormány 320/2012. (XI. 14.) Korm. rendelete
+a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia,
+valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló
+389/2007. (XII. 23.) Korm. rendelet módosításáról
+A Kormány a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdés 7. és 29. pontjában kapott felhatalmazás
+alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan
+termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet
+(a továbbiakban: R.) 6. §-a a következő (7a) bekezdéssel egészül ki:
+„(7a) A megtérülési idő számítása során vegyes tüzelés esetében az alábbi indokolt költségeket is figyelembe kell
+venni:
+a) a bezárással kapcsolatban felmerült indokolt költségeket a kötelező átvételi jogosultság teljes időtartamára
+számított megújuló energiaforrás arányában, különösen a jogszabályban előírt környezetvédelmi kötelezettségek,
+valamint a munka törvénykönyvében előírt kötelezettségek végrehajtásához szükséges indokolt költségeket;
+b) a kötelező átvételi jogosultság megszűnése után a vegyes tüzelés érdekében beépített berendezések
+maradványértékét, azok elbontásának indokolt költségeit és mindazon indokolt költségeket, amelyek az eredeti
+(vegyes tüzelés nélküli) állapot visszaállítása érdekében merülnek fel.”
+(2) Az R. 6. §-a a következő (12) bekezdéssel egészül ki:
+„(12) A (11) bekezdés szempontjából biomasszából villamos energiát termelő Értékesítő esetében nem minősül az
+értékesítés megkezdésének, ha az Értékesítő korábban már a kötelező átvételi rendszerben értékesített.”
+2. § Az R. 11. §-a a következő (10) bekezdéssel egészül ki:
+„(10) Ha az Értékesítő a távhőszolgáltatásról szóló törvény alapján a Hivatal hatáskörében kiadott engedéllyel is
+rendelkezik, akkor a biomassza elsődleges energiaforrás felhasználásával termelt villamos energia kötelező átvétel
+keretében történő értékesítésére vonatkozóan a 6. § (11) bekezdését 2016. december 31-ig nem kell alkalmazni.”
+3. § Az R. a következő 11/C. §-sal egészül ki:
+„11/C. § (1) Azon biomasszából villamos energiát termelő engedélyes, aki a megújuló energiaforrásból vagy
+hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező
+átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet módosításáról szóló 320/2012. (XI. 14.)
+Korm. rendelet hatálybalépése előtt a kötelező átvétel rendszerében értékesített, az a kötelező átvétel időtartamának
+és mennyiségének megállapítására vonatkozó eljárás során kérelmezheti a 6. § (7a) bekezdésében meghatározott
+indokolt költségek figyelembevételét.
+(2) Az (1) bekezdés szerinti kérelem pozitív elbírálása esetén a megújuló energiaforrásból termelt villamos energia
+kötelező átvételi árai a 4. § (1) bekezdésén alapulnak, ha az Értékesítő a kötelező átvételi rendszerben az átvételi
+kötelezettség alá eső villamos energia átvételének szabályairól és árainak megállapításáról szóló 56/2002. (XII. 29.)
+GKM rendelet alapján volt jogosult értékesíteni.”
+4. § Ez a rendelet 2012. november 15-én lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök
+
+IV. A Magyar Nemzeti Bank elnökének rendeletei,
+valamint az önálló szabályozó szerv vezetőjének
+rendeletei
