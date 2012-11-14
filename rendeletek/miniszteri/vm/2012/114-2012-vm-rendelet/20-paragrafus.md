@@ -1,0 +1,3 @@
+20. § (1) E rendelet a 92/65/EGK tanácsi irányelv D. mellékletének a spermagyűjtő állomások és spermatároló központok, az embriógyűjtő és -előállító munkacsoportok, valamint a ló-, juh- és kecskefajokhoz tartozó donor állatokra, és az ezen fajokhoz tartozó spermák, petesejtek és embriók kezelésére vonatkozó feltételek tekintetében történő módosításáról szóló, 2010. március 2-i 176/2010/EU bizottsági rendelet végrehajtását szolgálja.
+
+(2) A rendelet tervezetének a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
