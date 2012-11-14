@@ -34,21 +34,23 @@ g) a Honvédelmi Minisztérium parlamenti államtitkára,
 
 h) a Közigazgatási és Igazságügyi Minisztérium (a továbbiakban: KIM) igazságügyért felelős államtitkára,
 
-i) a KIM kormányzati kommunikációért felelős államtitkára,
+i)[^2] a KIM társadalmi kapcsolatokért felelős államtitkára,
 
 j) a Külügyminisztérium (a továbbiakban: KÜM) parlamenti államtitkára,
 
 k) a KÜM EU ügyekért felelős államtitkára és
 
-l) a Nemzetgazdasági Minisztérium foglalkoztatáspolitikáért felelős államtitkára.
+l) a Nemzetgazdasági Minisztérium foglalkoztatáspolitikáért felelős államtitkára,
+
+m)[^3] a Vidékfejlesztési Minisztérium környezetügyért felelős államtitkára.
 
 4. A Munkacsoport tagjai Munkacsoportban végzett tevékenységükért tiszteletdíjban nem részesülnek.
 
 5. A Munkacsoport tagjait az általuk kijelölt, az irányításuk alá tartozó helyettes államtitkár vagy főosztályvezető jogállású kormánytisztviselő helyettesítheti.
 
-6.[^2] A Munkacsoport elnöke a KIM kormányzati kommunikációért felelős államtitkára, a Munkacsoport alelnöke a KIM igazságügyért felelős államtitkára.
+6.[^4] A Munkacsoport elnöke a KIM társadalmi kapcsolatokért felelős államtitkára, a Munkacsoport alelnöke a KIM igazságügyért felelős államtitkára.
 
-7.[^3] A Munkacsoport elnöke a Munkacsoport ülésére tanácskozási joggal, eseti jelleggel meghívhat a Munkacsoport feladatkörét érintő tevékenységet végző
+7.[^5] A Munkacsoport elnöke a Munkacsoport ülésére tanácskozási joggal, eseti jelleggel meghívhat a Munkacsoport feladatkörét érintő tevékenységet végző
 
 a) állami vezetőt,
 
@@ -68,7 +70,7 @@ a) a Munkacsoport tagjai,
 
 b) az alapvető jogok biztosa, az Egyenlő Bánásmód Hatóság elnöke, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke, és
 
-c)[^4] a Munkacsoport elnöke és alelnöke által együttesen felkért, a Munkacsoport feladatkörét érintő tevékenységet végző
+c)[^6] a Munkacsoport elnöke és alelnöke által együttesen felkért, a Munkacsoport feladatkörét érintő tevékenységet végző
 
 ca) alkotmányos szerv képviselője, központi államigazgatási szerv vezetője,
 
@@ -83,6 +85,8 @@ cb) civil szervezetek, érdekképviseleti szervezetek és szakmai szervezetek k�
 15. Ez a határozat a közzétételét követő napon lép hatályba.
 
 [^1]: A 3. pont az 1147/2012. (V. 11.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 6. pont az 1147/2012. (V. 11.) Korm. határozat 2. pontjával megállapított szöveg.
-[^3]: A 7. pont az 1147/2012. (V. 11.) Korm. határozat 3. pontjával megállapított szöveg.
-[^4]: A 11. pont c) alpontja az 1147/2012. (V. 11.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 3. pont i) alpontja az 1490/2012. (XI. 13.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 3. pont m) alpontját az 1490/2012. (XI. 13.) Korm. határozat 1. pontja iktatta be.
+[^4]: A 6. pont az 1147/2012. (V. 11.) Korm. határozat 2. pontjával megállapított, az 1490/2012. (XI. 13.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^5]: A 7. pont az 1147/2012. (V. 11.) Korm. határozat 3. pontjával megállapított szöveg.
+[^6]: A 11. pont c) alpontja az 1147/2012. (V. 11.) Korm. határozat 4. pontja szerint módosított szöveg.
