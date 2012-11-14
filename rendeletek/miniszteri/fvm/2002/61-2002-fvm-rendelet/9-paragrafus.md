@@ -1,17 +1,18 @@
-9. § (1) Az üzemeltető köteles az Átv. 37. §-a alapján előírt nyilvántartások vezetésére, beleértve az embrióátültető állomáson tartott donor, illetve recipiens állat kötelező állategészségügyi vizsgálatait is.
+## A spermára, petesejtre és embrióra alkalmazandó különös követelmények[^16]
 
-(2) A petesejtek és az embriók kezelése során:
+9. §[^17] (1) A sperma gyűjtésére, feldolgozására, tartósítására vagy fagyasztására használt minden eszközt használat előtt megfelelő módon fertőtleníteni vagy sterilizálni kell, az egyszer használatos eszközök kivételével.
 
-a) a kimosást a nemzetközi szabványoknak és előírásoknak megfelelően kell végezni;
+(2) A fagyasztott spermát
 
-b) a kimosást követően legalább ötvenszeres nagyítással meg kell vizsgálni a zona pellucida épségét, és azt is, hogy nem tapad-e hozzá más anyag;
+a) olyan tárolóedényekben kell elhelyezni és tárolni, amelyeket megtisztítottak és fertőtlenítettek vagy sterilizáltak, vagy egyszer használatosak, valamint olyan kriogén anyaggal kell kezelni, amelyet korábban más termékekhez nem használtak;
 
-c) a gyűjtéséhez, kezeléséhez, tartósításához és fagyasztásához felhasznált anyagoknak és oldatoknak sterilnek kell lenni, és hatékony antibiotikumot kell tartalmazni;
+b) az elszállítást vagy felhasználást megelőzően a gyűjtés időpontjától számított legalább harminc napig engedélyezett létesítményben kell tárolni.
 
-d) az embriót tízszer meg kell mosni olyan embriókultúra oldatban, amelyet minden alkalommal cserélnek és az elismert eljárás szerint tripszint tartalmaz. A mosófolyadék csak a megelőző mosófolyadék százszoros hígításával alkalmazható. Az embrió kiemelése és átvitele kizárólag steril mikropipettával lehetséges;
+(3) A kereskedelemre szánt spermát
 
-e) a használt eszközöknek sterilnek vagy megfelelően fertőtlenítettnek kell lenni.
+a) más tagállamba olyan szállítóedényekben kell szállítani, amelyeket használatuk előtt megtisztítottak és fertőtlenítettek vagy sterilizáltak, vagy egyszer használatosak, és amelyeket az engedélyezett spermagyűjtő állomásokról vagy spermatároló központokból történő elszállításuk előtt lepecsételtek és – a vonatkozó egészségügyi bizonyítvány számával megegyező számmal – sorszámoztak;
 
-(3) A mélyhűtéses tárolásnál egy konténerben különböző donorok embriói is elhelyezhetők, ha a kiszerelés, jelölés és csomagolás során azokat elkülönítik.
+b) meg kell jelölni olyan módon, hogy a műszalmákon vagy az egyéb csomagokon szereplő szám megegyezzen a vonatkozó egészségügyi bizonyítvány számával és azon az edényen feltüntetett számmal, amelyben azt tárolják és szállítják.
 
-(4) A tárolt szaporítóanyagnak egyértelműen azonosíthatónak kell lennie, beleértve a termelés helyét, időtartamát és azt az egyedet, amelytől származik.
+[^16]: A 9. §-t megelőző alcímet a 114/2012. (XI. 13.) VM rendelet 8. § (1) bekezdése iktatta be.
+[^17]: A 9. § a 114/2012. (XI. 13.) VM rendelet 8. § (2) bekezdésével megállapított szöveg.

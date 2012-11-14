@@ -2,24 +2,30 @@
 
 (2) Az elhullott állatot boncolás céljából el kell szállítani az illetékes állategészségügyi intézetbe.
 
-(3) A felügyeletet ellátó kerületi főállatorvos köteles évente legalább két alkalommal – szezonálisan ivarzó fajok esetében pedig szezononként egyszer – ellenőrző vizsgálatot tartani. A kerületi főállatorvos az általános járványvédelmi, a mesterséges termékenyítő állomás üzemeltetésére, a szakszemélyzet alkalmazására vonatkozó előírások és az (1)–(2) bekezdésben foglaltak ellenőrzésén kívül az alábbi ellenőrzéseket foganatosítja:
+(3)[^10] A felügyeletet ellátó kerületi főállatorvos köteles minden naptári évben legalább két alkalommal – a szezonális szaporodású állatok esetében a tenyészidőszakban évente legalább egyszer – ellenőrző vizsgálatot tartani az engedélyezés és működés feltételeire vonatkozó szempontok vizsgálata és igazolása céljából, szükség esetén a nyilvántartások, a szabványos működési eljárások és belső audit alapján. A kerületi főállatorvos az (1) és (2) bekezdésben foglaltak ellenőrzésén kívül a következő feltételek teljesülését ellenőrzi:
 
-a) felügyeli a kezelő állatorvos, illetve a tenyésztési hatóság szaporodásbiológus állatorvosa által az apaállatokon elvégzett részletes szaporodásbiológiai és nemi szervekre vonatkozó klinikai vizsgálatot;
+a) az állomáson tartott állatok egyikét sem használják természetes fedeztetésre
 
-b) ellenőrzi, hogy a telepen termelt sperma előállítása, kezelése és tárolása a higiéniai előírások betartásával történik, valamint azt, hogy más eredetű szaporítóanyaggal nem keveredik;
+aa) lófélék, juh és kecske esetében az első spermavétel időpontja előtti legalább harminc napos időszakban és a spermagyűjtési időszak során,
 
-c) ellenőrzi, hogy a sperma nyerése, feldolgozása, tárolása során használt eszközöket és berendezéseket az előírásoknak megfelelően fertőtlenítik-e a használat előtt;
+ab) szarvasmarha és sertés esetében a mesterséges termékenyítésről, az embrióátültetésről, az állati szaporítóanyagok előállításáról, felkínálásáról, forgalmazásáról és felhasználásáról szóló jogszabályban meghatározott időszakban;
 
-d) ellenőrzi, hogy a sperma kezelésére és adagolására csak olyan anyagokat használnak-e, amelyek nem jelentenek állategészségügyi kockázatot, vagy ezt az előírt módon megszüntették, és előállításuk után nem kerültek kapcsolatba más állati eredetű termékkel;
+b) a sperma gyűjtését, feldolgozását és tárolását kizárólag az e célokra fenntartott helyiségekben, a higiéniai előírások betartásával végzik, a termelt sperma más eredetű szaporítóanyaggal nem keveredhet;
 
-e) az Állatgyógyászati Oltóanyag, Gyógyszer- és Takarmány-ellenőrző Intézettel ellenőrizteti, hogy a sperma hígításához használt oldat tartalmazza-e az előírt hatékonyságú antibiotikumot;
+c) a gyűjtés és a feldolgozás során a spermával vagy a donor állattal érintkezésbe kerülő valamennyi eszközt – az új, egyszer használatos és használat után eldobandó eszközök (a továbbiakban: egyszer használatos eszközök) kivételével – használat előtt megfelelően fertőtlenítik vagy sterilizálják;
 
-f) ellenőrzi, hogy a tárolásra, adagolásra használt edény (beleértve a műszalmát is) fertőtlenített-e, illetve megfelel-e a tisztasági követelményeknek;
+d) a sperma feldolgozásához használt állati eredetű termékeket – a hígítókat, adalékokat vagy spermahígítókat is beleértve – olyan forrásból szerzik be, amely nem jelent állat-egészségügyi kockázatot, vagy használatuk előtt oly módon kezelik azokat, hogy ne jelentsenek ilyen kockázatot;
 
-g) ellenőrzi, hogy a tárolt szaporítóanyag egyértelműen azonosítható-e, feljegyezték-e a termelés helyét, időtartamát és azt az egyedet, amelytől a sperma származik;
+e) a sperma tartósításához vagy tárolásához használt kriogén anyagot korábban más termékhez nem használták;
 
-h) ellenőrzi, hogy az előírt állategészségügyi nyilvántartásokat vezetik-e;
+f) a tároló- és a szállítóedényeket – az új, egyszer használatos és használat után eldobandó edények (a továbbiakban: egyszer használatos edények) kivételével – minden töltési művelet megkezdése előtt megfelelően fertőtlenítik vagy sterilizálják;
 
-i) ellenőrzi, hogy a spermatermelésre használt állatokat igénybevételüknek megfelelően takarmányozzák-e, és elhelyezésük, tartásuk megfelel-e az állatvédelmi előírásoknak;
+g) a sperma minden adagját, illetve a további feldolgozásra szánt sperma minden ejakulátumát egyértelműen jelölik meg oly módon, hogy abból könnyen meg lehessen állapítani a sperma begyűjtésének időpontját, a donor állat faját, fajtáját és azonosítását, valamint a spermagyűjtő állomás engedélyezési számát;
 
-j) a szemle eredményéről jegyzőkönyvet vesz fel.
+h) a Nemzeti Élelmiszer-biztonsági Hivatal (a továbbiakban: NÉBIH) dokumentációs vagy laboratóriumi vizsgálata alapján a sperma hígításához használt oldat tartalmazza az előírt hatékonyságú antibiotikumot;
+
+i) vezetik az előírt állategészségügyi nyilvántartásokat;
+
+j) a spermatermelésre használt állatokat igénybevételüknek megfelelően takarmányozzák, és elhelyezésük, tartásuk megfelel az állatvédelmi előírásoknak.
+
+[^10]: A 7. § (3) bekezdése a 114/2012. (XI. 13.) VM rendelet 5. §-ával megállapított szöveg.

@@ -4,4 +4,6 @@
 
 (3) Kizárólag engedélyezett embrióátültető állomáson, a rendelet előírásai alapján termelt, kezelt, tárolt életképes embrió forgalmazható, ha az a forgalmazás, illetve a felhasználás időpontjában is megfelel az állategészségügyi, valamint az állattenyésztési hatóságok előírásainak.
 
-(4) A köztenyésztésben fedeztetésre használt apaállatok tartásának állategészségügyi követelményeit az illetékes állomás határozza meg.
+(4)[^32] A köztenyésztésben fedeztetésre használt apaállatok tartásának állategészségügyi követelményeit az illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóság határozza meg.
+
+[^32]: A 12. § (4) bekezdése a 114/2012. (XI. 13.) VM rendelet 17. § (1) bekezdés a) pontja szerint módosított szöveg.

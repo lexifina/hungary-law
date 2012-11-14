@@ -2,9 +2,9 @@
 
 ## A mesterséges termékenyítő állomás üzemeltetésének részletes feltételei
 
-4. § (1)[^1] A mesterséges termékenyítő állomás üzemeltetését a tenyésztési hatóság (a továbbiakban: állomás) engedélyezi. Az állomás kezdeményezi a tenyésztési hatóság működési engedélye visszavonását, ha az állategészségügyi okból indokolt.
+4. § (1)[^4] A mesterséges termékenyítő állomás üzemeltetését a fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) engedélyezi.
 
-(2) Az állomás a mesterséges termékenyítő állomások járványügyi, állatvédelmi és -higiéniai alkalmasságának megállapításához az alábbi feltételek meglétét vizsgálja:
+(2)[^5] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a mesterséges termékenyítő állomások járványügyi, állatvédelmi és -higiéniai alkalmasságának megállapításához az alábbi feltételek meglétét vizsgálja:
 
 a) a telepet olyan kerítéssel vették körül, amely megakadályozza illetéktelen személyek, továbbá állatok behatolását;
 
@@ -12,7 +12,7 @@ b) szarvasmarhát, illetve sertést tartó létesítmény esetében ,,fekete-feh
 
 c) a kapubejárónál az útburkolat jellege lehetővé teszi a jármű kerekeinek fertőtlenítését vagy e célra megfelelő gépet alkalmaznak;
 
-d) az állati tetemek elszállítására alkalmas konténert tartanak;
+d)[^6] az állati hullák gyűjtésére és elszállítására alkalmas konténert tartanak, vagy a hulla elszállításáról haladéktalanul gondoskodnak;
 
 e) az elhullott állatok kórboncolására elkülönített fertőtleníthető helyiséggel rendelkeznek;
 
@@ -20,7 +20,7 @@ f) a kerítés vonalában helyezték el a külső személy- és járműforgalomh
 
 g) az állattartó épület padozata, oldalfala könnyen takarítható, fertőtleníthető, a keletkezett szennyvíz, trágya, illetve lé maradéktalanul eltávolítható, a padozat csúszásmentessége, a helyiség szellőztetése és világítása biztosított, a berendezés könnyen takarítható és fertőtleníthető, így az állatok egészségét és testi épségét nem veszélyezteti. Az épület alkalmas arra is, hogy megvédje az állatot az időjárás káros hatásaitól;
 
-h) az állat fajának, fajtájának megfelelő mozgásigény kielégítésére kifutót, karámot létesítenek;
+h)[^7] rendelkeznek zárható helyiséggel az állatok elszállásolására, valamint az állat fajának, fajtájának megfelelő mozgásigény kielégítésére szolgáló kifutóval, karámmal, amely fizikailag el van választva a spermagyűjtő, -feldolgozó, és -tároló helyiségektől;
 
 i) az épületek, az alkalmazott tartási és egyéb technológiák megfelelnek az állatok védelméről és kíméletéről szóló külön jogszabályok előírásainak.
 
@@ -38,4 +38,7 @@ e) az a)–d) pontokban leírt könnyen takarítható és fertőtleníthető hel
 
 f) a szigorú telepi zártságot, a telepen tartott egyed más állományhoz tartozó állattal való kapcsolatának megelőzését.
 
-[^1]: A 4. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 52. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^4]: A 4. § (1) bekezdése a 114/2012. (XI. 13.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § (2) bekezdés nyitó szövegrésze a 114/2012. (XI. 13.) VM rendelet 17. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 4. § (2) bekezdés d) pontja a 114/2012. (XI. 13.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^7]: A 4. § (2) bekezdés h) pontja a 114/2012. (XI. 13.) VM rendelet 3. § (3) bekezdésével megállapított szöveg.

@@ -42,7 +42,7 @@
 
 ## 6. A keltető üzemelési rendjét oly módon kell kialakítani, hogy a forgalom zavartalan legyen.
 
-## 7. Az üzemeltető köteles keltetéshigiéniai technológiai leírást készíteni (ami magába foglalja a tisztítási, fertőtlenítési rendet és azok ellenőrzését is). A technológiai leírás érvényességéhez az illetékes állomás jóváhagyása szükséges.
+## 7.[^54] Az üzemeltető köteles keltetéshigiéniai technológiai leírást készíteni (ami magába foglalja a tisztítási, fertőtlenítési rendet és azok ellenőrzését is). A technológiai leírás érvényességéhez az illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóság jóváhagyása szükséges.
 
 ## 8. A kerületi főállatorvos a jóváhagyott technológia betartását, a vonatkozó jogszabályoknak és higiéniai előírásoknak megfelelő üzemelést legalább félévente ellenőrzi.
 
@@ -72,11 +72,11 @@
 
 ## 18. A kelést követő válogatás során a naposcsibéket azonosíthatóan és csoportonként elkülönítve kell kezelni. A szállítólevélen fel kell tüntetni a keltetést végző üzem nevét és címét, a fajt, a fajtát, az ivar megjelölését, a kelés idejét, továbbá a szülőpárállomány immunbiológiai állapotát (az előírt fertőző betegségektől való mentességét, valamint a vakcinás védőoltások megnevezését és időpontját). A papírdobozok és a bélelésükre használt fagyapot csak egyszeri szállításra használható fel. A műanyag szállítódobozok ismételt felhasználása csak tisztított és fertőtlenített állapotban lehetséges. A keltetőállomás üzemeltetője a beszállított tojások származásáról és a kiszállított naposbaromfi kihelyezéséről név és cím feltüntetésével köteles kimutatást vezetni. A keltetőből kikerülő naposcsibe szállítmányt az ellátó állatorvos által kiadott igazolásnak kell kísérni, ami 24 óráig érvényes.
 
-## 19. Ha a keltetőüzem a tojások beszerzésével, tárolásával, a keltetéssel és a naposbaromfi értékesítésével kapcsolatos állategészségügyi előírásokat nem tartja be és az üzem ellenőrzésével megbízott hatósági állatorvos előzetes figyelmeztetése eredménytelen marad, akkor kezdeményeznie kell a tenyésztési hatóságnál az üzem működésének felfüggesztését.
+## 19.[^55] Ha a keltetőüzem a tojások beszerzésével, tárolásával, a keltetéssel és a naposbaromfi értékesítésével kapcsolatos állategészségügyi előírásokat nem tartja be és az üzem ellenőrzésével megbízott hatósági állatorvos előzetes figyelmeztetése eredménytelen marad, akkor kezdeményeznie kell a NÉBIH-nél az üzem működésének felfüggesztését.
 
 ## 20. A keltető üzemelésével kapcsolatos állategészségügyi vizsgálatok díjkötelesek, amelyek az üzemeltetőt terhelik.
 
-## 21. A keltető üzemeltetője köteles saját költségére végrehajtani a naposbaromfiaknál az állomás által előírt immunizálásokat, amelyekről nyilvántartást is kell vezetnie.
+## 21.[^56] A keltető üzemeltetője köteles saját költségére végrehajtani a naposbaromfiaknál az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által előírt immunizálásokat, amelyekről nyilvántartást is kell vezetnie.
 
 ## 22. Import tojások keltetésekor az egész keltető import karanténnak minősül a külön jogszabályban foglalt járványügyi szabályok figyelembevételével.
 
@@ -153,3 +153,7 @@ c) a szopornyica (distemper), parvovírusos bélgyulladás (kutya parvovírus ok
 9. Az előírt állategészségügyi vizsgálatokat a kezelő állatorvosnak az illetékes állategészségügyi intézetben kell elvégeztetni az állat tulajdonosának költségére.
 
 10. E melléklet szerinti állatok mesterséges termékenyítés céljára történő spermavétele szigorú higiéniai előírások megtartása mellett állatorvosi rendelőben vagy szükség esetén az apaállat tartási helyén állatorvosi ellenőrzés mellett lehetséges.
+
+[^54]: Az 5. számú melléklet 7. pontja a 114/2012. (XI. 13.) VM rendelet 17. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^55]: Az 5. számú melléklet 19. pontja a 114/2012. (XI. 13.) VM rendelet 17. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^56]: Az 5. számú melléklet 21. pontja a 114/2012. (XI. 13.) VM rendelet 17. § (1) bekezdés a) pontja szerint módosított szöveg.
