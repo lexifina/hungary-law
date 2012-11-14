@@ -1,0 +1,1 @@
+77. § Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja, továbbá az épületek energiahatékonyságáról szóló 2010/31/EU irányelv 2. cikk 12. pontjával, 18. és 27. cikkével összeegyeztethető szabályozást tartalmaz.
