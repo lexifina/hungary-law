@@ -6,15 +6,7 @@
 
 ## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2013. június 30.
 
-## 2. A rendkívüli kormányzati intézkedések előirányzatból történő átcsoportosításról szóló 1103/2012. (IV. 5.) Korm. határozatban a „2012. október 15.” szövegrész helyébe a „2012. december 31.” szöveg lép.
-
-## 3. A rendkívüli kormányzati intézkedések előirányzatból történő átcsoportosításról szóló 1159/2012. (V. 18.) Korm. határozatban a „2012. július 31.” szövegrész helyébe a „2012. december 31.” szöveg lép.
-
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1160/2012. (V. 18.) Korm. határozat módosításáról szóló 1353/2012. (IX. 11.) Korm. határozat 1.2. pontjában a „2012. október 31.” szövegrész helyébe a „2012. december 31.” szöveg lép.
-
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1390/2012. (IX. 20.) Korm. határozatban a „2012. október 15.” szövegrész helyébe a „2012. december 31.” szöveg lép.
-
-## 6. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1451/2012. (X. 16.) Korm. határozat 1. pontjában a „2012. november 30.” szövegrész helyébe a „2013. június 30.” szöveg lép.
+## 2–6.[^2]
 
 1. melléklet az 1500/2012. (XI. 13.) Korm. határozathoz
 
@@ -101,3 +93,5 @@ Költségvetési év: 2012.
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^2]: A 2–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
