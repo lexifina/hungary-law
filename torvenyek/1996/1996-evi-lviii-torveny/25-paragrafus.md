@@ -10,7 +10,7 @@ b) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáró
 
 c) az a) és b) pont alá nem tartozó külföldi állampolgár nemzetközi egyezmény vagy viszonosság alapján, és
 
-d) nem áll büntetőeljárás vagy büntető ügyben hozott ítélet, illetőleg foglalkozástól való eltiltás hatálya alatt, illetve a büntetett előélethez fűződő hátrányos jogkövetkezmények alól mentesült,
+d) nem áll büntetőügyben hozott ítélet alapján foglalkozástól való eltiltás hatálya alatt, illetve a büntetett előélethez fűződő hátrányos jogkövetkezmények alól mentesült,
 
 e) a (3) bekezdésben meghatározott szakmai feltétellel rendelkezik,
 
@@ -28,6 +28,8 @@ a) akit a kamarából kizártak, a kizárástól számított 3 évig,
 
 b) aki cselekvőképességet korlátozó vagy kizáró gondnokság alatt áll.
 
-(7) A kamarai tag Magyarországon egyidejűleg a lakóhelye szerint illetékes területi mérnöki és területi építész kamara tagja is lehet.
+(7) A kamarai tag Magyarországon egyidejűleg a lakóhelye szerint illetékes területi mérnöki és területi építész kamara tagja is lehet, de a kettős kamarai tagság kényszere nélkül, egyik területi kamarai tagsága esetén – az általános szabályoknak megfelelően – a másik területi kamara szakterületén is szakmagyakorlási jogosultságot kérhet. Ebben az esetben a két területi kamara megállapodik az érintett tag tagdíjának megosztásáról.
 
 (8) A kamarai tagot a választása szerinti – a szakképesítése, tevékenysége alapján meghatározott – szakmai tagozatba vagy tagozatokba is fel kell venni.
+
+(9) Kérelemre az 1. § (5) bekezdése szerinti vállalkozást a szakmai kollégiumba is fel kell venni.

@@ -36,7 +36,7 @@ o) az adatváltozás bejelentésének időpontja,
 
 p) a nyilvántartás megszűnése esetén az iratok átadásának vagy irattárba helyezésének napja.
 
-(3) A kamara, ha a mérnöki, illetve építészeti tevékenységet folytató jogi személy vagy jogi személyiséggel nem rendelkező nem természetes személy jogalany (a továbbiakban: vállalkozás) adatait e célból bejelenti, az ilyen tevékenységet folytatókról nyilvántartást vezet a következő adattartalommal:
+(3) Az 1. § (5) bekezdése szerinti vállalkozások nyilvántartása a következő adatokat tartalmazza:
 
 a) a vállalkozás neve,
 
@@ -48,7 +48,7 @@ d) a mérnöki, illetve építészeti tevékenység folytatására jogosultságg
 
 e) a cégjegyzékbe bejegyzett vállalkozás esetén a bejegyzés időpontja, cégjegyzékszáma,
 
-f) a nyilvántartásba történő felvétel időpontja,
+f) a nyilvántartásba történő felvétel időpontja, valamint
 
 g) a nyilvántartásból történő törlés időpontja.
 

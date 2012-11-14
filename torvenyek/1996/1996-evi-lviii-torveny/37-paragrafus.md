@@ -30,6 +30,6 @@ b) a levont ténybeli és jogi következtetést,
 
 c) a büntetés kiszabása esetén a súlyosbító és enyhítő körülményeket.
 
-(5) A fegyelmi határozatot a tárgyalás befejezése után 15 napon belül meg kell küldeni az eljárás alá vont személynek és képviselőjének, a vizsgálóbiztosnak, valamint a panaszosnak.
+(5) A fegyelmi határozatot a tárgyalás befejezése után 15 napon belül meg kell küldeni az eljárás alá vont személynek és képviselőjének, valamint a panaszosnak.
 
-(6) Az első fokú fegyelmi tanács határozata ellen a határozat kézhezvételétől számított 15 napon belül az eljárás alá vont személy, a képviselője, a vizsgálóbiztos, valamint a panaszos az országos kamara etikai-fegyelmi bizottsága elnökéhez fellebbezhet. A fellebbezés a határozat jogerőre emelkedésére halasztó hatályú.
+(6) Az első fokú fegyelmi tanács határozata ellen a határozat kézhezvételétől számított 15 napon belül az eljárás alá vont személy, a képviselője, valamint a panaszos az országos kamara etikai-fegyelmi bizottsága elnökéhez fellebbezhet. A fellebbezés a határozat jogerőre emelkedésére halasztó hatályú.

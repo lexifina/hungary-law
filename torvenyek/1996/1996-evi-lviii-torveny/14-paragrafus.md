@@ -4,9 +4,9 @@ a) az országos alapszabály megállapítása, módosítása,
 
 b) az országos kamara tisztségviselőinek – a főtitkár kivételével – és a bizottságok tagjainak megválasztása,
 
-c) az éves költségvetési terv – ennek részeként az éves tagdíj rendszerének és összegének megállapítása és ebből az országos kamara részesedési arányának – meghatározása, továbbá az éves költségvetési beszámoló elfogadása,
+c) az éves költségvetési terv meghatározása, ennek részeként az éves tagdíj rendszerének és összegének megállapítása, beleértve a területi kamarák által az országos kamarának fizetendő tagdíjrészesedést is, a kamarai tagsághoz nem kötött jogosultak éves, költségekkel arányos névjegyzéki nyilvántartási díjának megállapítása, továbbá az éves költségvetési beszámoló elfogadása,
 
-d) az etikai-fegyelmi, valamint más országos – önkormányzati – szabályzat elfogadása,
+d) az etikai-fegyelmi, a továbbképzési, valamint más országos – szakmai önkormányzati – szabályzat elfogadása,
 
 e) az országos ügyintéző szervek beszámolóinak elfogadása.
 

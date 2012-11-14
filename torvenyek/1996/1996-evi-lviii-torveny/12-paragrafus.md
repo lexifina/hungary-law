@@ -8,13 +8,15 @@ c) az országos felügyelő bizottság,
 
 d) az országos etikai-fegyelmi bizottság,
 
-e) az országos alapszabály szerint létrehozott szakmai tagozatok,
+e) az országos alapszabály szerint létrehozott más állandó bizottságok,
 
-f) az országos alapszabály szerint létrehozott más állandó bizottságok,
+f) az országos titkárság,
 
-g) országos titkárság.
+g) az országos alapszabály szerint létrehozott szakmai tagozatok, valamint
 
-(2) Az országos kamara legfelsőbb szerve a küldöttgyűlés. Az (1) bekezdés b)–e) pontjaiban meghatározott szervek az országos kamara ügyintéző, illetve ellenőrző szervei (a továbbiakban együtt: országos ügyintéző szervek).
+h) az országos alapszabály szerint létrehozott szakmai kollégiumok.
+
+(2) Az országos kamara legfelsőbb szerve a küldöttgyűlés. Az (1) bekezdés b)–f) pontjaiban meghatározott szervek az országos kamara ügyintéző, illetve ellenőrző szervei (a továbbiakban együtt: országos ügyintéző szervek).
 
 (3) Az országos kamara tisztségviselői: az elnök, az alelnök(ök), az elnökség tagjai, a főtitkár, az országos felügyelőbizottság elnöke, valamint az országos etikai-fegyelmi bizottság elnöke.
 

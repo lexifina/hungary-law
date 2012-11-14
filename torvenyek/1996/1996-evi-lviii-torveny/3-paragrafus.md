@@ -6,21 +6,13 @@
 
 a) névjegyzéket vezető szervként az adott tevékenység folytatására való jogosultságot szabályozó kormányrendeletben meghatározottak szerint első fokon engedélyezi a mérnöki, illetve építészeti tevékenység, valamint külön törvény vagy kormányrendelet alapján az egyéb szakmagyakorlási tevékenység folytatását, és vezeti az e tevékenységek folytatására jogosultak névjegyzékét,
 
-b) figyelemmel kíséri, hogy az a) pont szerinti tevékenységet csak az arra jogosultak végezzék, ennek keretében érdekeltsége területén
+b) ellenőrzi, hogy az a) pont szerinti tevékenységet – az összeférhetetlenségi előírásokat is figyelembe véve – csak az arra jogosultak végezzék, ennek keretében illetékességi területén
 
-ba) a tervező jogosultságának megállapítása céljából:
-
-– az építési engedélyek nyilvántartásába betekinthet,
-
-– az építésügyi- és az építésfelügyeleti hatóság megkeresésére, vagy ha ezt a területi kamaráknál folyamatban lévő eljárás indokolja, a tervdokumentációk alapján véleményt nyilváníthat,
-
-– az építésfelügyeleti hatóságok éves ellenőrzési ütemtervének tartalmára javaslatot tehet, továbbá
-
-– az építésügyi-, illetve az építésfelügyeleti hatóság hatósági ellenőrzéseiben, célvizsgálataiban részt vehet,
+ba) a tervező jogosultságának megállapítása céljából az építési engedélyek nyilvántartásába betekinthet, az építésügyi és az építésfelügyeleti hatóság megkeresésére, vagy ha ezt a területi kamaráknál folyamatban lévő eljárás indokolja, a tervdokumentációk alapján véleményt nyilváníthat, az építésfelügyeleti hatóságok éves ellenőrzési ütemtervének tartalmára javaslatot tehet, továbbá az építésügyi, és az építésfelügyeleti hatóság hatósági ellenőrzéseiben, célvizsgálataiban részt vehet,
 
 bb) az illetékes hatóságtól tájékoztatást kérhet,
 
-bc) szükség esetén az intézkedésre jogosult hatóságnál eljárást kezdeményezhet;
+bc) szükség esetén az intézkedésre jogosult hatóságnál eljárást kezdeményez,
 
 c) ellenőrzi, hogy tagjainak tevékenysége és annak minősége megfelel-e a vonatkozó jogszabályoknak, hatósági előírásoknak és a szakmai követelményeknek, szükség esetén saját hatáskörben eljár, vagy az intézkedésre jogosult hatóságnál eljárást kezdeményez,
 

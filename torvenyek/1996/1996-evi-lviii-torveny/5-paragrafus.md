@@ -6,7 +6,7 @@ b) a területi kamarák egyesüléséről, szétválásáról szóló döntés;
 
 c) a területi kamara elnökének – ha a taglétszám indokolja: alelnökének –, elnökségének és a bizottságok tagjainak, valamint póttagjainak megválasztása;
 
-d) az országos kamara küldöttgyűlésébe az országos alapszabályban meghatározott számú tag után egy-egy küldött, valamint pótküldöttek megválasztása;
+d) az országos kamara küldöttgyűlésébe a választási év kezdő időpontja szerinti taglétszám alapján – a ciklus közbeni taglétszám változásától függetlenül a választási ciklusra érvényesen – az országos alapszabályban meghatározott számú tag után egy-egy küldött, valamint a pótküldöttek megválasztása;
 
 e) a területi kamara éves tevékenységének, költségvetési tervének és éves költségvetési beszámolójának, valamint a területi ügyintéző szervek éves tevékenységéről készített beszámolóknak az elfogadása.
 

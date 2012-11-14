@@ -8,7 +8,7 @@ a) mérnöki, illetve építészeti tevékenység engedélyezése, az engedély 
 
 b) törvénnyel vagy kormányrendelettel a kamarák hatáskörébe utalt egyéb igazgatási ügyek intézése.
 
-(2) A közigazgatási ügyben a területi, illetve országos kamara titkára, illetve főtitkára jár el. Közigazgatási ügyben ügyintézőként csak az működhet közre, aki a köztisztviselők jogállásáról törvény szerint köztisztviselőnek – engedélyezés és névjegyzék vezetése esetén ügykezelőnek – kinevezhető lenne, továbbá a külön jogszabályban foglalt feltételeknek megfelel.
+(2) A közigazgatási hatósági ügyben a területi vagy országos kamara titkára, főtitkára a hatáskör gyakorlója.
 
 (3) A titkár, illetve főtitkár
 

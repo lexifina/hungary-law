@@ -1,4 +1,4 @@
-34/D. § (1) A fegyelmi tanács elnökeként és tagjaként, valamint vizsgálóbiztosként nem járhat el:
+34/D. § (1) A fegyelmi tanács elnökeként és tagjaként nem járhat el:
 
 a) a panaszos, az eljárás alá vont személy és azok hozzátartozója [Ptk. 685. § b) pont],
 
@@ -10,15 +10,15 @@ d) a területi kamara elnöke, alelnöke, elnökségi tagja,
 
 e) a másodfokú eljárásban az, aki az első fokú eljárásban eljárt,
 
-f) akitől az ügy elfogulatlan elbírálása egyéb okból nem várható.
+f) aki az első fokú eljárásba közvetlenül vagy közvetve beavatkozott, részt vett és akitől az ügy elfogulatlan elbírálása egyéb okból nem várható.
 
-(2) Az (1) bekezdésben meghatározottakon túlmenően nem járhat el a fegyelmi tanács tagja vizsgálóbiztosként, a vizsgálóbiztos a fegyelmi tanács tagjaként.
+(2)
 
 (3) A kizárásra vonatkozó rendelkezéseket a jegyzőkönyvvezetőre és a szakértőre is megfelelően alkalmazni kell.
 
 (4) A kizárási okot az érintettek kötelesek az etikai-fegyelmi bizottság elnökének bejelenteni.
 
-(5) Az eljárás alá vont tag a fegyelmi tanács elnöke, tagjai vagy a vizsgálóbiztos ellen kizárási okot jelenthet be. A kizárással érintett személy meghallgatása után a kizáró okról az etikai-fegyelmi bizottság elnöke határoz. A területi kamara etikai-fegyelmi bizottságának elnöke ellen bejelentett kizárási ok kérdésében az országos kamara etikai-fegyelmi bizottságának elnöke, az országos kamara etikai-fegyelmi bizottságának elnöke ellen bejelentett kizárási ok kérdésében az országos kamara elnökének javaslatára az országos kamara felügyelőbizottsága határoz.
+(5) Az eljárás alá vont tag a fegyelmi tanács elnöke, tagjai ellen kizárási okot jelenthet be. A kizárással érintett személy meghallgatása után a kizáró okról az etikai-fegyelmi bizottság elnöke határoz. A területi kamara etikai-fegyelmi bizottságának elnöke ellen bejelentett kizárási ok kérdésében az országos kamara etikai-fegyelmi bizottságának elnöke, az országos kamara etikai-fegyelmi bizottságának elnöke ellen bejelentett kizárási ok kérdésében az országos kamara felügyelőbizottsága határoz.
 
 (6) Ha a kizárásnak a területi kamara etikai-fegyelmi bizottságának elnöke, az országos kamara etikai-fegyelmi bizottságának elnöke vagy országos kamara felügyelőbizottsága helyt ad, kijelöli az eljáró tanácsot.
 
@@ -26,7 +26,7 @@ f) akitől az ügy elfogulatlan elbírálása egyéb okból nem várható.
 
 (8) A fegyelmi eljárást
 
-a) a területi kamara elnökével, alelnökével, titkárával, etikai-fegyelmi bizottság elnökével és tagjával szemben – ideértve az előzetes vizsgálat elrendelését is – az országos kamara etikai-fegyelmi bizottsága által kijelölt kamara,
+a) a területi kamara elnökével, alelnökével, titkárával, etikai-fegyelmi bizottság elnökével és tagjával szemben az országos kamara etikai-fegyelmi bizottsága által kijelölt kamara,
 
 b) az országos kamara elnökével, alelnökével, elnökségi tagjával, titkárával, etikai-fegyelmi bizottság elnökével és tagjával szemben a lakhelye szerint illetékes kamara
 

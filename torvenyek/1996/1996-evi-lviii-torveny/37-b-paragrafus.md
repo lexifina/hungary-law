@@ -6,6 +6,6 @@
 
 (4) Hatályon kívül kell helyezni az első fokú határozatot akkor is, ha azt az első fokú eljárás lényeges szabályainak megsértésével hozták meg.
 
-(5) A másodfokú határozat ellen az eljárás alá vont személy, a képviselője, a vizsgálóbiztos, valamint a panaszos a kézbesítéstől számított 30 napon belül a közigazgatási perekre irányadó szabályok szerint bírósághoz fordulhat.
+(5) A másodfokú határozat ellen az eljárás alá vont személy, a képviselője, valamint a panaszos a kézbesítéstől számított 30 napon belül a közigazgatási perekre irányadó szabályok szerint bírósághoz fordulhat.
 
 (6) A másodfokú határozat a közléssel válik jogerőssé és végrehajthatóvá, de az (5) bekezdés szerinti esetben a végrehajtás felfüggesztése kérhető a bíróságtól.

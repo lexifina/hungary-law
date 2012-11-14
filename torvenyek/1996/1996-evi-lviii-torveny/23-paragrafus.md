@@ -4,13 +4,15 @@
 
 23. § (1) A kamara a működésével járó költségeket a következő bevételekből fedezi:
 
-a) a tagdíjakból,
+a) a kamarai tagdíjakból,
 
-b) az eljárási díjakból,
+b) az igazgatási szolgáltatási díjakból,
 
-c) a kamara szakmai szolgáltatásaiért fizetett díjakból,
+c) a nyilvántartási díjakból,
 
-d) az egyéb bevételekből.
+d) a befizetett bírságokból, regisztrációs és adminisztrációs díjakból, valamint
+
+e) az egyéb bevételekből, támogatásokból, ideértve a pályázati forrásokat és az önkéntesen felajánlott hozzájárulásokat is.
 
 (2) Az (1) bekezdés a)–c) pontjaiban meghatározott díjak országosan egységes mértékűek.
 
