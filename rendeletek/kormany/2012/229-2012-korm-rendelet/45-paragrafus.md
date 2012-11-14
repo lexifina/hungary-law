@@ -1,4 +1,4 @@
-## 44. § E rendelet alkalmazásában a lakosságszám meghatározása során a 39. § (1) bekezdése és 43. § (1) bekezdése szerinti kérelem benyújtása évének első napján fennálló, a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala által kezelt adatokat kell figyelembe venni.
+## 44. §[^13] E rendelet alkalmazásában a lakosságszám meghatározása során a 39. § (1) bekezdése szerinti kérelem benyújtása évének első napján fennálló, a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala által kezelt adatokat kell figyelembe venni.
 
 ## VI. Fejezet
 
@@ -13,3 +13,5 @@
 (3) A 25. § (5) bekezdése 2012. október 2-án lép hatályba.
 
 (4) Az V. Fejezet az Nkt. 74. § (6) bekezdésének hatálybalépésével egyidejűleg lép hatályba.
+
+[^13]: A 44. § a 315/2012. (XI. 13.) Korm. rendelet 8. § (1) bekezdés b) pontja szerint módosított szöveg.

@@ -10,7 +10,7 @@
 
 | Kitöltő emailcíme |  |  |  |  |
 
-| No. | Megnevezés | 2011. évi költségvetési beszámoló szerinti tényadatok | 2012. évi eredeti előirányzat | 2012. évi várható előirányzat | 2013. évi prognosztizált előirányzat |
+| No. | Megnevezés | 2011. évi költségvetési beszámoló szerinti tényadatok | 2012. évi eredeti előirányzat | 2012. évi várható előirányzat (prognosztizált 2012. év végi teljesítési adat) | 2013. évi prognosztizált előirányzat |
 
 | 1. | 2. | 3. | 4. |
 
@@ -70,7 +70,7 @@
 
 | 25.b. | 25. sorból az Útmutató szerinti szakfeladatokon elszámolt önként vállalt feladatok felhalmozási kiadásai |  |  |  |  |
 
-| No. | Megnevezés | 2011. éviköltségvetési beszámoló szerinti tényadatok | 2012. évieredeti előirányzat | 2012. évivárható előirányzat | 2013. éviprognosztizált előirányzat |
+| No. | Megnevezés | 2011. éviköltségvetési beszámoló szerinti tényadatok | 2012. évieredeti előirányzat | 2012. évi várható előirányzat (prognosztizált 2012. év végi teljesítési adat) | 2013. éviprognosztizált előirányzat |
 
 | 1. | 2. | 3. | 4. |
 
@@ -84,7 +84,7 @@
 
 | 27.b | 27. sorból gépjárműadó |  |  |  |  |
 
-| 27.c | 29. sorból helyi adók |  |  |  |  |
+| 27.c | 27. sorból helyi adók |  |  |  |  |
 
 | 28. | Önkormányzat működési célú költségvetési támogatása | 16. űrlap 38+40+42+43+44+48+(53+54 működési része) sor | 16. űrlap 38+40+44+ 47+51 | 16. űrlap 38+40+42+ 43+44+47+ 51 |  |
 
@@ -122,9 +122,9 @@
 
 | 45. | Tárgyévi bevételek (43.+44.) |  |  |  |  |
 
-| 45.a. | 25. sorból az Útmutató szerinti szakfeladatokon elszámolt önként vállalt feladatok működési bevételei |  |  |  |  |
+| 45.a. | 45. sorból az Útmutató szerinti szakfeladatokon elszámolt önként vállalt feladatok működési bevételei |  |  |  |  |
 
-| 45.b. | 25. sorból az Útmutató szerinti szakfeladatokon elszámolt önként vállalt feladatok felhalmozási bevételei |  |  |  |  |
+| 45.b. | 45. sorból az Útmutató szerinti szakfeladatokon elszámolt önként vállalt feladatok felhalmozási bevételei |  |  |  |  |
 
 | 46. | Működési hiány (34.-13.) (+/-) |  |  |  |  |
 
@@ -140,7 +140,7 @@
 
 | 2012. évben 28. + 36. sor összesen adata (2 és 3 oszlopok esetében) = 80. űrlap 55. sora |  |
 
-| A feladatellátási helyek működtetése alóli mentesülési kérelem rövid szöveges indokolása (maximum 500 karakter): |
+| A feladatellátási helyek működtetése alóli mentesülési vagy a működtetés vállalására vonatkozó kérelem rövid szöveges indokolása (maximum 500 karakter): |
 
 | ………………………………. | P.H | …………………………………… |
 
