@@ -12,9 +12,9 @@ vonatkozó rendelkezések
 
 4. A mesterséges termékenyítő állomásokon beállított bikákat még gE negatív oltóanyaggal (ún. marker vakcina) sem szabad vakcinázni.
 
-5. A tenyészbikák mentességét félévente szerológiai vizsgálattal ellenőrizni kell. A tenyésztésből ki kell zárni azt a bikát, amelynek vizsgálata pozitív eredménnyel zárult.
+5.[^1] A tenyészbikák mentességét évente szerológiai vizsgálattal ellenőrizni kell. A tenyésztésből ki kell zárni azt a bikát, amelynek vizsgálata pozitív eredménnyel zárult.
 
-B) A sperma importjára vonatkozó rendelkezések[^1]
+B) A sperma importjára vonatkozó rendelkezések[^2]
 
 Az országba csak olyan termékenyítő anyag hozható be, amely
 
@@ -22,7 +22,7 @@ Az országba csak olyan termékenyítő anyag hozható be, amely
 
 2. a szóban forgó bikák természetes úton nem fedeztek.
 
-C) Embrió vagy in vitro megtermékenyített petesejt importjára vonatkozó rendelkezések[^2]
+C) Embrió vagy in vitro megtermékenyített petesejt importjára vonatkozó rendelkezések[^3]
 
 1. A donor nem kevesebb mint 60 nap óta a származási országban és nem kevesebb mint 30 nap óta a származási állományban tartózkodott,
 
@@ -38,5 +38,6 @@ c) gE negatív és nem több mint 21 nappal az embrió kinyerése előtt negatí
 
 4. a termékenyítő anyag a sperma importjánál meghatározott feltételeknek megfelelő bikákból származott.
 
-[^1]: A 3. számú melléklet B) pontja a 19/2003. (II. 25.) FVM rendelet 2. §-ával megállapított szöveg.
-[^2]: A 3. számú melléklet C) pontja a 19/2003. (II. 25.) FVM rendelet 2. §-ával megállapított szöveg.
+[^1]: A 3. számú melléklet A) 5. pontja a 114/2012. (XI. 13.) VM rendelet 15. §-a szerint módosított szöveg.
+[^2]: A 3. számú melléklet B) pontja a 19/2003. (II. 25.) FVM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 3. számú melléklet C) pontja a 19/2003. (II. 25.) FVM rendelet 2. §-ával megállapított szöveg.
