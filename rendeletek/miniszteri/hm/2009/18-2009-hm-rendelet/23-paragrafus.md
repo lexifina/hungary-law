@@ -2,9 +2,9 @@
 
 (2) A honvédségi autóbusz akkor minősíthető alkalmasnak, ha
 
-a)[^9]
+a)[^10]
 
-b) tartós lassító fékkel (retarder) látták el,
+b)[^11] az M3 kategóriájú autóbuszt tartós lassító fékkel (retarder) látták el,
 
 c) kényszerkormányzott tengelyén futózott gumiabroncs nincs felszerelve,
 
@@ -14,4 +14,5 @@ e) a megtett út, a sebesség és a gépkocsivezető vezetési idejének legalá
 
 f) rendelkezik saját számlás utasszállítási igazolvánnyal.
 
-[^9]: A 23. § (2) bekezdés a) pontját a 6/2012. (V. 18.) HM rendelet 7. §-a hatályon kívül helyezte.
+[^10]: A 23. § (2) bekezdés a) pontját a 6/2012. (V. 18.) HM rendelet 7. §-a hatályon kívül helyezte.
+[^11]: A 23. § (2) bekezdés b) pontja a 22/2012. (XI. 13.) HM rendelet 4. §-ával megállapított szöveg.
