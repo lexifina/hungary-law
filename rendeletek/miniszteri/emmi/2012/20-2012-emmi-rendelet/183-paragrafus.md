@@ -1,4 +1,4 @@
-## 180–182. §[^4]
+## 180–182. §[^19]
 
 ## XX. Fejezet
 
@@ -42,4 +42,4 @@ f) az alapító okirata szerint nevelési-oktatási tevékenység végzésre jog
 
 hirdethet meg.
 
-[^4]: A 180–182. § a 192. § (3) bekezdése alapján 2013. március 1-jén lép hatályba.
+[^19]: A 180–182. § a 192. § (3) bekezdése alapján 2013. március 1-jén lép hatályba.

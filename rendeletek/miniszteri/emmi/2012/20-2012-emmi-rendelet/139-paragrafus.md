@@ -1,4 +1,4 @@
-## 138. §[^3]
+## 138. §[^13]
 
 ## 51. A fejlesztési feladatok meghatározása és dokumentálása
 
@@ -6,4 +6,4 @@
 
 (2) Az többi tanulóval együtt oktatott tanuló egészségügyi és pedagógiai célú rehabilitációját központilag kiadott egyéni fejlődési lapon dokumentálja.
 
-[^3]: A 138. § a 192. § (4) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
+[^13]: A 138. § a 192. § (4) bekezdése alapján 2013. szeptember 1-jén lép hatályba.

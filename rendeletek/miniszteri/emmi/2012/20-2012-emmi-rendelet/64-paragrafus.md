@@ -8,7 +8,7 @@ a) felmentették a tanórai foglalkozásokon való részvétele alól,
 
 b) engedélyezték, hogy egy vagy több tantárgy tanulmányi követelményének egy tanévben vagy az előírtnál rövidebb idő alatt tegyen eleget,
 
-c) az 51. § (6) bekezdés b) pontjában meghatározott időnél többet mulasztott, és a nevelőtestület döntése alapján osztályozó vizsgát tehet,
+c)[^6] az 51. § (7) bekezdésében meghatározott időnél többet mulasztott, és a nevelőtestület döntése alapján osztályozó vizsgát tehet,
 
 d) a tanuló a félévi, év végi osztályzatának megállapítása érdekében független vizsgabizottság előtt tesz vizsgát.
 
@@ -27,3 +27,5 @@ a) a tanév végén – legfeljebb három tantárgyból – elégtelen osztályz
 b) az osztályozó vizsgáról, a különbözeti vizsgáról számára felróható okból elkésik, távol marad, vagy a vizsgáról engedély nélkül eltávozik.
 
 (8) A vizsgázó javítóvizsgát az iskola igazgatója által meghatározott időpontban, az augusztus 15-étől augusztus 31-éig terjedő időszakban tehet. Szakmai gyakorlatból akkor lehet javítóvizsgát tenni, ha a gyakorlati képzés szervezője azt engedélyezte.
+
+[^6]: A 64. § (2) bekezdés c) pontja a 36/2012. (XI. 14.) EMMI rendelet 11. § b) pontja szerint módosított szöveg.

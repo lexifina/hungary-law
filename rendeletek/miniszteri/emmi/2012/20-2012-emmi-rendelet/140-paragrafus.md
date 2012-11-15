@@ -6,7 +6,7 @@ a) az a gyermek kezdheti meg, aki hatodik életévét május 31. napjáig betöl
 
 b) a szülő kérelmére az a gyermek is megkezdheti, aki a hatodik életévét az év december 31. napjáig betölti.
 
-(2) A fejlesztő nevelés-oktatásban a tanulók csoportokba sorolásáról – a nevelőtestület véleményének kikérésével – az intézmény vezetője dönt. A csoportok létszáma nem haladhatja meg a közoktatási törvény 3. számú mellékletében a gyógypedagógiai osztályok számára meghatározott átlaglétszámot.
+(2)[^14] A fejlesztő nevelés-oktatásban a tanulók csoportokba sorolásáról – a nevelőtestület véleményének kikérésével – az intézmény vezetője dönt. A csoportok létszáma nem haladhatja meg a hat főt.
 
 (3) A fejlesztő nevelés-oktatás a súlyosan és halmozottan fogyatékos tanulók fejlesztő nevelésének, oktatásának irányelve alapján készített intézményi rehabilitációs pedagógiai program és a tanév helyi rendjét meghatározó éves munkaterv alapján folyik.
 
@@ -15,3 +15,5 @@ b) a szülő kérelmére az a gyermek is megkezdheti, aki a hatodik életévét 
 (5) A tanév tizenkettedik hetének végéig minden tanuló részére el kell készíteni a személyre szabott, a tanuló fejlesztésének súlypontjait meghatározó egyéni fejlesztési tervet.
 
 (6) A tanuló fejlődését a nevelőtestület a tanítási év végén, a központilag kiadott nyomtatványon szövegesen értékeli. A szöveges értékelés tartalmazza a tanulónak az egyes fejlesztési területen elért eredményeit és nehézségeit, valamint a következő tanítási év egyéni fejlesztési tervének elkészítéséhez szükséges javaslatokat.
+
+[^14]: A 140. § (2) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 11. § g) pontja szerint módosított szöveg.

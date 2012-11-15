@@ -204,7 +204,7 @@
 
 | 43. |  | Ezt a naplót .................... tanítási nappal (órával) lezártam. |  | N. |
 
-| 44. |  | Ezt az osztályozó naplót ................ azaz .................... (betűvel) osztályozott tanulóval lezártam. |  |  |
+| 44. |  |  |  |  |
 
 | 45. |  | Ezt az osztályozó naplót ................ azaz .................... (betűvel) osztályozott tanulóval lezártam. |  | N. |
 
