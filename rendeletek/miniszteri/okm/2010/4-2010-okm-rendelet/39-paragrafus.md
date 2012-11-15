@@ -1,38 +1,4 @@
-## „A GYÓGYPEDAGÓGIAI NEVELÉSBEN-OKTATÁSBAN RÉSZT VEVŐ NEVELÉSI-OKTATÁSI INTÉZMÉNYEKRE VONATKOZÓ KÜLÖN RENDELKEZÉSEK
-
-## A fejlesztési feladatok dokumentálása
-
-## 33/A. § A nevelési-oktatási intézmény a sajátos nevelési-igényű gyermek, tanuló fejlesztéséhez egyéni fejlesztési tervet készít, és a végrehajtásában közreműködő pedagógus évente legalább egy alkalommal rögzíti a fejlesztés eredményét.
-
-## A megismerő funkciók vagy a viselkedés fejlődésének súlyos rendellenességével küzdő tanulók iskolai oktatása
-
-## 33/B. § (1) A megismerő funkciók vagy a viselkedés fejlődésének organikus okra vissza nem vezethető tartós és súlyos rendellenességével (a továbbiakban: a megismerő funkciók vagy a viselkedés fejlődésének súlyos rendellenessége) küzdő tanuló részére nyújtott iskolai fejlesztő foglalkoztatásokat az iskola központilag kiadott egyéni fejlődési lapon tartja nyilván.
-
-## (2) A megismerő funkciók vagy a viselkedés fejlődésének súlyos rendellenességével küzdő tanuló részére a fejlesztő foglalkozások megszervezéséhez rendelkezésre álló időkeretet a közoktatásról szóló törvény 52. § (6) bekezdés a) pontjában meghatározott mérték figyelembevételével kell meghatározni, az ott meghatározott számítási eljárás alkalmazásával.
-
-## (3) A megismerő funkciók vagy a viselkedés fejlődésének súlyos rendellenességével küzdő tanulók, és a megismerő funkciók vagy a viselkedés fejlődésének organikus okra visszavezethető tartós és súlyos rendellenességével küzdő tanulók részére közösen, egy csoportban is megszervezhető az iskolai fejlesztő foglalkoztatás, illetve az egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozás, amennyiben a fejlesztő terápia, valamint az annak végzésére jogosult szakember végzettsége és szakképesítése megegyezik.
-
-## A fejlesztő iskolai oktatás
-
-## 33/C. § (1) A tankötelezettség teljesítését a fejlesztő iskolai oktatásban
-
-## a) az a gyermek kezdheti meg, aki május 31. napjáig,
-
-## b) a szülő kérelmére az a gyermek kezdheti meg, aki december 31. napjáig
-
-## a hatodik életévét betölti.
-
-## (2) A fejlesztő iskolai oktatásban a tanulóknak a fogyatékosságuk, fejlettségük és életkoruk alapján történő csoportokba sorolásáról – a nevelőtestület véleményének kikérésével – az intézmény vezetője dönt. A csoportok maximális létszáma hat fő.
-
-## (3) A fejlesztő iskolai oktatás a tanév rendjéhez igazodó, tanítási évfolyamokra nem tagolódó, felépítésében az elért fejlődési szakaszokat követő egységes folyamat.
-
-## (4) A fejlesztő iskolai oktatás a fejlesztő iskolai rehabilitációs pedagógiai program és a tanév helyi rendjét meghatározó éves munkaterv alapján folyik.
-
-## (5) A tanév tizenkettedik hetének végéig minden tanuló részére el kell készíteni a személyre szabott, a tanuló fejlesztésének súlypontjait meghatározó egyéni fejlesztési tervet.
-
-## (6) A tanuló fejlődését a nevelőtestület a tanítási év végén, a központilag kiadott nyomtatványon szövegesen értékeli. A szöveges értékelés tartalmazza a tanulónak az egyes fejlesztési területen elért eredményeit és nehézségeit, továbbá a következő tanítási év egyéni fejlesztési tervének elkészítéséhez szükséges javaslatokat.
-
-## (7) A fejlesztő iskolai oktatásra a 9–10. §-ban és a 21–27. §-ban foglaltak nem alkalmazhatók.”
+## is érteni kell.
 
 39. § (1) E rendelet hatálybalépésével egyidejűleg a képzési kötelezettségről és a pedagógiai szakszolgálatokról szóló 14/1994. (VI. 24.) MKM rendelet (a továbbiakban: MKM rendelet) – a (2) bekezdésben foglalt kivétellel – hatályát veszti.
 

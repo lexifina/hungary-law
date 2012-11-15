@@ -24,7 +24,7 @@ i) a korai fejlesztés és gondozás, illetve a fejlesztő felkészítés felada
 
 j) a korai fejlesztés és gondozás, a fejlesztő iskolai oktatás, illetve a fejlesztő felkészítés feladataiban részt vevő gyermekotthonokra, a fogyatékosok ápoló, gondozó otthonaira, fogyatékosok rehabilitációs intézményeire, fogyatékosok nappali ellátást nyújtó intézményeire,
 
-k) a többcélú intézményekre, ha bármelyik, az a)–j) pontban felsorolt intézmény feladatait ellátják [az a)–k) pont alattiak a továbbiakban együtt: közoktatási intézmény; a c)–j) pont alattiak, továbbá az k) pont alatti, ha a c)–j) pont alatt felsorolt bármelyik intézmény feladatait ellátja, a továbbiakban együtt: pedagógiai szakszolgálat intézménye],
+k)[^2] a többcélú intézményekre, ha bármelyik, az a)–j) pontban felsorolt intézmény feladatait ellátják [az a)–k) pont alattiak a továbbiakban együtt: köznevelési intézmény; a c)–j) pont alattiak, továbbá az k) pont alatti, ha a c)–j) pont alatt felsorolt bármelyik intézmény feladatait ellátja, a továbbiakban együtt: pedagógiai szakszolgálat intézménye],
 
 l) az Oktatási Hivatalra,
 
@@ -34,4 +34,7 @@ n) a pedagógus-munkakörben, a nevelő-oktató munkát közvetlenül segítő m
 
 o) a gyermekek, tanulók szüleire, gyámjára (a továbbiakban együtt: szülő).
 
-(2) A gyógytestnevelés bármelyik közoktatási intézmény alapfeladataként megszervezhető.
+(2)[^3] A gyógytestnevelés bármelyik köznevelési intézmény alapfeladataként megszervezhető.
+
+[^2]: Az 1. § (1) bekezdés k) pontja a 36/2012. (XI. 14.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.

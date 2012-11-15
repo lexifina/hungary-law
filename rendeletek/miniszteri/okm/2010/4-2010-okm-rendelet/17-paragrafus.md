@@ -10,6 +10,6 @@
 
 (6) A folyamatos figyelemmel kísérés ideje alatt a pedagógus – a tanulási képességet vizsgáló szakértői és rehabilitációs bizottság útmutatása szerint – a gyermek, tanuló fejlődéséről rendszeresen, de legalább negyedévente részletes értékelést készít. A folyamatos figyelemmel kísérés ideje alatt a pedagógus legalább havonta egyszer ismerteti a szülővel megállapításait, és segítséget nyújt az otthoni neveléshez. A folyamatos figyelemmel kísérés végén a részletes értékelést a pedagógus átadja a tanulási képességet vizsgáló szakértői és rehabilitációs bizottságnak.
 
-(7)[^20] Ha a szakértői és rehabilitációs eljárásban szakszolgálati-esélyegyenlőségi szakértő vesz részt, a szakértő részt vehet a (5)–(6) bekezdés alapján szervezett megfigyelésen, illetve a szülővel történő egyeztetésen.
+(7)[^31] Ha a szakértői és rehabilitációs eljárásban szakszolgálati-esélyegyenlőségi szakértő vesz részt, a szakértő részt vehet a (5)–(6) bekezdés alapján szervezett megfigyelésen, illetve a szülővel történő egyeztetésen.
 
-[^20]: A 17. § (7) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lépett hatályba.
+[^31]: A 17. § (7) bekezdése a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lépett hatályba.

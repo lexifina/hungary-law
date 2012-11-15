@@ -12,10 +12,11 @@ d) magasabb összegű családi pótlék megállapításához súlyos és közép
 
 (2) A szakértői és rehabilitációs bizottság az (1) bekezdés a)–b) pontjában meghatározott intézménybe történő felvétellel kapcsolatos javaslatát a korai fejlesztéssel és gondozással, illetve a fejlesztő felkészítéssel összefüggésben készített szakértői véleményébe építi be.
 
-(3)[^27] A fenntartó minden év január 31-ig megküldi az illetékes szakértői és rehabilitációs bizottságnak a közoktatásról szóló törvény 91. § (4) bekezdés e) pontja szerinti tájékoztatót, amelyben jelzi az intézmények felvételi körzetét is.
+(3)[^47]
 
 (4) Ahol e rendelet pedagógus-szakvizsgáról rendelkezik, azon a pedagógus-szakvizsgával egyenértékű szakképzettséget és tudományos fokozatot is érteni kell.
 
-(5) Ha a felnőttoktatásban részt vevő tanuló – a közoktatásról szóló törvény 78. § (7) bekezdés d) pontjában foglaltak alapján – nem veheti igénybe a pedagógiai szakszolgálat feladatait ellátó intézmények szolgáltatásait, a sajátos nevelési igény megállapításának kérdésében a Szakmai Szolgáltató Intézmény jár el. A szakmai feladatra jutó folyó kiadásokból fakadó költségeket a vizsgálatot kérő, felnőttoktatásban részt vevő tanuló viseli.
+(5)[^48] Ha a felnőttoktatásban részt vevő tanuló – az Nkt. 60. § (10) bekezdésében foglaltak alapján – nem veheti igénybe a pedagógiai szakszolgálat feladatait ellátó intézmények szolgáltatásait, a sajátos nevelési igény megállapításának kérdésében a Szakmai Szolgáltató Intézmény jár el. A szakmai feladatra jutó folyó kiadásokból fakadó költségeket a vizsgálatot kérő, felnőttoktatásban részt vevő tanuló viseli.
 
-[^27]: A 36. § (3) bekezdése a 24/2012. (IV. 18.) NEFMI rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^47]: A 36. § (3) bekezdését a 36/2012. (XI. 14.) EMMI rendelet 6. § f) pontja hatályon kívül helyezte.
+[^48]: A 36. § (5) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 5. § f) pontja szerint módosított szöveg.

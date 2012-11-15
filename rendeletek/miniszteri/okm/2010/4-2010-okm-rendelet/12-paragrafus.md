@@ -1,4 +1,4 @@
-12. § (1) A közoktatásról szóló törvény 30. § (9) bekezdése alapján egyes tantárgyakból, tantárgyrészekből a tanuló teljesítményének értékelése, minősítése alóli mentesítés céljából szakértői vizsgálat indítható:
+12. § (1)[^21] A nemzeti köznevelési törvényről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 56. § (1) bekezdése alapján egyes tantárgyakból, tantárgyrészekből a tanuló teljesítményének értékelése, minősítése alóli mentesítés céljából szakértői vizsgálat indítható:
 
 a) az iskolai nevelés-oktatás első–hatodik évfolyamán január 31-ig szükség szerint bármikor,
 
@@ -9,3 +9,5 @@ b) az a) pontban meghatározott időszakot követően annak a tanévnek március
 (3) Ha a gyermek az iskolába lépéshez szükséges fejlettséget nem érte el, a szakértői és rehabilitációs bizottság újabb időpontot tűz ki a szakértői vizsgálatra, egyúttal a szülőt tájékoztatja, hogy a gyermeknek óvodai nevelésben kell részt vennie, és a gyermek fejlettségéről a lakóhely, ennek hiányában a tartózkodási hely szerint illetékes jegyzőt értesíti. A jegyzőt abban az esetben is értesíteni kell, ha a gyermek a közoktatásról szóló törvény 24. § (5) bekezdése alapján a hetedik életévében újabb nevelési évet kezd az óvodában.
 
 (4) Ha az iskolába lépéshez szükséges fejlettség megállapítása vagy a kijelölt iskolába való felvétel céljából kezdett szakértői vizsgálat a beíratásra meghatározott időpontig nem fejeződik be, a szakértői bizottság e tényről a szülő részére igazolást ad.
+
+[^21]: A 12. § (1) bekezdés nyitó szövegrésze a 36/2012. (XI. 14.) EMMI rendelet 5. § b) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## A nem helyi önkormányzat, nem állami szerv által fenntartott intézményekben a korai fejlesztés és gondozás, továbbá a fejlesztő felkészítés/fejlesztő iskolai oktatás megkezdéséhez szükséges engedély kiadásához benyújtandó kérelem adattartalma, mellékletei[^29]
+## A nem helyi önkormányzat, nem állami szerv által fenntartott intézményekben a korai fejlesztés és gondozás, továbbá a fejlesztő felkészítés/fejlesztő iskolai oktatás megkezdéséhez szükséges engedély kiadásához benyújtandó kérelem adattartalma, mellékletei[^51]
 
-## I. A kérelem adattartalma[^30]
+## I. A kérelem adattartalma[^52]
 
 ## A(z) … Kormányhivatal részére a közoktatásról szóló 1993. évi LXXIX. törvény 82. §-a alapján. A kérelemnek az alábbi adatokat kell tartalmaznia:
 
@@ -32,7 +32,7 @@
 
 ## 10. Az intézmény feladatával, működésével kapcsolatos bejelentések.
 
-## II. A mellékletek[^31]
+## II. A mellékletek[^53]
 
 ## A kérelemhez csatolni kell eredetiben vagy másolatban (Másolat esetén az eljárás során a kormányhivatal, a fővárosi főjegyző kérheti az eredeti dokumentum bemutatását.):
 
@@ -58,6 +58,6 @@
 
 5. számú melléklet a 4/2010. (I. 19.) OKM rendelethez
 
-[^29]: A 4. számú melléklet címe a 24/2012. (IV. 18.) NEFMI rendelet 7. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^30]: A 4. számú melléklet I. A kérelem adattartalma rész nyitó szövegrésze a 24/2012. (IV. 18.) NEFMI rendelet 7. § (5) bekezdés d) pontja szerint módosított szöveg.
-[^31]: A 4. számú melléklet II. A mellékletek rész nyitó szövegrésze a 24/2012. (IV. 18.) NEFMI rendelet 7. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^51]: A 4. számú melléklet címe a 24/2012. (IV. 18.) NEFMI rendelet 7. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^52]: A 4. számú melléklet I. A kérelem adattartalma rész nyitó szövegrésze a 24/2012. (IV. 18.) NEFMI rendelet 7. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^53]: A 4. számú melléklet II. A mellékletek rész nyitó szövegrésze a 24/2012. (IV. 18.) NEFMI rendelet 7. § (5) bekezdés e) pontja szerint módosított szöveg.

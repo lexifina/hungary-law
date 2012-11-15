@@ -20,6 +20,8 @@ bb) három–ötéves kora között legalább heti hat órát
 
 kell biztosítani. Amennyiben a gyermek egyéni és csoportfoglalkozáson is részt vesz, a minimális heti foglalkoztatási óraszámot a csoportfoglalkozásokra vonatkozó rendelkezések szerint kell meghatározni.
 
-(4) Ha a korai fejlesztés és gondozás minimális időkeretének igénybevétele nem oldható meg közoktatási intézményben, a gyermek fejlesztésére otthoni ellátás keretében kerül sor. Otthoni ellátás esetén a (3) bekezdésben meghatározott időkeretet – a szülő egyetértésével és a gondozásba történő bevonásával – a fejlesztési év átlagában kell teljesíteni.
+(4)[^37] Ha a korai fejlesztés és gondozás minimális időkeretének igénybevétele nem oldható meg köznevelési intézményben, a gyermek fejlesztésére otthoni ellátás keretében kerül sor. Otthoni ellátás esetén a (3) bekezdésben meghatározott időkeretet – a szülő egyetértésével és a gondozásba történő bevonásával – a fejlesztési év átlagában kell teljesíteni.
 
 (5) A korai fejlesztés és gondozás feladatainak a megvalósításában a szülő közreműködhet.
+
+[^37]: A 25. § (4) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.

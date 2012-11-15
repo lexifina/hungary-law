@@ -1,3 +1,3 @@
-1. számú melléklet a 4/2010. (I. 19.) OKM rendelethez[^28]
+1. számú melléklet a 4/2010. (I. 19.) OKM rendelethez[^50]
 
-[^28]: Az 1. számú melléklet a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lépett hatályba.
+[^50]: Az 1. számú melléklet a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lépett hatályba.

@@ -22,8 +22,12 @@ f) az iskolai felkészítő foglalkozások javasolt heti óraszámát és a peda
 
 g) az arról szóló tájékoztatást, hogy a gyermek, tanuló fejlődését a szakértői és rehabilitációs bizottság hivatalból megvizsgálja.
 
-(3) Ha a határozatban fejlesztő felkészítés biztosítását kell elrendelni, a nevelési-oktatási intézmény helyett a gyermeket fogadó, fejlesztő felkészítés feladataiban részt vevő közoktatási intézményt, továbbá a fejlesztő felkészítés helyét, formáját, a foglalkozások idejét, a szakszolgálat által javasolt szolgáltatásokat kell feltüntetni.
+(3)[^44] Ha a határozatban fejlesztő felkészítés biztosítását kell elrendelni, a nevelési-oktatási intézmény helyett a gyermeket fogadó, fejlesztő felkészítés feladataiban részt vevő köznevelési intézményt, továbbá a fejlesztő felkészítés helyét, formáját, a foglalkozások idejét, a szakszolgálat által javasolt szolgáltatásokat kell feltüntetni.
 
-(4) A jegyzői eljárásban szakértőként a 9. § (1) bekezdésében felsorolt ügyekben az illetékes országos szakértői és rehabilitációs bizottság, a 9. § (2) bekezdésében felsorolt ügyekben a tanulási képességet vizsgáló szakértői és rehabilitációs bizottság jár el. A jegyző szakértőként igénybe veheti a közoktatásról szóló törvény 101. §-a szerinti szakértőkből létrehozott bizottságot vagy a Szakmai Szolgáltató Intézményt is.
+(4)[^45] A jegyzői eljárásban szakértőként a 9. § (1) bekezdésében felsorolt ügyekben az illetékes országos szakértői és rehabilitációs bizottság, a 9. § (2) bekezdésében felsorolt ügyekben a tanulási képességet vizsgáló szakértői és rehabilitációs bizottság jár el. A jegyző szakértőként igénybe vehet szakértőkből létrehozott bizottságot vagy a Szakmai Szolgáltató Intézményt is.
 
-(5) A jegyző határozata ellen benyújtott fellebbezés alapján induló eljárásban szakértőként az Oktatási Hivatal jár el. Az Oktatási Hivatal a szakértői véleményének elkészítéséhez igénybe veheti a közoktatásról szóló törvény 101. §-a szerinti szakértőt vagy a Szakmai Szolgáltató Intézményt.
+(5)[^46] A jegyző határozata ellen benyújtott fellebbezés alapján induló eljárásban szakértőként az Oktatási Hivatal jár el. Az Oktatási Hivatal a szakértői véleményének elkészítéséhez igénybe veheti a Szakmai Szolgáltató Intézményt.
+
+[^44]: A 34. § (3) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
+[^45]: A 34. § (4) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 5. § e) pontja szerint módosított szöveg.
+[^46]: A 34. § (5) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 6. § e) pontja szerint módosított szöveg.

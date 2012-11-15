@@ -12,7 +12,7 @@ b) a családvédelmi intézmény, a nevelési tanácsadó kezdeményezte, ha a s
 
 c) a szakértői és rehabilitációs bizottság kezdeményezte, ha a szülő a gyermekével a szakértői vizsgálaton ismételt felhívás ellenére nem jelenik meg vagy a szakértői vizsgálatban nem működik közre, illetve a szakértői véleményben foglaltakkal vagy annak továbbításával nem ért egyet,
 
-d)[^26] a szakszolgálati-esélyegyenlőségi szakértő kezdeményezte, ha a szakértői és rehabilitációs bizottság eljárásában megszegték a vizsgálat eljárási szabályait,
+d)[^43] a szakszolgálati-esélyegyenlőségi szakértő kezdeményezte, ha a szakértői és rehabilitációs bizottság eljárásában megszegték a vizsgálat eljárási szabályait,
 
 e) a kijelölt nevelési-oktatási intézmény vezetője kezdeményezte, ha a gyermeket szakértői vélemény alapján a kijelölt nevelési-oktatási intézménybe nem íratják be.
 
@@ -22,4 +22,4 @@ e) a kijelölt nevelési-oktatási intézmény vezetője kezdeményezte, ha a gy
 
 (5) A jegyző az eljárása megindításáról értesíti a szakértői és rehabilitációs bizottságot. A jegyző határozata egy példányát megküldi a szülőnek, az érintett nevelési-oktatási intézménynek, a szakértői és rehabilitációs bizottságnak.
 
-[^26]: A 33. § (2) bekezdés d) pontja a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lépett hatályba.
+[^43]: A 33. § (2) bekezdés d) pontja a 37. § (2) bekezdése alapján 2011. augusztus 1-jén lépett hatályba.

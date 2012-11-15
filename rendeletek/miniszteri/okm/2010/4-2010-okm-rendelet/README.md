@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-4-20-1W
 | 2011-03-09 | 2010-4-20-1W.3 | 6/2011. (III. 8.) NEFMI rendelet |
 | 2011-08-01 | 2010-4-20-1W.4 | 6/2011. (III. 8.) NEFMI rendelet |
 | 2012-04-26 | 2010-4-20-1W.5 | 24/2012. (IV. 18.) NEFMI rendelet |
+| 2012-11-15 | 2010-4-20-1W.6 | 36/2012. (XI. 14.) EMMI rendelet |

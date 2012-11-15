@@ -24,7 +24,7 @@ b) május utolsó munkanapjáig elkészüljenek azok a szakvélemények, amelyek
 
 a) a működés rendjét,
 
-b) az érintett közoktatási intézményekkel való kapcsolattartás formáját és rendjét,
+b)[^5] az érintett köznevelési intézményekkel való kapcsolattartás formáját és rendjét,
 
 c) a szülőkkel való kapcsolattartás formáját és rendjét,
 
@@ -37,3 +37,5 @@ f) az a)–c) pont alá nem tartozó külső kapcsolatok rendszerét, formáját
 g) mindazt, amelynek szabályozását jogszabály előírja.
 
 (6) A pedagógiai szakszolgálat intézménye a honlapján, annak hiányában a helyben szokásos módon köteles közzétenni az általa nyújtott szolgáltatásokat, a működési körzetét, a szervezeti és működési szabályzatát, az intézményi minőségirányítási programját, az intézményi minőségirányítási program végrehajtásának értékelését, a gyermekek, tanulók, szülők fogadásának idejét.
+
+[^5]: A 4. § (5) bekezdés b) pontja a 36/2012. (XI. 14.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
