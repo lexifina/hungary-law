@@ -1,0 +1,1 @@
+3/A. § Az önkormányzati képviselő köteles a 2. § i) pontban foglaltak alapján a jogerős ítéletről a jogerős ítélet kézhezvételétől számított három napon belül tájékoztatni a képviselő-testületet, közgyűlést, az illetékes választási bizottságot és a fővárosi és megyei kormányhivatalt.

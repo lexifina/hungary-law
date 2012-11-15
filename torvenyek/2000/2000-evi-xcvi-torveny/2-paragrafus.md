@@ -14,4 +14,6 @@ f) a képviselő-testület feloszlatásával,
 
 g) a képviselő-testület feloszlása esetén,
 
-h) az önkormányzati képviselő halálával.
+h) az önkormányzati képviselő halálával,
+
+i) ha szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítélték.
