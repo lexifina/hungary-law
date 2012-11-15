@@ -22,7 +22,7 @@ e) a helyi önkormányzatok törvényességi felügyeletének részletes szabál
 
 a)–d)
 
-e) a kirívóan közösségellenes magatartásokat, valamint a magatartás elkövetőjével szembeni pénzbírság kiszabásának szabályait;
+e)
 
 f)
 

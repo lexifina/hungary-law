@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-189-00-00
 | 2012-06-30 | 2012. évi LXXXIV. törvény | 2011-189-00-00.4 |
 | 2012-07-06 | 2012. évi XCIII. törvény | 2011-189-00-00.5 |
 | 2012-07-24 | 2012. évi CXVII. törvény | 2011-189-00-00.6 |
+| 2012-11-15 | 38/2012. (XI. 14.) AB határozat | 2011-189-00-00.7 |
