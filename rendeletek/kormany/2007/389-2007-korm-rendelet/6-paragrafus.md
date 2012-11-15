@@ -36,17 +36,23 @@ b) a kötelező átvétel éves mennyiségét az erőműegység teljesítőképe
 
 (7) A Hivatal energiaforrásonként, és termelési eljárásonként számítja ki a megtérülési időt az ésszerű telephelyválasztás, a legkisebb költség elve és a legjobb elérhető technológia alapján megvalósított és működtetett beruházások (hazai és nemzetközi) adatainak, valamint az e rendelet szerinti árak figyelembevételével. A Hivatal a megtérülés számítás módszertani kereteit és eredményeit a honlapján teszi közzé.
 
+(7a)[^38] A megtérülési idő számítása során vegyes tüzelés esetében az alábbi indokolt költségeket is figyelembe kell venni:
+
+a) a bezárással kapcsolatban felmerült indokolt költségeket a kötelező átvételi jogosultság teljes időtartamára számított megújuló energiaforrás arányában, különösen a jogszabályban előírt környezetvédelmi kötelezettségek, valamint a munka törvénykönyvében előírt kötelezettségek végrehajtásához szükséges indokolt költségeket;
+
+b) a kötelező átvételi jogosultság megszűnése után a vegyes tüzelés érdekében beépített berendezések maradványértékét, azok elbontásának indokolt költségeit és mindazon indokolt költségeket, amelyek az eredeti (vegyes tüzelés nélküli) állapot visszaállítása érdekében merülnek fel.
+
 (8) Amennyiben egy adott beruházás a VET 11. §-ának (5) bekezdése szerinti egyéb támogatásban is részesül, akkor a Hivatal az adott beruházás esetében az (7) bekezdés alapján meghatározotthoz képest, a támogatásnak a beruházás összegéhez viszonyított aránya alapján módosított megtérülési időt határoz meg. Ha egy beruházás több éven keresztül kap támogatást, akkor a Hivatal a támogatások jelenértékét veszi figyelembe.
 
-(9)[^38] Kötelező átvételi jogosultság nem állapítható meg azon termelő javára, akinek esetében a 9/A. § szerinti kizáró okok valamelyike fennáll.
+(9)[^39] Kötelező átvételi jogosultság nem állapítható meg azon termelő javára, akinek esetében a 9/A. § szerinti kizáró okok valamelyike fennáll.
 
-(10)[^39] A Befogadó a Hivatal határozatában megállapított időtartam és a kötelező átvételre kerülő éves villamosenergia-mennyiség szorzataként számított összes kötelező átvételre kerülő villamosenergia-mennyiséget (a továbbiakban: összes átveendő energia) folyamatosan – éves mennyiség szerinti megszakítás alkalmazása nélkül – veszi át. A kötelező átvételi jogosultság a kötelező átvételre meghatározott időtartam leteltével, vagy az összes átveendő energia értékesítésével egyaránt megszűnik.
+(10)[^40] A Befogadó a Hivatal határozatában megállapított időtartam és a kötelező átvételre kerülő éves villamosenergia-mennyiség szorzataként számított összes kötelező átvételre kerülő villamosenergia-mennyiséget (a továbbiakban: összes átveendő energia) folyamatosan – éves mennyiség szerinti megszakítás alkalmazása nélkül – veszi át. A kötelező átvételi jogosultság a kötelező átvételre meghatározott időtartam leteltével, vagy az összes átveendő energia értékesítésével egyaránt megszűnik.
 
-(11)[^40] A biomasszából vagy biogázból villamos energiát termelő Értékesítő a Hivatal határozata alapján a kötelező átvétel keretében történő értékesítést akkor kezdheti meg, ha a Hivatal és a Befogadó felé hitelt érdemlően bizonyítja, hogy az erőműegység hatásfoka eléri a 7. számú mellékletben meghatározott értékeket.
+(11)[^41] A biomasszából vagy biogázból villamos energiát termelő Értékesítő a Hivatal határozata alapján a kötelező átvétel keretében történő értékesítést akkor kezdheti meg, ha a Hivatal és a Befogadó felé hitelt érdemlően bizonyítja, hogy az erőműegység hatásfoka eléri a 7. számú mellékletben meghatározott értékeket.
 
-(12)[^41]
+(12)[^42] A (11) bekezdés szempontjából biomasszából villamos energiát termelő Értékesítő esetében nem minősül az értékesítés megkezdésének, ha az Értékesítő korábban már a kötelező átvételi rendszerben értékesített.
 
-(13)[^42]
+(13)[^43]
 
 [^30]: Az 5. §-t és az azt megelőző alcímet a 166/2011. (VIII. 24.) Korm. rendelet 3. § 11. pontja hatályon kívül helyezte.
 [^31]: A 6. § (1) bekezdése a 166/2011. (VIII. 24.) Korm. rendelet 3. § 12. pontja szerint módosított szöveg.
@@ -56,8 +62,9 @@ b) a kötelező átvétel éves mennyiségét az erőműegység teljesítőképe
 [^35]: A 6. § (4) bekezdés b) pontja a 166/2011. (VIII. 24.) Korm. rendelet 3. § 13. pontja szerint módosított szöveg.
 [^36]: A 6. § (4) bekezdés d) pontját a 182/2009. (IX. 10.) Korm. rendelet 613. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^37]: A 6. § (6) bekezdés záró szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 613. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^38]: A 6. § (9) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^39]: A 6. § (10) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^40]: A 6. § (11) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^41]: A 6. § (12) bekezdését a 287/2008. (XI. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be, hatályon kívül helyezte a 166/2011. (VIII. 24.) Korm. rendelet 3. § 14. pontja.
-[^42]: A 6. § (13) bekezdését a 287/2008. (XI. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be, hatályon kívül helyezte a 166/2011. (VIII. 24.) Korm. rendelet 3. § 14. pontja.
+[^38]: A 6. § (7a) bekezdését a 320/2012. (XI. 14.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^39]: A 6. § (9) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^40]: A 6. § (10) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^41]: A 6. § (11) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^42]: A 6. § (12) bekezdését újonnan a 320/2012. (XI. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^43]: A 6. § (13) bekezdését a 287/2008. (XI. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be, hatályon kívül helyezte a 166/2011. (VIII. 24.) Korm. rendelet 3. § 14. pontja.

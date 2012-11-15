@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-389-20-
 | 2011-05-03 | 2007-389-20-22.14 | 75/2011. (V. 2.) Korm. rendelet |
 | 2011-08-25 | 2007-389-20-22.15 | 166/2011. (VIII. 24.) Korm. rendelet |
 | 2012-01-01 | 2007-389-20-22.16 | 182/2009. (IX. 10.) Korm. rendelet |
+| 2012-11-15 | 2007-389-20-22.17 | 320/2012. (XI. 14.) Korm. rendelet |
