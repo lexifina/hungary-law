@@ -1,1 +1,0 @@
-## „h) rendelkeznek zárható helyiséggel az állatok elszállásolására, valamint az állat fajának, fajtájának megfelelő mozgásigény kielégítésére szolgáló kifutóval, karámmal, amely fizikailag el van választva a spermagyűjtő, -feldolgozó, és -tároló helyiségektől;”

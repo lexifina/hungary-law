@@ -1,1 +1,0 @@
-## 15. § A szarvasmarhák fertőző rhinotracheitise elleni mentesítés szabályairól szóló 19/2002. (III. 8.) FVM rendelet 3. számú mellékletének A) 5. pontjában a „félévente” szövegrész helyébe az „évente” szöveg lép.
