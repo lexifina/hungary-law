@@ -23,3 +23,7 @@ i) az Országos Gyermekvédelmi Szakértői Névjegyzékkel,
 j) a Jelnyelvi Tolmácsok Országos Névjegyzékével,
 
 k) a Foglalkozási Rehabilitációs Szakértői Névjegyzékkel
+
+l)[^3] a Rehabilitációs Orvosszakértői Névjegyzékkel
+
+[^3]: A 4. § l) pontját a 317/2012. (XI. 13.) Korm. rendelet 44. §-a iktatta be.

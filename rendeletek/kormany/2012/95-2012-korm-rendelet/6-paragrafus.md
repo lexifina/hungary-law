@@ -11,3 +11,7 @@ d) a költségvetési forrásból, vagy az Európai Unió pénzügyi alapjaiból
 ## kapcsolatos feladatokat.
 
 (2) A Hivatal a foglalkozási rehabilitációval összefüggő oktatási, innovációs, tárolási, logisztikai, nyilvántartási és informatikai feladatokat lát el.
+
+(3)[^4] A Hivatal első fokú hatóságként eljár a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokkal, azok visszakövetelésével kapcsolatos közigazgatási hatósági ügyekben.
+
+[^4]: A 6. § (3) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 45. §-a iktatta be.
