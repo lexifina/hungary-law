@@ -28,10 +28,13 @@ bb) korábbi kifogástalan életvitel ellenőrzése időpontját és annak eredm
 
 bc)[^3] által kitöltött, a Hszt. 9. számú melléklete szerinti nyilatkozatot.
 
-(3)[^4] A kifogástalan életvitel ellenőrzést az NVSZ főigazgatója határozattal rendeli el.
+(2a)[^4] A soron kívüli ellenőrzés kérelmezése esetén – a (2) bekezdésben meghatározottakon túl – a megkeresésnek tartalmaznia kell az ellenőrzésre okot adó információkat is.
+
+(3)[^5] A kifogástalan életvitel ellenőrzést az NVSZ főigazgatója határozattal rendeli el.
 
 (4) A kifogástalan életvitel ellenőrzést az elrendelésétől számított 30 napon belül be kell fejezni. E határidőt az elrendelő indokolt esetben egy alkalommal 30 nappal meghosszabbíthatja.
 
 [^2]: A 7. § (2) bekezdés a) pont aa) alpontja a 376/2011. (XII. 31.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^3]: A 7. § (2) bekezdés b) pont bc) alpontját a 376/2011. (XII. 31.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^4]: A 7. § (3) bekezdése a 10/2011. (II. 22.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^4]: A 7. § (2a) bekezdését a 319/2012. (XI. 13.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^5]: A 7. § (3) bekezdése a 10/2011. (II. 22.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.

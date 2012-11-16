@@ -1,11 +1,14 @@
-8. §[^5] (1) A kifogástalan életvitel ellenőrzése felfüggeszthető, ha – a Hszt. 149. § (3) bekezdésében foglaltakra is figyelemmel – a kifogástalan életvitel megállapítása bíróság vagy más hatóság hatáskörébe tartozó döntéstől függ. Az eljárás felfüggesztésének időtartama nem számít be az eljárás lefolytatására nyitva álló határidőbe.
+8. §[^6] (1) A kifogástalan életvitel ellenőrzése felfüggeszthető, ha – a Hszt. 149. § (3) bekezdésében foglaltakra is figyelemmel – a kifogástalan életvitel megállapítása bíróság vagy más hatóság hatáskörébe tartozó döntéstől függ. Az eljárás felfüggesztésének időtartama nem számít be az eljárás lefolytatására nyitva álló határidőbe.
 
-(2) A kifogástalan életvitel ellenőrzését meg kell szüntetni, ha
+(2)[^7] A kifogástalan életvitel ellenőrzését meg kell szüntetni, ha
 
 a) a jelentkező a hivatásos állományba jelentkezéstől eláll,
 
-b) a jelentkező hivatásos szolgálatra egészségi, pszichikai vagy fizikai okból alkalmatlan, vagy
+b) a jelentkező hivatásos szolgálatra egészségi, pszichikai vagy fizikai okból alkalmatlan,
 
-c) a hivatásos állomány tagja hivatásos szolgálati viszonya megszűnik.
+c) a hivatásos állomány tagja hivatásos szolgálati viszonya megszűnik, vagy
 
-[^5]: A 8. § a 376/2011. (XII. 31.) Korm. rendelet 13. §-ával megállapított szöveg.
+d) a 7. § (1) bekezdése szerint a kifogástalan életvitel ellenőrzés kezdeményezésére jogosult a kérelmét visszavonta.
+
+[^6]: A 8. § a 376/2011. (XII. 31.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^7]: A 8. § (2) bekezdése a 319/2012. (XI. 13.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
