@@ -6,7 +6,7 @@ b) választójogának elvesztésével,
 
 c) összeférhetetlenségének kimondásával,
 
-d)
+d) méltatlanság megállapításával,
 
 e) lemondással,
 
