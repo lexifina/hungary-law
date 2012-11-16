@@ -1,4 +1,4 @@
-5. § (1)[^29] A pályázatot a szolgáltató fenntartója, ideértve a nem közhasznú vagy kiemelkedően közhasznú társadalmi szervezetet, alapítványt és közalapítványt is, – a Hivatal elektronikus pályázatkezelő rendszere útján – nyújthatja be.
+5. § (1)[^29] A pályázatot a szolgáltató fenntartója, ideértve a nem közhasznú vagy kiemelkedően közhasznú egyesületet, alapítványt és közalapítványt is, – a Hivatal elektronikus pályázatkezelő rendszere útján – nyújthatja be.
 
 (2)[^30] Pályázatot – a 8. § (4) bekezdés és a 9. § (3) bekezdés szerinti esetek kivételével – csak olyan szolgáltató támogatására lehet benyújtani, amely a pályázatban foglaltaknak megfelelő működési engedéllyel rendelkezik, vagy amelynek a megfelelő működési engedélye iránti kérelmét, illetve a működési engedély módosítása iránti kérelmét benyújtották.
 
@@ -32,7 +32,7 @@ h)[^36] a pályázónak a közpénzekből nyújtott támogatások átláthatós�
 
 (8)[^38] Ha a Hivatal felhívást, értesítést vagy más dokumentumot küld az elektronikus pályázatkezelő rendszerében a pályázó számára rendelkezésre álló értesítési tárhelyre, erről egyidejűleg elektronikus levélben értesíti a pályázót.
 
-[^29]: Az 5. § (1) bekezdése a 279/2009. (XII. 9.) Korm. rendelet 22. § (1) bekezdésével megállapított, a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja, a 140/2011. (VII. 21.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^29]: Az 5. § (1) bekezdése a 279/2009. (XII. 9.) Korm. rendelet 22. § (1) bekezdésével megállapított, a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja, a 140/2011. (VII. 21.) Korm. rendelet 14. § e) pontja, a 317/2012. (XI. 13.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
 [^30]: Az 5. § (2) bekezdése a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés m) pont ma) alpontja, a 140/2011. (VII. 21.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
 [^31]: Az 5. § (3) bekezdése a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés c) pont cc) alpontja, a 140/2011. (VII. 21.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.
 [^32]: Az 5. § (3a) bekezdését a 140/2011. (VII. 21.) Korm. rendelet 5. § (1) bekezdése iktatta be.
