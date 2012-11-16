@@ -24,17 +24,17 @@ aj) Határon Túli Magyar Ösztöndíj Tanácsot,
 
 ak) Felsőoktatási Érdekegyeztető Tanácsot,
 
-al)[^208] a Felsőoktatási és Tudományos Tanácsot,
+al)[^204] a Felsőoktatási és Tudományos Tanácsot,
 
-am)[^209]
+am)[^205]
 
-an)[^210] a Magyar Rektori Konferenciát,
+an)[^206] a Magyar Rektori Konferenciát,
 
-ao)[^211] a Magyar Felsőoktatási Akkreditációs Bizottságot és
+ao)[^207] a Magyar Felsőoktatási Akkreditációs Bizottságot és
 
 ap) a Pedagógus Továbbképzési Akkreditációs Testületet;
 
-ar)[^212] a Nemzeti Tehetségügyi Koordinációs Fórumot,
+ar)[^208] a Nemzeti Tehetségügyi Koordinációs Fórumot,
 
 b) irányítja
 
@@ -42,8 +42,8 @@ ba) az Oktatási Hivatalt és
 
 bb) az Oktatáskutató és Fejlesztő Intézetet.
 
-[^208]: Az 56. § (1) bekezdés a) pont al) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (36) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^209]: Az 56. § (1) bekezdés a) pont am) alpontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (22) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^210]: Az 56. § (1) bekezdés a) pont an) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (36) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^211]: Az 56. § (1) bekezdés a) pont ao) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (36) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^212]: Az 56. § (1) bekezdés a) pont ar) alpontját a 267/2010. (XII. 3.) Korm. rendelet 17. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^204]: Az 56. § (1) bekezdés a) pont al) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (36) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^205]: Az 56. § (1) bekezdés a) pont am) alpontját a 267/2010. (XII. 3.) Korm. rendelet 41. § (22) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^206]: Az 56. § (1) bekezdés a) pont an) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (36) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^207]: Az 56. § (1) bekezdés a) pont ao) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (36) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^208]: Az 56. § (1) bekezdés a) pont ar) alpontját a 267/2010. (XII. 3.) Korm. rendelet 17. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.

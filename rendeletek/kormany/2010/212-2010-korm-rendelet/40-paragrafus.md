@@ -1,10 +1,10 @@
-40. § (1)[^139] A miniszter
+40. § (1)[^135] A miniszter
 
-a)[^140] irányítja a rendőrséget, a bűnügyi szakértői és kutató tevékenységet és gyakorolja a rendészeti középfokú oktatási intézmények tekintetében a fenntartót megillető jogosítványokat, továbbá az érintett miniszterekkel közösen ellátja a Nemzeti Közszolgálati Egyetem fenntartói irányítását,
+a)[^136] irányítja a rendőrséget, a bűnügyi szakértői és kutató tevékenységet és gyakorolja a rendészeti középfokú oktatási intézmények tekintetében a fenntartót megillető jogosítványokat, továbbá az érintett miniszterekkel közösen ellátja a Nemzeti Közszolgálati Egyetem fenntartói irányítását,
 
 b) irányítja a büntetés-végrehajtás szervezetét, meghatározza a büntetés-végrehajtási oktatás, képzés és továbbképzés, továbbá a büntetetés-végrehajtási tudományos kutatás irányait, összehangolja az erre irányuló tevékenységeket,
 
-c)[^141] irányítja az Alkotmányvédelmi Hivatalt, a Nemzetbiztonsági Szakszolgálatot a Szervezett Bűnözés Elleni Koordinációs Központot, és meghatározza ezen szervezetek oktatás, képzés és továbbképzés továbbá a tudományos kutatás irányait, összehangolja az erre irányuló tevékenységeket,
+c)[^137] irányítja az Alkotmányvédelmi Hivatalt, a Nemzetbiztonsági Szakszolgálatot a Szervezett Bűnözés Elleni Koordinációs Központot, és meghatározza ezen szervezetek oktatás, képzés és továbbképzés továbbá a tudományos kutatás irányait, összehangolja az erre irányuló tevékenységeket,
 
 d) összehangolja az egységes európai határ-ellenőrzési rendszer megvalósításával kapcsolatos kormányzati feladatokat,
 
@@ -12,15 +12,15 @@ e) gondoskodik a személy- és vagyonőrök, a közterület felügyelet, valamin
 
 (2) A miniszter a helyi önkormányzatokért való felelőssége körében
 
-a)[^142] az önkormányzati érdekszövetségek javaslatának kikérését követően a 26. § p) pont figyelembevételével kijelöli az Európa Tanács Helyi és Regionális Önkormányzatok Kongresszusa magyar delegációjának tagjait,
+a)[^138] az önkormányzati érdekszövetségek javaslatának kikérését követően a 26. § p) pont figyelembevételével kijelöli az Európa Tanács Helyi és Regionális Önkormányzatok Kongresszusa magyar delegációjának tagjait,
 
-b)[^143] ellátja – a nemzetgazdasági miniszterrel együttesen – a központi költségvetés előkészítéséből és végrehajtásából, valamint a zárszámadásból adódó, helyi önkormányzatokat és a nemzetiségi önkormányzatokat érintő kormányzati teendőket, és szervezi az azok megalapozásához szükséges információszolgáltatást,
+b)[^139] ellátja – a nemzetgazdasági miniszterrel együttesen – a központi költségvetés előkészítéséből és végrehajtásából, valamint a zárszámadásból adódó, helyi önkormányzatokat és a nemzetiségi önkormányzatokat érintő kormányzati teendőket, és szervezi az azok megalapozásához szükséges információszolgáltatást,
 
-c)[^144] összehangolja a helyi önkormányzatok és a nemzetiségi önkormányzatok működésével összefüggő tervezés és gazdálkodás kormányzati feladatait,
+c)[^140] összehangolja a helyi önkormányzatok és a nemzetiségi önkormányzatok működésével összefüggő tervezés és gazdálkodás kormányzati feladatait,
 
-d)[^145] részt vesz a helyi önkormányzatok és a nemzetiségi önkormányzatok gazdálkodása pénzügyi szabályozásának kidolgozásában, a feladatok végrehajtásának szervezésében,
+d)[^141] részt vesz a helyi önkormányzatok és a nemzetiségi önkormányzatok gazdálkodása pénzügyi szabályozásának kidolgozásában, a feladatok végrehajtásának szervezésében,
 
-e)[^146] közreműködik a helyi önkormányzatok feladatát és hatáskörét, a polgármester, a főpolgármester tevékenységét érintő jogszabályok, közjogi szervezetszabályozó eszközök és egyedi állami döntések tervezeteinek előkészítésében,
+e)[^142] közreműködik a helyi önkormányzatok feladatát és hatáskörét, a polgármester, a főpolgármester tevékenységét érintő jogszabályok, közjogi szervezetszabályozó eszközök és egyedi állami döntések tervezeteinek előkészítésében,
 
 f) működteti a helyi önkormányzati vagyonkatasztert,
 
@@ -34,7 +34,7 @@ j) közreműködik a helyi önkormányzatok és intézmények számviteli, tová
 
 k) közreműködik az ágazati és térségi fejlesztési programok helyi önkormányzatokat érintő részének kidolgozásában.
 
-(3)[^147] A miniszter a katasztrófák elleni védekezésért való felelőssége körében
+(3)[^143] A miniszter a katasztrófák elleni védekezésért való felelőssége körében
 
 a) irányítja az Országos Katasztrófa védelmi Főigazgatóságot,
 
@@ -54,9 +54,9 @@ h) ellátja a Kormányzati Koordinációs Bizottság elnöki teendőit,
 
 i) irányítja a védelmi igazgatás – feladat- és hatáskörébe tartozó – egyes feladatainak ellátásában részt vevő szervek értesítésével összefüggő tevékenységeket.
 
-(4)[^148] A miniszter irányítja a Bevándorlási és Állampolgársági Hivatalt.
+(4)[^144] A miniszter irányítja a Bevándorlási és Állampolgársági Hivatalt.
 
-(4a)[^149] A Kormány a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (1), (2) és (4)–(6) bekezdésével összefüggő honosítási eljárásban, a magyar állampolgárságról szóló 1993. évi LV. törvény 5/A. §-a szerinti eljárásban, a magyar állampolgárságról történő lemondással kapcsolatos eljárásban, a magyar állampolgárság visszavonásával kapcsolatos eljárásban, továbbá a magyar állampolgárság igazolásával kapcsolatos eljárásban állampolgársági ügyekért felelős miniszterként a minisztert jelöli ki.
+(4a)[^145] A Kormány a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (1), (2) és (4)–(6) bekezdésével összefüggő honosítási eljárásban, a magyar állampolgárságról szóló 1993. évi LV. törvény 5/A. §-a szerinti eljárásban, a magyar állampolgárságról történő lemondással kapcsolatos eljárásban, a magyar állampolgárság visszavonásával kapcsolatos eljárásban, továbbá a magyar állampolgárság igazolásával kapcsolatos eljárásban állampolgársági ügyekért felelős miniszterként a minisztert jelöli ki.
 
 (5) A miniszter az építésügyért való felelősségi körében
 
@@ -64,21 +64,21 @@ a) szakmai irányítást gyakorol az állami főépítészek területfejlesztés
 
 b) gondoskodik a földtani veszélyhelyzet megelőzésével és elhárításával kapcsolatos pályázati rendszer működtetéséről,
 
-c)[^150]
+c)[^146]
 
 d) részt vesz az akadálymentes épített környezet alakításával összefüggő kormányzati feladatok megvalósításában,
 
-e)[^151] összehangolja és szakmailag irányítja az építésügyi és az építésfelügyeleti hatóságok tevékenységét, a fővárosi és megyei kormányhivatal építésfelügyeleti hatósági és építésügyi hatósági jogalkalmazási tevékenységét és közreműködik a tevékenységek ellenőrzésében,
+e)[^147] összehangolja és szakmailag irányítja az építésügyi és az építésfelügyeleti hatóságok tevékenységét, a fővárosi és megyei kormányhivatal építésfelügyeleti hatósági és építésügyi hatósági jogalkalmazási tevékenységét és közreműködik a tevékenységek ellenőrzésében,
 
 f) ellátja a hatáskörébe utalt minőségügyi, termékbiztonsági, tanúsítási, minőségbiztosítási, hatósági felügyeleti feladatokat, közreműködik a nemzeti szabványok kidolgozásában,
 
-g)[^152] ellátja a Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. (a továbbiakban: VÁTI) a terület- és településrendezési, a településfejlesztési és építésügyi feladatai szakmai felügyeletével kapcsolatos feladatokat,
+g)[^148] ellátja a Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. (a továbbiakban: VÁTI) a terület- és településrendezési, a településfejlesztési és építésügyi feladatai szakmai felügyeletével kapcsolatos feladatokat,
 
 h) törvényességi felügyeletet gyakorol a Magyar Mérnöki Kamara, a Magyar Építész Kamara, a területi mérnöki kamarák és a területi építész kamarák tevékenysége felett és a nemzetgazdasági miniszterrel együtt ellátja a Magyar Kereskedelmi és Iparkamara által ellátott építésügyi feladatok ellenőrzését,
 
-i)[^153] ellátja a Nemzeti Építésügyi Fórum, a Nemzeti Építészeti Tanács és az Építésügyi Dokumentációs Központ működtetésével kapcsolatos feladatokat, továbbá feladatkörét illetően szakmai felügyeletet gyakorol az ÉMI Építésügyi és Minőségellenőrző Innovációs Nonprofit Kft. felett.
+i)[^149] ellátja a Nemzeti Építésügyi Fórum, a Nemzeti Építészeti Tanács és az Építésügyi Dokumentációs Központ működtetésével kapcsolatos feladatokat, továbbá feladatkörét illetően szakmai felügyeletet gyakorol az ÉMI Építésügyi és Minőségellenőrző Innovációs Nonprofit Kft. felett.
 
-(5a)[^154] A miniszter a közfoglalkoztatásért való felelőssége körében
+(5a)[^150] A miniszter a közfoglalkoztatásért való felelőssége körében
 
 a) gondoskodik a közfoglalkoztatás rendszerének megszervezéséről,
 
@@ -90,9 +90,9 @@ d) ellátja a közfoglalkoztatás-politika koordinációjával kapcsolatos felad
 
 e) gondoskodik a közfoglalkoztatási koncepció végrehajtásáról, meghatározza a közfoglalkoztatás eszközrendszerét, elemzi és ellenőrzi annak működését,
 
-f)[^155] irányítja a munkaügyi központok és kirendeltségeik közfoglalkoztatási feladatainak ellátását.
+f)[^151] irányítja a munkaügyi központok és kirendeltségeik közfoglalkoztatási feladatainak ellátását.
 
-(5b)[^156] A miniszter a vízügyi igazgatási szervek irányításáért való felelőssége körében
+(5b)[^152] A miniszter a vízügyi igazgatási szervek irányításáért való felelőssége körében
 
 a) felügyeli a vízügyi igazgatóságok kezelésében lévő vizekkel történő gazdálkodást, a vízgazdálkodási rendszerek és védművek fenntartását, üzemelését és a rekonstrukciós feladatokat,
 
@@ -120,9 +120,9 @@ l) irányítja a vízrajzi tevékenység ellátását,
 
 m) irányítja az Országos Vízügyi Főigazgatóságot és a vízügyi igazgatóságokat.
 
-(5c)[^157] A miniszter az örökségvédelemért való felelőssége körében
+(5c)[^153] A miniszter az örökségvédelemért való felelőssége körében
 
-a)[^158] összehangolja, felügyeli és szakmailag irányítja a régészeti és műemlékvédelmi hatóságok tevékenységét, a fővárosi és megyei kormányhivatal régészeti és műemlékvédelmi hatósági jogalkalmazási tevékenységét és közreműködik a tevékenységek ellenőrzésében;
+a)[^154] összehangolja, felügyeli és szakmailag irányítja a régészeti és műemlékvédelmi hatóságok tevékenységét, a fővárosi és megyei kormányhivatal régészeti és műemlékvédelmi hatósági jogalkalmazási tevékenységét és közreműködik a tevékenységek ellenőrzésében;
 
 b) közreműködik az örökségvédelmet érintő nemzeti szabványok kidolgozásában, és a műemlékekkel összefüggő sajátos építési termékek beépítési feltételeinek meghatározásában;
 
@@ -154,11 +154,11 @@ b) kialakítja az önkormányzati érdekszövetségekkel való kapcsolattartás 
 
 c) működteti és irányítja az Európai Unió Szolidaritás és a Migrációs áramlások igazgatása általános programból származó támogatások felhasználásának rendszerét és közreműködik a Strukturális Alapok, valamint a Kohéziós Alap hazai felhasználásához kapcsolódó Új Magyarország Fejlesztési Terv előkészítésében és nyomon követésében,
 
-d)[^159]
+d)[^155]
 
 e) ellátja az Európai Unió Bűnmegelőzési Hálózat magyar kapcsolattartó pontjának feladatait,
 
-f)[^160]
+f)[^156]
 
 g) a szabálysértési szabályozásért való felelőssége keretében:
 
@@ -166,31 +166,31 @@ ga) összehangolja a szabálysértési hatóságok tevékenységét,
 
 gb) ellátja a hatáskörbe utalt szabálysértési méltányossági ügyeket,
 
-h)[^161] működteti a Duna Palota Kulturális Nonprofit Kft.-t.
+h)[^157] működteti a Duna Palota Kulturális Nonprofit Kft.-t.
 
-i)[^162]
+i)[^158]
 
-[^139]: A 40. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (16) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^140]: A 40. § (1) bekezdés a) pontja a 363/2011. (XII. 30.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^141]: A 40. § (1) bekezdés c) pontja a 293/2010. (XII. 22.) Korm. rendelet 16. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. § (2)–(4) bekezdését.
-[^142]: A 40. § (2) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^143]: A 40. § (2) bekezdés b) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § k) pontja szerint módosított szöveg.
-[^144]: A 40. § (2) bekezdés c) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
-[^145]: A 40. § (2) bekezdés d) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
-[^146]: A 40. § (2) bekezdés e) pontja a 300/2010. (XII. 23.) Korm. rendelet 2. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^147]: A 40. § (3) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^148]: A 40. § (4) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^149]: A 40. § (4a) bekezdését a 267/2010. (XII. 3.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 151/2012. (VII. 6.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^150]: A 40. § (5) bekezdés c) pontját a 310/2012. (XI. 6.) Korm. rendelet 18. § (7) bekezdése hatályon kívül helyezte. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
-[^151]: A 40. § (5) bekezdés e) pontja a 174/2012. (VII. 26.) Korm. rendelet 74. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^152]: A 40. § (5) bekezdés g) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^153]: A 40. § (5) bekezdés i) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^154]: A 40. § (5a) bekezdését a 90/2011. (VI. 14.) Korm. rendelet 2. §-a iktatta be.
-[^155]: A 40. § (5a) bekezdés f) pontja a 90/2011. (VI. 14.) Korm. rendelet 4. § (2) bekezdés a) pontja alapján 2011. július 1-jén lépett hatályba.
-[^156]: A 40. § (5b) bekezdését a 300/2011. (XII. 22.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^157]: A 40. § (5c) bekezdését a 266/2012. (IX. 18.) Korm. rendelet 23. § (4) bekezdése iktatta be.
-[^158]: A 40. § (5c) bekezdés a) pontja a 310/2012. (XI. 6.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
-[^159]: A 40. § (6) bekezdés d) pontját a 266/2010. (XI. 30.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
-[^160]: A 40. § (6) bekezdés f) pontját a 276/2010. (XII. 15.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^161]: A 40. § (6) bekezdés h) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^162]: A 40. § (6) bekezdés i) pontját a 94/2011. (VI. 28.) Korm. rendelet 5. § (4) bekezdése hatályon kívül helyezte, e módosító rendelet 6. §-a alapján 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
+[^135]: A 40. § (1) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 41. § (16) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^136]: A 40. § (1) bekezdés a) pontja a 363/2011. (XII. 30.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^137]: A 40. § (1) bekezdés c) pontja a 293/2010. (XII. 22.) Korm. rendelet 16. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. § (2)–(4) bekezdését.
+[^138]: A 40. § (2) bekezdés a) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^139]: A 40. § (2) bekezdés b) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § k) pontja szerint módosított szöveg.
+[^140]: A 40. § (2) bekezdés c) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+[^141]: A 40. § (2) bekezdés d) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+[^142]: A 40. § (2) bekezdés e) pontja a 300/2010. (XII. 23.) Korm. rendelet 2. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^143]: A 40. § (3) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^144]: A 40. § (4) bekezdése a 267/2010. (XII. 3.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^145]: A 40. § (4a) bekezdését a 267/2010. (XII. 3.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 151/2012. (VII. 6.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^146]: A 40. § (5) bekezdés c) pontját a 310/2012. (XI. 6.) Korm. rendelet 18. § (7) bekezdése hatályon kívül helyezte. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
+[^147]: A 40. § (5) bekezdés e) pontja a 174/2012. (VII. 26.) Korm. rendelet 74. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^148]: A 40. § (5) bekezdés g) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^149]: A 40. § (5) bekezdés i) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^150]: A 40. § (5a) bekezdését a 90/2011. (VI. 14.) Korm. rendelet 2. §-a iktatta be.
+[^151]: A 40. § (5a) bekezdés f) pontja a 90/2011. (VI. 14.) Korm. rendelet 4. § (2) bekezdés a) pontja alapján 2011. július 1-jén lépett hatályba.
+[^152]: A 40. § (5b) bekezdését a 300/2011. (XII. 22.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^153]: A 40. § (5c) bekezdését a 266/2012. (IX. 18.) Korm. rendelet 23. § (4) bekezdése iktatta be.
+[^154]: A 40. § (5c) bekezdés a) pontja a 310/2012. (XI. 6.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
+[^155]: A 40. § (6) bekezdés d) pontját a 266/2010. (XI. 30.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^156]: A 40. § (6) bekezdés f) pontját a 276/2010. (XII. 15.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^157]: A 40. § (6) bekezdés h) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (26) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^158]: A 40. § (6) bekezdés i) pontját a 94/2011. (VI. 28.) Korm. rendelet 5. § (4) bekezdése hatályon kívül helyezte, e módosító rendelet 6. §-a alapján 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.

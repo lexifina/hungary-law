@@ -8,6 +8,6 @@ c) gondoskodik a polgári célú állami földmérési, térképészeti (geodéz
 
 d) gondoskodik a térinformatikai rendszerek kialakításáról, és működteti a földügyi információs rendszert, valamint
 
-e)[^408] biztosítja a feladat- és hatáskörrel rendelkező miniszterrel közösen az államhatár felmérését, megjelölését, a határjelek felújítását és karbantartását, az államhatárral kapcsolatos nemzetközi kötelezettségek teljesítését.
+e)[^405] biztosítja a feladat- és hatáskörrel rendelkező miniszterrel közösen az államhatár felmérését, megjelölését, a határjelek felújítását és karbantartását, az államhatárral kapcsolatos nemzetközi kötelezettségek teljesítését.
 
-[^408]: A 106. § e) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (65) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^405]: A 106. § e) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (65) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
