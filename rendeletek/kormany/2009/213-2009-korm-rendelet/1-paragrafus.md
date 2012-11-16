@@ -10,7 +10,7 @@ c) képzési támogatás: a szociális továbbképzés és szakvizsga támogatá
 
 d)[^1] igazgatóság: a Magyar Államkincstár területi szerve,
 
-e) fenntartó: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 4. § (1) bekezdés mb) alpontja, illetve a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 5. § sb) alpontja szerinti egyházi fenntartó, valamint az Szt. 4. § (1) bekezdés mc)–me) alpontja, illetve a Gyvt. 5. § sc)–se) alpontja szerinti nem állami fenntartók közül a társadalmi szervezet, az alapítvány, a közalapítvány, az országos kisebbségi önkormányzat, a nonprofit gazdasági társaság, a gazdasági társaság és a humánszolgáltatást alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó,
+e)[^2] fenntartó: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 4. § (1) bekezdés mb) alpontja, illetve a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 5. § sb) alpontja szerinti egyházi fenntartó, valamint az Szt. 4. § (1) bekezdés mc)–me) alpontja, illetve a Gyvt. 5. § sc)–se) alpontja szerinti nem állami fenntartók közül az egyesület, az alapítvány, a közalapítvány, az országos kisebbségi önkormányzat, a nonprofit gazdasági társaság, a gazdasági társaság és a humánszolgáltatást alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó,
 
 f) szolgáltatás: az Szt. szerinti szociális szolgáltatás, valamint a Gyvt. szerinti gyermekjóléti, gyermekvédelmi szolgáltató tevékenység,
 
@@ -20,14 +20,16 @@ h) tárgyév: az a naptári év, amelyre tekintettel a normatívát megállapít
 
 i) új fenntartó: az a fenntartó, amely a tárgyévet megelőző évben egy szolgáltatóra sem rendelkezett jogerős működési engedéllyel,
 
-j) megszűnt fenntartó: az a fenntartó, amely valamennyi szolgáltatóját más személy vagy szervezet fenntartásába adta, illetve valamennyi szolgáltatójának működési engedélyét visszavonták,
+j)[^3] megszűnt fenntartó: az a fenntartó, amely valamennyi szolgáltatóját más személy vagy szervezet fenntartásába adta, valamennyi szolgáltatójának működési engedélyét visszavonták, vagy a normatívára való jogosultságát a tárgyévben más okból teljesen elveszíti,
 
 k) jegybanki alapkamat: a tárgyév átlagos jegybanki alapkamata, a tárgyévben megszűnt fenntartó esetén a megszűnés napjáig érvényes átlagos jegybanki alapkamat,
 
-l)[^2] korrekció: a tárgyévi központi költségvetés végrehajtásáról szóló törvény alapján az egyházi fenntartót megillető vagy az egyházi fenntartó által visszafizetendő egyházi kiegészítő támogatás összege.
+l)[^4] korrekció: a tárgyévi központi költségvetés végrehajtásáról szóló törvény alapján az egyházi fenntartót megillető vagy az egyházi fenntartó által visszafizetendő egyházi kiegészítő támogatás összege.
 
-m)[^3] befogadás: az Szt. 58/A. § (2) és (2a) bekezdése, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 145. § (2) és (2a) bekezdése szerinti, a szociális és a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadás.
+m)[^5] befogadás: az Szt. 58/A. § (2) és (2a) bekezdése, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 145. § (2) és (2a) bekezdése szerinti, a szociális és a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadás.
 
 [^1]: Az 1. § d) pontja a 357/2010. (XII. 30.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § l) pontja a 330/2011. (XII. 29.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § m) pontját a 330/2011. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
+[^2]: Az 1. § e) pontja a 317/2012. (XI. 13.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § j) pontja a 317/2012. (XI. 13.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^4]: Az 1. § l) pontja a 330/2011. (XII. 29.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § m) pontját a 330/2011. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
