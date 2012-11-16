@@ -1,23 +1,23 @@
-## Engedély nélkül végzett szolgáltató tevékenység[^115]
+## Engedély nélkül végzett szolgáltató tevékenység[^119]
 
-9. § (1)[^116] Ha az engedélyező szerv engedély nélkül végzett szolgáltató tevékenységről szerez tudomást,
+9. § (1)[^120] Ha az engedélyező szerv engedély nélkül végzett szolgáltató tevékenységről szerez tudomást,
 
 a) kötelezi a fenntartót a szolgáltató tevékenység abbahagyására, ha a gyermekek elhelyezésére szolgáló épület állaga vagy a szolgáltató (intézmény, hálózat) működése a gyermekek életét, testi épségét vagy egészségét súlyosan veszélyezteti, illetve a gyermekek más alkotmányos jogait súlyosan sérti,
 
 b) az a) pontban nem említett esetben felszólítja a fenntartót, hogy harminc napon belül kérelmezze a működési engedély kiadását.
 
-c)[^117]
+c)[^121]
 
-(2)[^118] Amennyiben a fenntartó az (1) bekezdésben meghatározott határidő lejártáig a működési engedély iránti kérelmét nem nyújtja be, vagy a kérelmet elutasítják, a működést engedélyező szerv
+(2)[^122] Amennyiben a fenntartó az (1) bekezdésben meghatározott határidő lejártáig a működési engedély iránti kérelmét nem nyújtja be, vagy a kérelmet elutasítják, a működést engedélyező szerv
 
 a) kötelezi a fenntartót a szolgáltató tevékenység abbahagyására,
 
-b)[^119] értesíti a szolgáltató (intézmény, működtető) székhelye, telephelye szerint illetékes városi, fővárosi kerületi gyámhivatalt és az ellátásra köteles helyi önkormányzat jegyzőjét, főjegyzőjét, a megyei fenntartó vezetőjét,
+b)[^123] értesíti a szolgáltató (intézmény, működtető) székhelye, telephelye szerint illetékes városi, fővárosi kerületi gyámhivatalt és az ellátásra köteles helyi önkormányzat jegyzőjét, főjegyzőjét, a megyei fenntartó vezetőjét,
 
 c) a Gyvt. alapján ellátásra jogosult személyek ellátása érdekében a 12. §-ban foglaltak szerint intézkedik.
 
-[^115]: A 9. §-t megelőző alcímet a 320/2009. (XII. 29.) Korm. rendelet 8. § (1) bekezdése iktatta be.
-[^116]: A 9. § (1) bekezdése a 127/2004. (IV. 29.) Korm. rendelet II. Része 9. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet II. Része 13. §-ának (2) bekezdése alapján rendelkezéseit a 2004. május 1. napját követően indult ügyekben kell alkalmazni.
-[^117]: A 9. § (1) bekezdésének c) pontját a 339/2007. (XII. 15.) Korm. rendelet 30. § (1) bekezdése b) pontjának bc) alpontja hatályon kívül helyezte.
-[^118]: A 9. § (2) bekezdése a 320/2009. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
-[^119]: A 9. § (2) bekezdés b) pontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bg) alpontja, a 258/2011. (XII. 7.) Korm. rendelet 44. § (8) bekezdése szerint módosított szöveg.
+[^119]: A 9. §-t megelőző alcímet a 320/2009. (XII. 29.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^120]: A 9. § (1) bekezdése a 127/2004. (IV. 29.) Korm. rendelet II. Része 9. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet II. Része 13. §-ának (2) bekezdése alapján rendelkezéseit a 2004. május 1. napját követően indult ügyekben kell alkalmazni.
+[^121]: A 9. § (1) bekezdésének c) pontját a 339/2007. (XII. 15.) Korm. rendelet 30. § (1) bekezdése b) pontjának bc) alpontja hatályon kívül helyezte.
+[^122]: A 9. § (2) bekezdése a 320/2009. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^123]: A 9. § (2) bekezdés b) pontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bg) alpontja, a 258/2011. (XII. 7.) Korm. rendelet 44. § (8) bekezdése szerint módosított szöveg.

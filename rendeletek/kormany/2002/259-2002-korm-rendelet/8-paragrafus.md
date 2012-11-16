@@ -1,8 +1,8 @@
-## 7/A. §[^98]
+## 7/A. §[^100]
 
-## A működési engedély módosítása[^99]
+## A működési engedély módosítása[^101]
 
-8. §[^100] (1) A fenntartó köteles kérelmezni a működési engedély módosítását, ha a működési engedélyben feltüntetett adatok megváltoznak.
+8. §[^102] (1) A fenntartó köteles kérelmezni a működési engedély módosítását, ha a működési engedélyben feltüntetett adatok megváltoznak.
 
 (2) A működési engedély módosítását
 
@@ -10,7 +10,7 @@ a) az ok bekövetkeztétől számított egy hónapon belül kell kérelmezni
 
 aa) a fenntartó adataiban bekövetkező változás miatt,
 
-ab)[^101] a szolgáltató (intézmény, működtető) nevének, adószámának megváltozása, illetve telephely működési engedélyében a székhely megváltozása miatt,
+ab)[^103] a szolgáltató (intézmény, működtető) nevének, adószámának megváltozása, illetve telephely működési engedélyében a székhely megváltozása miatt,
 
 ac) közterület átnevezéséből, átszámozásából adódó címváltozás miatt,
 
@@ -18,7 +18,7 @@ ad) az ellátási szerződés adataiban bekövetkező változás miatt,
 
 ae) be nem töltött férőhelyek megszüntetése miatt a b) pontban foglalt kivétellel,
 
-af)[^102] fenntartóváltozás miatt, ha az új fenntartó a korábbi fenntartó jogutódlással történő megszűnése révén jött létre, vagy a fenntartó egyéni vállalkozó halála esetén a vállalkozói tevékenységet özvegye vagy örököse folytatja, vagy a fenntartó egyéni vállalkozó egyéni céget alapított, illetve átruházással megszerezte az egyéni cég vagyoni betétjét, és a szolgáltatót (intézményt, hálózatot) az egyéni cég veszi át;
+af)[^104] fenntartóváltozás miatt, ha az új fenntartó a korábbi fenntartó jogutódlással történő megszűnése révén jött létre, vagy a fenntartó egyéni vállalkozó halála esetén a vállalkozói tevékenységet özvegye vagy örököse folytatja, vagy a fenntartó egyéni vállalkozó egyéni céget alapított, illetve átruházással megszerezte az egyéni cég vagyoni betétjét, és a szolgáltatót (intézményt, hálózatot) az egyéni cég veszi át;
 
 b) a nevelőszülőnek, helyettes szülőnek a nevelőszülői, helyettes szülői hálózat működési engedélyéből történő törlése, illetve a nevelőszülői, helyettes szülői hálózat férőhelyszámának csökkentése miatt a működési engedély módosítását – ha a működési engedély módosítására más okból nincs szükség – abban a naptári negyedévben kell kérelmezni, amelyben a változás bekövetkezett;
 
@@ -30,7 +30,7 @@ a) a (2) bekezdés b) pontja szerinti esetben naptári negyedévenként egyszer 
 
 b) fenntartóváltozás miatt – a (2) bekezdés af) alpontjában foglaltak kivételével – naptári évenként egyszer kérelmezhető, a kérelmet a korábbi és az új fenntartónak együttesen kell benyújtania.
 
-(3a)[^103] A fenntartóváltozások (3) bekezdés b) pontja szerinti éves számának meghatározásánál a jogszabály erejénél fogva történő fenntartóváltozást figyelmen kívül kell hagyni.
+(3a)[^105] A fenntartóváltozások (3) bekezdés b) pontja szerinti éves számának meghatározásánál a jogszabály erejénél fogva történő fenntartóváltozást figyelmen kívül kell hagyni.
 
 (4) A működési engedély módosítására a működési engedély kiadására vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy
 
@@ -44,7 +44,7 @@ d) családi gyermekfelügyelet esetén ki kell kérni a védőnő véleményét,
 
 e) helyszíni szemlét kell tartani
 
-ea)[^104] bölcsőde, hetes bölcsőde, családi napközi, családi gyermekfelügyelet, alternatív napközbeni ellátás, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon és utógondozó otthon esetén, ha az ellátást nyújtó székhely, telephely megváltozik, a férőhelyszám emelkedik, az ellátásba a szolgáltató (intézmény) elhelyezésére korábban nem szolgáló épületet (épületrészt) kívánnak bevonni, vagy az ellátásból korábban erre a célra szolgáló épületet (épületrészt) kívánnak kivonni,
+ea)[^106] bölcsőde, hetes bölcsőde, családi napközi, családi gyermekfelügyelet, alternatív napközbeni ellátás, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon és utógondozó otthon esetén, ha az ellátást nyújtó székhely, telephely megváltozik, a férőhelyszám emelkedik, az ellátásba a szolgáltató (intézmény) elhelyezésére korábban nem szolgáló épületet (épületrészt) kívánnak bevonni, vagy az ellátásból korábban erre a célra szolgáló épületet (épületrészt) kívánnak kivonni,
 
 eb) önálló gyermekjóléti szolgáltató, gyermekjóléti szolgálat, gyermekjóléti központ és területi gyermekvédelmi szakszolgálat esetén, ha az ellátást nyújtó székhely megváltozik, vagy a módosítás célja területi irodának a működési engedélyben történő feltüntetése,
 
@@ -52,25 +52,25 @@ ec) az ea)–eb) alpontban nem említett esetben, ha a helyszíni szemle tartás
 
 f) csak fenntartóváltozás esetén – ide nem értve a (2) bekezdés af) alpontjában foglaltakat – feltétele a működési engedély módosításának, hogy a kérelem benyújtásakor a szolgáltatót (intézményt, hálózatot) átvevő egyházi, nem állami fenntartó köztartozásmentes adózónak minősüljön;
 
-g)[^105] a szakmai program véleményezésére a módszertani intézményt akkor kell szakértőként kirendelni, ha a módosítás új szolgáltató tevékenység engedélyeztetésére irányul.
+g)[^107] a szakmai program véleményezésére a módszertani intézményt akkor kell szakértőként kirendelni, ha a módosítás új szolgáltató tevékenység engedélyeztetésére irányul.
 
 (5) A működési engedély módosítására irányuló eljárásban szakhatóságként járnak el:
 
-a)[^106] családi napközi és alternatív napközbeni ellátás esetén a változással összefüggésben a 4. § (9) bekezdésének a), illetve b) pontja szerinti szakhatóságok, ha a szolgáltató ellátást nyújtó székhelye, telephelye megváltozik, az ellátásba a szolgáltató elhelyezésére korábban nem szolgáló épületet (épületrészt) kívánnak bevonni, vagy a működési engedély módosításának célja családi napközi ellátás vagy alternatív napközbeni ellátás engedélyezése, és az ehhez kapcsolódó követelményeket a hatáskörrel rendelkező szakhatóság korábban nem vizsgálta meg;
+a)[^108] családi napközi és alternatív napközbeni ellátás esetén a változással összefüggésben a 4. § (9) bekezdésének a), illetve b) pontja szerinti szakhatóságok, ha a szolgáltató ellátást nyújtó székhelye, telephelye megváltozik, az ellátásba a szolgáltató elhelyezésére korábban nem szolgáló épületet (épületrészt) kívánnak bevonni, vagy a működési engedély módosításának célja családi napközi ellátás vagy alternatív napközbeni ellátás engedélyezése, és az ehhez kapcsolódó követelményeket a hatáskörrel rendelkező szakhatóság korábban nem vizsgálta meg;
 
 b) bölcsőde, hetes bölcsőde, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon és utógondozó otthon esetén
 
 ba) a 4. § (9) bekezdésének ca)–cc) alpontja, továbbá – ha a hatáskörüket érinti – a 4. § (9) bekezdésének cd) alpontja, illetve d) pontja szerinti szakhatóságok a változással összefüggésben, ha az intézmény ellátást nyújtó székhelye, telephelye megváltozik, vagy az ellátásba az intézmény elhelyezésére korábban nem szolgáló épületet (épületrészt) kívánnak bevonni, vagy ha a működési engedély módosításának célja valamely e pont szerinti szolgáltató tevékenység engedélyezése, és az ehhez kapcsolódó követelményeket a hatáskörrel rendelkező szakhatóság korábban nem vizsgálta meg,
 
-bb)[^107] a kistérségi népegészségügyi intézet – a közegészségügyi követelmények teljesülésének szakkérdésében –, valamint az elsőfokú tűzvédelmi szakhatóság – a változással összefüggő létesítési, használati és üzemeltetési tűzvédelmi előírások teljesülése kérdésében –, ha a férőhelyek száma emelkedik;
+bb)[^109] a kistérségi népegészségügyi intézet – a közegészségügyi követelmények teljesülésének szakkérdésében –, valamint az elsőfokú tűzvédelmi szakhatóság – a változással összefüggő létesítési, használati és üzemeltetési tűzvédelmi előírások teljesülése kérdésében –, ha a férőhelyek száma emelkedik;
 
 c) a 4. § (9) bekezdésének d) pontja szerinti szakhatóság, ha egyházi vagy nem állami fenntartású bölcsőde, hetes bölcsőde vagy gyermekotthon korai fejlesztést és gondozást, illetve fejlesztő felkészítést kíván nyújtani;
 
-d)[^108] gyermekotthon esetén a változással összefüggésben a kistérségi népegészségügyi intézet – a közegészségügyi követelmények teljesülésének szakkérdésében –, ha a továbbiakban speciális vagy különleges gyermekotthonként kívánják működtetni;
+d)[^110] gyermekotthon esetén a változással összefüggésben a kistérségi népegészségügyi intézet – a közegészségügyi követelmények teljesülésének szakkérdésében –, ha a továbbiakban speciális vagy különleges gyermekotthonként kívánják működtetni;
 
 e) az a szakhatóság, amely a hozzájárulását a korábbiakban határozott időre adta meg, ha a fenntartó az ideiglenes működési engedély határozatlan vagy határozott idejűre történő módosítását, illetve hatályának meghosszabbítását kéri.
 
-f)[^109] a 4. § (9) bekezdés e) pontja szerinti szakhatóság, ha a működési engedély módosításának célja befogadás.
+f)[^111] a 4. § (9) bekezdés e) pontja szerinti szakhatóság, ha a működési engedély módosításának célja befogadás.
 
 (6) Ha a működési engedély módosítása következtében ellátás megszüntetésére kerül sor, a működési engedély módosításának
 
@@ -84,7 +84,7 @@ a) azt az időpontot, amelytől kezdődően a szolgáltató (intézmény, háló
 
 b) a működési engedélynek a módosítást követően hatályos valamennyi adatát.
 
-(8)[^110] A határozott idejű működési engedély hatálya meghosszabbítható vagy határozatlan idejűre módosítható, ha a 7. § (3) bekezdése szerinti szolgáltató (intézmény) elhelyezésére szolgáló ingatlan használatának joga meghosszabbodik, illetve határozatlan idejűre módosul.
+(8)[^112] A határozott idejű működési engedély hatálya meghosszabbítható vagy határozatlan idejűre módosítható, ha a 7. § (3) bekezdése szerinti szolgáltató (intézmény) elhelyezésére szolgáló ingatlan használatának joga meghosszabbodik, illetve határozatlan idejűre módosul.
 
 (9) Ha jogszabály másként nem rendelkezik, az ideiglenes működési engedély a hatályának megváltoztatása nélkül módosítható, feltéve, hogy az ellátás színvonala nem romlik. Ha a fenntartó azelőtt igazolja, hogy a szolgáltató (intézmény, hálózat) megfelel a jogszabályokban meghatározott feltételeknek, mielőtt az ideiglenes működési engedély hatályát vesztené, a működés engedélyt határozatlan, illetve a 7. § (3) bekezdése szerinti esetben határozott idejűre kell módosítani. Az ideiglenes működési engedély hatálya csak akkor hosszabbítható meg, ha azt jogszabály lehetővé teszi.
 
@@ -92,16 +92,16 @@ b) a működési engedélynek a módosítást követően hatályos valamennyi ad
 
 (11) Ha a működést engedélyező szerv tudomására jutott tény vagy adat alapján kétséges, hogy a szolgáltató (intézmény, hálózat) a kérelemmel nem érintett, jogszabályokban meghatározott feltételeket teljesíti, a működést engedélyező szerv egyéb működési feltételeket is megvizsgálhat, azokkal kapcsolatban bizonyítási eljárást folytathat le, szükség esetén a 4. § (9) bekezdése szerinti hatóságokat is bevonhatja, továbbá – ha jogsértést állapít meg, a kérelemmel érintett változások és a jogsértés jellegétől függően – erre hivatkozva a kérelmet elutasíthatja, illetve alkalmazhatja a 14/B. § szerinti jogkövetkezményeket.
 
-[^98]: A 7/A. §-t a 127/2004. (IV. 29.) Korm. rendelet II. Részének 7. §-a iktatta be, hatályon kívül helyezte a 226/2006. (XI. 20.) Korm. rendelet 29. § (1) bekezdése b) pontjának ba) alpontja.
-[^99]: A 8. §-t megelőző alcímet a 320/2009. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^100]: A 8. § a 320/2009. (XII. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni. Alkalmazására lásd még e módosító rendelet 20. § (4)–(7) és (9) bekezdését.
-[^101]: A 8. § (2) bekezdés ab) alpontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bc) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
-[^102]: A 8. § (2) bekezdés af) alpontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bf) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
-[^103]: A 8. § (3a) bekezdését a 330/2011. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^104]: A 8. § (4) bekezdés e) pont ea) alpontja a 330/2011. (XII. 29.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
-[^105]: A 8. § (4) bekezdés g) pontját a 140/2011. (VII. 21.) Korm. rendelet 22. §-a iktatta be.
-[^106]: A 8. § (5) bekezdés a) pontja a 330/2011. (XII. 29.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
-[^107]: A 8. § (5) bekezdés b) pont bb) alpontja a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 11. pontja szerint módosított szöveg.
-[^108]: A 8. § (5) bekezdés d) pontja a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 11. pontja szerint módosított szöveg.
-[^109]: A 8. § (5) bekezdés f) pontját a 330/2011. (XII. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^110]: A 8. § (8) bekezdés alkalmazására lásd a 320/2009. (XII. 29.) Korm. rendelet 20. § (9) bekezdését.
+[^100]: A 7/A. §-t a 127/2004. (IV. 29.) Korm. rendelet II. Részének 7. §-a iktatta be, hatályon kívül helyezte a 226/2006. (XI. 20.) Korm. rendelet 29. § (1) bekezdése b) pontjának ba) alpontja.
+[^101]: A 8. §-t megelőző alcímet a 320/2009. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^102]: A 8. § a 320/2009. (XII. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni. Alkalmazására lásd még e módosító rendelet 20. § (4)–(7) és (9) bekezdését.
+[^103]: A 8. § (2) bekezdés ab) alpontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bc) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
+[^104]: A 8. § (2) bekezdés af) alpontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés bf) alpontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (2)–(6) bekezdését.
+[^105]: A 8. § (3a) bekezdését a 330/2011. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^106]: A 8. § (4) bekezdés e) pont ea) alpontja a 330/2011. (XII. 29.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
+[^107]: A 8. § (4) bekezdés g) pontját a 140/2011. (VII. 21.) Korm. rendelet 22. §-a iktatta be.
+[^108]: A 8. § (5) bekezdés a) pontja a 330/2011. (XII. 29.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
+[^109]: A 8. § (5) bekezdés b) pont bb) alpontja a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 11. pontja szerint módosított szöveg.
+[^110]: A 8. § (5) bekezdés d) pontja a 360/2010. (XII. 30.) Korm. rendelet 43. § (1) bekezdés 11. pontja szerint módosított szöveg.
+[^111]: A 8. § (5) bekezdés f) pontját a 330/2011. (XII. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^112]: A 8. § (8) bekezdés alkalmazására lásd a 320/2009. (XII. 29.) Korm. rendelet 20. § (9) bekezdését.
