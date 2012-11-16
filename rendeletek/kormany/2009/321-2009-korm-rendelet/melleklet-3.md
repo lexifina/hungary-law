@@ -8,21 +8,19 @@
 
 ## 1.3. ha a fenntartó cég, csatolni kell a fenntartó három hónapnál nem régebbi cégkivonatát;
 
-## 1.4. ha a fenntartó társadalmi szervezet, alapítvány vagy közalapítvány, csatolni kell a fenntartó bírósági nyilvántartásba bejegyzett hatályos adatairól kiadott, három hónapnál nem régebbi kivonatot;
+## 1.4.[^79] ha a fenntartó egyesület, alapítvány vagy közalapítvány, csatolni kell a fenntartó bírósági nyilvántartásba bejegyzett hatályos adatairól kiadott, három hónapnál nem régebbi kivonatot;
 
-## 1.5. egyházi fenntartó esetén
+## 1.5.[^80] egyházi fenntartó esetén
 
-## 1.5.1. csatolni kell az egyházat nyilvántartásba vevő bírósági végzés másolatát, kivéve, ha az egyházat a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény 22. §-a alapján vették nyilvántartásba, és
+## 1.5.1. csatolni kell a fenntartó nyilvántartásba vett adatait igazoló hatósági bizonyítványt, vagy
 
-## 1.5.2. csatolni kell az egyház bírósági nyilvántartásba bejegyzett hatályos adatairól kiadott, három hónapnál nem régebbi kivonatot, valamint
-
-## 1.5.3. ha a fenntartó az egyház bírósági nyilvántartásba nem vett szervezeti egysége, csatolni kell a nyilvántartásba vett egyház, egyházi jogi személy képviselőjének a nyilatkozatát a fenntartó nevéről, székhelyéről és képviselőjének személyéről, valamint arról, hogy a fenntartó az általa képviselt egyház, egyházi jogi személy szervezeti egysége, és az egyház alapszabálya alapján jogi személyiséggel rendelkezik;
+## 1.5.2. – ha a fenntartó nyilvántartásba nem vett belső egyházi jogi személy – csatolni kell az egyház vagy a nyilvántartásba vett felettes egyházi szerv adatait igazoló hatósági bizonyítványt, valamint az egyház egésze, illetve legfőbb szerve vagy a fenntartó nyilvántartásba vett felettes egyházi szerve – nyilvántartásban feltüntetett – képviselőjének nyilatkozatát a fenntartó nevéről, székhelyéről és képviselőjének személyéről, továbbá arról, hogy a fenntartó belső egyházi jogi személy;
 
 ## 1.6. ha a fenntartó nem egyéni vállalkozó vagy cég, csatolni kell a fenntartó és – ha a fenntartóétól különböző adószámmal rendelkezik – a szociális szolgáltató, intézmény adószámát igazoló közokirat másolatát;
 
 ## 1.7. egyházi és nem állami fenntartó esetén csatolni kell annak egy hónapnál nem régebbi közokirati igazolását, hogy a fenntartó köztartozásmentes adózónak minősül;
 
-## 1.8. ha a szociális szolgáltató, intézmény költségvetési szerv, csatolni kell az alapító okirat másolatát.
+## 1.8.[^81] ha a szociális szolgáltató, intézmény költségvetési szerv, csatolni kell az alapító okirat másolatát és a törzskönyvi nyilvántartásba történt bejegyzésről szóló határozat és annak mellékletének másolatát.
 
 ## 2. A szociális szolgáltatással kapcsolatos iratok:
 
@@ -52,7 +50,7 @@
 
 ## 2.7. ha a fenntartó beszerezte, csatolni kell az előzetes szakhatósági hozzájárulást, illetve ha a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre, a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt adtak ki, a használatbavételi engedély, illetve a fennmaradási engedély másolatát.
 
-## 2.8.[^71] ha a fenntartó befogadást kér, és a Hivatal előzetes szakhatósági hozzájárulását nem csatolja, a nem állami fenntartású házi segítségnyújtás 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszáma esetében csatolni kell az Szt. 58/A. § (2b)–(2c) bekezdése szerinti nyilatkozatot, illetve azon szolgáltató, ellátotti szám, férőhelyszám esetében, amellyel az ellátásra köteles helyi önkormányzat, megyei fenntartó feladatellátási kötelezettségének tesz eleget, illetve amelyre nézve a fenntartó európai uniós vagy hazai fejlesztési támogatásban részesül, a jegyző vagy a megyei fenntartó vezetője feladatellátást igazoló nyilatkozatát, illetve a pályázat elnyerését igazoló dokumentumot.
+## 2.8.[^82] ha a fenntartó befogadást kér, és a Hivatal előzetes szakhatósági hozzájárulását nem csatolja, a nem állami fenntartású házi segítségnyújtás 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszáma esetében csatolni kell az Szt. 58/A. § (2b)–(2c) bekezdése szerinti nyilatkozatot, illetve azon szolgáltató, ellátotti szám, férőhelyszám esetében, amellyel az ellátásra köteles helyi önkormányzat, megyei fenntartó feladatellátási kötelezettségének tesz eleget, illetve amelyre nézve a fenntartó európai uniós vagy hazai fejlesztési támogatásban részesül, a jegyző vagy a megyei fenntartó vezetője feladatellátást igazoló nyilatkozatát, illetve a pályázat elnyerését igazoló dokumentumot.
 
 ## 3. Az időszakos férőhelybővítés esetén csatolandó iratok:
 
@@ -66,7 +64,7 @@
 
 ## 3.5. csatolni kell a 2.7. pont szerinti iratokat, ha az időszakos férőhelyeket nem a szociális intézmény épületében alakítják ki, vagy a működési engedély módosítása esetén a szakhatóságok bevonása a 7. § (5) bekezdése alapján szükséges.
 
-## 4.[^72]
+## 4.[^83]
 
 ## Kiegészítő szabályok:
 
@@ -76,5 +74,8 @@
 
 3. számú melléklet a 321/2009. (XII. 29.) Korm. rendelethez
 
-[^71]: A 2. számú melléklet 2. pont 2.8. alpontját a 330/2011. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
-[^72]: A 2. számú melléklet 4. pontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^79]: A 2. számú melléklet 1.4. pontja a 317/2012. (XI. 13.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^80]: A 2. számú melléklet 1.5. pontja a 317/2012. (XI. 13.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^81]: A 2. számú melléklet 1.8. pontja a 317/2012. (XI. 13.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^82]: A 2. számú melléklet 2. pont 2.8. alpontját a 330/2011. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^83]: A 2. számú melléklet 4. pontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés d) pontja hatályon kívül helyezte.
