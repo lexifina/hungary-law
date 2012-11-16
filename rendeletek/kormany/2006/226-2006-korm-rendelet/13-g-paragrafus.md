@@ -1,4 +1,4 @@
-13/G. §[^45] (1) A Hivatal az igénybevevői nyilvántartásban rögzített
+13/G. §[^58] (1) A Hivatal az igénybevevői nyilvántartásban rögzített
 
 a) természetes személyazonosító és lakcímadatokat a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalának nyilvántartásából,
 
@@ -10,4 +10,4 @@ való adatigénylés útján ellenőrzi, illetve – ha az adat nem vagy hibása
 
 (3) A Hivatal a tudomására jutott hibás adatot a tudomására jutástól számított három munkanapon belül – az adatszolgáltatásra jogosultnak az igénybevevői nyilvántartás rendszerén keresztül történő egyidejű tájékoztatása mellett – kijavítja vagy törli. A javítás nem terjedhet ki a napi jelentésben igénybe vevőként fel nem tüntetett személy igénybe vevőként történő feltüntetésére.
 
-[^45]: A 13/G. §-t a 329/2011. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^58]: A 13/G. §-t a 329/2011. (XII. 29.) Korm. rendelet 4. §-a iktatta be.

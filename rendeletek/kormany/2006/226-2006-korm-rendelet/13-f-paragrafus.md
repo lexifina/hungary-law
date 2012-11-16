@@ -1,18 +1,20 @@
-13/F. §[^44] (1) Az adatszolgáltatásra jogosult az igénybevevői nyilvántartásban naponta nyilatkozik arról, hogy a 13/E. § szerint rögzített személy a szolgáltatást az adott napon igénybe vette-e (napi jelentés).
+13/F. §[^54] (1) Az adatszolgáltatásra jogosult az igénybevevői nyilvántartásban naponta nyilatkozik arról, hogy a 13/E. § szerint rögzített személy a szolgáltatást az adott napon igénybe vette-e (napi jelentés).
 
 (2) A napi jelentési kötelezettséget az adott napot követő munkanap 24 óráig kell teljesíteni.
 
-(3) Ha az igénybe vevő nem rendelkezik TAJ-jal, és a TAJ igénylésére jogosult
+(3)[^55] Ha az igénybe vevő nem rendelkezik TAJ-jal, és a TAJ igénylésére jogosult
 
 a) szociális szolgáltatás és gyermekjóléti alapellátás esetén a TAJ-t hatvan napon belül nem szerzi be,
 
 b) gyermekvédelmi szakellátás esetén hatvan napon belül nem igazolja, hogy a TAJ kiadását kérelmezte,
 
-az érintett a napi jelentésben nem tüntethető fel igénybe vevőként.
+az érintett a határidő lejártát követő naptól a napi jelentésben nem tüntethető fel igénybe vevőként.
+
+(3a)[^56] A (3) bekezdésben foglaltak nem alkalmazhatók nappali melegedő, éjjeli menedékhely és családsegítés esetén, valamint arra az igénybe vevőre, aki TAJ igénylésére nem köteles.
 
 (4) Az ideiglenesen elhelyezett, átmeneti vagy tartós nevelésbe vett, de javítóintézetben vagy büntetés-végrehajtási intézetben ellátott a napi jelentésben nem tüntethető fel.
 
-(5) A napi jelentésben az igénybevételről szolgáltatott adat egyszer, a napi jelentés szerinti igénybevétel hónapját követő hónap tizenötödik napjáig módosítható (a továbbiakban: önellenőrzés). Önellenőrzés keretében új ellátott rögzítésére nincs lehetőség, a napi igénybevétel tényén túl adatot módosítani csak a 13/E. §-ban foglaltak szerint lehet. Az önellenőrzés során meg kell jelölni
+(5)[^57] A napi jelentésben az igénybevételről szolgáltatott adat egyszer, a napi jelentés szerinti igénybevétel hónapját követő hónap tizenötödik napjáig módosítható (a továbbiakban: önellenőrzés). Az önellenőrzéssel egyidejűleg új ellátott rögzítésére a 13/E. § (1c) bekezdése szerinti esetben van lehetőség, a napi igénybevétel tényén túl egyéb adatot módosítani csak a 13/E. §-ban foglaltak szerint lehet. Az önellenőrzés során meg kell jelölni
 
 a) az igénybevételi napot,
 
@@ -22,4 +24,7 @@ c) a helyes adatot és
 
 d) a hiba okát.
 
-[^44]: A 13/F. §-t a 329/2011. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^54]: A 13/F. §-t a 329/2011. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^55]: A 13/F. § (3) bekezdés záró szövegrésze a 317/2012. (XI. 13.) Komr. rendelet 21. § e) pontja szerint módosított szöveg.
+[^56]: A 13/F. § (3a) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^57]: A 13/F. § (5) bezedés nyitó szövegrésze a 317/2012. (XI. 13.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
