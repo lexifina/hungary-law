@@ -1,1 +1,0 @@
-## „(12) A (11) bekezdés szempontjából biomasszából villamos energiát termelő Értékesítő esetében nem minősül az értékesítés megkezdésének, ha az Értékesítő korábban már a kötelező átvételi rendszerben értékesített.”
