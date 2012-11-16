@@ -4,5 +4,8 @@
 
 (2) Az (1) bekezdés szerinti bírságot – a 11/A–11/G. mellékletben meghatározottak szerint – a bírságot kiszabó döntés jogerőre emelkedésétől számított harminc napon belül kell befizetni.
 
+(3)[^12] A Kkt. 20. § (1) bekezdés k) pontjában meghatározott rendelkezések miatt folytatott közigazgatási eljárásban a korlátozott cselekvőképességgel rendelkező személyt is megilleti az eljárási képesség.
+
 [^10]: A 12. § a 228/2012. (VIII. 23.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^11]: A 12. § (1) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 10. § (4) bekezdése szerint módosított szöveg.
+[^12]: A 12. § (3) bekezdését a 319/2012. (XI. 13.) Korm. rendelet 5. §-a iktatta be.
