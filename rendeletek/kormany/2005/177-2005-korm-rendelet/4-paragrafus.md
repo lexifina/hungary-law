@@ -1,10 +1,10 @@
-## A bértámogatás szabályai[^25]
+## A bértámogatás szabályai[^32]
 
-4. §[^26] (1) A megváltozott munkaképességű munkavállaló foglalkoztatásának elősegítése érdekében – kérelemre – bértámogatás nyújtható, ha a munkáltató
+4. §[^33] (1) A megváltozott munkaképességű munkavállaló foglalkoztatásának elősegítése érdekében – kérelemre – bértámogatás nyújtható, ha a munkáltató
 
 a) a megváltozott munkaképességű munkavállalót egészségkárosodásának, illetőleg fogyatékosságának megfelelő munkahelyi környezetben, munkaviszonyban saját maga foglalkoztatja, vagy foglalkoztatni kívánja, és
 
-b)[^27] a foglalkoztatást a munkavállaló meglévő képességeinek megfelelő, olyan – külön jogszabályban meghatározott – rehabilitációs célú munkavégzés keretében biztosítja, amely a társasági szerződésében, alapító okiratában, alapszabályában, illetőleg az egyéni vállalkozók nyilvántartásában megjelölt tevékenységének kifejtéséhez kapcsolódik, továbbá
+b)[^34] a foglalkoztatást a munkavállaló meglévő képességeinek megfelelő, olyan – külön jogszabályban meghatározott – rehabilitációs célú munkavégzés keretében biztosítja, amely a társasági szerződésében, alapító okiratában, alapszabályában, illetőleg az egyéni vállalkozók nyilvántartásában megjelölt tevékenységének kifejtéséhez kapcsolódik, továbbá
 
 c) az Flt. 41/A. § (1)–(2) bekezdésében foglalt kötelező foglalkoztatási szintet (továbbiakban: rehabilitációs foglalkoztatási kötelezettség) teljesíti.
 
@@ -16,11 +16,11 @@ a) öregségi nyugdíjra jogosult,
 
 b) munkaszerződés szerinti átlagos napi munkaideje a napi négy órát nem éri el,
 
-c) foglalkoztatására átengedés, kirendelés vagy munkaerő-kölcsönzés keretében kerül sor, illetőleg a munkavégzés – a bedolgozói jogviszony és a távmunkavégzés, a kiküldetés, valamint a munka természetéből eredően szokásosan telephelyen kívül végzett tevékenység kivételével – nem a munkáltató székhelyén, telephelyén, fióktelepén történik,
+c)[^35] foglalkoztatására más munkáltatónál vagy munkaerő-kölcsönzés keretében kerül sor, illetőleg a munkavégzés – a bedolgozói jogviszony és a távmunkavégzés, a külföldön történő ideiglenes munkavégzés, valamint a munka természetéből eredően szokásosan telephelyen kívül végzett tevékenység kivételével – nem a munkáltató székhelyén, telephelyén, fióktelepén történik,
 
-d)[^28] alkalmazására tekintettel a munkáltató a megváltozott munkaképességű munkavállaló foglalkoztatásához nyújtható, a 2. § (1) bekezdés f) pontja szerinti egyéb támogatásban részesül.
+d)[^36] alkalmazására tekintettel a munkáltató a megváltozott munkaképességű munkavállaló foglalkoztatásához nyújtható, a 2. § (1) bekezdés f) pontja szerinti egyéb támogatásban részesül.
 
-(4) Nem nyújtható támogatás a (3) bekezdés c) pontjában megjelölt kiküldetéshez, illetőleg a munka természetéből eredően szokásos telephelyen kívül végzett foglalkoztatáshoz, ha a munkavégzésre a munkáltató által kötött, olyan szerződés teljesítése érdekében kerül sor, amelynek tárgya valamely vállalkozás részére termelő vagy – az üzembe helyezési, szavatossági, szervizelési és jótállási tevékenységnek nem tekinthető – szolgáltató tevékenység folytatása, és a munkavégzésre a vállalkozás székhelyén, telephelyén, fióktelepén, illetőleg érdekkörében kerül sor.
+(4)[^37] Nem nyújtható támogatás a külföldön történő ideiglenes munkavégzéshez, illetőleg a munka természetéből eredően szokásos telephelyen kívül végzett foglalkoztatáshoz, ha a munkavégzésre a munkáltató által kötött, olyan szerződés teljesítése érdekében kerül sor, amelynek tárgya valamely vállalkozás részére termelő vagy – az üzembe helyezési, szavatossági, szervizelési és jótállási tevékenységnek nem tekinthető – szolgáltató tevékenység folytatása, és a munkavégzésre a vállalkozás székhelyén, telephelyén, fióktelepén, illetőleg érdekkörében kerül sor.
 
 (5) A támogatás összege havonta nem haladhatja meg a tárgyévet megelőző második évre vonatkozó – a Központi Statisztikai Hivatal által közzétett – nemzetgazdasági éves bruttó átlagkereset egy tizenketted része – az 5. § (1) bekezdésében meghatározott támogatási mértékek szerinti arányos – összegének
 
@@ -34,7 +34,9 @@ c) 120 százalékát, felsőfokú szakképzettséget vagy felsőfokú iskolai v�
 
 (7) Ha a (6) bekezdésben megjelölt nemzetgazdasági éves bruttó átlagkereset összege a támogatás folyósításának időtartama alatt emelkedik, akkor – a munkáltató kérelmére – az azt követő időszakra a támogatás összege a nemzetgazdasági éves bruttó átlagkereset emelkedésének arányában megnövelhető, de a támogatás százalékos mértéke nem emelkedhet.
 
-[^25]: A 4. §-t megelőző alcím a 357/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^26]: A 4. § a 357/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 12. § (5) bekezdése alapján a 2009. január 1. napját megelőzően megállapított támogatásokat a naptári éves, illetve 12 hónapos kötelezettségvállalási megállapodás lejártáig, a 2008. december 31-én hatályos szabályok szerint tovább kell folyósítani.
-[^27]: A 4. § (1) bekezdés b) pontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^28]: A 4. § (3) bekezdés d) pontja a 121/2011. (VII. 15.) Korm. rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^32]: A 4. §-t megelőző alcím a 357/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^33]: A 4. § a 357/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 12. § (5) bekezdése alapján a 2009. január 1. napját megelőzően megállapított támogatásokat a naptári éves, illetve 12 hónapos kötelezettségvállalási megállapodás lejártáig, a 2008. december 31-én hatályos szabályok szerint tovább kell folyósítani.
+[^34]: A 4. § (1) bekezdés b) pontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^35]: A 4. § (3) bekezdés c) pontja a 327/2012. (XI. 16.) Korm. rendelet 58. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^36]: A 4. § (3) bekezdés d) pontja a 121/2011. (VII. 15.) Korm. rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^37]: A 4. § (4) bekezdése a 327/2012. (XI. 16.) Korm. rendelet 58. § (1) bekezdés d) pontja szerint módosított szöveg.
