@@ -1,16 +1,18 @@
-21. § (1)[^71] Az építtetői fedezetkezelő a fővállalkozó kivitelező által nyújtott teljesítési biztosítékot az építési szerződésben meghatározott kötelezettség nem teljesítése esetén, az építtető kezdeményezésére és az építési műszaki ellenőr igazolása alapján az építési szerződésben meghatározott kiadások kiegyenlítésére használja fel. Ha az építtető az építési szerződésben rögzített feltételek hiányában kezdeményezi a fővállalkozó kivitelező által nyújtott teljesítési biztosíték felhasználását, vagy az építtető által lehívott teljesítési biztosíték építési szerződésben meghatározott célra történő felhasználásához az építési műszaki ellenőr nem adja ki az igazolást, az építtetői fedezetkezelő nem teljesíthet kifizetést az építtető részére a teljesítési biztosíték terhére.
+## 20/B. §[^72] Amennyiben a vállalkozó kivitelező a 20. § (4) bekezdés b) pontja vagy a 20/A. § (1) bekezdése szerinti vita eldöntése érdekében bírósági eljárást indít és a bíróság ezen követelés vonatkozásában ideiglenes intézkedéssel elrendeli a kereseti kérelemben, illetve az ideiglenes intézkedés iránti kérelemben foglaltak teljesítését, az építtetői fedezetkezelő az ideiglenes intézkedés kedvezményezettjének a számlaszámára utalja a 20. § (4) bekezdése vagy a 20/A. § (1) bekezdése szerinti kifizetésből visszatartott összeget.
 
-(1a)[^72] Ha az építtetői fedezetkezelő az (1) bekezdés szerint nem teljesíthet kifizetést az építtető részére a teljesítési biztosíték terhére, az építtetői fedezetkezelő a közreműködése keretében egyeztetést folytat az építtetővel és a fővállalkozó kivitelezővel. Az építtetői fedezetkezelő a létrejött megállapodásának megfelelően intézkedik a fedezetkezelői számlán lévő teljesítési biztosíték felhasználásáról.
+21. § (1)[^73] Az építtetői fedezetkezelő a fővállalkozó kivitelező által nyújtott teljesítési biztosítékot az építési szerződésben meghatározott kötelezettség nem teljesítése esetén, az építtető kezdeményezésére és az építési műszaki ellenőr igazolása alapján az építési szerződésben meghatározott kiadások kiegyenlítésére használja fel. Ha az építtető az építési szerződésben rögzített feltételek hiányában kezdeményezi a fővállalkozó kivitelező által nyújtott teljesítési biztosíték felhasználását, vagy az építtető által lehívott teljesítési biztosíték építési szerződésben meghatározott célra történő felhasználásához az építési műszaki ellenőr nem adja ki az igazolást, az építtetői fedezetkezelő nem teljesíthet kifizetést az építtető részére a teljesítési biztosíték terhére.
+
+(1a)[^74] Ha az építtetői fedezetkezelő az (1) bekezdés szerint nem teljesíthet kifizetést az építtető részére a teljesítési biztosíték terhére, az építtetői fedezetkezelő a közreműködése keretében egyeztetést folytat az építtetővel és a fővállalkozó kivitelezővel. Az építtetői fedezetkezelő a létrejött megállapodásának megfelelően intézkedik a fedezetkezelői számlán lévő teljesítési biztosíték felhasználásáról.
 
 (2) Az építtetői fedezetkezelő az alvállalkozói nyilvántartás működtetése keretében
 
-a)[^73] tájékoztatja az építtetőt és a fővállalkozó kivitelezőt a felelősségi körükbe tartozó nyilvántartás-kitöltési kötelezettségről,
+a)[^75] tájékoztatja az építtetőt és a fővállalkozó kivitelezőt a felelősségi körükbe tartozó nyilvántartás-kitöltési kötelezettségről,
 
-b)[^74] egyéni kódot biztosít az építtető és a fővállalkozó kivitelező részére az alvállalkozói nyilvántartásba történő belépéshez,
+b)[^76] egyéni kódot biztosít az építtető és a fővállalkozó kivitelező részére az alvállalkozói nyilvántartásba történő belépéshez,
 
-c)[^75]
+c)[^77]
 
-d)[^76] figyelemmel kíséri a fővállalkozó kivitelező nyilvántartás-kitöltési kötelezettségének teljesítését,
+d)[^78] figyelemmel kíséri a fővállalkozó kivitelező nyilvántartás-kitöltési kötelezettségének teljesítését,
 
 e) figyelemmel kíséri az alvállalkozói teljesítések határidőben történő kifizetését,
 
@@ -26,12 +28,13 @@ g) haladéktalanul értesíti az alvállalkozói nyilvántartásban szereplő ö
 
 h) haladéktalanul értesítési az alvállalkozói nyilvántartásban szereplő összes alvállalkozó kivitelezőt, ha a fedezetkezelői szerződés a 17. § (8) bekezdés szerint megszűnik.
 
-(3)[^77] Az építtetői fedezetkezelő az elektronikus alvállalkozói nyilvántartást a fedezetkezelői szerződés megkötésétől legkésőbb közreműködésének 17. § (7) vagy (8) bekezdése, vagy 20. § (6) bekezdése szerinti befejezését követő harminc napig működteti.
+(3)[^79] Az építtetői fedezetkezelő az elektronikus alvállalkozói nyilvántartást a fedezetkezelői szerződés megkötésétől legkésőbb közreműködésének 17. § (7) vagy (8) bekezdése, vagy 20. § (6) bekezdése szerinti befejezését követő harminc napig működteti.
 
-[^71]: A 21. § (1) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (22) bekezdésével megállapított szöveg.
-[^72]: A 21. § (1a) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (22) bekezdése iktatta be.
-[^73]: A 21. § (2) bekezdés a) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (23) bekezdésével megállapított szöveg.
-[^74]: A 21. § (2) bekezdés b) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (23) bekezdésével megállapított szöveg.
-[^75]: A 21. § (2) bekezdés c) pontját a 182/2010. (V. 14.) Korm. rendelet 8. §-a hatályon kívül helyezte.
-[^76]: A 21. § (2) bekezdés d) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (24) bekezdésével megállapított szöveg.
-[^77]: A 21. § (3) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (25) bekezdésével megállapított szöveg.
+[^72]: A 20/B. §-t a 322/2012. (XI. 16.) Korm. rendelet 75. §-a iktatta be.
+[^73]: A 21. § (1) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (22) bekezdésével megállapított szöveg.
+[^74]: A 21. § (1a) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (22) bekezdése iktatta be.
+[^75]: A 21. § (2) bekezdés a) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (23) bekezdésével megállapított szöveg.
+[^76]: A 21. § (2) bekezdés b) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (23) bekezdésével megállapított szöveg.
+[^77]: A 21. § (2) bekezdés c) pontját a 182/2010. (V. 14.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^78]: A 21. § (2) bekezdés d) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (24) bekezdésével megállapított szöveg.
+[^79]: A 21. § (3) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (25) bekezdésével megállapított szöveg.

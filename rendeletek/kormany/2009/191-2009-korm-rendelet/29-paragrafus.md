@@ -4,7 +4,7 @@
 
 ## Előzetes bejelentés
 
-29. § (1)[^84] Az Étv. 39/A. § (4) bekezdése szerint az építőipari kivitelezési tevékenység tervezett megkezdésére irányuló bejelentését az építtető
+29. § (1)[^86] Az Étv. 39/A. § (4) bekezdése szerint az építőipari kivitelezési tevékenység tervezett megkezdésére irányuló bejelentését az építtető
 
 a) az építésügyi hatósági engedélyhez kötött és az építésügyi bírság megállapításának részletes szabályairól szóló jogszabály szerint számított, 50 millió forint számított építmény-értéket meghaladó,
 
@@ -24,7 +24,7 @@ aa) fővállalkozó kivitelező (több fővállalkozó vagy alvállalkozó kivit
 
 ab) felelős műszaki vezető (több felelős műszaki vezető esetén a kezdéskor ismert összes felelős műszaki vezető),
 
-ac)[^85] ha jogszabály építési műszaki ellenőr alkalmazását előírja vagy építési műszaki ellenőr alkalmazására kerül sor, az építési műszaki ellenőr
+ac)[^87] ha jogszabály építési műszaki ellenőr alkalmazását előírja vagy építési műszaki ellenőr alkalmazására kerül sor, az építési műszaki ellenőr
 
-[^84]: A 29. § (1) bekezdés záró szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (119) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^85]: A 29. § (2) bekezdés a) pont ac) alpontja a 182/2010. (V. 14.) Korm. rendelet 7. § 22. pontja szerint módosított szöveg.
+[^86]: A 29. § (1) bekezdés záró szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (119) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^87]: A 29. § (2) bekezdés a) pont ac) alpontja a 182/2010. (V. 14.) Korm. rendelet 7. § 22. pontja szerint módosított szöveg.

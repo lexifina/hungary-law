@@ -240,6 +240,6 @@
 
 ## V. Az épületek energetikai jellemzőinek meghatározásáról szóló jogszabályban meghatározott esetekben – annak melléklete szerinti – energetikai számításokat kell készíteni.
 
-2. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^105]
+2. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^107]
 
-[^105]: A 2. melléklet a 314/2009. (XII. 28.) Korm. rendelet 65. §-a szerint módosított szöveg.
+[^107]: A 2. melléklet a 314/2009. (XII. 28.) Korm. rendelet 65. §-a szerint módosított szöveg.
