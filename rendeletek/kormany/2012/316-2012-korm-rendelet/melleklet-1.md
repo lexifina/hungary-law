@@ -1,8 +1,4 @@
-## 11. § Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 66. § (1) bekezdés b) pontja a következő bd) alponttal egészül ki:
-
-## (A miniszter irányítja)
-
-## „bd) a Szociális és Gyermekvédelmi Főigazgatóságot.”
+## 11. §[^4]
 
 1. melléklet a 316/2012. (XI. 13.) Korm. rendelethez
 
@@ -139,3 +135,5 @@ Alaptevékenysége:
 – A gyermekvédelmi szakellátás keretében otthont nyújtó ellátásként speciális gyermekotthoni ellátást biztosít 12. életévét – kivételesen indokolt esetben 10. életévét – betöltött, súlyos beilleszkedési, magatartási vagy tanulási zavarokkal küzdő, átmeneti vagy tartós nevelt fiúk számára.
 
 – A nagykorúvá vált – korábban a gyermekotthonban elhelyezett – fiatal felnőttek részére utógondozói ellátást biztosít.
+
+[^4]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát veszettte.
