@@ -14,7 +14,7 @@
 
 7. hivatalból vagy kérelemre eljár a hatáskörében hozott határozatban vagy hatáskörében kötött hatósági szerződésben meghatározottak megsértése miatt, illetve szerződéskötéssel kapcsolatos jogviták esetén indított eljárásokban;
 
-8. figyelemmel kíséri az egyetemes elektronikus hírközlési szolgáltatás (a továbbiakban: egyetemes szolgáltatás) ellátásának helyzetét, és intézkedik a szolgáltatás biztosítása érdekében, szerződést köt az egyetemes szolgáltatókkal;
+8. figyelemmel kíséri az egyetemes elektronikus hírközlési szolgáltatás (a továbbiakban: egyetemes szolgáltatás) ellátásának helyzetét, és intézkedik a szolgáltatás biztosítása érdekében;
 
 9. közzéteszi a jogszabályban előírt nyilvántartásokat, adatokat, döntéseket;
 
@@ -30,7 +30,7 @@
 
 15. ellenőrzi a miniszter által kijelölt megfelelőségértékelő szervezetek tevékenységét;
 
-16. ellátja az Egyetemes Elektronikus Hírközlési Támogatási Kassza működtetésével kapcsolatos, jogszabályban meghatározott feladatokat;
+16. ellátja az Egyetemes Elektronikus Hírközlési Támogatási Kassza jogutódjaként a jogszabályban meghatározott feladatokat;
 
 17. a felhasználók azonos színvonalú ellátása, hozzáférése és választási szabadságának biztosítása érdekében – a hálózat egységes és zavartalan működésének és fenntarthatóságának figyelembevételével – az elektronikus hírközlési szolgáltatók számára követelményeket határozhat meg;
 

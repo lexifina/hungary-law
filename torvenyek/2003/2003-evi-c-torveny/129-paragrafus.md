@@ -8,7 +8,7 @@
 
 (4) Az előfizető az előfizetői szerződés hatálya alatt a (3) bekezdésben meghatározott nyilatkozatot az általános szerződési feltételekben meghatározott módon vonhatja vissza vagy módosíthatja.
 
-(5) Az írásban megkötött egyedi előfizetői szerződésnek, jól látható módon, figyelemfelhívó jelleggel, jól értelmezhető módon tartalmaznia kell az általános szerződési feltételekben foglaltaktól való valamennyi eltérést, továbbá a szolgáltatás sajátosságaira figyelemmel az alábbi fejezetcímek és sorrend szerint legalább a következőket:
+(5) Az írásban megkötött egyedi előfizetői szerződésnek, jól látható módon, figyelemfelhívó jelleggel, jól értelmezhető módon tartalmaznia kell az általános szerződési feltételekben foglaltaktól való valamennyi eltérést, továbbá a szolgáltatás sajátosságaira figyelemmel az Elnök rendeletében meghatározott felosztásban legalább a következőket:
 
 a) személyes adatok;
 

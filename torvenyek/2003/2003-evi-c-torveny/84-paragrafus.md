@@ -19,3 +19,5 @@
 (9) Jogutódlás esetében a frekvenciahasználat – a jogutódlástól számított harminc napon belül – a Hatósághoz történt bejelentés alapján folytatható. A bejelentés tudomásulvételét a Hatóság megtagadhatja, ha a rádióengedély visszavonásának volna helye.
 
 (10) A bejelentéshez (egyszerűsített rádióengedélyhez) kötött frekvenciák használatára vonatkozó hatósági ügyekben az elektronikus kapcsolattartás kötelező, kivéve ha az az adott eljárási cselekmény tekintetében nem értelmezhető.
+
+(11) A frekvenciahasználati jogosultság, jog megszűnik a jogosított vagy engedélyes halálával, illetve jogutód nélküli megszűnésével.

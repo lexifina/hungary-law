@@ -36,4 +36,4 @@ u) ellátja a más jogszabályban feladat- és hatáskörébe utalt egyéb felad
 
 (2)
 
-(3) Minősített időszak esetén, illetőleg következményei elhárítása érdekében – a Honvédelmi Tanács, a köztársasági elnök, illetve a Kormány döntése alapján – a miniszter határozattal állapítja meg az elektronikus hírközlési tevékenység átmeneti korlátozását vagy szünetelését.
+(3) Különleges jogrend esetén, illetőleg következményei elhárítása érdekében – a Honvédelmi Tanács, a köztársasági elnök, illetve a Kormány döntése alapján – a miniszter határozattal állapítja meg az elektronikus hírközlési tevékenység átmeneti korlátozását vagy szünetelését.

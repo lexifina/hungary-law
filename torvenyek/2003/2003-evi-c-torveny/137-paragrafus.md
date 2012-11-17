@@ -8,7 +8,7 @@ b) a szolgáltatást igénybe vevő előfizető az előfizetői szolgáltatást 
 
 c) az előfizetőnek a díjtartozásról szóló felszólításban megjelölt – de legalább 30 napos – határidő elteltét követően is esedékes díjtartozása van, és az előfizető a díjtartozás megfizetésének biztosítása céljából a szolgáltatónak nem adott az általános szerződési feltételekben meghatározott vagyoni biztosítékot;
 
-d) az előfizető fogyasztása túllépte az adott szolgáltatás tekintetében az általános szerződési feltételekben, illetve az egyedi előfizetői szerződésben az igénybevétel felső korlátjaként meghatározott összeget vagy adatmennyiséget.
+d) az előfizető fogyasztása túllépte az adott szolgáltatás tekintetében az általános szerződési feltételekben, illetve az egyedi előfizetői szerződésben az igénybevétel felső korlátjaként meghatározott összeget vagy hívás, üzenet, illetve adatmennyiséget.
 
 (2) A telefon szolgáltató az előfizetői szolgáltatás korlátozása esetén is köteles biztosítani
 
@@ -20,7 +20,7 @@ c) a szolgáltató ügyfélszolgálatának elérhetőségét,
 
 d) a hibabejelentőjének elérhetőségét.
 
-(2a) A korlátozás a megtévesztés esetét kivéve, a műszakilag kivitelezhető mértékben, csak az előfizetői szerződésszegéssel érintett szolgáltatásra terjedhet ki.
+(2a) A korlátozás a megtévesztés esetét kivéve, valamint – amennyiben az előfizető több előfizetői szolgáltatást egy egyedi előfizetői szerződés keretében vesz igénybe az (1) bekezdés c) pontjában szabályozott díjtartozás esetét kivéve – a műszakilag kivitelezhető mértékben, csak az előfizetői szerződésszegéssel érintett szolgáltatásra terjedhet ki.
 
 (2b) A szolgáltató a szolgáltatás korlátozásának idejére kizárólag a nyújtott szolgáltatással arányos díjat számíthat fel.
 

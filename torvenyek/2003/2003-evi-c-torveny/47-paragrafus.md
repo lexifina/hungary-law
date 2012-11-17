@@ -1,6 +1,6 @@
 ## Adatszolgáltatás
 
-47. § (1) A Hatóság felhívhatja az e törvény hatálya alá tartozó elektronikus hírközlési tevékenységet végzőt, elektronikus hírközlési szolgáltatót minden olyan adat szolgáltatására, amely a Hatóság e törvényben meghatározott hatósági hatáskörébe utalt feladatainak ellátásához szükséges, abban az esetben is, ha az – a minősített adatok kivételével – törvény által védett titoknak minősül. E felhívás ellen jogorvoslatnak helye nincs, a felhívás a (2) bekezdésben foglalt esetben kibocsátott hatósági határozat elleni jogorvoslati kérelemben támadható.
+47. § (1) A Hatóság felhívhatja az e törvény hatálya alá tartozó elektronikus hírközlési tevékenységet végzőt, elektronikus hírközlési szolgáltatót minden olyan adat szolgáltatására, amely a Hatóság hatósági hatáskörébe utalt feladatainak ellátásához szükséges, abban az esetben is, ha az – a minősített adatok kivételével – törvény által védett titoknak minősül. E felhívás ellen jogorvoslatnak helye nincs, a felhívás a (2) bekezdésben foglalt esetben kibocsátott hatósági határozat elleni jogorvoslati kérelemben támadható.
 
 (2) Amennyiben az (1) bekezdésben foglalt felhívást az adatszolgáltatásra felhívott nem vagy nem megfelelően teljesíti, úgy a Hatóság hatósági határozatában kötelezheti a felhívásban foglalt adatok szolgáltatására.
 

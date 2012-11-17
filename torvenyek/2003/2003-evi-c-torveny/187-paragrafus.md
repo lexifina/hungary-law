@@ -10,6 +10,8 @@ c) az Európai Elektronikus Hírközlési Szabályozók Testületének (BEREC) �
 
 d) short ügyletekről és a hitel-nemteljesítési csereügyletekkel kapcsolatos egyes szempontokról szóló 236/2012/EU európai parlamenti és tanácsi rendelet
 
+e) egy többéves rádióspektrum-politikai program létrehozásáról szóló 2012. március 14-ei 243/2012/EU parlamenti és bizottsági határozat 5. cikke
+
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:

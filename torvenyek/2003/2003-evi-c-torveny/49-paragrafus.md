@@ -38,7 +38,7 @@ e) elrendelheti a frekvenciahasználati jog kényszerértékesítését vagy has
 
 f) elrendelheti a piacelemzést követően kiszabott kötelezettségek tekintetében a versenyt jelentős mértékben hátráltató szolgáltatás vagy szolgáltatáscsomag nyújtásának beszüntetését vagy késleltetését;
 
-g) a 2 hónapot meghaladó lejárt határidejű frekvencia-, vagy azonosítóhasználati díjtartozásról a Hatóság értesítést küld, a 3 hónapot meghaladó lejárt határidejű frekvencia-, vagy azonosítóhasználati díjtartozás esetén a jogosított engedélyeit (a frekvenciakijelölést, rádióengedélyt, illetve az azonosítókijelölést) a Hatóság visszavonja;
+g) a 2 hónapot meghaladó lejárt határidejű frekvencia-, vagy azonosítóhasználati díjtartozásról – a fizetési kötelezettséget, annak mértékét, a lejárt határidejű díjtartozás megfizetésére előírt 15 napos teljesítési póthatáridőt, továbbá az önkéntes teljesítés elmaradásának jogkövetkezményeire való figyelmeztetést is tartalmazó – fizetési felszólítást küld, amelynek eredménytelensége esetén a jogosított engedélyeit (a frekvenciakijelölést, rádióengedélyt, illetve az azonosítókijelölést) visszavonja;
 
 h) egyéb, jogszabályban meghatározott szankciót alkalmazhat.
 

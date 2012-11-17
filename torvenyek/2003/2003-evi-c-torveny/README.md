@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-100-00-00
 | 2012-03-01 | 2012. évi V. törvény | 2003-100-00-00.34 |
 | 2012-07-25 | 2012. évi CXXX. törvény | 2003-100-00-00.35 |
 | 2012-09-01 | 2012. évi LXXXVIII. törvény | 2003-100-00-00.36 |
+| 2012-11-17 | 2012. évi CLXI. törvény | 2003-100-00-00.37 |

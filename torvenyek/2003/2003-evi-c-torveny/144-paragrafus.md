@@ -42,7 +42,9 @@ a) az általuk nyújtott szolgáltatásokról, különös tekintettel azon szám
 
 b) a szolgáltató által az egy hálózati összeköttetésen átmenő forgalom mérésére és alakítására létrehozott bármely eljárásról, valamint arról, hogy ezen eljárások milyen hatással lehetnek a szolgáltatás minőségére,
 
-c) a fogyatékos előfizetőiket a számukra kifejlesztett termékekről és szolgáltatásokról.
+c) a fogyatékos előfizetőiket a számukra kifejlesztett termékekről és szolgáltatásokról,
+
+d) a szolgáltatásokhoz és alkalmazásokhoz való hozzáférés, illetve azok használatának korlátozására vonatkozó feltételek bárminemű változásáról.
 
 (9) A szolgáltatások egyes kategóriái tekintetében a Hatóság megkövetelheti, hogy a tájékoztatásra közvetlenül a hívás kapcsolása előtt kerüljön sor.
 

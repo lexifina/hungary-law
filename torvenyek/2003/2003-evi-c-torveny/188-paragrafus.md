@@ -26,6 +26,8 @@
 
 9. Bitfolyam hozzáférés: kétirányú, adott nagysebességű digitális hálózati szolgáltatás, amelynek során aktív hálózati eszközeinek átviteli kapacitását engedi át, illetve osztja meg az arra kötelezett szolgáltató az arra jogosult szolgáltatóval.
 
+9/a. E-segélyhívás: olyan, járműből az európai harmonizált segélyhívó számra érkező segélyhívás, amelyet vagy automatikusan a járműbe épített érzékelő aktiválása hatására, vagy manuálisan indítanak, és amely szabványos adatokat továbbít mobil rádiótelefon-hálózatok segítségével, és hangátviteli csatornát hoz létre a járműben tartózkodók és a segélyszolgálati állomás között.
+
 10. Egyéni előfizető: az a természetes személy előfizető, aki úgy nyilatkozott, hogy gazdasági tevékenységi körén kívül veszi igénybe az előfizetői szolgáltatást.
 
 11. Egyetemes elektronikus hírközlési szolgáltatás: az e törvényben meghatározott azon elektronikus hírközlési szolgáltatások, amelyek meghatározott minőségben, Magyarország területén bárhol, minden felhasználó számára megfizethető ár ellenében igénybe vehetők.
@@ -158,7 +160,7 @@ b) előfizetői interfész: az elektronikus hírközlő hálózat azon csatlakoz
 
 c) rádióinterfész: a rádióhullámoknak a rádióberendezések közötti átviteli útját meghatározó rádiós csatlakozási felület, valamint ennek műszaki jellemzői.
 
-58.
+58. Internet-hozzáférés szolgáltatás: olyan elektronikus hírközlési szolgáltatás, amely során a szolgáltató IP-cím hozzárendelésével biztosítja az IP alapú adatátvitelt az előfizetői hozzáférési pont, valamint az internet legalább egy belföldi és egy nemzetközi nyilvános adatkicserélő központja között.
 
 59.
 
@@ -265,6 +267,8 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 99/A. Sikertelen hívás: minden olyan telefonhívás (beleértve a beszédalapú – akár hagyományos, akár IP-alapú – telefonálást, az üzenetrögzítővel való kapcsolatot, a konferenciahívást és az adathívást) vagy kiegészítő szolgáltatás (beleértve a hívástovábbítást és hívásátirányítást), amelynél a hálózati kapcsolat sikeresen létrejött, de a hívás megválaszolatlan maradt (nem fogadott vagy elutasított hívás), illetőleg hálózatkezelői beavatkozás miatt a létrejött kapcsolat automatikusan azonnali bontásra került (foglalt, kikapcsolt vagy más okból nem elérhető állomás hívása).
 
 99/b. SMS: rövid, szöveges üzenetszolgáltatás.
+
+99/c. Segélyszolgálati állomás: azon területileg illetékes szervezeti egység, amely az illetékességi területéről segélyhívó számmal kezdeményezett hívás fogadásáért jogszabály rendelkezése, illetve megállapodás alapján felelős.
 
 100. Transznacionális piac: az Európai Bizottság által meghatározott, az Európai Gazdasági Térség egészét vagy annak jelentős részét, de legalább két tagállamot érintő piac.
 

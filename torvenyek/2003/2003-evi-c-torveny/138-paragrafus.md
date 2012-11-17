@@ -24,4 +24,4 @@ c) az előfizetői szolgáltatás nyújtásával kapcsolatos viták rendezése v
 
 (9) Az előfizető kérésére a szolgáltatónak az adatkezelési szabályok figyelembevételével biztosítania kell, hogy az előfizető a kezelt adatok törléséig díjmentesen megismerhesse a fizetendő díj számításához szükséges forgalmazási és számlázási adatokra vonatkozó kimutatást.
 
-(10)
+(10) A szolgáltató telefonos ügyfélszolgálatára érkező előfizetői jogviszonyt érintő megkereséseket, panaszokat, valamint a szolgáltató és az előfizető közötti telefonos kommunikációt külön jogszabályban meghatározottak szerint a szolgáltatónak rögzítenie kell, és visszakereshető módon legalább egy évig meg kell őriznie.

@@ -1,4 +1,4 @@
-37/B. § (1) A 37/A. §-ban foglalt hatósági intézkedés során hatósági tanú jelenléte, igénybevétele szükséges.
+37/B. § (1)
 
 (2) Ha a Hivatal megítélése szerint szükséges, a hatósági intézkedés zavartalan lefolytatásának biztosítása érdekében a rendőrség közreműködését kérheti. A Hivatal, hatósági intézkedés keretében történő közreműködés tárgyában megküldött megkeresésére a rendőrség – a megkeresésben foglalt határidőn belül – köteles biztosítani a közreműködést. A 37/A. § (2) bekezdésében foglalt esetben, súlyos kárral fenyegető helyzet megelőzése érdekében, valamint nemzetbiztonsági érdekből vagy fontos közrendvédelmi, közbiztonsági okból azonnali hatósági intézkedés szükséges, a rendőrség – előzetes megkeresése nélkül – a Hivatal felkérésére azonnal, a Hivatal által megjelölt helyen és ideig köteles biztosítani a közreműködést.
 

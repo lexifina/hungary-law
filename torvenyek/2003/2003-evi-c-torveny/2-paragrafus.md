@@ -46,4 +46,4 @@ o) az elektronikus hírközlési szolgáltatásoknak Magyarország nemzetközi s
 
 p) a magyar elektronikus hírközlési piacok integrációja az Európai Közösség egységesülő elektronikus hírközlési piacaiba, különös tekintettel a transz-európai hálózatok létrehozására és fejlesztésére, valamint az összeurópai szolgáltatások együttműködési képességének, valamint a végponttól végpontig történő kapcsolatépítések ösztönzésére;
 
-q) az elektronikus hírközlés állami feladatai ellátásával kapcsolatos alapvető szabályok meghatározása, különös tekintettel az elektronikus hírközlés biztonságára, veszélyeztetettségére, a rendkívüli állapot, szükségállapot vagy veszélyhelyzet (a továbbiakban együtt: minősített időszak) idejére irányuló felkészítés rendjére.
+q) az elektronikus hírközlés állami feladatai ellátásával kapcsolatos alapvető szabályok meghatározása, különös tekintettel az elektronikus hírközlés biztonságára, veszélyeztetettségére, a rendkívüli állapot, szükségállapot vagy veszélyhelyzet (a továbbiakban együtt: különleges jogrend) idejére irányuló felkészítés rendjére.
