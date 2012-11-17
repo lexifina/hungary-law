@@ -38,7 +38,29 @@
 
 | 11 | Diklorofén (*) |  | 0,5% |  | Diklorofént tartalmaz |
 
-| 12 | Hidrogénperoxid és más olyan vegyületek, amelyekből hidrogénperoxid szabadul fel köztük a karbamidperoxid és cinkperoxid | a) Hajkezelő termékek b) Bőrápoló termékek c) Körömerősítő termék d) Szájhigiénés termékek | 12% H2O2 (40 tf%) jelen lévő vagy szabad 4% H2O2, jelen lévő vagy szabad 2% H2O2, jelen lévő vagy szabad 0,1% H2O2, jelen lévő vagy szabad |  | a) Megfelelő kesztyű használandó a) b) c) Hidrogénperoxidot tartalmaz Szembe ne kerüljön Szembe jutása esetén azonnal kiöblíteni |
+| 12. | Hidrogén-peroxid és egyéb olyan vegyületek vagy keverékek, melyekből hidrogén-peroxid szabadul fel, beleértve a karbamid- peroxidot és a cink-peroxidot | a) Hajápolási keverékek | a) 12% H2O2 (40 térfogat- százalék), szabad vagy felszabadult |  | Megfelelő kesztyű használandó! Hidrogén- peroxidot tartalmaz. |
+
+| Szembe ne kerüljön! |
+
+| Szembe jutása esetén azonnal kiöblíteni! |
+
+|  |  | b) Bőrápolási keverékek | b) 4% H2O2, szabad vagy felszabadult |  | Hidrogén- peroxidot tartalmaz. |
+
+|  |  |  |  |  | Szembe ne kerüljön! |
+
+|  |  |  |  |  | Szembe jutása esetén azonnal kiöblíteni! |
+
+|  |  | c) Körömerősítő keverékek | c) 2% H2O2, szabad vagy felszabadult |  | Hidrogén- peroxidot tartalmaz. |
+
+|  |  |  |  |  | Szembe ne kerüljön! |
+
+|  |  |  |  |  | Szembe jutása esetén azonnal kiöblíteni! |
+
+|  |  | d) Szájápolási termékek, beleértve a szájvizet, a fogkrémet és a fogfehérítő termékeket | d) ≤0,1% H2O2, szabad vagy felszabadult |  |  |
+
+|  |  | e) Fogfehérítő termékek | e) 0,1% < és ≤ 6% H2O2, szabad vagy felszabadult | e) Csak fogorvosok számára értékesíthető. Használata minden alkalmazási ciklusban első ízben fogorvos vagy fogszakorvos által, illetve fogorvos vagy fogszakorvos közvetlen felügyelete alatt és azonos biztonsági szint biztosítása mellett történhet. Ezután az alkalmazási ciklus hátralevő részére a fogyasztó rendelkezésére kell bocsátani. 18 éves kor alatt nem alkalmazható. | Hidrogén- peroxidot tartalmaz. Szembe ne kerüljön! Szembe jutása esetén azonnal kiöblíteni! A szabad vagy felszabadult H2O2 százalékban kifejezett koncentrációja. 18 éves kor alatt nem alkalmazható. Csak fogorvos, fogszakorvos számára értékesíthető. Használata minden alkalmazási ciklusban első ízben fogorvos, fogszakorvos által, illetve annak közvetlen felügyelete alatt és azonos biztonsági szint biztosítása mellett történhet. |
+
+|  |  |  |  |  | Ezután az alkalmazási ciklus hátralevő részére a fogyasztó rendelkezésére kell bocsátani. |
 
 | 13 | Formaldehid | Körömerősítő | 5% formaldehidre számítva |  | A körömágy zsírral, olajjal védendő Formaldehidet tartalmaz (2) |
 
