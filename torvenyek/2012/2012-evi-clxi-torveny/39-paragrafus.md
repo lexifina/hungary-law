@@ -1,0 +1,3 @@
+39. § (1) Hatályát veszti az Eht. 47. § (1) bekezdésében az „e törvényben meghatározott” szövegrész, a 119. § (2) bekezdésében az „, a lehető legkisebb nettó elkerülhető költség mellett” szövegrész, a 132. § (9) bekezdésében a „(vagy elhalálozás esetén az örökös)” szövegrész, a 132. § (9) bekezdésében az „, öröklés” szövegrész, a 134. § (14) bekezdésében a „szerződésből hátralévő napok számáról és a” szövegrész.
+
+(2) Hatályát veszti az Eht. 5. § (1) bekezdés j), k), 1), n), q) pontja, 37/B. § (1) bekezdése, a 118. § (1) bekezdése, a 119. § (3), (4) bekezdése, a 120. §-a, a 122. §-a, a 182. § (3) bekezdés 29., 30. pontja.
