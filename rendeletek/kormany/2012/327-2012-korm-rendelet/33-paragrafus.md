@@ -1,0 +1,35 @@
+## 21. Egyéni foglalkoztatási megállapodás
+
+33. § (1) A rehabilitációs szakigazgatási szerv munkavállalónként – rehabilitálható munkavállaló esetén a munkavállaló rehabilitációs terve alapján – megállapodást köt a munkáltatóval (a továbbiakban: egyéni foglalkoztatási megállapodás).
+
+(2) Az egyéni foglalkoztatási megállapodás tartalmazza
+
+a) az egyéni támogatással érintett munkavállaló természetes személyazonosító adatait,
+
+b) az egyéni támogatás kezdetét és időtartamát,
+
+c) az egyéni támogatás mértékének megállapítására vonatkozó szabályokat,
+
+d) a munkáltatónak az egyéni támogatással érintett munkavállaló rehabilitációs tervével összhangban megállapított foglalkozási rehabilitációs kötelezettségeit,
+
+e) az egyéni támogatással érintett munkavállaló munkakörét, munkarendjét,
+
+f) munkaidő-keretben történő foglalkoztatás esetén havi bontásban
+
+fa) a munkaidő-keretben meghatározott munkaórák számát,
+
+fb) az átlagos napi munkavégzés időtartamát.
+
+(3) Az egyéni foglalkoztatási megállapodás hatályát veszti, ha
+
+a) a komplex minősítés alapján megállapításra kerül, hogy a munkavállaló nem minősül rehabilitálhatónak vagy az 1. § 6. pont 6.2. alpontja szerinti megváltozott munkaképességű személynek,
+
+b) az egyéni támogatás időtartama letelik vagy
+
+c) az egyéni foglakoztatási megállapodással érintett munkavállaló munkaviszonya megszűnik vagy a munkaviszonyt megszüntetik.
+
+(4) A rehabilitációs szakigazgatási szerv a munkáltatót a (3) bekezdés a) pontja szerinti döntéséről a döntéssel egyidejűleg tájékoztatja.
+
+(5) A rehabilitációs szakigazgatási szerv az egyéni foglalkoztatási megállapodást azonnali hatállyal felmondja, ha az egyéni foglalkoztatási megállapodással érintett munkavállaló a rehabilitációs tervben foglalt kötelezettségét ismételten, súlyosan megszegi, és ezzel a rehabilitációs terv megvalósítását akadályozza.
+
+(6) Az egyéni foglalkoztatási megállapodás megszűnésére, felmondására a keretszerződésre megállapított szabályokat alkalmazni kell.

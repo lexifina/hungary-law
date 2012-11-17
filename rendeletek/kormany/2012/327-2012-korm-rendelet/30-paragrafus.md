@@ -1,0 +1,23 @@
+30. § (1) A keretszerződés megszűnik
+
+a) a szerződés időtartamának leteltével,
+
+b) a munkáltató jogutód nélküli megszűnésével,
+
+c) a rehabilitációs akkreditációs tanúsítvány visszavonásával,
+
+d) felmondással.
+
+(2) A Hivatal a keretszerződést azonnali hatállyal felmondhatja, ha
+
+a) az ellenőrzés során megállapítást nyer, hogy a munkáltató a jogszabályi, illetve szerződéses kötelezettségét nem teljesíti,
+
+b) a munkáltatóval szemben a keretszerződés megkötését követően csőd-, végrehajtási vagy adósságrendezési eljárás indul,
+
+c) az ellenőrzés során megállapítást nyer, hogy a munkáltató jogszabályi vagy szerződéses kötelezettségét súlyosan vagy ismételten megszegi.
+
+(3) A Hivatal a keretszerződést azonnali hatállyal felmondja, ha
+
+a) a munkáltatóval szemben a keretszerződés megkötését követően felszámolási, végelszámolási, kényszertörlési eljárás indul,
+
+b) a munkáltató a pályázatában vagy az ahhoz csatolt iratokban szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott, feltéve, hogy a valós adatok, tények, körülmények ismeretében a pályázat nem került volna támogatásra.
