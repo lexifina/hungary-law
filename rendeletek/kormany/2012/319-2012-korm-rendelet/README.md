@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-319-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-11-16 | 2012-319-20-22.1 | 319/2012. (XI. 13.) Korm. rendelet |
+| 2012-11-17 | 2012-319-20-22.2 | 2010: CXXX. törvény |
