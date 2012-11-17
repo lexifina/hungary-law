@@ -1,3 +1,0 @@
-## 17. § A szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények ágazati azonosítójáról és országos nyilvántartásáról szóló 226/2006. (XI. 20.) Korm. rendelet 13/H. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Ha az adatszolgáltatásra jogosultak önellenőrzéssel, valamint szükség esetén a jogosulatlanul nyújtott szolgáltatás megszüntetésével az (1) bekezdés szerinti jogosulatlan adatrögzítést a felhívást követő három munkanapon belül nem szüntetik meg, a Hivatal a később rögzített napi jelentést erre vonatkozó megjegyzéssel látja el, és erről értesíti a Magyar Államkincstár illetékes igazgatóságát, valamint az igénybevevői nyilvántartás rendszerén keresztül az adatszolgáltatásra jogosultakat.”

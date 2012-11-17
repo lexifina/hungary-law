@@ -1,3 +1,0 @@
-## „(7) Ha a fenntartó a (6) bekezdés a)–c) pontja szerinti iratokat, illetve a (6) bekezdés d) pont da), illetve db) alpontja szerinti hatósági bizonyítványt nem csatolja, azokat az egyéni vállalkozók nyilvántartását vezető szervtől, a bíróságtól, illetve az egyházak nyilvántartásából az igazgatóság szerzi be.
-
-## (8) Az adatváltozást – a változást követő tizenöt napon belül – az adatváltozással érintett, (6) bekezdés szerinti iratokat mellékelve be kell jelenteni az igazgatóságnak. Ha a fenntartó az adatváltozás bejelentése során a (6) bekezdés a)–c) pontja szerinti iratokat, illetve a (6) bekezdés d) pont da), illetve db) alpontja szerinti hatósági bizonyítványt nem csatolja, azokat az igazgatóság a (7) bekezdésben foglaltak szerint szerzi be.”

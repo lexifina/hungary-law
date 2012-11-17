@@ -1,1 +1,0 @@
-## „Az önellenőrzéssel egyidejűleg új ellátott rögzítésére a 13/E. § (1c) bekezdése szerinti esetben van lehetőség, a napi igénybevétel tényén túl egyéb adatot módosítani csak a 13/E. §-ban foglaltak szerint lehet.”

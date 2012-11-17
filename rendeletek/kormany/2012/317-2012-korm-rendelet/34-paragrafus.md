@@ -1,3 +1,5 @@
-## 33. § Hatályát veszti az egyházi és nem állami fenntartású szociális, gyermekjóléti és gyermekvédelmi szolgáltatók normatív állami támogatásáról szóló 213/2009. (IX. 29.) Korm. rendelet 2. § (3) bekezdésének harmadik mondata.
+## 28–33. §[^10]
 
 ## 7. A szociális szolgáltatók és intézmények működésének engedélyezéséről és ellenőrzéséről szóló 321/2009. (XII. 29.) Korm. rendelet módosítása
+
+[^10]: A 28–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,0 @@
-## „h) a (6) bekezdés g) pont ga) vagy gb) alpontja szerinti hatósági bizonyítványt, a működést engedélyező szerv az egyházak nyilvántartásából szerzi be, illetve ellenőrzi az egyház, belső egyházi jogi személy nyilvántartásba vett adatait.”
