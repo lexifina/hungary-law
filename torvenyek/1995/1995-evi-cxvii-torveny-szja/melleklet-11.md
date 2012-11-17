@@ -687,5 +687,3 @@ IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiad�
 13. a vissza nem térítendő munkáltatói támogatás, ide nem értve a magánszemélynek segély címén juttatott összeget;
 
 14. a magánszemély bevétele (jövedelme) után külföldön megfizetett, a személyi jövedelemadónak megfelelő adó.
-
-15. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére a vállalkozó által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.
