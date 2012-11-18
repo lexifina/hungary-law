@@ -1,1 +1,0 @@
-45. § A Dtv. 44/A. § (6) bekezdésében a „jegyzőjétől” szövegrész helyébe a „jegyzőjétől, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalától” szöveg, a 44/A. § (11) bekezdésében a „valamint a (6) bekezdés a) és b) pontjában” szövegrész helyébe az „a (6) bekezdés a) és b) pontjában, valamint a (6a) bekezdés a), b) és c) pontjában” szöveg lép.

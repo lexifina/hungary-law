@@ -1,3 +1,0 @@
-10. § Az Eht. 118. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az egyetemes szolgáltatót a 117. § a) pontja szerinti egyetemes szolgáltatás vonatkozásában – jogszabályban meghatározott kivételekkel – szerződéskötési kötelezettség terheli az – Elnök egyetemes szolgáltatással összefüggő szabályokról szóló rendeletében meghatározott – egyetemes szolgáltatási területén állandó lakóhellyel, székhellyel, telephellyel rendelkező felhasználónak az egyetemes szolgáltatás igénybevételére vonatkozó, jogszabályban meghatározott módon bejelentett szándéka esetén, felhasználónként egy hozzáférés biztosítására.”

@@ -1,1 +1,0 @@
-38. § Az Eht. 10. § (1) bekezdés 16. pontjában a „működtetésével kapcsolatos,” szövegrész helyébe a „jogutódjaként a” szöveg, a 21. § (7) bekezdésében a „134. § (14) bekezdésének első mondatában” szövegrész helyébe a „134. § (14) bekezdésének második mondatában” szöveg lép.
