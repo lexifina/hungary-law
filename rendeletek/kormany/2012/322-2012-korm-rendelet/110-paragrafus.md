@@ -1,4 +1,4 @@
-## 109. §[^49]
+## 109. §[^52]
 
 ## 18. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 7. § (2) bekezdése, a 10–11. §, az 56. § (3) bekezdése, az 57. § (3) bekezdése, az 58. §, a 60. §, a 63. §, a 68–69. §, a 71. § (2) bekezdése, a 73. §, a 74. § (2) bekezdése, a 76. §, a 79–84. §, a 93. § b) és n) pontja, a 105–107. § és a 2. melléklet 2013. július 1-jén lép hatályba.
 
-[^49]: A 109. § a 110. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^52]: A 109. § a 110. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.

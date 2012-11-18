@@ -1,3 +1,3 @@
-## 61–62. §[^22]
+## 61–62. §[^23]
 
-[^22]: A 61–62. § a 110. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^23]: A 61–62. § a 110. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.

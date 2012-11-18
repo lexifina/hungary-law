@@ -1,3 +1,3 @@
-## 58. §[^19]
+## 58. §[^20]
 
-[^19]: Az 58. § a 110. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^20]: Az 58. § a 110. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
