@@ -1,3 +1,5 @@
+## 56–58. §[^9]
+
 1. melléklet a 327/2012. (XI. 16.) Korm. rendelethez
 
 ## A rehabilitációs tanácsadó és a rehabilitációs mentor képesítési előírásai
@@ -59,3 +61,5 @@ d) Az a)–c) pontban meg nem jelölt, de ugyanazon szakterületeken az e mellé
 2. Gyakorlati idő:
 
 Megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatónál eltöltött, rehabilitációs tanácsadó esetén három év, rehabilitációs mentor esetén egy év szakmai gyakorlat.
+
+[^9]: Az 56–58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
