@@ -1,0 +1,27 @@
+## 11. Az együttműködési bizottság
+
+13. § (1) A donor partnerségi program esetén a program operátor együttműködési bizottságot állít fel.
+
+(2) Az együttműködési bizottság a program előkészítését és végrehajtását támogató tanácsadó testület.
+
+(3) Az együttműködési bizottságba tagot delegál a program operátor, a donor program partnerek, továbbá az együttműködési megállapodásokban esetlegesen meghatározott vagy a program operátor által felkért további szervezetek.
+
+(4) Az együttműködési bizottság munkájában tanácskozási joggal vesznek részt a donor országok, a nemzeti kapcsolattartó, a fejlesztéspolitikáért felelős miniszter, a végrehajtó ügynökség, valamint a program operátor által felkért további szervezetek képviselői.
+
+(5) Az együttműködési bizottság ülését a program operátor vezeti.
+
+(6) Az együttműködési bizottság munkanyelve az angol.
+
+(7) Az együttműködési bizottság
+
+a) javaslatot tesz a pályázati kiírások tartalmára és értékelési szempontrendszerére,
+
+b) javaslatot tesz lehetséges donor projekt partnerekre,
+
+c) értékeli a program előrehaladását a célkitűzések és várt eredmények tekintetében,
+
+d) vizsgálja a program végrehajtásának eredményeit,
+
+e) megvitatja az éves program jelentéseket,
+
+f) javaslatot tesz a program operátor részére a program módosítására a program eredményeinek fokozása érdekében.

@@ -1,0 +1,9 @@
+77. § (1) A támogatást igénylő, illetve a kedvezményezett a Kbt. szerinti bontási eljárás időpontjáról legalább 15 nappal korábban tájékoztatja a hitelesítést végző szervet. A hitelesítést végző szerv a közbeszerzési eljárásba – a támogatást igénylő, illetve a kedvezményezett tájékoztatása alapján – megfigyelőt jelöl, erről a támogatást igénylőt, illetve a kedvezményezettet egyidejűleg értesíti.
+
+(2) A megfigyelő az eljárásban a bíráló bizottsági üléseken való személyes részvétellel, illetve a közbeszerzési eljárás iratainak vizsgálatával jogosult részt venni.
+
+(3) A támogatást igénylő, illetve a kedvezményezett a megfigyelőt a közbeszerzési eljárás lefolytatása során valamennyi eljárási cselekményről megfelelő időben írásban tájékoztatja, illetve az eljárás során keletkezett dokumentumokat, különösen a felvett jegyzőkönyveket, az egyes eljárási cselekményekhez kapcsolódó dokumentumokat, jogorvoslat esetén az azzal összefüggésben keletkezett dokumentumokat, valamint az ajánlatkérői döntéseket, döntési javaslatokat tartalmazó dokumentumokat a megfigyelő részére haladéktalanul megküldi.
+
+(4) A hitelesítést végző szerv az írásbeli összegezés megküldését megelőzően, több szakaszból álló eljárás esetén valamennyi eljárási szakasz vonatkozásában – a (3) bekezdés szerinti dokumentumok kézhezvételét követő 15 napon belül – közbeszerzési szabályossági tanúsítványt állít ki, amelyet megküld a támogatást igénylő, illetve a kedvezményezett részére.
+
+(5) A támogatást igénylő, illetve a kedvezményezett közbeszerzési eljárást lezáró döntését akkor hozhatja meg, ha a hitelesítést végző szerv az eljárás lefolytatását ellenőrizte és erről közbeszerzési szabályossági tanúsítványt állított ki. A közbeszerzési eljárást lezáró döntést meghozó személy vagy testület a Kbt. szerinti írásbeli szakvélemény és döntési javaslat, valamint a közbeszerzési szabályossági tanúsítványban foglaltak figyelembevételével hozza meg az eljárást lezáró döntését.

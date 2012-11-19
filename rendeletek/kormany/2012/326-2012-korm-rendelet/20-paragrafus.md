@@ -1,0 +1,1 @@
+## 19. § E rendelet rendelkezéseinek vélelmezett megsértése esetén a nemzeti kapcsolattartó általa meghatározott, honlapján közzétett módon lehet kifogással élni. A benyújtott kifogásnak az e rendeletben meghatározott eljárások tekintetében – ha jogszabály eltérően nem rendelkezik – halasztó hatálya nincs.

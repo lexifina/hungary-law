@@ -1,0 +1,1 @@
+## 103. § Az ellenőrzési hatóság részére korlátlan hozzáférést kell biztosítani a lebonyolítás során beérkezett, illetve keletkezett dokumentumokhoz, valamint a finanszírozási mechanizmusok lebonyolítását támogató informatikai rendszerekben tárolt adatokhoz.

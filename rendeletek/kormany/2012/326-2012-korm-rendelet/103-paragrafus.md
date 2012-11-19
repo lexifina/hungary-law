@@ -1,0 +1,1 @@
+## 102. § Az NFÜ, az igazoló hatóság és a program szintű szervek belső ellenőrzését biztosítani kell, melynek tekintetében az Áht. és a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló kormányrendelet előírásait kell alkalmazni.

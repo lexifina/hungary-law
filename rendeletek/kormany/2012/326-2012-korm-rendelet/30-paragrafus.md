@@ -1,0 +1,7 @@
+## 16. A támogatás-igénylés
+
+30. § (1) Az egyes programok keretében támogatás igénylésére jogosult lehet bármely Magyarországon bejegyzett jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, költségvetési szerv, nonprofit szervezet, valamint Magyarországon működő kormányközi szervezet.
+
+(2) Magyarország vagy a donor országok állampolgárai az ösztöndíj programban, illetve bármely más program ösztöndíjak nyújtására irányuló komponensében lehetnek jogosultak támogatást igényelni. Kutatási program ösztöndíj komponensében, ha az adott pályázati felhívás ezt kifejezetten lehetővé teszi, az EU tagállamok vagy az EU hetedik keretprogramjához társult államok állampolgárai is jogosultak lehetnek támogatást igényelni.
+
+(3) Az (1) és (2) bekezdésben meghatározott, támogatás igénylésére jogosultak körét a pályázati felhívás korlátozhatja.

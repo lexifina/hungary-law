@@ -1,0 +1,1 @@
+## 123. § A szabálytalanság-felelős a szabálytalansági eljárás eredményét a döntéshozataltól számított 5 napon belül rögzíti az informatikai rendszerben, egyúttal a döntésről értesíti a kedvezményezettet és a nemzeti kapcsolattartót. Az informatikai rendszer működésének hiánya esetén gondoskodni kell az adatok informatikai rendszerben történő utólagos rögzítéséről.
