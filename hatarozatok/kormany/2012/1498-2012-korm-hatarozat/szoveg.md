@@ -18,4 +18,6 @@ közigazgatási és igazságügyi miniszter
 
 Határidő: a Fővárosi Törvényszék határozatának jogerőre emelkedését követően azonnal
 
-3. Ez a határozat a közzétételét követő 5. napon lép hatályba, egyidejűleg hatályát veszti a Hadigondozottak Közalapítványa létrehozásáról szóló 1116/1994. (XII. 9.) Korm. határozat módosításáról szóló 2314/2000. (XII. 20.) Korm. határozat.
+3.[^2] Ez a határozat a közzétételét követő 5. napon lép hatályba,
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
