@@ -858,6 +858,14 @@
 
 | 44 | TFMPP | 1-[3-(trifluoromethyl)phenyl]piperazine |
 
+| 45. | UR-144 | (1-pentyl-1H-indol-3-yl)-(2,2,3,3- tetramethyl-cyclopropyl)methanone |
+
+| 46. | 5FUR-144 (XLRI1) | [1-(5 -fluoropentyl)- 1H-indol-3-y1](2,2,3,3- tetramethyl-cyclopropyl)methanone |
+
+| 47. | STS-135 | 1-(5-fluoropentyl)-N-(tricyclo[3.3.1.13,7]dec-1-yl)-1H-indole-3-carboxamide, N-(1-adamantyl)-1-(5-fluoropentyl)-1H-indo1e-3-carboxamide |
+
+| 48. | AKB 48 | 1-pentyl-N-(tricyclo[3.3.1.13,7]dec-1-yl)-1H-indazole-3-carboxamide, N-(1-adamantyl)-1-pentyl-1H-indazole-3-carboxamide |
+
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek;
 
 ## – az ebben a jegyzékben felsorolt anyagok sói, beleértve a fent említett sztereoizomerek sóit, amennyiben ilyen sók léteznek.
