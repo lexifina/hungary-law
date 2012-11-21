@@ -1,3 +1,1 @@
-## 18. §[^8]
-
-[^8]: A 18. § a 20. § (2) bekezdése alapján 2012. november 21-én lép hatályba.
+## 18. § Hatályát veszti a nemzeti vérkészlettel való gazdálkodás szabályairól szóló 114/2000. (VI. 29.) Korm. rendelet.

@@ -1,3 +1,1 @@
-## 14. §[^4]
-
-[^4]: A 14. § a 20. § (2) bekezdése alapján 2012. november 21-én lép hatályba.
+## 14. § Az Országos Vérellátó Szolgálatról szóló 323/2006. (XII. 23.) Korm. rendelet (a továbbiakban: R2.) Melléklete a 2. melléklet szerint módosul.
