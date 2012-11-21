@@ -1,4 +1,4 @@
-17. §[^4] (1) Beavatkozással nem járó vizsgálatot végezni
+17. §[^5] (1) Beavatkozással nem járó vizsgálatot végezni
 
 a) a 16. § b) pont ba)–bb) alpontjában említett vizsgálatok és kutatások esetében az ETT TUKEB szakmai-etikai engedélyének birtokában lehet;
 
@@ -22,4 +22,4 @@ c) az ETT-TUKEB etikai engedélyének másolatát,
 
 d) a vizsgálat lefolytatása során alkalmazott valamennyi dokumentum eredeti és magyar nyelvű változatát.
 
-[^4]: A 17. § a 137/2012. (VI. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^5]: A 17. § a 137/2012. (VI. 29.) Korm. rendelet 55. §-ával megállapított szöveg.

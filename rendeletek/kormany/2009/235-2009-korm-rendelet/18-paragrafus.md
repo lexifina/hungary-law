@@ -1,4 +1,4 @@
-18. §[^5] (1) A 16. § b) pont ba)–bb) alpontjában említett vizsgálatok és kutatások esetében a megbízó az engedély iránti kérelmet az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltak szerint nyújtja be az ETT TUKEB-hez.
+18. §[^6] (1) A 16. § b) pont ba)–bb) alpontjában említett vizsgálatok és kutatások esetében a megbízó az engedély iránti kérelmet az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltak szerint nyújtja be az ETT TUKEB-hez.
 
 (2) A 16. § b) pont ba)–bb) alpontjában említett vizsgálatok és kutatások esetében az engedély iránti kérelem elbírálása során az ETT TUKEB értékeli, hogy
 
@@ -24,7 +24,7 @@ b) a vizsgálat kialakítása teljesíti-e a vizsgálat célkitűzéseit,
 
 c) a vizsgálat nem minősül-e klinikai vizsgálatnak,
 
-d) erre irányuló kérelem esetén, a végső vizsgálati jelentés a vizsgálat befejezését követő 12 hónapot követő mely későbbi időpontban nyújtandó be.
+d)[^7]
 
 (5) A 17. § (1) bekezdés b) pont ba) alpontjában említett vizsgálat esetében a GYEMSZI megkeresésére az ETT TUKEB szakhatóságként vizsgálja a (6) bekezdés a)–c) pontjában foglaltakat.
 
@@ -38,4 +38,5 @@ c) a vizsgálat a vizsgálat alá vont személy jogait nem sérti-e,
 
 d) a vizsgálat tudományosan megalapozott-e.
 
-[^5]: A 18. § a 137/2012. (VI. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^6]: A 18. § a 137/2012. (VI. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^7]: A 18. § (4) bekezdés d) pontját a 308/2012. (XI. 6.) Korm. rendelet 13. § (1) bekezdés c) pontja hatályon kívül helyezte.

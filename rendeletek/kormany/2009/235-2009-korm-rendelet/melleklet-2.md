@@ -1,5 +1,3 @@
-## 42. §[^24] A 2011. május 1-jét megelőzően rendelkezésre álló 37/A. § szerinti adatokat az Egészségügyi Engedélyezési és Közigazgatási Hivatal legkésőbb 2012. április 30-ig továbbítja az Európai Adatbankba.
-
 ## Melléklet a 235/2009. (X. 20.) Korm. rendelethez
 
 ## A klinikai vizsgálat végzése iránti kérelemhez mellékelendő nyilatkozatok, dokumentumok és információk listája
@@ -146,7 +144,7 @@
 
 ## 19. Multicentrikus vizsgálat esetén – amennyiben van – az EGT-megállapodásban részes állam etikai bizottsága által a vizsgálatról már kiadott vélemény
 
-2. melléklet a 235/2009. (X. 20.) Korm. rendelethez[^25]
+2. melléklet a 235/2009. (X. 20.) Korm. rendelethez[^29]
 
 |  | A | B |
 
@@ -190,5 +188,4 @@
 
 | 19. | Zala megye | Zala Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
 
-[^24]: A 42. §-t a 73/2011. (IV. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^25]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 259. § (2) bekezdése iktatta be, szövege a 137/2012. (VI. 29.) Korm. rendelet 60. §-a szerint módosított szöveg.
+[^29]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 259. § (2) bekezdése iktatta be, szövege a 137/2012. (VI. 29.) Korm. rendelet 60. §-a szerint módosított szöveg.
