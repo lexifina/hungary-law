@@ -22,8 +22,10 @@ d) a támogatási összeget a megjelölt eszköz beszerzésére használták-e f
 
 e) az eszközt indokoltan és dokumentáltan a praxisba bejelentett betegek vizsgálatára, kezelésére használták-e fel.
 
-(6) Az (5) bekezdésben foglaltakat az OEP helyszíni ellenőrzés keretében is ellenőrzi.
+(6)[^2] Az (5) bekezdésben foglaltakat – a támogatás megszűnését követő három hónapon belül – az OEP helyszíni ellenőrzés keretében is ellenőrzi.
 
 (7) Amennyiben az ellenőrzés megállapítja, hogy a háziorvosi szolgáltató a támogatást nem az e rendeletben foglaltaknak megfelelően használta fel, az OEP intézkedik a támogatásra kötött szerződés felmondása iránt.
 
 (8) A háziorvosi szolgáltató a támogatást lemondhatja az OEP-nek a lemondani szándékozott támogatás folyósítását megelőző hónap 10-éig megküldött lemondó nyilatkozattal.
+
+[^2]: A 3. § (6) bekezdése a 308/2012. (XI. 6.) Korm. rendelet 15. §-ával megállapított szöveg.

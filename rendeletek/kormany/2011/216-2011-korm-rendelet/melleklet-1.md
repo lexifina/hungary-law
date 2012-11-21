@@ -1,6 +1,6 @@
-## 6. §[^2] Az egyes egészségbiztosítási és egészségügyi tárgyú kormányrendeletek módosításáról szóló 325/2011. (XII. 28.) Korm. rendelettel megállapított 1. § (1) bekezdés a) pontjában foglaltakat a 2012. január 1-jét megelőzően már benyújtott kérelmek esetében is alkalmazni kell.
+## 6. §[^3] Az egyes egészségbiztosítási és egészségügyi tárgyú kormányrendeletek módosításáról szóló 325/2011. (XII. 28.) Korm. rendelettel megállapított 1. § (1) bekezdés a) pontjában foglaltakat a 2012. január 1-jét megelőzően már benyújtott kérelmek esetében is alkalmazni kell.
 
-1. melléklet a 216/2011. (X. 19.) Korm. rendelethez[^3]
+1. melléklet a 216/2011. (X. 19.) Korm. rendelethez[^4]
 
 ## A támogatással beszerezhető eszközök listája
 
@@ -138,5 +138,5 @@ __________
 
 ** Ideértve: asztali számítógép és annak tartozékai, monitor, vonalkód nyomtatására alkalmas nyomtató/másoló, szkenner, online adatközlő, illetve fogadó interface, hardver, szakmai (orvosi és védőnői) és felhasználói szoftver, betegnyilvántartási, kezelési program és az itt felsoroltak hordozható változatai (például: laptop).
 
-[^2]: A 6. §-t a 325/2011. (XII. 28.) Korm. rendelet 99. §-a iktatta be.
-[^3]: Az 1. melléklet a 325/2011. (XII. 28.) Korm. rendelet 100. §-a szerint módosított szöveg.
+[^3]: A 6. §-t a 325/2011. (XII. 28.) Korm. rendelet 99. §-a iktatta be.
+[^4]: Az 1. melléklet a 325/2011. (XII. 28.) Korm. rendelet 100. §-a szerint módosított szöveg.
