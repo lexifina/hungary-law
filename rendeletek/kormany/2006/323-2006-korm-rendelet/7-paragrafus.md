@@ -6,11 +6,11 @@ Melléklet a 323/2006. (XII. 23.) Korm. rendelethez
 
 Regionális vérellátó központok
 
-1. A Budai és Pesti Regionális Vérellátó Központ (székhelye: Budapest, Karolina u. 19–21.),
+1.[^4] Közép-magyarországi Regionális Vérellátó Központ (székhelye: Budapest, Karolina u. 19–21.),
 
 2. A Győri Regionális Vérellátó Központ (székhelye: Győr, Magyar u. 8.),
 
-3. A Veszprémi Regionális Vérellátó Központ (székhelye: Veszprém, Mártírok u. 5.),
+3.[^5]
 
 4. A Pécsi Regionális Vérellátó Központ (székhelye: Pécs, Dischka Gy. u. 7.),
 
@@ -19,3 +19,5 @@ Regionális vérellátó központok
 6. A Debreceni Regionális Vérellátó Központ (székhelye: Debrecen, Bem tér 19.).
 
 [^3]: A 7. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 194. pontja hatályon kívül helyezte.
+[^4]: A Melléklet 1. pontja a 308/2012. (XI. 6.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^5]: A Melléklet 3. pontját a 308/2012. (XI. 6.) Korm. rendelet 14. §-a hatályon kívül helyezte.
