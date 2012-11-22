@@ -52,11 +52,11 @@
 
 ## Határidő: folyamatosan
 
-## 6. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a 2014–20 közötti uniós költségvetési időszak előkészítése érdekében az uniós tárgyalásokat vezető miniszteri biztos kinevezéséről.
+## 6.[^1] A Kormány felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a 2014–20 közötti uniós költségvetési időszak előkészítése érdekében az uniós tárgyalásokban közreműködő miniszteri biztos kinevezéséről.”
 
-## Felelős: nemzeti fejlesztési minisztert
+## Felelős: nemzeti fejlesztési miniszter
 
-## Határidő: 2012. október 31.
+## Határidő: 2012. november 30.
 
 ## 7. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy készítsen jelentést az operatív programok elindításához szükséges előzetes feltételek (ex-ante kondicionalitások) teljesülésének helyzetéről.
 
@@ -107,3 +107,5 @@ Az operatív programok tématerületeinek indikatív megnevezése
 | 6. Területi fejlesztések - Közép-Magyarország |
 
 | 7. Technikai segítségnyújtás |
+
+[^1]: A 6. pont az 1517/2012. (XI. 22.) Korm. határozat 1. pontjával megállapított szöveg.
