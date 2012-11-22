@@ -4,4 +4,6 @@
 
 (2) A rendelet hatálybalépésével egyidejűleg hatályát veszti a kéknyelv betegség elleni védekezés szabályairól szóló 35/2002. (IV. 27.) FVM rendelet.
 
-(3) Az állatbetegségek bejelentésének rendjéről szóló 113/2008. (VIII. 30.) FVM rendelet 1. számú melléklete A. pontjának 10. pontja helyébe a következő szöveg lép:
+(3)[^42]
+
+[^42]: A 21. § (3) bekezdését a 117/2012. (XI. 21.) VM rendelet 10. § (5) bekezdés b) pontja hatályon kívül helyezte.

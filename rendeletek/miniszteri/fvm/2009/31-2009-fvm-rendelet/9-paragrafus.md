@@ -67,3 +67,7 @@ e) az állatok behozatala vagy kivitele a gazdaságból;
 f) az állati tetemek ártalmatlanítása.
 
 (5) A hatósági állatorvos intézkedik a korlátozás alá vont területről érkezett, karanténba helyezett állatokból a betegség megállapítására irányuló mintavételről és a minták NRL-be küldéséről.
+
+(6)[^9] A hatósági állatorvos az 1266/2007/EK rendelet II. melléklet 1. pontjában meghatározott kórokozó-átvivőtől védett létesítményekben, ugyanezen melléklet 2. pontjának megfelelően rendszeresen ellenőrzi a végrehajtott intézkedések eredményességét.
+
+[^9]: A 9. § (6) bekezdését a 117/2012. (XI. 21.) VM rendelet 3. §-a iktatta be.

@@ -1,16 +1,16 @@
-## Az MgSzH területi szervének feladatai
+## Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság feladatai[^13]
 
-11. § (1) Az MgSzH területi szerve a kéknyelv betegség gyanújáról vagy előfordulásáról történő értesülés esetén:
+11. § (1)[^14] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a kéknyelv betegség gyanújáról vagy előfordulásáról történő értesülés esetén:
 
-a) haladéktalanul jelentést tesz az MgSzH Központnak;
+a)[^15] haladéktalanul jelentést tesz a NÉBIH-nek;
 
 b) ellenőrzi a kerületi főállatorvos intézkedéseit, szükség esetén azokat kiegészíti vagy módosítja;
 
-c) ha a betegség más megyéből származik, vagy ennek gyanúja merül fel, illetve fertőzésének lehetősége áll fenn, értesíti az MgSzH azon területi szervét, amelynek az illetékességébe az érintett megye tartozik.
+c)[^16] ha a betegség más megyéből származik, vagy ennek gyanúja merül fel, illetve fertőzésének lehetősége áll fenn, értesíti azon élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot, amelynek az illetékességébe az érintett megye tartozik.
 
-(2) A kéknyelv betegség hatósági megállapítása esetén az MgSzH területi szervének vezetője felállítja a HJK-t, mely a készenléti tervben leírtak szerint látja el feladatait.
+(2)[^17] A kéknyelv betegség hatósági megállapítása esetén az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vezetője felállítja a HJK-t, mely a készenléti tervben leírtak szerint látja el feladatait.
 
-(3) A kéknyelv betegség hatósági megállapítása esetén az MgSzH területi szerve köteles:
+(3)[^18] A kéknyelv betegség hatósági megállapítása esetén az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság köteles:
 
 a) a kórokozó átvivők irtását elrendelni a telepen, illetve, amennyiben szükségesnek ítéli, a telep körül;
 
@@ -26,13 +26,13 @@ f) az elkülönített módon levágott állatok feldolgozási helyét, a szüks�
 
 g) a betegség leküzdéséhez szükséges kellő számú állatorvos és kisegítő személyzet kirendeléséről, valamint a szükséges eszközökről és felszerelésekről gondoskodni;
 
-h) a betegség helyzetéről a kerületi főállatorvos jelentése alapján nyilvántartást vezetni, és azt az MgSzH Központnak hetente megküldeni.
+h)[^19] a betegség helyzetéről a kerületi főállatorvos jelentése alapján nyilvántartást vezetni, és azt a NÉBIH-nek hetente megküldeni.
 
-(4) Az MgSzH területi szerve
+(4)[^20] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság
 
 a) a 10. § (3) bekezdésének a) pontjában említett 20 km sugarú körzet kiterjedését növelheti vagy csökkentheti a járványügyi, földrajzi, ökológiai vagy meteorológiai viszonyok alapján;
 
-b) amennyiben a 10. § (3) bekezdésének a) pontjában említett 20 km sugarú körzet más megye területére is kiterjed, értesíti az MgSzH azon területi szervét, amelynek az illetékességébe az érintett megye tartozik;
+b)[^21] amennyiben a 10. § (3) bekezdésének a) pontjában említett 20 km sugarú körzet más megye területére is kiterjed, értesíti azon élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot, amelynek az illetékességébe az érintett megye tartozik;
 
 c) amennyiben a 10. § (3) bekezdésének a) pontjában említett 20 km sugarú körzet más tagállam területére is kiterjed, együttműködik az érintett tagállamok illetékes hatóságaival;
 
@@ -40,7 +40,7 @@ d) a 9. §-ban részletezett intézkedések alkalmazását a 20 km-es zónán k�
 
 e) a természetvédelmi területekre – a Bizottság jóváhagyása után – meghatározhat egyéb járványügyi rendelkezéseket.
 
-(5) A védő- és megfigyelési körzetben az MgSzH területi szerve:
+(5)[^22] A védő- és megfigyelési körzetben az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság:
 
 a) azonosítja az állattartókat a korlátozás alá vont körzeten belül és róluk nyilvántartást vezet;
 
@@ -48,4 +48,16 @@ b) az 1266/2007/EK rendeletben meghatározottak szerint ellenőrzési programot 
 
 c) minden szükséges intézkedést megtesz a korlátozás alá vont körzeten belüli valamennyi személynek a hatályos korlátozásokról történő megfelelő tájékoztatására, és az érintett személyekre vonatkozó előírások megfelelő foganatosítására.
 
-(6) A korlátozás alá vont területeken kívül az MgSzH területi szerve az 1266/2007/EK rendeletben meghatározottak szerint végrehajtja a kéknyelv betegségre vonatkozó megfigyelési (surveillance) programot.
+(6)[^23] A korlátozás alá vont területeken kívül az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság az 1266/2007/EK rendeletben meghatározottak szerint végrehajtja a kéknyelv betegségre vonatkozó megfigyelési (surveillance) programot.
+
+[^13]: A 11. §-t megelőző alcím a 117/2012. (XI. 21.) VM rendelet 8. § j) pontja szerint módosított szöveg.
+[^14]: A 11. § (1) bekezdés nyitó szövegrésze a 117/2012. (XI. 21.) VM rendelet 8. § l) pontja szerint módosított szöveg.
+[^15]: A 11. § (1) bekezdés a) pontja a 117/2012. (XI. 21.) VM rendelet 8. § m) pontja szerint módosított szöveg.
+[^16]: A 11. § (1) bekezdés c) pontja a 117/2012. (XI. 21.) VM rendelet 8. § n) pontja szerint módosított szöveg.
+[^17]: A 11. § (2) bekezdése a 117/2012. (XI. 21.) VM rendelet 8. § j) pontja szerint módosított szöveg.
+[^18]: A 11. § (3) bekezdés nyitó szövegrésze a 117/2012. (XI. 21.) VM rendelet 8. § l) pontja szerint módosított szöveg.
+[^19]: A 11. § (3) bekezdés h) pontja a 117/2012. (XI. 21.) VM rendelet 8. § m) pontja szerint módosított szöveg.
+[^20]: A 11. § (4) bekezdés nyitó szövegrésze a 117/2012. (XI. 21.) VM rendelet 8. § l) pontjával megállapított szöveg.
+[^21]: A 11. § (4) bekezdés b) pontja a 117/2012. (XI. 21.) VM rendelet 8. § n) pontja szerint módosított szöveg.
+[^22]: A 11. § (5) bekezdés nyitó szövegrésze a 117/2012. (XI. 21.) VM rendelet 8. § l) pontja szerint módosított szöveg.
+[^23]: A 11. § (6) bekezdése a 117/2012. (XI. 21.) VM rendelet 8. § l) pontja szerint módosított szöveg.

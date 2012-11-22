@@ -1,7 +1,10 @@
 ## Az állatok oltása, gyógyítása
 
-16. § (1) A kéknyelv betegség ellen vakcinázni kizárólag az országos főállatorvos utasítására – a 14. § (4) bekezdése szerint – lehet.
+16. § (1)[^38] A kéknyelv betegség ellen vakcinázni kizárólag az országos főállatorvos utasítására – a 14. § (4) bekezdése szerint – lehet. Amennyiben az országos főállatorvos élő attenuált vakcina használatát engedélyezi, a NÉBIH által kijelölt védőkörzetnek – a 12. § (1) bekezdés aa) pontjában meghatározottakon túl – magában kell foglalnia legalább a vakcinázási területet.
 
-(2) Az országos főállatorvos utasítását követően az MgSzH Központ egyedi engedélyt adhat állatok immunizálására.
+(2)[^39] Az országos főállatorvos utasítását követően a NÉBIH egyedi engedélyt adhat állatok immunizálására.
 
 (3) Azokon az állatokon, melyekben a kéknyelv betegség előfordul vagy a betegségre gyanúsak, gyógyítási kísérletet vagy műtétet végezni tilos.
+
+[^38]: A 16. § (1) bekezdése a 117/2012. (XI. 21.) VM rendelet 6. §-ával megállapított szöveg.
+[^39]: A 16. § (2) bekezdése a 117/2012. (XI. 21.) VM rendelet 8. § g) pontja szerint módosított szöveg.

@@ -16,7 +16,7 @@
 
 7. Hatósági megállapítás: a kerületi főállatorvosnak a Nemzeti Referencia Laboratórium (a továbbiakban: NRL) eredményeire alapozott határozata, mely szerint a kéknyelv betegség megállapításra került;
 
-8. Helyi Járványvédelmi Központ (HJK): a Mezőgazdasági Szakigazgatási Hivatal területi szervén (a továbbiakban: MgSzH területi szerve) belüli, a betegség felszámolását irányító szervezet, melynek felállítását a területi szerv vezetője rendeli el járványkitörés esetén;
+8.[^1] Helyi Járványvédelmi Központ (HJK): a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságán (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) belüli, a betegség felszámolását irányító szervezet, melynek felállítását az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vezetője rendeli el járványkitörés esetén;
 
 9. Kórokozó átvivő (vektor): a Culicoides imicola rovarfajhoz vagy más, a Culicoides nemhez tartozó rovar, amely képes a kéknyelv betegség közvetítésére;
 
@@ -24,6 +24,12 @@
 
 11. Levágás: minden olyan eljárás, amely egy állat kivéreztetéssel bekövetkező halálát okozza, emberi fogyasztás céljából;
 
-12. Országos Járványvédelmi Központ (OJK): a Mezőgazdasági Szakigazgatási Hivatal Központ (a továbbiakban: MgSzH Központ) szervezeti keretein belüli, a kéknyelv betegség felszámolását irányító országos szervezet.
+12.[^2] Országos Járványvédelmi Központ (OJK): a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) szervezeti keretein belüli, a kéknyelv betegség felszámolását irányító országos szervezet;
+
+13.[^3] Élő attenuált vakcina: olyan vakcina, amelyet a kéknyelv betegség vad vírus izolátumainak szövetkultúrán vagy embrionált tyúktojásban végzett többszöri átoltással történő legyengítésével állítanak elő.
 
 (2) E rendelet végrehajtása során a kéknyelv betegségre fogékony fajokhoz tartozó egyes állatok szállításának ellenőrzése, megfigyelése, felügyelete és korlátozása tekintetében a 2000/75/EK tanácsi irányelv végrehajtási szabályairól szóló 2007. október 26-i 1266/2007/EK rendelet (a továbbiakban: 1266/2007/EK rendelet) 2. cikkében szereplő fogalommeghatározásokat is alkalmazni kell.
+
+[^1]: A 2. § (1) bekezdés 8. pontja a 117/2012. (XI. 21.) VM rendelet 8. § a)–b) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 12. pontja a 117/2012. (XI. 21.) VM rendelet 8. § c) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés 13. pontját a 117/2012. (XI. 21.) VM rendelet 1. §-a iktatta be.

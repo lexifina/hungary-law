@@ -1,4 +1,4 @@
-13. § (1) Az MgSzH Központ készenléti tervet dolgoz ki e rendeletben meghatározott intézkedések alkalmazásának módjáról. A készenléti tervnek legalább a következőkre kell kiterjedniük:
+13. § (1)[^33] A NÉBIH készenléti tervet dolgoz ki e rendeletben meghatározott intézkedések alkalmazásának módjáról. A készenléti tervnek legalább a következőkre kell kiterjedniük:
 
 a) nemzeti járványvédelmi központ felállítása a járványügyi intézkedések összehangolása céljából;
 
@@ -20,4 +20,7 @@ i) a kéknyelv betegség elleni vakcinák mennyiségére vonatkozó adat, amely 
 
 j) rendelkezések a készenléti terv végrehajtására.
 
-(2) Az MgSzH Központ a kéknyelv betegségre vonatkozó készenléti tervet jóváhagyásra megküldi az Európai Bizottságnak.
+(2)[^34] A NÉBIH a kéknyelv betegségre vonatkozó készenléti tervet jóváhagyásra megküldi az Európai Bizottságnak.
+
+[^33]: A 13. § (1) bekezdés nyitó szövegrésze a 117/2012. (XI. 21.) VM rendelet 8. § f) pontja szerint módosított szöveg.
+[^34]: A 13. § (2) bekezdése a 117/2012. (XI. 21.) VM rendelet 8. § f) pontja szerint módosított szöveg.
