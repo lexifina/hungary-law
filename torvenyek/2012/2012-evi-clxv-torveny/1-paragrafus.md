@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Szlovák Köztársaság Kormánya között a két ország közös államhatárán, Komárom és Révkomárom (Komárno) városok közötti közúti híd Duna folyamon történő megépítéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
