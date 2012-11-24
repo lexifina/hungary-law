@@ -1,12 +1,12 @@
-7. § (1) A Bizottság a szakmai kollégiumok javaslatainak figyelembevételével, mérlegelve az egyes kulturális területek súlyát, értékteremtő szerepét, a miniszter egyetértésével
+7. § (1)[^13] A Bizottság a kollégiumok javaslatainak figyelembevételével, mérlegelve az egyes kulturális területek súlyát, értékteremtő szerepét, a miniszter egyetértésével
 
-a) dönt az egyes szakmai kollégiumok által felosztható pénzeszközök nagyságáról,
+a)[^14] dönt az egyes kollégiumok által felosztható pénzeszközök nagyságáról,
 
 b) kiemelt támogatási célokat határozhat meg,
 
 c) megjelöli az ezekre fordítandó keretösszegeket.
 
-d)[^7]
+d)[^15]
 
 (2) A miniszteri keretből támogathatók különösen:
 
@@ -24,4 +24,6 @@ e) olyan egyedi pályázatok, amelyeket a miniszter – a miniszteri keret terh�
 
 (4) A miniszter megállapítja a miniszteri keret felosztásának arányait és erről tájékoztatja a Bizottságot.
 
-[^7]: A 7. § (1) bekezdés d) pontját a 65/2011. (XII. 9.) NEFMI rendelet 13. § a) pontja hatályon kívül helyezte.
+[^13]: A 7. § (1) bekezdés nyitó szövegrésze a 40/2012. (XI. 21.) EMMI rendelet 14. § 2. pontja szerint módosított szöveg.
+[^14]: A 7. § (1) bekezdés a) pontja a 40/2012. (XI. 21.) EMMI rendelet 14. § 2. pontja szerint módosított szöveg.
+[^15]: A 7. § (1) bekezdés d) pontját a 65/2011. (XII. 9.) NEFMI rendelet 13. § a) pontja hatályon kívül helyezte.

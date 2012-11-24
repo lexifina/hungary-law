@@ -1,12 +1,15 @@
-## 21. § Az érvénytelen pályázatokról az ok megjelölésével az Igazgatóság – a szakmai kollégium vezetőjével együtt – a pályázókat értesíti.
+## 21. §[^53] Az érvénytelen pályázatokról az ok megjelölésével az Igazgatóság – a kollégium vezetőjével együtt – a pályázókat értesíti.
 
-22. § (1)[^27] A pályázatokat a kollégium a pályázati felhívásban meghatározott benyújtási határidőtől számított 70 napon belül elbírálja, és döntéséről tájékoztatja a Bizottság elnökét.
+22. § (1)[^54] A pályázatokat a kollégium a pályázati felhívásban meghatározott benyújtási határidőtől számított 70 napon belül elbírálja, és döntéséről tájékoztatja az elnököt és alelnököt.
 
-(2) A Tv. 2. § (6) bekezdésében foglalt esetben a Bizottság elnöke a kollégium döntésének kézhezvételétől számított 10 napon belül emelhet kifogást és szükség szerint intézkedik a Bizottság rendkívüli ülésének összehívása iránt. A Bizottság döntéséről – annak meghozatalától számított 5 napon belül – a Bizottság elnöke tájékoztatja a szakmai kollégiumot és értesíti az érintett pályázót.
+(2)[^55] Az elnök az alelnök javaslatára figyelemmel, a javaslat kézhezvételét követő 5 napon belül dönt a kollégium támogató döntésének megsemmisítéséről, vagy annak megfontolás céljából a kollégiumnak történő visszaküldéséről, és erről az eljáró kollégiumot, valamint a pályázót 10 napon belül értesíti.
 
-(3) A kollégium a döntéséről – támogató döntés esetén a Bizottság elnökének kifogást nem emelő nyilatkozatától, nyilatkozattétel hiányában pedig a kifogásra biztosított határidő leteltétől számított – 10 napon belül értesíti a pályázókat.
+(3)[^56] A kollégium a döntéséről – támogató döntés esetén az elnök kifogást nem emelő nyilatkozatától, nyilatkozattétel hiányában pedig a kifogásra biztosított határidő leteltétől számított – 10 napon belül értesíti a pályázókat.
 
-(4)[^28] A Bizottság elnöke jóváhagyásától, illetve a miniszteri keret terhére nyújtott támogatás esetén a támogatási szerződés aláírásától számított 10 napon belül az Igazgatóság gondoskodik a támogatott pályázók nevének és lakcímének, székhelyének, a megítélt támogatás összegének és módjának, valamint a támogatott pályázatok rövid tartalmi összefoglalójának nyilvános közzétételéről az Alap Honlapján.
+(4)[^57] Az elnök jóváhagyásától, illetve a miniszteri keret terhére nyújtott támogatás esetén a támogatási szerződés aláírásától számított 10 napon belül az Igazgatóság gondoskodik a támogatott pályázók nevének és lakcímének, székhelyének, a megítélt támogatás összegének és módjának, valamint a támogatott pályázatok rövid tartalmi összefoglalójának nyilvános közzétételéről az Alap portálján.
 
-[^27]: A 22. § (1) bekezdése a 65/2011. (XII. 9.) NEFMI rendelet 8. §-ával megállapított szöveg.
-[^28]: A 22. § (4) bekezdése a 42/2007. (XII. 28.) OKM rendelet 6. §-ával megállapított szöveg.
+[^53]: A 21. § a 40/2012. (XI. 21.) EMMI rendelet 14. § 24. pontja szerint módosított szöveg.
+[^54]: A 22. § (1) bekezdése a 40/2012. (XI. 21.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^55]: A 22. § (2) bekezdése a 40/2012. (XI. 21.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^56]: A 22. § (3) bekezdése a 40/2012. (XI. 21.) EMMI rendelet 14. § 25. pontja szerint módosított szöveg.
+[^57]: A 22. § (4) bekezdése a 42/2007. (XII. 28.) OKM rendelet 6. §-ával megállapított, a 40/2012. (XI. 21.) EMMI rendelet 14. § 23. és 26. pontja szerint módosított szöveg.

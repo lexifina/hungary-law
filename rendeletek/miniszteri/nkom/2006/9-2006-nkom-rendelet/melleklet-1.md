@@ -1,4 +1,4 @@
-1. számú melléklet a 9/2006. (V. 9.) NKÖM rendelethez[^33]
+1. számú melléklet a 9/2006. (V. 9.) NKÖM rendelethez[^67]
 
 1. Előadó-művészet Kollégiuma
 
@@ -18,4 +18,4 @@
 
 9. Vizuális Művészetek Kollégiuma
 
-[^33]: Az 1. számú melléklet a 65/2011. (XII. 9.) NEFMI rendelet 11. §-ával megállapított szöveg.
+[^67]: Az 1. számú melléklet a 65/2011. (XII. 9.) NEFMI rendelet 11. §-ával megállapított szöveg.

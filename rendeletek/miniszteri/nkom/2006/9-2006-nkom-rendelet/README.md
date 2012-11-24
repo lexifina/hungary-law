@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-9-20-86
 | 2010-03-01 | 2006-9-20-86.8 | 37/2009. (XII. 23.) OKM rendelet |
 | 2011-12-10 | 2006-9-20-86.9 | 65/2011. (XII. 9.) NEFMI rendelet |
 | 2012-01-01 | 2006-9-20-86.10 | 65/2011. (XII. 9.) NEFMI rendelet |
+| 2012-11-24 | 2006-9-20-86.11 | 40/2012. (XI. 21.) EMMI rendelet |
