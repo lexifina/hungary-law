@@ -1,0 +1,1 @@
+8. § A Pénzügyi Szervezetek Állami Felügyelete az e törvényben meghatározott rendelkezések végrehajtásának ellenőrzése céljából adatszolgáltatást kérhet a MABISZ-tól a Technikai számlával kapcsolatos információkra vonatkozóan, továbbá a MABISZ-tól és az Egyesülettől a Technikai számla és az Egyesület közötti elszámolásokkal kapcsolatban.

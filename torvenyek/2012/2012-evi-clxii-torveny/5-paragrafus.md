@@ -1,0 +1,11 @@
+5. § (1) Az Egyesület az 1. § (1) bekezdésében meghatározott megalapozott kártérítési igények rendezéséhez és a 4. § (2) bekezdésében meghatározott tartalék képzéséhez szükséges pénzeszközök nagyságának a meghatározása érdekében a – az 1. § (1) bekezdés szerinti – tételes felmérést e törvény hatálybalépését követő tizenöt napon belül köteles elvégezni és annak eredményét megküldeni a MABISZ részére.
+
+(2) A MABISZ az 1. § (1) bekezdés szerinti fizetési kötelezettségének teljesítését az (1) bekezdésben előírt tételes felmérés eredményének megérkezését követő harminc napon belül köteles az Egyesület részére a Technikai számla terhére megkezdeni és az 1. § (1) bekezdésében meghatározott megalapozott kártérítési igények rendezése, továbbá a 4. § (2) bekezdésében meghatározott tartalék képzése érdekében folyamatosan teljesíteni.
+
+(3) Az 1. § (1) bekezdésében meghatározott megalapozott kártérítési igények rendezésének lezárását, továbbá a 4. § (2) bekezdésében meghatározott kártérítési igények lezárását követően az Egyesület az 1. § (1) bekezdésében meghatározottak szerint megfizetett pénzeszközökkel köteles tételesen elszámolni a MABISZ felé.
+
+(4) A 1. § (1) bekezdésében meghatározott megalapozott kártérítési igények rendezésének lezárását követően a kötelező gépjármű-felelősségbiztosítási szerződéseken alapuló követelések kielégítése után fennmaradt – kötelező gépjármű-felelősségbiztosítási szerződéseken alapuló károk rendezésére szolgáló – többletpénzeszközt az Egyesület a MABISZ részére, a Technikai számlára kifizeti, ide nem értve a 4. § (2) bekezdésében meghatározott tartalék eszközfedezetéül szolgáló pénzeszközt.
+
+(5) A 4. § (2) bekezdésében meghatározott kártérítési igények rendezésének lezárását követően a 4. § (2) bekezdésében meghatározott tartalék eszközfedezetéül szolgáló fennmaradt többletpénzeszközt az Egyesület a MABISZ részére, a Technikai számlára kifizeti.
+
+(6) A (4) és (5) bekezdésben meghatározottak szerint a Technikai számlára visszafizetett pénzeszközöket a MABISZ a biztosítók, a Kártalanítási Számla, illetve a Kártalanítási Alap javára visszafizeti olyan arányban, amilyen arányban az egyes biztosítók, a Kártalanítási Számla vagy a Kártalanítási Alap a Technikai számla fedezetének a biztosításához befizetést teljesítettek. Ezt követően a Technikai számla megszüntethető.
