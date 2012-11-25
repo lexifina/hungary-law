@@ -1,4 +1,4 @@
-3. §[^6] (1) Az SZJA törvény 71. § (1) bekezdés c) pontja szerinti Széchenyi Pihenő Kártya támogatás jogcímén juttatott támogatásokat az elektronikus utalvány nyilvántartásban elkülönítetten kell nyilvántartani, az elektronikus utalvány nyilvántartás elkülönített részére kizárólag az SZJA törvény 71. § (1) bekezdés c) pontjában meghatározott támogatások érkezhetnek. Az elektronikus utalvány nyilvántartás elkülönített részén belül az SZJA törvény 71. § (1) bekezdés c) pont ca)–cc) alpontja szerinti egyes alszámlákra utalt támogatások másik alszámlára nem utalhatók át, azokat kizárólag a munkáltató általi utalásban megjelölt alszámlán lehet nyilvántartani, és csak az alszámlának megfelelő 5. § a)–c) pontja szerinti szolgáltatás nyújtására lehet beváltani.
+3. §[^7] (1)[^8] Az SZJA törvény 71. § (1) bekezdés c) pontja szerinti Széchenyi Pihenő Kártya támogatás jogcímén juttatott támogatásokat az elektronikus utalvány nyilvántartásban elkülönítetten kell nyilvántartani, az elektronikus utalvány nyilvántartás elkülönített részére kizárólag az SZJA törvény 71. § (1) bekezdés c) pontjában meghatározott támogatások érkezhetnek. Az elektronikus utalvány nyilvántartás elkülönített részén belül az SZJA törvény 71. § (1) bekezdés c) pont ca)–cc) alpontja szerinti egyes alszámlákra utalt támogatások másik alszámlára nem utalhatók át, azokat kizárólag a munkáltató általi utalásban megjelölt alszámlán lehet nyilvántartani, és csak az alszámlának megfelelő 5. § (1) bekezdés a)–c) pontja szerinti szolgáltatás tényleges nyújtására – ide nem értve a szolgáltatás közvetítését – lehet beváltani.
 
 (2) Az intézmény a munkáltató megrendelése alapján, munkavállalónként személyes elektronikus utalvány nyilvántartást nyit, amelyen naprakészen vezeti az SZJA törvény 71. § (1) bekezdés c) pontjában meghatározott jogcímeken juttatott munkáltatói támogatások egyenlegét.
 
@@ -6,4 +6,5 @@
 
 (4) A munkáltató az SZJA törvény 71. § (1) bekezdés c) pontjában meghatározott jogcímeken juttatott éves támogatásokat a béren kívüli juttatásokról szóló jogszabály, megállapodás, utasítás vagy szabályzat, nyilatkozat szerint biztosítja.
 
-[^6]: A 3. § a 317/2011. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^7]: A 3. § a 317/2011. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^8]: A 3. § (1) bekezdése a 301/2012. (X. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
