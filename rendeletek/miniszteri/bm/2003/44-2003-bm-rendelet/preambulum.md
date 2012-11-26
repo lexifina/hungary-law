@@ -1,1 +1,0 @@
-Az illetékekről szóló, többször módosított 1990. évi XCIII. törvény (a továbbiakban: Itv.) 67. §-ának (2) bekezdésében foglalt felhatalmazás alapján a pénzügyminiszterrel egyetértésben – a polgári célú pirotechnikai tevékenységek felügyeletéről szóló 155/2003. (X. 1.) Korm. rendelet (a továbbiakban: R.) 10. §-ára figyelemmel – a következőket rendelem el:
