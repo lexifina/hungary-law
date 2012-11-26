@@ -1,3 +1,0 @@
-## 5. § Az R. 9. §-a a következő (1a) bekezdéssel egészül ki:
-
-## „(1a) A munkavállaló halála esetén az intézmény a munkavállaló elektronikus utalvány nyilvántartása alapján rendelkezésre álló utalványok használatát a hagyatéki eljárás végéig felfüggeszti, ideértve a munkavállaló társkártyával rendelkező közeli hozzátartozója általi használatot is. Ez esetben az (1) bekezdésében meghatározott lejárati időt nem kell figyelembe venni. Az intézmény köteles a hagyatékátadó végzésben foglaltak szerinti megosztásban a hagyatékot az örökösök részére készpénzben kifizetni, a hagyatékátadó végzés intézmény részére való benyújtástól számítva legkésőbb 15 munkanapon belül.”
