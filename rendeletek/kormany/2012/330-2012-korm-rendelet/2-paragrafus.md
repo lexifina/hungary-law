@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Vietnámi Szocialista Köztársaság Kormánya között 2008. május 16-án Hanoiban létrejött pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás módosításáról szóló jegyzékváltással létrejött egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
