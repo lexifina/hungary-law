@@ -29,3 +29,5 @@ d) az MFB Zrt. által saját kockázatára nyújtott azon hitelek és kölcsön�
 (6) Az MFB Zrt. (1) bekezdés a) pontja szerinti fizetési kötelezettségei biztosítékaként az e törvény alapján vállalt jogszabályi állami kezességen túlmenően a hitelező további fedezet előírására nem köteles.
 
 (7) Az (1) bekezdés a) pontja alapján vállalt jogszabályi állami kezességgel kapcsolatosan az állam kezességvállalási díjat nem számol fel.
+
+(8) Az MFB Zrt. javára vagy érdekében fennálló állami kezességgel érintett alapjogviszony módosítása esetén az állami kezesség – az államháztartásért felelős miniszter külön hozzájárulása nélkül – az alapjogviszony változásához igazodva áll fenn, feltéve, ha a változás nem érinti a fennálló kezességvállalással biztosított alapjogviszonynak az állami kezességvállalásra vonatkozó jogszabályokban vagy kormányhatározatban rögzített feltételeit.
