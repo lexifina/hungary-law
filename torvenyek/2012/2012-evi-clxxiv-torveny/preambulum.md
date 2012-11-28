@@ -1,0 +1,1 @@
+(Az 1982. évi 15. törvényerejű rendelettel kihirdetett Nemzetközi Újjáépítési és Fejlesztési Bank alapokmányának 2009. január 30-án kelt módosítása Magyarország vonatkozásában 2012. június 27-én nemzetközi jogilag hatályba lépett.)
