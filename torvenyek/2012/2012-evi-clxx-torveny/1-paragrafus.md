@@ -1,0 +1,1 @@
+1. § Az Országgyűlés felhatalmazást ad a Bolgár Köztársaság, a Horvát Köztársaság, Magyarország és az Osztrák Köztársaság között a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértések miatt alkalmazott jogkövetkezmények határon átnyúló végrehajtásának elősegítéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
