@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-188-00-00
 | 2012-09-25 | 2012. évi CXXXIII. törvény | 2011-188-00-00.10 |
 | 2012-09-29 | 30/2012. (IX. 28.) EMMI rendelet | 2011-188-00-00.11 |
 | 2012-10-26 | 2012. évi CLIII. törvény | 2011-188-00-00.12 |
+| 2012-11-28 | 2012. évi CLXXVII. törvény | 2011-188-00-00.13 |
