@@ -1,0 +1,1 @@
+17. § Az Etv. 1. § (3) bekezdésében az „a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényt” szövegrész helyébe az „a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényt (a továbbiakban: Hpt.)” szöveg lép.
