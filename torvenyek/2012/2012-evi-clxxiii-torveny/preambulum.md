@@ -1,0 +1,1 @@
+(Az 1985. évi 20. törvényerejű rendelettel kihirdetett Nemzetközi Pénzügyi Társaság alapokmányának 2012. március 9-én kelt módosítása Magyarország vonatkozásában 2012. június 27-én nemzetközi jogilag hatályba lépett.)
