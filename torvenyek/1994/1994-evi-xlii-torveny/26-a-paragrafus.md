@@ -1,1 +1,1 @@
-26/A. § A Magyar Export-Import Bank Részvénytársaság a szavatoló tőke kiszámítása során az e törvény – 2009. december 31-én hatályos – 20. § (1) bekezdése szerinti, 2009. december 31-én fennálló hitelt és kötvényt azok lejáratáig járulékos tőkeelemként veheti figyelembe.
+26/A. §

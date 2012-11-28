@@ -1,0 +1,1 @@
+26/E. § Az Eximbank által devizában bevont források a Módtv.3. hatályba lépésének napján fennálló állományát e törvénynek a Módtv.3. 8. §-ával megállapított 7. § (1) bekezdésének a) pontja alkalmazása során a Módtv.3. hatálybalépésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon kell forintra átszámítani.

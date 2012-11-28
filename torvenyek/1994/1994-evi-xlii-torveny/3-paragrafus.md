@@ -6,7 +6,7 @@ b) kezesség,
 
 c) különböző pénzügyi veszteségek.
 
-(2) A Mehib Rt. az (1) bekezdés szerinti tevékenységeit exportirányú külkereskedelmi ügyletekhez, nemzetközi segélyügyletekhez, külföldi befektetésekhez és belföldi értékesítésekhez, illetve utazásszervezési szolgáltatást végző belföldi vállalkozás, külföldi vállalkozás belföldi fióktelepe vagy kereskedelmi képviselete Magyarországra történő utaztatási tevékenységéhez kapcsolódóan jogosult végezni. A Mehib Rt. az e bekezdésben felsorolt tevékenységekből eredő deviza-árfolyamkockázatot elkülönülten is biztosíthatja.
+(2) A Mehib Rt. az (1) bekezdés szerinti tevékenységeit exportirányú külkereskedelmi ügyletekhez, nemzetközi segélyügyletekhez, beszállítói ügyletekhez, exportcélú befektetésekhez, magyar befektetők külföldi befektetéseihez és belföldi értékesítésekhez, illetve utazásszervezési szolgáltatást végző belföldi vállalkozás, külföldi vállalkozás belföldi fióktelepe vagy kereskedelmi képviselete Magyarországra történő utaztatási tevékenységéhez kapcsolódóan jogosult végezni. A Mehib Rt. az e bekezdésben felsorolt tevékenységekből eredő deviza-árfolyamkockázatot elkülönülten is biztosíthatja.
 
 (3) A 6. § (2) bekezdés szerint állami készfizető kezesség a következő ügyletekhez kapcsolódhat:
 
@@ -20,7 +20,7 @@ a) a (6) és (7) bekezdésben felsorolt kockázatok, ha a teljes kockázatvisel�
 
 b) azon kockázatok, amelyeknél a teljes kockázatviselési idő a két évet nem éri el, amennyiben
 
-ba) az adós letelepedési helye nem az Európai Unió tagállamában, vagy az OECD következő tagállamaiban van: Ausztrália, Kanada, Izland, Japán, Új-Zéland, Norvégia, Svájc, Amerikai Egyesült Államok és
+ba) az adós vagy kezese letelepedési helye nem a Mehib Rt. által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről szóló kormányrendeletben piacképes kockázatúként meghatározott országban van és
 
 bb) magánadós vagy kezese esetén a (6) bekezdésben vagy a (7) bekezdés a)–c) pontjában szereplő kockázatok bármelyike,
 
