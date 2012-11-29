@@ -1,3 +1,0 @@
-6. § Az Etv. I. Fejezete a következő 4/A. §-sal egészül ki:
-
-„4/A. § A Hpt.-ben foglaltakon túl a Gazdasági Együttműködési és Fejlesztési Szervezet tagországán kívüli országban székhellyel rendelkező pénzügyi intézmény, amelyben az állam, területi közigazgatási szervezet vagy helyi hatóság – külön-külön vagy együttesen, közvetlenül vagy közvetve – többségi részesedéssel rendelkezik, az Eximbank részére a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) engedélye és magyarországi fióktelep létesítése nélkül is nyújthat hitelt és pénzkölcsönt.”
