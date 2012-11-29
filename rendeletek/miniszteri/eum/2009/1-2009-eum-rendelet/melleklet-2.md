@@ -390,7 +390,7 @@
 
 | XIII.1. | Zárt légterű dohányzóhely kijelölésének engedélyezése a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény (a továbbiakban: Nvt.) 2. § (9) bekezdése alapján, az Nvt. 2. § (5) bekezdés d) és e) pontja szerinti esetekben a munkavállalók részére | 40 000 Ft |
 
-2. melléklet az 1/2009. (I. 30.) EüM rendelethez[^9]
+2. melléklet az 1/2009. (I. 30.) EüM rendelethez[^10]
 
 | Intézet | Bankszámlaszám |
 
@@ -444,4 +444,4 @@
 
 | Zala Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10049006-00303066-00000000 |
 
-[^9]: A 2. melléklet a 10/2011. (III. 30.) NEFMI rendelet 64. § (2) bekezdésével megállapított szöveg.
+[^10]: A 2. melléklet a 10/2011. (III. 30.) NEFMI rendelet 64. § (2) bekezdésével megállapított szöveg.

@@ -38,8 +38,11 @@ b) az 1. melléklet XII. 3. pontja szerinti díjból az orvostudományi kutatás
 
 (11)[^5] Az 1. melléklet XII. 1. pontja, valamint XII. 2. pontja szerinti orvostudományi kutatás engedélyének előzetes szakhatósági állásfoglalására irányuló kérelem esetén a kérelmező a (10) bekezdés a) pontja szerinti díjtétel részt az előzetes szakhatósági eljárás megindításakor köteles az Egészségügyi Stratégiai Kutatóintézet 10032000-01491728 számú számlájára átutalással, készpénzátutalási megbízással, belföldi postautalvány útján megfizetni vagy a házipénztárba befizetni.
 
+(12)[^6] Az 1. melléklet I.3. pontja szerinti eljárások jogorvoslati díját az Egészségügyi Engedélyezési és Közigazgatási Hivatal 10032000-00285788-00000000 számú számlájára kell befizetni.
+
 [^1]: Az 1. § a 10/2011. (III. 30.) NEFMI rendelet 64. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (7) bekezdés b) pontja a 34/2009. (X. 20.) EüM rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^3]: A 2. § (9) bekezdését a 34/2009. (X. 20.) EüM rendelet 1. § (1) bekezdése iktatta be.
 [^4]: A 2. § (10) bekezdését a 34/2009. (X. 20.) EüM rendelet 1. § (1) bekezdése iktatta be.
 [^5]: A 2. § (11) bekezdését a 34/2009. (X. 20.) EüM rendelet 1. § (1) bekezdése iktatta be.
+[^6]: A 2. § (12) bekezdését a 42/2012. (XI. 28.) EMMI rendelet 5. § (1) bekezdése iktatta be.
