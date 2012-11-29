@@ -17,3 +17,7 @@ f) a projekt megvalósításához fűződő nemzetstratégiai megfontolásokat.
 (3) Az önerő-támogatást a döntéshozó a rendelkezésére álló források erejéig biztosítja.
 
 (4) Az önerő-támogatásról szóló döntés tartalmazza a rendelet 24–26. §-ában foglalt kifogás lehetőségéről szóló tájékoztatást is.
+
+(5)[^1] Ha az önerő-támogatás iránti kérelem olyan projekt megvalósításához kapcsolódik, amelyből a kedvezményezettnek bevétele (a továbbiakban: támogatással érintett bevétel) keletkezik, legkésőbb az önerő-támogatási szerződés vagy önerő-támogatási okirat hatálybalépésének időpontjáig az igénylőnek nyilatkoznia kell arról, hogy a támogatással érintett bevételeit maradéktalanul a rendszer fenntartására – pótlási, üzemeltetési, fejlesztési költségeire – fordítja.
+
+[^1]: A 7. § (5) bekezdését a 333/2012. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
