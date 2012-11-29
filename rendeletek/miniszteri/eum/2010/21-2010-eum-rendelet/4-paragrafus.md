@@ -1,6 +1,6 @@
 ## 4. § A szükséggyógyintézet telepítésére kijelölt kórház vezetője
 
-a) elkészíti és a kórház katasztrófatervéhez csatolja a szükséggyógyintézetbe kijelölt személyek jegyzékét, beleértve a műszaki és kisegítő személyzetet, továbbá a 3. § (5) bekezdése szerint kijelölteket is,
+a)[^9] elkészíti és a kórház katasztrófatervéhez csatolja a szükséggyógyintézetbe kijelölt személyek jegyzékét, beleértve a műszaki és kisegítő személyzetet,
 
 b) az a) pont szerinti jegyzéket évente felülvizsgálja,
 
@@ -13,3 +13,5 @@ e) meghatározza a szükséggyógyintézet telepítéséhez és a folyamatos mű
 f) megtervezi a szükséggyógyintézet telepítéséhez és működtetéséhez szükséges infrastruktúra biztosításának feltételeit, és
 
 g) kialakítja a szükséggyógyintézet működési szabályzatát.
+
+[^9]: A 4. § a) pontja a 42/2012. (XI. 28.) EMMI rendelet 3. § c) pontja szerint módosított szöveg.

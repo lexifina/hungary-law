@@ -1,4 +1,4 @@
-3. § (1)[^6] A megyei tisztifőorvos
+3. § (1)[^7] A megyei tisztifőorvos
 
 a) a megye részére meghatározott szükséggyógyintézeti kapacitások figyelembevételével a működési területén határozatban kijelöli a szükséggyógyintézetek telepítésére és működtetésére kötelezett kórházakat, és meghatározza a telepítendő szükséggyógyintézet számát és típusát, és
 
@@ -38,7 +38,7 @@ d) a járó- és falfelületek tisztíthatósága, és
 
 e) az elektromos hálózat kapacitásának alkalmassága orvostechnikai eszközök működtetésére.
 
-(5)[^7] A megyei tisztifőorvos határozatban kijelöli a más egészségügyi intézménytől átcsoportosítható, megfelelő számú és szakmai összetételű egészségügyi személyzetet, ha a szükséggyógyintézet működtetése a kórház saját állományából nem biztosítható.
+(5)[^8]
 
-[^6]: A 3. § (1) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 70. § (2) bekezdésével megállapított szöveg.
-[^7]: A 3. § (5) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 70. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 3. § (1) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 70. § (2) bekezdésével megállapított szöveg.
+[^8]: A 3. § (5) bekezdését a 42/2012. (XI. 28.) EMMI rendelet 3. § b) pontja hatályon kívül helyezte.
