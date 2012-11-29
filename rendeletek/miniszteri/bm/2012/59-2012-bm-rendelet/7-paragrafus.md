@@ -1,0 +1,1 @@
+## 6. § A települési önkormányzat a támogatást 2013. február 15-éig használhatja fel, a támogatás felhasználásáról 2013. március 31-éig a kincstár felé a 3. melléklet szerinti adatlapon számol el, amelyet a települési önkormányzat költségvetési beszámolójának benyújtásával egyidejűleg is megküld a kincstárnak.
