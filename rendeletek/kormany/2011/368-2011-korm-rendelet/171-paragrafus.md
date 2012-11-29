@@ -1,3 +1,3 @@
-171. §[^52]
+171. §[^56]
 
-[^52]: Az Ávr. 171. §-t az 56/2012. (III. 30.) Korm. rendelet 29. § (1) bekezdése hatályon kívül helyezte.
+[^56]: Az Ávr. 171. §-t az 56/2012. (III. 30.) Korm. rendelet 29. § (1) bekezdése hatályon kívül helyezte.

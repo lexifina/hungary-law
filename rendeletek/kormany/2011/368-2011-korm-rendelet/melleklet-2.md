@@ -2,7 +2,7 @@
 
 ## 1. a központi költségvetésről szóló törvény I. fejezeténél az Országgyűlés Hivatala és annak gazdasági főigazgatója, a Közbeszerzések Tanácsa tekintetében a Közbeszerzési Hatóság és annak elnöke, a Pénzügyi Szervezetek Állami Felügyelete tekintetében a Pénzügyi Szervezetek Állami Felügyelete és annak elnöke, a Nemzeti Adatvédelmi és Információszabadság Hatóság tekintetében a Nemzeti Adatvédelmi és Információszabadság Hatóság és annak elnöke, a 8–10. címek tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter,
 
-## 2.[^61] a központi költségvetésről szóló törvény II. fejezeténél a Köztársasági Elnöki Hivatal és annak főigazgatója,
+## 2.[^65] a központi költségvetésről szóló törvény II. fejezeténél a Köztársasági Elnöki Hivatal és annak főigazgatója,
 
 ## 3. a központi költségvetésről szóló törvény III. fejezeténél az Alkotmánybíróság és annak elnöke,
 
@@ -52,4 +52,4 @@
 
 2. melléklet a 368/2011. (XII. 31.) Korm. rendelethez
 
-[^61]: Az Ávr. 1. melléklet 2. pontja a 245/2012. (VIII. 31.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^65]: Az Ávr. 1. melléklet 2. pontja a 245/2012. (VIII. 31.) Korm. rendelet 19. §-a szerint módosított szöveg.

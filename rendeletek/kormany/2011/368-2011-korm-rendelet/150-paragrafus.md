@@ -14,6 +14,12 @@ f) a deviza- és a valuta készlet év végi értékelése során megállapítot
 
 g) a felsőoktatási intézményekben állami részösztöndíjas és önköltséges tanulmányokat folytató hallgatók által fizetett önköltségből és az államháztartáson kívülről érkező adományokból származó előirányzat-maradványát,
 
-h) a Széchenyi Kártya program keretein belül működő folyószámlahitel program előirányzat-maradványát, és
+h)[^50] a Széchenyi Kártya program keretein belül működő folyószámlahitel program előirányzat-maradványát,
 
-i) a Beruházás ösztönzési célelőirányzat előirányzat-maradványát.
+i)[^51] a Beruházás ösztönzési célelőirányzat előirányzat-maradványát, és
+
+j)[^52] az EU Önerő Alap előirányzat-maradványát.
+
+[^50]: Az Ávr. 150. § h) pontja a 332/2012. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^51]: Az Ávr. 150. § i) pontja a 332/2012. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^52]: Az Ávr. 150. § j) pontját a 332/2012. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
