@@ -28,7 +28,7 @@ bevallást tesz.
 
 6. A tárgyévben végzett, valamely korábbi adóbevallási időszakot érintő önellenőrzés, a határidőt követően benyújtott bevallás, illetőleg az utólagos adómegállapítás nem érinti a tárgyévi adóbevallás gyakoriságát.
 
-7. A fogyasztói árkiegészítésről szolgáltatáscsoportonkénti részletességgel éves összesítő, a havi vagy évközi bevallás benyújtására kötelezett adózónak negyedéves összesítő bevallást kell benyújtania.
+7. A szociálpolitikai menetdíj–támogatásról szolgáltatáscsoportonkénti részletességgel éves összesítő, a havi vagy évközi bevallás benyújtására kötelezett adózónak negyedéves összesítő bevallást kell benyújtania.
 
 8. Az adózó adójáról és költségvetési támogatásáról e melléklet B) pontjában meghatározott határidő utolsó napja előtt is benyújthatja bevallását. Ebben az esetben a bevallást csak önellenőrzéssel lehet helyesbíteni, az önellenőrzési pótlékot azonban a bevallás benyújtására előírt határidőt követő első naptól kell felszámítani.
 

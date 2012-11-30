@@ -6,7 +6,7 @@
 
 (4) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított Art. 28. § (1) bekezdését a 2011. adóévről benyújtandó egyszerűsített bevallással kapcsolatban is alkalmazni kell.
 
-(5) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított 3. számú melléklet G. pont 7. alpontját 2012. január 1-jén vagy azt követően létesített vagy megszüntetett ügyfélkapu vonatkozásában kell alkalmazni, azzal, hogy az okmányiroda a 2012. január 1-jén ügyfélkapuval rendelkező személyek adatait 2012. március 31-ig – elektronikus úton – megküldi az állami adóhatóság részére.
+(5) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított 3. számú melléklet G. pont 7. alpontját 2012. január 1-jén vagy azt követően létesített vagy megszüntetett ügyfélkapu vonatkozásában kell alkalmazni, azzal, hogy a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala a 2012. január 1-jén ügyfélkapuval rendelkező személyek adatait 2012. december 31-ig – elektronikus úton – megküldi az állami adóhatóság részére.
 
 (6) A 3. számú melléklet N) pontjának – az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel történő – hatályon kívül helyezését 2012. január 1-jétől kell alkalmazni, azzal, hogy az ezt megelőző időszakokra vonatkozó adatszolgáltatási kötelezettséggel kapcsolatosan mulasztási bírság kiszabásának nincs helye.
 

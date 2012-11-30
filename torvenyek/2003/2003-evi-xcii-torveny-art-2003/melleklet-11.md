@@ -19,7 +19,3 @@ I. Az e törvény 57. § (1) bekezdés b) pontjának alkalmazásában a „jöve
 6. az Egyesült Királyság esetében: Income tax, Corporation tax, Capital gains tax, Petroleum revenue tax, Development land tax;
 
 7. az Észt Köztársaság esetében: Tulumaks, Sotsiaalmaks, Maamaks;
-
-8. a Finn Köztársaság esetében: Valtion tuloverot/de statliga inkomstskatterna, Yhteisöjen tulovero/inkomstskatten för samfund, Kunnallisvero/kommunalskatten, Kirkollisvero/kyrkoskatten, Kansaneläkevakuutusmaksu/folkpensionsförsäkringspremien, Sairausvakuutusmaksu/sjukförsäkringspremien, Korkotulon lähdevero/källskatten på ränteinkomst, Rajoitetusti verovelvollisen lähdevero/källskatten för begränsat skattskyldig,
-
-Valtion varalllisuusvero/den statliga förmögenhetsskatten, Kiinteistövero/fastighetsskatten;

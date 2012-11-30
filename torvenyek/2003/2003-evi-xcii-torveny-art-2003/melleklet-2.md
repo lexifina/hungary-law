@@ -12,6 +12,8 @@ AZ ÁLLAMI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
 
 2. A felszámolás kezdő időpontját megelőzően keletkezett fizetési kötelezettséget e mellékletben foglaltaktól eltérően a csődeljárásról és a felszámolási eljárásról szóló törvény rendelkezéseinek megfelelően kell teljesíteni. A felszámolás alatt álló adózó a 33. § (6) bekezdése szerint a tevékenységet lezáró adóbevallással egyidejűleg benyújtott adóbevallás után a tevékenységet lezáró adóbevallásra vonatkozó rendelkezések szerint, a felszámolást lezáró adóbevallással egyidejűleg benyújtott adóbevallás után a felszámolást lezáró adóbevallásra vonatkozó rendelkezések szerint teljesíti adófizetési kötelezettségét. A végelszámolás alatt álló adózó adófizetési kötelezettségét a tevékenységét lezáró bevallás és a záró adóbevallás benyújtásával egyidejűleg, illetve a két bevallás közötti időszakról eltérő rendelkezés hiányában az általános szabályok szerint benyújtandó bevallásokra irányadó szabályok szerint köteles teljesíteni. A végelszámolás alatt álló adózó a 33. § (6) bekezdése szerint a tevékenységet lezáró adóbevallással, illetve a végelszámolást lezáró adóbevallással egyidejűleg benyújtott adóbevallás benyújtásával egyidejűleg az adót is köteles megfizetni.
 
+2a. Az adózó a 33. § (12) bekezdésében meghatározott bevallási kötelezettség teljesítésének határidejéig az adót is köteles megfizetni.
+
 3. Az állami adóhatóságnál nyilvántartott adót – a magánszemély által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, egészségügyi hozzájárulást, járulékot, valamint a magánszemélyt terhelő vagyonszerzési illetéket, a cégautóadót és az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget kivéve – , a költségvetési támogatást 1000 forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adót kerekítés nélkül forintban kell megfizetnie. Az adózó a 100 forintot el nem érő adóját nem fizeti meg, és az adóhatóság a 100 forintot el nem érő adó-visszatérítést, visszaigénylést nem utalja ki és nem tartja nyilván.
 
 Határidők
@@ -84,13 +86,13 @@ a kérelem benyújtását megelőző két éven belül
 
 – az adóhatóság – számla-, nyugtakibocsátási kötelezettség elmulasztása, be nem jelentett alkalmazott foglalkoztatása, ellenőrzés akadályoztatása miatt – jogerősen mulasztási bírsággal sújtotta,
 
-– legalább három alkalommal székhelyet változtatott,
-
 – szerepel(t) az 55. § (3) bekezdése vagy (5) bekezdése alapján közzéteendő adózói listán,
 
 – 25 millió forintot elérő vagy azt meghaladó összegű adótartozás miatt végrehajtási eljárás folyt/folyik ellene.
 
 A gyakorított elszámolás évközi engedélyezése esetén az engedély szerinti bevallási kötelezettségre áttérést megelőző, bevallással le nem zárt időszakra vonatkozó adókötelezettséget meg kell állapítani, be kell vallani, meg kell fizetni.
+
+Az eljáró adóhatóság vezetője az engedélyt a kizáró ok fennállása ellenére különös méltányosságból megadhatja, ha az engedély megadását kizáró ok nincs arányban az adózó gyakoribb elszámoláshoz fűződő méltányolható érdekével.
 
 3. A társasági adó
 
@@ -322,7 +324,7 @@ b) Ha az adóhatóság az adózó kérelmére gyakoribb (öt-tíz-tizenöt napon
 
 a tárgyhót követő hó 20. napjától
 
-lehet igényelni, vagy eddig kell megfizetni.
+lehet igényelni, vagy eddig kell megfizetni. Az adóhatóság a gyakoribb igénybevételt engedélyező határozatát visszavonja, ha a határozat alapján igényelt előleg összege rendszeresen – egymást követő hat hónapon belül legalább három hónapban – legalább 10%-kal meghaladja a ténylegesen járó támogatás összegét.
 
 c) Egyszeri előleg igénybevételének engedélyezése esetén az igénybevétel lehetősége a tárgynegyedév első hónapjának 20. napjától nyílik meg, és azt
 

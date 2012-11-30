@@ -130,6 +130,8 @@ a) a mezőgazdasági és vidékfejlesztési támogatási szerv az adózó haszn�
 
 b) az erdészeti hatóság az adózó használatában lévő erdőterületen folytatott erdőgazdasági tevékenységről, a faállomány nagyságáról, annak változásáról.
 
+(13a) Az élelmiszerlánc-felügyeleti hatóság az állami adó- és vámhatóság megkeresésére adatot szolgáltat a nyilvántartásában szereplő adatokról, amennyiben az az ellenőrzés lefolytatásához szükséges.
+
 (14) A mezőgazdasági és vidékfejlesztési támogatási szerv az adóévet követő év január 31-éig adatot szolgáltat az állami adóhatósághoz az általa kifizetett támogatás jogcíméről, összegéről a magánszemély nevének, adóazonosító jelének feltüntetésével.
 
 (15) Az állami adóhatóság nyilvántartja az adózó nevében eljáró állandó meghatalmazott, megbízott magánszemély adóazonosító jelét.
