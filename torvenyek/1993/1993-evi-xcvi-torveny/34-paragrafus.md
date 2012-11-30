@@ -1,6 +1,6 @@
 ## A pénztár pénzügyi terve
 
-34. § (1) A pénztár következő évi pénzügyi tervét a tárgy pénzügyi év lejárta előtti 90 napos időszakban kell a közgyűlés elé terjeszteni és elfogadni. A három évre, nyugdíjpénztár esetén öt évre vonatkozó hosszú távú pénzügyi tervet első ízben az alakuló közgyűlés állapítja meg, és annak lejártakor a közgyűlés új hosszú távú tervet határoz meg.
+34. § (1) A pénztár az adott évre vonatkozó éves pénzügyi tervét az éves beszámolót elfogadó közgyűlés elé kell terjeszteni és elfogadni. A három évre vonatkozó hosszú távú pénzügyi tervet első ízben az alakuló közgyűlés állapítja meg, és az éves pénzügyi terv elfogadásakor a közgyűlés új hosszú távú tervet határoz meg. A hosszú távú pénzügyi terv naptári évekre készül.
 
 (2) A pénzügyi tervnek alkalmasnak kell lennie arra, hogy a pénztártagok meggyőződhessenek a pénztár pénzügyi céljainak megvalósíthatóságáról, a pénztár működőképességéről.
 
@@ -10,4 +10,4 @@
 
 (5) Az éves pénzügyi terv legalább negyedéves bontásban, a hosszú távú terv legalább éves bontásban készül, kiegészítve a hosszú távú számításoknál használt feltételezésekkel.
 
-(6) Az éves pénzügyi terv időtartama megegyezik a számviteli jogszabályokban meghatározott üzleti év időtartamával.
+(6) Az éves pénzügyi terv időtávja az éves beszámolót elfogadó közgyűlés negyedévét követő négy negyedév.

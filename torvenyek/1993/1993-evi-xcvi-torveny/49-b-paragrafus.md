@@ -1,6 +1,6 @@
 ## A pénztártagok által választható befektetési portfolió
 
-49/B. § (1) A nyugdíjpénztár pénztártagok által választható befektetési portfoliót biztosító rendszert (a továbbiakban: választható portfoliós rendszer) működtethet, melyben a pénztár felhalmozási időszakban lévő tagjai az egyéni nyugdíjszámlájukon lévő összeget a tag választása szerinti, a pénztár által kialakított portfoliók valamelyikébe fektethetik.
+49/B. § (1) A nyugdíjpénztár pénztártagok által választható befektetési portfóliót biztosító rendszert (a továbbiakban: választható portfóliós rendszer) működtethet, melyben a pénztár felhalmozási időszakban lévő tagjai az egyéni nyugdíjszámlájukon lévő összeget a tag választása szerinti, a pénztár által kialakított portfóliók valamelyikébe fektethetik. Amennyiben a tag a választható portfóliós rendszer (3) bekezdés szerinti szabályzat szerint nem választ portfóliót, akkor az egyéni számláján lévő összeget a szabályzatban erre az esetre rögzített portfólióba kell elhelyezni.
 
 (2) A választható portfoliók mindegyikének meg kell felelnie a pénztári befektetésekre és az azok kezelésére vonatkozó előírásoknak.
 

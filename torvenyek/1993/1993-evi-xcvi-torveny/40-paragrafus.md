@@ -8,7 +8,7 @@
 
 (5) Az internetes honlappal rendelkező pénztár köteles éves beszámolóját a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt internetes honlapján évente, a tárgyévet követő év június 30-áig közzétenni.
 
-(6) A pénztár a pénztári beszámoló részét képező mérleget, eredménykimutatást a tárgyévet követő év június 30-áig a beszámoló könyvvizsgálói záradékával együtt a Pénzügyi Közlönyben köteles közzétenni.
+(6) A pénztár a pénztári beszámoló részét képező mérleget, eredménykimutatást, kiegészítő mellékletet a tárgyévet követő év június 30-áig a beszámoló könyvvizsgálói záradékával együtt a Felügyelet által üzemeltetett közzétételi helyen köteles közzétenni.
 
 (7) Az internetes honlappal rendelkező pénztár köteles alapszabályának, ezen belül a bevételek tartalékok közötti megosztásának változását a változtatásról hozott döntést követő 2 munkanapon belül – a változások kiemelésével – honlapján közzétenni.
 

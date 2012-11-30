@@ -18,6 +18,6 @@ a) statisztikai célokra a Központi Statisztikai Hivatal,
 
 b) a gazdaságpolitikai és költségvetés-politikai feladatok ellátása céljából az államháztartásért felelős miniszter és a gazdaságpolitika makrogazdasági szabályozásáért felelős miniszter,
 
-c) a gazdasági, pénzpiaci folyamatok elemzése, a pénztárak befektetési tevékenységének eredményesebbé tétele, valamint a pénztárak szolgáltatási kötelezettsége teljesíthetőségének értékelése céljából a Pénztártanács részére.
+c)
 
 (8) A Felügyelet a pénztárak egyedi azonosítására alkalmas adatokat szolgáltat a feladatkörében eljáró Gazdasági Versenyhivatal részére.

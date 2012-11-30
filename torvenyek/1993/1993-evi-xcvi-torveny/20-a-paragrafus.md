@@ -1,4 +1,4 @@
-20/A. § (1) A pénztár a nevében, székhelyében, a bevételek tartalékok közötti megosztásának arányában, a vezető tisztségviselők, illetve az ügyvezető (helyettes ügyvezető) személyében bekövetkező változást annak időpontját követő 30 napon belül a Felügyeletnek bejelenti.
+20/A. § (1) A pénztár a nevében, székhelyében, a bevételek tartalékok közötti megosztásának arányában, a vezető tisztségviselők, illetve az ügyvezető (helyettes ügyvezető) személyében bekövetkező változást annak időpontját követő 15 napon belül a Felügyeletnek bejelenti.
 
 (2) A pénztár megalakulásakor és a vezető tisztségviselők, az ügyvezető (helyettes ügyvezető), illetve a kötelező alkalmazottak, megbízottak változása esetén – ideértve azok újraválasztását vagy újbóli kinevezését is – figyelemmel a (3) bekezdésben foglaltakra a pénztár csatolja
 

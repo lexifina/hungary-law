@@ -28,7 +28,15 @@ e) haláleseti kedvezményezett: a pénztártag által megjelölt természetes s
 
 f) tagsági okirat: a pénztár által kiállított, legalább a belépési nyilatkozaton szereplő adatokat tartalmazó, teljes bizonyító erejű magánokirat;
 
-g) pénztári befizetések kedvezménye: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 44/A. §-a szerint a magánszemély rendelkezése alapján az adóhatóság által a magánszemély javára a pénztárhoz átutalt összeg.
+g) pénztári befizetések kedvezménye: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 44/A. §-a szerint a magánszemély rendelkezése alapján az adóhatóság által a magánszemély javára a pénztárhoz átutalt összeg;
+
+h) elektronikus irat: olyan bizonylat, amely megfelel az elektronikus aláírásról szóló 2001. évi XXXV. törvényben foglalt rendelkezéseknek;
+
+i) elektronikus irat használata: a pénztártag teljes bizonyító erejű magánokiratba foglalt nyilatkozatban kérheti a pénztártól, hogy a pénztár a részére átadandó dokumentumokat, nyilatkozatokat, igazolásokat elektronikus iratként küldje meg részére;
+
+j) nyílt pénztár: az a pénztár, amely a lehetséges pénztártagok körét – a területi pénztár működési területének meghatározása kivételével – nem korlátozza;
+
+k) zárt pénztár: olyan pénztár, amely munkahely vagy szakmai, érdekképviseleti, illetve más, a pénztár alapításakor már meglévő szerveződési elv alapján a pénztár lehetséges tagjainak körét alapszabályában meghatározza.
 
 (4) E törvény alkalmazásában
 
@@ -94,7 +102,7 @@ g) gyógyszer és gyógyászati segédeszköz árának támogatása:
 
 5. az anyatej-helyettesítő és anyatej-kiegészítő tápszerekről szóló jogszabályban meghatározott tápszerek megvásárlásának támogatása;
 
-6. a speciális gyógyászati célra szánt tápszerekről szóló jogszabályban meghatározott tápszerek megvásárlásának támogatása;
+6. a speciális gyógyászati célra szánt tápszerekről szóló jogszabályban meghatározott tápszerek, és az Országos Élelmezés- és Táplálkozástudományi Intézet által nyilvántartásba vett, gluténmentes speciális élelmiszerek megvásárlásának támogatása;
 
 7. társadalombiztosítási támogatással rendelhető, illetve kölcsönözhető gyógyászati segédeszközökről, a támogatás összegéről és mértékéről szóló jogszabályban meghatározott gyógyászati segédeszközök megvásárlásának, kölcsönzésének támogatása, a társadalombiztosítás által nem finanszírozott részre, vagy e támogatás igénybevétele nélküli megvásárlásának, valamint javításának támogatása;
 

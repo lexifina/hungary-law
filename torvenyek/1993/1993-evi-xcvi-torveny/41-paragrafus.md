@@ -10,7 +10,7 @@
 
 a) a jogutód pénztárnak a szolgáltatási kötelezettségeit a bírósági nyilvántartásba vétel, illetve a tevékenységi engedély nélkül is teljesítenie kell;
 
-b) az átalakulással létrejövő pénztár a tevékenységi engedély iránti kérelmet valamennyi érintett pénztárra vonatkozó melléklettel együtt, a második közgyűlés napját követő – ha az érintett pénztárak a közgyűlésüket különböző napon tartották, akkor a később megtartott közgyűlés napját követő – 30 napon belül köteles három példányban a Felügyeletnek benyújtani;
+b) az átalakulással létrejövő pénztár a tevékenységi engedély iránti kérelmet valamennyi érintett pénztárra vonatkozó melléklettel együtt, a második közgyűlés napját követő – ha az érintett pénztárak a közgyűlésüket különböző napon tartották, akkor a később megtartott közgyűlés napját követő – 30 napon belül köteles a Felügyeletnek benyújtani;
 
 c) a tevékenységi engedély iránti kérelemhez az alábbiakat kell csatolni:
 

@@ -2,7 +2,7 @@
 
 50/B. § (1) Az önsegélyező pénztár kiegészítő önsegélyező szolgáltatásként a következő szolgáltatásokat nyújthatja:
 
-a) gyermek születéséhez kapcsolódó ellátások, melyeket a pénztár a gyermeket nevelő szülő, örökbefogadó szülő vagy gyám részére biztosíthat. A gyermek születéséhez kapcsolódó ellátások a gyermek megszületése, örökbefogadása, valamint a terhességi-gyermekágyi segély, a gyermekgondozási díj, a gyermekgondozási segély és a gyermeknevelési támogatás folyósítása esetén vehetőek igénybe;
+a) gyermek születéséhez kapcsolódó ellátások, melyeket a pénztár a gyermeket nevelő szülő, örökbefogadó szülő vagy gyám részére biztosíthat. A gyermek születéséhez kapcsolódó ellátások a várandósság ideje alatt a magzat 91 napos korától megszületéséig, a gyermek megszületése, örökbefogadása, valamint a terhességi-gyermekágyi segély, a gyermekgondozási díj, a gyermekgondozási segély és a gyermeknevelési támogatás folyósítása esetén vehetőek igénybe;
 
 b) munkanélküliségi ellátások, melyeket a pénztár azon személyek részére nyújthatja, akiknek jövedelemszerző tevékenysége megszűnt és nyugellátásra nem jogosultak;
 
@@ -14,8 +14,16 @@ e) hátramaradottak segélyezése halál esetén, mely szolgáltatást a pénzt�
 
 f)
 
-g) nevelésiév-kezdési, tanévkezdési (beiskolázási) támogatás, mellyel a közoktatásról szóló törvényben meghatározott gyermek, tanuló számára, a rá tekintettel a családok támogatásáról szóló törvény szerint családi pótlékra jogosult személy által vásárolt tankönyv, taneszköz, ruházat árának megtérítése biztosítható. A beiskolázási támogatás éves összege egy személy részére gyermekenként legfeljebb a tárgyév első napján érvényes havi minimálbér harminc százaléka lehet;
+g) nevelésiév-kezdési, tanévkezdési (beiskolázási) támogatás, mellyel a közoktatásról szóló törvényben meghatározott gyermek, tanuló számára, a rá tekintettel a családok támogatásáról szóló törvény szerint családi pótlékra jogosult személy által vásárolt tankönyv, taneszköz, ruházat árának, valamint a felsőoktatásról szóló törvény 1. számú mellékletében felsorolt, Magyarország államilag elismert felsőoktatási intézményében hallgatói jogviszonnyal rendelkező 25. életévét be nem töltött természetes személy tekintetében kifizetett, költségtérítés (tandíj), térítési díj, kollégiumi díj, albérleti díj megtérítése biztosítható. A beiskolázási támogatás éves összege egy személy részére gyermekenként legfeljebb a tárgyév első napján érvényes havi minimálbér lehet;
 
-h) gyógyszer és gyógyászati segédeszköz árának támogatása.
+h) gyógyszer és gyógyászati segédeszköz árának támogatása;
+
+i) közüzemi díjak: finanszírozásának támogatása, amely a földgázellátásról szóló 2008. évi XL. törvényben és a villamos energiáról szóló 2007. évi LXXXVI. törvényben meghatározott védendő fogyasztónak minősülő pénztártag által fizetendő közüzemi díjak (villamos energia, gáz, ivóvíz, csatornadíj) megtérítésére biztosítható. A közüzemi díjak finanszírozására fordítható támogatás havi összege legfeljebb a tárgyév első napján érvényes havi minimálbér 15 százalékának megfelelő összeg lehet;
+
+j) lakáscélú devizaalapú jelzáloghitel törlesztésének támogatása: amelyet a pénztár közvetlenül a folyósító hitelintézet részére fizethet meg, amennyiben a törlesztő részlet mértéke a hitelszerződés aláírásának időpontját követő árfolyamváltozás következtében húsz százalékot meghaladó mértékben nőtt és a támogatást a pénztártag igényelte. A lakáscélú devizahitel törlesztésére fordítható támogatás havi összege, legfeljebb a tárgyév első napján érvényes havi minimálbér 15 százalékának megfelelő összeg lehet;
+
+k) otthoni gondozás: amelyet a pénztártag vagy közeli hozzátartozója részére a helyi önkormányzat által kiadott működési engedéllyel rendelkező szolgáltató nyújthat;
+
+l) idősgondozás támogatása: a pénztártag vagy közeli hozzátartozója részére, gondozási, ápolási intézményben való elhelyezés napi vagy havi díjának támogatására.
 
 (2) Az önsegélyező pénztár az 51/B. §-a (1) bekezdésének f)–g) pontjaikban foglalt szolgáltatásokat is nyújthatja kiegészítő önsegélyező szolgáltatásként.

@@ -6,7 +6,7 @@
 
 a) az 50/B. § (1) bekezdésének a) pontjában meghatározott ellátások közül
 
-aa) a gyermek megszületése, illetve örökbefogadása alapján nyújtható egyszeri, egyösszegű támogatás;
+aa) a magzat (orvos által igazolt) fogantatásának 91. napjától megszületéséig nyújtható szolgáltatás, a várandóssággal összefüggő orvosi ellátás igazolt költségének támogatására, valamint a magzat 91. napos korától a megszületéséig nyújtható, a gyermek megszületése, illetve örökbefogadása esetén nyújtható egyszeri, egyösszegű támogatás;
 
 ab) a terhességi-gyermekágyi segély, a gyermekgondozási díj kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
 
@@ -32,4 +32,8 @@ g) az 50/B. § (1) bekezdésének h) pontjában meghatározott ellátások;
 
 h) az 50/B. § (2) bekezdésében meghatározott szolgáltatások;
 
-i) az 50/C. §-ban meghatározott ellátások.
+i) az 50/C. §-ban meghatározott ellátások;
+
+j) az 50/B. § (1) bekezdés k) pontjában meghatározott szolgáltatás támogatása az otthoni gondozás tartamára, az igazolt gondozási díj, legfeljebb a nyugdíjminimum havi összegének mértékéig;
+
+k) az 50/B. § (1) bekezdés l) pontjában meghatározott szolgáltatás támogatása az intézményi elhelyezés tartamára, az igazolt napi vagy havi díj, de legfeljebb a nyugdíjminimum napi vagy havi összegének mértékéig.

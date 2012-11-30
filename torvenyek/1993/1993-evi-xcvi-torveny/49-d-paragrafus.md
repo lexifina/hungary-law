@@ -31,3 +31,5 @@ c) a rendszer működtetése veszélyezteti a tagok megtakarításainak biztons�
 d) a pénztár a rendszer működtetésének megszüntetését a (6) bekezdésben foglaltaknak megfelelően a Felügyeletnek bejelenti.
 
 (6) Az (5) bekezdés d) pontja szerinti bejelentésnek tartalmaznia kell a rendszer megszüntetésének időpontját. A rendszer működtetésére kiadott engedélyt a Felügyelet a rendszer megszüntetésének időpontjára vonatkozóan vonja vissza. A bejelentéshez csatolni kell a rendszer megszüntetéséről határozó közgyűlés jegyzőkönyvét.
+
+(7) A pénztár a 49/B. § (3) bekezdés szerinti választható portfoliós rendszer szabályzatában olyan portfóliót is kialakíthat, amelynek eszköz összetétele a szabályzatban előre meghatározott időpontokban, illetve idő elteltével a portfolió befektetési politikájában meghatározottak szerint változik.

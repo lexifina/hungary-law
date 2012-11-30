@@ -24,6 +24,10 @@ j) pénzbeli kiegészítő egészségbiztosítási szolgáltatások, amely a pé
 
 k) hátramaradottak segélyezése: a pénztártag halála esetén;
 
-l)–n)
+l) OÉTI által nyilvántartásba vett, gluténmentes speciális élelmiszerek vásárlásának támogatása.
+
+m) szolgáltatást finanszírozó egészségbiztosítások (betegség biztosítások) díjának fizetése.
+
+n)
 
 (2)
