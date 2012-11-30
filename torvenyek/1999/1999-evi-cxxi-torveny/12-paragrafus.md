@@ -18,9 +18,9 @@ g) külön törvények rendelkezései szerint részt vesz az országosan működ
 
 h) megállapítja a közfeladatok ellátásához nyújtott költségvetési támogatás területi gazdasági kamarák közötti elosztásának elveit;
 
-i) kidolgozza a kamarák részére átadott közfeladatok egységes eljárás keretében történő ellátásához szükséges önkormányzati szabályzatot.
+i) kidolgozza a kamarák részére átadott közfeladatok egységes eljárás keretében történő ellátásához szükséges önkormányzati szabályzatot;
 
-j)
+j) közreműködik a külkereskedelem fejlesztésében, részt vesz a külkereskedelem fellendítését elősegítő gazdálkodó szervezetek rendszerének kialakításában és működtetésében.
 
 (2) Az országos kamarák Állandó Választottbíróságot működtethetnek. A Magyar Kereskedelmi és Iparkamara biztosítja a nemzetközi kereskedelmi ügyekben is eljáró Állandó Választottbíróság működési feltételeit, megválasztja és visszahívja a választottbírókat.
 

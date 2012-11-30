@@ -1,0 +1,3 @@
+13/A. § (1) A 12. § (1) bekezdés c) pontjában meghatározott közfeladatokat az országos gazdasági kamara az állam és az országos gazdasági kamara által – 50 százalékot meghaladó állami tulajdonrésszel – alapított zártkörűen működő részvénytársaság közreműködésével látja el. Az államnak az alapítással kapcsolatos jogait a gazdaságpolitikáért felelős miniszter gyakorolja a (2) bekezdésben meghatározottak szerint.
+
+(2) Az állam az (1) bekezdés szerinti társaságban fennálló társasági részesedése feletti tulajdonosi jogait a gazdaságpolitikáért felelős miniszter gyakorolja azzal, hogy a tulajdonosi döntéseket az agrár-vidékfejlesztésért felelős miniszterrel való egyeztetést követően hozza meg.

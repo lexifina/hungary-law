@@ -8,6 +8,6 @@
 
 (4) A kamarai hozzájárulás fizetésének részletes szabályait az országos gazdasági kamara alapszabálya határozza meg.
 
-(5) A meg nem fizetett kamarai hozzájárulás köztartozás. A kamarai hozzájárulás meg nem fizetése esetén azt az állami adóhatóság adók módjára hajtja be.
+(5) A meg nem fizetett kamarai hozzájárulás köztartozás, amelyet az állami adóhatóság adók módjára hajt be. A kamarai hozzájárulás behajtása érdekében a gazdasági kamara akkor is megkeresheti az állami adóhatóságot, ha a tartozás a 10 000 forintot nem haladja meg, de eléri az 5 000 forintot.
 
 (6) A (2) bekezdés szerinti összeg 10%-a az országos gazdasági kamarát, 90%-a a területi gazdasági kamarát illeti meg. A területi gazdasági kamara az országos kamarának járó részt tárgyév április 30-ig köteles megfizetni.
