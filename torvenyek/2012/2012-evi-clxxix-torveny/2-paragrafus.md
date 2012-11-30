@@ -6,4 +6,4 @@
 
 (3) Az (1) bekezdés rendelkezéseit a hatálybalépését követően megkötött és a hatálybalépésekor fennálló ügyletekre, a (2) bekezdés rendelkezéseit a hatálybalépésekor fennálló ügyletekre kell alkalmazni.”
 
-(2) Hatályát veszti a Gst. 48. §-a.
+(2)
