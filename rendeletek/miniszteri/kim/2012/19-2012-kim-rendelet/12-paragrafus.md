@@ -4,7 +4,7 @@
 
 a) a kedvezményezett 5. melléklet szerinti nyilatkozata az igénybe vett de minimis támogatásokról,
 
-b)[^2] – a határon túli támogatási célt szolgáló fejezeti kezelésű előirányzatokból nyújtott költségvetési támogatás kivételével – a kedvezményezett 6. melléklet szerinti nyilatkozata az adott tárgyban benyújtott támogatási kérelmekről,
+b)[^5] – a határon túli támogatási célt szolgáló fejezeti kezelésű előirányzatokból nyújtott költségvetési támogatás kivételével – a kedvezményezett 6. melléklet szerinti nyilatkozata az adott tárgyban benyújtott támogatási kérelmekről,
 
 c) gazdálkodó szervezet esetén a létezését jogszabályban meghatározottak szerint igazoló, 30 napnál nem régebbi, hiteles okirat, különösen cégkivonat, nyilvántartásba vételről szóló igazolás hiteles másolata,
 
@@ -32,4 +32,4 @@ b) ha a költségvetési támogatás az Európai Unió működéséről szóló 
 
 (3) Ha a kötelezettségvállaló a támogatási szerződésben az (1) bekezdés h) pontjában meghatározott biztosítéktól eltérő biztosítékot köt ki, e tényről az (1) bekezdés szerinti értesítésben kell a kedvezményezettet tájékoztatni.
 
-[^2]: A 12. § (1) bekezdés b) pontja a 41/2012. (VIII. 31.) KIM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 12. § (1) bekezdés b) pontja a 41/2012. (VIII. 31.) KIM rendelet 2. §-ával megállapított szöveg.

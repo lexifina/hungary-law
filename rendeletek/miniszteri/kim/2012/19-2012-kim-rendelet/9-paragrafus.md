@@ -6,7 +6,7 @@
 
 a) a közpénzekből nyújtott támogatások átláthatóságáról szóló törvényben és a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény végrehajtásáról szóló kormányrendeletben foglaltak teljesítése érdekében az 1. mellékletet, valamint
 
-b)[^1] a 3. melléklet, a határon túli támogatási célt szolgáló fejezeti kezelésű előirányzatokból nyújtott költségvetési támogatás esetén a 4. melléklet szerinti, hiánytalanul kitöltött nyilatkozatokat
+b)[^4] a 3. melléklet, a határon túli támogatási célt szolgáló fejezeti kezelésű előirányzatokból nyújtott költségvetési támogatás esetén a 4. melléklet szerinti, hiánytalanul kitöltött nyilatkozatokat
 
 ## a kötelezettségvállaló rendelkezésére bocsátja.
 
@@ -14,4 +14,4 @@ b)[^1] a 3. melléklet, a határon túli támogatási célt szolgáló fejezeti 
 
 (3) A támogatási kérelem akkor minősül befogadottnak, ha a támogatási kérelem mellett az (1) bekezdés – és érintettség esetén a (2) bekezdés – szerinti, hiánytalanul kitöltött iratok a kötelezettségvállaló rendelkezésére állnak.
 
-[^1]: A 9. § (1) bekezdés b) pontja a 41/2012. (VIII. 31.) KIM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 9. § (1) bekezdés b) pontja a 41/2012. (VIII. 31.) KIM rendelet 1. §-ával megállapított szöveg.

@@ -8,6 +8,9 @@
 
 3. szakmai felügyeletet ellátó személy: az egyes előirányzatoknál kötelezettségvállalásra felhatalmazott személy,
 
-4. kezelő szerv: a 30. §-ban és a 36. §-ban meghatározott előirányzatok tekintetében a kötelezettségvállalásra, a kötelezettségvállalás pénzügyi ellenjegyzésére, a teljesítés igazolására, az utalványozásra, az érvényesítésre, a könyvvezetésre és a beszámolásra, pályázat kiírásra, a támogatói okirat, támogatói szerződés kiadására és visszavonására, a szerződés megkötésére, módosítására, a támogatási szerződéstől történő elállásra vagy a támogatói szerződés felmondására, a kedvezményezett beszámoltatására, a költségvetési támogatás felhasználásának ellenőrzésére, valamint a jogosulatlanul igénybe vett költségvetési támogatás visszakövetelésére feljogosított szervezet,
+4.[^2] kezelő szerv: a 30. §-ban és a 18/A. alcímben meghatározott előirányzat tekintetében a teljesítés igazolására, az utalványozásra, az érvényesítésre, valamint a jogosulatlanul igénybe vett költségvetési támogatás visszakövetelésére feljogosított szervezet,
 
-5. lebonyolító szervezet: a minisztérium részére a kincstárnál – a lebonyolítási céllal rendelkezésre bocsátott előirányzathoz – vezetett lebonyolítási számla felett rendelkező szerv, amely a teljes vagy rész összegben rendelkezésére bocsátott fejezeti kezelésű előirányzat tekintetében a költségvetési támogatás továbbadására, kötelezettségvállalásra és pénzügyi ellenjegyzésre jogosult, továbbá ellátja a fejezeti kezelésű előirányzat felhasználásával összefüggő, külön megállapodásban rögzített feladatokat.
+5.[^3] lebonyolító szerv: a minisztérium részére a kincstárnál – a lebonyolítási céllal rendelkezésre bocsátott előirányzathoz – vezetett lebonyolítási számla felett rendelkező szerv, amely a teljes vagy rész összegben rendelkezésére bocsátott fejezeti kezelésű előirányzat tekintetében a költségvetési támogatás továbbadására, kötelezettségvállalásra és pénzügyi ellenjegyzésre jogosult, továbbá ellátja a fejezeti kezelésű előirányzat felhasználásával összefüggő, külön megállapodásban rögzített feladatokat.
+
+[^2]: A 3. § 4. pontja a 48/2012. (XI. 29.) KIM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § 5. pontja a 48/2012. (XI. 29.) KIM rendelet 7. § a) pontja szerint módosított szöveg.

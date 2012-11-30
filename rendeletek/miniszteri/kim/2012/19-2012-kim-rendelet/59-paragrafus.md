@@ -4,6 +4,6 @@
 
 59. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2)[^26]
+(2)[^38]
 
-[^26]: Az 59. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: Az 59. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

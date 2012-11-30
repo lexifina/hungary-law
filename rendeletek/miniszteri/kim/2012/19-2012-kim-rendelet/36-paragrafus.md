@@ -1,3 +1,3 @@
-## 23.[^8]
+## 23.[^20]
 
-[^8]: A 23. alcímet a 41/2012. (VIII. 31.) KIM rendelet 3. §-a hatályon kívül helyezte.
+[^20]: A 23. alcímet a 41/2012. (VIII. 31.) KIM rendelet 3. §-a hatályon kívül helyezte.
