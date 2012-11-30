@@ -1,3 +1,0 @@
-## 1. § Az EU Önerő Alap felhasználásának részletes szabályairól szóló 285/2012. (X. 9.) Korm. rendelet (a továbbiakban: R.) 7. §-a a következő (5) bekezdéssel egészül ki:
-
-## „(5) Ha az önerő-támogatás iránti kérelem olyan projekt megvalósításához kapcsolódik, amelyből a kedvezményezettnek bevétele (a továbbiakban: támogatással érintett bevétel) keletkezik, legkésőbb az önerő-támogatási szerződés vagy önerő-támogatási okirat hatálybalépésének időpontjáig az igénylőnek nyilatkoznia kell arról, hogy a támogatással érintett bevételeit maradéktalanul a rendszer fenntartására – pótlási, üzemeltetési, fejlesztési költségeire – fordítja.”
