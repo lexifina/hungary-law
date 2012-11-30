@@ -8,7 +8,7 @@ c) a közlekedési kedvezmények azon körét, amely adómentes természetbeni j
 
 d) a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának részletes szabályait;
 
-e) a mezőgazdasági őstermelői igazolvány kiadásával összefüggő előírásokat;
+e) a mezőgazdasági őstermelői igazolvány kiadásával, visszavonásával, használata jogszerűségének, az abban foglalt adatok valódiságának ellenőrzésével és elektronikus ügyintézésével összefüggő előírásokat;
 
 f)
 
