@@ -8,7 +8,7 @@ b) a társadalombiztosítási szervnek, az egészségbiztosítási nyilvántart�
 
 c) a társadalombiztosítási szervnek, a nyugdíjbiztosítási nyilvántartásában szereplő polgár családi és utónevének (nők esetében beleértve a leánykori családi és utónevet is), anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének – ennek hiányában tartózkodási helyének – változásáról, ideiglenesen külföldön tartózkodásának tényéről vagy az onnan való visszatéréséről, továbbá az érintett elhalálozásáról, az ország végleges elhagyásáról;
 
-d) A Pénzügyi Szervezetek Állami Felügyeletének a Pénztárak Központi Nyilvántartásában szereplő személy elhalálozásáról, az elhalálozás időpontjáról;
+d)
 
 e) a kincstárnak, a kincstár által folyósított ellátásban részesülő személy és a külön törvényben meghatározott kincstár által vezetett egységes szociális nyilvántartásban szereplő személy családi és utónevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról;
 
