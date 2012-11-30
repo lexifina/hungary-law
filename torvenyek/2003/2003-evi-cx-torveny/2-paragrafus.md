@@ -28,7 +28,7 @@ d) törvényben kihirdetett nemzetközi szerződésben vagy törvényben meghat�
 
 10. motorkerékpár: a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (a továbbiakban: KRESZ) alapján motorkerékpárnak vagy segédmotoros kerékpárnak minősülő gépjármű, valamint az a személygépkocsiként forgalomba helyezett négykerekű gépjármű, amelynek saját tömege, valamint motorteljesítménye a KRESZ alapján motorkerékpárnak minősülő négykerekű gépjármű ismérveinek felel meg;
 
-11. Közösségen belüli beszerzés: új gépjármű másik tagállamból történő behozatala, vagy egyéb módon történő bejuttatása, ahol az általános forgalmi adó (a továbbiakban: áfa) megfizetése az általános forgalmi adóról szóló 1992. évi LXXIV. törvény (a továbbiakban: áfa-törvény) 46. §-a (2) bekezdésének b) pontja alapján történik;
+11. Közösségen belüli beszerzés: új gépjármű másik tagállamból történő behozatala, vagy egyéb módon történő bejuttatása, ahol az általános forgalmi adó (a továbbiakban: áfa) megfizetése az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: áfa-törvény) 154. § (2) bekezdése alapján történik;
 
 12. importáló: az áfa-törvény szerinti importáló;
 

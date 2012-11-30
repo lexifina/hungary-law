@@ -8,6 +8,8 @@ a) az adó különös szabályok szerinti megállapítására irányuló eljár�
 
 b) az adó-visszaigénylésre irányuló eljárásban,
 
-c) jogorvoslati eljárásban.
+c) jogorvoslati eljárásban,
+
+d) a gépjárműflotta-üzemeltető által bérbe adott személygépkocsikkal kapcsolatos adóigazgatási eljárásban.
 
 (3) Elektronikus eljárást az kezdeményezhet, aki – az elektronikus adatküldéssel összefüggő azonosíthatóság érdekében – a vámhatóság által üzemeltetett informatikai rendszer igénybevétele esetén a vámhatóságnál, az ügyfélkapu igénybevétele esetén az okmányirodánál és a vámhatóságnál regisztráltatta magát. Az elektronikus RAA-t a regisztrált személy a vámhatóság által közzétett tájékoztatás szerint küldi be.
