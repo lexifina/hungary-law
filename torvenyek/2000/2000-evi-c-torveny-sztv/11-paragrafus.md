@@ -18,9 +18,11 @@
 
 (9) A beszámolóban rögzített adatoknál forintról devizára, devizáról forintra, illetve devizáról más devizára való áttéréskor, továbbá a gazdasági társaságokról szóló törvényben nem szabályozott átalakulásnál az üzleti év az (5)–(8) bekezdésnek megfelelően határozható meg azzal, hogy – értelemszerűen – a mérlegfordulónap az áttérés, az átalakulás napja.
 
-(10) Üzleti év a vállalkozó felszámolása, illetve végelszámolása esetén az előző üzleti év mérlegfordulónapját követő naptól a felszámolás, illetve a végelszámolás kezdő időpontját megelőző napig – mint mérlegfordulónapig – terjedő időszak. Amennyiben a felszámolás, a végelszámolás úgy fejeződik be, hogy a vállalkozó nem szűnik meg, az eljárás befejezését követő üzleti év az erről szóló végzés jogerőre emelkedésének napját követő naptól a vállalkozó által – az (1)–(3) bekezdés szerinti feltételekkel – az üzleti év végeként megjelölt napig – mint mérlegfordulónapig – terjedő időszak.
+(10) Üzleti év a vállalkozó felszámolása, végelszámolása, illetve kényszertörlési eljárása esetén az előző üzleti év mérlegfordulónapját követő naptól a felszámolás, a végelszámolás, illetve kényszertörlési eljárása kezdő időpontját megelőző napig – mint mérlegfordulónapig – terjedő időszak. Amennyiben a felszámolás, a végelszámolás úgy fejeződik be, hogy a vállalkozó nem szűnik meg, az eljárás befejezését követő üzleti év az erről szóló végzés jogerőre emelkedésének napját követő naptól a vállalkozó által – az (1)–(3) bekezdés szerinti feltételekkel – az üzleti év végeként megjelölt napig – mint mérlegfordulónapig – terjedő időszak.
 
-(11) A felszámolás időszaka egy üzleti évnek minősül, függetlenül annak időtartamától.
+(11) A felszámolás, illetve a kényszertörlési eljárás időszaka egy üzleti évnek minősül, függetlenül annak időtartamától.
+
+(11a) Ha a kényszertörlési eljárás lefolytatása során felszámolási eljárás kerül elrendelésre, a felszámolás időszaka üzleti évének kezdő napja a felszámolás elrendelésének a napja.
 
 (12) A végelszámolás időszaka általában egy üzleti év. Amennyiben a végelszámolás 12 naptári hónap alatt nem fejeződik be, a végelszámolás időszaka alatt az üzleti év(ek) időtartama 12 hónap, míg az utolsó üzleti év 12 naptári hónapnál rövidebb is lehet.
 
