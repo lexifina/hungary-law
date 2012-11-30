@@ -106,7 +106,7 @@ f) működését a bíróság nem függesztette fel, valamint megszüntetésére
 
 g) nem áll a sportigazgatási szerv által az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint alkalmazott támogatásból kizárás hatálya alatt, és
 
-h) a látvány-csapatsportban működő hivatásos vagy amatőr sportszervezet a támogatási igazolási kérelem benyújtásának időpontjában – az (5a) bekezdésben meghatározott kivételekkel – legalább 2 éve működik és:
+h) a látvány-csapatsportban működő hivatásos vagy amatőr sportszervezet vagy látvány-csapatsport fejlesztése érdekében létrejött közhasznú alapítvány a támogatási igazolási kérelem benyújtásának időpontjában – az (5a) bekezdésben meghatározott kivételekkel – legalább 2 éve működik és:
 
 ha) az országos sportági szakszövetség országos hivatásos, amatőr vagy vegyes (nyílt) versenyrendszerében (nemzeti bajnokság) a sportág versenyszabályzata szerinti valamelyik felnőtt vagy utánpótlás osztály egyikében – diák sportegyesület feladatait ellátó amatőr sportszervezet esetén az országos jelleggel működő diák-, vagy főiskolai-egyetemi sportszövetség által szervezett versenyeken – részt vesz vagy a részvételre indulási jogot szerzett, vagy
 
@@ -123,6 +123,8 @@ ab) a sportvállalkozás az amatőr versenyrendszerbe (bajnokságba) kerül, kö
 ac) a támogatás igénybevételére jogosult szervezet 2 éven belül megszűnt sportszervezet általános jogutódjaként annak indulási jogát gyakorolja,
 
 ad) ha a támogatás igénybevételére jogosult sportszervezet az utánpótlás-nevelés területén működő sportvállalkozásként 2 éven belül létrehozott olyan sportszervezet, amelynek a felkészítésre és a versenyeztetésre vonatkozó együttműködési megállapodása van felnőtt korosztályos versenyrendszerben (nemzeti bajnokság) részt vevő sportvállalkozással;
+
+ae) a támogatás igénybevételére jogosult, két éven belül létrehozott sportszervezet az indulási jogot a sportról szóló törvény 33. § (2) bekezdés c) pontja alapján megszerző sportszervezetnek vagy a sportszervezet által erre a célra alapított sportvállalkozásnak minősül;
 
 b) ha a támogatási igazolás kiállítását megelőző támogatási időszakban a látvány-csapatsportban működő hivatásos vagy amatőr sportszervezet az országos sportági szakszövetség által jóváhagyott sportfejlesztési programmal rendelkezik.
 
