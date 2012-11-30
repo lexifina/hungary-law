@@ -1,0 +1,3 @@
+332. § Az Öpt. 16/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A kedvezményezett-jelölés a pénztár tudomásulvételével, a jelölés megtételének időpontjára visszamenőlegesen válik hatályossá. A pénztár a kedvezményezett-jelöléséről a tagot a záradékolt belépési nyilatkozat nyomtatott formában, vagy a pénztártag kérésére elektronikus iratként történő átadásával vagy megküldésével, illetve egyéb esetben a tudomásszerzést követő 15 napon belül a tagsági okirat nyomtatott formában, vagy a pénztártag kérésére elektronikus iratként történő megküldésével értesíti. A tagsági okiratnak tartalmaznia kell a tag adatain kívül a tag által megjelölt kedvezményezett(ek) nevét, adatait, jogosultsága(ik) arányát, a kedvezményezett-jelölés időpontját.”

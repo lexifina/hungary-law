@@ -1,0 +1,9 @@
+432. § A 91. § (2) bekezdésében meghatározott, a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 52. § (2) bekezdés d) pontja szerinti adómérték a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 2008. augusztus 6-i 800/2008/EK bizottsági rendelet 25. cikke alapján környezeti adók csökkentése formájában nyújtott támogatásnak minősül.
+
+Áder János s. k.,
+
+köztársasági elnök
+
+Lezsák Sándor s. k.,
+
+az Országgyűlés alelnöke

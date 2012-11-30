@@ -1,0 +1,3 @@
+140. § Az Áfa tv. 178. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén a géppel kiállított nyugták, számlák, valamint a pénztárgép adatairól az adóalany – külön jogszabály szerint – rendszeresen adatszolgáltatást teljesít az állami adóhatóság részére. Külön jogszabály előírhatja, hogy a nyugta-kibocsátási kötelezettség kötelező gépi kiállítással történő megvalósítására szolgáló pénztárgép működését az állami adóhatóság hírközlő eszköz és rendszer útján felügyelje. Ebben az esetben az adatszolgáltatás – külön jogszabály szerint – az állami adóhatóság általi közvetlen adatlekérdezéssel is megvalósítható.”

@@ -1,0 +1,3 @@
+45. § Az Ekho tv. a következő 14/C. §-sal egészül ki:
+
+„14/C. § E törvény 2012. december 31-én hatályos 4. § (2) bekezdését kell alkalmazni a 2013. január 10-éig megszerzett, 2012. decemberi ekho alapot képező olyan jövedelmekre, amelyeket a 2012. december hónapra vonatkozóan benyújtott bevallásban kell bevallani.”

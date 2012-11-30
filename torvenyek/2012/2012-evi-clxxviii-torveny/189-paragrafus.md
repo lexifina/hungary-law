@@ -1,0 +1,9 @@
+189. § Az Itv. 26. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az (1) bekezdés r) pontjában említett feltételek vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig kell nyilatkoznia az állami adóhatóságnál. Ha a vagyonszerző a fizetési meghagyás jogerőre emelkedéséig nyilatkozik arról, hogy a megszerzett földrészleten a sportcélú ingatlan létrehozásán kívül más épületet, építményt is létrehozni, építeni kíván, az adóhatóság a kiszabott illetékből kizárólag a sportcélú ingatlannal beépíteni kívánt földrészlet után arányosan járó illetéket függeszti fel. Az (1) bekezdés r) pontjában említett sportcélú ingatlan felépítésének igazolása érdekében az ott meghatározott 4 éves határidő elteltét követő 15 napon belül az állami adóhatóság megkeresi az ingatlan fekvése szerint illetékes építésügyi hatóságot. Az állami adóhatóság a megállapított, de a megfizetés tekintetében felfüggesztett illetéket abban az esetben törli, ha
+
+a) az építésügyi hatóság igazolta, hogy a vagyonszerző nevére sportcélú ingatlanra adott ki használatbavételi engedélyt, és
+
+b) a vagyonszerző az ingatlant 15 évig nem idegenítette el, vagyoni értékű jogának gyakorlását másnak nem engedte át, vagyoni értékű jogáról nem mondott le, és
+
+c) a vagyonszerző a létrehozott sportcélú ingatlant sport célra használta vagy hasznosította. Az (1) bekezdés r) pontjának alkalmazásában sportcélú használatnak vagy hasznosításnak minősül, ha a vagyonszerző az ingatlant versenyrendszerben szervezett verseny, mérkőzés, illetve sportszervezet, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány vagy sportszövetség által szervezett edzés megtartására, vagy szabadidősport esemény, diák-, főiskolai-egyetemi sportesemény megtartására használja vagy ilyen eseményekre hasznosítja.”

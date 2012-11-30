@@ -1,0 +1,3 @@
+335. § Az Öpt. 22. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A közgyűlés akkor határozatképes, ha azon a pénztártagok legalább fele jelen van, vagy képviselete biztosított. A közgyűlésen a tagot meghatalmazott is képviselheti. A meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni. Küldöttközgyűlés működtetése esetén minden küldött annyi szavazattal rendelkezik, ahány tagot képvisel. A küldött akadályoztatása esetén helyette csak a vele azonos szabályok szerint megválasztott pótküldött járhat el, a küldöttet más nem helyettesítheti. Küldöttközgyűlésen a pénztár tagja tanácskozási joggal vehet részt.”
