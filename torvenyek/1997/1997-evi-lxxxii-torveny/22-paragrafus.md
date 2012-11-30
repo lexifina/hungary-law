@@ -16,6 +16,6 @@ b) önkéntes belépéssel keletkező pénztártagsági jogviszony esetén a bel
 
 (6)
 
-(7) Ha a pénztár a belépési nyilatkozat elfogadását elutasította, az elutasító döntéstől számított öt napon belül az elutasítás tényéről egyidejűleg értesítést küld a munkáltatónak, a biztosítottnak és a pénztárak központi nyilvántartásának.
+(7)
 
 (8)–(10)

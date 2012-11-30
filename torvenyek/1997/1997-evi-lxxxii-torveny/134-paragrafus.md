@@ -6,7 +6,7 @@ a) a pénztárak egyes gazdálkodási szabályait, ideértve a hitelfelvételre,
 
 b) a pénztárak szolgáltatási szabályzatának kötelező tartalmára, az aktuáriusi értékelésre, a szolgáltatások biztosításmatematikai tartalmára, más biztonsági tartalékképzésre vonatkozó rendelkezéseket, valamint a hozamszámításra, annak módjára, továbbá a befektetési kockázatokat kiegyenlítő tartalékra vonatkozó szabályokat, illetőleg a halandósági tábla alkalmazásának feltételeire vonatkozó rendelkezéseket és a szolgáltatás engedélyezésének és a tartalékolásnak a részletes szabályait;
 
-c) a Felügyelet információs adatbázisára, pénztárakkal kapcsolatos feladataira irányadó rendelkezéseket, ideértve a Felügyelet központi nyilvántartással kapcsolatos feladatának és hatáskörének szabályait, illetve a pénztárak által a Felügyelet részére elektronikus úton teljesítendő adatszolgáltatási kötelezettségek körét;
+c)
 
 d) az Alap SzMSz-ének, éves beszámolókészítési és könyvvezetésének sajátosságait;
 
