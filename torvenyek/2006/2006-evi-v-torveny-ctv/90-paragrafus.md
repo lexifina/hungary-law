@@ -7,3 +7,7 @@
 (4) Az (3) bekezdésben meghatározott végzést a cégbíróság a Cégközlönyben közzéteszi azzal, hogy a végzés ellen a megjelenésétől számított tizenöt napon belül fellebbezésnek van helye.
 
 (5) E cím szerinti eljárásban fogalmazó vagy bírósági ügyintéző önállóan jár el, azonban olyan végzést, amely ellen külön fellebbezésnek van helye, csak a cégbíró előzetes, írásos hozzájárulásával hozhat.
+
+6. CÍM
+
+Adószámtörléssel érintett cégek megszüntetésére irányuló eljárás

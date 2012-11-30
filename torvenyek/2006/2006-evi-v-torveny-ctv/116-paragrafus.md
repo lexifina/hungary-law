@@ -4,7 +4,7 @@
 
 116. § (1) A cégbíróság kényszertörlési eljárás megindítását rendeli el, ha
 
-a) törvényességi felügyeleti hatáskörében eljárva a céget megszűntnek nyilvánítja – ideértve a 87. § (2) bekezdését és a 90. § (3) bekezdését is,
+a) törvényességi felügyeleti hatáskörében eljárva a céget megszűntnek nyilvánítja – ideértve a 87. § (2) bekezdését, a 90. § (3) bekezdését és a 91. § (1) bekezdését is,
 
 b) a cég a végelszámolást három éven belül nem fejezte be, és a 34. § (1) bekezdés szerinti határidőn belül törlése iránt szabályszerű kérelmet nem terjesztett elő,
 
@@ -14,7 +14,7 @@ d) a cég jogutód nélküli megszűnését előidéző ok következett be, és 
 
 (2) Nincs helye kényszertörlési eljárás elrendelésének a cég fizetésképtelenségét megállapító végzés meghozatalát követően, valamint abban az esetben, ha a büntetőügyben eljáró bíróság vagy az ügyész a cégbíróságot arról értesíti, hogy a céggel szemben büntetőjogi intézkedés alkalmazására kerülhet sor.
 
-(3) A kényszertörlési eljárás során a cég legfőbb szerve nem dönthet a cégnek a kényszertörlési eljárás alatti működtetéséről, illetve a kényszertörlési eljárás megszüntetéséről. A kényszertörlési eljárás kezdő időpontját követően a cég szervei nem hozhatnak a kényszertörlési eljárás céljával ellentétes döntéseket.
+(3) A kényszertörlési eljárás alá került cég gazdasági tevékenységet nem végezhet. A kényszertörlési eljárás során a cég legfőbb szerve nem dönthet a cégnek a kényszertörlési eljárás alatti működtetéséről, a kényszertörlési eljárás megszüntetéséről, valamint a cég átalakulásáról. A kényszertörlési eljárás kezdő időpontját követően a cég szervei nem hozhatnak a kényszertörlési eljárás céljával ellentétes döntéseket.
 
 (4) A cégbíróság nem dönthet a kényszertörlési eljárás megszüntetéséről.
 

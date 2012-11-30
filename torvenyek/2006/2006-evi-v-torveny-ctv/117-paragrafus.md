@@ -15,3 +15,5 @@ azt harminc napon belül jelentse be a cégbíróságnak.
 (4) A cégbíróság határidő tűzésével felhívja a vezető tisztségviselőt, hogy gondoskodjon az iratok elhelyezéséről és az adózás rendjéről szóló törvény szerinti kötelezettségek teljesítéséről, és ezek megtörténtét a cégbíróságnál igazolja. Amennyiben a vezető tisztségviselő határidőben nem tett eleget ezen kötelezettségének, a cégbíróság erről haladéktalanul, elektronikus úton értesíti az állami adóhatóságot.
 
 (5) Az (1) bekezdés szerinti végzés meghozatalára fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
+
+(6) A cégbíróság a kényszertörlési eljárás kezdő és befejező időpontjáról a kényszertörlési eljárás elrendelését, illetve befejezését követően haladéktalanul, elektronikus úton értesíti az állami adóhatóságot. Az adóhatóság az értesítést követően haladéktalanul, elektronikus úton tájékoztatja a cégbíróságot, ha a cég az adóhatóság nyilvántartása szerint munkavállalót foglalkoztat.

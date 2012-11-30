@@ -12,7 +12,15 @@ a cégbíróság – a 62. § (4) bekezdés figyelembevételével – a céget t
 
 (4) A (2)–(3) bekezdésben meghatározott adatszolgáltatatást az érintett szervezetek soron kívül és ellenszolgáltatás nélkül kötelesek teljesíteni. A (2) és (3) bekezdés szerinti lekérdezésre, megkeresésre fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
 
-(5) Amennyiben a (2)–(3) bekezdésben említett szervezetek értesítése vagy a 117. § szerint tett bejelentés alapján a cégbíróság megállapítja, hogy a cég vagyona előreláthatóan fedezi a várható felszámolási költségeket, vagy a cégnek valószínűsíthetően fedezetelvonó ügylet miatt nincs vagyona, a cégbíróság a kényszertörlési eljárást megszünteti, és kezdeményezi a cég ellen felszámolási eljárás megindítását.
+(5) Ha a (2)–(3) bekezdésben említett szervezetek értesítése vagy a 117. § szerint tett bejelentés alapján a cégbíróság megállapítja, hogy
+
+a) a cég vagyona előreláthatóan fedezi a várható felszámolási költségeket,
+
+b) a cégnek valószínűsíthetően fedezetelvonó ügylet miatt nincs vagyona, vagy
+
+c) a cégnek munkavállalója van,
+
+a cégbíróság a kényszertörlési eljárást megszünteti, és kezdeményezi a cég ellen felszámolási eljárás megindítását.
 
 (6) Az (5) bekezdés alkalmazásában felszámolási költség a Cstv. 57. § (2) bekezdés f) és g) pontjában meghatározott költségek.
 
