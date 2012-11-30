@@ -1,1 +1,0 @@
-## „(3) Az (1) bekezdés a) pontja szerinti adatszolgáltatás keretében személyes adat nem szolgáltatható. A megyei tisztifőorvos az (1) bekezdés a) pontja szerinti adatokat összesítve az országos tisztifőorvos útján megküldi a miniszter részére.”
