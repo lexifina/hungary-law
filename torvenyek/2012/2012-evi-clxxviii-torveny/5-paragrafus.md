@@ -1,3 +1,0 @@
-5. § Az Szja tv. 9. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Ha a biztosítási szerződés a 7. § (1a) bekezdése szerinti esetben utóbb olyan módon módosul, hogy a biztosító teljesítésére a biztosított vagy más magánszemély (nem a díjat fizető személy) válik jogosulttá (e törvény alkalmazásában ideértve azt az esetet is, ha a biztosított a szerződő helyébe lép), a biztosítás szerződésmódosítás időpontjáig megfizetett díja a szerződés módosításának időpontjában – tekintettel az 1. számú melléklet rendelkezéseire is – egy összegben minősül adóköteles biztosítási díjnak a biztosított magánszemélynél, azzal, hogy nem kell alkalmazni ezt a szabályt, ha a magánszemély a más személy által korábban megfizetett díjat a díjat fizető személynek megtéríti.”

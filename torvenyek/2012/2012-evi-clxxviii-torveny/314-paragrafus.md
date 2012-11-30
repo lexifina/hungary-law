@@ -1,3 +1,0 @@
-314. § Az Szt. 46. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A mérlegben kimutatott eredmény meghatározásakor, a mérlegtételek értékelése során figyelembe kell venni – az 52–56. §-ban foglaltak alapján – minden olyan értékcsökkenést, értékvesztést, amely a mérleg fordulónapján meglévő eszközöket érinti, és amely a mérlegkészítés időpontjáig ismertté vált. Az 53–56. §-ok alkalmazásában tartósnak minősül a könyv szerinti érték és a piaci érték különbözete, ha az múltbeli tények vagy jövőbeni várakozások alapján legalább egy évig fennáll. A különbözet tartósnak minősül – fennállásának időtartamától függetlenül – akkor is, ha az az értékeléskor a rendelkezésre álló információk alapján véglegesnek tekinthető.”

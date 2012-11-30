@@ -1,1 +1,0 @@
-170. § A Gjt. 2. § (4) bekezdésben az „a külön jogszabály alapján – de legkésőbb a változás évének végéig – bejelentette” szövegrész helyébe az „a külön jogszabály alapján – de legkésőbb az átruházás évének utolsó napjától számított 15 napon belül – bejelentette” szövegrész lép.

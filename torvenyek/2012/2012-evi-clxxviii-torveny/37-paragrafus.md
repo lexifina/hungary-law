@@ -1,3 +1,0 @@
-37. § A Tao. tv. 22/B. § (18) bekezdése helyébe a következő rendelkezés lép:
-
-„(18) Az adópolitikáért felelős miniszter a (3) bekezdésben meghatározott adatokról évente tájékoztatást nyújt az állami adóhatóság részére. Az adóhatóság a rendelkezésére álló valamennyi adatról adózónként és beruházásonként haladéktalanul tájékoztatja a kincstárt, amely a kapott adatok felhasználásával, megkeresésre – törvénnyel kihirdetett nemzetközi szerződésben előírt tájékoztatási kötelezettség teljesítése érdekében – a miniszter részére adatot szolgáltat. A kincstár által a tájékoztatás révén megszerzett adatra az adózás rendjéről szóló törvénynek az adótitokra vonatkozó rendelkezéseit kell megfelelően alkalmazni.”

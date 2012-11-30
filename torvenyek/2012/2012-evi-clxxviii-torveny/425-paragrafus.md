@@ -1,3 +1,0 @@
-425. § Az Szht. a következő 33/A. §-sal egészül ki:
-
-„33/A. § E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvénnyel megállapított 9. § (1) bekezdés c) pontját és 9. § (5) bekezdését első alkalommal a 2013. január 1-jén vagy azt követően kezdődő adómegállapítási időszakra vonatkozóan kell alkalmazni.”

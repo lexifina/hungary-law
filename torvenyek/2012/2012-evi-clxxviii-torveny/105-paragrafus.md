@@ -1,3 +1,0 @@
-105. § A Jöt. 116/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A jövedéki bírság összege kivételes méltánylást érdemlő körülmény esetén hivatalból vagy kérelemre mérsékelhető, illetve kiszabása mellőzhető. A mellőzés abban az esetben alkalmazható, ha a körülményekből megállapítható, hogy a jogsértő személy az adott helyzetben a tőle elvárható körültekintéssel járt el. A jövedéki bírság mérséklésénél az eset összes körülményét mérlegelni kell, különösen az adózás alól elvont termék, a hamis, hamisított vagy jogtalanul megszerzett adójegy, zárjegy és hivatalos zár mennyiségét, az adóhiány nagyságát, keletkezésének körülményeit, a jogsértő személy jogellenes magatartásának súlyát.”

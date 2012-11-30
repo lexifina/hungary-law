@@ -1,3 +1,0 @@
-234. § A Vtv. 7/N. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A kapcsolódó vizsgálat időtartama az utólagos ellenőrzés határidejébe nem számít bele. A vámhatóság a kapcsolódó vizsgálat időtartama alatt az ellenőrzést a kapcsolódó vizsgálattal nem érintett kérdésekben folytathatja. A kapcsolódó vizsgálat kezdő és befejező időpontjáról a vámhatóság az ellenőrzött személyt értesíti. A kapcsolódó vizsgálattal egy tekintet alá esik az is, ha a tényállás tisztázásához más személynél folyamatban lévő ellenőrzés eredményének ismerete szükséges. Ebben az esetben a kapcsolódó vizsgálat kezdő napjának a határidő szüneteléséről szóló értesítés postára adásának napját kell tekinteni.”
