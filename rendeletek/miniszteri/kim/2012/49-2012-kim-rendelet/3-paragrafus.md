@@ -1,0 +1,3 @@
+## 2. § A Cvhr. 19. §-a következő (2) bekezdéssel egészül ki:
+
+## „(2) E rendeletnek a cégbejegyzési eljárás és a cégnyilvántartás egyes kérdéseiről szóló 21/2006. (V. 18.) IM rendelet módosításáról szóló 49/2012. (XI. 29.) KIM rendelettel módosított 1. számú melléklete helyett a hatályba lépést követően indult cégbejegyzési (változásbejegyzési) eljárásokban 2012. december 31-ig e rendelet 2012. november 30-án hatályos 1. számú melléklete szerinti elektronikus nyomtatvány is benyújtható a cégbírósághoz, amennyiben a cég nem kíván élni a pénzforgalmi elszámolás és a kisadózó vállalkozások tételes adója alá történő bejelentkezés lehetőségével.”
