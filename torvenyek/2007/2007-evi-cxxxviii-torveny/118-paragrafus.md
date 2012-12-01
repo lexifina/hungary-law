@@ -28,7 +28,7 @@ h) a főigazgató eseti engedélye alapján a törvényben meghatározott felada
 
 i) az adó-, vám- és társadalombiztosítási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása érdekében folytatott eljárás keretében eljáró adóhatósággal, vámhatósággal,
 
-j) a feladatkörében eljáró alapvető jogok biztosával
+j) a feladatkörében eljáró alapvető jogok biztosával, valamint pénzügyi jogok biztosával,
 
 k) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal
 
