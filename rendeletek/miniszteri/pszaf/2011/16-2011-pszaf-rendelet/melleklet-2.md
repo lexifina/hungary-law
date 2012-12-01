@@ -1,8 +1,1064 @@
-## 20110G20000016_1
+| ÖSSZEFOGLALÓ TÁBLÁZAT |
 
-2. melléklet a 16/2011. (X. 7.) PSZÁF rendelethez
+| Táblakód | Megnevezés | Adatszolgáltató | Gyakoriság |
 
-KITÖLTÉSI ÚTMUTATÓ
+| Éves jelentés |  |  |  |
+
+| 4411E.. | A tárgyévi biztosítástechnikai tartalékok ágazatonként (Életbiztosítási ág) | B | É |
+
+| 4411N.. | A tárgyévi biztosítástechnikai tartalékok ágazatonként (Nem-életbiztosítási ág) | B | É |
+
+| 4412ES | A különböző technikai kamatlábakhoz tartozó matematikai tartalék értékek áganként - Életbiztosítás | B | É |
+
+| 4412NS | A különböző technikai kamatlábakhoz tartozó matematikai tartalék értékek áganként - Nem életbiztosítás | B | É |
+
+| 4421E.. | Néhány tartalékfajta bruttó egyéves, illetve kétéves lebonyolítási eredménye ágazatonként (Életbiztosítási ág) | B | É |
+
+| 4421N.. | Néhány tartalékfajta bruttó egyéves, illetve kétéves lebonyolítási eredménye ágazatonként (Nem életbiztosítási ág) | B | É |
+
+| 4422E.. | Néhány tartalékfajta nettó, egyéves, illetve kétéves lebonyolítási eredménye ágazatonként (Életbiztosítási ág) | B | É |
+
+| 4422N.. | Néhány tartalékfajta nettó, egyéves, illetve kétéves lebonyolítási eredménye ágazatonként (Nem-életbiztosítási ág) | B | É |
+
+| 4423ES | Az eredménytől függő díjvisszatérítési tartalék felhasználása áganként (Életbiztosítási ág) | B | É |
+
+| 4423NS | Az eredménytől függő díjvisszatérítési tartalék felhasználása áganként (Nem-életbiztosítási ág) | B | É |
+
+| 4431ES | Az életbiztosítási ág matematikai tartalékának hozama és annak felhasználása | B | É |
+
+| 4441NS | A nem-élet ági bruttó kárhányad alakulása ágazatonként | B | É |
+
+| 4442NS | A nem-élet ági nettó kárhányad alakulása ágazatonként | B | É |
+
+| 44C31 | Tárgyévi kárkifizetések a kár keletkezése és bejelentése éve alapján megbontva: Szárazföldi jármű-casco | B | É |
+
+| 44C32 | Tárgyévi kárkifizetések a kár keletkezése és bejelentése éve alapján megbontva: Tűz- és elemi károk (lakossági szektor) | B | É |
+
+| 44C33 | Tárgyévi kárkifizetések a kár keletkezése és bejelentése éve alapján megbontva: Tűz- és elemi károk (vállalati szektor) | B | É |
+
+| 44C34 | Tárgyévi kárkifizetések a kár keletkezése és bejelentése éve alapján megbontva: Egyéb vagyoni károk (lakossági szektor) | B | É |
+
+| 44C35 | Tárgyévi kárkifizetések a kár keletkezése és bejelentése éve alapján megbontva: Egyéb vagyoni károk (vállalati szektor) | B | É |
+
+| 44C36 | Tárgyévi kárkifizetések a kár keletkezése és bejelentése éve alapján megbontva: Önjáró szárazföldi járművekkel összefüggő felelősség | B | É |
+
+| Éves jelentéssel egyidejűleg pdf formátumban küldendő mellékletek |
+
+| szovjel | Aktuáriusi szöveges jelentés | B | É |
+
+| Az összefoglaló táblázatban előforduló rövidítések |  |
+
+| Adatszolgáltató | Biztosítók, kivéve a biztosító egyesület, amely eleget tesz a Bit. 126. § (4) bekezdés b) pontjában foglalt feltételeknek, és nem foglalkoztat vezető biztosításmatematikust | B |  |
+
+| Gyakoriság | Éves | É |  |
+
+## 4411E..
+
+## A tárgyévi biztosítástechnikai tartalékok ágazatonként (Életbiztosítási ág)
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | Tárgyévi nyitó tartalék | Tárgyévi záró tartalék |  |
+
+| megképzett | bruttó | viszontbiztosítóra jutó rész | megképzett | bruttó | viszontbiztosító- ra jutó rész | Mód |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+
+| a | b | c | d | e | f | z |
+
+| 001 | 4411E..01 | Meg nem szolgált díjak tartaléka |  |  |  |  |  |  |  |
+
+| 002 | 4411E..02 | Matematikai tartalékok |  |  |  |  |  |  |  |
+
+| 003 | 4411E..021 | életbiztosítási díjtartalék |  |  |  |  |  |  |  |
+
+| 004 | 4411E..022 | betegségbiztosítási díjtartalék |  |  |  |  |  |  |  |
+
+| 005 | 4411E..023 | balesetbiztosítási járadéktartalék |  |  |  |  |  |  |  |
+
+| 006 | 4411E..024 | felelősségbiztosítási járadéktartalék |  |  |  |  |  |  |  |
+
+| 007 | 4411E..03 | Befektetési egységekhez kötött (unit-linked) életbiztosítások |  |  |  |  |  |  |  |
+
+| 008 | 4411E..04 | Függőkár tartalékok |  |  |  |  |  |  |  |
+
+| 009 | 4411E..041 | bekövetkezett és bejelentett károk tartaléka (tételes függőkár tartalék) |  |  |  |  |  |  |  |
+
+| 010 | 4411E..042 | bekövetkezett, de még be nem jelentett károk tartaléka (IBNR) |  |  |  |  |  |  |  |
+
+| 011 | 4411E..05 | Eredménytől függő díjvisszatérítési tartalék |  |  |  |  |  |  |  |
+
+| 012 | 4411E..06 | Eredménytől független díjvisszatérítési tartalék |  |  |  |  |  |  |  |
+
+| 013 | 4411E..07 | Káringadozási tartalék |  |  |  |  |  |  |  |
+
+| 014 | 4411E..08 | Nagy károk tartaléka |  |  |  |  |  |  |  |
+
+| 015 | 4411E..09 | Törlési tartalék |  |  |  |  |  |  |  |
+
+| 016 | 4411E..10 | Egyéb biztosítástechnikai tartalékok |  |  |  |  |  |  |  |
+
+|  |  |  | A tartalék költségrésze az alábbi tartalékfajtákra: |  |
+
+| 017 | 4411E..11 | balesetbiztosítási járadéktartalék |  |  |  |  |  |  |  |
+
+| 018 | 4411E..12 | felelősségbiztosítási járadéktartalék |  |  |  |  |  |  |  |
+
+| 019 | 4411E..13 | bekövetkezett és bejelentett károk tartaléka (tételes függőkár tartalék) |  |  |  |  |  |  |  |
+
+| 020 | 4411E..14 | bekövetkezett, de még be nem jelentett károk tartaléka (IBNR) |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |  |  |  |
+
+## 4411N..
+
+## A tárgyévi biztosítástechnikai tartalékok ágazatonként (Nem-életbiztosítási ág ágazatai)
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | Tárgyévi nyitó tartalék | Tárgyévi záró tartalék |  |
+
+| megképzett | bruttó | viszontbiztosítóra jutó rész | megképzett | bruttó | viszontbiztosítóra jutó rész | Mód |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+
+| a | b | c | d | e | f | z |
+
+| 001 | 4411N..01 | Meg nem szolgált díjak tartaléka |  |  |  |  |  |  |  |
+
+| 002 | 4411N..02 | Matematikai tartalékok |  |  |  |  |  |  |  |
+
+| 003 | 4411N..021 | életbiztosítási díjtartalék |  |  |  |  |  |  |  |
+
+| 004 | 4411N..022 | betegségbiztosítási díjtartalék |  |  |  |  |  |  |  |
+
+| 005 | 4411N..023 | balesetbiztosítási járadéktartalék |  |  |  |  |  |  |  |
+
+| 006 | 4411N..024 | felelősségbiztosítási járadéktartalék |  |  |  |  |  |  |  |
+
+| 007 | 4411N..03 | Befektetési egységekhez kötött (unit-linked) életbiztosítások tartaléka |  |  |  |  |  |  |  |
+
+| 008 | 4411N..04 | Függőkár tartalékok |  |  |  |  |  |  |  |
+
+| 009 | 4411N..041 | bekövetkezett és bejelentett károk tartaléka (tételes függőkár tartalék) |  |  |  |  |  |  |  |
+
+| 010 | 4411N..042 | bekövetkezett, de még be nem jelentett károk tartaléka (IBNR) |  |  |  |  |  |  |  |
+
+| 011 | 4411N..05 | Eredménytől függő díjvisszatérítési tartalék |  |  |  |  |  |  |  |
+
+| 012 | 4411N..06 | Eredménytől független díjvisszatérítési tartalék |  |  |  |  |  |  |  |
+
+| 013 | 4411N..07 | Káringadozási tartalék |  |  |  |  |  |  |  |
+
+| 014 | 4411N..08 | Nagy károk tartaléka |  |  |  |  |  |  |  |
+
+| 015 | 4411N..09 | Törlési tartalék |  |  |  |  |  |  |  |
+
+| 016 | 4411N..10 | Egyéb biztosítástechnikai tartalékok |  |  |  |  |  |  |  |
+
+|  |  |  | A tartalék költségrésze az alábbi tartalékfajtákra: |  |
+
+| 017 | 4411N..11 | balesetbiztosítási járadéktartalék |  |  |  |  |  |  |  |
+
+| 018 | 4411N..12 | felelősségbiztosítási járadéktartalék |  |  |  |  |  |  |  |
+
+| 019 | 4411N..13 | bekövetkezett és bejelentett károk tartaléka (tételes függőkár tartalék) |  |  |  |  |  |  |  |
+
+| 020 | 4411N..14 | bekövetkezett, de még be nem jelentett károk tartaléka (IBNR) |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |  |  |
+
+## 4412ES
+
+## A különböző technikai kamatlábakhoz tartozó matematikai tartalék értékek áganként - Életbiztosítás
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés |  | Életbiztosítási díjtartalék | Betegségbiztosítási díjtartalék | Balesetbiztosítási járadéktartalék | Felelősségbiztosítási járadéktartalék |  |
+
+| Technikai kamatláb | nyitó | átlagos | záró | nyitó | átlagos | záró | nyitó | átlagos | záró | nyitó | átlagos | záró | Mód |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
+
+| a | b | c | d | e | f | g | h | i | j | k | l | m | z |
+
+| 001 | 4412ES1 | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 002 | 4412ES2 | Nincs technikai kamatláb |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 003 | 4412ES301 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | ... | ... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | 4412ES399 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+## 4412NS
+
+## A különböző technikai kamatlábakhoz tartozó matematikai tartalék értékek áganként - Nem-életbiztosítás
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés |  | Életbiztosítási díjtartalék | Betegségbiztosítási díjtartalék | Balesetbiztosítási járadéktartalék | Felelősségbiztosítási járadéktartalék |  |
+
+| Technikai kamatláb | nyitó | átlagos | záró | nyitó | átlagos | záró | nyitó | átlagos | záró | nyitó | átlagos | záró | Mód |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
+
+| a | b | c | d | e | f | g | h | i | j | k | l | m | z |
+
+| 001 | 4412NS1 | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 002 | 4412NS2 | Nincs technikai kamatláb |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 003 | 4412NS301 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | ... | ... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | 4412NS399 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+## 4421E..
+
+## Néhány tartalékfajta bruttó egyéves, illetve kétéves lebonyolítási eredménye ágazatonként (Életbiztosításítási ág)
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | A tárgyévet 2 évvel megelőző tartalék | A tárgyévet megelőző évi tartalék |  |
+
+| tartalék | felhasználás | záró tartalék | lebonyolítási eredmény | tartalék | felhasználás | záró tartalék | lebonyolítási eredmény | Mód |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+
+| a | b | c | d | e | f | g | h | z |
+
+| 001 | 4421E..1 | Balesetbiztosítási járadéktartalék |  |  |  |  |  |  |  |  |  |
+
+| 002 | 4421E..2 | Felelősségbiztosítási járadéktartalék |  |  |  |  |  |  |  |  |  |
+
+| 003 | 4421E..3 | Bekövetkezett és bejelentett károk tartaléka (tételes függőkár tartalék) |  |  |  |  |  |  |  |  |  |
+
+| 004 | 4421E..4 | Bekövetkezett, de még be nem jelentett károk tartaléka (IBNR) |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |  |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |  |  |  |  |  |
+
+## 4421N..
+
+## Néhány tartalékfajta bruttó egyéves, illetve kétéves lebonyolítási eredménye ágazatonként (Nem életbiztosítási ág)
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | A tárgyévet 2 évvel megelőző tartalék | A tárgyévet megelőző évi tartalék |  |
+
+| tartalék | felhasználás | záró tartalék | lebonyolítási eredmény | tartalék | felhasználás | záró tartalék | lebonyolítási eredmény | Mód |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+
+| a | b | c | d | e | f | g | h | z |
+
+| 001 | 4421N..1 | Balesetbiztosítási járadéktartalék |  |  |  |  |  |  |  |  |  |
+
+| 002 | 4421N..2 | Felelősségbiztosítási járadéktartalék |  |  |  |  |  |  |  |  |  |
+
+| 003 | 4421N..3 | Bekövetkezett és bejelentett károk tartaléka (tételes függőkár tartalék) |  |  |  |  |  |  |  |  |  |
+
+| 004 | 4421N..4 | Bekövetkezett, de még be nem jelentett károk tartaléka (IBNR) |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |  |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |  |  |  |  |  |
+
+## 4422E..
+
+## Néhány tartalékfajta nettó, egyéves, illetve kétéves lebonyolítási eredménye ágaztonként (Életbiztosítási ág)
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | A tárgyévet 2 évvel megelőző tartalék | A tárgyévet megelőző évi tartalék |  |
+
+| tartalék | felhasználás | záró tartalék | lebonyolítási eredmény I. | lebonyolítási eredmény II. | tartalék | felhasználás | záró tartalék | lebonyolítási eredmény I. | lebonyolítási eredmény II. | Mód |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+
+| a | b | c | d | e | f | g | h | i | j | z |
+
+| 001 | 4422E..1 | Balesetbiztosítási járadéktartalék |  |  |  |  |  |  |  |  |  |  |  |
+
+| 002 | 4422E..2 | Felelősségbiztosítási járadéktartalék |  |  |  |  |  |  |  |  |  |  |  |
+
+| 003 | 4422E..3 | Bekövetkezett és bejelentett károk tartaléka (tételes függőkár tartalék) |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004 | 4422E..4 | Bekövetkezett, de még be nem jelentett károk tartaléka (IBNR) |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |
+
+## 4422N..
+
+## Néhány tartalékfajta nettó, egyéves, illetve kétéves lebonyolítási eredménye ágazatonként (Nem életbiztosítási ág)
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | A tárgyévet 2 évvel megelőző tartalék | A tárgyévet megelőző évi tartalék |  |
+
+| tartalék | felhasználás | záró tartalék | lebonyolítási eredmény I. | lebonyolítási eredmény II. | tartalék | felhasználás | záró tartalék | lebonyolítási eredmény I. | lebonyolítási eredmény II. | Mód |
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+
+| a | b | c | d | e | f | g | h | i | j | z |
+
+| 001 | 4422N..1 | Balesetbiztosítási járadéktartalék |  |  |  |  |  |  |  |  |  |  |  |
+
+| 002 | 4422N..2 | Felelősségbiztosítási járadéktartalék |  |  |  |  |  |  |  |  |  |  |  |
+
+| 003 | 4422N..3 | Bekövetkezett és bejelentett károk tartaléka (tételes függőkár tartalék) |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004 | 4422N..4 | Bekövetkezett, de még be nem jelentett károk tartaléka (IBNR) |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |
+
+## 4423ES
+
+## Az eredménytől függő díjvisszatérítési tartalék felhasználása áganként (Életbiztosítási ág)
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | Az utolsó két éves időszak | A tárgyév időszaka | Mód |
+
+| 1 | 2 | 3 |
+
+| a | b | z |
+
+| 001 | 4423ES1 | Eredménytől függő díjvisszatérítési tartalék (az időszakot megelőző utolsó év záróértéke)=2+3+4+5 Ebből: |  |  |  |
+
+| 002 | 4423ES11 | A matemetikai tartalék növelésére fordított összeg |  |  |  |
+
+| 003 | 4423ES12 | Többletszolgáltatásra fordított összeg |  |  |  |
+
+| 004 | 4423ES13 | Egyéb módon történő visszajuttatás |  |  |  |
+
+| 005 | 4423ES14 | Eredménytől függő díjvisszatérítési tartalékban maradt összeg |  |  |  |
+
+| 006 | 4423ES2 | Eredménytől függő díjvisszatérítési tartalék hozama az időszak során |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |
+
+|  |  | Tilos |  |  |  |
+
+## 4423NS
+
+## Az eredménytől függő díjvisszatérítési tartalék felhasználása áganként (Nem életbiztosítási ág)
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | Az utolsó két éves időszak | A tárgyév időszaka | Mód |
+
+| 1 | 2 | 3 |
+
+| a | b | z |
+
+| 001 | 4423NS1 | Eredménytől függő díjvisszatérítési tartalék (az időszakot megelőző utolsó év záróértéke)=2+3+4+5 Ebből: |  |  |  |
+
+| 002 | 4423NS11 | A matematikai tartalék növelésére fordított összeg |  |  |  |
+
+| 003 | 4423NS12 | Többletszolgáltatásra fordított összeg |  |  |  |
+
+| 004 | 4423NS13 | Egyéb módon történő visszajuttatás |  |  |  |
+
+| 005 | 4423NS14 | Eredménytől függő díjvisszatérítési tartalékban maradt összeg |  |  |  |
+
+| 006 | 4423NS2 | Az eredménytől függő díjvisszatérítési tartalék hozama az időszak során |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |
+
+|  |  | Tilos |  |  |  |
+
+## 4431ES
+
+## Az életbiztosítási ág matematikai tartalékának hozama és annak felhasználása
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | 1996. január 1. előtt engedélyezett | 1995. december 31. után bevezetett | Az első két kategórián kívüli | Mód |
+
+| 1 | 2 | 3 | 4 |
+
+| a | b | c | z |
+
+| 001 | 4431ES101 | Nyitó matematikai tartalék összesen |  |  |  |  |
+
+| 002 | 4431ES102 | Befektetési hozam összesen |  |  |  |  |
+
+| 003 | 4431ES103 | Befektetési eredmény összesen |  |  |  |  |
+
+| 004 | 4431ES104 | Matemetikai tartalék növelésére fordított összeg összesen |  |  |  |  |
+
+| 005 | 4431ES105 | ebből technikai kamat miatti tartaléknövekedés összesen |  |  |  |  |
+
+| 006 | 4431ES106 | Többletszolgáltatás összesen |  |  |  |  |
+
+| 007 | 4431ES107 | Egyéb visszajuttatás összesen |  |  |  |  |
+
+| 008 | 4431ES108 | Eredménytől függő díjvisszatérítési tartalék növelése összesen |  |  |  |  |
+
+| 009 | 4431ES109 | Nincs technikai kamatláb: |  |  |  |  |
+
+| 010 | 4431ES110 | Nyitó matemetikai tartalék |  |  |  |  |
+
+| 011 | 4431ES111 | Befektetési hozam |  |  |  |  |
+
+| 012 | 4431ES112 | Befektetési eredmény |  |  |  |  |
+
+| 013 | 4431ES113 | Matematikai tartalék növelésére fordított összeg |  |  |  |  |
+
+| 014 | 4431ES114 | ebből: technikai kamat miatti tartaléknövekedés |  |  |  |  |
+
+| 015 | 4431ES115 | Többletszolgáltatás |  |  |  |  |
+
+| 016 | 4431ES116 | Egyéb visszajuttatás |  |  |  |  |
+
+| 017 | 4431ES117 | Eredménytől függő díjvisszatérítési tartalék növelése |  |  |  |  |
+
+| 018 | 4431ES101001 | Technikai kamatláb: |  |  |  |  |
+
+| 019 | 4431ES101002 | Nyitó matemetikai tartalék |  |  |  |  |
+
+| 020 | 4431ES101003 | Befektetési hozam |  |  |  |  |
+
+| 021 | 4431ES101004 | Befektetési eredmény |  |  |  |  |
+
+| 022 | 4431ES101005 | Matematikai tartalék növelésére fordított összeg |  |  |  |  |
+
+| 023 | 4431ES101006 | ebből: technikai kamat miatti tartaléknövekedés |  |  |  |  |
+
+| 024 | 4431ES101007 | Többletszolgáltatás |  |  |  |  |
+
+| 025 | 4431ES101008 | Egyéb visszajuttatás |  |  |  |  |
+
+| 026 | 4431ES101009 | Eredménytől függő díjvisszatérítési tartalék növelése |  |  |  |  |
+
+|  | ...... | ...... |  |  |  |  |
+
+|  | 4431ES101199 | Technikai kamatláb: |  |  |  |  |
+
+|  | 4431ES101200 | Nyitó matemetikai tartalék |  |  |  |  |
+
+|  | 4431ES101201 | Befektetési hozam |  |  |  |  |
+
+|  | 4431ES101202 | Befektetési eredmény |  |  |  |  |
+
+|  | 4431ES101203 | Matematikai tartalék növelésére fordított összeg |  |  |  |  |
+
+|  | 4431ES101204 | ebből: technikai kamat miatti tartaléknövekedés |  |  |  |  |
+
+|  | 4431ES101205 | Többletszolgáltatás |  |  |  |  |
+
+|  | 4431ES101206 | Egyéb visszajuttatás |  |  |  |  |
+
+|  | 4431ES101207 | Eredménytől függő díjvisszatérítési tartalék növelése |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |
+
+## 4441NS
+
+## A nem-élet ági bruttó kárhányad alakulása ágazatonként
+
+| Sorszám | PSZÁF kód | Megnevezés | Tárgyévet megelőző 2.év kárhányada (%) | Tárgyévet megelőző 1.év kárhányada (%) | Tárgyévi kárhányad (%) | Mód |
+
+| 1 | 2 | 3 | 4 |
+
+| a | b | c | z |
+
+| 001 | 4441NS01 | Baleset |  |  |  |  |
+
+| 002 | 4441NS02 | Szárazföldi jármű casco |  |  |  |  |
+
+| 003 | 4441NS03 | Sínpályához kötött járművek cascója |  |  |  |  |
+
+| 004 | 4441NS04 | Légijármű casco |  |  |  |  |
+
+| 005 | 4441NS05 | Tengeri, tavi és folyami jármű casco |  |  |  |  |
+
+| 006 | 4441NS06 | Szállítmány |  |  |  |  |
+
+| 007 | 4441NS07 | Tűz- és elemi károk |  |  |  |  |
+
+| 008 | 4441NS08 | Egyéb vagyoni károk |  |  |  |  |
+
+| 009 | 4441NS09 | Önjáró szárazföldi járművekkel összefüggő felelősség |  |  |  |  |
+
+| 010 | 4441NS10 | Légijárművekkel összefüggő felelősség |  |  |  |  |
+
+| 011 | 4441NS11 | Tengeri, tavi és folyami járművekkel összefüggő felelősség |  |  |  |  |
+
+| 012 | 4441NS12 | Általános felelősség |  |  |  |  |
+
+| 013 | 4441NS13 | Hitel |  |  |  |  |
+
+| 014 | 4441NS14 | Kezesség |  |  |  |  |
+
+| 015 | 4441NS15 | Különböző pénzügyi veszteségek |  |  |  |  |
+
+| 016 | 4441NS16 | Jogvédelem |  |  |  |  |
+
+| 017 | 4441NS17 | Segítségnyújtás |  |  |  |  |
+
+| 018 | 4441NS18 | Temetési biztosítás |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |
+
+|  |  | Tilos |  |  |  |
+
+## 4442NS
+
+## A nem-élet ági nettó kárhányad alakulása ágazatonként
+
+| Sorszám | PSZÁF kód | Megnevezés | Tárgyévet megelőző 2.év kárhányada (%) | Tárgyévet megelőző 1.év kárhányada (%) | Tárgyévi kárhányad (%) | Mód |
+
+| 1 | 2 | 3 | 4 |
+
+| a | b | c | z |
+
+| 001 | 4442NS01 | Baleset |  |  |  |  |
+
+| 002 | 4442NS02 | Szárazföldi jármű casco |  |  |  |  |
+
+| 003 | 4442NS03 | Sínpályához kötött járművek cascója |  |  |  |  |
+
+| 004 | 4442NS04 | Légijármű casco |  |  |  |  |
+
+| 005 | 4442NS05 | Tengeri, tavi és folyami jármű casco |  |  |  |  |
+
+| 006 | 4442NS06 | Szállítmány |  |  |  |  |
+
+| 007 | 4442NS07 | Tűz- és elemi károk |  |  |  |  |
+
+| 008 | 4442NS08 | Egyéb vagyoni károk |  |  |  |  |
+
+| 009 | 4442NS09 | Önjáró szárazföldi járművekkel összefüggő felelősség |  |  |  |  |
+
+| 010 | 4442NS10 | Légijárművekkel összefüggő felelősség |  |  |  |  |
+
+| 011 | 4442NS11 | Tengeri, tavi és folyami járművekkel összefüggő felelősség |  |  |  |  |
+
+| 012 | 4442NS12 | Általános felelősség |  |  |  |  |
+
+| 013 | 4442NS13 | Hitel |  |  |  |  |
+
+| 014 | 4442NS14 | Kezesség |  |  |  |  |
+
+| 015 | 4442NS15 | Különböző pénzügyi veszteségek |  |  |  |  |
+
+| 016 | 4442NS16 | Jogvédelem |  |  |  |  |
+
+| 017 | 4442NS17 | Segítségnyújtás |  |  |  |  |
+
+| 018 | 4442NS18 | Temetési biztosítás |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |
+
+## 44C31
+
+## Kumulált kárkifizetések, viszontbiztosítói kármegtérítések a kár keletkezése és a kifizetés éve alapján megbontva:
+
+## Szárazföldi jármű-casco
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | A kárkifizetés/viszontbiztosítói kármegtérítés éve | Mód |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 18 |
+
+| b | c | d | e | f | g | h | i | j | k | z |
+
+| 001 | 44C3101 | Károk keletkezésének éve: Tárgyév-9 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 002 | 43C31011 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 003 | 43C31012 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004 | 44C3102 | Károk keletkezésének éve: Tárgyév-8 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 005 | 44C31021 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 006 | 44C31022 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 007 | 44C3103 | Károk keletkezésének éve: Tárgyév-7 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 008 | 44C31031 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 009 | 44C31032 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 010 | 44C3104 | Károk keletkezésének éve: Tárgyév-6 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 011 | 44C31041 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 012 | 44C31042 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 013 | 44C3105 | Károk keletkezésének éve: Tárgyév-5 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 014 | 44C31051 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 015 | 44C31052 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 016 | 44C3106 | Károk keletkezésének éve: Tárgyév-4 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 017 | 44C31061 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 018 | 44C31062 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 019 | 44C3107 | Károk keletkezésének éve: Tárgyév-3 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 020 | 44C31071 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 021 | 44C31072 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 022 | 44C3108 | Károk keletkezésének éve: Tárgyév-2 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 023 | 44C31081 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 024 | 44C31082 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 025 | 44C3109 | Károk keletkezésének éve: Tárgyév-1 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 026 | 44C31091 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 027 | 44C31092 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 028 | 44C3110 | Károk keletkezésének éve: Tárgyév |  |  |  |  |  |  |  |  |  |  |  |
+
+| 029 | 44C31101 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 030 | 44C31102 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |
+
+## 44C32
+
+## Kumulált kárkifizetések, viszontbiztosítói kármegtérítések a kár keletkezése és a kifizetés éve alapján megbontva:
+
+## Tűz- és elemi károk (lakossági szektor)
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | A kárkifizetés/viszontbiztosítói kármegtérítés éve | Mód |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 18 |
+
+| b | c | d | e | f | g | h | i | j | k | z |
+
+| 001 | 44C3201 | Károk keletkezésének éve: Tárgyév-9 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 002 | 43C32011 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 003 | 43C32012 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004 | 44C3202 | Károk keletkezésének éve: Tárgyév-8 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 005 | 44C32021 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 006 | 44C32022 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 007 | 44C3203 | Károk keletkezésének éve: Tárgyév-7 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 008 | 44C32031 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 009 | 44C32032 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 010 | 44C3204 | Károk keletkezésének éve: Tárgyév-6 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 011 | 44C32041 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 012 | 44C32042 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 013 | 44C3205 | Károk keletkezésének éve: Tárgyév-5 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 014 | 44C32051 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 015 | 44C32052 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 016 | 44C3206 | Károk keletkezésének éve: Tárgyév-4 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 017 | 44C32061 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 018 | 44C32062 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 019 | 44C3207 | Károk keletkezésének éve: Tárgyév-3 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 020 | 44C32071 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 021 | 44C32072 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 022 | 44C3208 | Károk keletkezésének éve: Tárgyév-2 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 023 | 44C32081 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 024 | 44C32082 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 025 | 44C3209 | Károk keletkezésének éve: Tárgyév-1 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 026 | 44C32091 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 027 | 44C32092 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 028 | 44C3210 | Károk keletkezésének éve: Tárgyév |  |  |  |  |  |  |  |  |  |  |  |
+
+| 029 | 44C32101 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 030 | 44C32102 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |
+
+## 44C33
+
+## Kumulált kárkifizetések, viszontbiztosítói kármegtérítések a kár keletkezése és a kifizetés éve alapján megbontva:
+
+## Tűz- és elemi károk (vállalati szektor)
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | A kárkifizetés/viszontbiztosítói kármegtérítés éve | Mód |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 18 |
+
+| b | c | d | e | f | g | h | i | j | k | z |
+
+| 001 | 44C3301 | Károk keletkezésének éve: Tárgyév-9 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 002 | 43C33011 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 003 | 43C33012 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004 | 44C3302 | Károk keletkezésének éve: Tárgyév-8 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 005 | 44C33021 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 006 | 44C33022 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 007 | 44C3303 | Károk keletkezésének éve: Tárgyév-7 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 008 | 44C33031 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 009 | 44C33032 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 010 | 44C3304 | Károk keletkezésének éve: Tárgyév-6 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 011 | 44C33041 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 012 | 44C33042 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 013 | 44C3305 | Károk keletkezésének éve: Tárgyév-5 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 014 | 44C33051 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 015 | 44C33052 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 016 | 44C3306 | Károk keletkezésének éve: Tárgyév-4 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 017 | 44C33061 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 018 | 44C33062 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 019 | 44C3307 | Károk keletkezésének éve: Tárgyév-3 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 020 | 44C33071 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 021 | 44C33072 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 022 | 44C3308 | Károk keletkezésének éve: Tárgyév-2 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 023 | 44C33081 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 024 | 44C33082 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 025 | 44C3309 | Károk keletkezésének éve: Tárgyév-1 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 026 | 44C33091 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 027 | 44C33092 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 028 | 44C3310 | Károk keletkezésének éve: Tárgyév |  |  |  |  |  |  |  |  |  |  |  |
+
+| 029 | 44C33101 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 030 | 44C33102 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |
+
+## 44C34
+
+## Kumulált kárkifizetések, viszontbiztosítói kármegtérítések a kár keletkezése és a kifizetés éve alapján megbontva:
+
+## Egyéb vagyoni károk (lakossági szektor)
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | A kárkifizetés/viszontbiztosítói kármegtérítés éve | Mód |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 18 |
+
+| b | c | d | e | f | g | h | i | j | k | z |
+
+| 001 | 44C3401 | Károk keletkezésének éve: Tárgyév-9 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 002 | 43C34011 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 003 | 43C34012 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004 | 44C3402 | Károk keletkezésének éve: Tárgyév-8 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 005 | 44C34021 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 006 | 44C34022 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 007 | 44C3403 | Károk keletkezésének éve: Tárgyév-7 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 008 | 44C34031 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 009 | 44C34032 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 010 | 44C3404 | Károk keletkezésének éve: Tárgyév-6 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 011 | 44C34041 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 012 | 44C34042 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 013 | 44C3405 | Károk keletkezésének éve: Tárgyév-5 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 014 | 44C34051 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 015 | 44C34052 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 016 | 44C3406 | Károk keletkezésének éve: Tárgyév-4 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 017 | 44C34061 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 018 | 44C34062 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 019 | 44C3407 | Károk keletkezésének éve: Tárgyév-3 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 020 | 44C34071 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 021 | 44C34072 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 022 | 44C3408 | Károk keletkezésének éve: Tárgyév-2 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 023 | 44C34081 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 024 | 44C34082 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 025 | 44C3409 | Károk keletkezésének éve: Tárgyév-1 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 026 | 44C34091 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 027 | 44C34092 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 028 | 44C3410 | Károk keletkezésének éve: Tárgyév |  |  |  |  |  |  |  |  |  |  |  |
+
+| 029 | 44C34101 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 030 | 44C34102 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |
+
+## 44C35
+
+## Kumulált kárkifizetések, viszontbiztosítói kármegtérítések a kár keletkezése és a kifizetés éve alapján megbontva:
+
+## Egyéb vagyoni károk (vállalati szektor)
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | A kárkifizetés/viszontbiztosítói kármegtérítés éve | Mód |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 18 |
+
+| b | c | d | e | f | g | h | i | j | k | z |
+
+| 001 | 44C3501 | Károk keletkezésének éve: Tárgyév-9 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 002 | 43C35011 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 003 | 43C35012 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004 | 44C3502 | Károk keletkezésének éve: Tárgyév-8 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 005 | 44C35021 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 006 | 44C35022 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 007 | 44C3503 | Károk keletkezésének éve: Tárgyév-7 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 008 | 44C35031 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 009 | 44C35032 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 010 | 44C3504 | Károk keletkezésének éve: Tárgyév-6 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 011 | 44C35041 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 012 | 44C35042 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 013 | 44C3505 | Károk keletkezésének éve: Tárgyév-5 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 014 | 44C35051 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 015 | 44C35052 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 016 | 44C3506 | Károk keletkezésének éve: Tárgyév-4 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 017 | 44C35061 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 018 | 44C35062 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 019 | 44C3507 | Károk keletkezésének éve: Tárgyév-3 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 020 | 44C35071 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 021 | 44C35072 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 022 | 44C3508 | Károk keletkezésének éve: Tárgyév-2 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 023 | 44C35081 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 024 | 44C35082 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 025 | 44C3509 | Károk keletkezésének éve: Tárgyév-1 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 026 | 44C35091 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 027 | 44C35092 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 028 | 44C3510 | Károk keletkezésének éve: Tárgyév |  |  |  |  |  |  |  |  |  |  |  |
+
+| 029 | 44C35101 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 030 | 44C35102 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |
+
+## 44C36
+
+## Kumulált kárkifizetések, viszontbiztosítói kármegtérítések a kár keletkezése és a kifizetés éve alapján megbontva:
+
+## Önjáró szárazföldi járművekkel összefüggő felelősség
+
+|  |  |  |  | Nagyságrend: ezer forint |
+
+| Sorszám | PSZÁF kód | Megnevezés | A kárkifizetés/viszontbiztosítói kármegtérítés éve | Mód |
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 18 |
+
+| b | c | d | e | f | g | h | i | j | k | z |
+
+| 001 | 44C3601 | Károk keletkezésének éve: Tárgyév-9 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 002 | 43C36011 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 003 | 43C36012 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004 | 44C3602 | Károk keletkezésének éve: Tárgyév-8 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 005 | 44C36021 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 006 | 44C36022 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 007 | 44C3603 | Károk keletkezésének éve: Tárgyév-7 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 008 | 44C36031 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 009 | 44C36032 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 010 | 44C3604 | Károk keletkezésének éve: Tárgyév-6 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 011 | 44C36041 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 012 | 44C36042 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 013 | 44C3605 | Károk keletkezésének éve: Tárgyév-5 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 014 | 44C36051 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 015 | 44C36052 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 016 | 44C3606 | Károk keletkezésének éve: Tárgyév-4 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 017 | 44C36061 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 018 | 44C36062 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 019 | 44C3607 | Károk keletkezésének éve: Tárgyév-3 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 020 | 44C36071 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 021 | 44C36072 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 022 | 44C3608 | Károk keletkezésének éve: Tárgyév-2 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 023 | 44C36081 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 024 | 44C36082 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 025 | 44C3609 | Károk keletkezésének éve: Tárgyév-1 |  |  |  |  |  |  |  |  |  |  |  |
+
+| 026 | 44C36091 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 027 | 44C36092 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+| 028 | 44C3610 | Károk keletkezésének éve: Tárgyév |  |  |  |  |  |  |  |  |  |  |  |
+
+| 029 | 44C36101 | Bruttó kárkifizetés |  |  |  |  |  |  |  |  |  |  |  |
+
+| 030 | 44C36102 | Viszontbiztosító részesedése |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | Jelmagyarázat |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | Tilos |  |  |  |  |  |  |  |  |  |  |  |
+
+2. melléklet a 16/2011. (X. 7.) PSZÁF rendelethez[^3]
+
+Kitöltési útmutató
 
 I. RÉSZ
 
@@ -10,9 +1066,9 @@ AZ ADATSZOLGÁLTATÁSRA VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
 
 1. Kapcsolódó jogszabályok
 
-– A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szmt.)
+- A számvitelről szóló 2000. évi C. törvény (a továbbiakban:Szmt.)
 
-– A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakaban: Bit.)
+- A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakaban:Bit.)
 
 2. Rövidítések
 
@@ -20,11 +1076,15 @@ A kitöltési útmutatóban használt rövidítéseket – külön magyarázat h
 
 3. Az adatszolgáltatás formai követelményei
 
+Az adatszolgáltatást elektronikus úton a Felügyelet jelentésfogadó rendszerén keresztül kell teljesíteni.
+
 A Felügyeleti jelentések formáját, szerkezetét megváltoztatni nem lehet.
 
-Az adatküldés formai és technikai követelményeit részletesen tartalmazza a Kihelyezett Adatküldő Program (KAP) Felhasználói kézikönyve.
+Az adatszolgáltató a feltöltött küldeményről a beérkezési időpontját, érkeztetési számát és a küldeményazonosító K-számát tartalmazó, automatikus „érkeztetett” üzenetet kap.
 
-A Felügyelet az adatfogadó rendszerén keresztül (a feltöltött küldemény jogosultságának, az előre definiált ellenőrző szabályok teljesülésének és technikai ellenőrzésének eredménye függvényében) a beküldéstől számított 24 órán belül (a küldeményazonosító számot is tartalmazó) automatikus üzenetet küld az adatszolgáltatónak. Hibás adatszolgáltatás esetén „visszautasított”, az adatszolgáltatás sikeres teljesítése esetén pedig „feldolgozott” üzenetet kap az adatszolgáltató.
+A Felügyelet adatbefogadó rendszere a beküldött jelentés státuszáról – a feltöltött küldemény jogosultsági, tartalmi és technikai ellenőrzésének eredménye függvényében – a beküldéstől számított 24 órán belül automatikus üzenetet küld az adatszolgáltatónak. Hibás adatszolgáltatás esetén „visszautasított”, az adatszolgáltatás sikeres teljesítése esetén „feldolgozott” státuszról szóló üzenetet kap az adatszolgáltató.
+
+Az adatszolgáltatást a Felügyelet akkor tekinti teljesítettnek, ha az adatszolgáltató elektronikus úton megküldött felügyeleti jelentése az adatbefogadó rendszerben „feldolgozott” státuszt kapott.
 
 A „feldolgozott” üzenet tekintendő a teljesítés elfogadásáról szóló tájékoztatásnak.
 
@@ -38,9 +1098,7 @@ Az adatszolgáltató a módosító jelentés beküldésével egyidejűleg tájé
 
 A módosított jelentésben az érintett tábla javítás miatt módosuló minden sorát (beleértve az összegző sorokat is) a „Mód” oszlopban „M”-mel kell megjelölni. A teljes jelentést (javított adatot nem tartalmazó, és a nemleges táblát is) ismételten meg kell küldeni.
 
-Nem kell értéket beírni
-
-– az ismétlő sorok mezőibe akkor, ha az adatszolgáltatónak nincs jelentenivalója, vagyis az ismétlő sor minden jelentett értéke nulla lenne.
+Nem kell értéket beírni az ismétlő sorok mezőibe akkor, ha az adatszolgáltatónak nincs jelentenivalója, vagyis az ismétlő sor minden jelentett értéke nulla lenne.
 
 Minden egyéb esetben értéket (legalább nullát) kell szerepeltetni a mezőben.
 
@@ -52,13 +1110,13 @@ A pénznemben kifejezett adatok nagyságrendje ezer forint.
 
 A felügyeleti jelentéssel egyidejűleg az elektronikus úton, pdf formátumban, kötelezően beküldendő szöveges jelentést az alábbi általános formai előírások figyelembe vételével kell csatolni:
 
-– a file név nem tartalmazhat szóközt, a megnevezésben az elválasztás egy aláhúzás karakterrel történik,
+- a file név nem tartalmazhat szóközt, a megnevezésben az elválasztás egy aláhúzás karakterrel történik,
 
-– a file név felépítése: törzsszám_vonatkozás vége_melléklet típusa.pdf
+- a file név felépítése: törzsszám_vonatkozás vége_melléklet típusa.pdf
 
 A törzsszám az adatszolgáltató adószámának első nyolc karaktere.
 
-A vonatkozás vége a tárgyidőszak záró napja. Pl. a 2011. évre vonatkozó jelentés részeként küldendő szöveges jelentés esetén: „20111231”.
+A vonatkozás vége a tárgyidőszak záró napja, pl. a 2011. évre vonatkozó jelentés részeként küldendő szöveges jelentés esetén: „20111231”.
 
 A melléklet típusa a Felügyelet felé elektronikusan megküldendő alábbi dokumentum rövid megnevezését tartalmazza a következők szerint:
 
@@ -110,7 +1168,7 @@ A tábla sorai
 
 4412ES2, illetve 4412NS2 sorok
 
-Itt kell bemutatni azon szerződéseket és károkat, amelyekhez a kár, illetve szerződés sajátosságai alapján a technikai kamatláb nem értelmezhető. Az átlagos értéket megfelelő pontosságot biztosító módszerrel kell becsülni. Az átlagolás módszerét (módszereit) a szöveges jelentésben be kell mutatni.
+Itt kell bemutatni azon szerződésekhez és károkhoz tartozó matematikai tartalékot, amelyekhez a kár, illetve szerződés sajátosságai alapján a technikai kamatláb nem értelmezhető. Az átlagos értéket megfelelő pontosságot biztosító módszerrel kell becsülni. Az átlagolás módszerét (módszereit) a szöveges jelentésben be kell mutatni.
 
 4421E.., 4421N.. Néhány tartalékfajta bruttó egyéves, illetve kétéves lebonyolítási eredménye
 
@@ -124,11 +1182,11 @@ A jelentésben az utolsó két évre vonatkozóan, ágazatok szerinti bontásban
 
 a) a baleset-biztosítási járadéktartalék,
 
-b) felelősségbiztosítási járadéktartalék,
+b) a felelősségbiztosítási járadéktartalék,
 
-c) tételes függőkár tartalék,
+c) a tételes függőkár tartalék és
 
-d) IBNR tartalék
+d) az IBNR tartalék
 
 lebonyolítási eredményét.
 
@@ -218,7 +1276,7 @@ A tárgyévet megelőző év záró napján nyilvántartott baleseti járadékos
 
 4421N..2 sor Felelősségbiztosítási járadéktartalék felhasználása
 
-A tárgyévet megelőző év záró napján nyilvántartott felelősségbiztosítási járadékos esetekre a tárgyévben történt felelősségbiztosítási járadékkifizetések összege, ideértve a járadékos eset lezárásául vagy részleges lezárásául kifizetett összegeket is
+A tárgyévet megelőző év záró napján nyilvántartott felelősségbiztosítási járadékos esetekre a tárgyévben történt felelősségbiztosítási járadékkifizetések összege, ideértve a járadékos eset lezárásául vagy részleges lezárásául kifizetett összegeket is.
 
 4421E..3 sor Bekövetkezett és bejelentett károk tartalékának felhasználása
 
@@ -322,9 +1380,9 @@ A tábla kitöltése
 
 Technikai kamatlábanként megbontva, külön-külön táblázatban és összesítetten is be kell mutatni az életbiztosítási ág matematikai tartaléka hozamának felhasználását. Az első 8 sorba kerülnek az összesített, technikai kamatláb szerint nem megbontott adatok. A második 8 sorba azon szerződések adatai, amelyek esetében a technikai kamatláb nem értelmezhető. A továbbiakban a technikai kamatlábbal rendelkező szerződések adatait kell bemutatni technikai lábankénti bontásban.
 
-A tartalék hozama alatt a tartalék fedezeti portfólióján kimutatott számviteli hozamot (eredményt) kell érteni a Pénzügyi Szervezetek Állami Felügyelete Felügyeleti Tanácsának 6/2006. (VIII. 3.) számú, a többlethozam-visszajuttatás szabályairól szóló ajánlásával, illetve a biztosító számviteli politikájával összhangban. A befektetési hozamot a különböző fedezeti portfóliókon kimutatott hozammal, a szóban forgó termékek sajátosságaival, illetve a számviteli politikával összhangban kell az egyes technikai kamatlábú szerződések között felosztani.
+A tartalék hozama alatt a tartalék fedezeti portfólióján kimutatott számviteli hozamot (eredményt) kell érteni a biztosító számviteli politikájával összhangban, figyelembe véve a Pénzügyi Szervezetek Állami Felügyelete elnökének 5/2012. (IV. 13.) számú, a többlethozam-visszajuttatás szabályairól szóló ajánlásában foglaltakat. A befektetési hozamot a különböző fedezeti portfóliókon kimutatott hozammal, a szóban forgó termékek sajátosságaival, illetve a számviteli politikával összhangban kell az egyes technikai kamatlábú szerződések között felosztani.
 
-A tábla három oszlopa elkülönítetten kezeli az 1996 előtt engedélyezett, az 1995 után bevezetett termékeket, és azokat a termékeket, szerződéseket, melyek az első két kategóriába nem csoportosíthatók. Ez utóbbit azonban a szöveges jelentésben nevesíteni kell.
+A tábla három oszlopa elkülönítetten kezeli az 1996. január 1. előtt engedélyezett, az 1995. december 31. után bevezetett termékeket, és azokat a termékeket, szerződéseket, melyek az első két kategóriába nem csoportosíthatók. Ez utóbbit azonban a szöveges jelentésben nevesíteni kell.
 
 Az egyéb visszajuttatás módszerét a szöveges jelentésben ismertetni kell.
 
@@ -340,7 +1398,7 @@ A táblában szerepeltetni kell a nem-életbiztosítási ágra – ágazati és 
 
 A kárhányadot a tárgyév és azt megelőző két év díjbevétele, ezen évek kár- és járadék kifizetése és ugyanezen évek káraira képzett tárgyév végi biztosítástechnikai tartalék nagysága alapján kell meghatározni.
 
-Tárgyévet megelőző 2. év kárhányada = (tárgyévet megelőző 2. év bruttó kárfelhasználása) / (tárgyévet megelőző 2. év bruttó díja)
+Tárgyévet megelőző 2. év kárhányada = (tárgyévet megelőző 2. év bruttó kárfelhasználása) / (tárgyévet megelőző 2. év bruttó díja).
 
 Tárgyévet megelőző 2. év bruttó kárfelhasználása = a tárgyévet megelőző 2. évben bekövetkezett károkra történt bruttó kár- és járadékkifizetés a tárgyévet megelőző két évben és a tárgyévben + a tárgyévet megelőző 2. évben bekövetkezett károkra képzett bruttó tételes függőkár-tartalék, IBNR tartalék, balesetbiztosítási járadéktartalék és felelősségbiztosítási járadéktartalék a tárgyév záró napján, költségtartalék nélkül.
 
@@ -356,66 +1414,54 @@ A tábla kitöltése
 
 A 4441NS táblával analóg módon kell kitölteni, ahol nettó alatt a viszontbiztosítás miatt csökkentett értékeket kell érteni.
 
+44C3.. Kumulált kárkifizetések, viszontbiztosítói kármegtérítések a kár keletkezése és a kifizetés éve alapján megbontva
+
+A tábla célja
+
+Ebben a táblában kell a bekövetkezés dátuma szerinti alapfelbontású, kifizetés dátuma szerinti lebonyolítású, viszontbiztosítás szempontjából bruttó, és a viszontbiztosító részesedését tartalmazó kumulált kifizetési adatokkal kitöltött kifutási háromszögeket jelenteni.
+
+A tábla kitöltése
+
+(Bruttó) kárkifizetés alatt a biztosítók éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 192/2000. (XI. 24) Korm. rendelet 2. számú melléklet A) 04. pontjában meghatározott kárkifizetéseknek és kárrendezési költségeknek a viszontbiztosító részesedésével növelt összegét kérjük jelenteni.
+
+A viszontbiztosítóra jutó kárkifizetés alatt a biztosítók éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 192/2000 (XI. 24) Korm. rendelet 2. számú melléklet A) 04. aa) pont alatt található „2. viszontbiztosító részesedése” sorában szereplő értéket értjük.
+
+Amennyiben nem áll rendelkezésre 10 éves idősor, rövidebb idősorral is fel kell tölteni a táblázatot, az alapszerkezet megváltoztatása nélkül.
+
+Amennyiben a „lakossági, vállalati” bontás nem áll rendelkezésre, ezt a tényt jelezni kell a szöveges jelentésben és megbontás nélküli adatokkal feltölteni az adott háromszögeket.
+
+Amennyiben a regressz, illetve közvetlenül allokálható kárrendezési költségek ebben a bontásban nem állnak rendelkezésre, azt jelezni kell a szöveges jelentésben.
+
 Szöveges jelentés
 
 A jelentés részét képezi az adatszolgáltatási táblákon kívül egy szöveges jelentés, melyet az alábbiakban, valamint az egyes tábláknál leírtaknak megfelelő tartalommal, a jelentéssel egyidejűleg, a I. rész 3. pontban leírtak szerint kell teljesíteni.
 
-A szöveges jelentésnek legalább
+A szöveges jelentésnek legalább tartalmaznia kell
 
-a) a tárgyév biztosítástechnikai tartalékainak összegét és képzésének leírását,
+a) a tárgyév azon biztosítástechnikai tartalékfajták képzési módszerének leírását, – ideértve a viszontbiztosítás hatásának elemzését –, melyek képzésével kapcsolatosan érdemi módszerváltás történt a tárgyévben, a módszerváltás okának részletes szakmai indoklásával, mennyiségi hatásának bemutatásával és elemzésével;
 
-b) a tárgyévet megelőző két év biztosítástechnikai tartalékai felhasználásának adatait és elemzését,
+b) a tárgyévet megelőző két év biztosítástechnikai tartalékai felhasználásának leírását, rámutatva az esetleges nem várt folyamatokra, problémákra és a tervezett megoldási javaslatokra;
 
-c) az életbiztosítási ág befektetési hozama felosztásának adatait és leírását,
+c) azon tartalékok esetében a kiváltó okok és tervezett intézkedések bemutatását, amelyeknél a 4421E.. és a 4421N.., illetve a 4422E.. és a 4422N.. táblák közül legalább az egyik év „lebonyolítási eredmény” oszlopában szereplő érték abszolút értéke meghaladja a „tartalék” oszlopában szereplő érték 10%-át, és a biztosító szavatoló tőkéjének a biztosító teljes tőkeszükségletet meghaladó többletének 1%-át.
 
-d) a tárgyév és az azt megelőző két év díjképzésének értékelését, valamint
+Amennyiben egy ágazatban a 4421E.., 4421N.., 4422E.. és 4422N.. tábláknál felsorolt tartalékok egy része vagy egésze forinttól eltérő devizában vagy devizákban kerül meghatározásra, nyilvántartásra és elszámolásra, és a táblákban megadott lebonyolítási eredmények valamelyikére az adott deviza vagy devizák árfolyamváltozása olyan jelentős hatással volt, melynek mértéke meghaladja az ezen bekezdésben meghatározott mértéket, a szöveges részben a fenti tábláknak az adott devizanemben történő kitöltésével devizanemenként külön-külön is meg kell adni a lebonyolítási eredményeket.
 
-e) a jelentés összegzését
+d) azon ágazatok esetében a kiváltó okok és a tervezett intézkedések bemutatását, amelyeknél a 4441NS, 4442NS táblák közül legalább az egyik év kárhányada meghaladja a 90%-ot;
 
-kell tartalmaznia a kitöltési útmutatóban leírtaknak megfelelően.
+e) a szöveges jelentés összegző fejezetét, amely
 
-A szöveges jelentésben szerepeltetni kell azon tartalékfajták képzési módszerének bemutatását – ideértve a viszontbiztosítás hatásának elemzését –, melyek képzésével kapcsolatosan érdemi módszerváltás történt a tárgyévben, a módszerváltás okának részletes szakmai indoklásával, mennyiségi hatásának bemutatásával és elemzésével.
+- értékeli a biztosító jelenlegi és a biztosító stratégiájával és üzleti terveivel összhangban legalább két évre előre a jövőben várható pénzügyi helyzetét, szavatoló tőkéjét, minimális szavatoló tőke szükségletét, biztonsági tőkéjét;
 
-A szöveges jelentés szöveges formában értékeli a megelőző két év tartalékainak felhasználását, rámutatva az esetleges nem várt folyamatokra, problémákra és a tervezett megoldási javaslatokra.
+- értékeli a tartalékainak megfelelőségét, illetve a tartalékmegfelelőség kockázatait;
 
-Azon tartalékok esetében, amelyeknél a 4421E.. és a 4421N.., illetve a 4422E.. és a 4422N.. táblák közül legalább az egyik év „lebonyolítási eredmény” oszlopában szereplő érték abszolút értéke meghaladja a „tartalék” oszlopában szereplő érték 10%-át, és a biztosító szavatoló tőkéjének a biztosító teljes tőkeszükségletet meghaladó többletének 1%-át), be kell mutatni ennek okait és a tervezett intézkedéseket.
+- értékeli a díjak jövőbeni elégségességét, illetve az elégségesség kockázatait;
 
-Amennyiben egy ágazatban a 4421E.., 4421N.., 4422E.. és 4422N.. tábláknál felsorolt tartalékok egy része, vagy egésze forinttól eltérő devizában, vagy devizákban kerül meghatározásra, nyilvántartásra és elszámolásra, és a táblákban megadott lebonyolítási eredmények valamelyikére az adott deviza, vagy devizák árfolyamváltozása olyan jelentős hatással volt, melynek mértéke meghaladja az ezen bekezdésben meghatározott mértéket, a szöveges részben a fenti tábláknak az adott devizanemben történő kitöltésével devizanemenként külön-külön is meg kell adni a lebonyolítási eredményeket.
+- bemutatja a passzív viszontbiztosítás struktúráját, a fedezett, és a biztosító pénzügyi helyzetéhez viszonyítva jelentős fedezetlen kockázatokat, a viszontbiztosítás területén bekövetkezett főbb változásokat; elemzi a partnerkockázatokat, illetve az ezek enyhítésére hozott vagy tervezett intézkedéseket; kitér a viszontbiztosítási megállapodások megfelelőségére, a nagykockázatok viszontbiztosítási fedezettségére és minden olyan egyéb kockázatra, melyek fedezetlensége veszélyeztetheti a biztosító működését;
 
-A szöveges jelentésnek tartalmaznia kell az életbiztosítási ág különböző technikai kamatlábakhoz tartozó matematikai tartalékának
-
-a) a technikai kamatláb mértékében bekövetkezett változás miatti növekedését,
-
-b) befektetési hozamát, valamint
-
-c) befektetési eredményét.
-
-A fent felsorolt adatokat az 1996. január 1. előtt engedélyezett életbiztosítási szerződésekre, az 1995. december 31. után bevezetett termékekre és az előbbi két kategóriába nem sorolható szerződésekre vonatkozóan külön is be kell mutatni.
-
-A táblában a befektetési hozam felhasználásának adatait – a 4431ES tábla alapján – a következők szerint kell megadni:
-
-a) többletszolgáltatás,
-
-b) matematikai tartalék növelése,
-
-c) eredménytől függő díj-visszatérítési tartalék növelése,
-
-d) egyéb.
-
-Azon ágazatok esetében, amelyeknél a 4441NS, 4442NS táblák közül legalább az egyik év kárhányada meghaladja a 90%-ot, be kell mutatni ennek okait és a tervezett intézkedéseket.
-
-A szöveges jelentés összegző fejezete
-
-– értékeli a biztosító jelenlegi és a biztosító stratégiájával és üzleti terveivel összhangban legalább két évre előre a jövőben várható pénzügyi helyzetét, szavatoló tőkéjét, minimális szavatoló tőke szükségletét, biztonsági tőkéjét,
-
-– értékeli a tartalékainak megfelelőségét, illetve a tartalékmegfelelőség kockázatait,
-
-– értékeli a díjak jövőbeni elégségességét, illetve az elégségesség kockázatait,
-
-– bemutatja a passzív viszontbiztosítás struktúráját, a fedezett, és a biztosító pénzügyi helyzetéhez viszonyítva jelentős fedezetlen kockázatokat, a viszontbiztosítás területén bekövetkezett főbb változásokat; elemzi a partnerkockázatokat, illetve az ezek enyhítésére hozott vagy tervezett intézkedéseket; kitér a viszontbiztosítási megállapodások megfelelőségére, a nagykockázatok viszontbiztosítási fedezettségére és minden olyan egyéb kockázatra, melyek fedezetlensége veszélyeztetheti a biztosító működését,
-
-– jelzi azokat a tényezőket, melyek veszélyeztethetik a biztosító működését.
+- jelzi azokat a tényezőket, melyek veszélyeztethetik a biztosító működését.
 
 A tárgyévi szöveges jelentésben külön ki kell emelni az előző szöveges jelentéshez képest bekövetkezett valamennyi olyan változást, amely az alkalmazott módszertan változásából adódik, s amely jelentősen befolyásolja a biztosító által közölt adatokat.
 
-Amennyiben a biztosító a szükséges adatok hiánya miatt az aktuáriusi jelentésben szereplő bármelyik értéket közelítő eljárás alkalmazásával határozta meg, a szöveges jelentésben specifikálni kell a hiányzó adatok körét, az adathiány megszüntetésére tett intézkedéseket és az alkalmazott közelítő eljárást.
+Amennyiben a biztosító a szükséges adatok hiánya miatt az aktuáriusi jelentésben szereplő bármelyik értéket közelítő eljárás alkalmazásával határozta meg, a szöveges jelentésben részletezni kell a hiányzó adatok körét, az adathiány megszüntetésére tett intézkedéseket és az alkalmazott közelítő eljárást.
+
+[^3]: A 2. melléklet a 14/2012. (X. 8.) PSZÁF rendelet 1. § (2) bekezdésével megállapított szöveg.
