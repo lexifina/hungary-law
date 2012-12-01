@@ -1,3 +1,0 @@
-## 1. § A személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról szóló 9/2000. (VIII. 4.) SZCSM rendelet (a továbbiakban: R.) 2. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-## ,,(1) A továbbképzés továbbképzési időszakokban történik. A továbbképzési időszak tartama öt év. A továbbképzési időszak kezdete munkaviszonyt, közalkalmazotti jogviszonyt vagy hivatásos nevelőszülői foglalkoztatási jogviszonyt létesítők, illetőleg a képesítési előírásnak megfelelő szakképesítést megszerzők esetében a munkába állás, a foglalkoztatás megkezdésének, illetőleg a szakképesítés megszerzésének napja. A szociális vállalkozási tevékenységet kezdők esetében a továbbképzési időszak kezdete a tevékenység megkezdésének napja.''

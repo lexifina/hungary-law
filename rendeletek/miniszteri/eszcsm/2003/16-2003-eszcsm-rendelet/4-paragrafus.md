@@ -1,9 +1,0 @@
-## ,,(3) A továbbképzési programok minősítése a program benyújtásával egyidejűleg, minden év november 15-éig kérhető. A minősítési kérelmet az Egészségügyi, Szociális és Családügyi Minisztérium (a továbbiakban: Minisztérium) hivatalos lapjában legkésőbb a tárgyév október 15-éig közzétett, a Bizottság által kiadott közlemény szerinti adatlapon kell benyújtani. Az adatlapot a Nemzeti Család- és Szociálpolitikai Intézetnek a Bizottság titkársági feladatait ellátó szervezeti egysége (a továbbiakban: Titkárság) részére 3 példányban kell benyújtani. A minősítési kérelemhez csatolni kell a minősítési díj befizetését igazoló dokumentum másolatát.
-
-## (4) A továbbképzési program minősítési díja a 3. § (5) bekezdésének a)–b) pontja szerinti program esetén a közalkalmazottakra vonatkozó ,,A'' fizetési osztály I. fokozata szerinti illetmény havi összegének (a továbbiakban: alapdíj) 25%-a, a c)–e) pontja szerinti program esetén pedig az alapdíj 10%-a.
-
-## (5) A 3. § (5) bekezdésének a)–b) pontjába tartozó, érvényes minősítéssel rendelkező továbbképzési programok akkor indíthatók, ha a továbbképzést szervezők a tárgyév november 15-éig a 2. számú melléklet szerinti adatlapon bejelentik a Titkárságnak.
-
-## (6) A Bizottság a minősített, valamint az érvényes minősítéssel rendelkező és bejelentett továbbképzési programok listáját és pontértékét, a programok formáját, címét, célcsoportját, helyét, idejét, díját, a jelentkezés helyét, valamint a programengedély számát és a minősítés érvényességét minden év január 15-éig a Minisztérium hivatalos lapjában közzéteszi.
-
-## (7) A (6) bekezdés szerint közzétett továbbképzési programok a közzététel évének december 31. napjáig szervezhetők. A megszervezésre került továbbképzési programokról a továbbképzést szervezők a 3. számú melléklet szerinti beszámolót a tárgyévet követő február 28-áig küldik meg a Titkárság részére.''
