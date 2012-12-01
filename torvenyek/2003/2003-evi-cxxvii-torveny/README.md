@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-127-00-00
 | 2012-05-01 | 2011. évi CLVI. törvény | 2003-127-00-00.56 |
 | 2012-06-20 | 2012. évi LXIX. törvény | 2003-127-00-00.57 |
 | 2012-07-01 | 2011. évi CXCI. törvény | 2003-127-00-00.58 |
+| 2012-12-01 | 2012. évi CLIV. törvény | 2003-127-00-00.59 |
