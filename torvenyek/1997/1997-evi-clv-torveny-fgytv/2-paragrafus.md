@@ -2,7 +2,7 @@
 
 2. § E törvény alkalmazásában:
 
-a) fogyasztó: az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró természetes személy, továbbá a békéltető testületre vonatkozó szabályok alkalmazásában a külön törvény szerinti civil szervezet, egyház, társasház, lakásszövetkezet, mikro-, kis- és középvállalkozás is, aki árut vesz, rendel, kap, használ, igénybe vesz, vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje,
+a) fogyasztó: az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró természetes személy, továbbá a békéltető testületre vonatkozó szabályok alkalmazásában az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró, külön törvény szerinti civil szervezet, egyház, társasház, lakásszövetkezet, mikro-, kis- és középvállalkozás is, aki, illetve amely árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje; ettől eltérően a pénzügyi jogok biztosára vonatkozó szabályok alkalmazásában a pénzügyi szervezet szolgáltatásait igénybe vevő természetes személy – ideértve az egyéni vállalkozót is – és mikrovállalkozás,
 
 b) vállalkozás: aki az 1. § szerinti tevékenységet önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében végzi,
 

@@ -1,0 +1,1 @@
+56/C. § A pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter az egyes törvényeknek a pénzügyi jogok biztosával összefüggő módosításáról szóló 2012. évi CLXXXVI. törvény hatálybalépését követő 30 napon belül kinevezi a pénzügyi jogok biztosát.
