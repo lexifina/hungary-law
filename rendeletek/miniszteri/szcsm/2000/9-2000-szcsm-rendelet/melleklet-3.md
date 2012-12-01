@@ -1,55 +1,31 @@
-## Bejelentőlap a program továbbképzési jegyzékben való
+## Bejelentőlap továbbképzési program szervezéséről
 
-## megjelentetéséhez
+## A minősített továbbképzési program az alábbiak szerint kerül megrendezésre
 
-## A Nemzeti Család- és Szociálpolitikai Intézet által minősített továbbképzési programnak a szociális ágazat irányításáért felelős minisztérium hivatalos lapjában való megjelenéséhez
+| 1. A továbbképzést szervező megnevezése, címe: |  |
 
-| 1. | A továbbképzési programot indító megnevezése, címe: |  |
+| 2. A program címe: |  |
 
-| 2. | A program címe: |  |
+| 3. A továbbképzési pontérték: |  |
 
-| 3. | A program minősítése érvényes: |  |
+| 4. A program indításának és befejezésének tervezett időpontja: |  |
 
-| 4. | A program célja, tartalma: |  |
+| 5. A program indításának helyszíne: |  |
 
-| 5. | A program célcsoportja: |  |
+| 6. A résztvevő által fizetendő részvételi díj: |  |
 
-| 6. | A szerezhető továbbképzési pontérték: |  |
+| 7. A továbbképzést szervező személy neve, telefonszáma: |  |
 
-| 7. | A program indításának tervezett időpontja: |  |
+| 8. A program engedélyszáma: |  |
 
-| 8. | A program időtartama (óra): |  |
-
-| 9. | A program indításának tervezett helyszíne: |  |
-
-| 10. | A résztvevő által fizetendő részvételi díj: |  |
-
-| 11. | A továbbképzést szervező személy neve, telefonszáma: |  |
-
-| 12. | A program engedélyszáma: |  |
-
-| 13. A 28/1998. (VI. 17.) NM rendelet alapján az egészségügyi továbbképzési rendszerben a program engedélyszáma: |  |
-
-| 14. A 277/1997. (XII. 22.) Korm. rendelet alapján a pedagógus továbbképzési rendszerben a program indítási engedélyszáma: |  |
-
-| 15. A 48/2001. (XII. 29.) OM rendelet alapján a felnőttképzést folytató intézményekről vezetett nyilvántartási szám: |  |
-
-## Megjegyzés: A 13–15. pontot csak akkor kell kitölteni, ha a program, illetve intézmény rendelkezik az adott engedély-, illetve nyilvántartási számmal.
-
-## Nyilatkozat
-
-## A táblázat 1. pontjában megnevezett szervezet nevében kijelentem, hogy a közölt adatok – a 9. és 10. pontok kivételével – a minősített pályázattól nem térnek el, a valóságnak megfelelnek.
-
-## Tudomásul veszem, hogy a közölt adatoktól a szociális ágazat irányításáért felelő miniszter által vezetett minisztérium hivatalos lapjában való megjelenés után nem áll módunkban eltérni, illetve a kiküszöbölhetetlen változásokat (amelyek nem érinthetik az egy főre jutó részvételi díj mértékét) előzetesen kötelesek vagyunk írásban egyeztetni a Nemzeti Család- és Szociálpolitikai Intézettel.
-
-## Kelt: ......................................................., ............ év ................................... hónap ..... napján
+## Kelt: ..............................................., ........... év ................................... hónap ..... napján
 
 ## P. H.
 
-## ..................................................................................
+## ..........................................................................................................
 
 ## a továbbképzés szervezőjének cégszerű aláírása
 
-3. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^92]
+3. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^106]
 
-[^92]: A 3. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésével megállapított, a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés m) pontja szerint módosított szöveg.
+[^106]: A 3. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésével megállapított, a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés m) pontja, a 41/2012. (XI. 28.) EMMI rendelet 12. § (1) bekezdés c) pontja és 13. § p) pontja szerint módosított szöveg.

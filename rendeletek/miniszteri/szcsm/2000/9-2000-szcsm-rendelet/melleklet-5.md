@@ -28,6 +28,6 @@
 
 ## a továbbképzés szervezőjének cégszerű aláírása
 
-5. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^94]
+5. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^108]
 
-[^94]: A 4. számú melléklet a 16/2003. (IV. 9.) ESZCSM rendelet 16. §-ának (1) bekezdésével megállapított szöveg, számozását 5. számú mellékletre változtatta a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése.
+[^108]: A 4. számú melléklet a 16/2003. (IV. 9.) ESZCSM rendelet 16. §-ának (1) bekezdésével megállapított szöveg, számozását 5. számú mellékletre változtatta a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése.

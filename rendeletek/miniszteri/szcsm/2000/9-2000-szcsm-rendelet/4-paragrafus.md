@@ -1,39 +1,46 @@
-4. § (1)[^16] Minősített továbbképzési programot – a továbbképzés céljából szervezett szakmai tanfolyam kivételével – bármely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet szervezhet. Szakmai tanfolyam szervezésére csak
+4. § (1)[^19] Minősített továbbképzési programot – a továbbképzés céljából szervezett szakmai tanfolyam kivételével – bármely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet szervezhet. Szakmai tanfolyam szervezésére csak az a szervezet jogosult, amelyik a felnőttképzésről szóló 2001. évi CI. törvény (a továbbiakban: Fktv.) 8. §-ában szabályozott felnőttképzést folytató intézmények nyilvántartásában szerepel.
 
-a) államilag elismert szociális vagy gyermekvédelmi képzést folytató képzőhely – feltéve, hogy a legutolsó képzést a továbbképzési program benyújtását megelőző három éven belül fejezték be –, továbbá
+(1a)[^20] Ha a szervezet továbbképzés-szervezési jogát a 11/A. § alapján felfüggesztik, az (1) bekezdéstől eltérően a felfüggesztés időtartama alatt nem jogosult továbbképzés szervezésére.
 
-b) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III., illetve a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény alapján kijelölt módszertani feladatokat ellátó szociális, gyermekjóléti, valamint gyermekvédelmi intézmény
+(2)[^21] A továbbképzési programok minősítését, a továbbképzési pontértékek meghatározását a Nemzeti Család- és Szociálpolitikai Intézet (a továbbiakban: Intézet) végzi. A minősítés a 3. § (5) bekezdésének a)–b) pontja szerinti program esetén három évre, c)–e) pontja szerinti program esetében egyszeri alkalomra érvényes.
 
-## jogosult, feltéve, ha a felnőttképzésről szóló 2001. évi CI. törvény (a továbbiakban: Fktv.) 8. §-ában szabályozott felnőttképzést folytató intézmények nyilvántartásában szerepel.
+(3)[^22] Az Intézet a 3. § (5) bekezdésének a)–b) pontjában meghatározott és minősített továbbképzések jegyzékét megküldi a Nemzeti Munkaügyi Hivatal Felnőttképzési Akkreditáló Testületének, amely – a jegyzékben megjelölt továbbképzés szervezőjének kérésére, az Fktv. 19. §-ának (3) bekezdése szerint – kiadja a programakkreditációt igazoló tanúsítványt.
 
-(2)[^17] A továbbképzési programok minősítését, a továbbképzési pontértékek meghatározását a Nemzeti Család- és Szociálpolitikai Intézet (a továbbiakban: Intézet) végzi. A minősítés a 3. § (5) bekezdésének a)–b) pontja szerinti program esetén három évre, c)–e) pontja szerinti program esetében egyszeri alkalomra érvényes.
+(4)[^23] A továbbképzési program minősítése a program benyújtásával egyidejűleg kérhető. A minősítési kérelmet három példányban, az Intézet honlapján közzétett adatlapon kell az Intézet részére benyújtani. A minősítési kérelemhez csatolni kell a minősítési díj befizetését igazoló dokumentum másolatát.
 
-(3)[^18] Az Intézet a 3. § (5) bekezdésének a)–b) pontjában meghatározott és minősített továbbképzések jegyzékét megküldi a Nemzeti Szakképzési és Felnőttképzési Intézet Felnőttképzési Akkreditációs Testületének, amely – a jegyzékben megjelölt továbbképzés szervezőjének kérésére, az Fktv. 19. §-ának (3) bekezdése szerint – kiadja a programakkreditációt igazoló tanúsítványt.
+(5)[^24] A továbbképzési program minősítési díja
 
-(4)[^19] A továbbképzési programok minősítése a program benyújtásával egyidejűleg, minden év október 15-éig kérhető. A minősítési kérelmet a szociális ágazat irányításáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) hivatalos lapjában legkésőbb a tárgyév augusztus 30-áig közzétett, az Intézet által kiadott közlemény szerinti adatlapon kell benyújtani. Az adatlapot az Intézet részére 3 példányban kell benyújtani. A minősítési kérelemhez csatolni kell a minősítési díj befizetését igazoló dokumentum másolatát.
+a) szakmai tanfolyam, illetve szakmai személyiségfejlesztő foglalkozás esetén a közalkalmazottak részére a központi költségvetésről szóló törvényben meghatározott, az „A” fizetési osztály első fizetési fokozata szerinti garantált illetmény összegének (a továbbiakban: alapdíj) 70%-a,
 
-(5)[^20] A továbbképzési program minősítési díja a 3. § (5) bekezdésének a)–b) pontja szerinti program esetén a közalkalmazottakra vonatkozó ,,A'' fizetési osztály I. fokozata szerinti illetmény havi összegének (a továbbiakban: alapdíj) 35%-a, a c)–e) pontja szerinti program esetén pedig az alapdíj 15%-a.
+b) szakmai tanácskozás, külföldi vagy hazai tanulmányút, illetve szakmai műhely esetén az alapdíj 30%-a.
 
-(6)[^21] A 3. § (5) bekezdésének a)–b) pontjába tartozó, érvényes minősítéssel rendelkező továbbképzési programok akkor indíthatók, ha a továbbképzést szervezők a tárgyévet megelőző év október 15-éig a 2. számú melléklet szerinti adatlapon bejelentik az Intézetnek.
+(6)[^25] Az Intézet a továbbképzés-szervezési joggal rendelkező szervezet esetében az érvényes minősítéssel rendelkező továbbképzési program 2. számú mellékletben meghatározott adatait a (4) bekezdés szerinti minősítési kérelem benyújtását követő negyedév utolsó napjáig a honlapján, valamint a szociál- és nyugdíjpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) hivatalos lapjában közzéteszi.
 
-(7)[^22] Az Intézet a minősített, valamint az érvényes minősítéssel rendelkező és bejelentett továbbképzési programok listáját és pontértékét, a programok formáját, címét, célcsoportját, helyét, idejét, díját, a jelentkezés helyét, valamint a programengedély számát és a minősítés érvényességét minden év január 31-éig a minisztérium hivatalos lapjában közzéteszi.
+(6a)[^26] Az Intézet közzéteszi a honlapján, valamint a minisztérium hivatalos lapjában a továbbképzés-szervezési jog 11/A. § szerinti felfüggesztését követő 60 napon belül a felfüggesztéssel érintett szervezet nevét, valamint a felfüggesztés kezdő és záró időpontját.
 
-(8)[^23] A (7) bekezdés szerint közzétett továbbképzési programok a közzététel évének december 31. napjáig szervezhetők. A továbbképzést szervezőknek
+(7)[^27] Az adott negyedévben érvényes minősítéssel rendelkező szakmai tanfolyam, illetve szakmai személyiségfejlesztő foglalkozás csak a (6) bekezdés szerinti közzétételt követően indítható azzal, hogy a továbbképzés szervezője köteles a továbbképzés tényleges indítását a 2/A. számú melléklet szerinti adattartalommal az Intézetnek az indítást megelőző 10 munkanapon belül bejelenteni.
 
-a) a megszervezésre került továbbképzési programokról a 3. számú melléklet szerinti adatlapot,
+(8)[^28] A (6) bekezdés szerint közzétett továbbképzési program a közzétételben meghatározott minősítés érvényességéig szervezhető. A továbbképzés szervezője
 
-b) a megszervezésre nem került továbbképzési programokról a 4. számú melléklet szerinti adatlapot
+a) a megszervezésre került továbbképzési programról a 3. számú melléklet szerinti adattartalommal a továbbképzés lebonyolítását követő hónap utolsó napjáig,
 
-## a tárgyévet követő év február 28-áig meg kell küldeni az Intézet részére.
+b) a megszervezésre nem került továbbképzési programról a 4. számú melléklet szerinti adattartalommal a tárgyévet követő év február 28-áig
 
-(9)[^24] Ha a (8) bekezdés szerinti beszámolási kötelezettségnek a szervező nem tesz eleget, továbbképzési programot a beszámolás elmulasztásának évét követő évben nem indíthat.
+beszámol, illetve bejelentést tesz az Intézet részére.
 
-[^16]: A 4. § (1) bekezdése a 16/2003. (IV. 9.) ESZCSM rendelet 3. §-ának (1) bekezdésével megállapított szöveg, az akkreditációs tanúsítvánnyal kapcsolatban lásd e módosító rendelet 20. §-ának (9)–(10) bekezdését.
-[^17]: A 4. § (2) bekezdésének utolsó mondatát a 8/2001. (XII. 20.) SZCSM rendelet 3. §-ának (1) bekezdése iktatta be, szövege a 16/2003. (IV. 9.) ESZCSM rendelet 20. § (4) bekezdésének a) pontja szerint módosított szöveg. A 4. § (2) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^18]: A 4. § új (3) bekezdését a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése iktatta be, egyidejűleg az eredeti (3)–(8) bekezdés számozását (4)–(9) bekezdésre változtatva. A 4. § (3) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^19]: A 4. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege (2) bekezdésével megállapított, a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^20]: A 4. § (4) bekezdése az 1/2005. (I. 26.) ICSSZEM rendelet 6. §-a (3) bekezdésének a) pontja szerint módosított szöveg, számozását (5) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése.
-[^21]: A 4. § (5) bekezdése a 16/2003. (IV. 9.) ESZCSM rendelet 3. §-ának (2) bekezdésével megállapított szöveg. Az akkreditációs tanúsítvánnyal kapcsolatban lásd e módosító rendelet 20. §-ának (9)–(10) bekezdését. Az (5) bekezdés számozását (6) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezése, szövege a 15. §-a (4) bekezdés b) pontjának ba) alpontja, a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^22]: A 4. § (6) bekezdésének számozását (7) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege (3) bekezdésével megállapított, a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^23]: A 4. § (7) bekezdését a 16/2003. (IV. 9.) ESZCSM rendelet 3. §-ának (2) bekezdése iktatta be, számozását (8) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege (3) bekezdésével megállapított szöveg. A (8) bekezdés záró szövegrésze a 10/2011. (III. 30.) NEFMI rendelet 16. § a) pontja szerint módosított szöveg.
-[^24]: A 4. § (8) bekezdését az 1/2005. (I. 26.) ICSSZEM rendelet 2. §-a iktatta be, számozását (9) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege a 15. §-a (4) bekezdés b) pontjának bb) alpontja szerint módosított szöveg.
+(9)[^29] Ha a (8) bekezdés szerinti beszámolási vagy bejelentési kötelezettségnek a szervező nem tesz eleget, továbbképzési programot a beszámolás vagy bejelentés elmulasztásának évét követő évben nem indíthat.
+
+(10)[^30] Az a továbbképző szervezet, amelynek továbbképzési jogát a 11/A. § alapján felfüggesztették, továbbképzési programot a felfüggesztés időtartama alatt nem indíthat.
+
+[^19]: A 4. § (1) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^20]: A 4. § (1a) bekezdését a 41/2012. (XI. 28.) EMMI rendelet 4. § (2) bekezdése iktatta be.
+[^21]: A 4. § (2) bekezdésének utolsó mondatát a 8/2001. (XII. 20.) SZCSM rendelet 3. §-ának (1) bekezdése iktatta be, szövege a 16/2003. (IV. 9.) ESZCSM rendelet 20. § (4) bekezdésének a) pontja szerint módosított szöveg. A 4. § (2) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^22]: A 4. § új (3) bekezdését a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése iktatta be, egyidejűleg az eredeti (3)–(8) bekezdés számozását (4)–(9) bekezdésre változtatva. A 4. § (3) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés b) pontja, a 41/2012. (XI. 28.) EMMI rendelet 13. § f) pontja szerint módosított szöveg.
+[^23]: A 4. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege a 41/2012. (XI. 28.) EMMI rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^24]: A 4. § (5) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^25]: A 4. § (6) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^26]: A 4. § (6a) bekezdését a 41/2012. (XI. 28.) EMMI rendelet 4. § (4) bekezdése iktatta be.
+[^27]: A 4. § (6) bekezdésének számozását (7) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege a 41/2012. (XI. 28.) EMMI rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^28]: A 4. § (7) bekezdését a 16/2003. (IV. 9.) ESZCSM rendelet 3. §-ának (2) bekezdése iktatta be, számozását (8) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege a 41/2012. (XI. 28.) EMMI rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^29]: A 4. § (8) bekezdését az 1/2005. (I. 26.) ICSSZEM rendelet 2. §-a iktatta be, számozását (9) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege a 12/2006. (XII. 27.) SZMM rendelet 15. § (4) bekezdés b) pontjának bb) alpontja, a 41/2012. (XI. 28.) EMMI rendelet 13. § g) pontja szerint módosított szöveg.
+[^30]: A 4. § (10) bekezdését a 41/2012. (XI. 28.) EMMI rendelet 4. § (6) bekezdése iktatta be.

@@ -16,6 +16,6 @@
 
 | a vizsgabizottság elnöke | a vizsgáztató intézmény vezetője |
 
-6. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^95]
+6. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^109]
 
-[^95]: Az 5. számú mellékletet a 16/2003. (IV. 9.) ESZCSM rendelet 16. §-ának (2) bekezdése iktatta be, számozását 6. számú mellékletre változtatta a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése.
+[^109]: Az 5. számú mellékletet a 16/2003. (IV. 9.) ESZCSM rendelet 16. §-ának (2) bekezdése iktatta be, számozását 6. számú mellékletre változtatta a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése.

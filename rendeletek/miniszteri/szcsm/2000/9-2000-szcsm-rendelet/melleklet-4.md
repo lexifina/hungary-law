@@ -1,6 +1,6 @@
 ## Beszámoló
 
-## a megelőző évben indított továbbképzési programokról
+## a továbbképzési programokról
 
 ## (Minden indított csoportra külön kell elkészíteni!)
 
@@ -20,11 +20,11 @@
 
 ## A továbbképzés kezdő és záró időpontja:
 
-## A továbbképzés helyszíne: .............................................................................................................. (intézmény neve)
+## A továbbképzés helyszíne: .............................................................................................................. (intézmény neve)
 
-## ...................................................................... (megye) .................................................................................... (város)
+## ...................................................................... (megye) .................................................................................... (város)
 
-## ................................................................................................................. (út/utca/stb.) ............................. (házszám)
+## ................................................................................................................. (út/utca/stb.) ............................. (házszám)
 
 ## 2. A célcsoportra vonatkozó információk
 
@@ -68,7 +68,7 @@
 
 ## a továbbképzés szervezőjének cégszerű aláírása
 
-## A beszámolót minden megszervezett, akkreditált továbbképzési programról a továbbképzés megszervezését követő év február 28-áig kell megküldeni a Nemzeti Család- és Szociálpolitikai Intézet címére:
+## A beszámolót minden megszervezett, minősített továbbképzési programról a továbbképzés megszervezését követő hónap utolsó napjáig kell megküldeni a Nemzeti Család- és Szociálpolitikai Intézet címére:
 
 ## Nemzeti Család- és Szociálpolitikai Intézet, 1134 Budapest, Tüzér utca 33–35.
 
@@ -78,6 +78,6 @@
 
 ## A beszámoló csak a mellékletekkel együtt fogadható el!
 
-4. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^93]
+4. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^107]
 
-[^93]: Az új 4. számú mellékletet a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése iktatta be, egyidejűleg az eredeti 4–8. számú melléklet számozását 5–9. számú mellékletre változtatva.
+[^107]: Az új 4. számú mellékletet a 12/2006. (XII. 27.) SZMM rendelet 11. § (2) bekezdése iktatta be, egyidejűleg az eredeti 4–8. számú melléklet számozását 5–9. számú mellékletre változtatva.
