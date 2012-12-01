@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-82-00-00
 | 2012-08-01 | 2012. évi CXII. törvény | 1997-82-00-00.49 |
 | 2012-09-01 | 2012. évi CXII. törvény | 1997-82-00-00.50 |
 | 2012-11-30 | 2012. évi CLXXVIII. törvény | 1997-82-00-00.51 |
+| 2012-12-01 | 2012. évi CLXXXVI. törvény | 1997-82-00-00.52 |
