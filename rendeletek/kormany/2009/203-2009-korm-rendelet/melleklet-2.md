@@ -40,7 +40,7 @@
 
 ## A) Országos, térségi és saját célú vasúti pályahálózat
 
-| Főrendelkező-, rendelkező forgalmi szolgálattevő | Vonatközlekedés, továbbá a tolatás irányítása állomáson és kijelölt szolgálati helyen. |
+| Főrendelkező-, rendelkező forgalmi szolgálattevő, forgalmi szolgálattevő | Vonatközlekedés, továbbá a tolatás irányítása állomáson és kijelölt szolgálati helyen. |
 
 | Külső forgalmi szolgálattevő |
 
@@ -374,7 +374,7 @@
 
 2. melléklet a 203/2009. (IX. 18.) Korm. rendelethez
 
-Egészségi alkalmasságot kizáró, korlátozó állapotok, fogyatékosságok és betegségek előzetes egészségi alkalmassági vizsgálatok során (BNO X.)
+## Egészségi alkalmasságot kizáró, korlátozó állapotok, fogyatékosságok és betegségek előzetes egészségi alkalmassági vizsgálatok során (BNO X.)
 
 Abban az esetben tekintendő alkalmasságot kizáró vagy korlátozó oknak az e mellékletben szereplő állapot, fogyatékosság vagy betegség, ha annak stádiuma közvetett vagy közvetlen következményeként a vizsgált személy munkavégzése a vasúti közlekedés biztonságát, saját életét vagy testi épségét veszélyezteti.
 
