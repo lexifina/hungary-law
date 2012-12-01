@@ -6,17 +6,17 @@ a) az elvégzendő vagy folytatandó tevékenység leírását, illetve meghatá
 
 b) a tevékenységgel érintett kulturális örökségi elem azonosításra alkalmas megjelölését,
 
-c)[^57] a tervezett beavatkozás mértékétől és jellegétől függően
+c)[^59] a tervezett beavatkozás mértékétől és jellegétől függően
 
 ca) örökségvédelmi hatástanulmányt,
 
 cb) beruházói nyilatkozatot arról, hogy a tervezett beruházás a nagyberuházások körébe tartozik-e.
 
-(2)[^58] A hatóság az előzetes nyilatkozatában kizárólag a kérelemben foglaltakról nyilatkozhat a rendelkezésre bocsátott dokumentáció (rajz, térkép, fotódokumentáció) alapján.
+(2)[^60] A hatóság az előzetes nyilatkozatában kizárólag a kérelemben foglaltakról nyilatkozhat a rendelkezésre bocsátott dokumentáció (rajz, térkép, fotódokumentáció) alapján.
 
 (3) Az előzetes nyilatkozat nem minősül a Ket. szerinti hatósági döntésnek.
 
 (4) Az előzetes nyilatkozat alapján hatósági engedélyhez kötött tevékenység nem folytatható.
 
-[^57]: A 20. § (1) bekezdésének c) pontját a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdése e) pontjának ee) alpontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.
-[^58]: A 20. § (2) bekezdése a 16/2012. (III. 20.) NEFMI rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^59]: A 20. § (1) bekezdésének c) pontját a 21/2007. (III. 26.) OKM rendelet 3. § (3) bekezdése e) pontjának ee) alpontja iktatta be. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2007. április 3. napját követően benyújtott kérelmekre kell alkalmazni.
+[^60]: A 20. § (2) bekezdése a 16/2012. (III. 20.) NEFMI rendelet 1. § (11) bekezdése szerint módosított szöveg.
