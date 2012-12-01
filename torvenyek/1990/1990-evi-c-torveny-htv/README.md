@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-100-00-00
 | 2011-12-22 | 2011. évi CLXXV. törvény | 1990-100-00-00.44 |
 | 2012-01-01 | 2011. évi CLVI. törvény | 1990-100-00-00.45 |
 | 2012-05-15 | 2012. évi XXIX. törvény | 1990-100-00-00.46 |
+| 2012-12-01 | 2012. évi CLXXVIII. törvény | 1990-100-00-00.47 |
