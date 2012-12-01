@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-96-00-00
 | 2012-08-01 | 2012. évi CXII. törvény | 1993-96-00-00.44 |
 | 2012-10-28 | 2012. évi CLI. törvény | 1993-96-00-00.45 |
 | 2012-11-30 | 2012. évi CLXXVIII. törvény | 1993-96-00-00.46 |
+| 2012-12-01 | 2012. évi CLXXXVI. törvény | 1993-96-00-00.47 |
