@@ -28,7 +28,7 @@ i) az adó-, vám- és társadalombiztosítási kötelezettség teljesítéséne
 
 j) bírósági végrehajtási eljárásban és a bírósági végrehajtó által lefolytatott közigazgatási végrehajtási eljárásban – ideértve az 1994. évi LIII. törvény 79/C. § (2) bekezdés alapján a közös számla nem adós tulajdonosának nevére és címére vonatkozó megkeresést is – eljáró végrehajtóval, valamint a bírósági végrehajtási eljárásba a lakáscélú állami támogatásokról szóló kormányrendelet alapján bekapcsolódni szándékozó kincstárral,
 
-k) a feladatkörében eljáró alapvető jogok biztosával
+k) a feladatkörében eljáró alapvető jogok biztosával, valamint pénzügyi jogok biztosával
 
 l) a pénzügyi közvetítőrendszer stabilitásáról szóló törvény szerinti feladatkörében eljáró államháztartásért felelős miniszterrel, a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel és az Európai Közösségeket létrehozó Szerződés 87. cikk (1) bekezdésének hatálya alá tartozó állami támogatások – az Európai Közösségeket létrehozó Szerződés I. mellékletében szereplő mezőgazdasági termékek előállításához és kereskedelméhez nyújtott támogatások és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatások, valamint külön jogszabályban más miniszter feladatkörébe utalt támogatások kivételével – versenyszempontú ellenőrzésének hazai koordinálásáért felelős miniszterrel,
 
