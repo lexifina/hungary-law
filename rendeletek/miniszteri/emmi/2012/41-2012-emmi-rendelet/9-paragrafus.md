@@ -1,0 +1,1 @@
+## „(4) A névjegyzékbe való felvétel iránti pályázatokat a témacsoport vagy témacsoportok megjelölésével minden év május 15-éig az Intézethez kell benyújtani. A pályázat benyújtásával egyidejűleg az alapdíj 15%-ának megfelelő bírálati díjat kell fizetni. A pályázatok elbírálásáról és a névjegyzékbe történő felvételről az Intézet minden év június 30-áig dönt.”
