@@ -1,188 +1,108 @@
 ## Az egyes fizetési osztályba tartozó munkakörök jegyzéke
 
-| Munkakörök megnevezése | A | B | C | D | E | F | G | H | I | J |  |
+| Munkakörök megnevezése | A | B | C | D | E | F | G | H | I | J |
 
-| Általános munkakörök |  |
+| Általános munkakörök |
 
-| I. ügyintéző (jogi, igazgatási, gazdasági, pénzügyi, humán, informatikai) |  |  |  |  |  |  |  |  |  |  |  |
+| I. ügyintéző (jogi, igazgatási, gazdasági, pénzügyi, humán, informatikai) |  |  |  |  |  |  |  |  |  |  |
 
-| közép képzettségi szintű munkakör |  | * | * | * | * |  |  |  |  |  |  |
+| közép képzettségi szintű munkakör |  | * | * | * | * |  |  |  |  |  |
 
-| felső képzettségi szintű munkakör |  |  |  |  |  | * | * | * | * | * |  |
+| felső képzettségi szintű munkakör |  |  |  |  |  | * | * | * | * | * |
 
-| II. ügyviteli |  |  |  |  |  |  |  |  |  |  |  |
+| II. ügyviteli |  |  |  |  |  |  |  |  |  |  |
 
-| közép képzettségi szintű munkakör |  | * | * | * |  |  |  |  |  |  |  |
+| közép képzettségi szintű munkakör |  | * | * | * |  |  |  |  |  |  |
 
-| III. üzemeltető-szolgáltató (fenntartási, üzemviteli alkalmazott, technikus, laboráns, szakmunkás, segédmunkás, kisegítő alkalmazott) |  |  |  |  |  |  |  |  |  |  |  |
+| III. üzemeltető-szolgáltató (fenntartási, üzemviteli alkalmazott, technikus, laboráns, szakmunkás, segédmunkás, kisegítő alkalmazott) |  |  |  |  |  |  |  |  |  |  |
 
-| alap képzettségi szintű munkakör | * | * |  |  |  |  |  |  |  |  |  |
+| alap képzettségi szintű munkakör | * | * |  |  |  |  |  |  |  |  |
 
-| közép képzettségi szintű munkakör |  |  | * | * | * |  |  |  |  |  |  |
+| közép képzettségi szintű munkakör |  |  | * | * | * |  |  |  |  |  |
 
-| felső képzettségi szintű munkakör |  |  |  |  |  | * | * | * | * |  |  |
+| felső képzettségi szintű munkakör |  |  |  |  |  | * | * | * | * |  |
 
-| Speciális munkakörök |  |
+| Speciális munkakörök |
 
-| OKM Támogatáskezelő Igazgatósága |  |
+| Nemzeti Kulturális Alap Igazgatósága |
 
-| programvezető (szakterülettel) |  |  |  | * | * | * | * | * | * | * |  |
+| kollégiumi titkár |  |  | * | * | * | * | * | * |  |  |
 
-| programkoordinátor (szakterülettel) |  |  |  | * | * | * | * | * | * |  |  |
+| pályáztatási asszisztens |  |  | * | * | * |  |  |  |  |  |
 
-| ügyvivő szakértő |  |  |  | * | * | * | * | * | * |  |  |
+| elszámoltató |  |  |  |  | * | * | * | * |  |  |
 
-| gazdasági tanácsadó |  |  |  | * | * | * | * | * | * |  |  |
+| szakreferens (szakterülettel) |  |  |  |  |  | * | * | * | * |  |
 
-| szakreferens (szakterülettel) |  |  |  |  |  | * | * | * | * | * |  |
+| hatósági szakreferens |  |  |  |  |  | * | * | * | * |  |
 
-| szakmai tanácsadó |  |  |  | * | * | * | * | * | * | * |  |
+| előadó-művészeti bizottsági referens |  |  |  |  |  | * | * | * |  |  |
 
-| tanácsadó (szakterülettel) |  |  |  | * | * | * | * | * | * | * |  |
+| Oktatáskutató és Fejlesztő Intézet |
 
-| referens (szakterülettel) |  |  | * | * | * | * |  |  |  |  |  |
+| szaktanácsadó (szakterülettel) |  |  |  |  |  | * | * | * | * | * |
 
-| helyszíni ellenőr |  |  |  | * | * | * | * | * | * | * |  |
+| szakértő (szakterülettel) |  |  |  |  |  | * | * | * | * | * |
 
-| szaktájékoztató |  |  |  | * | * | * | * | * | * | * |  |
+| programvezető |  |  |  |  |  |  |  | * | * | * |
 
-| Műemlékek Nemzeti Gondnoksága |  |
+| vezető projektmenedzser |  |  |  |  |  | * | * | * | * |  |
 
-| építész |  |  |  |  |  |  |  | * | * |  |  |
+| projektmenedzser |  |  |  |  |  | * | * | * | * |  |
 
-| belsőépítész |  |  |  |  |  |  |  | * | * |  |  |
+| projektkoordinátor |  |  |  |  | * | * | * | * | * |  |
 
-| táj- és kertépítész |  |  |  |  |  |  |  | * | * |  |  |
+| szakmai vezető |  |  |  |  |  | * | * | * | * | * |
 
-| létesítményfelelős |  |  |  |  |  | * | * | * | * |  |  |
+| alprojektvezető |  |  |  |  |  | * | * | * | * | * |
 
-| szaktanácsadó |  |  |  |  |  |  |  | * | * | * |  |
+| témavezető |  |  |  |  |  | * | * | * | * | * |
 
-| tudományos munkatárs |  |  |  |  |  |  |  | * | * | * |  |
+| szakmai asszisztens |  |  |  | * | * | * | * |  |  |  |
 
-| művelődéstörténeti előadó |  |  |  |  |  |  |  | * | * |  |  |
+| pedagógiai fejlesztő munkatárs |  |  |  |  |  | * | * | * | * | * |
 
-| könyvtáros |  |  |  |  |  |  | * | * | * |  |  |
+| tanterv fejlesztő munkatárs |  |  |  |  |  | * | * | * | * | * |
 
-| múzeumi restaurátor |  |  |  |  |  | * | * | * | * |  |  |
+| képzés fejlesztő munkatárs |  |  |  |  |  | * | * | * | * | * |
 
-| muzeológus |  |  |  |  |  |  |  | * | * | * |  |
+| vizsgafejlesztő munkatárs |  |  |  |  |  | * | * | * | * | * |
 
-| energetikus |  |  |  |  |  | * | * | * | * | * |  |
+| követelményfejlesztő munkatárs |  |  |  |  |  | * | * | * | * | * |
 
-| beruházási referens |  |  |  |  |  | * | * | * | * | * |  |
+| szolgáltatás szervező munkatárs |  |  |  |  | * | * | * | * | * |  |
 
-| műszaki ellenőr |  |  |  |  |  | * | * | * | * |  |  |
+| szakmai minőségbiztosítási tanácsadó |  |  |  |  |  | * | * | * | * | * |
 
-| pályázati referens |  |  |  |  |  | * | * | * | * | * |  |
+| kutató-elemző |  |  |  |  |  |  |  | * | * | * |
 
-| ingatlanfejlesztési referens |  |  |  |  |  | * | * | * | * | * |  |
+| mérés-értékelési munkatárs |  |  |  |  |  | * | * | * | * | * |
 
-| ingatlan- és vagyongazdálkodási referens |  |  |  |  | * | * | * | * | * |  |  |
+| olvasószerkesztő |  |  |  |  |  | * | * | * | * |  |
 
-| idegenforgalmi referens |  |  |  |  |  | * | * | * | * | * |  |
+| tördelő |  |  |  |  | * | * | * | * | * |  |
 
-| kulturális szervező |  |  |  |  |  | * | * | * | * | * |  |
+| adatbázis működtető munkatárs |  |  |  |  | * | * | * | * | * |  |
 
-| menedzser |  |  |  |  |  | * | * | * | * | * |  |
+| adatbázis fejlesztő munkatárs |  |  |  |  |  | * | * | * | * |  |
 
-| árszakértő |  |  |  |  | * | * | * | * | * |  |  |
+| referens (szakterülettel) |  |  |  |  | * | * | * | * | * |  |
 
-| nemzetközi levelező |  |  |  |  | * | * | * | * |  |  |  |
+| disszeminációs munkatárs |  |  |  |  | * | * | * | * | * |  |
 
-| idegenvezető |  |  | * | * | * | * |  |  |  |  |  |
+| honlapfejlesztő |  |  |  |  | * | * | * | * | * |  |
 
-| kereskedelmi előadó |  | * | * | * | * | * |  |  |  |  |  |
+| honlapszerkesztő |  |  |  |  | * | * | * | * | * |  |
 
-| vendéglátóipari előadó |  | * | * | * | * | * |  |  |  |  |  |
+| közvetítő (mediátor) |  |  |  |  | * | * | * | * | * | * |
 
-| gondnok | * | * | * | * | * | * |  |  |  |  |  |
+| kutatás szervező |  |  |  |  | * | * | * | * | * |  |
 
-| teremőr | * | * | * |  |  |  |  |  |  |  |  |
+## A Nemzeti Kulturális Alap Igazgatóságán hatósági szakreferens munkakör betöltéséhez szükséges szakképzettségi követelmény:
 
-| biztonsági őr |  | * | * | * |  |  |  |  |  |  |  |
+## a) egyetemi szintű jogász szakképzettség vagy
 
-| őr-portás | * | * | * |  |  |  |  |  |  |  |  |
-
-| kertész | * | * | * | * |  |  |  |  |  |  |  |
-
-| állatgondozó | * | * | * | * | * | * |  |  |  |  |  |
-
-| Kulturális Örökségvédelmi Szakszolgálat |  |
-
-| tervezőmérnök |  |  |  |  | * | * | * | * | * | * |  |
-
-| régész |  |  |  |  | * | * | * | * | * | * |  |
-
-| művészettörténész |  |  |  |  | * | * | * | * | * | * |  |
-
-| restaurátor |  |  |  |  | * | * | * | * | * | * |  |
-
-| geológus |  |  |  |  | * | * | * | * | * | * |  |
-
-| vegyész |  |  |  |  | * | * | * | * | * | * |  |
-
-| könyvtáros |  |  |  |  | * | * | * | * | * | * |  |
-
-| műszaki ellenőr |  |  |  |  | * | * | * | * | * | * |  |
-
-| geodéta |  |  |  |  | * | * | * | * | * | * |  |
-
-| projektvezető |  |  |  |  | * | * | * | * | * | * |  |
-
-| projekt-koordinátor |  |  |  |  | * | * | * | * | * | * |  |
-
-| területi felügyelő |  |  |  |  | * | * | * | * | * | * |  |
-
-| referens (szakterülettel) |  |  |  |  | * | * | * | * | * | * |  |
-
-| tanácsadó (szakterülettel) |  |  |  |  | * | * | * | * | * | * |  |
-
-| asszisztens (szakterülettel) |  |  | * | * | * | * | * | * | * | * |  |
-
-| fényképész |  | * | * | * | * | * | * | * | * |  |  |
-
-| régész technikus |  |  |  | * | * | * | * | * | * |  |  |
-
-| rajzoló |  | * | * | * | * | * | * | * | * |  |  |
-
-| laboráns |  | * | * | * | * | * | * | * | * |  |  |
-
-| Nemzeti Kulturális Alap Igazgatósága |  |  |
-
-| kollégiumi titkár |  |  | * | * | * | * | * | * |  |  |  |
-
-| pályáztatási asszisztens |  |  | * | * | * |  |  |  |  |  |  |
-
-| elszámoltató |  |  |  |  | * | * | * | * | * |  |  |
-
-| szakértő (szakterülettel) |  |  |  |  |  | * | * | * | * |  |  |
-
-| szakreferens (szakterülettel) |  |  |  |  |  | * | * | * | * | * |  |
-
-| referens (szakterülettel) |  |  | * | * | * | * |  |  |  |  |  |
-
-| operátor |  |  | * | * | * |  |  |  |  |  |  |
-
-| Oktatáskutató és Fejlesztő Intézet |  |
-
-| szakértő (szakterülettel) |  |  |  |  | * | * | * | * | * | * |  |
-
-| programvezető, vezető koordinátor |  |  |  |  |  |  |  | * | * | * |  |
-
-| programasszisztens, koordinátor |  |  |  |  |  | * | * | * | * |  |  |
-
-| menedzser |  |  |  |  | * | * | * | * | * |  |  |
-
-| andragógus |  |  |  |  | * | * | * | * | * | * |  |
-
-| közvetítő (mediátor) |  |  |  |  | * | * | * | * | * | * |  |
-
-| programfejlesztő |  |  |  | * | * | * | * | * | * |  |  |
-
-| kutatás szervező |  |  |  |  | * | * | * | * | * |  |  |
-
-| kulturális szervező |  |  |  |  | * | * | * | * | * |  |  |
+## b) egyetemi vagy főiskolai szintű államigazgatási vagy igazgatásszervező szakképzettség.
 
 3. számú melléklet a 37/2008. (XII. 31.) OKM rendelethez
 

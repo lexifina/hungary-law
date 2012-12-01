@@ -1,15 +1,3 @@
-## 1. § E rendelet hatálya az oktatási és kulturális miniszter irányítása alatt álló költségvetési szervek közül a(z):
+## [Kjt. 20/A. §-ához és 85. § (4) bekezdés b) pontjához][^4]
 
-## Kulturális Örökségvédelmi Szakszolgálatra, (KÖSZ)
-
-## Műemlékek Nemzeti Gondnokságára, (MNG)
-
-## Nemzeti Kulturális Alap Igazgatóságára, (NKAI)
-
-## Oktatáskutató és Fejlesztő Intézetre, (OFI)
-
-## OKM Támogatáskezelő Igazgatóságára,
-
-## és az e szerveknél foglalkoztatott közalkalmazottak jogviszonyára terjed ki.
-
-## [Kjt. 23. § (3) bekezdéséhez és a 85. § (4) bekezdés e) pontjához ]
+[^4]: A 2. §-t megelőző jogszabályi hivatkozás a 44/2012. (XI. 30.) EMMI rendelet 1. § (6) bekezdés a) pontjával megállapított szöveg.

@@ -28,4 +28,6 @@
 
 | csoportvezető |  |  |  |  |  |  |  |  |  |  | 100 |
 
-2. számú melléklet a 37/2008. (XII. 31.) OKM rendelethez
+2. számú melléklet a 37/2008. (XII. 31.) OKM rendelethez[^10]
+
+[^10]: A 2. számú melléklet a 44/2012. (XI. 30.) EMMI rendelet 1. § (5) bekezdésével megállapított szöveg.
