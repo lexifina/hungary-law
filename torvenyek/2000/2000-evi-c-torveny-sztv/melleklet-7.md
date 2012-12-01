@@ -27,3 +27,9 @@ I. Szokásos tevékenységből származó pénzeszköz-változás
 9. Vevőkövetelés változása ±
 
 10. Forgóeszközök (vevőkövetelés és pénzeszköz nélkül) változása ±
+
+11. Aktív időbeli elhatárolások változása ±
+
+12. Fizetett, fizetendő adó (nyereség után) –
+
+13. Fizetett, fizetendő osztalék, részesedés –
