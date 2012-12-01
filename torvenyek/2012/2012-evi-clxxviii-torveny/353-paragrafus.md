@@ -1,5 +1,3 @@
 ## 26. A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény módosítása
 
-353. § A magánnyugdíjról és a magányugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 89. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: PSZÁF) az egyes magánnyugdíjpénztárak társadalombiztosítási nyugdíjrendszerbe 2012. március 31-ig visszalépő és a vissza nem lépő magánnyugdíjpénztár tagjainak számáról 2012. november 30-áig értesíti a Pénztárak Garanciaalapját. A Pénztárak Garanciaalapja a PSZÁF értesítése alapján megállapítja a társadalombiztosítási nyugdíjrendszerbe visszalépő tagokra vonatkozó garanciális kifizetésekre fordítható pénzeszközeinek összegét, és annak eszközfedezetét az értesítés kézhezvételét követő hónap utolsó napjáig a portfólión belüli eszközaránynak megfelelően adja át a Nyugdíjreform és Adósságcsökkentő Alapnak. A Pénztárak Garanciaalapja a Nyugdíjreform és Adósságcsökkentő Alapnak átadott, garanciális kifizetésekre fordítható pénzeszközeinek egy tagra jutó összegét az eszközátadást követő 15 napon belül közli a magánnyugdíjpénztárakkal.”
+353–354. §

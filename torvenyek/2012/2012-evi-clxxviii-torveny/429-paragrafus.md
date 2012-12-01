@@ -1,3 +1,0 @@
-429. § A Kutatási és Technológiai Innovációs Alapról szóló 2003. évi XC. törvény a következő 15. §-sal egészül ki:
-
-„15. § Az egészségügy többletforráshoz jutása érdekében szükséges törvénymódosításokról, valamint egyéb törvények módosításáról szóló 2012. évi CLIV. törvény 16. §-ával megállapított 4. § (1) bekezdését a 2012-ben kezdődő adóévben is lehet alkalmazni.”

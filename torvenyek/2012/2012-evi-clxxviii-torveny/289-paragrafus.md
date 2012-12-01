@@ -1,3 +1,1 @@
-289. § Az Art. 177. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Amennyiben a magánszemély hallgatóihitel-törlesztési kötelezettségének nem tesz eleget, tartozását a Diákhitel Központ Zrt. megkeresésére az állami adóhatóság adók módjára hajtja be. A behajtás iránti megkereséshez a Diákhitel Központ Zrt. a hallgatói hitel törlesztésére kötelezett magánszemély részére igazoltan kézbesített fizetési felszólítás egy példányát köteles csatolni. Amennyiben az állami adóhatósági eljárásban a Diákhitel szervezet teljes követelése nem térült meg, és a követelés polgári jogi érvényesítésének feltételei fennállnak, a Diákhitel szervezet – az állami adóhatóság 161. § (5) bekezdés szerinti tájékoztatását követően – polgári jogi eljárást indíthat.”
+289. §
