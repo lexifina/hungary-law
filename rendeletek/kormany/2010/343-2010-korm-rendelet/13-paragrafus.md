@@ -4,17 +4,23 @@
 
 2. valótlan tartalmú adatszolgáltatás esetén százezer forint,
 
-3.[^36] valótlan tartalommal vagy jogosulatlanul kiállított igazolás esetében
+3.[^50] jogosulatlanul kiállított igazolás esetében
 
 a) ha a jogsértéssel érintett mennyiség a 100 tonnát nem haladja meg, akkor megkezdett tonnánként ezer forint, de minimum 20 000 forint,
 
 b) ha a jogsértéssel érintett mennyiség a 100 tonnát eléri, vagy azt meghaladja, akkor megkezdett tonnánként ötezer forint.
 
-4.[^37] a 7. § (1)–(2) bekezdésében előírt nyilvántartási kötelezettség nem teljesítése esetén százezer forint.
+4.[^51] a 7. § (1)–(2) bekezdésében előírt nyilvántartási kötelezettség nem teljesítése esetén százezer forint.
 
-(2) Ha a valótlan tartalmú igazolás más valótlan tartalmú igazolás alapján, azonban az e rendeletben foglaltak szerint került kiállításra, az (1) bekezdés 3. pontja szerinti bírság igazolásonként ezer forint.
+5.[^52] valótlan tartalmú igazolás kiállítása esetén az igazoláson szereplő mennyiség tonnájaként ezerötszáz forint.
+
+(2)[^53] Ha a valótlan tartalmú igazolás más valótlan tartalmú igazolás alapján, azonban az e rendeletben foglaltak szerint került kiállításra, az (1) bekezdés 5. pontja szerinti bírság igazolásonként ezer forint.
 
 (3) Ha a biomassza termelő a biomassza igazolást a 3. § (4) bekezdésében meghatározott mennyiséget meghaladó biomassza-mennyiségre állította ki, a mezőgazdasági igazgatási szerv a bírság összegét a jogsértéssel érintett biomassza-mennyiség tonnában kifejezett mértéke és ötezer forint szorzataként állapítja meg.
+
+(3a)[^54] A 8. § (6) bekezdése szerinti adat-bejelentési kötelezettség megsértése esetén a bírság mértéke a változással érintett adatonként tízezer forint, de összesen legfeljebb százezer forint.
+
+(3b)[^55] A 3. § (9) bekezdésében vagy 4. § (8) bekezdésében foglalt bejelentési kötelezettség megsértése esetén a bírság mértéke az érintett igazolásonként tizenötezer forint.
 
 (4) A Büat. 7. § (1) bekezdés a) pontja szerinti jogsértés esetén a bírság a tárgyhónap utolsó napjától számított öt éven belül szabható ki.
 
@@ -24,5 +30,9 @@ b) ha a jogsértéssel érintett mennyiség a 100 tonnát eléri, vagy azt megha
 
 (7) A bírságot a határozat jogerőre emelkedésétől számított 8 napon belül kell az eljáró hatóság számlájára megfizetni.
 
-[^36]: A 13. § (1) bekezdés 3. pontja a 167/2011. (VIII. 24.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^37]: A 13. § (1) bekezdés 4. pontját a 167/2011. (VIII. 24.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^50]: A 13. § (1) bekezdés 3. pontja a 167/2011. (VIII. 24.) Korm. rendelet 11. § (1) bekezdésével megállapított, nyitó szövegrésze a 318/2012. (XI. 13.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^51]: A 13. § (1) bekezdés 4. pontját a 167/2011. (VIII. 24.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^52]: A 13. § (1) bekezdés 5. pontját a 318/2012. (XI. 13.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^53]: A 13. § (2) bekezdése a 318/2012. (XI. 13.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^54]: A 13. § (3a) bekezdését a 318/2012. (XI. 13.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^55]: A 13. § (3b) bekezdését a 318/2012. (XI. 13.) Korm. rendelet 11. § (3) bekezdése iktatta be.

@@ -4,7 +4,7 @@
 
 a) a vásárolt, feldolgozott biomassza mennyiségét,
 
-b) a vásárolt, feldolgozott biomassza mennyiségre vonatkozó biomassza igazolást,
+b)[^30] a vásárolt, feldolgozott biomassza mennyiségre vonatkozó biomassza igazolást vagy fenntarthatósági igazolást,
 
 c) az előállított köztes termék vagy bioüzemanyag mennyiségét az 1. § 4. pontjában meghatározott bioüzemanyag termék típusok szerinti bontásban,
 
@@ -18,7 +18,7 @@ g) a kiállított fenntarthatósági igazolások adatait.
 
 (2) Az üzemanyag-forgalmazó nyilvántartást vezet a Büat. 6. § (2) bekezdése szerinti jelentés alapjául szolgáló, a 4. mellékletben meghatározott adatokról.
 
-(3)[^21] A 2009/28/EK európai parlamenti és tanácsi irányelv 18. cikk (4) bekezdése szerint hozott bizottsági határozattal elismert önkéntes nemzeti vagy nemzetközi rendszer előírásainak megfelelő, auditor által jóváhagyott nyilvántartást úgy kell tekinteni, mint amely megfelel az (1)–(2) bekezdésben foglaltaknak.
+(3)[^31] A 2009/28/EK európai parlamenti és tanácsi irányelv 18. cikk (4) bekezdése szerint hozott bizottsági határozattal elismert önkéntes nemzeti vagy nemzetközi rendszer előírásainak megfelelő, auditor által jóváhagyott nyilvántartást úgy kell tekinteni, mint amely megfelel az (1)–(2) bekezdésben foglaltaknak.
 
 (4) A nyilvántartás adatait számításokkal, bizonylatokkal és hitelesített mérőeszközök alkalmazásával nyert adatokkal kell igazolni, az alábbiak szerint:
 
@@ -30,13 +30,15 @@ c) az előállításhoz felhasznált biomassza mennyiségét az alapanyagok, egy
 
 d) az előállított köztes termék, bioüzemanyag és üzemanyag mennyiségének megállapítására szolgáló mérőeszközök hitelesítési bizonylataival,
 
-e) az értékesített köztes termék, bioüzemanyag és üzemanyag mennyiségét szerződésekkel, számlákkal, kitárolási, szállítási okmányokkal,
+e)[^32] az értékesített biomassza, nem termesztett biomassza, köztes termék, bioüzemanyag és üzemanyag mennyiségét szerződésekkel, számlákkal, kitárolási, szállítási okmányokkal,
 
 f) a bioüzemanyag fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatású-gázkibocsátás elkerülés kiszámításának szabályairól szóló jogszabályban meghatározott tömegmérleg módszer megadásával és az ahhoz szükséges adatok igazolásával, valamint
 
 g) a kiállított fenntarthatósági igazolások másolatával.
 
-(5)[^22] A (4) bekezdés szerinti dokumentumokat 5 évig, az (1)–(2) bekezdés szerinti nyilvántartást, a BÜHG nyilvántartásból való törlést követő két évig kell megőrizni. A nyilvántartásnak biztosítania kell az utólagos adatmódosítás és adatvesztés kizárását.
+(5)[^33] A (4) bekezdés szerinti dokumentumokat 5 évig, az (1)–(2) bekezdés szerinti nyilvántartást, a BÜHG nyilvántartásból való törlést követő két évig kell megőrizni. A nyilvántartásnak biztosítania kell az utólagos adatmódosítás és adatvesztés kizárását.
 
-[^21]: A 7. § (3) bekezdése a 167/2011. (VIII. 24.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^22]: A 7. § (5) bekezdése a 167/2011. (VIII. 24.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^30]: A 7. § (1) bekezdés b) pontja a 318/2012. (XI. 13.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^31]: A 7. § (3) bekezdése a 167/2011. (VIII. 24.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^32]: A 7. § (4) bekezdés e) pontja a 318/2012. (XI. 13.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^33]: A 7. § (5) bekezdése a 167/2011. (VIII. 24.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

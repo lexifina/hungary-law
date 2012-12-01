@@ -1,51 +1,45 @@
 ## A biomassza igazolás adattartalma
 
-## I. Termesztett biomassza esetén a biomassza igazolás tartalmazza a következő adatokat:
+## I. Termesztett biomassza esetében a biomassza igazolás tartalmazza a következő adatokat:
 
-## 1. az igazolás kiállítójának adatai, regisztrációs száma;
+## 1. biomassza igazolás sorszáma;
 
-## 2. a biomassza megvásárlójának neve, címe, devizabelföldi vásárló esetén regisztrációs száma;
+## 2. az igazolás kiállítójának adatai, regisztrációs száma;
 
-## 3. a biomassza megnevezése és KN-kódja;
+## 3. a biomassza megvásárlójának neve, címe, devizabelföldi vásárló esetében regisztrációs száma;
 
-## 4. a biomassza mennyisége tonnában két tizedes jegyig kifejezve;
+## 4. a biomassza megnevezése és KN-kódja;
 
-## 5. a biomassza termelésével érintett termőterület összesített nagysága hektárban két tizedes jegyig kifejezve;
+## 5. a biomassza mennyisége tonnában kifejezve;
 
-## 6. nyilatkozat arról, hogy a kibocsátási komponensek megállapítása alapértelmezett vagy tényleges értéken történt;
+## 6. az igazolásban szereplő biomassza mennyiség termelésével érintett termőterület összesített nagysága hektárban két tizedes jegyig kifejezve;
 
-## 7. ha a szállításra vonatkozó kibocsátási komponens megállapítása nem alapértelmezett értéken történik, akkor az egy tonna terményre vetített, a beszállítás, szárítás és tisztítás során keletkező ÜHG kibocsátás mértéke;
+## 7. az igazolásban szereplő biomassza mennyiség betakarításának éve;
 
-## 8. ha a termesztésre, termőterület váltásra vonatkozó kibocsátási komponensek megállapítása nem alapértelmezett értéken történt, akkor az egy tonna terménymennyiségre vetített, a termesztéséből eredő közvetlen és a termesztés során a talaj kötöttszén-készletváltozásából eredő ÜHG kibocsátás mértéke;
+## 8. nyilatkozat arról, hogy a kibocsátási komponensek megállapítása alapértelmezett vagy tényleges értéken történt;
 
-## 9. a termesztéssel érintett termőterületek adatai
+## 9. nyilatkozat arról, hogy a degradációs bónuszt és a talajban lévő kötött szénnek a jobb mezőgazdasági gazdálkodásnak köszönhető felhalmozódása miatti kibocsátás-csökkentést leíró tényezőt figyelembe vették-e az ÜHG kibocsátás kiszámításakor;
 
-## a) a termőterület MePAR szerinti blokk- és parcella azonosítója;
+## 10. ha a szállításra vonatkozó kibocsátási komponens megállapítása nem alapértelmezett értéken történik, akkor az egy tonna terményre vetített, a beszállítás, szárítás és tisztítás során keletkező ÜHG kibocsátás mértéke;
 
-## b) a termőterület nagysága hektárban, két tizedes jegy pontossággal kifejezve;
+## 11. ha a termesztésre, termőterület váltásra vonatkozó kibocsátási komponensek megállapítása nem alapértelmezett értéken történt, akkor az egy tonna terménymennyiségre vetített, a termesztéséből eredő közvetlen és a termesztés során a talaj kötöttszén-készletváltozásából eredő ÜHG kibocsátás mértéke;
 
-## c) a termőterületről betakarított biomassza mennyisége tonnában, két tizedes jegy pontossággal kifejezve;
+## 12. az igazolásban szereplő biomassza mennyiség megtermelésével érintett termőterület MePAR szerinti blokk- és parcella azonosítója (a továbbiakban: termőterületre vonatkozó adatok).
 
-## d) a biomassza betakarításának kezdő időpontja.
+## II. Nem termesztett biomassza esetében a biomassza igazolás tartalmazza a következő adatokat:
 
-## II. Nem termesztett biomassza esetén a biomassza igazolás tartalmazza a következő adatokat:
+## 1. biomassza igazolás sorszáma;
 
-## 1.[^45] az igazolás kiállítójának adatai, a használt sütőolaj kivételével az igazolás kiállítójának regisztrációs száma;
+## 2. az igazolás kiállítójának neve, székhelye vagy lakcíme, az igazolás kiállítójának adószáma vagy adóazonosító jele;
 
-## 2. a biomassza megvásárlójának neve, címe, devizabelföldi vásárló esetén regisztrációs száma;
+## 3. a biomassza megvásárlójának neve, lakcíme vagy székhelye, devizabelföldi vásárló esetében regisztrációs száma;
 
-## 3. a biomassza megnevezése és KN-kódja;
+## 4. a biomassza megnevezése és KN-kódja;
 
-## 4. a biomassza mennyisége tonnában két tizedes jegyig kifejezve;
+## 5. a biomassza mennyisége tonnában kifejezve;
 
-## 5.[^46]
+## 6. a biomassza forrására vagy a begyűjtés helyére vonatkozó adatok.
 
-## 6.[^47]
+3. melléklet a 343/2010. (XII. 28.) Korm. rendelethez[^64]
 
-## 7. a biomassza forrására, a begyűjtés helyére vonatkozó adatok.
-
-3. melléklet a 343/2010. (XII. 28.) Korm. rendelethez
-
-[^45]: A 2. melléklet II. pont 1. alpontja a 167/2011. (VIII. 24.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^46]: A 2. melléklet II. pont. 5. alpontját a 167/2011. (VIII. 24.) Korm. rendelet 15. § (3) bekezdése hatályon kívül helyezte.
-[^47]: A 2. melléklet II. pont. 6. alpontját a 167/2011. (VIII. 24.) Korm. rendelet 15. § (3) bekezdése hatályon kívül helyezte.
+[^64]: A 3. melléklet a 318/2012. (XI. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
