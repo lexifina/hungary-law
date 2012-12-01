@@ -1,0 +1,9 @@
+A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (4) bekezdés a) és b) pontjában,
+
+a 2. § tekintetében az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 47. § (2) bekezdés c) pontjában foglalt felhatalmazás alapján,
+
+az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § j) pontjában meghatározott feladatkörömben eljárva,
+
+a 2. § tekintetében az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § c) pontjában foglalt feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben
+
+a következőket rendelem el:
