@@ -48,6 +48,6 @@
 
 |  | a bejelentésre kötelezett aláírása |
 
-5. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^14]
+5. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^17]
 
-[^14]: Az 5. számú melléklet a 24/2010. (XII. 30.) NEFMI rendelet 5. §-a szerint módosított szöveg.
+[^17]: Az 5. számú melléklet a 24/2010. (XII. 30.) NEFMI rendelet 5. §-a szerint módosított szöveg.

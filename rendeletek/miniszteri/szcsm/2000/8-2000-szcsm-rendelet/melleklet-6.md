@@ -26,6 +26,6 @@
 
 |  | ……………………………………………….. a nyilvántartó képviselőjének aláírása |
 
-6. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^15]
+6. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^18]
 
-[^15]: A 6. számú melléklet a 24/2010. (XII. 30.) NEFMI rendelet 5. §-a szerint módosított szöveg.
+[^18]: A 6. számú melléklet a 24/2010. (XII. 30.) NEFMI rendelet 5. §-a szerint módosított szöveg.

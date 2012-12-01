@@ -14,7 +14,7 @@
 
 |  |  | ..................................................................... a nyilvántartó képviselőjének aláírása |
 
-7. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^16]
+7. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^19]
 
 Adatlap a személyes gondoskodást végző személyek adatainak a működési nyilvántartásból való törléséhez
 
@@ -50,4 +50,4 @@ Dátum: ..................................
 
 |  | a bejelentésre kötelezett aláírása |
 
-[^16]: A 7. számú melléklet a 16/2003. (IV. 9.) ESZCSM rendelet 19. §-ának d) pontjával megállapított szöveg.
+[^19]: A 7. számú melléklet a 16/2003. (IV. 9.) ESZCSM rendelet 19. §-ának d) pontjával megállapított szöveg.

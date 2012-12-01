@@ -34,6 +34,6 @@
 
 |  |  | ..................................................................... a bejelentésre kötelezett aláírása |
 
-4. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^13]
+4. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^16]
 
-[^13]: A 4. számú melléklet a 16/2003. (IV. 9.) ESZCSM rendelet 19. §-ának c) pontjával megállapított szöveg.
+[^16]: A 4. számú melléklet a 16/2003. (IV. 9.) ESZCSM rendelet 19. §-ának c) pontjával megállapított szöveg.

@@ -116,6 +116,6 @@
 
 ## **** Az 1/2000. (I. 7.) SZCSM rendelet 6. §-a és a 15/1998. (IV. 30.) NM rendelet 3. §-a alapján
 
-2. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^12]
+2. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^15]
 
-[^12]: A 2. számú melléklet a 16/2003. (IV. 9.) ESZCSM rendelet 19. §-ának b) pontjával megállapított szöveg.
+[^15]: A 2. számú melléklet a 16/2003. (IV. 9.) ESZCSM rendelet 19. §-ának b) pontjával megállapított szöveg.
