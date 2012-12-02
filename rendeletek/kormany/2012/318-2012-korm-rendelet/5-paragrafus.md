@@ -1,1 +1,0 @@
-## „(4) A kötelező bioüzemanyag-részarány számításánál a motorbenzin és a dízelgázolaj esetében egyaránt az energiatartalomban kifejezett forgalomba hozott mennyiség 4,9%-át kell figyelembe venni a 2014. január 1. és 2015. december 31. közötti időszakban.”
