@@ -1,1 +1,3 @@
-## „f) az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdése szerinti nyilatkozat és a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 7. §-a szerinti bejelentés kitöltésének konzisztenciáját, valamint a kisadózóként bejelentett személy adatai és a cég tagja adatainak egyezőségét.”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
