@@ -1,1 +1,0 @@
-1. § Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 2. § (1) bekezdésében a „valamint az oktatási jogok biztosa” szövegrész helyébe az „az oktatási jogok biztosa, valamint a pénzügyi jogok biztosa” szöveg lép.
