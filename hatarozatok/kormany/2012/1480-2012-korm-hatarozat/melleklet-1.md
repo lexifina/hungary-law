@@ -4,7 +4,7 @@
 
 ## Határidő: azonnal
 
-## 2. az Áht. 21. § (6) bekezdése alapján a Kúria a jelenlegi Néprajzi Múzeum és Politikatudományi Intézet épületébe való átköltözésének előkészítésére 50,0 millió forint 1. melléklet szerinti átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Kvtv. 1. melléklet VI. Bíróságok fejezet, 2. Fejezeti kezelésű előirányzatok cím, 8. A Kúria Néprajzi Múzeum épületébe való átköltözésének előkészítése alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 3. Rendkívüli kormányzati intézkedések cím terhére.
+## 2.[^1] az Áht. 21. § (6) bekezdése alapján a Kúria a jelenlegi Néprajzi Múzeum és a Politikatörténeti Intézet épületébe való átköltözésének előkészítésére 50,0 millió forint 1. melléklet szerinti átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Kvtv. 1. melléklet VI. Bíróságok fejezet, 2. Fejezeti kezelésű előirányzatok cím, 8. A Kúria Néprajzi Múzeum épületébe való átköltözésének előkészítése alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 3. Rendkívüli kormányzati intézkedések cím terhére.
 
 ## Felelős: átcsoportosításért: nemzetgazdasági miniszter
 
@@ -97,3 +97,5 @@ Költségvetési év: 2012.
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^1]: A 2. pont az 1549/2012. (XII. 4.) Korm. határozat 2. pontja szerint módosított szöveg.
