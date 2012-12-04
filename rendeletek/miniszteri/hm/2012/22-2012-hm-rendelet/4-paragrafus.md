@@ -1,3 +1,3 @@
-## 3. §[^2]
+## 3. § Az R. 9/A. §-a a következő (3) bekezdéssel egészül ki:
 
-[^2]: A 3. § az 5. § (2) bekezdése alapján 2012. december 4-én lép hatályba.
+## „(3) A honvédségi teherjárművek tekintetében az R3. 3. § (1) bekezdés b) pontja és 29. §-a szerinti közúti áruszállítási igazolványra vonatkozó követelményeket nem kell alkalmazni.”
