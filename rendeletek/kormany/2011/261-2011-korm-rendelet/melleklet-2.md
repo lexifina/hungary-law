@@ -6,13 +6,13 @@
 
 2. A tagállam állampolgára az 1. pontban meghatározott képesítés megszerzését igazolhatja
 
-2.1.[^31] a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló jogszabályban meghatározott „Gépjárművezetői képesítési igazolvány”-nyal,
+2.1.[^29] a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló jogszabályban meghatározott „Gépjárművezetői képesítési igazolvány”-nyal,
 
 2.2. vezetői engedéllyel, amelyen – az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről, valamint a 3820/85/EGK tanácsi rendelet és a 61/439/EGK, illetve a 76/914/EGK tanácsi irányelv módosításáról szóló, 2003. július 15-i 2003/59/EK európai parlamenti és tanácsi irányelv 10. cikkének (2) bekezdésében meghatározott – 95. sz. közösségi kód van feltüntetve,
 
 2.3. a tagállamban kiadott – a 2003/59/EK európai parlamenti és tanácsi irányelv II. mellékletében meghatározott mintájú – „Gépjárművezetői képesítési igazolvány”-nyal;
 
-2.4.[^32] a tagállamban kiadott nemzeti bizonyítvánnyal.
+2.4.[^30] a tagállamban kiadott nemzeti bizonyítvánnyal.
 
 3. A nem tagállam állampolgára, akit egy tagállami székhellyel rendelkező vállalkozás alkalmaz vagy foglalkoztat és díj ellenében végzett közúti árutovábbításra használt járművet vezet, az 1. pontban meghatározott képesítés megszerzését igazolhatja „Járművezetői igazolvány”-nyal, amelyen a 95. sz. közösségi kód van feltüntetve.
 
@@ -40,5 +40,5 @@
 
 5.7. amellyel csak a járművet vezető munkája során használandó anyagot vagy felszerelést szállítanak és a jármű vezetése nem tartozik a gépkocsivezető elsődleges feladatához.
 
-[^31]: A 2. melléklet 2. pont 2.1. alpontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (13) bekezdésével megállapított szöveg.
-[^32]: A 2. melléklet 2. pont 2.4. alpontját a 228/2012. (VIII. 23.) Korm. rendelet 6. § (13) bekezdése iktatta be.
+[^29]: A 2. melléklet 2. pont 2.1. alpontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (13) bekezdésével megállapított szöveg.
+[^30]: A 2. melléklet 2. pont 2.4. alpontját a 228/2012. (VIII. 23.) Korm. rendelet 6. § (13) bekezdése iktatta be.
