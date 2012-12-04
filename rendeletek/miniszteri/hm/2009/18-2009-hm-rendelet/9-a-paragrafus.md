@@ -14,4 +14,9 @@ b) az R3. 33. §-a szerinti saját számlás menetlevélre,
 
 c) az R3. 24. § (1) bekezdése szerinti jármű-tömegbizonylatra,
 
+## vonatkozó követelményeket nem kell alkalmazni.
+
+(3)[^9] A honvédségi teherjárművek tekintetében az R3. 3. § (1) bekezdés b) pontja és 29. §-a szerinti közúti áruszállítási igazolványra vonatkozó követelményeket nem kell alkalmazni.
+
 [^8]: A 9/A. §-t a 22/2012. (XI. 13.) HM rendelet 2. §-a iktatta be.
+[^9]: A 9/A. § (3) bekezdését a 22/2012. (XI. 13.) HM rendelet 3. §-a iktatta be.
