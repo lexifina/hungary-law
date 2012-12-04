@@ -26,11 +26,11 @@
 
 ## Határidő: 2013. január 15.
 
-1. melléklet az 1409/2012. (IX. 28.) Korm. határozathoz
-
-X. Közigazgatási és Igazságügyi Minisztérium
+1. melléklet az 1409/2012. (IX. 28.) Korm. határozathoz[^1]
 
 XI. Miniszterelnökség
+
+X. Közigazgatási és Igazságügyi Minisztérium
 
 ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
 
@@ -38,62 +38,82 @@ a Kormány hatáskörében
 
 Költségvetési év: 2012.
 
-Millió forintban, egy tizedessel
+| Millió forintban, egy tizedessel |
 
-| ÁHT egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+| ÁHT | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. |  |  | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
 
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. | K I A D Á S O K |  |  |  |  |  |  |  |  | (+/-) | következő |
 
-|  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
 
-|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
 
-|  |  |  | 4 |  |  |  |  |  |  | Határon túli magyarok programjainak támogatása |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
 
-| 228895 |  |  |  | 3 |  |  |  |  |  |  | Nemzetpolitikai tevékenység támogatása |  |  |  |  |  |  |  |  |  |  |  |
+|  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 145,0 |  |  |
+|  |  |  | 4 |  |  |  |  |  |  | Határon túli magyarok programjainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | XI. |  |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 228895 |  |  |  | 3 |  |  |  |  |  |  | Nemzetpolitikai tevékenység támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 297102 |  | 3 |  |  |  |  |  |  | Rendkívüli kormányzati intézkedések |  |  |  |  |  |  |  |  |  |  | -145,0 |  |  |
+|  |  |  |  |  |  | 2 |  |  |  |  |  |  | Felhalmozási-költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Egyéb intézményi felhalmozási kiadások |  |  |  |  |  |  |  |  | 145,0 |  |  |  |
 
-Millió forintban, egy tizedessel
+|  | XI. |  |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| ÁHT egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+| 297102 |  | 3 |  |  |  |  |  |  | Rendkívüli kormányzati intézkedések |  |  |  |  |  |  |  |  |  |  |  | -145,0 |  |  |  |
 
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |
+| Millió forintban, egy tizedessel |
 
-Millió forintban, egy tizedessel
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | B E V É T E L | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
 
-| ÁHT egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | (+/-) | következő |
 
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
 
-|  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
 
-|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
 
-|  |  |  | 4 |  |  |  |  |  |  | Határon túli magyarok programjainak támogatása |  |  |  |  |  |  |  |  |  |  |  |
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 228895 |  |  |  | 3 |  |  |  |  |  |  | Nemzetpolitikai tevékenység támogatása |  |  |  |  |  |  |  |  | 145,0 |  |  |
+| Millió forintban, egy tizedessel |
 
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | T Á M O G A T Á S | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
 
-| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | (+/-) | következő |
 
-| Fejezet | 1 példány |  |  | időarányos |  |  |  |  |  |  |
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
 
-| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
 
-| Magyar Államkincstár | 1 példány |  |  | egyéb: azonnal | 145,0 |  |  |  | 145,0 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
 
-| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |
+|  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 4 |  |  |  |  |  |  | Határon túli magyarok programjainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 228895 |  |  |  | 3 |  |  |  |  |  |  | Nemzetpolitikai tevékenység támogatása |  |  |  |  |  |  |  |  | 145,0 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnal |  |  | 145,0 |  |  |  |  |  |  |  |  |  |  | 145,0 |  |
+
+| Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni."
+
+[^1]: Az 1. melléklet az 1549/2012. (XII. 4.) Korm. határozat 4. pontjával megállapított szöveg.
