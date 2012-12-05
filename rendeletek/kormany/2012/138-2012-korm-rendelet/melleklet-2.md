@@ -132,6 +132,22 @@
 
 | 56. |  | foglalkoztató |
 
+| 57. |  | szociális munkás |
+
+| 58. |  | szociális szervező |
+
+| 59. |  | szociális ügyintéző |
+
+| 60. |  | szociális gondozó |
+
+| 61. |  | közegészségügyi és járványügyi felügyelő, okleveles népegészségügyi szakember |
+
+| 62. |  | közegészségügyi járványügyi ellenőr |
+
+| 63. |  | közegészségügyi felügyelő*,** |
+
+| 64. |  | vezető közegészségügyi felügyelő* |
+
 | III. Az Eütev. 11/A. § (6) bekezdése szerinti, felsőfokú végzettséggel betölthető munkakörök: |
 
 | 1. |  | főgyógyszerész* |
@@ -182,4 +198,6 @@
 
 ## ** = a Kjt. vhr. 17. §-ában említett fegyveres szerveknél foglalkoztatott közalkalmazottakra irányadó munkakör
 
-2. melléklet a 138/2012. (VI. 29.) Korm. rendelethez
+2. melléklet a 138/2012. (VI. 29.) Korm. rendelethez[^5]
+
+[^5]: A 2. melléklet a 338/2012. (XII. 4.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.

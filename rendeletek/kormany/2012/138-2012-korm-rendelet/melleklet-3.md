@@ -466,4 +466,30 @@
 
 | 232. | Zsigmondy Vilmos Harkányi Gyógyfürdőkórház Nonprofit Kft. | Harkány |
 
+| 233. | MEDI-AMB Nonprofit Közhasznú Kft. | Ibrány |
+
+| 234. | Országos Környezetegészségügyi Intézet | Budapest |
+
+| 235. | Országos Epidemiológiai Központ | Budapest |
+
+| 236. | Magyar Légimentő Nonprofit Kft. | Budaörs |
+
+| 237. | Szegedi Kistérségi Többcélú Társulás Egyesített Szociális Intézmény, Dr. Farkasinszky Terézia Ifjúsági Drogcentrum | Szeged |
+
+| 238. | Békés Megyei Körös-menti Szociális Centrum | Szarvas |
+
+| 239. | Magyar Pünkösdi Egyház Hajnalcsillag Rehabilitációs Otthon | Dunaharaszti |
+
+| 240. | Gazdasági-Műszaki Ellátó és Szolgáltató Szervezet | Szabadszállás |
+
+| 241. | Dr. Kostyán Andor Rendelőintézet | Abony |
+
+| 242. | Központi Stomatológiai Intézet | Budapest |
+
+| 243. | Bischitz Johanna Integrált Humán Szolgáltató | Budapest |
+
+| 244. | Budapest X. kerület Kőbányai Egészségügyi Szolgálat | Budapest |
+
+| 245. | Egészségügyi Alapellátási Igazgatóság | Nyíregyháza |
+
 3. melléklet a 138/2012. (VI. 29.) Korm. rendelethez
