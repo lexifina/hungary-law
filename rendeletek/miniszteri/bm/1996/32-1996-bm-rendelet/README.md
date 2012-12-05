@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-32-20-0
 | 2009-01-01 | 1996-32-20-0A.4 | 32/1996. (XII. 22.) BM rendelet |
 | 2011-01-01 | 1996-32-20-0A.5 | 9/2004. (III. 31.) BM rendelet |
 | 2012-02-29 | 1996-32-20-0A.6 | 6/2012. (II. 21.) KIM rendelet |
+| 2012-12-05 | 1996-32-20-0A.7 | 50/2012. (XII. 4.) KIM rendelet |
