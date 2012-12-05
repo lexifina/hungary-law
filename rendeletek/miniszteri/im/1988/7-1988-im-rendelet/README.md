@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1988-7-20-06
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-04-30 | 1988-7-20-06.4 | 7/1988. (VIII. 1.) IM rendelet |
+| 2012-12-05 | 1988-7-20-06.5 | 8/2008. (IV. 22.) IRM rendelet |
