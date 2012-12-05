@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1966-4-20-06
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 1966-4-20-06.5 | 4/1966. (VI. 15.) IM rendelet |
+| 2012-12-05 | 1966-4-20-06.6 | 8/2008. (IV. 22.) IRM rendelet |
