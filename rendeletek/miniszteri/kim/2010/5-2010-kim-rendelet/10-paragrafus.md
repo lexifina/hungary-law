@@ -14,4 +14,6 @@ c) felügyeli az informatikai rendszer használatát, megteszi a szükséges int
 
 d) tájékoztatja a HVI-ket a szavazólap elkészülte után a szavazólap adattartalmában bekövetkező változásokról.
 
-(2) A TVI a választási informatikai feladatokat a Kormány általános hatáskörű államigazgatási szervének közreműködésével látja el.
+(2)[^1] A TVI a választási informatikai feladatokat a fővárosi és megyei kormányhivatal közreműködésével látja el.
+
+[^1]: A 10. § (2) bekezdése az 50/2012. (XII. 4.) KIM rendelet 27. § (2) bekezdés b) pontja szerint módosított szöveg.

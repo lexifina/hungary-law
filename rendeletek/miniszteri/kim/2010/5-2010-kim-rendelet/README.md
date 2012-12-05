@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-5-20-2T
 | --- | --- | --- |
 | 2010-07-24 | 2010-5-20-2T.1 | 5/2010. (VII. 16.) KIM rendelet |
 | 2010-08-19 | 2010-5-20-2T.2 | 8/2010. (VIII. 18.) KIM rendelet |
+| 2012-12-05 | 2010-5-20-2T.3 | 50/2012. (XII. 4.) KIM rendelet |
