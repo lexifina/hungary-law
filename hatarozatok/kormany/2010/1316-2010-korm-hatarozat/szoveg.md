@@ -294,13 +294,15 @@ Határidő: 2011.június 15.[^38]
 
 9.6. a nemzeti fejlesztési minisztert
 
-9.6.1. a Magyar–Koreai Műszaki Együttműködési Központ Alapítvány,
+9.6.1.[^41]
 
 9.6.2. a Magyar Vállalkozásfejlesztési Alapítvány és
 
 9.6.3. a Puskás Tivadar Közalapítvány,
 
-9.7.[^41]
+9.7.[^42] a nemzetgazdasági minisztert
+
+9.7.1.[^43] a Magyar–Koreai Műszaki Együttműködési Központ Alapítvány,
 
 9.8. a vidékfejlesztési minisztert
 
@@ -430,4 +432,6 @@ Határidő: 2011. február 28.
 [^38]: Az 1169/2011. (V. 26.) Korm. határozat 5. pontjával megállapított szöveg.
 [^39]: A 9. pont 9.5. alpontja az 1459/2012. (X. 19.) Korm. határozat 3. pontjával megállapított szöveg.
 [^40]: A 9. pont 9.5.8. alpontját az 1035/2011. (III. 3.) Korm. határozat 9. pontja iktatta be.
-[^41]: A 9.7. pontot az 1362/2011. (XI. 8.) Korm. határozat 8. pont a) alpontja hatályon kívül helyezte.
+[^41]: A 9.6. pont 9.6.1. alpontját az 1538/2012. (XII. 4.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^42]: A 9.7. pontot az 1362/2011. (XI. 8.) Korm. határozat 8. pont a) alpontja hatályon kívül helyezte, újonnan az 1538/2012. (XII. 4.) Korm. határozat 1. pontja iktatta be.
+[^43]: A 9.7. pont 9.7.1. alpontját az 1538/2012. (XII. 4.) Korm. határozat 1. pontja iktatta be.
