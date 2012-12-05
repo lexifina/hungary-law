@@ -36,7 +36,7 @@
 
 ## A szolgáltató által az elfogadóhelyek rendelkezésére bocsátott, a fizetőkártya-elfogadói szolgáltatás logóit, matricáit az elfogadóhelynek feltűnő, a kártyabirtokosok által jól látható módon kell elhelyezni, különös tekintettel arra az esetre, ha a kártyával történő fizetés nem minden munkaállomásnál biztosított.
 
-4. számú melléklet az 58/1999. (XII. 30.) BM rendelethez[^11]
+4. számú melléklet az 58/1999. (XII. 30.) BM rendelethez[^12]
 
 A központi bianco okmány ellátás rendje
 
@@ -180,4 +180,4 @@ Az okmányok selejtezését az Okmányiroda vezetőjének engedélyével lehet m
 
 Az okmányokat biztonságos körülmények között, típusonként elkülönítve, tűzvédelmi szempontokból is megfelelő helyen kell tárolni.
 
-[^11]: A 4. számú melléklet a 38/2003. (VIII. 14.) BM rendelet 3. §-ával megállapított szöveg.
+[^12]: A 4. számú melléklet a 38/2003. (VIII. 14.) BM rendelet 3. §-ával megállapított szöveg.

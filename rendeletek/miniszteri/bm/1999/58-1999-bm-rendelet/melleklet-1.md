@@ -1,6 +1,6 @@
 ## 7. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-1. számú melléklet az 58/1999. (XII. 30.) BM rendelethez[^6]
+1. számú melléklet az 58/1999. (XII. 30.) BM rendelethez[^7]
 
 ## Az okmányirodákból elérhető nyilvántartási rendszerekhez kapcsolódó hozzáférési jogosultság szabályai
 
@@ -54,4 +54,4 @@ A Hivatal a felhasználói kártya pótlását 5 munkanapon belül biztosítja.
 
 4.4. A jogosult a kártyát az 1. pont szerinti hozzáférési jogosultság megszűnésekor, illetve új kártya kibocsátása esetén köteles leadni a jegyzőnek, aki az átvételt írásban igazolja, és a 3.3. pontban foglaltak szerint jár el.
 
-[^6]: Az 1. számú melléklet a 38/2003. (VIII. 14.) BM rendelet 3. §-ával megállapított, a 8/2007. (III. 6.) IRM rendelet 2. § (4) bekezdése, a 66/2009. (XII. 17.) IRM rendelet 14. §-a szerint módosított szöveg.
+[^7]: Az 1. számú melléklet a 38/2003. (VIII. 14.) BM rendelet 3. §-ával megállapított, a 8/2007. (III. 6.) IRM rendelet 2. § (4) bekezdése, a 66/2009. (XII. 17.) IRM rendelet 14. §-a szerint módosított szöveg.
