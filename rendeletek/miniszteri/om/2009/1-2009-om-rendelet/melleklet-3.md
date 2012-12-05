@@ -70,7 +70,7 @@
 
 |  | átlagbér [a Ve. 21. §-ának (4) bekezdése szerinti kiadás]: |  |  |
 
-| 2.6. | Az Önkormányzati Minisztérium részére visszautalandó összeg: | L–F |
+| 2.6. | Az Közigazgatási és Igazságügyi Minisztérium részére visszautalandó összeg: | L–F |
 
 |  | Ebből: személyi juttatások: |  |  |
 
@@ -108,4 +108,6 @@
 
 |  | 1 példányt az Országos Választási Iroda vezetője |
 
-3. melléklet az 1/2009. (I. 10.) ÖM rendelethez
+3. melléklet az 1/2009. (I. 10.) ÖM rendelethez[^12]
+
+[^12]: A 3. melléklet az 50/2012. (XII. 4.) KIM rendelet 23. § c) és d) pontja szerint módosított szöveg.

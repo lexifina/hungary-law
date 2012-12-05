@@ -1,4 +1,4 @@
-1. § (1) A helyi választási iroda (a továbbiakban: HVI), az országgyűlési egyéni választókerületi választási iroda (OEVI) és a területi választási iroda (a továbbiakban: TVI), továbbá a regionális államigazgatási hivatal vezetője választási feladatai tekintetében
+1. § (1)[^1] A helyi választási iroda (a továbbiakban: HVI), az országgyűlési egyéni választókerületi választási iroda (OEVI) és a területi választási iroda (a továbbiakban: TVI), továbbá a fővárosi és megyei kormányhivatal főigazgatója választási feladatai tekintetében
 
 a) felelős a választás pénzügyi tervezéséért, lebonyolításáért, elszámolásáért,
 
@@ -9,3 +9,5 @@ c) gyakorolja a választás pénzeszközei feletti kötelezettségvállalási é
 d) gondoskodik a választás céljára szolgáló pénzeszközöknek az elkülönített számviteli kezeléséről.
 
 (2) A külügyminiszter által kijelölt szerv vezetője a külképviseleti szavazás tekintetében külön megállapodás alapján felelős a választás pénzügyi tervezéséért, lebonyolításáért, elszámolásáért, a pénzeszközök célhoz kötött felhasználásáért.
+
+[^1]: Az 1. § (1) bekezdés nyitó szövegrésze az 50/2012. (XII. 4.) KIM rendelet 23. § a) pontja szerint módosított szöveg.

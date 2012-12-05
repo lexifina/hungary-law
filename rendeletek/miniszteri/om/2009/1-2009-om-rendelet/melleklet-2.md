@@ -114,7 +114,7 @@
 
 | 3.01. | 3 | Munkaadókat terhelő járulékok, hatályos jogszabályok szerint |  |  |
 
-|  | 4 | A REGIONÁLIS ÁLLAMIGAZGATÁSI HIVATALOK KIADÁSAI |  |  |
+|  | 4 | A FŐVÁROSI ÉS MEGYEI KORMÁNYHIVATALOK KIADÁSAI |  |  |
 
 | 1. | 4 | Dologi kiadások |  |  |
 
@@ -124,4 +124,6 @@
 
 | 1.43. | 4 | Telekommunikáció | 40 000 |  |
 
-2. melléklet az 1/2009. (I. 10.) ÖM rendelethez
+2. melléklet az 1/2009. (I. 10.) ÖM rendelethez[^11]
+
+[^11]: A 2. melléklet az 50/2012. (XII. 4.) KIM rendelet 23. § c) pontja szerint módosított szöveg.

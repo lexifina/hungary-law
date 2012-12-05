@@ -1,6 +1,6 @@
 ## Feladattípusú elszámolás munkalapjának adattartalma TVI,
 
-## illetve regionális államigazgatási hivatal
+## illetve fővárosi és megyei kormányhivatal
 
 |  | Főváros, megye: |  |  |
 
@@ -68,7 +68,7 @@
 
 |  | átlagbér [a Ve. 21. §-ának (4) bekezdése szerinti kiadás]: |  |  |
 
-| 2.6. | Az Önkormányzati Minisztérium részére visszautalandó összeg: |  | L–F |
+| 2.6. | Az Közigazgatási és Igazságügyi Minisztérium részére visszautalandó összeg: |  | L–F |
 
 |  | Ebből: személyi juttatások: |  |  |
 
@@ -80,7 +80,7 @@
 
 ## Feladattípusú elszámolás többletköltség/feladatelmaradás részletezése munkalapjának adattartalma
 
-## TVI, illetve regionális államigazgatási hivatal
+## TVI, illetve fővárosi és megyei kormányhivatal
 
 | Főváros, megye: Összeg Ft |
 
@@ -96,13 +96,13 @@
 
 ## aláírás
 
-| Ha a regionális államigazgatási hivatal tölti ki: | Ha a területi választási iroda tölti ki: |
+| Ha a fővárosi és megyei kormányhivatal tölti ki: | Ha a területi választási iroda tölti ki: |
 
 | Készült: | 3 példányban | Készült: | 2 példányban |
 
-| Kapja: | 1 példányt a regionális államigazgatási hivatal vezetője 1 példányt TVI vezetője 1 példányt az Országos Választási Iroda vezetője | Kapja: | 1 példányt a területi választási iroda vezetője 1 példányt az Országos Választási Iroda vezetője |
+| Kapja: | 1 példányt a fővárosi és megyei kormányhivatal vezetője 1 példányt TVI vezetője 1 példányt az Országos Választási Iroda vezetője | Kapja: | 1 példányt a területi választási iroda vezetője 1 példányt az Országos Választási Iroda vezetője |
 
-4. melléklet az 1/2009. (I. 10.) ÖM rendelethez
+4. melléklet az 1/2009. (I. 10.) ÖM rendelethez[^13]
 
 Feladattípusú elszámolás munkalapjának adattartalma Fővárosi/megyei összesítő
 
@@ -172,7 +172,7 @@ Feladattípusú elszámolás munkalapjának adattartalma Fővárosi/megyei össz
 
 |  | átlagbér [a Ve. 21. §-ának (4) bekezdése szerinti kiadás]: |  |  |
 
-| 2.6. | Az Önkormányzati Minisztérium részére visszautalandó összeg: | L–F |
+| 2.6. | Az Közigazgatási és Igazságügyi Minisztérium részére visszautalandó összeg: | L–F |
 
 |  | Ebből: személyi juttatások: |  |  |
 
@@ -205,3 +205,5 @@ aláírás
 | Kapja: | 1 példányt a területi választási iroda vezetője |
 
 |  | 1 példányt az Országos Választási Iroda vezetője |
+
+[^13]: A 4. melléklet az 50/2012. (XII. 4.) KIM rendelet 23. § c) pontja szerint módosított szöveg.
