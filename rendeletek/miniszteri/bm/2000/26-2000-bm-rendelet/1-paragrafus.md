@@ -26,7 +26,7 @@ j) a jelenlévők által az átadáshoz feltétlenül szükségesnek tartott egy
 
 k) tájékoztatást a folyamatban lévő peres ügyekről;
 
-l)[^1] az átadó polgármester, az átvevő polgármester, a jegyző és a közigazgatási hivatal vezetője aláírását, ahol az átadásban a Pttv. 13. § (4) bekezdésében meghatározott más személy az átvevő, annak aláírását.
+l)[^2] az átadó polgármester, az átvevő polgármester, a jegyző és a fővárosi és megyei kormányhivatalt vezető kormánymegbízott aláírását, ahol az átadásban a Pttv. 13. § (4) bekezdésében meghatározott más személy az átvevő, annak aláírását.
 
 (2) A jegyzőkönyv elkészítésével egyidejűleg át kell tekinteni a következő dokumentumokat:
 
@@ -40,4 +40,4 @@ d) a polgármester által aláírt szerződéseket, kötelezettségvállalásoka
 
 Az aktuális adatokat a jegyzőkönyvben rögzíteni kell. Amennyiben az adatok mennyisége ezt indokolja, külön mellékletként csatolható a jegyzőkönyvhöz.
 
-[^1]: Az 1. § (1) bekezdésének l) pontja a 15/2007. (VI. 26.) ÖTM rendelet 7. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés l) pontja az 50/2012. (XII. 4.) KIM rendelet 11. § a) pontja szerint módosított szöveg.
