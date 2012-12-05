@@ -1,12 +1,6 @@
 ## 1. megállapítja – az Új Széchenyi Terv környezetfejlesztési céljainak megvalósítása érdekében – az 1. melléket szerint a Környezet és Energia Operatív Program 2011–2013. közötti időszakra szóló akciótervét,
 
-## 2. visszavonja
-
-## a) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterv 1., 2., 3., 5., 6., 7., 8. prioritásainak megállapításáról szóló 1175/2012. (VI. 1.) Korm. határozatot,
-
-## b) a Környezet és Energia Operatív Program 2011–13-as akciótervének 2. prioritása keretében a vízminőség javítást szolgáló konstrukciók javára történő forrásátcsoportosításról szóló 1237/2012. (VII. 12.) Korm. határozatot,
-
-## c) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterv 4., 5. és 8. prioritásának megállapításáról, valamint a 4. és az 5. prioritásban meghirdethető pályázati felhívásoknak az előkészítéséről szóló 1331/2012. (IX. 7.) Korm. határozatot.
+## 2.[^1]
 
 1. melléklet az 1551/2012. (XII. 4.) Korm. határozathoz
 
@@ -433,3 +427,5 @@ A 2.1.1, 2.1.2., 2.2.2, 2.2.2/B, 2.2.3, 2.3.0, 2.3.0/B, 2.4.0, 2.4.0/B és 2.5.0
 | 8.1.2. | Az OP lebonyolításával kapcsolatos specifikus feladatok ellátása | 0,002 | 0,732 | 0,000 | Az OP lebonyolításával kapcsolatos specifikus feladatok ellátása | NFM | _ |  |  |  |
 
 | 8. | Prioritás | 3,02 | 0,93 | 3,00 |  |  |  |  |  |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
