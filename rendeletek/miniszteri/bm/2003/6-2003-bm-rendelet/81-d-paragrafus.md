@@ -6,9 +6,9 @@
 
 (4)[^168] A külföldi fél házassági nevét a rendelkezésre álló külföldi okirat alapján kell a hazai anyakönyvbe bejegyezni. Ha a házassági anyakönyv házassági nevet nem tartalmaz, a „Házassági név” rovatot a házassági anyakönyvi kivonaton ki kell húzni.
 
-(5)[^169] Ha a hazai anyakönyvezés során nem állapítható meg, hogy a külföldön megkötött házasság vagy bejegyzett élettársi kapcsolat létrejött vagy érvényes, a hazai anyakönyvezést végző hatóság az Igazságügyi és Rendészeti Minisztérium nyilatkozatát kéri.
+(5)[^169] Ha a hazai anyakönyvezés során nem állapítható meg, hogy a külföldön megkötött házasság vagy bejegyzett élettársi kapcsolat létrejött vagy érvényes, a hazai anyakönyvezést végző hatóság a Közigazgatási és Igazságügyi Minisztérium nyilatkozatát kéri.
 
 [^166]: A 81/D. §-t a 10/2007. (III. 6.) IRM rendelet 18. §-a iktatta be, e módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő anyakönyvi eljárásokban is alkalmazni kell.
 [^167]: A 81/D. § (1) bekezdése a 14/2009. (VI. 3.) IRM rendelet 36. § (1) bekezdésével megállapított szöveg.
 [^168]: A 81/D. § (4) bekezdése a 14/2009. (VI. 3.) IRM rendelet 36. § (2) bekezdésével megállapított szöveg.
-[^169]: A 81/D. § (5) bekezdését a 14/2009. (VI. 3.) IRM rendelet 36. § (3) bekezdése iktatta be.
+[^169]: A 81/D. § (5) bekezdését a 14/2009. (VI. 3.) IRM rendelet 36. § (3) bekezdése iktatta be, szövege az 50/2012. (XII. 4.) KIM rendelet 15. § c) pontja szerint módosított szöveg.

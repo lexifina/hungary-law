@@ -12,7 +12,7 @@ c)[^16] közreműködhet – igény szerint – a családi események társadalm
 
 (2)[^17] Községben egy, városban, megyei jogú városban és a fővárosi kerületben legalább két anyakönyvvezetőt kell megbízni az anyakönyvvezetői feladatok ellátásával.
 
-(3)[^18] Ha a településen az anyakönyvi igazgatási feladatok az anyakönyvvezető akadályoztatása miatt nem láthatóak el, a jegyző kérésére a helyettesítésről a Kormány felügyeletet ellátó általános hatáskörű területi államigazgatási szerve az illetékességi területéhez tartozó települési önkormányzatok polgármesteri hivatalainak anyakönyvvezetői közül történő kijelöléssel gondoskodik. A helyettesítés eseti vagy legfeljebb tizenkét hónap időtartamra szól, amely egy ízben legfeljebb három hónappal meghosszabbítható. Az anyakönyvi bejegyzést a helyettesítő anyakönyvvezető e minőségének feltüntetésével írja alá.
+(3)[^18] Ha a településen az anyakönyvi igazgatási feladatok az anyakönyvvezető akadályoztatása miatt nem láthatóak el, a jegyző kérésére a helyettesítésről a fővárosi és megyei kormányhivatal az illetékességi területéhez tartozó települési önkormányzatok polgármesteri hivatalainak anyakönyvvezetői közül történő kijelöléssel gondoskodik. A helyettesítés eseti vagy legfeljebb tizenkét hónap időtartamra szól, amely egy ízben legfeljebb három hónappal meghosszabbítható. Az anyakönyvi bejegyzést a helyettesítő anyakönyvvezető e minőségének feltüntetésével írja alá.
 
 (4) A helyettesítő anyakönyvvezető kijelölésére vonatkozó kérelemnek tartalmaznia kell:
 
@@ -33,5 +33,5 @@ d) a helyettesítő anyakönyvvezető munkáltatójának hozzájárulását.
 [^15]: A 7. § (1) bekezdés a) pontja a 14/2009. (VI. 3.) IRM rendelet 46. § 3. pontja szerint módosított szöveg.
 [^16]: A 7. § (1) bekezdés c) pontja a 14/2009. (VI. 3.) IRM rendelet 46. § 4. pontja szerint módosított szöveg.
 [^17]: A 7. § (2) bekezdése a 10/2007. (III. 6.) IRM rendelet 25. § (3) bekezdésének b) pontja szerint módosított szöveg.
-[^18]: A 7. § (3) bekezdése a 10/2007. (III. 6.) IRM rendelet 3. §-ával megállapított, valamint a 36/2008. (XII. 31.) IRM rendelet 1. §-ának 1. pontja, a 14/2009. (VI. 3.) IRM rendelet 46. § 5. pontja szerint módosított szöveg.
+[^18]: A 7. § (3) bekezdése a 10/2007. (III. 6.) IRM rendelet 3. §-ával megállapított, a 14/2009. (VI. 3.) IRM rendelet 46. § 5. pontja, az 50/2012. (XII. 4.) KIM rendelet 15. § a) pontja szerint módosított szöveg.
 [^19]: A 7. § (6) bekezdése a 41/2011. (XII. 30.) KIM rendelet 30. § a) bekezdése szerint módosított szöveg.

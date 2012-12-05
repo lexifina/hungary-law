@@ -6,7 +6,7 @@
 
 (4)[^196] Helyettesítő anyakönyvvezető kijelölése esetén a Kormány általános hatáskörű területi államigazgatási szervének a vezetője gondoskodik a helyettesítő anyakönyvvezetőnek az ASZA-rendszer használatához szükséges hozzáférési jogosultság, valamint a 7. § (4) bekezdése esetén az anyakönyvek és egyéb anyakönyvi okiratok biztosításáról.
 
-(5)[^197] Az ASZA-rendszer működtetéséhez szükséges, 5. számú melléklet szerinti számítástechnikai eszközöket a Központi Hivatal bocsátja az anyakönyvvezetők és a Kormány általános hatáskörű területi államigazgatási szerve rendelkezésére.
+(5)[^197] Az ASZA-rendszer működtetéséhez szükséges, 5. számú melléklet szerinti számítástechnikai eszközöket a Központi Hivatal bocsátja az anyakönyvvezetők és a fővárosi és megyei kormányhivatal rendelkezésére.
 
 (6)[^198] Az ASZA-rendszert a Központi Hivatal működteti.
 
@@ -14,6 +14,6 @@
 [^193]: A 89/A. § (1) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 35. pontja szerint módosított szöveg.
 [^194]: A 89/A. § (2) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 35. pontja szerint módosított szöveg.
 [^195]: A 89/A. § (3) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 35. pontja szerint módosított szöveg.
-[^196]: A 89/A. § (4) bekezdése a 36/2008. (XII. 31.) IRM rendelet 1. §-ának 1. pontja, a 14/2009. (VI. 3.) IRM rendelet 46. § 35. pontja szerint módosított szöveg.
-[^197]: A 89/A. § (5) bekezdése a 10/2007. (III. 6.) IRM rendelet 25. § (2) bekezdésének f) pontja, a 36/2008. (XII. 31.) IRM rendelet 1. §-ának 1. pontja, a 14/2009. (VI. 3.) IRM rendelet 46. § 35. pontja szerint módosított szöveg.
+[^196]: A 89/A. § (4) bekezdése a 36/2008. (XII. 31.) IRM rendelet 1. §-ának 1. pontja, a 14/2009. (VI. 3.) IRM rendelet 46. § 35. pontja szerint módosított szöveg. [A 89/A. § (4) bekezdésének az 50/2012. (XII. 4.) KIM rendelet 15. § j) pontjával elrendelt módosítása, amely szerint a „Kormány általános hatáskörű területi államigazgatási szervének vezetője” szövegrész helyébe a „fővárosi és megyei kormányhivatalt vezető kormánymegbízott” szöveg lép, nem vezethető át.]
+[^197]: A 89/A. § (5) bekezdése a 10/2007. (III. 6.) IRM rendelet 25. § (2) bekezdésének f) pontja, a 14/2009. (VI. 3.) IRM rendelet 46. § 35. pontja, az 50/2012. (XII. 4.) KIM rendelet 15. § i) pontja szerint módosított szöveg.
 [^198]: A 89/A. § (6) bekezdése a 14/2009. (VI. 3.) IRM rendelet 46. § 35. pontja szerint módosított szöveg.
