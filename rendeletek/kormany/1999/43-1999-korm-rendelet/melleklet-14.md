@@ -1,4 +1,4 @@
-14. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^491]
+14. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^492]
 
 „ADATLAP kórházi (osztályos) ápolási esetről
 
@@ -450,18 +450,4 @@ B. daganatellenes terápiás kezelés protokoll alapján, gyógyszerkészítmén
 
 C. magyar biztosítással rendelkező beteg részére orvosbiológiai kutatás során vagy a kutatás során fellépett szövődmény miatt szükséges akut beavatkozás
 
-D. magyar biztosítással rendelkező beteg részére orvosbiológiai kutatás során vagy a kutatás során fellépett szövődmény miatt szükséges, választott időpontban végzett beavatkozás
-
-V. választott időpontban végzett beavatkozás
-
-Nosocomiális környezet (N)
-
-0. nem értelmezhető
-
-A. aszeptikus környezet
-
-C. szeptikus környezet
-
-Sebgyógyulás (S)
-
-[^491]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^492]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a szerint módosított szöveg.

@@ -72,6 +72,6 @@
 
 | * Kitöltése minden esetben kötelező. Adatai: a jelenlegi ellátást indokló diagnózis miatti utolsó korházi kezelésre vonatkoznak. **Kitöltése a 4-es és 11-es tevékenységi kör esetén kötelező. |
 
-10. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^487]
+10. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^488]
 
-[^487]: A 10. számú melléklet a 15/2005. (I. 26.) Korm. rendelet 16. §-ának (3) bekezdésével megállapított szöveg.
+[^488]: A 10. számú melléklet a 15/2005. (I. 26.) Korm. rendelet 16. §-ának (3) bekezdésével megállapított szöveg.
