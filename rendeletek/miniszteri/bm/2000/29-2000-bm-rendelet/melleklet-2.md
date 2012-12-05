@@ -4,7 +4,7 @@
 
 ## 1. A HVI vezetője településen (fővárosi kerületben), illetve a település népszavazással érintett részén belül (a továbbiakban együtt: település) szavazókörönként elkészíti vagy elkészítteti a névjegyzéket, valamint a névjegyzékbe való felvételről szóló értesítőket.
 
-## 2. A névjegyzék elkészítéséhez a HVI vezetője a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervtől adatot igényel a választójoggal nem rendelkező nagykorú polgárok nyilvántartásából, amelynek alapján a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv összeállítja a választójoggal nem rendelkező nagykorú polgárok jegyzékét, és azt – a HVI vezetőjének választása szerint – közvetlenül vagy a Kormány általános hatáskörű területi államigazgatási szerve útján megküldi a HVI részére.
+## 2. A névjegyzék elkészítéséhez a HVI vezetője a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervtől adatot igényel a választójoggal nem rendelkező nagykorú polgárok nyilvántartásából, amelynek alapján a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv összeállítja a választójoggal nem rendelkező nagykorú polgárok jegyzékét, és azt – a HVI vezetőjének választása szerint – közvetlenül vagy a fővárosi és megyei kormányhivatal útján megküldi a HVI részére.
 
 ## 3. A HVI vezetője a névjegyzéket papíron vezeti tovább, vagy annak továbbvezetéséhez számítógépet használhat.
 
