@@ -26,7 +26,7 @@ h) a technikai háttér megteremtésével segítséget nyújtanak a szavazatok �
 
 (5) Az informatikai feladatokat a KEKKH informatikai irányításával kell végrehajtani.
 
-(6)[^2] A helyi választási iroda (a továbbiakban: HVI) vezetője dönt arról, hogy helyben, másik HVI, a Kormány általános hatáskörű területi államigazgatási szerve vagy a KEKKH közreműködésével állítja elő a névjegyzéket.
+(6)[^2] A helyi választási iroda (a továbbiakban: HVI) vezetője dönt arról, hogy helyben, másik HVI, a fővárosi és megyei kormányhivatal vagy a KEKKH közreműködésével állítja elő a névjegyzéket.
 
 (7) A HVI számítógépet használ
 
@@ -81,4 +81,4 @@ j) az érvényes szavazatokból az IGEN szavazatok száma, és
 k) az érvényes szavazatokból a NEM szavazatok száma.
 
 [^1]: Az 1. § (4) bekezdése a 17/2008. (XII. 31.) ÖM rendelet 1. §-ának 11. pontja szerint módosított szöveg.
-[^2]: Az 1. § (6) bekezdése a 17/2008. (XII. 31.) ÖM rendelet 1. §-ának 11. pontja szerint módosított szöveg.
+[^2]: Az 1. § (6) bekezdése az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés a) pontja szerint módosított szöveg.
