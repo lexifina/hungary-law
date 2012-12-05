@@ -1,4 +1,4 @@
-7. § (1)[^2] A szóbeli vizsgát háromtagú bizottság előtt kell letenni, amelynek elnökét az anyakönyvi ügyekért felelős miniszter, tagjait a Kormány vizsgát szervező általános hatáskörű területi államigazgatási szervének (a továbbiakban: szervező) a vezetője jelöli ki.
+7. § (1)[^2] A szóbeli vizsgát háromtagú bizottság előtt kell letenni, amelynek elnökét az anyakönyvi ügyekért felelős miniszter, tagjait a fővárosi és megyei kormányhivatalnak (a továbbiakban: szervező) a vezetője jelöli ki.
 
 (2) A vizsgabizottság elnöke és tagja nem lehet
 
@@ -14,5 +14,5 @@ c) az, akitől a jelölt elfogulatlan vizsgáztatása nem várható.
 
 (5) A vizsga eredményéről a vizsgabizottság az írásbeli és a szóbeli vizsga együttes értékelése alapján dönt.
 
-[^2]: A 7. § (1) bekezdése a 36/2008. (XII. 31.) IRM rendelet 1. §-ának 5. pontja szerint módosított szöveg.
+[^2]: A 7. § (1) bekezdése az 50/2012. (XII. 4.) KIM rendelet 21. § b) pontja szerint módosított szöveg.
 [^3]: A 7. § (4) bekezdése a 36/2008. (XII. 31.) IRM rendelet 1. §-ának 5. pontja szerint módosított szöveg.

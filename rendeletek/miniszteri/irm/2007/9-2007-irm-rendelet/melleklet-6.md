@@ -12,7 +12,7 @@ Iktatószám:
 
 JEGYZŐKÖNYV
 
-1. Készült a .................... Regionális Államigazgatási Hivatalban 200... év ........... hó ..... napján a 9/2007. (III. 6.) IRM rendeletben szabályozott anyakönyvi szakvizsgáról.
+1. Készült a .................... Fővárosi/Megyei Kormányhivatalban 200... év ........... hó ..... napján a 9/2007. (III. 6.) IRM rendeletben szabályozott anyakönyvi szakvizsgáról.
 
 2. A polgármester/köztisztviselő
 
@@ -52,4 +52,4 @@ vizsgabizottság elnöke
 
 | vizsgabizottság tagja | vizsgabizottság tagja |
 
-[^7]: A 6. melléklet a 36/2008. (XII. 31.) IRM rendelet 1. §-ának 5. pontja szerint módosított szöveg.
+[^7]: A 6. melléklet az 50/2012. (XII. 4.) KIM rendelet 21. § d) pontja szerint módosított szöveg.

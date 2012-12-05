@@ -33,4 +33,4 @@
 4. melléklet a 9/2007. (III. 6.) IRM rendelethez[^6]
 
 [^5]: A 3. melléklet 1. pontja a 14/2009. (VI. 3.) IRM rendelet 44. § (4) bekezdése szerint módosított szöveg.
-[^6]: A 4. számú melléklet a 41/2011. (XII. 30.) KIM rendelet 31. §-a szerint módosított szöveg.
+[^6]: A 4. melléklet az 50/2012. (XII. 4.) KIM rendelet 21. § d) pontja szerint módosított szöveg.
