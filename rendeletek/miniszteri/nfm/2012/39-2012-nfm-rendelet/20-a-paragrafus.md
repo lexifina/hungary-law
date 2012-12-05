@@ -1,0 +1,1 @@
+## 20. § A „TEN-T projektek” előirányzat vonatkozásában az „IRIS Europe II” és az „IRIS Europe III” TEN-T projekt megvalósításában a Rádiós Segélyhívó és Infokommunikációs Országos Egyesület megvalósító szervezetként vesz részt, és ellátja a miniszterrel kötött támogatási szerződésben meghatározott feladatokat.

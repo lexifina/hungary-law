@@ -12,8 +12,12 @@ d) a Molnár utca járda és úttest rekonstrukciója,
 
 e) a támogatott projektterületen belüli, de a támogatott projekt részét nem képező fejlesztési elemek,
 
-f) a támogatott projektterületen kívüli kapcsolódó kivitelezési munkák költségei.
+f) a támogatott projektterületen kívüli kapcsolódó kivitelezési munkák költségei,
+
+g)[^3] Pilvax-köz (Petőfi Sándor utca–Városház utca között) alatt húzódó pincefödém és szigetelés-útburkolat megerősítése, helyreállítása.
 
 (2) Ha a kiemelt projektre vonatkozó támogatási szerződés megkötésre kerül, az előirányzat felhasználására Belváros-Lipótváros Budapest Főváros V. kerület Önkormányzatával, mint kedvezményezettel az (1) bekezdésben meghatározott feladatok ellátására kötött támogatási szerződés alapján, vissza nem térítendő támogatás formájában a kedvezményezett részére történő kifizetéssel kerül sor. Egyéb esetben az előirányzatból támogatás nem biztosítható.
 
 (3) A támogatásból előleg folyósítható.
+
+[^3]: A 13. § (1) bekezdés g) pontját a 63/2012. (XII. 4.) NFM rendelet 3. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 15. Energia Központ Nonprofit Kft. támogatása
 
-36. § (1) Az előirányzat célja vissza nem térítendő támogatás nyújtása az Energia Központ Energiahatékonysági, Környezetvédelmi és Energia Információs Ügynökség Nonprofit Korlátolt Felelősségű Társaságnak (a továbbiakban: Energia Központ Nonprofit Kft.) a (2) bekezdésben meghatározott feladatai ellátására.
+36. § (1)[^9] Az előirányzat célja vissza nem térítendő támogatás nyújtása az Nemzeti Környezetvédelmi és Energia Központ Nonprofit Korlátolt Felelősségű Társaságnak (a továbbiakban: Energia Központ Nonprofit Kft.) a (2) bekezdésben meghatározott feladatai ellátására.
 
 (2) A támogatási szerződés alapján a támogatás az alábbi tevékenységeket finanszírozhatja:
 
@@ -17,3 +17,5 @@ e) nonprofit alapú tájékoztatási tevékenységet;
 f) az Energia Központ Nonprofit Kft. honlapjának és adatbázisának folyamatos frissítését.
 
 (3) A miniszter a támogatás felhasználásáról az Energia Központ Nonprofit Kft.-vel támogatási szerződésben állapodik meg. A támogatás rendelkezésre bocsátására a kedvezményezett részére történő kifizetéssel kerül sor. A kedvezményezett részére nyújtott támogatás előfinanszírozás keretében utólagos elszámolással folyósítható.
+
+[^9]: A 36. § (1) bekezdése a 63/2012. (XII. 4.) NFM rendelet 7. §-a szerint módosított szöveg.
