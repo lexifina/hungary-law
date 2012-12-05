@@ -16,6 +16,6 @@ e) tájékoztatja a HVI-ket a szavazólap elkészülte után bekövetkező vált
 
 f) az illetékességi területéhez tartozó HVI-k tevékenységének irányításához, illetőleg feladataik végrehajtásának ellenőrzéséhez az illetékes OEVI vezetőjének közreműködését igénybe veheti.
 
-(2)[^4] A TVI a választási informatikai feladatokat a Kormány általános hatáskörű államigazgatási szervének közreműködésével látja el.
+(2)[^4] A TVI a választási informatikai feladatokat a fővárosi és megyei kormányhivatal közreműködésével látja el.
 
-[^4]: A 16. § (2) bekezdése a 6/2010. (VII. 21.) KIM rendelet 6. §-a szerint módosított szöveg.
+[^4]: A 16. § (2) bekezdése az 50/2012. (XII. 4.) KIM rendelet 25. § c) pontja szerint módosított szöveg.
