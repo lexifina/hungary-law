@@ -2,8 +2,11 @@
 
 (2) Az engedélyezés után a gyámhatóság a külföldi hitelező által adott meghatalmazás alapján a hitelező érdekeinek képviseletére eseti gondnokot rendel ki. Az eseti gondnok a hitelező képviseletében a tartásdíj megállapítása iránt az illetékes helyi bírósághoz keresetet nyújt be.
 
-(3) Ha a külföldről érkezett iratokat a Szociális és Családügyi Minisztérium fordíttatta le [8. § (4) bekezdés], az eseti gondnoknak a keresetben kérnie kell, hogy a helyi bíróság a belföldi adóst perveszteség esetén kötelezze arra, hogy a fordítás költségeit a Szociális és Családügyi Minisztériumnak térítse meg.
+(3)[^20] Ha a külföldről érkezett iratokat az Emberi Erőforrások Minisztériuma fordíttatta le [8. § (4) bekezdés], az eseti gondnoknak a keresetben kérnie kell, hogy a helyi bíróság a belföldi adóst perveszteség esetén kötelezze arra, hogy a fordítás költségeit az Emberi Erőforrások Minisztériumának térítse meg.
 
 (4) Ha a vonatkozó külön jogszabályok értelmében közvetlen letiltásnak, illetőleg felhívásnak helye van, a munkáltató köteles a megítélt tartásdíjat a külföldi hitelező nevének, pontos lakcímének és a Magyar Nemzeti Bank engedélye számának feltüntetésével átutalás végett a Magyar Külkereskedelmi Bank Rt. 218-98907. számú számlájára befizetni.
 
-(5) A helyi bíróság a jogerős vagy előzetesen végrehajtható határozat kiadmányát a külföldi áttevő hatósághoz való továbbítás céljából a Szociális és Családügyi Minisztériumnak megküldi.
+(5)[^21] A helyi bíróság a jogerős vagy előzetesen végrehajtható határozat kiadmányát a külföldi áttevő hatósághoz való továbbítás céljából az Emberi Erőforrások Minisztériumának megküldi.
+
+[^20]: A 12. § (3) bekezdése az 50/2012. (XII. 4.) KIM rendelet 1. § b) pontja és i) pontja szerint módosított szöveg.
+[^21]: A 12. § (5) bekezdése az 50/2012. (XII. 4.) KIM rendelet 1. § i) pontja szerint módosított szöveg.
