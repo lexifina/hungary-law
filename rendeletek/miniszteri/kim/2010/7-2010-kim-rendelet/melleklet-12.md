@@ -118,11 +118,11 @@
 
 ## 1 példányt a Miniszter
 
-12. melléklet a 7/2010. (VII. 21.) KIM rendelethez
+12. melléklet a 7/2010. (VII. 21.) KIM rendelethez[^12]
 
 A választásokra biztosított pénzügyi fedezet kiemelt előirányzatonkénti elszámolása
 
-| KEKKH | a Kormány általános hatáskörű államigazgatási szerve, egyéb KIM szervek, egyéb az államháztartási tv. hatálya alá tartozó szervek | Egyéb az Áht. hatálya alá nem tartozó szervek |
+| KEKKH | a fővárosi és megyei kormányhivatal, egyéb KIM szervek, egyéb az államháztartási tv. hatálya alá tartozó szervek | Egyéb az Áht. hatálya alá nem tartozó szervek |
 
 |  | Kiadás | Bevétel | Kiadás | Bevétel | Kiadás |
 
@@ -139,3 +139,5 @@ A választásokra biztosított pénzügyi fedezet kiemelt előirányzatonkénti 
 |  | Kiadás | Bevétel | Kiadás | Bevétel | Kiadás |
 
 | HVI-k támogatása | Támogatásértékű működési kiadás helyi önkormány- zatoknak és költségvetési szerveinek | Továbbadási (lebonyolítási) célú működési bevétel központi költségvetési szervtől | Központi költségvetési szervtől kapott továbbadási (lebonyolítási) célú működési kiadás | Támogatásértékű működési bevétel központi költségvetési szervtől | Tényleges felhasználásnak megfelelően |
+
+[^12]: A 12. melléklet az 50/2012. (XII. 4.) KIM rendelet 28. § b) pontja szerint módosított szöveg.

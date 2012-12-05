@@ -4,7 +4,7 @@
 
 ## Feladattípusú elszámolás munkalapja
 
-## Összesítő, a Kormány általános hatáskörű államigazgatási szerve
+## Összesítő, a fővárosi és megyei kormányhivatal
 
 |  | Régió: |  |  |
 
@@ -92,7 +92,7 @@
 
 ## Feladattípusú elszámolás többletköltség/feladatelmaradás részletezése
 
-## Összesítő, a Kormány általános hatáskörű államigazgatási szerve
+## Összesítő, a fővárosi és megyei kormányhivatal
 
 | Régió: Összeg Ft |
 
@@ -112,7 +112,7 @@
 
 ## Készült: 2 példányban
 
-## Kapja: 1 példányt a Kormány általános hatáskörű államigazgatási szervének vezetője
+## Kapja: 1 példányt a fővárosi és megyei kormányhivatal főigazgatója
 
 ## 1 példányt a KEKKH elnöke
 

@@ -130,23 +130,23 @@
 
 | 3.01.03. | Munkaadókat terhelő járulékok, hatályos jogszabályok szerint, megyénél. |  |
 
-| KORMÁNY ÁLTALÁNOS HATÁSKÖRŰ ÁLLAMIGAZGATÁSI SZERVÉNEK KIADÁSAI |
+| FŐVÁROSI ÉS MEGYEI KORMÁNYHIVATAL KIADÁSAI |
 
 | 1. Dologi kiadások |
 
-| 1.41. | Kormány általános hatáskörű államigazgatási szerve dologi kiadásainak biztosítása. |  |
+| 1.41. | Fővárosi és megyei kormányhivatal dologi kiadásainak biztosítása. |  |
 
-| 1.41.02. | Kormány általános hatáskörű államigazgatási szervének dologi kiadásai megyénként, illetve főváros. Dologi kiadások a választási eljárás 3 hónapjára. A választás informatikai rendszereivel kapcsolatos feladatok ellátása, rendszer- és felhasználói programok telepítése, tesztelése, oktatása, részvétel az országos próbák, főpróbák megtartásán. Kiszállások, sokszorosítás, szállítás, helyi és területi PC Hotline. | 500 000 |
+| 1.41.02. | Fővárosi és megyei kormányhivatal dologi kiadásai megyénként, illetve főváros. Dologi kiadások a választási eljárás 3 hónapjára. A választás informatikai rendszereivel kapcsolatos feladatok ellátása, rendszer- és felhasználói programok telepítése, tesztelése, oktatása, részvétel az országos próbák, főpróbák megtartásán. Kiszállások, sokszorosítás, szállítás, helyi és területi PC Hotline. | 500 000 |
 
 | 2. Személyi juttatások |
 
-| 2.41. | Megbízási szerződések a Kormány általános hatáskörű államigazgatási szervének kapacitás kiegészítésére, megyénként, illetve főváros. | 600 000 |
+| 2.41. | Megbízási szerződések a fővárosi és megyei kormányhivatal kapacitás kiegészítésére, megyénként, illetve főváros. | 600 000 |
 
-| 2.42. | Kormány általános hatáskörű államigazgatási szerve vezetőinek díja, megyénként, illetve főváros. | 150 000 |
+| 2.42. | Fővárosi és megyei kormányhivatal főigazgatójának díja, megyénként, illetve főváros. | 150 000 |
 
 | 3. Munkaadókat terhelő járulékok |
 
-| 3.01.04. | Munkaadókat terhelő járulékok, hatályos jogszabályok szerint, a Kormány általános hatáskörű államigazgatási szervénél. |  |
+| 3.01.04. | Munkaadókat terhelő járulékok, hatályos jogszabályok szerint, a fővárosi és megyei kormányhivatalnál. |  |
 
 | KÖZPONTI KIADÁSOK |
 

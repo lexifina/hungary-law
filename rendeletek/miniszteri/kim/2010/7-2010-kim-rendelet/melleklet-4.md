@@ -48,6 +48,6 @@
 
 | 3.01.03. | Munkaadókat terhelő járulékok megyénél, hatályos jogszabályok szerint. |  |
 
-4. melléklet a 7/2010. (VII. 21.) KIM rendelethez[^1]
+4. melléklet a 7/2010. (VII. 21.) KIM rendelethez[^9]
 
-[^1]: A 4. melléklet a 28/2011. (IX. 14.) KIM rendelet 4. §-a szerint módosított szöveg.
+[^9]: A 4. melléklet a 28/2011. (IX. 14.) KIM rendelet 4. §-a szerint módosított szöveg.

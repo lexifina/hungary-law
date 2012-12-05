@@ -116,4 +116,6 @@
 
 ## 1 példányt a KEKKH elnöke
 
-8. melléklet a 7/2010. (VII. 21.) KIM rendelethez
+8. melléklet a 7/2010. (VII. 21.) KIM rendelethez[^10]
+
+[^10]: A 8. melléklet az 50/2012. (XII. 4.) KIM rendelet 28. § b) és f) pontja szerint módosított szöveg.

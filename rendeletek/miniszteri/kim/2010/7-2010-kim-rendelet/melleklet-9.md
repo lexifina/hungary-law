@@ -4,9 +4,9 @@
 
 ## Feladattípusú elszámolás munkalapja
 
-## Kormány általános hatáskörű államigazgatási szerve
+## Fővárosi és megyei kormányhivatal
 
-|  | Kormány általános hatáskörű államigazgatási szerve |
+|  | fővárosi és megyei kormányhivatal |
 
 | 1. | Tájékoztató adatok |
 
@@ -92,9 +92,9 @@
 
 ## Feladattípusú elszámolás többletköltség/feladatelmaradás részletezése
 
-## Kormány általános hatáskörű államigazgatási szerve
+## Fővárosi és megyei kormányhivatal
 
-| Kormány általános hatáskörű államigazgatási szerve: Összeg Ft |
+| Fővárosi és megyei kormányhivatal: Összeg Ft |
 
 | Jogcím | Személyi juttatások | Munkaadói járulék | Dologi kiadások | Átlagbér | Összesen |
 
@@ -112,6 +112,8 @@
 
 ## Készült: 2 példányban
 
-## Kapja:  1 példányt a Kormány általános hatáskörű államigazgatási szervének vezetője
+## Kapja:  1 példányt a fővárosi és megyei kormányhivatal főigazgatója
 
-9. melléklet a 7/2010. (VII. 21.) KIM rendelethez
+9. melléklet a 7/2010. (VII. 21.) KIM rendelethez[^11]
+
+[^11]: A 9. melléklet az 50/2012. (XII. 4.) KIM rendelet 28. § b) és f) pontja szerint módosított szöveg.
