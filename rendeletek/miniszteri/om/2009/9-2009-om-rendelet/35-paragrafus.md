@@ -1,4 +1,4 @@
-## 33–34. §[^17]
+## 33–34. §[^18]
 
 35. § (1) A sportszakmai elismerések adományozását
 
@@ -14,4 +14,4 @@ a) akivel szemben a tárgyévben sportfegyelmi büntetést szabtak ki, amennyibe
 
 b) aki doppingvétségért kiszabott eltiltás hatálya alatt áll.
 
-[^17]: A 33–34. §-t a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^18]: A 33–34. §-t a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.

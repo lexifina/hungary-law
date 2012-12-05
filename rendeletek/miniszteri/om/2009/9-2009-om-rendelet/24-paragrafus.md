@@ -1,4 +1,4 @@
-## 23. §[^13]
+## 23. §[^14]
 
 ## III. Fejezet
 
@@ -6,4 +6,4 @@
 
 ## Általános rendelkezések
 
-[^13]: A 23. §-t a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^14]: A 23. §-t a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.

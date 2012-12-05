@@ -1,4 +1,4 @@
-## 31. §[^16]
+## 31. §[^17]
 
 32. § (1) A 12. §-ban meghatározott jutalom adományozásánál:
 
@@ -18,4 +18,4 @@ c) akinek a korábbi foglalkoztatási jogviszonya nyugállományba helyezéssel 
 
 (3) Nyugállományba helyezés esetén, amennyiben a 12. § szerinti jutalom az azt követő egy éven belül esedékes lenne, annak kifizetéséről a jogviszony megszűnésekor intézkedni kell.
 
-[^16]: A 31. §-t a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^17]: A 31. §-t a 37/2012. (VIII. 2.) BM rendelet 61. § (1) bekezdés b) pontja hatályon kívül helyezte.
