@@ -1,0 +1,1 @@
+## 1. § A belügyminiszter irányítása alá tartozó, és a belügyminiszter felügyelete alá tartozó szerv által irányított, komplex szakmai vizsga szervezésére kijelölt intézmények felsorolását az 1. melléklet tartalmazza.
