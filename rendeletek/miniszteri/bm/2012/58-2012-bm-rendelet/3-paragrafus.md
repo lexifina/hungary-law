@@ -4,8 +4,9 @@
 
 (2) A (4) bekezdés 2013. január 1-jén lép hatályba.
 
-(3) Hatályát veszti az önkormányzati miniszter hatáskörébe tartozó szakképesítések megszerzésére irányuló szakmai vizsga szervezésére feljogosított intézményekről szóló 7/2008. (X. 8.) ÖM rendelet.
+(3)[^1]
 
-(4)[^1]
+(4)[^2]
 
-[^1]: A 3. § (4) bekezdése ugyanezen § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^1]: A 3. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. § (4) bekezdése ugyanezen § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
