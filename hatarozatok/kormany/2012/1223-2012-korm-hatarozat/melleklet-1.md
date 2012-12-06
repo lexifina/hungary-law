@@ -2,17 +2,9 @@
 
 ## Felelős: nemzetgazdasági miniszter
 
-## Határidő: átcsoportosításra: azonnal
+## Határidő: átcsoportosításra azonnal
 
-## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2012. november 30.;
-
-## a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím,
-
-## 24. Sportlétesítmények fejlesztése és kezelése alcím, 11. Sportlétesítmények fejlesztése és fenntartása jogcímcsoport, 2. Állami, önkormányzati és egyéb sportlétesítmények fejlesztése jogcím, 1. Működési költségvetés előirányzat-csoporton belül 369,6 millió forint,
-
-## a X. Közigazgatási és Igazságügyi Minisztérium fejezet, 1. Közigazgatási és Igazságügyi Minisztérium igazgatása cím, és a X. Közigazgatási és Igazságügyi Minisztérium fejezet,
-
-## 20. fejezeti kezelésű előirányzatok cím, 2. Célelőirányzatok alcím, 27. Nemzetközi kötelezettségek teljesítése jogcímcsoport tekintetében: 2013. június 30.
+## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2012. november 30.; a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 11. Sportlétesítmények fejlesztése és fenntartása jogcímcsoport, 2. Állami, önkormányzati és egyéb sportlétesítmények fejlesztése jogcím, 1. Működési költségvetés előirányzat-csoporton belül 369,6 millió forint tekintetében 2013. június 30.; a XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím, 1. Működési költségvetés előirányzat-csoport tekintetében: 2013. április 30.; a XI. Miniszterelnökség fejezet, 2. Fejezeti kezelésű előirányzatok cím, 10. A kommunizmus áldozatai emlékmúzeumának létrehozásához való hozzájárulás alcím tekintetében: 2013. január 31.; a X. Közigazgatási és Igazságügyi Minisztérium fejezet tekintetében 2013. június 30.
 
 ## 2. A Kormány az Áht. 33. § (1) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 152. § (5) bekezdésében biztosított jogkörében a 2011. évi kötelezettségvállalással nem terhelt maradványból 20,0 millió forintnak a Kvtv. 1. melléklet XIX. Uniós Fejlesztések fejezet részére történő felhasználást engedélyezi és a 2. melléklet szerinti átcsoportosítást rendeli el.
 
@@ -30,6 +22,6 @@
 
 1. melléklet az 1223/2012. (VII. 3.) Korm. határozathoz[^3]
 
-[^1]: Az 1. pont az 1549/2012. (XII. 4.) Korm. határozat 3. pontjával megállapított szöveg.
+[^1]: Az 1. pont az 1561/2012. (XII. 6.) Korm. határozat 3. pontjával megállapított szöveg.
 [^2]: A 3-4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: Az 1. melléklet az 1549/2012. (XII. 4.) Korm. határozat 5. pontjával megállapított szöveg.
