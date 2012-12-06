@@ -1610,7 +1610,7 @@
 
 | 802. | 31 622 01 0010 31 04 | Zöldségtermesztő | 1,3776 |
 
-2. melléklet a 280/2011. (XII. 20.) Korm rendelethez[^3]
+2. melléklet a 280/2011. (XII. 20.) Korm rendelethez[^5]
 
 A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó államilag elismert szakképesítések súlyszorzói
 
@@ -2454,4 +2454,4 @@ A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó
 
 | 417. | 3158206 | Zsaluzóács | 1,5028 |
 
-[^3]: A 2. mellékletet a 240/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^5]: A 2. mellékletet a 240/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
