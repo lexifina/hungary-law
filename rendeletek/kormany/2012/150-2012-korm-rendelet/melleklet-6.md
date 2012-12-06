@@ -38,6 +38,6 @@
 
 | 18 | 54 212 09 | Táncos (szakmairány megjelölésével) |
 
-6. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^3]
+6. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^6]
 
-[^3]: A 6. melléklet a 9. § (2) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
+[^6]: A 6. melléklet a 9. § (2) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
