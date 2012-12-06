@@ -1,4 +1,4 @@
-| 1. A 2012/2013. TANÉV KÖZOKTATÁSI KÖZISMERETI TANKÖNYVEINEK LEGMAGASABB FOGYASZTÓI ÁRA |
+| 1. A 2013/2014. TANÉV KÖZOKTATÁSI KÖZISMERETI TANKÖNYVEINEK LEGMAGASABB FOGYASZTÓI ÁRA |
 
 | A A tankönyv típusa | B Nyomása, gyártása | C Terjedelme (A/5) | D Az árak ÁFÁ-val együtt értendők |
 
@@ -48,6 +48,6 @@
 
 | 8.2 multimédia | 8.2.1 darabonként | 7 750 Ft |
 
-2. melléklet a 13/2010. (XI. 25.) NEFMI rendelethez[^4]
+2. melléklet a 13/2010. (XI. 25.) NEFMI rendelethez[^6]
 
-[^4]: A 2. melléklet az 59/2011. (X. 25.) NEFMI rendelet 1. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet a 46/2012. (XII. 5.) EMMI rendelet 1. §-a szerint módosított szöveg.

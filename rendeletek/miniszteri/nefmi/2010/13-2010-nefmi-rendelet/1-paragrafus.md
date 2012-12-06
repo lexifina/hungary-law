@@ -2,8 +2,9 @@
 
 (2) A tanulók által több évig használt tankönyvek, illetve a több évfolyam tananyagát egyben tartalmazó tankönyvek, valamint a speciális tantervű iskolák, osztályok számára készített tankönyvek ára legfeljebb húsz százalékkal meghaladhatja az 1. mellékletben szereplő, kategóriánként meghatározott árat.
 
-(3) A nyelvkönyvek ára legfeljebb húsz százalékkal meghaladhatja az 1. mellékletben szereplő, kategóriánként meghatározott árat.
+(3)[^1]
 
-(4)[^1]
+(4)[^2]
 
-[^1]: Az 1. § (4) bekezdését az 59/2011. (X. 25.) NEFMI rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^1]: Az 1. § (3) bekezdését a 46/2012. (XII. 5.) EMMI rendelet 3. §-a hatályon kívül helyezte.
+[^2]: Az 1. § (4) bekezdését az 59/2011. (X. 25.) NEFMI rendelet 3. § (2) bekezdése hatályon kívül helyezte.

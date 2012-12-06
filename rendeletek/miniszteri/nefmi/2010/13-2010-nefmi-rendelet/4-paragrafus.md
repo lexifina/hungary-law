@@ -4,6 +4,8 @@
 
 (2) A tanulók által több évig használt tankönyvek, illetve a több évfolyam tananyagát egyben tartalmazó tankönyvek ára legfeljebb húsz százalékkal meghaladhatja a 4. mellékletben szereplő, kategóriánként meghatározott árat.
 
-(3) Az (1) bekezdésben meghatározott példányszámban előállított szakmai nyelvkönyvek ára legfeljebb harminc százalékkal meghaladhatja a 4. mellékletben szereplő, kategóriánként meghatározott árat.
+(3)[^3]
 
 (4) Az (1)–(3) bekezdésben nem szabályozott esetekben a szakképzési szakmai tankönyvek tekintetében a közoktatási közismereti tankönyvekre meghatározott legmagasabb fogyasztói ár az irányadó.
+
+[^3]: A 4. § (3) bekezdését a 46/2012. (XII. 5.) EMMI rendelet 3. §-a hatályon kívül helyezte.
