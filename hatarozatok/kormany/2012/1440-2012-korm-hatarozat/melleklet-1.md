@@ -18,7 +18,7 @@
 
 ## Határidő: 2012. november 30.
 
-## 3. felhívja a nemzeti fejlesztési minisztert, hogy a 2. pontban megjelölt forrást a Magyar Nemzeti Vagyonkezelő Zrt. útján biztosítsa a MÁV Zrt. részére, a MÁV Zrt., a MÁV-START Zrt., a MÁV-GÉPÉSZET Zrt., valamint a MÁV-TRAKCIO Zrt. minden olyan vasúti dolgozójának egyenlő mértékű pénzügyi ösztönzésére (járulékaival, közterheivel együtt számítva), akik 2007. december 31. napjától a kifizetés napjáig a fenti munkáltatók valamelyikével folyamatos munkaviszonyban álltak, kivéve azokat, akik az érintett társaságoknál működtetett prémiumrendszer hatálya alá tartoznak.
+## 3.[^1] felhívja a nemzeti fejlesztési minisztert, hogy a 2. pontban megjelölt forrást a Magyar Nemzeti Vagyonkezelő Zrt. útján biztosítsa a MÁV Zrt. részére, a MÁV Zrt., a MÁV-START Zrt., a MÁV-GÉPÉSZET Zrt., a MÁV-TRAKCIÓ Zrt., minden olyan vasúti dolgozójának, továbbá a GYSEV Zrt.-hez a 2011. évben az előzőekben felsorolt munkáltatóktól munkajogi jogutódlással átkerült minden olyan vasúti dolgozónak egyenlő mértékű pénzügyi ösztönzésére (járulékaival, közterheivel együtt számítva), akik 2007. december 31. napjától az előzőekben felsorolt munkáltatók valamelyikével a kifizetés napjáig folyamatos munkaviszonyban álltak, kivéve azokat, akik az érintett társaságoknál működtetett prémiumrendszer hatálya alá tartoznak.”
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -65,3 +65,5 @@ Költségvetési év: 2012.
 | Magyar Államkincstár | 1 példány |  | egyéb: AZONNAL | 2 000,0 |  |  |  |  |  |  |  |  |  |  |  | 2 000,0 |
 
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3. pont az 1560/2012. (XII. 6.) Korm. határozattal megállapított szöveg.
