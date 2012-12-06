@@ -10,7 +10,7 @@ előirányzatainak év közbeni megváltoztatására.
 
 (2) Az Országgyűlés magának tartja fenn a jogot
 
-a) az I–VI., a VIII., a XXX., a XXXIII. és a XXXIV. fejezetek kiadási és bevételi előirányzatai főösszegének,
+a) az I–VI., a VIII., a XXX., a XXXIII. és a XXXIV. fejezet kiadási és bevételi előirányzatai főösszegének,
 
 b) a Közigazgatási és Igazságügyi Minisztérium fejezet, 20. cím
 
@@ -24,4 +24,4 @@ c) a Közigazgatási és Igazságügyi Minisztérium fejezet, 26. Települési �
 
 csökkentésére,
 
-kivéve az államháztartásról szóló törvényben meghatározott az élet- és vagyonbiztonságot veszélyeztető elemi csapás, vagy ennek következményei elhárítása céljából hozott kormányzati intézkedéseket, valamint a fejezetet irányító szervek vezetőinek a fejezetek között együttesen kezdeményezett előirányzat-átcsoportosítását.
+kivéve az államháztartásról szóló törvényben meghatározott, az élet- és vagyonbiztonságot veszélyeztető elemi csapás, vagy ennek következményei elhárítása céljából hozott kormányzati intézkedéseket, a fejezetet irányító szervek vezetőinek a fejezetek között együttesen kezdeményezett előirányzat-átcsoportosítását, valamint a 27. § (23) bekezdése szerint kezdeményezextt előirányzat-átcsoportosítást.

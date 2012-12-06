@@ -1,4 +1,4 @@
-75. § (1) Az Országgyűlés felhatalmazza az Országgyűlés fejezetet irányitó szerv vezetőjét, hogy kötelezettséget vállaljon az Országház épülete előtti felszín alatti parkoló építésére, látogatóközpont kialakítására, és a Kossuth tér történelmi rekonstrukciójának megvalósítására 2014. évi befejezéssel.
+75. § (1) A Kossuth tér rekonstrukciójának megvalósítására az Országgyűlés fejezetet irányító szerv vezetője kötelezettséget vállalhat a beruházás 2014. évben történő befejezésével.
 
 (2) Az Országgyűlés felhatalmazza a Kormányt, hogy a budapesti Kossuth Lajos tér teljes rekonstrukciója megvalósítása érdekében szükséges forrásokat folyamatosan, a megvalósítás ütemében biztosítsa.
 

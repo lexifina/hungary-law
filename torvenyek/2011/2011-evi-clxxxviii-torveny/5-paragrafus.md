@@ -1,6 +1,6 @@
 ## 3. Az állam vagyonával kapcsolatos rendelkezések
 
-5. § (1) A 2012. évben a Magyar Nemzeti Vagyonkezelő Zrt. hitelfelvételre, értékpapír-kibocsátásra és kezességvállalásra nem jogosult.
+5. § (1) A Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) hitelfelvételre és kezességvállalásra nem jogosult. Az MNV Zrt. – az Államadósság Kezelő Központ Zrt. (a továbbiakban: ÁKK Zrt.) törvényben meghatározott feladatkörét nem érintve – az államháztartásért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter erre vonatkozó, 2012. évben kiadott engedélye alapján jogosult az állam képviseletében eljárni olyan hitelviszonyt megtestesítő értékpapír kibocsátása során, amelynek kibocsátója az állam és amely az állam tulajdonában levő pénzügyi eszközhöz kapcsolódik.
 
 (2) A 2012. évben Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet terhére történő, 1000,0 millió forint összeget elérő mértékű kötelezettségvállalásokat és – a központi alrendszer likviditási helyzetére figyelemmel – a kifizetések ütemezését az állami vagyon felügyeletéért felelős miniszter a rábízott vagyon vagyonkezelési tervének keretében hagyja jóvá.
 

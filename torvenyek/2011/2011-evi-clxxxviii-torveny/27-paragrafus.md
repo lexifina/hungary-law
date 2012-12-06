@@ -42,7 +42,7 @@ alakulását, továbbá javaslatot tesz a (10) bekezdés szerinti kiadási elői
 
 (17) Az Országgyűlés felhatalmazza a Kormányt, hogy a 2011. december 31-én megyei önkormányzati fenntartásban volt intézményeket érintő támogatások 2012. évi üteme alapján a Helyi önkormányzatok támogatásai és helyben maradó személyi jövedelemadója fejezet, 8. Címzett és céltámogatások cím és 9. Vis maior támogatás cím terhére átcsoportosítást hajtson végre a Közigazgatási és Igazságügyi Minisztérium fejezet, 8. cím, 2. Megyei intézményfenntartó szervek, átvett intézmények alcím és az Emberi Erőforrások Minisztériuma fejezet, 10. cím, 2. Gyógyító-megelőző ellátás intézetei alcím javára.
 
-(18) Az Országgyűlés felhatalmazza az Országgyűlés fejezetet irányító szerv vezetőjét, hogy az Országgyűlés fejezet, 4. cím 9. Országház épülete előtti felszín alatti parkoló építése alcím, a 10. Látogatóközpont kialakítása alcím, továbbá a 11. A Kossuth tér történelmi rekonstrukciója alcím terhére átcsoportosítást hajtson végre az 1. Országgyűlés Hivatala cím javára.
+(18) Az Országgyűlés fejezetet irányító szerv vezetője, az Országgyűlés fejezet, 4. cím, 11. A Kossuth tér rekonstrukciója alcím terhére átcsoportosítást hajthat végre az Országgyűlés fejezet 1. Országgyűlés Hivatala cím, 1. Országgyűlés hivatali szervei alcím javára.
 
 (19) Felhatalmazást kap a Kormány, hogy a Kutatási és Technológiai Innovációs Alap fejezet terhére a 2012. évben a Közigazgatási és Igazságügyi fejezet, 1. Közigazgatási és Igazságügyi Minisztérium igazgatása cím részére a Nemzeti Kutatási, Innovációs és Tudománypolitikai Tanács működésének finanszírozására 30 millió Ft-ot csoportosítson át.
 
@@ -65,3 +65,5 @@ használható fel.
 (21) Az Országgyűlés felhatalmazza a Kormányt, hogy átcsoportosítást hajtson végre a Közigazgatási és Igazságügyi Minisztérium fejezet, 24. Céltartalékok cím, 4. Munkáltatók adórendszer átalakítása miatti támogatása alcímről a Költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 1. Nemzeti Foglalkoztatási Alap támogatása alcím kiadási előirányzatra.
 
 (22) A Kormány a 2012. április 30-án települési önkormányzati fenntartásban lévő fekvőbeteg-szakellátó intézményeket érintő céltámogatások 2012. évi üteme alapján a Helyi önkormányzatok támogatásai és helyben maradó személyi jövedelemadója fejezet, 8. Címzett és céltámogatások címről az Emberi Erőforrások Minisztériuma fejezet, 10. cím, 2. Gyógyító-megelőző ellátás intézetei alcímre átcsoportosíthat.
+
+(23) A Kormány a 26. § (2) bekezdés b) pont ba) alpontjában meghatározott előirányzatok közül a X. Közigazgatási és Igazságügyi Minisztérium fejezet 20. cím, 5. alcím 3. Egyházi alapintézmény-működés, SZJA rendelkezés és kiegészítése jogcímcsoport terhére a fel nem használt előirányzat erejéig átcsoportosíthat.

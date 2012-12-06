@@ -110,6 +110,8 @@ Nemzetközi elszámolások kiadásai (36. cím)
 
 Hozzájárulás az EU költségvetéséhez (37. cím)
 
+Támogatás az önkormányzati adósságok törlesztéséhez (38. cím)
+
 Követeléskezelés költségei (41. cím)
 
 Központi Nukleáris Pénzügyi Alap támogatása (42. cím, 3. alcím)

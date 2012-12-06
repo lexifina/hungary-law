@@ -6,7 +6,7 @@
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala 460,0 millió forintot köteles befizetni a bevételeiből a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
 
-(4) A fővárosi, megyei kormányhivatalok (fővárosi, megyei kormányhivatalok földhivatala) 5837,4 millió forintot kötelesek befizetni a bevételeikből a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
+(4) A fővárosi és megyei kormányhivatal ingatlanügyi szakigazgatási szerve 5837,4 millió forintot köteles befizetni a bevételeikből a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
 
 (5) A Földmérési és Távérzékelési Intézet 94,1 millió forintot köteles befizetni a bevételeiből a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
 

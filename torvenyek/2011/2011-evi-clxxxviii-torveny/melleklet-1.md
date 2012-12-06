@@ -794,13 +794,13 @@ Országház épülete előtti felszín alatti parkoló építése
 
 |
 
-530,0
+0,0
 
 |
 
 |
 
-530,0
+0,0
 
 |
 
@@ -822,13 +822,13 @@ Látogatóközpont kialakítása
 
 |
 
-845,0
+0,0
 
 |
 
 |
 
-845,0
+0,0
 
 |
 
@@ -846,17 +846,17 @@ Látogatóközpont kialakítása
 
 |
 
-A Kossuth tér történelmi rekonstrukciója
+A Kossuth tér rekonstrukciója
 
 |
 
-1 025,0
+2 400,0
 
 |
 
 |
 
-1 025,0
+2 400,0
 
 |
 
@@ -52278,6 +52278,32 @@ Hollandia és Svédország számára teljesítendő bruttó GNI csökkentés
 
 |
 
+38.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Támogatás az önkormányzati adósságok törlesztéséhez
+
+|
+
+95 700,00
+
+|
+
+|
+
+|
+
 41
 
 |
@@ -52448,7 +52474,7 @@ XLII. fejezet összesen:
 
 |
 
-1 294 661,2
+1 390 361,2
 
 |
 
@@ -61940,7 +61966,7 @@ K I A D Á S I F Ő Ö S S Z E G :
 
 |
 
-15 013 280,9
+15 108 980,90
 
 |
 
@@ -61948,7 +61974,7 @@ B E V É T E L I F Ő Ö S S Z E G :
 
 |
 
-14 437 120,2
+14 437 120,20
 
 |
 
@@ -61956,4 +61982,4 @@ A FŐÖSSZEGEK EGYENLEGE :
 
 |
 
-–576 160,7
+– 671 860,7
