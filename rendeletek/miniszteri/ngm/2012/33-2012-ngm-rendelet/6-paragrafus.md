@@ -1,0 +1,7 @@
+## 5. § A Rehabilitációs kártyára jogosult a rehabilitációs hatósághoz terjeszti elő a Rehabilitációs kártya adatváltozás (névváltozás) miatti cseréje iránti kérelmét. A rehabilitációs hatóság e tényt a 2. § szerinti adatszolgáltatáson keresztül jelzi az állami adóhatóság felé, mely szerv a kicserélt Rehabilitációs kártyát (a továbbiakban: cserekártya) kiállítja.
+
+6. § (1) A Rehabilitációs kártyának a Rehabilitációs kártyára jogosult személy birtokából való kikerülése (megsemmisülése, elvesztése vagy jogtalan eltulajdonítása) esetén akkor adható ki ismételten azonos adattartalommal a Rehabilitációs kártya (cserekártya), illetve a Rehabilitációs kártya megrongálódása esetén akkor cserélhető, ha azt a Rehabilitációs kártyára jogosult kéri.
+
+(2) A Rehabilitációs kártya birtokából való kikerülését (megsemmisülését, elvesztését vagy jogtalan eltulajdonítását), valamint megrongálódását a Rehabilitációs kártyára jogosult köteles haladéktalanul, de legkésőbb a birtokából való kikerülés (megsemmisülés, elvesztés vagy jogtalan eltulajdonítás), valamint a megrongálódás tudomására jutásától számított három napon belül a rehabilitációs hatóságnál bejelenteni.
+
+(3) A cserekártya igénylésekor a Rehabilitációs kártya birtokából való kikerüléséről (megsemmisüléséről, elvesztéséről vagy jogtalan eltulajdonításáról), valamint megrongálódásáról a Rehabilitációs kártyára jogosult személy nyilatkozatot tesz.
