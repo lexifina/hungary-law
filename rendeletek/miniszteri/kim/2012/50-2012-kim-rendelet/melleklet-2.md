@@ -52,4 +52,6 @@
 
 ## ”
 
-2. melléklet az 50/2012. (XII. 4.) KIM rendelethez
+2–4. melléklet az 50/2012. (XII. 4.) KIM rendelethez[^80]
+
+[^80]: A 2–4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

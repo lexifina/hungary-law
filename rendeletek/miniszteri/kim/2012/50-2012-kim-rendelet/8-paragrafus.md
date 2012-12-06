@@ -1,4 +1,4 @@
-## 7. §[^10]
+## 7. §[^16]
 
 ## 8. A választójoggal nem rendelkező személyek nyilvántartásának vezetéséről szóló
 
@@ -6,13 +6,15 @@
 
 8. § (1) A választójoggal nem rendelkező személyek nyilvántartásának vezetéséről szóló 32/1996. (XII. 22.) BM rendelet (a továbbiakban: NESZAr.)
 
-a) 2. § (2) bekezdés a) pontjában a „2. számú mellékletben” szövegrész helyébe a „3. számú mellékletben” szöveg,
+a)[^17]
 
-b)[^11]
+b)[^18]
 
 ## lép.
 
-(2) A NESZAr. az e rendelet 1. melléklete szerinti 3. melléklettel egészül ki.
+(2)[^19]
 
-[^10]: A 7. § a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^11]: A 8. § (1) bekezdés b) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^16]: A 7. § a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^17]: A 8. § (1) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 8. § (1) bekezdés b) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^19]: A 8. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

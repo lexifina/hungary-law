@@ -1,4 +1,4 @@
-## 9. §[^12]
+## 9. §[^20]
 
 ## 10. Az okmányirodák működésének személyi és technikai feltételeiről szóló
 
@@ -6,22 +6,25 @@
 
 ## 10. § Az okmányirodák működésének személyi és technikai feltételeiről szóló 58/1999. (XII. 30.) BM rendelet
 
-a)–b)[^13]
+a)–b)[^21]
 
-c) 1. § (2) bekezdésében a „Hivatal” szövegrész helyébe a „Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: Hivatal)” szöveg,
+c)[^22]
 
-d)[^14]
+d)[^23]
 
-e) 2. § (2) bekezdésében a „Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát (a továbbiakban: Hivatal)” szövegrész helyébe a „Hivatalt” szöveg,
+e)[^24]
 
-f)–i)[^15]
+f)–i)[^25]
 
-j) 2. mellékletében a „Kormány általános hatáskörű területi államigazgatási szerve” szövegrész helyébe a „fővárosi és megyei kormányhivatal” szöveg,
+j)[^26]
 
-k)–l)[^16]
+k)–l)[^27]
 
-[^12]: A 9. § a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^13]: A 10. § a)–b) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^14]: A 10. § d) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^15]: A 10. § f)–i) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^16]: A 10. § k)–l) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^20]: A 9. § a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^21]: A 10. § a)–b) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^22]: A 10. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 10. § d) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^24]: A 10. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 10. § f)–i) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^26]: A 10. § j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 10. § k)–l) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.

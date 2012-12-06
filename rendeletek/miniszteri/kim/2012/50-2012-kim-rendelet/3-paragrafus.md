@@ -1,4 +1,4 @@
-## 2. §[^5]
+## 2. §[^9]
 
 ## 3. A polgári eljárásra vonatkozóan az 1954. évi március hó 1. napján, Hágában kelt nemzetközi egyezmény kihirdetéséről szóló 1966. évi 8. törvényerejű rendelet végrehajtásáról szóló
 
@@ -6,11 +6,10 @@
 
 ## 3. § A polgári eljárásra vonatkozóan az 1954. évi március hó 1. napján, Hágában kelt nemzetközi egyezmény kihirdetéséről szóló 1966. évi 8. törvényerejű rendelet végrehajtásáról szóló 4/1966. (IV. 15.) IM rendelet
 
-a) 1. §-ában, 2. § (1) bekezdésében, 6. § (2)–(4) bekezdésében, 8. §-ában az „az Igazságügyi és Rendészeti” szövegrészek helyébe az „a Közigazgatási és Igazságügyi” szöveg,
+a)–b)[^10]
 
-b) 4. §-ában az „Az Igazságügyi és Rendészeti” szövegrész helyébe az „A Közigazgatási és Igazságügyi” szöveg,
+c)[^11]
 
-c)[^6]
-
-[^5]: A 2. § a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^6]: A 3. § c) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^9]: A 2. § a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^10]: A 3. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 3. § c) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.

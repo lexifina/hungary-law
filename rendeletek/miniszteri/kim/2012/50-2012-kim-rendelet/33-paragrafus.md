@@ -1,12 +1,11 @@
 ## 33. § Hatályát veszti
 
-a)[^46]
+a)[^77]
 
-b) az önkormányzati miniszter által adományozható elismerésekről, az elismerésben részesíthetők köréről, valamint az elismerésben részesítés feltételeiről és rendjéről szóló 9/2009. (II. 27.) ÖM rendelet 1. § (1) bekezdés b) pontja,
+b)–c)[^78]
 
-c) az Ogyr. 21. mellékletében a „nem vagyok és a jelöltként történő bejelentésemet megelőző három évben nem voltam a Magyar Honvédség, a Rendőrség vagy a nemzetbiztonsági szolgálatok hivatásos állományú tagja, így az Alkotmány 40/B. § (4) bekezdése a választójogomat nem zárja ki” szövegrész,
+d)[^79]
 
-d)[^47]
-
-[^46]: A 33. § a) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^47]: A 33. § d) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^77]: A 33. § a) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^78]: A 33. § b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 33. § d) pontja a 32. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
