@@ -1,3 +1,3 @@
-## 13. §[^16] Az iskolában az ösztöndíjas tanulóról a nyilvántartott adatok tekintetében a Kt. 2. számú mellékletének „A közoktatási intézményekben nyilvántartott és kezelt személyes és különleges adatok” cím, „A gyermekek, tanulók adatai” alcímhez tartozó 1–3. pontban foglaltakat kell alkalmazni azzal, hogy a nyilvántartott adatok között szerepeltetni kell azt is, hogy a tanuló az adott régióban a gazdaság által igényelt szakképesítést tanul. Az iskola személyes adatot nem továbbít az NMH részére.
+## 13. §[^24] Az iskola az ösztöndíjas tanulókról az Nkt. 41. § (4) bekezdésében foglalt adatokon túl nyilvántartja azt is, ha a tanuló az adott megyében a hiány-szakképesítés körébe tartozó szakképesítést tanul.
 
-[^16]: A 13. § a 324/2011. (XII. 28.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
+[^24]: A 13. § a 331/2012. (XI. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
