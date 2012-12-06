@@ -34,6 +34,8 @@ b) az elkobzás kivételesen mellőzhető, ha az a jogsértőre vagy a dolog tul
 
 5. Az Alkotmánybíróság az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 54. § (6) bekezdése, a szabálysértésekről szóló 1999. évi LXXIX. törvény 146/A. §-a, valamint a Budapest Főváros Önkormányzatának Közgyűlése által a főváros közterületek használatáról és a közterületek rendjéről alkotott 59/1995. (X. 20.) Főv. Kgy. rendelet 15/B. § (1) bekezdés c) és d) pontja alaptörvény-ellenességének vizsgálatára irányuló indítványt visszautasítja.
 
+6.[^1] Az Alkotmánybíróság elrendeli a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 186. §-a alapján lefolytatott és jogerős határozattal lezárt szabálysértési eljárások felülvizsgálatát.
+
 Az Alkotmánybíróság e határozatát a Magyar Közlönyben közzéteszi. A megsemmisített törvényi rendelkezések e határozatnak a Magyar Közlönyben történt közzétételét követő napon vesztik hatályukat.
 
 Indokolás
@@ -465,3 +467,5 @@ A különvéleményhez csatlakozom.
 Dr. Balsai István s. k.,
 
 alkotmánybíró
+
+[^1]: A határozat rendelkező részének 6. pontját a 39/2012. (XII. 6.) AB határozat iktatta be.
