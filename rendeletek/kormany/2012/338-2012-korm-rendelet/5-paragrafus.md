@@ -1,1 +1,3 @@
-## 4. § Az R.2. 2. § (2) bekezdésében a „munkaköre keretei között az (1) bekezdésben foglalt ellátásokon” szövegrész helyébe a „munkaköre keretei között egészségügyi tevékenységnek nem minősülő tevékenységet is végez, vagy az (1) bekezdésben foglalt ellátásokon” szöveg lép.
+## 3–4. §[^2]
+
+[^2]: A 3–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
