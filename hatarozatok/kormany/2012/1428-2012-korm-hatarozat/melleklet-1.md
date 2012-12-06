@@ -16,7 +16,7 @@
 
 ## 4. Az 1. és 2. pontokban foglaltakon kívül a Kormány a Magyar Köztársaság 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet
 
-## a) XI. Miniszterelnökség fejezet, 3. Rendkívüli kormányzati intézkedések cím kiadási előirányzatából 20 000,0 millió forintot,
+## a)[^1]
 
 ## b) XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 36. PPP programok alcím, 3. PPP-konstrukcióban létrehozott beruházások megvásárlásával és befejezésével kapcsolatos kiadások jogcím-csoport kiadási és támogatási előirányzatából 3 100,0 millió forintot, valamint
 
@@ -79,3 +79,5 @@
 ## Határidő: azonnal
 
 1. melléklet az 1428/2012. (X. 8.) Korm. határozathoz
+
+[^1]: A 4. pont a) alpontját az 1561/2012. (XII. 6.) Korm. határozat 4. pontja hatályon kívül helyezte.
