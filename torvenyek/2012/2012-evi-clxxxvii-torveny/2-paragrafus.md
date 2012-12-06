@@ -1,0 +1,3 @@
+2. § A Kötv. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) hitelfelvételre és kezességvállalásra nem jogosult. Az MNV Zrt. – az Államadósság Kezelő Központ Zrt. (a továbbiakban: ÁKK Zrt.) törvényben meghatározott feladatkörét nem érintve – az államháztartásért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter erre vonatkozó, 2012. évben kiadott engedélye alapján jogosult az állam képviseletében eljárni olyan hitelviszonyt megtestesítő értékpapír kibocsátása során, amelynek kibocsátója az állam és amely az állam tulajdonában levő pénzügyi eszközhöz kapcsolódik.”
