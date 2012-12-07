@@ -1,1 +1,0 @@
-## „(4) A tanulmányi átlageredmény meghatározása során az általános kerekítési szabályok szerint kell eljárni. Amennyiben a tanuló tudásának félévi vagy év végi minősítése és értékelése során bármely tantárgyból elégtelen (1) osztályzatot kapott, tanulmányi átlag nem számítható, ekkor a tanulót kompetenciafejlesztésben kell részesíteni.”
