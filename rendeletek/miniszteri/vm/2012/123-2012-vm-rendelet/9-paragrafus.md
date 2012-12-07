@@ -1,0 +1,9 @@
+## 8. § Az R. 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A Nemzeti Vidékfejlesztési Terv alapján a központi költségvetés, valamint az Európai Mezőgazdasági Orientációs és Garancia Alap Garancia Részlege társfinanszírozásában megvalósuló, a termelői csoportok létrehozásához és működtetéséhez nyújtott támogatás igénybevételének részletes szabályairól szóló miniszteri rendelet vagy az Európai Mezőgazdasági Vidékfejlesztési Alapból a termelői csoportok létrehozásához és működéséhez nyújtandó támogatások részletes feltételeiről szóló miniszteri rendelet szerint nyújtott támogatási rendszer keretében a termelői csoport a 9. § (5) bekezdés szerinti elismerés megszerzését követő ötödik év letelte után minősített elismerés iránti kérelmet nyújthat be a minisztériumhoz az utolsó támogatási részlet kifizetését követő egy éven belül. Azon termelői csoportok esetében, amelyeknél az utolsó támogatási részlet kifizetése 2011. december 31-e előtt megtörtént, 2013. március 31-ig nyújthatnak be minősített elismerés iránti kérelmet a minisztériumhoz.”
+
+9. § (1) Az R. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az elismerés, valamint a minősített elismerés feltételei betartásának ellenőrzésére a miniszter monitoring rendszert alakít ki és működtet a hivatal bevonásával. Ennek keretében a termelői csoport köteles a tárgyévet követő év május 31-ig a tárgyévi zárómérlegét, rövid szöveges értékelést, az 1. számú mellékletben szereplő A) vagy B) jelű adatlapot, valamint a 3. számú melléklet szerinti adatlapot (a továbbiakban együtt: beszámoló jelentés) a hivatal részére nyomtatott formában és elektronikus úton megküldeni. A hivatal a hozzá megküldött dokumentumokat, adatokat továbbítja a minisztérium részére.”
+
+(2) Az R. 11. § (5) bekezdése helyébe a következő rendelkezés lép:
