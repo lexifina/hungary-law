@@ -1,0 +1,1 @@
+## megjelöléssel a feladónak visszakézbesítette.
