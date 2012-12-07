@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és Montenegró Kormánya közötti tudományos és technológiai együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
