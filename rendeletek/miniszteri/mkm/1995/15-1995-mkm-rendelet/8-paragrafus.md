@@ -1,1 +1,0 @@
-## 7. § A MAK előzetes írásbeli hozzájárulása nélkül befogadott személy – az 5. § (1) bekezdés kivételével – a bérlő lakásbérleti szerződésének megszűnésétől számított hat hónap eltelte után a lakbér ötszörösét köteles lakáshasználati díjként megfizetni, és elhelyezéséről maga köteles gondoskodni.

@@ -1,4 +1,4 @@
-## 1. § A rendelet hatálya kiterjed az önkormányzati tulajdonban lévő, a művelődési és közoktatási miniszter[^1] bérlőkijelölési jogával érintett és műteremlakásként vagy szükség-műteremlakásként juttatott lakásokra (a továbbiakban: műteremlakás).
+## 1. §[^1] A rendelet hatálya kiterjed az önkormányzati tulajdonban lévő, a kultúráért felelős miniszter (a továbbiakban: miniszter)[^2] bérlőkijelölési jogával érintett és műteremlakásként vagy szükség-műteremlakásként juttatott lakásokra (a továbbiakban: műteremlakás).
 
 ## 2. § E rendelet alkalmazásában
 
@@ -14,4 +14,5 @@ b) műteremlakás: az a lakás, amelyben műterem található, továbbá az, ame
 
 c) szükség-műteremlakás: az a lakás, amelyben műterem található, és egyebekben a komfort nélküli lakás feltételeinek megfelel.
 
-[^1]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének a) pontját.
+[^1]: Az 1. § a 43/2012. (XI. 29.) EMMI rendelet 9. § a) pontja szerint módosított szöveg.
+[^2]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének a) pontját.
