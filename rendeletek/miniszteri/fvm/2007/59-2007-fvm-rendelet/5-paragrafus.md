@@ -16,6 +16,7 @@ b) a számviteli törvény szerinti éves beszámolót.
 
 (3) A támogatási kérelem egyben az első évre vonatkozó kifizetési kérelem is.
 
-(4) Jelen rendelet alapján egy termelői csoport esetében csak egy támogatási kérelem hagyható jóvá.
+(4)[^5] Jelen rendelet alapján egy elismerési okirat vonatkozásában évente egy támogatási kérelem hagyható jóvá.
 
 [^4]: Az 5. § (1) bekezdése a 12/2010. (VIII. 30.) VM rendelet 3. §-ával megállapított szöveg.
+[^5]: Az 5. § (4) bekezdése a 124/2012. (XII. 6.) VM rendelet 11. § (1) bekezdésével megállapított szöveg.
