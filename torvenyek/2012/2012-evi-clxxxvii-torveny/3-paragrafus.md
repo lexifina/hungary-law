@@ -1,3 +1,0 @@
-3. § A Kötv. 8. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az Üht. által létrehozott kibocsátási egységek értékesítéséből származó 2012. évi bevételnek a fejlődő országok részére nyújtandó klímafinanszírozásra – a (2) bekezdés szerint – felhasznált hányada feletti rész 50%-a energiahatékonysági programra használható fel, amelynek kiadását a Nemzeti Fejlesztési Minisztérium fejezet 20. Fejezeti kezelésű előirányzatok cím, 2. Ágazati célelőirányzatok alcím, 49. Zöld Beruházási Rendszer végrehajtásának feladatai jogcímcsoport terhére kell teljesíteni. E kiadás összegével a Nemzeti Fejlesztési Minisztérium fejezet tervezett kiadása túlléphető.”
