@@ -1,18 +1,4 @@
-## Áruforgalmi terv
-
-| a) A tagok által termelt termék értékesítéséből származó árbevétel |  |
-
-| b) A nem tagoktól felvásárolt termék értékesítéséből származó árbevétel |  |
-
-| c) Egyéb árbevétel |  |
-
-| Mérleg szerinti összes árbevétel [a) + b) + c)] |  |
-
-## Az adatok ..... évre vonatkoznak.
-
-## Megjegyzés: az áruforgalmi tervet tartalmazó táblázatot termékekre és évekre lebontva kell kitölteni!
-
-3. számú melléklet a 81/2004. (V. 4.) FVM rendelethez[^48]
+3. számú melléklet a 81/2004. (V. 4.) FVM rendelethez[^62]
 
 A termelői csoportok működési programjához csatolt adatlap tartalma
 
@@ -24,7 +10,7 @@ A termelői csoportok működési programjához csatolt adatlap tartalma
 
 4. Az előzetes elismerés dátuma és a határozat ügyiratszáma.
 
-5. A végleges állami elismerés dátuma és a határozat ügyiratszáma.
+5. A végleges elismerés dátuma és a határozat ügyiratszáma.
 
 6. A tárgyévet megelőző év és a tárgyévi tény adatok, valamint a tárgyévet követő évre és a tárgyévet követő második évre vonatkozó terv adatok:
 
@@ -46,7 +32,7 @@ A termelői csoportok működési programjához csatolt adatlap tartalma
 
 6.6 Összes árbevétel (E Ft).
 
-6.7. Összes értékesítési árbevétel (E Ft), ebből a tagi termék árbevétele (E Ft) és ebből a jogi személyiségű tagoktól származó árbevétel (E Ft).
+6.7. Összes értékesítési árbevétel (E Ft), ebből a tagi termék árbevétele (E Ft) és ebből a természetes személy tagoktól származó árbevétel (E Ft).
 
 6.8. Beruházási költség (E Ft).
 
@@ -60,4 +46,4 @@ A termelői csoportok működési programjához csatolt adatlap tartalma
 
 7. Keltezés, a kérelmező cégszerű aláírása.
 
-[^48]: A 3. számú melléklet a 20/2010. (X. 1.) VM rendelet 8. §-ával megállapított szöveg. E módosító rendelet 10. §-a alapján a 2010. október 9. napját követően indult elismerési eljárásokban kell alkalmazni.
+[^62]: A 3. számú melléklet a 20/2010. (X. 1.) VM rendelet 8. §-ával megállapított, a 123/2012. (XII. 6.) VM rendelet 10. § j) és k) pontja szerint módosított szöveg.

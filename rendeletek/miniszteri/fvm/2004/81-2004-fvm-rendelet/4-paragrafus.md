@@ -1,4 +1,4 @@
-## 4. §[^12] Az e rendelet értelmében elismert termelői csoportnak a gazdasági tevékenysége során biztosítania kell:
+## 4. §[^13] Az e rendelet értelmében elismert termelői csoportnak a gazdasági tevékenysége során biztosítania kell:
 
 a) a termelés megszervezését és hozzáigazítását a kereslethez, különösen a minőség és mennyiség tekintetében;
 
@@ -6,6 +6,9 @@ b) a tagok termékeinek tárolásához, áruvá történő előkészítéséhez 
 
 c) olyan termelői kör összefogását és termékmennyiség közös értékesítését, amely elegendő az adott termék piaci ár- és értékesítési feltételeinek kedvező alakítására;
 
-d) olyan korszerű termelési, értékesítés szervezési, szaktanácsadási feladatok ellátását, amely csökkenti a költségeket és segíti a piaci pozíciók erősödését.
+d) olyan korszerű termelési, értékesítés szervezési, szaktanácsadási feladatok ellátását, amely csökkenti a költségeket és segíti a piaci pozíciók erősödését;
 
-[^12]: A 4. § a 20/2010. (X. 1.) VM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 10. §-a alapján a 2010. október 9. napját követően indult elismerési eljárásokban kell alkalmazni.
+e)[^14] a tagok irányában a nonprofit jelleg érvényesülését.
+
+[^13]: A 4. § a 20/2010. (X. 1.) VM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 10. §-a alapján a 2010. október 9. napját követően indult elismerési eljárásokban kell alkalmazni.
+[^14]: A 4. § e) pontját a 123/2012. (XII. 6.) VM rendelet 3. §-a iktatta be.
