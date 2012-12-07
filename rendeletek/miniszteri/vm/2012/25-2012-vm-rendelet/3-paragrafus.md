@@ -11,3 +11,7 @@
 (4) A 2. § b) és c) pontja szerinti tevékenységek esetén csak teljes erdőrészletre adható támogatás.
 
 (5) A 2. § a) pontja szerinti tevékenység esetén az erdőrészlet 0,3 hektár nagyságot elérő részterületére is adható támogatás, amennyiben azon a területhatár állandósítást elvégezték.
+
+(6)[^4] Amennyiben az ügyfél vállalja a 2. melléklet 11. vagy 14. sora szerinti foglalkoztatást, annak a támogatási kérelem benyújtásától az utolsó kifizetési kérelem benyújtásáig fenn kell állnia.
+
+[^4]: A 3. § (6) bekezdését a 122/2012. (XII. 6.) VM rendelet 3. §-a iktatta be.

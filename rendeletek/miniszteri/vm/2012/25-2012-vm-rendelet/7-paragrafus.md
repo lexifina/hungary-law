@@ -26,7 +26,7 @@ j) X. kategóriába tartozik, ha területe 45,0 hektár, vagy nagyobb.
 
 (2) Az adott területi kategóriában erdőrészletenként maximálisan megítélhető támogatás mértéke az 1. melléklet szerint alakul.
 
-(3) A kifizethető támogatás összege nem haladhatja meg az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet 19. § (3) és (4) bekezdés szerinti kiadásigazoló bizonylattal igazolt kiadások 50%-át.
+(3)[^6] A kifizethető támogatás összege nem haladhatja meg az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet [a továbbiakban: 23/2007. (IV. 17.) FVM rendelet] 19. § (3) és (4) bekezdés szerinti kiadásigazoló bizonylattal igazolt kiadások 50%-át.
 
 (4) E rendelet alkalmazásában a 2. § a) pontja szerinti tevékenység elvégzése során támogatható műveletnek minősül:
 
@@ -55,3 +55,5 @@ bb) a gépi ápolás: tárcsázás, kultivátorozás, talajmarás, kaszálás.
 a) a kézzel vagy géppel végzett nyesés, nyesési anyag megsemmisítése;
 
 b) a terepi munkák erdészeti szakirányítása.
+
+[^6]: A 7. § (3) bekezdése a 122/2012. (XII. 6.) VM rendelet 5. §-ával megállapított szöveg.

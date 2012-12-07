@@ -32,7 +32,7 @@
 
 | Gazdasági elsődleges rendeltetés | Országos Erdőállomány Adattár | 10 |
 
-| 6 | Az erdőrészlet Natura 2000 terület MePAR lehatárolás szerint | Országos Erdőállomány Adattár | 10 |
+| 6 | az Országos Erdőállomány Adattárban Natura 2000 területként lehatárolásra került | Országos Erdőállomány Adattár | 10 |
 
 |  | Összesen: |  | 65 |
 
@@ -56,7 +56,7 @@
 
 | 10 | Csökkent munkaképességű foglalkoztatása | Csökkent munkaképességű személyt foglalkoztat | A foglalkoztatást bizonyító szerződés másolata | 4 |
 
-| 11 | Közfoglalkoztatás | Olyan személyt foglalkoztat, akit a támogatási kérelem benyújtását megelőző 1 évben közmunkában foglalkoztatott. | A közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. r. 7. § (5) bekezdés a) vagy b) pontja szerinti hatósági szerződés hitelesített másolata, továbbá az érintett személy munkaszerződésének ügyfél által hitelesített másolata | 4 |
+| 11 | Közfoglalkoztatás | Olyan személy foglalkoztatását vállalja, akit a támogatási kérelem benyújtását megelőző 1 évben közmunkában foglalkoztatott. | Nyilatkozat és a közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. r. 7. § (5) bekezdés a) vagy b) pontja szerinti hatósági szerződés hitelesített másolata, továbbá az érintett személy munkaszerződésének ügyfél által hitelesített másolata | 4 |
 
 |  | Ha az ügyfél természetes személy |
 
@@ -64,7 +64,7 @@
 
 | 13 |  | Az ügyfél csökkent munkaképességű | Nyilatkozat | 4 |
 
-| 14 | Közfoglalkoztatás | Az ügyfél olyan személyt foglalkoztat, akit a támogatási kérelem benyújtását megelőző 1 évben közmunkában foglalkoztatott | A közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. r. 7. § (5) bekezdés a) vagy b) pontja szerinti hatósági szerződés hitelesített másolata, továbbá az érintett személy munkaszerződésének ügyfél által hitelesített másolata | 4 |
+| 14 | Közfoglalkoztatás | Olyan személy foglalkoztatását vállalja, akit a támogatási kérelem benyújtását megelőző 1 évben közmunkában foglalkoztatott | A közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. r. 7. § (5) bekezdés a) vagy b) pontja szerinti hatósági szerződés hitelesített másolata, továbbá az érintett személy munkaszerződésének ügyfél által hitelesített másolata | 4 |
 
 |  | Összesen: |  | 28 |
 
@@ -74,7 +74,7 @@
 
 | 1–2 millió Ft között |  | 2 |
 
-| 16 | 2010. bázisévhez viszonyítva az erdőgazdálkodásba vont terület növekszik, amely során 5 százalékpontonként 1 pont, de legfeljebb 4 pont adható |  |  | 4 |
+| 16 | A 2010. bázisévhez viszonyítva a támogatási kérelem benyújtási időszak első napján nyilvántartott erdőgazdálkodásba vont terület növekszik, amely során 5 százalékpontonként 1 pont, de legfeljebb 4 pont adható |  | Országos Erdőállomány Adattár | 4 |
 
 |  | Összesen |  | 7 |
 

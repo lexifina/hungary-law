@@ -1,5 +1,5 @@
-## 15. §[^2]
+## 15. §[^18] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból önálló, építéssel nem járó gépek, technológiai berendezések beszerzéséhez nyújtandó támogatások részletes feltételeiről szóló 26/2007. (IV. 17.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal erdők állományneveléséhez nyújtandó támogatások részletes feltételeiről szóló 25/2012. (III. 20.) VM rendelet módosításáról szóló 122/2012. (XII. 6.) VM rendelettel megállapított 1. § 10–12. pontját, 10. § (1) bekezdés c) pontját, 10. § (6)–(7) bekezdését, 11. § (6)–(7) bekezdését a 2012. május 2-tól benyújtott támogatási kérelmekre is alkalmazni kell.
 
 1. melléklet a 25/2012. (III. 20.) VM rendelethez
 
-[^2]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 122/2012. (XII. 6.) VM rendelet 10. §-a iktatta be.

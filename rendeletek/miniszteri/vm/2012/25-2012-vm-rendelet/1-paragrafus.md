@@ -18,4 +18,14 @@
 
 8. tisztítás: az Evt. 71. § (1) bekezdés a) pontja és az Evt. Vhr. 44. § (2) bekezdése szerint elvégzett munka;
 
-9. törzsnyesés: az ágtiszta törzsek nevelése érdekében a törzsön található ágaknak – az e rendeletben meghatározott magasságig – a törzs palástjában történő eltávolítása.
+9. törzsnyesés: az ágtiszta törzsek nevelése érdekében a törzsön található ágaknak – az e rendeletben meghatározott magasságig – a törzs palástjában történő eltávolítása;
+
+10.[^1] támogatási időszak: a kifizetési határozat jogerőre emelkedését követő 12 hónap;
+
+11.[^2] tevékenység megvalósítása: az adott erdőrészletre benyújtott kifizetést alátámasztó bizonylatokban, számlákban, szerződésekben a támogatott tevékenység megvalósítására vonatkozóan feltüntetett teljesítési dátumok közül erdőrészletenként a legutolsó;
+
+12.[^3] 2010. évi bázisév: az Országos Erdőállomány Adattár 2010. december 31. napján nyilvántartott adatai alapján meghatározott időszak.
+
+[^1]: Az 1. § 10. pontját a 122/2012. (XII. 6.) VM rendelet 2. §-a iktatta be.
+[^2]: Az 1. § 11. pontját a 122/2012. (XII. 6.) VM rendelet 2. §-a iktatta be.
+[^3]: Az 1. § 12. pontját a 122/2012. (XII. 6.) VM rendelet 2. §-a iktatta be.
