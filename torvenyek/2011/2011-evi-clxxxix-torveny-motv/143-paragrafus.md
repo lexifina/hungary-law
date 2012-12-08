@@ -10,7 +10,7 @@ b) a helyi önkormányzat tulajdonába tartozó vagyonelemek nyilvántartásána
 
 c)
 
-d) a 16. §-ban meghatározott esetekben az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő beruházás megvalósítása érdekében szükséges intézkedéseket;
+d) a 16. §-ban meghatározott esetekben az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő beruházás megvalósítása érdekében szükséges intézkedéseket, valamint a Kormány által kijelölt miniszter részére, a beruházások figyelemmel kísérésével kapcsolatos feladata ellátásához – a személyes adatok kivételével – rendelkezésre bocsátandó adatok, valamint az adatszolgáltatásra kötelezett szervezetek körét, az adatszolgáltatás gyakoriságát, továbbá az adatok nyilvántartásának vezetésére vonatkozó részletes szabályokat;;
 
 e) a helyi önkormányzatok törvényességi felügyeletének részletes szabályait.
 
