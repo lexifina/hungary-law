@@ -84,7 +84,7 @@ i) a pedagógusigazolvány igénybevételének feltételeit, az igazolvány kiad
 
 j) az egyházi és magánintézményeket valamint az országos nemzetiségi önkormányzatok által fenntartott köznevelési intézményeket megillető – a költségvetésről szóló törvényben meghatározott – állami hozzájárulások megállapításának, folyósításának, elszámolásának rendjét, az igényléssel, elszámolással, felhasználással összefüggő adatszolgáltatást, továbbá az ellenőrzés rendjét, valamint az egyházi és az országos nemzetiségi önkormányzati fenntartót megillető kiegészítő támogatás igénylésének, a jogosultat megillető kiegészítő támogatás megállapításának rendjét, a bármely jogcímen megállapításra kerülő kiegészítő támogatás igényléséhez szükséges adatszolgáltatást és a kiegészítő támogatás folyósításának, elszámolásának rendjét, az igényléssel, elszámolással, felhasználással összefüggő ellenőrzés rendjét, a kiegészítő támogatás megállapításához szükséges kormányhivatal általi adatszolgáltatást,
 
-k) az oktatásért felelős miniszter egyes feladat- és hatásköreit ellátó központi hivatal és az általa ellátott feladat-és hatáskörök kijelölését,
+k) kijelölje a hivatalt és a 79. § (1) bekezdése szerint átruházható feladatokat,
 
 l) a kormányhivatalok hatósági ellenőrzésének tárgyköreit, a köznevelés-fejlesztési terv részletes tartalmát és elkészítésének eljárásrendjét,
 

@@ -4,7 +4,7 @@
 
 (3) E törvény hatálybalépésekor folyamatban lévő 58. § szerinti fegyelmi eljárásokat a Kt. vonatkozó rendelkezései alapján kell befejezni.
 
-(4) E törvény hatálybalépését követően a fenntartó négy hónapon belül felülvizsgálja a közoktatásról szóló 1993. évi LXXIX. törvény 2012. augusztus 31-én hatályos szövege szerinti közoktatási intézmény alapító okiratát, annak érdekében, hogy megfeleljen az e törvényben foglaltaknak, és megküldi a törzskönyvi nyilvántartást vezető szervnek, a hivatalnak vagy a kormányhivatalnak. Ha a közoktatásról szóló 1993. évi LXXIX. törvény alapján a köznevelési intézmény a nyilvántartásba vételét követően megkezdhette működését, a fenntartó köteles 2013. április 30-ig működési engedély iránti kérelmet benyújtani vagy a közoktatási intézményt megszüntetni.
+(4) E törvény hatálybalépését követően a fenntartó négy hónapon belül felülvizsgálja a közoktatásról szóló 1993. évi LXXIX. törvény 2012. augusztus 31-én hatályos szövege szerinti közoktatási intézmény alapító okiratát, annak érdekében, hogy megfeleljen az e törvényben foglaltaknak, és megküldi a törzskönyvi nyilvántartást vezető szervnek, a hivatalnak vagy a kormányhivatalnak. Ha a közoktatásról szóló 1993. évi LXXIX. törvény alapján a köznevelési intézmény a nyilvántartásba vételét követően megkezdhette működését és e törvény szerint működési engedéllyel kell rendelkeznie, a fenntartó köteles 2013. április 30-ig működési engedély iránti kérelmet benyújtani vagy a közoktatási intézményt megszüntetni.
 
 (5) A fejlesztő nevelés, nevelés-oktatás 15. § (2) bekezdés szerinti ellátása 2014. szeptember 1-jétől kötelező. Eddig az időpontig az érintett tanulók részére a fejlesztő iskolai oktatás a Kt. szabályai szerint is megszervezhető. A korai fejlesztés és gondozás, valamint a fejlesztő felkészítés 2013. január 1-jéig bölcsődei gondozás, fogyatékosok ápoló, gondozó otthonában nyújtott gondozás, gyermekotthonban nyújtott gondozás, gyógypedagógiai tanácsadás, korai fejlesztés és gondozás keretében biztosított fejlesztés és gondozás, konduktív pedagógiai ellátás keretében is ellátható.
 
@@ -26,7 +26,7 @@
 
 (14) Az iskola 2012. december 31-ig felülvizsgálja a pedagógiai programját, annak érdekében, hogy a kerettantervről szóló jogszabály, valamint e törvény rendelkezéseinek megfeleljen.
 
-(15) A tíznél több szakmai munkaközösséggel működő nevelési-oktatási intézmény 2012. december 31-ig felülvizsgálja és módosítja az SZMSZ-ét annak érdekében, hogy megfeleljen a 71. § (1) bekezdésében foglaltaknak.
+(15) A nevelési-oktatási intézmény 2013. március 31-ig felülvizsgálja és módosítja az SZMSZ-ét annak érdekében, hogy megfeleljen az e törvényben és a végrehajtási rendeletben foglaltaknak.
 
 (16) Az a pedagógus, aki e törvény hatálybalépésekor az ötvenkettedik életévét betöltötte, pedagógus-továbbképzésben történő részvételre nem kötelezhető.
 

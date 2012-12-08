@@ -1,6 +1,6 @@
 ## 46. Az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes központi és területi feladatok
 
-79. § (1) Az oktatásért felelős miniszter egyes külön jogszabályban meghatározott feladat- és hatásköreit az oktatásért felelős miniszter köznevelési feladatkörében eljáró, kormányrendeletben kijelölt központi hivatala útján látja el.
+79. § (1) Az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatait a hivatalon és az állami intézményfenntartó központon keresztül látja el.
 
 (2) A kormányhivatal hatósági ellenőrzés keretében vizsgálja a köznevelési intézmény jogszabályi feltételeknek megfelelő működését.
 

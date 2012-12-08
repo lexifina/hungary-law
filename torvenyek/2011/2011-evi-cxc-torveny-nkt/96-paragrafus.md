@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdés szerinti intézményekben folyó nevelő-oktató munka során – a nevelő-oktató munka pedagógiai szakaszait, követelményrendszerét, az állami vizsgák rendszerét meghatározó rendelkezések kivételével – e törvény rendelkezéseitől el lehet térni.
 
-(3) A működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban, a nevelési-oktatási programok akkreditálásával, a tankönyvek jóváhagyásával, a kerettanterv jóváhagyásával összefüggő eljárásokban, a pedagógus-továbbképzési programokkal összefüggő eljárásokban, valamint a törvényességi és hatósági ellenőrzések során az ügyintézési határidő két hónap.
+(3) A működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban, a nevelési-oktatási programok akkreditálásával, a tankönyvek jóváhagyásával, a kerettanterv jóváhagyásával összefüggő eljárásokban, a pedagógus-továbbképzési programokkal összefüggő eljárásokban, a költségvetési támogatásokkal kapcsolatos első és másodfokú eljárásokban, valamint a törvényességi és hatósági ellenőrzések során az ügyintézési határidő két hónap.
 
 (4) Köznevelési intézmény tekintetében felügyeleti és irányító szerven a fenntartót, felügyeleten és irányításon a fenntartói jogok és kötelességek gyakorlását, szakmai és gazdasági felügyeleten a szakmai és gazdasági ellenőrzést, nevelési-oktatási intézménynél az illetékességi és működési körön a működési (felvételi) körzetet kell érteni.
 
