@@ -1,0 +1,9 @@
+## 4. Az átvett intézmények foglalkoztatottai és a települési önkormányzati hivataloknál foglalkoztatott köztisztviselők
+
+8. § (1) Az átvételre kerülő intézmény szakmai fenntartói feladatainak ellátásában közvetlenül közreműködő, a települési önkormányzatnál foglalkoztatott köztisztviselők és munkavállalók (a továbbiakban együtt: foglalkoztatottak) a kijelölt szerv állományába kerülnek át, amennyiben megfelelnek a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvényben (a továbbiakban: Kttv.) és végrehajtási rendeleteiben meghatározott képesítési előírásoknak. Az átvett foglalkoztatottak jogviszonya a Kttv. alapján kormányzati szolgálati jogviszonnyá alakul át.
+
+(2) Az (1) bekezdés szerinti képesítési előírásokban foglalt feltételek teljesítésének hiányában át nem vett foglalkoztatottak számát a kijelölt szerv létszámának kialakításakor figyelembe kell venni. Ebben az esetben a közszolgálati jogviszony vagy a munkaviszony e törvény erejénél fogva az átadás időpontjában megszűnik. A jogviszony megszűnéséről a foglalkoztatottat írásban értesíteni kell. A jogviszony megszűnésével kapcsolatos eljárásokra és a foglalkoztatottat megillető járandóságokra a Kttv.-nek az államigazgatási szerv jogutód nélküli megszűnése esetére irányadó rendelkezéseit kell alkalmazni azzal, hogy a jogviszony megszűnésével összefüggésben a felügyeleti szerv által ellátandó munkáltatói feladatokat a kijelölt szerv látja el.
+
+(3) A tulajdonjog és fenntartói jog átszállása nem érinti az átvett intézmény által alkalmazottak közalkalmazotti jogviszonyát, illetve munkaviszonyát, valamint az egyéb jogviszony keretében közreműködő dolgozó munkavégzésre irányuló jogviszonyát.
+
+(4) Az átvett intézmény vezetőjének, gazdasági vezetőjének a vezetői megbízását a munkáltatói jog gyakorlója 2013. május 31-éig visszavonhatja.

@@ -1,0 +1,3 @@
+## „b) tizenkettedik életévét be nem töltött gyermek esetén a legközelebbi ideiglenes hatállyal elhelyezett gyermekek ellátását is biztosító nevelőszülőnél, vagy ha erre nincs lehetőség, illetve ha a gyermek tizenkettedik életévét betöltötte vagy egészségi vagy személyiségállapota indokolja – az ideiglenes hatályú elhelyezés biztosítására is kijelölt – gyermekotthonban, fogyatékosok vagy pszichiátriai betegek otthonában helyezi el, és erről haladéktalanul értesíti a gyámhatóságot, illetve külföldi állampolgárságú gyermek esetében – ide nem értve a 4. § (1) bekezdés b) pontja szerinti személyt – a Kormány által kijelölt gyámhatóságot.”
+
+54. § A Gyvt. 77. § (1) bekezdése helyébe a következő rendelkezés lép:

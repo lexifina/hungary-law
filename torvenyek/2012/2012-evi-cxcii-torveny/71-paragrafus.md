@@ -1,0 +1,9 @@
+## „(1a) Az állami fenntartó nyilvántartást vezet a gondozásidíj-fizetési kötelezettség teljesítésére, elmaradására, behajtására, illetve elévülésére vonatkozó adatokról.”
+
+71. § (1) A Gyvt. 151. § (2) bekezdése helyébe a következő rendelkezés lép és a következő (2a) bekezdéssel egészül ki:
+
+## „(2) Ha a szülő (törvényes képviselő) eltérően nem rendelkezik, a nem állami fenntartó az általa fenntartott nevelési-oktatási intézményben, a települési önkormányzat az általa fenntartott óvodában és a közigazgatási területén az állami intézményfenntartó központ által fenntartott nevelési-oktatási intézményben, a fenntartó az egyéb állami fenntartású intézményben a gyermekek és a tanulók számára az óvodai nevelési napokon, illetve az iskolai tanítási napokon biztosítja a déli meleg főétkezést és két további étkezést. A főváros közigazgatási területén lévő tankerületekben az állami intézményfenntartó központ által fenntartott nevelési-oktatási intézményben – a fővárosi önkormányzat saját tulajdonában álló ingatlanban működő nevelési-oktatási intézmények kivételével – az étkeztetést a kerületi önkormányzat biztosítja. A fővárosi önkormányzat köteles biztosítani az étkeztetést azon nevelési-oktatási intézményben, amely saját tulajdonában álló ingatlanban működik. Az étkeztetés biztosítására kötelezett önkormányzat e feladatának ellátásához a közigazgatási területén kívülről érkező gyermek, tanuló lakóhelye szerinti önkormányzattól hozzájárulást kérhet. Iskolai étkeztetésben részesülhet az a tanuló is, aki a napközit nem veszi igénybe. Az étkezések közül az ebéd külön is igényelhető.
+
+## (2a) Ha a (2) bekezdés szerinti gyermekétkeztetést a települési önkormányzat biztosítja, úgy az intézményi térítési díjat a települési önkormányzat állapítja meg.”
+
+(2) A Gyvt. 151. § (9) bekezdése helyébe a következő rendelkezés lép:
