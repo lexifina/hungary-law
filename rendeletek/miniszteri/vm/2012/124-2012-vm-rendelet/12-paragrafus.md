@@ -1,1 +1,0 @@
-## „11. § E rendeletnek a tej- és tejtermék-ágazatban működő termelői szervezetek és társulásaik nemzeti szabályozásáról szóló 124/2012. (XII. 6.) VM rendelettel módosított 5. § (4) bekezdését a 2012. szeptember 1-jétől benyújtott támogatási kérelmekre is alkalmazni kell.”
