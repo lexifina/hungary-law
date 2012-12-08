@@ -1,1 +1,0 @@
-161. § A tagállami hatóságnak a vagyonelkobzást elrendelő tagállami határozat hatályon kívül helyezéséről, visszavonásáról, vagy végrehajthatóságának megszűnéséről szóló értesítése alapján a végrehajtást haladéktalanul meg kell szüntetni.

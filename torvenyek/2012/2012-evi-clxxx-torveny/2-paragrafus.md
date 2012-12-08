@@ -1,1 +1,0 @@
-2. § A tagállamokkal e törvény alapján folytatott eljárásokban a nemzetközi bűnügyi jogsegélyről szóló törvényt, a Büntető Törvénykönyvről szóló törvényt (a továbbiakban Btk.) és a büntetőeljárásról szóló törvényt (a továbbiakban: Be.) az e törvényben foglalt eltérésekkel kell alkalmazni.

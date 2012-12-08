@@ -1,1 +1,0 @@
-14. § Ha a Fővárosi Törvényszék az európai elfogatóparancs végrehajtását megtagadja, a megtagadás okáról a kibocsátó tagállami igazságügyi hatóságot a miniszter a megtagadásról rendelkező jogerős határozat alapján tájékoztatja.

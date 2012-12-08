@@ -1,0 +1,7 @@
+## VII. Fejezet
+
+## A BÜNTETŐELJÁRÁSOK SORÁN FELMERÜLŐ, A TAGÁLLAMOK JOGHATÓSÁGÁNAK GYAKORLÁSÁVAL KAPCSOLATOS ÖSSZEÜTKÖZÉSEK MEGELŐZÉSE, RENDEZÉSE
+
+## 42. Tagállamok közötti információcsere
+
+### 104–105. §

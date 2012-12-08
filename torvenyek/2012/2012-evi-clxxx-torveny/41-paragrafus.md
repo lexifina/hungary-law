@@ -1,1 +1,0 @@
-41. § Ha az eljárási jogsegély iránti megkeresést teljesítik, a külföldi személyek ki- és beutazásának, valamint a tárgyak átadásának és átvételének a magyar útlevél-, az idegenrendészeti és a vámjogszabályok rendelkezései nem képezhetik akadályát.

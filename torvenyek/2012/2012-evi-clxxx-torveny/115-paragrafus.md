@@ -1,1 +1,0 @@
-115. § A Fővárosi Törvényszék határozata ellen – ha e törvény nem zárja ki – fellebbezésnek van helye, amelyet a Fővárosi Ítélőtábla tanácsülésen bírál el. A fellebbezésnek a határozat végrehajtására halasztó hatálya van.

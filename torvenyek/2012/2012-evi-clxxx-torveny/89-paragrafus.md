@@ -1,3 +1,0 @@
-89. § (1) Ha a felügyeleti intézkedést másik tagállamban hajtják végre, és annak meghosszabbítása vagy fenntartása indokolt, az ügyész a felügyeleti intézkedés határidejének lejárta előtt tíz nappal a meghosszabbításra vagy a fenntartásra indítványt tesz a bíróságnak. A bíróság a felügyeleti intézkedés fenntartásáról határozatot hoz, amelyet a felügyeleti intézkedés határidejének lejárta előtt hét nappal megküld a tagállami hatóságnak.
-
-(2) Ha a felügyeleti intézkedés határidejének lejárta előtt a tagállami hatóság a 6. számú mellékletben szereplő formanyomtatványon a határidő lejártáról értesíti a bíróságot, a bíróság az ügyész indítványára dönt a felügyeleti intézkedés fenntartásáról, és az erről szóló határozatát a tagállami hatóságnak haladéktalanul megküldi.

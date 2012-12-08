@@ -1,3 +1,0 @@
-119. § (1) Ha nem állnak fenn a végrehajtás elhalasztásának feltételei, a bíróság az iratok kézhezvételétől számított kilencven napon belül jogerős határozatot hoz a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismeréséről és végrehajtásáról.
-
-(2) Ha kivételes esetben a határozat az (1) bekezdésben meghatározott határidőn belül nem hozható meg, a bíróság – a késedelem okainak és a jogerős határozat meghozatalához előreláthatóan szükséges időnek a közlése mellett – a miniszter útján haladéktalanul tájékoztatja a tagállami igazságügyi hatóságot.

@@ -1,1 +1,0 @@
-130. § A Büntetés-végrehajtás Országos Parancsnoksága havonta tájékoztatja a minisztert az Európai Unió valamely tagállamának állampolgárságával rendelkező, jogerősen szabadságvesztés büntetésre vagy szabadságelvonással járó intézkedésre ítélt személyekről.

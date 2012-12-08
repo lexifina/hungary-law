@@ -1,1 +1,0 @@
-116. § Ha a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismeréséről és végrehajtásáról szóló határozat meghozatalához további információ szükséges, a Fővárosi Törvényszék a miniszter útján keresi meg a tagállami igazságügyi hatóságot.
