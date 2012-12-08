@@ -1,0 +1,27 @@
+19. § A Kötv. 61/D–61/E. §-a helyébe a következő rendelkezés lép:
+
+„61/D. § (1) Az emlékhelyekkel összefüggő állami feladatokat a kultúráért felelős miniszter a Nemzeti Emlékhely és Kegyeleti Bizottság (a továbbiakban: Bizottság) létrehozására és felügyeletére a Kormány által rendeletben kijelölt miniszterrel (a továbbiakban: a Bizottság felügyeletét ellátó miniszter) egyetértésben látja el.
+
+(2) A kultúráért felelős miniszter az (1) bekezdés szerinti feladatai körében különösen az alábbi tevékenységet látja el:
+
+a) érvényesíti az emlékhelyekkel kapcsolatos érdekeket az emlékhelyeket érintő jogszabályok előkészítése során, illetve átfogó tervezési programokban;
+
+b) felméri, és folyamatosan figyelemmel kíséri az emlékhelyek állapotát, továbbá megteszi az emlékhelyekhez fűződő nemzeti érték megőrzéséhez, fenntartásához és bemutatásához szükséges intézkedéseket;
+
+c) a turizmusért felelős miniszterrel együttműködésben gondoskodik az emlékhelyek fenntartható használata, fejlesztése és bemutatása érdekében tervek, programok, projektek előkészítéséről és megvalósításáról;
+
+d) gondoskodik az emlékhelyekhez fűződő nemzeti értéket hordozó örökség megismerését, fejlesztését és bemutatását elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról;
+
+e) nemzetközi megállapodások keretében együttműködésre törekszik határon túli helyszínek esetén az érintett állam felelős miniszterével; valamint
+
+f) évente jelentést készít a Kormány részére, és négyévente beszámol az Országgyűlés illetékes bizottságának az emlékhelyek állapotáról.
+
+61/E. § (1) A kultúráért felelős miniszter a 61/D. § (2) bekezdés b)–d) és f) pontjában meghatározott állami feladatokat – a (2) bekezdésben foglaltak kivételével – a Bizottság útján látja el. Az emlékhelyekkel összefüggő feladatok tekintetében a kultúráért felelős miniszter a Bizottság felett szakmai irányítói jogkört gyakorol.
+
+(2) A kultúráért felelős miniszter a 61/D. § (2) bekezdés b) és c) pontjában meghatározott állami feladatok ellátására a nemzeti emlékhely tulajdonosával megállapodást köt. A 61/D. § (2) bekezdés a)–d) pontjában meghatározott állami feladatokat a kiemelt nemzeti emlékhely esetében az Országgyűlés elnöke a kultúráért felelős miniszterrel egyetértésben látja el. E feladatok ellátásáról az Országgyűlés elnöke évente beszámol az Országgyűlés Házbizottságának.
+
+(3) A Bizottság ellátja a történelmi emlékhellyé és a nemzeti emlékhellyé nyilvánítás előkészítésével, valamint a történelmi emlékhelyekkel és a nemzeti emlékhelyekkel kapcsolatos véleményező, javaslattevő, adminisztratív és ellenőrzési feladatokat.
+
+(4) A kultúráért felelős miniszter a Bizottság javaslatára, a Bizottság felügyeletét ellátó miniszterrel egyetértésben kezdeményezi a Kormánynál egyes helyszínek történelmi emlékhellyé nyilvánítását.
+
+(5) A kultúráért felelős miniszter a Bizottság javaslatára a Bizottság felügyeletét ellátó miniszterrel egyetértésben kezdeményezi a Kormánynál törvényjavaslat benyújtását az Országgyűléshez egyes helyszínek nemzeti emlékhellyé nyilvánítására.”
