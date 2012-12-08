@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-31-00-00
 | 2012-08-01 | 2012. évi CXVIII. törvény | 1997-31-00-00.57 |
 | 2012-09-01 | 2012. évi CXVIII. törvény | 1997-31-00-00.58 |
 | 2012-10-01 | 2012. évi CXVIII. törvény | 1997-31-00-00.59 |
+| 2012-12-08 | 2012. évi CXCII. törvény | 1997-31-00-00.60 |

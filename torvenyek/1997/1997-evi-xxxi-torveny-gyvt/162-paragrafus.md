@@ -48,7 +48,7 @@ v) az új szolgáltatóknak, intézményeknek, hálózatoknak, illetve férőhel
 
 w) a családok átmeneti otthona által működtetett krízisközpont finanszírozásának rendjére vonatkozó részletes szabályokat,
 
-x) a megyei fenntartó kijelölését,
+x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait,
 
 y)
 
@@ -77,6 +77,8 @@ i) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részlet
 j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait,
 
 k) a bölcsődében a nevelés-gondozás nélküli munkanapok számát, célját, időpontját, valamint az e napokon nyújtott ellátás tartalmát,
+
+l) a Biztos Kezdet Gyerekház szakmai feladatait és működési feltételeit.
 
 (3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
 
