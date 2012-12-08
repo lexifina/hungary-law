@@ -8,4 +8,4 @@
 
 ## (15) A pedagógus-munkakörben foglalkoztatott személyt a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint pótszabadság illeti meg.”
 
-36. § A Gyvt. 34. § (6) bekezdése helyébe a következő rendelkezés lép:
+### 36. §
