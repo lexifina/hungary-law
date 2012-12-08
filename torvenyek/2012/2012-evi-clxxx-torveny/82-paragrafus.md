@@ -1,0 +1,1 @@
+82. § A nyomozási bíró a felügyeleti intézkedés végrehajtása során bármikor megkereséssel fordulhat a tagállami hatósághoz azzal kapcsolatban, hogy a felügyeleti intézkedés végrehajtásának ellenőrzése a továbbiakban is indokolt-e.

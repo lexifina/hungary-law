@@ -1,0 +1,9 @@
+8. § (1) Ha az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, és a keresett személy olyan magyar állampolgár, aki Magyarország területén lakóhellyel rendelkezik, a Fővárosi Törvényszék az európai elfogatóparancs végrehajtását megtagadja, és – ha az előzetes adatok alapján nem áll fenn a végrehajtás átvételének egyetlen megtagadási oka sem – elrendeli a keresett személy ideiglenes végrehajtási letartóztatását, és az erről szóló határozatát haladéktalanul megküldi az igazságügyért felelős miniszternek (a továbbiakban: miniszter). A miniszter kezdeményezi a tagállamnál az elítélt szabadságvesztés büntetése vagy szabadságelvonással járó intézkedése végrehajtásának átvételét.
+
+(2) Az ideiglenes végrehajtási letartóztatás legfeljebb a szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtására vonatkozó határozat meghozataláig tart, és nem lehet hosszabb, mint a tagállami határozatban szereplő büntetés vagy intézkedés tartama.
+
+(3) Az ideiglenes végrehajtási letartóztatás teljes időtartamát be kell számítani a bíróság által elismert és végrehajtásra átvett szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés tartamába.
+
+(4) A tárgyaláson ügyész és védő részvétele kötelező.
+
+(5) Ha az európai elfogatóparancsot büntetőeljárás lefolytatása céljából bocsátották ki, és a keresett személy olyan magyar állampolgár, aki Magyarország területén lakóhellyel rendelkezik, csak akkor adható át, ha a kibocsátó tagállami igazságügyi hatóság megfelelő jogi garanciát nyújt arra, hogy szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a keresett személyt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére.

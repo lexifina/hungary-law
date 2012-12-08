@@ -1,0 +1,3 @@
+38. § (1) A megkeresést írásban, indokolt esetben a megkereső azonosítását lehetővé tevő más alkalmas módon vagy eszközzel – különösen telefax vagy számítástechnikai rendszer útján – is elő lehet terjeszteni, és az így előterjesztett megkeresést szabályszerűnek kell tekinteni.
+
+(2) Ha a magyar igazságügyi hatóságnak a megkeresés teljesítésére nincs hatásköre vagy nem rendelkezik illetékességgel, a megkeresést haladéktalanul átteszi a hatáskörrel és illetékességgel rendelkező magyar igazságügyi hatósághoz. A megkeresés áttételéről – a magyar igazságügyi hatóság pontos megjelölésével – az áttételt elrendelő magyar igazságügyi hatóság értesíti a tagállami igazságügyi hatóságot.

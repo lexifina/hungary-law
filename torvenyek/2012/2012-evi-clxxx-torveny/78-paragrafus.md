@@ -1,0 +1,3 @@
+78. § (1) A nyomozási bíró az elismerő határozatában a tagállami határozatban elrendelt felügyeleti intézkedésnek a magyar jog szerint leginkább megfelelő felügyeleti intézkedést állapítja meg alkalmazandó felügyeleti intézkedésként, azonban az nem lehet szigorúbb a tagállami határozatban elrendelt felügyeleti intézkedésnél.
+
+(2) Ha ugyanazon terhelt ellen különböző bűncselekmények miatt több tagállam hatósága rendelt el felügyeleti intézkedést, és azok végrehajtását Magyarországtól kérik, a nyomozási bíró a szigorúbb felügyeleti intézkedést elrendelő tagállami határozatot ismeri el és hajtja végre.

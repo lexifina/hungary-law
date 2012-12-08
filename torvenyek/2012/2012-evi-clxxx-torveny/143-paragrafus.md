@@ -1,0 +1,1 @@
+143. § Az alternatív szankciót kiszabó tagállami határozat végrehajtásának befejezéséről a bíróság a tagállami hatóságot írásban, posta, telefax vagy számítástechnikai rendszer útján értesíti. A számítástechnikai rendszer útján továbbított iratot minősített elektronikus aláírással kell ellátni.

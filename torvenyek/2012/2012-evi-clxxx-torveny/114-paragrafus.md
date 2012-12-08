@@ -1,0 +1,1 @@
+114. § Ha a Fővárosi Törvényszék a 112. § (1) bekezdés h) pontjára tekintettel a tagállami határozat vagy a határozat lényeges részeinek magyar nyelvre történő lefordítását kéri, a végrehajtásról szóló határozat meghozatala elhalasztható a fordítás kézhezvételéig.
