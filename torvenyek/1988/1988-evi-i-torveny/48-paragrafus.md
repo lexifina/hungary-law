@@ -150,7 +150,7 @@ b) a miniszter, hogy
 
 36. a közút lakott területen kívüli szakasza mellett a közlekedés biztonságát elősegítő közérdekű tájékoztató táblák szakmai tartalmát, valamint engedélyezésüket meghatározó testület létrehozásának, valamint a testület eljárásának részletes szabályait,
 
-37. a közúti forgalom biztonságát veszélyeztető módon vesztegelő gépjárművek elszállításának szabályait
+37. a közúti forgalom biztonságát veszélyeztető módon veszteglő gépjárművek elszállításának, tárolásának és értékesítésének szabályait
 
 c) a miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter egyetértésével kiadott,
 
