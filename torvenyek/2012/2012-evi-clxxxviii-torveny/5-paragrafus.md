@@ -1,0 +1,5 @@
+5. § (1) A Központ alapító okiratát az irányító szerve 2013. január 1-jei hatállyal akként módosítja, hogy a 2012. december 31-én OM azonosítóval rendelkező, beolvadással érintett intézmény és a 2. § (1) bekezdése szerinti esetben a többcélú intézmény 2013. január 1-jétől állami köznevelési alapfeladatnak minősülő feladatot ellátó intézményegysége (a továbbiakban: intézményegység) a Központnak az államháztartásról szóló 2011. évi CXCV. törvény 7. § (1) bekezdése szerinti önálló jogi személyiséggel rendelkező szervezeti egységeként működjön.
+
+(2) A Központ alapító okirata módosításának tényét a hivatalnak bejelenti.
+
+(3) A hivatal a Központnak a 4. § (1) bekezdése szerint beolvadással létrejött önálló jogi személyiséggel rendelkező szervezeti egységét a jogelőd intézmény OM azonosítójával veszi nyilvántartásba. Az intézményegység azon többcélú intézmény OM azonosítóját kapja meg, amelynek 2012. december 31-én szervezeti egysége volt. Az önkormányzati fenntartó 2. § (1) bekezdése szerint átszervezett többcélú intézménye, ha az köznevelési alapfeladatot továbbra is ellát, új OM azonosítót kap.

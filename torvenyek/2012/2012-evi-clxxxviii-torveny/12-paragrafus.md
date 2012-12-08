@@ -1,0 +1,9 @@
+12. § (1) Ha a 8. §-ban és a 10. §-ban meghatározott célokat szolgáló vagyon nem az önkormányzati fenntartó tulajdonában, hanem bérleti vagy más szerződés alapján a használatában van, a Központ a használat időtartama alatt, annak időtartamára – az erre irányuló nyilatkozata alapján – az önkormányzati fenntartó helyett beléphet a bérleti szerződésbe.
+
+(2) A Központ a 8. §-ban és a 10. §-ban meghatározott célokat szolgáló ingó vagyon feletti ingyenes használati jogát – szükség esetén az ingó vagyonelemek fizikai mozgatásával – a tulajdonos települési önkormányzat előzetes hozzájárulásával jogosult gyakorolni az állam tulajdonában és a Központ vagyonkezelésében lévő bármely ingatlanban. Az ingó vagyonelem e bekezdés szerinti fizikai mozgatása kizárólag az ingó vagyonelem azonosító adatainak és az új használati helynek a megjelölésével történhet.
+
+(3) Nem terheli az önkormányzati fenntartót a 8. §-ban és a 10. §-ban meghatározott célokat szolgáló ingatlan ingyenes használati jogának biztosítására vonatkozó kötelezettség, ha az átvételre kerülő köznevelési feladat ellátásához megfelelő méretű és állapotú ingatlant ajánl fel az állam használatába és erről a felek megegyeznek.
+
+(4) Ha a 8. §-ban és a 10. §-ban meghatározott célokat szolgáló ingatlanon jelzálogjog áll fenn, a jelzálog jogosultja kielégítési jogának megnyílta esetén a települési önkormányzat köteles másik, azonos funkciójú, méretű és állapotú ingatlan ingyenes használatát a Központnak felajánlani. Ha a települési önkormányzat másik ingatlant nem tud felajánlani, a jelzálogjog jogosultja és a települési önkormányzat között egyezség létrehozását kell megkísérelni a kielégítési jog gyakorlásának elhalasztásáról.
+
+(5) A Központ az ingyenes használat időtartama alatt – a települési önkormányzatnak címzett nyilatkozata alapján – lemondhat a vagyon vagy annak egy része használati jogáról.
