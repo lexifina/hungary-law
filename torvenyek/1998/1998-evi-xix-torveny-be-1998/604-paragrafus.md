@@ -79,3 +79,5 @@ az idézésekre, értesítésekre, határozatokra, jegyzőkönyvekre és az elj�
 (7) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott rendeletben szabályozza a büntetőeljárásban elrendelt elővezetés végrehajtásával, valamint a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, illetőleg nyomozó hatóság elé állításával felmerült költség megtérítésének részletes szabályait.
 
 (8) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben szabályozza az irányítása alá tartozó nyomozó hatóságok hatáskörét és illetékességét.
+
+## Hatálybalépés

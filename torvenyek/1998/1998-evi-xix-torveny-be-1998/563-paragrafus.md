@@ -1,4 +1,4 @@
-## A pénzbüntetés átváltoztatása szabadságvesztésre
+## A pénzbüntetés átváltoztatása
 
 563. § (1) A pénzbüntetésnek szabadságvesztésre való átváltoztatásáról a bíróság hivatalból vagy az ügyész indítványára határoz, ha az elítélt a pénzbüntetést nem fizette meg.
 
