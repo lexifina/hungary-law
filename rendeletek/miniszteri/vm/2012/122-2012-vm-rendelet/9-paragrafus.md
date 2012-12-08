@@ -1,1 +1,0 @@
-## „(15) Ha a 4. § (7) bekezdésében előírt feltétel a támogatott tevékenység elvégzésekor, illetve azt követően nem teljesül, akkor az jogosulatlan részvételnek minősül az adott erdőrészlet vonatkozásában.”
