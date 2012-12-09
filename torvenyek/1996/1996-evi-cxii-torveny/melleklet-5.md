@@ -175,17 +175,3 @@ az alárendelt kölcsöntőke figyelembe nem vehető része.
 a) kielégíti a 11. pont a)–m) és o)–q) alpontban meghatározott feltételeket, és
 
 b) ha egy adott évben a 11. pont k) alpontjában meghatározott szabály alapján kamat vagy bármilyen más jogcímen kifizetés nem teljesíthető, akkor a következő években a kölcsönnyújtó erre az elmaradt összegre kizárólag akkor tarthat igényt, ha a teljesítés a 11. pont k) alpontjában meghatározott szabályok alapján lehetséges. A kölcsönnyújtó késedelmi kamatra nem tarthat igényt.
-
-19. A törvény alkalmazásában alárendelt kölcsöntőkének minősül minden olyan kölcsön, amely kielégíti az alábbi feltételeket:
-
-a) ténylegesen rendelkezésre áll, az igénybe vevő hitelintézet számára azonnal, jogvita vagy sortartási kötelezettség nélkül hozzáférhető, hitelviszonyt megtestesítő értékpapír esetén nem került visszaváltásra vagy visszavásárlásra, továbbá az igénybe vevő hitelintézet mérlegében szerepel,
-
-b) az alárendelt kölcsöntőke nyújtására vonatkozó szerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a hitelintézet adósságának rendezésébe és a kölcsönt nyújtó követelése a törlesztések sorrendjében a részvényesek, valamint az alapvető és járulékos kölcsöntőkenyújtók előtti legutolsó helyen áll,
-
-c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – eredeti futamideje 5 évet meghaladó lejáratú, és legkevesebb 5 év múlva fizetendő vissza, illetve, ha a lejárat nincs meghatározva, a kölcsön csak a szerződésben rögzített, a felmondástól számított, legkevesebb 5 év múlva fizethető vissza, kivéve, ha a Felügyelet engedélyezi a korábbi visszafizetést,
-
-d) a kölcsönszerződés, illetve az értékpapírban foglalt jogok semminemű olyan feltételt nem tartalmaznak, amely a kapcsolódó kamat- és járulékfizetést megnöveli, kivéve mozgó kamatozás esetén a referenciakamat emelkedéséből adódó kamatnövekedést,
-
-e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – az eredeti lejárat vagy a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
-
-f) az alárendelt kölcsöntőkével kapcsolatosan kizárt a kölcsöntőkét nyújtó bármiféle beszámítási joga a kölcsönfelvevővel szemben.

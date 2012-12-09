@@ -35,3 +35,7 @@ d) díjat vagy költséget évente legfeljebb a Központi Statisztikai Hivatal �
 (13) Az ügyfél hirdetményben történő tájékoztatása során biztosítani kell, hogy megállapítható legyen, melyik kamat-, díj- vagy költségelem milyen mértékben változik. Az ügyfél számára elérhetővé kell tenni a módosítás okait.
 
 (14) A pénzügyi intézmény az ügyfél számára nem kedvezőtlenül egyoldalúan módosíthatja az ügyféllel kötött szerződés feltételeit.
+
+(15) A (3) bekezdésben meghatározott szerződés felmondását megelőzően a pénzügyi intézmény a fogyasztónak, valamint a szerződésben kezesként részt vevő személynek, továbbá – ha a zálogfedezetet nem a hitelfelvevő nyújtja – a zálogkötelezettnek küldött írásbeli fizetési felszólításban felhívja a fogyasztó, valamint a kezes, illetve a zálogkötelezett figyelmét a teljes fennálló és a lejárt tartozás összegére, a fizetendő kamat és késedelmi kamat mértékére, valamint a nemfizetés esetén növekvő kamatteherre és a tartozás rendezésének elmaradása esetén a várható jogkövetkezményekre.
+
+(16) A (3) bekezdésben meghatározott szerződés felmondását a pénzügyi intézmény a fogyasztónak és a kezesnek megküldi. A felmondás megküldésének igazolása a pénzügyi intézményt terheli.
