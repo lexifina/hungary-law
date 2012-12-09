@@ -4,4 +4,4 @@
 
 (2) Az 1. §, a 2. § (1) és (4) bekezdése, a 4. §, az 5. § 2013. január 1-jén lép hatályba.
 
-(3) Hatályát veszti az egyes közlekedési tárgyú törvények módosításáról szóló 2012. évi CXIX. törvény 73. §-a.
+(3)
