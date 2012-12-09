@@ -40,7 +40,7 @@ b) a szerződés megkötésének, lejáratának, megszűnésének időpontja,
 
 c) ügyféli minőség (adós, adóstárs),
 
-d) a szerződés összege, a szerződéses összeg törlesztő részletének összege és devizaneme, valamint a törlesztés módja és gyakorisága,
+d) a szerződés összege és devizaneme, valamint a törlesztés módja és gyakorisága,
 
 e) a 11. § (1) bekezdésében meghatározott feltételek bekövetkezésének időpontja,
 
@@ -52,7 +52,9 @@ h) a követelés másik referenciaadat-szolgáltató részére történő átruh
 
 i) előtörlesztés ténye, ideje, az előtörlesztett összeg és a fennálló tőketartozás összege, pénzneme,
 
-j) fennálló tőketartozás összege és pénzneme.
+j) fennálló tőketartozás összege és pénzneme,
+
+k) a szerződéses összeg törlesztő részletének összege és devizaneme.
 
 1.3. Az adatszolgáltatás tárgyát képező szerződés adatai:
 
@@ -108,7 +110,7 @@ b) a szerződés megkötésének, lejáratának, megszűnésének időpontja,
 
 c) a szerződés megszűnésének módja,
 
-d) a szerződés összege a szerződéses összeg törlesztő részletének összege és devizaneme, valamint a törlesztés módja,
+d) a szerződés összege és devizaneme, valamint a törlesztés módja és gyakorisága,
 
 e) a 14. §-ban meghatározott feltételek bekövetkezésének időpontja,
 
@@ -122,7 +124,9 @@ i) a követelés másik referenciaadat-szolgáltató részére történő átruh
 
 j) előtörlesztés ténye, ideje, az előtörlesztett összeg és a fennálló tőketartozás összege, valamint pénzneme,
 
-k) fennálló tőketartozás összege és pénzneme.
+k) fennálló tőketartozás összege és pénzneme,
+
+l) a szerződéses összeg törlesztő részletének összege és devizaneme.
 
 2.3. Azon pénzforgalmi számlákkal kapcsolatos adatok, amelyeken sorba állított követeléseket tartottak nyilván:
 

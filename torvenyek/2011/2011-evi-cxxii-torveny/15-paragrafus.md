@@ -10,7 +10,7 @@
 
 (5) A referenciaadat-szolgáltató a vállalkozások részére – az adatátadás céljának, az átadandó adatok körének, valamint annak a megjelölésével, hogy a KHR-be történt adatátadást követően a referenciaadatokat a KHR-t kezelő pénzügyi vállalkozás az 1. §-ban meghatározott célból további referenciaadat-szolgáltatók részére is átadhatja – a szerződés megkötését megelőzően írásbeli tájékoztatást köteles adni arról, hogy a 14–14/B. §-ban meghatározott esetben referenciaadataik bekerülnek a KHR-be.
 
-(6) A referenciaadat-szolgáltató a 6. § (5) bekezdés szerinti referenciaadatot kivéve, valamennyi e törvény szerinti, a KHR-t kezelő pénzügyi vállalkozás részére történő adatátadást követően legfeljebb öt munkanapon belül írásban tájékoztatja a nyilvántartott személyt az adatátadás megtörténtéről.
+(6) A referenciaadat-szolgáltató a 6. § (5) bekezdés szerinti referenciaadatot kivéve, valamennyi e törvény szerinti, a KHR-t kezelő pénzügyi vállalkozás részére történő adatátadását követő legfeljebb öt munkanapon belül írásban tájékoztatja a nyilvántartott természetes személyt az adatátadás megtörténtéről.
 
 (7) Bármely referenciaadat-szolgáltatónál bárki jogosult tájékoztatást kérni arról, hogy milyen adatai szerepelnek a KHR-ben, és ezen adatait mely referenciaadat-szolgáltató adta át. A KHR-ben nyilvántartott saját adatait, valamint az arról szóló információt, hogy ki, mikor és milyen jogcímen fért hozzá ezen adatokhoz, a nyilvántartott személy korlátozás nélkül megismerheti, ezért költségtérítés és egyéb díj nem számolható fel.
 

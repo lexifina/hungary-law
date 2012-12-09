@@ -6,9 +6,9 @@
 
 (2) A referenciaadat-szolgáltató a pénzügyi szolgáltatásra vonatkozó szerződés, a befektetési hitel nyújtására vonatkozó szerződés, valamint az értékpapír-kölcsönzésre vonatkozó szerződés, továbbá a jogszabályban meghatározott hallgatói hitelszerződés (a továbbiakban együtt: az adatszolgáltatás tárgyát képező szerződés) megkötését követően írásban átadja a KHR részére
 
-a) a természetes személynek a melléklet II. fejezetének 1.1 pontja és 1.2 pontjának a)–d) alpontjai szerinti referenciaadatait,
+a) a természetes személynek a melléklet II. fejezetének 1.1 pontja és 1.2 pontjának a)–d) és k) alpontja szerinti referenciaadatait,
 
-b) a vállalkozásoknak a melléklet II. fejezetének 2.1 pontja és 2.2 pontja a)–d) alpontja szerinti referenciaadatait.
+b) a vállalkozásoknak a melléklet II. fejezetének 2.1 pontja és 2.2 pontja a)–d) és l) alpontja szerinti referenciaadatait.
 
 (3) A referenciaadatok KHR-be történő átadását megelőzően a referenciaadat-szolgáltató beszerzi a természetes személy ügyfél írásbeli nyilatkozatát arra vonatkozóan, hogy hozzájárul-e az adatai KHR-ből történő, más referenciaadat-szolgáltató általi – a (7) bekezdés szerinti – átvételéhez. Ezt a hozzájárulást a természetes személy ügyfél – az adatok KHR-ben történő nyilvántartásának időtartama alatt – bármikor megadhatja. Nem szükséges az ügyfél hozzájárulása a 11–13. § alapján kezelt adatok átvételéhez. Ha az ügyfél nem járul hozzá adatai KHR-ből történő átvételéhez, úgy a KHR a melléklet II. fejezetének 1.1 pontja és 1.2 pont a)–d) alpontjai, valamint az 1.5 pontja szerinti adatokat tartalmazza.
 
