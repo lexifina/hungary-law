@@ -4,13 +4,16 @@
 
 a) a biztosított neve, lakcíme, székhelye, regisztrációs száma,
 
-b)[^13] a biztosított növények neve, területe, hozama,
+b)[^28] a biztosított növények neve, területe, hozama,
 
-c)[^14] a b) pont szerinti növényekhez tartozó éves adó- és járulékmentes díjelőírás.
+c)[^29] a b) pont szerinti növényekhez tartozó éves adó- és járulékmentes díjelőírás.
 
 (2) Az (1) bekezdésben nem szereplő adatok átadása az MVH és a biztosító együttműködési megállapodásában rögzítettek szerint történik.
 
 (3) Az Mkk tv. alkalmazásában a gazdasági elemzésekkel foglalkozó intézmény az Agrárgazdasági Kutató Intézet.
 
-[^13]: A 11. § (1) bekezdés b) pontja a 21/2012. (III. 9.) VM rendelet 17. § (8) bekezdésével megállapított szöveg.
-[^14]: A 11. § (1) bekezdés c) pontja a 21/2012. (III. 9.) VM rendelet 17. § (8) bekezdésével megállapított szöveg.
+(4)[^30] A biztosító a biztosítási szerződés visszamenőleges hatályú megszűnéséről havonta tájékoztatja az MVH-t.
+
+[^28]: A 11. § (1) bekezdés b) pontja a 21/2012. (III. 9.) VM rendelet 17. § (8) bekezdésével megállapított szöveg.
+[^29]: A 11. § (1) bekezdés c) pontja a 21/2012. (III. 9.) VM rendelet 17. § (8) bekezdésével megállapított szöveg.
+[^30]: A 11. § (4) bekezdését a 125/2012. (XII. 10.) VM rendelet 6. §-a iktatta be.

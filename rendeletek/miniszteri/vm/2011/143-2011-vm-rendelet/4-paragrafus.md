@@ -1,30 +1,34 @@
 ## Az „A” típusú mezőgazdasági biztosítás díjának támogatása
 
-4. § (1) Az „A” típusú mezőgazdasági biztosítás keretében az alábbi növényi kultúrákra köthető mezőgazdasági biztosítási szerződés:
+4. § (1)[^13] Az „A” típusú mezőgazdasági biztosítás keretében az alábbi növényi kultúrákra köthető mezőgazdasági biztosítási szerződés:
 
-a) őszi búza,
+1. búza és kétszeres és egyéb búza (kivéve tönkölybúza) (GAB01),
 
-b) tavaszi búza,
+2. árpa (GAB04),
 
-c) őszi árpa,
+3. káposztarepce (IPA02),
 
-d) tavaszi árpa,
+4. tritikále (GAB08),
 
-e) őszi káposztarepce,
+5. rozs (GAB03),
 
-f) triticale,
+6. napraforgómag (IPA17),
 
-g) rozs,
+7. kukorica (GAB06),
 
-h) ipari napraforgó,
+8. borszőlő ültetvény (ULT19),
 
-i) takarmánykukorica,
+9. alma (ULT01),
 
-j) borszőlő,
+10. hagyományos gyümölcsös alma (HAG01),
 
-k) alma.
+11. egyéb szőlőültetvény (ULT20),
 
-(2)[^6] Az „A” típusú mezőgazdasági biztosítás keretében a biztosított növényi kultúra vonatkozásában értelmezhető alábbi kárnemek mindegyikére együttesen kötendő mezőgazdasági biztosítás:
+12. körte (ULT15),
+
+13. hagyományos gyümölcsös körte (HAG15).
+
+(2)[^14] Az „A” típusú mezőgazdasági biztosítás keretében a biztosított növényi kultúra vonatkozásában értelmezhető alábbi kárnemek mindegyikére együttesen kötendő mezőgazdasági biztosítás:
 
 a) jégesőkár,
 
@@ -44,4 +48,5 @@ h) tűzkár.
 
 (3) A biztosító a mezőgazdasági biztosítási szerződésben rögzített kárnemek által okozott biztosítási események bekövetkeztét és az (1) bekezdésben felsorolt valamely érintett növényi kultúra károsodását a káraktával igazolja.
 
-[^6]: A 4. § (2) bekezdése a 21/2012. (III. 9.) VM rendelet 17. § (5) bekezdésével megállapított szöveg.
+[^13]: A 4. § (1) bekezdése a 125/2012. (XII. 10.) VM rendelet 2. §-ával megállapított szöveg.
+[^14]: A 4. § (2) bekezdése a 21/2012. (III. 9.) VM rendelet 17. § (5) bekezdésével megállapított szöveg.
