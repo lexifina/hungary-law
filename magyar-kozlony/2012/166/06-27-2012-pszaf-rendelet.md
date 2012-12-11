@@ -1,0 +1,280 @@
+# A Pénzügyi Szervezetek Állami Felügyelete elnökének 27/2012. (XII. 11.) PSZÁF rendelete
+
+Magyar Közlöny 2012. évi 166. szám, 2012. december 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/cf584a0d919375c84ce7332b7261e8f2e561d4c9/dokumentumok/33686ef61542c3964a8f6dde9e03898e966295e5/letoltes)
+
+---
+
+A Pénzügyi Szervezetek Állami Felügyelete elnökének 27/2012. (XII. 11.) PSZÁF rendelete
+a hitelintézetek és a befektetési vállalkozások által a 300 millió forint feletti javadalmazásban
+részesített személyekkel kapcsolatban a Pénzügyi Szervezetek Állami Felügyelete részére
+szolgáltatandó adatok köréről
+A Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény 117. § (1) bekezdés a) pontjában kapott felhatalmazás
+alapján, a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény 21. § n) pontjában meghatározott
+feladatkörömben eljárva a következőket rendelem el:
+1. § E rendelethatályaamagyarországiszékhelyűhitelintézetre,ahitelintézettelegyenértékűprudenciálisszabályozásnak
+megfelelő pénzügyi vállalkozásra és a befektetési vállalkozásra (a továbbiakban együtt: intézmény) terjed ki.
+2. § E rendelet alkalmazásában
+1. harmadik ország: olyan ország, amely nem részese az Európai Gazdasági Térségről szóló megállapodásnak.
+2. tárgyévi javadalmazás:
+a) a tárgyév teljesítményéért az intézmény által a tárgyévben kifizetett, a személyi jövedelemadóról szóló
+1995. évi CXVII. törvény szerinti jövedelem, valamint a tárgyév teljesítményéért a tárgyév végéig
+számvitelileg elhatárolt, és a tárgyév lezárását követően kifizetendő, nem halasztott jövedelem;
+b) a tárgyév teljesítményéért a tárgyév végéig számvitelileg elhatárolt, és a tárgyév lezárását követően
+kifizetendő halasztott jövedelem; és
+c) a tárgyévet megelőző üzleti év, illetve évek teljesítményéért a tárgyévre halasztott, és az intézmény által
+a tárgyévben kifizetett vagy elhatárolt jövedelem, kivéve, ha azt az intézmény a tárgyévet megelőző üzleti
+évben, illetve években a b) pont szerint számvitelileg elhatárolta.
+3. vezető állású személy: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben, illetve a befektetési
+vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló
+törvényben ilyenként meghatározott személy.
+3. § (1) Az e rendeletben előírt adatszolgáltatási kötelezettséget az összevont alapú felügyelet alá nem tartozó intézménynek
+egyedi alapon, az összevont alapú felügyelet alá tartozó intézménynek a hitelintézetekről és a pénzügyi
+vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 90. § (2) bekezdésében, illetve a tőkepiacról szóló
+2001. évi CXX. törvény 181/A. § (2) bekezdésében meghatározott vállalkozásokvonatkozásábanösszevont alapon kell
+teljesíteni.
+(2) Az (1) bekezdéstől eltérően az összevont felügyelet alá nem tartozó befektetési vállalkozásnak nem kell az
+e rendeletben előírt adatszolgáltatási kötelezettséget teljesíteni, ha nem rendelkezik a befektetési vállalkozásokról és
+az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi
+CXXXVIII. törvény (a továbbiakban: Bszt.) 5. § (1) bekezdés c) és f) pontjában meghatározott befektetési szolgáltatási
+tevékenység végzésére engedéllyel.
+(3) Az (1) bekezdésalkalmazásasorána harmadikországbanbejegyzett leányvállalatotés fióktelepetnem kellfigyelembe
+venni.
+4. § Az intézmény a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) által kiadott tevékenységi
+engedély visszavonásáról szóló határozat jogerőre emelkedésének napjáig köteles az e rendeletben előírt
+adatszolgáltatás teljesítésére.
+5. § (1) Az e rendeletben előírt adatszolgáltatási kötelezettséget a tárgyévi javadalmazásra vonatkozóan kell teljesíteni.
+(2) Az e rendeletben előírt adatszolgáltatási kötelezettséget az intézménynek az 1. mellékletben foglaltaknak megfelelő
+tartalommal és formában a 2. mellékletben meghatározott kitöltési útmutató szerint kell elkészíteni, és a Felügyelet
+részére megküldeni a tárgyévet követő naptári év június 30-ig.
+6. § (1) Az e rendeletben előírt adatszolgáltatási kötelezettséget az intézménynek az Európai Gazdasági Térségről szóló
+megállapodásban részes minden olyan állam vonatkozásában országonkénti bontásban teljesítenie kell, amelyben
+van olyan vezető állású személy vagy munkavállaló, akit az intézmény 300 millió forint feletti tárgyévi
+javadalmazásban részesített.
+
+(2) A 300 millió forint feletti tárgyévi javadalmazásban részesített vezető állású személyt vagy munkavállalót arra
+az országra vonatkozó adatszolgáltatásban kell feltüntetni, amelyben az adott vezető állású személy vagy
+munkavállaló szakmai tevékenységét kifejti.
+(3) Ha a 300 millióforint feletti tárgyévi javadalmazásbanrészesített vezető állásúszemélyvagy munkavállalóa csoporton
+belül több országban is javadalmazásban részesült, akkor arra az országra vonatkozó adatszolgáltatásban kell
+feltüntetni, amelyben a szakmai tevékenysége jelentős részét kifejti.
+7. § (1) Az e rendeletben előírt adatszolgáltatási kötelezettség keretében a pénzösszegre vonatkozó adatokat az
+intézménynek millió forintban kell megadni.
+(2) Ha a tárgyévi javadalmazástazintézményforinttóleltérőpénznembennyújtotta, akkora javadalmazásösszegétát kell
+számítani forintra a tárgyév végére vonatkozó, az Európai Unió költségvetésének tervezéséhez alkalmazott
+árfolyamon, melyet az Európai Bizottság a honlapján megjelentet.
+8. § (1) Az e rendeletben előírt adatszolgáltatási kötelezettséget a Felügyelet által meghatározott elektronikus formában,
+fokozott biztonságú vagy minősített elektronikus aláírással ellátva (a továbbiakban: elektronikus úton) a Felügyelet
+Kihelyezett Adatküldő Program rendszerén (a továbbiakban: adatfogadó rendszer) keresztül kell teljesíteni.
+(2) A Felügyelet az 5. § szerinti kötelezettséget akkor tekinti teljesítettnek, ha az intézmény elektronikus úton megküldött
+felügyeleti jelentése az adatfogadó rendszerben „feldolgozott” státuszt kap, amelyről a Felügyelet automatikus
+elektronikus üzenetet küld az adatszolgáltatónak.
+(3) Az intézmény az adatszolgáltatási kötelezettség teljesítéséhez szükséges iratokat és a számviteli, nyilvántartási,
+informatikai rendszerekben tárolt információkat a rendszeres adatszolgáltatás esedékessége naptári évének utolsó
+napjától számított öt évig a Felügyelet kérésére bármikor köteles rendelkezésre bocsátani.
+Átmeneti és záró rendelkezések
+9. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+(2) A 2011. évi javadalmazásra vonatkozó adatszolgáltatást az intézménynek 2013. január 15-ig kell a Felügyelet részére
+megküldeni.
+Dr. Szász Károly s. k.,
+a Pénzügyi Szervezetek Állami Felügyeletének elnöke
+
+1. melléklet a 27/2012. (XII. 11.) PSZÁF rendelethez
+
+Vállalati
+pénzügyek,
+kereskedési és
+értékesítési
+tevékenység
+Kereskedelmi
+banki és
+lakossági banki
+tevékenység
+Portfóliókezelési
+tevékenység
+Egyéb
+tevékenység
+Mód.
+1 2 3 4 5 6
+a b c d e z
+001 RH101 Ország neve
+002 RH1011
+300 millió forint feletti tárgyévi
+javadalmazásban részesített vezető állású
+személyek és munkavállalók száma (fő)
+003 RH10111 ebből: kiemelt személyek száma (fő)
+004 RH1012 Tárgyévi összes alapbér
+005 RH1013 Tárgyévi összes teljesítményjavadalmazás
+006 RH10131
+ebből: összes nem kötelező
+nyugdíjjuttatás
+007 RH10132
+ebből: tárgyévi összes halasztott
+teljesítményjavadalmazás
+008 RH1014 Egyéb tevékenység részletezése
+RH101401
+…
+RH101499
+….. …..
+009 RH199 Ország neve
+010 RH1991
+300 millió forint feletti tárgyévi
+javadalmazásban részesített vezető állású
+személyek és munkavállalók száma (fő)
+011 RH19911 ebből: kiemelt személyek száma (fő)
+012 RH1992 Tárgyévi összes alapbér
+013 RH1993 Tárgyévi összes teljesítményjavadalmazás
+014 RH19931
+ebből: összes nem kötelező
+nyugdíjjuttatás
+015 RH19932
+ebből: tárgyévi összes halasztott
+teljesítményjavadalmazás
+016 RH1994 Egyéb tevékenység részletezése
+RH199401
+…
+RH199499
+Ország neve
+RH1
+A 300 millió forint feletti tárgyévi javadalmazásban részesített személyekkel kapcsolatos adatok
+Nagyságrend: millió HUF
+Sorszám PSZÁF kód Megnevezés
+Üzletágak
+
+Vállalati
+pénzügyek,
+kereskedési és
+értékesítési
+tevékenység
+Kereskedelmi
+banki és
+lakossági banki
+tevékenység
+Portfóliókezelési
+tevékenység
+Egyéb
+tevékenység
+Mód.
+1 2 3 4 5 6
+a b c d e z
+001 RB101 Ország neve
+002 RB1011
+300 millió forint feletti tárgyévi
+javadalmazásban részesített vezető állású
+személyek és munkavállalók száma (fő)
+003 RB10111 ebből: kiemelt személyek száma (fő)
+004 RB1012 Tárgyévi összes alapbér
+005 RB1013 Tárgyévi összes teljesítményjavadalmazás
+006 RB10131
+ebből: összes nem kötelező
+nyugdíjjuttatás
+007 RB10132
+ebből: tárgyévi összes halasztott
+teljesítményjavadalmazás
+008 RB1014 Egyéb tevékenység részletezése
+RB101401
+…
+RB101499
+….. …..
+009 RB199 Ország neve
+010 RB1991
+300 millió forint feletti tárgyévi
+javadalmazásban részesített vezető állású
+személyek és munkavállalók száma (fő)
+011 RB19911 ebből: kiemelt személyek száma (fő)
+012 RB1992 Tárgyévi összes alapbér
+013 RB1993 Tárgyévi összes teljesítményjavadalmazás
+014 RB19931
+ebből: összes nem kötelező
+nyugdíjjuttatás
+015 RB19932
+ebből: tárgyévi összes halasztott
+teljesítményjavadalmazás
+016 RB1994 Egyéb tevékenység részletezése
+RB199401
+…
+RB199499
+RB1
+A 300 millió forint feletti javadalmazásban részesített személyekkel kapcsolatos adatok
+Nagyságrend: millió HUF
+Sorszám PSZÁF kód Megnevezés
+Ország neve
+Üzletágak
+
+2. melléklet a 27/2012. (XII. 11.) PSZÁF rendelethez
+
+Kitöltési útmutató a hitelintézetek és a befektetési vállalkozások által a 300 millió forint
+feletti javadalmazásban részesített személyekkel kapcsolatban a Pénzügyi Szervezetek
+Állami Felügyelete részére szolgáltatandó adatok köréről szóló adatszolgáltatáshoz
+Azon intézménynek, amely nem nyújtott egyetlen vezető állású személynek vagy
+munkavállalónak sem 300 millió forintot meghaladó tárgyévi javadalmazást, az
+adatszolgáltatást nemlegesen, a kötelező mezők nullával való kitöltésével kell teljesíteni.
+Az adatszolgáltatás nagyságrendje millió forint.
+Az adatszolgáltatásban bruttó adatokat kell szerepeltetni.
+Az intézmény a 300 millió forint feletti tárgyévi javadalmazásban részesített vezető állású
+személyeket és munkavállalókat a munkaköri leírás alapján üzletágakba sorolja. A vezető
+állású személyt és munkavállalót kizárólag abban az üzletágban kell figyelembe venni,
+amelyben tevékenysége jelentős részét végzi. Az intézménynek a létszám adatokat év végi
+adatok alapján, teljes munkaidőre átszámítva, egész számra kerekítve kell kitölteni.
+Az intézménynek a táblát országonkénti bontásban kell kitölteni.
+A módosító jelentésben az érintett tábla javítás miatt módosuló sorait a „Mód” oszlopban
+„M”-mel kell megjelölni.
+A táblában használt fogalmak magyarázata
+1. Kiemelt személyek: A javadalmazási politikának a hitelintézet és a befektetési vállalkozás
+mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága
+figyelembevételével történő alkalmazásáról szóló 131/2011. (VII. 18.) Korm. rendeletben
+meghatározott fogalom.
+2. Alapbér: Az intézmény által nyújtott minden olyan javadalmazás, amelynek kifizetéséhez
+az intézmény nem szabja feltételül valamilyen előre meghatározott teljesítménymutató
+elérését.
+3. Javadalmazás: A Hpt.-ben és a Bszt.-ben meghatározott fogalom.
+4. Teljesítményjavadalmazás: A Hpt.-ben és a Bszt.-ben meghatározott fogalom.
+5. Tárgyévi halasztott teljesítményjavadalmazás: A 2. § 2. pont b) és c) alpontja szerinti
+javadalmazás.
+6. Nem kötelező nyugdíjjuttatás: A Hpt.-ben és a Bszt.-ben meghatározott fogalom.
+7. Vállalati pénzügyek, kereskedési és értékesítési tevékenység: A működési kockázat
+kezeléséről és tőkekövetelményéről szóló 200/2007. (VII. 30) Korm. rendelet 4. § (6) és
+(7) bekezdésében vállalati pénzügyek tevékenységként és kereskedés és értékesítés
+tevékenységként meghatározott fogalom.
+8. Kereskedelmi banki és lakossági banki tevékenység: A működési kockázat kezeléséről és
+tőkekövetelményéről szóló 200/2007. (VII. 30) Korm. rendelet 4. § (9) és (10)
+bekezdésében kereskedelmi banki tevékenységként és lakossági banki tevékenységként
+meghatározott fogalom.
+9. Portfóliókezelési tevékenység: A működési kockázat kezeléséről és tőkekövetelményéről
+szóló 200/2007. (VII. 30) Korm. rendelet 4. § (13) bekezdésében vagyonkezelési
+tevékenységként meghatározott fogalom.
+
+10. Egyéb tevékenység: A vállalati pénzügyek, kereskedési és értékesítési tevékenységbe, a
+kereskedelmi banki és lakossági banki tevékenységbe és a portfóliókezelési
+tevékenységbe nem tartozó tevékenység.
+Az RH1 és RB1 „A 300 millió forint feletti tárgyévi javadalmazásban részesített vezető
+állású személyekkel és munkavállalókkal kapcsolatos adatok” táblák kitöltése
+Az RH1 táblát a hitelintézetnek és a hitelintézettel egyenértékű prudenciális szabályozásnak
+megfelelő pénzügyi vállalkozásnak, az RB1 táblát pedig a befektetési vállalkozásnak kell
+jelenteni.
+A táblák oszlopai
+A tábla 1. oszlopában az ország megnevezését, a 2. oszlopban a vállalati pénzügyek,
+kereskedési és értékesítési tevékenység, a 3. oszlopban a kereskedelmi banki és lakossági
+banki tevékenység, a 4. oszlopban a portfóliókezelési tevékenység, az 5. oszlopban az egyéb
+tevékenység üzletágak adatait kell szerepeltetni.
+A táblák sorai
+A táblában az egyes országokra vonatkozó adatokat egymás alatti blokkokban kell jelenteni.
+Az RH101 és RB101 sorban az ország megnevezését kell feltüntetni.
+Az RH1011 és RB1011 sor a 300 millió forint feletti tárgyévi javadalmazásban részesített
+vezető állású személyek és munkavállalók számát tartalmazza.
+Az RH10111 és RB10111 sorban a 300 millió forint feletti tárgyévi javadalmazásban
+részesített kiemelt személyek számát kell szerepeltetni.
+Az RH1012 és RB1012 sorban a 300 millió forint feletti tárgyévi javadalmazásban részesített
+vezető állású személyeknek és munkavállalóknak nyújtott tárgyévi összes alapbérét kell
+jelenteni.
+Az RH1013 és RB1013 sorban a 300 millió forint feletti tárgyévi javadalmazásban részesített
+vezető állású személyeknek és munkavállalóknak nyújtott tárgyévi összes
+teljesítményjavadalmazását, ezen belül az RH10131 és RB10131 sorban a 300 millió forint
+feletti tárgyévi javadalmazásban részesített vezető állású személyeknek és munkavállalóknak
+nyújtott tárgyévi összes nem kötelező nyugdíjjuttatását kell jelenteni. Az RH10132 és
+RB10132 sor a tárgyévi összes halasztott teljesítményjavadalmazás értékét tartalmazza.
+Az RH101401 …1499 és RB101401 …1499 sorokban a táblázat e) oszlopában összesítve
+szereplő egyéb tevékenységek üzletágban azokat a tevékenységeket kell megnevezni,
+amelyeket a 300 millió forint feletti javadalmazásban részesített vezető állású személyek és
+munkavállalók végeznek.
+
+V. A Kormány tagjainak rendeletei
