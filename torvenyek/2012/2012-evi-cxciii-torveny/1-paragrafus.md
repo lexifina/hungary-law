@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Unió és tagállamai, valamint a Moldovai Köztársaság között a közös légtér létrehozásáról szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
