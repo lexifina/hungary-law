@@ -1,0 +1,54 @@
+# A Kormány 350/2012. (XII. 12.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 167. szám, 2012. december 12. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ecbc0d41aef95db5fa9bb5aadc38fdaa18fd6b80/dokumentumok/aa0894df965ddb5f9234bb92108dbfbf3a096e1b/letoltes)
+
+---
+
+A Kormány 350/2012. (XII. 12.) Korm. rendelete
+a foglalkozás-egészségügyi szolgálatról szóló 89/1995. (VII. 14.) Korm. rendelet, valamint a térítési
+díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló
+284/1997. (XII. 23.) Korm. rendelet közfoglalkoztatással összefüggő módosításáról
+A Kormány a munkavédelemről szóló 1993. évi XCIII. törvény 88. § (2) bekezdés b) pontjában,
+a 2. alcím tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés o) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A foglalkozás-egészségügyi szolgálatról szóló 89/1995. (VII. 14.) Korm. rendelet módosítása
+1. § A foglalkozás-egészségügyiszolgálatrólszóló89/1995. (VII. 14.) Korm. rendelet (a továbbiakban:R1.) 1. § b) és c) pontja
+helyébe a következő rendelkezések lépnek:
+(E rendelet hatálya)
+„b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvényben, továbbá
+végrehajtására kiadott jogszabályban meghatározott feladatainak ellátásával összefüggésben a fővárosi és megyei
+
+kormányhivatal munkaügyi központjára (a továbbiakban: munkaügyi központ) és a fővárosi és megyei
+kormányhivatal járási (fővárosi kerületi) hivatala munkaügyi kirendeltségére (a továbbiakban: munkaügyi
+kirendeltség), valamint a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények
+módosításáról szóló 2011. évi CVI. törvény szerinti közfoglalkoztatókra, és
+c) a szakképzést folytató intézményekre – ide nem értve a szakképzésről szóló 2011. évi CLXXXVII. törvény 4. §
+(1) bekezdés a)–b) pontja szerinti intézményeket – (a továbbiakban: szakképző intézmény), és”
+(terjed ki.)
+2. § Az R1. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A munkáltatók, a munkaügyi központok, a munkaügyi kirendeltségek, továbbá a szakképző intézmények
+az 1. mellékletben meghatározott feladatok elvégzése ellenében – külön jogszabályi előírás, vagy a szolgáltatást
+nyújtóval kötött eltérő megállapodás hiányában – az ott meghatározott díjat fizetik a szolgáltatást nyújtónak.”
+3. § Az R1. 1. melléklete az 1. melléklet szerint módosul.
+4. § Hatályát veszti
+a) az R1. 2. § (7) bekezdése,
+b) az R1. 1. melléklet 1.1.2. pont 1. alpontja,
+c) az R1. 1. melléklet 1.1.3. pontja.
+2. A térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló
+284/1997. (XII. 23.) Korm. rendelet módosítása
+5. § A térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló 284/1997. (XII. 23.)
+Korm. rendelet (a továbbiakban: R2.) 2. számú melléklete a 2. melléklet szerint módosul.
+3. Záró rendelkezések
+6. § Ez a rendelet 2013. január 1-jén lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet a 350/2012. (XII. 12.) Korm. rendelethez
+Az R1. 1. melléklet 1.1. pont címe helyébe a következő cím lép:
+„1.1. A 3. § (1) bekezdése szerinti térítési díjak”
+2. melléklet a 350/2012. (XII. 12.) Korm. rendelethez
+Az R2. 2. számú melléklet 15. pontja helyébe a következő rendelkezés lép:
+(A B)
+„15. A foglalkoztathatóság szakvéleményezése:
+a) a b) pontban nem említett esetben 3100 Ft/fő/eset
+b) közfoglalkoztatási jogviszonyhoz szükséges szakvélemény esetén 1900 Ft/fő/eset”
