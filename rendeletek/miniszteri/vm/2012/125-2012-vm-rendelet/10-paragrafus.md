@@ -1,7 +1,0 @@
-## 9. § Hatályát veszti a 143/2011. (XII. 23.) VM rendelet 7. § (2a) bekezdése.
-
-10. § (1) A kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 21/2012. (III. 9.) VM rendelet [a továbbiakban: 21/2012. (III. 9.) VM rendelet] 7. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A mezőgazdasági termelő az igényelt kárenyhítő juttatás összegét a mezőgazdasági igazgatási szerv által annak honlapján, a 3–7. melléklet alapján közzétett táblázatok felhasználásával számítja ki. Ha a mezőgazdasági termelő rendelkezik az Mkk. tv. 11. § (5) bekezdése szerinti vagy egyéb mezőgazdasági biztosítási szerződéssel, azt a 2. melléklet kitöltésével és a biztosítóval kötött szerződés ajánlati nyomtványai és kötvénye három másolati példányának a mezőgazdasági termelő lakhelye vagy székhelye szerint illetékes agrárkár-megállapító szervhez történő benyújtásával igazolja, és a 7. melléklet szerint kiszámított kárenyhítő juttatás összegénél figyelembe veszi a biztosító által már kifizetett kártérítés összegét. A kitöltött mellékleteket a mezőgazdasági termelő három eredeti példányban személyesen vagy postai úton tárgyév november 30-áig nyújthatja be a lakhelye vagy székhelye szerint illetékes agrárkár-megállapító szervhez. A benyújtott dokumentumok együttesen alkotják a kárenyhítő juttatás iránti kérelmet.”
-
-(2) A 21/2012. (III. 9.) VM rendelet 7. §-a a következő (2a) bekezdéssel egészül ki:
