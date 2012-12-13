@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-44-20-2
 | 2011-07-01 | 2011-44-20-2Y.2 | 57/2011. (VI. 20.) VM rendelet |
 | 2011-07-30 | 2011-44-20-2Y.3 | 76/2011. (VII. 29.) VM rendelet |
 | 2012-06-09 | 2011-44-20-2Y.4 | 52/2012. (VI. 8.) VM rendelet |
+| 2012-12-13 | 2011-44-20-2Y.5 | 126/2012. (XII. 12.) VM rendelet |
