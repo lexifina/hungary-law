@@ -124,6 +124,6 @@
 
 ## 5. erkölcsi bizonyítvány.
 
-9. melléklet a 30/2012. (III. 24.) VM rendelethez[^13]
+9. melléklet a 30/2012. (III. 24.) VM rendelethez[^20]
 
-[^13]: A 9. melléklet az 52/2012. (VI. 8.) VM rendelet 18. § (7) bekezdése szerint módosított szöveg.
+[^20]: A 9. melléklet az 52/2012. (VI. 8.) VM rendelet 18. § (7) bekezdése szerint módosított szöveg.

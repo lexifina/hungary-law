@@ -168,7 +168,7 @@
 
 | 83. |  |  | 61.90.10 | Egyéb távközlés |
 
-| 84. | 6512 | Egyéb monetáris közvetítés | 64.19.25 | Monetáris intézmények egyéb jelzálog alapú üzleti hitelnyújtása |
+| 84. | 6512 | Egyéb monetáris közvetítés | 64.19.25 | Monetáris intézmények nem jelzálog alapú üzleti hitelnyújtása |
 
 | 85. |  |  | 64.19.30 | Egyéb m.n.s. monetáris pénzügyi szolgáltatás |
 

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-30-20-2
 | 2012-04-02 | 2012-30-20-2Y.2 | 2010: CXXX. törvény |
 | 2012-06-09 | 2012-30-20-2Y.3 | 52/2012. (VI. 8.) VM rendelet |
 | 2012-10-16 | 2012-30-20-2Y.4 | 110/2012. (X. 15.) VM rendelet |
+| 2012-12-13 | 2012-30-20-2Y.5 | 126/2012. (XII. 12.) VM rendelet |
