@@ -10,7 +10,7 @@ b) országos védelem alatt álló építmény: a kulturális örökség védelm
 
 c)[^1] építmény: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 8. pontjában ekként meghatározott fogalom;
 
-d)[^2] nonprofit szervezet: a közhasznú szervezetekről szóló 1997. évi CLVI. törvény 2. § (1) bekezdés a), b), c), g), valamint k) pontja szerinti szervezet, az egyesülési jogról szóló az 1989. évi II. törvény alapján létrehozott egyesület;
+d)[^2] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
 
 e) országos építészeti örökség: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 56. § (5) bekezdése szerint;
 
@@ -41,7 +41,7 @@ q)[^10] látvány térelem: olyan kültéri térelem, amely hozzájárul a telep
 (2) Az e rendeletben nem szabályozott kérdésekben a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény), valamint az Európai Mezőgazdasági és Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) foglaltakat kell megfelelően alkalmazni.
 
 [^1]: A 2. § (1) bekezdésének c) pontja a 159/2009. (XI. 19.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (1) bekezdés d) pontja az 56/2010. (V. 6.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdés d) pontja a 126/2012. (XII. 12.) VM rendelet 3. §-ával megállapított szöveg.
 [^3]: A 2. § (1) bekezdésének i) pontja a 159/2009. (XI. 19.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1) bekezdésének j) pontja a 159/2009. (XI. 19.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^5]: A 2. § (1) bekezdés k) pontja az 56/2010. (V. 6.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg.
