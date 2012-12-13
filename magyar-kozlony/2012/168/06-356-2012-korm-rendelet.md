@@ -1,0 +1,470 @@
+# A Kormány 356/2012. (XII. 13.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 168. szám, 2012. december 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/38d98b0b6a12fa06b05dfacce6a874b1201946f7/dokumentumok/a5d67e8bf4c746aed9692b7a27f26e1351b2c7a9/letoltes)
+
+---
+
+A Kormány 356/2012. (XII. 13.) Korm. rendelete
+a nemzeti mobil fizetési rendszerről szóló törvény végrehajtásáról
+A Kormány a nemzeti mobil fizetési rendszerről szóló 2011. évi CC. törvény 7. §-ában kapott felhatalmazás alapján, az Alaptörvény
+15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+I. FEJEZET
+ÁLTALÁNOS RENDELKEZÉSEK
+1. Értelmező rendelkezések
+1. § E rendelet alkalmazásában
+a) mobil fizetési termék: a központosított mobil értékesítésű szolgáltatás tárgya, amely a szolgáltatásból kialakított,
+nemzeti mobil fizetési rendszeren keresztül megvásárolható termék,
+b) továbbértékesítési díj: a szolgáltató által a központosított mobil értékesítésű szolgáltatás továbbértékesítéséért és
+a támogatási szolgáltatások ellenértékeként a nemzeti mobil fizetési szervezet részére fizetendő díj,
+c) üzletszabályzat: a nemzeti mobil fizetési szervezet általános szerződési feltételeit és az e rendeletben
+meghatározott további információkat tartalmazó dokumentum,
+d) viszonteladó: a központosított mobil értékesítésű szolgáltatás igénybe vevők részére történő értékesítésével
+üzletszerűen foglalkozó ügyfél.
+2. A nemzeti mobil fizetési szervezet
+2. § (1) A Kormány nemzeti mobil fizetési szervezetként a Nemzeti Mobil Fizetési Zrt.-t jelöli ki.
+(2) A nemzeti mobil fizetési szervezet valamennyi ügyfél számára Magyarország egész területén azonos feltételekkel
+biztosítja a központosított mobil értékesítésű szolgáltatás értékesítését a nemzeti mobil fizetési rendszer útján.
+(3) Az informatikáért felelős miniszter és a nemzeti mobil fizetési szervezet a nemzeti mobil fizetési rendszerről szóló
+2011. évi CC. törvény (a továbbiakban: Nmftv.) 3. § (4) bekezdése szerinti közszolgáltatási szerződést az Európai Unió
+működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával
+
+megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való
+alkalmazásáról szóló 2012/21/EU európai bizottsági határozatban foglaltakkal összhangban köti meg.
+II. FEJEZET
+A MOBIL FIZETÉSI JOGVISZONY
+3. A mobil fizetési jogviszony létrejötte
+3. § (1) A mobil fizetési jogviszonyban a nemzeti mobil fizetési szervezet az ügyfél számára a nemzeti mobil fizetési rendszer
+útján az Nmftv. 4. §-a szerinti központosított mobil értékesítésű szolgáltatást nyújt.
+(2) A mobil fizetési szerződés – a felek eltérő megállapodása hiányában – határozatlan időre jön létre.
+(3) Az e rendeletben meghatározott kivételekkel a nemzeti mobil fizetési szervezetet az ügyfél irányában szerződéskötési
+kötelezettség terheli.
+4. § (1) A nemzeti mobil fizetési szervezet a honlapján a mobil fizetési szerződés megkötésére irányuló jognyilatkozat
+megtételére alkalmas elektronikus űrlapot (a továbbiakban: elektronikus űrlap) tesz közzé.
+(2) Az ügyfél az elektronikus űrlapot – választása szerint – elektronikus úton vagy két példányban kinyomtatva és aláírva,
+postai úton küldi meg a nemzeti mobil fizetési szervezet részére.
+(3) Ha az ügyfél a mobil fizetési szerződést a nemzeti mobil fizetési szervezet előtti személyes megjelenésnélkül köti meg,
+a nemzeti mobil fizetési szervezet – az ügyfél egyidejű értesítése mellett – a központosított mobil értékesítésű
+szolgáltatások igénybevételét az általános szerződési feltételekben meghatározott értékhatárhoz kötheti. Ez esetben
+a mobil fizetési szerződés az értékhatár figyelembe vételével jön létre.
+5. § (1) A nemzeti mobil fizetési szervezet a mobil fizetési szerződés megkötését mindaddig megtagadja, amíg az ügyfél
+a) az azonosításához szükséges természetes személyazonosító adatait és lakcímét, cég esetén cégnevét,
+cégjegyzékszámát vagy nyilvántartási számát és székhelyét a nemzeti mobil fizetési szervezet részére nem közli,
+vagy
+b) a korábban a nemzeti mobil fizetési szervezettel szemben fennálló jogviszonyból eredő fizetési
+kötelezettségének nem tesz eleget.
+(2) A nemzeti mobil fizetési szervezet a mobil fizetési szerződés megkötését megtagadhatja vagy az üzletszabályzatban
+meghatározott feltételekhez kötheti, ha az ügyfél nemzeti mobil fizetési szervezettel fennálló korábbi jogviszonya
+a nemzeti mobil fizetési rendszer jogszabályellenes használata vagy a jogviszonyból eredő jogaival való visszaélése
+miatt szűnt meg.
+4. A mobil fizetési szerződés tartalma
+6. § (1) A mobil fizetési szerződésben rögzíteni kell
+a) a nemzeti mobil fizetési szervezet cégnevét és székhelyét,
+b) az ügyfél 5. § (1) bekezdése szerinti adatait,
+c) az ügyfél által igénybe venni kívánt központosított mobil értékesítésű szolgáltatás megjelölését és annak
+ellenértékét,
+d) az ügyfél nemzeti mobil fizetési szervezet által kezelhető személyes adatainak körét, az adatkezelés célját és
+időtartamát,
+e) az üzletszabályzat elérhetőségét, és
+f) a nemzeti mobil fizetési szervezet egyoldalú szerződésmódosítására alapot adó feltételek, körülmények
+meghatározását.
+(2) A mobil fizetési szerződésben a felek közös megegyezéssel az ügyfél javára eltérhetnek az e rendeletben
+meghatározott feltételektől, ha az a nemzeti mobil fizetési szervezet által nyújtott szolgáltatást nem veszélyezteti.
+7. § (1) A nemzeti mobil fizetési szervezet üzletszabályzatot készít, amelyben az Nmftv.-vel és e rendelettel összhangban
+– közérthetően, ellentmondásmentesen és áttekinthetően, az adott szolgáltatásra értelmezhetően – legalább
+a következőket rögzíti:
+a) a nemzeti mobil fizetési szervezet megnevezését, elérhetőségét,
+
+b) a nemzeti mobil fizetési szervezet ügyfélszolgálatának elérhetőségeit és nyitvatartási rendjét,
+c) a szerződéskötés részletes feltételeit és a szerződéskötés részletes eljárási szabályait,
+d) a nemzeti mobil fizetési szervezet által nyújtott szolgáltatások részletes tartalmát, a szolgáltatások minőségére és
+biztonságára vonatkozó feltételeket,
+e) a központosított mobil értékesítésű szolgáltatással kapcsolatos mentesség, kedvezmény és az alapjául szolgáló
+körülmények igazolására és az ezekre vonatkozó adatok kezelésére vonatkozó részletes szabályokat,
+f) a hibaelhárítás és a szolgáltatás korlátozása és szünetelése esetén irányadó szabályokat,
+g) az ügyfélkapcsolatra vonatkozó részletes szabályokat,
+h) az ügyfélpanaszok kezelésének a rendjét, a jogviták kezelésének a módját, az ügyfél által igénybe vehető
+jogorvoslati lehetőségeket,
+i) a nemzeti mobil fizetési szervezet által alkalmazott díjak és továbbhárított költségek megnevezését és mértékét,
+a fizetés és a számlázás módját,
+j) a nemzeti mobil fizetési szervezet által alkalmazható biztosítékok, illetve a fizetési módok korlátozása
+alkalmazásának feltételeit,
+k) a viszonteladókra vonatkozó különös rendelkezéseket, valamint
+l) az adatkezelésre és az adatbiztonságra vonatkozó részletes követelményeket.
+(2) A mobil fizetési szerződések esetén szerződési feltételt csak akkor lehet egyoldalúan, az ügyfél számára kedvezőtlenül
+módosítani, ha a szerződés ezt a nemzeti mobil fizetési szervezet számára egyértelműen meghatározott feltételek
+vagy körülmények esetére lehetővé teszi.
+(3) A szerződés (2) bekezdés szerinti módosításáról a nemzeti mobil fizetési szervezet az ügyfelet legkésőbb a módosítás
+hatálybalépését megelőző 30. napig az üzletszabályzatban meghatározott módon értesíti.
+(4) Az ügyfél a szerződés (2) bekezdés szerinti módosítása esetén a mobil fizetési szerződést azonnali hatállyal
+felmondhatja, erre az ügyfelet a (3) bekezdés szerinti értesítésben figyelmeztetni kell. Ha az ügyfél a mobil fizetési
+szerződést a szerződés módosításának hatálybalépéséig azonnali hatállyal nem mondja fel, az a szerződés módosítása
+elfogadásának minősül, erre az ügyfelet a (3) bekezdés szerinti értesítésben figyelmeztetni kell.
+5. A mobil fizetési termék díja, kényelmi díj, továbbhárított költségek
+8. § (1) Jogszabály eltérő rendelkezése hiányában az ügyfél a mobil fizetési termék díjaként az adott szolgáltatás nem
+a nemzeti mobil fizetési rendszeren keresztüli megvásárlása esetén fizetendő díjjal megegyező összegű díjat fizet.
+(2) Az ügyfél a mobil fizetési termék (1) bekezdés szerinti díján felül a nemzeti mobil fizetési szervezet részére az alábbi
+szolgáltatások esetében, az alábbi mértékű kényelmi díjat fizet:
+a) várakozási (parkolási) közszolgáltatás értékesítése esetén tranzakciónként 50 forint,
+b) úthasználati jogosultság értékesítése esetén tranzakciónként 80 forint,
+c) közlekedési jegy értékesítése esetén tranzakciónként 50 forint,
+d) a Nmftv. 2. § d) pontja szerinti szolgáltatás esetén tranzakciónként 100 forint.
+(3) A kényelmi díjat – a központosított mobil értékesítésű szolgáltatás sikeres megvásárlása esetén – a nemzeti mobil
+fizetési szervezet a központosított mobil értékesítésű szolgáltatás díjával együtt számítja fel az ügyfélnek.
+(4) A nemzeti mobil fizetési szervezet jogosult a mobil fizetési termék értékesítési folyamatában rendszerint felmerülő
+kommunikáció költségeinek továbbhárítására.
+(5) A (2) bekezdésben meghatározott díjak az általános forgalmi adót tartalmazzák.
+6. A mobil fizetési szolgáltatás korlátozása
+9. § Az ügyfél a jogviszony fennállása során bármikor meghatározhatja, hogy egy adott hónapban legfeljebb milyen
+– kényelmi díjat is magában foglaló – összegben kíván központosított mobil értékesítésű szolgáltatást igénybe venni,
+és kérheti, hogy a nemzeti mobil fizetési szervezet e keretösszeg túllépése esetén a központosított mobil értékesítésű
+szolgáltatások igénybe vételét korlátozza.
+10. § A nemzeti mobil fizetési szervezet – az ügyfél egyidejű írásbeli értesítése mellett –az ügyfél vonatkozásában
+a szolgáltatás igénybevételét korlátozhatja, ha
+a) tudomást szerez arról, hogy az ügyfélnek a nemzeti mobil fizetési szervezet által kezelt adatai megváltoztak,
+az ügyfél aktuális adatai bejelentéséig, szükség esetén igazolásáig,
+
+b) ha más használó ugyanazon telefonhívószámra vonatkozóan, a telefonhívószám használatának igazolása mellett
+köt mobil fizetési szerződést, és az ügyfél a nemzeti mobil fizetési szervezet felhívásától számított 15 napon belül
+nem igazolja a hívószám használatára vonatkozó jogosultságát,
+c) tudomást szerez arról, hogy az ügyfél a nemzeti mobil fizetési szolgáltatást jogszabályellenesen vagy
+a jogviszonyból fakadó jogaival visszaélve használja, a jogellenes vagy visszaélésszerű magatartás
+megszüntetéséig, de legfeljebb 15 napig,
+d) az ügyfél a nemzeti mobil fizetési szervezettel szemben fennálló és esedékessé vált, elismert vagy nem vitatott
+bármely fizetési kötelezettségének az erre vonatkozó – az esedékességet követő és a fizetési kötelezettség
+elmulasztásának a jogkövetkezményeit is magában foglaló – írásbeli felszólítás kézhezvételétől számított
+15 napon belül nem tesz eleget.
+7. A mobil fizetési szerződés megszűnése
+11. § (1) A mobil fizetési szerződés megszűnik
+a) atermészetesszemélyügyfél halálavagyanemtermészetesszemélyügyfél jogutód nélkülimegszűnéseesetén,
+b) az ügyfél 7. § (4) bekezdése szerinti felmondása alapján,
+c) az ügyfél vagy a nemzeti mobil fizetési szervezet 12. § szerinti felmondásával,
+d) a felek közös megegyezése alapján.
+(2) A felek a mobil fizetési szerződés megszűnését követő 30. napig egymással elszámolnak.
+12. § (1) Az ügyfél a mobil fizetési szerződést 15 napos felmondási határidővel írásban vagy a nemzeti mobil fizetési szervezet
+ügyfélszolgálatán szóban bármikor felmondhatja.
+(2) Az ügyfél a mobil fizetési szerződést azonnali hatállyal felmondhatja, ha a nemzeti mobil fizetési szervezet
+a jogviszonyból eredő kötelezettségeit vétkesen megszegi vagy a jogviszonyból eredő jogaival visszaél.
+(3) A nemzeti mobil fizetési szervezet a mobil fizetési szerződést azonnali hatállyal felmondhatja, ha az ügyfél a nemzeti
+mobil fizetési rendszert
+a) jogszabállyal ellentétesen vagy
+b) a mobil fizetési szerződésből fakadó jogaival visszaélve
+használja, és az ügyfél a nemzeti mobil fizetési szervezet írásbeli felszólításától számított 15 napon belül nem igazolja,
+hogy a jogsértő vagy visszaélésszerű használatot megszüntette. Az igazolásra nyitva álló határidőn belül az ügyfél
+szolgáltatás igénybevételére való jogosultsága szünetel.
+(4) A nemzeti mobil fizetési szervezet a mobil fizetési szerződést a 10. § d) pontja szerinti korlátozás esetén 30 napos
+felmondási határidővel felmondhatja, ha az ügyfél az írásbeli felszólítás kézhezvételétől számított legalább 15 nappal
+követő – a fizetési kötelezettség elmulasztásának a jogkövetkezményeit is magában foglaló – második felszólítás
+kézhezvételétől számított 8 napon belül sem tesz eleget a fizetési kötelezettségének.
+(5) A (4) bekezdésben meghatározott esetben nem szűnik meg a mobil fizetési szerződés, ha az ügyfél a fizetési
+kötelezettségének legkésőbb a felmondási határidő utolsó napján eleget tesz.
+(6) A (4) bekezdésben meghatározott felmondás esetén a nemzeti mobil fizetési szervezet az ügyféllel új mobil fizetési
+szerződés megkötését meghatározott összeg előre megfizetéséhez vagy egyéb biztosíték adásához kötheti.
+(7) A nemzeti mobil fizetési szervezet a mobil fizetési szerződést 30 napos felmondási határidővel felmondhatja, ha
+az ügyfél a nemzeti mobil fizetési rendszert egybefüggő két éves időtartamban nem veszi igénybe, és ez idő alatt
+a jogviszony további fenntartása iránti nyilatkozatot sem terjeszt elő, feltéve hogy az ügyfélnek a nemzeti mobil
+fizetési szervezettel szemben tartozása nem áll fenn, és a nemzeti mobil fizetési szervezet 22. § (1) bekezdése szerinti
+számláján nincs az ügyfél által a központosított mobil értékesítésű szolgáltatással összefüggésben a nemzeti mobil
+fizetési szervezet részére bocsátott pénzeszköz. A mobil fizetési szerződés nem szűnik meg, ha az ügyfél a felmondási
+határidő leteltét megelőzően írásban a jogviszony további fenntartását kifejezetten kéri.
+(8) A nemzeti mobil fizetési szervezet felmondása tartalmazza
+a) a felmondás e rendeletben meghatározott jogcímét és annak indokát,
+b) a felmondási időt és a felmondási idő lejártának napját, valamint
+c) – ha a felmondás indoka az ügyfél szerződésszegésevagy a szolgáltatás nem használata – az ügyfél tájékoztatását
+a szerződésszegés orvoslására vonatkozó lehetőségről.
+
+8. Az ügyfél adatainak nyilvántartása
+13. § (1) A nemzeti mobil fizetési szervezet az ügyfél adatait az ügyfél által megadott és ellenőrzött telefonhívószám alapján
+tartja nyilván.
+(2) Az ügyfél kérheti az őt megillető mentességre vagy kedvezményre vonatkozó, az Nmftv. 6. § (2) bekezdése szerinti
+adatainak ellenőrzését és rögzítését a nemzeti mobil fizetési szervezet nyilvántartásában.
+(3) A mentességre vagy kedvezményre vonatkozó adatokat a nemzeti mobil fizetési szervezet akkor veheti
+nyilvántartásba, ha az ügyfél
+a) az annak a jogcímét megalapozó okmányt az ügyfélszolgálaton bemutatja,
+b) az a) pont szerinti okmány hiteles másolatát a nemzeti mobil fizetési szervezet számára eljuttatja vagy
+c) a kedvezményre való jogosultság ellenőrzéséhez szükséges, az Nmftv. 6. § (2) bekezdése szerinti adatokat
+a nemzeti mobil fizetési szervezet rendelkezésérebocsátja,egyben bizonyítható módon – különlegesadat esetén
+írásban –, a mobil fizetési szerződés fennállásának időtartamára hozzájárul ahhoz, hogy a kedvezményre való
+jogosultságot a nemzeti mobil fizetési szervezet az annak alapjául szolgáló adatokat nyilvántartó hatóságnál,
+bíróságnál vagy más szervnél ellenőrizze.
+(4) Az ügyfél írásbeli nyilatkozatban vállalja, hogy a (2) bekezdés szerinti mentességre vagy kedvezményre vonatkozó
+adataiban bekövetkezett változásokat 8 napon belül írásban vagy az ügyfélszolgálaton személyesen bejelenti
+a nemzeti mobil fizetési szervezetnek.
+9. A nemzeti mobil fizetési rendszer igénybevétele
+14. § (1) Az ügyfél ellenőrzött és nyilvántartásba vett telefonhívószámáról telefonon, rövid szöveges üzenetben vagy
+az üzletszabályzatban meghatározott más módon az ügyfél részéről érkezett, a központosított mobil értékesítésű
+szolgáltatás igénybevételére irányuló nyilatkozatot a mobil fizetési jogviszony keretében a nemzeti mobil fizetési
+szervezet az ügyfél ügyfélrendelkezéseként fogadja el.
+(2) Annak a biztosítása, hogy a telefonhívószám az ügyfél rendelkezése alatt álljon, az ügyfél felelőssége.
+15. § (1) A nemzeti mobil fizetési szervezet a beérkezett ügyfélrendelkezés formai vizsgálatát haladéktalanul, de legfeljebb
+annak beérkezésétől számított 60 másodpercen belül feldolgozza, és ha az a jogszabályban és az üzletszabályzatban
+meghatározott feltételeknek
+a) nem felel meg, a szabályszerű ügyfélrendelkezés követelményeire való hivatkozást tartalmazó hibaüzenetet küld
+az ügyfélnek,
+b) megfelel, az ügyfélrendelkezésnek megfelelően jár el.
+(2) Az (1) bekezdés b) pontja szerinti esetben a nemzeti mobil fizetési szervezet az ügyfélrendelkezés teljesítéséről vagy
+annak sikertelenségéről haladéktalanul, a mobil fizetési szerződésben meghatározott módon az ügyfél részére
+visszaigazolást küld. Ha az adott mobil fizetési termék igénybevételéhez egyedi azonosítóra van szükség, azt a mobil
+fizetési szervezet igényli meg a szolgáltatótól, és a visszaigazolásban közli az ügyféllel.
+(3) Ha az ügyfélrendelkezés sikerességét a nemzeti mobil fizetési szervezet nem igazolja vissza, az ügyfél a szolgáltatás
+igénybevételére, a szolgáltató és a nemzeti mobil fizetési szervezet pedig a díjra nem jogosult.
+16. § (1) A nemzeti mobil fizetési szervezet a nemzeti mobil fizetési rendszer elérhetőségét havi szinten legalább 98%-ban
+biztosítja. A nemzeti mobil fizetési rendszer akkor minősül elérhetőnek, ha a nemzeti mobil fizetési rendszer legalább
+egy igénybe vételi módon képes az ügyfélrendelkezések fogadására és feldolgozására.
+(2) A rendelkezésre állási kötelezettségbe nem számít bele, ha a kiesés a közreműködő elektronikus hírközlési szolgáltató
+szolgáltatási paraméterei vagy az elektronikus hírközlési szolgáltatás rendelkezésre állásának a hiánya miatt
+következett be.
+17. § (1) A központosított mobil értékesítésű szolgáltatás ügyfél általi igénybevételéről, annak díjáról, a kényelmi díjról,
+valamint a továbbhárított költségekről a nemzeti mobil fizetési szervezet elektronikus számlát készít a felhasználás
+gyakoriságától függően legfeljebb 15 naponta, de legalább havonta, amelyet az üzletszabályzatban meghatározott
+módon kézbesít az ügyfél részére. Az ügyfél kérésére a nemzeti mobil fizetési szervezet nyomtatott formában is
+megküldi a számlát az ügyfélnek.
+
+(2) Az ügyfél az (1) bekezdés szerinti díjakat és továbbhárított költségeket a mobil fizetési szerződésben meghatározott
+módokon fizetheti meg.
+(3) A nemzeti mobil fizetési szervezet – az ügyfél előzetes értesítését követően – az üzletszabályzatban meghatározott
+esetekben korlátozhatja az ügyfél által igénybe vehető fizetési módokat, illetve előírhatja, hogy az ügyfél csak az általa
+előre befizetett összegek terhére veheti igénybe a szolgáltatást, így különösen ha az ügyfél korábbi fizetési késedelme
+azt indokolja.
+10. Fogyasztóvédelem és panaszkezelés
+18. § (1) A nemzeti mobil fizetési szervezet az üzletszabályzatot
+a) az ügyfélszolgálatán és honlapjának nyitóoldalán könnyen elérhető módon, keresésre alkalmas formában
+elektronikus úton tárolható, megjeleníthető, kereshető valamint nyomtatható formában, előzetes regisztrációt
+nem igénylő módon, ingyenesen közzéteszi,
+b) az ügyfél kérésénekmegfelelőmódontartós adathordozónvagy elektronikuslevélbentérítésmentesen,valamint
+– az előállítás tényleges költségeit meg nem haladó költségtérítés ellenében – nyomtatott formában az ügyfél
+rendelkezésére bocsátja.
+(2) Az ügyfél kérésére a nemzeti mobil fizetési szervezet biztosítja, hogy az ügyfél a forgalmazási és számlázási adatok
+törléséig díjmentesen megismerhesse a fizetendő díjak és költségek számításához szükséges forgalmazási és
+számlázási adatokra vonatkozó kimutatást.
+19. § A nemzeti mobil fizetési szervezet az Nmftv. 8. § (1) bekezdése szerinti ügyfélszolgálatára beérkezett bejelentéseketés
+panaszokat – a díjreklamáció kivételével – feldolgozza, és 72 órán belül, ha a bejelentés vagy a panasz
+a) megalapozott, a jogszabályoknak és az üzletszabályzatnak megfelelő működés helyreállítása iránt intézkedik és
+erről az ügyfelet – választása szerint – telefonon vagy írásban tájékoztatja,
+b) megalapozatlan, erről az ügyfelet – választása szerint – telefonon vagy írásban, az Nfmtv. 8. § (2) bekezdés
+c) pontjának is megfelelően tájékoztatja.
+20. § (1) Az ügyfél a nemzeti mobil fizetési szervezet által megállapított szolgáltatási és kényelmi díj, illetve továbbhárított
+költség összegét az ügyfélszolgálaton előterjesztett díjreklamációban vitathatja.
+(2) A nemzeti mobil fizetési szervezet a díjreklamációt nyilvántartásba veszi. A díjreklamáció elbírálása alatt
+a) a nemzeti mobil fizetési szervezet az ügyfél részére a szolgáltatást nem korlátozhatja, és a mobil fizetési
+szerződését nem mondhatja fel, továbbá
+b) a fizetésre vonatkozó határidők nyugszanak.
+(3) Ha az ügyfél a nemzetimobilfizetési szervezetáltalköveteltdíj, illetvetovábbhárítottköltségösszegszerűségétvitatja,
+a nemzeti mobil fizetési szervezetnek kell bizonyítania, hogy a hálózata az illetéktelen hozzáféréstől védett és
+számlázási rendszere zárt, a díj, illetve költség számlázása, továbbá megállapítása helyes volt. Ellenkező bizonyításig
+nem terheli számlázási rendszere zártságának vonatkozásában külön bizonyítási kötelezettség a nemzeti mobil
+fizetésiszervezetet,haarendszerzártságátazinformatikáértfelelősminiszteráltalkijelölttanúsítószervezettanúsítja.
+(4) Ha a nemzeti mobil fizetési szervezet a díjreklamációnak helyt ad, a díjkülönbözetet és annak a díj, illetve költség
+befizetésének napjától járó kamatait az ügyfél számára jóváírja.
+(5) Ha a nemzeti mobil fizetési szervezet a díjreklamációnak nem ad helyt, arra a panasz és a bejelentés elutasítására
+vonatkozó szabályokat kell alkalmazni.
+21. § (1) A nemzeti mobil fizetési szervezet a központosított mobil értékesítésű szolgáltatással kapcsolatban beérkezett
+panaszt, bejelentést, a panaszt, bejelentést tevő egyidejű értesítése mellett – a panasszal vagy bejelentéssel
+kapcsolatban a rendelkezésére álló információkkal együtt – a szolgáltató részére haladéktalanul továbbítja.
+(2) A szolgáltató az (1) bekezdés szerinti panasz, bejelentés alapján megtett intézkedéséről a nemzeti mobil fizetési
+szervezetet kérésére tájékoztatja.
+(3) A nemzeti mobil fizetési szervezet és a szolgáltató köteles a panaszok és bejelentések kezelése körében
+együttműködni, az ahhoz szükséges információkat egymás részére átadni.
+
+11. Az ügyfélpénzek védelme
+22. § (1) A nemzeti mobil fizetési szervezet a központosított mobil értékesítésű szolgáltatáshoz kapcsolódó befizetések
+elkülönített kezelése érdekében az ügyféltől átvett pénzeszközöket köteles az Európai Unió tagállamában vagy
+az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező hitelintézetnél
+a saját pénzeszközeitől elkülönített számlán tartani. A központosított mobil értékesítésű szolgáltatáshoz
+kapcsolódóan az ügyféltől átvett pénzeszközökkel a nemzeti mobil fizetési szervezet sajátjaként nem rendelkezhet.
+(2) Az (1) bekezdés szerinti számlán lévő pénzeszköz kizárólag a központosított mobil értékesítésű szolgáltatáshoz
+kapcsolódóan e rendelet előírásai alapján használható fel.
+(3) Az ügyfél a központosított mobil értékesítésű szolgáltatás ellenértékét az (1) bekezdés szerinti számlára utalja.
+Az ügyfelet az általa a nemzeti mobil fizetési szervezet felé megfizetett összeg után kamat nem illeti meg.
+(4) A nemzeti mobil fizetési szervezet a 17. § szerinti számlázás során és az ügyfél ez irányú kérelmére bármikor az ügyfél
+által a (3) bekezdés szerint megfizetett összegek felhasználásáról és aktuális egyenlegéről az ügyfelet tájékoztatja.
+(5) A nemzeti mobil fizetési szervezet a (3) bekezdés szerinti befizetésre vonatkozó nyilvántartását úgy vezeti, hogy
+a) abból pontosan megállapítható legyen az ügyfelektől a központosított mobil értékesítésű szolgáltatással
+összefüggésben a nemzeti mobil fizetési szervezet részére bocsátott pénzeszközök mennyisége és felhasználása,
+a megfizetés és a felhasználás időpontja,
+b) az alapján bármikor, késedelem nélkül biztosítható legyen az ügyfelek és a nemzeti mobil fizetési szervezet
+pénzeszközeinek elkülönített nyilvántartása, és
+c) az valós képet mutasson az ügyfeleknek a nemzeti mobil fizetési szervezettel szemben fennálló mindenkori
+összesített pénzköveteléséről.
+(6) A nemzeti mobil fizetési szervezet a mobil fizetési szerződés megszűnése esetén az általa készített elszámolás során
+az ügyfél által megfizetett és fel nem használt összeget az ügyfél számára visszafizeti.
+12. Viszonteladói szerződés
+23. § A viszonteladói szerződés keretében a viszonteladó megvásárolja a központosított mobil értékesítésű szolgáltatást
+a nemzeti mobil fizetési szervezettől, és azt az üzletszabályzatban előírt követelmények betartása mellett, saját
+szerződési feltételei alkalmazásával továbbértékesíti az igénybe vevő számára.
+24. § (1) A viszonteladói szerződésre a mobil fizetési szerződésre vonatkozó rendelkezéseket az ezen alcímben meghatározott
+eltérésekkel kell alkalmazni.
+(2) A viszonteladó nem jogosult olyan, mentességet vagy kedvezményt tartalmazó mobil fizetési termék
+továbbértékesítésére, amellyel kapcsolatosan a mentesség vagy kedvezmény igénybevétele jogszerűségének
+megállapítása az értékesítés során történik, feltéve hogy a jogosultság megállapítása személyes adat kezelését teszi
+szükségessé.
+(3) A viszonteladói szerződést írásba kell foglalni.
+(4) A viszonteladói szerződés létrehozásával, a viszonteladás kiépítésével és üzemeltetésével kapcsolatos költségeiket
+a felek maguk viselik.
+25. § (1) A viszonteladó és az igénybe vevő közötti, az ügyfélrendelkezéssel kapcsolatos kommunikáció bonyolítása, valamint
+az ügyfélrendelkezésnek a nemzeti mobil fizetési szervezethez történő továbbítása a viszonteladó feladata.
+(2) A viszonteladó köteles tájékoztatni az igénybe vevőt, hogy a szolgáltatása a nemzeti mobil fizetési szervezet által
+értékesített, központosított mobil értékesítésű szolgáltatásokon alapul.
+26. § (1) A központosított mobil értékesítésű szolgáltatást viszonteladón keresztül megvásároló igénybe vevő részére
+a nemzeti mobil fizetési szervezet közvetlen hozzáférést biztosít az interneten keresztül elérhető felületéhez, amelyen
+követheti az általa igénybevett központosított mobil értékesítésű szolgáltatásokat, és közvetlen panaszkezelési
+szolgáltatást vehet igénybe.
+(2) Az (1) bekezdés szerinti szolgáltatás nem kizárólagos, az nem érinti a viszonteladó kötelezettségét önálló
+ügyfélszolgálat és panaszkezelés biztosítására.
+(3) A viszonteladó az igénybe vevőt köteles tájékoztatni az (1) bekezdés szerinti lehetőségről.
+
+(4) A nemzeti mobil fizetési szervezet általi panaszkezelés érdekében az ügyfélrendelkezés továbbítása és feldolgozása
+során
+a)
+a felek egyedi és közös tranzakció azonosítót hoznak létre, és
+b)
+a viszonteladó az ügyfélrendelkezés teljesítéséhez szükséges azonosítón túl a viszonteladó által létrehozott és
+az igénybe vevő által is ismert egyedi ügyfél azonosítót is közli a nemzeti mobil fizetési szervezettel.
+27. §
+(1) A viszonteladó által fizetendő díjakról és továbbhárított költségekről a nemzeti mobil fizetési szervezet havonta
+összesítő számlát készít, amelyet a viszonteladó a számla keltétől számított 30 napon belül átutalás útján fizet meg
+a nemzeti mobil fizetési szervezetnek.
+(2) A nemzeti mobil fizetési szervezet jogosult biztosítékot kérni a viszonteladótól a viszonteladó által fizetendő díjak és
+továbbhárított költségek fedezetének biztosítására.
+(3) A nemzeti mobil fizetési szervezet viszonteladói szerződést 30 napos felmondási határidővel felmondhatja, ha a vele
+szemben fennálló és esedékessé vált, elismert vagy nem vitatott bármely fizetési kötelezettségének az erre vonatkozó
+– az esedékességet követő és a fizetési kötelezettség elmulasztásának a jogkövetkezményeit is magában foglaló –
+felszólítás kézhezvételétől számított legalább 15 nappal követő – felszólítás kézhezvételétől számított 8 napon belül
+sem tesz eleget.
+III. FEJEZET
+A SZOLGÁLTATÓI SZERZŐDÉS
+13. A szolgáltatói szerződés tartalma, létrejötte
+28. §
+(1) A szolgáltatói szerződés alapján a nemzeti mobil fizetési szervezet harmadik személyek részére továbbértékesíti
+a szolgáltató által nyújtott központosított mobil értékesítésű szolgáltatást és támogatási szolgáltatásokat nyújt
+a szolgáltató részére, a szolgáltató pedig továbbértékesítési díjat fizet a nemzeti mobil fizetési szervezet részére.
+(2) A nemzeti mobil fizetési szervezet a szolgáltatói szerződésekkel kapcsolatban a szolgáltatók közötti egyenlő elbánás
+elvének megtartásával jár el.
+29. §
+(1) A szolgáltatói szerződés megkötését
+a)
+az Nmftv. 2. § a)–c) pontja szerinti szolgáltatást nyújtó szolgáltató felé a nemzeti mobil fizetési szervezet
+kezdeményezi,
+b)
+az Nmftv. 2. § d) pontja szerinti szolgáltatást nyújtó szolgáltató és a nemzeti mobil fizetési szervezet egymás felé
+egyaránt kezdeményezheti.
+(2) A nemzeti mobil fizetési szervezet a szolgáltatóiszerződésmegkötéséhezszükségesinformációkközlésérehívhatja fel
+a szolgáltatót, a teljesítéshez szükséges ésszerű határidő megállapításával.
+(3) A (2) bekezdés szerinti információk szolgáltatását követő 30 napon belül a nemzeti mobil fizetési szervezet
+szolgáltatás-bevezetési javaslatot tesz a szolgáltató részére, amelyben meghatározza
+a)
+a mobil fizetési termék bevezetésének napját,
+b)
+a nemzeti mobil fizetési rendszerhez való csatlakozás műszaki feltételeit,
+c)
+azokat a feltételeket, amelyeket a szolgáltatónak a mobil fizetési termék meghatározásakor figyelembe kell
+vennie,
+d)
+az ügyfelek tájékoztatásával kapcsolatos teendőket a mobil fizetési termék bevezetésével összefüggésben.
+(4) A szolgáltatói szerződés a szolgáltatás-bevezetési javaslat szolgáltató általi elfogadását követően írásban,
+határozatlan időre jön létre. A felek a szolgáltatói szerződésben e rendelet rendelkezéseitől nem térhetnek el.
+(5) A szolgáltatói szerződés létrehozásával, a továbbértékesítés kiépítésével kapcsolatos költségeiket a felek maguk
+viselik.
+30. §
+(1) A nemzeti mobil fizetési szervezet az üzletszabályzat szolgáltatóra vonatkozó rendelkezésében a 7. §
+(1) bekezdésében meghatározottakon túl a következőket rögzíti
+a)
+a szolgáltatói jogviszony részletes tartalmát, a támogatási szolgáltatások minőségére és biztonságára vonatkozó
+feltételeket,
+b)
+a hibaelhárításra és a támogatási szolgáltatások szünetelése esetén irányadó szabályokat,
+
+c) a továbbértékesítési díjelszámolásának és kifizetésének, továbbá a túlzott mértékű továbbértékesítési
+díjvisszatérítésének részletes szabályait, és
+d) a 35. § szerinti kötbér megállapításának és megfizetésének részletes szabályait.
+(2) A szolgáltatói szerződés valamely feltételének egyoldalú módosítására, az arra vonatkozó értesítésre és az ahhoz
+kapcsolódó azonnali hatályú felmondásra a 7. § (2)–(4) bekezdését kell alkalmazni azzal, hogy ügyfél alatt
+a szolgáltatót kell érteni.
+14. A továbbértékesítési díj
+31. § (1) A továbbértékesítési díj alapja az ügyfél által a 8. §(1) bekezdése szerint fizetendő nettó díj, mértéke
+a) várakozási (parkolási) közszolgáltatás értékesítése esetén 10%,
+b) úthasználati jogosultság értékesítése esetén 5%,
+c) közlekedési jegy értékesítése esetén 5%.
+(2) A (1) bekezdés szerinti díjak az általános forgalmi adót nem tartalmazzák.
+32. § (1) A nemzeti mobil fizetési szervezet havonta, a tárgyhónapot követő hónap 5. napjáig elszámolást készít a szolgáltató
+részére a tárgyhónapban értékesített mobil fizetési termék mennyiségről és értékéről.
+(2) Ha a mobil fizetési termék értékesítésének kezdő napja nem a hónap első napjára esik, az (1) bekezdéstől eltérően
+az első elszámolási időszak a mobil fizetési termék értékesítésének kezdő napján kezdődik és az azt követő hónap
+végéig tart.
+(3) Az elszámolási időszakban a mobil fizetési szervezet által értékesített mobil fizetési termékek után a szolgáltatót
+megillető díj a tárgyhónapot követő 30. napig, a szolgáltató által kiállított számla alapján esedékes.
+15. A támogatási szolgáltatások
+33. § (1) A szolgáltatói szerződés alapján a nemzeti mobil fizetési szervezet az Nmftv. 5. § (1) bekezdése szerinti szolgáltatások
+körében az e §-ban meghatározott támogatási szolgáltatásokat nyújtja a szolgáltató részére.
+(2) A várakozási (parkolási) közszolgáltatás értékesítésével kapcsolatban a nemzeti mobil fizetési szervezet
+a) beazonosítja az ügyfelet, és megvizsgálja a szolgáltatás igénybevételének jogosultságát,
+b) elindítja és leállítja a szolgáltatást,
+c) méri a parkolási időt,
+d) adatot szolgáltat a szolgáltató ellenőre számára és informatikai támogatást nyújt az ellenőrzéshez,
+e) kiválasztja a zónának megfelelő tarifát és kiszámítja a parkolási díjat,
+f) figyelembe veszi a zóna sajátos szabályait,
+g) kezeli a szolgáltató szolgáltatásával szemben felmerülő ügyfélpanaszokat.
+h) kezeli az ügyfelek által téves zónakijelöléssel indított parkolások elszámolását az érintett szolgáltatók között,
+i) statisztikai adatokat szolgáltat a szolgáltatónak.
+(3) Az úthasználati jogosultság értékesítésével kapcsolatban a nemzeti mobil fizetési szervezet
+a) beazonosítja az ügyfelet, és megvizsgálja a szolgáltatás igénybevételének jogosultságát,
+b) megállapítja az ügyfél által fizetendő díjat,
+c) adatot szolgáltat a szolgáltató nyilvántartásához és az ellenőrzéshez,
+d) kezeli a szolgáltató szolgáltatásával szemben felmerülő ügyfélpanaszokat, és
+e) statisztikai adatokat szolgáltat a szolgáltatónak.
+(4) A közlekedési jegy értékesítésével kapcsolatban a nemzeti mobil fizetési szervezet
+a) beazonosítja az ügyfelet, és megvizsgálja a szolgáltatás igénybevételének jogosultságát,
+b) megállapítja az ügyfél által fizetendő jegyárat,
+c) technológiai támogatást nyújt és adatot szolgáltat a szolgáltató által végzett ellenőrzéshez,
+d) kezeli a szolgáltató szolgáltatásával szemben felmerülő ügyfélpanaszokat és informatikai támogatást nyújt
+az ellenőrzéshez, és
+e) statisztikai adatokat szolgáltat a szolgáltatónak.
+(5) A szolgáltatóvalkötött megállapodásalapjána nemzeti mobilfizetési szervezetjogosultolyantámogatásiszolgáltatás
+nyújtására, amelynek keretében a szolgáltató javára elvégzi a mentességre vagy kedvezményekre való jogosultság
+ellenőrzésével és igazolásával kapcsolatos egyes feladatokat.
+
+16. Rendelkezésre állás, kötbér
+34. § (1) A nemzeti mobil fizetési szervezet a szolgáltató felé biztosítja a nemzeti mobil fizetési rendszer e §-ban meghatározott
+szintű rendelkezésre állását.
+(2) A szolgáltatómobilfizetésitermékeinekazügyfelek számáraanemzetimobilfizetésirendszerenkeresztülhaviszinten
+legalább 98%-ban elérhetőnek kell lennie. A mobil fizetési termék akkor minősül elérhetőnek, ha a mobil fizetési
+rendszer képes az adott mobil fizetési termékre vonatkozó ügyfélrendelkezések fogadására és feldolgozására,
+legalább egy csatorna igénybe vételével.
+(3) A nemzeti mobil fizetési rendszernek az ellenőrzések informatikai támogatásához havi szinten legalább 98,5%-ban
+elérhetőnek kell lennie.
+(4) A rendelkezésre állási kötelezettség a nemzeti mobil fizetési szervezetet az érdekkörében terheli. A rendelkezésre állás
+elmulasztása – további vizsgálat nélkül – annyiban a nemzeti mobil fizetési szervezet érdekkörén kívül következik be,
+ha az a közreműködő elektronikus hírközlési szolgáltató szolgáltatási paraméterei, vagy az elektronikus hírközlési
+szolgáltatás rendelkezésre állásának a hiánya miatt következett be.
+35. § (1) Ha a nemzeti mobil fizetési rendszer egy naptári hónapban nem teljesíti az e rendeletben meghatározott
+rendelkezésre állási szintet, a nemzeti mobil fizetési szervezet a (2) bekezdésben meghatározott mértékű kötbért fizet
+a szolgáltató részére.
+(2) A kötbér mértéke a (3) bekezdés szerinti kötbéralap
+a) 10%-a, ha a nemzeti mobil fizetési rendszer rendelkezésre állása a 34. § (2) bekezdése szerinti 98%-os vagy a 34. §
+(3) bekezdése szerinti 98,5%-os szintet nem éri el, de a 97%-os szintet meghaladja,
+b) 15%-a, ha a nemzeti mobil fizetési rendszer rendelkezésre állása a 97%-os szintet nem éri el, de a 95%-os szintet
+meghaladja,
+c) 20%-a, ha a nemzeti mobil fizetési rendszer rendelkezésre állása a 95%-os szintet nem éri el.
+(3) A kötbér alapja a tárgyidőszakot megelőző 6 hónap – vagy a szolgáltatói szerződés hatályának a tárgyidőszakot
+megelőző időszakának, ha ez rövidebb, mint 6 hónap –átlagában a szolgáltató központosított mobil értékesítésű
+szolgáltatásainak továbbértékesítése után a nemzeti mobil fizetési szervezetet megillető havi nettó
+továbbértékesítési díj.
+(4) A kötbér a tárgyhavi elszámolást követő elszámoláskor esedékes.
+17. A szolgáltatói szerződés módosítása és megszűnése
+36. § (1) A szolgáltatóésszerűidőbentájékoztatjaamobilfizetésiszervezetetmindenolyankörülménymegváltozásáról,amely
+kihatással van a szolgáltatói szerződésre, és szükség esetén kezdeményezi annak módosítását.
+(2) A szolgáltatói szerződés módosítására a megkötésére vonatkozó szabályokat kell alkalmazni.
+37. § (1) A felek bármelyike felmondhatja a szolgáltatói szerződést, ha a Nmftv. szerinti szerződéskötési kötelezettség már nem
+terheli.
+(2) A felek a szolgáltatói szerződés megszűnését követő 30. napig egymással elszámolnak.
+IV. FEJEZET
+ZÁRÓ RENDELKEZÉSEK
+18. Hatályba léptető rendelkezés
+38. § Ez a rendelet 2013. április 1-jén lép hatályba.
+
+19. Az Európai Unió jogának való megfelelés
+39. § E rendelet az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű
+szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott
+állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat
+(HL L 7., 2012. 1. 11., 3. o.) hatálya alá tartozó támogatást tartalmaz.
+Orbán Viktor s. k.,
+miniszterelnök
