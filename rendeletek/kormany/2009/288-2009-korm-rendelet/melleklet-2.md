@@ -3826,6 +3826,6 @@
 
 | 2228 | Nemzetközi vándorlásban résztvevő állampolgárok adatai | A nemzetközi vándorlásban résztvevő magyar és külföldi állampolgárok demográfiai ismérvei (nem, kor, családi állapot, állampolgárság, születési ország, lakóhely) valamint a személyiadat- és lakcím nyilvántartáshoz kapcsolódó egyéb adatok |
 
-2. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^13]
+2. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^14]
 
-[^13]: A 2. melléklet a 243/2011. (XI. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 66. § (3) és (4) bekezdése szerint módosított szöveg.
+[^14]: A 2. melléklet a 243/2011. (XI. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 66. § (3) és (4) bekezdése szerint módosított szöveg.

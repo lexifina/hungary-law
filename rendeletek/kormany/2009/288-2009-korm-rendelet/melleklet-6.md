@@ -204,7 +204,7 @@
 
 | 2230 | Informatikakataszter az egészségügyi szolgáltatókról | (1) Intézmény és telephely informatikai jellemző adatai (2) Számítógép- és szerverkörnyezet |
 
-6. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^17]
+6. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^18]
 
 Országos Statisztikai Adatgyűjtési Program
 
@@ -212,4 +212,4 @@ Adatgyűjtések és Adatátvételek
 
 Típus: AGY = adatgyűjtés AÁ, adatátvétel
 
-[^17]: A 6. melléklet a 243/2011. (XI. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 300/2011. (XII. 22.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^18]: A 6. melléklet a 243/2011. (XI. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 300/2011. (XII. 22.) Korm. rendelet 11. §-a szerint módosított szöveg.

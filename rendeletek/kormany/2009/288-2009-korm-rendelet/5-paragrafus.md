@@ -6,5 +6,8 @@
 
 (3)[^8] A 2011. évre, mint tárgyévre vonatkozó, 2012-ben teljesítendő közvetlen adatgyűjtéseket és statisztikai célú adatátvételeket – kivéve az 1058, 1206, 1789 nyilvántartási számú adatgyűjtéseket – e rendelet 2011. december 31-én hatályos szabályai szerint kell teljesíteni.
 
+(4)[^9] A 2012. évre, mint tárgyévre vonatkozó 1210 nyilvántartási számú adatgyűjtés beérkezési határideje a települési önkormányzatok jegyzői és a városi/fővárosi kerületi gyámhivatalok tekintetében 2012. december 15.
+
 [^7]: A 4. § az 5. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
 [^8]: Az 5. § (3) bekezdése a 243/2011. (XI. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: Az 5. § (4) bekezdését a 340/2012. (XII. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.

@@ -52,6 +52,6 @@
 
 | 1915 | Családtámogatási statisztikai jelentés | (1) Gyermekgondozási segélyen lévők a) napok száma, gyermekek száma, igénybevevő családok száma (fő/hó kiadás Ft) b) nők, férfiak, ikergyermek esetén, méltányossági alapon, beteg gyermeket gondozó, nagyszülő, beteg, súlyosan fogyatékos gyermeke száma (2) Gyermeknevelési támogatásban részesülők: (napok száma, igénybevevő családok száma, fő/hó), (3) Anyasági támogatásban részesülők száma (napok száma, igénybevevő családok száma kiadás) (4) Anyasági támogatásban részesülők (Ikergyermek esetén, halva született gyermek esetén, gyermekek száma, igénybevevő családok száma) (5) Családi pótlékban részesülők (gyermek száma, igénybevevő családok száma kiadás Ft (ebből: nők, férfiak, magasabb összegű családi pótlékban részesülők, 18 év felettiek után, intézetben élő gyermekek, természetbeni családi pótlék) (6) Európai uniós családi ellátásban részesülő nő (7) Európai uniós családi ellátásban részesülő férfiak (8) Kereset kiegészítés (átmeneti kereset kiegészítésben részesülők (napok száma, igénybevevők száma kiadás Ft) |
 
-5. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^16]
+5. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^17]
 
-[^16]: Az 5. melléklet a 243/2011. (XI. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^17]: Az 5. melléklet a 243/2011. (XI. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

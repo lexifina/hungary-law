@@ -68,6 +68,6 @@
 
 |  |  | (16) Saját hatáskörben, nem fellebbezés alapján módosított vagy visszavont végzések száma (17) Másodfokon megváltoztatott vagy megsemmisített hatósági határozatok száma (18) Másodfokon megváltoztatott vagy megsemmisített hatósági végzések száma (19) Bírósági úton megtámadott hatósági határozatok száma (20) Bíróság által hatályon kívül helyezett vagy megváltoztatott hatósági határozatok száma (21) Bírósági úton megtámadott hatósági végzések száma (22) Bíróság által hatályon kívül helyezett vagy megváltoztatott hatósági végzések száma (23) Felügyeleti eljárásban magváltoztatott vagy megsemmisített hatósági határozatok száma (24) Felügyeleti eljárásban magváltoztatott vagy megsemmisített hatósági végzések száma (25) Ügyész által megóvott hatósági határozatok száma (26) Ügyész által megóvott hatósági végzések száma (27) Kijavított, kicserélt vagy kiegészített hatósági határozatok száma (28) Kijavított, kicserélt vagy kiegészített hatósági végzések száma (29) Hatósági nyilvántartásból történő, írásbeli adatszolgáltatások száma (30) Személyes ügyfélforgalom (31) Telefonos ügyfélforgalom (32) Interneten keresztüli ügyfélforgalom (33) Minőségbiztosítási rendszerrel rendelkezik (34) Teljes irodaterület (35) Teljes irodaterületből állami tulajdon (36) Teljes irodaterületből önkormányzati tulajdon |
 
-4. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^15]
+4. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^16]
 
-[^15]: A 4. melléklet a 243/2011. (XI. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^16]: A 4. melléklet a 243/2011. (XI. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
