@@ -1,0 +1,1 @@
+## 1. § E rendelet alkalmazásában átvett intézmény: az egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételéről és egyes törvények módosításáról szóló 2012. évi CXCII. törvény (a továbbiakban: Törvény) 2. § (1) bekezdése szerinti átvett intézmények.

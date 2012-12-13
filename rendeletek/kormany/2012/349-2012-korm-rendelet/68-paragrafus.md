@@ -1,0 +1,7 @@
+## 67. § Nem lép hatályba az R. 8–9. §-a és 10. § a) pontja.
+
+## 14. Záró rendelkezések
+
+68. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 9–19. §, a 21–22. §, a 27. § (1) és (3) bekezdése, a 29. § (2) bekezdése, a 32–49. § és az 51–66. § 2013. január 1-jén lép hatályba.
