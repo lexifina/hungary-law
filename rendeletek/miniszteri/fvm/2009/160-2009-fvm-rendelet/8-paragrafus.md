@@ -2,7 +2,7 @@
 
 ## A kifizetési kérelem benyújtása
 
-8. § (1)[^5] A kifizetési kérelmet postai úton vagy amennyiben annak feltételei fennállnak, az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendeletben meghatározottak szerint, az elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül lehet benyújtani. A kifizetési kérelemhez csatolandó dokumentumokat elektronikus benyújtás esetén elektronikus űrlapon, szkennelés útján előállított formában kell csatolni a kérelemhez.
+8. § (1)[^6] A kifizetési kérelmet postai úton vagy amennyiben annak feltételei fennállnak, az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén az elektronikus kérelembenyújtás alkalmazásáról szóló 80/2008. (IV. 4.) Korm. rendeletben meghatározottak szerint, az elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül lehet benyújtani. A kifizetési kérelemhez csatolandó dokumentumokat elektronikus benyújtás esetén elektronikus űrlapon, szkennelés útján előállított formában kell csatolni a kérelemhez.
 
 (2) A kifizetési kérelemnek a következőket kell tartalmaznia:
 
@@ -36,4 +36,4 @@ d) turisztikai szakmai szervezeti tagság igazolását.
 
 (4) Az első kifizetési kérelemhez az 5. § (10) bekezdés szerint megvalósuló fejlesztés esetében a közhasznú szervezetnek csatolnia kell a közhasznúságról szóló igazolást.
 
-[^5]: A 8. § (1) bekezdése az 57/2011. (VI. 20.) VM rendelet 13. §-ával megállapított szöveg.
+[^6]: A 8. § (1) bekezdése az 57/2011. (VI. 20.) VM rendelet 13. §-ával megállapított szöveg.

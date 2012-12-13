@@ -1,6 +1,6 @@
 ## A támogatási kérelem benyújtása
 
-6. § (1)[^3]
+6. § (1)[^4]
 
 (2) A támogatási kérelemnek a következőket kell tartalmaznia:
 
@@ -32,7 +32,7 @@ d) a Vhr. 27. § (1) bekezdés h) pontjában foglaltaknak megfelelő pénzügyi 
 
 e) a Vhr. 27. § (1) bekezdés i) pontjában foglaltaknak megfelelően, ha a kérelmezett támogatás összege az 5 000 000 forintot meghaladja, a természetes személy, mikro-, kis- és középvállalkozás ügyfélnek pénzügyi és üzleti tervet, a települési önkormányzat, települési kisebbségi önkormányzat, önkormányzati társulás, egyházi jogi személy vagy nonprofit szervezet ügyfélnek pénzügyi és működtetési és fenntarthatósági tervet,
 
-f)[^4] vadászatra jogosult ügyfél esetén az MgSzH által kiadott, az ügyfélnek az üzemeltetési kötelezettség időtartama alatt fennálló jogosultságáról szóló határozat hiteles másolatát, ha az ügyfél természetes személy, a vadásztársaság nyilatkozatát az ügyfél vadászati tagságáról;
+f)[^5] vadászatra jogosult ügyfél esetén az MgSzH által kiadott, az ügyfélnek az üzemeltetési kötelezettség időtartama alatt fennálló jogosultságáról szóló határozat hiteles másolatát, ha az ügyfél természetes személy, a vadásztársaság nyilatkozatát az ügyfél vadászati tagságáról;
 
 g) az értékeléshez az 1. mellékletben meghatározott pontozási szempontokat alátámasztó igazolásokat, nyilatkozatokat, dokumentumokat,
 
@@ -44,5 +44,5 @@ i) ha az ügyfél természetes személy, annak a hatósági igazolványnak a má
 
 (5) A „Kommunikációs terv” és „A vállalkozás társadalmi felelősségvállalása” című fejezetek nem képezik az üzleti terv vagy a működtetési és fenntarthatósági terv részét, benyújtásuk opcionális, függetlenül az üzleti terv vagy a működtetési és fenntarthatósági terv benyújtási kötelezettségtől. Benyújtásuk esetén a fejezeteket a (4) bekezdésben meghatározott arányosítást követően, a pontozás során egyenként maximum +5 ponttal kell figyelembe venni.
 
-[^3]: A 6. § (1) bekezdését a 35/2011. (IV. 29.) VM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
-[^4]: A 6. § (3) bekezdés f) pontja a 13/2010. (VIII. 30.) VM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^4]: A 6. § (1) bekezdését a 35/2011. (IV. 29.) VM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^5]: A 6. § (3) bekezdés f) pontja a 13/2010. (VIII. 30.) VM rendelet 6. § (4) bekezdésével megállapított szöveg.
