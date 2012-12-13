@@ -4,7 +4,7 @@
 
 2. § (1) E rendelet alkalmazásában:
 
-a)[^1] nonprofit szervezet: a közhasznú szervezetekről szóló 1997. évi CLVI. törvény 2. § (1) bekezdés a), b), c), g), valamint k) pontja szerinti szervezet, valamint az egyesülési jogról szóló az 1989. évi II. törvény alapján létrehozott egyesület;
+a)[^1] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
 
 b) egyházi jogi személy: a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény 13. § (2) és (3) bekezdése szerinti személy;
 
@@ -42,7 +42,7 @@ r)[^15] illetékes LEADER HACS: az Európai Mezőgazdasági Vidékfejlesztési A
 
 (2) Az e rendeletben nem szabályozott kérdésekben a mezőgazdasági, agrár-vidékfejlesztési, valamint a halászati támogatások egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény) és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) foglaltakat kell megfelelően alkalmazni.
 
-[^1]: A 2. § (1) bekezdés a) pontja az 56/2010. (V. 6.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^1]: A 2. § (1) bekezdés a) pontja a 126/2012. (XII. 12.) VM rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdés d) pontja a 161/2009. (XI. 19.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (1) bekezdés f) pontja a 161/2009. (XI. 19.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1) bekezdés g) pontja a 161/2009. (XI. 19.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
