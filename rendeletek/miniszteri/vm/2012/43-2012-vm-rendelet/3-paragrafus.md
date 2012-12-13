@@ -1,6 +1,6 @@
 ## 2. § Vissza nem térítendő támogatás vehető igénybe az 1. mellékletben meghatározott Natura 2000 területegységre vonatkozó Natura 2000 fenntartási terv elkészítésére.
 
-## 3. A támogatás mértéke
+## 3. [^1] A támogatás mértéke és a támogatható tevékenységek
 
 3. § (1) A támogatás mértéke az összes elszámolható kiadások 100%-a, de legfeljebb az 1. mellékletben a Natura 2000 területegységre vonatkozóan meghatározott maximálisan elszámolható kiadások mértékéig terjedhet.
 
@@ -20,12 +20,12 @@ e) a fenntartási tervek készítése során alkalmazott kommunikációs eszköz
 
 f) a projekt megvalósításához kapcsolódó számviteli, könyvvizsgálói szolgáltatások és a közbeszerzés költségei.
 
-(4) A dologi jellegű kiadások elismerhető mértéke legfeljebb az összes elszámolható kiadás 70%-a, az alábbi kitételek figyelembevételét követően
+(4)[^2] A területek felméréséhez, az érintettekkel való egyeztetéshez köthető – a személyi jövedelemadóról szóló törvény alapján – gépjármű üzemanyag felhasználás címén számlával igazolt üzemanyag vásárlás és a saját gépjármű hivatali célú használata együttesen nem haladhatja meg az összes elszámolható dologi és személyi jellegű kiadások 30%-át.
 
-a) a területek felméréséhez, az érintettekkel való egyeztetéshez köthető, a személyi jövedelemadóról szóló törvény (a továbbiakban: Szja tv.) alapján gépjármű üzemanyag-felhasználás címén számlával igazolt üzemanyag vásárlás esetén elszámolható kiadás nem haladhatja meg az összes elszámolható dologi jellegű kiadás, üzemanyag elszámolás és a (3) bekezdés d) pontjában meghatározott irodai költségek nélkül számított összegének 25%-át;
-
-b) a fenntartási tervek készítéséhez kapcsolódó, a (3) bekezdés d) pontjában meghatározott irodai költségek nem haladhatják meg az összes elszámolható dologi jellegű kiadás, üzemanyag elszámolás és a (3) bekezdés d) pontjában meghatározott irodai költségek nélkül számított összegének 15%-át.
-
-(5) A feladat ellátásához kötődő a 2. mellékletben meghatározott személyi jellegű kiadás az összes elszámolható kiadás legalább 30%-ában számolható el. A területek felméréséhez, az érintettekkel való egyeztetéshez köthető – az Szja tv. alapján – saját gépjármű hivatali célú használata nem haladhatja meg a gépkocsi-használat nélkül számított összes elszámolható személyi jellegű kiadás 25%-át.
+(5)[^3]
 
 (6) Amennyiben az ügyfél költségvetési szerv, az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 71. cikk (3) bekezdés a) pontja alapján a támogatás számításának alapja az összes nettó elszámolható kiadás.
+
+[^1]: A 3. alcím címe a 126/2012. (XII. 12.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § (4) bekezdése a 126/2012. (XII. 12.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^3]: A 3. § (5) bekezdését a 126/2012. (XII. 12.) VM rendelet 9. § (16) bekezdése hatályon kívül helyezte.

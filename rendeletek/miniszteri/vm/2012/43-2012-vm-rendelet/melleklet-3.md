@@ -1,6 +1,6 @@
 ## Elszámolható, működéshez kötődő személyi jellegű kiadások
 
-## a) az együttműködő felek alkalmazásában vagy velük szerződéses jogviszonyban álló személyek munkaszerződése és megbízási szerződés alapján kifizetett bére és járulékai;
+## a) az ügyfél alkalmazásában vagy vele munkavégzésre irányuló szerződéses jogviszonyban álló személyek munkaszerződése, illetve munkavégzésre irányuló jogviszonyt szabályozó szerződése alapján fizetett bér és járulékai;
 
 ## b) jogszabály alapján fizetett költségtérítések (munkába járás, utazási költségtérítés) a jogszabályokban meghatározott adómentes összegig fizetett része;
 

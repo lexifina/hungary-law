@@ -76,48 +76,6 @@
 
 ## c) visszajelzések bekérése: visszacsatolás, a kommunikáció hatékonyságának vizsgálat
 
-5. melléklet a 43/2012. (V. 3.) VM rendelethez
+5. melléklet a 43/2012. (V. 3.) VM rendelethez[^14]
 
-Értékelés
-
-|  | A | B | C |
-
-| 1. | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető maximális pontszám |
-
-| 2. | I. Természetvédelmi szakmai szempontok |
-
-| 3. | az együttműködő felek referenciáinak minősége | uniós vagy más nemzetközi tárfinanszírozású természetvédelmi tárgyú pályázatban való részvétel |  |
-
-| – vezetőként vagy egyedüli szervezetként | 13 |
-
-| – együttműködő félként | 11 |
-
-| 4. | közreműködés országos jelentőségű védett természeti terület természetvédelmi kezelési tervének elkészítésében | 13 |
-
-| 5. | közreműködés közösségi jelentőségű fajra vagy élőhelyre készített fajmegőrzési vagy kezelési terv elkészítésében | 13 |
-
-| 6. | egyéb faj, élőhely vagy terület kezelésére irányuló tanulmány elkészítése vagy részvétel fajmegőrzési, valamint természetvédelmi kezelési tárgyú hazai pályázatban |  |
-
-| – vezetőként vagy egyedüli szervezetként | 11 |
-
-| – együttműködő félként | 9 |
-
-| 7. | Összesen: |  | 50 pont |
-
-| 8. | II. Egyéb szakmai szempontok |
-
-| 9. | mezőgazdasági szakmai kompetencia | Az együttműködő felek alkalmazásában vagy megbízásában van olyan szaktanácsadó, aki az VM Vidékfejlesztési, Képzési és Szaktanácsadási Intézet által közzétett Szaktanácsadói Névjegyzékben és vagy NVT Tanácsadói Névjegyzékben szerepel | 10 |
-
-| 10. |  | A 6. § (2) bekezdés h) pontja szerinti alkalmazott vagy megbízott szakértő részt vett hagyományos, természetkímélő gazdálkodást megalapozó tanulmány elkészítésében | 10 |
-
-| 11. | természettudományi szakmai kompetencia | A 6. § (2) bekezdés h) pontja szerinti alkalmazott vagy megbízott szakértő részt vett közösségi jelentőségű fajra vagy élőhelyre készített fajmegőrzési vagy kezelési tervben vagy tanulmányban, illetve uniós vagy más nemzetközi társfinanszírozású, természetvédelmi tárgyú projektben | 10 |
-
-| 12. | együttműködő felek | nemzeti park igazgatóság ügyfélként részt vesz a megvalósításban | 10 |
-
-|  |  | nemzeti park igazgatóság együttműködő félként részt vesz a megvalósításban | 6 |
-
-| 13. | kötelezően megadott kommunikációs eszközökön túli vállalás | A 4. melléklet szerinti projekttervben és kommunikációs tervben egynél több nem kötelezően vállalandó kommunikációs eszköz vállalása – plusz eszközönként 2 pont | max. 10 |
-
-| 14. | Összesen: |  | 50 pont |
-
-| 15. | Mindösszesen (I.+II.): |  | 100 pont |
+[^14]: Az 5. melléklet a 126/2012. (XII. 12.) VM rendelet 9. § (12)–(14) bekezdése szerint módosított szöveg.

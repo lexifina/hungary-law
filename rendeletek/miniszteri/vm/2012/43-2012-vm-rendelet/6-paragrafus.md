@@ -12,6 +12,12 @@ e) az ügyfél nyilatkozatát a vonatkozó feltételek megismeréséről és tud
 
 f) az ügyfél aláírását.
 
+(1a)[^6] A támogatási kérelmet egy példányban 2013. január 21. és február 15. között postai úton nyújthat be az MVH-hoz, az MVH által rendszeresített, honlapján közzétett, legalább az (1) bekezdésben meghatározott adatokat tartalmazó formanyomtatványon az az ügyfél, aki
+
+a) az 5. § (2a) bekezdés szerinti területekre vonatkozó szakmai javaslattal rendelkezik vagy;
+
+b) az 5. § (2) bekezdés szerinti területekre vonatkozó szakmai javaslattal rendelkezik, de az (1) bekezdésben meghatározott időszakban benyújtott támogatási kérelmére elutasító határozatot kapott.
+
 (2) A támogatási kérelemhez mellékelni kell
 
 a) az 5. §-ban meghatározott szakmai javaslatot;
@@ -28,7 +34,7 @@ f) a 4. § (1) bekezdés b) pontjában szereplő alkalmazottak vagy megbízott s
 
 g) az alkalmazottak vagy a megbízott szakértők végzettségét igazoló okiratok másolatát;
 
-h) az ügyfél által kiállított nyilatkozatot, arról, hogy az alkalmazottak vagy a megbízott szakértők részt vettek közösségi jelentőségű fajra vagy élőhelyre készített fajmegőrzési vagy kezelési terv vagy tanulmány kidolgozásában, illetve uniós vagy más nemzetközi társfinanszírozású, természetvédelmi tárgyú projektben;
+h)[^7] az ügyfél által kiállított nyilatkozatot arról, hogy az alkalmazottak vagy a megbízott szakértők részt vettek közösségi jelentőségű fajra vagy élőhelyre készített fajmegőrzési vagy kezelési terv vagy tanulmány kidolgozásában; vagy uniós vagy más nemzetközi társfinanszírozású, természetvédelmi tárgyú projektben; vagy közreműködtek hagyományos, természetkímélő gazdálkodást megalapozó tanulmány elkészítésében;
 
 i) az együttműködő felek tevékenységét bemutató referencialistát tartalmazó nyilatkozatot az alábbiak szerint
 
@@ -44,4 +50,8 @@ ie) közreműködés hagyományos, természetkímélő gazdálkodást megalapoz�
 
 (3) A (2) bekezdés h) pontja szerinti, valamint a (2) bekezdés i) pontjában meghatározott referencialistát tartalmazó nyilatkozatban szereplő valamennyi szakmai referenciának tartalmaznia kell a projektet kiíró szervezet megnevezését, a projekt azonosítóját, a projekt címét, időtartamát, teljes költségvetését és az együttműködő feleknek a projektben betöltött szerepét, mely szerint vezető, egyedüli szervezet vagy együttműködő fél.
 
-(4) A (2) bekezdés i) pont szerinti referenciák közül az ia)–ie) alpontokban meghatározott kategóriánként egy referencia értékelhető.
+(4)[^8] A (2) bekezdés i) pont szerinti referenciák közül az ia)–id) alpontokban meghatározott kategóriánként egy referencia értékelhető.
+
+[^6]: A 6. § (1a) bekezdését a 126/2012. (XII. 12.) VM rendelet 9. § (5) bekezdése iktatta be.
+[^7]: A 6. § (2) bekezdés h) pontja a 126/2012. (XII. 12.) VM rendelet 9. § (6) bekezdésével megállapított szöveg.
+[^8]: A 6. § (4) bekezdése a 126/2012. (XII. 12.) VM rendelet 9. § (7) bekezdésével megállapított szöveg.

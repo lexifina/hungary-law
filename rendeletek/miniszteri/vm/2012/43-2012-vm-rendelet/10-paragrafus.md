@@ -14,21 +14,29 @@ d) 2014. november 1.–2015. január 31.
 
 (3) Egy ügyfél a megvalósítási időszak alatt legfeljebb két kifizetési kérelmet nyújthat be.
 
-(4) A kifizetési kérelemhez mellékelni kell
+(4)[^9] A kifizetési kérelemhez mellékelni kell
 
-a) a Szakmai Bizottság szakmai javaslatát
+a) a Szakmai Bizottság szakmai javaslatának eredeti példányát
 
 aa) az első kifizetési kérelem esetében a Natura 2000 fenntartási tervre vonatkozó előrehaladási jelentés (a továbbiakban: előrehaladási jelentés) megfelelőségéről,
 
 ab) az utolsó kifizetési kérelem esetében a Natura 2000 fenntartási terv megfelelőségéről;
 
-b) a kommunikációs terv alapján végzett tevékenységek végrehajtását – a 4. melléklet 5.4 pontjában meghatározott – igazoló dokumentumokat;
+b) a kommunikációs terv alapján végzett tevékenységek végrehajtását – a 4. melléklet 5.4 pontjában meghatározott – igazoló dokumentumok másolati példányát;
 
-c) a Natura 2000 fenntartási terv elkészítéséhez kapcsolódó tevékenységek költségeiről a 2. mellékletben szereplő elszámolható dologi és személyi költségekről készített, az MVH által közlemény útján közzétett számlaösszesítőt és a számlák és egyéb számviteli bizonylatok másolati példányát;
+c) a Natura 2000 fenntartási terv elkészítéséhez kapcsolódó tevékenységek költségeiről a 2. mellékletben szereplő elszámolható dologi és személyi költségekről készített, az MVH által közlemény útján közzétett számlaösszesítőt, a számlák és egyéb számviteli bizonylatok másolati példányát, valamint a 6. melléklet alapján az adott típusú elszámoláshoz szükséges dokumentumokat;
 
-d) a Natura 2000 területegység kezeléséért felelős igazgatóság nyilatkozata a 8. § (2) bekezdés szerinti tájékoztatás és konzultációs kötelezettség teljesítéséről;
+d) a Natura 2000 területegység kezeléséért felelős igazgatóság nyilatkozatának eredeti példányát a 8. § (2) bekezdés szerinti tájékoztatás és konzultációs kötelezettség teljesítéséről;
 
-e) az (5) bekezdésben megadottak szerint elkészített előrehaladási jelentést az első kifizetési kérelemhez kapcsolódóan, illetve a 8. § (1) bekezdés szerinti dokumentumot a utolsó kifizetési kérelemhez kapcsolódóan.
+e) az (5) bekezdésben megadottak szerint elkészített előrehaladási jelentést az első kifizetési kérelemhez kapcsolódóan, illetve a 8. § (1) bekezdés szerinti dokumentumot az utolsó kifizetési kérelemhez kapcsolódóan egy papír alapú példányban;
+
+f) az elszámolni kívánt személyi jellegű kiadásokra vonatkozóan a fenntartási terv készítése céljából létesített munkaviszonyt vagy munkavégzésre irányuló jogviszonyt szabályozó szerződés másolati példányát; és
+
+g) bruttó 100 000 forintot meghaladó számlatétel vagy azonos rendeltetésű termékbeszerzések és szolgáltatások számlatételeinek együttes összege esetén, amennyiben
+
+ga) a beszerzés értéke nem éri el a közbeszerzésekről szóló törvényben[^10] (a továbbiakban: Kbt.) meghatározott értékhatárt, a számlatételre vonatkozóan két árajánlatot és a választás indokolását;
+
+gb) a beszerzés értéke eléri a Kbt.-ben meghatározott értékhatárt az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: Vhr.) 33. § (1) és (2) bekezdésében meghatározott dokumentumokat.
 
 (5) Az előrehaladási jelentésnek a következő elemeket kell tartalmaznia
 
@@ -51,3 +59,6 @@ b) a Natura 2000 fenntartási terv esetében a 8. § (1) bekezdés
 szerint benyújtott dokumentumok alapján adja meg szakmai javaslatát.
 
 (8) A Natura 2000 fenntartási tervet a Szakmai Bizottság a (7) bekezdésben meghatározott 60 napon belül, egyszeri alkalommal átdolgozásra visszaadhatja.
+
+[^9]: A 10. § (4) bekezdése a 126/2012. (XII. 12.) VM rendelet 9. § (8) bekezdésével megállapított szöveg.
+[^10]: Lásd a 2011: CVIII. törvényt.
