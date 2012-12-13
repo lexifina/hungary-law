@@ -1,0 +1,3 @@
+3. § (1) Az e rendeletben előírt adatszolgáltatási kötelezettséget az összevont alapú felügyelet alá nem tartozó intézménynek egyedi alapon, az összevont alapú felügyelet alá tartozó intézménynek a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 90. § (2) bekezdésében, illetve a tőkepiacról szóló 2001. évi CXX. törvény 181/A. § (2) bekezdésében meghatározott vállalkozások vonatkozásában összevont alapon kell teljesíteni.
+
+(2) Az e rendeletben előírt adatszolgáltatási kötelezettséget a harmadik országban bejegyzett leányvállalat és fióktelep vonatkozásában is teljesíteni kell.
