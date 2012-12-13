@@ -16,7 +16,7 @@ e) falusi turizmus: a községben vagy más településeken falusias térségben
 
 f) agroturizmus: a mezőgazdaság területéhez kapcsolódó falusi turizmus;
 
-g) nonprofit szervezet: közhasznú szervezetekről szóló 1997. évi CLVI. törvény (a továbbiakban: 1997. évi CLVI. törvény) 2. § (1) bekezdés a), b), c), d), g), valamint k) pontja szerinti szervezet, az egyesülési jogról szóló az 1989. évi II. törvény alapján létrehozott egyesület;
+g)[^3] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
 
 h) egyházi jogi személy: a lelkiismeret és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény 13. § (2) és (3) bekezdése szerint;
 
@@ -24,7 +24,7 @@ i) hátrányos helyzetű terület: a kedvezményezett térségek besorolásáró
 
 j) vadászatra jogosult: a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 6. §-a szerinti jogosult;
 
-k)[^3] gazdaságon kívül végzett tevékenység: olyan tevékenység, amely független az ügyfél mezőgazdasági tevékenységétől, a mezőgazdasági tevékenységéhez kapcsolódó földterülettől és mezőgazdasági hasznosítású épületeitől;
+k)[^4] gazdaságon kívül végzett tevékenység: olyan tevékenység, amely független az ügyfél mezőgazdasági tevékenységétől, a mezőgazdasági tevékenységéhez kapcsolódó földterülettől és mezőgazdasági hasznosítású épületeitől;
 
 l) célterület: az intézkedésen, alintézkedésen belül jogszabályban meghatározott cél, amelyre a támogatott művelet irányul;
 
@@ -44,4 +44,5 @@ r) rekreációs szolgáltatások: az aktív, szabadidős tevékenységekhez kapc
 
 [^1]: A 2. § (1) bekezdés c) pontja a 170/2008. (XII. 31.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^2]: A 2. § (1) bekezdés d) pontja a 170/2008. (XII. 31.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^3]: A 2. § (1) bekezdés k) pontja a 170/2008. (XII. 31.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^3]: A 2. § (1) bekezdés g) pontja a 126/2012. (XII. 12.) VM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdés k) pontja a 170/2008. (XII. 31.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
