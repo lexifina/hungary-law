@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-355-20-
 | 2012-01-02 | 2011-355-20-22.2 | 2010: CXXX. törvény |
 | 2012-06-05 | 2011-355-20-22.3 | 111/2012. (VI. 4.) Korm. rendelet |
 | 2012-06-27 | 2011-355-20-22.4 | 118/2012. (VI. 26.) Korm. rendelet |
+| 2012-12-13 | 2011-355-20-22.5 | 351/2012. (XII. 12.) Korm. rendelet |

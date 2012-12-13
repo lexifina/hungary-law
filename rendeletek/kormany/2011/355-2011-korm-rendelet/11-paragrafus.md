@@ -6,11 +6,11 @@
 
 11. § (1) A Hivatal kormányzati ellenőrzési tevékenységét a 6. § szerinti feladatai figyelembevételével elkészített és a Kormány által jóváhagyott éves ellenőrzési terv alapján végzi.
 
-(2)[^5] A Hivatal éves ellenőrzési tervét a tárgyévet megelőző év december 15-éig az államtitkár útján nyújtja be a Kormánynak.
+(2)[^6] A Hivatal éves ellenőrzési tervét a tárgyévet megelőző év december 15-éig az államtitkár útján nyújtja be a Kormánynak.
 
-(3)[^6] A Kormány döntése, a miniszterelnök vagy az államtitkár utasítása alapján a Hivatal elnöke soron kívüli kormányzati ellenőrzést rendel el.
+(3)[^7] A Kormány döntése, a miniszterelnök vagy az államtitkár utasítása alapján a Hivatal elnöke soron kívüli kormányzati ellenőrzést rendel el.
 
 (4) A (3) bekezdésben meghatározott szerv vagy személy a Hivatal elnökét a már folyamatban lévő kormányzati ellenőrzés kiterjesztésére, módosítására vagy megszüntetésére is utasíthatja.
 
-[^5]: A 11. § (2) bekezdése a 118/2012. (VI. 26.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^6]: A 11. § (3) bekezdése a 118/2012. (VI. 26.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^6]: A 11. § (2) bekezdése a 118/2012. (VI. 26.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^7]: A 11. § (3) bekezdése a 118/2012. (VI. 26.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
