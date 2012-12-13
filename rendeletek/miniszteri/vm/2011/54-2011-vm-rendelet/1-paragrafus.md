@@ -6,11 +6,11 @@
 
 2. címvisszavonás: az ÚMVP Irányító Hatósága (a továbbiakban: IH) által határozatban adományozott LEADER Helyi Akciócsoport (a továbbiakban: LEADER HACS) cím és előzetes elismerés IH általi visszavonása;
 
-3. delegálási szerződés: a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) és a LEADER HACS között megkötött szerződés a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény alapján az MVH által ellátandó, továbbá az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet keretében nyújtott támogatás részletes feltételeiről szóló 141/2008. (X. 30.) FVM rendelet [a továbbiakban: 141/2008. (X. 30.) FVM rendelet] 3. § (1) bekezdés k) pontja alapján a MVH által átadott és a LEADER HACS által saját hatáskörben ellátandó feladatokról;
+3.[^1] delegálási szerződés: a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) és a LEADER HACS között megkötött szerződés a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény alapján az MVH által ellátandó, továbbá az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet keretében nyújtott támogatás részletes feltételeiről szóló 141/2008. (X. 30.) FVM rendelet [a továbbiakban: 141/2008. (X. 30.) FVM rendelet] 3. § (1) bekezdés k) pontja vagy a LEADER Helyi Akciócsoportok feladat ellátásához az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatás részletes feltételeiről szóló 30/2012. (III. 24.) VM rendelet [a továbbiakban: 30/2012. (III. 24.) VM rendelet] 2. § (1) bekezdés j) pontja alapján a MVH által átadott és a LEADER HACS által saját hatáskörben ellátandó feladatokról;
 
 4. egyesület: az egyesülési jogról szóló törvény szerinti társadalmi szervezet, ide nem értve a pártot és a szakszervezetet;
 
-5. Helyi Vidékfejlesztési Stratégia: az előzetesen elismert vidékfejlesztési akciócsoportnak, illetve új HACS-nak, később az IH által elismert LEADER HACS-nak az illetékességi területére kidolgozott és – az IH által meghatározott időközönként – aktualizált és az IH által jóváhagyott fejlesztési stratégiája;
+5.[^2] Helyi Vidékfejlesztési Stratégia: az előzetesen elismert vidékfejlesztési akciócsoportnak, illetve új Helyi Akciócsoportnak (a továbbiakban: új HACS-nak), később az IH által elismert LEADER HACS-nak az illetékességi területére kidolgozott és – az IH által meghatározott időközönként vagy a LEADER HACS kezdeményezésére – aktualizált és az IH által jóváhagyott fejlesztési stratégiája;
 
 6. jogosult település: e rendelet 1. melléklete szerinti település;
 
@@ -20,22 +20,26 @@
 
 9. LEADER: az 1698/2005/EK tanácsi rendelet 61. cikke szerint ekként meghatározott fogalom;
 
-10.[^1] LEADER HACS: az 1698/2005/EK tanácsi rendelet 62. cikkének megfelelő és az IH által elismert, jogi személyiséggel rendelkező helyi közösség, amely az elismerés iránti kérelemmel egyidejűleg vállalta a LEADER HACS minősítéshez kapcsolódó feltételek teljesítését;
+10.[^3] LEADER HACS: az 1698/2005/EK tanácsi rendelet 62. cikkének megfelelő és az IH által elismert, jogi személyiséggel rendelkező helyi közösség, amely az elismerés iránti kérelemmel egyidejűleg vállalta a LEADER HACS minősítéshez kapcsolódó feltételek teljesítését;
 
-11. LEADER HACS feladatok: a 141/2008. (X. 30.) FVM rendelet 3. § (1) bekezdésében, valamint a delegálási szerződésben meghatározott feladatok;
+11.[^4] LEADER HACS feladatok: a 141/2008. (X. 30.) FVM rendelet 3. § (1) bekezdésében, vagy a 30/2012. (III. 24.) VM rendelet 2. § (1) bekezdésében, valamint a delegálási szerződésben meghatározott feladatok;
 
 12. LEADER HACS illetékességi területe: a LEADER HACS előzetes elismeréséről vagy a LEADER HACS elismeréséről szóló határozatában meghatározott terület, amelynek vonatkozásában a LEADER HACS helyi vidékfejlesztési stratégiát fogalmaz meg;
 
-13. LEADER terv: a HVS azon része, amely az 1698/2005/EK tanácsi rendelet 61–65. cikkében előírtaknak, valamint az IH által meghatározott egyéb feltételeknek megfelelő fejlesztéseket tartalmaz;
+13.[^5] LEADER terv: a Helyi Vidékfejlesztési Stratégia (a továbbiakban: HVS) azon része, amely az 1698/2005/EK tanácsi rendelet 61–65. cikkében előírtaknak, valamint az IH által meghatározott egyéb feltételeknek megfelelő fejlesztéseket tartalmaz;
 
-14.[^2] munkaszervezet: a LEADER HACS által létrehozott, , ügyviteli és adminisztratív szervezet, amely a LEADER HACS és az IH között megkötött együttműködési szerződés alapján látja el tevékenységét az ÚMVP III. és IV. tengely intézkedéseinek végrehajtása érdekében, amelynek vezetője nem lehet a LEADER HACS címmel rendelkező egyesület elnöke;
+14.[^6] munkaszervezet: a LEADER HACS által létrehozott, , ügyviteli és adminisztratív szervezet, amely a LEADER HACS és az IH között megkötött együttműködési szerződés alapján látja el tevékenységét az ÚMVP III. és IV. tengely intézkedéseinek végrehajtása érdekében, amelynek vezetője nem lehet a LEADER HACS címmel rendelkező egyesület elnöke;
 
 15. új HACS: a címvisszavonással érintett LEADER HACS területén az IH felhívására vidékfejlesztési céllal szerveződő helyi közösség, amely az e rendelet szerinti előírások alapján szerveződik meg, és az IH-hoz benyújtja LEADER HACS-ként való elismerési kérelmét;
 
 16. üzleti szféra: a gazdálkodó szervezetek – az állami vagy önkormányzati vállalatok és azon gazdálkodó szervezetek kivételével, melyekben az állam vagy az önkormányzat Ptk. 685/B. §-ában meghatározott meghatározó befolyással rendelkezik –, ha nem állnak csődeljárás, felszámolási eljárás, végelszámolás alatt, vagy nincs 90 napnál hosszabb ideje esedékessé vált köztartozásuk;
 
-17.[^3] bevont szervezet: a LEADER HACS által megbízott jogi személyiségű szervezet, amely közreműködik a támogatott intézkedések keretében benyújtott támogatási kérelmek, pályázatok és kifizetési kérelmek feldolgozásában, értékelésében, ellenőrzésében.
+17.[^7] bevont szervezet: a LEADER HACS által megbízott jogi személyiségű szervezet, amely közreműködik a támogatott intézkedések keretében benyújtott támogatási kérelmek, pályázatok és kifizetési kérelmek feldolgozásában, értékelésében, ellenőrzésében.
 
-[^1]: Az 1. § 10. pontja a 30/2012. (III. 24.) VM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § 14. pontja a 76/2011. (VII. 29.) VM rendelet 29. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^3]: Az 1. § 17. pontját a 30/2012. (III. 24.) VM rendelet 15. § (2) bekezdése iktatta be.
+[^1]: Az 1. § 3. pontja a 126/2012. (XII. 12.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 5. pontja a 126/2012. (XII. 12.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § 10. pontja a 30/2012. (III. 24.) VM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § 11. pontja a 126/2012. (XII. 12.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^5]: Az 1. § 13. pontja a 126/2012. (XII. 12.) VM rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^6]: Az 1. § 14. pontja a 76/2011. (VII. 29.) VM rendelet 29. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^7]: Az 1. § 17. pontját a 30/2012. (III. 24.) VM rendelet 15. § (2) bekezdése iktatta be.

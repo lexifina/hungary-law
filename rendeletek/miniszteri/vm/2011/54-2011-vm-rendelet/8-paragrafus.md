@@ -8,6 +8,8 @@
 
 (4) A működésképtelenné vált LEADER HACS által a cím visszavonását megelőzően felmerült, a működési költségek fedezésére irányuló kifizetési kérelmeket az MVH elbírálja és a jogosultság megállapítása után teljesíti.
 
-(5) A működésképtelenné vált LEADER HACS delegálási szerződésének megszüntetésével egyidejűleg az MVH gondoskodik az iratok és a vagyontárgyak biztonságos elhelyezéséről, elszállításáról. Az iratok és a vagyontárgyak átadásának akadályozása, illetve hiány felfedezése esetén az MVH-nak meg kell állapítania a pontos hiányt és az azokért viselt felelősséget, s meg kell tennie a szükséges intézkedéseket.
+(5)[^18]
 
 (6) A LEADER HACS címének visszavonása és az új LEADER HACS cím odaítélése között eltelt időszakban az MVH által a LEADER HACS-ra átruházott feladatokat az MVH látja el.
+
+[^18]: A 8. § (5) bekezdését a 126/2012. (XII. 12.) VM rendelet 7. § (7) bekezdése hatályon kívül helyezte.

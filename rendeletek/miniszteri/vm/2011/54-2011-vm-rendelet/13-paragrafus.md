@@ -8,7 +8,7 @@ aa) döntéshozó testületének tagságán belül a civil és üzleti szféra e
 
 ab) és működési gyakorlata által biztosítja a korlátozásmentes tagfelvétel lehetőségét,
 
-ac)[^16]
+ac)[^22]
 
 b) meghatározott tagsága legalább húsz tagból áll, amelyben az üzleti és civil szféra szféránként legalább hat taggal képviselteti magát;
 
@@ -30,14 +30,17 @@ i) az új HACS területére vonatkozó fejlesztési elképzeléseit tartalmazó 
 
 (3) Új HACS elismerésére csak az (1) bekezdésben foglalt feltételek együttes teljesülése esetén kerülhet sor.
 
-(4) Amennyiben az adott szervezési területről több helyi szervezet nyújtja be elismerési kérelmét az IH-hoz, az IH az elismerési kérelmet benyújtó szervezetek közül, az e rendelet szerinti feltételek teljesítése mellett, azt a szervezetet ismeri el LEADER HACS-ként, amely
+(4)[^23] Amennyiben az adott szervezési területről több helyi szervezet nyújtja be elismerési kérelmét az IH vezetőjéhez, az IH az elismerési kérelmet benyújtó szervezetek közül, az e rendelet szerinti feltételek teljesítése mellett, azt a szervezetet ismeri el LEADER HACS-ként, amely
 
-a) HVS-e szakmailag megalapozottabb, valamint
+a) HVS-e szakmailag megalapozottabb,
 
-b) magasabb taglétszámmal rendelkezik és tagságában nagyobb aránnyal képviselteti magát a civil és üzleti szféra.
+b) amennyiben az a) pont szerinti megalapozottság nem állapítható meg, úgy magasabb taglétszámmal rendelkezik, vagy
+
+c) tagságában nagyobb aránnyal képviselteti magát a civil és üzleti szféra.
 
 (5) Az új HACS az egyesület nyilvántartásba vételéről vagy alapszabály-módosításának bíróság általi jóváhagyásáról haladéktalanul tájékoztatja az IH-t.
 
 (6) Az új HACS elismeréséről az IH a benyújtott dokumentumok alapján az (5) bekezdés szerinti tájékoztatást követően 30 napon belül határozatban dönt, s ezt követően további 30 napon belül a LEADER HACS és az IH együttműködési megállapodást köt.
 
-[^16]: A 13. § (1) bekezdés a) pont ac) alpontját a 76/2011. (VII. 29.) VM rendelet 29. § (3) bekezdés c) pontja hatályon kívül helyezte.
+[^22]: A 13. § (1) bekezdés a) pont ac) alpontját a 76/2011. (VII. 29.) VM rendelet 29. § (3) bekezdés c) pontja hatályon kívül helyezte.
+[^23]: A 13. § (4) bekezdése a 126/2012. (XII. 12.) VM rendelet 7. § (6) bekezdésével megállapított szöveg.
