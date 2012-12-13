@@ -16,9 +16,9 @@
 
 ## 8. a központi költségvetésről szóló törvény IX. fejezeténél a Belügyminisztérium és a belügyminiszter,
 
-## 9. a központi költségvetésről szóló törvény X. fejezeténél a Közigazgatási és Igazságügyi Minisztérium és a közigazgatási és igazságügyi miniszter, a Szellemi Tulajdon Nemzeti Hivatala tekintetében a Szellemi Tulajdon Nemzeti Hivatala és annak elnöke, az Egyenlő Bánásmód Hatóság tekintetében az Egyenlő Bánásmód Hatóság és annak elnöke, a Kormányzati Ellenőrzési Hivatal tekintetében a Kormányzati Ellenőrzési Hivatal és annak elnöke, a 24–26. cím tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter,
+## 9.[^66] a központi költségvetésről szóló törvény X. fejezeténél a Közigazgatási és Igazságügyi Minisztérium és a közigazgatási és igazságügyi miniszter, a Szellemi Tulajdon Nemzeti Hivatala tekintetében a Szellemi Tulajdon Nemzeti Hivatala és annak elnöke, az Egyenlő Bánásmód Hatóság tekintetében az Egyenlő Bánásmód Hatóság és annak elnöke, a 24–26. cím tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter,
 
-## 10. a központi költségvetésről szóló törvény XI. fejezeténél a Miniszterelnökség és a Miniszterelnökséget vezető államtitkár, a 3. és 4. cím tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter,
+## 10.[^67] a központi költségvetésről szóló törvény XI. fejezeténél a Miniszterelnökség és a Miniszterelnökséget vezető államtitkár, a Kormányzati Ellenőrzési Hivatal tekintetében a Kormányzati Ellenőrzési Hivatal és annak elnöke, a 3. és 4. cím tekintetében a Nemzetgazdasági Minisztérium és a nemzetgazdasági miniszter,
 
 ## 11. a központi költségvetésről szóló törvény XII-XV. és a XVIII. fejezeténél a minisztérium és a miniszter,
 
@@ -53,3 +53,5 @@
 2. melléklet a 368/2011. (XII. 31.) Korm. rendelethez
 
 [^65]: Az Ávr. 1. melléklet 2. pontja a 245/2012. (VIII. 31.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^66]: Az Ávr. 1. melléklet 9. pontja a 351/2012. (XII. 12.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^67]: Az Ávr. 1. melléklet 10. pontja a 351/2012. (XII. 12.) Korm. rendelet 2. §-a szerint módosított szöveg.
