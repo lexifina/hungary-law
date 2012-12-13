@@ -26,6 +26,8 @@ tartalmazza.
 
 (4) Amennyiben egy LEADER HACS címe visszavonásra kerül és új LEADER HACS címmel rendelkező szervezet nincs a korábbi LEADER HACS illetékességi területén, a LEADER HACS illetékességi területén a támogatási kérelmet az MVH illetékes regionális kirendeltségéhez kell benyújtani.
 
-(5) A (4) bekezdés alapján benyújtott támogatási kérelmet az MVH az 1. mellékletben lévő, a LEADER HACS illetékességi területére vonatkozó Értékelési táblázat alapján bírálja el.
+(5)[^4] A (4) bekezdés alapján benyújtott támogatási kérelmet az MVH az 1. mellékletben lévő, a LEADER HACS illetékességi területére vonatkozó Értékelési táblázat, valamint a 2. melléklet szerinti üzleti terv vagy működtetési és fenntarthatósági terv táblázat alapján bírálja el.
 
 (6) A 7. mellékletben a LEADER HACS-ok illetékességi területére vonatkozó igényelhető legmagasabb támogatási keretösszeget kell figyelembe venni abban az esetben is, ha a LEADER HACS cím birtokosa változik.
+
+[^4]: A 10. § (5) bekezdése a 126/2012. (XII. 12.) VM rendelet 10. § (3) bekezdésével megállapított szöveg.

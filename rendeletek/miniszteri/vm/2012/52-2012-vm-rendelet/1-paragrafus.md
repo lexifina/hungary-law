@@ -40,7 +40,7 @@ d) a helyi gazdálkodási módok, termelési szokások bemutatása;
 
 15. lovas turisztikai szolgáltatás: a lovas szolgáltató tevékenységről szóló 14/2008. (XII. 20.) ÖM rendeletben, valamint e rendeletben meghatározott követelményeknek megfelelően a lovaglás és a hajtás közül a lovagoltatáshoz, lovas oktatáshoz, lovas terápiához, terep- vagy túralovagláshoz, fogatoztatáshoz kapcsolódó turisztikai szolgáltatás;
 
-16. nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő társadalmi szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
+16.[^1] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
 
 17. rekreációs szolgáltatás: az aktív szabadidős tevékenységekhez kapcsolódó, az egészségmegőrzést célul kitűző szolgáltatás;
 
@@ -51,3 +51,5 @@ d) a helyi gazdálkodási módok, termelési szokások bemutatása;
 20. vízi turizmus: olyan szabadidős tevékenység, amelyet vízben, vízen végeznek; az aktív turizmus egy formája, amely során a turista utazásának motivációja valamilyen fizikai aktivitást igénylő szabadidős vagy sporttevékenység gyakorlása hazánk álló és folyóvizein a fürdőmedencék, fürdőházak és a hozzájuk kapcsolódó különböző wellness szolgáltatások kivételével.
 
 (2) E rendeletben nem szabályozott fogalmakat a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény) és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) foglaltaknak megfelelően kell értelmezni.
+
+[^1]: Az 1. § (1) bekezdés 16. pontja a 126/2012. (XII. 12.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
