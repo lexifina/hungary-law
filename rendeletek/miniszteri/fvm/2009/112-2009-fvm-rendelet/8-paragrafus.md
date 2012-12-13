@@ -110,15 +110,15 @@ ac) az aa) és ab) alpontban foglaltaktól eltérően 2012. szeptember 1. után 
 
 b) a nyitva tartásnak megfelelő módon a helyettesítés rendjéről gondoskodni;
 
-c) legalább egy fő munkavállaló részére képesítés megszerzését biztosítani, amely képzést a munkavállaló legkésőbb a munkába állást követő fél éven belül köteles megkezdeni, a képzés elvégzéséről kiállított igazolást legkésőbb az iratőrzési kötelezettség végéig megőrizni.
+c)[^42] legalább egy fő munkavállaló részére képesítés megszerzését biztosítani, amely képzést a 2013. január 1. előtt munkába állt munkavállaló legkésőbb 2013. június 30-áig, ezt követően legalább a munkába állást követő fél éven belül köteles megkezdeni, a képzés elvégzéséről kiállított igazolást legalább az iratőrzési kötelezettség végéig megőrizni.
 
-(7)[^42] A (6) bekezdés c) pontja szerinti képzés az alábbi formákban valósulhat meg:
+(7)[^43] A (6) bekezdés c) pontja szerinti képzés az alábbi formákban valósulhat meg:
 
 a) e-Tanácsadói képzés formájában, vagy
 
 b) a NAKVI által indított, a 6. számú mellékletben meghatározott és tartalmilag részletezett képzés elvégzésével.
 
-(8)[^43] Az ügyfél az üzemeltetési kötelezettség teljes időszakára vonatkozóan köteles:
+(8)[^44] Az ügyfél az üzemeltetési kötelezettség teljes időszakára vonatkozóan köteles:
 
 a) minden naptári félévre vonatkozóan a 7. § (2) bekezdés, illetve a 7. § (7)–(13) bekezdés, valamint az (1) bekezdésnek, illetve a (2) bekezdés d)–l) pontjának megfelelő naptári félévre vonatkozó IKSZT szolgáltatási- és programtervet (a továbbiakban: programterv) készíteni. Az első programterv elkészítése és a NAKVI részére jóváhagyás céljából történő megküldése az üzemeltetési kötelezettség megkezdésétől számított 30 napon belül esedékes, időtartama a naptári félév végéig érvényes, a továbbiakban az első naptári félévre vonatkozó programtervet a tárgyévet megelőző év november 30., illetve a második naptári félévre vonatkozó programtervet tárgyév május 31. napjáig az IKSZT szolgáltatás-tervezési felületen elkészítve a NAKVI részére jóváhagyás céljából megküldeni, amely programterv az alábbiakat tartalmazza:
 
@@ -148,9 +148,9 @@ e) valamely szolgáltatás ellátását, személyi változást, vagy az ügyfél
 
 f) a foglalkoztatottak aláírásával igazolt, a munkavégzés idejét tartalmazó, jelenléti ívet naprakészen vezetni.
 
-(9)[^44] A (7) bekezdés a) és b) pontjában felsorolt képzések megszerzése helyettesíthető legfeljebb 10 éve megszerzett főiskolai, vagy egyetemi felsőfokú végzettséggel, amelynek hitelesített oklevélmásolatát az ügyfélnek meg kell küldenie a NAKVI részére. A NAKVI a megküldött dokumentumok alapján igazolást állít ki az ügyfél részére, amelyet az ügyfél az iratőrzési kötelezettség végéig köteles megőrizni.
+(9)[^45] A (7) bekezdés a) és b) pontjában felsorolt képzések megszerzése helyettesíthető legfeljebb 10 éve megszerzett főiskolai, vagy egyetemi felsőfokú végzettséggel, amelynek hitelesített oklevélmásolatát az ügyfélnek meg kell küldenie a NAKVI részére. A NAKVI a megküldött dokumentumok alapján igazolást állít ki az ügyfél részére, amelyet az ügyfél az iratőrzési kötelezettség végéig köteles megőrizni.
 
-(10)[^45] A (7) bekezdés a) és b) pontjában felsorolt képzés megkezdéséről az ügyfél a munkavállaló munkába állását követő fél éven belül köteles a NAKVI felé jelenteni arról, hogy a munkavállaló a képzési kötelezettségeit határidőn belül megkezdte.
+(10)[^46] A (7) bekezdés a) és b) pontjában felsorolt képzés megkezdéséről az ügyfél a munkavállaló munkába állását követő fél éven belül köteles a NAKVI felé jelenteni arról, hogy a munkavállaló a képzési kötelezettségeit határidőn belül megkezdte.
 
 [^31]: A 8. § (1) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^32]: A 8. § (1a) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (1) bekezdése iktatta be.
@@ -163,7 +163,8 @@ f) a foglalkoztatottak aláírásával igazolt, a munkavégzés idejét tartalma
 [^39]: A 8. § (2) bekezdés k) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^40]: A 8. § (2) bekezdés l) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^41]: A 8. § (6) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^42]: A 8. § (7) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^43]: A 8. § (8) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^44]: A 8. § (9) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdése iktatta be.
-[^45]: A 8. § (10) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdése iktatta be.
+[^42]: A 8. § (6) bekezdés c) pontja a 126/2012. (XII. 12.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^43]: A 8. § (7) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^44]: A 8. § (8) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^45]: A 8. § (9) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdése iktatta be.
+[^46]: A 8. § (10) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdése iktatta be.

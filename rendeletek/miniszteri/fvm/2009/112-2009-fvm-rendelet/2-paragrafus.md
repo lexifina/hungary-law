@@ -16,7 +16,7 @@ e) IKSZT megvalósulási helyszín: a címbirtokosi okiratban az adott IKSZT kia
 
 f) kisléptékű infrastruktúra-fejlesztés: e rendelet 2. számú mellékletének 2. pontja szerinti tevékenység;
 
-g)[^2] nonprofit szervezet: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 2. § 6. pontja szerinti civil szervezet a pártok és szakszervezetek kivételével, az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény szerinti közalapítvány, a gazdasági társaságokról szóló 2006. évi IV. törvény alapján létrehozott nonprofit gazdasági társaság, valamint a statisztikai számjel elemeiről és nómenklatúráiról szóló 21/2012. (IV. 16.) KIM rendelet 2. számú melléklet 599. pontja szerinti egyéb jogi személyiségű nonprofit szervezet;
+g)[^2] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
 
 h)[^3] egyházi és belső egyházi jogi személy: a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 7. §-a szerinti jogi személy;
 
@@ -47,7 +47,7 @@ t)[^12] teljesítésigazolás: a NAKVI által kiállított, a szakmai beszámol�
 (2) Az e rendeletben nem szabályozott kérdésekben a mezőgazdasági, agrár-vidékfejlesztési, valamint a halászati támogatások egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény) és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) foglaltakat kell megfelelően alkalmazni.
 
 [^1]: A 2. § (1) bekezdés a) pontja a 84/2012. (VIII. 2.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (1) bekezdés g) pontja a 84/2012. (VIII. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdés g) pontja a 126/2012. (XII. 12.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (1) bekezdés h) pontja a 84/2012. (VIII. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1) bekezdés i) pontja a 84/2012. (VIII. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^5]: A 2. § (1) bekezdés j) pontja a 84/2012. (VIII. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.

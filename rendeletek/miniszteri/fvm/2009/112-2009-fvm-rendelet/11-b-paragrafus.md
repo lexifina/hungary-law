@@ -1,6 +1,6 @@
-## Szakmai beszámoló készítése és benyújtása[^50]
+## Szakmai beszámoló készítése és benyújtása[^53]
 
-11/B. §[^51] (1) Az ügyfél a szakmai beszámolási időszak utolsó napját követő 5 munkanapon belül köteles szakmai beszámolót benyújtani a NAKVI részére, a 8. § (8) bekezdés a) pontjában meghatározott programterv adott időszakra vonatkozó megvalósításáról. A szakmai beszámolók 2013-ban, valamint azt követően évente
+11/B. §[^54] (1) Az ügyfél a szakmai beszámolási időszak utolsó napját követő 5 munkanapon belül köteles szakmai beszámolót benyújtani a NAKVI részére, a 8. § (8) bekezdés a) pontjában meghatározott programterv adott időszakra vonatkozó megvalósításáról. A szakmai beszámolók 2013-ban, valamint azt követően évente
 
 a) január 5-ig,
 
@@ -28,5 +28,5 @@ d) a 8. § (1) bekezdés a) pontja szerinti szolgáltatás működtetése eseté
 
 (5) Amennyiben a (4) bekezdésben meghatározott ellenőrzés során megállapítást nyer, hogy a szakmai beszámolókhoz kapcsolódóan jogkövetkezményt kell alkalmazni, akkor valamennyi szakmai beszámolási időszak alkalmával a 12. § (1) bekezdés a) pontjában meghatározottakat kell alkalmazni. A NAKVI által az MVH felé benyújtott teljesítésigazolás alapján a 12. § (1) bekezdés a) pontjában meghatározott jogkövetkezményt az MVH alkalmazza.
 
-[^50]: A 11/B. §-t megelőző alcímet a 84/2012. (VIII. 2.) VM rendelet 7. §-a iktatta be.
-[^51]: A 11/B. §-t a 84/2012. (VIII. 2.) VM rendelet 7. §-a iktatta be.
+[^53]: A 11/B. §-t megelőző alcímet a 84/2012. (VIII. 2.) VM rendelet 7. §-a iktatta be.
+[^54]: A 11/B. §-t a 84/2012. (VIII. 2.) VM rendelet 7. §-a iktatta be.
