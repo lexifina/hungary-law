@@ -2,4 +2,6 @@
 
 (2) E rendelet rendelkezéseit kell alkalmazni továbbá akkor is, ha jogszabály a kérelmező, igénylő komplex minősítését rendeli el.
 
-(3) Az 1. mellékletet kell alkalmazni a Nemzeti Rehabilitációs és Szociális Hivatalról, valamint eljárásának részletes szabályairól szóló 331/2010. (XII. 27.) Korm. rendelet 7. § (1) bekezdés b), c), e), h)–l) pontja, továbbá 7. § (2) bekezdés b) és h)–l) pontja szerinti esetekben is.
+(3)[^1] Az 1. mellékletet kell alkalmazni a Nemzeti Rehabilitációs és Szociális Hivatalról, valamint a szakmai irányítása alá tartozó rehabilitációs szakigazgatási szervek feladat- és hatásköréről szóló 95/2012. (V. 15.) Korm. rendelet 13. § (2) bekezdés a)–c) és e)–i) pontja, továbbá 13. § (3) bekezdés b) és f)–j) pontja szerinti esetekben is.
+
+[^1]: Az 1. § (3) bekezedése a 47/2012. (XII. 11.) EMMI rendelet 10. §-ával megállapított szöveg.
