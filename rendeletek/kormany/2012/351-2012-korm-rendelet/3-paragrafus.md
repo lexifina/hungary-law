@@ -1,1 +1,0 @@
-## 2. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 1. melléklet 10. pontjában a „Miniszterelnökséget vezető államtitkár,” szövegrész helyébe a „Miniszterelnökséget vezető államtitkár, a Kormányzati Ellenőrzési Hivatal tekintetében a Kormányzati Ellenőrzési Hivatal és annak elnöke,” szöveg lép.
