@@ -1,1 +1,0 @@
-9. § (1) Az Európai Mezőgazdasági Vidékfejlesztési Alapból a Natura 2000 területek fenntartási terveinek készítéséhez nyújtandó támogatás igénybevételének részletes szabályairól szóló 43/2012. (V. 3.) VM rendelet (a továbbiakban: R5.) 3. alcím címének helyébe a következő cím lép:
