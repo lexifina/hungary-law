@@ -1,8 +1,8 @@
-10/A. §[^52] (1) Az akkreditációs eljárás a szakmai továbbképzés szervezésére és lebonyolítására jelentkező szervezet (a továbbiakban: szervezet) kérelmére indul. A kérelmet a 4. számú mellékletben meghatározott tartalommal, a (7) bekezdésben felsorolt mellékletekkel együtt kell legkésőbb a továbbképzési évet megelőző év november 30-áig a pénzügyminiszternek benyújtani.
+10/A. §[^59] (1) Az akkreditációs eljárás a szakmai továbbképzés szervezésére és lebonyolítására jelentkező szervezet (a továbbiakban: szervezet) kérelmére indul. A kérelmet a 4. számú mellékletben meghatározott tartalommal, a (7) bekezdésben felsorolt mellékletekkel együtt kell legkésőbb a továbbképzési évet megelőző év november 30-áig a pénzügyminiszternek benyújtani.
 
 (2) Az akkreditációs eljárás annak megállapítására irányul, hogy a szervezet megfelel-e az e rendeletben meghatározott feltételeknek.
 
-(3)[^53] A pénzügyminiszter az akkreditáció iránti kérelmek elbírálása során ellenőrzi, hogy a benyújtott dokumentumok megfelelnek-e az e rendeletben meghatározott követelményeknek, és szükség esetén hiánypótlásra hívja fel a szervezetet. A szervezetnek a hiánypótlásra a hiánypótlási felhívás közlésétől számított nyolc napig van lehetősége.
+(3)[^60] A pénzügyminiszter az akkreditáció iránti kérelmek elbírálása során ellenőrzi, hogy a benyújtott dokumentumok megfelelnek-e az e rendeletben meghatározott követelményeknek, és szükség esetén hiánypótlásra hívja fel a szervezetet. A szervezetnek a hiánypótlásra a hiánypótlási felhívás közlésétől számított nyolc napig van lehetősége.
 
 (4) Akkreditációt az a felnőttképzési tevékenység folytatására jogosult szervezet kaphat, amely
 
@@ -26,11 +26,11 @@ b) az a tény igazolja, hogy a szervezet szerepel a köztartozásmentes adózói
 
 a) a kérelmező felnőttképzési tevékenység folytatására való jogosultságát igazoló dokumentumokat,
 
-b) az oktatók név szerinti felsorolását, az oktatók szakirányú felsőfokú végzettségét igazoló oklevél másolatát és részletes szakmai önéletrajzát, különös tekintettel a szaknak megfelelő szakmai és oktatási gyakorlatra, valamint az oktatók nyilatkozatát arra vonatkozóan, hogy a kérelemben meghatározott adataiknak – az akkreditációs feltételek fennállásának ellenőrzése érdekében – a szervezet és a pénzügyminiszter által történő kezeléséhez hozzájárulnak, továbbá, hogy a szervezetnél oktatást vállalnak.
+b)[^61] a szervezettel munkavégzésre irányuló jogviszonyban álló oktatók név szerinti felsorolását, az oktatók szakirányú felsőfokú végzettségét igazoló oklevél másolatát és részletes szakmai önéletrajzát, különös tekintettel a szaknak megfelelő szakmai és oktatási gyakorlatra, valamint az oktatók nyilatkozatát arra vonatkozóan, hogy a kérelemben meghatározott adataiknak – az akkreditációs feltételek fennállásának ellenőrzése érdekében – a szervezet és a nyilvántartásba vételt végző szervezet által történő kezeléséhez hozzájárulnak, továbbá, hogy a szervezetnél oktatást vállalnak.
 
 (8) Az a szervezet, amely korábbi – a 2009. január 1-jét megelőzően hatályos előírások szerinti – nyertes pályázata alapján már szervezett – e rendelet szerinti – kötelező továbbképzést, az akkreditáció iránti kérelméhez csak azon oktatóknak a részletes szakmai önéletrajzát és iskolai végzettségéről szóló dokumentumát köteles csatolni, akik a korábbi nyertes pályázatokban nem szerepeltek.
 
-(9) Az akkreditációval rendelkező szervezeteket a pénzügyminiszter a könyvviteli szolgáltatást végzők továbbképzésében közreműködő szervezetként nyilvántartásba veszi. A nyilvántartás tartalmazza a szervezet által az akkreditáció iránti kérelmében megadott adatait.
+(9)[^62] Az akkreditációval rendelkező szervezeteket a nyilvántartásba vételt végző szervezet a könyvviteli szolgáltatást végzők továbbképzésében közreműködő szervezetként nyilvántartásba veszi. A nyilvántartás tartalmazza a szervezet által az akkreditáció iránti kérelmében megadott adatait.
 
 (10) Az akkreditációval rendelkező szervezet a nyilvántartásban szereplő adataiban bekövetkezett változásokat 60 napon belül köteles bejelenti a 4. számú mellékletben meghatározott adattartalommal.
 
@@ -56,7 +56,10 @@ g) nem az e rendeletben előírt további feltételek szerint jár el.
 
 (14) Az akkreditációs eljárás során a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni a számviteli törvényben és az e rendeletben foglaltak figyelembevételével.
 
-(15) Ha a szervezet nem csatolja a (6) bekezdés a) pontjában, valamint a (7) bekezdés a) pontjában foglaltak igazolására szolgáló dokumentumokat, a pénzügyminiszter megkeresi az adatokról nyilvántartást vezető hatóságot az adatok megszerzése érdekében.
+(15)[^63] Ha a szervezet nem csatolja a (6) bekezdés a) pontjában, valamint a (7) bekezdés a) pontjában foglaltak igazolására szolgáló dokumentumokat, a nyilvántartásba vételt végző szervezet megkeresi az adatokról nyilvántartást vezető hatóságot az adatok megszerzése érdekében.
 
-[^52]: A 10/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 270. § (10) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^53]: A 10/A. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (33) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^59]: A 10/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 270. § (10) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^60]: A 10/A. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (33) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^61]: A 10/A. § (7) bekezdés b) pontja a 357/2012. (XII. 13.) Korm. rendelet 16. § (1) bekezdés g) és j) pontja szerint módosított szöveg.
+[^62]: A 10/A. § (9) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 16. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^63]: A 10/A. § (15) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 16. § (1) bekezdés g) pontja szerint módosított szöveg.

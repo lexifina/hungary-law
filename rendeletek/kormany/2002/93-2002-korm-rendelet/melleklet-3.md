@@ -46,6 +46,6 @@
 
 ## ** Budapesti Közgazdaságtudományi és Államigazgatási Egyetem.
 
-3. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^87]
+3. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^103]
 
-[^87]: A 3. számú melléklet a 74/2009. (IV. 8.) Korm. rendelet 7. § (2) bekezdésével és a 182/2009. (IX. 10.) Korm. rendelet 273. § (2) bekezdésének b) pontja szerint módosított 2. számú mellékletével megállapított szöveg.
+[^103]: A 3. számú melléklet a 74/2009. (IV. 8.) Korm. rendelet 7. § (2) bekezdésével és a 182/2009. (IX. 10.) Korm. rendelet 273. § (2) bekezdésének b) pontja szerint módosított 2. számú mellékletével megállapított szöveg.
