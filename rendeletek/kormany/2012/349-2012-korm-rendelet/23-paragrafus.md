@@ -1,3 +1,3 @@
-## 21–22. §[^3]
+## 21–22. §[^5]
 
-[^3]: A 21–22. § a 68. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^5]: A 21–22. § a 68. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
