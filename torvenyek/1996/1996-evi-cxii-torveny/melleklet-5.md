@@ -171,7 +171,3 @@ f) ha a hitelintézet a hitelezési kockázatát belső minősítésen alapuló 
 az alárendelt kölcsöntőke figyelembe nem vehető része.
 
 18. A törvény alkalmazásában járulékos kölcsöntőkének minősül minden olyan kölcsön, amely:
-
-a) kielégíti a 11. pont a)–m) és o)–q) alpontban meghatározott feltételeket, és
-
-b) ha egy adott évben a 11. pont k) alpontjában meghatározott szabály alapján kamat vagy bármilyen más jogcímen kifizetés nem teljesíthető, akkor a következő években a kölcsönnyújtó erre az elmaradt összegre kizárólag akkor tarthat igényt, ha a teljesítés a 11. pont k) alpontjában meghatározott szabályok alapján lehetséges. A kölcsönnyújtó késedelmi kamatra nem tarthat igényt.
