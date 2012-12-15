@@ -25,3 +25,5 @@
 (13) A Mód. törvénnyel megállapított 155/A. §-t a hatálybalépésekor folyamatban lévő, vagy ezt követően indított végrehajtási eljárásokban kell alkalmazni.
 
 (15) E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény, valamint a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény módosításáról szóló 2012. évi CXXXV. törvénnyel megállapított 24/C. § (13) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(16) Az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvénnyel megállapított 24/A. § (1) bekezdés d) pontot az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvény hatálybalépésekor folyamatban lévő kormányzati ellenőrzések során is alkalmazni kell.

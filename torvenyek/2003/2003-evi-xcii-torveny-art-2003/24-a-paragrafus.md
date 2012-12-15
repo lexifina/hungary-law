@@ -4,7 +4,9 @@ a) az adózónak postai úton, hivatalos iratként kézbesített adóhatósági 
 
 b) az adózó székhelyén végzett helyszíni eljárás alapján hitelt érdemlően tudomást szerez arról, hogy az adózó a székhelyén nem található,
 
-c) az adózó az állami adóhatósághoz teljesítendő bevallási vagy adófizetési (adóelőleg-fizetési) kötelezettségének a törvényi határidőtől, illetve az esedékességtől számított 365 napon belül, az állami adóhatóság felszólítása ellenére nem tesz eleget.
+c) az adózó az állami adóhatósághoz teljesítendő bevallási vagy adófizetési (adóelőleg-fizetési) kötelezettségének a törvényi határidőtől, illetve az esedékességtől számított 365 napon belül, az állami adóhatóság felszólítása ellenére nem tesz eleget,
+
+d) azt a kormányzati ellenőrzési szerv vezetője az Áht. 65. § (2) bekezdés b) pontjában meghatározott esetben kezdeményezi.
 
 (2) Az adóhatóság az adószám alkalmazásának felfüggesztéséről határozattal dönt, a határozat elleni fellebbezést a közléstől számított 15 napon belül lehet előterjeszteni. A fellebbezést az ügy összes iratával a felettes szervhez a fellebbezés megérkezésétől számított 8 napon belül kell felterjeszteni, kivéve ha az adóhatóság a megtámadott határozatot a fellebbezésnek megfelelően módosítja, visszavonja, kijavítja vagy kiegészíti. A felettes szerv a fellebbezésről 15 napon belül dönt és az ügy iratait haladéktalanul visszaküldi az adóhatóságnak. Az adóhatóság a jogerőre emelkedés megállapítását követő napon megkeresi a cégbíróságot, illetve az egyéni vállalkozók nyilvántartását vezető szervet a felfüggesztés tényének és kezdőidőpontjának cégjegyzékbe, illetve az egyéni vállalkozók nyilvántartásába való bejegyzése, érdekében, továbbá a felfüggesztésről értesíti az adózó nyilvántartását vezető egyéb szervet. Ha a felfüggesztés elrendelésére az (1) bekezdés a)–b) pontja alapján került sor, az adóhatóság a cégbíróság megkeresésével egyidejűleg törvényességi felügyeleti eljárást, illetve az ismeretlen székhelyű cég megszüntetése iránti eljárást kezdeményez.
 
