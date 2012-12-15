@@ -16,4 +16,4 @@
 
 (7) Kényszerleszállás esetén a repülőtér üzemben tartója köteles a légijármű részére segítséget nyújtani.
 
-(8) A nem nyilvános repülőtér igénybevételét a repülőtér üzemben tartója engedélyezheti. A használatért ellenszolgáltatás nem kérhető.
+(8) A nem nyilvános repülőtér igénybevételét a repülőtér üzemben tartója engedélyezheti. A polgári célú nem nyilvános repülőtér használatáért ellenszolgáltatás kérhető, amelyet a repülőtér üzemben tartója állapít meg és a 72. §-ban említett légiforgalmi tájékoztató kiadványban tesz közzé.

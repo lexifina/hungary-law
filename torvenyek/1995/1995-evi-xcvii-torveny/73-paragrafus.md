@@ -50,7 +50,7 @@ x) a tagállamok és harmadik országok közötti légiközlekedési szolgáltat
 
 y) a bajba jutott vagy eltűnt légijárművek megsegítését, valamint a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenységet ellátó légi kutató-mentő szolgálat szervezetét, működésének, fenntartásának, riasztásának és a mentéssel járó költségek viselésének a rendjét, e tevékenységek engedélyezésére vonatkozó szabályokat, valamint
 
-z) a lajstromozásra nem kötelezett légijárművekkel kapcsolatos feladatokat, amelyeket nem közigazgatási feladat ellátására létrehozott szervezet lát el, továbbá az azokkal kapcsolatos eljárási szabályokat,
+z)
 
 aa) a veszélyes áruk légi szállításra történő előkészítésére, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbítására vonatkozó jogszabályi előírások betartásának a hivatásos katasztrófavédelmi szerv által végzett ellenőrzésére és bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az e törvény alapján az egyes szabálytalanságokért a hivatásos katasztrófavédelmi szerv által kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
 
