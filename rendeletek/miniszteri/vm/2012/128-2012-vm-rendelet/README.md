@@ -1,0 +1,9 @@
+# 128/2012. (XII. 14.) VM rendelet
+
+a szőlészeti és a borászati adatszolgáltatás, valamint a származási bizonyítványok kiadásának rendjéről, továbbá a borászati termékek előállításáról, forgalomba hozataláról és jelöléséről szóló 127/2009. (IX. 29.) FVM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-128-20-2Y
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-12-15 | 2012-128-20-2Y.1 | 128/2012. (XII. 14.) VM rendelet |

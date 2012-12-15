@@ -1,0 +1,3 @@
+## 6. § Az R. 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Szőlő származási bizonyítvány elvesztését vagy megsemmisülését az azt kiállító hegybíró részére kell bejelenteni. A bejelentés alapján a hegybíró a HEGYIR-ben rögzített adatok alapján új sorszámú, biztonsági jellel ellátott bor származási bizonyítványt állít ki. Az új borszármazási bizonyítvány megjegyzés rovatában kötelező feltüntetni a régi származási bizonyítvány számát és az új bizonyítvány kiállításának az okát. Az új bor származási bizonyítvány kiadásáról a hegybíró jegyzőkönyvet vesz fel. Elveszett vagy megsemmisült bor származási bizonyítvány pótlását öt éven belül lehetséges kezdeményezni.”
