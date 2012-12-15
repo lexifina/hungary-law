@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-64-20-8
 | --- | --- | --- |
 | 2008-04-17 | 1998-64-20-82.5 | 64/1998. (XII. 31.) FVM rendelet |
 | 2012-02-01 | 1998-64-20-82.6 | 148/2011. (XII. 29.) VM rendelet |
+| 2012-12-15 | 1998-64-20-82.7 | 127/2012. (XII. 12.) VM rendelet |

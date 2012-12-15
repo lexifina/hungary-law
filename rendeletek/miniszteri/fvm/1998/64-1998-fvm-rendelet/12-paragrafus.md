@@ -4,4 +4,6 @@
 
 (3) A tenyésztésvezetőnek agrár-, erdészeti, vadgazdálkodási, állatorvosi vagy biológusi felsőfokú végzettséggel kell rendelkeznie.
 
-(4) Az 5. § (2) bekezdése szerinti szakmai véleménynek ki kell terjednie a tenyésztésvezető személyi alkalmasságára, felelősségére, több fajta esetén azonos személy megnevezésekor a megbízatások elláthatóságának véleményezésére is.
+(4)[^36]
+
+[^36]: A 12. § (4) bekezdését a 127/2012. (XII. 12.) VM rendelet 2. §-a hatályon kívül helyezte.
