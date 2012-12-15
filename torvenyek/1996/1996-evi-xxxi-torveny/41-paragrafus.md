@@ -12,4 +12,4 @@
 
 (6) A hivatásos katasztrófavédelmi szerv, valamint az önkormányzati tűzoltóság tagjai, továbbá az önkéntes tűzoltó egyesületek szaktevékenységet irányító tagja a külön jogszabályban előírt képesítés megszerzésére kötelezett.
 
-(7) A képzés költségeit – a külön jogszabályban meghatározott kivételekkel – a küldő szerv vagy a hallgató viseli.
+(7) A hivatásos katasztrófavédelmi szervek tagjai, az önkormányzati tűzoltóságok tisztségviselői, valamint az önkéntes tűzoltó egyesületek szaktevékenységet irányító tagjai a katasztrófák elleni védekezésért felelős miniszter által rendeletben előírt képesítés megszerzése során a képzés költségei tekintetében mentességet élveznek a hivatásos katasztrófavédelmi szervezet szakképző intézményében. A képzéshez kapcsolódó utazási, élelmezési, szállás-, tanszer-, tankönyv-, jegyzet-, bizonyítvány-, a vizsgabizottság működésével kapcsolatos költségeket, valamint a képzéshez szükséges foglalkozás-egészségügyi alkalmassági vizsgálatok költségeit a beiskolázó szerv vagy a képzésben résztvevő viseli.

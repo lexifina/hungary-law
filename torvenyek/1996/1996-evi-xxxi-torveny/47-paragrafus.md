@@ -28,7 +28,7 @@ j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzo
 
 3. a tűzesetek vizsgálatára vonatkozó szabályokat,
 
-4. a tűzoltók és a tűzvédelmi szervezetek tagjainak képesítési követelményeit, képzési rendszerét,
+4. a hivatásos katasztrófavédelmi szervek, a tűzvédelmi szakértők, az önkéntes tűzoltó egyesületek szaktevékenységet ellátó tagjainak, az önkormányzati és létesítményi tűzoltóságok állománya tagjainak, a gazdálkodó tevékenységet folytató magánszemélyeknél, jogi személyeknél, jogi és természetes személyek jogi személyiséggel nem rendelkező szervezeteinél a katasztrófavédelem, a polgári védelem és a tűzvédelem szakágazatokban foglalkoztatóknak és foglalkoztatottaknak, a katasztrófa- és tűzvédelmi szakmai képesítést nyújtó oktatási intézmények oktatást, képzést, vizsgáztatást végző tagjainak, illetve azok szakmai felügyeletét végző személyek képesítési követelményeit, képzési rendszerét.
 
 5. a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakat, munkaköröket és a szakvizsga részletes szabályait,
 
