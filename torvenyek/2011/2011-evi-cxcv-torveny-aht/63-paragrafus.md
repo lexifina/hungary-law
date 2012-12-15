@@ -22,4 +22,6 @@ i) az Összefogás az Államadósság Ellen Alap gazdálkodása jogszerűségén
 
 (2) A kormányzati ellenőrzési szerv feladatai ellátásával összefüggésben jogosult a minősített adat, az üzleti titok és az ellenőrzött szervezet, valamint az ellenőrzés kapcsán adatszolgáltatásra kötelezett szervezet által kezelt egyéb titokfajták megismerésére.
 
-(3) A kormányzati ellenőrzési szerv személyes adatot az (1) bekezdés szerinti ellenőrzési tevékenysége céljából, az ahhoz szükséges mértékben, az ellenőrzés dokumentumainak megőrzéséig kezelhet.
+(3) A kormányzati ellenőrzési szerv az állami vagyon kezelésének ellenőrzése keretében a Magyar Államot, mint tulajdonost törvény alapján megillető ellenőrzési jogkört külön meghatalmazás nélkül kizárólag az állami vagyonnal való gazdálkodás, a vagyonérték-megőrző és vagyongyarapító tevékenység értékelése érdekében gyakorolhatja, a Magyar Állam közvetlen vagy közvetett tulajdonában álló gazdasági társasági részesedés tekintetében.
+
+(4) A kormányzati ellenőrzési szerv személyes adatot az (1) bekezdés szerinti ellenőrzési tevékenysége céljából, az ahhoz szükséges mértékben, az ellenőrzés dokumentumainak megőrzéséig kezelhet.
