@@ -1,4 +1,4 @@
-## 11. § A foglalkozási rehabilitációs szakértőkről szóló 8/2012. (II. 21.) NEFMI rendelet 7. § (1) bekezdésében a „szervezett” szövegrész helyébe az „a Hivatal által szervezett” szöveg lép.
+## 10–11. §[^2]
 
 1. melléklet a 47/2012. (XII. 11.) EMMI rendelethez
 
@@ -77,3 +77,5 @@
 36. urológia
 
 szakképesítés.
+
+[^2]: A 10–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
