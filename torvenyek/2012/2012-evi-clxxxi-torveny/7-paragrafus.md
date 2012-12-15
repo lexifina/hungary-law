@@ -1,0 +1,9 @@
+7. § (1) A rendőrség, valamint a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatot ellátó szervezeti egysége a körözési információs rendszer útján figyelmeztető jelzést és kiegészítő adatokat helyez el a CS.SIS-ben arról a személyről, illetve figyelmeztető jelzést arról a közúti közlekedésről szóló 1988. évi I. törvény 2. § (1) bekezdés b) pontja szerinti járműről – ideértve a 10. § (1) bekezdés c) pontja szerinti pótkocsit és lakókocsit is –, úszólétesítményről, légijárműről vagy konténerről, akivel vagy amellyel kapcsolatban rejtett ellenőrzést rendelt el.
+
+(2) Az (1) bekezdés szerinti figyelmeztető jelzés és kiegészítő adatok elhelyezésére abban az esetben van lehetőség, ha megalapozottan feltehető, hogy az érintett az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő), követ el, vagy okkal feltételezhető – különösen az általa elkövetett múltbeli bűncselekmények alapján –, hogy ilyen bűncselekményt követ el a jövőben is a SIS II-t alkalmazó állam területén, abban az esetben is, ha a magyar törvény szerint az előkészület nem büntetendő.
+
+(3) Az ügyészség az általa folytatott nyomozásban az (1) bekezdés szerinti figyelmeztető jelzés elhelyezése érdekében a rendőrséget keresi meg.
+
+(4) A rendőrség az (1) bekezdés szerinti figyelmeztető jelzést és kiegészítő adatokat helyez el a polgári nemzetbiztonsági szolgálatok megkeresésére is abban az esetben, ha Magyarország nemzetbiztonságát sértő vagy veszélyeztető tevékenység felderítése vagy elhárítása érdekében az indokolt.
+
+(5) A Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatot ellátó szervezeti egysége az (1) bekezdés szerinti adatokat elektronikus úton továbbítja a körözési információs rendszerbe.

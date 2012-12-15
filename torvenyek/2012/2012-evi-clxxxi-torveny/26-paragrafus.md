@@ -1,0 +1,9 @@
+## 11. A személyek joga a SIS II-ben róluk tárolt adatokhoz való hozzáférésre
+
+26. § (1) Bárki kérhet tájékoztatást arról, hogy róla a SIS II-ben tárolnak-e adatot. A kérelmet bármely kormányhivatalban, rendőrkapitányságon, illetve külképviseleten elő lehet terjeszteni. A kormányhivatal, rendőrkapitányság, illetve a külképviselet a kérelmet a SIRENE Irodához továbbítja. A SIRENE Iroda és a hatáskörébe tartozó adatkezelési műveletek tekintetében a jelzéskezelő köteles az érintettet az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvényben (a továbbiakban: Info.tv.) meghatározottak szerint tájékoztatni arról, hogy a SIS II -ben róla milyen adatot kezel, kinek és milyen célból továbbított adatot. A tájékoztatás csak a nemzetbiztonság, a bűncselekmények megelőzése vagy üldözése, a büntetés-végrehajtás biztonsága, továbbá mások jogainak védelme érdekében tagadható meg.
+
+(2) Ha az érintett olyan adatról kér tájékoztatást, amelyet más, SIS II-t alkalmazó állam helyezett el a CS.SIS-ben, akkor a kérelmet – válaszadás céljából – az érintett állam központi hatóságának kell megküldeni. A tájékoztatásadást meg kell tagadni, ha az érintett adatokat elhelyező állam a közlésükhöz nem járul hozzá.
+
+(3) Ha a tájékoztatásadást az (1)–(2) bekezdés szerint megtagadták, az érintettet a megtagadás tényéről és jogalapjáról, valamint az Info.tv. alapján biztosított jogorvoslat lehetőségéről tájékoztatni kell.
+
+(4) Ha az érintett az (1) bekezdés szerinti tájékoztatást közvetlenül valamely jelzéskezelőtől kéri, a jelzéskezelő megadja az (1) bekezdés szerinti tájékoztatást az általa kezelt adatok tekinttében és egyben tájékoztatja az érintettet arról, hogy valamennyi adatkategória vonatkozásában az (1) bekezdés szerinti eljárás keretében kaphat tájékoztatást.

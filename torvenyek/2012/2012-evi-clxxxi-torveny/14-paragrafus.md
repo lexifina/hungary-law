@@ -1,0 +1,1 @@
+14. § Az európai elfogatóparancson alapuló figyelmeztető jelzés elhelyezésével egyidejűleg a SIRENE Iroda a SIS II-t alkalmazó államok részére kiegészítő információként továbbítja az európai elfogatóparancsról és a tagállamok közötti átadási eljárásokról szóló 2002/584/IB tanácsi kerethatározat 8. cikk (1) bekezdésében meghatározott információkat is.
