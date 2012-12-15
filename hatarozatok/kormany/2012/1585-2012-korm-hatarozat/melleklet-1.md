@@ -1,0 +1,59 @@
+## A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján Ajka város lakosságának alapvető közszolgáltatásokkal való ellátása, illetve ellátásának fenntartása érdekében 1 747 637 ezer forint 1. melléklet szerinti átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Felhalmozási jellegű kiadások alcím, 2. Egyéb eszközök vásárlása jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 3. Rendkívüli kormányzati intézkedések cím terhére.
+
+## Felelős: átcsoportosításért: nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+## Felelős: elszámolásért és a visszafizetési kötelezettségért: nemzeti fejlesztési miniszter
+
+## Határidő: 2012. december 28.
+
+1. melléklet az 1585/2012. (XII. 15.) Korm. határozathoz
+
+XI. Miniszterelnökség
+
+XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+
+a Kormány hatáskörében
+
+Költségvetési év: 2012.
+
+| ezer forintban |
+
+| ÁHT | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. |  |  | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. | K I A D Á S O K |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+|  | XLIII. |  |  |  |  |  |  | Az állami vagyonnal kapcsolasto bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 2 |  |  |  |  |  |  | Az állami vagyonnal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 1 |  |  |  |  |  |  | Felhalmozási jellegű kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 278345 |  |  |  | 2 |  |  |  |  |  |  | Egyéb eszközök vásárlása |  |  |  |  |  |  |  |  |  |  | 1 747 637 |  |  |  |
+
+|  | XI. |  |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 297102 |  | 3 |  |  |  |  |  |  | Rendkívüli kormányzati intézkedések |  |  |  |  |  |  |  |  |  |  |  | -1 747 637 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb: |  | azonnal |  |  | 1 747 637 |  |  |  |  |  |  |  |  |  |  |  | 1 747 637 |
+
+| Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
