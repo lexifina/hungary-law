@@ -1,1 +1,0 @@
-32. § A SIS II adatokat kezelő szervek csak az e törvényben meghatározott figyelmeztető jelzéseket kezelhetik, valamennyi adatkezelésükért felelősséggel tartoznak és őket terheli annak bizonyítása, hogy adatkezelésük jogszerű volt.

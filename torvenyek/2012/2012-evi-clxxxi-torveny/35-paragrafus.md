@@ -1,1 +1,0 @@
-35. § Ha a NAIH által vizsgált adatokat más, a SIS II-t alkalmazó állam illetékes hatósága helyezte el a CS.SIS-ben vagy azokat kiegészítő információként közölte, a NAIH az eljárást az érintett tagország ellenőrző hatóságának bevonásával a SIS II Rendelet 34. cikk (3)–(4) bekezdésében foglalt eljárás szerint folytatja.

@@ -14,4 +14,4 @@
 
 (4) Nem lép hatályba az Országgyűlésről szóló 2012. évi XXXVI. törvény 132. § (2) bekezdésében az „a miniszter, az állományilletékes parancsnok és” szövegrész.
 
-(5) Az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény 10/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+(5)

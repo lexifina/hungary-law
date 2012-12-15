@@ -1,1 +1,0 @@
-24. § A kiegészítő információk cseréjének eredményeként a SIRENE Iroda adatállományában tárolt személyes adatokat legfeljebb az érintett személyre vonatkozó figyelmeztető jelzésnek a SIS II-ből történő törlését követő egy évig lehet megőrizni, kivéve, ha az adatokra vonatkozó hazai jogszabályok rövidebb megőrzési időt írnak elő.

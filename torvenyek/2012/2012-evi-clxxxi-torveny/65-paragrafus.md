@@ -30,10 +30,4 @@
 
 ## „(6) A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 65. §-ával megállapított a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 99. § (3a) bekezdés, 99/A. §, 141. § (7) bekezdés, valamint 153. § (6) bekezdés rendelkezéseit a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény hatálybalépése előtt kiszabott helyszíni bírságok vonatkozásában is alkalmazni kell.”
 
-(5) A Szabs. tv.
-
-a) 28. § (1) bekezdésében a „valamint a polgári nemzetbiztonsági szolgálatok és a Nemzeti Adó- és Vámhivatal” szövegrész helyébe az „a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal és az Országgyűlési Őrség”,
-
-b) 38. § (1) bekezdésében a „fővárosi, megyei kormányhivatal (a továbbiakban: kormányhivatal)” szövegrész helyébe a „fővárosi, megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal)”
-
-szöveg lép.
+(5)
