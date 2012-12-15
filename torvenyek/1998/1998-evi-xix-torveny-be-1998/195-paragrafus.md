@@ -1,6 +1,8 @@
 195. § (1) Akire nézve az ügyész vagy a nyomozó hatóság feljelentés elutasításáról, a nyomozás részbeni mellőzéséről, felfüggesztéséről, illetve megszüntetéséről, kényszerintézkedés elrendeléséről (VIII. Fejezet) további vagyoni jogok vagy érdekek korlátozásáról, valamint vagyoni jellegű kötelezettségek megállapításáról hozott határozata közvetlen rendelkezést tartalmaz, a határozat ellen a közléstől számított nyolc napon belül panasszal élhet.
 
-(2) A feljelentő nem élhet panasszal a feljelentés elutasítása miatt, ha a bűncselekménynek nem sértettje.
+(2) A feljelentő – a (2a) bekezdésben foglalt kivétellel – nem élhet panasszal a feljelentés elutasítása miatt, ha a bűncselekménynek nem sértettje.
+
+(2a) Amennyiben a feljelentő központi államigazgatási szerv, az ügyésznek vagy a nyomozó hatóságnak a feljelentés elutasításáról, a nyomozás részbeni mellőzéséről, felfüggesztéséről, illetve megszüntetéséről szóló határozata ellen a közléstől számított nyolc napon belül panasszal élhet.
 
 (3) A panasznak – ha e törvény kivételt nem tesz – nincs halasztó hatálya. Kivételesen indokolt esetben a határozatot hozó, illetőleg a panaszt elbíráló a határozat végrehajtását a panasz elbírálásáig felfüggesztheti.
 
