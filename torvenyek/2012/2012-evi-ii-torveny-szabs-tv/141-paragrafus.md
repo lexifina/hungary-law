@@ -22,7 +22,7 @@ c) a bíró a tárgyaláson az iratokat a szükséges mértékben ismerteti, az 
 
 d) a bíróság megvizsgálja a végrehajtási eljárás törvényességét, ha a törvénysértés a végrehajtás során merült fel, a bíróság a végrehajtó szervet a végrehajtási eljárás folytatására utasítja,
 
-e) ha a bíróság a végrehajtási eljárás törvényességének vizsgálata során azt észleli, hogy a törvénysértés az alapeljárásban merült fel, a bíróság a szabálysértési hatóság által az alapügyben hozott határozatot hatályon kívül helyezi és a szabálysértési hatóságot új eljárásra, illetve új határozat meghozatalára kötelezi,
+e) ha a bíróság a végrehajtási eljárás törvényességének vizsgálata során azt észleli, hogy a törvénysértés az alapeljárásban merült fel, a bíróság a szabálysértési hatóság által az alapügyben hozott határozatot hatályon kívül helyezi és a szabálysértési hatóságot új eljárásra, illetve új határozat meghozatalára, a helyszíni bírságot kiszabó szerv vagy személy által jogszabálysértően kiszabott helyszíni bírságot hatályon kívül helyezi, illetve új határozat meghozatalára kötelezi,
 
 f) a bíróság meghallgatja az elkövetőt a pénzbírság meg nem fizetésének körülményeiről, és a pénzbírság végrehajtásának törvényességét érintő körülményekről,
 

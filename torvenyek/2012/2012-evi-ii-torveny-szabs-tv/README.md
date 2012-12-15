@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-2-00-00
 | 2012-07-24 | 2012. évi CXVII. törvény | 2012-2-00-00.5 |
 | 2012-09-01 | 2012. évi XCIV. törvény | 2012-2-00-00.6 |
 | 2012-11-15 | 38/2012. (XI. 14.) AB határozat | 2012-2-00-00.7 |
+| 2012-12-15 | 2012. évi CLXXXI. törvény | 2012-2-00-00.8 |

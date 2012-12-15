@@ -61,3 +61,5 @@ e) a (2) bekezdés p) pontja esetén az a szerv vagy személy, amelyik a helysz�
 (4) A (3) bekezdés a) és b) pontjában meghatározott adatokat az előkészítő eljárást lefolytató szerv vagy az általános szabálysértési hatóság is közölheti.
 
 (5) Ha a perújítás eredményeként a bíróság a 132. § (1) bekezdés első fordulata szerinti határozatot hozza, akkor a perújítási ügyben eljáró bíróság közli azokat az adatokat, amelyek eltérnek az alapügyben a 153. § (2) bekezdése alapján közölt adatoktól.
+
+(6) Ha a helyszíni bírságolás felülvizsgálata során a helyszíni bírságot kiszabó szerv vagy személy a helyszíni bírságról szóló döntést módosítja vagy visszavonja, illetve a bíróság a 141. § (7) bekezdése szerint a helyszíni bírságot hatályon kívül helyezi, illetve új határozat meghozatalára kötelez, akkor a helyszíni bírságot kiszabó szerv vagy személy közli azokat az adatokat, amelyek eltérnek az alapügyben a 153. § (2) bekezdés p) pontja alapján közölt adatoktól.
