@@ -1,4 +1,4 @@
-## 18. § Nem lép hatályba az egyes, a számvitelről szóló 2000. évi C. törvényhez kapcsolódó sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 307/2009. (XII. 28.) Korm. rendelet 1. §-a, 11. §-a és 14. §-a.
+## 18. §[^20]
 
 ## 4. Záró rendelkezések
 
@@ -13,3 +13,5 @@
 (5) A 17. § i) pontja 2015. július 1-jén lép hatályba.
 
 (6) A 2. § és a 17. § f) pontja 2017. január 1-jén lép hatályba.
+
+[^20]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

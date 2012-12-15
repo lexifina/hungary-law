@@ -1,36 +1,19 @@
 ## 3–11. §[^3]
 
-12. § (1) A Rendelet a következő 10/D. és 10/E. §-sal egészül ki:
+12. § (1)[^4]
 
-## „10/D. § (1) Kreditpont-minősítési eljárás keretében az akkreditált szervezet továbbképzési programját – minősítésre – a 10. számú mellékletben meghatározott adattartalmú kérelemmel nyújthatja be a nyilvántartásba vételt végző szervezetnek.
+(2) A Rendelet a következő 10/F. §-sal egészül ki:
 
-## (2) A szabályszerűen benyújtott (1) bekezdés szerinti kérelem alapján a program szakmai tartalmára, aktualitására, időtartamára, a tartalom és az időkeret összhangjára, valamint elméleti és gyakorlati jellegére figyelemmel kell a továbbképzési program kreditpont-értékét meghatározni.
+## „10/F. § (1) Szakmai kiadványok kiadására jogosult szervezetek kreditpont-minősítési eljárás keretében kérhetik szakmai kiadványaik kreditpont-értékének megállapítását a nyilvántartásba vételt végző szervezettől a 13. számú mellékletben meghatározott adattartalmú kérelem benyújtásával.
 
-## (3) Az (1) bekezdés szerinti kérelmet és mellékleteit elektronikusan vagy papír alapon kell benyújtani.
+## (2) A szakmai kiadvány minősítéséhez a kérelemhez mellékelni kell a minősítendő kiadvány 2 példányát, illetve elektronikus kiadvány esetében biztosítani kell az ahhoz való hozzáférési jogot.
 
-## (4) A nyilvántartásba vételt végző szervezet az (1) bekezdés szerinti kérelmek elbírálása során ellenőrzi, hogy a benyújtott dokumentumok megfelelnek-e az e rendeletben és a továbbképzési programokra vonatkozóan meghatározott követelményeknek, és szükség esetén tizenöt napon belül hiánypótlásra hívja fel a szervezetet. A szervezetnek a hiánypótlásra a hiánypótlási felhívásról való tudomásszerzéstől számított nyolc napon belül van lehetősége.
+## (3) Szakmai kiadvány minősítésére vonatkozó kérelmet bármely szakmai kiadványt kiadó szervezet benyújthat.
 
-## (5) A nyilvántartásba vételt végző szervezet a minősített továbbképzési programok és szakmai kiadványok adatait a kreditpont-minősítési eljárás befejezését követő hónap 15-éig közzéteszi az egységes Kormányzati Portálon, a program szakterületi besorolásával, témakör szerinti besorolásával, kreditpont-értékével, amennyiben a program több témakört lefed, témakörönkénti kreditpont-értékével és oktathatósági időszakával (a továbbiakban: elszámolhatósági időszak) együtt.
+## (4) A kiadványok legfeljebb 2 kreditpont értékre minősíthetők a releváns szakmai tartalom, az aktualitás, a terjedelem, a tartalom és terjedelem összhangja, valamint az elméleti és gyakorlati jelleg alapján. Szakmai folyóiratok esetében kreditpont érték legalább fél éves előfizetés esetére állapítható meg.”
 
-## (6) A minősített továbbképzési program minősítése az elszámolhatósági időszak alatt, de legkésőbb visszavonásig hatályos.
-
-## (7) Amennyiben valamely akkreditált szervezet másik akkreditált szervezet kreditpont-minősítési eljárásban már minősített továbbképzési programját változatlan tartalommal, a továbbképzési program elszámolhatósági időszakán belül a saját neve alatt kívánja megvalósítani, akkor a 10. számú melléklet szerinti adattartalmú egyszerűsített kreditpont-minősítési eljárásra vonatkozó kérelmet kell benyújtania a nyilvántartásba vételt végző szervezet részére. A kérelemhez csatolni kell az akkreditált szervezetnek a már minősített továbbképzési programra vonatkozó felhasználási jogát igazoló megállapodást is.
-
-## (8) A kreditpont-minősítési eljárás során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni az e rendeletben foglaltak figyelembevételével.
-
-## 10/E. § (1) Amennyiben a kreditpont-minősítési eljárás iránti kérelemben foglalt képzés elektronikus képzési formában valósul meg, a továbbképzési program akkor minősíthető, amennyiben az elektronikus képzési rendszer elektronikus naplója által rögzítetten biztosított, valamint a továbbképzésen való részvételkor és azt követő 5 évig ellenőrizhető, hogy a továbbképzésre kötelezett
-
-## a) a bejelentkezéstől a továbbképzés teljes időtartama alatt a továbbképzésen részt vett,
-
-## b) a továbbképzés oktatási programjának egészét teljesítette,
-
-## c) részére a továbbképzés teljesítéséről szóló igazolás a továbbképzés teljesítését követően, de legkésőbb 10 napon belül kiállításra került.
-
-## (2) Az (1) bekezdés szerinti továbbképzési forma esetén a 10/D. § (1) bekezdés szerinti kérelemhez mellékelni kell az elektronikus képzési formában lebonyolításra kerülő továbbképzés oktatási programját, valamint az elektronikus képzési rendszer működésének bemutatását, ide értve az igazolás kiállítását, a résztvevők nyilvántartását és az ellenőrzés módszerét is.”
-
-(2)[^4]
-
-(3) A Rendelet a következő 10/G. és 10/H. §-sal egészül ki:
+(3)[^5]
 
 [^3]: A 3–11. § a 19. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^4]: A 12. § (2) bekezdése a 19. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^4]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 12. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,11 +1,12 @@
-## 14. §[^6]
+## 14. §[^8]
 
-15. § (1)–(2)[^7]
+15. § (1)–(2)[^9]
 
-(3) A Rendelet a 3. és 4. melléklet szerinti 10. és 11. számú melléklettel egészül ki.
+(3)[^10]
 
-(4)[^8]
+(4)[^11]
 
-[^6]: A 14. § a 19. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^7]: A 15. § (1)–(2) bekezdése a 19. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
-[^8]: A 15. § (4) bekezdése a 19. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^8]: A 14. § a 19. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^9]: A 15. § (1)–(2) bekezdése a 19. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^10]: A 15. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 15. § (4) bekezdése a 19. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
