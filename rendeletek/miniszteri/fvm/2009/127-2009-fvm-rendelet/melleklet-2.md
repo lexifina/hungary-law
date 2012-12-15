@@ -1,10 +1,10 @@
 ## A borvidékek és a hozzájuk tartozó települések meghatározása
 
-## 1.[^53] Csongrádi borvidék: Csongrád, Hódmezővásárhely, Balástya, Csengele, Kistelek, Pusztaszer, Szatymaz, Ásotthalom, Bordány, Domaszék, Szeged, Mórahalom, Zákányszék, Zsombó, Forráskút, Öttömös, Pusztamérges, Ruzsa, Üllés.
+## 1.[^135] Csongrádi borvidék: Csongrád, Hódmezővásárhely, Balástya, Csengele, Kistelek, Pusztaszer, Szatymaz, Ásotthalom, Bordány, Domaszék, Szeged, Mórahalom, Zákányszék, Zsombó, Forráskút, Öttömös, Pusztamérges, Ruzsa, Üllés.
 
 ## 2. Hajós-Bajai borvidék: Baja, Bátmonostor, Borota, Császártöltés, Csátalja, Csávoly, Dávod, Dusnok, Érsekcsanád, Érsekhalma, Hajós, Nagybaracska, Nemesnádudvar, Rém, Sükösd, Vaskút.
 
-## 3.[^54] Kunsági borvidék Bácsalmás, Bácsszőlős, Csikéria, Jánoshalma, Kelebia, Kéleshalom, Kunbaja, Kunfehértó, Mélykút, Tompa, Abony, Albertirsa, Bénye, Cegléd, Ceglédbercel, Csemő, Dány, Gomba, Hernád, Inárcs, Jászberény, Jászszentandrás, Kakucs, Kóka, Monor, Monorierdő, Nagykáta, Nagykőrös, Nyársapát, Ócsa, Örkény, Pilis, Tóalmás, Tápiószentmárton, Tápiószele, Újlengyel, Apostag, Dunapataj, Dunavecse, Dömsöd, Harta, Solt, Ráckeve, Szigetcsép, Szigetszentmárton, Szigetújfalu, Tököl, Ágasegyháza, Fülöpháza, Izsák, Kunszentmiklós, Orgovány, Páhi, Szabadszállás, Ballószög, Bugac, Felsőlajos, Fülöpjakab, Helvécia, Jakabszállás, Kecskemét, Kerekegyháza, Kiskunfélegyháza, Kunbaracs, Kunszállás, Ladánybene, Lajosmizse, Akasztó, Bócsa, Csengőd, Imrehegy, Fülöpszállás, Kaskantyú, Kecel, Kiskőrös, Pirtó, Soltszentimre, Soltvadkert, Tabdi, Tázlár, Balotaszállás, Csólyospálos, Harkakötöny, Jászszentlászló, Kiskunhalas, Kiskunmajsa, Kisszállás, Móricgát, Szank, Zsana, Cibakháza, Cserkeszőlő, Csépa, Kocsér, Lakitelek, Nagyrév, Nyárlőrinc, Szelevény, Szentkirály, Tiszaalpár, Tiszajenő, Tiszaföldvár, Tiszainoka, Tiszakécske, Tiszakürt, Tiszasas, Tiszaug.
+## 3.[^136] Kunsági borvidék Bácsalmás, Bácsszőlős, Csikéria, Jánoshalma, Kelebia, Kéleshalom, Kunbaja, Kunfehértó, Mélykút, Tompa, Abony, Albertirsa, Bénye, Cegléd, Ceglédbercel, Csemő, Dány, Gomba, Hernád, Inárcs, Jászberény, Jászszentandrás, Kakucs, Kóka, Monor, Monorierdő, Nagykáta, Nagykőrös, Nyársapát, Ócsa, Örkény, Pilis, Tóalmás, Tápiószentmárton, Tápiószele, Újlengyel, Apostag, Dunapataj, Dunavecse, Dömsöd, Harta, Solt, Ráckeve, Szigetcsép, Szigetszentmárton, Szigetújfalu, Tököl, Ágasegyháza, Fülöpháza, Izsák, Kunszentmiklós, Orgovány, Páhi, Szabadszállás, Ballószög, Bugac, Felsőlajos, Fülöpjakab, Helvécia, Jakabszállás, Kecskemét, Kerekegyháza, Kiskunfélegyháza, Kunbaracs, Kunszállás, Ladánybene, Lajosmizse, Akasztó, Bócsa, Csengőd, Imrehegy, Fülöpszállás, Kaskantyú, Kecel, Kiskőrös, Pirtó, Soltszentimre, Soltvadkert, Tabdi, Tázlár, Balotaszállás, Csólyospálos, Harkakötöny, Jászszentlászló, Kiskunhalas, Kiskunmajsa, Kisszállás, Móricgát, Szank, Zsana, Cibakháza, Cserkeszőlő, Csépa, Kocsér, Lakitelek, Nagyrév, Nyárlőrinc, Szelevény, Szentkirály, Tiszaalpár, Tiszajenő, Tiszaföldvár, Tiszainoka, Tiszakécske, Tiszakürt, Tiszasas, Tiszaug.
 
 ## 4. Neszmélyi borvidék: Ászár, Bársonyos, Császár, Csép, Ete, Kerékteleki, Kisbér, Nagyigmánd, Vérteskethely, Baj, Bajót, Dunaalmás, Dunaszentmiklós, Esztergom, Kesztölc, Kocs, Lábatlan, Mocsa, Neszmély, Nyergesújfalu, Mogyorósbánya, Süttő, Szomód, Tata, Tát, Tokod, Vértesszőlős.
 
@@ -22,9 +22,13 @@
 
 ## 11. Nagy-Somlói borvidék: Borgáta, Celldömölk, Kemeneskápolna, Kissomlyó, Mesteri, Borszörcsök, Doba, Somlójenő, Somlószőlős, Somlóvásárhely.
 
-## 12. Soproni borvidék: Cák, Csepreg, Felsőcsatár, Kőszeg, Kőszegdoroszló, Lukácsháza, Vaskeresztes, Fertőboz, Fertőendréd, Fertőrákos, Fertőszentmiklós, Fertőszéplak, Harka, Hidegség, Kópháza, Nagycenk, Sopron.
+## 12.[^137] Soproni borvidék: Ágfalva, Cák, Csepreg, Felsőcsatár, Kőszeg, Kőszegdoroszló,
 
-## 13. Balatonboglári borvidék: Andocs, Balatonboglár, Balatonlelle, Balatonendréd, Balatonőszöd, Balatonszabadi, Balatonszemes, Gyugy, Karád, Kőröshegy, Kötcse, Látrány, Lengyeltóti, Ordacsehi, Somogytúr, Szólád, Szőlősgyörök, Visz, Zamárdi, Kaposhomok, Kaposkeresztúr, Kercseliget, Mosdós, Nagyberki, Szabadi, Csoma, Balatonberény, Balatonkeresztúr, Böhönye, Csurgó, Hollád, Kéthely, Marcali, Somogysámson, Somogyzsitfa.
+## Lukácsháza, Vaskeresztes, Fertőboz, Fertőendréd, Fertőrákos, Fertőszentmiklós, Fertő-széplak, Harka, Hidegség, Kópháza, Nagycenk, Sopron.
+
+## 13.[^138] Balatonboglári borvidék: Andocs, Balatonberény, Balatonboglár, Balatonendréd, Balatonkeresztúr, Balatonlelle, Balatonőszöd, Balatonszabadi, Balatonszárszó, Balatonszemes,
+
+## Böhönye, Csoma, Csurgó, Gyugy, Hollád, Kaposhomok, Kaposkeresztúr, Karád, Kercseliget, Kéthely, Kőröshegy, Kötcse, Látrány, Marcali, Mosdós, Nagyberki, Lengyeltóti, Ordacsehi, Somogysámson, Somogytúr, Somogyzsitfa, Szabadi, Szólád, Szőlősgyörök, Teleki, Visz, Zamárdi.
 
 ## 14. Pécsi borvidék: Helesfa, Kispeterd, Mozsgó, Nagypeterd, Nyugotszenterzsébet, Szigetvár, Boda, Cserkút, Hosszúhetény, Ivánbattyán, Keszü, Kiskassa, Kővágószőlős, Kővágótöttös, Mecseknádasd, Pécs, Pécsvárad, Szemely, Kisjakabfalva, Babarc, Bár, Bóly, Dunaszekcső, Hásságy, Lánycsók, Máriakéménd, Mohács, Monyoród, Nagynyárád, Olasz, Szajk, Szederkény, Versend.
 
@@ -36,16 +40,26 @@
 
 ## 18. Egri borvidék: Aldebrő, Feldebrő, Kompolt, Tarnaszentmária, Tófalu, Verpelét, Andornaktálya, Demjén, Eger, Egerbakta, Egerszalók, Egerszólát, Felsőtárkány, Kerecsend, Maklár, Nagytálya, Noszvaj, Novaj, Ostoros, Szomolya.
 
-## 19. Mátrai borvidék: Abasár, Apc, Atkár, Detk, Domoszló, Ecséd, Gyöngyös, Gyöngyöshalász, Gyöngyösoroszi, Gyöngyöspata, Gyöngyössolymos, Gyöngyöstarján, Halmajugra, Hatvan, Karácsond, Kisnána, Markaz, Nagyréde, Pásztó, Rózsaszentmárton, Szücsi, Vécs, Visonta, Budapest-Rákosliget, Heves, Kerepes, Kisnémedi, Mogyoród, Őrbottyán, Szada, Szendehely, Vác, Vácegres, Vácrátót, Veresegyház.
+## 19.[^139] Mátrai borvidék: Abasár, Apc, Atkár, Budapest-Rákosliget, Detk, Domoszló, Ecséd, Gyöngyös, Gyöngyöshalász, Gyöngyösoroszi, Gyöngyöspata, Gyöngyössolymos, Gyöngyöstarján, Halmajugra, Hatvan, Heves, Hort, Karácsond, Kerepes, Kisnána, Kisnémedi, Markaz, Mogyoród, Nagyréde, Őrbottyán, Pálosvörösmart, Pásztó, Penc, Rózsaszentmárton, Szada, Szendehely, Szücsi, Vác, Vácegres, Vácrátót, Veresegyház, Vécs, Visonta.
 
 ## 20. Tokaji borvidék: Abaújszántó, Bekecs, Bodrogkeresztúr, Bodrogkisfalud, Bodrogolaszi, Erdőbénye, Erdőhorváti, Golop, Hercegkút, Legyesbénye, Makkoshotyka, Mád, Mezőzombor, Monok, Olaszliszka, Rátka, Sárazsadány, Sárospatak, Sátoraljaújhely, Szegi, Szegilong, Szerencs, Tarcal, Tállya, Tokaj, Tolcsva, Vámosújfalu.
 
-## 21. Zalai borvidék: Bak, Becsehely, Csörnyeföld, Dobri, Eszteregnye, Homokkomárom, Kerkateskánd, Lenti, Letenye, Magyarszerdahely, Murarátka, Muraszemenye, Nagykanizsa, Rigyác, Söjtör, Szécsi-sziget, Tormafölde, Valkonya, Zajk, Bérbaltavár, Csáford, Dióskál, Egeraracsa, Galambok, Garabonc, Miháld, Nagyrada, Orosztony, Pakod, Sármellék, Szentgyörgyvár, Vindornyalak, Vindornyaszőlős, Zalabér, Zalakaros, Zalaszabar, Zalaszántó, Zalaszentgrót.
+## 21.[^140] Zalai borvidék: Bak, Becsehely, Bérbaltavár, Csáford, Csörnyeföld, Dióskál, Dobri,
+
+## Egeraracsa, Eszteregnye, Galambok, Garabonc, Homokkomárom, Kerkateskánd, Lenti,
+
+## Letenye, Magyarszerdahely, Miháld, Murarátka, Muraszemenye, Nagykanizsa, Nagyrada, Nagytilaj, Orosztony, Pakod, Rigyác, Sármellék, Söjtör, Szentgyörgyvár, Szécsi-sziget,
+
+## Tekenye, Tormafölde, Valkonya, Vindornyalak, Vindornyaszőlős, Zajk, Zalabér, Zalakaros, Zalaszabar, Zalaszántó, Zalaszentgrót.
 
 ## 22. Tolnai borvidék: Aba, Aparhant, Bátaapáti, Bikács, Bonyhád, Bonyhádvarasd, Bölcske, Dunaföldvár, Dunaszentgyörgy, Duzs, Fácánkert, Felsőnyék, Grábóc, Gyönk, Györe, Györköny, Hidas, Hőgyész, Igar, Iregszemcse, Izmény, Kisdorog, Kismányok, Kisszékely, Kisvejke, Kölesd, Lengyel, Lajoskomárom, Madocsa, Magyarkeszi, Mezőkomárom, Mórágy, Mőcsény, Mucsfa, Mucsi, Nagydorog, Nagyszékely, Nagymányok, Nagyszokoly, Ozora, Paks, Pincehely, Regöly, Sárszentlőrinc, Seregélyes, Simontornya, Szabadhidvég, Tamási, Tengelic, Tevel, Tolna, Tolnanémedi, Váralja, Závod.
 
-2. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^55]
+2. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^141]
 
-[^53]: Az 1. számú melléklet 1. pontja a 64/2010. (V. 12.) FVM rendelet 25. § (1) bekezdése szerint módosított szöveg.
-[^54]: Az 1. számú melléklet 3. pontja a 64/2010. (V. 12.) FVM rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^55]: A 2. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (2) bekezdése szerint módosított szöveg.
+[^135]: Az 1. számú melléklet 1. pontja a 64/2010. (V. 12.) FVM rendelet 25. § (1) bekezdése szerint módosított szöveg.
+[^136]: Az 1. számú melléklet 3. pontja a 64/2010. (V. 12.) FVM rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^137]: Az 1. számú melléklet 12. pontja a 128/2012. (XII. 14.) Vm rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^138]: Az 1. számú melléklet 13. pontja a 128/2012. (XII. 14.) Vm rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^139]: Az 1. számú melléklet 19. pontja a 128/2012. (XII. 14.) Vm rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^140]: Az 1. számú melléklet 21. pontja a 128/2012. (XII. 14.) Vm rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^141]: A 2. számú melléklet a 128/2012. (XII. 14.) VM rendelet 31. § (2) bekezdésével megállapított szöveg.

@@ -52,6 +52,6 @@
 
 ## hegyközségi tag/adatszolgáltató aláírása
 
-7. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^62]
+7. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^146]
 
-[^62]: A 7. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (6) bekezdésével megállapított szöveg.
+[^146]: A 7. számú mellékletet a 128/2012. (XII. 14.) VM rendelet 32. § f) pontja hatályon kívül helyezte.

@@ -1,61 +1,75 @@
 ## Szőlő származási bizonyítvány
 
-## Példányszám: Sorszám:
+## Hegyközségi Tanács:
 
-## Évjárat: ..............
+## Hegyközség neve:
 
-## Hegyközségi Tanács: Hegyközség neve:
+## Sorszám:
 
-| Termelő neve: |  |  | Nem feldolgozó felvásárló neve: |  |  |
+| Termelő neve: |  |  | Nem feldolgozó felvásárló neve: |  |
 
-| Termelő címe: | Termelő/ meghatalma- zott aláírása | Címe: |  | Felvásárló / meghatalma- zott aláírása |
+| Címe: |  |  | Címe: |  |
 
-| Nyilvántartási száma: | Nyilvántartási száma: |  |
+| GA száma: |  |  | GA száma: |  |
 
-| GA száma: | GA száma: |  |
+| Termelő/meghatalmazott aláírása |  |  | Felvásárló/meghatalmazott aláírása |  |
 
-| Feldolgozó szövetkezet neve |  |  | Feldolgozó borkészítő neve: |  |  |
+| Feldolgozó szövetkezet neve: |  |  | Feldolgozó borkészítő neve: |  |
 
-| Címe: |  | Képviselő/ meghatalma- zott aláírása | Címe: |  | Borkészítő/ meghatalma- zott aláírása |
+| Címe |  |  | Címe: |  |
 
-| Nyilvántartási száma: |  | Nyilvántartási száma: |  |
+| GA száma: |  |  | GA száma: |  |
 
-| GA száma: |  | GA száma: |  |
+| Képviselő/meghatalmazott aláírása |  |  | Borkészítő/meghatalmazott aláírása |  |
 
-## A kérelem aláírásával a termelő igazolja, hogy a saját feldolgozású/nem feldolgozó felvásárlónak értékesített/feldolgozó szövetkezetbe szállított/feldolgozó borkészítőnek felkínált termés*** a kérelemben feltűntetett ültetvény(ek)ről származik és a feltűntetett termékkategóriának megfelel.
+## Évjárat:
 
-| Tételszám | Termőterület | Szüretelt szőlő |
+## A szüretelt szőlőből készült borászati terméken potenciálisan jelölhető:
 
-| származási ország | település | dűlő | terület (ha) | hrsz. | fajta és vagy kód | fehér/kék | termékkategória, .......OEM/ .........OFJ/ .........fajtájú FN/FN és vagy bortípus (az oltalom alatt álló eredetmegjelölés vagy oltalom alatt álló földrajzi jelzés szerinti területnél kisebb földrajzi egység neve, hagyományos kifejezés, korlátozottan használható kifejezés vagy a termékleírásban meghatározott egyéb kifejezés) | potenciális alkohol (% vol) | szőlő felhasználása* | mennyiség** (q) |
+## - oltalom alatt álló eredetmegjelölés (és bortípus):
 
-| 1. |  |  |  |  |  |  |  |  |  |  |  |
+## - oltalom alatt álló földrajzi jelzés (és bortípus):
 
-| 2. |  |  |  |  |  |  |  |  |  |  |  |
+## A szőlő felhasználása a nyilatkozattevő általi feldolgozás esetén:
 
-| 3. |  |  |  |  |  |  |  |  |  |  |  |
+## - Feldolgozás adóköteles borrá;
 
-| 4. |  |  |  |  |  |  |  |  |  |  |  |
+## - Feldolgozás adómentes borrá;
 
-| ÖSSZESEN |  |
+## - Egyéb rendeltetés, éspedig: _____________________
 
-## * 1. Nyilatkozattevő által feldolgozás adóköteles borrá; 2. Nyilatkozattevő által feldolgozás adómentes borrá; 3. Nem feldolgozó felvásárlónak értékesítve; 4. Feldolgozó szövetkezetnek szállítva; 5. Feldolgozó borkészítőnek szállítva; 6. egyéb rendeltetés.
+|  | A | B | C | D | E | F | G | J | L |
 
-## ** Pincekönyv/felvásárlásijegy/szállítólevél/átvételi elismervény alapján.
+|  | Tételszám | Termőterület | Szüretelt szőlő |
 
-## *** Megfelelő rész aláhúzandó.
+| 1. | Származási ország | Település | Dűlő | Terület (ha) | Hrsz.* | Fajta | Potenciális alkoholtartalom (%vol) | Mennyiség [q] ** |
 
-## BIZONYÍTVÁNY
+| 2. |  |  |  |  |  |  |  |  |  |
 
-## A fenti tételekre a kérelem alapján a ........... számú szőlő származási bizonyítványt, ................................ célra kiadtam és nyilvántartásba vettem. (Megjegyzés: ................................ )
+| 3. |  |  |  |  |  |  |  |  |  |
+
+| 4. |  |  |  |  |  |  |  |  |  |
+
+| 5. | ÖSSZES MENNYISÉG |  |
+
+| 6. | ÁTLAGOS POTENCIÁLIS ALKOHOLTARTALOM (%vol) |  |  |
+
+| * Amennyiben a szüretelt szőlő: - szüreti időpontja, - származási helye (országa, település, dűlő) - fajtája - potenciális alkoholtartalma - felhasználása, valamint az a jelölni kívánt kifejezések megegyeznek, abban az esetben több helyrajzi szám is feltüntethető egy sorban |
+
+| ** Pincekönyv/felvásárlási jegy/szállítólevél/átvételi elismervény alapján. |
+
+## A fenti tételekre a kérelem alapján a szőlő származási bizonyítványt kiadtam és nyilvántartásba vettem.
+
+## (Megjegyzés: ................................)
 
 ## Kelt: ...............................................................
 
 ## P. H.
 
-## ......................................................................................
+## ..........................................................................
 
-## Hegybíró aláírása
+## A hegybíró aláírása
 
-10. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^65]
+10. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^149]
 
-[^65]: A 10. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (7) bekezdésével megállapított szöveg.
+[^149]: A 10. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (7) bekezdésével megállapított szöveg.

@@ -1,323 +1,245 @@
-## Adatlap
+## A. Adatlap
 
-| Borvidék |  | Beérkezett |
+|  | A | B | C |
 
-| Hegyközség (vagy hegyközségi tanács) | Sorszám/oldal |
+| 1. | Borvidék |  | Beérkezett |
 
-| Adatszolgáltató adatai |
+| 2. | Hegyközség (vagy hegyközségi tanács) | Sorszám/oldal |
 
-| Név: | Cím: | Képviselő neve: |
+| 3. |  |  |  |
 
-| Anyja neve*: | Születési hely és idő*: | Telefonszám*: *-gal jelölt részek kitöltése egyben a személyes adatok kezeléséhez való hozzájárulást jelenti. |
+| 4. | Adatszolgáltató adatai |
 
-| E-mail cím: | Fax*: |
+| 5. | Név: | Cím: | Képviselő neve: |
 
-| Jogi forma (a megfelelő rész aláhúzandó): | FVM által elismert termelői csoport | igen nem |
+| 6. | Anyja neve*: _____________ | Születési hely és idő*: _____________ | Telefonszám*: _______________ |
 
-| természetes személy | Termelői csoporti tagság | igen nem |
+| 7. | E-mail cím: ___________ | Fax*.: ___________________ | *-gal jelölt részek kitöltése egyben a személyes adatok kezeléséhez való hozzájárulást jelenti) |
 
-| egyéni vállalkozó | Adószám: |
+| 8. | Jogi forma (a megfelelő rész aláhúzandó): | VM által elismert termelői csoport | igen nem |
 
-| őstermelő | Adóazonosító jel: |
+| 9. | természetes személy | Termelői csoporti tagság | igen nem |
 
-| szövetkezet | MVH reg. Szám.: |
+| 10. | egyéni vállalkozó | Adószám _____________________ |
 
-| korlátolt felelősségű társaság | Adóraktári engedélyszám: |
+| 11. | őstermelő | Adóazonosító jel: _______________ |
 
-| nyílt részvénytársaság | MgSzH engedélyszám: |
+| 12. | szövetkezet | MVH regisztrációs szám.: ____________________ |
 
-| zárt részvénytársaság | Vállalkozás regisztrációs száma: |
+| 13. | korlátolt felelősségű társaság | Adóraktári engedélyszám: ______________ |
 
-| betéti táraság |  |  |
+| 14. | nyílt részvénytársaság | NÉBIH engedélyszám: ______________ |
 
-| közkereseti társaság |  |  |
+| 15. | zárt részvénytársaság | Vállalkozás regisztrációs száma (cégjegyzékszám, egyéni vállalkozói igazolvány száma vagy őstermelői igazolvány száma: ________________ |
 
-| állami fenntartású intézmény | GA szám: |
+| 16. | betéti táraság |
 
-| egyéb: |  |  |
+| 17. | közkereseti társaság |
 
-| Adatszolgáltató: | hegyközségi tag |  |
+| 18. | állami fenntartású intézmény | GA szám:___________________ |
 
-|  | regisztrált borászati üzem |  |
+| 19. | egyéb: |  |  |
 
-|  | adatszolgáltatásra kötelezett |  |
+| 20. | Adatszolgáltató: | hegyközségi tag |  |
 
-| Tevékenység az illetékes hegyközség területén (a megfelelő rész aláhúzandó): |  |
+| 21. |  | regisztrált borászati üzem |  |
 
-| Szőlőtermesztés | Szőlőfelvásárlás |  |
+| 22. | Tevékenység az illetékes hegyközség területén (a megfelelő rész aláhúzandó): |
 
-| Borfelvásárlás | Melléktermékek | – ideiglenes gyűjtése |
+| 23. | Szőlőtermesztés |
 
-| Borbehozatal: |  | – tárolása |
+| 24. | Szőlőfelvásárlás |
 
-| – EU más tagországaiból |  | – átvétele |
+| 25. | Borelőállítás |
 
-| – Harmadik országból |  |  |
+| Kelt: ………………………. | …..………………………. |
 
-| Borelőállítás |  |
+|  | adatszolgáltató aláírása |
 
-| Szőlőfeldolgozás |  |
+## B. Szőlő ültetvénykataszter űrlap
 
-| Borkészítés |  |
+## 1. Az ültetvény használójának adatai
 
-| Érlelés |  |
+## Ültetvény használója: ___________________
 
-| Pezsgőkészítés |  |
+## Nyilvántartási száma: ___________________
 
-| Kannatöltés |  |
+## Ültetvény használat jogcíme: □ saját tulajdon
 
-| Palackozás |  |
+## □ egyéb: ____________
 
-## Kelt: ...........................................................................
+## 2. Ültetvény adatai:
 
-## ...............................................................
+## Település: _____________________
 
-## adatszolgáltató aláírása
+## Dűlő (termékleírás szerint): _____________________
 
-## Szőlő ültetvénykataszter
+## Aldűlő (termékleírás szerint): _____________________
 
-## Ültetvény használója: ............................................................. Nyilvántartási száma:
+## Helyrajzi szám: _____________________
 
-## Ültetvény használat jogcíme: ⬜ saját tulajdon
+## Terület: __________ m2
 
-## ⬜ bérlemény (tulajdonos neve: )
+## Telepítés □ a telepítés éve (becsült éve, ha nem ismert): _____
 
-## Ültetvény adatai:
+## 3. Termőhelykataszter:
 
-## Település:
+## ökotóp: _____________
 
-## Dűlő:
+## osztály: _____________
 
-## Helyrajzi szám:
+## pontszám _____________
 
-## Terület ......................... ha m2
+## 4. Szőlőparcella termesztési jellemzői
 
-## Telepítés ⬜ telepítés éve (ha ismert):
+## Fajta neve (kódja): ____________________
 
-## ⬜ telepítés kora (becsült): év
-
-## Termőhelykataszter
-
-## ökotóp:
-
-## osztály:
-
-## pontszám
-
-## Fekvés
-
-## ⬜ síkvidéki
-
-## ⬜ dombvidéki
-
-## ⬜ dombvidéki makroteraszos
-
-## ⬜ dombvidéki mikroteraszos
-
-## Ültetvény kitettsége
-
-## Szőlőparcella termesztési jellemzői
-
-## Fajta neve (kódja):
-
-## Alany neve (kódja):
-
-## Szőlő jellemzői:
+## 5. A szőlő jellemzői:
 
 ## Telepítési engedéllyel rendelkezik: igen/nem
 
-## ⬜ Borszőlő fajtákkal beültetett
+## □ Borszőlő fajtákkal beültetett
 
-## ⬜ OEM előállításra alkalmas
+## □ Borpárlat előállítására alkalmas fajta
 
-## ⬜ OFJ előállításra alkalmas
+## □ Osztályba nem sorolt (pl.: direkttermő)
 
-## ⬜ Földrajzi jelzés nélküli
+## □ Vegetatív szaporítóanyag termelésre
 
-## ⬜ Csemegeszőlő-fajtával beültetett
+## □ szőlőiskola
 
-## ⬜ Mazsolaszőlő-fajtával beültetett
+## □ alany anyatelep
 
-## ⬜ Borpárlat előállítására alkalmas fajta
+## □ Későbbiekben oltásra szánt
 
-## ⬜ Osztályba nem sorolt (pl. direkttermő)
+## □ Termelés alól kivont
 
-## ⬜ Vegetatív szaporítóanyag termelésre
+## □ Kísérleti ültetvény
 
-## ⬜ szőlőiskola
+## 6. Ültetvény térállása:
 
-## ⬜ alany anyatelep
+## □ Szabálytalan, szórt
 
-## ⬜ Későbbiekben oltásra szánt
+## □ szabályos térállásra telepített
 
-## ⬜ Termelés alól kivont
+## □ ____ m × ____ m
 
-## ⬜ Kísérleti ültetvény
+## □ Ikertőkés: ____ m × ____ m + ____ m
 
-## ⬜ Más
+## □ Ikersoros: ____ m + ____ m × ____ m
 
-## ⬜ Még nem termő
+## 7. Művelésmód:
 
-## ⬜ Felhagyott
+## □ Fejművelés
 
-## Ültetvény térállása
+## □ Fej- és bakművelés közötti átmenet
 
-## ⬜ Szabálytalan, szórt
+## □ Bakművelés
 
-## szabályos térállásra
+## □ Legyezőművelés
 
-## ⬜ telepített
+## □ Combművelés
 
-## ⬜ – ....... m × ....... m
+## □ Vertiko-művelés
 
-## ⬜ Ikertőkés: – ....... m × ....... m +....... m
+## □ Alacsony kordon (törzsmagasság 60 cm alatt)
 
-## ⬜ Ikersoros: – ....... m + ....... m ×....... m
+## □ Középmagas kordon (törzsmagasság 60-120 cm)
 
-## Művelésmód:
+## □ Moser kordon (törzsmagasság 120-140 cm)
 
-## ⬜ Fejművelés
+## □ Sylvoz-kordon törzsmagasság (törzsmagasság 130-150 cm)
 
-## ⬜ Bakművelés
+## □ Guyot-művelés
 
-## ⬜ Alacsony kordon
+## □ Ernyőművelés
 
-## ⬜ Középmagas kordon
+## □ Egyesfüggöny-művelés (törzsmagasság 160-180cm)
 
-## ⬜ Magas kordon
+## □ GDC-művelés (törzsmagasság 160-180cm)
 
-## ⬜ Guyot
+## □ Lyra művelés
 
-## ⬜ Sylvoz
+## □ egyéb: ____________________
 
-## ⬜ Moser
+## 8. Tőkeállomány:
 
-## ⬜ Ernyő
-
-## ⬜ Egyes függöny
-
-## ⬜ GDC
-
-## ⬜ egyéb:
-
-## Tőkeállomány:
-
-## Telepített tőkeszám: tő/ha
+## Telepített tőkeszám: ____tő/ha
 
 ## Tényleges tőkeszám:
 
-## ⬜ > 90%
+## □ > 90 %
 
-## ⬜ 89–75%
+## □ 89-75%
 
-## ⬜ 74–50%
+## □ 74-50%
 
-## ⬜ < 49%
+## □ < 49%
 
-## Öntözhetőség
-
-## ⬜ Öntözésre tervezett
-
-## ⬜ Rendszeresen öntözött
-
-## ⬜ Nem öntözhető
+## C. Szőlő ültetvénykataszter
 
 ## Hegybíró tölti ki!
 
-## A megadott információk alapján a terület az alábbi termékek előállítására alkalmas:
+## Az ültetvény használójának neve és címe:
 
-| Termékkategória | Fehér | Vörös/rozé | Dűlőszelektált |
+## Az ültetvény használójának adószáma vagy adóazonosító jele:
 
-| ............................................................ OEM |  |  |  |  |
+## Az ültetvény helye (település, helyrajzi szám):
 
-| ............................................................ OEM |  |  |  |  |
+## Területnagyság: _________ m2
 
-| .............................................................. OFJ |  |  |  |  |
+## Szőlőfajta:
 
-| .............................................................. OFJ |  |  |  |  |
+## A terület az alábbi termékek előállítására alkalmas:
 
-| Nem OEM/OFJ fajtabor |  |  |  |  |
+|  | A | B | C |
 
-| Nem OEM/OFJ bor |  |  |  |  |
+| 1. | Eredetvédelmi kategóriák és földrajzi árujelzők | Fehér | Vörös/rozé |
 
-## Kelt: ...............................................................................
+| 2. | ……………. OEM |  |  |  |
 
-## .................................................
+| 3. | ……………. OEM |  |  |  |
 
-## hegybíró aláírása
+| 4. | ……………… OFJ |  |  |  |
 
-## Borászati tevékenységet és kapacitást regisztráló adatlap
+| 5. | ……………… OFJ |  |  |  |
 
-## (a borászat helye szerint illetékes hegybíró vezet)
+| 6. | FN borászati termék fajtamegjelöléssel |  |  |  |
 
-| Borvidék | Hegyközség (vagy hegyközségi tanács) |
+| 7. | FN borászati termék |  |  |  |
 
-| Hegyközségi tag/Adatszolgáltató | Név: |
+| Kelt: ………………………… | .............................. |
 
-| Nyilvántartási szám: | Cím: |
+|  | hegybíró aláírása |
 
-|  | GA szám: |
+## D. Borászati tevékenységet és kapacitást regisztráló adatlap
 
-| Pince területe: ..... m2 | Szőlőfeldolgozó teljesítménye: ........t/h |
+## (a borászati helye szerint illetékes hegybíró vezeti)
 
-|  | Musthűtő teljesítmény: ...... kJ |
+## Borvidék
 
-|  | A | B | C | D | E | F | G |
+## Hegyközség (vagy hegyközségi tanács)
 
-| 1. | Borászati termék előállítása | Szőlő- feldolgozás | Bor- készítés | Érlelés | Pezsgő- készítés | Kanna- töltés | Palackozás |
+## Nyilatkozattevő:
 
-| 2. | .......... OEM |  |  |  |  |  |  |
+## Név:
 
-| 3. | .......... OEM |  |  |  |  |  |  |
+## Cím:
 
-| 4. | .......... OFJ |  |  |  |  |  |  |
+## Nyilvántartási szám:
 
-| 5. | .......... OFJ |  |  |  |  |  |  |
+## GA szám:
 
-| 6. | Nem OEM/OFJ fajtabor |  |  |  |  |  |  |
+## A borászati üzem helye (település, cím vagy helyrajzi szám)
 
-| 7. | – .......... fajta |  |  |  |  |  |  |
+## A borászati üzem engedélyszáma:
 
-| 8. | – .......... fajta |  |  |  |  |  |  |
+## Kelt:
 
-| 9. | Nem OEM/OFJ bor |  |  |  |  |  |  |
+## ___________________________________
 
-| 10. | Egyéb borászati termék: |  |  |  |  |  |  |
+## Hegyközségi tag / Adatszolgáltató aláírása
 
-| 11. | – habzóbor |  |  |  |  |  |  |
+3. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^142]
 
-| 12. | – likőrbor |  |  |  |  |  |  |
-
-| 13. | – ... |  |  |  |  |  |  |
-
-| 14. | Ízesített bor |  |  |  |  |  |  |
-
-## (a végezni kívánt tevékenységet jelölje x-szel!)
-
-| Tárolótér összesen: | hl |  |  |  |
-
-| ebből: |  |  |  |  |
-
-| – erjesztőtér: | hl |  | fahordó | hl |
-
-| – tárolótér: | hl |  | vasbeton | hl |
-
-|  |  |  | saválló acél | hl |
-
-|  |  |  | nyomásálló tartály | hl |
-
-|  |  |  | egyéb fémtartály | hl |
-
-|  |  |  | műanyag | hl |
-
-|  |  |  | egyéb | hl |
-
-| Töltőgépek száma: | db |  | Palackozó teljesítménye | palack/h |
-
-## Kelt: ..............................................
-
-## ............................................................................................
-
-## hegyközségi tag/adatszolgáltató aláírása
-
-3. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez
+[^142]: A 3. számú melléklet a 128/2012. (XII. 14.) VM rendelet 31. § (3) bekezdésével megállapított szöveg.

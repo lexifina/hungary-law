@@ -12,15 +12,15 @@
 
 | 4. | fehér | kék | fehér | vörös | fehér | kék | fehér | vörös |  |  |
 
-| 5. | .................... Oltalom alatt álló eredetmegjelöléssel ellátott borok előállítására szánt szőlőültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5. | .................... Oltalom alatt álló eredetmegjelöléssel ellátott borászati termékek előállítására szánt szőlőültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 6. | .................... Oltalom alatt álló földrajzi jelzéssel ellátott borok előállítására szánt szőlőültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6. | .................... Oltalom alatt álló földrajzi jelzéssel ellátott borászati termékek előállítására szánt szőlőültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 7. | Oltalom alatt álló eredetmegjelöléssel vagy földrajzi jelzéssel nem ellátott fajtaborok előállítására szánt szőlőültetvény: ................ fajta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7. | Oltalom alatt álló eredetmegjelöléssel vagy földrajzi jelzéssel nem ellátott fajtaborászati termékek előállítására szánt szőlőültetvény: ................ fajta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 8. | Oltalom alatt álló eredetmegjelöléssel vagy földrajzi jelzéssel nem ellátott borok előállítására szánt szőlőültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8. | Oltalom alatt álló eredetmegjelöléssel vagy földrajzi jelzéssel nem ellátott borászati termékek előállítására szánt szőlőültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 9. | Más borok előállítására szánt ültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 9. | Más borászati termékek előállítására szánt ültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## (a településre, dűlőre és helyrajzi számra vonatkozó mezők kitöltése csak abban az esetben kötelező, amennyiben az adott bortétel címkéjén fel kívánja tüntetni ezeket az adatokat!)
 
@@ -62,6 +62,6 @@
 
 ## Hegyközségi tag/Adatszolgáltató aláírása
 
-5. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^60]
+5. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^144]
 
-[^60]: Az 5. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (4) bekezdésével megállapított szöveg.
+[^144]: Az 5. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (4) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
-## 16. § A bor származási bizonyítvány kiállításakor a szőlő származási bizonyítványokat össze kell vonni a szőlőfeldolgozással megegyezően. A szőlő származási bizonyítványok összevonása esetén a szőlő származási bizonyítványokon a bor származási bizonyítvány számát jelölni kell.
+## 16. §[^42]
 
-17. § (1) A származási bizonyítvány kiadásáról a hegybíró nyilvántartást vezet.
+17. § (1)[^43] A származási bizonyítvány kiadásáról a hegybíró nyilvántartást vezet a HEGYIR-ben.
 
 (2) A nyilvántartásnak
 
@@ -13,3 +13,6 @@ c) a kiadás dátumát,
 d) a származási bizonyítványban szereplő szőlő- vagy bormennyiség felhasználási célját
 
 kell tartalmaznia.
+
+[^42]: A 16. §-t a 128/2012. (XII. 14.) VM rendelet 32. § c) pontja hatályon kívül helyezte.
+[^43]: A 17. § (1) bekezdése a 128/2012. (XII. 14.) VM rendelet 7. §-ával megállapított szöveg.

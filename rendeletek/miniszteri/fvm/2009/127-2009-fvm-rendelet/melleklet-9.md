@@ -1,65 +1,59 @@
 ## Szőlő származási bizonyítvány kérelem
 
-## (benyújtandó a termelő vagy meghatalmazottja által a szőlőültetvény szerint illetékes hegybíró részére)
+## (benyújtandó a termelő vagy meghatalmazottja által a szőlőültetvény helye szerint illetékes hegybíró részére)
 
-## Évjárat: ..........
+| Hegyközségi Tanács: |  |  | Hegyközség neve: |  |
 
-## Hegyközségi Tanács: Hegyközség neve:
+| Évjárat: |  |  |  |  |
 
 | Termelő neve: |  |  | Nem feldolgozó felvásárló neve: |  |
 
-| Termelő címe: |  |  | Címe: |  |
-
-| Nyilvántartási száma: |  |  | Nyilvántartási száma: |  |
-
-| GA száma: |  |  | GA száma: |  |
-
-| Feldolgozó szövetkezet neve: |  |  | Feldolgozó borkészítő neve: |  |
-
 | Címe: |  |  | Címe: |  |
 
+| GA száma: |  |  | GA száma: |  |
+
+| Feldolgozó szövetkezet neve: |  |  | Feldolgozó borkészítő neve (amennyiben nem azonos a szőlőtermelővel): |  |
+
+| Címe |  |  | Címe: |  |
+
 | Nyilvántartási száma: |  |  | Nyilvántartási száma: |  |
 
 | GA száma: |  |  | GA száma: |  |
 
-| Tételszám | Termőterület | Szüretelt szőlő |
+|  | A | B | C | D | E | F | G | J | K | L | M | N |
 
-| származási ország | település | dűlő | terület (ha) | hrsz. | fajta és vagy kód | fehér/kék | termékkategória, ............. OEM/ .......... OFJ/ ............. fajtájú FN/FN és vagy bortípus (az oltalom alatt álló eredetmegjelölés vagy oltalom alatt álló földrajzi jelzés szerinti területnél kisebb földrajzi egység neve, hagyományos kifejezés, korlátozottan használható kifejezés vagy a termékleírásban meghatározott egyéb kifejezés) | potenciális alkohol (% vol) | szőlő felhasználása* | mennyiség** (q) |
+| 1. | Tételszám | Termőterület | Szüretelt szőlő |
 
-| 1. |  |  |  |  |  |  |  |  |  |  |  |
+| Származási ország (amennyiben nem Magyarország) | Település irányítószáma | Dűlő | Terület (ha) | Hrsz.1 | Fajta (kód) | A szüret módja K: kézi G: gépi | Potenciális alkoholtartalom (%vol) | A szüretelt szőlőből készíthető borászati termék legmagasabb eredetvédelmi kategóriája2 | Szőlő felhasználása3 | Mennyiség [q]4 |
 
-| 2. |  |  |  |  |  |  |  |  |  |  |  |
+| 2. |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3. |  |  |  |  |  |  |  |  |  |  |  |
+| 3. |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 4. |  |  |  |  |  |  |  |  |  |  |  |
+| 4. |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| ÖSSZESEN |  |
+| 5. | ÖSSZESEN |  |
 
-## * 1. Nyilatkozattevő által feldolgozás adóköteles borrá; 2. Nyilatkozattevő által feldolgozás adómentes borrá; 3. Nem feldolgozó felvásárlónak értékesítve; 4. Feldolgozó szövetkezetnek szállítva; 5. Feldolgozó borkészítőnek szállítva; 6. egyéb rendeltetés, éspedig:
+| 1: Amennyiben a szüretelt szőlő: - szüreti időpontja, - származási helye (országa, település, dűlő) - fajtája - potenciális alkoholtartalma - felhasználása, valamint az abból készíthető borászati termék eredetvédelmi kategóriája megegyezik, abban az esetben több helyrajzi szám is feltüntethető egy sorban |
 
-## ** Pincekönyv/felvásárlásijegy/szállítólevél/átvételi elismervény alapján.
+| 2: a legmagasabb eredetvédelmi kategória megadása OEM: oltalom alatt álló eredetmegjelölés OFJ: oltalom alatt álló földrajzi jelzés FNF: földrajzi jelzés nélkül, fajtanév feltüntetésével E: egyéb |
 
-## A kérelem aláírásával a termelő igazolja, hogy a saját feldolgozású/nem feldolgozó felvásárlónak értékesített/feldolgozó szövetkezetbe szállított/feldolgozó
+| 3: kódok: 1. Feldolgozás adóköteles borrá a nyilatkozattevő által; 2. Feldolgozás adómentes borrá a nyilatkozattevő által; 3. Nem feldolgozó felvásárlónak értékesítve; 4. Feldolgozó szövetkezetnek szállítva; 5. Feldolgozó borkészítőnek szállítva; 6. Egyéb rendeltetés, éspedig: ………………………… |
 
-## borkészítőnek felkínált termés*** a kérelemben feltüntetett ültetvény(ek)ről származik és a feltűntetett termékkategóriának megfelel.
+| 4: Pincekönyv/felvásárlási jegy/szállítólevél/átvételi elismervény alapján. |
 
-## *** Megfelelő rész aláhúzandó
+| A kérelem aláírásával a termelő igazolja, hogy a saját feldolgozású/nem feldolgozó felvásárlónak értékesített/feldolgozó szövetkezetbe szállított/feldolgozó borkészítőnek felkínált termés (a megfelelő rész aláhúzandó) a kérelemben feltüntetett ültetvény(ek)ről származik és a feltüntetett eredetvédelmi kategóriának megfelel. |
 
-## Kelt: .............................................................................
+| Kelt: | _________________________________ |  |  |  |
 
-## ...........................................................................................
+|  |  |  |  |  | Bizonyítványt kérelmező aláírása |
 
-## Bizonyítványt kérelmező aláírása
+| A szőlő származási bizonyítvány nyomtatását kérem. A szőlő származási bizonyítvány ....., ....., ......, számú példányát átvettem |
 
-## A szőlő származási bizonyítvány ....., ....., ......, számú példányát átvettem
+| Kelt: | _________________________________ |  |  |  |
 
-## Kelt: .............................................................................
+|  |  |  |  |  | Bizonyítványt kérelmező aláírása |
 
-## ...........................................................................................
+9. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^148]
 
-## Bizonyítványt kérelmező aláírása
-
-9. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^64]
-
-[^64]: A 9. számú melléklet a 64/2010. (V. 12.) FVM rendelet 27. § (9) bekezdése szerint módosított szöveg.
+[^148]: A 9. számú melléklet a 128/2012. (XII. 14.) VM rendelet 31. § (5) bekezdésével megállapított szöveg.

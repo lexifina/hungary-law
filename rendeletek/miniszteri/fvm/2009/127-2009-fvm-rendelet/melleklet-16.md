@@ -22,15 +22,9 @@
 
 |  |  |  | – termelésének további részletes szabályait a használatát lehetővé tevő termékleírás rögzíti. |
 
-| 7. | „jégbor” | bor (OEM és OFJ) | Túléretten, megfagyottan szüretelt és préselt szőlőbogyók felhasználásával előállított bor |
+| 7. | „jégbor” (magyar) | bor (OEM és OFJ) | Túléretten, megfagyottan szüretelt és préselt szőlőbogyók felhasználásával előállított bor − amelynek természetes alkoholtartalma legalább 16,66 térfogatszázalék − amely maradékcukor-tartalma legalább 45 g/liter − amely előállításához a szőlőt igazoltan legfeljebb -7°C-os hőmérsékleten szüretelték. A jégbor készítésére vonatkozó szándékot legalább 48 órával a tervezett szüreti időpont előtt be kell jelenteni az ültetvény területe szerint illetékes hegybíró részére. |
 
-|  |  |  | – amelynek természetes alkoholtartalma legalább 16,66 térfogatszázalék |
-
-|  |  |  | – amelyet igazoltan legfeljebb –7°C-os hőmérsékleten szüreteltek. |
-
-|  |  |  | A jégbor készítésére vonatkozó szándékot legalább 48 órával a tervezett szüreti időpont előtt be kell jelenteni az ültetvény területe szerint illetékes hegybíró részére. |
-
-| 8. | „muskotály” | bor (OEM és OFJ), pezsgő és szén-dioxid hozzáadásával készült habzóbor | legalább 85%-ban a következő szőlőfajták közül egynek vagy többnek a terméséből készülnek: – Aletta, – Csaba gyöngye, – cserszegi fűszeres, – hamburgi muskotály, – Irsai Olivér, – mátrai muskotály, – nektár, – ottonel muskotály, – pölöskei muskotály, – sárga muskotály, – szirén, – trilla, – zefír. |
+| 8. | „muskotály” (magyar) | – bor, – még erjedésben lévő újbor, – likőrbor, – pezsgő, – minőségi pezsgő, – illatos minőségi pezsgő, – szén–dioxid hozzáadásával – készült habzóbor, – gyöngyözőbor, – szén–dioxid hozzáadásával – készült gyöngyözőbor, – szőlőmust, – részben erjedt szőlőmust | legalább 85%-ban a következő szőlőfajták közül egynek vagy többnek a terméséből készülnek: – Aletta, – Csaba gyöngye, – cserszegi fűszeres, – generosa, – hamburgi muskotály, – Irsai Olivér, – mátrai muskotály, – nektár, – ottonel muskotály, – pölöskei muskotály, – sárga muskotály, – szirén, – trilla, – zefír. |
 
 | 9. | „nyerspezsgő” | minőségi pezsgő | palackban erjesztett, expedíciós likőrt egyáltalán nem adtak hozzá |
 
@@ -44,7 +38,7 @@
 
 | 14. | „töppedt szőlőből készült bor” | bor (OEM és OFJ) | olyan szőlőbogyók felhasználásával előállított bor, amelynek élettanilag a teljes érésen túljutott, a vízvesztés következtében az értékes alkotórészek betöményedésével jellemezhető szőlőtermés, amelyet a Botrytis cinerea még nem támadott meg és amelyek természetes alkoholtartalma legalább 12,83 térfogatszázalék |
 
-| 15. | „újbor” | bor | a szüret évében palackozott bor |
+| 12. | „szűretlen” | bor | olyan bor amely esetében mellőzték a szűrést |
 
 | 16. | „válogatott szüretelésű bor” | bor (OEM és OFJ) | a tőkén teljesen beérett szőlőből kiválogatott (az éretlen, a beteg, a penészes fürtök különválasztásával), egészséges, részben túlérett bogyóiból előállított bor, amelynek természetes alkoholtartalma legalább 12,08 térfogatszázalék |
 
@@ -52,7 +46,15 @@
 
 | 18. | termelői pezsgő | pezsgő, minőségi pezsgő, illatos minőségi pezsgő (OEM) | – a terméket a palackban történő második alkoholos erjesztéssel teszik pezsgővé; – a termék a küvé összeállításától számítva legalább kilenc hónapon át megszakítás nélkül a borseprőn marad ugyanabban az üzemben, ahol a küvé készül; – a terméket degorzsálással választják el a borseprőről; – ugyanabban a gazdaságban – ideértve a termelői csoportokat is – termelt szőlőből állítják elő, amelyben a termelő az OEM pezsgők gyártására szánt szőlőből bort készít; – a címkén jelölik a gazdaságot és a szőlőfajtát. |
 
-16. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^70]
+| 19. | „cuvée” (francia) vagy „küvé” (magyar) | bármely borászati termék | legalább két szőlőfajta borából készült borászati termék |
+
+| 20. | „prémium” (magyar) | bármely borászati termék (OEM) | legfeljebb 60 hl/ha seprős újbor hozamú szőlőültetvény terméséből készítik |
+
+| 21. | „superior” (latin) | bármely borászati termék (OEM) | legfeljebb 60 hl/ha seprős újbor hozamú szőlőültetvény terméséből készítik |
+
+| 22. | „reserve” (angol) | bor, pezsgő, minőségi pezsgő (OEM) | – a vörösborokat minimum 18 hónapon keresztül kell érlelni, amiből legalább 12 hónapig maximum 330 l űrmértékű tölgyfahordókban, és a fennmaradó időben palackban kell tárolni. – a fehér- és rozé borokat minimum 6 hónapon keresztül kell érlelni, amiből legalább 3 hónapig tölgyfahordókban, és a fennmaradó időben palackban kell tárolni. |
+
+16. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^155]
 
 „A” rész
 
@@ -420,4 +422,4 @@ Magyar mustfok átszámítása alkoholtartalomra
 
 A tömegszázalékban mért cukortartalom átszámítása alkoholfokra
 
-[^70]: A 16. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (10) bekezdésével megállapított szöveg.
+[^155]: A 16. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (10) bekezdésével megállapított szöveg.
