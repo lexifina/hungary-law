@@ -8,8 +8,6 @@ b) a Budapest, Ifjúság útja–Stefánia út–Thököly út–Dózsa György 
 
 ba) a Dózsa György útnak a Jobbágy utca és a Verseny utca közötti szakasza meghosszabbításának a Kerepesi úttal alkotott metszéspontja, és
 
-bb) a ba) alpont szerinti metszéspontból a Kerepesi útra állított merőleges vonal és a Dózsa György út metszéspontja
-
-által meghatározott egyenessel lezárt területével kiegészített, a Mellékletben megjelölt területen egy önálló új stadion és az ahhoz tartozó parkoló építésére
+bb) a ba) alpont szerinti metszéspontból a Kerepesi útra állított merőleges vonal és a Dózsa György út metszéspontja által meghatározott egyenessel lezárt területével kiegészített, a Mellékletben megjelölt területen egy önálló új stadion, kiegészítő létesítmények és az ezekhez tartozó parkoló építésére, a Budapesti Olimpiai Központ bővítésére
 
 [az a) és b) pont a továbbiakban együtt: beruházás] terjed ki.
