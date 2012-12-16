@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-175-00-00
 | 2012-04-28 | 2012. évi XXXVIII. törvény | 2011-175-00-00.7 |
 | 2012-06-29 | 2012. évi LXXXV. törvény | 2011-175-00-00.8 |
 | 2012-07-24 | 2012. évi CXVII. törvény | 2011-175-00-00.9 |
+| 2012-12-16 | 2012. évi CC. törvény | 2011-175-00-00.10 |
