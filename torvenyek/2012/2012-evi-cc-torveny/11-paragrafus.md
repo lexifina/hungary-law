@@ -9,11 +9,3 @@ b) 18. § (1) bekezdés e) pontja, valamint
 c) 18. § (2) bekezdése.
 
 (3) Hatályát veszti az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 61. § (7) bekezdésében a „támogató” szövegrész.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
