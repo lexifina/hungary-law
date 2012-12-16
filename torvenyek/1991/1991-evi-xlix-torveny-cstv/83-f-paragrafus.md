@@ -1,0 +1,3 @@
+83/F. § (1) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint az azzal összefüggő egyes törvények módosításáról szóló 2009. évi LI. törvénnyel (a továbbiakban: 2009. évi LI. törvény) megállapított 7. § (3) bekezdés b) pontját a 2009. szeptember 1-jét követően kezdeményezett csődeljárásokat követő újabb csődeljárásoknál kell alkalmazni.
+
+(2) E törvénynek a 2009. évi LI. törvénnyel megállapított 11. § (3) bekezdését a 2009. szeptember 1-jét megelőzően kikötött óvadékokra azzal az eltéréssel kell alkalmazni, hogy a fizetési haladék nem érinti az óvadék érvényesíthetőségét, ha az óvadéki jogosult a 11. § (3) bekezdés a)–i) pontja szerinti szervezet.
