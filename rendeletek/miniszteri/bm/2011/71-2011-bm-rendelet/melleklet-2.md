@@ -458,6 +458,6 @@
 
 | 17. | Fonott kardtartó, rejtett | 1 db | 5 év |
 
-2–3. melléklet a 71/2011. (XII. 31.) BM rendelethez[^28]
+2–3. melléklet a 71/2011. (XII. 31.) BM rendelethez[^30]
 
-[^28]: A 2–3. mellékletet a 35/2012. (VII. 13.) BM rendelet 14. § c)–d) pontja hatályon kívül helyezte.
+[^30]: A 2–3. mellékletet a 35/2012. (VII. 13.) BM rendelet 14. § c)–d) pontja hatályon kívül helyezte.

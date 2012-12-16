@@ -6,11 +6,11 @@ a) a csökkentett alapellátási normában részesült, teljes alapellátás ig�
 
 b)[^12] a szerven belül átsorolt állomány, amennyiben a besorolásának megfelelő ruházati norma cikkösszetétele, illetve a ruházati cikkek darabszáma emelkedik,
 
-c) a tábornokká kinevezett, valamint
+c)[^13] állománykategória váltás esetén a tiszthelyettesi állománykategóriából előléptetett, továbbá a tábornokká kinevezett, valamint
 
 d) az áthelyezett, aki további használatra alkalmas, a fogadó szervnél rendszeresített egyenruházati termékkel vagy felszerelési cikkel előzőleg részben ellátásra került és részére a kiegészítés indokolt.
 
-(2)[^13]
+(2)[^14]
 
 (3) Az áthelyezett igényjogosult részére a ruházati utánpótlási ellátmányt – kivéve az általános rendőrségi feladatok ellátására létrehozott szerven, vagy a büntetés-végrehajtási szerveken belüli áthelyezéskor az átadó szerv által kiadott igazolás figyelembevételével – a fogadó szerv csak az áthelyezés időpontjától biztosítja.
 
@@ -23,4 +23,5 @@ d) az áthelyezett, aki további használatra alkalmas, a fogadó szervnél rend
 (7) Az átszerelési költséggel való elszámolást a 18. § alapján kell végrehajtani.
 
 [^12]: A 21. § (1) bekezdés b) pontja a 35/2012. (VII. 13.) BM rendelet 5. §-ával megállapított szöveg.
-[^13]: A 21. § (2) bekezdését a 35/2012. (VII. 13.) BM rendelet 14. § a) pontja hatályon kívül helyezte.
+[^13]: A 21. § (1) bekezdés c) pontja a 74/2012. (XII. 15.) BM rendelet 1. §-ával megállapított szöveg.
+[^14]: A 21. § (2) bekezdését a 35/2012. (VII. 13.) BM rendelet 14. § a) pontja hatályon kívül helyezte.
