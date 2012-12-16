@@ -72,11 +72,13 @@
 
 33. az államháztartási könyvvezetési és beszámolókészítési kötelezettség részletes szabályait,
 
-34. az államháztartási összesítések konszolidációs rendjét, és
+34. az államháztartási összesítések konszolidációs rendjét
 
 35. a központosított illetményszámfejtés szabályait,
 
-36. a letéti pénzkezeléshez kapcsolódóan a letéti számla megnyitásának, a letéti számlán lévő pénzeszközzel való pénzügyi műveletek végzésének és a letéti számla vezetésének szabályait.
+36. a letéti pénzkezeléshez kapcsolódóan a letéti számla megnyitásának, a letéti számlán lévő pénzeszközzel való pénzügyi műveletek végzésének és a letéti számla vezetésének szabályait,
+
+37. a helyi önkormányzatok vis maior támogatása igénylésének, döntési rendszerének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 

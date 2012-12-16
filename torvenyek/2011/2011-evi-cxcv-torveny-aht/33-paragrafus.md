@@ -6,7 +6,7 @@
 
 (4) A fejezetet irányító szerv – a 32. § b)–g) pontja szerinti előirányzatok kivételével – a fejezeti kezelésű előirányzatok terhére – a Kormány irányítása alá tartozó fejezet esetén az államháztartásért felelős miniszter előzetes engedélyével – a fejezeten belül átcsoportosítást hajthat végre, ha a fejezeti kezelésű előirányzat előirányzatain megtakarítás keletkezik, vagy az átcsoportosítás a közfeladatok változásával kapcsolatban szükséges.
 
-(5) A fejezetet irányító szerv a fejezeti kezelésű előirányzatok terhére más fejezethez tartozó címekhez, alcímekhez a fejezetet irányító szerv hatáskörében átcsoportosítást hajthat végre, ha az államháztartás központi alrendszerébe tartozó költségvetési szerv részére pályázati úton elnyert költségvetési támogatás biztosításával, vagy az európai uniós források felhasználásával kapcsolatban szükséges.
+(5) A fejezetet irányító szerv a fejezeti kezelésű előirányzatok terhére más fejezethez tartozó címekhez, alcímekhez a fejezetet irányító szerv hatáskörében átcsoportosítást hajthat végre, ha az államháztartás központi alrendszerébe tartozó költségvetési szerv részére pályázati úton elnyert költségvetési támogatás biztosításával, az európai uniós források felhasználásával vagy elkülönített állami pénzalap javára feladatátadással kapcsolatban szükséges.
 
 (6) A nem a Kormány irányítása alá tartozó fejezetbe sorolt költségvetési szervek és fejezeti kezelésű előirányzatok előirányzatai más fejezethez tartozó címekhez, alcímekhez a fejezetet irányító szerv hatáskörében átcsoportosíthatók.
 

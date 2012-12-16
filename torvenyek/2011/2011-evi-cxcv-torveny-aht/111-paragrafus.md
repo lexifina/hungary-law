@@ -10,7 +10,7 @@
 
 (5) A 8. § alapítási szabályai nem érintik az e törvény hatálybalépésekor már megalapított költségvetési szervek alapításának érvényességét, azonban a nem e törvény előírásai szerint alapított költségvetési szervek átalakításánál, megszüntetésénél e törvény rendelkezései szerint kell eljárni.
 
-(6) A 29. § szerinti kormányhatározatot e törvény hatálybalépését követő kilencven napon belül kell kiadni.
+(6) A 24. § (2) bekezdésétől eltérően a 2013. évi költségvetési rendeletet, határozatot 2013. február 15-éig kell a képviselő-testület, társulási tanács elé beterjeszteni.
 
 (7) A központi költségvetési szervhez 2011. december 31-éig befolyt és e törvény hatálybalépéséig fel nem használt bírságbevételek és azok kamatainak felhasználására a bírság kiszabását lehetővé tevő törvénynek a bírság felhasználására jogosult személyét és a bírság felhasználásának célját meghatározó rendelkezése esetén annak 2011. december 31-én hatályos rendelkezéseit kell alkalmazni. A központi költségvetési szervek által 2011. december 31-éig jogerősen kiszabott és 2012. január 1-jét követően befolyt bírságbevételek és azok kamatai tekintetében a 42. §-ban foglaltakat kell alkalmazni.
 
@@ -28,7 +28,7 @@
 
 (14) A (13) bekezdésben meghatározott jogi személy fizetési számláját vezető hitelintézet – a 79. § (3) bekezdésében meghatározott számla és az államháztartásért felelős miniszter (13) bekezdés szerinti engedélye alapján kincstáron kívül továbbra is vezethető fizetési számla kivételével – új folyószámlahitel igénybevételét nem biztosíthatja. Ha a (13) bekezdésben meghatározott jogi személy a fizetési számla megszüntetési és átutalási kötelezettségének a (13) bekezdésében meghatározott határnapig, illetve határidőig nem tett eleget, és e határidő alatt az államháztartásért felelős miniszter (13) bekezdés szerinti engedélyét sem mutatta be, a fizetési számlát vezető hitelintézet a (13) bekezdés szerinti határnap elteltét, illetve határidő leteltét követő harminc napon belül az érintett fizetési számláját megszünteti és azok egyenlegét a fizetési számla felett rendelkezni jogosult, ennek hiányában a kincstár által közölt fizetési számlára átutalja.
 
-(15) A 80. § (2) bekezdése szerinti szabályzatot a kincstár e törvény hatálybalépését követő hatvan napon belül adja ki és teszi közzé. A szabályzat kiadásáig a kincstár a 2011. december 30-án hatályos jogszabályok szerint jár el.
+(15) A (12)–(14) bekezdés alapján határozott időre megadott felmentések érvényességét az államháztartásért felelős miniszter a fizetési számla felett rendelkezni jogosult kérelmére kivételesen indokolt esetben meghosszabbíthatja.
 
 (16) A 104. § (1) bekezdése alapján a törzskönyvi nyilvántartásban nyilvántartandó, de abba 2012. január 1-jén még nyilvántartásba nem vett törzskönyvi jogi személy e törvény hatálybalépését követő hatvan napon belül köteles kezdeményezni a nyilvántartásba vételt.
 
