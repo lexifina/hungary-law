@@ -82,8 +82,10 @@ l) fenntartható erdőgazdálkodás, valamint véderdő telepítése, védőfás
 
 la) a tulajdonos az erdejében olyan tevékenységet folytat, amely kisajátítás hiányában az erdő kipusztulását eredményezi,
 
-lb) az erdőtelepítés (fásítás) a tulajdonos közreműködésével eredményesen nem valósítható meg, vagy aránytalan nagy költséggel járna.
+lb) az erdőtelepítés (fásítás) a tulajdonos közreműködésével eredményesen nem valósítható meg, vagy aránytalan nagy költséggel járna;
 
 m)
+
+n) sportinfrastruktúra fejlesztése keretében sport- és ehhez kapcsolódó kiegészítő létesítmény létesítése, bővítése, fejlesztése céljából, ha a sportlétesítmény a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó sportcélú ingatlanként olimpiai központnak minősül.
 
 (2) A 3. § (1) bekezdésének d) pontját e paragrafus (1) bekezdés da), db) és ka) pontjai szerinti beruházások esetében nem kell alkalmazni.

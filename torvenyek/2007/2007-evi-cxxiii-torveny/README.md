@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-123-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 2007-123-00-00.11 |
 | 2012-06-28 | 2012. évi LXXXII. törvény | 2007-123-00-00.12 |
 | 2012-07-01 | 2011. évi CCIX. törvény | 2007-123-00-00.13 |
+| 2012-12-16 | 2012. évi CCII. törvény | 2007-123-00-00.14 |
