@@ -1,0 +1,1 @@
+99/A. § A 78. § (2a) bekezdésében meghatározott feladat végrehajtásában a jogszabályban történő kijelölés esetén az állami intézményfenntartó központ részt vehet. Az e kijelölés alapján eljáró állami intézményfenntartó központ a költségvetésében e célra rendelkezésre álló előirányzat terhére támogatást nyújt.

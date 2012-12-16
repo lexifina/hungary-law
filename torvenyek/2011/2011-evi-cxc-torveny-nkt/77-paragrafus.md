@@ -30,4 +30,4 @@ j) az e törvényben biztosított tanulói jogok érvényesülésének elősegí
 
 (5) A szakképzés irányításával kapcsolatos hatásköröket az oktatásért felelős miniszter és a szakképesítésért felelős miniszterek a szakképzésről szóló törvényben meghatározottak szerint gyakorolják.
 
-(6) Az oktatásért felelős miniszter kinevezi, valamint felmenti az oktatási jogok biztosát.
+(6) Az oktatásért felelős miniszter kinevezi, valamint felmenti az oktatási jogok biztosát, és gyakorolja felette az egyéb munkáltatói jogokat.

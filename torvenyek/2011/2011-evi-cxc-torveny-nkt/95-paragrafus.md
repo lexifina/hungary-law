@@ -10,7 +10,7 @@
 
 (4) A 8. § (2) bekezdés, az 53. § (1) bekezdés, 95. § (9) bekezdés 2014. szeptember 1-jén lép hatályba.
 
-(5) A 6. § (2) bekezdés e) pont „szakközépiskolában a szakközépiskola ágazatának megfelelő szakmai vizsgatárgy” szövegrésze 2016. január 1-jén lép hatályba.
+(5) A 6. § (2) bekezdés e) pont „szakközépiskolában a szakközépiskola ágazatának megfelelő szakmai vizsgatárgy” szövegrésze 2017. január 1-jén lép hatályba.
 
 (6)
 

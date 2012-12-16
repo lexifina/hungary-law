@@ -24,6 +24,8 @@ k) évenként országos és térségi mérési, értékelési feladatok elrendel
 
 (2) Az oktatásért felelős miniszter szakmai felügyeletet gyakorol a köznevelési rendszert érintő központi támogatások elosztására irányuló pályázatok felett, különös tekintettel azok pedagógiai tartalmára.
 
+(2a) A miniszter a társadalmi felzárkóztatásért és a tehetségsegítésért, így különösen a tehetséggondozásért való felelőssége körében a köznevelésben résztvevőkre tekintettel támogatást nyújthat.
+
 (3) Az oktatásért felelős miniszter, az egészségügyért felelős miniszter programok kiadásával, pályázatok kiírásával, továbbképzés biztosításával segíti a nevelési-oktatási intézményekben folyó egészségfejlesztési feladatok végrehajtását.
 
 (4) Az oktatásért felelős miniszter, a sportpolitikáért felelős miniszter programok kiadásával, pályázatok kiírásával, pedagógus-továbbképzés biztosításával segítheti a mindennapos testnevelés feladatainak végrehajtását, a sportiskolák megalakulását és működését.
