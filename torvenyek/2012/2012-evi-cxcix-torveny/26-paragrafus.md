@@ -32,9 +32,7 @@ Hatályba léptető és átmeneti rendelkezések”
 
 Felhatalmazó rendelkezések”
 
-(4) Az Mktv. 37. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a közterületi filmforgatással összefüggő közterület-használathoz szükséges egyes engedélyek összevont eljárásban való kiadásának rendjét.”
+(4)
 
 (5) Az Mktv. 37. § (2) bekezdése helyébe a következő rendelkezés lép:
 
@@ -52,11 +50,7 @@ rendeletben állapítsa meg.”
 
 „(3) Felhatalmazást kap a társadalompolitika összehangolásáért felelős miniszter, hogy rendeletben állapítsa meg a filmalkotás végefőcímében az állam támogatóként való feltüntetésének módját.”
 
-(7) Az Mktv. 37. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) Felhatalmazást kap a települési önkormányzat képviselő-testülete, hogy a tulajdonában álló közterületek filmforgatási célú használatának díjára vonatkozóan alkalmazható mentességek és kedvezmények körét, a használat területi és időbeli korlátait, valamint a turisztikailag kiemelt közterületek körét rendeletben állapítsa meg.
-
-(5) Felhatalmazást kap a községi önkormányzat képviselő-testülete, hogy a tulajdonában álló közterületek filmforgatási célú használata díjának felső határát rendeletben állapítsa meg.”
+(7)
 
 (8) Az Mktv. 38. § a) pontja helyébe a következő rendelkezés lép:
 
