@@ -1,0 +1,1 @@
+66/B. § A 14. § (4b) bekezdését az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról szóló 2012. évi CCI. törvény 2. §-ának hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
