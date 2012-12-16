@@ -10,8 +10,6 @@ c) az e törvény alapján nyújtott, az Európai Unió működéséről szóló
 
 d) az Alappal való rendelkezésre, a Kollégium feladataira és működésére, az Alap kezelő szervének működésére és felügyeletére, valamint az Alapból nyújtott támogatások nyilvántartására vonatkozó részletes szabályokat,
 
-e) az Alapból az Alap működésére fordítható kiadások mértékét
+e)
 
-rendeletben határozza meg.
-
-(2) Felhatalmazást kap a nemzetpolitikáért felelős miniszter, hogy a költségvetési törvény Közigazgatási és Igazságügyi Minisztérium fejezetében lévő, a határon túli magyarok programjainak támogatására meghatározott fejezeti kezelésű előirányzatokat az Alap javára átcsoportosítsa.
+(2)

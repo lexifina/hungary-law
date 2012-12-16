@@ -8,4 +8,4 @@
 
 (4) A támogatási rendszer egészének koordinálása, szabályszerű működése és nyilvánossága céljából a bevételekről, a támogatás iránt benyújtott pályázatokról és egyedi kérelmekről, a Bizottság Alappal kapcsolatos döntéseiről, a kiadásokról központi nyilvántartást kell vezetni.
 
-(5) A nemzetpolitikáért felelős miniszter szükség szerint, de legalább évente egyszer, április 30-ig tájékoztatja a Kormányt, a Kormány május 31-ig beszámol az Országgyűlésnek az Alap előző évi tevékenységéről és működéséről, valamint e törvény alkalmazásának tapasztalatairól. A beszámolót az Alap honlapján nyilvánosságra kell hozni.
+(5) A nemzetpolitikáért felelős miniszter szükség szerint, de legalább évente egyszer, május 31-ig tájékoztatja a Kormányt, a Kormány ezt követően beszámol az Országgyűlésnek az Alap előző évi tevékenységéről és működéséről, valamint e törvény alkalmazásának tapasztalatairól. A beszámolót az Alap honlapján nyilvánosságra kell hozni.

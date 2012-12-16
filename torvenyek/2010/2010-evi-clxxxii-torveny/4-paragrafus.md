@@ -23,3 +23,5 @@ b) eseti támogatás
 illeti meg az Alapot.
 
 (6) Az Alap működtetésének kiadásait az Alap finanszírozza.
+
+(7) A (6) bekezdésben meghatározott kiadásokra évente az Alap adott költségvetési évben teljesülő bevételének – ide nem értve a részben vagy egészben visszatérítendő támogatásokból és egyéb céltámogatásokból származó bevételt – legfeljebb tíz százaléka használható fel.

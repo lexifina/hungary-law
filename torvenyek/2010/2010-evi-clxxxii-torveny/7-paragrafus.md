@@ -10,12 +10,18 @@ d) a megbízatásról történő lemondással,
 
 e) halálával,
 
-f) a Kollégium megszűnésével.
+f) a Kollégium megszűnésével,
+
+g) visszahívásával.
 
 (2) A Kollégium elnökének megbízatása megszűnik
 
 a) kollégiumi tagságának megszűnésével,
 
-b) e megbízatásáról történő lemondásával.
+b) e megbízatásáról történő lemondásával,
+
+c) visszahívásával.
 
 (3) A Kollégium elnöke és tagja megbízatásáról a Bizottsághoz intézett írásbeli nyilatkozattal mondhat le. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges.
+
+(4) A Kollégium tagját és elnökét a Bizottság indokolás nélkül bármikor visszahívhatja.
