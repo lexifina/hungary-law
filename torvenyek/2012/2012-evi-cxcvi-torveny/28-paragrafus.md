@@ -1,11 +1,1 @@
-28. § Az Áht. 44. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A kincstár központosított illetményszámfejtést működtet, és ellátja az ehhez kapcsolódó kifizetőhelyi feladatokat. A központosított illetményszámfejtés rendszere keretében történő illetményszámfejtés és -kifizetés kötelező az államháztartás központi alrendszerébe tartozó költségvetési szervek, a helyi önkormányzatok, a nemzetiségi önkormányzatok, ezek társulásai, valamint a helyi önkormányzatok, a nemzetiségi önkormányzatok, és ezek társulásai által irányított költségvetési szervek számára. A kincstárral kötött megállapodás alapján a központi illetményszámfejtéshez más szervezetek is csatlakozhatnak.”
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
+28. §
