@@ -1,4 +1,4 @@
-## 13. §[^6]
+## 13. §[^9]
 
 ## 7. A támogatás felhasználásának és elszámolásának szabályai
 
@@ -6,4 +6,4 @@
 
 (2) A kedvezményezett a támogatás felhasználásáról elkülönített, naprakész nyilvántartást vezet.
 
-[^6]: A 13. §-t a 48/2012. (X. 8.) BM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^9]: A 13. §-t a 48/2012. (X. 8.) BM rendelet 3. § b) pontja hatályon kívül helyezte.
