@@ -2,7 +2,7 @@
 
 7. § E rendelet a kihirdetését követő 8. napon lép hatályba. Ezzel egyidejűleg hatályát veszti az országgyűlési képviselők polgári nemzetbiztonsági szolgálatok objektumaiba történő belépéséről szóló 2/1993. (IV. 7.) TNM rendelet.
 
-Melléklet az 1/1996. (VI. 19.) TNM rendelethez[^7]
+Melléklet az 1/1996. (VI. 19.) TNM rendelethez[^8]
 
 Az igazolvány leírása
 
@@ -12,7 +12,7 @@ A Hivatal, az Iroda, továbbá az NBF köztisztviselői, közalkalmazottai, hiva
 
 Az igazolvány 85 x 54 mm méretű, többrétegű műanyag kártya. Az igazolvány többszínnyomású ofszet technológiával készült, az előoldalon holografikus biztonsági elem található.
 
-2.[^8] Az igazolvány adattartalma:
+2.[^9] Az igazolvány adattartalma:
 
 Előoldal:
 
@@ -54,5 +54,5 @@ Hátoldal:
 
 4. A rendelet 5. §-ának (2) bekezdésében szereplő igazolványok első oldalának jobb sarkában kb. 5 mm széles, piros színű körívnyomat található.
 
-[^7]: A melléklet a 10/2002. (VIII. 9.) MeHVM rendelet 3. §-ával megállapított szöveg.
-[^8]: A melléklet 2. pontja a 68/2011. (XII. 30.) BM rendelet 6. § b) pontja szerint módosított szöveg.
+[^8]: A melléklet a 10/2002. (VIII. 9.) MeHVM rendelet 3. §-ával megállapított szöveg.
+[^9]: A melléklet 2. pontja a 68/2011. (XII. 30.) BM rendelet 6. § b) pontja szerint módosított szöveg.
