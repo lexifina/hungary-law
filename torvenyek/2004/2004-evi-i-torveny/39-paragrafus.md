@@ -14,7 +14,7 @@ f) az olimpiai mozgalom eszményének jegyében segíti az ifjúság testi, erk�
 
 g) meghatározza a versenyzők minősítési szintjeit – együttműködésben az országos sportági szakszövetségekkel és az országos sportági szövetségekkel –,
 
-h) a 64. § (1) bekezdésében meghatározottak szerint – elláthatja az olimpiai központokról szóló kormányrendeletben meghatározott állami tulajdonban álló sportlétesítmények vagyonkezelését,
+h)
 
 i) kidolgozza a sportolóvá válás gondozásának módszertanát a kiválasztástól a nemzetközi szintű teljesítményig,
 
