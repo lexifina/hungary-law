@@ -18,11 +18,11 @@ d) a mozgóképszakma nemzetközi képviselete, a nemzetközi kapcsolatok ápol�
 
 e) a határon túli magyar filmművészet támogatása, folyamatos jelenlétének elősegítése a hazai, az európai, valamint az Európán kívüli filmpiacon,
 
-f) az állami támogatással megvalósuló filmalkotásokon fennálló, szerződés alapján megszerzett vagyoni jogok kezelése, hasznosítása az MNF Támogatási Szabályzatában és a támogatottal kötött szerződésben meghatározott rendelkezések szerint,
+f) e törvény szerinti támogatással megvalósuló filmalkotásokon fennálló, szerződés alapján megszerzett vagyoni jogok kezelése, hasznosítása az MNF Támogatási Szabályzatában és a támogatottal kötött szerződésben meghatározott rendelkezések szerint,
 
 g) az MNF tulajdonában vagy kezelésében lévő vagyontárgyak kezelése, hasznosítása,
 
-h) a mozgóképszakmai állami támogatási rendszer továbbfejlesztésére vonatkozó koncepciók elkészítése,
+h) a mozgóképszakmai támogatási rendszer továbbfejlesztésére vonatkozó koncepciók elkészítése,
 
 i) a magyar kultúra terjesztése, illetve Magyarország nemzetközi megítélése szempontjából kiemelkedő jelentőségű, filmforgatásra alkalmas állami és önkormányzati tulajdonban álló helyszínek nyilvántartása, valamint közreműködés filmgyártási célra történő hasznosításukban az azok felett rendelkezésre jogosultakkal kötött megállapodás alapján.
 

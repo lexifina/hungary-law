@@ -5,7 +5,3 @@
 (2) Amennyiben a Hivatal a hatósági döntésének ellenőrzése eredményeként megállapítja a hatósági döntésében foglaltak megsértését, abban az esetben az ügy összes körülményei, illetve az ellenőrzés során feltárt tények, valamint a jogsértés súlya és a hatékony jogérvényesítés szempontjai alapján mérlegeli, hogy a döntés megsértése tárgyában a Ket. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
 
 (3) Az általános hatósági felügyelet keretében feltárt jogsértések esetében a Hivatal a 19/H. §-ban meghatározott jogkövetkezményeket alkalmazhatja.
-
-3. CÍM
-
-Besorolási eljárások

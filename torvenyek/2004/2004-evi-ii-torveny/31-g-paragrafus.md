@@ -4,4 +4,4 @@
 
 (3) A Hivatal a film gyártásának megkezdésétől a film bemutatásának napjáig helyszíni ellenőrzést folytathat le figyelemmel a (1) bekezdésben foglaltakra.
 
-(4) A (1)–(3) bekezdésben foglaltakat kell alkalmazni, ha a közvetett állami támogatási eljárásban az 1. § (3) bekezdése szerinti közvetlen támogatást nyújtó támogató szervezet az Elnök rendelete szerinti jegyzőkönyvet állít ki.
+(4) A (1)–(3) bekezdésben foglaltakat kell alkalmazni, ha a közvetlen támogatást nyújtó – e rendelkezés alkalmazásában ideértve az MTVA-t is – az Elnök rendelete szerinti jegyzőkönyvet állít ki.

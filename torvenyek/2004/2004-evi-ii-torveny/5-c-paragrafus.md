@@ -1,0 +1,7 @@
+5/C. § (1) A nemzeti filmvagyonra vonatkozó vagyonkezelői jogokat a MaNDA gyakorolja.
+
+(2) A nemzeti filmvagyonba tartozó filmalkotások terjesztését a MaNDA-val kötött megállapodásban (a továbbiakban: terjesztési megállapodás) foglaltak alapján a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: MNF) végzi, figyelembe véve a terjesztésre vonatkozó piaci lehetőségeket, a terjesztésre kerülő alkotások sokszínűségéhez fűződő érdeket, a rendelkezésére álló példányok minőségét és a terjesztésre vonatkozó minőségi előírásokat. A terjesztési megállapodás a MaNDÁ-t irányító szerv vezetőjének egyetértése esetén jön létre.
+
+(3) A szerzői vagy szomszédos jogi védelem alatt nem álló filmalkotások vagy e törvény szerint filmalkotásnak nem minősülő egyéb mozgóképes művek (a továbbiakban: egyéb mozgóképes művek) terjesztéséről az MNF e művek vagyonkezelőjével megállapodást köthet.
+
+(4) A nemzeti filmvagyonba tartozó filmalkotások és egyéb mozgóképes művek terjesztése során az MNF önállóan, a MaNDA jóváhagyása nélkül jogosult az egyes felhasználókkal megállapodni. Ha a terjesztés érdekeit ez hatékonyabban szolgálja, az MNF jogosult a terjesztési jogok gyakorlását harmadik személynek átengedni vagy harmadik személlyel együttesen gyakorolni. Az MNF korlátlan területi és időbeli felhasználásról szóló, valamint a filmvagyon egészére vonatkozó terjesztési megállapodást nem köthet.

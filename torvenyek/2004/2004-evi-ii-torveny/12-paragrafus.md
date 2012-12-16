@@ -1,6 +1,6 @@
-12. § (1) A mozgóképszakma közvetlen támogatása szelektív támogatás útján történik.
+12. § (1) A mozgóképszakma közvetlen támogatása – a filmalkotás jellemzőitől, így különösen a filmalkotás forgatókönyvétől, költségvetésétől, művészi értékétől, a filmalkotás szerzőinek, alkotóinak és szereplőinek személyétől, vagy az egyéb támogatandó cél jellegétől függően – pályázat vagy egyedi kérelem alapján történik.
 
-(2) A szelektív támogatáson belül a támogatást nyújtó szervezetek visszatérítendő, illetve vissza nem térítendő támogatásokat nyújthatnak. A visszatérítendő támogatások esetében a visszatérítés módját és mértékét a támogató szervezetek határozzák meg.
+(2) Közvetlen támogatás visszatérítendő vagy vissza nem térítendő formában nyújtható. A visszatérítendő támogatások esetében a visszatérítés módját és mértékét a támogató határozza meg.
 
 (3) E törvény alapján az alábbi mozgóképszakmai tevékenységek céljára nyújtható támogatás:
 
@@ -22,16 +22,16 @@ h) mozgóképszakmai kiadványok készítése, kiadása,
 
 i) infrastrukturális fejlesztések.
 
-(4) A (3) bekezdésben meghatározott tevékenységek céljára nyújtott állami támogatás felső határának (maximális mértékének) elérése szempontjából a támogató szervezetek számától függetlenül valamennyi mozgóképszakmai állami támogatást figyelembe kell venni. A filmgyártás-előkészítési támogatásban részesülő filmalkotás állami támogatását a 13. §-ban meghatározott támogatási határ kiszámításakor figyelembe kell venni.
+(4) A (3) bekezdésben meghatározott tevékenységek céljára nyújtható támogatás maximális mértékének meghatározása szempontjából a filmalkotáshoz nyújtott valamennyi támogatást figyelembe kell venni. A filmgyártás-előkészítési támogatásban részesülő filmalkotás támogatását a 13. §-ban meghatározott támogatási határ kiszámításakor figyelembe kell venni.
 
-(5) A Médiaszolgáltatás-támogató és Vagyonkezelő Alap (a továbbiakban: MTVA) – a Nemzeti Média- és Hírközlési Hatóság Médiatanácsának (a továbbiakban: Médiatanács) előzetes jóváhagyásával – megállapodást köthet az MNF-fel filmalkotások támogatásáról e törvény rendelkezései szerint.
+(5) Az MTVA – a Médiatanács előzetes jóváhagyásával – megállapodást köthet az MNF-fel filmalkotások támogatásáról e törvény rendelkezései szerint.
 
-(6) Az MNF a mozgóképszakmai célok támogatására rendelkezésre álló állami források elosztásának összehangolása érdekében megállapodást köthet más támogató szervezetekkel a (3) bekezdésben meghatározott egyes mozgóképszakmai tevékenységek támogatásáról.
+(6) Az MNF a mozgóképszakmai célok támogatására rendelkezésre álló források elosztásának összehangolása érdekében megállapodást köthet a támogatóval a (3) bekezdésben meghatározott egyes mozgóképszakmai tevékenységek támogatásáról.
 
 (7)
 
 (8) Nem részesülhet az e törvény szerinti támogatásban olyan tevékenység, amely a 21. § szerinti VI. kategóriába sorolandó film előállítására, terjesztésére, archiválására irányul. Nem részesülhetnek emellett támogatásban az olyan egyéb televíziós műsorszámok, amelyek nem minősülnek kulturális értéket műfaja alapján létrehozó filmalkotásnak.
 
-(9) Az e törvény szerinti közvetett állami támogatás a filmalkotás közvetlen filmgyártási költségéhez és a közvetlen magyar filmgyártási költségéhez igazodik.
+(9) A közvetett támogatás a filmalkotás közvetlen filmgyártási költségéhez és a közvetlen magyar filmgyártási költségéhez igazodik.
 
-(10) A filmalkotás közvetett állami támogatásának alapja a közvetlen filmgyártási költség 100%-a, ha a filmalkotás közvetlen gyártási költségeinek legalább 80%-a közvetlen magyar filmgyártási költségnek minősül. Az ezt az arányt el nem érő filmalkotások esetén a közvetett állami támogatás alapja a közvetlen magyar filmgyártási költség 1,25-dal szorzott összege.
+(10) A filmalkotás közvetett támogatásának alapja a közvetlen filmgyártási költség 100%-a, ha a filmalkotás közvetlen gyártási költségeinek legalább 80%-a közvetlen magyar filmgyártási költségnek minősül. Az ezt az arányt el nem érő filmalkotások esetén a közvetett támogatás alapja a közvetlen magyar filmgyártási költség 1,25-dal szorzott összege.

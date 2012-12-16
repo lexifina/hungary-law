@@ -1,4 +1,4 @@
-## Ügyintézési határidő
+## Ügyintézési határidő és az eljárás felfüggesztése
 
 19/D. § (1) A Hatóság eljárásainak ügyintézési határideje – amennyiben e törvény eltérő szabályokat nem állapít meg – negyven nap.
 

@@ -2,14 +2,14 @@
 
 (2) E törvény alkalmazása során úgy kell eljárni, hogy a magyar mozgóképszakma törvényben meghatározott forráselosztó- és intézményrendszerének szakmai és művészeti függetlensége ne sérüljön.
 
-(3) Az e törvényben meghatározott állami támogatási rendszer működtetése során törekedni kell a közpénzek hatékony és eredményes felhasználására, továbbá úgy kell eljárni, hogy az állami támogatások felhasználása átlátható és ellenőrizhető legyen.
+(3) A mozgóképszakmai támogatási rendszer működtetése során törekedni kell a közpénzek hatékony és eredményes felhasználására, továbbá úgy kell eljárni, hogy azok felhasználása átlátható és ellenőrizhető legyen.
 
-(4) E törvény alkalmazása, illetve a törvényben meghatározott állami támogatási rendszer működtetése során úgy kell eljárni, hogy az segítse a különböző társadalmi nemzetiségekhez tartozó, valamint a fogyatékkal élő emberek társadalmon belüli esélyegyenlőségének megteremtését.
+(4) E törvény alkalmazása és a mozgóképszakmai támogatási rendszer működtetése során úgy kell eljárni, hogy az segítse a különböző társadalmi nemzetiségekhez tartozó, valamint a fogyatékkal élő emberek társadalmon belüli esélyegyenlőségének megteremtését.
 
-## II. Fejezet
+## I/A. Fejezet
 
-## A MOZGÓKÉPKULTÚRA ÉS MOZGÓKÉPIPAR TÁMOGATÁSA
+## A NEMZETI FILMVAGYON ÉS VÉDELME
 
 1. CÍM
 
-A támogatási rendszer alapelvei
+A nemzeti filmvagyon elemei

@@ -8,7 +8,7 @@ c) gyermekpszichológusokat tömörítő szervvel, szervezettel vagy szervezetek
 
 d) a filmterjesztők szakmai szervezetével.
 
-(2) Az (1) bekezdés szerinti együttműködési megállapodásokon keresztül a Hivatal biztosítja, hogy a társadalmi szervezetek megfelelő számú és végzettségű tagot delegáljanak a Korhatár Bizottságba. A Hivatal a Hatóság köztisztviselői közül is delegálhat megfelelő végzettségű és a média gyermekek fejlődésére gyakorolt hatásai tekintetében tapasztalattal rendelkező tagot a Korhatár Bizottságba.
+(2) Az (1) bekezdés szerinti együttműködési megállapodásokon keresztül a Hivatal biztosítja, hogy a társadalmi szervezetek megfelelő számú és végzettségű tagot delegáljanak a Korhatár Bizottságba. A Hivatal az NMHH köztisztviselői közül is delegálhat megfelelő végzettségű és a média gyermekek fejlődésére gyakorolt hatásai tekintetében tapasztalattal rendelkező tagot a Korhatár Bizottságba.
 
 (3) Az eljáró Korhatár Bizottságot a Korhatár Bizottság tagjai közül a Hivatal kéri fel és hívja össze. Az eljáró Korhatár Bizottság legalább hét tagból áll. Az eljáró Korhatár Bizottságot úgy kell összeállítani, hogy abban jelen legyen legalább
 

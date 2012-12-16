@@ -1,0 +1,5 @@
+36/A. § (1) E törvény a mozgóképről szóló 2004. évi II. törvény módosításáról szóló 2012. évi CXCIX. törvénnyel megállapított 14. § (5) bekezdését, 19/A. § (10) bekezdését és 26/B. § (4)–(9) bekezdését a mozgóképről szóló 2004. évi II. törvény módosításáról szóló 2012. évi CXCIX. törvény hatálybalépésekor folyamatban lévő eljárásban is alkalmazni kell.
+
+(2) A mozgóképről szóló 2004. évi II. törvény módosításáról szóló 2012. évi CXCIX. törvénnyel megállapított 32. § (1) bekezdésében meghatározott feladatokat a Hivatal a 2013. évre vonatkozó adatgyűjtési feladatoktól kezdődően látja el.
+
+(3) A kizárólag műhelyként nyilvántartott mozgóképszakmai szervezet 2012. december 31-éig kérheti a Hivataltól a 28. § (4) bekezdés szerinti minőségben történő nyilvántartásba vételét. Ha a nyilvántartott mozgóképszakmai szervezet e határidőig nem nyújt be kérelmet, vagy a kérelmét a Hivatal elutasítja, a Hivatal a kizárólag műhelyként nyilvántartott szervezetet törli a nyilvántartásából. Ha a mozgóképszakmai szervezet a műhelyen kívül más minőségében is szerepel a nyilvántartásban, a Hivatal kizárólag a műhely minőségét törli a nyilvántartásból.

@@ -2,7 +2,7 @@
 
 19/E. § (1) A tényállás tisztázása során a Hatóság a (2)–(7) bekezdésben foglalt eltérésekkel a Ket. tényállás tisztázására és a hatósági ellenőrzésre vonatkozó szabályait alkalmazza.
 
-(2) A Hatóság jogosult a filmalkotások előállításával, gyártásával, állami támogatásával, terjesztésével, archiválásával, illetve a filmterjesztéssel kapcsolatos – akár törvény által védett titkot is magában foglaló – adatot tartalmazó valamennyi eszközt, iratot, dokumentumot megtekinteni, megvizsgálni, azokról másolatot, kivonatot készíteni.
+(2) A Hatóság jogosult a filmalkotások előállításával, gyártásával, e törvény szerinti támogatásával, terjesztésével, archiválásával, illetve a filmterjesztéssel kapcsolatos – akár törvény által védett titkot is magában foglaló – adatot tartalmazó valamennyi eszközt, iratot, dokumentumot megtekinteni, megvizsgálni, azokról másolatot, kivonatot készíteni.
 
 (3) A Hatóság az ügyfelet, az eljárás egyéb résztvevőit, valamint azok megbízottait, alkalmazottait, illetve az ügyféllel és az eljárás egyéb résztvevőivel egyéb jogviszonyban állókat adatszolgáltatásra, illetve szóban vagy írásban adatoknak az általa meghatározott, összehasonlításra alkalmas formátumban való szolgáltatására, továbbá egyéb felvilágosítás adására kötelezheti.
 

@@ -1,17 +1,45 @@
 ## A támogatási igazolás
 
-31/C. § (1) A Hivatal a 19. § (1) bekezdés f) pontja, valamint a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 4. § 36. pontja alapján a filmelőállítónak, illetve a filmgyártó vállalkozásnak a kérelmére adja ki a közvetett állami támogatások igénybevételére jogosító támogatási igazolásokat.
+31/C. § (1) A Hivatal a 19. § (1) bekezdés f) pontja alapján a filmelőállítónak, illetve a filmgyártó vállalkozásnak a kérelmére költségellenőrzési eljárásban ellenőrzi a filmelőállító, illetve a filmgyártó vállalkozás által a filmalkotás tekintetében közvetlen filmgyártási költségként elszámolni kívánt költségeket, és határozatban állapítja meg a közvetlen filmgyártási költséget és a Tao. tv. 22. § (3) bekezdése szerinti adókedvezményre jogosító közvetett támogatás összegét.
 
-(2) A kérelemhez csatolni kell:
+(2) Az (1) bekezdés szerinti kérelemhez csatolni kell
 
-a) az adott filmalkotás könyvelési tételeit tartalmazó főkönyvi kivonatot, főkönyvi kartonokat, valamint
+a) az adott filmalkotás előállítója, illetve gyártója könyvelési dokumentációjának a vizsgált filmalkotásra vonatkozó könyvelési tételeit tartalmazó, munkaszámos főkönyvi kivonatát, főkönyvi kartonjait,
 
-b) a támogatásra jogosultság megállapítása során elfogadott költségvetés alapján és rovatkódjainak bontásában készített, a kérelemben feltüntetett és az azt megelőző időszak tényleges költségeit tartalmazó költségkimutatást.
+b) a támogatásra jogosultság megállapítása során elfogadott költségvetés alapján és rovatkódjainak bontásában készített, a kérelemben feltüntetett és az azt megelőző időszak tényleges költségeit tartalmazó költségkimutatást, és
 
-(3) A kérelemben vagy legkésőbb a kérelem benyújtását követő 20 napon belül meg kell jelölni a támogató nevét, székhelyét, adószámát és csatolni kell az igazolás igénybevételének jogosultságát bizonyító szerződést.
+c) a filmelőállító visszavonhatatlan jognyilatkozatát, hogy a (4) bekezdés szerinti kötelezettségnek eleget tesz.
 
-(4) A támogatási igazolás – a Tao. tv. 4. § 36. pontjában meghatározottakon túl – tartalmazza a filmalkotás címét és nyilvántartási számát, a kérelemben feltüntetett időszakot és a közvetlen filmgyártás költségeinek erre az időszakra eső összegét.
+(3) A Hivatal
 
-(5) Megrendelésre készülő filmalkotás esetén a filmgyártó vállalkozás kérelme alapján a támogatási igazoláson a filmelőállító is feltüntethető.
+a) a filmelőállító, illetve a filmgyártó vállalkozás önálló vagy együttes,
 
-(6) A Hivatal a kiadott támogatási igazolásokkal összefüggésben birtokába került okiratokat az igazolás kiadásának évét követő tíz évig köteles megőrizni.
+b) – a 31/D. § (7) bekezdésében foglalt esetben – az MNF, vagy
+
+c) – ha az (1) bekezdés szerinti határozat jogerőre emelkedett és a filmelőállító, illetve a filmgyártó vállalkozás vagy az MNF azt nem kérte – a közvetett támogatás forrását biztosító szervezet
+
+kérelmére a közvetett támogatás igénybevételére jogosító támogatási igazolást ad ki.
+
+(4) A támogatási igazolás kiállításának feltétele, hogy a filmalkotás előállítója, illetve gyártója nyilatkozatban vállalja az állam támogatóként történő feltüntetését a filmalkotás végefőcímében. A feltüntetés módját a társadalompolitika összehangolásáért felelős miniszter határozza meg.
+
+(5) A támogatási igazolás kiadása iránti
+
+a) kérelemben – ha a közvetett támogatás forrását biztosító szervezet a filmelőállítóval, illetve filmgyártó vállalkozással köt szerződést a filmalkotás támogatásáról és a kérelmező a közvetett támogatás forrását biztosító szervezet vagy az MNF – a támogatási igazolás kiadása iránti kérelem benyújtásával egyidejűleg, egyéb esetben legkésőbb a kérelem benyújtását követő 30 napon belül meg kell jelölni a közvetett támogatás forrását biztosító szervezet nevét, székhelyét, adószámát és csatolni kell a filmalkotás támogatására vonatkozó szerződést,
+
+b) kérelemhez – ha azt a Hivatal az MNF kérelmére adja ki – csatolni kell az MNF és a közvetett támogatás forrását biztosító szervezet között létrejött megállapodást, továbbá a közvetett támogatás forrásának a kincstárnál e célra vezetett letéti számlára (a továbbiakban: letéti számla) történt megfizetést igazoló, a kincstár által kiállított okiratot.
+
+(6) A támogatási igazolás tartalmazza
+
+a) a közvetett támogatás forrását biztosító szervezet megnevezését, székhelyét és adószámát,
+
+b) a filmalkotás címét és nyilvántartási számát,
+
+c) a kérelemben feltüntetett időszakot és a közvetlen filmgyártás költségeinek erre az időszakra eső összegét
+
+d) a Tao. tv. 22. § (3) bekezdése szerinti adókedvezményre jogosító közvetett támogatás összegét.
+
+(7) Az MNF kérelmére kiadott támogatási igazolás kizárólag a (6) bekezdés a) és d) pontjában meghatározott adatokat tartalmazza.
+
+(8) Megrendelésre készülő filmalkotás esetén a filmgyártó vállalkozás kérelme alapján – ide nem értve a (7) bekezdés szerinti kérelem alapján kiadott támogatási igazolásokat – a támogatási igazoláson a filmelőállító is feltüntethető.
+
+(9) A Hivatal a kiadott támogatási igazolásokkal összefüggésben birtokába került okiratokat az igazolás kiadásának évét követő tíz évig őrzi meg.

@@ -1,6 +1,6 @@
 31/F. § (1) A közvetlen magyar filmgyártási költségek között az a közvetlen filmgyártási költségnek minősülő filmgyártási és filmgyártás-előkészítési költség vagy ráfordítás ismerhető el,
 
-a) amelyet a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) 160. § (3) bekezdés a)–b) pontjában megnevezett számlákon számolnak el, és
+a) amelyet az Szt. 160. § (3) bekezdés a)–b) pontjában megnevezett számlákon számolnak el, és
 
 b) amely a személyi jövedelemadóról szóló 1995. évi CXVII. törvény, az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény, a Tao. tv. vagy az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény szerinti adókötelezettség alá eső, illetve a költségvetési szervnél bevételt eredményező kötelezettség teljesítésével keletkezett, vagy
 
@@ -16,6 +16,6 @@ c) megfelel a 31/E. § (2)–(9) bekezdésében foglalt feltételeknek.
 
 (4) Az Szt. 3. § (4) bekezdés 1. pontjában meghatározott közvetített szolgáltatást tartalmazó költségekből a szállító által külföldről igénybe vett szolgáltatás értéke nem számolható el közvetlen magyar filmgyártási költségként. A külföldről igénybe vett közvetített szolgáltatás értékéről a filmgyártó vállalkozásnak nyilatkozni kell.
 
-(5) A belföldi szállító által kiállított számla és egyéb belföldi költség magyar filmgyártási költségnek minősül, és csak a jelen § szerint számolható el.
+(5) A belföldi szállító által kiállított számla és egyéb belföldi költség magyar filmgyártási költségnek minősül, és csak e § szerint számolható el.
 
 (6) A Hivatal indokolt esetben a hatósági ellenőrzést kiterjesztheti a közbenső szerződő felekre, illetve alvállalkozókra, valamint érintett jogviszonyaikra annak érdekében, hogy a hatósági ellenőrzés hatálya alá a szolgáltatás tényleges teljesítője is bevonható legyen.

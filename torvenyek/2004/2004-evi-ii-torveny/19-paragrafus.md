@@ -10,7 +10,7 @@ d) azokat a filmalkotásokat, amelyek előállításához e törvény szerinti t
 
 e) e törvény szerint ellenőrzi és igazolja a kulturális követelményeknek való megfelelés tényét,
 
-f) e törvény szerint ellenőrzi, megállapítja és igazolja a közvetett és közvetlen állami támogatás igénybevételére vonatkozó jogosultságot, valamint kiállítja a társasági adóról és az osztalékadóról szóló törvény szerinti támogatási igazolást,
+f) e törvény szerint ellenőrzi, megállapítja és igazolja az e törvény szerinti támogatás igénybevételére vonatkozó jogosultságot, valamint kiállítja a támogatási igazolást,
 
 g) mozgóképszakmai statisztikai tevékenységet végez,
 

@@ -2,7 +2,7 @@
 
 1. mozgóképszakma: a mozgóképkultúra, illetve a mozgóképipar körébe tartozó tevékenységek, valamint az ilyen tevékenységeket végző személyek összessége;
 
-2. filmalkotás: a szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) szerinti filmalkotás, ide nem értve a hírműsort, az aktuális és szolgáltató magazinműsort, a sportközvetítést, a beszélgető-műsort (talkshow), a játék- és vetélkedőműsort, és a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény hatálya alá tartozó reklámfilmet.
+2. filmalkotás: a szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) szerinti filmalkotás, ideértve a számítógépes vagy bármilyen platformon hozzáférhető játékprogram előzeteseként készülő filmalkotást, ide nem értve a hírműsort, az aktuális és szolgáltató magazinműsort, a sportközvetítést, a beszélgetőműsort (talk-show), a játék- és vetélkedőműsort, és a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény hatálya alá tartozó reklámfilmet;
 
 3. film alkotói: a filmalkotás céljára készült irodalmi és zeneművek szerzői, a filmalkotás rendezője és mindazok, akik a filmalkotás egészének kialakításához alkotó módon járultak hozzá, továbbá a filmalkotásban felhasznált egyéb művek szerzői;
 
@@ -14,31 +14,33 @@
 
 6a. koprodukciós filmalkotás: olyan magyar filmelőállítók által közösen készített filmalkotás, amelyben a filmelőállítók filmalkotásra vonatkozó jogait és kötelezettségeit koprodukciós szerződés rögzíti;
 
-7. a) magyar filmalkotás: olyan filmalkotás, amelyben a magyar részvétel a 3. § szerinti táblázat alapján legalább 75 pontot ér el;
+6b. egyéb nemzetközi koprodukciós filmalkotás: különböző államokban székhellyel rendelkező filmelőállítók által készített filmalkotás, amely nem tartozik két- vagy többoldalú nemzetközi egyezmény hatálya alá, de a filmelőállítók jogait és kötelezettségeit koprodukciós szerződés rögzíti és a filmalkotás Magyarországon csak közvetett támogatást vesz igénybe;
 
-b) magyar részvételű filmalkotás: olyan filmalkotás, amelyben a magyar részvétel a 3. § szerinti táblázat alapján legalább 30 pontot ér el;
+7. a) magyar filmalkotás: olyan filmalkotás, amelyben a magyar részvétel az 1. melléklet szerinti táblázat alapján legalább 75 pontot ér el;
 
-c) egyéb magyar részvételű filmalkotás: olyan filmalkotás, amelyben a magyar részvétel a 3. § szerinti táblázat alapján legalább 15 pontot ér el;
+b) magyar részvételű filmalkotás: olyan filmalkotás, amelyben a magyar részvétel az 1. melléklet szerinti táblázat alapján legalább 30 pontot ér el;
 
-d) egyéb filmalkotás: olyan filmalkotás, amelyben a magyar részvétel a 3. § szerinti táblázat alapján nem éri el a 15 pontot;
+c) egyéb magyar részvételű filmalkotás: olyan filmalkotás, amelyben a magyar részvétel az 1. melléklet szerinti táblázat alapján legalább 15 pontot ér el;
+
+d) egyéb filmalkotás: olyan filmalkotás, amelyben a magyar részvétel az 1. melléklet szerinti táblázat alapján nem éri el a 15 pontot;
 
 8. eredetileg magyar nyelven gyártott filmalkotás: az olyan filmalkotás, amely az alábbi kategóriák valamelyikébe tartozik:
 
-a) forgatásának során a szereplők (az utómunka során a narrátor) által használt nyelv többségében a magyar,
+a) a rendező és a stáb tagjai (az utómunka során a narrátor) által használt nyelv többségében a magyar,
 
 b) forgatásának során a szereplők (az utómunka során a narrátor) által használt nyelv többségében valamely magyarországi nemzetiség nyelve, ha a filmalkotás tárgya az adott magyarországi nemzetiség életével, kultúrájával van összefüggésben;
 
-9. közvetlen támogatás: e törvény 1. § (3) bekezdésében meghatározott szervek által mozgóképszakmai célokra nyújtott pénzügyi juttatás.
+9.
 
-10. közvetett támogatás: mozgóképszakmai célok megvalósítását szolgáló támogatás, amely után a támogató jogszabályban megállapított adókedvezményeket vehet igénybe;
+10.
 
 11.
 
-12. szelektív támogatás: olyan támogatás, amely a filmalkotás jellemzőitől (így különösen forgatókönyv, költségvetés, művészi érték, a filmalkotás szerzőinek, alkotóinak és szereplőinek személye), vagy az egyéb támogatandó cél jellegétől függően, a támogató szervezet pályázat útján vagy egyedi kérelem elbírálását követően hozott döntése alapján illeti meg a filmelőállítót, filmterjesztőt, illetve az e törvény szerinti egyéb igénylőt;
+12.
 
 13.
 
-14. támogató szervezet: az 1. § (3) bekezdésében meghatározott, mozgóképszakmai célok támogatását végző szervezet vagy intézmény;
+14. támogató: a mozgóképszakmai célok támogatását végző szervezet vagy intézmény;
 
 15. filmterjesztés: a filmalkotás eredeti példányának vagy többszörözött példányainak a nyilvánosság számára történő hozzáférhetővé tétele, különösen
 
@@ -56,15 +58,15 @@ c) filmalkotás bármely adathordozón történő kiadásával, értékesítés�
 
 19. filmterv fejlesztés: filmterv és forgatókönyv létrejöttét, eladhatóságát és eladását, illetve megvalósíthatóságát és későbbi megvalósítását célzó kutatói, alkotói, tervezési és szervezési munkák összessége;
 
-20. filmgyártás: a filmalkotás felvételének megkezdésétől a filmalkotás első eredeti példányának előállításáig vezető alkotói, szervezési, gazdasági és műszaki tevékenységek összessége; az első eredeti példány az első, közönség előtti bemutatásra alkalmas végleges kópia;
+20. filmgyártás: a filmgyártás előkészítésétől a filmalkotás első eredeti példányának előállításáig vezető alkotói, szervezési, gazdasági és műszaki tevékenységek összessége; az első eredeti példány az első, közönség előtti bemutatásra alkalmas végleges kópia;
 
 20a. filmgyártó vállalkozás: az a jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, amely a film gyártására vonatkozó szerződés alapján szervezi a filmalkotás megvalósítását, és ezen tevékenysége révén az adott film tekintetében nem minősül filmelőállítónak;
 
-20b. magyar filmgyártó vállalkozás: a 27. § szerinti nyilvántartásba vett, magyarországi székhellyel rendelkező filmgyártó vállalkozás, amely vezető tisztségviselőinek többsége valamely EGT-államnak, vagy a Határokon átlépő televíziózásról szóló Európa Tanácsi Egyezményt aláíró valamely országnak az állampolgára;
+20b. magyar filmgyártó vállalkozás: a mozgóképszakmai hatóság nyilvántartásába vett, magyarországi székhellyel rendelkező filmgyártó vállalkozás, amely vezető tisztségviselőinek többsége valamely EGT-államnak, vagy a Határokon átlépő televíziózásról szóló Európa Tanácsi Egyezményt aláíró valamely országnak az állampolgára;
 
-21. filmgyártás-előkészítés: a filmgyártás megkezdését megelőző, közvetlenül annak anyagi, műszaki, szervezési feltételeinek biztosítását célzó alkotó és szervező tevékenység;
+21. filmgyártás-előkészítés: a filmforgatás megkezdését megelőző, közvetlenül annak anyagi, műszaki, szervezési feltételeinek biztosítását célzó alkotó- és szervező tevékenység;
 
-22. műhely: filmtervek, illetve forgatókönyvek fejlesztésére alakult alkotói közösség, amelynek tagjai az általuk választott gazdasági forma kereti között szorosan együttműködnek, kifejezetten filmtervek és filmterv-csomagok fejlesztése és filmalkotások előállítása céljából;
+22.
 
 23. megrendelésre készülő filmalkotás: az a filmalkotás, amelynek gyártásában az adott film tekintetében magyar filmgyártónak minősülő vállalkozás vesz részt;
 
@@ -72,7 +74,7 @@ c) filmalkotás bármely adathordozón történő kiadásával, értékesítés�
 
 25. közvetlen filmgyártási költség: az adott filmalkotás költségvetésében szereplő, a filmalkotás előállítója, vagy megrendelésre készülő filmalkotás esetében a gyártásában részt vevő magyar filmgyártó vállalkozás által pénzügyileg teljesített, bizonylattal igazolt kifizetés, amely megfelel az e törvényben meghatározott feltételeknek;
 
-26. nemzeti filmvagyon: az államot a szerzői jogról szóló, hatályon kívül helyezett 1884. évi XVI. törvénycikk 3. §-a alapján megillető szerzői jogok, a szerzői jogról szóló, hatályon kívül helyezett 1921. évi LIV. törvénycikk 3. §-a és 74. §-a alapján megillető szerzői vagyoni jogok, a szerzői jogról szóló, hatályon kívül helyezett 1969. évi III. törvény 41. § (3) bekezdése alapján megillető szerzői vagyoni jogok, a szerzői jogról szóló, 1999. évi LXXVI. törvény 64. §-a alapján megillető felhasználási jogok, továbbá a szerzői jogról szóló 1999. évi LXXVI. törvény 82. §-a alapján, mint szomszédos jogi jogosultat megillető jogok összessége, valamint az érintett filmalkotások eredeti negatívjainak példányai, melyek állami tulajdonba tartoznak;
+26.
 
 27. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 
@@ -81,5 +83,3 @@ c) filmalkotás bármely adathordozón történő kiadásával, értékesítés�
 29. közvetlen magyar filmgyártási költség: a közvetlen filmgyártási költségek azon csoportja, amely adó- vagy járulékkötelezettség formájában merül fel, vagy amelynek felmerülése Magyarországon adó- vagy járulékfizetési kötelezettséget keletkeztet és megfelel az e törvényben meghatározott követelményeknek.
 
 3. CÍM
-
-A filmalkotások besorolása
