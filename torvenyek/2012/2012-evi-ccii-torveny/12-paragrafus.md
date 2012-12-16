@@ -1,13 +1,5 @@
 12. § E törvény 5. §-a és Melléklete az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2012. évi CCII. törvényhez
 
 A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklete a következő IV. ponttal egészül ki:
