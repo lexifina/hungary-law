@@ -1,1 +1,3 @@
-## „(6) Ugyanazon tétel bírálatát legfeljebb két alkalommal lehet kérelmezni a HBB-nél.”
+## 6–16. §[^3]
+
+[^3]: A 6–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

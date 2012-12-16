@@ -1,5 +1,3 @@
-## 21. § Az R. 48. § b) pontja helyébe a következő rendelkezés lép:
+## 21. §[^12]
 
-## (A 607/2009/EK bizottsági rendelet szerinti címkézési kötelezettség nem vonatkozik:)
-
-## „b) a nem eladásra szánt, tételenként 90 litert meg nem haladó szőlőmust- és bormennyiségre,”
+[^12]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

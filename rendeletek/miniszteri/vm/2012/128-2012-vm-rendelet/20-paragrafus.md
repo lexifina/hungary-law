@@ -1,20 +1,15 @@
-## „d) a NÉBIH által kiadott forgalomba hozatali engedélyeket, valamint”
+## 19. §[^7]
 
-20. § (1) Az R. 41. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+20. § (1)[^8]
 
-(Az integrált szőlészeti és borászati nyilvántartó rendszer működtetéséhez)
+(2)[^9]
 
-## „a) a hegybíró a 2. melléklet C és D részei, a 4., 5., 6. számú mellékletek szerint nyilvántartott, valamint a származási bizonyítványokhoz való hozzáférés biztosításával az I. rész III. fejezet szerinti;”
+(3)[^10]
 
-(2)[^4]
+(4)[^11]
 
-(3) Az R. 41. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Az integrált szőlészeti és borászati nyilvántartó rendszer működtetéséhez)
-
-## „c) a NÉBIH a forgalomba hozatali engedélyekről;”
-
-(4)[^5]
-
-[^4]: A 20. § (2) bekezdése a 33. § (4) bekezdése alapján 2013. augusztus 1-jén lép hatályba.
-[^5]: A 20. § (4) bekezdése a 33. § (4) bekezdése alapján 2013. augusztus 1-jén lép hatályba.
+[^7]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 20. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 20. § (2) bekezdése a 33. § (4) bekezdése alapján 2013. augusztus 1-jén lép hatályba.
+[^10]: A 20. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 20. § (4) bekezdése a 33. § (4) bekezdése alapján 2013. augusztus 1-jén lép hatályba.

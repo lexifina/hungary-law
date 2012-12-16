@@ -1,1 +1,3 @@
-## „(7) A nem borvidéki településről származó borszőlőre, illetve borászati termékre vonatkozó származási bizonyítvány kiadása esetén a 3. számú mellékletben felsorolt hegyközség hegybírója számít illetékesnek.”
+## 1–4. §[^1]
+
+[^1]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
