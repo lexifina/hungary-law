@@ -8,9 +8,7 @@ a) megváltozott munkaképességű,
 
 b) a pályázat benyújtásának napján, e napot megelőzően legalább 3 hónapja egybefüggően álláskereső, vagy
 
-c) az a)–b) pontban írtaknak megfelelő
-
-személyt foglalkoztat, vagy olyan gazdasági társaság, amelyben az a)–b) pont szerinti személy tagsági jogviszonnyal rendelkezik.
+c) az a)–b) pontban írtaknak megfelelő személyt foglalkoztat, vagy – feltéve, hogy a pályázati kiírás ezt lehetővé teszi – olyan gazdasági társaság, amelyben az a)–b) pont szerinti személy tagsági jogviszonnyal rendelkezik.
 
 (4) A pályázatot úgy kell kiírni, hogy a koncesszió átengedésének időtartama húsz év legyen.
 
