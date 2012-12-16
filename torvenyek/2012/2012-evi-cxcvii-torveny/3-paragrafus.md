@@ -1,0 +1,3 @@
+3. § A Cstv. a következő 66/A. §-sal egészül ki:
+
+„66/A. § A stratégiailag kiemelt jelentőségű gazdálkodó szervezet csődeljárásában a vagyonfelügyelőként eljáró állami felszámoló is kezdeményezheti a fizetési haladék meghosszabbítását. A csődeljárásban a 18. § (9) bekezdését azzal az eltéréssel kell alkalmazni, hogy az adóst – a fizetési haladék meghosszabbításakor – fizetési haladék a csődeljárás kezdő időpontjától számított legfeljebb 365 napig illeti meg, ha ehhez a szavazati joggal rendelkező hitelezőktől a biztosított és a nem biztosított hitelezői osztályokban egyaránt, a követelésekre vonatkozóan az igenlő szavazatok legalább többségét külön-külön megkapta.”
