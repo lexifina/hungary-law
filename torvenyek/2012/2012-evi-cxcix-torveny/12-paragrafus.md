@@ -1,0 +1,3 @@
+12. § Az Mktv. 21/B. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A 21/A. § (4) és (6) bekezdésében foglaltakat a mozielőzetes önálló besorolása esetén is megfelelően alkalmazni kell azzal, hogy a mozielőzetes önálló besorolása tárgyában hozott döntésben megállapított kategóriát a filmalkotás 21/A. § szerinti korhatár-besorolása tárgyában meghozott elsőfokú döntés nem módosítja, de a mozielőzetesen a filmalkotás korhatár-besorolása tárgyában meghozott elsőfokú döntést követően a filmalkotás korhatár besorolásának megfelelő jelzést kell feltüntetni az Elnök rendeletében foglaltak szerint.”
