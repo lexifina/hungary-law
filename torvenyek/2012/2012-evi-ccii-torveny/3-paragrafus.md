@@ -1,3 +1,0 @@
-3. § A Beruházási tv. 6. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az építtető a beruházás előkészítéseként teljes körűen elkészíti vagy elkészítteti a szükséges terveket, tanulmányokat. Az építtető ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, a saját nevére megszerzi az építési engedélyeket, továbbá elvégzi vagy elvégezteti a munkaterület előkészítését. Az építtető gondoskodik a közbeszerzési eljárások lefolytatásáról, a megvalósításra vonatkozó építési és egyéb szerződések megkötéséről, az építési műszaki ellenőri tevékenység ellátásáról, valamint lebonyolítja a műszaki átadás-átvételt.”
