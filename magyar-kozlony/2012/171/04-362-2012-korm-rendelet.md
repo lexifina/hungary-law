@@ -1,0 +1,61 @@
+# A Kormány 362/2012. (XII. 17.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 171. szám, 2012. december 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ae1042a46e61be6b2ce270380560454c974b8e69/dokumentumok/24ac4c8f2455af57051426834a8986454cb52418/letoltes)
+
+---
+
+A Kormány 362/2012. (XII. 17.) Korm. rendelete
+az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő beruházás
+megvalósítása érdekében szükséges intézkedésekről szóló 170/2012. (VII. 23.) Korm. rendelet
+módosításáról
+A Kormány a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 143. § (1) bekezdés d) pontjában kapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § Az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő beruházás megvalósítása
+érdekében szükséges intézkedésekről szóló 170/2012. (VII. 23.) Korm. rendelet (a továbbiakban: R.) a következő
+2/A. §-sal egészül ki:
+„2/A. § (1) Az érintett helyi önkormányzat a beruházás megvalósítása során haladéktalanul köteles a minisztert
+tájékoztatni az ok megjelölésével, amennyiben
+a) a beruházás megvalósításához szükséges közbeszerzési eljárás lefolytatása akadályba ütközik, vagy a beruházás
+megvalósításának ütemezéséhez képest késik,
+b) a beruházás megvalósítása határidőre nem teljesíthető, vagy annak a veszélye fennáll,
+c) a beruházás megvalósítása a műszaki tartalom időközben bekövetkezett megváltozása miatt késedelmet
+szenvedhet, vagy annak reális veszélye felmerül.
+(2) Ha az érintett helyi önkormányzat nem tesz eleget az (1) bekezdésben megjelölt kötelezettségének, a miniszter
+erről haladéktalanul tájékoztatja a helyi önkormányzatok törvényességi felügyeletéért felelős minisztert.
+(3) A 4. §-ban meghatározott szervezet a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési
+Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló
+4/2011. (I. 28.) Korm. rendelet 79. §-ában foglaltak alapján általa nyilvántartott – az 1. §-ban meghatározott
+beruházásokkal kapcsolatos – adatok teljes köréről folyamatosan köteles adatot szolgáltatni a miniszter számára.
+(4) Ha a beruházás megvalósítása érinti a vidékfejlesztésért felelős miniszter feladatköréhez kapcsolódó, az Európai
+Unió vagy más nemzetközi szervezet által nyújtott támogatás felhasználását, akkor az ehhez kapcsolódó adatokról
+a miniszter kérésére a vidékfejlesztésért felelős miniszter a kért adatokat haladéktalanul köteles a miniszternek
+megküldeni.
+(5) A beruházás megvalósítása érdekében a támogatási konstrukció szakmai tartalma tekintetében feladatkörrel
+rendelkező miniszter (a továbbiakban: érintett miniszter) a miniszter egyedi kérésére köteles a rendelkezésére álló
+adatokat a miniszternek megküldeni.
+(6) Az (1)–(5) bekezdésben meghatározott adatok személyes adatot nem tartalmazhatnak.
+(7) A miniszter köteles az általa kezelt adatok eredeti védelmi szintjét fenntartani. Más személy vagy szervezet részére
+adatot nem továbbíthat.
+
+(8) A miniszter az (1)–(5) bekezdésben meghatározott adatokat az eredeti formában, elektronikus módon vagy papír
+alapon tartja nyilván. A beruházással kapcsolatos adatokat a beruházás befejezését követő 1 éven belül köteles
+a nyilvántartásból törölni.”
+2. § Az R. 3. § (1) bekezdésének helyébe a következő rendelkezés lép:
+„(1) A miniszter az érintett miniszter, valamint más állami szervek, gazdasági szervezetek bevonásával konzultációt
+kezdeményezhet, szakmai segítséget nyújthat a helyi önkormányzat számára.”
+3. § Az R. 6. §-a helyébe a következő rendelkezések lépnek:
+„6. § (1) Az 5. §-ban meghatározott esetben a szervezet a támogatási szerződésnek a Kormány döntésében
+foglaltaknak megfelelő módosítását kezdeményezi. A módosított szerződésnek tartalmaznia kell különösen
+a) a felek közötti elszámolásra,
+b) az önkormányzat tűrési kötelezettségének tartalmára,
+c) a módosított támogatási szerződés bíróság előtti megtámadására
+vonatkozó rendelkezéseket.
+(2) A szerződés módosításának meghiúsulása esetén a szervezet felbontja a támogatási szerződést és új szerződés
+megkötését kezdeményezi a Kormány által kijelölt állami szervvel.”
+4. § Az R. a következő 8. §-sal egészül ki:
+„8. § E rendeletnek az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő beruházás
+megvalósítása érdekében szükséges intézkedésekről szóló 170/2012. (VII. 23.) Korm. rendelet módosításáról szóló
+362/2012. (XII. 17.) Korm. rendelettel módosított 6. §-át a folyamatban lévő ügyekben is alkalmazni kell.”
+5. § Ez a rendelet 2013. január 1-jén lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök

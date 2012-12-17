@@ -1,0 +1,197 @@
+# A Kormány 1590/2012. (XII. 17.) Korm. határozata
+
+Magyar Közlöny 2012. évi 171. szám, 2012. december 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ae1042a46e61be6b2ce270380560454c974b8e69/dokumentumok/24ac4c8f2455af57051426834a8986454cb52418/letoltes)
+
+---
+
+A Kormány 1590/2012. (XII. 17.) Korm. határozata
+a Nemzeti Ifjúsági Stratégia 2012–2013. évekre vonatkozó cselekvési tervéről
+A Kormány
+a) elfogadja a Nemzeti Ifjúsági Stratégiáról szóló 88/2009. (X. 29.) OGY határozat 2. b) pontjában foglalt feladat
+végrehajtása érdekében készített, a kormányhatározat mellékletét képező cselekvési tervet;
+b) felhívja az érintett minisztereket, hogy a cselekvési tervben foglalt feladatok végrehajtásáról készítsenek
+beszámolót és azt küldjék meg az emberi erőforrások miniszterének;
+Felelős: érintett miniszterek
+Határidő: 2014. január 31.
+
+c) felhívja az emberi erőforrások miniszterét, hogy a b) pont szerinti beszámolók alapján készítsen jelentést a
+Kormány számára a cselekvési tervben foglalt feladatok végrehajtásáról.
+Felelős: emberi erőforrások minisztere
+Határidő: 2014. március 31.
+Orbán Viktor s. k.,
+miniszterelnök
+1. melléklet az 1590/2012. (XII. 17.) Korm. határozathoz
+A Nemzeti Ifjúsági Stratégia cselekvési terve 2012–2013.
+1. Általános feladatok
+1.1. Össze kell hangolni a Nemzeti Ifjúsági Stratégiában megfogalmazott célok megvalósítása érdekében a különböző
+szereplők ifjúságügy terén végzett tevékenységét.
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+1.2. Ki kell alakítani a Nemzeti Ifjúsági Stratégiában elfogadott elvek, cselekvési célkitűzések és az azokhoz rendelt
+megvalósítási koncepciók eredményeinek mérését szolgáló indikátorokat és módszereket.
+Felelős: emberi erőforrások minisztere
+Határidő: 2013. január 1.
+2. Az ifjúsági korosztályok sikeres társadalmi integrációjához szükséges környezet fejlesztése
+2.1. A fogyatékkal élő fiatalok esélyteremtése érdekében a szakképzési kerettantervekben meg kell jelenniük az őket
+segítő szempontoknak, és ennek alkalmazására fel kell készíteni a pedagógusokat.
+Felelős: nemzetgazdasági miniszter
+Határidő: folyamatos
+2.2. Támogatni kell a munka és a magánélet összeegyeztetését, a rugalmas foglalkoztatási formák elterjesztését, valamint
+a rugalmas munkaszervezési módok, magánéleti kötelezettségeket figyelembe vevő humánpolitika bevezetését a
+foglalkoztatóknál.
+Felelős: nemzetgazdasági miniszter
+Határidő: folyamatos
+2.3. Elő kell segíteni a fiatalok foglalkoztatását.
+Felelős: nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+emberi erőforrások minisztere
+Határidő: folyamatos
+2.4. Elő kell segíteni az ifjúsági korosztály otthonteremtését, amely kiemelt prioritásként kezeli az önálló lakhatási
+körülményeket megteremteni szándékozó fiatalok érdekeit, illetve a gyermekvállalás népszerűsítésével pozitív
+irányban befolyásolja a demográfiai helyzetet.
+Felelős: nemzetgazdasági miniszter
+Határidő: folyamatos
+2.5. Az üzleti szféra erőforrásainak az ifjúsági munkába történő bevonását célzó hosszú távú (a stratégia időtartamára
+szóló) program előkészítése érdekében tényfeltáró tanulmányt kell készíteni a hazai vállalati szféra jelenlegi
+támogatáspolitikájáról, a fiatalokat, valamint az ifjúsági munkát segítő adományozói gyakorlatáról.
+Felelős: emberi erőforrások minisztere
+nemzetgazdasági miniszter
+Határidő: 2013. december 31.
+
+2.6. A 2014–2020-as tervezési időszak ifjúsági korosztályt érintő beavatkozási területeinek és egészségfejlesztő,
+prevenciós programok tervezésének megalapozása érdekében összegző ajánlásokat, segédleteket kell készíteni
+az ifjúsági korosztály élethelyzetére befolyással bíró kormányzati szervek fejlesztéspolitikai szereplői számára.
+Felelős: emberi erőforrások minisztere
+Határidő: 2013. december 31.
+3. Az ifjúsági korosztályok és közösségeik érvényesülésének elősegítése
+3.1. Támogatni kell az ifjúsági korosztály igényeinek megfelelő, egységes és átfogó szolgáltatási rendszer kialakítását,
+amely az iskolarendszerű képzésben résztvevő diákok iskolai sikerességét, életpálya tervezésük folyamatát széleskörű
+programok révén segíti elő.
+Felelős: közigazgatási és igazságügyi miniszter
+emberi erőforrások minisztere
+Határidő: folyamatos
+3.2. Pályázati úton támogatni kell az ifjúsági korosztályok és közösségeik önálló kezdeményezéseit, önkéntes
+feladatvállalásukat; elő kell segíteni a fiatalok nemzetközi tapasztalatszerzését, különös tekintettel a hátrányos
+helyzetű, leszakadó térségekben élőkre.
+Felelős: emberi erőforrások minisztere
+közigazgatási és igazságügyi miniszter
+Határidő: 2013. december 31.
+3.3. Ösztönözni kell a fiatalok és döntéshozók közti érdemi párbeszéd kialakítását, valamint támogatni kell az ifjúsági
+korosztály bevonásával zajló Strukturált Párbeszéd folyamat megvalósítását és a fiatalok további aktív részvételét az
+európai és hazai szintű konzultációkban.
+Felelős: emberi erőforrások minisztere
+közigazgatási és igazságügyi miniszter
+Határidő: 2013. december 31.
+3.4. Tovább kell támogatni az Integrált Közösségi és Szolgáltató Terekhez (IKSZT) kapcsolódó ifjúságfejlesztési
+programokat, valamint a helyi ifjúsági szolgáltatások fejlesztését szolgáló megyei szintű mentorhálózat működését.
+Felelős: emberi erőforrások minisztere
+vidékfejlesztési miniszter
+Határidő: 2013. december 31.
+3.5. Meg kell teremteni az ifjúságot segítő intézmények, képzőhelyek, illetve a hallgatói érdekképviselet
+együttműködésére építő, prevenciós célú, az egészséges életmódra való felkészítést támogató tevékenységeinek,
+területi-ágazatközi humán erőforrásának új típusú hálózatát és képzési rendszerét a célcsoport aktív bevonásával.
+Felelős: emberi erőforrások minisztere
+vidékfejlesztési miniszter
+Határidő: 2013. december 31.
+3.6. a) Munkacsoportot kell létrehozni és működtetni a bűn- és baleset-megelőzés érdekében. A hatékony
+együttműködés lehetőségeit megcélozva az ifjúsági bűn- és baleset-megelőzés terén javítani kell a mutatókat.
+b) Elő kell segíteni a diákok jogkövető magatartásának kialakítását, fejlesztését, az iskolai agresszió, a konfliktusok és
+a jogsértések megelőzését. Ennek érdekében a rendőrség biztonságra nevelő programjának oktatói anyagára
+épített akkreditált pedagógusképzést kell kidolgozni.
+Felelős: belügyminiszter
+emberi erőforrások minisztere
+Határidő: a) a munkacsoport létrehozása: 2012. december 31.
+a munkacsoport működtetése: folyamatos
+b) 2013. május 31.
+3.7. Népszerűsíteni kell a katonai és honvédelmi ismeretek megszerzését biztosító köz- és felsőoktatási tantárgyakat,
+valamint az azokat oktató intézmények és a tantárgyakat választó tanulók, hallgatók létszámának növelésén keresztül
+erősíteni kell a hazafias és honvédelmi nevelést. Célirányosan kell fejleszteni az érintettek egészséges életmódra
+nevelését, sport és szabadidős tevékenységét.
+Felelős: honvédelmi miniszter
+emberi erőforrások minisztere
+Határidő: folyamatos
+
+3.8. Pályázati úton támogatni kell a diáksport, valamint a szabadidő-sport programokat az ifjúsági korosztály körében
+egészségmegőrzésük érdekében. Elő kell segíteni emellett a hátrányos helyzetű fiatalok diák- és szabadidősportban
+való részvételét. Támogatni szükséges a hátrányos helyzetű társadalmi csoportok, valamint a romák aktív
+sporttevékenységét.
+Felelős: emberi erőforrások minisztere
+Határidő: 2013. december 31.
+3.9. Növelni kell az egészségtudatossággal, egészségfejlesztéssel foglalkozó programok számát, az egyének egészségük
+iránti felelősségének, az öngondoskodás képességének, a helyi közösségek és a társas támogatások erősítésének
+segítségével, az egészségterv módszerének terjesztésével a színtereken. A legfontosabb egészségfejlesztéssel
+kapcsolatos üzeneteket el kell juttatni a hátrányos helyzetű lakosság részére, különös tekintettel a hátrányos helyzetű
+fiatalokra.
+Felelős: emberi erőforrások minisztere
+Határidő: 2013. december 31.
+3.10. Felül kell vizsgálni a telefonos lelki segítő szolgálatok működtetésének pénzügyi kereteit, elő kell készíteni a szükséges
+módosításokat.
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+3.11. Erősíteni kell a közoktatás hátránykompenzációs szerepét, kiemelten a hátrányos, valamint halmozottan hátrányos
+helyzetű, köztük a roma tanulók befogadó oktatási környezetben megvalósuló iskolai sikerességének elősegítésére,
+a korai iskola-elhagyás megelőzésére, az eredményes továbbtanulást, a munkaerő-piacra történő sikeres belépést
+szolgáló, egyéni tanulási igényekre reagáló tanulásszervezési eljárások alkalmazásának elősegítésére.
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+3.12. Támogatni kell a versenyképes tudás megszerzését a közgyűjtemények és az eMagyarország Pontok hálózatának
+segítségével. Szükséges a kulturális intézmények formális oktatásba történő bekapcsolása, szerepük megerősítése,
+„iskolabarát” elvű kibővítése.
+Felelős: emberi erőforrások minisztere
+nemzeti fejlesztési miniszter
+Határidő: 2013. december 31.
+3.13. Biztosítani kell a közművelődési intézmények, a könyvtárak és az eMagyarország Pontok által nyújtott nem formális
+és informális tanulást támogató programokat, amelyek elősegítik a gyermekek, tanulók személyiségfejlődését, kreatív
+képességeinek kibontakoztatását, hátrányainak kompenzálását.
+Felelős: emberi erőforrások minisztere
+nemzeti fejlesztési miniszter
+Határidő: 2013. december 31. (I. ütem) az intézkedés előkészítése
+3.14. Tovább kell fejleszteni a pályakövető rendszereket (DPR) és az előzetesen megszerzett tudás elismerési eljárását;
+szakmailag támogatni kell az öregdiák szolgáltatás, a hallgatói tanácsadó rendszerek és az Országos Képesítési
+Keretrendszer (OKKR) bevezetését.
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+3.15. A felsőoktatásban fejleszteni kell az idegen nyelven folyó képzési rendszert.
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+3.16. Ki kell dolgozni és működtetni kell a Nemzeti Kiválóság Programot és a Campus Hungary Programot.
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+4. Az ifjúsági szakma és az ifjúsági civil szervezetek munkájának elősegítése
+4.1. Meg kell vizsgálni az ifjúságsegítő szakképzéssel kapcsolatos jogszabályi környezetet, s javaslatot kell tenni ennek
+összehangolására az ifjúságsegítők foglalkoztathatósága érdekében. BA szintű ifjúságszakmai képzést kell indítani.
+Felelős: emberi erőforrások minisztere
+Határidő: 2013. december 31.
+4.2. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvényben megfogalmazott kötelezően ellátandó
+feladatok körében, különös tekintettel a 13. § (1) bekezdés 15. pontja szerinti sport, ifjúsági ügyek kapcsán pontosan
+
+meg kell határozni az önkormányzat által ellátandó feladatok, nyújtandó szolgáltatások körét, a feladat-ellátási
+folyamat szabályozásátés a feladatellátáshoz szükséges személyi, tárgyi és anyagi feltételrendszert. A kistérségi szintű
+ifjúsági koordinátori modell-program tapasztalataira építetten folytatni kell az ifjúságügyi intézményrendszer
+kistérségi szintjének kialakítását.
+Felelős: emberi erőforrások minisztere
+közigazgatási és igazságügyi miniszter
+belügyminiszter
+Határidő: 2013. december 31.
+4.3. Ki kell dolgozni az ifjúsági szakma elismerési rendszerét. Első lépésben meg kell teremteni az ifjúságbarát
+önkormányzat, ifjúságbarát település elismerését.
+Felelős: emberi erőforrások minisztere
+Határidő: 2013. december 31.
+4.4. Létre kell hozni és működtetni kell a Nemzeti Ifjúsági Tanácsot (NIT).
+Felelős: emberi erőforrások minisztere
+közigazgatási és igazságügyi miniszter
+Határidő: a NIT létrehozása: 2012. december 31.
+a NIT működtetése: folyamatos
+4.5. A világon működő magyar ifjúsági szervezetek munkáját össze kell hangolni a közös nemzetpolitikai célkitűzések
+megvalósítása érdekében. Működtetni kell a Magyar Ifjúsági Konferenciát.
+Felelős: emberi erőforrások minisztere
+külügyminiszter
+közigazgatási és igazságügyi miniszter
+Határidő: folyamatos
+4.6. Érvényesíteni kell az Európai Unió és az Európa Tanács ifjúságpolitikai dokumentumaiban foglalt ajánlásokat és
+javaslatokat a hazai szakpolitikai intézkedésekben, továbbá erősíteni kell az elsősorban földrajzi alapon szerveződő
+nemzetközi ifjúságpolitikai együttműködéseket, különös tekintettel a Visegrádi Együttműködésre és a Közép-Európai
+Kezdeményezésre, melyeknek hazánk is aktív résztvevője és alakítója.
+Felelős: emberi erőforrások minisztere
+külügyminiszter
+Határidő: folyamatos

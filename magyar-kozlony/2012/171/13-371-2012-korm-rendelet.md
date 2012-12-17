@@ -1,0 +1,224 @@
+# A Kormány 371/2012. (XII. 17.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 171. szám, 2012. december 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ae1042a46e61be6b2ce270380560454c974b8e69/dokumentumok/24ac4c8f2455af57051426834a8986454cb52418/letoltes)
+
+---
+
+A Kormány 371/2012. (XII. 17.) Korm. rendelete
+a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló
+314/2005. (XII. 25.) Korm. rendelet módosításáról
+AKormányakörnyezetvédelménekáltalánosszabályairólszóló1995.éviLIII.törvény110.§(7)bekezdés3.,12.és18.pontjábankapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében megállapított feladatkörében eljárva a következőket rendeli el:
+1. § A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.)
+Korm. rendelet (a továbbiakban: Khvr.) 1. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A (3) bekezdés b) pontja és e) pont ea) alpontja szerinti esetekben a felügyelőség a környezeti hatásvizsgálati és
+az egységes környezethasználati engedélyezési eljárást a környezethasználó kérelmére – önálló engedélyezési
+eljárások lefolytatása helyett – összevontan folytatja le.”
+2. § (1) A Khvr. 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Azelőzetesvizsgálatravonatkozókérelemhezcsatolnikella4.számúmellékletszerintitartalmikövetelményeknek
+megfelelő előzetes vizsgálati dokumentációt, amelynek egyes részeit a tartalmi követelményeknek megfelelő
+részszakterületeken – a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről
+szóló jogszabály alapján – szakértői jogosultsággal rendelkező szakértő készíti el. A kérelmet és mellékleteit két
+nyomtatott példányban és egy példányban elektronikus adathordozón kell benyújtani, amelyet a felügyelőség
+elektronikus úton közzétesz.”
+(2) A Khvr. 3. § (3) bekezdése a következő f) és g) ponttal egészül ki:
+(Akérelemésazelőzetesvizsgálatidokumentációbenyújtásátkövetőenafelügyelőség–haatevékenységnemesikkatonai
+titokvédelem alá – az ügyfeleknek a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti, az eljárás
+megindításáról szóló értesítésével egyidejűleg hivatalában, valamint honlapján közleményt tesz közzé, amely – az
+értesítésreaközigazgatásihatóságieljárásáltalánosszabályairólszólótörvénybenmeghatározottakontúl–tartalmazza:)
+„f) az arra vonatkozó tájékoztatást, hogy a kérelem és a mellékletek nyomtatott példányába a felügyelőségen és
+a tevékenység telepítési helye szerinti település, a fővárosban a kerület (a továbbiakban együtt: település) jegyzőjénél
+lehet betekinteni, valamint, hogy a betekintés módjáról a felügyelőségen vagy a jegyzőnél lehet részletes
+felvilágosítást kapni,
+g) az elektronikus úton közzétett kérelem és mellékletek elérési helyét.”
+(3) A Khvr. 3. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A felügyelőség a közlemény közzétételével egyidejűleg a tevékenység telepítési helye szerinti település jegyzőjének
+megküldi a közleményt, a kérelem és mellékleteinek nyomtatott példányát, a feltételezhetően érintett települések
+jegyzőinek a közleményt. A jegyző haladéktalanul, de legkésőbb öt napon belül gondoskodik a közlemény közterületen
+és a helyben szokásos egyéb módon történő közhírré tételéről. A jegyző a közlemény közhírré tételét követő öt napon
+belül tájékoztatja a felügyelőséget a közhírré tétel időpontjáról és helyéről, a telepítési hely szerinti település jegyzője
+ezeken felül a kérelem és mellékletei nyomtatott példányába való betekintési lehetőség módjáról is.”
+3. § (1) A Khvr. 4. §-a a következő (1) bekezdéssel egészül ki:
+„(1) A felügyelőségaszakhatóságokmegkeresésesoránakérelmetésmellékleteitkizárólagelektronikusúton bocsátja
+a szakhatóság rendelkezésre, az elektronikus úton közzétett kérelem és mellékletek elérési helyének megadásával.”
+(2) A Khvr. 4. § (4) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a Khvr. 4. §-a következő (5) bekezdéssel
+egészül ki:
+„(4) A felügyelőség a kérelembe és az előzetes vizsgálati dokumentációba, a szakhatósági állásfoglalásokba és
+a szakértői véleményekbe való betekintést – a benyújtásukat, rendelkezésre állásukat követő nyolc napon belül –
+lehetővé teszi az érintett nyilvánosság számára.
+(5) Közmeghallgatás tartása esetén, ha a felügyelőség a közmeghallgatást a közigazgatási hatósági eljárás általános
+szabályairól szóló törvény alapján hangfelvétellel vagy kép- és hangfelvétellel dokumentálja, azt elektronikus úton
+közzéteszi. Ha a felügyelőség a közmeghallgatás dokumentálására az írásos jegyzőkönyvi formát választja,
+a dokumentumot elektronikus úton közzéteszi.”
+
+4. § (1) A Khvr. 5. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) A környezethasználó a határozat jogerőre emelkedését követő két éven belül kérheti a környezetvédelmi vagy
+egységes környezethasználati engedélyt. A felügyelőség a határozat jogerőre emelkedésétől számított 18 hónap
+elteltével – ha a környezethasználó az eltelt idő alatt nem kezdeményezte környezeti hatásvizsgálati vagy egységes
+környezethasználati engedélyezési eljárás lefolytatását – értesíti a környezethasználót az eljárás-kezdeményezési
+jogosultság lejártának időpontjáról. Az értesítés elmaradása miatt a felügyelőséggel szemben kárigény nem
+érvényesíthető, továbbá az nem érinti az engedélykérelem benyújtására nyitva álló határidőt.”
+(2) A Khvr. 5. §-a a következő (8) bekezdéssel egészül ki:
+„(8) A felügyelőség a (7) bekezdésben szereplő kétéves határidőt kérelemre egy ízben legfeljebb egy évvel
+meghosszabbíthatja, ha a határozat meghozatalakor alapul vett tényállásban nem történt lényeges változás.”
+5. § (1) A Khvr. 8. § (1) bekezdése a következő f) és g) ponttal egészül ki:
+(A felügyelőség a kérelem benyújtását követően – ha a tevékenység nem esik katonai titokvédelem alá – az ügyfeleknek
+a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti, az eljárás megindításáról szóló értesítésével
+egyidejűleg a honlapján közleményt tesz közzé, amelyet legalább egy helyi lapban vagy napilapban vagy országos
+napilapban is megjelentet. A közlemény – az értesítésre a közigazgatási hatósági eljárás általános szabályairól szóló
+törvényben meghatározottakon túl – tartalmazza:)
+„f) az arra vonatkozó tájékoztatást, hogy a kérelem és a mellékletek nyomtatott példányába a felügyelőségen és
+a tevékenység telepítési helye szerinti település jegyzőjénél lehet betekinteni, valamint, hogy a betekintés módjáról
+a felügyelőségen vagy a jegyzőnél lehet részletes felvilágosítást kapni,
+g) az elektronikus úton közzétett kérelem és mellékletek elérési helyét.”
+(2) A Khvr. 8. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) Az (1) bekezdés szerinti közlemény tartalmazhatja a közmeghallgatásra vonatkozó adatokat is, ebben az esetben
+a közmeghallgatásról külön közzététel és közhírré tétel nem szükséges.”
+(3) A Khvr. 8. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A felügyelőség a közlemény közzétételével egyidejűleg a tevékenység telepítési helye szerinti település jegyzőjének
+megküldi a közleményt, a kérelem és mellékleteinek nyomtatott példányát, a feltételezhetően érintett települések
+jegyzőinek a közleményt. A jegyző haladéktalanul, de legkésőbb öt napon belül gondoskodik a közlemény közterületen
+és a helyben szokásos egyéb módon történő közhírré tételéről. A jegyző a közlemény közhírré tételét követő öt napon
+belül tájékoztatja a felügyelőséget a közhírré tétel időpontjáról és helyéről, a telepítési hely szerinti település jegyzője
+ezeken felül a kérelem és mellékletei nyomtatott példányába való betekintési lehetőség módjáról is.”
+(4) A Khvr. 8. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A felügyelőségaszakhatóságokmegkeresésesoránakérelmetésmellékleteitkizárólagelektronikusúton bocsátja
+a szakhatóság rendelkezésre, az elektronikus úton közzétett kérelem és mellékletek elérési helyének megadásával.”
+6. § (1) A Khvr. 9. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A közmeghallgatás céljára alkalmas önkormányzati helyiséget a telepítés helye szerint illetékes, illetve az egyéb
+érintett települési önkormányzat jegyzője térítésmentesen biztosítja. Ha ez az érintett nyilvánosság eljárásban való
+részvétele szempontjából hátránnyal nem jár, a közmeghallgatás a felügyelőség erre alkalmas hivatalos helyiségében
+is megtartható.”
+(2) A Khvr. 9. § (9) bekezdése helyébe a következő rendelkezés lép:
+„(9) Ha a felügyelőség a közmeghallgatást a közigazgatási hatósági eljárás általános szabályairól szóló törvény alapján
+hangfelvétellel vagy kép- és hangfelvétellel dokumentálja, azt elektronikus úton közzéteszi. Ha a felügyelőség
+a közmeghallgatás dokumentálására az írásos jegyzőkönyvi formát választja, a dokumentumot elektronikus úton
+közzéteszi.”
+7. § (1) A Khvr. 10. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A környezetvédelmi engedély megadásáról szóló határozatban az engedély feltételei között:)
+„a) elő kell írni azokat az intézkedéseket, amelyek a káros környezeti hatások elkerülésére, csökkentésére és
+– ha lehetséges – megszüntetésére vonatkoznak, továbbá szükség szerint az 5. § (2) bekezdés c) pont cb) alpontjában
+foglaltakat;”
+
+(2) A Khvr. 10. §-a a következő (6a) bekezdéssel egészül ki:
+„(6a) Olyan tevékenység esetén, amelynek megvalósításához nyomvonalas létesítmény telepítése szükséges,
+a hatásvizsgálatnak ki kell terjednie a nyomvonalas létesítmény, a kapcsolódó létesítmények, az összetartozó
+tevékenységek, valamint a nyomvonalas létesítmény által érintett egyéb létesítmények (különösen keresztező utak,
+közművek) hatásainak a vizsgálatára is.”
+(3) A Khvr. 10. §-a a következő (9) bekezdéssel egészül ki:
+„(9) A felügyelőség a környezetvédelmi engedély módosítására irányuló eljárása során a kijelölt szakhatóságok közül
+azokat keresi meg, amelyek hatáskörét a módosítás érinti.”
+8. § A Khvr. 11. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) A felügyelőség hat hónappal a környezetvédelmi engedély időbeli hatályának lejártát megelőzően értesíti
+a környezethasználót a lejárat időpontjáról és a (3) bekezdésben foglaltakról. Az értesítés elmaradása miatt
+a felügyelőséggel szemben kárigény nem érvényesíthető, továbbá az nem mentesíti a környezethasználót
+a tevékenység folytatásához szükséges eljárás kellő időben történő kezdeményezése, valamint a tevékenység
+jogellenes folytatása miatti felelősség alól.”
+9. § A Khvr. 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A 12. § (1)–(3) bekezdésében meghatározott esetekben a tevékenység előzetes vizsgálati eljárása vagy az előzetes
+konzultáció során, ha a tevékenységgel kapcsolatban országhatáron átterjedő jelentős környezeti hatás
+bekövetkezése– különösen az egyezmény III. függelékében szereplő ismérvek alapján– feltételezhető, a felügyelőség
+tájékoztatja erről a Minisztériumot és a környezethasználót. A felügyelőség egyidejűleg – határidő tűzésével – felhívja
+a környezethasználót a kérelem és mellékletei további egy nyomtatott és egy elektronikus példányban történő
+benyújtására.”
+10. § A Khvr. 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Környezeti hatásvizsgálati eljárás esetén a környezethasználónak a kérelmet és mellékleteit három nyomtatott és
+két elektronikus példányban kell benyújtania. A környezethasználónak a felügyelőség által meghatározott határidőig
+a hatásviselő fél nyelvén vagy angol nyelven is el kell készíttetni a környezeti hatástanulmány nemzetközi fejezetének
+és közérthető összefoglalójának fordítását, és azt a felügyelőséghez kell benyújtania. A fordítást akkor kell
+elkészíttetni, ha a felügyelőség az engedélykérelmet a környezeti hatástanulmány, illetve az ahhoz esetlegesen előírt
+hiánypótlás benyújtását közvetlenül követően nem utasítja el.”
+11. § (1) A Khvr. 20. §-a a következő (2) bekezdéssel egészül ki:
+„(2) A felügyelőségaszakhatóságokmegkeresésesoránakérelmetésmellékleteitkizárólagelektronikusúton bocsátja
+a szakhatóság rendelkezésre, az elektronikus úton közzétett kérelem és mellékletek elérési helyének megadásával.”
+(2) A Khvr. 20. §-a a következő (8a) bekezdéssel egészül ki:
+„(8a) A felügyelőség hat hónappal az egységes környezethasználati engedély időbeli hatályának lejártát megelőzően
+értesíti a környezethasználót a lejárat időpontjáról és a tevékenység továbbfolytatásának feltételeiről. Az értesítés
+elmaradása miatt a felügyelőséggel szemben kárigény nem érvényesíthető, továbbá az nem mentesíti
+a környezethasználót a tevékenység folytatásához szükséges eljárás kellő időben történő kezdeményezése, valamint
+a tevékenység jogellenes folytatása miatti felelősség alól.”
+(3) A Khvr. 20. §-a a következő (12a) bekezdéssel egészül ki:
+„(12a) A felügyelőség az egységes környezethasználati engedély módosítására irányuló eljárása során
+a kormányrendeletben kijelölt szakhatóságok közül azokat keresi meg, amelyek hatáskörét a módosítás érinti.”
+12. § (1) A Khvr. 21. § (2)–(4) bekezdései helyébe a következő rendelkezések lépnek:
+„(2) A felügyelőség az egységes környezethasználati engedélyezési eljárása során, ha minden információ
+a rendelkezésre áll, de legkésőbb a kérelem beérkezését követő naptól számított tizenöt napon belül
+a) tájékoztatja a nyilvánosságot az eljárás megindulásáról azáltal, hogy a saját hirdetőtábláján és honlapján
+a (4) bekezdés szerinti hirdetményt elérhetővé teszi;
+b) a tevékenység telepítési helye szerinti település jegyzőjének megküldi a hirdetményt, a kérelem és mellékletei
+(felülvizsgálati dokumentáció) nyomtatott példányát, a feltételezhetően érintett települések jegyzőinek
+a hirdetményt.
+
+(3) A jegyző haladéktalanul, de legkésőbb öt napon belül gondoskodik a hirdetmény közterületen és a helyben
+szokásos egyéb módon történő közhírré tételéről, amelynek időtartama legalább huszonegy nap. A jegyző
+a hirdetmény közzétételét követő öt napon belül tájékoztatja a felügyelőséget a közzététel időpontjáról, helyéről,
+a telepítési hely szerinti település jegyzője ezeken felül a kérelem és mellékletei (felülvizsgálati dokumentáció)
+nyomtatott példányába való betekintési lehetőség módjáról is.
+(4) A hirdetménynek a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túl
+tartalmaznia kell
+a) a telepítés helyét,
+b) felhívást arra, hogy a (3) bekezdésben meghatározott határidőig az önkormányzat jegyzőjénél vagy
+a felügyelőségnél a kérelem tartalmára vonatkozóan írásbeli észrevételt lehet tenni,
+c) az arra vonatkozó tájékoztatást, hogy a kérelem és mellékletei (felülvizsgálati dokumentáció) nyomtatott
+példányába a felügyelőségen és a tevékenység telepítési helye szerinti település jegyzőjénél lehet betekinteni,
+valamint, hogy a betekintés módjáról a felügyelőségen vagy a jegyzőnél lehet részletes felvilágosítást kapni,
+d) az elektronikus úton közzétett kérelem és mellékletei (felülvizsgálati dokumentáció) elérési helyét,
+e) azt, hogy a tevékenység hatásvizsgálat köteles-e, és van-e határon átterjedő környezeti hatása,
+f) a döntéshozó és a releváns információkkal rendelkező hatóság adatait,
+g) információt arra nézve, hogy milyen döntést hozhat a hatóság,
+h) adott esetben a felülvizsgálati eljárás részleteit,
+i) azokat az időpontokat, helyeket és eszközöket, amikor és ahol releváns információ kerül közzétételre,
+j) a társadalmi részvétel szabályait, különösen a részvétel módjára, a vonatkozó határidőkre, és az észrevételekkel
+kapcsolatoseljárásravonatkozóan,továbbá,hogy a társadalmi részvételszabályairavonatkozótovábbi információhol
+kapható.”
+(2) A Khvr. 21. §-a a következő (5a) bekezdéssel egészül ki:
+„(5a) Közmeghallgatás tartása esetén, ha a felügyelőség a közmeghallgatást a közigazgatási hatósági eljárás általános
+szabályairól szóló törvény alapján hangfelvétellel vagy kép- és hangfelvétellel dokumentálja, azt elektronikus úton
+közzéteszi. Ha a felügyelőség a hangfelvételt írásos jegyzőkönyvben dokumentálja, a dokumentumot elektronikus
+úton közzéteszi.”
+13. § (1) A Khvr. 24. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A felügyelőség az eljárása során a 8. § (4) bekezdésében meghatározottak szerint megkeresi a környezeti
+hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásban kijelölt szakhatóságokat.”
+(2) A Khvr. 24. § (12) bekezdése helyébe a következő rendelkezés lép:
+„(12) Az engedély módosítására a 20. § (9) és (10), (12), valamint (12a) bekezdésekben, a próbaüzem és az ellenőrzések
+feltételeire a 22. §-ban, az adatszolgáltatásra vonatkozóan a 23. §-ban foglaltak az irányadók.”
+(3) A Khvr. 24. §-a a következő (14) bekezdéssel egészül ki:
+„(14) A felügyelőség a 20. § (8a) bekezdésében foglaltak szerint küld értesítést a környezethasználónak.”
+14. § A Khvr. a következő 29/F. §-sal egészül ki:
+„29/F. § E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló
+314/2005. (XII. 25.) Korm. rendelet módosításáról szóló 371/2012. (XII. 17.) Korm. rendelettel (a továbbiakban: Mkr8.)
+megállapított rendelkezéseit az Mkr8. hatálybalépését követően indult ügyekben, továbbá a megismételt
+eljárásokban kell alkalmazni.”
+15. § A Khvr.
+a) 7. § (2) bekezdésében a „nyolc” szövegrész helyébe a „két”,
+b) 13. § (2) bekezdés a) pontjában a „két példányát” szövegrész helyébe az „egy nyomtatott példányát, továbbá
+a kérelem és mellékletei elektronikus változatát tartalmazó adathordozót”,
+c) 14. § (3) bekezdésében a „két példányát” szövegrész helyébe az „egy nyomtatott példányát, továbbá a kérelem és
+mellékletei elektronikus változatát tartalmazó adathordozót”,
+d) 18. §-ában a „nyolc” szövegrész helyébe a „két”,
+e) 24. § (3) bekezdésében a „nyolc” szövegrész helyébe a „két”
+szöveg lép.
+
+16. § Hatályát veszti a Khvr.
+a) 9. § (10) bekezdése,
+b) 10. § (2) bekezdése,
+c) 21. § (9) bekezdése,
+d) 25. §-a, valamint a 25. §-t megelőző alcím címe,
+e) 25/B. § (1) bekezdés d) pontja,
+f) 25/B. § (3) bekezdés második mondata.
+17. § Hatályát veszti a Khvr.
+1. 8. § (1) bekezdésében az „, amelyet legalább egy helyi lapban vagy napilapban vagy országos napilapban is
+megjelentet”,
+2. 8. § (3) bekezdésében az „és a betekintési lehetőség biztosításának”,
+3. 9. § (1) bekezdésében az „a kérelem benyújtása után – a telepítés helye szerint illetékes önkormányzat
+területén –”,
+4. 9. § (6) bekezdésében a „– ha azok a 8. § (1) bekezdése szerint még nem voltak megadva – ” és az „és legalább egy
+helyi lapban vagy napilapban vagy országos napilapban is”,
+5. 10. § (3) bekezdésében a „vagy a végzés”,
+6. 18. §-ában a „vagy a környezeti hatásvizsgálati eljárást lezáró végzés”,
+7. 25/B. § (1) bekezdés a) pontjában a „b) pontja”,
+8. 25/B. § (2) bekezdés b) pontjában a „, (4)”
+szövegrész.
+18. § Ez a rendelet 2013. január 1-jén lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök
