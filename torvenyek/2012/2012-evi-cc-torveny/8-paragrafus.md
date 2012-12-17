@@ -1,3 +1,0 @@
-8. § A Bgatv. 7. Záró és átmeneti rendelkezések alcíme a következő 20. §-sal egészül ki:
-
-„20. § A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény módosításáról szóló 2012. évi CC. törvénnyel (a továbbiakban: Mód.tv.) megállapított 11/A. §-t a Mód.tv. hatálybalépését megelőzően benyújtott nyilvános pályázatok és egyedi kérelmek alapján megkötött támogatási szerződések alapján nyújtott támogatások a Mód.tv. hatálybalépését követő visszakövetelése esetén felszámítandó kamat esetén is alkalmazni kell.”
