@@ -52,7 +52,7 @@
 
 ## Határidő: folyamatosan
 
-## 6.[^1] A Kormány felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a 2014–20 közötti uniós költségvetési időszak előkészítése érdekében az uniós tárgyalásokban közreműködő miniszteri biztos kinevezéséről.”
+## 6.[^2] A Kormány felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a 2014–20 közötti uniós költségvetési időszak előkészítése érdekében az uniós tárgyalásokban közreműködő miniszteri biztos kinevezéséről.”
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -76,19 +76,9 @@
 
 ## Határidő: 2012. november 30.
 
-## 9. A Kormány felhívja a nemzetgazdasági minisztert, hogy az érintett miniszterek bevonásával készítse el és terjessze a Kormány elé a Partnerségi Megállapodást az uniós jogszabálycsomag tárgyalása során alakuló szabályozási keretekre figyelemmel.
+## 9.[^3]
 
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: 2013. január 31.
-
-## 10. A Kormány elfogadja az 1. melléklet szerint az operatív programok indikatív tématerületeit, továbbá felhívja a nemzeti fejlesztési minisztert, hogy az érintett miniszterek bevonásával dolgozza ki részleteiben az egyes operatív programokat és terjessze azokat a Kormány elé.
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## érintett miniszterek
-
-## Határidő: 2013. január 31.
+## 10.[^4]
 
 1. melléklet az 1449/2012. (X. 16.) Korm. határozathoz
 
@@ -108,4 +98,6 @@ Az operatív programok tématerületeinek indikatív megnevezése
 
 | 7. Technikai segítségnyújtás |
 
-[^1]: A 6. pont az 1517/2012. (XI. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 6. pont az 1517/2012. (XI. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 9. pontot az 1600/2012. (XII. 17.) Korm. határozat 10. pontja visszavonta.
+[^4]: A 10. pontot az 1600/2012. (XII. 17.) Korm. határozat 10. pontja visszavonta.
