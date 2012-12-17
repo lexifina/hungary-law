@@ -1,11 +1,5 @@
 ## 6. § Ez a rendelet a kihirdetését követő ötödik napon lép hatályba.
 
-## 7. § Hatályát veszti a polgári nemzetbiztonsági szolgálatok létesítményeibe történő belépés rendjéről szóló 1/1996. (VI. 19.) TNM rendelet 1. §-ában
+7. §[^1]
 
-a) az „a Nemzetbiztonsági Hivatal,”,
-
-b) az „és a Nemzetbiztonsági Szakszolgálat”, valamint
-
-c) az „együtt”
-
-szövegrész.
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
