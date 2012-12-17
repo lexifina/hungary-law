@@ -1,3 +1,0 @@
-1. § (1) A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjának, továbbá az akkreditált munkáltatók ellenőrzésének szabályairól szóló 176/2005. (IX. 2.) Korm. rendeletben szabályozott akkreditációs eljárásért a kérelmezőnek az e rendeletben meghatározott igazgatási szolgáltatási díjat (a továbbiakban: akkreditációs díj) kell fizetni. Az egyes eljárásokért fizetendő akkreditációs díj mértékét e rendelet melléklete határozza meg.
-
-(2) Ha a kérelmező a székhelyén kívül telephelyének, illetőleg fióktelepének akkreditálását is kérelmezi, az e rendelet mellékletében meghatározott akkreditációs díj összege telephelyenként, illetőleg fióktelepenként 50–50 ezer forinttal nő.
