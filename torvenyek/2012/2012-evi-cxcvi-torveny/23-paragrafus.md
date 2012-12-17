@@ -2,6 +2,6 @@
 
 1–22.
 
-23. 109. § (1) bekezdés 34. pontjában az „ , és” szövegrész.
+23.
 
 (2)
