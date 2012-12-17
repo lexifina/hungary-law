@@ -1,3 +1,0 @@
-1. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény (a továbbiakban: Dohánytörvény) 3. §-ának 8. pontja helyébe a következő rendelkezés lép:
-
-„8. dohánybolt: nem mozgó (és részekre bontás nélkül nem is mozgatható), más üzlettől elkülönült, önálló üzlethelyiség, amelyben kizárólag dohánytermék, dohányterméket kiegészítő termék, továbbá a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény különös rendelkezései I. fejezet 1. és 4. címében szabályozott sorsolásos játék és fogadás bonyolításával kapcsolatos termék, vagy jogszabály által meghatározott termék forgalmazható, és amely üzlethelyiség külső felületére tekintve dohánytermék nem látható, csak az üzlethelyiségbe belépve;”
