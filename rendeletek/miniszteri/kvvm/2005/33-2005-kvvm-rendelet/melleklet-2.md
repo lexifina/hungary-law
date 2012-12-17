@@ -212,6 +212,8 @@
 
 | 28. |  | Vízjogi üzemeltetési engedély [Vgtv. 28. § (1) bekezdés, 72/1996. (V. 22.) Korm. rendelet 5. §] | A vízjogi létesítési engedélyre megállapított díjtételek 80%-a |
 
+| 28a. |  | Egynyári öntözésre szóló vízjogi üzemeltetési engedély [Vgtv. 28. § (1) bekezdés, 72/1996. (V. 22.) Korm. rendelet 5. § (12)–(13) bekezdés] | 5 000 |
+
 | 29. |  | Vízjogi üzemeltetési engedély szüneteltetése, visszavonása | A vízjogi üzemeltetési engedélyre megállapított díjtétel 50%-a |
 
 | 30. |  | Önellenőrzési terv jóváhagyása [220/2004. (VII. 21.) Korm. rendelet 28. § (2) bekezdés] | 23 000 |
