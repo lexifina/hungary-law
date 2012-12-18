@@ -18,8 +18,11 @@ ba) az eljárás tárgyát képező eszköz orvostechnikai eszköznek, illetve g
 
 bb) az érintett kereskedelmi gyakorlat az EEKH hatáskörébe tartozó, az orvostechnikai eszközök, illetve a gyógyászati segédeszközök forgalomba hozatalára vonatkozó jogszabályi rendelkezésekkel összhangban áll-e.
 
+(4)[^19] A Kormány a tengeri és belvízi közlekedést igénybe vevő utasok jogairól, valamint a 2006/2004/EK rendelet módosításáról szóló, 2010. november 24-i 1177/2010/EU európai parlamenti és tanácsi rendeletben előírt, a hajók üzemképessége és a hajózási létesítmények engedélyezésének feltételeként meghatározott akadálymentesítéssel össze nem függő kötelezettség megsértése miatti eljárásban szakhatóságként az első fokú eljárásban a Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatalát, a másodfokú eljárásban a Nemzeti Közlekedési Hatóság Központját jelöli ki abban a szakkérdésben, hogy a járattörlés vagy a késés a hajó biztonságos üzemeltetését veszélyeztető időjárási viszonyok vagy a személyszállítási szolgáltatás teljesítését megakadályozó olyan rendkívüli körülmények miatt következett-e be, amelyeket minden ésszerű intézkedés megtétele esetén sem lehetett volna elkerülni.
+
 [^14]: A 7. § (1) bekezdése a 153/2009. (VII. 23.) Korm. rendelet 2. §-ával megállapított, a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^15]: A 7. § (2) bekezdése a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^16]: A 7. § (3) bekezdését a 341/2008. (XII. 30.) Korm. rendelet 21. § (3) bekezdés c) pontja hatályon kívül helyezte, újonnan a 182/2009. (IX. 10.) Korm. rendelet 566. §-a iktatta be. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^17]: A 7. § (3) bekezdés a) pont nyitó szövegrésze az 59/2011. (IV. 12.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
 [^18]: A 7. § (3) bekezdés a) pont ac) alpontja az 59/2011. (IV. 12.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^19]: A 7. § (4) bekezdését a 306/2012. (X. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
