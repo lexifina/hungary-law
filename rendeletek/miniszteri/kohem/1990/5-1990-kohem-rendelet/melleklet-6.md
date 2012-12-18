@@ -110,7 +110,7 @@
 
 ## e) kézi gázszivárgás-ellenőrző.
 
-## 1.2.17.[^291]
+## 1.2.17.[^302]
 
 ## 1.2.18. Menetíró (tachográf) és sebességkorlátozó ellenőrző berendezés
 
@@ -134,7 +134,7 @@
 
 ## 1.3. A meghatározott járműkategóriák vagy járműkivitelek vizsgálatát, illetve csak meghatározott vizsgálato(ka)t végző vizsgáló állomásokra vonatkozó eltérések, valamint helyettesítő vizsgáló eszközök
 
-## 1.3.1.[^292] Kizárólag motorkerékpárok tanúsítását végző vizsgálóállomások esetén vizsgálóakna nem szükséges. A gépkocsi vizsgálata esetén a 1.2.1. pont szerinti vizsgálóakna helyettesíthető olyan gépi működtetésű emelőpaddal (oszlopos vagy ollós emelővel), amely rendelkezik:
+## 1.3.1.[^303] Kizárólag motorkerékpárok tanúsítását végző vizsgálóállomások esetén vizsgálóakna nem szükséges. A gépkocsi vizsgálata esetén a 1.2.1. pont szerinti vizsgálóakna helyettesíthető olyan gépi működtetésű emelőpaddal (oszlopos vagy ollós emelővel), amely rendelkezik:
 
 ## a) a vizsgálószemély részére szolgáló feljáróval,
 
@@ -188,9 +188,9 @@
 
 ## 1.3.17. A 1.2.18. pontban előírt menetíró (tachográf) és sebességkorlátozó ellenőrző berendezést csak a 3,5 t megengedett legnagyobb össztömeget, illetve járműszerelvény együttes össztömeget meghaladó tehergépkocsik és az autóbuszok vizsgálatát (is) végző vizsgáló állomáson kell biztosítani.
 
-## 1.3.18.[^293] Kizárólag trolibuszok tanúsítását végző vizsgálóállomások esetén nem szükséges az 1.2.1. b), c), az 1.2.3., az 1.2.5.-1.2.13., az 1.2.16. d), e), valamint az 1.2.18. pontokban meghatározottak teljesítése.
+## 1.3.18.[^304] Kizárólag trolibuszok tanúsítását végző vizsgálóállomások esetén nem szükséges az 1.2.1. b), c), az 1.2.3., az 1.2.5.-1.2.13., az 1.2.16. d), e), valamint az 1.2.18. pontokban meghatározottak teljesítése.
 
-## 1.3.19.[^294] A trolibuszok vizsgálata esetén a vizsgáló állomásnak rendelkeznie kell kiíró szerkezetes vagy adattároló egységgel rendelkező lassulásmérő berendezéssel.
+## 1.3.19.[^305] A trolibuszok vizsgálata esetén a vizsgáló állomásnak rendelkeznie kell kiíró szerkezetes vagy adattároló egységgel rendelkező lassulásmérő berendezéssel.
 
 ## 1.4. Átmeneti rendelkezések a vizsgáló eszközök biztosításához
 
@@ -1982,10 +1982,10 @@
 
 |  |  | 3 Közlekedésbiztonságot és környezetvédelmet nem veszélyeztető hiba | 0 099. kódszótárban nem szereplő | H |
 
-6. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^295]
+6. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^306]
 
-[^291]: Az 5. számú melléklet 1.2.17. pontját a 25/2010. (XII. 22.) NFM rendelet 4. § (5) bekezdés b) pontja hatályon kívül helyezte.
-[^292]: Az 5. melléklet 1. alcím 1.3.1. pontja a 62/2011. (XI. 29.) NFM rendelet 17. § (1) bekezdése szerint módosított szöveg.
-[^293]: Az. 5. melléklet 1.3.18. pontját a 62/2011. (XI. 29.) NFM rendelet 14. § (2) bekezdése iktatta be.
-[^294]: Az. 5. melléklet 1.3.19. pontját a 62/2011. (XI. 29.) NFM rendelet 14. § (2) bekezdése iktatta be.
-[^295]: A 6. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §- iktatta be, hatályon kívül helyezte a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés l) pontja.
+[^302]: Az 5. számú melléklet 1.2.17. pontját a 25/2010. (XII. 22.) NFM rendelet 4. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^303]: Az 5. melléklet 1. alcím 1.3.1. pontja a 62/2011. (XI. 29.) NFM rendelet 17. § (1) bekezdése szerint módosított szöveg.
+[^304]: Az. 5. melléklet 1.3.18. pontját a 62/2011. (XI. 29.) NFM rendelet 14. § (2) bekezdése iktatta be.
+[^305]: Az. 5. melléklet 1.3.19. pontját a 62/2011. (XI. 29.) NFM rendelet 14. § (2) bekezdése iktatta be.
+[^306]: A 6. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §- iktatta be, hatályon kívül helyezte a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés l) pontja.

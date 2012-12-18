@@ -1,6 +1,6 @@
-## A vizsgabiztosokra vonatkozó feltételek[^134]
+## A vizsgabiztosokra vonatkozó feltételek[^135]
 
-12/A. §[^135] (1) Vizsgabiztosi tevékenységet a közlekedési hatóság köztisztviselője vagy a tanúsító vizsgáló állomással foglalkoztatási jogviszonyban álló személy végezhet, aki megfelel a (2) bekezdésben meghatározott követelményeknek, és rendelkezik e rendelet 7. mellékletében meghatározott adattartalmú engedéllyel. Az engedély határozatlan időbeli hatályú.
+12/A. §[^136] (1) Vizsgabiztosi tevékenységet a közlekedési hatóság köztisztviselője vagy a tanúsító vizsgáló állomással foglalkoztatási jogviszonyban álló személy végezhet, aki megfelel a (2) bekezdésben meghatározott követelményeknek, és rendelkezik e rendelet 7. mellékletében meghatározott adattartalmú engedéllyel. Az engedély határozatlan időbeli hatályú.
 
 (2) Vizsgabiztosi tevékenység folytatását a közlekedési hatóság annak engedélyezi, aki
 
@@ -66,7 +66,7 @@ i) a legutóbbi továbbképzés időpontját,
 
 j) a vizsgabiztosi tevékenység felfüggesztéséről, az engedély visszavonásáról rendelkező határozat számát, időpontját, a felfüggesztés megszüntetésének időtartamát.
 
-(6)[^136] A (3) bekezdésben meghatározott adatokban bekövetkezett változásokat a vizsgabiztos a változás bekövetkezését követő 8 napon belül köteles írásban bejelenteni a közlekedési hatóságnak.
+(6)[^137] A (3) bekezdésben meghatározott adatokban bekövetkezett változásokat a vizsgabiztos a változás bekövetkezését követő 8 napon belül köteles írásban bejelenteni a közlekedési hatóságnak.
 
 (7) A közlekedési hatóság visszavonja az engedélyt és törli a vizsgabiztost a Nyilvántartásból, ha
 
@@ -84,7 +84,7 @@ f) e rendeletben meghatározott kötelezettségeit ismételten vagy súlyosan me
 
 (8) A közlekedési hatóság felfüggeszti a vizsgabiztos tevékenységét, ha:
 
-a)[^137]
+a)[^138]
 
 b) e rendeletben foglalt előírásokat megszegte,
 
@@ -94,7 +94,7 @@ c) a (7) bekezdésben előírt bejelentési kötelezettség teljesítését elmu
 
 (10) A vizsgabiztosok szakmai képzésének szabályait a 12. számú melléklet tartalmazza.
 
-[^134]: A 12/A. §-t megelőző alcímet a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be.
-[^135]: A 12/A. §-t a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 11. §-ával megállapított szöveg.
-[^136]: A 12/A. § (6) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
-[^137]: A 12/A. § (8) bekezdés a) pontja a 302/2009. (XII. 22.) Korm. rendelet 5. § (1) bekezdése alapján nem lépett hatályba.
+[^135]: A 12/A. §-t megelőző alcímet a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be.
+[^136]: A 12/A. §-t a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 11. §-ával megállapított szöveg.
+[^137]: A 12/A. § (6) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^138]: A 12/A. § (8) bekezdés a) pontja a 302/2009. (XII. 22.) Korm. rendelet 5. § (1) bekezdése alapján nem lépett hatályba.

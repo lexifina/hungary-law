@@ -1,4 +1,4 @@
-## VI/A. Fejezet[^210]
+## VI/A. Fejezet[^212]
 
 ## A MUZEÁLIS JELLEGŰ JÁRMŰVEKRE VONATKOZÓ ELTÉRÉSEK
 
@@ -34,17 +34,17 @@ c) műszaki és esztétikai állapota alapján alkalmas a típusának muzeális 
 
 (5) A (4) bekezdésben meghatározott vizsgálati szempontoknak megfelelő muzeális jellegű járművet a Muzeális Minősítő Bizottság nyilvántartásba veszi, és a járművön rögzítendő regisztrációs táblával való megjelölését engedélyezi.
 
-(6)[^211] A muzeális jellegű jármű forgalomba helyezés előtti és időszakos vizsgálatát a közlekedési hatóság a (4)–(6) bekezdésekben meghatározott muzeális minősítő vizsgálathoz kapcsolódóan, illetőleg azt követően végzi el.
+(6)[^213] A muzeális jellegű jármű forgalomba helyezés előtti és időszakos vizsgálatát a közlekedési hatóság a (4)–(6) bekezdésekben meghatározott muzeális minősítő vizsgálathoz kapcsolódóan, illetőleg azt követően végzi el.
 
 (7) A muzeális jellegű jármű összeépítésének, illetőleg az egyedi forgalomba helyezés engedélyezésének eljárása során a jármű gyártási időpontja alapján meghatározott műszaki követelményeket kell alkalmazni.
 
-(8) A muzeális jellegű jármű forgalomba helyezése – a műszaki konstrukciós jellemzői által indokolt korlátozások előírása mellett – abban az esetben is engedélyezhető, amennyiben a jármű nem felel meg az MR.-ben a jármű fajtához tartozóan meghatározott műszaki feltételeknek, de teljesíti legalább – ideiglenesen a közúti forgalomban való részvétele során – az MR.-ben a lassú járművekre meghatározott üzemeltetési műszaki feltételeket.
+(8)[^214] A muzeális jellegű jármű forgalomba helyezése – a műszaki konstrukciós jellemzői által indokolt korlátozások előírása mellett – abban az esetben is engedélyezhető, amennyiben a jármű – az eredeti, gyári műszaki jellemzői miatt – nem felel meg az MR.-ben a jármű fajtához tartozóan meghatározott műszaki feltételeknek.
 
 (9) A muzeális jellegű jármű forgalmi engedélyének érvényességi idejét a forgalomban való részvétel feltételeként meghatározott korlátozások és a jármű fajtához e rendeletben meghatározottak alapulvételével kell megállapítani.
 
-(10) A Muzeális Minősítő Bizottság igazolása, továbbá a muzeális jellegű járműhöz kiadott – a (8) bekezdés szerinti esetleges korlátozásokat is tartalmazó – ,,Műszaki adatlap'' alapján a Nyilvántartó a járművet a külön jogszabály[^212] szerinti hatósági engedéllyel és jelzéssel látja el.
+(10) A Muzeális Minősítő Bizottság igazolása, továbbá a muzeális jellegű járműhöz kiadott – a (8) bekezdés szerinti esetleges korlátozásokat is tartalmazó – ,,Műszaki adatlap'' alapján a Nyilvántartó a járművet a külön jogszabály[^215] szerinti hatósági engedéllyel és jelzéssel látja el.
 
-(11)[^213] A Muzeális Minősítő Bizottság egy-egy tagját a közlekedési hatóság, a Közlekedési Múzeum, a Történelmi Járművek Nemzetközi Szövetsége (a továbbiakban: F.I.V.A.[^214]) nemzeti képviselő szervezete[^215] és a Magyar Autóklub jelöli ki. A muzeális minősítő vizsgálat szervezése és a vizsgálat lefolytatásához szükséges műszaki, technológiai és adminisztratív feltételek biztosítása a Magyar Autóklub feladata.
+(11)[^216] A Muzeális Minősítő Bizottság egy-egy tagját a közlekedési hatóság, a Közlekedési Múzeum, a Történelmi Járművek Nemzetközi Szövetsége (a továbbiakban: F.I.V.A.[^217]) nemzeti képviselő szervezete[^218] és a Magyar Autóklub jelöli ki. A muzeális minősítő vizsgálat szervezése és a vizsgálat lefolytatásához szükséges műszaki, technológiai és adminisztratív feltételek biztosítása a Magyar Autóklub feladata.
 
 (12) A Muzeális Minősítő Bizottság – a F.I.V.A. szabályaival összhangban – szabályzatban megállapítja a minősítési vizsgálat eljárási szabályait, így különösen:
 
@@ -58,12 +58,13 @@ d) a F.I.V.A. minősítés honosításának rendjét,
 
 e) a muzeális jellegű járműre vonatkozó egyes MR. rendelkezések alkalmazása alóli mentesítés feltételeit.
 
-(13)[^216] A szabályzatot a közlekedésért felelős miniszter a közlekedésrendészetért felelős miniszterrel egyetértésben hagyja jóvá, amelyet a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a közlekedésért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.
+(13)[^219] A szabályzatot a közlekedésért felelős miniszter a közlekedésrendészetért felelős miniszterrel egyetértésben hagyja jóvá, amelyet a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a közlekedésért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.
 
-[^210]: A VI/A. fejezetet (19/A. §-t) a 39/2002. (XII. 28.) GKM rendelet 8. §-a iktatta be.
-[^211]: A 19/A. § (6) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^212]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet.
-[^213]: A 19/A. § (11) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés d) pontja szerint módosított szöveg.
-[^214]: F.I.V.A.: Fédération Internationale des Véhicules Anciens (Történelmi Járművek Nemzetközi Szövetsége).
-[^215]: A F.I.V.A. a Magyar Veteránautós és Motoros Szövetségnek (MAVAMSZ) adott nemzeti képviseleti jogot (ANF).
-[^216]: A 19/A. § (13) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^212]: A VI/A. fejezetet (19/A. §-t) a 39/2002. (XII. 28.) GKM rendelet 8. §-a iktatta be.
+[^213]: A 19/A. § (6) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^214]: A 19/A. § (8) bekezdése a 65/2012. (XII. 10.) NFM rendelet 4. §-ával megállapított szöveg.
+[^215]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet.
+[^216]: A 19/A. § (11) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^217]: F.I.V.A.: Fédération Internationale des Véhicules Anciens (Történelmi Járművek Nemzetközi Szövetsége).
+[^218]: A F.I.V.A. a Magyar Veteránautós és Motoros Szövetségnek (MAVAMSZ) adott nemzeti képviseleti jogot (ANF).
+[^219]: A 19/A. § (13) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 4. § (1) bekezdésével megállapított szöveg.

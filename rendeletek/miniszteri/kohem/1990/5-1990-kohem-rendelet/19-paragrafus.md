@@ -4,11 +4,11 @@
 
 ## Forgalomba helyezés előtti vizsgálat és közúti műszaki ellenőrzés
 
-19. §[^206] (1)[^207] A típusbizonyítvány nélkül forgalomba helyezhető két- és háromkerekű segédmotoros kerékpárt forgalomba helyezés előtti vizsgálat céljából a közlekedési hatóságnál be kell mutatni. Ha a közlekedési hatóság a forgalomba helyezés előtti vizsgálat alapján megállapítja, hogy a jármű a jogszabályban meghatározott műszaki feltételeknek megfelel, azonosítási jellel látja el.
+19. §[^208] (1)[^209] A típusbizonyítvány nélkül forgalomba helyezhető két- és háromkerekű segédmotoros kerékpárt forgalomba helyezés előtti vizsgálat céljából a közlekedési hatóságnál be kell mutatni. Ha a közlekedési hatóság a forgalomba helyezés előtti vizsgálat alapján megállapítja, hogy a jármű a jogszabályban meghatározott műszaki feltételeknek megfelel, azonosítási jellel látja el.
 
 (2) A típusbizonyítvánnyal rendelkező két- és háromkerekű segédmotoros kerékpárokat – a típusbizonyítvány alapján – a gyártónak vagy a forgalmazónak azonosítási jellel kell ellátnia. Az azonosítási jel hatósági jelzésként elfogadható.
 
-(3)[^208] A két- és háromkerekű segédmotoros kerékpár azonosítási jele a jármű vázába beütött CM betű és a hajtómotor cm3-ben meghatározott hengerűrtartalmát jelző szám. E jelet csak a gyártó, forgalmazó, illetőleg a közlekedési hatóság ütheti be. Segédmotoros kerékpár ilyen jelzés nélkül a közúton nem közlekedhet.
+(3)[^210] A két- és háromkerekű segédmotoros kerékpár azonosítási jele a jármű vázába beütött CM betű és a hajtómotor cm3-ben meghatározott hengerűrtartalmát jelző szám. E jelet csak a gyártó, forgalmazó, illetőleg a közlekedési hatóság ütheti be. Segédmotoros kerékpár ilyen jelzés nélkül a közúton nem közlekedhet.
 
 (4) A négykerekű segédmotoros kerékpár forgalomba helyezés előtti vizsgálatakor a 10. §-ban meghatározott rendelkezéseket a következő eltéréssel kell alkalmazni:
 
@@ -16,7 +16,7 @@ a) a járműkategória besorolást megalapozó műszaki jellemzőket a jármű g
 
 b) a vizsgálat technológiáját a járműkivitel sajátosságai határozzák meg,
 
-c)[^209] eredetiségvizsgálatot nem kell végezni,
+c)[^211] eredetiségvizsgálatot nem kell végezni,
 
 d) a külön jogszabályban a segédmotoros kerékpárokhoz meghatározott rendszámtábla típust kell megállapítani.
 
@@ -26,7 +26,7 @@ d) a külön jogszabályban a segédmotoros kerékpárokhoz meghatározott rends
 
 (7) A segédmotoros kerékpár közúti műszaki ellenőrzésére a 14. § rendelkezéseit kell megfelelően alkalmazni.
 
-[^206]: A 19. § a 14/2009. (III. 31.) KHEM rendelet 3. §-ával megállapított szöveg.
-[^207]: A 19. § (1) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
-[^208]: A 19. § (3) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
-[^209]: A 19. § (4) bekezdés c) pontja a 81/2009. (XII. 29.) KHEM rendelet 6. § (5) bekezdése szerint módosított szöveg; e módosító rendelet 6. § (2) bekezdése alapján a rendelkezést a 2010. január 1-jét követően indult hatósági eljárásokban kell alkalmazni.
+[^208]: A 19. § a 14/2009. (III. 31.) KHEM rendelet 3. §-ával megállapított szöveg.
+[^209]: A 19. § (1) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^210]: A 19. § (3) bekezdése a 25/2010. (XII. 22.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^211]: A 19. § (4) bekezdés c) pontja a 81/2009. (XII. 29.) KHEM rendelet 6. § (5) bekezdése szerint módosított szöveg; e módosító rendelet 6. § (2) bekezdése alapján a rendelkezést a 2010. január 1-jét követően indult hatósági eljárásokban kell alkalmazni.

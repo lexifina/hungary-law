@@ -1,13 +1,13 @@
 ## A gázüzemű járművekre vonatkozó külön rendelkezések
 
-20/A. §[^223] (1)[^224] A gázüzemű jármű minden egyedi hatósági vizsgálata során be kell mutatni a gáz-üzemanyagellátó berendezés megfelelősségét igazoló, 30 napnál nem régebben kiállított tanúsítást[^225]. A tanúsítást a gáz-üzemanyagellátó berendezés javítására – műszaki-biztonsági hatóság által – alkalmasnak minősített gépjárműfenntartó szervezet[^226] nevében, a gépjárműfenntartó szervezet vezetője által felhatalmazott dolgozója – a külön jogszabály[^227] szerint elvégzett gázbiztonsági szemle alapján – állítja ki.
+20/A. §[^226] (1)[^227] A gázüzemű jármű minden egyedi hatósági vizsgálata során be kell mutatni a gáz-üzemanyagellátó berendezés megfelelősségét igazoló, 30 napnál nem régebben kiállított tanúsítást[^228]. A tanúsítást a gáz-üzemanyagellátó berendezés javítására – műszaki-biztonsági hatóság által – alkalmasnak minősített gépjárműfenntartó szervezet[^229] nevében, a gépjárműfenntartó szervezet vezetője által felhatalmazott dolgozója – a külön jogszabály[^230] szerint elvégzett gázbiztonsági szemle alapján – állítja ki.
 
 (2) A gáz-üzemanyagellátó berendezést csak az (1) bekezdésben meghatározott gépjárműfenntartó szervezet javíthatja.
 
 (3) A gázüzemű jármű hatósági engedélye legfeljebb a gáztartályhoz kiállított megfelelőségi tanúsítvány érvényességéig terjedő időre érvényesíthető.
 
-[^223]: A 20/A. §-t és címét a 13/1993. (V. 12.) KHVM rendelet 10. §-a iktatta szövegbe.
-[^224]: A 20/A. § (1) bekezdése a 12/1998. (V. 22.) KHVM rendelet 20. § (10) bekezdése, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés s) pontja szerint módosított szöveg.
-[^225]: Lásd az 1/1990. (IX. 29.) KHVM rendeletet.
-[^226]: Lásd az 1/1990. (IX. 29.) KHVM rendeletet.
-[^227]: Lásd az 1/1990. (IX. 29.) KHVM rendeletet.
+[^226]: A 20/A. §-t és címét a 13/1993. (V. 12.) KHVM rendelet 10. §-a iktatta szövegbe.
+[^227]: A 20/A. § (1) bekezdése a 12/1998. (V. 22.) KHVM rendelet 20. § (10) bekezdése, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés s) pontja szerint módosított szöveg.
+[^228]: Lásd az 1/1990. (IX. 29.) KHVM rendeletet.
+[^229]: Lásd az 1/1990. (IX. 29.) KHVM rendeletet.
+[^230]: Lásd az 1/1990. (IX. 29.) KHVM rendeletet.
