@@ -98,7 +98,7 @@
 
 | 14 | – a 692/2008/EK és a 566/2011/EU bizottsági rendelettel módosított 715/2007/EK parlamenti és tanácsi rendelet I. mellékletének 1. táblázatában meghatározott határértékek alapján jóváhagyott légszennyezésű gépkocsi (Euro 5.) (10) |
 
-| 15 | – a 692/2008/EK és a 566/2011/EU bizottsági rendelettel módosított 715/2007/EK parlamenti és tanácsi rendelet I. mellékletének 2. táblázatában meghatározott határértékek alapján jóváhagyott légszennyezésű gépkocsi (Euro 6.)(11) |
+| 15 | – a 692/2008/EK, a 566/2011/EU és a 459/2012/EU bizottsági rendelettel módosított 715/2007/EK parlamenti és tanácsi rendelet I. melléklet 2. táblázatában meghatározott határértékek alapján jóváhagyott légszennyezésű gépkocsi (Euro 6.)(11) |
 
 | 16 | – az 582/2011/EU bizottsági rendelettel módosított 595/2009/EK európai parlamenti és tanácsi rendelet szerint jóváhagyott gépkocsik (Euro-VI)(12) |
 
@@ -122,10 +122,10 @@
 
 ## (10) Az Euro 5. kibocsátási határértéket a 692/2008/EK bizottsági rendelet XVII. mellékletével (2008.07.28. HL 199. p130) és az 566/2011/EU bizottsági rendelettel (2011.06.08., HL 158. p1) módosított, a könnyű személy- gépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról és a járműjavítási és - karbantartási információk elérhetőségéről szóló 715/2007/EK európai parlamenti és tanácsi rendelet I. melléklet 1. táblázata határozza meg.
 
-## (11) Az Euro 6. kibocsátási határértéket a 692/2008/EK bizottsági rendelet XVII. mellékletével (2008.07.28. HL 199 p130) és az 566/2011/EU bizottsági rendelettel (2011.06.08., HL 158. p1) módosított, a könnyű személy- gépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról és a járműjavítási- és karbantartási információk elérhetőségéről szóló 715/2007/EK európai parlamenti és tanácsi rendelet I. melléklet 2. táblázata határozza meg.
+## (11) Az Euro 6. kibocsátási határértéket a 692/2008/EK bizottsági rendelet XVII. mellékletével (2008.07.28. HL 199 p130), az 566/2011/EU bizottsági rendelettel (2011.06.08., HL 158. p1) és a 459/2012/EU rendelettel (2012.6.1., HL 142. p16-24) módosított, a könnyű személy- gépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról és a járműjavítási- és karbantartási információk elérhetőségéről szóló, 2007. június 20-i 715/2007/EK európai parlamenti és tanácsi rendelet I. melléklet 2. táblázata határozza meg.
 
 ## (12) Az Euro-VI. kibocsátási határértéket az 582/2011/EU bizottsági rendelet XV. mellékletével (2011.06.25. L167/163) módosított, a nehéz tehergépjárművek kibocsátásai (Euro-VI) tekintetében a gépjárművek és motorok típusjóváhagyásáról, a járművek javítására és karbantartására vonatkozó információkhoz való hozzáférésről szóló 595/2009/EK európai parlamenti és tanácsi rendelet I. melléklete határozza meg.
 
-6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^289]
+6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^196]
 
-[^289]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
+[^196]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-15. számú melléklet a 6/1990. (IV.12.) KöHÉM rendelethez[^297]
+15. számú melléklet a 6/1990. (IV.12.) KöHÉM rendelethez[^205]
 
 ## Az emelt sebességhatárú autóbuszra vonatkozó engedélyezési műszaki feltételek
 
@@ -62,4 +62,4 @@ f) az utastéri csomagtartók kialakítása akadályozza meg a csomagok kiesés�
 
 Az autóbusz 100 km/h sebességű haladása közben rendellenes menetviselkedés (iránytartás, zajok és rezgések), szerkezeti elemek rendellenes működése nem léphet fel, menetstabilitása megfelelő legyen.
 
-[^297]: A 15. számú mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (4) bekezdése iktatta a szövegbe.
+[^205]: A 15. számú mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (4) bekezdése iktatta a szövegbe.

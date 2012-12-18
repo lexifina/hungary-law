@@ -10,13 +10,13 @@
 
 (5) A nem zárt vezetőfülkéjű lassú járművet és a mezőgazdasági vontatót fel kell szerelni legalább egy — a jármű bal oldalán elhelyezett — visszapillantó tükörrel.
 
-(6)[^140] Az 1999. december 31. napját követően használatba vett, N2 és N3 kategóriába tartozó, az A. Függelék A/8. számú melléklete szerinti jóváhagyással nem rendelkező járművet – a (7) bekezdésben meghatározott kivétellel – az utasoldalon fel kell szerelni az A. Függelék A/8. számú mellékletében meghatározott IV. osztályba tartozó nagy látószögű, valamint V. osztályba tartozó közelre látó visszapillantó tükörrel.
+(6)[^145] Az 1999. december 31. napját követően használatba vett, N2 és N3 kategóriába tartozó, az A. Függelék A/8. számú melléklete szerinti jóváhagyással nem rendelkező járművet – a (7) bekezdésben meghatározott kivétellel – az utasoldalon fel kell szerelni az A. Függelék A/8. számú mellékletében meghatározott IV. osztályba tartozó nagy látószögű, valamint V. osztályba tartozó közelre látó visszapillantó tükörrel.
 
-(7)[^141] Nem kell a járművet a (6) bekezdésben meghatározott visszapillantó tükrökkel felszerelni, ha:
+(7)[^146] Nem kell a járművet a (6) bekezdésben meghatározott visszapillantó tükrökkel felszerelni, ha:
 
 a) a 7,5 tonna legnagyobb megengedett össztömeget meg nem haladó járműre az V. osztályba tartozó tükrök felszerelése a 79. §-ban meghatározott módon nem lehetséges,
 
 b) a jármű az utasoldalon olyan nagy látószögű és közelre látó visszapillantó tükrökkel van felszerelve, amelyek összesen lefedett látótere teljesíti a 79. § (4) bekezdésében meghatározott követelményeket.
 
-[^140]: A 78. § (6) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 1. §-a iktatta be.
-[^141]: A 78. § (7) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 1. §-a iktatta be.
+[^145]: A 78. § (6) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 1. §-a iktatta be.
+[^146]: A 78. § (7) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 1. §-a iktatta be.

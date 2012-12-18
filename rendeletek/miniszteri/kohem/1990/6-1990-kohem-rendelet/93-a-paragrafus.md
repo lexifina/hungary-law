@@ -1,8 +1,8 @@
-## legalább 24 órás időtartamra rögzítse, továbbá meg kell felelnie a kivitelére és a beépítésére vonatkozó külön jogszabály[^151] rendelkezéseinek.
+## legalább 24 órás időtartamra rögzítse, továbbá meg kell felelnie a kivitelére és a beépítésére vonatkozó külön jogszabály[^156] rendelkezéseinek.
 
 ## A sebességkorlátozóra vonatkozó üzemeltetési műszaki feltételek
 
-93/A. §[^152] (1) Sebességkorlátozóval kell felszerelni – a (2) bekezdésben meghatározott kivétellel és a (4)–(6) bekezdésekben meghatározott határidővel:
+93/A. §[^157] (1) Sebességkorlátozóval kell felszerelni – a (2) bekezdésben meghatározott kivétellel és a (4)–(6) bekezdésekben meghatározott határidővel:
 
 a) a 10 tonnát meghaladó megengedett legnagyobb össztömegű M3 kategóriájú és az N3 kategóriájú gépkocsit,
 
@@ -22,7 +22,7 @@ d) az (1) bekezdés b) pontja alá tartozó, 2005. január 1. napja előtt haszn
 
 (3) A sebességkorlátozónak úgy kell szabályoznia, hogy
 
-a)[^153] a veszélyes áruk szállítására használt – külön jogszabályban meghatározott – gépkocsi sebessége 90 km/óra,
+a)[^158] a veszélyes áruk szállítására használt – külön jogszabályban meghatározott – gépkocsi sebessége 90 km/óra,
 
 b) az N2 és N3 kategóriájú gépkocsi sebessége a 90 km/óra (vset + tűrések ≤90 km/óra),
 
@@ -42,6 +42,6 @@ b) a kizárólag belföldön üzemeltetett gépkocsi esetében 2006. december 31
 
 (6) A kizárólag belföldi forgalomban használt M2 kategóriájú, valamint a 7,5 tonna megengedett legnagyobb össztömeget meg nem haladó N2 kategóriájú gépkocsira 2007. december 31. napjáig kell a sebességkorlátozót felszerelni.
 
-[^151]: Lásd: az AETR Egyezmény kihirdetéséről szóló törvényt.
-[^152]: A 93/A. §-t a 12/1995. (VII. 12.) KHVM rendelet 6. §-a iktatta be, szövege a 35/2004. (III. 30.) GKM rendelet 7. §-ával megállapított szöveg.
-[^153]: A 93/A. § (3) bekezdésének a) pontja a 84/2005. (X. 11.) GKM rendelet 2. §-ával megállapított szöveg.
+[^156]: Lásd: az AETR Egyezmény kihirdetéséről szóló törvényt.
+[^157]: A 93/A. §-t a 12/1995. (VII. 12.) KHVM rendelet 6. §-a iktatta be, szövege a 35/2004. (III. 30.) GKM rendelet 7. §-ával megállapított szöveg.
+[^158]: A 93/A. § (3) bekezdésének a) pontja a 84/2005. (X. 11.) GKM rendelet 2. §-ával megállapított szöveg.

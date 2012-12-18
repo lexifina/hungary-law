@@ -52,7 +52,7 @@ d) az oldalt elhelyezett, 50 milliméternél nem nagyobb kinyúlású irányjelz
 
 e) a rakományon alkalmazott vámzárak, valamint az ezek rögzítésére és védelmére szolgáló berendezések;
 
-f)[^34] az (1) bekezdésben meghatározott megengedett szélességi méretet egyébként meg nem haladó mezőgazdasági vontatóra, lassú járműre és az általuk vontatott mezőgazdasági pótkocsira felszerelt ikerabroncsok, illetve alacsony nyomású mezőgazdasági gumiabroncsok. Az ilyen járművek esetében a járműre felszerelt gumiabroncsok külső szélei közötti távolság a 3,00 métert nem haladhatja meg.
+f)[^34] a mezőgazdasági vontatóra, lassú járműre és az általuk vontatott mezőgazdasági pótkocsira felszerelt ikerabroncsok, illetve alacsony nyomású mezőgazdasági gumiabroncsok, valamint az azokat takaró sárvédők. Az ilyen járművek esetében a járműre felszerelt gumiabroncsok vagy sárvédők külső szélei közötti távolság a 3,00 métert nem haladhatja meg.
 
 (8)[^35] A jármű magassági méretébe a trolibusz áramszedője nem számít bele.
 
@@ -62,5 +62,5 @@ f)[^34] az (1) bekezdésben meghatározott megengedett szélességi méretet egy
 [^31]: Az 5. § új (5) bekezdését a 44/2001. (XII. 28.) KöViM rendelet 2. §-a iktatta be, egyidejűleg az eredeti (5)–(6) bekezdés számozását (6)–(7) bekezdésre változtatta.
 [^32]: Az 5. § új (6) bekezdését a 19/2009. (IV. 16.) KHEM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti (6)–(7) bekezdés számozását (7)–(8) bekezdésre változtatva.
 [^33]: Az 5. § (6) – eredeti (5) – bekezdésének számozását (7) bekezdésre változtatta a 19/2009. (IV. 16.) KHEM rendelet 2. § (2) bekezdése.
-[^34]: Az 5. § (7) bekezdés f) pontját a 26/2010. (XII. 22.) NFM rendelet 2. §-a iktatta be.
+[^34]: Az 5. § (7) bekezdés f) pontját a 26/2010. (XII. 22.) NFM rendelet 2. §-a iktatta be, szövege a 66/2012. (XII. 10.) NFM rendelet 1. §-ával megállapított szöveg.
 [^35]: Az 5. § (7) – eredeti (6) – bekezdésének számozását (8) bekezdésre változtatta a 19/2009. (IV. 16.) KHEM rendelet 2. § (2) bekezdése.

@@ -1,3 +1,3 @@
-## Versenyjárműre vonatkozó további műszaki feltételek[^173]
+## Versenyjárműre vonatkozó további műszaki feltételek[^178]
 
-[^173]: A 112/C. §-t megelőző alcímet a 23/2012. (V. 8.) NFM rendelet 7. §-a iktatta be.
+[^178]: A 112/C. §-t megelőző alcímet a 23/2012. (V. 8.) NFM rendelet 7. §-a iktatta be.

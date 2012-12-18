@@ -1,316 +1,217 @@
-## V. Fejezet[^178]
+## V. Fejezet[^183]
 
-## Az Európai Unió jogának való megfelelés[^179]
+## Az Európai Unió jogának való megfelelés[^184]
 
-## 120. §[^180] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+## 120. §[^185] Ez a rendelet
 
-1.[^181] a Tanács 70/157/EGK irányelve (1970. február 6.) a gépjárművek megengedett zajszintjére és kipufogórendszereire vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 84/424/EGK, 92/97/EGK, 2006/96/EK tanácsi, továbbá 73/350/EGK, 81/334/EGK, 84/372/EGK, 89/491/EGK, 96/20/EK, 1999/101/EK és 2007/34/EK bizottsági irányelvek;
+1. a gépjárművek megengedett zajszintjére és kipufogórendszereire vonatkozó tagállami jogszabályok közelítéséről szóló, 1970. február 6-i 70/157/EGK tanácsi irányelvnek, valamint az azt módosító 84/424/EGK, 92/97/EGK, 2006/96/EK tanácsi, továbbá 73/350/EGK, 81/334/EGK, 84/372/EGK, 89/491/EGK, 96/20/EK, 1999/101/EK és 2007/34/EK bizottsági irányelveknek;
 
-2.[^182] a Tanács 70/220/EGK irányelve (1970. március 20.) a gépjárművek külső gyújtású motorjainak kipufogógázai által okozott levegőszennyezés elleni intézkedésekre vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 83/351/EGK, 88/76/EGK, 88/436/EGK, 91/441/EGK, 93/59/EGK és 2006/96 tanácsi, 77/102/EGK, 78/665/EGK, 89/491/EGK, 96/44/EK, 98/77/EK, 1999/102/EK, 2002/80/EK, 2003/76/EK bizottsági, és 94/12/EK, 96/69/EK, 2001/1/EK, 2001/100/EK európai parlamenti és tanács irányelvek;
+2. a gépjárművek kibocsátásai által okozott levegőszennyezés elleni intézkedésekre vonatkozó tagállami jogszabályok közelítéséről szóló, 1970. március 20-i 70/220/EGK tanácsi irányelvnek, valamint az azt módosító 83/351/EGK, 88/76/EGK, 88/436/EGK, 91/441/EGK, 93/59/EGK és 2006/96/EK tanácsi, 77/102/EGK, 78/665/EGK, 89/491/EGK, 96/44/EK, 98/77/EK, 1999/102/EK, 2002/80/EK, 2003/76/EK bizottsági, és 94/12/EK, 96/69/EK, 2001/1/EK, 2001/100/EK európai parlamenti és tanács irányelveknek;
 
-3.[^183] a Tanács 70/221/EGK irányelve (1970. március 20.) a gépjárművek és pótkocsijaik folyékonytüzelőanyag-tartályaira és hátsó aláfutásgátlóira vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 79/490/EGK, 97/19/EK és 2006/20 bizottsági, 2000/8/EK európai parlamenti és tanácsi, továbbá 2006/96/EK tanácsi irányelvek;
+3. a gépkocsik és pótkocsik tüzelőanyag-tartályaira, valamint hátsó aláfutásgátlóira vonatkozó tagállami jogszabályok közelítéséről szóló, 1970. március 20-i 70/221/EGK tanácsi irányelvnek, valamint az azt módosító 79/490/EGK, 97/19/EK és 2006/20/EK bizottsági, 2000/8/EK európai parlamenti és tanácsi, továbbá 2006/96/EK tanácsi irányelveknek;
 
-4. a Tanács 70/222/EGK irányelve (1970. március 20.) a gépjárművek és pótkocsijuk hátsó rendszámtábláinak elhelyezésére és rögzítésére vonatkozó tagállami jogszabályok közelítéséről;
+4. a gépjárművek és pótkocsijuk hátsó rendszámtábláinak elhelyezésére és rögzítésére vonatkozó tagállami jogszabályok közelítéséről szóló, 1970. március 20-i 70/222/EGK tanácsi irányelvnek;
 
-5. a Tanács 70/311/EGK irányelve (1970. június 8.) a gépjárművek és pótkocsijuk kormányberendezésére vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 92/62/EGK és 1999/7/EK bizottsági irányelvek;
+5. a gépjárművek és pótkocsijuk kormányberendezésére vonatkozó tagállami jogszabályok közelítéséről szóló, 1970. június 8-i 70/311/EGK tanácsi irányelvnek, valamint az azt módosító 92/62/EGK és 1999/7/EK bizottsági irányelveknek;
 
-6. a Tanács 70/387/EGK irányelve (1970. július 27.) a gépjárművek és pótkocsijuk ajtajaira vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 98/90/EK és 2001/31/EK bizottsági irányelvek;
+6. a gépjárművek és pótkocsijuk ajtajaira vonatkozó tagállami jogszabályok közelítéséről szóló, 1970. július 27-i 70/387/EGK tanácsi irányelvnek, valamint az azt módosító 98/90/EK és 2001/31/EK bizottsági irányelveknek;
 
-7.[^184] a Tanács 70/388/EGK irányelve (1970. július 27.) a gépjárművek hangjelző berendezéseire vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 2006/96/EK tanácsi irányelv;
+7. a gépjárművek hangjelző berendezéseire vonatkozó tagállami jogszabályok közelítéséről szóló, 1970. július 27-i 70/388/EGK tanácsi irányelvnek, valamint az azt módosító 2006/96/EK tanácsi irányelvnek;
 
-8.[^185] a Tanács 71/127/EGK irányelve (1971. március 1.) a gépjárművek visszapillantó tükreire vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 87/354/EGK és 2006/96/EK tanácsi, továbbá 79/795/EGK, 85/205/EGK, 86/562/EGK, 88/321/EGK bizottsági irányelvek;
+8. a gépjárművek és pótkocsijaik egyes kategóriáinak fékberendezéseire vonatkozó tagállami jogszabályok közelítéséről szóló, 1971. július 26-i 71/320/EGK tanácsi irányelvnek, valamint az azt módosító 74/132/EGK, 75/524/EGK, 79/489/EGK, 85/647/EGK, 88/194/EGK, 91/422/EGK, 98/12/EK, 2002/78/EK bizottsági és 2006/96/EK tanácsi irányelveknek;
 
-9.[^186] a Tanács 71/320/EGK irányelve (1971. július 26.) a gépjárművek és pótkocsijaik egyes kategóriáinak fékberendezéseire vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 74/132/EGK, 75/524/EGK, 79/489/EGK, 85/647/EGK, 88/194/EGK, 91/422/EGK, 98/12/EK, 2002/78/EK bizottsági és 2006/96/EK tanácsi irányelvek;
+9. a gépjárművek által előidézett rádiózavarokról (elektromágneses összeférhetőség) szóló, 1972. június 20-i 72/245/EGK tanácsi irányelvnek, továbbá az azt módosító 89/491/EGK, 95/54/EK, 2004/104/EK, 2005/49/EK, 2005/83/EK, 2006/28/EK és 2009/19/EK bizottsági, valamint 2006/96/EK tanácsi irányelveknek;
 
-10.[^187] a Tanács 72/245/EGK irányelve (1972. június 20.) a gépjárművek által előidézett rádiózavarokról (elektromágneses összeférhetőség), továbbá az azt módosító 89/491/EGK, 95/54/EK, 2004/104/EK, 2005/49/EK, 2005/83/EK, 2006/28/EK és 2009/19/EK bizottsági, valamint 2006/96/EK tanácsi irányelvek;
+10. a járművekben használt dízelmotorok szennyezőanyag-kibocsátása elleni intézkedésekre vonatkozó tagállami jogszabályok közelítéséről szóló, 1972. augusztus 2-i 72/306/EGK tanácsi irányelvnek, valamint az azt módosító 89/491/EGK, 97/20/EK és 2005/21/EK bizottsági irányelveknek;
 
-11.[^188] a Tanács 72/306/EGK irányelve (1972. augusztus 2.) a járművekben használt dízelmotorok szennyezőanyag-kibocsátása elleni intézkedésekre vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 89/491/EGK, 97/20/EK és 2005/21/EK bizottsági irányelvek;
+11. a gépjárművek belső berendezéseire vonatkozó tagállami jogszabályok közelítéséről szóló, 1973. december 17-i 74/60/EGK tanácsi irányelvnek, valamint az azt módosító 78/632/EGK bizottsági és 2000/4/EK európai parlamenti és tanácsi irányelveknek;
 
-12. a Tanács 74/60/EGK irányelve (1973. december 17.) a gépjárművek belső berendezéseire (a belső visszapillantó tükrök kivételével az utastér belső részeire, a kezelőszervek elrendezésére, a tetőre vagy tolótetőre, az ülések háttámlájára és hátsó ülésfelületére) vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 78/632/EGK bizottsági és 2000/4/EK európai parlamenti és tanácsi irányelvek;
+12. a gépjárművek jogosulatlan használata elleni védelemre szolgáló eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló, 1973. december 17-i 74/61/EGK tanácsi irányelvnek, valamint az azt módosító 95/56/EK bizottsági és 2006/96/EK tanácsi irányelveknek;
 
-13.[^189] a Tanács 74/61/EGK irányelve (1973. december 17.) a gépjárművek jogosulatlan használata elleni védelemre szolgáló eszközökre vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 95/56/EK bizottsági és 2006/96/EK tanácsi irányelvek;
+13. a gépjárművek belső berendezéseire (a kormányberendezés viselkedése ütközés esetén) vonatkozó tagállami jogszabályok közelítéséről szóló, 1974. június 4-i 74/297/EK tanácsi irányelvnek, valamint az azt módosító 91/662/EGK bizottsági irányelvnek;
 
-14. a Tanács 74/297/EK irányelve (1974. június 4.) a gépjárművek belső berendezéseire (a kormányberendezés viselkedése ütközés esetén) vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 91/662/EGK bizottsági irányelv;
+14. a gépjárművek üléseiről, azok rögzítéséről és a fejtámlákról szóló, 1974. július 22-i 74/408/EGK tanácsi irányelvnek, valamint az azt módosító 81/577/EGK tanácsi, 96/37/EK bizottsági, 2005/39/EK európai parlamenti és tanácsi, továbbá 2006/96/EK tanácsi irányelveknek;
 
-15.[^190] a Tanács 74/408/EGK irányelve (1974. július 22.) a gépjárművek belső berendezéseire (ülések és rögzítésük szilárdsága) vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 81/577/EGK tanácsi, 96/37/EK bizottsági, 2005/39/EK európai parlamenti és tanácsi, továbbá 2006/96/EK tanácsi irányelvek;
+15. a gépjárművek kiálló részeire vonatkozó tagállami jogszabályok közelítéséről szóló, 1974. szeptember 17-i 74/483/EGK tanácsi irányelvnek, valamint az azt módosító 79/488/EGK és 15/2007/EK bizottsági, továbbá 2006/96/EK tanácsi irányelveknek;
 
-16.[^191] a Tanács 74/483/EGK irányelve (1974. szeptember 17.) a gépjárművek kiálló részeire vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 79/488/EGK és 15/2007/EK bizottsági, továbbá 2006/96/EK tanácsi irányelvek;
+16. a gépjárművek hátrameneti és sebességmérő berendezéseire vonatkozó tagállami jogszabályok közelítéséről szóló, 1975. június 26-i 75/443/EGK tanácsi irányelvnek, valamint az azt módosító 97/39/EK bizottsági irányelvnek;
 
-17. a Tanács 75/443/EGK irányelve (1975. június 26.) a gépjárművek hátrameneti és sebességmérő berendezéseire vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 97/39/EK bizottsági irányelv;
+17. a gépjárművek és pótkocsijaik hatóságilag előírt tábláira és felirataira, valamint elhelyezésükre és rögzítési módjukra vonatkozó tagállami jogszabályok közelítéséről szóló, 1975. december 18-i 76/114/EGK tanácsi irányelvnek, valamint az azt módosító 78/507/EGK bizottsági és 2006/96/EK tanácsi irányelveknek;
 
-18.[^192] a Tanács 76/114/EGK irányelve (1975. december 18.) a gépjárművek és pótkocsijaik hatóságilag előírt tábláira és felirataira, valamint elhelyezésükre és rögzítési módjukra vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 78/507/EGK bizottsági és 2006/96/EK tanácsi irányelvek;
+18. a gépjárművek biztonsági öveinek rögzítéseire vonatkozó tagállami jogszabályok közelítéséről szóló, 1975. december 18-i 76/115/EGK tanácsi irányelvnek, valamint az azt módosító 81/575/EGK tanácsi, 82/318/EGK, 90/629/EGK, 96/38/EK bizottsági és 2005/41/EK európai parlamenti és tanácsi irányelveknek;
 
-19.[^193] a Tanács 76/115/EGK irányelve (1975. december 18.) a gépjárművek biztonsági öveinek rögzítéseire vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 81/575/EGK tanácsi, 82/318/EGK, 90/629/EGK, 96/38/EK bizottsági és 2005/41/EK európai parlamenti és tanácsi irányelvek;
+19. a gépjárművek és pótkocsijuk világító és fényjelző berendezéseinek felszerelésére vonatkozó tagállami jogszabályok közelítéséről szóló, 1976. július 27-i 76/756/EGK tanácsi irányelvnek, valamint az azt módosító 91/663/EGK, 97/28/EK, 2007/35/EK és 89/2008/EK bizottsági irányelveknek;
 
-20.[^194] a Tanács 76/756/EGK irányelve (1976. július 27.) a gépjárművek és pótkocsijuk világító és fényjelző berendezéseinek felszerelésére vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 91/663/EGK, 97/28/EK, 2007/35/EK és 89/2008/EK bizottsági irányelvek;
+20. a gépjárművek és pótkocsijaik fényvisszaverőire vonatkozó tagállami jogszabályok közelítéséről szóló, 1976. július 27-i 76/757/EGK tanácsi irányelvnek, valamint az azt módosító 97/29/EK bizottsági és 2006/96/EK tanácsi irányelveknek;
 
-21.[^195] a Tanács 76/757/EGK irányelve (1976. július 27.) a gépjárművek és pótkocsijaik fényvisszaverőire vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 97/29/EK bizottsági és 2006/96/EK tanácsi irányelvek;
+21. a gépjárművek és pótkocsijaik méretjelző lámpáira, első (oldalsó) helyzetjelző lámpáira, hátsó (oldalsó) helyzetjelző lámpáira és féklámpáira, nappali menetlámpáira és oldalsó méretjelző lámpáira vonatkozó tagállami jogszabályok közelítéséről szóló, 1976. július 27-i 76/758/EGK tanácsi irányelvnek, valamint az azt módosító 89/516/EGK, 97/30/EK bizottsági és 2006/96/EK tanácsi irányelveknek;
 
-22.[^196] a Tanács 76/758/EGK irányelve (1976. július 27.) a gépjárművek és pótkocsijaik hátsó méretjelző lámpáira, első (oldalsó) helyzetjelző lámpáira, hátsó (oldalsó) helyzetjelző lámpáira és féklámpáira vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 89/516/EGK, 97/30/EK bizottsági és 2006/96/EK tanácsi irányelvek;
+22. a gépjárművek és pótkocsijaik irányjelző lámpáira vonatkozó tagállami jogszabályok közelítéséről szóló, 1976. július 27-i 76/759/EGK tanácsi irányelvnek, valamint az azt módosító 89/277/EGK, 99/15/EK bizottsági és 2006/96/EK tanácsi irányelveknek;
 
-23.[^197] a Tanács 76/759/EGK irányelve (1976. július 27.) a gépjárművek és pótkocsijaik irányjelző lámpáira vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 89/277/EGK, 99/15/EK bizottsági és 2006/96/EK tanácsi irányelvek;
+23. a gépjárművek és pótkocsijaik hátsórendszámtábla-megvilágító lámpáira vonatkozó tagállami jogszabályok közelítéséről szóló, 1976. július 27-i 76/760/EGK tanácsi irányelvnek, valamint az azt módosító 97/31/EK bizottsági és 2006/96/EK tanácsi irányelveknek;
 
-24.[^198] a Tanács 76/760/EGK irányelve (1976. július 27.) a gépjárművek és pótkocsijaik hátsórendszámtábla-megvilágító lámpáira vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 97/31/EK bizottsági és 2006/96/EK tanácsi irányelvek;
+24. a gépjárművek és pótkocsijaik távolsági és/vagy tompított fényszóróira, valamint a gépjárművek és pótkocsijaik engedélyezett lámpaegységében használatos fényforrásokra (izzók és egyéb lámpák) vonatkozó tagállami jogszabályok közelítéséről szóló, 1976. július 27-i 76/761/EGK tanácsi irányelvnek, valamint az azt módosító 89/517/EGK, 1999/17/EK bizottsági és 2006/96/EK tanácsi irányelveknek;
 
-25.[^199] a Tanács 76/761/EGK irányelve (1976. július 27.) a gépjárművek távolsági és/vagy tompított fényszóróira és az ilyen fényszórókhoz használt izzólámpákra vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 89/517/EGK, 1999/17/EK bizottsági és 2006/96/EK tanácsi irányelvek;
+25. a gépjárművek ködfényszóróira vonatkozó tagállami jogszabályok közelítéséről szóló, 1976. július 27-i 76/762/EGK tanácsi irányelvnek, valamint az azt módosító 1999/18/EK bizottsági és 2006/96/EK tanácsi irányelveknek;
 
-26.[^200] a Tanács 76/762/EGK irányelve (1976. július 27.) a gépjárművek ködfényszóróira és az azokhoz használt izzólámpákra vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 1999/18/EK bizottsági és 2006/96/EK tanácsi irányelvek;
+26. a gépjárművontató szerkezetekre vonatkozó tagállami jogszabályok közelítéséről szóló, 1977. május 17-i 77/389/EGK tanácsi irányelvnek, valamint az azt módosító 96/64/EK bizottsági irányelvnek;
 
-27. a Tanács 77/389/EGK irányelve (1977. május 17.) a gépjárművontató szerkezetekre vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 96/64/EK bizottsági irányelv;
+27. a gépjárművek és pótkocsijaik hátsó ködlámpáira vonatkozó tagállami jogszabályok közelítéséről szóló, 1977. június 28-i 77/538/EGK tanácsi irányelvnek, valamint az azt módosító 89/518/EGK, 1999/14/EK bizottsági és 2006/96/EK tanácsi irányelveknek;
 
-28.[^201] a Tanács 77/538/EGK irányelve (1977. június 28.) a gépjárművek és pótkocsijaik hátsó ködlámpáira vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 89/518/EGK, 1999/14/EK bizottsági és 2006/96/EK tanácsi irányelvek;
+28. a gépjárművek és pótkocsijaik hátrameneti lámpájára vonatkozó tagállami jogszabályok közelítéséről szóló, 1977. június 28-i 77/539/EGK tanácsi irányelvnek, valamint az azt módosító 97/32/EK bizottsági és 2006/96/EK tanácsi irányelveknek;
 
-29.[^202] a Tanács 77/539/EGK irányelve (1977. június 28.) a gépjárművek és pótkocsijaik hátrameneti lámpájára vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 97/32/EK bizottsági és 2006/96/EK tanácsi irányelvek;
+29. a gépjárművek várakozást jelző lámpáira vonatkozó tagállami jogszabályok közelítéséről szóló, 1977. június 28-i 77/540/EGK tanácsi irányelvnek, valamint az azt módosító 1999/16/EK bizottsági és 2006/96/EK tanácsi irányelveknek;
 
-30.[^203] a Tanács 77/540/EGK irányelve (1977. június 28.) a gépjárművek várakozást jelző lámpáira vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 1999/16/EK bizottsági és 2006/96/EK tanácsi irányelvek;
+30. a gépjárművek biztonsági öveire és utasbiztonsági rendszereire vonatkozó tagállami jogszabályok közelítéséről szóló, 1977. június 28-i 77/541/EGK tanácsi irányelvnek, valamint az azt módosító 81/576/EGK és 2006/96/EK tanácsi, 82/319/EGK, 90/628/EGK, 96/36/EK, 2000/3/EK bizottsági, és 2005/40/EK európai parlamenti és tanácsi irányelveknek;
 
-31.[^204] a Tanács 77/541/EGK irányelve (1977. június 28.) a gépjárművek biztonsági öveire és utasbiztonsági rendszereire vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 81/576/EGK és 2006/96/EK tanácsi, 82/319/EGK, 90/628/EGK, 96/36/EK, 2000/3/EK bizottsági, és 2005/40/EK európai parlamenti és tanácsi irányelvek;
+31. a gépjárművek vezetőinek látóterére vonatkozó tagállami jogszabályok közelítéséről szóló, 1977. szeptember 27-i 77/649/EGK tanácsi irányelvnek, valamint az azt módosító 81/643/EGK, 88/366/EGK és 90/630/EGK bizottsági irányelveknek;
 
-32. a Tanács 77/649/EGK irányelve (1977. szeptember 27.) a gépjárművek vezetőinek látóterére vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 81/643/EGK, 88/366/EGK és 90/630/EGK bizottsági irányelvek;
+32. a gépjárművek belső berendezéseire (a kezelőszervek, ellenőrző és visszajelző lámpák jelölésére) vonatkozó tagállami jogszabályok közelítéséről szóló, 1977. december 21-i 78/316/EGK tanácsi irányelvnek, valamint az azt módosító 93/91/EGK és 94/53/EK bizottsági irányelveknek;
 
-33. a Tanács 78/316/EGK irányelve (1977. december 21.) a gépjárművek belső berendezéseire (a kezelőszervek, ellenőrző és visszajelző lámpák jelölésére) vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 93/91/EGK és 94/53/EK bizottsági irányelvek;
+33. a gépjárművek üvegfelületeinek jég- és páramentesítő berendezéseire vonatkozó tagállami jogszabályok közelítéséről szóló, 1977. december 21-i 78/317/EGK tanácsi irányelvnek;
 
-34. a Tanács 78/317/EGK irányelve (1977. december 21.) a gépjárművek üvegfelületeinek jég- és páramentesítő berendezéseire vonatkozó tagállami jogszabályok közelítéséről;
+34. a gépjárművek ablaktörlő és ablakmosó rendszereire vonatkozó tagállami jogszabályok közelítéséről szóló, 1977. december 21-i 78/318/EGK tanácsi irányelvnek, valamint az azt módosító 94/68/EK bizottsági és 2006/96/EK tanácsi irányelveknek;
 
-35.[^205] a Tanács 78/318/EGK irányelve (1977. december 21.) a gépjárművek ablaktörlő és ablakmosó rendszereire vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 94/68/EK bizottsági és 2006/96/EK tanácsi irányelvek;
+35. a gépjárművek kerékdobjaira vonatkozó tagállami jogszabályok közelítéséről szóló, 1978. június 12-i 78/549/EGK tanácsi irányelvnek, valamint az azt módosító 94/78/EK bizottsági irányelvnek;
 
-36. a Tanács 78/549/EGK irányelve (1978. június 12.) a gépjárművek kerékdobjaira vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 94/78/EK bizottsági irányelv;
+36. a gépjárművek üléseinek fejtámláira vonatkozó tagállami jogszabályok közelítéséről szóló, 1978. október 16-i 78/932/EGK tanácsi irányelvnek, valamint az azt módosító 2006/96/EK tanácsi irányelvnek;
 
-37.[^206] a Tanács 78/932/EGK irányelve (1978. október 16.) a gépjárművek üléseinek fejtámláira vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 2006/96/EK tanácsi irányelv;
+37. a gépjárművek széndioxid-kibocsátásáról és tüzelőanyag-fogyasztásáról szóló, 1980. december 16-i 80/1268/EGK tanácsi irányelvnek, valamint az azt módosító 89/491/EGK, 93/116/EK, 1999/100/EK bizottsági és 2004/3/EK európai parlamenti és tanácsi irányelveknek;
 
-38. a Tanács 80/1268/EGK irányelve (1980. december 16.) a gépjárművek tüzelőanyag-fogyasztására vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 89/491/EGK, 93/116/EK, 1999/100/EK bizottsági és 2004/3/EK európai parlamenti és tanácsi irányelvek;
+38. egyes gépjárművek és pótkocsijaik oldalsó védelmére (oldalsó védőszerkezetekre) vonatkozó tagállami jogszabályok közelítéséről szóló, 1989. április 13-i 89/297/EGK tanácsi irányelvnek;
 
-39.[^207]
+39. a gépjárművek és pótkocsijaik egyes kategóriáinak a felcsapódó víz elleni védelmére vonatkozó tagállami jogszabályok közelítéséről szóló, 1991. március 27-i 91/226/EGK tanácsi irányelvnek, valamint az azt módosító 2006/96/EK tanácsi és 2010/19/EU bizottsági irányelvnek;
 
-40.[^208]
+40. az M1 kategóriájú gépjárművek tömegéről és méreteiről szóló, 1992. március 31-i 92/21/EGK tanácsi irányelvnek, valamint az azt módosító 95/48/EK bizottsági irányelvnek;
 
-41. a Tanács 89/297/EGK irányelve (1989. április 13.) egyes gépjárművek és pótkocsijaik oldalsó védelmére (oldalsó védőszerkezetekre) vonatkozó tagállami jogszabályok közelítéséről;
+41. a gépjárművek és pótkocsijaik biztonsági üvegezéséről és az üvegezésre használt anyagokról szóló, 1992. március 31-i 92/22/EGK tanácsi irányelvnek, valamint az azt módosító 2001/92/EK bizottsági irányelvnek;
 
-42.[^209] a Tanács 91/226/EGK irányelve (1991. március 27.) a gépjárművek és pótkocsijaik egyes kategóriáinak a felcsapódó víz elleni védelmére vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 2006/96/EK tanácsi és 2010/19/EU bizottsági irányelv;
+42. a gépjárművek és pótkocsijaik gumiabroncsairól és azok felszereléséről szóló, 1992. március 31-i 92/23/EGK tanácsi irányelvnek, valamint az azt módosító 2001/43/EK európai parlamenti és tanácsi, és 2005/11/EK bizottsági irányelveknek;
 
-43. a Tanács 92/21/EGK irányelve (1992. március 31.) az M1 kategóriájú gépjárművek tömegéről és méreteiről, valamint az azt módosító 95/48/EK bizottsági irányelv;
+43. az N kategóriájú gépjárművek vezetőfülkéjének a hátfal síkja előtti kiálló részeiről szóló, 1992. december 17-i 92/114/EGK tanácsi irányelvnek;
 
-44. a Tanács 92/22/EGK irányelve (1992. március 31.) a gépjárművek és pótkocsijaik biztonsági üvegezéséről és az üvegezésre használt anyagokról, valamint az azt módosító 2001/92/EK bizottsági irányelv;
+44. a gépjárművek és pótkocsijaik mechanikus kapcsolószerkezeteiről, valamint ezeknek a gépjárművekre történő felszereléséről szóló, 1994. május 30-i 94/20/EK európai parlamenti és tanácsi irányelvnek, valamint ezeknek a gépjárművekre történő felszereléséről, valamint az azt módosító 2006/96/EK tanácsi irányelvnek;
 
-45.[^210] a Tanács 92/23/EGK irányelve (1992. március 31.) a gépjárművek és pótkocsijaik gumiabroncsairól és azok felszereléséről, valamint az azt módosító 2001/43/EK európai parlamenti és tanácsi, és 2005/11/EK bizottsági irányelvek;
+45. egyes gépjármű-kategóriák belső kialakításában használt anyagok égési tulajdonságairól szóló, 1995. október 24-i 95/28/EGK európai parlamenti és tanácsi irányelvnek, valamint az azt módosító 2006/96/EK tanácsi irányelvnek;
 
-46. a Tanács 92/114/EGK irányelve (1992. december 17.) az N kategóriájú gépjárművek vezetőfülkéjének a hátfal síkja előtti kiálló részeiről;
+46. a gépjárművek utasainak oldalsó ütközés esetén történő védelméről és a 70/156/EGK irányelv módosításáról szóló, 1996. május 20-i 96/27/EK európai parlamenti és tanácsi irányelvnek;
 
-47.[^211] az Európai Parlament és a Tanács 94/20/EK irányelve (1994. május 30.) a gépjárművek és pótkocsijaik mechanikus kapcsolószerkezeteiről, valamint ezeknek a gépjárművekre történő felszereléséről, valamint az azt módosító 2006/96/EK tanácsi irányelv;
+47. a gépjárművek utasainak frontális ütközéssel szemben nyújtott védelméről, és a 70/156/EGK irányelv módosításáról szóló, 1996. december 16-i 96/79/EK európai parlamenti és tanácsi irányelvnek, valamint az azt módosító 1999/98/EK bizottsági irányelvnek;
 
-48.[^212] az Európai Parlament és a Tanács 95/28/EGK irányelve (1995. október 24.) egyes gépjármű-kategóriák belső kialakításában használt anyagok égési tulajdonságairól, valamint az azt módosító 2006/96/EK tanácsi irányelv;
+48. a gépjárművek és pótkocsijaik egyes kategóriáinak tömegéről és méreteiről, valamint a 70/156/EGK irányelv módosításáról szóló, 1997. július 22-i 97/27/EK európai parlamenti és tanácsi irányelvnek; valamint az azt módosító 2003/19/EK bizottsági irányelvnek;
 
-49. az Európai Parlament és a Tanács 96/27/EK irányelve (1996. május 20.) a gépjárművek utasainak oldalsó ütközés esetén történő védelméről és a 70/156/EGK irányelv módosításáról;
+49. a veszélyes áruk közúti szállítására szánt gépjárművekről és pótkocsijaikról, valamint a gépjárművek és pótkocsijaik típusjóváhagyásáról szóló 70/156/EGK irányelv módosításáról szóló, 1998. december 14-i 98/91/EK európai parlamenti és tanácsi irányelvnek;
 
-50. az Európai Parlament és a Tanács 96/79/EK irányelve (1996. december 16.) a gépjárművek utasainak frontális ütközéssel szemben nyújtott védelméről, és a 70/156/EGK irányelv módosításáról, valamint az azt módosító 1999/98/EK bizottsági irányelv;
+50. a motorkerékpárok és segédmotoros kerékpárok fékberendezéséről szóló, 1993. április 5-i 93/14/EGK tanácsi irányelvnek, valamint az azt módosító 2006/27/EK bizottsági irányelvnek;
 
-51. az Európai Parlament és a Tanács 97/27/EK irányelve (1997. július 22.) a gépjárművek és pótkocsijaik egyes kategóriáinak tömegéről és méreteiről, valamint a 70/156/EGK irányelv módosításáról; valamint az azt módosító 2003/19/EK bizottsági irányelv;
+51. a motorkerékpárok és segédmotoros kerékpárok kezelőszerveinek, ellenőrző és visszajelző lámpáinak jelöléséről szóló, 2009. július 13-i 2009/80/EK európai parlamenti és tanácsi irányelvnek;
 
-52. az Európai Parlament és a Tanács 98/91/EK irányelve (1998. december 14.) a veszélyes áruk közúti szállítására szánt gépjárművekről és pótkocsijaikról, valamint a gépjárművek és pótkocsijaik típusjóváhagyásáról szóló 70/156/EGK irányelv módosításáról;
+52. a motorkerékpárok és segédmotoros kerékpárok hangjelző berendezéséről szóló, 1993. június 14-i 93/30/EGK tanácsi irányelvnek;
 
-53.[^213] a Tanács 93/14/EGK irányelve (1993. április 5.) a motorkerékpárok és segédmotoros kerékpárok fékberendezéséről, valamint az azt módosító 2006/27/EK bizottsági irányelv;
+53. a motorkerékpárok kitámasztószerkezetéről szóló, 2009. július 13-i 2009/78/EK európai parlamenti és tanácsi irányelvnek;
 
-54.[^214] az Európai Parlament és a Tanács 2009/80/EK irányelve (2009. július 13.) a motorkerékpárok és segédmotoros kerékpárok kezelőszerveinek, ellenőrző és visszajelző lámpáinak jelöléséről;
+54. a motorkerékpárok utasülésének kapaszkodójáról szóló, 2009. július 13-i 2009/79/EK európai parlamenti és tanácsi irányelvnek;
 
-55. a Tanács 93/30/EGK irányelve (1993. június 14.) a motorkerékpárok és segédmotoros kerékpárok hangjelző berendezéséről;
+55. a motorkerékpárok és segédmotoros kerékpárok illetéktelen használat elleni védelmet biztosító berendezéseiről szóló, 1993. június 14-i 93/33/EGK tanácsi irányelvnek, valamint az azt módosító 1999/23/EK bizottsági irányelvnek;
 
-56.[^215] az Európai Parlament és a Tanács 2009/78/EK irányelve (2009. július 13.) a motorkerékpárok kitámasztószerkezetéről;
+56. a motorkerékpárok és segédmotoros kerékpárok előírt azonosító jelzéseiről szóló, 2009. november 25-i 2009/139/EK európai parlamenti és tanácsi irányelvnek;
 
-57.[^216] az Európai Parlament és a Tanács 2009/79/EK irányelve (2009. július 13.) a motorkerékpárok utasülésének kapaszkodójáról;
+57. a motorkerékpárok és segédmotoros kerékpárok világító- és fényjelző berendezéseinek beépítéséről szóló, 2009. július 13-i 2009/67/EK európai parlamenti és tanácsi irányelvnek;
 
-58. a Tanács 93/33/EGK irányelve (1993. június 14.) a motorkerékpárok és segédmotoros kerékpárok illetéktelen használat elleni védelmet biztosító berendezéseiről, valamint az azt módosító 1999/23/EK bizottsági irányelv;
+58. a motorkerékpárok és segédmotoros kerékpárok tömegéről és méreteiről szóló, 1993. október 29-i 93/93/EGK tanácsi irányelvnek, valamint az azt módosító 2001/78/EK és 2004/86/EK bizottsági irányelveknek;
 
-59.[^217] az Európai Parlament és a Tanács 2009/139/EK irányelve (2009. november 25.) a motorkerékpárok és segédmotoros kerékpárok előírt azonosító jelzéseiről;
+59. a motorkerékpárok és segédmotoros kerékpárok hátsó rendszámtáblájának elhelyezéséről szóló, 2009. július 13-i 2009/62/EK európai parlamenti és tanácsi irányelvnek;
 
-60.[^218] az Európai Parlament és a Tanács 2009/67/EK irányelve (2009. július 13.) a motorkerékpárok és segédmotoros kerékpárok világító- és fényjelző berendezéseinek beépítéséről;
+60. a motorkerékpárok és segédmotoros kerékpárok legnagyobb tervezési sebességéről, valamint a motor legnagyobb nyomatékáról és legnagyobb hasznos teljesítményéről szóló, 1995. február 2-i 95/1/EK európai parlamenti és tanácsi irányelvnek, valamint az azt módosító 2002/41/EK és 2006/27/EK bizottsági irányelvnek;
 
-61. a Tanács 93/93/EGK irányelve (1993. október 29.) a motorkerékpárok és segédmotoros kerékpárok tömegéről és méreteiről, valamint az azt módosító 2001/78/EK és 2004/86/EK bizottsági irányelvek;
+61. a motorkerékpárok és segédmotoros kerékpárok egyes alkatrészeiről és jellemzőiről szóló, 1997. június 17-i 97/24/EK európai parlamenti és tanácsi irányelvnek, valamint az azt módosító 2002/51/EK európai parlamenti és tanácsi, 2003/77/EK és 2009/108/EK bizottsági irányelveknek;
 
-62.[^219] az Európai Parlament és a Tanács 2009/62/EK irányelve (2009. július 13.) a motorkerékpárok és segédmotoros kerékpárok hátsó rendszámtáblájának elhelyezéséről;
+62. a kerekes mezőgazdasági vagy erdészeti traktorok egyes alkatrészeiről és jellemzőiről szóló, 2009. július 13-i 2009/63/EK európai parlamenti és tanácsi irányelvnek;
 
-63.[^220] az Európai Parlament és a Tanács 95/1/EK irányelve (1995. február 2.) a motorkerékpárok és segédmotoros kerékpárok legnagyobb tervezési sebességéről, valamint a motor legnagyobb nyomatékáról és legnagyobb hasznos teljesítményéről, valamint az azt módosító 2002/41/EK és 2006/27/EK bizottsági irányelv;
+63. a kerekes mezőgazdasági vagy erdészeti traktorok legnagyobb tervezési sebességéről és rakfelületéről szóló, 2009. július 13-i 2009/60/EK európai parlamenti és tanácsi irányelvnek;
 
-64. az Európai Parlament és a Tanács 2002/7/EK irányelve (2002. február 18.) a Közösségen belül közlekedő egyes közúti járművek nemzeti és a nemzetközi forgalomban megengedett legnagyobb méreteinek, valamint a nemzetközi forgalomban megengedett legnagyobb össztömegének megállapításáról szóló a Tanács 96/53/EK irányelve (1996. június 25.) módosításáról;
+64. a kerekes mezőgazdasági vagy erdészeti traktorok visszapillantó tükreiről szóló, 2009. július 13-i 2009/59/EK európai parlamenti és tanácsi irányelvnek;
 
-65.[^221] az Európai Parlament és a Tanács 97/24/EK irányelve (1997. június 17.) a motorkerékpárok és segédmotoros kerékpárok egyes alkatrészeiről és jellemzőiről, valamint az azt módosító 2002/51/EK európai parlamenti és tanácsi, 2003/77/EK és 2009/108/EK bizottsági irányelvek;
+65. a kerekes mezőgazdasági vagy erdészeti traktorok látómezőjéről és szélvédőtörlőiről szóló, 2008. január 15-i 2008/2/EK európai parlamenti és tanácsi irányelvnek;
 
-66.[^222] az Európai Parlament és a Tanács 2009/63/EK irányelve (2009. július 13.) a kerekes mezőgazdasági vagy erdészeti traktorok egyes alkatrészeiről és jellemzőiről;
+66. a kerekes mezőgazdasági vagy erdészeti traktorok kormányberendezéséről szóló, 2009. július 13-i 2009/66/EK európai parlamenti és tanácsi irányelvnek;
 
-67.[^223] az Európai Parlament és a Tanács 2009/60/EK irányelve (2009. július 13.) a kerekes mezőgazdasági vagy erdészeti traktorok legnagyobb tervezési sebességéről és rakfelületéről; továbbá a Bizottság 2010/62/EU irányelve (2010. szeptember 8.) a mezőgazdasági vagy erdészeti traktorok típusjóváhagyására vonatkozó 80/720/EGK és 86/297/EGK tanácsi irányelv, valamint a 2003/37/EK, 2009/60/EK és 2009/144/EK európai parlamenti és tanácsi irányelv műszaki rendelkezéseinek kiigazítása céljából történő módosításáról;
+67. a mezőgazdasági vagy erdészeti traktorok által előidézett rádiózavarok megszüntetéséről szóló, 2009. július 13-i 2009/64/EK európai parlamenti és tanácsi irányelvnek;
 
-68.[^224] az Európai Parlament és a Tanács 2009/59/EK irányelve (2009. július 13.) a kerekes mezőgazdasági vagy erdészeti traktorok visszapillantó tükreiről;
+68. a kerekes mezőgazdasági vagy erdészeti traktorokra szerelt, a mezőgazdaságban vagy erdészetben alkalmazott szerszámokon, gépeken vagy pótkocsikon használt világító és fényjelző berendezések elektromos csatlakozójára vonatkozó tagállami jogszabályok közelítéséről szóló, 1975. május 20-i 75/323/EGK tanácsi irányelvnek;
 
-69.[^225] az Európai Parlament és a Tanács 2008/2/EK irányelve (2008. január 15.) a kerekes mezőgazdasági vagy erdészeti traktorok látómezőjéről és szélvédőtörlőiről;
+69. a kerekes mezőgazdasági vagy erdészeti traktorok fékberendezéseire vonatkozó tagállami jogszabályok közelítéséről szóló, 1976. április 6-i 76/432/EGK tanácsi irányelvnek, valamint az azt módosító 96/63/EK bizottsági irányelvnek;
 
-70.[^226] az Európai Parlament és a Tanács 2009/66/EK irányelve (2009. július 13.) a kerekes mezőgazdasági vagy erdészeti traktorok kormányberendezéséről;
+70. a kerekes mezőgazdasági vagy erdészeti traktorok utasülésére vonatkozó tagállami jogszabályok közelítéséről szóló, 1976. július 27-i 76/763/EGK tanácsi irányelvnek, valamint az azt módosító 1999/86/EK tanácsi és 2010/52/EU bizottsági irányelvnek;
 
-71.[^227] az Európai Parlament és a Tanács 2009/64/EK irányelve (2009. július 13.) a mezőgazdasági vagy erdészeti traktorok által előidézett rádiózavarok megszüntetéséről;
+71. a kerekes mezőgazdasági vagy erdészeti traktorok vezetőire ható zajszintről szóló, 2009. július 13-i 2009/76/EK európai parlamenti és tanácsi irányelvnek;
 
-72. a Tanács 75/323/EGK irányelve (1975. május 20.) a kerekes mezőgazdasági vagy erdészeti traktorokra szerelt, a mezőgazdaságban vagy erdészetben alkalmazott szerszámokon, gépeken vagy pótkocsikon használt világító és fényjelző berendezések elektromos csatlakozójára vonatkozó tagállami jogszabályok közelítéséről;
+72. a kerekes mezőgazdasági vagy erdészeti traktorok borulás hatása elleni védőszerkezeteiről szóló, 2009. július 13-i 2009/57/EK európai parlamenti és tanácsi irányelvnek;
 
-73. a Tanács 76/432/EGK irányelve (1976. április 6.) a kerekes mezőgazdasági vagy erdészeti traktorok fékberendezéseire vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 96/63/EK bizottsági irányelv;
+73. a kerekes mezőgazdasági vagy erdészeti traktorokban használt dízelmotorok szennyezőanyag-kibocsátása elleni intézkedésekre vonatkozó tagállami jogszabályok közelítéséről szóló, 1977. június 28-i 77/537/EGK tanácsi irányelvnek;
 
-74.[^228] a Tanács 76/763/EGK irányelve (1976. július 27.) a kerekes mezőgazdasági vagy erdészeti traktorok utasülésére vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 1999/86/EK tanácsi és 2010/52/EU bizottsági irányelv;
+74. a kerekes mezőgazdasági vagy erdészeti traktorok vezetőülésére vonatkozó tagállami jogszabályok közelítéséről szóló, 1978. július 25-i 78/764/EGK tanácsi irányelvnek, valamint az azt módosító 83/190/EGK, 88/465/EGK és 1999/57/EK bizottsági, továbbá 2006/96/EK tanácsi irányelveknek;
 
-75.[^229] az Európai Parlament és a Tanács 2009/76/EK irányelve (2009. július 13.) a kerekes mezőgazdasági vagy erdészeti traktorok vezetőire ható zajszintről;
+75. a kerekes mezőgazdasági és erdészeti traktorok világító és fényjelző berendezéseinek elhelyezéséről szóló, 2009. július 13-i 2009/61/EK európai parlamenti és tanácsi irányelvnek;
 
-76.[^230] az Európai Parlament és a Tanács 2009/57/EK irányelve (2009. július 13.) a kerekes mezőgazdasági vagy erdészeti traktorok borulás hatása elleni védőszerkezeteiről;
+76. a kerekes mezőgazdasági vagy erdészeti traktorok világító és fényjelző berendezéseinek alkatrész-típusjóváhagyásáról szóló, 2009. július 13-i 2009/68/EK európai parlamenti és tanácsi irányelvnek;
 
-77. a Tanács 77/537/EGK irányelve (1977. június 28.) a kerekes mezőgazdasági vagy erdészeti traktorokban használt dízelmotorok szennyezőanyag-kibocsátása elleni intézkedésekre vonatkozó tagállami jogszabályok közelítéséről;
+77. a kerekes mezőgazdasági vagy erdészeti traktorok elvontató- és hátrameneti berendezéséről szóló, 2009. július 13-i 2009/58/EK európai parlamenti és tanácsi irányelvnek;
 
-78.[^231] a Tanács 78/764/EGK irányelve (1978. július 25.) a kerekes mezőgazdasági vagy erdészeti traktorok vezetőülésére vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 83/190/EGK, 88/465/EGK és 1999/57/EK bizottsági, továbbá 2006/96/EK tanácsi irányelvek;
+78. a kerekes mezőgazdasági és erdészeti traktorok borulás hatása elleni védőszerkezeteiről (statikus vizsgálat) szóló, 2009. július 13-i 2009/75/EK európai parlamenti és tanácsi irányelvnek;
 
-79.[^232] az Európai Parlament és a Tanács 2009/61/EK irányelve (2009. július 13.) a kerekes mezőgazdasági és erdészeti traktorok világító és fényjelző berendezéseinek elhelyezéséről;
+79. a kerekes mezőgazdasági vagy erdészeti traktorok kezelőterére, vezetőhelyéhez történő hozzáférésre, ajtajaira és ablakaira vonatkozó tagállami jogszabályok közelítéséről szóló, 1980. június 24-i 80/720/EGK tanácsi irányelvnek, valamint az azt módosító 88/414/EGK bizottsági irányelvnek;
 
-80.[^233] az Európai Parlament és a Tanács 2009/68/EK irányelve (2009. július 13.) a kerekes mezőgazdasági vagy erdészeti traktorok világító és fényjelző berendezéseinek alkatrész-típusjóváhagyásáról;
+80. a mezőgazdasági és erdészeti traktorok típusjóváhagyására vonatkozó 80/720/EGK, 86/298/EGK, 86/415/EGK és 87/402/EGK tanácsi irányelvnek, valamint a 2000/25/EK és a 2003/37/EK európai parlamenti és tanácsi irányelvnek a műszaki fejlődéshez való hozzáigazítása céljából történő módosításáról szóló, 2010. március 15-i 2010/22/EU bizottsági irányelv, továbbá a mezőgazdasági vagy erdészeti traktorok típusjóváhagyására vonatkozó 80/720/EGK és 86/297/EGK tanácsi irányelv, valamint a 2003/37/EK, 2009/60/EK és 2009/144/EK európai parlamenti és tanácsi irányelv műszaki rendelkezéseinek kiigazítása céljából történő módosításáról szóló, 2010. szeptember 8-i 2010/62/EU bizottsági irányelvnek;
 
-81.[^234] az Európai Parlament és a Tanács 2009/58/EK irányelve (2009. július 13.) a kerekes mezőgazdasági vagy erdészeti traktorok elvontató- és hátrameneti berendezéséről;
+81. a kerekes mezőgazdasági vagy erdészeti traktorok teljesítményleadó tengelycsonkjaira és ezek védőburkolatára vonatkozó tagállami jogszabályok közelítéséről szóló, 1986. május 26-i 86/297/EGK tanácsi irányelvnek;
 
-82.[^235] az Európai Parlament és a Tanács 2009/75/EK irányelve (2009. július 13.) a kerekes mezőgazdasági és erdészeti traktorok borulás hatása elleni védőszerkezeteiről (statikus vizsgálat);
+82. a keskeny nyomtávú kerekes mezőgazdasági és erdészeti traktorok hátul felszerelt, borulás hatása elleni védőszerkezeteiről szóló, 1986. május 26-i 86/298/EGK tanácsi irányelv, az azt módosító 89/682/EGK és 2006/96/EK tanácsi és 2000/19/EK bizottsági irányelveknek, valamint a 86/298/EGK tanácsi irányelv I. és II. mellékletét módosító 2005/67/EK bizottsági irányelvnek;
 
-83.[^236] a Tanács 80/720/EGK irányelve (1980. június 24.) a kerekes mezőgazdasági vagy erdészeti traktorok kezelőterére, vezetőhelyéhez történő hozzáférésre, ajtajaira és ablakaira vonatkozó tagállami jogszabályok közelítéséről, valamint az azt módosító 88/414/EGK bizottsági irányelv; a Bizottság 2010/22/EU irányelve (2010. március 15.) a mezőgazdasági és erdészeti traktorok típusjóváhagyására vonatkozó 80/720/EGK, 86/298/EGK, 86/415/EGK és 87/402/EGK tanácsi irányelvnek, valamint a 2000/25/EK és a 2003/37/EK európai parlamenti és tanácsi irányelvnek a műszaki fejlődéshez való hozzáigazítása céljából történő módosításáról, továbbá a Bizottság 2010/62/EU irányelve (2010. szeptember 8.) a mezőgazdasági vagy erdészeti traktorok típusjóváhagyására vonatkozó 80/720/EGK és 86/297/EGK tanácsi irányelv, valamint a 2003/37/EK, 2009/60/EK és 2009/144/EK európai parlamenti és tanácsi irányelv műszaki rendelkezéseinek kiigazítása céljából történő módosításáról;
+83. a kerekes mezőgazdasági vagy erdészeti traktorok kezelőszerveinek beépítéséről, elhelyezéséről, működéséről és jelöléséről szóló, 1986. július 24-i 86/415/EGK tanácsi irányelv, valamint az azt módosító 2006/96/EK tanácsi irányelvnek;
 
-84.[^237] a Tanács 86/297/EGK irányelve (1986. május 26.) a kerekes mezőgazdasági vagy erdészeti traktorok teljesítményleadó tengelycsonkjaira és ezek védőburkolatára vonatkozó tagállami jogszabályok közelítéséről; továbbá a Bizottság 2010/62/EU irányelve (2010. szeptember 8.) a mezőgazdasági vagy erdészeti traktorok típusjóváhagyására vonatkozó 80/720/EGK és 86/297/EGK tanácsi irányelv, valamint a 2003/37/EK, 2009/60/EK és 2009/144/EK európai parlamenti és tanácsi irányelv műszaki rendelkezéseinek kiigazítása céljából történő módosításáról;
+84. a keskeny nyomtávú kerekes mezőgazdasági és erdészeti traktorok vezetőülés elé szerelt, borulás hatása elleni védőszerkezeteiről szóló, 1987. június 26-i 87/402/EGK tanácsi irányelv, valamint az azt módosító 89/681/EGK és 2006/96/EK tanácsi és 2000/22/EK bizottsági irányelveknek, valamint a 87/402/EGK tanácsi irányelv I. és II. mellékletét módosító 2005/67/EK bizottsági irányelvnek;
 
-85.[^238] a Tanács 86/298/EGK irányelve (1986. május 26.) a keskeny nyomtávú kerekes mezőgazdasági és erdészeti traktorok hátul felszerelt, borulás hatása elleni védőszerkezeteiről, az azt módosító 89/682/EGK és 2006/96/EK tanácsi és 2000/19/EK bizottsági irányelvek, valamint a 86/298/EGK tanácsi irányelv I. és II. mellékletét módosító 2005/67/EK bizottsági irányelv, továbbá a Bizottság 2010/22/EU irányelve (2010. március 15.) a mezőgazdasági és erdészeti traktorok típusjóváhagyására vonatkozó 80/720/EGK, 86/298/EGK, 86/415/EGK és 87/402/EGK tanácsi irányelvnek, valamint a 2000/25/EK és a 2003/37/EK európai parlamenti és tanácsi irányelvnek a műszaki fejlődéshez való hozzáigazítása céljából történő módosításáról;
+85. a kerekes mezőgazdasági vagy erdészeti traktorok egyes alkatrészeiről és jellemzőiről szóló, 2009. november 30-i 2009/144/EK európai parlamenti és tanácsi irányelv, valamint az azt módosító 2010/52/EU bizottsági irányelvnek;
 
-86.[^239] a Tanács 86/415/EGK irányelve (1986. július 24.) a kerekes mezőgazdasági vagy erdészeti traktorok kezelőszerveinek beépítéséről, elhelyezéséről, működéséről és jelöléséről, valamint az azt módosító 2006/96/EK tanácsi irányelv, továbbá a Bizottság 2010/22/EU irányelve (2010. március 15.) a mezőgazdasági és erdészeti traktorok típusjóváhagyására vonatkozó 80/720/EGK, 86/298/EGK, 86/415/EGK és 87/402/EGK tanácsi irányelvnek, valamint a 2000/25/EK és a 2003/37/EK európai parlamenti és tanácsi irányelvnek a műszaki fejlődéshez való hozzáigazítása céljából történő módosításáról;
+86. a gépjárművek és pótkocsijaik egyes kategóriái esetében a gumiabroncsok futófelület-mintázatának mélységére vonatkozó tagállami jogszabályok közelítéséről szóló, 1989. július 18-i 89/459/EGK tanácsi irányelvnek;
 
-87.[^240] a Tanács 87/402/EGK irányelve (1987. június 26.) a keskeny nyomtávú kerekes mezőgazdasági és erdészeti traktorok vezetőülés elé szerelt, borulás hatása elleni védőszerkezeteiről, valamint az azt módosító 89/681/EGK és 2006/96/EK tanácsi és 2000/22/EK bizottsági irányelvek, valamint a 87/402/EGK tanácsi irányelv I. és II. mellékletét módosító 2005/67/EK bizottsági irányelv, továbbá a Bizottság 2010/22/EU irányelve (2010. március 15.) a mezőgazdasági és erdészeti traktorok típusjóváhagyására vonatkozó 80/720/EGK, 86/298/EGK, 86/415/EGK és 87/402/EGK tanácsi irányelvnek, valamint a 2000/25/EK és a 2003/37/EK európai parlamenti és tanácsi irányelvnek a műszaki fejlődéshez való hozzáigazítása céljából történő módosításáról;
+87. a Közösségben egyes gépjármű-kategóriákra sebességkorlátozó készülékek felszereléséről és használatáról szóló, 1992. február 10-i 92/6/EGK tanácsi irányelv, valamint az azt módosító 2002/85/EK európai parlamenti és tanácsi irányelvnek;
 
-88.[^241] az Európai Parlament és a Tanács 2009/144/EK irányelve (2009. november 30.) a kerekes mezőgazdasági vagy erdészeti traktorok egyes alkatrészeiről és jellemzőiről, valamint az azt módosító 2010/52/EU bizottsági irányelv; a Bizottság 2010/62/EU irányelve (2010. szeptember 8.) a mezőgazdasági vagy erdészeti traktorok típusjóváhagyására vonatkozó 80/720/EGK és 86/297/EGK tanácsi irányelv, valamint a 2003/37/EK, 2009/60/EK és 2009/144/EK európai parlamenti és tanácsi irányelv műszaki rendelkezéseinek kiigazítása céljából történő módosításáról;
+88. egyes gépjármű-kategóriák sebességkorlátozó készülékeiről vagy az ehhez hasonló sebességkorlátozó fedélzeti rendszereiről szóló, 1992. március 31-i 92/24/EGK tanácsi irányelv, valamint az azt módosító 2004/11/EK európai parlamenti és tanácsi irányelvnek;
 
-89. a Tanács 89/459/EGK irányelve (1989. július 18.) a gépjárművek és pótkocsijaik egyes kategóriái esetében a gumiabroncsok futófelület-mintázatának mélységére vonatkozó tagállami jogszabályok közelítéséről;
+89. a gépjárművek kibocsátásai által okozott levegőszennyezés elleni intézkedésekről és a 70/220/EGK tanácsi irányelv módosításáról szóló, 1998. október 13-i 98/69/EK európai parlamenti és tanácsi irányelvnek;
 
-90. a Tanács 92/6/EGK irányelve (1992. február 10.) a Közösségben egyes gépjármű-kategóriákra sebességkorlátozó készülékek felszereléséről és használatáról, valamint az azt módosító 2002/85/EK európai parlamenti és tanácsi irányelv;
+90. a mezőgazdasági vagy erdészeti traktorok hajtására szánt motorok gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátása elleni intézkedésről, valamint a 74/150/EGK tanácsi irányelv módosításáról szóló, 2000. május 22-i 2000/25/EK európai parlamenti és tanácsi irányelv, valamint a 74/150/EGK tanácsi irányelv módosításáról, továbbá az azt módosító 2005/13/EK bizottsági, 2006/96/EK tanácsi és 2010/22/EU bizottsági, valamint a 2011/72/EU és 2011/87/EU európai parlamenti és tanácsi irányelveknek;
 
-91. a Tanács 92/24/EGK irányelve (1992. március 31.) egyes gépjármű-kategóriák sebességkorlátozó készülékeiről vagy az ehhez hasonló sebességkorlátozó fedélzeti rendszereiről, valamint az azt módosító 2004/11/EK európai parlamenti és tanácsi irányelv;
+91. a gépjárművek elülső aláfutásgátlásával kapcsolatos tagállami jogszabályok közelítéséről és a 70/156/EGK tanácsi irányelv módosításáról szóló, 2000. június 26-i 2000/40/EK európai parlamenti és tanácsi irányelv, valamint az azt módosító 2006/96/EK tanácsi irányelvnek;
 
-92. az Európai Parlament és a Tanács 98/69/EK irányelve (1998. október 13.) a gépjárművek kibocsátásai által okozott levegőszennyezés elleni intézkedésekről és a 70/220/EGK tanácsi irányelv módosításáról;
+92. a gépjárművek és pótkocsijaik fűtéséről, a 70/156/EGK tanácsi irányelv módosításáról és a 78/548/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2001. szeptember 27-i 2001/56/EK európai parlamenti és tanácsi irányelv, valamint az azt módosító 2004/78/EK és 2006/119/EK bizottsági és 2006/96/EK tanácsi irányelveknek;
 
-93. az Európai Parlament és a Tanács 1999/96/EK irányelve (1999. december 13.) a járművek hajtására használt sűrítéses gyújtású motorok gázhalmazállapotú szennyezőanyag- és légszennyezőrészecske-kibocsátása, valamint a járművek hajtására használt, földgáz- vagy pb-gázüzemű külső gyújtású motorok gázhalmazállapotú szennyezőanyag-kibocsátása elleni intézkedésekre vonatkozó tagállami jogszabályok közelítéséről és a 88/77/EGK tanácsi irányelv módosításáról;
+93. a személyszállításra használt, a vezetőülésen kívül több mint nyolc ülőhelyet tartalmazó járművekre vonatkozó különleges rendelkezésekről, valamint a 70/156/EGK és a 97/27/EK irányelv módosításáról szóló, 2001. november 20-i 2001/85/EK európai parlamenti és tanácsi irányelv, valamint a 70/156/EGK és a 97/27/EK irányelv módosításáról, valamint az azt módosító 2006/96/EK tanácsi irányelvnek;
 
-94.[^242] az Európai Parlament és a Tanács 2000/25/EK irányelve (2000. május 22.) a mezőgazdasági vagy erdészeti traktorok hajtására szánt motorok gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátása elleni intézkedésről, valamint a 74/150/EGK tanácsi irányelv módosításáról, valamint az azt módosító 2005/13/EK bizottsági, 2006/96/EK tanácsi és 2010/22/EU bizottsági irányelvek;
+94. az elhasználódott járművekről szóló, 2000. szeptember 18-i 2000/53/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének, 8. cikk (1) bekezdésének és II. mellékletének, továbbá az azt módosító 2010/115/EU bizottsági határozatnak és 2011/37/EU bizottsági irányelvnek;
 
-95.[^243] az Európai Parlament és a Tanács 2000/40/EK irányelve (2000. június 26.) a gépjárművek elülső aláfutásgátlásával kapcsolatos tagállami jogszabályok közelítéséről és a 70/156/EGK tanácsi irányelv módosításáról, valamint az azt módosító 2006/96/EK tanácsi irányelv;
+95. a közvetett látást biztosító eszközök és az ilyen eszközökkel felszerelt járművek típusjóváhagyására vonatkozó tagállami jogszabályok közelítéséről, a 70/156/EGK irányelv módosításáról és a 71/127/EGK irányelv hatályon kívül helyezéséről szóló, 2003. november 10-i 2003/97/EK európai parlamenti és tanácsi irányelv, valamint az azt módosító 2005/27/EK bizottsági és 2006/96/EK tanácsi irányelveknek;
 
-96.[^244] az Európai Parlament és a Tanács 2001/56/EK irányelve (2001. szeptember 27.) a gépjárművek és pótkocsijaik fűtéséről, a 70/156/EGK tanácsi irányelv módosításáról és a 78/548/EGK tanácsi irányelv hatályon kívül helyezéséről, valamint az azt módosító 2004/78/EK és 2006/119/EK bizottsági és 2006/96/EK tanácsi irányelvek;
+96. a kerekes mezőgazdasági vagy erdészeti traktorokra vonatkozó tagállami jogszabályok közelítéséről szóló irányelvek módosításáról szóló, 1982. december 17-i 82/890/EGK tanácsi irányelvnek;
 
-97.[^245] az Európai Parlament és a Tanács 2001/85/EK irányelve (2001. november 20.) a személyszállításra használt, a vezetőülésen kívül több mint nyolc ülőhelyet tartalmazó járművekre vonatkozó különleges rendelkezésekről, valamint a 70/156/EGK és a 97/27/EK irányelv módosításáról, valamint az azt módosító 2006/96/EK tanácsi irányelv;
+97. az ipari termékekre vonatkozó tagállami jogszabályok közelítéséről szóló egyes irányelveknek a tagállamokat jelző megkülönböztető számok és betűk vonatkozásában történő módosításáról szóló, 1987. június 25-i 87/354/EGK tanácsi irányelvnek;
 
-98.[^246] az Európai Parlament és a Tanács 2000/53/EK irányelve (2000. szeptember 18.) az elhasználódott járművekről, 4. cikk (2) bekezdés, 8. cikk (1) bekezdés és II. melléklet, továbbá az azt módosító 2010/115/EU bizottsági határozat és 2011/37/EU bizottsági irányelv.
+98. a 74/150/EGK, 74/151/EGK, 74/152/EGK, 74/346/EGK, 74/347/EGK, 75/321/EGK, 75/322/EGK, 76/432/EGK, 76/763/EGK, 77/537/EGK, 78/764/EGK, 78/933/EGK, 79/532/EGK, 79/533/EGK, 80/720/EGK, 86/297/EGK, 86/415/EGK és 89/173/EGK tanácsi irányelvnek a kerekes mezőgazdasági vagy erdészeti traktorok legnagyobb tervezési sebessége tekintetében történő módosításáról szóló, 1997. szeptember 23-i 97/54/EK európai parlamenti és tanácsi irányelvnek;
 
-99.[^247]
+99. a 2005/55/EK európai parlamenti és tanácsi irányelv I. mellékletének, valamint a 2005/78/EK irányelv IV. és V. mellékletének a járművekben használt kibocsátáscsökkentést ellenőrző rendszerekre és a gázüzemű motorokra vonatkozó mentességekre vonatkozó követelményeinek a műszaki fejlődéshez történő hozzáigazítása céljából történő módosításáról szóló, 2006. június 6-i 2006/51/EK bizottsági irányelvnek;
 
-100.[^248] az Európai Parlament és a Tanács 2003/97/EK irányelve (2003. november 10.) a közvetett látást biztosító eszközök és az ilyen eszközökkel felszerelt járművek típusjóváhagyására vonatkozó tagállami jogszabályok közelítéséről, a 70/156/EGK irányelv módosításáról és a 71/127/EGK irányelv hatályon kívül helyezéséről, valamint az azt módosító 2005/27/EK bizottsági és 2006/96/EK tanácsi irányelvek;
+100. a gépjárművek újrafelhasználhatóságra, újrafeldolgozhatóságra és hasznosíthatóságra tekintettel történő típusjóváhagyásáról és a 70/156/EGK tanácsi irányelv módosításáról szóló, 2005. október 26-i 2005/64/EK európai parlamenti és tanácsi irányelv, valamint az azt módosító 2009/1/EK bizottsági irányelvnek;
 
-101. a Tanács 82/890/EGK irányelve (1982. december 17.) a kerekes mezőgazdasági vagy erdészeti traktorokra vonatkozó tagállami jogszabályok közelítéséről szóló irányelvek módosításáról;
+101. a gépjárművek légkondicionáló rendszereiből eredő kibocsátásokról és a 70/156/EGK tanácsi irányelv módosításáról szóló, 2006. május 17-i 2006/40/EK európai parlamenti és tanácsi irányelvnek;
 
-102. a Tanács 87/354/EGK irányelve (1987. június 25.) az ipari termékekre vonatkozó tagállami jogszabályok közelítéséről szóló egyes irányelveknek a tagállamokat jelző megkülönböztető számok és betűk vonatkozásában történő módosításáról;
+102. a Közösségben nyilvántartásba vett nehéz tehergépjárművek visszapillantó tükrökkel való utólagos felszereléséről szóló, 2007. július 11-i 2007/38/EK európai parlamenti és tanácsi irányelvnek;
 
-103. az Európai Parlament és a Tanács 97/54/EK irányelve (1997. szeptember 23.) a 74/150/EGK, 74/151/EGK, 74/152/EGK, 74/346/EGK, 74/347/EGK, 75/321/EGK, 75/322/EGK, 76/432/EGK, 76/763/EGK, 77/311/EGK, 77/537/EGK, 78/764/EGK, 78/933/EGK, 79/532/EGK, 79/533/EGK, 80/720/EGK, 86/297/EGK, 86/415/EGK és 89/173/EGK tanácsi irányelvnek a kerekes mezőgazdasági vagy erdészeti traktorok legnagyobb tervezési sebessége tekintetében történő módosításáról;
+103. a 3,5 tonnánál könnyebb járművekben a biztonsági öv kötelező használatára vonatkozó tagállami jogszabályok közelítéséről szóló 91/671/EK tanácsi irányelv módosításáról szóló, 2003. április 8-i 2003/20/EK európai parlamenti és tanácsi irányelv 1. cikk 2., 3. pontjának;
 
-104. a Bizottság 96/627/EK határozata (1996. október 17.) a kerekes mezőgazdasági vagy erdészeti traktorok vezetőire ható zajszintre vonatkozó tagállami jogszabályok közelítéséről szóló 1977. március 29-i 77/311/EGK tanácsi irányelv 2. cikkének végrehajtásáról, valamint az azt módosító 2000/63/EK bizottsági határozat;
+104. a Közösségen belül közlekedő egyes közúti járművek nemzeti és a nemzetközi forgalomban megengedett legnagyobb méreteiről, valamint a nemzetközi forgalomban megengedett legnagyobb össztömegének megállapításáról szóló, 1996. június 25-i 96/53/EK tanácsi irányelvnek, valamint annak a 2002/7/EK európai parlamenti és tanácsi irányelvvel történt módosításának
 
-105. a Bizottság 2003/138/EK határozata (2003. február 27.) az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv szerinti alkatrész- és anyagkódolási szabványok létrehozásáról;
-
-106. a Bizottság 2004/90/EK határozata (2003. december 23.) a gyalogosok és más veszélyeztetett úthasználók gépjárművel való ütközést megelőző, illetve annak során történő védelméről és a 70/156/EGK tanácsi irányelv módosításáról szóló, 2003/102/EK európai parlamenti és tanácsi irányelv 3. cikke végrehajtásához szükséges műszaki előírásokról;
-
-107.[^249]
-
-108.[^250] a Bizottság 2006/368/EK határozata (2006. március 20.) a gépjárművekre szerelt elülső védelmi rendszerek használatáról szóló 2005/66/EK európai parlamenti és tanácsi irányelvben előírt vizsgálatok elvégzésének részletes műszaki követelményeiről;
-
-109–110.[^251]
-
-111.[^252] a Bizottság 2006/51/EK irányelve (2006. június 6.) a 2005/55/EK európai parlamenti és tanácsi irányelv I. mellékletének, valamint a 2005/78/EK irányelv IV. és V. mellékletének a járművekben használt kibocsátáscsökkentést ellenőrző rendszerekre és a gázüzemű motorokra vonatkozó mentességekre vonatkozó követelményeinek a műszaki fejlődéshez történő hozzáigazítása céljából történő módosításáról;
-
-112.[^253] az Európai Parlament és a Tanács 2005/64/EK irányelve (2005. október 26.) a gépjárművek újrafelhasználhatóságra, újrafeldolgozhatóságra és hasznosíthatóságra tekintettel történő típusjóváhagyásáról és a 70/156/EGK tanácsi irányelv módosításáról, valamint az azt módosító 2009/1/EK bizottsági irányelv;
-
-113.[^254] az Európai Parlament és a Tanács 2006/40/EK irányelve (2006. május 17.) a gépjárművek légkondicionáló rendszereiből eredő kibocsátásokról és a 70/156/EGK tanácsi irányelv módosításáról;
-
-114.[^255] az Európai Parlament és a Tanács 2007/38/EK irányelve (2007. július 11.) a Közösségben nyilvántartásba vett nehéz tehergépjárművek visszapillantó tükrökkel való utólagos felszereléséről;
-
-115.[^256] az Európai Parlament és a Tanács 2003/20/EK irányelve (2003. április 8.) a 3,5 tonnánál könnyebb járművekben a biztonsági öv kötelező használatára vonatkozó tagállami jogszabályok közelítéséről szóló 91/671/EK tanácsi irányelv módosításáról, 1. cikk 2., 3. pontja.
-
-116.[^257] a Tanács 96/53/EK irányelve (1996. június 25.) a Közösségen belül közlekedő egyes közúti járművek nemzeti és a nemzetközi forgalomban megengedett legnagyobb méreteiről, valamint a nemzetközi forgalomban megengedett legnagyobb össztömegének megállapításáról, valamint annak a 2002/7/EK európai parlamenti és tanácsi irányelvvel történt módosítása.
-
-[^178]: Az V. fejezetet a 12/2000. (V. 24.) KHVM rendelet 15. §-a iktatta a szövegbe.
-[^179]: Az V. Fejezet címe a 84/2005. (X. 11.) GKM rendelet 4. §-ával megállapított szöveg.
-[^180]: A 120. § a 84/2005. (X. 11.) GKM rendelet 4. §-ával megállapított szöveg.
-[^181]: A 120. § 1. pontja a 19/2008. (VIII. 14.) KHEM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^182]: A 120. § 2. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^183]: A 120. § 3. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^184]: A 120. § 7. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^185]: A 120. § 8. pontját a 76/2006. (XI. 3.) GKM rendelet 3. § (2) bekezdése hatályon kívül helyezte, újonnan a 106/2007. (XII. 23.) GKM rendelet 2. § (2) bekezdése iktatta be.
-[^186]: A 120. § 9. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^187]: A 120. § 10. pontja a 35/2009. (VII. 10.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^188]: A 120. § 11. pontja a 126/2005. (XII. 29.) GKM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^189]: A 120. § 13. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^190]: A 120. § 15. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^191]: A 120. § 16. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^192]: A 120. § 18. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^193]: A 120. § 19. pontja a 20/2006. (IV. 19.) GKM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^194]: A 120. § 20. pontja a 35/2009. (VII. 10.) KHEM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^195]: A 120. § 21. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (6) bekezdésével megállapított szöveg.
-[^196]: A 120. § 22. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (6) bekezdésével megállapított szöveg.
-[^197]: A 120. § 23. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (6) bekezdésével megállapított szöveg.
-[^198]: A 120. § 24. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (6) bekezdésével megállapított szöveg.
-[^199]: A 120. § 25. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (6) bekezdésével megállapított szöveg.
-[^200]: A 120. § 26. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (6) bekezdésével megállapított szöveg.
-[^201]: A 120. § 28. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (7) bekezdésével megállapított szöveg.
-[^202]: A 120. § 29. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (7) bekezdésével megállapított szöveg.
-[^203]: A 120. § 30. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (7) bekezdésével megállapított szöveg.
-[^204]: A 120. § 31. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (7) bekezdésével megállapított szöveg.
-[^205]: A 120. § 35. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (8) bekezdésével megállapított szöveg.
-[^206]: A 120. § 37. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (9) bekezdésével megállapított szöveg.
-[^207]: A 120. § 39. pontját a 67/2009. (XI. 27.) KHEM rendelet 9. § (11) bekezdése hatályon kívül helyezte.
-[^208]: A 120. § 40. pontját a 76/2006. (XI. 3.) GKM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
-[^209]: A 120. § 42. pontja a 26/2010. (XII. 22.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^210]: A 120. § 45. pontja a 126/2005. (XII. 29.) GKM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^211]: A 120. § 47. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (11) bekezdésével megállapított szöveg.
-[^212]: A 120. § 48. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (11) bekezdésével megállapított szöveg.
-[^213]: A 120. § 53. pontja a 71/2006. (IX. 28.) GKM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^214]: A 120. § 54. pontja a 67/2009. (XI. 27.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^215]: A 120. § 56. pontja a 67/2009. (XI. 27.) KHEM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^216]: A 120. § 57. pontja a 67/2009. (XI. 27.) KHEM rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^217]: A 120. § 59. pontja a 41/2010. (V. 12.) KHEM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^218]: A 120. § 60. pontja a 67/2009. (XI. 27.) KHEM rendelet 6. § (4) bekezdésével megállapított szöveg.
-[^219]: A 120. § 62. pontja a 67/2009. (XI. 27.) KHEM rendelet 6. § (5) bekezdésével megállapított szöveg.
-[^220]: A 120. § 63. pontja a 71/2006. (IX. 28.) GKM rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^221]: A 120. § 65. pontja a 67/2009. (XI. 27.) KHEM rendelet 6. § (6) bekezdésével megállapított szöveg.
-[^222]: A 120. § 66. pontja a 67/2009. (XI. 27.) KHEM rendelet 6. § (7) bekezdésével megállapított szöveg.
-[^223]: A 120. § 67.pontja a 63/2011. (XI. 29.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^224]: A 120. § 68. pontja a 67/2009. (XI. 27.) KHEM rendelet 6. § (9) bekezdésével megállapított szöveg.
-[^225]: A 120. § 69. pontja a 19/2008. (VIII. 14.) KHEM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^226]: A 120. § 70. pontja a 67/2009. (XI. 27.) KHEM rendelet 6. § (10) bekezdésével megállapított szöveg.
-[^227]: A 120. § 71. pontja a 67/2009. (XI. 27.) KHEM rendelet 6. § (11) bekezdésével megállapított szöveg.
-[^228]: A 120. § 74. pontja a 26/2010. (XII. 22.) NFM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^229]: A 120. § 75. pontja a 67/2009. (XI. 27.) KHEM rendelet 6. § (12) bekezdésével megállapított szöveg.
-[^230]: A 120. § 76. pontja a 67/2009. (XI. 27.) KHEM rendelet 6. § (13) bekezdésével megállapított szöveg.
-[^231]: A 120. § 78. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (14) bekezdésével megállapított szöveg.
-[^232]: A 120. § 79. pontja a 67/2009. (XI. 27.) KHEM rendelet 6. § (14) bekezdésével megállapított szöveg.
-[^233]: A 120. § 80. pontja a 67/2009. (XI. 27.) KHEM rendelet 6. § (15) bekezdésével megállapított szöveg.
-[^234]: A 120. § 81. pontja a 67/2009. (XI. 27.) KHEM rendelet 6. § (16) bekezdésével megállapított szöveg.
-[^235]: A 120. § 82. pontja a 67/2009. (XI. 27.) KHEM rendelet 6. § (17) bekezdésével megállapított szöveg.
-[^236]: A 120. § 83. pontja a 63/2011. (XI. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^237]: A 120. § 84. pontja a 63/2011. (XI. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^238]: A 120. § 85. pontja a 63/2011. (XI. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^239]: A 120. § 86. pontja a 63/2011. (XI. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^240]: A 120. § 87. pontja a 63/2011. (XI. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^241]: A 120. § 88. pontja a 63/2011. (XI. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^242]: A 120. § 94. pontja a 26/2010. (XII. 22.) NFM rendelet 7. § (4) bekezdésével megállapított szöveg.
-[^243]: A 120. § 95. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (17) bekezdésével megállapított szöveg.
-[^244]: A 120. § 96. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (17) bekezdésével megállapított szöveg.
-[^245]: A 120. § 97. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (17) bekezdésével megállapított szöveg.
-[^246]: A 120. § 98. pontja a 23/2012. (V. 8.) NFM rendelet 8. §-ával megállapított szöveg.
-[^247]: A 120. § 99. pontját a 67/2009. (XI. 27.) KHEM rendelet 9. § (11) bekezdése hatályon kívül helyezte.
-[^248]: A 120. § 100. pontja a 106/2007. (XII. 23.) GKM rendelet 2. § (18) bekezdésével megállapított szöveg.
-[^249]: A 120. § 107. pontját a 20/2006. (IV. 19.) GKM rendelet 1. § (6) bekezdése iktatta be, hatályon kívül helyezte a 67/2009. (XI. 27.) KHEM rendelet 9. § (11) bekezdése.
-[^250]: A 120. § 108. pontját a 71/2006. (IX. 28.) GKM rendelet 1. § (11) bekezdése iktatta be.
-[^251]: A 120. § 109–110. pontját a 76/2006. (XI. 3.) GKM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 67/2009. (XI. 27.) KHEM rendelet 9. § (11) bekezdése.
-[^252]: A 120. § 111. pontját a 76/2006. (XI. 3.) GKM rendelet 1. §-a iktatta be.
-[^253]: A 120. § 112. pontját a 90/2006. (XII. 26.) GKM rendelet 5. §-a iktatta be, szövege a 35/2009. (VII. 10.) KHEM rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^254]: A 120. § 113. pontját a 106/2007. (XII. 23.) GKM rendelet 2. § (21) bekezdése iktatta be.
-[^255]: A 120. § 114. pontját a 19/2008. (VIII. 14.) KHEM rendelet 3. § (4) bekezdése iktatta be.
-[^256]: A 120. § 115. pontját a 19/2008. (VIII. 14.) KHEM rendelet 3. § (4) bekezdése iktatta be.
-[^257]: A 120. § 116. pontját a 19/2009. (IV. 16.) KHEM rendelet 6. §-a iktatta be.
+[^183]: Az V. fejezetet a 12/2000. (V. 24.) KHVM rendelet 15. §-a iktatta a szövegbe.
+[^184]: Az V. Fejezet címe a 84/2005. (X. 11.) GKM rendelet 4. §-ával megállapított szöveg.
+[^185]: A 120. § a 66/2012. (XII. 10.) NFM rendelet 4. §-ával megállapított szöveg.

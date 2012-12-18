@@ -2,13 +2,13 @@
 
 92. § (1) A sebességmérő a jármű tényleges sebességénél — 20 km/h sebesség felett — kisebb értéket nem mutathat.
 
-(2)[^145] A közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról, a 3821/85/EGK és a 2135/98/EK tanácsi rendelet módosításáról, valamint a 3820/85/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 561/2006/EK európai parlamenti és tanácsi rendelet, továbbá a nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (AETR) hatálya alá tartozó M2, M3 és N kategóriába tartozó járművet – a hivatkozott rendeletben és a megállapodásban, továbbá a (3) bekezdésben meghatározott kivételekkel – menetíró műszerrel (a továbbiakban: tachográf) kell felszerelni.
+(2)[^150] A közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról, a 3821/85/EGK és a 2135/98/EK tanácsi rendelet módosításáról, valamint a 3820/85/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 561/2006/EK európai parlamenti és tanácsi rendelet, továbbá a nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (AETR) hatálya alá tartozó M2, M3 és N kategóriába tartozó járművet – a hivatkozott rendeletben és a megállapodásban, továbbá a (3) bekezdésben meghatározott kivételekkel – menetíró műszerrel (a továbbiakban: tachográf) kell felszerelni.
 
-(3)[^146] Nem kell tachográffal felszerelni a (2) bekezdésben meghatározott olyan járművet, amelyet kizárólag belföldön az a)–m) pontokban meghatározott valamely üzemeltetési célra használnak:
+(3)[^151] Nem kell tachográffal felszerelni a (2) bekezdésben meghatározott olyan járművet, amelyet kizárólag belföldön az a)–m) pontokban meghatározott valamely üzemeltetési célra használnak:
 
 a) költségvetési szerv (intézmény), valamint települési önkormányzat üzemeltetésében lévő járművel történő – közúti közlekedési szolgáltatásnak nem minősülő – szállítás,
 
-b)[^147] a mezőgazdasági (kertészet, erdőgazdálkodás, földművelés vagy halászat terén működő) vállalkozás által a telephelyétől számított 100 km sugarú körön belül végzett mezőgazdasági termékszállítás,
+b)[^152] a mezőgazdasági (kertészet, erdőgazdálkodás, földművelés vagy halászat terén működő) vállalkozás által a telephelyétől számított 100 km sugarú körön belül végzett mezőgazdasági termékszállítás,
 
 c) 7,5 tonna megengedett legnagyobb (együttes) össztömeget meg nem haladó gépjárművel (járműszerelvénnyel) a telephelytől számított 50 km sugarú körön belül végzett szállítás, amennyiben a járművet vezető személynek nem a járművezetés a főtevékenysége és
 
@@ -36,12 +36,12 @@ l) kizárólag olyan csomópont jellegű helyeken, mint kikötőkben, kombinált
 
 m) az élő állatoknak a gazdaságokból a helyi piacokra és fordítva, vagy a piacokról a helyi vágóhídra legfeljebb 50 km-es sugarú körben történő szállításához használt járművek.
 
-(4)[^148] A tachográf készülék kivitele és beépítése, továbbá az abban használt diagramtárcsa (tachográf korong) kivitele feleljen meg a közúti közlekedésben használt menetíró készülékekről szóló a Tanács 3821/85/EGK rendeletben foglaltaknak és rendelkezzen a hivatkozott rendelet szerinti jóváhagyással.
+(4)[^153] A tachográf készülék kivitele és beépítése, továbbá az abban használt diagramtárcsa (tachográf korong) kivitele feleljen meg a közúti közlekedésben használt menetíró készülékekről szóló a Tanács 3821/85/EGK rendeletben foglaltaknak és rendelkezzen a hivatkozott rendelet szerinti jóváhagyással.
 
-(5)[^149] A kizárólag belföldön üzemeltetett 2004. május 1. napja előtt tachográffal ellátott gépkocsi esetében a (4) bekezdésben meghatározott, a tachográf beépítésre vonatkozó követelményeket a soron következő illesztés időpontjáig, de legkésőbb 2006. április 30. napjáig kell teljesíteni.
+(5)[^154] A kizárólag belföldön üzemeltetett 2004. május 1. napja előtt tachográffal ellátott gépkocsi esetében a (4) bekezdésben meghatározott, a tachográf beépítésre vonatkozó követelményeket a soron következő illesztés időpontjáig, de legkésőbb 2006. április 30. napjáig kell teljesíteni.
 
-[^145]: A 92. § (2) bekezdése a 45/2007. (IV. 4.) GKM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 5. § (4) bekezdése alapján a 2007. április 11. napja előtt tachográf beszerelési kötelezettség alá nem tartozó járművet az új szabályozásnak megfelelően 2007. december 31-ig kell ellátni tachográffal.
-[^146]: A 92. § (3) bekezdését a 12/2000. (V. 24.) KHVM rendelet 12.§-ának (2) bekezdése iktatta be, szövege a 45/2007. (IV. 4.) GKM rendelet 1. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 5. § (4) bekezdése alapján a 2007. április 11. napja előtt tachográf beszerelési kötelezettség alá nem tartozó járművet az új szabályozásnak megfelelően 2007. december 31-ig kell ellátni tachográffal.
-[^147]: A 92. § (3) bekezdés b) pontja a 67/2009. (XI. 27.) KHEM rendelet 9. § (10) bekezdése szerint módosított szöveg.
-[^148]: A 92. § (4) bekezdését a 44/2001. (XII. 28.) KöViM rendelet 12. § (2) bekezdése iktatta be, szövegét újonnan a 35/2004. (III. 30.) GKM rendelet 6. § (1) bekezdése állapította meg.
-[^149]: A 92. § (5) bekezdését a 35/2004. (III. 30.) GKM rendelet 6. § (2) bekezdése iktatta be.
+[^150]: A 92. § (2) bekezdése a 45/2007. (IV. 4.) GKM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 5. § (4) bekezdése alapján a 2007. április 11. napja előtt tachográf beszerelési kötelezettség alá nem tartozó járművet az új szabályozásnak megfelelően 2007. december 31-ig kell ellátni tachográffal.
+[^151]: A 92. § (3) bekezdését a 12/2000. (V. 24.) KHVM rendelet 12.§-ának (2) bekezdése iktatta be, szövege a 45/2007. (IV. 4.) GKM rendelet 1. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 5. § (4) bekezdése alapján a 2007. április 11. napja előtt tachográf beszerelési kötelezettség alá nem tartozó járművet az új szabályozásnak megfelelően 2007. december 31-ig kell ellátni tachográffal.
+[^152]: A 92. § (3) bekezdés b) pontja a 67/2009. (XI. 27.) KHEM rendelet 9. § (10) bekezdése szerint módosított szöveg.
+[^153]: A 92. § (4) bekezdését a 44/2001. (XII. 28.) KöViM rendelet 12. § (2) bekezdése iktatta be, szövegét újonnan a 35/2004. (III. 30.) GKM rendelet 6. § (1) bekezdése állapította meg.
+[^154]: A 92. § (5) bekezdését a 35/2004. (III. 30.) GKM rendelet 6. § (2) bekezdése iktatta be.

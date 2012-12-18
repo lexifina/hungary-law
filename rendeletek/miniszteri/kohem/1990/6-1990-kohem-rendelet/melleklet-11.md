@@ -56,7 +56,7 @@
 
 ## H : A ráfutó fék megengedett legnagyobb működtető ereje N
 
-11. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez
+11. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^199]
 
 ## Gépjármű, mezőgazdasági vontató, lassú jármű, pótkocsi, valamint a segédmotoros kerékpár világító és fényjelző berendezéseinek megkövetelt legkisebb láthatósági szögei
 
@@ -236,6 +236,43 @@ Megjegyzések:
 
 7/ +-b a lámpa ill. fényvisszaverő felület középpontján (súlypontján) átmenő és a hosszirányú szimmetria síkra, valamint a talajra merőleges síkra vonatkoztatva.
 
-[^292]
+[^200]
 
-[^292]: Lásd 1990. évi 33. szám 720. oldal
+4. táblázat
+
+A bekanyarodási lámpa láthatósági szögei
+
+|  | A | B |
+
+| 1 |  | B1 | B2 | B3 | B4 |
+
+| 2 |  | Láthatósági szög; fok |
+
+| 3 | Lámpa megnevezése | +α felfelé | -α lefelé | +β kifelé | -β befelé |
+
+| 4 | Tompított fényszóró | 15 | 10 | 45 | 45 |
+
+| 5 | Ködfényszóró | 5 | 5 | 45 | 451 |
+
+| 6 | Hátrameneti lámpa | 15 | 5 | 45 | 45 |
+
+| 7 | Bekanyarodási lámpa | 10 | 10 | 30-60 |  |
+
+| 8 | Helyzetjelző lámpa | első | 15 | 152 | 80 | 80 |
+
+| 9 |  | hátsó | 15 | 152 | 80 | 80 |
+
+| 10 | Hátsó helyzetjelző ködlámpa | 5 | 5 | 25 | 25 |
+
+| 11 | Féklámpa | 15 | 152 | 45 | 45 |
+
+| 12 | Megkülönböztető vagy figyelmeztető lámpa | 5 | 20 | 180 | 180 |
+
+| 13 | Fényvisszaverő | elöl | 15 | 152 | 30 | 30 |
+
+| 14 |  | oldalt | 15 | 152 | 30 | 30 |
+
+| 15 |  | hátul | 15 | 152 | 30 | 30 |
+
+[^199]: A 11. számú melléklet a 66/2012. (XII. 10.) NFM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^200]: Lásd 1990. évi 33. szám 720. oldal

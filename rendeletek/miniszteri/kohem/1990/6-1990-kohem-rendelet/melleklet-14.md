@@ -6,7 +6,7 @@
 
 ## Kivitele: a felragasztás oldaláról olvasható, öntapadó kivitel.
 
-## [^294]
+## [^202]
 
 ## a) Cseppfolyós gázüzemű járműhöz
 
@@ -14,7 +14,7 @@
 
 ## c) Egyéb gázüzemű járműhöz
 
-14. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^295]
+14. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^203]
 
 ## A cseppfolyós gázüzemű járművek gáz-üzemanyagellátó berendezésének járműbe szerelésére vonatkozó előírások
 
@@ -60,7 +60,7 @@ A nem flexibilis cső vezetékként csak varratmentes, korrózióvédelemmel ell
 
 A csövek külső átmérője a 12 mm-t nem haladhatja meg. A falvastagságnak 8 mm külső átmérőig 1 mm-nek, 8—12 mm külső átmérő között legalább 1,5 mm-nek kell lenni.
 
-A rézcső szakítószilárdsága legalább 240 N/mm2 és legfeljebb 350 N/mm2, szakadási nyúlása[^296] legalább 20 százalék mértékű kell legyen.
+A rézcső szakítószilárdsága legalább 240 N/mm2 és legfeljebb 350 N/mm2, szakadási nyúlása[^204] legalább 20 százalék mértékű kell legyen.
 
 A csövek csatlakozását gáztömören kell kialakítani úgy, hogy a bennük keletkező nyomást tartósan megtartsák. A csőkötéseket karimás vagy menetes csatlakozó alkalmazásával kell létrehozni. A csatlakozásoknál tömítőanyag nem alkalmazható. Rézcsövek menetes csatlakoztatása esetén erősítő-hüvelyt kell alkalmazni.
 
@@ -70,6 +70,6 @@ A cseppfolyós gázt tartalmazó csöveket a gáztartálytól a legrövidebb út
 
 A gáz-üzemanyagellátó berendezés üzembe helyezésére kialakított kezelőszerkezetet a járműben a jármű vezetője által könnyen kezelhető módon kell elhelyezni.
 
-[^294]: Lásd 1993. évi MK 60. szám 3336. oldal
-[^295]: A 14. számú mellékletet a 13/1993. (V.12.) KHVM rendelet 7.§-a iktatta a szövegbe.
-[^296]: Lásd az MSZ 760 számú, illetőleg az MSZ 64—4 számú szabványt.
+[^202]: Lásd 1993. évi MK 60. szám 3336. oldal
+[^203]: A 14. számú mellékletet a 13/1993. (V.12.) KHVM rendelet 7.§-a iktatta a szövegbe.
+[^204]: Lásd az MSZ 760 számú, illetőleg az MSZ 64—4 számú szabványt.
