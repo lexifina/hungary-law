@@ -28,7 +28,7 @@ c)[^12] belföldi utazása során – veszélyeztetettségének megfelelően –
 
 (5)[^15] A védett személy magánprogramjának időtartamára a személyvédelem egyes elemeiről előzetesen írásban lemondhat.
 
-(6)[^16] A miniszterelnök a részvételével bonyolított hivatalos programhoz kapcsolódó személyvédelem egyes elemeiről – előzetesen és írásban – lemondhat, feltéve, hogy a hivatalos programon nem vesz részt
+(6)[^16] A köztársasági elnök és a miniszterelnök a részvételével bonyolított hivatalos programhoz kapcsolódó személyvédelem egyes elemeiről – előzetesen és írásban – lemondhat, feltéve, hogy a hivatalos programon nem vesz részt
 
 a) a Kormány tagjai közé nem tartozó védett személy,
 
@@ -45,5 +45,5 @@ c) viszonosság alapján védett személynek tekintendő külföldi.
 [^13]: A 3. § (3) bekezdése a 197/1999. (XII. 21.) Korm. rendelet 4. §-ával megállapított, a 314/2011. (XII. 23.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^14]: A 3. § (4) bekezdése a 63/2010. (III. 18.) Korm. rendelet 12. § d) pontja, a 232/2010. (VIII. 19.) Korm. rendelet 16. § (1) bekezdése, a 102/2012. (V. 18.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^15]: A 3. § (5) bekezdése a 197/1999. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^16]: A 3. § (6) bekezdését a 144/2001. (VIII. 8.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^16]: A 3. § (6) bekezdését a 144/2001. (VIII. 8.) Korm. rendelet 1. §-a iktatta be, nyitó szövegrésze a 364/2012. (XII. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^17]: A 3. § (7) bekezdését a 144/2001. (VIII. 8.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 63/2010. (III. 18.) Korm. rendelet.
