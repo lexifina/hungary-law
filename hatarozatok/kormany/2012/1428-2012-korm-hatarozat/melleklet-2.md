@@ -1,34 +1,32 @@
-|  | Millió forintban |
+## millió forintban
 
 | Fejezet | Zárolási kötelezettség |
 
-| Közigazgatási és Igazságügyi Minisztérium | 5 368,0 |
+| Közigazgatási és Igazságügyi Minisztérium | 2 629,6 |
 
 | Miniszterelnökség | 832,2 |
 
-| Kormányzati Ellenőrzési Hivatal | 22,5 |
+| Kormányzati Ellenőrzési Hivatal | 0,0 |
 
-| Vidékfejlesztési Minisztérium | 4 004,2 |
+| Vidékfejlesztési Minisztérium | 1 000,0 |
 
 | Honvédelmi Minisztérium | 769,5 |
 
-| Belügyminisztérium | 2 837,8 |
+| Belügyminisztérium | 2 449,4 |
 
-| Nemzetgazdasági Minisztérium | 3 354,5 |
+| Nemzetgazdasági Minisztérium | 1 556,0 |
 
-| Nemzeti Fejlesztési Minisztérium | 6 499,5 |
+| Nemzeti Fejlesztési Minisztérium | 6 427,4 |
 
-| Külügyminisztérium | 4 786,5 |
+| Külügyminisztérium | 1 043,0 |
 
-| Uniós fejlesztések | 3 144,7 |
+| Uniós fejlesztések | 3 002,6 |
 
-| Emberi Erőforrások Minisztériuma* | 17 060,0 |
+| Emberi Erőforrások Minisztériuma | 12 237,4 |
 
 | Központi Statisztikai Hivatal | 101,5 |
 
-| Összesen | 48 780,9 |
-
-## * Jogszabály alapján nem zárolható előirányzat esetében csökkentési kötelezettség.
+| Összesen | 32 048,6 |
 
 2. melléklet az 1428/2012. (X. 8.) Korm. határozathoz
 

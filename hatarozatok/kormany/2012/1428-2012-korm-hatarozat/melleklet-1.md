@@ -58,17 +58,7 @@
 
 ## Határidő: azonnal
 
-## 9. A Kormány felhívja az emberi erőforrások miniszterét, hogy a Nemzeti Kulturális Alap egyenlegének a Kvtv.-ben jóváhagyotthoz képest, valamint a Széll Kálmán Terv kiterjesztése keretében megvalósítandó egyes intézkedésekről szóló 1122/2012. (IV. 25.) Korm. határozat 2. pontja alapján megtett intézkedésen felül további 900,0 millió forinttal történő javulásához a szükséges intézkedéseket tegye meg.
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: azonnal
-
-## 10. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy a Kutatási és Technológiai Innovációs Alap egyenlegének a Kvtv.-ben jóváhagyotthoz képest, valamint az Elektronikus Információszolgáltatás Nemzeti Program finanszírozásával és működtetésével kapcsolatos feladatokról szóló 1079/2012. (III. 28.) Korm. határozatban elrendelt átcsoportosításon felül további legalább 3000,0 millió forinttal történő javulásához a szükséges intézkedéseket tegye meg.
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
+## 9–10.[^2]
 
 ## 11. A Kormány felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy terjesszék a Kormány elé az innovációs járulékelőleg kiegészítését előíró törvénytervezetet úgy, hogy a törvényjavaslat elfogadása esetén a törvény kihirdetése 2012. november 10-ig megtörténhessen.
 
@@ -78,6 +68,8 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1428/2012. (X. 8.) Korm. határozathoz
+1. melléklet az 1428/2012. (X. 8.) Korm. határozathoz[^3]
 
 [^1]: A 4. pont a) alpontját az 1561/2012. (XII. 6.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^2]: A 9–10. pontot az 1635/2012. (XII. 18.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^3]: Az 1. melléklet az 1635/2012. (XII. 18.) Korm. határozat 2. pontjával megállapított szöveg.
