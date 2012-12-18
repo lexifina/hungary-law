@@ -4,12 +4,9 @@
 
 (3) E rendelet rendelkezéseit a hatálybalépését követően indult akkreditációs eljárásokban kell alkalmazni. Az e rendelet hatálybalépését megelőzően kiadott akkreditációs tanúsítvánnyal kapcsolatos eljárásban a rehabilitációs akkreditációs eljárás és követelményrendszer szabályairól szóló 14/2005. (IX. 2.) FMM rendelet, valamint a rehabilitációs akkreditációs díjról szóló 26/2005. (XII. 27.) FMM rendelet e rendelet hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
 
-(4) Hatályát veszti
+(4)[^1]
 
-a) a rehabilitációs akkreditációs eljárás és követelményrendszer szabályairól szóló 14/2005. (IX. 2.) FMM rendelet,
+(5)[^2]
 
-b) a rehabilitációs akkreditációs díjról szóló 26/2005. (XII. 27.) FMM rendelet.
-
-(5)[^1]
-
-[^1]: A 6. § (5) bekezdése ugyanezen § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^1]: A 6. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6. § (5) bekezdése ugyanezen § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
