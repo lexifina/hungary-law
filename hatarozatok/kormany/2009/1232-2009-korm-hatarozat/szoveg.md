@@ -216,6 +216,8 @@ A Kormány a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvé
 
 2.48. állami protokoll által megjelölt szállodák.
 
+2.49.[^2] MAL Magyar Alumínium Termelő és Kereskedelmi Zártkörűen Működő Részvénytársaság.
+
 3. A nemzetbiztonsági védelmet ellátó nemzetbiztonsági szolgálatok – feladatkörük szerint – az 1. pontban felsorolt, az Nbtv. 74. § b) pontja szerint állami szervnek minősülő szervekkel az Nbtv. 28. § (2) bekezdése alapján az együttműködés részletes szabályairól és a védendő létesítmények körének részletes meghatározásáról megállapodást kötnek.
 
 4. A nemzetbiztonsági védelmet ellátó nemzetbiztonsági szolgálatok – feladatkörük szerint – az 1. pontban felsorolt, de az Nbtv. 74. § b) pontja szerint állami szervnek nem minősülő más szervekkel, valamint a 2. pontban foglalt gazdálkodó szervekkel az Nbtv. 28. § (3) bekezdése alapján az együttműködés részletes szabályainak és a védendő létesítmények körének részletes meghatározása érdekében megállapodás megkötését kezdeményezik. A megkeresett szervek a megállapodás megkötésére irányuló kezdeményezést elutasíthatják.
@@ -227,3 +229,4 @@ A Kormány a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvé
 7. E határozat hatálybalépése nem érinti a jelen határozatban foglalt szervekkel, illetve létesítményekkel korábban megkötött együttműködési megállapodások hatályát.
 
 [^1]: A határozat l. pont 1.25. alpontját az 1493/2011. (XII. 27.) Korm. határozat 1. pont c) alpontja hatályon kívül helyezte.
+[^2]: A 2. pont 2.49. alpontját az 1608/2012. (XII. 17.) Korm. határozat 1. pontja iktatta be.
