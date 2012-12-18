@@ -1,10 +1,10 @@
 ## 1. kifejezi azon szándékát, hogy a budapesti Kossuth Lajos tér újjáépítését, mélygarázs és látogatóközpont létrehozását célzó Steindl Imre Program egészüljön ki a Közigazgatási és Igazságügyi Minisztérium központi épülete korhű tetőzetének visszaállításával és a Műszaki és Természettudományi Egyesületek Szövetségének székháza homlokzatának helyreállításával a tér rekonstrukciójával összhangban,
 
-## 2. a Műszaki és Természettudományi Egyesületek Szövetsége székház épülete tulajdonjogának megszerzésére 1000,0 millió forint 1. melléklet szerinti átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Felhalmozási jellegű kiadások alcím, 1. Ingatlan-beruházások, ingatlanvásárlás jogcímcsoport, 2. Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai jogcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 3. Rendkívüli kormányzati intézkedések cím terhére,
+## 2.[^1] az 1. pontban meghatározottak végrehajtása érdekében 1000,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet I. Országgyűlés fejezet, 4. Fejezeti kezelésű előirányzatok cím, 11. A Kossuth tér rekonstrukciója alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 3. Rendkívüli kormányzati intézkedések cím terhére,
 
 ## Felelős: nemzetgazdasági miniszter
 
-## Határidő: 2012. szeptember 30.
+## Határidő: 2013. június 30.
 
 ## 3. a további években szükséges forrást (2013. évben 10 240,0 millió forint és a 2014. évben 10 240,0 millió forint) a költségvetés tervezése során az adott évi költségvetési törvényben biztosítja.
 
@@ -12,11 +12,11 @@
 
 ## Határidő: a mindenkori központi költségvetés előkészítése során
 
-1. melléklet az 1185/2012. (VI. 5.) Korm. határozathoz
+1. melléklet az 1185/2012. (VI. 5.) Korm. határozathoz[^2]
+
+I. Országgyűlés
 
 XI. Miniszterelnökség
-
-XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások
 
 ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
 
@@ -24,70 +24,61 @@ a Kormány hatáskörében
 
 Költségvetési év: 2012.
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
+| Millió forintban, egy tizedessel |
 
-| ÁHT | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. |  |  | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+| ÁHT egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
 
-| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. | K I A D Á S O K |  |  |  |  |  |  |  |  | (+/-) | következő |
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
 
-| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+|  | I. |  |  |  |  |  |  | Országgyűlés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+|  |  | 4 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+| 329962 |  |  | 11 |  |  |  |  |  |  | A Kossuth tér rekonstrukciója |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | XLIII. |  |  |  |  |  |  | Az állami vagyonnal kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  | 2 |  |  |  |  |  |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | 2 |  |  |  |  |  |  | Az állami vagyonnal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Intézményi beruházási kiadások |  |  |  |  |  |  |  |  | 1 000,0 |  |  |
 
-|  |  |  | 1 |  |  |  |  |  |  | Felhalmozási jellegű kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | XI. |  |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  | 1 |  |  |  |  |  |  | Ingatlan-beruházások, ingatlanvásárlás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 297102 |  | 3 |  |  |  |  |  |  | Rendkívüli kormányzati intézkedések |  |  |  |  |  |  |  |  |  |  | -1 000,0 |  |  |
 
-| 329639 |  |  |  |  | 2 |  |  |  |  |  |  | Az MNV Zrt. ingatlan-beruházásai,ingatlanvásárlásai |  |  |  |  |  |  |  |  | 1 000,0 |  |  |  |
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |
 
-|  | XI. |  |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Millió forintban, egy tizedessel |
 
-| 297102 |  | 3 |  |  |  |  |  |  | Rendkívüli kormányzati intézkedések |  |  |  |  |  |  |  |  |  |  |  | -1 000,0 |  |  |  |
+| ÁHT egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
 
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |
 
-| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | B E V É T E L | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+| Millió forintban, egy tizedessel |
 
-| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | (+/-) | következő |
+| ÁHT egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
 
-| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
 
-|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+|  | I. |  |  |  |  |  |  | Országgyűlés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+|  |  | 4 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 329962 |  |  | 11 |  |  |  |  |  |  | A Kossuth tér rekonstrukciója |  |  |  |  |  |  |  |  |  |  | 1 000,0 |  |  |
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
-
-| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | T Á M O G A T Á S | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
-
-| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | (+/-) | következő |
-
-| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
-
-|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |
 
 | Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
 
-| Fejezet | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fejezet | 1 példány |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Állami Számvevőszék | 1 példány |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnal |  |  |  | 1 000,0 |  |  |  |  |  |  |  |  |  | 1000,0 |  |  |
+| Magyar Államkincstár | 1 példány |  | egyéb: | azonnal | 1 000,0 |  |  |  |  |  |  |  |  |  | 1000,0 |  |  |
 
-| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont az 1609/2012. (XII. 18.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 1. melléklet az 1609/2012. (XII. 18.) Korm. határozat 2. pontjával megállapított szöveg.
