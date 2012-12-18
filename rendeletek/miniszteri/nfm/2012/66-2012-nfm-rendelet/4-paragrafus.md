@@ -1,0 +1,3 @@
+## 3. § Az MR. 67. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A menetrendszerű forgalmat lebonyolító autóbuszt fel kell szerelni olyan fényjelző berendezéssel, amely megvilágított, átvilágított vagy fénykibocsátó diódák (LED) által képezett szám- vagy betűjelzéssel a viszonylatot és az útirányt jelzi. Ez a jelzőberendezés megvilágított felirattal csak előre, hátra és jobb oldalra bocsáthat ki fényt, amely csak színtelen (fehér) lehet. A fénykibocsátó dióda (LED) előre, hátra és jobb oldalra bocsáthat ki fényt, amely zöld színű vagy fehér és borostyánsárga közötti színkoordinátájú lehet.”
