@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és Georgia Kormánya között az Európai Unió és Georgia között az engedély nélkül tartózkodó személyek visszafogadásáról szóló, Brüsszelben, 2010. november 22-én aláírt Megállapodás végrehajtásáról szóló Jegyzőkönyv (a továbbiakban: Végrehajtási Jegyzőkönyv) kötelező hatályának elismerésére.
