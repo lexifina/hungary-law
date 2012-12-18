@@ -86,7 +86,7 @@
 
 ## Határidő: 2013. január 31.
 
-## 10. visszavonja a Széchenyi Programiroda Nonprofit Korlátolt Felelősségű Társaság tulajdonosi joggyakorlójának és feladatainak megváltoztatásáról, összefüggésben az Európai Unió 2014–20 közötti költségvetési időszakára való felkészülés kormányzati feladatairól szóló, 1449/2012. (X. 16.) Korm. határozat 9. és 10. pontjában foglalt döntését.
+## 10.[^1]
 
 1. melléklet az 1600/2012. (XII. 17.) Korm. határozathoz
 
@@ -109,3 +109,5 @@ A 2014–2020 közötti európai uniós források felhasználását biztosító 
 | Koordinációs OP (KOP) | KA | ME | ME |
 
 | „Vidékfejlesztés, halászat” OP | EMVA, ETHA | VM | VM |
+
+[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
