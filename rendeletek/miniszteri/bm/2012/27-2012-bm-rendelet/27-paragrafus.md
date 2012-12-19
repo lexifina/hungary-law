@@ -30,4 +30,9 @@ használható fel.
 
 (2) A költségvetési támogatás előfinanszírozás vagy utófinanszírozás útján kerül rendelkezésre bocsátásra. Utófinanszírozás esetén előleg adása lehetséges.
 
-(3) A támogatási előirányzat előirányzat-átcsoportosítással, a bevétel átutalással kerül a BM OKF részére átadásra.
+(3)[^4] Az előirányzat – a (4) bekezdésben meghatározott kivétellel – a BM OKF részére előirányzat-átcsoportosítással kerül átadásra. Az előirányzat e bekezdés alapján átadásra kerülő része az önkéntes tűzoltó egyesületek (1) bekezdés a) pontja szerinti támogatására fordítható.
+
+(4)[^5] Az önkéntes mentőszervezetek részére az (1) bekezdés b) pontja alapján nyújtható támogatásokra vonatkozó pályázatok kiírásával, a támogatási szerződések megkötésével és a beszámolók elfogadásával kapcsolatos feladatokat – az előirányzatból az (1) bekezdés b) pontjában meghatározott célokra felhasználható 47,1 millió forint tekintetében – az előirányzat lebonyolító szerveként a BM OKF végzi.
+
+[^4]: A 27. § (3) bekezdése a 75/2012. (XII. 18.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 27. § (4) bekezdését a 75/2012. (XII. 18.) BM rendelet 2. § (2) bekezdése iktatta be.

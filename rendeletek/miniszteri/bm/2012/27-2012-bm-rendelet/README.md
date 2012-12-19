@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-27-20-0
 | --- | --- | --- |
 | 2012-05-31 | 2012-27-20-0A.1 | 27/2012. (V. 30.) BM rendelet |
 | 2012-06-01 | 2012-27-20-0A.2 | 2010: CXXX. törvény |
+| 2012-12-19 | 2012-27-20-0A.3 | 75/2012. (XII. 18.) BM rendelet |

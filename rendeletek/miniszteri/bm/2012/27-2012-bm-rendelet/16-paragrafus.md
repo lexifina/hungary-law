@@ -1,3 +1,5 @@
+## 15. §[^3]
+
 ## 8. Európai Uniós és nemzetközi projektek/programok megvalósításához kapcsolódó kiadások (20/1/27)
 
 16. § (1) Az előirányzat egyedi jóváhagyás alapján felhasználható
@@ -19,3 +21,5 @@ d) az Európai Migrációs Hálózat önrésze és az el nem számolható tétel
 (5) A jóváhagyott előirányzat terhére támogatási kérelem alapján, egyedi elbírálást követően kerül sor az előirányzat felhasználására. A költségvetési támogatás előfinanszírozás vagy utófinanszírozás útján kerül rendelkezésre bocsátásra. Utófinanszírozás esetén előleg nyújtása lehetséges.
 
 (6) A költségvetési támogatás rendelkezésre bocsátása közvetlen kifizetéssel vagy előirányzat-átcsoportosítással történik.
+
+[^3]: A 15. §-t a 75/2012. (XII. 18.) BM rendelet 4. § c) pontja hatályon kívül helyezte.
