@@ -24,4 +24,6 @@ c) a 4. § f) pontjában meghatározott feltétel tekintetében az egyenlő bán
 
 a) a belügyminiszter irányítása alá tartozó rendvédelmi szervek (a rendőrség, a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet) és a polgári nemzetbiztonsági szolgálatok esetében a Belügyminisztérium,
 
-b) a honvédelmi ágazathoz külön jogszabály alapján tartozó munkáltató esetében a Honvédelmi Minisztérium,
+b)[^8] a külön jogszabályban meghatározott honvédelmi foglalkoztatók esetében a Honvédelmi Minisztérium Hatósági Hivatal által kiállított igazolás szolgál.
+
+[^8]: A 11. § (3) bekezdés b) pontja a 35/2012. (XII. 14.) NGM rendelet 4. § (3) bekezdésével megállapított szöveg.
