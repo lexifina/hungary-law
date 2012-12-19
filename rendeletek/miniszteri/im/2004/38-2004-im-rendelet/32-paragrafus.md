@@ -1,1 +1,0 @@
-## 31. § A hozzájárulás feltételeinek fennállását a bv. szerv illetékes szervezeti egysége a 27. § (3) bekezdés a) pontja vonatkozásában a dolgozó nyilatkozata alapján, a b)–e) pontjai vonatkozásában a személyügyi nyilvántartás alapján állapítja meg.
