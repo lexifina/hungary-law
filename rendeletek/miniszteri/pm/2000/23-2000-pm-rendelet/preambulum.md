@@ -1,1 +1,0 @@
-A szabálysértésekről szóló 1999. évi LXIX. törvény (a továbbiakban: Sztv.) 167. §-ának (4) bekezdésében kapott felhatalmazás alapján a pénzügyi szabálysértések felderítésének és elbírálásának végrehajtására az alábbiakat rendelem el:

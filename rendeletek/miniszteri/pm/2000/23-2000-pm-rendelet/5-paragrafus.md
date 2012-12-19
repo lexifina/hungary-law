@@ -1,3 +1,0 @@
-5. § (1) Helyszíni szemlét a szabálysértési hatóságnak akkor kell tartania, ha azt az elkövetés módját befolyásoló körülmények rekonstruálása, események megfigyelése, továbbá az ügy eldöntése szempontjából lényeges egyéb körülmények tisztázása érdekében bizonyítási eszközök feltalálása, feltárása szükségessé teszi.
-
-(2) A szemlét határozattal kell elrendelni. A szemle megtartásának idejéről és helyéről az eljárás alá vont személyt értesíteni kell. Amennyiben az előzetes értesítés az eljárás eredményességét veszélyeztetné, úgy a cselekmény megkezdésével egyidejűleg kell az értesítést az érintettel közölni.
