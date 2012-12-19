@@ -1,0 +1,80 @@
+# A Kormány 376/2012. (XII. 19.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 174. szám, 2012. december 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/f88d48aa69ea862536b296b0be6cd1d31b41b593/dokumentumok/18aafd5f4034b055dbc14fddde26d6d9947aa542/letoltes)
+
+---
+
+A Kormány 376/2012. (XII. 19.) Korm. rendelete
+az egészségügyi szolgáltatók gyógyszerrendelésének és kiszolgáltatásának értékeléséről,
+valamint a háziorvosi és a gyógyszertári érdekeltségi rendszer kialakításáról szóló
+364/2010. (XII. 30.) Korm. rendelet módosításáról
+A Kormánya biztonságosés gazdaságosgyógyszer- és gyógyászatisegédeszköz-ellátás,valaminta gyógyszerforgalmazásáltalános
+szabályairól szóló 2006. évi XCVIII. törvény 77. § (1) bekezdés h) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § Az egészségügyi szolgáltatók gyógyszerrendelésének és kiszolgáltatásának értékeléséről, valamint a háziorvosi és
+a gyógyszertári érdekeltségi rendszer kialakításáról szóló 364/2010. (XII. 30.) Korm. rendelet (a továbbiakban:
+364/2010. Korm. rendelet) a következő 8/A. §-sal egészül ki:
+„8/A. § (1) A gyógyszertár a Gyftv. 44/B. §-ában foglaltak alapján az Egészségbiztosítási Alap fejezet
+2. Egészségbiztosítási ellátások kiadásai cím, 4. Egészségbiztosítás egyéb kiadásai alcím, 4. Egyéb, ellátásokhoz
+kapcsolódó kiadások jogcímcsoport, 8. Gyógyszertárak szolgáltatási díja jogcím előirányzata (e § tekintetében
+a továbbiakban: előirányzat) terhére a vényköteles gyógyszerek kiváltásához kapcsolódó gyógyszerbiztonsági
+ellenőrzésért és a magisztrális gyógyszerkészítéshez kapcsolódó gyógyszerbiztonsági ellenőrzésért a (2) és a
+(3) bekezdésben meghatározott szolgáltatási díjban részesül.
+(2) A vényköteles gyógyszerek kiváltásához kapcsolódó gyógyszerbiztonsági ellenőrzésért járó szolgáltatási díjat
+a támogatásban részesülő gyógyszer kiváltására szolgáló vények száma alapján kell meghatározni. A gyógyszertár
+az adott hónapban kiszolgáltatott támogatott vények számának függvényében az 1. mellékletben – az adott évre
+vonatkozóan – meghatározott összegű vényköteles gyógyszerek kiváltásához kapcsolódó gyógyszerbiztonsági
+ellenőrzésen alapuló szolgáltatási díjra jogosult vényenként. A vényköteles gyógyszerek kiváltásához kapcsolódó
+gyógyszerbiztonsági ellenőrzésen alapuló szolgáltatási díj értéke a vényszám emelkedésével sávosan csökken.
+(3) A magisztrális gyógyszerkészítéshez kapcsolódó gyógyszerbiztonsági ellenőrzésért járó szolgáltatási díjat
+a támogatásban részesülő, magisztrális gyógyszerkészítési tevékenységet igénylő gyógyszer kiváltására szolgáló
+vények száma alapján kell meghatározni. A gyógyszertár az adott hónapban kiszolgáltatott magisztrális
+gyógyszerkészítési tevékenységet igénylő vények számának függvényében a 2. mellékletben – az adott évre
+vonatkozóan – meghatározott összegű magisztrális gyógyszerkészítéshez kapcsolódó gyógyszerbiztonsági
+ellenőrzésen alapuló szolgáltatási díjra jogosult vényenként.
+(4) A (2) és a (3) bekezdésben foglalt szolgáltatási díjak kifizetéséről január–október hónapok vonatkozásában
+a tárgyhót követő hónap 20. napjáig az OEP gondoskodik havonta.
+(5) A (2) és a (3) bekezdésben foglalt szolgáltatási díjak kifizetéséről november–december hónapok vonatkozásában
+december hó 20. napjáig az OEP úgy gondoskodik, hogy november hónap tekintetében az 1. mellékletben
+és a 2. mellékletben meghatározott összegű díjakat veszi figyelembe, míg december hónap vonatkozásában
+a január–novemberi hónapokra teljesített kifizetések arányait figyelembe véve az előirányzaton még rendelkezésre
+álló összeg kerül kiosztásra.
+(6) A Kormány a (2) és a (3) bekezdés szerinti, az 1. mellékletben és a 2. mellékletben meghatározott szolgáltatási
+díjakat évente, az adott évre vonatkozó központi költségvetésről szóló törvényben erre a célra meghatározott összeg
+függvényében rendeletben állapítja meg.
+(7) A rendelkezésre álló előirányzatot figyelembe véve a Kormány a (2) és a (3) bekezdés szerinti, az 1. mellékletben
+és a 2. mellékletben meghatározott, a tárgyévre vonatkozó szolgáltatási díjakat a tárgyév június 30-áig, illetve
+a tárgyév szeptember 30-áig felülvizsgálja, és amennyiben az előirányzat betarthatósága érdekében a szolgáltatási
+díjak módosítása szükséges, úgy azoknak a tárgyévben még nem teljesített kifizetésekre vonatkozó értékeit
+rendeletben állapítja meg.”
+2. § (1) A 364/2010. Korm. rendelet az 1. melléklet szerinti 1. melléklettel egészül ki.
+(2) A 364/2010. Korm. rendelet a 2. melléklet szerinti 2. melléklettel egészül ki.
+3. § Ez a rendelet 2013. január 1-jén lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök
+
+1. melléklet a 376/2012. (XII. 19.) Korm. rendelethez
+„1. melléklet a 364/2010. (XII. 30.) Korm. rendelethez
+Gyógyszertárak részére juttatandó, vényköteles gyógyszerek kiváltásához kapcsolódó
+gyógyszerbiztonsági ellenőrzésen alapuló szolgáltatási díj értéke
+A gyógyszertárak részére juttatandó, vényköteles gyógyszerek kiváltásához kapcsolódó gyógyszerbiztonsági
+ellenőrzésen alapuló szolgáltatási díj vényszám emelkedésével sávosan csökkenő értéke 2013. évre vonatkozóan:
+A B C D E
+1. Támogatásban részesülő, adott sávba
+tartozó kiszolgáltatott vények száma
+(db)
+0–2 000 2 001–5 000 5 001–10 000 >10 000
+2. Vényköteles gyógyszerek kiváltásához
+kapcsolódó gyógyszerbiztonsági
+ellenőrzés szolgáltatási díja/vény
+40 Ft 20 Ft 10 Ft 0 Ft
+”
+2. melléklet a 376/2012. (XII. 19.) Korm. rendelethez
+„2. melléklet a 364/2010. (XII. 30.) Korm. rendelethez
+Gyógyszertárak részére juttatandó, magisztrális gyógyszerkészítéshez kapcsolódó
+gyógyszerbiztonsági ellenőrzés szolgáltatási díjának értéke
+A gyógyszertárak részére juttatandó, magisztrális gyógyszerkészítéshez kapcsolódó gyógyszerbiztonsági ellenőrzés
+szolgáltatási díjának értéke 2013. évre vonatkozóan:
+A B
+1. Magisztrális gyógyszerbiztonsági ellenőrzés szolgáltatási díja/vény 90 Ft
+”
