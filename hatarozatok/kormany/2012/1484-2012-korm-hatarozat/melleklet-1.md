@@ -1,6 +1,6 @@
 ## 1. jóváhagyja
 
-## a) a Közép-Magyarországi Operatív Program 4. prioritás nemzeti társfinanszírozási keretének 2 000 000 000 Ft-tal történő megnövelését, biztosítva, hogy a nemzeti társfinanszírozási rész megemelésével az operatív program eredeti keretének tervezett felhasználása ne módosuljon,
+## a)[^2] a Közép-Magyarországi Operatív Program 4. prioritás keretének 2 Mrd Ft-tal történő megnövelését, a keretemelésen belül az uniós társfinanszírozási rész mértéke 1,797 Mrd Ft, a hazai társfinanszírozási rész mértéke 0,203 Mrd Ft, amely a KMOP-4.2.1/A_1-2008-0002 azonosító számú „Liszt Ferenc Zeneakadémiája, az európai felsőfokú zenei oktatás megújuló központja Budapesten” című kiemelt projekt fedezetére szolgál.
 
 ## b) a Közép-Magyarországi Operatív Program 4. prioritása nemzeti társfinanszírozási rész az a) alpontban foglaltak alapján a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 15. § (1) bekezdés s) pontjában foglalt arányt – a Nemzeti Fejlesztési Kormánybizottság előzetes egyetértésével – meghaladja,
 
@@ -39,3 +39,5 @@
 | KMOP | KMOP-4.2.1/A_ 1-2008-0002 | Liszt Ferenc Zeneművészeti Egyetem | Liszt Ferenc Zeneakadémiája, az európai felsőfokú zenei oktatás megújuló központja Budapesten | A fejlesztés középpontjában a Liszt Ferenc tér 8. sz. alatti épület teljes rekonstrukciója, korszerűsítése áll, valamint az Egyetem által nyújtott szolgáltatások színvonalának javítása. A másik helyszín a Wesselényi utca 52. sz. alatti épület, amelynek korszerűsítésével és bővítésével az Egyetem modern, hallgatóbarát, szolgáltatásközpontú terekkel bővült, szervesen kiegészítve a Liszt F. téri épület tradicionális tereit, egyúttal lehetővé téve azok minőségi fejlesztését. A projekt keretében korszerűsített épületek összterülete: 16 263,73 m2. Az Egyetem jelentős hangszerállományának megújítása szintén a projekt keretében tervezett. A hangszerbeszerzési program az Egyetem valamennyi képzési helyére, képzési formájára közvetlenül kihat. A projekt részeként egy pedagógiai-művészeti programfejlesztés járul hozzá a hazai zenei oktatás újra a nemzetközi élvonalba emeléséhez. | 10 032 848 448 | 1 136 166 977 | 11 829 398 648 | 1 339 616 777 | 1 796 550 200 | 203 449 800 |
 
 | Összesen: | 11 169 015 425 | 13 169 015 425 | 2 000 000 000 |
+
+[^2]: Az 1. pont a) alpontja a 1648/2012. (XII. 19.) Korm. határozat 6. pont b) pontjával megállapított szöveg.
