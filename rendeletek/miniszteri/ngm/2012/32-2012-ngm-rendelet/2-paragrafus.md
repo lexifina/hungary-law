@@ -1,0 +1,1 @@
+## 1. § A rendelet hatálya a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvényben a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) hatáskörébe utalt szabálysértések (a továbbiakban: vámszabálysértések) felderítése és elbírálása során a NAV vámszerveire terjed ki.

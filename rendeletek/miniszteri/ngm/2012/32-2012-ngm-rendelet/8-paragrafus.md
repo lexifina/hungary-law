@@ -1,0 +1,1 @@
+## 7. § A vámszabálysértések gyanúja vagy észlelése esetén a NAV hivatásos szolgálati jogviszonyban álló tagja a jogsértés megszüntetése, mértékének felderítése és a bizonyítékok biztosítása érdekében köteles a szükséges intézkedéseket megtenni.
