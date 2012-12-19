@@ -1,3 +1,5 @@
+## 15. §[^1]
+
 ## Étkezési hozzájárulás
 
 16. § (1) A közalkalmazotti állomány tagja étkezési hozzájárulásra jogosult. Az étkezési hozzájárulás – a főigazgató döntése alapján – étkezési utalvány vagy kedvezményes melegétkeztetés formájában biztosítható.
@@ -17,3 +19,5 @@ d) a közalkalmazotti jogviszony megszűnéséhez kapcsolódó felmentési idő 
 (4) A közalkalmazott részére étkezési utalvány nem jár, ha a Szolgálat kedvezményes melegétkeztetést biztosít.
 
 (5) A hozzájárulás mértékét a főigazgató határozza meg.
+
+[^1]: A 15. §-t a 75/2012. (XII. 18.) BM rendelet 4. § b) pontja hatályon kívül helyezte.
