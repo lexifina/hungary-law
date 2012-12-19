@@ -6,13 +6,7 @@
 
 ## Határidő: azonnal
 
-## 2. A 2012. évi költségvetési egyenleg tartását biztosító intézkedésekről szóló 1428/2012. (X. 28.) Korm. határozat (a továbbiakban: H.) 1. melléklete helyébe – figyelemmel a folyó évi hiány alakulására – az 1. melléklet lép.
-
-## Felelős: nemzetgazdasági miniszter,
-
-## fejezetet irányító szervek vezetői
-
-## Határidő: azonnal
+## 2.[^2]
 
 ## 3. A Kormány az Áht. 40. §-ában kapott felhatalmazás alapján a H. 1., 4. és 6. pontjában előírt zárolás csökkentésre változtatását rendeli el.
 
@@ -22,40 +16,10 @@
 
 ## Határidő: 2012. december 27.
 
-## 4. Hatályát veszti a H. 9. és 10. pontja.
+## 4.[^3]
 
-1. melléklet az 1635/2012. (XII. 18.) Korm. határozathoz
+1. melléklet az 1635/2012. (XII. 18.) Korm. határozathoz[^4]
 
-„1. melléklet az 1428/2012. (X. 8.) Korm. határozathoz
-
-millió forintban
-
-| Fejezet | Zárolási kötelezettség |
-
-| Közigazgatási és Igazságügyi Minisztérium | 2 629,6 |
-
-| Miniszterelnökség | 832,2 |
-
-| Kormányzati Ellenőrzési Hivatal | 0,0 |
-
-| Vidékfejlesztési Minisztérium | 1 000,0 |
-
-| Honvédelmi Minisztérium | 769,5 |
-
-| Belügyminisztérium | 2 449,4 |
-
-| Nemzetgazdasági Minisztérium | 1 556,0 |
-
-| Nemzeti Fejlesztési Minisztérium | 6 427,4 |
-
-| Külügyminisztérium | 1 043,0 |
-
-| Uniós fejlesztések | 3 002,6 |
-
-| Emberi Erőforrások Minisztériuma | 12 237,4 |
-
-| Központi Statisztikai Hivatal | 101,5 |
-
-| Összesen | 32 048,6 |
-
-”
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
