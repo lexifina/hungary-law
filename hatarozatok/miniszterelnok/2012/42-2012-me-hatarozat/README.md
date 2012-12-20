@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-42-30-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-04-21 | 2012-42-30-63.1 | 42/2012. (IV. 21.) ME határozat |
+| 2012-12-20 | 2012-42-30-63.2 | 151/2012. (XII. 20.) ME határozat |

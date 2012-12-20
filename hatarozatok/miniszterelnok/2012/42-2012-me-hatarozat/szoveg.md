@@ -4,4 +4,6 @@ A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. t
 
 2. felhívom a külügyminisztert, hogy a szerződés szövege végleges megállapításához szükséges meghatalmazási okiratot adja ki;
 
-3. felhívom a külügyminisztert és a közigazgatási és igazságügyi minisztert, hogy a szerződés kihirdetéséről szóló kormányrendelet tervezetét a szerződés szövegének végleges megállapítását követően haladéktalanul terjessze a Kormány elé.
+3.[^1]
+
+[^1]: A 3. pontot a miniszterelnök a 151/2012. (XII. 20.) ME határozatának 1. pontjával visszavonta.
