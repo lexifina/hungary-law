@@ -26,8 +26,11 @@ e) a kereslet az öntözővíz igénybevételére minimum 5 éves időszakra iga
 
 (6) Ha a vízkivételnek a felszín alatti vízviszonyokban várhatóan mérhető hatása jelentkezik az öntözött területen kívül, monitoringról kell gondoskodni.
 
+(7)[^19] Az engedélyesnek az öntözésre igénybevett vízmennyiség mérését – a 60/B. § (2) bekezdésben foglalt eltéréssel – 2014. január 1-jétől összegző vízmérővel kell biztosítania.
+
 [^14]: A 60. § (1) bekezdés nyitó szövegrésze a 290/2012. (X. 15.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^15]: A 60. § (1a) bekezdését a 290/2012. (X. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^16]: Lásd a 269/2007. (X. 18.) Korm. rendeletet.
 [^17]: A 60. § (1b) bekezdését a 290/2012. (X. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^18]: A 60. § (3) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 60. § (7) bekezdését a 400/2012. (XII. 20.) Korm. rendelet 1. §-a iktatta be.

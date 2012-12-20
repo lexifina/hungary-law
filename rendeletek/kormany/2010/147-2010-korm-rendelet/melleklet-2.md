@@ -1,5 +1,3 @@
-## A vizeknek és vízilétesítményeknek más, nyomvonal jellegű építménnyel történő keresztezésére és megközelítésére vonatkozó részletes szabályok
-
 ## 1. Általános előírások
 
 ## 1.1. Biztonsági előírások
@@ -440,6 +438,6 @@
 
 ## 9.3.6 Száraz talajban vezetett ivóvizet szállító nyomóvezeték esetén, ha az előírt távolságok betartása valamilyen ok miatt nem lehetséges, a távolság csökkenthető, de az egyéb vezetéket az érintett szakaszon védőcsőben kell vezetni.
 
-2. melléklet a 147/2010. (IV. 29.) Korm. rendelethez[^31]
+2. melléklet a 147/2010. (IV. 29.) Korm. rendelethez[^34]
 
-[^31]: A 2. mellékletet a 83. § (1) bekezdése hatályon kívül helyezte.
+[^34]: A 2. mellékletet a 83. § (1) bekezdése hatályon kívül helyezte.
