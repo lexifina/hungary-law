@@ -1,0 +1,9 @@
+## 25. § A végelszámolás számviteli feladatairól szóló 72/2006. (IV. 3.) Korm. rendelet (a továbbiakban: Vszkr.) 6. § (3)–(5) bekezdése helyébe a következő rendelkezések lépnek, és a 6. § a következő (6) bekezdéssel egészül ki:
+
+## „(3) Amennyiben a gazdálkodó a végelszámolást három éven belül nem fejezte be és a cégbíróság kényszertörlési eljárás megindítását rendelte el, a végelszámoló a kényszertörlési eljárás kezdő időpontját megelőző nappal – mint mérlegfordulónappal – köteles a számviteli törvény 11. § (12) bekezdése szerinti üzleti évről az 5. § (1) és (2) bekezdése szerinti számviteli beszámolót elkészíteni, kötelező könyvvizsgálat esetén azt könyvvizsgálóval ellenőriztetni. Az így elkészült számviteli beszámolót nem kell a jóváhagyásra jogosult testületnek elfogadnia.
+
+## (4) Az (1), illetve a (2) és (3) bekezdés szerinti – a végelszámolást lezáró – számviteli beszámolót a végelszámoló a végelszámolás megszüntetésének időpontját – mint mérlegfordulónapot – követő ötödik hónap utolsó napjáig, illetve a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző napot – mint mérlegfordulónapot – követő 45 napon belül a számviteli törvény 153–154/B. §-a, valamint a vonatkozó számviteli kormányrendelet előírásai szerint köteles letétbe helyezni és közzétenni.
+
+## (5) A végelszámoló a végelszámolás megszüntetésének időpontjával, illetve a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal köteles a könyvviteli nyilvántartásokat lezárni, azokat a gazdálkodó kijelölt tisztségviselőjének, illetve a felszámolónak az (1) és (3), illetve a (2) bekezdés szerinti számviteli beszámolóval együtt átadni.
+
+## (6) A tevékenységét, működését továbbfolytató, valamint a felszámolás alá, illetve a kényszertörlési eljárás alá került gazdálkodó a végelszámolótól átvett számviteli beszámoló mérlege (az azt alátámasztó leltár) alapján nyitja meg könyvviteli nyilvántartásait.”
