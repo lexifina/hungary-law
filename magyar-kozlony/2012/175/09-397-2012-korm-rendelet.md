@@ -1,0 +1,369 @@
+# A Kormány 397/2012. (XII. 20.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 175. szám, 2012. december 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/36815bccb2ffd8681da59d684e069e18ac4b9e36/dokumentumok/4591674902ca223e4720b5901be908b945eb38dc/letoltes)
+
+---
+
+A Kormány 397/2012. (XII. 20.) Korm. rendelete
+egyes pénzügyi tárgyú kormányrendeletek módosításáról
+A Kormány a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 235. § (1) bekezdés k) pontjában kapott
+felhatalmazás alapján,
+a 2. alcím tekintetében a befektetési vállalkozásokrólés az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek
+szabályairól szóló 2007. évi CXXXVIII. törvény 180. § (1) bekezdés g) pontjában kapott felhatalmazás alapján,
+a 3. alcím tekintetében a hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 235. § (1) bekezdésének
+a) pontjában kapott felhatalmazás alapján,
+a 4. alcím tekintetében a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény 152. §
+(1) bekezdés b) pontjában kapott felhatalmazás alapján
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva, a következőket rendeli el:
+1. A hitelintézetek nyilvánosságra hozatali követelményének teljesítéséről szóló
+234/2007. (IX. 4.) Korm. rendelet módosítása
+1. § A hitelintézetek nyilvánosságra hozatali követelményének teljesítéséről szóló 234/2007. (IX. 4.) Korm. rendelet
+(a továbbiakban: Nykr.) 13. §-a helyébe a következő rendelkezés lép:
+„13. § (1) Kereskedési könyvet vezető hitelintézetnek külön-külön nyilvánosságra kell hoznia a Hpt. 76. § (1) bekezdés
+a) pont 2. és 3. alpontja szerint számított, a partnerkockázat miatt felmerülő, valamint az értékpapírosítási pozíciók
+egyedi kamatlábkockázataira vonatkozó tőkekövetelményét.
+(2) Ha a hitelintézet a kereskedési könyvben nyilvántartott partnerkockázat, pozíciókockázat, valamint a tevékenység
+egészében meglévő devizaárfolyam kockázat és árukockázat tőkekövetelményét belső modell alapján számítja ki,
+nyilvánosságra hozza
+a) az egyes részportfóliók esetén
+aa) az alkalmazott modellek tulajdonságait,
+ab) a kereskedési könyvben nyilvántartott pozíciók, kockázatvállalások, a devizaárfolyam kockázat és nagykockázatok
+fedezetéhez szükséges tőkekövetelmény megállapításának szabályairól és a kereskedési könyv vezetésének részletes
+szabályairól szóló 244/2000. (XII. 24.) Korm. rendelet (a továbbiakban: Kkr.) 43. § (9a) bekezdésében és 14. számú
+melléklet 10. pontjában foglaltaknak megfelelő módszertant és belső modell által mért kockázatokat,
+ac) a részportfólióra alkalmazott stresszteszt leírását,
+ad) a belső modell és a modellezési folyamat következetességének és pontosságának utótesztelésére és
+jóváhagyására alkalmazott módszer leírását;
+b) a belső modell Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) általi engedélyezésének
+tényét;
+c) a Kkr. 13. számú mellékletében foglaltaknak való megfelelés mértékének és módszereinek leírását;
+d) az alábbiak legmagasabb, legalacsonyabb értékét, valamint átlagát,
+da) a napi kockáztatott érték a tárgyidőszakban, valamint a tárgyidőszak végén,
+db) a stresszhelyzeti kockáztatott érték a tárgyidőszakban, valamint a tárgyidőszak végén,
+dc) a Kkr. 43. § (9a) bekezdésével és 14. számú melléklet 10. pontjával összhangban megállapított tőkekövetelmény
+a tárgyidőszakban, valamint a tárgyidőszak végén;
+e) a Kkr. 43. § (9a) bekezdésének és 14. számú melléklet 10. pontjának megfelelő tőkét és az egyes részportfóliókra
+vonatkozó súlyozott átlagos likviditási horizontot;
+f) a nap végi kockáztatott érték módszer szerint mért érték összehasonlítását a portfólió értékének a következő
+munkanap végéig bekövetkezett egynapi változásával a tárgyidőszakban feljegyzett fontos túllépések elemzésével
+együtt.”
+2. § Az Nykr. 15/A. §-a helyébe a következő rendelkezés lép:
+„15/A. § (1) Értékpapírosításra tőkekövetelményt számító hitelintézetnek nyilvánosságra kell hoznia
+a) az értékpapírosítási ügyleteinek értékelésére és kezelésére szolgáló szabályzatok fő elveit;
+b) az értékpapírosított eszközökben rejlő likviditási és egyéb kockázatok jellegét;
+c) az újraértékpapírosítás során átvett és megtartott, az alapul szolgáló értékpapírosítási pozíciók veszteségviselési
+rangsorolásából és az ezen pozícióknak alapul szolgáló követelésekből adódó kockázatok jellegét;
+
+d) az értékpapírosítási ügyletben betöltött szerepét és ennek mértékét;
+e) az értékpapírosítási kitettségek hitel- és piaci kockázatai tekintetében bekövetkező változások monitorozásához
+használt eljárások leírását, beleértve az alapul szolgáló eszközök értékpapírosítási kitettségekre gyakorolt hatását,
+és annak leírását, hogy ezek a folyamatok mennyire térnek el az újraértékpapírosítási kitettségek esetén;
+f) azon előírások leírását, amelyek a megtartott értékpapírosítási és újraértékpapírosítási kitettségek kockázatainak
+mérséklését célzó fedezeti ügylet és az előre nem rendelkezésre bocsátott fedezet használatára vonatkoznak,
+beleértve a lényeges fedezeti ügylet partnerek – a kockázati kitettség típusai szerinti – azonosítását;
+g) az értékpapírosítási ügylet kockázattal súlyozott kitettség értékének meghatározására alkalmazott módszereket,
+beleértve az értékpapírosítási kockázatok típusait, amelyekre az egyes módszerek alkalmazandók;
+h) a hitelintézet, mint szponzor által harmadik fél kitettségének értékpapírosításához használt különleges célú
+gazdasági egység (a továbbiakban: KCGE) típusait;
+i) az értékpapírosítási ügylet elszámolására vonatkozó számviteli politikájának fő elveit, ideértve
+ia) az értékelési módszertant, az értékpapírosításra váró eszközök értékelésére és ezek nyilvántartására vonatkozó
+előírásokkal együtt,
+ib) az elszámolásra vonatkozó szabályokat,
+ic) a hagyományos és a szintetikus értékpapírosítás elhatárolására és kezelésére vonatkozó szabályokat,
+id) az olyan kötelezettségeknek a mérlegben való megjelenítésére vonatkozó előírást, amelyek a hitelintézetet arra
+kötelezhetik, hogy értékpapírosított eszközökhöz pénzügyi segítséget nyújtson;
+j) az értékpapírosítási ügylet esetében alkalmazott elismert külső hitelminősítő szervezet nevét és azon kitettségek
+típusait, amelyekhez a hitelminősítő szervezeteket igénybe veszik;
+k) a hitelintézetek értékpapírosítási követelményéről szóló 380/2007. (XII. 23.) Korm. rendeletben szabályozott belső
+értékelési módszer alkalmazása esetén a módszer leírását;
+l) a kereskedési és a nem kereskedési könyvre elkülönítve a következő információkat kitettség típusok szerinti
+bontásban
+la) az általa értékpapírosított kitettségek teljes fennálló összegét hagyományos és szintetikus kategóriák szerinti
+bontásban, és azon értékpapírosítást, amely esetében a hitelintézet csak szponzorként jár el,
+lb) a mérlegen belüli megtartott vagy megvásárolt értékpapírosítási pozíciókat és a mérlegen kívüli értékpapírosítási
+kitettségek összesített összegét,
+lc) az értékpapírosításra váró eszközök összesített összegét,
+ld) a lejárat előtti visszafizetést biztosító rendelkezés alá tartozó értékpapírosítási ügyletek esetében az
+értékpapírosítást kezdeményező és a befektető részesedéseihez rendelt, igénybe vett kitettségeket, a hitelintézetnél
+felmerült összesített tőkekövetelményt az értékpapírosítást kezdeményező részesedései vonatkozásában, valamint
+a hitelintézetnél felmerült összesített tőkekövetelményt, a befektetői részesedés igénybevett és nem igénybevett
+részének vonatkozásában,
+le) a szavatoló tőkéből levont vagy 1250 %-os kockázati súly alá tartozó értékpapírosítási pozíciók összegét,
+lf) azadott időszakbanmegvalósultértékpapírosításiügyletek fő jellemzőit,azokösszegét,valamintazátruházásukból
+származó hasznot vagy veszteséget;
+m) a kereskedési és a nem kereskedési könyvre elkülönítve a következő információkat
+ma) a megtartott vagy megvásárolt értékpapírosítási pozíciók összesített összegét és a kapcsolódó
+tőkekövetelményeket, értékpapírosítási és újraértékpapírosítási kitettségekre – kockázati súly vagy tőkekövetelmény
+szerint – lebontva, az egyes alkalmazott tőkekövetelmény-módszerekre vonatkozóan,
+mb) a megtartott vagy megvásárolt értékpapírosítási kitettségek összesített összegét a fedezeti ügylet vagy biztosítás
+előtti és utáni kitettség szerinti bontásban, valamint a garancianyújtókkal szembeni kitettséget a garancianyújtókra
+vonatkozó hitelképességi kategóriák vagy a garancianyújtók neve szerinti bontásban;
+n) kitettség típusonként a nem kereskedési könyvre az általa értékpapírosított kitettségekre vonatkozóan a
+minőségromlástszenvedettéskésedelembeesett értékpapírosítotteszközökösszegétésazáltalaazadott időszakban
+megjelenített veszteségeket;
+o) kitettség típusonként a kereskedési könyvre vonatkozóan az általa értékpapírosított és a piaci kockázathoz
+kapcsolódó tőkekövetelmény alá tartozó fennálló kitettségek teljes összegét, hagyományos és szintetikus
+értékpapírosítás szerinti bontásban;
+p) az l)–o) pontokban foglalt mennyiségi közzétételek vonatkozásában az utolsó tárgyidőszak óta bekövetkezett
+jelentős változások magyarázatát.
+
+(2) Az (1) bekezdés h) pontjában meghatározott nyilvánosságra hozatal során, ha a hitelintézetnek a KCGE-vel
+szemben is kitettsége áll fenn, a nyilvánosságra hozatalnak tartalmaznia kell:
+a) amérlegbenfeltüntetett ésamérlegenkívülikitettségekvonatkozásábanakitettség formájátésmértékét,valamint
+b) a hitelintézet által irányított vagy az olyan vállalkozás megnevezését, amely számára a hitelintézet tanácsadást
+nyújt, ha a vállalkozás a hitelintézet által értékpapírosított értékpapírosítási pozíciókba vagy a hitelintézet által
+szponzorált KCGE-be fektet be.”
+3. § Az Nykr. a következő 18. §-sal egészül ki:
+„18. § E rendeletnek az egyes pénzügyi tárgyú kormányrendeletek módosításáról szóló 397/2012. (XII. 20.) Korm.
+rendelettel megállapított 13. §-át, valamint 15/A. §-át első alkalommal a 2012. évre vonatkozó nyilvánosságra hozatali
+követelmények teljesítésekor kell alkalmazni.”
+2. A befektetési vállalkozás kockázatvállalására és kockázatkezelésére vonatkozó információk
+nyilvánosságra hozataláról szóló 164/2008. (VI. 27.) Korm. rendelet módosítása
+4. § A befektetési vállalkozáskockázatvállalásáraés kockázatkezelésérevonatkozó információk nyilvánosságrahozataláról
+szóló 164/2008. (VI. 27.) Korm. rendelet (a továbbiakban: Bnykr.) 15. §-a helyébe a következő rendelkezés lép:
+„15. § (1) A befektetésivállalkozáskülön-különnyilvánosságrahozzaa kereskedésikönyvbennyilvántartott pozíciókés
+kockázatvállalások pozíciókockázattal, elszámolási és partnerkockázattal, nagykockázat-vállalással kapcsolatos
+tőkekövetelményt, a tevékenység egészében meglévő devizaárfolyam-kockázattal és árukockázattal kapcsolatos
+tőkekövetelményt,továbbáazértékpapírosításipozíciókegyedi kamatlábkockázatairavonatkozótőkekövetelményt.
+(2) Ha a befektetési vállalkozás a kereskedési könyvben nyilvántartott pozíciókockázat, valamint a tevékenység
+egészében meglévő devizaárfolyam kockázat és árukockázat tőkekövetelményét belső modell alapján számítja ki,
+nyilvánosságra hozza
+a) az egyes részportfóliók esetén
+aa) az alkalmazott modellek tulajdonságait,
+ab) a kereskedési könyvben nyilvántartott pozíciók, kockázatvállalások, a devizaárfolyam kockázat és nagykockázatok
+fedezetéhez szükséges tőkekövetelmény megállapításának szabályairól és a kereskedési könyv vezetésének részletes
+szabályairól szóló 244/2000. (XII. 24.) Korm. rendelet (a továbbiakban: Kkr.) 43. § (9a) bekezdésében és 14. számú
+melléklet 10. pontjában foglaltaknak megfelelő módszertant és belső modell által mért kockázatokat,
+ac) a részportfólióra alkalmazott stresszteszt leírását,
+ad) a belső modell és a modellezési folyamat következetességének és pontosságának utótesztelésére és
+jóváhagyására alkalmazott módszer leírását;
+b) a belső modell Felügyelet általi engedélyezésének tényét;
+c) a Kkr. 13. számú mellékletében foglaltaknak való megfelelés mértékének és módszereinek leírását;
+d) az alábbiak legmagasabb, legalacsonyabb értékét, valamint átlagát
+da) a napi kockáztatott érték a tárgyidőszakban, valamint a tárgyidőszak végén,
+db) a stresszhelyzeti kockáztatott érték a tárgyidőszakban, valamint a tárgyidőszak végén,
+dc) a Kkr. 43. § (9a) bekezdésével és 14. számú melléklet 10. pontjával összhangban megállapított tőkekövetelmény
+a tárgyidőszakban, valamint a tárgyidőszak végén;
+e) a Kkr. 43. § (9a) bekezdésének és 14. számú melléklet 10. pontjának megfelelő tőkét és az egyes részportfóliókra
+vonatkozó súlyozott átlagos likviditási horizontot;
+f) a nap végi kockáztatott érték módszer szerint mért érték összehasonlítását a portfólió értékének a következő
+munkanap végéig bekövetkezett egynapi változásával a tárgyidőszakban feljegyzett fontos túllépések elemzésével
+együtt.”
+5. § A Bnykr. 19. §-a helyébe a következő rendelkezés lép:
+„19. § (1) A befektetési vállalkozás az értékpapírosítással összefüggésben nyilvánosságra hozza
+a) az értékpapírosítási ügyleteinek értékelésére és kezelésére szolgáló szabályzatok fő elveit;
+b) az értékpapírosított eszközökben rejlő likviditási és egyéb kockázatok jellegét;
+c) az újraértékpapírosítás során átvett és megtartott, az alapul szolgáló értékpapírosítási pozíciók veszteségviselési
+rangsorolásából és az ezen pozícióknak alapul szolgáló követelésekből adódó kockázatok jellegét;
+d) az értékpapírosítási ügyletben betöltött különböző szerepeit és e szerepekben való részvételének mértékét;
+
+e) az értékpapírosítási kitettségek hitel- és piaci kockázatai tekintetében bekövetkező változások monitorozásához
+használt eljárások leírását, beleértve az alapul szolgáló eszközök értékpapírosítási kitettségekre gyakorolt hatását,
+és annak leírását, hogy ezek a folyamatok mennyire térnek el az újraértékpapírosítási kitettségek esetén;
+f) azon előírások leírását, amelyek a megtartott értékpapírosítási és újraértékpapírosítási kitettségek kockázatainak
+mérséklését célzó fedezeti ügylet és az előre nem rendelkezésre bocsátott fedezet használatára vonatkoznak,
+beleértve a lényeges fedezeti ügylet partnerek – a kockázati kitettség típusai szerinti – azonosítását;
+g) az értékpapírosítási ügylet kockázattal súlyozott kitettség értékének meghatározására alkalmazott módszereket,
+beleértve az értékpapírosítási kockázatok típusait, amelyekre az egyes módszerek alkalmazandók;
+h) a befektetési vállalkozás, mint szponzor által harmadik fél kitettségének értékpapírosításához használt különleges
+gazdasági célú egység (a továbbiakban: KCGE) típusait;
+i) az értékpapírosítási ügylet elszámolására vonatkozó számviteli politikájának fő elveit, ideértve
+ia) az értékelési módszertant, az értékpapírosításra váró eszközök értékelésére és ezek nyilvántartására vonatkozó
+előírásokkal együtt,
+ib) az elszámolásra vonatkozó szabályokat,
+ic) a hagyományos és a szintetikus értékpapírosítás elhatárolására és kezelésére vonatkozó szabályokat,
+id) az olyan kötelezettségeknek a mérlegben való megjelenítésére vonatkozó előírást, amelyek a befektetési
+vállalkozást arra kötelezhetik, hogy értékpapírosított eszközökhöz pénzügyi segítséget nyújtson;
+j) az értékpapírosítási ügylet esetében alkalmazott elismert külső hitelminősítő szervezet nevét és azon kitettségek
+típusait, amelyekhez a hitelminősítő szervezeteket igénybe veszik;
+k) a befektetési vállalkozás hitelkockázatáról szóló 301/2008. (XII. 17.) Korm. rendelet VI. fejezetében szabályozott
+belső értékelési módszer alkalmazása esetén a módszer leírását;
+l) a kereskedési és a nem kereskedési könyvre elkülönítve a következő információkat kitettség típusok szerinti
+bontásban
+la) az általa értékpapírosított kitettségek teljes fennálló összegét hagyományos és szintetikus kategóriák szerinti
+bontásban, és azon értékpapírosítást, amely esetében a befektetési vállalkozás csak szponzorként jár el,
+lb) a mérlegen belüli megtartott vagy megvásárolt értékpapírosítási pozíciókat és a mérlegen kívüli értékpapírosítási
+kitettségek összesített összegét,
+lc) az értékpapírosításra váró eszközök összesített összegét,
+ld) a lejárat előtti visszafizetést biztosító rendelkezés alá tartozó értékpapírosítási ügyletek esetében az
+eszközátruházó és a befektető részesedéseihez rendelt, igénybe vett kitettségeket, a befektetési vállalkozásnál
+felmerült összesített tőkekövetelményt az eszközátruházó részesedési vonatkozásában, valamint a befektetési
+vállalkozásnál felmerült összesített tőkekövetelményt, a befektetői részesedés igénybevett és nem igénybevett
+részének vonatkozásában,
+le) a szavatoló tőkéből levont vagy 1250%-os kockázati súly alá tartozó értékpapírosítási pozíciók összegét,
+lf) azadott időszakbanmegvalósultértékpapírosításiügyletek fő jellemzőit,azokösszegét,valamintazátruházásukból
+származó hasznot vagy veszteséget;
+m) a kereskedési és a nem kereskedési könyvre elkülönítve a következő információkat:
+ma) a megtartott vagy megvásárolt értékpapírosítási pozíciók összesített összegét és a kapcsolódó
+tőkekövetelményeket, értékpapírosítási és újraértékpapírosítási kitettségekre – kockázati súly vagy tőkekövetelmény
+szerint – lebontva, az egyes alkalmazott tőkekövetelmény-módszerekre vonatkozóan,
+mb) a megtartott vagy megvásárolt értékpapírosítási kitettségek összesített összegét a fedezeti ügylet vagy biztosítás
+előtti és utáni kitettség szerinti bontásban, valamint a garancianyújtókkal szembeni kitettséget a garancianyújtókra
+vonatkozó hitelképességi kategóriák vagy a garancianyújtók neve szerinti bontásban;
+n) kitettség típusonként a nem kereskedési könyvre az általa értékpapírosított kitettségekre vonatkozóan a
+minőségromlástszenvedettéskésedelembeesett értékpapírosítotteszközökösszegétésazáltalaazadott időszakban
+megjelenített veszteségeket;
+o) kitettség típusonként a kereskedési könyvre vonatkozóan az általa értékpapírosított és a piaci kockázathoz
+kapcsolódó tőkekövetelmény alá tartozó fennálló kitettségek teljes összegét, hagyományos és szintetikus
+értékpapírosítás szerinti bontásban;
+p) az l)–o) pontokban foglalt mennyiségi közzétételek vonatkozásában az utolsó tárgyidőszak óta bekövetkezett
+jelentős változások magyarázatát.
+(2) Az (1) bekezdés h) pontjában meghatározott nyilvánosságra hozatal során, ha a befektetési vállalkozásnak
+a KCGE-vel szemben is kitettsége áll fenn, a nyilvánosságra hozatalnak tartalmaznia kell:
+
+a) amérlegbenfeltüntetett ésamérlegenkívülikitettségekvonatkozásábanakitettség formájátésmértékét,valamint
+b) a befektetési vállalkozás által irányított vagy az olyan vállalkozás megnevezését, amely számára a befektetési
+vállalkozás tanácsadást nyújt, ha a vállalkozás a befektetési vállalkozás által értékpapírosított értékpapírosítási
+pozíciókba vagy a befektetési vállalkozás által szponzorált KCGE-be fektet be.”
+6. § A Bnykr. a következő 20/A. §-sal egészül ki:
+„20/A. § E rendeletnek az egyes pénzügyi tárgyú kormányrendeletek módosításáról szóló 397/2012. (XII. 20.) Korm.
+rendelettel megállapított 15. §-át, valamint 19. §-át első alkalommal a 2012. évre vonatkozó nyilvánosságra hozatali
+követelmények teljesítésekor kell alkalmazni.”
+7. § A Bnykr. 21. §-a helyébe a következő rendelkezés lép:
+„21. § Ez a rendelet a következő uniós jogi aktusnak való megfelelést szolgálja:
+a) a befektetési vállalkozások és hitelintézetek tőkemegfeleléséről szóló 2006. június 14-i 2006/49/EK európai
+parlamenti és tanácsi irányelv 39. cikke,
+b) a 2006/48/EK és a 2006/49/EK irányelvnek a kereskedési könyvre és az újraértékpapírosításra vonatkozó
+tőkekövetelmények, továbbá a javadalmazási politikák felügyeleti felülvizsgálata tekintetében történő módosításáról
+szóló 2010. november 24-i 2010/76/EU európai parlamenti és tanácsi irányelv.”
+3. A körültekintő lakossági hitelezés feltételeiről és a hitelképesség vizsgálatáról szóló
+361/2009. (XII. 30.) Korm. rendelet módosítása
+8. § (1) A körültekintő lakossági hitelezés feltételeiről és a hitelképesség vizsgálatáról szóló 361/2009. (XII. 30.) Korm. rendelet
+(a továbbiakban: Klhr.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) E rendelet rendelkezéseit kell alkalmazni a természetes személynek nyújtott pénzügyi lízingre azzal, hogy ahol
+e rendelet hitelt említ, ott pénzügyi lízinget, aholtörlesztőrészletetemlít, ott lízingdíjat,aholpedig hiteltartozástemlít,
+ott pénzügyi lízingszerződés alapján fennálló tartozást kell érteni, kivéve, ha e rendelet ettől eltérően rendelkezik.”
+(2) A Klhr. 1. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+[E rendelet hatálya nem terjed ki:]
+„b) a már fennállóhitellel,vagy felmondott hitel-, vagy kölcsönügyletbőleredő, esedékessévált tartozássalrendelkező
+természetes személy fizetőképességének biztosítása érdekében ugyanazon hitelnyújtónál, vagy azzal összevont
+alapú felügyelet hatálya alá tartozó bármely hitelnyújtónál történő új hitel nyújtására, ha az további eladósodottságot
+csak a fizetőképesség helyreállításával indokolt mértékig eredményez;”
+(3) A Klhr. 1. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) A (3) bekezdés alkalmazásábana fizetőképesség helyreállításával indokolt mértékű hitelnyújtásnak minősül az is,
+ha a hitelnyújtó az ingatlanra bejegyzett végrehajtási jog vagy jelzálogjog jogosultja követelésének kielégítése
+érdekében nyújtja az új hitelt.”
+(4) A Klhr. 1. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) E rendelet hatálya – a 4. § (1) és (2) bekezdésében meghatározott belső szabályzati korlátok alkalmazásának
+kivételével – nem terjed ki a hatálybalépésekor fennálló hitelek más hitellel, vagy pénzügyi lízinggel történő
+kiváltására, ha
+a) ezáltal a hiteltartozás összege nem növekszik a kiváltott hitel, illetve hitelek együttes összegét meghaladó
+mértékben, és
+b) az új hitel
+ba) forinthitel,
+bb)kizárólageuróhitel,euróalapúhitel,havalamennyieredeti hiteleuróalapúhitel,euróhitelvagymásdevizahitel,
+bc) kizárólag svájci frank hitel vagy svájci frank alapú hitel, ha valamennyi eredeti hitel svájci frank hitel vagy svájci
+frank alapú hitel.”
+9. § A Klhr. a következő 10/B. §-sal egészül ki:
+„10/B. § E rendeletnek az egyes pénzügyi tárgyú kormányrendeletek módosításáról szóló 397/2012. (XII. 20.)
+Korm. rendelettel (a továbbiakban: R3.) megállapított 1. § (2) bekezdését, 1. § (3) bekezdés b) pontját, 1. §
+(3a) bekezdését valamint 1. § (6) bekezdését az R3. hatálybalépését megelőzően befogadott és el nem bírált,
+valamint az R3. hatálybalépését követően befogadott hitelkérelem tekintetében kell alkalmazni.”
+
+4. A befektetési alapok befektetési és hitelfelvételi szabályairól szóló
+345/2011. (XII. 29.) Korm. rendelet módosítása
+10. § A befektetési alapok befektetési és hitelfelvételi szabályairól szóló 345/2011. (XII. 29.) Korm. rendelet (a továbbiakban:
+Babszr.) 24. § (1) bekezdésének felvezető szövege helyébe a következő rendelkezés lép:
+„24. § (1) Az olyan befektetési alap esetében, amely befektetési politikájában valamely index vagy indexek
+meghatározott arányú együttesének leképezésére vállalkozott, az index kosarát alkotó eszközökre vonatkozóan nem
+kell alkalmazni az adott eszközök tekintetében meghatározott befektetési korlátokat, amennyiben
+a) az index valamely szabályozott piac által meghirdetett index;
+b) a befektetési alap nevében szerepel az „indexkövető befektetési alap” vagy „indexkövető alap” elnevezés;
+c) az indexkövető befektetési alap portfóliójában szereplő értékpapírok súlya az egyes értékpapírok indexbeli súlyától
+legfeljebb 5 százalékponttal tér el azzal, hogy a súlyok számításánál figyelembe kell venni a származtatott ügyletekből
+származó pozíciót is, valamint a befektetési alap kezelési szabályzatának tartalmaznia kell az egyes értékpapírok
+indexbeli súlyától való eltérésének maximális nagyságát.”
+11. § A Babszr. 44. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az ingatlanalap és az ingatlantársaság az ingatlanok és vagyoni értékű jogok értékének megállapításával
+ingatlanértékelőt bíz meg. Az ingatlanalap és a részesedésével működő ingatlantársaság kizárólag ugyanazt
+az ingatlanértékelőt bízhatja meg az előbbi feladattal. Ingatlanértékelő szervezet esetén a megbízásban
+az ingatlanértékelő szervezet alkalmazásában álló, az értékelést ténylegesen végző természetes személyt is meg kell
+határozni. A megbízás létrejöttéhez a letétkezelő Ptk. 215. § (1) bekezdése szerinti beleegyezése, továbbá a Felügyelet
+jóváhagyása szükséges. A megbízás megszüntetése esetén a szerződés az új ingatlanértékelő megbízásának
+hatálybalépésével – amely érdekében a befektetési alapkezelő köteles haladéktalanul intézkedni – szűnik meg.”
+12. § A Babszr. 48. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Az ingatlanalap által tulajdonolt ingatlantársasági részesedés értékét legalább az ingatlanalap által tulajdonolt
+ingatlanok értékelésével egyező gyakorisággal kell megállapítani. Az ingatlantársaság – ingatlanalap tulajdoni
+hányadával korrigált – nettó eszközérték-számítás során figyelembe vett értéke megegyezik az ingatlantársaság által
+tartott ingatlan és vagyoni értékű jog értékbecslő által fordulónapra vonatkozóan meghatározott piaci értékével,
+növelve az ingatlantársaság pénz- és értékpapír eszközei, valamint követelései értékével és csökkentve az
+ingatlantársaság kötelezettségei értékével. A pénz- és értékpapír állomány, valamint a követelések és kötelezettségek,
+aktív és passzív időbeli elhatárolások, céltartalékok és egyéb vagyontárgyak fordulónapra vonatkozó értékét
+az ingatlantársaság fordulónapra vonatkozó főkönyvi kivonata, év végén a független könyvvizsgálói jelentéssel
+ellátott számviteli beszámoló adatai alapján, az ingatlanalap kezelési szabályzatában rögzített eszközértékelési
+szabályok figyelembevételével kell meghatározni.”
+13. § A Babszr. 1. melléklete helyébe az 1. melléklet lép.
+14. § 2013. december 31-én a Babszr. 44. § (3) bekezdése hatályát veszti.
+5. Záró rendelkezések
+15. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+16. § Ez a rendelet a 2006/48/EK és a 2006/49/EK irányelvnek a kereskedési könyvre és az újraértékpapírosításra vonatkozó
+tőkekövetelmények, továbbá a javadalmazási politikák felügyeleti felülvizsgálata tekintetében történő módosításáról
+szóló, az Európai Parlament és a Tanács 2010. november 24-i 2010/76/EU irányelv I. melléklete 5. b) pontja i. és
+ii. alpontjának való megfelelést szolgálja.
+Orbán Viktor s. k.,
+miniszterelnök
+
+1. melléklet a 397/2012. (XII. 20.) Korm. rendelethez
+„1. melléklet a 345/2011. (XII. 29.) Korm. rendelethez
+Összefoglaló táblázat az értékpapír befektetési alapok összes eszközhöz viszonyított
+általános befektetési korlátairól
+A B C D
+1. ÁÉKBV
+Egyéb nyilvános
+értékpapír alap
+Zártkörű értékpapír
+alap
+2. Egy kibocsátó maximális aránya alapesetben 5% 10% 20%
+3. A 2. pontbeli limitet meghaladó kibocsátó
+maximális aránya a 4. pont
+figyelembevételével
+10% 15%
+(megfelelően
+likvid papírok
+esetében)
+20%
+4. A 3. pontba tartozó értékpapírok összesített
+maximális aránya
+40% 40% 100%
+5. Egy kibocsátóra vonatkozó limitek
+indexkövető alap esetében
+20%, illetve 35%
+egyetlen adott
+kibocsátóra
+index
+összetételétől
+függő
+index
+összetételétől
+függő
+6. Jelzáloglevelek maximális aránya 25% 25% 25%
+7. A 2. pont szerinti limitet meghaladó mértékű
+jelzáloglevelek összesített maximális aránya
+80% 80% 100%
+8. Egy adott sorozatba tartozó állampapírok
+maximális aránya
+30% 35% 35%
+9. Egy adott állam maximális aránya 35%, illetve
+100% a 8. pont
+figyelembevétele
+mellett
+100% 100%
+10. Egy hitelintézet betéteinek maximális aránya 20% 20% felett
+külön kiemelni
+a kezelési
+szabályzatban
+20% felett
+külön kiemelni
+a kezelési
+szabályzatban
+11. Egy adott kollektív befektetési értékpapír
+maximális aránya alapesetben
+20% 20% 20%
+12. Tőkeáttétel maximális mértéke alapesetben 2-szeres 2-szeres kezelési
+szabályzattól
+függő
+13. Egyéb, a megengedett eszközök körében
+tételesen nem felsorolt értékpapírok és
+pénzügyi eszközök maximális aránya
+10% 10% –
+”

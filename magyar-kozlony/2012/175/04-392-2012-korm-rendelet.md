@@ -1,0 +1,94 @@
+# A Kormány 392/2012. (XII. 20.) Korm. rendelete
+
+Magyar Közlöny 2012. évi 175. szám, 2012. december 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/36815bccb2ffd8681da59d684e069e18ac4b9e36/dokumentumok/4591674902ca223e4720b5901be908b945eb38dc/letoltes)
+
+---
+
+A Kormány 392/2012. (XII. 20.) Korm. rendelete
+a Magyar Közigazgatási Ösztöndíjról szóló 228/2011. (X. 28.) Korm. rendelet módosításáról
+A Kormány a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 2. pontjában kapott felhatalmazás
+alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A Magyar Közigazgatási Ösztöndíjról szóló 228/2011. (X. 28.) Korm. rendelet (a továbbiakban: MKÖ rendelet) 4. §
+(1) bekezdésl)pontjahelyébeakövetkezőrendelkezéslép,egyidejűlegabekezdésakövetkezőm) ponttalegészülki:
+(AHivatalteljeskörűkoordinációs,kapcsolattartási,információséspénzügyi-ügyvitelifeladatokatlátel,ennekkeretében)
+„l) szervezi az ösztöndíjasok külföldi gyakorlatra való elhelyezését, nemzetközi befogadó intézményi
+partnerkapcsolatokat épít és koordinál,
+m) ellátja a záróvizsga szervezésével, lebonyolításával és nyilvántartásával kapcsolatos feladatokat.”
+(2) Az MKÖ rendelet 5. §-a a következő (5) bekezdéssel egészül ki:
+„(5) A PIB tagjai – az elnök kivételével – a (2) bekezdésben meghatározott feladataikat a Hivatal vezetője által
+a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 154. § (3) bekezdése alapján
+megállapított rendkívüli, célhoz köthető feladatként végezhetik.”
+(3) Az MKÖ rendelet 6. §-a helyébe a következő rendelkezés lép:
+„6. § Az ösztöndíj program működési szabályzata magában foglalja
+a) a program minőségbiztosítási rendjét,
+b) az ösztöndíjasok képzésének módszertanát,
+c) a mentorálás módszertanát,
+d) az ösztöndíjasok teljesítményének értékelési rendszerét,
+e) az ösztöndíjas szerződés megkötéséhez felhasználható szerződésmintát,
+f) a külföldi befogadó intézményekkel, gyakorlati helyekkel megkötésre kerülő partnerségi megállapodás mintáját.”
+(4) Az MKÖ rendelet 8. §-a a következő (3a)–(3b) bekezdéssel egészül ki:
+„(3a) Ha a (3) bekezdés szerinti külföldi gyakorlatszerzés nem biztosítható, az ösztöndíjas részére magyar központi
+államigazgatási szerv külföldön lévő szervezeti egységénél, illetve irányított, felügyelt szervénél történő külföldi
+gyakorlatszerzés is előírható.
+(3b) A (3a) bekezdés szerinti külföldi gyakorlatra való elhelyezés a magyar központi államigazgatási szerv
+kapcsolattartásra kijelölt belföldi szervezeti egységén (a továbbiakban: kapcsolattartó) keresztül is történhet.
+Kapcsolattartó kijelölése esetén az ösztöndíjas külföldi gyakorlatra helyezésével összefüggő feladatok ellátása során
+a Hivatal és a kapcsolattartó kölcsönösen együttműködve jár el.”
+(5) Az MKÖ rendelet a következő 9/A. §-sal egészül ki:
+„9/A. § (1) Az ösztöndíjas az ösztöndíj program végén írásbeli záróvizsgát tehet.
+(2) A záróvizsga két részből áll. Az első vizsgarész követelményrendszere megegyezik a közigazgatási alapvizsga
+követelményrendszerével, a második vizsgarész követelményrendszerét a Hivatal vezetője állapítja meg az ösztöndíj
+program részét képező szervezett képzések tematikája alapján.
+(3) A Hivatal a záróvizsga meghirdetett időpontja előtt legalább harminc nappal a záróvizsga követelményrendszerét
+és tananyagát az ösztöndíj program honlapján közzéteszi. A záróvizsga eredményes teljesítésének elősegítése
+érdekében a Hivatal vizsgafelkészítőt szervez.
+
+(4) A záróvizsgát a vizsgaszabályzatban foglaltaknak megfelelően kell teljesíteni. A Hivatal a vizsgaszabályzatot
+a záróvizsga meghirdetett időpontja előtt legalább harminc nappal az ösztöndíj program honlapján közzéteszi.
+(5) Az eredménytelen záróvizsga – vagy vizsgarész – nem ismételhető.
+(6) Az eredményes záróvizsgáról a Hivatal záróvizsga bizonyítványt állít ki, és – a vizsgajegyzőkönyvek alapján –
+gondoskodik az elveszett vagy megsemmisült bizonyítványok pótlásáról. Amennyiben az ösztöndíjas
+a (7) bekezdésben foglaltak alapján a záróvizsga első vizsgarésze alól mentesül, részére a Hivatal a második vizsgarész
+eredményes teljesítése esetén tanúsítványt állít ki.
+(7) Nem kell vizsgát tennie a záróvizsga első vizsgarészéből annak, aki kormányzati szolgálati jogviszony létesítése
+esetén a közigazgatási alapvizsga-kötelezettség teljesítése alól jogszabály alapján mentesülne.”
+(6) Az MKÖ rendelet 10. §-a helyébe a következő rendelkezés lép:
+„10. § (1) Az ösztöndíjas szakmai tevékenységét az ösztöndíj program működési szabályzatában ajánlott módszertan
+szerint mentor segíti.
+(2) A mentorabefogadóintézményjavaslataalapján,aPIB jóváhagyásávalabefogadóintézménynélfoglalkoztatottak
+közül kijelölt tapasztalt kormánytisztviselő. A mentor feladata különösen az ösztöndíjas szakmai gyakorlati
+programtervének elkészítése, és az ösztöndíjas rendszeres értékelése az ösztöndíj program működési szabályzatában
+foglaltak szerint.
+(3) Mentori tevékenység kizárólag a Hivatal vezetője által a Kttv. 154. § (3) bekezdése alapján megállapított rendkívüli,
+célhoz köthető feladatként végezhető.”
+(7) Az MKÖ rendelet 11. §-a helyébe a következő rendelkezés lép:
+„11. § (1) Az ösztöndíjas a Kttv. alapján megállapított távollétre jogosult.
+(2) A távollét időpontját – a mentor jóváhagyásával – az ösztöndíjas határozza meg azzal, hogy a külföldi szakmai
+gyakorlat idejére legfeljebb három nap távollét tervezhető. A távollét időpontját – rendkívüli, előre nem látható
+eseteket kivéve – az ösztöndíjas legalább három munkanappal a távollét tervezett időpontja előtt köteles a befogadó
+intézménynek és a mentornak bejelenteni.”
+(8) Az MKÖ rendelet 16/B. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A szakmai tanulmányút teljesítéséhez magyar központi államigazgatási szerv külföldön lévő szervezeti egysége,
+illetve irányított, felügyelt szerve segítséget nyújthat. A Hivatal a szükséges tájékoztatást a 8. § (3b) bekezdése szerinti
+kapcsolattartón keresztül biztosítja.”
+(9) Az MKÖ rendelet a következő 22. §-sal egészül ki:
+„22. § E rendeletnek a záróvizsgára vonatkozó rendelkezéseit a Magyar Közigazgatási Ösztöndíjról szóló
+228/2011. (X. 28.) Korm. rendelet módosításáról szóló 392/2012. (XII. 20.) Korm. rendelet hatálybalépésekor
+ösztöndíjas jogviszonyban állók esetében is alkalmazni kell.”
+2. § Az MKÖ rendelet
+a) 4. § (1) bekezdés j) pontjában a „foglalkoztatásról” szövegrész helyébe a „jogviszonyról” szöveg,
+b) 7. § (1) bekezdésében az „a Hivatal” szövegrész helyébe az „az ösztöndíj program” szöveg,
+c) 7. § (3) bekezdés a) pontjában a „harmincötödik” szövegrész helyébe a „harmincadik” szöveg,
+d) 8.§ (1) bekezdésébenaz„akormánytisztviselőkjogállásárólszólótörvény”szövegrészhelyébeaz„aKttv.” szöveg,
+e) 16/E. § (1) bekezdésébenaz „a 6–10. §, a 11. § (2) bekezdése,valaminta 12–16. §” szövegrészhelyébeaz „a 6–16. §”
+szöveg,
+f) 19. § (1) bekezdésében az „Az MKÖ rendelet” szövegrész helyébe az „A Magyar Közigazgatási Ösztöndíj
+programról szóló 336/2010. (XII. 27.) Korm. rendelet” szöveg
+lép.
+3. § Hatályát veszti az MKÖ rendelet
+a) 14. § (2) és (3) bekezdése,
+b) 18. §-a,
+c) 20. §-a.
+4. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+Orbán Viktor s. k.,
+miniszterelnök
