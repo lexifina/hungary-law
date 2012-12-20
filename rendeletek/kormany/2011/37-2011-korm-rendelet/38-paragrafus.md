@@ -1,7 +1,12 @@
-## 18. Az Európai Unió állami támogatásokra vonatkozó szabályaival való összhang
+## 18.[^25] Az Európai Unió jogának való megfelelés
 
-38. § (1) A 19. §, a 20. § és a 3. melléklet az EK-Szerződés 86. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások működtetésével megbízott vállalkozások részére közszolgáltatásért járó ellentételezés formájában megítélt állami támogatásokra történő alkalmazásáról szóló 2005. november 28-i 2005/842/EK bizottsági határozatnak (HL L 312/67., 2005.11.29.) való megfelelést szolgálja.
+## 38. §[^26] Ez a rendelet
 
-(2)[^4]
+a) az EK-Szerződés 93. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 1999. március 22-i 659/1999/EK tanácsi rendelet (HL L 83., 1999.3.27.), és
 
-[^4]: A 38. § (2) bekezdését a 42. § b) pontja hatályon kívül helyezte.
+b) az EK-Szerződés 93. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló 659/1999/EK tanácsi rendelet végrehajtásáról szóló, 2004. április 21-i 794/2004/EK bizottsági rendelet (HL L 140., 2004.4.30.)
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^25]: A 18. alcíme (38. §) a 381/2012. (XII. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^26]: A 18. alcíme (38. §) a 381/2012. (XII. 19.) Korm. rendelet 10. §-ával megállapított szöveg.

@@ -4,6 +4,8 @@
 
 ## IC. A vasúti és közúti személyszállítási közszolgáltatásról szóló rendelet hatálya alá tartozó állami támogatás
 
+## ID. Csekély összegű közszolgáltatási támogatás
+
 ## J. A csoportmentességi rendelet alapján nyújtott támogatások
 
 ## JA. Regionális támogatás
@@ -30,4 +32,6 @@
 
 ## M. Az állami támogatásra vonatkozó szabályoknak a szélessávú hálózatok mielőbbi kiépítésére való alkalmazásáról szóló közösségi iránymutatás alapján nyújtott támogatás
 
-2. melléklet a 37/2011. (III. 22.) Korm. rendelethez
+2. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^31]
+
+[^31]: A 2. melléklet a 381/2012. (XII. 19.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.

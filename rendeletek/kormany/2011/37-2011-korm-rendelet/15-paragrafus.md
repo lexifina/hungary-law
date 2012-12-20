@@ -12,8 +12,10 @@ b) prenotifikációra vagy hivatalos bejelentésre továbbra is alkalmatlan, e t
 
 a) prenotifikáció esetében a (3) bekezdés b) pontja szerinti értesítés kézhezvételétől számított tizenöt napon belül írásban kérheti a minisztert a prenotifikáció megtételére,
 
-b) hivatalos bejelentés esetében a (3) bekezdés b) pontja szerinti értesítés kézhezvételétől számított tizenöt napon belül a Kormányhoz fordulhat.
+b)[^16] hivatalos bejelentés és hatályos, létező támogatási programnak nem minősülő támogatás esetében a (3) bekezdés b) pontja szerinti értesítés kézhezvételétől számított tizenöt napon belül a Kormányhoz fordulhat.
 
 (5) A támogatást nyújtó (4) bekezdés a) pontja szerinti kérelme alapján a miniszter a támogatást nyújtó egyidejű értesítése mellett prenotifikáció keretében köteles a támogatási tervezetet az Európai Bizottságnak, a támogatást nyújtó által szolgáltatott adattartalommal és formában megküldeni.
 
 (6) A támogatási tervezet Európai Bizottság részére történő hivatalos bejelentéséről a (4) bekezdés b) pontja szerinti esetben a Kormány egyedi ügyben hozott, nem nyilvános határozatban dönt.
+
+[^16]: A 15. § (4) bekezdés b) pontja a 381/2012. (XII. 19.) Korm. rendelet 7. §-ával megállapított szöveg.

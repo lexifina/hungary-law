@@ -2,7 +2,17 @@
 
 ## 2. § E rendelet alkalmazásában
 
-1. állami támogatás: az EUMSz 107. cikk (1) bekezdése szerinti támogatás,
+1.[^2] állami támogatás:
+
+a) az EUMSz 107. cikk (1) bekezdése szerinti támogatás, vagy
+
+b) csekély összegű támogatásként
+
+ba) a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L 379/5., 2006.12.28.) 2. cikke, vagy
+
+bb) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 2012. április 25-i 360/2012/EU bizottsági rendelet 2. cikke (HL L 114/8., 2012.4.26.)
+
+[a ba) és bb) alpont a továbbiakban együtt: csekély összegű támogatásokra vonatkozó bizottsági rendeletek] alapján nyújtott támogatás.
 
 2. bejelentési értesítő: a miniszter által a támogatást nyújtó számára megküldött értesítő a támogatási tervezet Európai Bizottság részére történő bejelentéséről,
 
@@ -41,3 +51,5 @@
 19. támogatástartalom: a kedvezményezett számára, akár több forrásból nyújtott állami támogatásnak a 2. mellékletben meghatározott módszer alapján számított értéke,
 
 20. visszafizettetési kamatláb: a végrehajtási rendelet 9–11. cikkében foglaltak szerint megállapított kamatláb.
+
+[^2]: A 2. § 1. pontja a 381/2012. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
