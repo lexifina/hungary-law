@@ -1,3 +1,5 @@
+## 3/A. §[^7] Kényszertörlési eljárás esetén, amennyiben a cégbíróság a kényszertörlési eljárást megszünteti, és kezdeményezi a cég ellen felszámolási eljárás megindítását, a kényszertörlési eljárás befejezésének időpontjával, mint mérlegfordulónappal elkészített számviteli törvény szerinti beszámoló egy tekintet alá esik a 3. § szerinti tevékenységet lezáró beszámolóval, arra alkalmazni kell a 3. §-ban foglaltakat.
+
 ## Számviteli feladatok a felszámolás időszaka alatt
 
 4. § (1) A gazdálkodó szervezet a felszámolás időszaka alatt is köteles megfelelni a számviteli törvény 12. §-ának (1)–(2) bekezdésében meghatározott könyvvezetési kötelezettségnek, a (2)–(9) bekezdésben foglaltak figyelembevételével.
@@ -17,3 +19,5 @@
 (8) A vagyoni eszközök és a források változását jelentő gazdasági eseményeket az 5. § (1) bekezdése szerinti nyitó felszámolási mérleg alapján megnyitott könyvekben, a valóságnak megfelelően, folyamatosan, áttekinthetően kell – a bizonylati elv és bizonylati fegyelem követelményeinek megfelelően – bizonylatolni, elszámolni és nyilvántartani.
 
 (9) Az egyezségi tárgyalásra készítendő fizetőképesség helyreállítására alkalmas programot és egyezségi javaslatot a felszámolás időszaka alatt vezetett könyvviteli nyilvántartások adataival kell megalapozni.
+
+[^7]: A 3/A. §-t a 382/2012. (XII. 19.) Korm. rendelet 19. §-a iktatta be.

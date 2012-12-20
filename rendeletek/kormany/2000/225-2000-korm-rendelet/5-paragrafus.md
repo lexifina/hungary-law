@@ -6,7 +6,7 @@ a) a nyitó felszámolási mérlegben nem szereplő, a felszámolónak bejelente
 
 b) a nyilvántartásbavételi díjat – a Cstv. 46. §-a (7) bekezdésének megfelelően – hitelezőkkel szembeni kötelezettségként és felszámolási eredményt csökkentő tételként kell állományba venni,
 
-c)[^7] a nyitó felszámolási mérlegben lévő, a felszámoló által elfogadott, de a Cstv. 46. §-ának (8) bekezdésében foglalt esetben nyilvántartásba nem vett kötelezettséget, továbbá a 180 napon belül be nem jelentett, és így jogvesztetté vált kötelezettséget [Cstv. 37. §-ának (3) bekezdése] felszámolási eredményt növelő tételként ki kell vezetni,
+c)[^8] a nyitó felszámolási mérlegben lévő, a felszámoló által elfogadott, de a Cstv. 46. §-ának (8) bekezdésében foglalt esetben nyilvántartásba nem vett kötelezettséget, továbbá a 180 napon belül be nem jelentett, és így jogvesztetté vált kötelezettséget [Cstv. 37. §-ának (3) bekezdése] felszámolási eredményt növelő tételként ki kell vezetni,
 
 d) a tartásdíj, az életjáradék, a kártérítési járadék, a bányászati keresetkiegészítés, a mezőgazdasági szövetkezet tagja részére járó pénzbeli juttatás [Cstv. 57. §-a (1) bekezdésének c) pontja], valamint a környezetvédelmi kárelhárítás költségei, a környezetvédelmi bírság [Cstv. 31. §-a (1) bekezdésének c) pontja] nyitó felszámolási mérlegben nem szereplő összegét felszámolási eredményt csökkentő tételként állományba kell venni,
 
@@ -20,7 +20,7 @@ h) a nyitó felszámolási mérlegben lévő követelések egyeztetése során m
 
 (3) A felszámolás kezdő időpontját követően a könyvviteli nyilvántartásokban felszámolási eredményt érintő tételként rendezni kell:
 
-a)[^8] a meglévő, a nyitó felszámolási mérlegben értékkel nem szerepeltethető, de a hitelezőkkel szembeni kötelezettségek teljesítésére felhasználható vagyoni eszközöket, azok piaci értékén (köztük a használatban lévő 100 ezer forint alatti tárgyi eszközöket, vagyoni értékű jogokat, szellemi termékeket, a nullára leírt eszközöket) felszámolási eredményt növelő tételként állományba kell venni,
+a)[^9] a meglévő, a nyitó felszámolási mérlegben értékkel nem szerepeltethető, de a hitelezőkkel szembeni kötelezettségek teljesítésére felhasználható vagyoni eszközöket, azok piaci értékén (köztük a használatban lévő 100 ezer forint alatti tárgyi eszközöket, vagyoni értékű jogokat, szellemi termékeket, a nullára leírt eszközöket) felszámolási eredményt növelő tételként állományba kell venni,
 
 b) a nyitó felszámolási mérlegben lévő céltartalék állományát felszámolási eredményt növelő tételként ki kell vezetni,
 
@@ -40,5 +40,5 @@ c) az értékesített vagyoni eszközök (befektetett eszközök, forgóeszköz�
 
 (7) A (2)–(3), az (5)–(6) bekezdés szerint a felszámolási eredményt növelő-csökkentő tételek könyvviteli elszámolásánál a 4. § (5)–(6) bekezdésében foglaltak szerint kell eljárni.
 
-[^7]: Az 5. § (2) bekezdés c) pontja a 237/2009. (X. 20.) Korm. rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2009. október 28. napját követően kezdeményezett felszámolási eljárásokra kell alkalmazni.
-[^8]: Az 5. § (3) bekezdésének a) pontja a 398/2007. (XII. 27.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 10. §-a alapján a rendelkezést először a 2008. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^8]: Az 5. § (2) bekezdés c) pontja a 237/2009. (X. 20.) Korm. rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2009. október 28. napját követően kezdeményezett felszámolási eljárásokra kell alkalmazni.
+[^9]: Az 5. § (3) bekezdésének a) pontja a 398/2007. (XII. 27.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 10. §-a alapján a rendelkezést először a 2008. évben induló üzleti évről készített beszámolóra kell alkalmazni.
