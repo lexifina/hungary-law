@@ -24,6 +24,6 @@ j) az elszámolás időpontja,
 
 k) a pályázatból kizártak listája.
 
-(2)[^32] Az Alapkezelő a Bgatv. 4. § (2) bekezdése, valamint a (4) és (5) bekezdése szerint összesítve is nyilvántartja az Alap éves bevételeit. A bevételek között külön jogcímen tartja nyilván az Alapnak visszafizetett pénzeszközöket, az Alap javára behajtott összeget, illetve a Nemzeti Foglalkoztatási Alap képzési alaprészéből átcsoportosított összegeket is.
+(2)[^35] Az Alapkezelő a Bgatv. 4. § (2) bekezdése, valamint a (4) és (5) bekezdése szerint összesítve is nyilvántartja az Alap éves bevételeit. A bevételek között külön jogcímen tartja nyilván az Alapnak visszafizetett pénzeszközöket, az Alap javára behajtott összeget, illetve a Nemzeti Foglalkoztatási Alap képzési alaprészéből átcsoportosított összegeket is.
 
-[^32]: A 27. § (2) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^35]: A 27. § (2) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.

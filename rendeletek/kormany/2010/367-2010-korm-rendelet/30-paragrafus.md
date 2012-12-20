@@ -1,10 +1,10 @@
-## 29. §[^33] A Bizottság a Nemzeti Foglalkoztatási Alap képzési alaprészéből átcsoportosított rész terhére nyújtott támogatásokról – ezen belül a támogatás formája, mértéke, célja, támogatottak köre bemutatásával – az államháztartásért felelős miniszter számára az adott tárgyév vonatkozásában – a tárgyévet követő év március 31-éig – beszámolót nyújt be.
+## 29. §[^36] A Bizottság a Nemzeti Foglalkoztatási Alap képzési alaprészéből átcsoportosított rész terhére nyújtott támogatásokról – ezen belül a támogatás formája, mértéke, célja, támogatottak köre bemutatásával – az államháztartásért felelős miniszter számára az adott tárgyév vonatkozásában – a tárgyévet követő év március 31-éig – beszámolót nyújt be.
 
 ## 10. Az Alap pénzügyi működése
 
 30. § (1) Az Alapkezelő az Alap pénzeszközeit a Magyar Államkincstárnál a Bethlen Gábor Alap elnevezésű kincstári előirányzat-felhasználási keretszámlán (a továbbiakban: felhasználási keretszámla) kezeli.
 
-(2) A Kollégium tagjainak járó költségtérítésre, továbbá az Alapkezelőnek az Alap működtetésével és a pályázatkezeléssel összefüggő feladatainak ellátására évente az Alap adott költségvetési évben teljesülő bevételének – ide nem értve a részben vagy egészben visszatérítendő támogatásokból és egyéb céltámogatásokból származó bevételt – legfeljebb tíz százaléka használható fel.
+(2)[^37] Az Alap működtetési kiadásainak forrását – az Alapnál jelentkező közvetlen bankköltség és árfolyamveszteségből származó kiadások forrásai kivételével – az Alapkezelő részére finanszírozási terv alapján át kell utalni.
 
 (3) Az Alap a tárgyévben nyújtható támogatásra fordítható összeg tizenöt százalékos mértékéig vállalhat éven túli kötelezettséget legfeljebb a támogatást követő két évre. A tizenöt százalékos mértékbe be kell számítani az előző években történt évekre áthúzódó kötelezettségvállalások összegét.
 
@@ -12,7 +12,8 @@
 
 (5) Az Alap terhére vállalt kötelezettségekről az Alapkezelő naprakész nyilvántartást vezet. A nyilvántartásból a Bizottság döntéséhez és a Kollégium döntés-előkészítéséhez az Alapkezelő adatot szolgáltat. A Kollégium tagjainak nyújtott költségtérítések adatai közérdekből nyilvános adatok.
 
-(6)[^34] Az Alap pénzforgalmának bonyolítása az (1) bekezdésben meghatározott felhasználási keretszámlán történik, amely felett a rendelkezési jogosultságot az Alapkezelő vezérigazgatója gyakorolja.
+(6)[^38] Az Alap pénzforgalmának bonyolítása az (1) bekezdésben meghatározott felhasználási keretszámlán történik, amely felett a rendelkezési jogosultságot az Alapkezelő vezérigazgatója gyakorolja.
 
-[^33]: A 29. § a 324/2011. (XII. 28.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
-[^34]: A 30. § (6) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^36]: A 29. § a 324/2011. (XII. 28.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^37]: A 30. § (2) bekezdése a 384/2012. (XII. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^38]: A 30. § (6) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés h) pontja szerint módosított szöveg.

@@ -1,1 +1,3 @@
-## 35. § A rendelet hatálybalépésével egyidejűleg – a Bgatv. 17. § alapján – a Szülőföld Alap elnevezésű, 10032000-00288444- 00000000 számú kincstári előirányzat-felhasználási keretszámla pénzeszközei a Bethlen Gábor Alap elnevezésű kincstári előirányzat-felhasználási keretszámlára, a Szülőföld Alap Iroda elnevezésű 10032000-00290081-00000000 számú kincstári előirányzat-felhasználási keretszámla pénzeszközei a Bethlen Gábor Alapkezelő Nonprofit Zrt. elnevezésű kincstári előirányzat-felhasználási keretszámlára kerülnek át.
+## 35. §[^42]
+
+[^42]: A 35. §-t a 384/2012. (XII. 19.) Korm. rendelet 9. § (1) bekezdés c) pontja hatályon kívül helyezte.

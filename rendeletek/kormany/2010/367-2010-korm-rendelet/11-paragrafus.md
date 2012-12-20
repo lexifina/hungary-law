@@ -22,5 +22,8 @@ b) részben vagy egészben visszatérítendő támogatás.
 
 (4) A részben vagy egészben visszatérítendő támogatás visszatérítendő részét az Alap előirányzat-felhasználási keretszámlájára kamatmentesen kell visszafizetni.
 
+(5)[^12] A szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény 14. §-ában foglalt, a Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény 3. § a) pont aa) alpontjában meghatározott támogatások egy főre jutó éves összegét évente a Bizottság állapítja meg.
+
 [^10]: A 10. § a 201/2011. (X. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^11]: A 11. § (2) bekezdése a 117/2011. (VII. 7.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^12]: A 11. § (5) bekezdését a 384/2012. (XII. 19.) Korm. rendelet 1. §-a iktatta be.
