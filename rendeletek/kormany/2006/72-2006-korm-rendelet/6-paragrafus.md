@@ -2,10 +2,15 @@
 
 (2) Amennyiben a végelszámoló kezdeményezésére a gazdálkodó felszámolását rendelik el, a végelszámoló a felszámolás kezdő időpontját megelőző nappal – mint mérleg-fordulónappal – köteles a számviteli törvény 11. §-ának (12) bekezdése szerinti üzleti évről az 5. § (1) és (2) bekezdése szerinti számviteli beszámolót elkészíteni, a felszámolás számviteli feladatairól szóló kormányrendelet előírásainak figyelembevételével, kötelező könyvvizsgálat esetén azt könyvvizsgálóval ellenőriztetni. Az így elkészült számviteli beszámolót nem kell a jóváhagyásra jogosult testületnek elfogadnia.
 
-(3)[^8] Az (1), illetve a (2) bekezdés szerinti – a végelszámolást lezáró – számviteli beszámolót a végelszámoló a végelszámolás megszüntetésének időpontját – mint mérleg-fordulónapot – követő ötödik hónap utolsó napjáig, illetve a felszámolás kezdő időpontját megelőző napot – mint mérleg-fordulónapot – követő 45 napon belül a számviteli törvény 153–154/B. §-ai, illetve a vonatkozó számviteli kormányrendelet előírásai szerint köteles letétbe helyezni és közzétenni.
+(3)[^10] Amennyiben a gazdálkodó a végelszámolást három éven belül nem fejezte be és a cégbíróság kényszertörlési eljárás megindítását rendelte el, a végelszámoló a kényszertörlési eljárás kezdő időpontját megelőző nappal – mint mérlegfordulónappal – köteles a számviteli törvény 11. § (12) bekezdése szerinti üzleti évről az 5. § (1) és (2) bekezdése szerinti számviteli beszámolót elkészíteni, kötelező könyvvizsgálat esetén azt könyvvizsgálóval ellenőriztetni. Az így elkészült számviteli beszámolót nem kell a jóváhagyásra jogosult testületnek elfogadnia.
 
-(4) A végelszámoló a végelszámolás megszüntetésének időpontjával, illetve a felszámolás kezdő időpontját megelőző nappal köteles a könyvviteli nyilvántartásokat lezárni, azokat a gazdálkodó kijelölt tisztségviselőjének, illetve a felszámolónak az (1), illetve a (2) bekezdés szerinti számviteli beszámolóval együtt átadni.
+(4)[^11] Az (1), illetve a (2) és (3) bekezdés szerinti – a végelszámolást lezáró – számviteli beszámolót a végelszámoló a végelszámolás megszüntetésének időpontját – mint mérlegfordulónapot – követő ötödik hónap utolsó napjáig, illetve a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző napot – mint mérlegfordulónapot – követő 45 napon belül a számviteli törvény 153–154/B. §-a, valamint a vonatkozó számviteli kormányrendelet előírásai szerint köteles letétbe helyezni és közzétenni.
 
-(5) A tevékenységét, működését továbbfolytató gazdálkodó a végelszámolótól átvett számviteli beszámoló mérlege (az azt alátámasztó leltár) alapján nyitja meg könyvviteli nyilvántartásait.
+(5)[^12] A végelszámoló a végelszámolás megszüntetésének időpontjával, illetve a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal köteles a könyvviteli nyilvántartásokat lezárni, azokat a gazdálkodó kijelölt tisztségviselőjének, illetve a felszámolónak az (1) és (3), illetve a (2) bekezdés szerinti számviteli beszámolóval együtt átadni.
 
-[^8]: A 6. § (3) bekezdése a 342/2011. (XII. 29.) Korm. rendelet 51. §-a szerint módosított szöveg.
+(6)[^13] A tevékenységét, működését továbbfolytató, valamint a felszámolás alá, illetve a kényszertörlési eljárás alá került gazdálkodó a végelszámolótól átvett számviteli beszámoló mérlege (az azt alátámasztó leltár) alapján nyitja meg könyvviteli nyilvántartásait.
+
+[^10]: A 6. § (3) bekezdése a 382/2012. (XII. 19.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^11]: A 6. § (4) bekezdése a 382/2012. (XII. 19.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^12]: A 6. § (5) bekezdése a 382/2012. (XII. 19.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^13]: A 6. § (6) bekezdését a 382/2012. (XII. 19.) Korm. rendelet 25. §-a iktatta be.
