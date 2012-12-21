@@ -16,7 +16,7 @@ b) évente egy alkalommal a foglalkoztatói nyugdíjszolgáltató intézmény ak
 
 c) negyedévenként a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének legfontosabb jellemzőire vonatkozó – a szavatoló tőke, a saját tőke és a nyugdíjtechnikai és fedezeti tartalékok becsült értékének bemutatását is felölelő – jelentését
 
-d) a nemi hovatartozás szerint eltérő hozzájárulások és szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatokat éves rendszerességgel
+d)
 
 a Felügyelet részére megküldeni.
 
