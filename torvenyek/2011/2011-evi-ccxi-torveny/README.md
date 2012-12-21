@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-211-00-00
 | 2012-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-211-00-00.1 |
 | 2012-01-02 | 2010. évi CXXX. törvény | 2011-211-00-00.2 |
 | 2012-07-01 | 2011. évi CLI. törvény | 2011-211-00-00.3 |
+| 2012-12-21 | 43/2012. (XII. 20.) AB határozat | 2011-211-00-00.4 |
