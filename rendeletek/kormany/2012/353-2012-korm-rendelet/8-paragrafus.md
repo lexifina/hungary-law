@@ -1,0 +1,15 @@
+8. § (1) Amennyiben a vizsgálat alapján megállapítást nyer, hogy a támogatási tervezet állami támogatást tartalmaz, úgy a miniszter a 11. § (1)–(2) bekezdésében és a 12. §-ban, valamint a 13–16. §-ban foglaltak szerint jár el.
+
+(2) Amennyiben a vizsgálat alapján a miniszter azt állapítja meg, hogy a részére bejelentett támogatási tervezet alapján nyújtandó támogatás nem minősül állami támogatásnak, e tényről a tájékoztatás kézhezvételétől számított harminc napon belül értesíti a támogatási tervezet elkészítéséért felelős szervet.
+
+(3) Ha a támogatási tervezet elkészítéséért felelős szerv nem ért egyet a miniszter (2) bekezdés szerinti megállapításával, a minisztertől írásban kérheti, hogy a támogatási tervezetet a miniszter a Bizottság részére jelentse be annak érdekében, hogy a Bizottság állapítsa meg, hogy a támogatási tervezet alapján nyújtandó támogatás nem minősül állami támogatásnak.
+
+(4) Amennyiben a miniszter vizsgálata alapján megállapítást nyer, hogy a támogatási tervezet az uniós szabályokkal nincs összhangban, úgy a miniszter erről tájékoztatja a támogatási tervezet elkészítéséért felelős szervet, és ebben az esetben a miniszter jogosult a támogatás uniós szabályokkal való összhangjának megteremtése érdekében történő javaslattételre.
+
+(5) Amennyiben a támogatási tervezet elkészítéséért felelős szerv nem ért egyet a miniszter (4) bekezdésben tett javaslatával, úgy a javaslat kézhezvételétől számított 15 napon belül írásban kérheti a minisztertől a támogatási tervezet eredeti formában történő továbbítását a Bizottság részére.
+
+(6) Amennyiben a miniszter tudomást szerez arról, hogy a támogatás a 6. § (4) bekezdésében meghatározott tájékoztatási kötelezettség elmulasztása mellett kerül bevezetésre, a miniszter a támogatásról utólagos tájékoztatást kérhet a támogatási tervezet elkészítéséért felelős szervtől a 6. § (1) bekezdés szerinti vizsgálat befejezéséig, továbbá a támogatás működtetésének felfüggesztését kérheti a támogatást nyújtó szervtől. Ezzel egyidejűleg a 6. § (4) bekezdése szerinti tájékoztatási kötelezettség elmulasztásáról a miniszter tájékoztatja a kormányzati tevékenység összehangolásáért felelős minisztert.
+
+(7) Amennyiben a (6) bekezdés szerinti, bejelentési kötelezettség alá tartozó támogatás vonatkozásában a Bizottság a közösségi eljárási rendelet alapján elrendeli a támogatás visszafizetését, a miniszter kezdeményezésére a támogatást nyújtó szerv köteles a támogatás visszafizetését a visszafizettetési kamatláb alapján megnövelt összegben elrendelni.
+
+(8) Horizontális, a nemzetgazdaság több ágazatára kiterjedő és e rendelet hatálya alá tartozó agrár- és vidékfejlesztési állami támogatást is tartalmazó, 11. § (1) bekezdés c) pontja, valamint 13. § (1) bekezdése szerinti támogatási tervezet Bizottság részére – elektronikus interaktív felületen (a továbbiakban: SANI rendszerben) kitöltött formanyomtatványok alapján – történő bejelentésére jogosult szerv a miniszter és a fejlesztéspolitikáért felelős miniszter előzetes egyeztetése alapján kerül kijelölésre.

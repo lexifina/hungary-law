@@ -1,0 +1,9 @@
+# 353/2012. (XII. 13.) Korm. rendelet
+
+az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-353-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2012-12-21 | 2012-353-20-22.1 | 353/2012. (XII. 13.) Korm. rendelet |
