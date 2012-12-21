@@ -4,6 +4,6 @@
 
 (3) Ha a biztosító valamely eszközalapjának megszüntetéséről határoz, akkor ezt a megszűnést követő 15 munkanapon belül köteles a Felügyeletnek bejelenteni. A bejelentésnek tartalmaznia kell az eszközalap elnevezését, a megszüntetés okát, az eszközök más alapokba való rendelésének módját, valamint az ügyfeleknek kiküldött tájékoztatót.
 
-(4) A biztosító köteles a nemi hovatartozás szerint eltérő díjak és szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatokat a Felügyeletnek az éves adatszolgáltatással megküldeni.
+(4)
 
-(5) A nemi hovatartozás szerint eltérő díjak és szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatok szolgáltatásának rendjét és tartalmát a Felügyelet elnöke a biztosítók belső adatszolgáltatásának rendjéről és tartalmáról szóló rendeletben állapítja meg.
+(5)
