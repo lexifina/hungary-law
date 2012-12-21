@@ -944,6 +944,10 @@ A települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK t
 
 |  | Mecsekpölöske | 420 |  |  |
 
+| Körmend |  | 11 799 | 20 661 | + |
+
+|  | Körmend | 11 799 |  |  |
+
 | Köröm |  | 23474 | 25 111 | + |
 
 |  | Berzék | 1098 |  |  |
@@ -1317,6 +1321,12 @@ A települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK t
 |  | Szántód | 378 |  |  |
 
 |  | Zamárdi | 2382 |  |  |
+
+| Solymár |  | 14 506 | 15 937 | + |
+
+|  | Pilisszentiván | 4 355 |  |  |
+
+|  | Solymár | 10 151 |  |  |
 
 | Sülysáp |  | 25979 | 25 979 | + |
 
@@ -2314,4 +2324,4 @@ A települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK t
 
 | Kiépítési határidő: 2015. december 31. |
 
-[^15]: A 2. melléklet a 233/2012. (VIII. 28.) Korm. rendelet 1. § b) pontjával megállapított szöveg.
+[^15]: A 2. melléklet a 233/2012. (VIII. 28.) Korm. rendelet 1. § b) pontjával megállapított, a 358/2012. (XII. 13.) Korm. rendelet 1. §-a szerint módosított szöveg.
