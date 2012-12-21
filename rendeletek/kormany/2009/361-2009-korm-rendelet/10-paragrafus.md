@@ -1,4 +1,4 @@
-## 9. §[^25] Az egyes kormányrendeletek módosításáról szóló 152/2010. (IV. 30.) Korm. rendelet (a továbbiakban: Kr.) 2. §-ával megállapított 6. § (5) bekezdését, 5. §-ával módosított 6. § (1)–(3) bekezdését és 7. § (1)–(3) bekezdését abban az esetben kell alkalmazni, ha a hitelkérelmet a Kr. hatálybalépéséig[^26] még nem bírálták el.
+## 9. §[^27] Az egyes kormányrendeletek módosításáról szóló 152/2010. (IV. 30.) Korm. rendelet (a továbbiakban: Kr.) 2. §-ával megállapított 6. § (5) bekezdését, 5. §-ával módosított 6. § (1)–(3) bekezdését és 7. § (1)–(3) bekezdését abban az esetben kell alkalmazni, ha a hitelkérelmet a Kr. hatálybalépéséig[^28] még nem bírálták el.
 
-[^25]: A 9. §-t a 10. § hatályon kívül helyezte, újonnan a 152/2010. (IV. 30.) Korm. rendelet 2. § (5) bekezdése iktatta be.
-[^26]: A hatálybalépés időpontja: 2010. május 8.
+[^27]: A 9. §-t a 10. § hatályon kívül helyezte, újonnan a 152/2010. (IV. 30.) Korm. rendelet 2. § (5) bekezdése iktatta be.
+[^28]: A hatálybalépés időpontja: 2010. május 8.

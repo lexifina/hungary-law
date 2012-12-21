@@ -24,8 +24,8 @@ b) devizában nyilvántartott, de forintban folyósított hitel;
 
 9. pénzforgalmi intézmény: az a Hpt.-ben meghatározott pénzforgalmi intézmény, aki engedéllyel rendelkezik a pénzforgalmi szolgáltatásához kapcsolódóan hitel- és pénzkölcsönnyújtási tevékenység végzésére;
 
-10.[^10] pénzügyi intézmény: a Hpt.-ben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is;
+10.[^12] pénzügyi intézmény: a Hpt.-ben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is;
 
 11. pénzügyi lízing: a Hpt.-ben meghatározott fogalom.
 
-[^10]: A 2. § 10. pontja a 348/2011. (XII. 30.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^12]: A 2. § 10. pontja a 348/2011. (XII. 30.) Korm. rendelet 45. §-a szerint módosított szöveg.
