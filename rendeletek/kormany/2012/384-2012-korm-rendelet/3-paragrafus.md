@@ -1,3 +1,3 @@
-## 2. § Az R. 24. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 1–2. §[^1]
 
-## „(4) Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 84. § (1) bekezdése szerinti kamatszámítás utolsó napja a szerződés felbontásának napja, kivéve, ha a támogatást gazdasági tevékenységhez kapták vagy használták fel.”
+[^1]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 3. §[^1]
+## 3. §[^2]
 
-[^1]: A 3. § a 7. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^2]: A 3. § a 7. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.

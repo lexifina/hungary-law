@@ -1,11 +1,9 @@
-9. § (1) Hatályát veszti az R.
+## 8. §[^4]
 
-a) 22. § (4) bekezdés e) pontja,
+9. § (1)[^5]
 
-b) 22. § (5) bekezdése és
+(2)[^6]
 
-c) 35. §-a.
-
-(2)[^2]
-
-[^2]: A 9. § (2) bekezdése a 7. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
+[^4]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 9. § (2) bekezdése a 7. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.
