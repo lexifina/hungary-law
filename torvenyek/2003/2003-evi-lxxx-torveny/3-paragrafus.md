@@ -34,7 +34,7 @@ b) jogi tanácsadásra a következő területeken:
 
 2. olyan jogügylet tárgyában, amelyben a jognyilatkozatot csak ügyvéd által ellenjegyzett okiratba vagy közjegyzői okiratba foglaltan lehet tenni, kivéve, ha a jogügylet a fél és családja lakhatását szolgáló ingatlan elidegenítése vagy megterhelése,
 
-c) alkotmányjogi panasszal kapcsolatban,
+c)
 
 d) a magánszemély vállalkozási, befektetési jellegű tevékenységével kapcsolatos ügyben, kivéve
 
