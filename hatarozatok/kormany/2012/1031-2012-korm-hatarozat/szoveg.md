@@ -82,13 +82,7 @@ a kormányzati tevékenység összehangolásáért felelős miniszter
 
 Határidő: 2012. szeptember 1.
 
-10. Felhívja a kormányzati tevékenység összehangolásáért felelős minisztert és a külpolitikáért felelős minisztert, hogy a célfeladat ellátásának koordinálása érdekében 2012. szeptember 1. és 2014. augusztus 31. közötti időszakra kormánybiztos kinevezésére vonatkozóan készítsenek előterjesztést.
-
-Felelős: a kormányzati tevékenység összehangolásáért felelős miniszter
-
-külpolitikáért felelős miniszter
-
-Határidő: 2012. szeptember 1.
+10.[^1]
 
 11. A közös elnökségi időszakot követően a Kormány számára beszámoló jelentés készül a közép-európai regionális együttműködési év megvalósulásáról.
 
@@ -97,3 +91,5 @@ Felelős: külpolitikáért felelős miniszter
 Határidő: 2014. augusztus 31.
 
 12. Jelen határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 10. pontot az 1655/2012. (XII. 20.) Korm. határozat 2. pontja hatályon kívül helyezte.
