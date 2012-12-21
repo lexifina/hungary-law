@@ -1,5 +1,6 @@
-## 53. §[^1]
+## 53. §[^4]
 
-1. melléklet a 345/2011. (XII. 29.) Korm. rendelethez
+1. melléklet a 345/2011. (XII. 29.) Korm. rendelethez[^5]
 
-[^1]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet a 397/2012. (XII. 20.) Korm. rendelet 13. §-ával megállapított szöveg.
