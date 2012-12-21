@@ -1,24 +1,33 @@
 ## Kereskedési könyv
 
-13. § (1) Kereskedési könyvet vezető hitelintézetnek külön-külön nyilvánosságra kell hoznia a Hpt. 76. §-a (1) bekezdésének 2. és 3. pontja szerint számított, valamint a partnerkockázat miatt felmerülő tőkekövetelményét.
+13. §[^4] (1) Kereskedési könyvet vezető hitelintézetnek külön-külön nyilvánosságra kell hoznia a Hpt. 76. § (1) bekezdés a) pont 2. és 3. alpontja szerint számított, a partnerkockázat miatt felmerülő, valamint az értékpapírosítási pozíciók egyedi kamatlábkockázataira vonatkozó tőkekövetelményét.
 
-(2) Ha a hitelintézet a kereskedési könyvben nyilvántartott partnerkockázat, pozíciókockázat, valamint a tevékenység egészében meglévő devizaárfolyam kockázat és árukockázat tőkekövetelményét belső modell módszer alapján számítja ki, akkor nyilvánosságra kell hoznia
+(2) Ha a hitelintézet a kereskedési könyvben nyilvántartott partnerkockázat, pozíciókockázat, valamint a tevékenység egészében meglévő devizaárfolyam kockázat és árukockázat tőkekövetelményét belső modell alapján számítja ki, nyilvánosságra hozza
 
-a) a modell alkalmazási körét, valamint
+a) az egyes részportfóliók esetén
 
-b) a kereskedési könyv vezetésére vonatkozó jogszabályi követelményeknek való megfelelés módját,
+aa) az alkalmazott modellek tulajdonságait,
 
-c)[^4] a kockáztatott érték módszer szerint a tárgyidőszakban mért legmagasabb, legalacsonyabb és az átlagos napi értéket, valamint a tárgyidőszak végén mért értéket;
+ab) a kereskedési könyvben nyilvántartott pozíciók, kockázatvállalások, a devizaárfolyam kockázat és nagykockázatok fedezetéhez szükséges tőkekövetelmény megállapításának szabályairól és a kereskedési könyv vezetésének részletes szabályairól szóló 244/2000. (XII. 24.) Korm. rendelet (a továbbiakban: Kkr.) 43. § (9a) bekezdésében és 14. számú melléklet 10. pontjában foglaltaknak megfelelő módszertant és belső modell által mért kockázatokat,
 
-d)[^5] a nap végi kockázatott érték módszer szerint mért érték összehasonlítását a portfólió értékének a következő munkanap végéig bekövetkezett egynapi változásával a tárgyidőszakban feljegyzett fontos túllépések elemzésével együtt.
+ac) a részportfólióra alkalmazott stresszteszt leírását,
 
-(3) A (2) bekezdés szerinti hitelintézetnek az egyes részportfoliók esetében nyilvánosságra kell hoznia
+ad) a belső modell és a modellezési folyamat következetességének és pontosságának utótesztelésére és jóváhagyására alkalmazott módszer leírását;
 
-a) az alkalmazott modell jellemzőit,
+b) a belső modell Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) általi engedélyezésének tényét;
 
-b) a részportfolióra alkalmazott stressz-teszt leírását, és
+c) a Kkr. 13. számú mellékletében foglaltaknak való megfelelés mértékének és módszereinek leírását;
 
-c) a belső modell és modellezési folyamat következetességének és pontosságának utótesztelésére és jóváhagyására alkalmazott módszerek leírását.
+d) az alábbiak legmagasabb, legalacsonyabb értékét, valamint átlagát,
 
-[^4]: A 13. § (2) bekezdés c) pontját a 349/2010. (XII. 28.) Korm. rendelet 39. §-a iktatta be.
-[^5]: A 13. § (2) bekezdés d) pontját a 349/2010. (XII. 28.) Korm. rendelet 39. §-a iktatta be.
+da) a napi kockáztatott érték a tárgyidőszakban, valamint a tárgyidőszak végén,
+
+db) a stresszhelyzeti kockáztatott érték a tárgyidőszakban, valamint a tárgyidőszak végén,
+
+dc) a Kkr. 43. § (9a) bekezdésével és 14. számú melléklet 10. pontjával összhangban megállapított tőkekövetelmény a tárgyidőszakban, valamint a tárgyidőszak végén;
+
+e) a Kkr. 43. § (9a) bekezdésének és 14. számú melléklet 10. pontjának megfelelő tőkét és az egyes részportfóliókra vonatkozó súlyozott átlagos likviditási horizontot;
+
+f) a nap végi kockáztatott érték módszer szerint mért érték összehasonlítását a portfólió értékének a következő munkanap végéig bekövetkezett egynapi változásával a tárgyidőszakban feljegyzett fontos túllépések elemzésével együtt.
+
+[^4]: A 13. § a 397/2012. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
