@@ -1,0 +1,3 @@
+60. § Az Ebktv. VI. Fejezete a következő 64/C. §-sal egészül ki:
+
+„64/C. § Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvénnyel megállapított – 30/A. § (1) bekezdésében foglalt rendelkezések a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 231/B. §-ában meghatározottak szerint alkalmazandók.”

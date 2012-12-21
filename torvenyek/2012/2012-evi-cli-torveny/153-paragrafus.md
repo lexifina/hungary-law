@@ -2,11 +2,11 @@
 
 153. § (1) Hatályát veszti
 
-a)
+a) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban Öpt.) 18/A. §-a;
 
 b)
 
-c)
+c) az Fnyt. 34. § (8) bekezdése, 56. § (3) bekezdésének d) pontja és a 86. § b) pontja;
 
 d)
 
