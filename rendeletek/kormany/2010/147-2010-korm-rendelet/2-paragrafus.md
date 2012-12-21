@@ -46,7 +46,7 @@
 
 21. mederelfajulás: folyó, vízfolyás mederalakító munkája következtében kialakult káros mederáthelyeződés,
 
-22. mikroöntözés: olyan öntözés, melynek során a víz közvetlenül a talaj felszínére, illetve a talajba jut a párolgási veszteségek lehető legkisebb szinten való tartása érdekében,
+22.[^2] mikroöntözés: olyan öntözés, melynek során a víz közvetlenül a talaj vagy termesztő közeg felszínére, illetve a talajba vagy termesztő közegbe jut a párolgási veszteségek lehető legkisebb szinten való tartása érdekében,
 
 23. nyersvízvezeték: az ivóvízellátás céljára kitermelt, az elosztóhálózatba táplálást megelőzően kezelést igénylő vizet szállító vezeték,
 
@@ -85,3 +85,4 @@
 40. vízvédelmi terület: a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendeletben meghatározott védőterület, védősáv, valamint a nagyvízi meder.
 
 [^1]: A 2. § 10a. pontját a 290/2012. (X. 15.) Korm. rendelet 2. §-a iktatta be.
+[^2]: A 2. § 22. pontja a 348/2012. (XII. 11.) Korm. rendelet 1. §-ával megállapított szöveg.

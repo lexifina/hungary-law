@@ -1,3 +1,3 @@
-83. §[^32]
+## 80–82. §[^33]
 
-[^32]: A 83. § a (2) bekezdése alapján hatályát vesztette.
+[^33]: A 80–82. §-t a 83. § (1) bekezdése hatályon kívül helyezte.
