@@ -138,10 +138,12 @@ az érintett miniszterek bevonásával
 
 Határidő: 2013. szeptember 30.
 
-15. visszavonja az acélipar szerkezetátalakítási programjáról szóló 2370/1999. (XII. 27.) Korm. határozatot;
+15.[^1]
 
 16. felhívja a minisztereket, hogy saját feladatkörükben 2013. február 28-ig tárják fel a deregulálandó kormányzati stratégiai tervdokumentumokat, és tegyék meg a szükséges lépéseket azok hatályon kívül helyezésére.
 
 Felelős: minden miniszter
 
 Határidő: 2013. június 30.
+
+[^1]: A 15. pont a 2012: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
