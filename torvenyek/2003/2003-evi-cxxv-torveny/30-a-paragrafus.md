@@ -1,7 +1,3 @@
-30/A. § (1) A biztosítási szolgáltatások és a biztosítási elven alapuló szolgáltatások esetében a nemi hovatartozáson alapuló megkülönböztetés nem sérti az egyenlő bánásmód követelményét, ha
+30/A. § (1) A biztosítási szolgáltatások és a biztosítási elven alapuló szolgáltatások esetében – ide nem értve a csoportos élet-, baleset- és betegségbiztosításokat – a nemi hovatartozáson alapuló megkülönböztetés az e szolgáltatásokat szabályozó törvény eltérő rendelkezése hiányában sérti az egyenlő bánásmód követelményét, ha a szolgáltatatást nyújtó eljárása az egyének által egyedileg fizetendő díj nagyságában vagy az őket megillető szolgáltatásban a nemi hovatartozáson alapuló közvetlen vagy közvetett különbségtételt eredményez.
 
-a) a díj és a szolgáltatás kockázatarányos mértéke meghatározott, kockázati tényezőkön alapuló csoportok létrehozásával jár, és
-
-b) a releváns és pontos biztosításmatematikai és statisztikai adatok alapján a díj számításában és a szolgáltatás nyújtásában a nemi hovatartozás tényezője a kockázatelemzésben meghatározó.
-
-(2) A terhességgel és az anyasággal kapcsolatos költségekre tekintettel tett különbségtétel az (1) bekezdés szerinti esetben is sérti az egyenlő bánásmód követelményét.
+(2) Az (1) bekezdésben meghatározott szolgáltatások esetében a terhességgel és az anyasággal kapcsolatos költségek nem eredményezhetnek különbséget az egyének által fizetendő díjakban és az őket megillető szolgáltatásokban.
