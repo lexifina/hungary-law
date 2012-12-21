@@ -14,4 +14,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-2. visszavonja a Magyar Fejlesztési Bank tőkehelyzetének rendezéséről szóló 1398/2011. (XI. 18.) Korm. határozatot.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
