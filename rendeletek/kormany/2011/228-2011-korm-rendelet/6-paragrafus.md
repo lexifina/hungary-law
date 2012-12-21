@@ -1,4 +1,4 @@
-## 6. § Az ösztöndíj program működési szabályzata magában foglalja
+## 6. §[^10] Az ösztöndíj program működési szabályzata magában foglalja
 
 a) a program minőségbiztosítási rendjét,
 
@@ -8,8 +8,8 @@ c) a mentorálás módszertanát,
 
 d) az ösztöndíjasok teljesítményének értékelési rendszerét,
 
-e) a befogadó intézmény által ellátandó feladatokat,
+e) az ösztöndíjas szerződés megkötéséhez felhasználható szerződésmintát,
 
-f) az ösztöndíjas szerződés megkötéséhez felhasználható szerződésmintát,
+f) a külföldi befogadó intézményekkel, gyakorlati helyekkel megkötésre kerülő partnerségi megállapodás mintáját.
 
-g) a külföldi befogadó intézményekkel, gyakorlati helyekkel megkötésre kerülő partnerségi megállapodás mintáját.
+[^10]: A 6. § a 392/2012. (XII. 20.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
