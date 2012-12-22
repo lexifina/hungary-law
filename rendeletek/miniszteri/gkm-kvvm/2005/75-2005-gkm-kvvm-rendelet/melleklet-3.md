@@ -620,7 +620,7 @@
 
 3. számú melléklet a 75/2005. (IX. 29.) GKM-KvVM
 
-együttes rendelethez[^32]
+együttes rendelethez[^36]
 
 Kompresszió-gyújtású motorok vizsgálati eljárása
 
@@ -1858,7 +1858,7 @@ A hígító rendszer és a mintavevő rendszer minden részét, amely kapcsolatb
 
 2. függelék a 75/2005. (IX. 29.) GKM–KvVM együttes rendelet 3. számú mellékletéhez
 
-Kalibrálási eljárás (NRSC, NRTC[^33])
+Kalibrálási eljárás (NRSC, NRTC[^37])
 
 1. Az elemző készülékek kalibrálása
 
@@ -2540,7 +2540,7 @@ Megjegyzés: Ha és Hd levezethető a relatív nedvesség méréséből a fentie
 
 A szennyezőanyag-kibocsátás tömegáramokat az egyes üzemmódokban az alábbiak szerint kell kiszámítani:
 
-(a) Kezeletlen kipufogógázra[^34]:
+(a) Kezeletlen kipufogógázra[^38]:
 
 Gáz tömeg = u × conc × GEXHV
 
@@ -2692,7 +2692,7 @@ DF = 13,4/concCO2
 
 1.4.5. A fajlagos szennyezőanyag-kibocsátás számítása
 
-A PT (g/kWh) fajlagos részecske-kibocsátást az alábbiak szerint kell kiszámítani[^35]:
+A PT (g/kWh) fajlagos részecske-kibocsátást az alábbiak szerint kell kiszámítani[^39]:
 
 Egyszűrős módszer esetén:
 
@@ -3172,13 +3172,13 @@ Wact,hot = a melegindításos ciklusban végzett tényleges ciklusmunka a 3. sz�
 
 NRTC MOTORFÉKPADI PROGRAM
 
-[^32]: A 3. számú melléklet a 25/2011. (V. 26.) NFM rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^36]: A 3. számú melléklet a 25/2011. (V. 26.) NFM rendelet 3. § (3) bekezdése szerint módosított szöveg.
 [^(3)szerint]: Az MSZ EN ISO 8178-4:2007 szabvány (2008. 07. 01-jei helyesbített változat) 8.3.1.1. pontjában leírt C1 ciklussal megegyező.
 [^(4)]: Az MSZ EN ISO 8178-4:2002(E) szabvány 8.4.1. pontjában leírt D2 ciklussal megegyező.
 [^(5)]: Az állandó sebességű segédmotorokat az MSZ EN ISO 8178-4:2002(E) szabvány szerinti D2 terhelési ciklus, azaz a 3.7.1.2. pontban meghatározott, öt üzemmódú, állandósult állapotú ciklus szerint kell tanúsítani, míg a változó sebességű segédmotorokat az MSZ EN ISO 8178-4:2002(E) szabvány szerinti C1 terhelési ciklus, azaz a 3.7.1.1. pontban meghatározott, nyolc üzemmódú, állandósult állapotú ciklus szerint kell tanúsítani.
 [^(6)]: Az MSZ EN ISO 8178-4: 2002(E) szabvány 8.5.1., 8.5.2. és 8.5.3. pontjában leírt E3 ciklussal megegyező. A négy üzemmód az üzem közbeni méréseken alapuló átlagos hajtócsavargörbén alapul.
 [^(7)]: Az MSZ EN ISO 8178-4: 2002(E) szabvány 8.5.1., 8.5.2. és 8.5.3. pontjában leírt E2 ciklussal megegyező.
 [^(8)]: Az MSZ EN ISO 8178-4: 2002(E) szabvány F ciklusával megegyező.
-[^33]: A kalibrációs eljárás általában azonos az NRSC és NRTC tesztnél, kivéve az 1.11. és a 2.6 pontban meghatározott követelményeket.
-[^34]: NOx esetében a NOx koncentrációt (NOxconc vagy NOxconcc) meg kell szorozni KHNOX-szal (a NOx-nak az előző 1.3.3. pontban idézett nedvességi korrekciós tényezőjével) az alábbiak szerint: KHNOX × conc vagy KHNOX × concc
-[^35]: A PTtömeg részecske-tömegáramot meg kell szorozni Kp-vel (az 1.4.1. pontban említett, részecskékre vonatkozó páratartalom korrekciós tényezővel).
+[^37]: A kalibrációs eljárás általában azonos az NRSC és NRTC tesztnél, kivéve az 1.11. és a 2.6 pontban meghatározott követelményeket.
+[^38]: NOx esetében a NOx koncentrációt (NOxconc vagy NOxconcc) meg kell szorozni KHNOX-szal (a NOx-nak az előző 1.3.3. pontban idézett nedvességi korrekciós tényezőjével) az alábbiak szerint: KHNOX × conc vagy KHNOX × concc
+[^39]: A PTtömeg részecske-tömegáramot meg kell szorozni Kp-vel (az 1.4.1. pontban említett, részecskékre vonatkozó páratartalom korrekciós tényezővel).

@@ -4,7 +4,7 @@
 
 (2) Csak akkor engedélyezhető új motorok nyilvántartásba vétele vagy forgalomba hozatala, függetlenül attól, hogy be vannak-e építve egy gépbe vagy sem, ha a motorok megfelelnek e rendelet követelményeinek.
 
-(3) A hatóság nem adhatja ki a külön jogszabály[^6] szerinti Közösségi Belvízi Hajózási Bizonyítványt olyan hajóra, amely nem felel meg ezen rendelet követelményeinek.
+(3) A hatóság nem adhatja ki a külön jogszabály[^7] szerinti Közösségi Belvízi Hajózási Bizonyítványt olyan hajóra, amely nem felel meg ezen rendelet követelményeinek.
 
 (4) A típusjóváhagyást megadó hatóságnak, ha szükséges más tagállamok hatóságaival együttműködve, meg kell tennie a szükséges intézkedéseket ahhoz, hogy a jóváhagyás alapján, e rendelet követelményeivel összhangban gyártott motorok azonosítási számait nyilvántartásba vegye és ellenőrizze.
 
@@ -14,4 +14,4 @@
 
 (7) Ha a hatóság kívánságára a gyártó nem tudja igazolni a 6. §-ban megadott követelmények betartását, különösen e § (5) bekezdésével kapcsolatban, a motortípusra vagy motorcsaládra e rendelet alapján megadott jóváhagyás visszavonható. Ilyen esetben a hatóságnak a 14. § (6) bekezdése szerint kell eljárnia.
 
-[^6]: 13/2001. (IV. 10.) KöViM rendelet a belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról.
+[^7]: 13/2001. (IV. 10.) KöViM rendelet a belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról.

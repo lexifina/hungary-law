@@ -14,6 +14,6 @@
 
 (7) A rugalmas végrehajtási eljárás keretében forgalomba hozott motorokat a 13. számú mellékletnek megfelelően meg kell jelölni.
 
-(8)[^5] Az (1) és (7) bekezdés szerinti jelzés meglétét a közlekedési hatóság, illetve a fogyasztóvédelmi hatóság ellenőrzi. A jelzéssel nem rendelkező motorok, vagy ilyen motort tartalmazó gép forgalmazását az ellenőrzést végző hatóság megtiltja. A forgalmazás megtiltásáról hozott határozatot a fogyasztóvédelmi hatóság közli a közlekedési hatósággal.
+(8)[^6] Az (1) és (7) bekezdés szerinti jelzés meglétét a közlekedési hatóság, illetve a fogyasztóvédelmi hatóság ellenőrzi. A jelzéssel nem rendelkező motorok, vagy ilyen motort tartalmazó gép forgalmazását az ellenőrzést végző hatóság megtiltja. A forgalmazás megtiltásáról hozott határozatot a fogyasztóvédelmi hatóság közli a közlekedési hatósággal.
 
-[^5]: A 7. § (8) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 38. § (2) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 7. § (8) bekezdése a 48/2009. (IX. 30.) KHEM rendelet 38. § (2) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

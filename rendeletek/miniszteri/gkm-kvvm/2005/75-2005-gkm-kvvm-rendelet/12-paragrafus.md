@@ -2,13 +2,13 @@
 
 12. § (1) A 9. § (1) és (2) bekezdésében, továbbá a 10. § (4) és a 11. § (3) és (4) bekezdésében foglalt, a motorok forgalomba hozatalára vonatkozó előírásokat nem kell alkalmazni:
 
-a) a (2) és (3) bekezdésben foglalt kivételekre,
+a)[^10] a (3) bekezdésben és a 12/A. § (1)–(2) bekezdésében foglalt kivételekre,
 
 b) olyan gépekben és berendezésekben használt motorokra, amelyeket elsődlegesen mentőcsónakok vízrebocsátására és kiemelésére szántak,
 
 c) olyan gépekben és berendezésekben használt motorokra, amelyeket elsődlegesen vízi járműveknek a partról történő vízrebocsátására és vízről kiemelésére szántak.
 
-(2) A cseremotornak – a vasúti motorkocsik, mozdonyok és belvízi hajók meghajtómotorjainak kivételével – a szennyezőanyag-kibocsátást tekintve azon követelményeknek kell megfelelnie, amelyek a kicserélendő motorra vonatkoztak annak forgalomba hozatalakor. A motoron el kell helyezni egy „REPLACEMENT ENGINE” („CSEREMOTOR”) feliratú címkét, vagy ezt a körülményt fel kell tüntetni a kezelési utasításban.
+(2)[^11]
 
 (3) A gyártó, illetve a gépet valamely tagállamból behozó vagy az importáló kérésére a hatóság felmentést adhat egy kifutott motortípus sorozatból még raktáron lévő motorokra vagy raktáron lévő nem közúti mozgó gép motorjára a 10. § (4) bekezdésben jelzett, a forgalomba hozatalra vonatkozó határidő alól, legfeljebb a vonatkozó határidőtől számított 12 hónap időtartamra az alábbi feltételek mellett:
 
@@ -40,4 +40,8 @@ f) a felmentés alkalmazásával forgalomba hozott egy vagy több típushoz tart
 
 (11) Motorokat forgalomba lehet hozni a 13. számú melléklet előírásainak megfelelően, a rugalmas végrehajtási eljárás keretében.
 
-(12) A hatóság az 1. számú melléklet 1.1. és 1.2. pontjaiban meghatározott motorok forgalomba hozatalát engedélyezi a 13. számú melléklet előírásainak megfelelően, a rugalmas végrehajtási eljárás keretében.
+(12)[^12] A közlekedési hatóság engedélyezi az 1. számú melléklet 1.1., 1.2. és 1.5. pontjában meghatározott motoroknak a 13. számú melléklet rendelkezései szerinti rugalmas végrehajtási eljárással történő forgalomba hozatalát.
+
+[^10]: A 12. § (1) bekezdés a) pontja a 74/2012. (XII. 21.) NFM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^11]: A 12. § (2) bekezdését a 74/2012. (XII. 21.) NFM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^12]: A 12. § (12) bekezdése a 74/2012. (XII. 21.) NFM rendelet 2. §-ával megállapított szöveg.

@@ -32,7 +32,7 @@
 
 ## 2.3. a részecskékből álló szennyezőanyag mindazokat az anyagokat jelenti, amelyek egy CI motor kipufogógázának tiszta, szűrt levegővel oly módon történő felhígítása után, hogy a hőmérséklet ne haladja meg a 325 K (52 °C) értéket, egy meghatározott szűrőközegen összegyűlnek;
 
-## 2.4. a hasznos (effektív) teljesítmény azt az ENSZ EGB 85 sz. előírás szerint kW-ban kifejezett teljesítményt jelenti, amely próbapadon a forgattyús tengely vagy annak megfelelője végén mérhető, a közúti járművek belső égésű motorjai teljesítményének mérésére szolgáló, az ENSZ EGB 85. sz. előírásban meghatározott módszer szerint, azzal az eltéréssel, hogy a motor hűtésére szolgáló ventilátor teljesítménye ebbe nem számít bele[^30], továbbá be kell tartani az ebben a rendeletben meghatározott vizsgálati feltételeket, és a vizsgálathoz referencia üzemanyagot kell használni;
+## 2.4. a hasznos (effektív) teljesítmény azt az ENSZ EGB 85 sz. előírás szerint kW-ban kifejezett teljesítményt jelenti, amely próbapadon a forgattyús tengely vagy annak megfelelője végén mérhető, a közúti járművek belső égésű motorjai teljesítményének mérésére szolgáló, az ENSZ EGB 85. sz. előírásban meghatározott módszer szerint, azzal az eltéréssel, hogy a motor hűtésére szolgáló ventilátor teljesítménye ebbe nem számít bele[^34], továbbá be kell tartani az ebben a rendeletben meghatározott vizsgálati feltételeket, és a vizsgálathoz referencia üzemanyagot kell használni;
 
 ## 2.5. a névleges fordulatszám a regulátor által megengedett maximális fordulatszámot jelenti teljes terhelésnél, a gyártó megadása szerint;
 
@@ -842,7 +842,7 @@
 
 2. számú melléklet a 75/2005. (IX. 29.) GKM-KvVM
 
-együttes rendelethez[^31]
+együttes rendelethez[^35]
 
-[^30]: Ez azt jelenti, hogy az EGB követelményeivel ellentétben a motor leadott teljesítményének vizsgálata során nem szabad felszerelni a motorhűtő ventilátort; ha ezzel szemben a gyártó a vizsgálatot motorra szerelt ventilátorral végzi el, a ventilátor által felvett teljesítményt hozzá kell adni a mért teljesítményhez. Nem érvényes azonban ez az előírás azokra a léghűtéses motorokra, amelynél a hűtőventilátor a motor főtengelyére van közvetlenül felszerelve (lásd 7. számú melléklet 3. függelék).
-[^31]: A 2. számú melléklet a 25/2011. (V. 26.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^34]: Ez azt jelenti, hogy az EGB követelményeivel ellentétben a motor leadott teljesítményének vizsgálata során nem szabad felszerelni a motorhűtő ventilátort; ha ezzel szemben a gyártó a vizsgálatot motorra szerelt ventilátorral végzi el, a ventilátor által felvett teljesítményt hozzá kell adni a mért teljesítményhez. Nem érvényes azonban ez az előírás azokra a léghűtéses motorokra, amelynél a hűtőventilátor a motor főtengelyére van közvetlenül felszerelve (lásd 7. számú melléklet 3. függelék).
+[^35]: A 2. számú melléklet a 25/2011. (V. 26.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.

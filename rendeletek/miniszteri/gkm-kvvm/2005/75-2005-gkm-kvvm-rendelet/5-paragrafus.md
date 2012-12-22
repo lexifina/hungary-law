@@ -16,4 +16,6 @@ c) a 7. § (5) bekezdés szerinti nyilatkozat másolatát.
 
 (5) A hatóság évenként vagy kérelemre megküldi a Bizottságnak az utolsó bejelentés óta jóváhagyott motorokra vonatkozó, a 11. számú melléklet szerinti adatlap másolatát.
 
-(6) A kompresszió gyújtású motorok – a mozdonyok, motorkocsik, belvízi hajók meghajtására szolgáló motorok kivételével – forgalomba hozhatók, az (1)–(5) bekezdésekben foglaltakon túl, a 13. számú mellékletben foglalt rugalmas végrehajtási eljárásnak megfelelően.
+(6)[^5] Az (1)–(5) bekezdésben foglaltakon túl, a kompresszió gyújtású motorok – a vasúti motorkocsik, belvízi hajók meghajtására szolgáló motorok kivételével – forgalomba hozhatók a 13. számú mellékletben foglalt rugalmas végrehajtási eljárásnak megfelelően.
+
+[^5]: Az 5. § (6) bekezdése a 74/2012. (XII. 21.) NFM rendelet 1. §-ával megállapított szöveg.
