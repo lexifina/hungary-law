@@ -1,1 +1,3 @@
-## 12. § Ez a rendelet a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatások alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló, 2006. december 15-i 1857/2006/EK bizottsági rendelet (HL L 358., 2006. 12. 16., 3. o.) hatálya alá tartozó támogatást tartalmaz.
+## 12. §[^36] Ez a rendelet a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatások alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló, 2006. december 15-i 1857/2006/EK bizottsági rendelet és a Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 2007. december 20-ai 1535/2007/EK bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+
+[^36]: A 12. § a 134/2012. (XII. 21.) VM rendelet 10. §-ával megállapított szöveg.

@@ -1,8 +1,8 @@
 10. § (1) A hitelkérelmeket a hitelprogramban részt vevő hitelintézetekhez folyamatosan lehet benyújtani.
 
-(2)[^6] A hitelintézetek csak olyan hitelkérelmeket fogadhatnak be,
+(2)[^34] A hitelintézetek csak olyan hitelkérelmeket fogadhatnak be,
 
-a) amelyet a beruházás helye szerint illetékes megyei Mezőgazdasági Szakigazgatási Hivatal előzetesen nyilvántartásba vett, és
+a)[^35] amelyet a beruházás helye szerint illetékes megyei kormányhivatal mezőgazdasági szakigazgatási szerve előzetesen nyilvántartásba vett, és
 
 b) amelyhez a kérelem benyújtásakor mellékelték a 2. számú melléklet szerinti adatokat tartalmazó záradékot, és
 
@@ -16,4 +16,5 @@ cc) a nyilatkozattételt megelőző hároméves időszakban „Sikeres Magyarors
 
 cd) a vállalkozás mikro-, kis- vagy középvállalkozás kategóriába tartozik.
 
-[^6]: A 10. § (2) bekezdése a 171/2009. (XII. 22.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^34]: A 10. § (2) bekezdése a 171/2009. (XII. 22.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^35]: A 10. § (2) bekezdés a) pontja a 134/2012. (XII. 21.) VM rendelet 9. §-ával megállapított szöveg. [A 70/2013. (VII. 31.) VM rendelet 75. §-ával elrendelt módosítás, amely szerint az „illetékes megyei Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe az „illetékes megyei kormányhivatal földművelésügyi igazgatósága” szöveg lép, nem vezethető át.]

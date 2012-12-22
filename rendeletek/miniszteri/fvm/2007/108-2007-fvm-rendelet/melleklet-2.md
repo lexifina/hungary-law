@@ -1,32 +1,22 @@
 ## A hitel támogatástartalmának számítási módja
 
-## ahol:
+## TT = Q1 × rref – Q1 × rk + (Q2 × rref – Q2 × rk)/(1+i) + … + (Qn × rref – Qn × rk)/(1+i)n–1
 
-| TT | = | támogatástartalom, a támogatások összegének jelenértéke |
+## Ahol
 
-| Q | = | hitelösszeg |
+## TT: a hitel támogatástartalmának összege jelenértéken forintban kifejezve
 
-| i | = | referenciaráta |
+## Qn: a hitel tőkerészének n. év elején fennmaradó összege
 
-| r | = |  |
+## rref: egyéni referencia kamatláb, a támogatás odaítélésének napján
 
-| i’ | = | kedvezményes kamatláb |
+## rk: kedvezményes bruttó kamatláb a támogatás odaítélésének napján (kamatmentes hitel esetén értéke nulla)
 
-| P | = | futamidő (türelmi idővel együtt) |
+## i: diszkont kamatláb a támogatás odaítélésének napján[^1.]
 
-| F | = | türelmi idő |
+2. számú melléklet a 108/2007. (IX. 24.) FVM rendelethez[^38]
 
-| HU | = | a garanciaidőszak napjainak száma a kezességvállalás utolsó évében/365 |
-
-| PV (piaci díj) | = | a piaci díjmértékkel a hitelszerződés szerinti törlesztés szerint évenkénti díjfizetéssel számolt díjtételek jelenértéke |
-
-| PV (tényleges díj) | = | a kezességvállalási szerződés szerinti díjmértékkel és fizetési móddal, hitelszerződés szerinti törlesztéssel számított díjtételek jelenértéke |
-
-| TT | = | támogatástartalom, a támogatások összegének jelenértéke |
-
-2. számú melléklet a 108/2007. (IX. 24.) FVM rendelethez
-
-## ZÁRADÉK a „Sikeres Magyarországért” Agrár Fejlesztési Hitelprogram keretében benyújtott hitelkérelemhez
+## ZÁRADÉKa „Sikeres Magyarországért” Agrár Fejlesztési Hitelprogram keretében benyújtott hitelkérelemhez
 
 ## Iktatószám: /200...
 
@@ -42,7 +32,7 @@
 
 ## A kért hitel összege:
 
-## A beruházás helye szerint illetékes …………………… megyei Mezőgazdasági Szakigazgatási Hivatal részéről igazolom, hogy a hiteligénylő:
+## A beruházás helye szerint illetékes …………………… megyei kormányhivatal mezőgazdasági szakigazgatási szerve részéről igazolom, hogy a hiteligénylő:
 
 1. a „Sikeres Magyarországért” Agrár Fejlesztési Hitelprogram szabályairól szóló 108/2007. (IX. 24.) FVM rendelet (a továbbiakban: R.) 1. §-ának a) pontja szerinti feltételeknek megfelel;
 
@@ -56,4 +46,7 @@ Kelt: ......................................................................
 
 aláírás
 
-(MgSzH)
+(az illetékes megyei kormányhivatal mezőgazdasági szakigazgatási szerve)
+
+[^1.]: A támogatás odaítélésének napja az MFB ügylettel kapcsolatos döntéshozatalának dátuma.
+[^38]: A 2. számú melléklet a 134/2012. (XII. 21.) VM rendelet 12. §-a szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 75. §-ával elrendelt módosítás, amely szerint az „illetékes megyei Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe az „illetékes megyei kormányhivatal földművelésügyi igazgatósága” szöveg lép, nem vezethető át.]
