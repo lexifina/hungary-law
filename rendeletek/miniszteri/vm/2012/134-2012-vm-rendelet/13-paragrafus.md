@@ -1,0 +1,1 @@
+## 12. § Az R1. 2. számú mellékletében a „Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe a „kormányhivatal mezőgazdasági szakigazgatási szerve”, az „MgSzH” szövegrész helyébe az „az illetékes megyei kormányhivatal mezőgazdasági szakigazgatási szerve” szöveg lép.
