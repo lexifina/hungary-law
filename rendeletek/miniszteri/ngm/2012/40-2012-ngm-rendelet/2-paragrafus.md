@@ -1,3 +1,0 @@
-## 1. § A kötelező gépjármű-felelősségbiztosítás 1991. július 1. előtti rendszeréből származó állami kötelezettségek rendezéséről szóló 5/1996. (I. 26.) PM rendelet (a továbbiakban: R.) a következő 2/A. §-al egészül ki:
-
-## „2/A. § A gépjárművek kötelező felelősségbiztosítása alapján az 1991. július 1. napja előtt bekövetkezett káreseményekkel kapcsolatban a Magyar Államot terhelő, forintban megállapított keresetpótló baleseti kártérítési járadékok, valamint a forintban megállapított költségpótló baleseti kártérítési járadékok 2013. január 1-jétől kezdődő jogosultsági időszakokra esedékes összegei a 2012. december 31-én hatályos rendelkezések szerinti összeghez képest 5,2 százalékkal emelkednek.”
