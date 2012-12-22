@@ -1,3 +1,3 @@
-58. § (1) Hatályát veszti a Bit. 72. § (4) és (5) bekezdése.
+58. § (1)
 
 (2)
