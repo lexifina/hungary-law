@@ -2,7 +2,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a Magyar Köztársaság Nemzeti Katonai Stratégiájáról szóló 1009/2009. (I. 30.) Korm. határozat.
+## 3.[^2]
 
 1. melléklet az 1656/2012. (XII. 20.) Korm. határozathoz
 
@@ -237,3 +237,5 @@ VI. Záró rendelkezések
 90. A Stratégiában megfogalmazott iránymutatás figyelembevételével kell kidolgozni a Honvédelmi Minisztérium tervezési irányelveit, szabályzóit és a Magyar Honvédség alacsonyabb szintű stratégiáit, irányelveit, doktrínáit, szabályzatait és terveit.
 
 91. A Stratégia a kormányzati stratégiai irányításról szóló 38/2012. (III. 12.) Korm. Rendeletben foglaltak alapján Hosszú Távú Koncepcióként kategorizálható. A Stratégia nyomon követése, értékelése és felülvizsgálata a rendeletben meghatározottak szerint történik; végrehajtásáért és felülvizsgálatáért a honvédelmi miniszter felelős. Amennyiben számottevő változás következik be Magyarország biztonsági környezetében, a Stratégiában előre jelzett anyagi erőforrások mértékében, vagy egyéb más, Magyarország biztonságát érdemben befolyásoló tényezőben, a felülvizsgálatot a legrövidebb időn belül meg kell valósítani.
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
