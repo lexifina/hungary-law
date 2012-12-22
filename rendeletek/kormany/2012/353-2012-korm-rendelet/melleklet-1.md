@@ -1,3 +1,5 @@
-## 27. § Hatályát veszti az agrár- és vidékfejlesztési állami támogatások Európai Bizottság részére történő bejelentési rendjéről szóló 4/2009. (I. 10.) Korm. rendelet.
+## 27. §[^2]
 
 1. melléklet a 353/2012. (XII. 13.) Korm. rendelethez
+
+[^2]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
