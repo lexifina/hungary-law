@@ -1,1 +1,0 @@
-A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 38. § (2) bekezdés f) és g) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § b) és c) pontjában foglalt feladatkörömben eljárva, a következőket rendelem el:
