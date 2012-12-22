@@ -20,8 +20,9 @@ h) támogatást nyújtó szerv: a Magyar Fejlesztési Bank Zrt. (a továbbiakban
 
 i) hitelprogram: az MFB Zrt. által biztosított forrás terhére, e rendelet alapján működtetett Új Magyarország Vidékfejlesztési Program finanszírozáshoz igénybe vehető projekt kiegészítő hitel, amelynek részletes feltételeit az MFB Zrt. termékleírása tartalmazza;
 
-j) nehéz helyzetben lévő vállalkozás: az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelet 8. számú melléklete szerinti vállalkozás;
+j)[^2] nehéz helyzetben lévő vállalkozás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti vállalkozás;
 
 k) ÚMVP: Új Magyarország Vidékfejlesztési Program.
 
 [^1]: Az 1. § b) pontja az 5/2012. (II. 10.) VM rendelet 42. §-a szerint módosított szöveg.
+[^2]: Az 1. § j) pontja a 134/2012. (XII. 21.) VM rendelet 13. §-ával megállapított szöveg.
