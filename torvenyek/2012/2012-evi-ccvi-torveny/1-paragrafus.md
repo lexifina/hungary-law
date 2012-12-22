@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya, Ukrajna Miniszteri Kabinetje és az Oroszországi Föderáció Kormánya között a Magyarország és az Oroszországi Föderáció között Ukrajna területén keresztül történő nukleárisanyag-szállításról szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
