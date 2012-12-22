@@ -6,7 +6,7 @@ dr. Becher Rezsőnét 2010. július 14-ei hatállyal bírói tisztségéből fel
 
 dr. Aradi Zitát 2010. január 1. napjától határozatlan időtartamra bíróvá,
 
-dr. Barna Sárát,
+dr. Barna Sárát,[^1]
 
 dr. Bihari Ádámot,
 
@@ -17,3 +17,5 @@ dr. Előházi Csillát és
 dr. Sándor Rolandot a 2010. január 1. napjától 2012. december 31. napjáig terjedő időtartamra bíróvá kinevezem.
 
 KEH ügyszám: IV-4/04742/2009.
+
+[^1]: A köztársasági elnök a 326/2012. (XII. 22.) KE határozat alapján dr. Barna Sára bírói kinevezését 2013. január 1. napjától 2015. december 31. napjáig terjedő időtartamra meghosszabbította.
