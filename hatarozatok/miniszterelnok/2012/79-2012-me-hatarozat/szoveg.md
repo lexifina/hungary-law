@@ -1,4 +1,4 @@
-1. A kormányközi vegyes bizottságok tagjainak és tisztségviselőinek kijelöléséről szóló 2118/2008. (VIII. 27.) Korm. határozat 3. a) pontja szerinti jogkörömben eljárva a nemzetgazdasági miniszter és a külügyminiszter együttes előterjesztése alapján
+1.[^1] A kormányközi vegyes bizottságok tagjainak és tisztségviselőinek kijelöléséről szóló 2118/2008. (VIII. 27.) Korm. határozat 3. a) pontja szerinti jogkörömben eljárva a nemzetgazdasági miniszter és a külügyminiszter együttes előterjesztése alapján
 
 dr. Matolcsy Györgyöt
 
@@ -102,7 +102,7 @@ Szijjártó Pétert
 
 – a Magyar–Montenegrói Gazdasági Együttműködési Vegyes Bizottság,
 
-Balog Zoltánt
+dr. Virág Rudolfot[^2]
 
 – a Magyar–Szász Gazdasági Együttműködési Vegyes Bizottság,
 
@@ -164,9 +164,11 @@ magyar tagozata elnökévé kinevezem.
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3.[^1]
+3.[^3]
 
-4.[^2]
+4.[^4]
 
-[^1]: A 3. pontot a 4. pont hatályon kívül helyezte.
-[^2]: A 4. pont ugyanezen pont alapján hatályát vesztette.
+[^1]: Az 1. pont a 153/2012. (XII. 21.) ME határozat 1. pontja szerint módosított szöveg.
+[^2]: A 153/2012. (XII. 21.) ME határozat 1. pontjával megállapított szöveg.
+[^3]: A 3. pontot a 4. pont hatályon kívül helyezte.
+[^4]: A 4. pont ugyanezen pont alapján hatályát vesztette.
