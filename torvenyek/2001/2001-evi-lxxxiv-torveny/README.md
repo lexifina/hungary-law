@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-84-00-00
 | 2009-11-11 | Nemzeti Jogszabálytár (egységes szerkezet) | 2001-84-00-00.12 |
 | 2011-01-01 | 2010. évi CLIII. törvény | 2001-84-00-00.13 |
 | 2011-12-30 | 2011. évi CLXVI. törvény | 2001-84-00-00.14 |
+| 2012-12-23 | 2012. évi CCVIII. törvény | 2001-84-00-00.15 |
