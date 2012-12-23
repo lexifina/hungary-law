@@ -1,10 +1,10 @@
 ## 5. Az intézkedés lebonyolítása, a támogatás igénylése
 
-5. § (1) Az Agrár Széchenyi Kártya Konstrukciók lebonyolításával kapcsolatos feladatokat kizárólagos joggal a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) és a KA-VOSZ Zrt. látják el.
+5. § (1)[^7] Az Agrár Széchenyi Kártya Konstrukciók lebonyolításával kapcsolatos feladatokat kizárólagos joggal a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) és a KAVOSZ Zrt. látják el.
 
 (2) Az MVH
 
-a) teljesíti a KA-VOSZ Zrt., valamint az Agrár-Vállalkozási Hitelgarancia Alapítvány részére a mezőgazdasági vállalkozás nyilvántartott de minimis támogatási keretének ellenőrzéséhez kapcsolódó (elektronikus) adatszolgáltatást,
+a)[^8] teljesíti a KAVOSZ Zrt., valamint az Agrár-Vállalkozási Hitelgarancia Alapítvány részére a mezőgazdasági vállalkozás nyilvántartott de minimis támogatási keretének ellenőrzéséhez kapcsolódó (elektronikus) adatszolgáltatást,
 
 b) ellátja a mezőgazdasági vállalkozások vonatkozásában a de minimis támogatási kereteknek az ellenőrzéséhez és nyilvántartásához szükséges feladatokat,
 
@@ -16,7 +16,7 @@ e) elvégzi a támogatáslehívási kérelmekkel kapcsolatos hatósági feladato
 
 f) folyósítja a támogatást.
 
-(3) A KA-VOSZ Zrt.
+(3)[^9] A KAVOSZ Zrt.
 
 a) ellátja az Agrár Széchenyi Kártya Konstrukciók
 
@@ -31,3 +31,7 @@ b) a vidékfejlesztési miniszter egyetértésével elkészíti az Üzletszabál
 c) ellátja az Üzletszabályzatban meghatározott egyéb feladatokat.
 
 (4) Az (3) bekezdés a) pont ab) alpontja vonatkozásában a lebonyolítás során ellátja a támogatások elszámolásával, az informatikai rendszer fejlesztésével és üzemeltetésével kapcsolatos feladatokat.
+
+[^7]: Az 5. § (1) bekezdése a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^8]: Az 5. § (2) bekezdés a) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^9]: Az 5. § (3) bekezdés nyitó szövegrésze a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.

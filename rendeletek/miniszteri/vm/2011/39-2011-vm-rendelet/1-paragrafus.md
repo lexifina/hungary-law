@@ -12,7 +12,7 @@ bb) a Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban ny�
 
 bc) a Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról és az 1860/2004/EK rendelet módosításáról szóló, 2007. július 24-i 875/2007/EK bizottsági rendelet szerinti támogatás;
 
-c) hitelintézet: az Üzletszabályzatban nevesített, a KA-VOSZ Zrt.-vel szerződéses kapcsolatban álló hitelintézet;
+c)[^1] hitelintézet: az Üzletszabályzatban nevesített, a KAVOSZ Zrt.-vel szerződéses kapcsolatban álló hitelintézet;
 
 d) igénylőlap: az igényléséhez szükséges, Üzletszabályzatban közzétett nyomtatvány;
 
@@ -22,6 +22,10 @@ f) nehéz helyzetben lévő vállalkozás: az európai uniós versenyjogi értel
 
 g) támogatástartalom: az agrár- és vidékfejlesztési állami támogatások Európai Bizottság részére történő bejelentési rendjéről szóló 4/2009. (I. 10.) Korm. rendelet (a továbbiakban: Korm. rendelet) 1. § 29. pontjában meghatározott támogatási egyenérték;
 
-h) társult szervezet: a KA-VOSZ Zrt.-vel társulási megállapodást kötött mezőgazdasági érdekképviseleti szervezetek;
+h)[^2] társult szervezet: a KAVOSZ Zrt.-vel társulási megállapodást kötött mezőgazdasági érdekképviseleti szervezetek;
 
-i) Üzletszabályzat: a Széchenyi Kártya Programon belül kiadott, az Agrár Széchenyi Kártya Konstrukciók részletes szabályait tartalmazó, mindenkori hatályos, a KA-VOSZ Pénzügyi Szolgáltatásokat Közvetítő Zártkörűen Működő Részvénytársaság (a továbbiakban: KA-VOSZ Zrt.) honlapján közzétett üzletszabályzat.
+i)[^3] Üzletszabályzat: a Széchenyi Kártya Programon belül kiadott, az Agrár Széchenyi Kártya Konstrukciók részletes szabályait tartalmazó, mindenkori hatályos, a KAVOSZ Pénzügyi Szolgáltatásokat Közvetítő Zártkörűen Működő Részvénytársaság (a továbbiakban: KAVOSZ Zrt.) honlapján közzétett üzletszabályzat.
+
+[^1]: Az 1. § c) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § h) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^3]: Az 1. § i) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
