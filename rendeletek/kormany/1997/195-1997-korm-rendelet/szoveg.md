@@ -452,7 +452,7 @@ a) 5/G. § (2) bekezdése a munkavállaló választása szerint 2010. január 1-
 
 b) 23–27/B. §-t a 2010. április 30-át követően indult ügyekben kell alkalmazni.
 
-R. 30/A. §[^147] A 19/A. §-ban foglaltaktól eltérően az egyik pénztárból a másik pénztárba átlépett vagy a társadalombiztosítási nyugdíjrendszerbe visszalépett pénztártagra vonatkozóan 1998. január 1-je és 2010. december 31-e közötti bevallási időszakra tévesen az átadó pénztárhoz benyújtott bevallásokat és beérkezett befizetéseket az átadó pénztár feldolgozza, és azt a tag egyéni számláján kimutatja. A tagsági jogviszony megszűnését követően könyvelt tagi követelés összegét a pénztár a Pénztárak Központi Nyilvántartásával történt egyeztetést követően az átlépés szabályai szerint átutalja a pénztártag aktuális pénztárába, illetőleg a Nyugdíjbiztosítási Alap részére. A rendezésről a pénztár – az adatátadás módjáról kötött megállapodásban foglaltaknak megfelelően – értesíti az állami adóhatóságot.
+R. 30/A. §[^147]
 
 R. 30/B. §[^148] (1) Az állami adóhatóság a Tbj. 51. § (2) bekezdésében, továbbá a 20. § (2) bekezdésben foglalt adategyeztetés eredménye alapján a 2011. április 30-ig beérkezett – a 2007. január 1. és 2010. szeptember 30. közötti bevallási időszakokra vonatkozó tagdíj, tagdíj-kiegészítésekre vonatkozó – foglalkoztatói helyesbítéseket (önellenőrzés, adózói javítás) 2011. május 31-ig átadja az érintett magánnyugdíjpénztár részére, annak érdekében, hogy a tagok könyveletlen befizetései előírásra kerüljenek.
 
@@ -614,6 +614,6 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^144]: Az R. 29. § (1) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^145]: Az R. 29. §-a (4) bekezdésének első mondatát a 208/2000. (XII.11.) Korm. rendelet 10. § (1) bekezdése b) pontjának első francia bekezdése hatályon kívül helyezte.
 [^146]: Az R. 30. §-át a 107/2010. (IV. 9.) Korm. rendelet 7. §-a iktatta be.
-[^147]: Az R. 30/A. §-át a 297/2010. (XII. 23.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^147]: Az R. 30/A. §-át a 297/2010. (XII. 23.) Korm. rendelet 10. § (2) bekezdése iktatta be, hatályon kívül helyezte a 2012: CCVIII. törvény 85. § b) pontja.
 [^148]: Az R. 30/B. §-t a 87/2011. (V. 31.) Korm. rendelet 13. §-a iktatta be.
 [^149]: Az R. 31. §-át a 107/2010. (IV. 9.) Korm. rendelet 7. §-a iktatta be.
