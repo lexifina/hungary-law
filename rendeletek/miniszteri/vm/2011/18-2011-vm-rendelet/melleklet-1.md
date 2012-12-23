@@ -1,6 +1,6 @@
-## 30. §[^23] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a tejágazat szerkezetátalakítását kísérő állatjóléti támogatás részletes feltételeiről szóló 18/2011. (III. 9.) VM rendelet módosításáról szóló 79/2012. (VII. 27.) VM rendelet [a továbbiakban: 79/2012. (VII. 27.) VM rendelet] által megállapított 1. § (1) bekezdésének 15., 17., 29. és 32. pontját, 3. § (3) bekezdését, 4. § (2) bekezdését, 10. § (1) bekezdését, és 1. mellékletét a 79/2012. (VII. 27.) VM rendelet hatálybalépésekor[^24] folyamatban lévő ügyekben is alkalmazni kell.
+## 31. §[^27] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes állatlétszám alapú agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 138/2012. (XII. 22.) VM rendelet [a továbbiakban: 138/2012. (XII. 22.) VM rendelet] által megállapított 12. § (4) bekezdését a 138/2012. (XII. 22.) VM rendelet hatálybalépésekor[^28] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 18/2011. (III. 9.) VM rendelethez
 
-[^23]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 79/2012. (VII. 27.) VM rendelet 15. §-a iktatta be.
-[^24]: A hatálybalépés időpontja 2012. július 30.
+[^27]: A 31. §-t a 138/2012. (XII. 22.) VM rendelet 6. §-a iktatta be.
+[^28]: A hatálybalépés napja: 2012. december 23.
