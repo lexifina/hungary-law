@@ -1,8 +1,8 @@
 ## 6. Kötelezettségek vállalása
 
-11. § (1)[^6] A támogatásra jogosult köteles a támogatási időszak alatt az aktuális állatállomány tartására, valamint arra, hogy a kiesett állatokat a kieséstől számított 90 napon belül pótolja.
+11. § (1)[^7] A támogatásra jogosult köteles a támogatási időszak alatt az aktuális állatállomány tartására, valamint arra, hogy a kiesett állatokat a kieséstől számított 90 napon belül pótolja.
 
-(2)[^7] A pótlás csak abban az esetben fogadható el, ha
+(2)[^8] A pótlás csak abban az esetben fogadható el, ha
 
 a) a kieső állatnak, valamint baromfifélék esetében állománynak az ENAR adatbázisából vagy a Baromfi Információs Rendszer (a továbbiakban: BIR) adatbázisából történő kijelentése az adott faj ENAR-ra vonatkozó szabályainak, valamint a 120/2007. (X. 18.) FVM rendeletnek megfelelően történik,
 
@@ -28,8 +28,8 @@ e) az ügyfél aláírása.
 
 (5) A támogatásra jogosult köteles a támogatási időszak alatt a tenyészeteihez tartozó tartási helyen a támogatott állatállomány tekintetében a tenyésztési programban meghatározott tartási és takarmányozási körülményeket biztosítani.
 
-(6)[^8] Kiesett állatra a kiesés időpontját követően, ugyanazon állattartónak, támogatás nem nyújtható.
+(6)[^9] Kiesett állatra a kiesés időpontját követően, ugyanazon állattartónak, támogatás nem nyújtható.
 
-[^6]: A 11. § (1) bekezdése a 78/2012. (VII. 27.) VM rendelet 1. §-ával megállapított szöveg.
-[^7]: A 11. § (2) bekezdése a 78/2012. (VII. 27.) VM rendelet 1. §-ával megállapított szöveg.
-[^8]: A 11. § (6) bekezdését a 112/2011. (XI. 24.) VM rendelet 3. § (2) bekezdése iktatta be.
+[^7]: A 11. § (1) bekezdése a 78/2012. (VII. 27.) VM rendelet 1. §-ával megállapított szöveg.
+[^8]: A 11. § (2) bekezdése a 78/2012. (VII. 27.) VM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 11. § (6) bekezdését a 112/2011. (XI. 24.) VM rendelet 3. § (2) bekezdése iktatta be.

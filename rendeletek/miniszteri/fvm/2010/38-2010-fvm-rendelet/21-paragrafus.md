@@ -1,4 +1,4 @@
-21. § (1)[^32] A támogatási kérelem elbírálásánál a kérelemben feltüntetett állatállományok közül csak az egyes fajok ENAR adatbázisában, az Országos Állattenyésztési Adatbázisban, valamint a 120/2007. (X. 18.) FVM rendeletnek megfelelő adatbázisban szereplő állatok vehetőek figyelembe.
+21. § (1)[^33] A támogatási kérelem elbírálásánál a kérelemben feltüntetett állatállományok közül csak az egyes fajok ENAR adatbázisában, az Országos Állattenyésztési Adatbázisban, valamint a 120/2007. (X. 18.) FVM rendeletnek megfelelő adatbázisban szereplő állatok vehetőek figyelembe.
 
 (2) A támogatási kérelmek elbírálása során többletpont kerül beszámításra célprogramonként – az adott fajta elismert tenyésztőszervezete által minősített – tenyésztői munkáért a támogatási kérelem beadását megelőző 3 naptári év tenyésztői munkája alapján „megfelelő”, „jó” vagy „kiváló” minősítés esetén.
 
@@ -8,4 +8,4 @@
 
 (5) A támogatási kérelmek elbírálása során többletpont kerül beszámításra azon gazdálkodók részére, akik a termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet alapján elismert – a 8. melléklet szerint a célprogramcsoportnak és termékcsoportnak megfelelő – termelői csoporti tagsággal rendelkeznek.
 
-[^32]: A 21. § (1) bekezdése a 112/2011. (XI. 24.) VM rendelet 9. §-ával megállapított szöveg.
+[^33]: A 21. § (1) bekezdése a 112/2011. (XI. 24.) VM rendelet 9. §-ával megállapított szöveg.

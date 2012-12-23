@@ -4,7 +4,7 @@
 
 2. § (1) E rendelet alkalmazásában
 
-1. állattartó: az a természetes személy, jogi személy vagy jogi személyiség nélküli jogalany, aki vagy amely regisztrált állattartó telephellyel és állatállománnyal rendelkezik, és viseli az állattartás költségeit;
+1.[^1] állattartó: az a természetes személy, jogi személy vagy jogi személyiség nélküli jogalany, aki vagy amely regisztrált, a támogatási kérelmében elfogadott célprogrammal megegyező állattartó tenyészettel rendelkezik, és a Tenyészet Információs Rendszerben a támogatási kérelemben szereplő állatok tenyészetének állattartójaként – a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti regisztrációs számának feltüntetésével – szerepel, valamint viseli az állattartás költségeit;
 
 2. állatállomány-szaporulat: a támogatási kérelmen megjelölt a program indulásakor az elismert tenyésztőszervezet által leigazolt, az adott tenyésztő saját állatainak szaporulatából, a program végéig történő állománynövelésre beállított állatlétszám, amely támogatható állatállománynak minősül;
 
@@ -30,13 +30,13 @@
 
 13. intézkedés: a célprogramcsoportok összessége;
 
-14.[^1] kiesett állat: a támogatási időszak alatt a kérelmező tenyészeteiből kikerült egyedek, amelyekre kötelezettségvállalás történt;
+14.[^2] kiesett állat: a támogatási időszak alatt a kérelmező tenyészeteiből kikerült egyedek, amelyekre kötelezettségvállalás történt;
 
 15. nukleusz minősítésű állomány: a védett őshonos állatfajták genetikai fenntartásának rendjéről szóló 93/2008. (VII. 24.) FVM rendelet [a továbbiakban: 93/2008. (VII. 24.) FVM rendelet] 1. § d) pontjában ekként meghatározott fogalom;
 
 16. tartási hely: a védett őshonos és veszélyeztetett mezőgazdasági állatfajták egyedeinek a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet [a továbbiakban: 119/2007. (X. 18.) FVM rendelet] 2. § 15. pontja szerinti tartási helye;
 
-17.[^2] támogatási időszak: a támogatási kérelem benyújtása évének január 1-étől számított 5 naptári év;
+17.[^3] támogatási időszak: a támogatási kérelem benyújtása évének január 1-étől számított 5 naptári év;
 
 18. támogatásra jogosult: az a kérelmező, aki a támogatási kérelemnek helyt adó vagy részben helyt adó határozattal rendelkezik;
 
@@ -48,10 +48,11 @@
 
 22. törzskönyvezés: az állattenyésztésről szóló 1993. évi CXIV. törvény 3. § 27. pontjában meghatározott fogalom;
 
-23.[^3] Országos Állattenyésztési Adatbázis: az állattenyésztésről szóló törvény alapján a tenyésztési hatóság által létrehozott adatbázis.
+23.[^4] Országos Állattenyésztési Adatbázis: az állattenyésztésről szóló törvény alapján a tenyésztési hatóság által létrehozott adatbázis.
 
 (2) Az (1) bekezdésben nem szereplő fogalmakat az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet [a továbbiakban: 23/2007. (IV. 17.) FVM rendelet] szerint kell értelmezni.
 
-[^1]: A 2. § (1) bekezdés 14. pontja a 112/2011. (XI. 24.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (1) bekezdés 17. pontja a 74/2011. (VII. 29.) VM rendelet 1. §-ával megállapított szöveg.
-[^3]: A 2. § (1) bekezdés 23. pontját a 112/2011. (XI. 24.) VM rendelet 1. § (2) bekezdése iktatta be.
+[^1]: A 2. § (1) bekezdés 1. pontja a 138/2012. (XII. 22.) VM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdés 14. pontja a 112/2011. (XI. 24.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés 17. pontja a 74/2011. (VII. 29.) VM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdés 23. pontját a 112/2011. (XI. 24.) VM rendelet 1. § (2) bekezdése iktatta be.
