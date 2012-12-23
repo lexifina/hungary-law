@@ -1,0 +1,1 @@
+## „75. zöldtrágya-növény: olyan vetett növényfaj, amely növénytakaróként beborítja a talajt és a talajtermékenység javításának céljából fejlődése vegetatív szakaszában, de legkésőbb a vetést követő első virágzáskor teljes tömegében a talajba bedolgozásra kerül, ahol az árvakelés nem minősül zöldtrágya-növénynek;”

@@ -1,0 +1,3 @@
+## 3. § A 61/2009. (V. 14.) FVM rendelet 10. §-a a következő (2a) bekezdéssel egészül ki:
+
+## „(2a) A legeltethető állatállományra vonatkozó előírások betartása valamennyi célprogram esetén úgy kerül megállapításra, hogy a 3. § (1) bekezdés b) pontjában, valamint d) pontjának db)–dc) alpontjai szerinti célprogramokban támogatott kötelezettségvállalással érintett egybefüggő területek támogatott területe, valamint az adott célprogramban előírt állatsűrűség szorzatának eredménye képezi azt az állategységet, amely a támogatásra jogosultnak a különböző célprogramokban előírt állatsűrűségi minimum előírások teljesítéséhez szükséges.”
