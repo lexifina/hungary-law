@@ -19,3 +19,5 @@ alapító okiratát akként, hogy az intézmény 2013. január 1-jétől kizár�
 (6) Az (1) bekezdés szerinti kötelezettség nem terheli az önkormányzati fenntartót egységes gyógypedagógiai, konduktív pedagógiai módszertani intézmény, gyermekotthon intézményegységet magában foglaló többcélú intézmény fenntartása esetén vagy, ha az intézmény a 2013. január 1-jétől állami köznevelési alapfeladatnak minősülő feladaton kívül kizárólag a többi gyermekkel együtt nevelhető sajátos nevelési igényű gyermekek óvodai nevelését látja el.
 
 (7) Az intézményt 2012. december 31-én fenntartó önkormányzati fenntartó javaslatára a szakképzési feladatok különválasztásával átszervezhető az a középfokú iskola, amely gimnáziumi nevelést-oktatást folytat.
+
+(8) A nemzetiségi óvodai nevelést is ellátó többcélú intézmény önkormányzati fenntartója 2012. december 27-éig meghozott döntésével a (2) bekezdés szerinti döntését visszavonhatja vagy módosíthatja, annak érdekében, hogy az intézmény nemzetiségi óvodai nevelést is elláthasson. E bekezdés alkalmazása esetén a 13. § (2) bekezdés a) pontja szerinti átadás-átvételi megállapodást 2012. december 28-áig módosítani kell.
