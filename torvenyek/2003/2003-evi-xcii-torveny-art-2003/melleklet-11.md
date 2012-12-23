@@ -13,3 +13,5 @@ I. Az e törvény 57. § (1) bekezdés b) pontjának alkalmazásában a „jöve
 3. Ciprus esetében: Φόρος Εισοδήματος, 'Εκτακτη Εισφορά για την Άμυνα της Δημοκρατίας, Φόρος Κεφαλαιουχικών Κερδών, Φόρος Ακίνητης Ιδιοκτησίας;
 
 4. a Cseh Köztársaság esetében: Daně z příjmů, Daň z nemovitostí, Daň dědická, daň darovací a daň z převodu nemovitostí, Daň z přidané hodnoty, Spotřební daně;
+
+5. a Dán Királyság esetében: Indkomstskat til staten, Selskabsskat, Den kommunale indkomstskat, Den amtskommunale indkomstskat, Folkepensionsbidragene, Sømandsskat Den særlige indkomstskat, Kirkeskat, Formueskat til staten, Bidrag til dagpengefonden;
