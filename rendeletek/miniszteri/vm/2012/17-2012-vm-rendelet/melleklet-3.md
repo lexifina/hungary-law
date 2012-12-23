@@ -1,4 +1,4 @@
-3. melléklet a 17/2012. (II. 29.) VM rendelethez
+3. melléklet a 17/2012. (II. 29.) VM rendelethez[^31]
 
 1. In vitro megőrzés célprogram
 
@@ -10,7 +10,7 @@
 
 | 3 | 1 fő felett | 20 |
 
-| 4 | Megőrzésbe vont fajták száma | 1–5 | Törzskönyvi nyilvántartás szerint | 10 |
+| 4 | Megőrzésbe vont fajták száma | 1–5 | Támogatási kérelem szerint | 10 |
 
 |  | 6–10 | 20 |
 
@@ -40,7 +40,7 @@
 
 | 5 | 1 fő felett | 20 |
 
-| 6 | Megőrzésbe vont fajta/fajták nőivarú állomány létszáma | 200 alatt | Törzskönyvi nyilvántartás szerint | 20 |
+| 6 | Megőrzésbe vont fajta/fajták nőivarú állomány létszáma | 200 alatt | Törzskönyvi nyilvántartás 2012. január 1-jei állapota szerint | 20 |
 
 | 7 | 200–500 | 15 |
 
@@ -48,7 +48,7 @@
 
 | 9 | 1000 felett | 5 |
 
-| 10 | Központ apaállat nevelést végez | Támogatási kérelem szerint | 15 |
+| 10 | Központi apaállat-jelölt nevelést végez | Támogatási kérelem szerint | 15 |
 
 | 11 | Apaállatot mesterséges termékenyítő állomáson helyez el |  | 10 |
 
@@ -64,7 +64,7 @@
 
 | 3 | 1 fő felett | 20 |
 
-| 4 | Megőrzésbe vont fajta/fajták nőivarú állomány létszáma | 200 alatt | Törzskönyvi nyilvántartás szerint | 20 |
+| 4 | Megőrzésbe vont fajta/fajták nőivarú állomány létszáma | 200 alatt | Törzskönyvi nyilvántartás 2012. január 1-jei állapota szerint | 20 |
 
 | 5 | 200–500 | 15 |
 
@@ -80,7 +80,7 @@
 
 | 11 | Mindösszesen |  | Max. 65 pont |
 
-4. Ismeretterjesztés és ismeretterjesztés célprogram
+4. Tájékoztatás és ismeretterjesztés
 
 |  | A | B | C |  |
 
@@ -90,7 +90,7 @@
 
 | 3 | 1 fő felett |  | 20 |
 
-| 4 | Megőrzésbe vont fajta/fajták nőivarú állomány létszáma | 200 alatt | Törzskönyvi nyilvántartás szerint | 20 |
+| 4 | Megőrzésbe vont fajta/fajták nőivarú állomány létszáma | 200 alatt | Törzskönyvi nyilvántartás 2012. január 1-jei állapota szerint | 20 |
 
 | 5 | 200–500 | 15 |
 
@@ -98,8 +98,10 @@
 
 | 7 | 1000 felett | 5 |
 
-| 8 | Beltenyésztettség mértékét meghatározza | Támogatási kérelem szerint | 15 |
+| 8 | Az állatállományok genetikai jellemzőit vagy a beltenyésztettség mértékét meghatározza | Támogatási kérelem szerint | 15 |
 
-| 9 | Az állatgenetikai erőforrások megőrzése területén tevékenykedő nemzetközi szervezetben közreműködik |  | 10 |
+| 9 | Az állatgenetikai erőforrásokkal foglalkozó nemzetközi szervezetben tagdíjat fizet |  | 10 |
 
 | 10 | Mindösszesen |  | Max. 65 pont |
+
+[^31]: A 3. melléklet a 138/2012. (XII. 22.) VM rendelet 20. § (1) bekezdése szerint módosított szöveg.

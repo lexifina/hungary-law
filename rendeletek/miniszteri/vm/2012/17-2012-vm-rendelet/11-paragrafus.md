@@ -1,9 +1,11 @@
-11. § (1) A tenyésztésszervezés célprogram esetén a támogatásra jogosult köteles a támogatási időszak alatt folyamatosan
+11. § (1)[^11] A tenyésztésszervezés célprogram esetén a támogatásra jogosult köteles a támogatási időszak kezdetétől annak végéig folyamatosan
 
 a) tenyésztésvezetőt, és
 
 b) ha az elismert tenyésztőszervezet által törzskönyvi ellenőrzésben tartott tenyészetek száma meghaladja a 25 tenyészetet, körzeti tenyésztőt
 
-## alkalmazni.
+alkalmazni.
 
 (2) A tenyésztésvezető és a körzeti tenyésztő személye a támogatási időszak alatt változhat.
+
+[^11]: A 11. § (1) bekezdése a 138/2012. (XII. 22.) VM rendelet 11. §-ával megállapított szöveg.

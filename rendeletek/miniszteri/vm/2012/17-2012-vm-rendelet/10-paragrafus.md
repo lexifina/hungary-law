@@ -1,5 +1,3 @@
-## 9. § Az in vitro megőrzés célprogram esetén a támogatásra jogosult köteles a támogatási időszak alatt az adott fajta egyedeitől genetikai anyagot mélyhűtve betárolni.
-
 10. § (1) Ex situ megőrzés célprogram esetén a támogatásra jogosult köteles a támogatási időszak alatt a tenyészeteihez tartozó tartási helyen a támogatott állatállomány tekintetében a tenyésztési programban meghatározott tartási és takarmányozási körülményeket biztosítani.
 
 (2) Ex situ megőrzés célprogram esetén a támogatásra jogosult – a tenyésztési hatóság által jóváhagyott tenyésztési programban meghatározott – naprakész tenyésztési dokumentációt vezet vagy vezettet a tenyésztési program végrehajtásáról.

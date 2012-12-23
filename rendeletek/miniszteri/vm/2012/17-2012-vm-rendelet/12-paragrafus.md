@@ -21,3 +21,20 @@ bc) mitokondriális DNS vizsgálattal
 ## történő elvégzésére.
 
 (6) A tájékoztatás és ismeretterjesztés célprogram esetén valamely – az állatgenetikai erőforrásokkal foglalkozó – nemzetközi szervezetbeli tagsági díj fizetésekor a támogatásra jogosult kötelezettséget vállal arra, hogy a támogatási időszak végéig az adott nemzetközi szervezet tagja marad, ha a támogatási kérelem benyújtásakor vállalta, hogy nemzetközi szervezetben tagdíjat fizet.
+
+(7)[^12] A 8. § a) és b) pontja szerinti kötelezettség vállalás esetén a támogatásra jogosult köteles az ismeretterjesztő anyagon, szakkönyvön, honlapon, vagy internetes felületen az arculati elemeket megjeleníteni.
+
+(8)[^13] A 8. § c) pontja szerinti rendezvényszervezés esetén a támogatásra jogosult köteles a rendezvény helyén az arculati elemeket feltüntetni.
+
+(9)[^14] A támogatásra jogosult a rendezvény megtartásáról köteles a rendezvény lezárását követően írásbeli emlékeztetőt készíteni, és azt a kifizetési kérelemmel együtt megküldeni az MVH-nak.
+
+(10)[^15] Az írásbeli emlékeztető tartalmazza:
+
+a) a rendezvény helyszínét, időpontját, a rendezvény céljának és eredményének rövid bemutatását,
+
+b) legalább 10 darab, a rendezvény főbb programjait és a rendezvényen elhelyezett arculati elemeket bemutató dátumozott fotót.
+
+[^12]: A 12. § (7) bekezdését a 138/2012. (XII. 22.) VM rendelet 12. §-a iktatta be.
+[^13]: A 12. § (8) bekezdését a 138/2012. (XII. 22.) VM rendelet 12. §-a iktatta be.
+[^14]: A 12. § (9) bekezdését a 138/2012. (XII. 22.) VM rendelet 12. §-a iktatta be.
+[^15]: A 12. § (10) bekezdését a 138/2012. (XII. 22.) VM rendelet 12. §-a iktatta be.

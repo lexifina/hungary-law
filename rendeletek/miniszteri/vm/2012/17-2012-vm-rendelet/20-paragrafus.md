@@ -9,3 +9,10 @@
 (4) Az ex situ megőrzés célprogram (3) bekezdés szerinti adminisztratív ellenőrzése sertés faj esetén az Országos Állattenyésztési Adatbázis alapján történik.
 
 (5) Amennyiben a támogatásra jogosult az adott gazdálkodási évben nem nyújt be kifizetési kérelmet, úgy arra a gazdálkodási évre vonatkozóan nem részesül kifizetésben, a vállalt kötelezettségei azonban az adott gazdálkodási évben is fennállnak, amelyek betartását az MVH helyszíni ellenőrzés keretében vizsgálhatja.
+
+(6)[^22] In vitro megőrzés célprogram esetén az építéssel járó tevékenységek kivitelezése, valamint a gépek, technológiai elemek beszerzése csak a szükséges engedélyek, minőségi tanúsítványok megléte esetén támogatható.
+
+(7)[^23] In vitro megőrzés célprogram esetén az építési tevékenységek költségeinek kifizetése csak a műszaki átadás-átvétel után lehetséges.
+
+[^22]: A 20. § (6) bekezdését a 138/2012. (XII. 22.) VM rendelet 16. §-a iktatta be.
+[^23]: A 20. § (7) bekezdését a 138/2012. (XII. 22.) VM rendelet 16. §-a iktatta be.

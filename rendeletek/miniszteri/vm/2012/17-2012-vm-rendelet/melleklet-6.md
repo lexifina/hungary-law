@@ -1,4 +1,4 @@
-6. melléklet a 17/2012. (II. 29.) VM rendelethez
+6. melléklet a 17/2012. (II. 29.) VM rendelethez[^32]
 
 A tenyészetben tartás minimális ideje (hónap)
 
@@ -12,9 +12,9 @@ A tenyészetben tartás minimális ideje (hónap)
 
 | 4 | Magyartarka szarvasmarha | 6 | – |
 
-| 5 | Ló | – | 60 |
+| 5 | Ló | – | 48 |
 
-| 6 | Szamár | – | 60 |
+| 6 | Szamár | – | 48 |
 
 | 7 | Bivaly | 6 | – |
 
@@ -22,7 +22,7 @@ A tenyészetben tartás minimális ideje (hónap)
 
 | 9 | Kecske | 6 | – |
 
-| 10 | Sertés | 30 | 24 |
+| 10 | Sertés | 6 | 6 |
 
 | 11 | Házityúk* | 6 | 6 |
 
@@ -35,3 +35,5 @@ A tenyészetben tartás minimális ideje (hónap)
 | 15 | Lúd* | 6 | 6 |
 
 * BIR szerint termelésbe állítástól számítva
+
+[^32]: A 6. melléklet a 138/2012. (XII. 22.) VM rendelet 20. § (2) bekezdése szerint módosított szöveg.

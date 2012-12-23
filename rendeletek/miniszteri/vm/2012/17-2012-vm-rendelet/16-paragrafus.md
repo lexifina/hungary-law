@@ -6,7 +6,7 @@ a) a teljes támogatási kérelmét, vagy
 
 b) a 2. § (1) bekezdés a) és b) pont szerinti célprogramok esetében a támogatási kérelemnek helyt adó vagy részben helyt adó támogatási határozatban foglalt genetikai anyag és állatok legfeljebb 25%-át, vagy
 
-c) a 2. § (1) bekezdés c) és d) pont szerinti célprogramok esetében a támogatási igény legfeljebb 25%-át.
+c)[^19] a 2. § (1) bekezdés c) és d) pontja szerinti célprogramok esetében a támogatási kérelemnek helyt adó vagy részben helyt adó támogatási határozatban foglalt támogatási igény legfeljebb 25%-át.
 
 (2) Az (1) bekezdés alapján visszavont tétel támogatási jogosultsága megszűnik, és a visszavont tételekre már igénybe vett teljes támogatási összeget – a vis maior események kivételével – a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni.
 
@@ -19,3 +19,5 @@ b) 3. gazdálkodási év vonatkozásában: 2014. április 30.;
 c) 4. gazdálkodási év vonatkozásában: 2015. április 30.;
 
 d) 5. gazdálkodási év vonatkozásában: 2016. április 30.
+
+[^19]: A 16. § (1) bekezdés c) pontja a 138/2012. (XII. 22.) VM rendelet 14. §-ával megállapított szöveg.
